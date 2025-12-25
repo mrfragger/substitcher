@@ -1,0 +1,40 @@
+name: substitcher
+description: Audiobook encoder and player with subtitle support
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # File system
+  file_picker: ^10.3.8
+  path_provider: ^2.1.1
+  path: ^1.9.0
+  
+  # Process execution (FFmpeg calls)
+  process_run: ^1.2.0
+  
+  # State management
+  flutter_riverpod: ^3.0.3
+  
+  # Audio player
+  media_kit: ^1.1.11
+  media_kit_libs_macos_audio: ^1.0.4
+  media_kit_libs_linux: ^1.0.4
+  
+  # UI
+  cupertino_icons: ^1.0.6
+  shared_preferences: ^2.3.3
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true

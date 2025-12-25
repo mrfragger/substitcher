@@ -1,0 +1,214 @@
+name: Build Release
+
+on:
+  push:
+    tags:
+      - 'v*'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-macos:
+      runs-on: macos-latest
+      steps:
+        - uses: actions/checkout@v4
+        
+        - uses: subosito/flutter-action@v2
+          with:
+            channel: 'stable'
+        
+        - name: Build macOS
+          run: |
+            flutter pub get
+            flutter build macos --release
+            
+            codesign --force --deep --sign - \
+              --entitlements macos/Runner/Release.entitlements \
+              build/macos/Build/Products/Release/substitcher.app
+        
+        - name: Create DMG
+          run: |
+            brew install create-dmg
+            create-dmg \
+              --volname "SubStitcher" \
+              --window-pos 200 120 \
+              --window-size 600 300 \
+              --icon-size 100 \
+              --app-drop-link 425 120 \
+              "SubStitcher-macOS.dmg" \
+              "build/macos/Build/Products/Release/substitcher.app"
+        
+        - name: Upload macOS artifact
+          uses: actions/upload-artifact@v4
+          with:
+            name: macos-build
+            path: SubStitcher-macOS.dmg
+
+  build-linux:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - uses: subosito/flutter-action@v2
+        with:
+          channel: 'stable'
+      
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y clang cmake ninja-build pkg-config libgtk-3-dev liblzma-dev libmpv-dev mpv \
+            nasm yasm
+      
+      - name: Build minimal LGPL FFmpeg
+        run: |
+          wget https://ffmpeg.org/releases/ffmpeg-8.0.1.tar.xz
+          tar xf ffmpeg-8.0.1.tar.xz
+          cd ffmpeg-8.0.1
+          
+          ./configure \
+            --prefix=$PWD/../ffmpeg-install \
+            --disable-shared \
+            --enable-static \
+            --disable-gpl \
+            --disable-nonfree \
+            --disable-doc \
+            --disable-debug \
+            --disable-everything \
+            --disable-xlib \
+            --disable-libxcb \
+            --disable-libxcb-shm \
+            --disable-libxcb-xfixes \
+            --disable-libxcb-shape \
+            --enable-ffmpeg \
+            --enable-ffprobe \
+            --enable-decoder=opus,aac,aac_fixed,aac_latm,mp3,mp3float,pcm_s16le,pcm_s24le,pcm_f32le,flac,vorbis,alac \
+            --enable-encoder=opus,aac,pcm_s16le \
+            --enable-demuxer=opus,ogg,matroska,wav,mp3,aac,m4a,mov,flac \
+            --enable-muxer=opus,ogg,matroska,wav,ipod,mp4 \
+            --enable-parser=opus,aac,aac_latm,mp3,flac,vorbis \
+            --enable-protocol=file \
+            --enable-filter=volume,equalizer,highpass,lowpass,aformat,aresample,atempo
+          
+          make -j$(nproc)
+          make install
+          
+          strip ../ffmpeg-install/bin/ffmpeg
+          strip ../ffmpeg-install/bin/ffprobe
+          
+          mkdir -p ../bin
+          cp ../ffmpeg-install/bin/ffmpeg ../bin/
+          cp ../ffmpeg-install/bin/ffprobe ../bin/
+          chmod +x ../bin/ffmpeg
+          chmod +x ../bin/ffprobe
+      
+      - name: Build Linux
+        run: |
+          flutter pub get
+          flutter build linux --release
+          
+          cp bin/ffmpeg build/linux/x64/release/bundle/
+          cp bin/ffprobe build/linux/x64/release/bundle/
+      
+      - name: Create AppImage
+        run: |
+          chmod +x build_appimage.sh
+          ./build_appimage.sh
+      
+      - name: Upload Linux artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: linux-build
+          path: substitcher-*.AppImage
+
+  build-windows:
+      runs-on: windows-latest
+      steps:
+        - uses: actions/checkout@v4
+        
+        - uses: subosito/flutter-action@v2
+          with:
+            channel: 'stable'
+        
+        - name: Install MSYS2 and build FFmpeg
+          shell: powershell
+          run: |
+            choco install msys2 -y
+            $env:PATH = "C:\tools\msys64\usr\bin;$env:PATH"
+            
+            Invoke-WebRequest -Uri "https://ffmpeg.org/releases/ffmpeg-8.0.1.tar.xz" -OutFile "ffmpeg.tar.xz"
+            
+            C:\tools\msys64\usr\bin\bash.exe -lc @"
+            cd /c/Users/runneradmin/work/substitcher/substitcher
+            tar xf ffmpeg.tar.xz
+            cd ffmpeg-8.0.1
+            
+            ./configure \
+              --prefix=/c/Users/runneradmin/work/substitcher/substitcher/ffmpeg-install \
+              --disable-shared \
+              --enable-static \
+              --disable-gpl \
+              --disable-nonfree \
+              --disable-doc \
+              --disable-debug \
+              --disable-everything \
+              --enable-ffmpeg \
+              --enable-ffprobe \
+              --enable-decoder=opus,aac,aac_fixed,aac_latm,mp3,mp3float,pcm_s16le,pcm_s24le,pcm_f32le,flac,vorbis,alac \
+              --enable-encoder=opus,aac,pcm_s16le \
+              --enable-demuxer=opus,ogg,matroska,wav,mp3,aac,m4a,mov,flac \
+              --enable-muxer=opus,ogg,matroska,wav,ipod,mp4 \
+              --enable-parser=opus,aac,aac_latm,mp3,flac,vorbis \
+              --enable-protocol=file \
+              --enable-filter=volume,equalizer,highpass,lowpass,aformat,aresample,atempo
+            
+            make -j\$(nproc)
+            make install
+            
+            strip /c/Users/runneradmin/work/substitcher/substitcher/ffmpeg-install/bin/ffmpeg.exe
+            strip /c/Users/runneradmin/work/substitcher/substitcher/ffmpeg-install/bin/ffprobe.exe
+            "@
+            
+            mkdir -Force windows\runner\Resources\bin
+            Copy-Item "ffmpeg-install\bin\ffmpeg.exe" "windows\runner\Resources\bin\"
+            Copy-Item "ffmpeg-install\bin\ffprobe.exe" "windows\runner\Resources\bin\"
+        
+        - name: Build Windows
+          run: |
+            flutter pub get
+            flutter build windows --release
+        
+        - name: Copy FFmpeg to build output
+          run: |
+            mkdir -Force build\windows\x64\runner\Release\data\flutter_assets\bin
+            Copy-Item "windows\runner\Resources\bin\ffmpeg.exe" "build\windows\x64\runner\Release\data\flutter_assets\bin\"
+            Copy-Item "windows\runner\Resources\bin\ffprobe.exe" "build\windows\x64\runner\Release\data\flutter_assets\bin\"
+        
+        - name: Create ZIP
+          run: |
+            Compress-Archive -Path build\windows\x64\runner\Release\* -DestinationPath SubStitcher-Windows.zip
+        
+        - name: Upload Windows artifact
+          uses: actions/upload-artifact@v4
+          with:
+            name: windows-build
+            path: SubStitcher-Windows.zip
+
+  create-release:
+    needs: [build-macos, build-linux, build-windows]
+    runs-on: ubuntu-latest
+    if: startsWith(github.ref, 'refs/tags/')
+    steps:
+      - name: Download all artifacts
+        uses: actions/download-artifact@v4
+      
+      - name: Create Release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: |
+            macos-build/SubStitcher-macOS.dmg
+            linux-build/substitcher-*.AppImage
+            windows-build/SubStitcher-Windows.zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

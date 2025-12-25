@@ -1,0 +1,16 @@
+ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES
+CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = NO
+FRAMEWORK_SEARCH_PATHS = $(inherited) "${PODS_CONFIGURATION_BUILD_DIR}/file_picker" "${PODS_CONFIGURATION_BUILD_DIR}/media_kit_libs_macos_audio" "${PODS_CONFIGURATION_BUILD_DIR}/path_provider_foundation" "${PODS_CONFIGURATION_BUILD_DIR}/shared_preferences_foundation" "${PODS_ROOT}/../Flutter/ephemeral/.symlinks/plugins/media_kit_libs_macos_audio/macos/Frameworks" "${PODS_XCFRAMEWORKS_BUILD_DIR}/media_kit_libs_macos_audio"
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = $(inherited) "${PODS_CONFIGURATION_BUILD_DIR}/file_picker/file_picker.framework/Headers" "${PODS_CONFIGURATION_BUILD_DIR}/media_kit_libs_macos_audio/media_kit_libs_macos_audio.framework/Headers" "${PODS_CONFIGURATION_BUILD_DIR}/path_provider_foundation/path_provider_foundation.framework/Headers" "${PODS_CONFIGURATION_BUILD_DIR}/shared_preferences_foundation/shared_preferences_foundation.framework/Headers"
+LD_RUNPATH_SEARCH_PATHS = $(inherited) /usr/lib/swift '@executable_path/../Frameworks' '@loader_path/Frameworks' "${TOOLCHAIN_DIR}/usr/lib/swift/${PLATFORM_NAME}"
+LIBRARY_SEARCH_PATHS = $(inherited) "${TOOLCHAIN_DIR}/usr/lib/swift/${PLATFORM_NAME}" /usr/lib/swift $(TOOLCHAIN_DIR)/usr/lib/swift/$(PLATFORM_NAME)/ $(SDKROOT)/usr/lib/swift
+OTHER_LDFLAGS = $(inherited) -framework "Avcodec" -framework "Avfilter" -framework "Avformat" -framework "Avutil" -framework "Mbedcrypto" -framework "Mbedtls" -framework "Mbedx509" -framework "Mpv" -framework "Swresample" -framework "Swscale" -framework "file_picker" -framework "media_kit_libs_macos_audio" -framework "path_provider_foundation" -framework "shared_preferences_foundation"
+OTHER_MODULE_VERIFIER_FLAGS = $(inherited) "-F${PODS_CONFIGURATION_BUILD_DIR}/FlutterMacOS" "-F${PODS_CONFIGURATION_BUILD_DIR}/file_picker" "-F${PODS_CONFIGURATION_BUILD_DIR}/media_kit_libs_macos_audio" "-F${PODS_CONFIGURATION_BUILD_DIR}/path_provider_foundation" "-F${PODS_CONFIGURATION_BUILD_DIR}/shared_preferences_foundation"
+OTHER_SWIFT_FLAGS = $(inherited) -D COCOAPODS
+PODS_BUILD_DIR = ${BUILD_DIR}
+PODS_CONFIGURATION_BUILD_DIR = ${PODS_BUILD_DIR}/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)
+PODS_PODFILE_DIR_PATH = ${SRCROOT}/.
+PODS_ROOT = ${SRCROOT}/Pods
+PODS_XCFRAMEWORKS_BUILD_DIR = $(PODS_CONFIGURATION_BUILD_DIR)/XCFrameworkIntermediates
+USE_RECURSIVE_SCRIPT_INPUTS_IN_SCRIPT_PHASES = YES
