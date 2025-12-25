@@ -137,25 +137,27 @@ jobs:
             with:
               channel: 'stable'
           
-          - name: Install MSYS2 and build tools
-            shell: powershell
-            run: |
-              choco install msys2 -y
-              $env:PATH = "C:\tools\msys64\usr\bin;C:\tools\msys64\mingw64\bin;$env:PATH"
-              C:\tools\msys64\usr\bin\bash.exe -lc "pacman -Sy --noconfirm make diffutils"
+          - name: Setup MSYS2
+            uses: msys2/setup-msys2@v2
+            with:
+              msystem: MINGW64
+              update: true
+              install: >-
+                base-devel
+                mingw-w64-x86_64-toolchain
+                mingw-w64-x86_64-cmake
+                mingw-w64-x86_64-nasm
+                mingw-w64-x86_64-yasm
           
           - name: Download and build FFmpeg
-            shell: powershell
+            shell: msys2 {0}
             run: |
-              Invoke-WebRequest -Uri "https://ffmpeg.org/releases/ffmpeg-8.0.1.tar.xz" -OutFile "ffmpeg.tar.xz"
-              
-              C:\tools\msys64\usr\bin\bash.exe -lc @"
-              cd `$GITHUB_WORKSPACE
+              curl -L https://ffmpeg.org/releases/ffmpeg-8.0.1.tar.xz -o ffmpeg.tar.xz
               tar xf ffmpeg.tar.xz
               cd ffmpeg-8.0.1
               
               ./configure \
-                --prefix=`$GITHUB_WORKSPACE/ffmpeg-install \
+                --prefix=/d/a/substitcher/substitcher/ffmpeg-install \
                 --disable-shared \
                 --enable-static \
                 --disable-gpl \
@@ -173,13 +175,18 @@ jobs:
                 --enable-protocol=file \
                 --enable-filter=volume,equalizer,highpass,lowpass,aformat,aresample,atempo
               
-              make -j`$(nproc)
+              make -j$(nproc)
               make install
               
-              strip `$GITHUB_WORKSPACE/ffmpeg-install/bin/ffmpeg.exe
-              strip `$GITHUB_WORKSPACE/ffmpeg-install/bin/ffprobe.exe
-              "@
+              strip /d/a/substitcher/substitcher/ffmpeg-install/bin/ffmpeg.exe
+              strip /d/a/substitcher/substitcher/ffmpeg-install/bin/ffprobe.exe
               
+              echo "Binary sizes:"
+              ls -lh /d/a/substitcher/substitcher/ffmpeg-install/bin/
+          
+          - name: Copy FFmpeg binaries
+            shell: powershell
+            run: |
               mkdir -Force windows\runner\Resources\bin
               Copy-Item "ffmpeg-install\bin\ffmpeg.exe" "windows\runner\Resources\bin\"
               Copy-Item "ffmpeg-install\bin\ffprobe.exe" "windows\runner\Resources\bin\"
