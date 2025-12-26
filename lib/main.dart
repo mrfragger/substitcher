@@ -1,10 +1,18 @@
 import 'package:flutter/material.dart';
 import 'package:media_kit/media_kit.dart';
+import 'package:window_manager/window_manager.dart';
+import 'dart:io';
 import 'screens/player_screen.dart';
 
-void main() {
+void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   MediaKit.ensureInitialized();
+  
+  if (Platform.isWindows || Platform.isLinux || Platform.isMacOS) {
+    await windowManager.ensureInitialized();
+    await windowManager.setTitle('SubStitcher 25.12.26');
+  }
+  
   runApp(const MyApp());
 }
 
@@ -14,7 +22,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'SubStitcher',
+      title: 'SubStitcher 25.12.26',
       themeMode: ThemeMode.dark,
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(

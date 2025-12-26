@@ -150,6 +150,8 @@ class _PlayerScreenState extends State<PlayerScreen> {
   String _currentSubtitleText = '';
   String? _subtitleFilePath;
   double _subtitleFontSize = 44.0;
+  double? _sliderHoverPosition;
+  String? _hoveredChapterTitle;
 
   List<Bookmark> _bookmarks = [];
   String _searchQuery = '';
@@ -1204,7 +1206,7 @@ Future<void> _openAudiobook([String? filePath]) async {
               child: Container(
                 padding: const EdgeInsets.all(16),
                 decoration: BoxDecoration(
-                  color: Colors.black.withOpacity(0.7),
+                  color: Colors.black.withValues(alpha: 0.7),
                   borderRadius: BorderRadius.circular(8),
                 ),
                 child: Text(
@@ -1227,39 +1229,133 @@ Future<void> _openAudiobook([String? filePath]) async {
           child: Column(
             children: [
               MouseRegion(
-                child: SliderTheme(
-                  data: SliderTheme.of(context).copyWith(
-                    trackHeight: 4,
-                    thumbShape: const RoundSliderThumbShape(enabledThumbRadius: 6),
-                    overlayShape: const RoundSliderOverlayShape(overlayRadius: 12),
-                  ),
+                onHover: (event) {
+                  final localX = event.localPosition.dx;
+                  final sliderWidth = MediaQuery.of(context).size.width - 64;
+                  
+                  setState(() {
+                    _sliderHoverPosition = localX;
+                    
+                    final totalMillis = _totalDuration.inMilliseconds;
+                    if (totalMillis > 0 && _currentAudiobook != null) {
+                      final hoverTime = Duration(
+                        milliseconds: ((localX / sliderWidth) * totalMillis).toInt()
+                      );
+                      
+                      for (final chapter in _currentAudiobook!.chapters) {
+                        if (hoverTime >= chapter.startTime && hoverTime < chapter.endTime) {
+                          _hoveredChapterTitle = chapter.title;
+                          break;
+                        }
+                      }
+                    }
+                  });
+                },
+                onExit: (_) {
+                  setState(() {
+                    _sliderHoverPosition = null;
+                    _hoveredChapterTitle = null;
+                  });
+                },
+                child: GestureDetector(
+                  onTapDown: (details) {
+                    final localX = details.localPosition.dx;
+                    final sliderWidth = MediaQuery.of(context).size.width - 64;
+                    final totalMillis = _totalDuration.inMilliseconds;
+                    
+                    if (totalMillis > 0 && _currentAudiobook != null) {
+                      final clickTime = Duration(
+                        milliseconds: ((localX / sliderWidth) * totalMillis).toInt()
+                      );
+                      
+                      for (var i = 0; i < _currentAudiobook!.chapters.length; i++) {
+                        final chapter = _currentAudiobook!.chapters[i];
+                        final chapterPosX = (chapter.startTime.inMilliseconds / totalMillis) * sliderWidth;
+                        
+                        if ((localX - chapterPosX).abs() < 15) {
+                          _jumpToChapter(i);
+                          return;
+                        }
+                      }
+                    }
+                  },
                   child: Stack(
+                    clipBehavior: Clip.none,
                     children: [
-                      Positioned.fill(
-                        child: CustomPaint(
-                          painter: ChapterMarkerPainter(
-                            chapters: _currentAudiobook!.chapters,
-                            totalDuration: _totalDuration,
+                      Column(
+                        children: [
+                          SizedBox(
+                            height: 20,
+                            child: CustomPaint(
+                              painter: ChapterMarkerPainter(
+                                chapters: _currentAudiobook!.chapters,
+                                totalDuration: _totalDuration,
+                                hoverPosition: _sliderHoverPosition,
+                              ),
+                              size: Size(MediaQuery.of(context).size.width - 64, 20),
+                            ),
+                          ),
+                          const SizedBox(height: 2),
+                          SliderTheme(
+                            data: SliderTheme.of(context).copyWith(
+                              trackHeight: 4,
+                              thumbShape: const RoundSliderThumbShape(enabledThumbRadius: 6),
+                              overlayShape: const RoundSliderOverlayShape(overlayRadius: 12),
+                            ),
+                            child: Slider(
+                              value: _totalDuration.inMilliseconds > 0 
+                                  ? _currentPosition.inMilliseconds.toDouble().clamp(0, _totalDuration.inMilliseconds.toDouble())
+                                  : 0,
+                              max: _totalDuration.inMilliseconds > 0 ? _totalDuration.inMilliseconds.toDouble() : 1,
+                              onChanged: (value) {
+                                final nearestChapter = _findNearestChapter(value);
+                                if (nearestChapter >= 0) {
+                                  final chapter = _currentAudiobook!.chapters[nearestChapter];
+                                  _seekTo(chapter.startTime);
+                                } else {
+                                  _seekTo(Duration(milliseconds: value.toInt()));
+                                }
+                              },
+                              activeColor: Colors.white70,
+                              inactiveColor: Colors.white24,
+                            ),
+                          ),
+                        ],
+                      ),
+                      if (_hoveredChapterTitle != null && _sliderHoverPosition != null)
+                        Positioned(
+                          left: () {
+                            final sliderWidth = MediaQuery.of(context).size.width - 64;
+                            final tooltipWidth = 250.0;
+                            var leftPos = _sliderHoverPosition! - (tooltipWidth / 2);
+                            
+                            if (leftPos < 0) {
+                              leftPos = 0;
+                            } else if (leftPos + tooltipWidth > sliderWidth) {
+                              leftPos = sliderWidth - tooltipWidth;
+                            }
+                            
+                            return leftPos;
+                          }(),
+                          top: -80,
+                          child: Container(
+                            width: 250,
+                            padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+                            decoration: BoxDecoration(
+                              color: Colors.deepPurple,
+                              borderRadius: BorderRadius.circular(4),
+                            ),
+                            child: Text(
+                              _hoveredChapterTitle!,
+                              style: const TextStyle(
+                                color: Colors.white,
+                                fontSize: 12,
+                              ),
+                              maxLines: 3,
+                              overflow: TextOverflow.ellipsis,
+                            ),
                           ),
                         ),
-                      ),
-                      Slider(
-                        value: _totalDuration.inMilliseconds > 0 
-                            ? _currentPosition.inMilliseconds.toDouble().clamp(0, _totalDuration.inMilliseconds.toDouble())
-                            : 0,
-                        max: _totalDuration.inMilliseconds > 0 ? _totalDuration.inMilliseconds.toDouble() : 1,
-                        onChanged: (value) {
-                          final nearestChapter = _findNearestChapter(value);
-                          if (nearestChapter >= 0) {
-                            final chapter = _currentAudiobook!.chapters[nearestChapter];
-                            _seekTo(chapter.startTime);
-                          } else {
-                            _seekTo(Duration(milliseconds: value.toInt()));
-                          }
-                        },
-                        activeColor: Colors.white70,
-                        inactiveColor: Colors.transparent,
-                      ),
                     ],
                   ),
                 ),
@@ -1280,11 +1376,11 @@ Future<void> _openAudiobook([String? filePath]) async {
                           style: const TextStyle(color: Colors.white70, fontSize: 12),
                         ),
                         Text(
-                          '  ${_formatFileSize(_fileSize)}',
+                          ' ${_formatFileSize(_fileSize)}',
                           style: const TextStyle(color: Colors.white70, fontSize: 12),
                         ),
                         Text(
-                          '  -${_formatDuration(audiobookRemaining)}',
+                          ' -${_formatDuration(audiobookRemaining)}',
                           style: const TextStyle(color: Colors.white70, fontSize: 12),
                         ),
                       ],
@@ -1729,7 +1825,7 @@ Future<void> _openAudiobook([String? filePath]) async {
           title: Text(
             chapter.title,
             style: TextStyle(
-              color: isActive ? Colors.deepPurple : Colors.white,
+              color: isActive ? Colors.purple[200] : Colors.white,
               fontSize: 14,
               fontWeight: isActive ? FontWeight.bold : FontWeight.normal,
             ),
@@ -1947,33 +2043,46 @@ Widget _buildPlaylistList() {
 class ChapterMarkerPainter extends CustomPainter {
   final List<Chapter> chapters;
   final Duration totalDuration;
+  final double? hoverPosition;
 
   ChapterMarkerPainter({
     required this.chapters,
     required this.totalDuration,
+    this.hoverPosition,
   });
 
   @override
   void paint(Canvas canvas, Size size) {
-    final paint = Paint()
-      ..color = Colors.deepPurple
-      ..strokeWidth = 2;
-
     final totalMillis = totalDuration.inMilliseconds;
     if (totalMillis == 0) return;
 
     for (final chapter in chapters) {
       final position = (chapter.startTime.inMilliseconds / totalMillis) * size.width;
-      canvas.drawLine(
-        Offset(position, 0),
-        Offset(position, size.height),
-        paint,
-      );
+      
+      final isHovered = hoverPosition != null && 
+                        (position - hoverPosition!).abs() < 10;
+      
+      final diamondSize = isHovered ? 8.0 : 6.0;
+      
+      final paint = Paint()
+        ..color = Colors.deepPurple
+        ..style = PaintingStyle.fill;
+      
+      final path = Path();
+      path.moveTo(position, size.height / 2 - diamondSize);
+      path.lineTo(position + diamondSize, size.height / 2);
+      path.lineTo(position, size.height / 2 + diamondSize);
+      path.lineTo(position - diamondSize, size.height / 2);
+      path.close();
+      
+      canvas.drawPath(path, paint);
     }
   }
 
   @override
   bool shouldRepaint(ChapterMarkerPainter oldDelegate) {
-    return oldDelegate.chapters != chapters || oldDelegate.totalDuration != totalDuration;
+    return oldDelegate.chapters != chapters || 
+           oldDelegate.totalDuration != totalDuration ||
+           oldDelegate.hoverPosition != hoverPosition;
   }
 }

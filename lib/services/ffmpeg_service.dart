@@ -17,6 +17,72 @@ class FFmpegService {
     _shell = Shell(environment: environment);
   }
 
+  Future<void> extractChapters({
+    required String audiobookPath,
+    required Function(String) onProgress,
+  }) async {
+    await _ensureBinaries();
+    
+    final ext = path.extension(audiobookPath).toLowerCase();
+    if (ext != '.opus' && ext != '.m4a' && ext != '.m4b') {
+      throw Exception('Only .opus, .m4a, and .m4b files are supported for chapter extraction');
+    }
+    
+    final sourceDir = path.dirname(audiobookPath);
+    final chaptersDir = path.join(sourceDir, 'chapters');
+    
+    final outputDir = Directory(chaptersDir);
+    if (!await outputDir.exists()) {
+      await outputDir.create(recursive: true);
+    }
+    
+    onProgress('Reading chapters from audiobook...');
+    
+    final result = await _shell.run(
+      '$_ffprobePath -i "$audiobookPath" -show_chapters -print_format json'
+    );
+    
+    final jsonStr = result.first.stdout.toString();
+    final json = jsonDecode(jsonStr) as Map<String, dynamic>;
+    final chapters = json['chapters'] as List? ?? [];
+    
+    if (chapters.isEmpty) {
+      throw Exception('No chapters found in audiobook');
+    }
+    
+    onProgress('Found ${chapters.length} chapters. Extracting...');
+    
+    for (var i = 0; i < chapters.length; i++) {
+      final chapter = chapters[i] as Map<String, dynamic>;
+      final tags = chapter['tags'] as Map<String, dynamic>? ?? {};
+      
+      final startTime = chapter['start_time'].toString();
+      final endTime = chapter['end_time'].toString();
+      
+      var title = tags['title'] ?? tags['TITLE'] ?? 'Chapter_${i + 1}';
+      title = title.toString()
+          .replaceAll('/', '-')
+          .replaceAll('_', ' ')
+          .trim();
+      
+      final outputExt = (ext == '.m4b') ? '.m4a' : ext;
+      final outputPath = path.join(chaptersDir, '$title$outputExt');
+      
+      onProgress('Extracting chapter ${i + 1}/${chapters.length}: $title');
+      
+      await _shell.run(
+        '$_ffmpegPath -hide_banner -i "$audiobookPath" '
+        '-ss $startTime -to $endTime '
+        '-c:v copy -c:a copy '
+        '-avoid_negative_ts make_zero '
+        '-fflags +genpts '
+        '"$outputPath" -y'
+      );
+    }
+    
+    onProgress('All ${chapters.length} chapters extracted to: $chaptersDir');
+  }
+
   Future<void> _ensureBinaries() async {
       if (_ffmpegPath != null && _ffprobePath != null) return;
   
@@ -195,36 +261,39 @@ class FFmpegService {
     required Function(String) onProgress,
   }) async {
     await _ensureBinaries();
-    final tempDir = Directory.systemTemp.createTempSync('audiobook_');
-    final listFile = File(path.join(tempDir.path, 'list.txt'));
-    final metadataFile = File(path.join(tempDir.path, 'ffmetadata.txt'));
+    
+    final workingDir = path.dirname(opusFiles.first);
+    final listFile = File(path.join(workingDir, 'list.txt'));
+    final metadataFile = File(path.join(workingDir, 'ffmetadata.txt'));
+    final tempOutput = path.join(workingDir, 'temp.opus');
     
     try {
       onProgress('Creating file list...');
       
       final listContent = opusFiles
-          .map((f) => "file '${f.replaceAll("'", "'\\''")}'")
+          .map((f) => "file '${path.basename(f)}'")
           .join('\n');
+      
       await listFile.writeAsString(listContent);
       
       onProgress('Merging files...');
       
-      final tempOutput = path.join(tempDir.path, 'temp.opus');
-      await _shell.run(
-        '$_ffmpegPath -f concat -safe 0 -i "${listFile.path}" '
-        '-map_metadata 0:s:a:0 '
-        '-metadata "Title=${config.title}" '
-        '-metadata "Album=${config.title}" '
-        '-metadata "Artist=${config.author}" '
-        '-metadata "Album Artist=${config.author}" '
-        '-metadata "Year=${config.year}" '
-        '-c copy "$tempOutput" -y'
+      final outputDir = Directory(path.dirname(outputPath));
+      if (!await outputDir.exists()) {
+        await outputDir.create(recursive: true);
+      }
+      
+      final shell = Shell(workingDirectory: workingDir);
+      
+      await shell.run(
+        '$_ffmpegPath -f concat -safe 0 -i "list.txt" '
+        '-c copy "temp.opus" -y'
       );
       
       onProgress('Extracting metadata...');
       
-      await _shell.run(
-        '$_ffmpegPath -y -i "$tempOutput" -f ffmetadata "${metadataFile.path}"'
+      await shell.run(
+        '$_ffmpegPath -y -i "temp.opus" -f ffmetadata "ffmetadata.txt"'
       );
       
       onProgress('Adding chapter markers...');
@@ -237,20 +306,35 @@ class FFmpegService {
       onProgress('Creating final audiobook...');
       
       final coverData = _getBlackCoverPng();
-      await _shell.run(
-        '$_ffmpegPath -i "$tempOutput" -i "${metadataFile.path}" '
+      await shell.run(
+        '$_ffmpegPath -i "temp.opus" -i "ffmetadata.txt" '
         '-map_chapters 1 -map 0:a '
+        '-metadata "title=${config.title}" '
+        '-metadata "album=${config.title}" '
+        '-metadata "artist=${config.author}" '
+        '-metadata "album_artist=${config.author}" '
+        '-metadata "date=${config.year}" '
         '-metadata:s:a METADATA_BLOCK_PICTURE="$coverData" '
         '-c copy "$outputPath" -y'
       );
       
       onProgress('Complete!');
-    } finally {
+      
+      onProgress('Cleaning up temporary files...');
+      
+      if (await listFile.exists()) await listFile.delete();
+      if (await metadataFile.exists()) await metadataFile.delete();
+      if (await File(tempOutput).exists()) await File(tempOutput).delete();
+      
+    } catch (e) {
       try {
-        tempDir.deleteSync(recursive: true);
-      } catch (e) {
-        print('Warning: Could not delete temp dir: $e');
+        if (await listFile.exists()) await listFile.delete();
+        if (await metadataFile.exists()) await metadataFile.delete();
+        if (await File(tempOutput).exists()) await File(tempOutput).delete();
+      } catch (cleanupError) {
+        print('Warning: Could not clean up temp files: $cleanupError');
       }
+      rethrow;
     }
   }
   
@@ -266,8 +350,9 @@ class FFmpegService {
       final duration = await getAudioDuration(opusFile);
       final durationSecs = duration.inMilliseconds / 1000;
       
-      final title = path.basenameWithoutExtension(opusFile)
-          .replaceAll('`', "'");
+      var title = path.basenameWithoutExtension(opusFile);
+      
+      title = title.replaceAll('`', "'");
       
       final hours = duration.inHours;
       final minutes = duration.inMinutes.remainder(60);

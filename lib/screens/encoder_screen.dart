@@ -5,6 +5,7 @@ import 'dart:async';
 import '../models/audio_file.dart';
 import '../models/encoding_config.dart';
 import '../services/ffmpeg_service.dart';
+import 'package:path/path.dart' as path;
 
 class EncoderScreen extends StatefulWidget {
   const EncoderScreen({super.key});
@@ -25,6 +26,8 @@ class _EncoderScreenState extends State<EncoderScreen> {
   List<AudioFile>? _titleCaseHistory;
   String? _lastEncodedPath;
   String? _lastEncodingTime;
+  bool _extracting = false;
+  String _extractionStatus = '';
   
   int _bitrate = 16;
   bool _removeSilence = true;
@@ -152,6 +155,60 @@ class _EncoderScreenState extends State<EncoderScreen> {
             : file.originalTitle,
       )).toList();
     });
+  }
+
+  Future<void> _extractChapters() async {
+    final result = await FilePicker.platform.pickFiles(
+      type: FileType.custom,
+      allowedExtensions: ['opus', 'm4a', 'm4b'],
+    );
+    
+    if (result == null || result.files.isEmpty) return;
+    
+    final filePath = result.files.first.path!;
+    final ext = path.extension(filePath).toLowerCase();
+    
+    if (ext != '.opus' && ext != '.m4a' && ext != '.m4b') {
+      _showError('Please select an .opus, .m4a, or .m4b file');
+      return;
+    }
+    
+    setState(() {
+      _extracting = true;
+      _extractionStatus = 'Starting extraction...';
+    });
+    
+    final startTime = DateTime.now();
+    
+    try {
+      await _ffmpeg.extractChapters(
+        audiobookPath: filePath,
+        onProgress: (message) {
+          if (mounted) {
+            setState(() {
+              _extractionStatus = message;
+            });
+          }
+        },
+      );
+      
+      final elapsed = DateTime.now().difference(startTime);
+      final minutes = elapsed.inMinutes;
+      final seconds = elapsed.inSeconds.remainder(60);
+      
+      setState(() {
+        _extracting = false;
+        _extractionStatus = 'Complete!';
+      });
+      
+      _showSuccess('Chapters extracted in ${minutes}m ${seconds}s');
+    } catch (e) {
+      setState(() {
+        _extracting = false;
+        _extractionStatus = 'Error: $e';
+      });
+      _showError('Extraction failed: $e');
+    }
   }
   
   Future<void> _pickFiles() async {
@@ -321,7 +378,20 @@ class _EncoderScreenState extends State<EncoderScreen> {
       for (var i = 0; i < _files.length; i++) {
         final file = _files[i];
         final index = i;
-        final displayTitle = file.displayTitle;
+        var displayTitle = file.displayTitle;
+        
+        displayTitle = displayTitle
+            .replaceAll('/', '-')
+            .replaceAll("'", '`')
+            .replaceAll('"', '`')
+            .replaceAll(':', '-')
+            .replaceAll('\\', '-')
+            .replaceAll('|', '-')
+            .replaceAll('?', '')
+            .replaceAll('*', '')
+            .replaceAll('<', '')
+            .replaceAll('>', '');
+        
         final outputPath = '$tempDir/$displayTitle.opus';
         
         final future = semaphore.acquire().then((_) async {
@@ -373,7 +443,7 @@ class _EncoderScreenState extends State<EncoderScreen> {
           setState(() => _statusMessage = message);
         },
       );
-
+  
       final originalDuration = _totalDuration;
       final finalDuration = await _calculateFinalDuration(encodedFiles);
       
@@ -769,7 +839,7 @@ class _EncoderScreenState extends State<EncoderScreen> {
             children: [
               Expanded(
                 child: ElevatedButton.icon(
-                  onPressed: _encoding ? null : _pickFiles,
+                  onPressed: (_encoding || _extracting) ? null : _pickFiles,
                   icon: const Icon(Icons.add),
                   label: const Text('Add Files'),
                   style: ElevatedButton.styleFrom(
@@ -780,7 +850,7 @@ class _EncoderScreenState extends State<EncoderScreen> {
               const SizedBox(width: 16),
               Expanded(
                 child: ElevatedButton.icon(
-                  onPressed: _encoding ? null : _pickFolder,
+                  onPressed: (_encoding || _extracting) ? null : _pickFolder,
                   icon: const Icon(Icons.folder),
                   label: const Text('Add Folder'),
                   style: ElevatedButton.styleFrom(
@@ -792,7 +862,7 @@ class _EncoderScreenState extends State<EncoderScreen> {
               Expanded(
                 flex: 2,
                 child: ElevatedButton.icon(
-                  onPressed: (_encoding || _files.isEmpty) ? null : _startEncoding,
+                  onPressed: (_encoding || _extracting || _files.isEmpty) ? null : _startEncoding,
                   icon: const Icon(Icons.play_arrow),
                   label: const Text('Encode Audiobook'),
                   style: ElevatedButton.styleFrom(
@@ -802,8 +872,36 @@ class _EncoderScreenState extends State<EncoderScreen> {
                   ),
                 ),
               ),
+              const SizedBox(width: 16),
+              Expanded(
+                child: ElevatedButton.icon(
+                  onPressed: (_encoding || _extracting) ? null : _extractChapters,
+                  icon: const Icon(Icons.splitscreen),
+                  label: const Text('Extract Chapters'),
+                  style: ElevatedButton.styleFrom(
+                    padding: const EdgeInsets.all(16),
+                  ),
+                ),
+              ),
             ],
           ),
+          if (_extracting) ...[
+            const SizedBox(height: 12),
+            Container(
+              padding: const EdgeInsets.all(12),
+              decoration: BoxDecoration(
+                color: Theme.of(context).colorScheme.primaryContainer,
+                borderRadius: BorderRadius.circular(8),
+              ),
+              child: Column(
+                children: [
+                  const LinearProgressIndicator(),
+                  const SizedBox(height: 8),
+                  Text(_extractionStatus),
+                ],
+              ),
+            ),
+          ],
           if (_lastEncodedPath != null && _lastEncodingTime != null) ...[
             const SizedBox(height: 12),
             Container(

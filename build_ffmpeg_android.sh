@@ -86,8 +86,8 @@ build_arch() {
     --enable-ffprobe \
     --enable-decoder=opus,aac,aac_fixed,aac_latm,mp3,mp3float,pcm_s16le,pcm_s24le,pcm_f32le,flac,vorbis,alac \
     --enable-encoder=opus,aac,pcm_s16le \
-    --enable-demuxer=opus,ogg,matroska,wav,mp3,aac,m4a,mov,flac \
-    --enable-muxer=opus,ogg,matroska,wav,ipod,mp4 \
+    --enable-demuxer=ffmetadata,concat,opus,ogg,matroska,wav,mp3,aac,m4a,mov,flac \
+    --enable-muxer=ffmetadata,opus,ogg,matroska,wav,ipod,mp4 \
     --enable-parser=opus,aac,aac_latm,mp3,flac,vorbis \
     --enable-protocol=file \
     --enable-filter=volume,equalizer,highpass,lowpass,aformat,aresample,atempo
