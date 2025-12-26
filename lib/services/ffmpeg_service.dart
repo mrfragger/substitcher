@@ -18,70 +18,78 @@ class FFmpegService {
   }
 
   Future<void> _ensureBinaries() async {
-    if (_ffmpegPath != null && _ffprobePath != null) return;
+      if (_ffmpegPath != null && _ffprobePath != null) return;
   
-    if (Platform.isMacOS) {
-      final executablePath = Platform.resolvedExecutable;
-      final bundleDir = path.dirname(path.dirname(executablePath));
-      final resourcesDir = path.join(bundleDir, 'Resources', 'bin');
-      
-      final bundledFfmpeg = path.join(resourcesDir, 'ffmpeg');
-      final bundledFfprobe = path.join(resourcesDir, 'ffprobe');
-  
-      if (await File(bundledFfmpeg).exists() && await File(bundledFfprobe).exists()) {
-        _ffmpegPath = bundledFfmpeg;
-        _ffprobePath = bundledFfprobe;
-        print('Using bundled ffmpeg: $_ffmpegPath');
-        print('Using bundled ffprobe: $_ffprobePath');
+      if (Platform.isAndroid) {
+        final appLibDir = '/data/data/com.example.substitcher/lib';
+        _ffmpegPath = '$appLibDir/libffmpeg.so';
+        _ffprobePath = '$appLibDir/libffprobe.so';
+        
+        print('Using Android ffmpeg: $_ffmpegPath');
+        print('Using Android ffprobe: $_ffprobePath');
         return;
+      } else if (Platform.isMacOS) {
+        final executablePath = Platform.resolvedExecutable;
+        final bundleDir = path.dirname(path.dirname(executablePath));
+        final resourcesDir = path.join(bundleDir, 'Resources', 'bin');
+        
+        final bundledFfmpeg = path.join(resourcesDir, 'ffmpeg');
+        final bundledFfprobe = path.join(resourcesDir, 'ffprobe');
+    
+        if (await File(bundledFfmpeg).exists() && await File(bundledFfprobe).exists()) {
+          _ffmpegPath = bundledFfmpeg;
+          _ffprobePath = bundledFfprobe;
+          print('Using bundled ffmpeg: $_ffmpegPath');
+          print('Using bundled ffprobe: $_ffprobePath');
+          return;
+        }
+    
+        _ffmpegPath = '/opt/homebrew/bin/ffmpeg';
+        _ffprobePath = '/opt/homebrew/bin/ffprobe';
+        print('Using system ffmpeg: $_ffmpegPath');
+      } else if (Platform.isLinux) {
+        final executablePath = Platform.resolvedExecutable;
+        final executableDir = path.dirname(executablePath);
+        final bundledBinDir = path.join(executableDir, 'bin');
+        
+        final bundledFfmpeg = path.join(bundledBinDir, 'ffmpeg');
+        final bundledFfprobe = path.join(bundledBinDir, 'ffprobe');
+    
+        if (await File(bundledFfmpeg).exists() && await File(bundledFfprobe).exists()) {
+          _ffmpegPath = bundledFfmpeg;
+          _ffprobePath = bundledFfprobe;
+          print('Using bundled ffmpeg: $_ffmpegPath');
+          print('Using bundled ffprobe: $_ffprobePath');
+          return;
+        }
+    
+        _ffmpegPath = 'ffmpeg';
+        _ffprobePath = 'ffprobe';
+        print('Using system ffmpeg');
+      } else if (Platform.isWindows) {
+        final executablePath = Platform.resolvedExecutable;
+        final executableDir = path.dirname(executablePath);
+        final bundledBinDir = path.join(executableDir, 'data', 'flutter_assets', 'bin');
+        
+        final bundledFfmpeg = path.join(bundledBinDir, 'ffmpeg.exe');
+        final bundledFfprobe = path.join(bundledBinDir, 'ffprobe.exe');
+    
+        if (await File(bundledFfmpeg).exists() && await File(bundledFfprobe).exists()) {
+          _ffmpegPath = bundledFfmpeg;
+          _ffprobePath = bundledFfprobe;
+          print('Using bundled ffmpeg: $_ffmpegPath');
+          print('Using bundled ffprobe: $_ffprobePath');
+          return;
+        }
+    
+        _ffmpegPath = 'ffmpeg';
+        _ffprobePath = 'ffprobe';
+        print('Using system ffmpeg');
+      } else {
+        _ffmpegPath = 'ffmpeg';
+        _ffprobePath = 'ffprobe';
       }
-  
-      _ffmpegPath = '/opt/homebrew/bin/ffmpeg';
-      _ffprobePath = '/opt/homebrew/bin/ffprobe';
-      print('Using system ffmpeg: $_ffmpegPath');
-    } else if (Platform.isLinux) {
-      final executablePath = Platform.resolvedExecutable;
-      final executableDir = path.dirname(executablePath);
-      final bundledBinDir = path.join(executableDir, 'bin');
-      
-      final bundledFfmpeg = path.join(bundledBinDir, 'ffmpeg');
-      final bundledFfprobe = path.join(bundledBinDir, 'ffprobe');
-  
-      if (await File(bundledFfmpeg).exists() && await File(bundledFfprobe).exists()) {
-        _ffmpegPath = bundledFfmpeg;
-        _ffprobePath = bundledFfprobe;
-        print('Using bundled ffmpeg: $_ffmpegPath');
-        print('Using bundled ffprobe: $_ffprobePath');
-        return;
-      }
-  
-      _ffmpegPath = 'ffmpeg';
-      _ffprobePath = 'ffprobe';
-      print('Using system ffmpeg');
-    } else if (Platform.isWindows) {
-      final executablePath = Platform.resolvedExecutable;
-      final executableDir = path.dirname(executablePath);
-      final bundledBinDir = path.join(executableDir, 'data', 'flutter_assets', 'bin');
-      
-      final bundledFfmpeg = path.join(bundledBinDir, 'ffmpeg.exe');
-      final bundledFfprobe = path.join(bundledBinDir, 'ffprobe.exe');
-  
-      if (await File(bundledFfmpeg).exists() && await File(bundledFfprobe).exists()) {
-        _ffmpegPath = bundledFfmpeg;
-        _ffprobePath = bundledFfprobe;
-        print('Using bundled ffmpeg: $_ffmpegPath');
-        print('Using bundled ffprobe: $_ffprobePath');
-        return;
-      }
-  
-      _ffmpegPath = 'ffmpeg';
-      _ffprobePath = 'ffprobe';
-      print('Using system ffmpeg');
-    } else {
-      _ffmpegPath = 'ffmpeg';
-      _ffprobePath = 'ffprobe';
     }
-  }
   
   Future<bool> checkFFmpegAvailable() async {
     try {

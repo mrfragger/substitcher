@@ -8,7 +8,12 @@ plugins {
 android {
     namespace = "com.example.substitcher"
     compileSdk = flutter.compileSdkVersion
-    ndkVersion = flutter.ndkVersion
+
+    sourceSets {
+        getByName("main") {
+            jniLibs.srcDirs("src/main/jniLibs")
+        }
+    }
 
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_17
