@@ -48,3 +48,21 @@ app.*.map.json
 bin/ffmpeg
 bin/ffprobe
 windows/runner/Resources/bin/
+# Flutter generated files
+**/Flutter/ephemeral/
+**/generated_plugin_registrant.cc
+**/generated_plugin_registrant.dart
+**/generated_plugins.cmake
+**/GeneratedPluginRegistrant.swift
+
+# macOS Pods
+macos/Pods/
+macos/Podfile.lock
+
+# iOS Pods (if you add iOS support later)
+ios/Pods/
+ios/Podfile.lock
+
+# Flutter/Dart build artifacts
+.flutter-plugins
+.flutter-plugins-dependencies
