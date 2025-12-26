@@ -1,16 +1,14 @@
 # substitcher
 
-A new Flutter project.
+Encode an opus chaptered audiobook with any video/audio files.
+Title Case the chapters.
 
-## Getting Started
+opus audiobook player Chapters, History, Playlist, Bookmarks
+can search AND OR or exclude terms for all above
 
-This project is a starting point for a Flutter application.
+## Installing
 
-A few resources to get you started if this is your first Flutter project:
+Mac after downloading dmg and installing to Applications in Terminal
+xattr -dr com.apple.quarantine /Applications/substitcher.app
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+all features are already built using mpv with uosc..plan on re-implementing most features here as that one was pretty much limited to Mac and Linux.
