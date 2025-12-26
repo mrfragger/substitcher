@@ -212,6 +212,70 @@ jobs:
               name: windows-build
               path: SubStitcher-Windows.zip
 
+  build-android:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v4
+        
+        - uses: actions/setup-java@v4
+          with:
+            distribution: 'zulu'
+            java-version: '17'
+        
+        - uses: subosito/flutter-action@v2
+          with:
+            channel: 'stable'
+        
+        - name: Build minimal LGPL FFmpeg for Android
+          run: |
+            sudo apt-get update
+            sudo apt-get install -y nasm yasm
+            
+            git clone https://github.com/android/ndk-samples.git
+            export ANDROID_NDK=$ANDROID_SDK_ROOT/ndk-bundle
+            
+            wget https://ffmpeg.org/releases/ffmpeg-8.0.1.tar.xz
+            tar xf ffmpeg-8.0.1.tar.xz
+            cd ffmpeg-8.0.1
+            
+            ./configure \
+              --prefix=$PWD/../ffmpeg-install \
+              --disable-shared \
+              --enable-static \
+              --disable-gpl \
+              --disable-nonfree \
+              --disable-doc \
+              --disable-debug \
+              --disable-everything \
+              --enable-ffmpeg \
+              --enable-ffprobe \
+              --enable-cross-compile \
+              --target-os=android \
+              --arch=arm64 \
+              --cpu=armv8-a \
+              --cross-prefix=$ANDROID_NDK/toolchains/llvm/prebuilt/linux-x86_64/bin/aarch64-linux-android- \
+              --enable-decoder=opus,aac,aac_fixed,aac_latm,mp3,mp3float,pcm_s16le,pcm_s24le,pcm_f32le,flac,vorbis,alac \
+              --enable-encoder=opus,aac,pcm_s16le \
+              --enable-demuxer=opus,ogg,matroska,wav,mp3,aac,m4a,mov,flac \
+              --enable-muxer=opus,ogg,matroska,wav,ipod,mp4 \
+              --enable-parser=opus,aac,aac_latm,mp3,flac,vorbis \
+              --enable-protocol=file \
+              --enable-filter=volume,equalizer,highpass,lowpass,aformat,aresample,atempo
+            
+            make -j$(nproc)
+            make install
+        
+        - name: Build Android APK
+          run: |
+            flutter pub get
+            flutter build apk --release
+        
+        - name: Upload Android artifact
+          uses: actions/upload-artifact@v4
+          with:
+            name: android-build
+            path: build/app/outputs/flutter-apk/app-release.apk
+
   create-release:
     needs: [build-macos, build-linux, build-windows]
     runs-on: ubuntu-latest

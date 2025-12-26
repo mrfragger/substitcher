@@ -89,7 +89,7 @@ fi
 
 echo "Creating AppImage..."
 # Extract and run appimagetool since FUSE isn't available in GitHub Actions
-ARCH=x86_64 ./appimagetool-x86_64.AppImage --appimage-extract-and-run $APPDIR $APP_NAME-$APP_VERSION-x86_64.AppImage
+ARCH=x86_64 ./appimagetool-x86_64.AppImage --appimage-extract-and-run $APPDIR $APP_NAME-x86_64.AppImage
 
-echo "AppImage created: $APP_NAME-$APP_VERSION-x86_64.AppImage"
-ls -lh $APP_NAME-$APP_VERSION-x86_64.AppImage
+echo "AppImage created: $APP_NAME-x86_64.AppImage"
+ls -lh $APP_NAME-x86_64.AppImage
