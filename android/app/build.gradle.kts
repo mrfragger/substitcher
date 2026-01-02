@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.example.substitcher"
-    compileSdk = 34  // Explicit version for consistency
+    compileSdk = 36  // Explicit version for consistency
 
     sourceSets {
         getByName("main") {
@@ -28,7 +28,7 @@ android {
     defaultConfig {
         applicationId = "com.example.substitcher"
         minSdk = 24  // Android 7.0 - good tablet/phone coverage
-        targetSdk = 34  // Latest Android
+        targetSdk = 36  // Latest Android
         versionCode = flutter.versionCode
         versionName = flutter.versionName
     }
