@@ -32,20 +32,6 @@ android {
         versionCode = flutter.versionCode
         versionName = flutter.versionName
     }
-
-    buildTypes {
-        release {
-            // Signing with debug keys for now
-            signingConfig = signingConfigs.getByName("debug")
-            
-            // ProGuard for smaller APK
-            isMinifyEnabled = true
-            isShrinkResources = true
-            proguardFiles(
-                getDefaultProguardFile("proguard-android-optimize.txt"),
-                "proguard-rules.pro"
-        }
-    }
 }
 
 flutter {
