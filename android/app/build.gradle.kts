@@ -38,10 +38,12 @@ android {
             // Signing with debug keys for now
             signingConfig = signingConfigs.getByName("debug")
             
-            // Optional: enable ProGuard for smaller APK
-            minifyEnabled = true
-            shrinkResources = true
-            proguardFiles(getDefaultProguardFile("proguard-android-optimize.txt"), "proguard-rules.pro")
+            // ProGuard for smaller APK
+            isMinifyEnabled = true
+            isShrinkResources = true
+            proguardFiles(
+                getDefaultProguardFile("proguard-android-optimize.txt"),
+                "proguard-rules.pro"
         }
     }
 }
