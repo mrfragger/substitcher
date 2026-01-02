@@ -287,6 +287,7 @@ class FFmpegService {
       
       await shell.run(
         '$_ffmpegPath -f concat -safe 0 -i "list.txt" '
+        '-map_metadata -1 '
         '-c copy "temp.opus" -y'
       );
       
@@ -407,11 +408,27 @@ class FFmpegService {
   Future<AudiobookMetadata> loadAudiobook(String filePath) async {
     await _ensureBinaries();
     try {
-      final result = await _shell.run(
-        '$_ffprobePath -v quiet -print_format json -show_format -show_chapters "$filePath"'
+      if (_ffprobePath == null) {
+        throw Exception('ffprobe binary not found');
+      }
+      
+      final result = await Process.run(
+        _ffprobePath!,
+        [
+          '-v', 'quiet',
+          '-print_format', 'json',
+          '-show_format',
+          '-show_chapters',
+          filePath,
+        ],
+        runInShell: false,
       );
       
-      final jsonStr = result.first.stdout.toString();
+      if (result.exitCode != 0) {
+        throw Exception('ffprobe failed: ${result.stderr}');
+      }
+      
+      final jsonStr = result.stdout as String;
       final json = jsonDecode(jsonStr) as Map<String, dynamic>;
       
       final format = json['format'] as Map<String, dynamic>;

@@ -3,15 +3,30 @@ import 'package:media_kit/media_kit.dart';
 import 'package:window_manager/window_manager.dart';
 import 'dart:io';
 import 'screens/player_screen.dart';
+import 'services/font_loader.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   MediaKit.ensureInitialized();
-  
+    
   if (Platform.isWindows || Platform.isLinux || Platform.isMacOS) {
     await windowManager.ensureInitialized();
-    await windowManager.setTitle('SubStitcher 25.12.26');
+    
+    WindowOptions windowOptions = const WindowOptions(
+      title: 'SubStitcher 26.01.01',
+      skipTaskbar: false,
+      titleBarStyle: TitleBarStyle.normal,
+    );
+    
+    await windowManager.waitUntilReadyToShow(windowOptions, () async {
+      await windowManager.setTitle('SubStitcher 26.01.01');
+      await windowManager.maximize();
+      await windowManager.show();
+      await windowManager.focus();
+    });
   }
+  
+  await CustomFontLoader.loadFonts();
   
   runApp(const MyApp());
 }
@@ -22,7 +37,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'SubStitcher 25.12.26',
+      title: 'SubStitcher 26.01.01',
       themeMode: ThemeMode.dark,
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(

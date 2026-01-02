@@ -5,6 +5,7 @@ import 'dart:async';
 import '../models/audio_file.dart';
 import '../models/encoding_config.dart';
 import '../services/ffmpeg_service.dart';
+import '../services/whisper_service.dart';
 import 'package:path/path.dart' as path;
 
 class EncoderScreen extends StatefulWidget {
@@ -19,6 +20,7 @@ class _EncoderScreenState extends State<EncoderScreen> {
   List<AudioFile> _files = [];
   bool _loading = false;
   bool _encoding = false;
+  bool _cancelEncoding = false;
   double _progress = 0.0;
   String _statusMessage = '';
   int _completedFiles = 0;
@@ -28,6 +30,17 @@ class _EncoderScreenState extends State<EncoderScreen> {
   String? _lastEncodingTime;
   bool _extracting = false;
   String _extractionStatus = '';
+
+  final WhisperService _whisperService = WhisperService();
+  bool _isTranscribing = false;
+  String _transcriptionStatus = '';
+  double _transcriptionProgress = 0.0;
+  String? _chaptersDirectory;
+
+  DateTime? _transcriptionStartTime;
+  String? _lastTranscriptionTime;
+  int _totalTranscriptionChapters = 0;
+  int _currentTranscriptionChapter = 0;
   
   int _bitrate = 16;
   bool _removeSilence = true;
@@ -46,6 +59,7 @@ class _EncoderScreenState extends State<EncoderScreen> {
   void initState() {
     super.initState();
     _checkFFmpeg();
+    _whisperService.initialize();
   }
   
   @override
@@ -160,7 +174,7 @@ class _EncoderScreenState extends State<EncoderScreen> {
   Future<void> _extractChapters() async {
     final result = await FilePicker.platform.pickFiles(
       type: FileType.custom,
-      allowedExtensions: ['opus', 'm4a', 'm4b'],
+      allowedExtensions: ['opus', 'm4a', 'm4b', 'ogg', 'mkv'],
     );
     
     if (result == null || result.files.isEmpty) return;
@@ -316,7 +330,7 @@ class _EncoderScreenState extends State<EncoderScreen> {
       ),
     );
   }
-  
+
   Future<void> _startEncoding() async {
     if (_files.isEmpty) {
       _showError('No files selected');
@@ -325,6 +339,11 @@ class _EncoderScreenState extends State<EncoderScreen> {
     
     if (_authorController.text.isEmpty || _titleController.text.isEmpty) {
       _showError('Please enter author and title');
+      return;
+    }
+    
+    if (_files.length > 999) {
+      _showError('Chapter count exceeds 999 limit!\nCurrent: ${_files.length} chapters');
       return;
     }
     
@@ -338,6 +357,7 @@ class _EncoderScreenState extends State<EncoderScreen> {
     
     setState(() {
       _encoding = true;
+      _cancelEncoding = false;
       _progress = 0.0;
       _completedFiles = 0;
     });
@@ -360,7 +380,11 @@ class _EncoderScreenState extends State<EncoderScreen> {
       final timestamp = '${now.year}_${now.month.toString().padLeft(2, '0')}_${now.day.toString().padLeft(2, '0')}_${now.hour.toString().padLeft(2, '0')}_${now.minute.toString().padLeft(2, '0')}_${now.second.toString().padLeft(2, '0')}';
       
       final outputDir = '$sourceDir/substitcher/$timestamp';
-      final tempDir = '$outputDir/temp';
+      final encodedChaptersDir = '$outputDir/encodedchapters';
+      final originalFilesDir = '$outputDir/originalfiles';
+      
+      Directory(encodedChaptersDir).createSync(recursive: true);
+      Directory(originalFilesDir).createSync(recursive: true);
       
       setState(() {
         _statusMessage = 'Encoding chapters in parallel...';
@@ -376,6 +400,15 @@ class _EncoderScreenState extends State<EncoderScreen> {
       final futures = <Future>[];
       
       for (var i = 0; i < _files.length; i++) {
+        if (_cancelEncoding) {
+          setState(() {
+            _encoding = false;
+            _statusMessage = 'Encoding cancelled';
+          });
+          _showError('Encoding cancelled by user');
+          return;
+        }
+        
         final file = _files[i];
         final index = i;
         var displayTitle = file.displayTitle;
@@ -392,9 +425,14 @@ class _EncoderScreenState extends State<EncoderScreen> {
             .replaceAll('<', '')
             .replaceAll('>', '');
         
-        final outputPath = '$tempDir/$displayTitle.opus';
+        final outputPath = '$encodedChaptersDir/$displayTitle.opus';
         
         final future = semaphore.acquire().then((_) async {
+          if (_cancelEncoding) {
+            semaphore.release();
+            return;
+          }
+          
           try {
             await _ffmpeg.encodeChapter(
               inputPath: file.path,
@@ -423,6 +461,15 @@ class _EncoderScreenState extends State<EncoderScreen> {
       
       await Future.wait(futures);
       
+      if (_cancelEncoding) {
+        setState(() {
+          _encoding = false;
+          _statusMessage = 'Encoding cancelled';
+        });
+        _showError('Encoding cancelled by user');
+        return;
+      }
+      
       final encodedFiles = List.generate(
         _files.length,
         (i) => encodedFilesMap[i]!,
@@ -443,6 +490,19 @@ class _EncoderScreenState extends State<EncoderScreen> {
           setState(() => _statusMessage = message);
         },
       );
+  
+      setState(() {
+        _statusMessage = 'Organizing files...';
+      });
+      
+      for (final file in _files) {
+        final originalFile = File(file.path);
+        if (originalFile.existsSync()) {
+          final filename = path.basename(file.path);
+          final destPath = path.join(originalFilesDir, filename);
+          await originalFile.rename(destPath);
+        }
+      }
   
       final originalDuration = _totalDuration;
       final finalDuration = await _calculateFinalDuration(encodedFiles);
@@ -514,6 +574,203 @@ class _EncoderScreenState extends State<EncoderScreen> {
         content: Text(message),
         backgroundColor: Colors.green,
         duration: const Duration(seconds: 5),
+      ),
+    );
+  }
+  
+  Future<void> _selectWhisperExecutable() async {
+    final result = await FilePicker.platform.pickFiles(
+      dialogTitle: 'Select Whisper Executable',
+    );
+    
+    if (result != null && result.files.isNotEmpty) {
+      await _whisperService.setWhisperExecutable(result.files.first.path!);
+      setState(() {});
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          const SnackBar(
+            content: Text('Whisper executable set successfully'),
+            backgroundColor: Colors.green,
+          ),
+        );
+      }
+    }
+  }
+  
+  Future<void> _selectModelDirectory() async {
+    final result = await FilePicker.platform.getDirectoryPath(
+      dialogTitle: 'Select Whisper Models Directory',
+    );
+    
+    if (result != null) {
+      await _whisperService.setModelDirectory(result);
+      
+      final models = _whisperService.getAvailableModels();
+      
+      if (mounted) {
+        setState(() {});
+        
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            content: Text('Found ${models.length} models'),
+            backgroundColor: Colors.green,
+          ),
+        );
+      }
+    }
+  }
+  
+  Future<void> _selectChaptersDirectory() async {
+    print('DEBUG: selectChaptersDirectory - START');
+    
+    final result = await FilePicker.platform.getDirectoryPath(
+      dialogTitle: 'Select encodedchapters Directory',
+    );
+    
+    print('DEBUG: FilePicker result = $result');
+    
+    if (result != null) {
+      print('DEBUG: Setting _chaptersDirectory to: $result');
+      
+      setState(() {
+        _chaptersDirectory = result;
+      });
+      
+      print('DEBUG: After setState, _chaptersDirectory = $_chaptersDirectory');
+      
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            content: Text('Set: ${path.basename(result)}'),
+            backgroundColor: Colors.green,
+          ),
+        );
+      }
+    } else {
+      print('DEBUG: FilePicker returned null');
+    }
+  }
+  
+  Future<void> _startTranscription() async {
+    if (_chaptersDirectory == null) return;
+    
+    setState(() {
+      _isTranscribing = true;
+      _transcriptionStatus = 'Starting transcription...';
+      _transcriptionProgress = 0.0;
+    });
+    
+    await _whisperService.transcribeChapters(
+      _chaptersDirectory!,
+      (status, progress) {
+        if (mounted) {
+          setState(() {
+            _transcriptionStatus = status;
+            _transcriptionProgress = progress;
+          });
+        }
+      },
+      (error) {
+        if (mounted) {
+          setState(() {
+            _isTranscribing = false;
+            _transcriptionStatus = 'Error: $error';
+          });
+          ScaffoldMessenger.of(context).showSnackBar(
+            SnackBar(
+              content: Text(error),
+              backgroundColor: Colors.red,
+            ),
+          );
+        }
+      },
+    );
+    
+    if (mounted && _isTranscribing) {
+      setState(() {
+        _isTranscribing = false;
+        _transcriptionStatus = 'Transcription complete!';
+      });
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(
+          content: Text('Transcription completed successfully!'),
+          backgroundColor: Colors.green,
+        ),
+      );
+    }
+  }
+  
+  void _openTranscriptionDialog() {
+    showDialog(
+      context: context,
+      barrierDismissible: false,
+      builder: (dialogContext) => Dialog(
+        backgroundColor: const Color(0xFF1E1E1E),
+        child: SizedBox(
+          width: MediaQuery.of(context).size.width * 0.9,
+          height: MediaQuery.of(context).size.height * 0.9,
+          child: StatefulBuilder(
+            builder: (context, setDialogState) {
+              return Column(
+                children: [
+                  Expanded(
+                    child: SingleChildScrollView(
+                      padding: const EdgeInsets.all(24),
+                      child: Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          Row(
+                            mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                            children: [
+                              const Text(
+                                'Whisper Transcription',
+                                style: TextStyle(
+                                  fontSize: 28,
+                                  fontWeight: FontWeight.bold,
+                                  color: Colors.white,
+                                ),
+                              ),
+                              if (!_isTranscribing)
+                                IconButton(
+                                  icon: const Icon(Icons.close, color: Colors.white, size: 32),
+                                  onPressed: () => Navigator.of(context).pop(),
+                                ),
+                            ],
+                          ),
+                          const SizedBox(height: 8),
+                          const Text(
+                            'Transcribe audiobook chapters using whisper.cpp',
+                            style: TextStyle(color: Colors.white70, fontSize: 14),
+                          ),
+                          const SizedBox(height: 32),
+                          
+                          _buildWhisperPathSection(setDialogState),
+                          const SizedBox(height: 24),
+                          
+                          _buildModelDirectorySection(setDialogState),
+                          const SizedBox(height: 24),
+                          
+                          _buildChaptersDirectorySectionWithCallback(setDialogState),
+                          const SizedBox(height: 32),
+                          
+                          _buildWhisperSettingsSection(setDialogState),
+                          const SizedBox(height: 32),
+                          
+                          _buildTranscriptionControls(setDialogState),
+                          
+                          if (_isTranscribing) ...[
+                            const SizedBox(height: 32),
+                            _buildTranscriptionProgress(),
+                          ],
+                        ],
+                      ),
+                    ),
+                  ),
+                ],
+              );
+            },
+          ),
+        ),
       ),
     );
   }
@@ -861,16 +1118,31 @@ class _EncoderScreenState extends State<EncoderScreen> {
               const SizedBox(width: 16),
               Expanded(
                 flex: 2,
-                child: ElevatedButton.icon(
-                  onPressed: (_encoding || _extracting || _files.isEmpty) ? null : _startEncoding,
-                  icon: const Icon(Icons.play_arrow),
-                  label: const Text('Encode Audiobook'),
-                  style: ElevatedButton.styleFrom(
-                    padding: const EdgeInsets.all(16),
-                    backgroundColor: Theme.of(context).colorScheme.primary,
-                    foregroundColor: Theme.of(context).colorScheme.onPrimary,
-                  ),
-                ),
+                child: _encoding 
+                    ? ElevatedButton.icon(
+                        onPressed: () {
+                          setState(() {
+                            _cancelEncoding = true;
+                          });
+                        },
+                        icon: const Icon(Icons.stop),
+                        label: const Text('Cancel Encoding'),
+                        style: ElevatedButton.styleFrom(
+                          padding: const EdgeInsets.all(16),
+                          backgroundColor: Colors.red,
+                          foregroundColor: Colors.white,
+                        ),
+                      )
+                    : ElevatedButton.icon(
+                        onPressed: (_extracting || _files.isEmpty) ? null : _startEncoding,
+                        icon: const Icon(Icons.play_arrow),
+                        label: const Text('Encode Audiobook'),
+                        style: ElevatedButton.styleFrom(
+                          padding: const EdgeInsets.all(16),
+                          backgroundColor: Theme.of(context).colorScheme.primary,
+                          foregroundColor: Theme.of(context).colorScheme.onPrimary,
+                        ),
+                      ),
               ),
               const SizedBox(width: 16),
               Expanded(
@@ -880,6 +1152,19 @@ class _EncoderScreenState extends State<EncoderScreen> {
                   label: const Text('Extract Chapters'),
                   style: ElevatedButton.styleFrom(
                     padding: const EdgeInsets.all(16),
+                  ),
+                ),
+              ),
+              const SizedBox(width: 16),
+              Expanded(
+                child: ElevatedButton.icon(
+                  onPressed: (_encoding || _extracting) ? null : _openTranscriptionDialog,
+                  icon: const Icon(Icons.subtitles),
+                  label: const Text('Transcribe'),
+                  style: ElevatedButton.styleFrom(
+                    padding: const EdgeInsets.all(16),
+                    backgroundColor: Colors.deepPurple,
+                    foregroundColor: Colors.white,
                   ),
                 ),
               ),
@@ -939,26 +1224,870 @@ class _EncoderScreenState extends State<EncoderScreen> {
     );
   }
 
-    Widget _buildEncodingSummary() {
-        final parts = <String>['Encoding took $_lastEncodingTime'];
-        
-        if (_lastOriginalDuration != null && _lastFinalDuration != null) {
-          final silenceRemoved = _lastOriginalDuration! - _lastFinalDuration!;
-          
-          if (silenceRemoved.inSeconds > 0) {
-            parts.add('Duration ${_formatDuration(_lastFinalDuration!)}');
-            parts.add('Silence removed ${_formatDuration(silenceRemoved)}');
-          }
-        }
-        
-        return Text(
-          'Audiobook: ${parts.join(', ')}',
-          style: const TextStyle(fontWeight: FontWeight.bold),
-        );
+  Widget _buildEncodingSummary() {
+    final parts = <String>['Encoding took $_lastEncodingTime'];
+    
+    if (_lastOriginalDuration != null && _lastFinalDuration != null) {
+      final silenceRemoved = _lastOriginalDuration! - _lastFinalDuration!;
+      
+      if (silenceRemoved.inSeconds > 0) {
+        parts.add('Duration ${_formatDuration(_lastFinalDuration!)}');
+        parts.add('Silence removed ${_formatDuration(silenceRemoved)}');
       }
     }
+    
+    return Text(
+      'Audiobook: ${parts.join(', ')}',
+      style: const TextStyle(fontWeight: FontWeight.bold),
+    );
+  }
+
+  Widget _buildTranscriptionTab() {
+    return SingleChildScrollView(
+      padding: const EdgeInsets.all(24),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Row(
+            mainAxisAlignment: MainAxisAlignment.spaceBetween,
+            children: [
+              const Text(
+                'Whisper Transcription',
+                style: TextStyle(
+                  fontSize: 28,
+                  fontWeight: FontWeight.bold,
+                  color: Colors.white,
+                ),
+              ),
+              IconButton(
+                icon: const Icon(Icons.close, color: Colors.white, size: 32),
+                onPressed: () => Navigator.of(context).pop(),
+              ),
+            ],
+          ),
+          const SizedBox(height: 8),
+          const Text(
+            'Transcribe audiobook chapters using whisper.cpp',
+            style: TextStyle(color: Colors.white70, fontSize: 14),
+          ),
+          const SizedBox(height: 32),
+          
+          _buildWhisperPathSection((fn) => setState(fn)),
+          const SizedBox(height: 24),
+          
+          _buildModelDirectorySection((fn) => setState(fn)),
+          const SizedBox(height: 24),
+          
+          _buildChaptersDirectorySection(),
+          const SizedBox(height: 32),
+          
+          _buildWhisperSettingsSection((fn) => setState(fn)),
+          const SizedBox(height: 32),
+          
+          _buildTranscriptionControls((fn) => setState(fn)),
+          
+          if (_isTranscribing) ...[
+            const SizedBox(height: 32),
+            _buildTranscriptionProgress(),
+          ],
+        ],
+      ),
+    );
+  }
+  
+  Widget _buildWhisperPathSection(StateSetter setDialogState) {
+    return Container(
+      padding: const EdgeInsets.all(20),
+      decoration: BoxDecoration(
+        color: const Color(0xFF2A2A2A),
+        borderRadius: BorderRadius.circular(12),
+        border: Border.all(color: Colors.white12),
+      ),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Row(
+            children: [
+              const Icon(Icons.terminal, color: Colors.lightBlue, size: 20),
+              const SizedBox(width: 8),
+              const Text(
+                'Whisper Executable',
+                style: TextStyle(
+                  color: Colors.white,
+                  fontSize: 16,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+            ],
+          ),
+          const SizedBox(height: 12),
+          if (_whisperService.whisperExecutablePath != null)
+            Container(
+              padding: const EdgeInsets.all(12),
+              decoration: BoxDecoration(
+                color: Colors.black26,
+                borderRadius: BorderRadius.circular(8),
+              ),
+              child: Row(
+                children: [
+                  const Icon(Icons.check_circle, color: Colors.green, size: 16),
+                  const SizedBox(width: 8),
+                  Expanded(
+                    child: Text(
+                      _whisperService.whisperExecutablePath!,
+                      style: const TextStyle(color: Colors.white70, fontSize: 12),
+                    ),
+                  ),
+                ],
+              ),
+            )
+          else
+            Container(
+              padding: const EdgeInsets.all(12),
+              decoration: BoxDecoration(
+                color: Colors.red.withValues(alpha: 0.1),
+                borderRadius: BorderRadius.circular(8),
+                border: Border.all(color: Colors.red.withValues(alpha: 0.3)),
+              ),
+              child: const Row(
+                children: [
+                  Icon(Icons.warning, color: Colors.orange, size: 16),
+                  SizedBox(width: 8),
+                  Text(
+                    'Whisper executable not set',
+                    style: TextStyle(color: Colors.orange, fontSize: 12),
+                  ),
+                ],
+              ),
+            ),
+          const SizedBox(height: 12),
+          ElevatedButton.icon(
+            onPressed: () async {
+              await _selectWhisperExecutable();
+              setDialogState(() {});
+            },
+            icon: const Icon(Icons.folder_open, size: 18),
+            label: const Text('Select Whisper Executable'),
+            style: ElevatedButton.styleFrom(
+              backgroundColor: Colors.lightBlue,
+              foregroundColor: Colors.white,
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+  
+  Widget _buildModelDirectorySection(StateSetter setDialogState) {
+    return Container(
+      padding: const EdgeInsets.all(20),
+      decoration: BoxDecoration(
+        color: const Color(0xFF2A2A2A),
+        borderRadius: BorderRadius.circular(12),
+        border: Border.all(color: Colors.white12),
+      ),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Row(
+            children: [
+              const Icon(Icons.storage, color: Colors.purple, size: 20),
+              const SizedBox(width: 8),
+              const Text(
+                'Whisper Models Directory',
+                style: TextStyle(
+                  color: Colors.white,
+                  fontSize: 16,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+            ],
+          ),
+          const SizedBox(height: 12),
+          if (_whisperService.modelDirectory != null) ...[
+            Container(
+              padding: const EdgeInsets.all(12),
+              decoration: BoxDecoration(
+                color: Colors.black26,
+                borderRadius: BorderRadius.circular(8),
+              ),
+              child: Row(
+                children: [
+                  const Icon(Icons.check_circle, color: Colors.green, size: 16),
+                  const SizedBox(width: 8),
+                  Expanded(
+                    child: Text(
+                      _whisperService.modelDirectory!,
+                      style: const TextStyle(color: Colors.white70, fontSize: 12),
+                    ),
+                  ),
+                ],
+              ),
+            ),
+            const SizedBox(height: 12),
+            Wrap(
+              spacing: 8,
+              runSpacing: 8,
+              children: _whisperService.getAvailableModels().map((model) {
+                return Chip(
+                  label: Text(
+                    model,
+                    style: const TextStyle(fontSize: 11),
+                  ),
+                  backgroundColor: Colors.deepPurple.withValues(alpha: 0.3),
+                  side: BorderSide(color: Colors.deepPurple.withValues(alpha: 0.5)),
+                );
+              }).toList(),
+            ),
+          ] else
+            Container(
+              padding: const EdgeInsets.all(12),
+              decoration: BoxDecoration(
+                color: Colors.red.withValues(alpha: 0.1),
+                borderRadius: BorderRadius.circular(8),
+                border: Border.all(color: Colors.red.withValues(alpha: 0.3)),
+              ),
+              child: const Row(
+                children: [
+                  Icon(Icons.warning, color: Colors.orange, size: 16),
+                  SizedBox(width: 8),
+                  Text(
+                    'Model directory not set',
+                    style: TextStyle(color: Colors.orange, fontSize: 12),
+                  ),
+                ],
+              ),
+            ),
+          const SizedBox(height: 12),
+          ElevatedButton.icon(
+            onPressed: () async {
+              await _selectModelDirectory();
+              setDialogState(() {});
+            },
+            icon: const Icon(Icons.folder_open, size: 18),
+            label: const Text('Select Model Directory'),
+            style: ElevatedButton.styleFrom(
+              backgroundColor: Colors.purple,
+              foregroundColor: Colors.white,
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+
+  Widget _buildChaptersDirectorySectionWithCallback(StateSetter setDialogState) {
+    print('DEBUG: _chaptersDirectory = $_chaptersDirectory');
+    
+    return Container(
+      padding: const EdgeInsets.all(20),
+      decoration: BoxDecoration(
+        color: const Color(0xFF2A2A2A),
+        borderRadius: BorderRadius.circular(12),
+        border: Border.all(color: Colors.white12),
+      ),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Row(
+            children: [
+              const Icon(Icons.audio_file, color: Colors.green, size: 20),
+              const SizedBox(width: 8),
+              const Text(
+                'Chapters Directory',
+                style: TextStyle(
+                  color: Colors.white,
+                  fontSize: 16,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+            ],
+          ),
+          const SizedBox(height: 8),
+          const Text(
+            'Select the directory containing encoded chapter .opus files',
+            style: TextStyle(color: Colors.white54, fontSize: 12),
+          ),
+          const SizedBox(height: 12),
+          if (_chaptersDirectory != null && _chaptersDirectory!.isNotEmpty)
+            Container(
+              padding: const EdgeInsets.all(12),
+              decoration: BoxDecoration(
+                color: Colors.black26,
+                borderRadius: BorderRadius.circular(8),
+              ),
+              child: Row(
+                children: [
+                  const Icon(Icons.check_circle, color: Colors.green, size: 16),
+                  const SizedBox(width: 8),
+                  Expanded(
+                    child: Text(
+                      _chaptersDirectory!,
+                      style: const TextStyle(color: Colors.white70, fontSize: 12),
+                    ),
+                  ),
+                ],
+              ),
+            )
+          else
+            Container(
+              padding: const EdgeInsets.all(12),
+              decoration: BoxDecoration(
+                color: Colors.orange.withValues(alpha: 0.1),
+                borderRadius: BorderRadius.circular(8),
+                border: Border.all(color: Colors.orange.withValues(alpha: 0.3)),
+              ),
+              child: const Row(
+                children: [
+                  Icon(Icons.info, color: Colors.orange, size: 16),
+                  SizedBox(width: 8),
+                  Text(
+                    'No chapters directory selected',
+                    style: TextStyle(color: Colors.orange, fontSize: 12),
+                  ),
+                ],
+              ),
+            ),
+          const SizedBox(height: 12),
+          ElevatedButton.icon(
+            onPressed: () async {
+              await _selectChaptersDirectoryWithCallback(setDialogState);
+            },
+            icon: const Icon(Icons.folder_open, size: 18),
+            label: const Text('Select encodedchapters Directory'),
+            style: ElevatedButton.styleFrom(
+              backgroundColor: Colors.green,
+              foregroundColor: Colors.white,
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+
+  Widget _buildChaptersDirectorySection() {
+    return _buildChaptersDirectorySectionWithCallback((fn) => setState(fn));
+  }
+  
+  Future<void> _selectChaptersDirectoryWithCallback(StateSetter setDialogState) async {
+    print('DEBUG: selectChaptersDirectory - START');
+    
+    final result = await FilePicker.platform.getDirectoryPath(
+      dialogTitle: 'Select Chapters Directory',
+    );
+    
+    print('DEBUG: FilePicker result = $result');
+    
+    if (result != null) {
+      print('DEBUG: Setting _chaptersDirectory to: $result');
       
-  class _Semaphore {
+      setState(() {
+        _chaptersDirectory = result;
+      });
+      
+      setDialogState(() {});
+      
+      print('DEBUG: After setState, _chaptersDirectory = $_chaptersDirectory');
+      
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            content: Text('Set: ${path.basename(result)}'),
+            backgroundColor: Colors.green,
+          ),
+        );
+      }
+    } else {
+      print('DEBUG: FilePicker returned null');
+    }
+  } 
+
+  Widget _buildWhisperSettingsSection(StateSetter setDialogState) {
+    return Container(
+      padding: const EdgeInsets.all(20),
+      decoration: BoxDecoration(
+        color: const Color(0xFF2A2A2A),
+        borderRadius: BorderRadius.circular(12),
+        border: Border.all(color: Colors.white12),
+      ),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Row(
+            children: [
+              const Icon(Icons.settings, color: Colors.cyan, size: 20),
+              const SizedBox(width: 8),
+              const Text(
+                'Whisper Settings',
+                style: TextStyle(
+                  color: Colors.white,
+                  fontSize: 16,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+            ],
+          ),
+          const SizedBox(height: 20),
+          
+          Row(
+            children: [
+              Expanded(
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    const Text(
+                      'Language',
+                      style: TextStyle(color: Colors.white70, fontSize: 14),
+                    ),
+                    const SizedBox(height: 8),
+                    DropdownButtonFormField<String>(
+                      initialValue: _whisperService.language,
+                      decoration: const InputDecoration(
+                        filled: true,
+                        fillColor: Colors.black26,
+                        border: OutlineInputBorder(),
+                      ),
+                      dropdownColor: const Color(0xFF1E1E1E),
+                      style: const TextStyle(color: Colors.white),
+                      items: [
+                        'auto', 'en', 'ar', 'zh', 'de', 'es', 'ja', 'pt', 'ru',
+                        'fr', 'pa', 'hi', 'id', 'it', 'ko', 'th', 'el', 'sv', 'da', 'iw'
+                      ].map((lang) => DropdownMenuItem(
+                        value: lang,
+                        child: Text(lang == 'auto' ? 'Auto Detect' : lang),
+                      )).toList(),
+                      onChanged: (value) {
+                        setState(() {
+                          _whisperService.language = value!;
+                          _whisperService.saveSettings();
+                        });
+                        setDialogState(() {});
+                      },
+                    ),
+                  ],
+                ),
+              ),
+              const SizedBox(width: 16),
+              Expanded(
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    const Text(
+                      'Model',
+                      style: TextStyle(color: Colors.white70, fontSize: 14),
+                    ),
+                    const SizedBox(height: 8),
+                    DropdownButtonFormField<String>(
+                      initialValue: _whisperService.getAvailableModels().contains(_whisperService.selectedModel) 
+                          ? _whisperService.selectedModel 
+                          : null,
+                      decoration: const InputDecoration(
+                        filled: true,
+                        fillColor: Colors.black26,
+                        border: OutlineInputBorder(),
+                      ),
+                      dropdownColor: const Color(0xFF1E1E1E),
+                      style: const TextStyle(color: Colors.white),
+                      items: _whisperService.getAvailableModels().isEmpty
+                          ? [const DropdownMenuItem(value: null, child: Text('No models found'))]
+                          : _whisperService.getAvailableModels().map((model) {
+                              return DropdownMenuItem(
+                                value: model,
+                                child: Text(model),
+                              );
+                            }).toList(),
+                      onChanged: _whisperService.getAvailableModels().isEmpty ? null : (value) {
+                        setState(() {
+                          _whisperService.selectedModel = value!;
+                          _whisperService.saveSettings();
+                        });
+                        setDialogState(() {});
+                      },
+                    ),
+                  ],
+                ),
+              ),
+            ],
+          ),
+          
+          const SizedBox(height: 16),
+          
+          Row(
+            children: [
+              Expanded(
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    const Text(
+                      'Segment Time (shorter has less likelihood of hallucination)',
+                      style: TextStyle(color: Colors.white70, fontSize: 14),
+                    ),
+                    const SizedBox(height: 8),
+                    DropdownButtonFormField<String>(
+                      initialValue: _whisperService.segmentTime,
+                      decoration: const InputDecoration(
+                        filled: true,
+                        fillColor: Colors.black26,
+                        border: OutlineInputBorder(),
+                      ),
+                      dropdownColor: const Color(0xFF1E1E1E),
+                      style: const TextStyle(color: Colors.white),
+                      items: ['0:30', '1:00', '1:30', '2:00'].map((time) {
+                        return DropdownMenuItem(
+                          value: time,
+                          child: Text(time),
+                        );
+                      }).toList(),
+                      onChanged: (value) {
+                        setState(() {
+                          _whisperService.segmentTime = value!;
+                          _whisperService.saveSettings();
+                        });
+                        setDialogState(() {});
+                      },
+                    ),
+                  ],
+                ),
+              ),
+              const SizedBox(width: 16),
+              Expanded(
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    const Text(
+                      'Max Characters Line Length',
+                      style: TextStyle(color: Colors.white70, fontSize: 14),
+                    ),
+                    const SizedBox(height: 8),
+                    DropdownButtonFormField<int>(
+                      initialValue: _whisperService.maxLength,
+                      decoration: const InputDecoration(
+                        filled: true,
+                        fillColor: Colors.black26,
+                        border: OutlineInputBorder(),
+                      ),
+                      dropdownColor: const Color(0xFF1E1E1E),
+                      style: const TextStyle(color: Colors.white),
+                      items: [40, 60, 80].map((length) {
+                        return DropdownMenuItem(
+                          value: length,
+                          child: Text('$length'),
+                        );
+                      }).toList(),
+                      onChanged: (value) {
+                        setState(() {
+                          _whisperService.maxLength = value!;
+                          _whisperService.saveSettings();
+                        });
+                        setDialogState(() {});
+                      },
+                    ),
+                  ],
+                ),
+              ),
+            ],
+          ),
+          
+          const SizedBox(height: 16),
+          
+          Row(
+            children: [
+              Expanded(
+                child: CheckboxListTile(
+                  title: const Text('Split on Word', style: TextStyle(color: Colors.white)),
+                  subtitle: const Text('Uncheck for CJK languages', style: TextStyle(color: Colors.white54, fontSize: 11)),
+                  value: _whisperService.splitOnWord,
+                  onChanged: (value) {
+                    setState(() {
+                      _whisperService.splitOnWord = value!;
+                      _whisperService.saveSettings();
+                    });
+                    setDialogState(() {});
+                  },
+                  activeColor: Colors.deepPurple,
+                ),
+              ),
+              if (_whisperService.selectedModel != 'large-v3-turbo')
+                Expanded(
+                  child: CheckboxListTile(
+                    title: const Text('Translate to English', style: TextStyle(color: Colors.white)),
+                    value: _whisperService.translateToEnglish,
+                    onChanged: (value) {
+                      setState(() {
+                        _whisperService.translateToEnglish = value!;
+                        _whisperService.saveSettings();
+                      });
+                      setDialogState(() {});
+                    },
+                    activeColor: Colors.deepPurple,
+                  ),
+                ),
+            ],
+          ),
+          
+          const SizedBox(height: 16),
+          
+          Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              const Text(
+                'Custom Prompt',
+                style: TextStyle(color: Colors.white70, fontSize: 14),
+              ),
+              const SizedBox(height: 8),
+              TextField(
+                controller: TextEditingController(text: _whisperService.customPrompt),
+                maxLines: 3,
+                style: const TextStyle(color: Colors.white, fontSize: 12),
+                decoration: const InputDecoration(
+                  filled: true,
+                  fillColor: Colors.black26,
+                  border: OutlineInputBorder(),
+                ),
+                onChanged: (value) {
+                  _whisperService.customPrompt = value;
+                  _whisperService.saveSettings();
+                },
+              ),
+            ],
+          ),
+        ],
+      ),
+    );
+  }
+
+  Widget _buildTranscriptionControls(StateSetter setDialogState) {
+    final canTranscribe = _whisperService.whisperExecutablePath != null &&
+        _whisperService.modelDirectory != null &&
+        _chaptersDirectory != null &&
+        !_isTranscribing;
+  
+    return Column(
+      children: [
+        Row(
+          children: [
+            Expanded(
+              child: ElevatedButton.icon(
+                onPressed: canTranscribe ? () async {
+                  final chaptersDir = Directory(_chaptersDirectory!);
+                  final opusCount = chaptersDir
+                      .listSync()
+                      .where((e) => e is File && e.path.endsWith('.opus'))
+                      .length;
+                  
+                  setState(() {
+                    _isTranscribing = true;
+                    _transcriptionStatus = 'Starting transcription...';
+                    _transcriptionProgress = 0.0;
+                    _transcriptionStartTime = DateTime.now();
+                    _totalTranscriptionChapters = opusCount;
+                    _currentTranscriptionChapter = 0;
+                  });
+                  setDialogState(() {});
+                  
+                  await _whisperService.transcribeChapters(
+                    _chaptersDirectory!,
+                    (status, progress) {
+                      if (mounted) {
+                        final chapterMatch = RegExp(r'Processing chapter (\d+)/(\d+)').firstMatch(status);
+                        if (chapterMatch != null) {
+                          _currentTranscriptionChapter = int.parse(chapterMatch.group(1)!);
+                        }
+                        
+                        setState(() {
+                          _transcriptionStatus = status;
+                          _transcriptionProgress = progress;
+                        });
+                        setDialogState(() {});
+                      }
+                    },
+                    (error) {
+                      if (mounted) {
+                        setState(() {
+                          _isTranscribing = false;
+                          _transcriptionStatus = 'Error: $error';
+                        });
+                        setDialogState(() {});
+                        ScaffoldMessenger.of(context).showSnackBar(
+                          SnackBar(
+                            content: Text(error),
+                            backgroundColor: Colors.red,
+                          ),
+                        );
+                      }
+                    },
+                  );
+                  
+                  if (mounted && _isTranscribing) {
+                    final elapsed = DateTime.now().difference(_transcriptionStartTime!);
+                    final minutes = elapsed.inMinutes;
+                    final seconds = elapsed.inSeconds.remainder(60);
+                    
+                    setState(() {
+                      _isTranscribing = false;
+                      _transcriptionStatus = 'Transcription complete!';
+                      _lastTranscriptionTime = '${minutes}m ${seconds}s';
+                    });
+                    setDialogState(() {});
+                    ScaffoldMessenger.of(context).showSnackBar(
+                      const SnackBar(
+                        content: Text('Transcription completed successfully!'),
+                        backgroundColor: Colors.green,
+                      ),
+                    );
+                  }
+                } : null,
+                icon: const Icon(Icons.play_arrow, size: 24),
+                label: const Text(
+                  'Start Transcription',
+                  style: TextStyle(fontSize: 16),
+                ),
+                style: ElevatedButton.styleFrom(
+                  backgroundColor: Colors.deepPurple,
+                  foregroundColor: Colors.white,
+                  padding: const EdgeInsets.symmetric(vertical: 20),
+                  disabledBackgroundColor: Colors.grey,
+                ),
+              ),
+            ),
+            if (_isTranscribing) ...[
+              const SizedBox(width: 16),
+              ElevatedButton.icon(
+                onPressed: () {
+                  setState(() {
+                    _isTranscribing = false;
+                    _transcriptionStatus = 'Cancelled';
+                  });
+                  setDialogState(() {});
+                  Navigator.of(context).pop();
+                },
+                icon: const Icon(Icons.stop, size: 24),
+                label: const Text(
+                  'Cancel',
+                  style: TextStyle(fontSize: 16),
+                ),
+                style: ElevatedButton.styleFrom(
+                  backgroundColor: Colors.red,
+                  foregroundColor: Colors.white,
+                  padding: const EdgeInsets.symmetric(vertical: 20, horizontal: 32),
+                ),
+              ),
+            ],
+          ],
+        ),
+        if (_lastTranscriptionTime != null && !_isTranscribing) ...[
+          const SizedBox(height: 16),
+          Container(
+            padding: const EdgeInsets.all(12),
+            decoration: BoxDecoration(
+              color: Colors.green.withValues(alpha: 0.1),
+              borderRadius: BorderRadius.circular(8),
+              border: Border.all(color: Colors.green.withValues(alpha: 0.3)),
+            ),
+            child: Row(
+              children: [
+                const Icon(Icons.check_circle, color: Colors.green, size: 20),
+                const SizedBox(width: 8),
+                Text(
+                  'Last transcription completed in $_lastTranscriptionTime',
+                  style: const TextStyle(color: Colors.white, fontSize: 14),
+                ),
+              ],
+            ),
+          ),
+        ],
+      ],
+    );
+  }
+  
+  Widget _buildTranscriptionProgress() {
+    String elapsedTime = '';
+    if (_transcriptionStartTime != null) {
+      final elapsed = DateTime.now().difference(_transcriptionStartTime!);
+      final minutes = elapsed.inMinutes;
+      final seconds = elapsed.inSeconds.remainder(60);
+      elapsedTime = '${minutes}m ${seconds}s';
+    }
+    
+    return Container(
+      padding: const EdgeInsets.all(20),
+      decoration: BoxDecoration(
+        color: const Color(0xFF2A2A2A),
+        borderRadius: BorderRadius.circular(12),
+        border: Border.all(color: Colors.deepPurple),
+      ),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Row(
+            children: [
+              const SizedBox(
+                width: 20,
+                height: 20,
+                child: CircularProgressIndicator(
+                  strokeWidth: 2,
+                  valueColor: AlwaysStoppedAnimation<Color>(Colors.deepPurple),
+                ),
+              ),
+              const SizedBox(width: 12),
+              Expanded(
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Text(
+                      _transcriptionStatus,
+                      style: const TextStyle(
+                        color: Colors.white,
+                        fontSize: 14,
+                      ),
+                    ),
+                    if (_totalTranscriptionChapters > 0) ...[
+                      const SizedBox(height: 4),
+                      Text(
+                        'Chapter $_currentTranscriptionChapter/$_totalTranscriptionChapters',
+                        style: const TextStyle(
+                          color: Colors.white70,
+                          fontSize: 12,
+                        ),
+                      ),
+                    ],
+                    if (elapsedTime.isNotEmpty) ...[
+                      const SizedBox(height: 4),
+                      Text(
+                        'Elapsed: $elapsedTime',
+                        style: const TextStyle(
+                          color: Colors.white70,
+                          fontSize: 12,
+                        ),
+                      ),
+                    ],
+                  ],
+                ),
+              ),
+            ],
+          ),
+          const SizedBox(height: 16),
+          LinearProgressIndicator(
+            value: _transcriptionProgress,
+            backgroundColor: Colors.white12,
+            valueColor: const AlwaysStoppedAnimation<Color>(Colors.deepPurple),
+            minHeight: 8,
+          ),
+          const SizedBox(height: 8),
+          Text(
+            '${(_transcriptionProgress * 100).toStringAsFixed(1)}%',
+            style: const TextStyle(
+              color: Colors.white70,
+              fontSize: 12,
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+}
+
+class _Semaphore {
   final int maxCount;
   int _currentCount = 0;
   final _queue = <Completer<void>>[];

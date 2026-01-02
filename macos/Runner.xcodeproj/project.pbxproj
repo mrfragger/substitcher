@@ -234,9 +234,10 @@
 			buildConfigurationList = 33CC10FB2044A3C60003C045 /* Build configuration list for PBXNativeTarget "Runner" */;
 			buildPhases = (
 				08A1606E6FFBD0529B08BA79 /* [CP] Check Pods Manifest.lock */,
+				66EE882A2EFD23970064F1F9 /* Copy FFmpeg Binaries */,
+				66BC3C9C2EFE7F9C009F1C5B /* Copy Font Files */,
 				33CC10E92044A3C60003C045 /* Sources */,
 				33CC10EA2044A3C60003C045 /* Frameworks */,
-				66EE882A2EFD23970064F1F9 /* Copy FFmpeg Binaries */,
 				33CC10EB2044A3C60003C045 /* Resources */,
 				33CC110E2044A8840003C045 /* Bundle Framework */,
 				3399D490228B24CF009A79C7 /* run script */,
@@ -405,6 +406,25 @@
 			shellPath = /bin/sh;
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
+		};
+		66BC3C9C2EFE7F9C009F1C5B /* Copy Font Files */ = {
+			isa = PBXShellScriptBuildPhase;
+			alwaysOutOfDate = 1;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Font Files";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# Copy Font Files to app bundle\nFONTS_SRC=\"${SRCROOT}/../fonts\"\nFONTS_DEST=\"${BUILT_PRODUCTS_DIR}/${PRODUCT_NAME}.app/Contents/Resources/fonts\"\n\necho \"========== FONT COPY SCRIPT ==========\"\necho \"Configuration: ${CONFIGURATION}\"\necho \"FONTS_SRC: ${FONTS_SRC}\"\necho \"FONTS_DEST: ${FONTS_DEST}\"\n\nmkdir -p \"$FONTS_DEST\"\n\nif [ -d \"$FONTS_SRC\" ]; then\n    echo \"✓ Fonts directory found\"\n    \n    cp \"$FONTS_SRC\"/*.ttf \"$FONTS_DEST/\" 2>/dev/null || true\n    cp \"$FONTS_SRC\"/*.otf \"$FONTS_DEST/\" 2>/dev/null || true\n    cp \"$FONTS_SRC\"/*.ttc \"$FONTS_DEST/\" 2>/dev/null || true\n    \n    FONT_COUNT=$(ls -1 \"$FONTS_DEST\" 2>/dev/null | wc -l)\n    echo \"✓ Copied $FONT_COUNT font files to $FONTS_DEST\"\nelse\n    echo \"✗ ERROR: Fonts directory not found at $FONTS_SRC\"\n    ls -la \"${SRCROOT}/../..\"\nfi\necho \"======================================\"\n";
 		};
 		66EE882A2EFD23970064F1F9 /* Copy FFmpeg Binaries */ = {
 			isa = PBXShellScriptBuildPhase;

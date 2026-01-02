@@ -38,3 +38,30 @@ target_include_directories(${BINARY_NAME} PRIVATE "${CMAKE_SOURCE_DIR}")
 
 # Run the Flutter tool portions of the build. This must not be removed.
 add_dependencies(${BINARY_NAME} flutter_assemble)
+
+# Copy fonts to build output
+set(FONTS_DIR "${CMAKE_SOURCE_DIR}/../../fonts")
+if(EXISTS "${FONTS_DIR}")
+  install(DIRECTORY "${FONTS_DIR}/"
+          DESTINATION "${INSTALL_BUNDLE_DATA_DIR}/fonts"
+          COMPONENT Runtime
+          FILES_MATCHING
+          PATTERN "*.ttf"
+          PATTERN "*.otf"
+          PATTERN "*.ttc"
+          PATTERN ".DS_Store" EXCLUDE)
+  
+  # Also copy fonts for debug builds
+  file(GLOB FONT_FILES 
+       "${FONTS_DIR}/*.ttf"
+       "${FONTS_DIR}/*.otf"
+       "${FONTS_DIR}/*.ttc")
+  
+  foreach(FONT_FILE ${FONT_FILES})
+    configure_file(${FONT_FILE} 
+                   ${CMAKE_BINARY_DIR}/runner/fonts/ 
+                   COPYONLY)
+  endforeach()
+  
+  message(STATUS "Configured font copying from ${FONTS_DIR}")
+endif()
