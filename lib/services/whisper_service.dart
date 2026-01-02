@@ -2,6 +2,7 @@ import 'dart:io';
 import 'dart:async';
 import 'package:path/path.dart' as path;
 import 'package:shared_preferences/shared_preferences.dart';
+import 'whisper_bundled.dart';
 
 class WhisperService {
   String? whisperExecutablePath;
@@ -25,6 +26,25 @@ class WhisperService {
     try {
       whisperExecutablePath = await WhisperBundled.getWhisperExecutablePath();
       print('Whisper initialized at: $whisperExecutablePath');
+      
+      // Verify the binary exists and is executable
+      final file = File(whisperExecutablePath!);
+      if (!file.existsSync()) {
+        print('ERROR: Whisper binary does not exist at: $whisperExecutablePath');
+      } else {
+        print('Whisper binary found, size: ${file.lengthSync()} bytes');
+        
+        // Test if it runs
+        try {
+          final result = await Process.run(whisperExecutablePath!, ['--help']);
+          print('Whisper test run exit code: ${result.exitCode}');
+          if (result.exitCode != 0) {
+            print('Whisper stderr: ${result.stderr}');
+          }
+        } catch (e) {
+          print('ERROR running whisper binary: $e');
+        }
+      }
     } catch (e) {
       print('Failed to initialize bundled whisper: $e');
     }

@@ -27,20 +27,20 @@ jobs:
           mkdir build && cd build
           cmake .. -DCMAKE_BUILD_TYPE=Release
           cmake --build . --config Release
-          strip bin/main
+          strip bin/whisper-cli
       
       - name: Create directory structure
         run: |
           mkdir -p assets/whisper/linux
-          cp whisper.cpp/build/bin/main assets/whisper/linux/
-          chmod +x assets/whisper/linux/main
+          cp whisper.cpp/build/bin/whisper-cli assets/whisper/linux/
+          chmod +x assets/whisper/linux/whisper-cli
       
       - name: Upload Linux binary
         uses: actions/upload-artifact@v4
         with:
           name: whisper-linux
           path: assets/whisper/linux/
-
+  
   build-whisper-macos:
     runs-on: macos-latest
     steps:
@@ -59,44 +59,47 @@ jobs:
           cmake .. \
             -DCMAKE_BUILD_TYPE=Release \
             -DCMAKE_OSX_ARCHITECTURES=x86_64 \
-            -DGGML_NATIVE=OFF
+            -DGGML_NATIVE=OFF \
+            -DWHISPER_METAL=OFF
           cmake --build . --config Release -j 4
       
-      - name: Build arm64 (with optimizations)
+      - name: Build arm64 (with Metal)
         run: |
           cd whisper.cpp
           mkdir build-arm64 && cd build-arm64
           cmake .. \
             -DCMAKE_BUILD_TYPE=Release \
-            -DCMAKE_OSX_ARCHITECTURES=arm64
+            -DCMAKE_OSX_ARCHITECTURES=arm64 \
+            -DWHISPER_METAL=ON
           cmake --build . --config Release -j 4
       
       - name: Create universal binary
         run: |
           cd whisper.cpp
           lipo -create \
-            build-x86_64/bin/main \
-            build-arm64/bin/main \
-            -output main-universal
-          strip main-universal
+            build-x86_64/bin/whisper-cli \
+            build-arm64/bin/whisper-cli \
+            -output whisper-cli-universal
+          strip whisper-cli-universal
       
       - name: Create directory structure
         run: |
           mkdir -p assets/whisper/macos
-          cp whisper.cpp/main-universal assets/whisper/macos/main
-          chmod +x assets/whisper/macos/main
+          cp whisper.cpp/whisper-cli-universal assets/whisper/macos/whisper-cli
+          chmod +x assets/whisper/macos/whisper-cli
       
       - name: Verify universal binary
         run: |
-          file assets/whisper/macos/main
-          lipo -info assets/whisper/macos/main
+          file assets/whisper/macos/whisper-cli
+          lipo -info assets/whisper/macos/whisper-cli
+          ls -lh assets/whisper/macos/whisper-cli
       
       - name: Upload macOS binary
         uses: actions/upload-artifact@v4
         with:
           name: whisper-macos
           path: assets/whisper/macos/
-
+  
   build-whisper-windows:
     runs-on: windows-latest
     steps:
@@ -127,20 +130,20 @@ jobs:
           mkdir build && cd build
           cmake .. -DCMAKE_BUILD_TYPE=Release -G "MinGW Makefiles"
           cmake --build . --config Release
-          strip bin/main.exe
+          strip bin/whisper-cli.exe
       
       - name: Create directory structure
         shell: powershell
         run: |
           New-Item -ItemType Directory -Force -Path assets/whisper/windows
-          Copy-Item whisper.cpp/build/bin/main.exe assets/whisper/windows/
+          Copy-Item whisper.cpp/build/bin/whisper-cli.exe assets/whisper/windows/
       
       - name: Upload Windows binary
         uses: actions/upload-artifact@v4
         with:
           name: whisper-windows
           path: assets/whisper/windows/
-
+  
   build-whisper-android:
     runs-on: ubuntu-latest
     steps:
@@ -175,7 +178,7 @@ jobs:
             -DWHISPER_BUILD_TESTS=OFF \
             -DWHISPER_BUILD_EXAMPLES=ON
           cmake --build . --config Release
-          $ANDROID_NDK_ROOT/toolchains/llvm/prebuilt/linux-x86_64/bin/llvm-strip bin/main
+          $ANDROID_NDK_ROOT/toolchains/llvm/prebuilt/linux-x86_64/bin/llvm-strip bin/whisper-cli
       
       - name: Build for armeabi-v7a
         run: |
@@ -189,16 +192,16 @@ jobs:
             -DWHISPER_BUILD_TESTS=OFF \
             -DWHISPER_BUILD_EXAMPLES=ON
           cmake --build . --config Release
-          $ANDROID_NDK_ROOT/toolchains/llvm/prebuilt/linux-x86_64/bin/llvm-strip bin/main
+          $ANDROID_NDK_ROOT/toolchains/llvm/prebuilt/linux-x86_64/bin/llvm-strip bin/whisper-cli
       
       - name: Create directory structure
         run: |
           mkdir -p assets/whisper/android/arm64-v8a
           mkdir -p assets/whisper/android/armeabi-v7a
-          cp whisper.cpp/build-arm64/bin/main assets/whisper/android/arm64-v8a/main
-          cp whisper.cpp/build-armv7/bin/main assets/whisper/android/armeabi-v7a/main
-          chmod +x assets/whisper/android/arm64-v8a/main
-          chmod +x assets/whisper/android/armeabi-v7a/main
+          cp whisper.cpp/build-arm64/bin/whisper-cli assets/whisper/android/arm64-v8a/
+          cp whisper.cpp/build-armv7/bin/whisper-cli assets/whisper/android/armeabi-v7a/
+          chmod +x assets/whisper/android/arm64-v8a/whisper-cli
+          chmod +x assets/whisper/android/armeabi-v7a/whisper-cli
       
       - name: Upload Android binaries
         uses: actions/upload-artifact@v4

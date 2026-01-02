@@ -1,0 +1,252 @@
+name: Build FFmpeg Binaries
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/build_ffmpeg.yml'
+
+jobs:
+  build-ffmpeg-linux:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y build-essential nasm yasm
+      
+      - name: Build FFmpeg
+        run: |
+          wget https://ffmpeg.org/releases/ffmpeg-8.0.1.tar.xz
+          tar xf ffmpeg-8.0.1.tar.xz
+          cd ffmpeg-8.0.1
+          
+          ./configure \
+            --prefix=$PWD/../ffmpeg-install \
+            --disable-shared \
+            --enable-static \
+            --disable-gpl \
+            --disable-nonfree \
+            --disable-doc \
+            --disable-debug \
+            --disable-everything \
+            --disable-xlib \
+            --disable-libxcb \
+            --disable-libxcb-shm \
+            --disable-libxcb-xfixes \
+            --disable-libxcb-shape \
+            --disable-autodetect \
+            --enable-ffmpeg \
+            --enable-ffprobe \
+            --enable-decoder=opus,aac,aac_fixed,aac_latm,mp3,mp3float,pcm_s16le,pcm_s24le,pcm_f32le,flac,vorbis,alac \
+            --enable-encoder=opus,aac,pcm_s16le \
+            --enable-demuxer=opus,ogg,matroska,wav,mp3,aac,m4a,mov,flac \
+            --enable-muxer=opus,ogg,matroska,wav,ipod,mp4 \
+            --enable-parser=opus,aac,aac_latm,mp3,flac,vorbis \
+            --enable-protocol=file \
+            --enable-filter=volume,equalizer,highpass,lowpass,aformat,aresample,atempo
+          
+          make -j$(nproc)
+          make install
+          
+          strip --strip-all ../ffmpeg-install/bin/ffmpeg
+          strip --strip-all ../ffmpeg-install/bin/ffprobe
+      
+      - name: Create artifact structure
+        run: |
+          mkdir -p assets/bin/linux
+          cp ffmpeg-install/bin/ffmpeg assets/bin/linux/
+          cp ffmpeg-install/bin/ffprobe assets/bin/linux/
+          chmod +x assets/bin/linux/*
+      
+      - name: Upload Linux FFmpeg
+        uses: actions/upload-artifact@v4
+        with:
+          name: ffmpeg-linux
+          path: assets/bin/linux/
+
+  build-ffmpeg-macos:
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Build FFmpeg for x86_64
+        run: |
+          wget https://ffmpeg.org/releases/ffmpeg-8.0.1.tar.xz
+          tar xf ffmpeg-8.0.1.tar.xz
+          cd ffmpeg-8.0.1
+          
+          mkdir build-x86_64 && cd build-x86_64
+          ../configure \
+            --prefix=$PWD/../../ffmpeg-install-x86_64 \
+            --disable-shared \
+            --enable-static \
+            --disable-gpl \
+            --disable-nonfree \
+            --disable-doc \
+            --disable-debug \
+            --disable-everything \
+            --enable-ffmpeg \
+            --enable-ffprobe \
+            --enable-videotoolbox \
+            --enable-audiotoolbox \
+            --enable-decoder=opus,aac,aac_fixed,aac_latm,mp3,mp3float,pcm_s16le,pcm_s24le,pcm_f32le,flac,vorbis,alac \
+            --enable-encoder=opus,aac,pcm_s16le \
+            --enable-demuxer=opus,ogg,matroska,wav,mp3,aac,m4a,mov,flac \
+            --enable-muxer=opus,ogg,matroska,wav,ipod,mp4 \
+            --enable-parser=opus,aac,aac_latm,mp3,flac,vorbis \
+            --enable-protocol=file \
+            --enable-filter=volume,equalizer,highpass,lowpass,aformat,aresample,atempo,silenceremove,afftdn \
+            --arch=x86_64 \
+            --cc="clang -arch x86_64"
+          
+          make -j$(sysctl -n hw.ncpu)
+          make install
+      
+      - name: Build FFmpeg for arm64
+        run: |
+          cd ffmpeg-8.0.1
+          
+          mkdir build-arm64 && cd build-arm64
+          ../configure \
+            --prefix=$PWD/../../ffmpeg-install-arm64 \
+            --disable-shared \
+            --enable-static \
+            --disable-gpl \
+            --disable-nonfree \
+            --disable-doc \
+            --disable-debug \
+            --disable-everything \
+            --enable-ffmpeg \
+            --enable-ffprobe \
+            --enable-videotoolbox \
+            --enable-audiotoolbox \
+            --enable-decoder=opus,aac,aac_fixed,aac_latm,mp3,mp3float,pcm_s16le,pcm_s24le,pcm_f32le,flac,vorbis,alac \
+            --enable-encoder=opus,aac,pcm_s16le \
+            --enable-demuxer=opus,ogg,matroska,wav,mp3,aac,m4a,mov,flac \
+            --enable-muxer=opus,ogg,matroska,wav,ipod,mp4 \
+            --enable-parser=opus,aac,aac_latm,mp3,flac,vorbis \
+            --enable-protocol=file \
+            --enable-filter=volume,equalizer,highpass,lowpass,aformat,aresample,atempo,silenceremove,afftdn \
+            --arch=arm64 \
+            --cc="clang -arch arm64"
+          
+          make -j$(sysctl -n hw.ncpu)
+          make install
+      
+      - name: Create universal binaries
+        run: |
+          mkdir -p assets/bin/macos
+          
+          lipo -create \
+            ffmpeg-install-x86_64/bin/ffmpeg \
+            ffmpeg-install-arm64/bin/ffmpeg \
+            -output assets/bin/macos/ffmpeg
+          
+          lipo -create \
+            ffmpeg-install-x86_64/bin/ffprobe \
+            ffmpeg-install-arm64/bin/ffprobe \
+            -output assets/bin/macos/ffprobe
+          
+          strip assets/bin/macos/*
+          chmod +x assets/bin/macos/*
+      
+      - name: Upload macOS FFmpeg
+        uses: actions/upload-artifact@v4
+        with:
+          name: ffmpeg-macos
+          path: assets/bin/macos/
+
+  build-ffmpeg-windows:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Setup MSYS2
+        uses: msys2/setup-msys2@v2
+        with:
+          msystem: MINGW64
+          update: true
+          install: >-
+            base-devel
+            mingw-w64-x86_64-toolchain
+            mingw-w64-x86_64-cmake
+            mingw-w64-x86_64-nasm
+            mingw-w64-x86_64-yasm
+      
+      - name: Build FFmpeg
+        shell: msys2 {0}
+        run: |
+          curl -L https://ffmpeg.org/releases/ffmpeg-8.0.1.tar.xz -o ffmpeg.tar.xz
+          tar xf ffmpeg.tar.xz
+          cd ffmpeg-8.0.1
+          
+          ./configure \
+            --prefix=/d/a/substitcher/substitcher/ffmpeg-install \
+            --disable-shared \
+            --enable-static \
+            --disable-gpl \
+            --disable-nonfree \
+            --disable-doc \
+            --disable-debug \
+            --disable-everything \
+            --enable-ffmpeg \
+            --enable-ffprobe \
+            --enable-decoder=opus,aac,aac_fixed,aac_latm,mp3,mp3float,pcm_s16le,pcm_s24le,pcm_f32le,flac,vorbis,alac \
+            --enable-encoder=opus,aac,pcm_s16le \
+            --enable-demuxer=opus,ogg,matroska,wav,mp3,aac,m4a,mov,flac \
+            --enable-muxer=opus,ogg,matroska,wav,ipod,mp4 \
+            --enable-parser=opus,aac,aac_latm,mp3,flac,vorbis \
+            --enable-protocol=file \
+            --enable-filter=volume,equalizer,highpass,lowpass,aformat,aresample,atempo
+          
+          make -j$(nproc)
+          make install
+          
+          strip /d/a/substitcher/substitcher/ffmpeg-install/bin/ffmpeg.exe
+          strip /d/a/substitcher/substitcher/ffmpeg-install/bin/ffprobe.exe
+      
+      - name: Create artifact structure
+        shell: powershell
+        run: |
+          New-Item -ItemType Directory -Force -Path assets/bin/windows
+          Copy-Item ffmpeg-install/bin/ffmpeg.exe assets/bin/windows/
+          Copy-Item ffmpeg-install/bin/ffprobe.exe assets/bin/windows/
+      
+      - name: Upload Windows FFmpeg
+        uses: actions/upload-artifact@v4
+        with:
+          name: ffmpeg-windows
+          path: assets/bin/windows/
+
+  combine-artifacts:
+    needs: [build-ffmpeg-linux, build-ffmpeg-macos, build-ffmpeg-windows]
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Download all artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: artifacts
+      
+      - name: Combine all FFmpeg binaries
+        run: |
+          mkdir -p assets/bin
+          cp -r artifacts/ffmpeg-linux/* assets/bin/ || true
+          cp -r artifacts/ffmpeg-macos/* assets/bin/ || true
+          cp -r artifacts/ffmpeg-windows/* assets/bin/ || true
+          
+          echo "=== FFmpeg Binary sizes ==="
+          find assets/bin -type f -exec ls -lh {} \;
+      
+      - name: Upload combined artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: ffmpeg-all-platforms
+          path: assets/bin/
+          retention-days: 90

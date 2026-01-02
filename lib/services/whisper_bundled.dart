@@ -13,17 +13,15 @@ class WhisperBundled {
     }
     
     String assetPath;
-    String execName;
+    String execName = 'whisper-cli';
     
-    if (Platform.isLinux) {
-      assetPath = 'assets/whisper/linux/main';
-      execName = 'main';
-    } else if (Platform.isMacOS) {
-      assetPath = 'assets/whisper/macos/main';
-      execName = 'main';
+    if (Platform.isMacOS) {
+      assetPath = 'assets/whisper/macos/whisper-cli';
+    } else if (Platform.isLinux) {
+      assetPath = 'assets/whisper/linux/whisper-cli';
     } else if (Platform.isWindows) {
-      assetPath = 'assets/whisper/windows/main.exe';
-      execName = 'main.exe';
+      assetPath = 'assets/whisper/windows/whisper-cli.exe';
+      execName = 'whisper-cli.exe';
     } else if (Platform.isAndroid) {
       final deviceInfo = DeviceInfoPlugin();
       final androidInfo = await deviceInfo.androidInfo;
@@ -38,8 +36,8 @@ class WhisperBundled {
         throw UnsupportedError('Unsupported Android ABI: $abis');
       }
       
-      assetPath = 'assets/whisper/android/$abi/main';
-      execName = 'main';
+      assetPath = 'assets/whisper/android/$abi/whisper-cli';
+    
     } else {
       throw UnsupportedError('Platform ${Platform.operatingSystem} not supported');
     }
@@ -53,13 +51,15 @@ class WhisperBundled {
       await execFile.writeAsBytes(byteData.buffer.asUint8List());
       
       if (!Platform.isWindows) {
-        final result = await Process.run('chmod', ['+x', execPath]);
-        if (result.exitCode != 0) {
-          throw Exception('Failed to make whisper executable: ${result.stderr}');
+        final chmodResult = await Process.run('chmod', ['+x', execPath]);
+        if (chmodResult.exitCode != 0) {
+          throw Exception('Failed to make whisper executable: ${chmodResult.stderr}');
         }
       }
       
       print('Whisper binary extracted successfully');
+    } else {
+      print('Using existing whisper binary at $execPath');
     }
     
     return execPath;
