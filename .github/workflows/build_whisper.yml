@@ -1,0 +1,221 @@
+name: Build Whisper Binaries
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/build_whisper.yml'
+
+jobs:
+  build-whisper-linux:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y build-essential cmake
+      
+      - name: Clone and build whisper.cpp
+        run: |
+          git clone https://github.com/ggerganov/whisper.cpp.git
+          cd whisper.cpp
+          git checkout v1.8.2
+          mkdir build && cd build
+          cmake .. -DCMAKE_BUILD_TYPE=Release
+          cmake --build . --config Release
+          strip main
+      
+      - name: Create directory structure
+        run: |
+          mkdir -p assets/whisper/linux
+          cp whisper.cpp/build/bin/main assets/whisper/linux/
+          chmod +x assets/whisper/linux/main
+      
+      - name: Upload Linux binary
+        uses: actions/upload-artifact@v4
+        with:
+          name: whisper-linux
+          path: assets/whisper/linux/
+
+  build-whisper-macos:
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Clone and build whisper.cpp (Universal Binary)
+        run: |
+          git clone https://github.com/ggerganov/whisper.cpp.git
+          cd whisper.cpp
+          git checkout v1.8.2
+          
+          mkdir build-x86_64 && cd build-x86_64
+          cmake .. -DCMAKE_BUILD_TYPE=Release -DCMAKE_OSX_ARCHITECTURES=x86_64
+          cmake --build . --config Release
+          cd ..
+          
+          mkdir build-arm64 && cd build-arm64
+          cmake .. -DCMAKE_BUILD_TYPE=Release -DCMAKE_OSX_ARCHITECTURES=arm64
+          cmake --build . --config Release
+          cd ..
+          
+          lipo -create \
+            build-x86_64/bin/main \
+            build-arm64/bin/main \
+            -output main-universal
+          
+          strip main-universal
+      
+      - name: Create directory structure
+        run: |
+          mkdir -p assets/whisper/macos
+          cp whisper.cpp/main-universal assets/whisper/macos/main
+          chmod +x assets/whisper/macos/main
+      
+      - name: Upload macOS binary
+        uses: actions/upload-artifact@v4
+        with:
+          name: whisper-macos
+          path: assets/whisper/macos/
+
+  build-whisper-windows:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Setup MSYS2
+        uses: msys2/setup-msys2@v2
+        with:
+          msystem: MINGW64
+          update: true
+          install: >-
+            base-devel
+            mingw-w64-x86_64-toolchain
+            mingw-w64-x86_64-cmake
+      
+      - name: Clone and build whisper.cpp
+        shell: msys2 {0}
+        run: |
+          git clone https://github.com/ggerganov/whisper.cpp.git
+          cd whisper.cpp
+          git checkout v1.8.2
+          mkdir build && cd build
+          cmake .. -DCMAKE_BUILD_TYPE=Release -G "MinGW Makefiles"
+          cmake --build . --config Release
+          strip bin/main.exe
+      
+      - name: Create directory structure
+        shell: powershell
+        run: |
+          New-Item -ItemType Directory -Force -Path assets/whisper/windows
+          Copy-Item whisper.cpp/build/bin/main.exe assets/whisper/windows/
+      
+      - name: Upload Windows binary
+        uses: actions/upload-artifact@v4
+        with:
+          name: whisper-windows
+          path: assets/whisper/windows/
+
+  build-whisper-android:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Setup Android NDK
+        uses: nttld/setup-ndk@v1
+        with:
+          ndk-version: r26d
+          add-to-path: true
+      
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y build-essential cmake
+      
+      - name: Clone whisper.cpp
+        run: |
+          git clone https://github.com/ggerganov/whisper.cpp.git
+          cd whisper.cpp
+          git checkout v1.8.2
+      
+      - name: Build for arm64-v8a
+        run: |
+          cd whisper.cpp
+          mkdir build-arm64 && cd build-arm64
+          cmake .. \
+            -DCMAKE_TOOLCHAIN_FILE=$ANDROID_NDK_ROOT/build/cmake/android.toolchain.cmake \
+            -DANDROID_ABI=arm64-v8a \
+            -DANDROID_PLATFORM=android-24 \
+            -DCMAKE_BUILD_TYPE=Release \
+            -DWHISPER_BUILD_TESTS=OFF \
+            -DWHISPER_BUILD_EXAMPLES=OFF
+          cmake --build . --config Release
+          $ANDROID_NDK_ROOT/toolchains/llvm/prebuilt/linux-x86_64/bin/llvm-strip bin/main
+      
+      - name: Build for armeabi-v7a
+        run: |
+          cd whisper.cpp
+          mkdir build-armv7 && cd build-armv7
+          cmake .. \
+            -DCMAKE_TOOLCHAIN_FILE=$ANDROID_NDK_ROOT/build/cmake/android.toolchain.cmake \
+            -DANDROID_ABI=armeabi-v7a \
+            -DANDROID_PLATFORM=android-24 \
+            -DCMAKE_BUILD_TYPE=Release \
+            -DWHISPER_BUILD_TESTS=OFF \
+            -DWHISPER_BUILD_EXAMPLES=OFF
+          cmake --build . --config Release
+          $ANDROID_NDK_ROOT/toolchains/llvm/prebuilt/linux-x86_64/bin/llvm-strip bin/main
+      
+      - name: Create directory structure
+        run: |
+          mkdir -p assets/whisper/android/arm64-v8a
+          mkdir -p assets/whisper/android/armeabi-v7a
+          cp whisper.cpp/build-arm64/bin/main assets/whisper/android/arm64-v8a/main
+          cp whisper.cpp/build-armv7/bin/main assets/whisper/android/armeabi-v7a/main
+          chmod +x assets/whisper/android/arm64-v8a/main
+          chmod +x assets/whisper/android/armeabi-v7a/main
+      
+      - name: Upload Android binaries
+        uses: actions/upload-artifact@v4
+        with:
+          name: whisper-android
+          path: assets/whisper/android/
+
+  combine-artifacts:
+    needs: [build-whisper-linux, build-whisper-macos, build-whisper-windows, build-whisper-android]
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Download all artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: artifacts
+      
+      - name: Combine all binaries
+        run: |
+          mkdir -p assets/whisper
+          cp -r artifacts/whisper-linux/* assets/whisper/ || true
+          cp -r artifacts/whisper-macos/* assets/whisper/ || true
+          cp -r artifacts/whisper-windows/* assets/whisper/ || true
+          cp -r artifacts/whisper-android/* assets/whisper/ || true
+          
+          find assets/whisper -type f -exec ls -lh {} \;
+      
+      - name: Upload combined artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: whisper-all-platforms
+          path: assets/whisper/
+          retention-days: 90
+      
+      - name: Create release with binaries
+        uses: softprops/action-gh-release@v1
+        if: startsWith(github.ref, 'refs/tags/')
+        with:
+          files: assets/whisper/**/*
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

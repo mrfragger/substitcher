@@ -1,6 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:file_picker/file_picker.dart';
 import 'package:media_kit/media_kit.dart';
+import 'package:shared_preferences/shared_preferences.dart';
+import 'package:window_manager/window_manager.dart';
+import 'package:path/path.dart' as path;
+import 'package:flutter/services.dart';
+import 'package:flutter/foundation.dart' show compute;
 import 'dart:async';
 import 'dart:io';
 import 'dart:convert';
@@ -27,10 +32,6 @@ import '../widgets/subtitle_manager_dialog.dart';
 import '../widgets/side_panel.dart';
 import '../widgets/player_controls.dart';
 import '../widgets/word_overlay.dart';
-import 'package:shared_preferences/shared_preferences.dart';
-import 'package:path/path.dart' as path;
-import 'package:flutter/services.dart';
-import 'package:flutter/foundation.dart' show compute;
 import 'encoder_screen.dart';
 
 class SubtitleSearchResult {
@@ -152,10 +153,12 @@ class _PlayerScreenState extends State<PlayerScreen> {
   String? _subtitleFilePath;
   double _subtitleFontSize = 86.0;
 
-  static const int _maxCharsForBoost = 40;
+  List<SubtitleCue> _originalSubtitles = [];
   String? _lastDebuggedSubtitle;
 
-
+  DateTime? _wordOverlayClosedTime;
+  Timer? _dictionaryModeExitTimer;
+  
   String _statsSearchQuery = '';
   final TextEditingController _statsSearchController = TextEditingController();
   final FocusNode _statsSearchFocusNode = FocusNode();
@@ -730,6 +733,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
         print('No subtitle file found for: ${path.basename(audiobookPath)}');
         setState(() {
           _subtitles = [];
+          _originalSubtitles = [];
           _subtitleFilePath = null;
           _currentSubtitleText = '';
           _paragraphItems = [];
@@ -741,12 +745,20 @@ class _PlayerScreenState extends State<PlayerScreen> {
         _subtitleFilePath = subtitlePath;
       });
       
+      final content = await File(subtitlePath).readAsString();
+      final originalCues = _parseVTT(content);
+      setState(() {
+        _originalSubtitles = originalCues;
+        _paragraphItems = _createParagraphs(originalCues);
+      });
+      
       await _applyConversion();
       _scheduleFrequencyGeneration();
     } catch (e) {
       print('Error loading subtitles: $e');
       setState(() {
         _subtitles = [];
+        _originalSubtitles = [];
         _subtitleFilePath = null;
         _currentSubtitleText = '';
         _paragraphItems = [];
@@ -1240,9 +1252,11 @@ class _PlayerScreenState extends State<PlayerScreen> {
       });
       return;
     }
+    
     final results = <SubtitleSearchResult>[];
     final excludeList = _excludeTerms.split(' ').where((t) => t.isNotEmpty).toList();
-    for (final cue in _subtitles) {
+    
+    for (final cue in _originalSubtitles) {
       if (_matchesSearch(cue.text, query, excludeList)) {
         results.add(SubtitleSearchResult(
           time: cue.startTime,
@@ -1250,6 +1264,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
         ));
       }
     }
+    
     setState(() {
       _subsSearchQuery = query;
       _subtitleSearchResults = results;
@@ -1515,19 +1530,73 @@ class _PlayerScreenState extends State<PlayerScreen> {
         style: const TextStyle(color: Colors.white, fontSize: 14),
       );
     }
-    final searchTerms = searchTerm.toLowerCase().split(' ').where((t) => t.isNotEmpty).toList();
-    if (searchTerms.isEmpty) {
-      return TextSpan(
-        text: text,
-        style: const TextStyle(color: Colors.white, fontSize: 14),
-      );
+    
+    final exactPhrases = <String>[];
+    final exactWords = <String>[];
+    final regularTerms = <String>[];
+    
+    int i = 0;
+    while (i < searchTerm.length) {
+      if (searchTerm[i] == '"') {
+        final endQuote = searchTerm.indexOf('"', i + 1);
+        if (endQuote != -1) {
+          final quoted = searchTerm.substring(i + 1, endQuote);
+          if (quoted.contains(' ')) {
+            exactPhrases.add(quoted);
+          } else {
+            exactWords.add(quoted);
+          }
+          i = endQuote + 1;
+        } else {
+          i++;
+        }
+      } else if (searchTerm[i] != ' ') {
+        final nextSpace = searchTerm.indexOf(' ', i);
+        if (nextSpace == -1) {
+          regularTerms.add(searchTerm.substring(i));
+          break;
+        } else {
+          regularTerms.add(searchTerm.substring(i, nextSpace));
+          i = nextSpace;
+        }
+      } else {
+        i++;
+      }
     }
+    
     final lowerText = text.toLowerCase();
     final matches = <Map<String, int>>[];
-    for (final term in searchTerms) {
+    
+    for (final phrase in exactPhrases) {
+      final lowerPhrase = phrase.toLowerCase();
       int start = 0;
       while (true) {
-        final index = lowerText.indexOf(term, start);
+        final index = lowerText.indexOf(lowerPhrase, start);
+        if (index == -1) break;
+        matches.add({
+          'start': index,
+          'end': index + phrase.length,
+        });
+        start = index + 1;
+      }
+    }
+    
+    for (final word in exactWords) {
+      final lowerWord = word.toLowerCase();
+      final pattern = RegExp(r'\b' + RegExp.escape(lowerWord) + r'\b', caseSensitive: false);
+      for (final match in pattern.allMatches(lowerText)) {
+        matches.add({
+          'start': match.start,
+          'end': match.end,
+        });
+      }
+    }
+    
+    for (final term in regularTerms) {
+      final lowerTerm = term.toLowerCase();
+      int start = 0;
+      while (true) {
+        final index = lowerText.indexOf(lowerTerm, start);
         if (index == -1) break;
         matches.add({
           'start': index,
@@ -1536,12 +1605,14 @@ class _PlayerScreenState extends State<PlayerScreen> {
         start = index + 1;
       }
     }
+    
     if (matches.isEmpty) {
       return TextSpan(
         text: text,
         style: const TextStyle(color: Colors.white, fontSize: 14),
       );
     }
+    
     matches.sort((a, b) => a['start']!.compareTo(b['start']!));
     final mergedMatches = <Map<String, int>>[];
     for (final match in matches) {
@@ -1554,6 +1625,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
             : match['end']!;
       }
     }
+    
     final spans = <TextSpan>[];
     int lastPos = 0;
     for (final match in mergedMatches) {
@@ -1579,6 +1651,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
         style: const TextStyle(color: Colors.white, fontSize: 14),
       ));
     }
+    
     return TextSpan(children: spans);
   }
 
@@ -1699,13 +1772,13 @@ class _PlayerScreenState extends State<PlayerScreen> {
   
   void _increaseFontSize() {
     setState(() {
-      _subtitleFontSize = (_subtitleFontSize + 2).clamp(20, 500);
+      _subtitleFontSize = (_subtitleFontSize + 2).clamp(20, 150);
     });
   }
   
   void _decreaseFontSize() {
     setState(() {
-      _subtitleFontSize = (_subtitleFontSize - 2).clamp(20, 500);
+      _subtitleFontSize = (_subtitleFontSize - 2).clamp(20, 150);
     });
   }
 
@@ -2000,18 +2073,68 @@ class _PlayerScreenState extends State<PlayerScreen> {
 
   bool _matchesSearch(String text, String query, List<String> excludeTerms, {bool? useAnd}) {
     final lowerText = text.toLowerCase();
-    final searchTerms = query.toLowerCase().split(' ').where((t) => t.isNotEmpty).toList();
+    
     for (final excludeTerm in excludeTerms) {
       if (lowerText.contains(excludeTerm.toLowerCase())) {
         return false;
       }
     }
-    if (searchTerms.isEmpty) return true;
+    
+    if (query.isEmpty) return true;
+    
+    final terms = <String>[];
+    final exactWords = <String>[];
+    final exactPhrases = <String>[];
+    
+    int i = 0;
+    while (i < query.length) {
+      if (query[i] == '"') {
+        final endQuote = query.indexOf('"', i + 1);
+        if (endQuote != -1) {
+          final quoted = query.substring(i + 1, endQuote);
+          if (quoted.contains(' ')) {
+            exactPhrases.add(quoted.toLowerCase());
+          } else {
+            exactWords.add(quoted.toLowerCase());
+          }
+          i = endQuote + 1;
+        } else {
+          i++;
+        }
+      } else if (query[i] != ' ') {
+        final nextSpace = query.indexOf(' ', i);
+        if (nextSpace == -1) {
+          terms.add(query.substring(i).toLowerCase());
+          break;
+        } else {
+          terms.add(query.substring(i, nextSpace).toLowerCase());
+          i = nextSpace;
+        }
+      } else {
+        i++;
+      }
+    }
+    
+    for (final phrase in exactPhrases) {
+      if (!lowerText.contains(phrase)) {
+        return false;
+      }
+    }
+    
+    for (final exactWord in exactWords) {
+      final pattern = RegExp(r'\b' + RegExp.escape(exactWord) + r'\b', caseSensitive: false);
+      if (!pattern.hasMatch(lowerText)) {
+        return false;
+      }
+    }
+    
+    if (terms.isEmpty) return (exactWords.isNotEmpty || exactPhrases.isNotEmpty);
+    
     final shouldUseAnd = useAnd ?? _searchUseAnd;
     if (shouldUseAnd) {
-      return searchTerms.every((term) => lowerText.contains(term));
+      return terms.every((term) => lowerText.contains(term));
     } else {
-      return searchTerms.any((term) => lowerText.contains(term));
+      return terms.any((term) => lowerText.contains(term));
     }
   }
 
@@ -2397,7 +2520,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
     final finalSize = baseFontSize * multiplier;
     
     if (text != _lastDebuggedSubtitle) {
-      print('📏 Font Adjust: len=$textLength, base=$baseFontSize, ×${multiplier.toStringAsFixed(3)} = ${finalSize.toStringAsFixed(1)}');
+      // print('📏 Font Adjust: len=$textLength, base=$baseFontSize, ×${multiplier.toStringAsFixed(3)} = ${finalSize.toStringAsFixed(1)}');
       _lastDebuggedSubtitle = text;
     }
     
@@ -3225,6 +3348,18 @@ class _PlayerScreenState extends State<PlayerScreen> {
               });
               return KeyEventResult.handled;
             }
+          } else if (event.logicalKey == LogicalKeyboardKey.bracketLeft && event is KeyDownEvent) {
+            _decreaseSpeed();
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.bracketRight && event is KeyDownEvent) {
+            _increaseSpeed();
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyY && event is KeyDownEvent) {
+            _toggleFullscreen();
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyA && event is KeyDownEvent) {
+            _applyDefaultSettings();
+            return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.space) {
             _togglePlayPause();
             return KeyEventResult.handled;
@@ -3243,6 +3378,10 @@ class _PlayerScreenState extends State<PlayerScreen> {
                 if (_pauseMode != PauseMode.dictionary) {
                   setState(() {
                     _pauseMode = PauseMode.dictionary;
+                    if (_currentSubtitleIndex != null && _currentSubtitleIndex! < _subtitles.length) {
+                      final cue = _subtitles[_currentSubtitleIndex!];
+                      _nextPauseTime = cue.endTime - const Duration(milliseconds: 200);
+                    }
                   });
                 }
               }
@@ -3466,6 +3605,23 @@ class _PlayerScreenState extends State<PlayerScreen> {
                    setState(() {
                      _showWordOverlay = false;
                    });
+                   
+                   _dictionaryModeExitTimer?.cancel();
+                   _dictionaryModeExitTimer = Timer(const Duration(seconds: 3), () {
+                     if (!_showWordOverlay && _pauseMode == PauseMode.dictionary) {
+                       setState(() {
+                         _pauseMode = PauseMode.disabled;
+                       });
+                       if (mounted) {
+                         ScaffoldMessenger.of(context).showSnackBar(
+                           const SnackBar(
+                             content: Text('Exited Dictionary Mode'),
+                             duration: Duration(seconds: 1),
+                           ),
+                         );
+                       }
+                     }
+                   });
                  },
                ),
             ],
@@ -3539,6 +3695,9 @@ class _PlayerScreenState extends State<PlayerScreen> {
       conversionType: _conversionType,
       playedChapters: _currentAudiobook!.chapters.where((c) => _playedChapters.contains(_currentAudiobook!.chapters.indexOf(c))).toList(),
       selectedFont: _selectedFont,
+      defaultFont: _defaultFont,
+      defaultConversionType: _defaultConversionType,
+      defaultColorPalette: _defaultColorPalette,
       currentColorPalette: _currentColorPalette,
       currentSubtitleText: _currentSubtitleText,
       subtitleFontSize: _subtitleFontSize,
@@ -3549,6 +3708,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
       sleepDuration: _sleepDuration,
       sliderHoverPosition: _sliderHoverPosition,
       hoveredChapterTitle: _hoveredChapterTitle,
+      pauseMode: _pauseMode,
       onTogglePlayPause: _togglePlayPause,
       onPreviousChapter: _previousChapter,
       onNextChapter: _nextChapter,
@@ -3611,6 +3771,9 @@ class _PlayerScreenState extends State<PlayerScreen> {
           case 'copy_metadata':
             _copyCurrentMetadata();
             break;
+          case 'copy_chapters':
+            _copyChaptersList();
+            break;
           case 'set_default':
             _setCurrentAsDefault();
             break;
@@ -3629,14 +3792,24 @@ class _PlayerScreenState extends State<PlayerScreen> {
           case 'subtitle_manager':
             _openSubtitleManager();
             break;
+          case 'fullscreen':
+            _toggleFullscreen();
+            break;
         }
       },
-      pauseMode: _pauseMode,
       onPauseModeChanged: (mode) {
         setState(() {
           _pauseMode = mode;
           _pauseModeTimer?.cancel();
-          _nextPauseTime = null;
+          
+          if (mode == PauseMode.dictionary) {
+            if (_currentSubtitleIndex != null && _currentSubtitleIndex! < _subtitles.length) {
+              final cue = _subtitles[_currentSubtitleIndex!];
+              _nextPauseTime = cue.endTime - const Duration(milliseconds: 200);
+            }
+          } else {
+            _nextPauseTime = null;
+          }
         });
       },
       onOpenSubtitleManager: _openSubtitleManager,
@@ -3877,14 +4050,6 @@ class _PlayerScreenState extends State<PlayerScreen> {
     await _applyConversion();
     await _saveFontSettings();
   }
-  
-  String _getOriginalSubtitlePath() {
-    final audiobookPath = _currentAudiobook!.path;
-    final audiobookDir = path.dirname(audiobookPath);
-    final audiobookBase = path.basenameWithoutExtension(audiobookPath);
-    final vttDir = path.join(audiobookDir, '${audiobookBase}_vtt');
-    return path.join(vttDir, '$audiobookBase.vtt');
-  }
 
   Future<void> _copyCurrentMetadata() async {
     if (_currentAudiobook == null) {
@@ -3965,34 +4130,28 @@ class _PlayerScreenState extends State<PlayerScreen> {
       }
     }
   }
-  
-  Future<void> _convertSubtitle(Future<String> Function() converter, String conversionType) async {
-    try {
-      final outputPath = await converter();
-      final content = await File(outputPath).readAsString();
-      final subtitles = _parseVTT(content);
-      setState(() {
-        _subtitles = subtitles;
-        _subtitleFilePath = outputPath;
-      });
-      if (mounted) {
-        ScaffoldMessenger.of(context).showSnackBar(
-          SnackBar(
-            content: Text('Converted to $conversionType: ${path.basename(outputPath)}'),
-            duration: const Duration(seconds: 2),
-          ),
-        );
-      }
-    } catch (e) {
-      print('Error converting subtitle: $e');
-      if (mounted) {
-        ScaffoldMessenger.of(context).showSnackBar(
-          SnackBar(
-            content: Text('Failed to convert: $e'),
-            backgroundColor: Colors.red,
-          ),
-        );
-      }
+
+  Future<void> _copyChaptersList() async {
+    if (_currentAudiobook == null) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(content: Text('No audiobook loaded')),
+      );
+      return;
+    }
+    
+    final chapters = _currentAudiobook!.chapters
+        .map((chapter) => '${chapter.title}\n')
+        .join('\n');
+    
+    await Clipboard.setData(ClipboardData(text: chapters));
+    
+    if (mounted) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(
+          content: Text('Copied ${_currentAudiobook!.chapters.length} chapter titles to clipboard'),
+          duration: const Duration(seconds: 2),
+        ),
+      );
     }
   }
   
@@ -4142,7 +4301,6 @@ class _PlayerScreenState extends State<PlayerScreen> {
       final subtitles = _parseVTT(convertedContent);
       setState(() {
         _subtitles = subtitles;
-        _paragraphItems = _createParagraphs(subtitles);
       });
       
       _updateCurrentSubtitle();
@@ -4180,6 +4338,13 @@ class _PlayerScreenState extends State<PlayerScreen> {
           ),
         );
       }
+    }
+  }
+
+  Future<void> _toggleFullscreen() async {
+    if (Platform.isMacOS || Platform.isLinux || Platform.isWindows) {
+      final isFullscreen = await windowManager.isFullScreen();
+      await windowManager.setFullScreen(!isFullscreen);
     }
   }
   
@@ -4487,117 +4652,11 @@ class _PlayerScreenState extends State<PlayerScreen> {
                   ),
                 ],
               ),
-              const SizedBox(height: 12),
-              Row(
-                children: [
-                  Expanded(
-                    flex: 3,
-                    child: TextField(
-                      controller: _statsSearchController,
-                      focusNode: _statsSearchFocusNode,
-                      style: const TextStyle(color: Colors.white, fontSize: 14),
-                      decoration: InputDecoration(
-                        hintText: 'Search...',
-                        hintStyle: const TextStyle(color: Colors.white54),
-                        prefixIcon: const Icon(Icons.search, color: Colors.white54, size: 20),
-                        suffixIcon: _statsSearchQuery.isNotEmpty
-                            ? IconButton(
-                                icon: const Icon(Icons.clear, color: Colors.white54, size: 20),
-                                onPressed: () {
-                                  _statsSearchController.clear();
-                                  setState(() {
-                                    _statsSearchQuery = '';
-                                  });
-                                },
-                              )
-                            : null,
-                        filled: true,
-                        fillColor: Colors.black26,
-                        border: OutlineInputBorder(
-                          borderRadius: BorderRadius.circular(8),
-                          borderSide: BorderSide.none,
-                        ),
-                        contentPadding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
-                      ),
-                      onChanged: (value) {
-                        setState(() {
-                          _statsSearchQuery = value;
-                        });
-                      },
-                    ),
-                  ),
-                  const SizedBox(width: 8),
-                  ChoiceChip(
-                    label: const Text('AND', style: TextStyle(fontSize: 12)),
-                    selected: _searchUseAnd,
-                    onSelected: (selected) {
-                      setState(() {
-                        _searchUseAnd = true;
-                      });
-                    },
-                    selectedColor: Colors.lightBlue,
-                    labelStyle: TextStyle(
-                      color: _searchUseAnd ? Colors.white : Colors.white54,
-                    ),
-                  ),
-                  const SizedBox(width: 4),
-                  ChoiceChip(
-                    label: const Text('OR', style: TextStyle(fontSize: 12)),
-                    selected: !_searchUseAnd,
-                    onSelected: (selected) {
-                      setState(() {
-                        _searchUseAnd = false;
-                      });
-                    },
-                    selectedColor: Colors.lightBlue,
-                    labelStyle: TextStyle(
-                      color: !_searchUseAnd ? Colors.white : Colors.white54,
-                    ),
-                  ),
-                  const SizedBox(width: 8),
-                  Expanded(
-                    flex: 2,
-                    child: TextField(
-                      controller: _excludeController,
-                      focusNode: _excludeFocusNode,
-                      style: const TextStyle(color: Colors.white, fontSize: 14),
-                      decoration: InputDecoration(
-                        hintText: 'Exclude...',
-                        hintStyle: const TextStyle(color: Colors.white54),
-                        prefixIcon: const Icon(Icons.block, color: Colors.white54, size: 20),
-                        suffixIcon: _excludeTerms.isNotEmpty
-                            ? IconButton(
-                                icon: const Icon(Icons.clear, color: Colors.white54, size: 20),
-                                onPressed: () {
-                                  _excludeController.clear();
-                                  setState(() {
-                                    _excludeTerms = '';
-                                  });
-                                },
-                              )
-                            : null,
-                        filled: true,
-                        fillColor: Colors.black26,
-                        border: OutlineInputBorder(
-                          borderRadius: BorderRadius.circular(8),
-                          borderSide: BorderSide.none,
-                        ),
-                        contentPadding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
-                      ),
-                      onChanged: (value) {
-                        setState(() {
-                          _excludeTerms = value;
-                        });
-                      },
-                    ),
-                  ),
-                ],
-              ),
             ],
           ),
         ),
         Expanded(
-          child: _statsSearchQuery.isNotEmpty 
+          child: _searchQuery.isNotEmpty
               ? _buildStatsSearchResults()
               : _buildStatsContent(),
         ),
@@ -4607,7 +4666,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
 
   Widget _buildStatsSearchResults() {
     final resultsMap = <String, StatsSearchResult>{};
-    final searchTerms = _statsSearchQuery.toLowerCase().split(' ').where((t) => t.isNotEmpty).toList();
+    final searchTerms = _searchQuery.toLowerCase().split(' ').where((t) => t.isNotEmpty).toList();
     final excludeList = _excludeTerms.split(' ').where((t) => t.isNotEmpty).toList();
     
     if (searchTerms.isEmpty) {
@@ -4623,25 +4682,9 @@ class _PlayerScreenState extends State<PlayerScreen> {
       final filename = entry['filename'] as String? ?? '';
       final chapterName = entry['chapter_name'] as String? ?? '';
       
-      final searchText = '$filename $chapterName'.toLowerCase();
+      final searchText = '$filename $chapterName';
       
-      bool excluded = false;
-      for (final excludeTerm in excludeList) {
-        if (searchText.contains(excludeTerm.toLowerCase())) {
-          excluded = true;
-          break;
-        }
-      }
-      if (excluded) continue;
-      
-      bool matches = false;
-      if (_searchUseAnd) {
-        matches = searchTerms.every((term) => searchText.contains(term));
-      } else {
-        matches = searchTerms.any((term) => searchText.contains(term));
-      }
-      
-      if (matches) {
+      if (_matchesSearch(searchText, _searchQuery, excludeList)) {
         final audiobookPath = _playlist.firstWhere(
           (p) => path.basenameWithoutExtension(p) == filename,
           orElse: () => '',

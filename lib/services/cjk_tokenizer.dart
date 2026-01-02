@@ -33,40 +33,34 @@ class CJKTokenizer {
   }
   
   static TextLanguage detectLanguage(String text) {
-    int japaneseCount = 0;
-    int koreanCount = 0;
-    int chineseCount = 0;
-    int arabicCount = 0;
-    int latinCount = 0;
+    bool hasJapanese = false;
+    bool hasKorean = false;
+    bool hasChinese = false;
+    bool hasArabic = false;
     
     for (final char in text.characters) {
       final code = char.runes.first;
       
       if ((code >= 0x3040 && code <= 0x309F) || (code >= 0x30A0 && code <= 0x30FF)) {
-        japaneseCount++;
-      } else if (code >= 0x4E00 && code <= 0x9FAF) {
-        japaneseCount++;
+        hasJapanese = true;
+        break;
       } else if ((code >= 0xAC00 && code <= 0xD7AF) || 
                  (code >= 0x1100 && code <= 0x11FF) || 
                  (code >= 0x3130 && code <= 0x318F)) {
-        koreanCount++;
+        hasKorean = true;
+        break;
       } else if (code >= 0x4E00 && code <= 0x9FFF) {
-        chineseCount++;
+        hasChinese = true;
+        break;
       } else if ((code >= 0x0600 && code <= 0x06FF) || (code >= 0x0750 && code <= 0x077F)) {
-        arabicCount++;
-      } else if ((code >= 0x0041 && code <= 0x005A) || (code >= 0x0061 && code <= 0x007A)) {
-        latinCount++;
+        hasArabic = true;
       }
     }
     
-    if (latinCount > arabicCount && latinCount > japaneseCount && latinCount > koreanCount && latinCount > chineseCount) {
-      return TextLanguage.english;
-    }
-    
-    if (japaneseCount > 0) return TextLanguage.japanese;
-    if (koreanCount > 0) return TextLanguage.korean;
-    if (chineseCount > 0) return TextLanguage.chinese;
-    if (arabicCount > 0) return TextLanguage.arabic;
+    if (hasJapanese) return TextLanguage.japanese;
+    if (hasKorean) return TextLanguage.korean;
+    if (hasChinese) return TextLanguage.chinese;
+    if (hasArabic) return TextLanguage.arabic;
     
     return TextLanguage.english;
   }

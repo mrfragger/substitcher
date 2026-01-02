@@ -298,92 +298,94 @@ class SidePanel extends StatelessWidget {
               ),
             ],
           ),
-          const SizedBox(height: 12),
-          Row(
-            children: [
-              Expanded(
-                flex: 3,
-                child: TextField(
-                  controller: searchController,
-                  focusNode: searchFocusNode,
-                  style: const TextStyle(color: Colors.white, fontSize: 14),
-                  decoration: InputDecoration(
-                    hintText: 'Search...',
-                    hintStyle: const TextStyle(color: Colors.white54),
-                    prefixIcon: const Icon(Icons.search, color: Colors.white54, size: 20),
-                    suffixIcon: searchQuery.isNotEmpty
-                        ? IconButton(
-                            icon: const Icon(Icons.clear, color: Colors.white54, size: 20),
-                            onPressed: () {
-                              searchController.clear();
-                              onSearchChanged('');
-                            },
-                          )
-                        : null,
-                    filled: true,
-                    fillColor: Colors.black26,
-                    border: OutlineInputBorder(
-                      borderRadius: BorderRadius.circular(8),
-                      borderSide: BorderSide.none,
+          if (panelMode != PanelMode.words) ...[
+            const SizedBox(height: 12),
+            Row(
+              children: [
+                Expanded(
+                  flex: 3,
+                  child: TextField(
+                    controller: searchController,
+                    focusNode: searchFocusNode,
+                    style: const TextStyle(color: Colors.white, fontSize: 14),
+                    decoration: InputDecoration(
+                      hintText: 'Search...',
+                      hintStyle: const TextStyle(color: Colors.white54),
+                      prefixIcon: const Icon(Icons.search, color: Colors.white54, size: 20),
+                      suffixIcon: searchQuery.isNotEmpty
+                          ? IconButton(
+                              icon: const Icon(Icons.clear, color: Colors.white54, size: 20),
+                              onPressed: () {
+                                searchController.clear();
+                                onSearchChanged('');
+                              },
+                            )
+                          : null,
+                      filled: true,
+                      fillColor: Colors.black26,
+                      border: OutlineInputBorder(
+                        borderRadius: BorderRadius.circular(8),
+                        borderSide: BorderSide.none,
+                      ),
+                      contentPadding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
                     ),
-                    contentPadding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                    onChanged: onSearchChanged,
                   ),
-                  onChanged: onSearchChanged,
                 ),
-              ),
-              const SizedBox(width: 8),
-              ChoiceChip(
-                label: const Text('AND', style: TextStyle(fontSize: 12)),
-                selected: searchUseAnd,
-                onSelected: (selected) => onSearchAndSelected(),
-                selectedColor: Colors.deepPurple,
-                labelStyle: TextStyle(
-                  color: searchUseAnd ? Colors.white : Colors.white54,
+                const SizedBox(width: 8),
+                ChoiceChip(
+                  label: const Text('AND', style: TextStyle(fontSize: 12)),
+                  selected: searchUseAnd,
+                  onSelected: (selected) => onSearchAndSelected(),
+                  selectedColor: Colors.deepPurple,
+                  labelStyle: TextStyle(
+                    color: searchUseAnd ? Colors.white : Colors.white54,
+                  ),
                 ),
-              ),
-              const SizedBox(width: 4),
-              ChoiceChip(
-                label: const Text('OR', style: TextStyle(fontSize: 12)),
-                selected: !searchUseAnd,
-                onSelected: (selected) => onSearchOrSelected(),
-                selectedColor: Colors.deepPurple,
-                labelStyle: TextStyle(
-                  color: !searchUseAnd ? Colors.white : Colors.white54,
+                const SizedBox(width: 4),
+                ChoiceChip(
+                  label: const Text('OR', style: TextStyle(fontSize: 12)),
+                  selected: !searchUseAnd,
+                  onSelected: (selected) => onSearchOrSelected(),
+                  selectedColor: Colors.deepPurple,
+                  labelStyle: TextStyle(
+                    color: !searchUseAnd ? Colors.white : Colors.white54,
+                  ),
                 ),
-              ),
-              const SizedBox(width: 8),
-              Expanded(
-                flex: 2,
-                child: TextField(
-                  controller: excludeController,
-                  focusNode: excludeFocusNode,
-                  style: const TextStyle(color: Colors.white, fontSize: 14),
-                  decoration: InputDecoration(
-                    hintText: 'Exclude...',
-                    hintStyle: const TextStyle(color: Colors.white54),
-                    prefixIcon: const Icon(Icons.block, color: Colors.white54, size: 20),
-                    suffixIcon: excludeTerms.isNotEmpty
-                        ? IconButton(
-                            icon: const Icon(Icons.clear, color: Colors.white54, size: 20),
-                            onPressed: () {
-                              excludeController.clear();
-                              onExcludeChanged('');
-                            },
-                          )
-                        : null,
-                    filled: true,
-                    fillColor: Colors.black26,
-                    border: OutlineInputBorder(
-                      borderRadius: BorderRadius.circular(8),
-                      borderSide: BorderSide.none,
+                const SizedBox(width: 8),
+                Expanded(
+                  flex: 2,
+                  child: TextField(
+                    controller: excludeController,
+                    focusNode: excludeFocusNode,
+                    style: const TextStyle(color: Colors.white, fontSize: 14),
+                    decoration: InputDecoration(
+                      hintText: 'Exclude...',
+                      hintStyle: const TextStyle(color: Colors.white54),
+                      prefixIcon: const Icon(Icons.block, color: Colors.white54, size: 20),
+                      suffixIcon: excludeTerms.isNotEmpty
+                          ? IconButton(
+                              icon: const Icon(Icons.clear, color: Colors.white54, size: 20),
+                              onPressed: () {
+                                excludeController.clear();
+                                onExcludeChanged('');
+                              },
+                            )
+                          : null,
+                      filled: true,
+                      fillColor: Colors.black26,
+                      border: OutlineInputBorder(
+                        borderRadius: BorderRadius.circular(8),
+                        borderSide: BorderSide.none,
+                      ),
+                      contentPadding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
                     ),
-                    contentPadding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                    onChanged: onExcludeChanged,
                   ),
-                  onChanged: onExcludeChanged,
                 ),
-              ),
-            ],
-          ),
+              ],
+            ),
+          ],
         ],
       ),
     );
@@ -982,16 +984,20 @@ class SidePanel extends StatelessWidget {
         ),
       );
     }
-
-    final hasSearchQuery = searchQuery.isNotEmpty || excludeTerms.isNotEmpty;
+  
     final groupedByWordCount = <int, List<FrequencyItem>>{};
     for (final item in frequencyItems) {
       groupedByWordCount.putIfAbsent(item.wordCount, () => []).add(item);
     }
-
-    final orderedKeys = groupedByWordCount.keys.toList()..sort();
+    
+    final orderedKeys = groupedByWordCount.keys.toList()..sort((a, b) {
+      if (a == 1) return -1;
+      if (b == 1) return 1;
+      return b.compareTo(a);
+    });
+    
     final limitedGroups = <int, List<FrequencyItem>>{};
-
+    
     for (final key in orderedKeys) {
       final items = groupedByWordCount[key]!;
       if (key == 1) {
@@ -1000,11 +1006,11 @@ class SidePanel extends StatelessWidget {
         limitedGroups[key] = items.take(200).toList();
       }
     }
-
+    
     return _WordsPanel(
       orderedKeys: orderedKeys,
       limitedGroups: limitedGroups,
-      hasSearchQuery: hasSearchQuery,
+      hasSearchQuery: false,
       onWordSearch: onWordSearch,
       onPhraseSearch: onPhraseSearch,
     );
@@ -1651,9 +1657,9 @@ class _WordsPanelState extends State<_WordsPanel> {
     return GestureDetector(
       onTap: () {
         if (isSingleWord) {
-          widget.onWordSearch(item.text);
+          widget.onWordSearch('"${item.text}"');
         } else {
-          widget.onPhraseSearch(item.text);
+          widget.onPhraseSearch('"${item.text}"');
         }
       },
       child: Container(

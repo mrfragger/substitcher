@@ -22,8 +22,14 @@ class WhisperService {
   bool translateToEnglish = false;
   
   Future<void> initialize() async {
+    try {
+      whisperExecutablePath = await WhisperBundled.getWhisperExecutablePath();
+      print('Whisper initialized at: $whisperExecutablePath');
+    } catch (e) {
+      print('Failed to initialize bundled whisper: $e');
+    }
+    
     final prefs = await SharedPreferences.getInstance();
-    whisperExecutablePath = prefs.getString('whisperExecutablePath');
     modelDirectory = prefs.getString('whisperModelDirectory');
     language = prefs.getString('whisperLanguage') ?? 'auto';
     selectedModel = prefs.getString('whisperModel') ?? 'large-v3-turbo';

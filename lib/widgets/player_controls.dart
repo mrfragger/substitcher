@@ -27,6 +27,9 @@ class PlayerControls extends StatelessWidget {
   final Duration? sleepDuration;
   final double? sliderHoverPosition;
   final String? hoveredChapterTitle;
+  final String defaultFont;
+  final String defaultConversionType;
+  final String? defaultColorPalette;
   
   final VoidCallback onTogglePlayPause;
   final VoidCallback onPreviousChapter;
@@ -93,6 +96,9 @@ class PlayerControls extends StatelessWidget {
     required this.onPauseModeChanged,
     required this.onOpenSubtitleManager,
     required this.buildColoredTextSpan,
+    required this.defaultFont,
+    required this.defaultConversionType,
+    this.defaultColorPalette,
   });
 
   @override
@@ -414,7 +420,7 @@ class PlayerControls extends StatelessWidget {
           icon: const Icon(Icons.hourglass_bottom),
           color: Colors.white,
           iconSize: 20,
-          tooltip: 'Decrease speed',
+          tooltip: 'Decrease speed [',
         ),
         const SizedBox(width: 8),
         IconButton(
@@ -422,7 +428,7 @@ class PlayerControls extends StatelessWidget {
           icon: const Icon(Icons.hourglass_top),
           color: Colors.white,
           iconSize: 20,
-          tooltip: 'Increase speed',
+          tooltip: 'Increase speed ]',
         ),
         const SizedBox(width: 16),
         IconButton(
@@ -430,6 +436,7 @@ class PlayerControls extends StatelessWidget {
           icon: const Icon(Icons.skip_previous),
           color: Colors.white,
           iconSize: 28,
+          tooltip: 'Prev Chapter',
         ),
         const SizedBox(width: 8),
         IconButton(
@@ -437,6 +444,7 @@ class PlayerControls extends StatelessWidget {
           icon: const Icon(Icons.replay_10),
           color: Colors.white,
           iconSize: 24,
+          tooltip: 'back 3s ←',
         ),
         const SizedBox(width: 12),
         IconButton(
@@ -451,6 +459,7 @@ class PlayerControls extends StatelessWidget {
           icon: const Icon(Icons.forward_10),
           color: Colors.white,
           iconSize: 24,
+          tooltip: 'forward 3s →',
         ),
         const SizedBox(width: 8),
         IconButton(
@@ -458,6 +467,7 @@ class PlayerControls extends StatelessWidget {
           icon: const Icon(Icons.skip_next),
           color: Colors.white,
           iconSize: 28,
+          tooltip: 'Next Chapter',
         ),
         const SizedBox(width: 16),
         IconButton(
@@ -506,14 +516,6 @@ class PlayerControls extends StatelessWidget {
               child: Text('120 minutes'),
             ),
             const PopupMenuItem(
-              value: Duration(minutes: 150),
-              child: Text('150 minutes'),
-            ),
-            const PopupMenuItem(
-              value: Duration(minutes: 180),
-              child: Text('180 minutes'),
-            ),
-            const PopupMenuItem(
               value: Duration(minutes: -1),
               child: Text('End of Audiobook'),
             ),
@@ -546,37 +548,21 @@ class PlayerControls extends StatelessWidget {
         ),
         const SizedBox(width: 8),
         PopupMenuButton<String>(
-          icon: const Icon(Icons.settings, color: Colors.white, size: 24),
-          tooltip: 'Settings',
+          icon: const Icon(Icons.text_fields, color: Colors.white, size: 24),
+          tooltip: 'Appearance & Subtitles',
           onSelected: (value) => onSettingsMenuSelected(context, value),
           itemBuilder: (context) => [
-            const PopupMenuItem(
-              value: 'encoder',
-              child: Text('Audiobook Encoder'),
-            ),
-            const PopupMenuItem(
-              value: 'metadata',
-              child: Text('Edit Metadata'),
-            ),
-            const PopupMenuItem(
-              value: 'copy_metadata',
-              child: Text('Copy Metadata'),
-            ),
             const PopupMenuItem(
               value: 'set_default',
               child: Text('Set Font/Color as Default'),
             ),
-            const PopupMenuItem(
+            PopupMenuItem(
               value: 'apply_default',
-              child: Text('Apply Font/Color Default'),
-            ),
-            const PopupMenuItem(
-              value: 'open_dir',
-              child: Text('Open Directory of Audiobook'),
-            ),
-            const PopupMenuItem(
-              value: 'load',
-              child: Text('Load Audiobook'),
+              child: Tooltip(
+                message: 'Default: $defaultFont, $defaultConversionType${defaultColorPalette != null ? ', $defaultColorPalette' : ', No Color'}',
+                waitDuration: const Duration(milliseconds: 100),
+                child: const Text('Apply Font/Color Default (a)'),
+              ),
             ),
             const PopupMenuItem(
               value: 'load_subtitle',
@@ -660,12 +646,48 @@ class PlayerControls extends StatelessWidget {
                           const Icon(Icons.check, size: 16),
                         if (pauseMode == PauseMode.dictionary)
                           const SizedBox(width: 8),
-                        const Text('Dictionary Mode'),
+                        const Text('Dictionary Mode (d)'),
                       ],
                     ),
                   ),
                 ],
               ),
+            ),
+          ],
+        ),
+        const SizedBox(width: 8),
+        PopupMenuButton<String>(
+          icon: const Icon(Icons.settings, color: Colors.white, size: 24),
+          tooltip: 'Settings',
+          onSelected: (value) => onSettingsMenuSelected(context, value),
+          itemBuilder: (context) => [
+            const PopupMenuItem(
+              value: 'fullscreen',
+              child: Text('Fullscreen (y)'),
+            ),
+            const PopupMenuItem(
+              value: 'encoder',
+              child: Text('Audiobook Encoder'),
+            ),
+            const PopupMenuItem(
+              value: 'metadata',
+              child: Text('Edit Metadata'),
+            ),
+            const PopupMenuItem(
+              value: 'copy_metadata',
+              child: Text('Copy Metadata'),
+            ),
+            const PopupMenuItem(
+              value: 'copy_chapters',
+              child: Text('Copy Chapters List'),
+            ),
+            const PopupMenuItem(
+              value: 'open_dir',
+              child: Text('Open Directory of Audiobook'),
+            ),
+            const PopupMenuItem(
+              value: 'load',
+              child: Text('Load Audiobook'),
             ),
           ],
         ),
