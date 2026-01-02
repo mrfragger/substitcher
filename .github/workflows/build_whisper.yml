@@ -27,7 +27,7 @@ jobs:
           mkdir build && cd build
           cmake .. -DCMAKE_BUILD_TYPE=Release
           cmake --build . --config Release
-          strip main
+          strip bin/main
       
       - name: Create directory structure
         run: |
@@ -86,6 +86,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       
+      - name: Setup Git
+        run: |
+          choco install git -y
+        shell: powershell
+      
       - name: Setup MSYS2
         uses: msys2/setup-msys2@v2
         with:
@@ -95,6 +100,7 @@ jobs:
             base-devel
             mingw-w64-x86_64-toolchain
             mingw-w64-x86_64-cmake
+            git
       
       - name: Clone and build whisper.cpp
         shell: msys2 {0}
@@ -151,7 +157,7 @@ jobs:
             -DANDROID_PLATFORM=android-24 \
             -DCMAKE_BUILD_TYPE=Release \
             -DWHISPER_BUILD_TESTS=OFF \
-            -DWHISPER_BUILD_EXAMPLES=OFF
+            -DWHISPER_BUILD_EXAMPLES=ON
           cmake --build . --config Release
           $ANDROID_NDK_ROOT/toolchains/llvm/prebuilt/linux-x86_64/bin/llvm-strip bin/main
       
@@ -165,7 +171,7 @@ jobs:
             -DANDROID_PLATFORM=android-24 \
             -DCMAKE_BUILD_TYPE=Release \
             -DWHISPER_BUILD_TESTS=OFF \
-            -DWHISPER_BUILD_EXAMPLES=OFF
+            -DWHISPER_BUILD_EXAMPLES=ON
           cmake --build . --config Release
           $ANDROID_NDK_ROOT/toolchains/llvm/prebuilt/linux-x86_64/bin/llvm-strip bin/main
       
@@ -203,6 +209,7 @@ jobs:
           cp -r artifacts/whisper-windows/* assets/whisper/ || true
           cp -r artifacts/whisper-android/* assets/whisper/ || true
           
+          echo "=== Binary sizes ==="
           find assets/whisper -type f -exec ls -lh {} \;
       
       - name: Upload combined artifacts
