@@ -31,15 +31,15 @@ jobs:
       
       - name: Create directory structure
         run: |
-          mkdir -p assets/whisper/linux
-          cp whisper.cpp/build/bin/whisper-cli assets/whisper/linux/
-          chmod +x assets/whisper/linux/whisper-cli
+          mkdir -p whisper-binaries/linux
+          cp whisper.cpp/build/bin/whisper-cli whisper-binaries/linux/
+          chmod +x whisper-binaries/linux/whisper-cli
       
       - name: Upload Linux binary
         uses: actions/upload-artifact@v4
         with:
           name: whisper-linux
-          path: assets/whisper/linux/
+          path: whisper-binaries/linux/
   
   build-whisper-macos:
     runs-on: macos-latest
@@ -84,21 +84,21 @@ jobs:
       
       - name: Create directory structure
         run: |
-          mkdir -p assets/whisper/macos
-          cp whisper.cpp/whisper-cli-universal assets/whisper/macos/whisper-cli
-          chmod +x assets/whisper/macos/whisper-cli
+          mkdir -p whisper-binaries/macos
+          cp whisper.cpp/whisper-cli-universal whisper-binaries/macos/whisper-cli
+          chmod +x whisper-binaries/macos/whisper-cli
       
       - name: Verify universal binary
         run: |
-          file assets/whisper/macos/whisper-cli
-          lipo -info assets/whisper/macos/whisper-cli
-          ls -lh assets/whisper/macos/whisper-cli
+          file whisper-binaries/macos/whisper-cli
+          lipo -info whisper-binaries/macos/whisper-cli
+          ls -lh whisper-binaries/macos/whisper-cli
       
       - name: Upload macOS binary
         uses: actions/upload-artifact@v4
         with:
           name: whisper-macos
-          path: assets/whisper/macos/
+          path: whisper-binaries/macos/
   
   build-whisper-windows:
     runs-on: windows-latest
@@ -135,14 +135,14 @@ jobs:
       - name: Create directory structure
         shell: powershell
         run: |
-          New-Item -ItemType Directory -Force -Path assets/whisper/windows
-          Copy-Item whisper.cpp/build/bin/whisper-cli.exe assets/whisper/windows/
+          New-Item -ItemType Directory -Force -Path whisper-binaries/windows
+          Copy-Item whisper.cpp/build/bin/whisper-cli.exe whisper-binaries/windows/
       
       - name: Upload Windows binary
         uses: actions/upload-artifact@v4
         with:
           name: whisper-windows
-          path: assets/whisper/windows/
+          path: whisper-binaries/windows/
   
   build-whisper-android:
     runs-on: ubuntu-latest
@@ -196,19 +196,19 @@ jobs:
       
       - name: Create directory structure
         run: |
-          mkdir -p assets/whisper/android/arm64-v8a
-          mkdir -p assets/whisper/android/armeabi-v7a
-          cp whisper.cpp/build-arm64/bin/whisper-cli assets/whisper/android/arm64-v8a/
-          cp whisper.cpp/build-armv7/bin/whisper-cli assets/whisper/android/armeabi-v7a/
-          chmod +x assets/whisper/android/arm64-v8a/whisper-cli
-          chmod +x assets/whisper/android/armeabi-v7a/whisper-cli
+          mkdir -p whisper-binaries/android/arm64-v8a
+          mkdir -p whisper-binaries/android/armeabi-v7a
+          cp whisper.cpp/build-arm64/bin/whisper-cli whisper-binaries/android/arm64-v8a/
+          cp whisper.cpp/build-armv7/bin/whisper-cli whisper-binaries/android/armeabi-v7a/
+          chmod +x whisper-binaries/android/arm64-v8a/whisper-cli
+          chmod +x whisper-binaries/android/armeabi-v7a/whisper-cli
       
       - name: Upload Android binaries
         uses: actions/upload-artifact@v4
         with:
           name: whisper-android
-          path: assets/whisper/android/
-
+          path: whisper-binaries/android/
+  
   combine-artifacts:
     needs: [build-whisper-linux, build-whisper-macos, build-whisper-windows, build-whisper-android]
     runs-on: ubuntu-latest
@@ -222,20 +222,26 @@ jobs:
       
       - name: Combine all binaries
         run: |
-          mkdir -p assets/whisper
-          cp -r artifacts/whisper-linux/* assets/whisper/ || true
-          cp -r artifacts/whisper-macos/* assets/whisper/ || true
-          cp -r artifacts/whisper-windows/* assets/whisper/ || true
-          cp -r artifacts/whisper-android/* assets/whisper/ || true
+          mkdir -p combined/linux
+          mkdir -p combined/macos
+          mkdir -p combined/windows
+          mkdir -p combined/android/arm64-v8a
+          mkdir -p combined/android/armeabi-v7a
+          
+          cp artifacts/whisper-linux/whisper-cli combined/linux/ || true
+          cp artifacts/whisper-macos/whisper-cli combined/macos/ || true
+          cp artifacts/whisper-windows/whisper-cli.exe combined/windows/ || true
+          cp artifacts/whisper-android/arm64-v8a/whisper-cli combined/android/arm64-v8a/ || true
+          cp artifacts/whisper-android/armeabi-v7a/whisper-cli combined/android/armeabi-v7a/ || true
           
           echo "=== Binary sizes ==="
-          find assets/whisper -type f -exec ls -lh {} \;
+          find combined -type f -exec ls -lh {} \;
       
       - name: Upload combined artifacts
         uses: actions/upload-artifact@v4
         with:
           name: whisper-all-platforms
-          path: assets/whisper/
+          path: combined/
           retention-days: 90
       
       - name: Create release with binaries
