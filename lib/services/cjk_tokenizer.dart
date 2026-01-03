@@ -37,32 +37,52 @@ class CJKTokenizer {
     bool hasKorean = false;
     bool hasChinese = false;
     bool hasArabic = false;
+    bool hasLatin = false;
     
     for (final char in text.characters) {
       final code = char.runes.first;
       
       if ((code >= 0x3040 && code <= 0x309F) || (code >= 0x30A0 && code <= 0x30FF)) {
         hasJapanese = true;
-        break;
       } else if ((code >= 0xAC00 && code <= 0xD7AF) || 
                  (code >= 0x1100 && code <= 0x11FF) || 
                  (code >= 0x3130 && code <= 0x318F)) {
         hasKorean = true;
-        break;
       } else if (code >= 0x4E00 && code <= 0x9FFF) {
         hasChinese = true;
-        break;
-      } else if ((code >= 0x0600 && code <= 0x06FF) || (code >= 0x0750 && code <= 0x077F)) {
+      } else if ((code >= 0x0600 && code <= 0x06FF) || 
+                 (code >= 0x0750 && code <= 0x077F) ||
+                 (code >= 0xFB50 && code <= 0xFDFF) ||
+                 (code >= 0xFE70 && code <= 0xFEFF)) {
         hasArabic = true;
+      } else if ((code >= 0x0041 && code <= 0x005A) ||  // A-Z
+                 (code >= 0x0061 && code <= 0x007A)) {  // a-z
+        hasLatin = true;
       }
     }
     
-    if (hasJapanese) return TextLanguage.japanese;
-    if (hasKorean) return TextLanguage.korean;
-    if (hasChinese) return TextLanguage.chinese;
-    if (hasArabic) return TextLanguage.arabic;
+    // Determine language with priority
+    TextLanguage detected;
+    if (hasJapanese) {
+      detected = TextLanguage.japanese;
+    } else if (hasKorean) {
+      detected = TextLanguage.korean;
+    } else if (hasChinese) {
+      detected = TextLanguage.chinese;
+    } else if (hasArabic && hasLatin) {
+      // Mixed Arabic/English - treat as Arabic so we don't filter short words
+      detected = TextLanguage.arabic;
+    } else if (hasLatin) {
+      detected = TextLanguage.english;
+    } else if (hasArabic) {
+      detected = TextLanguage.arabic;
+    } else {
+      detected = TextLanguage.unknown;
+    }
     
-    return TextLanguage.english;
+    print('🔍 Language Detection: "${text.substring(0, text.length > 50 ? 50 : text.length)}" -> $detected (hasArabic: $hasArabic, hasLatin: $hasLatin)');
+    
+    return detected;
   }
 
   static List<String> tokenize(String text, {TextLanguage? language}) {
@@ -268,25 +288,37 @@ class CJKTokenizer {
 
   static List<String> _tokenizeArabic(String text) {
     final cleaned = text
-        .replaceAll(RegExp(r'[،؟؛٪]'), ' ')
-        .replaceAll(RegExp(r'\s+'), ' ')
+        .replaceAll(RegExp(r'[\u200B-\u200F\u202A-\u202E\u2060-\u206F]'), '')
         .trim();
     
     final words = cleaned
         .split(RegExp(r'\s+'))
-        .where((w) => w.isNotEmpty && w.length > 1)
+        .map((word) {
+
+          return word.replaceAll(RegExp(r'^[.,!?;:\-،؟؛٪۔\s]+|[.,!?;:\-،؟؛٪۔\s]+$'), '');
+        })
+        .where((w) => w.isNotEmpty)
         .toList();
     
-    return words.reversed.toList();
+    print('📝 Tokenized Arabic: ${words.length} words: $words');
+    return words;
   }
 
   static List<String> _tokenizeEnglish(String text) {
-    final cleaned = text.replaceAll(RegExp(r"[^\w\s'-]"), ' ').trim();
+    final cleaned = text
+        .replaceAll(RegExp(r'[\u200B-\u200F\u202A-\u202E\u2060-\u206F]'), '')
+        .trim();
     
-    return cleaned
+    final words = cleaned
         .split(RegExp(r'\s+'))
-        .where((w) => w.isNotEmpty && w.length >= 3)
+        .map((word) {
+          return word.replaceAll(RegExp(r"^[^\w`'\-]+|[^\w`'\-]+$"), '');
+        })
+        .where((w) => w.isNotEmpty)
         .toList();
+    
+    print('📝 Tokenized English: ${words.length} words: $words');
+    return words;
   }
 
   static List<String> getLongerVariations(List<String> words, String text, int startIndex) {

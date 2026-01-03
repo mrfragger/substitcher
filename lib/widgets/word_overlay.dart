@@ -32,6 +32,22 @@ class _WordOverlayState extends State<WordOverlay> {
     _tokenizeSubtitle();
   }
 
+  bool _shouldShowWord(String word, TextLanguage language) {
+    if (language == TextLanguage.arabic ||
+        language == TextLanguage.japanese ||
+        language == TextLanguage.chinese ||
+        language == TextLanguage.korean) {
+      return true;
+    }
+    
+    // For English/Latin text, filter out 1-2 letter words
+    if (language == TextLanguage.english || language == TextLanguage.unknown) {
+      return word.length >= 3;
+    }
+    
+    return true;
+  }
+
   Future<void> _tokenizeSubtitle() async {
     final cleanedText = widget.subtitle.replaceAll(RegExp(r'<[^>]+>'), '');
     final words = CJKTokenizer.tokenize(cleanedText);
@@ -152,66 +168,77 @@ class _WordOverlayState extends State<WordOverlay> {
                           child: Wrap(
                             spacing: 8,
                             runSpacing: 8,
-                            children: _words.asMap().entries.where((entry) {
+                            children: () {
                               final language = CJKTokenizer.detectLanguage(widget.subtitle);
-                              return !_isPunctuation(entry.value) && !CJKTokenizer.shouldExcludeFromColoring(entry.value, language: language);
-                            }).map((entry) {
-                              final displayIndex = entry.key;
-                              final word = entry.value;
                               
-                              Color color;
-                              if (widget.colorPalette != null && widget.colorPalette!.isNotEmpty) {
-                                final language = CJKTokenizer.detectLanguage(widget.subtitle);
-                                final visibleWords = _words.where((w) => !_isPunctuation(w) && !CJKTokenizer.shouldExcludeFromColoring(w, language: language)).toList();
-                                final actualIndex = visibleWords.indexOf(word);
-                                final colorIndex = actualIndex % widget.colorPalette!.length;
-                                color = _parseColor(widget.colorPalette![colorIndex]);
-                              } else {
-                                final language = CJKTokenizer.detectLanguage(widget.subtitle);
-                                final visibleWords = _words.where((w) => !_isPunctuation(w) && !CJKTokenizer.shouldExcludeFromColoring(w, language: language)).toList();
-                                final actualIndex = visibleWords.indexOf(word);
-                                final colors = [
-                                  Colors.cyan,
-                                  Colors.yellow,
-                                  Colors.green,
-                                  Colors.orange,
-                                  Colors.pink,
-                                  Colors.purple,
-                                  Colors.blue,
-                                  Colors.red,
-                                ];
-                                color = colors[actualIndex % colors.length];
+                              final filteredWords = _words.where((word) => 
+                                !_isPunctuation(word) && 
+                                !CJKTokenizer.shouldExcludeFromColoring(word, language: language) &&
+                                _shouldShowWord(word, language)
+                              ).toList();
+                              
+                              final seenWords = <String>{};
+                              final uniqueWords = <String>[];
+                              
+                              for (final word in filteredWords) {
+                                if (!seenWords.contains(word)) {
+                                  seenWords.add(word);
+                                  uniqueWords.add(word);
+                                }
                               }
                               
-                              return MouseRegion(
-                                cursor: SystemMouseCursors.click,
-                                child: GestureDetector(
-                                  onTap: () => _handleWordClick(word),
-                                  child: Container(
-                                    padding: const EdgeInsets.symmetric(
-                                      horizontal: 8,
-                                      vertical: 6,
-                                    ),
-                                    decoration: BoxDecoration(
-                                      color: Colors.black26,
-                                      borderRadius: BorderRadius.circular(4),
-                                      border: Border.all(
-                                        color: color.withValues(alpha: 0.5),
-                                        width: 1,
+                              return uniqueWords.asMap().entries.map((entry) {
+                                final index = entry.key;
+                                final word = entry.value;
+                                
+                                Color color;
+                                if (widget.colorPalette != null && widget.colorPalette!.isNotEmpty) {
+                                  final colorIndex = index % widget.colorPalette!.length;
+                                  color = _parseColor(widget.colorPalette![colorIndex]);
+                                } else {
+                                  final colors = [
+                                    Colors.cyan,
+                                    Colors.yellow,
+                                    Colors.green,
+                                    Colors.orange,
+                                    Colors.pink,
+                                    Colors.purple,
+                                    Colors.blue,
+                                    Colors.red,
+                                  ];
+                                  color = colors[index % colors.length];
+                                }
+                                
+                                return MouseRegion(
+                                  cursor: SystemMouseCursors.click,
+                                  child: GestureDetector(
+                                    onTap: () => _handleWordClick(word),
+                                    child: Container(
+                                      padding: const EdgeInsets.symmetric(
+                                        horizontal: 8,
+                                        vertical: 6,
                                       ),
-                                    ),
-                                    child: Text(
-                                      word,
-                                      style: TextStyle(
-                                        color: color,
-                                        fontSize: 16,
-                                        fontWeight: FontWeight.bold,
+                                      decoration: BoxDecoration(
+                                        color: Colors.black26,
+                                        borderRadius: BorderRadius.circular(4),
+                                        border: Border.all(
+                                          color: color.withValues(alpha: 0.5),
+                                          width: 1,
+                                        ),
+                                      ),
+                                      child: Text(
+                                        word,
+                                        style: TextStyle(
+                                          color: color,
+                                          fontSize: 16,
+                                          fontWeight: FontWeight.bold,
+                                        ),
                                       ),
                                     ),
                                   ),
-                                ),
-                              );
-                            }).toList(),
+                                );
+                              }).toList();
+                            }(),
                           ),
                         ),
                       ),

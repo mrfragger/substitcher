@@ -3598,7 +3598,9 @@ class _PlayerScreenState extends State<PlayerScreen> {
                 _buildPanel(),
              if (_showWordOverlay && _currentSubtitleText.isNotEmpty)
                WordOverlay(
-                 subtitle: _currentSubtitleText,
+                 subtitle: _currentSubtitleIndex != null && _currentSubtitleIndex! < _originalSubtitles.length
+                     ? _originalSubtitles[_currentSubtitleIndex!].text
+                     : _currentSubtitleText,  // Fallback to current if original not available
                  colorPalette: _currentColorPalette?.colors,
                  startWordIndex: _calculateWordIndexAtPosition(_currentPosition),
                  onClose: () {

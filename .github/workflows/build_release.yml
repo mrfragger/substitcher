@@ -1,0 +1,231 @@
+name: Build Release
+
+on:
+  push:
+    tags:
+      - 'v*'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-macos:
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - uses: subosito/flutter-action@v2
+        with:
+          channel: 'stable'
+      
+      - name: Download macOS FFmpeg
+        uses: dawidd6/action-download-artifact@v2
+        with:
+          workflow: build_ffmpeg.yml
+          name: ffmpeg-macos
+          path: assets/bin/macos/
+      
+      - name: Download macOS Whisper
+        uses: dawidd6/action-download-artifact@v2
+        with:
+          workflow: build_whisper.yml
+          name: whisper-macos
+          path: assets/whisper/macos/
+      
+      - name: Clean non-macOS assets
+        run: |
+          rm -rf assets/bin/linux assets/bin/windows assets/bin/android
+          rm -rf assets/whisper/linux assets/whisper/windows assets/whisper/android
+      
+      - name: Build macOS
+        run: |
+          flutter pub get
+          flutter build macos --release
+          
+          codesign --force --deep --sign - \
+            --entitlements macos/Runner/Release.entitlements \
+            build/macos/Build/Products/Release/substitcher.app
+      
+      - name: Create DMG
+        run: |
+          brew install create-dmg
+          create-dmg \
+            --volname "SubStitcher" \
+            --window-pos 200 120 \
+            --window-size 600 300 \
+            --icon-size 100 \
+            --app-drop-link 425 120 \
+            "SubStitcher-macOS-universal.dmg" \
+            "build/macos/Build/Products/Release/substitcher.app"
+      
+      - name: Upload macOS artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: macos-build
+          path: SubStitcher-macOS-universal.dmg
+
+  build-linux:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - uses: subosito/flutter-action@v2
+        with:
+          channel: 'stable'
+      
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y clang cmake ninja-build pkg-config libgtk-3-dev liblzma-dev libmpv-dev mpv
+      
+      - name: Download Linux FFmpeg
+        uses: dawidd6/action-download-artifact@v2
+        with:
+          workflow: build_ffmpeg.yml
+          name: ffmpeg-linux
+          path: assets/bin/linux/
+      
+      - name: Download Linux Whisper
+        uses: dawidd6/action-download-artifact@v2
+        with:
+          workflow: build_whisper.yml
+          name: whisper-linux
+          path: assets/whisper/linux/
+      
+      - name: Clean non-Linux assets
+        run: |
+          rm -rf assets/bin/macos assets/bin/windows assets/bin/android
+          rm -rf assets/whisper/macos assets/whisper/windows assets/whisper/android
+      
+      - name: Build Linux
+        run: |
+          flutter pub get
+          flutter build linux --release
+      
+      - name: Create AppImage
+        run: |
+          chmod +x build_appimage.sh
+          ./build_appimage.sh
+      
+      - name: Upload Linux artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: linux-build
+          path: substitcher-*.AppImage
+
+  build-windows:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - uses: subosito/flutter-action@v2
+        with:
+          channel: 'stable'
+      
+      - name: Download Windows FFmpeg
+        uses: dawidd6/action-download-artifact@v2
+        with:
+          workflow: build_ffmpeg.yml
+          name: ffmpeg-windows
+          path: assets/bin/windows/
+      
+      - name: Download Windows Whisper
+        uses: dawidd6/action-download-artifact@v2
+        with:
+          workflow: build_whisper.yml
+          name: whisper-windows
+          path: assets/whisper/windows/
+      
+      - name: Clean non-Windows assets
+        shell: powershell
+        run: |
+          Remove-Item -Recurse -Force -ErrorAction SilentlyContinue assets/bin/linux
+          Remove-Item -Recurse -Force -ErrorAction SilentlyContinue assets/bin/macos
+          Remove-Item -Recurse -Force -ErrorAction SilentlyContinue assets/bin/android
+          Remove-Item -Recurse -Force -ErrorAction SilentlyContinue assets/whisper/linux
+          Remove-Item -Recurse -Force -ErrorAction SilentlyContinue assets/whisper/macos
+          Remove-Item -Recurse -Force -ErrorAction SilentlyContinue assets/whisper/android
+      
+      - name: Build Windows
+        run: |
+          flutter pub get
+          flutter build windows --release
+      
+      - name: Create ZIP
+        run: |
+          Compress-Archive -Path build\windows\x64\runner\Release\* -DestinationPath SubStitcher-Windows.zip
+      
+      - name: Upload Windows artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: windows-build
+          path: SubStitcher-Windows.zip
+
+  build-android:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - uses: actions/setup-java@v4
+        with:
+          distribution: 'zulu'
+          java-version: '17'
+      
+      - uses: subosito/flutter-action@v2
+        with:
+          channel: 'stable'
+          cache: true
+      
+      - name: Download Android FFmpeg
+        uses: dawidd6/action-download-artifact@v2
+        with:
+          workflow: build_ffmpeg.yml
+          name: ffmpeg-android
+          path: assets/bin/android/
+      
+      - name: Download Android Whisper
+        uses: dawidd6/action-download-artifact@v2
+        with:
+          workflow: build_whisper.yml
+          name: whisper-android
+          path: assets/whisper/android/
+      
+      - name: Clean non-Android assets
+        run: |
+          rm -rf assets/bin/linux assets/bin/macos assets/bin/windows
+          rm -rf assets/whisper/linux assets/whisper/macos assets/whisper/windows
+      
+      - name: Build Android APK
+        run: |
+          flutter pub get
+          flutter build apk --release
+      
+      - name: Rename APK
+        run: |
+          mv build/app/outputs/flutter-apk/app-release.apk build/app/outputs/flutter-apk/substitcher-android-app.apk
+      
+      - name: Upload Android APK
+        uses: actions/upload-artifact@v4
+        with:
+          name: android-build
+          path: build/app/outputs/flutter-apk/substitcher-android-app.apk
+
+  create-release:
+        needs: [build-macos, build-linux, build-windows, build-android]
+        runs-on: ubuntu-latest
+        if: startsWith(github.ref, 'refs/tags/')
+        steps:
+          - name: Download all artifacts
+            uses: actions/download-artifact@v4
+          
+          - name: Create Release
+            uses: softprops/action-gh-release@v1
+            with:
+              files: |
+                macos-build/SubStitcher-macOS-universal.dmg
+                linux-build/substitcher-*.AppImage
+                windows-build/SubStitcher-Windows.zip
+                android-build/substitcher-android-app.apk
+            env:
+              GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

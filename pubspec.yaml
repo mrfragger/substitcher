@@ -49,16 +49,6 @@ flutter:
   
   assets:
     - fonts/
-    - assets/whisper/linux/
-    - assets/whisper/macos/
-    - assets/whisper/windows/
-    - assets/whisper/android/arm64-v8a/
-    - assets/whisper/android/armeabi-v7a/
-    - assets/bin/linux/
-    - assets/bin/macos/
-    - assets/bin/windows/
-    - assets/bin/android/arm64-v8a/
-    - assets/bin/android/armeabi-v7a/
   
   fonts:
     - family: CustomFonts
