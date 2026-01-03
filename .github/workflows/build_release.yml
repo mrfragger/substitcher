@@ -95,15 +95,41 @@ jobs:
         with:
           channel: 'stable'
       
-      - name: Clean non-Windows assets
+      - name: Create platform directory structure
         shell: powershell
         run: |
-          Remove-Item -Recurse -Force -ErrorAction SilentlyContinue assets/bin/linux
-          Remove-Item -Recurse -Force -ErrorAction SilentlyContinue assets/bin/macos
-          Remove-Item -Recurse -Force -ErrorAction SilentlyContinue assets/bin/android
-          Remove-Item -Recurse -Force -ErrorAction SilentlyContinue assets/whisper/linux
-          Remove-Item -Recurse -Force -ErrorAction SilentlyContinue assets/whisper/macos
-          Remove-Item -Recurse -Force -ErrorAction SilentlyContinue assets/whisper/android
+          # Ensure all platform directories exist (safety check)
+          $dirs = @(
+            "assets/bin/linux",
+            "assets/bin/macos", 
+            "assets/bin/android/arm64-v8a",
+            "assets/bin/android/armeabi-v7a",
+            "assets/whisper/linux",
+            "assets/whisper/macos",
+            "assets/whisper/android/arm64-v8a",
+            "assets/whisper/android/armeabi-v7a"
+          )
+          
+          foreach ($dir in $dirs) {
+            if (-not (Test-Path $dir)) {
+              New-Item -ItemType Directory -Force -Path $dir
+              New-Item -ItemType File -Force -Path "$dir/.gitkeep"
+            }
+          }
+      
+      - name: Download Windows FFmpeg
+        uses: dawidd6/action-download-artifact@v2
+        with:
+          workflow: build_ffmpeg.yml
+          name: ffmpeg-windows
+          path: assets/bin/windows/
+      
+      - name: Download Windows Whisper
+        uses: dawidd6/action-download-artifact@v2
+        with:
+          workflow: build_whisper.yml
+          name: whisper-windows
+          path: assets/whisper/windows/
       
       - name: Build Windows
         run: |
