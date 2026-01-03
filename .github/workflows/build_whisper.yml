@@ -29,11 +29,18 @@ jobs:
           cmake --build . --config Release
           strip bin/whisper-cli
       
-      - name: Create directory structure
+      - name: Collect all libraries
         run: |
           mkdir -p whisper-binaries/linux
           cp whisper.cpp/build/bin/whisper-cli whisper-binaries/linux/
+          
+          # Copy shared libraries
+          find whisper.cpp/build/src -name "libwhisper*.so*" -exec cp {} whisper-binaries/linux/ \;
+          
           chmod +x whisper-binaries/linux/whisper-cli
+          
+          echo "=== Final contents ==="
+          ls -lh whisper-binaries/linux/
       
       - name: Upload Linux binary
         uses: actions/upload-artifact@v4
@@ -88,37 +95,24 @@ jobs:
             -output whisper-cli-universal
           strip whisper-cli-universal
       
-      - name: Collect Metal libraries (ARM64 only)
+      - name: Collect all libraries
         run: |
-          cd whisper.cpp/build-arm64
-          echo "=== Collecting Metal dylibs ==="
-          find . -name "*.dylib" -type f
+          cd whisper.cpp
+          mkdir -p ../whisper-binaries/macos
           
-          mkdir -p ../../metal-libs
+          # Copy the universal binary
+          cp whisper-cli-universal ../whisper-binaries/macos/whisper-cli
           
-          # Copy all Metal-related dylibs
-          cp ggml/src/ggml-metal/libggml-metal.dylib ../../metal-libs/ || true
-          cp ggml/src/libggml.dylib ../../metal-libs/ || true
-          cp ggml/src/ggml-cpu/libggml-cpu.dylib ../../metal-libs/ || true
-          cp ggml/src/libggml-base.dylib ../../metal-libs/ || true
+          # Collect all dylibs from ARM64 build (includes Metal)
+          find build-arm64 -name "*.dylib" -type f | while read lib; do
+            cp "$lib" ../whisper-binaries/macos/
+          done
           
-          cd ../../metal-libs
-          ls -lh
-      
-      - name: Create directory structure
-        run: |
-          mkdir -p whisper-binaries/macos
-          cp whisper.cpp/whisper-cli-universal whisper-binaries/macos/whisper-cli
+          chmod +x ../whisper-binaries/macos/whisper-cli
           
-          # Copy Metal libraries
-          if [ -d "whisper.cpp/metal-libs" ]; then
-            cp whisper.cpp/metal-libs/*.dylib whisper-binaries/macos/ || true
-          fi
-          
-          chmod +x whisper-binaries/macos/whisper-cli
-          
+          cd ../whisper-binaries/macos
           echo "=== Final contents ==="
-          ls -lh whisper-binaries/macos/
+          ls -lh
       
       - name: Upload macOS binary
         uses: actions/upload-artifact@v4
@@ -158,11 +152,18 @@ jobs:
           cmake --build . --config Release
           strip bin/whisper-cli.exe
       
-      - name: Create directory structure
-        shell: powershell
+      - name: Collect all libraries
+        shell: msys2 {0}
         run: |
-          New-Item -ItemType Directory -Force -Path whisper-binaries/windows
-          Copy-Item whisper.cpp/build/bin/whisper-cli.exe whisper-binaries/windows/
+          mkdir -p whisper-binaries/windows
+          cp whisper.cpp/build/bin/whisper-cli.exe whisper-binaries/windows/
+          
+          # Copy DLL files
+          find whisper.cpp/build/src -name "*.dll" -exec cp {} whisper-binaries/windows/ \;
+          find whisper.cpp/build/ggml -name "*.dll" -exec cp {} whisper-binaries/windows/ \;
+          
+          echo "=== Final contents ==="
+          ls -lh whisper-binaries/windows/
       
       - name: Upload Windows binary
         uses: actions/upload-artifact@v4
@@ -220,14 +221,25 @@ jobs:
           cmake --build . --config Release
           $ANDROID_NDK_ROOT/toolchains/llvm/prebuilt/linux-x86_64/bin/llvm-strip bin/whisper-cli
       
-      - name: Create directory structure
+      - name: Collect all libraries
         run: |
           mkdir -p whisper-binaries/android/arm64-v8a
           mkdir -p whisper-binaries/android/armeabi-v7a
+          
+          # ARM64
           cp whisper.cpp/build-arm64/bin/whisper-cli whisper-binaries/android/arm64-v8a/
-          cp whisper.cpp/build-armv7/bin/whisper-cli whisper-binaries/android/armeabi-v7a/
+          find whisper.cpp/build-arm64 -name "*.so" -exec cp {} whisper-binaries/android/arm64-v8a/ \;
           chmod +x whisper-binaries/android/arm64-v8a/whisper-cli
+          
+          # ARMv7
+          cp whisper.cpp/build-armv7/bin/whisper-cli whisper-binaries/android/armeabi-v7a/
+          find whisper.cpp/build-armv7 -name "*.so" -exec cp {} whisper-binaries/android/armeabi-v7a/ \;
           chmod +x whisper-binaries/android/armeabi-v7a/whisper-cli
+          
+          echo "=== ARM64 contents ==="
+          ls -lh whisper-binaries/android/arm64-v8a/
+          echo "=== ARMv7 contents ==="
+          ls -lh whisper-binaries/android/armeabi-v7a/
       
       - name: Upload Android binaries
         uses: actions/upload-artifact@v4
@@ -254,11 +266,12 @@ jobs:
           mkdir -p combined/android/arm64-v8a
           mkdir -p combined/android/armeabi-v7a
           
-          cp artifacts/whisper-linux/whisper-cli combined/linux/ || true
-          cp artifacts/whisper-macos/whisper-cli combined/macos/ || true
-          cp artifacts/whisper-windows/whisper-cli.exe combined/windows/ || true
-          cp artifacts/whisper-android/arm64-v8a/whisper-cli combined/android/arm64-v8a/ || true
-          cp artifacts/whisper-android/armeabi-v7a/whisper-cli combined/android/armeabi-v7a/ || true
+          # Copy each platform to its own subdirectory
+          cp artifacts/whisper-linux/* combined/linux/ 2>/dev/null || true
+          cp artifacts/whisper-macos/* combined/macos/ 2>/dev/null || true
+          cp artifacts/whisper-windows/* combined/windows/ 2>/dev/null || true
+          cp artifacts/whisper-android/arm64-v8a/* combined/android/arm64-v8a/ 2>/dev/null || true
+          cp artifacts/whisper-android/armeabi-v7a/* combined/android/armeabi-v7a/ 2>/dev/null || true
           
           echo "=== Binary sizes ==="
           find combined -type f -exec ls -lh {} \;

@@ -363,18 +363,25 @@ jobs:
       
       - name: Combine all FFmpeg binaries
         run: |
-          mkdir -p assets/bin
-          cp -r artifacts/ffmpeg-linux/* assets/bin/ || true
-          cp -r artifacts/ffmpeg-macos/* assets/bin/ || true
-          cp -r artifacts/ffmpeg-windows/* assets/bin/ || true
-          cp -r artifacts/ffmpeg-android/* assets/bin/ || true
+          mkdir -p combined/linux
+          mkdir -p combined/macos
+          mkdir -p combined/windows
+          mkdir -p combined/android/arm64-v8a
+          mkdir -p combined/android/armeabi-v7a
+          
+          # Copy each platform to its own subdirectory
+          cp artifacts/ffmpeg-linux/* combined/linux/ 2>/dev/null || true
+          cp artifacts/ffmpeg-macos/* combined/macos/ 2>/dev/null || true
+          cp artifacts/ffmpeg-windows/* combined/windows/ 2>/dev/null || true
+          cp artifacts/ffmpeg-android/arm64-v8a/* combined/android/arm64-v8a/ 2>/dev/null || true
+          cp artifacts/ffmpeg-android/armeabi-v7a/* combined/android/armeabi-v7a/ 2>/dev/null || true
           
           echo "=== FFmpeg Binary sizes ==="
-          find assets/bin -type f -exec ls -lh {} \;
+          find combined -type f -exec ls -lh {} \;
       
       - name: Upload combined artifacts
         uses: actions/upload-artifact@v4
         with:
           name: ffmpeg-all-platforms
-          path: assets/bin/
+          path: combined/
           retention-days: 90
