@@ -56,14 +56,6 @@ windows/runner/Resources/bin/
 **/generated_plugins.cmake
 **/GeneratedPluginRegistrant.swift
 
-# Binary assets - downloaded by CI
-assets/bin/
-assets/whisper/
-
-# But keep the directory structure
-!assets/bin/.gitkeep
-!assets/whisper/.gitkeep
-
 # macOS Pods
 macos/Pods/
 macos/Podfile.lock
