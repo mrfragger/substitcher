@@ -73,6 +73,10 @@ jobs:
     runs-on: macos-latest
     steps:
       - uses: actions/checkout@v4
+
+      - name: Install dependencies
+        run: |
+          brew install nasm
       
       - name: Build FFmpeg for x86_64
         run: |
@@ -223,8 +227,131 @@ jobs:
           name: ffmpeg-windows
           path: assets/bin/windows/
 
+  build-ffmpeg-android:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Setup Android NDK
+        uses: nttld/setup-ndk@v1
+        with:
+          ndk-version: r26d
+          add-to-path: true
+      
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y build-essential nasm yasm
+      
+      - name: Download FFmpeg source
+        run: |
+          wget https://ffmpeg.org/releases/ffmpeg-8.0.1.tar.xz
+          tar xf ffmpeg-8.0.1.tar.xz
+      
+      - name: Build for arm64-v8a
+        run: |
+          cd ffmpeg-8.0.1
+          
+          TOOLCHAIN=$ANDROID_NDK_ROOT/toolchains/llvm/prebuilt/linux-x86_64
+          API=24
+          
+          ./configure \
+            --prefix=$PWD/../ffmpeg-install-arm64 \
+            --enable-cross-compile \
+            --target-os=android \
+            --arch=arm64 \
+            --cpu=armv8-a \
+            --cc=$TOOLCHAIN/bin/aarch64-linux-android${API}-clang \
+            --cxx=$TOOLCHAIN/bin/aarch64-linux-android${API}-clang++ \
+            --ar=$TOOLCHAIN/bin/llvm-ar \
+            --ranlib=$TOOLCHAIN/bin/llvm-ranlib \
+            --strip=$TOOLCHAIN/bin/llvm-strip \
+            --disable-shared \
+            --enable-static \
+            --disable-gpl \
+            --disable-nonfree \
+            --disable-doc \
+            --disable-debug \
+            --disable-everything \
+            --enable-ffmpeg \
+            --enable-ffprobe \
+            --enable-decoder=opus,aac,aac_fixed,aac_latm,mp3,mp3float,pcm_s16le,pcm_s24le,pcm_f32le,flac,vorbis,alac \
+            --enable-encoder=opus,aac,pcm_s16le \
+            --enable-demuxer=opus,ogg,matroska,wav,mp3,aac,m4a,mov,flac \
+            --enable-muxer=opus,ogg,matroska,wav,ipod,mp4 \
+            --enable-parser=opus,aac,aac_latm,mp3,flac,vorbis \
+            --enable-protocol=file \
+            --enable-filter=volume,equalizer,highpass,lowpass,aformat,aresample,atempo
+          
+          make -j$(nproc)
+          make install
+          
+          $TOOLCHAIN/bin/llvm-strip ../ffmpeg-install-arm64/bin/ffmpeg
+          $TOOLCHAIN/bin/llvm-strip ../ffmpeg-install-arm64/bin/ffprobe
+      
+      - name: Build for armeabi-v7a
+        run: |
+          cd ffmpeg-8.0.1
+          make distclean
+          
+          TOOLCHAIN=$ANDROID_NDK_ROOT/toolchains/llvm/prebuilt/linux-x86_64
+          API=24
+          
+          ./configure \
+            --prefix=$PWD/../ffmpeg-install-armv7 \
+            --enable-cross-compile \
+            --target-os=android \
+            --arch=arm \
+            --cpu=armv7-a \
+            --cc=$TOOLCHAIN/bin/armv7a-linux-androideabi${API}-clang \
+            --cxx=$TOOLCHAIN/bin/armv7a-linux-androideabi${API}-clang++ \
+            --ar=$TOOLCHAIN/bin/llvm-ar \
+            --ranlib=$TOOLCHAIN/bin/llvm-ranlib \
+            --strip=$TOOLCHAIN/bin/llvm-strip \
+            --disable-shared \
+            --enable-static \
+            --disable-gpl \
+            --disable-nonfree \
+            --disable-doc \
+            --disable-debug \
+            --disable-everything \
+            --enable-ffmpeg \
+            --enable-ffprobe \
+            --enable-decoder=opus,aac,aac_fixed,aac_latm,mp3,mp3float,pcm_s16le,pcm_s24le,pcm_f32le,flac,vorbis,alac \
+            --enable-encoder=opus,aac,pcm_s16le \
+            --enable-demuxer=opus,ogg,matroska,wav,mp3,aac,m4a,mov,flac \
+            --enable-muxer=opus,ogg,matroska,wav,ipod,mp4 \
+            --enable-parser=opus,aac,aac_latm,mp3,flac,vorbis \
+            --enable-protocol=file \
+            --enable-filter=volume,equalizer,highpass,lowpass,aformat,aresample,atempo
+          
+          make -j$(nproc)
+          make install
+          
+          $TOOLCHAIN/bin/llvm-strip ../ffmpeg-install-armv7/bin/ffmpeg
+          $TOOLCHAIN/bin/llvm-strip ../ffmpeg-install-armv7/bin/ffprobe
+      
+      - name: Create artifact structure
+        run: |
+          mkdir -p ffmpeg-binaries/android/arm64-v8a
+          mkdir -p ffmpeg-binaries/android/armeabi-v7a
+          
+          cp ffmpeg-install-arm64/bin/ffmpeg ffmpeg-binaries/android/arm64-v8a/
+          cp ffmpeg-install-arm64/bin/ffprobe ffmpeg-binaries/android/arm64-v8a/
+          cp ffmpeg-install-armv7/bin/ffmpeg ffmpeg-binaries/android/armeabi-v7a/
+          cp ffmpeg-install-armv7/bin/ffprobe ffmpeg-binaries/android/armeabi-v7a/
+          
+          chmod +x ffmpeg-binaries/android/arm64-v8a/*
+          chmod +x ffmpeg-binaries/android/armeabi-v7a/*
+      
+      - name: Upload Android FFmpeg
+        uses: actions/upload-artifact@v4
+        with:
+          name: ffmpeg-android
+          path: ffmpeg-binaries/android/
+
   combine-artifacts:
-    needs: [build-ffmpeg-linux, build-ffmpeg-macos, build-ffmpeg-windows]
+    needs: [build-ffmpeg-linux, build-ffmpeg-macos, build-ffmpeg-windows, build-ffmpeg-android]
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -240,6 +367,7 @@ jobs:
           cp -r artifacts/ffmpeg-linux/* assets/bin/ || true
           cp -r artifacts/ffmpeg-macos/* assets/bin/ || true
           cp -r artifacts/ffmpeg-windows/* assets/bin/ || true
+          cp -r artifacts/ffmpeg-android/* assets/bin/ || true
           
           echo "=== FFmpeg Binary sizes ==="
           find assets/bin -type f -exec ls -lh {} \;
