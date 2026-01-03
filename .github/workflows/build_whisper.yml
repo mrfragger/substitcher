@@ -121,45 +121,38 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       
-      - name: Setup Git
-        run: |
-          choco install git -y
-        shell: powershell
+      - name: Add msbuild to PATH
+        uses: microsoft/setup-msbuild@v2
       
-      - name: Setup MSYS2
-        uses: msys2/setup-msys2@v2
-        with:
-          msystem: MINGW64
-          update: true
-          install: >-
-            base-devel
-            mingw-w64-x86_64-toolchain
-            mingw-w64-x86_64-cmake
-            git
-      
-      - name: Clone and build whisper.cpp
-        shell: msys2 {0}
+      - name: Clone whisper.cpp
         run: |
           git clone https://github.com/ggerganov/whisper.cpp.git
           cd whisper.cpp
           git checkout v1.8.2
-          mkdir build && cd build
-          cmake .. -DCMAKE_BUILD_TYPE=Release -G "MinGW Makefiles"
-          cmake --build . --config Release
-          strip bin/whisper-cli.exe
+      
+      - name: Configure
+        run: |
+          cd whisper.cpp
+          cmake -S . -B ./build -A x64 -DCMAKE_BUILD_TYPE=Release -DBUILD_SHARED_LIBS=ON
+      
+      - name: Build
+        run: |
+          cd whisper.cpp/build
+          msbuild ALL_BUILD.vcxproj -t:build -p:configuration=Release -p:platform=x64
       
       - name: Collect all libraries
-        shell: msys2 {0}
+        shell: powershell
         run: |
-          mkdir -p whisper-binaries/windows
-          cp whisper.cpp/build/bin/whisper-cli.exe whisper-binaries/windows/
+          New-Item -ItemType Directory -Force -Path whisper-binaries/windows
           
-          cp whisper.cpp/build/src/libwhisper*.dll whisper-binaries/windows/ || true
+          # Copy executable
+          Copy-Item whisper.cpp/build/bin/Release/whisper-cli.exe whisper-binaries/windows/
           
-          find whisper.cpp/build/ggml -name "*.dll" -type f -exec cp {} whisper-binaries/windows/ \;
+          # Copy all DLLs
+          Copy-Item whisper.cpp/build/bin/Release/*.dll whisper-binaries/windows/
           
-          echo "=== Final contents ==="
-          ls -lh whisper-binaries/windows/
+          Write-Host "=== Final contents ==="
+          Get-ChildItem whisper-binaries/windows/ | Format-Table Name, Length
       
       - name: Upload Windows binary
         uses: actions/upload-artifact@v4
