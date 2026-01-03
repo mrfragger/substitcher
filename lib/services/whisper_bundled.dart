@@ -14,9 +14,17 @@ class WhisperBundled {
     
     String assetPath;
     String execName = 'whisper-cli';
+    List<String> additionalFiles = [];
     
     if (Platform.isMacOS) {
       assetPath = 'assets/whisper/macos/whisper-cli';
+      // Metal libraries needed on macOS
+      additionalFiles = [
+        'assets/whisper/macos/libggml-metal.dylib',
+        'assets/whisper/macos/libggml.dylib',
+        'assets/whisper/macos/libggml-cpu.dylib',
+        'assets/whisper/macos/libggml-base.dylib',
+      ];
     } else if (Platform.isLinux) {
       assetPath = 'assets/whisper/linux/whisper-cli';
     } else if (Platform.isWindows) {
@@ -37,7 +45,6 @@ class WhisperBundled {
       }
       
       assetPath = 'assets/whisper/android/$abi/whisper-cli';
-    
     } else {
       throw UnsupportedError('Platform ${Platform.operatingSystem} not supported');
     }
@@ -49,6 +56,21 @@ class WhisperBundled {
       print('Extracting whisper binary from $assetPath to $execPath');
       final byteData = await rootBundle.load(assetPath);
       await execFile.writeAsBytes(byteData.buffer.asUint8List());
+      
+      // Extract additional files (Metal libraries on macOS)
+      for (final additionalAsset in additionalFiles) {
+        try {
+          final fileName = additionalAsset.split('/').last;
+          final destPath = '${whisperDir.path}/$fileName';
+          final destFile = File(destPath);
+          
+          print('Extracting $fileName');
+          final additionalData = await rootBundle.load(additionalAsset);
+          await destFile.writeAsBytes(additionalData.buffer.asUint8List());
+        } catch (e) {
+          print('Warning: Could not extract $additionalAsset: $e');
+        }
+      }
       
       if (!Platform.isWindows) {
         final chmodResult = await Process.run('chmod', ['+x', execPath]);

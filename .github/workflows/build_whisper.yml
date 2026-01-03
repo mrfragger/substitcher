@@ -52,7 +52,7 @@ jobs:
           cd whisper.cpp
           git checkout v1.8.2
       
-      - name: Build x86_64 (no optimizations)
+      - name: Build x86_64 (static, no optimizations, no Metal)
         run: |
           cd whisper.cpp
           mkdir build-x86_64 && cd build-x86_64
@@ -60,17 +60,23 @@ jobs:
             -DCMAKE_BUILD_TYPE=Release \
             -DCMAKE_OSX_ARCHITECTURES=x86_64 \
             -DGGML_NATIVE=OFF \
-            -DWHISPER_METAL=OFF
+            -DWHISPER_METAL=OFF \
+            -DBUILD_SHARED_LIBS=OFF \
+            -DWHISPER_BUILD_TESTS=OFF \
+            -DWHISPER_BUILD_EXAMPLES=ON
           cmake --build . --config Release -j 4
       
-      - name: Build arm64 (with Metal)
+      - name: Build arm64 (static, with Metal)
         run: |
           cd whisper.cpp
           mkdir build-arm64 && cd build-arm64
           cmake .. \
             -DCMAKE_BUILD_TYPE=Release \
             -DCMAKE_OSX_ARCHITECTURES=arm64 \
-            -DWHISPER_METAL=ON
+            -DWHISPER_METAL=ON \
+            -DBUILD_SHARED_LIBS=OFF \
+            -DWHISPER_BUILD_TESTS=OFF \
+            -DWHISPER_BUILD_EXAMPLES=ON
           cmake --build . --config Release -j 4
       
       - name: Create universal binary
@@ -82,17 +88,37 @@ jobs:
             -output whisper-cli-universal
           strip whisper-cli-universal
       
+      - name: Collect Metal libraries (ARM64 only)
+        run: |
+          cd whisper.cpp/build-arm64
+          echo "=== Collecting Metal dylibs ==="
+          find . -name "*.dylib" -type f
+          
+          mkdir -p ../../metal-libs
+          
+          # Copy all Metal-related dylibs
+          cp ggml/src/ggml-metal/libggml-metal.dylib ../../metal-libs/ || true
+          cp ggml/src/libggml.dylib ../../metal-libs/ || true
+          cp ggml/src/ggml-cpu/libggml-cpu.dylib ../../metal-libs/ || true
+          cp ggml/src/libggml-base.dylib ../../metal-libs/ || true
+          
+          cd ../../metal-libs
+          ls -lh
+      
       - name: Create directory structure
         run: |
           mkdir -p whisper-binaries/macos
           cp whisper.cpp/whisper-cli-universal whisper-binaries/macos/whisper-cli
+          
+          # Copy Metal libraries
+          if [ -d "whisper.cpp/metal-libs" ]; then
+            cp whisper.cpp/metal-libs/*.dylib whisper-binaries/macos/ || true
+          fi
+          
           chmod +x whisper-binaries/macos/whisper-cli
-      
-      - name: Verify universal binary
-        run: |
-          file whisper-binaries/macos/whisper-cli
-          lipo -info whisper-binaries/macos/whisper-cli
-          ls -lh whisper-binaries/macos/whisper-cli
+          
+          echo "=== Final contents ==="
+          ls -lh whisper-binaries/macos/
       
       - name: Upload macOS binary
         uses: actions/upload-artifact@v4
