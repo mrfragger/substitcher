@@ -59,7 +59,7 @@ jobs:
           cd whisper.cpp
           git checkout v1.8.2
       
-      - name: Build x86_64 (static, no optimizations, no Metal)
+      - name: Build x86_64 (no optimizations, no Metal)
         run: |
           cd whisper.cpp
           mkdir build-x86_64 && cd build-x86_64
@@ -68,12 +68,11 @@ jobs:
             -DCMAKE_OSX_ARCHITECTURES=x86_64 \
             -DGGML_NATIVE=OFF \
             -DWHISPER_METAL=OFF \
-            -DBUILD_SHARED_LIBS=OFF \
             -DWHISPER_BUILD_TESTS=OFF \
             -DWHISPER_BUILD_EXAMPLES=ON
           cmake --build . --config Release -j 4
       
-      - name: Build arm64 (static, with Metal)
+      - name: Build arm64 (with Metal)
         run: |
           cd whisper.cpp
           mkdir build-arm64 && cd build-arm64
@@ -81,7 +80,6 @@ jobs:
             -DCMAKE_BUILD_TYPE=Release \
             -DCMAKE_OSX_ARCHITECTURES=arm64 \
             -DWHISPER_METAL=ON \
-            -DBUILD_SHARED_LIBS=OFF \
             -DWHISPER_BUILD_TESTS=OFF \
             -DWHISPER_BUILD_EXAMPLES=ON
           cmake --build . --config Release -j 4
@@ -100,13 +98,11 @@ jobs:
           cd whisper.cpp
           mkdir -p ../whisper-binaries/macos
           
-          # Copy the universal binary
           cp whisper-cli-universal ../whisper-binaries/macos/whisper-cli
           
-          # Collect all dylibs from ARM64 build (includes Metal)
-          find build-arm64 -name "*.dylib" -type f | while read lib; do
-            cp "$lib" ../whisper-binaries/macos/
-          done
+          cp build-arm64/src/libwhisper*.dylib ../whisper-binaries/macos/ || true
+          
+          find build-arm64/ggml -name "*.dylib" -type f -exec cp {} ../whisper-binaries/macos/ \;
           
           chmod +x ../whisper-binaries/macos/whisper-cli
           
@@ -158,9 +154,9 @@ jobs:
           mkdir -p whisper-binaries/windows
           cp whisper.cpp/build/bin/whisper-cli.exe whisper-binaries/windows/
           
-          # Copy DLL files
-          find whisper.cpp/build/src -name "*.dll" -exec cp {} whisper-binaries/windows/ \;
-          find whisper.cpp/build/ggml -name "*.dll" -exec cp {} whisper-binaries/windows/ \;
+          cp whisper.cpp/build/src/libwhisper*.dll whisper-binaries/windows/ || true
+          
+          find whisper.cpp/build/ggml -name "*.dll" -type f -exec cp {} whisper-binaries/windows/ \;
           
           echo "=== Final contents ==="
           ls -lh whisper-binaries/windows/
