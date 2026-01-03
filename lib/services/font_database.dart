@@ -368,6 +368,7 @@ class FontDatabase {
      'Wonder Cosmos demo': FontMetadata(fontName: 'Wonder Cosmos demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.mustBeUppercase], studio: FontCategory.studio177),
  
      // ==================== demo/MustBeUPPERCASE/Favorites ====================
+     'Chonka Muchas': FontMetadata(fontName: 'Chonka Muchas', mainCategory: FontCategory.demo123, subCategories: [FontCategory.mustBeUppercase], studio: null),
      // Note: Some of these fonts appear in other categories too, which is fine
    };
    

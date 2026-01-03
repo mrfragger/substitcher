@@ -2,7 +2,6 @@ import 'dart:io';
 import 'dart:async';
 import 'package:path/path.dart' as path;
 import 'package:shared_preferences/shared_preferences.dart';
-import 'whisper_bundled.dart';
 
 class WhisperService {
   String? whisperExecutablePath;
@@ -23,33 +22,8 @@ class WhisperService {
   bool translateToEnglish = false;
   
   Future<void> initialize() async {
-    try {
-      whisperExecutablePath = await WhisperBundled.getWhisperExecutablePath();
-      print('Whisper initialized at: $whisperExecutablePath');
-      
-      // Verify the binary exists and is executable
-      final file = File(whisperExecutablePath!);
-      if (!file.existsSync()) {
-        print('ERROR: Whisper binary does not exist at: $whisperExecutablePath');
-      } else {
-        print('Whisper binary found, size: ${file.lengthSync()} bytes');
-        
-        // Test if it runs
-        try {
-          final result = await Process.run(whisperExecutablePath!, ['--help']);
-          print('Whisper test run exit code: ${result.exitCode}');
-          if (result.exitCode != 0) {
-            print('Whisper stderr: ${result.stderr}');
-          }
-        } catch (e) {
-          print('ERROR running whisper binary: $e');
-        }
-      }
-    } catch (e) {
-      print('Failed to initialize bundled whisper: $e');
-    }
-    
     final prefs = await SharedPreferences.getInstance();
+    whisperExecutablePath = prefs.getString('whisperExecutablePath');
     modelDirectory = prefs.getString('whisperModelDirectory');
     language = prefs.getString('whisperLanguage') ?? 'auto';
     selectedModel = prefs.getString('whisperModel') ?? 'large-v3-turbo';
@@ -149,16 +123,11 @@ class WhisperService {
       
       opusFiles.sort((a, b) => path.basename(a.path).compareTo(path.basename(b.path)));
       
-      final vttOutputDir = Directory(path.join(chaptersDirectory, 'vttsubs'));
-      if (!vttOutputDir.existsSync()) {
-        vttOutputDir.createSync();
-      }
-      
+      // DELETE temp_transcribe before starting
       final tempWorkDir = Directory(path.join(chaptersDirectory, 'temp_transcribe'));
       if (tempWorkDir.existsSync()) {
         tempWorkDir.deleteSync(recursive: true);
       }
-      tempWorkDir.createSync();
       
       final totalChapters = opusFiles.length;
       final chapterVttFiles = <String>[];
@@ -170,6 +139,12 @@ class WhisperService {
         final opusFile = opusFiles[chapterIndex];
         final chapterName = path.basenameWithoutExtension(opusFile.path);
         
+        final chapterTempDir = Directory(path.join(chaptersDirectory, 'temp_transcribe', chapterName));
+        if (chapterTempDir.existsSync()) {
+          chapterTempDir.deleteSync(recursive: true);
+        }
+        chapterTempDir.createSync(recursive: true);
+        
         onProgress(
           'Processing chapter ${chapterIndex + 1}/$totalChapters: $chapterName',
           chapterIndex / totalChapters,
@@ -177,7 +152,7 @@ class WhisperService {
         
         final chapterVttPath = await _transcribeChapter(
           opusFile.path,
-          tempWorkDir.path,
+          chapterTempDir.path,
           modelPath,
           (segmentStatus, segmentProgress) {
             final overallProgress = (chapterIndex + segmentProgress) / totalChapters;
@@ -187,9 +162,13 @@ class WhisperService {
         );
         
         if (chapterVttPath != null) {
-          final finalChapterVtt = path.join(vttOutputDir.path, '$chapterName.vtt');
+          final finalChapterVtt = path.join(chaptersDirectory, '$chapterName.vtt');
           await File(chapterVttPath).copy(finalChapterVtt);
           chapterVttFiles.add(finalChapterVtt);
+          
+          if (chapterTempDir.existsSync()) {
+            chapterTempDir.deleteSync(recursive: true);
+          }
         }
         
         final chapterElapsed = DateTime.now().difference(chapterStart);
@@ -240,15 +219,8 @@ class WhisperService {
     
     try {
       final workDir = Directory(workingDirectory);
-      if (workDir.existsSync()) {
-        for (final entity in workDir.listSync()) {
-          if (entity is File) {
-            await entity.delete();
-          }
-          if (entity is Directory) {
-            await entity.delete(recursive: true);
-          }
-        }
+      if (!workDir.existsSync()) {
+        workDir.createSync(recursive: true);
       }
       
       onProgress('Splitting into $segmentTime segments...', 0.1);
@@ -271,8 +243,9 @@ class WhisperService {
       onProgress('Stitching VTT segments...', 0.8);
       final stitchedVttPath = await _stitchVttFilesForChapter(opusFilePath, workingDirectory);
       
-      onProgress('Cleaning up...', 0.9);
-      await _cleanup(workingDirectory);
+      onProgress('Cleaning up temporary files...', 0.9);
+      // Comment out cleanup to preserve temp files for debugging
+      // await _cleanup(workingDirectory);
       
       onProgress('Chapter complete: $chapterName', 1.0);
       
@@ -344,6 +317,14 @@ class WhisperService {
     String modelPath,
     String workingDir,
   ) async {
+    Map<String, String>? environment;
+    if (Platform.isMacOS) {
+      final whisperDir = File(whisperExecutablePath!).parent.path;
+      environment = {
+        'DYLD_LIBRARY_PATH': whisperDir,
+      };
+    }
+  
     final args = <String>[
       '-m', modelPath,
       ...wavFiles,
@@ -372,6 +353,7 @@ class WhisperService {
       whisperExecutablePath!,
       args,
       workingDirectory: workingDir,
+      environment: environment,
     );
     
     if (result.exitCode != 0) {
@@ -463,14 +445,12 @@ class WhisperService {
     final stitchedTemp4 = path.join(sourceDir.path, 'stitchedsubstemp4.vtt');
     await _addHourToTimecodes(stitchedTemp1, stitchedTemp4);
   
-    final stitchedOverlap = path.join(sourceDir.path, 'stitchedsubsoverlap.vtt');
-    await _fixOverlappingTimecodes(stitchedTemp4, stitchedOverlap);
-    
     final stitchedTemp2 = path.join(sourceDir.path, 'stitchedsubstemp2.vtt');
-    await _addWebvttHeader(stitchedOverlap, stitchedTemp2);
+    await _addWebvttHeader(stitchedTemp4, stitchedTemp2);
   
     final chapterName = path.basenameWithoutExtension(originalOpusPath);
-    final finalVtt = path.join(workingDir, '${chapterName}_temp.vtt');
+    // Return path in working dir (will be copied to encodedchapters root by caller)
+    final finalVtt = path.join(workingDir, '$chapterName.vtt');
     await File(stitchedTemp2).copy(finalVtt);
   
     return finalVtt;

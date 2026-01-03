@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
 import 'dart:io';
 import '../services/cjk_tokenizer.dart';
 import '../services/dictionary_service.dart';

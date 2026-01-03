@@ -234,7 +234,7 @@
 			buildConfigurationList = 33CC10FB2044A3C60003C045 /* Build configuration list for PBXNativeTarget "Runner" */;
 			buildPhases = (
 				08A1606E6FFBD0529B08BA79 /* [CP] Check Pods Manifest.lock */,
-				66EE882A2EFD23970064F1F9 /* Copy FFmpeg Binaries */,
+				66EE882A2EFD23970064F1F9 /* Copy FFmpeg and Whisper Binaries */,
 				66BC3C9C2EFE7F9C009F1C5B /* Copy Font Files */,
 				33CC10E92044A3C60003C045 /* Sources */,
 				33CC10EA2044A3C60003C045 /* Frameworks */,
@@ -426,7 +426,7 @@
 			shellPath = /bin/sh;
 			shellScript = "# Copy Font Files to app bundle\nFONTS_SRC=\"${SRCROOT}/../fonts\"\nFONTS_DEST=\"${BUILT_PRODUCTS_DIR}/${PRODUCT_NAME}.app/Contents/Resources/fonts\"\n\necho \"========== FONT COPY SCRIPT ==========\"\necho \"Configuration: ${CONFIGURATION}\"\necho \"FONTS_SRC: ${FONTS_SRC}\"\necho \"FONTS_DEST: ${FONTS_DEST}\"\n\nmkdir -p \"$FONTS_DEST\"\n\nif [ -d \"$FONTS_SRC\" ]; then\n    echo \"✓ Fonts directory found\"\n    \n    cp \"$FONTS_SRC\"/*.ttf \"$FONTS_DEST/\" 2>/dev/null || true\n    cp \"$FONTS_SRC\"/*.otf \"$FONTS_DEST/\" 2>/dev/null || true\n    cp \"$FONTS_SRC\"/*.ttc \"$FONTS_DEST/\" 2>/dev/null || true\n    \n    FONT_COUNT=$(ls -1 \"$FONTS_DEST\" 2>/dev/null | wc -l)\n    echo \"✓ Copied $FONT_COUNT font files to $FONTS_DEST\"\nelse\n    echo \"✗ ERROR: Fonts directory not found at $FONTS_SRC\"\n    ls -la \"${SRCROOT}/../..\"\nfi\necho \"======================================\"\n";
 		};
-		66EE882A2EFD23970064F1F9 /* Copy FFmpeg Binaries */ = {
+		66EE882A2EFD23970064F1F9 /* Copy FFmpeg and Whisper Binaries */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -435,14 +435,14 @@
 			);
 			inputPaths = (
 			);
-			name = "Copy FFmpeg Binaries";
+			name = "Copy FFmpeg and Whisper Binaries";
 			outputFileListPaths = (
 			);
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "# Copy FFmpeg binaries to app bundle\nRESOURCES_BIN=\"${BUILT_PRODUCTS_DIR}/${PRODUCT_NAME}.app/Contents/Resources/bin\"\nmkdir -p \"$RESOURCES_BIN\"\n\nif [ -f \"${SRCROOT}/Runner/Resources/bin/ffmpeg\" ]; then\n    cp \"${SRCROOT}/Runner/Resources/bin/ffmpeg\" \"$RESOURCES_BIN/\"\n    cp \"${SRCROOT}/Runner/Resources/bin/ffprobe\" \"$RESOURCES_BIN/\"\n    chmod +x \"$RESOURCES_BIN/ffmpeg\"\n    chmod +x \"$RESOURCES_BIN/ffprobe\"\n    echo \"Copied FFmpeg binaries to $RESOURCES_BIN\"\nelse\n    echo \"Warning: FFmpeg binaries not found in ${SRCROOT}/Runner/Resources/bin/\"\nfi\n";
+			shellScript = "# Copy FFmpeg binaries to app bundle\nRESOURCES_BIN=\"${BUILT_PRODUCTS_DIR}/${PRODUCT_NAME}.app/Contents/Resources/bin\"\nmkdir -p \"$RESOURCES_BIN\"\n\nif [ -f \"${SRCROOT}/Runner/Resources/bin/ffmpeg\" ]; then\n    cp \"${SRCROOT}/Runner/Resources/bin/ffmpeg\" \"$RESOURCES_BIN/\"\n    cp \"${SRCROOT}/Runner/Resources/bin/ffprobe\" \"$RESOURCES_BIN/\"\n    chmod +x \"$RESOURCES_BIN/ffmpeg\"\n    chmod +x \"$RESOURCES_BIN/ffprobe\"\n    echo \"Copied FFmpeg binaries to $RESOURCES_BIN\"\nelse\n    echo \"Warning: FFmpeg binaries not found in ${SRCROOT}/Runner/Resources/bin/\"\nfi\n\n# Copy Whisper binaries and libraries to app bundle\nRESOURCES_WHISPER=\"${BUILT_PRODUCTS_DIR}/${PRODUCT_NAME}.app/Contents/Resources/whisper\"\nmkdir -p \"$RESOURCES_WHISPER\"\n\nif [ -d \"${SRCROOT}/Runner/Resources/whisper\" ]; then\n    cp \"${SRCROOT}/Runner/Resources/whisper/\"* \"$RESOURCES_WHISPER/\"\n    chmod +x \"$RESOURCES_WHISPER/whisper-cli\"\n    echo \"Copied Whisper binaries to $RESOURCES_WHISPER\"\nelse\n    echo \"Warning: Whisper binaries not found in ${SRCROOT}/Runner/Resources/whisper/\"\nfi\n";
 		};
 		798FD89F194E640AADAAF49E /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
