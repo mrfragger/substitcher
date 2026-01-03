@@ -84,7 +84,7 @@ jobs:
         with:
           workflow: build_ffmpeg.yml
           name: ffmpeg-linux
-          path: assets/bin/linux/
+          path: bin/  # ✅ Changed from assets/bin/linux/ to bin/
       
       - name: Download Linux Whisper
         uses: dawidd6/action-download-artifact@v2
