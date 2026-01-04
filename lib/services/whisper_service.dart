@@ -2,6 +2,7 @@ import 'dart:io';
 import 'dart:async';
 import 'package:path/path.dart' as path;
 import 'package:shared_preferences/shared_preferences.dart';
+import 'whisper_bundled.dart'; 
 
 class WhisperService {
   String? whisperExecutablePath;
@@ -23,7 +24,16 @@ class WhisperService {
   
   Future<void> initialize() async {
     final prefs = await SharedPreferences.getInstance();
-    whisperExecutablePath = prefs.getString('whisperExecutablePath');
+    
+    try {
+      whisperExecutablePath = await WhisperBundled.getWhisperExecutablePath();
+      await prefs.setString('whisperExecutablePath', whisperExecutablePath!);
+      print('✅ Using bundled whisper: $whisperExecutablePath');
+    } catch (e) {
+      print('⚠️ Could not find bundled whisper: $e');
+      whisperExecutablePath = prefs.getString('whisperExecutablePath');
+    }
+    
     modelDirectory = prefs.getString('whisperModelDirectory');
     language = prefs.getString('whisperLanguage') ?? 'auto';
     selectedModel = prefs.getString('whisperModel') ?? 'large-v3-turbo';
@@ -35,7 +45,7 @@ class WhisperService {
     customPrompt = prefs.getString('whisperPrompt') ?? customPrompt;
     translateToEnglish = prefs.getBool('whisperTranslate') ?? false;
   }
-  
+
   Future<void> saveSettings() async {
     final prefs = await SharedPreferences.getInstance();
     if (whisperExecutablePath != null) {
@@ -53,7 +63,7 @@ class WhisperService {
     await prefs.setString('whisperPrompt', customPrompt);
     await prefs.setBool('whisperTranslate', translateToEnglish);
   }
-  
+      
   Future<void> setWhisperExecutable(String path) async {
     whisperExecutablePath = path;
     await saveSettings();
@@ -449,7 +459,6 @@ class WhisperService {
     await _addWebvttHeader(stitchedTemp4, stitchedTemp2);
   
     final chapterName = path.basenameWithoutExtension(originalOpusPath);
-    // Return path in working dir (will be copied to encodedchapters root by caller)
     final finalVtt = path.join(workingDir, '$chapterName.vtt');
     await File(stitchedTemp2).copy(finalVtt);
   

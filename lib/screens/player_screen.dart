@@ -305,7 +305,6 @@ class _PlayerScreenState extends State<PlayerScreen> {
         _currentPosition = position;
       });
       _checkChapterBoundary(position);
-      _checkSleepTimer();
       _checkPauseTrigger();
       _updateCurrentSubtitle();
       if (_isPlaying && position.inSeconds % 10 == 0) {
@@ -849,46 +848,81 @@ class _PlayerScreenState extends State<PlayerScreen> {
     }).toList();
   }
 
-  void _checkSleepTimer() {
-    if (_sleepDuration == null) return;
-    if (_sleepDuration == Duration.zero) {
-      final chapter = _currentAudiobook!.chapters[_currentChapterIndex];
-      if (_currentPosition >= chapter.endTime) {
-        exit(0);
-      }
-    } else if (_sleepDuration!.inMinutes == -1) {
-      if (_currentPosition >= _totalDuration) {
-        exit(0);
-      }
-    }
-  }
-
   void _setSleepTimer(Duration? duration) {
     _sleepTimer?.cancel();
-    if (duration == null) {
+    _sleepTimer = null;
+    
+    if (duration == null || duration.inSeconds == -1) {
       setState(() {
         _sleepDuration = null;
       });
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          const SnackBar(
+            content: Text('Sleep timer off'),
+            duration: Duration(seconds: 1),
+          ),
+        );
+      }
       return;
     }
+    
     if (duration == Duration.zero) {
+      if (_currentAudiobook == null) return;
+      final currentChapter = _currentAudiobook!.chapters[_currentChapterIndex];
+      final timeUntilChapterEnd = currentChapter.endTime - _currentPosition;
       setState(() {
         _sleepDuration = Duration.zero;
       });
+      _sleepTimer = Timer(timeUntilChapterEnd, () {
+        exit(0);
+      });
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          const SnackBar(
+            content: Text('Sleep timer: Chapter end'),
+            duration: Duration(seconds: 1),
+          ),
+        );
+      }
       return;
     }
+    
     if (duration.inMinutes == -1) {
+      if (_currentAudiobook == null) return;
+      final lastChapter = _currentAudiobook!.chapters.last;
+      final timeUntilBookEnd = lastChapter.endTime - _currentPosition;
       setState(() {
         _sleepDuration = Duration(minutes: -1);
       });
+      _sleepTimer = Timer(timeUntilBookEnd, () {
+        exit(0);
+      });
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          const SnackBar(
+            content: Text('Sleep timer: End of audiobook'),
+            duration: Duration(seconds: 1),
+          ),
+        );
+      }
       return;
     }
+    
     setState(() {
       _sleepDuration = duration;
     });
     _sleepTimer = Timer(duration, () {
       exit(0);
     });
+    if (mounted) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(
+          content: Text('Sleep timer: ${duration.inMinutes} minutes'),
+          duration: const Duration(seconds: 1),
+        ),
+      );
+    }
   }
 
   Color _adjustColorIfBright(String hexColor) {
@@ -1820,18 +1854,28 @@ class _PlayerScreenState extends State<PlayerScreen> {
 
   Future<void> _addBookmark() async {
     if (_currentAudiobook == null) return;
+    
     final currentChapter = _currentAudiobook!.chapters[_currentChapterIndex];
+    final timeFromChapterStart = _currentPosition - currentChapter.startTime;
     final timeUntilChapterEnd = currentChapter.endTime - _currentPosition;
+    
     Duration bookmarkPosition = _currentPosition;
     int bookmarkChapterIndex = _currentChapterIndex;
     String bookmarkChapterTitle = currentChapter.title;
-    if (timeUntilChapterEnd.inSeconds <= 10 && 
+    
+    if (timeFromChapterStart.inSeconds <= 10) {
+      bookmarkPosition = currentChapter.startTime;
+      bookmarkChapterTitle = currentChapter.title;
+      bookmarkChapterIndex = _currentChapterIndex;
+    }
+    else if (timeUntilChapterEnd.inSeconds <= 10 && 
         _currentChapterIndex < _currentAudiobook!.chapters.length - 1) {
       bookmarkChapterIndex = _currentChapterIndex + 1;
       final nextChapter = _currentAudiobook!.chapters[bookmarkChapterIndex];
       bookmarkPosition = nextChapter.startTime;
       bookmarkChapterTitle = nextChapter.title;
     }
+    
     final bookmark = Bookmark(
       audiobookPath: _currentAudiobook!.path,
       audiobookTitle: _currentAudiobook!.title,
@@ -1840,15 +1884,21 @@ class _PlayerScreenState extends State<PlayerScreen> {
       position: bookmarkPosition,
       created: DateTime.now(),
     );
+    
     setState(() {
       _bookmarks.insert(0, bookmark);
     });
     await _saveBookmarks();
+    
     if (mounted) {
       ScaffoldMessenger.of(context).showSnackBar(
-        const SnackBar(
-          content: Text('Bookmark added'),
-          duration: Duration(seconds: 1),
+        SnackBar(
+          content: Text(
+            timeFromChapterStart.inSeconds <= 10 || timeUntilChapterEnd.inSeconds <= 10
+                ? 'Bookmark added (snapped to chapter start)'
+                : 'Bookmark added'
+          ),
+          duration: const Duration(seconds: 1),
         ),
       );
     }
@@ -3357,6 +3407,9 @@ class _PlayerScreenState extends State<PlayerScreen> {
           } else if (event.logicalKey == LogicalKeyboardKey.keyY && event is KeyDownEvent) {
             _toggleFullscreen();
             return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyZ && event is KeyDownEvent) {
+            _setSleepTimer(Duration.zero);
+            return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyA && event is KeyDownEvent) {
             _applyDefaultSettings();
             return KeyEventResult.handled;
@@ -4525,12 +4578,65 @@ class _PlayerScreenState extends State<PlayerScreen> {
     return '';
   }
 
-  Future<void> _setPinNumber(int bookmarkIndex, int? pinNumber) async {
-    final bookmark = _bookmarks[bookmarkIndex].copyWith(pinNumber: pinNumber);
+  Future<void> _setPinNumber(int displayIndex, int? pinNumber) async {
+    // Get the filtered bookmarks list
+    final filteredBookmarks = _getFilteredBookmarks();
+    
+    // The displayIndex from the UI might be 1-indexed or include a header
+    // Let's use the actual index directly
+    if (displayIndex >= filteredBookmarks.length) return;
+    
+    // Get the actual bookmark from the filtered list
+    final targetBookmark = filteredBookmarks[displayIndex];
+    
+    // Find the index of this bookmark in the full _bookmarks list
+    final actualIndex = _bookmarks.indexWhere((b) => 
+      b.audiobookPath == targetBookmark.audiobookPath &&
+      b.chapterIndex == targetBookmark.chapterIndex &&
+      b.position == targetBookmark.position &&
+      b.created == targetBookmark.created
+    );
+    
+    if (actualIndex == -1) return;
+    
+    // Debug print to verify
+    print('Display index: $displayIndex, Actual index: $actualIndex');
+    print('Target bookmark: ${targetBookmark.chapterTitle}');
+    
     setState(() {
-      _bookmarks[bookmarkIndex] = bookmark;
+      // If setting a pin number (not null), first check if another bookmark already has this pin
+      if (pinNumber != null) {
+        // Find if any other bookmark has this pin number
+        for (int i = 0; i < _bookmarks.length; i++) {
+          if (i != actualIndex && _bookmarks[i].pinNumber == pinNumber) {
+            // Remove the pin from the other bookmark
+            _bookmarks[i] = _bookmarks[i].copyWith(clearPin: true);
+          }
+        }
+      }
+      
+      // Now set the pin for the requested bookmark
+      if (pinNumber == null) {
+        _bookmarks[actualIndex] = _bookmarks[actualIndex].copyWith(clearPin: true);
+      } else {
+        _bookmarks[actualIndex] = _bookmarks[actualIndex].copyWith(pinNumber: pinNumber);
+      }
     });
+    
     await _saveBookmarks();
+    
+    if (mounted) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(
+          content: Text(
+            pinNumber == null 
+              ? 'Bookmark unpinned: ${targetBookmark.chapterTitle}' 
+              : 'Bookmark pinned to $pinNumber: ${targetBookmark.chapterTitle}'
+          ),
+          duration: const Duration(seconds: 2),
+        ),
+      );
+    }
   }
 
   Future<void> _jumpToPinnedBookmark(int pinNumber) async {
@@ -4546,7 +4652,6 @@ class _PlayerScreenState extends State<PlayerScreen> {
   Future<void> _skipToPreviousSubtitle() async {
     if (_subtitles.isEmpty) return;
     
-    // Find current subtitle index first
     int currentIndex = -1;
     for (int i = 0; i < _subtitles.length; i++) {
       if (_subtitles[i].startTime <= _currentPosition && 
@@ -4556,7 +4661,6 @@ class _PlayerScreenState extends State<PlayerScreen> {
       }
     }
     
-    // Go to previous subtitle if it exists
     if (currentIndex > 0) {
       await _seekTo(_subtitles[currentIndex - 1].startTime);
     } else if (currentIndex == 0) {

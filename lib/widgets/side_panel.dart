@@ -708,99 +708,103 @@ class SidePanel extends StatelessWidget {
   }
 
   Widget _buildBookmarksList(BuildContext context) {
-    final filteredBookmarks = getFilteredBookmarks();
-    if (filteredBookmarks.isEmpty) {
-      return const Center(
-        child: Text(
-          'No bookmarks yet',
-          style: TextStyle(color: Colors.white54),
-        ),
-      );
-    }
-    final pinnedBookmarks = filteredBookmarks.where((b) => b.pinNumber != null).toList();
-    pinnedBookmarks.sort((a, b) => a.pinNumber!.compareTo(b.pinNumber!));
-    final unpinnedBookmarks = filteredBookmarks.where((b) => b.pinNumber == null).toList();
-    
-    return ListView.builder(
-      controller: historyScrollController,
-      itemCount: filteredBookmarks.length,
-      itemBuilder: (context, index) {
-        final bookmark = index < pinnedBookmarks.length 
-            ? pinnedBookmarks[index] 
-            : unpinnedBookmarks[index - pinnedBookmarks.length];
-        
-        final usedPinNumbers = filteredBookmarks
-            .where((b) => b.pinNumber != null && b != bookmark)
-            .map((b) => b.pinNumber!)
-            .toSet();
-        final availablePinNumbers = [1, 2, 3, 4, 5, 6, 7, 8, 9]
-            .where((num) => !usedPinNumbers.contains(num))
-            .toList();
-        
-        return ListTile(
-          leading: Row(
-            mainAxisSize: MainAxisSize.min,
-            children: [
-              if (bookmark.pinNumber != null)
-                Container(
-                  width: 24,
-                  height: 24,
-                  margin: const EdgeInsets.only(right: 8),
-                  decoration: BoxDecoration(
-                    color: Colors.deepPurple,
-                    borderRadius: BorderRadius.circular(4),
-                  ),
-                  child: Center(
-                    child: Text(
-                      '${bookmark.pinNumber}',
-                      style: const TextStyle(
-                        color: Colors.white,
-                        fontSize: 12,
-                        fontWeight: FontWeight.bold,
+      final filteredBookmarks = getFilteredBookmarks();
+      if (filteredBookmarks.isEmpty) {
+        return const Center(
+          child: Text(
+            'No bookmarks yet',
+            style: TextStyle(color: Colors.white54),
+          ),
+        );
+      }
+      final pinnedBookmarks = filteredBookmarks.where((b) => b.pinNumber != null).toList();
+      pinnedBookmarks.sort((a, b) => a.pinNumber!.compareTo(b.pinNumber!));
+      final unpinnedBookmarks = filteredBookmarks.where((b) => b.pinNumber == null).toList();
+      
+      return ListView.builder(
+        controller: historyScrollController,
+        itemCount: filteredBookmarks.length,
+        itemBuilder: (context, index) {
+          final bookmark = index < pinnedBookmarks.length 
+              ? pinnedBookmarks[index] 
+              : unpinnedBookmarks[index - pinnedBookmarks.length];
+          
+          final actualFilteredIndex = filteredBookmarks.indexOf(bookmark);
+          
+          final usedPinNumbers = filteredBookmarks
+              .where((b) => b.pinNumber != null && b != bookmark)
+              .map((b) => b.pinNumber!)
+              .toSet();
+          final availablePinNumbers = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+              .where((num) => !usedPinNumbers.contains(num))
+              .toList();
+          
+          return ListTile(
+            dense: true,
+            contentPadding: const EdgeInsets.symmetric(horizontal: 16, vertical: 4),
+            leading: Row(
+              mainAxisSize: MainAxisSize.min,
+              children: [
+                if (bookmark.pinNumber != null)
+                  Container(
+                    width: 24,
+                    height: 24,
+                    margin: const EdgeInsets.only(right: 8),
+                    decoration: BoxDecoration(
+                      color: Colors.deepPurple,
+                      borderRadius: BorderRadius.circular(4),
+                    ),
+                    child: Center(
+                      child: Text(
+                        '${bookmark.pinNumber}',
+                        style: const TextStyle(
+                          color: Colors.white,
+                          fontSize: 12,
+                          fontWeight: FontWeight.bold,
+                        ),
                       ),
                     ),
                   ),
+                const Icon(Icons.bookmark, color: Colors.deepPurple, size: 20),
+              ],
+            ),
+            title: Text(
+              bookmark.audiobookTitle,
+              style: const TextStyle(color: Colors.white, fontSize: 14),
+            ),
+            subtitle: Text(
+              '${bookmark.chapterTitle} • ${_formatDuration(bookmark.position)}',
+              style: const TextStyle(color: Colors.white54, fontSize: 12),
+            ),
+            trailing: Row(
+              mainAxisSize: MainAxisSize.min,
+              children: [
+                PopupMenuButton<int>(
+                  icon: const Icon(Icons.push_pin, color: Colors.white54, size: 20),
+                  tooltip: 'Pin bookmark',
+                  onSelected: (pinNumber) {
+                    onSetPinNumber(actualFilteredIndex, pinNumber == -1 ? null : pinNumber);
+                  },
+                  itemBuilder: (context) => [
+                    if (bookmark.pinNumber != null)
+                      const PopupMenuItem(value: -1, child: Text('None')),
+                    ...availablePinNumbers.map((num) => PopupMenuItem(
+                      value: num,
+                      child: Text('$num'),
+                    )),
+                  ],
                 ),
-              const Icon(Icons.bookmark, color: Colors.deepPurple, size: 20),
-            ],
-          ),
-          title: Text(
-            bookmark.audiobookTitle,
-            style: const TextStyle(color: Colors.white, fontSize: 14),
-          ),
-          subtitle: Text(
-            '${bookmark.chapterTitle} • ${_formatDuration(bookmark.position)}',
-            style: const TextStyle(color: Colors.white54, fontSize: 12),
-          ),
-          trailing: Row(
-            mainAxisSize: MainAxisSize.min,
-            children: [
-              PopupMenuButton<int>(
-                icon: const Icon(Icons.push_pin, color: Colors.white54, size: 20),
-                tooltip: 'Pin bookmark',
-                onSelected: (pinNumber) {
-                  onSetPinNumber(index, pinNumber == -1 ? null : pinNumber);
-                },
-                itemBuilder: (context) => [
-                  if (bookmark.pinNumber != null)
-                    const PopupMenuItem(value: -1, child: Text('None')),
-                  ...availablePinNumbers.map((num) => PopupMenuItem(
-                    value: num,
-                    child: Text('$num'),
-                  )),
-                ],
-              ),
-              IconButton(
-                icon: const Icon(Icons.delete, color: Colors.white54),
-                onPressed: () => onRemoveBookmark(index),
-              ),
-            ],
-          ),
-          onTap: () => onJumpToBookmark(bookmark),
-        );
-      },
-    );
-  }
+                IconButton(
+                  icon: const Icon(Icons.delete, color: Colors.white54),
+                  onPressed: () => onRemoveBookmark(actualFilteredIndex),
+                ),
+              ],
+            ),
+            onTap: () => onJumpToBookmark(bookmark),
+          );
+        },
+      );
+    }
 
   String _formatDuration(Duration d) {
     final hours = d.inHours;

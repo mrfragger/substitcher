@@ -28,6 +28,7 @@ class Bookmark {
     DateTime? created,
     String? note,
     int? pinNumber,
+    bool clearPin = false,
   }) {
     return Bookmark(
       audiobookPath: audiobookPath ?? this.audiobookPath,
@@ -37,7 +38,7 @@ class Bookmark {
       position: position ?? this.position,
       created: created ?? this.created,
       note: note ?? this.note,
-      pinNumber: pinNumber ?? this.pinNumber,
+      pinNumber: clearPin ? null : (pinNumber ?? this.pinNumber),
     );
   }
 

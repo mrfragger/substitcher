@@ -23,10 +23,14 @@ class EncodingConfig {
     final filters = <String>[];
     
     if (removeSilence && silenceDb != null) {
+      // Remove silence from START of audio
       filters.add(
-        'silenceremove=start_periods=0:stop_periods=-1:'
-        'start_threshold=-${silenceDb}dB:stop_threshold=-${silenceDb}dB:'
-        'start_silence=1:start_duration=0:stop_duration=1:detection=rms'
+        'silenceremove=start_periods=1:start_threshold=-${silenceDb}dB:start_silence=0:start_duration=0:detection=rms'
+      );
+      
+      // Remove silence from END and MIDDLE of audio
+      filters.add(
+        'silenceremove=start_periods=0:stop_periods=-1:stop_threshold=-${silenceDb}dB:stop_duration=1:detection=rms'
       );
     }
     

@@ -61,7 +61,6 @@ class CJKTokenizer {
       }
     }
     
-    // Determine language with priority
     TextLanguage detected;
     if (hasJapanese) {
       detected = TextLanguage.japanese;
@@ -70,7 +69,6 @@ class CJKTokenizer {
     } else if (hasChinese) {
       detected = TextLanguage.chinese;
     } else if (hasArabic && hasLatin) {
-      // Mixed Arabic/English - treat as Arabic so we don't filter short words
       detected = TextLanguage.arabic;
     } else if (hasLatin) {
       detected = TextLanguage.english;
@@ -80,7 +78,7 @@ class CJKTokenizer {
       detected = TextLanguage.unknown;
     }
     
-    print('🔍 Language Detection: "${text.substring(0, text.length > 50 ? 50 : text.length)}" -> $detected (hasArabic: $hasArabic, hasLatin: $hasLatin)');
+    // print('🔍 Language Detection: "${text.substring(0, text.length > 50 ? 50 : text.length)}" -> $detected (hasArabic: $hasArabic, hasLatin: $hasLatin)');
     
     return detected;
   }

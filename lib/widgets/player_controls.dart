@@ -488,7 +488,7 @@ class PlayerControls extends StatelessWidget {
           onSelected: onSetSleepTimer,
           itemBuilder: (context) => [
             const PopupMenuItem(
-              value: null,
+              value: Duration(seconds: -1), 
               child: Text('Off'),
             ),
             const PopupMenuItem(
@@ -521,7 +521,7 @@ class PlayerControls extends StatelessWidget {
             ),
             const PopupMenuItem(
               value: Duration.zero,
-              child: Text('Chapter end'),
+              child: Text('Chapter end (z)'),
             ),
           ],
         ),
