@@ -34,6 +34,8 @@ Opus chaptered encoder and player. Transcribe to vtt subtitles, search through a
 ### Dictionary Lookup Words
 - d opens dictionary word overlay
 - click on word to open Apple Dictionary on Mac
+- filters out tons of common words (and, the, to, from, etc.)
+- removes repeated words
 - or on Windows, Linux, Android copy to clipboard
 - Pause mode 2s, 3s, 5s, 10s or Dictionary mode (forever)
 - CJK (Chinese, Japanese, Korean) and Arabic subtitles
@@ -65,6 +67,7 @@ Opus chaptered encoder and player. Transcribe to vtt subtitles, search through a
 - shuffle chapters for lectures or vocab learning
 - keeps track of which chapters have been shuffled so doesn't repeat
 - shows duration of each chapter (ffprobe)
+- search through all chapters in entire plays (under Subs panel)
 
 ![](assets/screenshots/chapters.jpg)
 
@@ -75,12 +78,13 @@ Opus chaptered encoder and player. Transcribe to vtt subtitles, search through a
 - timeline position of where it'll resume
 - press h 1-9 to quickly open history entries
 - sorted by most recent
+- only shows most recent chapter with a particular audiobook
 
 ![](assets/screenshots/history.jpg)
 
 
 ### Playlist
-- set multiple playlists and switch between them (in Fonts panel)
+- set up to 10 playlists and switch between them
 - search through entire playlist
 - p 1-9 to quickly open playlist entries
 
@@ -149,6 +153,7 @@ Opus chaptered encoder and player. Transcribe to vtt subtitles, search through a
 - prayer times
 - White Days
 - auto-detect location or set coordinates
+- location is valid for 30 days (cached)
 
 
 ![](assets/screenshots/adhan.jpg)
@@ -165,12 +170,12 @@ macOS (arm64 Silicon m1,m2,m3,m4,m26) after install dmg in Terminal do
 xattr -dr com.apple.quarantine /Applications/SubStitcher.app
 ```
 
-Windows x64
+Windows x64\
 just unzip SubStitcher-windows-x64.zip\
 if nothing appears, may need to install\
 [Visual C++ 2015-2022 Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe)
 
-Linux Appimage
+Linux Appimage\
 appimage right click on file and choose Properties, then Permissions\
 check Allow executing file as program\
 or do below
