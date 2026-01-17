@@ -59,6 +59,7 @@ Opus chaptered encoder and player. Transcribe to vtt subtitles, search through a
 - z sleep at chapter end
 - sleep at End of Audiobook
 - Z cancel sleep timer
+- pause or adjusting playback speed also cancels sleep timer
 - warning of 60 seconds before closing app
 - if paused when setting sleep timer, playback is started
 
@@ -102,6 +103,8 @@ Opus chaptered encoder and player. Transcribe to vtt subtitles, search through a
 - 333+ fonts
 - demo fonts, demo123 (still demo but not missing numbers)
 - free (free for commerical use)
+- each missing and each alternate font, subs must be converted
+- ligature demo fonts, subs need converting only once
 
 ![](assets/screenshots/fonts.jpg)
 
@@ -143,7 +146,7 @@ Opus chaptered encoder and player. Transcribe to vtt subtitles, search through a
 - shows duration of listen audiobook title as well as which chapter listened to
 - shows total cumulative listening time of each audiobook from all chapters
 - average time per chapter
-- top 50 audiobooks listened too by duration
+- top 50 audiobooks listened to by duration
 - time duration bars of listening time for last 30 active days
 
 
