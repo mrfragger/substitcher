@@ -1,0 +1,333 @@
+name: Build Whisper Binaries
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/build_whisper.yml'
+
+jobs:
+  build-whisper-linux:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y build-essential cmake
+      
+      - name: Clone and build whisper.cpp
+        run: |
+          git clone https://github.com/ggerganov/whisper.cpp.git
+          cd whisper.cpp
+          git checkout v1.8.2
+          mkdir build && cd build
+          cmake .. -DCMAKE_BUILD_TYPE=Release
+          cmake --build . --config Release
+          strip bin/whisper-cli
+      
+      - name: Collect all libraries
+        run: |
+          mkdir -p whisper-binaries/linux
+          cp whisper.cpp/build/bin/whisper-cli whisper-binaries/linux/
+          find whisper.cpp/build/src -name "libwhisper*.so*" -exec cp {} whisper-binaries/linux/ \;
+          find whisper.cpp/build -name "libggml*.so*" -exec cp {} whisper-binaries/linux/ \;
+          chmod +x whisper-binaries/linux/whisper-cli
+          echo "=== Final contents ==="
+          ls -lh whisper-binaries/linux/
+      
+      - name: Upload Linux binary
+        uses: actions/upload-artifact@v4
+        with:
+          name: whisper-linux
+          path: whisper-binaries/linux/
+  
+  build-whisper-macos:
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Clone whisper.cpp
+        run: |
+          git clone https://github.com/ggerganov/whisper.cpp.git
+          cd whisper.cpp
+          git checkout v1.8.2
+      
+      - name: Build x86_64 (no Metal)
+        run: |
+          cd whisper.cpp
+          mkdir build-x86_64 && cd build-x86_64
+          cmake .. \
+            -DCMAKE_BUILD_TYPE=Release \
+            -DCMAKE_OSX_ARCHITECTURES=x86_64 \
+            -DGGML_NATIVE=OFF \
+            -DGGML_METAL=OFF \
+            -DWHISPER_METAL=OFF \
+            -DWHISPER_BUILD_TESTS=OFF \
+            -DWHISPER_BUILD_EXAMPLES=ON
+          cmake --build . --config Release -j 4
+          strip bin/whisper-cli
+      
+      - name: Build arm64 (with Metal)
+        run: |
+          cd whisper.cpp
+          mkdir build-arm64 && cd build-arm64
+          cmake .. \
+            -DCMAKE_BUILD_TYPE=Release \
+            -DCMAKE_OSX_ARCHITECTURES=arm64 \
+            -DGGML_METAL=ON \
+            -DWHISPER_METAL=ON \
+            -DWHISPER_BUILD_TESTS=OFF \
+            -DWHISPER_BUILD_EXAMPLES=ON
+          cmake --build . --config Release -j 4
+          strip bin/whisper-cli
+      
+      - name: Create universal binary
+        run: |
+          cd whisper.cpp
+          lipo -create \
+            build-x86_64/bin/whisper-cli \
+            build-arm64/bin/whisper-cli \
+            -output whisper-cli-universal
+          strip whisper-cli-universal
+      
+      - name: Fix library paths for bundling
+        run: |
+          cd whisper.cpp
+          
+          echo "=== Original library dependencies ==="
+          otool -L whisper-cli-universal
+          
+          lipo whisper-cli-universal -thin x86_64 -output whisper-cli-x86
+          lipo whisper-cli-universal -thin arm64 -output whisper-cli-arm
+          
+          for arch in whisper-cli-x86 whisper-cli-arm; do
+            install_name_tool -change @rpath/libwhisper.1.dylib @executable_path/libwhisper.1.dylib "$arch"
+            install_name_tool -change @rpath/libwhisper.dylib @executable_path/libwhisper.dylib "$arch"
+            install_name_tool -change @rpath/libggml.dylib @executable_path/libggml.dylib "$arch"
+            install_name_tool -change @rpath/libggml-base.dylib @executable_path/libggml-base.dylib "$arch"
+            install_name_tool -change @rpath/libggml-cpu.dylib @executable_path/libggml-cpu.dylib "$arch"
+            install_name_tool -change @rpath/libggml-metal.dylib @executable_path/libggml-metal.dylib "$arch"
+            install_name_tool -change @rpath/libggml-blas.dylib @executable_path/libggml-blas.dylib "$arch"
+          done
+          
+          lipo -create whisper-cli-x86 whisper-cli-arm -output whisper-cli-universal
+          rm whisper-cli-x86 whisper-cli-arm
+          
+          cd build-arm64/src
+          for lib in libwhisper*.dylib; do
+            if [ -f "$lib" ] && [ ! -L "$lib" ]; then
+              echo "Fixing $lib"
+              install_name_tool -id @loader_path/$lib "$lib"
+              install_name_tool -change @rpath/libggml.dylib @loader_path/libggml.dylib "$lib" 2>/dev/null || true
+              install_name_tool -change @rpath/libggml-base.dylib @loader_path/libggml-base.dylib "$lib" 2>/dev/null || true
+              install_name_tool -change @rpath/libggml-cpu.dylib @loader_path/libggml-cpu.dylib "$lib" 2>/dev/null || true
+              install_name_tool -change @rpath/libggml-metal.dylib @loader_path/libggml-metal.dylib "$lib" 2>/dev/null || true
+              install_name_tool -change @rpath/libggml-blas.dylib @loader_path/libggml-blas.dylib "$lib" 2>/dev/null || true
+            fi
+          done
+          
+          cd ../ggml/src
+          for lib in *.dylib; do
+            if [ -f "$lib" ] && [ ! -L "$lib" ]; then
+              echo "Fixing ggml lib: $lib"
+              install_name_tool -id @loader_path/$lib "$lib"
+              install_name_tool -change @rpath/libggml.dylib @loader_path/libggml.dylib "$lib" 2>/dev/null || true
+              install_name_tool -change @rpath/libggml-base.dylib @loader_path/libggml-base.dylib "$lib" 2>/dev/null || true
+              install_name_tool -change @rpath/libggml-cpu.dylib @loader_path/libggml-cpu.dylib "$lib" 2>/dev/null || true
+              install_name_tool -change @rpath/libggml-metal.dylib @loader_path/libggml-metal.dylib "$lib" 2>/dev/null || true
+              install_name_tool -change @rpath/libggml-blas.dylib @loader_path/libggml-blas.dylib "$lib" 2>/dev/null || true
+            fi
+          done
+          
+          cd ../../..
+          
+          echo "=== Fixed library dependencies ==="
+          otool -L whisper-cli-universal
+          echo "=== Checking for remaining @rpath ==="
+          otool -L whisper-cli-universal | grep @rpath && echo "WARNING: @rpath still present!" || echo "All @rpath removed!"
+      
+      - name: Collect all libraries
+        run: |
+          cd whisper.cpp
+          mkdir -p ../whisper-binaries/macos
+          
+          cp whisper-cli-universal ../whisper-binaries/macos/whisper-cli
+          cp build-arm64/src/libwhisper*.dylib ../whisper-binaries/macos/ || true
+          find build-arm64/ggml -name "*.dylib" -type f -exec cp {} ../whisper-binaries/macos/ \;
+          
+          cd ../whisper-binaries/macos
+          chmod +x whisper-cli *.dylib
+          
+          echo "=== Final contents ==="
+          ls -lh
+          echo "=== Architecture verification ==="
+          file whisper-cli
+          file *.dylib
+          echo "=== Library dependencies ==="
+          otool -L whisper-cli
+      
+      - name: Upload macOS binary
+        uses: actions/upload-artifact@v4
+        with:
+          name: whisper-macos
+          path: whisper-binaries/macos/
+  
+  build-whisper-windows:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Add msbuild to PATH
+        uses: microsoft/setup-msbuild@v2
+      
+      - name: Clone whisper.cpp
+        run: |
+          git clone https://github.com/ggerganov/whisper.cpp.git
+          cd whisper.cpp
+          git checkout v1.8.2
+      
+      - name: Configure
+        run: |
+          cd whisper.cpp
+          cmake -S . -B ./build -A x64 -DCMAKE_BUILD_TYPE=Release -DBUILD_SHARED_LIBS=ON
+      
+      - name: Build
+        run: |
+          cd whisper.cpp/build
+          msbuild ALL_BUILD.vcxproj -t:build -p:configuration=Release -p:platform=x64
+      
+      - name: Collect all libraries
+        shell: powershell
+        run: |
+          New-Item -ItemType Directory -Force -Path whisper-binaries/windows
+          Copy-Item whisper.cpp/build/bin/Release/whisper-cli.exe whisper-binaries/windows/
+          Copy-Item whisper.cpp/build/bin/Release/*.dll whisper-binaries/windows/
+          Write-Host "=== Final contents ==="
+          Get-ChildItem whisper-binaries/windows/ | Format-Table Name, Length
+      
+      - name: Upload Windows binary
+        uses: actions/upload-artifact@v4
+        with:
+          name: whisper-windows
+          path: whisper-binaries/windows/
+  
+  build-whisper-android:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Setup Android NDK
+        uses: nttld/setup-ndk@v1
+        with:
+          ndk-version: r26d
+          add-to-path: true
+      
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y build-essential cmake
+      
+      - name: Clone whisper.cpp
+        run: |
+          git clone https://github.com/ggerganov/whisper.cpp.git
+          cd whisper.cpp
+          git checkout v1.8.2
+      
+      - name: Build for arm64-v8a
+        run: |
+          cd whisper.cpp
+          mkdir build-arm64 && cd build-arm64
+          cmake .. \
+            -DCMAKE_TOOLCHAIN_FILE=$ANDROID_NDK_ROOT/build/cmake/android.toolchain.cmake \
+            -DANDROID_ABI=arm64-v8a \
+            -DANDROID_PLATFORM=android-24 \
+            -DCMAKE_BUILD_TYPE=Release \
+            -DWHISPER_BUILD_TESTS=OFF \
+            -DWHISPER_BUILD_EXAMPLES=ON
+          cmake --build . --config Release
+          $ANDROID_NDK_ROOT/toolchains/llvm/prebuilt/linux-x86_64/bin/llvm-strip bin/whisper-cli
+      
+      - name: Build for armeabi-v7a
+        run: |
+          cd whisper.cpp
+          mkdir build-armv7 && cd build-armv7
+          cmake .. \
+            -DCMAKE_TOOLCHAIN_FILE=$ANDROID_NDK_ROOT/build/cmake/android.toolchain.cmake \
+            -DANDROID_ABI=armeabi-v7a \
+            -DANDROID_PLATFORM=android-24 \
+            -DCMAKE_BUILD_TYPE=Release \
+            -DWHISPER_BUILD_TESTS=OFF \
+            -DWHISPER_BUILD_EXAMPLES=ON
+          cmake --build . --config Release
+          $ANDROID_NDK_ROOT/toolchains/llvm/prebuilt/linux-x86_64/bin/llvm-strip bin/whisper-cli
+      
+      - name: Collect all libraries
+        run: |
+          mkdir -p whisper-binaries/android/arm64-v8a
+          mkdir -p whisper-binaries/android/armeabi-v7a
+          
+          cp whisper.cpp/build-arm64/bin/whisper-cli whisper-binaries/android/arm64-v8a/
+          find whisper.cpp/build-arm64 -name "*.so" -exec cp {} whisper-binaries/android/arm64-v8a/ \;
+          chmod +x whisper-binaries/android/arm64-v8a/whisper-cli
+          
+          cp whisper.cpp/build-armv7/bin/whisper-cli whisper-binaries/android/armeabi-v7a/
+          find whisper.cpp/build-armv7 -name "*.so" -exec cp {} whisper-binaries/android/armeabi-v7a/ \;
+          chmod +x whisper-binaries/android/armeabi-v7a/whisper-cli
+          
+          echo "=== ARM64 contents ==="
+          ls -lh whisper-binaries/android/arm64-v8a/
+          echo "=== ARMv7 contents ==="
+          ls -lh whisper-binaries/android/armeabi-v7a/
+      
+      - name: Upload Android binaries
+        uses: actions/upload-artifact@v4
+        with:
+          name: whisper-android
+          path: whisper-binaries/android/
+  
+  combine-artifacts:
+    needs: [build-whisper-linux, build-whisper-macos, build-whisper-windows, build-whisper-android]
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Download all artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: artifacts
+      
+      - name: Combine all binaries
+        run: |
+          mkdir -p combined/linux
+          mkdir -p combined/macos
+          mkdir -p combined/windows
+          mkdir -p combined/android/arm64-v8a
+          mkdir -p combined/android/armeabi-v7a
+          
+          cp artifacts/whisper-linux/* combined/linux/ 2>/dev/null || true
+          cp artifacts/whisper-macos/* combined/macos/ 2>/dev/null || true
+          cp artifacts/whisper-windows/* combined/windows/ 2>/dev/null || true
+          cp artifacts/whisper-android/arm64-v8a/* combined/android/arm64-v8a/ 2>/dev/null || true
+          cp artifacts/whisper-android/armeabi-v7a/* combined/android/armeabi-v7a/ 2>/dev/null || true
+          
+          echo "=== Binary sizes ==="
+          find combined -type f -exec ls -lh {} \;
+      
+      - name: Upload combined artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: whisper-all-platforms
+          path: combined/
+          retention-days: 90
+      
+      - name: Create release with binaries
+        uses: softprops/action-gh-release@v1
+        if: startsWith(github.ref, 'refs/tags/')
+        with:
+          files: combined/**/*
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
