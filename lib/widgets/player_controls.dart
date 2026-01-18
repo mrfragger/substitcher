@@ -385,9 +385,9 @@ class PlayerControls extends StatelessWidget {
             ],
           ),
         ),
-        const SizedBox(height: 4),
-        _buildControls(context),
         const SizedBox(height: 2),
+        _buildControls(context),
+        const SizedBox(height: 1),
       ],
     );
   }

@@ -349,7 +349,7 @@ class SidePanel extends StatelessWidget {
                   _buildTabButton(context, 'Bookmarks', PanelMode.bookmarks, bookmarksCount),
                   _buildTabButton(context, 'Fonts', PanelMode.fonts, fontsCount),
                   _buildTabButton(context, 'Colors', PanelMode.colors, 500),
-                  _buildTabButton(context, 'Words', PanelMode.words, 8497),
+                  _buildTabButton(context, 'Words', PanelMode.words, frequencyItems.length),
                   _buildTabButton(context, 'Subs', PanelMode.subs, subsCount),
                   _buildTabButton(context, 'Stats', PanelMode.stats, statsCount),
                 ],
@@ -1826,7 +1826,7 @@ class _WordsPanel extends StatefulWidget {
 }
 
 class _WordsPanelState extends State<_WordsPanel> {
-  int? _selectedCategory;
+  int? _selectedCategory = 1;
   final ScrollController _scrollController = ScrollController();
 
   @override
@@ -1849,25 +1849,6 @@ class _WordsPanelState extends State<_WordsPanel> {
             spacing: 8,
             runSpacing: 8,
             children: [
-              if (!widget.hasSearchQuery)
-                TextButton(
-                  onPressed: () {
-                    setState(() {
-                      _selectedCategory = null;
-                    });
-                  },
-                  style: TextButton.styleFrom(
-                    backgroundColor: _selectedCategory == null
-                        ? Colors.deepPurple
-                        : Colors.deepPurple.withAlpha(64),
-                    padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
-                    minimumSize: Size.zero,
-                  ),
-                  child: const Text(
-                    'All',
-                    style: TextStyle(color: Colors.white, fontSize: 12),
-                  ),
-                ),
               ...widget.orderedKeys.map((wordCount) {
                 final label = wordCount == 1 ? 'Words' : '$wordCount-Word';
                 final count = widget.limitedGroups[wordCount]?.length ?? 0;

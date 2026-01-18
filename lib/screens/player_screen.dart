@@ -1614,6 +1614,13 @@ class _PlayerScreenState extends State<PlayerScreen> {
                               style: const TextStyle(
                                 color: Colors.lightBlue,
                                 fontSize: 12,
+                                height: 1.0,
+                                fontFamilyFallback: const [
+                                  '.AppleSystemUIFont',
+                                  'Segoe UI',
+                                  'Roboto',
+                                  'Scheherazade New',
+                                  ],
                               ),
                             ),
                             const SizedBox(height: 4),
@@ -1709,7 +1716,16 @@ class _PlayerScreenState extends State<PlayerScreen> {
     if (searchTerm.isEmpty) {
       return TextSpan(
         text: text,
-        style: const TextStyle(color: Colors.white, fontSize: 14),
+        style: const TextStyle(
+          color: Colors.white, 
+          fontSize: 14,
+          fontFamilyFallback: [
+            '.AppleSystemUIFont',
+            'Segoe UI',
+            'Roboto',
+            'Scheherazade New',
+          ],
+        ),
       );
     }
     
@@ -1788,23 +1804,18 @@ class _PlayerScreenState extends State<PlayerScreen> {
       }
     }
     
-    if (matches.isEmpty) {
-      return TextSpan(
-        text: text,
-        style: const TextStyle(color: Colors.white, fontSize: 14),
-      );
-    }
-    
     matches.sort((a, b) => a['start']!.compareTo(b['start']!));
     final mergedMatches = <Map<String, int>>[];
     for (final match in matches) {
-      if (mergedMatches.isEmpty || match['start']! > mergedMatches.last['end']!) {
+      if (mergedMatches.isEmpty) {
         mergedMatches.add(match);
       } else {
-        mergedMatches.last['end'] = 
-          mergedMatches.last['end']! > match['end']! 
-            ? mergedMatches.last['end']! 
-            : match['end']!;
+        final last = mergedMatches.last;
+        if (match['start']! <= last['end']!) {
+          last['end'] = max(last['end']!, match['end']!);
+        } else {
+          mergedMatches.add(match);
+        }
       }
     }
     
@@ -1814,7 +1825,16 @@ class _PlayerScreenState extends State<PlayerScreen> {
       if (match['start']! > lastPos) {
         spans.add(TextSpan(
           text: text.substring(lastPos, match['start']!),
-          style: const TextStyle(color: Colors.white, fontSize: 14),
+          style: const TextStyle(
+            color: Colors.white, 
+            fontSize: 14,
+            fontFamilyFallback: [
+              '.AppleSystemUIFont',
+              'Segoe UI',
+              'Roboto',
+              'Scheherazade New',
+            ],
+          ),
         ));
       }
       spans.add(TextSpan(
@@ -1823,6 +1843,12 @@ class _PlayerScreenState extends State<PlayerScreen> {
           color: Colors.green,
           fontSize: 14,
           fontWeight: FontWeight.bold,
+          fontFamilyFallback: [
+          '.AppleSystemUIFont',
+          'Segoe UI',
+          'Roboto',
+          'Scheherazade New',
+          ],
         ),
       ));
       lastPos = match['end']!;
@@ -1830,7 +1856,16 @@ class _PlayerScreenState extends State<PlayerScreen> {
     if (lastPos < text.length) {
       spans.add(TextSpan(
         text: text.substring(lastPos),
-        style: const TextStyle(color: Colors.white, fontSize: 14),
+        style: const TextStyle(
+          color: Colors.white, 
+          fontSize: 14,
+          fontFamilyFallback: [
+            '.AppleSystemUIFont',
+            'Segoe UI',
+            'Roboto',
+            'Scheherazade New',
+          ],
+        ),
       ));
     }
     
