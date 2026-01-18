@@ -34,9 +34,9 @@ Opus chaptered encoder and player. Transcribe to vtt subtitles, search through a
 ### Dictionary Lookup Words
 - d opens dictionary word overlay
 - click on word to open Apple Dictionary on Mac
+- or on Windows, Linux, Android copy to clipboard
 - filters out tons of common words (and, the, to, from, etc.)
 - removes repeated words
-- or on Windows, Linux, Android copy to clipboard
 - Pause mode 2s, 3s, 5s, 10s or Dictionary mode (forever)
 - CJK (Chinese, Japanese, Korean) and Arabic subtitles
 - tokenizes Japanese with tiny segmenter
@@ -45,7 +45,7 @@ Opus chaptered encoder and player. Transcribe to vtt subtitles, search through a
 ![](assets/screenshots/dictionary.jpg)
 
 ### Bilingual Subtitles
-- audiobookname_vtt sub direcotry to keep many subs (autoloads)
+- audiobookname_vtt sub directory to keep many subs (autoloads)
 - automatically changes font size based on length of subtitles
 - v bilingual subtitles
 - x swap top and bottom
@@ -120,7 +120,7 @@ Opus chaptered encoder and player. Transcribe to vtt subtitles, search through a
 ### Words
 - analyzing vtt subtitles for word frequencies
 - top 500 words by frequency
- - click top 500 words to search subtitles and paragraphs
+- click top 500 words to search subtitles and paragraphs
 - top 7-word, 6-word, 5-word, 4-word, 3-word phrases
 - click phrases to do exact phrase match in subs and paragraphs
 - words are automatically analyzed after 20 seconds of audiobook loading
@@ -184,13 +184,6 @@ check Allow executing file as program\
 or do below
 ```bash
 chmod +x  substitcher-x64.AppImage
-```
-see files inside an appimage
-```bash
-./substitcher-x64.AppImage --appimage-extract
-```
-```bash
-cd squashfs-root
 ```
 
 Android  universal (arm64-v8a + armeabi-v7a + x86_64) (untested, feedback welcome)

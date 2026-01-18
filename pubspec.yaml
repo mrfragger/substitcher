@@ -30,10 +30,10 @@ dependencies:
   
   # Audio player
   media_kit: ^1.2.6
-  media_kit_libs_macos_audio: ^1.0.4
-  media_kit_libs_linux: ^1.0.4
+  media_kit_libs_macos_audio: ^1.1.4
+  media_kit_libs_linux: ^1.1.4
   media_kit_libs_windows_audio: ^1.0.9
-  media_kit_libs_android_audio: ^1.0.4
+  media_kit_libs_android_audio: ^1.1.4
   
   # UI
   cupertino_icons: ^1.0.6

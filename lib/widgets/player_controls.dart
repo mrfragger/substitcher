@@ -32,6 +32,10 @@ class PlayerControls extends StatelessWidget {
   final String defaultConversionType;
   final String? defaultColorPalette;
   final bool hideChapterTitle;
+  final bool hoveringPrevChapter;
+  final bool hoveringNextChapter;
+  final Function(bool) onPrevChapterHover;
+  final Function(bool) onNextChapterHover;
   
   final VoidCallback onTogglePlayPause;
   final VoidCallback onPreviousChapter;
@@ -102,6 +106,10 @@ class PlayerControls extends StatelessWidget {
     required this.defaultFont,
     required this.defaultConversionType,
     required this.hideChapterTitle,
+    required this.hoveringPrevChapter,
+    required this.hoveringNextChapter,
+    required this.onPrevChapterHover,
+    required this.onNextChapterHover,   
     this.defaultColorPalette,
   });
 
@@ -172,7 +180,7 @@ class PlayerControls extends StatelessWidget {
               padding: const EdgeInsets.symmetric(horizontal: 32),
               child: ConstrainedBox(
                 constraints: BoxConstraints(
-                  maxHeight: MediaQuery.of(context).size.height * 0.79,
+                  maxHeight: MediaQuery.of(context).size.height * 0.80,
                 ),
                 child: SingleChildScrollView(
                   child: Container(
@@ -202,7 +210,7 @@ class PlayerControls extends StatelessWidget {
               padding: const EdgeInsets.symmetric(horizontal: 32),
               child: ConstrainedBox(
                 constraints: BoxConstraints(
-                  maxHeight: MediaQuery.of(context).size.height * 0.79,
+                  maxHeight: MediaQuery.of(context).size.height * 0.80,
                 ),
                 child: SingleChildScrollView(
                   child: Container(
@@ -237,110 +245,76 @@ class PlayerControls extends StatelessWidget {
                           onSliderHover(localX);
                         },
                         onExit: (_) => onSliderExit(),
-                        child: GestureDetector(
-                          onTapDown: (details) {
-                            final localX = details.localPosition.dx;
-                            
-                            for (int i = 0; i < audiobook.chapters.length; i++) {
-                              final chapter = audiobook.chapters[i];
-                              final markerX = (chapter.startTime.inMilliseconds / totalDuration.inMilliseconds) * sliderWidth;
-                              
-                              if ((localX - markerX).abs() < 10) {
-                                onJumpToChapter(i);
-                                return;
-                              }
-                            }
-                          },
-                          child: Stack(
-                            clipBehavior: Clip.none,
-                            children: [
-                              SizedBox(
-                                height: 16,
+                        child: Stack(
+                          clipBehavior: Clip.none,
+                          children: [
+                            GestureDetector(
+                              onTapDown: (details) {
+                                final localX = details.localPosition.dx;
+                                final clickTime = Duration(
+                                  milliseconds: ((localX / sliderWidth) * totalDuration.inMilliseconds).toInt()
+                                );
+                                onSeekTo(clickTime);
+                              },
+                              child: SizedBox(
+                                height: 32,
                                 child: CustomPaint(
-                                  painter: ChapterMarkerOnlyPainter(
-                                    chapters: audiobook.chapters,
+                                  painter: ProgressBarPainter(
+                                    currentPosition: currentPosition,
                                     totalDuration: totalDuration,
-                                    hoverPosition: sliderHoverPosition,
                                   ),
-                                  size: Size(sliderWidth, 16),
+                                  size: Size(sliderWidth, 32),
                                 ),
                               ),
-                              if (hoveredChapterTitle != null && sliderHoverPosition != null)
-                                Positioned(
-                                  left: () {
-                                    final tooltipWidth = 250.0;
-                                    var leftPos = sliderHoverPosition! - (tooltipWidth / 2);
-                                    if (leftPos < 0) {
-                                      leftPos = 0;
-                                    } else if (leftPos + tooltipWidth > sliderWidth) {
-                                      leftPos = sliderWidth - tooltipWidth;
-                                    }
-                                    return leftPos;
-                                  }(),
-                                  top: -80,
-                                  child: Container(
-                                    width: 250,
-                                    padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
-                                    decoration: BoxDecoration(
-                                      color: Colors.deepPurple,
-                                      borderRadius: BorderRadius.circular(4),
-                                    ),
-                                    child: Column(
-                                      mainAxisSize: MainAxisSize.min,
-                                      children: [
-                                        Text(
-                                          _formatDuration(Duration(
-                                            milliseconds: ((sliderHoverPosition! / sliderWidth) * totalDuration.inMilliseconds).toInt()
-                                          )),
-                                          style: const TextStyle(
-                                            color: Colors.white,
-                                            fontSize: 11,
-                                            fontWeight: FontWeight.bold,
-                                          ),
-                                        ),
-                                        const SizedBox(height: 2),
-                                        Text(
-                                          hoveredChapterTitle!,
-                                          style: const TextStyle(
-                                            color: Colors.white,
-                                            fontSize: 12,
-                                          ),
-                                          maxLines: 3,
-                                          overflow: TextOverflow.ellipsis,
-                                        ),
-                                      ],
-                                    ),
-                                  ),
-                                ),
-                            ],
-                          ),
-                        ),
-                      ),
-                      const SizedBox(height: 3),
-                      MouseRegion(
-                        onHover: (event) {
-                          final localX = event.localPosition.dx;
-                          onSliderHover(localX);
-                        },
-                        onExit: (_) => onSliderExit(),
-                        child: GestureDetector(
-                          onTapDown: (details) {
-                            final localX = details.localPosition.dx;
-                            final clickTime = Duration(
-                              milliseconds: ((localX / sliderWidth) * totalDuration.inMilliseconds).toInt()
-                            );
-                            onSeekTo(clickTime);
-                          },
-                          child: SizedBox(
-                            height: 32,
-                            child: CustomPaint(
-                              painter: ProgressBarPainter(
-                                currentPosition: currentPosition,
-                                totalDuration: totalDuration,
-                              ),
-                              size: Size(sliderWidth, 32),
                             ),
-                          ),
+                            if (hoveredChapterTitle != null && sliderHoverPosition != null)
+                              Positioned(
+                                left: () {
+                                  final tooltipWidth = 250.0;
+                                  var leftPos = sliderHoverPosition! - (tooltipWidth / 2);
+                                  if (leftPos < 0) {
+                                    leftPos = 0;
+                                  } else if (leftPos + tooltipWidth > sliderWidth) {
+                                    leftPos = sliderWidth - tooltipWidth;
+                                  }
+                                  return leftPos;
+                                }(),
+                                top: -70,
+                                child: Container(
+                                  width: 250,
+                                  padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+                                  decoration: BoxDecoration(
+                                    color: Colors.deepPurple,
+                                    borderRadius: BorderRadius.circular(4),
+                                  ),
+                                  child: Column(
+                                    mainAxisSize: MainAxisSize.min,
+                                    children: [
+                                      Text(
+                                        _formatDuration(Duration(
+                                          milliseconds: ((sliderHoverPosition! / sliderWidth) * totalDuration.inMilliseconds).toInt()
+                                        )),
+                                        style: const TextStyle(
+                                          color: Colors.white,
+                                          fontSize: 11,
+                                          fontWeight: FontWeight.bold,
+                                        ),
+                                      ),
+                                      const SizedBox(height: 2),
+                                      Text(
+                                        hoveredChapterTitle!,
+                                        style: const TextStyle(
+                                          color: Colors.white,
+                                          fontSize: 12,
+                                        ),
+                                        maxLines: 3,
+                                        overflow: TextOverflow.ellipsis,
+                                      ),
+                                    ],
+                                  ),
+                                ),
+                              ),
+                          ],
                         ),
                       ),
                     ],
@@ -413,7 +387,7 @@ class PlayerControls extends StatelessWidget {
         ),
         const SizedBox(height: 4),
         _buildControls(context),
-        const SizedBox(height: 8),
+        const SizedBox(height: 2),
       ],
     );
   }
@@ -438,12 +412,58 @@ class PlayerControls extends StatelessWidget {
           tooltip: 'Increase speed ]',
         ),
         const SizedBox(width: 16),
-        IconButton(
-          onPressed: onPreviousChapter,
-          icon: const Icon(Icons.skip_previous),
-          color: Colors.white,
-          iconSize: 28,
-          tooltip: 'Prev Chapter',
+        MouseRegion(
+          onEnter: (_) => onPrevChapterHover(true),
+          onExit: (_) => onPrevChapterHover(false),
+          child: Stack(
+            clipBehavior: Clip.none,
+            children: [
+              IconButton(
+                onPressed: onPreviousChapter,
+                icon: const Icon(Icons.skip_previous),
+                color: Colors.white,
+                iconSize: 28,
+              ),
+              if (hoveringPrevChapter && currentChapterIndex > 0)
+                Positioned(
+                  bottom: 50,
+                  left: -100,
+                  child: Container(
+                    width: 250,
+                    padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+                    decoration: BoxDecoration(
+                      color: Colors.deepPurple,
+                      borderRadius: BorderRadius.circular(4),
+                    ),
+                    child: Column(
+                      mainAxisSize: MainAxisSize.min,
+                      children: [
+                        Text(
+                          'Prev Chapter (Shift+←)',
+                          textAlign: TextAlign.center,
+                          style: const TextStyle(
+                            color: Colors.white,
+                            fontSize: 11,
+                            fontWeight: FontWeight.bold,
+                          ),
+                        ),
+                        const SizedBox(height: 2),
+                        Text(
+                          audiobook.chapters[currentChapterIndex - 1].title,
+                          textAlign: TextAlign.center,
+                          style: const TextStyle(
+                            color: Colors.white,
+                            fontSize: 12,
+                          ),
+                          maxLines: 3,
+                          overflow: TextOverflow.ellipsis,
+                        ),
+                      ],
+                    ),
+                  ),
+                ),
+            ],
+          ),
         ),
         const SizedBox(width: 8),
         IconButton(
@@ -469,12 +489,58 @@ class PlayerControls extends StatelessWidget {
           tooltip: 'Next Sub →',
         ),
         const SizedBox(width: 8),
-        IconButton(
-          onPressed: onNextChapter,
-          icon: const Icon(Icons.skip_next),
-          color: Colors.white,
-          iconSize: 28,
-          tooltip: 'Next Chapter',
+        MouseRegion(
+          onEnter: (_) => onNextChapterHover(true),
+          onExit: (_) => onNextChapterHover(false),
+          child: Stack(
+            clipBehavior: Clip.none,
+            children: [
+              IconButton(
+                onPressed: onNextChapter,
+                icon: const Icon(Icons.skip_next),
+                color: Colors.white,
+                iconSize: 28,
+              ),
+              if (hoveringNextChapter && currentChapterIndex < audiobook.chapters.length - 1)
+                Positioned(
+                  bottom: 50,
+                  left: -100,
+                  child: Container(
+                    width: 250,
+                    padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+                    decoration: BoxDecoration(
+                      color: Colors.deepPurple,
+                      borderRadius: BorderRadius.circular(4),
+                    ),
+                    child: Column(
+                      mainAxisSize: MainAxisSize.min,
+                      children: [
+                        Text(
+                          'Next Chapter (Shift+→)',
+                          textAlign: TextAlign.center,
+                          style: const TextStyle(
+                            color: Colors.white,
+                            fontSize: 11,
+                            fontWeight: FontWeight.bold,
+                          ),
+                        ),
+                        const SizedBox(height: 2),
+                        Text(
+                          audiobook.chapters[currentChapterIndex + 1].title,
+                          textAlign: TextAlign.center,
+                          style: const TextStyle(
+                            color: Colors.white,
+                            fontSize: 12,
+                          ),
+                          maxLines: 3,
+                          overflow: TextOverflow.ellipsis,
+                        ),
+                      ],
+                    ),
+                  ),
+                ),
+            ],
+          ),
         ),
         const SizedBox(width: 16),
         IconButton(
@@ -762,47 +828,6 @@ class PlayerControls extends StatelessWidget {
   }
 }
 
-class ChapterMarkerOnlyPainter extends CustomPainter {
-  final List<Chapter> chapters;
-  final Duration totalDuration;
-  final double? hoverPosition;
-
-  ChapterMarkerOnlyPainter({
-    required this.chapters,
-    required this.totalDuration,
-    this.hoverPosition,
-  });
-
-  @override
-  void paint(Canvas canvas, Size size) {
-    final totalMillis = totalDuration.inMilliseconds;
-    if (totalMillis == 0) return;
-  
-    for (final chapter in chapters) {
-      final position = (chapter.startTime.inMilliseconds / totalMillis) * size.width;
-      final isHovered = hoverPosition != null && (position - hoverPosition!).abs() < 10;
-      final diamondSize = isHovered ? 8.0 : 6.0;
-      final paint = Paint()
-        ..color = Colors.deepPurple
-        ..style = PaintingStyle.fill;
-      final path = Path();
-      path.moveTo(position, size.height / 2 - diamondSize);
-      path.lineTo(position + diamondSize, size.height / 2);
-      path.lineTo(position, size.height / 2 + diamondSize);
-      path.lineTo(position - diamondSize, size.height / 2);
-      path.close();
-      canvas.drawPath(path, paint);
-    }
-  }
-
-  @override
-  bool shouldRepaint(ChapterMarkerOnlyPainter oldDelegate) {
-    return oldDelegate.chapters != chapters || 
-           oldDelegate.totalDuration != totalDuration ||
-           oldDelegate.hoverPosition != hoverPosition;
-  }
-}
-
 class ProgressBarPainter extends CustomPainter {
   final Duration currentPosition;
   final Duration totalDuration;
@@ -830,7 +855,7 @@ class ProgressBarPainter extends CustomPainter {
   
     final progress = (currentPosition.inMilliseconds / totalMillis) * size.width;
     final progressPaint = Paint()
-      ..color = Colors.white
+      ..color = Colors.deepPurple
       ..style = PaintingStyle.fill;
     canvas.drawRect(
       Rect.fromLTWH(0, yOffset, progress, barHeight),

@@ -246,6 +246,9 @@ class _PlayerScreenState extends State<PlayerScreen> {
 
   ColoringMode _coloringMode = ColoringMode.words;
   bool _showPlaylistDirectories = false;
+
+  bool _hoveringPrevChapter = false;
+  bool _hoveringNextChapter = false;
   
   @override
   void initState() {
@@ -279,15 +282,6 @@ class _PlayerScreenState extends State<PlayerScreen> {
     WidgetsBinding.instance.addPostFrameCallback((_) {
       _focusNode.requestFocus();
     });
-  }
-  
-  Future<void> _checkShowOnStart() async {
-    final settings = await AdhanSettings.load();
-    if (settings.adhanClockEnabled && settings.showOnAppStart) {
-      setState(() {
-        _showAdhanOverlay = true;
-      });
-    }
   }
   
   @override
@@ -343,6 +337,15 @@ class _PlayerScreenState extends State<PlayerScreen> {
       }
     } catch (e) {
       print('Error getting initial file: $e');
+    }
+  }
+
+  Future<void> _checkShowOnStart() async {
+    final settings = await AdhanSettings.load();
+    if (settings.adhanClockEnabled && settings.showOnAppStart) {
+      setState(() {
+        _showAdhanOverlay = true;
+      });
     }
   }
   
@@ -3428,8 +3431,17 @@ class _PlayerScreenState extends State<PlayerScreen> {
   }
 
   Future<void> _previousChapter() async {
+    if (_currentAudiobook == null) return;
+    
+    final currentChapter = _currentAudiobook!.chapters[_currentChapterIndex];
+    final timeIntoChapter = _currentPosition - currentChapter.startTime;
+    
+    if (timeIntoChapter.inSeconds > 10) {
+      await _seekTo(currentChapter.startTime);
+      return;
+    }
+    
     if (_currentChapterIndex > 0) {
-      final currentChapter = _currentAudiobook!.chapters[_currentChapterIndex];
       await _statsManager.recordChapterEnd(
         path.basenameWithoutExtension(_currentAudiobook!.path),
         currentChapter.title,
@@ -4137,14 +4149,20 @@ class _PlayerScreenState extends State<PlayerScreen> {
                return KeyEventResult.handled;
              }
             } else if (event.logicalKey == LogicalKeyboardKey.arrowLeft) {
-              if (_subtitles.isNotEmpty) {
+              if (HardwareKeyboard.instance.isShiftPressed) {
+                _previousChapter();
+                return KeyEventResult.handled;
+              } else if (_subtitles.isNotEmpty) {
                 _skipToPreviousSubtitle();
               } else {
                 _skipBackward3();
               }
               return KeyEventResult.handled;
             } else if (event.logicalKey == LogicalKeyboardKey.arrowRight) {
-              if (_subtitles.isNotEmpty) {
+              if (HardwareKeyboard.instance.isShiftPressed) {
+                _nextChapter();
+                return KeyEventResult.handled;
+              } else if (_subtitles.isNotEmpty) {
                 _skipToNextSubtitle();
               } else {
                 _skipForward3();
@@ -4774,6 +4792,8 @@ class _PlayerScreenState extends State<PlayerScreen> {
       onToggleShuffle: _toggleShuffle,
       onAddBookmark: _addBookmark,
       hideChapterTitle: _hideChapterTitle,
+      hoveringPrevChapter: _hoveringPrevChapter,
+      hoveringNextChapter: _hoveringNextChapter, 
       onTogglePanel: () {
         setState(() {
           _showPanel = !_showPanel;
@@ -4807,6 +4827,16 @@ class _PlayerScreenState extends State<PlayerScreen> {
         setState(() {
           _sliderHoverPosition = null;
           _hoveredChapterTitle = null;
+        });
+      },
+      onPrevChapterHover: (hovering) {
+        setState(() {
+          _hoveringPrevChapter = hovering;
+        });
+      },
+      onNextChapterHover: (hovering) {
+        setState(() {
+          _hoveringNextChapter = hovering;
         });
       },
       onSettingsMenuSelected: (context, value) {
