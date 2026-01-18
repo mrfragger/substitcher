@@ -17,6 +17,12 @@ class WhiteDaysService {
     
     return await _fetchWhiteDays();
   }
+
+  static Future<DateTime?> getCacheTimestamp() async {
+    final prefs = await SharedPreferences.getInstance();
+    final timestamp = prefs.getInt(_timestampKey);
+    return timestamp != null ? DateTime.fromMillisecondsSinceEpoch(timestamp) : null;
+  }
   
   static Future<WhiteDays?> _getCachedWhiteDays() async {
     final prefs = await SharedPreferences.getInstance();

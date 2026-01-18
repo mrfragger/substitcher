@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 import 'package:url_launcher/url_launcher.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 import '../services/adhan_clock_service.dart';
 import '../models/prayer_times.dart';
 import '../models/adhan_settings.dart';
@@ -33,6 +34,8 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
   final _lonController = TextEditingController();
   AdhanSettings? _settings;
   WhiteDays? _whiteDays;
+  DateTime? _whiteDaysCacheDate;
+  DateTime? _ipCacheDate;
   
   final _methods = [
     'ISNA',
@@ -53,11 +56,37 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
     _prayerTimes = widget.adhanService.prayerTimes;
     _loadSettings();
     _loadWhiteDays();
+    _loadCacheDate();
+    _loadIpCacheDate();
     widget.adhanService.prayerTimesStream.listen((times) {
       if (mounted) {
         setState(() => _prayerTimes = times);
       }
     });
+  }
+
+  Future<void> _loadIpCacheDate() async {
+    final prefs = await SharedPreferences.getInstance();
+    final cacheDate = prefs.getString('adhan_ip_cache_date');
+    if (mounted && cacheDate != null) {
+      try {
+        final date = DateTime.parse(cacheDate);
+        setState(() {
+          _ipCacheDate = date;
+        });
+      } catch (e) {
+        print('Error parsing IP cache date: $e');
+      }
+    }
+  }
+
+  Future<void> _loadCacheDate() async {
+    final cacheDate = await WhiteDaysService.getCacheTimestamp();
+    if (mounted) {
+      setState(() {
+        _whiteDaysCacheDate = cacheDate;
+      });
+    }
   }
 
    Future<void> _loadSettings() async {
@@ -551,11 +580,26 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
                             ],
                           ),
                         ),
+                        const SizedBox(height: 4),
+                        const Text(
+                          'Valid for 30 days',
+                          style: TextStyle(color: Colors.white70, fontSize: 11),
+                        ),
+                        if (_whiteDaysCacheDate != null)
+                          Text(
+                            'Cached on ${_whiteDaysCacheDate!.year}-${_whiteDaysCacheDate!.month.toString().padLeft(2, '0')}-${_whiteDaysCacheDate!.day.toString().padLeft(2, '0')}',
+                            style: const TextStyle(color: Colors.white54, fontSize: 10),
+                          ),
                         const SizedBox(height: 8),
                       ],
                       
                       if (_autoDetectEnabled && widget.adhanService.coordinatesSource != null) 
                         Text('Auto-detect Location (valid for 30 days)', style: const TextStyle(color: Colors.white70, fontSize: 12)),
+                      if (_autoDetectEnabled && _ipCacheDate != null)
+                        Text(
+                          'Cached on ${_ipCacheDate!.year}-${_ipCacheDate!.month.toString().padLeft(2, '0')}-${_ipCacheDate!.day.toString().padLeft(2, '0')}',
+                          style: const TextStyle(color: Colors.white54, fontSize: 10),
+                        ),
                       
                       if (qibla != null)
                         Text('Qibla: ${qibla.toStringAsFixed(1)}°', style: const TextStyle(color: Colors.white70, fontSize: 12)),

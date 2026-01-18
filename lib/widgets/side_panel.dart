@@ -348,7 +348,7 @@ class SidePanel extends StatelessWidget {
                   _buildTabButton(context, 'Playlist', PanelMode.playlist, playlistCount),
                   _buildTabButton(context, 'Bookmarks', PanelMode.bookmarks, bookmarksCount),
                   _buildTabButton(context, 'Fonts', PanelMode.fonts, fontsCount),
-                  _buildTabButton(context, 'Colors', PanelMode.colors, 500),
+                  _buildTabButton(context, 'Colors', PanelMode.colors, ColorPalette.presets.length),
                   _buildTabButton(context, 'Words', PanelMode.words, frequencyItems.length),
                   _buildTabButton(context, 'Subs', PanelMode.subs, subsCount),
                   _buildTabButton(context, 'Stats', PanelMode.stats, statsCount),
@@ -1214,7 +1214,6 @@ class SidePanel extends StatelessWidget {
    
    return Column(
      children: [
-       // Mode selector buttons at top
        Padding(
          padding: const EdgeInsets.all(16.0),
          child: Row(
@@ -1222,12 +1221,11 @@ class SidePanel extends StatelessWidget {
            children: [
              _buildColoringModeButton(ColoringMode.words, 'Words', null),
              const SizedBox(width: 12),
-             _buildColoringModeButton(ColoringMode.letters, 'Letters', 'breaks ligature fonts'),
+             _buildColoringModeButton(ColoringMode.letters, 'Letters', 'breaks on ligature fonts'),
            ],
          ),
        ),
        const Divider(color: Colors.white24, height: 1),
-       // Existing color palette list
        Expanded(
          child: ListView.builder(
            controller: colorScrollController,
@@ -1265,13 +1263,13 @@ class SidePanel extends StatelessWidget {
                      const SizedBox(width: 12),
                      if (palette.isSimplePreset)
                        Container(
-                         width: 48,
+                         width: 280,
                          height: 20,
                          decoration: BoxDecoration(
                            color: parseColor(palette.colors[0]),
                            border: Border.all(
                              color: parseColor(palette.subShadowColor!),
-                             width: 2,
+                             width: 4,
                            ),
                            borderRadius: BorderRadius.circular(4),
                          ),

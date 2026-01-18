@@ -14,7 +14,7 @@ Opus chaptered encoder and player. Transcribe to vtt subtitles, search through a
 - Extract chapters with names from audiobooks
 - Edit Metadata (chapters, author, title) of opus audiobook
 
-![](assets/screenshots/encode.jpg)
+![](docs/screenshots/encode.jpg)
 
 ### Playback
 - set playback speed 0.5x to 2.0x
@@ -29,7 +29,7 @@ Opus chaptered encoder and player. Transcribe to vtt subtitles, search through a
 - left/right arrows advanced to prev/next subtitle
 - search foreign language subtitles 
 
-![](assets/screenshots/japanese.jpg)
+![](docs/screenshots/japanese.jpg)
 
 ### Dictionary Lookup Words
 - d opens dictionary word overlay
@@ -42,7 +42,7 @@ Opus chaptered encoder and player. Transcribe to vtt subtitles, search through a
 - tokenizes Japanese with tiny segmenter
 - Chinese and Korean tokenizes pretty well
 
-![](assets/screenshots/dictionary.jpg)
+![](docs/screenshots/dictionary.jpg)
 
 ### Bilingual Subtitles
 - audiobookname_vtt sub directory to keep many subs (autoloads)
@@ -52,7 +52,7 @@ Opus chaptered encoder and player. Transcribe to vtt subtitles, search through a
 - set font and color for 'active subtitle' which is the bottom one
 - set font and color for each one top and bottom 
 
-![](assets/screenshots/bilingualsubs.jpg)
+![](docs/screenshots/bilingualsubs.jpg)
 
 ### Sleeptimer
 -  set to 15, 30, 45, 60, 90, 120 minutes
@@ -70,7 +70,7 @@ Opus chaptered encoder and player. Transcribe to vtt subtitles, search through a
 - shows duration of each chapter (ffprobe)
 - search through all chapters in entire plays (under Subs panel)
 
-![](assets/screenshots/chapters.jpg)
+![](docs/screenshots/chapters.jpg)
 
 ### History
 - shows audiobook title with chapter title and time position
@@ -81,7 +81,7 @@ Opus chaptered encoder and player. Transcribe to vtt subtitles, search through a
 - sorted by most recent
 - only shows most recent chapter with a particular audiobook
 
-![](assets/screenshots/history.jpg)
+![](docs/screenshots/history.jpg)
 
 
 ### Playlist
@@ -89,7 +89,7 @@ Opus chaptered encoder and player. Transcribe to vtt subtitles, search through a
 - search through entire playlist
 - p 1-9 to quickly open playlist entries
 
-![](assets/screenshots/playlist.jpg)
+![](docs/screenshots/playlist.jpg)
 
 ### Bookmarks
 - shows audiobook title with chapter title and time position
@@ -106,7 +106,7 @@ Opus chaptered encoder and player. Transcribe to vtt subtitles, search through a
 - each missing and each alternate font, subs must be converted
 - ligature demo fonts, subs need converting only once
 
-![](assets/screenshots/fonts.jpg)
+![](docs/screenshots/fonts.jpg)
 
 ### Colors
 - 500 color palettes
@@ -115,7 +115,7 @@ Opus chaptered encoder and player. Transcribe to vtt subtitles, search through a
 - 90 Simple Palettes (one font color with a shadow color)
 - monochromatic, food palettes
 
-![](assets/screenshots/colors.jpg)
+![](docs/screenshots/colors.jpg)
 
 ### Words
 - analyzing vtt subtitles for word frequencies
@@ -136,7 +136,7 @@ Opus chaptered encoder and player. Transcribe to vtt subtitles, search through a
 - Ctrl+Backspace or Cmd+Backspace to clear search results
 - TAB to focus elsewhere so keyboard shortcuts work
 
-![](assets/screenshots/subs.jpg)
+![](docs/screenshots/subs.jpg)
 
 ### Stats
 - Shows Active Days which are at least 30 mins of listening
@@ -150,7 +150,7 @@ Opus chaptered encoder and player. Transcribe to vtt subtitles, search through a
 - time duration bars of listening time for last 30 active days
 
 
-![](assets/screenshots/stats.jpg)
+![](docs/screenshots/stats.jpg)
 
 ### Adhan Clock
 - prayer times
@@ -159,7 +159,7 @@ Opus chaptered encoder and player. Transcribe to vtt subtitles, search through a
 - location is valid for 30 days (cached)
 
 
-![](assets/screenshots/adhan.jpg)
+![](docs/screenshots/adhan.jpg)
 
 ### Anki to Opus 
 - Anki to opus chaptered audiobook (4x repeat vocab, show 2x front, 2x back subs)

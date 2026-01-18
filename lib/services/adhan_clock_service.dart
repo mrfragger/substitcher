@@ -39,7 +39,7 @@ class AdhanClockService {
 
  Future<void> initialize() async {
      if (_isInitialized) {
-       print('🕌 Already initialized, skipping');
+       print('Already initialized, skipping');
        return;
      }
      _isInitialized = true;
@@ -47,7 +47,7 @@ class AdhanClockService {
      _settings = await AdhanSettings.load();
      
      if (_settings?.adhanClockEnabled != true) {
-       print('🕌 Adhan Clock is disabled, skipping initialization');
+       print('Adhan Clock is disabled, skipping initialization');
        return;
      }
      
@@ -69,12 +69,12 @@ class AdhanClockService {
      _longitude = _settings!.longitude;
      _cityName = _settings!.cityName;
      _coordinatesSource = 'MANUAL';
-     print('🕌 Using manual coordinates: $_cityName ($_latitude, $_longitude)');
+     print('Using manual coordinates: $_cityName ($_latitude, $_longitude)');
      return;
    }
    
    if (_settings!.autoIpLookup) {
-     print('🕌 Auto-detect enabled, checking for location...');
+     print('Auto-detect enabled, checking for location...');
      final detected = await LocationService.detectLocationFromIP();
      if (detected != null) {
        _latitude = detected['lat'];
@@ -82,7 +82,7 @@ class AdhanClockService {
        _cityName = detected['city'];
        _coordinatesSource = detected['source'];
        final source = detected['source'] as String;
-       print('🕌 Location loaded: ($_latitude, $_longitude) [$source]');
+       print('Location loaded: ($_latitude, $_longitude) [$source]');
        return;
      }
    }
@@ -95,12 +95,12 @@ class AdhanClockService {
      _longitude = _settings!.longitude;
      _cityName = _settings!.cityName;
      _coordinatesSource = 'MANUAL (fallback)';
-     print('🕌 Using manual coordinates as fallback: $_cityName');
+     print('Using manual coordinates as fallback: $_cityName');
      return;
    }
    
    _coordinatesSource = 'NOT CONFIGURED';
-   print('🕌 No location available');
+   print('No location available');
  }
   
   Future<void> autoDetectLocation() async {
@@ -113,7 +113,7 @@ class AdhanClockService {
       _longitude = detected['lon'];
       _cityName = detected['city'];
       _coordinatesSource = detected['source'];
-      print('🕌 Fresh location detected: $_cityName');
+      print('Fresh location detected: $_cityName');
       await _calculatePrayerTimes();
     }
   }
@@ -244,7 +244,7 @@ class AdhanClockService {
       bundlePath = path.join('assets', 'adhanclock', adhanFile);
     }
     
-    print('🕌 Looking for adhan at: $bundlePath');
+    print('Looking for adhan at: $bundlePath');
     
     if (!await File(bundlePath).exists()) {
       print('Adhan file not found: $bundlePath');

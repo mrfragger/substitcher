@@ -6,11 +6,11 @@ class LocationService {
   static Future<Map<String, dynamic>?> detectLocationFromIP() async {
     final cached = await getCachedLocation();
     if (cached != null) {
-      print('🕌 Using cached location (valid for 30 days)');
+      print('Using cached location (valid for 30 days)');
       return cached;
     }
     
-    print('🕌 Cache expired or missing, performing IP lookup...');
+    print('Cache expired or missing, performing IP lookup...');
     
     final services = [
       _IPApiService(),
