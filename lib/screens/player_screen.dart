@@ -746,110 +746,111 @@ class _PlayerScreenState extends State<PlayerScreen> {
   }
 
   Future<void> _openSubtitleManager() async {
-      if (_currentAudiobook == null) {
-        ScaffoldMessenger.of(context).showSnackBar(
-          const SnackBar(content: Text('No audiobook loaded')),
-        );
-        return;
-      }
-      
-      await _scanAvailableSubtitles();
-      
-      if (_availableSubtitles.isEmpty) {
-        if (mounted) {
-          ScaffoldMessenger.of(context).showSnackBar(
-            const SnackBar(content: Text('No subtitle files found')),
-          );
-        }
-        return;
-      }
-      
-      if (_subtitleFilePath != null && _primarySubtitlePath == null) {
-        setState(() {
-          _primarySubtitlePath = _subtitleFilePath;
-        });
-      }
-      
-      if (!mounted) return;
-      
-      showDialog(
-        context: context,
-        builder: (context) => SubtitleManagerDialog(
-          availableSubtitles: _availableSubtitles,
-          primarySubtitle: _primarySubtitlePath,
-          secondarySubtitle: _secondarySubtitlePath,
-          onPrimarySelected: (path) async {
-            setState(() {
-              _primarySubtitlePath = path;
-              _subtitleFilePath = path;
-            });
-            await _applyConversion();
-          },
-          onSecondarySelected: (path) async {
-            setState(() {
-              _secondarySubtitlePath = path;
-              _secondarySubtitleFilePath = path;
-            });
-            await _applySecondaryConversion();
-          },
-          onSwap: () {
-            setState(() {
-              final temp = _primarySubtitlePath;
-              _primarySubtitlePath = _secondarySubtitlePath;
-              _secondarySubtitlePath = temp;
-              
-              _subtitleFilePath = _primarySubtitlePath;
-              _secondarySubtitleFilePath = _secondarySubtitlePath;
-              
-              final tempSubtitles = _subtitles;
-              final tempText = _currentSubtitleText;
-              final tempIndex = _currentSubtitleIndex;
-              
-              _subtitles = _secondarySubtitles;
-              _currentSubtitleText = _secondarySubtitleText;
-              _currentSubtitleIndex = _currentSecondarySubtitleIndex;
-              
-              _secondarySubtitles = tempSubtitles;
-              _secondarySubtitleText = tempText;
-              _currentSecondarySubtitleIndex = tempIndex;
-              
-              final tempFont = _selectedFont;
-              final tempSize = _subtitleFontSize;
-              final tempPalette = _currentColorPalette;
-              final tempConversion = _conversionType;
-              
-              _selectedFont = _secondarySubtitleFont;
-              _subtitleFontSize = _secondarySubtitleFontSize;
-              _currentColorPalette = _secondaryColorPalette;
-              _conversionType = _secondaryConversionType;
-              
-              _secondarySubtitleFont = tempFont;
-              _secondarySubtitleFontSize = tempSize;
-              _secondaryColorPalette = tempPalette;
-              _secondaryConversionType = tempConversion;
-            });
-          },
-          onClearPrimary: () {
-            setState(() {
-              _primarySubtitlePath = null;
-              _subtitleFilePath = null;
-              _subtitles = [];
-              _currentSubtitleText = '';
-              _currentSubtitleIndex = null;
-            });
-          },
-          onClearSecondary: () {
-            setState(() {
-              _secondarySubtitlePath = null;
-              _secondarySubtitleFilePath = null;
-              _secondarySubtitles = [];
-              _secondarySubtitleText = '';
-              _currentSecondarySubtitleIndex = null;
-            });
-          },
-        ),
+    if (_currentAudiobook == null) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(content: Text('No audiobook loaded')),
       );
+      return;
     }
+    
+    await _scanAvailableSubtitles();
+    
+    if (_availableSubtitles.isEmpty) {
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          const SnackBar(content: Text('No subtitle files found')),
+        );
+      }
+      return;
+    }
+    
+    if (_subtitleFilePath != null && _primarySubtitlePath == null) {
+      setState(() {
+        _primarySubtitlePath = _subtitleFilePath;
+      });
+    }
+    
+    if (!mounted) return;
+    
+    showDialog(
+      context: context,
+      builder: (context) => SubtitleManagerDialog(
+        availableSubtitles: _availableSubtitles,
+        primarySubtitle: _primarySubtitlePath,
+        secondarySubtitle: _secondarySubtitlePath,
+        currentAudiobookPath: _currentAudiobook?.path,
+        onPrimarySelected: (path) async {
+          setState(() {
+            _primarySubtitlePath = path;
+            _subtitleFilePath = path;
+          });
+          await _applyConversion();
+        },
+        onSecondarySelected: (path) async {
+          setState(() {
+            _secondarySubtitlePath = path;
+            _secondarySubtitleFilePath = path;
+          });
+          await _applySecondaryConversion();
+        },
+        onSwap: () {
+          setState(() {
+            final temp = _primarySubtitlePath;
+            _primarySubtitlePath = _secondarySubtitlePath;
+            _secondarySubtitlePath = temp;
+            
+            _subtitleFilePath = _primarySubtitlePath;
+            _secondarySubtitleFilePath = _secondarySubtitlePath;
+            
+            final tempSubtitles = _subtitles;
+            final tempText = _currentSubtitleText;
+            final tempIndex = _currentSubtitleIndex;
+            
+            _subtitles = _secondarySubtitles;
+            _currentSubtitleText = _secondarySubtitleText;
+            _currentSubtitleIndex = _currentSecondarySubtitleIndex;
+            
+            _secondarySubtitles = tempSubtitles;
+            _secondarySubtitleText = tempText;
+            _currentSecondarySubtitleIndex = tempIndex;
+            
+            final tempFont = _selectedFont;
+            final tempSize = _subtitleFontSize;
+            final tempPalette = _currentColorPalette;
+            final tempConversion = _conversionType;
+            
+            _selectedFont = _secondarySubtitleFont;
+            _subtitleFontSize = _secondarySubtitleFontSize;
+            _currentColorPalette = _secondaryColorPalette;
+            _conversionType = _secondaryConversionType;
+            
+            _secondarySubtitleFont = tempFont;
+            _secondarySubtitleFontSize = tempSize;
+            _secondaryColorPalette = tempPalette;
+            _secondaryConversionType = tempConversion;
+          });
+        },
+        onClearPrimary: () {
+          setState(() {
+            _primarySubtitlePath = null;
+            _subtitleFilePath = null;
+            _subtitles = [];
+            _currentSubtitleText = '';
+            _currentSubtitleIndex = null;
+          });
+        },
+        onClearSecondary: () {
+          setState(() {
+            _secondarySubtitlePath = null;
+            _secondarySubtitleFilePath = null;
+            _secondarySubtitles = [];
+            _secondarySubtitleText = '';
+            _currentSecondarySubtitleIndex = null;
+          });
+        },
+      ),
+    );
+  }
   
   Future<void> _loadSubtitles(String audiobookPath) async {
     try {
@@ -3930,19 +3931,17 @@ class _PlayerScreenState extends State<PlayerScreen> {
     final audiobookDir = path.dirname(audiobookPath);
     final audiobookBase = path.basenameWithoutExtension(audiobookPath);
     final vttDir = path.join(audiobookDir, '${audiobookBase}_vtt');
-    if (!await Directory(vttDir).exists()) {
-      if (mounted) {
-        ScaffoldMessenger.of(context).showSnackBar(
-          SnackBar(content: Text('Directory not found: ${audiobookBase}_vtt')),
-        );
-      }
-      return;
+    
+    String initialDirectory = audiobookDir;
+    if (await Directory(vttDir).exists()) {
+      initialDirectory = vttDir;
     }
+    
     final result = await FilePicker.platform.pickFiles(
       type: FileType.custom,
       allowedExtensions: ['srt', 'vtt'],
       dialogTitle: 'Select Subtitle File',
-      initialDirectory: vttDir,
+      initialDirectory: initialDirectory,
     );
     if (result == null || result.files.isEmpty) return;
     
@@ -3977,8 +3976,11 @@ class _PlayerScreenState extends State<PlayerScreen> {
         _subtitles = subtitles;
         _subtitleFilePath = subtitlePath;
         _currentSubtitleText = '';
+        _originalSubtitles = subtitles;
+        _paragraphItems = _createParagraphs(subtitles);
       });
       _updateCurrentSubtitle();
+      _scheduleFrequencyGeneration();
       if (mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
           SnackBar(
@@ -4220,7 +4222,37 @@ class _PlayerScreenState extends State<PlayerScreen> {
               _adhanClockService.stopAdhan();
               return KeyEventResult.handled;
             } else if (event.logicalKey == LogicalKeyboardKey.keyG && event is KeyDownEvent) {
-              _loadSubtitleFromVttDir();
+              if (HardwareKeyboard.instance.isShiftPressed) {
+                setState(() {
+                  _pauseMode = PauseMode.disabled;
+                  _nextPauseTime = null;
+                  _pauseModeTimer?.cancel();
+                });
+                if (mounted) {
+                  ScaffoldMessenger.of(context).showSnackBar(
+                    const SnackBar(
+                      content: Text('Pause Mode: Disabled'),
+                      duration: Duration(seconds: 1),
+                    ),
+                  );
+                }
+              } else {
+                setState(() {
+                  _pauseMode = PauseMode.pause2s;
+                  if (_currentSubtitleIndex != null && _currentSubtitleIndex! < _subtitles.length) {
+                    final cue = _subtitles[_currentSubtitleIndex!];
+                    _nextPauseTime = cue.endTime - const Duration(milliseconds: 200);
+                  }
+                });
+                if (mounted) {
+                  ScaffoldMessenger.of(context).showSnackBar(
+                    const SnackBar(
+                      content: Text('Pause Mode: 2s'),
+                      duration: Duration(seconds: 1),
+                    ),
+                  );
+                }
+              }
               return KeyEventResult.handled;
             } else if (event.logicalKey == LogicalKeyboardKey.keyL && event is KeyDownEvent) {
               _openAudiobook();

@@ -1,10 +1,13 @@
 import 'package:flutter/material.dart';
+import 'package:file_picker/file_picker.dart';
 import 'package:path/path.dart' as path;
+import 'dart:io';
 
-class SubtitleManagerDialog extends StatefulWidget {
+class SubtitleManagerDialog extends StatelessWidget {
   final List<String> availableSubtitles;
   final String? primarySubtitle;
   final String? secondarySubtitle;
+  final String? currentAudiobookPath;
   final Function(String) onPrimarySelected;
   final Function(String) onSecondarySelected;
   final VoidCallback onSwap;
@@ -16,6 +19,7 @@ class SubtitleManagerDialog extends StatefulWidget {
     required this.availableSubtitles,
     required this.primarySubtitle,
     required this.secondarySubtitle,
+    this.currentAudiobookPath,
     required this.onPrimarySelected,
     required this.onSecondarySelected,
     required this.onSwap,
@@ -23,19 +27,93 @@ class SubtitleManagerDialog extends StatefulWidget {
     required this.onClearSecondary,
   });
 
-  @override
-  State<SubtitleManagerDialog> createState() => _SubtitleManagerDialogState();
-}
+  Future<void> _browseForSubtitle(BuildContext context, bool isPrimary) async {
+    String? initialDirectory;
+    
+    if (currentAudiobookPath != null) {
+      final audiobookDir = path.dirname(currentAudiobookPath!);
+      final audiobookBase = path.basenameWithoutExtension(currentAudiobookPath!);
+      final vttDir = path.join(audiobookDir, '${audiobookBase}_vtt');
+      
+      if (await Directory(vttDir).exists()) {
+        initialDirectory = vttDir;
+      } else {
+        initialDirectory = audiobookDir;
+      }
+    }
+    
+    final result = await FilePicker.platform.pickFiles(
+      type: FileType.custom,
+      allowedExtensions: ['srt', 'vtt'],
+      dialogTitle: 'Select Subtitle File',
+      initialDirectory: initialDirectory,
+    );
+    
+    if (result == null || result.files.isEmpty) return;
+    
+    var subtitlePath = result.files.first.path!;
+    
+    try {
+      if (path.extension(subtitlePath).toLowerCase() == '.srt') {
+        final vttPath = subtitlePath.replaceAll(RegExp(r'\.srt$', caseSensitive: false), '.vtt');
+        
+        if (!await File(vttPath).exists()) {
+          final srtContent = await File(subtitlePath).readAsString();
+          final vttContent = _convertSrtToVtt(srtContent);
+          await File(vttPath).writeAsString(vttContent);
+          
+          if (context.mounted) {
+            ScaffoldMessenger.of(context).showSnackBar(
+              SnackBar(
+                content: Text('Converted SRT to VTT: ${path.basename(vttPath)}'),
+                duration: const Duration(seconds: 2),
+              ),
+            );
+          }
+        }
+        
+        subtitlePath = vttPath;
+      }
+      
+      if (isPrimary) {
+        onPrimarySelected(subtitlePath);
+      } else {
+        onSecondarySelected(subtitlePath);
+      }
+      
+    } catch (e) {
+      print('Error loading subtitle: $e');
+      if (context.mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            content: Text('Failed to load subtitle: $e'),
+            backgroundColor: Colors.red,
+          ),
+        );
+      }
+    }
+  }
 
-class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
-  String? _selectedPrimary;
-  String? _selectedSecondary;
-
-  @override
-  void initState() {
-    super.initState();
-    _selectedPrimary = widget.primarySubtitle;
-    _selectedSecondary = widget.secondarySubtitle;
+  String _convertSrtToVtt(String srtContent) {
+    final lines = srtContent.split('\n');
+    final vttLines = <String>['WEBVTT', ''];
+    
+    for (int i = 0; i < lines.length; i++) {
+      final line = lines[i].trim();
+      
+      if (line.contains('-->')) {
+        final convertedLine = line.replaceAll(',', '.');
+        vttLines.add(convertedLine);
+      } else if (line.isEmpty || RegExp(r'^\d+$').hasMatch(line)) {
+        if (line.isEmpty && vttLines.last.isNotEmpty) {
+          vttLines.add('');
+        }
+      } else {
+        vttLines.add(line);
+      }
+    }
+    
+    return vttLines.join('\n');
   }
 
   @override
@@ -44,9 +122,9 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
       backgroundColor: const Color(0xFF1E1E1E),
       child: Container(
         width: 800,
-        height: 600,
         padding: const EdgeInsets.all(24),
         child: Column(
+          mainAxisSize: MainAxisSize.min,
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             Row(
@@ -62,115 +140,123 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
                 const Spacer(),
                 IconButton(
                   icon: const Icon(Icons.close, color: Colors.white),
-                  onPressed: () => Navigator.of(context).pop(),
+                  onPressed: () => Navigator.pop(context),
                 ),
               ],
             ),
             const SizedBox(height: 8),
             Text(
-              'Found ${widget.availableSubtitles.length} subtitle files',
+              'Found ${availableSubtitles.length} subtitle files',
               style: const TextStyle(color: Colors.white70, fontSize: 14),
             ),
             const SizedBox(height: 24),
             Row(
+              crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 Expanded(
                   child: Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
-                      Row(
-                        children: [
-                          Container(
-                            padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
-                            decoration: BoxDecoration(
-                              color: Colors.blue,
-                              borderRadius: BorderRadius.circular(4),
-                            ),
-                            child: const Text(
-                              'PRIMARY (Bottom)',
-                              style: TextStyle(
-                                color: Colors.white,
-                                fontSize: 12,
-                                fontWeight: FontWeight.bold,
-                              ),
-                            ),
+                      Container(
+                        padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+                        decoration: BoxDecoration(
+                          color: Colors.blue.withValues(alpha: 0.2),
+                          borderRadius: BorderRadius.circular(8),
+                        ),
+                        child: const Text(
+                          'PRIMARY (Bottom)',
+                          style: TextStyle(
+                            color: Colors.blue,
+                            fontSize: 16,
+                            fontWeight: FontWeight.bold,
                           ),
-                          const Spacer(),
-                          if (_selectedPrimary != null)
-                            IconButton(
-                              icon: const Icon(Icons.clear, color: Colors.red, size: 20),
-                              onPressed: () {
-                                setState(() {
-                                  _selectedPrimary = null;
-                                });
-                                widget.onClearPrimary();
-                              },
-                            ),
-                        ],
+                        ),
                       ),
-                      const SizedBox(height: 8),
-                      if (_selectedPrimary != null)
+                      const SizedBox(height: 12),
+                      if (primarySubtitle != null)
                         Container(
-                          padding: const EdgeInsets.all(8),
+                          padding: const EdgeInsets.all(12),
                           decoration: BoxDecoration(
-                            color: Colors.blue.withAlpha(51),
-                            borderRadius: BorderRadius.circular(4),
-                            border: Border.all(color: Colors.blue),
+                            color: Colors.blue.withValues(alpha: 0.1),
+                            borderRadius: BorderRadius.circular(8),
+                            border: Border.all(color: Colors.blue, width: 2),
                           ),
-                          child: Text(
-                            path.basename(_selectedPrimary!),
-                            style: const TextStyle(color: Colors.white, fontSize: 12),
-                            maxLines: 2,
-                            overflow: TextOverflow.ellipsis,
+                          child: Row(
+                            children: [
+                              Expanded(
+                                child: Text(
+                                  path.basename(primarySubtitle!),
+                                  style: const TextStyle(
+                                    color: Colors.white,
+                                    fontSize: 14,
+                                  ),
+                                ),
+                              ),
+                              IconButton(
+                                icon: const Icon(Icons.close, color: Colors.red, size: 20),
+                                onPressed: onClearPrimary,
+                                tooltip: 'Clear primary',
+                              ),
+                            ],
                           ),
                         )
                       else
                         Container(
-                          padding: const EdgeInsets.all(8),
+                          padding: const EdgeInsets.all(12),
                           decoration: BoxDecoration(
                             color: Colors.black26,
-                            borderRadius: BorderRadius.circular(4),
-                            border: Border.all(color: Colors.white24),
+                            borderRadius: BorderRadius.circular(8),
+                            border: Border.all(color: Colors.white24, width: 1),
                           ),
                           child: const Text(
                             'No primary subtitle selected',
-                            style: TextStyle(color: Colors.white54, fontSize: 12),
+                            style: TextStyle(color: Colors.white54, fontSize: 14),
                           ),
                         ),
+                      const SizedBox(height: 12),
+                      ElevatedButton.icon(
+                        onPressed: () => _browseForSubtitle(context, true),
+                        icon: const Icon(Icons.folder_open),
+                        label: const Text('Browse vtt'),
+                        style: ElevatedButton.styleFrom(
+                          backgroundColor: Colors.blue,
+                          foregroundColor: Colors.white,
+                        ),
+                      ),
                     ],
                   ),
                 ),
                 const SizedBox(width: 16),
                 Column(
+                  mainAxisAlignment: MainAxisAlignment.center,
                   children: [
-                    const SizedBox(height: 24),
-                    ElevatedButton.icon(
-                      onPressed: (_selectedPrimary != null || _selectedSecondary != null)
-                          ? () {
-                              final temp = _selectedPrimary;
-                              setState(() {
-                                _selectedPrimary = _selectedSecondary;
-                                _selectedSecondary = temp;
-                              });
-                              widget.onSwap();
-                            }
-                          : null,
-                      label: Column(
-                        mainAxisSize: MainAxisSize.min,
+                    const SizedBox(height: 40),
+                    if (primarySubtitle != null || secondarySubtitle != null)
+                      Column(
                         children: [
-                          Row(
-                            mainAxisSize: MainAxisSize.min,
-                            children: [
-                              Text('Swap Primary '),
-                              Icon(Icons.swap_vert, size: 14),
-                            ],
+                          IconButton(
+                            icon: const Icon(Icons.close, color: Colors.red, size: 32),
+                            onPressed: () {
+                              onClearPrimary();
+                              onClearSecondary();
+                            },
+                            tooltip: 'Clear both',
                           ),
-                          Text('Secondary (x)'),
+                          const SizedBox(height: 16),
                         ],
                       ),
+                    ElevatedButton(
+                      onPressed: onSwap,
                       style: ElevatedButton.styleFrom(
-                        backgroundColor: Colors.deepPurple,
+                        backgroundColor: Colors.purple,
                         foregroundColor: Colors.white,
+                        padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
+                      ),
+                      child: const Column(
+                        children: [
+                          Text('Swap Primary ⇅'),
+                          Text('Secondary (x)'),
+                        ],
                       ),
                     ),
                   ],
@@ -180,65 +266,72 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
                   child: Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
-                      Row(
-                        children: [
-                          Container(
-                            padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
-                            decoration: BoxDecoration(
-                              color: Colors.orange,
-                              borderRadius: BorderRadius.circular(4),
-                            ),
-                            child: const Text(
-                              'SECONDARY (Top)',
-                              style: TextStyle(
-                                color: Colors.white,
-                                fontSize: 12,
-                                fontWeight: FontWeight.bold,
-                              ),
-                            ),
+                      Container(
+                        padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+                        decoration: BoxDecoration(
+                          color: Colors.orange.withValues(alpha: 0.2),
+                          borderRadius: BorderRadius.circular(8),
+                        ),
+                        child: const Text(
+                          'SECONDARY (Top)',
+                          style: TextStyle(
+                            color: Colors.orange,
+                            fontSize: 16,
+                            fontWeight: FontWeight.bold,
                           ),
-                          const Spacer(),
-                          if (_selectedSecondary != null)
-                            IconButton(
-                              icon: const Icon(Icons.clear, color: Colors.red, size: 20),
-                              onPressed: () {
-                                setState(() {
-                                  _selectedSecondary = null;
-                                });
-                                widget.onClearSecondary();
-                              },
-                            ),
-                        ],
+                        ),
                       ),
-                      const SizedBox(height: 8),
-                      if (_selectedSecondary != null)
+                      const SizedBox(height: 12),
+                      if (secondarySubtitle != null)
                         Container(
-                          padding: const EdgeInsets.all(8),
+                          padding: const EdgeInsets.all(12),
                           decoration: BoxDecoration(
-                            color: Colors.orange.withAlpha(51),
-                            borderRadius: BorderRadius.circular(4),
-                            border: Border.all(color: Colors.orange),
+                            color: Colors.orange.withValues(alpha: 0.1),
+                            borderRadius: BorderRadius.circular(8),
+                            border: Border.all(color: Colors.orange, width: 2),
                           ),
-                          child: Text(
-                            path.basename(_selectedSecondary!),
-                            style: const TextStyle(color: Colors.white, fontSize: 12),
-                            maxLines: 2,
-                            overflow: TextOverflow.ellipsis,
+                          child: Row(
+                            children: [
+                              Expanded(
+                                child: Text(
+                                  path.basename(secondarySubtitle!),
+                                  style: const TextStyle(
+                                    color: Colors.white,
+                                    fontSize: 14,
+                                  ),
+                                ),
+                              ),
+                              IconButton(
+                                icon: const Icon(Icons.close, color: Colors.red, size: 20),
+                                onPressed: onClearSecondary,
+                                tooltip: 'Clear secondary',
+                              ),
+                            ],
                           ),
                         )
                       else
                         Container(
-                          padding: const EdgeInsets.all(8),
+                          padding: const EdgeInsets.all(12),
                           decoration: BoxDecoration(
                             color: Colors.black26,
-                            borderRadius: BorderRadius.circular(4),
-                            border: Border.all(color: Colors.white24),
+                            borderRadius: BorderRadius.circular(8),
+                            border: Border.all(color: Colors.white24, width: 1),
                           ),
                           child: const Text(
                             'No secondary subtitle selected',
-                            style: TextStyle(color: Colors.white54, fontSize: 12),
+                            style: TextStyle(color: Colors.white54, fontSize: 14),
                           ),
                         ),
+                      const SizedBox(height: 12),
+                      ElevatedButton.icon(
+                        onPressed: () => _browseForSubtitle(context, false),
+                        icon: const Icon(Icons.folder_open),
+                        label: const Text('Browse vtt'),
+                        style: ElevatedButton.styleFrom(
+                          backgroundColor: Colors.orange,
+                          foregroundColor: Colors.white,
+                        ),
+                      ),
                     ],
                   ),
                 ),
@@ -249,41 +342,35 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
               'Available Subtitles',
               style: TextStyle(
                 color: Colors.white,
-                fontSize: 16,
+                fontSize: 18,
                 fontWeight: FontWeight.bold,
               ),
             ),
             const SizedBox(height: 12),
-            Expanded(
-              child: ListView.builder(
-                itemCount: widget.availableSubtitles.length,
-                itemBuilder: (context, index) {
-                  final subtitle = widget.availableSubtitles[index];
-                  final filename = path.basename(subtitle);
-                  final isPrimary = _selectedPrimary == subtitle;
-                  final isSecondary = _selectedSecondary == subtitle;
-                  
-                  return Container(
-                    margin: const EdgeInsets.only(bottom: 8),
-                    decoration: BoxDecoration(
-                      color: isPrimary
-                          ? Colors.blue.withAlpha(51)
-                          : isSecondary
-                              ? Colors.orange.withAlpha(51)
-                              : Colors.black26,
-                      borderRadius: BorderRadius.circular(8),
-                      border: isPrimary
-                          ? Border.all(color: Colors.blue, width: 2)
-                          : isSecondary
-                              ? Border.all(color: Colors.orange, width: 2)
-                              : null,
-                    ),
-                    child: ListTile(
+            Flexible(
+              child: Container(
+                constraints: const BoxConstraints(maxHeight: 300),
+                decoration: BoxDecoration(
+                  color: Colors.black26,
+                  borderRadius: BorderRadius.circular(8),
+                ),
+                child: ListView.builder(
+                  shrinkWrap: true,
+                  itemCount: availableSubtitles.length,
+                  itemBuilder: (context, index) {
+                    final subtitle = availableSubtitles[index];
+                    final fileName = path.basename(subtitle);
+                    final isPrimary = subtitle == primarySubtitle;
+                    final isSecondary = subtitle == secondarySubtitle;
+                    
+                    return ListTile(
                       title: Text(
-                        filename,
+                        fileName,
                         style: TextStyle(
-                          color: isPrimary || isSecondary ? Colors.white : Colors.white70,
-                          fontSize: 14,
+                          color: isPrimary ? Colors.blue : 
+                                 isSecondary ? Colors.orange : 
+                                 Colors.white,
+                          fontWeight: isPrimary || isSecondary ? FontWeight.bold : FontWeight.normal,
                         ),
                       ),
                       trailing: Row(
@@ -291,7 +378,7 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
                         children: [
                           if (isPrimary)
                             Container(
-                              padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 2),
+                              padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
                               decoration: BoxDecoration(
                                 color: Colors.blue,
                                 borderRadius: BorderRadius.circular(4),
@@ -303,7 +390,7 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
                             ),
                           if (isSecondary)
                             Container(
-                              padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 2),
+                              padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
                               decoration: BoxDecoration(
                                 color: Colors.orange,
                                 borderRadius: BorderRadius.circular(4),
@@ -313,43 +400,22 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
                                 style: TextStyle(color: Colors.white, fontSize: 10),
                               ),
                             ),
-                          const SizedBox(width: 8),
-                          IconButton(
-                            icon: const Icon(Icons.arrow_downward, color: Colors.blue, size: 20),
-                            tooltip: 'Set as Primary (Bottom)',
-                            onPressed: () {
-                              setState(() {
-                                _selectedPrimary = subtitle;
-                              });
-                              widget.onPrimarySelected(subtitle);
-                            },
-                          ),
-                          IconButton(
-                            icon: const Icon(Icons.arrow_upward, color: Colors.orange, size: 20),
-                            tooltip: 'Set as Secondary (Top)',
-                            onPressed: () {
-                              setState(() {
-                                _selectedSecondary = subtitle;
-                              });
-                              widget.onSecondarySelected(subtitle);
-                            },
-                          ),
+                          if (!isPrimary && !isSecondary) ...[
+                            TextButton(
+                              onPressed: () => onPrimarySelected(subtitle),
+                              child: const Text('Primary'),
+                            ),
+                            TextButton(
+                              onPressed: () => onSecondarySelected(subtitle),
+                              child: const Text('Secondary'),
+                            ),
+                          ],
                         ],
                       ),
-                    ),
-                  );
-                },
-              ),
-            ),
-            const SizedBox(height: 16),
-            Row(
-              mainAxisAlignment: MainAxisAlignment.end,
-              children: [
-                ElevatedButton(
-                  onPressed: () => Navigator.of(context).pop(),
-                  child: const Text('Done'),
+                    );
+                  },
                 ),
-              ],
+              ),
             ),
           ],
         ),

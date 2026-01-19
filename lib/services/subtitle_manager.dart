@@ -1,251 +1,408 @@
-import 'dart:io';
+import 'package:flutter/material.dart';
+import 'package:file_picker/file_picker.dart';
 import 'package:path/path.dart' as path;
-import '../models/subtitle_cue.dart';
-import 'subtitle_organizer.dart';
+import 'dart:io';
 
-class SubtitleManager {
-  List<SubtitleCue> subtitles = [];
-  String currentSubtitleText = '';
-  String? subtitleFilePath;
-  double subtitleFontSize = 44.0;
-  
-  Future<void> loadSubtitles(String audiobookPath) async {
+class SubtitleManagerDialog extends StatelessWidget {
+  final List<String> availableSubtitles;
+  final String? primarySubtitle;
+  final String? secondarySubtitle;
+  final Function(String) onPrimarySelected;
+  final Function(String) onSecondarySelected;
+  final VoidCallback onSwap;
+  final VoidCallback onClearPrimary;
+  final VoidCallback onClearSecondary;
+
+  const SubtitleManagerDialog({
+    super.key,
+    required this.availableSubtitles,
+    required this.primarySubtitle,
+    required this.secondarySubtitle,
+    required this.onPrimarySelected,
+    required this.onSecondarySelected,
+    required this.onSwap,
+    required this.onClearPrimary,
+    required this.onClearSecondary,
+  });
+
+  Future<void> _browseForSubtitle(BuildContext context, bool isPrimary) async {
+    final result = await FilePicker.platform.pickFiles(
+      type: FileType.custom,
+      allowedExtensions: ['srt', 'vtt'],
+      dialogTitle: 'Select Subtitle File',
+    );
+    
+    if (result == null || result.files.isEmpty) return;
+    
+    var subtitlePath = result.files.first.path!;
+    
     try {
-      final dir = path.dirname(audiobookPath);
-      await SubtitleOrganizer.organizeAllSubtitlesInDirectory(dir);
-      
-      final subtitlePath = await SubtitleOrganizer.findSubtitleInDirectory(audiobookPath);
-      
-      if (subtitlePath == null) {
-        print('No subtitle file found for: ${path.basename(audiobookPath)}');
-        clear();
-        return;
-      }
+      if (path.extension(subtitlePath).toLowerCase() == '.srt') {
+        final vttPath = subtitlePath.replaceAll(RegExp(r'\.srt$', caseSensitive: false), '.vtt');
         
-      final content = await File(subtitlePath).readAsString();
-      final ext = path.extension(subtitlePath).toLowerCase();
+        if (!await File(vttPath).exists()) {
+          final srtContent = await File(subtitlePath).readAsString();
+          final vttContent = _convertSrtToVtt(srtContent);
+          await File(vttPath).writeAsString(vttContent);
+          
+          if (context.mounted) {
+            ScaffoldMessenger.of(context).showSnackBar(
+              SnackBar(
+                content: Text('Converted SRT to VTT: ${path.basename(vttPath)}'),
+                duration: const Duration(seconds: 2),
+              ),
+            );
+          }
+        }
+        
+        subtitlePath = vttPath;
+      }
       
-      subtitles = (ext == '.vtt' || ext == '.vtc')
-          ? _parseVTT(content) 
-          : _parseSRT(content);
-
-      subtitleFilePath = subtitlePath;
-      print('Loaded ${subtitles.length} subtitle cues');
-  
+      if (isPrimary) {
+        onPrimarySelected(subtitlePath);
+      } else {
+        onSecondarySelected(subtitlePath);
+      }
+      
     } catch (e) {
-      print('Error loading subtitles: $e');
-      clear();
-    }
-  }
-  
-  void updateCurrentSubtitle(Duration position) {
-    if (subtitles.isEmpty) {
-      if (currentSubtitleText.isNotEmpty) {
-        currentSubtitleText = '';
-      }
-      return;
-    }
-  
-    for (final cue in subtitles) {
-      if (position >= cue.startTime && position < cue.endTime) {
-        if (currentSubtitleText != cue.text) {
-          currentSubtitleText = cue.text;
-        }
-        return;
-      }
-    }
-  
-    if (currentSubtitleText.isNotEmpty) {
-      currentSubtitleText = '';
-    }
-  }
-  
-  SubtitleCue? findPreviousSubtitle(Duration position) {
-    SubtitleCue? currentCue;
-    int currentCueIndex = -1;
-    
-    for (var i = 0; i < subtitles.length; i++) {
-      final cue = subtitles[i];
-      if (position >= cue.startTime && position < cue.endTime) {
-        currentCue = cue;
-        currentCueIndex = i;
-        break;
-      }
-    }
-    
-    if (currentCue != null) {
-      final timeSinceStart = position - currentCue.startTime;
-      
-      if (timeSinceStart.inMilliseconds > 500) {
-        return currentCue;
-      } else if (currentCueIndex > 0) {
-        return subtitles[currentCueIndex - 1];
-      }
-    } else {
-      for (var i = subtitles.length - 1; i >= 0; i--) {
-        if (position > subtitles[i].endTime) {
-          return subtitles[i];
-        }
-      }
-      
-      if (subtitles.isNotEmpty) {
-        return subtitles[0];
-      }
-    }
-    
-    return null;
-  }
-  
-  SubtitleCue? findNextSubtitle(Duration position) {
-    for (var i = 0; i < subtitles.length; i++) {
-      final cue = subtitles[i];
-      if (position < cue.startTime) {
-        return cue;
-      }
-    }
-    
-    if (subtitles.isNotEmpty) {
-      return subtitles.last;
-    }
-    
-    return null;
-  }
-  
-  void increaseFontSize() {
-    subtitleFontSize = (subtitleFontSize + 4).clamp(20.0, 150.0);
-  }
-  
-  void decreaseFontSize() {
-    subtitleFontSize = (subtitleFontSize - 4).clamp(20.0, 150.0);
-  }
-  
-  void clear() {
-    subtitles = [];
-    subtitleFilePath = null;
-    currentSubtitleText = '';
-  }
-  
-  List<SubtitleCue> _parseVTT(String content) {
-    final cues = <SubtitleCue>[];
-    final lines = content.split('\n');
-  
-    for (var i = 0; i < lines.length; i++) {
-      final line = lines[i].trim();
-      if (line.contains('-->')) {
-        final parts = line.split('-->');
-        if (parts.length == 2) {
-          final startTime = _parseVTTTime(parts[0].trim());
-          final endTime = _parseVTTTime(parts[1].trim().split(' ')[0]);
-  
-          final textLines = <String>[];
-          i++;
-          while (i < lines.length && lines[i].trim().isNotEmpty) {
-            textLines.add(lines[i].trim());
-            i++;
-          }
-  
-          if (startTime != null && endTime != null && textLines.isNotEmpty) {
-            cues.add(SubtitleCue(
-              startTime: startTime,
-              endTime: endTime,
-              text: textLines.join('\n'),
-            ));
-          }
-        }
-      }
-    }
-  
-    return cues;
-  }
-
-  List<SubtitleCue> _parseSRT(String content) {
-    final cues = <SubtitleCue>[];
-    final lines = content.split('\n');
-
-    for (var i = 0; i < lines.length; i++) {
-      final line = lines[i].trim();
-      if (line.contains('-->')) {
-        final parts = line.split('-->');
-        if (parts.length == 2) {
-          final startTime = _parseSRTTime(parts[0].trim());
-          final endTime = _parseSRTTime(parts[1].trim());
-
-          final textLines = <String>[];
-          i++;
-          while (i < lines.length && lines[i].trim().isNotEmpty) {
-            textLines.add(lines[i].trim());
-            i++;
-          }
-
-          if (startTime != null && endTime != null && textLines.isNotEmpty) {
-            cues.add(SubtitleCue(
-              startTime: startTime,
-              endTime: endTime,
-              text: textLines.join('\n'),
-            ));
-          }
-        }
-      }
-    }
-
-    return cues;
-  }
-
-  Duration? _parseVTTTime(String timeStr) {
-    try {
-      final parts = timeStr.split(':');
-      if (parts.length == 3) {
-        final hours = int.parse(parts[0]);
-        final minutes = int.parse(parts[1]);
-        final secondsParts = parts[2].split('.');
-        final seconds = int.parse(secondsParts[0]);
-        final milliseconds = secondsParts.length > 1 
-            ? int.parse(secondsParts[1].padRight(3, '0').substring(0, 3)) 
-            : 0;
-
-        return Duration(
-          hours: hours, 
-          minutes: minutes, 
-          seconds: seconds, 
-          milliseconds: milliseconds
-        );
-      } else if (parts.length == 2) {
-        final minutes = int.parse(parts[0]);
-        final secondsParts = parts[1].split('.');
-        final seconds = int.parse(secondsParts[0]);
-        final milliseconds = secondsParts.length > 1 
-            ? int.parse(secondsParts[1].padRight(3, '0').substring(0, 3)) 
-            : 0;
-
-        return Duration(
-          minutes: minutes, 
-          seconds: seconds, 
-          milliseconds: milliseconds
+      print('Error loading subtitle: $e');
+      if (context.mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            content: Text('Failed to load subtitle: $e'),
+            backgroundColor: Colors.red,
+          ),
         );
       }
-    } catch (e) {
-      print('Error parsing VTT time "$timeStr": $e');
-      return null;
     }
-    return null;
   }
 
-  Duration? _parseSRTTime(String timeStr) {
-    try {
-      final parts = timeStr.split(':');
-      if (parts.length == 3) {
-        final hours = int.parse(parts[0]);
-        final minutes = int.parse(parts[1]);
-        final secondsParts = parts[2].split(',');
-        final seconds = int.parse(secondsParts[0]);
-        final milliseconds = secondsParts.length > 1 ? int.parse(secondsParts[1]) : 0;
-
-        return Duration(hours: hours, minutes: minutes, seconds: seconds, milliseconds: milliseconds);
+  String _convertSrtToVtt(String srtContent) {
+    final lines = srtContent.split('\n');
+    final vttLines = <String>['WEBVTT', ''];
+    
+    for (int i = 0; i < lines.length; i++) {
+      final line = lines[i].trim();
+      
+      if (line.contains('-->')) {
+        final convertedLine = line.replaceAll(',', '.');
+        vttLines.add(convertedLine);
+      } else if (line.isEmpty || RegExp(r'^\d+$').hasMatch(line)) {
+        if (line.isEmpty && vttLines.last.isNotEmpty) {
+          vttLines.add('');
+        }
+      } else {
+        vttLines.add(line);
       }
-    } catch (e) {
-      print('Error parsing SRT time "$timeStr": $e');
-      return null;
     }
-    return null;
+    
+    return vttLines.join('\n');
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return Dialog(
+      backgroundColor: const Color(0xFF1E1E1E),
+      child: Container(
+        width: 800,
+        padding: const EdgeInsets.all(24),
+        child: Column(
+          mainAxisSize: MainAxisSize.min,
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Row(
+              children: [
+                const Text(
+                  'Subtitle Manager',
+                  style: TextStyle(
+                    color: Colors.white,
+                    fontSize: 24,
+                    fontWeight: FontWeight.bold,
+                  ),
+                ),
+                const Spacer(),
+                IconButton(
+                  icon: const Icon(Icons.close, color: Colors.white),
+                  onPressed: () => Navigator.pop(context),
+                ),
+              ],
+            ),
+            const SizedBox(height: 8),
+            Text(
+              'Found ${availableSubtitles.length} subtitle files',
+              style: const TextStyle(color: Colors.white70, fontSize: 14),
+            ),
+            const SizedBox(height: 24),
+            Row(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Expanded(
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      Container(
+                        padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+                        decoration: BoxDecoration(
+                          color: Colors.blue.withValues(alpha: 0.2),
+                          borderRadius: BorderRadius.circular(8),
+                        ),
+                        child: const Text(
+                          'PRIMARY (Bottom)',
+                          style: TextStyle(
+                            color: Colors.blue,
+                            fontSize: 16,
+                            fontWeight: FontWeight.bold,
+                          ),
+                        ),
+                      ),
+                      const SizedBox(height: 12),
+                      if (primarySubtitle != null)
+                        Container(
+                          padding: const EdgeInsets.all(12),
+                          decoration: BoxDecoration(
+                            color: Colors.blue.withValues(alpha: 0.1),
+                            borderRadius: BorderRadius.circular(8),
+                            border: Border.all(color: Colors.blue, width: 2),
+                          ),
+                          child: Row(
+                            children: [
+                              Expanded(
+                                child: Text(
+                                  path.basename(primarySubtitle!),
+                                  style: const TextStyle(
+                                    color: Colors.white,
+                                    fontSize: 14,
+                                  ),
+                                ),
+                              ),
+                              IconButton(
+                                icon: const Icon(Icons.close, color: Colors.red, size: 20),
+                                onPressed: onClearPrimary,
+                                tooltip: 'Clear primary',
+                              ),
+                            ],
+                          ),
+                        )
+                      else
+                        Container(
+                          padding: const EdgeInsets.all(12),
+                          decoration: BoxDecoration(
+                            color: Colors.black26,
+                            borderRadius: BorderRadius.circular(8),
+                            border: Border.all(color: Colors.white24, width: 1),
+                          ),
+                          child: const Text(
+                            'No primary subtitle selected',
+                            style: TextStyle(color: Colors.white54, fontSize: 14),
+                          ),
+                        ),
+                      const SizedBox(height: 12),
+                      ElevatedButton.icon(
+                        onPressed: () => _browseForSubtitle(context, true),
+                        icon: const Icon(Icons.folder_open),
+                        label: const Text('Browse vtt'),
+                        style: ElevatedButton.styleFrom(
+                          backgroundColor: Colors.blue,
+                          foregroundColor: Colors.white,
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+                const SizedBox(width: 16),
+                Column(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: [
+                    const SizedBox(height: 40),
+                    if (primarySubtitle != null || secondarySubtitle != null)
+                      Column(
+                        children: [
+                          IconButton(
+                            icon: const Icon(Icons.close, color: Colors.red, size: 32),
+                            onPressed: () {
+                              onClearPrimary();
+                              onClearSecondary();
+                            },
+                            tooltip: 'Clear both',
+                          ),
+                          const SizedBox(height: 16),
+                        ],
+                      ),
+                    ElevatedButton(
+                      onPressed: onSwap,
+                      style: ElevatedButton.styleFrom(
+                        backgroundColor: Colors.purple,
+                        foregroundColor: Colors.white,
+                        padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
+                      ),
+                      child: const Column(
+                        children: [
+                          Text('Swap Primary ⇅'),
+                          Text('Secondary (x)'),
+                        ],
+                      ),
+                    ),
+                  ],
+                ),
+                const SizedBox(width: 16),
+                Expanded(
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      Container(
+                        padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+                        decoration: BoxDecoration(
+                          color: Colors.orange.withValues(alpha: 0.2),
+                          borderRadius: BorderRadius.circular(8),
+                        ),
+                        child: const Text(
+                          'SECONDARY (Top)',
+                          style: TextStyle(
+                            color: Colors.orange,
+                            fontSize: 16,
+                            fontWeight: FontWeight.bold,
+                          ),
+                        ),
+                      ),
+                      const SizedBox(height: 12),
+                      if (secondarySubtitle != null)
+                        Container(
+                          padding: const EdgeInsets.all(12),
+                          decoration: BoxDecoration(
+                            color: Colors.orange.withValues(alpha: 0.1),
+                            borderRadius: BorderRadius.circular(8),
+                            border: Border.all(color: Colors.orange, width: 2),
+                          ),
+                          child: Row(
+                            children: [
+                              Expanded(
+                                child: Text(
+                                  path.basename(secondarySubtitle!),
+                                  style: const TextStyle(
+                                    color: Colors.white,
+                                    fontSize: 14,
+                                  ),
+                                ),
+                              ),
+                              IconButton(
+                                icon: const Icon(Icons.close, color: Colors.red, size: 20),
+                                onPressed: onClearSecondary,
+                                tooltip: 'Clear secondary',
+                              ),
+                            ],
+                          ),
+                        )
+                      else
+                        Container(
+                          padding: const EdgeInsets.all(12),
+                          decoration: BoxDecoration(
+                            color: Colors.black26,
+                            borderRadius: BorderRadius.circular(8),
+                            border: Border.all(color: Colors.white24, width: 1),
+                          ),
+                          child: const Text(
+                            'No secondary subtitle selected',
+                            style: TextStyle(color: Colors.white54, fontSize: 14),
+                          ),
+                        ),
+                      const SizedBox(height: 12),
+                      ElevatedButton.icon(
+                        onPressed: () => _browseForSubtitle(context, false),
+                        icon: const Icon(Icons.folder_open),
+                        label: const Text('Browse vtt'),
+                        style: ElevatedButton.styleFrom(
+                          backgroundColor: Colors.orange,
+                          foregroundColor: Colors.white,
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+              ],
+            ),
+            const SizedBox(height: 24),
+            const Text(
+              'Available Subtitles',
+              style: TextStyle(
+                color: Colors.white,
+                fontSize: 18,
+                fontWeight: FontWeight.bold,
+              ),
+            ),
+            const SizedBox(height: 12),
+            Flexible(
+              child: Container(
+                constraints: const BoxConstraints(maxHeight: 300),
+                decoration: BoxDecoration(
+                  color: Colors.black26,
+                  borderRadius: BorderRadius.circular(8),
+                ),
+                child: ListView.builder(
+                  shrinkWrap: true,
+                  itemCount: availableSubtitles.length,
+                  itemBuilder: (context, index) {
+                    final subtitle = availableSubtitles[index];
+                    final fileName = path.basename(subtitle);
+                    final isPrimary = subtitle == primarySubtitle;
+                    final isSecondary = subtitle == secondarySubtitle;
+                    
+                    return ListTile(
+                      title: Text(
+                        fileName,
+                        style: TextStyle(
+                          color: isPrimary ? Colors.blue : 
+                                 isSecondary ? Colors.orange : 
+                                 Colors.white,
+                          fontWeight: isPrimary || isSecondary ? FontWeight.bold : FontWeight.normal,
+                        ),
+                      ),
+                      trailing: Row(
+                        mainAxisSize: MainAxisSize.min,
+                        children: [
+                          if (isPrimary)
+                            Container(
+                              padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+                              decoration: BoxDecoration(
+                                color: Colors.blue,
+                                borderRadius: BorderRadius.circular(4),
+                              ),
+                              child: const Text(
+                                'PRIMARY',
+                                style: TextStyle(color: Colors.white, fontSize: 10),
+                              ),
+                            ),
+                          if (isSecondary)
+                            Container(
+                              padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+                              decoration: BoxDecoration(
+                                color: Colors.orange,
+                                borderRadius: BorderRadius.circular(4),
+                              ),
+                              child: const Text(
+                                'SECONDARY',
+                                style: TextStyle(color: Colors.white, fontSize: 10),
+                              ),
+                            ),
+                          if (!isPrimary && !isSecondary) ...[
+                            TextButton(
+                              onPressed: () => onPrimarySelected(subtitle),
+                              child: const Text('Primary'),
+                            ),
+                            TextButton(
+                              onPressed: () => onSecondarySelected(subtitle),
+                              child: const Text('Secondary'),
+                            ),
+                          ],
+                        ],
+                      ),
+                    );
+                  },
+                ),
+              ),
+            ),
+          ],
+        ),
+      ),
+    );
   }
 }

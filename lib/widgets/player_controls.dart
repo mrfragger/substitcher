@@ -351,7 +351,11 @@ class PlayerControls extends StatelessWidget {
                             ),
                           ),
                         Text(
-                          '${playbackSpeed.toStringAsFixed(1)}x',
+                          [
+                            if (pauseMode != PauseMode.disabled && pauseMode != PauseMode.dictionary)
+                              '${_getPauseModeText(pauseMode)} • ',
+                            '${playbackSpeed.toStringAsFixed(1)}x',
+                          ].join(),
                           style: const TextStyle(
                             color: Colors.white70,
                             fontSize: 12,
@@ -609,14 +613,13 @@ class PlayerControls extends StatelessWidget {
           ),
         ),
         const SizedBox(width: 8),
-        ElevatedButton.icon(
-          onPressed: onTogglePanel,
-          label: const Text(
-            'Chapters',
-            style: TextStyle(fontSize: 12),
-          ),
-          style: ElevatedButton.styleFrom(
-            padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+        Tooltip(
+          message: 'Chapters (c)',
+          child: IconButton(
+            icon: const Icon(Icons.view_timeline),
+            color: Colors.white,
+            iconSize: 28,
+            onPressed: onTogglePanel,
           ),
         ),
         const SizedBox(width: 8),
@@ -654,12 +657,8 @@ class PlayerControls extends StatelessWidget {
               ),
             ),
             const PopupMenuItem(
-              value: 'load_subtitle',
-              child: Text('Load Subtitles (g)'),
-            ),
-            const PopupMenuItem(
               value: 'subtitle_manager',
-              child: Text('Bilingual Subtitles (v)'),
+              child: Text('Subtitle Manager (v)'),
             ),
             PopupMenuItem(
               enabled: false,
@@ -675,7 +674,7 @@ class PlayerControls extends StatelessWidget {
                           const Icon(Icons.check, size: 16),
                         if (pauseMode == PauseMode.disabled)
                           const SizedBox(width: 8),
-                        const Text('Disable Pause Mode'),
+                        const Text('Disable Pause Mode (G)'),
                       ],
                     ),
                   ),
@@ -687,7 +686,7 @@ class PlayerControls extends StatelessWidget {
                           const Icon(Icons.check, size: 16),
                         if (pauseMode == PauseMode.pause2s)
                           const SizedBox(width: 8),
-                        const Text('Pause Mode 2s'),
+                        const Text('Pause Mode 2s (g)'),
                       ],
                     ),
                   ),
@@ -829,6 +828,23 @@ class PlayerControls extends StatelessWidget {
     if (bytes < 1024) return '${bytes}B';
     if (bytes < 1024 * 1024) return '${(bytes / 1024).floor()}KiB';
     return '${(bytes / (1024 * 1024)).floor()}MiB';
+  }
+}
+
+String _getPauseModeText(PauseMode mode) {
+  switch (mode) {
+    case PauseMode.pause2s:
+      return 'Pause 2s';
+    case PauseMode.pause3s:
+      return 'Pause 3s';
+    case PauseMode.pause5s:
+      return 'Pause 5s';
+    case PauseMode.pause10s:
+      return 'Pause 10s';
+    case PauseMode.dictionary:
+      return 'Dict';
+    case PauseMode.disabled:
+      return '';
   }
 }
 

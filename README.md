@@ -38,6 +38,7 @@ Opus chaptered encoder and player with colored subtitles and fancy fonts. Transc
 - filters out tons of common words (and, the, to, from, etc.)
 - removes repeated words
 - History of looked up words clicked on
+- Clear or Copy All history to clipboard
 - Pause mode 2s, 3s, 5s, 10s or Dictionary mode (forever)
 - CJK (Chinese, Japanese, Korean) and Arabic subtitles
 - tokenizes Japanese with tiny segmenter
@@ -50,7 +51,7 @@ Opus chaptered encoder and player with colored subtitles and fancy fonts. Transc
 ### Bilingual Subtitles
 - audiobookname_vtt sub directory to keep many subs (autoloads)
 - automatically changes font size based on length of subtitles
-- v bilingual subtitles
+- v Subtitle Manager for bilingual subtitles and loading subs
 - x swap top and bottom
 - set font and color for 'active subtitle' which is the bottom one
 - set font and color for each one top and bottom 
