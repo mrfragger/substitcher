@@ -1,6 +1,6 @@
 # SubStitcher
 
-Opus chaptered encoder and player with subtitles. Transcribe to vtt subtitles, search through all Chapters, History, Playlist, Bookmarks, Fonts, Colors, Words, Subs, Stats. Dictionary word lookup.
+Opus chaptered encoder and player with colored subtitles and fancy fonts. Transcribe to vtt subtitles, search through all Chapters, History, Playlist, Bookmarks, Fonts, Colors, Words, Subs, Stats. Dictionary word lookup.
 
 ### Encoding and Transcribing
 - Encode 16kbps audiobooks which is 4x smaller than 64kbps
@@ -37,6 +37,7 @@ Opus chaptered encoder and player with subtitles. Transcribe to vtt subtitles, s
 - or on Windows, Linux, Android copy to clipboard
 - filters out tons of common words (and, the, to, from, etc.)
 - removes repeated words
+- History of looked up words clicked on
 - Pause mode 2s, 3s, 5s, 10s or Dictionary mode (forever)
 - CJK (Chinese, Japanese, Korean) and Arabic subtitles
 - tokenizes Japanese with tiny segmenter

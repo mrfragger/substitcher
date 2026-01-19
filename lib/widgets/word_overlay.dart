@@ -1,7 +1,22 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'dart:io';
 import '../services/cjk_tokenizer.dart';
 import '../services/dictionary_service.dart';
+
+class WordHistory {
+  static final List<String> clickedWords = [];
+  
+  static void clear() {
+    clickedWords.clear();
+  }
+  
+  static void addWord(String word) {
+    if (!clickedWords.contains(word)) {
+      clickedWords.add(word);
+    }
+  }
+}
 
 class WordOverlay extends StatefulWidget {
   final String subtitle;
@@ -25,6 +40,7 @@ class _WordOverlayState extends State<WordOverlay> {
   List<String> _words = [];
   String? _copiedWord;
   bool _isLoading = true;
+  bool _showHistoryList = false;
 
   @override
   void initState() {
@@ -40,7 +56,6 @@ class _WordOverlayState extends State<WordOverlay> {
       return true;
     }
     
-    // For English/Latin text, filter out 1-2 letter words
     if (language == TextLanguage.english || language == TextLanguage.unknown) {
       return word.length >= 3;
     }
@@ -55,7 +70,7 @@ class _WordOverlayState extends State<WordOverlay> {
       _words = words;
       _isLoading = false;
     });
-    print('Tokenized ${_words.length} words: $_words');
+    // print('Tokenized ${_words.length} words: $_words');
   }
   
   bool _isPunctuation(String token) {
@@ -67,7 +82,24 @@ class _WordOverlayState extends State<WordOverlay> {
   }
 
   Future<void> _handleWordClick(String word) async {
+    final language = CJKTokenizer.detectLanguage(word);
+    await DictionaryService.lookupWord(word, language);
     
+    setState(() {
+      WordHistory.addWord(word);
+      _copiedWord = word;
+    });
+    
+    await Future.delayed(const Duration(seconds: 2));
+    
+    if (mounted) {
+      setState(() {
+        _copiedWord = null;
+      });
+    }
+  }
+
+  Future<void> _handleHistoryWordClick(String word) async {
     final language = CJKTokenizer.detectLanguage(word);
     await DictionaryService.lookupWord(word, language);
     
@@ -82,6 +114,31 @@ class _WordOverlayState extends State<WordOverlay> {
         _copiedWord = null;
       });
     }
+  }
+
+  Future<void> _copyHistoryToClipboard() async {
+    if (WordHistory.clickedWords.isEmpty) return;
+    
+    final historyText = WordHistory.clickedWords.join('\n');
+    await Clipboard.setData(ClipboardData(text: historyText));
+    
+    setState(() {
+      _copiedWord = 'History';
+    });
+    
+    await Future.delayed(const Duration(seconds: 2));
+    
+    if (mounted) {
+      setState(() {
+        _copiedWord = null;
+      });
+    }
+  }
+
+  void _clearHistory() {
+    setState(() {
+      WordHistory.clear();
+    });
   }
 
   Color _parseColor(String colorStr) {
@@ -135,11 +192,49 @@ class _WordOverlayState extends State<WordOverlay> {
                         ),
                         const SizedBox(width: 16),
                         if (!_isLoading)
-                          Text(
-                            'Found ${_words.length} words',
-                            style: const TextStyle(
-                              color: Colors.cyan,
-                              fontSize: 11,
+                          MouseRegion(
+                            cursor: SystemMouseCursors.click,
+                            child: GestureDetector(
+                              onTap: () {
+                                setState(() {
+                                  _showHistoryList = !_showHistoryList;
+                                });
+                              },
+                              child: Container(
+                                padding: const EdgeInsets.symmetric(
+                                  horizontal: 8,
+                                  vertical: 4,
+                                ),
+                                decoration: BoxDecoration(
+                                  color: Colors.cyan.withValues(alpha: 0.2),
+                                  borderRadius: BorderRadius.circular(4),
+                                  border: Border.all(
+                                    color: Colors.cyan,
+                                    width: 1,
+                                  ),
+                                ),
+                                child: Row(
+                                  mainAxisSize: MainAxisSize.min,
+                                  children: [
+                                    Text(
+                                      'History (${WordHistory.clickedWords.length})',
+                                      style: const TextStyle(
+                                        color: Colors.cyan,
+                                        fontSize: 11,
+                                        fontWeight: FontWeight.bold,
+                                      ),
+                                    ),
+                                    const SizedBox(width: 4),
+                                    Icon(
+                                      _showHistoryList
+                                          ? Icons.expand_less
+                                          : Icons.expand_more,
+                                      color: Colors.cyan,
+                                      size: 16,
+                                    ),
+                                  ],
+                                ),
+                              ),
                             ),
                           ),
                         const SizedBox(width: 12),
@@ -153,6 +248,157 @@ class _WordOverlayState extends State<WordOverlay> {
                       ],
                     ),
                     const SizedBox(height: 12),
+                    
+                    if (_showHistoryList && WordHistory.clickedWords.isNotEmpty)
+                      Container(
+                        margin: const EdgeInsets.only(bottom: 12),
+                        padding: const EdgeInsets.all(12),
+                        decoration: BoxDecoration(
+                          color: Colors.black38,
+                          borderRadius: BorderRadius.circular(6),
+                          border: Border.all(
+                            color: Colors.cyan.withValues(alpha: 0.3),
+                            width: 1,
+                          ),
+                        ),
+                        child: Column(
+                          crossAxisAlignment: CrossAxisAlignment.start,
+                          children: [
+                            Row(
+                              children: [
+                                const Text(
+                                  'Clicked Words History',
+                                  style: TextStyle(
+                                    color: Colors.cyan,
+                                    fontSize: 12,
+                                    fontWeight: FontWeight.bold,
+                                  ),
+                                ),
+                                const Spacer(),
+                                MouseRegion(
+                                  cursor: SystemMouseCursors.click,
+                                  child: GestureDetector(
+                                    onTap: _clearHistory,
+                                    child: Container(
+                                      padding: const EdgeInsets.symmetric(
+                                        horizontal: 6,
+                                        vertical: 3,
+                                      ),
+                                      decoration: BoxDecoration(
+                                        color: Colors.red.withValues(alpha: 0.2),
+                                        borderRadius: BorderRadius.circular(3),
+                                        border: Border.all(
+                                          color: Colors.red,
+                                          width: 1,
+                                        ),
+                                      ),
+                                      child: const Row(
+                                        mainAxisSize: MainAxisSize.min,
+                                        children: [
+                                          Icon(
+                                            Icons.clear,
+                                            color: Colors.red,
+                                            size: 12,
+                                          ),
+                                          SizedBox(width: 4),
+                                          Text(
+                                            'Clear',
+                                            style: TextStyle(
+                                              color: Colors.red,
+                                              fontSize: 10,
+                                              fontWeight: FontWeight.bold,
+                                            ),
+                                          ),
+                                        ],
+                                      ),
+                                    ),
+                                  ),
+                                ),
+                                const SizedBox(width: 6),
+                                MouseRegion(
+                                  cursor: SystemMouseCursors.click,
+                                  child: GestureDetector(
+                                    onTap: _copyHistoryToClipboard,
+                                    child: Container(
+                                      padding: const EdgeInsets.symmetric(
+                                        horizontal: 6,
+                                        vertical: 3,
+                                      ),
+                                      decoration: BoxDecoration(
+                                        color: Colors.green.withValues(alpha: 0.2),
+                                        borderRadius: BorderRadius.circular(3),
+                                        border: Border.all(
+                                          color: Colors.green,
+                                          width: 1,
+                                        ),
+                                      ),
+                                      child: const Row(
+                                        mainAxisSize: MainAxisSize.min,
+                                        children: [
+                                          Icon(
+                                            Icons.copy,
+                                            color: Colors.green,
+                                            size: 12,
+                                          ),
+                                          SizedBox(width: 4),
+                                          Text(
+                                            'Copy All',
+                                            style: TextStyle(
+                                              color: Colors.green,
+                                              fontSize: 10,
+                                              fontWeight: FontWeight.bold,
+                                            ),
+                                          ),
+                                        ],
+                                      ),
+                                    ),
+                                  ),
+                                ),
+                              ],
+                            ),
+                            const SizedBox(height: 8),
+                            Container(
+                              constraints: const BoxConstraints(maxHeight: 150),
+                              child: SingleChildScrollView(
+                                child: Wrap(
+                                  spacing: 6,
+                                  runSpacing: 6,
+                                  children: WordHistory.clickedWords.map((word) {
+                                    return MouseRegion(
+                                      cursor: SystemMouseCursors.click,
+                                      child: GestureDetector(
+                                        onTap: () => _handleHistoryWordClick(word),
+                                        child: Container(
+                                          padding: const EdgeInsets.symmetric(
+                                            horizontal: 8,
+                                            vertical: 4,
+                                          ),
+                                          decoration: BoxDecoration(
+                                            color: Colors.cyan.withValues(alpha: 0.15),
+                                            borderRadius: BorderRadius.circular(4),
+                                            border: Border.all(
+                                              color: Colors.cyan.withValues(alpha: 0.4),
+                                              width: 1,
+                                            ),
+                                          ),
+                                          child: Text(
+                                            word,
+                                            style: const TextStyle(
+                                              color: Colors.cyan,
+                                              fontSize: 13,
+                                            ),
+                                          ),
+                                        ),
+                                      ),
+                                    );
+                                  }).toList(),
+                                ),
+                              ),
+                            ),
+                          ],
+                        ),
+                      ),
+                    
                     if (_isLoading)
                       const Center(
                         child: Padding(
@@ -273,9 +519,11 @@ class _WordOverlayState extends State<WordOverlay> {
                     const Icon(Icons.check_circle, color: Colors.white, size: 20),
                     const SizedBox(width: 8),
                     Text(
-                      Platform.isMacOS
-                          ? 'Copied "$_copiedWord" & opened Dictionary'
-                          : 'Copied "$_copiedWord" to clipboard',
+                      _copiedWord == 'History'
+                          ? 'Copied ${WordHistory.clickedWords.length} words to clipboard'
+                          : Platform.isMacOS
+                              ? 'Copied "$_copiedWord" & opened Dictionary'
+                              : 'Copied "$_copiedWord" to clipboard',
                       style: const TextStyle(
                         color: Colors.white,
                         fontSize: 14,
