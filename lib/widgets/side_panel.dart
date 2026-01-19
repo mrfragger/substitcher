@@ -147,7 +147,7 @@ class SidePanel extends StatelessWidget {
 
   final bool showPlaylistDirectories;
   final Function(bool) onTogglePlaylistDirectories;
-
+  
   const SidePanel({
     super.key,
     required this.panelMode,

@@ -1,6 +1,6 @@
 # SubStitcher
 
-Opus chaptered encoder and player. Transcribe to vtt subtitles, search through all Chapters, History, Playlist, Bookmarks, Fonts, Colors, Words, Subs, Stats. Dictionary word lookup.
+Opus chaptered encoder and player with subtitles. Transcribe to vtt subtitles, search through all Chapters, History, Playlist, Bookmarks, Fonts, Colors, Words, Subs, Stats. Dictionary word lookup.
 
 ### Encoding and Transcribing
 - Encode 16kbps audiobooks which is 4x smaller than 64kbps
@@ -41,6 +41,8 @@ Opus chaptered encoder and player. Transcribe to vtt subtitles, search through a
 - CJK (Chinese, Japanese, Korean) and Arabic subtitles
 - tokenizes Japanese with tiny segmenter
 - Chinese and Korean tokenizes pretty well
+- Apple Dictionary has following languages to English available
+- Arabic, Bangla, Cantonese, Simplified Chinese, Traditional Chinese, Croatian, Czech, Danish, Dutch, Finnish, French, German, Greek, Gujarati, Hindi, Hungarian, Indonesian, Italian, Japanese, Kannada, Kazakh, Korean, Malay, Malayalam, Norwegian, Polish, Portuguese, Punjabi, Russian, Slovak, Spanish, Swedish, Tamil, Telugu, Thai, Turkish, Ukranian, Urdu, Vietnamese
 
 ![](docs/screenshots/dictionary.jpg)
 

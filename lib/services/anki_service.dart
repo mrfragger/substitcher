@@ -61,12 +61,11 @@ class AnkiService {
         final row = csvData[i];
         final rowData = <String, String>{};
         
-        // Include ALL columns, not just up to columns.length
         for (int k = 0; k < columns.length; k++) {
           if (k < row.length) {
             rowData[columns[k]] = row[k].toString();
           } else {
-            rowData[columns[k]] = '';  // Add empty string for missing columns
+            rowData[columns[k]] = '';
           }
         }
         
@@ -357,7 +356,6 @@ class AnkiService {
         }
       }
       
-      // Add duration of this opus file to cumulative time
       final duration = await _ffmpeg.getAudioDuration(opusFile);
       cumulativeTime += duration.inMilliseconds / 1000.0;
     }
@@ -421,7 +419,6 @@ class AnkiService {
     final columns = csvData[0].map((e) => e.toString()).toList();
     print('Reading from columns: Front=${columns[frontColumn]}, Back=${columns[backColumn]}, Audio=${columns[audioColumn]}');
     
-    // CHANGED: Build chapters list (one per row)
     final chapters = <Map<String, dynamic>>[];
     final maxNotes = sampleMode ? 50 : csvData.length - 1;
     
@@ -446,7 +443,6 @@ class AnkiService {
       
       final audioFiles = audioList.split(';').map((s) => s.trim()).where((s) => s.isNotEmpty).toList();
       
-      // Verify all audio files exist
       final existingAudioFiles = <String>[];
       for (final audioFile in audioFiles) {
         final audioPath = path.join(mediaDir, audioFile);
@@ -462,7 +458,6 @@ class AnkiService {
         continue;
       }
       
-      // CHANGED: One chapter per row with all audio files
       chapters.add({
         'front': front.isEmpty ? back : front,
         'back': back.isEmpty ? front : back,
@@ -477,7 +472,7 @@ class AnkiService {
     }
     
     print('Found ${chapters.length} chapters to create');
-    onProgress('Processing ${chapters.length} chapters...', 0.2);
+    onProgress('Processing  ${chapters.length} chapters...', 0.2);
     
     final totalChapters = chapters.length;
     int numAudiobooks = 1;
@@ -504,12 +499,11 @@ class AnkiService {
       final paddedNum = (i + 1).toString().padLeft(4, '0');
       final chapterOutputPath = path.join(vttDir.path, '$paddedNum.mp3');
       
-      onProgress('Processing chapter ${i + 1}/${chapters.length}', 0.2 + (i / chapters.length) * 0.5);
+      onProgress('Repeating (${audioRepetitions}x) audio chapter ${i + 1}/${chapters.length}', 0.2 + (i / chapters.length) * 0.5);
       
       final audioFiles = chapter['audioFiles'] as List<String>;
       
       if (audioFiles.length == 1) {
-        // Single audio file - just copy/convert and repeat if needed
         final audioPath = path.join(mediaDir, audioFiles[0]);
         
         if (audioRepetitions == 1) {
@@ -540,7 +534,6 @@ class AnkiService {
           .writeAsString(chapter['back']!);
     }
     
-    // Rest of the code continues as before...
     onProgress('Encoding chapters to opus...', 0.7);
     
     final encodedDir = Directory(path.join(vttDir.path, 'output', 
@@ -558,7 +551,7 @@ class AnkiService {
       outputDir: encodedDir,
       bitrate: bitrate,
       onProgress: (current, total) {
-        onProgress('Encoding $current/$total', 0.7 + (current / total) * 0.15);
+        onProgress('Encoding to opus $current/$total', 0.7 + (current / total) * 0.15);
       },
     );
     
@@ -634,20 +627,18 @@ class AnkiService {
     
     onProgress('Cleaning up temporary files...', 0.98);
     try {
-      for (final file in vttDir.listSync()) {
-        if (file is File && file.path.endsWith('.mp3')) {
-          await file.delete();
-        }
+      if (await vttDir.exists()) {
+        await vttDir.delete(recursive: true);
+        print('Deleted temporary vtt directory: ${vttDir.path}');
       }
-      print('Deleted MP3 files from ${vttDir.path}');
     } catch (e) {
-      print('Warning: Could not delete some MP3 files: $e');
+      print('Warning: Could not delete vtt directory: $e');
     }
     
+    await Future.delayed(const Duration(milliseconds: 100));
     onProgress('Complete!', 1.0);
   }
   
-  // ADD THIS NEW METHOD to concatenate multiple audio files
   Future<void> _concatenateAndRepeatAudios({
     required List<String> audioFiles,
     required String outputPath,
@@ -658,14 +649,12 @@ class AnkiService {
     final tempConcatPath = path.join(tempDir.path, 'concatenated.mp3');
     
     try {
-      // Write concat list
       final concatList = StringBuffer();
       for (final audioFile in audioFiles) {
         concatList.writeln("file '${audioFile.replaceAll("'", "'\\''")}'");
       }
       await File(concatListPath).writeAsString(concatList.toString());
       
-      // Concatenate all audio files into one
       var result = await Process.run('ffmpeg', [
         '-f', 'concat',
         '-safe', '0',
@@ -678,7 +667,6 @@ class AnkiService {
         throw Exception('Failed to concatenate audio files: ${result.stderr}');
       }
       
-      // Now repeat if needed
       if (repetitions == 1) {
         await File(tempConcatPath).copy(outputPath);
       } else {

@@ -642,14 +642,11 @@ class _EncoderScreenState extends State<EncoderScreen> {
         (i) => encodedFilesMap[i]!,
       );
 
-      print('DEBUG: Checking encoded file durations...');
       Duration totalEncodedDuration = Duration.zero;
       for (final encodedPath in encodedFiles) {
         final dur = await _ffmpeg.getAudioDuration(encodedPath);
         totalEncodedDuration += dur;
       }
-      print('DEBUG: Original total duration: ${_formatDuration(_totalDuration)}');
-      print('DEBUG: Encoded total duration: ${_formatDuration(totalEncodedDuration)}');
       
       setState(() {
         _statusMessage = 'Creating final audiobook...';

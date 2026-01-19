@@ -105,6 +105,9 @@ class _PlayerScreenState extends State<PlayerScreen> {
   final ScrollController _playlistScrollController = ScrollController();
   final ScrollController _historyScrollController = ScrollController();
   final FocusNode _focusNode = FocusNode();
+
+  int _activeFfprobeCount = 0;
+  final int _maxConcurrentFfprobe = 3;
   
   AudiobookMetadata? _currentAudiobook;
   int _currentChapterIndex = 0;
@@ -246,7 +249,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
 
   ColoringMode _coloringMode = ColoringMode.words;
   bool _showPlaylistDirectories = false;
-
+  
   bool _hoveringPrevChapter = false;
   bool _hoveringNextChapter = false;
   
@@ -260,6 +263,9 @@ class _PlayerScreenState extends State<PlayerScreen> {
         await player.pause();
       }
     });
+    windowManager.addListener(_WindowCloseListener(
+      onClose: _handleWindowClose,
+    ));
     _checkShowOnStart();
     platform.setMethodCallHandler(_handleOpenFile);
     _checkForInitialFile();
@@ -286,6 +292,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
   
   @override
   void dispose() {
+    windowManager.removeListener(_WindowCloseListener(onClose: _handleWindowClose));
     _cacheFlushTimer?.cancel();
     _frequencyGenerationTimer?.cancel();
     _sleepTimerCountdownTimer?.cancel();
@@ -496,6 +503,33 @@ class _PlayerScreenState extends State<PlayerScreen> {
           duration: const Duration(seconds: 4),
         ),
       );
+    }
+  }
+
+  Future<void> _handleWindowClose() async {
+    try {
+      if (_isPlaying) {
+        await player.pause();
+      }
+      
+      if (_currentAudiobook != null) {
+        final currentChapter = _currentAudiobook!.chapters[_currentChapterIndex];
+        if (!_shouldSkipTracking(path.basenameWithoutExtension(_currentAudiobook!.path))) {
+          _statsManager.recordChapterEnd(
+            path.basenameWithoutExtension(_currentAudiobook!.path),
+            currentChapter.title,
+          );
+          await _statsManager.flushCacheToLog();
+        }
+      }
+      
+      await _saveToHistory();
+      
+      await player.stop();
+      
+      await Future.delayed(const Duration(milliseconds: 100));
+    } catch (e) {
+      print('Error during window close: $e');
     }
   }
 
@@ -1241,28 +1275,96 @@ class _PlayerScreenState extends State<PlayerScreen> {
       );
       return;
     }
-    final result = await FilePicker.platform.getDirectoryPath();
-    if (result == null) return;
-    if (_playlistDirectories.contains(result)) {
+    
+    String? directoryToAdd;
+    
+    if (_currentAudiobook != null) {
+      final currentDir = path.dirname(_currentAudiobook!.path);
+      final currentDirName = path.basename(currentDir);
+      
+      final shouldUseCurrentDir = await showDialog<bool>(
+        context: context,
+        builder: (context) => AlertDialog(
+          backgroundColor: const Color(0xFF1E1E1E),
+          title: const Text(
+            'Add Playlist Directory',
+            style: TextStyle(color: Colors.white),
+          ),
+          content: Column(
+            mainAxisSize: MainAxisSize.min,
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Text(
+                'Add current audiobook directory?',
+                style: TextStyle(color: Colors.white70),
+              ),
+              const SizedBox(height: 12),
+              Container(
+                padding: const EdgeInsets.all(12),
+                decoration: BoxDecoration(
+                  color: Colors.black26,
+                  borderRadius: BorderRadius.circular(8),
+                ),
+                child: Text(
+                  currentDirName,
+                  style: const TextStyle(
+                    color: Colors.lightBlue,
+                    fontWeight: FontWeight.bold,
+                  ),
+                ),
+              ),
+            ],
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.pop(context, false),
+              child: const Text('Choose Different Directory'),
+            ),
+            ElevatedButton(
+              onPressed: () => Navigator.pop(context, true),
+              child: const Text('Add This Directory'),
+            ),
+          ],
+        ),
+      );
+      
+      if (shouldUseCurrentDir == true) {
+        directoryToAdd = currentDir;
+      } else if (shouldUseCurrentDir == false) {
+        directoryToAdd = await FilePicker.platform.getDirectoryPath();
+      } else {
+        return;
+      }
+    } else {
+      directoryToAdd = await FilePicker.platform.getDirectoryPath();
+    }
+    
+    if (directoryToAdd == null) return;
+    
+    if (_playlistDirectories.contains(directoryToAdd)) {
       ScaffoldMessenger.of(context).showSnackBar(
-        const SnackBar(content: Text('Directory already added')),
+        const SnackBar(content: Text('Directory already in playlists')),
       );
       return;
     }
+    
     setState(() {
-      _playlistDirectories.add(result);
+      _playlistDirectories.add(directoryToAdd!);
       if (_activePlaylistIndex == null) {
         _activePlaylistIndex = 0;
       }
     });
+    
     await _savePlaylistDirectories();
+    
     if (_activePlaylistIndex == _playlistDirectories.length - 1) {
-      await _scanPlaylist(result);
+      await _scanPlaylist(directoryToAdd);
     }
+    
     if (mounted) {
       ScaffoldMessenger.of(context).showSnackBar(
         SnackBar(
-          content: Text('Added playlist directory: ${path.basename(result)}'),
+          content: Text('Added playlist directory: ${path.basename(directoryToAdd)}'),
           duration: const Duration(seconds: 2),
         ),
       );
@@ -1884,9 +1986,74 @@ class _PlayerScreenState extends State<PlayerScreen> {
     setState(() {
       _playlist = files;
       _playlistRootDir = dirPath;
+      
+      bool foundMatch = false;
+      for (int i = 0; i < _playlistDirectories.length; i++) {
+        if (dirPath.startsWith(_playlistDirectories[i])) {
+          _activePlaylistIndex = i;
+          foundMatch = true;
+          break;
+        }
+      }
+      
+      if (!foundMatch) {
+        _activePlaylistIndex = null;
+      }
     });
+    
     final prefs = await SharedPreferences.getInstance();
     await prefs.setString('playlistRootDir', dirPath);
+    
+    _startBackgroundDurationCaching(files);
+  }
+
+  Future<void> _startBackgroundDurationCaching(List<String> files) async {
+    for (final filePath in files) {
+      if (_playlistDurationCache.containsKey(filePath)) {
+        continue;
+      }
+      
+      while (_activeFfprobeCount >= _maxConcurrentFfprobe) {
+        await Future.delayed(const Duration(milliseconds: 100));
+      }
+      
+      _activeFfprobeCount++;
+      
+      try {
+        final result = await Process.run('ffprobe', [
+          '-v', 'error',
+          '-show_entries', 'format=duration',
+          '-of', 'default=noprint_wrappers=1:nokey=1',
+          filePath,
+        ]);
+        
+        if (result.exitCode == 0) {
+          final durationSeconds = double.parse(result.stdout.toString().trim());
+          final duration = Duration(seconds: durationSeconds.round());
+          final hours = duration.inHours;
+          final minutes = duration.inMinutes.remainder(60);
+          String formatted;
+          if (hours > 0) {
+            formatted = '${hours}h ${minutes}m';
+          } else {
+            formatted = '${minutes}m';
+          }
+          if (mounted) {
+            setState(() {
+              _playlistDurationCache[filePath] = formatted;
+            });
+          }
+        }
+      } catch (e) {
+        print('Error caching duration for $filePath: $e');
+      } finally {
+        _activeFfprobeCount--;
+      }
+      
+      await Future.delayed(const Duration(milliseconds: 50));
+    }
+    
+    await _saveDurationCache();
   }
   
   Future<void> _setPlaylistDirectory() async {
@@ -3719,15 +3886,6 @@ class _PlayerScreenState extends State<PlayerScreen> {
       });
       
       await _loadFontSettings(selectedPath);
-      final fileDir = path.dirname(selectedPath);
-      bool isInPlaylistDir = false;
-      if (_playlistRootDir != null) {
-        isInPlaylistDir = selectedPath.startsWith(_playlistRootDir!);
-      }
-      if (!isInPlaylistDir) {
-        print('File outside playlist directory, creating local playlist for: $fileDir');
-        await _scanPlaylist(fileDir);
-      }
       await player.open(Media(selectedPath));
       await player.setRate(_playbackSpeed);
       await _loadSubtitles(selectedPath);
@@ -5353,55 +5511,18 @@ class _PlayerScreenState extends State<PlayerScreen> {
       }
     });
   }
-
-  
   
   Future<Map<String, dynamic>> _getHistoryDurationAndProgress(String filePath, Duration lastPosition) async {
     if (!await File(filePath).exists()) {
-      final itemToRemove = _history.firstWhere(
-        (h) => h.audiobookPath == filePath,
-        orElse: () => _history.first,
-      );
-      if (itemToRemove.audiobookPath == filePath) {
-        final index = _history.indexOf(itemToRemove);
-        await _removeFromHistory(index);
-      }
       return {'duration': '', 'progress': ''};
     }
+    
     if (_playlistDurationCache.containsKey(filePath)) {
       final durationStr = _playlistDurationCache[filePath]!;
       final progress = await _calculateProgress(filePath, lastPosition);
       return {'duration': durationStr, 'progress': progress};
     }
-    try {
-      final result = await Process.run('ffprobe', [
-        '-v', 'error',
-        '-show_entries', 'format=duration',
-        '-of', 'default=noprint_wrappers=1:nokey=1',
-        filePath,
-      ]);
-      if (result.exitCode == 0) {
-        final durationSeconds = double.parse(result.stdout.toString().trim());
-        final duration = Duration(seconds: durationSeconds.round());
-        final hours = duration.inHours;
-        final minutes = duration.inMinutes.remainder(60);
-        String formatted;
-        if (hours > 0) {
-          formatted = '${hours}h ${minutes}m';
-        } else {
-          formatted = '${minutes}m';
-        }
-        setState(() {
-          _playlistDurationCache[filePath] = formatted;
-        });
-        await _saveDurationCache();
-        final percentage = ((lastPosition.inSeconds / duration.inSeconds) * 100).round();
-        final progress = '$percentage%';
-        return {'duration': formatted, 'progress': progress};
-      }
-    } catch (e) {
-      print('Error getting duration for $filePath: $e');
-    }
+    
     return {'duration': '', 'progress': ''};
   }
   
@@ -5419,73 +5540,24 @@ class _PlayerScreenState extends State<PlayerScreen> {
         totalDuration = Duration(minutes: minutes);
       }
     }
-    if (totalDuration == null) {
-      try {
-        final result = await Process.run('ffprobe', [
-          '-v', 'error',
-          '-show_entries', 'format=duration',
-          '-of', 'default=noprint_wrappers=1:nokey=1',
-          filePath,
-        ]);
-        if (result.exitCode == 0) {
-          final durationSeconds = double.parse(result.stdout.toString().trim());
-          totalDuration = Duration(seconds: durationSeconds.round());
-          final hours = totalDuration.inHours;
-          final minutes = totalDuration.inMinutes.remainder(60);
-          String formatted;
-          if (hours > 0) {
-            formatted = '${hours}h ${minutes}m';
-          } else {
-            formatted = '${minutes}m';
-          }
-          setState(() {
-            _playlistDurationCache[filePath] = formatted;
-          });
-          await _saveDurationCache();
-        }
-      } catch (e) {
-        print('Error calculating progress: $e');
-        return '';
-      }
-    }
+    
     if (totalDuration != null && totalDuration.inSeconds > 0) {
       final percentage = ((lastPosition.inSeconds / totalDuration.inSeconds) * 100).round();
       return '$percentage%';
     }
+    
     return '';
   }
   
   Future<String> _getAudiobookDuration(String filePath) async {
+    if (!await File(filePath).exists()) {
+      return '';
+    }
+    
     if (_playlistDurationCache.containsKey(filePath)) {
       return _playlistDurationCache[filePath]!;
     }
-    try {
-      final result = await Process.run('ffprobe', [
-        '-v', 'error',
-        '-show_entries', 'format=duration',
-        '-of', 'default=noprint_wrappers=1:nokey=1',
-        filePath,
-      ]);
-      if (result.exitCode == 0) {
-        final durationSeconds = double.parse(result.stdout.toString().trim());
-        final duration = Duration(seconds: durationSeconds.round());
-        final hours = duration.inHours;
-        final minutes = duration.inMinutes.remainder(60);
-        String formatted;
-        if (hours > 0) {
-          formatted = '${hours}h ${minutes}m';
-        } else {
-          formatted = '${minutes}m';
-        }
-        setState(() {
-          _playlistDurationCache[filePath] = formatted;
-        });
-        await _saveDurationCache();
-        return formatted;
-      }
-    } catch (e) {
-      print('Error getting duration for $filePath: $e');
-    }
+    
     return '';
   }
 
@@ -5905,5 +5977,16 @@ class _PlayerScreenState extends State<PlayerScreen> {
         ),
       ),
     );
+  }
+}
+
+class _WindowCloseListener extends WindowListener {
+  final Future<void> Function() onClose;
+  
+  _WindowCloseListener({required this.onClose});
+  
+  @override
+  void onWindowClose() {
+    onClose();
   }
 }

@@ -155,7 +155,6 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
       _processingStartTime = DateTime.now();
     });
     
-    // Scroll to bottom once to show progress
     WidgetsBinding.instance.addPostFrameCallback((_) {
       if (_scrollController.hasClients) {
         _scrollController.animateTo(
