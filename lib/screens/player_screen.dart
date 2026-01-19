@@ -3976,6 +3976,9 @@ class _PlayerScreenState extends State<PlayerScreen> {
               });
               _scrollToCurrentChapter();
               return KeyEventResult.handled;
+            } else if (event.logicalKey == LogicalKeyboardKey.keyU && event is KeyDownEvent) {
+              _copyCurrentSubtitle();
+              return KeyEventResult.handled;
             } else if (event.logicalKey == LogicalKeyboardKey.keyH && event is KeyDownEvent) {
               setState(() {
                 _showPanel = true;
@@ -4950,6 +4953,34 @@ class _PlayerScreenState extends State<PlayerScreen> {
     });
     await _applyConversion();
     await _saveFontSettings();
+  }
+
+  Future<void> _copyCurrentSubtitle() async {
+    if (_currentSubtitleText.isEmpty) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(
+          content: Text('No subtitle to copy'),
+          duration: Duration(seconds: 1),
+        ),
+      );
+      return;
+    }
+    
+    String textToCopy = _currentSubtitleText;
+    if (_currentSubtitleIndex != null && _currentSubtitleIndex! < _originalSubtitles.length) {
+      textToCopy = _originalSubtitles[_currentSubtitleIndex!].text;
+    }
+    
+    await Clipboard.setData(ClipboardData(text: textToCopy));
+    
+    if (mounted) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(
+          content: Text('Subtitle copied to clipboard'),
+          duration: Duration(seconds: 1),
+        ),
+      );
+    }
   }
 
   Future<void> _copyCurrentMetadata() async {

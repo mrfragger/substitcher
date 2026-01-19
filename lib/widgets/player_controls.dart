@@ -638,6 +638,10 @@ class PlayerControls extends StatelessWidget {
               child: Text('Chapter Title Hide/Show ( . )'),
             ),
             const PopupMenuItem(
+              value: 'hideChapterTitle',
+              child: Text('Copy Current Subtitle (u)'),
+            ),
+            const PopupMenuItem(
               value: 'set_default',
               child: Text('Set Font/Color as Default (q)'),
             ),
