@@ -659,7 +659,7 @@ class AnkiService {
         '-f', 'concat',
         '-safe', '0',
         '-i', concatListPath,
-        '-c', 'copy',
+        '-codec', 'copy',
         '-y', tempConcatPath,
       ]);
       
@@ -673,8 +673,8 @@ class AnkiService {
         result = await Process.run('ffmpeg', [
           '-stream_loop', '${repetitions - 1}',
           '-i', tempConcatPath,
-          '-c:a', 'libmp3lame',
-          '-b:a', '128k',
+          '-codec:a', 'libmp3lame',
+          '-bitrate:a', '128k',
           '-y', outputPath,
         ]);
         
@@ -693,8 +693,8 @@ class AnkiService {
     if (ext == '.wav') {
       final result = await Process.run('ffmpeg', [
         '-i', inputPath,
-        '-c:a', 'libmp3lame',
-        '-b:a', '128k',
+        '-codec:a', 'libmp3lame',
+        '-bitrate:a', '128k',
         '-y', outputPath,
       ]);
       
@@ -710,8 +710,8 @@ class AnkiService {
     final result = await Process.run('ffmpeg', [
       '-stream_loop', '${times - 1}',
       '-i', inputPath,
-      '-c:a', 'libmp3lame',
-      '-b:a', '128k',
+      '-codec:a', 'libmp3lame',
+      '-bitrate:a', '128k',
       '-y', outputPath,
     ]);
     
