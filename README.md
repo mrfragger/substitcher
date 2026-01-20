@@ -39,6 +39,9 @@ Opus chaptered encoder and player with colored subtitles and fancy fonts. Transc
 - removes repeated words
 - History of looked up words clicked on
 - Clear or Copy All history to clipboard
+
+![](docs/screenshots/dictionaryhistory.jpg)
+
 - Pause mode 2s, 3s, 5s, 10s or Dictionary mode (forever)
 - CJK (Chinese, Japanese, Korean) and Arabic subtitles
 - tokenizes Japanese with tiny segmenter
@@ -170,6 +173,9 @@ Opus chaptered encoder and player with colored subtitles and fancy fonts. Transc
 - if over 999 notes (rows with audio) then automatically creates multiple audiobooks part 1, part 2, part 3, etcetera
 - Arabic, Bengali, Chinese, Czech, Danish, Dutch, English, Filipino, French, German, Greek, Hebrew, Hindi, Hungarian, Indonesian, Italian, Japanese, Korean, Marathi, Norwegian, Pashto, Persian, Polish, Portuguese, Punjabi, Romanian, Russian, Spanish, Swedish, Tamil, Telugu, Thai, Turkish, Urdu, Vietnamese
 - Nearly 1,000 anki to opus audiobooks on telegram channel https://t.me/Anki2Opus if too lazy to make your own
+
+![](docs/screenshots/ankitoopus1.jpg)
+![](docs/screenshots/ankitoopus2.jpg)
 
 ### Installation
 macOS (arm64 Silicon m1,m2,m3,m4,m26) after install dmg in Terminal do
