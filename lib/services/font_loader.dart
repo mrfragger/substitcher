@@ -191,11 +191,17 @@ class CustomFontLoader {
     } else if (Platform.isWindows) {
       final executablePath = Platform.resolvedExecutable;
       final appDir = path.dirname(executablePath);
-      final fontsDir = Directory(path.join(appDir, 'data', 'fonts'));
+      
+      final fontsDir = Directory(path.join(appDir, 'data', 'flutter_assets', 'fonts'));
+      
+      print('Windows fonts path: ${fontsDir.path}');
+      print('Fonts directory exists: ${await fontsDir.exists()}');
       
       if (await fontsDir.exists()) {
         return fontsDir.path;
       }
+      
+      print('ERROR: Fonts directory not found at expected location');
     }
     
     return null;
@@ -204,7 +210,9 @@ class CustomFontLoader {
   static String _extractFontName(String fontPath) {
     final fileName = path.basenameWithoutExtension(fontPath);
     
-    final cleaned = fileName.trim();
+    final decoded = Uri.decodeComponent(fileName);
+    
+    final cleaned = decoded.trim();
     
     return cleaned.isNotEmpty ? cleaned : fileName;
   }

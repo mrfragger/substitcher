@@ -6,7 +6,7 @@ Opus chaptered encoder and player with colored subtitles and fancy fonts. Transc
 - Encode 16kbps audiobooks which is 4x smaller than 64kbps
 - 32kpbs only use for audio like Quran recitations and it's about 2.5x larger in file size due to vbr
 - opus is a superior audio codec compared to mp3 or aac at low bitrates
-- max 100 hours per audiobook and 999 chapters
+- max 100 hours and 999 chapters per audiobook
 - Title Case chapter titles and regular expression replace
 - Transcribe with 30 second segements to reduce hallucination with whisper.cpp
 - Repeats vtt to remove repeated words, capitalize pronouns, Islamic terms and honorifics
@@ -46,7 +46,7 @@ Opus chaptered encoder and player with colored subtitles and fancy fonts. Transc
 - CJK (Chinese, Japanese, Korean) and Arabic subtitles
 - tokenizes Japanese with tiny segmenter
 - Chinese and Korean tokenizes pretty well
-- Apple Dictionary has following languages to English available
+- Apple Dictionary has following languages to English available as of January 2026:
 - Arabic, Bangla, Cantonese, Simplified Chinese, Traditional Chinese, Croatian, Czech, Danish, Dutch, Finnish, French, German, Greek, Gujarati, Hindi, Hungarian, Indonesian, Italian, Japanese, Kannada, Kazakh, Korean, Malay, Malayalam, Norwegian, Polish, Portuguese, Punjabi, Russian, Slovak, Spanish, Swedish, Tamil, Telugu, Thai, Turkish, Ukranian, Urdu, Vietnamese
 
 ![](docs/screenshots/dictionary.jpg)
