@@ -79,6 +79,14 @@ class FFmpegService {
       var title = tags['title'] ?? tags['TITLE'] ?? 'Chapter_${i + 1}';
       title = title.toString()
           .replaceAll('/', '-')
+          .replaceAll('\\', '-')
+          .replaceAll(':', '-')
+          .replaceAll('*', '')
+          .replaceAll('?', '')
+          .replaceAll('"', "'")
+          .replaceAll('<', '')
+          .replaceAll('>', '')
+          .replaceAll('|', '-')
           .replaceAll('_', ' ')
           .trim();
       

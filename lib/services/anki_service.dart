@@ -656,11 +656,12 @@ class AnkiService {
       await File(concatListPath).writeAsString(concatList.toString());
       
       var result = await Process.run('ffmpeg', [
+        '-y',
         '-f', 'concat',
         '-safe', '0',
         '-i', concatListPath,
-        '-codec', 'copy',
-        '-y', tempConcatPath,
+        '-c', 'copy',
+        tempConcatPath,
       ]);
       
       if (result.exitCode != 0) {
@@ -671,11 +672,12 @@ class AnkiService {
         await File(tempConcatPath).copy(outputPath);
       } else {
         result = await Process.run('ffmpeg', [
+          '-y',
           '-stream_loop', '${repetitions - 1}',
           '-i', tempConcatPath,
           '-acodec', 'libmp3lame',
           '-ab', '128k',
-          '-y', outputPath,
+          outputPath,
         ]);
         
         if (result.exitCode != 0) {
@@ -692,14 +694,15 @@ class AnkiService {
     
     if (ext == '.wav') {
       final result = await Process.run('ffmpeg', [
+        '-y',
         '-i', inputPath,
         '-acodec', 'libmp3lame',
-        '-ab', '96k',
-        '-y', outputPath,
+        '-ab', '128k',
+        outputPath,
       ]);
       
       if (result.exitCode != 0) {
-        throw Exception('Failed to convert $inputPath');
+        throw Exception('Failed to convert $inputPath: ${result.stderr}');
       }
     } else {
       await File(inputPath).copy(outputPath);
@@ -708,15 +711,16 @@ class AnkiService {
   
   Future<void> _repeatAudio(String inputPath, String outputPath, int times) async {
     final result = await Process.run('ffmpeg', [
+      '-y',
       '-stream_loop', '${times - 1}',
       '-i', inputPath,
       '-acodec', 'libmp3lame',
       '-ab', '128k',
-      '-y', outputPath,
+      outputPath,
     ]);
     
     if (result.exitCode != 0) {
-      throw Exception('Failed to repeat $inputPath');
+      throw Exception('Failed to repeat $inputPath: ${result.stderr}');
     }
   }
   
