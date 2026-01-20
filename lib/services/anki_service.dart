@@ -710,6 +710,24 @@ class AnkiService {
   }
   
   Future<void> _repeatAudio(String inputPath, String outputPath, int times) async {
+    if (!await File(inputPath).exists()) {
+      throw Exception('Input file does not exist: $inputPath');
+    }
+    
+    final outputDir = Directory(path.dirname(outputPath));
+    if (!await outputDir.exists()) {
+      await outputDir.create(recursive: true);
+    }
+    
+    try {
+      final testResult = await Process.run('ffmpeg', ['-version']);
+      if (testResult.exitCode != 0) {
+        throw Exception('FFmpeg is not accessible');
+      }
+    } catch (e) {
+      throw Exception('FFmpeg not found. Please ensure ffmpeg.exe is in the app directory or system PATH: $e');
+    }
+    
     final result = await Process.run('ffmpeg', [
       '-y',
       '-stream_loop', '${times - 1}',
@@ -720,6 +738,8 @@ class AnkiService {
     ]);
     
     if (result.exitCode != 0) {
+      print('FFmpeg stderr: ${result.stderr}');
+      print('FFmpeg stdout: ${result.stdout}');
       throw Exception('Failed to repeat $inputPath: ${result.stderr}');
     }
   }

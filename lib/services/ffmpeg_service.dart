@@ -172,21 +172,32 @@ class FFmpegService {
         final executablePath = Platform.resolvedExecutable;
         final executableDir = path.dirname(executablePath);
         
+        await _writeLog('Windows executable path: $executablePath');
+        await _writeLog('Windows executable dir: $executableDir');
+        
         final bundledBinDir = path.join(executableDir, 'bin');
+        await _writeLog('Looking for ffmpeg in: $bundledBinDir');
         
         final bundledFfmpeg = path.join(bundledBinDir, 'ffmpeg.exe');
         final bundledFfprobe = path.join(bundledBinDir, 'ffprobe.exe');
       
-        if (await File(bundledFfmpeg).exists() && await File(bundledFfprobe).exists()) {
+        final ffmpegExists = await File(bundledFfmpeg).exists();
+        final ffprobeExists = await File(bundledFfprobe).exists();
+        
+        await _writeLog('ffmpeg.exe exists: $ffmpegExists at $bundledFfmpeg');
+        await _writeLog('ffprobe.exe exists: $ffprobeExists at $bundledFfprobe');
+      
+        if (ffmpegExists && ffprobeExists) {
           _ffmpegPath = bundledFfmpeg;
           _ffprobePath = bundledFfprobe;
-          print('Using bundled ffmpeg: $_ffmpegPath');
+          await _writeLog('Using bundled ffmpeg: $_ffmpegPath');
+          await _writeLog('Using bundled ffprobe: $_ffprobePath');
           return;
         }
       
         _ffmpegPath = 'ffmpeg';
         _ffprobePath = 'ffprobe';
-        print('Using system ffmpeg');
+        await _writeLog('WARNING: Falling back to system ffmpeg/ffprobe - binaries not found!');
       } else {
         _ffmpegPath = 'ffmpeg';
         _ffprobePath = 'ffprobe';
@@ -201,6 +212,17 @@ class FFmpegService {
     } catch (e) {
       print('FFmpeg check failed: $e');
       return false;
+    }
+  }
+
+  Future<void> _writeLog(String message) async {
+    try {
+      final logDir = Directory.systemTemp;
+      final logFile = File(path.join(logDir.path, 'substitcher_ffmpeg.log'));
+      final timestamp = DateTime.now().toIso8601String();
+      await logFile.writeAsString('[$timestamp] $message\n', mode: FileMode.append);
+    } catch (e) {
+      print('Failed to write log: $e');
     }
   }
   
