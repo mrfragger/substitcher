@@ -46,11 +46,20 @@ class FFmpegService {
     
     onProgress('Reading chapters from audiobook...');
     
-    final result = await _shell.run(
-      '$_ffprobePath -i "$audiobookPath" -show_chapters -print_format json'
+    final result = await Process.run(
+      _ffprobePath!,
+      [
+        '-i', audiobookPath,
+        '-show_chapters',
+        '-print_format', 'json',
+      ],
     );
     
-    final jsonStr = result.first.stdout.toString();
+    if (result.exitCode != 0) {
+      throw Exception('Failed to read chapters: ${result.stderr}');
+    }
+    
+    final jsonStr = result.stdout.toString();
     final json = jsonDecode(jsonStr) as Map<String, dynamic>;
     final chapters = json['chapters'] as List? ?? [];
     
@@ -78,14 +87,25 @@ class FFmpegService {
       
       onProgress('Extracting chapter ${i + 1}/${chapters.length}: $title');
       
-      await _shell.run(
-        '$_ffmpegPath -hide_banner -i "$audiobookPath" '
-        '-ss $startTime -to $endTime '
-        '-c:v copy -c:a copy '
-        '-avoid_negative_ts make_zero '
-        '-fflags +genpts '
-        '"$outputPath" -y'
+      final extractResult = await Process.run(
+        _ffmpegPath!,
+        [
+          '-hide_banner',
+          '-i', audiobookPath,
+          '-ss', startTime,
+          '-to', endTime,
+          '-c:v', 'copy',
+          '-c:a', 'copy',
+          '-avoid_negative_ts', 'make_zero',
+          '-fflags', '+genpts',
+          outputPath,
+          '-y',
+        ],
       );
+      
+      if (extractResult.exitCode != 0) {
+        print('Warning: Failed to extract chapter ${i + 1}: ${extractResult.stderr}');
+      }
     }
     
     onProgress('All ${chapters.length} chapters extracted to: $chaptersDir');
