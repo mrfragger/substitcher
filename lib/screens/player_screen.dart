@@ -4316,9 +4316,13 @@ class _PlayerScreenState extends State<PlayerScreen> {
               });
               _scrollToCurrentChapter();
               return KeyEventResult.handled;
-            } else if (event.logicalKey == LogicalKeyboardKey.keyU && event is KeyDownEvent) {
-              _copyCurrentSubtitle();
-              return KeyEventResult.handled;
+           } else if (event.logicalKey == LogicalKeyboardKey.keyU && 
+                      HardwareKeyboard.instance.isShiftPressed && event is KeyDownEvent) {
+             _copyCurrentSubtitleInMemory();
+             return KeyEventResult.handled;
+           } else if (event.logicalKey == LogicalKeyboardKey.keyU && event is KeyDownEvent) {
+             _copyCurrentSubtitle();
+             return KeyEventResult.handled;
             } else if (event.logicalKey == LogicalKeyboardKey.keyH && event is KeyDownEvent) {
               setState(() {
                 _showPanel = true;
@@ -4464,9 +4468,18 @@ class _PlayerScreenState extends State<PlayerScreen> {
               _increaseSpeed();
               return KeyEventResult.handled;
             } else if (event.logicalKey == LogicalKeyboardKey.keyY && 
-                       HardwareKeyboard.instance.isShiftPressed && 
-                       event is KeyDownEvent) {
-              _showYouTubeDialog();
+                     HardwareKeyboard.instance.isShiftPressed && 
+                     event is KeyDownEvent) {
+              if (Platform.isAndroid || Platform.isIOS) {
+                ScaffoldMessenger.of(context).showSnackBar(
+                  const SnackBar(
+                    content: Text('YouTube audio streaming is only available on desktop'),
+                    duration: Duration(seconds: 2),
+                  ),
+                );
+              } else {
+                _showYouTubeDialog();
+              }
               return KeyEventResult.handled;
             } else if (event.logicalKey == LogicalKeyboardKey.keyY && event is KeyDownEvent) {
               _toggleFullscreen();
@@ -5657,6 +5670,34 @@ class _PlayerScreenState extends State<PlayerScreen> {
       ScaffoldMessenger.of(context).showSnackBar(
         const SnackBar(
           content: Text('Subtitle copied to clipboard'),
+          duration: Duration(seconds: 1),
+        ),
+      );
+    }
+  }
+
+  Future<void> _copyCurrentSubtitleInMemory() async {
+    if (_currentSubtitleText.isEmpty) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(
+          content: Text('No subtitle to copy'),
+          duration: Duration(seconds: 1),
+        ),
+      );
+      return;
+    }
+    
+    String textToCopy = _currentSubtitleText;
+    if (_currentSubtitleIndex != null && _currentSubtitleIndex! < _subtitles.length) {
+      textToCopy = _subtitles[_currentSubtitleIndex!].text;
+    }
+    
+    await Clipboard.setData(ClipboardData(text: textToCopy));
+    
+    if (mounted) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(
+          content: Text('In-memory subtitle copied to clipboard'),
           duration: Duration(seconds: 1),
         ),
       );
@@ -7081,16 +7122,18 @@ class _PlayerScreenState extends State<PlayerScreen> {
                 Row(
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
-                    const SizedBox(width: 16),
-                    ElevatedButton.icon(
-                      onPressed: _showYouTubeDialog,
-                      icon: const Icon(Icons.headphones),
-                      label: const Text('YouTube Audio (⇧Y)'),
-                      style: ElevatedButton.styleFrom(
-                        padding: const EdgeInsets.symmetric(horizontal: 32, vertical: 16),
-                        textStyle: const TextStyle(fontSize: 18),
+                    if (!Platform.isAndroid && !Platform.isIOS) ...[
+                      const SizedBox(width: 16),
+                      ElevatedButton.icon(
+                        onPressed: _showYouTubeDialog,
+                        icon: const Icon(Icons.headphones),
+                        label: const Text('YouTube Audio (⇧Y)'),
+                        style: ElevatedButton.styleFrom(
+                          padding: const EdgeInsets.symmetric(horizontal: 32, vertical: 16),
+                          textStyle: const TextStyle(fontSize: 18),
+                        ),
                       ),
-                    ),
+                    ],
                     const SizedBox(width: 16),
                     ElevatedButton.icon(
                       onPressed: () {
