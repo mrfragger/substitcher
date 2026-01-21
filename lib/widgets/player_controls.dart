@@ -21,6 +21,7 @@ class PlayerControls extends StatelessWidget {
   final String currentSubtitleText;
   final double subtitleFontSize;
   final double subtitleLineSpacing;
+  final double secondarySubtitleLineSpacing;
   final String secondarySubtitleText;
   final double secondarySubtitleFontSize;
   final String secondarySubtitleFont;
@@ -56,7 +57,7 @@ class PlayerControls extends StatelessWidget {
   final PauseMode pauseMode;
   final Function(PauseMode) onPauseModeChanged;
   final VoidCallback onOpenSubtitleManager;
-  final TextSpan Function(String text, {double? fontSize, String? fontFamily, ColorPalette? palette}) buildColoredTextSpan;
+  final TextSpan Function(String text, {double? fontSize, String? fontFamily, ColorPalette? palette, double? lineSpacing}) buildColoredTextSpan;
   
   const PlayerControls({
     super.key,
@@ -76,6 +77,7 @@ class PlayerControls extends StatelessWidget {
     required this.currentSubtitleText,
     required this.subtitleFontSize,
     required this.subtitleLineSpacing,
+    required this.secondarySubtitleLineSpacing,
     required this.secondarySubtitleText,
     required this.secondarySubtitleFontSize,
     required this.secondarySubtitleFont,
@@ -196,6 +198,7 @@ class PlayerControls extends StatelessWidget {
                         fontSize: secondarySubtitleFontSize,
                         fontFamily: secondarySubtitleFont,
                         palette: secondaryColorPalette,
+                        lineSpacing: secondarySubtitleLineSpacing,
                       ),
                     ),
                   ),
@@ -221,7 +224,7 @@ class PlayerControls extends StatelessWidget {
                     ),
                     child: RichText(
                       textAlign: TextAlign.center,
-                      text: buildColoredTextSpan(currentSubtitleText),
+                      text: buildColoredTextSpan(currentSubtitleText, lineSpacing: subtitleLineSpacing,),
                     ),
                   ),
                 ),
@@ -328,7 +331,7 @@ class PlayerControls extends StatelessWidget {
                   children: [
                     Expanded(
                       child: Text(
-                        '$progressPercent% ${_formatDuration(currentPosition)} / ${_formatDuration(totalDuration)} • $selectedFont • ${conversionType == 'none' ? 'Original' : conversionType}${currentColorPalette != null ? ' • ${currentColorPalette!.name}' : ''} • ${subtitleFontSize.toInt()} • ${subtitleLineSpacing.toStringAsFixed(1)}',
+                        '$progressPercent% ${_formatDuration(currentPosition)} / ${_formatDuration(totalDuration)} • $selectedFont • ${conversionType == 'none' ? 'Original' : conversionType}${currentColorPalette != null ? ' • ${currentColorPalette!.name}' : ''} • ${subtitleFontSize.toInt()} • ${subtitleLineSpacing.toStringAsFixed(2)}',
                         style: const TextStyle(
                           color: Colors.white70,
                           fontSize: 12,

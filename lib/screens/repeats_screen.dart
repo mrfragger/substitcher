@@ -817,33 +817,39 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
     }
   
     final swtVariations = [
-      r"subhanahu wa ta'ala Subhanahu wa ta'ala",
-      r"subhanahu alayhi wa sallamah Subhanahu Wa Ta'ala",
-      r"Subhanahu Wa Ta-A'la",
-      r"subhanahu wa ta'ala",
-      r"Subhanahu Wa Ta'ala",
-      r'subhanahu wa taala',
-      r'Subh\.anaHu Wa Ta-A\.la',
-      r'Subh\.anaHu Wa Ta-Ala',
-      r'subhanahu Allah Ta\.ala',
-      r'Subh\.anaHu Wa Ta\.ala',
-      r"Allah wa ta'ala",
-      r"sallallahu wa ta'ala",
-      r'Allah T\.W\.T\.',
-      r'allah swt',
-      r'Allah swt',
-      r'Allah \(SWT\)',
-      r'Allah s\.w\.t\.',
-      r'Allah s\.w\.w\.t\.',
-      r'Allah \(s\.w\.t\)',
-      r's\.w\.t\.',
-      r'\(swt\)',
+      ["Allah subhanahu wa ta'ala Subhanahu wa ta'ala", 'Allah ﷾ '],
+      ["Allah subhanahu alayhi wa sallamah Subhanahu Wa Ta'ala", 'Allah ﷾ '],
+      ["Allah Subhanahu Wa Ta-A'la", 'Allah ﷾ '],
+      ["Allah subhanahu wa ta'ala", 'Allah ﷾ '],
+      ["Allah Subhanahu Wa Ta'ala", 'Allah ﷾ '],
+      [r'Allah subhanahu wa taala', 'Allah ﷾ '],
+      [r'Allah Subh\.anaHu Wa Ta-A\.la', 'Allah ﷾ '],
+      [r'Allah Subh\.anaHu Wa Ta-Ala', 'Allah ﷾ '],
+      [r'Allah subhanahu Allah Ta\.ala', 'Allah ﷾ '],
+      [r'Allah Subh\.anaHu Wa Ta\.ala', 'Allah ﷾ '],
+      ["Allah wa ta'ala", 'Allah ﷾ '],
+      ["Allah sallallahu wa ta'ala", 'Allah ﷾ '],
+      [r'Allah T\.W\.T\.', 'Allah ﷾ '],
+      [r'allah swt\b', 'Allah ﷾ '],
+      [r'Allah swt\b', 'Allah ﷾ '],
+      [r'Allah \(SWT\)', 'Allah ﷾ '],
+      [r'Allah s\.w\.t\.', 'Allah ﷾ '],
+      [r'Allah s\.w\.w\.t\.', 'Allah ﷾ '],
+      [r'Allah \(s\.w\.t\)', 'Allah ﷾ '],
+      ["subhanahu wa ta'ala Subhanahu wa ta'ala", ' ﷾ '],
+      ["subhanahu alayhi wa sallamah Subhanahu Wa Ta'ala", ' ﷾ '],
+      ["Subhanahu Wa Ta-A'la", ' ﷾ '],
+      ["subhanahu wa ta'ala", ' ﷾ '],
+      ["Subhanahu Wa Ta'ala", ' ﷾ '],
+      [r'subhanahu wa taala', ' ﷾ '],
+      [r's\.w\.t\.', ' ﷾ '],
+      [r'\(swt\)', ' ﷾ '],
     ];
-  
-    for (final variation in swtVariations) {
+    
+    for (final item in swtVariations) {
       content = content.replaceAllMapped(
-        RegExp(r'\b' + variation + r'\b', caseSensitive: false),
-        (m) => ' ﷾ ',
+        RegExp(item[0], caseSensitive: false),
+        (m) => item[1],
       );
     }
   
@@ -994,16 +1000,19 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
       r'\(Sallallahu alayhi wa sallam\)',
       r'prophet peace',
       r'pbuh',
-      r'SAW',
-      r'SAWS',
+      r'\(saw\)',
+      r'\(SAW\)',
+      r'\bSAW\b',
+      r'\bSAWS\b',
     ];
   
     for (final variation in pbuhVariations) {
       final hasDotsOrParens = variation.contains(r'\.') || variation.contains(r'\(');
+      final isSawsAcronym = variation == r'\bSAW\b' || variation == r'\bSAWS\b';
       
-      if (hasDotsOrParens) {
+      if (hasDotsOrParens || isSawsAcronym) {
         content = content.replaceAllMapped(
-          RegExp(variation, caseSensitive: false),
+          RegExp(variation),
           (m) => ' ﷺ ',
         );
       } else {
@@ -1026,7 +1035,10 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
       [r'Alayhim wa salatu wa salam', ' ﵇ '],
       [r'alayhimu salatu wa salam', ' ﵈ '],
       [r'alayhi wa salatu wa salam', ' ﵈ '],
+      [r'\(as\)', ' ﵇ '],
+      [r'\(AS\)', ' ﵇ '],
       [r'a\.s\.', ' ﵇ '],
+      [r'A\.S\.', ' ﵇ '],
     ];
   
     for (final item in prophetHonorifics) {

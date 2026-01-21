@@ -42,3 +42,17 @@ class EncodingConfig {
     return filters.join(',');
   }
 }
+
+extension EncodingConfigExtension on EncodingConfig {
+  EncodingConfig copyWith({String? title}) {
+    return EncodingConfig(
+      bitrate: this.bitrate,
+      removeSilence: this.removeSilence,
+      silenceDb: this.silenceDb,
+      removeHiss: this.removeHiss,
+      author: this.author,
+      title: title ?? this.title,
+      year: this.year,
+    );
+  }
+}

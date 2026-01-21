@@ -644,6 +644,8 @@ class AnkiService {
     required String outputPath,
     required int repetitions,
   }) async {
+    await _ffmpeg.ensureBinaries();
+    
     final tempDir = Directory.systemTemp.createTempSync('audio_concat_');
     final concatListPath = path.join(tempDir.path, 'concat_list.txt');
     final tempConcatPath = path.join(tempDir.path, 'concatenated.mp3');
@@ -655,7 +657,7 @@ class AnkiService {
       }
       await File(concatListPath).writeAsString(concatList.toString());
       
-      var result = await Process.run('ffmpeg', [
+      var result = await Process.run(_ffmpeg.ffmpegPath ?? 'ffmpeg', [
         '-y',
         '-f', 'concat',
         '-safe', '0',
@@ -671,7 +673,7 @@ class AnkiService {
       if (repetitions == 1) {
         await File(tempConcatPath).copy(outputPath);
       } else {
-        result = await Process.run('ffmpeg', [
+        result = await Process.run(_ffmpeg.ffmpegPath ?? 'ffmpeg', [
           '-y',
           '-stream_loop', '${repetitions - 1}',
           '-i', tempConcatPath,
@@ -689,46 +691,31 @@ class AnkiService {
     }
   }
 
-  Future<void> _copyOrConvertAudio(String inputPath, String outputPath) async {
-    final ext = path.extension(inputPath).toLowerCase();
-    
-    if (ext == '.wav') {
-      final result = await Process.run('ffmpeg', [
-        '-y',
-        '-i', inputPath,
-        '-acodec', 'libmp3lame',
-        '-ab', '128k',
-        outputPath,
-      ]);
-      
-      if (result.exitCode != 0) {
-        throw Exception('Failed to convert $inputPath: ${result.stderr}');
-      }
-    } else {
-      await File(inputPath).copy(outputPath);
-    }
-  }
+ Future<void> _copyOrConvertAudio(String inputPath, String outputPath) async {
+   await _ffmpeg.ensureBinaries();
+   final ext = path.extension(inputPath).toLowerCase();
+   
+   if (ext == '.wav') {
+     final result = await Process.run(_ffmpeg.ffmpegPath ?? 'ffmpeg', [
+       '-y',
+       '-i', inputPath,
+       '-acodec', 'libmp3lame',
+       '-ab', '128k',
+       outputPath,
+     ]);
+     
+     if (result.exitCode != 0) {
+       throw Exception('Failed to convert $inputPath: ${result.stderr}');
+     }
+   } else {
+     await File(inputPath).copy(outputPath);
+   }
+ }
   
   Future<void> _repeatAudio(String inputPath, String outputPath, int times) async {
-    if (!await File(inputPath).exists()) {
-      throw Exception('Input file does not exist: $inputPath');
-    }
+    await _ffmpeg.ensureBinaries();
     
-    final outputDir = Directory(path.dirname(outputPath));
-    if (!await outputDir.exists()) {
-      await outputDir.create(recursive: true);
-    }
-    
-    try {
-      final testResult = await Process.run('ffmpeg', ['-version']);
-      if (testResult.exitCode != 0) {
-        throw Exception('FFmpeg is not accessible');
-      }
-    } catch (e) {
-      throw Exception('FFmpeg not found. Please ensure ffmpeg.exe is in the app directory or system PATH: $e');
-    }
-    
-    final result = await Process.run('ffmpeg', [
+    final result = await Process.run(_ffmpeg.ffmpegPath ?? 'ffmpeg', [
       '-y',
       '-stream_loop', '${times - 1}',
       '-i', inputPath,
@@ -738,8 +725,6 @@ class AnkiService {
     ]);
     
     if (result.exitCode != 0) {
-      print('FFmpeg stderr: ${result.stderr}');
-      print('FFmpeg stdout: ${result.stdout}');
       throw Exception('Failed to repeat $inputPath: ${result.stderr}');
     }
   }
@@ -803,6 +788,7 @@ class AnkiService {
     required int bitrate,
     required Function(int current, int total) onProgress,
   }) async {
+    await _ffmpeg.ensureBinaries();
     final cpuCount = Platform.numberOfProcessors;
     final maxConcurrent = (cpuCount * 0.75).round().clamp(1, 8);
     
@@ -817,8 +803,8 @@ class AnkiService {
           final outputPath = path.join(outputDir.path, '$basename.opus');
           
           final opusApplication = bitrate == 16 ? 'voip' : 'audio';
-          
-          await Process.run('ffmpeg', [
+
+          await Process.run(_ffmpeg.ffmpegPath!, [
             '-i', file.path,
             '-hide_banner',
             '-vn',

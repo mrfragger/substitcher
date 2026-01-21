@@ -147,6 +147,10 @@ class SidePanel extends StatelessWidget {
 
   final bool showPlaylistDirectories;
   final Function(bool) onTogglePlaylistDirectories;
+
+  final bool isExportingMarkdown;
+  final String exportStatus;
+  final VoidCallback onExportMarkdown;
   
   const SidePanel({
     super.key,
@@ -273,6 +277,9 @@ class SidePanel extends StatelessWidget {
     required this.onColoringModeChanged,
     required this.showPlaylistDirectories,
     required this.onTogglePlaylistDirectories,
+    required this.isExportingMarkdown,
+    required this.exportStatus,
+    required this.onExportMarkdown,
   });
 
   @override
@@ -315,57 +322,56 @@ class SidePanel extends StatelessWidget {
     );
   }
 
-  Widget _buildHeader(BuildContext context) {
-    return Container(
-      padding: const EdgeInsets.all(16),
-      decoration: const BoxDecoration(
-        border: Border(
-          bottom: BorderSide(color: Colors.white24),
-        ),
-      ),
-      child: Row(
-        mainAxisAlignment: MainAxisAlignment.spaceBetween,
-        children: [
-          Tooltip(
-            message: '( ` )',
-            waitDuration: const Duration(milliseconds: 500),
-            child: IconButton(
-              icon: Icon(
-                isCollapsed ? Icons.expand_more : Icons.expand_less,
-                color: Colors.white,
-                size: 20,
-              ),
-              onPressed: onToggleCollapse,
-            ),
-          ),
-          Expanded(
-            child: SingleChildScrollView(
-              scrollDirection: Axis.horizontal,
-              child: Row(
-                children: [
-                  _buildTabButton(context, 'Chapters', PanelMode.chapters, currentAudiobook?.chapters.length ?? 0),
-                  _buildTabButton(context, 'History', PanelMode.history, historyCount),
-                  _buildTabButton(context, 'Playlist', PanelMode.playlist, playlistCount),
-                  _buildTabButton(context, 'Bookmarks', PanelMode.bookmarks, bookmarksCount),
-                  _buildTabButton(context, 'Fonts', PanelMode.fonts, fontsCount),
-                  _buildTabButton(context, 'Colors', PanelMode.colors, ColorPalette.presets.length),
-                  _buildTabButton(context, 'Words', PanelMode.words, frequencyItems.length),
-                  _buildTabButton(context, 'Subs', PanelMode.subs, subsCount),
-                  _buildTabButton(context, 'Stats', PanelMode.stats, statsCount),
-                ],
-              ),
-            ),
-          ),
-          if (!isCollapsed)
-            IconButton(
-              icon: const Icon(Icons.close, color: Colors.white),
-              onPressed: onClose,
-              tooltip: 'Close (Esc)',
-            ),
-        ],
-      ),
-    );
-  }
+ Widget _buildHeader(BuildContext context) {
+   return Container(
+     padding: const EdgeInsets.all(16),
+     decoration: const BoxDecoration(
+       border: Border(
+         bottom: BorderSide(color: Colors.white24),
+       ),
+     ),
+     child: Row(
+       mainAxisAlignment: MainAxisAlignment.spaceBetween,
+       children: [
+         Tooltip(
+           message: '( ` )',
+           waitDuration: const Duration(milliseconds: 500),
+           child: IconButton(
+             icon: Icon(
+               isCollapsed ? Icons.expand_more : Icons.expand_less,
+               color: Colors.white,
+               size: 20,
+             ),
+             onPressed: onToggleCollapse,
+           ),
+         ),
+         Expanded(
+           child: SingleChildScrollView(
+             scrollDirection: Axis.horizontal,
+             child: Row(
+               children: [
+                 _buildTabButton(context, 'Chapters', PanelMode.chapters, currentAudiobook?.chapters.length ?? 0),
+                 _buildTabButton(context, 'History', PanelMode.history, historyCount),
+                 _buildTabButton(context, 'Playlist', PanelMode.playlist, playlistCount),
+                 _buildTabButton(context, 'Bookmarks', PanelMode.bookmarks, bookmarksCount),
+                 _buildTabButton(context, 'Fonts', PanelMode.fonts, fontsCount),
+                 _buildTabButton(context, 'Colors', PanelMode.colors, ColorPalette.presets.length),
+                 _buildTabButton(context, 'Words', PanelMode.words, frequencyItems.length),
+                 _buildTabButton(context, 'Subs', PanelMode.subs, subsCount),
+                 _buildTabButton(context, 'Stats', PanelMode.stats, statsCount),
+               ],
+             ),
+           ),
+         ),
+         IconButton(
+           icon: const Icon(Icons.close, color: Colors.white),
+           onPressed: onClose,
+           tooltip: 'Close (Esc)',
+         ),
+       ],
+     ),
+   );
+ }
 
   Widget _buildSearchBar() {
     return Padding(
@@ -1420,42 +1426,95 @@ class SidePanel extends StatelessWidget {
             children: [
               Row(
                 children: [
-                  ElevatedButton(
-                    onPressed: () => onSearchSubtitles(subsSearchQuery),
-                    style: ElevatedButton.styleFrom(
-                      backgroundColor: Colors.deepPurple,
-                      foregroundColor: Colors.white,
-                    ),
-                    child: const Text('Search Subtitles & Paragraphs'),
-                  ),
-                  const SizedBox(width: 16),
-                  Tooltip(
-                    message: hasChapterIndex 
-                        ? 'Chapter index loaded'
-                        : 'Index all chapters in current playlist',
-                    child: ElevatedButton.icon(
-                      onPressed: isIndexingChapters ? null : (hasChapterIndex ? null : onIndexPlaylistChapters),
-                      icon: isIndexingChapters
-                          ? const SizedBox(
-                              width: 16,
-                              height: 16,
-                              child: CircularProgressIndicator(strokeWidth: 2, color: Colors.white),
-                            )
-                          : Icon(
-                              hasChapterIndex ? Icons.check_circle : Icons.manage_search,
-                              color: Colors.white,
-                            ),
-                      label: Text(hasChapterIndex 
-                          ? 'Search Playlist Chapters' 
-                          : 'Index Playlist Chapters'),
+                  Expanded(
+                    child: ElevatedButton(
+                      onPressed: () => onSearchSubtitles(subsSearchQuery),
                       style: ElevatedButton.styleFrom(
-                        backgroundColor: Colors.lightBlue,
+                        backgroundColor: Colors.deepPurple,
                         foregroundColor: Colors.white,
+                        padding: const EdgeInsets.symmetric(vertical: 16),
+                      ),
+                      child: const Text('Search Subtitles & Paragraphs'),
+                    ),
+                  ),
+                  const SizedBox(width: 8),
+                  ElevatedButton.icon(
+                    onPressed: isExportingMarkdown ? null : onExportMarkdown,
+                    icon: isExportingMarkdown 
+                        ? const SizedBox(
+                            width: 16,
+                            height: 16,
+                            child: CircularProgressIndicator(
+                              strokeWidth: 2,
+                              valueColor: AlwaysStoppedAnimation<Color>(Colors.white),
+                            ),
+                          )
+                        : const Icon(Icons.file_download),
+                    label: const Text('Export md'),
+                    style: ElevatedButton.styleFrom(
+                      backgroundColor: Colors.blueGrey[700],
+                      foregroundColor: Colors.white,
+                      padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 16),
+                    ),
+                  ),
+                  const SizedBox(width: 8),
+                  Expanded(
+                    child: Tooltip(
+                      message: hasChapterIndex 
+                          ? 'Chapter index loaded'
+                          : 'Index all chapters in current playlist',
+                      child: ElevatedButton.icon(
+                        onPressed: isIndexingChapters ? null : (hasChapterIndex ? null : onIndexPlaylistChapters),
+                        icon: isIndexingChapters
+                            ? const SizedBox(
+                                width: 16,
+                                height: 16,
+                                child: CircularProgressIndicator(strokeWidth: 2, color: Colors.white),
+                              )
+                            : Icon(
+                                hasChapterIndex ? Icons.check_circle : Icons.manage_search,
+                                color: Colors.white,
+                              ),
+                        label: Text(hasChapterIndex 
+                            ? 'Search Playlist Chapters' 
+                            : 'Index Playlist Chapters'),
+                        style: ElevatedButton.styleFrom(
+                          backgroundColor: Colors.lightBlue,
+                          foregroundColor: Colors.white,
+                          padding: const EdgeInsets.symmetric(vertical: 16),
+                        ),
                       ),
                     ),
                   ),
                 ],
               ),
+              if (isExportingMarkdown) ...[
+                const SizedBox(height: 12),
+                Container(
+                  padding: const EdgeInsets.all(12),
+                  decoration: BoxDecoration(
+                    color: Colors.blueGrey.withOpacity(0.2),
+                    borderRadius: BorderRadius.circular(8),
+                    border: Border.all(color: Colors.blueGrey.withOpacity(0.3)),
+                  ),
+                  child: Row(
+                    children: [
+                      const SizedBox(
+                        width: 20,
+                        height: 20,
+                        child: CircularProgressIndicator(strokeWidth: 2),
+                      ),
+                      const SizedBox(width: 12),
+                      Expanded(
+                        child: Text(
+                          exportStatus,
+                          style: const TextStyle(color: Colors.white70, fontSize: 14),
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+              ],
               if (isIndexingChapters) ...[
                 const SizedBox(height: 8),
                 LinearProgressIndicator(

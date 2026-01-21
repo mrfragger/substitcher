@@ -22,6 +22,8 @@ class _TranscribeScreenState extends State<TranscribeScreen> {
   String? _chaptersDirectory;
   DateTime? _transcriptionStartTime;
   String? _lastTranscriptionTime;
+  double? _lastRealtimeSpeed;
+  Duration? _startingRemainingDuration;
   int _totalTranscriptionChapters = 0;
   int _currentTranscriptionChapter = 0;
  Duration _cumulativeChapterDuration = Duration.zero;
@@ -153,6 +155,7 @@ class _TranscribeScreenState extends State<TranscribeScreen> {
       _cumulativeChapterDuration = Duration.zero;
       _totalRemainingDuration = totalRemainingDuration;
       _initialTotalDuration = totalDuration;
+      _startingRemainingDuration = _totalRemainingDuration;
     
       if (_initialTotalDuration.inSeconds > 0) {
         final transcribedDuration = _initialTotalDuration - _totalRemainingDuration;
@@ -239,6 +242,11 @@ class _TranscribeScreenState extends State<TranscribeScreen> {
       final hours = elapsed.inHours;
       final minutes = elapsed.inMinutes.remainder(60);
       final seconds = elapsed.inSeconds.remainder(60);
+    
+      double finalRealtimeSpeed = 0.0;
+      if (_startingRemainingDuration!.inSeconds > 0 && elapsed.inSeconds > 0) {
+        finalRealtimeSpeed = _startingRemainingDuration!.inSeconds / elapsed.inSeconds;
+      }
       
       setState(() {
         _isTranscribing = false;
@@ -247,8 +255,12 @@ class _TranscribeScreenState extends State<TranscribeScreen> {
         _lastTranscriptionTime = hours > 0 
             ? '${hours}h ${minutes}m ${seconds}s'
             : '${minutes}m ${seconds}s';
+        _lastRealtimeSpeed = finalRealtimeSpeed;
         _totalRemainingDuration = Duration.zero;
       });
+
+      await _convertAllVttToMarkdown(_chaptersDirectory!);
+
       ScaffoldMessenger.of(context).showSnackBar(
         const SnackBar(
           content: Text('Transcription completed successfully!'),
@@ -268,6 +280,132 @@ class _TranscribeScreenState extends State<TranscribeScreen> {
     } else {
       return '${minutes}m ${seconds}s';
     }
+  }
+
+  Future<void> _convertAllVttToMarkdown(String chaptersDirectory) async {
+    try {
+      setState(() {
+        _transcriptionStatus = 'Converting VTT files to markdown...';
+      });
+      
+      final vttFiles = <String>[];
+      final dir = Directory(chaptersDirectory);
+      await for (final entity in dir.list()) {
+        if (entity is File && path.extension(entity.path).toLowerCase() == '.vtt') {
+          vttFiles.add(entity.path);
+        }
+      }
+      
+      vttFiles.sort();
+      
+      for (int i = 0; i < vttFiles.length; i++) {
+        final vttPath = vttFiles[i];
+        final vttFilename = path.basenameWithoutExtension(vttPath);
+        
+        final vttContent = await File(vttPath).readAsString();
+        final paragraphs = _createParagraphsFromVtt(vttContent);
+        
+        if (paragraphs.isEmpty) continue;
+        
+        final mdContent = StringBuffer();
+        mdContent.writeln('# $vttFilename\n');
+        
+        for (final paragraph in paragraphs) {
+          mdContent.writeln(paragraph);
+          mdContent.writeln();
+        }
+        
+        final cleanFilename = vttFilename
+            .replaceAll('/', '-')
+            .replaceAll("'", '')
+            .replaceAll('"', '')
+            .replaceAll(':', '-')
+            .replaceAll('\\', '-')
+            .replaceAll('|', '-')
+            .replaceAll('?', '')
+            .replaceAll('*', '')
+            .replaceAll('<', '')
+            .replaceAll('>', '');
+        
+        final mdFilename = '$cleanFilename.md';
+        final mdPath = path.join(chaptersDirectory, mdFilename);
+        
+        await File(mdPath).writeAsString(mdContent.toString());
+      }
+    } catch (e) {
+      print('Error converting VTT to markdown: $e');
+    }
+  }
+  
+  List<String> _createParagraphsFromVtt(String vttContent) {
+    final cues = _parseVttContent(vttContent);
+    if (cues.isEmpty) return [];
+    
+    final allText = cues
+        .map((cue) => cue.replaceAll('\n', ' ').trim())
+        .where((text) => text.isNotEmpty)
+        .join(' ');
+    
+    final sentences = <String>[];
+    final words = allText.split(RegExp(r'\s+'));
+    var currentSentence = '';
+    
+    for (final word in words) {
+      currentSentence += word + ' ';
+      
+      if (word.endsWith('.') || word.endsWith('?') || word.endsWith('!')) {
+        final abbreviations = ['Mr.', 'Dr.', 'Mrs.', 'Ms.', 'Prof.', 'Sr.', 'Jr.', 'St.'];
+        final isAbbreviation = abbreviations.any((abbr) => 
+          currentSentence.trim().endsWith(abbr));
+        
+        if (!isAbbreviation) {
+          sentences.add(currentSentence.trim());
+          currentSentence = '';
+        }
+      }
+    }
+    
+    if (currentSentence.trim().isNotEmpty) {
+      sentences.add(currentSentence.trim());
+    }
+  
+    final paragraphs = <String>[];
+    for (int i = 0; i < sentences.length; i += 9) {
+      final paragraphSentences = sentences.skip(i).take(9).toList();
+      if (paragraphSentences.isNotEmpty) {
+        var paragraph = paragraphSentences.join(' ');
+        
+        if (paragraph.isNotEmpty) {
+          paragraph = paragraph[0].toUpperCase() + paragraph.substring(1);
+        }
+        
+        paragraphs.add(paragraph);
+      }
+    }
+    
+    return paragraphs;
+  }
+  
+  List<String> _parseVttContent(String content) {
+    final cues = <String>[];
+    final lines = content.split('\n');
+    
+    for (var i = 0; i < lines.length; i++) {
+      final line = lines[i].trim();
+      if (line.contains('-->')) {
+        final textLines = <String>[];
+        i++;
+        while (i < lines.length && lines[i].trim().isNotEmpty) {
+          textLines.add(lines[i].trim());
+          i++;
+        }
+        if (textLines.isNotEmpty) {
+          cues.add(textLines.join('\n'));
+        }
+      }
+    }
+    
+    return cues;
   }
 
   @override
@@ -987,7 +1125,8 @@ class _TranscribeScreenState extends State<TranscribeScreen> {
                 const Icon(Icons.check_circle, color: Colors.green, size: 20),
                 const SizedBox(width: 8),
                 Text(
-                  'Last transcription completed in $_lastTranscriptionTime',
+                  'Last transcription completed in $_lastTranscriptionTime'
+                  '${_lastRealtimeSpeed != null && _lastRealtimeSpeed! > 0 ? ' • Realtime Speed ${_lastRealtimeSpeed!.toStringAsFixed(1)}x' : ''}',
                   style: const TextStyle(color: Colors.white, fontSize: 14),
                 ),
               ],

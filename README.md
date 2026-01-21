@@ -14,7 +14,7 @@ Opus chaptered encoder and player with colored subtitles and fancy fonts. Transc
 - Extract chapters with names from audiobooks
 - Edit Metadata (chapters, author, title) of opus audiobook
 
-![](docs/screenshots/encode.jpg)
+![](images/encode.jpg)
 
 ### Playback
 - set playback speed 0.5x to 2.0x
@@ -29,7 +29,7 @@ Opus chaptered encoder and player with colored subtitles and fancy fonts. Transc
 - left/right arrows advanced to prev/next subtitle
 - search foreign language subtitles 
 
-![](docs/screenshots/japanese.jpg)
+![](images/japanese.jpg)
 
 ### Dictionary Lookup Words
 - d opens dictionary word overlay
@@ -40,7 +40,7 @@ Opus chaptered encoder and player with colored subtitles and fancy fonts. Transc
 - History of looked up words clicked on
 - Clear or Copy All history to clipboard
 
-![](docs/screenshots/dictionaryhistory.jpg)
+![](images/dictionaryhistory.jpg)
 
 - Pause mode 2s, 3s, 5s, 10s or Dictionary mode (forever)
 - CJK (Chinese, Japanese, Korean) and Arabic subtitles
@@ -49,7 +49,7 @@ Opus chaptered encoder and player with colored subtitles and fancy fonts. Transc
 - Apple Dictionary has following languages to English available as of January 2026:
 - Arabic, Bangla, Cantonese, Simplified Chinese, Traditional Chinese, Croatian, Czech, Danish, Dutch, Finnish, French, German, Greek, Gujarati, Hindi, Hungarian, Indonesian, Italian, Japanese, Kannada, Kazakh, Korean, Malay, Malayalam, Norwegian, Polish, Portuguese, Punjabi, Russian, Slovak, Spanish, Swedish, Tamil, Telugu, Thai, Turkish, Ukranian, Urdu, Vietnamese
 
-![](docs/screenshots/dictionary.jpg)
+![](images/dictionary.jpg)
 
 ### Bilingual Subtitles
 - audiobookname_vtt sub directory to keep many subs (autoloads)
@@ -59,7 +59,7 @@ Opus chaptered encoder and player with colored subtitles and fancy fonts. Transc
 - set font and color for 'active subtitle' which is the bottom one
 - set font and color for each one top and bottom 
 
-![](docs/screenshots/bilingualsubs.jpg)
+![](images/bilingualsubs.jpg)
 
 ### Sleeptimer
 -  set to 15, 30, 45, 60, 90, 120 minutes
@@ -77,7 +77,7 @@ Opus chaptered encoder and player with colored subtitles and fancy fonts. Transc
 - shows duration of each chapter (ffprobe)
 - search through all chapters in entire plays (under Subs panel)
 
-![](docs/screenshots/chapters.jpg)
+![](images/chapters.jpg)
 
 ### History
 - shows audiobook title with chapter title and time position
@@ -88,7 +88,7 @@ Opus chaptered encoder and player with colored subtitles and fancy fonts. Transc
 - sorted by most recent
 - only shows most recent chapter with a particular audiobook
 
-![](docs/screenshots/history.jpg)
+![](images/history.jpg)
 
 
 ### Playlist
@@ -96,7 +96,7 @@ Opus chaptered encoder and player with colored subtitles and fancy fonts. Transc
 - search through entire playlist
 - p 1-9 to quickly open playlist entries
 
-![](docs/screenshots/playlist.jpg)
+![](images/playlist.jpg)
 
 ### Bookmarks
 - shows audiobook title with chapter title and time position
@@ -113,7 +113,7 @@ Opus chaptered encoder and player with colored subtitles and fancy fonts. Transc
 - each missing and each alternate font, subs must be converted
 - ligature demo fonts, subs need converting only once
 
-![](docs/screenshots/fonts.jpg)
+![](images/fonts.jpg)
 
 ### Colors
 - 500 color palettes
@@ -122,7 +122,7 @@ Opus chaptered encoder and player with colored subtitles and fancy fonts. Transc
 - 90 Simple Palettes (one font color with a shadow color)
 - monochromatic, food palettes
 
-![](docs/screenshots/colors.jpg)
+![](images/colors.jpg)
 
 ### Words
 - analyzing vtt subtitles for word frequencies
@@ -143,7 +143,7 @@ Opus chaptered encoder and player with colored subtitles and fancy fonts. Transc
 - Ctrl+Backspace or Cmd+Backspace to clear search results
 - TAB to focus elsewhere so keyboard shortcuts work
 
-![](docs/screenshots/subs.jpg)
+![](images/subs.jpg)
 
 ### Stats
 - Shows Active Days which are at least 30 mins of listening
@@ -157,7 +157,7 @@ Opus chaptered encoder and player with colored subtitles and fancy fonts. Transc
 - time duration bars of listening time for last 30 active days
 
 
-![](docs/screenshots/stats.jpg)
+![](images/stats.jpg)
 
 ### Adhan Clock
 - prayer times
@@ -166,7 +166,7 @@ Opus chaptered encoder and player with colored subtitles and fancy fonts. Transc
 - location is valid for 30 days (cached)
 
 
-![](docs/screenshots/adhan.jpg)
+![](images/adhan.jpg)
 
 ### Anki to Opus 
 - Anki to opus chaptered audiobook (4x repeat vocab, show 2x front, 2x back subs)
@@ -174,14 +174,15 @@ Opus chaptered encoder and player with colored subtitles and fancy fonts. Transc
 - Arabic, Bengali, Chinese, Czech, Danish, Dutch, English, Filipino, French, German, Greek, Hebrew, Hindi, Hungarian, Indonesian, Italian, Japanese, Korean, Marathi, Norwegian, Pashto, Persian, Polish, Portuguese, Punjabi, Romanian, Russian, Spanish, Swedish, Tamil, Telugu, Thai, Turkish, Urdu, Vietnamese
 - Nearly 1,000 anki to opus audiobooks on telegram channel https://t.me/Anki2Opus if too lazy to make your own
 
-![](docs/screenshots/ankitoopus1.jpg)
-![](docs/screenshots/ankitoopus2.jpg)
+![](images/ankitoopus1.jpg)
+![](images/ankitoopus2.jpg)
 
 ### Installation
 macOS (arm64 Silicon m1,m2,m3,m4,m26) after install dmg in Terminal do
 ```bash
 xattr -dr com.apple.quarantine /Applications/SubStitcher.app
 ```
+If using whisper large v2 model on 8GB RAM Mac swap file might become huge especially with other apps open.  Swap file will never clear and takes up valuable disk space until rebooting. Log out of user account and login again which is even quicker way to delete swap file.
 
 Windows x64\
 just unzip SubStitcher-windows-x64.zip\

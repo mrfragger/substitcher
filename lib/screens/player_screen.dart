@@ -21,6 +21,7 @@ import '../models/history_item.dart';
 import '../models/bookmark.dart';
 import '../models/subtitle_cue.dart';
 import '../models/pause_mode.dart';
+import '../models/subtitle_preferences.dart';
 import '../services/cjk_tokenizer.dart';
 import '../services/ffmpeg_service.dart';
 import '../services/font_loader.dart';
@@ -31,12 +32,14 @@ import '../services/subtitle_organizer.dart';
 import '../services/frequency_analyzer.dart';
 import '../services/stats_manager.dart';
 import '../services/adhan_clock_service.dart';
+import '../services/youtube_service.dart';
 import '../widgets/adhan_clock_overlay.dart';
 import '../widgets/subtitle_manager_dialog.dart';
 import '../widgets/side_panel.dart';
 import '../widgets/stats_panel.dart';
 import '../widgets/player_controls.dart';
 import '../widgets/word_overlay.dart';
+import '../widgets/download_overlay.dart';
 
 
 class SubtitleSearchResult {
@@ -252,6 +255,18 @@ class _PlayerScreenState extends State<PlayerScreen> {
   
   bool _hoveringPrevChapter = false;
   bool _hoveringNextChapter = false;
+
+  bool _isExportingMarkdown = false;
+  String _exportStatus = '';
+
+  bool _isYouTubeStream = false;
+  String? _youtubeTitle;
+  bool _isLoadingYouTube = false;
+  String? _currentYouTubeUrl;
+  String? _youtubeChannelName;
+  SubtitlePreferences _subtitlePreferences = SubtitlePreferences();
+
+  bool _isDisposed = false;
   
   @override
   void initState() {
@@ -282,6 +297,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
     _statsManager.initialize();
     _loadHistory();
     _loadPlaylist();
+    _loadSubtitlePreferences();
     _loadBookmarks();
     _loadSkipTrackingTerms();
     _startCacheFlushTimer();
@@ -292,6 +308,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
   
   @override
   void dispose() {
+    _isDisposed = true;
     windowManager.removeListener(_WindowCloseListener(onClose: _handleWindowClose));
     _cacheFlushTimer?.cancel();
     _frequencyGenerationTimer?.cancel();
@@ -430,7 +447,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
   }
   
   Future<void> _setCurrentAsDefault() async {
-    if (_currentAudiobook == null) {
+    if (!_isYouTubeStream && _currentAudiobook == null) {
       ScaffoldMessenger.of(context).showSnackBar(
         const SnackBar(content: Text('No audiobook loaded')),
       );
@@ -461,7 +478,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
   }
 
   Future<void> _applyDefaultSettings() async {
-    if (_currentAudiobook == null) {
+    if (!_isYouTubeStream && _currentAudiobook == null) {
       ScaffoldMessenger.of(context).showSnackBar(
         const SnackBar(content: Text('No audiobook loaded')),
       );
@@ -508,8 +525,10 @@ class _PlayerScreenState extends State<PlayerScreen> {
 
   Future<void> _handleWindowClose() async {
     try {
+      _isDisposed = true;
+      
       if (_isPlaying) {
-        await player.pause();
+        await player.pause().timeout(const Duration(milliseconds: 500));
       }
       
       if (_currentAudiobook != null) {
@@ -519,15 +538,14 @@ class _PlayerScreenState extends State<PlayerScreen> {
             path.basenameWithoutExtension(_currentAudiobook!.path),
             currentChapter.title,
           );
-          await _statsManager.flushCacheToLog();
+          await _statsManager.flushCacheToLog().timeout(const Duration(milliseconds: 500));
         }
       }
       
-      await _saveToHistory();
+      await _saveToHistory().timeout(const Duration(milliseconds: 500));
       
-      await player.stop();
+      await player.stop().timeout(const Duration(milliseconds: 500));
       
-      await Future.delayed(const Duration(milliseconds: 100));
     } catch (e) {
       print('Error during window close: $e');
     }
@@ -785,11 +803,20 @@ class _PlayerScreenState extends State<PlayerScreen> {
             _subtitleFilePath = path;
           });
           await _applyConversion();
-        },
+        },        
         onSecondarySelected: (path) async {
           setState(() {
             _secondarySubtitlePath = path;
             _secondarySubtitleFilePath = path;
+            if (_secondarySubtitleFont == 'System Default' && _selectedFont != 'System Default') {
+              _secondarySubtitleFont = _selectedFont;
+            }
+            if (_secondaryColorPalette == null && _currentColorPalette != null) {
+              _secondaryColorPalette = _currentColorPalette;
+            }
+            if (_secondarySubtitleFontSize == 86.0) {
+              _secondarySubtitleFontSize = _subtitleFontSize;
+            }
           });
           await _applySecondaryConversion();
         },
@@ -1813,6 +1840,139 @@ class _PlayerScreenState extends State<PlayerScreen> {
         ),
       ],
     );
+  }
+
+  Future<void> _exportMarkdownParagraphs() async {
+    if (_currentAudiobook == null || _originalSubtitles.isEmpty) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(content: Text('No audiobook or subtitles loaded')),
+      );
+      return;
+    }
+  
+    setState(() {
+      _isExportingMarkdown = true;
+      _exportStatus = 'Starting export...';
+    });
+  
+    try {
+      final audiobookPath = _currentAudiobook!.path;
+      final audiobookDir = path.dirname(audiobookPath);
+      final audiobookBase = path.basenameWithoutExtension(audiobookPath);
+      final exportPath = path.join(audiobookDir, '${audiobookBase}_paragraphs.md');
+  
+      final chapters = _currentAudiobook!.chapters;
+      final mdContent = StringBuffer();
+      
+      mdContent.writeln('# $audiobookBase\n');
+      
+      for (int chapterIndex = 0; chapterIndex < chapters.length; chapterIndex++) {
+        final chapter = chapters[chapterIndex];
+        
+        setState(() {
+          _exportStatus = 'Processing chapter ${chapterIndex + 1}/${chapters.length}: ${chapter.title}';
+        });
+  
+        mdContent.writeln('## Chapter ${chapterIndex + 1}: ${chapter.title}\n');
+  
+        final chapterSubs = _originalSubtitles.where((sub) {
+          return sub.startTime >= chapter.startTime && sub.startTime < chapter.endTime;
+        }).toList();
+  
+        if (chapterSubs.isEmpty) {
+          mdContent.writeln('*No subtitles available for this chapter*\n');
+          continue;
+        }
+  
+        final paragraphs = _createParagraphsFromSubs(chapterSubs);
+        
+        for (final paragraph in paragraphs) {
+          mdContent.writeln(paragraph);
+          mdContent.writeln();
+        }
+        
+        mdContent.writeln();
+      }
+  
+      await File(exportPath).writeAsString(mdContent.toString());
+  
+      setState(() {
+        _isExportingMarkdown = false;
+        _exportStatus = '';
+      });
+  
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            content: Text('Exported ${chapters.length} chapters to:\n${path.basename(exportPath)}'),
+            duration: const Duration(seconds: 4),
+            backgroundColor: Colors.green,
+          ),
+        );
+      }
+    } catch (e) {
+      setState(() {
+        _isExportingMarkdown = false;
+        _exportStatus = '';
+      });
+      
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            content: Text('Export failed: $e'),
+            backgroundColor: Colors.red,
+          ),
+        );
+      }
+    }
+  }
+  
+  List<String> _createParagraphsFromSubs(List<SubtitleCue> subs) {
+    if (subs.isEmpty) return [];
+    
+    final allText = subs
+        .map((cue) => cue.text.replaceAll('\n', ' ').trim())
+        .where((text) => text.isNotEmpty)
+        .join(' ');
+    
+    final sentences = <String>[];
+    final words = allText.split(RegExp(r'\s+'));
+    var currentSentence = '';
+    
+    for (final word in words) {
+      currentSentence += word + ' ';
+      
+      if (word.endsWith('.') || word.endsWith('?') || word.endsWith('!')) {
+        final abbreviations = ['Mr.', 'Dr.', 'Mrs.', 'Ms.', 'Prof.', 'Sr.', 'Jr.', 'St.'];
+        final isAbbreviation = abbreviations.any((abbr) => 
+          currentSentence.trim().endsWith(abbr));
+        
+        if (!isAbbreviation) {
+          sentences.add(currentSentence.trim());
+          currentSentence = '';
+        }
+      }
+    }
+    
+    if (currentSentence.trim().isNotEmpty) {
+      sentences.add(currentSentence.trim());
+    }
+  
+    final paragraphs = <String>[];
+    for (int i = 0; i < sentences.length; i += 9) {
+      final paragraphSentences = sentences.skip(i).take(9).toList();
+      if (paragraphSentences.isNotEmpty) {
+        var paragraph = paragraphSentences.join(' ');
+        
+        if (paragraph.isNotEmpty) {
+          paragraph = paragraph[0].toUpperCase() + paragraph.substring(1);
+        }
+        
+        paragraphs.add(paragraph);
+      }
+    }
+    
+    return paragraphs;
   }
   
   TextSpan _highlightSearchTerm(String text, String searchTerm) {
@@ -2913,11 +3073,20 @@ class _PlayerScreenState extends State<PlayerScreen> {
     final subtitlePath = result.files.first.path!;
     
     try {
-      setState(() {
-        _secondarySubtitleFilePath = subtitlePath;
-      });
-      
-      await _applySecondaryConversion();
+        setState(() {
+          _secondarySubtitleFilePath = subtitlePath;
+          if (_secondarySubtitleFont == 'System Default' && _selectedFont != 'System Default') {
+            _secondarySubtitleFont = _selectedFont;
+          }
+          if (_secondaryColorPalette == null && _currentColorPalette != null) {
+            _secondaryColorPalette = _currentColorPalette;
+          }
+          if (_secondarySubtitleFontSize == 86.0) {
+            _secondarySubtitleFontSize = _subtitleFontSize;
+          }
+        });
+        
+        await _applySecondaryConversion();
       
       if (mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
@@ -2942,9 +3111,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
 
   Future<void> _applySecondaryConversion() async {
     if (_secondarySubtitleFilePath == null) return;
-  
-    print('📝 _applySecondaryConversion called with _secondarySubtitleFilePath: $_secondarySubtitleFilePath');
-    
+      
     try {
       final content = await File(_secondarySubtitleFilePath!).readAsString();
       String convertedContent = content;
@@ -3038,6 +3205,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
     final baseFontSize = fontSize ?? _subtitleFontSize;
     final effectiveFont = fontFamily ?? (_selectedFont == 'System Default' ? null : _selectedFont);
     final effectivePalette = palette ?? _currentColorPalette;
+    final effectiveLineSpacing = lineSpacing ?? _subtitleLineSpacing;
     final cleanedText = text.replaceAll(RegExp(r'<[^>]+>'), '');
     final effectiveFontSize = _calculateDynamicFontSize(cleanedText, baseFontSize);
   
@@ -3051,7 +3219,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
         style: TextStyle(
           color: Colors.white,
           fontSize: effectiveFontSize,
-          height: _subtitleLineSpacing,
+          height: effectiveLineSpacing,
           fontFamily: effectiveFont,
           fontFamilyFallback: fontFamilyFallback,
           shadows: [
@@ -3071,7 +3239,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
         style: TextStyle(
           color: _parseColor(effectivePalette.colors[0]),
           fontSize: effectiveFontSize,
-          height: _subtitleLineSpacing,
+          height: effectiveLineSpacing,
           fontFamily: effectiveFont,
           fontFamilyFallback: fontFamilyFallback,
           shadows: [
@@ -3095,6 +3263,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
         effectiveFont,
         effectivePalette,
         fontFamilyFallback,
+        effectiveLineSpacing,
       );
     }
     
@@ -3106,6 +3275,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
         effectiveFont,
         effectivePalette,
         fontFamilyFallback,
+        effectiveLineSpacing,
       );
     }
     
@@ -3113,7 +3283,14 @@ class _PlayerScreenState extends State<PlayerScreen> {
     if (language == TextLanguage.japanese || 
         language == TextLanguage.chinese || 
         language == TextLanguage.korean) {
-      return _buildCJKColoredTextSpan(cleanedText, startWordIndex, effectiveFontSize, effectiveFont, effectivePalette);
+      return _buildCJKColoredTextSpan(
+        cleanedText, 
+        startWordIndex, 
+        effectiveFontSize, 
+        effectiveFont, 
+        effectivePalette,
+        effectiveLineSpacing,
+      );
     }
     
     final pattern = RegExp(r'(\S+)(\s*)');
@@ -3133,7 +3310,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
         style: TextStyle(
           color: color,
           fontSize: effectiveFontSize,
-          height: _subtitleLineSpacing,
+          height: effectiveLineSpacing,
           fontFamily: effectiveFont,
           fontFamilyFallback: fontFamilyFallback,
           shadows: [
@@ -3151,7 +3328,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
           style: TextStyle(
             color: Colors.white,
             fontSize: effectiveFontSize,
-            height: _subtitleLineSpacing,
+            height: effectiveLineSpacing,
             fontFamily: effectiveFont,
             fontFamilyFallback: fontFamilyFallback,
           ),
@@ -3191,6 +3368,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
     String? fontFamily,
     ColorPalette palette,
     List<String> fontFamilyFallback,
+    double lineSpacing,
   ) {
     final spans = <TextSpan>[];
     int wordIndex = startWordIndex;
@@ -3245,7 +3423,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
             style: TextStyle(
               color: color,
               fontSize: fontSize,
-              height: _subtitleLineSpacing,
+              height: lineSpacing,
               fontFamily: fontFamily,
               fontFamilyFallback: fontFamilyFallback,
               shadows: [
@@ -3276,7 +3454,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
             style: TextStyle(
               color: color,
               fontSize: fontSize,
-              height: _subtitleLineSpacing,
+              height: lineSpacing,
               fontFamily: fontFamily,
               fontFamilyFallback: fontFamilyFallback,
               shadows: [
@@ -3295,7 +3473,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
               style: TextStyle(
                 color: Colors.white,
                 fontSize: fontSize,
-                height: _subtitleLineSpacing,
+                height: lineSpacing,
                 fontFamily: fontFamily,
                 fontFamilyFallback: fontFamilyFallback,
               ),
@@ -3315,6 +3493,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
     String? fontFamily,
     ColorPalette palette,
     List<String> fontFamilyFallback,
+    double lineSpacing,
   ) {
     final spans = <TextSpan>[];
     int colorIndex = startIndex;
@@ -3328,7 +3507,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
           style: TextStyle(
             color: Colors.white,
             fontSize: fontSize,
-            height: _subtitleLineSpacing,
+            height: lineSpacing,
             fontFamily: fontFamily,
             fontFamilyFallback: fontFamilyFallback,
           ),
@@ -3344,7 +3523,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
         style: TextStyle(
           color: color,
           fontSize: fontSize,
-          height: _subtitleLineSpacing,
+          height: lineSpacing,
           fontFamily: fontFamily,
           fontFamilyFallback: fontFamilyFallback,
           shadows: [
@@ -3367,11 +3546,12 @@ class _PlayerScreenState extends State<PlayerScreen> {
     double fontSize,
     String? fontFamily,
     ColorPalette palette,
+    double lineSpacing,
   ) {
     final fontFamilyFallback = fontFamily != null 
           ? [fontFamily, 'Scheherazade New']
           : ['Scheherazade New'];
-
+  
     final words = CJKTokenizer.tokenize(text);
     final spans = <TextSpan>[];
     int wordIndex = startWordIndex;
@@ -3383,7 +3563,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
         style: TextStyle(
           color: color,
           fontSize: fontSize,
-          height: 1.4,
+          height: lineSpacing,
           fontFamily: fontFamily,
           fontFamilyFallback: fontFamilyFallback,
           shadows: [
@@ -4283,6 +4463,11 @@ class _PlayerScreenState extends State<PlayerScreen> {
             } else if (event.logicalKey == LogicalKeyboardKey.bracketRight && event is KeyDownEvent) {
               _increaseSpeed();
               return KeyEventResult.handled;
+            } else if (event.logicalKey == LogicalKeyboardKey.keyY && 
+                       HardwareKeyboard.instance.isShiftPressed && 
+                       event is KeyDownEvent) {
+              _showYouTubeDialog();
+              return KeyEventResult.handled;
             } else if (event.logicalKey == LogicalKeyboardKey.keyY && event is KeyDownEvent) {
               _toggleFullscreen();
               return KeyEventResult.handled;
@@ -4314,36 +4499,43 @@ class _PlayerScreenState extends State<PlayerScreen> {
                 _showEncoderScreen = true;
               });
               return KeyEventResult.handled;
-            } else if (event.logicalKey == LogicalKeyboardKey.keyD && event is KeyDownEvent) {
-              if (_currentSubtitleText.isNotEmpty) {
-                if (!_showWordOverlay) {
-                  if (_isPlaying) {
-                    player.pause();
+            } else if (event.logicalKey == LogicalKeyboardKey.keyD) {
+              if (HardwareKeyboard.instance.isShiftPressed) {
+                _showDownloadDialog();
+                return KeyEventResult.handled;
+              }
+              if (event is KeyDownEvent) {
+                if (_currentSubtitleText.isNotEmpty) {
+                  if (!_showWordOverlay) {
+                    if (_isPlaying) {
+                      player.pause();
+                    }
+                    if (_pauseMode != PauseMode.dictionary) {
+                      setState(() {
+                        _pauseMode = PauseMode.dictionary;
+                        if (_currentSubtitleIndex != null && _currentSubtitleIndex! < _subtitles.length) {
+                          final cue = _subtitles[_currentSubtitleIndex!];
+                          _nextPauseTime = cue.endTime - const Duration(milliseconds: 200);
+                        }
+                      });
+                    }
                   }
-                  if (_pauseMode != PauseMode.dictionary) {
+                  setState(() {
+                    _showWordOverlay = !_showWordOverlay;
+                  });
+                  if (!_showWordOverlay && _pauseMode == PauseMode.dictionary) {
                     setState(() {
-                      _pauseMode = PauseMode.dictionary;
-                      if (_currentSubtitleIndex != null && _currentSubtitleIndex! < _subtitles.length) {
-                        final cue = _subtitles[_currentSubtitleIndex!];
-                        _nextPauseTime = cue.endTime - const Duration(milliseconds: 200);
-                      }
+                      _pauseMode = PauseMode.disabled;
                     });
                   }
-                }
-                setState(() {
-                  _showWordOverlay = !_showWordOverlay;
-                });
-                if (!_showWordOverlay && _pauseMode == PauseMode.dictionary) {
-                  setState(() {
-                    _pauseMode = PauseMode.disabled;
-                  });
                 }
               }
               return KeyEventResult.handled;
            } else if (event.logicalKey == LogicalKeyboardKey.arrowUp) {
              if (HardwareKeyboard.instance.isControlPressed) {
                setState(() {
-                 _subtitleLineSpacing = (_subtitleLineSpacing + 0.1).clamp(0.5, 2.5);
+                 _subtitleLineSpacing = ((_subtitleLineSpacing * 100).round() + 1) / 100;
+                 _subtitleLineSpacing = _subtitleLineSpacing.clamp(0.5, 2.5);
                });
                return KeyEventResult.handled;
              } else if (HardwareKeyboard.instance.isShiftPressed) {
@@ -4361,7 +4553,8 @@ class _PlayerScreenState extends State<PlayerScreen> {
            } else if (event.logicalKey == LogicalKeyboardKey.arrowDown) {
              if (HardwareKeyboard.instance.isControlPressed) {
                setState(() {
-                 _subtitleLineSpacing = (_subtitleLineSpacing - 0.1).clamp(0.5, 2.5);
+                 _subtitleLineSpacing = ((_subtitleLineSpacing * 100).round() - 1) / 100;
+                 _subtitleLineSpacing = _subtitleLineSpacing.clamp(0.5, 2.5);
                });
                return KeyEventResult.handled;
              } else if (HardwareKeyboard.instance.isShiftPressed) {
@@ -4554,7 +4747,9 @@ class _PlayerScreenState extends State<PlayerScreen> {
             },
             child: Stack(
               children: [
-                if (_currentAudiobook == null)
+                if (_isYouTubeStream)
+                  _buildYouTubePlayer()
+                else if (_currentAudiobook == null)
                   _buildNoAudiobook()
                 else
                   _buildPlayer(),
@@ -4570,6 +4765,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
                   ),
                 
                 if (_showPanel && (_currentAudiobook != null || 
+                    _isYouTubeStream ||
                     _panelMode == PanelMode.history || 
                     _panelMode == PanelMode.playlist || 
                     _panelMode == PanelMode.bookmarks || 
@@ -4586,6 +4782,9 @@ class _PlayerScreenState extends State<PlayerScreen> {
                     excludeController: _excludeController,
                     searchFocusNode: _searchFocusNode,
                     excludeFocusNode: _excludeFocusNode,
+                    isExportingMarkdown: _isExportingMarkdown,
+                    exportStatus: _exportStatus,
+                    onExportMarkdown: _exportMarkdownParagraphs,
                     onClose: () {
                       setState(() {
                         _showPanel = false;
@@ -5006,6 +5205,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
       secondarySubtitleFontSize: _secondarySubtitleFontSize,
       secondarySubtitleFont: _secondarySubtitleFont,
       secondaryColorPalette: _secondaryColorPalette,
+      secondarySubtitleLineSpacing: _secondarySubtitleLineSpacing,
       sleepDuration: _sleepDuration,
       sliderHoverPosition: _sliderHoverPosition,
       hoveredChapterTitle: _hoveredChapterTitle,
@@ -5134,6 +5334,296 @@ class _PlayerScreenState extends State<PlayerScreen> {
       onOpenSubtitleManager: _openSubtitleManager,
       onJumpToChapter: _jumpToChapter,
       buildColoredTextSpan: _buildColoredTextSpan,
+    );
+  }
+
+  Widget _buildYouTubePlayer() {
+    return Column(
+      children: [
+        Container(
+          padding: const EdgeInsets.all(16),
+          color: const Color(0xFF1E1E1E),
+          child: Row(
+            children: [
+              const Icon(Icons.headphones, color: Colors.deepPurple, size: 32),
+              const SizedBox(width: 16),
+              Expanded(
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Row(
+                      children: [
+                        const Text(
+                          'YouTube Audio',
+                          style: TextStyle(color: Colors.deepPurple, fontSize: 12),
+                        ),
+                        if (_youtubeChannelName != null) ...[
+                          const Text(
+                            ' • ',
+                            style: TextStyle(color: Colors.deepPurple, fontSize: 12),
+                          ),
+                          Flexible(
+                            child: Text(
+                              _youtubeChannelName!,
+                              style: const TextStyle(color: Colors.deepPurple, fontSize: 12),
+                              overflow: TextOverflow.ellipsis,
+                            ),
+                          ),
+                        ],
+                      ],
+                    ),
+                    Text(
+                      _youtubeTitle ?? 'Loading...',
+                      style: const TextStyle(
+                        color: Colors.white70,
+                        fontSize: 16,
+                      ),
+                      maxLines: 2,
+                      overflow: TextOverflow.ellipsis,
+                    ),
+                  ],
+                ),
+              ),
+              IconButton(
+                icon: const Icon(Icons.font_download, color: Colors.white70),
+                onPressed: () {
+                  setState(() {
+                    _showPanel = true;
+                    _panelMode = PanelMode.fonts;
+                  });
+                },
+                tooltip: 'Fonts (f)',
+              ),
+              IconButton(
+                icon: const Icon(Icons.palette, color: Colors.white70),
+                onPressed: () {
+                  setState(() {
+                    _showPanel = true;
+                    _panelMode = PanelMode.colors;
+                  });
+                },
+                tooltip: 'Colors (o)',
+              ),
+              IconButton(
+                icon: const Icon(Icons.subtitles, color: Colors.white70),
+                onPressed: () {
+                  setState(() {
+                    _showPanel = true;
+                    _panelMode = PanelMode.subs;
+                  });
+                },
+                tooltip: 'Subs (s)',
+              ),
+              IconButton(
+                icon: const Icon(Icons.close, color: Colors.white),
+                onPressed: () async {
+                  await player.stop();
+                  setState(() {
+                    _isYouTubeStream = false;
+                    _youtubeTitle = null;
+                    _subtitles = [];
+                    _originalSubtitles = [];
+                    _currentSubtitleText = '';
+                    _subtitleFilePath = null;
+                  });
+                },
+                tooltip: 'Stop YouTube stream',
+              ),
+            ],
+          ),
+        ),
+        
+        Expanded(
+          child: GestureDetector(
+            onTap: () {
+              if (_showPanel) {
+                setState(() {
+                  _showPanel = false;
+                });
+              }
+              _focusNode.requestFocus();
+            },
+            child: Container(
+              color: Colors.black,
+              child: Center(
+                child: Padding(
+                  padding: const EdgeInsets.symmetric(horizontal: 32),
+                  child: _currentSubtitleText.isNotEmpty
+                      ? RichText(
+                          textAlign: TextAlign.center,
+                          text: _buildColoredTextSpan(_currentSubtitleText),
+                        )
+                      : Text(
+                          _isLoadingYouTube 
+                              ? 'Loading...' 
+                              : (_subtitles.isEmpty 
+                                  ? 'Loading subtitles...' 
+                                  : ''),
+                          style: const TextStyle(
+                            color: Colors.white54,
+                            fontSize: 24,
+                          ),
+                        ),
+                ),
+              ),
+            ),
+          ),
+        ),
+        
+        Container(
+          padding: const EdgeInsets.all(16),
+          color: const Color(0xFF1E1E1E),
+          child: Column(
+            children: [
+              SliderTheme(
+                data: SliderTheme.of(context).copyWith(
+                  thumbShape: const RoundSliderThumbShape(enabledThumbRadius: 6),
+                  overlayShape: const RoundSliderOverlayShape(overlayRadius: 12),
+                  trackHeight: 4,
+                ),
+                child: Slider(
+                  value: _currentPosition.inMilliseconds.toDouble(),
+                  max: _totalDuration.inMilliseconds.toDouble().clamp(1, double.infinity),
+                  onChanged: (value) {
+                    _seekTo(Duration(milliseconds: value.toInt()));
+                  },
+                  activeColor: Colors.deepPurple,
+                  inactiveColor: Colors.white24,
+                ),
+              ),
+              
+              Padding(
+                padding: const EdgeInsets.symmetric(horizontal: 16),
+                child: Row(
+                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                  children: [
+                    Text(
+                      _formatDuration(_currentPosition),
+                      style: const TextStyle(color: Colors.white70, fontSize: 12),
+                    ),
+                    Flexible(
+                      child: Text(
+                        '$_selectedFont${_conversionType != 'none' ? ' • $_conversionType' : ''}${_currentColorPalette != null ? ' • ${_currentColorPalette!.name}' : ''} • ${_subtitleFontSize.round()} • ${_subtitleLineSpacing.toStringAsFixed(2)}',
+                        style: TextStyle(color: Colors.purple[200], fontSize: 11),
+                        overflow: TextOverflow.ellipsis,
+                      ),
+                    ),
+                    Text(
+                      _formatDuration(_totalDuration),
+                      style: const TextStyle(color: Colors.white70, fontSize: 12),
+                    ),
+                  ],
+                ),
+              ),
+              
+              const SizedBox(height: 8),
+              
+              Row(
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: [
+                  IconButton(
+                    icon: const Icon(Icons.text_decrease, color: Colors.white54),
+                    iconSize: 24,
+                    onPressed: _decreaseFontSize,
+                    tooltip: 'Decrease font size (↓)',
+                  ),
+                  IconButton(
+                    icon: const Icon(Icons.text_increase, color: Colors.white54),
+                    iconSize: 24,
+                    onPressed: _increaseFontSize,
+                    tooltip: 'Increase font size (↑)',
+                  ),
+                  const SizedBox(width: 8),
+                  IconButton(
+                    icon: const Icon(Icons.density_small, color: Colors.white54),
+                    iconSize: 24,
+                    onPressed: () {
+                      setState(() {
+                        _subtitleLineSpacing = ((_subtitleLineSpacing * 100).round() - 1) / 100;
+                        _subtitleLineSpacing = _subtitleLineSpacing.clamp(0.5, 2.5);
+                      });
+                    },
+                    tooltip: 'Decrease line spacing (⌃↓)',
+                  ),
+                  IconButton(
+                    icon: const Icon(Icons.density_large, color: Colors.white54),
+                    iconSize: 24,
+                    onPressed: () {
+                      setState(() {
+                        _subtitleLineSpacing = ((_subtitleLineSpacing * 100).round() + 1) / 100;
+                        _subtitleLineSpacing = _subtitleLineSpacing.clamp(0.5, 2.5);
+                      });
+                    },
+                    tooltip: 'Increase line spacing (⌃↑)',
+                  ),
+                  const SizedBox(width: 16),
+                  IconButton(
+                    icon: const Icon(Icons.replay_10, color: Colors.white54),
+                    iconSize: 32,
+                    onPressed: _skipBackward,
+                  ),
+                  const SizedBox(width: 16),
+                  IconButton(
+                    icon: Icon(
+                      _isPlaying ? Icons.pause_circle_filled : Icons.play_circle_filled,
+                      color: Colors.deepPurple,
+                    ),
+                    iconSize: 64,
+                    onPressed: _togglePlayPause,
+                  ),
+                  const SizedBox(width: 16),
+                  IconButton(
+                    icon: const Icon(Icons.forward_10, color: Colors.white54),
+                    iconSize: 32,
+                    onPressed: _skipForward,
+                  ),
+                  const SizedBox(width: 16),
+                  IconButton(
+                    icon: const Icon(Icons.remove, color: Colors.white54),
+                    iconSize: 24,
+                    onPressed: _decreaseSpeed,
+                    tooltip: 'Decrease speed [',
+                  ),
+                  Text(
+                    '${_playbackSpeed.toStringAsFixed(2)}x',
+                    style: const TextStyle(color: Colors.white70),
+                  ),
+                  IconButton(
+                    icon: const Icon(Icons.add, color: Colors.white54),
+                    iconSize: 24,
+                    onPressed: _increaseSpeed,
+                    tooltip: 'Increase speed ] ',
+                  ),
+                  IconButton(
+                    icon: const Icon(Icons.subtitles, color: Colors.white70),
+                    onPressed: _showSubtitlePreferencesDialog,
+                    tooltip: 'Subtitle preferences',
+                  ),
+                  IconButton(
+                    icon: const Icon(Icons.download, color: Colors.white70),
+                    onPressed: _showDownloadDialog,
+                    tooltip: 'Download audio (⇧D)',
+                  ),
+                  IconButton(
+                    icon: const Icon(Icons.link, color: Colors.white70),
+                    onPressed: _showYouTubeDialog,
+                    tooltip: 'YouTube URL (⇧Y)',
+                  ),
+                ],
+              ),
+            ],
+          ),
+        ),
+      ],
+    );
+  }
+
+  void _showDownloadDialog() {
+    showDialog(
+      context: context,
+      builder: (context) => DownloadOverlay(
+        youtubeUrl: _isYouTubeStream ? _currentYouTubeUrl : null,
+      ),
     );
   }
   
@@ -5425,10 +5915,19 @@ class _PlayerScreenState extends State<PlayerScreen> {
   }
 
   Future<void> _applyConversion() async {
-    if (_currentAudiobook == null || _subtitleFilePath == null) return;
+    if (_subtitleFilePath == null) {
+      print('_applyConversion: No subtitle file path');
+      return;
+    }
+    
+    if (_isDisposed || !mounted) return;
+    
+    print('_applyConversion: Converting $_subtitleFilePath with type $_conversionType');
       
     try {
       final content = await File(_subtitleFilePath!).readAsString();
+      if (_isDisposed || !mounted) return;
+      
       String convertedContent = content;
       
       switch (_conversionType) {
@@ -5456,7 +5955,12 @@ class _PlayerScreenState extends State<PlayerScreen> {
           break;
       }
       
+      if (_isDisposed || !mounted) return;
+      
       final subtitles = _parseVTT(convertedContent);
+      
+      if (_isDisposed || !mounted) return;
+      
       setState(() {
         _subtitles = subtitles;
       });
@@ -5467,9 +5971,14 @@ class _PlayerScreenState extends State<PlayerScreen> {
         final savedPosition = _currentPosition;
         
         await _skipToPreviousSubtitle();
+        if (_isDisposed || !mounted) return;
+        
         await Future.delayed(const Duration(milliseconds: 150));
+        if (_isDisposed || !mounted) return;
         
         await player.seek(savedPosition);
+        if (_isDisposed || !mounted) return;
+        
         setState(() {
           _currentPosition = savedPosition;
         });
@@ -5478,7 +5987,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
       
       _scheduleFrequencyGeneration();
       
-      if (mounted && _conversionType != 'none') {
+      if (mounted && !_isDisposed && _conversionType != 'none') {
         ScaffoldMessenger.of(context).showSnackBar(
           SnackBar(
             content: Text('Applied $_conversionType conversion'),
@@ -5488,7 +5997,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
       }
     } catch (e) {
       print('Error applying conversion: $e');
-      if (mounted) {
+      if (mounted && !_isDisposed) {
         ScaffoldMessenger.of(context).showSnackBar(
           SnackBar(
             content: Text('Failed to apply conversion: $e'),
@@ -5708,6 +6217,594 @@ class _PlayerScreenState extends State<PlayerScreen> {
         });
       }
     }
+  }
+
+  Future<void> _handleYouTubeUrl(String url) async {
+    if (!YouTubeService.isYouTubeUrl(url)) return;
+    
+    setState(() {
+      _isLoadingYouTube = true;
+      _currentYouTubeUrl = url;
+    });
+    
+    try {
+      if (!await YouTubeService.isYtdlpAvailable()) {
+        if (mounted) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            const SnackBar(
+              content: Text('yt-dlp not found. Install with: brew install yt-dlp'),
+              backgroundColor: Colors.red,
+              duration: Duration(seconds: 5),
+            ),
+          );
+        }
+        setState(() {
+          _isLoadingYouTube = false;
+        });
+        return;
+      }
+      
+      final title = await YouTubeService.getVideoTitle(url);
+     final channelName = await YouTubeService.getChannelName(url);
+      
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            content: Text('Loading: $title'),
+            duration: const Duration(seconds: 2),
+          ),
+        );
+      }
+      
+      final audioUrl = await YouTubeService.getAudioStreamUrl(url);
+      
+      if (audioUrl == null) {
+        throw Exception('Could not get audio stream URL');
+      }
+      
+      if (_currentAudiobook != null) {
+        final currentChapter = _currentAudiobook!.chapters[_currentChapterIndex];
+        if (!_shouldSkipTracking(path.basenameWithoutExtension(_currentAudiobook!.path))) {
+          _statsManager.recordChapterEnd(
+            path.basenameWithoutExtension(_currentAudiobook!.path),
+            currentChapter.title,
+          );
+          await _statsManager.flushCacheToLog();
+        }
+      }
+      
+      await player.stop();
+      
+      setState(() {
+        _currentAudiobook = null;
+        _isYouTubeStream = true;
+        _youtubeTitle = title;
+        _youtubeChannelName = channelName;
+        _subtitles = [];
+        _originalSubtitles = [];
+        _currentSubtitleText = '';
+        _currentSubtitleIndex = null;
+        _subtitleFilePath = null;
+        
+        _selectedFont = _defaultFont;
+        _conversionType = _defaultConversionType;
+        if (_defaultColorPalette != null) {
+          final palette = ColorPalette.presets.firstWhere(
+            (p) => p.name == _defaultColorPalette,
+            orElse: () => ColorPalette.presets.first,
+          );
+          _currentColorPalette = palette;
+          _selectedColorIndex = ColorPalette.presets.indexOf(palette);
+        }
+      });
+      
+      await player.open(Media(audioUrl));
+      await player.setRate(_playbackSpeed);
+      await player.play();
+      
+      _downloadYouTubeSubtitles(url, title);
+      
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            content: Text('Now playing: $title'),
+            backgroundColor: Colors.green,
+            duration: const Duration(seconds: 3),
+          ),
+        );
+      }
+    } catch (e) {
+      print('Error loading YouTube audio: $e');
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            content: Text('Failed to load YouTube audio: $e'),
+            backgroundColor: Colors.red,
+            duration: const Duration(seconds: 5),
+          ),
+        );
+      }
+    } finally {
+      setState(() {
+        _isLoadingYouTube = false;
+      });
+    }
+  }
+
+  Future<void> _loadSubtitlePreferences() async {
+    final prefs = await SubtitlePreferences.load();
+    setState(() {
+      _subtitlePreferences = prefs;
+    });
+  }
+  
+  Future<void> _showSubtitlePreferencesDialog() async {
+    final prefs = _subtitlePreferences;
+    
+    await showDialog(
+      context: context,
+      builder: (context) => StatefulBuilder(
+        builder: (context, setDialogState) => AlertDialog(
+          backgroundColor: const Color(0xFF2D2D2D),
+          title: const Text(
+            'Subtitle Language Preferences',
+            style: TextStyle(color: Colors.white),
+          ),
+          content: SizedBox(
+            width: 500,
+            height: 500,
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                const Text(
+                  'Default Language:',
+                  style: TextStyle(color: Colors.white70, fontSize: 14),
+                ),
+                const SizedBox(height: 8),
+                Container(
+                  padding: const EdgeInsets.symmetric(horizontal: 12),
+                  decoration: BoxDecoration(
+                    color: const Color(0xFF1E1E1E),
+                    borderRadius: BorderRadius.circular(8),
+                  ),
+                  child: DropdownButton<String>(
+                    value: prefs.defaultLanguage,
+                    isExpanded: true,
+                    dropdownColor: const Color(0xFF1E1E1E),
+                    style: const TextStyle(color: Colors.white),
+                    underline: Container(),
+                    items: SubtitlePreferences.availableLanguages.entries
+                        .map((entry) => DropdownMenuItem(
+                              value: entry.key,
+                              child: Text(entry.value),
+                            ))
+                        .toList(),
+                    onChanged: (value) {
+                      if (value != null) {
+                        setDialogState(() {
+                          prefs.defaultLanguage = value;
+                        });
+                      }
+                    },
+                  ),
+                ),
+                const SizedBox(height: 24),
+                const Text(
+                  'Enabled Languages (check up to 10):',
+                  style: TextStyle(color: Colors.white70, fontSize: 14),
+                ),
+                const SizedBox(height: 8),
+                Expanded(
+                  child: Container(
+                    padding: const EdgeInsets.all(12),
+                    decoration: BoxDecoration(
+                      color: Colors.black26,
+                      borderRadius: BorderRadius.circular(8),
+                    ),
+                    child: ListView(
+                      children: SubtitlePreferences.availableLanguages.entries.map((entry) {
+                        final isEnabled = prefs.enabledLanguages.contains(entry.key);
+                        return CheckboxListTile(
+                          title: Text(
+                            entry.value,
+                            style: const TextStyle(color: Colors.white),
+                          ),
+                          subtitle: Text(
+                            entry.key,
+                            style: const TextStyle(color: Colors.white54, fontSize: 11),
+                          ),
+                          value: isEnabled,
+                          onChanged: (value) {
+                            if (value == true && prefs.enabledLanguages.length < 10) {
+                              setDialogState(() {
+                                prefs.enabledLanguages.add(entry.key);
+                              });
+                            } else if (value == false) {
+                              setDialogState(() {
+                                prefs.enabledLanguages.remove(entry.key);
+                              });
+                            }
+                          },
+                          activeColor: Colors.deepPurple,
+                          contentPadding: EdgeInsets.zero,
+                        );
+                      }).toList(),
+                    ),
+                  ),
+                ),
+                const SizedBox(height: 8),
+                Text(
+                  '${prefs.enabledLanguages.length}/10 languages selected',
+                  style: TextStyle(
+                    color: prefs.enabledLanguages.length >= 10 ? Colors.orange : Colors.white54,
+                    fontSize: 12,
+                  ),
+                ),
+              ],
+            ),
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.pop(context),
+              child: const Text('Cancel'),
+            ),
+            ElevatedButton(
+              onPressed: () async {
+                await prefs.save();
+                setState(() {
+                  _subtitlePreferences = prefs;
+                });
+                if (mounted) {
+                  Navigator.pop(context);
+                  ScaffoldMessenger.of(context).showSnackBar(
+                    const SnackBar(
+                      content: Text('Subtitle preferences saved'),
+                      duration: Duration(seconds: 2),
+                    ),
+                  );
+                }
+              },
+              style: ElevatedButton.styleFrom(
+                backgroundColor: Colors.deepPurple,
+              ),
+              child: const Text('Save'),
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+  
+ Future<void> _downloadYouTubeSubtitles(String url, String title) async {
+   try {
+     print('=== Starting subtitle download for: $title ===');
+     
+     final tempDir = Directory.systemTemp.path;
+     final ytSubDir = path.join(tempDir, 'substitcher_yt_subs');
+     await Directory(ytSubDir).create(recursive: true);
+     
+     String selectedLang = _subtitlePreferences.defaultLanguage;
+     print('Attempting to download default language: $selectedLang');
+     
+     var subtitlePath = await YouTubeService.downloadAndFixSubtitles(
+       url,
+       ytSubDir,
+       lang: selectedLang,
+     );
+     
+     if (subtitlePath == null) {
+       print('Default language $selectedLang failed, showing language selection...');
+       
+       if (!mounted) return;
+       
+       final availableSubs = await YouTubeService.getAvailableSubtitles(
+         url,
+         _subtitlePreferences.enabledLanguages,
+       );
+       
+       final selected = await showDialog<String>(
+         context: context,
+         builder: (context) => AlertDialog(
+           backgroundColor: const Color(0xFF2D2D2D),
+           title: Row(
+             mainAxisAlignment: MainAxisAlignment.spaceBetween,
+             children: [
+               const Text(
+                 'Select Subtitle Language',
+                 style: TextStyle(color: Colors.white),
+               ),
+               IconButton(
+                 icon: const Icon(Icons.settings, color: Colors.white54, size: 20),
+                 onPressed: () {
+                   Navigator.pop(context);
+                   _showSubtitlePreferencesDialog();
+                 },
+                 tooltip: 'Configure languages',
+               ),
+             ],
+           ),
+           content: SizedBox(
+             width: 400,
+             child: Column(
+               mainAxisSize: MainAxisSize.min,
+               children: [
+                 Container(
+                   padding: const EdgeInsets.all(12),
+                   decoration: BoxDecoration(
+                     color: Colors.orange.withOpacity(0.2),
+                     borderRadius: BorderRadius.circular(8),
+                     border: Border.all(color: Colors.orange),
+                   ),
+                   child: Text(
+                     'Default language "$selectedLang" not available.\nSelect an alternative:',
+                     style: const TextStyle(color: Colors.orange, fontSize: 12),
+                     textAlign: TextAlign.center,
+                   ),
+                 ),
+                 const SizedBox(height: 16),
+                 Flexible(
+                   child: ListView.builder(
+                     shrinkWrap: true,
+                     itemCount: availableSubs.length,
+                     itemBuilder: (context, index) {
+                       final sub = availableSubs[index];
+                       return ListTile(
+                         title: Text(
+                           sub['name']!,
+                           style: const TextStyle(color: Colors.white),
+                         ),
+                         subtitle: Text(
+                           sub['code']!,
+                           style: const TextStyle(color: Colors.white54),
+                         ),
+                         onTap: () => Navigator.pop(context, sub['code']),
+                       );
+                     },
+                   ),
+                 ),
+               ],
+             ),
+           ),
+           actions: [
+             TextButton(
+               onPressed: () => Navigator.pop(context),
+               child: const Text('Cancel'),
+             ),
+           ],
+         ),
+       );
+       
+       if (selected == null) {
+         print('User cancelled subtitle selection');
+         return;
+       }
+       
+       selectedLang = selected;
+       print('User selected alternative: $selectedLang');
+       
+       subtitlePath = await YouTubeService.downloadAndFixSubtitles(
+         url,
+         ytSubDir,
+         lang: selectedLang,
+       );
+     }
+     
+     print('Subtitle path result: $subtitlePath');
+     
+     if (subtitlePath != null && mounted) {
+       print('Loading subtitle file: $subtitlePath');
+       final content = await File(subtitlePath).readAsString();
+       final originalSubtitles = _parseVTT(content);
+       print('Parsed ${originalSubtitles.length} subtitle cues');
+       
+       setState(() {
+         _originalSubtitles = originalSubtitles;
+         _subtitleFilePath = subtitlePath;
+         _paragraphItems = _createParagraphs(originalSubtitles);
+       });
+       
+       if (_conversionType != 'none' && _subtitleFilePath != null) {
+         print('Applying conversion: $_conversionType');
+         await _applyConversion();
+       } else {
+         setState(() {
+           _subtitles = originalSubtitles;
+         });
+       }
+       
+       _updateCurrentSubtitle();
+       _precalculateWordPositions();
+       
+       if (mounted) {
+         ScaffoldMessenger.of(context).showSnackBar(
+           SnackBar(
+             content: Text(
+               'Loaded ${_subtitles.length} subtitle cues ($selectedLang)${_conversionType != 'none' ? ' • $_conversionType' : ''}',
+             ),
+             duration: const Duration(seconds: 3),
+           ),
+         );
+       }
+     } else if (mounted) {
+       print('Failed to download subtitle');
+       ScaffoldMessenger.of(context).showSnackBar(
+         SnackBar(
+           content: Text('No $selectedLang subtitles available for this video'),
+           backgroundColor: Colors.orange,
+           duration: const Duration(seconds: 3),
+         ),
+       );
+     }
+   } catch (e, stackTrace) {
+     print('Error downloading YouTube subtitles: $e');
+     print('Stack trace: $stackTrace');
+     if (mounted) {
+       ScaffoldMessenger.of(context).showSnackBar(
+         SnackBar(
+           content: Text('Subtitle download failed: $e'),
+           backgroundColor: Colors.orange,
+           duration: const Duration(seconds: 3),
+         ),
+       );
+     }
+   }
+ }
+  
+  Future<void> _showYouTubeDialog() async {
+    final controller = TextEditingController();
+    
+    final clipboardData = await Clipboard.getData(Clipboard.kTextPlain);
+    if (clipboardData?.text != null && YouTubeService.isYouTubeUrl(clipboardData!.text!)) {
+      controller.text = clipboardData.text!;
+    }
+    
+    if (!mounted) return;
+    
+    final result = await showDialog<Map<String, dynamic>>(
+      context: context,
+      builder: (context) => Dialog(
+        backgroundColor: const Color(0xFF2D2D2D),
+        child: Container(
+          width: 700,
+          padding: const EdgeInsets.all(32),
+          child: Column(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              const Row(
+                children: [
+                  Icon(Icons.headphones, color: Colors.red, size: 40),
+                  SizedBox(width: 16),
+                  Text(
+                    'YouTube Audio',
+                    style: TextStyle(
+                      color: Colors.white,
+                      fontSize: 28,
+                      fontWeight: FontWeight.bold,
+                    ),
+                  ),
+                ],
+              ),
+              const SizedBox(height: 24),
+              const Text(
+                'Paste a YouTube URL to stream audio only\nSubtitles will be downloaded automatically if available',
+                style: TextStyle(color: Colors.white70, fontSize: 16),
+                textAlign: TextAlign.center,
+              ),
+              const SizedBox(height: 32),
+              TextField(
+                controller: controller,
+                autofocus: true,
+                style: const TextStyle(color: Colors.white, fontSize: 16),
+                decoration: InputDecoration(
+                  prefixIcon: const Icon(Icons.link, color: Colors.white54),
+                  suffixIcon: IconButton(
+                    icon: const Icon(Icons.content_paste, color: Colors.white54),
+                    onPressed: () async {
+                      final data = await Clipboard.getData(Clipboard.kTextPlain);
+                      if (data?.text != null) {
+                        controller.text = data!.text!;
+                      }
+                    },
+                  ),
+                  hintText: 'https://youtube.com/watch?v=...',
+                  hintStyle: const TextStyle(color: Colors.white38),
+                  filled: true,
+                  fillColor: const Color(0xFF1E1E1E),
+                  border: OutlineInputBorder(
+                    borderRadius: BorderRadius.circular(12),
+                    borderSide: BorderSide.none,
+                  ),
+                  contentPadding: const EdgeInsets.symmetric(
+                    horizontal: 20,
+                    vertical: 16,
+                  ),
+                ),
+                onSubmitted: (value) {
+                  if (YouTubeService.isYouTubeUrl(value)) {
+                    Navigator.pop(context, {'action': 'stream', 'url': value});
+                  }
+                },
+              ),
+              const SizedBox(height: 32),
+              const Text(
+                'Requires yt-dlp installed on your system\n\n'
+                '(Mac) brew install yt-dlp\n\n'
+                '(Linux) sudo apt install yt-dlp\n\n'
+                '(Windows) choco install yt-dlp',
+                style: TextStyle(color: Colors.white38, fontSize: 12),
+                textAlign: TextAlign.center,
+              ),
+              const SizedBox(height: 32),
+              Row(
+                mainAxisAlignment: MainAxisAlignment.end,
+                children: [
+                  TextButton(
+                    onPressed: () => Navigator.pop(context),
+                    child: const Text(
+                      'Cancel',
+                      style: TextStyle(color: Colors.white54, fontSize: 16),
+                    ),
+                  ),
+                  const SizedBox(width: 16),
+                  OutlinedButton.icon(
+                    icon: const Icon(Icons.download, size: 20),
+                    label: const Text('Download Only'),
+                    onPressed: () {
+                      Navigator.pop(context, {'action': 'download'});
+                    },
+                    style: OutlinedButton.styleFrom(
+                      foregroundColor: Colors.deepPurple,
+                      side: const BorderSide(color: Colors.deepPurple),
+                      padding: const EdgeInsets.symmetric(
+                        horizontal: 24,
+                        vertical: 16,
+                      ),
+                    ),
+                  ),
+                  const SizedBox(width: 16),
+                  ElevatedButton.icon(
+                    icon: const Icon(Icons.play_arrow, size: 24),
+                    label: const Text('Stream Audio'),
+                    onPressed: () {
+                      final url = controller.text.trim();
+                      if (YouTubeService.isYouTubeUrl(url)) {
+                        Navigator.pop(context, {'action': 'stream', 'url': url});
+                      } else {
+                        ScaffoldMessenger.of(context).showSnackBar(
+                          const SnackBar(
+                            content: Text('Please enter a valid YouTube URL'),
+                            backgroundColor: Colors.deepPurple,
+                          ),
+                        );
+                      }
+                    },
+                    style: ElevatedButton.styleFrom(
+                      backgroundColor: Colors.red.shade900,
+                      foregroundColor: Colors.white,
+                      padding: const EdgeInsets.symmetric(
+                        horizontal: 32,
+                        vertical: 16,
+                      ),
+                      textStyle: const TextStyle(fontSize: 16),
+                    ),
+                  ),
+                ],
+              ),
+            ],
+          ),
+        ),
+      ),
+    );
+    
+    if (result != null) {
+      if (result['action'] == 'stream' && result['url'] != null) {
+        await _handleYouTubeUrl(result['url']);
+      } else if (result['action'] == 'download') {
+        _showDownloadDialog();
+      }
+    }
+    
+    _focusNode.requestFocus();
   }
   
   String _formatDurationCompact(Duration d) {
@@ -5986,6 +7083,16 @@ class _PlayerScreenState extends State<PlayerScreen> {
                   children: [
                     const SizedBox(width: 16),
                     ElevatedButton.icon(
+                      onPressed: _showYouTubeDialog,
+                      icon: const Icon(Icons.headphones),
+                      label: const Text('YouTube Audio (⇧Y)'),
+                      style: ElevatedButton.styleFrom(
+                        padding: const EdgeInsets.symmetric(horizontal: 32, vertical: 16),
+                        textStyle: const TextStyle(fontSize: 18),
+                      ),
+                    ),
+                    const SizedBox(width: 16),
+                    ElevatedButton.icon(
                       onPressed: () {
                         Navigator.push(
                           context,
@@ -6018,7 +7125,8 @@ class _WindowCloseListener extends WindowListener {
   _WindowCloseListener({required this.onClose});
   
   @override
-  void onWindowClose() {
-    onClose();
-  }
+    Future<void> onWindowClose() async {
+      await onClose();
+      exit(0);
+    }
 }

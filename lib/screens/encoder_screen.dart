@@ -502,15 +502,13 @@ class _EncoderScreenState extends State<EncoderScreen> {
       return;
     }
     
-    if (_files.length > 999) {
-      _showError('Chapter count exceeds 999 limit!\nCurrent: ${_files.length} chapters');
-      return;
-    }
-    
     final totalHours = _totalDuration.inHours;
-    if (totalHours >= 100) {
-      _showError('Total duration exceeds 100 hours limit!\nCurrent: $totalHours hours');
-      return;
+    final needsSplit = totalHours >= 100 || _files.length > 999;
+    
+    if (needsSplit) {
+      final splitPlan = _calculateSplitPlan();
+      final shouldContinue = await _showSplitConfirmationDialog(splitPlan);
+      if (!shouldContinue) return;
     }
     
     final startTime = DateTime.now();
@@ -641,31 +639,42 @@ class _EncoderScreenState extends State<EncoderScreen> {
         _files.length,
         (i) => encodedFilesMap[i]!,
       );
-
+  
       Duration totalEncodedDuration = Duration.zero;
       for (final encodedPath in encodedFiles) {
         final dur = await _ffmpeg.getAudioDuration(encodedPath);
         totalEncodedDuration += dur;
       }
       
-      setState(() {
-        _statusMessage = 'Creating final audiobook...';
-        _progress = 0.99;
-      });
+      final splits = _calculateAudiobookSplits(encodedFiles);
       
-      final finalPath = path.join(outputDir, '${config.author} - ${config.title}.opus');
-      
-      await _ffmpeg.concatenateWithChapters(
-        opusFiles: encodedFiles,
-        outputPath: finalPath,
-        config: config,
-        onProgress: (message) {
-          setState(() => _statusMessage = message);
-        },
-      );
+      for (int splitIndex = 0; splitIndex < splits.length; splitIndex++) {
+        final split = splits[splitIndex];
+        final splitTitle = splits.length > 1 
+            ? '${config.title}_${splitIndex + 1}'
+            : config.title;
+        
+        setState(() {
+          _statusMessage = splits.length > 1
+              ? 'Creating audiobook ${splitIndex + 1}/${splits.length}...'
+              : 'Creating final audiobook...';
+          _progress = 0.99;
+        });
+        
+        final finalPath = path.join(outputDir, '${config.author} - $splitTitle.opus');
+        
+        await _ffmpeg.concatenateWithChapters(
+          opusFiles: split['files'],
+          outputPath: finalPath,
+          config: config.copyWith(title: splitTitle),
+          onProgress: (message) {
+            setState(() => _statusMessage = message);
+          },
+        );
+      }
   
       final originalDuration = _totalDuration;
-      final finalDuration = await _calculateFinalDuration(encodedFiles);
+      final finalDuration = totalEncodedDuration;
       
       setState(() {
         _encoding = false;
@@ -679,14 +688,16 @@ class _EncoderScreenState extends State<EncoderScreen> {
       
       if (mounted) {
         setState(() {
-          _lastEncodedPath = finalPath;
+          _lastEncodedPath = path.join(outputDir, '${config.author} - ${config.title}${splits.length > 1 ? '_1' : ''}.opus');
           _lastEncodingTime = '${minutes}m ${seconds}s';
           _lastOriginalDuration = originalDuration;
           _lastFinalDuration = finalDuration;
         });
       }
       
-      _showSuccess('Audiobook created successfully!');
+      _showSuccess(splits.length > 1 
+          ? 'Created ${splits.length} audiobooks successfully!'
+          : 'Audiobook created successfully!');
       
     } catch (e) {
       setState(() {
@@ -696,18 +707,265 @@ class _EncoderScreenState extends State<EncoderScreen> {
       _showError('Encoding failed: $e');
     }
   }
-
-  Future<Duration> _calculateFinalDuration(List<String> opusFiles) async {
-    Duration total = Duration.zero;
-    for (final file in opusFiles) {
-      try {
-        final duration = await _ffmpeg.getAudioDuration(file);
-        total += duration;
-      } catch (e) {
-        print('Error getting duration for $file: $e');
+  
+  Map<String, dynamic> _calculateSplitPlan() {
+    final totalHours = _totalDuration.inHours;
+    final totalChapters = _files.length;
+    
+    int numBooks = 1;
+    int targetHoursPerBook = totalHours;
+    
+    if (totalHours >= 100) {
+      numBooks = ((totalHours + 99) / 100).ceil();
+      targetHoursPerBook = (totalHours / numBooks).ceil();
+    }
+    
+    if (totalChapters > 999) {
+      final booksNeededForChapters = ((totalChapters + 998) / 999).ceil();
+      if (booksNeededForChapters > numBooks) {
+        numBooks = booksNeededForChapters;
+        targetHoursPerBook = (totalHours / numBooks).ceil();
       }
     }
-    return total;
+    
+    return {
+      'numBooks': numBooks,
+      'targetHoursPerBook': targetHoursPerBook,
+      'totalHours': totalHours,
+      'totalChapters': totalChapters,
+    };
+  }
+  
+  Future<bool> _showSplitConfirmationDialog(Map<String, dynamic> plan) async {
+    final result = await showDialog<bool>(
+      context: context,
+      builder: (context) => AlertDialog(
+        backgroundColor: const Color(0xFF1E1E1E),
+        title: const Row(
+          children: [
+            Icon(Icons.splitscreen, color: Colors.orange),
+            SizedBox(width: 8),
+            Text(
+              'Multiple Audiobooks Required',
+              style: TextStyle(color: Colors.white),
+            ),
+          ],
+        ),
+        content: Container(
+          constraints: const BoxConstraints(maxWidth: 500),
+          child: Column(
+            mainAxisSize: MainAxisSize.min,
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Text(
+                'Your content will be split into ${plan['numBooks']} audiobooks:',
+                style: const TextStyle(color: Colors.white70, fontSize: 14),
+              ),
+              const SizedBox(height: 16),
+              Container(
+                padding: const EdgeInsets.all(16),
+                decoration: BoxDecoration(
+                  color: Colors.black26,
+                  borderRadius: BorderRadius.circular(8),
+                ),
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Row(
+                      mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                      children: [
+                        const Text(
+                          'Total Duration:',
+                          style: TextStyle(color: Colors.white54, fontSize: 12),
+                        ),
+                        Text(
+                          '${plan['totalHours']}h',
+                          style: const TextStyle(color: Colors.lightBlue, fontSize: 12, fontWeight: FontWeight.bold),
+                        ),
+                      ],
+                    ),
+                    const SizedBox(height: 8),
+                    Row(
+                      mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                      children: [
+                        const Text(
+                          'Total Chapters:',
+                          style: TextStyle(color: Colors.white54, fontSize: 12),
+                        ),
+                        Text(
+                          '${plan['totalChapters']}',
+                          style: const TextStyle(color: Colors.lightBlue, fontSize: 12, fontWeight: FontWeight.bold),
+                        ),
+                      ],
+                    ),
+                    const SizedBox(height: 8),
+                    Row(
+                      mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                      children: [
+                        const Text(
+                          'Target per book:',
+                          style: TextStyle(color: Colors.white54, fontSize: 12),
+                        ),
+                        Text(
+                          '~${plan['targetHoursPerBook']}h',
+                          style: const TextStyle(color: Colors.green, fontSize: 12, fontWeight: FontWeight.bold),
+                        ),
+                      ],
+                    ),
+                  ],
+                ),
+              ),
+              const SizedBox(height: 16),
+              Container(
+                padding: const EdgeInsets.all(12),
+                decoration: BoxDecoration(
+                  color: Colors.blue.withOpacity(0.1),
+                  borderRadius: BorderRadius.circular(8),
+                  border: Border.all(color: Colors.blue.withOpacity(0.3)),
+                ),
+                child: const Row(
+                  children: [
+                    Icon(Icons.info_outline, color: Colors.blue, size: 16),
+                    SizedBox(width: 8),
+                    Expanded(
+                      child: Text(
+                        'Splits will avoid breaking multi-part chapters when possible',
+                        style: TextStyle(color: Colors.blue, fontSize: 11),
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+            ],
+          ),
+        ),
+        actions: [
+          TextButton(
+            onPressed: () => Navigator.pop(context, false),
+            child: const Text('Cancel'),
+          ),
+          ElevatedButton(
+            onPressed: () => Navigator.pop(context, true),
+            style: ElevatedButton.styleFrom(
+              backgroundColor: Colors.deepPurple,
+            ),
+            child: const Text('Continue'),
+          ),
+        ],
+      ),
+    );
+    
+    return result ?? false;
+  }
+  
+  List<Map<String, dynamic>> _calculateAudiobookSplits(List<String> encodedFiles) {
+    final totalDuration = _totalDuration;
+    final totalHours = totalDuration.inHours;
+    final totalChapters = encodedFiles.length;
+    
+    if (totalHours < 100 && totalChapters <= 999) {
+      return [
+        {
+          'files': encodedFiles,
+          'startIndex': 0,
+          'endIndex': encodedFiles.length - 1,
+        }
+      ];
+    }
+    
+    int numBooks = 1;
+    if (totalHours >= 100) {
+      numBooks = ((totalHours + 99) / 100).ceil();
+    }
+    if (totalChapters > 999) {
+      final booksNeededForChapters = ((totalChapters + 998) / 999).ceil();
+      if (booksNeededForChapters > numBooks) {
+        numBooks = booksNeededForChapters;
+      }
+    }
+    
+    final targetDurationPerBook = totalDuration ~/ numBooks;
+    final splits = <Map<String, dynamic>>[];
+    
+    int currentStartIndex = 0;
+    
+    for (int bookIndex = 0; bookIndex < numBooks; bookIndex++) {
+      final isLastBook = bookIndex == numBooks - 1;
+      int currentEndIndex = currentStartIndex;
+      Duration bookDuration = Duration.zero;
+      
+      for (int i = currentStartIndex; i < _files.length; i++) {
+        final chapterDuration = _files[i].duration;
+        final potentialDuration = bookDuration + chapterDuration;
+        
+        if (isLastBook) {
+          currentEndIndex = i;
+          bookDuration = potentialDuration;
+        } else {
+          if (potentialDuration > targetDurationPerBook && i > currentStartIndex) {
+            final smartEndIndex = _findSmartSplitPoint(i - 1, targetDurationPerBook, bookDuration);
+            currentEndIndex = smartEndIndex;
+            
+            bookDuration = Duration.zero;
+            for (int j = currentStartIndex; j <= currentEndIndex; j++) {
+              bookDuration += _files[j].duration;
+            }
+            break;
+          } else {
+            currentEndIndex = i;
+            bookDuration = potentialDuration;
+          }
+        }
+      }
+      
+      final chapterCount = currentEndIndex - currentStartIndex + 1;
+      if (chapterCount > 999) {
+        print('WARNING: Split has $chapterCount chapters, exceeding 999 limit');
+      }
+      if (bookDuration.inHours >= 100) {
+        print('WARNING: Split has ${bookDuration.inHours} hours, at/exceeding 100 hour limit');
+      }
+      
+      splits.add({
+        'files': encodedFiles.sublist(currentStartIndex, currentEndIndex + 1),
+        'startIndex': currentStartIndex,
+        'endIndex': currentEndIndex,
+        'duration': bookDuration,
+        'chapterCount': chapterCount,
+      });
+      
+      currentStartIndex = currentEndIndex + 1;
+      
+      if (currentStartIndex >= _files.length) break;
+    }
+    
+    return splits;
+  }
+  
+  int _findSmartSplitPoint(int proposedEndIndex, Duration targetDuration, Duration currentDuration) {
+    final lookbackRange = 10.clamp(0, proposedEndIndex);
+    
+    for (int i = proposedEndIndex; i > proposedEndIndex - lookbackRange && i >= 0; i--) {
+      final nextTitle = i + 1 < _files.length ? _files[i + 1].displayTitle.toLowerCase() : '';
+      
+      final isMultiPartPattern = RegExp(r'part\s*\d+|pt\s*\d+|\(\d+\)|\[\d+\]', caseSensitive: false);
+      final hasPartNumber = isMultiPartPattern.hasMatch(nextTitle);
+      
+      if (!hasPartNumber) {
+        Duration adjustedDuration = Duration.zero;
+        for (int j = 0; j <= i; j++) {
+          adjustedDuration += _files[j].duration;
+        }
+        
+        final variance = (adjustedDuration - targetDuration).abs();
+        if (variance.inHours <= 5) {
+          print('Smart split: Adjusted from index $proposedEndIndex to $i to avoid breaking multi-part chapter');
+          return i;
+        }
+      }
+    }
+    
+    return proposedEndIndex;
   }
   
   String _shortenPath(String path) {
