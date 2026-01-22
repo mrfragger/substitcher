@@ -633,7 +633,7 @@ class PlayerControls extends StatelessWidget {
             itemBuilder: (context) => [
               const PopupMenuItem(
                 value: Duration(seconds: -1), 
-                child: Text('Off (Z)'),
+                child: Text('Off (⇧Z)'),
               ),
               const PopupMenuItem(
                 value: Duration(minutes: 15),

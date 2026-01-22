@@ -2,13 +2,26 @@
 
 Opus chaptered encoder and player with colored subtitles and fancy fonts. Transcribe to vtt subtitles, search through all Chapters, History, Playlist, Bookmarks, Fonts, Colors, Words, Subs, Stats. Dictionary word lookup.
 
+![](images/audiobook.jpg)
+
 ### Encoding and Transcribing
 - Encode 16kbps audiobooks which is 4x smaller than 64kbps
 - 32kpbs only use for audio like Quran recitations and it's about 2.5x larger in file size due to vbr
-- opus is a superior audio codec compared to mp3 or aac at low bitrates
+- opus (2012) is a superior audio codec compared to mp3 (1993) or aac (1997) at low bitrates
 - max 100 hours and 999 chapters per audiobook
+- if exceed limits will offer to automatically split into multiple audiobooks
 - Title Case chapter titles and regular expression replace
 - Transcribe with 30 second segements to reduce hallucination with whisper.cpp
+- Remove silence
+    ```
+      -26dB deep cleaning of silence
+      -30dB aggressive removes almost all silence
+      -34dB medium removes quite a bit (default)
+      -38dB [recommended] a tad conservative removing silence
+      -42dB quite conservative and just removes a bit
+      -46dB kinda too strict and barely removes stuff
+
+- Hiss (reduction) preview a random audio to compare
 - Repeats vtt to remove repeated words, capitalize pronouns, Islamic terms and honorifics
 - Batch Trim Audio beginning and end
 - Extract chapters with names from audiobooks
@@ -112,6 +125,7 @@ Opus chaptered encoder and player with colored subtitles and fancy fonts. Transc
 - free (free for commerical use)
 - each missing and each alternate font, subs must be converted
 - ligature demo fonts, subs need converting only once
+- alternates don't work with mixed CJK and Latin text on same subtitle line
 
 ![](images/fonts.jpg)
 
@@ -121,6 +135,7 @@ Opus chaptered encoder and player with colored subtitles and fancy fonts. Transc
 - 20 and 12 colors per palette
 - 90 Simple Palettes (one font color with a shadow color)
 - monochromatic, food palettes
+- letters work with alternates but not with ligatures
 
 ![](images/colors.jpg)
 
@@ -209,3 +224,21 @@ Android  universal (arm64-v8a + armeabi-v7a + x86_64) (untested, feedback welcom
 iOS (may publish in future)
 - if needs subs (just one color, one font) nPlayer $5
 - vlc iOS/android works but no subs for opus audiobooks, set audio to resume
+
+### Opus audio codec
+Why Opus outperforms MP3 and AAC at very low bitrates (e.g. ~16 kb/s)
+
+#### Hybrid Architecture
+- **SILK** (linear predictive coding) for speech-like signals.
+
+#### Low Algorithmic Delay and Frame Flexibility
+- Supports frame sizes from **2.5 ms** up to **60 ms**, allowing very low latency if needed.
+- Fine control of bitrate and delay trade-offs further improves coding of speech/music at low rates.
+
+### `-application voip` (OPUS_APPLICATION_VOIP)
+-  gives best quality at a given bitrate for voice signals. It enhances the input signal by high-pass filtering and emphasizing formants and harmonics. 
+
+### Miscellaneous
+- never will support, music, videos as it's an audiobook only
+- unlikely will get light theme
+- 

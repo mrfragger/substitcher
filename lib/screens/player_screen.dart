@@ -5422,6 +5422,8 @@ class _PlayerScreenState extends State<PlayerScreen> {
       onCloseYouTube: () async {
         await player.stop();
         setState(() {
+          _currentAudiobook = null;
+          _currentChapterIndex = 0;
           _isYouTubeStream = false;
           _youtubeTitle = null;
           _youtubeChannelName = null;
@@ -5429,6 +5431,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
           _subtitles = [];
           _originalSubtitles = [];
           _currentSubtitleText = '';
+          _currentSubtitleIndex = null;
           _subtitleFilePath = null;
         });
       },
