@@ -6068,60 +6068,33 @@ class _PlayerScreenState extends State<PlayerScreen> {
   }
 
   Future<void> _downloadYouTubeSubtitles(String url, String title) async {
-     try {
-       print('=== Starting subtitle download for: $title ===');
-       
-       final tempDir = Directory.systemTemp.path;
-       final ytSubDir = path.join(tempDir, 'substitcher_yt_subs');
-       await Directory(ytSubDir).create(recursive: true);
-       
-       String? subtitlePath;
-       String selectedLang = _subtitlePreferences.defaultLanguage;
-       
-      if (_subtitlePreferences.autoTranslate) {
-        print('Auto-translate enabled: translating to ${_subtitlePreferences.translateTarget}');
+    try {
+      print('=== Starting subtitle download for: $title ===');
+      
+      final tempDir = Directory.systemTemp.path;
+      final ytSubDir = path.join(tempDir, 'substitcher_yt_subs');
+      await Directory(ytSubDir).create(recursive: true);
+      
+      String? subtitlePath;
+      String selectedLang = _subtitlePreferences.defaultLanguage;
+      
+      print('Attempting to download default language: $selectedLang');
+      
+      subtitlePath = await YouTubeService.downloadAndFixSubtitles(
+        url,
+        ytSubDir,
+        lang: selectedLang,
+      );
+      
+      if (subtitlePath == null) {
+        print('Default language $selectedLang failed, showing language selection...');
         
-        subtitlePath = await YouTubeService.downloadAutoTranslatedSubtitles(
+        if (!mounted) return;
+        
+        final availableSubs = await YouTubeService.getAvailableSubtitles(
           url,
-          ytSubDir,
-          '',
-          _subtitlePreferences.translateTarget,
+          _subtitlePreferences.enabledLanguages,
         );
-        
-        if (subtitlePath != null) {
-          selectedLang = '${_subtitlePreferences.translateTarget} (auto-translated)';
-        } else {
-          if (mounted) {
-            ScaffoldMessenger.of(context).showSnackBar(
-              SnackBar(
-                content: Text('Auto-translate to ${_subtitlePreferences.translateTarget} failed - no auto-captions available'),
-                backgroundColor: Colors.orange,
-                duration: const Duration(seconds: 3),
-              ),
-            );
-          }
-          return;
-        }
-      } else {
-  
-         print('Attempting to download default language: $selectedLang');
-         
-         subtitlePath = await YouTubeService.downloadAndFixSubtitles(
-           url,
-           ytSubDir,
-           lang: selectedLang,
-         );
-       }
-       
-       if (subtitlePath == null) {
-         print('Default language $selectedLang failed, showing language selection...');
-         
-         if (!mounted) return;
-         
-         final availableSubs = await YouTubeService.getAvailableSubtitles(
-           url,
-           _subtitlePreferences.enabledLanguages,
-         );
          
          final selected = await showDialog<String>(
            context: context,
@@ -6152,7 +6125,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
                    Container(
                      padding: const EdgeInsets.all(12),
                      decoration: BoxDecoration(
-                       color: Colors.orange.withOpacity(0.2),
+                       color: Colors.orange.withValues(alpha: 0.2),
                        borderRadius: BorderRadius.circular(8),
                        border: Border.all(color: Colors.orange),
                      ),
@@ -6469,7 +6442,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 const Text(
-                  'Default Language:',
+                  'Default Language: (auto-downloads subs if available)',
                   style: TextStyle(color: Colors.white70, fontSize: 14),
                 ),
                 const SizedBox(height: 8),
@@ -6498,79 +6471,6 @@ class _PlayerScreenState extends State<PlayerScreen> {
                         });
                       }
                     },
-                  ),
-                ),
-                
-                const SizedBox(height: 24),
-                
-                Container(
-                  padding: const EdgeInsets.all(12),
-                  decoration: BoxDecoration(
-                    color: prefs.autoTranslate 
-                        ? Colors.green.withOpacity(0.1) 
-                        : Colors.transparent,
-                    borderRadius: BorderRadius.circular(8),
-                    border: Border.all(
-                      color: prefs.autoTranslate ? Colors.green : Colors.white24,
-                    ),
-                  ),
-                  child: Column(
-                    crossAxisAlignment: CrossAxisAlignment.start,
-                    children: [
-                      CheckboxListTile(
-                        title: const Text(
-                          'Auto-Translate Subtitles',
-                          style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold),
-                        ),
-                        subtitle: const Text(
-                          'Use YouTube\'s auto-translation feature',
-                          style: TextStyle(color: Colors.white54, fontSize: 11),
-                        ),
-                        value: prefs.autoTranslate,
-                        onChanged: (value) {
-                          setDialogState(() {
-                            prefs.autoTranslate = value ?? false;
-                          });
-                        },
-                        activeColor: Colors.green,
-                        contentPadding: EdgeInsets.zero,
-                      ),
-                      if (prefs.autoTranslate) ...[
-                        const SizedBox(height: 12),
-                        const Text(
-                          'Translate to:',
-                          style: TextStyle(color: Colors.white70, fontSize: 14),
-                        ),
-                        const SizedBox(height: 8),
-                        Container(
-                          padding: const EdgeInsets.symmetric(horizontal: 12),
-                          decoration: BoxDecoration(
-                            color: const Color(0xFF1E1E1E),
-                            borderRadius: BorderRadius.circular(8),
-                          ),
-                          child: DropdownButton<String>(
-                            value: prefs.translateTarget,
-                            isExpanded: true,
-                            dropdownColor: const Color(0xFF1E1E1E),
-                            style: const TextStyle(color: Colors.white),
-                            underline: Container(),
-                            items: SubtitlePreferences.availableLanguages.entries
-                                .map((entry) => DropdownMenuItem(
-                                      value: entry.key,
-                                      child: Text(entry.value),
-                                    ))
-                                .toList(),
-                            onChanged: (value) {
-                              if (value != null) {
-                                setDialogState(() {
-                                  prefs.translateTarget = value;
-                                });
-                              }
-                            },
-                          ),
-                        ),
-                      ],
-                    ],
                   ),
                 ),
                 
@@ -6739,9 +6639,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
               const SizedBox(height: 32),
               const Text(
                 'Requires yt-dlp installed on your system\n\n'
-                '(Mac) brew install yt-dlp\n\n'
-                '(Linux) sudo apt install yt-dlp\n\n'
-                '(Windows) choco install yt-dlp',
+                '(Mac) brew install yt-dlp (Linux) sudo apt install yt-dlp (Windows) choco install yt-dlp',
                 style: TextStyle(color: Colors.white38, fontSize: 12),
                 textAlign: TextAlign.center,
               ),

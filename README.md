@@ -192,6 +192,13 @@ Opus chaptered encoder and player with colored subtitles and fancy fonts. Transc
 ![](images/ankitoopus1.jpg)
 ![](images/ankitoopus2.jpg)
 
+### Youtube
+- handles videos or audio to stream
+- displays subs automatically if avaiable based on default language
+- choose up to 10 languages to prompt to get sub in
+-  English, Afrikaans, Albanian (Shqip), Amharic (አማርኛ), Arabic (العربية), Armenian (Հայերեն), Azerbaijani (Azərbaycan), Belarusian (Беларуская), Bengali (বাংলা), Bhojpuri (भोजपुरी), Bosnian (Bosanski), Bulgarian (Български), Burmese (မြန်မာ), Catalan (Català), Chinese - Simplified (简体), Chinese - Traditional (繁體), Chinese - Cantonese (粵語), Croatian (Hrvatski), Czech (Čeština), Danish (Dansk), Dutch (Nederlands), Estonian (Eesti), Filipino (Tagalog), Finnish (Suomi), French (Français), Georgian (ქართული), German (Deutsch), Greek (Ελληνικά), Gujarati (ગુજરાતી), Hausa (هَرْشٜىٰن هَوْسَا), Hebrew (עברית), Hebrew (עברית), Hindi (हिन्दी), Hungarian (Magyar), Icelandic (Íslenska), Indonesian (Bahasa Indonesia), Italian (Italiano), Japanese (日本語), Javanese (Basa Jawa), Kannada (ಕನ್ನಡ), Kazakh (Қазақ тілі), Korean (한국어), Kyrgyz (Кыргызча), Lao (ລາວ), Latvian (Latviešu), Lithuanian (Lietuvių), Macedonian (Македонски), Malay (Bahasa Melayu), Malayalam (മലയാളം), Maltese (Malti), Marathi (मराठी), Mongolian (Монгол), Nepali (नेपाली), Norwegian (Norsk bokmål), Persian (فارسی), Polish (Polski), Portuguese (Português), Portuguese - Brazil (Português Brasil), Portuguese - Portugal (Português Portugal), Punjabi (ਪੰਜਾਬੀ), Romanian (Română), Russian (Русский), Serbian (Српски), Slovak (Slovenčina), Slovenian (Slovenščina), Spanish (Español), Swahili (Kiswahili), Swedish (Svenska), Tajik (Тоҷикӣ), Tamil (தமிழ்), Telugu (తెలుగు), Thai (ไทย), Turkish (Türkçe), Turkmen (Türkmençe), Ukrainian (Українська), Urdu (اردو), Uyghur (ئۇيغۇرچە), Uzbek (Oʻzbekcha), Vietnamese (Tiếng Việt)
+- can download video or audio and playlists
+
 ### Installation
 macOS (arm64 Silicon m1,m2,m3,m4,m26) after install dmg in Terminal do
 ```bash
@@ -226,19 +233,21 @@ iOS (may publish in future)
 - vlc iOS/android works but no subs for opus audiobooks, set audio to resume
 
 ### Opus audio codec
-Why Opus outperforms MP3 and AAC at very low bitrates (e.g. ~16 kb/s)
+Why Opus outperforms MP3 and AAC at very low bitrates (like ~16 kb/s)
 
 #### Hybrid Architecture
 - **SILK** (linear predictive coding) for speech-like signals.
 
 #### Low Algorithmic Delay and Frame Flexibility
-- Supports frame sizes from **2.5 ms** up to **60 ms**, allowing very low latency if needed.
-- Fine control of bitrate and delay trade-offs further improves coding of speech/music at low rates.
+- Supports frame sizes from **2.5 ms** up to **60 ms**, allowing very low latency if needed
+- Fine control of bitrate and delay trade-offs further improves coding of speech/music at low rates
 
 ### `-application voip` (OPUS_APPLICATION_VOIP)
--  gives best quality at a given bitrate for voice signals. It enhances the input signal by high-pass filtering and emphasizing formants and harmonics. 
+-  gives best quality at a given bitrate for voice signals. It enhances the input signal by high-pass filtering and emphasizing formants and harmonics
 
 ### Miscellaneous
 - never will support, music, videos as it's an audiobook only
 - unlikely will get light theme
-- 
+- built a audio/sub extract and used original subs but got out of synch due to padding when re-encoding
+- so if do again will just extract audio segments and keep together those in chapters, must transcribe for subs though
+- developed since 2022 but in Dec 2025 decided to port from mpv front-end lua scripts with uosc ui and remove video editing, LUTs to a flutter / dart app (not just Mac/Linux anymore) and purely focus an audiobook player
