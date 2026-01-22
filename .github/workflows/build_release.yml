@@ -56,58 +56,58 @@ jobs:
           name: macos-build
           path: SubStitcher-macOS-arm64.dmg
 
-  # build-linux-appimage:
-  #   runs-on: ubuntu-latest
-  #   steps:
-  #     - uses: actions/checkout@v4
+  build-linux-appimage:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
       
-  #     - uses: subosito/flutter-action@v2
-  #       with:
-  #         channel: 'stable'
+      - uses: subosito/flutter-action@v2
+        with:
+          channel: 'stable'
       
-  #     - name: Install dependencies
-  #       run: |
-  #         sudo apt-get update
-  #         sudo apt-get install -y clang cmake ninja-build pkg-config libgtk-3-dev liblzma-dev libmpv-dev mpv
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y clang cmake ninja-build pkg-config libgtk-3-dev liblzma-dev libmpv-dev mpv
       
-  #     - name: Download Linux FFmpeg
-  #       uses: dawidd6/action-download-artifact@v2
-  #       with:
-  #         workflow: build_ffmpeg.yml
-  #         name: ffmpeg-linux
-  #         path: temp-bin/
+      - name: Download Linux FFmpeg
+        uses: dawidd6/action-download-artifact@v2
+        with:
+          workflow: build_ffmpeg.yml
+          name: ffmpeg-linux
+          path: temp-bin/
       
-  #     - name: Download Linux Whisper
-  #       uses: dawidd6/action-download-artifact@v2
-  #       with:
-  #         workflow: build_whisper.yml
-  #         name: whisper-linux
-  #         path: temp-whisper/
+      - name: Download Linux Whisper
+        uses: dawidd6/action-download-artifact@v2
+        with:
+          workflow: build_whisper.yml
+          name: whisper-linux
+          path: temp-whisper/
       
-  #     - name: Build Linux
-  #       run: |
-  #         flutter pub get
-  #         flutter build linux --release
+      - name: Build Linux
+        run: |
+          flutter pub get
+          flutter build linux --release
           
-  #         mkdir -p build/linux/x64/release/bundle/bin
-  #         mkdir -p build/linux/x64/release/bundle/whisper
+          mkdir -p build/linux/x64/release/bundle/bin
+          mkdir -p build/linux/x64/release/bundle/whisper
           
-  #         cp temp-bin/* build/linux/x64/release/bundle/bin/
-  #         cp temp-whisper/* build/linux/x64/release/bundle/whisper/
+          cp temp-bin/* build/linux/x64/release/bundle/bin/
+          cp temp-whisper/* build/linux/x64/release/bundle/whisper/
           
-  #         chmod +x build/linux/x64/release/bundle/bin/*
-  #         chmod +x build/linux/x64/release/bundle/whisper/*            
+          chmod +x build/linux/x64/release/bundle/bin/*
+          chmod +x build/linux/x64/release/bundle/whisper/*            
       
-  #     - name: Create AppImage
-  #       run: |
-  #         chmod +x scripts/build_appimage.sh
-  #         ./scripts/build_appimage.sh
+      - name: Create AppImage
+        run: |
+          chmod +x scripts/build_appimage.sh
+          ./scripts/build_appimage.sh
       
-  #     - name: Upload Linux AppImage artifact
-  #       uses: actions/upload-artifact@v4
-  #       with:
-  #         name: linux-appimage-build
-  #         path: substitcher-*.AppImage
+      - name: Upload Linux AppImage artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: linux-appimage-build
+          path: substitcher-*.AppImage
 
   build-windows:
     runs-on: windows-latest
@@ -303,7 +303,7 @@ jobs:
   #         path: build/app/outputs/flutter-apk/substitcher-android-universal.apk
 
   create-release:
-    needs: [build-macos, build-windows]
+    needs: [build-macos, build-windows, build-linux-appimage]
     # needs: [build-macos, build-linux-appimage, build-windows, build-android]
 
     runs-on: ubuntu-latest

@@ -573,15 +573,18 @@ class _PlayerScreenState extends State<PlayerScreen> {
   }
 
   void _checkChapterBoundary(Duration position) {
-    if (_currentAudiobook == null) return;
+    if (_currentAudiobook == null || _currentAudiobook!.chapters.isEmpty) return;
+    
     final chapter = _currentAudiobook!.chapters[_currentChapterIndex];
     
     if (position >= chapter.endTime && _currentChapterIndex < _currentAudiobook!.chapters.length - 1) {
-      final currentChapter = _currentAudiobook!.chapters[_currentChapterIndex];
-      _statsManager.recordChapterEnd(
-        path.basenameWithoutExtension(_currentAudiobook!.path),
-        currentChapter.title,
-      );
+      if (!_isYouTubeStream) {
+        final currentChapter = _currentAudiobook!.chapters[_currentChapterIndex];
+        _statsManager.recordChapterEnd(
+          path.basenameWithoutExtension(_currentAudiobook!.path),
+          currentChapter.title,
+        );
+      }
       
       if (!_playedChapters.contains(_currentChapterIndex)) {
         _playedChapters.add(_currentChapterIndex);
@@ -592,7 +595,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
         return;
       }
       
-      if (_shuffleEnabled) {
+      if (_shuffleEnabled && !_isYouTubeStream) {
         final unplayedChapters = List.generate(_currentAudiobook!.chapters.length, (i) => i)
             .where((i) => !_playedChapters.contains(i) && !_shouldSkipChapter(_currentAudiobook!.chapters[i].title))
             .toList();
@@ -619,18 +622,24 @@ class _PlayerScreenState extends State<PlayerScreen> {
         }
       } else {
         int nextIndex = _currentChapterIndex + 1;
-        while (nextIndex < _currentAudiobook!.chapters.length) {
-          if (!_shouldSkipChapter(_currentAudiobook!.chapters[nextIndex].title)) {
-            setState(() {
-              _currentChapterIndex = nextIndex;
-            });
-            break;
+        if (!_isYouTubeStream) {
+          while (nextIndex < _currentAudiobook!.chapters.length) {
+            if (!_shouldSkipChapter(_currentAudiobook!.chapters[nextIndex].title)) {
+              setState(() {
+                _currentChapterIndex = nextIndex;
+              });
+              break;
+            }
+            nextIndex++;
           }
-          nextIndex++;
+        } else {
+          setState(() {
+            _currentChapterIndex = nextIndex;
+          });
         }
       }
       
-      if (_currentAudiobook != null && !_shouldSkipTracking(path.basenameWithoutExtension(_currentAudiobook!.path))) {
+      if (_currentAudiobook != null && !_isYouTubeStream && !_shouldSkipTracking(path.basenameWithoutExtension(_currentAudiobook!.path))) {
         _statsManager.recordChapterStart();
       }
     }
@@ -1251,14 +1260,23 @@ class _PlayerScreenState extends State<PlayerScreen> {
   }
 
   Future<void> _saveToHistory() async {
-    if (_currentAudiobook == null) return;
+    if (_currentAudiobook == null || _isYouTubeStream) return;
+    
     _history.removeWhere((h) => h.audiobookPath == _currentAudiobook!.path);
-    final currentChapter = _currentAudiobook!.chapters[_currentChapterIndex];
+    
+    final chapterTitle = _currentAudiobook!.chapters.isEmpty 
+        ? 'No chapters'
+        : _currentAudiobook!.chapters[_currentChapterIndex].title;
+    
+    final chapterIndex = _currentAudiobook!.chapters.isEmpty 
+        ? 0 
+        : _currentChapterIndex;
+    
     _history.insert(0, HistoryItem(
       audiobookPath: _currentAudiobook!.path,
       audiobookTitle: _currentAudiobook!.title,
-      chapterTitle: currentChapter.title,
-      lastChapter: _currentChapterIndex,
+      chapterTitle: chapterTitle,
+      lastChapter: chapterIndex,
       lastPosition: _currentPosition,
       lastPlayed: DateTime.now(),
       shuffleEnabled: _shuffleEnabled,
@@ -4010,61 +4028,96 @@ class _PlayerScreenState extends State<PlayerScreen> {
         selectedPath = result.files.first.path!;
       }
   
-      if (_currentAudiobook != null && _currentAudiobook!.path != selectedPath) {
-        final currentChapter = _currentAudiobook!.chapters[_currentChapterIndex];
-        await _statsManager.recordChapterEnd(
-          path.basenameWithoutExtension(_currentAudiobook!.path),
-          currentChapter.title,
-        );
-        if (!_shouldSkipTracking(path.basenameWithoutExtension(_currentAudiobook!.path))) {
-          await _statsManager.flushCacheToLog();
-        }
-      }
-      
-      final metadata = await _ffmpeg.loadAudiobook(selectedPath);
-      final fileSize = await _getFileSize(selectedPath);
-      await player.stop();
-      final historyItem = _history.firstWhere(
-        (h) => h.audiobookPath == selectedPath,
-        orElse: () => HistoryItem(
-          audiobookPath: selectedPath!,
-          audiobookTitle: metadata.title,
-          chapterTitle: metadata.chapters[0].title,
-          lastChapter: 0,
-          lastPosition: Duration.zero,
-          lastPlayed: DateTime.now(),
-          shuffleEnabled: false,
-          playedChapters: [],
-        ),
-      );
-      
-      int chapterToLoad = historyItem.lastChapter;
-      Duration positionToLoad = historyItem.lastPosition;
-      
-      final loadedChapter = metadata.chapters[historyItem.lastChapter];
-      if (_shouldSkipChapter(loadedChapter.title)) {
-        print('Loaded chapter should be skipped, finding next valid chapter...');
+      if (!await File(selectedPath).exists()) {
+        print('File no longer exists: $selectedPath');
         
-        for (int i = historyItem.lastChapter; i < metadata.chapters.length; i++) {
-          if (!_shouldSkipChapter(metadata.chapters[i].title)) {
-            chapterToLoad = i;
-            positionToLoad = metadata.chapters[i].startTime;
-            print('Will skip to chapter ${i + 1}: ${metadata.chapters[i].title}');
-            break;
+        final historyIndex = _history.indexWhere((h) => h.audiobookPath == selectedPath);
+        if (historyIndex != -1) {
+          await _removeFromHistory(historyIndex);
+          
+          if (mounted) {
+            ScaffoldMessenger.of(context).showSnackBar(
+              const SnackBar(
+                content: Text('File no longer exists and was removed from history'),
+                duration: Duration(seconds: 2),
+                backgroundColor: Colors.orange,
+              ),
+            );
           }
         }
+        return;
       }
-      
-      setState(() {
-        _currentAudiobook = metadata;
-        _currentChapterIndex = chapterToLoad;
-        _currentPosition = positionToLoad;
-        _fileSize = fileSize;
-        _shuffleEnabled = historyItem.shuffleEnabled;
-        _playedChapters = List.from(historyItem.playedChapters);
-        _frequencyItems = [];
-        _isAnalyzingFrequencies = false;
-      });
+  
+  if (_currentAudiobook != null && _currentAudiobook!.path != selectedPath) {
+    if (_currentAudiobook!.chapters.isNotEmpty) {
+      final currentChapter = _currentAudiobook!.chapters[_currentChapterIndex];
+      await _statsManager.recordChapterEnd(
+        path.basenameWithoutExtension(_currentAudiobook!.path),
+        currentChapter.title,
+      );
+      if (!_shouldSkipTracking(path.basenameWithoutExtension(_currentAudiobook!.path))) {
+        await _statsManager.flushCacheToLog();
+      }
+    }
+  }
+  
+  final metadata = await _ffmpeg.loadAudiobook(selectedPath);
+  final fileSize = await _getFileSize(selectedPath);
+  await player.stop();
+  
+  if (metadata.chapters.isEmpty) {
+    if (mounted) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(
+          content: Text('Error: Audiobook has no chapters'),
+          backgroundColor: Colors.red,
+        ),
+      );
+    }
+    return;
+  }
+  
+  final historyItem = _history.firstWhere(
+    (h) => h.audiobookPath == selectedPath,
+    orElse: () => HistoryItem(
+      audiobookPath: selectedPath!,
+      audiobookTitle: metadata.title,
+      chapterTitle: metadata.chapters[0].title,
+      lastChapter: 0,
+      lastPosition: Duration.zero,
+      lastPlayed: DateTime.now(),
+      shuffleEnabled: false,
+      playedChapters: [],
+    ),
+  );
+  
+  int chapterToLoad = historyItem.lastChapter.clamp(0, metadata.chapters.length - 1);
+  Duration positionToLoad = historyItem.lastPosition;
+  
+  final loadedChapter = metadata.chapters[chapterToLoad];
+  if (_shouldSkipChapter(loadedChapter.title)) {
+    print('Loaded chapter should be skipped, finding next valid chapter...');
+    
+    for (int i = chapterToLoad; i < metadata.chapters.length; i++) {
+      if (!_shouldSkipChapter(metadata.chapters[i].title)) {
+        chapterToLoad = i;
+        positionToLoad = metadata.chapters[i].startTime;
+        print('Will skip to chapter ${i + 1}: ${metadata.chapters[i].title}');
+        break;
+      }
+    }
+  }
+  
+  setState(() {
+    _currentAudiobook = metadata;
+    _currentChapterIndex = chapterToLoad;
+    _currentPosition = positionToLoad;
+    _fileSize = fileSize;
+    _shuffleEnabled = historyItem.shuffleEnabled;
+    _playedChapters = List.from(historyItem.playedChapters);
+    _frequencyItems = [];
+    _isAnalyzingFrequencies = false;
+  });
       
       await _loadFontSettings(selectedPath);
       await player.open(Media(selectedPath));
@@ -4250,841 +4303,840 @@ class _PlayerScreenState extends State<PlayerScreen> {
   }
 
   @override
-    Widget build(BuildContext context) {
-      if (_showEncoderScreen) {
-        return Scaffold(
-          resizeToAvoidBottomInset: false,
-          backgroundColor: Colors.black,
-          body: Stack(
-            children: [
-              const EncoderScreen(),
-              Positioned(
-                top: 8,
-                right: 8,
-                child: IconButton(
-                  icon: const Icon(Icons.close, color: Colors.white),
-                  iconSize: 32,
-                  onPressed: () {
-                    setState(() {
-                      _showEncoderScreen = false;
-                    });
-                    _focusNode.requestFocus();
-                  },
-                ),
+  Widget build(BuildContext context) {
+    if (_showEncoderScreen) {
+      return Scaffold(
+        resizeToAvoidBottomInset: false,
+        backgroundColor: Colors.black,
+        body: Stack(
+          children: [
+            const EncoderScreen(),
+            Positioned(
+              top: 8,
+              right: 8,
+              child: IconButton(
+                icon: const Icon(Icons.close, color: Colors.white),
+                iconSize: 32,
+                onPressed: () {
+                  setState(() {
+                    _showEncoderScreen = false;
+                  });
+                  _focusNode.requestFocus();
+                },
               ),
-            ],
-          ),
-        );
-      }
-      return Focus(
-        focusNode: _focusNode,
-        autofocus: true,
-        onKeyEvent: (node, event) {
-          if (event is KeyDownEvent && event.logicalKey == LogicalKeyboardKey.enter && _showPanel && _panelMode == PanelMode.subs && _searchFocusNode.hasFocus) {
-            _searchSubtitles(_searchQuery);
-            return KeyEventResult.handled;
-          }
-          
-          if (_searchFocusNode.hasFocus || 
-              _excludeFocusNode.hasFocus || 
-              _skipChapterFocusNode.hasFocus || 
-              _subsSearchFocusNode.hasFocus || 
-              _chapterSearchFocusNode.hasFocus || 
-              _chapterExcludeFocusNode.hasFocus || 
-              _statsSearchFocusNode.hasFocus || 
-              _skipTrackingFocusNode.hasFocus) {
-            return KeyEventResult.ignored;
-          }
-          
-          if (event is KeyDownEvent || event is KeyRepeatEvent) {
-            if (event.logicalKey == LogicalKeyboardKey.keyV && 
-                (HardwareKeyboard.instance.isMetaPressed || HardwareKeyboard.instance.isControlPressed)) {
-              return KeyEventResult.ignored;
-            }
-
-            if (event.logicalKey == LogicalKeyboardKey.escape && event is KeyDownEvent) {
-              if (_showPanel) {
-                setState(() {
-                  _showPanel = false;
-                });
-                return KeyEventResult.handled;
-              }
-            } else if (event.logicalKey == LogicalKeyboardKey.keyC && event is KeyDownEvent) {
-              setState(() {
-                _showPanel = true;
-                _panelMode = PanelMode.chapters;
-              });
-              _scrollToCurrentChapter();
-              return KeyEventResult.handled;
-           } else if (event.logicalKey == LogicalKeyboardKey.keyU && 
-                      HardwareKeyboard.instance.isShiftPressed && event is KeyDownEvent) {
-             _copyCurrentSubtitleInMemory();
-             return KeyEventResult.handled;
-           } else if (event.logicalKey == LogicalKeyboardKey.keyU && event is KeyDownEvent) {
-             _copyCurrentSubtitle();
-             return KeyEventResult.handled;
-            } else if (event.logicalKey == LogicalKeyboardKey.keyH && event is KeyDownEvent) {
-              setState(() {
-                _showPanel = true;
-                _panelMode = PanelMode.history;
-              });
-              _scrollToTopOfHistory();
-              return KeyEventResult.handled;
-            } else if (event.logicalKey == LogicalKeyboardKey.keyP && event is KeyDownEvent) {
-              setState(() {
-                _showPanel = true;
-                _panelMode = PanelMode.playlist;
-              });
-              _scrollToCurrentPlaylistItem();
-              return KeyEventResult.handled;
-            } else if (event.logicalKey == LogicalKeyboardKey.keyB && event is KeyDownEvent) {
-              setState(() {
-                _showPanel = true;
-                _panelMode = PanelMode.bookmarks;
-              });
-              _scrollToTopOfHistory();
-              return KeyEventResult.handled;
-            } else if (event.logicalKey == LogicalKeyboardKey.keyF && event is KeyDownEvent) {
-              setState(() {
-                _showPanel = true;
-                _panelMode = PanelMode.fonts;
-              });
-              return KeyEventResult.handled;
-            } else if (event.logicalKey == LogicalKeyboardKey.keyO && event is KeyDownEvent) {
-              setState(() {
-                _showPanel = true;
-                _panelMode = PanelMode.colors;
-              });
-              return KeyEventResult.handled;
-            } else if (event.logicalKey == LogicalKeyboardKey.keyW && event is KeyDownEvent) {
-              setState(() {
-                _showPanel = true;
-                _panelMode = PanelMode.words;
-              });
-              return KeyEventResult.handled;
-            } else if (event.logicalKey == LogicalKeyboardKey.keyS && event is KeyDownEvent) {
-              setState(() {
-                _showPanel = true;
-                _panelMode = PanelMode.subs;
-              });
-              return KeyEventResult.handled;
-            } else if (event.logicalKey == LogicalKeyboardKey.keyT && event is KeyDownEvent) {
-              setState(() {
-                _showPanel = true;
-                _panelMode = PanelMode.stats;
-              });
-              return KeyEventResult.handled;
-            } else if (event.logicalKey == LogicalKeyboardKey.slash && event is KeyDownEvent) {
-              if (_showPanel) {
-                if (_panelMode == PanelMode.subs) {
-                  _searchFocusNode.requestFocus();
-                } else if (_panelMode != PanelMode.words) {
-                  _searchFocusNode.requestFocus();
-                }
-              }
-              return KeyEventResult.handled;
-            } else if (event.logicalKey == LogicalKeyboardKey.backspace && 
-                       (HardwareKeyboard.instance.isControlPressed || HardwareKeyboard.instance.isMetaPressed) &&
-                       event is KeyDownEvent) {
-              if (_showPanel && _panelMode != PanelMode.words) {
-                _searchController.clear();
-                _excludeController.clear();
-                setState(() {
-                  _searchQuery = '';
-                  _excludeTerms = '';
-                });
-                if (_panelMode == PanelMode.subs) {
-                  _subsSearchController.clear();
-                  setState(() {
-                    _subsSearchQuery = '';
-                    _subtitleSearchResults = [];
-                  });
-                }
-              }
-              return KeyEventResult.handled;
-            } else if (event.logicalKey == LogicalKeyboardKey.keyK && event is KeyDownEvent) {
-              _adhanClockService.stopAdhan();
-              return KeyEventResult.handled;
-            } else if (event.logicalKey == LogicalKeyboardKey.keyG && event is KeyDownEvent) {
-              if (HardwareKeyboard.instance.isShiftPressed) {
-                setState(() {
-                  _pauseMode = PauseMode.disabled;
-                  _nextPauseTime = null;
-                  _pauseModeTimer?.cancel();
-                });
-                if (mounted) {
-                  ScaffoldMessenger.of(context).showSnackBar(
-                    const SnackBar(
-                      content: Text('Pause Mode: Disabled'),
-                      duration: Duration(seconds: 1),
-                    ),
-                  );
-                }
-              } else {
-                setState(() {
-                  _pauseMode = PauseMode.pause2s;
-                  if (_currentSubtitleIndex != null && _currentSubtitleIndex! < _subtitles.length) {
-                    final cue = _subtitles[_currentSubtitleIndex!];
-                    _nextPauseTime = cue.endTime - const Duration(milliseconds: 200);
-                  }
-                });
-                if (mounted) {
-                  ScaffoldMessenger.of(context).showSnackBar(
-                    const SnackBar(
-                      content: Text('Pause Mode: 2s'),
-                      duration: Duration(seconds: 1),
-                    ),
-                  );
-                }
-              }
-              return KeyEventResult.handled;
-            } else if (event.logicalKey == LogicalKeyboardKey.keyL && event is KeyDownEvent) {
-              _openAudiobook();
-              return KeyEventResult.handled;
-            } else if (event.logicalKey == LogicalKeyboardKey.keyJ && event is KeyDownEvent) {
-              _openAudiobookDirectory();
-              return KeyEventResult.handled;
-            } else if (event.logicalKey == LogicalKeyboardKey.keyR && event is KeyDownEvent) {
-              _copyChaptersList();
-              return KeyEventResult.handled;
-            } else if (event.logicalKey == LogicalKeyboardKey.keyI && event is KeyDownEvent) {
-              _copyCurrentMetadata();
-              return KeyEventResult.handled;
-            } else if (event.logicalKey == LogicalKeyboardKey.keyM && event is KeyDownEvent) {
-              setState(() {
-                _showAdhanOverlay = !_showAdhanOverlay;
-              });
-              return KeyEventResult.handled;
-            } else if (event.logicalKey == LogicalKeyboardKey.period && 
-                     event is KeyDownEvent) {
-              setState(() {
-                _hideChapterTitle = !_hideChapterTitle;
-              });
-              return KeyEventResult.handled;
-            } else if (event.logicalKey == LogicalKeyboardKey.bracketLeft && event is KeyDownEvent) {
-              _decreaseSpeed();
-              return KeyEventResult.handled;
-            } else if (event.logicalKey == LogicalKeyboardKey.bracketRight && event is KeyDownEvent) {
-              _increaseSpeed();
-              return KeyEventResult.handled;
-            } else if (event.logicalKey == LogicalKeyboardKey.keyY && 
-                     HardwareKeyboard.instance.isShiftPressed && 
-                     event is KeyDownEvent) {
-              if (Platform.isAndroid || Platform.isIOS) {
-                ScaffoldMessenger.of(context).showSnackBar(
-                  const SnackBar(
-                    content: Text('YouTube audio streaming is only available on desktop'),
-                    duration: Duration(seconds: 2),
-                  ),
-                );
-              } else {
-                _showYouTubeDialog();
-              }
-              return KeyEventResult.handled;
-            } else if (event.logicalKey == LogicalKeyboardKey.keyY && event is KeyDownEvent) {
-              _toggleFullscreen();
-              return KeyEventResult.handled;
-            } else if (event.logicalKey == LogicalKeyboardKey.keyZ && 
-                     HardwareKeyboard.instance.isShiftPressed && event is KeyDownEvent) {
-              _setSleepTimer(null);
-              return KeyEventResult.handled;
-            } else if (event.logicalKey == LogicalKeyboardKey.keyZ && event is KeyDownEvent) {
-              _setSleepTimer(Duration.zero);
-              return KeyEventResult.handled;
-            } else if (event.logicalKey == LogicalKeyboardKey.keyQ && event is KeyDownEvent) {
-              _setCurrentAsDefault();
-              return KeyEventResult.handled;
-            } else if (event.logicalKey == LogicalKeyboardKey.keyA && event is KeyDownEvent) {
-              _applyDefaultSettings();
-              return KeyEventResult.handled;
-            } else if (event.logicalKey == LogicalKeyboardKey.space) {
-              _togglePlayPause();
-              return KeyEventResult.handled;
-            } else if (event.logicalKey == LogicalKeyboardKey.backquote && event is KeyDownEvent) {
-              if (_showPanel) {
-                setState(() {
-                  _panelCollapsed = !_panelCollapsed;
-                });
-              }
-              return KeyEventResult.handled;
-            } else if (event.logicalKey == LogicalKeyboardKey.keyE) {
-              setState(() {
-                _showEncoderScreen = true;
-              });
-              return KeyEventResult.handled;
-            } else if (event.logicalKey == LogicalKeyboardKey.keyD) {
-              if (HardwareKeyboard.instance.isShiftPressed) {
-                _showDownloadDialog();
-                return KeyEventResult.handled;
-              }
-              if (event is KeyDownEvent) {
-                if (_currentSubtitleText.isNotEmpty) {
-                  if (!_showWordOverlay) {
-                    if (_isPlaying) {
-                      player.pause();
-                    }
-                    if (_pauseMode != PauseMode.dictionary) {
-                      setState(() {
-                        _pauseMode = PauseMode.dictionary;
-                        if (_currentSubtitleIndex != null && _currentSubtitleIndex! < _subtitles.length) {
-                          final cue = _subtitles[_currentSubtitleIndex!];
-                          _nextPauseTime = cue.endTime - const Duration(milliseconds: 200);
-                        }
-                      });
-                    }
-                  }
-                  setState(() {
-                    _showWordOverlay = !_showWordOverlay;
-                  });
-                  if (!_showWordOverlay && _pauseMode == PauseMode.dictionary) {
-                    setState(() {
-                      _pauseMode = PauseMode.disabled;
-                    });
-                  }
-                }
-              }
-              return KeyEventResult.handled;
-           } else if (event.logicalKey == LogicalKeyboardKey.arrowUp) {
-             if (HardwareKeyboard.instance.isControlPressed) {
-               setState(() {
-                 _subtitleLineSpacing = ((_subtitleLineSpacing * 100).round() + 1) / 100;
-                 _subtitleLineSpacing = _subtitleLineSpacing.clamp(0.5, 2.5);
-               });
-               return KeyEventResult.handled;
-             } else if (HardwareKeyboard.instance.isShiftPressed) {
-               return KeyEventResult.ignored;
-             } else if (_showPanel && _panelMode == PanelMode.colors) {
-               _navigateColors(-1);
-               return KeyEventResult.handled;
-             } else if (_showPanel && _panelMode == PanelMode.fonts) {
-               _navigateFonts(-1);
-               return KeyEventResult.handled;
-             } else {
-               _increaseFontSize();
-               return KeyEventResult.handled;
-             }
-           } else if (event.logicalKey == LogicalKeyboardKey.arrowDown) {
-             if (HardwareKeyboard.instance.isControlPressed) {
-               setState(() {
-                 _subtitleLineSpacing = ((_subtitleLineSpacing * 100).round() - 1) / 100;
-                 _subtitleLineSpacing = _subtitleLineSpacing.clamp(0.5, 2.5);
-               });
-               return KeyEventResult.handled;
-             } else if (HardwareKeyboard.instance.isShiftPressed) {
-               return KeyEventResult.ignored;
-             } else if (_showPanel && _panelMode == PanelMode.colors) {
-               _navigateColors(1);
-               return KeyEventResult.handled;
-             } else if (_showPanel && _panelMode == PanelMode.fonts) {
-               _navigateFonts(1);
-               return KeyEventResult.handled;
-             } else {
-               _decreaseFontSize();
-               return KeyEventResult.handled;
-             }
-            } else if (event.logicalKey == LogicalKeyboardKey.arrowLeft) {
-              if (HardwareKeyboard.instance.isShiftPressed) {
-                _previousChapter();
-                return KeyEventResult.handled;
-              } else if (_subtitles.isNotEmpty) {
-                _skipToPreviousSubtitle();
-              } else {
-                _skipBackward3();
-              }
-              return KeyEventResult.handled;
-            } else if (event.logicalKey == LogicalKeyboardKey.arrowRight) {
-              if (HardwareKeyboard.instance.isShiftPressed) {
-                _nextChapter();
-                return KeyEventResult.handled;
-              } else if (_subtitles.isNotEmpty) {
-                _skipToNextSubtitle();
-              } else {
-                _skipForward3();
-              }
-              return KeyEventResult.handled;
-            } else if (event.logicalKey == LogicalKeyboardKey.keyN && event is KeyDownEvent) {
-              _addBookmark();
-              return KeyEventResult.handled;
-            } else if (event.logicalKey == LogicalKeyboardKey.keyV && event is KeyDownEvent) {
-              _openSubtitleManager();
-              return KeyEventResult.handled;
-            } else if (_showPanel && _panelMode == PanelMode.bookmarks) {
-              if (event.logicalKey == LogicalKeyboardKey.digit1 || event.logicalKey == LogicalKeyboardKey.numpad1) {
-                _jumpToPinnedBookmark(1);
-                return KeyEventResult.handled;
-              } else if (event.logicalKey == LogicalKeyboardKey.digit2 || event.logicalKey == LogicalKeyboardKey.numpad2) {
-                _jumpToPinnedBookmark(2);
-                return KeyEventResult.handled;
-              } else if (event.logicalKey == LogicalKeyboardKey.digit3 || event.logicalKey == LogicalKeyboardKey.numpad3) {
-                _jumpToPinnedBookmark(3);
-                return KeyEventResult.handled;
-              } else if (event.logicalKey == LogicalKeyboardKey.digit4 || event.logicalKey == LogicalKeyboardKey.numpad4) {
-                _jumpToPinnedBookmark(4);
-                return KeyEventResult.handled;
-              } else if (event.logicalKey == LogicalKeyboardKey.digit5 || event.logicalKey == LogicalKeyboardKey.numpad5) {
-                _jumpToPinnedBookmark(5);
-                return KeyEventResult.handled;
-              } else if (event.logicalKey == LogicalKeyboardKey.digit6 || event.logicalKey == LogicalKeyboardKey.numpad6) {
-                _jumpToPinnedBookmark(6);
-                return KeyEventResult.handled;
-              } else if (event.logicalKey == LogicalKeyboardKey.digit7 || event.logicalKey == LogicalKeyboardKey.numpad7) {
-                _jumpToPinnedBookmark(7);
-                return KeyEventResult.handled;
-              } else if (event.logicalKey == LogicalKeyboardKey.digit8 || event.logicalKey == LogicalKeyboardKey.numpad8) {
-                _jumpToPinnedBookmark(8);
-                return KeyEventResult.handled;
-              } else if (event.logicalKey == LogicalKeyboardKey.digit9 || event.logicalKey == LogicalKeyboardKey.numpad9) {
-                _jumpToPinnedBookmark(9);
-                return KeyEventResult.handled;
-              }
-            } else if (_showPanel && _panelMode == PanelMode.history) {
-              if (event.logicalKey == LogicalKeyboardKey.digit1 || event.logicalKey == LogicalKeyboardKey.numpad1) {
-                _jumpToHistoryItem(0);
-                return KeyEventResult.handled;
-              } else if (event.logicalKey == LogicalKeyboardKey.digit2 || event.logicalKey == LogicalKeyboardKey.numpad2) {
-                _jumpToHistoryItem(1);
-                return KeyEventResult.handled;
-              } else if (event.logicalKey == LogicalKeyboardKey.digit3 || event.logicalKey == LogicalKeyboardKey.numpad3) {
-                _jumpToHistoryItem(2);
-                return KeyEventResult.handled;
-              } else if (event.logicalKey == LogicalKeyboardKey.digit4 || event.logicalKey == LogicalKeyboardKey.numpad4) {
-                _jumpToHistoryItem(3);
-                return KeyEventResult.handled;
-              } else if (event.logicalKey == LogicalKeyboardKey.digit5 || event.logicalKey == LogicalKeyboardKey.numpad5) {
-                _jumpToHistoryItem(4);
-                return KeyEventResult.handled;
-              } else if (event.logicalKey == LogicalKeyboardKey.digit6 || event.logicalKey == LogicalKeyboardKey.numpad6) {
-                _jumpToHistoryItem(5);
-                return KeyEventResult.handled;
-              } else if (event.logicalKey == LogicalKeyboardKey.digit7 || event.logicalKey == LogicalKeyboardKey.numpad7) {
-                _jumpToHistoryItem(6);
-                return KeyEventResult.handled;
-              } else if (event.logicalKey == LogicalKeyboardKey.digit8 || event.logicalKey == LogicalKeyboardKey.numpad8) {
-                _jumpToHistoryItem(7);
-                return KeyEventResult.handled;
-              } else if (event.logicalKey == LogicalKeyboardKey.digit9 || event.logicalKey == LogicalKeyboardKey.numpad9) {
-                _jumpToHistoryItem(8);
-                return KeyEventResult.handled;
-              }
-            } else if (_showPanel && _panelMode == PanelMode.playlist) {
-              if (event.logicalKey == LogicalKeyboardKey.digit1 || event.logicalKey == LogicalKeyboardKey.numpad1) {
-                _jumpToPlaylistItem(0);
-                return KeyEventResult.handled;
-              } else if (event.logicalKey == LogicalKeyboardKey.digit2 || event.logicalKey == LogicalKeyboardKey.numpad2) {
-                _jumpToPlaylistItem(1);
-                return KeyEventResult.handled;
-              } else if (event.logicalKey == LogicalKeyboardKey.digit3 || event.logicalKey == LogicalKeyboardKey.numpad3) {
-                _jumpToPlaylistItem(2);
-                return KeyEventResult.handled;
-              } else if (event.logicalKey == LogicalKeyboardKey.digit4 || event.logicalKey == LogicalKeyboardKey.numpad4) {
-                _jumpToPlaylistItem(3);
-                return KeyEventResult.handled;
-              } else if (event.logicalKey == LogicalKeyboardKey.digit5 || event.logicalKey == LogicalKeyboardKey.numpad5) {
-                _jumpToPlaylistItem(4);
-                return KeyEventResult.handled;
-              } else if (event.logicalKey == LogicalKeyboardKey.digit6 || event.logicalKey == LogicalKeyboardKey.numpad6) {
-                _jumpToPlaylistItem(5);
-                return KeyEventResult.handled;
-              } else if (event.logicalKey == LogicalKeyboardKey.digit7 || event.logicalKey == LogicalKeyboardKey.numpad7) {
-                _jumpToPlaylistItem(6);
-                return KeyEventResult.handled;
-              } else if (event.logicalKey == LogicalKeyboardKey.digit8 || event.logicalKey == LogicalKeyboardKey.numpad8) {
-                _jumpToPlaylistItem(7);
-                return KeyEventResult.handled;
-              } else if (event.logicalKey == LogicalKeyboardKey.digit9 || event.logicalKey == LogicalKeyboardKey.numpad9) {
-                _jumpToPlaylistItem(8);
-                return KeyEventResult.handled;
-              }
-            } else if (event.logicalKey == LogicalKeyboardKey.keyX && event is KeyDownEvent) {
-              if (_primarySubtitlePath != null || _secondarySubtitlePath != null) {
-                setState(() {
-                  final temp = _primarySubtitlePath;
-                  _primarySubtitlePath = _secondarySubtitlePath;
-                  _secondarySubtitlePath = temp;
-                  
-                  _subtitleFilePath = _primarySubtitlePath;
-                  _secondarySubtitleFilePath = _secondarySubtitlePath;
-                  
-                  final tempSubtitles = _subtitles;
-                  final tempText = _currentSubtitleText;
-                  final tempIndex = _currentSubtitleIndex;
-                  
-                  _subtitles = _secondarySubtitles;
-                  _currentSubtitleText = _secondarySubtitleText;
-                  _currentSubtitleIndex = _currentSecondarySubtitleIndex;
-                  
-                  _secondarySubtitles = tempSubtitles;
-                  _secondarySubtitleText = tempText;
-                  _currentSecondarySubtitleIndex = tempIndex;
-                  
-                  final tempFont = _selectedFont;
-                  final tempSize = _subtitleFontSize;
-                  final tempPalette = _currentColorPalette;
-                  final tempConversion = _conversionType;
-                  
-                  _selectedFont = _secondarySubtitleFont;
-                  _subtitleFontSize = _secondarySubtitleFontSize;
-                  _currentColorPalette = _secondaryColorPalette;
-                  _conversionType = _secondaryConversionType;
-                  
-                  _secondarySubtitleFont = tempFont;
-                  _secondarySubtitleFontSize = tempSize;
-                  _secondaryColorPalette = tempPalette;
-                  _secondaryConversionType = tempConversion;
-                });
-                
-                if (mounted) {
-                  ScaffoldMessenger.of(context).showSnackBar(
-                    const SnackBar(
-                      content: Text('Swapped primary ↔ secondary subtitles'),
-                      duration: Duration(seconds: 1),
-                    ),
-                  );
-                }
-              }
-              return KeyEventResult.handled;
-            }
-          }
-          return KeyEventResult.ignored;
-        },
-        child: Scaffold(
-          backgroundColor: Colors.black,
-          body: GestureDetector(
-            onTap: () {
-              if (_showPanel) {
-                setState(() {
-                  _showPanel = false;
-                });
-              }
-              _focusNode.requestFocus();
-            },
-            child: Stack(
-              children: [
-                if (_isYouTubeStream)
-                  _buildYouTubePlayer()
-                else if (_currentAudiobook == null)
-                  _buildNoAudiobook()
-                else
-                  _buildPlayer(),
-                
-                if (_showAdhanOverlay)
-                  AdhanClockOverlay(
-                    adhanService: _adhanClockService,
-                    onToggleVisibility: () {
-                      setState(() {
-                        _showAdhanOverlay = false;
-                      });
-                    },
-                  ),
-                
-                if (_showPanel && (_currentAudiobook != null || 
-                    _isYouTubeStream ||
-                    _panelMode == PanelMode.history || 
-                    _panelMode == PanelMode.playlist || 
-                    _panelMode == PanelMode.bookmarks || 
-                    _panelMode == PanelMode.stats))
-                  SidePanel(
-                    panelMode: _panelMode,
-                    isCollapsed: _panelCollapsed,
-                    currentAudiobook: _currentAudiobook,
-                    currentChapterIndex: _currentChapterIndex,
-                    searchQuery: _searchQuery,
-                    searchUseAnd: _searchUseAnd,
-                    excludeTerms: _excludeTerms,
-                    searchController: _searchController,
-                    excludeController: _excludeController,
-                    searchFocusNode: _searchFocusNode,
-                    excludeFocusNode: _excludeFocusNode,
-                    isExportingMarkdown: _isExportingMarkdown,
-                    exportStatus: _exportStatus,
-                    onExportMarkdown: _exportMarkdownParagraphs,
-                    onClose: () {
-                      setState(() {
-                        _showPanel = false;
-                      });
-                    },
-                    onToggleCollapse: () {
-                      setState(() {
-                        _panelCollapsed = !_panelCollapsed;
-                      });
-                    },
-                    onPanelModeChanged: (mode) {
-                      setState(() {
-                        _panelMode = mode;
-                      });
-                      if (mode == PanelMode.chapters) {
-                        _scrollToCurrentChapter();
-                      } else if (mode == PanelMode.playlist) {
-                        _scrollToCurrentPlaylistItem();
-                      } else if (mode == PanelMode.history || mode == PanelMode.bookmarks) {
-                        _scrollToTopOfHistory();
-                      } else if (mode == PanelMode.colors) {
-                        _scrollToSelectedColorPalette();
-                      }
-                    },
-                    onSearchChanged: (value) {
-                      setState(() {
-                        _searchQuery = value;
-                      });
-                    },
-                    onExcludeChanged: (value) {
-                      setState(() {
-                        _excludeTerms = value;
-                      });
-                    },
-                    onSearchAndSelected: () {
-                      setState(() {
-                        _searchUseAnd = true;
-                      });
-                    },
-                    onSearchOrSelected: () {
-                      setState(() {
-                        _searchUseAnd = false;
-                      });
-                    },
-                    
-                    getFilteredChapters: _getFilteredChapters,
-                    onJumpToChapter: _jumpToChapter,
-                    chapterScrollController: _chapterScrollController,
-                    skipChapterTerms: _skipChapterTerms,
-                    skipChapterController: _skipChapterController,
-                    skipChapterFocusNode: _skipChapterFocusNode,
-                    onSkipChapterChanged: (value) {
-                      setState(() {
-                        _skipChapterTerms = value;
-                      });
-                      _saveSkipChapterTerms();
-                    },
-                    shouldSkipChapter: _shouldSkipChapter,
-                    
-                    getFilteredHistory: _getFilteredHistory,
-                    onRemoveFromHistory: _removeFromHistory,
-                    onOpenAudiobook: (path) async {
-                      setState(() {
-                        _showPanel = false;
-                      });
-                      await _openAudiobook(path);
-                    },
-                    historyScrollController: _historyScrollController,
-                    getHistoryDurationAndProgress: _getHistoryDurationAndProgress,
-                    
-                    getFilteredPlaylist: _getFilteredPlaylist,
-                    playlistScrollController: _playlistScrollController,
-                    getAudiobookDuration: _getAudiobookDuration,
-                    showPlaylistDirectories: _showPlaylistDirectories,
-                    onTogglePlaylistDirectories: (value) {
-                      setState(() {
-                        _showPlaylistDirectories = value;
-                      });                                              
-                    },   
-                    
-                    getFilteredBookmarks: _getFilteredBookmarks,
-                    onRemoveBookmark: _removeBookmark,
-                    onJumpToBookmark: _jumpToBookmark,
-                    onSetPinNumber: _setPinNumber,
-                    
-                    getFilteredFonts: _getFilteredFonts,
-                    selectedFont: _selectedFont,
-                    selectedFontIndex: _selectedFontIndex,
-                    fontScrollController: _fontScrollController,
-                    onFontSelected: (fontName, index) {
-                      setState(() {
-                        _selectedFont = fontName;
-                        _selectedFontIndex = index;
-                      });
-                      _scrollToSelectedFont();
-                      _saveFontSettings();
-                    },
-                    selectedMainCategory: _selectedMainCategory,
-                    selectedSubCategory: _selectedSubCategory,
-                    selectedStudio: _selectedStudio,
-                    onCategorySelected: (category, subCat, studio) {
-                      setState(() {
-                        _selectedMainCategory = category;
-                        _selectedSubCategory = subCat;
-                        _selectedStudio = studio;
-                        _selectedFontIndex = 0;
-                      });
-                      _scrollToSelectedFont();
-                    },
-                    customFontDirectory: _customFontDirectory,
-                    onSetCustomFontDirectory: _setCustomFontDirectory,
-                    playlistDirectories: _playlistDirectories,
-                    activePlaylistIndex: _activePlaylistIndex,
-                    onAddPlaylistDirectory: _addPlaylistDirectory,
-                    onRemovePlaylistDirectory: _removePlaylistDirectory,
-                    onSetActivePlaylist: _setActivePlaylist,
-                    shortenPath: _shortenPath,
-                    onResetConversion: _resetConversion,
-                    onConvertToDemo: _convertToDemo,
-                    onConvertToDemoUpper: _convertToDemoUpper,
-                    onConvertToAlternates: _convertToAlternates,
-                    onConvertToMissing: _convertToMissing,
-                    onConvertToUppercase: _convertToUppercase,
-                    onConvertToSeesawCase: _convertToSeesawCase,
-                    conversionType: _conversionType,
-                    
-                    getFilteredColors: _getFilteredColors,
-                    selectedColorIndex: _selectedColorIndex,
-                    colorScrollController: _colorScrollController,
-                    onColorPaletteSelected: (palette, index) {
-                      setState(() {
-                        _selectedColorIndex = index;
-                      });
-                      _applyColorPalette(palette);
-                    },
-                    parseColor: _parseColor,
-                
-                    coloringMode: _coloringMode,
-                    onColoringModeChanged: (mode) {
-                      setState(() {
-                        _coloringMode = mode;
-                      });
-                    },
-                    
-                    frequencyItems: _frequencyItems,
-                    isAnalyzingFrequencies: _isAnalyzingFrequencies,
-                    onAnalyzeFrequencies: _analyzeFrequencies,
-                    subtitleFilePath: _subtitleFilePath,
-                    onWordSearch: (word) {
-                      setState(() {
-                        _searchQuery = word;
-                        _searchController.text = word;
-                        _panelMode = PanelMode.subs;
-                      });
-                      _searchSubtitles(word);
-                    },
-                    onPhraseSearch: (phrase) {
-                      setState(() {
-                        _subsSearchQuery = phrase;
-                        _subsSearchController.text = phrase;
-                        _panelMode = PanelMode.subs;
-                      });
-                      _searchSubtitles(phrase);
-                    },
-                    
-                    subsSearchQuery: _subsSearchQuery,
-                    subsSearchController: _subsSearchController,
-                    subsSearchFocusNode: _subsSearchFocusNode,
-                    onSearchSubtitles: _searchSubtitles,
-                    buildSearchContent: _buildSearchContent,
-                    isIndexingChapters: _isIndexingChapters,
-                    indexingStatus: _indexingStatus,
-                    indexedFiles: _indexedFiles,
-                    totalFilesToIndex: _totalFilesToIndex,
-                    hasChapterIndex: _playlistChapterIndex.isNotEmpty,
-                    onIndexPlaylistChapters: _indexPlaylistChapters,
-                    chapterSearchQuery: _chapterSearchQuery,
-                    chapterSearchController: _chapterSearchController,
-                    chapterSearchFocusNode: _chapterSearchFocusNode,
-                    onSearchPlaylistChapters: _searchPlaylistChapters,
-                    chapterSearchUseAnd: _chapterSearchUseAnd,
-                    onChapterSearchAndSelected: () {
-                      setState(() {
-                        _chapterSearchUseAnd = true;
-                      });
-                      if (_chapterSearchQuery.isNotEmpty) {
-                        _searchPlaylistChapters(_chapterSearchQuery);
-                      }
-                    },
-                    onChapterSearchOrSelected: () {
-                      setState(() {
-                        _chapterSearchUseAnd = false;
-                      });
-                      if (_chapterSearchQuery.isNotEmpty) {
-                        _searchPlaylistChapters(_chapterSearchQuery);
-                      }
-                    },
-                    chapterExcludeTerms: _chapterExcludeTerms,
-                    chapterExcludeController: _chapterExcludeController,
-                    chapterExcludeFocusNode: _chapterExcludeFocusNode,
-                    onChapterExcludeChanged: (value) {
-                      setState(() {
-                        _chapterExcludeTerms = value;
-                      });
-                      if (_chapterSearchQuery.isNotEmpty) {
-                        _searchPlaylistChapters(_chapterSearchQuery);
-                      }
-                    },
-                    
-                    historyCount: _history.length,
-                    playlistCount: _playlist.length,
-                    bookmarksCount: _bookmarks.length,
-                    fontsCount: CustomFontLoader.loadedFonts.length,
-                    subsCount: _subtitles.length,
-                    statsCount: _statsManager.statsEntries.length,
-                    statsEntries: _statsManager.statsEntries,
-                    statsEnabled: _statsManager.statsEnabled,
-                    onStatsEnabledChanged: (value) {
-                      _statsManager.saveStatsEnabled(value);
-                    },
-                    onRefreshStats: () {
-                      _statsManager.loadAllStatsEntries();
-                    },
-                    skipTrackingTerms: _skipTrackingTerms,
-                    skipTrackingController: _skipTrackingController,
-                    skipTrackingFocusNode: _skipTrackingFocusNode,
-                    onSkipTrackingChanged: (value) {
-                      setState(() {
-                        _skipTrackingTerms = value;
-                      });
-                      _saveSkipTrackingTerms();
-                    },
-                    filterEntriesByDate: _filterEntriesByDate,
-                    filterEntriesByDays: _filterEntriesByDays,
-                    getFileListenTimes: _getFileListenTimes,
-                    groupEntriesByAudiobook: _groupEntriesByAudiobook,
-                    formatDurationCompact: _formatDurationCompact,
-                    formatDuration: _formatDuration,
-                    deleteAudiobookFromDate: (title, date) async {
-                      await _statsManager.deleteAudiobookFromDate(title, date);
-                      setState(() {});
-                    },
-                    highlightSearchTerm: _highlightSearchTerm,
-                    jumpToStatsResult: (filename, chapterTitle, startTime) {
-                      _jumpToStatsResult(filename, chapterTitle, startTime);
-                    },
-                  ),
-                
-                if (_showWordOverlay && _currentSubtitleText.isNotEmpty)
-                  WordOverlay(
-                    subtitle: _currentSubtitleIndex != null && _currentSubtitleIndex! < _originalSubtitles.length
-                        ? _originalSubtitles[_currentSubtitleIndex!].text
-                        : _currentSubtitleText,
-                    colorPalette: _currentColorPalette?.colors,
-                    startWordIndex: _calculateWordIndexAtPosition(_currentPosition),
-                    onClose: () {
-                      setState(() {
-                        _showWordOverlay = false;
-                      });
-                      
-                      _dictionaryModeExitTimer?.cancel();
-                      _dictionaryModeExitTimer = Timer(const Duration(seconds: 3), () {
-                        if (!_showWordOverlay && _pauseMode == PauseMode.dictionary) {
-                          setState(() {
-                            _pauseMode = PauseMode.disabled;
-                          });
-                          if (mounted) {
-                            ScaffoldMessenger.of(context).showSnackBar(
-                              const SnackBar(
-                                content: Text('Exited Dictionary Mode'),
-                                duration: Duration(seconds: 1),
-                              ),
-                            );
-                          }
-                        }
-                      });
-                    },
-                  ),
-                
-                if (_showSleepTimerCountdown)
-                  _buildSleepTimerCountdown(),
-              ],
             ),
-          ),
+          ],
         ),
       );
     }
+    
+    return Focus(
+      focusNode: _focusNode,
+      autofocus: true,
+      onKeyEvent: (node, event) {
+        if (event is KeyDownEvent && event.logicalKey == LogicalKeyboardKey.enter && _showPanel && _panelMode == PanelMode.subs && _searchFocusNode.hasFocus) {
+          _searchSubtitles(_searchQuery);
+          return KeyEventResult.handled;
+        }
+        
+        if (_searchFocusNode.hasFocus || 
+            _excludeFocusNode.hasFocus || 
+            _skipChapterFocusNode.hasFocus || 
+            _subsSearchFocusNode.hasFocus || 
+            _chapterSearchFocusNode.hasFocus || 
+            _chapterExcludeFocusNode.hasFocus || 
+            _statsSearchFocusNode.hasFocus || 
+            _skipTrackingFocusNode.hasFocus) {
+          return KeyEventResult.ignored;
+        }
+        
+        if (event is KeyDownEvent || event is KeyRepeatEvent) {
+          if (event.logicalKey == LogicalKeyboardKey.keyV && 
+              (HardwareKeyboard.instance.isMetaPressed || HardwareKeyboard.instance.isControlPressed)) {
+            return KeyEventResult.ignored;
+          }
+  
+          if (event.logicalKey == LogicalKeyboardKey.escape && event is KeyDownEvent) {
+            if (_showPanel) {
+              setState(() {
+                _showPanel = false;
+              });
+              return KeyEventResult.handled;
+            }
+          } else if (event.logicalKey == LogicalKeyboardKey.keyC && event is KeyDownEvent) {
+            setState(() {
+              _showPanel = true;
+              _panelMode = PanelMode.chapters;
+            });
+            _scrollToCurrentChapter();
+            return KeyEventResult.handled;
+         } else if (event.logicalKey == LogicalKeyboardKey.keyU && 
+                    HardwareKeyboard.instance.isShiftPressed && event is KeyDownEvent) {
+           _copyCurrentSubtitleInMemory();
+           return KeyEventResult.handled;
+         } else if (event.logicalKey == LogicalKeyboardKey.keyU && event is KeyDownEvent) {
+           _copyCurrentSubtitle();
+           return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyH && event is KeyDownEvent) {
+            setState(() {
+              _showPanel = true;
+              _panelMode = PanelMode.history;
+            });
+            _scrollToTopOfHistory();
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyP && event is KeyDownEvent) {
+            setState(() {
+              _showPanel = true;
+              _panelMode = PanelMode.playlist;
+            });
+            _scrollToCurrentPlaylistItem();
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyB && event is KeyDownEvent) {
+            setState(() {
+              _showPanel = true;
+              _panelMode = PanelMode.bookmarks;
+            });
+            _scrollToTopOfHistory();
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyF && event is KeyDownEvent) {
+            setState(() {
+              _showPanel = true;
+              _panelMode = PanelMode.fonts;
+            });
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyO && event is KeyDownEvent) {
+            setState(() {
+              _showPanel = true;
+              _panelMode = PanelMode.colors;
+            });
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyW && event is KeyDownEvent) {
+            setState(() {
+              _showPanel = true;
+              _panelMode = PanelMode.words;
+            });
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyS && event is KeyDownEvent) {
+            setState(() {
+              _showPanel = true;
+              _panelMode = PanelMode.subs;
+            });
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyT && event is KeyDownEvent) {
+            setState(() {
+              _showPanel = true;
+              _panelMode = PanelMode.stats;
+            });
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.slash && event is KeyDownEvent) {
+            if (_showPanel) {
+              if (_panelMode == PanelMode.subs) {
+                _searchFocusNode.requestFocus();
+              } else if (_panelMode != PanelMode.words) {
+                _searchFocusNode.requestFocus();
+              }
+            }
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.backspace && 
+                     (HardwareKeyboard.instance.isControlPressed || HardwareKeyboard.instance.isMetaPressed) &&
+                     event is KeyDownEvent) {
+            if (_showPanel && _panelMode != PanelMode.words) {
+              _searchController.clear();
+              _excludeController.clear();
+              setState(() {
+                _searchQuery = '';
+                _excludeTerms = '';
+              });
+              if (_panelMode == PanelMode.subs) {
+                _subsSearchController.clear();
+                setState(() {
+                  _subsSearchQuery = '';
+                  _subtitleSearchResults = [];
+                });
+              }
+            }
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyK && event is KeyDownEvent) {
+            _adhanClockService.stopAdhan();
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyG && event is KeyDownEvent) {
+            if (HardwareKeyboard.instance.isShiftPressed) {
+              setState(() {
+                _pauseMode = PauseMode.disabled;
+                _nextPauseTime = null;
+                _pauseModeTimer?.cancel();
+              });
+              if (mounted) {
+                ScaffoldMessenger.of(context).showSnackBar(
+                  const SnackBar(
+                    content: Text('Pause Mode: Disabled'),
+                    duration: Duration(seconds: 1),
+                  ),
+                );
+              }
+            } else {
+              setState(() {
+                _pauseMode = PauseMode.pause2s;
+                if (_currentSubtitleIndex != null && _currentSubtitleIndex! < _subtitles.length) {
+                  final cue = _subtitles[_currentSubtitleIndex!];
+                  _nextPauseTime = cue.endTime - const Duration(milliseconds: 200);
+                }
+              });
+              if (mounted) {
+                ScaffoldMessenger.of(context).showSnackBar(
+                  const SnackBar(
+                    content: Text('Pause Mode: 2s'),
+                    duration: Duration(seconds: 1),
+                  ),
+                );
+              }
+            }
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyL && event is KeyDownEvent) {
+            _openAudiobook();
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyJ && event is KeyDownEvent) {
+            _openAudiobookDirectory();
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyR && event is KeyDownEvent) {
+            _copyChaptersList();
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyI && event is KeyDownEvent) {
+            _copyCurrentMetadata();
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyM && event is KeyDownEvent) {
+            setState(() {
+              _showAdhanOverlay = !_showAdhanOverlay;
+            });
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.period && 
+                   event is KeyDownEvent) {
+            setState(() {
+              _hideChapterTitle = !_hideChapterTitle;
+            });
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.bracketLeft && event is KeyDownEvent) {
+            _decreaseSpeed();
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.bracketRight && event is KeyDownEvent) {
+            _increaseSpeed();
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyY && 
+                   HardwareKeyboard.instance.isShiftPressed && 
+                   event is KeyDownEvent) {
+            if (Platform.isAndroid || Platform.isIOS) {
+              ScaffoldMessenger.of(context).showSnackBar(
+                const SnackBar(
+                  content: Text('YouTube audio streaming is only available on desktop'),
+                  duration: Duration(seconds: 2),
+                ),
+              );
+            } else {
+              _showYouTubeDialog();
+            }
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyY && event is KeyDownEvent) {
+            _toggleFullscreen();
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyZ && 
+                   HardwareKeyboard.instance.isShiftPressed && event is KeyDownEvent) {
+            _setSleepTimer(null);
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyZ && event is KeyDownEvent) {
+            _setSleepTimer(Duration.zero);
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyQ && event is KeyDownEvent) {
+            _setCurrentAsDefault();
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyA && event is KeyDownEvent) {
+            _applyDefaultSettings();
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.space) {
+            _togglePlayPause();
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.backquote && event is KeyDownEvent) {
+            if (_showPanel) {
+              setState(() {
+                _panelCollapsed = !_panelCollapsed;
+              });
+            }
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyE) {
+            setState(() {
+              _showEncoderScreen = true;
+            });
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyD) {
+            if (HardwareKeyboard.instance.isShiftPressed) {
+              _showDownloadDialog();
+              return KeyEventResult.handled;
+            }
+            if (event is KeyDownEvent) {
+              if (_currentSubtitleText.isNotEmpty) {
+                if (!_showWordOverlay) {
+                  if (_isPlaying) {
+                    player.pause();
+                  }
+                  if (_pauseMode != PauseMode.dictionary) {
+                    setState(() {
+                      _pauseMode = PauseMode.dictionary;
+                      if (_currentSubtitleIndex != null && _currentSubtitleIndex! < _subtitles.length) {
+                        final cue = _subtitles[_currentSubtitleIndex!];
+                        _nextPauseTime = cue.endTime - const Duration(milliseconds: 200);
+                      }
+                    });
+                  }
+                }
+                setState(() {
+                  _showWordOverlay = !_showWordOverlay;
+                });
+                if (!_showWordOverlay && _pauseMode == PauseMode.dictionary) {
+                  setState(() {
+                    _pauseMode = PauseMode.disabled;
+                  });
+                }
+              }
+            }
+            return KeyEventResult.handled;
+         } else if (event.logicalKey == LogicalKeyboardKey.arrowUp) {
+           if (HardwareKeyboard.instance.isControlPressed) {
+             setState(() {
+               _subtitleLineSpacing = ((_subtitleLineSpacing * 100).round() + 1) / 100;
+               _subtitleLineSpacing = _subtitleLineSpacing.clamp(0.5, 2.5);
+             });
+             return KeyEventResult.handled;
+           } else if (HardwareKeyboard.instance.isShiftPressed) {
+             return KeyEventResult.ignored;
+           } else if (_showPanel && _panelMode == PanelMode.colors) {
+             _navigateColors(-1);
+             return KeyEventResult.handled;
+           } else if (_showPanel && _panelMode == PanelMode.fonts) {
+             _navigateFonts(-1);
+             return KeyEventResult.handled;
+           } else {
+             _increaseFontSize();
+             return KeyEventResult.handled;
+           }
+         } else if (event.logicalKey == LogicalKeyboardKey.arrowDown) {
+           if (HardwareKeyboard.instance.isControlPressed) {
+             setState(() {
+               _subtitleLineSpacing = ((_subtitleLineSpacing * 100).round() - 1) / 100;
+               _subtitleLineSpacing = _subtitleLineSpacing.clamp(0.5, 2.5);
+             });
+             return KeyEventResult.handled;
+           } else if (HardwareKeyboard.instance.isShiftPressed) {
+             return KeyEventResult.ignored;
+           } else if (_showPanel && _panelMode == PanelMode.colors) {
+             _navigateColors(1);
+             return KeyEventResult.handled;
+           } else if (_showPanel && _panelMode == PanelMode.fonts) {
+             _navigateFonts(1);
+             return KeyEventResult.handled;
+           } else {
+             _decreaseFontSize();
+             return KeyEventResult.handled;
+           }
+          } else if (event.logicalKey == LogicalKeyboardKey.arrowLeft) {
+            if (HardwareKeyboard.instance.isShiftPressed) {
+              _previousChapter();
+              return KeyEventResult.handled;
+            } else if (_subtitles.isNotEmpty) {
+              _skipToPreviousSubtitle();
+            } else {
+              _skipBackward3();
+            }
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.arrowRight) {
+            if (HardwareKeyboard.instance.isShiftPressed) {
+              _nextChapter();
+              return KeyEventResult.handled;
+            } else if (_subtitles.isNotEmpty) {
+              _skipToNextSubtitle();
+            } else {
+              _skipForward3();
+            }
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyN && event is KeyDownEvent) {
+            _addBookmark();
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyV && event is KeyDownEvent) {
+            _openSubtitleManager();
+            return KeyEventResult.handled;
+          } else if (_showPanel && _panelMode == PanelMode.bookmarks) {
+            if (event.logicalKey == LogicalKeyboardKey.digit1 || event.logicalKey == LogicalKeyboardKey.numpad1) {
+              _jumpToPinnedBookmark(1);
+              return KeyEventResult.handled;
+            } else if (event.logicalKey == LogicalKeyboardKey.digit2 || event.logicalKey == LogicalKeyboardKey.numpad2) {
+              _jumpToPinnedBookmark(2);
+              return KeyEventResult.handled;
+            } else if (event.logicalKey == LogicalKeyboardKey.digit3 || event.logicalKey == LogicalKeyboardKey.numpad3) {
+              _jumpToPinnedBookmark(3);
+              return KeyEventResult.handled;
+            } else if (event.logicalKey == LogicalKeyboardKey.digit4 || event.logicalKey == LogicalKeyboardKey.numpad4) {
+              _jumpToPinnedBookmark(4);
+              return KeyEventResult.handled;
+            } else if (event.logicalKey == LogicalKeyboardKey.digit5 || event.logicalKey == LogicalKeyboardKey.numpad5) {
+              _jumpToPinnedBookmark(5);
+              return KeyEventResult.handled;
+            } else if (event.logicalKey == LogicalKeyboardKey.digit6 || event.logicalKey == LogicalKeyboardKey.numpad6) {
+              _jumpToPinnedBookmark(6);
+              return KeyEventResult.handled;
+            } else if (event.logicalKey == LogicalKeyboardKey.digit7 || event.logicalKey == LogicalKeyboardKey.numpad7) {
+              _jumpToPinnedBookmark(7);
+              return KeyEventResult.handled;
+            } else if (event.logicalKey == LogicalKeyboardKey.digit8 || event.logicalKey == LogicalKeyboardKey.numpad8) {
+              _jumpToPinnedBookmark(8);
+              return KeyEventResult.handled;
+            } else if (event.logicalKey == LogicalKeyboardKey.digit9 || event.logicalKey == LogicalKeyboardKey.numpad9) {
+              _jumpToPinnedBookmark(9);
+              return KeyEventResult.handled;
+            }
+          } else if (_showPanel && _panelMode == PanelMode.history) {
+            if (event.logicalKey == LogicalKeyboardKey.digit1 || event.logicalKey == LogicalKeyboardKey.numpad1) {
+              _jumpToHistoryItem(0);
+              return KeyEventResult.handled;
+            } else if (event.logicalKey == LogicalKeyboardKey.digit2 || event.logicalKey == LogicalKeyboardKey.numpad2) {
+              _jumpToHistoryItem(1);
+              return KeyEventResult.handled;
+            } else if (event.logicalKey == LogicalKeyboardKey.digit3 || event.logicalKey == LogicalKeyboardKey.numpad3) {
+              _jumpToHistoryItem(2);
+              return KeyEventResult.handled;
+            } else if (event.logicalKey == LogicalKeyboardKey.digit4 || event.logicalKey == LogicalKeyboardKey.numpad4) {
+              _jumpToHistoryItem(3);
+              return KeyEventResult.handled;
+            } else if (event.logicalKey == LogicalKeyboardKey.digit5 || event.logicalKey == LogicalKeyboardKey.numpad5) {
+              _jumpToHistoryItem(4);
+              return KeyEventResult.handled;
+            } else if (event.logicalKey == LogicalKeyboardKey.digit6 || event.logicalKey == LogicalKeyboardKey.numpad6) {
+              _jumpToHistoryItem(5);
+              return KeyEventResult.handled;
+            } else if (event.logicalKey == LogicalKeyboardKey.digit7 || event.logicalKey == LogicalKeyboardKey.numpad7) {
+              _jumpToHistoryItem(6);
+              return KeyEventResult.handled;
+            } else if (event.logicalKey == LogicalKeyboardKey.digit8 || event.logicalKey == LogicalKeyboardKey.numpad8) {
+              _jumpToHistoryItem(7);
+              return KeyEventResult.handled;
+            } else if (event.logicalKey == LogicalKeyboardKey.digit9 || event.logicalKey == LogicalKeyboardKey.numpad9) {
+              _jumpToHistoryItem(8);
+              return KeyEventResult.handled;
+            }
+          } else if (_showPanel && _panelMode == PanelMode.playlist) {
+            if (event.logicalKey == LogicalKeyboardKey.digit1 || event.logicalKey == LogicalKeyboardKey.numpad1) {
+              _jumpToPlaylistItem(0);
+              return KeyEventResult.handled;
+            } else if (event.logicalKey == LogicalKeyboardKey.digit2 || event.logicalKey == LogicalKeyboardKey.numpad2) {
+              _jumpToPlaylistItem(1);
+              return KeyEventResult.handled;
+            } else if (event.logicalKey == LogicalKeyboardKey.digit3 || event.logicalKey == LogicalKeyboardKey.numpad3) {
+              _jumpToPlaylistItem(2);
+              return KeyEventResult.handled;
+            } else if (event.logicalKey == LogicalKeyboardKey.digit4 || event.logicalKey == LogicalKeyboardKey.numpad4) {
+              _jumpToPlaylistItem(3);
+              return KeyEventResult.handled;
+            } else if (event.logicalKey == LogicalKeyboardKey.digit5 || event.logicalKey == LogicalKeyboardKey.numpad5) {
+              _jumpToPlaylistItem(4);
+              return KeyEventResult.handled;
+            } else if (event.logicalKey == LogicalKeyboardKey.digit6 || event.logicalKey == LogicalKeyboardKey.numpad6) {
+              _jumpToPlaylistItem(5);
+              return KeyEventResult.handled;
+            } else if (event.logicalKey == LogicalKeyboardKey.digit7 || event.logicalKey == LogicalKeyboardKey.numpad7) {
+              _jumpToPlaylistItem(6);
+              return KeyEventResult.handled;
+            } else if (event.logicalKey == LogicalKeyboardKey.digit8 || event.logicalKey == LogicalKeyboardKey.numpad8) {
+              _jumpToPlaylistItem(7);
+              return KeyEventResult.handled;
+            } else if (event.logicalKey == LogicalKeyboardKey.digit9 || event.logicalKey == LogicalKeyboardKey.numpad9) {
+              _jumpToPlaylistItem(8);
+              return KeyEventResult.handled;
+            }
+          } else if (event.logicalKey == LogicalKeyboardKey.keyX && event is KeyDownEvent) {
+            if (_primarySubtitlePath != null || _secondarySubtitlePath != null) {
+              setState(() {
+                final temp = _primarySubtitlePath;
+                _primarySubtitlePath = _secondarySubtitlePath;
+                _secondarySubtitlePath = temp;
+                
+                _subtitleFilePath = _primarySubtitlePath;
+                _secondarySubtitleFilePath = _secondarySubtitlePath;
+                
+                final tempSubtitles = _subtitles;
+                final tempText = _currentSubtitleText;
+                final tempIndex = _currentSubtitleIndex;
+                
+                _subtitles = _secondarySubtitles;
+                _currentSubtitleText = _secondarySubtitleText;
+                _currentSubtitleIndex = _currentSecondarySubtitleIndex;
+                
+                _secondarySubtitles = tempSubtitles;
+                _secondarySubtitleText = tempText;
+                _currentSecondarySubtitleIndex = tempIndex;
+                
+                final tempFont = _selectedFont;
+                final tempSize = _subtitleFontSize;
+                final tempPalette = _currentColorPalette;
+                final tempConversion = _conversionType;
+                
+                _selectedFont = _secondarySubtitleFont;
+                _subtitleFontSize = _secondarySubtitleFontSize;
+                _currentColorPalette = _secondaryColorPalette;
+                _conversionType = _secondaryConversionType;
+                
+                _secondarySubtitleFont = tempFont;
+                _secondarySubtitleFontSize = tempSize;
+                _secondaryColorPalette = tempPalette;
+                _secondaryConversionType = tempConversion;
+              });
+              
+              if (mounted) {
+                ScaffoldMessenger.of(context).showSnackBar(
+                  const SnackBar(
+                    content: Text('Swapped primary ↔ secondary subtitles'),
+                    duration: Duration(seconds: 1),
+                  ),
+                );
+              }
+            }
+            return KeyEventResult.handled;
+          }
+        }
+        return KeyEventResult.ignored;
+      },
+      child: Scaffold(
+        backgroundColor: Colors.black,
+        body: GestureDetector(
+          onTap: () {
+            if (_showPanel) {
+              setState(() {
+                _showPanel = false;
+              });
+            }
+            _focusNode.requestFocus();
+          },
+          child: Stack(
+            children: [
+              if (_currentAudiobook == null && !_isYouTubeStream)
+                _buildNoAudiobook()
+              else
+                _buildPlayer(),
+              
+              if (_showAdhanOverlay)
+                AdhanClockOverlay(
+                  adhanService: _adhanClockService,
+                  onToggleVisibility: () {
+                    setState(() {
+                      _showAdhanOverlay = false;
+                    });
+                  },
+                ),
+              
+              if (_showPanel && (_currentAudiobook != null || 
+                  _isYouTubeStream ||
+                  _panelMode == PanelMode.history || 
+                  _panelMode == PanelMode.playlist || 
+                  _panelMode == PanelMode.bookmarks || 
+                  _panelMode == PanelMode.stats))
+                SidePanel(
+                  panelMode: _panelMode,
+                  isCollapsed: _panelCollapsed,
+                  currentAudiobook: _currentAudiobook,
+                  currentChapterIndex: _currentChapterIndex,
+                  searchQuery: _searchQuery,
+                  searchUseAnd: _searchUseAnd,
+                  excludeTerms: _excludeTerms,
+                  searchController: _searchController,
+                  excludeController: _excludeController,
+                  searchFocusNode: _searchFocusNode,
+                  excludeFocusNode: _excludeFocusNode,
+                  isExportingMarkdown: _isExportingMarkdown,
+                  exportStatus: _exportStatus,
+                  onExportMarkdown: _exportMarkdownParagraphs,
+                  onClose: () {
+                    setState(() {
+                      _showPanel = false;
+                    });
+                  },
+                  onToggleCollapse: () {
+                    setState(() {
+                      _panelCollapsed = !_panelCollapsed;
+                    });
+                  },
+                  onPanelModeChanged: (mode) {
+                    setState(() {
+                      _panelMode = mode;
+                    });
+                    if (mode == PanelMode.chapters) {
+                      _scrollToCurrentChapter();
+                    } else if (mode == PanelMode.playlist) {
+                      _scrollToCurrentPlaylistItem();
+                    } else if (mode == PanelMode.history || mode == PanelMode.bookmarks) {
+                      _scrollToTopOfHistory();
+                    } else if (mode == PanelMode.colors) {
+                      _scrollToSelectedColorPalette();
+                    }
+                  },
+                  onSearchChanged: (value) {
+                    setState(() {
+                      _searchQuery = value;
+                    });
+                  },
+                  onExcludeChanged: (value) {
+                    setState(() {
+                      _excludeTerms = value;
+                    });
+                  },
+                  onSearchAndSelected: () {
+                    setState(() {
+                      _searchUseAnd = true;
+                    });
+                  },
+                  onSearchOrSelected: () {
+                    setState(() {
+                      _searchUseAnd = false;
+                    });
+                  },
+                  
+                  getFilteredChapters: _getFilteredChapters,
+                  onJumpToChapter: _jumpToChapter,
+                  chapterScrollController: _chapterScrollController,
+                  skipChapterTerms: _skipChapterTerms,
+                  skipChapterController: _skipChapterController,
+                  skipChapterFocusNode: _skipChapterFocusNode,
+                  onSkipChapterChanged: (value) {
+                    setState(() {
+                      _skipChapterTerms = value;
+                    });
+                    _saveSkipChapterTerms();
+                  },
+                  shouldSkipChapter: _shouldSkipChapter,
+                  
+                  getFilteredHistory: _getFilteredHistory,
+                  onRemoveFromHistory: _removeFromHistory,
+                  onOpenAudiobook: (path) async {
+                    setState(() {
+                      _showPanel = false;
+                    });
+                    await _openAudiobook(path);
+                  },
+                  historyScrollController: _historyScrollController,
+                  getHistoryDurationAndProgress: _getHistoryDurationAndProgress,
+                  
+                  getFilteredPlaylist: _getFilteredPlaylist,
+                  playlistScrollController: _playlistScrollController,
+                  getAudiobookDuration: _getAudiobookDuration,
+                  showPlaylistDirectories: _showPlaylistDirectories,
+                  onTogglePlaylistDirectories: (value) {
+                    setState(() {
+                      _showPlaylistDirectories = value;
+                    });                                              
+                  },   
+                  
+                  getFilteredBookmarks: _getFilteredBookmarks,
+                  onRemoveBookmark: _removeBookmark,
+                  onJumpToBookmark: _jumpToBookmark,
+                  onSetPinNumber: _setPinNumber,
+                  
+                  getFilteredFonts: _getFilteredFonts,
+                  selectedFont: _selectedFont,
+                  selectedFontIndex: _selectedFontIndex,
+                  fontScrollController: _fontScrollController,
+                  onFontSelected: (fontName, index) {
+                    setState(() {
+                      _selectedFont = fontName;
+                      _selectedFontIndex = index;
+                    });
+                    _scrollToSelectedFont();
+                    _saveFontSettings();
+                  },
+                  selectedMainCategory: _selectedMainCategory,
+                  selectedSubCategory: _selectedSubCategory,
+                  selectedStudio: _selectedStudio,
+                  onCategorySelected: (category, subCat, studio) {
+                    setState(() {
+                      _selectedMainCategory = category;
+                      _selectedSubCategory = subCat;
+                      _selectedStudio = studio;
+                      _selectedFontIndex = 0;
+                    });
+                    _scrollToSelectedFont();
+                  },
+                  customFontDirectory: _customFontDirectory,
+                  onSetCustomFontDirectory: _setCustomFontDirectory,
+                  playlistDirectories: _playlistDirectories,
+                  activePlaylistIndex: _activePlaylistIndex,
+                  onAddPlaylistDirectory: _addPlaylistDirectory,
+                  onRemovePlaylistDirectory: _removePlaylistDirectory,
+                  onSetActivePlaylist: _setActivePlaylist,
+                  shortenPath: _shortenPath,
+                  onResetConversion: _resetConversion,
+                  onConvertToDemo: _convertToDemo,
+                  onConvertToDemoUpper: _convertToDemoUpper,
+                  onConvertToAlternates: _convertToAlternates,
+                  onConvertToMissing: _convertToMissing,
+                  onConvertToUppercase: _convertToUppercase,
+                  onConvertToSeesawCase: _convertToSeesawCase,
+                  conversionType: _conversionType,
+                  
+                  getFilteredColors: _getFilteredColors,
+                  selectedColorIndex: _selectedColorIndex,
+                  colorScrollController: _colorScrollController,
+                  onColorPaletteSelected: (palette, index) {
+                    setState(() {
+                      _selectedColorIndex = index;
+                    });
+                    _applyColorPalette(palette);
+                  },
+                  parseColor: _parseColor,
+              
+                  coloringMode: _coloringMode,
+                  onColoringModeChanged: (mode) {
+                    setState(() {
+                      _coloringMode = mode;
+                    });
+                  },
+                  
+                  frequencyItems: _frequencyItems,
+                  isAnalyzingFrequencies: _isAnalyzingFrequencies,
+                  onAnalyzeFrequencies: _analyzeFrequencies,
+                  subtitleFilePath: _subtitleFilePath,
+                  onWordSearch: (word) {
+                    setState(() {
+                      _searchQuery = word;
+                      _searchController.text = word;
+                      _panelMode = PanelMode.subs;
+                    });
+                    _searchSubtitles(word);
+                  },
+                  onPhraseSearch: (phrase) {
+                    setState(() {
+                      _subsSearchQuery = phrase;
+                      _subsSearchController.text = phrase;
+                      _panelMode = PanelMode.subs;
+                    });
+                    _searchSubtitles(phrase);
+                  },
+                  
+                  subsSearchQuery: _subsSearchQuery,
+                  subsSearchController: _subsSearchController,
+                  subsSearchFocusNode: _subsSearchFocusNode,
+                  onSearchSubtitles: _searchSubtitles,
+                  buildSearchContent: _buildSearchContent,
+                  isIndexingChapters: _isIndexingChapters,
+                  indexingStatus: _indexingStatus,
+                  indexedFiles: _indexedFiles,
+                  totalFilesToIndex: _totalFilesToIndex,
+                  hasChapterIndex: _playlistChapterIndex.isNotEmpty,
+                  onIndexPlaylistChapters: _indexPlaylistChapters,
+                  chapterSearchQuery: _chapterSearchQuery,
+                  chapterSearchController: _chapterSearchController,
+                  chapterSearchFocusNode: _chapterSearchFocusNode,
+                  onSearchPlaylistChapters: _searchPlaylistChapters,
+                  chapterSearchUseAnd: _chapterSearchUseAnd,
+                  onChapterSearchAndSelected: () {
+                    setState(() {
+                      _chapterSearchUseAnd = true;
+                    });
+                    if (_chapterSearchQuery.isNotEmpty) {
+                      _searchPlaylistChapters(_chapterSearchQuery);
+                    }
+                  },
+                  onChapterSearchOrSelected: () {
+                    setState(() {
+                      _chapterSearchUseAnd = false;
+                    });
+                    if (_chapterSearchQuery.isNotEmpty) {
+                      _searchPlaylistChapters(_chapterSearchQuery);
+                    }
+                  },
+                  chapterExcludeTerms: _chapterExcludeTerms,
+                  chapterExcludeController: _chapterExcludeController,
+                  chapterExcludeFocusNode: _chapterExcludeFocusNode,
+                  onChapterExcludeChanged: (value) {
+                    setState(() {
+                      _chapterExcludeTerms = value;
+                    });
+                    if (_chapterSearchQuery.isNotEmpty) {
+                      _searchPlaylistChapters(_chapterSearchQuery);
+                    }
+                  },
+                  
+                  historyCount: _history.length,
+                  playlistCount: _playlist.length,
+                  bookmarksCount: _bookmarks.length,
+                  fontsCount: CustomFontLoader.loadedFonts.length,
+                  subsCount: _subtitles.length,
+                  statsCount: _statsManager.statsEntries.length,
+                  statsEntries: _statsManager.statsEntries,
+                  statsEnabled: _statsManager.statsEnabled,
+                  onStatsEnabledChanged: (value) {
+                    _statsManager.saveStatsEnabled(value);
+                  },
+                  onRefreshStats: () {
+                    _statsManager.loadAllStatsEntries();
+                  },
+                  skipTrackingTerms: _skipTrackingTerms,
+                  skipTrackingController: _skipTrackingController,
+                  skipTrackingFocusNode: _skipTrackingFocusNode,
+                  onSkipTrackingChanged: (value) {
+                    setState(() {
+                      _skipTrackingTerms = value;
+                    });
+                    _saveSkipTrackingTerms();
+                  },
+                  filterEntriesByDate: _filterEntriesByDate,
+                  filterEntriesByDays: _filterEntriesByDays,
+                  getFileListenTimes: _getFileListenTimes,
+                  groupEntriesByAudiobook: _groupEntriesByAudiobook,
+                  formatDurationCompact: _formatDurationCompact,
+                  formatDuration: _formatDuration,
+                  deleteAudiobookFromDate: (title, date) async {
+                    await _statsManager.deleteAudiobookFromDate(title, date);
+                    setState(() {});
+                  },
+                  highlightSearchTerm: _highlightSearchTerm,
+                  jumpToStatsResult: (filename, chapterTitle, startTime) {
+                    _jumpToStatsResult(filename, chapterTitle, startTime);
+                  },
+                ),
+              
+              if (_showWordOverlay && _currentSubtitleText.isNotEmpty)
+                WordOverlay(
+                  subtitle: _currentSubtitleIndex != null && _currentSubtitleIndex! < _originalSubtitles.length
+                      ? _originalSubtitles[_currentSubtitleIndex!].text
+                      : _currentSubtitleText,
+                  colorPalette: _currentColorPalette?.colors,
+                  startWordIndex: _calculateWordIndexAtPosition(_currentPosition),
+                  onClose: () {
+                    setState(() {
+                      _showWordOverlay = false;
+                    });
+                    
+                    _dictionaryModeExitTimer?.cancel();
+                    _dictionaryModeExitTimer = Timer(const Duration(seconds: 3), () {
+                      if (!_showWordOverlay && _pauseMode == PauseMode.dictionary) {
+                        setState(() {
+                          _pauseMode = PauseMode.disabled;
+                        });
+                        if (mounted) {
+                          ScaffoldMessenger.of(context).showSnackBar(
+                            const SnackBar(
+                              content: Text('Exited Dictionary Mode'),
+                              duration: Duration(seconds: 1),
+                            ),
+                          );
+                        }
+                      }
+                    });
+                  },
+                ),
+              
+              if (_showSleepTimerCountdown)
+                _buildSleepTimerCountdown(),
+            ],
+          ),
+        ),
+      ),
+    );
+  }
 
   Widget _buildSleepTimerCountdown() {
     return Positioned.fill(
@@ -5195,8 +5247,15 @@ class _PlayerScreenState extends State<PlayerScreen> {
 
   Widget _buildPlayer() {
     return PlayerControls(
-      audiobook: _currentAudiobook!,
-      currentChapterIndex: _currentChapterIndex,
+      audiobook: _currentAudiobook ?? AudiobookMetadata(
+        path: '',
+        title: _youtubeTitle ?? 'YouTube Audio',
+        author: _youtubeChannelName ?? 'Unknown',
+        year: '',
+        duration: Duration.zero,
+        chapters: [],
+      ),
+      currentChapterIndex: _isYouTubeStream ? 0 : _currentChapterIndex,
       currentPosition: _currentPosition,
       totalDuration: _totalDuration,
       isPlaying: _isPlaying,
@@ -5205,7 +5264,9 @@ class _PlayerScreenState extends State<PlayerScreen> {
       averageBitrate: _averageBitrate,
       shuffleEnabled: _shuffleEnabled,
       conversionType: _conversionType,
-      playedChapters: _currentAudiobook!.chapters.where((c) => _playedChapters.contains(_currentAudiobook!.chapters.indexOf(c))).toList(),
+      playedChapters: _isYouTubeStream 
+          ? []
+          : _currentAudiobook?.chapters.where((c) => _playedChapters.contains(_currentAudiobook!.chapters.indexOf(c))).toList() ?? [],
       selectedFont: _selectedFont,
       defaultFont: _defaultFont,
       defaultConversionType: _defaultConversionType,
@@ -5234,13 +5295,13 @@ class _PlayerScreenState extends State<PlayerScreen> {
       onAddBookmark: _addBookmark,
       hideChapterTitle: _hideChapterTitle,
       hoveringPrevChapter: _hoveringPrevChapter,
-      hoveringNextChapter: _hoveringNextChapter, 
+      hoveringNextChapter: _hoveringNextChapter,
       onTogglePanel: () {
         setState(() {
           _showPanel = !_showPanel;
           _panelMode = PanelMode.chapters;
         });
-        if (_showPanel) {
+        if (_showPanel && !_isYouTubeStream) {
           _scrollToCurrentChapter();
         }
       },
@@ -5249,9 +5310,11 @@ class _PlayerScreenState extends State<PlayerScreen> {
       onSliderHover: (position) {
         setState(() {
           _sliderHoverPosition = position;
+          _hoveredChapterTitle = ''; // Default to empty
+          
           final sliderWidth = MediaQuery.of(context).size.width - 64;
           final totalMillis = _totalDuration.inMilliseconds;
-          if (totalMillis > 0 && _currentAudiobook != null) {
+          if (totalMillis > 0 && _currentAudiobook != null && _currentAudiobook!.chapters.isNotEmpty) {
             final hoverTime = Duration(
               milliseconds: ((position / sliderWidth) * totalMillis).toInt()
             );
@@ -5322,6 +5385,9 @@ class _PlayerScreenState extends State<PlayerScreen> {
           case 'fullscreen':
             _toggleFullscreen();
             break;
+          case 'youtube_dialog':
+            _showYouTubeDialog();
+            break;
           case 'adhan_clock':
             setState(() {
               _showAdhanOverlay = !_showAdhanOverlay;
@@ -5347,287 +5413,25 @@ class _PlayerScreenState extends State<PlayerScreen> {
       onOpenSubtitleManager: _openSubtitleManager,
       onJumpToChapter: _jumpToChapter,
       buildColoredTextSpan: _buildColoredTextSpan,
-    );
-  }
-
-  Widget _buildYouTubePlayer() {
-    return Column(
-      children: [
-        Container(
-          padding: const EdgeInsets.all(16),
-          color: const Color(0xFF1E1E1E),
-          child: Row(
-            children: [
-              const Icon(Icons.headphones, color: Colors.deepPurple, size: 32),
-              const SizedBox(width: 16),
-              Expanded(
-                child: Column(
-                  crossAxisAlignment: CrossAxisAlignment.start,
-                  children: [
-                    Row(
-                      children: [
-                        const Text(
-                          'YouTube Audio',
-                          style: TextStyle(color: Colors.deepPurple, fontSize: 12),
-                        ),
-                        if (_youtubeChannelName != null) ...[
-                          const Text(
-                            ' • ',
-                            style: TextStyle(color: Colors.deepPurple, fontSize: 12),
-                          ),
-                          Flexible(
-                            child: Text(
-                              _youtubeChannelName!,
-                              style: const TextStyle(color: Colors.deepPurple, fontSize: 12),
-                              overflow: TextOverflow.ellipsis,
-                            ),
-                          ),
-                        ],
-                      ],
-                    ),
-                    Text(
-                      _youtubeTitle ?? 'Loading...',
-                      style: const TextStyle(
-                        color: Colors.white70,
-                        fontSize: 16,
-                      ),
-                      maxLines: 2,
-                      overflow: TextOverflow.ellipsis,
-                    ),
-                  ],
-                ),
-              ),
-              IconButton(
-                icon: const Icon(Icons.font_download, color: Colors.white70),
-                onPressed: () {
-                  setState(() {
-                    _showPanel = true;
-                    _panelMode = PanelMode.fonts;
-                  });
-                },
-                tooltip: 'Fonts (f)',
-              ),
-              IconButton(
-                icon: const Icon(Icons.palette, color: Colors.white70),
-                onPressed: () {
-                  setState(() {
-                    _showPanel = true;
-                    _panelMode = PanelMode.colors;
-                  });
-                },
-                tooltip: 'Colors (o)',
-              ),
-              IconButton(
-                icon: const Icon(Icons.subtitles, color: Colors.white70),
-                onPressed: () {
-                  setState(() {
-                    _showPanel = true;
-                    _panelMode = PanelMode.subs;
-                  });
-                },
-                tooltip: 'Subs (s)',
-              ),
-              IconButton(
-                icon: const Icon(Icons.close, color: Colors.white),
-                onPressed: () async {
-                  await player.stop();
-                  setState(() {
-                    _isYouTubeStream = false;
-                    _youtubeTitle = null;
-                    _subtitles = [];
-                    _originalSubtitles = [];
-                    _currentSubtitleText = '';
-                    _subtitleFilePath = null;
-                  });
-                },
-                tooltip: 'Stop YouTube stream',
-              ),
-            ],
-          ),
-        ),
-        
-        Expanded(
-          child: GestureDetector(
-            onTap: () {
-              if (_showPanel) {
-                setState(() {
-                  _showPanel = false;
-                });
-              }
-              _focusNode.requestFocus();
-            },
-            child: Container(
-              color: Colors.black,
-              child: Center(
-                child: Padding(
-                  padding: const EdgeInsets.symmetric(horizontal: 32),
-                  child: _currentSubtitleText.isNotEmpty
-                      ? RichText(
-                          textAlign: TextAlign.center,
-                          text: _buildColoredTextSpan(_currentSubtitleText),
-                        )
-                      : Text(
-                          _isLoadingYouTube 
-                              ? 'Loading...' 
-                              : (_subtitles.isEmpty 
-                                  ? 'Loading subtitles...' 
-                                  : ''),
-                          style: const TextStyle(
-                            color: Colors.white54,
-                            fontSize: 24,
-                          ),
-                        ),
-                ),
-              ),
-            ),
-          ),
-        ),
-        
-        Container(
-          padding: const EdgeInsets.all(16),
-          color: const Color(0xFF1E1E1E),
-          child: Column(
-            children: [
-              SliderTheme(
-                data: SliderTheme.of(context).copyWith(
-                  thumbShape: const RoundSliderThumbShape(enabledThumbRadius: 6),
-                  overlayShape: const RoundSliderOverlayShape(overlayRadius: 12),
-                  trackHeight: 4,
-                ),
-                child: Slider(
-                  value: _currentPosition.inMilliseconds.toDouble(),
-                  max: _totalDuration.inMilliseconds.toDouble().clamp(1, double.infinity),
-                  onChanged: (value) {
-                    _seekTo(Duration(milliseconds: value.toInt()));
-                  },
-                  activeColor: Colors.deepPurple,
-                  inactiveColor: Colors.white24,
-                ),
-              ),
-              
-              Padding(
-                padding: const EdgeInsets.symmetric(horizontal: 16),
-                child: Row(
-                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                  children: [
-                    Text(
-                      _formatDuration(_currentPosition),
-                      style: const TextStyle(color: Colors.white70, fontSize: 12),
-                    ),
-                    Flexible(
-                      child: Text(
-                        '$_selectedFont${_conversionType != 'none' ? ' • $_conversionType' : ''}${_currentColorPalette != null ? ' • ${_currentColorPalette!.name}' : ''} • ${_subtitleFontSize.round()} • ${_subtitleLineSpacing.toStringAsFixed(2)}',
-                        style: TextStyle(color: Colors.purple[200], fontSize: 11),
-                        overflow: TextOverflow.ellipsis,
-                      ),
-                    ),
-                    Text(
-                      _formatDuration(_totalDuration),
-                      style: const TextStyle(color: Colors.white70, fontSize: 12),
-                    ),
-                  ],
-                ),
-              ),
-              
-              const SizedBox(height: 8),
-              
-              Row(
-                mainAxisAlignment: MainAxisAlignment.center,
-                children: [
-                  IconButton(
-                    icon: const Icon(Icons.text_decrease, color: Colors.white54),
-                    iconSize: 24,
-                    onPressed: _decreaseFontSize,
-                    tooltip: 'Decrease font size (↓)',
-                  ),
-                  IconButton(
-                    icon: const Icon(Icons.text_increase, color: Colors.white54),
-                    iconSize: 24,
-                    onPressed: _increaseFontSize,
-                    tooltip: 'Increase font size (↑)',
-                  ),
-                  const SizedBox(width: 8),
-                  IconButton(
-                    icon: const Icon(Icons.density_small, color: Colors.white54),
-                    iconSize: 24,
-                    onPressed: () {
-                      setState(() {
-                        _subtitleLineSpacing = ((_subtitleLineSpacing * 100).round() - 1) / 100;
-                        _subtitleLineSpacing = _subtitleLineSpacing.clamp(0.5, 2.5);
-                      });
-                    },
-                    tooltip: 'Decrease line spacing (⌃↓)',
-                  ),
-                  IconButton(
-                    icon: const Icon(Icons.density_large, color: Colors.white54),
-                    iconSize: 24,
-                    onPressed: () {
-                      setState(() {
-                        _subtitleLineSpacing = ((_subtitleLineSpacing * 100).round() + 1) / 100;
-                        _subtitleLineSpacing = _subtitleLineSpacing.clamp(0.5, 2.5);
-                      });
-                    },
-                    tooltip: 'Increase line spacing (⌃↑)',
-                  ),
-                  const SizedBox(width: 16),
-                  IconButton(
-                    icon: const Icon(Icons.replay_10, color: Colors.white54),
-                    iconSize: 32,
-                    onPressed: _skipBackward,
-                  ),
-                  const SizedBox(width: 16),
-                  IconButton(
-                    icon: Icon(
-                      _isPlaying ? Icons.pause_circle_filled : Icons.play_circle_filled,
-                      color: Colors.deepPurple,
-                    ),
-                    iconSize: 64,
-                    onPressed: _togglePlayPause,
-                  ),
-                  const SizedBox(width: 16),
-                  IconButton(
-                    icon: const Icon(Icons.forward_10, color: Colors.white54),
-                    iconSize: 32,
-                    onPressed: _skipForward,
-                  ),
-                  const SizedBox(width: 16),
-                  IconButton(
-                    icon: const Icon(Icons.remove, color: Colors.white54),
-                    iconSize: 24,
-                    onPressed: _decreaseSpeed,
-                    tooltip: 'Decrease speed [',
-                  ),
-                  Text(
-                    '${_playbackSpeed.toStringAsFixed(2)}x',
-                    style: const TextStyle(color: Colors.white70),
-                  ),
-                  IconButton(
-                    icon: const Icon(Icons.add, color: Colors.white54),
-                    iconSize: 24,
-                    onPressed: _increaseSpeed,
-                    tooltip: 'Increase speed ] ',
-                  ),
-                  IconButton(
-                    icon: const Icon(Icons.subtitles, color: Colors.white70),
-                    onPressed: _showSubtitlePreferencesDialog,
-                    tooltip: 'Subtitle preferences',
-                  ),
-                  IconButton(
-                    icon: const Icon(Icons.download, color: Colors.white70),
-                    onPressed: _showDownloadDialog,
-                    tooltip: 'Download audio (⇧D)',
-                  ),
-                  IconButton(
-                    icon: const Icon(Icons.link, color: Colors.white70),
-                    onPressed: _showYouTubeDialog,
-                    tooltip: 'YouTube URL (⇧Y)',
-                  ),
-                ],
-              ),
-            ],
-          ),
-        ),
-      ],
+      isYouTubeStream: _isYouTubeStream,
+      youtubeTitle: _youtubeTitle,
+      youtubeChannelName: _youtubeChannelName,
+      onShowSubtitlePreferences: _showSubtitlePreferencesDialog,
+      onShowDownload: _showDownloadDialog,
+      onShowYouTubeDialog: _showYouTubeDialog,
+      onCloseYouTube: () async {
+        await player.stop();
+        setState(() {
+          _isYouTubeStream = false;
+          _youtubeTitle = null;
+          _youtubeChannelName = null;
+          _currentYouTubeUrl = null;
+          _subtitles = [];
+          _originalSubtitles = [];
+          _currentSubtitleText = '';
+          _subtitleFilePath = null;
+        });
+      },
     );
   }
 
@@ -6260,6 +6064,210 @@ class _PlayerScreenState extends State<PlayerScreen> {
     }
   }
 
+  Future<void> _downloadYouTubeSubtitles(String url, String title) async {
+     try {
+       print('=== Starting subtitle download for: $title ===');
+       
+       final tempDir = Directory.systemTemp.path;
+       final ytSubDir = path.join(tempDir, 'substitcher_yt_subs');
+       await Directory(ytSubDir).create(recursive: true);
+       
+       String? subtitlePath;
+       String selectedLang = _subtitlePreferences.defaultLanguage;
+       
+      if (_subtitlePreferences.autoTranslate) {
+        print('Auto-translate enabled: translating to ${_subtitlePreferences.translateTarget}');
+        
+        subtitlePath = await YouTubeService.downloadAutoTranslatedSubtitles(
+          url,
+          ytSubDir,
+          '',
+          _subtitlePreferences.translateTarget,
+        );
+        
+        if (subtitlePath != null) {
+          selectedLang = '${_subtitlePreferences.translateTarget} (auto-translated)';
+        } else {
+          if (mounted) {
+            ScaffoldMessenger.of(context).showSnackBar(
+              SnackBar(
+                content: Text('Auto-translate to ${_subtitlePreferences.translateTarget} failed - no auto-captions available'),
+                backgroundColor: Colors.orange,
+                duration: const Duration(seconds: 3),
+              ),
+            );
+          }
+          return;
+        }
+      } else {
+  
+         print('Attempting to download default language: $selectedLang');
+         
+         subtitlePath = await YouTubeService.downloadAndFixSubtitles(
+           url,
+           ytSubDir,
+           lang: selectedLang,
+         );
+       }
+       
+       if (subtitlePath == null) {
+         print('Default language $selectedLang failed, showing language selection...');
+         
+         if (!mounted) return;
+         
+         final availableSubs = await YouTubeService.getAvailableSubtitles(
+           url,
+           _subtitlePreferences.enabledLanguages,
+         );
+         
+         final selected = await showDialog<String>(
+           context: context,
+           builder: (context) => AlertDialog(
+             backgroundColor: const Color(0xFF2D2D2D),
+             title: Row(
+               mainAxisAlignment: MainAxisAlignment.spaceBetween,
+               children: [
+                 const Text(
+                   'Select Subtitle Language',
+                   style: TextStyle(color: Colors.white),
+                 ),
+                 IconButton(
+                   icon: const Icon(Icons.settings, color: Colors.white54, size: 20),
+                   onPressed: () {
+                     Navigator.pop(context);
+                     _showSubtitlePreferencesDialog();
+                   },
+                   tooltip: 'Configure languages',
+                 ),
+               ],
+             ),
+             content: SizedBox(
+               width: 400,
+               child: Column(
+                 mainAxisSize: MainAxisSize.min,
+                 children: [
+                   Container(
+                     padding: const EdgeInsets.all(12),
+                     decoration: BoxDecoration(
+                       color: Colors.orange.withOpacity(0.2),
+                       borderRadius: BorderRadius.circular(8),
+                       border: Border.all(color: Colors.orange),
+                     ),
+                     child: Text(
+                       'Default language "$selectedLang" not available.\nSelect an alternative:',
+                       style: const TextStyle(color: Colors.orange, fontSize: 12),
+                       textAlign: TextAlign.center,
+                     ),
+                   ),
+                   const SizedBox(height: 16),
+                   Flexible(
+                     child: ListView.builder(
+                       shrinkWrap: true,
+                       itemCount: availableSubs.length,
+                       itemBuilder: (context, index) {
+                         final sub = availableSubs[index];
+                         return ListTile(
+                           title: Text(
+                             sub['name']!,
+                             style: const TextStyle(color: Colors.white),
+                           ),
+                           subtitle: Text(
+                             sub['code']!,
+                             style: const TextStyle(color: Colors.white54),
+                           ),
+                           onTap: () => Navigator.pop(context, sub['code']),
+                         );
+                       },
+                     ),
+                   ),
+                 ],
+               ),
+             ),
+             actions: [
+               TextButton(
+                 onPressed: () => Navigator.pop(context),
+                 child: const Text('Cancel'),
+               ),
+             ],
+           ),
+         );
+         
+         if (selected == null) {
+           print('User cancelled subtitle selection');
+           return;
+         }
+         
+         selectedLang = selected;
+         print('User selected alternative: $selectedLang');
+         
+         subtitlePath = await YouTubeService.downloadAndFixSubtitles(
+           url,
+           ytSubDir,
+           lang: selectedLang,
+         );
+       }
+       
+       print('Subtitle path result: $subtitlePath');
+       
+       if (subtitlePath != null && mounted) {
+         print('Loading subtitle file: $subtitlePath');
+         final content = await File(subtitlePath).readAsString();
+         final originalSubtitles = _parseVTT(content);
+         print('Parsed ${originalSubtitles.length} subtitle cues');
+         
+         setState(() {
+           _originalSubtitles = originalSubtitles;
+           _subtitleFilePath = subtitlePath;
+           _paragraphItems = _createParagraphs(originalSubtitles);
+         });
+         
+         if (_conversionType != 'none' && _subtitleFilePath != null) {
+           print('Applying conversion: $_conversionType');
+           await _applyConversion();
+         } else {
+           setState(() {
+             _subtitles = originalSubtitles;
+           });
+         }
+         
+         _updateCurrentSubtitle();
+         _precalculateWordPositions();
+         
+         if (mounted) {
+           ScaffoldMessenger.of(context).showSnackBar(
+             SnackBar(
+               content: Text(
+                 'Loaded ${_subtitles.length} subtitle cues ($selectedLang)${_conversionType != 'none' ? ' • $_conversionType' : ''}',
+               ),
+               duration: const Duration(seconds: 3),
+             ),
+           );
+         }
+       } else if (mounted) {
+         print('Failed to download subtitle');
+         ScaffoldMessenger.of(context).showSnackBar(
+           SnackBar(
+             content: Text('No $selectedLang subtitles available for this video'),
+             backgroundColor: Colors.orange,
+             duration: const Duration(seconds: 3),
+           ),
+         );
+       }
+     } catch (e, stackTrace) {
+       print('Error downloading YouTube subtitles: $e');
+       print('Stack trace: $stackTrace');
+       if (mounted) {
+         ScaffoldMessenger.of(context).showSnackBar(
+           SnackBar(
+             content: Text('Subtitle download failed: $e'),
+             backgroundColor: Colors.orange,
+             duration: const Duration(seconds: 3),
+           ),
+         );
+       }
+     }
+   }
+
   Future<void> _handleYouTubeUrl(String url) async {
     if (!YouTubeService.isYouTubeUrl(url)) return;
     
@@ -6286,7 +6294,8 @@ class _PlayerScreenState extends State<PlayerScreen> {
       }
       
       final title = await YouTubeService.getVideoTitle(url);
-     final channelName = await YouTubeService.getChannelName(url);
+      final channelName = await YouTubeService.getChannelName(url);
+      final chapters = await YouTubeService.getVideoChapters(url);
       
       if (mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
@@ -6303,7 +6312,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
         throw Exception('Could not get audio stream URL');
       }
       
-      if (_currentAudiobook != null) {
+      if (_currentAudiobook != null && _currentAudiobook!.chapters.isNotEmpty) {
         final currentChapter = _currentAudiobook!.chapters[_currentChapterIndex];
         if (!_shouldSkipTracking(path.basenameWithoutExtension(_currentAudiobook!.path))) {
           _statsManager.recordChapterEnd(
@@ -6316,8 +6325,39 @@ class _PlayerScreenState extends State<PlayerScreen> {
       
       await player.stop();
       
+      List<Chapter> youtubeChapters = [];
+      if (chapters != null && chapters.isNotEmpty) {
+        for (int i = 0; i < chapters.length; i++) {
+          final chapterData = chapters[i];
+          final startTime = Duration(seconds: (chapterData['start_time'] as num).toInt());
+          
+          Duration endTime;
+          if (i < chapters.length - 1) {
+            endTime = Duration(seconds: (chapters[i + 1]['start_time'] as num).toInt());
+          } else {
+            endTime = const Duration(hours: 24);
+          }
+          
+          youtubeChapters.add(Chapter(
+            index: i,
+            title: chapterData['title'] as String? ?? 'Chapter ${i + 1}',
+            startTime: startTime,
+            endTime: endTime,
+            duration: endTime - startTime,
+          ));
+        }
+      }
+      
       setState(() {
-        _currentAudiobook = null;
+        _currentAudiobook = AudiobookMetadata(
+          path: url,
+          title: title,
+          author: channelName ?? 'Unknown',
+          year: '',
+          duration: Duration.zero,
+          chapters: youtubeChapters,
+        );
+        _currentChapterIndex = youtubeChapters.isEmpty ? 0 : 0;
         _isYouTubeStream = true;
         _youtubeTitle = title;
         _youtubeChannelName = channelName;
@@ -6341,6 +6381,33 @@ class _PlayerScreenState extends State<PlayerScreen> {
       
       await player.open(Media(audioUrl));
       await player.setRate(_playbackSpeed);
+      
+      if (youtubeChapters.isNotEmpty) {
+        await player.stream.duration.first;
+        
+        if (_totalDuration > Duration.zero) {
+          final lastChapter = youtubeChapters.last;
+          youtubeChapters[youtubeChapters.length - 1] = Chapter(
+            index: lastChapter.index,
+            title: lastChapter.title,
+            startTime: lastChapter.startTime,
+            endTime: _totalDuration,
+            duration: _totalDuration - lastChapter.startTime,
+          );
+          
+          setState(() {
+            _currentAudiobook = AudiobookMetadata(
+              path: url,
+              title: title,
+              author: channelName ?? 'Unknown',
+              year: '',
+              duration: _totalDuration,
+              chapters: youtubeChapters,
+            );
+          });
+        }
+      }
+      
       await player.play();
       
       _downloadYouTubeSubtitles(url, title);
@@ -6348,14 +6415,15 @@ class _PlayerScreenState extends State<PlayerScreen> {
       if (mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
           SnackBar(
-            content: Text('Now playing: $title'),
+            content: Text('Now playing: $title${youtubeChapters.isNotEmpty ? ' (${youtubeChapters.length} chapters)' : ''}'),
             backgroundColor: Colors.green,
             duration: const Duration(seconds: 3),
           ),
         );
       }
-    } catch (e) {
+      } catch (e, stackTrace) {
       print('Error loading YouTube audio: $e');
+      print('Stack trace: $stackTrace');
       if (mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
           SnackBar(
@@ -6393,7 +6461,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
           ),
           content: SizedBox(
             width: 500,
-            height: 500,
+            height: 600,
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
@@ -6429,6 +6497,80 @@ class _PlayerScreenState extends State<PlayerScreen> {
                     },
                   ),
                 ),
+                
+                const SizedBox(height: 24),
+                
+                Container(
+                  padding: const EdgeInsets.all(12),
+                  decoration: BoxDecoration(
+                    color: prefs.autoTranslate 
+                        ? Colors.green.withOpacity(0.1) 
+                        : Colors.transparent,
+                    borderRadius: BorderRadius.circular(8),
+                    border: Border.all(
+                      color: prefs.autoTranslate ? Colors.green : Colors.white24,
+                    ),
+                  ),
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      CheckboxListTile(
+                        title: const Text(
+                          'Auto-Translate Subtitles',
+                          style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold),
+                        ),
+                        subtitle: const Text(
+                          'Use YouTube\'s auto-translation feature',
+                          style: TextStyle(color: Colors.white54, fontSize: 11),
+                        ),
+                        value: prefs.autoTranslate,
+                        onChanged: (value) {
+                          setDialogState(() {
+                            prefs.autoTranslate = value ?? false;
+                          });
+                        },
+                        activeColor: Colors.green,
+                        contentPadding: EdgeInsets.zero,
+                      ),
+                      if (prefs.autoTranslate) ...[
+                        const SizedBox(height: 12),
+                        const Text(
+                          'Translate to:',
+                          style: TextStyle(color: Colors.white70, fontSize: 14),
+                        ),
+                        const SizedBox(height: 8),
+                        Container(
+                          padding: const EdgeInsets.symmetric(horizontal: 12),
+                          decoration: BoxDecoration(
+                            color: const Color(0xFF1E1E1E),
+                            borderRadius: BorderRadius.circular(8),
+                          ),
+                          child: DropdownButton<String>(
+                            value: prefs.translateTarget,
+                            isExpanded: true,
+                            dropdownColor: const Color(0xFF1E1E1E),
+                            style: const TextStyle(color: Colors.white),
+                            underline: Container(),
+                            items: SubtitlePreferences.availableLanguages.entries
+                                .map((entry) => DropdownMenuItem(
+                                      value: entry.key,
+                                      child: Text(entry.value),
+                                    ))
+                                .toList(),
+                            onChanged: (value) {
+                              if (value != null) {
+                                setDialogState(() {
+                                  prefs.translateTarget = value;
+                                });
+                              }
+                            },
+                          ),
+                        ),
+                      ],
+                    ],
+                  ),
+                ),
+                
                 const SizedBox(height: 24),
                 const Text(
                   'Enabled Languages (check up to 10):',
@@ -6515,181 +6657,6 @@ class _PlayerScreenState extends State<PlayerScreen> {
       ),
     );
   }
-  
- Future<void> _downloadYouTubeSubtitles(String url, String title) async {
-   try {
-     print('=== Starting subtitle download for: $title ===');
-     
-     final tempDir = Directory.systemTemp.path;
-     final ytSubDir = path.join(tempDir, 'substitcher_yt_subs');
-     await Directory(ytSubDir).create(recursive: true);
-     
-     String selectedLang = _subtitlePreferences.defaultLanguage;
-     print('Attempting to download default language: $selectedLang');
-     
-     var subtitlePath = await YouTubeService.downloadAndFixSubtitles(
-       url,
-       ytSubDir,
-       lang: selectedLang,
-     );
-     
-     if (subtitlePath == null) {
-       print('Default language $selectedLang failed, showing language selection...');
-       
-       if (!mounted) return;
-       
-       final availableSubs = await YouTubeService.getAvailableSubtitles(
-         url,
-         _subtitlePreferences.enabledLanguages,
-       );
-       
-       final selected = await showDialog<String>(
-         context: context,
-         builder: (context) => AlertDialog(
-           backgroundColor: const Color(0xFF2D2D2D),
-           title: Row(
-             mainAxisAlignment: MainAxisAlignment.spaceBetween,
-             children: [
-               const Text(
-                 'Select Subtitle Language',
-                 style: TextStyle(color: Colors.white),
-               ),
-               IconButton(
-                 icon: const Icon(Icons.settings, color: Colors.white54, size: 20),
-                 onPressed: () {
-                   Navigator.pop(context);
-                   _showSubtitlePreferencesDialog();
-                 },
-                 tooltip: 'Configure languages',
-               ),
-             ],
-           ),
-           content: SizedBox(
-             width: 400,
-             child: Column(
-               mainAxisSize: MainAxisSize.min,
-               children: [
-                 Container(
-                   padding: const EdgeInsets.all(12),
-                   decoration: BoxDecoration(
-                     color: Colors.orange.withOpacity(0.2),
-                     borderRadius: BorderRadius.circular(8),
-                     border: Border.all(color: Colors.orange),
-                   ),
-                   child: Text(
-                     'Default language "$selectedLang" not available.\nSelect an alternative:',
-                     style: const TextStyle(color: Colors.orange, fontSize: 12),
-                     textAlign: TextAlign.center,
-                   ),
-                 ),
-                 const SizedBox(height: 16),
-                 Flexible(
-                   child: ListView.builder(
-                     shrinkWrap: true,
-                     itemCount: availableSubs.length,
-                     itemBuilder: (context, index) {
-                       final sub = availableSubs[index];
-                       return ListTile(
-                         title: Text(
-                           sub['name']!,
-                           style: const TextStyle(color: Colors.white),
-                         ),
-                         subtitle: Text(
-                           sub['code']!,
-                           style: const TextStyle(color: Colors.white54),
-                         ),
-                         onTap: () => Navigator.pop(context, sub['code']),
-                       );
-                     },
-                   ),
-                 ),
-               ],
-             ),
-           ),
-           actions: [
-             TextButton(
-               onPressed: () => Navigator.pop(context),
-               child: const Text('Cancel'),
-             ),
-           ],
-         ),
-       );
-       
-       if (selected == null) {
-         print('User cancelled subtitle selection');
-         return;
-       }
-       
-       selectedLang = selected;
-       print('User selected alternative: $selectedLang');
-       
-       subtitlePath = await YouTubeService.downloadAndFixSubtitles(
-         url,
-         ytSubDir,
-         lang: selectedLang,
-       );
-     }
-     
-     print('Subtitle path result: $subtitlePath');
-     
-     if (subtitlePath != null && mounted) {
-       print('Loading subtitle file: $subtitlePath');
-       final content = await File(subtitlePath).readAsString();
-       final originalSubtitles = _parseVTT(content);
-       print('Parsed ${originalSubtitles.length} subtitle cues');
-       
-       setState(() {
-         _originalSubtitles = originalSubtitles;
-         _subtitleFilePath = subtitlePath;
-         _paragraphItems = _createParagraphs(originalSubtitles);
-       });
-       
-       if (_conversionType != 'none' && _subtitleFilePath != null) {
-         print('Applying conversion: $_conversionType');
-         await _applyConversion();
-       } else {
-         setState(() {
-           _subtitles = originalSubtitles;
-         });
-       }
-       
-       _updateCurrentSubtitle();
-       _precalculateWordPositions();
-       
-       if (mounted) {
-         ScaffoldMessenger.of(context).showSnackBar(
-           SnackBar(
-             content: Text(
-               'Loaded ${_subtitles.length} subtitle cues ($selectedLang)${_conversionType != 'none' ? ' • $_conversionType' : ''}',
-             ),
-             duration: const Duration(seconds: 3),
-           ),
-         );
-       }
-     } else if (mounted) {
-       print('Failed to download subtitle');
-       ScaffoldMessenger.of(context).showSnackBar(
-         SnackBar(
-           content: Text('No $selectedLang subtitles available for this video'),
-           backgroundColor: Colors.orange,
-           duration: const Duration(seconds: 3),
-         ),
-       );
-     }
-   } catch (e, stackTrace) {
-     print('Error downloading YouTube subtitles: $e');
-     print('Stack trace: $stackTrace');
-     if (mounted) {
-       ScaffoldMessenger.of(context).showSnackBar(
-         SnackBar(
-           content: Text('Subtitle download failed: $e'),
-           backgroundColor: Colors.orange,
-           duration: const Duration(seconds: 3),
-         ),
-       );
-     }
-   }
- }
   
   Future<void> _showYouTubeDialog() async {
     final controller = TextEditingController();

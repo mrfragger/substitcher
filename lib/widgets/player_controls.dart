@@ -1,3 +1,4 @@
+import 'dart:io';
 import 'package:flutter/material.dart';
 import '../models/audiobook_metadata.dart';
 import '../models/pause_mode.dart';
@@ -57,6 +58,13 @@ class PlayerControls extends StatelessWidget {
   final PauseMode pauseMode;
   final Function(PauseMode) onPauseModeChanged;
   final VoidCallback onOpenSubtitleManager;
+  final bool isYouTubeStream;
+  final String? youtubeTitle;
+  final String? youtubeChannelName;
+  final VoidCallback? onShowSubtitlePreferences;
+  final VoidCallback? onShowDownload;
+  final VoidCallback? onShowYouTubeDialog;
+  final VoidCallback? onCloseYouTube;
   final TextSpan Function(String text, {double? fontSize, String? fontFamily, ColorPalette? palette, double? lineSpacing}) buildColoredTextSpan;
   
   const PlayerControls({
@@ -112,13 +120,26 @@ class PlayerControls extends StatelessWidget {
     required this.hoveringNextChapter,
     required this.onPrevChapterHover,
     required this.onNextChapterHover,   
+    this.isYouTubeStream = false,
+    this.youtubeTitle,
+    this.youtubeChannelName,
+    this.onShowSubtitlePreferences,
+    this.onShowDownload,
+    this.onShowYouTubeDialog,
+    this.onCloseYouTube,
     this.defaultColorPalette,
   });
 
   @override
   Widget build(BuildContext context) {
-    final currentChapter = audiobook.chapters[currentChapterIndex];
-    final fileName = path.basename(audiobook.path);
+    final currentChapter = audiobook.chapters.isEmpty
+        ? null 
+        : audiobook.chapters[currentChapterIndex];
+    
+    final fileName = isYouTubeStream 
+        ? youtubeTitle ?? 'YouTube Audio'
+        : path.basename(audiobook.path);
+        
     final chapterRemaining = _getChapterRemainingTime();
     final audiobookRemaining = _getAudiobookRemainingTime();
     final progressPercent = (totalDuration.inMilliseconds > 0 
@@ -133,45 +154,70 @@ class PlayerControls extends StatelessWidget {
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              Text(
-                fileName,
-                style: const TextStyle(
-                  color: Colors.white70,
-                  fontSize: 14,
-                ),
-                maxLines: 1,
-                overflow: TextOverflow.ellipsis,
-              ),
               Row(
                 children: [
-                  Flexible(
-                    child: RichText(
+                  if (isYouTubeStream) ...[
+                    if (onCloseYouTube != null)
+                      IconButton(
+                        icon: const Icon(Icons.close, color: Colors.red, size: 20),
+                        onPressed: onCloseYouTube,
+                        padding: EdgeInsets.zero,
+                        constraints: const BoxConstraints(),
+                        tooltip: 'Stop YouTube stream',
+                      ),
+                    const SizedBox(width: 8),
+                    const Icon(Icons.headphones, color: Colors.red, size: 16),
+                    const SizedBox(width: 8),
+                    if (youtubeChannelName != null) ...[
+                      Flexible(
+                        child: Text(
+                          youtubeChannelName!,
+                          style: const TextStyle(color: Colors.red, fontSize: 14),
+                          maxLines: 1,
+                          overflow: TextOverflow.ellipsis,
+                        ),
+                      ),
+                      const Text('  ', style: TextStyle(color: Colors.white70, fontSize: 14)),
+                    ],
+                  ],
+                  Expanded(
+                    child: Text(
+                      fileName,
+                      style: const TextStyle(color: Colors.white70, fontSize: 14),
                       maxLines: 1,
                       overflow: TextOverflow.ellipsis,
-                      text: TextSpan(
-                        style: const TextStyle(
-                          color: Colors.white,
-                          fontSize: 14,
-                        ),
-                        children: [
-                          TextSpan(
-                            text: hideChapterTitle 
-                                ? '↳ ${currentChapterIndex + 1}/${audiobook.chapters.length}'
-                                : '↳ ${currentChapterIndex + 1}/${audiobook.chapters.length}: ${currentChapter.title}',
-                          ),
-                          TextSpan(
-                            text: ' -${_formatChapterRemaining(chapterRemaining)}',
-                            style: const TextStyle(
-                              color: Colors.white54,
-                              fontWeight: FontWeight.normal,
-                            ),
-                          ),
-                        ],
-                      ),
                     ),
                   ),
                 ],
               ),
+              if (!isYouTubeStream && currentChapter != null)
+                Row(
+                  children: [
+                    Flexible(
+                      child: RichText(
+                        maxLines: 1,
+                        overflow: TextOverflow.ellipsis,
+                        text: TextSpan(
+                          style: const TextStyle(color: Colors.white, fontSize: 14),
+                          children: [
+                            TextSpan(
+                              text: hideChapterTitle 
+                                  ? '↳ ${currentChapterIndex + 1}/${audiobook.chapters.length}'
+                                  : '↳ ${currentChapterIndex + 1}/${audiobook.chapters.length}: ${currentChapter.title}',
+                            ),
+                            TextSpan(
+                              text: isYouTubeStream ? '' : ' -${_formatChapterRemaining(chapterRemaining)}',
+                              style: const TextStyle(
+                                color: Colors.white54,
+                                fontWeight: FontWeight.normal,
+                              ),
+                            ),
+                          ],
+                        ),
+                      ),
+                    ),
+                  ],
+                ),
             ],
           ),
         ),
@@ -303,16 +349,18 @@ class PlayerControls extends StatelessWidget {
                                           fontWeight: FontWeight.bold,
                                         ),
                                       ),
-                                      const SizedBox(height: 2),
-                                      Text(
-                                        hoveredChapterTitle!,
-                                        style: const TextStyle(
-                                          color: Colors.white,
-                                          fontSize: 12,
+                                      if (hoveredChapterTitle!.isNotEmpty) ...[
+                                        const SizedBox(height: 2),
+                                        Text(
+                                          hoveredChapterTitle!,
+                                          style: const TextStyle(
+                                            color: Colors.white,
+                                            fontSize: 12,
+                                          ),
+                                          maxLines: 3,
+                                          overflow: TextOverflow.ellipsis,
                                         ),
-                                        maxLines: 3,
-                                        overflow: TextOverflow.ellipsis,
-                                      ),
+                                      ],
                                     ],
                                   ),
                                 ),
@@ -398,7 +446,7 @@ class PlayerControls extends StatelessWidget {
       ],
     );
   }
-
+  
   Widget _buildControls(BuildContext context) {
     return Row(
       mainAxisAlignment: MainAxisAlignment.center,
@@ -419,60 +467,65 @@ class PlayerControls extends StatelessWidget {
           tooltip: 'Increase speed ]',
         ),
         const SizedBox(width: 16),
-        MouseRegion(
-          onEnter: (_) => onPrevChapterHover(true),
-          onExit: (_) => onPrevChapterHover(false),
-          child: Stack(
-            clipBehavior: Clip.none,
-            children: [
-              IconButton(
-                onPressed: onPreviousChapter,
-                icon: const Icon(Icons.skip_previous),
-                color: Colors.white,
-                iconSize: 28,
-              ),
-              if (hoveringPrevChapter && currentChapterIndex > 0)
-                Positioned(
-                  bottom: 50,
-                  left: -100,
-                  child: Container(
-                    width: 250,
-                    padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
-                    decoration: BoxDecoration(
-                      color: Colors.deepPurple,
-                      borderRadius: BorderRadius.circular(4),
-                    ),
-                    child: Column(
-                      mainAxisSize: MainAxisSize.min,
-                      children: [
-                        Text(
-                          'Prev Chapter (Shift+←)',
-                          textAlign: TextAlign.center,
-                          style: const TextStyle(
-                            color: Colors.white,
-                            fontSize: 11,
-                            fontWeight: FontWeight.bold,
+        
+        if (!isYouTubeStream)
+          MouseRegion(
+            onEnter: (_) => onPrevChapterHover(true),
+            onExit: (_) => onPrevChapterHover(false),
+            child: Stack(
+              clipBehavior: Clip.none,
+              children: [
+                IconButton(
+                  onPressed: onPreviousChapter,
+                  icon: const Icon(Icons.skip_previous),
+                  color: Colors.white,
+                  iconSize: 28,
+                ),
+                if (hoveringPrevChapter && currentChapterIndex > 0)
+                  Positioned(
+                    bottom: 50,
+                    left: -100,
+                    child: Container(
+                      width: 250,
+                      padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+                      decoration: BoxDecoration(
+                        color: Colors.deepPurple,
+                        borderRadius: BorderRadius.circular(4),
+                      ),
+                      child: Column(
+                        mainAxisSize: MainAxisSize.min,
+                        children: [
+                          Text(
+                            'Prev Chapter (Shift+←)',
+                            textAlign: TextAlign.center,
+                            style: const TextStyle(
+                              color: Colors.white,
+                              fontSize: 11,
+                              fontWeight: FontWeight.bold,
+                            ),
                           ),
-                        ),
-                        const SizedBox(height: 2),
-                        Text(
-                          audiobook.chapters[currentChapterIndex - 1].title,
-                          textAlign: TextAlign.center,
-                          style: const TextStyle(
-                            color: Colors.white,
-                            fontSize: 12,
+                          const SizedBox(height: 2),
+                          Text(
+                            audiobook.chapters[currentChapterIndex - 1].title,
+                            textAlign: TextAlign.center,
+                            style: const TextStyle(
+                              color: Colors.white,
+                              fontSize: 12,
+                            ),
+                            maxLines: 3,
+                            overflow: TextOverflow.ellipsis,
                           ),
-                          maxLines: 3,
-                          overflow: TextOverflow.ellipsis,
-                        ),
-                      ],
+                        ],
+                      ),
                     ),
                   ),
-                ),
-            ],
+              ],
+            ),
           ),
-        ),
-        const SizedBox(width: 8),
+        
+        if (!isYouTubeStream)
+          const SizedBox(width: 8),
+        
         IconButton(
           onPressed: onSkipBackward,
           icon: const Icon(Icons.arrow_back_ios_outlined),
@@ -495,137 +548,185 @@ class PlayerControls extends StatelessWidget {
           iconSize: 24,
           tooltip: 'Next Sub →',
         ),
-        const SizedBox(width: 8),
-        MouseRegion(
-          onEnter: (_) => onNextChapterHover(true),
-          onExit: (_) => onNextChapterHover(false),
-          child: Stack(
-            clipBehavior: Clip.none,
-            children: [
-              IconButton(
-                onPressed: onNextChapter,
-                icon: const Icon(Icons.skip_next),
-                color: Colors.white,
-                iconSize: 28,
-              ),
-              if (hoveringNextChapter && currentChapterIndex < audiobook.chapters.length - 1)
-                Positioned(
-                  bottom: 50,
-                  left: -100,
-                  child: Container(
-                    width: 250,
-                    padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
-                    decoration: BoxDecoration(
-                      color: Colors.deepPurple,
-                      borderRadius: BorderRadius.circular(4),
-                    ),
-                    child: Column(
-                      mainAxisSize: MainAxisSize.min,
-                      children: [
-                        Text(
-                          'Next Chapter (Shift+→)',
-                          textAlign: TextAlign.center,
-                          style: const TextStyle(
-                            color: Colors.white,
-                            fontSize: 11,
-                            fontWeight: FontWeight.bold,
+        
+        if (!isYouTubeStream)
+          const SizedBox(width: 8),
+        
+        if (!isYouTubeStream)
+          MouseRegion(
+            onEnter: (_) => onNextChapterHover(true),
+            onExit: (_) => onNextChapterHover(false),
+            child: Stack(
+              clipBehavior: Clip.none,
+              children: [
+                IconButton(
+                  onPressed: onNextChapter,
+                  icon: const Icon(Icons.skip_next),
+                  color: Colors.white,
+                  iconSize: 28,
+                ),
+                if (hoveringNextChapter && currentChapterIndex < audiobook.chapters.length - 1)
+                  Positioned(
+                    bottom: 50,
+                    left: -100,
+                    child: Container(
+                      width: 250,
+                      padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+                      decoration: BoxDecoration(
+                        color: Colors.deepPurple,
+                        borderRadius: BorderRadius.circular(4),
+                      ),
+                      child: Column(
+                        mainAxisSize: MainAxisSize.min,
+                        children: [
+                          Text(
+                            'Next Chapter (Shift+→)',
+                            textAlign: TextAlign.center,
+                            style: const TextStyle(
+                              color: Colors.white,
+                              fontSize: 11,
+                              fontWeight: FontWeight.bold,
+                            ),
                           ),
-                        ),
-                        const SizedBox(height: 2),
-                        Text(
-                          audiobook.chapters[currentChapterIndex + 1].title,
-                          textAlign: TextAlign.center,
-                          style: const TextStyle(
-                            color: Colors.white,
-                            fontSize: 12,
+                          const SizedBox(height: 2),
+                          Text(
+                            audiobook.chapters[currentChapterIndex + 1].title,
+                            textAlign: TextAlign.center,
+                            style: const TextStyle(
+                              color: Colors.white,
+                              fontSize: 12,
+                            ),
+                            maxLines: 3,
+                            overflow: TextOverflow.ellipsis,
                           ),
-                          maxLines: 3,
-                          overflow: TextOverflow.ellipsis,
-                        ),
-                      ],
+                        ],
+                      ),
                     ),
                   ),
-                ),
+              ],
+            ),
+          ),
+        
+        const SizedBox(width: 16),
+        
+        if (!isYouTubeStream)
+          IconButton(
+            onPressed: onToggleShuffle,
+            icon: const Icon(Icons.shuffle),
+            color: shuffleEnabled ? Colors.deepPurple : Colors.white,
+            iconSize: 24,
+            tooltip: shuffleEnabled ? 'Shuffle ${playedChapters.length}/${audiobook.chapters.length}' : 'Shuffle off',
+          ),
+        
+        if (!isYouTubeStream)
+          const SizedBox(width: 8),
+        
+        if (!isYouTubeStream)
+          PopupMenuButton<Duration?>(
+            icon: Icon(
+              Icons.access_time,
+              color: sleepDuration != null ? Colors.deepPurple : Colors.white,
+              size: 24,
+            ),
+            tooltip: 'Sleep Timer',
+            onSelected: onSetSleepTimer,
+            itemBuilder: (context) => [
+              const PopupMenuItem(
+                value: Duration(seconds: -1), 
+                child: Text('Off (Z)'),
+              ),
+              const PopupMenuItem(
+                value: Duration(minutes: 15),
+                child: Text('15 minutes'),
+              ),
+              const PopupMenuItem(
+                value: Duration(minutes: 30),
+                child: Text('30 minutes'),
+              ),
+              const PopupMenuItem(
+                value: Duration(minutes: 45),
+                child: Text('45 minutes'),
+              ),
+              const PopupMenuItem(
+                value: Duration(minutes: 60),
+                child: Text('60 minutes'),
+              ),
+              const PopupMenuItem(
+                value: Duration(minutes: 90),
+                child: Text('90 minutes'),
+              ),
+              const PopupMenuItem(
+                value: Duration(minutes: 120),
+                child: Text('120 minutes'),
+              ),
+              const PopupMenuItem(
+                value: Duration(minutes: -1),
+                child: Text('End of Audiobook'),
+              ),
+              const PopupMenuItem(
+                value: Duration.zero,
+                child: Text('Chapter end (z)'),
+              ),
             ],
           ),
-        ),
-        const SizedBox(width: 16),
-        IconButton(
-          onPressed: onToggleShuffle,
-          icon: const Icon(Icons.shuffle),
-          color: shuffleEnabled ? Colors.deepPurple : Colors.white,
-          iconSize: 24,
-          tooltip: shuffleEnabled ? 'Shuffle ${playedChapters.length}/${audiobook.chapters.length}' : 'Shuffle off',
-        ),
-        const SizedBox(width: 8),
-        PopupMenuButton<Duration?>(
-          icon: Icon(
-            Icons.access_time,
-            color: sleepDuration != null ? Colors.deepPurple : Colors.white,
-            size: 24,
+        
+        if (!isYouTubeStream)
+          const SizedBox(width: 8),
+        
+        if (!isYouTubeStream)
+          Tooltip(
+            message: 'Add Bookmark (n)',
+            child: IconButton(
+              onPressed: onAddBookmark,
+              icon: const Icon(Icons.bookmark_add),
+              color: Colors.white,
+              iconSize: 24,
+            ),
           ),
-          tooltip: 'Sleep Timer',
-          onSelected: onSetSleepTimer,
-          itemBuilder: (context) => [
-            const PopupMenuItem(
-              value: Duration(seconds: -1), 
-              child: Text('Off (Z)'),
+        
+        if (!isYouTubeStream)
+          const SizedBox(width: 8),
+        
+        if (!isYouTubeStream)
+          Tooltip(
+            message: 'Chapters (c)',
+            child: IconButton(
+              icon: const Icon(Icons.view_timeline),
+              color: Colors.white,
+              iconSize: 28,
+              onPressed: onTogglePanel,
             ),
-            const PopupMenuItem(
-              value: Duration(minutes: 15),
-              child: Text('15 minutes'),
-            ),
-            const PopupMenuItem(
-              value: Duration(minutes: 30),
-              child: Text('30 minutes'),
-            ),
-            const PopupMenuItem(
-              value: Duration(minutes: 45),
-              child: Text('45 minutes'),
-            ),
-            const PopupMenuItem(
-              value: Duration(minutes: 60),
-              child: Text('60 minutes'),
-            ),
-            const PopupMenuItem(
-              value: Duration(minutes: 90),
-              child: Text('90 minutes'),
-            ),
-            const PopupMenuItem(
-              value: Duration(minutes: 120),
-              child: Text('120 minutes'),
-            ),
-            const PopupMenuItem(
-              value: Duration(minutes: -1),
-              child: Text('End of Audiobook'),
-            ),
-            const PopupMenuItem(
-              value: Duration.zero,
-              child: Text('Chapter end (z)'),
-            ),
-          ],
-        ),
-        const SizedBox(width: 8),
-        Tooltip(
-          message: 'Add Bookmark (n)',
-          child: IconButton(
-            onPressed: onAddBookmark,
-            icon: const Icon(Icons.bookmark_add),
-            color: Colors.white,
-            iconSize: 24,
           ),
-        ),
+        
         const SizedBox(width: 8),
-        Tooltip(
-          message: 'Chapters (c)',
-          child: IconButton(
-            icon: const Icon(Icons.view_timeline),
-            color: Colors.white,
-            iconSize: 28,
-            onPressed: onTogglePanel,
-          ),
-        ),
-        const SizedBox(width: 8),
+        
+        if (isYouTubeStream) ...[
+          if (onShowSubtitlePreferences != null)
+            IconButton(
+              icon: const Icon(Icons.closed_caption_outlined, color: Colors.white),
+              onPressed: onShowSubtitlePreferences,
+              iconSize: 24,
+              tooltip: 'Subtitle preferences',
+            ),
+          const SizedBox(width: 8),
+          if (onShowDownload != null)
+            IconButton(
+              icon: const Icon(Icons.download, color: Colors.white),
+              onPressed: onShowDownload,
+              iconSize: 24,
+              tooltip: 'Download audio (⇧D)',
+            ),
+          const SizedBox(width: 8),
+          if (onShowYouTubeDialog != null)
+            IconButton(
+              icon: const Icon(Icons.link, color: Colors.white),
+              onPressed: onShowYouTubeDialog,
+              iconSize: 24,
+              tooltip: 'Change YouTube URL (⇧Y)',
+            ),
+          const SizedBox(width: 8),
+        ],
+        
         PopupMenuButton<String>(
           icon: const Icon(Icons.text_fields, color: Colors.white, size: 24),
           tooltip: 'Appearance & Subtitles',
@@ -659,10 +760,11 @@ class PlayerControls extends StatelessWidget {
                 child: const Text('Apply Font/Color Default (a)'),
               ),
             ),
-            const PopupMenuItem(
-              value: 'subtitle_manager',
-              child: Text('Subtitle Manager (v)'),
-            ),
+            if (!isYouTubeStream)
+              const PopupMenuItem(
+                value: 'subtitle_manager',
+                child: Text('Subtitle Manager (v)'),
+              ),
             PopupMenuItem(
               enabled: false,
               child: PopupMenuButton<PauseMode>(
@@ -747,6 +849,7 @@ class PlayerControls extends StatelessWidget {
           ],
         ),
         const SizedBox(width: 8),
+        
         PopupMenuButton<String>(
           icon: const Icon(Icons.settings, color: Colors.white, size: 24),
           tooltip: 'Settings',
@@ -756,30 +859,36 @@ class PlayerControls extends StatelessWidget {
               value: 'adhan_clock',
               child: Text('Adhan Clock (m)'),
             ),
-             const PopupMenuItem(
+            const PopupMenuItem(
               value: 'fullscreen',
               child: Text('Fullscreen (y)'),
             ),
-            const PopupMenuItem(
-              value: 'encoder',
-              child: Text('Encode Audiobook (e)'),
-            ),
-            const PopupMenuItem(
-              value: 'copy_metadata',
-              child: Text('Copy Metadata (i)'),
-            ),
-            const PopupMenuItem(
-              value: 'copy_chapters',
-              child: Text('Copy Chapters List & .txt (r)'),
-            ),
-            const PopupMenuItem(
-              value: 'open_dir',
-              child: Text('Open Dir of Audiobook (j)'),
-            ),
-            const PopupMenuItem(
-              value: 'load',
-              child: Text('Load Audiobook (l)'),
-            ),
+            if (!isYouTubeStream && !Platform.isAndroid && !Platform.isIOS) ...[
+              const PopupMenuItem(
+                value: 'youtube_dialog',
+                child: Text('YouTube Audio (⇧Y)'),
+              ),
+              const PopupMenuItem(
+                value: 'encoder',
+                child: Text('Encode Audiobook (e)'),
+              ),
+              const PopupMenuItem(
+                value: 'copy_metadata',
+                child: Text('Copy Metadata (i)'),
+              ),
+              const PopupMenuItem(
+                value: 'copy_chapters',
+                child: Text('Copy Chapters List & .txt (r)'),
+              ),
+              const PopupMenuItem(
+                value: 'open_dir',
+                child: Text('Open Dir of Audiobook (j)'),
+              ),
+              const PopupMenuItem(
+                value: 'load',
+                child: Text('Load Audiobook (l)'),
+              ),
+            ],
           ],
         ),
       ],
@@ -787,6 +896,10 @@ class PlayerControls extends StatelessWidget {
   }
 
   Duration _getChapterRemainingTime() {
+    if (audiobook.chapters.isEmpty) {
+      return Duration.zero;
+    }
+    
     final chapter = audiobook.chapters[currentChapterIndex];
     final remaining = chapter.endTime - currentPosition;
     

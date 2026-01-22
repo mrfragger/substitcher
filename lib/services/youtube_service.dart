@@ -1,4 +1,5 @@
 import 'dart:io';
+import 'dart:convert';
 import 'package:path/path.dart' as path;
 
 class YouTubeService {
@@ -80,99 +81,82 @@ class YouTubeService {
     }
     return 'YouTube Audio';
   }
-  static Future<Map<String, String?>> downloadOriginalAndTranslated(
+
+  static Future<String?> downloadAutoTranslatedSubtitles(
     String youtubeUrl,
     String outputDir,
-    String originalLang,
-    String translateTo,
+    String sourceLang,
+    String targetLang,
   ) async {
     if (_ytdlpPath == null && !await isYtdlpAvailable()) {
       throw Exception('yt-dlp not found');
     }
     
+    await _cleanupOldSubtitles(outputDir);
+    
     final title = await getVideoTitle(youtubeUrl);
     final safeTitle = YouTubeService.sanitizeFilename(title);
     
-    print('Downloading original ($originalLang) and translation ($translateTo)...');
+    print('Downloading auto-translated subtitle: $sourceLang -> $targetLang');
+    print('Safe title: $safeTitle');
+    print('Output dir: $outputDir');
     
     final result = await Process.run(_ytdlpPath!, [
       '--write-auto-sub',
-      '--sub-lang', '$originalLang,$translateTo',
+      '--sub-lang', targetLang,
       '--sub-format', 'vtt',
       '--skip-download',
       '--no-playlist',
-      '--no-warnings',
-      '--extractor-args', 'youtube:player_client=android',
       '-o', path.join(outputDir, '$safeTitle.%(ext)s'),
       youtubeUrl,
     ]);
     
     print('Download exit code: ${result.exitCode}');
     print('stdout: ${result.stdout}');
+    print('stderr: ${result.stderr}');
     
-    await Future.delayed(const Duration(seconds: 2));
+    final stdoutStr = result.stdout.toString();
+    final stderrStr = result.stderr.toString();
     
-    String? originalPath;
-    String? translatedPath;
+    if (stdoutStr.contains('There are no subtitles for the requested languages')) {
+      print('No subtitles available for $targetLang');
+      return null;
+    }
     
-    final dir = Directory(outputDir);
+    if (stderrStr.contains('429') || stderrStr.contains('Too Many Requests')) {
+      print('Rate limited by YouTube. Please wait a moment and try again.');
+      return null;
+    }
     
-    print('Scanning directory for subtitle files...');
-    print('Looking for files starting with: $safeTitle');
+    await Future.delayed(const Duration(seconds: 1));
     
-    await for (final entity in dir.list()) {
+    String? subtitlePath;
+    
+    await for (final entity in Directory(outputDir).list()) {
       if (entity is File) {
         final name = path.basename(entity.path);
-        print('  Checking file: $name');
         
-        if (name.startsWith(safeTitle) && 
-            name.endsWith('.vtt') &&
-            !name.contains('.ytfixed')) {
-          
-          print('  → File matches safeTitle prefix');
-          
-          if (name.endsWith('.$originalLang.vtt')) {
-            originalPath = entity.path;
-            print('  ✓ Found original ($originalLang): $name');
-          }
-          
-          if (name.endsWith('.$translateTo.vtt')) {
-            translatedPath = entity.path;
-            print('  ✓ Found translated ($translateTo): $name');
-          }
+        if (name.endsWith('.$targetLang.vtt') && !name.contains('.ytfixed')) {
+          subtitlePath = entity.path;
+          print('Found subtitle file: $subtitlePath');
+          break;
         }
       }
     }
     
-    print('Detection complete - Original: ${originalPath != null}, Translated: ${translatedPath != null}');
-        
-    String? fixedOriginal;
-    String? fixedTranslated;
-    
-    if (originalPath != null) {
-      try {
-        fixedOriginal = await fixYouTubeSubtitles(originalPath);
-        print('Fixed original: $fixedOriginal');
-      } catch (e) {
-        print('Error fixing original: $e');
-        fixedOriginal = originalPath;
-      }
+    if (subtitlePath == null) {
+      print('Could not find downloaded subtitle file');
+      return null;
     }
     
-    if (translatedPath != null) {
-      try {
-        fixedTranslated = await fixYouTubeSubtitles(translatedPath);
-        print('Fixed translated: $fixedTranslated');
-      } catch (e) {
-        print('Error fixing translated: $e');
-        fixedTranslated = translatedPath;
-      }
+    try {
+      final fixedPath = await fixYouTubeSubtitles(subtitlePath);
+      print('Fixed subtitle path: $fixedPath');
+      return fixedPath;
+    } catch (e) {
+      print('Error fixing subtitles: $e');
+      return subtitlePath;
     }
-    
-    return {
-      'original': fixedOriginal,
-      'translated': fixedTranslated,
-    };
   }
   
   static Future<String?> downloadAndFixSubtitles(
@@ -322,6 +306,36 @@ class YouTubeService {
       }
     } catch (e) {
       print('Error during cleanup: $e');
+    }
+  }
+
+  static Future<List<Map<String, dynamic>>?> getVideoChapters(String youtubeUrl) async {
+    if (_ytdlpPath == null && !await isYtdlpAvailable()) {
+      return null;
+    }
+    
+    try {
+      final result = await Process.run(_ytdlpPath!, [
+        '--dump-json',
+        '--no-playlist',
+        youtubeUrl,
+      ]);
+      
+      if (result.exitCode != 0) {
+        return null;
+      }
+      
+      final jsonStr = result.stdout.toString();
+      final data = jsonDecode(jsonStr) as Map<String, dynamic>;
+      
+      if (data.containsKey('chapters') && data['chapters'] != null) {
+        return List<Map<String, dynamic>>.from(data['chapters']);
+      }
+      
+      return null;
+    } catch (e) {
+      print('Error getting chapters: $e');
+      return null;
     }
   }
 

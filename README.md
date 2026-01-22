@@ -196,6 +196,7 @@ or do below
 ```bash
 chmod +x  substitcher-x64.AppImage
 ```
+Transcribing with whisper.cpp won't work on CPUs without AVX which is usually ones before 2014
 
 Android  universal (arm64-v8a + armeabi-v7a + x86_64) (untested, feedback welcome)
 - Android 8.0+ Tap Settings in the prompt

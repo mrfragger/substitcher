@@ -3,6 +3,8 @@ import 'package:shared_preferences/shared_preferences.dart';
 class SubtitlePreferences {
   static const String _defaultLangKey = 'subtitle_default_language';
   static const String _enabledLangsKey = 'subtitle_enabled_languages';
+  static const String _autoTranslateKey = 'subtitle_auto_translate';
+  static const String _translateTargetKey = 'subtitle_translate_target';
   
   String defaultLanguage;
   List<String> enabledLanguages;
@@ -22,10 +24,14 @@ class SubtitlePreferences {
     final defaultLang = prefs.getString(_defaultLangKey) ?? 'en';
     final enabledLangs = prefs.getStringList(_enabledLangsKey) ?? 
                         ['en', 'ar', 'es', 'fr', 'de', 'ja', 'ko', 'ru', 'pt', 'hi'];
+    final autoTranslate = prefs.getBool(_autoTranslateKey) ?? false;
+    final translateTarget = prefs.getString(_translateTargetKey) ?? 'en';
     
     return SubtitlePreferences(
       defaultLanguage: defaultLang,
       enabledLanguages: enabledLangs,
+      autoTranslate: autoTranslate,
+      translateTarget: translateTarget,
     );
   }
   
@@ -33,6 +39,8 @@ class SubtitlePreferences {
     final prefs = await SharedPreferences.getInstance();
     await prefs.setString(_defaultLangKey, defaultLanguage);
     await prefs.setStringList(_enabledLangsKey, enabledLanguages);
+    await prefs.setBool(_autoTranslateKey, autoTranslate);
+    await prefs.setString(_translateTargetKey, translateTarget);
   }
   
   static const Map<String, String> availableLanguages = {

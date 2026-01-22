@@ -1,7 +1,10 @@
-import 'package:flutter/material.dart';
-import 'package:file_picker/file_picker.dart';
 import 'dart:io';
 import 'dart:async';
+import 'dart:math';
+import 'package:flutter/material.dart';
+import 'package:file_picker/file_picker.dart';
+import 'package:path/path.dart' as path;
+import 'package:media_kit/media_kit.dart';
 import 'transcribe_screen.dart';
 import 'repeats_screen.dart';
 import 'metadata_editor_screen.dart';
@@ -11,7 +14,7 @@ import '../models/audio_file.dart';
 import '../models/encoding_config.dart';
 import '../services/ffmpeg_service.dart';
 import '../services/whisper_service.dart';
-import 'package:path/path.dart' as path;
+
 
 class EncoderScreen extends StatefulWidget {
   const EncoderScreen({super.key});
@@ -57,6 +60,21 @@ class _EncoderScreenState extends State<EncoderScreen> {
 
   Duration? _lastOriginalDuration;
   Duration? _lastFinalDuration;
+
+  bool _showHissPreview = false;
+  bool _generatingHissPreview = false;
+  String _hissPreviewStatus = '';
+  String? _originalPreviewPath;
+  String? _hissReducedPreviewPath;
+  
+  final Player _originalPlayer = Player();
+  final Player _hissReducedPlayer = Player();
+  bool _originalPlaying = false;
+  bool _hissReducedPlaying = false;
+  Duration _originalPosition = Duration.zero;
+  Duration _hissReducedPosition = Duration.zero;
+  Duration _originalDuration = Duration.zero;
+  Duration _hissReducedDuration = Duration.zero;
   
   @override
   void initState() {
@@ -72,6 +90,7 @@ class _EncoderScreenState extends State<EncoderScreen> {
     _yearController.dispose();
     _searchController.dispose();
     _replaceController.dispose();
+    _hissReducedPlayer.dispose();
     super.dispose();
   }
   
@@ -485,6 +504,354 @@ class _EncoderScreenState extends State<EncoderScreen> {
               Navigator.pop(context);
             },
             child: const Text('Save'),
+          ),
+        ],
+      ),
+    );
+  }
+
+  Future<void> _generateHissPreview() async {
+    if (_files.isEmpty) {
+      _showError('No files selected');
+      return;
+    }
+    
+    setState(() {
+      _generatingHissPreview = true;
+      _hissPreviewStatus = 'Generating preview...';
+      _showHissPreview = true;
+    });
+    
+    try {
+      final random = Random();
+      final randomFile = _files[random.nextInt(_files.length)];
+      
+      final firstFilePath = _files[0].path;
+      final sourceDir = path.dirname(firstFilePath);
+      final previewDir = path.join(sourceDir, 'hiss_preview');
+      
+      final dir = Directory(previewDir);
+      if (await dir.exists()) {
+        await dir.delete(recursive: true);
+      }
+      await dir.create(recursive: true);
+      
+      final originalPath = path.join(previewDir, 'original.opus');
+      final hissReducedPath = path.join(previewDir, 'hiss_reduced.opus');
+      
+      setState(() {
+        _hissPreviewStatus = 'Encoding original: ${path.basename(randomFile.path)}';
+      });
+      
+      await _ffmpeg.encodeChapter(
+        inputPath: randomFile.path,
+        outputPath: originalPath,
+        config: EncodingConfig(
+          bitrate: _bitrate,
+          removeSilence: false,
+          removeHiss: false,
+          author: 'Preview',
+          title: 'Original',
+          year: '2024',
+        ),
+        onProgress: (_) {},
+      );
+      
+      setState(() {
+        _hissPreviewStatus = 'Encoding with hiss reduction...';
+      });
+      
+      await _ffmpeg.encodeChapter(
+        inputPath: randomFile.path,
+        outputPath: hissReducedPath,
+        config: EncodingConfig(
+          bitrate: _bitrate,
+          removeSilence: false,
+          removeHiss: true,
+          author: 'Preview',
+          title: 'Hiss Reduced',
+          year: '2024',
+        ),
+        onProgress: (_) {},
+      );
+      
+      _originalPlayer.stream.duration.listen((duration) {
+        if (mounted) {
+          setState(() {
+            _originalDuration = duration;
+          });
+        }
+      });
+      
+      _originalPlayer.stream.position.listen((position) {
+        if (mounted) {
+          setState(() {
+            _originalPosition = position;
+          });
+        }
+      });
+      
+      _originalPlayer.stream.playing.listen((playing) {
+        if (mounted) {
+          setState(() {
+            _originalPlaying = playing;
+          });
+        }
+      });
+      
+      _hissReducedPlayer.stream.duration.listen((duration) {
+        if (mounted) {
+          setState(() {
+            _hissReducedDuration = duration;
+          });
+        }
+      });
+      
+      _hissReducedPlayer.stream.position.listen((position) {
+        if (mounted) {
+          setState(() {
+            _hissReducedPosition = position;
+          });
+        }
+      });
+      
+      _hissReducedPlayer.stream.playing.listen((playing) {
+        if (mounted) {
+          setState(() {
+            _hissReducedPlaying = playing;
+          });
+        }
+      });
+      
+      await _originalPlayer.open(Media(originalPath), play: false);
+      await _hissReducedPlayer.open(Media(hissReducedPath), play: false);
+      
+      setState(() {
+        _originalPreviewPath = originalPath;
+        _hissReducedPreviewPath = hissReducedPath;
+        _generatingHissPreview = false;
+        _hissPreviewStatus = 'Preview ready: ${path.basename(randomFile.path)}';
+      });
+      
+    } catch (e) {
+      setState(() {
+        _generatingHissPreview = false;
+        _hissPreviewStatus = 'Error: $e';
+      });
+      _showError('Preview failed: $e');
+    }
+  }
+  
+  Future<void> _playPauseOriginal() async {
+    if (_originalPlaying) {
+      await _originalPlayer.pause();
+    } else {
+      await _originalPlayer.play();
+    }
+  }
+  
+  Future<void> _playPauseHissReduced() async {
+    if (_hissReducedPlaying) {
+      await _hissReducedPlayer.pause();
+    } else {
+      await _hissReducedPlayer.play();
+    }
+  }
+  
+  Future<void> _seekOriginal(Duration position) async {
+    await _originalPlayer.seek(position);
+  }
+  
+  Future<void> _seekHissReduced(Duration position) async {
+    await _hissReducedPlayer.seek(position);
+  }
+  
+  String _formatTime(Duration d) {
+    final minutes = d.inMinutes;
+    final seconds = d.inSeconds.remainder(60);
+    return '${minutes}:${seconds.toString().padLeft(2, '0')}';
+  }
+
+  Widget _buildHissPreviewPanel() {
+    return Container(
+      margin: const EdgeInsets.all(16),
+      padding: const EdgeInsets.all(20),
+      decoration: BoxDecoration(
+        color: const Color(0xFF2A2A2A),
+        borderRadius: BorderRadius.circular(12),
+        border: Border.all(color: Colors.deepOrange),
+      ),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Row(
+            mainAxisAlignment: MainAxisAlignment.spaceBetween,
+            children: [
+              const Row(
+                children: [
+                  Icon(Icons.preview, color: Colors.deepOrange, size: 20),
+                  SizedBox(width: 8),
+                  Text(
+                    'Hiss Reduction Preview',
+                    style: TextStyle(
+                      color: Colors.white,
+                      fontSize: 16,
+                      fontWeight: FontWeight.bold,
+                    ),
+                  ),
+                ],
+              ),
+              Row(
+                children: [
+                  ElevatedButton.icon(
+                    onPressed: _generatingHissPreview ? null : _generateHissPreview,
+                    icon: const Icon(Icons.shuffle, size: 16),
+                    label: const Text('Random Chapter'),
+                    style: ElevatedButton.styleFrom(
+                      backgroundColor: Colors.deepPurple,
+                      foregroundColor: Colors.white,
+                      padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+                    ),
+                  ),
+                  const SizedBox(width: 8),
+                  IconButton(
+                    icon: const Icon(Icons.close, color: Colors.white70),
+                    onPressed: () {
+                      setState(() {
+                        _showHissPreview = false;
+                      });
+                    },
+                    tooltip: 'Close preview',
+                  ),
+                ],
+              ),
+            ],
+          ),
+          const SizedBox(height: 12),
+          if (_generatingHissPreview)
+            Column(
+              children: [
+                const LinearProgressIndicator(),
+                const SizedBox(height: 8),
+                Text(
+                  _hissPreviewStatus,
+                  style: const TextStyle(color: Colors.white70, fontSize: 12),
+                ),
+              ],
+            )
+          else if (_originalPreviewPath != null && _hissReducedPreviewPath != null) ...[
+            Text(
+              _hissPreviewStatus,
+              style: const TextStyle(color: Colors.white70, fontSize: 14),
+            ),
+            const SizedBox(height: 20),
+            Row(
+              children: [
+                Expanded(
+                  child: _buildPreviewPlayer(
+                    title: 'Original',
+                    isPlaying: _originalPlaying,
+                    position: _originalPosition,
+                    duration: _originalDuration,
+                    onPlayPause: _playPauseOriginal,
+                    onSeek: _seekOriginal,
+                    color: Colors.blue,
+                  ),
+                ),
+                const SizedBox(width: 20),
+                Expanded(
+                  child: _buildPreviewPlayer(
+                    title: 'Hiss Reduced',
+                    isPlaying: _hissReducedPlaying,
+                    position: _hissReducedPosition,
+                    duration: _hissReducedDuration,
+                    onPlayPause: _playPauseHissReduced,
+                    onSeek: _seekHissReduced,
+                    color: Colors.deepOrange,
+                  ),
+                ),
+              ],
+            ),
+          ] else
+            const Text(
+              'Click "Random Chapter" to generate a preview',
+              style: TextStyle(color: Colors.white54, fontSize: 14),
+            ),
+        ],
+      ),
+    );
+  }
+  
+  Widget _buildPreviewPlayer({
+    required String title,
+    required bool isPlaying,
+    required Duration position,
+    required Duration duration,
+    required VoidCallback onPlayPause,
+    required Function(Duration) onSeek,
+    required Color color,
+  }) {
+    return Container(
+      padding: const EdgeInsets.all(16),
+      decoration: BoxDecoration(
+        color: Colors.black26,
+        borderRadius: BorderRadius.circular(8),
+        border: Border.all(color: color.withOpacity(0.5)),
+      ),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Text(
+            title,
+            style: TextStyle(
+              color: color,
+              fontSize: 14,
+              fontWeight: FontWeight.bold,
+            ),
+          ),
+          const SizedBox(height: 16),
+          Row(
+            children: [
+              IconButton(
+                icon: Icon(
+                  isPlaying ? Icons.pause_circle : Icons.play_circle,
+                  color: color,
+                  size: 40,
+                ),
+                onPressed: onPlayPause,
+              ),
+              const SizedBox(width: 8),
+              Text(
+                _formatTime(position),
+                style: const TextStyle(color: Colors.white70, fontSize: 12),
+              ),
+              const SizedBox(width: 8),
+              Expanded(
+                child: SliderTheme(
+                  data: SliderThemeData(
+                    trackHeight: 4,
+                    thumbShape: const RoundSliderThumbShape(enabledThumbRadius: 6),
+                    overlayShape: const RoundSliderOverlayShape(overlayRadius: 12),
+                  ),
+                  child: Slider(
+                    value: duration.inMilliseconds > 0
+                        ? position.inMilliseconds.toDouble().clamp(0, duration.inMilliseconds.toDouble())
+                        : 0,
+                    max: duration.inMilliseconds.toDouble() > 0 ? duration.inMilliseconds.toDouble() : 1,
+                    activeColor: color,
+                    inactiveColor: Colors.white24,
+                    onChanged: (value) {
+                      onSeek(Duration(milliseconds: value.toInt()));
+                    },
+                  ),
+                ),
+              ),
+              const SizedBox(width: 8),
+              Text(
+                _formatTime(duration),
+                style: const TextStyle(color: Colors.white70, fontSize: 12),
+              ),
+            ],
           ),
         ],
       ),
@@ -1072,6 +1439,8 @@ class _EncoderScreenState extends State<EncoderScreen> {
               children: [
                 if (_showSearchReplace) _buildSearchReplacePanel(),
                 if (_files.isNotEmpty) _buildFileListHeader(),
+
+                if (_showHissPreview) _buildHissPreviewPanel(),
                 
                 Expanded(
                   child: _files.isEmpty
@@ -1579,6 +1948,19 @@ class _EncoderScreenState extends State<EncoderScreen> {
                 },
               ),
               const Text('Remove Hiss'),
+              if (_files.isNotEmpty) ...[
+                const SizedBox(width: 8),
+                ElevatedButton.icon(
+                  onPressed: _generateHissPreview,
+                  icon: const Icon(Icons.preview, size: 16),
+                  label: const Text('Preview'),
+                  style: ElevatedButton.styleFrom(
+                    backgroundColor: Colors.deepOrange,
+                    foregroundColor: Colors.white,
+                    padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                  ),
+                ),
+              ],
             ],
           ),
         ],
