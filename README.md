@@ -171,6 +171,17 @@ Opus chaptered encoder and player with colored subtitles and fancy fonts. Transc
 - top 50 audiobooks listened to by duration
 - time duration bars of listening time for last 30 active days
 
+### Slicing / Editing
+- make cuts (slices of audio) in subdirectory audiobookname_cuts
+- make an audiobook from audiobookname_cuts and transcribe for subs
+- first encode video to audiobook then slice on audiobook, avoids keyframe issues for precise timing
+- i and o to set in/out point 
+- Listen plays 900ms of audio and pauses
+- backward, Listen to audio from position
+- foward, Listen to audio just before position
+- ; Listen, seek to End of Sub
+- j and k Listen, backward/forward 1s
+- , and . Listen, backward/forward 100ms
 
 ![](images/stats.jpg)
 
@@ -193,11 +204,11 @@ Opus chaptered encoder and player with colored subtitles and fancy fonts. Transc
 ![](images/ankitoopus2.jpg)
 
 ### Youtube
-- handles videos or audio to stream
+- handles videos or audio to stream (ignored for History, Stats)
+- download video or audio and playlists with option to resume
 - displays subs automatically if avaiable based on default language
-- choose up to 10 languages to prompt to get sub in
+- choose up to 10 languages to prompt when default language isn't found, this enables a shortlist rather than scrolling through 79 languages each time
 -  English, Afrikaans, Albanian (Shqip), Amharic (አማርኛ), Arabic (العربية), Armenian (Հայերեն), Azerbaijani (Azərbaycan), Belarusian (Беларуская), Bengali (বাংলা), Bhojpuri (भोजपुरी), Bosnian (Bosanski), Bulgarian (Български), Burmese (မြန်မာ), Catalan (Català), Chinese - Simplified (简体), Chinese - Traditional (繁體), Chinese - Cantonese (粵語), Croatian (Hrvatski), Czech (Čeština), Danish (Dansk), Dutch (Nederlands), Estonian (Eesti), Filipino (Tagalog), Finnish (Suomi), French (Français), Georgian (ქართული), German (Deutsch), Greek (Ελληνικά), Gujarati (ગુજરાતી), Hausa (هَرْشٜىٰن هَوْسَا), Hebrew (עברית), Hebrew (עברית), Hindi (हिन्दी), Hungarian (Magyar), Icelandic (Íslenska), Indonesian (Bahasa Indonesia), Italian (Italiano), Japanese (日本語), Javanese (Basa Jawa), Kannada (ಕನ್ನಡ), Kazakh (Қазақ тілі), Korean (한국어), Kyrgyz (Кыргызча), Lao (ລາວ), Latvian (Latviešu), Lithuanian (Lietuvių), Macedonian (Македонски), Malay (Bahasa Melayu), Malayalam (മലയാളം), Maltese (Malti), Marathi (मराठी), Mongolian (Монгол), Nepali (नेपाली), Norwegian (Norsk bokmål), Persian (فارسی), Polish (Polski), Portuguese (Português), Portuguese - Brazil (Português Brasil), Portuguese - Portugal (Português Portugal), Punjabi (ਪੰਜਾਬੀ), Romanian (Română), Russian (Русский), Serbian (Српски), Slovak (Slovenčina), Slovenian (Slovenščina), Spanish (Español), Swahili (Kiswahili), Swedish (Svenska), Tajik (Тоҷикӣ), Tamil (தமிழ்), Telugu (తెలుగు), Thai (ไทย), Turkish (Türkçe), Turkmen (Türkmençe), Ukrainian (Українська), Urdu (اردو), Uyghur (ئۇيغۇرچە), Uzbek (Oʻzbekcha), Vietnamese (Tiếng Việt)
-- can download video or audio and playlists
 
 ### Installation
 macOS (arm64 Silicon m1,m2,m3,m4,m26) after install dmg in Terminal do
@@ -246,8 +257,14 @@ Why Opus outperforms MP3 and AAC at very low bitrates (like ~16 kb/s)
 -  gives best quality at a given bitrate for voice signals. It enhances the input signal by high-pass filtering and emphasizing formants and harmonics
 
 ### Miscellaneous
-- never will support, music, videos as it's an audiobook only
-- unlikely will get light theme
-- built a audio/sub extract and used original subs but got out of synch due to padding when re-encoding
-- so if do again will just extract audio segments and keep together those in chapters, must transcribe for subs though
-- developed since 2022 but in Dec 2025 decided to port from mpv front-end lua scripts with uosc ui and remove video editing, LUTs to a flutter / dart app (not just Mac/Linux anymore) and purely focus an audiobook player
+- Never will support, music, videos as it's an audiobook only
+- Unlikely will get light theme
+- Never will support cover images, choose either audiobooks with covers and not use subtitles
+- It just puts a 16x9 black png image with META_BLOCK_PICTURE with some info along with png based on vorbis comment specification
+- This is the base64 encoding 'AAAAAwAAAAlpbWFnZS9wbmcAAAALRnJvbnQgQ292ZXIAAAAQAAAACQAAACAAAAAAAAAAU4lQTkcNChoKAAAADUlIRFIAAAAQAAAACQgGAAAAOyqsMgAAABpJREFUeJxjZGBg+M9AAWCiRPOoARAwDAwAAFmzARHg40/fAAAAAElFTkSuQmCC' 
+- Reason is most audiobook players don't support subtitles, and ones that do so due to video support and having a cover image in background with subtitles overlaying it doable
+- If you really do want a cover image and don't plan to ever use subs then use kid3 app (qt free cross-platform app)
+- Might enable mac universal again (ffmpeg and whisper) but should work as an audiobook player just not encoder / transcriber
+- Built a audio/sub extract and used original subs but got out of synch due to padding when re-encoding
+- So if do again will just extract audio segments and keep together those in chapters, must transcribe for subs though
+- Developed since 2022 but in Dec 2025 decided to port from mpv front-end lua scripts with uosc ui and remove video editing, LUTs to a flutter / dart app (not just Mac/Linux anymore) and purely focus an audiobook player

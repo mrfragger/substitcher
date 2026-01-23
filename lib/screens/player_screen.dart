@@ -102,6 +102,7 @@ class PlayerScreen extends StatefulWidget {
 }
 
 class _PlayerScreenState extends State<PlayerScreen> {
+  late final WindowListener _windowListener;
   final FFmpegService _ffmpeg = FFmpegService();
   final player = Player();
   final ScrollController _chapterScrollController = ScrollController();
@@ -168,7 +169,6 @@ class _PlayerScreenState extends State<PlayerScreen> {
   List<SubtitleCue> _originalSubtitles = [];
   String? _lastDebuggedSubtitle;
 
-  DateTime? _wordOverlayClosedTime;
   Timer? _dictionaryModeExitTimer;
   bool _hideChapterTitle = false;
   
@@ -267,10 +267,17 @@ class _PlayerScreenState extends State<PlayerScreen> {
   SubtitlePreferences _subtitlePreferences = SubtitlePreferences();
 
   bool _isDisposed = false;
+  Duration? _inPoint;
+  Duration? _outPoint;
   
   @override
   void initState() {
     super.initState();
+    _windowListener = _WindowCloseListener(
+      onClose: _handleWindowClose,
+    );
+    
+    windowManager.addListener(_windowListener);
     _adhanClockService = AdhanClockService();
     _adhanClockService.initialize();
     _adhanClockService.setMainPlayerPauseCallback(() async {
@@ -278,9 +285,6 @@ class _PlayerScreenState extends State<PlayerScreen> {
         await player.pause();
       }
     });
-    windowManager.addListener(_WindowCloseListener(
-      onClose: _handleWindowClose,
-    ));
     _checkShowOnStart();
     platform.setMethodCallHandler(_handleOpenFile);
     _checkForInitialFile();
@@ -309,7 +313,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
   @override
   void dispose() {
     _isDisposed = true;
-    windowManager.removeListener(_WindowCloseListener(onClose: _handleWindowClose));
+    windowManager.removeListener(_windowListener);
     _cacheFlushTimer?.cancel();
     _frequencyGenerationTimer?.cancel();
     _sleepTimerCountdownTimer?.cancel();
@@ -543,7 +547,6 @@ class _PlayerScreenState extends State<PlayerScreen> {
       }
       
       await _saveToHistory().timeout(const Duration(milliseconds: 500));
-      
       await player.stop().timeout(const Duration(milliseconds: 500));
       
     } catch (e) {
@@ -1112,7 +1115,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
       );
     }
   }
-
+  
   void _triggerSleepTimerCountdown() {
     if (_isPlaying) {
       player.pause();
@@ -1131,11 +1134,12 @@ class _PlayerScreenState extends State<PlayerScreen> {
       
       if (_sleepTimerCountdownSeconds <= 0) {
         timer.cancel();
-        exit(0);
+        // Instead of exit(0), properly close the window
+        windowManager.close();  // This will trigger onWindowClose
       }
     });
   }
-  
+
   void _cancelSleepTimerCountdown() {
     _sleepTimerCountdownTimer?.cancel();
     setState(() {
@@ -2187,6 +2191,13 @@ class _PlayerScreenState extends State<PlayerScreen> {
   }
 
   Future<void> _startBackgroundDurationCaching(List<String> files) async {
+    try {
+      await _ffmpeg.ensureBinaries();
+    } catch (e) {
+      print('FFmpeg not available for duration caching: $e');
+      return;
+    }
+  
     for (final filePath in files) {
       if (_playlistDurationCache.containsKey(filePath)) {
         continue;
@@ -2199,29 +2210,20 @@ class _PlayerScreenState extends State<PlayerScreen> {
       _activeFfprobeCount++;
       
       try {
-        final result = await Process.run('ffprobe', [
-          '-v', 'error',
-          '-show_entries', 'format=duration',
-          '-of', 'default=noprint_wrappers=1:nokey=1',
-          filePath,
-        ]);
+        final duration = await _ffmpeg.getAudioDuration(filePath);
         
-        if (result.exitCode == 0) {
-          final durationSeconds = double.parse(result.stdout.toString().trim());
-          final duration = Duration(seconds: durationSeconds.round());
-          final hours = duration.inHours;
-          final minutes = duration.inMinutes.remainder(60);
-          String formatted;
-          if (hours > 0) {
-            formatted = '${hours}h ${minutes}m';
-          } else {
-            formatted = '${minutes}m';
-          }
-          if (mounted) {
-            setState(() {
-              _playlistDurationCache[filePath] = formatted;
-            });
-          }
+        final hours = duration.inHours;
+        final minutes = duration.inMinutes.remainder(60);
+        String formatted;
+        if (hours > 0) {
+          formatted = '${hours}h ${minutes}m';
+        } else {
+          formatted = '${minutes}m';
+        }
+        if (mounted) {
+          setState(() {
+            _playlistDurationCache[filePath] = formatted;
+          });
         }
       } catch (e) {
         print('Error caching duration for $filePath: $e');
@@ -2233,6 +2235,34 @@ class _PlayerScreenState extends State<PlayerScreen> {
     }
     
     await _saveDurationCache();
+  }
+
+  Future<void> _cacheSingleFileDuration(String filePath) async {
+    if (_playlistDurationCache.containsKey(filePath)) {
+      return;
+    }
+        
+    try {
+      await _ffmpeg.ensureBinaries();
+      final duration = await _ffmpeg.getAudioDuration(filePath);
+      
+      final hours = duration.inHours;
+      final minutes = duration.inMinutes.remainder(60);
+      String formatted;
+      if (hours > 0) {
+        formatted = '${hours}h ${minutes}m';
+      } else {
+        formatted = '${minutes}m';
+      }
+            
+      setState(() {
+        _playlistDurationCache[filePath] = formatted;
+      });
+      
+      await _saveDurationCache();
+    } catch (e) {
+      print('DEBUG: Error caching single file duration for ${path.basename(filePath)}: $e');
+    }
   }
   
   Future<void> _setPlaylistDirectory() async {
@@ -3930,6 +3960,14 @@ class _PlayerScreenState extends State<PlayerScreen> {
     final seconds = d.inSeconds.remainder(60);
     return '${hours.toString().padLeft(2, '0')}:${minutes.toString().padLeft(2, '0')}:${seconds.toString().padLeft(2, '0')}';
   }
+
+  String _formatDurationWithMs(Duration d) {
+    final hours = d.inHours;
+    final minutes = d.inMinutes.remainder(60);
+    final seconds = d.inSeconds.remainder(60);
+    final ms = d.inMilliseconds.remainder(1000);
+    return '${hours.toString().padLeft(2, '0')}:${minutes.toString().padLeft(2, '0')}:${seconds.toString().padLeft(2, '0')}.${ms.toString().padLeft(3, '0')}';
+  }
   
   Future<void> _skipForward() async {
     final newPosition = _currentPosition + const Duration(seconds: 10);
@@ -3945,6 +3983,44 @@ class _PlayerScreenState extends State<PlayerScreen> {
       milliseconds: newPosition.inMilliseconds.clamp(0, _totalDuration.inMilliseconds)
     );
     await _seekTo(clampedPosition);
+  }
+
+  Future<void> _skipBackward1() async {
+    final newPosition = _currentPosition - const Duration(seconds: 1);
+    final clampedPosition = Duration(
+      milliseconds: newPosition.inMilliseconds.clamp(0, _totalDuration.inMilliseconds)
+    );
+    
+    await _seekTo(clampedPosition);
+    
+    final replayStart = clampedPosition - const Duration(milliseconds: 900);
+    final safeReplayStart = replayStart < Duration.zero ? Duration.zero : replayStart;
+    
+    await player.seek(safeReplayStart);
+    await player.play();
+    
+    Timer(const Duration(milliseconds: 900), () async {
+      await player.pause();
+      await player.seek(clampedPosition);
+    });
+  }
+  
+  Future<void> _skipForward1() async {
+    final newPosition = _currentPosition + const Duration(seconds: 1);
+    final clampedPosition = Duration(
+      milliseconds: newPosition.inMilliseconds.clamp(0, _totalDuration.inMilliseconds)
+    );
+    
+    final replayStart = clampedPosition - const Duration(milliseconds: 900);
+    final safeReplayStart = replayStart < Duration.zero ? Duration.zero : replayStart;
+    
+    await player.seek(safeReplayStart);
+    await player.play();
+    
+    Timer(const Duration(milliseconds: 900), () async {
+      await player.pause();
+      await player.seek(clampedPosition);
+    });
   }
   
   Future<void> _skipForward3() async {
@@ -3962,30 +4038,198 @@ class _PlayerScreenState extends State<PlayerScreen> {
     );
     await _seekTo(clampedPosition);
   }
-
-  Future<void> _openAudiobookDirectory() async {
-    if (_currentAudiobook == null) {
+  
+  Future<void> _replaySegmentBack() async {
+    final currentTime = _currentPosition;
+    final startTime = currentTime - const Duration(milliseconds: 900);
+    
+    await player.seek(startTime < Duration.zero ? Duration.zero : startTime);
+    await player.play();
+    
+    Timer(const Duration(milliseconds: 800), () async {
+      await player.pause();
+    });
+    
+    if (mounted) {
       ScaffoldMessenger.of(context).showSnackBar(
-        const SnackBar(content: Text('No audiobook loaded')),
+        const SnackBar(
+          content: Text('Replaying segment (back 100ms)'),
+          duration: Duration(milliseconds: 500),
+        ),
+      );
+    }
+  }
+  
+  Future<void> _replaySegmentForward() async {
+    final currentTime = _currentPosition;
+    
+    final startTime = currentTime - const Duration(milliseconds: 900);
+    final safeStartTime = startTime < Duration.zero ? Duration.zero : startTime;
+    
+    await player.seek(safeStartTime);
+    await player.play();
+    
+    Timer(const Duration(milliseconds: 900), () async {
+      await player.pause();
+      await player.seek(currentTime);
+    });
+    
+    if (mounted) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(
+          content: Text('Replaying segment (before position)'),
+          duration: Duration(milliseconds: 500),
+        ),
+      );
+    }
+  }
+  
+
+  void _setInPoint() {
+    setState(() {
+      _inPoint = _currentPosition;
+    });
+    
+    if (mounted) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(
+          content: Text('In point set: ${_formatDurationWithMs(_inPoint!)}'),
+          duration: const Duration(seconds: 1),
+          backgroundColor: Colors.green,
+        ),
+      );
+    }
+  }
+  
+  Future<void> _setOutPoint() async {
+    if (_inPoint == null) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(
+          content: Text('Please set In point first (i)'),
+          duration: Duration(seconds: 2),
+          backgroundColor: Colors.orange,
+        ),
       );
       return;
     }
+    
+    setState(() {
+      _outPoint = _currentPosition;
+    });
+    
+    if (_outPoint! <= _inPoint!) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(
+          content: Text('Out point must be after In point'),
+          duration: Duration(seconds: 2),
+          backgroundColor: Colors.red,
+        ),
+      );
+      setState(() {
+        _outPoint = null;
+      });
+      return;
+    }
+    
+    await _sliceCut();
+  }
+  
+  Future<void> _sliceCut() async {
+    if (_inPoint == null || _outPoint == null || _currentAudiobook == null) return;
+    
     final audiobookDir = path.dirname(_currentAudiobook!.path);
-    try {
-      if (Platform.isMacOS) {
-        await Process.run('open', [audiobookDir]);
-      } else if (Platform.isLinux) {
-        await Process.run('xdg-open', [audiobookDir]);
-      } else if (Platform.isWindows) {
-        await Process.run('explorer', [audiobookDir]);
+    final audiobookName = path.basenameWithoutExtension(_currentAudiobook!.path);
+    
+    final cutsDir = path.join(audiobookDir, '${audiobookName}_cuts');
+    await Directory(cutsDir).create(recursive: true);
+    
+    String chapterName = 'Unknown';
+    for (final chapter in _currentAudiobook!.chapters) {
+      if (_inPoint! >= chapter.startTime && _inPoint! < chapter.endTime) {
+        chapterName = chapter.title;
+        break;
       }
-    } catch (e) {
-      print('Error opening directory: $e');
+    }
+    
+    String formatTime(Duration d) {
+      final hours = d.inHours;
+      final minutes = d.inMinutes.remainder(60);
+      final seconds = d.inSeconds.remainder(60);
+      return '${hours.toString().padLeft(2, '0')}∶${minutes.toString().padLeft(2, '0')}∶${seconds.toString().padLeft(2, '0')}';
+    }
+    
+    final inTimeStr = formatTime(_inPoint!);
+    final outTimeStr = formatTime(_outPoint!);
+    
+    final cutName = '$inTimeStr-$outTimeStr ($chapterName).opus';
+    final outputPath = path.join(cutsDir, cutName);
+    
+    final duration = _outPoint! - _inPoint!;
+    
+    try {
+      await _ffmpeg.ensureBinaries();
+      
+      if (_ffmpeg.ffmpegPath == null) {
+        throw Exception('FFmpeg not found');
+      }
+  
+      final args = [
+        _ffmpeg.ffmpegPath!,
+        '-y',
+        '-ss', (_inPoint!.inMilliseconds / 1000).toStringAsFixed(3),
+        '-i', _currentAudiobook!.path,
+        '-t', (duration.inMilliseconds / 1000).toStringAsFixed(3),
+        '-vn',
+        '-sn',
+        '-c:a', 'copy',
+        '-avoid_negative_ts', 'make_zero',
+        '-fflags', '+genpts+igndts',
+        outputPath,
+      ];
+  
+      print('Slicing: ${_formatDurationWithMs(_inPoint!)} → ${_formatDurationWithMs(_outPoint!)}');
+  
+      final process = await Process.start(args[0], args.sublist(1));
+      
+      await process.stderr.drain();
+      await process.stdout.drain();
+      
+      final exitCode = await process.exitCode;
+      
+      if (exitCode != 0) {
+        throw Exception('FFmpeg slicing failed');
+      }
+  
+      if (!await File(outputPath).exists()) {
+        throw Exception('Output file was not created');
+      }
+  
+      final fileSize = await File(outputPath).length();
+      print('Created: ${path.basename(outputPath)} (${(fileSize / 1024 / 1024).toStringAsFixed(1)} MB)');
+      
       if (mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
           SnackBar(
-            content: Text('Failed to open directory: $e'),
+            content: Text('Cut saved: ${_formatDuration(duration)}'),
+            duration: const Duration(seconds: 1),
+            backgroundColor: Colors.green,
+          ),
+        );
+      }
+      
+      setState(() {
+        _inPoint = null;
+        _outPoint = null;
+      });
+      
+    } catch (e) {
+      print('ERROR: Failed to slice cut: $e');
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            content: Text('Failed to slice cut: $e'),
             backgroundColor: Colors.red,
+            duration: const Duration(seconds: 5),
           ),
         );
       }
@@ -4137,6 +4381,9 @@ class _PlayerScreenState extends State<PlayerScreen> {
         _statsManager.onPlaybackStart();
       }
       await _calculateBitrate();
+
+      _cacheSingleFileDuration(selectedPath);
+
       _focusNode.requestFocus();
     } catch (e, stackTrace) {
       print('Error opening audiobook: $e');
@@ -4149,6 +4396,35 @@ class _PlayerScreenState extends State<PlayerScreen> {
           ),
         );
         _focusNode.requestFocus();
+      }
+    }
+  }
+
+  Future<void> _openAudiobookDirectory() async {
+    if (_currentAudiobook == null) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(content: Text('No audiobook loaded')),
+      );
+      return;
+    }
+    final audiobookDir = path.dirname(_currentAudiobook!.path);
+    try {
+      if (Platform.isMacOS) {
+        await Process.run('open', [audiobookDir]);
+      } else if (Platform.isLinux) {
+        await Process.run('xdg-open', [audiobookDir]);
+      } else if (Platform.isWindows) {
+        await Process.run('explorer', [audiobookDir]);
+      }
+    } catch (e) {
+      print('Error opening directory: $e');
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            content: Text('Failed to open directory: $e'),
+            backgroundColor: Colors.red,
+          ),
+        );
       }
     }
   }
@@ -4234,6 +4510,32 @@ class _PlayerScreenState extends State<PlayerScreen> {
       }
     }
   }
+
+  void _onEditingMenuSelected(BuildContext context, String value) {
+    switch (value) {
+      case 'set_in':
+        _setInPoint();
+        break;
+      case 'set_out':
+        _setOutPoint();
+        break;
+      case 'seekToSubtitleEnd':
+        _setOutPoint();
+        break;
+      case 'seek_back_1s':
+        _skipBackward1();
+        break;
+      case 'seek_forward_1s':
+        _skipForward1();
+        break;
+      case 'replay_back':
+        _replaySegmentBack();
+        break;
+      case 'replay_forward':
+        _replaySegmentForward();
+        break;
+    }
+  }  
   
   String _convertSrtToVtt(String srtContent) {
     final lines = srtContent.split('\n');
@@ -4363,6 +4665,10 @@ class _PlayerScreenState extends State<PlayerScreen> {
               });
               return KeyEventResult.handled;
             }
+          } else if (event.logicalKey == LogicalKeyboardKey.keyC && 
+                   HardwareKeyboard.instance.isShiftPressed && event is KeyDownEvent) {
+            _copyChaptersList();
+            return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyC && event is KeyDownEvent) {
             setState(() {
               _showPanel = true;
@@ -4404,7 +4710,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
               _panelMode = PanelMode.fonts;
             });
             return KeyEventResult.handled;
-          } else if (event.logicalKey == LogicalKeyboardKey.keyO && event is KeyDownEvent) {
+          } else if (event.logicalKey == LogicalKeyboardKey.keyR && event is KeyDownEvent) {
             setState(() {
               _showPanel = true;
               _panelMode = PanelMode.colors;
@@ -4456,7 +4762,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
               }
             }
             return KeyEventResult.handled;
-          } else if (event.logicalKey == LogicalKeyboardKey.keyK && event is KeyDownEvent) {
+          } else if ((event.logicalKey == LogicalKeyboardKey.digit0 || event.logicalKey == LogicalKeyboardKey.numpad0) && event is KeyDownEvent) {
             _adhanClockService.stopAdhan();
             return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyG && event is KeyDownEvent) {
@@ -4492,16 +4798,14 @@ class _PlayerScreenState extends State<PlayerScreen> {
               }
             }
             return KeyEventResult.handled;
-          } else if (event.logicalKey == LogicalKeyboardKey.keyL && event is KeyDownEvent) {
-            _openAudiobook();
-            return KeyEventResult.handled;
-          } else if (event.logicalKey == LogicalKeyboardKey.keyJ && event is KeyDownEvent) {
-            _openAudiobookDirectory();
-            return KeyEventResult.handled;
-          } else if (event.logicalKey == LogicalKeyboardKey.keyR && event is KeyDownEvent) {
-            _copyChaptersList();
-            return KeyEventResult.handled;
-          } else if (event.logicalKey == LogicalKeyboardKey.keyI && event is KeyDownEvent) {
+          } else if (event.logicalKey == LogicalKeyboardKey.keyL && HardwareKeyboard.instance.isShiftPressed && event is KeyDownEvent) {
+              _openAudiobookDirectory();
+              return KeyEventResult.handled;
+            } else if (event.logicalKey == LogicalKeyboardKey.keyL && event is KeyDownEvent) {
+              _openAudiobook();
+              return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyM && 
+                   HardwareKeyboard.instance.isShiftPressed && event is KeyDownEvent) {
             _copyCurrentMetadata();
             return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyM && event is KeyDownEvent) {
@@ -4509,7 +4813,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
               _showAdhanOverlay = !_showAdhanOverlay;
             });
             return KeyEventResult.handled;
-          } else if (event.logicalKey == LogicalKeyboardKey.period && 
+          } else if (event.logicalKey == LogicalKeyboardKey.tilde && 
                    event is KeyDownEvent) {
             setState(() {
               _hideChapterTitle = !_hideChapterTitle;
@@ -4655,6 +4959,27 @@ class _PlayerScreenState extends State<PlayerScreen> {
             } else {
               _skipForward3();
             }
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyI && event is KeyDownEvent) {
+            _setInPoint();
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyO && event is KeyDownEvent) {
+            _setOutPoint();
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.semicolon && event is KeyDownEvent) {
+            _seekToSubtitleEnd();
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyJ && event is KeyDownEvent) {
+            _skipBackward1();
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyK && event is KeyDownEvent) {
+            _skipForward1();
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.comma && event is KeyDownEvent) {
+            _replaySegmentBack();
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.period && event is KeyDownEvent) {
+            _replaySegmentForward();
             return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyN && event is KeyDownEvent) {
             _addBookmark();
@@ -5289,6 +5614,8 @@ class _PlayerScreenState extends State<PlayerScreen> {
       onNextChapter: _nextChapter,
       onSkipBackward: _skipBackward,
       onSkipForward: _skipForward,
+      skipToPreviousSubtitle: _skipToPreviousSubtitle,
+      skipToNextSubtitle: _skipToNextSubtitle,
       onIncreaseSpeed: _increaseSpeed,
       onDecreaseSpeed: _decreaseSpeed,
       onToggleShuffle: _toggleShuffle,
@@ -5296,6 +5623,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
       hideChapterTitle: _hideChapterTitle,
       hoveringPrevChapter: _hoveringPrevChapter,
       hoveringNextChapter: _hoveringNextChapter,
+      onEditingMenuSelected: _onEditingMenuSelected,
       onTogglePanel: () {
         setState(() {
           _showPanel = !_showPanel;
@@ -5518,39 +5846,55 @@ class _PlayerScreenState extends State<PlayerScreen> {
       );
       return;
     }
+    
     try {
-      final metadataResult = await Process.run('ffprobe', [
+      await _ffmpeg.ensureBinaries();
+      
+      if (_ffmpeg.ffprobePath == null) {
+        throw Exception('ffprobe not found');
+      }
+  
+      final metadataResult = await Process.run(_ffmpeg.ffprobePath!, [
         _currentAudiobook!.path,
       ]);
+      
       final output = metadataResult.stderr as String;
       String artist = 'Unknown Artist';
       String album = 'Unknown Album';
       String title = 'Unknown Title';
       String year = 'Unknown Year';
+      
       final lines = output.split('\n');
       bool inMetadata = false;
       bool isAttachedPic = false;
+      
       for (final line in lines) {
         final trimmed = line.trim();
+        
         if (trimmed.contains('(attached pic)')) {
           isAttachedPic = true;
           continue;
         }
+        
         if (trimmed.startsWith('Stream #')) {
           isAttachedPic = false;
           inMetadata = false;
           continue;
         }
+        
         if (trimmed.startsWith('Metadata:')) {
           inMetadata = true;
           continue;
         }
+        
         if (inMetadata && !isAttachedPic && trimmed.contains(':')) {
           final parts = trimmed.split(':');
           if (parts.length >= 2) {
             final key = parts[0].trim().toLowerCase();
             final value = parts.sublist(1).join(':').trim();
+            
             if (value.isEmpty) continue;
+            
             if (key == 'artist') {
               artist = value;
             } else if (key == 'album') {
@@ -5573,6 +5917,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
           }
         }
       }
+      
       final finalTitle = album != 'Unknown Album' ? album : title;
       final file = File(_currentAudiobook!.path);
       final fileSize = await file.length();
@@ -5582,7 +5927,9 @@ class _PlayerScreenState extends State<PlayerScreen> {
       final minutes = duration.inMinutes.remainder(60);
       final formattedDuration = '${hours}h ${minutes}m';
       final clipboardText = '$artist - $finalTitle ($year) $formattedFileSize $formattedDuration';
+      
       await Clipboard.setData(ClipboardData(text: clipboardText));
+      
       if (mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
           SnackBar(
@@ -6022,10 +6369,11 @@ class _PlayerScreenState extends State<PlayerScreen> {
     }
     
     if (currentIndex > 0) {
-      await _seekTo(_subtitles[currentIndex - 1].startTime);
+      final seekPosition = _subtitles[currentIndex - 1].startTime + const Duration(milliseconds: 10);
+      await _seekTo(seekPosition);
     } else if (currentIndex == 0) {
-      // If at first subtitle, go to its start
-      await _seekTo(_subtitles[0].startTime);
+      final seekPosition = _subtitles[0].startTime + const Duration(milliseconds: 10);
+      await _seekTo(seekPosition);
     }
   }
   
@@ -6033,11 +6381,58 @@ class _PlayerScreenState extends State<PlayerScreen> {
     if (_subtitles.isEmpty) return;
     
     for (int i = 0; i < _subtitles.length; i++) {
-      if (_subtitles[i].startTime > _currentPosition + const Duration(milliseconds: 100)) {
-        await _seekTo(_subtitles[i].startTime);
+      if (_subtitles[i].startTime > _currentPosition + const Duration(milliseconds: 10)) {
+        final seekPosition = _subtitles[i].startTime + const Duration(milliseconds: 10);
+        await _seekTo(seekPosition);
         return;
       }
     }
+  }
+
+  Future<void> _seekToSubtitleEnd() async {
+    if (_subtitles.isEmpty) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(
+          content: Text('No subtitles available'),
+          duration: Duration(seconds: 1),
+          backgroundColor: Colors.orange,
+        ),
+      );
+      return;
+    }
+    
+    int currentIndex = -1;
+    for (int i = 0; i < _subtitles.length; i++) {
+      if (_subtitles[i].startTime <= _currentPosition && 
+          (i == _subtitles.length - 1 || _subtitles[i + 1].startTime > _currentPosition)) {
+        currentIndex = i;
+        break;
+      }
+    }
+    
+    if (currentIndex == -1) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(
+          content: Text('No current subtitle found'),
+          duration: Duration(seconds: 1),
+          backgroundColor: Colors.orange,
+        ),
+      );
+      return;
+    }
+    
+    final subtitleEndTime = _subtitles[currentIndex].endTime;
+    
+    final replayStart = subtitleEndTime - const Duration(milliseconds: 900);
+    final safeReplayStart = replayStart < Duration.zero ? Duration.zero : replayStart;
+    
+    await player.seek(safeReplayStart);
+    await player.play();
+    
+    Timer(const Duration(milliseconds: 900), () async {
+      await player.pause();
+      await player.seek(subtitleEndTime);
+    });
   }
 
   Future<void> _jumpToStatsResult(String filename, String chapterTitle, Duration startTime) async {
@@ -7036,8 +7431,9 @@ class _WindowCloseListener extends WindowListener {
   _WindowCloseListener({required this.onClose});
   
   @override
-    Future<void> onWindowClose() async {
-      await onClose();
-      exit(0);
-    }
+  Future<void> onWindowClose() async {
+    await onClose();
+    // Remove exit(0) - let window_manager handle the exit
+    await windowManager.destroy();
+  }
 }

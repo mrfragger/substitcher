@@ -611,7 +611,7 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
                           widget.adhanService.stopAdhan();
                         },
                         icon: const Icon(Icons.stop, size: 16),
-                        label: const Text('Stop Adhan Playing (k)'),
+                        label: const Text('Stop Adhan Playing (0)'),
                         style: ElevatedButton.styleFrom(
                           backgroundColor: Colors.deepPurple,
                           foregroundColor: Colors.white,

@@ -795,6 +795,24 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
   }
 
   String _applyIslamicHonorifics(String content) {
+    content = content.replaceAllMapped(
+      RegExp(
+        r'\b(the\s+)?(prophet)\s+(peace be upon him|peace be upon them|'
+        r'\(pbuh\)|\(saw\)|\(s\.a\.w\.?\)|'
+        r's\.a\.w\.?|pbuh|saw|'
+        r'sallallahu alayhi wa sallam)\b',
+        caseSensitive: false
+      ),
+      (m) {
+        final thePrefix = m.group(1);
+        if (thePrefix != null) {
+          final isUpperThe = thePrefix.trim() == 'The';
+          return isUpperThe ? '___THE_PROPHET_PBUH_TEMP___' : '___the_PROPHET_PBUH_TEMP___';
+        }
+        return '___PROPHET_PBUH_TEMP___';
+      },
+    );
+    
     final compoundPhrases = [
       [r"insha'Allah [Tt]a'ala", "inshaAllah ﷾"],
       [r"in [Ss]ha'Allah [Tt]a'ala", "inshaAllah ﷾"],
@@ -998,8 +1016,8 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
       r'peace be upon him',
       r'please be upon him',
       r'\(Sallallahu alayhi wa sallam\)',
-      r'prophet peace',
       r'pbuh',
+      r'PBUH',
       r'\(saw\)',
       r'\(SAW\)',
       r'\bSAW\b',
@@ -1047,26 +1065,14 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
         (m) => item[1],
       );
     }
+
+    content = content.replaceAll('___THE_PROPHET_PBUH_TEMP___', 'The Prophet ﷺ ');
+    content = content.replaceAll('___the_PROPHET_PBUH_TEMP___', 'the Prophet ﷺ ');
+    content = content.replaceAll('___PROPHET_PBUH_TEMP___', 'Prophet ﷺ ');
   
     content = content.replaceAllMapped(
       RegExp(r'\bprophet muhammad\b', caseSensitive: false),
       (m) => 'Prophet Muhammad',
-    );
-    content = content.replaceAllMapped(
-      RegExp(r'\bprophet \(SAW\)\b', caseSensitive: false),
-      (m) => 'Prophet ﷺ ',
-    );
-    content = content.replaceAllMapped(
-      RegExp(r'\bprophet \(saw\)\b', caseSensitive: false),
-      (m) => 'Prophet ﷺ ',
-    );
-    content = content.replaceAllMapped(
-      RegExp(r'\bprophet \(s\.a\.w\)\b', caseSensitive: false),
-      (m) => 'Prophet ﷺ ',
-    );
-    content = content.replaceAllMapped(
-      RegExp(r'\bprophet s\.a\.w\.\b', caseSensitive: false),
-      (m) => 'Prophet ﷺ ',
     );
   
     final radiyallahuVariations = [
@@ -1548,7 +1554,6 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
            r"\blibya\b": "Libya",
            r"\bliechtenstein\b": "Liechtenstein",
            r"\blilongwe\b": "Lilongwe",
-           r"\blima\b": "Lima",
            r"\blincoln\b": "Lincoln",
            r"\blisbon\b": "Lisbon",
            r"\blithuania\b": "Lithuania",
@@ -2181,7 +2186,6 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
         r'\bthompson\b': 'Thompson',
         r'\btimothy\b': 'Timothy',
         r'\btorres\b': 'Torres',
-        r'\bturner\b': 'Turner',
         r'\btyler\b': 'Tyler',
         r'\bvincent\b': 'Vincent',
         r'\bvinci\b': 'Vinci',
@@ -2301,7 +2305,9 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
                 '2. Apply single-line honorifics\n'
                 '3. Fix cross-subtitle honorifics\n'
                 '4. Capitalize proper nouns\n'
-                '5. Generate HTML change reports',
+                '5. Generate HTML change reports\n'
+                '6. Repeat fixes only use audiobookname_repeats.vtt as final subtitles\n'
+                '7. Repeat fixes, pronouns, honorifics and use audiobookname_pronouns.vtt as final subtitles ',
                 style: TextStyle(
                   color: Colors.white70,
                   fontSize: 14,

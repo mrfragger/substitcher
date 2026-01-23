@@ -32,6 +32,11 @@ class _TranscribeScreenState extends State<TranscribeScreen> {
  Duration _initialTotalDuration = Duration.zero;
  Map<String, Duration> _chapterDurations = {};
 
+bool _remerging = false;
+String _remergeStatus = '';
+int _customMsOffset = 0;
+final _msOffsetController = TextEditingController(text: '0');
+
   @override
   void initState() {
     super.initState();
@@ -282,6 +287,101 @@ class _TranscribeScreenState extends State<TranscribeScreen> {
     }
   }
 
+  Future<void> _remergeChapterVtts() async {
+    if (_chaptersDirectory == null) {
+      setState(() {
+        _remergeStatus = 'Please select a chapters directory first';
+      });
+      return;
+    }
+  
+    final chaptersDir = Directory(_chaptersDirectory!);
+    if (!chaptersDir.existsSync()) {
+      setState(() {
+        _remergeStatus = 'Directory not found';
+      });
+      return;
+    }
+  
+    final chapterVttFiles = chaptersDir
+        .listSync()
+        .where((e) => e is File && e.path.endsWith('.vtt') && !e.path.contains('_original_overlaps'))
+        .cast<File>()
+        .map((f) => f.path)
+        .toList();
+  
+    chapterVttFiles.sort();
+  
+    final opusFiles = <String>[];
+    for (final vttPath in chapterVttFiles) {
+      final chapterName = path.basenameWithoutExtension(vttPath);
+      final opusPath = path.join(_chaptersDirectory!, '$chapterName.opus');
+      if (File(opusPath).existsSync()) {
+        opusFiles.add(opusPath);
+      }
+    }
+  
+    if (chapterVttFiles.isEmpty || opusFiles.isEmpty) {
+      setState(() {
+        _remergeStatus = 'No chapter VTT files or opus files found';
+      });
+      return;
+    }
+  
+    if (chapterVttFiles.length != opusFiles.length) {
+      setState(() {
+        _remergeStatus = 'Mismatch: ${chapterVttFiles.length} VTTs but ${opusFiles.length} opus files';
+      });
+      return;
+    }
+  
+    setState(() {
+      _remerging = true;
+      _remergeStatus = 'Re-merging ${chapterVttFiles.length} chapter VTTs with ${_customMsOffset}ms offset...';
+    });
+  
+    try {
+      final originalOffset = _whisperService.msOffset;
+      _whisperService.msOffset = _customMsOffset;
+  
+      await _whisperService.mergeChapterVttFiles( 
+        chapterVttFiles,
+        _chaptersDirectory!,
+        opusFiles,
+      );
+  
+      _whisperService.msOffset = originalOffset;
+  
+      setState(() {
+        _remerging = false;
+        _remergeStatus = 'Successfully re-merged with ${_customMsOffset}ms offset!';
+      });
+  
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            content: Text('Re-merged ${chapterVttFiles.length} chapters with ${_customMsOffset}ms offset'),
+            backgroundColor: Colors.green,
+          ),
+        );
+      }
+    } catch (e) {
+      setState(() {
+        _remerging = false;
+        _remergeStatus = 'Error: $e';
+      });
+  
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            content: Text('Re-merge failed: $e'),
+            backgroundColor: Colors.red,
+          ),
+        );
+      }
+    }
+  }
+
   Future<void> _convertAllVttToMarkdown(String chaptersDirectory) async {
     try {
       setState(() {
@@ -459,6 +559,9 @@ class _TranscribeScreenState extends State<TranscribeScreen> {
                     
                     _buildWhisperSettingsSection(),
                     const SizedBox(height: 32),
+
+                    _buildRemergeSection(),
+                    const SizedBox(height: 32),
                     
                     if (_isTranscribing) ...[
                       _buildTranscriptionProgress(),
@@ -544,7 +647,7 @@ class _TranscribeScreenState extends State<TranscribeScreen> {
             icon: const Icon(Icons.bug_report, size: 18),
             label: const Text('Test Whisper'),
             style: ElevatedButton.styleFrom(
-              backgroundColor: Colors.orange,
+              backgroundColor: Colors.deepOrange,
               foregroundColor: Colors.white,
             ),
           ),
@@ -739,6 +842,93 @@ class _TranscribeScreenState extends State<TranscribeScreen> {
           child: const Icon(Icons.info_outline, color: Colors.white54, size: 16),
         ),
       ],
+    );
+  }
+
+  Widget _buildRemergeSection() {
+    return Container(
+      padding: const EdgeInsets.all(16),
+      decoration: BoxDecoration(
+        color: Colors.grey[900],
+        borderRadius: BorderRadius.circular(8),
+        border: Border.all(color: Colors.deepOrange),
+      ),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          const Text(
+            'Re-merge Chapter VTTs',
+            style: TextStyle(
+              color: Colors.white,
+              fontSize: 16,
+              fontWeight: FontWeight.bold,
+            ),
+          ),
+          const SizedBox(height: 8),
+          const Text(
+            'If subtitles are out of sync for audiobooks with many chapters (100+), '
+            'adjust the millisecond offset and re-merge without re-transcribing.',
+            style: TextStyle(color: Colors.white70, fontSize: 12),
+          ),
+          const SizedBox(height: 16),
+          Row(
+            children: [
+              const Text(
+                'Offset (ms):',
+                style: TextStyle(color: Colors.white70, fontSize: 14),
+              ),
+              const SizedBox(width: 12),
+              SizedBox(
+                width: 100,
+                child: TextField(
+                  controller: _msOffsetController,
+                  style: const TextStyle(color: Colors.white),
+                  decoration: const InputDecoration(
+                    border: OutlineInputBorder(),
+                    isDense: true,
+                    hintText: '65',
+                  ),
+                  keyboardType: TextInputType.number,
+                  onChanged: (value) {
+                    setState(() {
+                      _customMsOffset = int.tryParse(value) ?? 65;
+                    });
+                  },
+                ),
+              ),
+              const SizedBox(width: 16),
+              ElevatedButton.icon(
+                onPressed: _remerging ? null : _remergeChapterVtts,
+                icon: _remerging
+                    ? const SizedBox(
+                        width: 16,
+                        height: 16,
+                        child: CircularProgressIndicator(
+                          strokeWidth: 2,
+                          color: Colors.white,
+                        ),
+                      )
+                    : const Icon(Icons.merge_type),
+                label: const Text('Re-merge VTTs'),
+                style: ElevatedButton.styleFrom(
+                  backgroundColor: Colors.deepOrange,
+                  padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
+                ),
+              ),
+            ],
+          ),
+          if (_remergeStatus.isNotEmpty) ...[
+            const SizedBox(height: 12),
+            Text(
+              _remergeStatus,
+              style: TextStyle(
+                color: _remergeStatus.contains('Error') ? Colors.red : Colors.green,
+                fontSize: 12,
+              ),
+            ),
+          ],
+        ],
+      ),
     );
   }
 

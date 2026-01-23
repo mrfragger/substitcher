@@ -24,7 +24,7 @@ class WhisperService {
   bool _encoding = false;
   bool _cancelEncoding = false;
   
-  int msOffset = 65;
+  int msOffset = 0;
   bool printColors = false;
   bool useGPU = true;
   String customPrompt = "The example of those who disbelieve is like that of one who shouts at what hears nothing but calls and cries i.e., cattle or sheep - deaf, dumb and blind, so they do not understand.";
@@ -378,14 +378,13 @@ class WhisperService {
       
       if (allChapterVtts.length > 1) {
         onProgress('Merging ${allChapterVtts.length} chapter VTT files...', 0.95, cumulativeChapterDuration);
-        await _mergeChapterVttFiles(
+        await mergeChapterVttFiles(
           allChapterVtts, 
           chaptersDirectory,
           opusFiles.map((f) => f.path).toList(),
         );
       }
       
-      // Clean up temp directory at the end
       if (tempWorkDir.existsSync()) {
         tempWorkDir.deleteSync(recursive: true);
       }
@@ -838,7 +837,7 @@ class WhisperService {
     return finalVtt;
   }
   
-  Future<void> _mergeChapterVttFiles(List<String> chapterVttFiles, String outputDir, List<String> originalOpusFiles) async {
+  Future<void> mergeChapterVttFiles(List<String> chapterVttFiles, String outputDir, List<String> originalOpusFiles) async {
     if (chapterVttFiles.isEmpty) return;
     
     final parentDir = Directory(outputDir).parent.path;
@@ -857,7 +856,6 @@ class WhisperService {
     }
     
     final mergedVttOriginal = path.join(outputDir, '${baseFilename}_original_overlaps.vtt');
-    final mergedVtt = path.join(outputDir, '$baseFilename.vtt');
     final output = StringBuffer();
     output.writeln('WEBVTT');
     output.writeln();

@@ -38,6 +38,7 @@ class PlayerControls extends StatelessWidget {
   final bool hoveringNextChapter;
   final Function(bool) onPrevChapterHover;
   final Function(bool) onNextChapterHover;
+  final Function(BuildContext, String) onEditingMenuSelected;
   
   final VoidCallback onTogglePlayPause;
   final VoidCallback onPreviousChapter;
@@ -45,6 +46,8 @@ class PlayerControls extends StatelessWidget {
   final Function(int) onJumpToChapter;
   final VoidCallback onSkipBackward;
   final VoidCallback onSkipForward;
+  final VoidCallback? skipToPreviousSubtitle;
+  final VoidCallback? skipToNextSubtitle;
   final VoidCallback onIncreaseSpeed;
   final VoidCallback onDecreaseSpeed;
   final VoidCallback onToggleShuffle;
@@ -119,7 +122,10 @@ class PlayerControls extends StatelessWidget {
     required this.hoveringPrevChapter,
     required this.hoveringNextChapter,
     required this.onPrevChapterHover,
-    required this.onNextChapterHover,   
+    required this.onNextChapterHover,
+    required this.onEditingMenuSelected,
+    this.skipToPreviousSubtitle,
+    this.skipToNextSubtitle,
     this.isYouTubeStream = false,
     this.youtubeTitle,
     this.youtubeChannelName,
@@ -379,7 +385,7 @@ class PlayerControls extends StatelessWidget {
                   children: [
                     Expanded(
                       child: Text(
-                        '$progressPercent% ${_formatDuration(currentPosition)} / ${_formatDuration(totalDuration)} • $selectedFont • ${conversionType == 'none' ? 'Original' : conversionType}${currentColorPalette != null ? ' • ${currentColorPalette!.name}' : ''} • ${subtitleFontSize.toInt()} • ${subtitleLineSpacing.toStringAsFixed(2)}',
+                        '$progressPercent% ${_formatDurationWithMs(currentPosition)} / ${_formatDuration(totalDuration)} • $selectedFont • ${conversionType == 'none' ? 'Original' : conversionType}${currentColorPalette != null ? ' • ${currentColorPalette!.name}' : ''} • ${subtitleFontSize.toInt()} • ${subtitleLineSpacing.toStringAsFixed(2)}',
                         style: const TextStyle(
                           color: Colors.white70,
                           fontSize: 12,
@@ -527,7 +533,7 @@ class PlayerControls extends StatelessWidget {
           const SizedBox(width: 8),
         
         IconButton(
-          onPressed: onSkipBackward,
+          onPressed: skipToPreviousSubtitle,
           icon: const Icon(Icons.arrow_back_ios_outlined),
           color: Colors.white,
           iconSize: 24,
@@ -542,7 +548,7 @@ class PlayerControls extends StatelessWidget {
         ),
         const SizedBox(width: 12),
         IconButton(
-          onPressed: onSkipForward,
+          onPressed: skipToNextSubtitle,
           icon: const Icon(Icons.arrow_forward_ios_outlined),
           color: Colors.white,
           iconSize: 24,
@@ -742,7 +748,7 @@ class PlayerControls extends StatelessWidget {
             ),
             const PopupMenuItem(
               value: 'hideChapterTitle',
-              child: Text('Chapter Title Hide/Show ( . )'),
+              child: Text('Chapter Title Hide/Show ( ` )'),
             ),
             const PopupMenuItem(
               value: 'hideChapterTitle',
@@ -849,7 +855,44 @@ class PlayerControls extends StatelessWidget {
           ],
         ),
         const SizedBox(width: 8),
-        
+
+        PopupMenuButton<String>(
+          icon: const Icon(Icons.compress, color: Colors.white, size: 24),
+          tooltip: 'Slicing',
+          onSelected: (value) => onEditingMenuSelected(context, value),
+          itemBuilder: (context) => [
+            const PopupMenuItem(
+              value: 'set_in',
+              child: Text('Set In Point (i)'),
+            ),
+            const PopupMenuItem(
+              value: 'set_out',
+              child: Text('Set Out Point (o)'),
+            ),
+            const PopupMenuItem(
+              value: 'seekToSubtitleEnd',
+              child: Text('Listen, Seek to End of Sub ( ; )'),
+            ),
+            const PopupMenuItem(
+              value: 'seek_back_1s',
+              child: Text('Listen, Backward 1s (j)'),
+            ),
+            const PopupMenuItem(
+              value: 'seek_forward_1s',
+              child: Text('Listen, Forward 1s (k)'),
+            ),
+            const PopupMenuItem(
+              value: 'replay_back',
+              child: Text('Listen, Backward 100ms ( , )'),
+            ),
+            const PopupMenuItem(
+              value: 'replay_forward',
+              child: Text('Listen, Forward 100ms ( . )'),
+            ),
+          ],
+        ),
+        const SizedBox(width: 8),
+
         PopupMenuButton<String>(
           icon: const Icon(Icons.settings, color: Colors.white, size: 24),
           tooltip: 'Settings',
@@ -874,15 +917,15 @@ class PlayerControls extends StatelessWidget {
               ),
               const PopupMenuItem(
                 value: 'copy_metadata',
-                child: Text('Copy Metadata (i)'),
+                child: Text('Copy Metadata (⇧M)'),
               ),
               const PopupMenuItem(
                 value: 'copy_chapters',
-                child: Text('Copy Chapters List & .txt (r)'),
+                child: Text('Copy Chapters List & .txt (⇧R)'),
               ),
               const PopupMenuItem(
                 value: 'open_dir',
-                child: Text('Open Dir of Audiobook (j)'),
+                child: Text('Open Dir of Audiobook (⇧L)'),
               ),
               const PopupMenuItem(
                 value: 'load',
@@ -920,6 +963,14 @@ class PlayerControls extends StatelessWidget {
     final minutes = d.inMinutes.remainder(60);
     final seconds = d.inSeconds.remainder(60);
     return '${hours.toString().padLeft(2, '0')}:${minutes.toString().padLeft(2, '0')}:${seconds.toString().padLeft(2, '0')}';
+  }
+
+  String _formatDurationWithMs(Duration d) {
+    final hours = d.inHours;
+    final minutes = d.inMinutes.remainder(60);
+    final seconds = d.inSeconds.remainder(60);
+    final ms = d.inMilliseconds.remainder(1000);
+    return '${hours.toString().padLeft(2, '0')}:${minutes.toString().padLeft(2, '0')}:${seconds.toString().padLeft(2, '0')}.${ms.toString().padLeft(3, '0')}';
   }
 
   String _formatChapterRemaining(Duration d) {
