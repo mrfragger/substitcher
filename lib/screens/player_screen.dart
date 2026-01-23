@@ -1134,8 +1134,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
       
       if (_sleepTimerCountdownSeconds <= 0) {
         timer.cancel();
-        // Instead of exit(0), properly close the window
-        windowManager.close();  // This will trigger onWindowClose
+        windowManager.close();
       }
     });
   }
@@ -3062,7 +3061,6 @@ class _PlayerScreenState extends State<PlayerScreen> {
       }
     }
     
-    // Update secondary subtitle
     if (_secondarySubtitles.isEmpty) {
       if (_secondarySubtitleText.isNotEmpty) {
         setState(() {
@@ -3207,9 +3205,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
     double multiplier = 1.0;
     
     if (textLength >= 1 && textLength <= 60) {
-      // Cap at 10 - anything below 10 gets the same boost as 10
       final effectiveLength = textLength < 10 ? 10 : textLength;
-      // Single smooth curve: 1.5x at len=10, gradually down to 1.0x at len=60
       multiplier = 1.0 + ((60 - effectiveLength) / 100.0);
     }
     
@@ -5638,7 +5634,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
       onSliderHover: (position) {
         setState(() {
           _sliderHoverPosition = position;
-          _hoveredChapterTitle = ''; // Default to empty
+          _hoveredChapterTitle = '';
           
           final sliderWidth = MediaQuery.of(context).size.width - 64;
           final totalMillis = _totalDuration.inMilliseconds;
@@ -6317,7 +6313,6 @@ class _PlayerScreenState extends State<PlayerScreen> {
       if (pinNumber != null) {
         for (int i = 0; i < _bookmarks.length; i++) {
           if (i != actualIndex && _bookmarks[i].pinNumber == pinNumber) {
-            // Remove the pin from the other bookmark
             _bookmarks[i] = _bookmarks[i].copyWith(clearPin: true);
           }
         }
@@ -7433,7 +7428,6 @@ class _WindowCloseListener extends WindowListener {
   @override
   Future<void> onWindowClose() async {
     await onClose();
-    // Remove exit(0) - let window_manager handle the exit
     await windowManager.destroy();
   }
 }
