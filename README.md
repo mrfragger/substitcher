@@ -204,7 +204,7 @@ Opus chaptered encoder and player with colored subtitles and fancy fonts. Transc
 ![](images/ankitoopus2.jpg)
 
 ### Youtube
-- handles videos or audio to stream (ignored for History, Stats)
+- handles videos or audio to stream (ignored for History, Stats), disabled on android/iOS
 - download video or audio and playlists with option to resume
 - displays subs automatically if avaiable based on default language
 - choose up to 10 languages to prompt when default language isn't found, this enables a shortlist rather than scrolling through 79 languages each time
@@ -215,10 +215,15 @@ macOS (arm64 Silicon m1,m2,m3,m4,m26) after install dmg in Terminal do
 ```bash
 xattr -dr com.apple.quarantine /Applications/SubStitcher.app
 ```
-or homebrew
+Homebrew
 ```bash
 brew install mrfragger/substitcher/substitcher
 ```
+Flatpak
+```bash
+flatpak install substitcher-x64.flatpak
+```
+
 If using whisper large v2 model on 8GB RAM Mac swap file might become huge especially with other apps open.  Swap file will never clear and takes up valuable disk space until rebooting. Log out of user account and login again which is even quicker way to delete swap file.
 
 Windows x64\
@@ -235,11 +240,10 @@ chmod +x  substitcher-x64.AppImage
 ```
 Transcribing with whisper.cpp won't work on CPUs without AVX which is usually ones before 2014
 
-Linux Arch [AUR package](https://aur.archlinux.org/packages/substitcher-bin)
+Linux Arch [AUR package](https://aur.archlinux.org/packages/substitcher-bin) yay or paru
 ```bash
 yay -S substitcher-bin
 ```
-or
 ```bash
 paru -S substitcher-bin
 ```
@@ -270,14 +274,11 @@ Why Opus outperforms MP3 and AAC at very low bitrates (like ~16 kb/s)
 -  gives best quality at a given bitrate for voice signals. It enhances the input signal by high-pass filtering and emphasizing formants and harmonics
 
 ### Miscellaneous
-- Never will support, music, videos as it's an audiobook only
+- Never will support music, videos as it's an audiobook only
 - Unlikely will get light theme
 - Never will support cover images, choose either audiobooks with covers and not use subtitles
 - It just puts a 16x9 black png image with META_BLOCK_PICTURE with some info along with png based on vorbis comment specification
-- This is the base64 encoding 'AAAAAwAAAAlpbWFnZS9wbmcAAAALRnJvbnQgQ292ZXIAAAAQAAAACQAAACAAAAAAAAAAU4lQTkcNChoKAAAADUlIRFIAAAAQAAAACQgGAAAAOyqsMgAAABpJREFUeJxjZGBg+M9AAWCiRPOoARAwDAwAAFmzARHg40/fAAAAAElFTkSuQmCC' 
+- This is the base64 encoding of META_BLOCK_PICTURE='AAAAAwAAAAlpbWFnZS9wbmcAAAALRnJvbnQgQ292ZXIAAAAQAAAACQAAACAAAAAAAAAAU4lQTkcNChoKAAAADUlIRFIAAAAQAAAACQgGAAAAOyqsMgAAABpJREFUeJxjZGBg+M9AAWCiRPOoARAwDAwAAFmzARHg40/fAAAAAElFTkSuQmCC' 
 - Reason is most audiobook players don't support subtitles, and ones that do so due to video support and having a cover image in background with subtitles overlaying it doable
 - If you really do want a cover image and don't plan to ever use subs then use kid3 app (qt free cross-platform app)
-- Might enable mac universal again (ffmpeg and whisper) but should work as an audiobook player just not encoder / transcriber
-- Built a audio/sub extract and used original subs but got out of synch due to padding when re-encoding
-- So if do again will just extract audio segments and keep together those in chapters, must transcribe for subs though
-- Developed since 2022 but in Dec 2025 decided to port from mpv front-end lua scripts with uosc ui and remove video editing, LUTs to a flutter / dart app (not just Mac/Linux anymore) and purely focus an audiobook player
+- Developed since 2022 but in Dec 2025 decided to port from mpv front-end lua scripts with uosc ui and remove video editing, LUTs to a flutter / dart app (not just Mac/Linux anymore) and make it purely an audiobook player

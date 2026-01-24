@@ -155,89 +155,79 @@ jobs:
           name: windows-build
           path: SubStitcher-Windows-x64.zip
 
-  # build-linux-flatpak:
-  #   runs-on: ubuntu-latest
-  #   steps:
-  #     - uses: actions/checkout@v4
+  build-linux-flatpak:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
       
-  #     - uses: subosito/flutter-action@v2
-  #       with:
-  #         channel: 'stable'
+      - uses: subosito/flutter-action@v2
+        with:
+          channel: 'stable'
       
-  #     - name: Install build dependencies
-  #       run: |
-  #         sudo apt-get update
-  #         sudo apt-get install -y clang cmake ninja-build pkg-config libgtk-3-dev liblzma-dev libmpv-dev mpv
+      - name: Install build dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y clang cmake ninja-build pkg-config libgtk-3-dev liblzma-dev libmpv-dev mpv
       
-  #     - name: Install Flatpak dependencies
-  #       run: |
-  #         sudo apt-get install -y flatpak flatpak-builder
-  #         sudo flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+      - name: Install Flatpak dependencies
+        run: |
+          sudo apt-get install -y flatpak flatpak-builder
+          sudo flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
       
-  #     - name: Cache Flatpak
-  #       uses: actions/cache@v4
-  #       with:
-  #         path: |
-  #           /var/lib/flatpak
-  #           ~/.local/share/flatpak
-  #         key: flatpak-${{ runner.os }}-24.08-${{ hashFiles('.github/workflows/build_release.yml') }}
-  #         restore-keys: |
-  #           flatpak-${{ runner.os }}-24.08-
-      
-  #     - name: Install Flatpak SDK
-  #       timeout-minutes: 15
-  #       run: |
-  #         if ! flatpak list | grep -q "org.freedesktop.Platform.*24.08"; then
-  #           echo "Installing Platform..."
-  #           sudo flatpak install -y flathub org.freedesktop.Platform//24.08
-  #         else
-  #           echo "Platform already installed"
-  #         fi
+      - name: Install Flatpak SDK
+        timeout-minutes: 15
+        run: |
+          if ! flatpak list | grep -q "org.freedesktop.Platform.*24.08"; then
+            echo "Installing Platform..."
+            sudo flatpak install -y flathub org.freedesktop.Platform//24.08
+          else
+            echo "Platform already installed"
+          fi
           
-  #         if ! flatpak list | grep -q "org.freedesktop.Sdk.*24.08"; then
-  #           echo "Installing Sdk..."
-  #           sudo flatpak install -y flathub org.freedesktop.Sdk//24.08
-  #         else
-  #           echo "Sdk already installed"
-  #         fi
+          if ! flatpak list | grep -q "org.freedesktop.Sdk.*24.08"; then
+            echo "Installing Sdk..."
+            sudo flatpak install -y flathub org.freedesktop.Sdk//24.08
+          else
+            echo "Sdk already installed"
+          fi
       
-  #     - name: Download Linux FFmpeg
-  #       uses: dawidd6/action-download-artifact@v2
-  #       with:
-  #         workflow: build_ffmpeg.yml
-  #         name: ffmpeg-linux
-  #         path: temp-bin/
+      - name: Download Linux FFmpeg
+        uses: dawidd6/action-download-artifact@v2
+        with:
+          workflow: build_ffmpeg.yml
+          name: ffmpeg-linux
+          path: temp-bin/
       
-  #     - name: Download Linux Whisper
-  #       uses: dawidd6/action-download-artifact@v2
-  #       with:
-  #         workflow: build_whisper.yml
-  #         name: whisper-linux
-  #         path: temp-whisper/
+      - name: Download Linux Whisper
+        uses: dawidd6/action-download-artifact@v2
+        with:
+          workflow: build_whisper.yml
+          name: whisper-linux
+          path: temp-whisper/
       
-  #     - name: Build Linux
-  #       run: |
-  #         flutter pub get
-  #         flutter build linux --release
+      - name: Build Linux
+        run: |
+          flutter pub get
+          flutter build linux --release
           
-  #         # Copy binaries to bundle
-  #         mkdir -p build/linux/x64/release/bundle/bin
-  #         mkdir -p build/linux/x64/release/bundle/whisper
-  #         cp temp-bin/* build/linux/x64/release/bundle/bin/
-  #         cp temp-whisper/* build/linux/x64/release/bundle/whisper/
-  #         chmod +x build/linux/x64/release/bundle/bin/*
-  #         chmod +x build/linux/x64/release/bundle/whisper/*
+          # Copy binaries to bundle
+          mkdir -p build/linux/x64/release/bundle/bin
+          mkdir -p build/linux/x64/release/bundle/whisper
+          cp temp-bin/* build/linux/x64/release/bundle/bin/
+          cp temp-whisper/* build/linux/x64/release/bundle/whisper/
+          chmod +x build/linux/x64/release/bundle/bin/*
+          chmod +x build/linux/x64/release/bundle/whisper/*
       
-  #     - name: Build Flatpak
-  #       run: |
-  #         chmod +x scripts/build_flatpak.sh
-  #         ./scripts/build_flatpak.sh
+      - name: Build Flatpak
+        run: |
+          chmod +x scripts/build_flatpak.sh
+          ./scripts/build_flatpak.sh
       
-  #     - name: Upload Linux Flatpak artifact
-  #       uses: actions/upload-artifact@v4
-  #       with:
-  #         name: linux-flatpak-build
-  #         path: substitcher-x64.flatpak
+      - name: Upload Linux Flatpak artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: linux-flatpak-build
+          path: substitcher-x64.flatpak
 
   build-android:
     runs-on: ubuntu-latest
@@ -303,7 +293,7 @@ jobs:
           path: build/app/outputs/flutter-apk/substitcher-android-universal.apk
 
   create-release:
-    needs: [build-macos, build-windows, build-linux-appimage, build-android]
+    needs: [build-macos, build-windows, build-linux-appimage, build-linux-flatpak, build-android]
     runs-on: ubuntu-latest
     if: startsWith(github.ref, 'refs/tags/')
     steps:
@@ -316,6 +306,7 @@ jobs:
           files: |
             macos-build/SubStitcher-macOS-arm64.dmg
             linux-appimage-build/substitcher-*.AppImage
+            linux-flatpak-build/substitcher-x64.flatpak
             windows-build/SubStitcher-Windows-x64.zip
             android-build/substitcher-android-universal.apk
         env:
@@ -413,7 +404,7 @@ jobs:
             VERSION="${{ steps.version.outputs.version }}"
             SHA256="${{ steps.sha.outputs.sha256 }}"
             
-            git clone https://x-access-token:${HOMEBREW_TAP_TOKEN}@github.com/yourusername/homebrew-substitcher.git
+            git clone https://x-access-token:${HOMEBREW_TAP_TOKEN}@github.com/mrfragger/homebrew-substitcher.git
             cd homebrew-substitcher
             
             sed -i "s/VERSION_PLACEHOLDER/${VERSION}/g" Formula/substitcher.rb
