@@ -302,74 +302,8 @@ jobs:
           name: android-build
           path: build/app/outputs/flutter-apk/substitcher-android-universal.apk
 
-  update-aur:
-      name: Update AUR Package
-      needs: [create-release]
-      if: startsWith(github.ref, 'refs/tags/')
-      runs-on: ubuntu-latest
-      steps:
-        - uses: actions/checkout@v4
-        
-        - name: Extract version from tag
-          id: version
-          run: |
-            VERSION=${GITHUB_REF#refs/tags/v}
-            echo "version=$VERSION" >> $GITHUB_OUTPUT
-        
-        - name: Download AppImage artifact
-          uses: actions/download-artifact@v4
-          with:
-            name: linux-appimage-build
-            path: artifacts
-        
-        - name: Calculate SHA256
-          id: sha
-          run: |
-            cd artifacts
-            SHA256=$(sha256sum substitcher-x64.AppImage | cut -d' ' -f1)
-            echo "sha256=$SHA256" >> $GITHUB_OUTPUT
-        
-        - name: Update AUR package
-          env:
-            AUR_SSH_KEY: ${{ secrets.AUR_SSH_KEY }}
-          run: |
-            VERSION="${{ steps.version.outputs.version }}"
-            SHA256="${{ steps.sha.outputs.sha256 }}"
-            
-            # Setup SSH
-            mkdir -p ~/.ssh
-            echo "$AUR_SSH_KEY" > ~/.ssh/aur
-            chmod 600 ~/.ssh/aur
-            ssh-keyscan -H aur.archlinux.org >> ~/.ssh/known_hosts
-            
-            # Configure Git
-            git config --global user.name "github-actions[bot]"
-            git config --global user.email "github-actions[bot]@users.noreply.github.com"
-            
-            # Clone AUR repo
-            GIT_SSH_COMMAND="ssh -i ~/.ssh/aur" git clone ssh://aur@aur.archlinux.org/substitcher-bin.git aur-repo
-            cd aur-repo
-            
-            # Update PKGBUILD
-            sed -i "s/^pkgver=.*/pkgver=${VERSION}/" PKGBUILD
-            sed -i "s/^sha256sums=.*/sha256sums=('${SHA256}')/" PKGBUILD
-            
-            # Generate .SRCINFO
-            docker run --rm -v $(pwd):/pkg archlinux bash -c "
-              pacman -Sy --noconfirm pacman-contrib && 
-              cd /pkg && 
-              makepkg --printsrcinfo > .SRCINFO
-            "
-            
-            # Commit and push
-            git add PKGBUILD .SRCINFO
-            git commit -m "Update to version ${VERSION}"
-            GIT_SSH_COMMAND="ssh -i ~/.ssh/aur" git push         
-
   create-release:
     needs: [build-macos, build-windows, build-linux-appimage, build-android]
-    # needs: [build-macos, build-linux-appimage, build-windows, build-android]
-
     runs-on: ubuntu-latest
     if: startsWith(github.ref, 'refs/tags/')
     steps:
@@ -388,65 +322,61 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
   update-aur:
-      name: Update AUR Package
-      needs: [create-release]
-      if: startsWith(github.ref, 'refs/tags/')
-      runs-on: ubuntu-latest
-      steps:
-        - uses: actions/checkout@v4
-        
-        - name: Extract version from tag
-          id: version
-          run: |
-            VERSION=${GITHUB_REF#refs/tags/v}
-            echo "version=$VERSION" >> $GITHUB_OUTPUT
-        
-        - name: Download AppImage artifact
-          uses: actions/download-artifact@v4
-          with:
-            name: linux-appimage-build
-            path: artifacts
-        
-        - name: Calculate SHA256
-          id: sha
-          run: |
-            cd artifacts
-            SHA256=$(sha256sum substitcher-x64.AppImage | cut -d' ' -f1)
-            echo "sha256=$SHA256" >> $GITHUB_OUTPUT
-        
-        - name: Update AUR package
-          env:
-            AUR_SSH_KEY: ${{ secrets.AUR_SSH_KEY }}
-          run: |
-            VERSION="${{ steps.version.outputs.version }}"
-            SHA256="${{ steps.sha.outputs.sha256 }}"
-            
-            # Setup SSH
-            mkdir -p ~/.ssh
-            echo "$AUR_SSH_KEY" > ~/.ssh/aur
-            chmod 600 ~/.ssh/aur
-            ssh-keyscan -H aur.archlinux.org >> ~/.ssh/known_hosts
-            
-            # Configure Git
-            git config --global user.name "github-actions[bot]"
-            git config --global user.email "github-actions[bot]@users.noreply.github.com"
-            
-            # Clone AUR repo
-            GIT_SSH_COMMAND="ssh -i ~/.ssh/aur" git clone ssh://aur@aur.archlinux.org/substitcher-bin.git aur-repo
-            cd aur-repo
-            
-            # Update PKGBUILD
-            sed -i "s/^pkgver=.*/pkgver=${VERSION}/" PKGBUILD
-            sed -i "s/^sha256sums=.*/sha256sums=('${SHA256}')/" PKGBUILD
-            
-            # Generate .SRCINFO
-            docker run --rm -v $(pwd):/pkg archlinux bash -c "
-              pacman -Sy --noconfirm pacman-contrib && 
-              cd /pkg && 
-              makepkg --printsrcinfo > .SRCINFO
-            "
-            
-            # Commit and push
-            git add PKGBUILD .SRCINFO
-            git commit -m "Update to version ${VERSION}"
-            GIT_SSH_COMMAND="ssh -i ~/.ssh/aur" git push                
+    name: Update AUR Package
+    needs: [create-release]
+    if: startsWith(github.ref, 'refs/tags/')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Extract version from tag
+        id: version
+        run: |
+          VERSION=${GITHUB_REF#refs/tags/v}
+          echo "version=$VERSION" >> $GITHUB_OUTPUT
+      
+      - name: Download AppImage artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: linux-appimage-build
+          path: artifacts
+      
+      - name: Calculate SHA256
+        id: sha
+        run: |
+          cd artifacts
+          SHA256=$(sha256sum substitcher-x64.AppImage | cut -d' ' -f1)
+          echo "sha256=$SHA256" >> $GITHUB_OUTPUT
+      
+      - name: Update AUR package
+        env:
+          AUR_SSH_KEY: ${{ secrets.AUR_SSH_KEY }}
+        run: |
+          VERSION="${{ steps.version.outputs.version }}"
+          SHA256="${{ steps.sha.outputs.sha256 }}"
+          
+          mkdir -p ~/.ssh
+          echo "$AUR_SSH_KEY" > ~/.ssh/aur
+          chmod 600 ~/.ssh/aur
+          ssh-keyscan -H aur.archlinux.org >> ~/.ssh/known_hosts
+          
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          GIT_SSH_COMMAND="ssh -i ~/.ssh/aur" git clone ssh://aur@aur.archlinux.org/substitcher-bin.git aur-repo
+          cd aur-repo
+          
+          sed -i "s/^pkgver=.*/pkgver=${VERSION}/" PKGBUILD
+          sed -i "s/^sha256sums=.*/sha256sums=('${SHA256}')/" PKGBUILD
+          
+          docker run --rm -v $(pwd):/pkg archlinux bash -c "
+            pacman -Sy --noconfirm pacman-contrib && 
+            cd /pkg && 
+            makepkg --printsrcinfo > .SRCINFO
+          "
+          
+          git add PKGBUILD .SRCINFO
+          git commit -m "Update to version ${VERSION}"
+          GIT_SSH_COMMAND="ssh -i ~/.ssh/aur" git push
+
+  
