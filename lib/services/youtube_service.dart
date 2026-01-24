@@ -46,17 +46,19 @@ class YouTubeService {
     return null;
   }
   
-  static Future<String?> getAudioStreamUrl(String youtubeUrl) async {
+  static Future<String?> getAudioStreamUrl(String youtubeUrl, {String? formatId}) async {
     if (_ytdlpPath == null && !await isYtdlpAvailable()) {
       throw Exception('yt-dlp not found. Please install yt-dlp.');
     }
     
-    final result = await Process.run(_ytdlpPath!, [
-      '-f', 'bestaudio',
+    final args = [
+      '-f', formatId ?? 'bestaudio',
       '-g',
       '--no-playlist',
       youtubeUrl,
-    ]);
+    ];
+    
+    final result = await Process.run(_ytdlpPath!, args);
     
     if (result.exitCode != 0) {
       throw Exception('Failed to get audio stream: ${result.stderr}');
@@ -686,6 +688,93 @@ class YouTubeService {
     if (match != null) return match.group(1);
     
     return null;
+  }
+  
+  static Future<List<Map<String, dynamic>>> getAvailableAudioStreams(String youtubeUrl) async {
+    if (_ytdlpPath == null && !await isYtdlpAvailable()) {
+      throw Exception('yt-dlp not found');
+    }
+    
+    final result = await Process.run(_ytdlpPath!, [
+      '-F',
+      '--no-playlist',
+      youtubeUrl,
+    ]);
+    
+    if (result.exitCode != 0) {
+      throw Exception('Failed to get formats: ${result.stderr}');
+    }
+    
+    final lines = result.stdout.toString().split('\n');
+    final audioStreams = <Map<String, dynamic>>[];
+    
+    for (final line in lines) {
+      if (line.contains('audio only')) {
+        final parts = line.trim().split(RegExp(r'\s+'));
+        if (parts.isEmpty) continue;
+        
+        final formatId = parts[0];
+        final ext = parts[1];
+        
+        String language = 'Unknown';
+        String description = '';
+        bool isOriginal = line.contains('original');
+        bool isDrc = line.contains('DRC') || formatId.contains('-drc');
+        
+        final langMatch = RegExp(r'\[([^\]]+)\]\s+([^,]+)').firstMatch(line);
+        if (langMatch != null) {
+          final langCode = langMatch.group(1) ?? '';
+          final langName = langMatch.group(2) ?? '';
+          language = '$langName ($langCode)';
+        }
+        
+        String bitrate = 'unknown';
+        final bitrateMatch = RegExp(r'\|\s+\S+\s+(\d+k)').firstMatch(line);
+        if (bitrateMatch != null) {
+          bitrate = bitrateMatch.group(1)!;
+        }
+        
+        String codec = ext;
+        if (line.contains('opus')) codec = 'opus';
+        else if (line.contains('mp4a')) codec = 'm4a';
+        
+        String quality = 'medium';
+        if (line.contains('low')) quality = 'low';
+        else if (line.contains('medium')) quality = 'medium';
+        else if (line.contains('high')) quality = 'high';
+        
+        description = '$codec $bitrate ($quality)';
+        if (isDrc) description += ' [DRC]';
+        
+        audioStreams.add({
+          'id': formatId,
+          'ext': ext,
+          'codec': codec,
+          'bitrate': bitrate,
+          'language': language,
+          'quality': quality,
+          'isOriginal': isOriginal,
+          'isDrc': isDrc,
+          'description': description,
+          'fullLine': line.trim(),
+        });
+      }
+    }
+    
+    audioStreams.sort((a, b) {
+      if (a['isOriginal'] != b['isOriginal']) {
+        return b['isOriginal'] ? 1 : -1;
+      }
+      
+      final langCompare = a['language'].toString().compareTo(b['language'].toString());
+      if (langCompare != 0) return langCompare;
+      
+      final aBitrate = int.tryParse(a['bitrate'].toString().replaceAll('k', '')) ?? 0;
+      final bBitrate = int.tryParse(b['bitrate'].toString().replaceAll('k', '')) ?? 0;
+      return bBitrate.compareTo(aBitrate);
+    });
+    
+    return audioStreams;
   }
 }
 

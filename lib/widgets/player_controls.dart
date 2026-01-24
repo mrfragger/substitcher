@@ -68,6 +68,8 @@ class PlayerControls extends StatelessWidget {
   final VoidCallback? onShowDownload;
   final VoidCallback? onShowYouTubeDialog;
   final VoidCallback? onCloseYouTube;
+  final VoidCallback? onShowAudioStreams;
+  final String? currentAudioFormat;
   final TextSpan Function(String text, {double? fontSize, String? fontFamily, ColorPalette? palette, double? lineSpacing}) buildColoredTextSpan;
   
   const PlayerControls({
@@ -134,6 +136,8 @@ class PlayerControls extends StatelessWidget {
     this.onShowYouTubeDialog,
     this.onCloseYouTube,
     this.defaultColorPalette,
+    this.onShowAudioStreams,
+    this.currentAudioFormat,
   });
 
   @override
@@ -409,6 +413,8 @@ class PlayerControls extends StatelessWidget {
                           ),
                         Text(
                           [
+                            if (isYouTubeStream && currentAudioFormat != null)
+                              '$currentAudioFormat • ',
                             if (pauseMode != PauseMode.disabled && pauseMode != PauseMode.dictionary)
                               '${_getPauseModeText(pauseMode)} • ',
                             '${playbackSpeed.toStringAsFixed(1)}x',
@@ -707,6 +713,16 @@ class PlayerControls extends StatelessWidget {
         const SizedBox(width: 8),
         
         if (isYouTubeStream) ...[
+          if (onShowAudioStreams != null)
+            IconButton(
+              icon: const Icon(Icons.graphic_eq, color: Colors.white),
+              onPressed: () {
+                onShowAudioStreams!();
+              },
+              iconSize: 24,
+              tooltip: 'Audio streams',
+            ),
+          const SizedBox(width: 8),
           if (onShowSubtitlePreferences != null)
             IconButton(
               icon: const Icon(Icons.closed_caption_outlined, color: Colors.white),
@@ -856,6 +872,7 @@ class PlayerControls extends StatelessWidget {
         ),
         const SizedBox(width: 8),
 
+        if (!isYouTubeStream)
         PopupMenuButton<String>(
           icon: const Icon(Icons.compress, color: Colors.white, size: 24),
           tooltip: 'Slicing',

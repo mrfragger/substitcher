@@ -269,6 +269,10 @@ class _PlayerScreenState extends State<PlayerScreen> {
   bool _isDisposed = false;
   Duration? _inPoint;
   Duration? _outPoint;
+  bool _isLoadingAudioStreams = false;
+  DateTime? _lastAudioStreamFetch;
+  String? _currentAudioFormat;
+
   
   @override
   void initState() {
@@ -1607,6 +1611,184 @@ class _PlayerScreenState extends State<PlayerScreen> {
       _subsSearchQuery = query;
       _subtitleSearchResults = results;
     });
+  }
+
+  Future<void> _showAudioStreamPicker(String youtubeUrl) async {
+    if (_isLoadingAudioStreams) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(
+          content: Text('Loading audio streams, patience...'),
+          duration: Duration(seconds: 9),
+        ),
+      );
+      return;
+    }
+    
+    if (_lastAudioStreamFetch != null) {
+      final timeSinceLastFetch = DateTime.now().difference(_lastAudioStreamFetch!);
+      if (timeSinceLastFetch.inSeconds < 3) {
+        final remainingSeconds = 3 - timeSinceLastFetch.inSeconds;
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            content: Text('Please wait $remainingSeconds more second${remainingSeconds != 1 ? 's' : ''}...'),
+            duration: Duration(seconds: 1),
+          ),
+        );
+        return;
+      }
+    }
+    
+    setState(() {
+      _isLoadingAudioStreams = true;
+      _lastAudioStreamFetch = DateTime.now();
+    });
+    
+    try {
+      final streams = await YouTubeService.getAvailableAudioStreams(youtubeUrl);
+      
+      if (streams.isEmpty) {
+        _showError('No audio streams found');
+        return;
+      }
+      
+      final Map<String, List<Map<String, dynamic>>> grouped = {};
+      for (final stream in streams) {
+        final lang = stream['language'] as String;
+        grouped.putIfAbsent(lang, () => []).add(stream);
+      }
+      
+      if (!mounted) return;
+      
+      final selectedFormatId = await showDialog<String>(
+              context: context,
+              builder: (context) => AlertDialog(
+                backgroundColor: const Color(0xFF2D2D2D),
+                title: Column(
+                  mainAxisSize: MainAxisSize.min,
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    const Text(
+                      'Select Audio Stream',
+                      style: TextStyle(color: Colors.white),
+                    ),
+                    const SizedBox(height: 4),
+                    const Text(
+                      'DRC (Dynamic Range Compression) makes quiet and loud parts more even in volume',
+                      style: TextStyle(
+                        color: Colors.white70,
+                        fontSize: 12,
+                      ),
+                    ),
+                  ],
+                ),
+          content: SizedBox(
+            width: 600,
+            height: 500,
+            child: ListView.builder(
+              shrinkWrap: true,
+              itemCount: grouped.length,
+              itemBuilder: (context, index) {
+                final lang = grouped.keys.elementAt(index);
+                final langStreams = grouped[lang]!;
+                
+                return ExpansionTile(
+                  title: Text(
+                    lang,
+                    style: TextStyle(
+                      fontWeight: langStreams.first['isOriginal'] 
+                        ? FontWeight.bold 
+                        : FontWeight.normal,
+                      color: langStreams.first['isOriginal'] 
+                        ? Colors.green 
+                        : Colors.white,
+                    ),
+                  ),
+                  subtitle: Text(
+                    '${langStreams.length} formats available',
+                    style: const TextStyle(color: Colors.white54),
+                  ),
+                  initiallyExpanded: langStreams.first['isOriginal'],
+                  children: langStreams.map((stream) {
+                    return ListTile(
+                      dense: true,
+                      contentPadding: const EdgeInsets.only(left: 32, right: 16),
+                      title: Text(
+                        stream['description'],
+                        style: const TextStyle(color: Colors.white),
+                      ),
+                      trailing: Text(
+                        stream['ext'],
+                        style: const TextStyle(
+                          fontSize: 12,
+                          color: Colors.grey,
+                        ),
+                      ),
+                      onTap: () => Navigator.pop(context, stream['id']),
+                    );
+                  }).toList(),
+                );
+              },
+            ),
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.pop(context),
+              child: const Text('Cancel'),
+            ),
+          ],
+        ),
+      );
+      
+      if (selectedFormatId != null) {
+        final savedPosition = _currentPosition;
+        
+        final audioUrl = await YouTubeService.getAudioStreamUrl(
+          youtubeUrl,
+          formatId: selectedFormatId,
+        );
+        
+        if (audioUrl != null) {
+          await player.pause();
+          await player.open(Media(audioUrl));
+          await player.setRate(_playbackSpeed);
+          await player.stream.duration.first;
+          await player.seek(savedPosition);
+          await player.play();
+
+          setState(() {
+              _currentAudioFormat = streams.firstWhere((s) => s['id'] == selectedFormatId)['description'];
+            });
+          
+          if (mounted) {
+            ScaffoldMessenger.of(context).showSnackBar(
+              SnackBar(
+                content: Text('Switched to format: $selectedFormatId'),
+                backgroundColor: Colors.green,
+                duration: const Duration(seconds: 2),
+              ),
+            );
+          }
+        }
+      }
+    } finally {
+      if (mounted) {
+        setState(() {
+          _isLoadingAudioStreams = false;
+        });
+      }
+    }
+  }
+  
+  void _showError(String message) {
+    if (mounted) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(
+          content: Text(message),
+          backgroundColor: Colors.red,
+          duration: const Duration(seconds: 3),
+        ),
+      );
+    }
   }
   
   Widget _buildSearchContent() {
@@ -5590,6 +5772,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
       averageBitrate: _averageBitrate,
       shuffleEnabled: _shuffleEnabled,
       conversionType: _conversionType,
+      currentAudioFormat: _currentAudioFormat,
       playedChapters: _isYouTubeStream 
           ? []
           : _currentAudiobook?.chapters.where((c) => _playedChapters.contains(_currentAudiobook!.chapters.indexOf(c))).toList() ?? [],
@@ -5725,6 +5908,17 @@ class _PlayerScreenState extends State<PlayerScreen> {
           case 'youtube_dialog':
             _showYouTubeDialog();
             break;
+          case 'select_audio_stream':
+            if (_isYouTubeStream && _currentYouTubeUrl != null) {
+              _showAudioStreamPicker(_currentYouTubeUrl!);
+            } else {
+              ScaffoldMessenger.of(context).showSnackBar(
+                const SnackBar(
+                  content: Text('Only available for YouTube streams'),
+                ),
+              );
+            }
+            break;
           case 'adhan_clock':
             setState(() {
               _showAdhanOverlay = !_showAdhanOverlay;
@@ -5756,6 +5950,9 @@ class _PlayerScreenState extends State<PlayerScreen> {
       onShowSubtitlePreferences: _showSubtitlePreferencesDialog,
       onShowDownload: _showDownloadDialog,
       onShowYouTubeDialog: _showYouTubeDialog,
+      onShowAudioStreams: _isYouTubeStream && _currentYouTubeUrl != null
+          ? () => _showAudioStreamPicker(_currentYouTubeUrl!)
+          : null,
       onCloseYouTube: () async {
         await player.stop();
         setState(() {
@@ -6685,7 +6882,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
         );
       }
       
-      final audioUrl = await YouTubeService.getAudioStreamUrl(url);
+      final audioUrl = await YouTubeService.getAudioStreamUrl(url, formatId: 'worstaudio');
       
       if (audioUrl == null) {
         throw Exception('Could not get audio stream URL');
@@ -6740,6 +6937,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
         _isYouTubeStream = true;
         _youtubeTitle = title;
         _youtubeChannelName = channelName;
+        _currentAudioFormat = 'lowest bitrate';
         _subtitles = [];
         _originalSubtitles = [];
         _currentSubtitleText = '';
