@@ -1,6 +1,6 @@
 # SubStitcher
 
-Opus chaptered encoder and player with colored subtitles and fancy fonts. Transcribe to vtt subtitles, search through all Chapters, History, Playlist, Bookmarks, Fonts, Colors, Words, Subs, Stats. Dictionary word lookup.
+Opus chaptered encoder, editor and player with colored subtitles and fancy fonts. Transcribe to vtt subtitles, search through all Chapters, History, Playlist, Bookmarks, Fonts, Colors, Words, Subs, Stats. Dictionary word lookup. Mac, Linux, Windows, Android
 
 ![](images/audiobook.jpg)
 
@@ -219,10 +219,6 @@ Homebrew
 ```bash
 brew install mrfragger/substitcher/substitcher
 ```
-Flatpak
-```bash
-flatpak install substitcher-x64.flatpak
-```
 
 If using whisper large v2 model on 8GB RAM Mac swap file might become huge especially with other apps open.  Swap file will never clear and takes up valuable disk space until rebooting. Log out of user account and login again which is even quicker way to delete swap file.
 
@@ -246,6 +242,11 @@ yay -S substitcher-bin
 ```
 ```bash
 paru -S substitcher-bin
+```
+
+Flatpak
+```bash
+flatpak install substitcher-x64.flatpak
 ```
 
 Android  universal (arm64-v8a + armeabi-v7a + x86_64) (untested, feedback welcome)
