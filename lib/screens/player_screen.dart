@@ -4809,7 +4809,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
               _showAdhanOverlay = !_showAdhanOverlay;
             });
             return KeyEventResult.handled;
-          } else if (event.logicalKey == LogicalKeyboardKey.tilde && 
+          } else if (event.logicalKey == LogicalKeyboardKey.backquote && 
                    event is KeyDownEvent) {
             setState(() {
               _hideChapterTitle = !_hideChapterTitle;
@@ -5702,6 +5702,14 @@ class _PlayerScreenState extends State<PlayerScreen> {
             break;
           case 'load_subtitle':
             _loadSubtitleFromVttDir();
+            break;
+          case 'hideChapterTitle':
+            setState(() {
+              _hideChapterTitle = !_hideChapterTitle;
+            });
+            break;
+          case 'copyCurrentSubtitler':
+            _copyCurrentSubtitle();
             break;
           case 'subtitle_manager':
             _openSubtitleManager();

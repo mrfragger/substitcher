@@ -751,7 +751,7 @@ class PlayerControls extends StatelessWidget {
               child: Text('Chapter Title Hide/Show ( ` )'),
             ),
             const PopupMenuItem(
-              value: 'hideChapterTitle',
+              value: 'copyCurrentSubtitle',
               child: Text('Copy Current Subtitle (u / U)'),
             ),
             const PopupMenuItem(

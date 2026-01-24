@@ -237,59 +237,49 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
               children: [
                 if (_settings?.showWhiteDays == true && _whiteDays != null)
                   Tooltip(
-                    message: 'White Days ${_whiteDays!.monthName} (13, 14, 15) ${_whiteDays!.year}\n'
-                             '(${_whiteDays!.days[0].weekdayAbbr}, ${_whiteDays!.days[1].weekdayAbbr}, ${_whiteDays!.days[2].weekdayAbbr}) '
-                             '${_getGregorianMonth(_whiteDays!.days[0].formattedDate)} '
-                             '(${_getDay(_whiteDays!.days[0].formattedDate)}, ${_getDay(_whiteDays!.days[1].formattedDate)}, ${_getDay(_whiteDays!.days[2].formattedDate)}) '
-                             '${_getYear(_whiteDays!.days[0].formattedDate)}',
+                    richMessage: TextSpan(
+                      style: const TextStyle(fontSize: 12),
+                      children: [
+                        const TextSpan(
+                          text: 'White Days ',
+                          style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold),
+                        ),
+                        TextSpan(
+                          text: '${_whiteDays!.monthName} ',
+                          style: const TextStyle(color: Color(0xFF60a5fa), fontWeight: FontWeight.bold),
+                        ),
+                        const TextSpan(
+                          text: '(13, 14, 15) ',
+                          style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold),
+                        ),
+                        TextSpan(
+                          text: '${_whiteDays!.year}\n',
+                          style: const TextStyle(color: Color(0xFF60a5fa), fontWeight: FontWeight.bold),
+                        ),
+                        TextSpan(
+                          text: '(${_whiteDays!.days[0].weekdayAbbr}, ${_whiteDays!.days[1].weekdayAbbr}, ${_whiteDays!.days[2].weekdayAbbr}) ',
+                          style: const TextStyle(color: Colors.white, fontWeight: FontWeight.bold),
+                        ),
+                        TextSpan(
+                          text: '${_getGregorianMonth(_whiteDays!.days[0].formattedDate)} ',
+                          style: const TextStyle(color: Color(0xFF87cffb)),
+                        ),
+                        TextSpan(
+                          text: '(${_getDay(_whiteDays!.days[0].formattedDate)}, ${_getDay(_whiteDays!.days[1].formattedDate)}, ${_getDay(_whiteDays!.days[2].formattedDate)}) ',
+                          style: const TextStyle(color: Colors.white, fontWeight: FontWeight.bold),
+                        ),
+                        TextSpan(
+                          text: _getYear(_whiteDays!.days[0].formattedDate),
+                          style: const TextStyle(color: Color(0xFF87cffb)),
+                        ),
+                      ],
+                    ),
                     waitDuration: const Duration(milliseconds: 300),
-                    textStyle: const TextStyle(fontSize: 12, color: Colors.white),
+                    padding: const EdgeInsets.all(8),
                     decoration: BoxDecoration(
                       color: Colors.black87,
                       borderRadius: BorderRadius.circular(8),
                       border: Border.all(color: Colors.white24),
-                    ),
-                    padding: const EdgeInsets.all(8),
-                    richMessage: WidgetSpan(
-                      child: RichText(
-                        text: TextSpan(
-                          style: const TextStyle(fontSize: 12),
-                          children: [
-                            const TextSpan(
-                              text: 'White Days ',
-                              style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold),
-                            ),
-                            TextSpan(
-                              text: '${_whiteDays!.monthName} ',
-                              style: const TextStyle(color: Color(0xFF60a5fa), fontWeight: FontWeight.bold),
-                            ),
-                            const TextSpan(
-                              text: '(13, 14, 15) ',
-                              style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold),
-                            ),
-                            TextSpan(
-                              text: '${_whiteDays!.year}\n',
-                              style: const TextStyle(color: Color(0xFF60a5fa), fontWeight: FontWeight.bold),
-                            ),
-                            TextSpan(
-                              text: '(${_whiteDays!.days[0].weekdayAbbr}, ${_whiteDays!.days[1].weekdayAbbr}, ${_whiteDays!.days[2].weekdayAbbr}) ',
-                              style: const TextStyle(color: Colors.white, fontWeight: FontWeight.bold),
-                            ),
-                            TextSpan(
-                              text: '${_getGregorianMonth(_whiteDays!.days[0].formattedDate)} ',
-                              style: const TextStyle(color: Color(0xFF87cffb)),
-                            ),
-                            TextSpan(
-                              text: '(${_getDay(_whiteDays!.days[0].formattedDate)}, ${_getDay(_whiteDays!.days[1].formattedDate)}, ${_getDay(_whiteDays!.days[2].formattedDate)}) ',
-                              style: const TextStyle(color: Colors.white, fontWeight: FontWeight.bold),
-                            ),
-                            TextSpan(
-                              text: _getYear(_whiteDays!.days[0].formattedDate),
-                              style: const TextStyle(color: Color(0xFF87cffb)),
-                            ),
-                          ],
-                        ),
-                      ),
                     ),
                     child: const Text(
                       'w',

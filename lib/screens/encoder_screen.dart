@@ -943,6 +943,7 @@ class _EncoderScreenState extends State<EncoderScreen> {
         
         final file = _files[i];
         final index = i;
+        final titleForDisplay = file.displayTitle;
         var displayTitle = file.displayTitle;
         
         displayTitle = displayTitle
@@ -980,7 +981,7 @@ class _EncoderScreenState extends State<EncoderScreen> {
               setState(() {
                 _completedFiles++;
                 _progress = _completedFiles / _files.length;
-                _statusMessage = 'Encoded $_completedFiles/${_files.length}: $displayTitle';
+                _statusMessage = 'Encoded $_completedFiles/${_files.length}: $titleForDisplay';
               });
             }
           } finally {
@@ -1370,8 +1371,10 @@ class _EncoderScreenState extends State<EncoderScreen> {
     
     if (hours > 0) {
       return '${hours}h ${minutes}m ${seconds}s';
-    } else {
+    } else if (minutes > 0) {
       return '${minutes}m ${seconds}s';
+    } else {
+      return '${seconds}s';
     }
   }
   

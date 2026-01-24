@@ -488,7 +488,7 @@ class SidePanel extends StatelessWidget {
         underlineIndex = 0;
         break;
       case PanelMode.colors:
-        underlineIndex = 1;
+        underlineIndex = 4;
         break;
       case PanelMode.words:
         underlineIndex = 0;
@@ -514,7 +514,7 @@ class SidePanel extends StatelessWidget {
           mainAxisSize: MainAxisSize.min,
           children: [
             RichText(
-              text: _buildLabelWithUnderline(label, underlineIndex!, isSpecialCollapsed),
+              text: _buildLabelWithUnderline(label, underlineIndex, isSpecialCollapsed),
             ),
             const SizedBox(height: 2),
             Text(
