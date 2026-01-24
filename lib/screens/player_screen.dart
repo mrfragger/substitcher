@@ -580,7 +580,8 @@ class _PlayerScreenState extends State<PlayerScreen> {
     
     final chapter = _currentAudiobook!.chapters[_currentChapterIndex];
     
-    if (position >= chapter.endTime && _currentChapterIndex < _currentAudiobook!.chapters.length - 1) {
+    // if (position >= chapter.endTime && _currentChapterIndex < _currentAudiobook!.chapters.length - 1) {
+    if (position >= chapter.endTime) {  
       if (!_isYouTubeStream) {
         final currentChapter = _currentAudiobook!.chapters[_currentChapterIndex];
         _statsManager.recordChapterEnd(
@@ -609,17 +610,21 @@ class _PlayerScreenState extends State<PlayerScreen> {
             ScaffoldMessenger.of(context).showSnackBar(
               const SnackBar(
                 content: Text('All chapters played in shuffle mode'),
-                duration: Duration(seconds: 2),
+                duration: Duration(seconds: 5),
               ),
             );
           }
         } else {
           final nextIndex = _getNextShuffleChapter();
           final nextChapter = _currentAudiobook!.chapters[nextIndex];
-          
+
           setState(() {
-            _currentChapterIndex = nextIndex;
-          });
+              _currentChapterIndex = nextIndex;
+              if (!_playedChapters.contains(nextIndex)) {
+                _playedChapters.add(nextIndex);
+              }
+            });
+          
           
           player.seek(nextChapter.startTime + const Duration(milliseconds: 100));
         }
