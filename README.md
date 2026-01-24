@@ -215,6 +215,10 @@ macOS (arm64 Silicon m1,m2,m3,m4,m26) after install dmg in Terminal do
 ```bash
 xattr -dr com.apple.quarantine /Applications/SubStitcher.app
 ```
+or homebrew
+```bash
+brew install mrfragger/substitcher/substitcher
+```
 If using whisper large v2 model on 8GB RAM Mac swap file might become huge especially with other apps open.  Swap file will never clear and takes up valuable disk space until rebooting. Log out of user account and login again which is even quicker way to delete swap file.
 
 Windows x64\
@@ -230,6 +234,15 @@ or do below
 chmod +x  substitcher-x64.AppImage
 ```
 Transcribing with whisper.cpp won't work on CPUs without AVX which is usually ones before 2014
+
+Linux Arch [AUR package](https://aur.archlinux.org/packages/substitcher-bin)
+```bash
+yay -S substitcher-bin
+```
+or
+```bash
+paru -S substitcher-bin
+```
 
 Android  universal (arm64-v8a + armeabi-v7a + x86_64) (untested, feedback welcome)
 - Android 8.0+ Tap Settings in the prompt
