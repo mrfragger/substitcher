@@ -1932,12 +1932,32 @@ class _EncoderScreenState extends State<EncoderScreen> {
                 DropdownButton<int>(
                   value: _silenceDb,
                   isDense: true,
-                  items: [26, 30, 34, 38, 42, 46]
-                      .map((db) => DropdownMenuItem(
-                            value: db,
-                            child: Text('-$db dB'),
-                          ))
-                      .toList(),
+                  items: [
+                    const DropdownMenuItem(
+                      value: 26,
+                      child: Text('-26 dB: deep cleaning of silence'),
+                    ),
+                    const DropdownMenuItem(
+                      value: 30,
+                      child: Text('-30 dB: aggressive removes almost all silence'),
+                    ),
+                    const DropdownMenuItem(
+                      value: 34,
+                      child: Text('-34 dB: medium removes quite a bit'),
+                    ),
+                    const DropdownMenuItem(
+                      value: 38,
+                      child: Text('-38 dB: [recommended] a tad conservative'),
+                    ),
+                    const DropdownMenuItem(
+                      value: 42,
+                      child: Text('-42 dB: quite conservative and just removes a bit'),
+                    ),
+                    const DropdownMenuItem(
+                      value: 46,
+                      child: Text('-46 dB: kinda too strict and barely removes stuff'),
+                    ),
+                  ],
                   onChanged: (value) {
                     setState(() => _silenceDb = value ?? 34);
                   },

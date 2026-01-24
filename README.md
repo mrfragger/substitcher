@@ -1,6 +1,6 @@
 # SubStitcher
 
-Opus chaptered encoder, editor and player with colored subtitles and fancy fonts. Transcribe to vtt subtitles, search through all Chapters, History, Playlist, Bookmarks, Fonts, Colors, Words, Subs, Stats. Dictionary word lookup. Mac, Linux, Windows, Android
+Opus chaptered encoder, editor and player with colored subtitles and fancy fonts. Transcribe to vtt subtitles, search through all Chapters, History, Playlist, Bookmarks, Fonts, Colors, Words, Subs, Stats. Dictionary word lookup. Mac (dmg or homebrew), Linux (appimage, AUR, flatpak), Windows (zip), Android
 
 ![](images/audiobook.jpg)
 
@@ -12,15 +12,7 @@ Opus chaptered encoder, editor and player with colored subtitles and fancy fonts
 - if exceed limits will offer to automatically split into multiple audiobooks
 - Title Case chapter titles and regular expression replace
 - Transcribe with 30 second segements to reduce hallucination with whisper.cpp
-- Remove silence
-    ```
-      -26dB deep cleaning of silence
-      -30dB aggressive removes almost all silence
-      -34dB medium removes quite a bit (default)
-      -38dB [recommended] a tad conservative removing silence
-      -42dB quite conservative and just removes a bit
-      -46dB kinda too strict and barely removes stuff
-
+- Remove silence -26dB, -30dB, -34dB, -38dB, -42dB, -46dB, reduces transcribing hallucinations
 - Hiss (reduction) preview a random audio to compare
 - Repeats vtt to remove repeated words, capitalize pronouns, Islamic terms and honorifics
 - Batch Trim Audio beginning and end
@@ -211,7 +203,7 @@ Opus chaptered encoder, editor and player with colored subtitles and fancy fonts
 -  English, Afrikaans, Albanian (Shqip), Amharic (አማርኛ), Arabic (العربية), Armenian (Հայերեն), Azerbaijani (Azərbaycan), Belarusian (Беларуская), Bengali (বাংলা), Bhojpuri (भोजपुरी), Bosnian (Bosanski), Bulgarian (Български), Burmese (မြန်မာ), Catalan (Català), Chinese - Simplified (简体), Chinese - Traditional (繁體), Chinese - Cantonese (粵語), Croatian (Hrvatski), Czech (Čeština), Danish (Dansk), Dutch (Nederlands), Estonian (Eesti), Filipino (Tagalog), Finnish (Suomi), French (Français), Georgian (ქართული), German (Deutsch), Greek (Ελληνικά), Gujarati (ગુજરાતી), Hausa (هَرْشٜىٰن هَوْسَا), Hebrew (עברית), Hebrew (עברית), Hindi (हिन्दी), Hungarian (Magyar), Icelandic (Íslenska), Indonesian (Bahasa Indonesia), Italian (Italiano), Japanese (日本語), Javanese (Basa Jawa), Kannada (ಕನ್ನಡ), Kazakh (Қазақ тілі), Korean (한국어), Kyrgyz (Кыргызча), Lao (ລາວ), Latvian (Latviešu), Lithuanian (Lietuvių), Macedonian (Македонски), Malay (Bahasa Melayu), Malayalam (മലയാളം), Maltese (Malti), Marathi (मराठी), Mongolian (Монгол), Nepali (नेपाली), Norwegian (Norsk bokmål), Persian (فارسی), Polish (Polski), Portuguese (Português), Portuguese - Brazil (Português Brasil), Portuguese - Portugal (Português Portugal), Punjabi (ਪੰਜਾਬੀ), Romanian (Română), Russian (Русский), Serbian (Српски), Slovak (Slovenčina), Slovenian (Slovenščina), Spanish (Español), Swahili (Kiswahili), Swedish (Svenska), Tajik (Тоҷикӣ), Tamil (தமிழ்), Telugu (తెలుగు), Thai (ไทย), Turkish (Türkçe), Turkmen (Türkmençe), Ukrainian (Українська), Urdu (اردو), Uyghur (ئۇيغۇرچە), Uzbek (Oʻzbekcha), Vietnamese (Tiếng Việt)
 
 ### Installation
-macOS (arm64 Silicon m1,m2,m3,m4,m26) after install dmg in Terminal do
+macOS (arm64 Silicon m1,m2,m3,m4,m26) after installing dmg or via homebrew in Terminal do
 ```bash
 xattr -dr com.apple.quarantine /Applications/SubStitcher.app
 ```
@@ -275,11 +267,11 @@ Why Opus outperforms MP3 and AAC at very low bitrates (like ~16 kb/s)
 -  gives best quality at a given bitrate for voice signals. It enhances the input signal by high-pass filtering and emphasizing formants and harmonics
 
 ### Miscellaneous
-- Never will support music, videos as it's an audiobook only
-- Unlikely will get light theme
-- Never will support cover images, choose either audiobooks with covers and not use subtitles
-- It just puts a 16x9 black png image with META_BLOCK_PICTURE with some info along with png based on vorbis comment specification
+- Never will support music, videos as it's for audiobooks only
+- Unlikely will get a light theme
+- Never will support cover images, choose either audiobooks with covers and not to use subtitles
+- It just puts a 16x9 black png image with META_BLOCK_PICTURE with some info along with a png which is based on vorbis comment specification
 - This is the base64 encoding of META_BLOCK_PICTURE='AAAAAwAAAAlpbWFnZS9wbmcAAAALRnJvbnQgQ292ZXIAAAAQAAAACQAAACAAAAAAAAAAU4lQTkcNChoKAAAADUlIRFIAAAAQAAAACQgGAAAAOyqsMgAAABpJREFUeJxjZGBg+M9AAWCiRPOoARAwDAwAAFmzARHg40/fAAAAAElFTkSuQmCC' 
-- Reason is most audiobook players don't support subtitles, and ones that do so due to video support and having a cover image in background with subtitles overlaying it doable
+- Reason is most audiobook players don't support subtitles, and ones that do, do so due to video support and having a cover image in background with subtitles overlaying is doable
 - If you really do want a cover image and don't plan to ever use subs then use kid3 app (qt free cross-platform app)
 - Developed since 2022 but in Dec 2025 decided to port from mpv front-end lua scripts with uosc ui and remove video editing, LUTs to a flutter / dart app (not just Mac/Linux anymore) and make it purely an audiobook player
