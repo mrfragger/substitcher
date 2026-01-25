@@ -272,6 +272,6 @@ Why Opus outperforms MP3 and AAC at very low bitrates (like ~16 kb/s)
 - Never will support cover images, choose either audiobooks with covers and not to use subtitles
 - It just puts a 16x9 black png image with META_BLOCK_PICTURE with some info along with a png which is based on vorbis comment specification
 - This is the base64 encoding of META_BLOCK_PICTURE='AAAAAwAAAAlpbWFnZS9wbmcAAAALRnJvbnQgQ292ZXIAAAAQAAAACQAAACAAAAAAAAAAU4lQTkcNChoKAAAADUlIRFIAAAAQAAAACQgGAAAAOyqsMgAAABpJREFUeJxjZGBg+M9AAWCiRPOoARAwDAwAAFmzARHg40/fAAAAAElFTkSuQmCC' 
-- Reason is most audiobook players don't support subtitles, and ones that do, do so due to video support and having a cover image in background with subtitles overlaying is doable
-- If you really do want a cover image and don't plan to ever use subs then use kid3 app (qt free cross-platform app)
+- Reason is most audiobook players don't support subtitles, and ones that do, do so due to video support and having a cover image in background with subtitles overlaying is all that doable in most cases
+- Use a cover image and don't plan to ever use subs then use kid3 app (qt free cross-platform app)
 - Developed since 2022 but in Dec 2025 decided to port from mpv front-end lua scripts with uosc ui and remove video editing, LUTs to a flutter / dart app (not just Mac/Linux anymore) and make it purely an audiobook player

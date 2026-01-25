@@ -583,16 +583,15 @@ class _PlayerScreenState extends State<PlayerScreen> {
     if (_currentAudiobook == null || _currentAudiobook!.chapters.isEmpty) return;
     
     final chapter = _currentAudiobook!.chapters[_currentChapterIndex];
-    
-    // if (position >= chapter.endTime && _currentChapterIndex < _currentAudiobook!.chapters.length - 1) {
-    if (position >= chapter.endTime) {  
-      if (!_isYouTubeStream) {
-        final currentChapter = _currentAudiobook!.chapters[_currentChapterIndex];
-        _statsManager.recordChapterEnd(
-          path.basenameWithoutExtension(_currentAudiobook!.path),
-          currentChapter.title,
-        );
-      }
+
+      if (position >= chapter.endTime) {  
+        if (!_isYouTubeStream && !_shouldSkipTracking(path.basenameWithoutExtension(_currentAudiobook!.path))) {
+          final currentChapter = _currentAudiobook!.chapters[_currentChapterIndex];
+          _statsManager.recordChapterEnd(
+            path.basenameWithoutExtension(_currentAudiobook!.path),
+            currentChapter.title,
+          );
+        }
       
       if (!_playedChapters.contains(_currentChapterIndex)) {
         _playedChapters.add(_currentChapterIndex);
@@ -651,7 +650,10 @@ class _PlayerScreenState extends State<PlayerScreen> {
         }
       }
       
-      if (_currentAudiobook != null && !_isYouTubeStream && !_shouldSkipTracking(path.basenameWithoutExtension(_currentAudiobook!.path))) {
+      if (_currentAudiobook != null && 
+          !_isYouTubeStream && 
+          _currentChapterIndex < _currentAudiobook!.chapters.length &&
+          !_shouldSkipTracking(path.basenameWithoutExtension(_currentAudiobook!.path))) {
         _statsManager.recordChapterStart();
       }
     }
@@ -4474,15 +4476,26 @@ class _PlayerScreenState extends State<PlayerScreen> {
         }
         return;
       }
-  
+
+      if (_isYouTubeStream) {
+            await player.stop();
+            setState(() {
+              _isYouTubeStream = false;
+              _youtubeTitle = null;
+              _youtubeChannelName = null;
+              _currentYouTubeUrl = null;
+              _currentAudioFormat = null;
+            });
+          }
+
   if (_currentAudiobook != null && _currentAudiobook!.path != selectedPath) {
     if (_currentAudiobook!.chapters.isNotEmpty) {
       final currentChapter = _currentAudiobook!.chapters[_currentChapterIndex];
-      await _statsManager.recordChapterEnd(
-        path.basenameWithoutExtension(_currentAudiobook!.path),
-        currentChapter.title,
-      );
       if (!_shouldSkipTracking(path.basenameWithoutExtension(_currentAudiobook!.path))) {
+        await _statsManager.recordChapterEnd(
+          path.basenameWithoutExtension(_currentAudiobook!.path),
+          currentChapter.title,
+        );
         await _statsManager.flushCacheToLog();
       }
     }
@@ -6882,13 +6895,15 @@ class _PlayerScreenState extends State<PlayerScreen> {
         );
       }
       
-      final audioUrl = await YouTubeService.getAudioStreamUrl(url, formatId: 'worstaudio');
+      final audioUrl = await YouTubeService.getAudioStreamUrl(url, formatId: 'worstaudio[format_note*=DRC]/worstaudio[acodec=opus]/worstaudio');
       
       if (audioUrl == null) {
         throw Exception('Could not get audio stream URL');
       }
       
-      if (_currentAudiobook != null && _currentAudiobook!.chapters.isNotEmpty) {
+      if (_currentAudiobook != null && 
+          _currentAudiobook!.chapters.isNotEmpty &&
+          _currentChapterIndex < _currentAudiobook!.chapters.length) {
         final currentChapter = _currentAudiobook!.chapters[_currentChapterIndex];
         if (!_shouldSkipTracking(path.basenameWithoutExtension(_currentAudiobook!.path))) {
           _statsManager.recordChapterEnd(
@@ -6933,7 +6948,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
           duration: Duration.zero,
           chapters: youtubeChapters,
         );
-        _currentChapterIndex = youtubeChapters.isEmpty ? 0 : 0;
+        _currentChapterIndex = 0;
         _isYouTubeStream = true;
         _youtubeTitle = title;
         _youtubeChannelName = channelName;
@@ -6984,6 +6999,10 @@ class _PlayerScreenState extends State<PlayerScreen> {
           });
         }
       }
+
+      setState(() {
+        _isPlaying = true;
+      });
       
       await player.play();
       

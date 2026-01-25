@@ -40,7 +40,7 @@ class FontDatabase {
     'Avixariav': FontMetadata(fontName: 'Avixariav', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.erifqizefont),
     'Boosco Aurora': FontMetadata(fontName: 'Boosco Aurora', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.erifqizefont),
     'Classica Crastao': FontMetadata(fontName: 'Classica Crastao', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.erifqizefont),
-    'Erf Neot Black': FontMetadata(fontName: 'Erf Neot Black', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.erifqizefont),
+    'Erf Neot': FontMetadata(fontName: 'Erf Neot', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.erifqizefont),
     'Gridbox': FontMetadata(fontName: 'Gridbox', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.erifqizefont),
     'Harderdor Black': FontMetadata(fontName: 'Harderdor Black', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.erifqizefont),
     'Luminescent Elegance': FontMetadata(fontName: 'Luminescent Elegance', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.erifqizefont),
