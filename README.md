@@ -11,15 +11,18 @@ Opus chaptered encoder, editor and player with colored subtitles and fancy fonts
 - max 100 hours and 999 chapters per audiobook
 - if exceed limits will offer to automatically split into multiple audiobooks
 - Title Case chapter titles and regular expression replace
-- Transcribe with 30 second segements to reduce hallucination with whisper.cpp
 - Remove silence -26dB, -30dB, -34dB, -38dB, -42dB, -46dB, reduces transcribing hallucinations
 - Hiss (reduction) preview a random audio to compare
-- Repeats vtt to remove repeated words, capitalize pronouns, Islamic terms and honorifics
 - Batch Trim Audio beginning and end
 - Extract chapters with names from audiobooks
 - Edit Metadata (chapters, author, title) of opus audiobook
 
 ![](images/encode.jpg)
+
+### Transcribe
+- Transcribe with 30 second segements to reduce hallucination with whisper.cpp
+- Repeats vtt to remove repeated words, capitalize pronouns, Islamic terms and honorifics
+- Afrikaans, Albanian, Amharic, Arabic, Armenian, Azerbaijani, Basque, Belarusian, Bengali, Bosnian, Bulgarian, Catalan, Cebuano, Chichewa, Chinese, Cantonese (CN), Cantonese (HK), Mandarin (TW), Corsican, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Filipino, Finnish, French, Western Frisian, Galician, Georgian, German, Greek, Gujarati, Haitian Creole, Hausa, Hawaiian, Hebrew, Hindi, Hmong, Hungarian, Icelandic, Igbo, Indonesian, Irish, Italian, Japanese, Javanese, Kannada, Kazakh, Khmer, Kinyarwanda, Korean, Kurdish, Kyrgyz, Lao, Latin, Latvian, Lithuanian, Luxembourgish, Macedonian, Malagasy, Malay, Malayalam, Maltese, Māori, Marathi, Mongolian, Myanmar, Nepali, Norwegian, Odia, Pashto, Persian, Polish, Portuguese, Punjabi, Romanian, Russian, Samoan, Scottish Gaelic, Serbian, Sesotho, Shona, Sindhi, Sinhala, Slovak, Slovenian, Somali, Spanish, Sundanese, Swahili, Swedish, Tajik, Tamil, Tatar, Telugu, Thai, Turkish, Turkmen, Ukrainian, Urdu, Uyghur, Uzbek, Vietnamese, Welsh, Xhosa, Yiddish, Yoruba, Zulu
 
 ### Playback
 - set playback speed 0.5x to 2.0x
@@ -203,7 +206,7 @@ Opus chaptered encoder, editor and player with colored subtitles and fancy fonts
 -  English, Afrikaans, Albanian (Shqip), Amharic (አማርኛ), Arabic (العربية), Armenian (Հայերեն), Azerbaijani (Azərbaycan), Belarusian (Беларуская), Bengali (বাংলা), Bhojpuri (भोजपुरी), Bosnian (Bosanski), Bulgarian (Български), Burmese (မြန်မာ), Catalan (Català), Chinese - Simplified (简体), Chinese - Traditional (繁體), Chinese - Cantonese (粵語), Croatian (Hrvatski), Czech (Čeština), Danish (Dansk), Dutch (Nederlands), Estonian (Eesti), Filipino (Tagalog), Finnish (Suomi), French (Français), Georgian (ქართული), German (Deutsch), Greek (Ελληνικά), Gujarati (ગુજરાતી), Hausa (هَرْشٜىٰن هَوْسَا), Hebrew (עברית), Hebrew (עברית), Hindi (हिन्दी), Hungarian (Magyar), Icelandic (Íslenska), Indonesian (Bahasa Indonesia), Italian (Italiano), Japanese (日本語), Javanese (Basa Jawa), Kannada (ಕನ್ನಡ), Kazakh (Қазақ тілі), Korean (한국어), Kyrgyz (Кыргызча), Lao (ລາວ), Latvian (Latviešu), Lithuanian (Lietuvių), Macedonian (Македонски), Malay (Bahasa Melayu), Malayalam (മലയാളം), Maltese (Malti), Marathi (मराठी), Mongolian (Монгол), Nepali (नेपाली), Norwegian (Norsk bokmål), Persian (فارسی), Polish (Polski), Portuguese (Português), Portuguese - Brazil (Português Brasil), Portuguese - Portugal (Português Portugal), Punjabi (ਪੰਜਾਬੀ), Romanian (Română), Russian (Русский), Serbian (Српски), Slovak (Slovenčina), Slovenian (Slovenščina), Spanish (Español), Swahili (Kiswahili), Swedish (Svenska), Tajik (Тоҷикӣ), Tamil (தமிழ்), Telugu (తెలుగు), Thai (ไทย), Turkish (Türkçe), Turkmen (Türkmençe), Ukrainian (Українська), Urdu (اردو), Uyghur (ئۇيغۇرچە), Uzbek (Oʻzbekcha), Vietnamese (Tiếng Việt)
 
 ### Installation
-macOS (arm64 Silicon m1,m2,m3,m4,m26) after installing dmg or via homebrew in Terminal do
+macOS (arm64 Silicon m1,m2,m3,m4,m26) after installing dmg via [releases](https://github.com/mrfragger/substitcher/releases) or via homebrew in Terminal do
 ```bash
 xattr -dr com.apple.quarantine /Applications/SubStitcher.app
 ```
@@ -272,6 +275,6 @@ Why Opus outperforms MP3 and AAC at very low bitrates (like ~16 kb/s)
 - Never will support cover images, choose either audiobooks with covers and not to use subtitles
 - It just puts a 16x9 black png image with META_BLOCK_PICTURE with some info along with a png which is based on vorbis comment specification
 - This is the base64 encoding of META_BLOCK_PICTURE='AAAAAwAAAAlpbWFnZS9wbmcAAAALRnJvbnQgQ292ZXIAAAAQAAAACQAAACAAAAAAAAAAU4lQTkcNChoKAAAADUlIRFIAAAAQAAAACQgGAAAAOyqsMgAAABpJREFUeJxjZGBg+M9AAWCiRPOoARAwDAwAAFmzARHg40/fAAAAAElFTkSuQmCC' 
-- Reason is most audiobook players don't support subtitles, and ones that do, do so due to video support and having a cover image in background with subtitles overlaying is all that doable in most cases
+- Reason is most audiobook players don't support subtitles, and ones that do, do so due to video support and having a cover image in background intefers in with subtitles in most cases
 - Use a cover image and don't plan to ever use subs then use kid3 app (qt free cross-platform app)
 - Developed since 2022 but in Dec 2025 decided to port from mpv front-end lua scripts with uosc ui and remove video editing, LUTs to a flutter / dart app (not just Mac/Linux anymore) and make it purely an audiobook player
