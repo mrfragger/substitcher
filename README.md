@@ -5,7 +5,7 @@ Opus chaptered encoder, editor and player with colored subtitles and fancy fonts
 ![](images/audiobook.jpg)
 
 ### Encoding and Transcribing
-- Encode 16kbps audiobooks which is 4x smaller than 64kbps
+- Encode 16kbps audiobooks which is 4x/8x smaller than 64/128kbps
 - 32kpbs only use for audio like Quran recitations and it's about 2.5x larger in file size due to vbr
 - opus (2012) is a superior audio codec compared to mp3 (1993) or aac (1997) at low bitrates
 - max 100 hours and 999 chapters per audiobook
@@ -13,16 +13,19 @@ Opus chaptered encoder, editor and player with colored subtitles and fancy fonts
 - Title Case chapter titles and regular expression replace
 - Remove silence -26dB, -30dB, -34dB, -38dB, -42dB, -46dB, reduces transcribing hallucinations
 - Hiss (reduction) preview a random audio to compare
-- Batch Trim Audio beginning and end
+- Batch Trim Audio beginning and end, previews 6 trimmed audios
 - Extract chapters with names from audiobooks
 - Edit Metadata (chapters, author, title) of opus audiobook
 
 ![](images/encode.jpg)
 
 ### Transcribe
-- Transcribe with 30 second segements to reduce hallucination with whisper.cpp
+- Transcribe with 30 second segements to reduce hallucination with whisper.cpp, keeps model in memory for entire chapter
 - Repeats vtt to remove repeated words, capitalize pronouns, Islamic terms and honorifics
+- Auto-detect language
+- Transcribe for the following languages: 
 - Afrikaans, Albanian, Amharic, Arabic, Armenian, Azerbaijani, Basque, Belarusian, Bengali, Bosnian, Bulgarian, Catalan, Cebuano, Chichewa, Chinese, Cantonese (CN), Cantonese (HK), Mandarin (TW), Corsican, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Filipino, Finnish, French, Western Frisian, Galician, Georgian, German, Greek, Gujarati, Haitian Creole, Hausa, Hawaiian, Hebrew, Hindi, Hmong, Hungarian, Icelandic, Igbo, Indonesian, Irish, Italian, Japanese, Javanese, Kannada, Kazakh, Khmer, Kinyarwanda, Korean, Kurdish, Kyrgyz, Lao, Latin, Latvian, Lithuanian, Luxembourgish, Macedonian, Malagasy, Malay, Malayalam, Maltese, Māori, Marathi, Mongolian, Myanmar, Nepali, Norwegian, Odia, Pashto, Persian, Polish, Portuguese, Punjabi, Romanian, Russian, Samoan, Scottish Gaelic, Serbian, Sesotho, Shona, Sindhi, Sinhala, Slovak, Slovenian, Somali, Spanish, Sundanese, Swahili, Swedish, Tajik, Tamil, Tatar, Telugu, Thai, Turkish, Turkmen, Ukrainian, Urdu, Uyghur, Uzbek, Vietnamese, Welsh, Xhosa, Yiddish, Yoruba, Zulu
+- Automatically translate to English only from a foreign language if using whisper 2 models but not turbo 3
 
 ### Playback
 - set playback speed 0.5x to 2.0x
@@ -69,7 +72,7 @@ Opus chaptered encoder, editor and player with colored subtitles and fancy fonts
 
 ![](images/bilingualsubs.jpg)
 
-### Sleeptimer
+### Sleep Timer
 -  set to 15, 30, 45, 60, 90, 120 minutes
 - z sleep at chapter end
 - sleep at End of Audiobook
@@ -204,6 +207,7 @@ Opus chaptered encoder, editor and player with colored subtitles and fancy fonts
 - displays subs automatically if avaiable based on default language
 - choose up to 10 languages to prompt when default language isn't found, this enables a shortlist rather than scrolling through 79 languages each time
 -  English, Afrikaans, Albanian (Shqip), Amharic (አማርኛ), Arabic (العربية), Armenian (Հայերեն), Azerbaijani (Azərbaycan), Belarusian (Беларуская), Bengali (বাংলা), Bhojpuri (भोजपुरी), Bosnian (Bosanski), Bulgarian (Български), Burmese (မြန်မာ), Catalan (Català), Chinese - Simplified (简体), Chinese - Traditional (繁體), Chinese - Cantonese (粵語), Croatian (Hrvatski), Czech (Čeština), Danish (Dansk), Dutch (Nederlands), Estonian (Eesti), Filipino (Tagalog), Finnish (Suomi), French (Français), Georgian (ქართული), German (Deutsch), Greek (Ελληνικά), Gujarati (ગુજરાતી), Hausa (هَرْشٜىٰن هَوْسَا), Hebrew (עברית), Hebrew (עברית), Hindi (हिन्दी), Hungarian (Magyar), Icelandic (Íslenska), Indonesian (Bahasa Indonesia), Italian (Italiano), Japanese (日本語), Javanese (Basa Jawa), Kannada (ಕನ್ನಡ), Kazakh (Қазақ тілі), Korean (한국어), Kyrgyz (Кыргызча), Lao (ລາວ), Latvian (Latviešu), Lithuanian (Lietuvių), Macedonian (Македонски), Malay (Bahasa Melayu), Malayalam (മലയാളം), Maltese (Malti), Marathi (मराठी), Mongolian (Монгол), Nepali (नेपाली), Norwegian (Norsk bokmål), Persian (فارسی), Polish (Polski), Portuguese (Português), Portuguese - Brazil (Português Brasil), Portuguese - Portugal (Português Portugal), Punjabi (ਪੰਜਾਬੀ), Romanian (Română), Russian (Русский), Serbian (Српски), Slovak (Slovenčina), Slovenian (Slovenščina), Spanish (Español), Swahili (Kiswahili), Swedish (Svenska), Tajik (Тоҷикӣ), Tamil (தமிழ்), Telugu (తెలుగు), Thai (ไทย), Turkish (Türkçe), Turkmen (Türkmençe), Ukrainian (Українська), Urdu (اردو), Uyghur (ئۇيغۇرچە), Uzbek (Oʻzbekcha), Vietnamese (Tiếng Việt)
+- choose audio streams
 
 ### Installation
 macOS (arm64 Silicon m1,m2,m3,m4,m26) after installing dmg via [releases](https://github.com/mrfragger/substitcher/releases) or via homebrew in Terminal do
@@ -218,9 +222,8 @@ brew install mrfragger/substitcher/substitcher
 If using whisper large v2 model on 8GB RAM Mac swap file might become huge especially with other apps open.  Swap file will never clear and takes up valuable disk space until rebooting. Log out of user account and login again which is even quicker way to delete swap file.
 
 Windows x64\
-just unzip SubStitcher-windows-x64.zip\
-if nothing appears, may need to install\
-[Visual C++ 2015-2022 Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+just unzip SubStitcher-windows-x64.zip [releases](https://github.com/mrfragger/substitcher/releases)\
+if nothing appears, may need to install [Visual C++ 2015-2022 Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe)
 
 Linux Appimage\
 appimage right click on file and choose Properties, then Permissions\
@@ -253,28 +256,21 @@ Android  universal (arm64-v8a + armeabi-v7a + x86_64) (untested, feedback welcom
 - Enable Unknown sources
 
 iOS (may publish in future)
-- if needs subs (just one color, one font) nPlayer $5
-- vlc iOS/android works but no subs for opus audiobooks, set audio to resume
+- with subs (just one color, one font) nPlayer $5
+- no subs for opus audiobooks, vlc (set audio to resume)
 
 ### Opus audio codec
-Why Opus outperforms MP3 and AAC at very low bitrates (like ~16 kb/s)
+- outperforms MP3 and AAC at very low bitrates (~16 kb/s)
+-  **Hybrid Architecture** SILK (linear predictive coding) for speech-like signals.
 
-#### Hybrid Architecture
-- **SILK** (linear predictive coding) for speech-like signals.
+- **Low Algorithmic Delay and Frame Flexibility** Supports frame sizes from 2.5 ms up to 60 ms, allowing very low latency if needed. Fine control of bitrate and delay trade-offs further improves coding of speech/music at low rates
 
-#### Low Algorithmic Delay and Frame Flexibility
-- Supports frame sizes from **2.5 ms** up to **60 ms**, allowing very low latency if needed
-- Fine control of bitrate and delay trade-offs further improves coding of speech/music at low rates
-
-### `-application voip` (OPUS_APPLICATION_VOIP)
--  gives best quality at a given bitrate for voice signals. It enhances the input signal by high-pass filtering and emphasizing formants and harmonics
+- `-application voip` gives best quality at a given bitrate for voice signals. It enhances the input signal by high-pass filtering and emphasizing formants and harmonics
 
 ### Miscellaneous
-- Never will support music, videos as it's for audiobooks only
-- Unlikely will get a light theme
+- Never will get a light theme nor support music
 - Never will support cover images, choose either audiobooks with covers and not to use subtitles
 - It just puts a 16x9 black png image with META_BLOCK_PICTURE with some info along with a png which is based on vorbis comment specification
-- This is the base64 encoding of META_BLOCK_PICTURE='AAAAAwAAAAlpbWFnZS9wbmcAAAALRnJvbnQgQ292ZXIAAAAQAAAACQAAACAAAAAAAAAAU4lQTkcNChoKAAAADUlIRFIAAAAQAAAACQgGAAAAOyqsMgAAABpJREFUeJxjZGBg+M9AAWCiRPOoARAwDAwAAFmzARHg40/fAAAAAElFTkSuQmCC' 
 - Reason is most audiobook players don't support subtitles, and ones that do, do so due to video support and having a cover image in background intefers in with subtitles in most cases
-- Use a cover image and don't plan to ever use subs then use kid3 app (qt free cross-platform app)
+- use kid3 app (qt free cross-platform app) for embedding a cover image and don't plan to ever use subtitles
 - Developed since 2022 but in Dec 2025 decided to port from mpv front-end lua scripts with uosc ui and remove video editing, LUTs to a flutter / dart app (not just Mac/Linux anymore) and make it purely an audiobook player

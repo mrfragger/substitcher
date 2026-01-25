@@ -5,27 +5,12 @@ This application uses whisper.cpp, which is licensed under MIT License
 Copyright (c) 2023-2024 The ggml authors
 Source code: https://github.com/ggml-org/whisper.cpp?
 
-
-libmpv
-This application uses libmpv, which is licensed under the LGPL v2.1.
-Source code: https://github.com/mpv-player/mpv
-mpv 0.36.0  -Dgpl=false -Dcplayer=false -Dlibmpv=true 
-
-FFmpeg project under the LGPLv2.1
-https://ffmpeg.org/
-ffmpeg version 8.0.1 Copyright (c) 2000-2025 the FFmpeg developers
-x264 and x265 are GPL so can't be included
- --disable-gpl --disable-nonfree
-built with Apple clang version 17.0.0 (clang-1700.6.3.2)
-configuration: --prefix=/Users/me/.cache/ffmpeg-build/build-arm64 --disable-shared --enable-static --disable-gpl --disable-nonfree --disable-doc --disable-debug --disable-everything --disable-xlib --disable-libxcb --disable-libxcb-shm --disable-libxcb-xfixes --disable-libxcb-shape --enable-ffmpeg --enable-ffprobe --enable-videotoolbox --enable-audiotoolbox --enable-libopus --enable-decoder='opus,libopus,aac,aac_fixed,aac_latm,mp3,mp3float,pcm_s16le,pcm_s24le,pcm_f32le,flac,vorbis,alac' --enable-encoder='libopus,aac,pcm_s16le' --enable-demuxer='ffmetadata,concat,opus,ogg,matroska,wav,mp3,aac,m4a,mov,flac' --enable-muxer='ffmetadata,opus,ogg,matroska,wav,ipod,mp4' --enable-parser='opus,aac,aac_latm,mp3,flac,vorbis' --enable-protocol=file --enable-filter='volume,equalizer,highpass,lowpass,aformat,aresample,atempo,silenceremove,afftdn,dynaudnorm' --extra-cflags=-I/Users/me/.cache/ffmpeg-build/opus-build-arm64/include --extra-ldflags=-L/Users/me/.cache/ffmpeg-build/opus-build-arm64/lib --arch=arm64 --cc='clang -arch arm64'
-
 sqlite3 to access anki apkg files
 sqlite3 is in the public domain
 
 tiny segmenter dart
 A compact Japanese text tokenizer for Dart. TinySegmenter is a Japanese word segmentation library based on the original JavaScript implementation by Taku Kudo
 BSD 3-Clause License
-
 Copyright (c) 2024, TinySegmenter Dart Contributors
 All rights reserved.
 
@@ -53,10 +38,14 @@ html dart MIT License
 Standards-compliant library for parsing and serializing HTML documents and fragments
 Copyright (c) 2006-2013 James Graham and other contributors
 
-
 media_kit dart
 A cross-platform video player & audio player for Flutter & Dart.
 Copyright (c) 2021 & onwards Hitesh Kumar Saini <saini123hitesh@gmail.com>
+
+libmpv (included in media_kit dart)
+This application uses libmpv, which is licensed under the LGPL v2.1
+Source code: https://github.com/mpv-player/mpv
+mpv 0.36.0  -Dgpl=false -Dcplayer=false -Dlibmpv=true 
 
 whisper.cpp for transcribing MIT License
 Copyright (c) 2023-2024 The ggml authors
@@ -66,12 +55,23 @@ opus files and some code logic from
 https://github.com/azanclock/PWA
 Copyright (c) 2022 AzanClock.com
 
+FFmpeg project under the LGPLv2.1
+https://ffmpeg.org/
+ffmpeg version 8.0.1 Copyright (c) 2000-2025 the FFmpeg developers
+x264 and x265 are GPL so can't be included
+ --disable-gpl --disable-nonfree
+built with Apple clang version 17.0.0 (clang-1700.6.3.2)
+configuration: --prefix=/Users/me/.cache/ffmpeg-build/build-arm64 --disable-shared --enable-static --disable-gpl --disable-nonfree --disable-doc --disable-debug --disable-everything --disable-xlib --disable-libxcb --disable-libxcb-shm --disable-libxcb-xfixes --disable-libxcb-shape --enable-ffmpeg --enable-ffprobe --enable-videotoolbox --enable-audiotoolbox --enable-libopus --enable-decoder='opus,libopus,aac,aac_fixed,aac_latm,mp3,mp3float,pcm_s16le,pcm_s24le,pcm_f32le,flac,vorbis,alac' --enable-encoder='libopus,aac,pcm_s16le' --enable-demuxer='ffmetadata,concat,opus,ogg,matroska,wav,mp3,aac,m4a,mov,flac' --enable-muxer='ffmetadata,opus,ogg,matroska,wav,ipod,mp4' --enable-parser='opus,aac,aac_latm,mp3,flac,vorbis' --enable-protocol=file --enable-filter='volume,equalizer,highpass,lowpass,aformat,aresample,atempo,silenceremove,afftdn,dynaudnorm' --extra-cflags=-I/Users/me/.cache/ffmpeg-build/opus-build-arm64/include --extra-ldflags=-L/Users/me/.cache/ffmpeg-build/opus-build-arm64/lib --arch=arm64 --cc='clang -arch arm64'
 
-Fonts all are either free (free for commercial use) or demo / demo123 (usually doesn't have any missing numbers, etc.) Demo versions that require a license for commerical use and/or personal use if want the full version.  Forbidden to distribute any paid fonts obviously or even modified fonts which none of these bundled fonts are.
+========================================================================
+
+Fonts all are either free (free for commercial use) or demo / demo123 (usually doesn't have any missing numbers, etc.) Demo versions require a license for commerical use and/or personal use if want the full version.  Forbidden to distribute any paid fonts obviously or even modified fonts which none of these bundled fonts are.
 
 All licenses to each font can be viewed on. Purchase ones to get full version and support font studios.
 https://www.fontspace.com/
 https://www.1001fonts.com/
+
+A few of the main font studios included
 
 https://177studio.com/
 https://www.fontspace.com/177studio/
