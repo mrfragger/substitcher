@@ -203,6 +203,10 @@ Opus chaptered encoder, editor and player with colored subtitles and fancy fonts
 ![](images/ankitoopus1.jpg)
 ![](images/ankitoopus2.jpg)
 
+sample anki to opus audiobook from here [124MiB](https://ankiweb.net/shared/info/696438310)
+down to 13MiB with 4Xrepeating audio 1h 57m ![Spanish - 599 Verb Conjugations by Frequency.zip](images/Spanish - 599 Verb Conjugations by Frequency.zip)
+try Pause mode 2s, Hide Chapter Title, Shuffle 
+
 ### Youtube
 - handles videos or audio to stream (ignored for History, Stats), disabled on android/iOS
 - download video or audio and playlists with option to resume
