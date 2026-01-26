@@ -13,13 +13,13 @@ void main() async {
     await windowManager.ensureInitialized();
     
     WindowOptions windowOptions = const WindowOptions(
-      title: 'SubStitcher 26.01.25',
+      title: 'SubStitcher 26.01.26',
       skipTaskbar: false,
       titleBarStyle: TitleBarStyle.normal,
     );
     
     await windowManager.waitUntilReadyToShow(windowOptions, () async {
-      await windowManager.setTitle('SubStitcher 26.01.25');
+      await windowManager.setTitle('SubStitcher 26.01.26');
       await windowManager.maximize();
       await windowManager.show();
       await windowManager.focus();
@@ -37,7 +37,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'SubStitcher 26.01.25',
+      title: 'SubStitcher 26.01.26',
       themeMode: ThemeMode.dark,
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(

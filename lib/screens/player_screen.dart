@@ -4879,13 +4879,20 @@ class _PlayerScreenState extends State<PlayerScreen> {
          } else if (event.logicalKey == LogicalKeyboardKey.keyU && event is KeyDownEvent) {
            _copyCurrentSubtitle();
            return KeyEventResult.handled;
-          } else if (event.logicalKey == LogicalKeyboardKey.keyH && event is KeyDownEvent) {
-            setState(() {
-              _showPanel = true;
-              _panelMode = PanelMode.history;
-            });
-            _scrollToTopOfHistory();
-            return KeyEventResult.handled;
+        } else if (event.logicalKey == LogicalKeyboardKey.keyH && 
+                       HardwareKeyboard.instance.isShiftPressed && 
+                       event is KeyDownEvent) {
+              setState(() {
+                _hideChapterTitle = !_hideChapterTitle;
+              });
+              return KeyEventResult.handled;
+            } else if (event.logicalKey == LogicalKeyboardKey.keyH && event is KeyDownEvent) {
+              setState(() {
+                _showPanel = true;
+                _panelMode = PanelMode.history;
+              });
+              _scrollToTopOfHistory();
+              return KeyEventResult.handled;        
           } else if (event.logicalKey == LogicalKeyboardKey.keyP && event is KeyDownEvent) {
             setState(() {
               _showPanel = true;
@@ -5007,12 +5014,6 @@ class _PlayerScreenState extends State<PlayerScreen> {
           } else if (event.logicalKey == LogicalKeyboardKey.keyM && event is KeyDownEvent) {
             setState(() {
               _showAdhanOverlay = !_showAdhanOverlay;
-            });
-            return KeyEventResult.handled;
-          } else if (event.logicalKey == LogicalKeyboardKey.backquote && 
-                   event is KeyDownEvent) {
-            setState(() {
-              _hideChapterTitle = !_hideChapterTitle;
             });
             return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.bracketLeft && event is KeyDownEvent) {
