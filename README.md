@@ -170,6 +170,7 @@ Opus chaptered encoder, editor and player with colored subtitles and fancy fonts
 - average time per chapter
 - top 50 audiobooks listened to by duration
 - time duration bars of listening time for last 30 active days
+- stats are stored in `~/.config/substitcher/watch_tracking_time`
 
 ### Slicing / Editing
 - make cuts (slices of audio) in subdirectory audiobookname_cuts
@@ -204,7 +205,7 @@ Opus chaptered encoder, editor and player with colored subtitles and fancy fonts
 ![](images/ankitoopus2.jpg)
 
 sample anki to opus audiobook from here [124MiB](https://ankiweb.net/shared/info/696438310)
-down to 13MiB with 4Xrepeating audio 1h 57m ![Spanish - 599 Verb Conjugations by Frequency.zip](images/Spanish_-_599_Verb_Conjugations_by_Frequency.zip)
+down to 13MiB with 4x repeating audio 1h 57m ![Spanish - 599 Verb Conjugations by Frequency.zip](images/Spanish_-_599_Verb_Conjugations_by_Frequency.zip)
 try Pause mode 2s, Hide Chapter Title, Shuffle 
 
 ### Youtube
