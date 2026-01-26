@@ -4564,22 +4564,28 @@ class _PlayerScreenState extends State<PlayerScreen> {
       await player.setRate(_playbackSpeed);
       await _loadSubtitles(selectedPath);
       _precalculateWordPositions();
+      
       await Future.delayed(const Duration(milliseconds: 100));
+      
       if (positionToLoad.inSeconds > 0) {
         await player.seek(positionToLoad);
         await Future.delayed(const Duration(milliseconds: 50));
       }
+      
       await player.play();
+      
       if (_currentAudiobook != null && !_shouldSkipTracking(path.basenameWithoutExtension(_currentAudiobook!.path))) {
         _statsManager.recordChapterStart();
       }
+      
       if (_isPlaying) {
         _statsManager.onPlaybackStart();
       }
+      
       await _calculateBitrate();
-
+      
       _cacheSingleFileDuration(selectedPath);
-
+      
       _focusNode.requestFocus();
     } catch (e, stackTrace) {
       print('Error opening audiobook: $e');

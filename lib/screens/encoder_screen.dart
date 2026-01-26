@@ -75,6 +75,244 @@ class _EncoderScreenState extends State<EncoderScreen> {
   Duration _hissReducedPosition = Duration.zero;
   Duration _originalDuration = Duration.zero;
   Duration _hissReducedDuration = Duration.zero;
+
+  bool _showPasteList = false;
+  final _pasteListController = TextEditingController();
+  List<String> _parsedNames = [];
+  String _lastPastedList = '';
+  String _secondLastPastedList = '';
+  bool _isPreviewingPastedList = false;
+  Map<int, String> _originalPastedListTitles = {};
+
+  static const String _surahList = '''001 Al-Fatiha (The Opener)
+  002 Al-Baqarah (The Cow)
+  003 Al-Imran (Family of Imran)
+  004 An-Nisa (The Women)
+  005 Al-Ma'idah (The Table Spread)
+  006 Al-Anam (The Cattle)
+  007 Al-A'raf (The Heights)
+  008 Al-Anfal (The Spoils of War)
+  009 At-Taubah (The Repentance)
+  010 Yunus (Jonah)
+  011 Hud (Hud)
+  012 Yusuf (Joseph)
+  013 Ar-Ra'd (Thunder)
+  014 Ibrahim (Abraham)
+  015 Al-Hijr (The Rocky Tract)
+  016 An-Nahl (The Bee)
+  017 Al-Isra (The Night Journey)
+  018 Al-Kahf (The Cave)
+  019 Maryam (Mary)
+  020 Ta-Ha
+  021 Al-Anbiya (The Prophets)
+  022 Al-Hajj (The Pilgrimage)
+  023 Al-Mu'minun (The Believers)
+  024 An-Nur (The Light)
+  025 Al-Furqan (The Criterion)
+  026 Ash-Shu'ara (The Poets)
+  027 An-Naml (The Ant)
+  028 Al-Qasas (The Stories)
+  029 Al-Ankabut (The Spider)
+  030 Ar-Rum (The Romans)
+  031 Luqman
+  032 As-Sajdah (Prostration)
+  033 Al-Ahzab (The Confederates)
+  034 Saba (Sheba)
+  035 Fatir (The Originator of Creation)
+  036 Ya-Sin
+  037 As-Saffat (Those Arranged in Ranks)
+  038 Saad
+  039 Az-Zumar (The Groups)
+  040 Ghafir (The Forgiver or The Believer)
+  041 Fussilat (Explained in Detail)
+  042 Ash-Shura (The Consultation)
+  043 Az-Zukhruf (The Gold Ornaments)
+  044 Ad-Dukhan (The Smoke)
+  045 Al-Jathiyah (The Kneeling)
+  046 Al-Ahqaf (The Wind Curved Sandhill)
+  047 Muhammad (The Fighting)
+  048 Al-Fath (The Victory)
+  049 Al-Hujurat (The Dwellings)
+  050 Qaf (Qaf)
+  051 Adh-Dhariyat (The Winds That Scatter)
+  052 At-Tur (The Mount)
+  053 An-Najm (The Star)
+  054 Al-Qamar (The Moon)
+  055 Ar-Rahman (The Most Gracious)
+  056 Al-Waqi'ah (The Event)
+  057 Al-Hadid (The Iron)
+  058 Al-Mujadila (The Woman Who Disputes)
+  059 Al-Hashr (The Exile)
+  060 Al-Mumtahanah (The Woman to Be Examined)
+  061 As-Saff (The Ranks)
+  062 Al-Jumu'ah (Friday)
+  063 Al-Munafiqun (The Hypocrites)
+  064 At-Taghabun (Mutual Loss or Gain)
+  065 At-Talaq (The Divorce)
+  066 At-Tahrim (The Prohibition)
+  067 Al-Mulk (Dominion)
+  068 Al-Qalam (The Pen)
+  069 Al-Haqqah (The Inevitable)
+  070 Al-Ma'arij (The Ways of Ascent)
+  071 Nuh (Noah)
+  072 Al-Jinn (The Jinn)
+  073 Al-Muzzammil (The Enshrouded One)
+  074 Al-Muddaththir (The Cloaked One)
+  075 Al-Qiyamah (The Resurrection)
+  076 Al-Insan (Man or Time)
+  077 Al-Mursalat (The Emissaries)
+  078 An-Naba (The Tidings)
+  079 An-Nazi'at (Those Who Pull Out)
+  080 Abasa (He Frowned)
+  081 At-Takwir (The Overthrowing)
+  082 Al-Infitar (The Cleaving)
+  083 Al-Mutaffifin (Those Who Deal in Fraud)
+  084 Al-Inshiqaq (The Splitting Asunder)
+  085 Al-Buruj (The Mansions of the Stars)
+  086 At-Tariq (The Night Comer)
+  087 Al-Ala (The Most High)
+  088 Al-Ghashiyah (The Overwhelming)
+  089 Al-Fajr (The Dawn)
+  090 Al-Balad (The City)
+  091 Ash-Shams (The Sun)
+  092 Al-Lail (The Night)
+  093 Ad-Duha (The Forenoon - After Sunrise)
+  094 Ash-Sharh (The Opening Forth)
+  095 At-Tin (The Fig)
+  096 Al-Alaq (The Clot)
+  097 Al-Qadr (The Night of Decree)
+  098 Al-Bayyina (The Clear Evidence)
+  099 Az-Zalzalah (The Earthquake)
+  100 Al-Adiyat (The Courser)
+  101 Al-Qari'ah (The Calamity)
+  102 At-Takathur (Vying for Worldly Increase)
+  103 Al-Asr (The Declining Day)
+  104 Al-Humazah (The Slanderer)
+  105 Al-Fil (The Elephant)
+  106 Quraysh
+  107 Al-Ma'un (The Small Kindness)
+  108 Al-Kawthar (The Abundance)
+  109 Al-Kafirun (The Disbelievers)
+  110 An-Nasr (The Divine Support)
+  111 Al-Masad (The Palm Fiber)
+  112 Al-Ikhlas (The Sincerity)
+  113 Al-Falaq (The Daybreak)
+  114 An-Nas (The Mankind)''';
+  
+    static const String _surahArabicList = '''001 الفاتحة Al-Fatiha (The Opening)
+  002 البقرة Al-Baqarah (The Cow)
+  003 آل عمران Aal-E-Imran (The Family of Imran)
+  004 النساء An-Nisa' (The Women)
+  005 المائدة Al-Ma'idah (The Table Spread)
+  006 الأنعام Al-An'am (The Cattle)
+  007 الأعراف Al-A'raf (The Heights)
+  008 الأنفال Al-Anfal (The Spoils of War)
+  009 التوبة At-Tawbah (The Repentance)
+  010 يونس Yunus (Jonah)
+  011 هود Hud
+  012 يوسف Yusuf (Joseph)
+  013 الرعد Ar-Ra'd (The Thunder)
+  014 إبراهيم Ibrahim (Abraham)
+  015 الحجر Al-Hijr (The Rocky Tract)
+  016 النحل An-Nahl (The Bee)
+  017 الإسراء Al-Isra' (The Night Journey)
+  018 الكهف Al-Kahf (The Cave)
+  019 مريم Maryam (Mary)
+  020 طه Ta-Ha
+  021 الأنبياء Al-Anbiya' (The Prophets)
+  022 الحج Al-Hajj (The Pilgrimage)
+  023 المؤمنون Al-Mu'minun (The Believers)
+  024 النور An-Nur (The Light)
+  025 الفرقان Al-Furqan (The Criterion)
+  026 الشعراء Ash-Shu'ara (The Poets)
+  027 النمل An-Naml (The Ant)
+  028 القصص Al-Qasas (The Stories)
+  029 العنكبوت Al-Ankabut (The Spider)
+  030 الروم Ar-Rum (The Romans)
+  031 لقمان Luqman
+  032 السجدة As-Sajda (The Prostration)
+  033 الأحزاب Al-Ahzab (The Combined Forces)
+  034 سبأ Saba' (Sheba)
+  035 فاطر Fatir (The Originator of Creation)
+  036 يس Ya-Sin
+  037 الصافات As-Saffat (Those Arranged in Ranks)
+  038 ص Saad
+  039 الزمر Az-Zumar (The Groups)
+  040 غافر Ghafir (The Forgiver or The Believer)
+  041 فصلت Fussilat (Explained in Detail)
+  042 الشورى Ash-Shura (The Consultation)
+  043 الزخرف Az-Zukhruf (The Gold Adornments)
+  044 الدخان Ad-Dukhan (The Smoke)
+  045 الجاثية Al-Jathiya (The Kneeling)
+  046 الأحقاف Al-Ahqaf (The Wind-Curved Sandhills)
+  047 محمد Muhammad (The Fighting)
+  048 الفتح Al-Fath (The Victory)
+  049 الحجرات Al-Hujurat (The Dwellings)
+  050 ق Qaf
+  051 الذاريات Adh-Dhariyat (The Winds That Scatter)
+  052 الطور At-Tur (The Mount)
+  053 النجم An-Najm (The Star)
+  054 القمر Al-Qamar (The Moon)
+  055 الرحمن Ar-Rahman (The Most Gracious)
+  056 الواقعة Al-Waqi'a (The Inevitable)
+  057 الحديد Al-Hadid (The Iron)
+  058 المجادلة Al-Mujadila (The Woman Who Disputes)
+  059 الحشر Al-Hashr (The Exile)
+  060 الممتحنة Al-Mumtahina (The Woman to Be Examined)
+  061 الصف As-Saff (The Row or the Rank)
+  062 الجمعة Al-Jumu'a (Friday)
+  063 المنافقون Al-Munafiqun (The Hypocrites)
+  064 التغابن At-Taghabun (The Mutual Loss or Gain)
+  065 الطلاق At-Talaq (The Divorce)
+  066 التحريم At-Tahrim (The Prohibition)
+  067 الملك Al-Mulk (Dominion)
+  068 القلم Al-Qalam (The Pen)
+  069 الحاقة Al-Haqqah (The Inevitable)
+  070 المعارج Al-Ma'arij (The Ways of Ascent)
+  071 نوح Nuh (Noah)
+  072 الجن Al-Jinn (The Jinn)
+  073 المزمل Al-Muzzammil (The Enshrouded One)
+  074 المدثر Al-Muddathir (The Cloaked One)
+  075 القيامة Al-Qiyama (The Resurrection)
+  076 الإنسان Al-Insan (Man or Time)
+  077 المرسلات Al-Mursalat (The Emissaries)
+  078 النبأ An-Naba' (The Tidings)
+  079 النازعات An-Nazi'at (Those Who Pull Out)
+  080 عبس Abasa (He Frowned)
+  081 التكوير At-Takwir (The Overthrowing)
+  082 الإنفطار Al-Infitar (The Cleaving)
+  083 المطففين Al-Mutaffifin (Those Who Deal in Fraud)
+  084 الإنشقاق Al-Inshiqaq (The Splitting Asunder)
+  085 البروج Al-Burooj (The Mansions of the Stars)
+  086 الطارق At-Tariq (The Morning Star)
+  087 الأعلى Al-A'la (The Most High)
+  088 الغاشية Al-Ghashiyah (The Overwhelming)
+  089 الفجر Al-Fajr (The Dawn)
+  090 البلد Al-Balad (The City)
+  091 الشمس Ash-Shams (The Sun)
+  092 الليل Al-Lail (The Night)
+  093 الضحى Ad-Duha (The Forenoon -  After Sunrise)
+  094 الشرح Ash-Sharh (The Opening Forth)
+  095 التين At-Tin (The Fig)
+  096 العلق Al-Alaq (The Clot)
+  097 القدر Al-Qadr (The Night of Decree)
+  098 البينة Al-Bayyina (The Clear Evidence)
+  099 الزلزلة Az-Zalzalah (The Earthquake)
+  100 العاديات Al-Adiyat (Those That Run)
+  101 القارعة Al-Qari'a (The Calamity)
+  102 التكاثر At-Takathur (Vying for Worldly Increase)
+  103 العصر Al-Asr (The Declining Day)
+  104 الهمزة Al-Humazah (The Slanderer)
+  105 الفيل Al-Fil (The Elephant)
+  106 قريش Quraysh
+  107 الماعون Al-Ma'un (The Small Kindnesses)
+  108 الكوثر Al-Kawthar (The Abundance)
+  109 الكافرون Al-Kafirun (The Disbelievers)
+  110 النصر An-Nasr (The Divine Support)
+  111 المسد Al-Masad (The Palm Fiber)
+  112 الإخلاص Al-Ikhlas (The Sincerity)
+  113 الفلق Al-Falaq (The Daybreak)
+  114 الناس An-Nas (The Mankind)''';
   
   @override
   void initState() {
@@ -91,6 +329,7 @@ class _EncoderScreenState extends State<EncoderScreen> {
     _searchController.dispose();
     _replaceController.dispose();
     _hissReducedPlayer.dispose();
+    _pasteListController.dispose();
     super.dispose();
   }
   
@@ -307,6 +546,55 @@ class _EncoderScreenState extends State<EncoderScreen> {
       
       _showSuccess('Replacements applied');
     }
+
+   void _loadPredefinedList(String list) {
+     setState(() {
+       _pasteListController.text = list;
+       _parseList();
+     });
+   }
+   
+   void _parseList() {
+     final text = _pasteListController.text.trim();
+     if (text.isEmpty) {
+       setState(() {
+         _parsedNames = [];
+       });
+       return;
+     }
+   
+     final lines = text.split('\n')
+         .where((line) => line.trim().isNotEmpty)
+         .map((line) => line.trim())
+         .toList();
+   
+     setState(() {
+       _parsedNames = lines;
+     });
+   }
+   
+   void _applyPastedList() {
+     if (_parsedNames.length != _files.length) {
+       _showError('List has ${_parsedNames.length} lines but you have ${_files.length} files');
+       return;
+     }
+   
+     setState(() {
+       if (_pasteListController.text.trim().isNotEmpty) {
+         _secondLastPastedList = _lastPastedList;
+         _lastPastedList = _pasteListController.text.trim();
+       }
+   
+       for (int i = 0; i < _files.length; i++) {
+         final newName = _parsedNames[i];
+         _files[i].editedTitle = newName;
+       }
+       
+       _isPreviewingPastedList = false;
+     });
+   
+     _showSuccess('Names applied from list');
+   } 
 
   void _applyTitleCase() {
     if (_titleCaseHistory != null) {
@@ -1383,83 +1671,102 @@ class _EncoderScreenState extends State<EncoderScreen> {
     (sum, file) => sum + file.duration,
   );
 
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        title: Row(
-          children: [
-            if (_files.isNotEmpty)
-              ElevatedButton(
-                onPressed: _toggleTitleSource,
-                style: ElevatedButton.styleFrom(
-                  padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
-                ),
-                child: Text(_useFilenames ? 'Using Filenames' : 'Using Metadata'),
-              ),
-            const Expanded(
-              child: Center(
-                child: Text('SubStitcher - Audiobook Encoder'),
-              ),
-            ),
-            if (_files.isNotEmpty) ...[
-              ElevatedButton(
-                onPressed: () {
-                  setState(() {
-                    _showSearchReplace = !_showSearchReplace;
-                    if (!_showSearchReplace && _isPreviewingReplace) {
-                      for (final entry in _originalReplaceValues.entries) {
-                        _files[entry.key].editedTitle = entry.value;
-                      }
-                      _originalReplaceValues.clear();
-                      _isPreviewingReplace = false;
-                    }
-                  });
-                },
-                style: ElevatedButton.styleFrom(
-                  padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
-                ),
-                child: const Text('Replace'),
-              ),
-              const SizedBox(width: 8),
-              ElevatedButton(
-                onPressed: _applyTitleCase,
-                style: ElevatedButton.styleFrom(
-                  padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
-                  minimumSize: const Size(150, 36),
-                ),
-                child: Text(_titleCaseHistory != null ? 'Undo Title Case' : 'Apply Title Case'),
-              ),
-              const SizedBox(width: 30),
-            ],
-          ],
-        ),
-        backgroundColor: Theme.of(context).colorScheme.primaryContainer,
-      ),
-      body: _loading
-          ? const Center(child: CircularProgressIndicator())
-          : Column(
-              children: [
-                if (_showSearchReplace) _buildSearchReplacePanel(),
-                if (_files.isNotEmpty) _buildFileListHeader(),
-
-                if (_showHissPreview) _buildHissPreviewPanel(),
-                
-                Expanded(
-                  child: _files.isEmpty
-                      ? _buildEmptyState()
-                      : _buildFileList(),
-                ),
-                
-                if (_files.isNotEmpty) _buildConfigPanel(),
-                
-                if (_encoding) _buildProgress(),
-                
-                _buildActions(),
-              ],
-            ),
-    );
-  }
+   @override
+   Widget build(BuildContext context) {
+     return Scaffold(
+       appBar: AppBar(
+         title: Row(
+           children: [
+             if (_files.isNotEmpty) ...[
+               ElevatedButton(
+                 onPressed: _toggleTitleSource,
+                 style: ElevatedButton.styleFrom(
+                   padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                 ),
+                 child: Text(_useFilenames ? 'Using Filenames' : 'Using Metadata'),
+               ),
+               const SizedBox(width: 8),
+               ElevatedButton(
+                 onPressed: () {
+                   setState(() {
+                     _showPasteList = !_showPasteList;
+                     if (!_showPasteList && _isPreviewingPastedList) {
+                       for (final entry in _originalPastedListTitles.entries) {
+                         _files[entry.key].editedTitle = entry.value;
+                       }
+                       _originalPastedListTitles.clear();
+                       _isPreviewingPastedList = false;
+                     }
+                   });
+                 },
+                 style: ElevatedButton.styleFrom(
+                   padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                   backgroundColor: _showPasteList ? Colors.blue : null,
+                 ),
+                 child: const Text('Paste List'),
+               ),
+             ],
+             const Expanded(
+               child: Center(
+                 child: Text('SubStitcher - Audiobook Encoder'),
+               ),
+             ),
+             if (_files.isNotEmpty) ...[
+               ElevatedButton(
+                 onPressed: () {
+                   setState(() {
+                     _showSearchReplace = !_showSearchReplace;
+                     if (!_showSearchReplace && _isPreviewingReplace) {
+                       for (final entry in _originalReplaceValues.entries) {
+                         _files[entry.key].editedTitle = entry.value;
+                       }
+                       _originalReplaceValues.clear();
+                       _isPreviewingReplace = false;
+                     }
+                   });
+                 },
+                 style: ElevatedButton.styleFrom(
+                   padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                 ),
+                 child: const Text('Replace'),
+               ),
+               const SizedBox(width: 8),
+               ElevatedButton(
+                 onPressed: _applyTitleCase,
+                 style: ElevatedButton.styleFrom(
+                   padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                   minimumSize: const Size(150, 36),
+                 ),
+                 child: Text(_titleCaseHistory != null ? 'Undo Title Case' : 'Apply Title Case'),
+               ),
+               const SizedBox(width: 30),
+             ],
+           ],
+         ),
+         backgroundColor: Theme.of(context).colorScheme.primaryContainer,
+       ),
+       body: _loading
+           ? const Center(child: CircularProgressIndicator())
+           : Column(
+               children: [
+                 if (_showSearchReplace) _buildSearchReplacePanel(),
+                 if (_showPasteList) _buildPasteListPanel(),
+                 if (_files.isNotEmpty) _buildFileListHeader(),
+                 if (_showHissPreview) _buildHissPreviewPanel(),
+                 
+                 Expanded(
+                   child: _files.isEmpty
+                       ? _buildEmptyState()
+                       : _buildFileList(),
+                 ),
+                 
+                 if (_files.isNotEmpty) _buildConfigPanel(),
+                 if (_encoding) _buildProgress(),
+                 _buildActions(),
+               ],
+             ),
+     );
+   } 
   
   Widget _buildSearchReplacePanel() {
     return Container(
@@ -2279,6 +2586,354 @@ class _EncoderScreenState extends State<EncoderScreen> {
     return Text(
       'Audiobook: ${parts.join(', ')}',
       style: const TextStyle(fontWeight: FontWeight.bold),
+    );
+  }
+  
+  Widget _buildPasteListPanel() {
+    final canPreview = _parsedNames.length == _files.length;
+    final countMatch = _parsedNames.length == _files.length;
+    
+    return Container(
+      margin: const EdgeInsets.all(16),
+      padding: const EdgeInsets.all(20),
+      decoration: BoxDecoration(
+        color: const Color(0xFF2A2A2A),
+        borderRadius: BorderRadius.circular(12),
+        border: Border.all(color: Colors.blue),
+      ),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Row(
+            mainAxisAlignment: MainAxisAlignment.spaceBetween,
+            children: [
+              const Row(
+                children: [
+                  Icon(Icons.list, color: Colors.blue, size: 20),
+                  SizedBox(width: 8),
+                  Text(
+                    'Paste List to Rename Files',
+                    style: TextStyle(
+                      color: Colors.white,
+                      fontSize: 16,
+                      fontWeight: FontWeight.bold,
+                    ),
+                  ),
+                ],
+              ),
+              IconButton(
+                icon: const Icon(Icons.close, color: Colors.white70),
+                onPressed: () {
+                  setState(() {
+                    _showPasteList = false;
+                    _isPreviewingPastedList = false;
+                  });
+                },
+                tooltip: 'Close',
+              ),
+            ],
+          ),
+          const SizedBox(height: 16),
+          
+          // Quick load buttons
+          Row(
+            children: [
+              const Text('Quick Load: ', style: TextStyle(color: Colors.white70)),
+              const SizedBox(width: 8),
+              ElevatedButton(
+                onPressed: () => _loadPredefinedList(_surahList),
+                style: ElevatedButton.styleFrom(
+                  backgroundColor: Colors.green,
+                  foregroundColor: Colors.white,
+                  padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                ),
+                child: const Text('Surahs'),
+              ),
+              const SizedBox(width: 8),
+              ElevatedButton(
+                onPressed: () => _loadPredefinedList(_surahArabicList),
+                style: ElevatedButton.styleFrom(
+                  backgroundColor: Colors.green,
+                  foregroundColor: Colors.white,
+                  padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                ),
+                child: const Text('Surahs Arabic'),
+              ),
+              const SizedBox(width: 16),
+              if (_lastPastedList.isNotEmpty) ...[
+                ElevatedButton(
+                  onPressed: () {
+                    setState(() {
+                      _pasteListController.text = _lastPastedList;
+                      _parseList();
+                    });
+                  },
+                  style: ElevatedButton.styleFrom(
+                    backgroundColor: Colors.orange,
+                    foregroundColor: Colors.white,
+                    padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                  ),
+                  child: const Text('Last List'),
+                ),
+              ],
+              if (_secondLastPastedList.isNotEmpty) ...[
+                const SizedBox(width: 8),
+                ElevatedButton(
+                  onPressed: () {
+                    setState(() {
+                      _pasteListController.text = _secondLastPastedList;
+                      _parseList();
+                    });
+                  },
+                  style: ElevatedButton.styleFrom(
+                    backgroundColor: Colors.orange,
+                    foregroundColor: Colors.white,
+                    padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                  ),
+                  child: const Text('2nd Last List'),
+                ),
+              ],
+            ],
+          ),
+          const SizedBox(height: 12),
+          
+          TextField(
+            controller: _pasteListController,
+            decoration: InputDecoration(
+              labelText: 'Paste your list here (one name per line, without file extensions)',
+              labelStyle: const TextStyle(color: Colors.white70),
+              border: const OutlineInputBorder(),
+              filled: true,
+              fillColor: Colors.black26,
+              hintText: 'e.g.:\n001 Al-Fatiha (The opener)\n002 Al-Baqarah (The cow)\n...',
+              hintStyle: const TextStyle(color: Colors.white38, fontSize: 12),
+            ),
+            style: const TextStyle(color: Colors.white),
+            maxLines: 8,
+            onChanged: (_) {
+              _parseList();
+              if (_isPreviewingPastedList) {
+                setState(() {
+                  _isPreviewingPastedList = false;
+                });
+              }
+            },
+          ),
+          const SizedBox(height: 12),
+          
+          Row(
+            children: [
+              Container(
+                padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
+                decoration: BoxDecoration(
+                  color: countMatch ? Colors.green.withValues(alpha: 0.2) : Colors.red.withValues(alpha: 0.2),
+                  borderRadius: BorderRadius.circular(4),
+                  border: Border.all(
+                    color: countMatch ? Colors.green : Colors.red,
+                  ),
+                ),
+                child: Row(
+                  children: [
+                    Icon(
+                      countMatch ? Icons.check_circle : Icons.error,
+                      color: countMatch ? Colors.green : Colors.red,
+                      size: 16,
+                    ),
+                    const SizedBox(width: 8),
+                    Text(
+                      'List: ${_parsedNames.length} lines | Files: ${_files.length}',
+                      style: TextStyle(
+                        color: countMatch ? Colors.green : Colors.red,
+                        fontWeight: FontWeight.bold,
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+              const Spacer(),
+              ElevatedButton(
+                onPressed: canPreview ? () {
+                  setState(() {
+                    _isPreviewingPastedList = !_isPreviewingPastedList;
+                  });
+                } : null,
+                style: ElevatedButton.styleFrom(
+                  padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 12),
+                  backgroundColor: _isPreviewingPastedList ? Colors.orange : Colors.blue,
+                  foregroundColor: Colors.white,
+                ),
+                child: Text(_isPreviewingPastedList ? 'Hide Preview' : 'Show Preview'),
+              ),
+              const SizedBox(width: 8),
+              ElevatedButton(
+                onPressed: canPreview ? _applyPastedList : null,
+                style: ElevatedButton.styleFrom(
+                  padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 12),
+                  backgroundColor: Colors.deepPurple,
+                  foregroundColor: Colors.white,
+                ),
+                child: const Text('Apply'),
+              ),
+            ],
+          ),
+          
+          if (!countMatch && _parsedNames.isNotEmpty) ...[
+            const SizedBox(height: 12),
+            Container(
+              padding: const EdgeInsets.all(12),
+              decoration: BoxDecoration(
+                color: Colors.red.withValues(alpha: 0.1),
+                borderRadius: BorderRadius.circular(8),
+                border: Border.all(color: Colors.red.withValues(alpha: 0.3)),
+              ),
+              child: Row(
+                children: [
+                  const Icon(Icons.warning, color: Colors.red, size: 16),
+                  const SizedBox(width: 8),
+                  Expanded(
+                    child: Text(
+                      'Count mismatch! Adjust your list to have exactly ${_files.length} lines.',
+                      style: const TextStyle(color: Colors.red, fontSize: 12),
+                    ),
+                  ),
+                ],
+              ),
+            ),
+          ],
+          
+          // Preview area
+          if (_isPreviewingPastedList && countMatch) ...[
+            const SizedBox(height: 16),
+            const Divider(color: Colors.white24),
+            const SizedBox(height: 16),
+            const Row(
+              children: [
+                Icon(Icons.preview, color: Colors.blue, size: 20),
+                SizedBox(width: 8),
+                Text(
+                  'Preview: Current → New',
+                  style: TextStyle(
+                    color: Colors.white,
+                    fontSize: 14,
+                    fontWeight: FontWeight.bold,
+                  ),
+                ),
+              ],
+            ),
+            const SizedBox(height: 12),
+            Container(
+              constraints: const BoxConstraints(maxHeight: 300),
+              decoration: BoxDecoration(
+                color: Colors.black26,
+                borderRadius: BorderRadius.circular(8),
+                border: Border.all(color: Colors.blue.withValues(alpha: 0.3)),
+              ),
+              child: ListView.builder(
+                shrinkWrap: true,
+                itemCount: _files.length,
+                itemBuilder: (context, index) {
+                  final file = _files[index];
+                  final currentTitle = file.editedTitle.isNotEmpty 
+                      ? file.editedTitle 
+                      : (_useFilenames ? _getFilenameWithoutExt(file.path) : file.originalTitle);
+                  final newTitle = _parsedNames[index];
+                  final ext = path.extension(file.path);
+                  final isDifferent = currentTitle != newTitle;
+                  
+                  return Container(
+                    padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                    decoration: BoxDecoration(
+                      border: Border(
+                        bottom: BorderSide(
+                          color: Colors.white.withValues(alpha: 0.1),
+                        ),
+                      ),
+                    ),
+                    child: Row(
+                      children: [
+                        SizedBox(
+                          width: 40,
+                          child: Text(
+                            '${index + 1}.',
+                            style: const TextStyle(
+                              color: Colors.white54,
+                              fontSize: 12,
+                            ),
+                          ),
+                        ),
+                        Expanded(
+                          child: Column(
+                            crossAxisAlignment: CrossAxisAlignment.start,
+                            children: [
+                              Row(
+                                children: [
+                                  const Text(
+                                    'Current: ',
+                                    style: TextStyle(
+                                      color: Colors.white54,
+                                      fontSize: 12,
+                                    ),
+                                  ),
+                                  Expanded(
+                                    child: Text(
+                                      currentTitle + ext,
+                                      style: TextStyle(
+                                        color: isDifferent ? Colors.red.shade300 : Colors.white70,
+                                        fontSize: 12,
+                                        decoration: isDifferent ? TextDecoration.lineThrough : null,
+                                      ),
+                                      overflow: TextOverflow.ellipsis,
+                                    ),
+                                  ),
+                                ],
+                              ),
+                              const SizedBox(height: 4),
+                              Row(
+                                children: [
+                                  const Text(
+                                    'New:     ',
+                                    style: TextStyle(
+                                      color: Colors.white54,
+                                      fontSize: 12,
+                                    ),
+                                  ),
+                                  Expanded(
+                                    child: Text(
+                                      newTitle + ext,
+                                      style: TextStyle(
+                                        color: isDifferent ? Colors.green.shade300 : Colors.white70,
+                                        fontSize: 12,
+                                        fontWeight: isDifferent ? FontWeight.bold : null,
+                                      ),
+                                      overflow: TextOverflow.ellipsis,
+                                    ),
+                                  ),
+                                ],
+                              ),
+                            ],
+                          ),
+                        ),
+                        if (isDifferent)
+                          const Icon(
+                            Icons.arrow_forward,
+                            color: Colors.green,
+                            size: 16,
+                          )
+                        else
+                          const Icon(
+                            Icons.check,
+                            color: Colors.white38,
+                            size: 16,
+                          ),
+                      ],
+                    ),
+                  );
+                },
+              ),
+            ),
+          ],
+        ],
+      ),
     );
   }
 }

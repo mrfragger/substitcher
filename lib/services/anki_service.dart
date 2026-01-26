@@ -174,7 +174,7 @@ class AnkiService {
           if (i < fieldNames.length && fieldNames[i].isNotEmpty) {
             fieldName = fieldNames[i];
           } else {
-            fieldName = 'Field ${i + 1}';
+            fieldName = (i + 1).toString();
           }
           
           columns.add(fieldName);
@@ -187,13 +187,10 @@ class AnkiService {
         
         csvBuffer.writeln(columns.map((c) => '"${c.replaceAll('"', '""')}"').join(','));
         
-        
         final previewRows = <Map<String, String>>[];
-        int noteCount = 0;
         
         for (final row in result) {
           final fields = (row['flds'] as String).split('\x1f');
-          final rowData = <String, String>{};
           final csvRow = <String>[];
           final allAudio = <String>[];
           
@@ -220,11 +217,6 @@ class AnkiService {
             
             final audioEscaped = fieldAudioFiles.join('; ').replaceAll('"', '""');
             csvRow.add('"$audioEscaped"');
-            
-            if (i < columns.length ~/ 2) {
-              rowData[columns[i * 2]] = cleaned;
-              rowData[columns[i * 2 + 1]] = fieldAudioFiles.join('; ');
-            }
           }
           
           final allAudioEscaped = allAudio.join('; ').replaceAll('"', '""');
@@ -233,16 +225,34 @@ class AnkiService {
           csvBuffer.writeln(csvRow.join(','));
           
           if (previewRows.length < 15) {
+            final rowData = <String, String>{};
+            for (int i = 0; i < maxFields; i++) {
+              final soundPattern = RegExp(r'\[sound:([^\]]+)\]');
+              final audioMatches = soundPattern.allMatches(fields[i]);
+              final fieldAudioFiles = <String>[];
+              
+              for (final match in audioMatches) {
+                final audioRef = match.group(1)!;
+                final actualFilename = mediaMap[audioRef] ?? audioRef;
+                fieldAudioFiles.add(actualFilename);
+              }
+              
+              String cleaned = _cleanField(fields[i], mediaMap);
+              
+              rowData[columns[i * 2]] = cleaned;
+              rowData[columns[i * 2 + 1]] = fieldAudioFiles.join('; ');
+            }
+            
+            rowData['All_Audio_Files'] = allAudio.join('; ');
             previewRows.add(rowData);
           }
           
-          noteCount++;
         }
         
         await csvFile.writeAsString(csvBuffer.toString());
         print('CSV saved to: $csvPath');
         
-        return {
+        final returnValue = {
           'columns': columns,
           'preview': previewRows,
           'totalNotes': result.length,
@@ -253,12 +263,21 @@ class AnkiService {
           'csvPath': csvPath,
           'extractedCount': extractedCount,
         };
+        
+        return returnValue;
+        
       } finally {
-        db.dispose();
+        db.close();
       }
     } catch (e) {
-      await tempDir.delete(recursive: true);
+      if (await tempDir.exists()) {
+        await tempDir.delete(recursive: true);
+      }
       rethrow;
+    } finally {
+      if (await tempDir.exists()) {
+        await tempDir.delete(recursive: true);
+      }
     }
   }
   
@@ -443,26 +462,22 @@ class AnkiService {
       
       final audioFiles = audioList.split(';').map((s) => s.trim()).where((s) => s.isNotEmpty).toList();
       
-      final existingAudioFiles = <String>[];
       for (final audioFile in audioFiles) {
         final audioPath = path.join(mediaDir, audioFile);
-        if (await File(audioPath).exists()) {
-          existingAudioFiles.add(audioFile);
-        } else {
+        
+        if (!await File(audioPath).exists()) {
           print('Warning: Audio file not found: $audioPath');
+          continue;
         }
+        
+        chapters.add({
+          'front': front.isEmpty ? back : front,
+          'back': back.isEmpty ? front : back,
+          'audioFile': audioFile,
+        });
+        
+        if (chapters.length >= maxNotes) break;
       }
-      
-      if (existingAudioFiles.isEmpty) {
-        print('Warning: Row $i has no valid audio files');
-        continue;
-      }
-      
-      chapters.add({
-        'front': front.isEmpty ? back : front,
-        'back': back.isEmpty ? front : back,
-        'audioFiles': existingAudioFiles,
-      });
       
       if (chapters.length >= maxNotes) break;
     }
@@ -472,7 +487,7 @@ class AnkiService {
     }
     
     print('Found ${chapters.length} chapters to create');
-    onProgress('Processing  ${chapters.length} chapters...', 0.2);
+    onProgress('Processing ${chapters.length} chapters...', 0.2);
     
     final totalChapters = chapters.length;
     int numAudiobooks = 1;
@@ -501,22 +516,13 @@ class AnkiService {
       
       onProgress('Repeating (${audioRepetitions}x) audio chapter ${i + 1}/${chapters.length}', 0.2 + (i / chapters.length) * 0.5);
       
-      final audioFiles = chapter['audioFiles'] as List<String>;
+      final audioFile = chapter['audioFile'] as String;
+      final audioPath = path.join(mediaDir, audioFile);
       
-      if (audioFiles.length == 1) {
-        final audioPath = path.join(mediaDir, audioFiles[0]);
-        
-        if (audioRepetitions == 1) {
-          await _copyOrConvertAudio(audioPath, chapterOutputPath);
-        } else {
-          await _repeatAudio(audioPath, chapterOutputPath, audioRepetitions);
-        }
+      if (audioRepetitions == 1) {
+        await _copyOrConvertAudio(audioPath, chapterOutputPath);
       } else {
-        await _concatenateAndRepeatAudios(
-          audioFiles: audioFiles.map((f) => path.join(mediaDir, f)).toList(),
-          outputPath: chapterOutputPath,
-          repetitions: audioRepetitions,
-        );
+        await _repeatAudio(audioPath, chapterOutputPath, audioRepetitions);
       }
       
       final duration = await _ffmpeg.getAudioDuration(chapterOutputPath);
@@ -636,59 +642,6 @@ class AnkiService {
     
     await Future.delayed(const Duration(milliseconds: 100));
     onProgress('Complete!', 1.0);
-  }
-
-  Future<void> _concatenateAndRepeatAudios({
-    required List<String> audioFiles,
-    required String outputPath,
-    required int repetitions,
-  }) async {
-    await _ffmpeg.ensureBinaries();
-    
-    final tempDir = Directory.systemTemp.createTempSync('audio_concat_');
-    final concatListPath = path.join(tempDir.path, 'concat_list.txt');
-    final tempConcatPath = path.join(tempDir.path, 'concatenated.opus');
-    
-    try {
-      final concatList = StringBuffer();
-      for (final audioFile in audioFiles) {
-        concatList.writeln("file '${audioFile.replaceAll("'", "'\\''")}'");
-      }
-      await File(concatListPath).writeAsString(concatList.toString());
-      
-      var result = await Process.run(_ffmpeg.ffmpegPath!, [
-        '-y',
-        '-f', 'concat',
-        '-safe', '0',
-        '-i', concatListPath,
-        '-c:a', 'libopus',
-        '-b:a', '32k',
-        tempConcatPath,
-      ]);
-      
-      if (result.exitCode != 0) {
-        throw Exception('Failed to concatenate audio files: ${result.stderr}');
-      }
-      
-      if (repetitions == 1) {
-        await File(tempConcatPath).copy(outputPath);
-      } else {
-        result = await Process.run(_ffmpeg.ffmpegPath!, [
-          '-y',
-          '-stream_loop', '${repetitions - 1}',
-          '-i', tempConcatPath,
-          '-c:a', 'libopus',
-          '-b:a', '32k',
-          outputPath,
-        ]);
-        
-        if (result.exitCode != 0) {
-          throw Exception('Failed to repeat concatenated audio: ${result.stderr}');
-        }
-      }
-    } finally {
-      await tempDir.delete(recursive: true);
-    }
   }
   
   Future<void> _copyOrConvertAudio(String inputPath, String outputPath) async {

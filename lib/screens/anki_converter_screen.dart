@@ -291,19 +291,10 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
                       ..onTap = () => _launchUrl('https://ankiweb.net'),
                   ),
                   const TextSpan(
-                    text: ' using an email address\n',
-                  ),
-                  const TextSpan(
-                    text: 'click Get Shared Decks and find one containing audio\n',
+                    text: ' using an email address, click Get Shared Decks and find one containing audio\n',
                   ),
                   const TextSpan(
                     text: 'Automatically splits into multiple audiobooks if more than 999 chapters (audios)\n',
-                  ),
-                  const TextSpan(
-                    text: 'Repeat 1 time: front only, 2 times: front, back\n',
-                  ),
-                  const TextSpan(
-                    text: 'Repeat 3 times: front 2x, back, 4 times: front 2x, back 2x',
                   ),
                 ],
               ),
@@ -1151,41 +1142,61 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
           
           const SizedBox(height: 16),
           
-          Row(
-            children: [
-              Expanded(
-                child: Column(
-                  crossAxisAlignment: CrossAxisAlignment.start,
-                  children: [
-                    const Text(
-                      'Audio Repetitions',
-                      style: TextStyle(color: Colors.white70, fontSize: 14),
+            Row(
+                children: [
+                  Expanded(
+                    child: Column(
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: [
+                        const Text(
+                          'Audio Repetitions',
+                          style: TextStyle(color: Colors.white70, fontSize: 14),
+                        ),
+                        const SizedBox(height: 8),
+                        DropdownButtonFormField<int>(
+                          initialValue: _audioRepetitions,
+                          decoration: const InputDecoration(
+                            filled: true,
+                            fillColor: Colors.black26,
+                            border: OutlineInputBorder(),
+                          ),
+                          dropdownColor: const Color(0xFF1E1E1E),
+                          style: const TextStyle(color: Colors.white),
+                          items: [
+                            const DropdownMenuItem(
+                              value: 1,
+                              child: Text('1 time: front 1x only'),
+                            ),
+                            const DropdownMenuItem(
+                              value: 2,
+                              child: Text('2 times: front 1x, back 1x'),
+                            ),
+                            const DropdownMenuItem(
+                              value: 3,
+                              child: Text('3 times: front 2x, back 1x'),
+                            ),
+                            const DropdownMenuItem(
+                              value: 4,
+                              child: Text('4 times: front 2x, back 2x'),
+                            ),
+                            const DropdownMenuItem(
+                              value: 5,
+                              child: Text('5 times: front 3x, back 2x'),
+                            ),
+                            const DropdownMenuItem(
+                              value: 6,
+                              child: Text('6 times: front 3x, back 3x'),
+                            ),
+                          ],
+                          onChanged: (value) {
+                            setState(() {
+                              _audioRepetitions = value!;
+                            });
+                          },
+                        ),
+                      ],
                     ),
-                    const SizedBox(height: 8),
-                    DropdownButtonFormField<int>(
-                      initialValue: _audioRepetitions,
-                      decoration: const InputDecoration(
-                        filled: true,
-                        fillColor: Colors.black26,
-                        border: OutlineInputBorder(),
-                      ),
-                      dropdownColor: const Color(0xFF1E1E1E),
-                      style: const TextStyle(color: Colors.white),
-                      items: [1, 2, 3, 4, 5, 6].map((times) {
-                        return DropdownMenuItem(
-                          value: times,
-                          child: Text('$times times'),
-                        );
-                      }).toList(),
-                      onChanged: (value) {
-                        setState(() {
-                          _audioRepetitions = value!;
-                        });
-                      },
-                    ),
-                  ],
-                ),
-              ),
+                  ),    
               const SizedBox(width: 16),
               Expanded(
                 child: Column(

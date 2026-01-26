@@ -126,14 +126,15 @@ Opus chaptered encoder, editor and player with colored subtitles and fancy fonts
 - each missing and each alternate font, subs must be converted
 - ligature demo fonts, subs need converting only once
 - alternates don't work with mixed CJK and Latin text on same subtitle line
+- choose own custom folder for own fonts
 
 ![](images/fonts.jpg)
 
 ### Colors
-- 500 color palettes
+- 500+ color palettes
 - choose between coloring words or letters
 - 20 and 12 colors per palette
-- 90 Simple Palettes (one font color with a shadow color)
+- 94 Simple Palettes (one font color with a shadow color)
 - monochromatic, food palettes
 - letters work with alternates but not with ligatures
 
