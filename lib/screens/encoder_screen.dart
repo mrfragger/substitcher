@@ -1176,10 +1176,6 @@ class _EncoderScreenState extends State<EncoderScreen> {
       _statusMessage = 'Starting...';
     });
     
-    print('DEBUG: _removeSilence = $_removeSilence');
-    print('DEBUG: _silenceDb = $_silenceDb');
-    print('DEBUG: _removeHiss = $_removeHiss');
-    
     try {
       final config = EncodingConfig(
         bitrate: _bitrate,
@@ -1190,10 +1186,6 @@ class _EncoderScreenState extends State<EncoderScreen> {
         title: _titleController.text,
         year: _yearController.text,
       );
-      
-      print('DEBUG: config.removeSilence = ${config.removeSilence}');
-      print('DEBUG: config.silenceDb = ${config.silenceDb}');
-      print('DEBUG: Filter string = ${config.buildFilterString()}');
       
       final firstFilePath = _files[0].path;
       final sourceDir = path.dirname(firstFilePath);
@@ -1304,6 +1296,29 @@ class _EncoderScreenState extends State<EncoderScreen> {
       
       final splits = _calculateAudiobookSplits(encodedFiles);
       
+      if (splits.length > 1) {
+        setState(() {
+          _statusMessage = 'Organizing chapters into subdirectories...';
+        });
+        
+        for (int splitIndex = 0; splitIndex < splits.length; splitIndex++) {
+          final split = splits[splitIndex];
+          final splitDir = path.join(outputDir, 'encodedchapters_${splitIndex + 1}');
+          Directory(splitDir).createSync(recursive: true);
+          
+          for (final filePath in split['files']) {
+            final fileName = path.basename(filePath);
+            final newPath = path.join(splitDir, fileName);
+            await File(filePath).rename(newPath);
+            
+            final fileIndex = (split['files'] as List<String>).indexOf(filePath);
+            (split['files'] as List<String>)[fileIndex] = newPath;
+          }
+        }
+        
+        await Directory(encodedChaptersDir).delete();
+      }
+      
       for (int splitIndex = 0; splitIndex < splits.length; splitIndex++) {
         final split = splits[splitIndex];
         final splitTitle = splits.length > 1 
@@ -1362,7 +1377,7 @@ class _EncoderScreenState extends State<EncoderScreen> {
       });
       _showError('Encoding failed: $e');
     }
-  }
+  }  
   
   Map<String, dynamic> _calculateSplitPlan() {
     final totalHours = _totalDuration.inHours;
@@ -1372,12 +1387,12 @@ class _EncoderScreenState extends State<EncoderScreen> {
     int targetHoursPerBook = totalHours;
     
     if (totalHours >= 100) {
-      numBooks = ((totalHours + 99) / 100).ceil();
+      numBooks = (totalHours / 100).ceil();
       targetHoursPerBook = (totalHours / numBooks).ceil();
     }
     
     if (totalChapters > 999) {
-      final booksNeededForChapters = ((totalChapters + 998) / 999).ceil();
+      final booksNeededForChapters = (totalChapters / 999).ceil();
       if (booksNeededForChapters > numBooks) {
         numBooks = booksNeededForChapters;
         targetHoursPerBook = (totalHours / numBooks).ceil();
@@ -1393,6 +1408,58 @@ class _EncoderScreenState extends State<EncoderScreen> {
   }
   
   Future<bool> _showSplitConfirmationDialog(Map<String, dynamic> plan) async {
+    final totalDuration = _totalDuration;
+    final numBooks = plan['numBooks'] as int;
+    final targetDurationPerBook = totalDuration ~/ numBooks;
+    
+    final splitPreviews = <Map<String, dynamic>>[];
+    int currentStartIndex = 0;
+    
+    for (int bookIndex = 0; bookIndex < numBooks; bookIndex++) {
+      final isLastBook = bookIndex == numBooks - 1;
+      int currentEndIndex = currentStartIndex;
+      Duration bookDuration = Duration.zero;
+      
+      for (int i = currentStartIndex; i < _files.length; i++) {
+        final chapterDuration = _files[i].duration;
+        final potentialDuration = bookDuration + chapterDuration;
+        
+        if (isLastBook) {
+          currentEndIndex = i;
+          bookDuration = potentialDuration;
+        } else {
+          if (potentialDuration > targetDurationPerBook && i > currentStartIndex) {
+            final smartEndIndex = _findSmartSplitPoint(i - 1, targetDurationPerBook, bookDuration);
+            currentEndIndex = smartEndIndex;
+            
+            bookDuration = Duration.zero;
+            for (int j = currentStartIndex; j <= currentEndIndex; j++) {
+              bookDuration += _files[j].duration;
+            }
+            break;
+          } else {
+            currentEndIndex = i;
+            bookDuration = potentialDuration;
+          }
+        }
+      }
+      
+      final chapterCount = currentEndIndex - currentStartIndex + 1;
+      
+      splitPreviews.add({
+        'bookNumber': bookIndex + 1,
+        'startIndex': currentStartIndex,
+        'endIndex': currentEndIndex,
+        'startChapter': _files[currentStartIndex].displayTitle,
+        'endChapter': _files[currentEndIndex].displayTitle,
+        'chapterCount': chapterCount,
+        'duration': bookDuration,
+      });
+      
+      currentStartIndex = currentEndIndex + 1;
+      if (currentStartIndex >= _files.length) break;
+    }
+    
     final result = await showDialog<bool>(
       context: context,
       builder: (context) => AlertDialog(
@@ -1408,91 +1475,175 @@ class _EncoderScreenState extends State<EncoderScreen> {
           ],
         ),
         content: Container(
-          constraints: const BoxConstraints(maxWidth: 500),
-          child: Column(
-            mainAxisSize: MainAxisSize.min,
-            crossAxisAlignment: CrossAxisAlignment.start,
-            children: [
-              Text(
-                'Your content will be split into ${plan['numBooks']} audiobooks:',
-                style: const TextStyle(color: Colors.white70, fontSize: 14),
-              ),
-              const SizedBox(height: 16),
-              Container(
-                padding: const EdgeInsets.all(16),
-                decoration: BoxDecoration(
-                  color: Colors.black26,
-                  borderRadius: BorderRadius.circular(8),
+          constraints: const BoxConstraints(maxWidth: 700),
+          child: SingleChildScrollView(
+            child: Column(
+              mainAxisSize: MainAxisSize.min,
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Text(
+                  'Your content will be split into ${plan['numBooks']} audiobooks:',
+                  style: const TextStyle(color: Colors.white70, fontSize: 14),
                 ),
-                child: Column(
-                  crossAxisAlignment: CrossAxisAlignment.start,
-                  children: [
-                    Row(
-                      mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                      children: [
-                        const Text(
-                          'Total Duration:',
-                          style: TextStyle(color: Colors.white54, fontSize: 12),
-                        ),
-                        Text(
-                          '${plan['totalHours']}h',
-                          style: const TextStyle(color: Colors.lightBlue, fontSize: 12, fontWeight: FontWeight.bold),
-                        ),
-                      ],
-                    ),
-                    const SizedBox(height: 8),
-                    Row(
-                      mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                      children: [
-                        const Text(
-                          'Total Chapters:',
-                          style: TextStyle(color: Colors.white54, fontSize: 12),
-                        ),
-                        Text(
-                          '${plan['totalChapters']}',
-                          style: const TextStyle(color: Colors.lightBlue, fontSize: 12, fontWeight: FontWeight.bold),
-                        ),
-                      ],
-                    ),
-                    const SizedBox(height: 8),
-                    Row(
-                      mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                      children: [
-                        const Text(
-                          'Target per book:',
-                          style: TextStyle(color: Colors.white54, fontSize: 12),
-                        ),
-                        Text(
-                          '~${plan['targetHoursPerBook']}h',
-                          style: const TextStyle(color: Colors.green, fontSize: 12, fontWeight: FontWeight.bold),
-                        ),
-                      ],
-                    ),
-                  ],
-                ),
-              ),
-              const SizedBox(height: 16),
-              Container(
-                padding: const EdgeInsets.all(12),
-                decoration: BoxDecoration(
-                  color: Colors.blue.withOpacity(0.1),
-                  borderRadius: BorderRadius.circular(8),
-                  border: Border.all(color: Colors.blue.withOpacity(0.3)),
-                ),
-                child: const Row(
-                  children: [
-                    Icon(Icons.info_outline, color: Colors.blue, size: 16),
-                    SizedBox(width: 8),
-                    Expanded(
-                      child: Text(
-                        'Splits will avoid breaking multi-part chapters when possible',
-                        style: TextStyle(color: Colors.blue, fontSize: 11),
+                const SizedBox(height: 16),
+                Container(
+                  padding: const EdgeInsets.all(16),
+                  decoration: BoxDecoration(
+                    color: Colors.black26,
+                    borderRadius: BorderRadius.circular(8),
+                  ),
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      Row(
+                        mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                        children: [
+                          const Text(
+                            'Total Duration:',
+                            style: TextStyle(color: Colors.white54, fontSize: 12),
+                          ),
+                          Text(
+                            '${plan['totalHours']}h',
+                            style: const TextStyle(color: Colors.lightBlue, fontSize: 12, fontWeight: FontWeight.bold),
+                          ),
+                        ],
                       ),
-                    ),
-                  ],
+                      const SizedBox(height: 8),
+                      Row(
+                        mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                        children: [
+                          const Text(
+                            'Total Chapters:',
+                            style: TextStyle(color: Colors.white54, fontSize: 12),
+                          ),
+                          Text(
+                            '${plan['totalChapters']}',
+                            style: const TextStyle(color: Colors.lightBlue, fontSize: 12, fontWeight: FontWeight.bold),
+                          ),
+                        ],
+                      ),
+                      const SizedBox(height: 8),
+                      Row(
+                        mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                        children: [
+                          const Text(
+                            'Target per book:',
+                            style: TextStyle(color: Colors.white54, fontSize: 12),
+                          ),
+                          Text(
+                            '~${plan['targetHoursPerBook']}h',
+                            style: const TextStyle(color: Colors.green, fontSize: 12, fontWeight: FontWeight.bold),
+                          ),
+                        ],
+                      ),
+                    ],
+                  ),
                 ),
-              ),
-            ],
+                const SizedBox(height: 16),
+                const Text(
+                  'Split Preview:',
+                  style: TextStyle(
+                    color: Colors.white,
+                    fontSize: 14,
+                    fontWeight: FontWeight.bold,
+                  ),
+                ),
+                const SizedBox(height: 12),
+                ...splitPreviews.map((split) => Container(
+                  margin: const EdgeInsets.only(bottom: 12),
+                  padding: const EdgeInsets.all(12),
+                  decoration: BoxDecoration(
+                    color: Colors.black26,
+                    borderRadius: BorderRadius.circular(8),
+                    border: Border.all(color: Colors.deepPurple.withValues(alpha: 0.5)),
+                  ),
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      Row(
+                        mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                        children: [
+                          Text(
+                            'Audiobook ${split['bookNumber']}',
+                            style: const TextStyle(
+                              color: Colors.deepPurple,
+                              fontSize: 13,
+                              fontWeight: FontWeight.bold,
+                            ),
+                          ),
+                          Text(
+                            '${split['chapterCount']} chapters • ${_formatDuration(split['duration'] as Duration)}',
+                            style: const TextStyle(
+                              color: Colors.white54,
+                              fontSize: 11,
+                            ),
+                          ),
+                        ],
+                      ),
+                      const SizedBox(height: 8),
+                      Row(
+                        children: [
+                          const SizedBox(
+                            width: 60,
+                            child: Text(
+                              'First:',
+                              style: TextStyle(color: Colors.white38, fontSize: 11),
+                            ),
+                          ),
+                          Expanded(
+                            child: Text(
+                              '${split['startIndex'] + 1}. ${split['startChapter']}',
+                              style: const TextStyle(color: Colors.white70, fontSize: 11),
+                              overflow: TextOverflow.ellipsis,
+                            ),
+                          ),
+                        ],
+                      ),
+                      const SizedBox(height: 4),
+                      Row(
+                        children: [
+                          const SizedBox(
+                            width: 60,
+                            child: Text(
+                              'Last:',
+                              style: TextStyle(color: Colors.white38, fontSize: 11),
+                            ),
+                          ),
+                          Expanded(
+                            child: Text(
+                              '${split['endIndex'] + 1}. ${split['endChapter']}',
+                              style: const TextStyle(color: Colors.white70, fontSize: 11),
+                              overflow: TextOverflow.ellipsis,
+                            ),
+                          ),
+                        ],
+                      ),
+                    ],
+                  ),
+                )),
+                const SizedBox(height: 8),
+                Container(
+                  padding: const EdgeInsets.all(12),
+                  decoration: BoxDecoration(
+                    color: Colors.blue.withValues(alpha: 0.1),
+                    borderRadius: BorderRadius.circular(8),
+                    border: Border.all(color: Colors.blue.withValues(alpha: 0.3)),
+                  ),
+                  child: const Row(
+                    children: [
+                      Icon(Icons.info_outline, color: Colors.blue, size: 16),
+                      SizedBox(width: 8),
+                      Expanded(
+                        child: Text(
+                          'Splits will avoid breaking multi-part chapters when possible',
+                          style: TextStyle(color: Colors.blue, fontSize: 11),
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+              ],
+            ),
           ),
         ),
         actions: [
@@ -1530,11 +1681,13 @@ class _EncoderScreenState extends State<EncoderScreen> {
     }
     
     int numBooks = 1;
+    
     if (totalHours >= 100) {
-      numBooks = ((totalHours + 99) / 100).ceil();
+      numBooks = (totalHours / 100).ceil();
     }
+    
     if (totalChapters > 999) {
-      final booksNeededForChapters = ((totalChapters + 998) / 999).ceil();
+      final booksNeededForChapters = (totalChapters / 999).ceil();
       if (booksNeededForChapters > numBooks) {
         numBooks = booksNeededForChapters;
       }
@@ -2105,45 +2258,71 @@ class _EncoderScreenState extends State<EncoderScreen> {
   
   
   Widget _buildTitleWithHighlights(String displayTitle, String originalTitle) {
-      if (displayTitle == originalTitle) {
-        return Text(
-          displayTitle,
-          style: const TextStyle(fontSize: 14),
-        );
+    if (displayTitle == originalTitle) {
+      return Text(
+        displayTitle,
+        style: const TextStyle(fontSize: 14),
+      );
+    }
+    
+    final isCaseOnlyChange = displayTitle.toLowerCase() == originalTitle.toLowerCase();
+    
+    if (isCaseOnlyChange) {
+      final spans = <InlineSpan>[];
+      
+      for (int i = 0; i < displayTitle.length; i++) {
+        final char = displayTitle[i];
+        final isChanged = i < originalTitle.length && 
+                         char != originalTitle[i] &&
+                         char.toLowerCase() == originalTitle[i].toLowerCase();
+        
+        spans.add(TextSpan(
+          text: char,
+          style: TextStyle(
+            fontSize: 14,
+            color: isChanged ? Colors.green : null,
+            fontWeight: isChanged ? FontWeight.bold : null,
+          ),
+        ));
       }
       
+      return RichText(
+        text: TextSpan(
+          style: TextStyle(
+            fontSize: 14,
+            color: Theme.of(context).textTheme.bodyMedium?.color,
+          ),
+          children: spans,
+        ),
+      );
+    } else {
       final spans = <InlineSpan>[];
-      int displayIndex = 0;
-      int originalIndex = 0;
+      final displayWords = displayTitle.split(' ');
+      final originalWords = originalTitle.split(' ');
       
-      while (displayIndex < displayTitle.length) {
-        if (originalIndex < originalTitle.length &&
-            displayTitle[displayIndex] == originalTitle[originalIndex]) {
+      for (int i = 0; i < displayWords.length; i++) {
+        final displayWord = displayWords[i];
+        final originalWord = i < originalWords.length ? originalWords[i] : '';
+        
+        if (i > 0) {
+          spans.add(const TextSpan(text: ' '));
+        }
+        
+        if (displayWord == originalWord) {
           spans.add(TextSpan(
-            text: displayTitle[displayIndex],
+            text: displayWord,
             style: const TextStyle(fontSize: 14),
           ));
-          displayIndex++;
-          originalIndex++;
         } else {
-          final isJustCaseChange = originalIndex < originalTitle.length &&
-              displayTitle[displayIndex].toLowerCase() == 
-              originalTitle[originalIndex].toLowerCase();
-          
           spans.add(TextSpan(
-            text: displayTitle[displayIndex],
+            text: displayWord,
             style: TextStyle(
               fontSize: 14,
               color: Colors.green,
               fontWeight: FontWeight.bold,
-              backgroundColor: isJustCaseChange ? null : Colors.green.withValues(alpha: 0.2),
+              backgroundColor: Colors.green.withValues(alpha: 0.2),
             ),
           ));
-          displayIndex++;
-          
-          if (isJustCaseChange) {
-            originalIndex++;
-          }
         }
       }
       
@@ -2157,6 +2336,7 @@ class _EncoderScreenState extends State<EncoderScreen> {
         ),
       );
     }
+  }
   
   Widget _buildConfigPanel() {
     return Container(

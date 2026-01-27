@@ -1,9 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:file_picker/file_picker.dart';
 import 'dart:io';
-import 'dart:convert';
 import 'package:path/path.dart' as path;
-import 'package:flutter/services.dart';
 import '../services/ffmpeg_service.dart';
 import '../models/audiobook_metadata.dart';
 
@@ -46,11 +44,24 @@ class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
   
   String _debugInfo = '';
 
+  bool _showSearchReplace = false;
+  bool _useRegex = false;
+  final _searchController = TextEditingController();
+  final _replaceController = TextEditingController();
+  bool _isPreviewingReplace = false;
+  Map<int, String> _originalReplaceValues = {};
+
+  AudiobookMetadataEdit? _titleCaseHistory;
+  String? _titleCaseAuthor;
+  String? _titleCaseTitle;
+
   @override
   void dispose() {
     _authorController.dispose();
     _titleController.dispose();
     _yearController.dispose();
+    _searchController.dispose();
+    _replaceController.dispose();
     super.dispose();
   }
 
@@ -286,12 +297,69 @@ class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
     
     final nonWhitespace = parts.where((p) => p.trim().isNotEmpty).toList();
     
-    return parts.map((part) {
+    return parts.asMap().entries.map((entry) {
+      final idx = entry.key;
+      final part = entry.value;
+      
       if (part.trim().isEmpty) return part;
       
       final word = part;
       final isFirstWord = word == nonWhitespace.first;
       final isLastWord = word == nonWhitespace.last;
+      
+      // Check if previous non-whitespace word ends with digits
+      if (idx > 0) {
+        for (int i = idx - 1; i >= 0; i--) {
+          if (parts[i].trim().isNotEmpty) {
+            if (RegExp(r'\d$').hasMatch(parts[i])) {
+              return word[0].toUpperCase() + word.substring(1).toLowerCase();
+            }
+            break;
+          }
+        }
+      }
+      
+      if (idx > 0) {
+        final prevPart = parts[idx - 1];
+        if (prevPart.contains(':') || prevPart.contains('：') || 
+            (idx > 1 && (parts[idx - 2].contains(':') || parts[idx - 2].contains('：')))) {
+          return word[0].toUpperCase() + word.substring(1).toLowerCase();
+        }
+      }
+      
+      if (word.startsWith('"') || word.startsWith('＂')) {
+        if (word.length > 1) {
+          final openQuote = word[0];
+          return openQuote + word[1].toUpperCase() + word.substring(2).toLowerCase();
+        }
+      }
+      
+      if (idx > 0) {
+        final prevPart = parts[idx - 1];
+        if (prevPart == '"' || prevPart == '＂' || 
+            (prevPart.trim().isEmpty && idx > 1 && (parts[idx - 2] == '"' || parts[idx - 2] == '＂'))) {
+          return word[0].toUpperCase() + word.substring(1).toLowerCase();
+        }
+      }
+      
+      if (!isFirstWord && nonWhitespace.isNotEmpty) {
+        final prevIndex = nonWhitespace.indexOf(word) - 1;
+        if (prevIndex >= 0) {
+          final prevWord = nonWhitespace[prevIndex];
+          if (prevWord == nonWhitespace.first && 
+              RegExp(r'^\d+\.?$').hasMatch(prevWord)) {
+            return word[0].toUpperCase() + word.substring(1).toLowerCase();
+          }
+          
+          if (prevWord.contains(':') || prevWord.contains('：')) {
+            return word[0].toUpperCase() + word.substring(1).toLowerCase();
+          }
+          
+          if (prevWord == '"' || prevWord == '＂' || prevWord.endsWith('"') || prevWord.endsWith('＂')) {
+            return word[0].toUpperCase() + word.substring(1).toLowerCase();
+          }
+        }
+      }
       
       if (RegExp(r'^[Aa][dlnstrz]-').hasMatch(word)) {
         final prefix = word.substring(0, 3);
@@ -324,11 +392,45 @@ class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
   }
 
   void _applyTitleCase() {
-    setState(() {
-      _authorController.text = _titleCaseString(_authorController.text);
-      _titleController.text = _titleCaseString(_titleController.text);
-      
-      if (_metadata != null) {
+      if (_titleCaseHistory != null) {
+        setState(() {
+          _metadata = _titleCaseHistory;
+          _titleCaseHistory = null;
+          
+          if (_titleCaseAuthor != null) {
+            _authorController.text = _titleCaseAuthor!;
+            _titleCaseAuthor = null;
+          }
+          if (_titleCaseTitle != null) {
+            _titleController.text = _titleCaseTitle!;
+            _titleCaseTitle = null;
+          }
+        });
+        return;
+      }
+  
+      setState(() {
+        _titleCaseHistory = AudiobookMetadataEdit(
+          author: _metadata!.author,
+          title: _metadata!.title,
+          year: _metadata!.year,
+          chapters: _metadata!.chapters.map((c) => Chapter(
+            index: c.index,
+            title: c.title,
+            startTime: c.startTime,
+            endTime: c.endTime,
+            duration: c.duration,
+          )).toList(),
+        );
+        _titleCaseAuthor = _authorController.text;
+        _titleCaseTitle = _titleController.text;
+        
+        _authorController.text = _titleCaseString(_authorController.text);
+        _titleController.text = _titleCaseString(_titleController.text);
+        
+        _metadata!.author = _authorController.text;
+        _metadata!.title = _titleController.text;
+        
         _metadata!.chapters = _metadata!.chapters.map((chapter) {
           return Chapter(
             index: chapter.index,
@@ -338,8 +440,431 @@ class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
             duration: chapter.duration,
           );
         }).toList();
+      });
+    }
+
+  void _toggleReplacePreview() {
+    if (_searchController.text.isEmpty) {
+      _showError('Please enter a search term');
+      return;
+    }
+    
+    if (_metadata == null || _metadata!.chapters.isEmpty) {
+      _showError('No chapters to preview');
+      return;
+    }
+    
+    setState(() {
+      if (_isPreviewingReplace) {
+        for (final entry in _originalReplaceValues.entries) {
+          final chapter = _metadata!.chapters[entry.key];
+          _metadata!.chapters[entry.key] = Chapter(
+            index: chapter.index,
+            title: entry.value,
+            startTime: chapter.startTime,
+            endTime: chapter.endTime,
+            duration: chapter.duration,
+          );
+        }
+        _originalReplaceValues.clear();
+        _isPreviewingReplace = false;
+      } else {
+        _originalReplaceValues.clear();
+        
+        for (int i = 0; i < _metadata!.chapters.length; i++) {
+          final chapter = _metadata!.chapters[i];
+          final currentTitle = chapter.title;
+          
+          String newTitle;
+          if (_useRegex) {
+            try {
+              final regex = RegExp(_searchController.text);
+              if (regex.hasMatch(currentTitle)) {
+                _originalReplaceValues[i] = currentTitle;
+                newTitle = currentTitle.replaceAllMapped(
+                  regex,
+                  (match) {
+                    String result = _replaceController.text;
+                    for (int j = 0; j <= match.groupCount; j++) {
+                      result = result.replaceAll('\$$j', match.group(j) ?? '');
+                    }
+                    return result;
+                  },
+                );
+                _metadata!.chapters[i] = Chapter(
+                  index: chapter.index,
+                  title: newTitle,
+                  startTime: chapter.startTime,
+                  endTime: chapter.endTime,
+                  duration: chapter.duration,
+                );
+              }
+            } catch (e) {
+              _showError('Invalid regex pattern: $e');
+              setState(() {
+                for (final entry in _originalReplaceValues.entries) {
+                  final ch = _metadata!.chapters[entry.key];
+                  _metadata!.chapters[entry.key] = Chapter(
+                    index: ch.index,
+                    title: entry.value,
+                    startTime: ch.startTime,
+                    endTime: ch.endTime,
+                    duration: ch.duration,
+                  );
+                }
+                _originalReplaceValues.clear();
+                _isPreviewingReplace = false;
+              });
+              return;
+            }
+          } else {
+            if (currentTitle.contains(_searchController.text)) {
+              _originalReplaceValues[i] = currentTitle;
+              newTitle = currentTitle.replaceAll(_searchController.text, _replaceController.text);
+              _metadata!.chapters[i] = Chapter(
+                index: chapter.index,
+                title: newTitle,
+                startTime: chapter.startTime,
+                endTime: chapter.endTime,
+                duration: chapter.duration,
+              );
+            }
+          }
+        }
+        
+        _isPreviewingReplace = true;
       }
     });
+  }
+  
+  void _applySearchReplace() {
+    if (_searchController.text.isEmpty) {
+      _showError('Please enter a search term');
+      return;
+    }
+    
+    if (_metadata == null || _metadata!.chapters.isEmpty) {
+      _showError('No chapters to modify');
+      return;
+    }
+    
+    setState(() {
+      if (!_isPreviewingReplace) {
+        for (int i = 0; i < _metadata!.chapters.length; i++) {
+          final chapter = _metadata!.chapters[i];
+          final currentTitle = chapter.title;
+          
+          String newTitle;
+          if (_useRegex) {
+            try {
+              final regex = RegExp(_searchController.text);
+              newTitle = currentTitle.replaceAllMapped(
+                regex,
+                (match) {
+                  String result = _replaceController.text;
+                  for (int j = 0; j <= match.groupCount; j++) {
+                    result = result.replaceAll('\$$j', match.group(j) ?? '');
+                  }
+                  return result;
+                },
+              );
+            } catch (e) {
+              _showError('Invalid regex pattern: $e');
+              return;
+            }
+          } else {
+            newTitle = currentTitle.replaceAll(_searchController.text, _replaceController.text);
+          }
+          
+          _metadata!.chapters[i] = Chapter(
+            index: chapter.index,
+            title: newTitle,
+            startTime: chapter.startTime,
+            endTime: chapter.endTime,
+            duration: chapter.duration,
+          );
+        }
+      }
+      
+      _originalReplaceValues.clear();
+      _isPreviewingReplace = false;
+    });
+    
+    _showSuccess('Replacements applied');
+  }
+
+  void _showRegexHelp() {
+    showDialog(
+      context: context,
+      builder: (context) => AlertDialog(
+        title: const Row(
+          children: [
+            Icon(Icons.help_outline, color: Colors.deepPurple),
+            SizedBox(width: 8),
+            Text('Search & Replace Examples'),
+          ],
+        ),
+        content: SingleChildScrollView(
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              _buildHelpSection(
+                'Simple Pattern Matching',
+                [
+                  _HelpExample('Chapter \\d+', 'Matches "Chapter " + any number'),
+                  _HelpExample('Part \\d+', 'Matches "Part " + any number'),
+                  _HelpExample('^\\d+', 'Matches numbers at start of title'),
+                  _HelpExample('\\d+\\.', 'Matches numbers with a period'),
+                ],
+              ),
+              const Divider(height: 24),
+              _buildHelpSection(
+                'Simple Text Changes',
+                [
+                  _HelpExample('Search: \\sThe\\s', 'Replace: " the " - Change "The" to "the" (middle only)'),
+                  _HelpExample('Search: \\sAnd\\s', 'Replace: " and " - Change "And" to "and" (middle only)'),
+                  _HelpExample('Search: (?<!^)\\bThe\\b(?!\$)', 'Replace: the - Change "The" to "the" (not at start/end)'),
+                  _HelpExample('Search: (?<!^)\\bAnd\\b(?!\$)', 'Replace: and - Change "And" to "and" (not at start/end)'),
+                ],
+              ),
+              const Divider(height: 24),
+              _buildHelpSection(
+                'Removing Unwanted Text',
+                [
+                  _HelpExample(' - Copy\$', 'Remove " - Copy" at the end'),
+                  _HelpExample('^\\d+\\s*-\\s*', 'Remove "01 - " from start'),
+                  _HelpExample('\\(.*?\\)', 'Remove anything in ( )'),
+                  _HelpExample('\\[.*?\\]', 'Remove anything in [ ]'),
+                ],
+              ),
+              const Divider(height: 24),
+              _buildHelpSection(
+                'Adding/Formatting',
+                [
+                  _HelpExample('Search: ^(\\d+)', 'Replace: Chapter \$1'),
+                  _HelpExample('Search: ^', 'Replace: Part 1 - '),
+                  _HelpExample('Search: \$', 'Replace:  (Unabridged)'),
+                ],
+              ),
+              const Divider(height: 24),
+              _buildHelpSection(
+                'Cleaning Up',
+                [
+                  _HelpExample('\\s+ → (space)', 'Multiple spaces to one'),
+                  _HelpExample('_ → (space)', 'Underscores to spaces'),
+                  _HelpExample('- →  -  ', 'Add spaces around dashes'),
+                ],
+              ),
+              const Divider(height: 24),
+              const Text(
+                'Tips:',
+                style: TextStyle(fontWeight: FontWeight.bold, fontSize: 14),
+              ),
+              const SizedBox(height: 8),
+              const Text(
+                '• Use \\d for any digit (0-9)\n'
+                '• Use ^ for start of text\n'
+                '• Use \$ for end of text\n'
+                '• Use \\s for whitespace\n'
+                '• Use . for any character\n'
+                '• Use * for zero or more\n'
+                '• Use + for one or more\n'
+                '• Use ? for zero or one\n'
+                '• Use \\. \\? \\* to match literal characters\n'
+                '• Use (group) and \$1 in replace for capture groups',
+                style: TextStyle(fontSize: 12),
+              ),
+            ],
+          ),
+        ),
+        actions: [
+          TextButton(
+            onPressed: () => Navigator.pop(context),
+            child: const Text('Close'),
+          ),
+        ],
+      ),
+    );
+  }
+  
+  Widget _buildHelpSection(String title, List<_HelpExample> examples) {
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        Text(
+          title,
+          style: const TextStyle(
+            fontWeight: FontWeight.bold,
+            fontSize: 14,
+            color: Colors.purple,
+          ),
+        ),
+        const SizedBox(height: 8),
+        ...examples.map((example) => Padding(
+          padding: const EdgeInsets.only(left: 8, bottom: 4),
+          child: Row(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              const Text('• ', style: TextStyle(fontSize: 12)),
+              Expanded(
+                child: RichText(
+                  text: TextSpan(
+                    style: TextStyle(
+                      fontSize: 12,
+                      color: Theme.of(context).textTheme.bodyMedium?.color,
+                    ),
+                    children: [
+                      TextSpan(
+                        text: example.pattern,
+                        style: const TextStyle(
+                          fontFamily: 'monospace',
+                          fontWeight: FontWeight.bold,
+                        ),
+                      ),
+                      const TextSpan(text: ' - '),
+                      TextSpan(text: example.description),
+                    ],
+                  ),
+                ),
+              ),
+            ],
+          ),
+        )),
+      ],
+    );
+  }
+
+  Widget _buildSearchReplacePanel() {
+    return Container(
+      padding: const EdgeInsets.all(16),
+      decoration: BoxDecoration(
+        color: const Color(0xFF2A2A2A),
+        border: Border.all(color: Colors.deepPurple),
+      ),
+      child: Column(
+        children: [
+          Row(
+            children: [
+              Expanded(
+                child: TextField(
+                  controller: _searchController,
+                  style: const TextStyle(color: Colors.white),
+                  decoration: InputDecoration(
+                    labelText: _useRegex ? 'Search (regex mode)' : 'Search (plain text)',
+                    labelStyle: const TextStyle(color: Colors.white70),
+                    border: const OutlineInputBorder(),
+                    isDense: true,
+                    suffixIcon: IconButton(
+                      icon: const Icon(Icons.help_outline, size: 20, color: Colors.white70),
+                      onPressed: _showRegexHelp,
+                      tooltip: 'Show regex examples',
+                    ),
+                  ),
+                  onChanged: (_) {
+                    if (_isPreviewingReplace) {
+                      setState(() {
+                        for (final entry in _originalReplaceValues.entries) {
+                          final chapter = _metadata!.chapters[entry.key];
+                          _metadata!.chapters[entry.key] = Chapter(
+                            index: chapter.index,
+                            title: entry.value,
+                            startTime: chapter.startTime,
+                            endTime: chapter.endTime,
+                            duration: chapter.duration,
+                          );
+                        }
+                        _originalReplaceValues.clear();
+                        _isPreviewingReplace = false;
+                      });
+                    }
+                  },
+                ),
+              ),
+              const SizedBox(width: 8),
+              Expanded(
+                child: TextField(
+                  controller: _replaceController,
+                  style: const TextStyle(color: Colors.white),
+                  decoration: const InputDecoration(
+                    labelText: 'Replace',
+                    labelStyle: TextStyle(color: Colors.white70),
+                    border: OutlineInputBorder(),
+                    isDense: true,
+                  ),
+                  onChanged: (_) {
+                    if (_isPreviewingReplace) {
+                      setState(() {
+                        for (final entry in _originalReplaceValues.entries) {
+                          final chapter = _metadata!.chapters[entry.key];
+                          _metadata!.chapters[entry.key] = Chapter(
+                            index: chapter.index,
+                            title: entry.value,
+                            startTime: chapter.startTime,
+                            endTime: chapter.endTime,
+                            duration: chapter.duration,
+                          );
+                        }
+                        _originalReplaceValues.clear();
+                        _isPreviewingReplace = false;
+                      });
+                    }
+                  },
+                ),
+              ),
+              const SizedBox(width: 8),
+              ElevatedButton(
+                onPressed: _toggleReplacePreview,
+                style: ElevatedButton.styleFrom(
+                  padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 16),
+                  backgroundColor: _isPreviewingReplace ? Colors.orange : null,
+                  foregroundColor: _isPreviewingReplace ? Colors.white : null,
+                ),
+                child: Text(_isPreviewingReplace ? 'Undo Preview' : 'Preview'),
+              ),
+              const SizedBox(width: 8),
+              ElevatedButton(
+                onPressed: _applySearchReplace,
+                style: ElevatedButton.styleFrom(
+                  padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 16),
+                  backgroundColor: Colors.deepPurple,
+                  foregroundColor: Colors.white,
+                ),
+                child: const Text('Apply'),
+              ),
+            ],
+          ),
+          const SizedBox(height: 8),
+          Row(
+            children: [
+              Checkbox(
+                value: _useRegex,
+                onChanged: (value) {
+                  setState(() {
+                    _useRegex = value ?? false;
+                    if (_isPreviewingReplace) {
+                      for (final entry in _originalReplaceValues.entries) {
+                        final chapter = _metadata!.chapters[entry.key];
+                        _metadata!.chapters[entry.key] = Chapter(
+                          index: chapter.index,
+                          title: entry.value,
+                          startTime: chapter.startTime,
+                          endTime: chapter.endTime,
+                          duration: chapter.duration,
+                        );
+                      }
+                      _originalReplaceValues.clear();
+                      _isPreviewingReplace = false;
+                    }
+                  });
+                },
+              ),
+              const Text('Use Regular Expressions', style: TextStyle(color: Colors.white)),
+            ],
+          ),
+        ],
+      ),
+    );
   }
 
   Future<void> _saveMetadata() async {
@@ -427,7 +952,6 @@ class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
       _showError('Failed to save metadata: $e');
     }
   }
-  
   
   String _createFFMetadataContent() {
     final buffer = StringBuffer();
@@ -584,41 +1108,85 @@ class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
     }
   }
 
-  Widget _buildTitleWithHighlights(String displayText, String originalText) {
-    if (displayText == originalText) {
+  Widget _buildTitleWithHighlights(String displayTitle, String originalTitle) {
+    if (displayTitle == originalTitle) {
       return Text(
-        displayText,
-        style: const TextStyle(color: Colors.white, fontSize: 14),
+        displayTitle,
+        style: const TextStyle(fontSize: 14),
       );
     }
     
-    final spans = <InlineSpan>[];
+    final isCaseOnlyChange = displayTitle.toLowerCase() == originalTitle.toLowerCase();
     
-    for (int i = 0; i < displayText.length; i++) {
-      final char = displayText[i];
-      final isChanged = i < originalText.length && 
-                       char != originalText[i] &&
-                       char.toLowerCase() == originalText[i].toLowerCase();
+    if (isCaseOnlyChange) {
+      final spans = <InlineSpan>[];
       
-      spans.add(TextSpan(
-        text: char,
-        style: TextStyle(
-          fontSize: 14,
-          color: isChanged ? Colors.green : Colors.white,
-          fontWeight: isChanged ? FontWeight.bold : null,
+      for (int i = 0; i < displayTitle.length; i++) {
+        final char = displayTitle[i];
+        final isChanged = i < originalTitle.length && 
+                         char != originalTitle[i] &&
+                         char.toLowerCase() == originalTitle[i].toLowerCase();
+        
+        spans.add(TextSpan(
+          text: char,
+          style: TextStyle(
+            fontSize: 14,
+            color: isChanged ? Colors.green : null,
+            fontWeight: isChanged ? FontWeight.bold : null,
+          ),
+        ));
+      }
+      
+      return RichText(
+        text: TextSpan(
+          style: TextStyle(
+            fontSize: 14,
+            color: Theme.of(context).textTheme.bodyMedium?.color,
+          ),
+          children: spans,
         ),
-      ));
+      );
+    } else {
+      final spans = <InlineSpan>[];
+      final displayWords = displayTitle.split(' ');
+      final originalWords = originalTitle.split(' ');
+      
+      for (int i = 0; i < displayWords.length; i++) {
+        final displayWord = displayWords[i];
+        final originalWord = i < originalWords.length ? originalWords[i] : '';
+        
+        if (i > 0) {
+          spans.add(const TextSpan(text: ' '));
+        }
+        
+        if (displayWord == originalWord) {
+          spans.add(TextSpan(
+            text: displayWord,
+            style: const TextStyle(fontSize: 14),
+          ));
+        } else {
+          spans.add(TextSpan(
+            text: displayWord,
+            style: TextStyle(
+              fontSize: 14,
+              color: Colors.green,
+              fontWeight: FontWeight.bold,
+              backgroundColor: Colors.green.withValues(alpha: 0.2),
+            ),
+          ));
+        }
+      }
+      
+      return RichText(
+        text: TextSpan(
+          style: TextStyle(
+            fontSize: 14,
+            color: Theme.of(context).textTheme.bodyMedium?.color,
+          ),
+          children: spans,
+        ),
+      );
     }
-    
-    return RichText(
-      text: TextSpan(
-        style: const TextStyle(
-          fontSize: 14,
-          color: Colors.white,
-        ),
-        children: spans,
-      ),
-    );
   }
 
   @override
@@ -630,6 +1198,7 @@ class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
           : Column(
               children: [
                 if (_metadata != null) _buildMetadataHeader(),
+                if (_showSearchReplace) _buildSearchReplacePanel(),
                 
                 Expanded(
                   child: _metadata == null
@@ -681,44 +1250,72 @@ class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
   }
 
   Widget _buildMetadataHeader() {
-    return Container(
-      padding: const EdgeInsets.all(16),
-      decoration: const BoxDecoration(
-        border: Border(bottom: BorderSide(color: Colors.white24)),
-        color: Color(0xFF1E1E1E),
-      ),
-      child: Column(
-        crossAxisAlignment: CrossAxisAlignment.start,
-        children: [
-          Row(
-            children: [
-              Expanded(
-                child: Text(
-                  path.basename(_currentFilePath!),
-                  style: const TextStyle(
-                    color: Colors.white70,
-                    fontSize: 14,
+      return Container(
+        padding: const EdgeInsets.all(16),
+        decoration: const BoxDecoration(
+          border: Border(bottom: BorderSide(color: Colors.white24)),
+          color: Color(0xFF1E1E1E),
+        ),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Row(
+              children: [
+                Expanded(
+                  child: Text(
+                    path.basename(_currentFilePath!),
+                    style: const TextStyle(
+                      color: Colors.white70,
+                      fontSize: 14,
+                    ),
                   ),
                 ),
-              ),
-              ElevatedButton(
-                onPressed: _applyTitleCase,
-                style: ElevatedButton.styleFrom(
-                  padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                ElevatedButton(
+                  onPressed: () {
+                    setState(() {
+                      _showSearchReplace = !_showSearchReplace;
+                      if (!_showSearchReplace && _isPreviewingReplace) {
+                        for (final entry in _originalReplaceValues.entries) {
+                          final chapter = _metadata!.chapters[entry.key];
+                          _metadata!.chapters[entry.key] = Chapter(
+                            index: chapter.index,
+                            title: entry.value,
+                            startTime: chapter.startTime,
+                            endTime: chapter.endTime,
+                            duration: chapter.duration,
+                          );
+                        }
+                        _originalReplaceValues.clear();
+                        _isPreviewingReplace = false;
+                      }
+                    });
+                  },
+                  style: ElevatedButton.styleFrom(
+                    padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                    backgroundColor: _showSearchReplace ? Colors.deepPurple : null,
+                  ),
+                  child: const Text('Replace'),
                 ),
-                child: const Text('Apply Title Case'),
-              ),
-              const SizedBox(width: 8),
-              IconButton(
-                onPressed: () {
-                  Navigator.pop(context);
-                },
-                icon: const Icon(Icons.close, color: Colors.white),
-                iconSize: 32,
-                tooltip: 'Close',
-              ),
-            ],
-          ),
+                const SizedBox(width: 8),
+                ElevatedButton(
+                  onPressed: _applyTitleCase,
+                  style: ElevatedButton.styleFrom(
+                    padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                    minimumSize: const Size(150, 36),
+                  ),
+                  child: Text(_titleCaseHistory != null ? 'Undo Title Case' : 'Apply Title Case'),
+                ),
+                const SizedBox(width: 8),
+                IconButton(
+                  onPressed: () {
+                    Navigator.pop(context);
+                  },
+                  icon: const Icon(Icons.close, color: Colors.white),
+                  iconSize: 32,
+                  tooltip: 'Close',
+                ),
+              ],
+            ),
           const SizedBox(height: 16),
           Row(
             children: [
@@ -887,62 +1484,11 @@ class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
       ),
     );
   }
-
-  Future<void> _copyMetadataToClipboard() async {
-    if (_currentFilePath == null) {
-      _showError('No audiobook loaded');
-      return;
-    }
-    
-    try {
-      await _ffmpeg.ensureBinaries();
-      
-      final author = _authorController.text.isNotEmpty 
-          ? _authorController.text 
-          : 'Unknown Artist';
-      final title = _titleController.text.isNotEmpty 
-          ? _titleController.text 
-          : 'Unknown Title';
-      final year = _yearController.text.isNotEmpty 
-          ? _yearController.text 
-          : 'Unknown Year';
-      
-      final file = File(_currentFilePath!);
-      final fileSize = await file.length();
-      final formattedFileSize = _formatFileSize(fileSize);
-      
-      final metadataResult = await Process.run(_ffmpeg.ffprobePath ?? 'ffprobe', [
-        '-v', 'error',
-        '-show_entries', 'format=duration',
-        '-of', 'default=noprint_wrappers=1:nokey=1',
-        _currentFilePath!,
-      ]);
-      
-      Duration duration = Duration.zero;
-      if (metadataResult.exitCode == 0) {
-        final durationSeconds = double.tryParse(metadataResult.stdout.toString().trim());
-        if (durationSeconds != null) {
-          duration = Duration(seconds: durationSeconds.round());
-        }
-      }
-      
-      final formattedDuration = _formatDuration(duration);
-      
-      final clipboardText = '$author - $title ($year) $formattedFileSize $formattedDuration';
-      
-      await Clipboard.setData(ClipboardData(text: clipboardText));
-      
-      _showSuccess('Copied to clipboard:\n$clipboardText');
-      
-    } catch (e) {
-      _showError('Failed to copy metadata: $e');
-    }
-  }
-  
-  String _formatFileSize(int bytes) {
-    if (bytes < 1024) return '${bytes}B';
-    if (bytes < 1024 * 1024) return '${(bytes / 1024).toStringAsFixed(1)}KiB';
-    return '${(bytes / (1024 * 1024)).toStringAsFixed(1)}MiB';
-  }
 }
 
+class _HelpExample {
+  final String pattern;
+  final String description;
+  
+  _HelpExample(this.pattern, this.description);
+}

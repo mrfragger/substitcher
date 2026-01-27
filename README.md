@@ -4,18 +4,19 @@ Opus chaptered encoder, editor and player with colored subtitles and fancy fonts
 
 ![](images/audiobook.jpg)
 
-### Encoding and Transcribing
+### Encoding opus Chaptered Audiobooks
 - Encode 16kbps audiobooks which is 4x/8x smaller than 64/128kbps
 - 32kpbs only use for audio like Quran recitations and it's about 2.5x larger in file size due to vbr
 - opus (2012) is a superior audio codec compared to mp3 (1993) or aac (1997) at low bitrates
 - max 100 hours and 999 chapters per audiobook
-- if exceed limits will offer to automatically split into multiple audiobooks
+- if exceed limits will offer to automatically split into multiple audiobooks showing the split points
 - Title Case chapter titles and regular expression replace
 - Remove silence -26dB, -30dB, -34dB, -38dB, -42dB, -46dB, reduces transcribing hallucinations
 - Hiss (reduction) preview a random audio to compare
 - Batch Trim Audio beginning and end, previews 6 trimmed audios
 - Extract chapters with names from audiobooks
 - Edit Metadata (chapters, author, title) of opus audiobook
+- Paste List of text to rename files, two surah lists
 
 ![](images/encode.jpg)
 
@@ -173,6 +174,8 @@ Opus chaptered encoder, editor and player with colored subtitles and fancy fonts
 - time duration bars of listening time for last 30 active days
 - stats are stored in `~/.config/substitcher/watch_tracking_time`
 
+![](images/stats.jpg)
+
 ### Slicing / Editing
 - make cuts (slices of audio) in subdirectory audiobookname_cuts
 - make an audiobook from audiobookname_cuts and transcribe for subs
@@ -184,8 +187,6 @@ Opus chaptered encoder, editor and player with colored subtitles and fancy fonts
 - ; Listen, seek to End of Sub
 - j and k Listen, backward/forward 1s
 - , and . Listen, backward/forward 100ms
-
-![](images/stats.jpg)
 
 ### Adhan Clock
 - prayer times
