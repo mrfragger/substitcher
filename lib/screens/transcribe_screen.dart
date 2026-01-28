@@ -1281,7 +1281,8 @@ final _msOffsetController = TextEditingController(text: '0');
             if (_isTranscribing) ...[
               const SizedBox(width: 16),
               ElevatedButton.icon(
-                onPressed: () {
+                onPressed: () async {
+                  await _whisperService.cancelTranscription();
                   setState(() {
                     _isTranscribing = false;
                     _transcriptionStatus = 'Cancelled';

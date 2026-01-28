@@ -1,4 +1,5 @@
 import 'dart:io';
+import 'dart:convert';
 import 'dart:async';
 import 'package:path/path.dart' as path;
 import 'package:shared_preferences/shared_preferences.dart';
@@ -21,8 +22,8 @@ class WhisperService {
   bool splitOnWord = true;
   bool translateToEnglish = false;
 
-  bool _encoding = false;
-  bool _cancelEncoding = false;
+Process? _currentWhisperProcess;
+bool _shouldCancelTranscription = false;
   
   int msOffset = 0;
   bool printColors = false;
@@ -52,6 +53,15 @@ class WhisperService {
     customPrompt = prefs.getString('whisperPrompt') ?? customPrompt;
     translateToEnglish = prefs.getBool('whisperTranslate') ?? false;
   }
+
+  Future<void> cancelTranscription() async {
+     _shouldCancelTranscription = true;
+     if (_currentWhisperProcess != null) {
+       print('Killing whisper process...');
+       _currentWhisperProcess!.kill();
+       _currentWhisperProcess = null;
+     }
+   }
 
   Future<void> _ensureFFmpeg() async {
     if (_ffmpegPath != null) return;
@@ -241,6 +251,7 @@ class WhisperService {
     Function(String status, double progress, Duration cumulativeDuration) onProgress,
     Function(String error) onError,
   ) async {
+    _shouldCancelTranscription = false;
     if (whisperExecutablePath == null || modelDirectory == null) {
       onError('Whisper executable or model directory not set');
       return;
@@ -309,6 +320,11 @@ class WhisperService {
       DateTime? sessionStartTime;
       
       for (int i = 0; i < remainingFiles.length; i++) {
+        if (_shouldCancelTranscription) {
+          onProgress('Transcription cancelled', 0.0, Duration.zero);
+          return;
+        }
+        
         if (sessionStartTime == null) {
           sessionStartTime = DateTime.now();
         }
@@ -723,22 +739,44 @@ class WhisperService {
     await logFile.writeAsString(logBuffer.toString());
     
     try {
-      final result = await Process.run(
+      _currentWhisperProcess = await Process.start(
         actualWhisperPath,
         args,
         workingDirectory: workingDir,
         environment: environment,
       );
       
+      final stdout = StringBuffer();
+      final stderr = StringBuffer();
+      
+      _currentWhisperProcess!.stdout.transform(utf8.decoder).listen((data) {
+        stdout.write(data);
+      });
+      
+      _currentWhisperProcess!.stderr.transform(utf8.decoder).listen((data) {
+        stderr.write(data);
+      });
+      
+      final exitCode = await _currentWhisperProcess!.exitCode;
+      
       await logFile.writeAsString(
-        'Exit code: ${result.exitCode}\nStdout: ${result.stdout}\nStderr: ${result.stderr}\n',
+        'Exit code: $exitCode\nStdout: ${stdout.toString()}\nStderr: ${stderr.toString()}\n',
         mode: FileMode.append,
       );
       
-      if (result.exitCode != 0) {
-        throw Exception('Whisper failed (exit ${result.exitCode}): ${result.stderr}');
+      if (_shouldCancelTranscription) {
+        _currentWhisperProcess = null;
+        throw Exception('Transcription cancelled by user');
       }
+      
+      if (exitCode != 0) {
+        _currentWhisperProcess = null;
+        throw Exception('Whisper failed (exit $exitCode): ${stderr.toString()}');
+      }
+      
+      _currentWhisperProcess = null;
     } catch (e, stackTrace) {
+      _currentWhisperProcess = null;
       await logFile.writeAsString(
         'EXCEPTION: $e\nStack: $stackTrace\n',
         mode: FileMode.append,
