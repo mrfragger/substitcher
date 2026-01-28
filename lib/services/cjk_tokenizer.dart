@@ -76,9 +76,7 @@ class CJKTokenizer {
     } else {
       detected = TextLanguage.unknown;
     }
-    
-    // print('🔍 Language Detection: "${text.substring(0, text.length > 50 ? 50 : text.length)}" -> $detected (hasArabic: $hasArabic, hasLatin: $hasLatin)');
-    
+        
     return detected;
   }
 

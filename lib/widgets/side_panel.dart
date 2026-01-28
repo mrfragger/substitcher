@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:path/path.dart' as path;
+import 'package:flutter/services.dart';
 import '../models/audiobook_metadata.dart';
 import '../models/color_palette.dart';
 import '../models/frequency_item.dart';
@@ -2029,9 +2030,11 @@ class _WordsPanelState extends State<_WordsPanel> {
   Widget _buildFrequencyItem(FrequencyItem item) {
     final isSingleWord = item.wordCount == 1;
     return GestureDetector(
-      onTap: () {
+      onTap: () async {
+        await Clipboard.setData(ClipboardData(text: item.text));
+        
         if (isSingleWord) {
-          widget.onWordSearch('"${item.text}"');
+          widget.onWordSearch('item.text');
         } else {
           widget.onPhraseSearch('"${item.text}"');
         }

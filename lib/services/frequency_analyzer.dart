@@ -1,5 +1,7 @@
 import 'dart:io';
 import '../models/frequency_item.dart';
+import '../models/subtitle_cue.dart';
+import 'cjk_tokenizer.dart';
 
 class FrequencyAnalyzer {
   static const Set<String> _commonWords = {
@@ -52,14 +54,193 @@ class FrequencyAnalyzer {
       final file = File(filePath);
       final content = await file.readAsString();
       
-      return await _analyzeContent(content);
-    } catch (e) {
+      
+      final cjkPercentage = _calculateCJKPercentage(content);
+      
+      if (cjkPercentage > 0.5) {
+        final result = await _analyzeCJKContent(content);
+        return result;
+      } else {
+        return await _analyzeEnglishContent(content);
+      }
+    } catch (e, stackTrace) {
       print('Error analyzing subtitle file: $e');
+      print('Stack trace: $stackTrace');
       return [];
     }
   }
 
-  static Future<List<FrequencyItem>> _analyzeContent(String content) async {
+  static double _calculateCJKPercentage(String content) {
+    final cues = _parseVTT(content);
+    if (cues.isEmpty) return 0.0;
+    
+    int totalChars = 0;
+    int cjkChars = 0;
+    
+    for (final cue in cues) {
+      final text = cue.text.replaceAll(RegExp(r'<[^>]+>'), '');
+      
+      for (final char in text.runes) {
+        if (char <= 32 || char == 10 || char == 13) continue;
+        
+        totalChars++;
+        
+        if ((char >= 0x3040 && char <= 0x309F) ||
+            (char >= 0x30A0 && char <= 0x30FF) ||
+            (char >= 0x4E00 && char <= 0x9FFF) ||
+            (char >= 0xAC00 && char <= 0xD7AF) ||
+            (char >= 0x0600 && char <= 0x06FF) ||
+            (char >= 0x0750 && char <= 0x077F) ||
+            (char >= 0xFB50 && char <= 0xFDFF) ||
+            (char >= 0xFE70 && char <= 0xFEFF)) {
+          cjkChars++;
+        }
+      }
+    }
+        
+    return totalChars > 0 ? cjkChars / totalChars : 0.0;
+  }
+
+  static Future<List<FrequencyItem>> _analyzeCJKContent(String content) async {
+    final cues = _parseVTT(content);
+    
+    final Map<String, int> singleWordFreq = {};
+    final Map<String, int> twoWordFreq = {};
+    final Map<String, int> threeWordFreq = {};
+    final Map<String, int> fourWordFreq = {};
+    final Map<String, int> fiveWordFreq = {};
+  
+    for (final cue in cues) {
+      final cleanedText = cue.text.replaceAll(RegExp(r'<[^>]+>'), '').trim();
+      if (cleanedText.isEmpty) continue;
+  
+      final language = CJKTokenizer.detectLanguage(cleanedText);
+      final words = CJKTokenizer.tokenize(cleanedText, language: language);
+      
+      final useSpaces = language == TextLanguage.arabic || language == TextLanguage.english;
+  
+      for (final word in words) {
+        singleWordFreq[word] = (singleWordFreq[word] ?? 0) + 1;
+      }
+  
+      for (int i = 0; i < words.length - 1; i++) {
+        final phrase = useSpaces 
+            ? '${words[i]} ${words[i + 1]}'
+            : '${words[i]}${words[i + 1]}';
+        twoWordFreq[phrase] = (twoWordFreq[phrase] ?? 0) + 1;
+      }
+  
+      for (int i = 0; i < words.length - 2; i++) {
+        final phrase = useSpaces
+            ? '${words[i]} ${words[i + 1]} ${words[i + 2]}'
+            : '${words[i]}${words[i + 1]}${words[i + 2]}';
+        threeWordFreq[phrase] = (threeWordFreq[phrase] ?? 0) + 1;
+      }
+  
+      for (int i = 0; i < words.length - 3; i++) {
+        final phrase = useSpaces
+            ? '${words[i]} ${words[i + 1]} ${words[i + 2]} ${words[i + 3]}'
+            : '${words[i]}${words[i + 1]}${words[i + 2]}${words[i + 3]}';
+        fourWordFreq[phrase] = (fourWordFreq[phrase] ?? 0) + 1;
+      }
+  
+      for (int i = 0; i < words.length - 4; i++) {
+        final phrase = useSpaces
+            ? '${words[i]} ${words[i + 1]} ${words[i + 2]} ${words[i + 3]} ${words[i + 4]}'
+            : '${words[i]}${words[i + 1]}${words[i + 2]}${words[i + 3]}${words[i + 4]}';
+        fiveWordFreq[phrase] = (fiveWordFreq[phrase] ?? 0) + 1;
+      }
+    }
+    
+    final items = <FrequencyItem>[];
+  
+    final sortedSingle = singleWordFreq.entries.toList()
+      ..sort((a, b) => b.value.compareTo(a.value));
+    items.addAll(sortedSingle.take(500).map((e) =>
+        FrequencyItem(text: e.key, frequency: e.value, wordCount: 1)));
+  
+    final sortedTwo = twoWordFreq.entries.toList()
+      ..sort((a, b) => b.value.compareTo(a.value));
+    items.addAll(sortedTwo.take(200).map((e) =>
+        FrequencyItem(text: e.key, frequency: e.value, wordCount: 2)));
+  
+    final sortedThree = threeWordFreq.entries.toList()
+      ..sort((a, b) => b.value.compareTo(a.value));
+    items.addAll(sortedThree.take(200).map((e) =>
+        FrequencyItem(text: e.key, frequency: e.value, wordCount: 3)));
+  
+    final sortedFour = fourWordFreq.entries.toList()
+      ..sort((a, b) => b.value.compareTo(a.value));
+    items.addAll(sortedFour.take(200).map((e) =>
+        FrequencyItem(text: e.key, frequency: e.value, wordCount: 4)));
+  
+    final sortedFive = fiveWordFreq.entries.toList()
+      ..sort((a, b) => b.value.compareTo(a.value));
+    items.addAll(sortedFive.take(200).map((e) =>
+        FrequencyItem(text: e.key, frequency: e.value, wordCount: 5)));
+  
+    return items;
+  }
+
+  static List<SubtitleCue> _parseVTT(String content) {
+    final cues = <SubtitleCue>[];
+    final lines = content.split('\n');
+    
+    for (var i = 0; i < lines.length; i++) {
+      final line = lines[i].trim();
+      
+      if (line.contains('-->')) {
+        final parts = line.split('-->');
+        if (parts.length == 2) {
+          final startTime = _parseVTTTime(parts[0].trim());
+          final endTime = _parseVTTTime(parts[1].trim().split(' ')[0]);
+          
+          final textLines = <String>[];
+          i++;
+          while (i < lines.length && lines[i].trim().isNotEmpty) {
+            textLines.add(lines[i].trim());
+            i++;
+          }
+          
+          if (startTime != null && endTime != null && textLines.isNotEmpty) {
+            cues.add(SubtitleCue(
+              startTime: startTime,
+              endTime: endTime,
+              text: textLines.join('\n'),
+            ));
+          }
+        }
+      }
+    }
+    
+    return cues;
+  }
+
+  static Duration? _parseVTTTime(String timeStr) {
+    try {
+      final parts = timeStr.split(':');
+      if (parts.length == 3) {
+        final hours = int.parse(parts[0]);
+        final minutes = int.parse(parts[1]);
+        final secondsParts = parts[2].split('.');
+        final seconds = int.parse(secondsParts[0]);
+        final milliseconds = secondsParts.length > 1
+            ? int.parse(secondsParts[1].padRight(3, '0').substring(0, 3))
+            : 0;
+        return Duration(
+          hours: hours,
+          minutes: minutes,
+          seconds: seconds,
+          milliseconds: milliseconds,
+        );
+      }
+    } catch (e) {
+      return null;
+    }
+    return null;
+  }
+
+  static Future<List<FrequencyItem>> _analyzeEnglishContent(String content) async {
     final words = await _processWords(content);
     
     final allPhrases = <FrequencyItem>[];
