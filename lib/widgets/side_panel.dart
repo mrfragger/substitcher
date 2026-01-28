@@ -2034,7 +2034,7 @@ class _WordsPanelState extends State<_WordsPanel> {
         await Clipboard.setData(ClipboardData(text: item.text));
         
         if (isSingleWord) {
-          widget.onWordSearch('item.text');
+          widget.onWordSearch(item.text);
         } else {
           widget.onPhraseSearch('"${item.text}"');
         }
