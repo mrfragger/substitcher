@@ -278,8 +278,7 @@ iOS (may publish in future)
 
 ### Miscellaneous
 - Never will get a light theme nor support music
-- Never will support cover images, choose either audiobooks with covers and not to use subtitles
+- Never will support cover images, choose audiobooks with covers and not to use subtitles, use kid3 app (qt free cross-platform app) for embedding a cover image
+- Reason is most audiobook players don't support subtitles, and ones that do, do so due to video support and having a cover image in background intefers with subtitles in most cases
 - It just puts a 16x9 black png image with META_BLOCK_PICTURE with some info along with a png which is based on vorbis comment specification
-- Reason is most audiobook players don't support subtitles, and ones that do, do so due to video support and having a cover image in background intefers in with subtitles in most cases
-- use kid3 app (qt free cross-platform app) for embedding a cover image and don't plan to ever use subtitles
 - Developed since 2022 but in Dec 2025 decided to port from mpv front-end lua scripts with uosc ui and remove video editing, LUTs to a flutter / dart app (not just Mac/Linux anymore) and make it purely an audiobook player

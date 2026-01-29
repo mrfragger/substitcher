@@ -582,9 +582,11 @@ class _PlayerScreenState extends State<PlayerScreen> {
   void _checkChapterBoundary(Duration position) {
     if (_currentAudiobook == null || _currentAudiobook!.chapters.isEmpty) return;
     
+    if (_currentChapterIndex >= _currentAudiobook!.chapters.length) return;
+    
     final chapter = _currentAudiobook!.chapters[_currentChapterIndex];
 
-      if (position >= chapter.endTime) {  
+    if (position >= chapter.endTime) {  
         if (!_isYouTubeStream && !_shouldSkipTracking(path.basenameWithoutExtension(_currentAudiobook!.path))) {
           final currentChapter = _currentAudiobook!.chapters[_currentChapterIndex];
           _statsManager.recordChapterEnd(
@@ -617,8 +619,14 @@ class _PlayerScreenState extends State<PlayerScreen> {
               ),
             );
           }
+          return;
         } else {
           final nextIndex = _getNextShuffleChapter();
+          
+          if (nextIndex < 0 || nextIndex >= _currentAudiobook!.chapters.length) {
+            return;
+          }
+          
           final nextChapter = _currentAudiobook!.chapters[nextIndex];
 
           setState(() {
@@ -628,7 +636,6 @@ class _PlayerScreenState extends State<PlayerScreen> {
               }
             });
           
-          
           player.seek(nextChapter.startTime + const Duration(milliseconds: 100));
         }
       } else {
@@ -636,14 +643,33 @@ class _PlayerScreenState extends State<PlayerScreen> {
         if (!_isYouTubeStream) {
           while (nextIndex < _currentAudiobook!.chapters.length) {
             if (!_shouldSkipChapter(_currentAudiobook!.chapters[nextIndex].title)) {
-              setState(() {
-                _currentChapterIndex = nextIndex;
-              });
               break;
             }
             nextIndex++;
           }
+          
+          if (nextIndex >= _currentAudiobook!.chapters.length) {
+            player.pause();
+            if (mounted) {
+              ScaffoldMessenger.of(context).showSnackBar(
+                const SnackBar(
+                  content: Text('Finished audiobook'),
+                  duration: Duration(seconds: 3),
+                ),
+              );
+            }
+            return;
+          }
+          
+          setState(() {
+            _currentChapterIndex = nextIndex;
+          });
         } else {
+          if (nextIndex >= _currentAudiobook!.chapters.length) {
+            player.pause();
+            return;
+          }
+          
           setState(() {
             _currentChapterIndex = nextIndex;
           });
@@ -1134,7 +1160,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
     
     setState(() {
       _showSleepTimerCountdown = true;
-      _sleepTimerCountdownSeconds = 60;
+      _sleepTimerCountdownSeconds = 120;
     });
     
     _sleepTimerCountdownTimer?.cancel();
