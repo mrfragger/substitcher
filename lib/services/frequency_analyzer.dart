@@ -268,7 +268,9 @@ class FrequencyAnalyzer {
   }
 
   static Future<List<FrequencyItem>> _processWords(String content) async {
-    final cleaned = content.replaceAll(RegExp(r"[^A-Za-z']"), ' ').toLowerCase();
+    final cleaned = content
+        .replaceAll(RegExp(r"[^\p{L}',]", unicode: true), ' ')
+        .toLowerCase();
     
     final words = cleaned.split(RegExp(r'\s+'))
         .where((w) => w.length >= 4)
@@ -290,9 +292,12 @@ class FrequencyAnalyzer {
             ))
         .toList();
   }
-
+  
   static Future<List<FrequencyItem>> _processPhrases(String content, int phraseLength) async {
-    final cleaned = content.replaceAll(RegExp(r"[^A-Za-z'\,]"), ' ').toLowerCase();
+    final cleaned = content
+        .replaceAll(RegExp(r"[^\p{L}',]", unicode: true), ' ')
+        .toLowerCase();
+    
     final words = cleaned.split(RegExp(r'\s+')).where((w) => w.isNotEmpty).toList();
     
     final phraseFreq = <String, int>{};

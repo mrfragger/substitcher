@@ -6,6 +6,7 @@ import 'package:window_manager/window_manager.dart';
 import 'package:path/path.dart' as path;
 import 'package:flutter/services.dart';
 import 'package:flutter/foundation.dart' show compute;
+import 'package:wakelock_plus/wakelock_plus.dart';
 import 'dart:async';
 import 'dart:io';
 import 'dart:convert';
@@ -317,6 +318,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
   @override
   void dispose() {
     _isDisposed = true;
+    WakelockPlus.disable();
     windowManager.removeListener(_windowListener);
     _cacheFlushTimer?.cancel();
     _frequencyGenerationTimer?.cancel();
@@ -380,6 +382,14 @@ class _PlayerScreenState extends State<PlayerScreen> {
       });
     }
   }
+
+  void _updateWakelock() {
+    if (_isPlaying && _subtitles.isNotEmpty) {
+      WakelockPlus.enable();
+    } else {
+      WakelockPlus.disable();
+    }
+  }
   
   Future<dynamic> _handleOpenFile(MethodCall call) async {
     if (call.method == 'openFile') {
@@ -390,9 +400,11 @@ class _PlayerScreenState extends State<PlayerScreen> {
 
   void _setupAudioPlayer() {
     player.stream.position.listen((position) {
-      setState(() {
-        _currentPosition = position;
-      });
+      if (mounted) {
+        setState(() {
+          _currentPosition = position;
+        });
+      }
       _checkChapterBoundary(position);
       _checkPauseTrigger();
       _updateCurrentSubtitle();
@@ -400,17 +412,22 @@ class _PlayerScreenState extends State<PlayerScreen> {
         _saveToHistory();
       }
     });
-
+  
     player.stream.duration.listen((duration) {
-      setState(() {
-        _totalDuration = duration;
-      });
+      if (mounted) {
+        setState(() {
+          _totalDuration = duration;
+        });
+      }
     });
-
+  
     player.stream.playing.listen((playing) {
-      setState(() {
-        _isPlaying = playing;
-      });
+      if (mounted) {
+        setState(() {
+          _isPlaying = playing;
+        });
+        _updateWakelock();
+      }
       if (playing) {
         if (!_shouldSkipTracking(path.basenameWithoutExtension(_currentAudiobook?.path ?? ''))) {
           _statsManager.onPlaybackStart();
@@ -418,16 +435,16 @@ class _PlayerScreenState extends State<PlayerScreen> {
         _saveToHistory();
       } else {
         if (_sleepDuration != null) {
-              _setSleepTimer(null);
-              if (mounted) {
-                ScaffoldMessenger.of(context).showSnackBar(
-                  const SnackBar(
-                    content: Text('Sleep timer cancelled due to pause'),
-                    duration: Duration(seconds: 2),
-                  ),
-                );
-              }
-            }
+          _setSleepTimer(null);
+          if (mounted) {
+            ScaffoldMessenger.of(context).showSnackBar(
+              const SnackBar(
+                content: Text('Sleep timer cancelled due to pause'),
+                duration: Duration(seconds: 2),
+              ),
+            );
+          }
+        }
         if (!_shouldSkipTracking(path.basenameWithoutExtension(_currentAudiobook?.path ?? ''))) {
           _statsManager.onPlaybackPause();
         }
@@ -960,6 +977,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
           _currentSubtitleText = '';
           _paragraphItems = [];
         });
+        _updateWakelock();
         return;
       }
       
@@ -976,6 +994,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
       });
       
       await _applyConversion();
+      _updateWakelock();
       _scheduleFrequencyGeneration();
     } catch (e) {
       print('Error loading subtitles: $e');
@@ -986,6 +1005,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
         _currentSubtitleText = '';
         _paragraphItems = [];
       });
+      _updateWakelock();
     }
   }
 
@@ -6430,6 +6450,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
           _currentPosition = savedPosition;
         });
         _updateCurrentSubtitle();
+        _updateWakelock();
       }
       
       _scheduleFrequencyGeneration();
