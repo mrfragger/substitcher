@@ -2307,7 +2307,9 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
                 '4. Capitalize proper nouns\n'
                 '5. Generate HTML change reports\n'
                 '6. Repeat fixes only use audiobookname_repeats.vtt as final subtitles\n'
-                '7. Repeat fixes, pronouns, honorifics and use audiobookname_pronouns.vtt as final subtitles ',
+                '7. Repeat fixes, pronouns, honorifics and use audiobookname_pronouns.vtt as final subtitles\n'
+                '8. Use _repeats.vtt as final vtt if only want repeats corrections\n'
+                '9. Use _propernoun.vtt as final vtt includes repeats and proper noun, honorific corrections',
                 style: TextStyle(
                   color: Colors.white70,
                   fontSize: 14,

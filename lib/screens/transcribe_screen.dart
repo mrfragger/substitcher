@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:file_picker/file_picker.dart';
 import 'dart:io';
+import 'dart:async';
 import 'package:path/path.dart' as path;
 import '../services/whisper_service.dart';
 import '../services/ffmpeg_service.dart';
@@ -16,6 +17,8 @@ class TranscribeScreen extends StatefulWidget {
 class _TranscribeScreenState extends State<TranscribeScreen> {
   final WhisperService _whisperService = WhisperService();
   final ScrollController _scrollController = ScrollController();
+  final _customPromptController = TextEditingController();
+ Timer? _progressUpdateTimer;
   bool _isTranscribing = false;
   String _transcriptionStatus = '';
   double _transcriptionProgress = 0.0;
@@ -37,15 +40,41 @@ String _remergeStatus = '';
 int _customMsOffset = 0;
 final _msOffsetController = TextEditingController(text: '0');
 
+String? _selectedAudiobookPath;
+List<String> _availableAudiobooks = [];
+
   @override
   void initState() {
     super.initState();
-    _whisperService.initialize();
+    _whisperService.initialize().then((_) {
+      if (mounted) {
+        setState(() {
+          _customPromptController.text = _whisperService.customPrompt;
+          
+          if (_whisperService.isTranscribing) {
+            _isTranscribing = true;
+            _transcriptionStatus = _whisperService.transcriptionStatus;
+            _transcriptionProgress = _whisperService.transcriptionProgress;
+            _totalTranscriptionChapters = _whisperService.totalTranscriptionChapters;
+            _currentTranscriptionChapter = _whisperService.currentTranscriptionChapter;
+            _cumulativeChapterDuration = _whisperService.cumulativeChapterDuration;
+            _totalRemainingDuration = _whisperService.totalRemainingDuration;
+            _initialTotalDuration = _whisperService.initialTotalDuration;
+            _transcriptionStartTime = _whisperService.transcriptionStartTime;
+            _startingRemainingDuration = _whisperService.startingRemainingDuration;
+            
+            _startProgressUpdateTimer();
+          }
+        });
+      }
+    });
   }
 
   @override
   void dispose() {
     _scrollController.dispose();
+    _customPromptController.dispose();
+    _progressUpdateTimer?.cancel();
     super.dispose();
   }
 
@@ -90,6 +119,34 @@ final _msOffsetController = TextEditingController(text: '0');
       }
     }
   }
+
+  Future<void> _scanForAudiobooks() async {
+    if (_chaptersDirectory == null) return;
+    
+    final parentDir = Directory(path.dirname(_chaptersDirectory!));
+    final opusFiles = parentDir
+        .listSync()
+        .where((e) => e is File && e.path.endsWith('.opus'))
+        .map((e) => e.path)
+        .toList();
+    
+    opusFiles.sort();
+    
+    setState(() {
+      _availableAudiobooks = opusFiles;
+      if (opusFiles.isNotEmpty) {
+        final dirName = path.basename(_chaptersDirectory!);
+        final match = RegExp(r'encodedchapters_(\d+)$').firstMatch(dirName);
+        if (match != null) {
+          final num = int.parse(match.group(1)!);
+          if (num <= opusFiles.length) {
+            _selectedAudiobookPath = opusFiles[num - 1];
+          }
+        }
+        _selectedAudiobookPath ??= opusFiles.first;
+      }
+    });
+  }
   
   Future<void> _selectChaptersDirectory() async {
     final result = await FilePicker.platform.getDirectoryPath(
@@ -100,6 +157,8 @@ final _msOffsetController = TextEditingController(text: '0');
       setState(() {
         _chaptersDirectory = result;
       });
+      
+      await _scanForAudiobooks();
       
       if (mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
@@ -114,6 +173,8 @@ final _msOffsetController = TextEditingController(text: '0');
   
   Future<void> _startTranscription() async {
     if (_chaptersDirectory == null) return;
+
+    _whisperService.addPromptToHistory(_whisperService.customPrompt);
     
     final chaptersDir = Directory(_chaptersDirectory!);
     final opusFiles = chaptersDir
@@ -167,6 +228,14 @@ final _msOffsetController = TextEditingController(text: '0');
         _transcriptionProgress = transcribedDuration.inSeconds / _initialTotalDuration.inSeconds;
       }
     });
+
+    _whisperService.transcriptionStartTime = _transcriptionStartTime;
+    _whisperService.totalTranscriptionChapters = _totalTranscriptionChapters;
+    _whisperService.initialTotalDuration = _initialTotalDuration;
+    _whisperService.totalRemainingDuration = _totalRemainingDuration;
+    _whisperService.startingRemainingDuration = _startingRemainingDuration;
+    
+    _startProgressUpdateTimer();
     
     WidgetsBinding.instance.addPostFrameCallback((_) {
       final scrollController = _scrollController;
@@ -187,9 +256,7 @@ final _msOffsetController = TextEditingController(text: '0');
           if (chapterMatch != null) {
             final newChapterNum = int.parse(chapterMatch.group(1)!);
             
-            // When we move to a new chapter, the previous one must be complete
             if (newChapterNum > _currentTranscriptionChapter && _currentTranscriptionChapter > 0) {
-              // Find the opus file that was just completed (0-based index)
               final justCompletedIndex = _currentTranscriptionChapter - 1;
               if (justCompletedIndex >= 0 && justCompletedIndex < opusFiles.length) {
                 final completedFile = opusFiles[justCompletedIndex].path;
@@ -240,6 +307,7 @@ final _msOffsetController = TextEditingController(text: '0');
           );
         }
       },
+      targetAudiobookPath: _selectedAudiobookPath,
     );
     
     if (mounted && _isTranscribing) {
@@ -273,6 +341,28 @@ final _msOffsetController = TextEditingController(text: '0');
         ),
       );
     }
+  }
+
+  void _startProgressUpdateTimer() {
+    _progressUpdateTimer?.cancel();
+    _progressUpdateTimer = Timer.periodic(const Duration(milliseconds: 500), (timer) {
+      if (!_whisperService.isTranscribing) {
+        timer.cancel();
+        if (mounted) {
+          setState(() {
+            _isTranscribing = false;
+          });
+        }
+      } else if (mounted) {
+        setState(() {
+          _transcriptionStatus = _whisperService.transcriptionStatus;
+          _transcriptionProgress = _whisperService.transcriptionProgress;
+          _currentTranscriptionChapter = _whisperService.currentTranscriptionChapter;
+          _cumulativeChapterDuration = _whisperService.cumulativeChapterDuration;
+          _totalRemainingDuration = _whisperService.totalRemainingDuration;
+        });
+      }
+    });
   }
   
   String _formatDuration(Duration d) {
@@ -1012,6 +1102,88 @@ final _msOffsetController = TextEditingController(text: '0');
               foregroundColor: Colors.white,
             ),
           ),
+          
+          // Add audiobook selection dropdown
+          if (_availableAudiobooks.isNotEmpty) ...[
+            const SizedBox(height: 20),
+            const Divider(color: Colors.white24),
+            const SizedBox(height: 12),
+            Row(
+              children: [
+                const Icon(Icons.library_books, color: Colors.blue, size: 20),
+                const SizedBox(width: 8),
+                const Text(
+                  'Target Audiobook',
+                  style: TextStyle(
+                    color: Colors.white,
+                    fontSize: 14,
+                    fontWeight: FontWeight.bold,
+                  ),
+                ),
+              ],
+            ),
+            const SizedBox(height: 8),
+            const Text(
+              'Select which audiobook file these chapters belong to',
+              style: TextStyle(color: Colors.white54, fontSize: 12),
+            ),
+            const SizedBox(height: 12),
+            Container(
+              padding: const EdgeInsets.symmetric(horizontal: 12),
+              decoration: BoxDecoration(
+                color: Colors.black26,
+                borderRadius: BorderRadius.circular(8),
+                border: Border.all(color: Colors.blue.withValues(alpha: 0.3)),
+              ),
+              child: DropdownButtonHideUnderline(
+                child: DropdownButton<String>(
+                  isExpanded: true,
+                  value: _selectedAudiobookPath,
+                  dropdownColor: const Color(0xFF1E1E1E),
+                  style: const TextStyle(color: Colors.white, fontSize: 14),
+                  items: _availableAudiobooks.map((audiobookPath) {
+                    final filename = path.basename(audiobookPath);
+                    return DropdownMenuItem(
+                      value: audiobookPath,
+                      child: Text(
+                        filename,
+                        overflow: TextOverflow.ellipsis,
+                      ),
+                    );
+                  }).toList(),
+                  onChanged: (value) {
+                    setState(() {
+                      _selectedAudiobookPath = value;
+                    });
+                  },
+                ),
+              ),
+            ),
+            if (_availableAudiobooks.length > 1)
+              Padding(
+                padding: const EdgeInsets.only(top: 8),
+                child: Container(
+                  padding: const EdgeInsets.all(8),
+                  decoration: BoxDecoration(
+                    color: Colors.blue.withValues(alpha: 0.1),
+                    borderRadius: BorderRadius.circular(6),
+                    border: Border.all(color: Colors.blue.withValues(alpha: 0.3)),
+                  ),
+                  child: Row(
+                    children: [
+                      const Icon(Icons.info_outline, color: Colors.blue, size: 14),
+                      const SizedBox(width: 6),
+                      Expanded(
+                        child: Text(
+                          'Found ${_availableAudiobooks.length} audiobooks - VTT will be named after selected file',
+                          style: const TextStyle(color: Colors.blue, fontSize: 11),
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+              ),
+          ],
         ],
       ),
     );
@@ -1112,13 +1284,53 @@ final _msOffsetController = TextEditingController(text: '0');
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    const Text(
-                      'Custom Prompt',
-                      style: TextStyle(color: Colors.white70, fontSize: 14),
+                    Row(
+                      children: [
+                        const Text(
+                          'Custom Prompt',
+                          style: TextStyle(color: Colors.white70, fontSize: 14),
+                        ),
+                        const Spacer(),
+                        ElevatedButton(
+                          onPressed: () {
+                            setState(() {
+                              _customPromptController.text = "The example of those who disbelieve is like that of one who shouts at what hears nothing but calls and cries i.e., cattle or sheep - deaf, dumb and blind, so they do not understand.";
+                              _whisperService.customPrompt = _customPromptController.text;
+                              _whisperService.saveSettings();
+                            });
+                          },
+                          style: ElevatedButton.styleFrom(
+                            backgroundColor: Colors.green,
+                            foregroundColor: Colors.white,
+                            padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
+                            minimumSize: const Size(0, 0),
+                          ),
+                          child: const Text('Default', style: TextStyle(fontSize: 11)),
+                        ),
+                        for (int i = 0; i < _whisperService.customPromptHistory.length; i++) ...[
+                          const SizedBox(width: 4),
+                          ElevatedButton(
+                            onPressed: () {
+                              setState(() {
+                                _customPromptController.text = _whisperService.customPromptHistory[i];
+                                _whisperService.customPrompt = _customPromptController.text;
+                                _whisperService.saveSettings();
+                              });
+                            },
+                            style: ElevatedButton.styleFrom(
+                              backgroundColor: Colors.orange,
+                              foregroundColor: Colors.white,
+                              padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
+                              minimumSize: const Size(0, 0),
+                            ),
+                            child: Text('Paste ${i + 2}', style: const TextStyle(fontSize: 11)),
+                          ),
+                        ],
+                      ],
                     ),
                     const SizedBox(height: 8),
                     TextField(
-                      controller: TextEditingController(text: _whisperService.customPrompt),
+                      controller: _customPromptController,
                       maxLines: 2,
                       style: const TextStyle(color: Colors.white, fontSize: 12),
                       decoration: const InputDecoration(
@@ -1328,196 +1540,176 @@ final _msOffsetController = TextEditingController(text: '0');
     );
   }
   
-  Widget _buildTranscriptionProgress() {
-    String elapsedTime = '';
-    String realtimeSpeed = '';
-    String totalDurationStr = '';
-    String remainingDurationStr = '';
-    String estimatedTimeLeftStr = '';
-    String calculationLine1 = '';
-    String calculationLine2 = '';
-    
-    if (_transcriptionStartTime != null) {
-      final elapsed = DateTime.now().difference(_transcriptionStartTime!);
-      final hours = elapsed.inHours;
-      final minutes = elapsed.inMinutes.remainder(60);
-      final seconds = elapsed.inSeconds.remainder(60);
-      
-      if (hours > 0) {
-        elapsedTime = '${hours}h ${minutes}m ${seconds}s';
-      } else {
-        elapsedTime = '${minutes}m ${seconds}s';
-      }
-      
-      double speedMultiplier = 0.0;
-      if (_cumulativeChapterDuration.inSeconds > 0 && elapsed.inSeconds > 0) {
-        speedMultiplier = _cumulativeChapterDuration.inSeconds / elapsed.inSeconds;
-        realtimeSpeed = '${speedMultiplier.toStringAsFixed(1)}x';
-      }
-      
-      if (speedMultiplier > 0 && _totalRemainingDuration.inSeconds > 0) {
-        final estimatedSecondsLeft = _totalRemainingDuration.inSeconds / speedMultiplier;
-        final estDuration = Duration(seconds: estimatedSecondsLeft.round());
-        final estHours = estDuration.inHours;
-        final estMinutes = estDuration.inMinutes.remainder(60);
-        final estSeconds = estDuration.inSeconds.remainder(60);
-        
-        if (estHours > 0) {
-          estimatedTimeLeftStr = '${estHours}h ${estMinutes}m ${estSeconds}s';
-        } else {
-          estimatedTimeLeftStr = '${estMinutes}m ${estSeconds}s';
-        }
-      }
-    }
-    
-    if (_initialTotalDuration.inSeconds > 0) {
-      final totalHours = _initialTotalDuration.inHours;
-      final totalMinutes = _initialTotalDuration.inMinutes.remainder(60);
-      final totalSeconds = _initialTotalDuration.inSeconds.remainder(60);
-      
-      if (totalHours > 0) {
-        totalDurationStr = '${totalHours}h ${totalMinutes}m ${totalSeconds}s';
-      } else {
-        totalDurationStr = '${totalMinutes}m ${totalSeconds}s';
-      }
-    }
-    
-    if (_totalRemainingDuration.inSeconds > 0) {
-      final remainingHours = _totalRemainingDuration.inHours;
-      final remainingMinutes = _totalRemainingDuration.inMinutes.remainder(60);
-      final remainingSeconds = _totalRemainingDuration.inSeconds.remainder(60);
-      
-      if (remainingHours > 0) {
-        remainingDurationStr = '${remainingHours}h ${remainingMinutes}m ${remainingSeconds}s';
-      } else if (remainingMinutes > 0) {
-        remainingDurationStr = '${remainingMinutes}m ${remainingSeconds}s';
-      } else {
-        remainingDurationStr = '${remainingSeconds}s';
-      }
-    }
-    
-    if (_initialTotalDuration.inSeconds > 0) {
-      final totalSeconds = _initialTotalDuration.inSeconds;
-      final remainingSeconds = _totalRemainingDuration.inSeconds;
-      final transcribedSeconds = totalSeconds - remainingSeconds;
-      
-      if (transcribedSeconds >= 0) {
-        calculationLine1 = '($totalDurationStr) ${totalSeconds.toStringAsFixed(0)} - ($remainingDurationStr) ${remainingSeconds.toStringAsFixed(0)} = ${transcribedSeconds.toStringAsFixed(0)} seconds';
-        calculationLine2 = 'Progress calculation: ${transcribedSeconds.toStringAsFixed(0)} / ${totalSeconds.toStringAsFixed(0)} = ${(_transcriptionProgress * 100).toStringAsFixed(2)}%';
-      }
-    }
-    
-    return Container(
-      padding: const EdgeInsets.all(20),
-      decoration: BoxDecoration(
-        color: const Color(0xFF2A2A2A),
-        borderRadius: BorderRadius.circular(12),
-        border: Border.all(color: Colors.deepPurple),
-      ),
-      child: Column(
-        crossAxisAlignment: CrossAxisAlignment.start,
-        children: [
-          Row(
-            children: [
-              const SizedBox(
-                width: 20,
-                height: 20,
-                child: CircularProgressIndicator(
-                  strokeWidth: 2,
-                  valueColor: AlwaysStoppedAnimation<Color>(Colors.deepPurple),
-                ),
-              ),
-              const SizedBox(width: 12),
-              Expanded(
-                child: Text(
-                  '$_transcriptionStatus • Chapter $_currentTranscriptionChapter/$_totalTranscriptionChapters',
-                  style: const TextStyle(
-                    color: Colors.white,
-                    fontSize: 14,
-                  ),
-                ),
-              ),
-              Tooltip(
-                message: 'Resumes from last complete transcribed chapter',
-                child: Icon(
-                  Icons.info_outline,
-                  size: 16,
-                  color: Colors.grey[400],
-                ),
-              ),
-            ],
-          ),
-          const SizedBox(height: 8),
-          Text(
-            'Elapsed Time: $elapsedTime${realtimeSpeed.isNotEmpty ? ' ($realtimeSpeed realtime speed)' : ''}',
-            style: const TextStyle(
-              color: Colors.redAccent,
-              fontSize: 12,
-              fontWeight: FontWeight.bold,
-            ),
-          ),
-          if (totalDurationStr.isNotEmpty) ...[
-            const SizedBox(height: 4),
-            Text(
-              'Total Duration of Audiobook: $totalDurationStr',
-              style: const TextStyle(
-                color: Colors.blueAccent,
-                fontSize: 12,
-                fontWeight: FontWeight.bold,
-              ),
-            ),
-          ],
-          if (remainingDurationStr.isNotEmpty) ...[
-            const SizedBox(height: 4),
-            Text(
-              'Remaining Audio Duration: $remainingDurationStr',
-              style: const TextStyle(
-                color: Colors.yellowAccent,
-                fontSize: 12,
-                fontWeight: FontWeight.bold,
-              ),
-            ),
-          ],
-          if (estimatedTimeLeftStr.isNotEmpty) ...[
-            const SizedBox(height: 4),
-            Text(
-              'Estimated Time Left: $estimatedTimeLeftStr',
-              style: const TextStyle(
-                color: Colors.greenAccent,
-                fontSize: 12,
-                fontWeight: FontWeight.bold,
-              ),
-            ),
-          ],
-          const SizedBox(height: 16),
-          LinearProgressIndicator(
-            value: _transcriptionProgress,
-            backgroundColor: Colors.white12,
-            valueColor: const AlwaysStoppedAnimation<Color>(Colors.deepPurple),
-            minHeight: 8,
-          ),
-          if (calculationLine1.isNotEmpty && calculationLine2.isNotEmpty) ...[
-            const SizedBox(height: 8),
-            Text(
-              calculationLine1,
-              style: const TextStyle(
-                color: Colors.white70,
-                fontSize: 12,
-                fontFamily: 'monospace',
-              ),
-            ),
-            const SizedBox(height: 2),
-            Text(
-              calculationLine2,
-              style: const TextStyle(
-                color: Colors.white70,
-                fontSize: 12,
-                fontFamily: 'monospace',
-              ),
-            ),
-          ],
-        ],
-      ),
-    );
-  }
+ Widget _buildTranscriptionProgress() {
+   String elapsedTime = '';
+   String realtimeSpeed = _whisperService.realtimeSpeed ?? '';
+   String totalDurationStr = '';
+   String remainingDurationStr = '';
+   String estimatedTimeLeftStr = _whisperService.estimatedTimeLeft ?? '';
+   String calculationLine1 = '';
+   String calculationLine2 = '';
+   
+   if (_transcriptionStartTime != null) {
+     final elapsed = DateTime.now().difference(_transcriptionStartTime!);
+     final hours = elapsed.inHours;
+     final minutes = elapsed.inMinutes.remainder(60);
+     final seconds = elapsed.inSeconds.remainder(60);
+     
+     if (hours > 0) {
+       elapsedTime = '${hours}h ${minutes}m ${seconds}s';
+     } else {
+       elapsedTime = '${minutes}m ${seconds}s';
+     }
+   }
+   
+   if (_initialTotalDuration.inSeconds > 0) {
+     final totalHours = _initialTotalDuration.inHours;
+     final totalMinutes = _initialTotalDuration.inMinutes.remainder(60);
+     final totalSeconds = _initialTotalDuration.inSeconds.remainder(60);
+     
+     if (totalHours > 0) {
+       totalDurationStr = '${totalHours}h ${totalMinutes}m ${totalSeconds}s';
+     } else {
+       totalDurationStr = '${totalMinutes}m ${totalSeconds}s';
+     }
+   }
+   
+   if (_totalRemainingDuration.inSeconds > 0) {
+     final remainingHours = _totalRemainingDuration.inHours;
+     final remainingMinutes = _totalRemainingDuration.inMinutes.remainder(60);
+     final remainingSeconds = _totalRemainingDuration.inSeconds.remainder(60);
+     
+     if (remainingHours > 0) {
+       remainingDurationStr = '${remainingHours}h ${remainingMinutes}m ${remainingSeconds}s';
+     } else if (remainingMinutes > 0) {
+       remainingDurationStr = '${remainingMinutes}m ${remainingSeconds}s';
+     } else {
+       remainingDurationStr = '${remainingSeconds}s';
+     }
+   }
+   
+   if (_initialTotalDuration.inSeconds > 0) {
+     final totalSeconds = _initialTotalDuration.inSeconds;
+     final remainingSeconds = _totalRemainingDuration.inSeconds;
+     final transcribedSeconds = totalSeconds - remainingSeconds;
+     
+     if (transcribedSeconds >= 0) {
+       calculationLine1 = '($totalDurationStr) ${totalSeconds.toStringAsFixed(0)} - ($remainingDurationStr) ${remainingSeconds.toStringAsFixed(0)} = ${transcribedSeconds.toStringAsFixed(0)} seconds';
+       calculationLine2 = 'Progress calculation: ${transcribedSeconds.toStringAsFixed(0)} / ${totalSeconds.toStringAsFixed(0)} = ${(_transcriptionProgress * 100).toStringAsFixed(2)}%';
+     }
+   }
+   
+   return Container(
+     padding: const EdgeInsets.all(20),
+     decoration: BoxDecoration(
+       color: const Color(0xFF2A2A2A),
+       borderRadius: BorderRadius.circular(12),
+       border: Border.all(color: Colors.deepPurple),
+     ),
+     child: Column(
+       crossAxisAlignment: CrossAxisAlignment.start,
+       children: [
+         Row(
+           children: [
+             const SizedBox(
+               width: 20,
+               height: 20,
+               child: CircularProgressIndicator(
+                 strokeWidth: 2,
+                 valueColor: AlwaysStoppedAnimation<Color>(Colors.deepPurple),
+               ),
+             ),
+             const SizedBox(width: 12),
+             Expanded(
+               child: Text(
+                 '$_transcriptionStatus • Chapter $_currentTranscriptionChapter/$_totalTranscriptionChapters',
+                 style: const TextStyle(
+                   color: Colors.white,
+                   fontSize: 14,
+                 ),
+               ),
+             ),
+             Tooltip(
+               message: 'Resumes from last complete transcribed chapter',
+               child: Icon(
+                 Icons.info_outline,
+                 size: 16,
+                 color: Colors.grey[400],
+               ),
+             ),
+           ],
+         ),
+         const SizedBox(height: 8),
+         Text(
+           'Elapsed Time: $elapsedTime${realtimeSpeed.isNotEmpty ? ' ($realtimeSpeed realtime speed)' : ''}',
+           style: const TextStyle(
+             color: Colors.redAccent,
+             fontSize: 12,
+             fontWeight: FontWeight.bold,
+           ),
+         ),
+         if (totalDurationStr.isNotEmpty) ...[
+           const SizedBox(height: 4),
+           Text(
+             'Total Duration of Audiobook: $totalDurationStr',
+             style: const TextStyle(
+               color: Colors.blueAccent,
+               fontSize: 12,
+               fontWeight: FontWeight.bold,
+             ),
+           ),
+         ],
+         if (remainingDurationStr.isNotEmpty) ...[
+           const SizedBox(height: 4),
+           Text(
+             'Remaining Audio Duration: $remainingDurationStr',
+             style: const TextStyle(
+               color: Colors.yellowAccent,
+               fontSize: 12,
+               fontWeight: FontWeight.bold,
+             ),
+           ),
+         ],
+         if (estimatedTimeLeftStr.isNotEmpty) ...[
+           const SizedBox(height: 4),
+           Text(
+             'Estimated Time Left: $estimatedTimeLeftStr',
+             style: const TextStyle(
+               color: Colors.greenAccent,
+               fontSize: 12,
+               fontWeight: FontWeight.bold,
+             ),
+           ),
+         ],
+         const SizedBox(height: 16),
+         LinearProgressIndicator(
+           value: _transcriptionProgress,
+           backgroundColor: Colors.white12,
+           valueColor: const AlwaysStoppedAnimation<Color>(Colors.deepPurple),
+           minHeight: 8,
+         ),
+         if (calculationLine1.isNotEmpty && calculationLine2.isNotEmpty) ...[
+           const SizedBox(height: 8),
+           Text(
+             calculationLine1,
+             style: const TextStyle(
+               color: Colors.white70,
+               fontSize: 12,
+               fontFamily: 'monospace',
+             ),
+           ),
+           const SizedBox(height: 2),
+           Text(
+             calculationLine2,
+             style: const TextStyle(
+               color: Colors.white70,
+               fontSize: 12,
+               fontFamily: 'monospace',
+             ),
+           ),
+         ],
+       ],
+     ),
+   );
+ }
 }

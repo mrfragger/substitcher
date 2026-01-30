@@ -27,6 +27,7 @@ Opus chaptered encoder, editor and player with colored subtitles and fancy fonts
 - Transcribe for the following languages: 
 - Afrikaans, Albanian, Amharic, Arabic, Armenian, Azerbaijani, Basque, Belarusian, Bengali, Bosnian, Bulgarian, Catalan, Cebuano, Chichewa, Chinese, Cantonese (CN), Cantonese (HK), Mandarin (TW), Corsican, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Filipino, Finnish, French, Western Frisian, Galician, Georgian, German, Greek, Gujarati, Haitian Creole, Hausa, Hawaiian, Hebrew, Hindi, Hmong, Hungarian, Icelandic, Igbo, Indonesian, Irish, Italian, Japanese, Javanese, Kannada, Kazakh, Khmer, Kinyarwanda, Korean, Kurdish, Kyrgyz, Lao, Latin, Latvian, Lithuanian, Luxembourgish, Macedonian, Malagasy, Malay, Malayalam, Maltese, Māori, Marathi, Mongolian, Myanmar, Nepali, Norwegian, Odia, Pashto, Persian, Polish, Portuguese, Punjabi, Romanian, Russian, Samoan, Scottish Gaelic, Serbian, Sesotho, Shona, Sindhi, Sinhala, Slovak, Slovenian, Somali, Spanish, Sundanese, Swahili, Swedish, Tajik, Tamil, Tatar, Telugu, Thai, Turkish, Turkmen, Ukrainian, Urdu, Uyghur, Uzbek, Vietnamese, Welsh, Xhosa, Yiddish, Yoruba, Zulu
 - Automatically translate to English only from a foreign language if using whisper 2 models but not turbo 3
+- Custom Prompt should use language of audio being transcribed.  Use a few puncuation.  Remebers last 4 used prompts plus default.
 
 ![](images/transcribe2.jpg)
 
@@ -81,7 +82,7 @@ Opus chaptered encoder, editor and player with colored subtitles and fancy fonts
 - sleep at End of Audiobook
 - Z cancel sleep timer
 - pause or adjusting playback speed also cancels sleep timer
-- warning of 60 seconds before closing app
+- warning of 120 seconds before closing app
 - if paused when setting sleep timer, playback is started
 
 ### Chapters

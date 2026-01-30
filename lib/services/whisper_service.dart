@@ -22,13 +22,31 @@ class WhisperService {
   bool splitOnWord = true;
   bool translateToEnglish = false;
 
-Process? _currentWhisperProcess;
-bool _shouldCancelTranscription = false;
+  Process? _currentWhisperProcess;
+  bool _shouldCancelTranscription = false;
+
+  bool isTranscribing = false;
+  String transcriptionStatus = '';
+  double transcriptionProgress = 0.0;
+  int totalTranscriptionChapters = 0;
+  int currentTranscriptionChapter = 0;
+  Duration cumulativeChapterDuration = Duration.zero;
+  Duration totalRemainingDuration = Duration.zero;
+  Duration initialTotalDuration = Duration.zero;
+  DateTime? transcriptionStartTime;
+  Duration? startingRemainingDuration;
+  String? estimatedTimeLeft;
+  String? realtimeSpeed;
+  
+  Function(String, double, Duration)? onProgressCallback;
+  Function(String)? onErrorCallback;
   
   int msOffset = 0;
   bool printColors = false;
   bool useGPU = true;
   String customPrompt = "The example of those who disbelieve is like that of one who shouts at what hears nothing but calls and cries i.e., cattle or sheep - deaf, dumb and blind, so they do not understand.";
+  
+  List<String> customPromptHistory = [];
   
   Future<void> initialize() async {
     final prefs = await SharedPreferences.getInstance();
@@ -52,6 +70,22 @@ bool _shouldCancelTranscription = false;
     splitOnWord = prefs.getBool('whisperSplitOnWord') ?? true;
     customPrompt = prefs.getString('whisperPrompt') ?? customPrompt;
     translateToEnglish = prefs.getBool('whisperTranslate') ?? false;
+    
+    customPromptHistory = prefs.getStringList('whisperPromptHistory') ?? [];
+  }
+  
+  void addPromptToHistory(String prompt) {
+    if (prompt.trim().isEmpty) return;
+    
+    customPromptHistory.remove(prompt);
+    
+    customPromptHistory.insert(0, prompt);
+    
+    if (customPromptHistory.length > 4) {
+      customPromptHistory = customPromptHistory.sublist(0, 4);
+    }
+    
+    saveSettings();
   }
 
   Future<void> cancelTranscription() async {
@@ -136,8 +170,9 @@ bool _shouldCancelTranscription = false;
     await prefs.setBool('whisperSplitOnWord', splitOnWord);
     await prefs.setString('whisperPrompt', customPrompt);
     await prefs.setBool('whisperTranslate', translateToEnglish);
-  }
-      
+    await prefs.setStringList('whisperPromptHistory', customPromptHistory);
+  }  
+
   Future<void> setWhisperExecutable(String path) async {
     whisperExecutablePath = path;
     await saveSettings();
@@ -250,20 +285,28 @@ bool _shouldCancelTranscription = false;
     String chaptersDirectory,
     Function(String status, double progress, Duration cumulativeDuration) onProgress,
     Function(String error) onError,
+    {String? targetAudiobookPath}
   ) async {
     _shouldCancelTranscription = false;
+    isTranscribing = true;
+    onProgressCallback = onProgress;
+    onErrorCallback = onError;
+    
     if (whisperExecutablePath == null || modelDirectory == null) {
+      isTranscribing = false;
       onError('Whisper executable or model directory not set');
       return;
     }
     
     if (!File(whisperExecutablePath!).existsSync()) {
+      isTranscribing = false;
       onError('Whisper executable not found at: $whisperExecutablePath');
       return;
     }
     
     final modelPath = path.join(modelDirectory!, 'ggml-$selectedModel.bin');
     if (!File(modelPath).existsSync()) {
+      isTranscribing = false;
       onError('Model not found: $modelPath');
       return;
     }
@@ -271,6 +314,7 @@ bool _shouldCancelTranscription = false;
     try {
       final chaptersDir = Directory(chaptersDirectory);
       if (!chaptersDir.existsSync()) {
+        isTranscribing = false;
         onError('Chapters directory not found: $chaptersDirectory');
         return;
       }
@@ -282,6 +326,7 @@ bool _shouldCancelTranscription = false;
           .toList();
       
       if (opusFiles.isEmpty) {
+        isTranscribing = false;
         onError('No .opus files found in directory');
         return;
       }
@@ -302,31 +347,33 @@ bool _shouldCancelTranscription = false;
       }
       
       if (skippedChapters.isNotEmpty) {
-        onProgress('Skipped ${skippedChapters.length} already transcribed chapters', 0.0, Duration.zero);
+        transcriptionStatus = 'Skipped ${skippedChapters.length} already transcribed chapters';
+        onProgress(transcriptionStatus, 0.0, Duration.zero);
         await Future.delayed(const Duration(seconds: 1));
       }
       
       if (remainingFiles.isEmpty) {
-        onProgress('All chapters already transcribed!', 1.0, Duration.zero);
+        transcriptionStatus = 'All chapters already transcribed!';
+        transcriptionProgress = 1.0;
+        isTranscribing = false;
+        onProgress(transcriptionStatus, 1.0, Duration.zero);
         return;
       }
       
       final tempWorkDir = Directory(path.join(chaptersDirectory, 'temp_transcribe'));
       
-      final totalChapters = opusFiles.length;
+      totalTranscriptionChapters = opusFiles.length;
       final chapterVttFiles = <String>[];
       
-      Duration cumulativeChapterDuration = Duration.zero;
-      DateTime? sessionStartTime;
+      cumulativeChapterDuration = Duration.zero;
+      DateTime sessionStartTime = DateTime.now();
       
       for (int i = 0; i < remainingFiles.length; i++) {
         if (_shouldCancelTranscription) {
-          onProgress('Transcription cancelled', 0.0, Duration.zero);
+          transcriptionStatus = 'Transcription cancelled';
+          isTranscribing = false;
+          onProgress(transcriptionStatus, 0.0, Duration.zero);
           return;
-        }
-        
-        if (sessionStartTime == null) {
-          sessionStartTime = DateTime.now();
         }
         
         final chapterStart = DateTime.now();
@@ -339,9 +386,13 @@ bool _shouldCancelTranscription = false;
         }
         tempWorkDir.createSync(recursive: true);
         
+        currentTranscriptionChapter = actualChapterNumber;
+        transcriptionStatus = 'Processing chapter $actualChapterNumber/$totalTranscriptionChapters: $chapterName';
+        transcriptionProgress = (actualChapterNumber - 1) / totalTranscriptionChapters;
+        
         onProgress(
-          'Processing chapter $actualChapterNumber/$totalChapters: $chapterName',
-          (actualChapterNumber - 1) / totalChapters,
+          transcriptionStatus,
+          transcriptionProgress,
           cumulativeChapterDuration,
         );
         
@@ -350,7 +401,9 @@ bool _shouldCancelTranscription = false;
           tempWorkDir.path,
           modelPath,
           (segmentStatus, segmentProgress) {
-            final overallProgress = (actualChapterNumber - 1 + segmentProgress) / totalChapters;
+            final overallProgress = (actualChapterNumber - 1 + segmentProgress) / totalTranscriptionChapters;
+            transcriptionStatus = segmentStatus;
+            transcriptionProgress = overallProgress;
             onProgress(segmentStatus, overallProgress, cumulativeChapterDuration);
           },
           onError,
@@ -371,14 +424,42 @@ bool _shouldCancelTranscription = false;
         final chapterTime = _formatElapsed(chapterElapsed.inSeconds);
         final totalTime = _formatElapsed(totalElapsedSeconds);
         
-        final speedMultiplier = cumulativeChapterDuration.inSeconds > 0 && totalElapsedSeconds > 0
-            ? (cumulativeChapterDuration.inSeconds / totalElapsedSeconds)
-            : 0.0;
+        double speedMultiplier = 0.0;
+        if (cumulativeChapterDuration.inSeconds > 0 && totalElapsedSeconds > 0) {
+          speedMultiplier = cumulativeChapterDuration.inSeconds / totalElapsedSeconds;
+          realtimeSpeed = '${speedMultiplier.toStringAsFixed(1)}x';
+        }
+        
         final speedText = speedMultiplier > 0 ? ' (${speedMultiplier.toStringAsFixed(1)}x realtime speed)' : '';
         
+        if (speedMultiplier > 0) {
+          Duration remainingAudio = Duration.zero;
+          for (int j = actualChapterNumber; j < opusFiles.length; j++) {
+            final futureChapterDuration = await _getOpusDuration(opusFiles[j].path);
+            remainingAudio += Duration(seconds: futureChapterDuration.toInt());
+          }
+          
+          final estimatedSecondsLeft = (remainingAudio.inSeconds / speedMultiplier).round();
+          final estDuration = Duration(seconds: estimatedSecondsLeft);
+          final estHours = estDuration.inHours;
+          final estMinutes = estDuration.inMinutes.remainder(60);
+          final estSeconds = estDuration.inSeconds.remainder(60);
+          
+          if (estHours > 0) {
+            estimatedTimeLeft = '${estHours}h ${estMinutes}m ${estSeconds}s';
+          } else {
+            estimatedTimeLeft = '${estMinutes}m ${estSeconds}s';
+          }
+          
+          totalRemainingDuration = remainingAudio;
+        }
+        
+        transcriptionStatus = 'Chapter $actualChapterNumber/$totalTranscriptionChapters complete: $chapterName ($chapterTime | Total: $totalTime$speedText)';
+        transcriptionProgress = actualChapterNumber / totalTranscriptionChapters;
+        
         onProgress(
-          'Chapter $actualChapterNumber/$totalChapters complete: $chapterName ($chapterTime | Total: $totalTime$speedText)',
-          actualChapterNumber / totalChapters,
+          transcriptionStatus,
+          transcriptionProgress,
           cumulativeChapterDuration,
         );
       }
@@ -393,11 +474,15 @@ bool _shouldCancelTranscription = false;
       }
       
       if (allChapterVtts.length > 1) {
-        onProgress('Merging ${allChapterVtts.length} chapter VTT files...', 0.95, cumulativeChapterDuration);
+        transcriptionStatus = 'Merging ${allChapterVtts.length} chapter VTT files...';
+        transcriptionProgress = 0.95;
+        onProgress(transcriptionStatus, 0.95, cumulativeChapterDuration);
+        
         await mergeChapterVttFiles(
           allChapterVtts, 
           chaptersDirectory,
           opusFiles.map((f) => f.path).toList(),
+          targetAudiobookPath: targetAudiobookPath,
         );
       }
       
@@ -405,9 +490,15 @@ bool _shouldCancelTranscription = false;
         tempWorkDir.deleteSync(recursive: true);
       }
       
-      onProgress('Transcription complete!', 1.0, cumulativeChapterDuration);
+      transcriptionStatus = 'Transcription complete!';
+      transcriptionProgress = 1.0;
+      isTranscribing = false;
+      
+      onProgress(transcriptionStatus, 1.0, cumulativeChapterDuration);
       
     } catch (e) {
+      isTranscribing = false;
+      transcriptionStatus = 'Error: $e';
       onError('Transcription error: $e');
     }
   }
@@ -429,22 +520,14 @@ bool _shouldCancelTranscription = false;
     Function(String error) onError,
   ) async {
     final chapterName = path.basenameWithoutExtension(opusFilePath);
-    final logFile = File(path.join(workingDirectory, 'chapter_debug.log'));
     
     try {
-      await logFile.writeAsString('=== START ${DateTime.now()} ===\n');
-      await logFile.writeAsString('Chapter: $chapterName\n', mode: FileMode.append);
-      await logFile.writeAsString('Working dir: $workingDirectory\n', mode: FileMode.append);
       
       onProgress('Splitting into $segmentTime segments...', 0.1);
-      await logFile.writeAsString('Step 1: Splitting...\n', mode: FileMode.append);
       await _splitIntoSegments(opusFilePath, workingDirectory);
-      await logFile.writeAsString('Step 1: Done\n', mode: FileMode.append);
       
       onProgress('Converting segments to WAV...', 0.2);
-      await logFile.writeAsString('Step 2: Converting to WAV...\n', mode: FileMode.append);
       final wavFiles = await _convertToWav(workingDirectory);
-      await logFile.writeAsString('Step 2: Done, ${wavFiles.length} WAV files\n', mode: FileMode.append);
       
       if (wavFiles.isEmpty) {
         onError('No WAV files created');
@@ -452,27 +535,19 @@ bool _shouldCancelTranscription = false;
       }
       
       onProgress('Transcribing ${wavFiles.length} segments...', 0.3);
-      await logFile.writeAsString('Step 3: Running whisper...\n', mode: FileMode.append);
       await _runWhisper(wavFiles, modelPath, workingDirectory);
-      await logFile.writeAsString('Step 3: Done\n', mode: FileMode.append);
       
       onProgress('Organizing VTT files...', 0.7);
-      await logFile.writeAsString('Step 4: Organizing VTT...\n', mode: FileMode.append);
       await _organizeVttFiles(workingDirectory);
-      await logFile.writeAsString('Step 4: Done\n', mode: FileMode.append);
       
       onProgress('Stitching VTT segments...', 0.8);
-      await logFile.writeAsString('Step 5: Stitching...\n', mode: FileMode.append);
       final stitchedVttPath = await _stitchVttFilesForChapter(opusFilePath, workingDirectory);
-      await logFile.writeAsString('Step 5: Done\n', mode: FileMode.append);
       
       onProgress('Chapter complete: $chapterName', 1.0);
-      await logFile.writeAsString('=== COMPLETE ===\n', mode: FileMode.append);
       
       return stitchedVttPath;
       
-    } catch (e, stackTrace) {
-      await logFile.writeAsString('EXCEPTION: $e\n$stackTrace\n', mode: FileMode.append);
+    } catch (e) {
       onError('Error transcribing chapter: $e');
       return null;
     }
@@ -587,7 +662,7 @@ bool _shouldCancelTranscription = false;
         buffer.writeln('AVX2 support: ${hasAVX2 ? "YES ✓" : "NO ✗"}');
         
         if (!hasAVX) {
-          buffer.writeln('\n  CPU COMPATIBILITY WARNING ');
+          buffer.writeln('\n=== CPU COMPATIBILITY WARNING ===');
           buffer.writeln('Your CPU does not support AVX instructions (introduced ~2011-2013).');
           buffer.writeln('The bundled whisper-cli binary requires AVX support.');
           buffer.writeln('You are using very old hardware (pre-2014).');
@@ -875,22 +950,33 @@ bool _shouldCancelTranscription = false;
     return finalVtt;
   }
   
-  Future<void> mergeChapterVttFiles(List<String> chapterVttFiles, String outputDir, List<String> originalOpusFiles) async {
+  Future<void> mergeChapterVttFiles(
+    List<String> chapterVttFiles, 
+    String outputDir, 
+    List<String> originalOpusFiles,
+    {String? targetAudiobookPath}
+  ) async {
     if (chapterVttFiles.isEmpty) return;
     
     final parentDir = Directory(outputDir).parent.path;
-    final opusAudiobook = Directory(parentDir)
-        .listSync()
-        .where((e) => e is File && e.path.endsWith('.opus'))
-        .cast<File>()
-        .firstOrNull;
     
     String baseFilename = 'audiobook_complete';
     String outputPath = parentDir;
     
-    if (opusAudiobook != null) {
-      baseFilename = path.basenameWithoutExtension(opusAudiobook.path);
-      outputPath = path.dirname(opusAudiobook.path);
+    if (targetAudiobookPath != null) {
+      baseFilename = path.basenameWithoutExtension(targetAudiobookPath);
+      outputPath = path.dirname(targetAudiobookPath);
+    } else {
+      final opusAudiobook = Directory(parentDir)
+          .listSync()
+          .where((e) => e is File && e.path.endsWith('.opus'))
+          .cast<File>()
+          .firstOrNull;
+      
+      if (opusAudiobook != null) {
+        baseFilename = path.basenameWithoutExtension(opusAudiobook.path);
+        outputPath = path.dirname(opusAudiobook.path);
+      }
     }
     
     final mergedVttOriginal = path.join(outputDir, '${baseFilename}_original_overlaps.vtt');
@@ -937,7 +1023,18 @@ bool _shouldCancelTranscription = false;
     
     await File(mergedVttOriginal).writeAsString(output.toString());
     
-    final finalVtt = path.join(outputPath, '$baseFilename.vtt');
+    String finalVtt = path.join(outputPath, '$baseFilename.vtt');
+    int counter = 1;
+    
+    while (File(finalVtt).existsSync()) {
+      finalVtt = path.join(outputPath, '${baseFilename}_${counter}.vtt');
+      counter++;
+    }
+    
+    if (counter > 1) {
+      print('VTT file already existed, saved as: ${path.basename(finalVtt)}');
+    }
+    
     await _fixOverlappingTimecodes(mergedVttOriginal, finalVtt);
   }
 

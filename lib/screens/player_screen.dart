@@ -4843,7 +4843,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
             const EncoderScreen(),
             Positioned(
               top: 8,
-              right: 8,
+              left: 8,
               child: IconButton(
                 icon: const Icon(Icons.close, color: Colors.white),
                 iconSize: 32,
