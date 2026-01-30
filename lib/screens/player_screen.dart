@@ -6197,8 +6197,18 @@ class _PlayerScreenState extends State<PlayerScreen> {
       final duration = _totalDuration;
       final hours = duration.inHours;
       final minutes = duration.inMinutes.remainder(60);
-      final formattedDuration = '${hours}h ${minutes}m';
-      final clipboardText = '$artist - $finalTitle ($year) $formattedFileSize $formattedDuration';
+      String formattedDuration;
+      if (hours > 0) {
+        formattedDuration = '${hours}h ${minutes}m';
+      } else if (minutes > 0) {
+        formattedDuration = '${minutes}m';
+      } else {
+        final seconds = duration.inSeconds.remainder(60);
+        formattedDuration = '${seconds}s';
+      }
+
+      const ltr = '\u200E';
+      final clipboardText = '$artist - $finalTitle ($year) $ltr$formattedFileSize $formattedDuration';
       
       await Clipboard.setData(ClipboardData(text: clipboardText));
       
