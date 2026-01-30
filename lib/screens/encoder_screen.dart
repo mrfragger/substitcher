@@ -953,11 +953,19 @@ class _EncoderScreenState extends State<EncoderScreen> {
   Future<void> _seekHissReduced(Duration position) async {
     await _hissReducedPlayer.seek(position);
   }
-  
+
   String _formatTime(Duration d) {
-    final minutes = d.inMinutes;
+    final hours = d.inHours;
+    final minutes = d.inMinutes.remainder(60);
     final seconds = d.inSeconds.remainder(60);
-    return '${minutes}:${seconds.toString().padLeft(2, '0')}';
+    
+    if (hours > 0) {
+      return '${hours}h ${minutes}m ${seconds}s';
+    } else if (minutes > 0) {
+      return '${minutes}m ${seconds}s';
+    } else {
+      return '${seconds}s';
+    }
   }
 
   Widget _buildHissPreviewPanel() {
@@ -1831,6 +1839,7 @@ class _EncoderScreenState extends State<EncoderScreen> {
          title: Row(
            children: [
              if (_files.isNotEmpty) ...[
+              const SizedBox(width: 16),
                ElevatedButton(
                  onPressed: _toggleTitleSource,
                  style: ElevatedButton.styleFrom(
