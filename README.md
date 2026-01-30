@@ -27,7 +27,7 @@ Opus chaptered encoder, editor and player with colored subtitles and fancy fonts
 - Transcribe for the following languages: 
 - Afrikaans, Albanian, Amharic, Arabic, Armenian, Azerbaijani, Basque, Belarusian, Bengali, Bosnian, Bulgarian, Catalan, Cebuano, Chichewa, Chinese, Cantonese (CN), Cantonese (HK), Mandarin (TW), Corsican, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Filipino, Finnish, French, Western Frisian, Galician, Georgian, German, Greek, Gujarati, Haitian Creole, Hausa, Hawaiian, Hebrew, Hindi, Hmong, Hungarian, Icelandic, Igbo, Indonesian, Irish, Italian, Japanese, Javanese, Kannada, Kazakh, Khmer, Kinyarwanda, Korean, Kurdish, Kyrgyz, Lao, Latin, Latvian, Lithuanian, Luxembourgish, Macedonian, Malagasy, Malay, Malayalam, Maltese, Māori, Marathi, Mongolian, Myanmar, Nepali, Norwegian, Odia, Pashto, Persian, Polish, Portuguese, Punjabi, Romanian, Russian, Samoan, Scottish Gaelic, Serbian, Sesotho, Shona, Sindhi, Sinhala, Slovak, Slovenian, Somali, Spanish, Sundanese, Swahili, Swedish, Tajik, Tamil, Tatar, Telugu, Thai, Turkish, Turkmen, Ukrainian, Urdu, Uyghur, Uzbek, Vietnamese, Welsh, Xhosa, Yiddish, Yoruba, Zulu
 - Automatically translate to English only from a foreign language if using whisper 2 models but not turbo 3
-- Custom Prompt should use language of audio being transcribed.  Use a few puncuation.  Remebers last 4 used prompts plus default.
+- Custom Prompt should use language of audio being transcribed.  Use a few punctuation.  Remebers last 4 used prompts plus default.
 
 ![](images/transcribe2.jpg)
 
@@ -66,11 +66,12 @@ Opus chaptered encoder, editor and player with colored subtitles and fancy fonts
 
 ![](images/dictionary.jpg)
 
-### Bilingual Subtitles
+### Subtitle  Manager
+- bilingual subtitles
 - audiobookname_vtt sub directory to keep many subs (autoloads)
 - automatically changes font size based on length of subtitles
 - v Subtitle Manager for bilingual subtitles and loading subs
-- x swap top and bottom
+- x swap top and bottom subtitles
 - set font and color for 'active subtitle' which is the bottom one
 - set font and color for each one top and bottom 
 
@@ -229,7 +230,7 @@ Homebrew
 brew install mrfragger/substitcher/substitcher
 ```
 
-If using whisper large v2 model on 8GB RAM Mac swap file might become huge especially with other apps open.  Swap file will never clear and takes up valuable disk space until rebooting. Log out of user account and login again which is even quicker way to delete swap file.
+If using whisper large v2 model on 8GB RAM Mac swap file might become huge especially with other apps open.  Swap file will never clear and takes up valuable disk space until rebooting. Log out of user account and login again which is even a quicker way to delete swap file.
 
 Windows x64\
 just unzip SubStitcher-windows-x64.zip [releases](https://github.com/mrfragger/substitcher/releases)\
@@ -281,5 +282,5 @@ iOS (may publish in future)
 - Never will get a light theme nor support music
 - Never will support cover images, choose audiobooks with covers and not to use subtitles, use kid3 app (qt free cross-platform app) for embedding a cover image
 - Reason is most audiobook players don't support subtitles, and ones that do, do so due to video support and having a cover image in background intefers with subtitles in most cases
-- It just puts a 16x9 black png image with META_BLOCK_PICTURE with some info along with a png which is based on vorbis comment specification
+- It just puts a 16x9 black png image with META_BLOCK_PICTURE some info which is conforms to vorbis comment specification
 - Developed since 2022 but in Dec 2025 decided to port from mpv front-end lua scripts with uosc ui and remove video editing, LUTs to a flutter / dart app (not just Mac/Linux anymore) and make it purely an audiobook player
