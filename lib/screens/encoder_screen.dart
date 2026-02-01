@@ -1839,7 +1839,7 @@ class _EncoderScreenState extends State<EncoderScreen> {
          title: Row(
            children: [
              if (_files.isNotEmpty) ...[
-              const SizedBox(width: 16),
+              const SizedBox(width: 32),
                ElevatedButton(
                  onPressed: _toggleTitleSource,
                  style: ElevatedButton.styleFrom(

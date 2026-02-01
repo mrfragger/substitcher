@@ -8,6 +8,7 @@ import '../models/adhan_settings.dart';
 import '../models/white_days.dart';
 import '../services/white_days_service.dart';
 import 'dart:math' as math;
+import 'dart:async';
 
 class AdhanClockOverlay extends StatefulWidget {
   final AdhanClockService adhanService;
@@ -25,6 +26,7 @@ class AdhanClockOverlay extends StatefulWidget {
 
 class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
   PrayerTimes? _prayerTimes;
+  Timer? _displayUpdateTimer;
   bool _showSettings = false;
   bool _showLocationDetails = false;
   String _selectedMethod = 'ISNA';
@@ -63,6 +65,19 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
         setState(() => _prayerTimes = times);
       }
     });
+
+    _displayUpdateTimer = Timer.periodic(const Duration(seconds: 30), (timer) {
+      if (mounted) {
+        setState(() {
+        });
+      }
+    });
+  }
+
+  @override
+  void dispose() {
+    _displayUpdateTimer?.cancel();
+    super.dispose();
   }
 
   Future<void> _loadIpCacheDate() async {
@@ -208,9 +223,18 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
       final minutes = diff.inMinutes.remainder(60);
       
       if (hours > 0) {
-        timeRemaining = '${hours}h ${minutes}m';
+        if (minutes > 0) {
+          timeRemaining = '${hours}h ${minutes}m';
+        } else {
+          timeRemaining = '${hours}h';
+        }
       } else {
-        timeRemaining = '${minutes}m';
+        if (minutes > 0) {
+          timeRemaining = '${minutes}m';
+        } else {
+          final seconds = diff.inSeconds.remainder(60);
+          timeRemaining = '${seconds}s';
+        }
       }
     }
     

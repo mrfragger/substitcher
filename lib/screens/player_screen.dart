@@ -102,7 +102,7 @@ class PlayerScreen extends StatefulWidget {
   State<PlayerScreen> createState() => _PlayerScreenState();
 }
 
-class _PlayerScreenState extends State<PlayerScreen> {
+class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver {
   late final WindowListener _windowListener;
   final FFmpegService _ffmpeg = FFmpegService();
   final player = Player();
@@ -248,7 +248,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
   static const platform = MethodChannel('com.substitcher/open_file');
 
   bool _showSleepTimerCountdown = false;
-  int _sleepTimerCountdownSeconds = 60;
+  int _sleepTimerCountdownSeconds = 120;
   Timer? _sleepTimerCountdownTimer;
 
   ColoringMode _coloringMode = ColoringMode.words;
@@ -312,12 +312,14 @@ class _PlayerScreenState extends State<PlayerScreen> {
     _startCacheFlushTimer();
     WidgetsBinding.instance.addPostFrameCallback((_) {
       _focusNode.requestFocus();
+      _adhanClockService.checkNow();
     });
   }
   
   @override
   void dispose() {
     _isDisposed = true;
+    WidgetsBinding.instance.removeObserver(this);
     WakelockPlus.disable();
     windowManager.removeListener(_windowListener);
     _cacheFlushTimer?.cancel();
@@ -380,6 +382,15 @@ class _PlayerScreenState extends State<PlayerScreen> {
       setState(() {
         _showAdhanOverlay = true;
       });
+    }
+  }
+
+  @override
+  void didChangeAppLifecycleState(AppLifecycleState state) {
+    super.didChangeAppLifecycleState(state);
+    
+    if (state == AppLifecycleState.resumed) {
+      _adhanClockService.checkNow();
     }
   }
 
@@ -4606,7 +4617,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
   });
       
       await _loadFontSettings(selectedPath);
-      await player.open(Media(selectedPath));
+      await player.open(Media(selectedPath), play: false);
       await player.setRate(_playbackSpeed);
       await _loadSubtitles(selectedPath);
       _precalculateWordPositions();
@@ -4617,9 +4628,9 @@ class _PlayerScreenState extends State<PlayerScreen> {
         await player.seek(positionToLoad);
         await Future.delayed(const Duration(milliseconds: 50));
       }
-      
-      await player.play();
-      
+
+    await player.play(); 
+
       if (_currentAudiobook != null && !_shouldSkipTracking(path.basenameWithoutExtension(_currentAudiobook!.path))) {
         _statsManager.recordChapterStart();
       }

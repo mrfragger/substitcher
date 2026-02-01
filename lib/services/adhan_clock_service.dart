@@ -188,16 +188,54 @@ class AdhanClockService {
         prayer.$2.minute,
       );
       
-      if (currentMinute == prayerMinute) {
-        _lastPlayedPrayer = currentMinute;
-        _playAdhan(prayer.$1);
-        break;
+      final secondsSincePrayer = now.difference(prayer.$2).inSeconds;
+      
+      if (secondsSincePrayer >= 0 && secondsSincePrayer < 60) {
+        if (_lastPlayedPrayer != prayerMinute) {
+          _lastPlayedPrayer = prayerMinute;
+          _playAdhan(prayer.$1);
+          print('Playing ${prayer.$1} adhan at $now (prayer time was ${prayer.$2})');
+          break;
+        }
       }
     }
   }
 
   void setMainPlayerPauseCallback(Future<void> Function() callback) {
     _mainPlayerCallback = callback;
+  }
+
+  Future<void> checkNow() async {
+    print('=== Manual adhan check triggered at ${DateTime.now()} ===');
+    
+    if (!_isInitialized) {
+      print('Service not initialized, initializing now...');
+      await initialize();
+      return;
+    }
+    
+    if (_settings?.adhanClockEnabled != true) {
+      print('Adhan clock is disabled');
+      return;
+    }
+    
+    if (_latitude == null || _longitude == null) {
+      print('No coordinates available, reloading...');
+      await _loadCoordinates();
+    }
+    
+    if (_latitude == null || _longitude == null) {
+      print('ERROR: Still no coordinates after reload');
+      return;
+    }
+    
+    print('Recalculating prayer times...');
+    await _calculatePrayerTimes();
+    print('Prayer times recalculated');
+    
+    print('Checking for prayer time...');
+    _checkForPrayerTime();
+    print('Prayer time check completed');
   }
   
   Future<void> _playAdhan(String prayerName) async {
