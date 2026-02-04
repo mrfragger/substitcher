@@ -51,9 +51,6 @@ List<String> _availableAudiobooks = [];
         setState(() {
           _customPromptController.text = _whisperService.customPrompt;
           
-          _lastTranscriptionTime = _whisperService.lastTranscriptionTime;
-          _lastRealtimeSpeed = _whisperService.lastRealtimeSpeed;
-          
           if (_whisperService.isTranscribing) {
             _isTranscribing = true;
             _transcriptionStatus = _whisperService.transcriptionStatus;
@@ -324,26 +321,19 @@ List<String> _availableAudiobooks = [];
         finalRealtimeSpeed = _startingRemainingDuration!.inSeconds / elapsed.inSeconds;
       }
       
-      final completionTime = hours > 0 
-          ? '${hours}h ${minutes}m ${seconds}s'
-          : '${minutes}m ${seconds}s';
-      
-      await _whisperService.saveTranscriptionCompletionStats(
-        completionTime,
-        finalRealtimeSpeed,
-      );
-      
       setState(() {
         _isTranscribing = false;
         _transcriptionStatus = 'Transcription complete!';
         _transcriptionProgress = 1.0;
-        _lastTranscriptionTime = completionTime;
+        _lastTranscriptionTime = hours > 0 
+            ? '${hours}h ${minutes}m ${seconds}s'
+            : '${minutes}m ${seconds}s';
         _lastRealtimeSpeed = finalRealtimeSpeed;
         _totalRemainingDuration = Duration.zero;
       });
-    
+
       await _convertAllVttToMarkdown(_chaptersDirectory!);
-    
+
       ScaffoldMessenger.of(context).showSnackBar(
         const SnackBar(
           content: Text('Transcription completed successfully!'),
