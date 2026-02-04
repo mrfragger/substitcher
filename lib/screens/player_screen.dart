@@ -274,6 +274,9 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   DateTime? _lastAudioStreamFetch;
   String? _currentAudioFormat;
 
+  bool _autoConvertAlternates = false;
+  bool _autoConvertMissing = false;
+
   
   @override
   void initState() {
@@ -307,6 +310,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     _loadHistory();
     _loadPlaylist();
     _loadSubtitlePreferences();
+    _loadAutoConversionSettings();
     _loadBookmarks();
     _loadSkipTrackingTerms();
     _startCacheFlushTimer();
@@ -711,6 +715,20 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         _statsManager.recordChapterStart();
       }
     }
+  }
+
+  Future<void> _loadAutoConversionSettings() async {
+    final prefs = await SharedPreferences.getInstance();
+    setState(() {
+      _autoConvertAlternates = prefs.getBool('autoConvertAlternates') ?? false;
+      _autoConvertMissing = prefs.getBool('autoConvertMissing') ?? false;
+    });
+  }
+  
+  Future<void> _saveAutoConversionSettings() async {
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setBool('autoConvertAlternates', _autoConvertAlternates);
+    await prefs.setBool('autoConvertMissing', _autoConvertMissing);
   }
 
   Future<void> _convertSubtitleToDemo() async {
@@ -4818,7 +4836,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     return vttLines.join('\n');
   }
 
-  void _navigateFonts(int direction) {
+  Future<void> _navigateFonts(int direction) async {
     final filteredFonts = _getFilteredFonts();
     if (filteredFonts.isEmpty) return;
     setState(() {
@@ -4826,6 +4844,22 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       _selectedFont = filteredFonts[_selectedFontIndex];
     });
     _scrollToSelectedFont();
+    await _saveFontSettings();
+    
+    if (_autoConvertAlternates && FontAlternatesData.hasFontAlternates(_selectedFont)) {
+      setState(() {
+        _conversionType = 'alternates';
+      });
+      await _applyConversion();
+    } else if (_autoConvertMissing) {
+      final metadata = FontDatabase.getMetadata(_selectedFont);
+      if (metadata != null && metadata.hasMissingLigatures()) {
+        setState(() {
+          _conversionType = 'missing';
+        });
+        await _applyConversion();
+      }
+    }
   }
   
   void _scrollToSelectedFont() {
@@ -4917,13 +4951,17 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             return KeyEventResult.ignored;
           }
   
-          if (event.logicalKey == LogicalKeyboardKey.escape && event is KeyDownEvent) {
-            if (_showPanel) {
-              setState(() {
-                _showPanel = false;
-              });
-              return KeyEventResult.handled;
-            }
+         if (event.logicalKey == LogicalKeyboardKey.escape && event is KeyDownEvent) {
+           if (_showSleepTimerCountdown) {
+             _cancelSleepTimerCountdown();
+             return KeyEventResult.handled;
+           }
+           if (_showPanel) {
+             setState(() {
+               _showPanel = false;
+             });
+             return KeyEventResult.handled;
+           }
           } else if (event.logicalKey == LogicalKeyboardKey.keyC && 
                    HardwareKeyboard.instance.isShiftPressed && event is KeyDownEvent) {
             _copyChaptersList();
@@ -5334,6 +5372,29 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               _jumpToPlaylistItem(8);
               return KeyEventResult.handled;
             }
+          } else if (_showPanel && _panelMode == PanelMode.fonts) {
+            if (event.logicalKey == LogicalKeyboardKey.digit1 || event.logicalKey == LogicalKeyboardKey.numpad1) {
+              _resetConversion();
+              return KeyEventResult.handled;
+            } else if (event.logicalKey == LogicalKeyboardKey.digit2 || event.logicalKey == LogicalKeyboardKey.numpad2) {
+              _convertToDemo();
+              return KeyEventResult.handled;
+            } else if (event.logicalKey == LogicalKeyboardKey.digit3 || event.logicalKey == LogicalKeyboardKey.numpad3) {
+              _convertToDemoUpper();
+              return KeyEventResult.handled;
+            } else if (event.logicalKey == LogicalKeyboardKey.digit4 || event.logicalKey == LogicalKeyboardKey.numpad4) {
+              _convertToAlternates();
+              return KeyEventResult.handled;
+            } else if (event.logicalKey == LogicalKeyboardKey.digit5 || event.logicalKey == LogicalKeyboardKey.numpad5) {
+              _convertToMissing();
+              return KeyEventResult.handled;
+            } else if (event.logicalKey == LogicalKeyboardKey.digit6 || event.logicalKey == LogicalKeyboardKey.numpad6) {
+              _convertToUppercase();
+              return KeyEventResult.handled;
+            } else if (event.logicalKey == LogicalKeyboardKey.digit7 || event.logicalKey == LogicalKeyboardKey.numpad7) {
+              _convertToSeesawCase();
+              return KeyEventResult.handled;
+            }
           } else if (event.logicalKey == LogicalKeyboardKey.keyX && event is KeyDownEvent) {
             if (_primarySubtitlePath != null || _secondarySubtitlePath != null) {
               setState(() {
@@ -5524,13 +5585,28 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                   selectedFont: _selectedFont,
                   selectedFontIndex: _selectedFontIndex,
                   fontScrollController: _fontScrollController,
-                  onFontSelected: (fontName, index) {
+                  onFontSelected: (fontName, index) async {
                     setState(() {
                       _selectedFont = fontName;
                       _selectedFontIndex = index;
                     });
                     _scrollToSelectedFont();
-                    _saveFontSettings();
+                    await _saveFontSettings();
+                    
+                    if (_autoConvertAlternates && FontAlternatesData.hasFontAlternates(fontName)) {
+                      setState(() {
+                        _conversionType = 'alternates';
+                      });
+                      await _applyConversion();
+                    } else if (_autoConvertMissing) {
+                      final metadata = FontDatabase.getMetadata(fontName);
+                      if (metadata != null && metadata.hasMissingLigatures()) {
+                        setState(() {
+                          _conversionType = 'missing';
+                        });
+                        await _applyConversion();
+                      }
+                    }
                   },
                   selectedMainCategory: _selectedMainCategory,
                   selectedSubCategory: _selectedSubCategory,
@@ -5543,6 +5619,20 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                       _selectedFontIndex = 0;
                     });
                     _scrollToSelectedFont();
+                  },
+                  autoConvertAlternates: _autoConvertAlternates,
+                  onAutoConvertAlternatesChanged: (value) async {
+                    setState(() {
+                      _autoConvertAlternates = value ?? false;
+                    });
+                    await _saveAutoConversionSettings();
+                  },
+                  autoConvertMissing: _autoConvertMissing,
+                  onAutoConvertMissingChanged: (value) async {
+                    setState(() {
+                      _autoConvertMissing = value ?? false;
+                    });
+                    await _saveAutoConversionSettings();
                   },
                   customFontDirectory: _customFontDirectory,
                   onSetCustomFontDirectory: _setCustomFontDirectory,
@@ -6409,9 +6499,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     }
     
     if (_isDisposed || !mounted) return;
-    
-    print('_applyConversion: Converting $_subtitleFilePath with type $_conversionType');
-      
+          
     try {
       final content = await File(_subtitleFilePath!).readAsString();
       if (_isDisposed || !mounted) return;

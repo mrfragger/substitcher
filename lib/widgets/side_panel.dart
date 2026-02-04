@@ -152,6 +152,11 @@ class SidePanel extends StatelessWidget {
   final bool isExportingMarkdown;
   final String exportStatus;
   final VoidCallback onExportMarkdown;
+
+  final bool autoConvertAlternates;
+  final Function(bool?) onAutoConvertAlternatesChanged;
+  final bool autoConvertMissing;
+  final Function(bool?) onAutoConvertMissingChanged;
   
   const SidePanel({
     super.key,
@@ -281,6 +286,10 @@ class SidePanel extends StatelessWidget {
     required this.isExportingMarkdown,
     required this.exportStatus,
     required this.onExportMarkdown,
+    required this.autoConvertAlternates,
+    required this.onAutoConvertAlternatesChanged,
+    required this.autoConvertMissing,
+    required this.onAutoConvertMissingChanged,
   });
 
   @override
@@ -1166,7 +1175,7 @@ class SidePanel extends StatelessWidget {
             children: [
               const Text(
                 'Convert subtitle to:',
-                style: TextStyle(color: Colors.white70, fontSize: 14, fontWeight: FontWeight.bold),
+                style: TextStyle(color: Colors.white70, fontSize: 12, fontWeight: FontWeight.bold),
               ),
               const Spacer(),
               if (conversionType != 'none')
@@ -1178,16 +1187,16 @@ class SidePanel extends StatelessWidget {
           ),
           const SizedBox(height: 12),
           Wrap(
-            spacing: 8,
-            runSpacing: 8,
+            spacing: 4,
+            runSpacing: 4,
             children: [
-              _buildConversionButton('Original', onResetConversion),
-              _buildConversionButton('demo', onConvertToDemo),
-              _buildConversionButton('demoUPPERCASE', onConvertToDemoUpper),
-              _buildConversionButton('Alternates', onConvertToAlternates),
-              _buildConversionButton('Missing', onConvertToMissing),
-              _buildConversionButton('UPPERCASE', onConvertToUppercase),
-              _buildConversionButton('SeEsAwCaSe', onConvertToSeesawCase),
+              _buildConversionButton('1original', onResetConversion),
+              _buildConversionButton('2demo', onConvertToDemo),
+              _buildConversionButton('3demoUppercase', onConvertToDemoUpper),
+              _buildConversionButton('4alternates', onConvertToAlternates),
+              _buildConversionButton('5missing', onConvertToMissing),
+              _buildConversionButton('6Uppercase', onConvertToUppercase),
+              _buildConversionButton('7SeEsAwCaSe', onConvertToSeesawCase),
             ],
           ),
         ],
@@ -1708,9 +1717,13 @@ class SidePanel extends StatelessWidget {
           _buildSubCategoryButton('ligatures', FontCategory.ligatures),
           if (selectedSubCategory == FontCategory.ligatures) ...[
             _buildStudioButton('177studio', FontCategory.studio177),
+            _buildStudioButton('Dhabee', FontCategory.dhabee),
+            _buildStudioButton('Putracetol', FontCategory.putracetol),
             _buildStudioButton('Various', FontCategory.various),
           ],
-          _buildSubCategoryButton('Erifqizefont', null, studio: FontCategory.erifqizefont),
+          _buildSubCategoryButton('Dhabee123', null, studio: FontCategory.dhabee123),
+          _buildSubCategoryButton('Erifqizefont123', null, studio: FontCategory.erifqizefont123),
+          _buildSubCategoryButton('Putracetol123', null, studio: FontCategory.putracetol123),
           _buildSubCategoryButton('Various', null, studio: FontCategory.various),
           _buildSubCategoryButton('UPPERCASE', FontCategory.uppercase),
           _buildSubCategoryButton('MustBeUPPERCASE', FontCategory.mustBeUppercase),
@@ -1762,6 +1775,38 @@ class SidePanel extends StatelessWidget {
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.stretch,
             children: [
+              const Text(
+                'Automatic Conversion',
+                style: TextStyle(
+                  color: Colors.white70,
+                  fontSize: 13,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+              const SizedBox(height: 8),
+              CheckboxListTile(
+                title: const Text(
+                  'alternates',
+                  style: TextStyle(color: Colors.white, fontSize: 13),
+                ),
+                value: autoConvertAlternates,
+                onChanged: onAutoConvertAlternatesChanged,
+                activeColor: Colors.deepPurple,
+                contentPadding: EdgeInsets.zero,
+                dense: true,
+              ),
+              CheckboxListTile(
+                title: const Text(
+                  'missing',
+                  style: TextStyle(color: Colors.white, fontSize: 13),
+                ),
+                value: autoConvertMissing,
+                onChanged: onAutoConvertMissingChanged,
+                activeColor: Colors.deepPurple,
+                contentPadding: EdgeInsets.zero,
+                dense: true,
+              ),
+              const SizedBox(height: 8),
               ElevatedButton.icon(
                 onPressed: onSetCustomFontDirectory,
                 icon: const Icon(Icons.folder, size: 16),

@@ -12,6 +12,16 @@ class FontDatabase {
     'Strarat Elegante Font': FontMetadata(fontName: 'Strarat Elegante Font', mainCategory: FontCategory.demo123, subCategories: [FontCategory.ligatures], studio: FontCategory.studio177),
     'Taygiacs': FontMetadata(fontName: 'Taygiacs', mainCategory: FontCategory.demo123, subCategories: [FontCategory.ligatures], studio: FontCategory.studio177),
 
+    // ==================== demo123/ligatures/Dhabee ====================
+    'Daffiys': FontMetadata(fontName: 'Daffiys', mainCategory: FontCategory.demo123, subCategories: [FontCategory.ligatures], studio: FontCategory.dhabee),
+    'Kidsa Plays': FontMetadata(fontName: 'Kidsa Plays', mainCategory: FontCategory.demo123, subCategories: [FontCategory.ligatures], studio: FontCategory.dhabee),
+    'Retro Votre': FontMetadata(fontName: 'Retro Votre', mainCategory: FontCategory.demo123, subCategories: [FontCategory.ligatures], studio: FontCategory.dhabee),
+
+    // ==================== demo123/ligatures/PutraCetol ====================
+    'Sparkster One': FontMetadata(fontName: 'Sparkster One', mainCategory: FontCategory.demo123, subCategories: [FontCategory.ligatures], studio: FontCategory.putracetol),
+    'Stick Figure One': FontMetadata(fontName: 'Stick Figure One', mainCategory: FontCategory.demo123, subCategories: [FontCategory.ligatures], studio: FontCategory.putracetol),
+    'Sweet Kulfi': FontMetadata(fontName: 'Sweet Kulfi', mainCategory: FontCategory.demo123, subCategories: [FontCategory.ligatures], studio: FontCategory.putracetol),
+    
     // ==================== demo123/ligatures/Various ====================
     'Athios': FontMetadata(fontName: 'Athios', mainCategory: FontCategory.demo123, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
     'Bastro': FontMetadata(fontName: 'Bastro', mainCategory: FontCategory.demo123, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
@@ -19,51 +29,40 @@ class FontDatabase {
     'Carevo-personal use': FontMetadata(fontName: 'Carevo-personal use', mainCategory: FontCategory.demo123, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
     'Chocolate Crispy': FontMetadata(fontName: 'Chocolate Crispy', mainCategory: FontCategory.demo123, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
     'Creamy Buttermilk': FontMetadata(fontName: 'Creamy Buttermilk', mainCategory: FontCategory.demo123, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
-    'Daffiys': FontMetadata(fontName: 'Daffiys', mainCategory: FontCategory.demo123, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
     'February Delight': FontMetadata(fontName: 'February Delight', mainCategory: FontCategory.demo123, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
     'Folder Free UltExp': FontMetadata(fontName: 'Folder Free UltExp', mainCategory: FontCategory.demo123, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
     'Gabelo': FontMetadata(fontName: 'Gabelo', mainCategory: FontCategory.demo123, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
     'Galaksinos': FontMetadata(fontName: 'Galaksinos', mainCategory: FontCategory.demo123, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
     'Gareny': FontMetadata(fontName: 'Gareny', mainCategory: FontCategory.demo123, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
     'Hello Farmer': FontMetadata(fontName: 'Hello Farmer', mainCategory: FontCategory.demo123, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
-    'Kidsa Plays': FontMetadata(fontName: 'Kidsa Plays', mainCategory: FontCategory.demo123, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
     'Letter Magic': FontMetadata(fontName: 'Letter Magic', mainCategory: FontCategory.demo123, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
     'Pricedown Black': FontMetadata(fontName: 'Pricedown Black', mainCategory: FontCategory.demo123, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
     'Relia Maliks': FontMetadata(fontName: 'Relia Maliks', mainCategory: FontCategory.demo123, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
-    'Retro Votre': FontMetadata(fontName: 'Retro Votre', mainCategory: FontCategory.demo123, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
-    'Sparkster One': FontMetadata(fontName: 'Sparkster One', mainCategory: FontCategory.demo123, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
-    'Stick Figure One': FontMetadata(fontName: 'Stick Figure One', mainCategory: FontCategory.demo123, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
-    'Sweet Kulfi': FontMetadata(fontName: 'Sweet Kulfi', mainCategory: FontCategory.demo123, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
 
     // ==================== demo123/Erifqizefont ====================
-    'Axaria-personal use': FontMetadata(fontName: 'Axaria-personal use', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.erifqizefont),
-    'Avixariav': FontMetadata(fontName: 'Avixariav', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.erifqizefont),
-    'Boosco Aurora': FontMetadata(fontName: 'Boosco Aurora', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.erifqizefont),
-    'Classica Crastao': FontMetadata(fontName: 'Classica Crastao', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.erifqizefont),
-    'Erf Neot': FontMetadata(fontName: 'Erf Neot', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.erifqizefont),
-    'Gridbox': FontMetadata(fontName: 'Gridbox', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.erifqizefont),
-    'Harderdor Black': FontMetadata(fontName: 'Harderdor Black', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.erifqizefont),
-    'Luminescent Elegance': FontMetadata(fontName: 'Luminescent Elegance', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.erifqizefont),
-    'Trifullnt': FontMetadata(fontName: 'Trifullnt', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.erifqizefont),
-    'Twizzlefrap': FontMetadata(fontName: 'Twizzlefrap', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.erifqizefont),
-    'Weoqios Vintage': FontMetadata(fontName: 'Weoqios Vintage', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.erifqizefont),
-    'Woodikay': FontMetadata(fontName: 'Woodikay', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.erifqizefont),
+    'Axaria-personal use': FontMetadata(fontName: 'Axaria-personal use', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.erifqizefont123),
+    'Avixariav': FontMetadata(fontName: 'Avixariav', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.erifqizefont123),
+    'Boosco Aurora': FontMetadata(fontName: 'Boosco Aurora', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.erifqizefont123),
+    'Classica Crastao': FontMetadata(fontName: 'Classica Crastao', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.erifqizefont123),
+    'Erf Neot': FontMetadata(fontName: 'Erf Neot', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.erifqizefont123),
+    'Gridbox': FontMetadata(fontName: 'Gridbox', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.erifqizefont123),
+    'Harderdor Black': FontMetadata(fontName: 'Harderdor Black', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.erifqizefont123),
+    'Luminescent Elegance': FontMetadata(fontName: 'Luminescent Elegance', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.erifqizefont123),
+    'Trifullnt': FontMetadata(fontName: 'Trifullnt', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.erifqizefont123),
+    'Twizzlefrap': FontMetadata(fontName: 'Twizzlefrap', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.erifqizefont123),
+    'Weoqios Vintage': FontMetadata(fontName: 'Weoqios Vintage', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.erifqizefont123),
+    'Woodikay': FontMetadata(fontName: 'Woodikay', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.erifqizefont123),
 
     // ==================== demo123/Various ====================
-    'Achilles': FontMetadata(fontName: 'Achilles', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.various),
-    'Advait One': FontMetadata(fontName: 'Advait One', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.various),
     'Almaira': FontMetadata(fontName: 'Almaira', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.various),
-    'Amai Haze': FontMetadata(fontName: 'Amai Haze', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.various),
+    'Achilles': FontMetadata(fontName: 'Achilles', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.various),
     'Black Magic': FontMetadata(fontName: 'Black Magic', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.various),
     'Braga': FontMetadata(fontName: 'Braga', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.various),
     'Brohalo': FontMetadata(fontName: 'Brohalo', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.various),
     'Brushaff': FontMetadata(fontName: 'Brushaff', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.various),
     'Bulgaria Moderna Pro': FontMetadata(fontName: 'Bulgaria Moderna Pro', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.various),
     'Chocolate Chips': FontMetadata(fontName: 'Chocolate Chips', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.various),
-    'Chroines': FontMetadata(fontName: 'Chroines', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.various),
-    'Chuckies': FontMetadata(fontName: 'Chuckies', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.various),
     'Curitiba': FontMetadata(fontName: 'Curitiba', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.various),
-    'Furqan': FontMetadata(fontName: 'Furqan', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.various),
     'Gavabon': FontMetadata(fontName: 'Gavabon', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.various),
     'Graffiti Stream Extrude': FontMetadata(fontName: 'Graffiti Stream Extrude', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.various),
     'Insecurity': FontMetadata(fontName: 'Insecurity', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.various),
@@ -71,19 +70,28 @@ class FontDatabase {
     'Karen': FontMetadata(fontName: 'Karen', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.various),
     'Lamberds': FontMetadata(fontName: 'Lamberds', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.various),
     'Lampunk': FontMetadata(fontName: 'Lampunk', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.various),
-    'Liquid Wave': FontMetadata(fontName: 'Liquid Wave', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.various),
-    'Marosdiac': FontMetadata(fontName: 'Marosdiac', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.various),
     'Monkey Act - personal use': FontMetadata(fontName: 'Monkey Act - personal use', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.various),
-    'Pixel Quest': FontMetadata(fontName: 'Pixel Quest', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.various),
-    'Retro Royale': FontMetadata(fontName: 'Retro Royale', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.various),
-    'Retrovia Memories': FontMetadata(fontName: 'Retrovia Memories', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.various),
     'Rieska': FontMetadata(fontName: 'Rieska', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.various),
     'Shepherd - personal use': FontMetadata(fontName: 'Shepherd - personal use', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.various),
     'Sophia Melanie': FontMetadata(fontName: 'Sophia Melanie', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.various),
-    'Shimosa': FontMetadata(fontName: 'Shimosa', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.various),
-    'Shoese Flower': FontMetadata(fontName: 'Shoese Flower', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.various),
     'Solarona Demo': FontMetadata(fontName: 'Solarona Demo', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.various),
     'With Crafty': FontMetadata(fontName: 'With Crafty', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.various),
+    
+    // ==================== demo123/Dhabee ====================
+    'Chroines': FontMetadata(fontName: 'Chroines', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.dhabee123),
+    'Chuckies': FontMetadata(fontName: 'Chuckies', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.dhabee123),
+    'Marosdiac': FontMetadata(fontName: 'Marosdiac', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.dhabee123),
+    'Shimosa': FontMetadata(fontName: 'Shimosa', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.dhabee123),
+    'Shoese Flower': FontMetadata(fontName: 'Shoese Flower', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.dhabee123),
+    
+    // ==================== demo123/PutraCetol ====================
+    'Advait One': FontMetadata(fontName: 'Advait One', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.putracetol123),
+    'Amai Haze': FontMetadata(fontName: 'Amai Haze', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.putracetol123),
+    'Furqan': FontMetadata(fontName: 'Furqan', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.putracetol123),
+    'Liquid Wave': FontMetadata(fontName: 'Liquid Wave', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.putracetol123),
+    'Pixel Quest': FontMetadata(fontName: 'Pixel Quest', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.putracetol123),
+    'Retro Royale': FontMetadata(fontName: 'Retro Royale', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.putracetol123),
+    'Retrovia Memories': FontMetadata(fontName: 'Retrovia Memories', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.putracetol123),
 
     // ==================== demo123/UPPERCASE ====================
     'Albrega Changes': FontMetadata(fontName: 'Albrega Changes', mainCategory: FontCategory.demo123, subCategories: [FontCategory.uppercase], studio: null),
@@ -285,10 +293,9 @@ class FontDatabase {
      'Crabsy Pattya demo version': FontMetadata(fontName: 'Crabsy Pattya demo version', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
      'Hundred Miracles personal use': FontMetadata(fontName: 'Hundred Miracles personal use', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
      'Ralietta': FontMetadata(fontName: 'Ralietta', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
+     'Rocket Raccoon free': FontMetadata(fontName: 'Rocket Raccoon free', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
      'Tadcaster': FontMetadata(fontName: 'Tadcaster', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
  
-     // ==================== demo/ligatures/Favorites ====================
-     'Rocket Raccoon free': FontMetadata(fontName: 'Rocket Raccoon free', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.favorites),
  
      // ==================== demo/missingligatures/177studio ====================
      'Abstract Reflections demo': FontMetadata(fontName: 'Abstract Reflections demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.missingLigatures], studio: FontCategory.studio177, ligaturePairs: ["at", "et", "ge", "in", "ke", "nc", "ng", "of", "ow", "rs", "ta"]),
@@ -372,11 +379,7 @@ class FontDatabase {
      'Scenes Before demo': FontMetadata(fontName: 'Scenes Before demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.mustBeUppercase], studio: FontCategory.studio177),
      'Thrives Risence demo': FontMetadata(fontName: 'Thrives Risence demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.mustBeUppercase], studio: FontCategory.studio177),
      'Wonder Cosmos demo': FontMetadata(fontName: 'Wonder Cosmos demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.mustBeUppercase], studio: FontCategory.studio177),
- 
-     // ==================== demo/MustBeUPPERCASE/Favorites ====================
-     'Chonka Muchas': FontMetadata(fontName: 'Chonka Muchas', mainCategory: FontCategory.demo123, subCategories: [FontCategory.mustBeUppercase], studio: null),
-     // Note: Some of these fonts appear in other categories too, which is fine
-   };
+    };
    
    static FontMetadata? getMetadata(String fontName) => _fonts[fontName];
    

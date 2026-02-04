@@ -16,9 +16,13 @@ class FontCategory {
   
   // Studios/Collections
   static const String studio177 = '177studio';
-  static const String putracetol = 'putracetol';
-  static const String erifqizefont = 'erifqizefont';
-  static const String gluk = 'gluk';
+  static const String putracetol = 'Putracetol';
+  static const String dhabee = 'Dhabee';
+  static const String alpaprana123 = 'Alparana123';
+  static const String dhabee123 = 'Dhabee123';
+  static const String erifqizefont123 = 'Erifqizefont123';
+  static const String putracetol123 = 'Putracetol123';
+  static const String gluk = 'Gluk';
   static const String various = 'various';
   static const String favorites = 'favorites';
 }
