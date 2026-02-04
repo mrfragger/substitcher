@@ -5395,6 +5395,18 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               _convertToSeesawCase();
               return KeyEventResult.handled;
             }
+          } else if (_showPanel && _panelMode == PanelMode.colors) {
+            if (event.logicalKey == LogicalKeyboardKey.digit1 || event.logicalKey == LogicalKeyboardKey.numpad1) {
+              setState(() {
+                _coloringMode = ColoringMode.words;
+              });
+              return KeyEventResult.handled;
+            } else if (event.logicalKey == LogicalKeyboardKey.digit2 || event.logicalKey == LogicalKeyboardKey.numpad2) {
+              setState(() {
+                _coloringMode = ColoringMode.letters;
+              });
+              return KeyEventResult.handled;
+            }
           } else if (event.logicalKey == LogicalKeyboardKey.keyX && event is KeyDownEvent) {
             if (_primarySubtitlePath != null || _secondarySubtitlePath != null) {
               setState(() {

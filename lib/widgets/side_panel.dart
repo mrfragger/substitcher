@@ -1235,9 +1235,9 @@ class SidePanel extends StatelessWidget {
          child: Row(
            mainAxisAlignment: MainAxisAlignment.center,
            children: [
-             _buildColoringModeButton(ColoringMode.words, 'Words', null),
+             _buildColoringModeButton(ColoringMode.words, ' (1) Words', null),
              const SizedBox(width: 12),
-             _buildColoringModeButton(ColoringMode.letters, 'Letters', 'breaks on ligature fonts'),
+             _buildColoringModeButton(ColoringMode.letters, '(2) Letters', 'breaks on ligature fonts'),
            ],
          ),
        ),
