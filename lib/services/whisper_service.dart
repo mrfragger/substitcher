@@ -37,6 +37,8 @@ class WhisperService {
   Duration? startingRemainingDuration;
   String? estimatedTimeLeft;
   String? realtimeSpeed;
+  String? lastTranscriptionTime;
+  double? lastRealtimeSpeed;
   
   Function(String, double, Duration)? onProgressCallback;
   Function(String)? onErrorCallback;
@@ -47,32 +49,67 @@ class WhisperService {
   String customPrompt = "The example of those who disbelieve is like that of one who shouts at what hears nothing but calls and cries i.e., cattle or sheep - deaf, dumb and blind, so they do not understand.";
   
   List<String> customPromptHistory = [];
+
+Future<void> initialize() async {
+  final prefs = await SharedPreferences.getInstance();
   
-  Future<void> initialize() async {
-    final prefs = await SharedPreferences.getInstance();
-    
-    try {
-      whisperExecutablePath = await WhisperBundled.getWhisperExecutablePath();
-      await prefs.setString('whisperExecutablePath', whisperExecutablePath!);
-      print('Using bundled whisper: $whisperExecutablePath');
-    } catch (e) {
-      print('Could not find bundled whisper: $e');
-      whisperExecutablePath = prefs.getString('whisperExecutablePath');
-    }
-    
-    modelDirectory = prefs.getString('whisperModelDirectory');
-    language = prefs.getString('whisperLanguage') ?? 'auto';
-    selectedModel = prefs.getString('whisperModel') ?? 'large-v3-turbo';
-    maxLength = prefs.getInt('whisperMaxLength') ?? 80;
-    segmentTime = prefs.getString('whisperSegmentTime') ?? '0:30';
-        
-    printColors = prefs.getBool('whisperPrintColors') ?? false;
-    splitOnWord = prefs.getBool('whisperSplitOnWord') ?? true;
-    customPrompt = prefs.getString('whisperPrompt') ?? customPrompt;
-    translateToEnglish = prefs.getBool('whisperTranslate') ?? false;
-    
-    customPromptHistory = prefs.getStringList('whisperPromptHistory') ?? [];
+  try {
+    whisperExecutablePath = await WhisperBundled.getWhisperExecutablePath();
+    await prefs.setString('whisperExecutablePath', whisperExecutablePath!);
+    print('Using bundled whisper: $whisperExecutablePath');
+  } catch (e) {
+    print('Could not find bundled whisper: $e');
+    whisperExecutablePath = prefs.getString('whisperExecutablePath');
   }
+  
+  modelDirectory = prefs.getString('whisperModelDirectory');
+  language = prefs.getString('whisperLanguage') ?? 'auto';
+  selectedModel = prefs.getString('whisperModel') ?? 'large-v3-turbo';
+  maxLength = prefs.getInt('whisperMaxLength') ?? 80;
+  segmentTime = prefs.getString('whisperSegmentTime') ?? '0:30';
+      
+  printColors = prefs.getBool('whisperPrintColors') ?? false;
+  splitOnWord = prefs.getBool('whisperSplitOnWord') ?? true;
+  customPrompt = prefs.getString('whisperPrompt') ?? customPrompt;
+  translateToEnglish = prefs.getBool('whisperTranslate') ?? false;
+  
+  customPromptHistory = prefs.getStringList('whisperPromptHistory') ?? [];
+  
+  lastTranscriptionTime = prefs.getString('last_transcription_time');
+  lastRealtimeSpeed = prefs.getDouble('last_realtime_speed');
+}
+
+Future<void> saveSettings() async {
+  final prefs = await SharedPreferences.getInstance();
+  if (whisperExecutablePath != null) {
+    await prefs.setString('whisperExecutablePath', whisperExecutablePath!);
+  }
+  if (modelDirectory != null) {
+    await prefs.setString('whisperModelDirectory', modelDirectory!);
+  }
+  await prefs.setString('whisperLanguage', language);
+  await prefs.setString('whisperModel', selectedModel);
+  await prefs.setInt('whisperMaxLength', maxLength);
+  await prefs.setString('whisperSegmentTime', segmentTime);
+  await prefs.setBool('whisperPrintColors', printColors);
+  await prefs.setBool('whisperSplitOnWord', splitOnWord);
+  await prefs.setString('whisperPrompt', customPrompt);
+  await prefs.setBool('whisperTranslate', translateToEnglish);
+  await prefs.setStringList('whisperPromptHistory', customPromptHistory);
+  
+  if (lastTranscriptionTime != null) {
+    await prefs.setString('last_transcription_time', lastTranscriptionTime!);
+  }
+  if (lastRealtimeSpeed != null) {
+    await prefs.setDouble('last_realtime_speed', lastRealtimeSpeed!);
+  }
+}
+
+Future<void> saveTranscriptionCompletionStats(String time, double speed) async {
+  lastTranscriptionTime = time;
+  lastRealtimeSpeed = speed;
+  await saveSettings();
+}
   
   void addPromptToHistory(String prompt) {
     if (prompt.trim().isEmpty) return;
@@ -153,25 +190,6 @@ class WhisperService {
     _ffmpegPath = 'ffmpeg';
     _ffprobePath = 'ffprobe';
   }
-
-  Future<void> saveSettings() async {
-    final prefs = await SharedPreferences.getInstance();
-    if (whisperExecutablePath != null) {
-      await prefs.setString('whisperExecutablePath', whisperExecutablePath!);
-    }
-    if (modelDirectory != null) {
-      await prefs.setString('whisperModelDirectory', modelDirectory!);
-    }
-    await prefs.setString('whisperLanguage', language);
-    await prefs.setString('whisperModel', selectedModel);
-    await prefs.setInt('whisperMaxLength', maxLength);
-    await prefs.setString('whisperSegmentTime', segmentTime);
-    await prefs.setBool('whisperPrintColors', printColors);
-    await prefs.setBool('whisperSplitOnWord', splitOnWord);
-    await prefs.setString('whisperPrompt', customPrompt);
-    await prefs.setBool('whisperTranslate', translateToEnglish);
-    await prefs.setStringList('whisperPromptHistory', customPromptHistory);
-  }  
 
   Future<void> setWhisperExecutable(String path) async {
     whisperExecutablePath = path;

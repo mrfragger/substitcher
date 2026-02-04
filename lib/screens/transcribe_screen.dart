@@ -51,6 +51,9 @@ List<String> _availableAudiobooks = [];
         setState(() {
           _customPromptController.text = _whisperService.customPrompt;
           
+          _lastTranscriptionTime = _whisperService.lastTranscriptionTime;
+          _lastRealtimeSpeed = _whisperService.lastRealtimeSpeed;
+          
           if (_whisperService.isTranscribing) {
             _isTranscribing = true;
             _transcriptionStatus = _whisperService.transcriptionStatus;
@@ -321,19 +324,26 @@ List<String> _availableAudiobooks = [];
         finalRealtimeSpeed = _startingRemainingDuration!.inSeconds / elapsed.inSeconds;
       }
       
+      final completionTime = hours > 0 
+          ? '${hours}h ${minutes}m ${seconds}s'
+          : '${minutes}m ${seconds}s';
+      
+      await _whisperService.saveTranscriptionCompletionStats(
+        completionTime,
+        finalRealtimeSpeed,
+      );
+      
       setState(() {
         _isTranscribing = false;
         _transcriptionStatus = 'Transcription complete!';
         _transcriptionProgress = 1.0;
-        _lastTranscriptionTime = hours > 0 
-            ? '${hours}h ${minutes}m ${seconds}s'
-            : '${minutes}m ${seconds}s';
+        _lastTranscriptionTime = completionTime;
         _lastRealtimeSpeed = finalRealtimeSpeed;
         _totalRemainingDuration = Duration.zero;
       });
-
+    
       await _convertAllVttToMarkdown(_chaptersDirectory!);
-
+    
       ScaffoldMessenger.of(context).showSnackBar(
         const SnackBar(
           content: Text('Transcription completed successfully!'),
@@ -1469,14 +1479,20 @@ List<String> _availableAudiobooks = [];
         _whisperService.modelDirectory != null &&
         _chaptersDirectory != null &&
         !_isTranscribing;
-
+  
     return Column(
       children: [
         Row(
           children: [
             Expanded(
               child: ElevatedButton.icon(
-                onPressed: canTranscribe ? _startTranscription : null,
+                onPressed: canTranscribe ? () async {
+                  setState(() {
+                    _isTranscribing = true;
+                    _transcriptionStatus = 'Initializing...';
+                  });
+                  await _startTranscription();
+                } : null,
                 icon: const Icon(Icons.play_arrow, size: 24),
                 label: const Text(
                   'Start Transcription',
