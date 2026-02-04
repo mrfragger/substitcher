@@ -17,7 +17,12 @@ import '../services/whisper_service.dart';
 
 
 class EncoderScreen extends StatefulWidget {
-  const EncoderScreen({super.key});
+  final String? currentAudiobookPath;
+  
+  const EncoderScreen({
+    super.key,
+    this.currentAudiobookPath,
+  });
 
   @override
   State<EncoderScreen> createState() => _EncoderScreenState();
@@ -639,18 +644,91 @@ class _EncoderScreenState extends State<EncoderScreen> {
   }
 
   Future<void> _extractChapters() async {
-    final result = await FilePicker.platform.pickFiles(
-      type: FileType.custom,
-      allowedExtensions: ['opus', 'm4a', 'm4b', 'ogg', 'mkv'],
-    );
+    String? filePath;
     
-    if (result == null || result.files.isEmpty) return;
+    if (widget.currentAudiobookPath != null) {
+      final audiobookName = path.basename(widget.currentAudiobookPath!);
+      
+      final choice = await showDialog<String>(
+        context: context,
+        builder: (context) => AlertDialog(
+          backgroundColor: const Color(0xFF1E1E1E),
+          title: const Text(
+            'Extract Chapters',
+            style: TextStyle(color: Colors.white),
+          ),
+          content: Column(
+            mainAxisSize: MainAxisSize.min,
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              const Text(
+                'Extract chapters from which audiobook?',
+                style: TextStyle(color: Colors.white70),
+              ),
+              const SizedBox(height: 16),
+              Container(
+                padding: const EdgeInsets.all(12),
+                decoration: BoxDecoration(
+                  color: Colors.black26,
+                  borderRadius: BorderRadius.circular(8),
+                ),
+                child: Row(
+                  children: [
+                    const Icon(Icons.audiotrack, color: Colors.blue, size: 16),
+                    const SizedBox(width: 8),
+                    Expanded(
+                      child: Text(
+                        'Currently loaded:\n$audiobookName',
+                        style: const TextStyle(color: Colors.white54, fontSize: 12),
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+            ],
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.pop(context, 'cancel'),
+              child: const Text('Cancel'),
+            ),
+            ElevatedButton(
+              onPressed: () => Navigator.pop(context, 'select'),
+              child: const Text('Choose Audiobook'),
+            ),
+            ElevatedButton(
+              onPressed: () => Navigator.pop(context, 'current'),
+              style: ElevatedButton.styleFrom(
+                backgroundColor: Colors.deepPurple,
+              ),
+              child: const Text('Use Current Loaded Audiobook'),
+            ),
+          ],
+        ),
+      );
+      
+      if (choice == null || choice == 'cancel') return;
+      
+      if (choice == 'current') {
+        filePath = widget.currentAudiobookPath;
+      }
+    }
     
-    final filePath = result.files.first.path!;
+    if (filePath == null) {
+      final result = await FilePicker.platform.pickFiles(
+        type: FileType.custom,
+        allowedExtensions: ['opus', 'm4a', 'm4b', 'ogg', 'mkv'],
+      );
+      
+      if (result == null || result.files.isEmpty) return;
+      
+      filePath = result.files.first.path!;
+    }
+    
     final ext = path.extension(filePath).toLowerCase();
     
-    if (ext != '.opus' && ext != '.m4a' && ext != '.m4b' && ext != '.mkv') {
-      _showError('Please select an .opus, .m4a, .m4b or .mkv file');
+    if (ext != '.opus' && ext != '.m4a' && ext != '.m4b' && ext != '.mkv' && ext != '.ogg') {
+      _showError('Please select an .opus, .m4a, .m4b, .ogg or .mkv file');
       return;
     }
     

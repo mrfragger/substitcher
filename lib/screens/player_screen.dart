@@ -4905,7 +4905,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         backgroundColor: Colors.black,
         body: Stack(
           children: [
-            const EncoderScreen(),
+            EncoderScreen(currentAudiobookPath: _currentAudiobook?.path),
             Positioned(
               top: 8,
               left: 8,
