@@ -53,7 +53,12 @@ class MyApp extends StatelessWidget {
         ),
         useMaterial3: true,
         scaffoldBackgroundColor: const Color(0xFF121212),
-        cardColor: const Color(0xFF1E1E1E),
+        cardColor: const Color(0xFF2A2A2A),
+        snackBarTheme: const SnackBarThemeData(
+          backgroundColor: Color(0xFF2A2A2A),
+          contentTextStyle: TextStyle(color: Colors.white),
+          actionTextColor: Colors.lightBlue,
+        ),
       ),
       home: const PlayerScreen(),
       debugShowCheckedModeBanner: false,
