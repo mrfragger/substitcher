@@ -306,7 +306,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       _loadChapterIndex();
     });
     _loadDurationCache();
-    _statsManager.initialize();
+    _loadInitialStats();
     _loadHistory();
     _loadPlaylist();
     _loadSubtitlePreferences();
@@ -336,6 +336,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         _statsManager.recordChapterEnd(
           path.basenameWithoutExtension(_currentAudiobook!.path),
           currentChapter.title,
+          false,
         );
         _statsManager.flushCacheToLog();
       }
@@ -410,6 +411,13 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     if (call.method == 'openFile') {
       final String filePath = call.arguments as String;
       await _openAudiobook(filePath);
+    }
+  }
+
+  Future<void> _loadInitialStats() async {
+    await _statsManager.initialize();
+    if (mounted) {
+      setState(() {});
     }
   }
 
@@ -577,6 +585,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           _statsManager.recordChapterEnd(
             path.basenameWithoutExtension(_currentAudiobook!.path),
             currentChapter.title,
+            false,
           );
           await _statsManager.flushCacheToLog().timeout(const Duration(milliseconds: 500));
         }
@@ -624,6 +633,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           _statsManager.recordChapterEnd(
             path.basenameWithoutExtension(_currentAudiobook!.path),
             currentChapter.title,
+            false,
           );
         }
       
@@ -4136,6 +4146,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       await _statsManager.recordChapterEnd(
         path.basenameWithoutExtension(_currentAudiobook!.path),
         currentChapter.title,
+        _shouldSkipTracking(path.basenameWithoutExtension(_currentAudiobook!.path)),
       );
       if (!_shouldSkipTracking(path.basenameWithoutExtension(_currentAudiobook!.path))) {
         await _statsManager.flushCacheToLog();
@@ -4159,6 +4170,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       await _statsManager.recordChapterEnd(
         path.basenameWithoutExtension(_currentAudiobook!.path),
         currentChapter.title,
+        _shouldSkipTracking(path.basenameWithoutExtension(_currentAudiobook!.path)),
       );
       if (!_shouldSkipTracking(path.basenameWithoutExtension(_currentAudiobook!.path))) {
         await _statsManager.flushCacheToLog();
@@ -4194,6 +4206,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         await _statsManager.recordChapterEnd(
           path.basenameWithoutExtension(_currentAudiobook!.path),
           currentChapter.title,
+          _shouldSkipTracking(path.basenameWithoutExtension(_currentAudiobook!.path)),
         );
         if (!_shouldSkipTracking(path.basenameWithoutExtension(_currentAudiobook!.path))) {
           _statsManager.flushCacheToLog();
@@ -4570,6 +4583,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         await _statsManager.recordChapterEnd(
           path.basenameWithoutExtension(_currentAudiobook!.path),
           currentChapter.title,
+          false,
         );
         await _statsManager.flushCacheToLog();
       }
@@ -7084,6 +7098,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           _statsManager.recordChapterEnd(
             path.basenameWithoutExtension(_currentAudiobook!.path),
             currentChapter.title,
+            false,
           );
           await _statsManager.flushCacheToLog();
         }

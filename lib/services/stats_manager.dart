@@ -193,8 +193,8 @@ class StatsManager {
     return total;
   }
   
-  Future<void> recordChapterEnd(String audiobookPath, String chapterTitle) async {
-    if (!statsEnabled || chapterStartTime == null) return;
+  Future<void> recordChapterEnd(String audiobookPath, String chapterTitle, bool shouldSkip) async {
+    if (!statsEnabled || chapterStartTime == null || shouldSkip) return;
     
     if (sessionStartTime != null) {
       final elapsed = DateTime.now().difference(sessionStartTime!);

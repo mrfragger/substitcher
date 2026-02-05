@@ -388,15 +388,34 @@ class PlayerControls extends StatelessWidget {
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: [
                     Expanded(
-                      child: Text(
-                        '$progressPercent% ${_formatDurationWithMs(currentPosition)} / ${_formatDuration(totalDuration)} • $selectedFont • ${conversionType == 'none' ? 'Original' : conversionType}${currentColorPalette != null ? ' • ${currentColorPalette!.name}' : ''} • ${subtitleFontSize.toInt()} • ${subtitleLineSpacing.toStringAsFixed(2)}',
-                        style: const TextStyle(
-                          color: Colors.white70,
-                          fontSize: 12,
-                          fontFamily: 'monospace',
-                          fontFeatures: [FontFeature.tabularFigures()],
-                        ),
+                      child: RichText(
                         overflow: TextOverflow.ellipsis,
+                        text: TextSpan(
+                          style: const TextStyle(
+                            color: Colors.white70,
+                            fontSize: 12,
+                            fontFamily: 'monospace',
+                            fontFeatures: [FontFeature.tabularFigures()],
+                          ),
+                          children: [
+                            TextSpan(text: '$progressPercent% ${_formatDurationWithMs(currentPosition)} / ${_formatDuration(totalDuration)} '),
+                            TextSpan(text: selectedFont),
+                            TextSpan(text: ' '),
+                            TextSpan(
+                              text: conversionType == 'none' ? 'Original' : conversionType,
+                              style: const TextStyle(color: Colors.green),
+                            ),
+                            if (currentColorPalette != null) ...[
+                              TextSpan(text: ' ${currentColorPalette!.name}'),
+                            ],
+                            TextSpan(text: ' '),
+                            TextSpan(
+                              text: '${subtitleFontSize.toInt()}',
+                              style: const TextStyle(color: Colors.green),
+                            ),
+                            TextSpan(text: ' ${subtitleLineSpacing.toStringAsFixed(2)}'),
+                          ],
+                        ),
                       ),
                     ),
                     Row(
