@@ -1,7 +1,7 @@
 name: substitcher
-description: Audiobook encoder and player with subtitle support
+description: Audiobook encoder and player with colored subtitle support
 publish_to: 'none'
-version: 26.01.07
+version: 26.02.06
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
@@ -40,6 +40,7 @@ dependencies:
   cupertino_icons: ^1.0.6
   shared_preferences: ^2.3.3
   window_manager: ^0.5.1
+  package_info_plus: ^8.0.0
   
   # Character handling for CJK tokenization
   characters: ^1.4.0

@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:media_kit/media_kit.dart';
 import 'package:window_manager/window_manager.dart';
+import 'package:package_info_plus/package_info_plus.dart';
 import 'dart:io';
 import 'screens/player_screen.dart';
 import 'services/font_loader.dart';
@@ -8,18 +9,22 @@ import 'services/font_loader.dart';
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   MediaKit.ensureInitialized();
+  
+  final packageInfo = await PackageInfo.fromPlatform();
+  final version = packageInfo.version;
+  final appTitle = 'SubStitcher $version';
     
   if (Platform.isWindows || Platform.isLinux || Platform.isMacOS) {
     await windowManager.ensureInitialized();
     
-    WindowOptions windowOptions = const WindowOptions(
-      title: 'SubStitcher 26.02.05',
+    WindowOptions windowOptions = WindowOptions(
+      title: appTitle,
       skipTaskbar: false,
       titleBarStyle: TitleBarStyle.normal,
     );
     
     await windowManager.waitUntilReadyToShow(windowOptions, () async {
-      await windowManager.setTitle('SubStitcher 26.02.05');
+      await windowManager.setTitle(appTitle);
       await windowManager.maximize();
       await windowManager.show();
       await windowManager.focus();
@@ -28,16 +33,18 @@ void main() async {
   
   await CustomFontLoader.loadFonts();
   
-  runApp(const MyApp());
+  runApp(MyApp(title: appTitle));
 }
 
 class MyApp extends StatelessWidget {
-  const MyApp({super.key});
+  final String title;
+  
+  const MyApp({super.key, required this.title});
 
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'SubStitcher 26.02.05',
+      title: title,
       themeMode: ThemeMode.dark,
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(

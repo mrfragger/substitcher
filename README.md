@@ -208,8 +208,8 @@ Opus chaptered encoder, editor and player with colored subtitles and fancy fonts
 ![](images/ankitoopus1.jpg)
 ![](images/ankitoopus2.jpg)
 
-sample anki to opus audiobook from here [124MiB](https://ankiweb.net/shared/info/696438310)
-down to 13MiB with 4x repeating audio 1h 57m ![Spanish - 599 Verb Conjugations by Frequency.zip](images/Spanish_-_599_Verb_Conjugations_by_Frequency.zip)
+sample anki to opus audiobook from here [124MiB](https://ankiweb.net/shared/info/696438310)\
+down to 13MiB with 4x repeating audio 1h 57m ![Spanish - 599 Verb Conjugations by Frequency.zip](images/Spanish_-_599_Verb_Conjugations_by_Frequency.zip)\
 try Pause mode 2s, Hide Chapter Title, Shuffle 
 
 ### Youtube
@@ -221,7 +221,7 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 - choose audio streams
 
 ### Installation
-macOS (arm64 Silicon m1,m2,m3,m4,m26) after installing dmg via [releases](https://github.com/mrfragger/substitcher/releases) or via homebrew in Terminal do
+macOS 11.0+ (arm64 Silicon m1,m2,m3,m4,m5) after installing dmg via [releases](https://github.com/mrfragger/substitcher/releases) or via homebrew in Terminal do
 ```bash
 xattr -dr com.apple.quarantine /Applications/SubStitcher.app
 ```

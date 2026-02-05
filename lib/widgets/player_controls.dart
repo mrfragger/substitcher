@@ -398,12 +398,16 @@ class PlayerControls extends StatelessWidget {
                             fontFeatures: [FontFeature.tabularFigures()],
                           ),
                           children: [
-                            TextSpan(text: '$progressPercent% ${_formatDurationWithMs(currentPosition)} / ${_formatDuration(totalDuration)} '),
+                            TextSpan(
+                              text: '$progressPercent% ',
+                              style: const TextStyle(color: Colors.orange),
+                            ),
+                            TextSpan(text: '${_formatDurationWithMs(currentPosition)} / ${_formatDuration(totalDuration)} '),
                             TextSpan(text: selectedFont),
                             TextSpan(text: ' '),
                             TextSpan(
                               text: conversionType == 'none' ? 'Original' : conversionType,
-                              style: const TextStyle(color: Colors.green),
+                              style: const TextStyle(color: Colors.orange),
                             ),
                             if (currentColorPalette != null) ...[
                               TextSpan(text: ' ${currentColorPalette!.name}'),
@@ -411,7 +415,7 @@ class PlayerControls extends StatelessWidget {
                             TextSpan(text: ' '),
                             TextSpan(
                               text: '${subtitleFontSize.toInt()}',
-                              style: const TextStyle(color: Colors.green),
+                              style: const TextStyle(color: Colors.orange),
                             ),
                             TextSpan(text: ' ${subtitleLineSpacing.toStringAsFixed(2)}'),
                           ],
