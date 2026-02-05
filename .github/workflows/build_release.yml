@@ -337,26 +337,26 @@ jobs:
           name: android-build
           path: build/app/outputs/flutter-apk/substitcher-android-universal.apk
 
-    create-release:
-      needs: [build-macos-arm64, build-macos-intel, build-windows, build-linux-appimage, build-linux-flatpak, build-android]
-    runs-on: ubuntu-latest
-    if: startsWith(github.ref, 'refs/tags/')
-    steps:
-      - name: Download all artifacts
-        uses: actions/download-artifact@v4
-      
-      - name: Create Release
-        uses: softprops/action-gh-release@v1
-        with:
-          files: |
-            macos-arm64-build/SubStitcher-macOS-arm64.dmg            
-            macos-intel-build/SubStitcher-macOS-x86_64.dmg
-            linux-appimage-build/substitcher-*.AppImage
-            linux-flatpak-build/substitcher-x64.flatpak
-            windows-build/SubStitcher-Windows-x64.zip
-            android-build/substitcher-android-universal.apk
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  create-release:
+    needs: [build-macos-arm64, build-macos-intel, build-windows, build-linux-appimage, build-linux-flatpak, build-android]
+  runs-on: ubuntu-latest
+  if: startsWith(github.ref, 'refs/tags/')
+  steps:
+    - name: Download all artifacts
+      uses: actions/download-artifact@v4
+    
+    - name: Create Release
+      uses: softprops/action-gh-release@v1
+      with:
+        files: |
+          macos-arm64-build/SubStitcher-macOS-arm64.dmg            
+          macos-intel-build/SubStitcher-macOS-x86_64.dmg
+          linux-appimage-build/substitcher-*.AppImage
+          linux-flatpak-build/substitcher-x64.flatpak
+          windows-build/SubStitcher-Windows-x64.zip
+          android-build/substitcher-android-universal.apk
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
   update-aur:
     name: Update AUR Package
