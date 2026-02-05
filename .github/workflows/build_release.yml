@@ -10,7 +10,7 @@ permissions:
   contents: write
 
 jobs:
-  build-macos:
+  build-macos-arm64:
     runs-on: macos-latest
     steps:
       - uses: actions/checkout@v4
@@ -19,18 +19,18 @@ jobs:
         with:
           channel: 'stable'
       
-      - name: Download macOS FFmpeg
+      - name: Download arm64 FFmpeg
         uses: dawidd6/action-download-artifact@v2
         with:
           workflow: build_ffmpeg.yml
-          name: ffmpeg-macos
+          name: ffmpeg-macos-arm64
           path: macos/Runner/Resources/bin/
       
-      - name: Download macOS Whisper
+      - name: Download arm64 Whisper
         uses: dawidd6/action-download-artifact@v2
         with:
           workflow: build_whisper.yml
-          name: whisper-macos
+          name: whisper-macos-arm64
           path: macos/Runner/Resources/whisper/
       
       - name: Build macOS (arm64 only)
@@ -50,11 +50,56 @@ jobs:
             "SubStitcher-macOS-arm64.dmg" \
             "build/macos/Build/Products/Release/SubStitcher.app"
       
-      - name: Upload macOS artifact
+      - name: Upload macOS arm64 artifact
         uses: actions/upload-artifact@v4
         with:
-          name: macos-build
+          name: macos-arm64-build
           path: SubStitcher-macOS-arm64.dmg
+  
+  build-macos-intel:
+    runs-on: macos-13
+    steps:
+      - uses: actions/checkout@v4
+      
+      - uses: subosito/flutter-action@v2
+        with:
+          channel: 'stable'
+      
+      - name: Download x86_64 FFmpeg
+        uses: dawidd6/action-download-artifact@v2
+        with:
+          workflow: build_ffmpeg.yml
+          name: ffmpeg-macos-x86_64
+          path: macos/Runner/Resources/bin/
+      
+      - name: Configure for x86_64
+        run: |
+          echo "ARCHS = x86_64" >> macos/Runner/Configs/Release.xcconfig
+          echo "ONLY_ACTIVE_ARCH = NO" >> macos/Runner/Configs/Release.xcconfig
+          echo "VALID_ARCHS = x86_64" >> macos/Runner/Configs/Release.xcconfig
+      
+      - name: Build macOS (x86_64 only)
+        run: |
+          flutter pub get
+          flutter build macos --release
+      
+      - name: Create DMG
+        run: |
+          brew install create-dmg
+          create-dmg \
+            --volname "SubStitcher" \
+            --window-pos 200 120 \
+            --window-size 600 300 \
+            --icon-size 100 \
+            --app-drop-link 425 120 \
+            "SubStitcher-macOS-x86_64.dmg" \
+            "build/macos/Build/Products/Release/SubStitcher.app"
+      
+      - name: Upload macOS x86_64 artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: macos-intel-build
+          path: SubStitcher-macOS-x86_64.dmg
 
   build-linux-appimage:
     runs-on: ubuntu-latest
@@ -292,8 +337,8 @@ jobs:
           name: android-build
           path: build/app/outputs/flutter-apk/substitcher-android-universal.apk
 
-  create-release:
-    needs: [build-macos, build-windows, build-linux-appimage, build-linux-flatpak, build-android]
+    create-release:
+      needs: [build-macos-arm64, build-macos-intel, build-windows, build-linux-appimage, build-linux-flatpak, build-android]
     runs-on: ubuntu-latest
     if: startsWith(github.ref, 'refs/tags/')
     steps:
@@ -304,7 +349,8 @@ jobs:
         uses: softprops/action-gh-release@v1
         with:
           files: |
-            macos-build/SubStitcher-macOS-arm64.dmg
+            macos-arm64-build/SubStitcher-macOS-arm64.dmg            
+            macos-intel-build/SubStitcher-macOS-x86_64.dmg
             linux-appimage-build/substitcher-*.AppImage
             linux-flatpak-build/substitcher-x64.flatpak
             windows-build/SubStitcher-Windows-x64.zip
@@ -390,7 +436,7 @@ jobs:
         - name: Download DMG artifact
           uses: actions/download-artifact@v4
           with:
-            name: macos-build
+            name: macos-arm64-build
             path: artifacts
         
         - name: Calculate SHA256
