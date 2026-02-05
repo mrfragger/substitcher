@@ -1,5 +1,5 @@
 name: substitcher
-description: Audiobook encoder and player with colored subtitle support
+description: opus chaptered audiobook player and editor with colored subtitle support
 publish_to: 'none'
 version: 26.02.06
 
@@ -40,7 +40,7 @@ dependencies:
   cupertino_icons: ^1.0.6
   shared_preferences: ^2.3.3
   window_manager: ^0.5.1
-  package_info_plus: ^8.0.0
+  package_info_plus: ^9.0.0
   
   # Character handling for CJK tokenization
   characters: ^1.4.0
