@@ -278,8 +278,9 @@ class FrequencyAnalyzer {
     
     final wordFreq = <String, int>{};
     for (final word in words) {
-      if (!_commonWords.contains(word)) {
-        wordFreq[word] = (wordFreq[word] ?? 0) + 1;
+      final cleanWord = word.replaceAll(',', '');
+      if (!_commonWords.contains(cleanWord)) {
+        wordFreq[cleanWord] = (wordFreq[cleanWord] ?? 0) + 1;
       }
     }
     
