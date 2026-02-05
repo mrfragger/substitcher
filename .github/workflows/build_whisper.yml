@@ -46,135 +46,103 @@ jobs:
           path: whisper-binaries/linux/
   
   build-whisper-macos:
-    runs-on: macos-latest
-    steps:
-      - uses: actions/checkout@v4
-      
-      - name: Clone whisper.cpp
-        run: |
-          git clone https://github.com/ggerganov/whisper.cpp.git
-          cd whisper.cpp
-          git checkout v1.8.2
-      
-      - name: Build x86_64 (no Metal)
-        run: |
-          cd whisper.cpp
-          mkdir build-x86_64 && cd build-x86_64
-          cmake .. \
-            -DCMAKE_BUILD_TYPE=Release \
-            -DCMAKE_OSX_ARCHITECTURES=x86_64 \
-            -DGGML_NATIVE=OFF \
-            -DGGML_METAL=OFF \
-            -DWHISPER_METAL=OFF \
-            -DWHISPER_BUILD_TESTS=OFF \
-            -DWHISPER_BUILD_EXAMPLES=ON
-          cmake --build . --config Release -j 4
-          strip bin/whisper-cli
-      
-      - name: Build arm64 (with Metal)
-        run: |
-          cd whisper.cpp
-          mkdir build-arm64 && cd build-arm64
-          cmake .. \
-            -DCMAKE_BUILD_TYPE=Release \
-            -DCMAKE_OSX_ARCHITECTURES=arm64 \
-            -DGGML_METAL=ON \
-            -DWHISPER_METAL=ON \
-            -DWHISPER_BUILD_TESTS=OFF \
-            -DWHISPER_BUILD_EXAMPLES=ON
-          cmake --build . --config Release -j 4
-          strip bin/whisper-cli
-      
-      - name: Create universal binary
-        run: |
-          cd whisper.cpp
-          lipo -create \
-            build-x86_64/bin/whisper-cli \
-            build-arm64/bin/whisper-cli \
-            -output whisper-cli-universal
-          strip whisper-cli-universal
-      
-      - name: Fix library paths for bundling
-        run: |
-          cd whisper.cpp
-          
-          echo "=== Original library dependencies ==="
-          otool -L whisper-cli-universal
-          
-          lipo whisper-cli-universal -thin x86_64 -output whisper-cli-x86
-          lipo whisper-cli-universal -thin arm64 -output whisper-cli-arm
-          
-          for arch in whisper-cli-x86 whisper-cli-arm; do
-            install_name_tool -change @rpath/libwhisper.1.dylib @executable_path/libwhisper.1.dylib "$arch"
-            install_name_tool -change @rpath/libwhisper.dylib @executable_path/libwhisper.dylib "$arch"
-            install_name_tool -change @rpath/libggml.dylib @executable_path/libggml.dylib "$arch"
-            install_name_tool -change @rpath/libggml-base.dylib @executable_path/libggml-base.dylib "$arch"
-            install_name_tool -change @rpath/libggml-cpu.dylib @executable_path/libggml-cpu.dylib "$arch"
-            install_name_tool -change @rpath/libggml-metal.dylib @executable_path/libggml-metal.dylib "$arch"
-            install_name_tool -change @rpath/libggml-blas.dylib @executable_path/libggml-blas.dylib "$arch"
-          done
-          
-          lipo -create whisper-cli-x86 whisper-cli-arm -output whisper-cli-universal
-          rm whisper-cli-x86 whisper-cli-arm
-          
-          cd build-arm64/src
-          for lib in libwhisper*.dylib; do
-            if [ -f "$lib" ] && [ ! -L "$lib" ]; then
-              echo "Fixing $lib"
-              install_name_tool -id @loader_path/$lib "$lib"
-              install_name_tool -change @rpath/libggml.dylib @loader_path/libggml.dylib "$lib" 2>/dev/null || true
-              install_name_tool -change @rpath/libggml-base.dylib @loader_path/libggml-base.dylib "$lib" 2>/dev/null || true
-              install_name_tool -change @rpath/libggml-cpu.dylib @loader_path/libggml-cpu.dylib "$lib" 2>/dev/null || true
-              install_name_tool -change @rpath/libggml-metal.dylib @loader_path/libggml-metal.dylib "$lib" 2>/dev/null || true
-              install_name_tool -change @rpath/libggml-blas.dylib @loader_path/libggml-blas.dylib "$lib" 2>/dev/null || true
-            fi
-          done
-          
-          cd ../ggml/src
-          for lib in *.dylib; do
-            if [ -f "$lib" ] && [ ! -L "$lib" ]; then
-              echo "Fixing ggml lib: $lib"
-              install_name_tool -id @loader_path/$lib "$lib"
-              install_name_tool -change @rpath/libggml.dylib @loader_path/libggml.dylib "$lib" 2>/dev/null || true
-              install_name_tool -change @rpath/libggml-base.dylib @loader_path/libggml-base.dylib "$lib" 2>/dev/null || true
-              install_name_tool -change @rpath/libggml-cpu.dylib @loader_path/libggml-cpu.dylib "$lib" 2>/dev/null || true
-              install_name_tool -change @rpath/libggml-metal.dylib @loader_path/libggml-metal.dylib "$lib" 2>/dev/null || true
-              install_name_tool -change @rpath/libggml-blas.dylib @loader_path/libggml-blas.dylib "$lib" 2>/dev/null || true
-            fi
-          done
-          
-          cd ../../..
-          
-          echo "=== Fixed library dependencies ==="
-          otool -L whisper-cli-universal
-          echo "=== Checking for remaining @rpath ==="
-          otool -L whisper-cli-universal | grep @rpath && echo "WARNING: @rpath still present!" || echo "All @rpath removed!"
-      
-      - name: Collect all libraries
-        run: |
-          cd whisper.cpp
-          mkdir -p ../whisper-binaries/macos
-          
-          cp whisper-cli-universal ../whisper-binaries/macos/whisper-cli
-          cp build-arm64/src/libwhisper*.dylib ../whisper-binaries/macos/ || true
-          find build-arm64/ggml -name "*.dylib" -type f -exec cp {} ../whisper-binaries/macos/ \;
-          
-          cd ../whisper-binaries/macos
-          chmod +x whisper-cli *.dylib
-          
-          echo "=== Final contents ==="
-          ls -lh
-          echo "=== Architecture verification ==="
-          file whisper-cli
-          file *.dylib
-          echo "=== Library dependencies ==="
-          otool -L whisper-cli
-      
-      - name: Upload macOS binary
-        uses: actions/upload-artifact@v4
-        with:
-          name: whisper-macos-arm64
-          path: whisper-binaries/macos/
+      runs-on: macos-latest
+      steps:
+        - uses: actions/checkout@v4
+        
+        - name: Clone whisper.cpp
+          run: |
+            git clone https://github.com/ggerganov/whisper.cpp.git
+            cd whisper.cpp
+            git checkout v1.8.2
+        
+        - name: Build arm64 (with Metal)
+          run: |
+            cd whisper.cpp
+            mkdir build-arm64 && cd build-arm64
+            cmake .. \
+              -DCMAKE_BUILD_TYPE=Release \
+              -DCMAKE_OSX_ARCHITECTURES=arm64 \
+              -DGGML_METAL=ON \
+              -DWHISPER_METAL=ON \
+              -DWHISPER_BUILD_TESTS=OFF \
+              -DWHISPER_BUILD_EXAMPLES=ON
+            cmake --build . --config Release -j 4
+            strip bin/whisper-cli
+        
+        - name: Fix library paths for bundling
+          run: |
+            cd whisper.cpp/build-arm64
+            
+            echo "=== Original library dependencies ==="
+            otool -L bin/whisper-cli
+            
+            install_name_tool -change @rpath/libwhisper.1.dylib @executable_path/libwhisper.1.dylib bin/whisper-cli
+            install_name_tool -change @rpath/libwhisper.dylib @executable_path/libwhisper.dylib bin/whisper-cli
+            install_name_tool -change @rpath/libggml.dylib @executable_path/libggml.dylib bin/whisper-cli
+            install_name_tool -change @rpath/libggml-base.dylib @executable_path/libggml-base.dylib bin/whisper-cli
+            install_name_tool -change @rpath/libggml-cpu.dylib @executable_path/libggml-cpu.dylib bin/whisper-cli
+            install_name_tool -change @rpath/libggml-metal.dylib @executable_path/libggml-metal.dylib bin/whisper-cli
+            install_name_tool -change @rpath/libggml-blas.dylib @executable_path/libggml-blas.dylib bin/whisper-cli
+            
+            cd src
+            for lib in libwhisper*.dylib; do
+              if [ -f "$lib" ] && [ ! -L "$lib" ]; then
+                echo "Fixing $lib"
+                install_name_tool -id @loader_path/$lib "$lib"
+                install_name_tool -change @rpath/libggml.dylib @loader_path/libggml.dylib "$lib" 2>/dev/null || true
+                install_name_tool -change @rpath/libggml-base.dylib @loader_path/libggml-base.dylib "$lib" 2>/dev/null || true
+                install_name_tool -change @rpath/libggml-cpu.dylib @loader_path/libggml-cpu.dylib "$lib" 2>/dev/null || true
+                install_name_tool -change @rpath/libggml-metal.dylib @loader_path/libggml-metal.dylib "$lib" 2>/dev/null || true
+                install_name_tool -change @rpath/libggml-blas.dylib @loader_path/libggml-blas.dylib "$lib" 2>/dev/null || true
+              fi
+            done
+            
+            cd ../ggml/src
+            for lib in *.dylib; do
+              if [ -f "$lib" ] && [ ! -L "$lib" ]; then
+                echo "Fixing ggml lib: $lib"
+                install_name_tool -id @loader_path/$lib "$lib"
+                install_name_tool -change @rpath/libggml.dylib @loader_path/libggml.dylib "$lib" 2>/dev/null || true
+                install_name_tool -change @rpath/libggml-base.dylib @loader_path/libggml-base.dylib "$lib" 2>/dev/null || true
+                install_name_tool -change @rpath/libggml-cpu.dylib @loader_path/libggml-cpu.dylib "$lib" 2>/dev/null || true
+                install_name_tool -change @rpath/libggml-metal.dylib @loader_path/libggml-metal.dylib "$lib" 2>/dev/null || true
+                install_name_tool -change @rpath/libggml-blas.dylib @loader_path/libggml-blas.dylib "$lib" 2>/dev/null || true
+              fi
+            done
+            
+            cd ../../bin
+            
+            echo "=== Fixed library dependencies ==="
+            otool -L whisper-cli
+            echo "=== Checking for remaining @rpath ==="
+            otool -L whisper-cli | grep @rpath && echo "WARNING: @rpath still present!" || echo "All @rpath removed!"
+        
+        - name: Collect all libraries
+          run: |
+            cd whisper.cpp/build-arm64
+            mkdir -p ../../whisper-binaries/macos
+            
+            cp bin/whisper-cli ../../whisper-binaries/macos/
+            cp src/libwhisper*.dylib ../../whisper-binaries/macos/ || true
+            find ggml -name "*.dylib" -type f -exec cp {} ../../whisper-binaries/macos/ \;
+            
+            cd ../../whisper-binaries/macos
+            chmod +x whisper-cli *.dylib
+            
+            echo "=== Final contents ==="
+            ls -lh
+            echo "=== Architecture verification ==="
+            file whisper-cli
+            file *.dylib
+            echo "=== Library dependencies ==="
+            otool -L whisper-cli
+        
+        - name: Upload macOS binary
+          uses: actions/upload-artifact@v4
+          with:
+            name: whisper-macos-arm64
+            path: whisper-binaries/macos/
   
   build-whisper-windows:
     runs-on: windows-latest
@@ -309,7 +277,7 @@ jobs:
           mkdir -p combined/android/armeabi-v7a
           
           cp artifacts/whisper-linux/* combined/linux/ 2>/dev/null || true
-          cp artifacts/whisper-macos-arm64/* combined/macos/ 2>/dev/null || true
+          cp artifacts/whisper-macos/* combined/macos/ 2>/dev/null || true
           cp artifacts/whisper-windows/* combined/windows/ 2>/dev/null || true
           cp artifacts/whisper-android/arm64-v8a/* combined/android/arm64-v8a/ 2>/dev/null || true
           cp artifacts/whisper-android/armeabi-v7a/* combined/android/armeabi-v7a/ 2>/dev/null || true

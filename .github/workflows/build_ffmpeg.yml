@@ -93,7 +93,7 @@ jobs:
     runs-on: macos-latest
     steps:
       - uses: actions/checkout@v4
-  
+
       - name: Install dependencies
         run: |
           brew install nasm
@@ -123,7 +123,7 @@ jobs:
       - name: Build FFmpeg for arm64
         run: |
           cd ffmpeg-8.0.1
-  
+
           export PKG_CONFIG_PATH=$PWD/../opus-install-arm64/lib/pkgconfig:$PKG_CONFIG_PATH
           
           ./configure \
@@ -157,87 +157,21 @@ jobs:
           make -j$(sysctl -n hw.ncpu)
           make install
       
-      - name: Build libopus for x86_64
+      - name: Create binaries
         run: |
-          cd opus-1.5.2
-          make clean
+          mkdir -p assets/bin/macos
           
-          ./configure \
-            --prefix=$PWD/../opus-install-x86_64 \
-            --disable-shared \
-            --enable-static \
-            --host=x86_64-apple-darwin \
-            CFLAGS="-arch x86_64" \
-            LDFLAGS="-arch x86_64"
+          cp ffmpeg-install-arm64/bin/ffmpeg assets/bin/macos/ffmpeg
+          cp ffmpeg-install-arm64/bin/ffprobe assets/bin/macos/ffprobe
           
-          make -j$(sysctl -n hw.ncpu)
-          make install
+          strip assets/bin/macos/*
+          chmod +x assets/bin/macos/*
       
-      - name: Build FFmpeg for x86_64
-        run: |
-          cd ffmpeg-8.0.1
-          make clean
-  
-          export PKG_CONFIG_PATH=$PWD/../opus-install-x86_64/lib/pkgconfig:$PKG_CONFIG_PATH
-          
-          ./configure \
-            --prefix=$PWD/../ffmpeg-install-x86_64 \
-            --disable-shared \
-            --enable-static \
-            --disable-gpl \
-            --disable-nonfree \
-            --disable-doc \
-            --disable-debug \
-            --disable-everything \
-            --disable-autodetect \
-            --enable-ffmpeg \
-            --enable-ffprobe \
-            --enable-videotoolbox \
-            --enable-audiotoolbox \
-            --enable-libopus \
-            --enable-decoder=opus,libopus,aac,aac_fixed,aac_latm,mp3,mp3float,pcm_s16le,pcm_s24le,pcm_f32le,flac,vorbis,alac \
-            --enable-encoder=libopus,aac,pcm_s16le \
-            --enable-demuxer=ffmetadata,concat,opus,ogg,matroska,wav,mp3,aac,m4a,mov,flac \
-            --enable-muxer=ffmetadata,opus,ogg,matroska,wav,ipod,mp4,segment \
-            --enable-parser=opus,aac,aac_latm,mp3,flac,vorbis \
-            --enable-protocol=file \
-            --enable-filter=volume,equalizer,highpass,lowpass,aformat,aresample,atempo,silenceremove,afftdn,dynaudnorm \
-            --extra-cflags="-I$PWD/../opus-install-x86_64/include" \
-            --extra-ldflags="-L$PWD/../opus-install-x86_64/lib" \
-            --arch=x86_64 \
-            --cc="clang -arch x86_64" \
-            --pkg-config-flags="--static"
-          
-          make -j$(sysctl -n hw.ncpu)
-          make install
-      
-      - name: Create arm64 artifact
-        run: |
-          mkdir -p assets/bin/macos-arm64
-          cp ffmpeg-install-arm64/bin/ffmpeg assets/bin/macos-arm64/
-          cp ffmpeg-install-arm64/bin/ffprobe assets/bin/macos-arm64/
-          strip assets/bin/macos-arm64/*
-          chmod +x assets/bin/macos-arm64/*
-      
-      - name: Create x86_64 artifact
-        run: |
-          mkdir -p assets/bin/macos-x86_64
-          cp ffmpeg-install-x86_64/bin/ffmpeg assets/bin/macos-x86_64/
-          cp ffmpeg-install-x86_64/bin/ffprobe assets/bin/macos-x86_64/
-          strip assets/bin/macos-x86_64/*
-          chmod +x assets/bin/macos-x86_64/*
-      
-      - name: Upload macOS arm64 FFmpeg
+      - name: Upload macOS FFmpeg
         uses: actions/upload-artifact@v4
         with:
-          name: ffmpeg-macos-arm64
-          path: assets/bin/macos-arm64/
-  
-      - name: Upload macOS x86_64 FFmpeg
-        uses: actions/upload-artifact@v4
-        with:
-          name: ffmpeg-macos-x86_64
-          path: assets/bin/macos-x86_64/
+          name: ffmpeg-macos
+          path: assets/bin/macos/
 
   build-ffmpeg-windows:
     runs-on: windows-latest
