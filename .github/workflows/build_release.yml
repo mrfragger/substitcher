@@ -255,7 +255,6 @@ jobs:
           flutter pub get
           flutter build linux --release
           
-          # Copy binaries to bundle
           mkdir -p build/linux/x64/release/bundle/bin
           mkdir -p build/linux/x64/release/bundle/whisper
           cp temp-bin/* build/linux/x64/release/bundle/bin/
@@ -305,17 +304,14 @@ jobs:
       
       - name: Copy Android native libraries
         run: |
-          # Create jniLibs directories
           mkdir -p android/app/src/main/jniLibs/arm64-v8a
           mkdir -p android/app/src/main/jniLibs/armeabi-v7a
           
-          # Copy and rename FFmpeg binaries
           cp temp-android-bin/arm64-v8a/ffmpeg android/app/src/main/jniLibs/arm64-v8a/libffmpeg.so
           cp temp-android-bin/arm64-v8a/ffprobe android/app/src/main/jniLibs/arm64-v8a/libffprobe.so
           cp temp-android-bin/armeabi-v7a/ffmpeg android/app/src/main/jniLibs/armeabi-v7a/libffmpeg.so
           cp temp-android-bin/armeabi-v7a/ffprobe android/app/src/main/jniLibs/armeabi-v7a/libffprobe.so
           
-          # Copy Whisper binaries and libraries
           cp temp-android-whisper/arm64-v8a/whisper-cli android/app/src/main/jniLibs/arm64-v8a/libwhisper-cli.so
           cp temp-android-whisper/arm64-v8a/*.so android/app/src/main/jniLibs/arm64-v8a/ || true
           cp temp-android-whisper/armeabi-v7a/whisper-cli android/app/src/main/jniLibs/armeabi-v7a/libwhisper-cli.so
@@ -339,24 +335,24 @@ jobs:
 
   create-release:
     needs: [build-macos-arm64, build-macos-intel, build-windows, build-linux-appimage, build-linux-flatpak, build-android]
-  runs-on: ubuntu-latest
-  if: startsWith(github.ref, 'refs/tags/')
-  steps:
-    - name: Download all artifacts
-      uses: actions/download-artifact@v4
-    
-    - name: Create Release
-      uses: softprops/action-gh-release@v1
-      with:
-        files: |
-          macos-arm64-build/SubStitcher-macOS-arm64.dmg            
-          macos-intel-build/SubStitcher-macOS-x86_64.dmg
-          linux-appimage-build/substitcher-*.AppImage
-          linux-flatpak-build/substitcher-x64.flatpak
-          windows-build/SubStitcher-Windows-x64.zip
-          android-build/substitcher-android-universal.apk
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    runs-on: ubuntu-latest
+    if: startsWith(github.ref, 'refs/tags/')
+    steps:
+      - name: Download all artifacts
+        uses: actions/download-artifact@v4
+      
+      - name: Create Release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: |
+            macos-arm64-build/SubStitcher-macOS-arm64.dmg
+            macos-intel-build/SubStitcher-macOS-x86_64.dmg
+            linux-appimage-build/substitcher-*.AppImage
+            linux-flatpak-build/substitcher-x64.flatpak
+            windows-build/SubStitcher-Windows-x64.zip
+            android-build/substitcher-android-universal.apk
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
   update-aur:
     name: Update AUR Package
@@ -420,47 +416,47 @@ jobs:
           GIT_SSH_COMMAND="ssh -i ~/.ssh/aur" git push
 
   update-homebrew:
-      name: Update Homebrew Tap
-      needs: [create-release]
-      if: startsWith(github.ref, 'refs/tags/')
-      runs-on: ubuntu-latest
-      steps:
-        - uses: actions/checkout@v4
-        
-        - name: Extract version from tag
-          id: version
-          run: |
-            VERSION=${GITHUB_REF#refs/tags/v}
-            echo "version=$VERSION" >> $GITHUB_OUTPUT
-        
-        - name: Download DMG artifact
-          uses: actions/download-artifact@v4
-          with:
-            name: macos-arm64-build
-            path: artifacts
-        
-        - name: Calculate SHA256
-          id: sha
-          run: |
-            cd artifacts
-            SHA256=$(shasum -a 256 SubStitcher-macOS-arm64.dmg | cut -d' ' -f1)
-            echo "sha256=$SHA256" >> $GITHUB_OUTPUT
-        
-        - name: Update Homebrew formula
-          env:
-            HOMEBREW_TAP_TOKEN: ${{ secrets.HOMEBREW_TAP_TOKEN }}
-          run: |
-            VERSION="${{ steps.version.outputs.version }}"
-            SHA256="${{ steps.sha.outputs.sha256 }}"
-            
-            git clone https://x-access-token:${HOMEBREW_TAP_TOKEN}@github.com/mrfragger/homebrew-substitcher.git
-            cd homebrew-substitcher
-            
-            sed -i "s/VERSION_PLACEHOLDER/${VERSION}/g" Formula/substitcher.rb
-            sed -i "s/SHA_ARM64_PLACEHOLDER/${SHA256}/g" Formula/substitcher.rb
-            
-            git config user.name "github-actions[bot]"
-            git config user.email "github-actions[bot]@users.noreply.github.com"
-            git add Formula/substitcher.rb
-            git diff --staged --quiet || git commit -m "substitcher ${VERSION}"
-            git push
+    name: Update Homebrew Tap
+    needs: [create-release]
+    if: startsWith(github.ref, 'refs/tags/')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Extract version from tag
+        id: version
+        run: |
+          VERSION=${GITHUB_REF#refs/tags/v}
+          echo "version=$VERSION" >> $GITHUB_OUTPUT
+      
+      - name: Download DMG artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: macos-arm64-build
+          path: artifacts
+      
+      - name: Calculate SHA256
+        id: sha
+        run: |
+          cd artifacts
+          SHA256=$(shasum -a 256 SubStitcher-macOS-arm64.dmg | cut -d' ' -f1)
+          echo "sha256=$SHA256" >> $GITHUB_OUTPUT
+      
+      - name: Update Homebrew formula
+        env:
+          HOMEBREW_TAP_TOKEN: ${{ secrets.HOMEBREW_TAP_TOKEN }}
+        run: |
+          VERSION="${{ steps.version.outputs.version }}"
+          SHA256="${{ steps.sha.outputs.sha256 }}"
+          
+          git clone https://x-access-token:${HOMEBREW_TAP_TOKEN}@github.com/mrfragger/homebrew-substitcher.git
+          cd homebrew-substitcher
+          
+          sed -i "s/VERSION_PLACEHOLDER/${VERSION}/g" Formula/substitcher.rb
+          sed -i "s/SHA_ARM64_PLACEHOLDER/${SHA256}/g" Formula/substitcher.rb
+          
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add Formula/substitcher.rb
+          git diff --staged --quiet || git commit -m "substitcher ${VERSION}"
+          git push
