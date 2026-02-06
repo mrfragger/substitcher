@@ -219,37 +219,16 @@ jobs:
           cmake --build . --config Release
           $ANDROID_NDK_ROOT/toolchains/llvm/prebuilt/linux-x86_64/bin/llvm-strip bin/whisper-cli
       
-      - name: Build for armeabi-v7a
-        run: |
-          cd whisper.cpp
-          mkdir build-armv7 && cd build-armv7
-          cmake .. \
-            -DCMAKE_TOOLCHAIN_FILE=$ANDROID_NDK_ROOT/build/cmake/android.toolchain.cmake \
-            -DANDROID_ABI=armeabi-v7a \
-            -DANDROID_PLATFORM=android-24 \
-            -DCMAKE_BUILD_TYPE=Release \
-            -DWHISPER_BUILD_TESTS=OFF \
-            -DWHISPER_BUILD_EXAMPLES=ON
-          cmake --build . --config Release
-          $ANDROID_NDK_ROOT/toolchains/llvm/prebuilt/linux-x86_64/bin/llvm-strip bin/whisper-cli
-      
       - name: Collect all libraries
         run: |
           mkdir -p whisper-binaries/android/arm64-v8a
-          mkdir -p whisper-binaries/android/armeabi-v7a
           
           cp whisper.cpp/build-arm64/bin/whisper-cli whisper-binaries/android/arm64-v8a/
           find whisper.cpp/build-arm64 -name "*.so" -exec cp {} whisper-binaries/android/arm64-v8a/ \;
           chmod +x whisper-binaries/android/arm64-v8a/whisper-cli
           
-          cp whisper.cpp/build-armv7/bin/whisper-cli whisper-binaries/android/armeabi-v7a/
-          find whisper.cpp/build-armv7 -name "*.so" -exec cp {} whisper-binaries/android/armeabi-v7a/ \;
-          chmod +x whisper-binaries/android/armeabi-v7a/whisper-cli
-          
           echo "=== ARM64 contents ==="
           ls -lh whisper-binaries/android/arm64-v8a/
-          echo "=== ARMv7 contents ==="
-          ls -lh whisper-binaries/android/armeabi-v7a/
       
       - name: Upload Android binaries
         uses: actions/upload-artifact@v4
@@ -274,13 +253,11 @@ jobs:
           mkdir -p combined/macos
           mkdir -p combined/windows
           mkdir -p combined/android/arm64-v8a
-          mkdir -p combined/android/armeabi-v7a
           
           cp artifacts/whisper-linux/* combined/linux/ 2>/dev/null || true
           cp artifacts/whisper-macos/* combined/macos/ 2>/dev/null || true
           cp artifacts/whisper-windows/* combined/windows/ 2>/dev/null || true
           cp artifacts/whisper-android/arm64-v8a/* combined/android/arm64-v8a/ 2>/dev/null || true
-          cp artifacts/whisper-android/armeabi-v7a/* combined/android/armeabi-v7a/ 2>/dev/null || true
           
           echo "=== Binary sizes ==="
           find combined -type f -exec ls -lh {} \;
