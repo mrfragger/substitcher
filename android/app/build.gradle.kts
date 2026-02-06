@@ -48,6 +48,22 @@ android {
             signingConfig = signingConfigs.getByName("debug")
         }
     }
+
+    packagingOptions {
+        jniLibs {
+            excludes += listOf(
+                "**/armeabi-v7a/**",
+                "**/x86/**",
+                "**/x86_64/**"
+            )
+        }
+    }
+}
+
+configurations.all {
+    exclude(mapOf("group" to "com.github.media-kit", "module" to "default-armeabi-v7a"))
+    exclude(mapOf("group" to "com.github.media-kit", "module" to "default-x86_64"))
+    exclude(mapOf("group" to "com.github.media-kit", "module" to "default-x86"))
 }
 
 flutter {
