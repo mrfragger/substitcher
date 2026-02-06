@@ -6,12 +6,11 @@ plugins {
 
 android {
     namespace = "com.example.substitcher"
-    compileSdk = 36  // Explicit version for consistency
+    compileSdk = 36
 
     sourceSets {
         getByName("main") {
             jniLibs.srcDirs("src/main/jniLibs")
-            // Add fonts directory as assets
             assets.srcDirs("../../fonts")
         }
     }
@@ -27,26 +26,26 @@ android {
 
     defaultConfig {
         applicationId = "com.example.substitcher"
-        minSdk = 24  // Android 7.0 - good tablet/phone coverage
-        targetSdk = 36  // Latest Android
+        minSdk = 24
+        targetSdk = 36
         versionCode = flutter.versionCode
         versionName = flutter.versionName
         
         ndk {
-                    abiFilters.add("arm64-v8a")
-                }
-        
+            abiFilters.clear()
+            abiFilters.add("arm64-v8a")
+        }
+    }
+
+    splits {
+        abi {
+            isEnable = false
+        }
     }
 
     buildTypes {
         release {
-            // Signing with debug keys for now
             signingConfig = signingConfigs.getByName("debug")
-            
-            // Optional: enable ProGuard for smaller APK
-            // minifyEnabled = true
-            // shrinkResources = true
-            // proguardFiles(getDefaultProguardFile("proguard-android-optimize.txt"), "proguard-rules.pro")
         }
     }
 }
