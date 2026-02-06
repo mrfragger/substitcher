@@ -66,6 +66,17 @@ class MyApp extends StatelessWidget {
           contentTextStyle: TextStyle(color: Colors.white),
           actionTextColor: Colors.lightBlue,
         ),
+        tooltipTheme: TooltipThemeData(
+          decoration: BoxDecoration(
+            color: Colors.deepPurple,
+            borderRadius: BorderRadius.circular(4),
+          ),
+          textStyle: const TextStyle(
+            color: Colors.white,
+            fontSize: 12,
+          ),
+          waitDuration: const Duration(milliseconds: 500),
+        ),
       ),
       home: const PlayerScreen(),
       debugShowCheckedModeBanner: false,

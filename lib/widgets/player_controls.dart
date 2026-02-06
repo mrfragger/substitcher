@@ -402,7 +402,11 @@ class PlayerControls extends StatelessWidget {
                               text: '${progressPercent.toStringAsFixed(1)}% ',
                               style: const TextStyle(color: Colors.orange),
                             ),
-                            TextSpan(text: '${_formatDurationWithMs(currentPosition)} / ${_formatDuration(totalDuration)} '),
+                            TextSpan(text: '${_formatDurationWithMs(currentPosition)} '),
+                            TextSpan(
+                              text: '${_formatDuration(totalDuration)} ',
+                              style: const TextStyle(color: Colors.orange),
+                            ),
                             TextSpan(text: selectedFont),
                             TextSpan(text: ' '),
                             TextSpan(
@@ -434,37 +438,33 @@ class PlayerControls extends StatelessWidget {
                               fontFeatures: [FontFeature.tabularFigures()],
                             ),
                           ),
-                        Text(
-                          [
-                            if (isYouTubeStream && currentAudioFormat != null)
-                              '$currentAudioFormat • ',
-                            if (pauseMode != PauseMode.disabled && pauseMode != PauseMode.dictionary)
-                              '${_getPauseModeText(pauseMode)} • ',
-                            '${playbackSpeed.toStringAsFixed(1)}x',
-                          ].join(),
-                          style: const TextStyle(
-                            color: Colors.white70,
-                            fontSize: 12,
-                            fontFamily: 'monospace',
-                            fontFeatures: [FontFeature.tabularFigures()],
-                          ),
-                        ),
-                        Text(
-                          ' ${_formatFileSize(fileSize)}${averageBitrate > 0 ? ' ${averageBitrate}kbps' : ''}',
-                          style: const TextStyle(
-                            color: Colors.white70,
-                            fontSize: 12,
-                            fontFamily: 'monospace',
-                            fontFeatures: [FontFeature.tabularFigures()],
-                          ),
-                        ),
-                        Text(
-                          ' -${_formatDuration(audiobookRemaining)}',
-                          style: const TextStyle(
-                            color: Colors.white70,
-                            fontSize: 12,
-                            fontFamily: 'monospace',
-                            fontFeatures: [FontFeature.tabularFigures()],
+                        RichText(
+                          text: TextSpan(
+                            style: const TextStyle(
+                              color: Colors.white70,
+                              fontSize: 12,
+                              fontFamily: 'monospace',
+                              fontFeatures: [FontFeature.tabularFigures()],
+                            ),
+                            children: [
+                              if (isYouTubeStream && currentAudioFormat != null)
+                                TextSpan(text: '$currentAudioFormat • '),
+                              if (pauseMode != PauseMode.disabled && pauseMode != PauseMode.dictionary)
+                                TextSpan(text: '${_getPauseModeText(pauseMode)} • '),
+                              TextSpan(
+                                text: '${playbackSpeed.toStringAsFixed(1)}x',
+                                style: const TextStyle(color: Colors.orange),
+                              ),
+                              TextSpan(text: ' ${_formatFileSize(fileSize)}'),
+                              if (averageBitrate > 0) ...[
+                                TextSpan(text: ' '),
+                                TextSpan(
+                                  text: '${averageBitrate}kbps',
+                                  style: const TextStyle(color: Colors.orange),
+                                ),
+                              ],
+                              TextSpan(text: ' -${_formatDuration(audiobookRemaining)}'),
+                            ],
                           ),
                         ),
                       ],
