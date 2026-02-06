@@ -230,6 +230,8 @@ jobs:
 
   build-android:
     runs-on: ubuntu-latest
+    env:
+          PUB_CACHE: ${{ github.workspace }}/.pub-cache
     steps:
       - uses: actions/checkout@v4
       
