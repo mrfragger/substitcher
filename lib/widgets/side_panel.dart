@@ -13,6 +13,7 @@ enum PanelMode { chapters, history, playlist, bookmarks, fonts, colors, words, s
 enum ColoringMode { words, letters }
 
 class SidePanel extends StatelessWidget {
+  static const ltr = '\u200E';
   final PanelMode panelMode;
   final bool isCollapsed;
   final AudiobookMetadata? currentAudiobook;
@@ -687,7 +688,7 @@ class SidePanel extends StatelessWidget {
                       fontWeight: isActive ? FontWeight.bold : FontWeight.normal,
                     ),
                     children: [
-                      TextSpan(text: chapter.title),
+                      TextSpan(text: '$ltr${chapter.title}'),
                       TextSpan(
                         text: ' ${chapter.formattedDuration}',
                         style: TextStyle(
@@ -706,6 +707,11 @@ class SidePanel extends StatelessWidget {
         ),
       ],
     );
+  }
+
+  double _parseProgress(String progressStr) {
+    final cleaned = progressStr.replaceAll('%', '').trim();
+    return double.tryParse(cleaned) ?? 0.0;
   }
 
   Widget _buildHistoryList(BuildContext context) {
@@ -761,19 +767,22 @@ class SidePanel extends StatelessWidget {
                     TextSpan(text: item.audiobookTitle),
                     if (snapshot.hasData) ...[
                       TextSpan(
-                        text: ' ${snapshot.data!['duration']}',
+                        text: ' \u200E${snapshot.data!['duration']}',
                         style: const TextStyle(color: Colors.lightBlue),
                       ),
-                      TextSpan(
-                        text: ' ${snapshot.data!['progress']}',
-                        style: TextStyle(color: Colors.purple[200]),
-                      ),
+                      if (snapshot.data!['progress'] != null && 
+                          snapshot.data!['progress'].toString().isNotEmpty &&
+                          _parseProgress(snapshot.data!['progress'].toString()) > 0.9)
+                        TextSpan(
+                          text: ' \u200E${snapshot.data!['progress']}',
+                          style: TextStyle(color: Colors.purple[200]),
+                        ),
                     ],
                   ],
                 ),
               ),
               subtitle: Text(
-                '${item.chapterTitle} • ${_formatDuration(item.lastPosition)}',
+                '$ltr${item.chapterTitle} • ${_formatDuration(item.lastPosition)}',
                 style: const TextStyle(color: Colors.white54, fontSize: 12),
               ),
               trailing: IconButton(
@@ -1158,6 +1167,11 @@ class SidePanel extends StatelessWidget {
     final hours = d.inHours;
     final minutes = d.inMinutes.remainder(60);
     final seconds = d.inSeconds.remainder(60);
+    
+    if (hours == 0 && minutes == 0) {
+      return '';
+    }
+    
     return '${hours.toString().padLeft(2, '0')}:${minutes.toString().padLeft(2, '0')}:${seconds.toString().padLeft(2, '0')}';
   }
 

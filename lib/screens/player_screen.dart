@@ -6686,8 +6686,8 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     }
     
     if (totalDuration != null && totalDuration.inSeconds > 0) {
-      final percentage = ((lastPosition.inSeconds / totalDuration.inSeconds) * 100).round();
-      return '$percentage%';
+      final percentage = (lastPosition.inSeconds / totalDuration.inSeconds) * 100;
+      return '${percentage.toStringAsFixed(1)}%';
     }
     
     return '';

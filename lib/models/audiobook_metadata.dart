@@ -65,7 +65,9 @@ class Chapter {
     
     final timeString = hours > 0
         ? '${hours}h ${minutes}m ${seconds}s'
-        : '${minutes}m ${seconds}s';
+        : minutes > 0
+            ? '${minutes}m ${seconds}s'
+            : '${seconds}s';
     
     // Wrap the duration in LTR formatting to prevent RTL interference
     return '$ltrEmbed$timeString$popDir';

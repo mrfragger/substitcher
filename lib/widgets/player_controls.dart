@@ -153,8 +153,8 @@ class PlayerControls extends StatelessWidget {
     final chapterRemaining = _getChapterRemainingTime();
     final audiobookRemaining = _getAudiobookRemainingTime();
     final progressPercent = (totalDuration.inMilliseconds > 0 
-        ? (currentPosition.inMilliseconds / totalDuration.inMilliseconds * 100).toInt() 
-        : 0);
+        ? (currentPosition.inMilliseconds / totalDuration.inMilliseconds * 100)
+        : 0.0);
 
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
@@ -399,7 +399,7 @@ class PlayerControls extends StatelessWidget {
                           ),
                           children: [
                             TextSpan(
-                              text: '$progressPercent% ',
+                              text: '${progressPercent.toStringAsFixed(1)}% ',
                               style: const TextStyle(color: Colors.orange),
                             ),
                             TextSpan(text: '${_formatDurationWithMs(currentPosition)} / ${_formatDuration(totalDuration)} '),
