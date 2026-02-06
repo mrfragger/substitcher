@@ -2801,6 +2801,46 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     });
   }
 
+  void _refreshPlaylistDirectory() async {
+    if (_activePlaylistIndex != null && 
+        _activePlaylistIndex! < _playlistDirectories.length) {
+      final dir = _playlistDirectories[_activePlaylistIndex!];
+      setState(() {
+        _playlist.clear();
+        _playlistDurationCache.clear();
+      });
+      await _scanPlaylist(dir);
+      setState(() {});
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          const SnackBar(
+            content: Text('Playlist refreshed'),
+            duration: Duration(seconds: 2),
+          ),
+        );
+      }
+    }
+  }
+  
+  void _refreshCustomFonts() async {
+    if (_customFontDirectory == null) return;
+    
+    CustomFontLoader.customFonts.clear();
+    
+    await CustomFontLoader.loadCustomFonts(_customFontDirectory!);
+    
+    setState(() {});
+    
+    if (mounted) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(
+          content: Text('Loaded ${CustomFontLoader.customFonts.length} custom fonts'),
+          duration: const Duration(seconds: 2),
+        ),
+      );
+    }
+  }
+
   Future<void> _jumpToHistoryItem(int index) async {
     final filteredHistory = _getFilteredHistory();
     
@@ -5596,6 +5636,8 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                   playlistScrollController: _playlistScrollController,
                   getAudiobookDuration: _getAudiobookDuration,
                   showPlaylistDirectories: _showPlaylistDirectories,
+                  onRefreshPlaylistDirectory: _refreshPlaylistDirectory,
+                  onRefreshCustomFonts: _refreshCustomFonts,
                   onTogglePlaylistDirectories: (value) {
                     setState(() {
                       _showPlaylistDirectories = value;

@@ -158,6 +158,9 @@ class SidePanel extends StatelessWidget {
   final Function(bool?) onAutoConvertAlternatesChanged;
   final bool autoConvertMissing;
   final Function(bool?) onAutoConvertMissingChanged;
+
+  final VoidCallback onRefreshPlaylistDirectory;
+  final VoidCallback onRefreshCustomFonts;
   
   const SidePanel({
     super.key,
@@ -291,6 +294,8 @@ class SidePanel extends StatelessWidget {
     required this.onAutoConvertAlternatesChanged,
     required this.autoConvertMissing,
     required this.onAutoConvertMissingChanged,
+    required this.onRefreshPlaylistDirectory,
+    required this.onRefreshCustomFonts,
   });
 
   @override
@@ -828,6 +833,14 @@ class SidePanel extends StatelessWidget {
                       ),
                     ),
                     const Spacer(),
+                    IconButton(
+                      icon: const Icon(Icons.refresh, color: Colors.white70, size: 18),
+                      onPressed: onRefreshPlaylistDirectory,
+                      tooltip: 'Refresh playlist',
+                      padding: EdgeInsets.zero,
+                      constraints: const BoxConstraints(),
+                    ),
+                    const SizedBox(width: 8),
                     Text(
                       '${playlistDirectories.length}/10',
                       style: const TextStyle(color: Colors.white54, fontSize: 12),
@@ -1832,18 +1845,31 @@ class SidePanel extends StatelessWidget {
               ),
               if (customFontDirectory != null) ...[
                 const SizedBox(height: 4),
-                Tooltip(
-                  message: shortenPath(customFontDirectory!),
-                  waitDuration: const Duration(milliseconds: 500),
-                  child: Padding(
-                    padding: const EdgeInsets.only(left: 8),
-                    child: Text(
-                      path.basename(customFontDirectory!),
-                      style: const TextStyle(color: Colors.white54, fontSize: 11),
-                      maxLines: 1,
-                      overflow: TextOverflow.ellipsis,
+                Row(
+                  children: [
+                    Expanded(
+                      child: Tooltip(
+                        message: shortenPath(customFontDirectory!),
+                        waitDuration: const Duration(milliseconds: 500),
+                        child: Padding(
+                          padding: const EdgeInsets.only(left: 8),
+                          child: Text(
+                            path.basename(customFontDirectory!),
+                            style: const TextStyle(color: Colors.white54, fontSize: 11),
+                            maxLines: 1,
+                            overflow: TextOverflow.ellipsis,
+                          ),
+                        ),
+                      ),
                     ),
-                  ),
+                    IconButton(
+                      icon: const Icon(Icons.refresh, color: Colors.white70, size: 16),
+                      onPressed: onRefreshCustomFonts,
+                      tooltip: 'Refresh fonts',
+                      padding: EdgeInsets.zero,
+                      constraints: const BoxConstraints(),
+                    ),
+                  ],
                 ),
               ],
             ],
