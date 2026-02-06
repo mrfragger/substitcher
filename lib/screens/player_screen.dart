@@ -276,6 +276,10 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
 
   bool _autoConvertAlternates = false;
   bool _autoConvertMissing = false;
+  Set<String> _favoriteFonts = {};
+
+  Set<String> _favoriteColorPalettes = {};
+  String _colorFilterMode = 'favorites';
 
   
   @override
@@ -312,6 +316,8 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     _loadSubtitlePreferences();
     _loadAutoConversionSettings();
     _loadBookmarks();
+    _loadFavoriteFonts();
+    _loadFavoriteColorPalettes();
     _loadSkipTrackingTerms();
     _startCacheFlushTimer();
     WidgetsBinding.instance.addPostFrameCallback((_) {
@@ -400,7 +406,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   }
 
   void _updateWakelock() {
-    if (_isPlaying && _subtitles.isNotEmpty) {
+    if (_isPlaying && (_subtitles.isNotEmpty || _isYouTubeStream)) {
       WakelockPlus.enable();
     } else {
       WakelockPlus.disable();
@@ -739,6 +745,17 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     final prefs = await SharedPreferences.getInstance();
     await prefs.setBool('autoConvertAlternates', _autoConvertAlternates);
     await prefs.setBool('autoConvertMissing', _autoConvertMissing);
+  }
+
+  String get _displayConversionType {
+    if (_selectedMainCategory == FontCategory.favorites) {
+      final metadata = FontDatabase.getMetadata(_selectedFont);
+      if (metadata != null && metadata.subCategories.isNotEmpty) {
+        return metadata.subCategories.first;
+      }
+      return 'favorite';
+    }
+    return _conversionType == 'none' ? 'Original' : _conversionType;
   }
 
   Future<void> _convertSubtitleToDemo() async {
@@ -1097,8 +1114,12 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
 
   List<String> _getFilteredFonts() {
     List<String> fontsToShow;
+    
     if (_selectedMainCategory == 'all') {
       fontsToShow = ['System Default', ...CustomFontLoader.getAvailableFonts()];
+    } else if (_selectedMainCategory == FontCategory.favorites) {
+      // Just show all favorites - no subcategory filtering
+      fontsToShow = _favoriteFonts.toList()..sort();
     } else if (_selectedMainCategory == FontCategory.custom) {
       fontsToShow = CustomFontLoader.customFonts;
     } else if (_selectedStudio != null) {
@@ -1115,6 +1136,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     } else {
       fontsToShow = FontDatabase.getFontsByMainCategory(_selectedMainCategory);
     }
+    
     final excludeList = _excludeTerms.split(' ').where((t) => t.isNotEmpty).toList();
     return fontsToShow.where((font) {
       return _matchesSearch(font, _searchQuery, excludeList);
@@ -1122,11 +1144,14 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   }
 
   List<ColorPalette> _getFilteredColors() {
-    if (_searchQuery.isEmpty && _excludeTerms.isEmpty) {
-      return ColorPalette.presets;
+    List<ColorPalette> palettes = ColorPalette.presets;
+    
+    if (_colorFilterMode == 'favorites') {
+      palettes = palettes.where((p) => _favoriteColorPalettes.contains(p.name)).toList();
     }
+    
     final excludeList = _excludeTerms.split(' ').where((t) => t.isNotEmpty).toList();
-    return ColorPalette.presets.where((palette) {
+    return palettes.where((palette) {
       return _matchesSearch(palette.name, _searchQuery, excludeList);
     }).toList();
   }
@@ -2927,6 +2952,88 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         _conversionType = _defaultConversionType;
       }
     });
+  }
+
+  Future<void> _loadFavoriteFonts() async {
+    final prefs = await SharedPreferences.getInstance();
+    setState(() {
+      _favoriteFonts = (prefs.getStringList('favoriteFonts') ?? []).toSet();
+    });
+  }
+  
+  Future<void> _addFontToFavorites(String fontName) async {
+    setState(() {
+      _favoriteFonts.add(fontName);
+    });
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setStringList('favoriteFonts', _favoriteFonts.toList());
+    
+    if (mounted) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(
+          content: Text('Added "$fontName" to favorites'),
+          duration: const Duration(seconds: 2),
+        ),
+      );
+    }
+  }
+  
+  Future<void> _removeFontFromFavorites(String fontName) async {
+    setState(() {
+      _favoriteFonts.remove(fontName);
+    });
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setStringList('favoriteFonts', _favoriteFonts.toList());
+    
+    if (mounted) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(
+          content: Text('Removed "$fontName" from favorites'),
+          duration: const Duration(seconds: 2),
+        ),
+      );
+    }
+  }
+
+  Future<void> _loadFavoriteColorPalettes() async {
+    final prefs = await SharedPreferences.getInstance();
+    setState(() {
+      _favoriteColorPalettes = (prefs.getStringList('favoriteColorPalettes') ?? []).toSet();
+    });
+  }
+  
+  Future<void> _addColorPaletteToFavorites(String paletteName) async {
+    setState(() {
+      _favoriteColorPalettes.add(paletteName);
+    });
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setStringList('favoriteColorPalettes', _favoriteColorPalettes.toList());
+    
+    if (mounted) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(
+          content: Text('Added "$paletteName" to favorites'),
+          duration: const Duration(seconds: 2),
+        ),
+      );
+    }
+  }
+  
+  Future<void> _removeColorPaletteFromFavorites(String paletteName) async {
+    setState(() {
+      _favoriteColorPalettes.remove(paletteName);
+    });
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setStringList('favoriteColorPalettes', _favoriteColorPalettes.toList());
+    
+    if (mounted) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(
+          content: Text('Removed "$paletteName" from favorites'),
+          duration: const Duration(seconds: 2),
+        ),
+      );
+    }
   }
 
   Future<void> _setCustomFontDirectory() async {
@@ -5062,11 +5169,21 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             });
             _scrollToTopOfHistory();
             return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyF && 
+                      HardwareKeyboard.instance.isShiftPressed && event is KeyDownEvent) {
+            _addFontToFavorites(_selectedFont);
+            return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyF && event is KeyDownEvent) {
             setState(() {
               _showPanel = true;
               _panelMode = PanelMode.fonts;
             });
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyR && 
+                      HardwareKeyboard.instance.isShiftPressed && event is KeyDownEvent) {
+            if (_currentColorPalette != null) {
+              _addColorPaletteToFavorites(_currentColorPalette!.name);
+            }
             return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyR && event is KeyDownEvent) {
             setState(() {
@@ -5653,6 +5770,8 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                   selectedFont: _selectedFont,
                   selectedFontIndex: _selectedFontIndex,
                   fontScrollController: _fontScrollController,
+                  favoriteFonts: _favoriteFonts,
+                  onRemoveFavorite: _removeFontFromFavorites,
                   onFontSelected: (fontName, index) async {
                     setState(() {
                       _selectedFont = fontName;
@@ -5661,18 +5780,28 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                     _scrollToSelectedFont();
                     await _saveFontSettings();
                     
-                    if (_autoConvertAlternates && FontAlternatesData.hasFontAlternates(fontName)) {
-                      setState(() {
-                        _conversionType = 'alternates';
-                      });
-                      await _applyConversion();
-                    } else if (_autoConvertMissing) {
-                      final metadata = FontDatabase.getMetadata(fontName);
-                      if (metadata != null && metadata.hasMissingLigatures()) {
+                    if (_selectedMainCategory != FontCategory.favorites) {
+                      if (_autoConvertAlternates && FontAlternatesData.hasFontAlternates(fontName)) {
                         setState(() {
-                          _conversionType = 'missing';
+                          _conversionType = 'alternates';
                         });
                         await _applyConversion();
+                      } else if (_autoConvertMissing) {
+                        final metadata = FontDatabase.getMetadata(fontName);
+                        if (metadata != null && metadata.hasMissingLigatures()) {
+                          setState(() {
+                            _conversionType = 'missing';
+                          });
+                          await _applyConversion();
+                        } else {
+                          setState(() {
+                            _conversionType = 'none';
+                          });
+                        }
+                      } else {
+                        setState(() {
+                          _conversionType = 'none';
+                        });
                       }
                     }
                   },
@@ -5736,6 +5865,15 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                       _coloringMode = mode;
                     });
                   },
+
+                  colorFilterMode: _colorFilterMode,
+                  onColorFilterModeChanged: (mode) {
+                    setState(() {
+                      _colorFilterMode = mode;
+                    });
+                  },
+                  favoriteColorPalettes: _favoriteColorPalettes,
+                  onRemoveColorPaletteFavorite: _removeColorPaletteFromFavorites,
                   
                   frequencyItems: _frequencyItems,
                   isAnalyzingFrequencies: _isAnalyzingFrequencies,
@@ -6006,7 +6144,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       fileSize: _fileSize,
       averageBitrate: _averageBitrate,
       shuffleEnabled: _shuffleEnabled,
-      conversionType: _conversionType,
+      conversionType: _displayConversionType,
       currentAudioFormat: _currentAudioFormat,
       playedChapters: _isYouTubeStream 
           ? []
@@ -6558,6 +6696,17 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     
     await _applyConversion();
     await _saveFontSettings();
+  }
+
+  String _getDisplayConversionType() {
+    if (_selectedMainCategory == FontCategory.favorites) {
+      final metadata = FontDatabase.getMetadata(_selectedFont);
+      if (metadata != null && metadata.subCategories.isNotEmpty) {
+        return metadata.subCategories.first;
+      }
+      return 'favorite';
+    }
+    return _conversionType == 'none' ? 'Original' : _conversionType;
   }
 
   Future<void> _applyConversion() async {
@@ -7237,6 +7386,8 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       });
       
       await player.play();
+
+      _updateWakelock();
       
       _downloadYouTubeSubtitles(url, title);
       

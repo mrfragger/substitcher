@@ -87,6 +87,7 @@ class FontDatabase {
     // ==================== demo123/PutraCetol ====================
     'Advait One': FontMetadata(fontName: 'Advait One', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.putracetol123),
     'Amai Haze': FontMetadata(fontName: 'Amai Haze', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.putracetol123),
+    'Brush Vandal': FontMetadata(fontName: 'Brush Vandal', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.putracetol123),
     'Furqan': FontMetadata(fontName: 'Furqan', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.putracetol123),
     'Liquid Wave': FontMetadata(fontName: 'Liquid Wave', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.putracetol123),
     'Pixel Quest': FontMetadata(fontName: 'Pixel Quest', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.putracetol123),

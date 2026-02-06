@@ -3,6 +3,7 @@ class FontCategory {
   static const String demo123 = 'demo123';
   static const String demo = 'demo';
   static const String free = 'free';
+  static const String favorites = 'favorites';
   static const String custom = 'custom';
   
   // Sub-categories
@@ -24,7 +25,6 @@ class FontCategory {
   static const String putracetol123 = 'Putracetol123';
   static const String gluk = 'Gluk';
   static const String various = 'various';
-  static const String favorites = 'favorites';
 }
 
 class FontMetadata {

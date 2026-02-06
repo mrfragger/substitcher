@@ -7,6 +7,7 @@ import '../models/frequency_item.dart';
 import '../models/history_item.dart';
 import '../models/bookmark.dart';
 import '../models/font_category.dart';
+import '../services/font_database.dart';
 import 'stats_panel.dart';
 
 enum PanelMode { chapters, history, playlist, bookmarks, fonts, colors, words, subs, stats }
@@ -161,6 +162,13 @@ class SidePanel extends StatelessWidget {
 
   final VoidCallback onRefreshPlaylistDirectory;
   final VoidCallback onRefreshCustomFonts;
+  final Set<String> favoriteFonts;
+  final Function(String) onRemoveFavorite;
+
+  final String colorFilterMode;
+  final Function(String) onColorFilterModeChanged;
+  final Set<String> favoriteColorPalettes;
+  final Function(String) onRemoveColorPaletteFavorite;
   
   const SidePanel({
     super.key,
@@ -296,6 +304,12 @@ class SidePanel extends StatelessWidget {
     required this.onAutoConvertMissingChanged,
     required this.onRefreshPlaylistDirectory,
     required this.onRefreshCustomFonts,
+    required this.favoriteFonts,
+    required this.onRemoveFavorite,
+    required this.colorFilterMode,
+    required this.onColorFilterModeChanged,
+    required this.favoriteColorPalettes,
+    required this.onRemoveColorPaletteFavorite,
   });
 
   @override
@@ -1246,14 +1260,6 @@ class SidePanel extends StatelessWidget {
 
  Widget _buildColorsList(BuildContext context) {
    final filteredColors = getFilteredColors();
-   if (filteredColors.isEmpty) {
-     return const Center(
-       child: Text(
-         'No color palettes match search',
-         style: TextStyle(color: Colors.white54),
-       ),
-     );
-   }
    
    return Column(
      children: [
@@ -1265,76 +1271,103 @@ class SidePanel extends StatelessWidget {
              _buildColoringModeButton(ColoringMode.words, ' (1) Words', null),
              const SizedBox(width: 12),
              _buildColoringModeButton(ColoringMode.letters, '(2) Letters', 'breaks on ligature fonts'),
+             const SizedBox(width: 24),
+             _buildColorFilterButton('All', 'all'),
+             const SizedBox(width: 12),
+             _buildColorFilterButton('Favorites (⇧R)', 'favorites'),
            ],
          ),
        ),
        const Divider(color: Colors.white24, height: 1),
-       Expanded(
-         child: ListView.builder(
-           controller: colorScrollController,
-           padding: const EdgeInsets.all(16),
-           itemCount: filteredColors.length,
-           itemBuilder: (context, index) {
-             final palette = filteredColors[index];
-             final actualIndex = ColorPalette.presets.indexOf(palette);
-             final isSelected = selectedColorIndex == actualIndex;
-             
-             return InkWell(
-               onTap: () => onColorPaletteSelected(palette, actualIndex),
-               child: Container(
-                 margin: const EdgeInsets.only(bottom: 12),
-                 padding: const EdgeInsets.all(12),
-                 decoration: BoxDecoration(
-                   color: isSelected ? Colors.deepPurple.withAlpha(51) : Colors.black26,
-                   borderRadius: BorderRadius.circular(8),
-                   border: isSelected 
-                       ? Border.all(color: Colors.deepPurple, width: 2)
-                       : null,
-                 ),
-                 child: Row(
-                   children: [
-                     Expanded(
-                       child: Text(
-                         palette.name,
-                         style: TextStyle(
-                           color: isSelected ? Colors.purple[200] : Colors.white,
-                           fontSize: 14,
-                           fontWeight: isSelected ? FontWeight.bold : FontWeight.normal,
+       if (filteredColors.isEmpty)
+         const Expanded(
+           child: Center(
+             child: Text(
+               'No favorite color palettes yet.\nPress ⇧R to add current palette.',
+               textAlign: TextAlign.center,
+               style: TextStyle(color: Colors.white54, fontSize: 12),
+             ),
+           ),
+         )
+       else
+         Expanded(
+           child: ListView.builder(
+             controller: colorScrollController,
+             padding: const EdgeInsets.all(16),
+             itemCount: filteredColors.length,
+             itemBuilder: (context, index) {
+               final palette = filteredColors[index];
+               final actualIndex = ColorPalette.presets.indexOf(palette);
+               final isSelected = selectedColorIndex == actualIndex;
+               final isFavorite = favoriteColorPalettes.contains(palette.name);
+               final showingFavorites = colorFilterMode == 'favorites';
+               
+               return InkWell(
+                 onTap: () => onColorPaletteSelected(palette, actualIndex),
+                 child: Container(
+                   margin: const EdgeInsets.only(bottom: 12),
+                   padding: const EdgeInsets.all(12),
+                   decoration: BoxDecoration(
+                     color: isSelected ? Colors.deepPurple.withAlpha(51) : Colors.black26,
+                     borderRadius: BorderRadius.circular(8),
+                     border: isSelected 
+                         ? Border.all(color: Colors.deepPurple, width: 2)
+                         : null,
+                   ),
+                   child: Row(
+                     children: [
+                       Expanded(
+                         child: Text(
+                           palette.name,
+                           style: TextStyle(
+                             color: isSelected ? Colors.purple[200] : Colors.white,
+                             fontSize: 14,
+                             fontWeight: isSelected ? FontWeight.bold : FontWeight.normal,
+                           ),
                          ),
                        ),
-                     ),
-                     const SizedBox(width: 12),
-                     if (palette.isSimplePreset)
-                       Container(
-                         width: 280,
-                         height: 20,
-                         decoration: BoxDecoration(
-                           color: parseColor(palette.colors[0]),
-                           border: Border.all(
-                             color: parseColor(palette.subShadowColor!),
-                             width: 4,
+                       const SizedBox(width: 12),
+                       if (palette.isSimplePreset)
+                         Container(
+                           width: 280,
+                           height: 20,
+                           decoration: BoxDecoration(
+                             color: parseColor(palette.colors[0]),
+                             border: Border.all(
+                               color: parseColor(palette.subShadowColor!),
+                               width: 4,
+                             ),
+                             borderRadius: BorderRadius.circular(4),
                            ),
-                           borderRadius: BorderRadius.circular(4),
+                         )
+                       else
+                         ...palette.colors.map((color) => Container(
+                           width: 20,
+                           height: 20,
+                           margin: const EdgeInsets.only(left: 4),
+                           decoration: BoxDecoration(
+                             color: parseColor(color),
+                             borderRadius: BorderRadius.circular(4),
+                             border: Border.all(color: Colors.white24),
+                           ),
+                         )),
+                       if (showingFavorites) ...[
+                         const SizedBox(width: 12),
+                         IconButton(
+                           icon: const Icon(Icons.delete, color: Colors.white54, size: 18),
+                           onPressed: () => onRemoveColorPaletteFavorite(palette.name),
+                           tooltip: 'Remove from favorites',
+                           padding: EdgeInsets.zero,
+                           constraints: const BoxConstraints(),
                          ),
-                       )
-                     else
-                       ...palette.colors.map((color) => Container(
-                         width: 20,
-                         height: 20,
-                         margin: const EdgeInsets.only(left: 4),
-                         decoration: BoxDecoration(
-                           color: parseColor(color),
-                           borderRadius: BorderRadius.circular(4),
-                           border: Border.all(color: Colors.white24),
-                         ),
-                       )),
-                   ],
+                       ],
+                     ],
+                   ),
                  ),
-               ),
-             );
-           },
+               );
+             },
+           ),
          ),
-       ),
      ],
    );
  }
@@ -1702,6 +1735,9 @@ class SidePanel extends StatelessWidget {
         child: Text('No fonts match', style: TextStyle(color: Colors.white54)),
       );
     }
+    
+    final bool showingFavorites = selectedMainCategory == FontCategory.favorites;
+    
     return ListView.builder(
       controller: fontScrollController,
       itemCount: filteredFonts.length,
@@ -1710,6 +1746,18 @@ class SidePanel extends StatelessWidget {
       itemBuilder: (context, index) {
         final fontName = filteredFonts[index];
         final isSelected = fontName == selectedFont;
+        
+        String? categoryPath;
+        if (showingFavorites) {
+          final metadata = FontDatabase.getMetadata(fontName);
+          if (metadata != null) {
+            final parts = <String>[metadata.mainCategory];
+            if (metadata.subCategories.isNotEmpty) {
+              parts.add(metadata.subCategories.first);
+            }
+            categoryPath = parts.join(' → ');
+          }
+        }
         
         return ListTile(
           dense: true,
@@ -1726,6 +1774,19 @@ class SidePanel extends StatelessWidget {
               fontWeight: isSelected ? FontWeight.bold : FontWeight.normal,
             ),
           ),
+          subtitle: showingFavorites && categoryPath != null
+              ? Text(
+                  categoryPath,
+                  style: const TextStyle(color: Colors.white38, fontSize: 11),
+                )
+              : null,
+          trailing: showingFavorites
+              ? IconButton(
+                  icon: const Icon(Icons.delete, color: Colors.white54, size: 18),
+                  onPressed: () => onRemoveFavorite(fontName),
+                  tooltip: 'Remove from favorites',
+                )
+              : null,
           onTap: () => onFontSelected(fontName, index),
           tileColor: isSelected ? Colors.deepPurple.withAlpha(51) : null,
         );
@@ -1791,6 +1852,11 @@ class SidePanel extends StatelessWidget {
           ],
           _buildSubCategoryButton('Various', null, studio: FontCategory.various),
           _buildSubCategoryButton('foreign', FontCategory.foreign),
+        ],
+        const Divider(color: Colors.white24),
+        _buildCategoryButton('favorites (⇧F)', FontCategory.favorites, null, null),
+        if (selectedMainCategory == FontCategory.favorites) ...[
+          ..._buildFavoritesTree(),
         ],
         if (customFontDirectory != null) ...[
           const Divider(color: Colors.white24),
@@ -1876,6 +1942,51 @@ class SidePanel extends StatelessWidget {
           ),
         ),
       ],
+    );
+  }
+
+  List<Widget> _buildFavoritesTree() {
+    if (favoriteFonts.isEmpty) {
+      return [
+        const Padding(
+          padding: EdgeInsets.all(16.0),
+          child: Text(
+            'No favorites yet.\nPress ⇧F to add current font.',
+            style: TextStyle(color: Colors.white54, fontSize: 12),
+            textAlign: TextAlign.center,
+          ),
+        ),
+      ];
+    }
+  
+    return [];
+  }
+
+  Widget _buildColorFilterButton(String label, String mode) {
+    final isActive = colorFilterMode == mode;
+    
+    return ElevatedButton(
+      onPressed: () => onColorFilterModeChanged(mode),
+      style: ElevatedButton.styleFrom(
+        backgroundColor: isActive ? Colors.deepPurple : const Color(0xFF4D2C86),
+        foregroundColor: isActive ? Colors.white : const Color(0xFF667EEA),
+        side: const BorderSide(
+          color: Color(0xFF667eea),
+          width: 2,
+        ),
+        padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 10),
+        shape: RoundedRectangleBorder(
+          borderRadius: BorderRadius.circular(8),
+        ),
+        elevation: isActive ? 2 : 0,
+      ),
+      child: Text(
+        label,
+        style: const TextStyle(
+          fontSize: 14,
+          fontWeight: FontWeight.w600,
+        ),
+      ),
     );
   }
 

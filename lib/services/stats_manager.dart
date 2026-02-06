@@ -105,6 +105,12 @@ class StatsManager {
         if (duration >= 30) {
           final parts = cacheKey.split('|');
           if (parts.length == 3) {
+            if (await _entryExistsInLog(parts[0], parts[1], parts[2])) {
+              print('Skipping duplicate entry: ${parts[1]}');
+              keysToRemove.add(cacheKey);
+              continue;
+            }
+            
             final entry = {
               'filename': parts[0],
               'chapter_name': parts[1],
@@ -113,7 +119,7 @@ class StatsManager {
             };
             
             buffer.writeln(jsonEncode(entry));
-            print('📊 Flushed from cache: ${entry['chapter_name']} - ${entry['listened_duration']}s');
+            print('Flushed from cache: ${entry['chapter_name']} - ${entry['listened_duration']}s');
             keysToRemove.add(cacheKey); 
           }
         }
@@ -123,7 +129,6 @@ class StatsManager {
         await file.writeAsString(buffer.toString(), mode: FileMode.append, flush: true);
       }
       
-      // Only remove the keys that were actually flushed
       for (final key in keysToRemove) {
         chapterTimeCache.remove(key);
       }
@@ -132,6 +137,30 @@ class StatsManager {
     } catch (e) {
       print('Error flushing cache: $e');
     }
+  }
+
+  Future<bool> _entryExistsInLog(String filename, String chapterName, String datetime) async {
+    final logPath = getLogFilePath();
+    final file = File(logPath);
+    
+    if (!await file.exists()) return false;
+    
+    try {
+      final lines = await file.readAsLines();
+      for (final line in lines) {
+        if (line.trim().isEmpty) continue;
+        final entry = jsonDecode(line) as Map<String, dynamic>;
+        if (entry['filename'] == filename &&
+            entry['chapter_name'] == chapterName &&
+            entry['datetime'] == datetime) {
+          return true;
+        }
+      }
+    } catch (e) {
+      print('Error checking log: $e');
+    }
+    
+    return false;
   }
   
   String generateCacheKey(String audiobookPath, String chapterTitle, DateTime? startTime) {

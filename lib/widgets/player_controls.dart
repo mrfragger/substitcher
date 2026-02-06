@@ -410,7 +410,7 @@ class PlayerControls extends StatelessWidget {
                             TextSpan(text: selectedFont),
                             TextSpan(text: ' '),
                             TextSpan(
-                              text: conversionType == 'none' ? 'Original' : conversionType,
+                              text: conversionType,
                               style: const TextStyle(color: Colors.orange),
                             ),
                             if (currentColorPalette != null) ...[
@@ -800,7 +800,7 @@ class PlayerControls extends StatelessWidget {
             PopupMenuItem(
               value: 'apply_default',
               child: Tooltip(
-                message: 'Default: $defaultFont, $defaultConversionType${defaultColorPalette != null ? ', $defaultColorPalette' : ', No Color'}',
+                message: 'Default: $defaultFont, ${defaultConversionType == 'none' ? 'Original' : defaultConversionType}${defaultColorPalette != null ? ', $defaultColorPalette' : ', No Color'}',
                 waitDuration: const Duration(milliseconds: 100),
                 child: const Text('Apply Font/Color Default (a)'),
               ),

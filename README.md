@@ -129,7 +129,8 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 - each missing and each alternate font, subs must be converted
 - ligature demo fonts, subs need converting only once
 - alternates don't work with mixed CJK and Latin text on same subtitle line
-- choose own custom folder for own fonts
+- choose own custom folder for own fonts, refresh for added fonts, must restart app though to clear out removed fonts
+- favorites list
 
 ![](images/fonts.jpg)
 
@@ -140,6 +141,7 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 - 94 Simple Palettes (one font color with a shadow color)
 - monochromatic, food palettes
 - letters work with alternates but not with ligatures
+- favorites list, shortcut key R (rang रंग Hindi is color)
 
 ![](images/colors.jpg)
 
