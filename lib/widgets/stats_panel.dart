@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 class StatsPanel extends StatelessWidget {
+  static const ltr = '\u200E';
   final List<Map<String, dynamic>> statsEntries;
   final bool statsEnabled;
   final Function(bool) onStatsEnabledChanged;
@@ -274,7 +275,7 @@ class StatsPanel extends StatelessWidget {
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children: [
                             Text(
-                              filename,
+                              '$ltr$filename',
                               style: const TextStyle(
                                 color: Colors.lightBlue,
                                 fontSize: 12,
@@ -283,7 +284,7 @@ class StatsPanel extends StatelessWidget {
                             ),
                             const SizedBox(height: 4),
                             RichText(
-                              text: highlightSearchTerm(chapterName, searchQuery),
+                              text: highlightSearchTerm('$ltr$chapterName', searchQuery),
                             ),
                           ],
                         ),
@@ -317,7 +318,7 @@ class StatsPanel extends StatelessWidget {
         const SizedBox(height: 24),
         _buildDayStats('Yesterday', filterEntriesByDate(now.subtract(const Duration(days: 1)))),
         const SizedBox(height: 24),
-        for (int i = 2; i <= 10; i++) ...[
+        for (int i = 2; i <= 14; i++) ...[
           _buildDayStats('$i days ago', filterEntriesByDate(now.subtract(Duration(days: i)))),
           const SizedBox(height: 24),
         ],
@@ -707,11 +708,11 @@ class StatsPanel extends StatelessWidget {
                               style: const TextStyle(color: Colors.lightBlue, fontWeight: FontWeight.bold),
                             ),
                             TextSpan(
-                              text: ' $audiobookDuration ',
+                              text: '  \u200E$audiobookDuration ',
                               style: const TextStyle(color: Colors.green),
                             ),
                             TextSpan(
-                              text: '$percentage%',
+                              text: '\u200E$percentage%',
                               style: const TextStyle(color: Colors.yellow),
                             ),
                           ],
@@ -741,7 +742,7 @@ class StatsPanel extends StatelessWidget {
                           children: [
                             Expanded(
                               child: Text(
-                                chapterTitle,
+                                '$ltr$chapterTitle',
                                 style: const TextStyle(
                                   color: Colors.white,
                                   fontSize: 12,
@@ -922,7 +923,7 @@ class StatsPanel extends StatelessWidget {
                 ),
                 Expanded(
                   child: Text(
-                    fileEntry.key,
+                    '$ltr${fileEntry.key}',
                     style: const TextStyle(
                       color: Colors.lightBlue,
                       fontSize: 12,

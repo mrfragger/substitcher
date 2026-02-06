@@ -113,6 +113,7 @@ class FontDatabase {
     'Kolton Monica': FontMetadata(fontName: 'Kolton Monica', mainCategory: FontCategory.demo123, subCategories: [FontCategory.mustBeUppercase], studio: null),
     'Nugotha': FontMetadata(fontName: 'Nugotha', mainCategory: FontCategory.demo123, subCategories: [FontCategory.mustBeUppercase], studio: null),
     'Play Sundae': FontMetadata(fontName: 'Play Sundae', mainCategory: FontCategory.demo123, subCategories: [FontCategory.mustBeUppercase], studio: null),
+    'Spok Creps': FontMetadata(fontName: 'Spok Creps', mainCategory: FontCategory.demo123, subCategories: [FontCategory.mustBeUppercase], studio:  FontCategory.erifqizefont123),
     'Reghka': FontMetadata(fontName: 'Reghka', mainCategory: FontCategory.demo123, subCategories: [FontCategory.mustBeUppercase], studio: null),
     'Robocode': FontMetadata(fontName: 'Robocode', mainCategory: FontCategory.demo123, subCategories: [FontCategory.mustBeUppercase], studio: null),
 

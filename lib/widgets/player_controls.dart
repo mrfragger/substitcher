@@ -574,6 +574,7 @@ class PlayerControls extends StatelessWidget {
           icon: Icon(isPlaying ? Icons.pause_circle : Icons.play_circle),
           color: Colors.deepPurple,
           iconSize: 28,
+          tooltip: 'spacebar',
         ),
         const SizedBox(width: 12),
         IconButton(
