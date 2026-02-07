@@ -33,6 +33,11 @@ migrate_working_dir/
 /build/
 /coverage/
 
+# Xcode user data
+*.xcuserstate
+*.xcuserdatad/
+xcuserdata/
+
 # Symbolication related
 app.*.symbols
 
