@@ -244,14 +244,11 @@ jobs:
           java-version: '17'
           cache: gradle
       
-      - name: Install Android SDK with CMake
+      - name: Install Android SDK with CMake and NDK
         uses: android-actions/setup-android@v3
         with:
-          api-level: 34
-          build-tools: 34.0.0
-          cmake-version: 3.22.1
-          ndk-version: 25.2.9519655
-          cache: true
+          packages: 'platform-tools platforms;android-34 build-tools;34.0.0 cmake;3.22.1 ndk;25.2.9519655'
+          accept-android-sdk-licenses: true
       
       - uses: subosito/flutter-action@v2
         with:
