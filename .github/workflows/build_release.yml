@@ -283,7 +283,7 @@ jobs:
         run: flutter pub get
       
       - name: Build Android APK
-        run: flutter build apk --release --split-per-abi --target-platform android-arm64
+        run: flutter build apk --release --split-per-abi
       
       - name: Rename APK
         run: |
