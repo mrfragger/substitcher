@@ -6348,6 +6348,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   void _showDownloadDialog() {
     showDialog(
       context: context,
+      barrierDismissible: false,
       builder: (context) => DownloadOverlay(
         youtubeUrl: _isYouTubeStream ? _currentYouTubeUrl : null,
       ),
@@ -7238,7 +7239,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
    }
 
   Future<void> _handleYouTubeUrl(String url) async {
-    if (!YouTubeService.isYouTubeUrl(url)) return;
+    if (!YouTubeService.isSupportedUrl(url)) return;
     
     setState(() {
       _isLoadingYouTube = true;
@@ -7568,7 +7569,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     final controller = TextEditingController();
     
     final clipboardData = await Clipboard.getData(Clipboard.kTextPlain);
-    if (clipboardData?.text != null && YouTubeService.isYouTubeUrl(clipboardData!.text!)) {
+    if (clipboardData?.text != null && YouTubeService.isSupportedUrl(clipboardData!.text!)) {
       controller.text = clipboardData.text!;
     }
     
@@ -7634,7 +7635,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                   ),
                 ),
                 onSubmitted: (value) {
-                  if (YouTubeService.isYouTubeUrl(value)) {
+                  if (YouTubeService.isSupportedUrl(value)) {
                     Navigator.pop(context, {'action': 'stream', 'url': value});
                   }
                 },
@@ -7679,7 +7680,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                     label: const Text('Stream Audio'),
                     onPressed: () {
                       final url = controller.text.trim();
-                      if (YouTubeService.isYouTubeUrl(url)) {
+                      if (YouTubeService.isSupportedUrl(url)) {
                         Navigator.pop(context, {'action': 'stream', 'url': url});
                       } else {
                         ScaffoldMessenger.of(context).showSnackBar(

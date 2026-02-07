@@ -41,6 +41,10 @@ class _DownloadOverlayState extends State<DownloadOverlay> {
   final ScrollController _scrollController = ScrollController();
   final TextEditingController _formatController = TextEditingController(text: '139');
   final TextEditingController _playlistItemsController = TextEditingController();
+
+  final TextEditingController _channelNameController = TextEditingController();
+  final TextEditingController _playlistTitleController = TextEditingController();
+  bool _showManualPlaylistInfo = false;
   
   final Map<String, String> _formatExamples = {
     '139': 'half size 140',
@@ -64,7 +68,7 @@ class _DownloadOverlayState extends State<DownloadOverlay> {
       _pasteFromClipboard();
     }
   }
-  
+
   @override
   void dispose() {
     _scrollResumeTimer?.cancel();
@@ -72,6 +76,8 @@ class _DownloadOverlayState extends State<DownloadOverlay> {
     _scrollController.dispose();
     _formatController.dispose();
     _playlistItemsController.dispose();
+    _channelNameController.dispose();
+    _playlistTitleController.dispose();
     super.dispose();
   }
   
@@ -105,8 +111,9 @@ class _DownloadOverlayState extends State<DownloadOverlay> {
     final clipboardData = await Clipboard.getData(Clipboard.kTextPlain);
     if (clipboardData != null && clipboardData.text != null) {
       final text = clipboardData.text!.trim();
-      if (YouTubeService.isYouTubeUrl(text)) {
-        _urlController.text = text;
+      if (YouTubeService.isSupportedUrl(text)) {
+        final cleanedUrl = YouTubeService.cleanUrl(text);
+        _urlController.text = cleanedUrl;
         _checkIfPlaylist();
       }
     }
@@ -122,7 +129,7 @@ class _DownloadOverlayState extends State<DownloadOverlay> {
   
   Future<void> _checkIfPlaylist() async {
     final url = _urlController.text.trim();
-    if (url.isEmpty || !YouTubeService.isYouTubeUrl(url)) {
+    if (url.isEmpty || !YouTubeService.isSupportedUrl(url)) {
       setState(() {
         _isPlaylist = false;
         _channelName = null;
@@ -131,7 +138,12 @@ class _DownloadOverlayState extends State<DownloadOverlay> {
       return;
     }
     
-    final isPlaylist = await DownloadService.isPlaylist(url);
+    final cleanedUrl = YouTubeService.cleanUrl(url);
+    if (cleanedUrl != url) {
+      _urlController.text = cleanedUrl;
+    }
+    
+    final isPlaylist = await DownloadService.isPlaylist(cleanedUrl);
     if (mounted) {
       setState(() {
         _isPlaylist = isPlaylist;
@@ -146,9 +158,20 @@ class _DownloadOverlayState extends State<DownloadOverlay> {
   Future<void> _fetchPlaylistInfo() async {
     final info = await DownloadService.getPlaylistInfo(_urlController.text.trim());
     if (mounted && info != null) {
+      final channel = info['channel'] ?? 'Unknown';
+      final title = info['title'] ?? 'Playlist';
+      
       setState(() {
-        _channelName = info['channel'];
-        _playlistTitle = info['title'];
+        _channelName = channel;
+        _playlistTitle = title;
+        
+        if (channel == 'Unknown' || title == 'Playlist') {
+          _showManualPlaylistInfo = true;
+          _channelNameController.text = channel == 'Unknown' ? '' : channel;
+          _playlistTitleController.text = title == 'Playlist' ? '' : title;
+        } else {
+          _showManualPlaylistInfo = false;
+        }
       });
     }
   }
@@ -156,7 +179,7 @@ class _DownloadOverlayState extends State<DownloadOverlay> {
   Future<void> _fetchAvailableFormats() async {
     final url = _urlController.text.trim();
     
-    if (url.isEmpty || !YouTubeService.isYouTubeUrl(url)) {
+    if (url.isEmpty || !YouTubeService.isSupportedUrl(url)) {
       setState(() {
         _urlError = 'Please enter a valid YouTube URL first';
       });
@@ -281,9 +304,9 @@ class _DownloadOverlayState extends State<DownloadOverlay> {
       return;
     }
     
-    if (!YouTubeService.isYouTubeUrl(url)) {
+    if (!YouTubeService.isSupportedUrl(url)) {
       setState(() {
-        _urlError = 'Invalid YouTube URL';
+        _urlError = 'Invalid URL (YouTube, SoundCloud, or Spreaker only)';
       });
       return;
     }
@@ -383,7 +406,9 @@ class _DownloadOverlayState extends State<DownloadOverlay> {
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
                     Text(
-                      _isPlaylist ? 'Download YouTube Playlist' : 'Download YouTube Audio',
+                      _isPlaylist 
+                        ? 'Download ${YouTubeService.getPlatformName(_urlController.text)} Playlist' 
+                        : 'Download ${YouTubeService.getPlatformName(_urlController.text)} Audio',
                       style: const TextStyle(
                         color: Colors.white,
                         fontSize: 20,
@@ -434,7 +459,7 @@ class _DownloadOverlayState extends State<DownloadOverlay> {
                           borderRadius: BorderRadius.circular(8),
                           borderSide: BorderSide.none,
                         ),
-                        hintText: 'Paste YouTube video or playlist URL',
+                        hintText: 'Paste YouTube, SoundCloud, or Spreaker URL',
                         hintStyle: const TextStyle(color: Colors.white38),
                         errorText: _urlError,
                         errorStyle: const TextStyle(color: Colors.red),
@@ -455,7 +480,7 @@ class _DownloadOverlayState extends State<DownloadOverlay> {
                     ),
                     const SizedBox(height: 8),
                     const Text(
-                      'Supported: youtube.com/watch?v=... | youtube.com/playlist?list=... | youtube.com/@channel/videos',
+                      'Supported: YouTube (videos/playlists) | SoundCloud (tracks/sets) | Spreaker (episodes/podcasts)',
                       style: TextStyle(color: Colors.white38, fontSize: 11),
                     ),
                     
@@ -604,6 +629,81 @@ class _DownloadOverlayState extends State<DownloadOverlay> {
                         ),
                       ),
                       const SizedBox(height: 16),
+                      
+                      if (_showManualPlaylistInfo) ...[
+                        Container(
+                          padding: const EdgeInsets.all(12),
+                          decoration: BoxDecoration(
+                            color: Colors.orange.withValues(alpha: 0.1),
+                            borderRadius: BorderRadius.circular(8),
+                            border: Border.all(color: Colors.orange),
+                          ),
+                          child: Column(
+                            crossAxisAlignment: CrossAxisAlignment.start,
+                            children: [
+                              Row(
+                                children: [
+                                  const Icon(Icons.info_outline, color: Colors.orange, size: 16),
+                                  const SizedBox(width: 8),
+                                  const Text(
+                                    'Please provide playlist information',
+                                    style: TextStyle(color: Colors.orange, fontSize: 12, fontWeight: FontWeight.bold),
+                                  ),
+                                ],
+                              ),
+                              const SizedBox(height: 12),
+                              const Text(
+                                'Channel/Creator Name',
+                                style: TextStyle(color: Colors.white70, fontSize: 14),
+                              ),
+                              const SizedBox(height: 8),
+                              TextField(
+                                controller: _channelNameController,
+                                enabled: !_isDownloading,
+                                style: const TextStyle(color: Colors.white),
+                                decoration: InputDecoration(
+                                  filled: true,
+                                  fillColor: const Color(0xFF1E1E1E),
+                                  border: OutlineInputBorder(
+                                    borderRadius: BorderRadius.circular(8),
+                                    borderSide: BorderSide.none,
+                                  ),
+                                  hintText: 'e.g., Podcast Creator Name',
+                                  hintStyle: const TextStyle(color: Colors.white38),
+                                ),
+                                onChanged: (value) {
+                                  _channelName = value.trim().isEmpty ? 'Unknown' : value.trim();
+                                },
+                              ),
+                              const SizedBox(height: 16),
+                              const Text(
+                                'Playlist/Show Title',
+                                style: TextStyle(color: Colors.white70, fontSize: 14),
+                              ),
+                              const SizedBox(height: 8),
+                              TextField(
+                                controller: _playlistTitleController,
+                                enabled: !_isDownloading,
+                                style: const TextStyle(color: Colors.white),
+                                decoration: InputDecoration(
+                                  filled: true,
+                                  fillColor: const Color(0xFF1E1E1E),
+                                  border: OutlineInputBorder(
+                                    borderRadius: BorderRadius.circular(8),
+                                    borderSide: BorderSide.none,
+                                  ),
+                                  hintText: 'e.g., My Podcast Series',
+                                  hintStyle: const TextStyle(color: Colors.white38),
+                                ),
+                                onChanged: (value) {
+                                  _playlistTitle = value.trim().isEmpty ? 'Playlist' : value.trim();
+                                },
+                              ),
+                            ],
+                          ),
+                        ),
+                        const SizedBox(height: 16),
+                      ],
                       
                       CheckboxListTile(
                         title: const Text(

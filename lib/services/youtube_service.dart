@@ -661,7 +661,7 @@ class YouTubeService {
         : sanitized;
   }
   
-  static bool isYouTubeUrl(String text) {
+  static bool isSupportedUrl(String text) {
     final patterns = [
       RegExp(r'^https?://(www\.)?youtube\.com/watch\?v='),
       RegExp(r'^https?://youtu\.be/'),
@@ -671,10 +671,32 @@ class YouTubeService {
       RegExp(r'^https?://(www\.)?youtube\.com/c/[^/]+/videos'),
       RegExp(r'^https?://(www\.)?youtube\.com/channel/[^/]+/videos'),
       RegExp(r'^https?://(www\.)?youtube\.com/user/[^/]+/videos'),
-      RegExp(r'^https?://(www\.)?youtube\.com/playlist\?list='), 
+      RegExp(r'^https?://(www\.)?youtube\.com/playlist\?list='),
+      RegExp(r'^https?://(www\.)?spreaker\.com/podcast/'),
+      RegExp(r'^https?://(www\.)?spreaker\.com/show/'),
+      RegExp(r'^https?://(www\.)?spreaker\.com/episode/'),
+      RegExp(r'^https?://(www\.)?soundcloud\.com/[^/]+/[^/?]+'),
+      RegExp(r'^https?://(www\.)?soundcloud\.com/[^/]+/sets/[^/?]+'),
     ];
     
     return patterns.any((pattern) => pattern.hasMatch(text.trim()));
+  }
+  
+  static String cleanUrl(String url) {
+    final uri = Uri.parse(url);
+    
+    if (uri.host.contains('soundcloud.com') || uri.host.contains('spreaker.com')) {
+      return '${uri.scheme}://${uri.host}${uri.path}';
+    }
+    
+    return url;
+  }
+  
+  static String getPlatformName(String url) {
+    if (url.contains('soundcloud.com')) return 'SoundCloud';
+    if (url.contains('spreaker.com')) return 'Spreaker';
+    if (url.contains('youtube.com') || url.contains('youtu.be')) return 'YouTube';
+    return 'Unknown';
   }
   
   static String? extractVideoId(String url) {

@@ -36,9 +36,21 @@ class DownloadService {
   }
   
   static Future<bool> isPlaylist(String url) async {
-    return url.contains('list=') || 
-           url.contains('/playlist') || 
-           url.contains('/videos');
+    if (url.contains('youtube.com') || url.contains('youtu.be')) {
+      return url.contains('list=') || 
+             url.contains('/playlist') || 
+             url.contains('/videos');
+    }
+    
+    if (url.contains('spreaker.com')) {
+      return url.contains('/podcast/') || url.contains('/show/');
+    }
+    
+    if (url.contains('soundcloud.com')) {
+      return url.contains('/sets/');
+    }
+    
+    return false;
   }
   
   static Future<Map<String, String>?> getPlaylistInfo(String url) async {
@@ -58,10 +70,36 @@ class DownloadService {
       );
       
       if (result.exitCode == 0) {
-        final json = jsonDecode(result.stdout.toString());
+        final dynamic jsonResult = jsonDecode(result.stdout.toString());
+        
+        Map<String, dynamic> entry;
+        if (jsonResult is List) {
+          if (jsonResult.isNotEmpty) {
+            entry = jsonResult[0];
+          } else {
+            return null;
+          }
+        } else if (jsonResult is Map) {
+          entry = Map<String, dynamic>.from(jsonResult);
+        } else {
+          return null;
+        }
+        
+        String channel = entry['creator'] ??
+                        entry['uploader'] ??
+                        entry['channel'] ??
+                        entry['artist'] ??
+                        'Unknown';
+        
+        String title = entry['playlist_title'] ??
+                       entry['title'] ??
+                       'Playlist';
+        
+        title = title.replaceAll('/', ' - ');
+        
         return {
-          'channel': json['channel'] ?? json['uploader'] ?? 'Unknown',
-          'title': (json['title'] ?? 'Playlist').replaceAll('/', ' - '),
+          'channel': channel,
+          'title': title,
         };
       }
     } catch (e) {
