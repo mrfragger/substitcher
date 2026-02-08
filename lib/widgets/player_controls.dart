@@ -489,7 +489,7 @@ class PlayerControls extends StatelessWidget {
         IconButton(
           onPressed: onDecreaseSpeed,
           icon: const Icon(Icons.hourglass_bottom),
-          color: Colors.white,
+          color: Colors.white70,
           iconSize: 20,
           tooltip: 'Decrease speed [',
         ),
@@ -497,7 +497,7 @@ class PlayerControls extends StatelessWidget {
         IconButton(
           onPressed: onIncreaseSpeed,
           icon: const Icon(Icons.hourglass_top),
-          color: Colors.white,
+          color: Colors.white70,
           iconSize: 20,
           tooltip: 'Increase speed ]',
         ),
@@ -513,7 +513,7 @@ class PlayerControls extends StatelessWidget {
                 IconButton(
                   onPressed: onPreviousChapter,
                   icon: const Icon(Icons.skip_previous),
-                  color: Colors.white,
+                  color: Colors.white70,
                   iconSize: 28,
                 ),
                 if (hoveringPrevChapter && currentChapterIndex > 0)
@@ -564,7 +564,7 @@ class PlayerControls extends StatelessWidget {
         IconButton(
           onPressed: skipToPreviousSubtitle,
           icon: const Icon(Icons.arrow_back_ios_outlined),
-          color: Colors.white,
+          color: Colors.white70,
           iconSize: 24,
           tooltip: 'Prev Sub ←',
         ),
@@ -574,13 +574,12 @@ class PlayerControls extends StatelessWidget {
           icon: Icon(isPlaying ? Icons.pause_circle : Icons.play_circle),
           color: Colors.deepPurple,
           iconSize: 28,
-          tooltip: 'spacebar',
         ),
         const SizedBox(width: 12),
         IconButton(
           onPressed: skipToNextSubtitle,
           icon: const Icon(Icons.arrow_forward_ios_outlined),
-          color: Colors.white,
+          color: Colors.white70,
           iconSize: 24,
           tooltip: 'Next Sub →',
         ),
@@ -598,7 +597,7 @@ class PlayerControls extends StatelessWidget {
                 IconButton(
                   onPressed: onNextChapter,
                   icon: const Icon(Icons.skip_next),
-                  color: Colors.white,
+                  color: Colors.white70,
                   iconSize: 28,
                 ),
                 if (hoveringNextChapter && currentChapterIndex < audiobook.chapters.length - 1)
@@ -649,7 +648,7 @@ class PlayerControls extends StatelessWidget {
           IconButton(
             onPressed: onToggleShuffle,
             icon: const Icon(Icons.shuffle),
-            color: shuffleEnabled ? Colors.deepPurple : Colors.white,
+            color: shuffleEnabled ? Colors.deepPurple : Colors.white70,
             iconSize: 24,
             tooltip: shuffleEnabled ? 'Shuffle ${playedChapters.length}/${audiobook.chapters.length}' : 'Shuffle off',
           ),
@@ -661,7 +660,7 @@ class PlayerControls extends StatelessWidget {
           PopupMenuButton<Duration?>(
             icon: Icon(
               Icons.access_time,
-              color: sleepDuration != null ? Colors.deepPurple : Colors.white,
+              color: sleepDuration != null ? Colors.deepPurple : Colors.white70,
               size: 24,
             ),
             tooltip: 'Sleep Timer',
@@ -715,7 +714,7 @@ class PlayerControls extends StatelessWidget {
             child: IconButton(
               onPressed: onAddBookmark,
               icon: const Icon(Icons.bookmark_add),
-              color: Colors.white,
+              color: Colors.white70,
               iconSize: 24,
             ),
           ),
@@ -728,7 +727,7 @@ class PlayerControls extends StatelessWidget {
             message: 'Chapters (c)',
             child: IconButton(
               icon: const Icon(Icons.view_timeline),
-              color: Colors.white,
+              color: Colors.white70,
               iconSize: 28,
               onPressed: onTogglePanel,
             ),
@@ -774,7 +773,7 @@ class PlayerControls extends StatelessWidget {
         ],
         
         PopupMenuButton<String>(
-          icon: const Icon(Icons.text_fields, color: Colors.white, size: 24),
+          icon: const Icon(Icons.text_fields, color: Colors.white70, size: 24),
           tooltip: 'Appearance & Subtitles',
           onSelected: (value) => onSettingsMenuSelected(context, value),
           itemBuilder: (context) => [
@@ -902,7 +901,7 @@ class PlayerControls extends StatelessWidget {
 
         if (!isYouTubeStream)
         PopupMenuButton<String>(
-          icon: const Icon(Icons.compress, color: Colors.white, size: 24),
+          icon: const Icon(Icons.compress, color: Colors.white70, size: 24),
           tooltip: 'Slicing',
           onSelected: (value) => onEditingMenuSelected(context, value),
           itemBuilder: (context) => [
@@ -939,7 +938,7 @@ class PlayerControls extends StatelessWidget {
         const SizedBox(width: 8),
 
         PopupMenuButton<String>(
-          icon: const Icon(Icons.settings, color: Colors.white, size: 24),
+          icon: const Icon(Icons.settings, color: Colors.white70, size: 24),
           tooltip: 'Settings',
           onSelected: (value) => onSettingsMenuSelected(context, value),
           itemBuilder: (context) => [

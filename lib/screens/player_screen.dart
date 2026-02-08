@@ -758,7 +758,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       }
       return 'favorite';
     }
-    return _conversionType == 'none' ? 'Original' : _conversionType;
+    return _conversionType == 'none' ? 'original' : _conversionType;
   }
 
   Future<void> _convertSubtitleToDemo() async {
@@ -6777,7 +6777,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       }
       return 'favorite';
     }
-    return _conversionType == 'none' ? 'Original' : _conversionType;
+    return _conversionType == 'none' ? 'original' : _conversionType;
   }
 
   Future<void> _applyConversion() async {

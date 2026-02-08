@@ -1864,6 +1864,14 @@ class SidePanel extends StatelessWidget {
                         },
                       ),
                       ChoiceChip(
+                        label: const Text('demo123'),
+                        selected: baseType == 'demo123',
+                        selectedColor: Colors.deepPurple,
+                        onSelected: (selected) {
+                          if (selected) setDialogState(() => baseType = 'demo123');
+                        },
+                      ),
+                      ChoiceChip(
                         label: const Text('demo'),
                         selected: baseType == 'demo',
                         selectedColor: Colors.deepPurple,
@@ -1872,11 +1880,11 @@ class SidePanel extends StatelessWidget {
                         },
                       ),
                       ChoiceChip(
-                        label: const Text('demo123'),
-                        selected: baseType == 'demo123',
+                        label: const Text('free'),
+                        selected: baseType == 'free',
                         selectedColor: Colors.deepPurple,
                         onSelected: (selected) {
-                          if (selected) setDialogState(() => baseType = 'demo123');
+                          if (selected) setDialogState(() => baseType = 'free');
                         },
                       ),
                     ],
