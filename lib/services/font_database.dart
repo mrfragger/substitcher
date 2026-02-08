@@ -296,8 +296,8 @@ class FontDatabase {
      'Hundred Miracles personal use': FontMetadata(fontName: 'Hundred Miracles personal use', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
      'Ralietta': FontMetadata(fontName: 'Ralietta', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
      'Rocket Raccoon free': FontMetadata(fontName: 'Rocket Raccoon free', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
+     'Souther Daleska demo version': FontMetadata(fontName: 'Souther Daleska demo version', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
      'Tadcaster': FontMetadata(fontName: 'Tadcaster', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
- 
  
      // ==================== demo/missingligatures/177studio ====================
      'Abstract Reflections demo': FontMetadata(fontName: 'Abstract Reflections demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.missingLigatures], studio: FontCategory.studio177, ligaturePairs: ["at", "et", "ge", "in", "ke", "nc", "ng", "of", "ow", "rs", "ta"]),

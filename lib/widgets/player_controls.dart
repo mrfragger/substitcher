@@ -791,6 +791,10 @@ class PlayerControls extends StatelessWidget {
               child: Text('Chapter Title Hide/Show (⇧H)'),
             ),
             const PopupMenuItem(
+              value: 'toggle_subtitle_dim',
+              child: Text('Dim Text on/off (⇧T)'),
+            ),
+            const PopupMenuItem(
               value: 'copyCurrentSubtitle',
               child: Text('Copy Current Subtitle (u / U)'),
             ),

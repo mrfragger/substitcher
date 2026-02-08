@@ -2278,6 +2278,10 @@ class _EncoderScreenState extends State<EncoderScreen> {
   }
   
   Widget _buildFileListHeader() {
+    final averageDuration = _files.isNotEmpty 
+        ? Duration(milliseconds: (_totalDuration.inMilliseconds / _files.length).round())
+        : Duration.zero;
+    
     return Container(
       padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
       color: Theme.of(context).colorScheme.surfaceContainerHighest,
@@ -2288,11 +2292,22 @@ class _EncoderScreenState extends State<EncoderScreen> {
             '${_files.length} chapters',
             style: Theme.of(context).textTheme.titleMedium,
           ),
-          Text(
-            'Total: ${_formatDuration(_totalDuration)}',
-            style: Theme.of(context).textTheme.titleMedium?.copyWith(
-              fontWeight: FontWeight.bold,
-            ),
+          Row(
+            children: [
+              Text(
+                'Average Chapter: ${_formatDuration(averageDuration)}',
+                style: Theme.of(context).textTheme.titleMedium?.copyWith(
+                  color: Colors.blue,
+                ),
+              ),
+              const SizedBox(width: 24),
+              Text(
+                'Total: ${_formatDuration(_totalDuration)}',
+                style: Theme.of(context).textTheme.titleMedium?.copyWith(
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+            ],
           ),
         ],
       ),
