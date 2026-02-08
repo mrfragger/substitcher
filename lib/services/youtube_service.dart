@@ -660,12 +660,37 @@ class YouTubeService {
         ? sanitized.substring(0, 100) 
         : sanitized;
   }
+
+  static Future<bool> isActiveLiveStream(String url) async {
+    if (_ytdlpPath == null && !await isYtdlpAvailable()) {
+      return false;
+    }
+    
+    try {
+      final result = await Process.run(_ytdlpPath!, [
+        '--dump-json',
+        '--no-playlist',
+        url,
+      ]);
+      
+      if (result.exitCode == 0) {
+        final json = jsonDecode(result.stdout.toString());
+        final isLive = json['is_live'] == true;
+        return isLive;
+      }
+    } catch (e) {
+      print('Error checking live status: $e');
+    }
+    
+    return false;
+  }
   
   static bool isSupportedUrl(String text) {
     final patterns = [
       RegExp(r'^https?://(www\.)?youtube\.com/watch\?v='),
       RegExp(r'^https?://youtu\.be/'),
       RegExp(r'^https?://(www\.)?youtube\.com/shorts/'),
+      RegExp(r'^https?://(www\.)?youtube\.com/live/'),
       RegExp(r'^https?://music\.youtube\.com/watch\?v='),
       RegExp(r'^https?://(www\.)?youtube\.com/@[^/]+/videos'),
       RegExp(r'^https?://(www\.)?youtube\.com/c/[^/]+/videos'),

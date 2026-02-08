@@ -7321,11 +7321,45 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   Future<void> _handleYouTubeUrl(String url) async {
     if (!YouTubeService.isSupportedUrl(url)) return;
     
+    final isLive = await YouTubeService.isActiveLiveStream(url);
+    
+    if (isLive && mounted) {
+      final shouldContinue = await showDialog<bool>(
+        context: context,
+        builder: (context) => AlertDialog(
+          backgroundColor: const Color(0xFF2D2D2D),
+          title: const Text('Active Live Stream', style: TextStyle(color: Colors.white)),
+          content: const Text(
+            'This is currently a live stream. Live streams don\'t have subtitles yet.\n\n'
+            'You can stream without subtitles now, or wait until the stream finishes to download with subtitles.',
+            style: TextStyle(color: Colors.white70),
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.pop(context, false),
+              child: const Text('Cancel', style: TextStyle(color: Colors.white54)),
+            ),
+            ElevatedButton(
+              onPressed: () => Navigator.pop(context, true),
+              style: ElevatedButton.styleFrom(
+                backgroundColor: Colors.deepPurple,
+              ),
+              child: const Text('Stream Without Subs'),
+            ),
+          ],
+        ),
+      );
+      
+      if (shouldContinue != true) {
+        return;
+      }
+    }
+    
     setState(() {
       _isLoadingYouTube = true;
       _currentYouTubeUrl = url;
     });
-    
+        
     try {
       if (!await YouTubeService.isYtdlpAvailable()) {
         if (mounted) {
@@ -7461,13 +7495,13 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           });
         }
       }
-
+  
       setState(() {
         _isPlaying = true;
       });
       
       await player.play();
-
+  
       _updateWakelock();
       
       _downloadYouTubeSubtitles(url, title);
@@ -7481,7 +7515,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           ),
         );
       }
-      } catch (e, stackTrace) {
+    } catch (e, stackTrace) {
       print('Error loading YouTube audio: $e');
       print('Stack trace: $stackTrace');
       if (mounted) {
