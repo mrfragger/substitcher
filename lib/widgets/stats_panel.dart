@@ -108,13 +108,12 @@ class StatsPanel extends StatelessWidget {
           Row(
             children: [
               Expanded(
-                flex: 3,
                 child: TextField(
                   controller: skipTrackingController,
                   focusNode: skipTrackingFocusNode,
                   style: const TextStyle(color: Colors.white, fontSize: 14),
                   decoration: InputDecoration(
-                    hintText: 'Skip tracking: words in audiobook titles...',
+                    hintText: 'Skip tracking: "salah memorize" "bad example" or single words...',
                     hintStyle: const TextStyle(color: Colors.white54),
                     prefixIcon: const Icon(Icons.block, color: Colors.white54, size: 20),
                     suffixIcon: skipTrackingTerms.isNotEmpty
@@ -137,28 +136,27 @@ class StatsPanel extends StatelessWidget {
                   onChanged: onSkipTrackingChanged,
                 ),
               ),
-              const Spacer(),
-              Row(
-                children: [
-                  const Text(
-                    'Enable Tracking',
-                    style: TextStyle(color: Colors.white70, fontSize: 12),
-                  ),
-                  const SizedBox(width: 8),
-                  Switch(
-                    value: statsEnabled,
-                    onChanged: onStatsEnabledChanged,
-                    activeThumbColor: Colors.deepPurple,
-                  ),
-                ],
+              const SizedBox(width: 16),
+              Tooltip(
+                message: 'Enable Tracking',
+                child: Switch(
+                  value: statsEnabled,
+                  onChanged: onStatsEnabledChanged,
+                  activeThumbColor: Colors.deepPurple,
+                ),
               ),
               const SizedBox(width: 16),
-              ElevatedButton.icon(
-                onPressed: onRefreshStats,
-                icon: const Icon(Icons.refresh, size: 16),
-                label: const Text('Refresh'),
-                style: ElevatedButton.styleFrom(
-                  padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+              Tooltip(
+                message: 'Refresh',
+                child: IconButton(
+                  onPressed: onRefreshStats,
+                  icon: const Icon(Icons.refresh, size: 20, color: Colors.white70),
+                  style: IconButton.styleFrom(
+                    backgroundColor: Colors.black26,
+                    shape: RoundedRectangleBorder(
+                      borderRadius: BorderRadius.circular(8),
+                    ),
+                  ),
                 ),
               ),
             ],
@@ -318,7 +316,7 @@ class StatsPanel extends StatelessWidget {
         const SizedBox(height: 24),
         _buildDayStats('Yesterday', filterEntriesByDate(now.subtract(const Duration(days: 1)))),
         const SizedBox(height: 24),
-        for (int i = 2; i <= 14; i++) ...[
+        for (int i = 2; i <= 30; i++) ...[
           _buildDayStats('$i days ago', filterEntriesByDate(now.subtract(Duration(days: i)))),
           const SizedBox(height: 24),
         ],
@@ -699,23 +697,26 @@ class StatsPanel extends StatelessWidget {
                 Row(
                   children: [
                     Expanded(
-                      child: RichText(
-                        text: TextSpan(
-                          style: const TextStyle(fontSize: 13),
-                          children: [
-                            TextSpan(
-                              text: audiobookTitle,
-                              style: const TextStyle(color: Colors.lightBlue, fontWeight: FontWeight.bold),
-                            ),
-                            TextSpan(
-                              text: '  \u200E$audiobookDuration ',
-                              style: const TextStyle(color: Colors.green),
-                            ),
-                            TextSpan(
-                              text: '\u200E$percentage%',
-                              style: const TextStyle(color: Colors.yellow),
-                            ),
-                          ],
+                      child: InkWell(
+                        onTap: () => jumpToStatsResult(audiobookTitle, '', Duration.zero),
+                        child: RichText(
+                          text: TextSpan(
+                            style: const TextStyle(fontSize: 13),
+                            children: [
+                              TextSpan(
+                                text: audiobookTitle,
+                                style: const TextStyle(color: Colors.lightBlue, fontWeight: FontWeight.bold),
+                              ),
+                              TextSpan(
+                                text: '  \u200E$audiobookDuration ',
+                                style: const TextStyle(color: Colors.green),
+                              ),
+                              TextSpan(
+                                text: '\u200E$percentage%',
+                                style: const TextStyle(color: Colors.yellow),
+                              ),
+                            ],
+                          ),
                         ),
                       ),
                     ),

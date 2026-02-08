@@ -26,6 +26,7 @@ import '../models/subtitle_preferences.dart';
 import '../services/cjk_tokenizer.dart';
 import '../services/ffmpeg_service.dart';
 import '../services/font_loader.dart';
+import '../services/custom_font_metadata.dart';
 import '../services/font_database.dart';
 import '../services/subtitle_transformer.dart';
 import '../services/font_alternates_data.dart';
@@ -304,6 +305,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     CJKTokenizer.initialize();
     _setupAudioPlayer();
     CustomFontLoader.loadFonts();
+    CustomFontMetadataManager.load();
     _loadSkipChapterTerms();
     _loadCustomFontDirectory();
     _loadDefaultSettings();
@@ -1119,7 +1121,6 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     if (_selectedMainCategory == 'all') {
       fontsToShow = ['System Default', ...CustomFontLoader.getAvailableFonts()];
     } else if (_selectedMainCategory == FontCategory.favorites) {
-      // Just show all favorites - no subcategory filtering
       fontsToShow = _favoriteFonts.toList()..sort();
     } else if (_selectedMainCategory == FontCategory.custom) {
       fontsToShow = CustomFontLoader.customFonts;
@@ -5607,6 +5608,16 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                 _coloringMode = ColoringMode.letters;
               });
               return KeyEventResult.handled;
+            } else if (event.logicalKey == LogicalKeyboardKey.digit3 || event.logicalKey == LogicalKeyboardKey.numpad3) {
+              setState(() {
+                _colorFilterMode = 'all';
+              });
+              return KeyEventResult.handled;
+            } else if (event.logicalKey == LogicalKeyboardKey.digit4 || event.logicalKey == LogicalKeyboardKey.numpad4) {
+              setState(() {
+                _colorFilterMode = 'favorites';
+              });
+              return KeyEventResult.handled;
             }
           } else if (event.logicalKey == LogicalKeyboardKey.keyX && event is KeyDownEvent) {
             if (_primarySubtitlePath != null || _secondarySubtitlePath != null) {
@@ -5975,8 +5986,32 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                   bookmarksCount: _bookmarks.length,
                   fontsCount: CustomFontLoader.loadedFonts.length,
                   subsCount: _subtitles.length,
-                  statsCount: _statsManager.statsEntries.length,
-                  statsEntries: _statsManager.statsEntries,
+                  statsCount: _statsManager.statsEntries.where((entry) {
+                    if (_skipTrackingTerms.trim().isEmpty) return true;
+                    final filename = (entry['filename'] as String? ?? '').toLowerCase();
+                    final skipTerms = _skipTrackingTerms
+                        .toLowerCase()
+                        .split(' ')
+                        .where((t) => t.isNotEmpty)
+                        .toList();
+                    for (final term in skipTerms) {
+                      if (filename.contains(term)) return false;
+                    }
+                    return true;
+                  }).length,
+                  statsEntries: _statsManager.statsEntries.where((entry) {
+                    if (_skipTrackingTerms.trim().isEmpty) return true;
+                    final filename = (entry['filename'] as String? ?? '').toLowerCase();
+                    final skipTerms = _skipTrackingTerms
+                        .toLowerCase()
+                        .split(' ')
+                        .where((t) => t.isNotEmpty)
+                        .toList();
+                    for (final term in skipTerms) {
+                      if (filename.contains(term)) return false;
+                    }
+                    return true;
+                  }).toList(),
                   statsEnabled: _statsManager.statsEnabled,
                   onStatsEnabledChanged: (value) {
                     _statsManager.saveStatsEnabled(value);
@@ -7075,7 +7110,17 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       orElse: () => '',
     );
     
-    if (audiobookPath.isNotEmpty && _playlistChapterIndex.containsKey(audiobookPath)) {
+    if (audiobookPath.isEmpty) return;
+    
+    if (chapterTitle.isEmpty) {
+      setState(() {
+        _showPanel = false;
+      });
+      await _openAudiobook(audiobookPath);
+      return;
+    }
+    
+    if (_playlistChapterIndex.containsKey(audiobookPath)) {
       final chapters = _playlistChapterIndex[audiobookPath]!;
       final chapterIndex = chapters.indexWhere((ch) => ch.title == chapterTitle);
       

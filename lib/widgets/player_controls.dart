@@ -805,7 +805,7 @@ class PlayerControls extends StatelessWidget {
             PopupMenuItem(
               value: 'apply_default',
               child: Tooltip(
-                message: 'Default: $defaultFont, ${defaultConversionType == 'none' ? 'Original' : defaultConversionType}${defaultColorPalette != null ? ', $defaultColorPalette' : ', No Color'}',
+                message: 'Default: $defaultFont, ${defaultConversionType == 'none' ? 'original' : defaultConversionType}${defaultColorPalette != null ? ', $defaultColorPalette' : ', No Color'}',
                 waitDuration: const Duration(milliseconds: 100),
                 child: const Text('Apply Font/Color Default (a)'),
               ),

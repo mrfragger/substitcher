@@ -8,6 +8,8 @@ import '../models/history_item.dart';
 import '../models/bookmark.dart';
 import '../models/font_category.dart';
 import '../services/font_database.dart';
+import '../services/font_loader.dart';
+import '../services/custom_font_metadata.dart';
 import 'stats_panel.dart';
 
 enum PanelMode { chapters, history, playlist, bookmarks, fonts, colors, words, subs, stats }
@@ -1268,13 +1270,13 @@ class SidePanel extends StatelessWidget {
          child: Row(
            mainAxisAlignment: MainAxisAlignment.center,
            children: [
-             _buildColoringModeButton(ColoringMode.words, ' (1) Words', null),
+             _buildColoringModeButton(ColoringMode.words, ' 1 Words', null),
              const SizedBox(width: 12),
-             _buildColoringModeButton(ColoringMode.letters, '(2) Letters', 'breaks on ligature fonts'),
+             _buildColoringModeButton(ColoringMode.letters, '2 Letters', 'breaks on ligature fonts'),
              const SizedBox(width: 24),
-             _buildColorFilterButton('All', 'all'),
+             _buildColorFilterButton('3 All', 'all'),
              const SizedBox(width: 12),
-             _buildColorFilterButton('Favorites (⇧R)', 'favorites'),
+             _buildColorFilterButton('4 Favorites (⇧R)', 'favorites'),
            ],
          ),
        ),
@@ -1746,16 +1748,21 @@ class SidePanel extends StatelessWidget {
       itemBuilder: (context, index) {
         final fontName = filteredFonts[index];
         final isSelected = fontName == selectedFont;
+        final isCustomFont = CustomFontLoader.customFonts.contains(fontName);
+        final customMetadata = isCustomFont ? CustomFontMetadataManager.getMetadata(fontName) : null;
         
-        String? categoryPath;
-        if (showingFavorites) {
+        String? subtitleText;
+        
+        if (customMetadata != null) {
+          subtitleText = customMetadata.displayLabel;
+        } else if (showingFavorites) {
           final metadata = FontDatabase.getMetadata(fontName);
           if (metadata != null) {
             final parts = <String>[metadata.mainCategory];
             if (metadata.subCategories.isNotEmpty) {
               parts.add(metadata.subCategories.first);
             }
-            categoryPath = parts.join(' → ');
+            subtitleText = parts.join(' → ');
           }
         }
         
@@ -1774,24 +1781,205 @@ class SidePanel extends StatelessWidget {
               fontWeight: isSelected ? FontWeight.bold : FontWeight.normal,
             ),
           ),
-          subtitle: showingFavorites && categoryPath != null
+          subtitle: subtitleText != null
               ? Text(
-                  categoryPath,
+                  subtitleText,
                   style: const TextStyle(color: Colors.white38, fontSize: 11),
                 )
               : null,
-          trailing: showingFavorites
-              ? IconButton(
+          trailing: Row(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              if (isCustomFont)
+                IconButton(
+                  icon: const Icon(Icons.edit, size: 18, color: Colors.white54),
+                  onPressed: () => _showFontMetadataDialog(context, fontName),
+                  tooltip: 'Edit font metadata',
+                ),
+              if (showingFavorites)
+                IconButton(
                   icon: const Icon(Icons.delete, color: Colors.white54, size: 18),
                   onPressed: () => onRemoveFavorite(fontName),
                   tooltip: 'Remove from favorites',
-                )
-              : null,
+                ),
+            ],
+          ),
           onTap: () => onFontSelected(fontName, index),
           tileColor: isSelected ? Colors.deepPurple.withAlpha(51) : null,
         );
       },
     );
+  }
+  
+  Future<void> _showFontMetadataDialog(BuildContext context, String fontName) async {
+    final existing = CustomFontMetadataManager.getMetadata(fontName);
+    String baseType = existing?.baseType ?? 'original';
+    String caseType = existing?.caseType ?? '';
+    
+    void saveAndClose() {
+      Navigator.pop(context, {
+        'baseType': baseType,
+        'caseType': caseType,
+      });
+    }
+    
+    final result = await showDialog<Map<String, String>>(
+      context: context,
+      builder: (context) => StatefulBuilder(
+        builder: (context, setDialogState) => Focus(
+          autofocus: true,
+          onKeyEvent: (node, event) {
+            if (event is KeyDownEvent && event.logicalKey == LogicalKeyboardKey.enter) {
+              saveAndClose();
+              return KeyEventResult.handled;
+            }
+            return KeyEventResult.ignored;
+          },
+          child: AlertDialog(
+            backgroundColor: const Color(0xFF2D2D2D),
+            title: Text(
+              'Font Metadata: $fontName',
+              style: const TextStyle(color: Colors.white, fontSize: 16),
+            ),
+            content: SizedBox(
+              width: 400,
+              child: Column(
+                mainAxisSize: MainAxisSize.min,
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  const Text(
+                    'Base Type:',
+                    style: TextStyle(color: Colors.white70, fontSize: 14),
+                  ),
+                  const SizedBox(height: 8),
+                  Wrap(
+                    spacing: 8,
+                    children: [
+                      ChoiceChip(
+                        label: const Text('original'),
+                        selected: baseType == 'original',
+                        selectedColor: Colors.deepPurple,
+                        onSelected: (selected) {
+                          if (selected) setDialogState(() => baseType = 'original');
+                        },
+                      ),
+                      ChoiceChip(
+                        label: const Text('demo'),
+                        selected: baseType == 'demo',
+                        selectedColor: Colors.deepPurple,
+                        onSelected: (selected) {
+                          if (selected) setDialogState(() => baseType = 'demo');
+                        },
+                      ),
+                      ChoiceChip(
+                        label: const Text('demo123'),
+                        selected: baseType == 'demo123',
+                        selectedColor: Colors.deepPurple,
+                        onSelected: (selected) {
+                          if (selected) setDialogState(() => baseType = 'demo123');
+                        },
+                      ),
+                    ],
+                  ),
+                  const SizedBox(height: 24),
+                  const Text(
+                    'Case Type (optional):',
+                    style: TextStyle(color: Colors.white70, fontSize: 14),
+                  ),
+                  const SizedBox(height: 8),
+                  Wrap(
+                    spacing: 8,
+                    children: [
+                      ChoiceChip(
+                        label: const Text('None'),
+                        selected: caseType == '',
+                        selectedColor: Colors.deepPurple,
+                        onSelected: (selected) {
+                          if (selected) setDialogState(() => caseType = '');
+                        },
+                      ),
+                      ChoiceChip(
+                        label: const Text('UPPERCASE'),
+                        selected: caseType == 'UPPERCASE',
+                        selectedColor: Colors.deepPurple,
+                        onSelected: (selected) {
+                          if (selected) setDialogState(() => caseType = 'UPPERCASE');
+                        },
+                      ),
+                      ChoiceChip(
+                        label: const Text('MustBeUppercase'),
+                        selected: caseType == 'MustBeUppercase',
+                        selectedColor: Colors.deepPurple,
+                        onSelected: (selected) {
+                          if (selected) setDialogState(() => caseType = 'MustBeUppercase');
+                        },
+                      ),
+                    ],
+                  ),
+                  const SizedBox(height: 24),
+                  Container(
+                    padding: const EdgeInsets.all(12),
+                    decoration: BoxDecoration(
+                      color: Colors.black26,
+                      borderRadius: BorderRadius.circular(8),
+                    ),
+                    child: Row(
+                      children: [
+                        const Text(
+                          'Label preview: ',
+                          style: TextStyle(color: Colors.white54, fontSize: 12),
+                        ),
+                        Text(
+                          caseType.isEmpty ? baseType : '$baseType → $caseType',
+                          style: const TextStyle(
+                            color: Colors.lightBlue,
+                            fontSize: 12,
+                            fontWeight: FontWeight.bold,
+                          ),
+                        ),
+                      ],
+                    ),
+                  ),
+                ],
+              ),
+            ),
+            actions: [
+              if (existing != null)
+                TextButton(
+                  onPressed: () {
+                    Navigator.pop(context, {'action': 'delete'});
+                  },
+                  child: const Text('Remove Label', style: TextStyle(color: Colors.red)),
+                ),
+              TextButton(
+                onPressed: () => Navigator.pop(context),
+                child: const Text('Cancel'),
+              ),
+              ElevatedButton(
+                onPressed: saveAndClose,
+                style: ElevatedButton.styleFrom(backgroundColor: Colors.deepPurple),
+                child: const Text('Save'),
+              ),
+            ],
+          ),
+        ),
+      ),
+    );
+    
+    if (result != null) {
+      if (result['action'] == 'delete') {
+        await CustomFontMetadataManager.removeMetadata(fontName);
+      } else {
+        await CustomFontMetadataManager.setMetadata(
+          fontName,
+          result['baseType']!,
+          result['caseType']!,
+        );
+      }
+      if (context.mounted) {
+        (context as Element).markNeedsBuild();
+      }
+    }
   }
 
   Widget _buildCategoryTree(BuildContext context) {
