@@ -209,31 +209,54 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
   
     
     final now = DateTime.now();
-    final nextPrayer = _getNextPrayerName(now);
-    DateTime? nextTime = _prayerTimes!.getTimeForPrayer(nextPrayer);
+    String nextPrayer = '';
+    DateTime? nextTime;
     
-    if (nextPrayer == 'Fajr' && nextTime != null && now.isAfter(nextTime)) {
-      nextTime = nextTime.add(const Duration(days: 1));
+    final prayers = [
+      ('Fajr', _prayerTimes!.fajr),
+      ('Sunrise', _prayerTimes!.sunrise),
+      ('Dhuhr', _prayerTimes!.dhuhr),
+      ('Asr', _prayerTimes!.asr),
+      ('Maghrib', _prayerTimes!.maghrib),
+      ('Isha', _prayerTimes!.isha),
+      ('Midnight', _prayerTimes!.midnight),
+      ('Tahajjud', _prayerTimes!.tahajjud),
+    ];
+    
+    bool foundNext = false;
+    for (final prayer in prayers) {
+      if (now.isBefore(prayer.$2)) {
+        nextPrayer = prayer.$1;
+        nextTime = prayer.$2;
+        foundNext = true;
+        break;
+      }
+    }
+    
+    if (!foundNext) {
+      nextPrayer = 'Fajr';
+      nextTime = _prayerTimes!.fajr.add(const Duration(days: 1));
     }
     
     String timeRemaining = '';
     if (nextTime != null) {
       final diff = nextTime.difference(now);
-      final hours = diff.inHours;
-      final minutes = diff.inMinutes.remainder(60);
       
-      if (hours > 0) {
-        if (minutes > 0) {
-          timeRemaining = '${hours}h ${minutes}m';
-        } else {
-          timeRemaining = '${hours}h';
-        }
+      if (diff.isNegative) {
+        timeRemaining = 'ERROR';
       } else {
-        if (minutes > 0) {
-          timeRemaining = '${minutes}m';
+        final hours = diff.inHours;
+        final minutes = diff.inMinutes.remainder(60);
+        
+        if (hours > 0) {
+          timeRemaining = minutes > 0 ? '${hours}h ${minutes}m' : '${hours}h';
         } else {
-          final seconds = diff.inSeconds.remainder(60);
-          timeRemaining = '${seconds}s';
+          if (minutes > 0) {
+            timeRemaining = '${minutes}m';
+          } else {
+            final seconds = diff.inSeconds.remainder(60);
+            timeRemaining = '${seconds}s';
+          }
         }
       }
     }
