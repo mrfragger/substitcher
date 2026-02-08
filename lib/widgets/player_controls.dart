@@ -738,7 +738,7 @@ class PlayerControls extends StatelessWidget {
         if (isYouTubeStream) ...[
           if (onShowAudioStreams != null)
             IconButton(
-              icon: const Icon(Icons.graphic_eq, color: Colors.white),
+              icon: const Icon(Icons.graphic_eq, color: Colors.white70),
               onPressed: () {
                 onShowAudioStreams!();
               },
@@ -748,7 +748,7 @@ class PlayerControls extends StatelessWidget {
           const SizedBox(width: 8),
           if (onShowSubtitlePreferences != null)
             IconButton(
-              icon: const Icon(Icons.closed_caption_outlined, color: Colors.white),
+              icon: const Icon(Icons.closed_caption_outlined, color: Colors.white70),
               onPressed: onShowSubtitlePreferences,
               iconSize: 24,
               tooltip: 'Subtitle preferences',
@@ -756,7 +756,7 @@ class PlayerControls extends StatelessWidget {
           const SizedBox(width: 8),
           if (onShowDownload != null)
             IconButton(
-              icon: const Icon(Icons.download, color: Colors.white),
+              icon: const Icon(Icons.download, color: Colors.white70),
               onPressed: onShowDownload,
               iconSize: 24,
               tooltip: 'Download audio (⇧D)',
@@ -764,7 +764,7 @@ class PlayerControls extends StatelessWidget {
           const SizedBox(width: 8),
           if (onShowYouTubeDialog != null)
             IconButton(
-              icon: const Icon(Icons.link, color: Colors.white),
+              icon: const Icon(Icons.link, color: Colors.white70),
               onPressed: onShowYouTubeDialog,
               iconSize: 24,
               tooltip: 'Change YouTube URL (⇧Y)',
