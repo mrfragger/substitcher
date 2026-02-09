@@ -791,7 +791,7 @@ class PlayerControls extends StatelessWidget {
             ),
             const PopupMenuItem(
               value: 'toggle_subtitle_dim',
-              child: Text('Dim Text on/off (⇧T)'),
+              child: Text('Text Dim subs on/off (⇧T)'),
             ),
             const PopupMenuItem(
               value: 'copyCurrentSubtitle',

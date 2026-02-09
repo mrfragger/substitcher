@@ -223,11 +223,32 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
       ('Tahajjud', _prayerTimes!.tahajjud),
     ];
     
+    final sortedPrayers = List<(String, DateTime)>.from(prayers);
+    sortedPrayers.sort((a, b) {
+      var timeA = a.$2;
+      var timeB = b.$2;
+      
+      if (timeA.isBefore(_prayerTimes!.fajr)) {
+        timeA = timeA.add(const Duration(days: 1));
+      }
+      if (timeB.isBefore(_prayerTimes!.fajr)) {
+        timeB = timeB.add(const Duration(days: 1));
+      }
+      
+      return timeA.compareTo(timeB);
+    });
+    
     bool foundNext = false;
-    for (final prayer in prayers) {
-      if (now.isBefore(prayer.$2)) {
+    for (final prayer in sortedPrayers) {
+      var prayerTime = prayer.$2;
+      
+      if (prayerTime.isBefore(_prayerTimes!.fajr)) {
+        prayerTime = prayerTime.add(const Duration(days: 1));
+      }
+      
+      if (now.isBefore(prayerTime)) {
         nextPrayer = prayer.$1;
-        nextTime = prayer.$2;
+        nextTime = prayerTime;
         foundNext = true;
         break;
       }
@@ -235,28 +256,24 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
     
     if (!foundNext) {
       nextPrayer = 'Fajr';
+      print('Prayer times: Fajr=${_prayerTimes!.fajr}, Sunrise=${_prayerTimes!.sunrise}, Midnight=${_prayerTimes!.midnight}, Tahajjud=${_prayerTimes!.tahajjud}');
       nextTime = _prayerTimes!.fajr.add(const Duration(days: 1));
     }
     
     String timeRemaining = '';
     if (nextTime != null) {
       final diff = nextTime.difference(now);
+      final hours = diff.inHours;
+      final minutes = diff.inMinutes.remainder(60);
       
-      if (diff.isNegative) {
-        timeRemaining = 'ERROR';
+      if (hours > 0) {
+        timeRemaining = minutes > 0 ? '${hours}h ${minutes}m' : '${hours}h';
       } else {
-        final hours = diff.inHours;
-        final minutes = diff.inMinutes.remainder(60);
-        
-        if (hours > 0) {
-          timeRemaining = minutes > 0 ? '${hours}h ${minutes}m' : '${hours}h';
+        if (minutes > 0) {
+          timeRemaining = '${minutes}m';
         } else {
-          if (minutes > 0) {
-            timeRemaining = '${minutes}m';
-          } else {
-            final seconds = diff.inSeconds.remainder(60);
-            timeRemaining = '${seconds}s';
-          }
+          final seconds = diff.inSeconds.remainder(60);
+          timeRemaining = '${seconds}s';
         }
       }
     }

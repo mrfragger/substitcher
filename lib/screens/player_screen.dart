@@ -7700,6 +7700,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             mainAxisSize: MainAxisSize.min,
             children: [
               const Row(
+                mainAxisAlignment: MainAxisAlignment.center,
                 children: [
                   Icon(Icons.headphones, color: Colors.red, size: 40),
                   SizedBox(width: 16),
@@ -7775,12 +7776,12 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                   const SizedBox(width: 16),
                   OutlinedButton.icon(
                     icon: const Icon(Icons.download, size: 20),
-                    label: const Text('Download Only'),
+                    label: const Text('Download Only (⇧D)'),
                     onPressed: () {
                       Navigator.pop(context, {'action': 'download'});
                     },
                     style: OutlinedButton.styleFrom(
-                      foregroundColor: Colors.deepPurple,
+                      foregroundColor: Colors.purple,
                       side: const BorderSide(color: Colors.deepPurple),
                       padding: const EdgeInsets.symmetric(
                         horizontal: 24,
