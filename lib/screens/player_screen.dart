@@ -282,7 +282,8 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   Set<String> _favoriteColorPalettes = {};
   String _colorFilterMode = 'favorites';
   bool _subtitleTransparencyMode = false;
-
+  bool _subtitleIncreasedShadow = false;
+  bool _defaultSubtitleTransparencyMode = false;
   
   @override
   void initState() {
@@ -485,100 +486,106 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     });
   }
 
-  Future<void> _saveDefaultSettings() async {
-    final prefs = await SharedPreferences.getInstance();
-    await prefs.setString('defaultFont', _defaultFont);
-    await prefs.setString('defaultConversionType', _defaultConversionType);
-    if (_defaultColorPalette != null) {
-      await prefs.setString('defaultColorPalette', _defaultColorPalette!);
-    }
-  }
-  
-  Future<void> _loadDefaultSettings() async {
-    final prefs = await SharedPreferences.getInstance();
-    setState(() {
-      _defaultFont = prefs.getString('defaultFont') ?? 'System Default';
-      _defaultConversionType = prefs.getString('defaultConversionType') ?? 'none';
-      _defaultColorPalette = prefs.getString('defaultColorPalette');
-    });
-  }
-  
-  Future<void> _setCurrentAsDefault() async {
-    if (!_isYouTubeStream && _currentAudiobook == null) {
-      ScaffoldMessenger.of(context).showSnackBar(
-        const SnackBar(content: Text('No audiobook loaded')),
-      );
-      return;
-    }
-    
-    setState(() {
-      _defaultFont = _selectedFont;
-      _defaultConversionType = _conversionType;
-      _defaultColorPalette = _currentColorPalette?.name;
-    });
-    
-    await _saveDefaultSettings();
-    
-    if (mounted) {
-      ScaffoldMessenger.of(context).showSnackBar(
-        SnackBar(
-          content: Text(
-            'Set as default:\n'
-            'Font: $_defaultFont\n'
-            'Conversion: $_defaultConversionType\n'
-            'Color: ${_defaultColorPalette ?? 'None'}'
-          ),
-          duration: const Duration(seconds: 5),
-        ),
-      );
-    }
-  }
-
-  Future<void> _applyDefaultSettings() async {
-    if (!_isYouTubeStream && _currentAudiobook == null) {
-      ScaffoldMessenger.of(context).showSnackBar(
-        const SnackBar(content: Text('No audiobook loaded')),
-      );
-      return;
-    }
-    
-    setState(() {
-      _selectedFont = _defaultFont;
-      final filteredFonts = _getFilteredFonts();
-      _selectedFontIndex = filteredFonts.indexOf(_defaultFont);
-      if (_selectedFontIndex == -1) _selectedFontIndex = 0;
-      
-      _conversionType = _defaultConversionType;
-      
-      if (_defaultColorPalette != null) {
-        final palette = ColorPalette.presets.firstWhere(
-          (p) => p.name == _defaultColorPalette,
-          orElse: () => ColorPalette.presets.first,
-        );
-        _currentColorPalette = palette;
-        _selectedColorIndex = ColorPalette.presets.indexOf(palette);
-      } else {
-        _currentColorPalette = null;
-      }
-    });
-    
-    await _saveFontSettings();
-    await _applyConversion();
-    
-    if (mounted) {
-      ScaffoldMessenger.of(context).showSnackBar(
-        SnackBar(
-          content: Text(
-            'Applied defaults:\n'
-            'Font: $_defaultFont\n'
-            'Conversion: $_defaultConversionType\n'
-            'Color: ${_defaultColorPalette ?? 'None'}'
-          ),
-          duration: const Duration(seconds: 4),
-        ),
-      );
-    }
-  }
+ Future<void> _saveDefaultSettings() async {
+   final prefs = await SharedPreferences.getInstance();
+   await prefs.setString('defaultFont', _defaultFont);
+   await prefs.setString('defaultConversionType', _defaultConversionType);
+   await prefs.setBool('defaultSubtitleTransparencyMode', _defaultSubtitleTransparencyMode);
+   if (_defaultColorPalette != null) {
+     await prefs.setString('defaultColorPalette', _defaultColorPalette!);
+   }
+ }
+ 
+ Future<void> _loadDefaultSettings() async {
+   final prefs = await SharedPreferences.getInstance();
+   setState(() {
+     _defaultFont = prefs.getString('defaultFont') ?? 'System Default';
+     _defaultConversionType = prefs.getString('defaultConversionType') ?? 'none';
+     _defaultSubtitleTransparencyMode = prefs.getBool('defaultSubtitleTransparencyMode') ?? false;
+     _defaultColorPalette = prefs.getString('defaultColorPalette');
+   });
+ }
+ 
+ Future<void> _setCurrentAsDefault() async {
+   if (!_isYouTubeStream && _currentAudiobook == null) {
+     ScaffoldMessenger.of(context).showSnackBar(
+       const SnackBar(content: Text('No audiobook loaded')),
+     );
+     return;
+   }
+   
+   setState(() {
+     _defaultFont = _selectedFont;
+     _defaultConversionType = _conversionType;
+     _defaultColorPalette = _currentColorPalette?.name;
+     _defaultSubtitleTransparencyMode = _subtitleTransparencyMode;
+   });
+   
+   await _saveDefaultSettings();
+   
+   if (mounted) {
+     ScaffoldMessenger.of(context).showSnackBar(
+       SnackBar(
+         content: Text(
+           'Set as default:\n'
+           'Font: $_defaultFont\n'
+           'Conversion: $_defaultConversionType\n'
+           'Color: ${_defaultColorPalette ?? 'None'}\n'
+           'Dim Mode: ${_defaultSubtitleTransparencyMode ? 'On' : 'Off'}'
+         ),
+         duration: const Duration(seconds: 5),
+       ),
+     );
+   }
+ }
+ 
+ Future<void> _applyDefaultSettings() async {
+   if (!_isYouTubeStream && _currentAudiobook == null) {
+     ScaffoldMessenger.of(context).showSnackBar(
+       const SnackBar(content: Text('No audiobook loaded')),
+     );
+     return;
+   }
+   
+   setState(() {
+     _selectedFont = _defaultFont;
+     final filteredFonts = _getFilteredFonts();
+     _selectedFontIndex = filteredFonts.indexOf(_defaultFont);
+     if (_selectedFontIndex == -1) _selectedFontIndex = 0;
+     
+     _conversionType = _defaultConversionType;
+     _subtitleTransparencyMode = _defaultSubtitleTransparencyMode;
+     
+     if (_defaultColorPalette != null) {
+       final palette = ColorPalette.presets.firstWhere(
+         (p) => p.name == _defaultColorPalette,
+         orElse: () => ColorPalette.presets.first,
+       );
+       _currentColorPalette = palette;
+       _selectedColorIndex = ColorPalette.presets.indexOf(palette);
+     } else {
+       _currentColorPalette = null;
+     }
+   });
+   
+   await _saveFontSettings();
+   await _applyConversion();
+   
+   if (mounted) {
+     ScaffoldMessenger.of(context).showSnackBar(
+       SnackBar(
+         content: Text(
+           'Applied defaults:\n'
+           'Font: $_defaultFont\n'
+           'Conversion: $_defaultConversionType\n'
+           'Color: ${_defaultColorPalette ?? 'None'}\n'
+           'Dim Mode: ${_defaultSubtitleTransparencyMode ? 'On' : 'Off'}'
+         ),
+         duration: const Duration(seconds: 4),
+       ),
+     );
+   }
+ }
 
   Future<void> _handleWindowClose() async {
     try {
@@ -3693,7 +3700,10 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           fontFamilyFallback: fontFamilyFallback,
           shadows: [
             Shadow(
-              offset: const Offset(6.0, 6.0),
+              offset: Offset(
+                    _subtitleTransparencyMode ? 6.0 : (_subtitleIncreasedShadow ? 6.0 : 2.0),
+                    _subtitleTransparencyMode ? 6.0 : (_subtitleIncreasedShadow ? 6.0 : 2.0)
+                  ),
               blurRadius: 0,
               color: _subtitleTransparencyMode 
                   ? Colors.black26
@@ -3720,7 +3730,10 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           fontFamilyFallback: fontFamilyFallback,
           shadows: [
             Shadow(
-              offset: Offset(effectivePalette.shadowOffset, effectivePalette.shadowOffset),
+              offset: Offset(
+                _subtitleTransparencyMode ? 6.0 : (_subtitleIncreasedShadow ? (palette?.shadowOffset ?? 6.0) : 2.0),
+                _subtitleTransparencyMode ? 6.0 : (_subtitleIncreasedShadow ? (palette?.shadowOffset ?? 6.0) : 2.0)
+              ),
               blurRadius: 0,
               color: _subtitleTransparencyMode
                   ? fontColor
@@ -3797,7 +3810,10 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           fontFamilyFallback: fontFamilyFallback,
           shadows: [
             Shadow(
-              offset: Offset(effectivePalette.shadowOffset, effectivePalette.shadowOffset),
+              offset: Offset(
+                _subtitleTransparencyMode ? 6.0 : (_subtitleIncreasedShadow ? (palette?.shadowOffset ?? 6.0) : 2.0),
+                _subtitleTransparencyMode ? 6.0 : (_subtitleIncreasedShadow ? (palette?.shadowOffset ?? 6.0) : 2.0)
+              ),
               blurRadius: 0,
               color: _subtitleTransparencyMode 
                   ? color
@@ -3916,7 +3932,10 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                 fontFamilyFallback: fontFamilyFallback,
                 shadows: [
                   Shadow(
-                    offset: Offset(palette.shadowOffset, palette.shadowOffset),
+                    offset: Offset(
+                      _subtitleTransparencyMode ? 6.0 : (_subtitleIncreasedShadow ? palette.shadowOffset : 2.0),
+                      _subtitleTransparencyMode ? 6.0 : (_subtitleIncreasedShadow ? palette.shadowOffset : 2.0)
+                    ),
                     blurRadius: 0,
                     color: _subtitleTransparencyMode ? color : shadowColor,
                   ),
@@ -3947,7 +3966,10 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                 fontFamilyFallback: fontFamilyFallback,
                 shadows: [
                   Shadow(
-                    offset: Offset(palette.shadowOffset, palette.shadowOffset),
+                    offset: Offset(
+                      _subtitleTransparencyMode ? 6.0 : (_subtitleIncreasedShadow ? palette.shadowOffset : 2.0),
+                      _subtitleTransparencyMode ? 6.0 : (_subtitleIncreasedShadow ? palette.shadowOffset : 2.0)
+                    ),
                     blurRadius: 0,
                     color: _subtitleTransparencyMode ? color : shadowColor,
                   ),
@@ -4017,7 +4039,10 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             fontFamilyFallback: fontFamilyFallback,
             shadows: [
               Shadow(
-                offset: Offset(palette.shadowOffset, palette.shadowOffset),
+                offset: Offset(
+                  _subtitleTransparencyMode ? 6.0 : (_subtitleIncreasedShadow ? palette.shadowOffset : 2.0),
+                  _subtitleTransparencyMode ? 6.0 : (_subtitleIncreasedShadow ? palette.shadowOffset : 2.0)
+                ),
                 blurRadius: 0,
                 color: _subtitleTransparencyMode ? color : shadowColor,
               ),
@@ -4058,7 +4083,10 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             fontFamilyFallback: fontFamilyFallback,
             shadows: [
               Shadow(
-                offset: Offset(palette.shadowOffset, palette.shadowOffset),
+                offset: Offset(
+                  _subtitleTransparencyMode ? 6.0 : (_subtitleIncreasedShadow ? palette.shadowOffset : 2.0),
+                  _subtitleTransparencyMode ? 6.0 : (_subtitleIncreasedShadow ? palette.shadowOffset : 2.0)
+                ),
                 blurRadius: 0,
                 color: _subtitleTransparencyMode ? color : shadowColor,
               ),
@@ -5187,12 +5215,22 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             });
             _scrollToCurrentPlaylistItem();
             return KeyEventResult.handled;
-          } else if (event.logicalKey == LogicalKeyboardKey.keyB && event is KeyDownEvent) {
-            setState(() {
-              _showPanel = true;
-              _panelMode = PanelMode.bookmarks;
-            });
-            _scrollToTopOfHistory();
+          } else if (event.logicalKey == LogicalKeyboardKey.keyB) {
+            if (HardwareKeyboard.instance.isShiftPressed) {
+              if (event is KeyDownEvent) {
+                setState(() {
+                  _subtitleIncreasedShadow = !_subtitleIncreasedShadow;
+                });
+              }
+              return KeyEventResult.handled;
+            }
+            if (event is KeyDownEvent) {
+              setState(() {
+                _showPanel = true;
+                _panelMode = PanelMode.bookmarks;
+              });
+              _scrollToTopOfHistory();
+            }
             return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyF && 
                       HardwareKeyboard.instance.isShiftPressed && event is KeyDownEvent) {
@@ -6328,6 +6366,11 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             break;
           case 'load_subtitle':
             _loadSubtitleFromVttDir();
+            break;
+          case 'toggle_shadow_offset':
+            setState(() {
+              _subtitleIncreasedShadow = !_subtitleIncreasedShadow;
+            });
             break;
           case 'toggle_subtitle_dim':
             setState(() {

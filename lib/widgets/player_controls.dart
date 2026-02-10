@@ -790,6 +790,10 @@ class PlayerControls extends StatelessWidget {
               child: Text('Chapter Title Hide/Show (⇧H)'),
             ),
             const PopupMenuItem(
+              value: 'toggle_shadow_offset',
+              child: Text('Big Shadow (⇧B)'),
+            ),
+            const PopupMenuItem(
               value: 'toggle_subtitle_dim',
               child: Text('Text Dim subs on/off (⇧T)'),
             ),
