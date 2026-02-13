@@ -59,7 +59,7 @@ jobs:
       - name: Create ZIP for Homebrew
         run: |
           cd build/macos/Build/Products/Release
-          zip -r -9 ../../../../../SubStitcher-macOS-arm64.zip SubStitcher.app
+          zip -r ../../../../../SubStitcher-macOS-arm64.zip SubStitcher.app
       
       - name: Upload macOS ZIP artifact
         uses: actions/upload-artifact@v4
@@ -418,10 +418,10 @@ jobs:
         id: sha
         run: |
           cd artifacts
-          SHA256=$(shasum -a 256 SubStitcher-macOS-arm64.zip | cut -d' ' -f1)
+          SHA256=$(shasum -a 256 SubStitcher-macOS-arm64.dmg | cut -d' ' -f1)
           echo "sha256=$SHA256" >> $GITHUB_OUTPUT
       
-      - name: Update Homebrew formula
+      - name: Update Homebrew cask
         env:
           HOMEBREW_TAP_TOKEN: ${{ secrets.HOMEBREW_TAP_TOKEN }}
         run: |
@@ -431,36 +431,37 @@ jobs:
           git clone https://x-access-token:${HOMEBREW_TAP_TOKEN}@github.com/mrfragger/homebrew-substitcher.git
           cd homebrew-substitcher
           
-          cat > Formula/substitcher.rb << 'EOF'
-          class Substitcher < Formula
+          # Create Casks directory if it doesn't exist
+          mkdir -p Casks
+          
+          cat > Casks/substitcher.rb << 'EOF'
+          cask "substitcher" do
+            version "VERSION_PLACEHOLDER"
+            sha256 "SHA_PLACEHOLDER"
+            
+            url "https://github.com/mrfragger/substitcher/releases/download/vVERSION_PLACEHOLDER/SubStitcher-macOS-arm64.dmg"
+            name "SubStitcher"
             desc "Audiobook encoder and player with subtitle support"
             homepage "https://github.com/mrfragger/substitcher"
-            version "VERSION_PLACEHOLDER"
-            license "MIT"
             
-            on_macos do
-              on_arm do
-                url "https://github.com/mrfragger/substitcher/releases/download/vVERSION_PLACEHOLDER/SubStitcher-macOS-arm64.zip"
-                sha256 "SHA_ARM64_PLACEHOLDER"
-              end
-            end
+            app "SubStitcher.app"
             
-            def install
-              prefix.install "SubStitcher.app"
-              bin.write_exec_script "#{prefix}/SubStitcher.app/Contents/MacOS/SubStitcher"
-            end
-            
-            test do
-              assert_predicate prefix/"SubStitcher.app", :exist?
-            end
+            zap trash: [
+              "~/Library/Preferences/com.substitcher.app.plist",
+              "~/Library/Application Support/substitcher",
+            ]
           end
           EOF
           
-          sed -i "s/VERSION_PLACEHOLDER/${VERSION}/g" Formula/substitcher.rb
-          sed -i "s/SHA_ARM64_PLACEHOLDER/${SHA256}/g" Formula/substitcher.rb
+          sed -i "s/VERSION_PLACEHOLDER/${VERSION}/g" Casks/substitcher.rb
+          sed -i "s/SHA_PLACEHOLDER/${SHA256}/g" Casks/substitcher.rb
+          
+          # Remove old formula if it exists
+          rm -f Formula/substitcher.rb
           
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add Formula/substitcher.rb
+          git add Casks/substitcher.rb
+          git add Formula/ || true
           git diff --staged --quiet || git commit -m "substitcher ${VERSION}"
           git push
