@@ -59,7 +59,7 @@ jobs:
       - name: Create ZIP for Homebrew
         run: |
           cd build/macos/Build/Products/Release
-          zip -r ../../../../../SubStitcher-macOS-arm64.zip SubStitcher.app
+          zip -r -9 ../../../../../SubStitcher-macOS-arm64.zip SubStitcher.app
       
       - name: Upload macOS ZIP artifact
         uses: actions/upload-artifact@v4
