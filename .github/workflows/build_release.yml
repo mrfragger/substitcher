@@ -426,11 +426,23 @@ jobs:
               end
             end
             def install
-              # DMG is already mounted, find the app
-              app = Dir["*.app"].first || Dir["**/*.app"].first
-              raise "Could not find .app bundle" unless app
-              prefix.install app
-              bin.write_exec_script "#{prefix}/SubStitcher.app/Contents/MacOS/SubStitcher"
+              # For DMG files, Homebrew extracts to the staging directory
+              app_path = "SubStitcher.app"
+              
+              # Check common locations
+              unless File.exist?(app_path)
+                # Search in current directory and subdirectories
+                found = Dir.glob("**/SubStitcher.app").first
+                app_path = found if found
+              end
+              
+              odie "Could not find SubStitcher.app" unless File.exist?(app_path)
+              
+              prefix.install app_path
+              (bin/"substitcher").write <<~EOS
+                #!/bin/bash
+                exec "#{prefix}/SubStitcher.app/Contents/MacOS/SubStitcher" "$@"
+              EOS
             end
             test do
               assert_predicate prefix/"SubStitcher.app", :exist?

@@ -133,6 +133,7 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 - alternates don't work with mixed CJK and Latin text on same subtitle line
 - choose own custom folder for own fonts, refresh for added fonts, must restart app though to clear out removed fonts
 - favorites list
+- glyph viewer (only 1-9, basic latin and ligatures)
 
 ![](images/fonts.jpg)
 
