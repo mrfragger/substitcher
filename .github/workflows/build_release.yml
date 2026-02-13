@@ -426,7 +426,10 @@ jobs:
               end
             end
             def install
-              prefix.install "SubStitcher.app"
+              # DMG is already mounted, find the app
+              app = Dir["*.app"].first || Dir["**/*.app"].first
+              raise "Could not find .app bundle" unless app
+              prefix.install app
               bin.write_exec_script "#{prefix}/SubStitcher.app/Contents/MacOS/SubStitcher"
             end
             test do
