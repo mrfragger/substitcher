@@ -418,7 +418,7 @@ jobs:
         id: sha
         run: |
           cd artifacts
-          SHA256=$(shasum -a 256 SubStitcher-macOS-arm64.dmg | cut -d' ' -f1)
+          SHA256=$(shasum -a 256 SubStitcher-macOS-arm64.zip | cut -d' ' -f1)
           echo "sha256=$SHA256" >> $GITHUB_OUTPUT
       
       - name: Update Homebrew formula
