@@ -227,18 +227,21 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 - choose audio streams
 
 ### Installation
-macOS 11.0+ (arm64 Silicon m1,m2,m3,m4,m5) after installing dmg via [releases](https://github.com/mrfragger/substitcher/releases) or via homebrew in Terminal do
-```bash
-xattr -dr com.apple.quarantine /Applications/SubStitcher.app
-```
+macOS 11.0+ (arm64 Silicon m1,m2,m3,m4,m5)  [releases](https://github.com/mrfragger/substitcher/releases) or via homebrew in Terminal do
+
 Homebrew
 ```bash
-brew install mrfragger/substitcher/substitcher
+brew install --cask mrfragger/substitcher/substitcher
 ```
 ```bash
 brew info --cask substitcher
 brew upgrade --cask substitcher
 brew uninstall --cask substitcher
+```
+
+after installing dmg from releases or via homebrew in Terminal do to remove quarantine flag
+```bash
+xattr -dr com.apple.quarantine /Applications/SubStitcher.app
 ```
 
 If using whisper large v2 model on 8GB RAM Mac swap file might become huge especially with other apps open.  Swap file will never clear and takes up valuable disk space until rebooting. Log out of user account and login again which is even a quicker way to delete swap file.
