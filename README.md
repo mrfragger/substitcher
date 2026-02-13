@@ -235,6 +235,11 @@ Homebrew
 ```bash
 brew install mrfragger/substitcher/substitcher
 ```
+```bash
+brew info --cask substitcher
+brew upgrade --cask substitcher
+brew uninstall --cask substitcher
+```
 
 If using whisper large v2 model on 8GB RAM Mac swap file might become huge especially with other apps open.  Swap file will never clear and takes up valuable disk space until rebooting. Log out of user account and login again which is even a quicker way to delete swap file.
 
