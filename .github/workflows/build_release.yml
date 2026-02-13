@@ -56,6 +56,17 @@ jobs:
           name: macos-build
           path: SubStitcher-macOS-arm64.dmg
 
+      - name: Create ZIP for Homebrew
+        run: |
+          cd build/macos/Build/Products/Release
+          zip -r ../../../../../SubStitcher-macOS-arm64.zip SubStitcher.app
+      
+      - name: Upload macOS ZIP artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: macos-zip
+          path: SubStitcher-macOS-arm64.zip
+
   build-linux-appimage:
     runs-on: ubuntu-latest
     steps:
@@ -308,6 +319,7 @@ jobs:
         with:
           files: |
             macos-build/SubStitcher-macOS-arm64.dmg
+            macos-zip/SubStitcher-macOS-arm64.zip
             linux-appimage-build/substitcher-*.AppImage
             linux-flatpak-build/substitcher-x64.flatpak
             windows-build/SubStitcher-Windows-x64.zip
@@ -395,6 +407,12 @@ jobs:
         with:
           name: macos-build
           path: artifacts
+
+      - name: Download ZIP artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: macos-zip
+          path: artifacts   
       
       - name: Calculate SHA256
         id: sha
@@ -422,7 +440,7 @@ jobs:
             
             on_macos do
               on_arm do
-                url "https://github.com/mrfragger/substitcher/releases/download/vVERSION_PLACEHOLDER/SubStitcher-macOS-arm64.dmg"
+                url "https://github.com/mrfragger/substitcher/releases/download/vVERSION_PLACEHOLDER/SubStitcher-macOS-arm64.zip"
                 sha256 "SHA_ARM64_PLACEHOLDER"
               end
             end
