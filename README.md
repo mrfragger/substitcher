@@ -44,6 +44,7 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 - left/right arrows advanced to prev/next subtitle
 - search foreign language subtitles 
 - Text Dim subtitles
+- Big Shadow (must not be in dim mode)
 
 ![](images/japanese.jpg)
 
@@ -280,7 +281,7 @@ iOS (may publish in future)
 - `-application voip` gives best quality at a given bitrate for voice signals. It enhances the input signal by high-pass filtering and emphasizing formants and harmonics
 
 ### Miscellaneous
-- Never will get a light theme nor support music
+- Never will get a light theme nor support music, nor shadow blur mode as it uses 2x cpu usage
 - Never will support cover images, choose audiobooks with covers and not to use subtitles, use kid3 app (qt free cross-platform app) for embedding a cover image
 - Reason is most audiobook players don't support subtitles, and ones that do, do so due to video support and having a cover image in background intefers with subtitles in most cases
 - It just puts a 16x9 black png image with META_BLOCK_PICTURE some info which is conforms to vorbis comment specification

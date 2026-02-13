@@ -166,6 +166,7 @@ class SidePanel extends StatelessWidget {
   final VoidCallback onRefreshCustomFonts;
   final Set<String> favoriteFonts;
   final Function(String) onRemoveFavorite;
+  final VoidCallback onShowGlyphViewer;
 
   final String colorFilterMode;
   final Function(String) onColorFilterModeChanged;
@@ -312,6 +313,7 @@ class SidePanel extends StatelessWidget {
     required this.onColorFilterModeChanged,
     required this.favoriteColorPalettes,
     required this.onRemoveColorPaletteFavorite,
+    required this.onShowGlyphViewer,
   });
 
   @override
@@ -1697,38 +1699,57 @@ class SidePanel extends StatelessWidget {
   }
 
   Widget _buildFontsList(BuildContext context) {
-    return Row(
-      children: [
-        Expanded(
-          flex: 3,
-          child: Column(
-            children: [
-              if (subsSearchQuery.isEmpty)
-                const Padding(
-                  padding: EdgeInsets.all(16),
-                  child: Text(
-                    'Load subtitles to preview fonts. Use ↑↓ arrow keys.',
-                    style: TextStyle(color: Colors.white54, fontSize: 14),
-                    textAlign: TextAlign.center,
+      return Row(
+        children: [
+          Expanded(
+            flex: 3,
+            child: Column(
+              children: [
+                if (subsSearchQuery.isEmpty)
+                  Padding(
+                    padding: const EdgeInsets.all(16),
+                    child: Row(
+                      mainAxisAlignment: MainAxisAlignment.center,
+                      children: [
+                        Tooltip(
+                          message: 'Press = to open',
+                          child: TextButton.icon(
+                            onPressed: onShowGlyphViewer,
+                            icon: const Icon(Icons.grid_on, size: 16, color: Colors.deepPurple),
+                            label: const Text(
+                              'View Glyphs',
+                              style: TextStyle(color: Colors.deepPurple, fontSize: 14),
+                            ),
+                            style: TextButton.styleFrom(
+                              padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                            ),
+                          ),
+                        ),
+                        const SizedBox(width: 8),
+                        const Text(
+                          'Use ↑↓ arrow keys.',
+                          style: TextStyle(color: Colors.white54, fontSize: 14),
+                        ),
+                      ],
+                    ),
                   ),
+                Expanded(
+                  child: _buildFontListView(context),
                 ),
-              Expanded(
-                child: _buildFontListView(context),
-              ),
-            ],
+              ],
+            ),
           ),
-        ),
-        Container(
-          width: 1,
-          color: Colors.white24,
-        ),
-        Expanded(
-          flex: 2,
-          child: _buildCategoryTree(context),
-        ),
-      ],
-    );
-  }
+          Container(
+            width: 1,
+            color: Colors.white24,
+          ),
+          Expanded(
+            flex: 2,
+            child: _buildCategoryTree(context),
+          ),
+        ],
+      );
+    }
 
   Widget _buildFontListView(BuildContext context) {
     final filteredFonts = getFilteredFonts();

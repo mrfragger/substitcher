@@ -384,10 +384,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       
-      - name: Extract version from tag
+      - name: Extract version from pubspec.yaml
         id: version
         run: |
-          VERSION=${GITHUB_REF#refs/tags/v}
+          VERSION=$(grep '^version:' pubspec.yaml | sed 's/version: //')
           echo "version=$VERSION" >> $GITHUB_OUTPUT
       
       - name: Download DMG artifact

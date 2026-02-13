@@ -3004,6 +3004,181 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     }
   }
 
+  void _showGlyphViewerOverlay() {
+    showDialog(
+      context: context,
+      barrierColor: Colors.black87,
+      builder: (context) => Dialog(
+        backgroundColor: Colors.transparent,
+        insetPadding: const EdgeInsets.all(40),
+        child: _buildGlyphViewer(),
+      ),
+    );
+  }
+  
+  Widget _buildGlyphViewer() {
+    final displayFont = _selectedFont == 'System Default' ? null : _selectedFont;
+    
+    final allGlyphs = <String>[];
+    
+    // Basic Latin (32-126)
+    for (int i = 32; i <= 126; i++) {
+      allGlyphs.add(String.fromCharCode(i));
+    }
+    
+    // Private Use Area (E000-F6FF)
+    for (int i = 0xE000; i <= 0xF6FF; i++) {
+      allGlyphs.add(String.fromCharCode(i));
+    }
+    
+    return Container(
+      decoration: BoxDecoration(
+        color: Colors.black,
+        border: Border.all(color: Colors.deepPurple, width: 2),
+        borderRadius: BorderRadius.circular(8),
+      ),
+      child: FutureBuilder<List<String>>(
+        future: _filterValidGlyphs(allGlyphs, displayFont),
+        builder: (context, snapshot) {
+          if (!snapshot.hasData) {
+            return const Center(
+              child: CircularProgressIndicator(color: Colors.white),
+            );
+          }
+          
+          final glyphs = snapshot.data!;
+          
+          return Column(
+            children: [
+              Container(
+                padding: const EdgeInsets.all(16),
+                decoration: BoxDecoration(
+                  color: Colors.grey[900],
+                  borderRadius: const BorderRadius.only(
+                    topLeft: Radius.circular(8),
+                    topRight: Radius.circular(8),
+                  ),
+                ),
+                child: Row(
+                  children: [
+                    Text(
+                      'Font: $_selectedFont (${glyphs.length} glyphs)',
+                      style: const TextStyle(color: Colors.white, fontSize: 18),
+                    ),
+                    const Spacer(),
+                    IconButton(
+                      icon: const Icon(Icons.close, color: Colors.white),
+                      onPressed: () {
+                        Navigator.of(context).pop();
+                      },
+                      tooltip: 'Close (ESC)',
+                    ),
+                  ],
+                ),
+              ),
+              Expanded(
+                child: GridView.builder(
+                  padding: const EdgeInsets.all(16),
+                  gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
+                    crossAxisCount: 8,
+                    mainAxisSpacing: 16,
+                    crossAxisSpacing: 16,
+                    childAspectRatio: 1,
+                  ),
+                  itemCount: glyphs.length,
+                  itemBuilder: (context, index) {
+                    final char = glyphs[index];
+                    final codePoint = char.codeUnitAt(0);
+                    
+                    return Container(
+                      decoration: BoxDecoration(
+                        border: Border.all(color: Colors.grey[800]!),
+                      ),
+                      child: Column(
+                        mainAxisAlignment: MainAxisAlignment.center,
+                        children: [
+                          Expanded(
+                            child: Center(
+                              child: Text(
+                                char,
+                                style: TextStyle(
+                                  color: Colors.white,
+                                  fontSize: 48,
+                                  fontFamily: displayFont,
+                                ),
+                              ),
+                            ),
+                          ),
+                          Container(
+                            padding: const EdgeInsets.all(4),
+                            color: Colors.grey[900],
+                            child: Text(
+                              'U+${codePoint.toRadixString(16).toUpperCase().padLeft(4, '0')}',
+                              style: const TextStyle(
+                                color: Colors.grey,
+                                fontSize: 10,
+                              ),
+                            ),
+                          ),
+                        ],
+                      ),
+                    );
+                  },
+                ),
+              ),
+            ],
+          );
+        },
+      ),
+    );
+  }
+  
+  Future<List<String>> _filterValidGlyphs(List<String> allGlyphs, String? fontFamily) async {
+    final validGlyphs = <String>[];
+    
+    final textPainter = TextPainter(
+      textDirection: TextDirection.ltr,
+    );
+    
+    for (final char in allGlyphs) {
+      if (char.trim().isEmpty) continue;
+      
+      final codePoint = char.codeUnitAt(0);
+      
+      // Always include Basic Latin (32-126) - A-Z, a-z, 0-9, punctuation
+      if (codePoint >= 32 && codePoint <= 126) {
+        validGlyphs.add(char);
+        continue;
+      }
+      
+      // For PUA range, filter using width comparison
+      textPainter.text = TextSpan(
+        text: char,
+        style: TextStyle(
+          fontSize: 48,
+          fontFamily: fontFamily,
+        ),
+      );
+      textPainter.layout();
+      
+      if (textPainter.width > 0) {
+        final testPainter = TextPainter(textDirection: TextDirection.ltr);
+        testPainter.text = TextSpan(
+          text: '�',
+          style: TextStyle(fontSize: 48, fontFamily: fontFamily),
+        );
+        testPainter.layout();
+        
+        // If widths are significantly different, it's probably a valid glyph
+        if ((textPainter.width - testPainter.width).abs() > 5) {
+          validGlyphs.add(char);
+        }
+      }
+    }
+    
+    return validGlyphs;
+  }
+
   Future<void> _loadFavoriteColorPalettes() async {
     final prefs = await SharedPreferences.getInstance();
     setState(() {
@@ -5390,6 +5565,9 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           } else if (event.logicalKey == LogicalKeyboardKey.keyQ && event is KeyDownEvent) {
             _setCurrentAsDefault();
             return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.equal && event is KeyDownEvent) {
+            _showGlyphViewerOverlay();
+            return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyA && event is KeyDownEvent) {
             _applyDefaultSettings();
             return KeyEventResult.handled;
@@ -5845,6 +6023,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                   onJumpToBookmark: _jumpToBookmark,
                   onSetPinNumber: _setPinNumber,
                   
+                  onShowGlyphViewer: _showGlyphViewerOverlay,
                   getFilteredFonts: _getFilteredFonts,
                   selectedFont: _selectedFont,
                   selectedFontIndex: _selectedFontIndex,
