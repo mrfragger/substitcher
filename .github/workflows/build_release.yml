@@ -419,31 +419,19 @@ jobs:
             homepage "https://github.com/mrfragger/substitcher"
             version "VERSION_PLACEHOLDER"
             license "MIT"
+            
             on_macos do
               on_arm do
                 url "https://github.com/mrfragger/substitcher/releases/download/vVERSION_PLACEHOLDER/SubStitcher-macOS-arm64.dmg"
                 sha256 "SHA_ARM64_PLACEHOLDER"
               end
             end
+            
             def install
-              # For DMG files, Homebrew extracts to the staging directory
-              app_path = "SubStitcher.app"
-              
-              # Check common locations
-              unless File.exist?(app_path)
-                # Search in current directory and subdirectories
-                found = Dir.glob("**/SubStitcher.app").first
-                app_path = found if found
-              end
-              
-              odie "Could not find SubStitcher.app" unless File.exist?(app_path)
-              
-              prefix.install app_path
-              (bin/"substitcher").write <<~EOS
-                #!/bin/bash
-                exec "#{prefix}/SubStitcher.app/Contents/MacOS/SubStitcher" "$@"
-              EOS
+              prefix.install "SubStitcher.app"
+              bin.write_exec_script "#{prefix}/SubStitcher.app/Contents/MacOS/SubStitcher"
             end
+            
             test do
               assert_predicate prefix/"SubStitcher.app", :exist?
             end
