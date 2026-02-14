@@ -131,9 +131,10 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 - each missing and each alternate font, subs must be converted
 - ligature demo fonts, subs need converting only once
 - alternates don't work with mixed CJK and Latin text on same subtitle line
-- choose own custom folder for own fonts, refresh for added fonts, must restart app though to clear out removed fonts
 - favorites list
 - glyph viewer (only 1-9, basic latin and ligatures)
+- choose own custom folder for own fonts, refresh for added fonts, must restart app though to clear out removed fonts
+- custom folder can have subfolders although all fonts will be sorted alphabetically
 
 ![](images/fonts.jpg)
 
@@ -233,7 +234,7 @@ Homebrew
 ```bash
 brew install --cask mrfragger/substitcher/substitcher
 ```
-```bash
+```
 brew info --cask substitcher
 brew upgrade --cask substitcher
 brew uninstall --cask substitcher
@@ -289,7 +290,9 @@ iOS (may publish in future)
 
 - `-application voip` gives best quality at a given bitrate for voice signals. It enhances the input signal by high-pass filtering and emphasizing formants and harmonics
 
-### Miscellaneous
+<details>
+<summary>### Miscellaneous</summary>
+
 - Never will get a light theme nor support music, nor shadow blur mode as it uses 2x cpu usage
 - Never will support cover images, choose audiobooks with covers and not to use subtitles, use kid3 app (qt free cross-platform app) for embedding a cover image
 - Reason is most audiobook players don't support subtitles, and ones that do, do so due to video support and having a cover image in background intefers with subtitles in most cases
@@ -298,3 +301,19 @@ iOS (may publish in future)
 - `parallel ffmpeg -i {} -c:a libopus -b:a 32k {.}.opus ::: *.wma` 
 - `parallel ffmpeg -i {} -c:a libopus -b:a 32k {.}.opus ::: *.flv`
 - Developed since 2022 but in Dec 2025 decided to port from mpv front-end lua scripts with uosc ui and remove video editing, LUTs to a flutter / dart app (not just Mac/Linux anymore) and make it purely an audiobook player
+- Edit fonts, create own fonts https://www.glyphrstudio.com/app (free)
+- view detailed info about fonts https://fontdrop.info (free)
+</details>
+
+<details>
+<summary>### tts (text to speech) from epub, pdf, markdown, etc. that support chapters</summary>
+
+https://github.com/DrewThomasson/ebook2audiobook 18.1k
+https://github.com/rany2/edge-tts 10k
+https://github.com/Blaizzy/mlx-audio 5.9k
+https://github.com/santinic/audiblez 5.8k
+https://github.com/denizsafak/abogen 4.1k
+https://github.com/p0n1/epub_to_audiobook 1.9k
+https://github.com/zeropointnine/tts-audiobook-tool 100
+https://piper.ttstool.com 
+</details>

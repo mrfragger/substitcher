@@ -1712,7 +1712,7 @@ class SidePanel extends StatelessWidget {
                       mainAxisAlignment: MainAxisAlignment.center,
                       children: [
                         Tooltip(
-                          message: 'Press = to open',
+                          message: '( = )',
                           child: TextButton.icon(
                             onPressed: onShowGlyphViewer,
                             icon: const Icon(Icons.grid_on, size: 16, color: Colors.deepPurple),
