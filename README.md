@@ -244,9 +244,9 @@ Homebrew
 ```bash
 brew install --cask mrfragger/substitcher/substitcher
 ```
-```brew info --cask substitcher```
-```brew upgrade --cask substitcher```
-```brew uninstall --cask substitcher```
+```brew info --cask substitcher```\
+```brew upgrade --cask substitcher```\
+```brew uninstall --cask substitcher```\
 
 after installing dmg from releases or via homebrew in Terminal do to remove quarantine flag
 ```bash
@@ -303,6 +303,7 @@ Android (64-bit devices only, arm64-v8a)
 - no subs for opus audiobooks, vlc (set audio to resume)
 </details>
 
+### Various
 <details>
 <summary>Opus audio codec</summary>
 
