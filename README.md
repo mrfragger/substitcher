@@ -24,10 +24,13 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 - Transcribe with 30 second segements to reduce hallucination with whisper.cpp, keeps model in memory for entire chapter
 - Repeats vtt to remove repeated words, capitalize pronouns, Islamic terms and honorifics
 - Auto-detect language
-- Transcribe for the following languages: 
-- Afrikaans, Albanian, Amharic, Arabic, Armenian, Azerbaijani, Basque, Belarusian, Bengali, Bosnian, Bulgarian, Catalan, Cebuano, Chichewa, Chinese, Cantonese (CN), Cantonese (HK), Mandarin (TW), Corsican, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Filipino, Finnish, French, Western Frisian, Galician, Georgian, German, Greek, Gujarati, Haitian Creole, Hausa, Hawaiian, Hebrew, Hindi, Hmong, Hungarian, Icelandic, Igbo, Indonesian, Irish, Italian, Japanese, Javanese, Kannada, Kazakh, Khmer, Kinyarwanda, Korean, Kurdish, Kyrgyz, Lao, Latin, Latvian, Lithuanian, Luxembourgish, Macedonian, Malagasy, Malay, Malayalam, Maltese, Māori, Marathi, Mongolian, Myanmar, Nepali, Norwegian, Odia, Pashto, Persian, Polish, Portuguese, Punjabi, Romanian, Russian, Samoan, Scottish Gaelic, Serbian, Sesotho, Shona, Sindhi, Sinhala, Slovak, Slovenian, Somali, Spanish, Sundanese, Swahili, Swedish, Tajik, Tamil, Tatar, Telugu, Thai, Turkish, Turkmen, Ukrainian, Urdu, Uyghur, Uzbek, Vietnamese, Welsh, Xhosa, Yiddish, Yoruba, Zulu
 - Automatically translate to English only from a foreign language if using whisper 2 models but not turbo 3
 - Custom Prompt should use language of audio being transcribed.  Use a few punctuation.  Remebers last 4 used prompts plus default.
+<details>
+<summary>- Transcribe for the following languages: </summary>
+
+- Afrikaans, Albanian, Amharic, Arabic, Armenian, Azerbaijani, Basque, Belarusian, Bengali, Bosnian, Bulgarian, Catalan, Cebuano, Chichewa, Chinese, Cantonese (CN), Cantonese (HK), Mandarin (TW), Corsican, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Filipino, Finnish, French, Western Frisian, Galician, Georgian, German, Greek, Gujarati, Haitian Creole, Hausa, Hawaiian, Hebrew, Hindi, Hmong, Hungarian, Icelandic, Igbo, Indonesian, Irish, Italian, Japanese, Javanese, Kannada, Kazakh, Khmer, Kinyarwanda, Korean, Kurdish, Kyrgyz, Lao, Latin, Latvian, Lithuanian, Luxembourgish, Macedonian, Malagasy, Malay, Malayalam, Maltese, Māori, Marathi, Mongolian, Myanmar, Nepali, Norwegian, Odia, Pashto, Persian, Polish, Portuguese, Punjabi, Romanian, Russian, Samoan, Scottish Gaelic, Serbian, Sesotho, Shona, Sindhi, Sinhala, Slovak, Slovenian, Somali, Spanish, Sundanese, Swahili, Swedish, Tajik, Tamil, Tatar, Telugu, Thai, Turkish, Turkmen, Ukrainian, Urdu, Uyghur, Uzbek, Vietnamese, Welsh, Xhosa, Yiddish, Yoruba, Zulu
+</details>
 
 ![](images/transcribe2.jpg)
 
@@ -224,11 +227,18 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 - download video or audio and playlists with option to resume includes soundcloud and spreaker
 - displays subs automatically if avaiable based on default language
 - choose up to 10 languages to prompt when default language isn't found, this enables a shortlist rather than scrolling through 79 languages each time
+<details>
+<summary>list of languages</summary>
+
 -  English, Afrikaans, Albanian (Shqip), Amharic (አማርኛ), Arabic (العربية), Armenian (Հայերեն), Azerbaijani (Azərbaycan), Belarusian (Беларуская), Bengali (বাংলা), Bhojpuri (भोजपुरी), Bosnian (Bosanski), Bulgarian (Български), Burmese (မြန်မာ), Catalan (Català), Chinese - Simplified (简体), Chinese - Traditional (繁體), Chinese - Cantonese (粵語), Croatian (Hrvatski), Czech (Čeština), Danish (Dansk), Dutch (Nederlands), Estonian (Eesti), Filipino (Tagalog), Finnish (Suomi), French (Français), Georgian (ქართული), German (Deutsch), Greek (Ελληνικά), Gujarati (ગુજરાતી), Hausa (هَرْشٜىٰن هَوْسَا), Hebrew (עברית), Hebrew (עברית), Hindi (हिन्दी), Hungarian (Magyar), Icelandic (Íslenska), Indonesian (Bahasa Indonesia), Italian (Italiano), Japanese (日本語), Javanese (Basa Jawa), Kannada (ಕನ್ನಡ), Kazakh (Қазақ тілі), Korean (한국어), Kyrgyz (Кыргызча), Lao (ລາວ), Latvian (Latviešu), Lithuanian (Lietuvių), Macedonian (Македонски), Malay (Bahasa Melayu), Malayalam (മലയാളം), Maltese (Malti), Marathi (मराठी), Mongolian (Монгол), Nepali (नेपाली), Norwegian (Norsk bokmål), Persian (فارسی), Polish (Polski), Portuguese (Português), Portuguese - Brazil (Português Brasil), Portuguese - Portugal (Português Portugal), Punjabi (ਪੰਜਾਬੀ), Romanian (Română), Russian (Русский), Serbian (Српски), Slovak (Slovenčina), Slovenian (Slovenščina), Spanish (Español), Swahili (Kiswahili), Swedish (Svenska), Tajik (Тоҷикӣ), Tamil (தமிழ்), Telugu (తెలుగు), Thai (ไทย), Turkish (Türkçe), Turkmen (Türkmençe), Ukrainian (Українська), Urdu (اردو), Uyghur (ئۇيغۇرچە), Uzbek (Oʻzbekcha), Vietnamese (Tiếng Việt)
+</details>
 - choose audio streams
 
 ### Installation
-macOS 11.0+ (arm64 Silicon m1,m2,m3,m4,m5)  [releases](https://github.com/mrfragger/substitcher/releases) or via homebrew in Terminal do
+<details>
+<summary>macOS 11.0+ (arm64 Silicon m1,m2,m3,m4,m5)</summary>
+
+[releases](https://github.com/mrfragger/substitcher/releases) or via homebrew in Terminal do
 
 Homebrew
 ```bash
@@ -244,12 +254,17 @@ after installing dmg from releases or via homebrew in Terminal do to remove quar
 ```bash
 xattr -dr com.apple.quarantine /Applications/SubStitcher.app
 ```
+</details>
 
-If using whisper large v2 model on 8GB RAM Mac swap file might become huge especially with other apps open.  Swap file will never clear and takes up valuable disk space until rebooting. Log out of user account and login again which is even a quicker way to delete swap file.
+<details>
+<summary>Windows x64</summary>
 
-Windows x64\
 just unzip SubStitcher-windows-x64.zip [releases](https://github.com/mrfragger/substitcher/releases)\
 if nothing appears, may need to install [Visual C++ 2015-2022 Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+</details>
+
+<details>
+<summary>Linux Appimage, AUR, Flatpak</summary>
 
 Linux Appimage\
 appimage right click on file and choose Properties, then Permissions\
@@ -259,6 +274,7 @@ or do below
 chmod +x  substitcher-x64.AppImage
 ```
 Transcribing with whisper.cpp won't work on CPUs without AVX which is usually ones before 2014
+</details>
 
 Linux Arch [AUR package](https://aur.archlinux.org/packages/substitcher-bin) yay or paru
 ```bash
@@ -272,23 +288,34 @@ Flatpak
 ```bash
 flatpak install substitcher-x64.flatpak
 ```
+</details>
+
+<details>
+<summary>Android</summary>
 
 Android (64-bit devices only, arm64-v8a)
 - Requires Android 7.0+ (API 24+)
 - ARM64 devices (99% of modern Android phones, 2015+)
 - Tap Settings when prompted and enable installation from your browser
+</details>
 
-iOS (may publish in future)
+<details>
+<summary>iOS (may publish in future)</summary>
+
 - with subs (just one color, one font) nPlayer $5
 - no subs for opus audiobooks, vlc (set audio to resume)
+</details>
 
-### Opus audio codec
+<details>
+<summary>### Opus audio codec</summary>
+
 - outperforms MP3 and AAC at very low bitrates (~16 kb/s)
 -  **Hybrid Architecture** SILK (linear predictive coding) for speech-like signals.
 
 - **Low Algorithmic Delay and Frame Flexibility** Supports frame sizes from 2.5 ms up to 60 ms, allowing very low latency if needed. Fine control of bitrate and delay trade-offs further improves coding of speech/music at low rates
 
 - `-application voip` gives best quality at a given bitrate for voice signals. It enhances the input signal by high-pass filtering and emphasizing formants and harmonics
+</details>
 
 <details>
 <summary>### Miscellaneous</summary>
@@ -309,11 +336,18 @@ iOS (may publish in future)
 <summary>### tts (text to speech) from epub, pdf, markdown, etc. that support chapters</summary>
 
 https://github.com/DrewThomasson/ebook2audiobook 18.1k
+
 https://github.com/rany2/edge-tts 10k
+
 https://github.com/Blaizzy/mlx-audio 5.9k
+
 https://github.com/santinic/audiblez 5.8k
+
 https://github.com/denizsafak/abogen 4.1k
+
 https://github.com/p0n1/epub_to_audiobook 1.9k
+
 https://github.com/zeropointnine/tts-audiobook-tool 100
+
 https://piper.ttstool.com 
 </details>
