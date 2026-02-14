@@ -27,7 +27,7 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 - Automatically translate to English only from a foreign language if using whisper 2 models but not turbo 3
 - Custom Prompt should use language of audio being transcribed.  Use a few punctuation.  Remebers last 4 used prompts plus default.
 <details>
-<summary>- Transcribe for the following languages: </summary>
+<summary>Transcribe for the following languages: </summary>
 
 - Afrikaans, Albanian, Amharic, Arabic, Armenian, Azerbaijani, Basque, Belarusian, Bengali, Bosnian, Bulgarian, Catalan, Cebuano, Chichewa, Chinese, Cantonese (CN), Cantonese (HK), Mandarin (TW), Corsican, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Filipino, Finnish, French, Western Frisian, Galician, Georgian, German, Greek, Gujarati, Haitian Creole, Hausa, Hawaiian, Hebrew, Hindi, Hmong, Hungarian, Icelandic, Igbo, Indonesian, Irish, Italian, Japanese, Javanese, Kannada, Kazakh, Khmer, Kinyarwanda, Korean, Kurdish, Kyrgyz, Lao, Latin, Latvian, Lithuanian, Luxembourgish, Macedonian, Malagasy, Malay, Malayalam, Maltese, Māori, Marathi, Mongolian, Myanmar, Nepali, Norwegian, Odia, Pashto, Persian, Polish, Portuguese, Punjabi, Romanian, Russian, Samoan, Scottish Gaelic, Serbian, Sesotho, Shona, Sindhi, Sinhala, Slovak, Slovenian, Somali, Spanish, Sundanese, Swahili, Swedish, Tajik, Tamil, Tatar, Telugu, Thai, Turkish, Turkmen, Ukrainian, Urdu, Uyghur, Uzbek, Vietnamese, Welsh, Xhosa, Yiddish, Yoruba, Zulu
 </details>
@@ -274,7 +274,6 @@ or do below
 chmod +x  substitcher-x64.AppImage
 ```
 Transcribing with whisper.cpp won't work on CPUs without AVX which is usually ones before 2014
-</details>
 
 Linux Arch [AUR package](https://aur.archlinux.org/packages/substitcher-bin) yay or paru
 ```bash
@@ -318,7 +317,7 @@ Android (64-bit devices only, arm64-v8a)
 </details>
 
 <details>
-<summary>### Miscellaneous</summary>
+<summary>Miscellaneous</summary>
 
 - Never will get a light theme nor support music, nor shadow blur mode as it uses 2x cpu usage
 - Never will support cover images, choose audiobooks with covers and not to use subtitles, use kid3 app (qt free cross-platform app) for embedding a cover image
@@ -333,7 +332,7 @@ Android (64-bit devices only, arm64-v8a)
 </details>
 
 <details>
-<summary>### tts (text to speech) from epub, pdf, markdown, etc. that support chapters</summary>
+<summary>tts (text to speech) from epub, pdf, markdown, etc. that support chapters</summary>
 
 https://github.com/DrewThomasson/ebook2audiobook 18.1k
 
