@@ -236,7 +236,7 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 
 ### Installation
 <details>
-<summary>macOS 11.0+ (arm64 Silicon m1,m2,m3,m4,m5)</summary>
+<summary>macOS 11.0+ (arm64 Silicon m1,m2,m3,m4,m5) dmg or homebrew</summary>
 
 [releases](https://github.com/mrfragger/substitcher/releases) or via homebrew in Terminal do
 
@@ -244,11 +244,9 @@ Homebrew
 ```bash
 brew install --cask mrfragger/substitcher/substitcher
 ```
-```
-brew info --cask substitcher
-brew upgrade --cask substitcher
-brew uninstall --cask substitcher
-```
+```brew info --cask substitcher```
+```brew upgrade --cask substitcher```
+```brew uninstall --cask substitcher```
 
 after installing dmg from releases or via homebrew in Terminal do to remove quarantine flag
 ```bash
