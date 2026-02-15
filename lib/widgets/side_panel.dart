@@ -7,6 +7,7 @@ import '../models/frequency_item.dart';
 import '../models/history_item.dart';
 import '../models/bookmark.dart';
 import '../models/font_category.dart';
+import '../models/lut_item.dart';
 import '../services/font_database.dart';
 import '../services/font_loader.dart';
 import '../services/custom_font_metadata.dart';
@@ -172,6 +173,20 @@ class SidePanel extends StatelessWidget {
   final Function(String) onColorFilterModeChanged;
   final Set<String> favoriteColorPalettes;
   final Function(String) onRemoveColorPaletteFavorite;
+  final Function(String) onAddColorPaletteFavorite;
+
+  final bool showingLuts;
+  final String lutFilterMode;
+  final Function(bool) onToggleLutMode;
+  final Function(String) onLutFilterChanged;
+  final List<LutItem> Function() getFilteredLuts;
+  final Function(LutItem, int) onLutSelected;
+  final int selectedLutIndex;
+  final Set<String> favoriteLuts;
+  final Function(String) onAddLutFavorite;
+  final Function(String) onRemoveLutFavorite;
+  final List<LutItem> availableLuts;
+  
   
   const SidePanel({
     super.key,
@@ -312,8 +327,20 @@ class SidePanel extends StatelessWidget {
     required this.colorFilterMode,
     required this.onColorFilterModeChanged,
     required this.favoriteColorPalettes,
+    required this.onAddColorPaletteFavorite,
     required this.onRemoveColorPaletteFavorite,
     required this.onShowGlyphViewer,
+    required this.showingLuts,
+     required this.lutFilterMode,
+     required this.onToggleLutMode,
+     required this.onLutFilterChanged,
+     required this.getFilteredLuts,
+     required this.onLutSelected,
+     required this.selectedLutIndex,
+     required this.favoriteLuts,
+     required this.onAddLutFavorite,
+     required this.onRemoveLutFavorite,
+     required this.availableLuts,
   });
 
   @override
@@ -352,6 +379,23 @@ class SidePanel extends StatelessWidget {
             ],
           ),
         ),
+      ),
+    );
+  }
+
+  Widget _buildRemoveLutButton() {
+    return ElevatedButton(
+      onPressed: () {
+        onLutSelected(LutItem(name: '', path: ''), -1);
+      },
+      style: ElevatedButton.styleFrom(
+        backgroundColor: const Color(0xFFFFB3BA),
+        foregroundColor: Colors.black87,
+        padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 12),
+      ),
+      child: const Text(
+        '7 Remove LUT',
+        style: TextStyle(fontSize: 14, fontWeight: FontWeight.bold),
       ),
     );
   }
@@ -1269,16 +1313,31 @@ class SidePanel extends StatelessWidget {
      children: [
        Padding(
          padding: const EdgeInsets.all(16.0),
-         child: Row(
-           mainAxisAlignment: MainAxisAlignment.center,
+         child: Column(
            children: [
-             _buildColoringModeButton(ColoringMode.words, ' 1 Words', null),
-             const SizedBox(width: 12),
-             _buildColoringModeButton(ColoringMode.letters, '2 Letters', 'breaks on ligature fonts'),
-             const SizedBox(width: 24),
-             _buildColorFilterButton('3 All', 'all'),
-             const SizedBox(width: 12),
-             _buildColorFilterButton('4 Favorites (⇧R)', 'favorites'),
+             Row(
+               mainAxisAlignment: MainAxisAlignment.center,
+               children: [
+                 _buildColoringModeButton(ColoringMode.words, ' 1 Words', null),
+                 const SizedBox(width: 12),
+                 _buildColoringModeButton(ColoringMode.letters, '2 Letters', 'breaks on ligature fonts'),
+                 const SizedBox(width: 24),
+                 _buildColorFilterButton('3 All', 'all'),
+                 const SizedBox(width: 12),
+                 _buildColorFilterButton('4 Favorites (⇧R)', 'favorites'),
+               ],
+             ),
+             const SizedBox(height: 12),
+             Row(
+               mainAxisAlignment: MainAxisAlignment.center,
+               children: [
+                 _buildLutFilterButton('5 All LUTs', 'all'),
+                 const SizedBox(width: 12),
+                 _buildLutFilterButton('6 Favorite LUTs', 'favorites'),
+                 const SizedBox(width: 12),
+                 _buildRemoveLutButton(),
+               ],
+             ),
            ],
          ),
        ),
@@ -1295,7 +1354,7 @@ class SidePanel extends StatelessWidget {
          )
        else
          Expanded(
-           child: ListView.builder(
+           child: showingLuts ? _buildLutsList(context) : ListView.builder(
              controller: colorScrollController,
              padding: const EdgeInsets.all(16),
              itemCount: filteredColors.length,
@@ -1377,40 +1436,25 @@ class SidePanel extends StatelessWidget {
  }
  
  Widget _buildColoringModeButton(ColoringMode mode, String label, String? tooltip) {
-   final isActive = coloringMode == mode;
-   
-   final button = ElevatedButton(
-     onPressed: () => onColoringModeChanged(mode),
+   final isActive = coloringMode == mode && !showingLuts;
+   return ElevatedButton(
+     onPressed: () {
+       onToggleLutMode(false);
+       onColoringModeChanged(mode);
+     },
      style: ElevatedButton.styleFrom(
-       backgroundColor: isActive ? const Color(0xFF667eea) : const Color(0xFF4D2C86),
-       foregroundColor: isActive ? Colors.white : const Color(0xFF667EEA),
-       side: const BorderSide(
-         color: Color(0xFF667eea),
-         width: 2,
-       ),
-       padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 12),
-       shape: RoundedRectangleBorder(
-         borderRadius: BorderRadius.circular(8),
-       ),
-       elevation: isActive ? 2 : 0,
+       backgroundColor: isActive ? Colors.deepPurple : Colors.grey[800],
+       foregroundColor: Colors.white,
+       padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 12),
      ),
      child: Text(
        label,
-       style: const TextStyle(
-         fontSize: 16,
-         fontWeight: FontWeight.w600,
+       style: TextStyle(
+         fontSize: 14,
+         fontWeight: isActive ? FontWeight.bold : FontWeight.normal,
        ),
      ),
    );
-   
-   if (tooltip != null) {
-     return Tooltip(
-       message: tooltip,
-       child: button,
-     );
-   }
-   
-   return button;
  }
 
   Widget _buildWordsList(BuildContext context) {
@@ -2180,28 +2224,22 @@ class SidePanel extends StatelessWidget {
   }
 
   Widget _buildColorFilterButton(String label, String mode) {
-    final isActive = colorFilterMode == mode;
-    
+    final isActive = colorFilterMode == mode && !showingLuts;
     return ElevatedButton(
-      onPressed: () => onColorFilterModeChanged(mode),
+      onPressed: () {
+        onToggleLutMode(false);
+        onColorFilterModeChanged(mode);
+      },
       style: ElevatedButton.styleFrom(
-        backgroundColor: isActive ? Colors.deepPurple : const Color(0xFF4D2C86),
-        foregroundColor: isActive ? Colors.white : const Color(0xFF667EEA),
-        side: const BorderSide(
-          color: Color(0xFF667eea),
-          width: 2,
-        ),
-        padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 10),
-        shape: RoundedRectangleBorder(
-          borderRadius: BorderRadius.circular(8),
-        ),
-        elevation: isActive ? 2 : 0,
+        backgroundColor: isActive ? Colors.deepPurple : Colors.grey[800],
+        foregroundColor: Colors.white,
+        padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 12),
       ),
       child: Text(
         label,
-        style: const TextStyle(
+        style: TextStyle(
           fontSize: 14,
-          fontWeight: FontWeight.w600,
+          fontWeight: isActive ? FontWeight.bold : FontWeight.normal,
         ),
       ),
     );
@@ -2251,6 +2289,99 @@ class SidePanel extends StatelessWidget {
           ),
         ),
       ),
+    );
+  }
+
+  Widget _buildLutToggleButton() {
+    return ElevatedButton(
+      onPressed: () => onToggleLutMode(!showingLuts),
+      style: ElevatedButton.styleFrom(
+        backgroundColor: showingLuts ? Colors.orange : const Color(0xFF3D3D3D),
+        foregroundColor: Colors.white,
+        padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 12),
+      ),
+      child: Text(
+        showingLuts ? '5 LUTs ✓' : '5 LUTs',
+        style: const TextStyle(fontSize: 14, fontWeight: FontWeight.bold),
+      ),
+    );
+  }
+  
+  Widget _buildLutFilterButton(String label, String mode) {
+    final isActive = lutFilterMode == mode && showingLuts;
+    return ElevatedButton(
+      onPressed: () {
+        onToggleLutMode(true);
+        onLutFilterChanged(mode);
+      },
+      style: ElevatedButton.styleFrom(
+        backgroundColor: isActive ? Colors.blue : Colors.grey[800],
+        foregroundColor: Colors.white,
+        padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 12),
+      ),
+      child: Text(
+        label,
+        style: TextStyle(
+          fontSize: 14,
+          fontWeight: isActive ? FontWeight.bold : FontWeight.normal,
+        ),
+      ),
+    );
+  }
+  
+  Widget _buildLutsList(BuildContext context) {
+    final filteredLuts = getFilteredLuts();
+    
+    return ListView.builder(
+      controller: colorScrollController,
+      padding: const EdgeInsets.all(16),
+      itemCount: filteredLuts.length,
+      itemBuilder: (context, index) {
+        final lut = filteredLuts[index];
+        final actualIndex = availableLuts.indexWhere((l) => l.path == lut.path);
+        final isSelected = selectedLutIndex == actualIndex;
+        final isFavorite = favoriteLuts.contains(lut.displayName);
+        final showingFavorites = lutFilterMode == 'favorites';
+        
+        return InkWell(
+          onTap: () => onLutSelected(lut, actualIndex),
+          child: Container(
+            margin: const EdgeInsets.only(bottom: 12),
+            padding: const EdgeInsets.all(12),
+            decoration: BoxDecoration(
+              color: isSelected ? Colors.deepPurple.withAlpha(51) : Colors.black26,
+              borderRadius: BorderRadius.circular(8),
+              border: isSelected 
+                  ? Border.all(color: Colors.deepPurple, width: 2)
+                  : null,
+            ),
+            child: Row(
+              children: [
+                Expanded(
+                  child: Text(
+                    lut.displayName,
+                    style: TextStyle(
+                      color: isSelected ? Colors.purple[200] : Colors.white,
+                      fontSize: 14,
+                      fontWeight: isSelected ? FontWeight.bold : FontWeight.normal,
+                    ),
+                  ),
+                ),
+                if (showingFavorites) ...[
+                  const SizedBox(width: 12),
+                  IconButton(
+                    icon: const Icon(Icons.delete, color: Colors.white54, size: 18),
+                    onPressed: () => onRemoveLutFavorite(lut.displayName),
+                    tooltip: 'Remove from favorites',
+                    padding: EdgeInsets.zero,
+                    constraints: const BoxConstraints(),
+                  ),
+                ],
+              ],
+            ),
+          ),
+        );
+      },
     );
   }
   

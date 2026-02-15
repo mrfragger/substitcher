@@ -12,6 +12,7 @@ class PlayerControls extends StatelessWidget {
   final Duration totalDuration;
   final bool isPlaying;
   final double playbackSpeed;
+  final String? selectedLutName;
   final int fileSize;
   final int averageBitrate;
   final bool shuffleEnabled;
@@ -80,6 +81,7 @@ class PlayerControls extends StatelessWidget {
     required this.totalDuration,
     required this.isPlaying,
     required this.playbackSpeed,
+    required this.selectedLutName,
     required this.fileSize,
     required this.averageBitrate,
     required this.shuffleEnabled,
@@ -451,6 +453,12 @@ class PlayerControls extends StatelessWidget {
                                 TextSpan(text: '$currentAudioFormat • '),
                               if (pauseMode != PauseMode.disabled && pauseMode != PauseMode.dictionary)
                                 TextSpan(text: '${_getPauseModeText(pauseMode)} • '),
+                              if (selectedLutName != null) ...[
+                                TextSpan(
+                                  text: '$selectedLutName ',
+                                  style: const TextStyle(color: Colors.white),
+                                ),
+                              ],
                               TextSpan(
                                 text: '${playbackSpeed.toStringAsFixed(1)}x',
                                 style: const TextStyle(color: Colors.orange),

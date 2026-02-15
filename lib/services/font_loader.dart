@@ -1,4 +1,5 @@
 import 'dart:io';
+import 'dart:convert';
 import 'package:flutter/services.dart';
 import 'package:path/path.dart' as path;
 
@@ -11,13 +12,11 @@ class CustomFontLoader {
 
   static Future<void> loadFonts() async {
     try {
-      
       if (Platform.isAndroid) {
         await _loadFontsFromAssets();
       } else {
         await _loadFontsFromFileSystem();
       }
-      
     } catch (e, stackTrace) {
       print('Error in loadFonts: $e');
       print('Stack trace: $stackTrace');
@@ -68,19 +67,20 @@ class CustomFontLoader {
 
   static Future<void> _loadFontsFromAssets() async {
     try {
-      final manifestContent = await rootBundle.loadString('AssetManifest.json');
+      final String manifestJson = await rootBundle.loadString('AssetManifest.bin.json');
+      final Map<String, dynamic> manifest = json.decode(manifestJson);
       
       final fontPaths = <String>[];
-      final regex = RegExp(r'"([^"]*\.(?:ttf|otf|ttc))"');
-      final matches = regex.allMatches(manifestContent);
       
-      for (final match in matches) {
-        final fontPath = match.group(1);
-        if (fontPath != null && !fontPath.startsWith('packages/')) {
-          fontPaths.add(fontPath);
+      for (final key in manifest.keys) {
+        if (key.startsWith('assets/fonts/') && 
+            (key.endsWith('.ttf') || key.endsWith('.otf') || key.endsWith('.ttc'))) {
+          fontPaths.add(key);
         }
       }
-            
+      
+      print('Found ${fontPaths.length} font files in assets');
+      
       int loaded = 0;
       for (final fontPath in fontPaths) {
         try {
@@ -98,12 +98,15 @@ class CustomFontLoader {
           _loadedFonts[fontName] = fontPath;
           loaded++;
           
-          if (loaded % 500 == 0) {
+          if (loaded % 100 == 0) {
+            print('Loaded $loaded fonts...');
           }
         } catch (e) {
           print('Error loading font $fontPath: $e');
         }
       }
+      
+      print('Successfully loaded $loaded fonts from assets');
     } catch (e) {
       print('Error loading fonts from assets: $e');
     }
@@ -165,16 +168,39 @@ class CustomFontLoader {
     if (Platform.isMacOS) {
       final executablePath = Platform.resolvedExecutable;
       final appDir = Directory(path.dirname(executablePath));
-      final resourcesDir = Directory(path.join(appDir.parent.path, 'Resources', 'fonts'));
       
-      if (await resourcesDir.exists()) {
-        return resourcesDir.path;
+      final flutterAssetsDir = Directory(path.join(
+        appDir.parent.path,
+        'Frameworks',
+        'App.framework',
+        'Versions',
+        'A',
+        'Resources',
+        'flutter_assets',
+        'assets',
+        'fonts'
+      ));
+      
+      print('DEBUG: Looking for fonts at: ${flutterAssetsDir.path}');
+      print('DEBUG: Directory exists: ${await flutterAssetsDir.exists()}');
+      
+      if (await flutterAssetsDir.exists()) {
+        final files = await flutterAssetsDir.list().toList();
+        print('DEBUG: Found ${files.length} files in fonts directory');
+        return flutterAssetsDir.path;
+      } else {
+        print('DEBUG: Fonts directory NOT found!');
       }
     } else if (Platform.isLinux) {
       final executablePath = Platform.resolvedExecutable;
       final appDir = path.dirname(executablePath);
       
-      var fontsDir = Directory(path.join(appDir, 'data', 'flutter_assets', 'fonts'));
+      var fontsDir = Directory(path.join(appDir, 'data', 'flutter_assets', 'assets', 'fonts'));
+      if (await fontsDir.exists()) {
+        return fontsDir.path;
+      }
+      
+      fontsDir = Directory(path.join(appDir, 'data', 'flutter_assets', 'fonts'));
       if (await fontsDir.exists()) {
         return fontsDir.path;
       }
@@ -192,7 +218,7 @@ class CustomFontLoader {
       final executablePath = Platform.resolvedExecutable;
       final appDir = path.dirname(executablePath);
       
-      final fontsDir = Directory(path.join(appDir, 'data', 'flutter_assets', 'fonts'));
+      final fontsDir = Directory(path.join(appDir, 'data', 'flutter_assets', 'assets', 'fonts'));
       
       print('Windows fonts path: ${fontsDir.path}');
       print('Fonts directory exists: ${await fontsDir.exists()}');

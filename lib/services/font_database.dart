@@ -46,6 +46,7 @@ class FontDatabase {
     'Classica Crastao': FontMetadata(fontName: 'Classica Crastao', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.erifqizefont123),
     'Erf Neot': FontMetadata(fontName: 'Erf Neot', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.erifqizefont123),
     'Gridbox': FontMetadata(fontName: 'Gridbox', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.erifqizefont123),
+    'Goortir': FontMetadata(fontName: 'Goortir', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.erifqizefont123),
     'Harderdor Black': FontMetadata(fontName: 'Harderdor Black', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.erifqizefont123),
     'Luminescent Elegance': FontMetadata(fontName: 'Luminescent Elegance', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.erifqizefont123),
     'Trifullnt': FontMetadata(fontName: 'Trifullnt', mainCategory: FontCategory.demo123, subCategories: [], studio: FontCategory.erifqizefont123),
