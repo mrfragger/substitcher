@@ -7,7 +7,6 @@ import 'package:path/path.dart' as path;
 import 'package:flutter/services.dart';
 import 'package:flutter/foundation.dart' show compute;
 import 'package:wakelock_plus/wakelock_plus.dart';
-import 'package:image/image.dart' as img;
 import 'dart:async';
 import 'dart:io';
 import 'dart:convert';
@@ -2928,13 +2927,13 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     setState(() {
       if (savedFont != null) {
         _selectedFont = savedFont;
-        final filteredFonts = _getFilteredFonts();
-        _selectedFontIndex = filteredFonts.indexOf(savedFont);
+        final allFonts = CustomFontLoader.getAvailableFonts();
+        _selectedFontIndex = allFonts.indexOf(savedFont);
         if (_selectedFontIndex == -1) _selectedFontIndex = 0;
       } else {
         _selectedFont = _defaultFont;
-        final filteredFonts = _getFilteredFonts();
-        _selectedFontIndex = filteredFonts.indexOf(_defaultFont);
+        final allFonts = CustomFontLoader.getAvailableFonts();
+        _selectedFontIndex = allFonts.indexOf(_defaultFont);
         if (_selectedFontIndex == -1) _selectedFontIndex = 0;
       }
       
@@ -5236,7 +5235,6 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       _selectedFont = filteredFonts[_selectedFontIndex];
     });
     _scrollToSelectedFont();
-    await _saveFontSettings();
     
     if (_autoConvertAlternates && FontAlternatesData.hasFontAlternates(_selectedFont)) {
       setState(() {
@@ -5289,7 +5287,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     });
   }
 
-  @override
+@override
   Widget build(BuildContext context) {
     if (_showEncoderScreen) {
       return Scaffold(
@@ -5343,17 +5341,17 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             return KeyEventResult.ignored;
           }
   
-         if (event.logicalKey == LogicalKeyboardKey.escape && event is KeyDownEvent) {
-           if (_showSleepTimerCountdown) {
-             _cancelSleepTimerCountdown();
-             return KeyEventResult.handled;
-           }
-           if (_showPanel) {
-             setState(() {
-               _showPanel = false;
-             });
-             return KeyEventResult.handled;
-           }
+          if (event.logicalKey == LogicalKeyboardKey.escape && event is KeyDownEvent) {
+            if (_showSleepTimerCountdown) {
+              _cancelSleepTimerCountdown();
+              return KeyEventResult.handled;
+            }
+            if (_showPanel) {
+              setState(() {
+                _showPanel = false;
+              });
+              return KeyEventResult.handled;
+            }
           } else if (event.logicalKey == LogicalKeyboardKey.keyC && 
                    HardwareKeyboard.instance.isShiftPressed && event is KeyDownEvent) {
             _copyChaptersList();
@@ -5365,27 +5363,27 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             });
             _scrollToCurrentChapter();
             return KeyEventResult.handled;
-         } else if (event.logicalKey == LogicalKeyboardKey.keyU && 
+          } else if (event.logicalKey == LogicalKeyboardKey.keyU && 
                     HardwareKeyboard.instance.isShiftPressed && event is KeyDownEvent) {
-           _copyCurrentSubtitleInMemory();
-           return KeyEventResult.handled;
-         } else if (event.logicalKey == LogicalKeyboardKey.keyU && event is KeyDownEvent) {
-           _copyCurrentSubtitle();
-           return KeyEventResult.handled;
-        } else if (event.logicalKey == LogicalKeyboardKey.keyH && 
+            _copyCurrentSubtitleInMemory();
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyU && event is KeyDownEvent) {
+            _copyCurrentSubtitle();
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyH && 
                        HardwareKeyboard.instance.isShiftPressed && 
                        event is KeyDownEvent) {
-              setState(() {
-                _hideChapterTitle = !_hideChapterTitle;
-              });
-              return KeyEventResult.handled;
-            } else if (event.logicalKey == LogicalKeyboardKey.keyH && event is KeyDownEvent) {
-              setState(() {
-                _showPanel = true;
-                _panelMode = PanelMode.history;
-              });
-              _scrollToTopOfHistory();
-              return KeyEventResult.handled;        
+            setState(() {
+              _hideChapterTitle = !_hideChapterTitle;
+            });
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyH && event is KeyDownEvent) {
+            setState(() {
+              _showPanel = true;
+              _panelMode = PanelMode.history;
+            });
+            _scrollToTopOfHistory();
+            return KeyEventResult.handled;        
           } else if (event.logicalKey == LogicalKeyboardKey.keyP && event is KeyDownEvent) {
             setState(() {
               _showPanel = true;
@@ -5431,6 +5429,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               _showPanel = true;
               _panelMode = PanelMode.colors;
             });
+            return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyW && event is KeyDownEvent) {
             setState(() {
               _showPanel = true;
@@ -5520,11 +5519,11 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             }
             return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyL && HardwareKeyboard.instance.isShiftPressed && event is KeyDownEvent) {
-              _openAudiobookDirectory();
-              return KeyEventResult.handled;
-            } else if (event.logicalKey == LogicalKeyboardKey.keyL && event is KeyDownEvent) {
-              _openAudiobook();
-              return KeyEventResult.handled;
+            _openAudiobookDirectory();
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyL && event is KeyDownEvent) {
+            _openAudiobook();
+            return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyM && 
                    HardwareKeyboard.instance.isShiftPressed && event is KeyDownEvent) {
             _copyCurrentMetadata();
@@ -5620,45 +5619,44 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               }
             }
             return KeyEventResult.handled;
-         } else if (event.logicalKey == LogicalKeyboardKey.arrowUp) {
-           if (HardwareKeyboard.instance.isControlPressed) {
-             setState(() {
-               _subtitleLineSpacing = ((_subtitleLineSpacing * 100).round() + 1) / 100;
-               _subtitleLineSpacing = _subtitleLineSpacing.clamp(0.5, 2.5);
-             });
-             return KeyEventResult.handled;
-           } else if (HardwareKeyboard.instance.isShiftPressed) {
-             return KeyEventResult.ignored;
-           } else if (_showPanel && _panelMode == PanelMode.colors) {
-               _navigateColors(-1);
-             }
-             return KeyEventResult.handled;
-           } else if (_showPanel && _panelMode == PanelMode.fonts) {
-             _navigateFonts(-1);
-             return KeyEventResult.handled;
-           } else {
-             _increaseFontSize();
-             return KeyEventResult.handled;
-           }
-         } else if (event.logicalKey == LogicalKeyboardKey.arrowDown) {
-           if (HardwareKeyboard.instance.isControlPressed) {
-             setState(() {
-               _subtitleLineSpacing = ((_subtitleLineSpacing * 100).round() - 1) / 100;
-               _subtitleLineSpacing = _subtitleLineSpacing.clamp(0.5, 2.5);
-             });
-             return KeyEventResult.handled;
-           } else if (HardwareKeyboard.instance.isShiftPressed) {
-             return KeyEventResult.ignored;
-           } else if (_showPanel && _panelMode == PanelMode.colors) {
-             _navigateColors(1);
-             return KeyEventResult.handled;
-           } else if (_showPanel && _panelMode == PanelMode.fonts) {
-             _navigateFonts(1);
-             return KeyEventResult.handled;
-           } else {
-             _decreaseFontSize();
-             return KeyEventResult.handled;
-           }
+          } else if (event.logicalKey == LogicalKeyboardKey.arrowUp) {
+            if (HardwareKeyboard.instance.isControlPressed) {
+              setState(() {
+                _subtitleLineSpacing = ((_subtitleLineSpacing * 100).round() + 1) / 100;
+                _subtitleLineSpacing = _subtitleLineSpacing.clamp(0.5, 2.5);
+              });
+              return KeyEventResult.handled;
+            } else if (HardwareKeyboard.instance.isShiftPressed) {
+              return KeyEventResult.ignored;
+            } else if (_showPanel && _panelMode == PanelMode.colors) {
+              _navigateColors(-1);
+              return KeyEventResult.handled;
+            } else if (_showPanel && _panelMode == PanelMode.fonts) {
+              _navigateFonts(-1);
+              return KeyEventResult.handled;
+            } else {
+              _increaseFontSize();
+              return KeyEventResult.handled;
+            }
+          } else if (event.logicalKey == LogicalKeyboardKey.arrowDown) {
+            if (HardwareKeyboard.instance.isControlPressed) {
+              setState(() {
+                _subtitleLineSpacing = ((_subtitleLineSpacing * 100).round() - 1) / 100;
+                _subtitleLineSpacing = _subtitleLineSpacing.clamp(0.5, 2.5);
+              });
+              return KeyEventResult.handled;
+            } else if (HardwareKeyboard.instance.isShiftPressed) {
+              return KeyEventResult.ignored;
+            } else if (_showPanel && _panelMode == PanelMode.colors) {
+              _navigateColors(1);
+              return KeyEventResult.handled;
+            } else if (_showPanel && _panelMode == PanelMode.fonts) {
+              _navigateFonts(1);
+              return KeyEventResult.handled;
+            } else {
+              _decreaseFontSize();
+              return KeyEventResult.handled;
+            }
           } else if (event.logicalKey == LogicalKeyboardKey.arrowLeft) {
             if (HardwareKeyboard.instance.isShiftPressed) {
               _previousChapter();
@@ -5714,14 +5712,10 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               _jumpToPinnedBookmark(2);
               return KeyEventResult.handled;
             } else if (event.logicalKey == LogicalKeyboardKey.digit3 || event.logicalKey == LogicalKeyboardKey.numpad3) {
-              setState(() {
-                _colorFilterMode = 'all';
-              });
+              _jumpToPinnedBookmark(3);
               return KeyEventResult.handled;
             } else if (event.logicalKey == LogicalKeyboardKey.digit4 || event.logicalKey == LogicalKeyboardKey.numpad4) {
-              setState(() {
-                _colorFilterMode = 'favorites';
-              });
+              _jumpToPinnedBookmark(4);
               return KeyEventResult.handled;
             } else if (event.logicalKey == LogicalKeyboardKey.digit5 || event.logicalKey == LogicalKeyboardKey.numpad5) {
               _jumpToPinnedBookmark(5);
@@ -5820,27 +5814,28 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               _convertToSeesawCase();
               return KeyEventResult.handled;
             }
-            } else if (_showPanel && _panelMode == PanelMode.colors) {
-              if (event.logicalKey == LogicalKeyboardKey.digit1 || event.logicalKey == LogicalKeyboardKey.numpad1) {
-                setState(() {
-                  _coloringMode = ColoringMode.words;
-                });
-                return KeyEventResult.handled;
-              } else if (event.logicalKey == LogicalKeyboardKey.digit2 || event.logicalKey == LogicalKeyboardKey.numpad2) {
-                setState(() {
-                  _coloringMode = ColoringMode.letters;
-                });
-                return KeyEventResult.handled;
-              } else if (event.logicalKey == LogicalKeyboardKey.digit3 || event.logicalKey == LogicalKeyboardKey.numpad3) {
-                setState(() {
-                  _colorFilterMode = 'all';
-                });
-                return KeyEventResult.handled;
-              } else if (event.logicalKey == LogicalKeyboardKey.digit4 || event.logicalKey == LogicalKeyboardKey.numpad4) {
-                setState(() {
-                  _colorFilterMode = 'favorites';
-                });
-                return KeyEventResult.handled;
+          } else if (_showPanel && _panelMode == PanelMode.colors) {
+            if (event.logicalKey == LogicalKeyboardKey.digit1 || event.logicalKey == LogicalKeyboardKey.numpad1) {
+              setState(() {
+                _coloringMode = ColoringMode.words;
+              });
+              return KeyEventResult.handled;
+            } else if (event.logicalKey == LogicalKeyboardKey.digit2 || event.logicalKey == LogicalKeyboardKey.numpad2) {
+              setState(() {
+                _coloringMode = ColoringMode.letters;
+              });
+              return KeyEventResult.handled;
+            } else if (event.logicalKey == LogicalKeyboardKey.digit3 || event.logicalKey == LogicalKeyboardKey.numpad3) {
+              setState(() {
+                _colorFilterMode = 'all';
+              });
+              return KeyEventResult.handled;
+            } else if (event.logicalKey == LogicalKeyboardKey.digit4 || event.logicalKey == LogicalKeyboardKey.numpad4) {
+              setState(() {
+                _colorFilterMode = 'favorites';
+              });
+              return KeyEventResult.handled;
+            }
           } else if (event.logicalKey == LogicalKeyboardKey.keyX && event is KeyDownEvent) {
             if (_primarySubtitlePath != null || _secondarySubtitlePath != null) {
               setState(() {

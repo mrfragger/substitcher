@@ -243,7 +243,7 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 Homebrew
 ```bash
 brew install --cask mrfragger/substitcher/substitcher
-```
+```brew update```\
 ```brew info --cask substitcher```\
 ```brew upgrade --cask substitcher```\
 ```brew uninstall --cask substitcher```
