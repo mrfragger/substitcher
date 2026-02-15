@@ -9,10 +9,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
-   #images
-  image: ^4.1.7
-  flutter_avif: ^3.1.0 
   
   # File system
   file_picker: ^10.3.10
@@ -87,7 +83,6 @@ flutter:
   assets:
     - assets/fonts/
     - assets/adhanclock/
-    - assets/lut/
   
   fonts:
     - family: CustomFonts
