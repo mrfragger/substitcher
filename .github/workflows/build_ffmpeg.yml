@@ -21,9 +21,9 @@ jobs:
       
       - name: Build libopus
         run: |
-          wget https://downloads.xiph.org/releases/opus/opus-1.5.2.tar.gz
-          tar xf opus-1.5.2.tar.gz
-          cd opus-1.5.2
+          wget https://downloads.xiph.org/releases/opus/opus-1.6.1.tar.gz
+          tar xf opus-1.6.1.tar.gz
+          cd opus-1.6.1
           
           ./configure \
             --prefix=$PWD/../opus-install \
@@ -100,14 +100,14 @@ jobs:
       
       - name: Download sources
         run: |
-          wget https://downloads.xiph.org/releases/opus/opus-1.5.2.tar.gz
-          tar xf opus-1.5.2.tar.gz
+          wget https://downloads.xiph.org/releases/opus/opus-1.6.1.tar.gz
+          tar xf opus-1.6.1.tar.gz
           wget https://ffmpeg.org/releases/ffmpeg-8.0.1.tar.xz
           tar xf ffmpeg-8.0.1.tar.xz
       
       - name: Build libopus for arm64
         run: |
-          cd opus-1.5.2
+          cd opus-1.6.1
           
           ./configure \
             --prefix=$PWD/../opus-install-arm64 \
@@ -192,9 +192,9 @@ jobs:
       - name: Build libopus
         shell: msys2 {0}
         run: |
-          curl -L https://downloads.xiph.org/releases/opus/opus-1.5.2.tar.gz -o opus.tar.gz
+          curl -L https://downloads.xiph.org/releases/opus/opus-1.6.1.tar.gz -o opus.tar.gz
           tar xf opus.tar.gz
-          cd opus-1.5.2
+          cd opus-1.6.1
           
           ./configure \
             --prefix=/d/a/substitcher/substitcher/opus-install \
@@ -274,14 +274,14 @@ jobs:
         
         - name: Download sources
           run: |
-            wget https://downloads.xiph.org/releases/opus/opus-1.5.2.tar.gz
-            tar xf opus-1.5.2.tar.gz
+            wget https://downloads.xiph.org/releases/opus/opus-1.6.1.tar.gz
+            tar xf opus-1.6.1.tar.gz
             wget https://ffmpeg.org/releases/ffmpeg-8.0.1.tar.xz
             tar xf ffmpeg-8.0.1.tar.xz
         
         - name: Build libopus for arm64-v8a
           run: |
-            cd opus-1.5.2
+            cd opus-1.6.1
             
             TOOLCHAIN=$ANDROID_NDK_ROOT/toolchains/llvm/prebuilt/linux-x86_64
             API=24
