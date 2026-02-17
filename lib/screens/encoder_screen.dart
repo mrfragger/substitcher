@@ -2612,12 +2612,15 @@ class _EncoderScreenState extends State<EncoderScreen> {
         Row(
           children: [
             Expanded(
-              child: ElevatedButton.icon(
-                onPressed: (_encoding || _extracting) ? null : _pickFiles,
-                icon: const Icon(Icons.add),
-                label: const Text('Add Files'),
-                style: ElevatedButton.styleFrom(
-                  padding: const EdgeInsets.all(16),
+              child: Tooltip(
+                message: 'Hold ⌘ (Mac) or Ctrl (Win/Linux) to select multiple files',
+                child: ElevatedButton.icon(
+                  onPressed: (_encoding || _extracting) ? null : _pickFiles,
+                  icon: const Icon(Icons.add),
+                  label: const Text('Add Files'),
+                  style: ElevatedButton.styleFrom(
+                    padding: const EdgeInsets.all(16),
+                  ),
                 ),
               ),
             ),

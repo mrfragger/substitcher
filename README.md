@@ -46,8 +46,6 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 - apply default font, font size, font line spacing
 - left/right arrows advanced to prev/next subtitle
 - search foreign language subtitles 
-- Text Dim subtitles
-- Big Shadow (must not be in dim mode)
 
 ![](images/japanese.jpg)
 

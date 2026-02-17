@@ -3902,12 +3902,12 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           ..style = PaintingStyle.stroke
           ..strokeWidth = _universalStrokeWidth
           ..color = useShadowColor
-              ? _parseColor(effectivePalette.effectiveShadowColor)
+              ? _parseColor(effectivePalette.effectiveShadowColor(0))
               : _getDarkenedStrokeColor(effectivePalette.colors[0], effectivePalette);
         color = null;
       } else {
         final fontColor = _parseColor(effectivePalette.colors[0]);
-        color = useShadowColor ? _parseColor(effectivePalette.effectiveShadowColor) : fontColor;
+        color = useShadowColor ? _parseColor(effectivePalette.effectiveShadowColor(0)) : fontColor;
         foreground = null;
       }
       
@@ -3993,11 +3993,13 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           ..style = PaintingStyle.stroke
           ..strokeWidth = _universalStrokeWidth
           ..color = useShadowColor
-              ? _parseColor(effectivePalette.effectiveShadowColor)
+              ? _parseColor(effectivePalette.effectiveShadowColor(colorIndex))
               : _getDarkenedStrokeColor(fillColorHex, effectivePalette);
         textColor = null;
       } else {
-        textColor = useShadowColor ? _parseColor(effectivePalette.effectiveShadowColor) : color;
+        textColor = useShadowColor 
+            ? _parseColor(effectivePalette.effectiveShadowColor(colorIndex)) 
+            : color;
         foreground = null;
       }
       
@@ -4118,16 +4120,16 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           Paint? foreground;
           Color? textColor;
           
-          if (isStroke && palette.strokeColor != null) {
+          if (isStroke) {
             foreground = Paint()
               ..style = PaintingStyle.stroke
               ..strokeWidth = strokeWidth
               ..color = useShadowColor
-                  ? _parseColor(palette.effectiveShadowColor)
+                  ? _parseColor(palette.effectiveShadowColor(colorIndex))
                   : _getDarkenedStrokeColor(palette.colors[colorIndex % palette.colors.length], palette);
             textColor = null;
           } else {
-            textColor = useShadowColor ? _parseColor(palette.effectiveShadowColor) : color;
+            textColor = useShadowColor ? _parseColor(palette.effectiveShadowColor(colorIndex)) : color;
             foreground = null;
           }
           
@@ -4160,16 +4162,16 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           Paint? foreground;
           Color? textColor;
           
-          if (isStroke && palette.strokeColor != null) {
+          if (isStroke) {
             foreground = Paint()
               ..style = PaintingStyle.stroke
               ..strokeWidth = strokeWidth
               ..color = useShadowColor
-                  ? _parseColor(palette.effectiveShadowColor)
+                  ? _parseColor(palette.effectiveShadowColor(colorIndex))
                   : _getDarkenedStrokeColor(palette.colors[colorIndex % palette.colors.length], palette);
             textColor = null;
           } else {
-            textColor = useShadowColor ? _parseColor(palette.effectiveShadowColor) : color;
+            textColor = useShadowColor ? _parseColor(palette.effectiveShadowColor(colorIndex)) : color;
             foreground = null;
           }
           
@@ -4237,23 +4239,24 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         ));
         continue;
       }
-      
-      final color = _adjustColorIfBright(palette.colors[colorIndex % palette.colors.length]);
+
+      final currentColorIndex = colorIndex % palette.colors.length;
+      final color = _adjustColorIfBright(palette.colors[currentColorIndex]);
       colorIndex++;
       
       Paint? foreground;
       Color? textColor;
       
-      if (isStroke && palette.strokeColor != null) {
+      if (isStroke) {
         foreground = Paint()
           ..style = PaintingStyle.stroke
           ..strokeWidth = strokeWidth
           ..color = useShadowColor
-              ? _parseColor(palette.effectiveShadowColor)
-              : _getDarkenedStrokeColor(palette.colors[colorIndex % palette.colors.length], palette);
+              ? _parseColor(palette.effectiveShadowColor(currentColorIndex))
+              : _getDarkenedStrokeColor(palette.colors[currentColorIndex], palette);
         textColor = null;
       } else {
-        textColor = useShadowColor ? _parseColor(palette.effectiveShadowColor) : color;
+        textColor = useShadowColor ? _parseColor(palette.effectiveShadowColor(currentColorIndex)) : color;
         foreground = null;
       }
       
@@ -4301,16 +4304,16 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       Paint? foreground;
       Color? textColor;
       
-      if (isStroke && palette.strokeColor != null) {
+      if (isStroke) {
         foreground = Paint()
           ..style = PaintingStyle.stroke
           ..strokeWidth = strokeWidth
           ..color = useShadowColor
-              ? _parseColor(palette.effectiveShadowColor)
+              ? _parseColor(palette.effectiveShadowColor(colorIndex))
               : _getDarkenedStrokeColor(palette.colors[colorIndex % palette.colors.length], palette);
         textColor = null;
       } else {
-        textColor = useShadowColor ? _parseColor(palette.effectiveShadowColor) : color;
+        textColor = useShadowColor ? _parseColor(palette.effectiveShadowColor(colorIndex)) : color;
         foreground = null;
       }
       

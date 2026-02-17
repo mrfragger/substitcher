@@ -14,26 +14,28 @@ class ColorPalette {
   });
 
   bool get isSimplePreset => colors.length == 1 && subShadowColor != null;
-  
-  String get effectiveShadowColor {
-    return shadowColor ?? 'ffffff';
+
+  String effectiveShadowColor(int colorIndex) {
+    if (shadowColor != null) return shadowColor!;
+    final nextIndex = (colorIndex + 1) % colors.length;
+    return colors[nextIndex];
   }
-  
+
   String get effectiveStrokeColor {
     if (strokeColor != null) return strokeColor!;
-    return _darkenColor(colors[0], 0.1);
+    return _darkenColor(colors[0], 0.3);
   }
-  
+
   static String _darkenColor(String hexColor, double factor) {
     final color = hexColor.replaceAll('#', '');
     final r = int.parse(color.substring(0, 2), radix: 16);
     final g = int.parse(color.substring(2, 4), radix: 16);
     final b = int.parse(color.substring(4, 6), radix: 16);
-    
+
     final newR = (r * (1 - factor)).clamp(0, 255).round();
     final newG = (g * (1 - factor)).clamp(0, 255).round();
     final newB = (b * (1 - factor)).clamp(0, 255).round();
-    
+
     return '${newR.toRadixString(16).padLeft(2, '0')}${newG.toRadixString(16).padLeft(2, '0')}${newB.toRadixString(16).padLeft(2, '0')}';
   }
 
