@@ -104,6 +104,8 @@ class PlayerScreen extends StatefulWidget {
 }
 
 class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver {
+  static const double _universalShadowOffset = 6.0;
+  static const double _universalStrokeWidth = 3.0;
   late final WindowListener _windowListener;
   final FFmpegService _ffmpeg = FFmpegService();
   final player = Player();
@@ -281,8 +283,6 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
 
   Set<String> _favoriteColorPalettes = {};
   String _colorFilterMode = 'favorites';
-  bool _subtitleTransparencyMode = false;
-  bool _subtitleIncreasedShadow = false;
   bool _defaultSubtitleTransparencyMode = false;
   
   @override
@@ -518,7 +518,6 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
      _defaultFont = _selectedFont;
      _defaultConversionType = _conversionType;
      _defaultColorPalette = _currentColorPalette?.name;
-     _defaultSubtitleTransparencyMode = _subtitleTransparencyMode;
    });
    
    await _saveDefaultSettings();
@@ -554,7 +553,6 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
      if (_selectedFontIndex == -1) _selectedFontIndex = 0;
      
      _conversionType = _defaultConversionType;
-     _subtitleTransparencyMode = _defaultSubtitleTransparencyMode;
      
      if (_defaultColorPalette != null) {
        final palette = ColorPalette.presets.firstWhere(
@@ -3852,6 +3850,8 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     String? fontFamily,
     ColorPalette? palette,
     double? lineSpacing,
+    bool isStroke = false,
+    bool useShadowColor = false,
   }) {
     final baseFontSize = fontSize ?? _subtitleFontSize;
     final effectiveFont = fontFamily ?? (_selectedFont == 'System Default' ? null : _selectedFont);
@@ -3865,58 +3865,62 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         : ['Scheherazade New'];
     
     if (effectivePalette == null) {
+      Paint? foreground;
+      Color? color;
+      
+      if (isStroke) {
+        foreground = Paint()
+          ..style = PaintingStyle.stroke
+          ..strokeWidth = _universalStrokeWidth
+          ..color = useShadowColor ? Colors.black : Colors.white;
+        color = null;
+      } else {
+        color = useShadowColor ? Colors.black : Colors.black26;
+        foreground = null;
+      }
+      
       return TextSpan(
         text: cleanedText,
         style: TextStyle(
-          color: _subtitleTransparencyMode 
-              ? Colors.transparent 
-              : Colors.black26,
+          color: color,
+          foreground: foreground,
           fontSize: effectiveFontSize,
           height: effectiveLineSpacing,
           fontFamily: effectiveFont,
           fontFamilyFallback: fontFamilyFallback,
-          shadows: [
-            Shadow(
-              offset: Offset(
-                    _subtitleTransparencyMode ? 6.0 : (_subtitleIncreasedShadow ? 6.0 : 2.0),
-                    _subtitleTransparencyMode ? 6.0 : (_subtitleIncreasedShadow ? 6.0 : 2.0)
-                  ),
-              blurRadius: 0,
-              color: _subtitleTransparencyMode 
-                  ? Colors.black26
-                  : _parseColor('000000'),
-            ),
-          ],
+          shadows: [],
         ),
       );
     }
     
     if (effectivePalette.isSimplePreset) {
-      final fontColor = _parseColor(effectivePalette.colors[0]);
-      final shadowColor = _parseColor(effectivePalette.subShadowColor!);
+      Paint? foreground;
+      Color? color;
+      
+      if (isStroke) {
+        foreground = Paint()
+          ..style = PaintingStyle.stroke
+          ..strokeWidth = _universalStrokeWidth
+          ..color = useShadowColor
+              ? _parseColor(effectivePalette.effectiveShadowColor)
+              : _getDarkenedStrokeColor(effectivePalette.colors[0], effectivePalette);
+        color = null;
+      } else {
+        final fontColor = _parseColor(effectivePalette.colors[0]);
+        color = useShadowColor ? _parseColor(effectivePalette.effectiveShadowColor) : fontColor;
+        foreground = null;
+      }
       
       return TextSpan(
         text: cleanedText,
         style: TextStyle(
-          color: _subtitleTransparencyMode 
-              ? Colors.black26
-              : fontColor,
+          color: color,
+          foreground: foreground,
           fontSize: effectiveFontSize,
           height: effectiveLineSpacing,
           fontFamily: effectiveFont,
           fontFamilyFallback: fontFamilyFallback,
-          shadows: [
-            Shadow(
-              offset: Offset(
-                _subtitleTransparencyMode ? 6.0 : (_subtitleIncreasedShadow ? (palette?.shadowOffset ?? 6.0) : 2.0),
-                _subtitleTransparencyMode ? 6.0 : (_subtitleIncreasedShadow ? (palette?.shadowOffset ?? 6.0) : 2.0)
-              ),
-              blurRadius: 0,
-              color: _subtitleTransparencyMode
-                  ? fontColor
-                  : shadowColor,
-            ),
-          ],
+          shadows: [],
         ),
       );
     }
@@ -3932,6 +3936,8 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         effectivePalette,
         fontFamilyFallback,
         effectiveLineSpacing,
+        isStroke,
+        useShadowColor,
       );
     }
     
@@ -3944,6 +3950,8 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         effectivePalette,
         fontFamilyFallback,
         effectiveLineSpacing,
+        isStroke,
+        useShadowColor,
       );
     }
     
@@ -3958,6 +3966,8 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         effectiveFont, 
         effectivePalette,
         effectiveLineSpacing,
+        isStroke,
+        useShadowColor,
       );
     }
     
@@ -3971,32 +3981,36 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       final space = match.group(2) ?? '';
       
       final colorIndex = wordIndex % effectivePalette.colors.length;
-      final color = _adjustColorIfBright(effectivePalette.colors[colorIndex]);
-      final shadowColor = _parseColor(effectivePalette.shadowColor);
+      final fillColorHex = effectivePalette.colors[colorIndex];
+      final color = _adjustColorIfBright(fillColorHex);
       wordIndex++;
+      
+      Paint? foreground;
+      Color? textColor;
+      
+      if (isStroke) {
+        foreground = Paint()
+          ..style = PaintingStyle.stroke
+          ..strokeWidth = _universalStrokeWidth
+          ..color = useShadowColor
+              ? _parseColor(effectivePalette.effectiveShadowColor)
+              : _getDarkenedStrokeColor(fillColorHex, effectivePalette);
+        textColor = null;
+      } else {
+        textColor = useShadowColor ? _parseColor(effectivePalette.effectiveShadowColor) : color;
+        foreground = null;
+      }
       
       spans.add(TextSpan(
         text: word,
         style: TextStyle(
-          color: _subtitleTransparencyMode 
-              ? Colors.black26
-              : color,
+          color: textColor,
+          foreground: foreground,
           fontSize: effectiveFontSize,
           height: effectiveLineSpacing,
           fontFamily: effectiveFont,
           fontFamilyFallback: fontFamilyFallback,
-          shadows: [
-            Shadow(
-              offset: Offset(
-                _subtitleTransparencyMode ? 6.0 : (_subtitleIncreasedShadow ? (palette?.shadowOffset ?? 6.0) : 2.0),
-                _subtitleTransparencyMode ? 6.0 : (_subtitleIncreasedShadow ? (palette?.shadowOffset ?? 6.0) : 2.0)
-              ),
-              blurRadius: 0,
-              color: _subtitleTransparencyMode 
-                  ? color
-                  : shadowColor,
-            ),
-          ],
+          shadows: [],
         ),
       ));
       
@@ -4004,9 +4018,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         spans.add(TextSpan(
           text: space,
           style: TextStyle(
-            color: _subtitleTransparencyMode 
-                ? Colors.transparent 
-                : Colors.black26,
+            color: Colors.black26,
             fontSize: effectiveFontSize,
             height: effectiveLineSpacing,
             fontFamily: effectiveFont,
@@ -4042,238 +4054,283 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   }
   
   TextSpan _buildMixedLanguageTextSpan(
-      String text,
-      int startWordIndex,
-      double fontSize,
-      String? fontFamily,
-      ColorPalette palette,
-      List<String> fontFamilyFallback,
-      double lineSpacing,
-    ) {
-      final spans = <TextSpan>[];
-      int wordIndex = startWordIndex;
-      final shadowColor = _parseColor(palette.shadowColor);
+    String text,
+    int startWordIndex,
+    double fontSize,
+    String? fontFamily,
+    ColorPalette palette,
+    List<String> fontFamilyFallback,
+    double lineSpacing,
+    bool isStroke,
+    bool useShadowColor,
+  ) {
+    const double strokeWidth = _universalStrokeWidth;
+    
+    final spans = <TextSpan>[];
+    int wordIndex = startWordIndex;
+    
+    final segments = <Map<String, dynamic>>[];
+    StringBuffer currentSegment = StringBuffer();
+    TextLanguage? currentLang;
+    
+    for (final char in text.characters) {
+      final charLang = CJKTokenizer.detectLanguage(char);
       
-      final segments = <Map<String, dynamic>>[];
-      StringBuffer currentSegment = StringBuffer();
-      TextLanguage? currentLang;
-      
-      for (final char in text.characters) {
-        final charLang = CJKTokenizer.detectLanguage(char);
-        
-        if (currentLang == null) {
-          currentLang = charLang;
-          currentSegment.write(char);
-        } else if (currentLang == charLang || 
-                   char == ' ' || 
-                   charLang == TextLanguage.unknown) {
-          currentSegment.write(char);
-        } else {
-          if (currentSegment.isNotEmpty) {
-            segments.add({
-              'text': currentSegment.toString(),
-              'language': currentLang,
-            });
-            currentSegment.clear();
-          }
-          currentLang = charLang;
-          currentSegment.write(char);
+      if (currentLang == null) {
+        currentLang = charLang;
+        currentSegment.write(char);
+      } else if (currentLang == charLang || 
+                 char == ' ' || 
+                 charLang == TextLanguage.unknown) {
+        currentSegment.write(char);
+      } else {
+        if (currentSegment.isNotEmpty) {
+          segments.add({
+            'text': currentSegment.toString(),
+            'language': currentLang,
+          });
+          currentSegment.clear();
         }
+        currentLang = charLang;
+        currentSegment.write(char);
       }
-      
-      if (currentSegment.isNotEmpty) {
-        segments.add({
-          'text': currentSegment.toString(),
-          'language': currentLang,
-        });
-      }
-      
-      for (final segment in segments) {
-        final segmentText = segment['text'] as String;
-        final segmentLang = segment['language'] as TextLanguage;
-        
-        if (segmentLang == TextLanguage.japanese ||
-            segmentLang == TextLanguage.chinese ||
-            segmentLang == TextLanguage.korean) {
-          final words = CJKTokenizer.tokenize(segmentText, language: segmentLang);
-          for (final word in words) {
-            final colorIndex = wordIndex % palette.colors.length;
-            final color = _adjustColorIfBright(palette.colors[colorIndex]);
-            spans.add(TextSpan(
-              text: word,
-              style: TextStyle(
-                color: _subtitleTransparencyMode ? Colors.black26 : color,
-                fontSize: fontSize,
-                height: lineSpacing,
-                fontFamily: fontFamily,
-                fontFamilyFallback: fontFamilyFallback,
-                shadows: [
-                  Shadow(
-                    offset: Offset(
-                      _subtitleTransparencyMode ? 6.0 : (_subtitleIncreasedShadow ? palette.shadowOffset : 2.0),
-                      _subtitleTransparencyMode ? 6.0 : (_subtitleIncreasedShadow ? palette.shadowOffset : 2.0)
-                    ),
-                    blurRadius: 0,
-                    color: _subtitleTransparencyMode ? color : shadowColor,
-                  ),
-                ],
-              ),
-            ));
-            wordIndex++;
-          }
-        } else {
-          final pattern = RegExp(r'(\S+)(\s*)');
-          final matches = pattern.allMatches(segmentText);
-          
-          for (final match in matches) {
-            final word = match.group(1)!;
-            final space = match.group(2) ?? '';
-            
-            final colorIndex = wordIndex % palette.colors.length;
-            final color = _adjustColorIfBright(palette.colors[colorIndex]);
-            wordIndex++;
-            
-            spans.add(TextSpan(
-              text: word,
-              style: TextStyle(
-                color: _subtitleTransparencyMode ? Colors.black26 : color,
-                fontSize: fontSize,
-                height: lineSpacing,
-                fontFamily: fontFamily,
-                fontFamilyFallback: fontFamilyFallback,
-                shadows: [
-                  Shadow(
-                    offset: Offset(
-                      _subtitleTransparencyMode ? 6.0 : (_subtitleIncreasedShadow ? palette.shadowOffset : 2.0),
-                      _subtitleTransparencyMode ? 6.0 : (_subtitleIncreasedShadow ? palette.shadowOffset : 2.0)
-                    ),
-                    blurRadius: 0,
-                    color: _subtitleTransparencyMode ? color : shadowColor,
-                  ),
-                ],
-              ),
-            ));
-            
-            if (space.isNotEmpty) {
-              spans.add(TextSpan(
-                text: space,
-                style: TextStyle(
-                  color: _subtitleTransparencyMode ? Colors.transparent : Colors.white,
-                  fontSize: fontSize,
-                  height: lineSpacing,
-                  fontFamily: fontFamily,
-                  fontFamilyFallback: fontFamilyFallback,
-                ),
-              ));
-            }
-          }
-        }
-      }
-      
-      return TextSpan(children: spans);
     }
-  
-  TextSpan _buildLetterColoredTextSpan(
-      String text,
-      int startIndex,
-      double fontSize,
-      String? fontFamily,
-      ColorPalette palette,
-      List<String> fontFamilyFallback,
-      double lineSpacing,
-    ) {
-      final spans = <TextSpan>[];
-      int colorIndex = startIndex;
-      final shadowColor = _parseColor(palette.shadowColor);
+    
+    if (currentSegment.isNotEmpty) {
+      segments.add({
+        'text': currentSegment.toString(),
+        'language': currentLang,
+      });
+    }
+    
+    for (final segment in segments) {
+      final segmentText = segment['text'] as String;
+      final segmentLang = segment['language'] as TextLanguage;
       
-      for (int i = 0; i < text.length; i++) {
-        final char = text[i];
-        
-        if (char == ' ' || char == '\n' || char == '\t') {
+      if (segmentLang == TextLanguage.japanese ||
+          segmentLang == TextLanguage.chinese ||
+          segmentLang == TextLanguage.korean) {
+        final words = CJKTokenizer.tokenize(segmentText, language: segmentLang);
+        for (final word in words) {
+          final colorIndex = wordIndex % palette.colors.length;
+          final color = _adjustColorIfBright(palette.colors[colorIndex]);
+          
+          Paint? foreground;
+          Color? textColor;
+          
+          if (isStroke && palette.strokeColor != null) {
+            foreground = Paint()
+              ..style = PaintingStyle.stroke
+              ..strokeWidth = strokeWidth
+              ..color = useShadowColor
+                  ? _parseColor(palette.effectiveShadowColor)
+                  : _getDarkenedStrokeColor(palette.colors[colorIndex % palette.colors.length], palette);
+            textColor = null;
+          } else {
+            textColor = useShadowColor ? _parseColor(palette.effectiveShadowColor) : color;
+            foreground = null;
+          }
+          
           spans.add(TextSpan(
-            text: char,
+            text: word,
             style: TextStyle(
-              color: _subtitleTransparencyMode ? Colors.transparent : Colors.white,
+              color: textColor,
+              foreground: foreground,
               fontSize: fontSize,
               height: lineSpacing,
               fontFamily: fontFamily,
               fontFamilyFallback: fontFamilyFallback,
+              shadows: [],
             ),
           ));
-          continue;
+          wordIndex++;
         }
+      } else {
+        final pattern = RegExp(r'(\S+)(\s*)');
+        final matches = pattern.allMatches(segmentText);
         
-        final color = _adjustColorIfBright(palette.colors[colorIndex % palette.colors.length]);
-        colorIndex++;
-        
+        for (final match in matches) {
+          final word = match.group(1)!;
+          final space = match.group(2) ?? '';
+          
+          final colorIndex = wordIndex % palette.colors.length;
+          final color = _adjustColorIfBright(palette.colors[colorIndex]);
+          wordIndex++;
+          
+          Paint? foreground;
+          Color? textColor;
+          
+          if (isStroke && palette.strokeColor != null) {
+            foreground = Paint()
+              ..style = PaintingStyle.stroke
+              ..strokeWidth = strokeWidth
+              ..color = useShadowColor
+                  ? _parseColor(palette.effectiveShadowColor)
+                  : _getDarkenedStrokeColor(palette.colors[colorIndex % palette.colors.length], palette);
+            textColor = null;
+          } else {
+            textColor = useShadowColor ? _parseColor(palette.effectiveShadowColor) : color;
+            foreground = null;
+          }
+          
+          spans.add(TextSpan(
+            text: word,
+            style: TextStyle(
+              color: textColor,
+              foreground: foreground,
+              fontSize: fontSize,
+              height: lineSpacing,
+              fontFamily: fontFamily,
+              fontFamilyFallback: fontFamilyFallback,
+              shadows: [],
+            ),
+          ));
+          
+          if (space.isNotEmpty) {
+            spans.add(TextSpan(
+              text: space,
+              style: TextStyle(
+                color: Colors.white,
+                fontSize: fontSize,
+                height: lineSpacing,
+                fontFamily: fontFamily,
+                fontFamilyFallback: fontFamilyFallback,
+              ),
+            ));
+          }
+        }
+      }
+    }
+    
+    return TextSpan(children: spans);
+  }
+  
+  TextSpan _buildLetterColoredTextSpan(
+    String text,
+    int startIndex,
+    double fontSize,
+    String? fontFamily,
+    ColorPalette palette,
+    List<String> fontFamilyFallback,
+    double lineSpacing,
+    bool isStroke,
+    bool useShadowColor,
+  ) {
+    const double strokeWidth = _universalStrokeWidth;
+    
+    final spans = <TextSpan>[];
+    int colorIndex = startIndex;
+    
+    for (int i = 0; i < text.length; i++) {
+      final char = text[i];
+      
+      if (char == ' ' || char == '\n' || char == '\t') {
         spans.add(TextSpan(
           text: char,
           style: TextStyle(
-            color: _subtitleTransparencyMode ? Colors.black26 : color,
+            color: Colors.white,
             fontSize: fontSize,
             height: lineSpacing,
             fontFamily: fontFamily,
             fontFamilyFallback: fontFamilyFallback,
-            shadows: [
-              Shadow(
-                offset: Offset(
-                  _subtitleTransparencyMode ? 6.0 : (_subtitleIncreasedShadow ? palette.shadowOffset : 2.0),
-                  _subtitleTransparencyMode ? 6.0 : (_subtitleIncreasedShadow ? palette.shadowOffset : 2.0)
-                ),
-                blurRadius: 0,
-                color: _subtitleTransparencyMode ? color : shadowColor,
-              ),
-            ],
           ),
         ));
+        continue;
       }
       
-      return TextSpan(children: spans);
+      final color = _adjustColorIfBright(palette.colors[colorIndex % palette.colors.length]);
+      colorIndex++;
+      
+      Paint? foreground;
+      Color? textColor;
+      
+      if (isStroke && palette.strokeColor != null) {
+        foreground = Paint()
+          ..style = PaintingStyle.stroke
+          ..strokeWidth = strokeWidth
+          ..color = useShadowColor
+              ? _parseColor(palette.effectiveShadowColor)
+              : _getDarkenedStrokeColor(palette.colors[colorIndex % palette.colors.length], palette);
+        textColor = null;
+      } else {
+        textColor = useShadowColor ? _parseColor(palette.effectiveShadowColor) : color;
+        foreground = null;
+      }
+      
+      spans.add(TextSpan(
+        text: char,
+        style: TextStyle(
+          color: textColor,
+          foreground: foreground,
+          fontSize: fontSize,
+          height: lineSpacing,
+          fontFamily: fontFamily,
+          fontFamilyFallback: fontFamilyFallback,
+          shadows: [],
+        ),
+      ));
     }
+    
+    return TextSpan(children: spans);
+  }
   
   TextSpan _buildCJKColoredTextSpan(
-      String text, 
-      int startWordIndex,
-      double fontSize,
-      String? fontFamily,
-      ColorPalette palette,
-      double lineSpacing,
-    ) {
-      final fontFamilyFallback = fontFamily != null 
-            ? [fontFamily, 'Scheherazade New']
-            : ['Scheherazade New'];
-      final shadowColor = _parseColor(palette.shadowColor);
+    String text, 
+    int startWordIndex,
+    double fontSize,
+    String? fontFamily,
+    ColorPalette palette,
+    double lineSpacing,
+    bool isStroke,
+    bool useShadowColor,
+  ) {
+    const double strokeWidth = _universalStrokeWidth;
     
-      final words = CJKTokenizer.tokenize(text);
-      final spans = <TextSpan>[];
-      int wordIndex = startWordIndex;
-      for (final word in words) {
-        final colorIndex = wordIndex % palette.colors.length;
-        final color = _adjustColorIfBright(palette.colors[colorIndex]);
-        spans.add(TextSpan(
-          text: word,
-          style: TextStyle(
-            color: _subtitleTransparencyMode ? Colors.black26 : color,
-            fontSize: fontSize,
-            height: lineSpacing,
-            fontFamily: fontFamily,
-            fontFamilyFallback: fontFamilyFallback,
-            shadows: [
-              Shadow(
-                offset: Offset(
-                  _subtitleTransparencyMode ? 6.0 : (_subtitleIncreasedShadow ? palette.shadowOffset : 2.0),
-                  _subtitleTransparencyMode ? 6.0 : (_subtitleIncreasedShadow ? palette.shadowOffset : 2.0)
-                ),
-                blurRadius: 0,
-                color: _subtitleTransparencyMode ? color : shadowColor,
-              ),
-            ],
-          ),
-        ));
-        wordIndex++;
+    final fontFamilyFallback = fontFamily != null 
+        ? [fontFamily, 'Scheherazade New']
+        : ['Scheherazade New'];
+  
+    final words = CJKTokenizer.tokenize(text);
+    final spans = <TextSpan>[];
+    int wordIndex = startWordIndex;
+    
+    for (final word in words) {
+      final colorIndex = wordIndex % palette.colors.length;
+      final color = _adjustColorIfBright(palette.colors[colorIndex]);
+      
+      Paint? foreground;
+      Color? textColor;
+      
+      if (isStroke && palette.strokeColor != null) {
+        foreground = Paint()
+          ..style = PaintingStyle.stroke
+          ..strokeWidth = strokeWidth
+          ..color = useShadowColor
+              ? _parseColor(palette.effectiveShadowColor)
+              : _getDarkenedStrokeColor(palette.colors[colorIndex % palette.colors.length], palette);
+        textColor = null;
+      } else {
+        textColor = useShadowColor ? _parseColor(palette.effectiveShadowColor) : color;
+        foreground = null;
       }
-      return TextSpan(children: spans);
+      
+      spans.add(TextSpan(
+        text: word,
+        style: TextStyle(
+          color: textColor,
+          foreground: foreground,
+          fontSize: fontSize,
+          height: lineSpacing,
+          fontFamily: fontFamily,
+          fontFamilyFallback: fontFamilyFallback,
+          shadows: [],
+        ),
+      ));
+      wordIndex++;
     }
+    
+    return TextSpan(children: spans);
+  }
 
   void _precalculateWordPositions() {
     _cueWordStarts.clear();
@@ -4292,6 +4349,23 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         wordCount += words.where((w) => w.isNotEmpty).length;
       }
     }
+  }
+
+  Color _getDarkenedStrokeColor(String fillColor, ColorPalette palette) {
+    if (palette.strokeColor != null) {
+      return _parseColor(palette.strokeColor!);
+    }
+    
+    final color = fillColor.replaceAll('#', '');
+    final r = int.parse(color.substring(0, 2), radix: 16);
+    final g = int.parse(color.substring(2, 4), radix: 16);
+    final b = int.parse(color.substring(4, 6), radix: 16);
+    
+    final newR = (r * 0.7).clamp(0, 255).round();
+    final newG = (g * 0.7).clamp(0, 255).round();
+    final newB = (b * 0.7).clamp(0, 255).round();
+    
+    return Color.fromARGB(255, newR, newG, newB);
   }
   
   int _calculateWordIndexAtPosition(Duration position) {
@@ -5392,14 +5466,6 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             _scrollToCurrentPlaylistItem();
             return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyB) {
-            if (HardwareKeyboard.instance.isShiftPressed) {
-              if (event is KeyDownEvent) {
-                setState(() {
-                  _subtitleIncreasedShadow = !_subtitleIncreasedShadow;
-                });
-              }
-              return KeyEventResult.handled;
-            }
             if (event is KeyDownEvent) {
               setState(() {
                 _showPanel = true;
@@ -5440,12 +5506,6 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             setState(() {
               _showPanel = true;
               _panelMode = PanelMode.subs;
-            });
-            return KeyEventResult.handled;
-          } else if (event.logicalKey == LogicalKeyboardKey.keyT && 
-                      HardwareKeyboard.instance.isShiftPressed && event is KeyDownEvent) {
-            setState(() {
-              _subtitleTransparencyMode = !_subtitleTransparencyMode;
             });
             return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyT && event is KeyDownEvent) {
@@ -6548,16 +6608,6 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           case 'load_subtitle':
             _loadSubtitleFromVttDir();
             break;
-          case 'toggle_shadow_offset':
-            setState(() {
-              _subtitleIncreasedShadow = !_subtitleIncreasedShadow;
-            });
-            break;
-          case 'toggle_subtitle_dim':
-            setState(() {
-              _subtitleTransparencyMode = !_subtitleTransparencyMode;
-            });
-            break;
           case 'hideChapterTitle':
             setState(() {
               _hideChapterTitle = !_hideChapterTitle;
@@ -6611,6 +6661,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       onOpenSubtitleManager: _openSubtitleManager,
       onJumpToChapter: _jumpToChapter,
       buildColoredTextSpan: _buildColoredTextSpan,
+      shadowOffset: _universalShadowOffset,
       isYouTubeStream: _isYouTubeStream,
       youtubeTitle: _youtubeTitle,
       youtubeChannelName: _youtubeChannelName,

@@ -256,7 +256,6 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
     
     if (!foundNext) {
       nextPrayer = 'Fajr';
-      print('Prayer times: Fajr=${_prayerTimes!.fajr}, Sunrise=${_prayerTimes!.sunrise}, Midnight=${_prayerTimes!.midnight}, Tahajjud=${_prayerTimes!.tahajjud}');
       nextTime = _prayerTimes!.fajr.add(const Duration(days: 1));
     }
     

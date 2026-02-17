@@ -1,7 +1,7 @@
 name: substitcher
 description: opus chaptered audiobook player, encoder and editor with colored subtitle support
 publish_to: 'none'
-version: 26.02.16
+version: 26.02.17
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
@@ -9,7 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  
+
   # File system
   file_picker: ^10.3.10
   path_provider: ^2.1.1

@@ -1361,6 +1361,28 @@ class SidePanel extends StatelessWidget {
                              border: Border.all(color: Colors.white24),
                            ),
                          )),
+                       if (palette.strokeColor != null)
+                         Container(
+                           width: 20,
+                           height: 20,
+                           margin: const EdgeInsets.only(left: 8),
+                           decoration: BoxDecoration(
+                             color: parseColor(palette.strokeColor!),
+                             borderRadius: BorderRadius.circular(4),
+                             border: Border.all(color: Colors.white60, width: 1.5),
+                           ),
+                         ),
+                       if (palette.shadowColor != null)
+                         Container(
+                           width: 20,
+                           height: 20,
+                           margin: const EdgeInsets.only(left: 4),
+                           decoration: BoxDecoration(
+                             color: parseColor(palette.shadowColor!),
+                             borderRadius: BorderRadius.circular(4),
+                             border: Border.all(color: Colors.white60, width: 1.5),
+                           ),
+                         ),
                        if (showingFavorites) ...[
                          const SizedBox(width: 12),
                          IconButton(

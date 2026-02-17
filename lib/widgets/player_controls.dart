@@ -70,7 +70,8 @@ class PlayerControls extends StatelessWidget {
   final VoidCallback? onCloseYouTube;
   final VoidCallback? onShowAudioStreams;
   final String? currentAudioFormat;
-  final TextSpan Function(String text, {double? fontSize, String? fontFamily, ColorPalette? palette, double? lineSpacing}) buildColoredTextSpan;
+  final double shadowOffset;
+  final TextSpan Function(String text, {double? fontSize, String? fontFamily, ColorPalette? palette, double? lineSpacing, bool isStroke, bool useShadowColor}) buildColoredTextSpan;
   
   const PlayerControls({
     super.key,
@@ -126,6 +127,7 @@ class PlayerControls extends StatelessWidget {
     required this.onPrevChapterHover,
     required this.onNextChapterHover,
     required this.onEditingMenuSelected,
+    required this.shadowOffset,
     this.skipToPreviousSubtitle,
     this.skipToNextSubtitle,
     this.isYouTubeStream = false,
@@ -247,15 +249,63 @@ class PlayerControls extends StatelessWidget {
                       color: Colors.black.withValues(alpha: 0.6),
                       borderRadius: BorderRadius.circular(8),
                     ),
-                    child: RichText(
-                      textAlign: TextAlign.center,
-                      text: buildColoredTextSpan(
-                        secondarySubtitleText,
-                        fontSize: secondarySubtitleFontSize,
-                        fontFamily: secondarySubtitleFont,
-                        palette: secondaryColorPalette,
-                        lineSpacing: secondarySubtitleLineSpacing,
-                      ),
+                    child: Stack(
+                      children: [
+                        if (secondaryColorPalette?.strokeColor != null)
+                          Transform.translate(
+                            offset: Offset(shadowOffset, shadowOffset),
+                            child: RichText(
+                              textAlign: TextAlign.center,
+                              text: buildColoredTextSpan(
+                                secondarySubtitleText,
+                                fontSize: secondarySubtitleFontSize,
+                                fontFamily: secondarySubtitleFont,
+                                palette: secondaryColorPalette,
+                                lineSpacing: secondarySubtitleLineSpacing,
+                                isStroke: true,
+                                useShadowColor: true,
+                              ),
+                            ),
+                          ),
+                        Transform.translate(
+                          offset: Offset(shadowOffset, shadowOffset),
+                          child: RichText(
+                            textAlign: TextAlign.center,
+                            text: buildColoredTextSpan(
+                              secondarySubtitleText,
+                              fontSize: secondarySubtitleFontSize,
+                              fontFamily: secondarySubtitleFont,
+                              palette: secondaryColorPalette,
+                              lineSpacing: secondarySubtitleLineSpacing,
+                              isStroke: false,
+                              useShadowColor: true,
+                            ),
+                          ),
+                        ),
+                        RichText(
+                          textAlign: TextAlign.center,
+                          text: buildColoredTextSpan(
+                            secondarySubtitleText,
+                            fontSize: secondarySubtitleFontSize,
+                            fontFamily: secondarySubtitleFont,
+                            palette: secondaryColorPalette,
+                            lineSpacing: secondarySubtitleLineSpacing,
+                            isStroke: false,
+                          ),
+                        ),
+                        if (secondaryColorPalette?.strokeColor != null)
+                          RichText(
+                            textAlign: TextAlign.center,
+                            text: buildColoredTextSpan(
+                              secondarySubtitleText,
+                              fontSize: secondarySubtitleFontSize,
+                              fontFamily: secondarySubtitleFont,
+                              palette: secondaryColorPalette,
+                              lineSpacing: secondarySubtitleLineSpacing,
+                              isStroke: true,
+                            ),
+                          ),
+                      ],
                     ),
                   ),
                 ),
@@ -278,9 +328,49 @@ class PlayerControls extends StatelessWidget {
                       color: Colors.black.withValues(alpha: 0.7),
                       borderRadius: BorderRadius.circular(8),
                     ),
-                    child: RichText(
-                      textAlign: TextAlign.center,
-                      text: buildColoredTextSpan(currentSubtitleText, lineSpacing: subtitleLineSpacing,),
+                    child: Stack(
+                      children: [
+                        Transform.translate(
+                          offset: Offset(shadowOffset, shadowOffset),
+                          child: RichText(
+                            textAlign: TextAlign.center,
+                            text: buildColoredTextSpan(
+                              currentSubtitleText,
+                              lineSpacing: subtitleLineSpacing,
+                              isStroke: true,
+                              useShadowColor: true,
+                            ),
+                          ),
+                        ),
+                        Transform.translate(
+                          offset: Offset(shadowOffset, shadowOffset),
+                          child: RichText(
+                            textAlign: TextAlign.center,
+                            text: buildColoredTextSpan(
+                              currentSubtitleText,
+                              lineSpacing: subtitleLineSpacing,
+                              isStroke: false,
+                              useShadowColor: true,
+                            ),
+                          ),
+                        ),
+                        RichText(
+                          textAlign: TextAlign.center,
+                          text: buildColoredTextSpan(
+                            currentSubtitleText,
+                            lineSpacing: subtitleLineSpacing,
+                            isStroke: false,
+                          ),
+                        ),
+                        RichText(
+                          textAlign: TextAlign.center,
+                          text: buildColoredTextSpan(
+                            currentSubtitleText,
+                            lineSpacing: subtitleLineSpacing,
+                            isStroke: true,
+                          ),
+                        ),
+                      ],
                     ),
                   ),
                 ),
@@ -788,14 +878,6 @@ class PlayerControls extends StatelessWidget {
             const PopupMenuItem(
               value: 'hideChapterTitle',
               child: Text('Chapter Title Hide/Show (⇧H)'),
-            ),
-            const PopupMenuItem(
-              value: 'toggle_shadow_offset',
-              child: Text('Big Shadow (⇧B)'),
-            ),
-            const PopupMenuItem(
-              value: 'toggle_subtitle_dim',
-              child: Text('Text Dim subs on/off (⇧T)'),
             ),
             const PopupMenuItem(
               value: 'copyCurrentSubtitle',
