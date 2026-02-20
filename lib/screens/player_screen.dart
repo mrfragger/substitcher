@@ -6306,30 +6306,12 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                   fontsCount: CustomFontLoader.loadedFonts.length,
                   subsCount: _subtitles.length,
                   statsCount: _statsManager.statsEntries.where((entry) {
-                    if (_skipTrackingTerms.trim().isEmpty) return true;
-                    final filename = (entry['filename'] as String? ?? '').toLowerCase();
-                    final skipTerms = _skipTrackingTerms
-                        .toLowerCase()
-                        .split(' ')
-                        .where((t) => t.isNotEmpty)
-                        .toList();
-                    for (final term in skipTerms) {
-                      if (filename.contains(term)) return false;
-                    }
-                    return true;
+                    final filename = entry['filename'] as String? ?? '';
+                    return !_shouldSkipTracking(filename);
                   }).length,
                   statsEntries: _statsManager.statsEntries.where((entry) {
-                    if (_skipTrackingTerms.trim().isEmpty) return true;
-                    final filename = (entry['filename'] as String? ?? '').toLowerCase();
-                    final skipTerms = _skipTrackingTerms
-                        .toLowerCase()
-                        .split(' ')
-                        .where((t) => t.isNotEmpty)
-                        .toList();
-                    for (final term in skipTerms) {
-                      if (filename.contains(term)) return false;
-                    }
-                    return true;
+                    final filename = entry['filename'] as String? ?? '';
+                    return !_shouldSkipTracking(filename);
                   }).toList(),
                   statsEnabled: _statsManager.statsEnabled,
                   onStatsEnabledChanged: (value) {
