@@ -243,9 +243,9 @@ Homebrew
 brew install --cask mrfragger/substitcher/substitcher
 ```
 ```brew update```\
-```brew info --cask substitcher```\
-```brew upgrade --cask substitcher```\
-```brew uninstall --cask substitcher```
+```brew info substitcher```\
+```brew upgrade substitcher```\
+```brew uninstall substitcher```
 
 after installing dmg from releases or via homebrew in terminal remove quarantine flag
 ```bash
