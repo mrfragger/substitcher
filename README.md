@@ -140,10 +140,10 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 ![](images/fonts.jpg)
 
 ### Colors
-- 500+ color palettes
+- 750+ color palettes
 - choose between coloring words or letters
 - 20 and 12 colors per palette
-- 94 Simple Palettes (one font color with a shadow color)
+- 91 same (similar) Palettes (font, stroke, shadow)
 - monochromatic, food palettes
 - letters work with alternates but not with ligatures
 - favorites list, shortcut key R (rang रंग Hindi is color)

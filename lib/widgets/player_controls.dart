@@ -876,6 +876,10 @@ class PlayerControls extends StatelessWidget {
               child: Text('Font Size (↑/↓)'),
             ),
             const PopupMenuItem(
+              value: 'useBlackFont',
+              child: Text('Black/White Font on/off (⇧B)'),
+            ),
+            const PopupMenuItem(
               value: 'hideChapterTitle',
               child: Text('Chapter Title Hide/Show (⇧H)'),
             ),

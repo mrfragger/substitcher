@@ -43,6 +43,7 @@ import '../widgets/player_controls.dart';
 import '../widgets/word_overlay.dart';
 import '../widgets/download_overlay.dart';
 
+enum FontColorOverride { none, black, white }
 
 class SubtitleSearchResult {
   final Duration time;
@@ -106,6 +107,7 @@ class PlayerScreen extends StatefulWidget {
 class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver {
   static const double _universalShadowOffset = 6.0;
   static const double _universalStrokeWidth = 3.0;
+  FontColorOverride _fontColorOverride = FontColorOverride.none;
   late final WindowListener _windowListener;
   final FFmpegService _ffmpeg = FFmpegService();
   final player = Player();
@@ -283,8 +285,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
 
   Set<String> _favoriteColorPalettes = {};
   String _colorFilterMode = 'favorites';
-  bool _defaultSubtitleTransparencyMode = false;
-  
+
   @override
   void initState() {
     super.initState();
@@ -490,7 +491,6 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
    final prefs = await SharedPreferences.getInstance();
    await prefs.setString('defaultFont', _defaultFont);
    await prefs.setString('defaultConversionType', _defaultConversionType);
-   await prefs.setBool('defaultSubtitleTransparencyMode', _defaultSubtitleTransparencyMode);
    if (_defaultColorPalette != null) {
      await prefs.setString('defaultColorPalette', _defaultColorPalette!);
    }
@@ -501,7 +501,6 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
    setState(() {
      _defaultFont = prefs.getString('defaultFont') ?? 'System Default';
      _defaultConversionType = prefs.getString('defaultConversionType') ?? 'none';
-     _defaultSubtitleTransparencyMode = prefs.getBool('defaultSubtitleTransparencyMode') ?? false;
      _defaultColorPalette = prefs.getString('defaultColorPalette');
    });
  }
@@ -530,7 +529,6 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
            'Font: $_defaultFont\n'
            'Conversion: $_defaultConversionType\n'
            'Color: ${_defaultColorPalette ?? 'None'}\n'
-           'Dim Mode: ${_defaultSubtitleTransparencyMode ? 'On' : 'Off'}'
          ),
          duration: const Duration(seconds: 5),
        ),
@@ -577,7 +575,6 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
            'Font: $_defaultFont\n'
            'Conversion: $_defaultConversionType\n'
            'Color: ${_defaultColorPalette ?? 'None'}\n'
-           'Dim Mode: ${_defaultSubtitleTransparencyMode ? 'On' : 'Off'}'
          ),
          duration: const Duration(seconds: 4),
        ),
@@ -3872,10 +3869,10 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         foreground = Paint()
           ..style = PaintingStyle.stroke
           ..strokeWidth = _universalStrokeWidth
-          ..color = useShadowColor ? Colors.black : Colors.white;
+          ..color = useShadowColor ? Colors.black87 : Colors.white70;
         color = null;
       } else {
-        color = useShadowColor ? Colors.black : Colors.black26;
+        color = useShadowColor ? Colors.black : Colors.black;
         foreground = null;
       }
       
@@ -3907,7 +3904,13 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         color = null;
       } else {
         final fontColor = _parseColor(effectivePalette.colors[0]);
-        color = useShadowColor ? _parseColor(effectivePalette.effectiveShadowColor(0)) : fontColor;
+        final baseColor = useShadowColor 
+            ? _parseColor(effectivePalette.effectiveShadowColor(0)) 
+            : fontColor;
+        
+        color = !useShadowColor && _fontColorOverride != FontColorOverride.none
+            ? (_fontColorOverride == FontColorOverride.black ? Colors.black87 : Colors.white70)
+            : baseColor;
         foreground = null;
       }
       
@@ -3997,9 +4000,13 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               : _getDarkenedStrokeColor(fillColorHex, effectivePalette);
         textColor = null;
       } else {
-        textColor = useShadowColor 
+        final baseColor = useShadowColor 
             ? _parseColor(effectivePalette.effectiveShadowColor(colorIndex)) 
             : color;
+        
+        textColor = !useShadowColor && _fontColorOverride != FontColorOverride.none
+            ? (_fontColorOverride == FontColorOverride.black ? Colors.black87 : Colors.white70)
+            : baseColor;
         foreground = null;
       }
       
@@ -4129,7 +4136,13 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                   : _getDarkenedStrokeColor(palette.colors[colorIndex % palette.colors.length], palette);
             textColor = null;
           } else {
-            textColor = useShadowColor ? _parseColor(palette.effectiveShadowColor(colorIndex)) : color;
+            final baseColor = useShadowColor 
+                ? _parseColor(palette.effectiveShadowColor(colorIndex)) 
+                : color;
+            
+            textColor = !useShadowColor && _fontColorOverride != FontColorOverride.none
+                ? (_fontColorOverride == FontColorOverride.black ? Colors.black87 : Colors.white70)
+                : baseColor;
             foreground = null;
           }
           
@@ -4171,7 +4184,13 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                   : _getDarkenedStrokeColor(palette.colors[colorIndex % palette.colors.length], palette);
             textColor = null;
           } else {
-            textColor = useShadowColor ? _parseColor(palette.effectiveShadowColor(colorIndex)) : color;
+            final baseColor = useShadowColor 
+                ? _parseColor(palette.effectiveShadowColor(colorIndex)) 
+                : color;
+            
+            textColor = !useShadowColor && _fontColorOverride != FontColorOverride.none
+                ? (_fontColorOverride == FontColorOverride.black ? Colors.black87 : Colors.white70)
+                : baseColor;
             foreground = null;
           }
           
@@ -4313,7 +4332,13 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               : _getDarkenedStrokeColor(palette.colors[colorIndex % palette.colors.length], palette);
         textColor = null;
       } else {
-        textColor = useShadowColor ? _parseColor(palette.effectiveShadowColor(colorIndex)) : color;
+        final baseColor = useShadowColor 
+            ? _parseColor(palette.effectiveShadowColor(colorIndex)) 
+            : color;
+        
+        textColor = !useShadowColor && _fontColorOverride != FontColorOverride.none
+            ? (_fontColorOverride == FontColorOverride.black ? Colors.black87 : Colors.white70)
+            : baseColor;
         foreground = null;
       }
       
@@ -5468,6 +5493,18 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             });
             _scrollToCurrentPlaylistItem();
             return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyB && 
+                     HardwareKeyboard.instance.isShiftPressed) {
+            if (event is KeyDownEvent) {
+              setState(() {
+                _fontColorOverride = switch (_fontColorOverride) {
+                  FontColorOverride.none => FontColorOverride.black,
+                  FontColorOverride.black => FontColorOverride.white,
+                  FontColorOverride.white => FontColorOverride.none,
+                };
+              });
+            }
+            return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyB) {
             if (event is KeyDownEvent) {
               setState(() {
@@ -6614,6 +6651,15 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           case 'hideChapterTitle':
             setState(() {
               _hideChapterTitle = !_hideChapterTitle;
+            });
+            break;
+          case 'useBlackFont':
+            setState(() {
+              _fontColorOverride = switch (_fontColorOverride) {
+                FontColorOverride.none => FontColorOverride.black,
+                FontColorOverride.black => FontColorOverride.white,
+                FontColorOverride.white => FontColorOverride.none,
+              };
             });
             break;
           case 'copyCurrentSubtitler':

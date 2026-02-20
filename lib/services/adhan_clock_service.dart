@@ -130,9 +130,9 @@ class AdhanClockService {
     _updateTimer?.cancel();
     _checkTimer?.cancel();
     
-    _updateTimer = Timer.periodic(const Duration(hours: 1), (timer) {
+    _updateTimer = Timer.periodic(const Duration(minutes: 1), (timer) {
       final now = DateTime.now();
-      if (now.hour == 0 && now.minute < 5) {
+      if (_prayerTimes == null || _prayerTimes!.fajr.day != now.day) {
         _calculatePrayerTimes();
       }
     });
