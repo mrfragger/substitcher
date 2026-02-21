@@ -2044,9 +2044,6 @@ class SidePanel extends StatelessWidget {
           _buildSubCategoryButton('Various', null, studio: FontCategory.various),
           _buildSubCategoryButton('UPPERCASE', FontCategory.uppercase),
           _buildSubCategoryButton('MustBeUPPERCASE', FontCategory.mustBeUppercase),
-          if (selectedSubCategory == FontCategory.mustBeUppercase) ...[
-            _buildStudioButton('Putracetol', FontCategory.putracetol),
-          ],
           _buildSubCategoryButton('sEeSaWcAsE', FontCategory.seesawcase),
         ],
         const Divider(color: Colors.white24),
@@ -2070,6 +2067,7 @@ class SidePanel extends StatelessWidget {
           _buildSubCategoryButton('MustBeUPPERCASE', FontCategory.mustBeUppercase),
           if (selectedSubCategory == FontCategory.mustBeUppercase) ...[
             _buildStudioButton('177studio', FontCategory.studio177),
+            _buildStudioButton('Putracetol', FontCategory.putracetol),
           ],
         ],
         const Divider(color: Colors.white24),

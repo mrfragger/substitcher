@@ -110,25 +110,16 @@ class FontDatabase {
     'Therilo Extra Bold': FontMetadata(fontName: 'Therilo Extra Bold', mainCategory: FontCategory.demo123, subCategories: [FontCategory.uppercase], studio: null),
 
     // ==================== demo123/MustBeUPPERCASE ====================
-    'Funny Alfredo': FontMetadata(fontName: 'Funny Alfredo', mainCategory: FontCategory.demo123, subCategories: [FontCategory.mustBeUppercase], studio: null),
+    'Mankey Caimel': FontMetadata(fontName: 'Mankey Caimel', mainCategory: FontCategory.demo123, subCategories: [FontCategory.mustBeUppercase, FontCategory.ligatures], studio: null),
     'Kolton Monica': FontMetadata(fontName: 'Kolton Monica', mainCategory: FontCategory.demo123, subCategories: [FontCategory.mustBeUppercase], studio: null),
     'Nugotha': FontMetadata(fontName: 'Nugotha', mainCategory: FontCategory.demo123, subCategories: [FontCategory.mustBeUppercase], studio: null),
-    'Play Sundae': FontMetadata(fontName: 'Play Sundae', mainCategory: FontCategory.demo123, subCategories: [FontCategory.mustBeUppercase], studio: null),
     'Spok Creps': FontMetadata(fontName: 'Spok Creps', mainCategory: FontCategory.demo123, subCategories: [FontCategory.mustBeUppercase], studio:  FontCategory.erifqizefont123),
     'Reghka': FontMetadata(fontName: 'Reghka', mainCategory: FontCategory.demo123, subCategories: [FontCategory.mustBeUppercase], studio: null),
     'Robocode': FontMetadata(fontName: 'Robocode', mainCategory: FontCategory.demo123, subCategories: [FontCategory.mustBeUppercase], studio: null),
 
-    // ==================== demo123/MustBeUPPERCASE/ligatures ====================
-    'Hametgu': FontMetadata(fontName: 'Hametgu', mainCategory: FontCategory.demo123, subCategories: [FontCategory.mustBeUppercase, FontCategory.ligatures], studio: null),
-    'Mankey Caimel': FontMetadata(fontName: 'Mankey Caimel', mainCategory: FontCategory.demo123, subCategories: [FontCategory.mustBeUppercase, FontCategory.ligatures], studio: null),
 
-    // ==================== demo123/MustBeUPPERCASE/Putracetol ====================
-    'Chubby Elephant': FontMetadata(fontName: 'Chubby Elephant', mainCategory: FontCategory.demo123, subCategories: [FontCategory.mustBeUppercase], studio: FontCategory.putracetol),
-    'Laughing Kids': FontMetadata(fontName: 'Laughing Kids', mainCategory: FontCategory.demo123, subCategories: [FontCategory.mustBeUppercase], studio: FontCategory.putracetol),
-    'Okeffe': FontMetadata(fontName: 'Okeffe', mainCategory: FontCategory.demo123, subCategories: [FontCategory.mustBeUppercase], studio: FontCategory.putracetol),
-    'Tailor Craft': FontMetadata(fontName: 'Tailor Craft', mainCategory: FontCategory.demo123, subCategories: [FontCategory.mustBeUppercase], studio: FontCategory.putracetol),
-    'The Good Panther': FontMetadata(fontName: 'The Good Panther', mainCategory: FontCategory.demo123, subCategories: [FontCategory.mustBeUppercase], studio: FontCategory.putracetol),
-    'Urban Sketart': FontMetadata(fontName: 'Urban Sketart', mainCategory: FontCategory.demo123, subCategories: [FontCategory.mustBeUppercase], studio: FontCategory.putracetol),
+    // ==================== demo123/MustBeUPPERCASE/ligatures ====================
+
 
     // ==================== demo123/sEeSaWcAsE ====================
     'CF Bubblelock demo': FontMetadata(fontName: 'CF Bubblelock demo', mainCategory: FontCategory.demo123, subCategories: [FontCategory.seesawcase], studio: null),
@@ -213,7 +204,6 @@ class FontDatabase {
      'Lato': FontMetadata(fontName: 'Lato', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
      'Scheherazade New': FontMetadata(fontName: 'Scheherazade New', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
 
- 
      // ==================== demo/ligatures/Putracetol ====================
      'Alternoon': FontMetadata(fontName: 'Alternoon', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.putracetol),
      'Bagheria': FontMetadata(fontName: 'Bagheria', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.putracetol),
@@ -386,6 +376,21 @@ class FontDatabase {
      'Scenes Before demo': FontMetadata(fontName: 'Scenes Before demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.mustBeUppercase], studio: FontCategory.studio177),
      'Thrives Risence demo': FontMetadata(fontName: 'Thrives Risence demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.mustBeUppercase], studio: FontCategory.studio177),
      'Wonder Cosmos demo': FontMetadata(fontName: 'Wonder Cosmos demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.mustBeUppercase], studio: FontCategory.studio177),
+
+// ==================== demo/MustBeUPPERCASE/Putracetol ====================
+'Chubby Elephant': FontMetadata(fontName: 'Chubby Elephant', mainCategory: FontCategory.demo, subCategories: [FontCategory.mustBeUppercase], studio: FontCategory.putracetol),
+'Hametgu': FontMetadata(fontName: 'Hametgu', mainCategory: FontCategory.demo, subCategories: [FontCategory.mustBeUppercase, FontCategory.ligatures], studio: null),
+'Laughing Kids': FontMetadata(fontName: 'Laughing Kids', mainCategory: FontCategory.demo, subCategories: [FontCategory.mustBeUppercase], studio: FontCategory.putracetol),
+'Okeffe': FontMetadata(fontName: 'Okeffe', mainCategory: FontCategory.demo, subCategories: [FontCategory.mustBeUppercase], studio: FontCategory.putracetol),
+'Tailor Craft': FontMetadata(fontName: 'Tailor Craft', mainCategory: FontCategory.demo, subCategories: [FontCategory.mustBeUppercase], studio: FontCategory.putracetol),
+'The Good Panther': FontMetadata(fontName: 'The Good Panther', mainCategory: FontCategory.demo, subCategories: [FontCategory.mustBeUppercase], studio: FontCategory.putracetol),
+'Urban Sketart': FontMetadata(fontName: 'Urban Sketart', mainCategory: FontCategory.demo, subCategories: [FontCategory.mustBeUppercase], studio: FontCategory.putracetol),
+
+    // ==================== demo/MustBeUPPERCASE ====================
+'Funny Alfredo': FontMetadata(fontName: 'Funny Alfredo', mainCategory: FontCategory.demo, subCategories: [FontCategory.mustBeUppercase], studio: null),
+'Play Sundae': FontMetadata(fontName: 'Play Sundae', mainCategory: FontCategory.demo, subCategories: [FontCategory.mustBeUppercase], studio: null),
+
+
     };
    
    static FontMetadata? getMetadata(String fontName) => _fonts[fontName];
