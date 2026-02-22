@@ -1041,12 +1041,20 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         _updateWakelock();
         return;
       }
-      
+  
+      String content = await File(subtitlePath).readAsString();
+  
+      if (subtitlePath.toLowerCase().endsWith('.srt')) {
+        final vttPath = subtitlePath.replaceAll(RegExp(r'\.srt$', caseSensitive: false), '.vtt');
+        final converted = _convertSrtToVtt(content);
+        await File(vttPath).writeAsString(converted);
+        subtitlePath = vttPath;
+        content = converted;
+      }
+  
       setState(() {
         _subtitleFilePath = subtitlePath;
       });
-      
-      final content = await File(subtitlePath).readAsString();
       
       final originalCues = _parseVTT(content);
       setState(() {
