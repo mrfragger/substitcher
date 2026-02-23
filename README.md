@@ -21,7 +21,7 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 ![](images/encode.jpg)
 
 ### Transcribe
-- Transcribe with 30 second segements to reduce hallucination with whisper.cpp, keeps model in memory for entire chapter
+- Transcribe with 30 second segments to reduce hallucination with whisper.cpp, keeps model in memory for entire chapter
 - Repeats vtt to remove repeated words, capitalize pronouns, Islamic terms and honorifics
 - Auto-detect language
 - Automatically translate to English only from a foreign language if using whisper 2 models but not turbo 3
@@ -45,7 +45,9 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 - set default font, font size, font line spacing
 - apply default font, font size, font line spacing
 - left/right arrows advanced to prev/next subtitle
-- search foreign language subtitles 
+- use primary / secondary at same time, i.e. bilingual subs
+- search foreign language subtitles
+- blur shadow (uses 2x cpu usage) but dims it a bit
 
 ![](images/japanese.gif)
 
