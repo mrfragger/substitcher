@@ -47,7 +47,7 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 - left/right arrows advanced to prev/next subtitle
 - search foreign language subtitles 
 
-![](images/japanese.jpg)
+![](images/japanese.gif)
 
 ### Dictionary Lookup Words
 - d opens dictionary word overlay
