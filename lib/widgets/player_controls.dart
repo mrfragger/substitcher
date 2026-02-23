@@ -71,7 +71,8 @@ class PlayerControls extends StatelessWidget {
   final VoidCallback? onShowAudioStreams;
   final String? currentAudioFormat;
   final double shadowOffset;
-  final TextSpan Function(String text, {double? fontSize, String? fontFamily, ColorPalette? palette, double? lineSpacing, bool isStroke, bool useShadowColor}) buildColoredTextSpan;
+  final bool blurShadowEnabled;
+  final TextSpan Function(String text, {double? fontSize, String? fontFamily, ColorPalette? palette, double? lineSpacing, bool isStroke, bool useShadowColor, bool useBlurShadow}) buildColoredTextSpan;
   
   const PlayerControls({
     super.key,
@@ -128,6 +129,7 @@ class PlayerControls extends StatelessWidget {
     required this.onNextChapterHover,
     required this.onEditingMenuSelected,
     required this.shadowOffset,
+    required this.blurShadowEnabled,
     this.skipToPreviousSubtitle,
     this.skipToNextSubtitle,
     this.isYouTubeStream = false,
@@ -291,6 +293,7 @@ class PlayerControls extends StatelessWidget {
                             palette: secondaryColorPalette,
                             lineSpacing: secondarySubtitleLineSpacing,
                             isStroke: false,
+                            useBlurShadow: blurShadowEnabled,
                           ),
                         ),
                         if (secondaryColorPalette?.strokeColor != null)
@@ -360,6 +363,7 @@ class PlayerControls extends StatelessWidget {
                             currentSubtitleText,
                             lineSpacing: subtitleLineSpacing,
                             isStroke: false,
+                            useBlurShadow: blurShadowEnabled,
                           ),
                         ),
                         RichText(
@@ -554,6 +558,11 @@ class PlayerControls extends StatelessWidget {
                                 ),
                               ],
                               TextSpan(text: ' -${_formatDuration(audiobookRemaining)}'),
+                              if (blurShadowEnabled)
+                                const TextSpan(
+                                  text: ' blur',
+                                  style: TextStyle(color: Colors.orange),
+                                ),
                             ],
                           ),
                         ),
@@ -869,11 +878,18 @@ class PlayerControls extends StatelessWidget {
           itemBuilder: (context) => [
             const PopupMenuItem<String>(
               enabled: false,
-              child: Text('Font Line Space (Ctrl+↑/↓)'),
+              height: 30,
+              child: Text('Font Line Space (Ctrl+↑/↓)', style: TextStyle(fontSize: 12)),
             ),
             const PopupMenuItem<String>(
               enabled: false,
-              child: Text('Font Size (↑/↓)'),
+              height: 30,
+              child: Text('Font Size (↑/↓)', style: TextStyle(fontSize: 12)),
+            ),
+            const PopupMenuDivider(),
+            const PopupMenuItem(
+              value: 'useBlurShadow',
+              child: Text('Blur on/off 2x cpu (Ctrl+b)'),
             ),
             const PopupMenuItem(
               value: 'useBlackFont',

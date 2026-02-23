@@ -286,6 +286,8 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   Set<String> _favoriteColorPalettes = {};
   String _colorFilterMode = 'favorites';
 
+  bool _blurShadowEnabled = false;
+
   @override
   void initState() {
     super.initState();
@@ -3857,6 +3859,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     double? lineSpacing,
     bool isStroke = false,
     bool useShadowColor = false,
+    bool useBlurShadow = false,
   }) {
     final baseFontSize = fontSize ?? _subtitleFontSize;
     final effectiveFont = fontFamily ?? (_selectedFont == 'System Default' ? null : _selectedFont);
@@ -3893,7 +3896,20 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           height: effectiveLineSpacing,
           fontFamily: effectiveFont,
           fontFamilyFallback: fontFamilyFallback,
-          shadows: [],
+          shadows: (!isStroke && !useShadowColor && useBlurShadow)
+              ? [
+                  Shadow(
+                    color: Colors.black.withValues(alpha: 0.85),
+                    blurRadius: 8,
+                    offset: const Offset(2, 2),
+                  ),
+                  Shadow(
+                    color: Colors.black.withValues(alpha: 0.5),
+                    blurRadius: 16,
+                    offset: Offset.zero,
+                  ),
+                ]
+              : [],
         ),
       );
     }
@@ -3931,7 +3947,20 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           height: effectiveLineSpacing,
           fontFamily: effectiveFont,
           fontFamilyFallback: fontFamilyFallback,
-          shadows: [],
+          shadows: (!isStroke && !useShadowColor && useBlurShadow)
+              ? [
+                  Shadow(
+                    color: Colors.black.withValues(alpha: 0.85),
+                    blurRadius: 8,
+                    offset: const Offset(2, 2),
+                  ),
+                  Shadow(
+                    color: Colors.black.withValues(alpha: 0.5),
+                    blurRadius: 16,
+                    offset: Offset.zero,
+                  ),
+                ]
+              : [],
         ),
       );
     }
@@ -3949,6 +3978,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         effectiveLineSpacing,
         isStroke,
         useShadowColor,
+        useBlurShadow,
       );
     }
     
@@ -3963,6 +3993,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         effectiveLineSpacing,
         isStroke,
         useShadowColor,
+        useBlurShadow,
       );
     }
     
@@ -3979,6 +4010,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         effectiveLineSpacing,
         isStroke,
         useShadowColor,
+        useBlurShadow,
       );
     }
     
@@ -4027,7 +4059,20 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           height: effectiveLineSpacing,
           fontFamily: effectiveFont,
           fontFamilyFallback: fontFamilyFallback,
-          shadows: [],
+          shadows: (!isStroke && !useShadowColor && useBlurShadow)
+              ? [
+                  Shadow(
+                    color: Colors.black.withValues(alpha: 0.85),
+                    blurRadius: 8,
+                    offset: const Offset(2, 2),
+                  ),
+                  Shadow(
+                    color: Colors.black.withValues(alpha: 0.5),
+                    blurRadius: 16,
+                    offset: Offset.zero,
+                  ),
+                ]
+              : [],
         ),
       ));
       
@@ -4080,6 +4125,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     double lineSpacing,
     bool isStroke,
     bool useShadowColor,
+    bool useBlurShadow,
   ) {
     const double strokeWidth = _universalStrokeWidth;
     
@@ -4163,7 +4209,20 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               height: lineSpacing,
               fontFamily: fontFamily,
               fontFamilyFallback: fontFamilyFallback,
-              shadows: [],
+              shadows: (!isStroke && !useShadowColor && useBlurShadow)
+                  ? [
+                      Shadow(
+                        color: Colors.black.withValues(alpha: 0.85),
+                        blurRadius: 8,
+                        offset: const Offset(2, 2),
+                      ),
+                      Shadow(
+                        color: Colors.black.withValues(alpha: 0.5),
+                        blurRadius: 16,
+                        offset: Offset.zero,
+                      ),
+                    ]
+                  : [],
             ),
           ));
           wordIndex++;
@@ -4211,7 +4270,20 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               height: lineSpacing,
               fontFamily: fontFamily,
               fontFamilyFallback: fontFamilyFallback,
-              shadows: [],
+              shadows: (!isStroke && !useShadowColor && useBlurShadow)
+                  ? [
+                      Shadow(
+                        color: Colors.black.withValues(alpha: 0.85),
+                        blurRadius: 8,
+                        offset: const Offset(2, 2),
+                      ),
+                      Shadow(
+                        color: Colors.black.withValues(alpha: 0.5),
+                        blurRadius: 16,
+                        offset: Offset.zero,
+                      ),
+                    ]
+                  : [],
             ),
           ));
           
@@ -4244,6 +4316,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     double lineSpacing,
     bool isStroke,
     bool useShadowColor,
+    bool useBlurShadow,
   ) {
     const double strokeWidth = _universalStrokeWidth;
     
@@ -4296,7 +4369,20 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           height: lineSpacing,
           fontFamily: fontFamily,
           fontFamilyFallback: fontFamilyFallback,
-          shadows: [],
+          shadows: (!isStroke && !useShadowColor && useBlurShadow)
+              ? [
+                  Shadow(
+                    color: Colors.black.withValues(alpha: 0.85),
+                    blurRadius: 8,
+                    offset: const Offset(2, 2),
+                  ),
+                  Shadow(
+                    color: Colors.black.withValues(alpha: 0.5),
+                    blurRadius: 16,
+                    offset: Offset.zero,
+                  ),
+                ]
+              : [],
         ),
       ));
     }
@@ -4313,6 +4399,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     double lineSpacing,
     bool isStroke,
     bool useShadowColor,
+    bool useBlurShadow,
   ) {
     const double strokeWidth = _universalStrokeWidth;
     
@@ -4359,7 +4446,20 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           height: lineSpacing,
           fontFamily: fontFamily,
           fontFamilyFallback: fontFamilyFallback,
-          shadows: [],
+          shadows: (!isStroke && !useShadowColor && useBlurShadow)
+              ? [
+                  Shadow(
+                    color: Colors.black.withValues(alpha: 0.85),
+                    blurRadius: 8,
+                    offset: const Offset(2, 2),
+                  ),
+                  Shadow(
+                    color: Colors.black.withValues(alpha: 0.5),
+                    blurRadius: 16,
+                    offset: Offset.zero,
+                  ),
+                ]
+              : [],
         ),
       ));
       wordIndex++;
@@ -5502,26 +5602,34 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             _scrollToCurrentPlaylistItem();
             return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyB && 
-                     HardwareKeyboard.instance.isShiftPressed) {
-            if (event is KeyDownEvent) {
-              setState(() {
-                _fontColorOverride = switch (_fontColorOverride) {
-                  FontColorOverride.none => FontColorOverride.black,
-                  FontColorOverride.black => FontColorOverride.white,
-                  FontColorOverride.white => FontColorOverride.none,
-                };
-              });
-            }
-            return KeyEventResult.handled;
-          } else if (event.logicalKey == LogicalKeyboardKey.keyB) {
-            if (event is KeyDownEvent) {
-              setState(() {
-                _showPanel = true;
-                _panelMode = PanelMode.bookmarks;
-              });
-              _scrollToTopOfHistory();
-            }
-            return KeyEventResult.handled;
+                               HardwareKeyboard.instance.isShiftPressed) {
+                      if (event is KeyDownEvent) {
+                        setState(() {
+                          _fontColorOverride = switch (_fontColorOverride) {
+                            FontColorOverride.none => FontColorOverride.black,
+                            FontColorOverride.black => FontColorOverride.white,
+                            FontColorOverride.white => FontColorOverride.none,
+                          };
+                        });
+                      }
+                      return KeyEventResult.handled;
+                    } else if (event.logicalKey == LogicalKeyboardKey.keyB && 
+                               HardwareKeyboard.instance.isControlPressed) {
+                      if (event is KeyDownEvent) {
+                        setState(() {
+                          _blurShadowEnabled = !_blurShadowEnabled;
+                        });
+                        }
+                      return KeyEventResult.handled;
+                    } else if (event.logicalKey == LogicalKeyboardKey.keyB) {
+                      if (event is KeyDownEvent) {
+                        setState(() {
+                          _showPanel = true;
+                          _panelMode = PanelMode.bookmarks;
+                        });
+                        _scrollToTopOfHistory();
+                      }
+                      return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyF && 
                       HardwareKeyboard.instance.isShiftPressed && event is KeyDownEvent) {
             _addFontToFavorites(_selectedFont);
@@ -6643,6 +6751,11 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               _hideChapterTitle = !_hideChapterTitle;
             });
             break;
+          case 'useBlurShadow':
+             setState(() {
+               _blurShadowEnabled = !_blurShadowEnabled;
+             });
+             break;
           case 'useBlackFont':
             setState(() {
               _fontColorOverride = switch (_fontColorOverride) {
@@ -6652,7 +6765,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               };
             });
             break;
-          case 'copyCurrentSubtitler':
+          case 'copyCurrentSubtitle':
             _copyCurrentSubtitle();
             break;
           case 'subtitle_manager':
@@ -6701,6 +6814,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       onJumpToChapter: _jumpToChapter,
       buildColoredTextSpan: _buildColoredTextSpan,
       shadowOffset: _universalShadowOffset,
+      blurShadowEnabled: _blurShadowEnabled,
       isYouTubeStream: _isYouTubeStream,
       youtubeTitle: _youtubeTitle,
       youtubeChannelName: _youtubeChannelName,
