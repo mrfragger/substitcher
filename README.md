@@ -77,6 +77,7 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 - x swap top and bottom subtitles
 - set font and color for 'active subtitle' which is the bottom one
 - set font and color for each one top and bottom 
+- converts srt to vtt automatically
 
 ![](images/bilingualsubs.jpg)
 
