@@ -2,7 +2,7 @@
 
 Opus chaptered audiobook player, encoder and editor with colored subtitles and fancy fonts. Transcribe to vtt subtitles, search through all Chapters, History, Playlist, Bookmarks, Fonts, Colors, Words, Subs, Stats. Dictionary word lookup. Mac (dmg or homebrew), Linux (appimage, AUR, flatpak), Windows (zip), Android
 
-![](images/audiobook.jpg)
+![](images/audiobook.gif)
 
 ### Encoding opus Chaptered Audiobooks
 - Encode 16kbps audiobooks which is 4x/6x/8x smaller than 64/96/128kbps
