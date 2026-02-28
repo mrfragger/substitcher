@@ -76,7 +76,6 @@ class PlayerControls extends StatelessWidget {
   final bool hideTitle;
   final String? videoResolution;
   final double? videoFps;
-  final String? selectedLutName;
   final TextSpan Function(String text, {double? fontSize, String? fontFamily, ColorPalette? palette, double? lineSpacing, bool isStroke, bool useShadowColor, bool useBlurShadow}) buildColoredTextSpan;
   
   const PlayerControls({
@@ -138,7 +137,6 @@ class PlayerControls extends StatelessWidget {
     required this.isVideoFile,
     required this. videoResolution,
     required this.videoFps,
-    required this.selectedLutName,
     this.hideTitle = false,
     this.skipToPreviousSubtitle,
     this.skipToNextSubtitle,
@@ -556,12 +554,6 @@ class PlayerControls extends StatelessWidget {
                                TextSpan(text: '$currentAudioFormat • '),
                              if (pauseMode != PauseMode.disabled && pauseMode != PauseMode.dictionary)
                                TextSpan(text: '${_getPauseModeText(pauseMode)} • '),
-                            if (selectedLutName != null) ...[
-                              TextSpan(
-                                text: '$selectedLutName ',
-                                style: const TextStyle(color: Colors.white),
-                              ),
-                            ],
                             if (videoResolution != null) ...[
                               TextSpan(
                                 text: '$videoResolution ',
@@ -1080,11 +1072,10 @@ class PlayerControls extends StatelessWidget {
             onSelected: (value) => onEditingMenuSelected(context, value),
             itemBuilder: (context) => [
               const PopupMenuItem(value: 'set_in', child: Text('Set In Point ( i )')),
-              const PopupMenuItem(value: 'set_in_last_out', child: Text('Set In Point to Last Out Point ( ⇧i )')),
               const PopupMenuItem(value: 'set_out', child: Text('Set Out Point ( o )')),
-              const PopupMenuDivider(),
+              const PopupMenuItem(value: 'set_in_last_out', child: Text('Set In Point to Last Out Point ( ⇧i )')),
+              const PopupMenuItem(value: 'handleBlurCycle', child: Text('Blur Regions ( - )')),
               const PopupMenuItem(value: 'combine_cuts', child: Text('All Cuts Combine → Encode  ( ⇧A )')),
-              const PopupMenuDivider(),
               const PopupMenuItem(value: 'seek_back_1s', child: Text('Back 1s ( j )')),
               const PopupMenuItem(value: 'seek_forward_1s', child: Text('Forward 1s ( k )')),
               const PopupMenuItem(value: 'replay_back', child: Text('Back 1 Frame ( , )')),

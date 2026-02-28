@@ -10,6 +10,7 @@ import 'package:flutter/foundation.dart' show compute;
 import 'package:wakelock_plus/wakelock_plus.dart';
 import 'dart:async';
 import 'dart:io';
+import 'dart:ui';
 import 'dart:convert';
 import 'dart:math';
 import 'metadata_editor_screen.dart';
@@ -24,7 +25,6 @@ import '../models/bookmark.dart';
 import '../models/subtitle_cue.dart';
 import '../models/pause_mode.dart';
 import '../models/subtitle_preferences.dart';
-import '../models/lut_item.dart';
 import '../services/cjk_tokenizer.dart';
 import '../services/ffmpeg_service.dart';
 import '../services/font_loader.dart';
@@ -38,7 +38,6 @@ import '../services/stats_manager.dart';
 import '../services/adhan_clock_service.dart';
 import '../services/youtube_service.dart';
 import '../services/video_edit_service.dart';
-import '../services/lut_manager.dart';
 import '../widgets/adhan_clock_overlay.dart';
 import '../widgets/subtitle_manager_dialog.dart';
 import '../widgets/side_panel.dart';
@@ -283,6 +282,14 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   Duration? _inPoint;
   Duration? _outPoint;
   Duration? _lastOutPoint;
+
+  List<BlurRegion> _blurRegions = [];
+  bool _blurDrawMode = false;
+  Offset? _blurDragStart;
+  Offset? _blurDragCurrent;
+  final GlobalKey _videoStackKey = GlobalKey();
+
+
   bool _isLoadingAudioStreams = false;
   DateTime? _lastAudioStreamFetch;
   String? _currentAudioFormat;
@@ -314,17 +321,12 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   DateTime? _combineStartTime;
   DateTime? _combineFinishTime;
   Process? _combineProcess;
+  EncodeSettings? _lastEncodeSettings;
 
   String? _videoResolution;
   double? _videoFps;
-
-  String? _selectedLutPath;
-  String? _selectedLutName;
-  Set<String> _favoriteLuts = {};
-  String _lutFilterMode = 'all';
-  bool _showingLuts = false;
-  int _selectedLutIndex = -1;
   
+
   @override
   void initState() {
     super.initState();
@@ -363,7 +365,6 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     _loadBookmarks();
     _loadFavoriteFonts();
     _loadFavoriteColorPalettes();
-    _loadFavoriteLuts();
     _loadSkipTrackingTerms();
     _startCacheFlushTimer();
     WidgetsBinding.instance.addPostFrameCallback((_) {
@@ -1212,14 +1213,6 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     return palettes.where((palette) {
       return _matchesSearch(palette.name, _searchQuery, excludeList);
     }).toList();
-  }
-
-  List<LutItem> _getFilteredLuts() {
-    final all = LutManager().availableLuts;
-    if (_lutFilterMode == 'favorites') {
-      return all.where((l) => _favoriteLuts.contains(l.displayName)).toList();
-    }
-    return all;
   }
 
   void _setSleepTimer(Duration? duration) {
@@ -3057,45 +3050,6 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       ScaffoldMessenger.of(context).showSnackBar(
         SnackBar(
           content: Text('Removed "$fontName" from favorites'),
-          duration: const Duration(seconds: 2),
-        ),
-      );
-    }
-  }
-
-  Future<void> _loadFavoriteLuts() async {
-    final prefs = await SharedPreferences.getInstance();
-    setState(() {
-      _favoriteLuts = (prefs.getStringList('favoriteLuts') ?? []).toSet();
-    });
-  }
-  
-  Future<void> _addLutToFavorites(String lutName) async {
-    setState(() {
-      _favoriteLuts.add(lutName);
-    });
-    final prefs = await SharedPreferences.getInstance();
-    await prefs.setStringList('favoriteLuts', _favoriteLuts.toList());
-    if (mounted) {
-      ScaffoldMessenger.of(context).showSnackBar(
-        SnackBar(
-          content: Text('Added "$lutName" to favorites'),
-          duration: const Duration(seconds: 2),
-        ),
-      );
-    }
-  }
-  
-  Future<void> _removeLutFromFavorites(String lutName) async {
-    setState(() {
-      _favoriteLuts.remove(lutName);
-    });
-    final prefs = await SharedPreferences.getInstance();
-    await prefs.setStringList('favoriteLuts', _favoriteLuts.toList());
-    if (mounted) {
-      ScaffoldMessenger.of(context).showSnackBar(
-        SnackBar(
-          content: Text('Removed "$lutName" from favorites'),
           duration: const Duration(seconds: 2),
         ),
       );
@@ -5558,6 +5512,9 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       case 'set_out':
         _setOutPoint();
         break;
+      case 'handleBlurCycle':
+        _handleBlurCycle();
+        break;
       case 'set_in_last_out':
         _setInPointToLastOutPoint();
         break;
@@ -5677,7 +5634,9 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           start: _inPoint!,
           end: outPoint,
           cutCodec: _selectedCutCodec,
-          lutPath: _selectedLutPath,
+          blurRegions: _blurRegions,
+          videoWidth: int.tryParse(_videoResolution?.split('x').firstOrNull ?? '1920') ?? 1920,
+          videoHeight: int.tryParse(_videoResolution?.split('x').lastOrNull ?? '1080') ?? 1080,
           onProgress: (msg) {
             print(msg);
             if (mounted && msg.startsWith('Cut complete')) {
@@ -5691,13 +5650,15 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             }
           },
         );
-        
+      
         setState(() {
           _lastOutPoint = _outPoint ?? _currentPosition;
           _inPoint = null;
           _outPoint = null;
+          _blurRegions = [];
+          _blurDrawMode = false;
         });
-        
+      
       } catch (e) {
         if (mounted) {
           ScaffoldMessenger.of(context).showSnackBar(
@@ -5711,7 +5672,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       } finally {
         if (mounted) setState(() => _isCutting = false);
       }
-    }
+  }
 
   Future<void> _combineAllCuts() async {
     _combineVideoCuts();
@@ -5795,6 +5756,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   
       setState(() {
         _showCutsOverlay = false;
+        _lastEncodeSettings = settings;
         _isCombining = true;
         _combineCancelled = false;
         _combineProgress = 0.0;
@@ -5982,6 +5944,25 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           }
   
           if (event.logicalKey == LogicalKeyboardKey.escape && event is KeyDownEvent) {
+            if (_blurDrawMode) {
+              setState(() {
+                _blurDrawMode = false;
+                _blurDragStart = null;
+                _blurDragCurrent = null;
+              });
+              _focusNode.requestFocus();
+              return KeyEventResult.handled;
+            }
+            if (_inPoint != null && _isVideoFile) {
+              setState(() => _inPoint = null);
+              ScaffoldMessenger.of(context).showSnackBar(
+                const SnackBar(
+                  content: Text('In point cleared'),
+                  duration: Duration(seconds: 2),
+                ),
+              );
+              return KeyEventResult.handled;
+            }
             if (_showSleepTimerCountdown) {
               _cancelSleepTimerCountdown();
               return KeyEventResult.handled;
@@ -6094,13 +6075,6 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               _showPanel = true;
               _panelMode = PanelMode.subs;
             });
-            return KeyEventResult.handled;
-          } else if (event.logicalKey == LogicalKeyboardKey.keyT &&
-              event is KeyDownEvent &&
-              HardwareKeyboard.instance.isShiftPressed) {
-            if (_selectedLutName != null) {
-              _addLutToFavorites(_selectedLutName!);
-            }
             return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyT && event is KeyDownEvent) {
             setState(() {
@@ -6230,6 +6204,12 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                     } else if (event.logicalKey == LogicalKeyboardKey.keyA && event is KeyDownEvent) {
                       _applyDefaultSettings();
                       return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.minus && event is KeyDownEvent) {
+            print('minus pressed — isVideoFile: $_isVideoFile, videoEditingMode: $_videoEditingMode');
+            if (_isVideoFile) {
+              _handleBlurCycle();
+              return KeyEventResult.handled;
+            }
           } else if (event.logicalKey == LogicalKeyboardKey.space) {
             _togglePlayPause();
             return KeyEventResult.handled;
@@ -6286,9 +6266,6 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               return KeyEventResult.handled;
             } else if (HardwareKeyboard.instance.isShiftPressed) {
               return KeyEventResult.ignored;
-            } else if (_showPanel && _panelMode == PanelMode.colors && _showingLuts) {
-              _navigateLuts(-1);
-              return KeyEventResult.handled;
             } else if (_showPanel && _panelMode == PanelMode.colors) {
               _navigateColors(-1);
               return KeyEventResult.handled;
@@ -6308,9 +6285,6 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               return KeyEventResult.handled;
             } else if (HardwareKeyboard.instance.isShiftPressed) {
               return KeyEventResult.ignored;
-            } else if (_showPanel && _panelMode == PanelMode.colors && _showingLuts) {
-              _navigateLuts(1);
-              return KeyEventResult.handled;
             } else if (_showPanel && _panelMode == PanelMode.colors) {
               _navigateColors(1);
               return KeyEventResult.handled;
@@ -6626,6 +6600,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                   step: _combineStep,
                   startTime: _combineStartTime,
                   finishTime: _combineFinishTime,
+                  encodeSettings: _lastEncodeSettings,
                   onCancel: _isCombining ? () {
                         setState(() => _combineCancelled = true);
                       } : null,
@@ -6857,24 +6832,6 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                   favoriteColorPalettes: _favoriteColorPalettes,
                   onRemoveColorPaletteFavorite: _removeColorPaletteFromFavorites,
                   onAddColorPaletteFavorite: _addColorPaletteToFavorites,
-
-                  showingLuts: _showingLuts,
-                  lutFilterMode: _lutFilterMode,
-                  onToggleLutMode: (val) => setState(() => _showingLuts = val),
-                  onLutFilterChanged: (mode) => setState(() => _lutFilterMode = mode),
-                  getFilteredLuts: _getFilteredLuts,
-                  onLutSelected: (lut, index) {
-                    setState(() {
-                      _selectedLutIndex = index;
-                      _selectedLutPath = index == -1 ? null : lut.path;
-                      _selectedLutName = index == -1 ? null : lut.displayName;
-                    });
-                  },
-                  selectedLutIndex: _selectedLutIndex,
-                  favoriteLuts: _favoriteLuts,
-                  onAddLutFavorite: _addLutToFavorites,
-                  onRemoveLutFavorite: _removeLutFromFavorites,
-                  availableLuts: LutManager().availableLuts,
                   
                   frequencyItems: _frequencyItems,
                   isAnalyzingFrequencies: _isAnalyzingFrequencies,
@@ -7101,25 +7058,6 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     _scrollToSelectedColor();
   }
 
-  void _navigateLuts(int direction) {
-    final luts = _getFilteredLuts();
-    if (luts.isEmpty) return;
-  
-    final currentFiltered = _selectedLutIndex == -1
-        ? -1
-        : luts.indexWhere((l) => LutManager().availableLuts.indexWhere((a) => a.path == l.path) == _selectedLutIndex);
-  
-    final nextFiltered = (currentFiltered + direction).clamp(0, luts.length - 1);
-    final lut = luts[nextFiltered];
-    final actualIndex = LutManager().availableLuts.indexWhere((l) => l.path == lut.path);
-  
-    setState(() {
-      _selectedLutIndex = actualIndex;
-      _selectedLutPath = lut.path;
-      _selectedLutName = lut.displayName;
-    });
-  }
-
   void _scrollToSelectedColor() {
     if (!_colorScrollController.hasClients) return;
     final filteredColors = _getFilteredColors();
@@ -7196,108 +7134,113 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             ),
           ),
           Expanded(
-            child: Stack(
-              children: [
-                Video(
-                  controller: _videoController,
-                  fit: BoxFit.contain,
-                  controls: NoVideoControls,
-                ),
-                if (_secondarySubtitleText.isNotEmpty)
-                  Positioned(
-                    bottom: 80,
-                    left: 32,
-                    right: 32,
-                    child: Center(
-                      child: Container(
-                        padding: const EdgeInsets.all(12),
-                        child: Stack(
+                      child: LayoutBuilder(
+                        builder: (context, constraints) => Stack(
                           children: [
-                            if (_secondaryColorPalette?.strokeColor != null)
-                              Transform.translate(
-                                offset: Offset(_universalShadowOffset, _universalShadowOffset),
-                                child: RichText(
-                                  textAlign: TextAlign.center,
-                                  text: _buildColoredTextSpan(_secondarySubtitleText,
-                                    fontSize: _secondarySubtitleFontSize,
-                                    fontFamily: _secondarySubtitleFont,
-                                    palette: _secondaryColorPalette,
-                                    lineSpacing: _secondarySubtitleLineSpacing,
-                                    isStroke: true, useShadowColor: true),
+                            Video(
+                              controller: _videoController,
+                              fit: BoxFit.contain,
+                              controls: NoVideoControls,
+                            ),
+                            if (_secondarySubtitleText.isNotEmpty)
+                              Positioned(
+                                bottom: 80,
+                                left: 32,
+                                right: 32,
+                                child: Center(
+                                  child: Container(
+                                    padding: const EdgeInsets.all(12),
+                                    child: Stack(
+                                      children: [
+                                        if (_secondaryColorPalette?.strokeColor != null)
+                                          Transform.translate(
+                                            offset: Offset(_universalShadowOffset, _universalShadowOffset),
+                                            child: RichText(
+                                              textAlign: TextAlign.center,
+                                              text: _buildColoredTextSpan(_secondarySubtitleText,
+                                                fontSize: _secondarySubtitleFontSize,
+                                                fontFamily: _secondarySubtitleFont,
+                                                palette: _secondaryColorPalette,
+                                                lineSpacing: _secondarySubtitleLineSpacing,
+                                                isStroke: true, useShadowColor: true),
+                                            ),
+                                          ),
+                                        RichText(
+                                          textAlign: TextAlign.center,
+                                          text: _buildColoredTextSpan(_secondarySubtitleText,
+                                            fontSize: _secondarySubtitleFontSize,
+                                            fontFamily: _secondarySubtitleFont,
+                                            palette: _secondaryColorPalette,
+                                            lineSpacing: _secondarySubtitleLineSpacing,
+                                            isStroke: false, useBlurShadow: _blurShadowEnabled),
+                                        ),
+                                        if (_secondaryColorPalette?.strokeColor != null)
+                                          RichText(
+                                            textAlign: TextAlign.center,
+                                            text: _buildColoredTextSpan(_secondarySubtitleText,
+                                              fontSize: _secondarySubtitleFontSize,
+                                              fontFamily: _secondarySubtitleFont,
+                                              palette: _secondaryColorPalette,
+                                              lineSpacing: _secondarySubtitleLineSpacing,
+                                              isStroke: true),
+                                          ),
+                                      ],
+                                    ),
+                                  ),
                                 ),
                               ),
-                            RichText(
-                              textAlign: TextAlign.center,
-                              text: _buildColoredTextSpan(_secondarySubtitleText,
-                                fontSize: _secondarySubtitleFontSize,
-                                fontFamily: _secondarySubtitleFont,
-                                palette: _secondaryColorPalette,
-                                lineSpacing: _secondarySubtitleLineSpacing,
-                                isStroke: false, useBlurShadow: _blurShadowEnabled),
-                            ),
-                            if (_secondaryColorPalette?.strokeColor != null)
-                              RichText(
-                                textAlign: TextAlign.center,
-                                text: _buildColoredTextSpan(_secondarySubtitleText,
-                                  fontSize: _secondarySubtitleFontSize,
-                                  fontFamily: _secondarySubtitleFont,
-                                  palette: _secondaryColorPalette,
-                                  lineSpacing: _secondarySubtitleLineSpacing,
-                                  isStroke: true),
+                            if (_currentSubtitleText.isNotEmpty)
+                              Positioned(
+                                bottom: 16,
+                                left: 32,
+                                right: 32,
+                                child: Center(
+                                  child: Container(
+                                    padding: const EdgeInsets.all(16),
+                                    child: Stack(
+                                      children: [
+                                        Transform.translate(
+                                          offset: Offset(_universalShadowOffset, _universalShadowOffset),
+                                          child: RichText(
+                                            textAlign: TextAlign.center,
+                                            text: _buildColoredTextSpan(_currentSubtitleText,
+                                              lineSpacing: _subtitleLineSpacing,
+                                              isStroke: true, useShadowColor: true),
+                                          ),
+                                        ),
+                                        Transform.translate(
+                                          offset: Offset(_universalShadowOffset, _universalShadowOffset),
+                                          child: RichText(
+                                            textAlign: TextAlign.center,
+                                            text: _buildColoredTextSpan(_currentSubtitleText,
+                                              lineSpacing: _subtitleLineSpacing,
+                                              isStroke: false, useShadowColor: true),
+                                          ),
+                                        ),
+                                        RichText(
+                                          textAlign: TextAlign.center,
+                                          text: _buildColoredTextSpan(_currentSubtitleText,
+                                            lineSpacing: _subtitleLineSpacing,
+                                            isStroke: false, useBlurShadow: _blurShadowEnabled),
+                                        ),
+                                        RichText(
+                                          textAlign: TextAlign.center,
+                                          text: _buildColoredTextSpan(_currentSubtitleText,
+                                            lineSpacing: _subtitleLineSpacing,
+                                            isStroke: true),
+                                        ),
+                                      ],
+                                    ),
+                                  ),
+                                ),
                               ),
+          
+                            if (_isVideoFile)
+                              _buildBlurOverlay(constraints),
                           ],
                         ),
                       ),
                     ),
-                  ),
-                if (_currentSubtitleText.isNotEmpty)
-                  Positioned(
-                    bottom: 16,
-                    left: 32,
-                    right: 32,
-                    child: Center(
-                      child: Container(
-                        padding: const EdgeInsets.all(16),
-                        child: Stack(
-                          children: [
-                            Transform.translate(
-                              offset: Offset(_universalShadowOffset, _universalShadowOffset),
-                              child: RichText(
-                                textAlign: TextAlign.center,
-                                text: _buildColoredTextSpan(_currentSubtitleText,
-                                  lineSpacing: _subtitleLineSpacing,
-                                  isStroke: true, useShadowColor: true),
-                              ),
-                            ),
-                            Transform.translate(
-                              offset: Offset(_universalShadowOffset, _universalShadowOffset),
-                              child: RichText(
-                                textAlign: TextAlign.center,
-                                text: _buildColoredTextSpan(_currentSubtitleText,
-                                  lineSpacing: _subtitleLineSpacing,
-                                  isStroke: false, useShadowColor: true),
-                              ),
-                            ),
-                            RichText(
-                              textAlign: TextAlign.center,
-                              text: _buildColoredTextSpan(_currentSubtitleText,
-                                lineSpacing: _subtitleLineSpacing,
-                                isStroke: false, useBlurShadow: _blurShadowEnabled),
-                            ),
-                            RichText(
-                              textAlign: TextAlign.center,
-                              text: _buildColoredTextSpan(_currentSubtitleText,
-                                lineSpacing: _subtitleLineSpacing,
-                                isStroke: true),
-                            ),
-                          ],
-                        ),
-                      ),
-                    ),
-                  ),
-              ],
-            ),
-          ),
           PlayerControls(
             hideTitle: true,
             audiobook: _currentAudiobook ?? AudiobookMetadata(
@@ -7315,7 +7258,6 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             playbackSpeed: _playbackSpeed,
             videoResolution: _videoResolution,
             videoFps: _videoFps,
-            selectedLutName: _selectedLutName,
             fileSize: _fileSize,
             averageBitrate: _averageBitrate,
             shuffleEnabled: _shuffleEnabled,
@@ -7570,7 +7512,6 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       subtitleFontSize: _subtitleFontSize,
       videoResolution: _videoResolution,
       videoFps: _videoFps,
-      selectedLutName: _selectedLutName,
       subtitleLineSpacing: _subtitleLineSpacing,
       secondarySubtitleText: _secondarySubtitleText,
       secondarySubtitleFontSize: _secondarySubtitleFontSize,
@@ -8495,6 +8436,176 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       await player.pause();
       await player.seek(subtitleEndTime);
     });
+  }
+
+  void _handleBlurCycle() {
+    if (_blurDrawMode) return;
+  
+    if (_blurRegions.isEmpty) {
+      setState(() => _blurDrawMode = true);
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(
+          content: Text('Draw blur region — click to starting point'),
+          duration: Duration(seconds: 3),
+          backgroundColor: Colors.deepPurple,
+        ),
+      );
+    } else if (_blurRegions.length == 1) {
+      setState(() => _blurDrawMode = true);
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(
+          content: Text('Draw second blur region — or press - again to clear all'),
+          duration: Duration(seconds: 3),
+          backgroundColor: Colors.deepPurple,
+        ),
+      );
+    } else {
+      setState(() {
+        _blurRegions = [];
+        _blurDrawMode = false;
+        _blurDragStart = null;
+        _blurDragCurrent = null;
+      });
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(
+          content: Text('Blur regions cleared'),
+          duration: Duration(seconds: 2),
+        ),
+      );
+    }
+  }
+
+  Widget _buildBlurOverlay(BoxConstraints constraints) {
+    final w = constraints.maxWidth;
+    final h = constraints.maxHeight;
+  
+    return Stack(
+      children: [
+        for (final region in _blurRegions)
+          Positioned(
+            left: region.x * w,
+            top: region.y * h,
+            width: region.width * w,
+            height: region.height * h,
+            child: ClipRect(
+              child: BackdropFilter(
+                filter: ImageFilter.blur(sigmaX: 15, sigmaY: 15),
+                child: Container(
+                  decoration: BoxDecoration(
+                    color: Colors.white.withAlpha(13),
+                    border: Border.all(
+                      color: Colors.deepPurpleAccent.withAlpha(204),
+                      width: 1.5,
+                    ),
+                  ),
+                ),
+              ),
+            ),
+          ),
+  
+        if (_blurDrawMode && _blurDragStart != null && _blurDragCurrent != null)
+          () {
+            final x = min(_blurDragStart!.dx, _blurDragCurrent!.dx);
+            final y = min(_blurDragStart!.dy, _blurDragCurrent!.dy);
+            final rw = (_blurDragCurrent!.dx - _blurDragStart!.dx).abs();
+            final rh = (_blurDragCurrent!.dy - _blurDragStart!.dy).abs();
+            return Positioned(
+              left: x * w,
+              top: y * h,
+              width: rw * w,
+              height: rh * h,
+              child: ClipRect(
+                child: BackdropFilter(
+                  filter: ImageFilter.blur(sigmaX: 15, sigmaY: 15),
+                  child: Container(
+                    decoration: BoxDecoration(
+                      color: Colors.white.withAlpha(13),
+                      border: Border.all(
+                        color: Colors.greenAccent.withAlpha(230),
+                        width: 1.5,
+                      ),
+                    ),
+                  ),
+                ),
+              ),
+            );
+          }(),
+  
+        if (_blurDrawMode)
+          Positioned.fill(
+            child: MouseRegion(
+              cursor: SystemMouseCursors.precise,
+              onHover: (event) {
+                if (_blurDragStart != null) {
+                  setState(() {
+                    _blurDragCurrent = Offset(
+                      (event.localPosition.dx / w).clamp(0.0, 1.0),
+                      (event.localPosition.dy / h).clamp(0.0, 1.0),
+                    );
+                  });
+                }
+              },
+              child: GestureDetector(
+                onTapDown: (d) {
+                  final pos = Offset(
+                    (d.localPosition.dx / w).clamp(0.0, 1.0),
+                    (d.localPosition.dy / h).clamp(0.0, 1.0),
+                  );
+                  if (_blurDragStart == null) {
+                    setState(() {
+                      _blurDragStart = pos;
+                      _blurDragCurrent = pos;
+                    });
+                  } else {
+                    final x = min(_blurDragStart!.dx, _blurDragCurrent!.dx);
+                    final y = min(_blurDragStart!.dy, _blurDragCurrent!.dy);
+                    final rw = (_blurDragCurrent!.dx - _blurDragStart!.dx).abs();
+                    final rh = (_blurDragCurrent!.dy - _blurDragStart!.dy).abs();
+                    if (rw > 0.02 && rh > 0.02) {
+                      setState(() {
+                        _blurRegions.add(BlurRegion(x: x, y: y, width: rw, height: rh));
+                        _blurDrawMode = false;
+                        _blurDragStart = null;
+                        _blurDragCurrent = null;
+                      });
+                    } else {
+                      setState(() {
+                        _blurDragStart = pos;
+                        _blurDragCurrent = pos;
+                      });
+                    }
+                  }
+                },
+                child: Container(color: Colors.transparent),
+              ),
+            ),
+          ),
+  
+        if (_blurDrawMode)
+          Positioned(
+            top: 12,
+            left: 0,
+            right: 0,
+            child: Center(
+              child: Container(
+                padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
+                decoration: BoxDecoration(
+                  color: Colors.black54,
+                  borderRadius: BorderRadius.circular(6),
+                ),
+                child: Text(
+                  _blurDragStart == null
+                      ? (_blurRegions.isEmpty
+                          ? 'Click to set first corner of blur region 1'
+                          : 'Click to set first corner of blur region 2')
+                      : 'Click to confirm blur region',
+                  style: const TextStyle(color: Colors.white70, fontSize: 12),
+                ),
+              ),
+            ),
+          ),
+      ],
+    );
   }
 
   Future<void> _jumpToStatsResult(String filename, String chapterTitle, Duration startTime) async {

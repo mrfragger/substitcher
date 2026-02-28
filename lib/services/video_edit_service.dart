@@ -22,6 +22,7 @@ class EncodeSettings {
   final CombineMode combine;
   final bool chaptersMetadata;
   final int? fps;
+  final String? vfFilter;
 
   const EncodeSettings({
     this.mode = EncodeMode.encodeVideo,
@@ -36,7 +37,30 @@ class EncodeSettings {
     this.combine = CombineMode.none,
     this.chaptersMetadata = false,
     this.fps,
+    this.vfFilter,
   });
+}
+
+class BlurRegion {
+  final double x;
+  final double y;
+  final double width;
+  final double height;
+
+  const BlurRegion({
+    required this.x,
+    required this.y,
+    required this.width,
+    required this.height,
+  });
+
+  String toVfFilter(int videoWidth, int videoHeight) {
+    final px = (x * videoWidth).round();
+    final py = (y * videoHeight).round();
+    final pw = (width * videoWidth).round().clamp(1, videoWidth - px - 1);
+    final ph = (height * videoHeight).round().clamp(1, videoHeight - py - 1);
+    return 'crop=${pw}:${ph}:${px}:${py},boxblur=20:2';
+  }
 }
 
 class StitchProgress {
@@ -278,18 +302,23 @@ class VideoEditService {
     ];
 
     if (isAudioMode) {
-      encodeArgs.addAll(['-vn', '-sn', ..._audioCodecArgs(settings)]);
-      encodeArgs.addAll(['-map', '0:a']);
-    } else {
-      encodeArgs.addAll([
-        ..._videoCodecArgs(settings),
-        ..._audioCodecArgs(settings),
-        '-vf', 'scale=-2:${settings.resolution}',
-        if (settings.fps != null) ...[ '-r', '${settings.fps}' ],
-        '-map', '0:v',
-      ]);
-      if (hasAudio) encodeArgs.addAll(['-map', '0:a']);
-    }
+          encodeArgs.addAll(['-vn', '-sn', ..._audioCodecArgs(settings)]);
+          encodeArgs.addAll(['-map', '0:a']);
+        } else {
+          final vfChain = [
+            if (settings.vfFilter != null) settings.vfFilter!,
+            'scale=-2:${settings.resolution}',
+          ].join(',');
+    
+          encodeArgs.addAll([
+            ..._videoCodecArgs(settings),
+            ..._audioCodecArgs(settings),
+            '-vf', vfChain,
+            if (settings.fps != null) ...[ '-r', '${settings.fps}' ],
+            '-map', '0:v',
+          ]);
+          if (hasAudio) encodeArgs.addAll(['-map', '0:a']);
+        }
 
     encodeArgs.addAll(_audioFilterArgs(settings, isAudioMode));
     encodeArgs.addAll(['-map_metadata', '0', '-movflags', 'use_metadata_tags']);
@@ -338,6 +367,9 @@ class VideoEditService {
     required Duration end,
     required VideoCodec cutCodec,
     String? lutPath,
+    List<BlurRegion> blurRegions = const [],
+    required int videoWidth,
+    required int videoHeight,
     required Function(String) onProgress,
   }) async {
     final ffmpeg = await findSystemFfmpeg();
@@ -363,8 +395,45 @@ class VideoEditService {
       '-t', duration.toStringAsFixed(3),
     ];
   
-    if (resolvedLutPath != null) {
-      args.addAll(['-vf', 'lut3d=${resolvedLutPath}']);
+    // Build -vf filter chain
+    final vfParts = <String>[];
+    if (resolvedLutPath != null) vfParts.add('lut3d=$resolvedLutPath');
+  
+    if (blurRegions.isNotEmpty) {
+      if (blurRegions.length == 1) {
+        // Single region: split → blur → overlay
+        final b = blurRegions[0].toVfFilter(videoWidth, videoHeight);
+        final px = (blurRegions[0].x * videoWidth).round();
+        final py = (blurRegions[0].y * videoHeight).round();
+        final baseFilter = vfParts.isEmpty ? '[0:v]' : '[0:v]${vfParts.join(',')}[lut];[lut]';
+        args.addAll([
+          '-filter_complex',
+          '${baseFilter}split=2[base][blur_src];'
+          '[blur_src]$b[blurred];'
+          '[base][blurred]overlay=$px:$py',
+        ]);
+      } else {
+        // Two regions: split=3 → blur each → overlay chain
+        final r0 = blurRegions[0];
+        final r1 = blurRegions[1];
+        final b0 = r0.toVfFilter(videoWidth, videoHeight);
+        final b1 = r1.toVfFilter(videoWidth, videoHeight);
+        final x0 = (r0.x * videoWidth).round();
+        final y0 = (r0.y * videoHeight).round();
+        final x1 = (r1.x * videoWidth).round();
+        final y1 = (r1.y * videoHeight).round();
+        final baseFilter = vfParts.isEmpty ? '[0:v]' : '[0:v]${vfParts.join(',')}[lut];[lut]';
+        args.addAll([
+          '-filter_complex',
+          '${baseFilter}split=3[base][s1][s2];'
+          '[s1]$b0[b1];'
+          '[s2]$b1[b2];'
+          '[base][b1]overlay=$x0:$y0[tmp];'
+          '[tmp][b2]overlay=$x1:$y1',
+        ]);
+      }
+    } else if (vfParts.isNotEmpty) {
+      args.addAll(['-vf', vfParts.join(',')]);
     }
   
     switch (cutCodec) {
@@ -377,16 +446,16 @@ class VideoEditService {
       case VideoCodec.qsv:
         args.addAll(['-c:v', 'h264_qsv', '-preset', 'fast', '-c:a', 'copy']);
       default:
-        throw Exception('Unsupported cut encoder: $cutCodec. Use a hardware encoder.');
+        throw Exception('Unsupported cut encoder: $cutCodec');
     }
   
     args.addAll(['-avoid_negative_ts', 'make_zero', '-movflags', '+faststart', outputPath]);
   
+    final blurLabel = blurRegions.isNotEmpty ? ' + ${blurRegions.length} blur region${blurRegions.length > 1 ? 's' : ''}' : '';
     final lutLabel = lutPath != null ? ' + LUT' : '';
-    onProgress('Cutting with ${_codecName(cutCodec)}$lutLabel...');
+    onProgress('Cutting with ${_codecName(cutCodec)}$lutLabel$blurLabel...');
   
     final result = await Process.run(ffmpeg, args);
-  
     print('cutVideo stderr: ${result.stderr}');
   
     if (result.exitCode != 0) {

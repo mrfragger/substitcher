@@ -39,6 +39,12 @@ class _CutsOverlayState extends State<CutsOverlay> {
   String _selectedAudioBitrate = '16k';
   int? _selectedFps;
 
+  // Video filters
+  bool _filterBW = false;
+  String? _filterCropRatio; // null = no crop, '16:9', '9:16', '4:3', '1:1'
+  bool _filterFlipH = false;
+  bool _filterFlipV = false;
+
   Map<String, int> _fileSizes = {};
   Map<String, double> _fileDurations = {};
   bool _loadingMetadata = false;
@@ -82,8 +88,31 @@ class _CutsOverlayState extends State<CutsOverlay> {
   double get _totalDuration =>
       _fileDurations.values.fold(0.0, (sum, d) => sum + d);
 
-  int get _totalSize =>
-      _fileSizes.values.fold(0, (sum, s) => sum + s);
+  int get _totalSize => _fileSizes.values.fold(0, (sum, s) => sum + s);
+
+  /// Builds the combined -vf filter string from active filter state.
+  /// Returns null if no filters are active.
+  String? _buildVfFilter() {
+    final filters = <String>[];
+
+    if (_filterCropRatio != null) {
+      filters.add(switch (_filterCropRatio!) {
+        '16:9' => 'crop=in_h*16/9:in_h',
+        '4:5'  => 'crop=in_h*4/5:in_h',
+        '9:16' => 'crop=in_w:in_w*16/9',
+        '4:3'  => 'crop=in_h*4/3:in_h',
+        '1:1'  => 'crop=in_h:in_h',
+        _      => '',
+      });
+    }
+
+    if (_filterFlipH) filters.add('hflip');
+    if (_filterFlipV) filters.add('vflip');
+    if (_filterBW)    filters.add('format=gray');
+
+    final joined = filters.where((f) => f.isNotEmpty).join(',');
+    return joined.isEmpty ? null : joined;
+  }
 
   Future<void> _deleteCut(String cutPath) async {
     try {
@@ -112,6 +141,8 @@ class _CutsOverlayState extends State<CutsOverlay> {
       }
     }
   }
+
+  // ── Section helpers ──────────────────────────────────────────────────────
 
   Widget _buildSectionLabel(String text) {
     return Text(
@@ -160,12 +191,14 @@ class _CutsOverlayState extends State<CutsOverlay> {
               child: ChoiceChip(
                 label: Text(labels[codec]!),
                 selected: isSelected,
-                onSelected: isMac ? null : (selected) {
-                  if (selected) {
-                    setState(() => _selectedCutCodec = codec);
-                    widget.onCutCodecChanged(codec);
-                  }
-                },
+                onSelected: isMac
+                    ? null
+                    : (selected) {
+                        if (selected) {
+                          setState(() => _selectedCutCodec = codec);
+                          widget.onCutCodecChanged(codec);
+                        }
+                      },
                 selectedColor: Colors.deepPurple,
                 backgroundColor: Colors.black45,
                 labelStyle: TextStyle(
@@ -237,8 +270,10 @@ class _CutsOverlayState extends State<CutsOverlay> {
           spacing: 8,
           runSpacing: 8,
           children: [
-            (VideoCodec.x265, 'x265', 'HEVC — smaller file sizes, slower encode (recommended)'),
-            (VideoCodec.x264, 'x264', 'H.264 — larger files, faster encode, universal compatibility'),
+            (VideoCodec.x265, 'x265',
+                'HEVC — smaller file sizes, slower encode (recommended)'),
+            (VideoCodec.x264, 'x264',
+                'H.264 — larger files, faster encode, universal compatibility'),
           ].map((entry) {
             final (codec, label, tooltip) = entry;
             final isSelected = codec == _selectedFinalCodec;
@@ -273,7 +308,7 @@ class _CutsOverlayState extends State<CutsOverlay> {
         Wrap(
           spacing: 8,
           runSpacing: 8,
-          children: [  
+          children: [
             (28, 'Smaller file, lower quality'),
             (23, 'Balanced quality and size'),
             (18, 'High quality, larger file'),
@@ -312,7 +347,8 @@ class _CutsOverlayState extends State<CutsOverlay> {
           spacing: 8,
           runSpacing: 8,
           children: [
-            (AudioCodec.opus, 'opus', 'opus — best quality per bitrate, ideal for speech'),
+            (AudioCodec.opus, 'opus',
+                'opus — best quality per bitrate, ideal for speech'),
             (AudioCodec.aac, 'aac', 'aac — universal compatibility'),
           ].map((entry) {
             final (codec, label, tooltip) = entry;
@@ -379,9 +415,9 @@ class _CutsOverlayState extends State<CutsOverlay> {
           runSpacing: 8,
           children: [
             (null, 'Source', 'Keep original FPS from source video'),
-            (5,    '5',      'Minimum FPS — smallest file, useful for speech-only with subs'),
-            (24,   '24',     '24fps — cinematic'),
-            (30,   '30',     '30fps — standard'),
+            (5, '5', 'Minimum FPS — smallest file, useful for speech-only'),
+            (24, '24', '24fps — cinematic'),
+            (30, '30', '30fps — standard'),
           ].map((entry) {
             final (fps, label, tooltip) = entry;
             final isSelected = fps == _selectedFps;
@@ -407,277 +443,440 @@ class _CutsOverlayState extends State<CutsOverlay> {
     );
   }
 
+  Widget _buildBWSection() {
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        _buildSectionLabel('COLOR'),
+        const SizedBox(height: 10),
+        Tooltip(
+          message: 'Converts output to grayscale (-vf format=gray)',
+          child: ChoiceChip(
+            label: const Text('B&W'),
+            selected: _filterBW,
+            onSelected: (selected) => setState(() => _filterBW = selected),
+            selectedColor: Colors.deepPurple,
+            backgroundColor: Colors.black45,
+            labelStyle: TextStyle(
+              color: _filterBW ? Colors.white : Colors.white70,
+              fontSize: 12,
+            ),
+          ),
+        ),
+      ],
+    );
+  }
+
+  Widget _buildCropRatioSection() {
+      return Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          _buildSectionLabel('CROP RATIO'),
+          const SizedBox(height: 10),
+          Wrap(
+            spacing: 8,
+            runSpacing: 8,
+            children: [
+              (null,   'None',  'No crop — keep original dimensions'),
+              ('16:9', '16:9',  'Landscape — YouTube, standard uploads'),
+              ('4:5',  '4:5',   'Portrait feed — Instagram feed (recommended for more screen space)'),
+              ('1:1',  '1:1',   'Square — Instagram feed, some TikTok styles'),
+              ('9:16', '9:16',  'Vertical — TikTok, YouTube Shorts, Instagram Reels'),
+              ('4:3',  '4:3',   'Classic — legacy format'),
+            ].map((entry) {
+              final (ratio, label, tooltip) = entry;
+              final isSelected = ratio == _filterCropRatio;
+              return Tooltip(
+                message: tooltip,
+                child: ChoiceChip(
+                  label: Text(label),
+                  selected: isSelected,
+                  onSelected: (selected) {
+                    if (selected) setState(() => _filterCropRatio = ratio);
+                  },
+                  selectedColor: Colors.deepPurple,
+                  backgroundColor: Colors.black45,
+                  labelStyle: TextStyle(
+                    color: isSelected ? Colors.white : Colors.white70,
+                    fontSize: 12,
+                  ),
+                ),
+              );
+            }).toList(),
+          ),
+        ],
+      );
+    }
+
+  Widget _buildFlipSection() {
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        _buildSectionLabel('FLIP'),
+        const SizedBox(height: 10),
+        Wrap(
+          spacing: 8,
+          runSpacing: 8,
+          children: [
+            (
+              'H',
+              'Flip Horizontal — mirrors left/right',
+              _filterFlipH,
+              () => setState(() => _filterFlipH = !_filterFlipH),
+            ),
+            (
+              'V',
+              'Flip Vertical — flips upside down',
+              _filterFlipV,
+              () => setState(() => _filterFlipV = !_filterFlipV),
+            ),
+          ].map((entry) {
+            final (label, tooltip, isSelected, onTap) = entry;
+            return Tooltip(
+              message: tooltip,
+              child: ChoiceChip(
+                label: Text(label),
+                selected: isSelected,
+                onSelected: (_) => onTap(),
+                selectedColor: Colors.deepPurple,
+                backgroundColor: Colors.black45,
+                labelStyle: TextStyle(
+                  color: isSelected ? Colors.white : Colors.white70,
+                  fontSize: 12,
+                ),
+              ),
+            );
+          }).toList(),
+        ),
+      ],
+    );
+  }
+
+  EncodeSettings _buildEncodeSettings() => EncodeSettings(
+        mode: EncodeMode.encodeVideo,
+        codec: _selectedFinalCodec,
+        resolution: _selectedResolution,
+        crf: _selectedCrf,
+        container: 'mp4',
+        audioCodec: _selectedAudioCodec,
+        audioBitrate: _selectedAudioBitrate,
+        fps: _selectedFps,
+        vfFilter: _buildVfFilter(),
+      );
+
   @override
   Widget build(BuildContext context) {
     return Container(
       color: Colors.black87,
-      child: Center(
-        child: Container(
-          width: 800,
-          height: 780,
-          padding: const EdgeInsets.all(24),
-          decoration: BoxDecoration(
-            color: const Color(0xFF1E1E1E),
-            borderRadius: BorderRadius.circular(12),
-            border: Border.all(color: Colors.deepPurple, width: 2),
-          ),
-          child: Column(
-            crossAxisAlignment: CrossAxisAlignment.start,
-            children: [
-              Row(
-                children: [
-                  const Icon(Icons.movie_filter, color: Colors.deepPurple, size: 24),
-                  const SizedBox(width: 8),
-                  const Text(
-                    'Video Cuts',
-                    style: TextStyle(
-                      color: Colors.white,
-                      fontSize: 24,
-                      fontWeight: FontWeight.bold,
-                    ),
+      child: Padding(
+        padding: const EdgeInsets.all(24),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            // ── Header ─────────────────────────────────────────────────────
+            Row(
+              children: [
+                const Icon(Icons.movie_filter,
+                    color: Colors.deepPurple, size: 24),
+                const SizedBox(width: 8),
+                const Text(
+                  'Video Cuts',
+                  style: TextStyle(
+                    color: Colors.white,
+                    fontSize: 24,
+                    fontWeight: FontWeight.bold,
                   ),
-                  const Spacer(),
-                  if (_loadingMetadata)
-                    const Padding(
-                      padding: EdgeInsets.only(right: 12),
-                      child: SizedBox(
-                        width: 14,
-                        height: 14,
-                        child: CircularProgressIndicator(
-                          strokeWidth: 2,
-                          color: Colors.white38,
-                        ),
+                ),
+                const Spacer(),
+                if (_loadingMetadata)
+                  const Padding(
+                    padding: EdgeInsets.only(right: 12),
+                    child: SizedBox(
+                      width: 14,
+                      height: 14,
+                      child: CircularProgressIndicator(
+                        strokeWidth: 2,
+                        color: Colors.white38,
                       ),
                     ),
-                  IconButton(
-                    icon: const Icon(Icons.close, color: Colors.white70),
-                    onPressed: widget.onClose,
-                    tooltip: 'Close (ESC)',
                   ),
-                ],
-              ),
-              const SizedBox(height: 4),
-              Text(
-                widget.cutsDirectory,
-                style: const TextStyle(color: Colors.white54, fontSize: 12),
-              ),
-              const SizedBox(height: 16),
+                IconButton(
+                  icon: const Icon(Icons.close, color: Colors.white70),
+                  onPressed: widget.onClose,
+                  tooltip: 'Close (ESC)',
+                ),
+              ],
+            ),
+            const SizedBox(height: 4),
+            Text(
+              widget.cutsDirectory,
+              style: const TextStyle(color: Colors.white54, fontSize: 12),
+            ),
+            const SizedBox(height: 16),
 
-              Expanded(
-                child: _selectedCuts.isEmpty
-                    ? const Center(
-                        child: Text(
-                          'No cuts available',
-                          style: TextStyle(color: Colors.white54, fontSize: 16),
+            // ── Body: 1/3 cut list  |  2/3 options (2 cols) ────────────────
+            Expanded(
+              child: Row(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+
+                  // ── Col 1: cut list (1/3) ─────────────────────────────────
+                  Expanded(
+                    flex: 1,
+                    child: Column(
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: [
+                        Expanded(
+                          child: _selectedCuts.isEmpty
+                              ? const Center(
+                                  child: Text(
+                                    'No cuts available',
+                                    style: TextStyle(
+                                        color: Colors.white54, fontSize: 16),
+                                  ),
+                                )
+                              : ListView.builder(
+                                  itemCount: _selectedCuts.length,
+                                  itemBuilder: (context, index) {
+                                    final cutPath = _selectedCuts[index];
+                                    final fileName = path.basename(cutPath);
+                                    return Container(
+                                      margin:
+                                          const EdgeInsets.only(bottom: 4),
+                                      padding: const EdgeInsets.symmetric(
+                                          horizontal: 12, vertical: 6),
+                                      decoration: BoxDecoration(
+                                        color: Colors.black26,
+                                        borderRadius:
+                                            BorderRadius.circular(6),
+                                        border: Border.all(
+                                            color: Colors.white12),
+                                      ),
+                                      child: Row(
+                                        children: [
+                                          Container(
+                                            width: 26,
+                                            height: 20,
+                                            alignment: Alignment.center,
+                                            decoration: BoxDecoration(
+                                              color: Colors.deepPurple,
+                                              borderRadius:
+                                                  BorderRadius.circular(8),
+                                            ),
+                                            child: Text(
+                                              '${index + 1}',
+                                              style: const TextStyle(
+                                                color: Colors.white,
+                                                fontWeight: FontWeight.bold,
+                                                fontSize: 11,
+                                              ),
+                                            ),
+                                          ),
+                                          const SizedBox(width: 10),
+                                          Expanded(
+                                            child: Text(
+                                              fileName,
+                                              style: const TextStyle(
+                                                color: Colors.white,
+                                                fontSize: 12,
+                                              ),
+                                              overflow: TextOverflow.ellipsis,
+                                            ),
+                                          ),
+                                          if (_fileDurations[cutPath] !=
+                                                  null ||
+                                              _fileSizes[cutPath] != null)
+                                            Padding(
+                                              padding: const EdgeInsets.only(
+                                                  right: 4),
+                                              child: Text(
+                                                [
+                                                  if (_fileDurations[
+                                                          cutPath] !=
+                                                      null)
+                                                    _formatDuration(
+                                                        _fileDurations[
+                                                            cutPath]!),
+                                                  if (_fileSizes[cutPath] !=
+                                                      null)
+                                                    _formatSize(
+                                                        _fileSizes[cutPath]!),
+                                                ].join('  ·  '),
+                                                style: const TextStyle(
+                                                    color: Colors.white54,
+                                                    fontSize: 11),
+                                              ),
+                                            ),
+                                          IconButton(
+                                            icon: const Icon(Icons.delete,
+                                                color: Colors.white54,
+                                                size: 18),
+                                            onPressed: () =>
+                                                _deleteCut(cutPath),
+                                            tooltip: 'Delete this cut',
+                                            padding: EdgeInsets.zero,
+                                            constraints:
+                                                const BoxConstraints(),
+                                            visualDensity:
+                                                VisualDensity.compact,
+                                          ),
+                                        ],
+                                      ),
+                                    );
+                                  },
+                                ),
                         ),
-                      )
-                    : ListView.builder(
-                        itemCount: _selectedCuts.length,
-                        itemBuilder: (context, index) {
-                          final cutPath = _selectedCuts[index];
-                          final fileName = path.basename(cutPath);
-                          return Container(
-                            margin: const EdgeInsets.only(bottom: 4),
-                            padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
-                            decoration: BoxDecoration(
-                              color: Colors.black26,
-                              borderRadius: BorderRadius.circular(6),
-                              border: Border.all(color: Colors.white12),
-                            ),
+
+                        // totals
+                        if (_selectedCuts.isNotEmpty)
+                          Padding(
+                            padding: const EdgeInsets.only(top: 8),
                             child: Row(
+                              mainAxisAlignment: MainAxisAlignment.end,
                               children: [
-                                Container(
-                                  width: 26,
-                                  height: 20,
-                                  alignment: Alignment.center,
-                                  decoration: BoxDecoration(
-                                    color: Colors.deepPurple,
-                                    borderRadius: BorderRadius.circular(8),
-                                  ),
-                                  child: Text(
-                                    '${index + 1}',
+                                Text(
+                                  '${_selectedCuts.length} cuts',
+                                  style: const TextStyle(
+                                      color: Colors.white38, fontSize: 12),
+                                ),
+                                if (_totalDuration > 0) ...[
+                                  const Text('  ·  ',
+                                      style: TextStyle(
+                                          color: Colors.white24,
+                                          fontSize: 12)),
+                                  Text(
+                                    _formatDuration(_totalDuration),
                                     style: const TextStyle(
-                                      color: Colors.white,
-                                      fontWeight: FontWeight.bold,
-                                      fontSize: 11,
-                                    ),
+                                        color: Colors.white54, fontSize: 12),
                                   ),
-                                ),
-                                const SizedBox(width: 10),
-                                Expanded(
-                                  child: Text(
-                                    fileName,
+                                ],
+                                if (_totalSize > 0) ...[
+                                  const Text('  ·  ',
+                                      style: TextStyle(
+                                          color: Colors.white24,
+                                          fontSize: 12)),
+                                  Text(
+                                    _formatSize(_totalSize),
                                     style: const TextStyle(
-                                      color: Colors.white,
-                                      fontSize: 12,
-                                    ),
+                                        color: Colors.white38, fontSize: 12),
                                   ),
-                                ),
-                                if (_fileDurations[cutPath] != null || _fileSizes[cutPath] != null)
-                                  Padding(
-                                    padding: const EdgeInsets.only(right: 4),
-                                    child: Text(
-                                      [
-                                        if (_fileDurations[cutPath] != null) _formatDuration(_fileDurations[cutPath]!),
-                                        if (_fileSizes[cutPath] != null) _formatSize(_fileSizes[cutPath]!),
-                                      ].join('  ·  '),
-                                      style: const TextStyle(color: Colors.white54, fontSize: 11),
-                                    ),
-                                  ),
-                                IconButton(
-                                  icon: const Icon(Icons.delete, color: Colors.white54, size: 18),
-                                  onPressed: () => _deleteCut(cutPath),
-                                  tooltip: 'Delete this cut',
-                                  padding: EdgeInsets.zero,
-                                  constraints: const BoxConstraints(),
-                                  visualDensity: VisualDensity.compact,
-                                ),
+                                ],
                               ],
                             ),
-                          );
-                        },
-                      ),
-              ),
-
-              if (_selectedCuts.isNotEmpty)
-                Padding(
-                  padding: const EdgeInsets.symmetric(vertical: 8),
-                  child: Row(
-                    mainAxisAlignment: MainAxisAlignment.end,
-                    children: [
-                      Text(
-                        'Total: ${_selectedCuts.length} cuts',
-                        style: const TextStyle(color: Colors.white38, fontSize: 12),
-                      ),
-                      if (_totalDuration > 0) ...[
-                        const Text('  ·  ', style: TextStyle(color: Colors.white24, fontSize: 12)),
-                        Text(
-                          _formatDuration(_totalDuration),
-                          style: const TextStyle(color: Colors.white54, fontSize: 12),
-                        ),
+                          ),
                       ],
-                      if (_totalSize > 0) ...[
-                        const Text('  ·  ', style: TextStyle(color: Colors.white24, fontSize: 12)),
-                        Text(
-                          _formatSize(_totalSize),
-                          style: const TextStyle(color: Colors.white38, fontSize: 12),
-                        ),
-                      ],
-                    ],
+                    ),
                   ),
-                ),
 
-              Container(
-                padding: const EdgeInsets.all(16),
-                decoration: BoxDecoration(
-                  color: Colors.black26,
-                  borderRadius: BorderRadius.circular(8),
-                ),
-                child: Row(
-                  crossAxisAlignment: CrossAxisAlignment.start,
-                  children: [
-                    Expanded(
-                      child: Column(
+                  const SizedBox(width: 24),
+
+                  // ── Cols 2-3: options panel (2/3) ─────────────────────────
+                  Expanded(
+                    flex: 2,
+                    child: Container(
+                      padding: const EdgeInsets.all(20),
+                      decoration: BoxDecoration(
+                        color: Colors.black26,
+                        borderRadius: BorderRadius.circular(8),
+                      ),
+                      child: Row(
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: [
-                          _buildCutEncoderSection(),
-                          const SizedBox(height: 16),
-                          _buildResolutionSection(),
-                          const SizedBox(height: 16),
-                          _buildFinalCodecSection(),
+                          // Options col A
+                          Expanded(
+                            child: Column(
+                              crossAxisAlignment: CrossAxisAlignment.start,
+                              children: [
+                                _buildCutEncoderSection(),
+                                const SizedBox(height: 20),
+                                _buildResolutionSection(),
+                                const SizedBox(height: 20),
+                                _buildFinalCodecSection(),
+                                const SizedBox(height: 20),
+                                _buildCrfSection(),
+                              ],
+                            ),
+                          ),
+                          const SizedBox(width: 24),
+                          // Options col B
+                          Expanded(
+                            child: Column(
+                              crossAxisAlignment: CrossAxisAlignment.start,
+                              children: [
+                                _buildAudioSection(),
+                                const SizedBox(height: 20),
+                                _buildFpsSection(),
+                                const SizedBox(height: 20),
+                                _buildCropRatioSection(),
+                                const SizedBox(height: 20),
+                                _buildBWSection(),
+                                const SizedBox(height: 20),
+                                _buildFlipSection(),
+                              ],
+                            ),
+                          ),
                         ],
                       ),
-                    ),
-                    const SizedBox(width: 24),
-                    Expanded(
-                      child: Column(
-                        crossAxisAlignment: CrossAxisAlignment.start,
-                        children: [
-                          _buildCrfSection(),
-                          const SizedBox(height: 16),
-                          _buildAudioSection(),
-                          const SizedBox(height: 16),
-                          _buildFpsSection(),
-                        ],
-                      ),
-                    ),
-                  ],
-                ),
-              ),
-
-              const SizedBox(height: 16),
-
-              Row(
-                mainAxisAlignment: MainAxisAlignment.end,
-                children: [
-                  OutlinedButton.icon(
-                    onPressed: widget.onOpenDirectory,
-                    icon: const Icon(Icons.folder_open, size: 18),
-                    label: const Text('Open Cuts Directory'),
-                    style: OutlinedButton.styleFrom(
-                      foregroundColor: Colors.white70,
-                      side: const BorderSide(color: Colors.white24),
-                      padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 16),
-                    ),
-                  ),
-                  const SizedBox(width: 12),
-                  OutlinedButton.icon(
-                    onPressed: () {
-                      final settings = EncodeSettings(
-                        mode: EncodeMode.encodeVideo,
-                        codec: _selectedFinalCodec,
-                        resolution: _selectedResolution,
-                        crf: _selectedCrf,
-                        container: 'mp4',
-                        audioCodec: _selectedAudioCodec,
-                        audioBitrate: _selectedAudioBitrate,
-                        fps: _selectedFps,
-                      );
-                      widget.onCombine([widget.sourceVideoPath], settings);
-                    },
-                    icon: const Icon(Icons.compress, size: 18),
-                    label: Text(
-                      'Encode Whole Current Video',
-                    ),
-                    style: OutlinedButton.styleFrom(
-                      foregroundColor: Colors.white70,
-                      side: const BorderSide(color: Colors.white24),
-                      padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 16),
-                    ),
-                  ),
-                  const SizedBox(width: 12),
-                  ElevatedButton.icon(
-                    onPressed: _selectedCuts.isEmpty ? null : () {
-                      final settings = EncodeSettings(
-                        mode: EncodeMode.encodeVideo,
-                        codec: _selectedFinalCodec,
-                        resolution: _selectedResolution,
-                        crf: _selectedCrf,
-                        container: 'mp4',
-                        audioCodec: _selectedAudioCodec,
-                        audioBitrate: _selectedAudioBitrate,
-                        fps: _selectedFps,
-                      );
-                      widget.onCombine(_selectedCuts, settings);
-                    },
-                    icon: const Icon(Icons.merge, size: 20),
-                    label: Text(
-                      _selectedCuts.isEmpty
-                          ? 'No cuts to combine'
-                          : 'Combine ${_selectedCuts.length} Cut${_selectedCuts.length == 1 ? '' : 's'}',
-                    ),
-                    style: ElevatedButton.styleFrom(
-                      backgroundColor: Colors.deepPurple,
-                      foregroundColor: Colors.white,
-                      disabledBackgroundColor: Colors.grey,
-                      padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 16),
-                      textStyle: const TextStyle(fontSize: 16),
                     ),
                   ),
                 ],
               ),
-            ],
-          ),
+            ),
+
+            const SizedBox(height: 16),
+
+            // ── Action buttons ──────────────────────────────────────────────
+            Row(
+              mainAxisAlignment: MainAxisAlignment.end,
+              children: [
+                OutlinedButton.icon(
+                  onPressed: widget.onOpenDirectory,
+                  icon: const Icon(Icons.folder_open, size: 18),
+                  label: const Text('Open Cuts Directory'),
+                  style: OutlinedButton.styleFrom(
+                    foregroundColor: Colors.white70,
+                    side: const BorderSide(color: Colors.white24),
+                    padding: const EdgeInsets.symmetric(
+                        horizontal: 20, vertical: 16),
+                  ),
+                ),
+                const SizedBox(width: 12),
+                OutlinedButton.icon(
+                  onPressed: () => widget.onCombine(
+                      [widget.sourceVideoPath], _buildEncodeSettings()),
+                  icon: const Icon(Icons.compress, size: 18),
+                  label: const Text('Encode Whole Current Video'),
+                  style: OutlinedButton.styleFrom(
+                    foregroundColor: Colors.white70,
+                    side: const BorderSide(color: Colors.white24),
+                    padding: const EdgeInsets.symmetric(
+                        horizontal: 20, vertical: 16),
+                  ),
+                ),
+                const SizedBox(width: 12),
+                ElevatedButton.icon(
+                  onPressed: _selectedCuts.isEmpty
+                      ? null
+                      : () => widget.onCombine(
+                          _selectedCuts, _buildEncodeSettings()),
+                  icon: const Icon(Icons.merge, size: 20),
+                  label: Text(
+                    _selectedCuts.isEmpty
+                        ? 'No cuts to combine'
+                        : 'Combine ${_selectedCuts.length} Cut${_selectedCuts.length == 1 ? '' : 's'}',
+                  ),
+                  style: ElevatedButton.styleFrom(
+                    backgroundColor: Colors.deepPurple,
+                    foregroundColor: Colors.white,
+                    disabledBackgroundColor: Colors.grey,
+                    padding: const EdgeInsets.symmetric(
+                        horizontal: 24, vertical: 16),
+                    textStyle: const TextStyle(fontSize: 16),
+                  ),
+                ),
+              ],
+            ),
+          ],
         ),
       ),
     );

@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import '../services/video_edit_service.dart';
 
 class EncodeProgressOverlay extends StatelessWidget {
   final bool isEncoding;
@@ -8,7 +9,7 @@ class EncodeProgressOverlay extends StatelessWidget {
   final DateTime? finishTime;
   final VoidCallback onDismiss;
   final VoidCallback? onCancel;
-
+  final EncodeSettings? encodeSettings;
 
   const EncodeProgressOverlay({
     super.key,
@@ -19,6 +20,7 @@ class EncodeProgressOverlay extends StatelessWidget {
     required this.finishTime,
     required this.onDismiss,
     this.onCancel,
+    this.encodeSettings,
   });
 
   String _formatElapsed(Duration d) {
@@ -36,7 +38,44 @@ class EncodeProgressOverlay extends StatelessWidget {
     return '$h:$m';
   }
 
-@override
+  String _buildSettingsSummary(EncodeSettings s) {
+      final codec = switch (s.codec) {
+        VideoCodec.x265 => 'x265',
+        VideoCodec.x264 => 'x264',
+        VideoCodec.videotoolbox => 'VideoToolbox',
+        VideoCodec.nvenc => 'NVENC',
+        VideoCodec.amf => 'AMF',
+        VideoCodec.qsv => 'QuickSync',
+      };
+  
+      final audioCodec = switch (s.audioCodec) {
+        AudioCodec.opus => 'opus',
+        AudioCodec.aac => 'aac',
+        AudioCodec.mp3 => 'mp3',
+        AudioCodec.copy => 'copy',
+      };
+  
+      final fps = s.fps != null ? ' fps${s.fps}' : '';
+      final line1 = '${s.resolution}p $codec crf${s.crf}$fps';
+      final line2 = '$audioCodec ${s.audioBitrate}';
+  
+      final extras = <String>[];
+      if (s.vfFilter != null) {
+        if (s.vfFilter!.contains('crop=in_h*16/9')) extras.add('16:9');
+        else if (s.vfFilter!.contains('crop=in_h*4/5')) extras.add('4:5');
+        else if (s.vfFilter!.contains('crop=in_w:in_w')) extras.add('9:16');
+        else if (s.vfFilter!.contains('crop=in_h*4/3')) extras.add('4:3');
+        else if (s.vfFilter!.contains('crop=in_h:in_h')) extras.add('1:1');
+        if (s.vfFilter!.contains('format=gray')) extras.add('B&W');
+        if (s.vfFilter!.contains('hflip')) extras.add('flip H');
+        if (s.vfFilter!.contains('vflip')) extras.add('flip V');
+      }
+  
+      if (extras.isEmpty) return '$line1\n$line2';
+      return '$line1\n$line2\n${extras.join('  ')}';
+    }
+
+  @override
   Widget build(BuildContext context) {
     final isDone = finishTime != null && !isEncoding;
     final elapsed = startTime != null
@@ -78,7 +117,7 @@ class EncodeProgressOverlay extends StatelessWidget {
                 const SizedBox(width: 8),
                 Expanded(
                   child: Text(
-                    isDone ? 'Encode Complete' : 'Encoding...',
+                    isDone ? 'Encode Complete (L)' : 'Encoding...',
                     style: TextStyle(
                       color: isDone ? Colors.green : Colors.white,
                       fontSize: 13,
@@ -93,10 +132,10 @@ class EncodeProgressOverlay extends StatelessWidget {
                   ),
                 if (!isDone && onCancel != null)
                   Tooltip(
-                    message: 'Cancel Encode',
+                    message: 'Cancel Encoding',
                     child: GestureDetector(
                       onTap: onCancel,
-                      child: const Icon(Icons.cancel, color: Colors.red, size: 16),
+                      child: const Icon(Icons.cancel, color: Colors.white54, size: 16),
                     ),
                   ),
               ],
@@ -114,7 +153,7 @@ class EncodeProgressOverlay extends StatelessWidget {
               ),
               const SizedBox(height: 6),
               Text(
-                '${progress.toStringAsFixed(1)}%  ·  ${_formatElapsed(elapsed)}',
+                '${progress.toStringAsFixed(1)}%  ·  elapsed ${_formatElapsed(elapsed)}',
                 style: const TextStyle(color: Colors.white70, fontSize: 11),
               ),
               const SizedBox(height: 4),
@@ -126,9 +165,20 @@ class EncodeProgressOverlay extends StatelessWidget {
               ),
             ] else ...[
               Text(
-                'Finished at ${_formatTime(finishTime!)}  ·  ${_formatElapsed(elapsed)}',
+                'Finished at ${_formatTime(finishTime!)}  ·  took ${_formatElapsed(elapsed)}',
                 style: const TextStyle(color: Colors.white70, fontSize: 12),
               ),
+              if (encodeSettings != null) ...[
+                const SizedBox(height: 6),
+                Text(
+                  _buildSettingsSummary(encodeSettings!),
+                  style: const TextStyle(
+                    color: Colors.white38,
+                    fontSize: 11,
+                    height: 1.5,
+                  ),
+                ),
+              ],
             ],
           ],
         ),

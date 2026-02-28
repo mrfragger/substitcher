@@ -151,12 +151,6 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 - letters work with alternates but not with ligatures
 - favorites list, shortcut key R (rang रंग Hindi is color)
 
-### LUTs (lookup tables - color presets)
-- only applicable to video cuts
-- Browse gallery of thumbs to see the 560 LUTs 
-- [download 6MB SubStitcher LUT Gallery ](https://github.com/mrfragger/substitcher/raw/main/images/SubStitcherLUTs.zip) and open in your browser
-- final encode will include the LUTs that have been encoded in the cuts already
-
 ![](images/colors.jpg)
 
 ### Words
