@@ -334,6 +334,7 @@ Android (64-bit devices only, arm64-v8a)
 
 <details>
 <summary>Mac App Recommendations</summary>
+
 - Transnomino, free file-renamer https://www.transnomino.com
 - Lulu, free open-source firewall https://objective-see.org/products/lulu.html
 - KeepassXC, free password manager https://keepassxc.org
