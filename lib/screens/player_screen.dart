@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:file_picker/file_picker.dart';
 import 'package:media_kit/media_kit.dart';
+import 'package:media_kit_video/media_kit_video.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:window_manager/window_manager.dart';
 import 'package:path/path.dart' as path;
@@ -23,6 +24,7 @@ import '../models/bookmark.dart';
 import '../models/subtitle_cue.dart';
 import '../models/pause_mode.dart';
 import '../models/subtitle_preferences.dart';
+import '../models/lut_item.dart';
 import '../services/cjk_tokenizer.dart';
 import '../services/ffmpeg_service.dart';
 import '../services/font_loader.dart';
@@ -35,6 +37,8 @@ import '../services/frequency_analyzer.dart';
 import '../services/stats_manager.dart';
 import '../services/adhan_clock_service.dart';
 import '../services/youtube_service.dart';
+import '../services/video_edit_service.dart';
+import '../services/lut_manager.dart';
 import '../widgets/adhan_clock_overlay.dart';
 import '../widgets/subtitle_manager_dialog.dart';
 import '../widgets/side_panel.dart';
@@ -42,6 +46,8 @@ import '../widgets/stats_panel.dart';
 import '../widgets/player_controls.dart';
 import '../widgets/word_overlay.dart';
 import '../widgets/download_overlay.dart';
+import '../widgets/cuts_overlay.dart';
+import '../widgets/encode_progress_overlay.dart';
 
 enum FontColorOverride { none, black, white }
 
@@ -111,6 +117,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   late final WindowListener _windowListener;
   final FFmpegService _ffmpeg = FFmpegService();
   final player = Player();
+  late final VideoController _videoController;
   final ScrollController _chapterScrollController = ScrollController();
   final ScrollController _playlistScrollController = ScrollController();
   final ScrollController _historyScrollController = ScrollController();
@@ -275,6 +282,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   bool _isDisposed = false;
   Duration? _inPoint;
   Duration? _outPoint;
+  Duration? _lastOutPoint;
   bool _isLoadingAudioStreams = false;
   DateTime? _lastAudioStreamFetch;
   String? _currentAudioFormat;
@@ -288,6 +296,35 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
 
   bool _blurShadowEnabled = false;
 
+  bool _isVideoFile = false;
+  bool _videoEditingMode = false;
+  String? _systemFfmpegPath;
+  bool _ffmpegAvailable = false;
+  bool _showCutsOverlay = false;
+  bool _isCutting = false;
+
+  VideoCodec _selectedCutCodec = Platform.isMacOS
+      ? VideoCodec.videotoolbox
+      : VideoCodec.nvenc;
+
+  bool _isCombining = false;
+  bool _combineCancelled = false;
+  double _combineProgress = 0.0;
+  String _combineStep = '';
+  DateTime? _combineStartTime;
+  DateTime? _combineFinishTime;
+  Process? _combineProcess;
+
+  String? _videoResolution;
+  double? _videoFps;
+
+  String? _selectedLutPath;
+  String? _selectedLutName;
+  Set<String> _favoriteLuts = {};
+  String _lutFilterMode = 'all';
+  bool _showingLuts = false;
+  int _selectedLutIndex = -1;
+  
   @override
   void initState() {
     super.initState();
@@ -308,6 +345,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     _checkForInitialFile();
     CJKTokenizer.initialize();
     _setupAudioPlayer();
+    _videoController = VideoController(player);
     CustomFontLoader.loadFonts();
     CustomFontMetadataManager.load();
     _loadSkipChapterTerms();
@@ -325,6 +363,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     _loadBookmarks();
     _loadFavoriteFonts();
     _loadFavoriteColorPalettes();
+    _loadFavoriteLuts();
     _loadSkipTrackingTerms();
     _startCacheFlushTimer();
     WidgetsBinding.instance.addPostFrameCallback((_) {
@@ -336,6 +375,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   @override
   void dispose() {
     _isDisposed = true;
+    _saveDefaultSettings();  
     WidgetsBinding.instance.removeObserver(this);
     WakelockPlus.disable();
     windowManager.removeListener(_windowListener);
@@ -496,14 +536,17 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
    if (_defaultColorPalette != null) {
      await prefs.setString('defaultColorPalette', _defaultColorPalette!);
    }
+   await prefs.setInt('fontColorOverride', _fontColorOverride.index);
  }
  
  Future<void> _loadDefaultSettings() async {
    final prefs = await SharedPreferences.getInstance();
+   final fontColorOverride = FontColorOverride.values[prefs.getInt('fontColorOverride') ?? 0];
    setState(() {
      _defaultFont = prefs.getString('defaultFont') ?? 'System Default';
      _defaultConversionType = prefs.getString('defaultConversionType') ?? 'none';
      _defaultColorPalette = prefs.getString('defaultColorPalette');
+     _fontColorOverride = fontColorOverride;
    });
  }
  
@@ -585,32 +628,33 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
  }
 
   Future<void> _handleWindowClose() async {
-    try {
-      _isDisposed = true;
-      
-      if (_isPlaying) {
-        await player.pause().timeout(const Duration(milliseconds: 500));
-      }
-      
-      if (_currentAudiobook != null) {
-        final currentChapter = _currentAudiobook!.chapters[_currentChapterIndex];
-        if (!_shouldSkipTracking(path.basenameWithoutExtension(_currentAudiobook!.path))) {
-          _statsManager.recordChapterEnd(
-            path.basenameWithoutExtension(_currentAudiobook!.path),
-            currentChapter.title,
-            false,
-          );
-          await _statsManager.flushCacheToLog().timeout(const Duration(milliseconds: 500));
+      try {
+        _isDisposed = true;
+        
+        if (_isPlaying) {
+          await player.pause().timeout(const Duration(milliseconds: 500));
         }
+        
+        if (_currentAudiobook != null) {
+          final currentChapter = _currentAudiobook!.chapters[_currentChapterIndex];
+          if (!_shouldSkipTracking(path.basenameWithoutExtension(_currentAudiobook!.path))) {
+            _statsManager.recordChapterEnd(
+              path.basenameWithoutExtension(_currentAudiobook!.path),
+              currentChapter.title,
+              false,
+            );
+            await _statsManager.flushCacheToLog().timeout(const Duration(milliseconds: 500));
+          }
+        }
+        
+        await _saveDefaultSettings().timeout(const Duration(milliseconds: 500));  // add this
+        await _saveToHistory().timeout(const Duration(milliseconds: 500));
+        await player.stop().timeout(const Duration(milliseconds: 500));
+        
+      } catch (e) {
+        print('Error during window close: $e');
       }
-      
-      await _saveToHistory().timeout(const Duration(milliseconds: 500));
-      await player.stop().timeout(const Duration(milliseconds: 500));
-      
-    } catch (e) {
-      print('Error during window close: $e');
     }
-  }
 
   void _startCacheFlushTimer() {
     _cacheFlushTimer?.cancel();
@@ -1168,6 +1212,14 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     return palettes.where((palette) {
       return _matchesSearch(palette.name, _searchQuery, excludeList);
     }).toList();
+  }
+
+  List<LutItem> _getFilteredLuts() {
+    final all = LutManager().availableLuts;
+    if (_lutFilterMode == 'favorites') {
+      return all.where((l) => _favoriteLuts.contains(l.displayName)).toList();
+    }
+    return all;
   }
 
   void _setSleepTimer(Duration? duration) {
@@ -3011,6 +3063,45 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     }
   }
 
+  Future<void> _loadFavoriteLuts() async {
+    final prefs = await SharedPreferences.getInstance();
+    setState(() {
+      _favoriteLuts = (prefs.getStringList('favoriteLuts') ?? []).toSet();
+    });
+  }
+  
+  Future<void> _addLutToFavorites(String lutName) async {
+    setState(() {
+      _favoriteLuts.add(lutName);
+    });
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setStringList('favoriteLuts', _favoriteLuts.toList());
+    if (mounted) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(
+          content: Text('Added "$lutName" to favorites'),
+          duration: const Duration(seconds: 2),
+        ),
+      );
+    }
+  }
+  
+  Future<void> _removeLutFromFavorites(String lutName) async {
+    setState(() {
+      _favoriteLuts.remove(lutName);
+    });
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setStringList('favoriteLuts', _favoriteLuts.toList());
+    if (mounted) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(
+          content: Text('Removed "$lutName" from favorites'),
+          duration: const Duration(seconds: 2),
+        ),
+      );
+    }
+  }
+
   void _showGlyphViewerOverlay() {
     showDialog(
       context: context,
@@ -4356,9 +4447,15 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               : _getDarkenedStrokeColor(palette.colors[currentColorIndex], palette);
         textColor = null;
       } else {
-        textColor = useShadowColor ? _parseColor(palette.effectiveShadowColor(currentColorIndex)) : color;
-        foreground = null;
-      }
+              textColor = useShadowColor 
+                  ? _parseColor(palette.effectiveShadowColor(currentColorIndex)) 
+                  : color;
+              
+              if (!useShadowColor && _fontColorOverride != FontColorOverride.none) {
+                textColor = _fontColorOverride == FontColorOverride.black ? Colors.black87 : Colors.white70;
+              }
+              foreground = null;
+            }
       
       spans.add(TextSpan(
         text: char,
@@ -4944,58 +5041,113 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     }
   }
   
-
-  void _setInPoint() {
-    setState(() {
-      _inPoint = _currentPosition;
-    });
-    
-    if (mounted) {
-      ScaffoldMessenger.of(context).showSnackBar(
-        SnackBar(
-          content: Text('In point set: ${_formatDurationWithMs(_inPoint!)}'),
-          duration: const Duration(seconds: 1),
-          backgroundColor: Colors.green,
-        ),
-      );
-    }
-  }
-  
-  Future<void> _setOutPoint() async {
-    if (_inPoint == null) {
+  void _setInPointToLastOutPoint() {
+    if (_lastOutPoint == null) {
       ScaffoldMessenger.of(context).showSnackBar(
         const SnackBar(
-          content: Text('Please set In point first (i)'),
-          duration: Duration(seconds: 2),
+          content: Text('No previous out point recorded'),
+          duration: Duration(seconds: 3),
+        ),
+      );
+      return;
+    }
+    setState(() {
+      _inPoint = _lastOutPoint;
+    });
+    ScaffoldMessenger.of(context).showSnackBar(
+      SnackBar(
+        content: Text('In point set to last out point: ${_formatDurationWithMs(_inPoint!)}'),
+        duration: const Duration(seconds: 4),
+        backgroundColor: Colors.green,
+      ),
+    );
+  }
+
+  void _setInPoint() {
+      if (_isCutting) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          const SnackBar(
+            content: Text('Cut in progress — wait until complete before setting new In point'),
+            duration: Duration(seconds: 10),
+          ),
+        );
+        return;
+      }
+  
+      setState(() {
+        _inPoint = _currentPosition;
+      });
+      
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            content: Text('In point set: ${_formatDurationWithMs(_inPoint!)}'),
+            duration: const Duration(seconds: 1),
+            backgroundColor: Colors.green,
+          ),
+        );
+      }
+    }
+  
+  Future<void> _setOutPoint() async {
+      if (_inPoint == null) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          const SnackBar(
+            content: Text('Please set In point first (i)'),
+            duration: Duration(seconds: 2),
+            backgroundColor: Colors.orange,
+          ),
+        );
+        return;
+      }
+      
+      setState(() {
+        _outPoint = _currentPosition;
+      });
+      
+      if (_outPoint! <= _inPoint!) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          const SnackBar(
+            content: Text('Out point must be after In point'),
+            duration: Duration(seconds: 2),
+            backgroundColor: Colors.red,
+          ),
+        );
+        setState(() {
+          _outPoint = null;
+        });
+        return;
+      }
+  
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            content: Text('Out point set: ${_formatDurationWithMs(_outPoint!)}'),
+            duration: const Duration(seconds: 5),
+            backgroundColor: Colors.green,
+          ),
+        );
+      }
+  
+      if (_isVideoFile) {
+        await _cutVideoSegment();
+      } else {
+        await _sliceCut();
+      }
+    }
+  
+  Future<void> _sliceCut() async {
+    if (_inPoint == null || _outPoint == null || _currentAudiobook == null) return;
+    
+    if (_isVideoFile) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(
+          content: Text('Use video editing menu for video files'),
           backgroundColor: Colors.orange,
         ),
       );
       return;
     }
-    
-    setState(() {
-      _outPoint = _currentPosition;
-    });
-    
-    if (_outPoint! <= _inPoint!) {
-      ScaffoldMessenger.of(context).showSnackBar(
-        const SnackBar(
-          content: Text('Out point must be after In point'),
-          duration: Duration(seconds: 2),
-          backgroundColor: Colors.red,
-        ),
-      );
-      setState(() {
-        _outPoint = null;
-      });
-      return;
-    }
-    
-    await _sliceCut();
-  }
-  
-  Future<void> _sliceCut() async {
-    if (_inPoint == null || _outPoint == null || _currentAudiobook == null) return;
     
     final audiobookDir = path.dirname(_currentAudiobook!.path);
     final audiobookName = path.basenameWithoutExtension(_currentAudiobook!.path);
@@ -5003,25 +5155,14 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     final cutsDir = path.join(audiobookDir, '${audiobookName}_cuts');
     await Directory(cutsDir).create(recursive: true);
     
-    String chapterName = 'Unknown';
-    for (final chapter in _currentAudiobook!.chapters) {
-      if (_inPoint! >= chapter.startTime && _inPoint! < chapter.endTime) {
-        chapterName = chapter.title;
-        break;
-      }
-    }
-    
-    String formatTime(Duration d) {
-      final hours = d.inHours;
-      final minutes = d.inMinutes.remainder(60);
-      final seconds = d.inSeconds.remainder(60);
-      return '${hours.toString().padLeft(2, '0')}∶${minutes.toString().padLeft(2, '0')}∶${seconds.toString().padLeft(2, '0')}';
-    }
-    
-    final inTimeStr = formatTime(_inPoint!);
-    final outTimeStr = formatTime(_outPoint!);
-    
-    final cutName = '$inTimeStr-$outTimeStr ($chapterName).opus';
+    final existingCuts = Directory(cutsDir)
+        .listSync()
+        .whereType<File>()
+        .where((f) => path.extension(f.path) == '.opus')
+        .length;
+  
+    final cutNumber = (existingCuts + 1).toString().padLeft(4, '0');
+    final cutName = '$cutNumber.opus';
     final outputPath = path.join(cutsDir, cutName);
     
     final duration = _outPoint! - _inPoint!;
@@ -5030,7 +5171,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       await _ffmpeg.ensureBinaries();
       
       if (_ffmpeg.ffmpegPath == null) {
-        throw Exception('FFmpeg not found');
+        throw Exception('Bundled ffmpeg not found');
       }
   
       final args = [
@@ -5047,7 +5188,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         outputPath,
       ];
   
-      print('Slicing: ${_formatDurationWithMs(_inPoint!)} → ${_formatDurationWithMs(_outPoint!)}');
+      print('Audio slice (lossless): ${_formatDurationWithMs(_inPoint!)} → ${_formatDurationWithMs(_outPoint!)}');
   
       final process = await Process.start(args[0], args.sublist(1));
       
@@ -5057,7 +5198,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       final exitCode = await process.exitCode;
       
       if (exitCode != 0) {
-        throw Exception('FFmpeg slicing failed');
+        throw Exception('FFmpeg audio slicing failed');
       }
   
       if (!await File(outputPath).exists()) {
@@ -5070,7 +5211,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       if (mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
           SnackBar(
-            content: Text('Cut saved: ${_formatDuration(duration)}'),
+            content: Text('Audio cut saved: ${_formatDuration(duration)} (lossless)'),
             duration: const Duration(seconds: 1),
             backgroundColor: Colors.green,
           ),
@@ -5078,12 +5219,14 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       }
       
       setState(() {
+        _lastOutPoint = _outPoint ?? _currentPosition;
         _inPoint = null;
         _outPoint = null;
       });
       
-    } catch (e) {
-      print('ERROR: Failed to slice cut: $e');
+    } catch (e, stackTrace) {
+      print('ERROR: Failed to slice audio cut: $e');
+      print('Stack trace: $stackTrace');
       if (mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
           SnackBar(
@@ -5095,6 +5238,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       }
     }
   }
+  
 
   Future<void> _calculateBitrate() async {
     if (_fileSize == 0 || _totalDuration.inSeconds == 0) return;
@@ -5123,7 +5267,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         }
         final result = await FilePicker.platform.pickFiles(
           type: FileType.custom,
-          allowedExtensions: ['opus'],
+          allowedExtensions: ['opus', 'mkv', 'mp4', 'webm', 'avi', 'mov', 'm4v'],
           initialDirectory: initialDir,
         );
         if (result == null || result.files.isEmpty) {
@@ -5162,6 +5306,23 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               _currentAudioFormat = null;
             });
           }
+
+      _isVideoFile = VideoEditService.isVideoFile(selectedPath);
+      if (_isVideoFile && !Platform.isAndroid) {
+        final info = await VideoEditService.getVideoInfo(selectedPath);
+        setState(() {
+          _videoResolution = info.resolution;
+          _videoFps = info.fps;
+        });
+      } else {
+        setState(() {
+          _videoResolution = null;
+          _videoFps = null;
+        });
+      }
+      if (_isVideoFile && !Platform.isAndroid) {
+        _ffmpegAvailable = await VideoEditService.isAvailable();
+      }
 
   if (_currentAudiobook != null && _currentAudiobook!.path != selectedPath) {
     if (_currentAudiobook!.chapters.isNotEmpty) {
@@ -5397,8 +5558,11 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       case 'set_out':
         _setOutPoint();
         break;
+      case 'set_in_last_out':
+        _setInPointToLastOutPoint();
+        break;
       case 'seekToSubtitleEnd':
-        _setOutPoint();
+        _seekToSubtitleEnd();
         break;
       case 'seek_back_1s':
         _skipBackward1();
@@ -5412,8 +5576,21 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       case 'replay_forward':
         _replaySegmentForward();
         break;
+      case 'cut_segment':
+        if (_isVideoFile) {
+          _cutVideoSegment();
+        } else {
+          _setOutPoint();
+        }
+        break;
+      case 'combine_cuts':
+        _combineVideoCuts();
+        break;
+      case 'open_cuts_dir':
+        _openCutsDirectory();
+        break;
     }
-  }  
+  }
   
   String _convertSrtToVtt(String srtContent) {
     final lines = srtContent.split('\n');
@@ -5437,6 +5614,259 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     return vttLines.join('\n');
   }
 
+  Future<void> _cutVideoSegment() async {
+      if (_isCutting) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          const SnackBar(
+            content: Text('Cut in progress, please wait…'),
+            duration: Duration(seconds: 2),
+          ),
+        );
+        return;
+      }
+  
+      if (_inPoint == null || _currentAudiobook == null) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          const SnackBar(content: Text('Set In point first (i)')),
+        );
+        return;
+      }
+      
+      final outPoint = _outPoint ?? _currentPosition;
+      if (outPoint <= _inPoint!) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          const SnackBar(content: Text('Out point must be after In point')),
+        );
+        return;
+      }
+    
+      final systemFfmpeg = await VideoEditService.findSystemFfmpeg();
+      if (systemFfmpeg == null) {
+        if (mounted) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            const SnackBar(
+              content: Text('System ffmpeg not found. Install with: brew install ffmpeg'),
+              backgroundColor: Colors.red,
+              duration: Duration(seconds: 5),
+            ),
+          );
+        }
+        return;
+      }
+    
+      final cutsDir = VideoEditService.getCutsDirectory(_currentAudiobook!.path);
+      await Directory(cutsDir).create(recursive: true);
+    
+      final ext = path.extension(_currentAudiobook!.path).toLowerCase();
+      final existingCuts = Directory(cutsDir)
+          .listSync()
+          .whereType<File>()
+          .where((f) => path.extension(f.path).toLowerCase() == ext)
+          .length;
+    
+      final cutNumber = (existingCuts + 1).toString().padLeft(4, '0');
+      final cutName = '$cutNumber$ext';
+      final outputPath = path.join(cutsDir, cutName);
+    
+      setState(() => _isCutting = true);
+  
+      try {
+        await VideoEditService.cutVideo(
+          inputPath: _currentAudiobook!.path,
+          outputPath: outputPath,
+          start: _inPoint!,
+          end: outPoint,
+          cutCodec: _selectedCutCodec,
+          lutPath: _selectedLutPath,
+          onProgress: (msg) {
+            print(msg);
+            if (mounted && msg.startsWith('Cut complete')) {
+              ScaffoldMessenger.of(context).showSnackBar(
+                SnackBar(
+                  content: Text(msg),
+                  backgroundColor: Colors.green,
+                  duration: const Duration(seconds: 2),
+                ),
+              );
+            }
+          },
+        );
+        
+        setState(() {
+          _lastOutPoint = _outPoint ?? _currentPosition;
+          _inPoint = null;
+          _outPoint = null;
+        });
+        
+      } catch (e) {
+        if (mounted) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            SnackBar(
+              content: Text('Cut failed: $e'),
+              backgroundColor: Colors.red,
+              duration: const Duration(seconds: 5),
+            ),
+          );
+        }
+      } finally {
+        if (mounted) setState(() => _isCutting = false);
+      }
+    }
+
+  Future<void> _combineAllCuts() async {
+    _combineVideoCuts();
+  }
+  
+  Future<void> _skipBackward1Frame() async {
+    final fps = _videoFps ?? 30.0;
+    final frameDuration = Duration(microseconds: (1000000 / fps).round());
+    final newPosition = _currentPosition - frameDuration;
+    final clampedPosition = Duration(
+      milliseconds: newPosition.inMilliseconds.clamp(0, _totalDuration.inMilliseconds)
+    );
+    await _seekTo(clampedPosition);
+  }
+  
+  Future<void> _skipForward1Frame() async {
+    final fps = _videoFps ?? 30.0;
+    final frameDuration = Duration(microseconds: (1000000 / fps).round());
+    final newPosition = _currentPosition + frameDuration;
+    final clampedPosition = Duration(
+      milliseconds: newPosition.inMilliseconds.clamp(0, _totalDuration.inMilliseconds)
+    );
+    await _seekTo(clampedPosition);
+  }
+  
+  Future<void> _combineVideoCuts() async {
+      if (_currentAudiobook == null) return;
+    
+      final systemFfmpeg = await VideoEditService.findSystemFfmpeg();
+      if (systemFfmpeg == null) {
+        if (mounted) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            const SnackBar(
+              content: Text('System ffmpeg not found. Install with: brew install ffmpeg'),
+              backgroundColor: Colors.red,
+              duration: Duration(seconds: 5),
+            ),
+          );
+        }
+        return;
+      }
+    
+      setState(() {
+        _showCutsOverlay = true;
+      });
+    }
+  
+    Future<void> _openCutsDirectory() async {
+      if (_currentAudiobook == null) return;
+      final cutsDir = VideoEditService.getCutsDirectory(_currentAudiobook!.path);
+      await Directory(cutsDir).create(recursive: true);
+      try {
+        if (Platform.isMacOS) {
+          await Process.run('open', [cutsDir]);
+        } else if (Platform.isLinux) {
+          await Process.run('xdg-open', [cutsDir]);
+        } else if (Platform.isWindows) {
+          await Process.run('explorer', [cutsDir]);
+        }
+      } catch (e) {
+        if (mounted) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            SnackBar(content: Text('Failed to open cuts directory: $e')),
+          );
+        }
+      }
+    }
+
+  Future<void> _performCombine(List<String> cutFiles, EncodeSettings settings) async {
+      final baseName = path.basenameWithoutExtension(_currentAudiobook!.path);
+      final sourceDir = path.dirname(_currentAudiobook!.path);
+      final cutsDir = VideoEditService.getCutsDirectory(_currentAudiobook!.path);
+  
+      final isWholeVideo = cutFiles.length == 1 && cutFiles.first == _currentAudiobook!.path;
+      final outputPath = isWholeVideo
+          ? path.join(sourceDir, '${baseName}_encoded.mp4')
+          : path.join(cutsDir, '${baseName}_combined.mp4');
+      final finalPath = isWholeVideo
+          ? outputPath
+          : path.join(sourceDir, '${baseName}_combined.mp4');
+  
+      setState(() {
+        _showCutsOverlay = false;
+        _isCombining = true;
+        _combineCancelled = false;
+        _combineProgress = 0.0;
+        _combineStep = 'Starting...';
+        _combineStartTime = DateTime.now();
+        _combineFinishTime = null;
+      });
+    
+      try {
+        await for (final progress in VideoEditService.stitchAndEncode(
+          segmentFiles: cutFiles,
+          outputPath: outputPath,
+          settings: settings,
+          onProcessStarted: (p) => _combineProcess = p,
+        )) {
+          if (_combineCancelled) {
+              _combineProcess?.kill();
+              _combineProcess = null;
+              break;
+            }
+          if (_combineCancelled) break;
+          if (mounted) {
+            setState(() {
+              _combineProgress = progress.percent;
+              _combineStep = progress.step;
+            });
+          }
+        }
+  
+        if (_combineCancelled) {
+          try { await File(outputPath).delete(); } catch (_) {}
+          if (mounted) {
+            setState(() {
+              _isCombining = false;
+              _combineFinishTime = null;
+              _combineProgress = 0.0;
+              _combineStep = '';
+              _combineStartTime = null;
+            });
+          }
+          return;
+        }
+  
+        if (!isWholeVideo) await File(outputPath).rename(finalPath);
+        _combineProcess = null;
+  
+        if (mounted) {
+          setState(() {
+            _isCombining = false;
+            _combineFinishTime = DateTime.now();
+          });
+        }
+      } catch (e) {
+        if (mounted) {
+          setState(() {
+            _isCombining = false;
+            _combineFinishTime = null;
+            _combineProgress = 0.0;
+            _combineStep = '';
+            _combineStartTime = null;
+          });
+          ScaffoldMessenger.of(context).showSnackBar(
+            SnackBar(
+              content: Text('Combine failed: $e'),
+              backgroundColor: Colors.red,
+              duration: const Duration(seconds: 30),
+            ),
+          );
+        }
+      }
+    }
+  
   Future<void> _navigateFonts(int direction) async {
     final filteredFonts = _getFilteredFonts();
     if (filteredFonts.isEmpty) return;
@@ -5611,6 +6041,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                             FontColorOverride.white => FontColorOverride.none,
                           };
                         });
+                        _saveDefaultSettings();
                       }
                       return KeyEventResult.handled;
                     } else if (event.logicalKey == LogicalKeyboardKey.keyB && 
@@ -5663,6 +6094,13 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               _showPanel = true;
               _panelMode = PanelMode.subs;
             });
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyT &&
+              event is KeyDownEvent &&
+              HardwareKeyboard.instance.isShiftPressed) {
+            if (_selectedLutName != null) {
+              _addLutToFavorites(_selectedLutName!);
+            }
             return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyT && event is KeyDownEvent) {
             setState(() {
@@ -5785,9 +6223,13 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           } else if (event.logicalKey == LogicalKeyboardKey.equal && event is KeyDownEvent) {
             _showGlyphViewerOverlay();
             return KeyEventResult.handled;
-          } else if (event.logicalKey == LogicalKeyboardKey.keyA && event is KeyDownEvent) {
-            _applyDefaultSettings();
-            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyA &&
+                             HardwareKeyboard.instance.isShiftPressed && event is KeyDownEvent) {
+                      _combineAllCuts();
+                      return KeyEventResult.handled;
+                    } else if (event.logicalKey == LogicalKeyboardKey.keyA && event is KeyDownEvent) {
+                      _applyDefaultSettings();
+                      return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.space) {
             _togglePlayPause();
             return KeyEventResult.handled;
@@ -5844,6 +6286,9 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               return KeyEventResult.handled;
             } else if (HardwareKeyboard.instance.isShiftPressed) {
               return KeyEventResult.ignored;
+            } else if (_showPanel && _panelMode == PanelMode.colors && _showingLuts) {
+              _navigateLuts(-1);
+              return KeyEventResult.handled;
             } else if (_showPanel && _panelMode == PanelMode.colors) {
               _navigateColors(-1);
               return KeyEventResult.handled;
@@ -5863,6 +6308,9 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               return KeyEventResult.handled;
             } else if (HardwareKeyboard.instance.isShiftPressed) {
               return KeyEventResult.ignored;
+            } else if (_showPanel && _panelMode == PanelMode.colors && _showingLuts) {
+              _navigateLuts(1);
+              return KeyEventResult.handled;
             } else if (_showPanel && _panelMode == PanelMode.colors) {
               _navigateColors(1);
               return KeyEventResult.handled;
@@ -5893,9 +6341,13 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               _skipForward3();
             }
             return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyI &&
+                     HardwareKeyboard.instance.isShiftPressed && event is KeyDownEvent) {
+              _setInPointToLastOutPoint();
+              return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyI && event is KeyDownEvent) {
-            _setInPoint();
-            return KeyEventResult.handled;
+              _setInPoint();
+              return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyO && event is KeyDownEvent) {
             _setOutPoint();
             return KeyEventResult.handled;
@@ -5909,11 +6361,19 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             _skipForward1();
             return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.comma && event is KeyDownEvent) {
-            _replaySegmentBack();
-            return KeyEventResult.handled;
+              if (_isVideoFile) {
+                  _skipBackward1Frame();
+              } else {
+                  _replaySegmentBack();
+              }
+              return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.period && event is KeyDownEvent) {
-            _replaySegmentForward();
-            return KeyEventResult.handled;
+              if (_isVideoFile) {
+                  _skipForward1Frame();
+              } else {
+                  _replaySegmentForward();
+              }
+              return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyN && event is KeyDownEvent) {
             _addBookmark();
             return KeyEventResult.handled;
@@ -6128,6 +6588,53 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                   onToggleVisibility: () {
                     setState(() {
                       _showAdhanOverlay = false;
+                    });
+                  },
+                ),
+
+              if (_showCutsOverlay && _currentAudiobook != null)
+                CutsOverlay(
+                  cutsDirectory: VideoEditService.getCutsDirectory(_currentAudiobook!.path),
+                  sourceVideoPath: _currentAudiobook!.path,
+                  cutFiles: () {
+                    final cutsDir = VideoEditService.getCutsDirectory(_currentAudiobook!.path);
+                    final dir = Directory(cutsDir);
+                    if (!dir.existsSync()) return <String>[];
+                    return dir.listSync()
+                        .whereType<File>()
+                        .where((f) => path.extension(f.path).toLowerCase() == path.extension(_currentAudiobook!.path).toLowerCase())
+                        .map((f) => f.path)
+                        .toList()
+                      ..sort();
+                  }(),
+                  onCombine: _performCombine,
+                  onCutCodecChanged: (codec) {
+                    setState(() => _selectedCutCodec = codec);
+                  },
+                  onOpenDirectory: _openCutsDirectory,
+                  onClose: () {
+                    setState(() {
+                      _showCutsOverlay = false;
+                    });
+                  },
+                ),
+
+              if (_isCombining || _combineFinishTime != null)
+                EncodeProgressOverlay(
+                  isEncoding: _isCombining,
+                  progress: _combineProgress,
+                  step: _combineStep,
+                  startTime: _combineStartTime,
+                  finishTime: _combineFinishTime,
+                  onCancel: _isCombining ? () {
+                        setState(() => _combineCancelled = true);
+                      } : null,
+                  onDismiss: () {
+                    setState(() {
+                      _combineFinishTime = null;
+                      _combineProgress = 0.0;
+                      _combineStep = '';
+                      _combineStartTime = null;
                     });
                   },
                 ),
@@ -6350,6 +6857,24 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                   favoriteColorPalettes: _favoriteColorPalettes,
                   onRemoveColorPaletteFavorite: _removeColorPaletteFromFavorites,
                   onAddColorPaletteFavorite: _addColorPaletteToFavorites,
+
+                  showingLuts: _showingLuts,
+                  lutFilterMode: _lutFilterMode,
+                  onToggleLutMode: (val) => setState(() => _showingLuts = val),
+                  onLutFilterChanged: (mode) => setState(() => _lutFilterMode = mode),
+                  getFilteredLuts: _getFilteredLuts,
+                  onLutSelected: (lut, index) {
+                    setState(() {
+                      _selectedLutIndex = index;
+                      _selectedLutPath = index == -1 ? null : lut.path;
+                      _selectedLutName = index == -1 ? null : lut.displayName;
+                    });
+                  },
+                  selectedLutIndex: _selectedLutIndex,
+                  favoriteLuts: _favoriteLuts,
+                  onAddLutFavorite: _addLutToFavorites,
+                  onRemoveLutFavorite: _removeLutFromFavorites,
+                  availableLuts: LutManager().availableLuts,
                   
                   frequencyItems: _frequencyItems,
                   isAnalyzingFrequencies: _isAnalyzingFrequencies,
@@ -6576,6 +7101,25 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     _scrollToSelectedColor();
   }
 
+  void _navigateLuts(int direction) {
+    final luts = _getFilteredLuts();
+    if (luts.isEmpty) return;
+  
+    final currentFiltered = _selectedLutIndex == -1
+        ? -1
+        : luts.indexWhere((l) => LutManager().availableLuts.indexWhere((a) => a.path == l.path) == _selectedLutIndex);
+  
+    final nextFiltered = (currentFiltered + direction).clamp(0, luts.length - 1);
+    final lut = luts[nextFiltered];
+    final actualIndex = LutManager().availableLuts.indexWhere((l) => l.path == lut.path);
+  
+    setState(() {
+      _selectedLutIndex = actualIndex;
+      _selectedLutPath = lut.path;
+      _selectedLutName = lut.displayName;
+    });
+  }
+
   void _scrollToSelectedColor() {
     if (!_colorScrollController.hasClients) return;
     final filteredColors = _getFilteredColors();
@@ -6609,6 +7153,392 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   }
 
   Widget _buildPlayer() {
+    if (_isVideoFile && !Platform.isAndroid) {
+      return Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Container(
+            color: Colors.black,
+            padding: const EdgeInsets.fromLTRB(16, 8, 16, 8),
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              mainAxisSize: MainAxisSize.min,
+              children: [
+                Text(
+                  path.basename(_currentAudiobook!.path),
+                  style: const TextStyle(color: Colors.white70, fontSize: 14),
+                  maxLines: 1,
+                  overflow: TextOverflow.ellipsis,
+                ),
+                if (_currentAudiobook!.chapters.isNotEmpty)
+                  RichText(
+                    maxLines: 1,
+                    overflow: TextOverflow.ellipsis,
+                    text: TextSpan(
+                      style: const TextStyle(color: Colors.white, fontSize: 14),
+                      children: [
+                        TextSpan(
+                          text: _hideChapterTitle 
+                              ? '↳ ${_currentChapterIndex + 1}/${_currentAudiobook!.chapters.length}'
+                              : '↳ ${_currentChapterIndex + 1}/${_currentAudiobook!.chapters.length}: ${_currentAudiobook!.chapters[_currentChapterIndex].title}',
+                        ),
+                        TextSpan(
+                          text: ' -${_formatChapterRemaining(_getChapterRemainingTime())}',
+                          style: const TextStyle(
+                            color: Colors.white54,
+                            fontWeight: FontWeight.normal,
+                          ),
+                        ),
+                      ],
+                    ),
+                  ),
+              ],
+            ),
+          ),
+          Expanded(
+            child: Stack(
+              children: [
+                Video(
+                  controller: _videoController,
+                  fit: BoxFit.contain,
+                  controls: NoVideoControls,
+                ),
+                if (_secondarySubtitleText.isNotEmpty)
+                  Positioned(
+                    bottom: 80,
+                    left: 32,
+                    right: 32,
+                    child: Center(
+                      child: Container(
+                        padding: const EdgeInsets.all(12),
+                        child: Stack(
+                          children: [
+                            if (_secondaryColorPalette?.strokeColor != null)
+                              Transform.translate(
+                                offset: Offset(_universalShadowOffset, _universalShadowOffset),
+                                child: RichText(
+                                  textAlign: TextAlign.center,
+                                  text: _buildColoredTextSpan(_secondarySubtitleText,
+                                    fontSize: _secondarySubtitleFontSize,
+                                    fontFamily: _secondarySubtitleFont,
+                                    palette: _secondaryColorPalette,
+                                    lineSpacing: _secondarySubtitleLineSpacing,
+                                    isStroke: true, useShadowColor: true),
+                                ),
+                              ),
+                            RichText(
+                              textAlign: TextAlign.center,
+                              text: _buildColoredTextSpan(_secondarySubtitleText,
+                                fontSize: _secondarySubtitleFontSize,
+                                fontFamily: _secondarySubtitleFont,
+                                palette: _secondaryColorPalette,
+                                lineSpacing: _secondarySubtitleLineSpacing,
+                                isStroke: false, useBlurShadow: _blurShadowEnabled),
+                            ),
+                            if (_secondaryColorPalette?.strokeColor != null)
+                              RichText(
+                                textAlign: TextAlign.center,
+                                text: _buildColoredTextSpan(_secondarySubtitleText,
+                                  fontSize: _secondarySubtitleFontSize,
+                                  fontFamily: _secondarySubtitleFont,
+                                  palette: _secondaryColorPalette,
+                                  lineSpacing: _secondarySubtitleLineSpacing,
+                                  isStroke: true),
+                              ),
+                          ],
+                        ),
+                      ),
+                    ),
+                  ),
+                if (_currentSubtitleText.isNotEmpty)
+                  Positioned(
+                    bottom: 16,
+                    left: 32,
+                    right: 32,
+                    child: Center(
+                      child: Container(
+                        padding: const EdgeInsets.all(16),
+                        child: Stack(
+                          children: [
+                            Transform.translate(
+                              offset: Offset(_universalShadowOffset, _universalShadowOffset),
+                              child: RichText(
+                                textAlign: TextAlign.center,
+                                text: _buildColoredTextSpan(_currentSubtitleText,
+                                  lineSpacing: _subtitleLineSpacing,
+                                  isStroke: true, useShadowColor: true),
+                              ),
+                            ),
+                            Transform.translate(
+                              offset: Offset(_universalShadowOffset, _universalShadowOffset),
+                              child: RichText(
+                                textAlign: TextAlign.center,
+                                text: _buildColoredTextSpan(_currentSubtitleText,
+                                  lineSpacing: _subtitleLineSpacing,
+                                  isStroke: false, useShadowColor: true),
+                              ),
+                            ),
+                            RichText(
+                              textAlign: TextAlign.center,
+                              text: _buildColoredTextSpan(_currentSubtitleText,
+                                lineSpacing: _subtitleLineSpacing,
+                                isStroke: false, useBlurShadow: _blurShadowEnabled),
+                            ),
+                            RichText(
+                              textAlign: TextAlign.center,
+                              text: _buildColoredTextSpan(_currentSubtitleText,
+                                lineSpacing: _subtitleLineSpacing,
+                                isStroke: true),
+                            ),
+                          ],
+                        ),
+                      ),
+                    ),
+                  ),
+              ],
+            ),
+          ),
+          PlayerControls(
+            hideTitle: true,
+            audiobook: _currentAudiobook ?? AudiobookMetadata(
+              path: '',
+              title: _youtubeTitle ?? 'YouTube Audio',
+              author: _youtubeChannelName ?? 'Unknown',
+              year: '',
+              duration: Duration.zero,
+              chapters: [],
+            ),
+            currentChapterIndex: _isYouTubeStream ? 0 : _currentChapterIndex,
+            currentPosition: _currentPosition,
+            totalDuration: _totalDuration,
+            isPlaying: _isPlaying,
+            playbackSpeed: _playbackSpeed,
+            videoResolution: _videoResolution,
+            videoFps: _videoFps,
+            selectedLutName: _selectedLutName,
+            fileSize: _fileSize,
+            averageBitrate: _averageBitrate,
+            shuffleEnabled: _shuffleEnabled,
+            conversionType: _displayConversionType,
+            currentAudioFormat: _currentAudioFormat,
+            playedChapters: _isYouTubeStream 
+                ? []
+                : _currentAudiobook?.chapters.where((c) => _playedChapters.contains(_currentAudiobook!.chapters.indexOf(c))).toList() ?? [],
+            selectedFont: _selectedFont,
+            defaultFont: _defaultFont,
+            defaultConversionType: _defaultConversionType,
+            defaultColorPalette: _defaultColorPalette,
+            currentColorPalette: _currentColorPalette,
+            currentSubtitleText: _currentSubtitleText,
+            subtitleFontSize: _subtitleFontSize,
+            subtitleLineSpacing: _subtitleLineSpacing,
+            secondarySubtitleText: _secondarySubtitleText,
+            secondarySubtitleFontSize: _secondarySubtitleFontSize,
+            secondarySubtitleFont: _secondarySubtitleFont,
+            secondaryColorPalette: _secondaryColorPalette,
+            secondarySubtitleLineSpacing: _secondarySubtitleLineSpacing,
+            sleepDuration: _sleepDuration,
+            sliderHoverPosition: _sliderHoverPosition,
+            hoveredChapterTitle: _hoveredChapterTitle,
+            pauseMode: _pauseMode,
+            onTogglePlayPause: _togglePlayPause,
+            onPreviousChapter: _previousChapter,
+            onNextChapter: _nextChapter,
+            onSkipBackward: _skipBackward,
+            onSkipForward: _skipForward,
+            skipToPreviousSubtitle: _skipToPreviousSubtitle,
+            skipToNextSubtitle: _skipToNextSubtitle,
+            onIncreaseSpeed: _increaseSpeed,
+            onDecreaseSpeed: _decreaseSpeed,
+            onToggleShuffle: _toggleShuffle,
+            onAddBookmark: _addBookmark,
+            hideChapterTitle: _hideChapterTitle,
+            hoveringPrevChapter: _hoveringPrevChapter,
+            hoveringNextChapter: _hoveringNextChapter,
+            onEditingMenuSelected: _onEditingMenuSelected,
+            onTogglePanel: () {
+              setState(() {
+                _showPanel = !_showPanel;
+                _panelMode = PanelMode.chapters;
+              });
+              if (_showPanel && !_isYouTubeStream) {
+                _scrollToCurrentChapter();
+              }
+            },
+            onSetSleepTimer: _setSleepTimer,
+            onSeekTo: _seekTo,
+            onSliderHover: (position) {
+              setState(() {
+                _sliderHoverPosition = position;
+                _hoveredChapterTitle = '';
+                
+                final sliderWidth = MediaQuery.of(context).size.width - 64;
+                final totalMillis = _totalDuration.inMilliseconds;
+                if (totalMillis > 0 && _currentAudiobook != null && _currentAudiobook!.chapters.isNotEmpty) {
+                  final hoverTime = Duration(
+                    milliseconds: ((position / sliderWidth) * totalMillis).toInt()
+                  );
+                  for (final chapter in _currentAudiobook!.chapters) {
+                    if (hoverTime >= chapter.startTime && hoverTime < chapter.endTime) {
+                      _hoveredChapterTitle = chapter.title;
+                      break;
+                    }
+                  }
+                }
+              });
+            },
+            onSliderExit: () {
+              setState(() {
+                _sliderHoverPosition = null;
+                _hoveredChapterTitle = null;
+              });
+            },
+            onPrevChapterHover: (hovering) {
+              setState(() {
+                _hoveringPrevChapter = hovering;
+              });
+            },
+            onNextChapterHover: (hovering) {
+              setState(() {
+                _hoveringNextChapter = hovering;
+              });
+            },
+            onSettingsMenuSelected: (context, value) {
+              switch (value) {
+                case 'encoder':
+                  setState(() {
+                    _showEncoderScreen = true;
+                  });
+                  break;
+                case 'metadata':
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                      builder: (context) => const MetadataEditorScreen(),
+                    ),
+                  );
+                  break;
+                case 'copy_metadata':
+                  _copyCurrentMetadata();
+                  break;
+                case 'copy_chapters':
+                  _copyChaptersList();
+                  break;
+                case 'set_default':
+                  _setCurrentAsDefault();
+                  break;
+                case 'apply_default':
+                  _applyDefaultSettings();
+                  break;
+                case 'open_dir':
+                  _openAudiobookDirectory();
+                  break;
+                case 'load':
+                  _openAudiobook();
+                  break;
+                case 'load_subtitle':
+                  _loadSubtitleFromVttDir();
+                  break;
+                case 'hideChapterTitle':
+                  setState(() {
+                    _hideChapterTitle = !_hideChapterTitle;
+                  });
+                  break;
+                case 'useBlurShadow':
+                   setState(() {
+                     _blurShadowEnabled = !_blurShadowEnabled;
+                   });
+                   break;
+                case 'useBlackFont':
+                  setState(() {
+                    _fontColorOverride = switch (_fontColorOverride) {
+                      FontColorOverride.none => FontColorOverride.black,
+                      FontColorOverride.black => FontColorOverride.white,
+                      FontColorOverride.white => FontColorOverride.none,
+                    };
+                  });
+                  break;
+                case 'copyCurrentSubtitle':
+                  _copyCurrentSubtitle();
+                  break;
+                case 'subtitle_manager':
+                  _openSubtitleManager();
+                  break;
+                case 'fullscreen':
+                  _toggleFullscreen();
+                  break;
+                case 'youtube_dialog':
+                  _showYouTubeDialog();
+                  break;
+                case 'select_audio_stream':
+                  if (_isYouTubeStream && _currentYouTubeUrl != null) {
+                    _showAudioStreamPicker(_currentYouTubeUrl!);
+                  } else {
+                    ScaffoldMessenger.of(context).showSnackBar(
+                      const SnackBar(
+                        content: Text('Only available for YouTube streams'),
+                      ),
+                    );
+                  }
+                  break;
+                case 'adhan_clock':
+                  setState(() {
+                    _showAdhanOverlay = !_showAdhanOverlay;
+                  });
+                  break;
+              }
+            },
+            onPauseModeChanged: (mode) {
+              setState(() {
+                _pauseMode = mode;
+                _pauseModeTimer?.cancel();
+                
+                if (mode == PauseMode.dictionary) {
+                  if (_currentSubtitleIndex != null && _currentSubtitleIndex! < _subtitles.length) {
+                    final cue = _subtitles[_currentSubtitleIndex!];
+                    _nextPauseTime = cue.endTime - const Duration(milliseconds: 200);
+                  }
+                } else {
+                  _nextPauseTime = null;
+                }
+              });
+            },
+            onOpenSubtitleManager: _openSubtitleManager,
+            onJumpToChapter: _jumpToChapter,
+            buildColoredTextSpan: _buildColoredTextSpan,
+            shadowOffset: _universalShadowOffset,
+            blurShadowEnabled: _blurShadowEnabled,
+            isVideoFile: _isVideoFile,
+            isYouTubeStream: _isYouTubeStream,
+            youtubeTitle: _youtubeTitle,
+            youtubeChannelName: _youtubeChannelName,
+            onShowSubtitlePreferences: _showSubtitlePreferencesDialog,
+            onShowDownload: _showDownloadDialog,
+            onShowYouTubeDialog: _showYouTubeDialog,
+            onShowAudioStreams: _isYouTubeStream && _currentYouTubeUrl != null
+                ? () => _showAudioStreamPicker(_currentYouTubeUrl!)
+                : null,
+            onCloseYouTube: () async {
+              await player.stop();
+              setState(() {
+                _currentAudiobook = null;
+                _currentChapterIndex = 0;
+                _isYouTubeStream = false;
+                _youtubeTitle = null;
+                _youtubeChannelName = null;
+                _currentYouTubeUrl = null;
+                _subtitles = [];
+                _originalSubtitles = [];
+                _currentSubtitleText = '';
+                _currentSubtitleIndex = null;
+                _subtitleFilePath = null;
+              });
+            },
+          ),
+        ],
+      );
+    }
+  
     return PlayerControls(
       audiobook: _currentAudiobook ?? AudiobookMetadata(
         path: '',
@@ -6638,6 +7568,9 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       currentColorPalette: _currentColorPalette,
       currentSubtitleText: _currentSubtitleText,
       subtitleFontSize: _subtitleFontSize,
+      videoResolution: _videoResolution,
+      videoFps: _videoFps,
+      selectedLutName: _selectedLutName,
       subtitleLineSpacing: _subtitleLineSpacing,
       secondarySubtitleText: _secondarySubtitleText,
       secondarySubtitleFontSize: _secondarySubtitleFontSize,
@@ -6815,6 +7748,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       buildColoredTextSpan: _buildColoredTextSpan,
       shadowOffset: _universalShadowOffset,
       blurShadowEnabled: _blurShadowEnabled,
+      isVideoFile: _isVideoFile,
       isYouTubeStream: _isYouTubeStream,
       youtubeTitle: _youtubeTitle,
       youtubeChannelName: _youtubeChannelName,
@@ -6840,6 +7774,37 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           _subtitleFilePath = null;
         });
       },
+    );
+  }
+  
+  String _formatChapterRemaining(Duration d) {
+    const ltrEmbed = '\u202A';
+    const popDir = '\u202C';
+    
+    if (d.inHours > 0) {
+      final hours = d.inHours;
+      final minutes = d.inMinutes.remainder(60);
+      final seconds = d.inSeconds.remainder(60);
+      final timeString = '$hours:${minutes.toString().padLeft(2, '0')}:${seconds.toString().padLeft(2, '0')}';
+      return '$ltrEmbed$timeString$popDir';
+    } else {
+      final minutes = d.inMinutes;
+      final seconds = d.inSeconds.remainder(60);
+      final timeString = '$minutes:${seconds.toString().padLeft(2, '0')}';
+      return '$ltrEmbed$timeString$popDir';
+    }
+  }
+  
+  Duration _getChapterRemainingTime() {
+    if (_currentAudiobook == null || _currentAudiobook!.chapters.isEmpty) {
+      return Duration.zero;
+    }
+    
+    final chapter = _currentAudiobook!.chapters[_currentChapterIndex];
+    final remaining = chapter.endTime - _currentPosition;
+    
+    return Duration(
+      milliseconds: (remaining.inMilliseconds / _playbackSpeed).round()
     );
   }
 

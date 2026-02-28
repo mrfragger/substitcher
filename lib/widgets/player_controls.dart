@@ -72,6 +72,11 @@ class PlayerControls extends StatelessWidget {
   final String? currentAudioFormat;
   final double shadowOffset;
   final bool blurShadowEnabled;
+  final bool isVideoFile;
+  final bool hideTitle;
+  final String? videoResolution;
+  final double? videoFps;
+  final String? selectedLutName;
   final TextSpan Function(String text, {double? fontSize, String? fontFamily, ColorPalette? palette, double? lineSpacing, bool isStroke, bool useShadowColor, bool useBlurShadow}) buildColoredTextSpan;
   
   const PlayerControls({
@@ -130,6 +135,11 @@ class PlayerControls extends StatelessWidget {
     required this.onEditingMenuSelected,
     required this.shadowOffset,
     required this.blurShadowEnabled,
+    required this.isVideoFile,
+    required this. videoResolution,
+    required this.videoFps,
+    required this.selectedLutName,
+    this.hideTitle = false,
     this.skipToPreviousSubtitle,
     this.skipToNextSubtitle,
     this.isYouTubeStream = false,
@@ -163,80 +173,81 @@ class PlayerControls extends StatelessWidget {
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
-        Padding(
-          padding: const EdgeInsets.fromLTRB(16, 8, 16, 0),
-          child: Column(
-            crossAxisAlignment: CrossAxisAlignment.start,
-            children: [
-              Row(
-                children: [
-                  if (isYouTubeStream) ...[
-                    if (onCloseYouTube != null)
-                      IconButton(
-                        icon: const Icon(Icons.close, color: Colors.red, size: 20),
-                        onPressed: onCloseYouTube,
-                        padding: EdgeInsets.zero,
-                        constraints: const BoxConstraints(),
-                        tooltip: 'Stop YouTube stream',
-                      ),
-                    const SizedBox(width: 8),
-                    const Icon(Icons.headphones, color: Colors.red, size: 16),
-                    const SizedBox(width: 8),
-                    if (youtubeChannelName != null) ...[
-                      Flexible(
-                        child: Text(
-                          youtubeChannelName!,
-                          style: const TextStyle(color: Colors.red, fontSize: 14),
-                          maxLines: 1,
-                          overflow: TextOverflow.ellipsis,
-                        ),
-                      ),
-                      const Text('  ', style: TextStyle(color: Colors.white70, fontSize: 14)),
-                    ],
-                  ],
-                  Expanded(
-                    child: Text(
-                      fileName,
-                      style: const TextStyle(color: Colors.white70, fontSize: 14),
-                      maxLines: 1,
-                      overflow: TextOverflow.ellipsis,
-                    ),
-                  ),
-                ],
-              ),
-              if (!isYouTubeStream && currentChapter != null)
+        if (!hideTitle)
+          Padding(
+            padding: const EdgeInsets.fromLTRB(16, 8, 16, 0),
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
                 Row(
                   children: [
-                    Flexible(
-                      child: RichText(
+                    if (isYouTubeStream) ...[
+                      if (onCloseYouTube != null)
+                        IconButton(
+                          icon: const Icon(Icons.close, color: Colors.red, size: 20),
+                          onPressed: onCloseYouTube,
+                          padding: EdgeInsets.zero,
+                          constraints: const BoxConstraints(),
+                          tooltip: 'Stop YouTube stream',
+                        ),
+                      const SizedBox(width: 8),
+                      const Icon(Icons.headphones, color: Colors.red, size: 16),
+                      const SizedBox(width: 8),
+                      if (youtubeChannelName != null) ...[
+                        Flexible(
+                          child: Text(
+                            youtubeChannelName!,
+                            style: const TextStyle(color: Colors.red, fontSize: 14),
+                            maxLines: 1,
+                            overflow: TextOverflow.ellipsis,
+                          ),
+                        ),
+                        const Text('  ', style: TextStyle(color: Colors.white70, fontSize: 14)),
+                      ],
+                    ],
+                    Expanded(
+                      child: Text(
+                        fileName,
+                        style: const TextStyle(color: Colors.white70, fontSize: 14),
                         maxLines: 1,
                         overflow: TextOverflow.ellipsis,
-                        text: TextSpan(
-                          style: const TextStyle(color: Colors.white, fontSize: 14),
-                          children: [
-                            TextSpan(
-                              text: hideChapterTitle 
-                                  ? '↳ ${currentChapterIndex + 1}/${audiobook.chapters.length}'
-                                  : '↳ ${currentChapterIndex + 1}/${audiobook.chapters.length}: ${currentChapter.title}',
-                            ),
-                            TextSpan(
-                              text: isYouTubeStream ? '' : ' -${_formatChapterRemaining(chapterRemaining)}',
-                              style: const TextStyle(
-                                color: Colors.white54,
-                                fontWeight: FontWeight.normal,
-                              ),
-                            ),
-                          ],
-                        ),
                       ),
                     ),
                   ],
                 ),
-            ],
+                if (!isYouTubeStream && currentChapter != null)
+                  Row(
+                    children: [
+                      Flexible(
+                        child: RichText(
+                          maxLines: 1,
+                          overflow: TextOverflow.ellipsis,
+                          text: TextSpan(
+                            style: const TextStyle(color: Colors.white, fontSize: 14),
+                            children: [
+                              TextSpan(
+                                text: hideChapterTitle 
+                                    ? '↳ ${currentChapterIndex + 1}/${audiobook.chapters.length}'
+                                    : '↳ ${currentChapterIndex + 1}/${audiobook.chapters.length}: ${currentChapter.title}',
+                              ),
+                              TextSpan(
+                                text: isYouTubeStream ? '' : ' -${_formatChapterRemaining(chapterRemaining)}',
+                                style: const TextStyle(
+                                  color: Colors.white54,
+                                  fontWeight: FontWeight.normal,
+                                ),
+                              ),
+                            ],
+                          ),
+                        ),
+                      ),
+                    ],
+                  ),
+              ],
+            ),
           ),
-        ),
         const Spacer(),
-        if (secondarySubtitleText.isNotEmpty)
+        if (!isVideoFile && secondarySubtitleText.isNotEmpty)
           Center(
             child: Padding(
               padding: const EdgeInsets.symmetric(horizontal: 32),
@@ -315,8 +326,8 @@ class PlayerControls extends StatelessWidget {
               ),
             ),
           ),
-        const SizedBox(height: 16),
-        if (currentSubtitleText.isNotEmpty)
+        if (!isVideoFile) const SizedBox(height: 16),
+        if (!isVideoFile && currentSubtitleText.isNotEmpty)
           Center(
             child: Padding(
               padding: const EdgeInsets.symmetric(horizontal: 32),
@@ -545,6 +556,23 @@ class PlayerControls extends StatelessWidget {
                                TextSpan(text: '$currentAudioFormat • '),
                              if (pauseMode != PauseMode.disabled && pauseMode != PauseMode.dictionary)
                                TextSpan(text: '${_getPauseModeText(pauseMode)} • '),
+                            if (selectedLutName != null) ...[
+                              TextSpan(
+                                text: '$selectedLutName ',
+                                style: const TextStyle(color: Colors.white),
+                              ),
+                            ],
+                            if (videoResolution != null) ...[
+                              TextSpan(
+                                text: '$videoResolution ',
+                                style: const TextStyle(color: Colors.orange),
+                              ),
+                            ],
+                            if (videoFps != null) ...[
+                              TextSpan(
+                                text: '${videoFps!.toStringAsFixed(0)}fps ',
+                              ),
+                            ],
                               TextSpan(
                                 text: '${playbackSpeed.toStringAsFixed(1)}x',
                                 style: const TextStyle(color: Colors.orange),
@@ -1005,7 +1033,7 @@ class PlayerControls extends StatelessWidget {
         ),
         const SizedBox(width: 8),
 
-        if (!isYouTubeStream)
+        if (!isYouTubeStream && !isVideoFile)
         PopupMenuButton<String>(
           icon: const Icon(Icons.compress, color: Colors.white70, size: 24),
           tooltip: 'Slicing',
@@ -1016,8 +1044,12 @@ class PlayerControls extends StatelessWidget {
               child: Text('Set In Point (i)'),
             ),
             const PopupMenuItem(
+              value: 'set_in_last_out',
+              child: Text('Set In Point to Last Out Point (⇧i)'),
+            ),
+            const PopupMenuItem(
               value: 'set_out',
-              child: Text('Set Out Point (o)'),
+              child: Text('Set Out Point ( o )'),
             ),
             const PopupMenuItem(
               value: 'seekToSubtitleEnd',
@@ -1025,11 +1057,11 @@ class PlayerControls extends StatelessWidget {
             ),
             const PopupMenuItem(
               value: 'seek_back_1s',
-              child: Text('Listen, Backward 1s (j)'),
+              child: Text('Listen, Backward 1s ( j )'),
             ),
             const PopupMenuItem(
               value: 'seek_forward_1s',
-              child: Text('Listen, Forward 1s (k)'),
+              child: Text('Listen, Forward 1s ( k )'),
             ),
             const PopupMenuItem(
               value: 'replay_back',
@@ -1041,6 +1073,24 @@ class PlayerControls extends StatelessWidget {
             ),
           ],
         ),
+        if (!isYouTubeStream && isVideoFile && !Platform.isAndroid)
+          PopupMenuButton<String>(
+            icon: const Icon(Icons.movie_edit, color: Colors.white70, size: 24),
+            tooltip: 'Video Editing',
+            onSelected: (value) => onEditingMenuSelected(context, value),
+            itemBuilder: (context) => [
+              const PopupMenuItem(value: 'set_in', child: Text('Set In Point ( i )')),
+              const PopupMenuItem(value: 'set_in_last_out', child: Text('Set In Point to Last Out Point ( ⇧i )')),
+              const PopupMenuItem(value: 'set_out', child: Text('Set Out Point ( o )')),
+              const PopupMenuDivider(),
+              const PopupMenuItem(value: 'combine_cuts', child: Text('All Cuts Combine → Encode  ( ⇧A )')),
+              const PopupMenuDivider(),
+              const PopupMenuItem(value: 'seek_back_1s', child: Text('Back 1s ( j )')),
+              const PopupMenuItem(value: 'seek_forward_1s', child: Text('Forward 1s ( k )')),
+              const PopupMenuItem(value: 'replay_back', child: Text('Back 1 Frame ( , )')),
+              const PopupMenuItem(value: 'replay_forward', child: Text('Forward 1 Frame ( . )')),
+            ],
+          ),
         const SizedBox(width: 8),
 
         PopupMenuButton<String>(

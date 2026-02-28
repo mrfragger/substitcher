@@ -125,6 +125,7 @@ class FontDatabase {
     'CF Bubblelock demo': FontMetadata(fontName: 'CF Bubblelock demo', mainCategory: FontCategory.demo123, subCategories: [FontCategory.seesawcase], studio: null),
     'Devo': FontMetadata(fontName: 'Devo', mainCategory: FontCategory.demo123, subCategories: [FontCategory.seesawcase], studio: null),
     'Harquil': FontMetadata(fontName: 'Harquil', mainCategory: FontCategory.demo123, subCategories: [FontCategory.seesawcase], studio: null),
+    'Random Thought': FontMetadata(fontName: 'Random Thought', mainCategory: FontCategory.demo123, subCategories: [FontCategory.seesawcase], studio: null),
     'Sidethree': FontMetadata(fontName: 'Sidethree', mainCategory: FontCategory.demo123, subCategories: [FontCategory.seesawcase], studio: null),
     'Zigzageo': FontMetadata(fontName: 'Zigzageo', mainCategory: FontCategory.demo123, subCategories: [FontCategory.seesawcase], studio: null),
 
@@ -362,6 +363,10 @@ class FontDatabase {
      'Galaxion': FontMetadata(fontName: 'Galaxion', mainCategory: FontCategory.demo, subCategories: [FontCategory.uppercase, FontCategory.ligatures], studio: null),
      'Mickey Mouse personal use': FontMetadata(fontName: 'Mickey Mouse personal use', mainCategory: FontCategory.demo, subCategories: [FontCategory.uppercase, FontCategory.ligatures], studio: null),
      'Sultan Cafe personal use': FontMetadata(fontName: 'Sultan Cafe personal use', mainCategory: FontCategory.demo, subCategories: [FontCategory.uppercase, FontCategory.ligatures], studio: null),
+
+// ==================== demo/UPPERCASE ====================
+'Funny Alfredo': FontMetadata(fontName: 'Funny Alfredo', mainCategory: FontCategory.demo, subCategories: [FontCategory.uppercase], studio: null),
+'Play Sundae': FontMetadata(fontName: 'Play Sundae', mainCategory: FontCategory.demo, subCategories: [FontCategory.uppercase], studio: null),
  
  // ==================== demo/MustBeUPPERCASE/177studio ====================
      'Brings Change demo': FontMetadata(fontName: 'Brings Change demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.mustBeUppercase], studio: FontCategory.studio177),
@@ -385,11 +390,6 @@ class FontDatabase {
 'Tailor Craft': FontMetadata(fontName: 'Tailor Craft', mainCategory: FontCategory.demo, subCategories: [FontCategory.mustBeUppercase], studio: FontCategory.putracetol),
 'The Good Panther': FontMetadata(fontName: 'The Good Panther', mainCategory: FontCategory.demo, subCategories: [FontCategory.mustBeUppercase], studio: FontCategory.putracetol),
 'Urban Sketart': FontMetadata(fontName: 'Urban Sketart', mainCategory: FontCategory.demo, subCategories: [FontCategory.mustBeUppercase], studio: FontCategory.putracetol),
-
-    // ==================== demo/MustBeUPPERCASE ====================
-'Funny Alfredo': FontMetadata(fontName: 'Funny Alfredo', mainCategory: FontCategory.demo, subCategories: [FontCategory.mustBeUppercase], studio: null),
-'Play Sundae': FontMetadata(fontName: 'Play Sundae', mainCategory: FontCategory.demo, subCategories: [FontCategory.mustBeUppercase], studio: null),
-
 
     };
    

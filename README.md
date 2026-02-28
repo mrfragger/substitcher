@@ -66,7 +66,7 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 - CJK (Chinese, Japanese, Korean) and Arabic subtitles
 - tokenizes Japanese with tiny segmenter
 - Chinese and Korean tokenizes pretty well
-- Apple Dictionary has following languages to English available as of January 2026:
+- Apple Dictionary has following languages to English available as of February 2026:
 - Arabic, Bangla, Cantonese, Simplified Chinese, Traditional Chinese, Croatian, Czech, Danish, Dutch, Finnish, French, German, Greek, Gujarati, Hindi, Hungarian, Indonesian, Italian, Japanese, Kannada, Kazakh, Korean, Malay, Malayalam, Norwegian, Polish, Portuguese, Punjabi, Russian, Slovak, Spanish, Swedish, Tamil, Telugu, Thai, Turkish, Ukranian, Urdu, Vietnamese
 
 ![](images/dictionary.jpg)
@@ -150,6 +150,11 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 - monochromatic, food palettes
 - letters work with alternates but not with ligatures
 - favorites list, shortcut key R (rang रंग Hindi is color)
+
+### LUTs (lookup tables - color presets)
+- only applicable to video cuts
+- Browse gallery of thumbs to see the 560 LUTs  [here](https://github.com/mrfragger/substitcher/releases)
+- final encode will include the LUTs that have been encoded in the cuts already
 
 ![](images/colors.jpg)
 
