@@ -344,6 +344,7 @@ Android (64-bit devices only, arm64-v8a)
 - Mole, for terminal, like Pear Cleaner https://github.com/tw93/Mole
 - VSCodium, half file size of VSCode https://vscodium.com
 - Text Power Tools, extension for VSCodium, powerful text manipulation
+</details>
 
 <details>
 <summary>tts (text to speech) from epub, pdf, markdown, etc. that support chapters</summary>
