@@ -320,17 +320,30 @@ Android (64-bit devices only, arm64-v8a)
 <details>
 <summary>Miscellaneous</summary>
 
-- Never will get a light theme nor support music, nor shadow blur mode as it uses 2x cpu usage
+- Never will get a light theme nor support music
 - Never will support cover images, choose audiobooks with covers and not to use subtitles, use kid3 app (qt free cross-platform app) for embedding a cover image
 - Reason is most audiobook players don't support subtitles, and ones that do, do so due to video support and having a cover image in background intefers with subtitles in most cases
 - It just puts a 16x9 black png image with META_BLOCK_PICTURE some info which is conforms to vorbis comment specification
 - encode wma or flv or other old codecs just batch convert them to opus then encode those to an opus chaptered audiobook
 - `parallel ffmpeg -i {} -c:a libopus -b:a 32k {.}.opus ::: *.wma` 
 - `parallel ffmpeg -i {} -c:a libopus -b:a 32k {.}.opus ::: *.flv`
-- Developed since 2022 but in Dec 2025 decided to port from mpv front-end lua scripts with uosc ui and remove video editing, LUTs to a flutter / dart app (not just Mac/Linux anymore) and make it purely an audiobook player
+- Developed since 2022 but in Dec 2025 decided to port from mpv front-end lua scripts with uosc ui, LUTs to a flutter / dart app (not just Mac/Linux anymore) and make it purely an audiobook player with some basic video editing
 - Edit fonts, create own fonts https://www.glyphrstudio.com/app (free)
 - view detailed info about fonts https://fontdrop.info (free)
 </details>
+
+<details>
+<summary>Mac App Recommendations</summary>
+- Transnomino, free file-renamer https://www.transnomino.com
+- Lulu, free open-source firewall https://objective-see.org/products/lulu.html
+- KeepassXC, free password manager https://keepassxc.org
+- Stats, free menu bar stats monitoring https://github.com/exelban/stats
+- Screen Kite, free record screen area with system sound, better than OBS https://www.screenkite.com 
+- LocalSend, cross-platform flutter app share files https://localsend.org
+- Pear Cleaner, clean up utility https://github.com/alienator88/Pearcleaner
+- Mole, for terminal, like Pear Cleaner https://github.com/tw93/Mole
+- VSCodium, half file size of VSCode https://vscodium.com
+- Text Power Tools, extension for VSCodium, powerful text manipulation
 
 <details>
 <summary>tts (text to speech) from epub, pdf, markdown, etc. that support chapters</summary>
