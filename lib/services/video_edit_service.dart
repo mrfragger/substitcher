@@ -723,28 +723,15 @@ class VideoEditService {
     return '.${s.container}';
   }
 
-  /// Builds the ffmpeg filter_complex string for a motion-tracked blur.
-  ///
-  /// [frames]     — output of VisionTrackingService.trackRegion
-  /// [videoWidth] / [videoHeight] — pixel dimensions of the video
-  /// [fps]        — video frame rate (needed to convert frame index → timestamp)
-  ///
-  /// The returned string is suitable for use as the -filter_complex argument.
-  /// It uses the sendcmd filter to update the overlay position per frame and
-  /// a boxblur on the cropped region, composited back with overlay.
   static String buildTrackingBlurFilter({
-    required List<dynamic> frames,   // List<TrackedFrame> but kept dynamic to avoid import cycle
+    required List<dynamic> frames, 
     required int videoWidth,
     required int videoHeight,
     required double fps,
   }) {
-    // frames is List<TrackedFrame> — access via reflection isn't ideal;
-    // pass pre-converted data instead. See note in cutVideoWithTracking below.
     throw UnimplementedError('Use buildTrackingBlurFilterFromCoords');
   }
   
-  /// [coords] — list of (frameIndex, x, y, w, h) normalised rows,
-  /// matching TrackedFrame fields.
   static String buildTrackingBlurFilterFromCoords({
     required List<List<double>> coords,
     required int videoWidth,
@@ -752,17 +739,6 @@ class VideoEditService {
     required double fps,
   }) {
     if (coords.isEmpty) return '';
-  
-    // Build an ffmpeg sendcmd script that repositions the overlay each frame.
-    // Strategy:
-    //   [0:v] split into [base] and [region_src]
-    //   [region_src] → crop (updated per-frame via sendcmd) → boxblur → [blurred]
-    //   [base][blurred] overlay (position updated per-frame via sendcmd)
-    //
-    // ffmpeg sendcmd can drive the crop filter's x/y/w/h and
-    // the overlay filter's x/y expression per timestamp.
-    //
-    // We write a sendcmd= inline script with one entry per frame.
   
     final sbCmd = StringBuffer();
   

@@ -1,10 +1,9 @@
 import 'dart:io';
 import 'package:flutter/services.dart';
 
-/// Normalised (0-1) bounding box per video frame.
 class TrackedFrame {
   final int frameIndex;
-  final double x, y, w, h;   // top-left origin, normalised to video dims
+  final double x, y, w, h;
 
   const TrackedFrame({
     required this.frameIndex,
@@ -18,16 +17,8 @@ class TrackedFrame {
 class VisionTrackingService {
   static const _channel = MethodChannel('com.substitcher/vision_tracker');
 
-  /// Returns true only on macOS — other platforms have no implementation.
   static bool get isAvailable => Platform.isMacOS;
 
-  /// Track a region across all frames of [videoPath].
-  ///
-  /// [x], [y], [w], [h] are normalised (0-1) relative to the video frame,
-  /// top-left origin — matching the same coordinate space used by [BlurRegion].
-  ///
-  /// Returns one [TrackedFrame] per video frame that Vision successfully tracked.
-  /// Throws if the platform channel call fails.
   static Future<List<TrackedFrame>> trackRegion({
     required String videoPath,
     required double x,
