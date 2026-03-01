@@ -141,6 +141,7 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 - glyph viewer (only 1-9, basic latin and ligatures)
 
 ![](images/fonts.jpg)
+
 ![](images/glyphviewer.jpg)
 
 ### Colors
