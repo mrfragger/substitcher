@@ -136,11 +136,12 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 - ligature demo fonts, subs need converting only once
 - alternates don't work with mixed CJK and Latin text on same subtitle line
 - favorites list
-- glyph viewer (only 1-9, basic latin and ligatures)
 - choose own custom folder for own fonts, refresh for added fonts, must restart app though to clear out removed fonts
 - custom folder can have subfolders although all fonts will be sorted alphabetically
+- glyph viewer (only 1-9, basic latin and ligatures)
 
 ![](images/fonts.jpg)
+![](images/glyphviewer.jpg)
 
 ### Colors
 - 750+ color palettes
