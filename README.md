@@ -244,7 +244,7 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 - cuts are huge in file size but combine all cuts encodes to x264 or x265 which are cpu encoded and small in file size
 - LosslessCut works great but can't make accurate cuts
 - blur up to two regions, only for cuts
-- Mac only, motion-tracking blur, invert mode which blurs out everything except motion-tracked object
+- Mac only, motion-tracking blur as well as invert mode which blurs out everything except motion-tracked object
 - motion-tracking has to encode cut once, run motion-tracking on cut, then encode cut again, so be patient
 - considering motion-tracking blur on Windows
 - even though ffmpeg is bundled with SubStitcher it is limited to audio only pretty much due to licensing restrictions since x264 and x265 are GPL so if wish to use Video Editing must install the full ffmpeg. 

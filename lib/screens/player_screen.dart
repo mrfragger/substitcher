@@ -5801,21 +5801,23 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   }
   
   Future<void> _skipBackward1Frame() async {
+    if (_isPlaying) await player.pause();
     final fps = _videoFps ?? 30.0;
     final frameDuration = Duration(microseconds: (1000000 / fps).round());
     final newPosition = _currentPosition - frameDuration;
     final clampedPosition = Duration(
-      milliseconds: newPosition.inMilliseconds.clamp(0, _totalDuration.inMilliseconds)
+      milliseconds: newPosition.inMilliseconds.clamp(0, _totalDuration.inMilliseconds),
     );
     await _seekTo(clampedPosition);
   }
   
   Future<void> _skipForward1Frame() async {
+    if (_isPlaying) await player.pause();
     final fps = _videoFps ?? 30.0;
     final frameDuration = Duration(microseconds: (1000000 / fps).round());
     final newPosition = _currentPosition + frameDuration;
     final clampedPosition = Duration(
-      milliseconds: newPosition.inMilliseconds.clamp(0, _totalDuration.inMilliseconds)
+      milliseconds: newPosition.inMilliseconds.clamp(0, _totalDuration.inMilliseconds),
     );
     await _seekTo(clampedPosition);
   }
