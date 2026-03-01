@@ -1075,6 +1075,7 @@ class PlayerControls extends StatelessWidget {
               const PopupMenuItem(value: 'set_out', child: Text('Set Out Point ( o )')),
               const PopupMenuItem(value: 'set_in_last_out', child: Text('Set In Point to Last Out Point ( ⇧i )')),
               const PopupMenuItem(value: 'handleBlurCycle', child: Text('Blur Regions ( - )')),
+              const PopupMenuItem(value: 'startDefiningTrackedBlur', child: Text('Motion-Tracking Blur Mac ( _ )')),
               const PopupMenuItem(value: 'combine_cuts', child: Text('All Cuts Combine → Encode  ( ⇧A )')),
               const PopupMenuItem(value: 'seek_back_1s', child: Text('Back 1s ( j )')),
               const PopupMenuItem(value: 'seek_forward_1s', child: Text('Forward 1s ( k )')),

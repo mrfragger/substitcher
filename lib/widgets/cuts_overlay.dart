@@ -580,12 +580,16 @@ class _CutsOverlayState extends State<CutsOverlay> {
                     color: Colors.deepPurple, size: 24),
                 const SizedBox(width: 8),
                 const Text(
-                  'Video Cuts',
+                  'Video Cuts ',
                   style: TextStyle(
                     color: Colors.white,
-                    fontSize: 24,
+                    fontSize: 20,
                     fontWeight: FontWeight.bold,
                   ),
+                ),
+                Text(
+                  widget.cutsDirectory,
+                  style: const TextStyle(color: Colors.white54, fontSize: 12),
                 ),
                 const Spacer(),
                 if (_loadingMetadata)
@@ -606,11 +610,6 @@ class _CutsOverlayState extends State<CutsOverlay> {
                   tooltip: 'Close (ESC)',
                 ),
               ],
-            ),
-            const SizedBox(height: 4),
-            Text(
-              widget.cutsDirectory,
-              style: const TextStyle(color: Colors.white54, fontSize: 12),
             ),
             const SizedBox(height: 16),
 

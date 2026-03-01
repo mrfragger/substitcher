@@ -1,7 +1,6 @@
 import 'dart:io';
 import 'dart:async';
 import 'package:path/path.dart' as path;
-import 'package:flutter/services.dart' show rootBundle;
 import 'package:path_provider/path_provider.dart';
 
 enum EncodeMode { encodeVideo, sliceVideo, encodeAudio, sliceAudio }
@@ -366,10 +365,12 @@ class VideoEditService {
     required Duration start,
     required Duration end,
     required VideoCodec cutCodec,
-    String? lutPath,
     List<BlurRegion> blurRegions = const [],
-    required int videoWidth,
-    required int videoHeight,
+    List<List<double>> trackedCoords = const [],
+    int videoWidth = 0,
+    int videoHeight = 0,
+    double videoFps = 30.0,
+    bool invertTrackedBlur = false,
     required Function(String) onProgress,
   }) async {
     final ffmpeg = await findSystemFfmpeg();
@@ -378,16 +379,6 @@ class VideoEditService {
     final startSecs = start.inMilliseconds / 1000.0;
     final duration = (end - start).inMilliseconds / 1000.0;
   
-    String? resolvedLutPath;
-    if (lutPath != null) {
-      final bytes = await rootBundle.load(lutPath);
-      final tempDir = await getTemporaryDirectory();
-      final fileName = path.basename(lutPath);
-      final tempFile = File(path.join(tempDir.path, fileName));
-      await tempFile.writeAsBytes(bytes.buffer.asUint8List());
-      resolvedLutPath = tempFile.path;
-    }
-  
     final args = <String>[
       '-y',
       '-ss', startSecs.toStringAsFixed(3),
@@ -395,45 +386,83 @@ class VideoEditService {
       '-t', duration.toStringAsFixed(3),
     ];
   
-    // Build -vf filter chain
-    final vfParts = <String>[];
-    if (resolvedLutPath != null) vfParts.add('lut3d=$resolvedLutPath');
+    if (trackedCoords.isNotEmpty && videoWidth > 0 && videoHeight > 0) {
+      final first = trackedCoords.first;
+      final ix = (first[1] * videoWidth).round().clamp(0, videoWidth - 1);
+      final iy = (first[2] * videoHeight).round().clamp(0, videoHeight - 1);
+      final iw = (first[3] * videoWidth).round().clamp(1, videoWidth - ix);
+      final ih = (first[4] * videoHeight).round().clamp(1, videoHeight - iy);
   
-    if (blurRegions.isNotEmpty) {
-      if (blurRegions.length == 1) {
-        // Single region: split → blur → overlay
-        final b = blurRegions[0].toVfFilter(videoWidth, videoHeight);
-        final px = (blurRegions[0].x * videoWidth).round();
-        final py = (blurRegions[0].y * videoHeight).round();
-        final baseFilter = vfParts.isEmpty ? '[0:v]' : '[0:v]${vfParts.join(',')}[lut];[lut]';
-        args.addAll([
-          '-filter_complex',
-          '${baseFilter}split=2[base][blur_src];'
-          '[blur_src]$b[blurred];'
-          '[base][blurred]overlay=$px:$py',
-        ]);
-      } else {
-        // Two regions: split=3 → blur each → overlay chain
-        final r0 = blurRegions[0];
-        final r1 = blurRegions[1];
-        final b0 = r0.toVfFilter(videoWidth, videoHeight);
-        final b1 = r1.toVfFilter(videoWidth, videoHeight);
-        final x0 = (r0.x * videoWidth).round();
-        final y0 = (r0.y * videoHeight).round();
-        final x1 = (r1.x * videoWidth).round();
-        final y1 = (r1.y * videoHeight).round();
-        final baseFilter = vfParts.isEmpty ? '[0:v]' : '[0:v]${vfParts.join(',')}[lut];[lut]';
-        args.addAll([
-          '-filter_complex',
-          '${baseFilter}split=3[base][s1][s2];'
-          '[s1]$b0[b1];'
-          '[s2]$b1[b2];'
-          '[base][b1]overlay=$x0:$y0[tmp];'
-          '[tmp][b2]overlay=$x1:$y1',
-        ]);
+      final tempDir = await getTemporaryDirectory();
+      final ts = DateTime.now().millisecondsSinceEpoch;
+  
+      final sendcmdScript = invertTrackedBlur
+          ? _buildInvertedTrackingFilterScript(
+              coords: trackedCoords,
+              videoWidth: videoWidth,
+              videoHeight: videoHeight,
+              fps: videoFps,
+            )
+          : _buildTrackingFilterScript(
+              coords: trackedCoords,
+              videoWidth: videoWidth,
+              videoHeight: videoHeight,
+              fps: videoFps,
+            );
+  
+      final sendcmdFile = File(path.join(tempDir.path, '_sendcmd_$ts.txt'));
+      await sendcmdFile.writeAsString(sendcmdScript);
+  
+      final filterComplex = invertTrackedBlur
+          ? _buildInvertedTrackingFilterComplex(
+              sendcmdScriptPath: sendcmdFile.path,
+              ix: ix, iy: iy, iw: iw, ih: ih,
+            )
+          : _buildTrackingFilterComplex(
+              sendcmdScriptPath: sendcmdFile.path,
+              ix: ix, iy: iy, iw: iw, ih: ih,
+            );
+  
+      final filterFile = File(path.join(tempDir.path, '_filter_$ts.txt'));
+      await filterFile.writeAsString(filterComplex);
+  
+      print('sendcmd script: ${sendcmdFile.path}');
+      print('sendcmd preview:\n${sendcmdScript.substring(0, sendcmdScript.length.clamp(0, 300))}');
+      print('filter_complex: $filterComplex');
+  
+      args.addAll(['-/filter_complex', filterFile.path]);
+  
+    } else {
+      if (blurRegions.isNotEmpty) {
+        if (blurRegions.length == 1) {
+          final b = blurRegions[0].toVfFilter(videoWidth, videoHeight);
+          final px = (blurRegions[0].x * videoWidth).round();
+          final py = (blurRegions[0].y * videoHeight).round();
+          args.addAll([
+            '-filter_complex',
+            '[0:v]split=2[base][blur_src];'
+            '[blur_src]$b[blurred];'
+            '[base][blurred]overlay=$px:$py',
+          ]);
+        } else {
+          final r0 = blurRegions[0];
+          final r1 = blurRegions[1];
+          final b0 = r0.toVfFilter(videoWidth, videoHeight);
+          final b1 = r1.toVfFilter(videoWidth, videoHeight);
+          final x0 = (r0.x * videoWidth).round();
+          final y0 = (r0.y * videoHeight).round();
+          final x1 = (r1.x * videoWidth).round();
+          final y1 = (r1.y * videoHeight).round();
+          args.addAll([
+            '-filter_complex',
+            '[0:v]split=3[base][s1][s2];'
+            '[s1]$b0[b1];'
+            '[s2]$b1[b2];'
+            '[base][b1]overlay=$x0:$y0[tmp];'
+            '[tmp][b2]overlay=$x1:$y1',
+          ]);
+        }
       }
-    } else if (vfParts.isNotEmpty) {
-      args.addAll(['-vf', vfParts.join(',')]);
     }
   
     switch (cutCodec) {
@@ -451,15 +480,21 @@ class VideoEditService {
   
     args.addAll(['-avoid_negative_ts', 'make_zero', '-movflags', '+faststart', outputPath]);
   
-    final blurLabel = blurRegions.isNotEmpty ? ' + ${blurRegions.length} blur region${blurRegions.length > 1 ? 's' : ''}' : '';
-    final lutLabel = lutPath != null ? ' + LUT' : '';
-    onProgress('Cutting with ${_codecName(cutCodec)}$lutLabel$blurLabel...');
+    final blurLabel = blurRegions.isNotEmpty
+        ? ' + ${blurRegions.length} blur region${blurRegions.length > 1 ? 's' : ''}'
+        : trackedCoords.isNotEmpty
+            ? ' + ${invertTrackedBlur ? 'portrait mode' : 'tracked blur'} (${trackedCoords.length} frames)'
+            : '';
+    onProgress('Cutting with ${_codecName(cutCodec)}$blurLabel...');
   
     final result = await Process.run(ffmpeg, args);
     print('cutVideo stderr: ${result.stderr}');
   
     if (result.exitCode != 0) {
-      throw Exception('Cut failed (exit ${result.exitCode}):\n${(result.stderr as String).split('\n').take(10).join('\n')}');
+      throw Exception(
+        'Cut failed (exit ${result.exitCode}):\n'
+        '${(result.stderr as String).split('\n').take(10).join('\n')}',
+      );
     }
   
     final outputFile = File(outputPath);
@@ -473,6 +508,81 @@ class VideoEditService {
     }
   
     onProgress('Cut complete: ${path.basename(outputPath)}');
+  }
+  
+  static String _buildTrackingFilterScript({
+    required List<List<double>> coords,
+    required int videoWidth,
+    required int videoHeight,
+    required double fps,
+  }) {
+    final sb = StringBuffer();
+    for (final row in coords) {
+      final ts = (row[0] / fps).toStringAsFixed(4);
+      final px = (row[1] * videoWidth).round().clamp(0, videoWidth - 1);
+      final py = (row[2] * videoHeight).round().clamp(0, videoHeight - 1);
+      final pw = (row[3] * videoWidth).round().clamp(1, videoWidth - px);
+      final ph = (row[4] * videoHeight).round().clamp(1, videoHeight - py);
+  
+      sb.writeln('$ts [enter] crop@blur x $px;');
+      sb.writeln('$ts [enter] crop@blur y $py;');
+      sb.writeln('$ts [enter] crop@blur w $pw;');
+      sb.writeln('$ts [enter] crop@blur h $ph;');
+      sb.writeln('$ts [enter] overlay@blur x $px;');
+      sb.writeln('$ts [enter] overlay@blur y $py;');
+    }
+    return sb.toString();
+  }
+  
+  static String _buildInvertedTrackingFilterScript({
+    required List<List<double>> coords,
+    required int videoWidth,
+    required int videoHeight,
+    required double fps,
+  }) {
+    final sb = StringBuffer();
+    for (final row in coords) {
+      final ts = (row[0] / fps).toStringAsFixed(4);
+      final px = (row[1] * videoWidth).round().clamp(0, videoWidth - 1);
+      final py = (row[2] * videoHeight).round().clamp(0, videoHeight - 1);
+      final pw = (row[3] * videoWidth).round().clamp(1, videoWidth - px);
+      final ph = (row[4] * videoHeight).round().clamp(1, videoHeight - py);
+  
+      sb.writeln('$ts [enter] crop@sharp x $px;');
+      sb.writeln('$ts [enter] crop@sharp y $py;');
+      sb.writeln('$ts [enter] crop@sharp w $pw;');
+      sb.writeln('$ts [enter] crop@sharp h $ph;');
+      sb.writeln('$ts [enter] overlay@sharp x $px;');
+      sb.writeln('$ts [enter] overlay@sharp y $py;');
+    }
+    return sb.toString();
+  }
+  
+  static String _buildTrackingFilterComplex({
+    required String sendcmdScriptPath,
+    required int ix,
+    required int iy,
+    required int iw,
+    required int ih,
+  }) {
+    return '[0:v]sendcmd=f=\'$sendcmdScriptPath\','
+        'split=2[base][blur_src];'
+        '[blur_src]crop@blur=$iw:$ih:$ix:$iy,boxblur=20:2[blurred];'
+        '[base][blurred]overlay@blur=$ix:$iy';
+  }
+  
+  static String _buildInvertedTrackingFilterComplex({
+    required String sendcmdScriptPath,
+    required int ix,
+    required int iy,
+    required int iw,
+    required int ih,
+  }) {
+    return '[0:v]split=2[base][blurall];'
+        '[blurall]boxblur=20:2[blurred_bg];'
+        '[base]sendcmd=f=\'$sendcmdScriptPath\','
+        'crop@sharp=$iw:$ih:$ix:$iy[sharp_region];'
+        '[blurred_bg][sharp_region]overlay@sharp=$ix:$iy';
   }
 
   static Future<void> combineCuts({
@@ -611,5 +721,82 @@ class VideoEditService {
     }
     if (s.mode == EncodeMode.sliceVideo) return path.extension(inputPath);
     return '.${s.container}';
+  }
+
+  /// Builds the ffmpeg filter_complex string for a motion-tracked blur.
+  ///
+  /// [frames]     — output of VisionTrackingService.trackRegion
+  /// [videoWidth] / [videoHeight] — pixel dimensions of the video
+  /// [fps]        — video frame rate (needed to convert frame index → timestamp)
+  ///
+  /// The returned string is suitable for use as the -filter_complex argument.
+  /// It uses the sendcmd filter to update the overlay position per frame and
+  /// a boxblur on the cropped region, composited back with overlay.
+  static String buildTrackingBlurFilter({
+    required List<dynamic> frames,   // List<TrackedFrame> but kept dynamic to avoid import cycle
+    required int videoWidth,
+    required int videoHeight,
+    required double fps,
+  }) {
+    // frames is List<TrackedFrame> — access via reflection isn't ideal;
+    // pass pre-converted data instead. See note in cutVideoWithTracking below.
+    throw UnimplementedError('Use buildTrackingBlurFilterFromCoords');
+  }
+  
+  /// [coords] — list of (frameIndex, x, y, w, h) normalised rows,
+  /// matching TrackedFrame fields.
+  static String buildTrackingBlurFilterFromCoords({
+    required List<List<double>> coords,
+    required int videoWidth,
+    required int videoHeight,
+    required double fps,
+  }) {
+    if (coords.isEmpty) return '';
+  
+    // Build an ffmpeg sendcmd script that repositions the overlay each frame.
+    // Strategy:
+    //   [0:v] split into [base] and [region_src]
+    //   [region_src] → crop (updated per-frame via sendcmd) → boxblur → [blurred]
+    //   [base][blurred] overlay (position updated per-frame via sendcmd)
+    //
+    // ffmpeg sendcmd can drive the crop filter's x/y/w/h and
+    // the overlay filter's x/y expression per timestamp.
+    //
+    // We write a sendcmd= inline script with one entry per frame.
+  
+    final sbCmd = StringBuffer();
+  
+    for (int i = 0; i < coords.length; i++) {
+      final row  = coords[i];
+      final ts   = row[0] / fps;
+      final px   = (row[1] * videoWidth).round().clamp(0, videoWidth - 1);
+      final py   = (row[2] * videoHeight).round().clamp(0, videoHeight - 1);
+      final pw   = (row[3] * videoWidth).round().clamp(1, videoWidth - px);
+      final ph   = (row[4] * videoHeight).round().clamp(1, videoHeight - py);
+  
+      final tsStr = ts.toStringAsFixed(4);
+  
+      sbCmd.write(
+        '$tsStr s crop@blur x $px;'
+        '$tsStr s crop@blur y $py;'
+        '$tsStr s crop@blur w $pw;'
+        '$tsStr s crop@blur h $ph;'
+        '$tsStr s overlay@blur x $px;'
+        '$tsStr s overlay@blur y $py;'
+      );
+    }
+  
+    final first = coords.first;
+    final ix = (first[1] * videoWidth).round().clamp(0, videoWidth - 1);
+    final iy = (first[2] * videoHeight).round().clamp(0, videoHeight - 1);
+    final iw = (first[3] * videoWidth).round().clamp(1, videoWidth - ix);
+    final ih = (first[4] * videoHeight).round().clamp(1, videoHeight - iy);
+  
+    final filterComplex =
+      '[0:v]sendcmd=c=\'${sbCmd.toString()}\',split=2[base][blur_src];'
+      '[blur_src]crop@blur=$iw:$ih:$ix:$iy,boxblur=20:2[blurred];'
+      '[base][blurred]overlay@blur=$ix:$iy';
+  
+    return filterComplex;
   }
 }

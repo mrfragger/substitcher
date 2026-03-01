@@ -36,6 +36,41 @@ class AppDelegate: FlutterAppDelegate {
         self.methodChannel?.invokeMethod("openFile", arguments: filePath)
       }
     }
+    
+    let visionChannel = FlutterMethodChannel(
+      name: "com.substitcher/vision_tracker",
+      binaryMessenger: controller.engine.binaryMessenger
+    )
+    
+    visionChannel.setMethodCallHandler { (call, result) in
+      guard call.method == "trackRegion" else {
+        result(FlutterMethodNotImplemented)
+        return
+      }
+      
+      guard
+        let args  = call.arguments as? [String: Any],
+        let path  = args["videoPath"] as? String,
+        let normX = args["x"] as? Double,
+        let normY = args["y"] as? Double,
+        let normW = args["w"] as? Double,
+        let normH = args["h"] as? Double
+      else {
+        result(FlutterError(
+          code: "BAD_ARGS",
+          message: "Expected videoPath, x, y, w, h",
+          details: nil
+        ))
+        return
+      }
+      
+      VisionTracker.trackRegion(
+        videoPath: path,
+        normX: normX, normY: normY,
+        normW: normW, normH: normH,
+        result: result
+      )
+    }
   }
   
   override func application(_ application: NSApplication, open urls: [URL]) {

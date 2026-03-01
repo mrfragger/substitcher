@@ -117,7 +117,7 @@ class EncodeProgressOverlay extends StatelessWidget {
                 const SizedBox(width: 8),
                 Expanded(
                   child: Text(
-                    isDone ? 'Encode Complete (L)' : 'Encoding...',
+                    isDone ? 'Encode Complete (⇧L open dir)' : 'Encoding...',
                     style: TextStyle(
                       color: isDone ? Colors.green : Colors.white,
                       fontSize: 13,

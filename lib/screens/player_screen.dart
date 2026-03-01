@@ -38,6 +38,7 @@ import '../services/stats_manager.dart';
 import '../services/adhan_clock_service.dart';
 import '../services/youtube_service.dart';
 import '../services/video_edit_service.dart';
+import '../services/vision_tracking_service.dart';
 import '../widgets/adhan_clock_overlay.dart';
 import '../widgets/subtitle_manager_dialog.dart';
 import '../widgets/side_panel.dart';
@@ -289,7 +290,6 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   Offset? _blurDragCurrent;
   final GlobalKey _videoStackKey = GlobalKey();
 
-
   bool _isLoadingAudioStreams = false;
   DateTime? _lastAudioStreamFetch;
   String? _currentAudioFormat;
@@ -326,6 +326,14 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   String? _videoResolution;
   double? _videoFps;
   
+  bool _isDefiningTrackedBlur = false;
+  Offset? _trackedBlurStart;
+  Offset? _trackedBlurEnd;
+  
+  bool _isTracking = false;
+  String _trackingStatus = '';
+  List<List<double>> _trackedCoords = [];
+  bool _trackedBlurInverted = false;
 
   @override
   void initState() {
@@ -5515,6 +5523,9 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       case 'handleBlurCycle':
         _handleBlurCycle();
         break;
+      case 'startDefiningTrackedBlur':
+        _startDefiningTrackedBlur();
+        break;
       case 'set_in_last_out':
         _setInPointToLastOutPoint();
         break;
@@ -5572,110 +5583,221 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   }
 
   Future<void> _cutVideoSegment() async {
-      if (_isCutting) {
+    if (_isCutting) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(
+          content: Text('Cut in progress, please wait…'),
+          duration: Duration(seconds: 2),
+        ),
+      );
+      return;
+    }
+  
+    if (_inPoint == null || _currentAudiobook == null) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(content: Text('Set In point first (i)')),
+      );
+      return;
+    }
+  
+    final outPoint = _outPoint ?? _currentPosition;
+    if (outPoint <= _inPoint!) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(content: Text('Out point must be after In point')),
+      );
+      return;
+    }
+  
+    final systemFfmpeg = await VideoEditService.findSystemFfmpeg();
+    if (systemFfmpeg == null) {
+      if (mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
           const SnackBar(
-            content: Text('Cut in progress, please wait…'),
-            duration: Duration(seconds: 2),
+            content: Text('System ffmpeg not found. Install with: brew install ffmpeg (Mac), sudo apt install ffmpeg (Linux), choco install ffmpeg (Windows)'),
+            backgroundColor: Colors.red,
+            duration: Duration(seconds: 10),
           ),
         );
-        return;
       }
+      return;
+    }
   
-      if (_inPoint == null || _currentAudiobook == null) {
-        ScaffoldMessenger.of(context).showSnackBar(
-          const SnackBar(content: Text('Set In point first (i)')),
-        );
-        return;
-      }
-      
-      final outPoint = _outPoint ?? _currentPosition;
-      if (outPoint <= _inPoint!) {
-        ScaffoldMessenger.of(context).showSnackBar(
-          const SnackBar(content: Text('Out point must be after In point')),
-        );
-        return;
-      }
-    
-      final systemFfmpeg = await VideoEditService.findSystemFfmpeg();
-      if (systemFfmpeg == null) {
+    final cutsDir = VideoEditService.getCutsDirectory(_currentAudiobook!.path);
+    await Directory(cutsDir).create(recursive: true);
+  
+    final ext = path.extension(_currentAudiobook!.path).toLowerCase();
+    final existingCuts = Directory(cutsDir)
+        .listSync()
+        .whereType<File>()
+        .where((f) => path.extension(f.path).toLowerCase() == ext)
+        .length;
+  
+    final cutNumber = (existingCuts + 1).toString().padLeft(4, '0');
+    final cutName = '$cutNumber$ext';
+    final outputPath = path.join(cutsDir, cutName);
+  
+    final videoWidth  = int.tryParse(_videoResolution?.split('x').firstOrNull ?? '1920') ?? 1920;
+    final videoHeight = int.tryParse(_videoResolution?.split('x').lastOrNull  ?? '1080') ?? 1080;
+    final hasPendingTrackedBlur = _trackedBlurStart != null && _trackedBlurEnd != null;
+  
+    setState(() => _isCutting = true);
+  
+    try {
+      await VideoEditService.cutVideo(
+        inputPath: _currentAudiobook!.path,
+        outputPath: outputPath,
+        start: _inPoint!,
+        end: outPoint,
+        cutCodec: _selectedCutCodec,
+        blurRegions: hasPendingTrackedBlur ? [] : _blurRegions,
+        trackedCoords: const [],
+        videoWidth: videoWidth,
+        videoHeight: videoHeight,
+        videoFps: _videoFps ?? 30.0,
+        onProgress: (msg) {
+          print(msg);
+          if (mounted && msg.startsWith('Cut complete') && !hasPendingTrackedBlur) {
+            ScaffoldMessenger.of(context).showSnackBar(
+              SnackBar(
+                content: Text(msg),
+                backgroundColor: Colors.green,
+                duration: const Duration(seconds: 2),
+              ),
+            );
+          }
+        },
+      );
+  
+      if (hasPendingTrackedBlur) {
         if (mounted) {
+          setState(() => _isTracking = true);
           ScaffoldMessenger.of(context).showSnackBar(
             const SnackBar(
-              content: Text('System ffmpeg not found. Install with: brew install ffmpeg'),
-              backgroundColor: Colors.red,
-              duration: Duration(seconds: 5),
+              content: Text('Cut complete. Now tracking motion…'),
+              backgroundColor: Colors.orange,
+              duration: Duration(seconds: 3),
             ),
           );
         }
-        return;
-      }
-    
-      final cutsDir = VideoEditService.getCutsDirectory(_currentAudiobook!.path);
-      await Directory(cutsDir).create(recursive: true);
-    
-      final ext = path.extension(_currentAudiobook!.path).toLowerCase();
-      final existingCuts = Directory(cutsDir)
-          .listSync()
-          .whereType<File>()
-          .where((f) => path.extension(f.path).toLowerCase() == ext)
-          .length;
-    
-      final cutNumber = (existingCuts + 1).toString().padLeft(4, '0');
-      final cutName = '$cutNumber$ext';
-      final outputPath = path.join(cutsDir, cutName);
-    
-      setState(() => _isCutting = true);
   
-      try {
-        await VideoEditService.cutVideo(
-          inputPath: _currentAudiobook!.path,
-          outputPath: outputPath,
-          start: _inPoint!,
-          end: outPoint,
-          cutCodec: _selectedCutCodec,
-          blurRegions: _blurRegions,
-          videoWidth: int.tryParse(_videoResolution?.split('x').firstOrNull ?? '1920') ?? 1920,
-          videoHeight: int.tryParse(_videoResolution?.split('x').lastOrNull ?? '1080') ?? 1080,
-          onProgress: (msg) {
-            print(msg);
-            if (mounted && msg.startsWith('Cut complete')) {
-              ScaffoldMessenger.of(context).showSnackBar(
-                SnackBar(
-                  content: Text(msg),
-                  backgroundColor: Colors.green,
-                  duration: const Duration(seconds: 2),
-                ),
-              );
-            }
-          },
+        final x = min(_trackedBlurStart!.dx, _trackedBlurEnd!.dx);
+        final y = min(_trackedBlurStart!.dy, _trackedBlurEnd!.dy);
+        final w = (_trackedBlurEnd!.dx - _trackedBlurStart!.dx).abs();
+        final h = (_trackedBlurEnd!.dy - _trackedBlurStart!.dy).abs();
+  
+        final frames = await VisionTrackingService.trackRegion(
+          videoPath: outputPath,
+          x: x, y: y, w: w, h: h,
         );
-      
-        setState(() {
-          _lastOutPoint = _outPoint ?? _currentPosition;
-          _inPoint = null;
-          _outPoint = null;
-          _blurRegions = [];
-          _blurDrawMode = false;
-        });
-      
-      } catch (e) {
-        if (mounted) {
-          ScaffoldMessenger.of(context).showSnackBar(
-            SnackBar(
-              content: Text('Cut failed: $e'),
-              backgroundColor: Colors.red,
-              duration: const Duration(seconds: 5),
-            ),
+  
+        if (mounted) setState(() => _isTracking = false);
+  
+        if (frames.isNotEmpty) {
+          final trackedCoords = frames
+              .map((f) => [f.frameIndex.toDouble(), f.x, f.y, f.w, f.h])
+              .toList();
+  
+          if (mounted) {
+            ScaffoldMessenger.of(context).showSnackBar(
+              const SnackBar(
+                content: Text('Tracking complete. Now encoding motion-tracking blur…'),
+                backgroundColor: Colors.orange,
+                duration: Duration(seconds: 3),
+              ),
+            );
+          }
+  
+          final blurredPath = path.join(cutsDir, 'tmp_blurred_$cutName');
+  
+          await VideoEditService.cutVideo(
+            inputPath: outputPath,
+            outputPath: blurredPath,
+            start: Duration.zero,
+            end: outPoint - _inPoint!,
+            cutCodec: _selectedCutCodec,
+            blurRegions: const [],
+            trackedCoords: trackedCoords,
+            videoWidth: videoWidth,
+            videoHeight: videoHeight,
+            videoFps: _videoFps ?? 30.0,
+            invertTrackedBlur: _trackedBlurInverted,
+            onProgress: (msg) {
+              print(msg);
+              if (mounted && msg.startsWith('Cut complete')) {
+                ScaffoldMessenger.of(context).showSnackBar(
+                  const SnackBar(
+                    content: Text('Motion-tracking blur complete ✓'),
+                    backgroundColor: Colors.green,
+                    duration: Duration(seconds: 3),
+                  ),
+                );
+              }
+            },
           );
+  
+          await File(outputPath).delete();
+          await File(blurredPath).rename(outputPath);
         }
-      } finally {
-        if (mounted) setState(() => _isCutting = false);
       }
+  
+      setState(() {
+        _lastOutPoint = _outPoint ?? _currentPosition;
+        _inPoint = null;
+        _outPoint = null;
+        _blurRegions = [];
+        _blurDrawMode = false;
+        _trackedCoords = [];
+        _trackedBlurStart = null;
+        _trackedBlurEnd = null;
+        _trackedBlurInverted = false;
+        _isTracking = false;
+      });
+  
+    } catch (e) {
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            content: Text('Cut failed: $e'),
+            backgroundColor: Colors.red,
+            duration: const Duration(seconds: 5),
+          ),
+        );
+      }
+    } finally {
+      if (mounted) setState(() => _isCutting = false);
+    }
   }
 
   Future<void> _combineAllCuts() async {
     _combineVideoCuts();
+  }
+
+  void _startDefiningTrackedBlur() {
+    if (_inPoint == null) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(
+          content: Text('Set In point first (i)'),
+          duration: Duration(seconds: 2),
+        ),
+      );
+      return;
+    }
+    if (!VisionTrackingService.isAvailable) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(
+          content: Text('Motion tracking is only available on macOS'),
+          duration: Duration(seconds: 3),
+        ),
+      );
+      return;
+    }
+    setState(() {
+      _isDefiningTrackedBlur = true;
+      _trackedBlurStart = null;
+      _trackedBlurEnd = null;
+      _trackedCoords = [];
+      _isTracking = false;
+    });
   }
   
   Future<void> _skipBackward1Frame() async {
@@ -5706,9 +5828,9 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         if (mounted) {
           ScaffoldMessenger.of(context).showSnackBar(
             const SnackBar(
-              content: Text('System ffmpeg not found. Install with: brew install ffmpeg'),
+              content: Text('brew install ffmpeg (Mac), sudo apt install ffmpeg (Linux), choco install ffmpeg (Windows)'),
               backgroundColor: Colors.red,
-              duration: Duration(seconds: 5),
+              duration: Duration(seconds: 10),
             ),
           );
         }
@@ -5944,6 +6066,10 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           }
   
           if (event.logicalKey == LogicalKeyboardKey.escape && event is KeyDownEvent) {
+            if (_showCutsOverlay) {
+              setState(() => _showCutsOverlay = false);
+              return KeyEventResult.handled;
+            }
             if (_blurDrawMode) {
               setState(() {
                 _blurDrawMode = false;
@@ -6204,10 +6330,15 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                     } else if (event.logicalKey == LogicalKeyboardKey.keyA && event is KeyDownEvent) {
                       _applyDefaultSettings();
                       return KeyEventResult.handled;
-          } else if (event.logicalKey == LogicalKeyboardKey.minus && event is KeyDownEvent) {
-            print('minus pressed — isVideoFile: $_isVideoFile, videoEditingMode: $_videoEditingMode');
+          } else if ((event.logicalKey == LogicalKeyboardKey.minus || 
+                      event.logicalKey == LogicalKeyboardKey.underscore) && 
+                     event is KeyDownEvent) {
             if (_isVideoFile) {
-              _handleBlurCycle();
+              if (HardwareKeyboard.instance.isShiftPressed) {
+                _startDefiningTrackedBlur();
+              } else {
+                _handleBlurCycle();
+              }
               return KeyEventResult.handled;
             }
           } else if (event.logicalKey == LogicalKeyboardKey.space) {
@@ -7324,6 +7455,12 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                     if (hoverTime >= chapter.startTime && hoverTime < chapter.endTime) {
                       _hoveredChapterTitle = chapter.title;
                       break;
+                    }
+                  }
+                  if (_inPoint != null && _isVideoFile) {
+                    final cutDuration = hoverTime - _inPoint!;
+                    if (cutDuration > Duration.zero) {
+                      _hoveredChapterTitle = '${_hoveredChapterTitle?.isNotEmpty == true ? '$_hoveredChapterTitle  ·  ' : ''}cut ${_formatDurationWithMs(cutDuration)}';
                     }
                   }
                 }
@@ -8531,6 +8668,77 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             );
           }(),
   
+        if (_trackedCoords.isNotEmpty && _trackedBlurStart != null && _trackedBlurEnd != null)
+          () {
+            final x = min(_trackedBlurStart!.dx, _trackedBlurEnd!.dx);
+            final y = min(_trackedBlurStart!.dy, _trackedBlurEnd!.dy);
+            final rw = (_trackedBlurEnd!.dx - _trackedBlurStart!.dx).abs();
+            final rh = (_trackedBlurEnd!.dy - _trackedBlurStart!.dy).abs();
+            return Positioned(
+              left: x * w,
+              top: y * h,
+              width: rw * w,
+              height: rh * h,
+              child: ClipRect(
+                child: BackdropFilter(
+                  filter: ImageFilter.blur(sigmaX: 15, sigmaY: 15),
+                  child: Container(
+                    decoration: BoxDecoration(
+                      color: Colors.white.withAlpha(13),
+                      border: Border.all(
+                        color: Colors.orangeAccent.withAlpha(204),
+                        width: 1.5,
+                      ),
+                    ),
+                  ),
+                ),
+              ),
+            );
+          }(),
+
+        if (_trackedBlurStart != null && _trackedBlurEnd != null && !_isDefiningTrackedBlur)
+            Positioned(
+              top: 12, right: 12,
+              child: GestureDetector(
+                onTap: () => setState(() => _trackedBlurInverted = !_trackedBlurInverted),
+                child: Container(
+                  padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 5),
+                  decoration: BoxDecoration(
+                    color: _trackedBlurInverted ? Colors.orange : Colors.black54,
+                    borderRadius: BorderRadius.circular(6),
+                    border: Border.all(color: Colors.orangeAccent),
+                  ),
+                  child: Text(
+                    _trackedBlurInverted ? 'Invert mode ✓' : 'Invert mode',
+                    style: const TextStyle(color: Colors.white, fontSize: 11),
+                  ),
+                ),
+              ),
+            ),
+  
+        if (_isDefiningTrackedBlur && _trackedBlurStart != null && _trackedBlurEnd != null)
+          () {
+            final x = min(_trackedBlurStart!.dx, _trackedBlurEnd!.dx);
+            final y = min(_trackedBlurStart!.dy, _trackedBlurEnd!.dy);
+            final rw = (_trackedBlurEnd!.dx - _trackedBlurStart!.dx).abs();
+            final rh = (_trackedBlurEnd!.dy - _trackedBlurStart!.dy).abs();
+            return Positioned(
+              left: x * w,
+              top: y * h,
+              width: rw * w,
+              height: rh * h,
+              child: Container(
+                decoration: BoxDecoration(
+                  color: Colors.orange.withAlpha(30),
+                  border: Border.all(
+                    color: Colors.orangeAccent.withAlpha(230),
+                    width: 1.5,
+                  ),
+                ),
+              ),
+            );
+          }(),
+  
         if (_blurDrawMode)
           Positioned.fill(
             child: MouseRegion(
@@ -8581,11 +8789,56 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             ),
           ),
   
+        if (_isDefiningTrackedBlur)
+          Positioned.fill(
+            child: MouseRegion(
+              cursor: SystemMouseCursors.precise,
+              onHover: (event) {
+                if (_trackedBlurStart != null) {
+                  setState(() {
+                    _trackedBlurEnd = Offset(
+                      (event.localPosition.dx / w).clamp(0.0, 1.0),
+                      (event.localPosition.dy / h).clamp(0.0, 1.0),
+                    );
+                  });
+                }
+              },
+              child: GestureDetector(
+                onTapDown: (d) {
+                  final pos = Offset(
+                    (d.localPosition.dx / w).clamp(0.0, 1.0),
+                    (d.localPosition.dy / h).clamp(0.0, 1.0),
+                  );
+                  if (_trackedBlurStart == null) {
+                    setState(() {
+                      _trackedBlurStart = pos;
+                      _trackedBlurEnd = pos;
+                    });
+                  } else {
+                    final rw = (_trackedBlurEnd!.dx - _trackedBlurStart!.dx).abs();
+                    final rh = (_trackedBlurEnd!.dy - _trackedBlurStart!.dy).abs();
+                    if (rw > 0.02 && rh > 0.02) {
+                      setState(() {
+                        _isDefiningTrackedBlur = false;
+                        _blurRegions.clear();
+                      });
+                      _runTracking();
+                    } else {
+                      setState(() {
+                        _trackedBlurStart = pos;
+                        _trackedBlurEnd = pos;
+                      });
+                    }
+                  }
+                },
+                child: Container(color: Colors.transparent),
+              ),
+            ),
+          ),
+  
         if (_blurDrawMode)
           Positioned(
-            top: 12,
-            left: 0,
-            right: 0,
+            top: 12, left: 0, right: 0,
             child: Center(
               child: Container(
                 padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
@@ -8604,8 +8857,121 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               ),
             ),
           ),
+  
+        if (_isDefiningTrackedBlur)
+          Positioned(
+            top: 12, left: 0, right: 0,
+            child: Center(
+              child: Container(
+                padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
+                decoration: BoxDecoration(
+                  color: Colors.black54,
+                  borderRadius: BorderRadius.circular(6),
+                ),
+                child: Text(
+                  _trackedBlurStart == null
+                      ? 'Click to set first corner of tracked blur region'
+                      : 'Click to confirm tracked blur region',
+                  style: const TextStyle(color: Colors.orangeAccent, fontSize: 12),
+                ),
+              ),
+            ),
+          ),
+  
+        if (_isTracking)
+          Positioned(
+            bottom: 8, left: 8,
+            child: Container(
+              padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 5),
+              decoration: BoxDecoration(
+                color: Colors.black54,
+                borderRadius: BorderRadius.circular(6),
+              ),
+              child: const Row(
+                mainAxisSize: MainAxisSize.min,
+                children: [
+                  SizedBox(
+                    width: 12, height: 12,
+                    child: CircularProgressIndicator(
+                      strokeWidth: 2,
+                      color: Colors.orangeAccent,
+                    ),
+                  ),
+                  SizedBox(width: 6),
+                  Text(
+                    'Tracking motion…',
+                    style: TextStyle(color: Colors.orangeAccent, fontSize: 11),
+                  ),
+                ],
+              ),
+            ),
+          ),
+        
+        if (!_isTracking && _trackedCoords.isNotEmpty)
+          Positioned(
+            bottom: 8, left: 8,
+            child: Container(
+              padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 5),
+              decoration: BoxDecoration(
+                color: Colors.black54,
+                borderRadius: BorderRadius.circular(6),
+              ),
+              child: Text(
+                '✓ ${_trackedCoords.length} frames tracked',
+                style: const TextStyle(color: Colors.orangeAccent, fontSize: 11),
+              ),
+            ),
+          ),
       ],
     );
+  }
+
+  Future<void> _runTracking() async {
+    if (_trackedBlurStart == null || _trackedBlurEnd == null) return;
+  
+    final currentPath = _currentAudiobook?.path;
+    if (currentPath == null) return;
+  
+    final x = min(_trackedBlurStart!.dx, _trackedBlurEnd!.dx);
+    final y = min(_trackedBlurStart!.dy, _trackedBlurEnd!.dy);
+    final w = (_trackedBlurEnd!.dx - _trackedBlurStart!.dx).abs();
+    final h = (_trackedBlurEnd!.dy - _trackedBlurStart!.dy).abs();
+  
+    setState(() {
+      _isTracking = true;
+      _trackedCoords = [];
+      _trackingStatus = '';
+    });
+  
+    try {
+      final frames = await VisionTrackingService.trackRegion(
+        videoPath: currentPath,
+        x: x, y: y, w: w, h: h,
+      );
+  
+      setState(() {
+        _trackedCoords = frames
+            .map((f) => [f.frameIndex.toDouble(), f.x, f.y, f.w, f.h])
+            .toList();
+        _isTracking = false;
+      });
+    } catch (e) {
+      setState(() {
+        _isTracking = false;
+        _trackedCoords = [];
+        _trackedBlurStart = null;
+        _trackedBlurEnd = null;
+      });
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            content: Text('Tracking failed: $e'),
+            backgroundColor: Colors.red,
+            duration: const Duration(seconds: 5),
+          ),
+        );
+      }
+    }
   }
 
   Future<void> _jumpToStatsResult(String filename, String chapterTitle, Duration startTime) async {
