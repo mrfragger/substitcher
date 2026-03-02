@@ -270,6 +270,7 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 - Preview all 500+ LUTS quickly use html thumbnail gallery
 - ![SubStitcherLUTGallery.zip 5.4MB](https://github.com/mrfragger/substitcher/raw/main/images/SubStitcherLUTGallery.zip)
 
+![](images/lutspicker.jpg)
 
 ### Installation
 <details>
