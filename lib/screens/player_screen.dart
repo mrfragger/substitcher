@@ -1,4 +1,4 @@
-  import 'package:flutter/material.dart';
+import 'package:flutter/material.dart';
 import 'package:file_picker/file_picker.dart';
 import 'package:media_kit/media_kit.dart';
 import 'package:media_kit_video/media_kit_video.dart';
@@ -8,6 +8,7 @@ import 'package:path/path.dart' as path;
 import 'package:flutter/services.dart';
 import 'package:flutter/foundation.dart' show compute;
 import 'package:wakelock_plus/wakelock_plus.dart';
+import 'package:image/image.dart' as img;
 import 'dart:async';
 import 'dart:io';
 import 'dart:ui';
@@ -15,6 +16,7 @@ import 'dart:convert';
 import 'dart:math';
 import 'metadata_editor_screen.dart';
 import 'encoder_screen.dart';
+import '../data/lut_list.dart';
 import '../models/adhan_settings.dart';
 import '../models/audiobook_metadata.dart';
 import '../models/font_category.dart';
@@ -41,6 +43,7 @@ import '../services/youtube_service.dart';
 import '../services/video_edit_service.dart';
 import '../services/vision_tracking_service.dart';
 import '../services/lut_thumbnail_service.dart';
+import '../services/lut_processor.dart';
 import '../widgets/adhan_clock_overlay.dart';
 import '../widgets/subtitle_manager_dialog.dart';
 import '../widgets/side_panel.dart';
@@ -339,6 +342,12 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   bool _trackedBlurInverted = false;
 
   LutItem? _selectedLut;
+  List<List<List<List<int>>>>? _loadedLutData;
+  String? _selectedLutName;
+  Set<String> _favoriteLuts = {};
+  List<LutItem> _availableLuts = [];
+  String _lutFilterMode = 'all';
+  int _selectedLutIndex = -1;
 
   @override
   void initState() {
@@ -380,6 +389,8 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     _loadFavoriteColorPalettes();
     _loadSkipTrackingTerms();
     _startCacheFlushTimer();
+    _loadFavoriteLuts();
+    _loadTestLut();
     WidgetsBinding.instance.addPostFrameCallback((_) {
       _focusNode.requestFocus();
       _adhanClockService.checkNow();
@@ -456,6 +467,74 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         _showAdhanOverlay = true;
       });
     }
+  }
+
+  Future<void> _loadFavoriteLuts() async {
+    final prefs = await SharedPreferences.getInstance();
+    setState(() {
+      _favoriteLuts = (prefs.getStringList('favoriteLuts') ?? []).toSet();
+    });
+  }
+  
+  Future<void> _selectLut(String? lutPath, String? lutName) async {
+    if (lutPath == null) {
+      setState(() {
+        _selectedLutName = null;
+        _loadedLutData = null;
+      });
+      return;
+    }
+    try {
+      final lutData = await rootBundle.loadString(lutPath);
+      final parsedLut = await LutProcessor.parseCubeLutFromString(lutData);
+      setState(() {
+        _selectedLutName = lutName;
+        _loadedLutData = parsedLut;
+      });
+    } catch (e) {
+      print('Error loading LUT: $e');
+    }
+  }
+  
+  Future<void> _loadTestLut() async {
+    await _selectLut(
+      'assets/lut/creative edgyember.cube',
+      'edgyember',
+    );
+  }
+
+  Future<void> _scanAvailableLuts() async {
+    final luts = lutList
+        .map((e) => LutItem(name: e['name']!, path: e['path']!))
+        .toList();
+    setState(() {
+      _availableLuts = luts;
+    });
+  }
+  
+  List<LutItem> _getFilteredLuts() {
+    List<LutItem> lutsToShow = _lutFilterMode == 'favorites'
+        ? _availableLuts.where((lut) => _favoriteLuts.contains(lut.name)).toList()
+        : _availableLuts;
+  
+    if (_searchQuery.isEmpty && _excludeTerms.isEmpty) return lutsToShow;
+  
+    final excludeList = _excludeTerms.split(' ').where((t) => t.isNotEmpty).toList();
+    return lutsToShow.where((lut) =>
+        _matchesSearch(lut.name.replaceAll('.cube', ''), _searchQuery, excludeList)
+    ).toList();
+  }
+  
+  Future<void> _addLutToFavorites(String lutName) async {
+    setState(() => _favoriteLuts.add(lutName));
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setStringList('favoriteLuts', _favoriteLuts.toList());
+  }
+  
+  Future<void> _removeLutFromFavorites(String lutName) async {
+    setState(() => _favoriteLuts.remove(lutName));
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setStringList('favoriteLuts', _favoriteLuts.toList());
   }
 
   @override
@@ -1377,6 +1456,31 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           final totalItems = ColorPalette.presets.length;
           if (totalItems <= 1) return;
           final percentage = paletteIndex / (totalItems - 1);
+          final targetScroll = maxScroll * percentage;
+          _colorScrollController.animateTo(
+            targetScroll,
+            duration: const Duration(milliseconds: 300),
+            curve: Curves.easeInOut,
+          );
+        }
+      });
+    }
+  }
+
+  void _scrollToSelectedLut() {
+    if (_showPanel && _panelMode == PanelMode.luts && _selectedLutIndex >= 0) {
+      WidgetsBinding.instance.addPostFrameCallback((_) {
+        if (_colorScrollController.hasClients) {
+          final filteredLuts = _getFilteredLuts();
+          if (_selectedLutIndex >= _availableLuts.length) return;
+          final currentLut = _availableLuts[_selectedLutIndex];
+          final filteredIndex = filteredLuts.indexOf(currentLut);
+          if (filteredIndex == -1) return;
+          final maxScroll = _colorScrollController.position.maxScrollExtent;
+          if (maxScroll <= 0) return;
+          final totalItems = filteredLuts.length;
+          if (totalItems <= 1) return;
+          final percentage = filteredIndex / (totalItems - 1);
           final targetScroll = maxScroll * percentage;
           _colorScrollController.animateTo(
             targetScroll,
@@ -6230,12 +6334,22 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               _panelMode = PanelMode.subs;
             });
             return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyT && HardwareKeyboard.instance.isShiftPressed && event is KeyDownEvent) {
+            setState(() {
+              _showPanel = true;
+              _panelMode = PanelMode.luts;
+            });
+            if (_availableLuts.isEmpty) {
+              _scanAvailableLuts();
+            }
+            _scrollToSelectedLut();
+            return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyT && event is KeyDownEvent) {
             setState(() {
               _showPanel = true;
               _panelMode = PanelMode.stats;
             });
-            return KeyEventResult.handled;
+            return KeyEventResult.handled;          
           } else if (event.logicalKey == LogicalKeyboardKey.home && event is KeyDownEvent) {
             player.seek(Duration.zero);
             return KeyEventResult.handled;
@@ -6436,6 +6550,9 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               return KeyEventResult.handled;
             } else if (HardwareKeyboard.instance.isShiftPressed) {
               return KeyEventResult.ignored;
+            } else if (_showPanel && _panelMode == PanelMode.luts) {
+              _navigateLuts(-1);
+              return KeyEventResult.handled;
             } else if (_showPanel && _panelMode == PanelMode.colors) {
               _navigateColors(-1);
               return KeyEventResult.handled;
@@ -6446,25 +6563,28 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               _increaseFontSize();
               return KeyEventResult.handled;
             }
-          } else if (event.logicalKey == LogicalKeyboardKey.arrowDown) {
-            if (HardwareKeyboard.instance.isControlPressed) {
-              setState(() {
-                _subtitleLineSpacing = ((_subtitleLineSpacing * 100).round() - 1) / 100;
-                _subtitleLineSpacing = _subtitleLineSpacing.clamp(0.5, 2.5);
-              });
-              return KeyEventResult.handled;
-            } else if (HardwareKeyboard.instance.isShiftPressed) {
-              return KeyEventResult.ignored;
-            } else if (_showPanel && _panelMode == PanelMode.colors) {
-              _navigateColors(1);
-              return KeyEventResult.handled;
-            } else if (_showPanel && _panelMode == PanelMode.fonts) {
-              _navigateFonts(1);
-              return KeyEventResult.handled;
-            } else {
-              _decreaseFontSize();
-              return KeyEventResult.handled;
-            }
+            } else if (event.logicalKey == LogicalKeyboardKey.arrowDown) {
+              if (HardwareKeyboard.instance.isControlPressed) {
+                setState(() {
+                  _subtitleLineSpacing = ((_subtitleLineSpacing * 100).round() - 1) / 100;
+                  _subtitleLineSpacing = _subtitleLineSpacing.clamp(0.5, 2.5);
+                });
+                return KeyEventResult.handled;
+              } else if (HardwareKeyboard.instance.isShiftPressed) {
+                return KeyEventResult.ignored;
+              } else if (_showPanel && _panelMode == PanelMode.luts) {
+                _navigateLuts(1);
+                return KeyEventResult.handled;
+              } else if (_showPanel && _panelMode == PanelMode.colors) {
+                _navigateColors(1);
+                return KeyEventResult.handled;
+              } else if (_showPanel && _panelMode == PanelMode.fonts) {
+                _navigateFonts(1);
+                return KeyEventResult.handled;
+              } else {
+                _decreaseFontSize();
+                return KeyEventResult.handled;
+              }
           } else if (event.logicalKey == LogicalKeyboardKey.arrowLeft) {
             if (HardwareKeyboard.instance.isShiftPressed) {
               _previousChapter();
@@ -6656,6 +6776,21 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               });
               return KeyEventResult.handled;
             }
+          } else if (_showPanel && _panelMode == PanelMode.luts) {
+            if (event.logicalKey == LogicalKeyboardKey.digit1 || event.logicalKey == LogicalKeyboardKey.numpad1) {
+              setState(() => _lutFilterMode = 'all');
+              return KeyEventResult.handled;
+            } else if (event.logicalKey == LogicalKeyboardKey.digit2 || event.logicalKey == LogicalKeyboardKey.numpad2) {
+              setState(() => _lutFilterMode = 'favorites');
+              return KeyEventResult.handled;
+            } else if (event.logicalKey == LogicalKeyboardKey.digit3 || event.logicalKey == LogicalKeyboardKey.numpad3) {
+              setState(() {
+                _selectedLutIndex = -1;
+                _selectedLutName = null;
+                _loadedLutData = null;
+              });
+              return KeyEventResult.handled;
+            }
           } else if (event.logicalKey == LogicalKeyboardKey.keyX && event is KeyDownEvent) {
             if (_primarySubtitlePath != null || _secondarySubtitlePath != null) {
               setState(() {
@@ -6826,8 +6961,13 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                     } else if (mode == PanelMode.history || mode == PanelMode.bookmarks) {
                       _scrollToTopOfHistory();
                     } else if (mode == PanelMode.colors) {
-                        _scrollToSelectedColorPalette();
+                      _scrollToSelectedColorPalette();
+                    } else if (mode == PanelMode.luts) {
+                      if (_availableLuts.isEmpty) {
+                        _scanAvailableLuts();
                       }
+                      _scrollToSelectedLut();
+                    }
                   },
                   onSearchChanged: (value) {
                     setState(() {
@@ -7111,6 +7251,28 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                   jumpToStatsResult: (filename, chapterTitle, startTime) {
                     _jumpToStatsResult(filename, chapterTitle, startTime);
                   },
+                  availableLuts: _availableLuts,
+                  getFilteredLuts: _getFilteredLuts,
+                  selectedLutIndex: _selectedLutIndex,
+                  onLutSelected: (lut, index) async {
+                    if (lut.path.isEmpty) {
+                      setState(() {
+                        _selectedLutIndex = -1;
+                        _selectedLutName = null;
+                        _loadedLutData = null;
+                      });
+                    } else {
+                      final actualIndex = _availableLuts.indexWhere((l) => l.path == lut.path);
+                      setState(() => _selectedLutIndex = actualIndex);
+                      await _selectLut(lut.path, lut.name.replaceAll('.cube', ''));
+                    }
+                  },
+                  favoriteLuts: _favoriteLuts,
+                  lutFilterMode: _lutFilterMode,
+                  onLutFilterModeChanged: (mode) => setState(() => _lutFilterMode = mode),
+                  onAddLutFavorite: _addLutToFavorites,
+                  onRemoveLutFavorite: _removeLutFromFavorites,
+                  selectedLutName: _selectedLutName,
                 ),
               
               if (_showWordOverlay && _currentSubtitleText.isNotEmpty)
@@ -7226,6 +7388,24 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     });
     _applyColorPalette(newPalette);
     _scrollToSelectedColor();
+  }
+
+  void _navigateLuts(int direction) {
+    final filteredLuts = _getFilteredLuts();
+    if (filteredLuts.isEmpty) return;
+    final currentLut = _selectedLutIndex >= 0 && _selectedLutIndex < _availableLuts.length
+        ? _availableLuts[_selectedLutIndex]
+        : null;
+    int filteredIndex = currentLut != null ? filteredLuts.indexOf(currentLut) : 0;
+    if (filteredIndex == -1) filteredIndex = 0;
+    filteredIndex = (filteredIndex + direction).clamp(0, filteredLuts.length - 1);
+    final newLut = filteredLuts[filteredIndex];
+    final actualIndex = _availableLuts.indexOf(newLut);
+    setState(() {
+      _selectedLutIndex = actualIndex;
+    });
+    _selectLut(newLut.path, newLut.name.replaceAll('.cube', ''));
+    _scrollToSelectedLut();
   }
 
   void _scrollToSelectedColor() {
@@ -8390,9 +8570,25 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     }
   }
 
+  Color _applyLutToColor(Color color) {
+    if (_loadedLutData == null) return color;
+    try {
+      final r = (color.r * 255.0).round().clamp(0, 255);
+      final g = (color.g * 255.0).round().clamp(0, 255);
+      final b = (color.b * 255.0).round().clamp(0, 255);
+      final imgColor = img.ColorRgb8(r, g, b);
+      final transformed = LutProcessor.lookupLut(imgColor, _loadedLutData!);
+      return Color.fromARGB(255, transformed.r.toInt(), transformed.g.toInt(), transformed.b.toInt());
+    } catch (e) {
+      print('Error applying LUT: $e');
+      return color;
+    }
+  }
+
   Color _parseColor(String hexColor) {
     final hex = hexColor.replaceAll('#', '');
-    return Color(int.parse('FF$hex', radix: 16));
+    final baseColor = Color(int.parse('FF$hex', radix: 16));
+    return _applyLutToColor(baseColor);
   }
   
   Future<void> _applyColorPalette(ColorPalette palette) async {

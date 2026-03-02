@@ -138,9 +138,12 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 - favorites list
 - choose own custom folder for own fonts, refresh for added fonts, must restart app though to clear out removed fonts
 - custom folder can have subfolders although all fonts will be sorted alphabetically
-- glyph viewer (only 1-9, basic latin and ligatures)
+- 500+ LUTs (color presets) applied to subtitles and existing color palettes, hidden to right of Stats tab
 
 ![](images/fonts.jpg)
+
+### Glyph Viewer
+only 1-9, basic latin and ligatures
 
 ![](images/glyphviewer.jpg)
 
@@ -260,6 +263,8 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 - choose category/author for quick navigation
 - favorites list
 - 200MB cache limit and clears on app close
+- Preview all 500+ LUTS quickly use html thumbnail gallery
+- ![SubStitcherLUTGallery.zip 5.4MB](images/SubStitcherLUTGallery.zip)
 
 ### Installation
 <details>
