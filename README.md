@@ -248,10 +248,18 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 - motion-tracking has to encode cut once, run motion-tracking on cut, then encode cut again, so be patient
 - considering motion-tracking blur on Windows
 - even though ffmpeg is bundled with SubStitcher it is limited to audio only pretty much due to licensing restrictions since x264 and x265 are GPL so if wish to use Video Editing must install the full ffmpeg. 
-- flutter limitations with media_kit don't allow filters to be applied in realtime unlike mpv lua scripts.  So can't have audio filtering nor LUTs showing on video. 
+- flutter limitations with media_kit don't allow filters to be applied in realtime unlike mpv lua scripts.  So can't have audio filtering nor LUTs showing on video.
+- HOME seek to start of media, END seek to end of media
 
 ![](images/videoediting.jpg)
 
+### LUTs
+- 500+ LUTS (looup tables which are color presets for images/videos)
+- all free and can be applied to cuts
+- Lut Picker showing original set in point frame with 5 LUTs at a time
+- choose category/author for quick navigation
+- favorites list
+- 200MB cache limit and clears on app close
 
 ### Installation
 <details>
@@ -337,7 +345,8 @@ Android (64-bit devices only, arm64-v8a)
 
 <details>
 <summary>Miscellaneous</summary>
-
+- Substicher is a flutter app so small in size.  It appears big but isn't all that huge.
+- 70MB fonts and 65MB LUTs. So Mac app size is 228MB  - 135MB (assets) = 93MB
 - Never will get a light theme nor support music
 - Never will support cover images, choose audiobooks with covers and not to use subtitles, use kid3 app (qt free cross-platform app) for embedding a cover image
 - Reason is most audiobook players don't support subtitles, and ones that do, do so due to video support and having a cover image in background intefers with subtitles in most cases

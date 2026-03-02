@@ -2,6 +2,7 @@ import 'dart:io';
 import 'dart:async';
 import 'package:path/path.dart' as path;
 import 'package:path_provider/path_provider.dart';
+import 'package:flutter/services.dart' show rootBundle, ByteData;
 
 enum EncodeMode { encodeVideo, sliceVideo, encodeAudio, sliceAudio }
 enum VideoCodec { x264, x265, videotoolbox, nvenc, amf, qsv }
@@ -360,155 +361,191 @@ class VideoEditService {
   }
 
   static Future<void> cutVideo({
-    required String inputPath,
-    required String outputPath,
-    required Duration start,
-    required Duration end,
-    required VideoCodec cutCodec,
-    List<BlurRegion> blurRegions = const [],
-    List<List<double>> trackedCoords = const [],
-    int videoWidth = 0,
-    int videoHeight = 0,
-    double videoFps = 30.0,
-    bool invertTrackedBlur = false,
-    required Function(String) onProgress,
-  }) async {
-    final ffmpeg = await findSystemFfmpeg();
-    if (ffmpeg == null) throw Exception('System ffmpeg not found');
+      required String inputPath,
+      required String outputPath,
+      required Duration start,
+      required Duration end,
+      required VideoCodec cutCodec,
+      List<BlurRegion> blurRegions = const [],
+      List<List<double>> trackedCoords = const [],
+      int videoWidth = 0,
+      int videoHeight = 0,
+      double videoFps = 30.0,
+      bool invertTrackedBlur = false,
+      String? lutAssetPath,
+      required Function(String) onProgress,
+    }) async {
+      final ffmpeg = await findSystemFfmpeg();
+      if (ffmpeg == null) throw Exception('System ffmpeg not found');
   
-    final startSecs = start.inMilliseconds / 1000.0;
-    final duration = (end - start).inMilliseconds / 1000.0;
+      String? tmpLutPath;
+      if (lutAssetPath != null) {
+        try {
+          final bytes = await rootBundle.load(lutAssetPath);
+          final tmp = await getTemporaryDirectory();
+          tmpLutPath = path.join(
+            tmp.path,
+            'cut_lut_${DateTime.now().millisecondsSinceEpoch}.cube',
+          );
+          await File(tmpLutPath).writeAsBytes(bytes.buffer.asUint8List());
+        } catch (e) {
+          print('Warning: could not extract LUT asset — $e');
+          tmpLutPath = null;
+        }
+      }
   
-    final args = <String>[
-      '-y',
-      '-ss', startSecs.toStringAsFixed(3),
-      '-i', inputPath,
-      '-t', duration.toStringAsFixed(3),
-    ];
+      try {
+        final startSecs = start.inMilliseconds / 1000.0;
+        final duration = (end - start).inMilliseconds / 1000.0;
   
-    if (trackedCoords.isNotEmpty && videoWidth > 0 && videoHeight > 0) {
-      final first = trackedCoords.first;
-      final ix = (first[1] * videoWidth).round().clamp(0, videoWidth - 1);
-      final iy = (first[2] * videoHeight).round().clamp(0, videoHeight - 1);
-      final iw = (first[3] * videoWidth).round().clamp(1, videoWidth - ix);
-      final ih = (first[4] * videoHeight).round().clamp(1, videoHeight - iy);
+        final args = <String>[
+          '-y',
+          '-ss', startSecs.toStringAsFixed(3),
+          '-i', inputPath,
+          '-t', duration.toStringAsFixed(3),
+        ];
   
-      final tempDir = await getTemporaryDirectory();
-      final ts = DateTime.now().millisecondsSinceEpoch;
+        if (trackedCoords.isNotEmpty && videoWidth > 0 && videoHeight > 0) {
+          final first = trackedCoords.first;
+          final ix = (first[1] * videoWidth).round().clamp(0, videoWidth - 1);
+          final iy = (first[2] * videoHeight).round().clamp(0, videoHeight - 1);
+          final iw = (first[3] * videoWidth).round().clamp(1, videoWidth - ix);
+          final ih = (first[4] * videoHeight).round().clamp(1, videoHeight - iy);
   
-      final sendcmdScript = invertTrackedBlur
-          ? _buildInvertedTrackingFilterScript(
-              coords: trackedCoords,
-              videoWidth: videoWidth,
-              videoHeight: videoHeight,
-              fps: videoFps,
-            )
-          : _buildTrackingFilterScript(
-              coords: trackedCoords,
-              videoWidth: videoWidth,
-              videoHeight: videoHeight,
-              fps: videoFps,
-            );
+          final tempDir = await getTemporaryDirectory();
+          final ts = DateTime.now().millisecondsSinceEpoch;
   
-      final sendcmdFile = File(path.join(tempDir.path, '_sendcmd_$ts.txt'));
-      await sendcmdFile.writeAsString(sendcmdScript);
+          final sendcmdScript = invertTrackedBlur
+              ? _buildInvertedTrackingFilterScript(
+                  coords: trackedCoords,
+                  videoWidth: videoWidth,
+                  videoHeight: videoHeight,
+                  fps: videoFps,
+                )
+              : _buildTrackingFilterScript(
+                  coords: trackedCoords,
+                  videoWidth: videoWidth,
+                  videoHeight: videoHeight,
+                  fps: videoFps,
+                );
   
-      final filterComplex = invertTrackedBlur
-          ? _buildInvertedTrackingFilterComplex(
-              sendcmdScriptPath: sendcmdFile.path,
-              ix: ix, iy: iy, iw: iw, ih: ih,
-            )
-          : _buildTrackingFilterComplex(
-              sendcmdScriptPath: sendcmdFile.path,
-              ix: ix, iy: iy, iw: iw, ih: ih,
-            );
+          final sendcmdFile = File(path.join(tempDir.path, '_sendcmd_$ts.txt'));
+          await sendcmdFile.writeAsString(sendcmdScript);
   
-      final filterFile = File(path.join(tempDir.path, '_filter_$ts.txt'));
-      await filterFile.writeAsString(filterComplex);
+          String filterComplex = invertTrackedBlur
+              ? _buildInvertedTrackingFilterComplex(
+                  sendcmdScriptPath: sendcmdFile.path,
+                  ix: ix, iy: iy, iw: iw, ih: ih,
+                )
+              : _buildTrackingFilterComplex(
+                  sendcmdScriptPath: sendcmdFile.path,
+                  ix: ix, iy: iy, iw: iw, ih: ih,
+                );
   
-      print('sendcmd script: ${sendcmdFile.path}');
-      print('sendcmd preview:\n${sendcmdScript.substring(0, sendcmdScript.length.clamp(0, 300))}');
-      print('filter_complex: $filterComplex');
+          if (tmpLutPath != null) {
+            filterComplex = '${filterComplex}[precolor];[precolor]lut3d=$tmpLutPath';
+          }
   
-      args.addAll(['-/filter_complex', filterFile.path]);
+          final filterFile = File(path.join(tempDir.path, '_filter_$ts.txt'));
+          await filterFile.writeAsString(filterComplex);
   
-    } else {
-      if (blurRegions.isNotEmpty) {
-        if (blurRegions.length == 1) {
-          final b = blurRegions[0].toVfFilter(videoWidth, videoHeight);
-          final px = (blurRegions[0].x * videoWidth).round();
-          final py = (blurRegions[0].y * videoHeight).round();
-          args.addAll([
-            '-filter_complex',
-            '[0:v]split=2[base][blur_src];'
-            '[blur_src]$b[blurred];'
-            '[base][blurred]overlay=$px:$py',
-          ]);
+          print('sendcmd script: ${sendcmdFile.path}');
+          print('sendcmd preview:\n${sendcmdScript.substring(0, sendcmdScript.length.clamp(0, 300))}');
+          print('filter_complex: $filterComplex');
+  
+          args.addAll(['-/filter_complex', filterFile.path]);
+  
         } else {
-          final r0 = blurRegions[0];
-          final r1 = blurRegions[1];
-          final b0 = r0.toVfFilter(videoWidth, videoHeight);
-          final b1 = r1.toVfFilter(videoWidth, videoHeight);
-          final x0 = (r0.x * videoWidth).round();
-          final y0 = (r0.y * videoHeight).round();
-          final x1 = (r1.x * videoWidth).round();
-          final y1 = (r1.y * videoHeight).round();
-          args.addAll([
-            '-filter_complex',
-            '[0:v]split=3[base][s1][s2];'
-            '[s1]$b0[b1];'
-            '[s2]$b1[b2];'
-            '[base][b1]overlay=$x0:$y0[tmp];'
-            '[tmp][b2]overlay=$x1:$y1',
-          ]);
+          if (blurRegions.isNotEmpty) {
+            String filterComplex;
+  
+            if (blurRegions.length == 1) {
+              final b = blurRegions[0].toVfFilter(videoWidth, videoHeight);
+              final px = (blurRegions[0].x * videoWidth).round();
+              final py = (blurRegions[0].y * videoHeight).round();
+              filterComplex =
+                  '[0:v]split=2[base][blur_src];'
+                  '[blur_src]$b[blurred];'
+                  '[base][blurred]overlay=$px:$py';
+            } else {
+              final r0 = blurRegions[0];
+              final r1 = blurRegions[1];
+              final b0 = r0.toVfFilter(videoWidth, videoHeight);
+              final b1 = r1.toVfFilter(videoWidth, videoHeight);
+              final x0 = (r0.x * videoWidth).round();
+              final y0 = (r0.y * videoHeight).round();
+              final x1 = (r1.x * videoWidth).round();
+              final y1 = (r1.y * videoHeight).round();
+              filterComplex =
+                  '[0:v]split=3[base][s1][s2];'
+                  '[s1]$b0[b1];'
+                  '[s2]$b1[b2];'
+                  '[base][b1]overlay=$x0:$y0[tmp];'
+                  '[tmp][b2]overlay=$x1:$y1';
+            }
+  
+            if (tmpLutPath != null) {
+              filterComplex = '${filterComplex}[precolor];[precolor]lut3d=$tmpLutPath';
+            }
+  
+            args.addAll(['-filter_complex', filterComplex]);
+  
+          } else if (tmpLutPath != null) {
+            args.addAll(['-vf', 'lut3d=$tmpLutPath']);
+          }
+        }
+  
+        switch (cutCodec) {
+          case VideoCodec.videotoolbox:
+            args.addAll(['-c:v', 'h264_videotoolbox', '-b:v', '8M', '-c:a', 'copy']);
+          case VideoCodec.nvenc:
+            args.addAll(['-c:v', 'h264_nvenc', '-preset', 'fast', '-c:a', 'copy']);
+          case VideoCodec.amf:
+            args.addAll(['-c:v', 'h264_amf', '-quality', 'quality', '-c:a', 'copy']);
+          case VideoCodec.qsv:
+            args.addAll(['-c:v', 'h264_qsv', '-preset', 'fast', '-c:a', 'copy']);
+          default:
+            throw Exception('Unsupported cut encoder: $cutCodec');
+        }
+  
+        args.addAll(['-avoid_negative_ts', 'make_zero', '-movflags', '+faststart', outputPath]);
+  
+        final blurLabel = blurRegions.isNotEmpty
+            ? ' + ${blurRegions.length} blur region${blurRegions.length > 1 ? 's' : ''}'
+            : trackedCoords.isNotEmpty
+                ? ' + ${invertTrackedBlur ? 'portrait mode' : 'tracked blur'} (${trackedCoords.length} frames)'
+                : '';
+        final lutLabel = tmpLutPath != null ? ' + LUT' : '';
+        onProgress('Cutting with ${_codecName(cutCodec)}$blurLabel$lutLabel...');
+  
+        final result = await Process.run(ffmpeg, args);
+        print('cutVideo stderr: ${result.stderr}');
+  
+        if (result.exitCode != 0) {
+          throw Exception(
+            'Cut failed (exit ${result.exitCode}):\n'
+            '${(result.stderr as String).split('\n').take(10).join('\n')}',
+          );
+        }
+  
+        final outputFile = File(outputPath);
+        if (!outputFile.existsSync()) {
+          throw Exception('Output file was not created: ${path.basename(outputPath)}');
+        }
+  
+        final fileSize = await outputFile.length();
+        if (fileSize < 1000) {
+          throw Exception('Output file too small ($fileSize bytes)');
+        }
+  
+        onProgress('Cut complete: ${path.basename(outputPath)}');
+  
+      } finally {
+        if (tmpLutPath != null) {
+          await File(tmpLutPath).delete().catchError((_) {});
         }
       }
     }
-  
-    switch (cutCodec) {
-      case VideoCodec.videotoolbox:
-        args.addAll(['-c:v', 'h264_videotoolbox', '-b:v', '8M', '-c:a', 'copy']);
-      case VideoCodec.nvenc:
-        args.addAll(['-c:v', 'h264_nvenc', '-preset', 'fast', '-c:a', 'copy']);
-      case VideoCodec.amf:
-        args.addAll(['-c:v', 'h264_amf', '-quality', 'quality', '-c:a', 'copy']);
-      case VideoCodec.qsv:
-        args.addAll(['-c:v', 'h264_qsv', '-preset', 'fast', '-c:a', 'copy']);
-      default:
-        throw Exception('Unsupported cut encoder: $cutCodec');
-    }
-  
-    args.addAll(['-avoid_negative_ts', 'make_zero', '-movflags', '+faststart', outputPath]);
-  
-    final blurLabel = blurRegions.isNotEmpty
-        ? ' + ${blurRegions.length} blur region${blurRegions.length > 1 ? 's' : ''}'
-        : trackedCoords.isNotEmpty
-            ? ' + ${invertTrackedBlur ? 'portrait mode' : 'tracked blur'} (${trackedCoords.length} frames)'
-            : '';
-    onProgress('Cutting with ${_codecName(cutCodec)}$blurLabel...');
-  
-    final result = await Process.run(ffmpeg, args);
-    print('cutVideo stderr: ${result.stderr}');
-  
-    if (result.exitCode != 0) {
-      throw Exception(
-        'Cut failed (exit ${result.exitCode}):\n'
-        '${(result.stderr as String).split('\n').take(10).join('\n')}',
-      );
-    }
-  
-    final outputFile = File(outputPath);
-    if (!outputFile.existsSync()) {
-      throw Exception('Output file was not created: ${path.basename(outputPath)}');
-    }
-  
-    final fileSize = await outputFile.length();
-    if (fileSize < 1000) {
-      throw Exception('Output file too small ($fileSize bytes)');
-    }
-  
-    onProgress('Cut complete: ${path.basename(outputPath)}');
-  }
   
   static String _buildTrackingFilterScript({
     required List<List<double>> coords,

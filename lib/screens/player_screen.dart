@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+  import 'package:flutter/material.dart';
 import 'package:file_picker/file_picker.dart';
 import 'package:media_kit/media_kit.dart';
 import 'package:media_kit_video/media_kit_video.dart';
@@ -25,6 +25,7 @@ import '../models/bookmark.dart';
 import '../models/subtitle_cue.dart';
 import '../models/pause_mode.dart';
 import '../models/subtitle_preferences.dart';
+import '../models/lut_item.dart';
 import '../services/cjk_tokenizer.dart';
 import '../services/ffmpeg_service.dart';
 import '../services/font_loader.dart';
@@ -39,6 +40,7 @@ import '../services/adhan_clock_service.dart';
 import '../services/youtube_service.dart';
 import '../services/video_edit_service.dart';
 import '../services/vision_tracking_service.dart';
+import '../services/lut_thumbnail_service.dart';
 import '../widgets/adhan_clock_overlay.dart';
 import '../widgets/subtitle_manager_dialog.dart';
 import '../widgets/side_panel.dart';
@@ -48,6 +50,7 @@ import '../widgets/word_overlay.dart';
 import '../widgets/download_overlay.dart';
 import '../widgets/cuts_overlay.dart';
 import '../widgets/encode_progress_overlay.dart';
+import '../widgets/lut_picker_overlay.dart';
 
 enum FontColorOverride { none, black, white }
 
@@ -335,6 +338,8 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   List<List<double>> _trackedCoords = [];
   bool _trackedBlurInverted = false;
 
+  LutItem? _selectedLut;
+
   @override
   void initState() {
     super.initState();
@@ -428,6 +433,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     _statsSearchFocusNode.dispose();
     _skipTrackingController.dispose();
     _skipTrackingFocusNode.dispose();
+    LutThumbnailService.instance.clearCache();
     super.dispose();
   }
 
@@ -5430,6 +5436,21 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     }
   }
 
+  void _openLutPicker() {
+    if (_currentAudiobook == null) return;
+    if (!VideoEditService.isVideoFile(_currentAudiobook!.path)) return;
+    showDialog(
+      context: context,
+      barrierDismissible: true,
+      builder: (_) => LutPickerOverlay(
+        videoPath: _currentAudiobook!.path,
+        currentPosition: _currentPosition,
+        currentLutName: _selectedLut?.name,
+        onLutSelected: (lut) => setState(() => _selectedLut = lut),
+      ),
+    );
+  }
+
   Future<void> _loadSubtitleFromVttDir() async {
     if (_currentAudiobook == null) {
       ScaffoldMessenger.of(context).showSnackBar(
@@ -5523,6 +5544,9 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       case 'handleBlurCycle':
         _handleBlurCycle();
         break;
+      case 'open_lut_picker':
+        _openLutPicker();
+        break;
       case 'startDefiningTrackedBlur':
         _startDefiningTrackedBlur();
         break;
@@ -5583,190 +5607,192 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   }
 
   Future<void> _cutVideoSegment() async {
-    if (_isCutting) {
-      ScaffoldMessenger.of(context).showSnackBar(
-        const SnackBar(
-          content: Text('Cut in progress, please wait…'),
-          duration: Duration(seconds: 2),
-        ),
-      );
-      return;
-    }
-  
-    if (_inPoint == null || _currentAudiobook == null) {
-      ScaffoldMessenger.of(context).showSnackBar(
-        const SnackBar(content: Text('Set In point first (i)')),
-      );
-      return;
-    }
-  
-    final outPoint = _outPoint ?? _currentPosition;
-    if (outPoint <= _inPoint!) {
-      ScaffoldMessenger.of(context).showSnackBar(
-        const SnackBar(content: Text('Out point must be after In point')),
-      );
-      return;
-    }
-  
-    final systemFfmpeg = await VideoEditService.findSystemFfmpeg();
-    if (systemFfmpeg == null) {
-      if (mounted) {
+      if (_isCutting) {
         ScaffoldMessenger.of(context).showSnackBar(
           const SnackBar(
-            content: Text('System ffmpeg not found. Install with: brew install ffmpeg (Mac), sudo apt install ffmpeg (Linux), choco install ffmpeg (Windows)'),
-            backgroundColor: Colors.red,
-            duration: Duration(seconds: 10),
+            content: Text('Cut in progress, please wait…'),
+            duration: Duration(seconds: 2),
           ),
         );
+        return;
       }
-      return;
-    }
-  
-    final cutsDir = VideoEditService.getCutsDirectory(_currentAudiobook!.path);
-    await Directory(cutsDir).create(recursive: true);
-  
-    final ext = path.extension(_currentAudiobook!.path).toLowerCase();
-    final existingCuts = Directory(cutsDir)
-        .listSync()
-        .whereType<File>()
-        .where((f) => path.extension(f.path).toLowerCase() == ext)
-        .length;
-  
-    final cutNumber = (existingCuts + 1).toString().padLeft(4, '0');
-    final cutName = '$cutNumber$ext';
-    final outputPath = path.join(cutsDir, cutName);
-  
-    final videoWidth  = int.tryParse(_videoResolution?.split('x').firstOrNull ?? '1920') ?? 1920;
-    final videoHeight = int.tryParse(_videoResolution?.split('x').lastOrNull  ?? '1080') ?? 1080;
-    final hasPendingTrackedBlur = _trackedBlurStart != null && _trackedBlurEnd != null;
-  
-    setState(() => _isCutting = true);
-  
-    try {
-      await VideoEditService.cutVideo(
-        inputPath: _currentAudiobook!.path,
-        outputPath: outputPath,
-        start: _inPoint!,
-        end: outPoint,
-        cutCodec: _selectedCutCodec,
-        blurRegions: hasPendingTrackedBlur ? [] : _blurRegions,
-        trackedCoords: const [],
-        videoWidth: videoWidth,
-        videoHeight: videoHeight,
-        videoFps: _videoFps ?? 30.0,
-        onProgress: (msg) {
-          print(msg);
-          if (mounted && msg.startsWith('Cut complete') && !hasPendingTrackedBlur) {
-            ScaffoldMessenger.of(context).showSnackBar(
-              SnackBar(
-                content: Text(msg),
-                backgroundColor: Colors.green,
-                duration: const Duration(seconds: 2),
-              ),
-            );
-          }
-        },
-      );
-  
-      if (hasPendingTrackedBlur) {
+    
+      if (_inPoint == null || _currentAudiobook == null) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          const SnackBar(content: Text('Set In point first (i)')),
+        );
+        return;
+      }
+    
+      final outPoint = _outPoint ?? _currentPosition;
+      if (outPoint <= _inPoint!) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          const SnackBar(content: Text('Out point must be after In point')),
+        );
+        return;
+      }
+    
+      final ffmpeg = await VideoEditService.findSystemFfmpeg();
+      if (ffmpeg == null) {
         if (mounted) {
-          setState(() => _isTracking = true);
           ScaffoldMessenger.of(context).showSnackBar(
             const SnackBar(
-              content: Text('Cut complete. Now tracking motion…'),
-              backgroundColor: Colors.orange,
-              duration: Duration(seconds: 3),
+              content: Text('System ffmpeg not found. Install with: brew install ffmpeg (Mac), sudo apt install ffmpeg (Linux), choco install ffmpeg (Windows)'),
+              backgroundColor: Colors.red,
+              duration: Duration(seconds: 10),
             ),
           );
         }
-  
-        final x = min(_trackedBlurStart!.dx, _trackedBlurEnd!.dx);
-        final y = min(_trackedBlurStart!.dy, _trackedBlurEnd!.dy);
-        final w = (_trackedBlurEnd!.dx - _trackedBlurStart!.dx).abs();
-        final h = (_trackedBlurEnd!.dy - _trackedBlurStart!.dy).abs();
-  
-        final frames = await VisionTrackingService.trackRegion(
-          videoPath: outputPath,
-          x: x, y: y, w: w, h: h,
+        return;
+      }
+    
+      final cutsDir = VideoEditService.getCutsDirectory(_currentAudiobook!.path);
+      await Directory(cutsDir).create(recursive: true);
+    
+      final ext = path.extension(_currentAudiobook!.path).toLowerCase();
+      final existingCuts = Directory(cutsDir)
+          .listSync()
+          .whereType<File>()
+          .where((f) => path.extension(f.path).toLowerCase() == ext)
+          .length;
+    
+      final cutNumber = (existingCuts + 1).toString().padLeft(4, '0');
+      final cutName = '$cutNumber$ext';
+      final outputPath = path.join(cutsDir, cutName);
+    
+      final videoWidth  = int.tryParse(_videoResolution?.split('x').firstOrNull ?? '1920') ?? 1920;
+      final videoHeight = int.tryParse(_videoResolution?.split('x').lastOrNull  ?? '1080') ?? 1080;
+      final hasPendingTrackedBlur = _trackedBlurStart != null && _trackedBlurEnd != null;
+    
+      setState(() => _isCutting = true);
+    
+      try {
+        await VideoEditService.cutVideo(
+          inputPath: _currentAudiobook!.path,
+          outputPath: outputPath,
+          start: _inPoint!,
+          end: outPoint,
+          cutCodec: _selectedCutCodec,
+          blurRegions: hasPendingTrackedBlur ? [] : _blurRegions,
+          trackedCoords: const [],
+          videoWidth: videoWidth,
+          videoHeight: videoHeight,
+          videoFps: _videoFps ?? 30.0,
+          lutAssetPath: _selectedLut?.path,
+          onProgress: (msg) {
+            print(msg);
+            if (mounted && msg.startsWith('Cut complete') && !hasPendingTrackedBlur) {
+              ScaffoldMessenger.of(context).showSnackBar(
+                SnackBar(
+                  content: Text(msg),
+                  backgroundColor: Colors.green,
+                  duration: const Duration(seconds: 2),
+                ),
+              );
+            }
+          },
         );
-  
-        if (mounted) setState(() => _isTracking = false);
-  
-        if (frames.isNotEmpty) {
-          final trackedCoords = frames
-              .map((f) => [f.frameIndex.toDouble(), f.x, f.y, f.w, f.h])
-              .toList();
-  
+    
+        if (hasPendingTrackedBlur) {
           if (mounted) {
+            setState(() => _isTracking = true);
             ScaffoldMessenger.of(context).showSnackBar(
               const SnackBar(
-                content: Text('Tracking complete. Now encoding motion-tracking blur…'),
+                content: Text('Cut complete. Now tracking motion…'),
                 backgroundColor: Colors.orange,
                 duration: Duration(seconds: 3),
               ),
             );
           }
-  
-          final blurredPath = path.join(cutsDir, 'tmp_blurred_$cutName');
-  
-          await VideoEditService.cutVideo(
-            inputPath: outputPath,
-            outputPath: blurredPath,
-            start: Duration.zero,
-            end: outPoint - _inPoint!,
-            cutCodec: _selectedCutCodec,
-            blurRegions: const [],
-            trackedCoords: trackedCoords,
-            videoWidth: videoWidth,
-            videoHeight: videoHeight,
-            videoFps: _videoFps ?? 30.0,
-            invertTrackedBlur: _trackedBlurInverted,
-            onProgress: (msg) {
-              print(msg);
-              if (mounted && msg.startsWith('Cut complete')) {
-                ScaffoldMessenger.of(context).showSnackBar(
-                  const SnackBar(
-                    content: Text('Motion-tracking blur complete ✓'),
-                    backgroundColor: Colors.green,
-                    duration: Duration(seconds: 3),
-                  ),
-                );
-              }
-            },
+    
+          final x = min(_trackedBlurStart!.dx, _trackedBlurEnd!.dx);
+          final y = min(_trackedBlurStart!.dy, _trackedBlurEnd!.dy);
+          final w = (_trackedBlurEnd!.dx - _trackedBlurStart!.dx).abs();
+          final h = (_trackedBlurEnd!.dy - _trackedBlurStart!.dy).abs();
+    
+          final frames = await VisionTrackingService.trackRegion(
+            videoPath: outputPath,
+            x: x, y: y, w: w, h: h,
           );
-  
-          await File(outputPath).delete();
-          await File(blurredPath).rename(outputPath);
+    
+          if (mounted) setState(() => _isTracking = false);
+    
+          if (frames.isNotEmpty) {
+            final trackedCoords = frames
+                .map((f) => [f.frameIndex.toDouble(), f.x, f.y, f.w, f.h])
+                .toList();
+    
+            if (mounted) {
+              ScaffoldMessenger.of(context).showSnackBar(
+                const SnackBar(
+                  content: Text('Tracking complete. Now encoding motion-tracking blur…'),
+                  backgroundColor: Colors.orange,
+                  duration: Duration(seconds: 3),
+                ),
+              );
+            }
+    
+            final blurredPath = path.join(cutsDir, 'tmp_blurred_$cutName');
+    
+            await VideoEditService.cutVideo(
+              inputPath: outputPath,
+              outputPath: blurredPath,
+              start: Duration.zero,
+              end: outPoint - _inPoint!,
+              cutCodec: _selectedCutCodec,
+              blurRegions: const [],
+              trackedCoords: trackedCoords,
+              videoWidth: videoWidth,
+              videoHeight: videoHeight,
+              videoFps: _videoFps ?? 30.0,
+              invertTrackedBlur: _trackedBlurInverted,
+              lutAssetPath: _selectedLut?.path,
+              onProgress: (msg) {
+                print(msg);
+                if (mounted && msg.startsWith('Cut complete')) {
+                  ScaffoldMessenger.of(context).showSnackBar(
+                    const SnackBar(
+                      content: Text('Motion-tracking blur complete ✓'),
+                      backgroundColor: Colors.green,
+                      duration: Duration(seconds: 3),
+                    ),
+                  );
+                }
+              },
+            );
+    
+            await File(outputPath).delete();
+            await File(blurredPath).rename(outputPath);
+          }
         }
+    
+        setState(() {
+          _lastOutPoint = _outPoint ?? _currentPosition;
+          _inPoint = null;
+          _outPoint = null;
+          _blurRegions = [];
+          _blurDrawMode = false;
+          _trackedCoords = [];
+          _trackedBlurStart = null;
+          _trackedBlurEnd = null;
+          _trackedBlurInverted = false;
+          _isTracking = false;
+        });
+    
+      } catch (e) {
+        if (mounted) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            SnackBar(
+              content: Text('Cut failed: $e'),
+              backgroundColor: Colors.red,
+              duration: const Duration(seconds: 5),
+            ),
+          );
+        }
+      } finally {
+        if (mounted) setState(() => _isCutting = false);
       }
-  
-      setState(() {
-        _lastOutPoint = _outPoint ?? _currentPosition;
-        _inPoint = null;
-        _outPoint = null;
-        _blurRegions = [];
-        _blurDrawMode = false;
-        _trackedCoords = [];
-        _trackedBlurStart = null;
-        _trackedBlurEnd = null;
-        _trackedBlurInverted = false;
-        _isTracking = false;
-      });
-  
-    } catch (e) {
-      if (mounted) {
-        ScaffoldMessenger.of(context).showSnackBar(
-          SnackBar(
-            content: Text('Cut failed: $e'),
-            backgroundColor: Colors.red,
-            duration: const Duration(seconds: 5),
-          ),
-        );
-      }
-    } finally {
-      if (mounted) setState(() => _isCutting = false);
     }
-  }
 
   Future<void> _combineAllCuts() async {
     _combineVideoCuts();
@@ -6210,6 +6236,14 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               _panelMode = PanelMode.stats;
             });
             return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.home && event is KeyDownEvent) {
+            player.seek(Duration.zero);
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.end && event is KeyDownEvent) {
+            if (_currentAudiobook != null) {
+              player.seek(_currentAudiobook!.duration);
+            }
+            return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.slash && event is KeyDownEvent) {
             if (_showPanel) {
               if (_panelMode == PanelMode.subs) {
@@ -6274,12 +6308,15 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               }
             }
             return KeyEventResult.handled;
-          } else if (event.logicalKey == LogicalKeyboardKey.keyL && HardwareKeyboard.instance.isShiftPressed && event is KeyDownEvent) {
-            _openAudiobookDirectory();
-            return KeyEventResult.handled;
-          } else if (event.logicalKey == LogicalKeyboardKey.keyL && event is KeyDownEvent) {
-            _openAudiobook();
-            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyL && HardwareKeyboard.instance.isControlPressed && event is KeyDownEvent) {
+                      _openLutPicker();
+                      return KeyEventResult.handled;
+                    } else if (event.logicalKey == LogicalKeyboardKey.keyL && HardwareKeyboard.instance.isShiftPressed && event is KeyDownEvent) {
+                      _openAudiobookDirectory();
+                      return KeyEventResult.handled;
+                    } else if (event.logicalKey == LogicalKeyboardKey.keyL && event is KeyDownEvent) {
+                      _openAudiobook();
+                      return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyM && 
                    HardwareKeyboard.instance.isShiftPressed && event is KeyDownEvent) {
             _copyCurrentMetadata();
