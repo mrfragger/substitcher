@@ -267,7 +267,6 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 - ![SubStitcherLUTGallery.zip 5.4MB](https://github.com/mrfragger/substitcher/raw/main/images/SubStitcherLUTGallery.zip)
 
 
-
 ### Installation
 <details>
 <summary>macOS 11.0+ (arm64 Silicon m1,m2,m3,m4,m5) dmg or homebrew</summary>
@@ -352,6 +351,7 @@ Android (64-bit devices only, arm64-v8a)
 
 <details>
 <summary>Miscellaneous</summary>
+
 - Substicher is a flutter app so small in size.  It appears big but isn't all that huge.
 - 70MB fonts and 65MB LUTs. So Mac app size is 228MB  - 135MB (assets) = 93MB
 - Never will get a light theme nor support music
