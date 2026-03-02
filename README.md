@@ -225,7 +225,7 @@ only 1-9, basic latin and ligatures
 
 sample anki to opus audiobook from here [124MiB](https://ankiweb.net/shared/info/696438310)\
 down to 13MiB with 4x repeating audio 1h 57m\
-![Spanish - 599 Verb Conjugations by Frequency.zip](images/Spanish_-_599_Verb_Conjugations_by_Frequency.zip)\
+![Spanish - 599 Verb Conjugations by Frequency.zip](https://github.com/mrfragger/substitcher/raw/main/images/Spanish_-_599_Verb_Conjugations_by_Frequency.zip)\
 try Pause mode 2s, Hide Chapter Title, Shuffle 
 
 ### Youtube
@@ -264,7 +264,9 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 - favorites list
 - 200MB cache limit and clears on app close
 - Preview all 500+ LUTS quickly use html thumbnail gallery
-- ![SubStitcherLUTGallery.zip 5.4MB](images/SubStitcherLUTGallery.zip)
+- ![SubStitcherLUTGallery.zip 5.4MB](https://github.com/mrfragger/substitcher/raw/main/images/SubStitcherLUTGallery.zip)
+
+
 
 ### Installation
 <details>
