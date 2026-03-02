@@ -803,34 +803,44 @@ class _CutsOverlayState extends State<CutsOverlay> {
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                Row(
-                  children: [
-                    const Icon(Icons.movie_filter, color: Colors.deepPurple, size: 24),
-                    const SizedBox(width: 8),
-                    const Text(
-                      'Video Cuts ',
-                      style: TextStyle(color: Colors.white, fontSize: 20, fontWeight: FontWeight.bold),
-                    ),
-                    Text(
-                      widget.cutsDirectory,
-                      style: const TextStyle(color: Colors.white54, fontSize: 12),
-                    ),
-                    const Spacer(),
-                    if (_loadingMetadata)
-                      const Padding(
-                        padding: EdgeInsets.only(right: 12),
-                        child: SizedBox(
-                          width: 14, height: 14,
-                          child: CircularProgressIndicator(strokeWidth: 2, color: Colors.white38),
-                        ),
-                      ),
-                    IconButton(
-                      icon: const Icon(Icons.close, color: Colors.white70),
-                      onPressed: widget.onClose,
-                      tooltip: 'Close (ESC)',
-                    ),
-                  ],
-                ),
+               Row(
+                 children: [
+                   const Icon(Icons.movie_filter, color: Colors.deepPurple, size: 24),
+                   const SizedBox(width: 8),
+                   Expanded(
+                     child: Column(
+                       crossAxisAlignment: CrossAxisAlignment.start,
+                       mainAxisSize: MainAxisSize.min,
+                       children: [
+                         const Text(
+                           'Video Cuts ',
+                           style: TextStyle(color: Colors.white, fontSize: 20, fontWeight: FontWeight.bold),
+                         ),
+                         Text(
+                           widget.cutsDirectory,
+                           style: const TextStyle(color: Colors.white54, fontSize: 12),
+                           overflow: TextOverflow.ellipsis,
+                         ),
+                       ],
+                     ),
+                   ),
+                   const Spacer(),
+                   if (_loadingMetadata)
+                     const Padding(
+                       padding: EdgeInsets.only(right: 12),
+                       child: SizedBox(
+                         width: 14, height: 14,
+                         child: CircularProgressIndicator(strokeWidth: 2, color: Colors.white38),
+                       ),
+                     ),
+                   IconButton(
+                     icon: const Icon(Icons.close, color: Colors.white70),
+                     onPressed: widget.onClose,
+                     tooltip: 'Close (ESC)',
+                   ),
+                 ],
+               ),
+               
                 const SizedBox(height: 16),
                 Expanded(
                   child: Row(
