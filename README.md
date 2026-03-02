@@ -257,9 +257,9 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 ![](images/videoediting.jpg)
 
 ### LUTs
-- 500+ LUTS (looup tables which are color presets for images/videos)
-- all free and can be applied to cuts
-- Lut Picker showing original set in point frame with 5 LUTs at a time
+- 500+ LUTS (lookup tables which are color presets for images/videos)
+- all free and can be applied to video cuts
+- Lut Picker showing original set in point frame with 5 LUTs previewed at a time
 - choose category/author for quick navigation
 - favorites list
 - 200MB cache limit and clears on app close
