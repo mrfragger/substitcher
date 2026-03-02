@@ -247,14 +247,18 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 - cuts are huge in file size but combine all cuts encodes to x264 or x265 which are cpu encoded and small in file size
 - LosslessCut works great but can't make accurate cuts
 - blur up to two regions, only for cuts
-- Mac only, motion-tracking blur as well as invert mode which blurs out everything except motion-tracked object
-- motion-tracking has to encode cut once, run motion-tracking on cut, then encode cut again, so be patient
-- considering motion-tracking blur on Windows
-- even though ffmpeg is bundled with SubStitcher it is limited to audio only pretty much due to licensing restrictions since x264 and x265 are GPL so if wish to use Video Editing must install the full ffmpeg. 
-- flutter limitations with media_kit don't allow filters to be applied in realtime unlike mpv lua scripts.  So can't have audio filtering nor LUTs showing on video.
+- even though ffmpeg is bundled with SubStitcher it is limited to audio only pretty much due to licensing restrictions since x264 and x265 are GPL so if wish to use Video Editing must install the full ffmpeg
+- flutter limitations with media_kit don't allow filters to be applied in realtime unlike mpv lua scripts.  So can't have audio filtering nor LUTs showing on video
 - HOME seek to start of media, END seek to end of media
 
 ![](images/videoediting.jpg)
+
+### Motion-Tracking Blur (MacOS only)
+- motion-tracking blur as well as invert mode which blurs out everything except motion-tracked object
+- motion-tracking has to encode cut once, run motion-tracking for object on cut, then encode cut again, so be patient
+- considering motion-tracking blur on Windows (Linux not possible)
+
+![](images/blurinverted.jpg)
 
 ### LUTs
 - 500+ LUTS (lookup tables which are color presets for images/videos)
@@ -374,11 +378,16 @@ Android (64-bit devices only, arm64-v8a)
 - KeepassXC, free password manager https://keepassxc.org
 - Stats, free menu bar stats monitoring https://github.com/exelban/stats
 - Screen Kite, free record screen area with system sound, better than OBS https://www.screenkite.com 
-- LocalSend, cross-platform flutter app share files https://localsend.org
 - Pear Cleaner, clean up utility https://github.com/alienator88/Pearcleaner
 - Mole, for terminal, like Pear Cleaner https://github.com/tw93/Mole
 - VSCodium, half file size of VSCode https://vscodium.com
 - Text Power Tools, extension for VSCodium, powerful text manipulation
+
+- cross-platform (Mac, Linux, Windows) apps
+- LocalSend, flutter app share files, free https://localsend.org
+- Shotcut, add images, mutl-track video editor, free, learning curve https://shotcut.org
+- DaVinci resolve free up to 1080p but requires 16GB RAM bare minimum and massive learning curve or $1500/5 years
+
 </details>
 
 <details>

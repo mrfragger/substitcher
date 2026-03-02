@@ -2,7 +2,7 @@ import 'dart:io';
 import 'dart:async';
 import 'package:path/path.dart' as path;
 import 'package:path_provider/path_provider.dart';
-import 'package:flutter/services.dart' show rootBundle, ByteData;
+import 'package:flutter/services.dart' show rootBundle;
 
 enum EncodeMode { encodeVideo, sliceVideo, encodeAudio, sliceAudio }
 enum VideoCodec { x264, x265, videotoolbox, nvenc, amf, qsv }

@@ -349,6 +349,11 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   String _lutFilterMode = 'all';
   int _selectedLutIndex = -1;
 
+  bool _zoomDrawMode = false;
+  Offset? _zoomDragStart;
+  Offset? _zoomDragCurrent;
+  Rect? _zoomRegion;
+
   @override
   void initState() {
     super.initState();
