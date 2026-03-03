@@ -221,6 +221,7 @@ only 1-9, basic latin and ligatures
 - Nearly 1,000 anki to opus audiobooks on telegram channel https://t.me/Anki2Opus if too lazy to make your own
 
 ![](images/ankitoopus1.jpg)
+
 ![](images/ankitoopus2.jpg)
 
 sample anki to opus audiobook from here [124MiB](https://ankiweb.net/shared/info/696438310)\
@@ -258,7 +259,7 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 - motion-tracking has to encode cut once, run motion-tracking for object on cut, then encode cut again, so be patient
 - considering motion-tracking blur on Windows (Linux not possible)
 
-![](images/blurinverted.jpg)
+![](images/motiontrackblur.gif)
 
 ### LUTs
 - 500+ LUTS (lookup tables which are color presets for images/videos)

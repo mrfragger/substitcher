@@ -1,5 +1,6 @@
 import 'dart:io';
 import 'dart:async';
+import 'dart:math';
 import 'package:path/path.dart' as path;
 import 'package:path_provider/path_provider.dart';
 import 'package:flutter/services.dart' show rootBundle;
@@ -400,6 +401,8 @@ class VideoEditService {
   
         final args = <String>[
           '-y',
+          '-ignore_editlist', '1',
+          '-err_detect', 'ignore_err',
           '-ss', startSecs.toStringAsFixed(3),
           '-i', inputPath,
           '-t', duration.toStringAsFixed(3),
@@ -602,9 +605,14 @@ class VideoEditService {
     required int iw,
     required int ih,
   }) {
+    final chromaW = (iw / 2).floor();
+    final chromaH = (ih / 2).floor();
+    final maxChromaRadius = (min(chromaW, chromaH) / 2 - 1).clamp(1, 10).toInt();
+    final blurFilter = 'boxblur=luma_radius=20:luma_power=2:chroma_radius=$maxChromaRadius:chroma_power=2';
+    
     return '[0:v]sendcmd=f=\'$sendcmdScriptPath\','
         'split=2[base][blur_src];'
-        '[blur_src]crop@blur=$iw:$ih:$ix:$iy,boxblur=20:2[blurred];'
+        '[blur_src]crop@blur=$iw:$ih:$ix:$iy,$blurFilter[blurred];'
         '[base][blurred]overlay@blur=$ix:$iy';
   }
   

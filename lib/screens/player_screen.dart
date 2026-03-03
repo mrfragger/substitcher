@@ -5884,12 +5884,13 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         });
     
       } catch (e) {
+        print('CUT ERROR: $e');
         if (mounted) {
           ScaffoldMessenger.of(context).showSnackBar(
             SnackBar(
               content: Text('Cut failed: $e'),
               backgroundColor: Colors.red,
-              duration: const Duration(seconds: 5),
+              duration: const Duration(seconds: 15),
             ),
           );
         }
