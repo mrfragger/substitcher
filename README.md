@@ -242,9 +242,9 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 -  English, Afrikaans, Albanian (Shqip), Amharic (አማርኛ), Arabic (العربية), Armenian (Հայերեն), Azerbaijani (Azərbaycan), Belarusian (Беларуская), Bengali (বাংলা), Bhojpuri (भोजपुरी), Bosnian (Bosanski), Bulgarian (Български), Burmese (မြန်မာ), Catalan (Català), Chinese - Simplified (简体), Chinese - Traditional (繁體), Chinese - Cantonese (粵語), Croatian (Hrvatski), Czech (Čeština), Danish (Dansk), Dutch (Nederlands), Estonian (Eesti), Filipino (Tagalog), Finnish (Suomi), French (Français), Georgian (ქართული), German (Deutsch), Greek (Ελληνικά), Gujarati (ગુજરાતી), Hausa (هَرْشٜىٰن هَوْسَا), Hebrew (עברית), Hebrew (עברית), Hindi (हिन्दी), Hungarian (Magyar), Icelandic (Íslenska), Indonesian (Bahasa Indonesia), Italian (Italiano), Japanese (日本語), Javanese (Basa Jawa), Kannada (ಕನ್ನಡ), Kazakh (Қазақ тілі), Korean (한국어), Kyrgyz (Кыргызча), Lao (ລາວ), Latvian (Latviešu), Lithuanian (Lietuvių), Macedonian (Македонски), Malay (Bahasa Melayu), Malayalam (മലയാളം), Maltese (Malti), Marathi (मराठी), Mongolian (Монгол), Nepali (नेपाली), Norwegian (Norsk bokmål), Persian (فارسی), Polish (Polski), Portuguese (Português), Portuguese - Brazil (Português Brasil), Portuguese - Portugal (Português Portugal), Punjabi (ਪੰਜਾਬੀ), Romanian (Română), Russian (Русский), Serbian (Српски), Slovak (Slovenčina), Slovenian (Slovenščina), Spanish (Español), Swahili (Kiswahili), Swedish (Svenska), Tajik (Тоҷикӣ), Tamil (தமிழ்), Telugu (తెలుగు), Thai (ไทย), Turkish (Türkçe), Turkmen (Türkmençe), Ukrainian (Українська), Urdu (اردو), Uyghur (ئۇيغۇرچە), Uzbek (Oʻzbekcha), Vietnamese (Tiếng Việt)
 </details>
 
-### Video Editing
+### Video Editing (not for Android)
 - basic video editing to make multiple cuts and combine cuts
-- cuts in Substitcher use hardware accelerated cuts which take longer but are precision cuts at the exact millisecond
+- cuts in Substitcher use hardware accelerated cuts which take longer but are precise cuts
 - cuts are huge in file size but combine all cuts encodes to x264 or x265 which are cpu encoded and small in file size
 - LosslessCut works great but can't make accurate cuts
 - blur up to two regions, only for cuts
@@ -384,11 +384,10 @@ Android (64-bit devices only, arm64-v8a)
 - Mole, for terminal, like Pear Cleaner https://github.com/tw93/Mole
 - VSCodium, half file size of VSCode https://vscodium.com
 - Text Power Tools, extension for VSCodium, powerful text manipulation
-
-- cross-platform (Mac, Linux, Windows) apps
+- [[[ cross-platform (Mac, Linux, Windows) apps ]]]
 - LocalSend, flutter app share files, free https://localsend.org
-- Shotcut, add images, mutl-track video editor, free, learning curve https://shotcut.org
-- DaVinci resolve free up to 1080p but requires 16GB RAM bare minimum and massive learning curve or $1500/5 years
+- Shotcut, add images, mutli-track video editor, free, learning curve https://shotcut.org
+- DaVinci resolve free up to 1080p but requires 16GB RAM bare minimum and massive learning curve, expensive
 
 </details>
 
