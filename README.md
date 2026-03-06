@@ -393,9 +393,10 @@ Android (64-bit devices only, arm64-v8a)
 
 <details>
 <summary>tts (text to speech) that support chapters</summary>
-- my opinon of voice quality
+my opinon of voice quality
 - kokoro > edge > piper
 - Qwen3 and echo-tts are better than kokoro but require 16GB RAM minimum
+- KokoroTTS, piper.ttstool.com and edge-tts all are free to use
 
 https://github.com/kjyv/KokoroTTS Mac only
 - English (American and British) only 
