@@ -393,18 +393,19 @@ Android (64-bit devices only, arm64-v8a)
 
 <details>
 <summary>tts (text to speech) that support chapters</summary>
-my opinon of voice quality
-kokoro > edge > piper
+my opinon of voice quality\
+kokoro > edge > piper\
 Qwen3 and echo-tts are better than kokoro but require 16GB RAM minimum
 
-Mac only
-https://github.com/kjyv/KokoroTTS
+Mac only\
+https://github.com/kjyv/KokoroTTS \
 English (American and British) only but stays at 1GB memory usage amazingly.  Paste text, save wav audio file. Just as fast as mlx-audio without RAM hitting 10GB due to python.
 
 ![](images/ttskokoro.jpg)
 
-https://piper.ttstool.com 
-~63MB download per voice, fast local cpu processing (~3min mac m1 for 30KB text), right-click save as wav audio file\
+https://piper.ttstool.com \
+~63MB download per voice, fast local cpu processing \
+(~3min mac m1 for 30KB text), right-click save as wav audio file\
 English (Great Britain)\
 alba[medium] \
 northern_english_male[medium]\
@@ -414,8 +415,8 @@ hfc_female[medium]\
 hfc_male[medium]\
 joe[medium]
 
-https://github.com/rany2/edge-tts 10.2k 
-edge-tts --voice en-CA-LiamNeural -f 002.txt --write-media edge.mp3   
+https://github.com/rany2/edge-tts 10.2k \
+edge-tts --voice en-CA-LiamNeural -f 002.txt --write-media edge.mp3   \
 takes 2 mins to process 30KB text.  Online processing using Microsoft servers.
 
 male voices - General and  Friendly, Positive unless specified otherwise
