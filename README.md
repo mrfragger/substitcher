@@ -242,7 +242,7 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 -  English, Afrikaans, Albanian (Shqip), Amharic (አማርኛ), Arabic (العربية), Armenian (Հայերեն), Azerbaijani (Azərbaycan), Belarusian (Беларуская), Bengali (বাংলা), Bhojpuri (भोजपुरी), Bosnian (Bosanski), Bulgarian (Български), Burmese (မြန်မာ), Catalan (Català), Chinese - Simplified (简体), Chinese - Traditional (繁體), Chinese - Cantonese (粵語), Croatian (Hrvatski), Czech (Čeština), Danish (Dansk), Dutch (Nederlands), Estonian (Eesti), Filipino (Tagalog), Finnish (Suomi), French (Français), Georgian (ქართული), German (Deutsch), Greek (Ελληνικά), Gujarati (ગુજરાતી), Hausa (هَرْشٜىٰن هَوْسَا), Hebrew (עברית), Hebrew (עברית), Hindi (हिन्दी), Hungarian (Magyar), Icelandic (Íslenska), Indonesian (Bahasa Indonesia), Italian (Italiano), Japanese (日本語), Javanese (Basa Jawa), Kannada (ಕನ್ನಡ), Kazakh (Қазақ тілі), Korean (한국어), Kyrgyz (Кыргызча), Lao (ລາວ), Latvian (Latviešu), Lithuanian (Lietuvių), Macedonian (Македонски), Malay (Bahasa Melayu), Malayalam (മലയാളം), Maltese (Malti), Marathi (मराठी), Mongolian (Монгол), Nepali (नेपाली), Norwegian (Norsk bokmål), Persian (فارسی), Polish (Polski), Portuguese (Português), Portuguese - Brazil (Português Brasil), Portuguese - Portugal (Português Portugal), Punjabi (ਪੰਜਾਬੀ), Romanian (Română), Russian (Русский), Serbian (Српски), Slovak (Slovenčina), Slovenian (Slovenščina), Spanish (Español), Swahili (Kiswahili), Swedish (Svenska), Tajik (Тоҷикӣ), Tamil (தமிழ்), Telugu (తెలుగు), Thai (ไทย), Turkish (Türkçe), Turkmen (Türkmençe), Ukrainian (Українська), Urdu (اردو), Uyghur (ئۇيغۇرچە), Uzbek (Oʻzbekcha), Vietnamese (Tiếng Việt)
 </details>
 
-### Video Editing (not for Android)
+### Video Editing (not on Android)
 - basic video editing to make multiple cuts and combine cuts
 - cuts in Substitcher use hardware accelerated cuts which take longer but are precise cuts
 - cuts are huge in file size but combine all cuts encodes to x264 or x265 which are cpu encoded and small in file size
@@ -393,20 +393,25 @@ Android (64-bit devices only, arm64-v8a)
 
 <details>
 <summary>tts (text to speech) from epub, pdf, markdown, etc. that support chapters</summary>
-
-https://github.com/DrewThomasson/ebook2audiobook 18.1k
-
-https://github.com/rany2/edge-tts 10k
-
-https://github.com/Blaizzy/mlx-audio 5.9k
-
-https://github.com/santinic/audiblez 5.8k
-
-https://github.com/denizsafak/abogen 4.1k
-
-https://github.com/p0n1/epub_to_audiobook 1.9k
-
-https://github.com/zeropointnine/tts-audiobook-tool 100
+my opinon of voice quality
+kokoro > edge > piper  
+most like Qwen3 is better than kokoro but not sure yet
+2026 so much better than ones from a few years ago
 
 https://piper.ttstool.com 
+~63MB download per voice, fast local cpu processing (~3min mac m1 for 30KB text), right-click save as wav audio file
+alba[medium] English (Great Britain)
+northern_english_male[medium] English (Great Britain)
+amy[medium] English (United States)
+hfc_female[medium] English (United States)
+hfc_male[medium] English (United States)
+joe[medium] English (United States)
+
+https://github.com/rany2/edge-tts 10.2k 
+edge-tts --voice en-CA-LiamNeural -f 002.txt --write-media edge.mp3   
+takes 2 mins to process 30KB text.  Using MS servers.
+
+Mac only
+https://github.com/kjyv/KokoroTTS
+English (American and British) only but stays at 1GB memory usage amazingly.  Paste text, save wav audio file. Just as fast as mlx-audio without RAM hitting 10GB due to python.
 </details>
