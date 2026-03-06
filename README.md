@@ -394,11 +394,13 @@ Android (64-bit devices only, arm64-v8a)
 <details>
 <summary>tts (text to speech) that support chapters</summary>
 my opinon of voice quality
+
 - kokoro > edge > piper
 - Qwen3 and echo-tts are better than kokoro but require 16GB RAM minimum
 - KokoroTTS, piper.ttstool.com and edge-tts all are free to use
 
 https://github.com/kjyv/KokoroTTS Mac only
+
 - English (American and British) only 
 - stays at 1GB memory usage amazingly
 - Paste text, save wav audio file
@@ -406,7 +408,7 @@ https://github.com/kjyv/KokoroTTS Mac only
 
 ![](images/ttskokoro.jpg)
 
-https://piper.ttstool.com \
+https://piper.ttstool.com
 - ~63MB download per voice, fast local cpu processing
 - (~3min mac m1 for 30KB text), right-click save as wav audio file
 - English (Great Britain)
