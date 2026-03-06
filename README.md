@@ -377,14 +377,12 @@ Android (64-bit devices only, arm64-v8a)
 
 - Transnomino, free file-renamer https://www.transnomino.com
 - Lulu, free open-source firewall https://objective-see.org/products/lulu.html
-- KeepassXC, free password manager https://keepassxc.org
 - Stats, free menu bar stats monitoring https://github.com/exelban/stats
+- Mole, for terminal, cleans up disk space https://github.com/tw93/Mole
+- KeepassXC, free password manager https://keepassxc.org
 - Screen Kite, free record screen area with system sound, better than OBS https://www.screenkite.com 
-- Pear Cleaner, clean up utility https://github.com/alienator88/Pearcleaner
-- Mole, for terminal, like Pear Cleaner https://github.com/tw93/Mole
 - VSCodium, half file size of VSCode https://vscodium.com
 - Text Power Tools, extension for VSCodium, powerful text manipulation
-- [[[ cross-platform (Mac, Linux, Windows) apps ]]]
 - LocalSend, flutter app share files, free https://localsend.org
 - Shotcut, add images, mutli-track video editor, free, learning curve https://shotcut.org
 - DaVinci resolve free up to 1080p but requires 16GB RAM bare minimum and massive learning curve, expensive
