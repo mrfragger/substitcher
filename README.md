@@ -420,9 +420,10 @@ https://piper.ttstool.com
 - hfc_male[medium]
 - joe[medium]
 
-https://github.com/rany2/edge-tts 10.2k
-edge-tts --voice en-CA-LiamNeural -f 002.txt --write-media edge.mp3   \
-takes 2 mins to process 30KB text.  Online processing using Microsoft servers.
+https://github.com/rany2/edge-tts 10.2k \
+edge-tts --voice en-CA-LiamNeural -f 002.txt --write-media edge.mp3 \
+takes 2 mins to process 30KB text \  
+Online processing using Microsoft servers
 
 male voices - General and  Friendly, Positive unless specified otherwise
 
