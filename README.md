@@ -392,26 +392,66 @@ Android (64-bit devices only, arm64-v8a)
 </details>
 
 <details>
-<summary>tts (text to speech) from epub, pdf, markdown, etc. that support chapters</summary>
+<summary>tts (text to speech) that support chapters</summary>
 my opinon of voice quality
-kokoro > edge > piper  
-most like Qwen3 is better than kokoro but not sure yet
-2026 so much better than ones from a few years ago
-
-https://piper.ttstool.com 
-~63MB download per voice, fast local cpu processing (~3min mac m1 for 30KB text), right-click save as wav audio file
-alba[medium] English (Great Britain)
-northern_english_male[medium] English (Great Britain)
-amy[medium] English (United States)
-hfc_female[medium] English (United States)
-hfc_male[medium] English (United States)
-joe[medium] English (United States)
-
-https://github.com/rany2/edge-tts 10.2k 
-edge-tts --voice en-CA-LiamNeural -f 002.txt --write-media edge.mp3   
-takes 2 mins to process 30KB text.  Using MS servers.
+kokoro > edge > piper
+Qwen3 and echo-tts are better than kokoro but require 16GB RAM minimum
 
 Mac only
 https://github.com/kjyv/KokoroTTS
 English (American and British) only but stays at 1GB memory usage amazingly.  Paste text, save wav audio file. Just as fast as mlx-audio without RAM hitting 10GB due to python.
+
+![](images/ttskokoro.jpg)
+
+https://piper.ttstool.com 
+~63MB download per voice, fast local cpu processing (~3min mac m1 for 30KB text), right-click save as wav audio file\
+English (Great Britain)\
+alba[medium] \
+northern_english_male[medium]\
+English (United States)\
+amy[medium]\
+hfc_female[medium]\
+hfc_male[medium]\
+joe[medium]
+
+https://github.com/rany2/edge-tts 10.2k 
+edge-tts --voice en-CA-LiamNeural -f 002.txt --write-media edge.mp3   
+takes 2 mins to process 30KB text.  Online processing using Microsoft servers.
+
+male voices - General and  Friendly, Positive unless specified otherwise
+
+en-AU-WilliamMultilingualNeural               
+en-US-AndrewMultilingualNeural           Conversation, Copilot  Warm, Confident, Authentic, Honest    
+en-US-BrianMultilingualNeural            Conversation, Copilot  Approachable, Casual, Sincere
+
+en-CA-LiamNeural                                        
+en-GB-RyanNeural                                        
+en-GB-ThomasNeural                                      
+en-NZ-MitchellNeural                                    
+en-US-AndrewNeural                       Conversation, Copilot  Warm, Confident, Authentic, Honest\
+en-US-BrianNeural                        Conversation, Copilot  Approachable, Casual, Sincere\
+en-US-ChristopherNeural                  News, Novel            Reliable, Authority\
+en-US-EricNeural                         News, Novel            Rational\
+en-US-GuyNeural                          News, Novel            Passion\
+en-US-RogerNeural                        News, Novel            Lively\
+en-US-SteffanNeural                      News, Novel            Rational
+
+female voices - General and  Friendly, Positive unless specified otherwise
+
+en-US-AvaMultilingualNeural            Conversation, Copilot  Expressive, Caring, Pleasant, Friendly\
+en-US-EmmaMultilingualNeural           Conversation, Copilot  Cheerful, Clear, Conversational
+
+en-AU-NatashaNeural                                   
+en-CA-ClaraNeural                                     
+en-GB-LibbyNeural                                     
+en-GB-MaisieNeural                                    
+en-GB-SoniaNeural          
+en-NZ-MollyNeural                                
+en-US-AnaNeural                        Cartoon, Conversation  Cute\
+en-US-AriaNeural                       News, Novel            Positive, Confident\
+en-US-AvaNeural                        Conversation, Copilot  Expressive, Caring, Pleasant, Friendly\
+en-US-EmmaNeural                       Conversation, Copilot  Cheerful, Clear, Conversational\
+en-US-JennyNeural                                      Friendly, Considerate, Comfort\
+en-US-MichelleNeural                   News, Novel            Friendly, Pleasant
+
 </details>
