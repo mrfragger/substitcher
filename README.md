@@ -236,6 +236,7 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 - translate into these languages (either from or to)
 - English, Arabic, Dutch, French, German, Italian, Portuguese, Spanish, Swedish, Russian, Chinese, Japanese, Korean, Thai, Vietnamese, Indonesian, Bengali
 - missing Filipino, Hindi, Polish, Turkish due to bad accuracy
+- resume translation if necessary
 - online vtt subs translate much faster but vvt must be 977KB or less
 - this is offline and subs can be 7MB for instance
 

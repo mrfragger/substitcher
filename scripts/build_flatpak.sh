@@ -7,6 +7,25 @@ VERSION=$(git describe --tags --always)
 flutter pub get
 flutter build linux --release
 
+mkdir -p build/linux/x64/release/bundle/bin
+mkdir -p build/linux/x64/release/bundle/whisper
+mkdir -p build/linux/x64/release/bundle/llama
+
+if [ -d "temp-bin" ]; then
+    cp temp-bin/* build/linux/x64/release/bundle/bin/
+    chmod +x build/linux/x64/release/bundle/bin/*
+fi
+
+if [ -d "temp-whisper" ]; then
+    cp temp-whisper/* build/linux/x64/release/bundle/whisper/
+    chmod +x build/linux/x64/release/bundle/whisper/whisper-cli
+fi
+
+if [ -d "temp-llama" ]; then
+    cp temp-llama/* build/linux/x64/release/bundle/llama/
+    chmod +x build/linux/x64/release/bundle/llama/llama-server
+fi
+
 cat > $APP_ID.yml << EOF
 app-id: $APP_ID
 runtime: org.freedesktop.Platform
@@ -26,6 +45,12 @@ modules:
     buildsystem: simple
     build-commands:
       - install -Dm755 substitcher /app/bin/substitcher
+      - cp -r lib /app/bin/lib
+      - cp -r data /app/bin/data
+      - mkdir -p /app/bin/bin /app/bin/whisper /app/bin/llama
+      - cp bin/* /app/bin/bin/ && chmod +x /app/bin/bin/*
+      - cp whisper/* /app/bin/whisper/ && chmod +x /app/bin/whisper/whisper-cli
+      - cp llama/* /app/bin/llama/ && chmod +x /app/bin/llama/llama-server
       - install -Dm644 $APP_ID.desktop /app/share/applications/$APP_ID.desktop
     sources:
       - type: dir

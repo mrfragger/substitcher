@@ -1,6 +1,7 @@
 import 'dart:io';
 import 'dart:convert';
 import 'dart:async';
+import 'package:flutter/foundation.dart';
 import 'package:path/path.dart' as path;
 import 'package:path_provider/path_provider.dart';
 import 'package:crypto/crypto.dart';
@@ -25,20 +26,18 @@ class TranslationService {
     'Dutch',
     'French',
     'German',
-    'Italian', 
-    'Portuguese', 
+    'Italian',
+    'Portuguese',
     'Spanish',
     'Swedish',
-    'Russian', 
+    'Russian',
     'Chinese',
-    'Japanese', 
+    'Japanese',
     'Korean',
     'Thai',
     'Vietnamese',
-    // 'Filipino',
     'Indonesian',
     'Bengali',
-    // 'Hindi',
   ];
 
   Future<void> initialize() async {
@@ -46,23 +45,31 @@ class TranslationService {
     _llamaExecutablePath = prefs.getString('llama_executable_path');
     _modelPath = prefs.getString('translation_model_path');
     sourceLanguage = prefs.getString('translation_source_language') ?? 'English';
-  
+
     final saved = prefs.getStringList('translation_selected_languages') ?? [];
     selectedLanguages = saved
         .where((lang) => availableLanguages.contains(lang))
         .toList();
-  
+
     if (_llamaExecutablePath == null || !File(_llamaExecutablePath!).existsSync()) {
       _llamaExecutablePath = await _autoDetectLlama();
     }
-  
+
     await saveSettings();
   }
-  
+
   Future<String?> _autoDetectLlama() async {
     final bundled = getBundledLlamaPath();
-    if (bundled != null && File(bundled).existsSync()) return bundled;
-  
+
+    if (bundled != null && File(bundled).existsSync()) {
+        debugPrint('Using bundled llama-server: $bundled');
+        return bundled;
+      }
+    
+
+    debugPrint('llama bundled path not found: $bundled');
+    debugPrint('resolvedExecutable: ${Platform.resolvedExecutable}');
+
     final candidates = Platform.isWindows
         ? [
             r'C:\Program Files\llama.cpp\llama-server.exe',
@@ -73,11 +80,11 @@ class TranslationService {
             '/usr/bin/llama-server',
             '/opt/homebrew/bin/llama-server',
           ];
-  
+
     for (final p in candidates) {
       if (File(p).existsSync()) return p;
     }
-  
+
     if (!Platform.isWindows) {
       final result = await Process.run('which', ['llama-server']);
       if (result.exitCode == 0) {
@@ -85,7 +92,7 @@ class TranslationService {
         if (p.isNotEmpty && File(p).existsSync()) return p;
       }
     }
-  
+
     return null;
   }
 
@@ -171,7 +178,8 @@ class TranslationService {
     for (int i = 0; i < 240; i++) {
       await Future.delayed(const Duration(milliseconds: 500));
       try {
-        final req = await client.get('127.0.0.1', _port, '/health')
+        final req = await client
+            .get('127.0.0.1', _port, '/health')
             .timeout(const Duration(seconds: 1));
         final resp = await req.close();
         if (resp.statusCode == 200) {
@@ -199,7 +207,6 @@ class TranslationService {
     }
     _serverRunning = false;
   }
-
 
   String _cacheKey(String text, String language, String modelName) {
     final input = '$text|$language|$modelName';
@@ -233,8 +240,7 @@ class TranslationService {
     return result;
   }
 
-  Future<void> _appendToCache(
-      String vttPath, String key, String value) async {
+  Future<void> _appendToCache(String vttPath, String key, String value) async {
     final file = await _getCacheFile(vttPath);
     await file.writeAsString(
       '${jsonEncode({'key': key, 'value': value})}\n',
@@ -244,7 +250,7 @@ class TranslationService {
 
   String cacheKeyPublic(String text, String language) =>
       _cacheKey(text, language, _modelSafeName());
-  
+
   Future<Map<String, String>> loadCachePublic(String vttPath) =>
       _loadCache(vttPath);
 
@@ -252,10 +258,10 @@ class TranslationService {
     final result = await Process.run('which', ['huggingface-cli']);
     return result.exitCode == 0;
   }
-  
+
   Future<Process> startModelDownload(String outputDir) async {
     final useHfCli = await isHuggingFaceCliAvailable();
-  
+
     if (useHfCli) {
       return Process.start('huggingface-cli', [
         'download',
@@ -283,106 +289,105 @@ class TranslationService {
         .replaceAll(RegExp(r'\([^)]*\)'), '')
         .replaceAll(RegExp(r'<[^>]+>'), '')
         .trim();
-    
+
     if (cleaned.length > 300) {
       cleaned = cleaned.substring(0, 300).trim();
     }
-    
+
     return cleaned;
   }
-  
+
   Future<Map<String, String>> translateLine(
     String text,
     List<String> languages,
     String vttPath,
     Map<String, String> cache,
   ) async {
-      final result = <String, String>{};
-      final model = _modelSafeName();
-  
-      final needTranslation = <String>[];
-      for (final lang in languages) {
-        final key = _cacheKey(text, lang, model);
-        if (cache.containsKey(key)) {
-          result[lang] = cache[key]!;
-        } else {
-          needTranslation.add(lang);
-        }
+    final result = <String, String>{};
+    final model = _modelSafeName();
+
+    final needTranslation = <String>[];
+    for (final lang in languages) {
+      final key = _cacheKey(text, lang, model);
+      if (cache.containsKey(key)) {
+        result[lang] = cache[key]!;
+      } else {
+        needTranslation.add(lang);
       }
-  
-      if (needTranslation.isEmpty) return result;
-  
-      if (!_serverRunning) {
-        throw Exception('Translation server is not running');
-      }
-  
-      final langList = needTranslation.join(', ');
-      
-      final prompt =
-          'Translate the following subtitle line from $sourceLanguage into these languages: $langList\n\n'
-          'For each language, provide the translation on a separate line in this exact format:\n'
-          'Language: Translation\n\n'
-          'Maintain the original meaning and natural conversational tone. '
-          'Do not add romanization, transliteration or pronunciation guides in parentheses. '
-          'Do not add any extra text, notes or explanations.\n\n'
-          'Subtitle line:\n$text';
-  
-      final client = HttpClient();
-      try {
-        final req = await client
-            .post('127.0.0.1', _port, '/v1/chat/completions')
-            .timeout(const Duration(seconds: 240));
-        req.headers.contentType = ContentType.json;
-        req.write(jsonEncode({
-          'model': 'translategemma',
-          'messages': [
-            {'role': 'user', 'content': prompt}
-          ],
-          'temperature': 0.1,
-          'stream': false,
-          'max_tokens': 800,  // 26 languages × ~30 tokens each = ~780 max
-          
-        }));
-  
-        final resp = await req.close().timeout(const Duration(seconds: 240));
-        final body = await resp.transform(utf8.decoder).join();
-        final json = jsonDecode(body) as Map<String, dynamic>;
-        final content = json['choices'][0]['message']['content'] as String;
-  
-        for (final line in content.split('\n')) {
-          final colonIdx = line.indexOf(':');
-          if (colonIdx < 0) continue;
-          final langName = line.substring(0, colonIdx).trim();
-          final translation = _cleanTranslation(line.substring(colonIdx + 1));
-          if (translation.isEmpty) continue;
-  
-          String? matched;
-          for (final requested in needTranslation) {
-            if (langName.toLowerCase() == requested.toLowerCase() ||
-                langName.toLowerCase().contains(requested.toLowerCase()) ||
-                requested.toLowerCase().contains(langName.toLowerCase())) {
-              matched = requested;
-              break;
-            }
-          }
-          if (matched != null) {
-            result[matched] = translation;
-            final key = _cacheKey(text, matched, model);
-            cache[key] = translation;
-            await _appendToCache(vttPath, key, translation);
-          }
-        }
-  
-        for (final lang in needTranslation) {
-          result.putIfAbsent(lang, () => text);
-        }
-      } finally {
-        client.close();
-      }
-  
-      return result;
     }
- 
+
+    if (needTranslation.isEmpty) return result;
+
+    if (!_serverRunning) {
+      throw Exception('Translation server is not running');
+    }
+
+    final langList = needTranslation.join(', ');
+
+    final prompt =
+        'Translate the following subtitle line from $sourceLanguage into these languages: $langList\n\n'
+        'For each language, provide the translation on a separate line in this exact format:\n'
+        'Language: Translation\n\n'
+        'Maintain the original meaning and natural conversational tone. '
+        'Do not add romanization, transliteration or pronunciation guides in parentheses. '
+        'Do not add any extra text, notes or explanations.\n\n'
+        'Subtitle line:\n$text';
+
+    final client = HttpClient();
+    try {
+      final req = await client
+          .post('127.0.0.1', _port, '/v1/chat/completions')
+          .timeout(const Duration(seconds: 240));
+      req.headers.contentType = ContentType.json;
+      req.write(jsonEncode({
+        'model': 'translategemma',
+        'messages': [
+          {'role': 'user', 'content': prompt}
+        ],
+        'temperature': 0.1,
+        'stream': false,
+        'max_tokens': 800,
+      }));
+
+      final resp = await req.close().timeout(const Duration(seconds: 240));
+      final body = await resp.transform(utf8.decoder).join();
+      final json = jsonDecode(body) as Map<String, dynamic>;
+      final content = json['choices'][0]['message']['content'] as String;
+
+      for (final line in content.split('\n')) {
+        final colonIdx = line.indexOf(':');
+        if (colonIdx < 0) continue;
+        final langName = line.substring(0, colonIdx).trim();
+        final translation = _cleanTranslation(line.substring(colonIdx + 1));
+        if (translation.isEmpty) continue;
+
+        String? matched;
+        for (final requested in needTranslation) {
+          if (langName.toLowerCase() == requested.toLowerCase() ||
+              langName.toLowerCase().contains(requested.toLowerCase()) ||
+              requested.toLowerCase().contains(langName.toLowerCase())) {
+            matched = requested;
+            break;
+          }
+        }
+        if (matched != null) {
+          result[matched] = translation;
+          final key = _cacheKey(text, matched, model);
+          cache[key] = translation;
+          await _appendToCache(vttPath, key, translation);
+        }
+      }
+
+      for (final lang in needTranslation) {
+        result.putIfAbsent(lang, () => text);
+      }
+    } finally {
+      client.close();
+    }
+
+    return result;
+  }
+
   List<Map<String, String>> parseVtt(String content) {
     final cues = <Map<String, String>>[];
     final lines = content.split('\n');
@@ -440,7 +445,7 @@ class TranslationService {
     String originalVttPath,
     String language,
     List<Map<String, String>> cues,
-    Map<int, String> translations, // cue index -> translated text
+    Map<int, String> translations,
   ) async {
     final langSafe = language
         .replaceAll(' ', '_')
