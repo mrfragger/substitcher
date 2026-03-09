@@ -40,6 +40,7 @@ class _TranslateScreenState extends State<TranslateScreen> {
   bool _isDownloading = false;
   double _downloadProgress = 0.0;
   String _downloadStatus = '';
+  Timer? _progressTimer;
 
   @override
   void initState() {
@@ -50,13 +51,23 @@ class _TranslateScreenState extends State<TranslateScreen> {
       }
     });
     _service.initialize().then((_) {
-      if (mounted) setState(() {});
+      if (mounted) {
+        setState(() {
+          if (_service.isTranslating) {
+            _isTranslating = true;
+            _vttPath = _service.vttPath;
+            _cues = _service.cues;
+            _startProgressTimer();
+          }
+        });
+      }
     });
   }
-
+  
   @override
   void dispose() {
     _scrollController.dispose();
+    _progressTimer?.cancel();
     super.dispose();
   }
 
@@ -327,7 +338,7 @@ class _TranslateScreenState extends State<TranslateScreen> {
       ),
     );
   }
-
+  
   Future<void> _startTranslation() async {
     if (_vttPath == null || _cues.isEmpty) {
       _showSnack('Please select a VTT file first', isError: true);
@@ -341,119 +352,61 @@ class _TranslateScreenState extends State<TranslateScreen> {
       _showSnack('Please start the translation server first', isError: true);
       return;
     }
-
-    setState(() {
-      _isTranslating = true;
-      _cancelled = false;
-      _startTime = DateTime.now();
-      _translationResults.clear();
-      _currentCueIndex = 0;
-      _cacheHits = 0;
-      _apiCalls = 0;
-      _statusMessage = 'Translating...';
-    });
-
-    final cache = await _service.loadCachePublic(_vttPath!);
-
-    for (int i = 0; i < _cues.length; i++) {
-      if (_cancelled) break;
-
-      setState(() => _currentCueIndex = i);
-
-      final text = _cues[i]['text']!.replaceAll('\n', ' ').trim();
-      if (text.isEmpty) {
-        _translationResults[i] = {};
-        continue;
+  
+    // Hand data to the service
+    _service.vttPath = _vttPath;
+    _service.cues = _cues;
+  
+    // Fire and forget — service owns the work
+    _service.runTranslation().then((_) {
+      if (mounted && !_service.cancelled) {
+        _showSnack('Translation complete! Files saved to translated_vtt/');
       }
+    });
+  
+    _startProgressTimer();
+  }
 
-      try {
-        final Map<String, String> translations;
-        final allCached = _service.selectedLanguages.every((lang) {
-          final key = _service.cacheKeyPublic(text, lang);
-          return cache.containsKey(key);
+  void _startProgressTimer() {
+    _progressTimer?.cancel();
+    _progressTimer = Timer.periodic(const Duration(milliseconds: 500), (timer) {
+      if (!_service.isTranslating) {
+        timer.cancel();
+      }
+      if (mounted) {
+        setState(() {
+          _isTranslating = _service.isTranslating;
+          _statusMessage = _service.statusMessage;
+          _currentCueIndex = _service.currentCueIndex;
+          _totalCues = _service.totalCues;
+          _cacheHits = _service.cacheHits;
+          _apiCalls = _service.apiCalls;
+          _startTime = _service.startTime;
+          // Copy results reference for the feed
+          _translationResults
+            ..clear()
+            ..addAll(_service.translationResults);
         });
-
-        if (allCached) {
-          translations = {};
-          for (final lang in _service.selectedLanguages) {
-            final key = _service.cacheKeyPublic(text, lang);
-            translations[lang] = cache[key]!;
-          }
-          setState(() => _cacheHits++);
-        } else {
-          translations = await _service.translateLine(
-            text,
-            _service.selectedLanguages,
-            _vttPath!,
-            cache,
-          );
-          setState(() => _apiCalls++);
-        }
-
-        if (mounted) {
-          setState(() {
-            _translationResults[i] = translations;
-          });
-          WidgetsBinding.instance.addPostFrameCallback((_) {
-            if (!_scrollController.hasClients) return;
-            if (_lastUserScrollTime != null &&
-                DateTime.now().difference(_lastUserScrollTime!).inSeconds < 20) return;
+  
+        // Auto-scroll logic
+        if (_isTranslating && _scrollController.hasClients) {
+          if (_lastUserScrollTime == null ||
+              DateTime.now().difference(_lastUserScrollTime!).inSeconds >= 20) {
             _scrollController.animateTo(
               _scrollController.position.maxScrollExtent,
               duration: const Duration(milliseconds: 300),
               curve: Curves.easeOut,
             );
-          });
+          }
         }
-      } catch (e) {
-        setState(() {
-          _statusMessage = 'Error on cue $i: $e';
-          _translationResults[i] = {
-            for (final l in _service.selectedLanguages) l: _cues[i]['text'] ?? ''
-          };
-        });
       }
-    }
-
-    if (!_cancelled) {
-      for (final lang in _service.selectedLanguages) {
-        final translations = <int, String>{};
-        for (int i = 0; i < _cues.length; i++) {
-          translations[i] = _translationResults[i]?[lang] ?? _cues[i]['text']!;
-        }
-        await _service.writeTranslatedVtt(_vttPath!, lang, _cues, translations);
-      }
-    }
-
-    if (mounted) {
-      final elapsed = DateTime.now().difference(_startTime!);
-      setState(() {
-        _isTranslating = false;
-        _currentCueIndex = _cancelled ? _currentCueIndex : _cues.length;
-        _statusMessage = _cancelled
-            ? 'Cancelled at cue $_currentCueIndex/$_totalCues'
-            : 'Done! ${_formatDuration(elapsed)} • $_cacheHits cached • $_apiCalls API calls';
-      });
-      if (!_cancelled) {
-        _showSnack('Translation complete! Files saved to translated_vtt/');
-      }
-    }
+    });
   }
-
+  
   void _cancel() {
-    setState(() {
-      _cancelled = true;
-      _statusMessage = 'Cancelling...';
-    });
-    _service.stopServer().then((_) {
-      if (mounted) {
-        setState(() {
-          _serverRunning = false;
-          _statusMessage = 'Cancelled';
-        });
-      }
-    });
+    _service.cancelTranslation();
   }
+  
 
   String _formatDuration(Duration d) {
     final h = d.inHours;

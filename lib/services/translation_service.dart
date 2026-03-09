@@ -8,6 +8,9 @@ import 'package:crypto/crypto.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class TranslationService {
+  static final TranslationService _instance = TranslationService._internal();
+  factory TranslationService() => _instance;
+  TranslationService._internal();
   static const int _port = 18033;
   static const String _baseUrl = 'http://127.0.0.1:$_port';
 
@@ -19,6 +22,18 @@ class TranslationService {
   String sourceLanguage = 'English';
   String fallbackSourceLanguage = 'Arabic';
   List<String> selectedLanguages = [];
+
+  bool isTranslating = false;
+    bool cancelled = false;
+    String statusMessage = '';
+    int currentCueIndex = -1;
+    int totalCues = 0;
+    int cacheHits = 0;
+    int apiCalls = 0;
+    DateTime? startTime;
+    String? vttPath;
+    List<Map<String, String>> cues = [];
+    final Map<int, Map<String, String>> translationResults = {};
 
   static const List<String> availableLanguages = [
     'English',
@@ -94,6 +109,89 @@ class TranslationService {
     }
 
     return null;
+  }
+  
+  Future<void> runTranslation() async {
+    if (vttPath == null || cues.isEmpty || selectedLanguages.isEmpty || !_serverRunning) return;
+  
+    isTranslating = true;
+    cancelled = false;
+    startTime = DateTime.now();
+    translationResults.clear();
+    currentCueIndex = 0;
+    totalCues = cues.length;
+    cacheHits = 0;
+    apiCalls = 0;
+    statusMessage = 'Translating...';
+  
+    final cache = await _loadCache(vttPath!);
+  
+    for (int i = 0; i < cues.length; i++) {
+      if (cancelled) break;
+      currentCueIndex = i;
+  
+      final text = cues[i]['text']!.replaceAll('\n', ' ').trim();
+      if (text.isEmpty) {
+        translationResults[i] = {};
+        continue;
+      }
+  
+      try {
+        final allCached = selectedLanguages.every((lang) {
+          final key = _cacheKey(text, lang, _modelSafeName());
+          return cache.containsKey(key);
+        });
+  
+        if (allCached) {
+          final translations = <String, String>{};
+          for (final lang in selectedLanguages) {
+            final key = _cacheKey(text, lang, _modelSafeName());
+            translations[lang] = cache[key]!;
+          }
+          translationResults[i] = translations;
+          cacheHits++;
+        } else {
+          final translations = await translateLine(text, selectedLanguages, vttPath!, cache);
+          translationResults[i] = translations;
+          apiCalls++;
+        }
+      } catch (e) {
+        statusMessage = 'Error on cue $i: $e';
+        translationResults[i] = {
+          for (final l in selectedLanguages) l: cues[i]['text'] ?? ''
+        };
+      }
+    }
+  
+    if (!cancelled) {
+      for (final lang in selectedLanguages) {
+        final translations = <int, String>{};
+        for (int i = 0; i < cues.length; i++) {
+          translations[i] = translationResults[i]?[lang] ?? cues[i]['text']!;
+        }
+        await writeTranslatedVtt(vttPath!, lang, cues, translations);
+      }
+    }
+  
+    final elapsed = DateTime.now().difference(startTime!);
+    currentCueIndex = cancelled ? currentCueIndex : cues.length;
+    statusMessage = cancelled
+        ? 'Cancelled at cue $currentCueIndex/$totalCues'
+        : 'Done! ${_formatElapsed(elapsed)} • $cacheHits cached • $apiCalls API calls';
+    isTranslating = false;
+  }
+  
+  void cancelTranslation() {
+    cancelled = true;
+    statusMessage = 'Cancelling...';
+    stopServer();
+  }
+  
+  String _formatElapsed(Duration d) {
+    final h = d.inHours;
+    final m = d.inMinutes.remainder(60);
+    final s = d.inSeconds.remainder(60);
+    return h > 0 ? '${h}h ${m}m ${s}s' : '${m}m ${s}s';
   }
 
   Future<void> saveSettings() async {
