@@ -50,6 +50,9 @@ mpv 0.36.0  -Dgpl=false -Dcplayer=false -Dlibmpv=true
 whisper.cpp for transcribing MIT License
 Copyright (c) 2023-2024 The ggml authors
 
+llama.cpp for translating (llm models) MIT License
+Copyright (c) 2023-2026 The ggml authors
+
 adhan clock MIT License
 opus files and some code logic from 
 https://github.com/azanclock/PWA

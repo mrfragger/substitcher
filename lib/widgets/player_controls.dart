@@ -987,7 +987,7 @@ class PlayerControls extends StatelessWidget {
             ),
             const PopupMenuItem(
               value: 'copyCurrentSubtitle',
-              child: Text('Copy Current Subtitle (u / U)'),
+              child: Text('Copy Current Subtitle (u / U / Ctrl+u)'),
             ),
             const PopupMenuItem(
               value: 'set_default',

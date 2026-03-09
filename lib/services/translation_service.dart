@@ -110,6 +110,43 @@ class TranslationService {
 
     return null;
   }
+
+  Future<void> _packageTranslatedVtts(String originalVttPath) async {
+      final base = path.basenameWithoutExtension(originalVttPath);
+      final dir = path.dirname(originalVttPath);
+      final outDirPath = path.join(dir, '${base}_vtt');
+      final outDir = Directory(outDirPath);
+  
+      if (!outDir.existsSync()) return;
+  
+      final originalFile = File(originalVttPath);
+      if (originalFile.existsSync()) {
+        final destPath = path.join(outDirPath, path.basename(originalVttPath));
+        await originalFile.copy(destPath);
+      }
+  
+      final zipName = '${base}_vtt.zip';
+      final zipPath = path.join(dir, zipName);
+  
+      try {
+        if (Platform.isMacOS) {
+          await Process.run(
+            'zip',
+            ['-r', zipPath, '.', '-x', '*.DS_Store'],
+            workingDirectory: outDirPath,
+          );
+        } else {
+          await Process.run(
+            'zip',
+            ['-r', zipPath, '.'],
+            workingDirectory: outDirPath,
+          );
+        }
+        statusMessage = 'Done! Translations zipped to $zipName';
+      } catch (e) {
+        debugPrint('Failed to create zip: $e');
+      }
+    }
   
   Future<void> runTranslation() async {
     if (vttPath == null || cues.isEmpty || selectedLanguages.isEmpty || !_serverRunning) return;
@@ -171,6 +208,7 @@ class TranslationService {
         }
         await writeTranslatedVtt(vttPath!, lang, cues, translations);
       }
+      await _packageTranslatedVtts(vttPath!);
     }
   
     final elapsed = DateTime.now().difference(startTime!);
@@ -318,12 +356,12 @@ class TranslationService {
   }
 
   Future<File> _getCacheFile(String vttPath) async {
-    final dir = path.dirname(vttPath);
-    final cacheDir = Directory(path.join(dir, 'translation_cache'));
-    await cacheDir.create(recursive: true);
-    final base = path.basenameWithoutExtension(vttPath);
-    return File(path.join(cacheDir.path, '${base}_cache.jsonl'));
-  }
+      final dir = path.dirname(vttPath);
+      final base = path.basenameWithoutExtension(vttPath);
+      final cacheDir = Directory(path.join(dir, '${base}_translation_cache'));
+      await cacheDir.create(recursive: true);
+      return File(path.join(cacheDir.path, '${base}_cache.jsonl'));
+    }
 
   Future<Map<String, String>> _loadCache(String vttPath) async {
     final file = await _getCacheFile(vttPath);
@@ -540,36 +578,36 @@ class TranslationService {
   }
 
   Future<void> writeTranslatedVtt(
-    String originalVttPath,
-    String language,
-    List<Map<String, String>> cues,
-    Map<int, String> translations,
-  ) async {
-    final langSafe = language
-        .replaceAll(' ', '_')
-        .replaceAll(RegExp(r'[^a-zA-Z0-9_-]'), '');
-    final base = path.basenameWithoutExtension(originalVttPath);
-    final dir = path.dirname(originalVttPath);
-    final outDir = Directory(path.join(dir, 'translated_vtt'));
-    await outDir.create(recursive: true);
-    final outPath = path.join(outDir.path, '$base.$langSafe.vtt');
-
-    final buf = StringBuffer();
-    buf.writeln('WEBVTT');
-    buf.writeln();
-
-    for (int i = 0; i < cues.length; i++) {
-      final cue = cues[i];
-      if (cue['index']!.isNotEmpty) {
-        buf.writeln(cue['index']);
-      }
-      buf.writeln(cue['timestamp']);
-      buf.writeln(translations[i] ?? cue['text']);
+      String originalVttPath,
+      String language,
+      List<Map<String, String>> cues,
+      Map<int, String> translations,
+    ) async {
+      final langSafe = language
+          .replaceAll(' ', '_')
+          .replaceAll(RegExp(r'[^a-zA-Z0-9_-]'), '');
+      final base = path.basenameWithoutExtension(originalVttPath);
+      final dir = path.dirname(originalVttPath);
+      final outDir = Directory(path.join(dir, '${base}_vtt'));
+      await outDir.create(recursive: true);
+      final outPath = path.join(outDir.path, '$base.$langSafe.vtt');
+  
+      final buf = StringBuffer();
+      buf.writeln('WEBVTT');
       buf.writeln();
+  
+      for (int i = 0; i < cues.length; i++) {
+        final cue = cues[i];
+        if (cue['index']!.isNotEmpty) {
+          buf.writeln(cue['index']);
+        }
+        buf.writeln(cue['timestamp']);
+        buf.writeln(translations[i] ?? cue['text']);
+        buf.writeln();
+      }
+  
+      await File(outPath).writeAsString(buf.toString());
     }
-
-    await File(outPath).writeAsString(buf.toString());
-  }
 
   Future<String> testServer() async {
     final execPath = _llamaExecutablePath ?? getBundledLlamaPath();

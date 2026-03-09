@@ -121,6 +121,8 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   static const double _universalShadowOffset = 6.0;
   static const double _universalStrokeWidth = 3.0;
   FontColorOverride _fontColorOverride = FontColorOverride.none;
+  FontColorOverride _secondaryFontColorOverride = FontColorOverride.none;
+  bool _secondaryBlurShadowEnabled = false;
   late final WindowListener _windowListener;
   final FFmpegService _ffmpeg = FFmpegService();
   final player = Player();
@@ -185,6 +187,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   double _subtitleFontSize = 86.0;
 
   List<SubtitleCue> _originalSubtitles = [];
+  List<SubtitleCue> _secondaryOriginalSubtitles = [];
   String? _lastDebuggedSubtitle;
 
   Timer? _dictionaryModeExitTimer;
@@ -350,6 +353,8 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   List<LutItem> _availableLuts = [];
   String _lutFilterMode = 'all';
   int _selectedLutIndex = -1;
+
+
 
   @override
   void initState() {
@@ -1114,6 +1119,10 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             final tempSize = _subtitleFontSize;
             final tempPalette = _currentColorPalette;
             final tempConversion = _conversionType;
+
+            final tempOriginal = _originalSubtitles;
+            _originalSubtitles = _secondaryOriginalSubtitles;
+            _secondaryOriginalSubtitles = tempOriginal;
             
             _selectedFont = _secondarySubtitleFont;
             _subtitleFontSize = _secondarySubtitleFontSize;
@@ -1142,6 +1151,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             _secondarySubtitles = [];
             _secondarySubtitleText = '';
             _currentSecondarySubtitleIndex = null;
+            _secondaryOriginalSubtitles = [];
           });
         },
       ),
@@ -3954,6 +3964,8 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       
     try {
       final content = await File(_secondarySubtitleFilePath!).readAsString();
+      _secondaryOriginalSubtitles = _parseVTT(content);
+    
       String convertedContent = content;
       
       switch (_secondaryConversionType) {
@@ -4032,6 +4044,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     
     return length;
   }
+
   
   TextSpan _buildColoredTextSpan(
     String text, {
@@ -4042,7 +4055,9 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     bool isStroke = false,
     bool useShadowColor = false,
     bool useBlurShadow = false,
+    FontColorOverride? fontColorOverrideParam,
   }) {
+    final effectiveFontColorOverride = fontColorOverrideParam ?? _fontColorOverride;
     final baseFontSize = fontSize ?? _subtitleFontSize;
     final effectiveFont = fontFamily ?? (_selectedFont == 'System Default' ? null : _selectedFont);
     final effectivePalette = palette ?? _currentColorPalette;
@@ -4114,8 +4129,8 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             ? _parseColor(effectivePalette.effectiveShadowColor(0)) 
             : fontColor;
         
-        color = !useShadowColor && _fontColorOverride != FontColorOverride.none
-            ? (_fontColorOverride == FontColorOverride.black ? Colors.black87 : Colors.white70)
+        color = !useShadowColor && effectiveFontColorOverride != FontColorOverride.none
+            ? (effectiveFontColorOverride == FontColorOverride.black ? Colors.black87 : Colors.white70)
             : baseColor;
         foreground = null;
       }
@@ -4161,6 +4176,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         isStroke,
         useShadowColor,
         useBlurShadow,
+        effectiveFontColorOverride,
       );
     }
     
@@ -4176,6 +4192,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         isStroke,
         useShadowColor,
         useBlurShadow,
+        effectiveFontColorOverride,
       );
     }
     
@@ -4193,6 +4210,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         isStroke,
         useShadowColor,
         useBlurShadow,
+        effectiveFontColorOverride,
       );
     }
     
@@ -4226,8 +4244,8 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             ? _parseColor(effectivePalette.effectiveShadowColor(colorIndex)) 
             : color;
         
-        textColor = !useShadowColor && _fontColorOverride != FontColorOverride.none
-            ? (_fontColorOverride == FontColorOverride.black ? Colors.black87 : Colors.white70)
+        textColor = !useShadowColor && effectiveFontColorOverride != FontColorOverride.none
+            ? (effectiveFontColorOverride == FontColorOverride.black ? Colors.black87 : Colors.white70)
             : baseColor;
         foreground = null;
       }
@@ -4308,6 +4326,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     bool isStroke,
     bool useShadowColor,
     bool useBlurShadow,
+    FontColorOverride fontColorOverride,
   ) {
     const double strokeWidth = _universalStrokeWidth;
     
@@ -4376,8 +4395,8 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                 ? _parseColor(palette.effectiveShadowColor(colorIndex)) 
                 : color;
             
-            textColor = !useShadowColor && _fontColorOverride != FontColorOverride.none
-                ? (_fontColorOverride == FontColorOverride.black ? Colors.black87 : Colors.white70)
+            textColor = !useShadowColor && fontColorOverride != FontColorOverride.none
+                ? (fontColorOverride == FontColorOverride.black ? Colors.black87 : Colors.white70)
                 : baseColor;
             foreground = null;
           }
@@ -4437,8 +4456,8 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                 ? _parseColor(palette.effectiveShadowColor(colorIndex)) 
                 : color;
             
-            textColor = !useShadowColor && _fontColorOverride != FontColorOverride.none
-                ? (_fontColorOverride == FontColorOverride.black ? Colors.black87 : Colors.white70)
+            textColor = !useShadowColor && fontColorOverride != FontColorOverride.none
+                ? (fontColorOverride == FontColorOverride.black ? Colors.black87 : Colors.white70)
                 : baseColor;
             foreground = null;
           }
@@ -4499,6 +4518,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     bool isStroke,
     bool useShadowColor,
     bool useBlurShadow,
+    FontColorOverride fontColorOverride,
   ) {
     const double strokeWidth = _universalStrokeWidth;
     
@@ -4542,8 +4562,8 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                   ? _parseColor(palette.effectiveShadowColor(currentColorIndex)) 
                   : color;
               
-              if (!useShadowColor && _fontColorOverride != FontColorOverride.none) {
-                textColor = _fontColorOverride == FontColorOverride.black ? Colors.black87 : Colors.white70;
+              if (!useShadowColor && fontColorOverride != FontColorOverride.none) {
+                textColor = fontColorOverride == FontColorOverride.black ? Colors.black87 : Colors.white70;
               }
               foreground = null;
             }
@@ -4588,6 +4608,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     bool isStroke,
     bool useShadowColor,
     bool useBlurShadow,
+    FontColorOverride fontColorOverride,
   ) {
     const double strokeWidth = _universalStrokeWidth;
     
@@ -4619,8 +4640,8 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             ? _parseColor(palette.effectiveShadowColor(colorIndex)) 
             : color;
         
-        textColor = !useShadowColor && _fontColorOverride != FontColorOverride.none
-            ? (_fontColorOverride == FontColorOverride.black ? Colors.black87 : Colors.white70)
+        textColor = !useShadowColor && fontColorOverride != FontColorOverride.none
+            ? (fontColorOverride == FontColorOverride.black ? Colors.black87 : Colors.white70)
             : baseColor;
         foreground = null;
       }
@@ -6263,12 +6284,16 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             _scrollToCurrentChapter();
             return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyU && 
-                    HardwareKeyboard.instance.isShiftPressed && event is KeyDownEvent) {
-            _copyCurrentSubtitleInMemory();
-            return KeyEventResult.handled;
+                          HardwareKeyboard.instance.isControlPressed && event is KeyDownEvent) {
+              _copyCurrentSubtitleInMemory();
+              return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyU && 
+                          HardwareKeyboard.instance.isShiftPressed && event is KeyDownEvent) {
+              _copySecondarySubtitle();
+              return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyU && event is KeyDownEvent) {
-            _copyCurrentSubtitle();
-            return KeyEventResult.handled;
+              _copyCurrentSubtitle();
+              return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyH && 
                        HardwareKeyboard.instance.isShiftPressed && 
                        event is KeyDownEvent) {
@@ -6847,6 +6872,14 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                 _secondarySubtitleFontSize = tempSize;
                 _secondaryColorPalette = tempPalette;
                 _secondaryConversionType = tempConversion;
+
+                final tempBlur = _blurShadowEnabled;
+                _blurShadowEnabled = _secondaryBlurShadowEnabled;
+                _secondaryBlurShadowEnabled = tempBlur;
+                
+                final tempFontColor = _fontColorOverride;
+                _fontColorOverride = _secondaryFontColorOverride;
+                _secondaryFontColorOverride = tempFontColor;
               });
               
               if (mounted) {
@@ -7548,48 +7581,51 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                               fit: BoxFit.contain,
                               controls: NoVideoControls,
                             ),
-                            if (_secondarySubtitleText.isNotEmpty)
-                              Positioned(
-                                bottom: 80,
-                                left: 32,
-                                right: 32,
-                                child: Center(
-                                  child: Container(
-                                    padding: const EdgeInsets.all(12),
-                                    child: Stack(
-                                      children: [
-                                        if (_secondaryColorPalette?.strokeColor != null)
-                                          Transform.translate(
-                                            offset: Offset(_universalShadowOffset, _universalShadowOffset),
-                                            child: RichText(
-                                              textAlign: TextAlign.center,
-                                              text: _buildColoredTextSpan(_secondarySubtitleText,
-                                                fontSize: _secondarySubtitleFontSize,
-                                                fontFamily: _secondarySubtitleFont,
-                                                palette: _secondaryColorPalette,
-                                                lineSpacing: _secondarySubtitleLineSpacing,
-                                                isStroke: true, useShadowColor: true),
-                                            ),
-                                          ),
-                                        RichText(
-                                          textAlign: TextAlign.center,
-                                          text: _buildColoredTextSpan(_secondarySubtitleText,
-                                            fontSize: _secondarySubtitleFontSize,
-                                            fontFamily: _secondarySubtitleFont,
-                                            palette: _secondaryColorPalette,
-                                            lineSpacing: _secondarySubtitleLineSpacing,
-                                            isStroke: false, useBlurShadow: _blurShadowEnabled),
-                                        ),
-                                        if (_secondaryColorPalette?.strokeColor != null)
-                                          RichText(
-                                            textAlign: TextAlign.center,
-                                            text: _buildColoredTextSpan(_secondarySubtitleText,
-                                              fontSize: _secondarySubtitleFontSize,
-                                              fontFamily: _secondarySubtitleFont,
-                                              palette: _secondaryColorPalette,
-                                              lineSpacing: _secondarySubtitleLineSpacing,
-                                              isStroke: true),
-                                          ),
+                           if (_secondarySubtitleText.isNotEmpty)
+                             Positioned(
+                               bottom: 80,
+                               left: 32,
+                               right: 32,
+                               child: Center(
+                                 child: Container(
+                                   padding: const EdgeInsets.all(12),
+                                   child: Stack(
+                                     children: [
+                                       if (_secondaryColorPalette?.strokeColor != null)
+                                         Transform.translate(
+                                           offset: Offset(_universalShadowOffset, _universalShadowOffset),
+                                           child: RichText(
+                                             textAlign: TextAlign.center,
+                                             text: _buildColoredTextSpan(_secondarySubtitleText,
+                                               fontSize: _secondarySubtitleFontSize,
+                                               fontFamily: _secondarySubtitleFont,
+                                               palette: _secondaryColorPalette,
+                                               lineSpacing: _secondarySubtitleLineSpacing,
+                                               isStroke: true, useShadowColor: true,
+                                               fontColorOverrideParam: _secondaryFontColorOverride),
+                                           ),
+                                         ),
+                                       RichText(
+                                         textAlign: TextAlign.center,
+                                         text: _buildColoredTextSpan(_secondarySubtitleText,
+                                           fontSize: _secondarySubtitleFontSize,
+                                           fontFamily: _secondarySubtitleFont,
+                                           palette: _secondaryColorPalette,
+                                           lineSpacing: _secondarySubtitleLineSpacing,
+                                           isStroke: false, useBlurShadow: _secondaryBlurShadowEnabled,
+                                           fontColorOverrideParam: _secondaryFontColorOverride),
+                                       ),
+                                       if (_secondaryColorPalette?.strokeColor != null)
+                                         RichText(
+                                           textAlign: TextAlign.center,
+                                           text: _buildColoredTextSpan(_secondarySubtitleText,
+                                             fontSize: _secondarySubtitleFontSize,
+                                             fontFamily: _secondarySubtitleFont,
+                                             palette: _secondaryColorPalette,
+                                             lineSpacing: _secondarySubtitleLineSpacing,
+                                             isStroke: true,
+                                             fontColorOverrideParam: _secondaryFontColorOverride),
+                                         ),
                                       ],
                                     ),
                                   ),
@@ -8218,6 +8254,35 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       );
     }
   }
+
+ Future<void> _copySecondarySubtitle() async {
+     if (_secondarySubtitleText.isEmpty) {
+       ScaffoldMessenger.of(context).showSnackBar(
+         const SnackBar(
+           content: Text('No secondary subtitle to copy'),
+           duration: Duration(seconds: 1),
+         ),
+       );
+       return;
+     }
+     
+     String textToCopy = _secondarySubtitleText;
+     if (_currentSecondarySubtitleIndex != null && 
+         _currentSecondarySubtitleIndex! < _secondaryOriginalSubtitles.length) {
+       textToCopy = _secondaryOriginalSubtitles[_currentSecondarySubtitleIndex!].text;
+     }
+     
+     await Clipboard.setData(ClipboardData(text: textToCopy));
+     
+     if (mounted) {
+       ScaffoldMessenger.of(context).showSnackBar(
+         const SnackBar(
+           content: Text('Secondary subtitle copied to clipboard'),
+           duration: Duration(seconds: 1),
+         ),
+       );
+     }
+   }
 
   Future<void> _copyCurrentSubtitleInMemory() async {
     if (_currentSubtitleText.isEmpty) {
