@@ -397,7 +397,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     _loadSkipTrackingTerms();
     _startCacheFlushTimer();
     _loadFavoriteLuts();
-    _loadTestLut();
+    _loadSavedLut();
     WidgetsBinding.instance.addPostFrameCallback((_) {
       _focusNode.requestFocus();
       _adhanClockService.checkNow();
@@ -484,31 +484,38 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   }
   
   Future<void> _selectLut(String? lutPath, String? lutName) async {
-    if (lutPath == null) {
-      setState(() {
-        _selectedLutName = null;
-        _loadedLutData = null;
-      });
-      return;
+      final prefs = await SharedPreferences.getInstance();
+      if (lutPath == null) {
+        setState(() {
+          _selectedLutName = null;
+          _loadedLutData = null;
+        });
+        await prefs.remove('selectedLutPath');
+        await prefs.remove('selectedLutName');
+        return;
+      }
+      try {
+        final lutData = await rootBundle.loadString(lutPath);
+        final parsedLut = await LutProcessor.parseCubeLutFromString(lutData);
+        setState(() {
+          _selectedLutName = lutName;
+          _loadedLutData = parsedLut;
+        });
+        await prefs.setString('selectedLutPath', lutPath);
+        await prefs.setString('selectedLutName', lutName!);
+      } catch (e) {
+        print('Error loading LUT: $e');
+      }
     }
-    try {
-      final lutData = await rootBundle.loadString(lutPath);
-      final parsedLut = await LutProcessor.parseCubeLutFromString(lutData);
-      setState(() {
-        _selectedLutName = lutName;
-        _loadedLutData = parsedLut;
-      });
-    } catch (e) {
-      print('Error loading LUT: $e');
-    }
-  }
   
-  Future<void> _loadTestLut() async {
-    await _selectLut(
-      'assets/lut/creative edgyember.cube',
-      'edgyember',
-    );
-  }
+  Future<void> _loadSavedLut() async {
+      final prefs = await SharedPreferences.getInstance();
+      final lutPath = prefs.getString('selectedLutPath');
+      final lutName = prefs.getString('selectedLutName');
+      if (lutPath != null && lutName != null) {
+        await _selectLut(lutPath, lutName);
+      }
+    }
 
   Future<void> _scanAvailableLuts() async {
     final luts = lutList
@@ -6829,12 +6836,16 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               setState(() => _lutFilterMode = 'favorites');
               return KeyEventResult.handled;
             } else if (event.logicalKey == LogicalKeyboardKey.digit3 || event.logicalKey == LogicalKeyboardKey.numpad3) {
-              setState(() {
-                _selectedLutIndex = -1;
-                _selectedLutName = null;
-                _loadedLutData = null;
-              });
-              return KeyEventResult.handled;
+                setState(() {
+                  _selectedLutIndex = -1;
+                  _selectedLutName = null;
+                  _loadedLutData = null;
+                });
+                SharedPreferences.getInstance().then((prefs) {
+                  prefs.remove('selectedLutPath');
+                  prefs.remove('selectedLutName');
+                });
+                return KeyEventResult.handled;
             }
           } else if (event.logicalKey == LogicalKeyboardKey.keyX && event is KeyDownEvent) {
             if (_primarySubtitlePath != null || _secondarySubtitlePath != null) {
@@ -7195,6 +7206,17 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                   favoriteColorPalettes: _favoriteColorPalettes,
                   onRemoveColorPaletteFavorite: _removeColorPaletteFromFavorites,
                   onAddColorPaletteFavorite: _addColorPaletteToFavorites,
+                  onClearLut: () {
+                    setState(() {
+                      _selectedLutIndex = -1;
+                      _selectedLutName = null;
+                      _loadedLutData = null;
+                    });
+                    SharedPreferences.getInstance().then((prefs) {
+                      prefs.remove('selectedLutPath');
+                      prefs.remove('selectedLutName');
+                    });
+                  },
                   
                   frequencyItems: _frequencyItems,
                   isAnalyzingFrequencies: _isAnalyzingFrequencies,

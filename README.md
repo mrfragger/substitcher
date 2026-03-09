@@ -46,6 +46,8 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 - apply default font, font size, font line spacing
 - left/right arrows advanced to prev/next subtitle
 - use primary / secondary at same time, i.e. bilingual subs
+- copy to clipboard primary or secondary subtitle line (u / U)
+- copy to clipboard in memory (font conversion for primary)
 - search foreign language subtitles
 - blur shadow (uses 2x cpu usage) but dims it a bit
 
@@ -240,6 +242,9 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 - resume translation if necessary
 - online vtt subs translate much faster but vvt must be 977KB or less
 - this is offline and subs can be 7MB for instance
+- once translating subs is done it'll copy original subtitle into filename_vtt and create a filename_vtt.zip file with all subs
+- so all one needs is filename.opus and filename_vtt.zip
+- SubStitcher automatically can read all subtitles in filename_vtt subdir in Subtitle Manager
 
 ![](images/translatevtt.jpg)
 

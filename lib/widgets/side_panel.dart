@@ -185,6 +185,8 @@ class SidePanel extends StatelessWidget {
   final Function(String) onAddLutFavorite;
   final Function(String) onRemoveLutFavorite;
   final String? selectedLutName;
+  final VoidCallback onClearLut;
+  
   
   const SidePanel({
     super.key,
@@ -338,6 +340,7 @@ class SidePanel extends StatelessWidget {
     required this.onAddLutFavorite,
     required this.onRemoveLutFavorite,
     required this.selectedLutName,
+    required this.onClearLut,
   });
 
   @override
@@ -1314,16 +1317,22 @@ class SidePanel extends StatelessWidget {
                  _buildColorFilterButton('4 Favorites (⇧R)', 'favorites'),
                  if (selectedLutName != null) ...[
                    const SizedBox(width: 24),
-                   Container(
-                     padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 6),
-                     decoration: BoxDecoration(
-                       color: Colors.amber.withAlpha(30),
-                       borderRadius: BorderRadius.circular(6),
-                       border: Border.all(color: Colors.amber.withAlpha(100)),
-                     ),
-                     child: Text(
-                       '✦ $selectedLutName',
-                       style: const TextStyle(color: Colors.amber, fontSize: 12),
+                   Tooltip(
+                     message: 'Clear LUT',
+                     child: InkWell(
+                       onTap: () => onClearLut(),
+                       child: Container(
+                         padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 6),
+                         decoration: BoxDecoration(
+                           color: Colors.amber.withAlpha(30),
+                           borderRadius: BorderRadius.circular(6),
+                           border: Border.all(color: Colors.amber.withAlpha(100)),
+                         ),
+                         child: Text(
+                           '✦ $selectedLutName',
+                           style: const TextStyle(color: Colors.amber, fontSize: 12),
+                         ),
+                       ),
                      ),
                    ),
                  ],
