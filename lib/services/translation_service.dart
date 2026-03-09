@@ -46,13 +46,47 @@ class TranslationService {
     _llamaExecutablePath = prefs.getString('llama_executable_path');
     _modelPath = prefs.getString('translation_model_path');
     sourceLanguage = prefs.getString('translation_source_language') ?? 'English';
-    
+  
     final saved = prefs.getStringList('translation_selected_languages') ?? [];
     selectedLanguages = saved
         .where((lang) => availableLanguages.contains(lang))
         .toList();
-    
+  
+    if (_llamaExecutablePath == null || !File(_llamaExecutablePath!).existsSync()) {
+      _llamaExecutablePath = await _autoDetectLlama();
+    }
+  
     await saveSettings();
+  }
+  
+  Future<String?> _autoDetectLlama() async {
+    final bundled = getBundledLlamaPath();
+    if (bundled != null && File(bundled).existsSync()) return bundled;
+  
+    final candidates = Platform.isWindows
+        ? [
+            r'C:\Program Files\llama.cpp\llama-server.exe',
+            r'C:\llama.cpp\llama-server.exe',
+          ]
+        : [
+            '/usr/local/bin/llama-server',
+            '/usr/bin/llama-server',
+            '/opt/homebrew/bin/llama-server',
+          ];
+  
+    for (final p in candidates) {
+      if (File(p).existsSync()) return p;
+    }
+  
+    if (!Platform.isWindows) {
+      final result = await Process.run('which', ['llama-server']);
+      if (result.exitCode == 0) {
+        final p = (result.stdout as String).trim();
+        if (p.isNotEmpty && File(p).existsSync()) return p;
+      }
+    }
+  
+    return null;
   }
 
   Future<void> saveSettings() async {

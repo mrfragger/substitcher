@@ -38,7 +38,8 @@ jobs:
         with:
           workflow: build_llamacpp.yml
           name: llama-macos-arm64
-          path: macos/Runner/Resources/llama/    
+          path: macos/Runner/Resources/llama/
+          if_no_artifact_found: fail
       
       - name: Build macOS (arm64 only)
         run: |
@@ -62,7 +63,6 @@ jobs:
         with:
           name: macos-build
           path: SubStitcher-macOS-arm64.dmg
-
 
   build-linux-appimage:
     runs-on: ubuntu-latest
@@ -114,7 +114,7 @@ jobs:
           
           chmod +x build/linux/x64/release/bundle/bin/*
           chmod +x build/linux/x64/release/bundle/whisper/*
-          chmod +x build/linux/x64/release/bundle/llama/*          
+          chmod +x build/linux/x64/release/bundle/llama/*
       
       - name: Create AppImage
         run: |
@@ -149,6 +149,13 @@ jobs:
           workflow: build_whisper.yml
           name: whisper-windows
           path: temp-whisper/
+
+      - name: Download Windows llama-server
+        uses: dawidd6/action-download-artifact@v2
+        with:
+          workflow: build_llamacpp.yml
+          name: llama-windows-x64
+          path: temp-llama/
       
       - name: Build Windows
         run: |
@@ -160,8 +167,10 @@ jobs:
         run: |
           New-Item -ItemType Directory -Force -Path build\windows\x64\runner\Release\bin
           New-Item -ItemType Directory -Force -Path build\windows\x64\runner\Release\whisper
+          New-Item -ItemType Directory -Force -Path build\windows\x64\runner\Release\llama
           Copy-Item temp-bin\* build\windows\x64\runner\Release\bin\
           Copy-Item temp-whisper\* build\windows\x64\runner\Release\whisper\
+          Copy-Item temp-llama\* build\windows\x64\runner\Release\llama\
       
       - name: Create ZIP
         run: |
@@ -196,17 +205,10 @@ jobs:
         timeout-minutes: 15
         run: |
           if ! flatpak list | grep -q "org.freedesktop.Platform.*24.08"; then
-            echo "Installing Platform..."
             sudo flatpak install -y flathub org.freedesktop.Platform//24.08
-          else
-            echo "Platform already installed"
           fi
-          
           if ! flatpak list | grep -q "org.freedesktop.Sdk.*24.08"; then
-            echo "Installing Sdk..."
             sudo flatpak install -y flathub org.freedesktop.Sdk//24.08
-          else
-            echo "Sdk already installed"
           fi
       
       - name: Download Linux FFmpeg
@@ -222,6 +224,13 @@ jobs:
           workflow: build_whisper.yml
           name: whisper-linux
           path: temp-whisper/
+
+      - name: Download Linux llama-server
+        uses: dawidd6/action-download-artifact@v2
+        with:
+          workflow: build_llamacpp.yml
+          name: llama-linux-x64
+          path: temp-llama/
       
       - name: Build Linux
         run: |
@@ -230,10 +239,13 @@ jobs:
           
           mkdir -p build/linux/x64/release/bundle/bin
           mkdir -p build/linux/x64/release/bundle/whisper
+          mkdir -p build/linux/x64/release/bundle/llama
           cp temp-bin/* build/linux/x64/release/bundle/bin/
           cp temp-whisper/* build/linux/x64/release/bundle/whisper/
+          cp temp-llama/* build/linux/x64/release/bundle/llama/
           chmod +x build/linux/x64/release/bundle/bin/*
           chmod +x build/linux/x64/release/bundle/whisper/*
+          chmod +x build/linux/x64/release/bundle/llama/*
       
       - name: Build Flatpak
         run: |
@@ -290,10 +302,8 @@ jobs:
       - name: Copy Android native libraries
         run: |
           mkdir -p android/app/src/main/jniLibs/arm64-v8a
-          
           cp temp-android-bin/arm64-v8a/ffmpeg android/app/src/main/jniLibs/arm64-v8a/libffmpeg.so
           cp temp-android-bin/arm64-v8a/ffprobe android/app/src/main/jniLibs/arm64-v8a/libffprobe.so
-          
           cp temp-android-whisper/arm64-v8a/whisper-cli android/app/src/main/jniLibs/arm64-v8a/libwhisper-cli.so
           cp temp-android-whisper/arm64-v8a/*.so android/app/src/main/jniLibs/arm64-v8a/ || true
       
@@ -431,7 +441,6 @@ jobs:
           git clone https://x-access-token:${HOMEBREW_TAP_TOKEN}@github.com/mrfragger/homebrew-substitcher.git
           cd homebrew-substitcher
           
-          # Create Casks directory if it doesn't exist
           mkdir -p Casks
           
           cat > Casks/substitcher.rb << 'EOF'
@@ -456,7 +465,6 @@ jobs:
           sed -i "s/VERSION_PLACEHOLDER/${VERSION}/g" Casks/substitcher.rb
           sed -i "s/SHA_PLACEHOLDER/${SHA256}/g" Casks/substitcher.rb
           
-          # Remove old formula if it exists
           rm -f Formula/substitcher.rb
           
           git config user.name "github-actions[bot]"
