@@ -4,6 +4,7 @@ import '../models/audiobook_metadata.dart';
 import '../models/pause_mode.dart';
 import '../models/color_palette.dart';
 import 'package:path/path.dart' as path;
+import 'package:substitcher/models/pause_mode.dart';
 
 class PlayerControls extends StatelessWidget {
   final AudiobookMetadata audiobook;
@@ -28,6 +29,8 @@ class PlayerControls extends StatelessWidget {
   final String secondarySubtitleFont;
   final ColorPalette? secondaryColorPalette;
   final Duration? sleepDuration;
+  final SleepTimerAction sleepTimerAction;
+  final ValueChanged<SleepTimerAction> onSetSleepTimerAction;
   final double? sliderHoverPosition;
   final String? hoveredChapterTitle;
   final String defaultFont;
@@ -102,6 +105,8 @@ class PlayerControls extends StatelessWidget {
     required this.secondarySubtitleFont,
     required this.secondaryColorPalette,
     required this.sleepDuration,
+    required this.sleepTimerAction,
+    required this.onSetSleepTimerAction,
     required this.sliderHoverPosition,
     required this.hoveredChapterTitle,
     required this.onTogglePlayPause,
@@ -776,50 +781,111 @@ class PlayerControls extends StatelessWidget {
           const SizedBox(width: 8),
         
         if (!isYouTubeStream)
-          PopupMenuButton<Duration?>(
+          PopupMenuButton<void>(
             icon: Icon(
               Icons.access_time,
               color: sleepDuration != null ? Colors.deepPurple : Colors.white70,
               size: 24,
             ),
             tooltip: 'Sleep Timer',
-            onSelected: onSetSleepTimer,
             itemBuilder: (context) => [
-              const PopupMenuItem(
-                value: Duration(seconds: -1), 
-                child: Text('Off (⇧Z)'),
+              PopupMenuItem<void>(
+                enabled: false,
+                child: Row(
+                  mainAxisSize: MainAxisSize.min,
+                  children: [
+                    const Text('When done: ', style: TextStyle(color: Colors.white70, fontSize: 13)),
+                    const SizedBox(width: 8),
+                    GestureDetector(
+                      onTap: () {
+                        onSetSleepTimerAction(SleepTimerAction.pauseOnly);
+                        Navigator.pop(context);
+                      },
+                      child: Container(
+                        padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
+                        decoration: BoxDecoration(
+                          color: sleepTimerAction == SleepTimerAction.pauseOnly
+                              ? Colors.deepPurple
+                              : Colors.transparent,
+                          borderRadius: BorderRadius.circular(6),
+                          border: Border.all(color: Colors.deepPurple),
+                        ),
+                        child: Text(
+                          'Pause',
+                          style: TextStyle(
+                            color: sleepTimerAction == SleepTimerAction.pauseOnly
+                                ? Colors.white
+                                : Colors.white70,
+                            fontSize: 13,
+                          ),
+                        ),
+                      ),
+                    ),
+                    const SizedBox(width: 6),
+                    GestureDetector(
+                      onTap: () {
+                        onSetSleepTimerAction(SleepTimerAction.closeApp);
+                        Navigator.pop(context);
+                      },
+                      child: Container(
+                        padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
+                        decoration: BoxDecoration(
+                          color: sleepTimerAction == SleepTimerAction.closeApp
+                              ? Colors.deepPurple
+                              : Colors.transparent,
+                          borderRadius: BorderRadius.circular(6),
+                          border: Border.all(color: Colors.deepPurple),
+                        ),
+                        child: Text(
+                          'Close App',
+                          style: TextStyle(
+                            color: sleepTimerAction == SleepTimerAction.closeApp
+                                ? Colors.white
+                                : Colors.white70,
+                            fontSize: 13,
+                          ),
+                        ),
+                      ),
+                    ),
+                  ],
+                ),
               ),
-              const PopupMenuItem(
-                value: Duration(minutes: 15),
-                child: Text('15 minutes'),
+              const PopupMenuDivider(),
+              PopupMenuItem<void>(
+                onTap: () => onSetSleepTimer(const Duration(seconds: -1)),
+                child: const Text('Off (⇧Z)'),
               ),
-              const PopupMenuItem(
-                value: Duration(minutes: 30),
-                child: Text('30 minutes'),
+              PopupMenuItem<void>(
+                onTap: () => onSetSleepTimer(const Duration(minutes: 15)),
+                child: const Text('15 minutes'),
               ),
-              const PopupMenuItem(
-                value: Duration(minutes: 45),
-                child: Text('45 minutes'),
+              PopupMenuItem<void>(
+                onTap: () => onSetSleepTimer(const Duration(minutes: 30)),
+                child: const Text('30 minutes'),
               ),
-              const PopupMenuItem(
-                value: Duration(minutes: 60),
-                child: Text('60 minutes'),
+              PopupMenuItem<void>(
+                onTap: () => onSetSleepTimer(const Duration(minutes: 45)),
+                child: const Text('45 minutes'),
               ),
-              const PopupMenuItem(
-                value: Duration(minutes: 90),
-                child: Text('90 minutes'),
+              PopupMenuItem<void>(
+                onTap: () => onSetSleepTimer(const Duration(minutes: 60)),
+                child: const Text('60 minutes'),
               ),
-              const PopupMenuItem(
-                value: Duration(minutes: 120),
-                child: Text('120 minutes'),
+              PopupMenuItem<void>(
+                onTap: () => onSetSleepTimer(const Duration(minutes: 90)),
+                child: const Text('90 minutes'),
               ),
-              const PopupMenuItem(
-                value: Duration(minutes: -1),
-                child: Text('End of Audiobook'),
+              PopupMenuItem<void>(
+                onTap: () => onSetSleepTimer(const Duration(minutes: 120)),
+                child: const Text('120 minutes'),
               ),
-              const PopupMenuItem(
-                value: Duration.zero,
-                child: Text('Chapter end (z)'),
+              PopupMenuItem<void>(
+                onTap: () => onSetSleepTimer(const Duration(minutes: -1)),
+                child: const Text('End of Audiobook'),
+              ),
+              PopupMenuItem<void>(
+                onTap: () => onSetSleepTimer(Duration.zero),
+                child: const Text('Chapter end (z)'),
               ),
             ],
           ),

@@ -91,6 +91,7 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 - pause or adjusting playback speed also cancels sleep timer
 - warning of 120 seconds before closing app
 - if paused when setting sleep timer, playback is started
+- set to Pause instead of Close app so translating or transcribing continues while you sleep
 
 ### Chapters
 - search and prevent chapters from players based on chapter title

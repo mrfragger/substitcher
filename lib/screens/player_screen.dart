@@ -9,6 +9,7 @@ import 'package:flutter/services.dart';
 import 'package:flutter/foundation.dart' show compute;
 import 'package:wakelock_plus/wakelock_plus.dart';
 import 'package:image/image.dart' as img;
+import 'package:substitcher/models/pause_mode.dart';
 import 'dart:async';
 import 'dart:io';
 import 'dart:ui';
@@ -147,8 +148,6 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   bool _showPanel = false;
   PanelMode _panelMode = PanelMode.chapters;
   bool _panelCollapsed = false;
-  Timer? _sleepTimer;
-  Duration? _sleepDuration;
   ColorPalette? _currentColorPalette;
   int _selectedColorIndex = 0;
   final ScrollController _colorScrollController = ScrollController();
@@ -265,9 +264,12 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
 
   static const platform = MethodChannel('com.substitcher/open_file');
 
+  Timer? _sleepTimer;
+  Duration? _sleepDuration;
   bool _showSleepTimerCountdown = false;
   int _sleepTimerCountdownSeconds = 120;
   Timer? _sleepTimerCountdownTimer;
+  SleepTimerAction _sleepTimerAction = SleepTimerAction.closeApp;
 
   ColoringMode _coloringMode = ColoringMode.words;
   bool _showPlaylistDirectories = false;
@@ -1393,18 +1395,35 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     if (_isPlaying) {
       player.pause();
     }
-    
+  
+    if (_sleepTimerAction == SleepTimerAction.pauseOnly) {
+      setState(() {
+        _sleepDuration = null;
+      });
+      _sleepTimer?.cancel();
+      _sleepTimer = null;
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          const SnackBar(
+            content: Text('Sleep timer: Paused playback'),
+            duration: Duration(seconds: 2),
+          ),
+        );
+      }
+      return;
+    }
+  
     setState(() {
       _showSleepTimerCountdown = true;
       _sleepTimerCountdownSeconds = 120;
     });
-    
+  
     _sleepTimerCountdownTimer?.cancel();
     _sleepTimerCountdownTimer = Timer.periodic(const Duration(seconds: 1), (timer) {
       setState(() {
         _sleepTimerCountdownSeconds--;
       });
-      
+  
       if (_sleepTimerCountdownSeconds <= 0) {
         timer.cancel();
         windowManager.close();
@@ -7315,6 +7334,41 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       ),
     );
   }
+  
+  Widget _buildSleepTimerActionToggle() {
+    return Row(
+      mainAxisAlignment: MainAxisAlignment.center,
+      children: [
+        const Text(
+          'When timer ends:',
+          style: TextStyle(color: Colors.white70, fontSize: 14),
+        ),
+        const SizedBox(width: 12),
+        ToggleButtons(
+          isSelected: [
+            _sleepTimerAction == SleepTimerAction.pauseOnly,
+            _sleepTimerAction == SleepTimerAction.closeApp,
+          ],
+          onPressed: (index) {
+            setState(() {
+              _sleepTimerAction = index == 0
+                  ? SleepTimerAction.pauseOnly
+                  : SleepTimerAction.closeApp;
+            });
+          },
+          borderRadius: BorderRadius.circular(8),
+          selectedColor: Colors.white,
+          fillColor: Colors.deepPurple,
+          color: Colors.white70,
+          constraints: const BoxConstraints(minHeight: 36, minWidth: 100),
+          children: const [
+            Text('Pause'),
+            Text('Close App'),
+          ],
+        ),
+      ],
+    );
+  }
 
   Widget _buildSleepTimerCountdown() {
     return Positioned.fill(
@@ -7372,6 +7426,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       ),
     );
   }
+  
 
   void _navigateColors(int direction) {
     final filteredColors = _getFilteredColors();
@@ -7631,6 +7686,12 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             secondaryColorPalette: _secondaryColorPalette,
             secondarySubtitleLineSpacing: _secondarySubtitleLineSpacing,
             sleepDuration: _sleepDuration,
+            sleepTimerAction: _sleepTimerAction,
+            onSetSleepTimerAction: (action) {
+              setState(() {
+                _sleepTimerAction = action;
+              });
+            },
             sliderHoverPosition: _sliderHoverPosition,
             hoveredChapterTitle: _hoveredChapterTitle,
             pauseMode: _pauseMode,
@@ -7876,6 +7937,12 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       secondaryColorPalette: _secondaryColorPalette,
       secondarySubtitleLineSpacing: _secondarySubtitleLineSpacing,
       sleepDuration: _sleepDuration,
+      sleepTimerAction: _sleepTimerAction,
+      onSetSleepTimerAction: (action) {
+        setState(() {
+          _sleepTimerAction = action;
+        });
+      },
       sliderHoverPosition: _sliderHoverPosition,
       hoveredChapterTitle: _hoveredChapterTitle,
       pauseMode: _pauseMode,
