@@ -32,6 +32,13 @@ jobs:
           workflow: build_whisper.yml
           name: whisper-macos-arm64
           path: macos/Runner/Resources/whisper/
+
+      - name: Download arm64 llama-server
+        uses: dawidd6/action-download-artifact@v2
+        with:
+          workflow: build_llamacpp.yml
+          name: llama-macos-arm64
+          path: macos/Runner/Resources/llama/    
       
       - name: Build macOS (arm64 only)
         run: |
@@ -84,6 +91,13 @@ jobs:
           workflow: build_whisper.yml
           name: whisper-linux
           path: temp-whisper/
+
+      - name: Download Linux llama-server
+        uses: dawidd6/action-download-artifact@v2
+        with:
+          workflow: build_llamacpp.yml
+          name: llama-linux-x64
+          path: temp-llama/
       
       - name: Build Linux
         run: |
@@ -92,12 +106,15 @@ jobs:
           
           mkdir -p build/linux/x64/release/bundle/bin
           mkdir -p build/linux/x64/release/bundle/whisper
+          mkdir -p build/linux/x64/release/bundle/llama
           
           cp temp-bin/* build/linux/x64/release/bundle/bin/
           cp temp-whisper/* build/linux/x64/release/bundle/whisper/
+          cp temp-llama/* build/linux/x64/release/bundle/llama/
           
           chmod +x build/linux/x64/release/bundle/bin/*
-          chmod +x build/linux/x64/release/bundle/whisper/*            
+          chmod +x build/linux/x64/release/bundle/whisper/*
+          chmod +x build/linux/x64/release/bundle/llama/*          
       
       - name: Create AppImage
         run: |

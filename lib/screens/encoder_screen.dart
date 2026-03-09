@@ -6,6 +6,7 @@ import 'package:file_picker/file_picker.dart';
 import 'package:path/path.dart' as path;
 import 'package:media_kit/media_kit.dart';
 import 'transcribe_screen.dart';
+import 'translate_screen.dart';
 import 'repeats_screen.dart';
 import 'metadata_editor_screen.dart';
 import 'anki_converter_screen.dart';
@@ -2664,8 +2665,28 @@ class _EncoderScreenState extends State<EncoderScreen> {
                       ),
                     ),
             ),
-          ],
-        ),
+                      const SizedBox(width: 16),
+                      Expanded(
+                        child: ElevatedButton.icon(
+                          onPressed: () {
+                            Navigator.push(
+                              context,
+                              MaterialPageRoute(
+                                builder: (context) => const TranslateScreen(),
+                              ),
+                            );
+                          },
+                          icon: const Icon(Icons.translate),
+                          label: const Text('Translate vtt'),
+                          style: ElevatedButton.styleFrom(
+                            padding: const EdgeInsets.all(16),
+                            backgroundColor: Colors.teal,
+                            foregroundColor: Colors.white,
+                          ),
+                        ),
+                      ),
+                    ],
+                  ),
         
         const SizedBox(height: 16),
                 

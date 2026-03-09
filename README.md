@@ -229,6 +229,18 @@ down to 13MiB with 4x repeating audio 1h 57m\
 ![Spanish - 599 Verb Conjugations by Frequency.zip](https://github.com/mrfragger/substitcher/raw/main/images/Spanish_-_599_Verb_Conjugations_by_Frequency.zip)\
 try Pause mode 2s, Hide Chapter Title, Shuffle 
 
+### Translate vtt Subtitles
+- translate with TranslateGemma
+- choose on vtt file and translation into 16 different langauges simutaneously
+- using translategemma-4b-it.Q4_K_M.gguf 2.5GB model, works with only 8GB RAM
+- translate into these languages (either from or to)
+- English, Arabic, Dutch, French, German, Italian, Portuguese, Spanish, Swedish, Russian, Chinese, Japanese, Korean, Thai, Vietnamese, Indonesian, Bengali
+- missing Filipino, Hindi, Polish, Turkish due to bad accuracy
+- online vtt subs translate much faster but vvt must be 977KB or less
+- this is offline and subs can be 7MB for instance
+
+![](images/translatevtt.jpg)
+
 ### Youtube
 - handles videos or audio to stream (ignored for History, Stats), disabled on android/iOS
 - download video or audio and playlists with option to resume includes soundcloud and spreaker
