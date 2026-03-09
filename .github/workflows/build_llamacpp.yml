@@ -25,32 +25,26 @@ jobs:
           cmake .. \
             -DCMAKE_BUILD_TYPE=Release \
             -DCMAKE_OSX_ARCHITECTURES=arm64 \
-            -DGGML_METAL=ON \
-            -DLLAMA_BUILD_SERVER=ON \
             -DBUILD_SHARED_LIBS=OFF \
             -DLLAMA_BUILD_TESTS=OFF \
             -DLLAMA_BUILD_EXAMPLES=OFF
-          cmake --build . --config Release --target llama-server -j 4
-          strip bin/llama-server
+          cmake --build . --config Release --target server -j 4
+          strip bin/server
 
       - name: Fix library paths
         run: |
           cd llama.cpp/build-arm64/bin
-          install_name_tool -add_rpath @executable_path llama-server 2>/dev/null || true
-          echo "=== Dependencies ==="
-          otool -L llama-server
+          install_name_tool -add_rpath @executable_path server 2>/dev/null || true
+          otool -L server
 
       - name: Collect binaries
         run: |
           mkdir -p llama-binaries/macos
-          cp llama.cpp/build-arm64/bin/llama-server llama-binaries/macos/
-          # Metal shader (required at runtime on macOS)
+          cp llama.cpp/build-arm64/bin/server llama-binaries/macos/llama-server
           find llama.cpp/build-arm64 -name "ggml-metal.metal" -exec cp {} llama-binaries/macos/ \; 2>/dev/null || true
           find llama.cpp/build-arm64 -name "default.metallib" -exec cp {} llama-binaries/macos/ \; 2>/dev/null || true
           chmod +x llama-binaries/macos/llama-server
-          echo "=== Contents ==="
           ls -lh llama-binaries/macos/
-          echo "=== Architecture ==="
           file llama-binaries/macos/llama-server
 
       - name: Upload macOS binary
@@ -80,19 +74,17 @@ jobs:
           mkdir build && cd build
           cmake .. \
             -DCMAKE_BUILD_TYPE=Release \
-            -DLLAMA_BUILD_SERVER=ON \
             -DBUILD_SHARED_LIBS=OFF \
             -DLLAMA_BUILD_TESTS=OFF \
             -DLLAMA_BUILD_EXAMPLES=OFF
-          cmake --build . --config Release --target llama-server -j 4
-          strip bin/llama-server
+          cmake --build . --config Release --target server -j 4
+          strip bin/server
 
       - name: Collect binaries
         run: |
           mkdir -p llama-binaries/linux
-          cp llama.cpp/build/bin/llama-server llama-binaries/linux/
+          cp llama.cpp/build/bin/server llama-binaries/linux/llama-server
           chmod +x llama-binaries/linux/llama-server
-          echo "=== Contents ==="
           ls -lh llama-binaries/linux/
           ldd llama-binaries/linux/llama-server
 
@@ -120,7 +112,6 @@ jobs:
           cd llama.cpp
           cmake -S . -B ./build -A x64 `
             -DCMAKE_BUILD_TYPE=Release `
-            -DLLAMA_BUILD_SERVER=ON `
             -DBUILD_SHARED_LIBS=OFF `
             -DLLAMA_BUILD_TESTS=OFF `
             -DLLAMA_BUILD_EXAMPLES=OFF
@@ -128,17 +119,15 @@ jobs:
       - name: Build
         run: |
           cd llama.cpp/build
-          cmake --build . --config Release --target llama-server -j 4
+          cmake --build . --config Release --target server -j 4
 
       - name: Collect binaries
         shell: powershell
         run: |
           New-Item -ItemType Directory -Force -Path llama-binaries/windows
-          Copy-Item llama.cpp/build/bin/Release/llama-server.exe llama-binaries/windows/
-          # Copy any required DLLs
+          Copy-Item llama.cpp/build/bin/Release/server.exe llama-binaries/windows/llama-server.exe
           Get-ChildItem llama.cpp/build/bin/Release/*.dll -ErrorAction SilentlyContinue |
             Copy-Item -Destination llama-binaries/windows/
-          Write-Host "=== Contents ==="
           Get-ChildItem llama-binaries/windows/ | Format-Table Name, Length
 
       - name: Upload Windows binary
@@ -162,7 +151,6 @@ jobs:
           cp artifacts/llama-macos-arm64/* combined/macos/ 2>/dev/null || true
           cp artifacts/llama-linux-x64/*   combined/linux/ 2>/dev/null || true
           cp artifacts/llama-windows-x64/* combined/windows/ 2>/dev/null || true
-          echo "=== All binaries ==="
           find combined -type f -exec ls -lh {} \;
 
       - name: Upload combined
