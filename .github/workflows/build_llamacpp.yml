@@ -16,7 +16,11 @@ jobs:
 
       - name: Clone llama.cpp
         run: |
-          git clone --depth 1 --branch master-fff0e0e https://github.com/ggml-org/llama.cpp.git
+          git init llama.cpp
+          cd llama.cpp
+          git remote add origin https://github.com/ggml-org/llama.cpp.git
+          git fetch --depth 1 origin ff52ee964
+          git checkout FETCH_HEAD
 
       - name: Build arm64 with Metal
         run: |
@@ -67,7 +71,11 @@ jobs:
 
       - name: Clone llama.cpp
         run: |
-          git clone --depth 1 --branch master-fff0e0e https://github.com/ggml-org/llama.cpp.git
+          git init llama.cpp
+          cd llama.cpp
+          git remote add origin https://github.com/ggml-org/llama.cpp.git
+          git fetch --depth 1 origin ff52ee964
+          git checkout FETCH_HEAD
 
       - name: Build
         run: |
@@ -107,7 +115,11 @@ jobs:
 
       - name: Clone llama.cpp
         run: |
-          git clone --depth 1 --branch master-fff0e0e https://github.com/ggml-org/llama.cpp.git
+          git init llama.cpp
+          cd llama.cpp
+          git remote add origin https://github.com/ggml-org/llama.cpp.git
+          git fetch --depth 1 origin ff52ee964
+          git checkout FETCH_HEAD
 
       - name: Configure
         run: |
