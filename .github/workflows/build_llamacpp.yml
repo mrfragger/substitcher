@@ -27,20 +27,21 @@ jobs:
             -DCMAKE_OSX_ARCHITECTURES=arm64 \
             -DBUILD_SHARED_LIBS=OFF \
             -DLLAMA_BUILD_TESTS=OFF \
-            -DLLAMA_BUILD_EXAMPLES=OFF
-          cmake --build . --config Release --target server -j 4
-          strip bin/server
+            -DLLAMA_BUILD_EXAMPLES=ON \
+            -DLLAMA_BUILD_SERVER=ON
+          cmake --build . --config Release --target llama-server -j 4
+          strip bin/llama-server
 
       - name: Fix library paths
         run: |
           cd llama.cpp/build-arm64/bin
-          install_name_tool -add_rpath @executable_path server 2>/dev/null || true
-          otool -L server
+          install_name_tool -add_rpath @executable_path llama-server 2>/dev/null || true
+          otool -L llama-server
 
       - name: Collect binaries
         run: |
           mkdir -p llama-binaries/macos
-          cp llama.cpp/build-arm64/bin/server llama-binaries/macos/llama-server
+          cp llama.cpp/build-arm64/bin/llama-server llama-binaries/macos/llama-server
           find llama.cpp/build-arm64 -name "ggml-metal.metal" -exec cp {} llama-binaries/macos/ \; 2>/dev/null || true
           find llama.cpp/build-arm64 -name "default.metallib" -exec cp {} llama-binaries/macos/ \; 2>/dev/null || true
           chmod +x llama-binaries/macos/llama-server
@@ -76,14 +77,15 @@ jobs:
             -DCMAKE_BUILD_TYPE=Release \
             -DBUILD_SHARED_LIBS=OFF \
             -DLLAMA_BUILD_TESTS=OFF \
-            -DLLAMA_BUILD_EXAMPLES=OFF
-          cmake --build . --config Release --target server -j 4
-          strip bin/server
+            -DLLAMA_BUILD_EXAMPLES=ON \
+            -DLLAMA_BUILD_SERVER=ON
+          cmake --build . --config Release --target llama-server -j 4
+          strip bin/llama-server
 
       - name: Collect binaries
         run: |
           mkdir -p llama-binaries/linux
-          cp llama.cpp/build/bin/server llama-binaries/linux/llama-server
+          cp llama.cpp/build/bin/llama-server llama-binaries/linux/llama-server
           chmod +x llama-binaries/linux/llama-server
           ls -lh llama-binaries/linux/
           ldd llama-binaries/linux/llama-server
@@ -114,18 +116,19 @@ jobs:
             -DCMAKE_BUILD_TYPE=Release `
             -DBUILD_SHARED_LIBS=OFF `
             -DLLAMA_BUILD_TESTS=OFF `
-            -DLLAMA_BUILD_EXAMPLES=OFF
+            -DLLAMA_BUILD_EXAMPLES=ON `
+            -DLLAMA_BUILD_SERVER=ON
 
       - name: Build
         run: |
           cd llama.cpp/build
-          cmake --build . --config Release --target server -j 4
+          cmake --build . --config Release --target llama-server -j 4
 
       - name: Collect binaries
         shell: powershell
         run: |
           New-Item -ItemType Directory -Force -Path llama-binaries/windows
-          Copy-Item llama.cpp/build/bin/Release/server.exe llama-binaries/windows/llama-server.exe
+          Copy-Item llama.cpp/build/bin/Release/llama-server.exe llama-binaries/windows/llama-server.exe
           Get-ChildItem llama.cpp/build/bin/Release/*.dll -ErrorAction SilentlyContinue |
             Copy-Item -Destination llama-binaries/windows/
           Get-ChildItem llama-binaries/windows/ | Format-Table Name, Length
