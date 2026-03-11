@@ -231,11 +231,146 @@ class DownloadService {
       'downloadedCount': numbers.length,
     };
   }
+
+  static Future<bool> _downloadAndMux({
+    required String url,
+    required List<String> formats,
+    required String outputDir,
+    String? ffmpegPath,
+    required String outputTemplate,
+    required String archiveFile,
+    Function(String)? onProgress,
+    Function(String)? onError,
+  }) async {
+    if (ffmpegPath == null) {
+      onError?.call('ffmpeg not available for muxing');
+      return false;
+    }
+    if (formats.length != 2) {
+      onError?.call('Mux requires exactly 2 format IDs (e.g., 389,249)');
+      return false;
+    }
+  
+// Auto-detect: video formats are typically 3-digit numbers >= 133 or specific IDs
+    // Audio formats are typically 139, 140, 249, 250, 251, or named like 'opus', 'mp3'
+    final audioIds = {'139', '140', '249', '250', '251', 'opus', 'mp3', 'm4a'};
+    String videoFormat;
+    String audioFormat;
+    
+    if (audioIds.contains(formats[0])) {
+      audioFormat = formats[0];
+      videoFormat = formats[1];
+    } else {
+      videoFormat = formats[0];
+      audioFormat = formats[1];
+    }
+    
+    onProgress?.call('Video format: $videoFormat, Audio format: $audioFormat');    
+    
+    final videoFile = path.join(outputDir, 'temp_video_$videoFormat');
+    final audioFile = path.join(outputDir, 'temp_audio_$audioFormat');
+  
+    try {
+      onProgress?.call('Downloading video (format $videoFormat)...');
+      _currentProcess = await Process.start(
+        YouTubeService.ytdlpPath!,
+        ['-f', videoFormat, '-o', videoFile, '--no-playlist', url],
+      );
+      _currentProcess!.stdout.transform(utf8.decoder).listen((data) {
+        for (final line in data.split('\n')) {
+          if (line.trim().isNotEmpty) onProgress?.call(line.trim());
+        }
+      });
+      _currentProcess!.stderr.transform(utf8.decoder).listen((data) {
+        for (final line in data.split('\n')) {
+          if (line.trim().isNotEmpty) onProgress?.call(line.trim());
+        }
+      });
+      var exitCode = await _currentProcess!.exitCode;
+      if (_cancelRequested || exitCode != 0) {
+        onError?.call('Video download failed');
+        return false;
+      }
+  
+      final videoActual = await _findDownloadedFile(outputDir, 'temp_video_$videoFormat');
+      if (videoActual == null) {
+        onError?.call('Video file not found after download');
+        return false;
+      }
+  
+      onProgress?.call('Downloading audio (format $audioFormat)...');
+      _currentProcess = await Process.start(
+        YouTubeService.ytdlpPath!,
+        ['-f', audioFormat, '-o', audioFile, '--no-playlist', url],
+      );
+      _currentProcess!.stdout.transform(utf8.decoder).listen((data) {
+        for (final line in data.split('\n')) {
+          if (line.trim().isNotEmpty) onProgress?.call(line.trim());
+        }
+      });
+      _currentProcess!.stderr.transform(utf8.decoder).listen((data) {
+        for (final line in data.split('\n')) {
+          if (line.trim().isNotEmpty) onProgress?.call(line.trim());
+        }
+      });
+      exitCode = await _currentProcess!.exitCode;
+      if (_cancelRequested || exitCode != 0) {
+        onError?.call('Audio download failed');
+        return false;
+      }
+  
+      final audioActual = await _findDownloadedFile(outputDir, 'temp_audio_$audioFormat');
+      if (audioActual == null) {
+        onError?.call('Audio file not found after download');
+        return false;
+      }
+  
+      final title = await YouTubeService.getVideoTitle(url);
+      final safeTitle = YouTubeService.sanitizeFilename(title);
+      
+      final isWebm = videoFormat.contains('webm') || 
+                      audioFormat.contains('webm') ||
+                      {'243', '244', '245', '246', '247', '248', '278', '302', '303', '308', '315', '330', '331', '332', '333', '334', '335', '336', '337'}.contains(videoFormat) ||
+                      {'249', '250', '251'}.contains(audioFormat);
+      final ext = isWebm ? '.mkv' : '.mp4';
+      final outputFile = path.join(outputDir, '$safeTitle$ext');      
+  
+      onProgress?.call('Muxing video + audio...');
+      final muxResult = await Process.run(
+        ffmpegPath,
+        ['-i', videoActual, '-i', audioActual, '-c', 'copy', '-y', outputFile],
+      );
+  
+      if (muxResult.exitCode == 0) {
+        await File(videoActual).delete();
+        await File(audioActual).delete();
+        onProgress?.call('✓ Muxed successfully: ${path.basename(outputFile)}');
+        return true;
+      } else {
+        onError?.call('Mux failed: ${muxResult.stderr}');
+        return false;
+      }
+    } catch (e) {
+      onError?.call('Error: $e');
+      return false;
+    }
+  }
+  
+  static Future<String?> _findDownloadedFile(String dir, String prefix) async {
+    final directory = Directory(dir);
+    await for (final entity in directory.list()) {
+      if (entity is File && path.basename(entity.path).startsWith(prefix)) {
+        return entity.path;
+      }
+    }
+    return null;
+  }
   
   static Future<bool> downloadYouTubeAudio({
     required String youtubeUrl,
     String? customDirectory,
     String format = '139',
+    String? ffmpegPath,
     bool isPlaylist = false,
     bool reversePlaylist = true,
     bool noPlaylist = false,
@@ -290,6 +425,19 @@ class DownloadService {
       await Directory(outputDir).create(recursive: true);
       
       final archiveFile = path.join(outputDir, '.yt-dlp-archive.txt');
+            
+            if (format.contains(',') && !isPlaylist) {
+              return _downloadAndMux(
+                url: youtubeUrl,
+                formats: format.split(',').map((f) => f.trim()).toList(),
+                outputDir: outputDir,
+                ffmpegPath: ffmpegPath,
+                outputTemplate: outputTemplate,
+                archiveFile: archiveFile,
+                onProgress: onProgress,
+                onError: onError,
+              );
+            }
       
       String? effectivePlaylistRange = playlistItemsRange;
       if (resumeMode && isPlaylist) {

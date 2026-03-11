@@ -3,6 +3,7 @@ import 'package:flutter/services.dart';
 import 'package:file_picker/file_picker.dart';
 import '../services/download_service.dart';
 import '../services/youtube_service.dart';
+import '../services/ffmpeg_service.dart';
 import 'dart:async';
 
 class DownloadOverlay extends StatefulWidget {
@@ -47,14 +48,15 @@ class _DownloadOverlayState extends State<DownloadOverlay> {
   bool _showManualPlaylistInfo = false;
   
   final Map<String, String> _formatExamples = {
-    '139': 'half size 140',
-    '140': 'AAC (ones after 2020)',
-    '251': 'WebM opus',
-    'opus': 'opus audio',
-    'mp3': 'mp3 audio',
-    'm4a': 'm4a audio',
-    '18': '360p video/audio',
-  };
+      '139': 'half size 140',
+      '140': 'AAC (ones after 2020)',
+      '251': 'WebM opus',
+      'opus': 'opus audio',
+      'mp3': 'mp3 audio',
+      'm4a': 'm4a audio',
+      '18': '360p video/audio',
+      '389,140': '720p video + AAC audio',
+    };
   
   @override
   void initState() {
@@ -328,11 +330,19 @@ class _DownloadOverlayState extends State<DownloadOverlay> {
       });
       return;
     }
+
+    String? ffmpegPath;
+    if (format.contains(',')) {
+      final ffmpeg = FFmpegService();
+      await ffmpeg.ensureBinaries();
+      ffmpegPath = ffmpeg.ffmpegPath;
+    }
     
     final success = await DownloadService.downloadYouTubeAudio(
       youtubeUrl: url,
       customDirectory: _downloadDirectory,
       format: format,
+      ffmpegPath: ffmpegPath,
       isPlaylist: _isPlaylist,
       reversePlaylist: _reversePlaylist,
       noPlaylist: _noPlaylist,
@@ -866,7 +876,7 @@ class _DownloadOverlayState extends State<DownloadOverlay> {
                     itemBuilder: (context, index) {
                       return Padding(
                         padding: const EdgeInsets.only(bottom: 4),
-                        child: Text(
+                        child: SelectableText(
                           _progressMessages[index],
                           style: TextStyle(
                             color: _progressMessages[index].startsWith('ERROR')
