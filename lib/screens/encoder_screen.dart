@@ -937,7 +937,7 @@ class _EncoderScreenState extends State<EncoderScreen> {
           removeHiss: true,
           author: 'Preview',
           title: 'Hiss Reduced',
-          year: '2024',
+          year: '2026',
         ),
         onProgress: (_) {},
       );

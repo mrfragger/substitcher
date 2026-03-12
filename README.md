@@ -239,7 +239,9 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 - translate into these languages (either from or to)
 - English, Arabic, Dutch, French, German, Italian, Portuguese, Spanish, Swedish, Russian, Chinese, Japanese, Korean, Thai, Vietnamese, Indonesian, Bengali
 - missing Filipino, Hindi, Polish, Turkish due to bad accuracy
-- resume translation if necessary
+- resume translation if necessary, choose same vtt again
+- pause and/or unload model (to free up memory) then resume
+- unload model becomes avaialble once current subtitle cue (line) is translatedresume and unload model
 - online vtt subs translate much faster but vvt must be 977KB or less
 - this is offline and subs can be 7MB for instance
 - once translating subs is done it'll copy original subtitle into filename_vtt and create a filename_vtt.zip file with all subs

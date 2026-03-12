@@ -35,6 +35,10 @@ class TranslationService {
     List<Map<String, String>> cues = [];
     final Map<int, Map<String, String>> translationResults = {};
 
+    bool paused = false;
+    bool unloaded = false;
+    bool translatingCurrentCue = false;
+
   static const List<String> availableLanguages = [
     'English',
     'Arabic',
@@ -153,6 +157,8 @@ class TranslationService {
   
     isTranslating = true;
     cancelled = false;
+    paused = false;
+    unloaded = false;
     startTime = DateTime.now();
     translationResults.clear();
     currentCueIndex = 0;
@@ -165,11 +171,19 @@ class TranslationService {
   
     for (int i = 0; i < cues.length; i++) {
       if (cancelled) break;
+    
+      while (paused && !cancelled) {
+        await Future.delayed(const Duration(milliseconds: 500));
+      }
+      if (cancelled) break;
+    
       currentCueIndex = i;
-  
+      translatingCurrentCue = true;
+    
       final text = cues[i]['text']!.replaceAll('\n', ' ').trim();
       if (text.isEmpty) {
         translationResults[i] = {};
+        translatingCurrentCue = false;
         continue;
       }
   
@@ -198,6 +212,7 @@ class TranslationService {
           for (final l in selectedLanguages) l: cues[i]['text'] ?? ''
         };
       }
+      translatingCurrentCue = false;
     }
   
     if (!cancelled) {
@@ -221,6 +236,8 @@ class TranslationService {
   
   void cancelTranslation() {
     cancelled = true;
+    paused = false;
+    unloaded = false;
     statusMessage = 'Cancelling...';
     stopServer();
   }
@@ -575,6 +592,32 @@ class TranslationService {
     }
 
     return cues;
+  }
+  
+  void pauseTranslation() {
+    paused = true;
+    statusMessage = 'Paused';
+  }
+  
+  void resumeTranslation() {
+    paused = false;
+    statusMessage = 'Translating...';
+  }
+  
+  Future<void> pauseAndUnload() async {
+    paused = true;
+    unloaded = true;
+    statusMessage = 'Pausing after current line...';
+    await stopServer();
+    statusMessage = 'Paused & model unloaded';
+  }
+  
+  Future<void> resumeAndReload() async {
+    statusMessage = 'Reloading model...';
+    await startServer();
+    unloaded = false;
+    paused = false;
+    statusMessage = 'Translating...';
   }
 
   Future<void> writeTranslatedVtt(
