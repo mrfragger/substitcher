@@ -10392,7 +10392,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                         );
                       },
                       icon: const Icon(Icons.build),
-                      label: const Text('Encode Audiobook (e)'),
+                      label: const Text('Encode Audiobook | Transcribe/Translate (e)'),
                       style: ElevatedButton.styleFrom(
                         padding: const EdgeInsets.symmetric(horizontal: 32, vertical: 16),
                         textStyle: const TextStyle(fontSize: 18),

@@ -3,9 +3,10 @@ import 'package:file_picker/file_picker.dart';
 import 'dart:io';
 import 'dart:async';
 import 'package:path/path.dart' as path;
+import 'package:url_launcher/url_launcher.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 import '../services/whisper_service.dart';
 import '../services/ffmpeg_service.dart';
-import 'package:url_launcher/url_launcher.dart';
 
 class TranscribeScreen extends StatefulWidget {
   const TranscribeScreen({super.key});
@@ -120,6 +121,34 @@ List<String> _availableAudiobooks = [];
     }
   }
 
+  Future<void> _useLastChaptersDirectory() async {
+    final prefs = await SharedPreferences.getInstance();
+    final lastDir = prefs.getString('lastChaptersDirectory');
+    if (lastDir != null && Directory(lastDir).existsSync()) {
+      setState(() {
+        _chaptersDirectory = lastDir;
+      });
+      await _scanForAudiobooks();
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            content: Text('Restored: ${path.basename(lastDir)}'),
+            backgroundColor: Colors.green,
+          ),
+        );
+      }
+    } else {
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          const SnackBar(
+            content: Text('No previous directory found'),
+            backgroundColor: Colors.orange,
+          ),
+        );
+      }
+    }
+  }
+
   Future<void> _scanForAudiobooks() async {
     if (_chaptersDirectory == null) return;
     
@@ -157,6 +186,9 @@ List<String> _availableAudiobooks = [];
       setState(() {
         _chaptersDirectory = result;
       });
+
+      final prefs = await SharedPreferences.getInstance();
+      await prefs.setString('lastChaptersDirectory', result);
       
       await _scanForAudiobooks();
       
@@ -1102,8 +1134,18 @@ List<String> _availableAudiobooks = [];
               foregroundColor: Colors.white,
             ),
           ),
+
+          const SizedBox(height: 8),
+          ElevatedButton.icon(
+            onPressed: _useLastChaptersDirectory,
+            icon: const Icon(Icons.history, size: 18),
+            label: const Text('Use Last Used encodedchapters Directory'),
+            style: ElevatedButton.styleFrom(
+              backgroundColor: Colors.blueGrey,
+              foregroundColor: Colors.white,
+            ),
+          ),
           
-          // Add audiobook selection dropdown
           if (_availableAudiobooks.isNotEmpty) ...[
             const SizedBox(height: 20),
             const Divider(color: Colors.white24),
