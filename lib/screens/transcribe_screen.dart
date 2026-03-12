@@ -1139,7 +1139,7 @@ List<String> _availableAudiobooks = [];
           ElevatedButton.icon(
             onPressed: _useLastChaptersDirectory,
             icon: const Icon(Icons.history, size: 18),
-            label: const Text('Use Last Used encodedchapters Directory'),
+            label: const Text('Last Used encodedchapters Directory'),
             style: ElevatedButton.styleFrom(
               backgroundColor: Colors.blueGrey,
               foregroundColor: Colors.white,
