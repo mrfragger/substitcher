@@ -892,9 +892,7 @@ class PlayerControls extends StatelessWidget {
             ],
           ),
         
-        if (!isYouTubeStream)
-          const SizedBox(width: 8),
-        
+        const SizedBox(width: 8),
         if (!isYouTubeStream)
           Tooltip(
             message: 'Add Bookmark (n)',
