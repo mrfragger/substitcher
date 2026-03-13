@@ -1,0 +1,42 @@
+name: Build DeepFilter
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build-linux:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download DeepFilter binary and model
+        run: |
+          curl -L https://github.com/Rikorose/DeepFilterNet/releases/latest/download/deep-filter-linux-x86_64 \
+            -o deep-filter
+          chmod +x deep-filter
+          curl -L https://github.com/Rikorose/DeepFilterNet/releases/latest/download/DeepFilterNet3.tar.gz \
+            -o DeepFilterNet3.tar.gz
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4.6.2
+        with:
+          name: deepfilter-linux-x64
+          path: |
+            deep-filter
+            DeepFilterNet3.tar.gz
+
+  build-windows:
+    runs-on: windows-latest
+    steps:
+      - name: Download DeepFilter binary and model
+        run: |
+          curl -L https://github.com/Rikorose/DeepFilterNet/releases/latest/download/deep-filter-windows-x86_64.exe `
+            -o deep-filter.exe
+          curl -L https://github.com/Rikorose/DeepFilterNet/releases/latest/download/DeepFilterNet3.tar.gz `
+            -o DeepFilterNet3.tar.gz
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4.6.2
+        with:
+          name: deepfilter-windows-x64
+          path: |
+            deep-filter.exe
+            DeepFilterNet3.tar.gz
