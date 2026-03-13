@@ -17,7 +17,7 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 - Extract chapters with names from audiobooks
 - Edit Metadata (chapters, author, title) of opus audiobook
 - Paste List of text to rename files, two surah lists
-- denoise audio with DeepFilterNet3 (36MB for runtime and model).  Old audio with static, hiss, keybloard clicking, fan noise removes and leaves just the speech. ~22x realtime speed on Mac M1.
+- denoise audio with DeepFilterNet3 (36MB for runtime and model).  Old audio with static, hiss, keyboard clicking, fan noise removes all that noise and leaves just the speech. ~22x realtime speed on Mac M1.
 
 ![](images/encode.jpg)
 
@@ -197,7 +197,7 @@ only 1-9, basic latin and ligatures
 
 ![](images/stats.jpg)
 
-### Slicing / Editing
+### Slicing / Editing Audio
 - make cuts (slices of audio) in subdirectory audiobookname_cuts
 - make an audiobook from audiobookname_cuts and transcribe for subs
 - first encode video to audiobook then slice on audiobook, avoids keyframe issues for precise timing
