@@ -82,6 +82,22 @@ else
     echo "Checked: temp-llama/ and $BUILD_DIR/llama/"
 fi
 
+echo "Copying DeepFilter binaries..."
+mkdir -p $APPDIR/usr/bin/deepfilter
+
+if [ -f "temp-deepfilter/deep-filter" ]; then
+    echo "Using DeepFilter from temp-deepfilter (artifact)..."
+    cp temp-deepfilter/* $APPDIR/usr/bin/deepfilter/
+    chmod +x $APPDIR/usr/bin/deepfilter/deep-filter
+elif [ -f "$BUILD_DIR/deepfilter/deep-filter" ]; then
+    echo "Using DeepFilter from Flutter bundle..."
+    cp $BUILD_DIR/deepfilter/* $APPDIR/usr/bin/deepfilter/
+    chmod +x $APPDIR/usr/bin/deepfilter/deep-filter
+else
+    echo "Warning: DeepFilter binaries not found"
+    echo "Checked: temp-deepfilter/ and $BUILD_DIR/deepfilter/"
+fi
+
 echo "Creating desktop file..."
 cat > $APPDIR/$APP_NAME.desktop << EOF
 [Desktop Entry]

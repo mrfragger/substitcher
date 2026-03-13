@@ -65,36 +65,6 @@ class _DenoiseScreenState extends State<DenoiseScreen> {
 
   @override
   Widget build(BuildContext context) {
-    if (!Platform.isMacOS) {
-      return Scaffold(
-        appBar: AppBar(title: const Text('DeepFilter Denoise')),
-        body: Center(
-          child: Padding(
-            padding: const EdgeInsets.all(32),
-            child: Column(
-              mainAxisSize: MainAxisSize.min,
-              children: [
-                const Icon(Icons.info_outline, size: 48, color: Colors.blue),
-                const SizedBox(height: 16),
-                const Text(
-                  'DeepFilterNet3 Denoise is currently Mac only.',
-                  style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
-                  textAlign: TextAlign.center,
-                ),
-                const SizedBox(height: 12),
-                const Text(
-                  'Linux users can use the deep-filter CLI directly.\n'
-                  'Windows users can try NVIDIA RTX Voice or similar tools.',
-                  textAlign: TextAlign.center,
-                  style: TextStyle(color: Colors.white70),
-                ),
-              ],
-            ),
-          ),
-        ),
-      );
-    }
-
     return Scaffold(
       appBar: AppBar(
         title: const Text('DeepFilterNet3 Denoise'),
@@ -113,8 +83,8 @@ class _DenoiseScreenState extends State<DenoiseScreen> {
                   child: Text(
                     'AI noise removal using DeepFilterNet3 — removes music, '
                     'background noise, hiss. Processes at ~22x realtime on Mac M1. '
-                    '33 hours of audio would take about ~90 minutes to process '
-                    'Output: 32kbps opus files ready for SubStitcher encoder for an audiobook',
+                    '33 hours of audio would take about ~90 minutes to process. '
+                    'Output: 32kbps opus files ready for SubStitcher encoder for an audiobook.',
                     style: TextStyle(
                       fontSize: 12,
                       color: Colors.deepPurple.shade200,

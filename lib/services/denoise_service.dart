@@ -74,14 +74,26 @@ class DenoiseService extends ChangeNotifier {
       final bundleDir = path.dirname(path.dirname(executablePath));
       return path.join(bundleDir, 'Resources', 'deepfilter', 'deep-filter');
     }
+    if (Platform.isLinux) {
+      return path.join(path.dirname(Platform.resolvedExecutable), 'deepfilter', 'deep-filter');
+    }
+    if (Platform.isWindows) {
+      return path.join(path.dirname(Platform.resolvedExecutable), 'deepfilter', 'deep-filter.exe');
+    }
     return 'deep-filter';
   }
-
+  
   String get deepFilterModelPath {
     if (Platform.isMacOS) {
       final executablePath = Platform.resolvedExecutable;
       final bundleDir = path.dirname(path.dirname(executablePath));
       return path.join(bundleDir, 'Resources', 'deepfilter', 'DeepFilterNet3.tar.gz');
+    }
+    if (Platform.isLinux) {
+      return path.join(path.dirname(Platform.resolvedExecutable), 'deepfilter', 'DeepFilterNet3.tar.gz');
+    }
+    if (Platform.isWindows) {
+      return path.join(path.dirname(Platform.resolvedExecutable), 'deepfilter', 'DeepFilterNet3.tar.gz');
     }
     return 'DeepFilterNet3.tar.gz';
   }
