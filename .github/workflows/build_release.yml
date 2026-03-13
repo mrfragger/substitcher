@@ -105,6 +105,7 @@ jobs:
           workflow: build_deepfilter.yml
           name: deepfilter-linux-x64
           path: temp-deepfilter/
+          if_no_artifact_found: fail
       
       - name: Build Linux
         run: |
@@ -173,6 +174,7 @@ jobs:
           workflow: build_deepfilter.yml
           name: deepfilter-windows-x64
           path: temp-deepfilter/
+          if_no_artifact_found: fail
       
       - name: Build Windows
         run: |
