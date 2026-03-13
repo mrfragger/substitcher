@@ -17,6 +17,7 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 - Extract chapters with names from audiobooks
 - Edit Metadata (chapters, author, title) of opus audiobook
 - Paste List of text to rename files, two surah lists
+- denoise audio with DeepFilterNet3 (36MB for runtime and model).  Old audio with static, hiss, keybloard clicking, fan noise removes and leaves just the speech. ~22x realtime speed on Mac M1.
 
 ![](images/encode.jpg)
 
@@ -380,7 +381,8 @@ Android (64-bit devices only, arm64-v8a)
 <summary>Miscellaneous</summary>
 
 - Substicher is a flutter app so small in size.  It appears big but isn't all that huge.
-- 70MB fonts and 65MB LUTs. So Mac app size is 228MB  - 135MB (assets) = 93MB
+- 70MB fonts, 65MB LUTs, 36MB DeepFilterNet3 (denoise). 
+- So Mac app size is 273MB  - 171MB (assets) = 102MB real size of flutter app
 - Never will get a light theme nor support music
 - Never will support cover images, choose audiobooks with covers and not to use subtitles, use kid3 app (qt free cross-platform app) for embedding a cover image
 - Reason is most audiobook players don't support subtitles, and ones that do, do so due to video support and having a cover image in background intefers with subtitles in most cases

@@ -11,6 +11,7 @@ import 'repeats_screen.dart';
 import 'metadata_editor_screen.dart';
 import 'anki_converter_screen.dart';
 import 'trim_audio_screen.dart';
+import 'denoise_screen.dart';
 import '../models/audio_file.dart';
 import '../models/encoding_config.dart';
 import '../services/ffmpeg_service.dart';
@@ -2665,6 +2666,26 @@ class _EncoderScreenState extends State<EncoderScreen> {
                       ),
                     ),
             ),
+                      const SizedBox(width: 16),
+                      Expanded(
+                        child: ElevatedButton.icon(
+                          onPressed: () {
+                            Navigator.push(
+                              context,
+                              MaterialPageRoute(
+                                builder: (context) => const DenoiseScreen(),
+                              ),
+                            );
+                          },
+                          icon: const Icon(Icons.cleaning_services),
+                          label: const Text('Denoise Audio'),
+                          style: ElevatedButton.styleFrom(
+                            padding: const EdgeInsets.all(16),
+                            backgroundColor: Colors.green.shade700,
+                            foregroundColor: Colors.white,
+                          ),
+                        ),
+                      ),
                       const SizedBox(width: 16),
                       Expanded(
                         child: ElevatedButton.icon(
