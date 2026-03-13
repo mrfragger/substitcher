@@ -354,7 +354,13 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   String _lutFilterMode = 'all';
   int _selectedLutIndex = -1;
 
+  bool _fontCycleActive = false;
+  int _fontCycleInterval = 4;
+  int _fontCycleCueCounter = 0;
 
+  bool _colorCycleActive = false;
+  int _colorCycleInterval = 4;
+  int _colorCycleCueCounter = 0;
 
   @override
   void initState() {
@@ -645,16 +651,22 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
      await prefs.setString('defaultColorPalette', _defaultColorPalette!);
    }
    await prefs.setInt('fontColorOverride', _fontColorOverride.index);
+   await prefs.setString('sleepTimerAction',
+       _sleepTimerAction == SleepTimerAction.closeApp ? 'close' : 'pause');
  }
  
  Future<void> _loadDefaultSettings() async {
    final prefs = await SharedPreferences.getInstance();
    final fontColorOverride = FontColorOverride.values[prefs.getInt('fontColorOverride') ?? 0];
+   final sleepTimerAction = prefs.getString('sleepTimerAction') ?? 'pause';
    setState(() {
      _defaultFont = prefs.getString('defaultFont') ?? 'System Default';
      _defaultConversionType = prefs.getString('defaultConversionType') ?? 'none';
      _defaultColorPalette = prefs.getString('defaultColorPalette');
      _fontColorOverride = fontColorOverride;
+     _sleepTimerAction = sleepTimerAction == 'close'
+         ? SleepTimerAction.closeApp
+         : SleepTimerAction.pauseOnly;
    });
  }
  
@@ -3844,6 +3856,22 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             _currentSubtitleText = cue.text;
             _currentSubtitleIndex = activeIndex;
           });
+
+        if (_fontCycleActive) {
+          _fontCycleCueCounter++;
+          if (_fontCycleCueCounter >= _fontCycleInterval) {
+            _fontCycleCueCounter = 0;
+            _navigateFonts(1, fromCycle: true);
+          }
+        }
+
+        if (_colorCycleActive) {
+          _colorCycleCueCounter++;
+          if (_colorCycleCueCounter >= _colorCycleInterval) {
+            _colorCycleCueCounter = 0;
+            _navigateColors(1, fromCycle: true);
+          }
+        }
           
           if (_showWordOverlay && oldText.isNotEmpty) {
             setState(() {
@@ -6131,7 +6159,13 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       }
     }
   
-  Future<void> _navigateFonts(int direction) async {
+  Future<void> _navigateFonts(int direction, {bool fromCycle = false}) async {
+    if (!fromCycle && _fontCycleActive) {
+      setState(() {
+        _fontCycleActive = false;
+      });
+    }
+    _fontCycleCueCounter = 0;
     final filteredFonts = _getFilteredFonts();
     if (filteredFonts.isEmpty) return;
     setState(() {
@@ -7142,6 +7176,20 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                       }
                     }
                   },
+                  fontCycleActive: _fontCycleActive,
+                  fontCycleInterval: _fontCycleInterval,
+                  onFontCycleToggled: () {
+                    setState(() {
+                      _fontCycleActive = !_fontCycleActive;
+                      _fontCycleCueCounter = 0;
+                    });
+                  },
+                  onFontCycleIntervalChanged: (val) {
+                    setState(() {
+                      _fontCycleInterval = val;
+                      _fontCycleCueCounter = 0;
+                    });
+                  },
                   selectedMainCategory: _selectedMainCategory,
                   selectedSubCategory: _selectedSubCategory,
                   selectedStudio: _selectedStudio,
@@ -7193,6 +7241,20 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                       _selectedColorIndex = index;
                     });
                     _applyColorPalette(palette);
+                  },
+                  colorCycleActive: _colorCycleActive,
+                  colorCycleInterval: _colorCycleInterval,
+                  onColorCycleToggled: () {
+                    setState(() {
+                      _colorCycleActive = !_colorCycleActive;
+                      _colorCycleCueCounter = 0;
+                    });
+                  },
+                  onColorCycleIntervalChanged: (val) {
+                    setState(() {
+                      _colorCycleInterval = val;
+                      _colorCycleCueCounter = 0;
+                    });
                   },
                   parseColor: _parseColor,
               
@@ -7489,7 +7551,14 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   }
   
 
-  void _navigateColors(int direction) {
+  void _navigateColors(int direction, {bool fromCycle = false}) {
+    if (!fromCycle && _colorCycleActive) {
+      setState(() {
+        _colorCycleActive = false;
+      });
+    }
+    _colorCycleCueCounter = 0;
+  
     final filteredColors = _getFilteredColors();
     if (filteredColors.isEmpty) return;
     final currentPalette = _selectedColorIndex >= 0 && _selectedColorIndex < ColorPalette.presets.length
@@ -7497,7 +7566,9 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         : null;
     int filteredIndex = currentPalette != null ? filteredColors.indexOf(currentPalette) : 0;
     if (filteredIndex == -1) filteredIndex = 0;
-    filteredIndex = (filteredIndex + direction).clamp(0, filteredColors.length - 1);
+    
+    filteredIndex = (filteredIndex + direction) % filteredColors.length;
+    
     final newPalette = filteredColors[filteredIndex];
     final actualIndex = ColorPalette.presets.indexOf(newPalette);
     setState(() {

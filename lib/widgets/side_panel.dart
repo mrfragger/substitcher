@@ -66,6 +66,14 @@ class SidePanel extends StatelessWidget {
   final int selectedFontIndex;
   final ScrollController fontScrollController;
   final Function(String, int) onFontSelected;
+  final bool fontCycleActive;
+  final int fontCycleInterval;
+  final VoidCallback onFontCycleToggled;
+  final ValueChanged<int> onFontCycleIntervalChanged;
+  final bool colorCycleActive;
+  final int colorCycleInterval;
+  final VoidCallback onColorCycleToggled;
+  final ValueChanged<int> onColorCycleIntervalChanged;
   final String selectedMainCategory;
   final String? selectedSubCategory;
   final String? selectedStudio;
@@ -233,6 +241,14 @@ class SidePanel extends StatelessWidget {
     required this.selectedFontIndex,
     required this.fontScrollController,
     required this.onFontSelected,
+    required this.fontCycleActive,
+    required this.fontCycleInterval,
+    required this.onFontCycleToggled,
+    required this.onFontCycleIntervalChanged,
+    required this.colorCycleActive,
+    required this.colorCycleInterval,
+    required this.onColorCycleToggled,
+    required this.onColorCycleIntervalChanged,
     required this.selectedMainCategory,
     required this.selectedSubCategory,
     required this.selectedStudio,
@@ -1342,6 +1358,44 @@ class SidePanel extends StatelessWidget {
          ),
        ),
        const Divider(color: Colors.white24, height: 1),
+       Container(
+         padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 4),
+         color: Colors.black26,
+         child: Row(
+           children: [
+             const Text('Auto-cycle', style: TextStyle(color: Colors.white54, fontSize: 12)),
+             const SizedBox(width: 8),
+             DropdownButton<int>(
+               value: colorCycleInterval,
+               dropdownColor: const Color(0xFF2A2A2A),
+               style: const TextStyle(color: Colors.white70, fontSize: 12),
+               underline: const SizedBox(),
+               isDense: true,
+               items: [2, 3, 4, 6, 8, 10].map((n) =>
+                 DropdownMenuItem(value: n, child: Text('$n cues'))
+               ).toList(),
+               onChanged: (val) {
+                 if (val != null) onColorCycleIntervalChanged(val);
+               },
+             ),
+             const Spacer(),
+             Text(
+               colorCycleActive ? 'Cycling ↓' : 'Off',
+               style: TextStyle(
+                 color: colorCycleActive ? Colors.deepPurple[200] : Colors.white38,
+                 fontSize: 12,
+               ),
+             ),
+             const SizedBox(width: 8),
+             Switch(
+               value: colorCycleActive,
+               activeThumbColor: Colors.deepPurple,
+               materialTapTargetSize: MaterialTapTargetSize.shrinkWrap,
+               onChanged: (_) => onColorCycleToggled(),
+             ),
+           ],
+         ),
+       ),
        if (filteredColors.isEmpty)
          const Expanded(
            child: Center(
@@ -1949,6 +2003,44 @@ class SidePanel extends StatelessWidget {
                       ],
                     ),
                   ),
+                Container(
+                  padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 4),
+                  color: Colors.black26,
+                  child: Row(
+                    children: [
+                      const Text('Auto-cycle', style: TextStyle(color: Colors.white54, fontSize: 12)),
+                      const SizedBox(width: 8),
+                      DropdownButton<int>(
+                        value: fontCycleInterval,
+                        dropdownColor: const Color(0xFF2A2A2A),
+                        style: const TextStyle(color: Colors.white70, fontSize: 12),
+                        underline: const SizedBox(),
+                        isDense: true,
+                        items: [2, 3, 4, 6, 8, 10].map((n) =>
+                          DropdownMenuItem(value: n, child: Text('$n cues'))
+                        ).toList(),
+                        onChanged: (val) {
+                          if (val != null) onFontCycleIntervalChanged(val);
+                        },
+                      ),
+                      const Spacer(),
+                      Text(
+                        fontCycleActive ? 'Cycling ↓' : 'Off',
+                        style: TextStyle(
+                          color: fontCycleActive ? Colors.deepPurple[200] : Colors.white38,
+                          fontSize: 12,
+                        ),
+                      ),
+                      const SizedBox(width: 8),
+                      Switch(
+                        value: fontCycleActive,
+                        activeThumbColor: Colors.deepPurple,
+                        materialTapTargetSize: MaterialTapTargetSize.shrinkWrap,
+                        onChanged: (_) => onFontCycleToggled(),
+                      ),
+                    ],
+                  ),
+                ),
                 Expanded(
                   child: _buildFontListView(context),
                 ),
