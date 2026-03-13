@@ -404,6 +404,7 @@ Android (64-bit devices only, arm64-v8a)
 - Mole, for terminal, cleans up disk space https://github.com/tw93/Mole
 - KeepassXC, free password manager https://keepassxc.org
 - Screen Kite, free record screen area with system sound, better than OBS https://www.screenkite.com 
+- Denoise DeepFilterNet3 in realtime on mic input https://github.com/Ghostkwebb/MetalVoice
 - VSCodium, half file size of VSCode https://vscodium.com
 - Text Power Tools, extension for VSCodium, powerful text manipulation
 - LocalSend, flutter app share files, free https://localsend.org
