@@ -1943,7 +1943,7 @@ class SidePanel extends StatelessWidget {
                         ),
                         const SizedBox(width: 8),
                         const Text(
-                          'Use ↑↓ arrow keys.',
+                          'Use ↑↓ arrow keys, font size ⌥↑/↓',
                           style: TextStyle(color: Colors.white54, fontSize: 14),
                         ),
                       ],

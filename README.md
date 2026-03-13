@@ -51,6 +51,7 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 - copy to clipboard in memory (font conversion for primary)
 - search foreign language subtitles
 - blur shadow (uses 2x cpu usage) but dims it a bit
+- font size ↑/↓ or Alt⌥+↑/↓ ...use later shortcuts when Font/Colors panel is open
 
 ![](images/japanese.gif)
 
@@ -115,7 +116,6 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 - only shows most recent chapter with a particular audiobook
 
 ![](images/history.jpg)
-
 
 ### Playlist
 - set up to 10 playlists and switch between them

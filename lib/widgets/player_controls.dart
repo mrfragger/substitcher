@@ -970,7 +970,7 @@ class PlayerControls extends StatelessWidget {
             const PopupMenuItem<String>(
               enabled: false,
               height: 30,
-              child: Text('Font Size (↑/↓)', style: TextStyle(fontSize: 12)),
+              child: Text('Font Size (↑/↓ or Alt⌥+↑/↓)', style: TextStyle(fontSize: 12)),
             ),
             const PopupMenuDivider(),
             const PopupMenuItem(

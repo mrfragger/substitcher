@@ -6600,6 +6600,9 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                 _subtitleLineSpacing = _subtitleLineSpacing.clamp(0.5, 2.5);
               });
               return KeyEventResult.handled;
+            } else if (HardwareKeyboard.instance.isAltPressed) {
+              _increaseFontSize();
+              return KeyEventResult.handled;
             } else if (HardwareKeyboard.instance.isShiftPressed) {
               return KeyEventResult.ignored;
             } else if (_showPanel && _panelMode == PanelMode.luts) {
@@ -6615,28 +6618,31 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               _increaseFontSize();
               return KeyEventResult.handled;
             }
-            } else if (event.logicalKey == LogicalKeyboardKey.arrowDown) {
-              if (HardwareKeyboard.instance.isControlPressed) {
-                setState(() {
-                  _subtitleLineSpacing = ((_subtitleLineSpacing * 100).round() - 1) / 100;
-                  _subtitleLineSpacing = _subtitleLineSpacing.clamp(0.5, 2.5);
-                });
-                return KeyEventResult.handled;
-              } else if (HardwareKeyboard.instance.isShiftPressed) {
-                return KeyEventResult.ignored;
-              } else if (_showPanel && _panelMode == PanelMode.luts) {
-                _navigateLuts(1);
-                return KeyEventResult.handled;
-              } else if (_showPanel && _panelMode == PanelMode.colors) {
-                _navigateColors(1);
-                return KeyEventResult.handled;
-              } else if (_showPanel && _panelMode == PanelMode.fonts) {
-                _navigateFonts(1);
-                return KeyEventResult.handled;
-              } else {
-                _decreaseFontSize();
-                return KeyEventResult.handled;
-              }
+          } else if (event.logicalKey == LogicalKeyboardKey.arrowDown) {
+            if (HardwareKeyboard.instance.isControlPressed) {
+              setState(() {
+                _subtitleLineSpacing = ((_subtitleLineSpacing * 100).round() - 1) / 100;
+                _subtitleLineSpacing = _subtitleLineSpacing.clamp(0.5, 2.5);
+              });
+              return KeyEventResult.handled;
+            } else if (HardwareKeyboard.instance.isAltPressed) {
+              _decreaseFontSize();
+              return KeyEventResult.handled;
+            } else if (HardwareKeyboard.instance.isShiftPressed) {
+              return KeyEventResult.ignored;
+            } else if (_showPanel && _panelMode == PanelMode.luts) {
+              _navigateLuts(1);
+              return KeyEventResult.handled;
+            } else if (_showPanel && _panelMode == PanelMode.colors) {
+              _navigateColors(1);
+              return KeyEventResult.handled;
+            } else if (_showPanel && _panelMode == PanelMode.fonts) {
+              _navigateFonts(1);
+              return KeyEventResult.handled;
+            } else {
+              _decreaseFontSize();
+              return KeyEventResult.handled;
+            }
           } else if (event.logicalKey == LogicalKeyboardKey.arrowLeft) {
             if (HardwareKeyboard.instance.isShiftPressed) {
               _previousChapter();
