@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:file_picker/file_picker.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 import 'dart:io';
 import 'dart:async';
 import 'dart:convert';
@@ -118,6 +119,28 @@ class _TranslateScreenState extends State<TranslateScreen> {
     });
   }
 
+  Future<void> _useLastVttFile() async {
+    final prefs = await SharedPreferences.getInstance();
+    final lastVtt = prefs.getString('lastVttFilePath');
+    if (lastVtt != null && File(lastVtt).existsSync()) {
+      final content = await File(lastVtt).readAsString();
+      final cues = _service.parseVtt(content);
+      setState(() {
+        _vttPath = lastVtt;
+        _cues = cues;
+        _totalCues = cues.length;
+        _translationResults.clear();
+        _currentCueIndex = -1;
+        _statusMessage = 'Loaded ${cues.length} subtitle cues';
+        _cacheHits = 0;
+        _apiCalls = 0;
+      });
+      _showSnack('Restored: ${path.basename(lastVtt)}');
+    } else {
+      _showSnack('No previous VTT file found', isError: true);
+    }
+  }
+
   Future<void> _pickVttFile() async {
     final result = await FilePicker.platform.pickFiles(
       dialogTitle: 'Select VTT file to translate',
@@ -128,6 +151,10 @@ class _TranslateScreenState extends State<TranslateScreen> {
     final p = result.files.first.path!;
     final content = await File(p).readAsString();
     final cues = _service.parseVtt(content);
+  
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setString('lastVttFilePath', p);
+  
     setState(() {
       _vttPath = p;
       _cues = cues;
@@ -666,6 +693,16 @@ class _TranslateScreenState extends State<TranslateScreen> {
             style: ElevatedButton.styleFrom(
                 backgroundColor: Colors.purple,
                 foregroundColor: Colors.white),
+          ),
+          const SizedBox(height: 8),
+          ElevatedButton.icon(
+            onPressed: _isTranslating ? null : _useLastVttFile,
+            icon: const Icon(Icons.history, size: 18),
+            label: const Text('Last Used VTT File'),
+            style: ElevatedButton.styleFrom(
+              backgroundColor: Colors.blueGrey,
+              foregroundColor: Colors.white,
+            ),
           ),
         ],
       ),
