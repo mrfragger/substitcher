@@ -8077,6 +8077,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         setState(() {
           _sleepTimerAction = action;
         });
+        _saveDefaultSettings();
       },
       sliderHoverPosition: _sliderHoverPosition,
       hoveredChapterTitle: _hoveredChapterTitle,
