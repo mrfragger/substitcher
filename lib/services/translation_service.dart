@@ -483,7 +483,9 @@ class TranslationService {
         'Language: Translation\n\n'
         'Maintain the original meaning and natural conversational tone. '
         'Do not add romanization, transliteration or pronunciation guides in parentheses. '
-        'Do not add any extra text, notes or explanations.\n\n'
+        'Do not add any extra text, notes or explanations. '
+        'Do not add ellipsis (...) at the end of translations even if the source text appears incomplete. '
+        'Translate only what is present in the subtitle line.\n\n'
         'Subtitle line:\n$text';
 
     final client = HttpClient();

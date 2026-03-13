@@ -787,7 +787,9 @@ class PlayerControls extends StatelessWidget {
               color: sleepDuration != null ? Colors.deepPurple : Colors.white70,
               size: 24,
             ),
-            tooltip: 'Sleep Timer',
+            tooltip: sleepTimerAction == SleepTimerAction.pauseOnly
+                ? 'Sleep Timer (Pause)'
+                : 'Sleep Timer (Close)',
             itemBuilder: (context) => [
               PopupMenuItem<void>(
                 enabled: false,
