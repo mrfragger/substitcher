@@ -1005,6 +1005,7 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
               onChanged: (value) async {
                 if (value != null) {
                   await _saveAdhanSelection(prayerName, value);
+                  await _loadSettings();
                   setState(() {});
                 }
               },
