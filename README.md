@@ -149,7 +149,7 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 - in font panel set custom folder to this one and all fonts will be loaded
 
 ![](images/fonts.jpg)
-
+```bash
 ├── alternates
 │   ├── Aloevera.ttf
 │   ├── Bentley Vintage.otf
@@ -194,7 +194,7 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
     ├── Harquil.ttf
     ├── Sidethree.otf
     └── Zigzageo.ttf
-
+```
 
 ### Glyph Viewer
 only 1-9, basic latin and ligatures
