@@ -786,7 +786,7 @@ class PlayerControls extends StatelessWidget {
               Icons.access_time,
               color: sleepDuration != null
                   ? (sleepTimerAction == SleepTimerAction.closeApp ? Colors.deepPurple : Colors.blue)
-                  : Colors.white70,
+                  : (sleepTimerAction == SleepTimerAction.pauseOnly ? Colors.yellow : Colors.white70),
               size: 24,
             ),
             tooltip: sleepTimerAction == SleepTimerAction.pauseOnly
