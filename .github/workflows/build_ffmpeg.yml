@@ -1,0 +1,397 @@
+name: Build FFmpeg Binaries
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/build_ffmpeg.yml'
+
+jobs:
+  build-ffmpeg-linux:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y build-essential nasm yasm
+      
+      - name: Build libopus
+        run: |
+          wget https://downloads.xiph.org/releases/opus/opus-1.6.1.tar.gz
+          tar xf opus-1.6.1.tar.gz
+          cd opus-1.6.1
+          
+          ./configure \
+            --prefix=$PWD/../opus-install \
+            --disable-shared \
+            --enable-static
+          
+          make -j$(nproc)
+          make install
+      
+      - name: Build FFmpeg
+        run: |
+          wget https://ffmpeg.org/releases/ffmpeg-8.0.1.tar.xz
+          tar xf ffmpeg-8.0.1.tar.xz
+          cd ffmpeg-8.0.1
+
+          export PKG_CONFIG_PATH=$PWD/../opus-install/lib/pkgconfig:$PKG_CONFIG_PATH
+          
+          ./configure \
+            --prefix=$PWD/../ffmpeg-install \
+            --disable-shared \
+            --enable-static \
+            --disable-gpl \
+            --disable-nonfree \
+            --disable-doc \
+            --disable-debug \
+            --disable-everything \
+            --disable-xlib \
+            --disable-libxcb \
+            --disable-libxcb-shm \
+            --disable-libxcb-xfixes \
+            --disable-libxcb-shape \
+            --disable-autodetect \
+            --enable-ffmpeg \
+            --enable-ffprobe \
+            --enable-libopus \
+            --enable-decoder=opus,libopus,aac,aac_fixed,aac_latm,mp3,mp3float,pcm_s16le,pcm_s24le,pcm_f32le,flac,vorbis,alac \
+            --enable-encoder=libopus,pcm_s16le \
+            --enable-demuxer=ffmetadata,concat,opus,ogg,matroska,wav,mp3,aac,m4a,mov,flac \
+            --enable-muxer=ffmetadata,opus,wav,segment \
+            --enable-parser=opus,aac,aac_latm,mp3,flac,vorbis \
+            --enable-protocol=file \
+            --enable-filter=volume,highpass,lowpass,aformat,aresample,atempo,silenceremove,afftdn,dynaudnorm \
+            --extra-cflags="-I$PWD/../opus-install/include" \
+            --extra-ldflags="-L$PWD/../opus-install/lib" \
+            --pkg-config-flags="--static"
+          
+          make -j$(nproc)
+          make install
+          
+          strip --strip-all ../ffmpeg-install/bin/ffmpeg
+          strip --strip-all ../ffmpeg-install/bin/ffprobe
+      
+      - name: Create artifact structure
+        run: |
+          mkdir -p assets/bin/linux
+          cp ffmpeg-install/bin/ffmpeg assets/bin/linux/
+          cp ffmpeg-install/bin/ffprobe assets/bin/linux/
+          chmod +x assets/bin/linux/*
+      
+      - name: Upload Linux FFmpeg
+        uses: actions/upload-artifact@v4
+        with:
+          name: ffmpeg-linux
+          path: assets/bin/linux/
+
+  build-ffmpeg-macos:
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install dependencies
+        run: |
+          brew install nasm
+      
+      - name: Download sources
+        run: |
+          wget https://downloads.xiph.org/releases/opus/opus-1.6.1.tar.gz
+          tar xf opus-1.6.1.tar.gz
+          wget https://ffmpeg.org/releases/ffmpeg-8.0.1.tar.xz
+          tar xf ffmpeg-8.0.1.tar.xz
+      
+      - name: Build libopus for arm64
+        run: |
+          cd opus-1.6.1
+          
+          ./configure \
+            --prefix=$PWD/../opus-install-arm64 \
+            --disable-shared \
+            --enable-static \
+            --host=aarch64-apple-darwin \
+            CFLAGS="-arch arm64" \
+            LDFLAGS="-arch arm64"
+          
+          make -j$(sysctl -n hw.ncpu)
+          make install
+      
+      - name: Build FFmpeg for arm64
+        run: |
+          cd ffmpeg-8.0.1
+
+          export PKG_CONFIG_PATH=$PWD/../opus-install-arm64/lib/pkgconfig:$PKG_CONFIG_PATH
+          
+          ./configure \
+            --prefix=$PWD/../ffmpeg-install-arm64 \
+            --disable-shared \
+            --enable-static \
+            --disable-gpl \
+            --disable-nonfree \
+            --disable-doc \
+            --disable-debug \
+            --disable-everything \
+            --disable-autodetect \
+            --enable-ffmpeg \
+            --enable-ffprobe \
+            --enable-audiotoolbox \
+            --enable-libopus \
+            --enable-decoder=opus,libopus,aac,aac_fixed,aac_latm,mp3,mp3float,pcm_s16le,pcm_s24le,pcm_f32le,flac,vorbis,alac \
+            --enable-encoder=libopus,pcm_s16le \
+            --enable-demuxer=ffmetadata,concat,opus,ogg,matroska,wav,mp3,aac,m4a,mov,flac \
+            --enable-muxer=ffmetadata,opus,wav,segment \
+            --enable-parser=opus,aac,aac_latm,mp3,flac,vorbis \
+            --enable-protocol=file \
+            --enable-filter=volume,highpass,lowpass,aformat,aresample,atempo,silenceremove,afftdn,dynaudnorm \
+            --extra-cflags="-I$PWD/../opus-install-arm64/include" \
+            --extra-ldflags="-L$PWD/../opus-install-arm64/lib" \
+            --arch=arm64 \
+            --cc="clang -arch arm64" \
+            --pkg-config-flags="--static"
+          
+          make -j$(sysctl -n hw.ncpu)
+          make install
+      
+      - name: Create binaries
+        run: |
+          mkdir -p assets/bin/macos
+          
+          cp ffmpeg-install-arm64/bin/ffmpeg assets/bin/macos/ffmpeg
+          cp ffmpeg-install-arm64/bin/ffprobe assets/bin/macos/ffprobe
+          
+          strip assets/bin/macos/*
+          chmod +x assets/bin/macos/*
+      
+      - name: Upload macOS FFmpeg
+        uses: actions/upload-artifact@v4
+        with:
+          name: ffmpeg-macos
+          path: assets/bin/macos/
+
+  build-ffmpeg-windows:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Setup MSYS2
+        uses: msys2/setup-msys2@v2
+        with:
+          msystem: MINGW64
+          update: true
+          install: >-
+            base-devel
+            mingw-w64-x86_64-toolchain
+            mingw-w64-x86_64-cmake
+            mingw-w64-x86_64-nasm
+            mingw-w64-x86_64-yasm
+      
+      - name: Build libopus
+        shell: msys2 {0}
+        run: |
+          curl -L https://downloads.xiph.org/releases/opus/opus-1.6.1.tar.gz -o opus.tar.gz
+          tar xf opus.tar.gz
+          cd opus-1.6.1
+          
+          ./configure \
+            --prefix=/d/a/substitcher/substitcher/opus-install \
+            --disable-shared \
+            --enable-static
+          
+          make -j$(nproc)
+          make install
+      
+      - name: Build FFmpeg
+        shell: msys2 {0}
+        run: |
+          curl -L https://ffmpeg.org/releases/ffmpeg-8.0.1.tar.xz -o ffmpeg.tar.xz
+          tar xf ffmpeg.tar.xz
+          cd ffmpeg-8.0.1
+
+          export PKG_CONFIG_PATH=/d/a/substitcher/substitcher/opus-install/lib/pkgconfig:$PKG_CONFIG_PATH
+                    
+          ./configure \
+            --prefix=/d/a/substitcher/substitcher/ffmpeg-install \
+            --enable-static \
+            --disable-shared \
+            --disable-gpl \
+            --disable-nonfree \
+            --disable-doc \
+            --disable-debug \
+            --disable-everything \
+            --disable-autodetect \
+            --enable-ffmpeg \
+            --enable-ffprobe \
+            --enable-libopus \
+            --enable-decoder=opus,libopus,aac,aac_fixed,aac_latm,mp3,mp3float,pcm_s16le,pcm_s24le,pcm_f32le,flac,vorbis,alac \
+            --enable-encoder=libopus,pcm_s16le \
+            --enable-demuxer=ffmetadata,concat,opus,ogg,matroska,wav,mp3,aac,m4a,mov,flac \
+            --enable-muxer=ffmetadata,opus,wav,segment \
+            --enable-parser=opus,aac,aac_latm,mp3,flac,vorbis \
+            --enable-protocol=file \
+            --enable-filter=volume,highpass,lowpass,aformat,aresample,atempo,silenceremove,afftdn,dynaudnorm \
+            --extra-cflags="-I/d/a/substitcher/substitcher/opus-install/include" \
+            --extra-ldflags="-L/d/a/substitcher/substitcher/opus-install/lib -static" \
+            --pkg-config-flags="--static"
+          
+          make -j$(nproc)
+          make install
+          
+          strip /d/a/substitcher/substitcher/ffmpeg-install/bin/ffmpeg.exe
+          strip /d/a/substitcher/substitcher/ffmpeg-install/bin/ffprobe.exe
+      
+      - name: Create artifact structure
+        shell: powershell
+        run: |
+          New-Item -ItemType Directory -Force -Path assets/bin/windows
+          Copy-Item ffmpeg-install/bin/ffmpeg.exe assets/bin/windows/
+          Copy-Item ffmpeg-install/bin/ffprobe.exe assets/bin/windows/
+      
+      - name: Upload Windows FFmpeg
+        uses: actions/upload-artifact@v4
+        with:
+          name: ffmpeg-windows
+          path: assets/bin/windows/
+
+  build-ffmpeg-android:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v4
+        
+        - name: Setup Android NDK
+          uses: nttld/setup-ndk@v1
+          with:
+            ndk-version: r26d
+            add-to-path: true
+        
+        - name: Install dependencies
+          run: |
+            sudo apt-get update
+            sudo apt-get install -y build-essential nasm yasm
+        
+        - name: Download sources
+          run: |
+            wget https://downloads.xiph.org/releases/opus/opus-1.6.1.tar.gz
+            tar xf opus-1.6.1.tar.gz
+            wget https://ffmpeg.org/releases/ffmpeg-8.0.1.tar.xz
+            tar xf ffmpeg-8.0.1.tar.xz
+        
+        - name: Build libopus for arm64-v8a
+          run: |
+            cd opus-1.6.1
+            
+            TOOLCHAIN=$ANDROID_NDK_ROOT/toolchains/llvm/prebuilt/linux-x86_64
+            API=24
+            
+            mkdir build-arm64 && cd build-arm64
+            ../configure \
+              --prefix=$PWD/../../opus-install-arm64 \
+              --host=aarch64-linux-android \
+              --disable-shared \
+              --enable-static \
+              CC=$TOOLCHAIN/bin/aarch64-linux-android${API}-clang \
+              AR=$TOOLCHAIN/bin/llvm-ar \
+              RANLIB=$TOOLCHAIN/bin/llvm-ranlib
+            
+            make -j$(nproc)
+            make install
+        
+        - name: Build FFmpeg for arm64-v8a
+          run: |
+            cd ffmpeg-8.0.1
+            
+            TOOLCHAIN=$ANDROID_NDK_ROOT/toolchains/llvm/prebuilt/linux-x86_64
+            API=24
+  
+            export PKG_CONFIG_PATH=$PWD/../opus-install-arm64/lib/pkgconfig:$PKG_CONFIG_PATH
+                      
+            mkdir build-arm64 && cd build-arm64
+            ../configure \
+              --prefix=$PWD/../../ffmpeg-install-arm64 \
+              --enable-cross-compile \
+              --target-os=android \
+              --arch=arm64 \
+              --cpu=armv8-a \
+              --cc=$TOOLCHAIN/bin/aarch64-linux-android${API}-clang \
+              --cxx=$TOOLCHAIN/bin/aarch64-linux-android${API}-clang++ \
+              --ar=$TOOLCHAIN/bin/llvm-ar \
+              --ranlib=$TOOLCHAIN/bin/llvm-ranlib \
+              --strip=$TOOLCHAIN/bin/llvm-strip \
+              --disable-shared \
+              --enable-static \
+              --disable-gpl \
+              --disable-nonfree \
+              --disable-doc \
+              --disable-debug \
+              --disable-everything \
+              --disable-autodetect \
+              --enable-ffmpeg \
+              --enable-ffprobe \
+              --enable-libopus \
+              --enable-decoder=opus,libopus,aac,aac_fixed,aac_latm,mp3,mp3float,pcm_s16le,pcm_s24le,pcm_f32le,flac,vorbis,alac \
+              --enable-encoder=libopus,pcm_s16le \
+              --enable-demuxer=ffmetadata,concat,opus,ogg,matroska,wav,mp3,aac,m4a,mov,flac \
+              --enable-muxer=ffmetadata,opus,wav,segment \
+              --enable-parser=opus,aac,aac_latm,mp3,flac,vorbis \
+              --enable-protocol=file \
+              --enable-filter=volume,highpass,lowpass,aformat,aresample,atempo,silenceremove,afftdn,dynaudnorm \
+              --extra-cflags="-I$PWD/../../opus-install-arm64/include" \
+              --extra-ldflags="-L$PWD/../../opus-install-arm64/lib" \
+              --pkg-config-flags="--static"
+            
+            make -j$(nproc)
+            make install
+            
+            $TOOLCHAIN/bin/llvm-strip ../../ffmpeg-install-arm64/bin/ffmpeg
+            $TOOLCHAIN/bin/llvm-strip ../../ffmpeg-install-arm64/bin/ffprobe
+        
+        - name: Create artifact structure
+          run: |
+            mkdir -p ffmpeg-binaries/android/arm64-v8a
+            
+            cp ffmpeg-install-arm64/bin/ffmpeg ffmpeg-binaries/android/arm64-v8a/
+            cp ffmpeg-install-arm64/bin/ffprobe ffmpeg-binaries/android/arm64-v8a/
+            
+            chmod +x ffmpeg-binaries/android/arm64-v8a/*
+        
+        - name: Upload Android FFmpeg
+          uses: actions/upload-artifact@v4
+          with:
+            name: ffmpeg-android
+            path: ffmpeg-binaries/android/
+
+  combine-artifacts:
+      needs: [build-ffmpeg-linux, build-ffmpeg-macos, build-ffmpeg-windows, build-ffmpeg-android]
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v4
+        
+        - name: Download all artifacts
+          uses: actions/download-artifact@v4
+          with:
+            path: artifacts
+        
+        - name: Combine all FFmpeg binaries
+          run: |
+            mkdir -p combined/linux
+            mkdir -p combined/macos
+            mkdir -p combined/windows
+            mkdir -p combined/android/arm64-v8a
+            
+            cp artifacts/ffmpeg-linux/* combined/linux/ 2>/dev/null || true
+            cp artifacts/ffmpeg-macos/* combined/macos/ 2>/dev/null || true
+            cp artifacts/ffmpeg-windows/* combined/windows/ 2>/dev/null || true
+            cp artifacts/ffmpeg-android/arm64-v8a/* combined/android/arm64-v8a/ 2>/dev/null || true
+            
+            echo "=== FFmpeg Binary sizes ==="
+            find combined -type f -exec ls -lh {} \;
+        
+        - name: Upload combined artifacts
+          uses: actions/upload-artifact@v4
+          with:
+            name: ffmpeg-all-platforms
+            path: combined/
+            retention-days: 90

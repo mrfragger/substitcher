@@ -1,0 +1,37 @@
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+*.lock
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+*.app
+*.dmg
+
+# Linux
+*.AppImage
+AppDir/
+appimagetool-x86_64.AppImage
+
+# Windows
+*.exe
+
+# FFmpeg downloads
+ffmpeg.zip
+ffprobe.zip
+temp/
+
+# Misc
+*.log

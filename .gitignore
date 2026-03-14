@@ -1,0 +1,87 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+/coverage/
+
+# Xcode user data
+*.xcuserstate
+*.xcuserdatad/
+xcuserdata/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+/android/gradle.properties.local
+
+# FFmpeg binaries (macOS committed, Linux/Windows built by CI)
+bin/ffmpeg
+bin/ffprobe
+windows/runner/Resources/bin/
+# Flutter generated files
+**/Flutter/ephemeral/
+**/generated_plugin_registrant.cc
+**/generated_plugin_registrant.dart
+**/generated_plugins.cmake
+**/GeneratedPluginRegistrant.swift
+
+# Ignore all binaries in assets
+assets/bin/**/*
+assets/whisper/**/*
+
+# But keep the .gitkeep files
+!assets/bin/**/.gitkeep
+!assets/whisper/**/.gitkeep
+
+macos/Runner/Resources/bin/*
+macos/Runner/Resources/whisper/*
+!macos/Runner/Resources/bin/.gitkeep
+!macos/Runner/Resources/whisper/.gitkeep
+
+# macOS Pods
+macos/Pods/
+macos/Podfile.lock
+
+# iOS Pods (if you add iOS support later)
+ios/Pods/
+ios/Podfile.lock
+
+# Flutter/Dart build artifacts
+.flutter-plugins
+.flutter-plugins-dependencies
