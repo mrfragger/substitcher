@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:path/path.dart' as path;
 import 'package:flutter/services.dart';
+import 'package:url_launcher/url_launcher.dart';
 import '../models/audiobook_metadata.dart';
 import '../models/color_palette.dart';
 import '../models/frequency_item.dart';
@@ -135,10 +136,6 @@ class SidePanel extends StatelessWidget {
   final bool statsEnabled;
   final Function(bool) onStatsEnabledChanged;
   final VoidCallback onRefreshStats;
-  final String skipTrackingTerms;
-  final TextEditingController skipTrackingController;
-  final FocusNode skipTrackingFocusNode;
-  final Function(String) onSkipTrackingChanged;
   final List<Map<String, dynamic>> Function(DateTime) filterEntriesByDate;
   final List<Map<String, dynamic>> Function(int) filterEntriesByDays;
   final Map<String, int> Function(List<Map<String, dynamic>>) getFileListenTimes;
@@ -306,10 +303,6 @@ class SidePanel extends StatelessWidget {
     required this.statsEnabled,
     required this.onStatsEnabledChanged,
     required this.onRefreshStats,
-    required this.skipTrackingTerms,
-    required this.skipTrackingController,
-    required this.skipTrackingFocusNode,
-    required this.onSkipTrackingChanged,
     required this.filterEntriesByDate,
     required this.filterEntriesByDays,
     required this.getFileListenTimes,
@@ -654,10 +647,6 @@ class SidePanel extends StatelessWidget {
           statsEnabled: statsEnabled,
           onStatsEnabledChanged: onStatsEnabledChanged,
           onRefreshStats: onRefreshStats,
-          skipTrackingTerms: skipTrackingTerms,
-          skipTrackingController: skipTrackingController,
-          skipTrackingFocusNode: skipTrackingFocusNode,
-          onSkipTrackingChanged: onSkipTrackingChanged,
           searchQuery: searchQuery,
           excludeTerms: excludeTerms,
           filterEntriesByDate: filterEntriesByDate,
@@ -2078,6 +2067,7 @@ class SidePanel extends StatelessWidget {
         final fontName = filteredFonts[index];
         final isSelected = fontName == selectedFont;
         final isCustomFont = CustomFontLoader.customFonts.contains(fontName);
+        final isLoaded = CustomFontLoader.loadedFonts.contains(fontName);
         final customMetadata = isCustomFont ? CustomFontMetadataManager.getMetadata(fontName) : null;
         
         String? subtitleText;
@@ -2119,6 +2109,17 @@ class SidePanel extends StatelessWidget {
           trailing: Row(
             mainAxisSize: MainAxisSize.min,
             children: [
+              if (!isLoaded && fontName != 'System Default')
+                Tooltip(
+                  message: 'Search on fontspace.com',
+                  child: InkWell(
+                    onTap: () {
+                      final query = Uri.encodeComponent(fontName.toLowerCase());
+                      launchUrl(Uri.parse('https://www.fontspace.com/search?q=$query'));
+                    },
+                    child: const Icon(Icons.link, color: Colors.yellow, size: 16),
+                  ),
+                ),
               if (isCustomFont)
                 IconButton(
                   icon: const Icon(Icons.edit, size: 18, color: Colors.white54),
@@ -2325,29 +2326,10 @@ class SidePanel extends StatelessWidget {
       children: [
         _buildCategoryButton('All Fonts', 'all', null, null),
         const Divider(color: Colors.white24),
-        _buildCategoryButton('demo123', FontCategory.demo123, null, null),
-        if (selectedMainCategory == FontCategory.demo123) ...[
-          _buildSubCategoryButton('ligatures', FontCategory.ligatures),
-          if (selectedSubCategory == FontCategory.ligatures) ...[
-            _buildStudioButton('177studio', FontCategory.studio177),
-            _buildStudioButton('Dhabee', FontCategory.dhabee),
-            _buildStudioButton('Putracetol', FontCategory.putracetol),
-            _buildStudioButton('Various', FontCategory.various),
-          ],
-          _buildSubCategoryButton('Dhabee123', null, studio: FontCategory.dhabee123),
-          _buildSubCategoryButton('Erifqizefont123', null, studio: FontCategory.erifqizefont123),
-          _buildSubCategoryButton('Putracetol123', null, studio: FontCategory.putracetol123),
-          _buildSubCategoryButton('Various', null, studio: FontCategory.various),
-          _buildSubCategoryButton('UPPERCASE', FontCategory.uppercase),
-          _buildSubCategoryButton('MustBeUPPERCASE', FontCategory.mustBeUppercase),
-          _buildSubCategoryButton('sEeSaWcAsE', FontCategory.seesawcase),
-        ],
-        const Divider(color: Colors.white24),
         _buildCategoryButton('demo', FontCategory.demo, null, null),
         if (selectedMainCategory == FontCategory.demo) ...[
           _buildSubCategoryButton('ligatures', FontCategory.ligatures),
           if (selectedSubCategory == FontCategory.ligatures) ...[
-            _buildStudioButton('Putracetol', FontCategory.putracetol),
             _buildStudioButton('177studio', FontCategory.studio177),
             _buildStudioButton('Various', FontCategory.various),
           ],
@@ -2356,15 +2338,11 @@ class SidePanel extends StatelessWidget {
             _buildStudioButton('177studio', FontCategory.studio177),
           ],
           _buildSubCategoryButton('alternates', FontCategory.alternates),
-          _buildSubCategoryButton('UPPERCASE', FontCategory.uppercase),
-          if (selectedSubCategory == FontCategory.uppercase) ...[
-            _buildStudioButton('177studio', FontCategory.studio177),
-          ],
           _buildSubCategoryButton('MustBeUPPERCASE', FontCategory.mustBeUppercase),
           if (selectedSubCategory == FontCategory.mustBeUppercase) ...[
             _buildStudioButton('177studio', FontCategory.studio177),
-            _buildStudioButton('Putracetol', FontCategory.putracetol),
           ],
+          _buildSubCategoryButton('sEeSaWcAsE', FontCategory.seesawcase),
         ],
         const Divider(color: Colors.white24),
         _buildCategoryButton('free', FontCategory.free, null, null),
@@ -2375,6 +2353,7 @@ class SidePanel extends StatelessWidget {
           ],
           _buildSubCategoryButton('Various', null, studio: FontCategory.various),
           _buildSubCategoryButton('foreign', FontCategory.foreign),
+          _buildSubCategoryButton('UPPERCASE', FontCategory.uppercase),
         ],
         const Divider(color: Colors.white24),
         _buildCategoryButton('favorites (⇧F)', FontCategory.favorites, null, null),

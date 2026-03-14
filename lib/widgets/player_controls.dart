@@ -784,7 +784,9 @@ class PlayerControls extends StatelessWidget {
           PopupMenuButton<void>(
             icon: Icon(
               Icons.access_time,
-              color: sleepDuration != null ? Colors.deepPurple : Colors.white70,
+              color: sleepDuration != null
+                  ? (sleepTimerAction == SleepTimerAction.closeApp ? Colors.deepPurple : Colors.blue)
+                  : Colors.white70,
               size: 24,
             ),
             tooltip: sleepTimerAction == SleepTimerAction.pauseOnly

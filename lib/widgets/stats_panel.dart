@@ -6,10 +6,6 @@ class StatsPanel extends StatelessWidget {
   final bool statsEnabled;
   final Function(bool) onStatsEnabledChanged;
   final VoidCallback onRefreshStats;
-  final String skipTrackingTerms;
-  final TextEditingController skipTrackingController;
-  final FocusNode skipTrackingFocusNode;
-  final Function(String) onSkipTrackingChanged;
   final String searchQuery;
   final String excludeTerms;
   final Function(DateTime) filterEntriesByDate;
@@ -28,10 +24,6 @@ class StatsPanel extends StatelessWidget {
     required this.statsEnabled,
     required this.onStatsEnabledChanged,
     required this.onRefreshStats,
-    required this.skipTrackingTerms,
-    required this.skipTrackingController,
-    required this.skipTrackingFocusNode,
-    required this.onSkipTrackingChanged,
     required this.searchQuery,
     required this.excludeTerms,
     required this.filterEntriesByDate,
@@ -103,63 +95,29 @@ class StatsPanel extends StatelessWidget {
       decoration: const BoxDecoration(
         border: Border(bottom: BorderSide(color: Colors.white24)),
       ),
-      child: Column(
+      child: Row(
         children: [
-          Row(
-            children: [
-              Expanded(
-                child: TextField(
-                  controller: skipTrackingController,
-                  focusNode: skipTrackingFocusNode,
-                  style: const TextStyle(color: Colors.white, fontSize: 14),
-                  decoration: InputDecoration(
-                    hintText: 'Skip tracking: "salah memorize" "bad example" or single words...',
-                    hintStyle: const TextStyle(color: Colors.white54),
-                    prefixIcon: const Icon(Icons.block, color: Colors.white54, size: 20),
-                    suffixIcon: skipTrackingTerms.isNotEmpty
-                        ? IconButton(
-                            icon: const Icon(Icons.clear, color: Colors.white54, size: 20),
-                            onPressed: () {
-                              skipTrackingController.clear();
-                              onSkipTrackingChanged('');
-                            },
-                          )
-                        : null,
-                    filled: true,
-                    fillColor: Colors.black26,
-                    border: OutlineInputBorder(
-                      borderRadius: BorderRadius.circular(8),
-                      borderSide: BorderSide.none,
-                    ),
-                    contentPadding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
-                  ),
-                  onChanged: onSkipTrackingChanged,
+          Tooltip(
+            message: 'Enable Tracking',
+            child: Switch(
+              value: statsEnabled,
+              onChanged: onStatsEnabledChanged,
+              activeThumbColor: Colors.deepPurple,
+            ),
+          ),
+          const SizedBox(width: 16),
+          Tooltip(
+            message: 'Refresh',
+            child: IconButton(
+              onPressed: onRefreshStats,
+              icon: const Icon(Icons.refresh, size: 20, color: Colors.white70),
+              style: IconButton.styleFrom(
+                backgroundColor: Colors.black26,
+                shape: RoundedRectangleBorder(
+                  borderRadius: BorderRadius.circular(8),
                 ),
               ),
-              const SizedBox(width: 16),
-              Tooltip(
-                message: 'Enable Tracking',
-                child: Switch(
-                  value: statsEnabled,
-                  onChanged: onStatsEnabledChanged,
-                  activeThumbColor: Colors.deepPurple,
-                ),
-              ),
-              const SizedBox(width: 16),
-              Tooltip(
-                message: 'Refresh',
-                child: IconButton(
-                  onPressed: onRefreshStats,
-                  icon: const Icon(Icons.refresh, size: 20, color: Colors.white70),
-                  style: IconButton.styleFrom(
-                    backgroundColor: Colors.black26,
-                    shape: RoundedRectangleBorder(
-                      borderRadius: BorderRadius.circular(8),
-                    ),
-                  ),
-                ),
-              ),
-            ],
+            ),
           ),
         ],
       ),

@@ -251,10 +251,6 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   final TextEditingController _chapterExcludeController = TextEditingController();
   final FocusNode _chapterExcludeFocusNode = FocusNode();
 
-  String _skipTrackingTerms = '';
-  final TextEditingController _skipTrackingController = TextEditingController();
-  final FocusNode _skipTrackingFocusNode = FocusNode();
-
   PauseMode _pauseMode = PauseMode.disabled;
   Timer? _pauseModeTimer;
   Duration? _nextPauseTime;
@@ -400,7 +396,6 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     _loadBookmarks();
     _loadFavoriteFonts();
     _loadFavoriteColorPalettes();
-    _loadSkipTrackingTerms();
     _startCacheFlushTimer();
     _loadFavoriteLuts();
     _loadSavedLut();
@@ -423,7 +418,6 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     _adhanClockService.dispose();
     if (_currentAudiobook != null) {
       final currentChapter = _currentAudiobook!.chapters[_currentChapterIndex];
-      if (!_shouldSkipTracking(path.basenameWithoutExtension(_currentAudiobook!.path))) {
         _statsManager.recordChapterEnd(
           path.basenameWithoutExtension(_currentAudiobook!.path),
           currentChapter.title,
@@ -431,7 +425,6 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         );
         _statsManager.flushCacheToLog();
       }
-    }
     _sleepTimer?.cancel();
     _pauseModeTimer?.cancel();
     player.dispose();
@@ -455,8 +448,6 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     _chapterExcludeFocusNode.dispose();
     _statsSearchController.dispose();
     _statsSearchFocusNode.dispose();
-    _skipTrackingController.dispose();
-    _skipTrackingFocusNode.dispose();
     LutThumbnailService.instance.clearCache();
     super.dispose();
   }
@@ -619,9 +610,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         _updateWakelock();
       }
       if (playing) {
-        if (!_shouldSkipTracking(path.basenameWithoutExtension(_currentAudiobook?.path ?? ''))) {
-          _statsManager.onPlaybackStart();
-        }
+        _statsManager.onPlaybackStart();
         _saveToHistory();
       } else {
         if (_sleepDuration != null) {
@@ -635,9 +624,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             );
           }
         }
-        if (!_shouldSkipTracking(path.basenameWithoutExtension(_currentAudiobook?.path ?? ''))) {
-          _statsManager.onPlaybackPause();
-        }
+        _statsManager.onPlaybackPause();
         _saveToHistory();
       }
     });
@@ -747,34 +734,32 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
    }
  }
 
-  Future<void> _handleWindowClose() async {
-      try {
-        _isDisposed = true;
-        
-        if (_isPlaying) {
-          await player.pause().timeout(const Duration(milliseconds: 500));
-        }
-        
-        if (_currentAudiobook != null) {
-          final currentChapter = _currentAudiobook!.chapters[_currentChapterIndex];
-          if (!_shouldSkipTracking(path.basenameWithoutExtension(_currentAudiobook!.path))) {
-            _statsManager.recordChapterEnd(
-              path.basenameWithoutExtension(_currentAudiobook!.path),
-              currentChapter.title,
-              false,
-            );
-            await _statsManager.flushCacheToLog().timeout(const Duration(milliseconds: 500));
-          }
-        }
-        
-        await _saveDefaultSettings().timeout(const Duration(milliseconds: 500));  // add this
-        await _saveToHistory().timeout(const Duration(milliseconds: 500));
-        await player.stop().timeout(const Duration(milliseconds: 500));
-        
-      } catch (e) {
-        print('Error during window close: $e');
-      }
-    }
+ Future<void> _handleWindowClose() async {
+   try {
+     _isDisposed = true;
+     
+     if (_isPlaying) {
+       await player.pause().timeout(const Duration(milliseconds: 500));
+     }
+     
+     if (_currentAudiobook != null) {
+       final currentChapter = _currentAudiobook!.chapters[_currentChapterIndex];
+       _statsManager.recordChapterEnd(
+         path.basenameWithoutExtension(_currentAudiobook!.path),
+         currentChapter.title,
+         false,
+       );
+       await _statsManager.flushCacheToLog().timeout(const Duration(milliseconds: 500));
+     }
+     
+     await _saveDefaultSettings().timeout(const Duration(milliseconds: 500));
+     await _saveToHistory().timeout(const Duration(milliseconds: 500));
+     await player.stop().timeout(const Duration(milliseconds: 500));
+     
+   } catch (e) {
+     print('Error during window close: $e');
+   }
+ }
 
   void _startCacheFlushTimer() {
     _cacheFlushTimer?.cancel();
@@ -799,20 +784,19 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
 
   void _checkChapterBoundary(Duration position) {
     if (_currentAudiobook == null || _currentAudiobook!.chapters.isEmpty) return;
-    
     if (_currentChapterIndex >= _currentAudiobook!.chapters.length) return;
     
     final chapter = _currentAudiobook!.chapters[_currentChapterIndex];
-
-    if (position >= chapter.endTime) {  
-        if (!_isYouTubeStream && !_shouldSkipTracking(path.basenameWithoutExtension(_currentAudiobook!.path))) {
-          final currentChapter = _currentAudiobook!.chapters[_currentChapterIndex];
-          _statsManager.recordChapterEnd(
-            path.basenameWithoutExtension(_currentAudiobook!.path),
-            currentChapter.title,
-            false,
-          );
-        }
+  
+    if (position >= chapter.endTime) {
+      if (!_isYouTubeStream) {
+        final currentChapter = _currentAudiobook!.chapters[_currentChapterIndex];
+        _statsManager.recordChapterEnd(
+          path.basenameWithoutExtension(_currentAudiobook!.path),
+          currentChapter.title,
+          false,
+        );
+      }
       
       if (!_playedChapters.contains(_currentChapterIndex)) {
         _playedChapters.add(_currentChapterIndex);
@@ -841,32 +825,23 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           return;
         } else {
           final nextIndex = _getNextShuffleChapter();
-          
-          if (nextIndex < 0 || nextIndex >= _currentAudiobook!.chapters.length) {
-            return;
-          }
-          
+          if (nextIndex < 0 || nextIndex >= _currentAudiobook!.chapters.length) return;
           final nextChapter = _currentAudiobook!.chapters[nextIndex];
-
           setState(() {
-              _currentChapterIndex = nextIndex;
-              if (!_playedChapters.contains(nextIndex)) {
-                _playedChapters.add(nextIndex);
-              }
-            });
-          
+            _currentChapterIndex = nextIndex;
+            if (!_playedChapters.contains(nextIndex)) {
+              _playedChapters.add(nextIndex);
+            }
+          });
           player.seek(nextChapter.startTime + const Duration(milliseconds: 100));
         }
       } else {
         int nextIndex = _currentChapterIndex + 1;
         if (!_isYouTubeStream) {
           while (nextIndex < _currentAudiobook!.chapters.length) {
-            if (!_shouldSkipChapter(_currentAudiobook!.chapters[nextIndex].title)) {
-              break;
-            }
+            if (!_shouldSkipChapter(_currentAudiobook!.chapters[nextIndex].title)) break;
             nextIndex++;
           }
-          
           if (nextIndex >= _currentAudiobook!.chapters.length) {
             player.pause();
             if (mounted) {
@@ -879,26 +854,17 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             }
             return;
           }
-          
-          setState(() {
-            _currentChapterIndex = nextIndex;
-          });
+          setState(() => _currentChapterIndex = nextIndex);
         } else {
           if (nextIndex >= _currentAudiobook!.chapters.length) {
             player.pause();
             return;
           }
-          
-          setState(() {
-            _currentChapterIndex = nextIndex;
-          });
+          setState(() => _currentChapterIndex = nextIndex);
         }
       }
       
-      if (_currentAudiobook != null && 
-          !_isYouTubeStream && 
-          _currentChapterIndex < _currentAudiobook!.chapters.length &&
-          !_shouldSkipTracking(path.basenameWithoutExtension(_currentAudiobook!.path))) {
+      if (!_isYouTubeStream && _currentChapterIndex < _currentAudiobook!.chapters.length) {
         _statsManager.recordChapterStart();
       }
     }
@@ -2817,72 +2783,6 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     if (bytes < 1024) return '${bytes}B';
     if (bytes < 1024 * 1024) return '${(bytes / 1024).floor()}KiB';
     return '${(bytes / (1024 * 1024)).floor()}MiB';
-  }
-
-  Future<void> _saveSkipTrackingTerms() async {
-    final prefs = await SharedPreferences.getInstance();
-    await prefs.setString('skipTrackingTerms', _skipTrackingTerms);
-  }
-  
-  Future<void> _loadSkipTrackingTerms() async {
-    final prefs = await SharedPreferences.getInstance();
-    final savedTerms = prefs.getString('skipTrackingTerms');
-    setState(() {
-      if (savedTerms != null) {
-        _skipTrackingTerms = savedTerms;
-        _skipTrackingController.text = savedTerms;
-      } else {
-        _skipTrackingTerms = '';
-        _skipTrackingController.text = '';
-      }
-    });
-  }
-  
-  bool _shouldSkipTracking(String audiobookTitle) {
-    if (_skipTrackingTerms.isEmpty) return false;
-    
-    final lowerTitle = audiobookTitle.toLowerCase();
-    final exactPhrases = <String>[];
-    final regularTerms = <String>[];
-    
-    int i = 0;
-    while (i < _skipTrackingTerms.length) {
-      if (_skipTrackingTerms[i] == '"') {
-        final endQuote = _skipTrackingTerms.indexOf('"', i + 1);
-        if (endQuote != -1) {
-          final quoted = _skipTrackingTerms.substring(i + 1, endQuote);
-          exactPhrases.add(quoted.toLowerCase());
-          i = endQuote + 1;
-        } else {
-          i++;
-        }
-      } else if (_skipTrackingTerms[i] != ' ') {
-        final nextSpace = _skipTrackingTerms.indexOf(' ', i);
-        if (nextSpace == -1) {
-          regularTerms.add(_skipTrackingTerms.substring(i).toLowerCase());
-          break;
-        } else {
-          regularTerms.add(_skipTrackingTerms.substring(i, nextSpace).toLowerCase());
-          i = nextSpace;
-        }
-      } else {
-        i++;
-      }
-    }
-        
-    for (final phrase in exactPhrases) {
-      if (lowerTitle.contains(phrase)) {
-        return true;
-      }
-    }
-    
-    for (final term in regularTerms) {
-      if (term.isNotEmpty && lowerTitle.contains(term)) {
-        return true;
-      }
-    }
-    
-    return false;
   }
   
   int _getNextShuffleChapter() {
@@ -4977,17 +4877,13 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       await _statsManager.recordChapterEnd(
         path.basenameWithoutExtension(_currentAudiobook!.path),
         currentChapter.title,
-        _shouldSkipTracking(path.basenameWithoutExtension(_currentAudiobook!.path)),
+        false,
       );
-      if (!_shouldSkipTracking(path.basenameWithoutExtension(_currentAudiobook!.path))) {
-        await _statsManager.flushCacheToLog();
-      }
+      await _statsManager.flushCacheToLog();
       
       final chapter = _currentAudiobook!.chapters[_currentChapterIndex - 1];
       await _seekTo(chapter.startTime);
-      if (_currentAudiobook != null && !_shouldSkipTracking(path.basenameWithoutExtension(_currentAudiobook!.path))) {
-        _statsManager.recordChapterStart();
-      }
+      _statsManager.recordChapterStart();
       if (_isPlaying) {
         _statsManager.onPlaybackStart();
       }
@@ -5001,11 +4897,9 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       await _statsManager.recordChapterEnd(
         path.basenameWithoutExtension(_currentAudiobook!.path),
         currentChapter.title,
-        _shouldSkipTracking(path.basenameWithoutExtension(_currentAudiobook!.path)),
+        false,
       );
-      if (!_shouldSkipTracking(path.basenameWithoutExtension(_currentAudiobook!.path))) {
-        await _statsManager.flushCacheToLog();
-      }
+      await _statsManager.flushCacheToLog();
     }
     if (_shuffleEnabled) {
       final nextIndex = _getNextShuffleChapter();
@@ -5022,9 +4916,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         nextIndex++;
       }
     }
-    if (_currentAudiobook != null && !_shouldSkipTracking(path.basenameWithoutExtension(_currentAudiobook!.path))) {
     _statsManager.recordChapterStart();
-    }
     if (_isPlaying) {
       _statsManager.onPlaybackStart();
     }
@@ -5037,11 +4929,9 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         await _statsManager.recordChapterEnd(
           path.basenameWithoutExtension(_currentAudiobook!.path),
           currentChapter.title,
-          _shouldSkipTracking(path.basenameWithoutExtension(_currentAudiobook!.path)),
+          false,
         );
-        if (!_shouldSkipTracking(path.basenameWithoutExtension(_currentAudiobook!.path))) {
-          _statsManager.flushCacheToLog();
-        }
+        _statsManager.flushCacheToLog();
       }
       final chapter = _currentAudiobook!.chapters[index];
       await _seekTo(chapter.startTime);
@@ -5049,9 +4939,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         _currentChapterIndex = index;
         _showPanel = false;
       });
-      if (_currentAudiobook != null && !_shouldSkipTracking(path.basenameWithoutExtension(_currentAudiobook!.path))) {
       _statsManager.recordChapterStart();
-      }
       if (_isPlaying) {
         _statsManager.onPlaybackStart();
       }
@@ -5474,14 +5362,12 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   if (_currentAudiobook != null && _currentAudiobook!.path != selectedPath) {
     if (_currentAudiobook!.chapters.isNotEmpty) {
       final currentChapter = _currentAudiobook!.chapters[_currentChapterIndex];
-      if (!_shouldSkipTracking(path.basenameWithoutExtension(_currentAudiobook!.path))) {
-        await _statsManager.recordChapterEnd(
-          path.basenameWithoutExtension(_currentAudiobook!.path),
-          currentChapter.title,
-          false,
-        );
-        await _statsManager.flushCacheToLog();
-      }
+      await _statsManager.recordChapterEnd(
+        path.basenameWithoutExtension(_currentAudiobook!.path),
+        currentChapter.title,
+        false,
+      );
+      await _statsManager.flushCacheToLog();
     }
   }
   
@@ -5558,7 +5444,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
 
     await player.play(); 
 
-      if (_currentAudiobook != null && !_shouldSkipTracking(path.basenameWithoutExtension(_currentAudiobook!.path))) {
+      if (_currentAudiobook != null) {
         _statsManager.recordChapterStart();
       }
       
@@ -6268,8 +6154,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             _subsSearchFocusNode.hasFocus || 
             _chapterSearchFocusNode.hasFocus || 
             _chapterExcludeFocusNode.hasFocus || 
-            _statsSearchFocusNode.hasFocus || 
-            _skipTrackingFocusNode.hasFocus) {
+            _statsSearchFocusNode.hasFocus) { 
           return KeyEventResult.ignored;
         }
         
@@ -7356,29 +7241,14 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                   bookmarksCount: _bookmarks.length,
                   fontsCount: CustomFontLoader.loadedFonts.length,
                   subsCount: _subtitles.length,
-                  statsCount: _statsManager.statsEntries.where((entry) {
-                    final filename = entry['filename'] as String? ?? '';
-                    return !_shouldSkipTracking(filename);
-                  }).length,
-                  statsEntries: _statsManager.statsEntries.where((entry) {
-                    final filename = entry['filename'] as String? ?? '';
-                    return !_shouldSkipTracking(filename);
-                  }).toList(),
+                  statsCount: _statsManager.statsEntries.length,
+                  statsEntries: _statsManager.statsEntries,
                   statsEnabled: _statsManager.statsEnabled,
                   onStatsEnabledChanged: (value) {
                     _statsManager.saveStatsEnabled(value);
                   },
                   onRefreshStats: () {
                     _statsManager.loadAllStatsEntries();
-                  },
-                  skipTrackingTerms: _skipTrackingTerms,
-                  skipTrackingController: _skipTrackingController,
-                  skipTrackingFocusNode: _skipTrackingFocusNode,
-                  onSkipTrackingChanged: (value) {
-                    setState(() {
-                      _skipTrackingTerms = value;
-                    });
-                    _saveSkipTrackingTerms();
                   },
                   filterEntriesByDate: _filterEntriesByDate,
                   filterEntriesByDays: _filterEntriesByDays,
@@ -9739,7 +9609,6 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           _currentAudiobook!.chapters.isNotEmpty &&
           _currentChapterIndex < _currentAudiobook!.chapters.length) {
         final currentChapter = _currentAudiobook!.chapters[_currentChapterIndex];
-        if (!_shouldSkipTracking(path.basenameWithoutExtension(_currentAudiobook!.path))) {
           _statsManager.recordChapterEnd(
             path.basenameWithoutExtension(_currentAudiobook!.path),
             currentChapter.title,
@@ -9747,7 +9616,6 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           );
           await _statsManager.flushCacheToLog();
         }
-      }
       
       await player.stop();
       
@@ -10206,15 +10074,6 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       },
       onRefreshStats: () {
         _statsManager.loadAllStatsEntries();
-      },
-      skipTrackingTerms: _skipTrackingTerms,
-      skipTrackingController: _skipTrackingController,
-      skipTrackingFocusNode: _skipTrackingFocusNode,
-      onSkipTrackingChanged: (value) {
-        setState(() {
-          _skipTrackingTerms = value;
-        });
-        _saveSkipTrackingTerms();
       },
       searchQuery: _statsSearchQuery,
       excludeTerms: _excludeTerms,

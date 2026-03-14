@@ -133,8 +133,8 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 
 ### Fonts
 - ligatures fonts, missing ligatures, alternates, fonts must be uppercase
-- 333+ fonts
-- demo fonts, demo123 (still demo but not missing numbers)
+- 100+ fonts
+- demo fonts
 - free (free for commerical use)
 - each missing and each alternate font, subs must be converted
 - ligature demo fonts, subs need converting only once
@@ -143,6 +143,10 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 - choose own custom folder for own fonts, refresh for added fonts, must restart app though to clear out removed fonts
 - custom folder can have subfolders although all fonts will be sorted alphabetically
 - 500+ LUTs (color presets) applied to subtitles and existing color palettes, hidden to right of Stats tab
+- download 38 demo fonts or link is provided for each one within app 
+- custom fonts can all be in one directory within various subdirectories, it recursively loads the fonts
+- ![customfonts.zip 2MB](https://github.com/mrfragger/substitcher/raw/main/images/customfonts.zip)
+- in font panel set custom folder to this one and all fonts will be loaded
 
 ![](images/fonts.jpg)
 
@@ -381,8 +385,8 @@ Android (64-bit devices only, arm64-v8a)
 <summary>Miscellaneous</summary>
 
 - Substicher is a flutter app so small in size.  It appears big but isn't all that huge.
-- 70MB fonts, 65MB LUTs, 36MB DeepFilterNet3 (denoise). 
-- So Mac app size is 273MB  - 171MB (assets) = 102MB real size of flutter app
+- 29MB fonts, 65MB LUTs, 36MB DeepFilterNet3 (denoise), 17MB adhan. 
+- So Mac app size is 232MB  - 147MB (assets) = 85MB real size of flutter app
 - Never will get a light theme nor support music
 - Never will support cover images, choose audiobooks with covers and not to use subtitles, use kid3 app (qt free cross-platform app) for embedding a cover image
 - Reason is most audiobook players don't support subtitles, and ones that do, do so due to video support and having a cover image in background intefers with subtitles in most cases
