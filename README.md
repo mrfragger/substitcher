@@ -150,6 +150,52 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 
 ![](images/fonts.jpg)
 
+├── alternates
+│   ├── Aloevera.ttf
+│   ├── Bentley Vintage.otf
+│   ├── Kambegi.ttf
+│   └── Mount Hills.otf
+├── ligatures177
+│   ├── Brilliant Heavens demo.otf
+│   ├── Categories Elegant demo.otf
+│   ├── Changing Campaign demo.otf
+│   ├── Creating Families demo.otf
+│   ├── Creating Graphics demo.otf
+│   ├── Enduring demo.otf
+│   ├── Gares demo.otf
+│   ├── Reminder According demo.otf
+│   ├── Roommate Surrealism demo.otf
+│   ├── Salvador Abstract demo.otf
+│   └── Traditional Civilization demo.otf
+├── ligaturesVarious
+│   ├── Chocolate Chips.otf
+│   ├── Pricedown Black.otf
+│   ├── Rocket Raccoon free.otf
+│   ├── Shoese Flower.ttf
+│   ├── Sophia Melanie.otf
+│   └── Souther Daleska demo version.otf
+├── missingligatures177
+│   ├── Abstract Settings demo.otf
+│   ├── Classical Aesthetics demo.otf
+│   ├── Coastline Classical demo.otf
+│   ├── Created Aesthetic demo.otf
+│   ├── Creates Presence demo.otf
+│   ├── Engaging Realities demo.otf
+│   ├── Fondness Romance demo.otf
+│   ├── Healthcare Resilience demo.otf
+│   ├── Radical Blending demo.otf
+│   ├── Realities Endlessly demo.otf
+│   ├── Rococo Aesthetic demo.otf
+│   └── Titanium Galleries demo.otf
+├── mustBeUppercase
+│   ├── Children Interests demo.otf
+│   └── Intricate Narrative demo.otf
+└── seesawcase
+    ├── Harquil.ttf
+    ├── Sidethree.otf
+    └── Zigzageo.ttf
+
+
 ### Glyph Viewer
 only 1-9, basic latin and ligatures
 
