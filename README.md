@@ -143,13 +143,16 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 - choose own custom folder for own fonts, refresh for added fonts, must restart app though to clear out removed fonts
 - custom folder can have subfolders although all fonts will be sorted alphabetically
 - 500+ LUTs (color presets) applied to subtitles and existing color palettes, hidden to right of Stats tab
+
+![](images/fonts.jpg)
+
 - download 38 demo fonts or link is provided for each one within app 
 - custom fonts can all be in one directory within various subdirectories, it recursively loads the fonts
 - ![customfonts.zip 2MB](https://github.com/mrfragger/substitcher/raw/main/images/customfonts.zip)
 - in font panel set custom folder to this one and all fonts will be loaded
 
-![](images/fonts.jpg)
 ```bash
+│  customfonts
 ├── alternates
 │   ├── Aloevera.ttf
 │   ├── Bentley Vintage.otf
