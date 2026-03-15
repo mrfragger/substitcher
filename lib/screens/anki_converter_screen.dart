@@ -18,7 +18,6 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
   static const int MAX_PREVIEW_ROWS = 200;
   static const int MAX_PREVIEW_COLS = 120; 
   final AnkiService _ankiService = AnkiService();
-  final FFmpegService _ffmpegService = FFmpegService();
   final ScrollController _scrollController = ScrollController();
   
   bool _isProcessing = false;
@@ -31,14 +30,12 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
   int _extractedAudioCount = 0;
   int _totalNotes = 0;
   
-  // Configuration
   int _audioRepetitions = 4;
   bool _sampleMode = true;
   String _author = ''; 
   String _title = '';
   int _bitrate =  16;
   
-  // Column selection
   List<String> _availableColumns = [];
   int? _frontColumn;
   int? _backColumn;
@@ -50,6 +47,11 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
   
   List<Map<String, String>> _previewRows = [];
   String? _csvPath;
+
+  bool _isTransliterating = false;
+  String _transliterationStatus = '';
+  double _transliterationProgress = 0.0;
+  final List<String> _transliterationLog = [];
 
   @override
   void dispose() {
@@ -130,6 +132,249 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
         );
       }
     }
+  }
+
+  String get _pythonExecutable {
+    if (Platform.isWindows) return 'python';
+    return 'python3'; // macOS and Linux
+  }
+
+  Future<void> _runHiraganaTransliteration() async {
+    final result = await FilePicker.platform.getDirectoryPath(
+      dialogTitle: 'Select Directory to Transliterate VTT Files',
+    );
+    
+    if (result == null) return;
+  
+    final tempDir = Directory.systemTemp;
+    final scriptFile = File('${tempDir.path}/vtt_to_hiragana.py');
+  await scriptFile.writeAsString(r'''
+import pykakasi, sys, os, re
+from pathlib import Path
+
+kks = pykakasi.kakasi()
+
+def has_japanese(text):
+    return bool(re.search(r'[\u3040-\u9fff]', text))
+
+def convert_line(line):
+    result = kks.convert(line)
+    output = ''
+    for item in result:
+        if all('\u30A0' <= c <= '\u30FF' for c in item['orig'] if c.strip()):
+            output += item['kana']
+        else:
+            output += item['hira']
+    return output
+
+def convert_vtt(input_path, output_path):
+    with open(input_path, 'r', encoding='utf-8') as f:
+        lines = f.readlines()
+    with open(output_path, 'w', encoding='utf-8') as out:
+        for line in lines:
+            stripped = line.rstrip('\n')
+            if (stripped.startswith('WEBVTT') or
+                '-->' in stripped or
+                stripped.strip() == '' or
+                stripped.strip().isdigit()):
+                out.write(line)
+            elif not has_japanese(stripped):
+                out.write('\u200b\n')
+            else:
+                out.write(convert_line(stripped) + '\n')
+
+root = Path(sys.argv[1])
+vtt_files = [
+    p for p in root.rglob('*.vtt')
+    if not p.stem.endswith('_hiragana')
+]
+
+print(f'Found {len(vtt_files)} VTT files', flush=True)
+
+for i, vtt in enumerate(vtt_files):
+    output = vtt.parent / f'{vtt.stem}_hiragana.vtt'
+    try:
+        convert_vtt(vtt, output)
+        print(f'OK:{vtt.name}', flush=True)
+    except Exception as e:
+        print(f'ERR:{vtt.name}:{e}', flush=True)
+
+print('DONE', flush=True)
+''');
+  
+    setState(() {
+      _isTransliterating = true;
+      _transliterationStatus = 'Starting...';
+      _transliterationProgress = 0.0;
+      _transliterationLog.clear();
+    });
+  
+    try {
+      final checkResult = await Process.run(_pythonExecutable, ['-c', 'import pykakasi']);
+      if (checkResult.exitCode != 0) {
+        setState(() => _transliterationStatus = 'Installing pykakasi...');
+        final pipResult = await Process.run(
+          Platform.isWindows ? 'pip' : 'pip3',
+          ['install', 'pykakasi'],
+        );
+        if (pipResult.exitCode != 0) {
+          throw Exception('pykakasi not installed. Run: pip install pykakasi');
+        }
+      }
+      
+      final process = await Process.start(_pythonExecutable, [scriptFile.path, result]);
+  
+      int total = 0;
+      int done = 0;
+  
+      process.stdout
+          .transform(const SystemEncoding().decoder)
+          .transform(const LineSplitter())
+          .listen((line) {
+        if (mounted) {
+          setState(() {
+            if (line.startsWith('Found ')) {
+              final match = RegExp(r'Found (\d+)').firstMatch(line);
+              if (match != null) total = int.parse(match.group(1)!);
+              _transliterationStatus = line;
+            } else if (line.startsWith('OK:')) {
+              done++;
+              final filename = line.substring(3);
+              _transliterationLog.add('✓ $filename');
+              _transliterationStatus = 'Transliterating to hiragana $done/$total...';
+              _transliterationProgress = total > 0 ? done / total : 0;
+            } else if (line.startsWith('ERR:')) {
+              final filename = line.substring(4);
+              _transliterationLog.add('✗ $filename');
+            } else if (line == 'DONE') {
+              _transliterationStatus = 'Complete! $done/$total files converted.';
+              _transliterationProgress = 1.0;
+              _isTransliterating = false;
+            }
+          });
+        }
+      });
+  
+      process.stderr
+          .transform(const SystemEncoding().decoder)
+          .transform(const LineSplitter())
+          .listen((line) {
+        if (mounted && line.isNotEmpty) {
+          setState(() => _transliterationLog.add('! $line'));
+        }
+      });
+  
+      await process.exitCode;
+  
+    } catch (e) {
+      setState(() {
+        _isTransliterating = false;
+        _transliterationStatus = 'Error: $e';
+      });
+    } finally {
+      if (await scriptFile.exists()) await scriptFile.delete();
+    }
+  }
+
+  Widget _buildHiraganaSection() {
+    return Container(
+      padding: const EdgeInsets.all(20),
+      decoration: BoxDecoration(
+        color: const Color(0xFF2A2A2A),
+        borderRadius: BorderRadius.circular(12),
+        border: Border.all(color: Colors.white12),
+      ),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Row(
+            children: [
+              const Icon(Icons.translate, color: Colors.pinkAccent, size: 20),
+              const SizedBox(width: 8),
+              const Text(
+                'Transliterate Japanese VTT to Hiragana',
+                style: TextStyle(
+                  color: Colors.white,
+                  fontSize: 16,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+            ],
+          ),
+          const SizedBox(height: 6),
+          const Text(
+            'Recursively converts all .vtt files in a directory to hiragana, '
+            'retaining katakana. Outputs filename_hiragana.vtt alongside each original to be used as a Secondary sub.',
+            style: TextStyle(color: Colors.white54, fontSize: 12),
+          ),
+          const SizedBox(height: 12),
+          ElevatedButton.icon(
+            onPressed: _isTransliterating ? null : _runHiraganaTransliteration,
+            icon: const Icon(Icons.folder_open, size: 18),
+            label: const Text('Select Directory'),
+            style: ElevatedButton.styleFrom(
+              backgroundColor: Colors.pinkAccent,
+              foregroundColor: Colors.white,
+            ),
+          ),
+          if (_isTransliterating || _transliterationProgress > 0) ...[
+            const SizedBox(height: 16),
+            Row(
+              children: [
+                if (_isTransliterating)
+                  const SizedBox(
+                    width: 14,
+                    height: 14,
+                    child: CircularProgressIndicator(
+                      strokeWidth: 2,
+                      color: Colors.pinkAccent,
+                    ),
+                  ),
+                if (_isTransliterating) const SizedBox(width: 8),
+                Expanded(
+                  child: Text(
+                    _transliterationStatus,
+                    style: const TextStyle(color: Colors.white70, fontSize: 12),
+                  ),
+                ),
+              ],
+            ),
+            const SizedBox(height: 8),
+            LinearProgressIndicator(
+              value: _transliterationProgress,
+              backgroundColor: Colors.white12,
+              valueColor: const AlwaysStoppedAnimation<Color>(Colors.pinkAccent),
+              minHeight: 6,
+            ),
+            if (_transliterationLog.isNotEmpty) ...[
+              const SizedBox(height: 10),
+              Container(
+                height: 120,
+                padding: const EdgeInsets.all(8),
+                decoration: BoxDecoration(
+                  color: Colors.black26,
+                  borderRadius: BorderRadius.circular(8),
+                ),
+                child: ListView.builder(
+                  itemCount: _transliterationLog.length,
+                  itemBuilder: (context, index) => SelectableText(
+                    _transliterationLog[index],
+                    style: TextStyle(
+                      fontSize: 11,
+                      color: _transliterationLog[index].startsWith('✓')
+                          ? Colors.greenAccent
+                          : _transliterationLog[index].startsWith('✗')
+                              ? Colors.redAccent
+                              : Colors.orange,
+                    ),
+                  ),
+                ),
+              ),
+            ],
+          ],
+        ],
+      ),
+    );
   }
   
   Future<void> _startConversion() async {
@@ -306,6 +551,9 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
                 controller: _scrollController,
                 child: Column(
                   children: [
+                  _buildHiraganaSection(),
+                  const SizedBox(height: 24),
+
                     _buildApkgFileSection(),
                     const SizedBox(height: 24),
                     

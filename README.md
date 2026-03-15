@@ -286,6 +286,13 @@ down to 13MiB with 4x repeating audio 1h 57m\
 ![Spanish - 599 Verb Conjugations by Frequency.zip](https://github.com/mrfragger/substitcher/raw/main/images/Spanish_-_599_Verb_Conjugations_by_Frequency.zip)\
 try Pause mode 2s, Hide Chapter Title, Shuffle 
 
+### Transliterate Japanese vtt
+- once transliterated to all hiragana and keeping original katakana use as a secondary subtitle on top
+- requires python (pip3 install pykakasi)
+- filename.vtt gets filename_hiragana.vtt
+
+![](images/transliteratejapanese.jpg)
+
 ### Translate vtt Subtitles
 - translate with TranslateGemma
 - choose on vtt file and translation into 16 different langauges simutaneously
