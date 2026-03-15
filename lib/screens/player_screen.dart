@@ -1145,6 +1145,15 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   
   Future<void> _loadSubtitles(String audiobookPath) async {
     try {
+      setState(() {
+        _primarySubtitlePath = null;
+        _secondarySubtitleFilePath = null;
+        _secondarySubtitlePath = null;
+        _secondarySubtitles = [];
+        _secondarySubtitleText = '';
+        _currentSecondarySubtitleIndex = null;
+      });
+
       final dir = path.dirname(audiobookPath);
       final audiobookBase = path.basenameWithoutExtension(audiobookPath);
       final vttDir = path.join(dir, '${audiobookBase}_vtt');
