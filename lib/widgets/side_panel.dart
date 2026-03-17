@@ -1564,8 +1564,26 @@ class SidePanel extends StatelessWidget {
                  final actualIndex = availableLuts.indexOf(lut);
                  final isSelected = selectedLutIndex == actualIndex;
                  final isFavorite = favoriteLuts.contains(lut.name);
-   
+
+                 final itemKey = isSelected ? GlobalKey() : null;
+                 
+                 if (isSelected) {
+                   WidgetsBinding.instance.addPostFrameCallback((_) {
+                     if (itemKey!.currentContext != null &&
+                         colorScrollController.hasClients &&
+                         colorScrollController.position.pixels == 0.0) {
+                       Scrollable.ensureVisible(
+                         itemKey.currentContext!,
+                         duration: const Duration(milliseconds: 400),
+                         curve: Curves.easeOut,
+                         alignment: 0.3,
+                       );
+                     }
+                   });
+                 }
+                 
                  return InkWell(
+                   key: itemKey,
                    onTap: () => onLutSelected(lut, actualIndex),
                    child: Container(
                      margin: const EdgeInsets.only(bottom: 8),
