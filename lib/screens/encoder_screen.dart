@@ -2681,8 +2681,6 @@ class _EncoderScreenState extends State<EncoderScreen> {
                           label: const Text('Denoise Audio'),
                           style: ElevatedButton.styleFrom(
                             padding: const EdgeInsets.all(16),
-                            backgroundColor: Colors.green.shade700,
-                            foregroundColor: Colors.white,
                           ),
                         ),
                       ),
@@ -2701,8 +2699,6 @@ class _EncoderScreenState extends State<EncoderScreen> {
                           label: const Text('Translate vtt'),
                           style: ElevatedButton.styleFrom(
                             padding: const EdgeInsets.all(16),
-                            backgroundColor: Colors.teal,
-                            foregroundColor: Colors.white,
                           ),
                         ),
                       ),

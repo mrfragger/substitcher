@@ -609,22 +609,8 @@ print('DONE', flush=True)
             ),
             
             const SizedBox(height: 16),
-            
-            _buildConversionControls(),
-            
-            const SizedBox(height: 16),
-            
-            Align(
-              alignment: Alignment.bottomRight,
-              child: ElevatedButton(
-                onPressed: () => Navigator.pop(context),
-                style: ElevatedButton.styleFrom(
-                  padding: const EdgeInsets.symmetric(horizontal: 32, vertical: 16),
-                  textStyle: const TextStyle(fontSize: 16),
-                ),
-                child: const Text('Close'),
-              ),
-            ),
+                                    
+                        _buildConversionControls(),
           ],
         ),
       ),
@@ -1600,7 +1586,7 @@ print('DONE', flush=True)
         _backColumn != null &&
         _audioColumn != null &&
         !_isProcessing;
-
+  
     return Column(
       children: [
         Row(
@@ -1642,6 +1628,15 @@ print('DONE', flush=True)
                 ),
               ),
             ],
+            const SizedBox(width: 16),
+            ElevatedButton(
+              onPressed: () => Navigator.pop(context),
+              style: ElevatedButton.styleFrom(
+                padding: const EdgeInsets.symmetric(horizontal: 32, vertical: 20),
+                textStyle: const TextStyle(fontSize: 16),
+              ),
+              child: const Text('Close'),
+            ),
           ],
         ),
         if (_lastProcessingTime != null && !_isProcessing) ...[

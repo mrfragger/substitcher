@@ -695,20 +695,6 @@ List<String> _availableAudiobooks = [];
             ),
             
             _buildTranscriptionControls(),
-            
-            const SizedBox(height: 16),
-            
-            Align(
-              alignment: Alignment.bottomRight,
-              child: ElevatedButton(
-                onPressed: () => Navigator.pop(context),
-                style: ElevatedButton.styleFrom(
-                  padding: const EdgeInsets.symmetric(horizontal: 32, vertical: 16),
-                  textStyle: const TextStyle(fontSize: 16),
-                ),
-                child: const Text('Close'),
-              ),
-            ),
           ],
         ),
       ),
@@ -1560,6 +1546,15 @@ List<String> _availableAudiobooks = [];
                 ),
               ),
             ],
+            const SizedBox(width: 16),
+            ElevatedButton(
+              onPressed: () => Navigator.pop(context),
+              style: ElevatedButton.styleFrom(
+                padding: const EdgeInsets.symmetric(horizontal: 32, vertical: 20),
+                textStyle: const TextStyle(fontSize: 16),
+              ),
+              child: const Text('Close'),
+            ),
           ],
         ),
         if (_lastTranscriptionTime != null && !_isTranscribing) ...[
