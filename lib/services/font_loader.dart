@@ -6,9 +6,11 @@ import 'package:path/path.dart' as path;
 class CustomFontLoader {
   static final Map<String, String> _loadedFonts = {};
   static final Set<String> _customFonts = {};
+  static final Set<String> _customFonts2 = {};
   
   static List<String> get loadedFonts => _loadedFonts.keys.toList()..sort();
   static List<String> get customFonts => _customFonts.toList()..sort();
+  static List<String> get customFonts2 => _customFonts2.toList()..sort();
 
   static Future<void> loadFonts() async {
     try {
@@ -23,7 +25,7 @@ class CustomFontLoader {
     }
   }
 
-  static Future<void> loadCustomFonts(String directory) async {
+  static Future<void> loadCustomFonts(String directory, {int slot = 1}) async {
     try {
       final dir = Directory(directory);
       final fontFiles = <File>[];
@@ -36,7 +38,6 @@ class CustomFontLoader {
           }
         }
       }
-      
       
       for (final fontFile in fontFiles) {
         try {
@@ -52,7 +53,11 @@ class CustomFontLoader {
           await fontLoader.load();
           
           _loadedFonts[fontName] = fontFile.path;
-          _customFonts.add(fontName);
+          if (slot == 2) {
+            _customFonts2.add(fontName);
+          } else {
+            _customFonts.add(fontName);
+          }
           
         } catch (e) {
           print('Error loading ${path.basename(fontFile.path)}: $e');
@@ -62,6 +67,20 @@ class CustomFontLoader {
     } catch (e) {
       print('Error loading custom fonts: $e');
       rethrow;
+    }
+  }
+  
+  static void clearCustomFonts({int slot = 1}) {
+    if (slot == 2) {
+      for (final fontName in _customFonts2) {
+        _loadedFonts.remove(fontName);
+      }
+      _customFonts2.clear();
+    } else {
+      for (final fontName in _customFonts) {
+        _loadedFonts.remove(fontName);
+      }
+      _customFonts.clear();
     }
   }
 

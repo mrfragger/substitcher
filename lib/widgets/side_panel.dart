@@ -81,6 +81,9 @@ class SidePanel extends StatelessWidget {
   final Function(String, String?, String?) onCategorySelected;
   final String? customFontDirectory;
   final VoidCallback onSetCustomFontDirectory;
+  final String? customFontDirectory2;
+  final VoidCallback onSetCustomFontDirectory2;
+  final VoidCallback onRefreshCustomFonts2;
   final List<String> playlistDirectories;
   final int? activePlaylistIndex;
   final VoidCallback onAddPlaylistDirectory;
@@ -252,6 +255,9 @@ class SidePanel extends StatelessWidget {
     required this.onCategorySelected,
     required this.customFontDirectory,
     required this.onSetCustomFontDirectory,
+    required this.customFontDirectory2,
+    required this.onSetCustomFontDirectory2,
+    required this.onRefreshCustomFonts2,    
     required this.playlistDirectories,
     required this.activePlaylistIndex,
     required this.onAddPlaylistDirectory,
@@ -2376,10 +2382,13 @@ class SidePanel extends StatelessWidget {
         if (selectedMainCategory == FontCategory.favorites) ...[
           ..._buildFavoritesTree(),
         ],
-        if (customFontDirectory != null) ...[
+        if (customFontDirectory != null || customFontDirectory2 != null) ...[
           const Divider(color: Colors.white24),
-          _buildCategoryButton('custom', FontCategory.custom, null, null),
         ],
+        if (customFontDirectory != null)
+          _buildCategoryButton('custom1', FontCategory.custom, null, null),
+        if (customFontDirectory2 != null)
+          _buildCategoryButton('custom2', FontCategory.custom2, null, null),
         const Divider(color: Colors.white24),
         Padding(
           padding: const EdgeInsets.symmetric(vertical: 8),
@@ -2388,18 +2397,11 @@ class SidePanel extends StatelessWidget {
             children: [
               const Text(
                 'Automatic Conversion',
-                style: TextStyle(
-                  color: Colors.white70,
-                  fontSize: 13,
-                  fontWeight: FontWeight.bold,
-                ),
+                style: TextStyle(color: Colors.white70, fontSize: 13, fontWeight: FontWeight.bold),
               ),
               const SizedBox(height: 8),
               CheckboxListTile(
-                title: const Text(
-                  'alternates',
-                  style: TextStyle(color: Colors.white, fontSize: 13),
-                ),
+                title: const Text('alternates', style: TextStyle(color: Colors.white, fontSize: 13)),
                 value: autoConvertAlternates,
                 onChanged: onAutoConvertAlternatesChanged,
                 activeColor: Colors.deepPurple,
@@ -2407,10 +2409,7 @@ class SidePanel extends StatelessWidget {
                 dense: true,
               ),
               CheckboxListTile(
-                title: const Text(
-                  'missing',
-                  style: TextStyle(color: Colors.white, fontSize: 13),
-                ),
+                title: const Text('missing', style: TextStyle(color: Colors.white, fontSize: 13)),
                 value: autoConvertMissing,
                 onChanged: onAutoConvertMissingChanged,
                 activeColor: Colors.deepPurple,
@@ -2418,42 +2417,89 @@ class SidePanel extends StatelessWidget {
                 dense: true,
               ),
               const SizedBox(height: 8),
-              ElevatedButton.icon(
-                onPressed: onSetCustomFontDirectory,
-                icon: const Icon(Icons.folder, size: 16),
-                label: const Text('Set Font Directory'),
-                style: ElevatedButton.styleFrom(
-                  padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 12),
-                  alignment: Alignment.centerLeft,
-                ),
-              ),
-              if (customFontDirectory != null) ...[
-                const SizedBox(height: 4),
-                Row(
-                  children: [
-                    Expanded(
-                      child: Tooltip(
-                        message: shortenPath(customFontDirectory!),
-                        waitDuration: const Duration(milliseconds: 500),
-                        child: Padding(
-                          padding: const EdgeInsets.only(left: 8),
-                          child: Text(
-                            path.basename(customFontDirectory!),
-                            style: const TextStyle(color: Colors.white54, fontSize: 11),
-                            maxLines: 1,
-                            overflow: TextOverflow.ellipsis,
-                          ),
-                        ),
+              // Slot 1
+              Row(
+                children: [
+                  Expanded(
+                    child: ElevatedButton.icon(
+                      onPressed: onSetCustomFontDirectory,
+                      icon: const Icon(Icons.folder, size: 16),
+                      label: const Text('Set Font Dir 1'),
+                      style: ElevatedButton.styleFrom(
+                        padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 12),
+                        alignment: Alignment.centerLeft,
                       ),
                     ),
+                  ),
+                  if (customFontDirectory != null) ...[
+                    const SizedBox(width: 8),
                     IconButton(
                       icon: const Icon(Icons.refresh, color: Colors.white70, size: 16),
                       onPressed: onRefreshCustomFonts,
-                      tooltip: 'Refresh fonts',
+                      tooltip: 'Refresh custom1 fonts',
                       padding: EdgeInsets.zero,
                       constraints: const BoxConstraints(),
                     ),
                   ],
+                ],
+              ),
+              if (customFontDirectory != null) ...[
+                const SizedBox(height: 4),
+                Tooltip(
+                  message: shortenPath(customFontDirectory!),
+                  waitDuration: const Duration(milliseconds: 500),
+                  child: Padding(
+                    padding: const EdgeInsets.only(left: 8),
+                    child: Text(
+                      path.basename(customFontDirectory!),
+                      style: const TextStyle(color: Colors.white54, fontSize: 11),
+                      maxLines: 1,
+                      overflow: TextOverflow.ellipsis,
+                    ),
+                  ),
+                ),
+              ],
+              const SizedBox(height: 8),
+              // Slot 2
+              Row(
+                children: [
+                  Expanded(
+                    child: ElevatedButton.icon(
+                      onPressed: onSetCustomFontDirectory2,
+                      icon: const Icon(Icons.folder, size: 16),
+                      label: const Text('Set Font Dir 2'),
+                      style: ElevatedButton.styleFrom(
+                        padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 12),
+                        alignment: Alignment.centerLeft,
+                      ),
+                    ),
+                  ),
+                  if (customFontDirectory2 != null) ...[
+                    const SizedBox(width: 8),
+                    IconButton(
+                      icon: const Icon(Icons.refresh, color: Colors.white70, size: 16),
+                      onPressed: onRefreshCustomFonts2,
+                      tooltip: 'Refresh custom2 fonts',
+                      padding: EdgeInsets.zero,
+                      constraints: const BoxConstraints(),
+                    ),
+                  ],
+                ],
+              ),
+              if (customFontDirectory2 != null) ...[
+                const SizedBox(height: 4),
+                Tooltip(
+                  message: shortenPath(customFontDirectory2!),
+                  waitDuration: const Duration(milliseconds: 500),
+                  child: Padding(
+                    padding: const EdgeInsets.only(left: 8),
+                    child: Text(
+                      path.basename(customFontDirectory2!),
+                      style: const TextStyle(color: Colors.white54, fontSize: 11),
+                      maxLines: 1,
+                      overflow: TextOverflow.ellipsis,
+                    ),
+                  ),
                 ),
               ],
             ],

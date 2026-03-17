@@ -5,6 +5,7 @@ class FontCategory {
   static const String free = 'free';
   static const String favorites = 'favorites';
   static const String custom = 'custom';
+  static const String custom2 = 'custom2';
   
   // Sub-categories
   static const String ligatures = 'ligatures';

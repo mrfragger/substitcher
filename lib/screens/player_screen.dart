@@ -212,6 +212,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   int _selectedFontIndex = -1;
   final ScrollController _fontScrollController = ScrollController();
   String? _customFontDirectory;
+  String? _customFontDirectory2;
   String _selectedMainCategory = 'all';
   String? _selectedSubCategory;
   String? _selectedStudio;
@@ -1280,6 +1281,8 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       fontsToShow = _favoriteFonts.toList()..sort();
     } else if (_selectedMainCategory == FontCategory.custom) {
       fontsToShow = CustomFontLoader.customFonts;
+    } else if (_selectedMainCategory == FontCategory.custom2) {
+      fontsToShow = CustomFontLoader.customFonts2;
     } else if (_selectedStudio != null) {
       fontsToShow = FontDatabase.getFontsByPath(
         _selectedMainCategory,
@@ -2986,16 +2989,33 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   void _refreshCustomFonts() async {
     if (_customFontDirectory == null) return;
     
-    CustomFontLoader.customFonts.clear();
-    
-    await CustomFontLoader.loadCustomFonts(_customFontDirectory!);
+    CustomFontLoader.clearCustomFonts(slot: 1);
+    await CustomFontLoader.loadCustomFonts(_customFontDirectory!, slot: 1);
     
     setState(() {});
     
     if (mounted) {
       ScaffoldMessenger.of(context).showSnackBar(
         SnackBar(
-          content: Text('Loaded ${CustomFontLoader.customFonts.length} custom fonts'),
+          content: Text('Loaded ${CustomFontLoader.customFonts.length} custom1 fonts'),
+          duration: const Duration(seconds: 2),
+        ),
+      );
+    }
+  }
+  
+  void _refreshCustomFonts2() async {
+    if (_customFontDirectory2 == null) return;
+    
+    CustomFontLoader.clearCustomFonts(slot: 2);
+    await CustomFontLoader.loadCustomFonts(_customFontDirectory2!, slot: 2);
+    
+    setState(() {});
+    
+    if (mounted) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(
+          content: Text('Loaded ${CustomFontLoader.customFonts2.length} custom2 fonts'),
           duration: const Duration(seconds: 2),
         ),
       );
@@ -3351,19 +3371,42 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     final result = await FilePicker.platform.getDirectoryPath();
     if (result == null) return;
     
-    CustomFontLoader.customFonts.clear();
+    CustomFontLoader.clearCustomFonts(slot: 1);
     
     setState(() {
       _customFontDirectory = result;
     });
     final prefs = await SharedPreferences.getInstance();
     await prefs.setString('customFontDirectory', result);
-    await CustomFontLoader.loadCustomFonts(result);
+    await CustomFontLoader.loadCustomFonts(result, slot: 1);
     setState(() {});
     if (mounted) {
       ScaffoldMessenger.of(context).showSnackBar(
         SnackBar(
-          content: Text('Loaded ${CustomFontLoader.customFonts.length} custom fonts. Restart to fully apply.'),
+          content: Text('Loaded ${CustomFontLoader.customFonts.length} custom1 fonts. Restart to fully apply.'),
+          duration: const Duration(seconds: 3),
+        ),
+      );
+    }
+  }
+  
+  Future<void> _setCustomFontDirectory2() async {
+    final result = await FilePicker.platform.getDirectoryPath();
+    if (result == null) return;
+    
+    CustomFontLoader.clearCustomFonts(slot: 2);
+    
+    setState(() {
+      _customFontDirectory2 = result;
+    });
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setString('customFontDirectory2', result);
+    await CustomFontLoader.loadCustomFonts(result, slot: 2);
+    setState(() {});
+    if (mounted) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(
+          content: Text('Loaded ${CustomFontLoader.customFonts2.length} custom2 fonts. Restart to fully apply.'),
           duration: const Duration(seconds: 3),
         ),
       );
@@ -3372,10 +3415,17 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   
   Future<void> _loadCustomFontDirectory() async {
     final prefs = await SharedPreferences.getInstance();
+    
     final savedDir = prefs.getString('customFontDirectory');
     if (savedDir != null && await Directory(savedDir).exists()) {
       _customFontDirectory = savedDir;
-      await CustomFontLoader.loadCustomFonts(savedDir);
+      await CustomFontLoader.loadCustomFonts(savedDir, slot: 1);
+    }
+    
+    final savedDir2 = prefs.getString('customFontDirectory2');
+    if (savedDir2 != null && await Directory(savedDir2).exists()) {
+      _customFontDirectory2 = savedDir2;
+      await CustomFontLoader.loadCustomFonts(savedDir2, slot: 2);
     }
   }
 
@@ -7112,6 +7162,9 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                   },
                   customFontDirectory: _customFontDirectory,
                   onSetCustomFontDirectory: _setCustomFontDirectory,
+                  customFontDirectory2: _customFontDirectory2,
+                  onSetCustomFontDirectory2: _setCustomFontDirectory2,
+                  onRefreshCustomFonts2: _refreshCustomFonts2,
                   playlistDirectories: _playlistDirectories,
                   activePlaylistIndex: _activePlaylistIndex,
                   onAddPlaylistDirectory: _addPlaylistDirectory,
