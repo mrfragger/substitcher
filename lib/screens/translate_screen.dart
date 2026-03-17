@@ -1072,7 +1072,7 @@ class _TranslateScreenState extends State<TranslateScreen> {
         _service.selectedLanguages.isNotEmpty &&
         _serverRunning &&
         !_isTranslating;
-
+  
     return Row(children: [
       Expanded(
         child: ElevatedButton.icon(
@@ -1088,63 +1088,72 @@ class _TranslateScreenState extends State<TranslateScreen> {
         ),
       ),
       if (_isTranslating) ...[
-            const SizedBox(width: 12),
-            ElevatedButton.icon(
-              onPressed: () async {
-                if (_service.paused) {
-                  if (_service.unloaded) {
-                    setState(() {});
-                    await _service.resumeAndReload();
-                  } else {
-                    _service.resumeTranslation();
-                  }
-                } else {
-                  _service.pauseTranslation();
-                }
+        const SizedBox(width: 12),
+        ElevatedButton.icon(
+          onPressed: () async {
+            if (_service.paused) {
+              if (_service.unloaded) {
                 setState(() {});
-              },
-              icon: Icon(_service.paused ? Icons.play_arrow : Icons.pause, size: 22),
-              label: Text(
-                _service.paused ? 'Resume' : 'Pause',
-                style: const TextStyle(fontSize: 16),
-              ),
-              style: ElevatedButton.styleFrom(
-                backgroundColor: _service.paused ? Colors.green[700] : Colors.amber[700],
-                foregroundColor: Colors.white,
-                padding: const EdgeInsets.symmetric(vertical: 18, horizontal: 28),
-              ),
+                await _service.resumeAndReload();
+              } else {
+                _service.resumeTranslation();
+              }
+            } else {
+              _service.pauseTranslation();
+            }
+            setState(() {});
+          },
+          icon: Icon(_service.paused ? Icons.play_arrow : Icons.pause, size: 22),
+          label: Text(
+            _service.paused ? 'Resume' : 'Pause',
+            style: const TextStyle(fontSize: 16),
+          ),
+          style: ElevatedButton.styleFrom(
+            backgroundColor: _service.paused ? Colors.green[700] : Colors.amber[700],
+            foregroundColor: Colors.white,
+            padding: const EdgeInsets.symmetric(vertical: 18, horizontal: 28),
+          ),
+        ),
+        if (_service.paused && !_service.unloaded && !_service.translatingCurrentCue) ...[
+          const SizedBox(width: 12),
+          ElevatedButton.icon(
+            onPressed: () async {
+              await _service.pauseAndUnload();
+              setState(() {});
+            },
+            icon: const Icon(Icons.memory, size: 22),
+            label: const Text('Unload Model', style: TextStyle(fontSize: 16)),
+            style: ElevatedButton.styleFrom(
+              backgroundColor: Colors.deepOrange[700],
+              foregroundColor: Colors.white,
+              padding: const EdgeInsets.symmetric(vertical: 18, horizontal: 28),
             ),
-            if (_service.paused && !_service.unloaded && !_service.translatingCurrentCue) ...[  
-              const SizedBox(width: 12),
-              ElevatedButton.icon(
-                onPressed: () async {
-                  await _service.pauseAndUnload();
-                  setState(() {});
-                },
-                icon: const Icon(Icons.memory, size: 22),
-                label: const Text('Unload Model', style: TextStyle(fontSize: 16)),
-                style: ElevatedButton.styleFrom(
-                  backgroundColor: Colors.deepOrange[700],
-                  foregroundColor: Colors.white,
-                  padding: const EdgeInsets.symmetric(vertical: 18, horizontal: 28),
-                ),
-              ),
-            ],
-            const SizedBox(width: 12),
-            ElevatedButton.icon(
-              onPressed: () {
-                _service.cancelTranslation();
-                setState(() {});
-              },
-              icon: const Icon(Icons.stop, size: 22),
-              label: const Text('Cancel', style: TextStyle(fontSize: 16)),
-              style: ElevatedButton.styleFrom(
-                backgroundColor: Colors.red[700],
-                foregroundColor: Colors.white,
-                padding: const EdgeInsets.symmetric(vertical: 18, horizontal: 28),
-              ),
-            ),
-          ],
+          ),
+        ],
+        const SizedBox(width: 12),
+        ElevatedButton.icon(
+          onPressed: () {
+            _service.cancelTranslation();
+            setState(() {});
+          },
+          icon: const Icon(Icons.stop, size: 22),
+          label: const Text('Cancel', style: TextStyle(fontSize: 16)),
+          style: ElevatedButton.styleFrom(
+            backgroundColor: Colors.red[700],
+            foregroundColor: Colors.white,
+            padding: const EdgeInsets.symmetric(vertical: 18, horizontal: 28),
+          ),
+        ),
+      ],
+      const SizedBox(width: 12),
+      ElevatedButton(
+        onPressed: () => Navigator.pop(context),
+        style: ElevatedButton.styleFrom(
+          padding: const EdgeInsets.symmetric(horizontal: 32, vertical: 18),
+          textStyle: const TextStyle(fontSize: 16),
+        ),
+        child: const Text('Close'),
+      ),
     ]);
   }
 
