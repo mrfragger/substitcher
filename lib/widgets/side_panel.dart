@@ -589,7 +589,7 @@ class SidePanel extends StatelessWidget {
           mainAxisSize: MainAxisSize.min,
           children: [
             RichText(
-              text: _buildLabelWithUnderline(label, underlineIndex, isSpecialCollapsed),
+              text: _buildLabelWithShortcutColor(label, underlineIndex, isSpecialCollapsed),
             ),
             const SizedBox(height: 2),
             Text(
@@ -605,18 +605,16 @@ class SidePanel extends StatelessWidget {
     );
   }
 
-  TextSpan _buildLabelWithUnderline(String text, int underlineIndex, bool isSpecialCollapsed) {
+  TextSpan _buildLabelWithShortcutColor(String text, int? underlineIndex, bool isSpecialCollapsed) {
     final children = <TextSpan>[];
     final textColor = isSpecialCollapsed ? Colors.teal : Colors.white;
-    
+  
     for (int i = 0; i < text.length; i++) {
       children.add(TextSpan(
         text: text[i],
         style: TextStyle(
-          color: textColor,
-          decoration: i == underlineIndex ? TextDecoration.underline : null,
-          decorationColor: textColor,
-          decorationThickness: 1.5,
+          color: i == underlineIndex ? Colors.orange : textColor,
+          fontWeight: i == underlineIndex ? FontWeight.bold : FontWeight.normal,
         ),
       ));
     }
