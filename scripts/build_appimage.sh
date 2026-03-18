@@ -3,7 +3,7 @@
 set -e
 
 APP_NAME="substitcher"
-APP_VERSION="26.03.16"
+APP_VERSION="26.03.18"
 BUILD_DIR="build/linux/x64/release/bundle"
 APPDIR="AppDir"
 

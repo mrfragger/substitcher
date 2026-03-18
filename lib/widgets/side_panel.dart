@@ -6,6 +6,7 @@ import '../models/audiobook_metadata.dart';
 import '../models/color_palette.dart';
 import '../models/frequency_item.dart';
 import '../models/history_item.dart';
+import '../models/pause_mode.dart';
 import '../models/bookmark.dart';
 import '../models/font_category.dart';
 import '../models/lut_item.dart';
@@ -182,6 +183,9 @@ class SidePanel extends StatelessWidget {
   final Set<String> favoriteColorPalettes;
   final Function(String) onRemoveColorPaletteFavorite;
   final Function(String) onAddColorPaletteFavorite;
+  final ColorPaletteFilter colorCategoryFilter;
+  final Function(ColorPaletteFilter) onColorCategoryFilterChanged;
+
 
   final List<LutItem> availableLuts;
   final List<LutItem> Function() getFilteredLuts;
@@ -344,6 +348,8 @@ class SidePanel extends StatelessWidget {
     required this.favoriteColorPalettes,
     required this.onAddColorPaletteFavorite,
     required this.onRemoveColorPaletteFavorite,
+    required this.colorCategoryFilter,
+    required this.onColorCategoryFilterChanged,
     required this.onShowGlyphViewer,
     required this.availableLuts,
     required this.getFilteredLuts,
@@ -1305,204 +1311,228 @@ class SidePanel extends StatelessWidget {
     );
   }
 
- Widget _buildColorsList(BuildContext context) {
-   final filteredColors = getFilteredColors();
-   
-   return Column(
-     children: [
-       Padding(
-         padding: const EdgeInsets.all(16.0),
-         child: Column(
-           children: [
-             Row(
-               mainAxisAlignment: MainAxisAlignment.center,
-               children: [
-                 _buildColoringModeButton(ColoringMode.words, ' 1 Words', null),
-                 const SizedBox(width: 12),
-                 _buildColoringModeButton(ColoringMode.letters, '2 Letters', 'breaks on ligature fonts'),
-                 const SizedBox(width: 24),
-                 _buildColorFilterButton('3 All', 'all'),
-                 const SizedBox(width: 12),
-                 _buildColorFilterButton('4 Favorites (⇧R)', 'favorites'),
-                 if (selectedLutName != null) ...[
-                   const SizedBox(width: 24),
-                   Tooltip(
-                     message: 'Clear LUT',
-                     child: InkWell(
-                       onTap: () => onClearLut(),
-                       child: Container(
-                         padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 6),
-                         decoration: BoxDecoration(
-                           color: Colors.amber.withAlpha(30),
-                           borderRadius: BorderRadius.circular(6),
-                           border: Border.all(color: Colors.amber.withAlpha(100)),
-                         ),
-                         child: Text(
-                           '✦ $selectedLutName',
-                           style: const TextStyle(color: Colors.amber, fontSize: 12),
-                         ),
-                       ),
-                     ),
-                   ),
-                 ],
-               ],
-             ),
-           ],
-         ),
-       ),
-       const Divider(color: Colors.white24, height: 1),
-       Container(
-         padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 4),
-         color: Colors.black26,
-         child: Row(
-           children: [
-             const Text('Auto-cycle', style: TextStyle(color: Colors.white54, fontSize: 12)),
-             const SizedBox(width: 8),
-             DropdownButton<int>(
-               value: colorCycleInterval,
-               dropdownColor: const Color(0xFF2A2A2A),
-               style: const TextStyle(color: Colors.white70, fontSize: 12),
-               underline: const SizedBox(),
-               isDense: true,
-               items: [2, 3, 4, 6, 8, 10].map((n) =>
-                 DropdownMenuItem(value: n, child: Text('$n cues'))
-               ).toList(),
-               onChanged: (val) {
-                 if (val != null) onColorCycleIntervalChanged(val);
-               },
-             ),
-             const Spacer(),
-             Text(
-               colorCycleActive ? 'Cycling ↓' : 'Off',
-               style: TextStyle(
-                 color: colorCycleActive ? Colors.deepPurple[200] : Colors.white38,
-                 fontSize: 12,
-               ),
-             ),
-             const SizedBox(width: 8),
-             Switch(
-               value: colorCycleActive,
-               activeThumbColor: Colors.deepPurple,
-               materialTapTargetSize: MaterialTapTargetSize.shrinkWrap,
-               onChanged: (_) => onColorCycleToggled(),
-             ),
-           ],
-         ),
-       ),
-       if (filteredColors.isEmpty)
-         const Expanded(
-           child: Center(
-             child: Text(
-               'No favorite color palettes yet.\nPress ⇧R to add current palette.',
-               textAlign: TextAlign.center,
-               style: TextStyle(color: Colors.white54, fontSize: 12),
-             ),
-           ),
-         )
-       else
-         Expanded(
-           child: ListView.builder(
-             controller: colorScrollController,
-             padding: const EdgeInsets.all(16),
-             itemCount: filteredColors.length,
-             itemBuilder: (context, index) {
-               final palette = filteredColors[index];
-               final actualIndex = ColorPalette.presets.indexOf(palette);
-               final isSelected = selectedColorIndex == actualIndex;
-               final isFavorite = favoriteColorPalettes.contains(palette.name);
-               final showingFavorites = colorFilterMode == 'favorites';
-               
-               return InkWell(
-                 onTap: () => onColorPaletteSelected(palette, actualIndex),
-                 child: Container(
-                   margin: const EdgeInsets.only(bottom: 12),
-                   padding: const EdgeInsets.all(12),
-                   decoration: BoxDecoration(
-                     color: isSelected ? Colors.deepPurple.withAlpha(51) : Colors.black26,
-                     borderRadius: BorderRadius.circular(8),
-                     border: isSelected 
-                         ? Border.all(color: Colors.deepPurple, width: 2)
-                         : null,
-                   ),
-                   child: Row(
-                     children: [
-                       Expanded(
-                         child: Text(
-                           palette.name,
-                           style: TextStyle(
-                             color: isSelected ? Colors.purple[200] : Colors.white,
-                             fontSize: 14,
-                             fontWeight: isSelected ? FontWeight.bold : FontWeight.normal,
-                           ),
-                         ),
-                       ),
-                       const SizedBox(width: 12),
-                       if (palette.isSimplePreset)
-                         Container(
-                           width: 280,
-                           height: 20,
-                           decoration: BoxDecoration(
-                             color: parseColor(palette.colors[0]),
-                             border: Border.all(
-                               color: parseColor(palette.subShadowColor!),
-                               width: 4,
-                             ),
-                             borderRadius: BorderRadius.circular(4),
-                           ),
-                         )
-                       else
-                         ...palette.colors.map((color) => Container(
-                           width: 20,
-                           height: 20,
-                           margin: const EdgeInsets.only(left: 4),
-                           decoration: BoxDecoration(
-                             color: parseColor(color),
-                             borderRadius: BorderRadius.circular(4),
-                             border: Border.all(color: Colors.white24),
-                           ),
-                         )),
-                       if (palette.strokeColor != null)
-                         Container(
-                           width: 20,
-                           height: 20,
-                           margin: const EdgeInsets.only(left: 8),
-                           decoration: BoxDecoration(
-                             color: parseColor(palette.strokeColor!),
-                             borderRadius: BorderRadius.circular(4),
-                             border: Border.all(color: Colors.white60, width: 1.5),
-                           ),
-                         ),
-                       if (palette.shadowColor != null)
-                         Container(
-                           width: 20,
-                           height: 20,
-                           margin: const EdgeInsets.only(left: 4),
-                           decoration: BoxDecoration(
-                             color: parseColor(palette.shadowColor!),
-                             borderRadius: BorderRadius.circular(4),
-                             border: Border.all(color: Colors.white60, width: 1.5),
-                           ),
-                         ),
-                       if (showingFavorites) ...[
-                         const SizedBox(width: 12),
-                         IconButton(
-                           icon: const Icon(Icons.delete, color: Colors.white54, size: 18),
-                           onPressed: () => onRemoveColorPaletteFavorite(palette.name),
-                           tooltip: 'Remove from favorites',
-                           padding: EdgeInsets.zero,
-                           constraints: const BoxConstraints(),
-                         ),
-                       ],
-                     ],
-                   ),
-                 ),
-               );
-             },
-           ),
-         ),
-     ],
-   );
- }
+  Widget _buildColorsList(BuildContext context) {
+    final filteredColors = getFilteredColors();
+    
+    return Column(
+      children: [
+        Padding(
+          padding: const EdgeInsets.all(16.0),
+          child: Column(
+            children: [
+              Row(
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: [
+                  _buildColoringModeButton(ColoringMode.words, '1 Words', null),
+                  const SizedBox(width: 12),
+                  _buildColoringModeButton(ColoringMode.letters, '2 Letters', 'breaks on ligature fonts'),
+                  const SizedBox(width: 24),
+                  _buildColorFilterButton('3 All', 'all'),
+                  const SizedBox(width: 12),
+                  _buildColorFilterButton('4 Favorites (⇧R)', 'favorites'),
+                  if (selectedLutName != null) ...[
+                    const SizedBox(width: 24),
+                    Tooltip(
+                      message: 'Clear LUT',
+                      child: InkWell(
+                        onTap: () => onClearLut(),
+                        child: Container(
+                          padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 6),
+                          decoration: BoxDecoration(
+                            color: Colors.amber.withAlpha(30),
+                            borderRadius: BorderRadius.circular(6),
+                            border: Border.all(color: Colors.amber.withAlpha(100)),
+                          ),
+                          child: Text(
+                            '✦ $selectedLutName',
+                            style: const TextStyle(color: Colors.amber, fontSize: 12),
+                          ),
+                        ),
+                      ),
+                    ),
+                  ],
+                ],
+              ),
+            ],
+          ),
+        ),
+        const Divider(color: Colors.white24, height: 1),
+        Container(
+          padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 4),
+          color: Colors.black26,
+          child: Row(
+            children: [
+              const Text('Auto-cycle', style: TextStyle(color: Colors.white54, fontSize: 12)),
+              const SizedBox(width: 8),
+              DropdownButton<int>(
+                value: colorCycleInterval,
+                dropdownColor: const Color(0xFF2A2A2A),
+                style: const TextStyle(color: Colors.white70, fontSize: 12),
+                underline: const SizedBox(),
+                isDense: true,
+                items: [2, 3, 4, 6, 8, 10].map((n) =>
+                  DropdownMenuItem(value: n, child: Text('$n cues'))
+                ).toList(),
+                onChanged: (val) {
+                  if (val != null) onColorCycleIntervalChanged(val);
+                },
+              ),
+              const Spacer(),
+              Text(
+                colorCycleActive ? 'Cycling ↓' : 'Off',
+                style: TextStyle(
+                  color: colorCycleActive ? Colors.deepPurple[200] : Colors.white38,
+                  fontSize: 12,
+                ),
+              ),
+              const SizedBox(width: 8),
+              Switch(
+                value: colorCycleActive,
+                activeThumbColor: Colors.deepPurple,
+                materialTapTargetSize: MaterialTapTargetSize.shrinkWrap,
+                onChanged: (_) => onColorCycleToggled(),
+              ),
+              const SizedBox(width: 16),
+              const Text('Filter:', style: TextStyle(color: Colors.white54, fontSize: 12)),
+              const SizedBox(width: 8),
+              DropdownButton<ColorPaletteFilter>(
+                value: colorCategoryFilter,
+                dropdownColor: const Color(0xFF2A2A2A),
+                style: const TextStyle(color: Colors.white70, fontSize: 12),
+                underline: const SizedBox(),
+                isDense: true,
+                items: const [
+                  DropdownMenuItem(value: ColorPaletteFilter.all,          child: Text('All')),
+                  DropdownMenuItem(value: ColorPaletteFilter.twentyColors, child: Text('20 colors')),
+                  DropdownMenuItem(value: ColorPaletteFilter.twelveColors, child: Text('12 colors')),
+                  DropdownMenuItem(value: ColorPaletteFilter.same,         child: Text('same')),
+                  DropdownMenuItem(value: ColorPaletteFilter.three,        child: Text('three')),
+                  DropdownMenuItem(value: ColorPaletteFilter.fontWhite,    child: Text('font (white)')),
+                  DropdownMenuItem(value: ColorPaletteFilter.fontBlack,    child: Text('font (black)')),
+                  DropdownMenuItem(value: ColorPaletteFilter.borderWhite,  child: Text('border (white)')),
+                  DropdownMenuItem(value: ColorPaletteFilter.borderBlack,  child: Text('border (black)')),
+                ],
+                onChanged: (filter) {
+                  if (filter != null) onColorCategoryFilterChanged(filter);
+                },
+              ),
+            ],
+          ),
+        ),
+        if (filteredColors.isEmpty)
+          const Expanded(
+            child: Center(
+              child: Text(
+                'No favorite color palettes yet.\nPress ⇧R to add current palette.',
+                textAlign: TextAlign.center,
+                style: TextStyle(color: Colors.white54, fontSize: 12),
+              ),
+            ),
+          )
+        else
+          Expanded(
+            child: ListView.builder(
+              controller: colorScrollController,
+              padding: const EdgeInsets.all(16),
+              itemCount: filteredColors.length,
+              itemBuilder: (context, index) {
+                final palette = filteredColors[index];
+                final actualIndex = ColorPalette.presets.indexOf(palette);
+                final isSelected = selectedColorIndex == actualIndex;
+                final isFavorite = favoriteColorPalettes.contains(palette.name);
+                final showingFavorites = colorFilterMode == 'favorites';
+                
+                return InkWell(
+                  onTap: () => onColorPaletteSelected(palette, actualIndex),
+                  child: Container(
+                    margin: const EdgeInsets.only(bottom: 12),
+                    padding: const EdgeInsets.all(12),
+                    decoration: BoxDecoration(
+                      color: isSelected ? Colors.deepPurple.withAlpha(51) : Colors.black26,
+                      borderRadius: BorderRadius.circular(8),
+                      border: isSelected 
+                          ? Border.all(color: Colors.deepPurple, width: 2)
+                          : null,
+                    ),
+                    child: Row(
+                      children: [
+                        Expanded(
+                          child: Text(
+                            palette.name,
+                            style: TextStyle(
+                              color: isSelected ? Colors.purple[200] : Colors.white,
+                              fontSize: 14,
+                              fontWeight: isSelected ? FontWeight.bold : FontWeight.normal,
+                            ),
+                          ),
+                        ),
+                        const SizedBox(width: 12),
+                        if (palette.isSimplePreset)
+                          Container(
+                            width: 280,
+                            height: 20,
+                            decoration: BoxDecoration(
+                              color: parseColor(palette.colors[0]),
+                              border: Border.all(
+                                color: parseColor(palette.subShadowColor!),
+                                width: 4,
+                              ),
+                              borderRadius: BorderRadius.circular(4),
+                            ),
+                          )
+                        else
+                          ...palette.colors.map((color) => Container(
+                            width: 20,
+                            height: 20,
+                            margin: const EdgeInsets.only(left: 4),
+                            decoration: BoxDecoration(
+                              color: parseColor(color),
+                              borderRadius: BorderRadius.circular(4),
+                              border: Border.all(color: Colors.white24),
+                            ),
+                          )),
+                        if (palette.strokeColor != null)
+                          Container(
+                            width: 20,
+                            height: 20,
+                            margin: const EdgeInsets.only(left: 8),
+                            decoration: BoxDecoration(
+                              color: parseColor(palette.strokeColor!),
+                              borderRadius: BorderRadius.circular(4),
+                              border: Border.all(color: Colors.white60, width: 1.5),
+                            ),
+                          ),
+                        if (palette.shadowColor != null)
+                          Container(
+                            width: 20,
+                            height: 20,
+                            margin: const EdgeInsets.only(left: 4),
+                            decoration: BoxDecoration(
+                              color: parseColor(palette.shadowColor!),
+                              borderRadius: BorderRadius.circular(4),
+                              border: Border.all(color: Colors.white60, width: 1.5),
+                            ),
+                          ),
+                        if (showingFavorites) ...[
+                          const SizedBox(width: 12),
+                          IconButton(
+                            icon: const Icon(Icons.delete, color: Colors.white54, size: 18),
+                            onPressed: () => onRemoveColorPaletteFavorite(palette.name),
+                            tooltip: 'Remove from favorites',
+                            padding: EdgeInsets.zero,
+                            constraints: const BoxConstraints(),
+                          ),
+                        ],
+                      ],
+                    ),
+                  ),
+                );
+              },
+            ),
+          ),
+      ],
+    );
+  }
 
  Widget _buildLutsList(BuildContext context) {
      final filteredLuts = getFilteredLuts();

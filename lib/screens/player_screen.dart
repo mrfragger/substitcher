@@ -308,6 +308,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
 
   Set<String> _favoriteColorPalettes = {};
   String _colorFilterMode = 'favorites';
+  ColorPaletteFilter _colorFilter = ColorPaletteFilter.all;
 
   bool _blurShadowEnabled = false;
 
@@ -1306,11 +1307,40 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
 
   List<ColorPalette> _getFilteredColors() {
     List<ColorPalette> palettes = ColorPalette.presets;
-    
+  
+    switch (_colorFilter) {
+      case ColorPaletteFilter.all:
+        break;
+      case ColorPaletteFilter.twentyColors:
+        palettes = palettes.where((p) => p.colors.length == 20).toList();
+        break;
+      case ColorPaletteFilter.twelveColors:
+        palettes = palettes.where((p) => p.colors.length == 12).toList();
+        break;
+      case ColorPaletteFilter.same:
+        palettes = palettes.where((p) => p.name.startsWith('same')).toList();
+        break;
+      case ColorPaletteFilter.three:
+        palettes = palettes.where((p) => p.name.startsWith('three')).toList();
+        break;
+      case ColorPaletteFilter.fontWhite:
+        palettes = palettes.where((p) => p.name.startsWith('font (white)')).toList();
+        break;
+      case ColorPaletteFilter.fontBlack:
+        palettes = palettes.where((p) => p.name.startsWith('font (black)')).toList();
+        break;
+      case ColorPaletteFilter.borderWhite:
+        palettes = palettes.where((p) => p.name.startsWith('border (white)')).toList();
+        break;
+      case ColorPaletteFilter.borderBlack:
+        palettes = palettes.where((p) => p.name.startsWith('border (black)')).toList();
+        break;
+    }
+  
     if (_colorFilterMode == 'favorites') {
       palettes = palettes.where((p) => _favoriteColorPalettes.contains(p.name)).toList();
     }
-    
+  
     final excludeList = _excludeTerms.split(' ').where((t) => t.isNotEmpty).toList();
     return palettes.where((palette) {
       return _matchesSearch(palette.name, _searchQuery, excludeList);
@@ -6113,12 +6143,13 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     _fontCycleCueCounter = 0;
     final filteredFonts = _getFilteredFonts();
     if (filteredFonts.isEmpty) return;
+  
     setState(() {
-      _selectedFontIndex = (_selectedFontIndex + direction).clamp(0, filteredFonts.length - 1).toInt();
+      _selectedFontIndex = ((_selectedFontIndex + direction) % filteredFonts.length + filteredFonts.length) % filteredFonts.length;
       _selectedFont = filteredFonts[_selectedFontIndex];
     });
     _scrollToSelectedFont();
-    
+  
     if (_autoConvertAlternates && FontAlternatesData.hasFontAlternates(_selectedFont)) {
       setState(() {
         _conversionType = 'alternates';
@@ -7221,6 +7252,24 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                   favoriteColorPalettes: _favoriteColorPalettes,
                   onRemoveColorPaletteFavorite: _removeColorPaletteFromFavorites,
                   onAddColorPaletteFavorite: _addColorPaletteToFavorites,
+                  colorCategoryFilter: _colorFilter,
+                  onColorCategoryFilterChanged: (filter) {
+                    setState(() {
+                      _colorFilter = filter as ColorPaletteFilter;
+                      _colorCycleCueCounter = 0;
+                      final filtered = _getFilteredColors();
+                      if (filtered.isNotEmpty) {
+                        final newPalette = filtered.first;
+                        _selectedColorIndex = ColorPalette.presets.indexOf(newPalette);
+                        _applyColorPalette(newPalette);
+                      }
+                    });
+                    _colorScrollController.animateTo(
+                      0,
+                      duration: const Duration(milliseconds: 300),
+                      curve: Curves.easeOut,
+                    );
+                  },
                   onClearLut: () {
                     setState(() {
                       _selectedLutIndex = -1;
