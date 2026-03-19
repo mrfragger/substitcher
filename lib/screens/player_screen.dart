@@ -1317,11 +1317,17 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       case ColorPaletteFilter.twelveColors:
         palettes = palettes.where((p) => p.colors.length == 12).toList();
         break;
+      case ColorPaletteFilter.twentyTwelveColors:
+        palettes = palettes.where((p) => p.colors.length == 20 || p.colors.length == 12).toList();
+        break;
       case ColorPaletteFilter.same:
         palettes = palettes.where((p) => p.name.startsWith('same')).toList();
         break;
       case ColorPaletteFilter.three:
         palettes = palettes.where((p) => p.name.startsWith('three')).toList();
+        break;
+      case ColorPaletteFilter.samethree:
+        palettes = palettes.where((p) => p.name.startsWith('same') || p.name.startsWith('three')).toList();
         break;
       case ColorPaletteFilter.fontWhite:
         palettes = palettes.where((p) => p.name.startsWith('font (white)')).toList();
