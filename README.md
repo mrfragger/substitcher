@@ -453,6 +453,7 @@ Android (64-bit devices only, arm64-v8a)
 - Developed since 2022 but in Dec 2025 decided to port from mpv front-end lua scripts with uosc ui, LUTs to a flutter / dart app (not just Mac/Linux anymore) and make it purely an audiobook player with some basic video editing
 - Edit fonts, create own fonts https://www.glyphrstudio.com/app (free)
 - view detailed info about fonts https://fontdrop.info (free)
+- convert otf, ttf, woff, woff2 fonts https://fontsource.org/tools/converter (free)
 </details>
 
 <details>
@@ -477,9 +478,9 @@ Android (64-bit devices only, arm64-v8a)
 <summary>tts (text to speech) that support chapters</summary>
 my opinon of voice quality
 
-- kokoro > edge > piper
+- kokoro > piper
 - Qwen3 and echo-tts are better than kokoro but require 16GB RAM minimum
-- KokoroTTS, piper.ttstool.com and edge-tts all are free to use
+- KokoroTTS, piper.ttstool.com are free to use
 
 https://github.com/kjyv/KokoroTTS Mac only
 
@@ -501,46 +502,5 @@ https://piper.ttstool.com
 - hfc_female[medium]
 - hfc_male[medium]
 - joe[medium]
-
-https://github.com/rany2/edge-tts 10.2k \
-edge-tts --voice en-CA-LiamNeural -f 002.txt --write-media edge.mp3 \
-takes 2 mins to process 30KB text \  
-Online processing using Microsoft servers
-
-male voices - General and  Friendly, Positive unless specified otherwise
-
-en-AU-WilliamMultilingualNeural               
-en-US-AndrewMultilingualNeural           Conversation, Copilot  Warm, Confident, Authentic, Honest    
-en-US-BrianMultilingualNeural            Conversation, Copilot  Approachable, Casual, Sincere
-
-en-CA-LiamNeural                                        
-en-GB-RyanNeural                                        
-en-GB-ThomasNeural                                      
-en-NZ-MitchellNeural                                    
-en-US-AndrewNeural                       Conversation, Copilot  Warm, Confident, Authentic, Honest\
-en-US-BrianNeural                        Conversation, Copilot  Approachable, Casual, Sincere\
-en-US-ChristopherNeural                  News, Novel            Reliable, Authority\
-en-US-EricNeural                         News, Novel            Rational\
-en-US-GuyNeural                          News, Novel            Passion\
-en-US-RogerNeural                        News, Novel            Lively\
-en-US-SteffanNeural                      News, Novel            Rational
-
-female voices - General and  Friendly, Positive unless specified otherwise
-
-en-US-AvaMultilingualNeural            Conversation, Copilot  Expressive, Caring, Pleasant, Friendly\
-en-US-EmmaMultilingualNeural           Conversation, Copilot  Cheerful, Clear, Conversational
-
-en-AU-NatashaNeural                                   
-en-CA-ClaraNeural                                     
-en-GB-LibbyNeural                                     
-en-GB-MaisieNeural                                    
-en-GB-SoniaNeural          
-en-NZ-MollyNeural                                
-en-US-AnaNeural                        Cartoon, Conversation  Cute\
-en-US-AriaNeural                       News, Novel            Positive, Confident\
-en-US-AvaNeural                        Conversation, Copilot  Expressive, Caring, Pleasant, Friendly\
-en-US-EmmaNeural                       Conversation, Copilot  Cheerful, Clear, Conversational\
-en-US-JennyNeural                                      Friendly, Considerate, Comfort\
-en-US-MichelleNeural                   News, Novel            Friendly, Pleasant
 
 </details>
