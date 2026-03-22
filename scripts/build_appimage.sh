@@ -3,7 +3,7 @@
 set -e
 
 APP_NAME="substitcher"
-APP_VERSION="26.03.18"
+APP_VERSION="26.03.22"
 BUILD_DIR="build/linux/x64/release/bundle"
 APPDIR="AppDir"
 
@@ -38,7 +38,7 @@ if [ -f "bin/ffmpeg" ] && [ -f "bin/ffprobe" ]; then
 else
     echo "Downloading FFmpeg static binaries..."
     cd $APPDIR/usr/bin/bin
-    
+
     wget -q https://johnvansickle.com/ffmpeg/releases/ffmpeg-release-amd64-static.tar.xz
     tar -xf ffmpeg-release-amd64-static.tar.xz --strip-components=1
     rm ffmpeg-release-amd64-static.tar.xz
@@ -46,7 +46,7 @@ else
     find . -type f ! -name 'ffmpeg' ! -name 'ffprobe' -delete
     find . -type d -empty -delete
     rm -rf model GPLv3.txt readme.txt manpages 2>/dev/null || true
-    
+
     cd ../../../..
 fi
 

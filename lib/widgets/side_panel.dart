@@ -38,7 +38,6 @@ class SidePanel extends StatelessWidget {
   final Function(String) onExcludeChanged;
   final VoidCallback onSearchAndSelected;
   final VoidCallback onSearchOrSelected;
-  
   final List<Chapter> Function() getFilteredChapters;
   final Function(int) onJumpToChapter;
   final ScrollController chapterScrollController;
@@ -47,22 +46,18 @@ class SidePanel extends StatelessWidget {
   final FocusNode skipChapterFocusNode;
   final Function(String) onSkipChapterChanged;
   final bool Function(String) shouldSkipChapter;
-  
   final List<HistoryItem> Function() getFilteredHistory;
   final Function(int) onRemoveFromHistory;
   final Function(String) onOpenAudiobook;
   final ScrollController historyScrollController;
   final Future<Map<String, dynamic>> Function(String, Duration) getHistoryDurationAndProgress;
-  
   final List<String> Function() getFilteredPlaylist;
   final ScrollController playlistScrollController;
   final Future<String> Function(String) getAudiobookDuration;
-  
   final List<Bookmark> Function() getFilteredBookmarks;
   final Function(int) onRemoveBookmark;
   final Function(Bookmark) onJumpToBookmark;
   final Function(int, int?) onSetPinNumber;
-  
   final List<String> Function() getFilteredFonts;
   final String selectedFont;
   final int selectedFontIndex;
@@ -99,20 +94,17 @@ class SidePanel extends StatelessWidget {
   final VoidCallback onConvertToUppercase;
   final VoidCallback onConvertToSeesawCase;
   final String conversionType;
-  
   final List<ColorPalette> Function() getFilteredColors;
   final int selectedColorIndex;
   final ScrollController colorScrollController;
   final Function(ColorPalette, int) onColorPaletteSelected;
   final Color Function(String) parseColor;
-  
   final List<FrequencyItem> frequencyItems;
   final bool isAnalyzingFrequencies;
   final VoidCallback? onAnalyzeFrequencies;
   final String? subtitleFilePath;
   final Function(String) onWordSearch;
   final Function(String) onPhraseSearch;
-  
   final String subsSearchQuery;
   final TextEditingController subsSearchController;
   final FocusNode subsSearchFocusNode;
@@ -135,7 +127,6 @@ class SidePanel extends StatelessWidget {
   final TextEditingController chapterExcludeController;
   final FocusNode chapterExcludeFocusNode;
   final Function(String) onChapterExcludeChanged;
-  
   final List<Map<String, dynamic>> statsEntries;
   final bool statsEnabled;
   final Function(bool) onStatsEnabledChanged;
@@ -149,35 +140,28 @@ class SidePanel extends StatelessWidget {
   final Function(String, DateTime) deleteAudiobookFromDate;
   final TextSpan Function(String, String) highlightSearchTerm;
   final Function(String, String, Duration) jumpToStatsResult;
-
   final ColoringMode coloringMode;
   final Function(ColoringMode) onColoringModeChanged;
-  
   final int historyCount;
   final int playlistCount;
   final int bookmarksCount;
   final int fontsCount;
   final int subsCount;
   final int statsCount;
-
   final bool showPlaylistDirectories;
   final Function(bool) onTogglePlaylistDirectories;
-
   final bool isExportingMarkdown;
   final String exportStatus;
   final VoidCallback onExportMarkdown;
-
   final bool autoConvertAlternates;
   final Function(bool?) onAutoConvertAlternatesChanged;
   final bool autoConvertMissing;
   final Function(bool?) onAutoConvertMissingChanged;
-
   final VoidCallback onRefreshPlaylistDirectory;
   final VoidCallback onRefreshCustomFonts;
   final Set<String> favoriteFonts;
   final Function(String) onRemoveFavorite;
   final VoidCallback onShowGlyphViewer;
-
   final String colorFilterMode;
   final Function(String) onColorFilterModeChanged;
   final Set<String> favoriteColorPalettes;
@@ -185,8 +169,6 @@ class SidePanel extends StatelessWidget {
   final Function(String) onAddColorPaletteFavorite;
   final ColorPaletteFilter colorCategoryFilter;
   final Function(ColorPaletteFilter) onColorCategoryFilterChanged;
-
-
   final List<LutItem> availableLuts;
   final List<LutItem> Function() getFilteredLuts;
   final int selectedLutIndex;
@@ -198,7 +180,6 @@ class SidePanel extends StatelessWidget {
   final Function(String) onRemoveLutFavorite;
   final String? selectedLutName;
   final VoidCallback onClearLut;
-  
   
   const SidePanel({
     super.key,

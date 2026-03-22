@@ -5,8 +5,8 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 ![](images/audiobook.gif)
 
 ### Encoding opus Chaptered Audiobooks
-- Encode 16kbps audiobooks which is 4x/6x/8x smaller than 64/96/128kbps
-- 32kpbs only use for audio like Quran recitations and it's about 2.5x larger in file size due to vbr
+- Encode 12kbps audiobooks which is 5x/8x/10x smaller than 64/96/128kbps
+- 24kpbs only use for audio like Quran recitations and it's about 2.5x larger in file size due to vbr and will probably end up average 40kbps
 - opus (2012) is a superior audio codec compared to mp3 (1993) or aac (1997) at low bitrates
 - max 100 hours and 999 chapters per audiobook
 - if exceed limits will offer to automatically split into multiple audiobooks showing the split points
@@ -429,13 +429,17 @@ Android (64-bit devices only, arm64-v8a)
 <details>
 <summary>Opus audio codec</summary>
 
-- outperforms MP3 and AAC at very low bitrates (~16 kb/s)
+- outperforms MP3 and AAC at very low bitrates (~12 kb/s)
 -  **Hybrid Architecture** SILK (linear predictive coding) for speech-like signals.
 
 - **Low Algorithmic Delay and Frame Flexibility** Supports frame sizes from 2.5 ms up to 60 ms, allowing very low latency if needed. Fine control of bitrate and delay trade-offs further improves coding of speech/music at low rates
 
 - `-application voip` gives best quality at a given bitrate for voice signals. It enhances the input signal by high-pass filtering and emphasizing formants and harmonics
 </details>
+
+- LACE / NoLACE (Libopus 1.5+) At low bitrates like 12 kb/s, the decoder runs a neural network post-filter that restores detail lost during encoding. LACE (Lossless Audio Concept Enhancement) handles single-speaker speech; NoLACE (Non-Linear LACE) extends this to more complex signals. The encoder flags audio features at encode time, and the ML model on the decoder side uses those flags to reconstruct naturalness — meaning a 12 kb/s file decoded by libopus 1.5+ can sound comparable to 20+ kb/s standard opus.
+
+- Substitcher uses libopus 1.6.1 released in January 2026. libopus 1.5 was released March 2024.
 
 <details>
 <summary>Miscellaneous</summary>
@@ -459,18 +463,18 @@ Android (64-bit devices only, arm64-v8a)
 <details>
 <summary>Mac App Recommendations</summary>
 
-- Transnomino, free file-renamer https://www.transnomino.com
-- Lulu, free open-source firewall https://objective-see.org/products/lulu.html
-- Stats, free menu bar stats monitoring https://github.com/exelban/stats
-- Mole, for terminal, cleans up disk space https://github.com/tw93/Mole
-- KeepassXC, free password manager https://keepassxc.org
-- Screen Kite, free record screen area with system sound, better than OBS https://www.screenkite.com 
-- Denoise DeepFilterNet3 in realtime on mic input https://github.com/Ghostkwebb/MetalVoice
-- VSCodium, half file size of VSCode https://vscodium.com
+- Transnomino, free, file-renamer https://www.transnomino.com
+- Lulu, free, open-source firewall https://objective-see.org/products/lulu.html
+- Stats, free, menu bar stats monitoring https://github.com/exelban/stats
+- Mole, free, for terminal, cleans up disk space https://github.com/tw93/Mole
+- KeepassXC, free, password manager https://keepassxc.org
+- Screen Kite, free, record screen area with system sound, better than OBS https://www.screenkite.com 
+- MetalVoice, free, Denoise DeepFilterNet3 in realtime on mic input https://github.com/Ghostkwebb/MetalVoice
+- VSCodium, free, half file size of VSCode https://vscodium.com
 - Text Power Tools, extension for VSCodium, powerful text manipulation
-- LocalSend, flutter app share files, free https://localsend.org
-- Shotcut, add images, mutli-track video editor, free, learning curve https://shotcut.org
-- DaVinci resolve free up to 1080p but requires 16GB RAM bare minimum and massive learning curve, expensive
+- LocalSend, free, flutter app share files, free https://localsend.org
+- Shotcut, free, add images, mutli-track video editor, free, learning curve https://shotcut.org
+- DaVinci resolve, free up to 1080p, but requires 16GB RAM bare minimum and massive learning curve, expensive
 
 </details>
 
