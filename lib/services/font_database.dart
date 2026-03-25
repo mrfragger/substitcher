@@ -80,7 +80,7 @@ class FontDatabase {
        'Harquil': FontMetadata(fontName: 'Harquil', mainCategory: FontCategory.demo, subCategories: [FontCategory.seesawcase], studio: null),
        'Sidethree': FontMetadata(fontName: 'Sidethree', mainCategory: FontCategory.demo, subCategories: [FontCategory.seesawcase], studio: null),
        'Zigzageo': FontMetadata(fontName: 'Zigzageo', mainCategory: FontCategory.demo, subCategories: [FontCategory.seesawcase], studio: null),
-     
+
      // ==================== demo/ligatures/177studio ====================
      'Brilliant Heavens demo': FontMetadata(fontName: 'Brilliant Heavens demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.studio177),
      'Categories Elegant demo': FontMetadata(fontName: 'Categories Elegant demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.studio177),
@@ -93,15 +93,16 @@ class FontDatabase {
      'Roommate Surrealism demo': FontMetadata(fontName: 'Roommate Surrealism demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.studio177),
      'Salvador Abstract demo': FontMetadata(fontName: 'Salvador Abstract demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.studio177),
      'Traditional Civilization demo': FontMetadata(fontName: 'Traditional Civilization demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.studio177),
- 
+
      // ==================== demo/ligatures/Various ====================
      'Chocolate Chips': FontMetadata(fontName: 'Chocolate Chips', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
      'Pricedown Black': FontMetadata(fontName: 'Pricedown Black', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
      'Rocket Raccoon free': FontMetadata(fontName: 'Rocket Raccoon free', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
      'Shoese Flower': FontMetadata(fontName: 'Shoese Flower', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
-      'Sophia Melanie': FontMetadata(fontName: 'Sophia Melanie', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
+     'Sophia Melanie': FontMetadata(fontName: 'Sophia Melanie', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
      'Souther Daleska demo version': FontMetadata(fontName: 'Souther Daleska demo version', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
- 
+     'Sparkster One': FontMetadata(fontName: 'Sparkster One', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
+
      // ==================== demo/missingligatures/177studio ====================
      'Abstract Settings demo': FontMetadata(fontName: 'Abstract Settings demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.missingLigatures], studio: FontCategory.studio177, ligaturePairs: ["as", "be", "de", "es", "ha", "le", "ly", "ne", "of", "op", "pr", "rt", "so", "ur", "ic", "is"]),
      'Classical Aesthetics demo': FontMetadata(fontName: 'Classical Aesthetics demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.missingLigatures], studio: FontCategory.studio177, ligaturePairs: ["ac", "at", "di", "ha", "il", "li", "mi", "om", "ou", "rt", "st", "ur"]),
@@ -121,16 +122,16 @@ class FontDatabase {
     'Bentley Vintage': FontMetadata(fontName: 'Bentley Vintage', mainCategory: FontCategory.demo, subCategories: [FontCategory.alternates]),
     'Kambegi': FontMetadata(fontName: 'Kambegi', mainCategory: FontCategory.demo, subCategories: [FontCategory.alternates]),
     'Mount Hills': FontMetadata(fontName: 'Mount Hills', mainCategory: FontCategory.demo, subCategories: [FontCategory.alternates]),
- 
+
  // ==================== demo/MustBeUPPERCASE/177studio ====================
      'Children Interests demo': FontMetadata(fontName: 'Children Interests demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.mustBeUppercase], studio: FontCategory.studio177),
      'Intricate Narrative demo': FontMetadata(fontName: 'Intricate Narrative demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.mustBeUppercase], studio: FontCategory.studio177),
     };
-   
+
    static FontMetadata? getMetadata(String fontName) => _fonts[fontName];
-   
+
    static List<String> getAllFonts() => _fonts.keys.toList()..sort();
-   
+
    static List<String> getFontsByMainCategory(String category) {
      return _fonts.entries
          .where((e) => e.value.mainCategory == category)
@@ -138,7 +139,7 @@ class FontDatabase {
          .toList()
        ..sort();
    }
-   
+
    static List<String> getFontsByPath(String mainCat, {String? subCat, String? studio}) {
      return _fonts.entries.where((e) {
        if (e.value.mainCategory != mainCat) return false;
@@ -147,22 +148,22 @@ class FontDatabase {
        return true;
      }).map((e) => e.key).toList()..sort();
    }
-   
+
    static Map<String, dynamic> getCategoryTree() {
      final tree = <String, Map<String, Map<String, List<String>>>>{};
-     
+
      for (var entry in _fonts.entries) {
        final font = entry.value;
        tree.putIfAbsent(font.mainCategory, () => {});
-       
+
        final subKey = font.subCategories.isEmpty ? 'default' : font.subCategories.first;
        tree[font.mainCategory]!.putIfAbsent(subKey, () => {});
-       
+
        final studioKey = font.studio ?? 'default';
        tree[font.mainCategory]![subKey]!.putIfAbsent(studioKey, () => []);
        tree[font.mainCategory]![subKey]![studioKey]!.add(entry.key);
      }
-     
+
      return tree;
    }
  }

@@ -29,6 +29,8 @@ import '../models/subtitle_cue.dart';
 import '../models/pause_mode.dart';
 import '../models/subtitle_preferences.dart';
 import '../models/lut_item.dart';
+import '../models/vtt_show_style.dart';
+import '../services/vtt_show_service.dart';
 import '../services/cjk_tokenizer.dart';
 import '../services/ffmpeg_service.dart';
 import '../services/font_loader.dart';
@@ -45,6 +47,7 @@ import '../services/video_edit_service.dart';
 import '../services/vision_tracking_service.dart';
 import '../services/lut_thumbnail_service.dart';
 import '../services/lut_processor.dart';
+import '../services/vtt_show_service.dart';
 import '../widgets/adhan_clock_overlay.dart';
 import '../widgets/subtitle_manager_dialog.dart';
 import '../widgets/side_panel.dart';
@@ -55,13 +58,14 @@ import '../widgets/download_overlay.dart';
 import '../widgets/cuts_overlay.dart';
 import '../widgets/encode_progress_overlay.dart';
 import '../widgets/lut_picker_overlay.dart';
+import '../widgets/vtt_show_edit_overlay.dart';
 
 enum FontColorOverride { none, black, white }
 
 class SubtitleSearchResult {
   final Duration time;
   final String text;
-  
+
   SubtitleSearchResult({
     required this.time,
     required this.text,
@@ -72,7 +76,7 @@ class ParagraphItem {
   final int chapterNumber;
   final int paragraphNumber;
   final String text;
-  
+
   ParagraphItem({
     required this.chapterNumber,
     required this.paragraphNumber,
@@ -86,7 +90,7 @@ class ChapterSearchResult {
   final int chapterIndex;
   final String chapterTitle;
   final Duration startTime;
-  
+
   ChapterSearchResult({
     required this.audiobookPath,
     required this.audiobookTitle,
@@ -101,7 +105,7 @@ class StatsSearchResult {
   final String audiobookTitle;
   final String chapterTitle;
   final Duration startTime;
-  
+
   StatsSearchResult({
     required this.audiobookPath,
     required this.audiobookTitle,
@@ -134,7 +138,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
 
   int _activeFfprobeCount = 0;
   final int _maxConcurrentFfprobe = 3;
-  
+
   AudiobookMetadata? _currentAudiobook;
   int _currentChapterIndex = 0;
   Duration _currentPosition = Duration.zero;
@@ -192,7 +196,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
 
   Timer? _dictionaryModeExitTimer;
   bool _hideChapterTitle = false;
-  
+
   String _statsSearchQuery = '';
   final TextEditingController _statsSearchController = TextEditingController();
   final FocusNode _statsSearchFocusNode = FocusNode();
@@ -224,7 +228,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   List<SubtitleCue> _secondarySubtitles = [];
   int? _currentSecondarySubtitleIndex;
   String? _secondarySubtitleFilePath;
-  
+
   String _secondarySubtitleFont = 'System Default';
   double _secondarySubtitleFontSize = 86.0;
   ColorPalette? _secondaryColorPalette;
@@ -273,7 +277,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
 
   ColoringMode _coloringMode = ColoringMode.words;
   bool _showPlaylistDirectories = false;
-  
+
   bool _hoveringPrevChapter = false;
   bool _hoveringNextChapter = false;
 
@@ -334,11 +338,11 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
 
   String? _videoResolution;
   double? _videoFps;
-  
+
   bool _isDefiningTrackedBlur = false;
   Offset? _trackedBlurStart;
   Offset? _trackedBlurEnd;
-  
+
   bool _isTracking = false;
   String _trackingStatus = '';
   List<List<double>> _trackedCoords = [];
@@ -360,13 +364,23 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   int _colorCycleInterval = 4;
   int _colorCycleCueCounter = 0;
 
+  Map<String, VttShowStyle> _vttShowStyles = {};
+  bool _vttShowActive = false;
+  int _vttShowRevealedLines = 1;
+  String? _vttShowCurrentKey;
+  bool _vttShowApplying = false;
+  bool _vttShowEditMode = false;
+  final FocusNode _vttEditLine1FocusNode = FocusNode();
+  final FocusNode _vttEditLine2FocusNode = FocusNode();
+  final GlobalKey<VttShowEditOverlayState> _vttEditKey = GlobalKey<VttShowEditOverlayState>();
+
   @override
   void initState() {
     super.initState();
     _windowListener = _WindowCloseListener(
       onClose: _handleWindowClose,
     );
-    
+
     windowManager.addListener(_windowListener);
     _adhanClockService = AdhanClockService();
     _adhanClockService.initialize();
@@ -406,11 +420,11 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       _adhanClockService.checkNow();
     });
   }
-  
+
   @override
   void dispose() {
     _isDisposed = true;
-    _saveDefaultSettings();  
+    _saveDefaultSettings();
     WidgetsBinding.instance.removeObserver(this);
     WakelockPlus.disable();
     windowManager.removeListener(_windowListener);
@@ -450,6 +464,8 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     _chapterExcludeFocusNode.dispose();
     _statsSearchController.dispose();
     _statsSearchFocusNode.dispose();
+    _vttEditLine1FocusNode.dispose();
+    _vttEditLine2FocusNode.dispose();
     LutThumbnailService.instance.clearCache();
     super.dispose();
   }
@@ -481,7 +497,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       _favoriteLuts = (prefs.getStringList('favoriteLuts') ?? []).toSet();
     });
   }
-  
+
   Future<void> _selectLut(String? lutPath, String? lutName) async {
       final prefs = await SharedPreferences.getInstance();
       if (lutPath == null) {
@@ -506,7 +522,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         print('Error loading LUT: $e');
       }
     }
-  
+
   Future<void> _loadSavedLut() async {
       final prefs = await SharedPreferences.getInstance();
       final lutPath = prefs.getString('selectedLutPath');
@@ -524,26 +540,26 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       _availableLuts = luts;
     });
   }
-  
+
   List<LutItem> _getFilteredLuts() {
     List<LutItem> lutsToShow = _lutFilterMode == 'favorites'
         ? _availableLuts.where((lut) => _favoriteLuts.contains(lut.name)).toList()
         : _availableLuts;
-  
+
     if (_searchQuery.isEmpty && _excludeTerms.isEmpty) return lutsToShow;
-  
+
     final excludeList = _excludeTerms.split(' ').where((t) => t.isNotEmpty).toList();
     return lutsToShow.where((lut) =>
         _matchesSearch(lut.name.replaceAll('.cube', ''), _searchQuery, excludeList)
     ).toList();
   }
-  
+
   Future<void> _addLutToFavorites(String lutName) async {
     setState(() => _favoriteLuts.add(lutName));
     final prefs = await SharedPreferences.getInstance();
     await prefs.setStringList('favoriteLuts', _favoriteLuts.toList());
   }
-  
+
   Future<void> _removeLutFromFavorites(String lutName) async {
     setState(() => _favoriteLuts.remove(lutName));
     final prefs = await SharedPreferences.getInstance();
@@ -553,7 +569,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   @override
   void didChangeAppLifecycleState(AppLifecycleState state) {
     super.didChangeAppLifecycleState(state);
-    
+
     if (state == AppLifecycleState.resumed) {
       _adhanClockService.checkNow();
     }
@@ -566,7 +582,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       WakelockPlus.disable();
     }
   }
-  
+
   Future<dynamic> _handleOpenFile(MethodCall call) async {
     if (call.method == 'openFile') {
       final String filePath = call.arguments as String;
@@ -595,7 +611,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         _saveToHistory();
       }
     });
-  
+
     player.stream.duration.listen((duration) {
       if (mounted) {
         setState(() {
@@ -603,12 +619,16 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         });
       }
     });
-  
+
     player.stream.playing.listen((playing) {
       if (mounted) {
         setState(() {
           _isPlaying = playing;
         });
+        if (playing && _vttShowActive) {
+          player.pause();
+          return;
+        }
         _updateWakelock();
       }
       if (playing) {
@@ -643,7 +663,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
    await prefs.setString('sleepTimerAction',
        _sleepTimerAction == SleepTimerAction.closeApp ? 'close' : 'pause');
  }
- 
+
  Future<void> _loadDefaultSettings() async {
    final prefs = await SharedPreferences.getInstance();
    final fontColorOverride = FontColorOverride.values[prefs.getInt('fontColorOverride') ?? 0];
@@ -658,7 +678,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
          : SleepTimerAction.pauseOnly;
    });
  }
- 
+
  Future<void> _setCurrentAsDefault() async {
    if (!_isYouTubeStream && _currentAudiobook == null) {
      ScaffoldMessenger.of(context).showSnackBar(
@@ -666,15 +686,15 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
      );
      return;
    }
-   
+
    setState(() {
      _defaultFont = _selectedFont;
      _defaultConversionType = _conversionType;
      _defaultColorPalette = _currentColorPalette?.name;
    });
-   
+
    await _saveDefaultSettings();
-   
+
    if (mounted) {
      ScaffoldMessenger.of(context).showSnackBar(
        SnackBar(
@@ -689,7 +709,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
      );
    }
  }
- 
+
  Future<void> _applyDefaultSettings() async {
    if (!_isYouTubeStream && _currentAudiobook == null) {
      ScaffoldMessenger.of(context).showSnackBar(
@@ -697,15 +717,15 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
      );
      return;
    }
-   
+
    setState(() {
      _selectedFont = _defaultFont;
      final filteredFonts = _getFilteredFonts();
      _selectedFontIndex = filteredFonts.indexOf(_defaultFont);
      if (_selectedFontIndex == -1) _selectedFontIndex = 0;
-     
+
      _conversionType = _defaultConversionType;
-     
+
      if (_defaultColorPalette != null) {
        final palette = ColorPalette.presets.firstWhere(
          (p) => p.name == _defaultColorPalette,
@@ -717,10 +737,10 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
        _currentColorPalette = null;
      }
    });
-   
+
    await _saveFontSettings();
    await _applyConversion();
-   
+
    if (mounted) {
      ScaffoldMessenger.of(context).showSnackBar(
        SnackBar(
@@ -739,11 +759,11 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
  Future<void> _handleWindowClose() async {
    try {
      _isDisposed = true;
-     
+
      if (_isPlaying) {
        await player.pause().timeout(const Duration(milliseconds: 500));
      }
-     
+
      if (_currentAudiobook != null) {
        final currentChapter = _currentAudiobook!.chapters[_currentChapterIndex];
        _statsManager.recordChapterEnd(
@@ -753,11 +773,11 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
        );
        await _statsManager.flushCacheToLog().timeout(const Duration(milliseconds: 500));
      }
-     
+
      await _saveDefaultSettings().timeout(const Duration(milliseconds: 500));
      await _saveToHistory().timeout(const Duration(milliseconds: 500));
      await player.stop().timeout(const Duration(milliseconds: 500));
-     
+
    } catch (e) {
      print('Error during window close: $e');
    }
@@ -787,9 +807,9 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   void _checkChapterBoundary(Duration position) {
     if (_currentAudiobook == null || _currentAudiobook!.chapters.isEmpty) return;
     if (_currentChapterIndex >= _currentAudiobook!.chapters.length) return;
-    
+
     final chapter = _currentAudiobook!.chapters[_currentChapterIndex];
-  
+
     if (position >= chapter.endTime) {
       if (!_isYouTubeStream) {
         final currentChapter = _currentAudiobook!.chapters[_currentChapterIndex];
@@ -799,21 +819,21 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           false,
         );
       }
-      
+
       if (!_playedChapters.contains(_currentChapterIndex)) {
         _playedChapters.add(_currentChapterIndex);
       }
-      
+
       if (_sleepDuration == Duration.zero) {
         _triggerSleepTimerCountdown();
         return;
       }
-      
+
       if (_shuffleEnabled && !_isYouTubeStream) {
         final unplayedChapters = List.generate(_currentAudiobook!.chapters.length, (i) => i)
             .where((i) => !_playedChapters.contains(i) && !_shouldSkipChapter(_currentAudiobook!.chapters[i].title))
             .toList();
-        
+
         if (unplayedChapters.isEmpty) {
           player.pause();
           if (mounted) {
@@ -865,7 +885,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           setState(() => _currentChapterIndex = nextIndex);
         }
       }
-      
+
       if (!_isYouTubeStream && _currentChapterIndex < _currentAudiobook!.chapters.length) {
         _statsManager.recordChapterStart();
       }
@@ -879,7 +899,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       _autoConvertMissing = prefs.getBool('autoConvertMissing') ?? false;
     });
   }
-  
+
   Future<void> _saveAutoConversionSettings() async {
     final prefs = await SharedPreferences.getInstance();
     await prefs.setBool('autoConvertAlternates', _autoConvertAlternates);
@@ -981,15 +1001,20 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   }
 
   Future<void> _scanAvailableSubtitles() async {
-    if (_currentAudiobook == null) return;
-    
+    if (_currentAudiobook == null) {
+      setState(() {
+        _availableSubtitles = [];
+      });
+      return;
+    }
+
     final audiobookPath = _currentAudiobook!.path;
     final audiobookDir = path.dirname(audiobookPath);
     final audiobookBase = path.basenameWithoutExtension(audiobookPath);
     final vttDir = path.join(audiobookDir, '${audiobookBase}_vtt');
-    
+
     final subtitleFiles = <String>[];
-    
+
     if (await Directory(vttDir).exists()) {
       final dir = Directory(vttDir);
       await for (final entity in dir.list()) {
@@ -1001,7 +1026,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         }
       }
     }
-    
+
     final dir = Directory(audiobookDir);
     await for (final entity in dir.list()) {
       if (entity is File) {
@@ -1016,41 +1041,27 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         }
       }
     }
-    
+
     subtitleFiles.sort((a, b) => path.basename(a).compareTo(path.basename(b)));
-    
+
     setState(() {
       _availableSubtitles = subtitleFiles;
     });
   }
 
   Future<void> _openSubtitleManager() async {
-    if (_currentAudiobook == null) {
-      ScaffoldMessenger.of(context).showSnackBar(
-        const SnackBar(content: Text('No audiobook loaded')),
-      );
-      return;
+    if (_currentAudiobook != null) {
+      await _scanAvailableSubtitles();
     }
-    
-    await _scanAvailableSubtitles();
-    
-    if (_availableSubtitles.isEmpty) {
-      if (mounted) {
-        ScaffoldMessenger.of(context).showSnackBar(
-          const SnackBar(content: Text('No subtitle files found')),
-        );
-      }
-      return;
-    }
-    
+
     if (_subtitleFilePath != null && _primarySubtitlePath == null) {
       setState(() {
         _primarySubtitlePath = _subtitleFilePath;
       });
     }
-    
+
     if (!mounted) return;
-    
+
     showDialog(
       context: context,
       builder: (context) => SubtitleManagerDialog(
@@ -1058,13 +1069,31 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         primarySubtitle: _primarySubtitlePath,
         secondarySubtitle: _secondarySubtitlePath,
         currentAudiobookPath: _currentAudiobook?.path,
-        onPrimarySelected: (path) async {
+        onPrimarySelected: (filePath) async {
           setState(() {
-            _primarySubtitlePath = path;
-            _subtitleFilePath = path;
+            _primarySubtitlePath = filePath;
+            _subtitleFilePath = filePath;
           });
-          await _applyConversion();
-        },        
+          final vttShowPath = VttShowService.vttShowPathFor(filePath);
+          if (vttShowPath != null) {
+            final styles = await VttShowService.load(vttShowPath);
+            final content = await File(filePath).readAsString();
+            final cues = _parseVTT(content);
+            setState(() {
+              _vttShowStyles = styles;
+              _vttShowActive = true;
+              _vttShowRevealedLines = 1;
+              _vttShowCurrentKey = null;
+              _vttShowApplying = false;
+              _subtitles = cues;
+              _originalSubtitles = cues;
+            });
+            await Future.delayed(const Duration(milliseconds: 300));
+            if (mounted) await _loadVttShowSilentAudio();
+          } else {
+            await _applyConversion();
+          }
+        },
         onSecondarySelected: (path) async {
           setState(() {
             _secondarySubtitlePath = path;
@@ -1086,22 +1115,22 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             final temp = _primarySubtitlePath;
             _primarySubtitlePath = _secondarySubtitlePath;
             _secondarySubtitlePath = temp;
-            
+
             _subtitleFilePath = _primarySubtitlePath;
             _secondarySubtitleFilePath = _secondarySubtitlePath;
-            
+
             final tempSubtitles = _subtitles;
             final tempText = _currentSubtitleText;
             final tempIndex = _currentSubtitleIndex;
-            
+
             _subtitles = _secondarySubtitles;
             _currentSubtitleText = _secondarySubtitleText;
             _currentSubtitleIndex = _currentSecondarySubtitleIndex;
-            
+
             _secondarySubtitles = tempSubtitles;
             _secondarySubtitleText = tempText;
             _currentSecondarySubtitleIndex = tempIndex;
-            
+
             final tempFont = _selectedFont;
             final tempSize = _subtitleFontSize;
             final tempPalette = _currentColorPalette;
@@ -1110,12 +1139,12 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             final tempOriginal = _originalSubtitles;
             _originalSubtitles = _secondaryOriginalSubtitles;
             _secondaryOriginalSubtitles = tempOriginal;
-            
+
             _selectedFont = _secondarySubtitleFont;
             _subtitleFontSize = _secondarySubtitleFontSize;
             _currentColorPalette = _secondaryColorPalette;
             _conversionType = _secondaryConversionType;
-            
+
             _secondarySubtitleFont = tempFont;
             _secondarySubtitleFontSize = tempSize;
             _secondaryColorPalette = tempPalette;
@@ -1141,10 +1170,36 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             _secondaryOriginalSubtitles = [];
           });
         },
+        onVttShowCreated: (filePath) async {
+          setState(() {
+            _primarySubtitlePath = filePath;
+            _subtitleFilePath = filePath;
+            _availableSubtitles = [];
+          });
+          final vttShowPath = VttShowService.vttShowPathFor(filePath);
+          if (vttShowPath != null) {
+            final styles = await VttShowService.load(vttShowPath);
+            final content = await File(filePath).readAsString();
+            final cues = _parseVTT(content);
+            setState(() {
+              _vttShowStyles = styles;
+              _vttShowActive = true;
+              _vttShowRevealedLines = 1;
+              _vttShowCurrentKey = null;
+              _vttShowApplying = false;
+              _subtitles = cues;
+              _originalSubtitles = cues;
+            });
+          }
+          await Future.delayed(const Duration(milliseconds: 300));
+          if (mounted) {
+            await _loadVttShowSilentAudio();
+          }
+        },
       ),
     );
   }
-  
+
   Future<void> _loadSubtitles(String audiobookPath) async {
     try {
       setState(() {
@@ -1154,18 +1209,23 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         _secondarySubtitles = [];
         _secondarySubtitleText = '';
         _currentSecondarySubtitleIndex = null;
+        _vttShowStyles = {};
+        _vttShowActive = false;
+        _vttShowRevealedLines = 1;
+        _vttShowCurrentKey = null;
+        _vttShowApplying = false;
       });
 
       final dir = path.dirname(audiobookPath);
       final audiobookBase = path.basenameWithoutExtension(audiobookPath);
       final vttDir = path.join(dir, '${audiobookBase}_vtt');
-      
+
       String? subtitlePath;
-      
+
       if (await Directory(vttDir).exists()) {
         subtitlePath = await SubtitleOrganizer.findSubtitleInDirectory(audiobookPath);
       }
-      
+
       if (subtitlePath == null) {
         final basePath = path.join(dir, audiobookBase);
         for (final ext in ['.vtt', '.srt']) {
@@ -1176,7 +1236,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           }
         }
       }
-      
+
       if (subtitlePath == null) {
         print('No subtitle file found for: ${path.basename(audiobookPath)}');
         setState(() {
@@ -1185,13 +1245,17 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           _subtitleFilePath = null;
           _currentSubtitleText = '';
           _paragraphItems = [];
+          _vttShowStyles = {};
+          _vttShowActive = false;
+          _vttShowRevealedLines = 1;
+          _vttShowCurrentKey = null;
         });
         _updateWakelock();
         return;
       }
-  
+
       String content = await File(subtitlePath).readAsString();
-  
+
       if (subtitlePath.toLowerCase().endsWith('.srt')) {
         final vttPath = subtitlePath.replaceAll(RegExp(r'\.srt$', caseSensitive: false), '.vtt');
         final converted = _convertSrtToVtt(content);
@@ -1199,17 +1263,38 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         subtitlePath = vttPath;
         content = converted;
       }
-  
+
       setState(() {
         _subtitleFilePath = subtitlePath;
       });
-      
+
       final originalCues = _parseVTT(content);
       setState(() {
         _originalSubtitles = originalCues;
         _paragraphItems = _createParagraphs(originalCues);
       });
-      
+
+      final vttShowPath = VttShowService.vttShowPathFor(subtitlePath);
+      if (vttShowPath != null) {
+        final styles = await VttShowService.load(vttShowPath);
+        setState(() {
+          _vttShowStyles = styles;
+          _vttShowActive = true;
+          _vttShowRevealedLines = 1;
+          _vttShowCurrentKey = null;
+          _vttShowApplying = false;
+        });
+        await player.pause();
+      } else {
+        setState(() {
+          _vttShowStyles = {};
+          _vttShowActive = false;
+          _vttShowRevealedLines = 1;
+          _vttShowCurrentKey = null;
+          _vttShowApplying = false;
+        });
+      }
+
       await _applyConversion();
       _updateWakelock();
       _scheduleFrequencyGeneration();
@@ -1226,26 +1311,156 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     }
   }
 
+  VttShowStyle _captureCurrentVttShowStyle() {
+    return VttShowStyle(
+      font: _selectedFont,
+      conversion: _conversionType == 'none' ? 'original' : _conversionType,
+      fontColorOverride: switch (_fontColorOverride) {
+        FontColorOverride.black => 'black',
+        FontColorOverride.white => 'white',
+        FontColorOverride.none  => 'none',
+      },
+      fontSize: _subtitleFontSize,
+      lineSpacing: _subtitleLineSpacing,
+      colorPalette: _currentColorPalette?.name,
+      coloringMode: _coloringMode == ColoringMode.letters ? 'letters' : 'words',
+      blurShadow: _blurShadowEnabled ? 'blur_on' : 'blur_off',
+    );
+  }
+
+  String? _currentVttShowKey() {
+    if (_currentSubtitleIndex == null) return null;
+    if (_currentSubtitleIndex! >= _subtitles.length) return null;
+    final cue = _subtitles[_currentSubtitleIndex!];
+    return '${_formatVttTime(cue.startTime)} --> ${_formatVttTime(cue.endTime)}';
+  }
+
+  List<String> _allSubtitleCueKeys() {
+    return _subtitles.map((cue) =>
+      '${_formatVttTime(cue.startTime)} --> ${_formatVttTime(cue.endTime)}'
+    ).toList();
+  }
+
+  void _vttShowCaptureIfChanged() {
+    if (!_vttShowActive || _subtitleFilePath == null) return;
+    final key = _currentVttShowKey();
+    if (key == null) return;
+
+    final current = _captureCurrentVttShowStyle();
+    final existing = _vttShowStyles[key];
+
+    final changed = existing == null ||
+        existing.font != current.font ||
+        existing.conversion != current.conversion ||
+        existing.fontColorOverride != current.fontColorOverride ||
+        existing.fontSize != current.fontSize ||
+        existing.lineSpacing != current.lineSpacing ||
+        existing.colorPalette != current.colorPalette ||
+        existing.coloringMode != current.coloringMode ||
+        existing.blurShadow != current.blurShadow;
+
+    if (changed) {
+      _vttShowStyles[key] = current;
+    }
+  }
+
+  Future<void> _applyVttShowStyle(String timecodeKey) async {
+    if (!_vttShowActive) return;
+    if (_vttShowApplying) {
+      return;
+    }
+    if (_vttShowCurrentKey == timecodeKey) {
+      return;
+    }
+
+    _vttShowApplying = true;
+    _vttShowCurrentKey = timecodeKey;
+
+    try {
+      final style = _vttShowStyles[timecodeKey];
+      if (style == null) return;
+
+      bool needsConversion = false;
+
+      setState(() {
+        if (style.font != null) {
+          _selectedFont = style.font!;
+          final allFonts = CustomFontLoader.getAvailableFonts();
+          _selectedFontIndex = allFonts.indexOf(style.font!);
+          if (_selectedFontIndex == -1) _selectedFontIndex = 0;
+        }
+        if (style.fontSize != null) _subtitleFontSize = style.fontSize!;
+        if (style.lineSpacing != null) _subtitleLineSpacing = style.lineSpacing!;
+        if (style.fontColorOverride != null) {
+          _fontColorOverride = switch (style.fontColorOverride!) {
+            'black' => FontColorOverride.black,
+            'white' => FontColorOverride.white,
+            _ => FontColorOverride.none,
+          };
+        }
+        if (style.colorPalette != null) {
+          final palette = ColorPalette.presets.firstWhere(
+            (p) => p.name == style.colorPalette,
+            orElse: () => _currentColorPalette ?? ColorPalette.presets.first,
+          );
+          _currentColorPalette = palette;
+          _selectedColorIndex = ColorPalette.presets.indexOf(palette);
+        }
+        if (style.conversion != null && style.conversion != _conversionType) {
+          _conversionType = style.conversion!;
+          needsConversion = true;
+        }
+        if (style.coloringMode != null) {
+          _coloringMode = style.coloringMode == 'letters'
+              ? ColoringMode.letters
+              : ColoringMode.words;
+        }
+        if (style.blurShadow != null) {
+          _blurShadowEnabled = style.blurShadow == 'blur_on';
+        }
+      });
+
+      if (needsConversion) {
+        switch (_conversionType) {
+          case 'alternates':
+            await _convertToAlternates(fromVttShow: true);
+            break;
+          case 'demo':
+            await _convertToDemo();
+            break;
+          case 'missing':
+            await _convertToMissing(fromVttShow: true);
+            break;
+          default:
+            await _applyConversion();
+        }
+      }
+    } finally {
+      _vttShowApplying = false;
+    }
+  }
+
+
   void _scheduleFrequencyGeneration() {
     _frequencyGenerationTimer?.cancel();
     _frequencyGenerationTimer = Timer(const Duration(seconds: 20), () {
       _generateFrequenciesInBackground();
     });
   }
-  
+
   Future<void> _generateFrequenciesInBackground() async {
     if (_subtitleFilePath == null) return;
-    
+
     setState(() {
       _isAnalyzingFrequencies = true;
     });
-    
+
     try {
       final results = await compute(
         _analyzeFrequenciesIsolate,
         _subtitleFilePath!,
       );
-      
+
       setState(() {
         _frequencyItems = results;
         _isAnalyzingFrequencies = false;
@@ -1257,7 +1472,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       });
     }
   }
-  
+
   static Future<List<FrequencyItem>> _analyzeFrequenciesIsolate(String subtitlePath) async {
     return await FrequencyAnalyzer.analyzeSubtitleFile(subtitlePath);
   }
@@ -1275,7 +1490,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
 
   List<String> _getFilteredFonts() {
     List<String> fontsToShow;
-    
+
     if (_selectedMainCategory == 'all') {
       fontsToShow = ['System Default', ...CustomFontLoader.getAvailableFonts()];
     } else if (_selectedMainCategory == FontCategory.favorites) {
@@ -1298,7 +1513,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     } else {
       fontsToShow = FontDatabase.getFontsByMainCategory(_selectedMainCategory);
     }
-    
+
     final excludeList = _excludeTerms.split(' ').where((t) => t.isNotEmpty).toList();
     return fontsToShow.where((font) {
       return _matchesSearch(font, _searchQuery, excludeList);
@@ -1307,7 +1522,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
 
   List<ColorPalette> _getFilteredColors() {
     List<ColorPalette> palettes = ColorPalette.presets;
-  
+
     switch (_colorFilter) {
       case ColorPaletteFilter.all:
         break;
@@ -1342,11 +1557,11 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         palettes = palettes.where((p) => p.name.startsWith('border (black)')).toList();
         break;
     }
-  
+
     if (_colorFilterMode == 'favorites') {
       palettes = palettes.where((p) => _favoriteColorPalettes.contains(p.name)).toList();
     }
-  
+
     final excludeList = _excludeTerms.split(' ').where((t) => t.isNotEmpty).toList();
     return palettes.where((palette) {
       return _matchesSearch(palette.name, _searchQuery, excludeList);
@@ -1356,7 +1571,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   void _setSleepTimer(Duration? duration) {
     _sleepTimer?.cancel();
     _sleepTimer = null;
-    
+
     if (duration == null || duration.inSeconds == -1) {
       setState(() {
         _sleepDuration = null;
@@ -1375,7 +1590,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     if (!_isPlaying) {
           player.play();
     }
-    
+
     if (duration == Duration.zero) {
       if (_currentAudiobook == null) return;
       final currentChapter = _currentAudiobook!.chapters[_currentChapterIndex];
@@ -1396,7 +1611,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       }
       return;
     }
-    
+
     if (duration.inMinutes == -1) {
       if (_currentAudiobook == null) return;
       final lastChapter = _currentAudiobook!.chapters.last;
@@ -1417,7 +1632,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       }
       return;
     }
-    
+
     setState(() {
       _sleepDuration = duration;
     });
@@ -1433,12 +1648,12 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       );
     }
   }
-  
+
   void _triggerSleepTimerCountdown() {
     if (_isPlaying) {
       player.pause();
     }
-  
+
     if (_sleepTimerAction == SleepTimerAction.pauseOnly) {
       setState(() {
         _sleepDuration = null;
@@ -1455,18 +1670,18 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       }
       return;
     }
-  
+
     setState(() {
       _showSleepTimerCountdown = true;
       _sleepTimerCountdownSeconds = 120;
     });
-  
+
     _sleepTimerCountdownTimer?.cancel();
     _sleepTimerCountdownTimer = Timer.periodic(const Duration(seconds: 1), (timer) {
       setState(() {
         _sleepTimerCountdownSeconds--;
       });
-  
+
       if (_sleepTimerCountdownSeconds <= 0) {
         timer.cancel();
         windowManager.close();
@@ -1487,9 +1702,9 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     final r = int.parse(hex.substring(0, 2), radix: 16);
     final g = int.parse(hex.substring(2, 4), radix: 16);
     final b = int.parse(hex.substring(4, 6), radix: 16);
-    
+
     final luminance = (0.299 * r + 0.587 * g + 0.114 * b) / 255;
-    
+
     Color color;
     if (luminance > 0.7) {
       final darkenFactor = 0.8;
@@ -1500,7 +1715,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     } else {
       color = _parseColor(hexColor);
     }
-    
+
     return color;
   }
 
@@ -1573,7 +1788,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       });
     }
   }
-  
+
   void _scrollToCurrentPlaylistItem() {
     if (_showPanel && _panelMode == PanelMode.playlist && _currentAudiobook != null) {
       WidgetsBinding.instance.addPostFrameCallback((_) {
@@ -1626,17 +1841,17 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
 
   Future<void> _saveToHistory() async {
     if (_currentAudiobook == null || _isYouTubeStream) return;
-    
+
     _history.removeWhere((h) => h.audiobookPath == _currentAudiobook!.path);
-    
-    final chapterTitle = _currentAudiobook!.chapters.isEmpty 
+
+    final chapterTitle = _currentAudiobook!.chapters.isEmpty
         ? 'No chapters'
         : _currentAudiobook!.chapters[_currentChapterIndex].title;
-    
-    final chapterIndex = _currentAudiobook!.chapters.isEmpty 
-        ? 0 
+
+    final chapterIndex = _currentAudiobook!.chapters.isEmpty
+        ? 0
         : _currentChapterIndex;
-    
+
     _history.insert(0, HistoryItem(
       audiobookPath: _currentAudiobook!.path,
       audiobookTitle: _currentAudiobook!.title,
@@ -1686,13 +1901,13 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       );
       return;
     }
-    
+
     String? directoryToAdd;
-    
+
     if (_currentAudiobook != null) {
       final currentDir = path.dirname(_currentAudiobook!.path);
       final currentDirName = path.basename(currentDir);
-      
+
       final shouldUseCurrentDir = await showDialog<bool>(
         context: context,
         builder: (context) => AlertDialog(
@@ -1738,7 +1953,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           ],
         ),
       );
-      
+
       if (shouldUseCurrentDir == true) {
         directoryToAdd = currentDir;
       } else if (shouldUseCurrentDir == false) {
@@ -1749,29 +1964,29 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     } else {
       directoryToAdd = await FilePicker.platform.getDirectoryPath();
     }
-    
+
     if (directoryToAdd == null) return;
-    
+
     if (_playlistDirectories.contains(directoryToAdd)) {
       ScaffoldMessenger.of(context).showSnackBar(
         const SnackBar(content: Text('Directory already in playlists')),
       );
       return;
     }
-    
+
     setState(() {
       _playlistDirectories.add(directoryToAdd!);
       if (_activePlaylistIndex == null) {
         _activePlaylistIndex = 0;
       }
     });
-    
+
     await _savePlaylistDirectories();
-    
+
     if (_activePlaylistIndex == _playlistDirectories.length - 1) {
       await _scanPlaylist(directoryToAdd);
     }
-    
+
     if (mounted) {
       ScaffoldMessenger.of(context).showSnackBar(
         SnackBar(
@@ -1781,7 +1996,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       );
     }
   }
-  
+
   Future<void> _removePlaylistDirectory(int index) async {
     setState(() {
       _playlistDirectories.removeAt(index);
@@ -1798,7 +2013,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     });
     await _savePlaylistDirectories();
   }
-  
+
   Future<void> _setActivePlaylist(int index) async {
     if (index >= _playlistDirectories.length) return;
     setState(() {
@@ -1820,7 +2035,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       );
     }
   }
-  
+
   Future<void> _savePlaylistDirectories() async {
     final prefs = await SharedPreferences.getInstance();
     await prefs.setStringList('playlistDirectories', _playlistDirectories);
@@ -1830,7 +2045,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       await prefs.remove('activePlaylistIndex');
     }
   }
-  
+
   Future<void> _loadPlaylistDirectories() async {
     final prefs = await SharedPreferences.getInstance();
     final dirs = prefs.getStringList('playlistDirectories') ?? [];
@@ -1839,12 +2054,12 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       _playlistDirectories = dirs;
       _activePlaylistIndex = activeIndex;
     });
-    if (_activePlaylistIndex != null && 
+    if (_activePlaylistIndex != null &&
         _activePlaylistIndex! < _playlistDirectories.length) {
       await _scanPlaylist(_playlistDirectories[_activePlaylistIndex!]);
     }
   }
-  
+
   String _shortenPath(String fullPath) {
     final home = Platform.environment['HOME'] ?? '/Users/${Platform.environment['USER']}';
     if (fullPath.startsWith(home)) {
@@ -1857,7 +2072,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     final prefs = await SharedPreferences.getInstance();
     await prefs.setString('durationCache', jsonEncode(_playlistDurationCache));
   }
-  
+
   Future<void> _loadDurationCache() async {
     final prefs = await SharedPreferences.getInstance();
     final cacheJson = prefs.getString('durationCache');
@@ -1883,7 +2098,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       );
       return;
     }
-    
+
     _frequencyGenerationTimer?.cancel();
     await _generateFrequenciesInBackground();
   }
@@ -1911,7 +2126,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         currentSentence += word + ' ';
         if (word.endsWith('.') || word.endsWith('?') || word.endsWith('!')) {
           final abbreviations = ['Mr.', 'Dr.', 'Mrs.', 'Ms.', 'Prof.', 'Sr.', 'Jr.'];
-          final isAbbreviation = abbreviations.any((abbr) => 
+          final isAbbreviation = abbreviations.any((abbr) =>
             currentSentence.trim().endsWith(abbr));
           if (!isAbbreviation) {
             sentences.add(currentSentence.trim());
@@ -1947,10 +2162,10 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       });
       return;
     }
-    
+
     final results = <SubtitleSearchResult>[];
     final excludeList = _excludeTerms.split(' ').where((t) => t.isNotEmpty).toList();
-    
+
     for (final cue in _originalSubtitles) {
       if (_matchesSearch(cue.text, query, excludeList)) {
         results.add(SubtitleSearchResult(
@@ -1959,7 +2174,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         ));
       }
     }
-    
+
     setState(() {
       _subsSearchQuery = query;
       _subtitleSearchResults = results;
@@ -1976,7 +2191,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       );
       return;
     }
-    
+
     if (_lastAudioStreamFetch != null) {
       final timeSinceLastFetch = DateTime.now().difference(_lastAudioStreamFetch!);
       if (timeSinceLastFetch.inSeconds < 3) {
@@ -1990,28 +2205,28 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         return;
       }
     }
-    
+
     setState(() {
       _isLoadingAudioStreams = true;
       _lastAudioStreamFetch = DateTime.now();
     });
-    
+
     try {
       final streams = await YouTubeService.getAvailableAudioStreams(youtubeUrl);
-      
+
       if (streams.isEmpty) {
         _showError('No audio streams found');
         return;
       }
-      
+
       final Map<String, List<Map<String, dynamic>>> grouped = {};
       for (final stream in streams) {
         final lang = stream['language'] as String;
         grouped.putIfAbsent(lang, () => []).add(stream);
       }
-      
+
       if (!mounted) return;
-      
+
       final selectedFormatId = await showDialog<String>(
               context: context,
               builder: (context) => AlertDialog(
@@ -2043,16 +2258,16 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               itemBuilder: (context, index) {
                 final lang = grouped.keys.elementAt(index);
                 final langStreams = grouped[lang]!;
-                
+
                 return ExpansionTile(
                   title: Text(
                     lang,
                     style: TextStyle(
-                      fontWeight: langStreams.first['isOriginal'] 
-                        ? FontWeight.bold 
+                      fontWeight: langStreams.first['isOriginal']
+                        ? FontWeight.bold
                         : FontWeight.normal,
-                      color: langStreams.first['isOriginal'] 
-                        ? Colors.green 
+                      color: langStreams.first['isOriginal']
+                        ? Colors.green
                         : Colors.white,
                     ),
                   ),
@@ -2091,15 +2306,15 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           ],
         ),
       );
-      
+
       if (selectedFormatId != null) {
         final savedPosition = _currentPosition;
-        
+
         final audioUrl = await YouTubeService.getAudioStreamUrl(
           youtubeUrl,
           formatId: selectedFormatId,
         );
-        
+
         if (audioUrl != null) {
           await player.pause();
           await player.open(Media(audioUrl));
@@ -2111,7 +2326,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           setState(() {
               _currentAudioFormat = streams.firstWhere((s) => s['id'] == selectedFormatId)['description'];
             });
-          
+
           if (mounted) {
             ScaffoldMessenger.of(context).showSnackBar(
               SnackBar(
@@ -2131,7 +2346,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       }
     }
   }
-  
+
   void _showError(String message) {
     if (mounted) {
       ScaffoldMessenger.of(context).showSnackBar(
@@ -2143,7 +2358,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       );
     }
   }
-  
+
   Widget _buildSearchContent() {
     if (_chapterSearchQuery.isNotEmpty) {
       return _buildChapterSearchResults();
@@ -2257,7 +2472,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       ],
     );
   }
-  
+
   Widget _buildSubtitlesSection() {
     final filteredSubs = _subtitleSearchResults;
     return Column(
@@ -2328,7 +2543,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       ],
     );
   }
-  
+
   Widget _buildParagraphsSection() {
     final excludeList = _excludeTerms.split(' ').where((t) => t.isNotEmpty).toList();
     final filteredParas = _paragraphItems.where((para) {
@@ -2410,58 +2625,58 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       );
       return;
     }
-  
+
     setState(() {
       _isExportingMarkdown = true;
       _exportStatus = 'Starting export...';
     });
-  
+
     try {
       final audiobookPath = _currentAudiobook!.path;
       final audiobookDir = path.dirname(audiobookPath);
       final audiobookBase = path.basenameWithoutExtension(audiobookPath);
       final exportPath = path.join(audiobookDir, '${audiobookBase}_paragraphs.md');
-  
+
       final chapters = _currentAudiobook!.chapters;
       final mdContent = StringBuffer();
-      
+
       mdContent.writeln('# $audiobookBase\n');
-      
+
       for (int chapterIndex = 0; chapterIndex < chapters.length; chapterIndex++) {
         final chapter = chapters[chapterIndex];
-        
+
         setState(() {
           _exportStatus = 'Processing chapter ${chapterIndex + 1}/${chapters.length}: ${chapter.title}';
         });
-  
+
         mdContent.writeln('## Chapter ${chapterIndex + 1}: ${chapter.title}\n');
-  
+
         final chapterSubs = _originalSubtitles.where((sub) {
           return sub.startTime >= chapter.startTime && sub.startTime < chapter.endTime;
         }).toList();
-  
+
         if (chapterSubs.isEmpty) {
           mdContent.writeln('*No subtitles available for this chapter*\n');
           continue;
         }
-  
+
         final paragraphs = _createParagraphsFromSubs(chapterSubs);
-        
+
         for (final paragraph in paragraphs) {
           mdContent.writeln(paragraph);
           mdContent.writeln();
         }
-        
+
         mdContent.writeln();
       }
-  
+
       await File(exportPath).writeAsString(mdContent.toString());
-  
+
       setState(() {
         _isExportingMarkdown = false;
         _exportStatus = '';
       });
-  
+
       if (mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
           SnackBar(
@@ -2476,7 +2691,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         _isExportingMarkdown = false;
         _exportStatus = '';
       });
-      
+
       if (mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
           SnackBar(
@@ -2487,61 +2702,61 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       }
     }
   }
-  
+
   List<String> _createParagraphsFromSubs(List<SubtitleCue> subs) {
     if (subs.isEmpty) return [];
-    
+
     final allText = subs
         .map((cue) => cue.text.replaceAll('\n', ' ').trim())
         .where((text) => text.isNotEmpty)
         .join(' ');
-    
+
     final sentences = <String>[];
     final words = allText.split(RegExp(r'\s+'));
     var currentSentence = '';
-    
+
     for (final word in words) {
       currentSentence += word + ' ';
-      
+
       if (word.endsWith('.') || word.endsWith('?') || word.endsWith('!')) {
         final abbreviations = ['Mr.', 'Dr.', 'Mrs.', 'Ms.', 'Prof.', 'Sr.', 'Jr.', 'St.'];
-        final isAbbreviation = abbreviations.any((abbr) => 
+        final isAbbreviation = abbreviations.any((abbr) =>
           currentSentence.trim().endsWith(abbr));
-        
+
         if (!isAbbreviation) {
           sentences.add(currentSentence.trim());
           currentSentence = '';
         }
       }
     }
-    
+
     if (currentSentence.trim().isNotEmpty) {
       sentences.add(currentSentence.trim());
     }
-  
+
     final paragraphs = <String>[];
     for (int i = 0; i < sentences.length; i += 9) {
       final paragraphSentences = sentences.skip(i).take(9).toList();
       if (paragraphSentences.isNotEmpty) {
         var paragraph = paragraphSentences.join(' ');
-        
+
         if (paragraph.isNotEmpty) {
           paragraph = paragraph[0].toUpperCase() + paragraph.substring(1);
         }
-        
+
         paragraphs.add(paragraph);
       }
     }
-    
+
     return paragraphs;
   }
-  
+
   TextSpan _highlightSearchTerm(String text, String searchTerm) {
     if (searchTerm.isEmpty) {
       return TextSpan(
         text: text,
         style: const TextStyle(
-          color: Colors.white, 
+          color: Colors.white,
           fontSize: 14,
           fontFamilyFallback: [
             '.AppleSystemUIFont',
@@ -2552,11 +2767,11 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         ),
       );
     }
-    
+
     final exactPhrases = <String>[];
     final exactWords = <String>[];
     final regularTerms = <String>[];
-    
+
     int i = 0;
     while (i < searchTerm.length) {
       if (searchTerm[i] == '"') {
@@ -2585,10 +2800,10 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         i++;
       }
     }
-    
+
     final lowerText = text.toLowerCase();
     final matches = <Map<String, int>>[];
-    
+
     for (final phrase in exactPhrases) {
       final lowerPhrase = phrase.toLowerCase();
       int start = 0;
@@ -2602,7 +2817,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         start = index + 1;
       }
     }
-    
+
     for (final word in exactWords) {
       final lowerWord = word.toLowerCase();
       final pattern = RegExp(r'\b' + RegExp.escape(lowerWord) + r'\b', caseSensitive: false);
@@ -2613,7 +2828,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         });
       }
     }
-    
+
     for (final term in regularTerms) {
       final lowerTerm = term.toLowerCase();
       int start = 0;
@@ -2627,7 +2842,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         start = index + 1;
       }
     }
-    
+
     matches.sort((a, b) => a['start']!.compareTo(b['start']!));
     final mergedMatches = <Map<String, int>>[];
     for (final match in matches) {
@@ -2642,7 +2857,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         }
       }
     }
-    
+
     final spans = <TextSpan>[];
     int lastPos = 0;
     for (final match in mergedMatches) {
@@ -2650,7 +2865,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         spans.add(TextSpan(
           text: text.substring(lastPos, match['start']!),
           style: const TextStyle(
-            color: Colors.white, 
+            color: Colors.white,
             fontSize: 14,
             fontFamilyFallback: [
               '.AppleSystemUIFont',
@@ -2681,7 +2896,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       spans.add(TextSpan(
         text: text.substring(lastPos),
         style: const TextStyle(
-          color: Colors.white, 
+          color: Colors.white,
           fontSize: 14,
           fontFamilyFallback: [
             '.AppleSystemUIFont',
@@ -2692,7 +2907,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         ),
       ));
     }
-    
+
     return TextSpan(children: spans);
   }
 
@@ -2708,7 +2923,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     setState(() {
       _playlist = files;
       _playlistRootDir = dirPath;
-      
+
       bool foundMatch = false;
       for (int i = 0; i < _playlistDirectories.length; i++) {
         if (dirPath.startsWith(_playlistDirectories[i])) {
@@ -2717,15 +2932,15 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           break;
         }
       }
-      
+
       if (!foundMatch) {
         _activePlaylistIndex = null;
       }
     });
-    
+
     final prefs = await SharedPreferences.getInstance();
     await prefs.setString('playlistRootDir', dirPath);
-    
+
     _startBackgroundDurationCaching(files);
   }
 
@@ -2736,21 +2951,21 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       print('FFmpeg not available for duration caching: $e');
       return;
     }
-  
+
     for (final filePath in files) {
       if (_playlistDurationCache.containsKey(filePath)) {
         continue;
       }
-      
+
       while (_activeFfprobeCount >= _maxConcurrentFfprobe) {
         await Future.delayed(const Duration(milliseconds: 100));
       }
-      
+
       _activeFfprobeCount++;
-      
+
       try {
         final duration = await _ffmpeg.getAudioDuration(filePath);
-        
+
         final hours = duration.inHours;
         final minutes = duration.inMinutes.remainder(60);
         String formatted;
@@ -2769,10 +2984,10 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       } finally {
         _activeFfprobeCount--;
       }
-      
+
       await Future.delayed(const Duration(milliseconds: 50));
     }
-    
+
     await _saveDurationCache();
   }
 
@@ -2780,11 +2995,11 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     if (_playlistDurationCache.containsKey(filePath)) {
       return;
     }
-        
+
     try {
       await _ffmpeg.ensureBinaries();
       final duration = await _ffmpeg.getAudioDuration(filePath);
-      
+
       final hours = duration.inHours;
       final minutes = duration.inMinutes.remainder(60);
       String formatted;
@@ -2793,17 +3008,17 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       } else {
         formatted = '${minutes}m';
       }
-            
+
       setState(() {
         _playlistDurationCache[filePath] = formatted;
       });
-      
+
       await _saveDurationCache();
     } catch (e) {
       print('DEBUG: Error caching single file duration for ${path.basename(filePath)}: $e');
     }
   }
-  
+
   Future<void> _setPlaylistDirectory() async {
     final result = await FilePicker.platform.getDirectoryPath();
     if (result == null) return;
@@ -2832,7 +3047,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     if (bytes < 1024 * 1024) return '${(bytes / 1024).floor()}KiB';
     return '${(bytes / (1024 * 1024)).floor()}MiB';
   }
-  
+
   int _getNextShuffleChapter() {
     if (_currentAudiobook == null) return 0;
     final totalChapters = _currentAudiobook!.chapters.length;
@@ -2850,7 +3065,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       _playbackSpeed = (_playbackSpeed + 0.1).clamp(0.5, 2.0);
     });
     await player.setRate(_playbackSpeed);
-    
+
     if (_sleepDuration != null) {
       _setSleepTimer(null);
       if (mounted) {
@@ -2863,13 +3078,13 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       }
     }
   }
-  
+
   Future<void> _decreaseSpeed() async {
     setState(() {
       _playbackSpeed = (_playbackSpeed - 0.1).clamp(0.5, 2.0);
     });
     await player.setRate(_playbackSpeed);
-    
+
     if (_sleepDuration != null) {
       _setSleepTimer(null);
       if (mounted) {
@@ -2882,16 +3097,16 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       }
     }
   }
-  
+
   void _increaseFontSize() {
     setState(() {
-      _subtitleFontSize = (_subtitleFontSize + 1).clamp(40, 150);
+      _subtitleFontSize = (_subtitleFontSize + 1).clamp(40, 170);
     });
   }
-  
+
   void _decreaseFontSize() {
     setState(() {
-      _subtitleFontSize = (_subtitleFontSize - 1).clamp(40, 150);
+      _subtitleFontSize = (_subtitleFontSize - 1).clamp(40, 170);
     });
   }
 
@@ -2933,28 +3148,28 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
 
   Future<void> _addBookmark() async {
     if (_currentAudiobook == null) return;
-    
+
     final currentChapter = _currentAudiobook!.chapters[_currentChapterIndex];
     final timeFromChapterStart = _currentPosition - currentChapter.startTime;
     final timeUntilChapterEnd = currentChapter.endTime - _currentPosition;
-    
+
     Duration bookmarkPosition = _currentPosition;
     int bookmarkChapterIndex = _currentChapterIndex;
     String bookmarkChapterTitle = currentChapter.title;
-    
+
     if (timeFromChapterStart.inSeconds <= 10) {
       bookmarkPosition = currentChapter.startTime;
       bookmarkChapterTitle = currentChapter.title;
       bookmarkChapterIndex = _currentChapterIndex;
     }
-    else if (timeUntilChapterEnd.inSeconds <= 10 && 
+    else if (timeUntilChapterEnd.inSeconds <= 10 &&
         _currentChapterIndex < _currentAudiobook!.chapters.length - 1) {
       bookmarkChapterIndex = _currentChapterIndex + 1;
       final nextChapter = _currentAudiobook!.chapters[bookmarkChapterIndex];
       bookmarkPosition = nextChapter.startTime;
       bookmarkChapterTitle = nextChapter.title;
     }
-    
+
     final bookmark = Bookmark(
       audiobookPath: _currentAudiobook!.path,
       audiobookTitle: _currentAudiobook!.title,
@@ -2963,12 +3178,12 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       position: bookmarkPosition,
       created: DateTime.now(),
     );
-    
+
     setState(() {
       _bookmarks.insert(0, bookmark);
     });
     await _saveBookmarks();
-    
+
     if (mounted) {
       ScaffoldMessenger.of(context).showSnackBar(
         SnackBar(
@@ -3002,7 +3217,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   }
 
   void _refreshPlaylistDirectory() async {
-    if (_activePlaylistIndex != null && 
+    if (_activePlaylistIndex != null &&
         _activePlaylistIndex! < _playlistDirectories.length) {
       final dir = _playlistDirectories[_activePlaylistIndex!];
       setState(() {
@@ -3021,15 +3236,15 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       }
     }
   }
-  
+
   void _refreshCustomFonts() async {
     if (_customFontDirectory == null) return;
-    
+
     CustomFontLoader.clearCustomFonts(slot: 1);
     await CustomFontLoader.loadCustomFonts(_customFontDirectory!, slot: 1);
-    
+
     setState(() {});
-    
+
     if (mounted) {
       ScaffoldMessenger.of(context).showSnackBar(
         SnackBar(
@@ -3039,15 +3254,15 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       );
     }
   }
-  
+
   void _refreshCustomFonts2() async {
     if (_customFontDirectory2 == null) return;
-    
+
     CustomFontLoader.clearCustomFonts(slot: 2);
     await CustomFontLoader.loadCustomFonts(_customFontDirectory2!, slot: 2);
-    
+
     setState(() {});
-    
+
     if (mounted) {
       ScaffoldMessenger.of(context).showSnackBar(
         SnackBar(
@@ -3060,28 +3275,28 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
 
   Future<void> _jumpToHistoryItem(int index) async {
     final filteredHistory = _getFilteredHistory();
-    
+
     if (index >= filteredHistory.length) return;
-    
+
     final historyItem = filteredHistory[index];
     setState(() {
       _showPanel = false;
     });
     await _openAudiobook(historyItem.audiobookPath);
   }
-  
+
   Future<void> _jumpToPlaylistItem(int index) async {
     final filteredPlaylist = _getFilteredPlaylist();
-    
+
     if (index >= filteredPlaylist.length) return;
-    
+
     final playlistPath = filteredPlaylist[index];
     setState(() {
       _showPanel = false;
     });
     await _openAudiobook(playlistPath);
   }
-  
+
   Future<void> _saveFontSettings() async {
     if (_currentAudiobook == null) return;
     final prefs = await SharedPreferences.getInstance();
@@ -3093,7 +3308,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       await prefs.setString('colorPalette_${_currentAudiobook!.path}', _currentColorPalette!.name);
     }
   }
-  
+
   Future<void> _loadFontSettings(String audiobookPath) async {
     final prefs = await SharedPreferences.getInstance();
     final savedFont = prefs.getString('font_$audiobookPath');
@@ -3104,7 +3319,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     if (savedLineSpacing != null) {
       _subtitleLineSpacing = savedLineSpacing;
     }
-    
+
     setState(() {
       if (savedFont != null) {
         _selectedFont = savedFont;
@@ -3117,11 +3332,11 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         _selectedFontIndex = allFonts.indexOf(_defaultFont);
         if (_selectedFontIndex == -1) _selectedFontIndex = 0;
       }
-      
+
       if (savedFontSize != null) {
         _subtitleFontSize = savedFontSize;
       }
-      
+
       if (savedColorPalette != null) {
         final palette = ColorPalette.presets.firstWhere(
           (p) => p.name == savedColorPalette,
@@ -3137,7 +3352,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         _currentColorPalette = palette;
         _selectedColorIndex = ColorPalette.presets.indexOf(palette);
       }
-      
+
       if (savedConversionType != null) {
         _conversionType = savedConversionType;
       } else {
@@ -3152,14 +3367,14 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       _favoriteFonts = (prefs.getStringList('favoriteFonts') ?? []).toSet();
     });
   }
-  
+
   Future<void> _addFontToFavorites(String fontName) async {
     setState(() {
       _favoriteFonts.add(fontName);
     });
     final prefs = await SharedPreferences.getInstance();
     await prefs.setStringList('favoriteFonts', _favoriteFonts.toList());
-    
+
     if (mounted) {
       ScaffoldMessenger.of(context).showSnackBar(
         SnackBar(
@@ -3169,14 +3384,14 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       );
     }
   }
-  
+
   Future<void> _removeFontFromFavorites(String fontName) async {
     setState(() {
       _favoriteFonts.remove(fontName);
     });
     final prefs = await SharedPreferences.getInstance();
     await prefs.setStringList('favoriteFonts', _favoriteFonts.toList());
-    
+
     if (mounted) {
       ScaffoldMessenger.of(context).showSnackBar(
         SnackBar(
@@ -3198,22 +3413,22 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       ),
     );
   }
-  
+
   Widget _buildGlyphViewer() {
     final displayFont = _selectedFont == 'System Default' ? null : _selectedFont;
-    
+
     final allGlyphs = <String>[];
-    
+
     // Basic Latin (32-126)
     for (int i = 32; i <= 126; i++) {
       allGlyphs.add(String.fromCharCode(i));
     }
-    
+
     // Private Use Area (E000-F6FF)
     for (int i = 0xE000; i <= 0xF6FF; i++) {
       allGlyphs.add(String.fromCharCode(i));
     }
-    
+
     return Container(
       decoration: BoxDecoration(
         color: Colors.black,
@@ -3228,9 +3443,9 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               child: CircularProgressIndicator(color: Colors.white),
             );
           }
-          
+
           final glyphs = snapshot.data!;
-          
+
           return Column(
             children: [
               Container(
@@ -3272,7 +3487,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                   itemBuilder: (context, index) {
                     final char = glyphs[index];
                     final codePoint = char.codeUnitAt(0);
-                    
+
                     return Container(
                       decoration: BoxDecoration(
                         border: Border.all(color: Colors.grey[800]!),
@@ -3315,25 +3530,25 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       ),
     );
   }
-  
+
   Future<List<String>> _filterValidGlyphs(List<String> allGlyphs, String? fontFamily) async {
     final validGlyphs = <String>[];
-    
+
     final textPainter = TextPainter(
       textDirection: TextDirection.ltr,
     );
-    
+
     for (final char in allGlyphs) {
       if (char.trim().isEmpty) continue;
-      
+
       final codePoint = char.codeUnitAt(0);
-      
+
       // Always include Basic Latin (32-126) - A-Z, a-z, 0-9, punctuation
       if (codePoint >= 32 && codePoint <= 126) {
         validGlyphs.add(char);
         continue;
       }
-      
+
       // For PUA range, filter using width comparison
       textPainter.text = TextSpan(
         text: char,
@@ -3343,7 +3558,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         ),
       );
       textPainter.layout();
-      
+
       if (textPainter.width > 0) {
         final testPainter = TextPainter(textDirection: TextDirection.ltr);
         testPainter.text = TextSpan(
@@ -3351,14 +3566,14 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           style: TextStyle(fontSize: 48, fontFamily: fontFamily),
         );
         testPainter.layout();
-        
+
         // If widths are significantly different, it's probably a valid glyph
         if ((textPainter.width - testPainter.width).abs() > 5) {
           validGlyphs.add(char);
         }
       }
     }
-    
+
     return validGlyphs;
   }
 
@@ -3368,14 +3583,14 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       _favoriteColorPalettes = (prefs.getStringList('favoriteColorPalettes') ?? []).toSet();
     });
   }
-  
+
   Future<void> _addColorPaletteToFavorites(String paletteName) async {
     setState(() {
       _favoriteColorPalettes.add(paletteName);
     });
     final prefs = await SharedPreferences.getInstance();
     await prefs.setStringList('favoriteColorPalettes', _favoriteColorPalettes.toList());
-    
+
     if (mounted) {
       ScaffoldMessenger.of(context).showSnackBar(
         SnackBar(
@@ -3385,14 +3600,14 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       );
     }
   }
-  
+
   Future<void> _removeColorPaletteFromFavorites(String paletteName) async {
     setState(() {
       _favoriteColorPalettes.remove(paletteName);
     });
     final prefs = await SharedPreferences.getInstance();
     await prefs.setStringList('favoriteColorPalettes', _favoriteColorPalettes.toList());
-    
+
     if (mounted) {
       ScaffoldMessenger.of(context).showSnackBar(
         SnackBar(
@@ -3406,9 +3621,9 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   Future<void> _setCustomFontDirectory() async {
     final result = await FilePicker.platform.getDirectoryPath();
     if (result == null) return;
-    
+
     CustomFontLoader.clearCustomFonts(slot: 1);
-    
+
     setState(() {
       _customFontDirectory = result;
     });
@@ -3425,13 +3640,13 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       );
     }
   }
-  
+
   Future<void> _setCustomFontDirectory2() async {
     final result = await FilePicker.platform.getDirectoryPath();
     if (result == null) return;
-    
+
     CustomFontLoader.clearCustomFonts(slot: 2);
-    
+
     setState(() {
       _customFontDirectory2 = result;
     });
@@ -3448,16 +3663,16 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       );
     }
   }
-  
+
   Future<void> _loadCustomFontDirectory() async {
     final prefs = await SharedPreferences.getInstance();
-    
+
     final savedDir = prefs.getString('customFontDirectory');
     if (savedDir != null && await Directory(savedDir).exists()) {
       _customFontDirectory = savedDir;
       await CustomFontLoader.loadCustomFonts(savedDir, slot: 1);
     }
-    
+
     final savedDir2 = prefs.getString('customFontDirectory2');
     if (savedDir2 != null && await Directory(savedDir2).exists()) {
       _customFontDirectory2 = savedDir2;
@@ -3513,7 +3728,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       }
     }
   }
-  
+
   Map<String, dynamic> _calculateStats(List<Map<String, dynamic>> entries) {
     if (entries.isEmpty) {
       return {
@@ -3541,7 +3756,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       'avgChapter': avgChapter,
     };
   }
-  
+
   List<Map<String, dynamic>> _filterEntriesByDate(DateTime date) {
     final dateStr = '${date.year}-${date.month.toString().padLeft(2, '0')}-${date.day.toString().padLeft(2, '0')}';
     return _statsManager.statsEntries.where((entry) {
@@ -3550,7 +3765,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       return datetime.startsWith(dateStr);
     }).toList();
   }
-  
+
   List<Map<String, dynamic>> _filterEntriesByDays(int days) {
     final now = DateTime.now();
     final cutoff = now.subtract(Duration(days: days));
@@ -3565,7 +3780,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       }
     }).toList();
   }
-  
+
   Map<String, int> _getFileListenTimes(List<Map<String, dynamic>> entries) {
     final fileTimes = <String, int>{};
     for (final entry in entries) {
@@ -3578,19 +3793,19 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
 
   bool _matchesSearch(String text, String query, List<String> excludeTerms, {bool? useAnd}) {
     final lowerText = text.toLowerCase();
-    
+
     for (final excludeTerm in excludeTerms) {
       if (lowerText.contains(excludeTerm.toLowerCase())) {
         return false;
       }
     }
-    
+
     if (query.isEmpty) return true;
-    
+
     final terms = <String>[];
     final exactWords = <String>[];
     final exactPhrases = <String>[];
-    
+
     int i = 0;
     while (i < query.length) {
       if (query[i] == '"') {
@@ -3619,22 +3834,22 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         i++;
       }
     }
-    
+
     for (final phrase in exactPhrases) {
       if (!lowerText.contains(phrase)) {
         return false;
       }
     }
-    
+
     for (final exactWord in exactWords) {
       final pattern = RegExp(r'\b' + RegExp.escape(exactWord) + r'\b', caseSensitive: false);
       if (!pattern.hasMatch(lowerText)) {
         return false;
       }
     }
-    
+
     if (terms.isEmpty) return (exactWords.isNotEmpty || exactPhrases.isNotEmpty);
-    
+
     final shouldUseAnd = useAnd ?? _searchUseAnd;
     if (shouldUseAnd) {
       return terms.every((term) => lowerText.contains(term));
@@ -3681,6 +3896,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     final lines = content.split('\n');
     for (var i = 0; i < lines.length; i++) {
       final line = lines[i].trim();
+      if (line == 'VTTSHOW') break;
       if (line.contains('-->')) {
         final parts = line.split('-->');
         if (parts.length == 2) {
@@ -3743,25 +3959,25 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         final minutes = int.parse(parts[1]);
         final secondsParts = parts[2].split('.');
         final seconds = int.parse(secondsParts[0]);
-        final milliseconds = secondsParts.length > 1 
-            ? int.parse(secondsParts[1].padRight(3, '0').substring(0, 3)) 
+        final milliseconds = secondsParts.length > 1
+            ? int.parse(secondsParts[1].padRight(3, '0').substring(0, 3))
             : 0;
         return Duration(
-          hours: hours, 
-          minutes: minutes, 
-          seconds: seconds, 
+          hours: hours,
+          minutes: minutes,
+          seconds: seconds,
           milliseconds: milliseconds
         );
       } else if (parts.length == 2) {
         final minutes = int.parse(parts[0]);
         final secondsParts = parts[1].split('.');
         final seconds = int.parse(secondsParts[0]);
-        final milliseconds = secondsParts.length > 1 
-            ? int.parse(secondsParts[1].padRight(3, '0').substring(0, 3)) 
+        final milliseconds = secondsParts.length > 1
+            ? int.parse(secondsParts[1].padRight(3, '0').substring(0, 3))
             : 0;
         return Duration(
-          minutes: minutes, 
-          seconds: seconds, 
+          minutes: minutes,
+          seconds: seconds,
           milliseconds: milliseconds
         );
       }
@@ -3792,11 +4008,11 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
 
   void _checkPauseTrigger() {
     if (_pauseMode == PauseMode.disabled || _nextPauseTime == null) return;
-    
+
     if (_currentPosition >= _nextPauseTime!) {
       _nextPauseTime = null;
       player.pause();
-      
+
       Duration pauseDuration;
       switch (_pauseMode) {
         case PauseMode.pause2s:
@@ -3817,13 +4033,13 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         case PauseMode.disabled:
           return;
       }
-      
+
       _pauseModeTimer = Timer(pauseDuration, () {
         player.play();
       });
     }
   }
-  
+
   void _updateCurrentSubtitle() {
     if (_subtitles.isEmpty) {
       if (_currentSubtitleText.isNotEmpty) {
@@ -3842,7 +4058,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           break;
         }
       }
-      
+
       if (activeIndex != null) {
         final cue = _subtitles[activeIndex];
         if (_currentSubtitleIndex != activeIndex) {
@@ -3851,6 +4067,16 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             _currentSubtitleText = cue.text;
             _currentSubtitleIndex = activeIndex;
           });
+
+          if (_vttShowActive && activeIndex != null) {
+            final cue = _subtitles[activeIndex];
+            final key =
+                '${_formatVttTime(cue.startTime)} --> ${_formatVttTime(cue.endTime)}';
+            _applyVttShowStyle(key);
+            setState(() {
+              _vttShowRevealedLines = 1;
+            });
+          }
 
         if (_fontCycleActive) {
           _fontCycleCueCounter++;
@@ -3867,7 +4093,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             _navigateColors(1, fromCycle: true);
           }
         }
-          
+
           if (_showWordOverlay && oldText.isNotEmpty) {
             setState(() {
               _showWordOverlay = false;
@@ -3880,7 +4106,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               }
             });
           }
-          
+
           if (_pauseMode != PauseMode.disabled) {
             _nextPauseTime = cue.endTime - const Duration(milliseconds: 200);
           }
@@ -3894,7 +4120,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         }
       }
     }
-    
+
     if (_secondarySubtitles.isEmpty) {
       if (_secondarySubtitleText.isNotEmpty) {
         setState(() {
@@ -3912,7 +4138,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           break;
         }
       }
-            
+
       if (activeIndex != null && _currentSecondarySubtitleIndex != activeIndex) {
         final text = _secondarySubtitles[activeIndex!].text;
         setState(() {
@@ -3935,23 +4161,23 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       );
       return;
     }
-    
+
     final audiobookPath = _currentAudiobook!.path;
     final audiobookDir = path.dirname(audiobookPath);
     final audiobookBase = path.basenameWithoutExtension(audiobookPath);
     final vttDir = path.join(audiobookDir, '${audiobookBase}_vtt');
-    
+
     final result = await FilePicker.platform.pickFiles(
       type: FileType.custom,
       allowedExtensions: ['srt', 'vtt'],
       dialogTitle: 'Select Secondary Subtitle File',
       initialDirectory: vttDir,
     );
-    
+
     if (result == null || result.files.isEmpty) return;
-    
+
     final subtitlePath = result.files.first.path!;
-    
+
     try {
         setState(() {
           _secondarySubtitleFilePath = subtitlePath;
@@ -3965,9 +4191,9 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             _secondarySubtitleFontSize = _subtitleFontSize;
           }
         });
-        
+
         await _applySecondaryConversion();
-      
+
       if (mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
           SnackBar(
@@ -3991,13 +4217,13 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
 
   Future<void> _applySecondaryConversion() async {
     if (_secondarySubtitleFilePath == null) return;
-      
+
     try {
       final content = await File(_secondarySubtitleFilePath!).readAsString();
       _secondaryOriginalSubtitles = _parseVTT(content);
-    
+
       String convertedContent = content;
-      
+
       switch (_secondaryConversionType) {
         case 'demo':
           convertedContent = await SubtitleTransformer.convertToDemoInMemory(content, _secondarySubtitleFont);
@@ -4022,14 +4248,14 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           convertedContent = content;
           break;
       }
-      
+
       final subtitles = _parseVTT(convertedContent);
       setState(() {
         _secondarySubtitles = subtitles;
       });
-      
+
       _updateCurrentSubtitle();
-            
+
     } catch (e) {
       print('Error applying secondary conversion: $e');
     }
@@ -4037,28 +4263,28 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
 
   double _calculateDynamicFontSize(String text, double baseFontSize) {
     final textLength = _getEffectiveTextLength(text);
-    
+
     double multiplier = 1.0;
-    
+
     if (textLength >= 1 && textLength <= 60) {
       final effectiveLength = textLength < 10 ? 10 : textLength;
       multiplier = 1.0 + ((60 - effectiveLength) / 100.0);
     }
-    
+
     final finalSize = baseFontSize * multiplier;
-    
+
     if (text != _lastDebuggedSubtitle) {
       // print(' Font Adjust: len=$textLength, base=$baseFontSize, ×${multiplier.toStringAsFixed(3)} = ${finalSize.toStringAsFixed(1)}');
       _lastDebuggedSubtitle = text;
     }
-    
+
     return finalSize;
   }
 
   int _getEffectiveTextLength(String text) {
     final cleanedText = text.replaceAll(RegExp(r'<[^>]+>'), '');
     int length = 0;
-    
+
     for (int i = 0; i < cleanedText.length; i++) {
       final char = cleanedText.codeUnitAt(i);
       // CJK characters (double-byte) count as 2
@@ -4071,11 +4297,11 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         length += 1;
       }
     }
-    
+
     return length;
   }
 
-  
+
   TextSpan _buildColoredTextSpan(
     String text, {
     double? fontSize,
@@ -4094,15 +4320,15 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     final effectiveLineSpacing = lineSpacing ?? _subtitleLineSpacing;
     final cleanedText = text.replaceAll(RegExp(r'<[^>]+>'), '');
     final effectiveFontSize = _calculateDynamicFontSize(cleanedText, baseFontSize);
-  
-    final fontFamilyFallback = effectiveFont != null 
+
+    final fontFamilyFallback = effectiveFont != null
         ? [effectiveFont, 'Scheherazade New']
         : ['Scheherazade New'];
-    
+
     if (effectivePalette == null) {
       Paint? foreground;
       Color? color;
-      
+
       if (isStroke) {
         foreground = Paint()
           ..style = PaintingStyle.stroke
@@ -4113,7 +4339,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         color = useShadowColor ? Colors.black : Colors.black;
         foreground = null;
       }
-      
+
       return TextSpan(
         text: cleanedText,
         style: TextStyle(
@@ -4140,11 +4366,11 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         ),
       );
     }
-    
+
     if (effectivePalette.isSimplePreset) {
       Paint? foreground;
       Color? color;
-      
+
       if (isStroke) {
         foreground = Paint()
           ..style = PaintingStyle.stroke
@@ -4155,16 +4381,16 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         color = null;
       } else {
         final fontColor = _parseColor(effectivePalette.colors[0]);
-        final baseColor = useShadowColor 
-            ? _parseColor(effectivePalette.effectiveShadowColor(0)) 
+        final baseColor = useShadowColor
+            ? _parseColor(effectivePalette.effectiveShadowColor(0))
             : fontColor;
-        
+
         color = !useShadowColor && effectiveFontColorOverride != FontColorOverride.none
             ? (effectiveFontColorOverride == FontColorOverride.black ? Colors.black87 : Colors.white70)
             : baseColor;
         foreground = null;
       }
-      
+
       return TextSpan(
         text: cleanedText,
         style: TextStyle(
@@ -4191,9 +4417,9 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         ),
       );
     }
-    
+
     final startWordIndex = _calculateWordIndexAtPosition(_currentPosition);
-    
+
     if (_coloringMode == ColoringMode.letters) {
       return _buildLetterColoredTextSpan(
         cleanedText,
@@ -4209,7 +4435,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         effectiveFontColorOverride,
       );
     }
-    
+
     if (_hasMixedLanguages(cleanedText)) {
       return _buildMixedLanguageTextSpan(
         cleanedText,
@@ -4225,16 +4451,16 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         effectiveFontColorOverride,
       );
     }
-    
+
     final language = CJKTokenizer.detectLanguage(cleanedText);
-    if (language == TextLanguage.japanese || 
-        language == TextLanguage.chinese || 
+    if (language == TextLanguage.japanese ||
+        language == TextLanguage.chinese ||
         language == TextLanguage.korean) {
       return _buildCJKColoredTextSpan(
-        cleanedText, 
-        startWordIndex, 
-        effectiveFontSize, 
-        effectiveFont, 
+        cleanedText,
+        startWordIndex,
+        effectiveFontSize,
+        effectiveFont,
         effectivePalette,
         effectiveLineSpacing,
         isStroke,
@@ -4243,24 +4469,24 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         effectiveFontColorOverride,
       );
     }
-    
+
     final pattern = RegExp(r'(\S+)(\s*)');
     final matches = pattern.allMatches(text);
     final spans = <TextSpan>[];
     int wordIndex = startWordIndex;
-    
+
     for (final match in matches) {
       final word = match.group(1)!;
       final space = match.group(2) ?? '';
-      
+
       final colorIndex = wordIndex % effectivePalette.colors.length;
       final fillColorHex = effectivePalette.colors[colorIndex];
       final color = _adjustColorIfBright(fillColorHex);
       wordIndex++;
-      
+
       Paint? foreground;
       Color? textColor;
-      
+
       if (isStroke) {
         foreground = Paint()
           ..style = PaintingStyle.stroke
@@ -4270,16 +4496,16 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               : _getDarkenedStrokeColor(fillColorHex, effectivePalette);
         textColor = null;
       } else {
-        final baseColor = useShadowColor 
-            ? _parseColor(effectivePalette.effectiveShadowColor(colorIndex)) 
+        final baseColor = useShadowColor
+            ? _parseColor(effectivePalette.effectiveShadowColor(colorIndex))
             : color;
-        
+
         textColor = !useShadowColor && effectiveFontColorOverride != FontColorOverride.none
             ? (effectiveFontColorOverride == FontColorOverride.black ? Colors.black87 : Colors.white70)
             : baseColor;
         foreground = null;
       }
-      
+
       spans.add(TextSpan(
         text: word,
         style: TextStyle(
@@ -4305,7 +4531,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               : [],
         ),
       ));
-      
+
       if (space.isNotEmpty) {
         spans.add(TextSpan(
           text: space,
@@ -4321,14 +4547,14 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     }
     return TextSpan(children: spans);
   }
-  
+
   bool _hasMixedLanguages(String text) {
     bool hasCJK = false;
     bool hasLatin = false;
-    
+
     for (final char in text.characters) {
       final code = char.runes.first;
-      
+
       if ((code >= 0x3040 && code <= 0x309F) || // Hiragana
           (code >= 0x30A0 && code <= 0x30FF) || // Katakana
           (code >= 0x4E00 && code <= 0x9FFF) || // CJK Unified Ideographs
@@ -4338,13 +4564,13 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                  (code >= 0x0061 && code <= 0x007A)) { // a-z
         hasLatin = true;
       }
-      
+
       if (hasCJK && hasLatin) return true;
     }
-    
+
     return false;
   }
-  
+
   TextSpan _buildMixedLanguageTextSpan(
     String text,
     int startWordIndex,
@@ -4359,22 +4585,22 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     FontColorOverride fontColorOverride,
   ) {
     const double strokeWidth = _universalStrokeWidth;
-    
+
     final spans = <TextSpan>[];
     int wordIndex = startWordIndex;
-    
+
     final segments = <Map<String, dynamic>>[];
     StringBuffer currentSegment = StringBuffer();
     TextLanguage? currentLang;
-    
+
     for (final char in text.characters) {
       final charLang = CJKTokenizer.detectLanguage(char);
-      
+
       if (currentLang == null) {
         currentLang = charLang;
         currentSegment.write(char);
-      } else if (currentLang == charLang || 
-                 char == ' ' || 
+      } else if (currentLang == charLang ||
+                 char == ' ' ||
                  charLang == TextLanguage.unknown) {
         currentSegment.write(char);
       } else {
@@ -4389,18 +4615,18 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         currentSegment.write(char);
       }
     }
-    
+
     if (currentSegment.isNotEmpty) {
       segments.add({
         'text': currentSegment.toString(),
         'language': currentLang,
       });
     }
-    
+
     for (final segment in segments) {
       final segmentText = segment['text'] as String;
       final segmentLang = segment['language'] as TextLanguage;
-      
+
       if (segmentLang == TextLanguage.japanese ||
           segmentLang == TextLanguage.chinese ||
           segmentLang == TextLanguage.korean) {
@@ -4408,10 +4634,10 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         for (final word in words) {
           final colorIndex = wordIndex % palette.colors.length;
           final color = _adjustColorIfBright(palette.colors[colorIndex]);
-          
+
           Paint? foreground;
           Color? textColor;
-          
+
           if (isStroke) {
             foreground = Paint()
               ..style = PaintingStyle.stroke
@@ -4421,16 +4647,16 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                   : _getDarkenedStrokeColor(palette.colors[colorIndex % palette.colors.length], palette);
             textColor = null;
           } else {
-            final baseColor = useShadowColor 
-                ? _parseColor(palette.effectiveShadowColor(colorIndex)) 
+            final baseColor = useShadowColor
+                ? _parseColor(palette.effectiveShadowColor(colorIndex))
                 : color;
-            
+
             textColor = !useShadowColor && fontColorOverride != FontColorOverride.none
                 ? (fontColorOverride == FontColorOverride.black ? Colors.black87 : Colors.white70)
                 : baseColor;
             foreground = null;
           }
-          
+
           spans.add(TextSpan(
             text: word,
             style: TextStyle(
@@ -4461,18 +4687,18 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       } else {
         final pattern = RegExp(r'(\S+)(\s*)');
         final matches = pattern.allMatches(segmentText);
-        
+
         for (final match in matches) {
           final word = match.group(1)!;
           final space = match.group(2) ?? '';
-          
+
           final colorIndex = wordIndex % palette.colors.length;
           final color = _adjustColorIfBright(palette.colors[colorIndex]);
           wordIndex++;
-          
+
           Paint? foreground;
           Color? textColor;
-          
+
           if (isStroke) {
             foreground = Paint()
               ..style = PaintingStyle.stroke
@@ -4482,16 +4708,16 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                   : _getDarkenedStrokeColor(palette.colors[colorIndex % palette.colors.length], palette);
             textColor = null;
           } else {
-            final baseColor = useShadowColor 
-                ? _parseColor(palette.effectiveShadowColor(colorIndex)) 
+            final baseColor = useShadowColor
+                ? _parseColor(palette.effectiveShadowColor(colorIndex))
                 : color;
-            
+
             textColor = !useShadowColor && fontColorOverride != FontColorOverride.none
                 ? (fontColorOverride == FontColorOverride.black ? Colors.black87 : Colors.white70)
                 : baseColor;
             foreground = null;
           }
-          
+
           spans.add(TextSpan(
             text: word,
             style: TextStyle(
@@ -4517,7 +4743,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                   : [],
             ),
           ));
-          
+
           if (space.isNotEmpty) {
             spans.add(TextSpan(
               text: space,
@@ -4533,10 +4759,10 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         }
       }
     }
-    
+
     return TextSpan(children: spans);
   }
-  
+
   TextSpan _buildLetterColoredTextSpan(
     String text,
     int startIndex,
@@ -4551,13 +4777,13 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     FontColorOverride fontColorOverride,
   ) {
     const double strokeWidth = _universalStrokeWidth;
-    
+
     final spans = <TextSpan>[];
     int colorIndex = startIndex;
-    
+
     for (int i = 0; i < text.length; i++) {
       final char = text[i];
-      
+
       if (char == ' ' || char == '\n' || char == '\t') {
         spans.add(TextSpan(
           text: char,
@@ -4575,10 +4801,10 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       final currentColorIndex = colorIndex % palette.colors.length;
       final color = _adjustColorIfBright(palette.colors[currentColorIndex]);
       colorIndex++;
-      
+
       Paint? foreground;
       Color? textColor;
-      
+
       if (isStroke) {
         foreground = Paint()
           ..style = PaintingStyle.stroke
@@ -4588,16 +4814,16 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               : _getDarkenedStrokeColor(palette.colors[currentColorIndex], palette);
         textColor = null;
       } else {
-              textColor = useShadowColor 
-                  ? _parseColor(palette.effectiveShadowColor(currentColorIndex)) 
+              textColor = useShadowColor
+                  ? _parseColor(palette.effectiveShadowColor(currentColorIndex))
                   : color;
-              
+
               if (!useShadowColor && fontColorOverride != FontColorOverride.none) {
                 textColor = fontColorOverride == FontColorOverride.black ? Colors.black87 : Colors.white70;
               }
               foreground = null;
             }
-      
+
       spans.add(TextSpan(
         text: char,
         style: TextStyle(
@@ -4624,12 +4850,12 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         ),
       ));
     }
-    
+
     return TextSpan(children: spans);
   }
-  
+
   TextSpan _buildCJKColoredTextSpan(
-    String text, 
+    String text,
     int startWordIndex,
     double fontSize,
     String? fontFamily,
@@ -4641,22 +4867,22 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     FontColorOverride fontColorOverride,
   ) {
     const double strokeWidth = _universalStrokeWidth;
-    
-    final fontFamilyFallback = fontFamily != null 
+
+    final fontFamilyFallback = fontFamily != null
         ? [fontFamily, 'Scheherazade New']
         : ['Scheherazade New'];
-  
+
     final words = CJKTokenizer.tokenize(text);
     final spans = <TextSpan>[];
     int wordIndex = startWordIndex;
-    
+
     for (final word in words) {
       final colorIndex = wordIndex % palette.colors.length;
       final color = _adjustColorIfBright(palette.colors[colorIndex]);
-      
+
       Paint? foreground;
       Color? textColor;
-      
+
       if (isStroke) {
         foreground = Paint()
           ..style = PaintingStyle.stroke
@@ -4666,16 +4892,16 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               : _getDarkenedStrokeColor(palette.colors[colorIndex % palette.colors.length], palette);
         textColor = null;
       } else {
-        final baseColor = useShadowColor 
-            ? _parseColor(palette.effectiveShadowColor(colorIndex)) 
+        final baseColor = useShadowColor
+            ? _parseColor(palette.effectiveShadowColor(colorIndex))
             : color;
-        
+
         textColor = !useShadowColor && fontColorOverride != FontColorOverride.none
             ? (fontColorOverride == FontColorOverride.black ? Colors.black87 : Colors.white70)
             : baseColor;
         foreground = null;
       }
-      
+
       spans.add(TextSpan(
         text: word,
         style: TextStyle(
@@ -4703,7 +4929,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       ));
       wordIndex++;
     }
-    
+
     return TextSpan(children: spans);
   }
 
@@ -4714,8 +4940,8 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       _cueWordStarts.add(wordCount);
       final cleanedText = cue.text.replaceAll(RegExp(r'<[^>]+>'), '');
       final language = CJKTokenizer.detectLanguage(cleanedText);
-      if (language == TextLanguage.japanese || 
-          language == TextLanguage.chinese || 
+      if (language == TextLanguage.japanese ||
+          language == TextLanguage.chinese ||
           language == TextLanguage.korean) {
         final words = CJKTokenizer.tokenize(cleanedText);
         wordCount += words.length;
@@ -4730,19 +4956,19 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     if (palette.strokeColor != null) {
       return _parseColor(palette.strokeColor!);
     }
-    
+
     final color = fillColor.replaceAll('#', '');
     final r = int.parse(color.substring(0, 2), radix: 16);
     final g = int.parse(color.substring(2, 4), radix: 16);
     final b = int.parse(color.substring(4, 6), radix: 16);
-    
+
     final newR = (r * 0.7).clamp(0, 255).round();
     final newG = (g * 0.7).clamp(0, 255).round();
     final newB = (b * 0.7).clamp(0, 255).round();
-    
+
     return Color.fromARGB(255, newR, newG, newB);
   }
-  
+
   int _calculateWordIndexAtPosition(Duration position) {
     if (_subtitles.isEmpty || _currentColorPalette == null || _cueWordStarts.isEmpty) {
       return 0;
@@ -4801,7 +5027,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       }
     }
   }
-  
+
   Future<void> _saveChapterIndex() async {
     if (_activePlaylistIndex == null || _activePlaylistIndex! >= _playlistDirectories.length) {
       return;
@@ -4889,7 +5115,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       );
     }
   }
-  
+
   void _searchPlaylistChapters(String query) {
     if (query.isEmpty) {
       setState(() {
@@ -4920,7 +5146,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       _chapterSearchResults = results;
     });
   }
-  
+
   Future<void> _jumpToChapterResult(ChapterSearchResult result) async {
     if (_currentAudiobook?.path != result.audiobookPath) {
       setState(() {
@@ -4959,15 +5185,15 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
 
   Future<void> _previousChapter() async {
     if (_currentAudiobook == null) return;
-    
+
     final currentChapter = _currentAudiobook!.chapters[_currentChapterIndex];
     final timeIntoChapter = _currentPosition - currentChapter.startTime;
-    
+
     if (timeIntoChapter.inSeconds > 10) {
       await _seekTo(currentChapter.startTime);
       return;
     }
-    
+
     if (_currentChapterIndex > 0) {
       await _statsManager.recordChapterEnd(
         path.basenameWithoutExtension(_currentAudiobook!.path),
@@ -4975,7 +5201,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         false,
       );
       await _statsManager.flushCacheToLog();
-      
+
       final chapter = _currentAudiobook!.chapters[_currentChapterIndex - 1];
       await _seekTo(chapter.startTime);
       _statsManager.recordChapterStart();
@@ -4984,7 +5210,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       }
     }
   }
-  
+
   Future<void> _nextChapter({bool fromBoundary = false}) async {
     if (_currentAudiobook == null) return;
     if (!fromBoundary) {
@@ -5016,7 +5242,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       _statsManager.onPlaybackStart();
     }
   }
-  
+
   Future<void> _jumpToChapter(int index) async {
     if (_currentAudiobook != null && index >= 0 && index < _currentAudiobook!.chapters.length) {
       if (_currentChapterIndex != index) {
@@ -5055,7 +5281,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     final ms = d.inMilliseconds.remainder(1000);
     return '${hours.toString().padLeft(2, '0')}:${minutes.toString().padLeft(2, '0')}:${seconds.toString().padLeft(2, '0')}.${ms.toString().padLeft(3, '0')}';
   }
-  
+
   Future<void> _skipForward() async {
     final newPosition = _currentPosition + const Duration(seconds: 10);
     final clampedPosition = Duration(
@@ -5063,7 +5289,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     );
     await _seekTo(clampedPosition);
   }
-  
+
   Future<void> _skipBackward() async {
     final newPosition = _currentPosition - const Duration(seconds: 10);
     final clampedPosition = Duration(
@@ -5077,39 +5303,39 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     final clampedPosition = Duration(
       milliseconds: newPosition.inMilliseconds.clamp(0, _totalDuration.inMilliseconds)
     );
-    
+
     await _seekTo(clampedPosition);
-    
+
     final replayStart = clampedPosition - const Duration(milliseconds: 900);
     final safeReplayStart = replayStart < Duration.zero ? Duration.zero : replayStart;
-    
+
     await player.seek(safeReplayStart);
     await player.play();
-    
+
     Timer(const Duration(milliseconds: 900), () async {
       await player.pause();
       await player.seek(clampedPosition);
     });
   }
-  
+
   Future<void> _skipForward1() async {
     final newPosition = _currentPosition + const Duration(seconds: 1);
     final clampedPosition = Duration(
       milliseconds: newPosition.inMilliseconds.clamp(0, _totalDuration.inMilliseconds)
     );
-    
+
     final replayStart = clampedPosition - const Duration(milliseconds: 900);
     final safeReplayStart = replayStart < Duration.zero ? Duration.zero : replayStart;
-    
+
     await player.seek(safeReplayStart);
     await player.play();
-    
+
     Timer(const Duration(milliseconds: 900), () async {
       await player.pause();
       await player.seek(clampedPosition);
     });
   }
-  
+
   Future<void> _skipForward3() async {
     final newPosition = _currentPosition + const Duration(seconds: 3);
     final clampedPosition = Duration(
@@ -5117,7 +5343,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     );
     await _seekTo(clampedPosition);
   }
-  
+
   Future<void> _skipBackward3() async {
     final newPosition = _currentPosition - const Duration(seconds: 3);
     final clampedPosition = Duration(
@@ -5125,18 +5351,18 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     );
     await _seekTo(clampedPosition);
   }
-  
+
   Future<void> _replaySegmentBack() async {
     final currentTime = _currentPosition;
     final startTime = currentTime - const Duration(milliseconds: 900);
-    
+
     await player.seek(startTime < Duration.zero ? Duration.zero : startTime);
     await player.play();
-    
+
     Timer(const Duration(milliseconds: 800), () async {
       await player.pause();
     });
-    
+
     if (mounted) {
       ScaffoldMessenger.of(context).showSnackBar(
         const SnackBar(
@@ -5146,21 +5372,21 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       );
     }
   }
-  
+
   Future<void> _replaySegmentForward() async {
     final currentTime = _currentPosition;
-    
+
     final startTime = currentTime - const Duration(milliseconds: 900);
     final safeStartTime = startTime < Duration.zero ? Duration.zero : startTime;
-    
+
     await player.seek(safeStartTime);
     await player.play();
-    
+
     Timer(const Duration(milliseconds: 900), () async {
       await player.pause();
       await player.seek(currentTime);
     });
-    
+
     if (mounted) {
       ScaffoldMessenger.of(context).showSnackBar(
         const SnackBar(
@@ -5170,7 +5396,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       );
     }
   }
-  
+
   void _setInPointToLastOutPoint() {
     if (_lastOutPoint == null) {
       ScaffoldMessenger.of(context).showSnackBar(
@@ -5203,11 +5429,11 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         );
         return;
       }
-  
+
       setState(() {
         _inPoint = _currentPosition;
       });
-      
+
       if (mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
           SnackBar(
@@ -5218,7 +5444,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         );
       }
     }
-  
+
   Future<void> _setOutPoint() async {
       if (_inPoint == null) {
         ScaffoldMessenger.of(context).showSnackBar(
@@ -5230,11 +5456,11 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         );
         return;
       }
-      
+
       setState(() {
         _outPoint = _currentPosition;
       });
-      
+
       if (_outPoint! <= _inPoint!) {
         ScaffoldMessenger.of(context).showSnackBar(
           const SnackBar(
@@ -5248,7 +5474,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         });
         return;
       }
-  
+
       if (mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
           SnackBar(
@@ -5258,17 +5484,17 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           ),
         );
       }
-  
+
       if (_isVideoFile) {
         await _cutVideoSegment();
       } else {
         await _sliceCut();
       }
     }
-  
+
   Future<void> _sliceCut() async {
     if (_inPoint == null || _outPoint == null || _currentAudiobook == null) return;
-    
+
     if (_isVideoFile) {
       ScaffoldMessenger.of(context).showSnackBar(
         const SnackBar(
@@ -5278,32 +5504,32 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       );
       return;
     }
-    
+
     final audiobookDir = path.dirname(_currentAudiobook!.path);
     final audiobookName = path.basenameWithoutExtension(_currentAudiobook!.path);
-    
+
     final cutsDir = path.join(audiobookDir, '${audiobookName}_cuts');
     await Directory(cutsDir).create(recursive: true);
-    
+
     final existingCuts = Directory(cutsDir)
         .listSync()
         .whereType<File>()
         .where((f) => path.extension(f.path) == '.opus')
         .length;
-  
+
     final cutNumber = (existingCuts + 1).toString().padLeft(4, '0');
     final cutName = '$cutNumber.opus';
     final outputPath = path.join(cutsDir, cutName);
-    
+
     final duration = _outPoint! - _inPoint!;
-    
+
     try {
       await _ffmpeg.ensureBinaries();
-      
+
       if (_ffmpeg.ffmpegPath == null) {
         throw Exception('Bundled ffmpeg not found');
       }
-  
+
       final args = [
         _ffmpeg.ffmpegPath!,
         '-y',
@@ -5317,27 +5543,27 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         '-fflags', '+genpts+igndts',
         outputPath,
       ];
-  
+
       print('Audio slice (lossless): ${_formatDurationWithMs(_inPoint!)} → ${_formatDurationWithMs(_outPoint!)}');
-  
+
       final process = await Process.start(args[0], args.sublist(1));
-      
+
       await process.stderr.drain();
       await process.stdout.drain();
-      
+
       final exitCode = await process.exitCode;
-      
+
       if (exitCode != 0) {
         throw Exception('FFmpeg audio slicing failed');
       }
-  
+
       if (!await File(outputPath).exists()) {
         throw Exception('Output file was not created');
       }
-  
+
       final fileSize = await File(outputPath).length();
       print('Created: ${path.basename(outputPath)} (${(fileSize / 1024 / 1024).toStringAsFixed(1)} MB)');
-      
+
       if (mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
           SnackBar(
@@ -5347,13 +5573,13 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           ),
         );
       }
-      
+
       setState(() {
         _lastOutPoint = _outPoint ?? _currentPosition;
         _inPoint = null;
         _outPoint = null;
       });
-      
+
     } catch (e, stackTrace) {
       print('ERROR: Failed to slice audio cut: $e');
       print('Stack trace: $stackTrace');
@@ -5368,11 +5594,11 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       }
     }
   }
-  
+
 
   Future<void> _calculateBitrate() async {
     if (_fileSize == 0 || _totalDuration.inSeconds == 0) return;
-    
+
     final bitrateKbps = ((_fileSize * 8) / _totalDuration.inSeconds / 1000).floor();
     setState(() {
       _averageBitrate = bitrateKbps;
@@ -5405,14 +5631,14 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         }
         selectedPath = result.files.first.path!;
       }
-  
+
       if (!await File(selectedPath).exists()) {
         print('File no longer exists: $selectedPath');
-        
+
         final historyIndex = _history.indexWhere((h) => h.audiobookPath == selectedPath);
         if (historyIndex != -1) {
           await _removeFromHistory(historyIndex);
-          
+
           if (mounted) {
             ScaffoldMessenger.of(context).showSnackBar(
               const SnackBar(
@@ -5465,11 +5691,11 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       await _statsManager.flushCacheToLog();
     }
   }
-  
+
   final metadata = await _ffmpeg.loadAudiobook(selectedPath);
   final fileSize = await _getFileSize(selectedPath);
   await player.stop();
-  
+
   if (metadata.chapters.isEmpty) {
     if (mounted) {
       ScaffoldMessenger.of(context).showSnackBar(
@@ -5481,7 +5707,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     }
     return;
   }
-  
+
   final historyItem = _history.firstWhere(
     (h) => h.audiobookPath == selectedPath,
     orElse: () => HistoryItem(
@@ -5495,14 +5721,14 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       playedChapters: [],
     ),
   );
-  
+
   int chapterToLoad = historyItem.lastChapter.clamp(0, metadata.chapters.length - 1);
   Duration positionToLoad = historyItem.lastPosition;
-  
+
   final loadedChapter = metadata.chapters[chapterToLoad];
   if (_shouldSkipChapter(loadedChapter.title)) {
     print('Loaded chapter should be skipped, finding next valid chapter...');
-    
+
     for (int i = chapterToLoad; i < metadata.chapters.length; i++) {
       if (!_shouldSkipChapter(metadata.chapters[i].title)) {
         chapterToLoad = i;
@@ -5512,7 +5738,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       }
     }
   }
-  
+
   setState(() {
     _currentAudiobook = metadata;
     _currentChapterIndex = chapterToLoad;
@@ -5523,34 +5749,34 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     _frequencyItems = [];
     _isAnalyzingFrequencies = false;
   });
-      
+
       await _loadFontSettings(selectedPath);
       await player.open(Media(selectedPath), play: false);
       await player.setRate(_playbackSpeed);
       await _loadSubtitles(selectedPath);
       _precalculateWordPositions();
-      
+
       await Future.delayed(const Duration(milliseconds: 100));
-      
+
       if (positionToLoad.inSeconds > 0) {
         await player.seek(positionToLoad);
         await Future.delayed(const Duration(milliseconds: 50));
       }
 
-    await player.play(); 
+    await player.play();
 
       if (_currentAudiobook != null) {
         _statsManager.recordChapterStart();
       }
-      
+
       if (_isPlaying) {
         _statsManager.onPlaybackStart();
       }
-      
+
       await _calculateBitrate();
-      
+
       _cacheSingleFileDuration(selectedPath);
-      
+
       _focusNode.requestFocus();
     } catch (e, stackTrace) {
       print('Error opening audiobook: $e');
@@ -5622,12 +5848,12 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     final audiobookDir = path.dirname(audiobookPath);
     final audiobookBase = path.basenameWithoutExtension(audiobookPath);
     final vttDir = path.join(audiobookDir, '${audiobookBase}_vtt');
-    
+
     String initialDirectory = audiobookDir;
     if (await Directory(vttDir).exists()) {
       initialDirectory = vttDir;
     }
-    
+
     final result = await FilePicker.platform.pickFiles(
       type: FileType.custom,
       allowedExtensions: ['srt', 'vtt'],
@@ -5635,18 +5861,18 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       initialDirectory: initialDirectory,
     );
     if (result == null || result.files.isEmpty) return;
-    
+
     var subtitlePath = result.files.first.path!;
-    
+
     try {
       if (path.extension(subtitlePath).toLowerCase() == '.srt') {
         final vttPath = subtitlePath.replaceAll(RegExp(r'\.srt$', caseSensitive: false), '.vtt');
-        
+
         if (!await File(vttPath).exists()) {
           final srtContent = await File(subtitlePath).readAsString();
           final vttContent = _convertSrtToVtt(srtContent);
           await File(vttPath).writeAsString(vttContent);
-          
+
           if (mounted) {
             ScaffoldMessenger.of(context).showSnackBar(
               SnackBar(
@@ -5656,13 +5882,13 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             );
           }
         }
-        
+
         subtitlePath = vttPath;
       }
-      
+
       final content = await File(subtitlePath).readAsString();
       final subtitles = _parseVTT(content);
-      
+
       setState(() {
         _subtitles = subtitles;
         _subtitleFilePath = subtitlePath;
@@ -5690,6 +5916,89 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           ),
         );
       }
+    }
+  }
+
+  Future<void> _saveVttShowFile() async {
+    if (_subtitleFilePath == null) return;
+    _vttShowCaptureIfChanged();
+
+    final buffer = StringBuffer();
+    buffer.writeln('WEBVTT');
+    buffer.writeln();
+    for (final cue in _originalSubtitles) {
+      buffer.writeln(
+          '${_formatVttTime(cue.startTime)} --> ${_formatVttTime(cue.endTime)}');
+      buffer.writeln(cue.text);
+      buffer.writeln();
+    }
+
+    await VttShowService.save(
+      vttPath: _subtitleFilePath!,
+      styles: _vttShowStyles,
+      subtitleCueKeys: _allSubtitleCueKeys(),
+      vttContent: buffer.toString(),
+    );
+  }
+
+  Future<void> _loadVttShowSilentAudio() async {
+    try {
+      String bundlePath;
+
+      if (Platform.isMacOS || Platform.isIOS) {
+        final executablePath = Platform.resolvedExecutable;
+        final appDir = path.dirname(path.dirname(executablePath));
+        bundlePath = path.join(
+          appDir,
+          'Frameworks',
+          'App.framework',
+          'Resources',
+          'flutter_assets',
+          'assets',
+          'adhanclock',
+          'substitcher_vttshow.opus',
+        );
+      } else if (Platform.isLinux) {
+        final executablePath = Platform.resolvedExecutable;
+        final appDir = path.dirname(executablePath);
+        bundlePath = path.join(appDir, 'data', 'flutter_assets', 'assets',
+            'adhanclock', 'substitcher_vttshow.opus');
+      } else if (Platform.isWindows) {
+        final executablePath = Platform.resolvedExecutable;
+        final appDir = path.dirname(executablePath);
+        bundlePath = path.join(appDir, 'data', 'flutter_assets', 'assets',
+            'adhanclock', 'substitcher_vttshow.opus');
+      } else {
+        bundlePath = path.join(
+            'assets', 'adhanclock', 'substitcher_vttshow.opus');
+      }
+
+      print('VttShow silent audio: $bundlePath');
+
+      if (!await File(bundlePath).exists()) {
+        print('VttShow silent audio not found: $bundlePath');
+        return;
+      }
+
+      final metadata = await _ffmpeg.loadAudiobook(bundlePath);
+      final fileSize = await _getFileSize(bundlePath);
+
+      await player.stop();
+      await player.open(Media(bundlePath), play: false);
+      await player.setRate(_playbackSpeed);
+
+      setState(() {
+        _currentAudiobook = metadata;
+        _currentChapterIndex = 0;
+        _currentPosition = Duration.zero;
+        _fileSize = fileSize;
+        _isVideoFile = false;
+      });
+
+      await player.pause();
+
+    } catch (e) {
+      print('Error loading vttshow silent audio: $e');
     }
   }
 
@@ -5743,14 +6052,14 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         break;
     }
   }
-  
+
   String _convertSrtToVtt(String srtContent) {
     final lines = srtContent.split('\n');
     final vttLines = <String>['WEBVTT', ''];
-    
+
     for (int i = 0; i < lines.length; i++) {
       final line = lines[i].trim();
-      
+
       if (line.contains('-->')) {
         final convertedLine = line.replaceAll(',', '.');
         vttLines.add(convertedLine);
@@ -5762,7 +6071,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         vttLines.add(line);
       }
     }
-    
+
     return vttLines.join('\n');
   }
 
@@ -5776,14 +6085,14 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         );
         return;
       }
-    
+
       if (_inPoint == null || _currentAudiobook == null) {
         ScaffoldMessenger.of(context).showSnackBar(
           const SnackBar(content: Text('Set In point first (i)')),
         );
         return;
       }
-    
+
       final outPoint = _outPoint ?? _currentPosition;
       if (outPoint <= _inPoint!) {
         ScaffoldMessenger.of(context).showSnackBar(
@@ -5791,7 +6100,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         );
         return;
       }
-    
+
       final ffmpeg = await VideoEditService.findSystemFfmpeg();
       if (ffmpeg == null) {
         if (mounted) {
@@ -5805,27 +6114,27 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         }
         return;
       }
-    
+
       final cutsDir = VideoEditService.getCutsDirectory(_currentAudiobook!.path);
       await Directory(cutsDir).create(recursive: true);
-    
+
       final ext = path.extension(_currentAudiobook!.path).toLowerCase();
       final existingCuts = Directory(cutsDir)
           .listSync()
           .whereType<File>()
           .where((f) => path.extension(f.path).toLowerCase() == ext)
           .length;
-    
+
       final cutNumber = (existingCuts + 1).toString().padLeft(4, '0');
       final cutName = '$cutNumber$ext';
       final outputPath = path.join(cutsDir, cutName);
-    
+
       final videoWidth  = int.tryParse(_videoResolution?.split('x').firstOrNull ?? '1920') ?? 1920;
       final videoHeight = int.tryParse(_videoResolution?.split('x').lastOrNull  ?? '1080') ?? 1080;
       final hasPendingTrackedBlur = _trackedBlurStart != null && _trackedBlurEnd != null;
-    
+
       setState(() => _isCutting = true);
-    
+
       try {
         await VideoEditService.cutVideo(
           inputPath: _currentAudiobook!.path,
@@ -5852,7 +6161,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             }
           },
         );
-    
+
         if (hasPendingTrackedBlur) {
           if (mounted) {
             setState(() => _isTracking = true);
@@ -5864,24 +6173,24 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               ),
             );
           }
-    
+
           final x = min(_trackedBlurStart!.dx, _trackedBlurEnd!.dx);
           final y = min(_trackedBlurStart!.dy, _trackedBlurEnd!.dy);
           final w = (_trackedBlurEnd!.dx - _trackedBlurStart!.dx).abs();
           final h = (_trackedBlurEnd!.dy - _trackedBlurStart!.dy).abs();
-    
+
           final frames = await VisionTrackingService.trackRegion(
             videoPath: outputPath,
             x: x, y: y, w: w, h: h,
           );
-    
+
           if (mounted) setState(() => _isTracking = false);
-    
+
           if (frames.isNotEmpty) {
             final trackedCoords = frames
                 .map((f) => [f.frameIndex.toDouble(), f.x, f.y, f.w, f.h])
                 .toList();
-    
+
             if (mounted) {
               ScaffoldMessenger.of(context).showSnackBar(
                 const SnackBar(
@@ -5891,9 +6200,9 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                 ),
               );
             }
-    
+
             final blurredPath = path.join(cutsDir, 'tmp_blurred_$cutName');
-    
+
             await VideoEditService.cutVideo(
               inputPath: outputPath,
               outputPath: blurredPath,
@@ -5920,12 +6229,12 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                 }
               },
             );
-    
+
             await File(outputPath).delete();
             await File(blurredPath).rename(outputPath);
           }
         }
-    
+
         setState(() {
           _lastOutPoint = _outPoint ?? _currentPosition;
           _inPoint = null;
@@ -5938,7 +6247,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           _trackedBlurInverted = false;
           _isTracking = false;
         });
-    
+
       } catch (e) {
         print('CUT ERROR: $e');
         if (mounted) {
@@ -5986,7 +6295,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       _isTracking = false;
     });
   }
-  
+
   Future<void> _skipBackward1Frame() async {
     if (_isPlaying) await player.pause();
     final fps = _videoFps ?? 30.0;
@@ -5997,7 +6306,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     );
     await _seekTo(clampedPosition);
   }
-  
+
   Future<void> _skipForward1Frame() async {
     if (_isPlaying) await player.pause();
     final fps = _videoFps ?? 30.0;
@@ -6008,10 +6317,10 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     );
     await _seekTo(clampedPosition);
   }
-  
+
   Future<void> _combineVideoCuts() async {
       if (_currentAudiobook == null) return;
-    
+
       final systemFfmpeg = await VideoEditService.findSystemFfmpeg();
       if (systemFfmpeg == null) {
         if (mounted) {
@@ -6025,12 +6334,12 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         }
         return;
       }
-    
+
       setState(() {
         _showCutsOverlay = true;
       });
     }
-  
+
     Future<void> _openCutsDirectory() async {
       if (_currentAudiobook == null) return;
       final cutsDir = VideoEditService.getCutsDirectory(_currentAudiobook!.path);
@@ -6056,7 +6365,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       final baseName = path.basenameWithoutExtension(_currentAudiobook!.path);
       final sourceDir = path.dirname(_currentAudiobook!.path);
       final cutsDir = VideoEditService.getCutsDirectory(_currentAudiobook!.path);
-  
+
       final isWholeVideo = cutFiles.length == 1 && cutFiles.first == _currentAudiobook!.path;
       final outputPath = isWholeVideo
           ? path.join(sourceDir, '${baseName}_encoded.mp4')
@@ -6064,7 +6373,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       final finalPath = isWholeVideo
           ? outputPath
           : path.join(sourceDir, '${baseName}_combined.mp4');
-  
+
       setState(() {
         _showCutsOverlay = false;
         _lastEncodeSettings = settings;
@@ -6075,7 +6384,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         _combineStartTime = DateTime.now();
         _combineFinishTime = null;
       });
-    
+
       try {
         await for (final progress in VideoEditService.stitchAndEncode(
           segmentFiles: cutFiles,
@@ -6096,7 +6405,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             });
           }
         }
-  
+
         if (_combineCancelled) {
           try { await File(outputPath).delete(); } catch (_) {}
           if (mounted) {
@@ -6110,10 +6419,10 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           }
           return;
         }
-  
+
         if (!isWholeVideo) await File(outputPath).rename(finalPath);
         _combineProcess = null;
-  
+
         if (mounted) {
           setState(() {
             _isCombining = false;
@@ -6139,7 +6448,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         }
       }
     }
-  
+
   Future<void> _navigateFonts(int direction, {bool fromCycle = false}) async {
     if (!fromCycle && _fontCycleActive) {
       setState(() {
@@ -6149,13 +6458,13 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     _fontCycleCueCounter = 0;
     final filteredFonts = _getFilteredFonts();
     if (filteredFonts.isEmpty) return;
-  
+
     setState(() {
       _selectedFontIndex = ((_selectedFontIndex + direction) % filteredFonts.length + filteredFonts.length) % filteredFonts.length;
       _selectedFont = filteredFonts[_selectedFontIndex];
     });
     _scrollToSelectedFont();
-  
+
     if (_autoConvertAlternates && FontAlternatesData.hasFontAlternates(_selectedFont)) {
       setState(() {
         _conversionType = 'alternates';
@@ -6171,7 +6480,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       }
     }
   }
-  
+
   void _scrollToSelectedFont() {
     if (!_fontScrollController.hasClients) return;
     WidgetsBinding.instance.addPostFrameCallback((_) {
@@ -6234,7 +6543,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         ),
       );
     }
-    
+
     return Focus(
       focusNode: _focusNode,
       autofocus: true,
@@ -6243,24 +6552,33 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           _searchSubtitles(_searchQuery);
           return KeyEventResult.handled;
         }
-        
-        if (_searchFocusNode.hasFocus || 
-            _excludeFocusNode.hasFocus || 
-            _skipChapterFocusNode.hasFocus || 
-            _subsSearchFocusNode.hasFocus || 
-            _chapterSearchFocusNode.hasFocus || 
-            _chapterExcludeFocusNode.hasFocus || 
-            _statsSearchFocusNode.hasFocus) { 
+
+        if (_searchFocusNode.hasFocus ||
+            _excludeFocusNode.hasFocus ||
+            _skipChapterFocusNode.hasFocus ||
+            _subsSearchFocusNode.hasFocus ||
+            _chapterSearchFocusNode.hasFocus ||
+            _chapterExcludeFocusNode.hasFocus ||
+            _statsSearchFocusNode.hasFocus ||
+            _vttEditLine1FocusNode.hasFocus ||
+            _vttEditLine2FocusNode.hasFocus) {
           return KeyEventResult.ignored;
         }
-        
+
         if (event is KeyDownEvent || event is KeyRepeatEvent) {
-          if (event.logicalKey == LogicalKeyboardKey.keyV && 
+          if (event.logicalKey == LogicalKeyboardKey.keyV &&
               (HardwareKeyboard.instance.isMetaPressed || HardwareKeyboard.instance.isControlPressed)) {
             return KeyEventResult.ignored;
           }
-  
+
           if (event.logicalKey == LogicalKeyboardKey.escape && event is KeyDownEvent) {
+            if (_vttShowEditMode) {
+              setState(() {
+                _vttShowEditMode = false;
+              });
+              _focusNode.requestFocus();
+              return KeyEventResult.handled;
+            }
             if (_showCutsOverlay) {
               setState(() => _showCutsOverlay = false);
               return KeyEventResult.handled;
@@ -6294,7 +6612,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               });
               return KeyEventResult.handled;
             }
-          } else if (event.logicalKey == LogicalKeyboardKey.keyC && 
+          } else if (event.logicalKey == LogicalKeyboardKey.keyC &&
                    HardwareKeyboard.instance.isShiftPressed && event is KeyDownEvent) {
             _copyChaptersList();
             return KeyEventResult.handled;
@@ -6305,19 +6623,19 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             });
             _scrollToCurrentChapter();
             return KeyEventResult.handled;
-          } else if (event.logicalKey == LogicalKeyboardKey.keyU && 
+          } else if (event.logicalKey == LogicalKeyboardKey.keyU &&
                           HardwareKeyboard.instance.isControlPressed && event is KeyDownEvent) {
               _copyCurrentSubtitleInMemory();
               return KeyEventResult.handled;
-          } else if (event.logicalKey == LogicalKeyboardKey.keyU && 
+          } else if (event.logicalKey == LogicalKeyboardKey.keyU &&
                           HardwareKeyboard.instance.isShiftPressed && event is KeyDownEvent) {
               _copySecondarySubtitle();
               return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyU && event is KeyDownEvent) {
               _copyCurrentSubtitle();
               return KeyEventResult.handled;
-          } else if (event.logicalKey == LogicalKeyboardKey.keyH && 
-                       HardwareKeyboard.instance.isShiftPressed && 
+          } else if (event.logicalKey == LogicalKeyboardKey.keyH &&
+                       HardwareKeyboard.instance.isShiftPressed &&
                        event is KeyDownEvent) {
             setState(() {
               _hideChapterTitle = !_hideChapterTitle;
@@ -6329,7 +6647,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               _panelMode = PanelMode.history;
             });
             _scrollToTopOfHistory();
-            return KeyEventResult.handled;        
+            return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyP && event is KeyDownEvent) {
             setState(() {
               _showPanel = true;
@@ -6337,7 +6655,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             });
             _scrollToCurrentPlaylistItem();
             return KeyEventResult.handled;
-          } else if (event.logicalKey == LogicalKeyboardKey.keyB && 
+          } else if (event.logicalKey == LogicalKeyboardKey.keyB &&
                                HardwareKeyboard.instance.isShiftPressed) {
                       if (event is KeyDownEvent) {
                         setState(() {
@@ -6350,7 +6668,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                         _saveDefaultSettings();
                       }
                       return KeyEventResult.handled;
-                    } else if (event.logicalKey == LogicalKeyboardKey.keyB && 
+                    } else if (event.logicalKey == LogicalKeyboardKey.keyB &&
                                HardwareKeyboard.instance.isControlPressed) {
                       if (event is KeyDownEvent) {
                         setState(() {
@@ -6367,7 +6685,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                         _scrollToTopOfHistory();
                       }
                       return KeyEventResult.handled;
-          } else if (event.logicalKey == LogicalKeyboardKey.keyF && 
+          } else if (event.logicalKey == LogicalKeyboardKey.keyF &&
                       HardwareKeyboard.instance.isShiftPressed && event is KeyDownEvent) {
             _addFontToFavorites(_selectedFont);
             return KeyEventResult.handled;
@@ -6377,7 +6695,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               _panelMode = PanelMode.fonts;
             });
             return KeyEventResult.handled;
-          } else if (event.logicalKey == LogicalKeyboardKey.keyR && 
+          } else if (event.logicalKey == LogicalKeyboardKey.keyR &&
                       HardwareKeyboard.instance.isShiftPressed && event is KeyDownEvent) {
             if (_currentColorPalette != null) {
               _addColorPaletteToFavorites(_currentColorPalette!.name);
@@ -6395,11 +6713,25 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               _panelMode = PanelMode.words;
             });
             return KeyEventResult.handled;
-          } else if (event.logicalKey == LogicalKeyboardKey.keyS && event is KeyDownEvent) {
-            setState(() {
-              _showPanel = true;
-              _panelMode = PanelMode.subs;
-            });
+          } else if (event.logicalKey == LogicalKeyboardKey.keyS &&
+                     HardwareKeyboard.instance.isShiftPressed &&
+                     event is KeyDownEvent) {
+            if (_vttShowActive && _subtitleFilePath != null) {
+              _vttEditKey.currentState?.flushEdits();
+              Future.delayed(const Duration(milliseconds: 50), () {
+                _saveVttShowFile().then((_) {
+                  if (mounted) {
+                    ScaffoldMessenger.of(context).showSnackBar(
+                      const SnackBar(
+                        content: Text('Saved ✓'),
+                        duration: Duration(seconds: 1),
+                        backgroundColor: Colors.green,
+                      ),
+                    );
+                  }
+                });
+              });
+            }
             return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyT && HardwareKeyboard.instance.isShiftPressed && event is KeyDownEvent) {
             setState(() {
@@ -6416,7 +6748,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               _showPanel = true;
               _panelMode = PanelMode.stats;
             });
-            return KeyEventResult.handled;          
+            return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.home && event is KeyDownEvent) {
             player.seek(Duration.zero);
             return KeyEventResult.handled;
@@ -6434,7 +6766,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               }
             }
             return KeyEventResult.handled;
-          } else if (event.logicalKey == LogicalKeyboardKey.backspace && 
+          } else if (event.logicalKey == LogicalKeyboardKey.backspace &&
                      (HardwareKeyboard.instance.isControlPressed || HardwareKeyboard.instance.isMetaPressed) &&
                      event is KeyDownEvent) {
             if (_showPanel && _panelMode != PanelMode.words) {
@@ -6498,7 +6830,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                     } else if (event.logicalKey == LogicalKeyboardKey.keyL && event is KeyDownEvent) {
                       _openAudiobook();
                       return KeyEventResult.handled;
-          } else if (event.logicalKey == LogicalKeyboardKey.keyM && 
+          } else if (event.logicalKey == LogicalKeyboardKey.keyM &&
                    HardwareKeyboard.instance.isShiftPressed && event is KeyDownEvent) {
             _copyCurrentMetadata();
             return KeyEventResult.handled;
@@ -6513,8 +6845,8 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           } else if (event.logicalKey == LogicalKeyboardKey.bracketRight && event is KeyDownEvent) {
             _increaseSpeed();
             return KeyEventResult.handled;
-          } else if (event.logicalKey == LogicalKeyboardKey.keyY && 
-                   HardwareKeyboard.instance.isShiftPressed && 
+          } else if (event.logicalKey == LogicalKeyboardKey.keyY &&
+                   HardwareKeyboard.instance.isShiftPressed &&
                    event is KeyDownEvent) {
             if (Platform.isAndroid || Platform.isIOS) {
               ScaffoldMessenger.of(context).showSnackBar(
@@ -6530,7 +6862,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           } else if (event.logicalKey == LogicalKeyboardKey.keyY && event is KeyDownEvent) {
             _toggleFullscreen();
             return KeyEventResult.handled;
-          } else if (event.logicalKey == LogicalKeyboardKey.keyZ && 
+          } else if (event.logicalKey == LogicalKeyboardKey.keyZ &&
                    HardwareKeyboard.instance.isShiftPressed && event is KeyDownEvent) {
             _setSleepTimer(null);
             return KeyEventResult.handled;
@@ -6544,14 +6876,49 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             _showGlyphViewerOverlay();
             return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyA &&
+                     HardwareKeyboard.instance.isControlPressed &&
+                     event is KeyDownEvent) {
+                       if (_vttShowEditMode && _currentSubtitleIndex != null) {
+                         final index = _currentSubtitleIndex!;
+                         final cue = _subtitles[index];
+                         if (cue.text.trim().isEmpty) return KeyEventResult.handled;
+                         if (index + 1 < _subtitles.length &&
+                           _subtitles[index + 1].startTime == cue.endTime) {
+                             if (mounted) {
+                               ScaffoldMessenger.of(context).showSnackBar(
+                                 const SnackBar(
+                                   content: Text('Next cue already exists at this time'),
+                                   duration: Duration(seconds: 1),
+                                 ),
+                               );
+                             }
+                             return KeyEventResult.handled;
+                           }
+                           _vttEditKey.currentState?.flushEdits();
+              final newStart = cue.endTime;
+              final newEnd = cue.endTime + const Duration(seconds: 10);
+              final newCue = SubtitleCue(
+                startTime: newStart,
+                endTime: newEnd,
+                text: '',
+              );
+              setState(() {
+                _subtitles.insert(index + 1, newCue);
+                _originalSubtitles.insert(index + 1, newCue);
+              });
+              _seekTo(newStart + const Duration(milliseconds: 10));
+              return KeyEventResult.handled;
+            }
+            return KeyEventResult.ignored;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyA &&
                              HardwareKeyboard.instance.isShiftPressed && event is KeyDownEvent) {
                       _combineAllCuts();
                       return KeyEventResult.handled;
                     } else if (event.logicalKey == LogicalKeyboardKey.keyA && event is KeyDownEvent) {
                       _applyDefaultSettings();
                       return KeyEventResult.handled;
-          } else if ((event.logicalKey == LogicalKeyboardKey.minus || 
-                      event.logicalKey == LogicalKeyboardKey.underscore) && 
+          } else if ((event.logicalKey == LogicalKeyboardKey.minus ||
+                      event.logicalKey == LogicalKeyboardKey.underscore) &&
                      event is KeyDownEvent) {
             if (_isVideoFile) {
               if (HardwareKeyboard.instance.isShiftPressed) {
@@ -6561,7 +6928,35 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               }
               return KeyEventResult.handled;
             }
+          } else if (event.logicalKey == LogicalKeyboardKey.tab && event is KeyDownEvent) {
+            if (_vttShowActive) {
+              if (_vttShowEditMode) {
+                if (!_vttEditLine1FocusNode.hasFocus &&
+                    !_vttEditLine2FocusNode.hasFocus) {
+                  _vttEditLine1FocusNode.requestFocus();
+                }
+              } else {
+                _loadVttShowSilentAudio();
+                setState(() {
+                  _vttShowEditMode = true;
+                });
+                WidgetsBinding.instance.addPostFrameCallback((_) {
+                  _vttEditLine1FocusNode.requestFocus();
+                });
+              }
+              return KeyEventResult.handled;
+            }
+            return KeyEventResult.ignored;
           } else if (event.logicalKey == LogicalKeyboardKey.space) {
+            if (_vttShowActive && _subtitles.isNotEmpty) {
+              final currentLines = _currentSubtitleText.split('\n').length;
+              if (_vttShowRevealedLines < currentLines) {
+                setState(() => _vttShowRevealedLines++);
+              } else {
+                _skipToNextSubtitle();
+              }
+              return KeyEventResult.handled;
+            }
             _togglePlayPause();
             return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.backquote && event is KeyDownEvent) {
@@ -6571,11 +6966,47 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               });
             }
             return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.tab && event is KeyDownEvent) {
+            if (_vttShowActive) {
+              if (_vttShowEditMode) {
+                if (!_vttEditLine1FocusNode.hasFocus &&
+                    !_vttEditLine2FocusNode.hasFocus) {
+                  _vttEditLine1FocusNode.requestFocus();
+                }
+              } else {
+                if (_currentAudiobook == null) {
+                  _loadVttShowSilentAudio();
+                }
+                setState(() {
+                  _vttShowEditMode = true;
+                });
+                WidgetsBinding.instance.addPostFrameCallback((_) {
+                  _vttEditLine1FocusNode.requestFocus();
+                });
+              }
+              return KeyEventResult.handled;
+            }
+            return KeyEventResult.ignored;
           } else if (event.logicalKey == LogicalKeyboardKey.keyE) {
             setState(() {
               _showEncoderScreen = true;
             });
             return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyD &&
+                     HardwareKeyboard.instance.isControlPressed &&
+                     event is KeyDownEvent) {
+            if (_vttShowEditMode && _currentSubtitleIndex != null) {
+              final index = _currentSubtitleIndex!;
+              setState(() {
+                _subtitles.removeAt(index);
+                _originalSubtitles.removeAt(index);
+              });
+              final newIndex = (index - 1).clamp(0, _subtitles.length - 1);
+              final cue = _subtitles[newIndex];
+              _seekTo(cue.startTime + const Duration(milliseconds: 10));
+              return KeyEventResult.handled;
+            }
+            return KeyEventResult.ignored;
           } else if (event.logicalKey == LogicalKeyboardKey.keyD) {
             if (HardwareKeyboard.instance.isShiftPressed) {
               _showDownloadDialog();
@@ -6658,24 +7089,43 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               _decreaseFontSize();
               return KeyEventResult.handled;
             }
-          } else if (event.logicalKey == LogicalKeyboardKey.arrowLeft) {
-            if (HardwareKeyboard.instance.isShiftPressed) {
-              _previousChapter();
-              return KeyEventResult.handled;
-            } else if (_subtitles.isNotEmpty) {
-              _skipToPreviousSubtitle();
-            } else {
-              _skipBackward3();
-            }
-            return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.arrowRight) {
             if (HardwareKeyboard.instance.isShiftPressed) {
               _nextChapter();
               return KeyEventResult.handled;
-            } else if (_subtitles.isNotEmpty) {
+            }
+            if (_vttShowActive && _subtitles.isNotEmpty) {
+              final currentLines = _currentSubtitleText.split('\n').length;
+              if (_vttShowRevealedLines < currentLines) {
+                setState(() => _vttShowRevealedLines++);
+              } else {
+                _skipToNextSubtitle();
+              }
+              return KeyEventResult.handled;
+            }
+            if (_subtitles.isNotEmpty) {
               _skipToNextSubtitle();
             } else {
               _skipForward3();
+            }
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.arrowLeft) {
+            if (HardwareKeyboard.instance.isShiftPressed) {
+              _previousChapter();
+              return KeyEventResult.handled;
+            }
+            if (_vttShowActive && _subtitles.isNotEmpty) {
+              if (_vttShowRevealedLines > 1) {
+                setState(() => _vttShowRevealedLines--);
+              } else {
+                _skipToPreviousSubtitle();
+              }
+              return KeyEventResult.handled;
+            }
+            if (_subtitles.isNotEmpty) {
+              _skipToPreviousSubtitle();
+            } else {
+              _skipBackward3();
             }
             return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyI &&
@@ -6874,32 +7324,32 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                 final temp = _primarySubtitlePath;
                 _primarySubtitlePath = _secondarySubtitlePath;
                 _secondarySubtitlePath = temp;
-                
+
                 _subtitleFilePath = _primarySubtitlePath;
                 _secondarySubtitleFilePath = _secondarySubtitlePath;
-                
+
                 final tempSubtitles = _subtitles;
                 final tempText = _currentSubtitleText;
                 final tempIndex = _currentSubtitleIndex;
-                
+
                 _subtitles = _secondarySubtitles;
                 _currentSubtitleText = _secondarySubtitleText;
                 _currentSubtitleIndex = _currentSecondarySubtitleIndex;
-                
+
                 _secondarySubtitles = tempSubtitles;
                 _secondarySubtitleText = tempText;
                 _currentSecondarySubtitleIndex = tempIndex;
-                
+
                 final tempFont = _selectedFont;
                 final tempSize = _subtitleFontSize;
                 final tempPalette = _currentColorPalette;
                 final tempConversion = _conversionType;
-                
+
                 _selectedFont = _secondarySubtitleFont;
                 _subtitleFontSize = _secondarySubtitleFontSize;
                 _currentColorPalette = _secondaryColorPalette;
                 _conversionType = _secondaryConversionType;
-                
+
                 _secondarySubtitleFont = tempFont;
                 _secondarySubtitleFontSize = tempSize;
                 _secondaryColorPalette = tempPalette;
@@ -6908,12 +7358,12 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                 final tempBlur = _blurShadowEnabled;
                 _blurShadowEnabled = _secondaryBlurShadowEnabled;
                 _secondaryBlurShadowEnabled = tempBlur;
-                
+
                 final tempFontColor = _fontColorOverride;
                 _fontColorOverride = _secondaryFontColorOverride;
                 _secondaryFontColorOverride = tempFontColor;
               });
-              
+
               if (mounted) {
                 ScaffoldMessenger.of(context).showSnackBar(
                   const SnackBar(
@@ -6945,7 +7395,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                 _buildNoAudiobook()
               else
                 _buildPlayer(),
-              
+
               if (_showAdhanOverlay)
                 AdhanClockOverlay(
                   adhanService: _adhanClockService,
@@ -7003,12 +7453,12 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                     });
                   },
                 ),
-              
-              if (_showPanel && (_currentAudiobook != null || 
+
+              if (_showPanel && (_currentAudiobook != null ||
                   _isYouTubeStream ||
-                  _panelMode == PanelMode.history || 
-                  _panelMode == PanelMode.playlist || 
-                  _panelMode == PanelMode.bookmarks || 
+                  _panelMode == PanelMode.history ||
+                  _panelMode == PanelMode.playlist ||
+                  _panelMode == PanelMode.bookmarks ||
                   _panelMode == PanelMode.stats))
                 SidePanel(
                   panelMode: _panelMode,
@@ -7074,7 +7524,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                       _searchUseAnd = false;
                     });
                   },
-                  
+
                   getFilteredChapters: _getFilteredChapters,
                   onJumpToChapter: _jumpToChapter,
                   chapterScrollController: _chapterScrollController,
@@ -7088,7 +7538,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                     _saveSkipChapterTerms();
                   },
                   shouldSkipChapter: _shouldSkipChapter,
-                  
+
                   getFilteredHistory: _getFilteredHistory,
                   onRemoveFromHistory: _removeFromHistory,
                   onOpenAudiobook: (path) async {
@@ -7099,7 +7549,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                   },
                   historyScrollController: _historyScrollController,
                   getHistoryDurationAndProgress: _getHistoryDurationAndProgress,
-                  
+
                   getFilteredPlaylist: _getFilteredPlaylist,
                   playlistScrollController: _playlistScrollController,
                   getAudiobookDuration: _getAudiobookDuration,
@@ -7109,14 +7559,14 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                   onTogglePlaylistDirectories: (value) {
                     setState(() {
                       _showPlaylistDirectories = value;
-                    });                                              
-                  },   
-                  
+                    });
+                  },
+
                   getFilteredBookmarks: _getFilteredBookmarks,
                   onRemoveBookmark: _removeBookmark,
                   onJumpToBookmark: _jumpToBookmark,
                   onSetPinNumber: _setPinNumber,
-                  
+
                   onShowGlyphViewer: _showGlyphViewerOverlay,
                   getFilteredFonts: _getFilteredFonts,
                   selectedFont: _selectedFont,
@@ -7131,7 +7581,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                     });
                     _scrollToSelectedFont();
                     await _saveFontSettings();
-                    
+
                     if (_selectedMainCategory != FontCategory.favorites) {
                       if (_autoConvertAlternates && FontAlternatesData.hasFontAlternates(fontName)) {
                         setState(() {
@@ -7216,7 +7666,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                   onConvertToUppercase: _convertToUppercase,
                   onConvertToSeesawCase: _convertToSeesawCase,
                   conversionType: _conversionType,
-                  
+
                   getFilteredColors: _getFilteredColors,
                   selectedColorIndex: _selectedColorIndex,
                   colorScrollController: _colorScrollController,
@@ -7241,7 +7691,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                     });
                   },
                   parseColor: _parseColor,
-              
+
                   coloringMode: _coloringMode,
                   onColoringModeChanged: (mode) {
                     setState(() {
@@ -7287,7 +7737,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                       prefs.remove('selectedLutName');
                     });
                   },
-                  
+
                   frequencyItems: _frequencyItems,
                   isAnalyzingFrequencies: _isAnalyzingFrequencies,
                   onAnalyzeFrequencies: _analyzeFrequencies,
@@ -7308,7 +7758,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                     });
                     _searchSubtitles(phrase);
                   },
-                  
+
                   subsSearchQuery: _subsSearchQuery,
                   subsSearchController: _subsSearchController,
                   subsSearchFocusNode: _subsSearchFocusNode,
@@ -7352,7 +7802,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                       _searchPlaylistChapters(_chapterSearchQuery);
                     }
                   },
-                  
+
                   historyCount: _history.length,
                   playlistCount: _playlist.length,
                   bookmarksCount: _bookmarks.length,
@@ -7404,7 +7854,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                   onRemoveLutFavorite: _removeLutFromFavorites,
                   selectedLutName: _selectedLutName,
                 ),
-              
+
               if (_showWordOverlay && _currentSubtitleText.isNotEmpty)
                 WordOverlay(
                   subtitle: _currentSubtitleIndex != null && _currentSubtitleIndex! < _originalSubtitles.length
@@ -7416,7 +7866,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                     setState(() {
                       _showWordOverlay = false;
                     });
-                    
+
                     _dictionaryModeExitTimer?.cancel();
                     _dictionaryModeExitTimer = Timer(const Duration(seconds: 3), () {
                       if (!_showWordOverlay && _pauseMode == PauseMode.dictionary) {
@@ -7435,7 +7885,82 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                     });
                   },
                 ),
-              
+
+                if (_vttShowActive && _vttShowEditMode && _currentSubtitleIndex != null)
+                  VttShowEditOverlay(
+                    key: _vttEditKey,
+                    subtitles: _subtitles,
+                    currentIndex: _currentSubtitleIndex!,
+                    line1FocusNode: _vttEditLine1FocusNode,
+                    line2FocusNode: _vttEditLine2FocusNode,
+                    onClose: () {
+                      setState(() {
+                        _vttShowEditMode = false;
+                      });
+                      _focusNode.requestFocus();
+                    },
+                    onSave: () {
+                      _vttEditKey.currentState?.flushEdits();
+                      Future.delayed(const Duration(milliseconds: 50), () {
+                        _saveVttShowFile().then((_) {
+                          if (mounted) {
+                            ScaffoldMessenger.of(context).showSnackBar(
+                              const SnackBar(
+                                content: Text('Saved ✓'),
+                                duration: Duration(seconds: 1),
+                                backgroundColor: Colors.green,
+                              ),
+                            );
+                          }
+                        });
+                      });
+                    },
+                    onNavigate: (newIndex) {
+                      final cue = _subtitles[newIndex];
+                      _seekTo(cue.startTime + const Duration(milliseconds: 10));
+                    },
+                    onCueTextChanged: (index, line1, line2) {
+                      final cue = _subtitles[index];
+                      final newText = line2.isEmpty ? line1 : '$line1\n$line2';
+                      setState(() {
+                        _subtitles[index] = SubtitleCue(
+                          startTime: cue.startTime,
+                          endTime: cue.endTime,
+                          text: newText,
+                        );
+                        _originalSubtitles[index] = SubtitleCue(
+                          startTime: cue.startTime,
+                          endTime: cue.endTime,
+                          text: newText,
+                        );
+                      });
+                    },
+                    onDeleteCue: (index) {
+                      setState(() {
+                        _subtitles.removeAt(index);
+                        _originalSubtitles.removeAt(index);
+                        final key = index < _subtitles.length
+                            ? '${_formatVttTime(_subtitles[index].startTime)} --> ${_formatVttTime(_subtitles[index].endTime)}'
+                            : null;
+                        if (key != null) _vttShowStyles.remove(key);
+                      });
+                    },
+                    onAddCueAfter: (index) {
+                      final cue = _subtitles[index];
+                      final newStart = cue.endTime;
+                      final newEnd = cue.endTime + const Duration(seconds: 10);
+                      final newCue = SubtitleCue(
+                        startTime: newStart,
+                        endTime: newEnd,
+                        text: '',
+                      );
+                      setState(() {
+                        _subtitles.insert(index + 1, newCue);
+                        _originalSubtitles.insert(index + 1, newCue);
+                      });
+                    },
+                  ),
+
               if (_showSleepTimerCountdown)
                 _buildSleepTimerCountdown(),
             ],
@@ -7444,7 +7969,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       ),
     );
   }
-  
+
   Widget _buildSleepTimerActionToggle() {
     return Row(
       mainAxisAlignment: MainAxisAlignment.center,
@@ -7536,7 +8061,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       ),
     );
   }
-  
+
 
   void _navigateColors(int direction, {bool fromCycle = false}) {
     if (!fromCycle && _colorCycleActive) {
@@ -7545,7 +8070,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       });
     }
     _colorCycleCueCounter = 0;
-  
+
     final filteredColors = _getFilteredColors();
     if (filteredColors.isEmpty) return;
     final currentPalette = _selectedColorIndex >= 0 && _selectedColorIndex < ColorPalette.presets.length
@@ -7553,9 +8078,9 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         : null;
     int filteredIndex = currentPalette != null ? filteredColors.indexOf(currentPalette) : 0;
     if (filteredIndex == -1) filteredIndex = 0;
-    
+
     filteredIndex = (filteredIndex + direction) % filteredColors.length;
-    
+
     final newPalette = filteredColors[filteredIndex];
     final actualIndex = ColorPalette.presets.indexOf(newPalette);
     setState(() {
@@ -7620,6 +8145,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       return Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
+        if (!_vttShowActive)
           Container(
             color: Colors.black,
             padding: const EdgeInsets.fromLTRB(16, 8, 16, 8),
@@ -7641,7 +8167,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                       style: const TextStyle(color: Colors.white, fontSize: 14),
                       children: [
                         TextSpan(
-                          text: _hideChapterTitle 
+                          text: _hideChapterTitle
                               ? '↳ ${_currentChapterIndex + 1}/${_currentAudiobook!.chapters.length}'
                               : '↳ ${_currentChapterIndex + 1}/${_currentAudiobook!.chapters.length}: ${_currentAudiobook!.chapters[_currentChapterIndex].title}',
                         ),
@@ -7731,7 +8257,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                                           offset: Offset(_universalShadowOffset, _universalShadowOffset),
                                           child: RichText(
                                             textAlign: TextAlign.center,
-                                            text: _buildColoredTextSpan(_currentSubtitleText,
+                                            text: _buildColoredTextSpan(_vttShowDisplayText,
                                               lineSpacing: _subtitleLineSpacing,
                                               isStroke: true, useShadowColor: true),
                                           ),
@@ -7740,20 +8266,20 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                                           offset: Offset(_universalShadowOffset, _universalShadowOffset),
                                           child: RichText(
                                             textAlign: TextAlign.center,
-                                            text: _buildColoredTextSpan(_currentSubtitleText,
+                                            text: _buildColoredTextSpan(_vttShowDisplayText,
                                               lineSpacing: _subtitleLineSpacing,
                                               isStroke: false, useShadowColor: true),
                                           ),
                                         ),
                                         RichText(
                                           textAlign: TextAlign.center,
-                                          text: _buildColoredTextSpan(_currentSubtitleText,
+                                          text: _buildColoredTextSpan(_vttShowDisplayText,
                                             lineSpacing: _subtitleLineSpacing,
                                             isStroke: false, useBlurShadow: _blurShadowEnabled),
                                         ),
                                         RichText(
                                           textAlign: TextAlign.center,
-                                          text: _buildColoredTextSpan(_currentSubtitleText,
+                                          text: _buildColoredTextSpan(_vttShowDisplayText,
                                             lineSpacing: _subtitleLineSpacing,
                                             isStroke: true),
                                         ),
@@ -7762,7 +8288,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                                   ),
                                 ),
                               ),
-          
+
                             if (_isVideoFile)
                               _buildBlurOverlay(constraints),
                           ],
@@ -7770,7 +8296,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                       ),
                     ),
           PlayerControls(
-            hideTitle: true,
+            hideTitle: _vttShowActive ? true : _hideChapterTitle,
             audiobook: _currentAudiobook ?? AudiobookMetadata(
               path: '',
               title: _youtubeTitle ?? 'YouTube Audio',
@@ -7791,7 +8317,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             shuffleEnabled: _shuffleEnabled,
             conversionType: _displayConversionType,
             currentAudioFormat: _currentAudioFormat,
-            playedChapters: _isYouTubeStream 
+            playedChapters: _isYouTubeStream
                 ? []
                 : _currentAudiobook?.chapters.where((c) => _playedChapters.contains(_currentAudiobook!.chapters.indexOf(c))).toList() ?? [],
             selectedFont: _selectedFont,
@@ -7799,7 +8325,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             defaultConversionType: _defaultConversionType,
             defaultColorPalette: _defaultColorPalette,
             currentColorPalette: _currentColorPalette,
-            currentSubtitleText: _currentSubtitleText,
+            currentSubtitleText: _vttShowDisplayText,
             subtitleFontSize: _subtitleFontSize,
             subtitleLineSpacing: _subtitleLineSpacing,
             secondarySubtitleText: _secondarySubtitleText,
@@ -7848,7 +8374,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               setState(() {
                 _sliderHoverPosition = position;
                 _hoveredChapterTitle = '';
-                
+
                 final sliderWidth = MediaQuery.of(context).size.width - 64;
                 final totalMillis = _totalDuration.inMilliseconds;
                 if (totalMillis > 0 && _currentAudiobook != null && _currentAudiobook!.chapters.isNotEmpty) {
@@ -7932,6 +8458,13 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                      _blurShadowEnabled = !_blurShadowEnabled;
                    });
                    break;
+                case 'editvttshow':
+                  if (_vttShowActive) {
+                    setState(() {
+                      _vttShowEditMode = !_vttShowEditMode;
+                    });
+                  }
+                  break;
                 case 'useBlackFont':
                   setState(() {
                     _fontColorOverride = switch (_fontColorOverride) {
@@ -7975,7 +8508,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               setState(() {
                 _pauseMode = mode;
                 _pauseModeTimer?.cancel();
-                
+
                 if (mode == PauseMode.dictionary) {
                   if (_currentSubtitleIndex != null && _currentSubtitleIndex! < _subtitles.length) {
                     final cue = _subtitles[_currentSubtitleIndex!];
@@ -8021,8 +8554,9 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         ],
       );
     }
-  
+
     return PlayerControls(
+    hideTitle: _vttShowActive ? true : _hideChapterTitle,
       audiobook: _currentAudiobook ?? AudiobookMetadata(
         path: '',
         title: _youtubeTitle ?? 'YouTube Audio',
@@ -8041,7 +8575,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       shuffleEnabled: _shuffleEnabled,
       conversionType: _displayConversionType,
       currentAudioFormat: _currentAudioFormat,
-      playedChapters: _isYouTubeStream 
+      playedChapters: _isYouTubeStream
           ? []
           : _currentAudiobook?.chapters.where((c) => _playedChapters.contains(_currentAudiobook!.chapters.indexOf(c))).toList() ?? [],
       selectedFont: _selectedFont,
@@ -8049,7 +8583,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       defaultConversionType: _defaultConversionType,
       defaultColorPalette: _defaultColorPalette,
       currentColorPalette: _currentColorPalette,
-      currentSubtitleText: _currentSubtitleText,
+      currentSubtitleText: _vttShowDisplayText,
       subtitleFontSize: _subtitleFontSize,
       videoResolution: _videoResolution,
       videoFps: _videoFps,
@@ -8100,7 +8634,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         setState(() {
           _sliderHoverPosition = position;
           _hoveredChapterTitle = '';
-          
+
           final sliderWidth = MediaQuery.of(context).size.width - 64;
           final totalMillis = _totalDuration.inMilliseconds;
           if (totalMillis > 0 && _currentAudiobook != null && _currentAudiobook!.chapters.isNotEmpty) {
@@ -8178,6 +8712,13 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                _blurShadowEnabled = !_blurShadowEnabled;
              });
              break;
+          case 'editvttshow':
+            if (_vttShowActive) {
+              setState(() {
+                _vttShowEditMode = !_vttShowEditMode;
+              });
+            }
+            break;
           case 'useBlackFont':
             setState(() {
               _fontColorOverride = switch (_fontColorOverride) {
@@ -8221,7 +8762,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         setState(() {
           _pauseMode = mode;
           _pauseModeTimer?.cancel();
-          
+
           if (mode == PauseMode.dictionary) {
             if (_currentSubtitleIndex != null && _currentSubtitleIndex! < _subtitles.length) {
               final cue = _subtitles[_currentSubtitleIndex!];
@@ -8265,11 +8806,11 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       },
     );
   }
-  
+
   String _formatChapterRemaining(Duration d) {
     const ltrEmbed = '\u202A';
     const popDir = '\u202C';
-    
+
     if (d.inHours > 0) {
       final hours = d.inHours;
       final minutes = d.inMinutes.remainder(60);
@@ -8283,15 +8824,15 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       return '$ltrEmbed$timeString$popDir';
     }
   }
-  
+
   Duration _getChapterRemainingTime() {
     if (_currentAudiobook == null || _currentAudiobook!.chapters.isEmpty) {
       return Duration.zero;
     }
-    
+
     final chapter = _currentAudiobook!.chapters[_currentChapterIndex];
     final remaining = chapter.endTime - _currentPosition;
-    
+
     return Duration(
       milliseconds: (remaining.inMilliseconds / _playbackSpeed).round()
     );
@@ -8306,7 +8847,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       ),
     );
   }
-  
+
   Future<void> _resetConversion() async {
     setState(() {
       _conversionType = 'none';
@@ -8325,14 +8866,14 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       );
       return;
     }
-    
+
     String textToCopy = _currentSubtitleText;
     if (_currentSubtitleIndex != null && _currentSubtitleIndex! < _originalSubtitles.length) {
       textToCopy = _originalSubtitles[_currentSubtitleIndex!].text;
     }
-    
+
     await Clipboard.setData(ClipboardData(text: textToCopy));
-    
+
     if (mounted) {
       ScaffoldMessenger.of(context).showSnackBar(
         const SnackBar(
@@ -8353,15 +8894,15 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
        );
        return;
      }
-     
+
      String textToCopy = _secondarySubtitleText;
-     if (_currentSecondarySubtitleIndex != null && 
+     if (_currentSecondarySubtitleIndex != null &&
          _currentSecondarySubtitleIndex! < _secondaryOriginalSubtitles.length) {
        textToCopy = _secondaryOriginalSubtitles[_currentSecondarySubtitleIndex!].text;
      }
-     
+
      await Clipboard.setData(ClipboardData(text: textToCopy));
-     
+
      if (mounted) {
        ScaffoldMessenger.of(context).showSnackBar(
          const SnackBar(
@@ -8382,14 +8923,14 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       );
       return;
     }
-    
+
     String textToCopy = _currentSubtitleText;
     if (_currentSubtitleIndex != null && _currentSubtitleIndex! < _subtitles.length) {
       textToCopy = _subtitles[_currentSubtitleIndex!].text;
     }
-    
+
     await Clipboard.setData(ClipboardData(text: textToCopy));
-    
+
     if (mounted) {
       ScaffoldMessenger.of(context).showSnackBar(
         const SnackBar(
@@ -8407,55 +8948,55 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       );
       return;
     }
-    
+
     try {
       await _ffmpeg.ensureBinaries();
-      
+
       if (_ffmpeg.ffprobePath == null) {
         throw Exception('ffprobe not found');
       }
-  
+
       final metadataResult = await Process.run(_ffmpeg.ffprobePath!, [
         _currentAudiobook!.path,
       ]);
-      
+
       final output = metadataResult.stderr as String;
       String artist = 'Unknown Artist';
       String album = 'Unknown Album';
       String title = 'Unknown Title';
       String year = 'Unknown Year';
-      
+
       final lines = output.split('\n');
       bool inMetadata = false;
       bool isAttachedPic = false;
-      
+
       for (final line in lines) {
         final trimmed = line.trim();
-        
+
         if (trimmed.contains('(attached pic)')) {
           isAttachedPic = true;
           continue;
         }
-        
+
         if (trimmed.startsWith('Stream #')) {
           isAttachedPic = false;
           inMetadata = false;
           continue;
         }
-        
+
         if (trimmed.startsWith('Metadata:')) {
           inMetadata = true;
           continue;
         }
-        
+
         if (inMetadata && !isAttachedPic && trimmed.contains(':')) {
           final parts = trimmed.split(':');
           if (parts.length >= 2) {
             final key = parts[0].trim().toLowerCase();
             final value = parts.sublist(1).join(':').trim();
-            
+
             if (value.isEmpty) continue;
-            
+
             if (key == 'artist') {
               artist = value;
             } else if (key == 'album') {
@@ -8478,7 +9019,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           }
         }
       }
-      
+
       final finalTitle = album != 'Unknown Album' ? album : title;
       final file = File(_currentAudiobook!.path);
       final fileSize = await file.length();
@@ -8498,9 +9039,9 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
 
       const ltr = '\u200E';
       final clipboardText = '$artist - $finalTitle ($year) $ltr$formattedFileSize $formattedDuration';
-      
+
       await Clipboard.setData(ClipboardData(text: clipboardText));
-      
+
       if (mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
           SnackBar(
@@ -8528,21 +9069,21 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       );
       return;
     }
-    
+
     final chapters = _currentAudiobook!.chapters
         .map((chapter) => '${chapter.title}\n')
         .join('\n');
-    
+
     await Clipboard.setData(ClipboardData(text: chapters));
-    
+
     try {
       final audiobookPath = _currentAudiobook!.path;
       final dir = path.dirname(audiobookPath);
       final baseName = path.basenameWithoutExtension(audiobookPath);
       final chaptersPath = path.join(dir, '${baseName}_chapters.txt');
-      
+
       await File(chaptersPath).writeAsString(chapters);
-      
+
       if (mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
           SnackBar(
@@ -8568,7 +9109,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       }
     }
   }
-  
+
   Future<void> _convertToDemo() async {
     if (_subtitleFilePath == null) {
       ScaffoldMessenger.of(context).showSnackBar(
@@ -8576,15 +9117,15 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       );
       return;
     }
-    
+
     setState(() {
       _conversionType = 'demo';
     });
-    
+
     await _applyConversion();
     await _saveFontSettings();
   }
-  
+
   Future<void> _convertToDemoUpper() async {
     if (_subtitleFilePath == null) {
       ScaffoldMessenger.of(context).showSnackBar(
@@ -8592,62 +9133,60 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       );
       return;
     }
-    
+
     setState(() {
       _conversionType = 'demoUpper';
     });
-    
+
     await _applyConversion();
     await _saveFontSettings();
   }
-  
-  Future<void> _convertToAlternates() async {
+
+  Future<void> _convertToAlternates({bool fromVttShow = false}) async {
     if (_subtitleFilePath == null) {
-      ScaffoldMessenger.of(context).showSnackBar(
-        const SnackBar(content: Text('Load subtitles first')),
-      );
+      if (!fromVttShow) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          const SnackBar(content: Text('Load subtitles first')),
+        );
+      }
       return;
     }
-    
-    if (!FontAlternatesData.hasFontAlternates(_selectedFont)) {
+    if (!fromVttShow && !FontAlternatesData.hasFontAlternates(_selectedFont)) {
       ScaffoldMessenger.of(context).showSnackBar(
         SnackBar(content: Text('No alternates defined for $_selectedFont')),
       );
       return;
     }
-    
     setState(() {
       _conversionType = 'alternates';
     });
-    
     await _applyConversion();
-    await _saveFontSettings();
+    if (!fromVttShow) await _saveFontSettings();
   }
-  
-  Future<void> _convertToMissing() async {
+
+  Future<void> _convertToMissing({bool fromVttShow = false}) async {
     if (_subtitleFilePath == null) {
-      ScaffoldMessenger.of(context).showSnackBar(
-        const SnackBar(content: Text('Load subtitles first')),
-      );
+      if (!fromVttShow) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          const SnackBar(content: Text('Load subtitles first')),
+        );
+      }
       return;
     }
-    
     final metadata = FontDatabase.getMetadata(_selectedFont);
-    if (metadata == null || !metadata.hasMissingLigatures()) {
+    if (!fromVttShow && (metadata == null || !metadata.hasMissingLigatures())) {
       ScaffoldMessenger.of(context).showSnackBar(
         SnackBar(content: Text('$_selectedFont does not have missing ligature data')),
       );
       return;
     }
-    
     setState(() {
       _conversionType = 'missing';
     });
-    
     await _applyConversion();
-    await _saveFontSettings();
+    if (!fromVttShow) await _saveFontSettings();
   }
-  
+
   Future<void> _convertToUppercase() async {
     if (_subtitleFilePath == null) {
       ScaffoldMessenger.of(context).showSnackBar(
@@ -8655,15 +9194,15 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       );
       return;
     }
-    
+
     setState(() {
       _conversionType = 'uppercase';
     });
-    
+
     await _applyConversion();
     await _saveFontSettings();
   }
-  
+
   Future<void> _convertToSeesawCase() async {
     if (_subtitleFilePath == null) {
       ScaffoldMessenger.of(context).showSnackBar(
@@ -8671,11 +9210,11 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       );
       return;
     }
-    
+
     setState(() {
       _conversionType = 'seesawcase';
     });
-    
+
     await _applyConversion();
     await _saveFontSettings();
   }
@@ -8691,20 +9230,35 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     return _conversionType == 'none' ? 'original' : _conversionType;
   }
 
+  int _conversionCallCount = 0;
+
   Future<void> _applyConversion() async {
+    _conversionCallCount++;
+    final callId = _conversionCallCount;
+
     if (_subtitleFilePath == null) {
-      print('_applyConversion: No subtitle file path');
       return;
     }
-    
-    if (_isDisposed || !mounted) return;
-          
+    if (_isDisposed || !mounted) {
+      return;
+    }
+
     try {
-      final content = await File(_subtitleFilePath!).readAsString();
+      final rawContent = await File(_subtitleFilePath!).readAsString();
+
+      String content;
+      String vttShowSection = '';
+      final vttShowMarker = rawContent.indexOf('\nVTTSHOW');
+      if (vttShowMarker != -1) {
+        content = rawContent.substring(0, vttShowMarker);
+        vttShowSection = rawContent.substring(vttShowMarker);
+      } else {
+        content = rawContent;
+      }
       if (_isDisposed || !mounted) return;
-      
+
       String convertedContent = content;
-      
+
       switch (_conversionType) {
         case 'demo':
           convertedContent = await SubtitleTransformer.convertToDemoInMemory(content, _selectedFont);
@@ -8729,40 +9283,43 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           convertedContent = content;
           break;
       }
-      
+
       if (_isDisposed || !mounted) return;
-      
-      final subtitles = _parseVTT(convertedContent);
-      
+
+      final finalContent = vttShowSection.isNotEmpty
+          ? convertedContent + vttShowSection
+          : convertedContent;
+      final subtitles = _parseVTT(finalContent);
+
       if (_isDisposed || !mounted) return;
-      
+
       setState(() {
         _subtitles = subtitles;
       });
-      
+
       _updateCurrentSubtitle();
-      
+
       if (!_isPlaying && _currentSubtitleIndex != null && _currentSubtitleIndex! > 0) {
         final savedPosition = _currentPosition;
-        
+
         await _skipToPreviousSubtitle();
         if (_isDisposed || !mounted) return;
-        
+
         await Future.delayed(const Duration(milliseconds: 150));
         if (_isDisposed || !mounted) return;
-        
+
         await player.seek(savedPosition);
         if (_isDisposed || !mounted) return;
-        
+
         setState(() {
           _currentPosition = savedPosition;
         });
         _updateCurrentSubtitle();
         _updateWakelock();
       }
-      
+
       _scheduleFrequencyGeneration();
-      
+
       if (mounted && !_isDisposed && _conversionType != 'none') {
         ScaffoldMessenger.of(context).showSnackBar(
           SnackBar(
@@ -8772,6 +9329,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         );
       }
     } catch (e) {
+      print('=== _applyConversion #$callId ERROR: $e ===');
       print('Error applying conversion: $e');
       if (mounted && !_isDisposed) {
         ScaffoldMessenger.of(context).showSnackBar(
@@ -8811,7 +9369,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     final baseColor = Color(int.parse('FF$hex', radix: 16));
     return _applyLutToColor(baseColor);
   }
-  
+
   Future<void> _applyColorPalette(ColorPalette palette) async {
     setState(() {
       _currentColorPalette = palette;
@@ -8830,7 +9388,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     final prefs = await SharedPreferences.getInstance();
     await prefs.setString('skipChapterTerms', _skipChapterTerms);
   }
-  
+
   Future<void> _loadSkipChapterTerms() async {
     final prefs = await SharedPreferences.getInstance();
     final savedTerms = prefs.getString('skipChapterTerms');
@@ -8844,21 +9402,21 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       }
     });
   }
-  
+
   Future<Map<String, dynamic>> _getHistoryDurationAndProgress(String filePath, Duration lastPosition) async {
     if (!await File(filePath).exists()) {
       return {'duration': '', 'progress': ''};
     }
-    
+
     if (_playlistDurationCache.containsKey(filePath)) {
       final durationStr = _playlistDurationCache[filePath]!;
       final progress = await _calculateProgress(filePath, lastPosition);
       return {'duration': durationStr, 'progress': progress};
     }
-    
+
     return {'duration': '', 'progress': ''};
   }
-  
+
   Future<String> _calculateProgress(String filePath, Duration lastPosition) async {
     Duration? totalDuration;
     if (_playlistDurationCache.containsKey(filePath)) {
@@ -8873,43 +9431,43 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         totalDuration = Duration(minutes: minutes);
       }
     }
-    
+
     if (totalDuration != null && totalDuration.inSeconds > 0) {
       final percentage = (lastPosition.inSeconds / totalDuration.inSeconds) * 100;
       return '${percentage.toStringAsFixed(1)}%';
     }
-    
+
     return '';
   }
-  
+
   Future<String> _getAudiobookDuration(String filePath) async {
     if (!await File(filePath).exists()) {
       return '';
     }
-    
+
     if (_playlistDurationCache.containsKey(filePath)) {
       return _playlistDurationCache[filePath]!;
     }
-    
+
     return '';
   }
 
   Future<void> _setPinNumber(int displayIndex, int? pinNumber) async {
     final filteredBookmarks = _getFilteredBookmarks();
-    
+
     if (displayIndex >= filteredBookmarks.length) return;
-    
+
     final targetBookmark = filteredBookmarks[displayIndex];
-    
-    final actualIndex = _bookmarks.indexWhere((b) => 
+
+    final actualIndex = _bookmarks.indexWhere((b) =>
       b.audiobookPath == targetBookmark.audiobookPath &&
       b.chapterIndex == targetBookmark.chapterIndex &&
       b.position == targetBookmark.position &&
       b.created == targetBookmark.created
     );
-    
+
     if (actualIndex == -1) return;
-    
+
     setState(() {
       if (pinNumber != null) {
         for (int i = 0; i < _bookmarks.length; i++) {
@@ -8918,22 +9476,22 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           }
         }
       }
-      
+
       if (pinNumber == null) {
         _bookmarks[actualIndex] = _bookmarks[actualIndex].copyWith(clearPin: true);
       } else {
         _bookmarks[actualIndex] = _bookmarks[actualIndex].copyWith(pinNumber: pinNumber);
       }
     });
-    
+
     await _saveBookmarks();
-    
+
     if (mounted) {
       ScaffoldMessenger.of(context).showSnackBar(
         SnackBar(
           content: Text(
-            pinNumber == null 
-              ? 'Bookmark unpinned: ${targetBookmark.chapterTitle}' 
+            pinNumber == null
+              ? 'Bookmark unpinned: ${targetBookmark.chapterTitle}'
               : 'Bookmark pinned to $pinNumber: ${targetBookmark.chapterTitle}'
           ),
           duration: const Duration(seconds: 2),
@@ -8953,17 +9511,18 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   }
 
   Future<void> _skipToPreviousSubtitle() async {
+    if (_vttShowActive) _vttShowCaptureIfChanged();
     if (_subtitles.isEmpty) return;
-    
+
     int currentIndex = -1;
     for (int i = 0; i < _subtitles.length; i++) {
-      if (_subtitles[i].startTime <= _currentPosition && 
+      if (_subtitles[i].startTime <= _currentPosition &&
           (i == _subtitles.length - 1 || _subtitles[i + 1].startTime > _currentPosition)) {
         currentIndex = i;
         break;
       }
     }
-    
+
     if (currentIndex > 0) {
       final seekPosition = _subtitles[currentIndex - 1].startTime + const Duration(milliseconds: 10);
       await _seekTo(seekPosition);
@@ -8972,10 +9531,11 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       await _seekTo(seekPosition);
     }
   }
-  
+
   Future<void> _skipToNextSubtitle() async {
+    if (_vttShowActive) _vttShowCaptureIfChanged();
     if (_subtitles.isEmpty) return;
-    
+
     for (int i = 0; i < _subtitles.length; i++) {
       if (_subtitles[i].startTime > _currentPosition + const Duration(milliseconds: 10)) {
         final seekPosition = _subtitles[i].startTime + const Duration(milliseconds: 10);
@@ -8996,16 +9556,16 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       );
       return;
     }
-    
+
     int currentIndex = -1;
     for (int i = 0; i < _subtitles.length; i++) {
-      if (_subtitles[i].startTime <= _currentPosition && 
+      if (_subtitles[i].startTime <= _currentPosition &&
           (i == _subtitles.length - 1 || _subtitles[i + 1].startTime > _currentPosition)) {
         currentIndex = i;
         break;
       }
     }
-    
+
     if (currentIndex == -1) {
       ScaffoldMessenger.of(context).showSnackBar(
         const SnackBar(
@@ -9016,15 +9576,15 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       );
       return;
     }
-    
+
     final subtitleEndTime = _subtitles[currentIndex].endTime;
-    
+
     final replayStart = subtitleEndTime - const Duration(milliseconds: 900);
     final safeReplayStart = replayStart < Duration.zero ? Duration.zero : replayStart;
-    
+
     await player.seek(safeReplayStart);
     await player.play();
-    
+
     Timer(const Duration(milliseconds: 900), () async {
       await player.pause();
       await player.seek(subtitleEndTime);
@@ -9033,7 +9593,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
 
   void _handleBlurCycle() {
     if (_blurDrawMode) return;
-  
+
     if (_blurRegions.isEmpty) {
       setState(() => _blurDrawMode = true);
       ScaffoldMessenger.of(context).showSnackBar(
@@ -9071,7 +9631,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   Widget _buildBlurOverlay(BoxConstraints constraints) {
     final w = constraints.maxWidth;
     final h = constraints.maxHeight;
-  
+
     return Stack(
       children: [
         for (final region in _blurRegions)
@@ -9095,7 +9655,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               ),
             ),
           ),
-  
+
         if (_blurDrawMode && _blurDragStart != null && _blurDragCurrent != null)
           () {
             final x = min(_blurDragStart!.dx, _blurDragCurrent!.dx);
@@ -9123,7 +9683,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               ),
             );
           }(),
-  
+
         if (_trackedCoords.isNotEmpty && _trackedBlurStart != null && _trackedBlurEnd != null)
           () {
             final x = min(_trackedBlurStart!.dx, _trackedBlurEnd!.dx);
@@ -9171,7 +9731,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                 ),
               ),
             ),
-  
+
         if (_isDefiningTrackedBlur && _trackedBlurStart != null && _trackedBlurEnd != null)
           () {
             final x = min(_trackedBlurStart!.dx, _trackedBlurEnd!.dx);
@@ -9194,7 +9754,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               ),
             );
           }(),
-  
+
         if (_blurDrawMode)
           Positioned.fill(
             child: MouseRegion(
@@ -9244,7 +9804,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               ),
             ),
           ),
-  
+
         if (_isDefiningTrackedBlur)
           Positioned.fill(
             child: MouseRegion(
@@ -9291,7 +9851,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               ),
             ),
           ),
-  
+
         if (_blurDrawMode)
           Positioned(
             top: 12, left: 0, right: 0,
@@ -9313,7 +9873,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               ),
             ),
           ),
-  
+
         if (_isDefiningTrackedBlur)
           Positioned(
             top: 12, left: 0, right: 0,
@@ -9333,7 +9893,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               ),
             ),
           ),
-  
+
         if (_isTracking)
           Positioned(
             bottom: 8, left: 8,
@@ -9362,7 +9922,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               ),
             ),
           ),
-        
+
         if (!_isTracking && _trackedCoords.isNotEmpty)
           Positioned(
             bottom: 8, left: 8,
@@ -9384,27 +9944,27 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
 
   Future<void> _runTracking() async {
     if (_trackedBlurStart == null || _trackedBlurEnd == null) return;
-  
+
     final currentPath = _currentAudiobook?.path;
     if (currentPath == null) return;
-  
+
     final x = min(_trackedBlurStart!.dx, _trackedBlurEnd!.dx);
     final y = min(_trackedBlurStart!.dy, _trackedBlurEnd!.dy);
     final w = (_trackedBlurEnd!.dx - _trackedBlurStart!.dx).abs();
     final h = (_trackedBlurEnd!.dy - _trackedBlurStart!.dy).abs();
-  
+
     setState(() {
       _isTracking = true;
       _trackedCoords = [];
       _trackingStatus = '';
     });
-  
+
     try {
       final frames = await VisionTrackingService.trackRegion(
         videoPath: currentPath,
         x: x, y: y, w: w, h: h,
       );
-  
+
       setState(() {
         _trackedCoords = frames
             .map((f) => [f.frameIndex.toDouble(), f.x, f.y, f.w, f.h])
@@ -9435,9 +9995,9 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       (p) => path.basenameWithoutExtension(p) == filename,
       orElse: () => '',
     );
-    
+
     if (audiobookPath.isEmpty) return;
-    
+
     if (chapterTitle.isEmpty) {
       setState(() {
         _showPanel = false;
@@ -9445,11 +10005,11 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       await _openAudiobook(audiobookPath);
       return;
     }
-    
+
     if (_playlistChapterIndex.containsKey(audiobookPath)) {
       final chapters = _playlistChapterIndex[audiobookPath]!;
       final chapterIndex = chapters.indexWhere((ch) => ch.title == chapterTitle);
-      
+
       if (chapterIndex != -1) {
         if (_currentAudiobook?.path != audiobookPath) {
           setState(() {
@@ -9470,32 +10030,32 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   Future<void> _downloadYouTubeSubtitles(String url, String title) async {
     try {
       print('=== Starting subtitle download for: $title ===');
-      
+
       final tempDir = Directory.systemTemp.path;
       final ytSubDir = path.join(tempDir, 'substitcher_yt_subs');
       await Directory(ytSubDir).create(recursive: true);
-      
+
       String? subtitlePath;
       String selectedLang = _subtitlePreferences.defaultLanguage;
-      
+
       print('Attempting to download default language: $selectedLang');
-      
+
       subtitlePath = await YouTubeService.downloadAndFixSubtitles(
         url,
         ytSubDir,
         lang: selectedLang,
       );
-      
+
       if (subtitlePath == null) {
         print('Default language $selectedLang failed, showing language selection...');
-        
+
         if (!mounted) return;
-        
+
         final availableSubs = await YouTubeService.getAvailableSubtitles(
           url,
           _subtitlePreferences.enabledLanguages,
         );
-         
+
          final selected = await showDialog<String>(
            context: context,
            builder: (context) => AlertDialog(
@@ -9567,36 +10127,36 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
              ],
            ),
          );
-         
+
          if (selected == null) {
            print('User cancelled subtitle selection');
            return;
          }
-         
+
          selectedLang = selected;
          print('User selected alternative: $selectedLang');
-         
+
          subtitlePath = await YouTubeService.downloadAndFixSubtitles(
            url,
            ytSubDir,
            lang: selectedLang,
          );
        }
-       
+
        print('Subtitle path result: $subtitlePath');
-       
+
        if (subtitlePath != null && mounted) {
          print('Loading subtitle file: $subtitlePath');
          final content = await File(subtitlePath).readAsString();
          final originalSubtitles = _parseVTT(content);
          print('Parsed ${originalSubtitles.length} subtitle cues');
-         
+
          setState(() {
            _originalSubtitles = originalSubtitles;
            _subtitleFilePath = subtitlePath;
            _paragraphItems = _createParagraphs(originalSubtitles);
          });
-         
+
          if (_conversionType != 'none' && _subtitleFilePath != null) {
            print('Applying conversion: $_conversionType');
            await _applyConversion();
@@ -9605,10 +10165,10 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
              _subtitles = originalSubtitles;
            });
          }
-         
+
          _updateCurrentSubtitle();
          _precalculateWordPositions();
-         
+
          if (mounted) {
            ScaffoldMessenger.of(context).showSnackBar(
              SnackBar(
@@ -9646,9 +10206,9 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
 
   Future<void> _handleYouTubeUrl(String url) async {
     if (!YouTubeService.isSupportedUrl(url)) return;
-    
+
     final isLive = await YouTubeService.isActiveLiveStream(url);
-    
+
     if (isLive && mounted) {
       final shouldContinue = await showDialog<bool>(
         context: context,
@@ -9675,17 +10235,17 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           ],
         ),
       );
-      
+
       if (shouldContinue != true) {
         return;
       }
     }
-    
+
     setState(() {
       _isLoadingYouTube = true;
       _currentYouTubeUrl = url;
     });
-        
+
     try {
       if (!await YouTubeService.isYtdlpAvailable()) {
         if (mounted) {
@@ -9702,11 +10262,11 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         });
         return;
       }
-      
+
       final title = await YouTubeService.getVideoTitle(url);
       final channelName = await YouTubeService.getChannelName(url);
       final chapters = await YouTubeService.getVideoChapters(url);
-      
+
       if (mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
           SnackBar(
@@ -9715,14 +10275,14 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           ),
         );
       }
-      
+
       final audioUrl = await YouTubeService.getAudioStreamUrl(url, formatId: 'worstaudio[format_note*=DRC]/worstaudio[acodec=opus]/worstaudio');
-      
+
       if (audioUrl == null) {
         throw Exception('Could not get audio stream URL');
       }
-      
-      if (_currentAudiobook != null && 
+
+      if (_currentAudiobook != null &&
           _currentAudiobook!.chapters.isNotEmpty &&
           _currentChapterIndex < _currentAudiobook!.chapters.length) {
         final currentChapter = _currentAudiobook!.chapters[_currentChapterIndex];
@@ -9733,22 +10293,22 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           );
           await _statsManager.flushCacheToLog();
         }
-      
+
       await player.stop();
-      
+
       List<Chapter> youtubeChapters = [];
       if (chapters != null && chapters.isNotEmpty) {
         for (int i = 0; i < chapters.length; i++) {
           final chapterData = chapters[i];
           final startTime = Duration(seconds: (chapterData['start_time'] as num).toInt());
-          
+
           Duration endTime;
           if (i < chapters.length - 1) {
             endTime = Duration(seconds: (chapters[i + 1]['start_time'] as num).toInt());
           } else {
             endTime = const Duration(hours: 24);
           }
-          
+
           youtubeChapters.add(Chapter(
             index: i,
             title: chapterData['title'] as String? ?? 'Chapter ${i + 1}',
@@ -9758,7 +10318,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           ));
         }
       }
-      
+
       setState(() {
         _currentAudiobook = AudiobookMetadata(
           path: url,
@@ -9778,7 +10338,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         _currentSubtitleText = '';
         _currentSubtitleIndex = null;
         _subtitleFilePath = null;
-        
+
         _selectedFont = _defaultFont;
         _conversionType = _defaultConversionType;
         if (_defaultColorPalette != null) {
@@ -9790,13 +10350,13 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           _selectedColorIndex = ColorPalette.presets.indexOf(palette);
         }
       });
-      
+
       await player.open(Media(audioUrl));
       await player.setRate(_playbackSpeed);
-      
+
       if (youtubeChapters.isNotEmpty) {
         await player.stream.duration.first;
-        
+
         if (_totalDuration > Duration.zero) {
           final lastChapter = youtubeChapters.last;
           youtubeChapters[youtubeChapters.length - 1] = Chapter(
@@ -9806,7 +10366,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             endTime: _totalDuration,
             duration: _totalDuration - lastChapter.startTime,
           );
-          
+
           setState(() {
             _currentAudiobook = AudiobookMetadata(
               path: url,
@@ -9819,17 +10379,17 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           });
         }
       }
-  
+
       setState(() {
         _isPlaying = true;
       });
-      
+
       await player.play();
-  
+
       _updateWakelock();
-      
+
       _downloadYouTubeSubtitles(url, title);
-      
+
       if (mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
           SnackBar(
@@ -9864,10 +10424,10 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       _subtitlePreferences = prefs;
     });
   }
-  
+
   Future<void> _showSubtitlePreferencesDialog() async {
     final prefs = _subtitlePreferences;
-    
+
     await showDialog(
       context: context,
       builder: (context) => StatefulBuilder(
@@ -9915,7 +10475,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                     },
                   ),
                 ),
-                
+
                 const SizedBox(height: 24),
                 const Text(
                   'Enabled Languages (check up to 10):',
@@ -10002,17 +10562,17 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       ),
     );
   }
-  
+
   Future<void> _showYouTubeDialog() async {
     final controller = TextEditingController();
-    
+
     final clipboardData = await Clipboard.getData(Clipboard.kTextPlain);
     if (clipboardData?.text != null && YouTubeService.isSupportedUrl(clipboardData!.text!)) {
       controller.text = clipboardData.text!;
     }
-    
+
     if (!mounted) return;
-    
+
     final result = await showDialog<Map<String, dynamic>>(
       context: context,
       builder: (context) => Dialog(
@@ -10147,7 +10707,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         ),
       ),
     );
-    
+
     if (result != null) {
       if (result['action'] == 'stream' && result['url'] != null) {
         await _handleYouTubeUrl(result['url']);
@@ -10155,10 +10715,26 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         _showDownloadDialog();
       }
     }
-    
+
     _focusNode.requestFocus();
   }
-  
+
+  String _formatVttTime(Duration d) {
+    final h = d.inHours.toString().padLeft(2, '0');
+    final m = d.inMinutes.remainder(60).toString().padLeft(2, '0');
+    final s = d.inSeconds.remainder(60).toString().padLeft(2, '0');
+    final ms = d.inMilliseconds.remainder(1000).toString().padLeft(3, '0');
+    return '$h:$m:$s.$ms';
+  }
+
+  String get _vttShowDisplayText {
+    if (!_vttShowActive || _currentSubtitleText.isEmpty) {
+      return _currentSubtitleText;
+    }
+    final lines = _currentSubtitleText.split('\n');
+    return lines.take(_vttShowRevealedLines).join('\n');
+  }
+
   String _formatDurationCompact(Duration d) {
     final hours = d.inHours;
     final minutes = d.inMinutes.remainder(60);
@@ -10210,67 +10786,67 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       },
     );
   }
-  
+
   List<Map<String, dynamic>> _groupEntriesByAudiobook(List<Map<String, dynamic>> entries) {
     final Map<String, Map<String, int>> grouped = {};
-    
+
     for (final entry in entries) {
       final filename = entry['filename'] as String;
       final chapterName = entry['chapter_name'] as String;
       final duration = (entry['listened_duration'] as num).toInt();
-      
+
       if (!grouped.containsKey(filename)) {
         grouped[filename] = {};
       }
-      
+
       if (!grouped[filename]!.containsKey(chapterName)) {
         grouped[filename]![chapterName] = 0;
       }
       grouped[filename]![chapterName] = grouped[filename]![chapterName]! + duration;
     }
-    
+
     final result = <Map<String, dynamic>>[];
-    
+
     grouped.forEach((filename, chapters) {
       int totalTime = 0;
       final chaptersList = <Map<String, dynamic>>[];
-      
+
       chapters.forEach((chapterName, duration) {
         totalTime += duration;
-        
+
         final matchingEntry = entries.lastWhere(
           (e) => e['filename'] == filename && e['chapter_name'] == chapterName,
         );
-        
+
         chaptersList.add({
           'title': chapterName,
           'time': duration,
           'timestamp': matchingEntry['datetime'] as String,
         });
       });
-      
+
       chaptersList.sort((a, b) {
         final titleA = a['title'] as String;
         final titleB = b['title'] as String;
-        
+
         final numA = int.tryParse(titleA.split(' ')[0]);
         final numB = int.tryParse(titleB.split(' ')[0]);
-        
+
         if (numA != null && numB != null) {
           return numA.compareTo(numB);
         }
-        
+
         return titleA.compareTo(titleB);
       });
-      
+
       final totalEntriesTime = entries.fold<int>(
-        0, 
+        0,
         (sum, e) => sum + (e['listened_duration'] as num).toInt()
       );
-      final percentage = totalEntriesTime > 0 
-          ? ((totalTime / totalEntriesTime) * 100).round() 
+      final percentage = totalEntriesTime > 0
+          ? ((totalTime / totalEntriesTime) * 100).round()
           : 0;
-      
+
       result.add({
         'title': filename,
         'duration': _formatDurationCompact(Duration(seconds: totalTime)),
@@ -10278,11 +10854,11 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         'chapters': chaptersList,
       });
     });
-    
-    result.sort((a, b) => 
+
+    result.sort((a, b) =>
       (b['percentage'] as int).compareTo(a['percentage'] as int)
     );
-    
+
     return result;
   }
 
@@ -10371,6 +10947,16 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                       },
                       icon: const Icon(Icons.playlist_play),
                       label: const Text('Playlist (p)'),
+                      style: ElevatedButton.styleFrom(
+                        padding: const EdgeInsets.symmetric(horizontal: 32, vertical: 16),
+                        textStyle: const TextStyle(fontSize: 18),
+                      ),
+                    ),
+                    const SizedBox(width: 16),
+                    ElevatedButton.icon(
+                      onPressed: _openSubtitleManager,
+                      icon: const Icon(Icons.slideshow),
+                      label: const Text('vttshow (v)'),
                       style: ElevatedButton.styleFrom(
                         padding: const EdgeInsets.symmetric(horizontal: 32, vertical: 16),
                         textStyle: const TextStyle(fontSize: 18),
@@ -10466,9 +11052,9 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
 
 class _WindowCloseListener extends WindowListener {
   final Future<void> Function() onClose;
-  
+
   _WindowCloseListener({required this.onClose});
-  
+
   @override
   Future<void> onWindowClose() async {
     await onClose();
