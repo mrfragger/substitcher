@@ -364,6 +364,12 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 - automatically saves font properties
 - no sound, it loads a silent 60 minute opus file
 
+### releases (notes to self)
+- update version numbers in pubspec.yaml scripts/build_appimage.sh scripts/PKGBUILD
+- flutter run -d macos --release
+- git tag v26.xx.xx
+- git push origin v26.xx.xx
+
 ### Installation
 <details>
 <summary>macOS 11.0+ (arm64 Silicon m1,m2,m3,m4,m5) dmg or homebrew</summary>
