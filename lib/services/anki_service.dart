@@ -43,11 +43,7 @@ class AnkiService {
       final csvFile = File(csvPath);
       final csvContent = await csvFile.readAsString();
 
-      final csvData = const CsvToListConverter().convert(
-        csvContent,
-        eol: '\n',
-        shouldParseNumbers: false,
-      );
+      final csvData = csv.decode(csvContent);
 
       if (csvData.isEmpty) {
         throw Exception('CSV file is empty');
@@ -425,11 +421,7 @@ class AnkiService {
     final csvFile = File(csvPath);
     final csvContent = await csvFile.readAsString();
 
-    final csvData = const CsvToListConverter().convert(
-      csvContent,
-      eol: '\n',
-      shouldParseNumbers: false,
-    );
+    final csvData = csv.decode(csvContent);
 
     if (csvData.isEmpty) {
       throw Exception('CSV file is empty');

@@ -146,7 +146,7 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 
 ![](images/fonts.jpg)
 
-- download 38 demo fonts or link is provided for each one within app 
+- download 39 demo fonts or link is provided for each one within app 
 - custom fonts can all be in one directory within various subdirectories, it recursively loads the fonts
 - ![customfonts.zip 2MB](https://github.com/mrfragger/substitcher/raw/main/images/customfonts.zip)
 - in font panel set custom folder to this one and all fonts will be loaded
@@ -177,6 +177,7 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 │   ├── Shoese Flower.ttf
 │   ├── Sophia Melanie.otf
 │   └── Souther Daleska demo version.otf
+│   └── Sparkster One.otf
 ├── missingligatures177
 │   ├── Abstract Settings demo.otf
 │   ├── Classical Aesthetics demo.otf
@@ -354,6 +355,14 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 - ![SubStitcherLUTGallery.zip 5.4MB](https://github.com/mrfragger/substitcher/raw/main/images/SubStitcherLUTGallery.zip)
 
 ![](images/lutspicker.jpg)
+
+### vttshow Slide Presentation
+- open v Subtitle Manager to create New vttshow or Last vttshow or Browse vtt
+- edit vttshow.vtt to show fancy fonts with various color palettes
+- can do two lines
+- first line loads then -> or spacebar advanced to second line
+- automatically saves font properties
+- no sound, it loads a silent 60 minute opus file
 
 ### Installation
 <details>
