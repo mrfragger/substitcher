@@ -325,6 +325,7 @@ class FFmpegService {
     List<Map<String, dynamic>>? chapters,
     int? startChapterIndex,
     int? audioRepetitions,
+    bool useFilenameAsChapterName = false,
     required Function(String) onProgress,
   }) async {
     await _ensureBinaries();
@@ -372,6 +373,7 @@ class FFmpegService {
         chapters: chapters,
         startChapterIndex: startChapterIndex,
         audioRepetitions: audioRepetitions,
+        useFilenameAsChapterName: useFilenameAsChapterName,
       );
 
       onProgress('Creating final audiobook...');
@@ -415,6 +417,7 @@ class FFmpegService {
     List<Map<String, dynamic>>? chapters,
     int? startChapterIndex,
     int? audioRepetitions,
+    bool useFilenameAsChapterName = false,
   }) async {
     final metadata = StringBuffer(await metadataFile.readAsString());
 
@@ -436,7 +439,9 @@ class FFmpegService {
             ? chapter['front'] as String
             : chapter['back'] as String;
 
-        final chapterNum = (chapterIndex + 1).toString().padLeft(4, '0');
+        final chapterNum = useFilenameAsChapterName && chapter.containsKey('audioFile')
+        ? path.basenameWithoutExtension(chapter['audioFile'] as String)
+        : (chapterIndex + 1).toString().padLeft(4, '0');
         title = '$chapterNum $textToUse';
 
         print('DEBUG: Chapter title = $title');

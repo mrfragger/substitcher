@@ -41,9 +41,11 @@ class AnkiService {
       print('Found $extractedCount existing audio files');
 
       final csvFile = File(csvPath);
-      final csvContent = await csvFile.readAsString();
+      final csvContent = await csvFile.readAsBytes().then(
+        (bytes) => utf8.decode(bytes, allowMalformed: true)
+      );
 
-      final csvData = csv.decode(csvContent);
+      final csvData = Csv().decode(csvContent);
 
       if (csvData.isEmpty) {
         throw Exception('CSV file is empty');
@@ -398,6 +400,8 @@ class AnkiService {
   Future<void> createAudiobook({
     required String apkgPath,
     required String outputDir,
+    required String csvPath,
+    required String mediaDir,
     required int frontColumn,
     required int backColumn,
     required int audioColumn,
@@ -406,26 +410,19 @@ class AnkiService {
     required String author,
     required String title,
     required int bitrate,
+    required bool useFilenameAsChapterName,
     required Function(String status, double progress) onProgress,
   }) async {
     onProgress('Reading CSV file...', 0.0);
 
-    final baseName = path.basenameWithoutExtension(apkgPath);
-    final csvPath = path.join(outputDir, '${baseName}_converted.csv');
-    final mediaDir = path.join(outputDir, '${baseName}_media');
-
-    if (!await File(csvPath).exists()) {
-      throw Exception('CSV file not found: $csvPath');
-    }
 
     final csvFile = File(csvPath);
-    final csvContent = await csvFile.readAsString();
 
-    final csvData = csv.decode(csvContent);
+    final csvContent = await csvFile.readAsBytes().then(
+      (bytes) => utf8.decode(bytes, allowMalformed: true)
+    );
 
-    if (csvData.isEmpty) {
-      throw Exception('CSV file is empty');
-    }
+    final csvData = Csv().decode(csvContent);
 
     final columns = csvData[0].map((e) => e.toString()).toList();
     print('Reading from columns: Front=${columns[frontColumn]}, Back=${columns[backColumn]}, Audio=${columns[audioColumn]}');
@@ -507,9 +504,9 @@ class AnkiService {
       final chapterOutputPath = path.join(vttDir.path, '$paddedNum.opus');
 
       onProgress('Repeating (${audioRepetitions}x) audio chapter ${i + 1}/${chapters.length}', 0.2 + (i / chapters.length) * 0.5);
-
       final audioFile = chapter['audioFile'] as String;
       final audioPath = path.join(mediaDir, audioFile);
+
 
       if (audioRepetitions == 1) {
         await _copyOrConvertAudio(audioPath, chapterOutputPath);
@@ -619,6 +616,7 @@ class AnkiService {
         chapters: chapters,
         startChapterIndex: startChapter,
         audioRepetitions: audioRepetitions,
+        useFilenameAsChapterName: useFilenameAsChapterName,
       );
     }
 
@@ -779,6 +777,7 @@ class AnkiService {
     required List<Map<String, dynamic>> chapters,
     required int startChapterIndex,
     required int audioRepetitions,
+    required bool useFilenameAsChapterName,
   }) async {
     if (opusFiles.isEmpty) {
       throw Exception('No opus files found');
@@ -796,6 +795,7 @@ class AnkiService {
       chapters: chapters,
       startChapterIndex: startChapterIndex,
       audioRepetitions: audioRepetitions,
+      useFilenameAsChapterName: useFilenameAsChapterName,
       onProgress: (message) {
         print(message);
       },

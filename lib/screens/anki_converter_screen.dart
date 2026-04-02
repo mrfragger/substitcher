@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:file_picker/file_picker.dart';
 import 'package:url_launcher/url_launcher.dart';
 import 'package:flutter/gestures.dart';
+import 'package:path/path.dart' as path;
+import 'package:csv/csv.dart';
 import 'dart:io';
 import 'dart:convert';
 import '../services/anki_service.dart';
@@ -16,10 +18,10 @@ class AnkiConverterScreen extends StatefulWidget {
 
 class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
   static const int MAX_PREVIEW_ROWS = 200;
-  static const int MAX_PREVIEW_COLS = 120; 
+  static const int MAX_PREVIEW_COLS = 120;
   final AnkiService _ankiService = AnkiService();
   final ScrollController _scrollController = ScrollController();
-  
+
   bool _isProcessing = false;
   String _processingStatus = '';
   double _processingProgress = 0.0;
@@ -29,13 +31,13 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
   String? _lastProcessingTime;
   int _extractedAudioCount = 0;
   int _totalNotes = 0;
-  
+
   int _audioRepetitions = 4;
   bool _sampleMode = true;
-  String _author = ''; 
+  String _author = '';
   String _title = '';
-  int _bitrate =  16;
-  
+  int _bitrate =  12;
+
   List<String> _availableColumns = [];
   int? _frontColumn;
   int? _backColumn;
@@ -44,7 +46,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
   bool _showCsvPreview = false;
   List<List<String>> _fullCsvData = [];
   final ScrollController _csvScrollController = ScrollController();
-  
+
   List<Map<String, String>> _previewRows = [];
   String? _csvPath;
 
@@ -52,6 +54,8 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
   String _transliterationStatus = '';
   double _transliterationProgress = 0.0;
   final List<String> _transliterationLog = [];
+  bool _csvOnlyMode = false;
+  bool _useFilenameAsChapterName = false;
 
   @override
   void dispose() {
@@ -60,16 +64,94 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
     super.dispose();
   }
 
+  Future<void> _selectCsvFile() async {
+    final result = await FilePicker.platform.pickFiles(
+      dialogTitle: 'Select CSV File',
+      type: FileType.custom,
+      allowedExtensions: ['csv'],
+    );
+
+    if (result != null && result.files.isNotEmpty) {
+      final filePath = result.files.first.path!;
+
+      setState(() {
+        _csvPath = filePath;
+        _apkgFilePath = null;
+        _csvOnlyMode = true;
+        _outputDirectory = path.dirname(filePath);
+        _processingStatus = 'Reading CSV file...';
+        _availableColumns = [];
+        _previewRows = [];
+        _frontColumn = null;
+        _backColumn = null;
+        _audioColumn = null;
+        _extractedAudioCount = 0;
+        _totalNotes = 0;
+      });
+
+      try {
+        final file = File(filePath);
+        final csvContent = await file.readAsString();
+        final csvData = Csv().decode(csvContent);
+
+        if (csvData.isEmpty) throw Exception('CSV file is empty');
+
+        final columns = csvData[0].map((e) => e.toString()).toList();
+        final previewRows = <Map<String, String>>[];
+
+        for (int i = 1; i < csvData.length && previewRows.length < 15; i++) {
+          final row = csvData[i];
+          final rowData = <String, String>{};
+          for (int k = 0; k < columns.length; k++) {
+            rowData[columns[k]] = k < row.length ? row[k].toString() : '';
+          }
+          if (rowData.isNotEmpty) previewRows.add(rowData);
+        }
+
+        setState(() {
+          _availableColumns = columns;
+          _previewRows = previewRows;
+          _totalNotes = csvData.length - 1;
+          _processingStatus = 'Ready to configure columns';
+        });
+
+        if (mounted) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            SnackBar(
+              content: Text('Loaded CSV: ${csvData.length - 1} rows, ${columns.length} columns'),
+              backgroundColor: Colors.green,
+              duration: const Duration(seconds: 4),
+            ),
+          );
+        }
+      } catch (e) {
+        setState(() {
+          _csvPath = null;
+          _csvOnlyMode = false;
+          _processingStatus = 'Error: $e';
+        });
+        if (mounted) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            SnackBar(
+              content: Text('Failed to read CSV: $e'),
+              backgroundColor: Colors.red,
+            ),
+          );
+        }
+      }
+    }
+  }
+
   Future<void> _selectApkgFile() async {
     final result = await FilePicker.platform.pickFiles(
       dialogTitle: 'Select Anki .apkg File',
       type: FileType.custom,
       allowedExtensions: ['apkg'],
     );
-    
+
     if (result != null && result.files.isNotEmpty) {
       final filePath = result.files.first.path!;
-      
+
       setState(() {
         _apkgFilePath = filePath;
         _processingStatus = 'Extracting and analyzing .apkg file...';
@@ -79,10 +161,10 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
         _backColumn = null;
         _audioColumn = null;
       });
-      
+
       try {
         final extractResult = await _ankiService.extractAndConvert(filePath);
-        
+
         setState(() {
           _availableColumns = extractResult['columns'] as List<String>;
           _previewRows = extractResult['preview'] as List<Map<String, String>>;
@@ -92,7 +174,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
           _totalNotes = extractResult['totalNotes'] as int;
           _processingStatus = 'Ready to configure columns';
         });
-        
+
         if (mounted) {
           ScaffoldMessenger.of(context).showSnackBar(
             SnackBar(
@@ -107,7 +189,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
           _apkgFilePath = null;
           _processingStatus = 'Error: $e';
         });
-        
+
         if (mounted) {
           ScaffoldMessenger.of(context).showSnackBar(
             SnackBar(
@@ -143,9 +225,9 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
     final result = await FilePicker.platform.getDirectoryPath(
       dialogTitle: 'Select Directory to Transliterate VTT Files',
     );
-    
+
     if (result == null) return;
-  
+
     final tempDir = Directory.systemTemp;
     final scriptFile = File('${tempDir.path}/vtt_to_hiragana.py');
   await scriptFile.writeAsString(r'''
@@ -201,14 +283,14 @@ for i, vtt in enumerate(vtt_files):
 
 print('DONE', flush=True)
 ''');
-  
+
     setState(() {
       _isTransliterating = true;
       _transliterationStatus = 'Starting...';
       _transliterationProgress = 0.0;
       _transliterationLog.clear();
     });
-  
+
     try {
       final checkResult = await Process.run(_pythonExecutable, ['-c', 'import pykakasi']);
       if (checkResult.exitCode != 0) {
@@ -221,12 +303,12 @@ print('DONE', flush=True)
           throw Exception('pykakasi not installed. Run: pip install pykakasi');
         }
       }
-      
+
       final process = await Process.start(_pythonExecutable, [scriptFile.path, result]);
-  
+
       int total = 0;
       int done = 0;
-  
+
       process.stdout
           .transform(const SystemEncoding().decoder)
           .transform(const LineSplitter())
@@ -254,7 +336,7 @@ print('DONE', flush=True)
           });
         }
       });
-  
+
       process.stderr
           .transform(const SystemEncoding().decoder)
           .transform(const LineSplitter())
@@ -263,9 +345,9 @@ print('DONE', flush=True)
           setState(() => _transliterationLog.add('! $line'));
         }
       });
-  
+
       await process.exitCode;
-  
+
     } catch (e) {
       setState(() {
         _isTransliterating = false;
@@ -376,30 +458,43 @@ print('DONE', flush=True)
       ),
     );
   }
-  
+
   Future<void> _startConversion() async {
-    if (_apkgFilePath == null || _outputDirectory == null) {
-      _showError('Please select .apkg file');
+    if ((_apkgFilePath == null && !_csvOnlyMode) || _outputDirectory == null) {
+      _showError('Please select an .apkg or CSV file');
       return;
     }
-    
+
     if (_frontColumn == null || _backColumn == null || _audioColumn == null) {
       _showError('Please select Front, Back, and Audio columns');
       return;
     }
-    
+
     if (_author.isEmpty || _title.isEmpty) {
       _showError('Please enter Language (Artist) and Title (Album)');
       return;
     }
-    
+
+    final String csvPathToUse;
+    final String mediaDirToUse;
+
+    if (_csvOnlyMode) {
+      final baseName = path.basenameWithoutExtension(_csvPath!);
+      csvPathToUse = _csvPath!;
+      mediaDirToUse = path.join(path.dirname(_csvPath!), '${baseName}_media');
+    } else {
+      final baseName = path.basenameWithoutExtension(_apkgFilePath!);
+      csvPathToUse = path.join(_outputDirectory!, '${baseName}_converted.csv');
+      mediaDirToUse = path.join(_outputDirectory!, '${baseName}_media');
+    }
+
     setState(() {
       _isProcessing = true;
       _processingStatus = 'Starting conversion...';
       _processingProgress = 0.0;
       _processingStartTime = DateTime.now();
     });
-    
+
     WidgetsBinding.instance.addPostFrameCallback((_) {
       if (_scrollController.hasClients) {
         _scrollController.animateTo(
@@ -409,15 +504,19 @@ print('DONE', flush=True)
         );
       }
     });
-    
+
+
     try {
       await _ankiService.createAudiobook(
-        apkgPath: _apkgFilePath!,
+        apkgPath: _apkgFilePath ?? _csvPath!,
         outputDir: _outputDirectory!,
+        csvPath: csvPathToUse,
+        mediaDir: mediaDirToUse,
         frontColumn: _frontColumn!,
         backColumn: _backColumn!,
         audioColumn: _audioColumn!,
         audioRepetitions: _audioRepetitions,
+        useFilenameAsChapterName: _useFilenameAsChapterName,
         sampleMode: _sampleMode,
         author: _author,
         title: _title,
@@ -431,22 +530,22 @@ print('DONE', flush=True)
           }
         },
       );
-      
+
       if (mounted && _isProcessing) {
         final elapsed = DateTime.now().difference(_processingStartTime!);
         final hours = elapsed.inHours;
         final minutes = elapsed.inMinutes.remainder(60);
         final seconds = elapsed.inSeconds.remainder(60);
-        
+
         setState(() {
           _isProcessing = false;
           _processingStatus = 'Conversion complete!';
           _processingProgress = 1.0;
-          _lastProcessingTime = hours > 0 
+          _lastProcessingTime = hours > 0
               ? '${hours}h ${minutes}m ${seconds}s'
               : '${minutes}m ${seconds}s';
         });
-        
+
         ScaffoldMessenger.of(context).showSnackBar(
           const SnackBar(
             content: Text('Audiobook created successfully!'),
@@ -459,12 +558,12 @@ print('DONE', flush=True)
         _isProcessing = false;
         _processingStatus = 'Error: $e';
       });
-      
+
       _showError('Conversion failed: $e');
     }
   }
 
-  
+
   void _showError(String message) {
     ScaffoldMessenger.of(context).showSnackBar(
       SnackBar(
@@ -474,12 +573,12 @@ print('DONE', flush=True)
       ),
     );
   }
-  
+
   String _formatDuration(Duration d) {
     final hours = d.inHours;
     final minutes = d.inMinutes.remainder(60);
     final seconds = d.inSeconds.remainder(60);
-    
+
     if (hours > 0) {
       return '${hours}h ${minutes}m ${seconds}s';
     } else {
@@ -545,7 +644,7 @@ print('DONE', flush=True)
               ),
             ),
             const SizedBox(height: 32),
-            
+
             Expanded(
               child: SingleChildScrollView(
                 controller: _scrollController,
@@ -556,26 +655,26 @@ print('DONE', flush=True)
 
                     _buildApkgFileSection(),
                     const SizedBox(height: 24),
-                    
+
                     _buildOutputDirectorySection(),
                     const SizedBox(height: 24),
-                    
+
                     _buildConfigurationSection(),
                     const SizedBox(height: 24),
-                    
+
                     if (_availableColumns.isNotEmpty) ...[
                       _buildColumnSelectionSection(),
                       const SizedBox(height: 24),
                     ],
-                    
-                    if (_previewRows.isNotEmpty && 
-                        _frontColumn != null && 
-                        _backColumn != null && 
+
+                    if (_previewRows.isNotEmpty &&
+                        _frontColumn != null &&
+                        _backColumn != null &&
                         _audioColumn != null) ...[
                       _buildPreviewSection(),
                       const SizedBox(height: 24),
                     ],
-                    
+
                     if (_csvPath != null && !_showCsvPreview) ...[
                       const SizedBox(height: 24),
                       Center(
@@ -591,14 +690,14 @@ print('DONE', flush=True)
                         ),
                       ),
                     ],
-                    
+
                     if (_showCsvPreview) ...[
                       const SizedBox(height: 24),
                       _buildCsvPreview(),
                     ],
-                    
+
                     const SizedBox(height: 32),
-                    
+
                     if (_isProcessing) ...[
                       _buildProcessingProgress(),
                       const SizedBox(height: 32),
@@ -607,28 +706,28 @@ print('DONE', flush=True)
                 ),
               ),
             ),
-            
+
             const SizedBox(height: 16),
-                                    
+
                         _buildConversionControls(),
           ],
         ),
       ),
     );
   }
-  
+
   Future<void> _loadFullCsv() async {
     if (_csvPath == null) return;
-    
+
     setState(() {
       _showCsvPreview = true;
       _fullCsvData = [];
     });
-    
+
     try {
       final file = File(_csvPath!);
       final fileSize = await file.length();
-      
+
       if (fileSize > 5 * 1024 * 1024) { // 5MB
         final shouldContinue = await showDialog<bool>(
           context: context,
@@ -651,7 +750,7 @@ print('DONE', flush=True)
             ],
           ),
         );
-        
+
         if (shouldContinue != true) {
           setState(() {
             _showCsvPreview = false;
@@ -659,33 +758,33 @@ print('DONE', flush=True)
           return;
         }
       }
-      
+
       final stream = file.openRead();
       final lines = stream
           .transform(utf8.decoder)
           .transform(LineSplitter());
-      
+
       int lineCount = 0;
       await for (final line in lines) {
         if (lineCount >= MAX_PREVIEW_ROWS + 1) break; // +1 for header
-        
+
         final row = _parseCsvLine(line);
-        
+
         // Limit columns
         if (row.length > MAX_PREVIEW_COLS) {
           _fullCsvData.add(row.sublist(0, MAX_PREVIEW_COLS));
         } else {
           _fullCsvData.add(row);
         }
-        
+
         lineCount++;
-        
+
         // Update UI periodically
         if (lineCount % 25 == 0) {
           setState(() {});
         }
       }
-      
+
       setState(() {});
     } catch (e) {
       _showError('Failed to load CSV: $e');
@@ -694,15 +793,15 @@ print('DONE', flush=True)
       });
     }
   }
-  
+
   List<String> _parseCsvLine(String line) {
     final row = <String>[];
     bool inQuotes = false;
     StringBuffer currentField = StringBuffer();
-    
+
     for (int i = 0; i < line.length; i++) {
       final char = line[i];
-      
+
       if (char == '"') {
         if (i + 1 < line.length && line[i + 1] == '"') {
           currentField.write('"');
@@ -718,7 +817,7 @@ print('DONE', flush=True)
       }
     }
     row.add(currentField.toString());
-    
+
     return row;
   }
 
@@ -736,11 +835,11 @@ print('DONE', flush=True)
         ),
       );
     }
-    
+
     final columnCount = _fullCsvData.first.length;
     final rowCount = _fullCsvData.length - 1; // Exclude header
     final isLimited = rowCount >= MAX_PREVIEW_ROWS || columnCount >= MAX_PREVIEW_COLS;
-    
+
     return Container(
       height: 400,
       padding: const EdgeInsets.all(20),
@@ -823,10 +922,10 @@ print('DONE', flush=True)
                             (index) {
                               final headerText = _fullCsvData.first[index];
                               final columnNumber = index + 1;
-                              final displayHeader = headerText.isNotEmpty 
+                              final displayHeader = headerText.isNotEmpty
                                   ? '$columnNumber. $headerText'
                                   : columnNumber.toString();
-                              
+
                               return Container(
                                 width: 166,
                                 padding: const EdgeInsets.symmetric(vertical: 12, horizontal: 8),
@@ -852,7 +951,7 @@ print('DONE', flush=True)
                           children: _fullCsvData.skip(1).take(MAX_PREVIEW_ROWS).toList().asMap().entries.map((entry) {
                             final rowIndex = entry.key;
                             final row = entry.value;
-                            
+
                             return Container(
                               decoration: BoxDecoration(
                                 border: Border(
@@ -926,7 +1025,7 @@ print('DONE', flush=True)
               const Icon(Icons.book, color: Colors.lightBlue, size: 20),
               const SizedBox(width: 8),
               const Text(
-                'Anki .apkg File',
+                'Anki .apkg File or CSV',
                 style: TextStyle(
                   color: Colors.white,
                   fontSize: 16,
@@ -936,25 +1035,18 @@ print('DONE', flush=True)
             ],
           ),
           const SizedBox(height: 12),
+
           if (_apkgFilePath != null)
-            Container(
-              padding: const EdgeInsets.all(12),
-              decoration: BoxDecoration(
-                color: Colors.black26,
-                borderRadius: BorderRadius.circular(8),
-              ),
-              child: Row(
-                children: [
-                  const Icon(Icons.check_circle, color: Colors.green, size: 16),
-                  const SizedBox(width: 8),
-                  Expanded(
-                    child: Text(
-                      _apkgFilePath!,
-                      style: const TextStyle(color: Colors.white70, fontSize: 12),
-                    ),
-                  ),
-                ],
-              ),
+            _buildStatusBox(
+              icon: Icons.check_circle,
+              iconColor: Colors.green,
+              text: _apkgFilePath!,
+            )
+          else if (_csvOnlyMode && _csvPath != null)
+            _buildStatusBox(
+              icon: Icons.check_circle,
+              iconColor: Colors.green,
+              text: 'CSV: $_csvPath',
             )
           else
             Container(
@@ -969,27 +1061,87 @@ print('DONE', flush=True)
                   Icon(Icons.warning, color: Colors.orange, size: 16),
                   SizedBox(width: 8),
                   Text(
-                    'No .apkg file selected',
+                    'No .apkg or CSV file selected',
                     style: TextStyle(color: Colors.orange, fontSize: 12),
                   ),
                 ],
               ),
             ),
+
           const SizedBox(height: 12),
-          ElevatedButton.icon(
-            onPressed: _isProcessing ? null : _selectApkgFile,
-            icon: const Icon(Icons.folder_open, size: 18),
-            label: const Text('Select .apkg File'),
-            style: ElevatedButton.styleFrom(
-              backgroundColor: Colors.lightBlue,
-              foregroundColor: Colors.white,
+
+          Row(
+            children: [
+              ElevatedButton.icon(
+                onPressed: _isProcessing ? null : _selectApkgFile,
+                icon: const Icon(Icons.folder_open, size: 18),
+                label: const Text('Select .apkg File'),
+                style: ElevatedButton.styleFrom(
+                  backgroundColor: Colors.lightBlue,
+                  foregroundColor: Colors.white,
+                ),
+              ),
+              const SizedBox(width: 12),
+              ElevatedButton.icon(
+                onPressed: _isProcessing ? null : _selectCsvFile,
+                icon: const Icon(Icons.table_chart, size: 18),
+                label: const Text('Select CSV File'),
+                style: ElevatedButton.styleFrom(
+                  backgroundColor: Colors.teal,
+                  foregroundColor: Colors.white,
+                ),
+              ),
+            ],
+          ),
+
+          if (_csvOnlyMode) ...[
+            const SizedBox(height: 10),
+            Row(
+              children: [
+                const Icon(Icons.info_outline, color: Colors.amber, size: 14),
+                const SizedBox(width: 6),
+                Expanded(
+                  child: Text(
+                    'CSV mode: audio files must be in a subfolder named '
+                    '"${_csvPath != null ? path.basenameWithoutExtension(_csvPath!) : "<deck>"}_media" '
+                    'next to the CSV.',
+                    style: const TextStyle(color: Colors.amber, fontSize: 11),
+                  ),
+                ),
+              ],
+            ),
+          ],
+        ],
+      ),
+    );
+  }
+
+  Widget _buildStatusBox({
+    required IconData icon,
+    required Color iconColor,
+    required String text,
+  }) {
+    return Container(
+      padding: const EdgeInsets.all(12),
+      decoration: BoxDecoration(
+        color: Colors.black26,
+        borderRadius: BorderRadius.circular(8),
+      ),
+      child: Row(
+        children: [
+          Icon(icon, color: iconColor, size: 16),
+          const SizedBox(width: 8),
+          Expanded(
+            child: Text(
+              text,
+              style: const TextStyle(color: Colors.white70, fontSize: 12),
             ),
           ),
         ],
       ),
     );
   }
-  
+
   Widget _buildOutputDirectorySection() {
     return Container(
       padding: const EdgeInsets.all(20),
@@ -1066,7 +1218,7 @@ print('DONE', flush=True)
       ),
     );
   }
-  
+
   Widget _buildColumnSelectionSection() {
     return Container(
       padding: const EdgeInsets.all(20),
@@ -1098,7 +1250,7 @@ print('DONE', flush=True)
             style: TextStyle(color: Colors.white54, fontSize: 12),
           ),
           const SizedBox(height: 20),
-          
+
           Row(
             children: [
               Expanded(
@@ -1220,14 +1372,14 @@ print('DONE', flush=True)
       ),
     );
   }
-  
+
   Widget _buildPreviewSection() {
       if (_frontColumn == null || _backColumn == null || _audioColumn == null) {
         return const SizedBox.shrink();
       }
-      
+
       final previewCount = _previewRows.length > 15 ? 15 : _previewRows.length;
-      
+
       return Container(
         padding: const EdgeInsets.all(20),
         decoration: BoxDecoration(
@@ -1257,7 +1409,7 @@ print('DONE', flush=True)
               final frontKey = _availableColumns[_frontColumn!];
               final backKey = _availableColumns[_backColumn!];
               final audioKey = _availableColumns[_audioColumn!];
-              
+
               return Padding(
                 padding: const EdgeInsets.only(bottom: 12),
                 child: Column(
@@ -1286,7 +1438,7 @@ print('DONE', flush=True)
         ),
       );
     }
-  
+
   Widget _buildConfigurationSection() {
     return Container(
       padding: const EdgeInsets.all(20),
@@ -1313,7 +1465,7 @@ print('DONE', flush=True)
             ],
           ),
           const SizedBox(height: 20),
-          
+
           Row(
             children: [
               Expanded(
@@ -1373,9 +1525,9 @@ print('DONE', flush=True)
               ),
             ],
           ),
-          
+
           const SizedBox(height: 16),
-          
+
             Row(
                 children: [
                   Expanded(
@@ -1430,7 +1582,7 @@ print('DONE', flush=True)
                         ),
                       ],
                     ),
-                  ),    
+                  ),
               const SizedBox(width: 16),
               Expanded(
                 child: Column(
@@ -1450,7 +1602,7 @@ print('DONE', flush=True)
                       ),
                       dropdownColor: const Color(0xFF1E1E1E),
                       style: const TextStyle(color: Colors.white),
-                      items: [16, 32].map((bitrate) {
+                      items: [12, 24].map((bitrate) {
                         return DropdownMenuItem(
                           value: bitrate,
                           child: Text('$bitrate kbps'),
@@ -1466,6 +1618,15 @@ print('DONE', flush=True)
                 ),
               ),
               const SizedBox(width: 16),
+              Expanded(
+                child: CheckboxListTile(
+                  title: const Text('Use filename as chapter name', style: TextStyle(color: Colors.white)),
+                  subtitle: const Text('e.g. chapter named 001004 instead of 0001 (CSV mode only)', style: TextStyle(color: Colors.white54, fontSize: 11)),
+                  value: _useFilenameAsChapterName,
+                  onChanged: (value) => setState(() => _useFilenameAsChapterName = value!),
+                  activeColor: Colors.deepPurple,
+                ),
+              ),
               Expanded(
                 child: CheckboxListTile(
                   title: const Text('Sample Mode (50 entries)', style: TextStyle(color: Colors.white)),
@@ -1511,20 +1672,20 @@ print('DONE', flush=True)
 
   Widget _buildProcessingProgress() {
     String elapsedTime = '';
-    
+
     if (_processingStartTime != null) {
       final elapsed = DateTime.now().difference(_processingStartTime!);
       final hours = elapsed.inHours;
       final minutes = elapsed.inMinutes.remainder(60);
       final seconds = elapsed.inSeconds.remainder(60);
-      
+
       if (hours > 0) {
         elapsedTime = '${hours}h ${minutes}m ${seconds}s';
       } else {
         elapsedTime = '${minutes}m ${seconds}s';
       }
     }
-    
+
     return Container(
       padding: const EdgeInsets.all(20),
       decoration: BoxDecoration(
@@ -1578,15 +1739,16 @@ print('DONE', flush=True)
       ),
     );
   }
-  
+
   Widget _buildConversionControls() {
-    final canConvert = _apkgFilePath != null &&
+    final canConvert = (_apkgFilePath != null || _csvOnlyMode) &&
         _outputDirectory != null &&
         _frontColumn != null &&
         _backColumn != null &&
         _audioColumn != null &&
         !_isProcessing;
-  
+
+
     return Column(
       children: [
         Row(

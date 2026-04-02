@@ -11,6 +11,7 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 - max 100 hours and 999 chapters per audiobook
 - if exceed limits will offer to automatically split into multiple audiobooks showing the split points
 - Title Case chapter titles and regular expression replace
+- Repeat 1x (default) or 2x, 3x, 4x, 5x for repeating for language learning chapter repitition which would be a vocab, phrase or sentence
 - Remove silence -26dB, -30dB, -34dB, -38dB, -42dB, -46dB, reduces transcribing hallucinations
 - Hiss (reduction) preview a random audio to compare
 - Batch Trim Audio beginning and end, previews 6 trimmed audios
@@ -275,6 +276,7 @@ only 1-9, basic latin and ligatures
 ### Anki to Opus 
 - Anki to opus chaptered audiobook (4x repeat vocab, show 2x front, 2x back subs)
 - if over 999 notes (rows with audio) then automatically creates multiple audiobooks part 1, part 2, part 3, etcetera
+- choose a csv with some columns for front, back and have your audio files listed in a column so don't necessarily need an anki apkg file
 - Arabic, Bengali, Chinese, Czech, Danish, Dutch, English, Filipino, French, German, Greek, Hebrew, Hindi, Hungarian, Indonesian, Italian, Japanese, Korean, Marathi, Norwegian, Pashto, Persian, Polish, Portuguese, Punjabi, Romanian, Russian, Spanish, Swedish, Tamil, Telugu, Thai, Turkish, Urdu, Vietnamese
 - Nearly 1,000 anki to opus audiobooks on telegram channel https://t.me/Anki2Opus if too lazy to make your own
 
