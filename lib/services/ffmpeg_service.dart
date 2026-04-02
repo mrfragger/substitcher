@@ -625,6 +625,38 @@ class FFmpegService {
     );
   }
 
+  Future<void> repeatAudio({
+    required String inputPath,
+    required String outputPath,
+    required int times,
+    required int bitrate,
+    required Function(String) onProgress,
+  }) async {
+    await _ensureBinaries();
+
+    final outputDir = Directory(path.dirname(outputPath));
+    if (!await outputDir.exists()) {
+      await outputDir.create(recursive: true);
+    }
+
+    onProgress('Repeating audio ${times}x...');
+
+    final result = await Process.run(_ffmpegPath!, [
+      '-y',
+      '-stream_loop', '${times - 1}',
+      '-i', inputPath,
+      '-c:a', 'libopus',
+      '-b:a', '${bitrate}k',
+      outputPath,
+    ]);
+
+    if (result.exitCode != 0) {
+      throw Exception('Failed to repeat audio: ${result.stderr}');
+    }
+
+    onProgress('Complete!');
+  }
+
   Future<void> addMetadataToAudiobook({
     required String inputPath,
     required String metadataPath,

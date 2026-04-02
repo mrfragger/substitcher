@@ -59,6 +59,7 @@ class _EncoderScreenState extends State<EncoderScreen> {
   bool _removeSilence = false;
   int _silenceDb = 34;
   bool _removeHiss = false;
+  int _repeatCount = 1;
   final _authorController = TextEditingController();
   final _titleController = TextEditingController();
   final _yearController = TextEditingController(
@@ -1270,6 +1271,7 @@ class _EncoderScreenState extends State<EncoderScreen> {
         removeSilence: _removeSilence,
         silenceDb: _removeSilence ? _silenceDb : null,
         removeHiss: _removeHiss,
+        repeatCount: _repeatCount,
         author: _authorController.text,
         title: _titleController.text,
         year: _yearController.text,
@@ -1335,13 +1337,32 @@ class _EncoderScreenState extends State<EncoderScreen> {
           }
 
           try {
-            await _ffmpeg.encodeChapter(
-              inputPath: file.path,
-              outputPath: outputPath,
-              config: config,
-              onProgress: (chapterProgress) {
-              },
-            );
+            if (config.repeatCount > 1) {
+              final tempPath = '$encodedChaptersDir/_temp_${index}_single.opus';
+              await _ffmpeg.encodeChapter(
+                inputPath: file.path,
+                outputPath: tempPath,
+                config: config,
+                onProgress: (chapterProgress) {},
+              );
+
+              await _ffmpeg.repeatAudio(
+                inputPath: tempPath,
+                outputPath: outputPath,
+                times: config.repeatCount,
+                bitrate: config.bitrate,
+                onProgress: (_) {},
+              );
+
+              await File(tempPath).delete();
+            } else {
+              await _ffmpeg.encodeChapter(
+                inputPath: file.path,
+                outputPath: outputPath,
+                config: config,
+                onProgress: (chapterProgress) {},
+              );
+            }
 
             encodedFilesMap[index] = outputPath;
 
@@ -1498,7 +1519,9 @@ class _EncoderScreenState extends State<EncoderScreen> {
   Future<bool> _showSplitConfirmationDialog(Map<String, dynamic> plan) async {
     final totalDuration = _totalDuration;
     final numBooks = plan['numBooks'] as int;
+    final totalChapters = _files.length;
     final targetDurationPerBook = totalDuration ~/ numBooks;
+    final targetChaptersPerBook = (totalChapters / numBooks).ceil();
 
     final splitPreviews = <Map<String, dynamic>>[];
     int currentStartIndex = 0;
@@ -1511,15 +1534,25 @@ class _EncoderScreenState extends State<EncoderScreen> {
       for (int i = currentStartIndex; i < _files.length; i++) {
         final chapterDuration = _files[i].duration;
         final potentialDuration = bookDuration + chapterDuration;
+        final chaptersInThisBook = i - currentStartIndex + 1;
 
         if (isLastBook) {
           currentEndIndex = i;
           bookDuration = potentialDuration;
         } else {
-          if (potentialDuration > targetDurationPerBook && i > currentStartIndex) {
+          // Hard cap: never exceed 999 chapters
+          if (chaptersInThisBook > 999) {
+            currentEndIndex = i - 1;
+            bookDuration = potentialDuration - chapterDuration;
+            break;
+          }
+
+          final hitChapterTarget = chaptersInThisBook >= targetChaptersPerBook;
+          final hitDurationTarget = potentialDuration > targetDurationPerBook && i > currentStartIndex;
+
+          if (hitChapterTarget || hitDurationTarget) {
             final smartEndIndex = _findSmartSplitPoint(i - 1, targetDurationPerBook, bookDuration);
             currentEndIndex = smartEndIndex;
-
             bookDuration = Duration.zero;
             for (int j = currentStartIndex; j <= currentEndIndex; j++) {
               bookDuration += _files[j].duration;
@@ -1769,11 +1802,9 @@ class _EncoderScreenState extends State<EncoderScreen> {
     }
 
     int numBooks = 1;
-
     if (totalHours >= 100) {
       numBooks = (totalHours / 100).ceil();
     }
-
     if (totalChapters > 999) {
       final booksNeededForChapters = (totalChapters / 999).ceil();
       if (booksNeededForChapters > numBooks) {
@@ -1782,8 +1813,8 @@ class _EncoderScreenState extends State<EncoderScreen> {
     }
 
     final targetDurationPerBook = totalDuration ~/ numBooks;
+    final targetChaptersPerBook = (totalChapters / numBooks).ceil();
     final splits = <Map<String, dynamic>>[];
-
     int currentStartIndex = 0;
 
     for (int bookIndex = 0; bookIndex < numBooks; bookIndex++) {
@@ -1794,15 +1825,26 @@ class _EncoderScreenState extends State<EncoderScreen> {
       for (int i = currentStartIndex; i < _files.length; i++) {
         final chapterDuration = _files[i].duration;
         final potentialDuration = bookDuration + chapterDuration;
+        final chaptersInThisBook = i - currentStartIndex + 1;
 
         if (isLastBook) {
           currentEndIndex = i;
           bookDuration = potentialDuration;
         } else {
-          if (potentialDuration > targetDurationPerBook && i > currentStartIndex) {
+          // Hard cap: never exceed 999 chapters
+          if (chaptersInThisBook > 999) {
+            currentEndIndex = i - 1;
+            bookDuration = potentialDuration - chapterDuration;
+            break;
+          }
+
+          // Soft cap: split at target chapter count or target duration, whichever comes first
+          final hitChapterTarget = chaptersInThisBook >= targetChaptersPerBook;
+          final hitDurationTarget = potentialDuration > targetDurationPerBook && i > currentStartIndex;
+
+          if (hitChapterTarget || hitDurationTarget) {
             final smartEndIndex = _findSmartSplitPoint(i - 1, targetDurationPerBook, bookDuration);
             currentEndIndex = smartEndIndex;
-
             bookDuration = Duration.zero;
             for (int j = currentStartIndex; j <= currentEndIndex; j++) {
               bookDuration += _files[j].duration;
@@ -1816,12 +1858,6 @@ class _EncoderScreenState extends State<EncoderScreen> {
       }
 
       final chapterCount = currentEndIndex - currentStartIndex + 1;
-      if (chapterCount > 999) {
-        print('WARNING: Split has $chapterCount chapters, exceeding 999 limit');
-      }
-      if (bookDuration.inHours >= 100) {
-        print('WARNING: Split has ${bookDuration.inHours} hours, at/exceeding 100 hour limit');
-      }
 
       splits.add({
         'files': encodedFiles.sublist(currentStartIndex, currentEndIndex + 1),
@@ -1832,7 +1868,6 @@ class _EncoderScreenState extends State<EncoderScreen> {
       });
 
       currentStartIndex = currentEndIndex + 1;
-
       if (currentStartIndex >= _files.length) break;
     }
 
@@ -2284,6 +2319,10 @@ class _EncoderScreenState extends State<EncoderScreen> {
         ? Duration(milliseconds: (_totalDuration.inMilliseconds / _files.length).round())
         : Duration.zero;
 
+    final folderPath = _files.isNotEmpty
+        ? _shortenPath(path.dirname(_files[0].path))
+        : '';
+
     return Container(
       padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
       color: Theme.of(context).colorScheme.surfaceContainerHighest,
@@ -2293,6 +2332,13 @@ class _EncoderScreenState extends State<EncoderScreen> {
           Text(
             '${_files.length} chapters',
             style: Theme.of(context).textTheme.titleMedium,
+          ),
+          Text(
+            folderPath,
+            style: const TextStyle(
+              color: Colors.white54,
+              fontSize: 11,
+            ),
           ),
           Row(
             children: [
@@ -2575,6 +2621,27 @@ class _EncoderScreenState extends State<EncoderScreen> {
                   ),
                 ),
               ],
+              const SizedBox(width: 24),
+              Tooltip(
+                message: 'Repeat chapters for language learning',
+                child: Row(
+                  children: [
+                    const Text('Repeat:'),
+                    const SizedBox(width: 8),
+                    for (final count in [1, 2, 3, 4, 5])
+                      Padding(
+                        padding: const EdgeInsets.only(right: 6),
+                        child: ChoiceChip(
+                          label: Text('${count}x'),
+                          selected: _repeatCount == count,
+                          onSelected: (selected) {
+                            if (selected) setState(() => _repeatCount = count);
+                          },
+                        ),
+                      ),
+                  ],
+                ),
+              ),
             ],
           ),
         ],

@@ -1364,6 +1364,58 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     }
   }
 
+  void _addCueAfter(int afterIndex) {
+    _shiftCuesFrom(afterIndex);
+
+    final prev     = _subtitles[afterIndex];
+    final newStart = prev.endTime + const Duration(seconds: 1);
+    final newEnd   = newStart     + const Duration(seconds: 1);
+
+    final newCue = SubtitleCue(
+      startTime: newStart,
+      endTime:   newEnd,
+      text:      '',
+    );
+
+    setState(() {
+      _subtitles.insert(afterIndex + 1, newCue);
+      _originalSubtitles.insert(afterIndex + 1, newCue);
+    });
+  }
+
+  void _shiftCuesFrom(int insertAfterIndex) {
+    const shiftAmount = Duration(seconds: 2);
+    final affectedCues = _subtitles.sublist(insertAfterIndex + 1);
+
+    final Map<String, String> keyRemap = {};
+    for (final cue in affectedCues) {
+      final oldKey = '${_formatVttTime(cue.startTime)} --> ${_formatVttTime(cue.endTime)}';
+      final newKey = '${_formatVttTime(cue.startTime + shiftAmount)} --> ${_formatVttTime(cue.endTime + shiftAmount)}';
+      keyRemap[oldKey] = newKey;
+    }
+
+    final remappedStyles = <String, VttShowStyle>{};
+    _vttShowStyles.forEach((key, value) {
+      remappedStyles[keyRemap[key] ?? key] = value;
+    });
+    _vttShowStyles
+      ..clear()
+      ..addAll(remappedStyles);
+
+    setState(() {
+      for (int i = insertAfterIndex + 1; i < _subtitles.length; i++) {
+        final c = _subtitles[i];
+        final shifted = SubtitleCue(
+          startTime: c.startTime + shiftAmount,
+          endTime:   c.endTime   + shiftAmount,
+          text:      c.text,
+        );
+        _subtitles[i]         = shifted;
+        _originalSubtitles[i] = shifted;
+      }
+    });
+  }
+
   Future<void> _applyVttShowStyle(String timecodeKey) async {
     if (!_vttShowActive) return;
     if (_vttShowApplying) {
@@ -7946,18 +7998,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                       });
                     },
                     onAddCueAfter: (index) {
-                      final cue = _subtitles[index];
-                      final newStart = cue.endTime;
-                      final newEnd = cue.endTime + const Duration(seconds: 10);
-                      final newCue = SubtitleCue(
-                        startTime: newStart,
-                        endTime: newEnd,
-                        text: '',
-                      );
-                      setState(() {
-                        _subtitles.insert(index + 1, newCue);
-                        _originalSubtitles.insert(index + 1, newCue);
-                      });
+                      _addCueAfter(index);
                     },
                   ),
 

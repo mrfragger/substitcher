@@ -359,7 +359,7 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 ### vttshow Slide Presentation
 - open v Subtitle Manager to create New vttshow or Last vttshow or Browse vtt
 - edit vttshow.vtt to show fancy fonts with various color palettes
-- can do two lines
+- can do two lines, text wraps so one line can show 5 lines for instance
 - first line loads then -> or spacebar advanced to second line
 - automatically saves font properties
 - no sound, it loads a silent 60 minute opus file
