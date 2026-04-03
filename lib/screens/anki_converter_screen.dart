@@ -56,6 +56,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
   final List<String> _transliterationLog = [];
   bool _csvOnlyMode = false;
   bool _useFilenameAsChapterName = false;
+  static String? _lastCsvDirectory;
 
   @override
   void dispose() {
@@ -69,10 +70,14 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
       dialogTitle: 'Select CSV File',
       type: FileType.custom,
       allowedExtensions: ['csv'],
+      initialDirectory: _lastCsvDirectory != null && await Directory(_lastCsvDirectory!).exists()
+          ? _lastCsvDirectory
+          : null,
     );
 
     if (result != null && result.files.isNotEmpty) {
       final filePath = result.files.first.path!;
+      _lastCsvDirectory = path.dirname(filePath);
 
       setState(() {
         _csvPath = filePath;
