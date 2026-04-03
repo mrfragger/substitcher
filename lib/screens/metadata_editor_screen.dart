@@ -20,28 +20,31 @@ class AudiobookMetadataEdit {
 }
 
 class MetadataEditorScreen extends StatefulWidget {
-  const MetadataEditorScreen({super.key});
+  final String? currentlyLoadedPath;
+
+  const MetadataEditorScreen({super.key, this.currentlyLoadedPath});
 
   @override
   State<MetadataEditorScreen> createState() => _MetadataEditorScreenState();
 }
 
+
 class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
   final FFmpegService _ffmpeg = FFmpegService();
-  
+
   String? _currentFilePath;
   AudiobookMetadataEdit? _metadata;
   bool _loading = false;
   bool _saving = false;
-  
+
   final _authorController = TextEditingController();
   final _titleController = TextEditingController();
   final _yearController = TextEditingController();
-  
+
   String _originalAuthor = '';
   String _originalTitle = '';
   List<String> _originalChapterTitles = [];
-  
+
   String _debugInfo = '';
 
   bool _showSearchReplace = false;
@@ -56,6 +59,16 @@ class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
   String? _titleCaseTitle;
 
   @override
+  void initState() {
+    super.initState();
+    if (widget.currentlyLoadedPath != null) {
+      WidgetsBinding.instance.addPostFrameCallback((_) {
+        _autoLoad(widget.currentlyLoadedPath!);
+      });
+    }
+  }
+
+  @override
   void dispose() {
     _authorController.dispose();
     _titleController.dispose();
@@ -65,26 +78,14 @@ class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
     super.dispose();
   }
 
-  Future<void> _loadAudiobook() async {
-    final result = await FilePicker.platform.pickFiles(
-      type: FileType.custom,
-      allowedExtensions: ['opus', 'm4a', 'm4b'],
-      dialogTitle: 'Select Audiobook',
-    );
-    
-    if (result == null || result.files.isEmpty) return;
-    
-    final filePath = result.files.first.path!;
-    
+  Future<void> _autoLoad(String filePath) async {
     setState(() {
       _loading = true;
       _currentFilePath = filePath;
       _debugInfo = '';
     });
-    
     try {
       final metadata = await _extractMetadata(filePath);
-      
       setState(() {
         _metadata = metadata;
         _originalAuthor = metadata.author;
@@ -95,7 +96,43 @@ class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
         _yearController.text = metadata.year ?? '';
         _loading = false;
       });
-      
+    } catch (e) {
+      setState(() => _loading = false);
+      _showError('Failed to load metadata: $e');
+    }
+  }
+
+  Future<void> _loadAudiobook() async {
+    final result = await FilePicker.platform.pickFiles(
+      type: FileType.custom,
+      allowedExtensions: ['opus', 'm4a', 'm4b'],
+      dialogTitle: 'Select Audiobook',
+    );
+
+    if (result == null || result.files.isEmpty) return;
+
+    final filePath = result.files.first.path!;
+
+    setState(() {
+      _loading = true;
+      _currentFilePath = filePath;
+      _debugInfo = '';
+    });
+
+    try {
+      final metadata = await _extractMetadata(filePath);
+
+      setState(() {
+        _metadata = metadata;
+        _originalAuthor = metadata.author;
+        _originalTitle = metadata.title;
+        _originalChapterTitles = metadata.chapters.map((c) => c.title).toList();
+        _authorController.text = metadata.author;
+        _titleController.text = metadata.title;
+        _yearController.text = metadata.year ?? '';
+        _loading = false;
+      });
+
     } catch (e) {
       setState(() => _loading = false);
       _showError('Failed to load metadata: $e');
@@ -104,55 +141,55 @@ class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
 
   Future<AudiobookMetadataEdit> _extractMetadata(String filePath) async {
     await _ffmpeg.ensureBinaries();
-    
+
     final metadataResult = await Process.run(_ffmpeg.ffprobePath ?? 'ffprobe', [
       filePath,
     ]);
-    
+
     if (metadataResult.exitCode != 0 && metadataResult.stderr.toString().isEmpty) {
       throw Exception('Failed to extract metadata');
     }
-    
+
     final output = metadataResult.stderr as String;
-    
+
     setState(() {
       _debugInfo = 'RAW FFPROBE OUTPUT:\n$output\n\n';
     });
-    
+
     String artist = 'Unknown Artist';
     String albumArtist = 'Unknown Artist';
     String album = 'Unknown Album';
     String title = 'Unknown Album';
     String? year;
-    
+
     final lines = output.split('\n');
     bool inAudioStreamMetadata = false;
-    
+
     for (final line in lines) {
       final trimmed = line.trim();
-      
+
       if (trimmed.startsWith('Stream #0:0: Audio:')) {
         inAudioStreamMetadata = false;
         continue;
       }
-      
+
       if (trimmed.startsWith('Stream #0:1:') || trimmed.startsWith('Stream #0:2:')) {
         break;
       }
-      
+
       if (trimmed.startsWith('Metadata:')) {
         inAudioStreamMetadata = true;
         continue;
       }
-      
+
       if (inAudioStreamMetadata && trimmed.contains(':')) {
         final parts = trimmed.split(':');
         if (parts.length >= 2) {
           final key = parts[0].trim().toLowerCase();
           final value = parts.sublist(1).join(':').trim();
-          
+
           if (value.isEmpty) continue;
-          
+
           if (key == 'artist') {
             artist = value;
           } else if (key == 'album artist') {
@@ -167,18 +204,18 @@ class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
         }
       }
     }
-    
+
     if (albumArtist == 'Unknown Artist' && artist != 'Unknown Artist') {
       albumArtist = artist;
     }
-    
+
     if (artist == 'Unknown Artist' && albumArtist != 'Unknown Artist') {
       artist = albumArtist;
     }
-    
+
     final finalAuthor = artist != 'Unknown Artist' ? artist : albumArtist;
     final finalTitle = album != 'Unknown Album' ? album : 'Unknown Title';
-    
+
     setState(() {
       _debugInfo += 'FOUND METADATA:\n';
       _debugInfo += '  Artist: $artist\n';
@@ -191,11 +228,11 @@ class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
       _debugInfo += '  Title (will be used): $finalTitle\n';
       _debugInfo += '  Year: ${year ?? 'not found'}\n';
     });
-    
+
     print(_debugInfo);
-    
+
     final chapters = await _extractChapters(filePath);
-    
+
     return AudiobookMetadataEdit(
       author: finalAuthor,
       title: finalTitle,
@@ -206,44 +243,44 @@ class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
 
   Future<List<Chapter>> _extractChapters(String filePath) async {
     await _ffmpeg.ensureBinaries();
-    
+
     final tempFile = '${Directory.systemTemp.path}/temp_ffmetadata.txt';
-    
+
     final result = await Process.run(_ffmpeg.ffmpegPath ?? 'ffmpeg', [
       '-i', filePath,
       '-f', 'ffmetadata',
       '-y',
       tempFile,
     ]);
-    
+
     if (result.exitCode != 0) {
       return [];
     }
-    
+
     final content = await File(tempFile).readAsString();
     await File(tempFile).delete();
-    
+
     return _parseChaptersFromMetadata(content);
   }
 
   List<Chapter> _parseChaptersFromMetadata(String content) {
     final chapters = <Chapter>[];
     final lines = content.split('\n');
-    
+
     int chapterIndex = 0;
     int? startMs;
     int? endMs;
     String? title;
-    
+
     for (var i = 0; i < lines.length; i++) {
       final line = lines[i].trim();
-      
+
       if (line == '[CHAPTER]') {
         if (startMs != null && endMs != null && title != null) {
           final startTime = Duration(milliseconds: startMs);
           final endTime = Duration(milliseconds: endMs);
           final duration = endTime - startTime;
-          
+
           chapters.add(Chapter(
             index: chapterIndex,
             title: title,
@@ -258,7 +295,7 @@ class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
         title = null;
         continue;
       }
-      
+
       if (line.startsWith('TIMEBASE=')) continue;
       if (line.startsWith('START=')) {
         startMs = int.tryParse(line.substring(6));
@@ -268,12 +305,12 @@ class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
         title = line.substring(6);
       }
     }
-    
+
     if (startMs != null && endMs != null && title != null) {
       final startTime = Duration(milliseconds: startMs);
       final endTime = Duration(milliseconds: endMs);
       final duration = endTime - startTime;
-      
+
       chapters.add(Chapter(
         index: chapterIndex,
         title: title,
@@ -282,31 +319,31 @@ class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
         duration: duration,
       ));
     }
-    
+
     return chapters;
   }
 
   String _titleCaseString(String text) {
     final smallWords = RegExp(r'^(a|an|and|as|at|but|by|en|for|if|in|nor|of|on|or|per|the|to|up|v\.?|vs\.?|via|with)$', caseSensitive: false);
-    
+
     final parts = <String>[];
     final regex = RegExp(r'(\S+|\s+)');
     for (final match in regex.allMatches(text)) {
       parts.add(match.group(0)!);
     }
-    
+
     final nonWhitespace = parts.where((p) => p.trim().isNotEmpty).toList();
-    
+
     return parts.asMap().entries.map((entry) {
       final idx = entry.key;
       final part = entry.value;
-      
+
       if (part.trim().isEmpty) return part;
-      
+
       final word = part;
       final isFirstWord = word == nonWhitespace.first;
       final isLastWord = word == nonWhitespace.last;
-      
+
       // Check if previous non-whitespace word ends with digits
       if (idx > 0) {
         for (int i = idx - 1; i >= 0; i--) {
@@ -318,59 +355,59 @@ class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
           }
         }
       }
-      
+
       if (idx > 0) {
         final prevPart = parts[idx - 1];
-        if (prevPart.contains(':') || prevPart.contains('：') || 
+        if (prevPart.contains(':') || prevPart.contains('：') ||
             (idx > 1 && (parts[idx - 2].contains(':') || parts[idx - 2].contains('：')))) {
           return word[0].toUpperCase() + word.substring(1).toLowerCase();
         }
       }
-      
+
       if (word.startsWith('"') || word.startsWith('＂')) {
         if (word.length > 1) {
           final openQuote = word[0];
           return openQuote + word[1].toUpperCase() + word.substring(2).toLowerCase();
         }
       }
-      
+
       if (idx > 0) {
         final prevPart = parts[idx - 1];
-        if (prevPart == '"' || prevPart == '＂' || 
+        if (prevPart == '"' || prevPart == '＂' ||
             (prevPart.trim().isEmpty && idx > 1 && (parts[idx - 2] == '"' || parts[idx - 2] == '＂'))) {
           return word[0].toUpperCase() + word.substring(1).toLowerCase();
         }
       }
-      
+
       if (!isFirstWord && nonWhitespace.isNotEmpty) {
         final prevIndex = nonWhitespace.indexOf(word) - 1;
         if (prevIndex >= 0) {
           final prevWord = nonWhitespace[prevIndex];
-          if (prevWord == nonWhitespace.first && 
+          if (prevWord == nonWhitespace.first &&
               RegExp(r'^\d+\.?$').hasMatch(prevWord)) {
             return word[0].toUpperCase() + word.substring(1).toLowerCase();
           }
-          
+
           if (prevWord.contains(':') || prevWord.contains('：')) {
             return word[0].toUpperCase() + word.substring(1).toLowerCase();
           }
-          
+
           if (prevWord == '"' || prevWord == '＂' || prevWord.endsWith('"') || prevWord.endsWith('＂')) {
             return word[0].toUpperCase() + word.substring(1).toLowerCase();
           }
         }
       }
-      
+
       if (RegExp(r'^[Aa][dlnstrz]-').hasMatch(word)) {
         final prefix = word.substring(0, 3);
         final rest = word.substring(3);
         if (rest.isNotEmpty) {
-          return prefix[0].toUpperCase() + prefix.substring(1).toLowerCase() + 
+          return prefix[0].toUpperCase() + prefix.substring(1).toLowerCase() +
                  rest[0].toUpperCase() + rest.substring(1).toLowerCase();
         }
         return prefix[0].toUpperCase() + prefix.substring(1).toLowerCase();
       }
-      
+
       if (word.contains('(')) {
         return word.split('').asMap().entries.map((e) {
           if (e.value == '(' && e.key + 1 < word.length) return e.value;
@@ -378,15 +415,15 @@ class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
           return e.value.toLowerCase();
         }).join('');
       }
-      
+
       if (isFirstWord || isLastWord) {
         return word[0].toUpperCase() + word.substring(1).toLowerCase();
       }
-      
+
       if (smallWords.hasMatch(word)) {
         return word.toLowerCase();
       }
-      
+
       return word[0].toUpperCase() + word.substring(1).toLowerCase();
     }).join('');
   }
@@ -396,7 +433,7 @@ class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
         setState(() {
           _metadata = _titleCaseHistory;
           _titleCaseHistory = null;
-          
+
           if (_titleCaseAuthor != null) {
             _authorController.text = _titleCaseAuthor!;
             _titleCaseAuthor = null;
@@ -408,7 +445,7 @@ class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
         });
         return;
       }
-  
+
       setState(() {
         _titleCaseHistory = AudiobookMetadataEdit(
           author: _metadata!.author,
@@ -424,13 +461,13 @@ class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
         );
         _titleCaseAuthor = _authorController.text;
         _titleCaseTitle = _titleController.text;
-        
+
         _authorController.text = _titleCaseString(_authorController.text);
         _titleController.text = _titleCaseString(_titleController.text);
-        
+
         _metadata!.author = _authorController.text;
         _metadata!.title = _titleController.text;
-        
+
         _metadata!.chapters = _metadata!.chapters.map((chapter) {
           return Chapter(
             index: chapter.index,
@@ -448,12 +485,12 @@ class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
       _showError('Please enter a search term');
       return;
     }
-    
+
     if (_metadata == null || _metadata!.chapters.isEmpty) {
       _showError('No chapters to preview');
       return;
     }
-    
+
     setState(() {
       if (_isPreviewingReplace) {
         for (final entry in _originalReplaceValues.entries) {
@@ -470,11 +507,11 @@ class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
         _isPreviewingReplace = false;
       } else {
         _originalReplaceValues.clear();
-        
+
         for (int i = 0; i < _metadata!.chapters.length; i++) {
           final chapter = _metadata!.chapters[i];
           final currentTitle = chapter.title;
-          
+
           String newTitle;
           if (_useRegex) {
             try {
@@ -531,29 +568,29 @@ class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
             }
           }
         }
-        
+
         _isPreviewingReplace = true;
       }
     });
   }
-  
+
   void _applySearchReplace() {
     if (_searchController.text.isEmpty) {
       _showError('Please enter a search term');
       return;
     }
-    
+
     if (_metadata == null || _metadata!.chapters.isEmpty) {
       _showError('No chapters to modify');
       return;
     }
-    
+
     setState(() {
       if (!_isPreviewingReplace) {
         for (int i = 0; i < _metadata!.chapters.length; i++) {
           final chapter = _metadata!.chapters[i];
           final currentTitle = chapter.title;
-          
+
           String newTitle;
           if (_useRegex) {
             try {
@@ -575,7 +612,7 @@ class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
           } else {
             newTitle = currentTitle.replaceAll(_searchController.text, _replaceController.text);
           }
-          
+
           _metadata!.chapters[i] = Chapter(
             index: chapter.index,
             title: newTitle,
@@ -585,11 +622,11 @@ class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
           );
         }
       }
-      
+
       _originalReplaceValues.clear();
       _isPreviewingReplace = false;
     });
-    
+
     _showSuccess('Replacements applied');
   }
 
@@ -687,7 +724,7 @@ class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
       ),
     );
   }
-  
+
   Widget _buildHelpSection(String title, List<_HelpExample> examples) {
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
@@ -869,29 +906,29 @@ class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
 
   Future<void> _saveMetadata() async {
     if (_currentFilePath == null || _metadata == null) return;
-    
+
     setState(() {
       _saving = true;
     });
-    
+
     try {
       await _ffmpeg.ensureBinaries();
-      
+
       final metadataContent = _createFFMetadataContent();
       final tempMetadataFile = '${Directory.systemTemp.path}/editing_metadata.txt';
-      
+
       print('SAVE PROCESS STARTED\n');
       print('Created metadata content:\n$metadataContent\n');
-      
+
       await File(tempMetadataFile).writeAsString(metadataContent);
-      
+
       print('Wrote metadata to: $tempMetadataFile\n');
-      
+
       final ext = path.extension(_currentFilePath!).toLowerCase();
       final tempOutputFile = '${Directory.systemTemp.path}/temp_no_metadata$ext';
-      
+
       print('Step 1: Stripping original metadata...');
-      
+
       final stripResult = await Process.run(_ffmpeg.ffmpegPath ?? 'ffmpeg', [
         '-i', _currentFilePath!,
         '-map_metadata', '-1',
@@ -902,18 +939,18 @@ class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
         '-y',
         tempOutputFile,
       ]);
-      
+
       print('Strip result: exit code ${stripResult.exitCode}');
       if (stripResult.stderr.toString().isNotEmpty) {
         print('Strip stderr: ${stripResult.stderr}');
       }
-      
+
       if (stripResult.exitCode != 0) {
         throw Exception('Failed to strip metadata: ${stripResult.stderr}');
       }
-      
+
       print('Step 2: Applying new metadata...');
-      
+
       final applyResult = await Process.run(_ffmpeg.ffmpegPath ?? 'ffmpeg', [
         '-i', tempOutputFile,
         '-i', tempMetadataFile,
@@ -925,15 +962,15 @@ class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
         '-y',
         _currentFilePath!,
       ]);
-      
+
       print('Apply result: exit code ${applyResult.exitCode}');
       if (applyResult.stderr.toString().isNotEmpty) {
         print('Apply stderr: ${applyResult.stderr}');
       }
-      
+
       await File(tempOutputFile).delete();
       await File(tempMetadataFile).delete();
-      
+
       if (applyResult.exitCode == 0) {
         setState(() {
           _saving = false;
@@ -943,7 +980,7 @@ class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
       } else {
         throw Exception('Failed to apply metadata: ${applyResult.stderr}');
       }
-      
+
     } catch (e) {
       setState(() {
         _saving = false;
@@ -952,28 +989,28 @@ class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
       _showError('Failed to save metadata: $e');
     }
   }
-  
+
   String _createFFMetadataContent() {
     final buffer = StringBuffer();
-    
+
     buffer.writeln(';FFMETADATA1');
-    
+
     buffer.writeln('Artist=${_authorController.text}');
     buffer.writeln('Album Artist=${_authorController.text}');
     buffer.writeln('Album=${_titleController.text}');
     buffer.writeln('Title=${_titleController.text}');
-    
+
     if (_yearController.text.isNotEmpty) {
       buffer.writeln('Year=${_yearController.text}');
     }
-    
+
     if (_currentFilePath!.toLowerCase().endsWith('.opus')) {
       const base64Png = 'AAAAAwAAAAlpbWFnZS9wbmcAAAALRnJvbnQgQ292ZXIAAAAQAAAACQAAACAAAAAAAAAAU4lQTkcNChoKAAAADUlIRFIAAAAQAAAACQgGAAAAOyqsMgAAABpJREFUeJxjZGBg+M9AAWCiRPOoARAwDAwAAFmzARHg40/fAAAAAElFTkSuQmCC';
       buffer.writeln('\nMETADATA_BLOCK_PICTURE=$base64Png');
     }
-    
+
     buffer.writeln();
-    
+
     if (_metadata!.chapters.isNotEmpty) {
       for (final chapter in _metadata!.chapters) {
         buffer.writeln('[CHAPTER]');
@@ -984,32 +1021,32 @@ class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
         buffer.writeln();
       }
     }
-    
+
     return buffer.toString();
   }
 
   Future<void> _addBlack16x9Cover() async {
     if (_currentFilePath == null) return;
-    
+
     setState(() => _saving = true);
-    
+
     try {
       await _ffmpeg.ensureBinaries();
-      
+
       final baseName = path.basenameWithoutExtension(_currentFilePath!);
       final dir = path.dirname(_currentFilePath!);
       final ext = path.extension(_currentFilePath!);
-      
+
       String outputPath = path.join(dir, '${baseName}_black16x9cover$ext');
-      
+
       int counter = 1;
       while (await File(outputPath).exists()) {
         outputPath = path.join(dir, '${baseName}_black16x9cover_$counter$ext');
         counter++;
       }
-      
+
       const base64_16x9_black = 'AAAAAwAAAAlpbWFnZS9wbmcAAAALRnJvbnQgQ292ZXIAAAAQAAAACQAAACAAAAAAAAAAU4lQTkcNChoKAAAADUlIRFIAAAAQAAAACQgGAAAAOyqsMgAAABpJREFUeJxjZGBg+M9AAWCiRPOoARAwDAwAAFmzARHg40/fAAAAAElFTkSuQmCC';
-      
+
       final result = await Process.run(_ffmpeg.ffmpegPath ?? 'ffmpeg', [
         '-i', _currentFilePath!,
         '-metadata:s:a', 'METADATA_BLOCK_PICTURE=$base64_16x9_black',
@@ -1018,27 +1055,27 @@ class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
         '-y',
         outputPath,
       ]);
-      
+
       setState(() => _saving = false);
-      
+
       if (result.exitCode == 0) {
         _showSuccess('Created file with 16:9 black cover:\n${path.basename(outputPath)}');
       } else {
         throw Exception('FFmpeg failed');
       }
-      
+
     } catch (e) {
       setState(() => _saving = false);
       _showError('Failed to add cover: $e');
     }
   }
-  
+
 
   void _editChapterTitle(int index) {
     final controller = TextEditingController(
       text: _metadata!.chapters[index].title,
     );
-    
+
     showDialog(
       context: context,
       builder: (context) => AlertDialog(
@@ -1085,7 +1122,7 @@ class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
       ),
     );
   }
-  
+
   void _showSuccess(String message) {
     ScaffoldMessenger.of(context).showSnackBar(
       SnackBar(
@@ -1100,7 +1137,7 @@ class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
     final hours = d.inHours;
     final minutes = d.inMinutes.remainder(60);
     final seconds = d.inSeconds.remainder(60);
-    
+
     if (hours > 0) {
       return '${hours.toString().padLeft(2, '0')}:${minutes.toString().padLeft(2, '0')}:${seconds.toString().padLeft(2, '0')}';
     } else {
@@ -1115,18 +1152,18 @@ class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
         style: const TextStyle(fontSize: 14),
       );
     }
-    
+
     final isCaseOnlyChange = displayTitle.toLowerCase() == originalTitle.toLowerCase();
-    
+
     if (isCaseOnlyChange) {
       final spans = <InlineSpan>[];
-      
+
       for (int i = 0; i < displayTitle.length; i++) {
         final char = displayTitle[i];
-        final isChanged = i < originalTitle.length && 
+        final isChanged = i < originalTitle.length &&
                          char != originalTitle[i] &&
                          char.toLowerCase() == originalTitle[i].toLowerCase();
-        
+
         spans.add(TextSpan(
           text: char,
           style: TextStyle(
@@ -1136,7 +1173,7 @@ class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
           ),
         ));
       }
-      
+
       return RichText(
         text: TextSpan(
           style: TextStyle(
@@ -1150,15 +1187,15 @@ class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
       final spans = <InlineSpan>[];
       final displayWords = displayTitle.split(' ');
       final originalWords = originalTitle.split(' ');
-      
+
       for (int i = 0; i < displayWords.length; i++) {
         final displayWord = displayWords[i];
         final originalWord = i < originalWords.length ? originalWords[i] : '';
-        
+
         if (i > 0) {
           spans.add(const TextSpan(text: ' '));
         }
-        
+
         if (displayWord == originalWord) {
           spans.add(TextSpan(
             text: displayWord,
@@ -1176,7 +1213,7 @@ class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
           ));
         }
       }
-      
+
       return RichText(
         text: TextSpan(
           style: TextStyle(
@@ -1199,13 +1236,13 @@ class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
               children: [
                 if (_metadata != null) _buildMetadataHeader(),
                 if (_showSearchReplace) _buildSearchReplacePanel(),
-                
+
                 Expanded(
                   child: _metadata == null
                       ? _buildEmptyState()
                       : _buildChapterList(),
                 ),
-                
+
                 _buildActionButtons(),
               ],
             ),
@@ -1396,10 +1433,10 @@ class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
       itemCount: _metadata!.chapters.length,
       itemBuilder: (context, index) {
         final chapter = _metadata!.chapters[index];
-        final originalTitle = index < _originalChapterTitles.length 
-            ? _originalChapterTitles[index] 
+        final originalTitle = index < _originalChapterTitles.length
+            ? _originalChapterTitles[index]
             : chapter.title;
-        
+
         return ListTile(
           dense: true,
           leading: CircleAvatar(
@@ -1489,6 +1526,6 @@ class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
 class _HelpExample {
   final String pattern;
   final String description;
-  
+
   _HelpExample(this.pattern, this.description);
 }

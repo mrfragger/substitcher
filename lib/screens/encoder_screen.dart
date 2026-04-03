@@ -2849,13 +2849,60 @@ class _EncoderScreenState extends State<EncoderScreen> {
 
             Expanded(
               child: ElevatedButton.icon(
-                onPressed: (_encoding || _extracting) ? null : () {
-                  Navigator.push(
-                    context,
-                    MaterialPageRoute(
-                      builder: (context) => const MetadataEditorScreen(),
-                    ),
-                  );
+                onPressed: (_encoding || _extracting) ? null : () async {
+                  String? pathToLoad;
+                  if (widget.currentAudiobookPath != null) {
+                    final choice = await showDialog<String>(
+                      context: context,
+                      builder: (context) => AlertDialog(
+                        backgroundColor: const Color(0xFF1E1E1E),
+                        title: const Text('Edit Audiobook Metadata', style: TextStyle(color: Colors.white)),
+                        content: Column(
+                          mainAxisSize: MainAxisSize.min,
+                          crossAxisAlignment: CrossAxisAlignment.start,
+                          children: [
+                            const Text('Edit metadata for which audiobook?', style: TextStyle(color: Colors.white70)),
+                            const SizedBox(height: 16),
+                            Container(
+                              padding: const EdgeInsets.all(12),
+                              decoration: BoxDecoration(color: Colors.black26, borderRadius: BorderRadius.circular(8)),
+                              child: Row(
+                                children: [
+                                  const Icon(Icons.audiotrack, color: Colors.blue, size: 16),
+                                  const SizedBox(width: 8),
+                                  Expanded(
+                                    child: Text(
+                                      'Currently loaded:\n${path.basename(widget.currentAudiobookPath!)}',
+                                      style: const TextStyle(color: Colors.white54, fontSize: 12),
+                                    ),
+                                  ),
+                                ],
+                              ),
+                            ),
+                          ],
+                        ),
+                        actions: [
+                          TextButton(onPressed: () => Navigator.pop(context, 'cancel'), child: const Text('Cancel')),
+                          ElevatedButton(onPressed: () => Navigator.pop(context, 'browse'), child: const Text('Choose Audiobook')),
+                          ElevatedButton(
+                            onPressed: () => Navigator.pop(context, 'current'),
+                            style: ElevatedButton.styleFrom(backgroundColor: Colors.deepPurple),
+                            child: const Text('Use Current Loaded Audiobook'),
+                          ),
+                        ],
+                      ),
+                    );
+                    if (choice == null || choice == 'cancel') return;
+                    if (choice == 'current') pathToLoad = widget.currentAudiobookPath;
+                  }
+                  if (mounted) {
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                        builder: (context) => MetadataEditorScreen(currentlyLoadedPath: pathToLoad),
+                      ),
+                    );
+                  }
                 },
                 icon: const Icon(Icons.edit),
                 label: const Text('Edit Audiobook Metadata'),
