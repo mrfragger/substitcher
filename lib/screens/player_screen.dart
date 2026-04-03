@@ -4315,21 +4315,22 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
 
   double _calculateDynamicFontSize(String text, double baseFontSize) {
     final textLength = _getEffectiveTextLength(text);
-
     double multiplier = 1.0;
 
     if (textLength >= 1 && textLength <= 60) {
       final effectiveLength = textLength < 10 ? 10 : textLength;
       multiplier = 1.0 + ((60 - effectiveLength) / 100.0);
+    } else if (textLength > 60) {
+      final stepsOver60 = (textLength - 60) / 30.0;
+      multiplier = (1.0 - stepsOver60 * 0.04).clamp(0.58, 1.0);
     }
 
-    final finalSize = baseFontSize * multiplier;
+    final finalSize = (baseFontSize * multiplier).clamp(16.0, baseFontSize * 1.6);
 
     if (text != _lastDebuggedSubtitle) {
-      // print(' Font Adjust: len=$textLength, base=$baseFontSize, ×${multiplier.toStringAsFixed(3)} = ${finalSize.toStringAsFixed(1)}');
-      _lastDebuggedSubtitle = text;
+      // print('Font Adjust: len=$textLength, base=$baseFontSize, ×${multiplier.toStringAsFixed(3)} = ${finalSize.toStringAsFixed(1)}');
+      // _lastDebuggedSubtitle = text;
     }
-
     return finalSize;
   }
 
@@ -6794,6 +6795,12 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               _scanAvailableLuts();
             }
             _scrollToSelectedLut();
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyS && event is KeyDownEvent) {
+            setState(() {
+              _showPanel = true;
+              _panelMode = PanelMode.subs;
+            });
             return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyT && event is KeyDownEvent) {
             setState(() {
