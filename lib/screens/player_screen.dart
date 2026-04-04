@@ -1209,6 +1209,8 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         _secondarySubtitles = [];
         _secondarySubtitleText = '';
         _currentSecondarySubtitleIndex = null;
+        _currentSubtitleIndex = null;
+        _currentSubtitleText = '';
         _vttShowStyles = {};
         _vttShowActive = false;
         _vttShowRevealedLines = 1;
@@ -8208,6 +8210,11 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                   overflow: TextOverflow.ellipsis,
                 ),
                 if (_currentAudiobook!.chapters.isNotEmpty)
+                  Text(
+                    '-${_formatChapterRemaining(_getChapterRemainingTime())}',
+                    style: const TextStyle(color: Colors.white54, fontSize: 14),
+                  ),
+                if (_currentAudiobook!.chapters.isNotEmpty)
                   RichText(
                     maxLines: 1,
                     overflow: TextOverflow.ellipsis,
@@ -8217,15 +8224,12 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                         TextSpan(
                           text: _hideChapterTitle
                               ? '↳ ${_currentChapterIndex + 1}/${_currentAudiobook!.chapters.length}'
-                              : '↳ ${_currentChapterIndex + 1}/${_currentAudiobook!.chapters.length}: ${_currentAudiobook!.chapters[_currentChapterIndex].title}',
+                              : '↳ ${_currentChapterIndex + 1}/${_currentAudiobook!.chapters.length}',
                         ),
-                        TextSpan(
-                          text: ' -${_formatChapterRemaining(_getChapterRemainingTime())}',
-                          style: const TextStyle(
-                            color: Colors.white54,
-                            fontWeight: FontWeight.normal,
+                        if (!_hideChapterTitle)
+                          TextSpan(
+                            text: ': ${_currentAudiobook!.chapters[_currentChapterIndex].title}',
                           ),
-                        ),
                       ],
                     ),
                   ),
@@ -8916,8 +8920,12 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     }
 
     String textToCopy = _currentSubtitleText;
-    if (_currentSubtitleIndex != null && _currentSubtitleIndex! < _originalSubtitles.length) {
-      textToCopy = _originalSubtitles[_currentSubtitleIndex!].text;
+    if (_currentSubtitleIndex != null && _currentSubtitleIndex! < _subtitles.length) {
+      final currentCue = _subtitles[_currentSubtitleIndex!];
+      final originalCue = _originalSubtitles.where((c) =>
+        c.startTime == currentCue.startTime
+      ).firstOrNull;
+      textToCopy = originalCue?.text ?? currentCue.text;
     }
 
     await Clipboard.setData(ClipboardData(text: textToCopy));

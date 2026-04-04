@@ -202,6 +202,205 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
     }
   }
 
+  Future<void> _splitLongSubs(BuildContext context) async {
+    final sourcePath = _primarySubtitle;
+    if (sourcePath == null) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(content: Text('No primary subtitle selected to split'), backgroundColor: Colors.red),
+      );
+      return;
+    }
+
+    try {
+      final content = await File(sourcePath).readAsString();
+      final lines = content.split('\n');
+      final output = <String>[];
+      int splitCount = 0;
+      int i = 0;
+
+      while (i < lines.length) {
+        final line = lines[i];
+
+        if (line.contains('-->')) {
+          final parts = line.split('-->');
+          final startMs = _parseTimestamp(parts[0].trim());
+          final endMs = _parseTimestamp(parts[1].trim());
+
+          final textLines = <String>[];
+          i++;
+          while (i < lines.length && lines[i].trim().isNotEmpty) {
+            textLines.add(lines[i]);
+            i++;
+          }
+
+          final text = textLines.join(' ');
+          final clean = text.replaceAll(RegExp(r'<[^>]+>'), '');
+          final isLatin = !RegExp(r'[\u0600-\u06FF\u3040-\u9FFF\uAC00-\uD7AF]').hasMatch(clean);
+
+          if (clean.length > 480 && isLatin) {
+            final sixth = clean.length ~/ 6;
+            int s1 = _findWordBoundary(clean, sixth);
+            int s2 = _findWordBoundary(clean, sixth * 2);
+            int s3 = _findWordBoundary(clean, sixth * 3);
+            int s4 = _findWordBoundary(clean, sixth * 4);
+            int s5 = _findWordBoundary(clean, sixth * 5);
+            final p1 = clean.substring(0, s1).trim();
+            final p2 = clean.substring(s1, s2).trim();
+            final p3 = clean.substring(s2, s3).trim();
+            final p4 = clean.substring(s3, s4).trim();
+            final p5 = clean.substring(s4, s5).trim();
+            final p6 = clean.substring(s5).trim();
+            final dur = endMs - startMs;
+            final m1 = startMs + dur ~/ 6;
+            final m2 = startMs + dur * 2 ~/ 6;
+            final m3 = startMs + dur * 3 ~/ 6;
+            final m4 = startMs + dur * 4 ~/ 6;
+            final m5 = startMs + dur * 5 ~/ 6;
+            output.add('${_formatTimestamp(startMs)} --> ${_formatTimestamp(m1)}'); output.add(p1); output.add('');
+            output.add('${_formatTimestamp(m1)} --> ${_formatTimestamp(m2)}'); output.add(p2); output.add('');
+            output.add('${_formatTimestamp(m2)} --> ${_formatTimestamp(m3)}'); output.add(p3); output.add('');
+            output.add('${_formatTimestamp(m3)} --> ${_formatTimestamp(m4)}'); output.add(p4); output.add('');
+            output.add('${_formatTimestamp(m4)} --> ${_formatTimestamp(m5)}'); output.add(p5); output.add('');
+            output.add('${_formatTimestamp(m5)} --> ${_formatTimestamp(endMs)}'); output.add(p6); output.add('');
+            splitCount++;
+          } else if (clean.length > 400 && isLatin) {
+            final fifth = clean.length ~/ 5;
+            int s1 = _findWordBoundary(clean, fifth);
+            int s2 = _findWordBoundary(clean, fifth * 2);
+            int s3 = _findWordBoundary(clean, fifth * 3);
+            int s4 = _findWordBoundary(clean, fifth * 4);
+            final p1 = clean.substring(0, s1).trim();
+            final p2 = clean.substring(s1, s2).trim();
+            final p3 = clean.substring(s2, s3).trim();
+            final p4 = clean.substring(s3, s4).trim();
+            final p5 = clean.substring(s4).trim();
+            final dur = endMs - startMs;
+            final m1 = startMs + dur ~/ 5;
+            final m2 = startMs + dur * 2 ~/ 5;
+            final m3 = startMs + dur * 3 ~/ 5;
+            final m4 = startMs + dur * 4 ~/ 5;
+            output.add('${_formatTimestamp(startMs)} --> ${_formatTimestamp(m1)}'); output.add(p1); output.add('');
+            output.add('${_formatTimestamp(m1)} --> ${_formatTimestamp(m2)}'); output.add(p2); output.add('');
+            output.add('${_formatTimestamp(m2)} --> ${_formatTimestamp(m3)}'); output.add(p3); output.add('');
+            output.add('${_formatTimestamp(m3)} --> ${_formatTimestamp(m4)}'); output.add(p4); output.add('');
+            output.add('${_formatTimestamp(m4)} --> ${_formatTimestamp(endMs)}'); output.add(p5); output.add('');
+            splitCount++;
+          } else if (clean.length > 320 && isLatin) {
+            final quarter = clean.length ~/ 4;
+            int s1 = _findWordBoundary(clean, quarter);
+            int s2 = _findWordBoundary(clean, clean.length ~/ 2);
+            int s3 = _findWordBoundary(clean, quarter * 3);
+
+            final p1 = clean.substring(0, s1).trim();
+            final p2 = clean.substring(s1, s2).trim();
+            final p3 = clean.substring(s2, s3).trim();
+            final p4 = clean.substring(s3).trim();
+
+            final dur = endMs - startMs;
+            final m1 = startMs + dur ~/ 4;
+            final m2 = startMs + dur ~/ 2;
+            final m3 = startMs + dur * 3 ~/ 4;
+
+            output.add('${_formatTimestamp(startMs)} --> ${_formatTimestamp(m1)}'); output.add(p1); output.add('');
+            output.add('${_formatTimestamp(m1)} --> ${_formatTimestamp(m2)}'); output.add(p2); output.add('');
+            output.add('${_formatTimestamp(m2)} --> ${_formatTimestamp(m3)}'); output.add(p3); output.add('');
+            output.add('${_formatTimestamp(m3)} --> ${_formatTimestamp(endMs)}'); output.add(p4); output.add('');
+            splitCount++;
+
+          } else if (clean.length > 240 && isLatin) {
+            int s1 = _findWordBoundary(clean, clean.length ~/ 3);
+            int s2 = _findWordBoundary(clean, clean.length * 2 ~/ 3);
+
+            final p1 = clean.substring(0, s1).trim();
+            final p2 = clean.substring(s1, s2).trim();
+            final p3 = clean.substring(s2).trim();
+
+            final dur = endMs - startMs;
+            final m1 = startMs + dur ~/ 3;
+            final m2 = startMs + dur * 2 ~/ 3;
+
+            output.add('${_formatTimestamp(startMs)} --> ${_formatTimestamp(m1)}'); output.add(p1); output.add('');
+            output.add('${_formatTimestamp(m1)} --> ${_formatTimestamp(m2)}'); output.add(p2); output.add('');
+            output.add('${_formatTimestamp(m2)} --> ${_formatTimestamp(endMs)}'); output.add(p3); output.add('');
+            splitCount++;
+
+          } else if (clean.length > 160 && isLatin) {
+            int s1 = _findWordBoundary(clean, clean.length ~/ 2);
+
+            final p1 = clean.substring(0, s1).trim();
+            final p2 = clean.substring(s1).trim();
+
+            final midMs = startMs + (endMs - startMs) ~/ 2;
+
+            output.add('${_formatTimestamp(startMs)} --> ${_formatTimestamp(midMs)}'); output.add(p1); output.add('');
+            output.add('${_formatTimestamp(midMs)} --> ${_formatTimestamp(endMs)}'); output.add(p2); output.add('');
+            splitCount++;
+
+          } else {
+            output.add(line);
+            for (final t in textLines) output.add(t);
+            output.add('');
+          }
+        } else {
+          output.add(line);
+          i++;
+        }
+      }
+
+      final base = path.basenameWithoutExtension(sourcePath);
+      final dir = path.dirname(sourcePath);
+      final outputPath = path.join(dir, '${base}_split.vtt');
+      final result = output.join('\n');
+      final cleaned = result.replaceAll(RegExp(r'\n{3,}'), '\n\n');
+      await File(outputPath).writeAsString(cleaned);
+
+      setState(() => _primarySubtitle = outputPath);
+      widget.onPrimarySelected(outputPath);
+
+      if (context.mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            content: Text('Split $splitCount cues → ${path.basename(outputPath)}'),
+            backgroundColor: Colors.green,
+            duration: const Duration(seconds: 3),
+          ),
+        );
+      }
+    } catch (e) {
+      if (context.mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(content: Text('Failed: $e'), backgroundColor: Colors.red),
+        );
+      }
+    }
+  }
+
+
+  int _findWordBoundary(String text, int pos) {
+    for (int j = 0; j < 50; j++) {
+      if (pos + j < text.length && text[pos + j] == ' ') return pos + j;
+      if (pos - j >= 0 && text[pos - j] == ' ') return pos - j;
+    }
+    return pos;
+  }
+
+  int _parseTimestamp(String ts) {
+    final parts = ts.split(':');
+    final h = int.parse(parts[0]);
+    final m = int.parse(parts[1]);
+    final sParts = parts[2].split('.');
+    final s = int.parse(sParts[0]);
+    final ms = int.parse(sParts[1]);
+    return h * 3600000 + m * 60000 + s * 1000 + ms;
+  }
+
+  String _formatTimestamp(int ms) {
+    final h = ms ~/ 3600000; ms %= 3600000;
+    final m = ms ~/ 60000; ms %= 60000;
+    final s = ms ~/ 1000; ms %= 1000;
+    return '${h.toString().padLeft(2,'0')}:${m.toString().padLeft(2,'0')}:${s.toString().padLeft(2,'0')}.${ms.toString().padLeft(3,'0')}';
+  }
+
   @override
   Widget build(BuildContext context) {
     return Focus(
@@ -498,9 +697,27 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
               ),
 
               const SizedBox(height: 24),
-              const Text(
-                'Available Subtitles',
-                style: TextStyle(color: Colors.white, fontSize: 18, fontWeight: FontWeight.bold),
+              Row(
+                children: [
+                  const Text(
+                    'Available Subtitles',
+                    style: TextStyle(color: Colors.white, fontSize: 18, fontWeight: FontWeight.bold),
+                  ),
+                  const SizedBox(width: 16),
+                  Tooltip(
+                    message: 'Splits lines with characters over 160 (1/2) , 240 (1/3), 320 (1/4), 400 (1/5), 480 (1/6) and duration.',
+                    child: ElevatedButton.icon(
+                      onPressed: _primarySubtitle != null ? () => _splitLongSubs(context) : null,
+                      icon: const Icon(Icons.call_split, size: 16),
+                      label: const Text('Split Long Subs'),
+                      style: ElevatedButton.styleFrom(
+                        backgroundColor: Colors.teal,
+                        foregroundColor: Colors.white,
+                        padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                      ),
+                    ),
+                  ),
+                ],
               ),
               const SizedBox(height: 12),
               Flexible(

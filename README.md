@@ -85,6 +85,12 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 - set font and color for 'active subtitle' which is the bottom one
 - set font and color for each one top and bottom 
 - converts srt to vtt automatically
+- Split Long Lines (like Quran for long ayah) creating filename_split.vtt
+- splits characters and duration into 1/2 if characters over 160
+- splits characters and duration into 1/3 if characters over 240
+- splits characters and duration into 1/4 if characters over 320
+- splits characters and duration into 1/5 if characters over 400
+- splits characters and duration into 1/6 if characters over 480
 
 ![](images/bilingualsubs.jpg)
 

@@ -176,79 +176,81 @@ class PlayerControls extends StatelessWidget {
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
-        if (!hideTitle)
-          Padding(
-            padding: const EdgeInsets.fromLTRB(16, 8, 16, 0),
-            child: Column(
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
+      if (!hideTitle)
+        Padding(
+          padding: const EdgeInsets.fromLTRB(16, 8, 16, 0),
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Row(
+                children: [
+                  if (isYouTubeStream) ...[
+                    if (onCloseYouTube != null)
+                      IconButton(
+                        icon: const Icon(Icons.close, color: Colors.red, size: 20),
+                        onPressed: onCloseYouTube,
+                        padding: EdgeInsets.zero,
+                        constraints: const BoxConstraints(),
+                        tooltip: 'Stop YouTube stream',
+                      ),
+                    const SizedBox(width: 8),
+                    const Icon(Icons.headphones, color: Colors.red, size: 16),
+                    const SizedBox(width: 8),
+                    if (youtubeChannelName != null) ...[
+                      Flexible(
+                        child: Text(
+                          youtubeChannelName!,
+                          style: const TextStyle(color: Colors.red, fontSize: 14),
+                          maxLines: 1,
+                          overflow: TextOverflow.ellipsis,
+                        ),
+                      ),
+                      const Text('  ', style: TextStyle(color: Colors.white70, fontSize: 14)),
+                    ],
+                  ],
+                  Expanded(
+                    child: RichText(
+                      maxLines: 1,
+                      overflow: TextOverflow.ellipsis,
+                      text: TextSpan(
+                        style: const TextStyle(color: Colors.white70, fontSize: 14),
+                        children: [
+                          TextSpan(text: fileName),
+                          if (!isYouTubeStream && currentChapter != null)
+                            TextSpan(
+                              text: ' -${_formatChapterRemaining(chapterRemaining)}',
+                              style: const TextStyle(color: Colors.white54),
+                            ),
+                        ],
+                      ),
+                    ),
+                  ),
+                ],
+              ),
+              if (!isYouTubeStream && currentChapter != null)
                 Row(
                   children: [
-                    if (isYouTubeStream) ...[
-                      if (onCloseYouTube != null)
-                        IconButton(
-                          icon: const Icon(Icons.close, color: Colors.red, size: 20),
-                          onPressed: onCloseYouTube,
-                          padding: EdgeInsets.zero,
-                          constraints: const BoxConstraints(),
-                          tooltip: 'Stop YouTube stream',
-                        ),
-                      const SizedBox(width: 8),
-                      const Icon(Icons.headphones, color: Colors.red, size: 16),
-                      const SizedBox(width: 8),
-                      if (youtubeChannelName != null) ...[
-                        Flexible(
-                          child: Text(
-                            youtubeChannelName!,
-                            style: const TextStyle(color: Colors.red, fontSize: 14),
-                            maxLines: 1,
-                            overflow: TextOverflow.ellipsis,
-                          ),
-                        ),
-                        const Text('  ', style: TextStyle(color: Colors.white70, fontSize: 14)),
-                      ],
-                    ],
-                    Expanded(
-                      child: Text(
-                        fileName,
-                        style: const TextStyle(color: Colors.white70, fontSize: 14),
+                    Flexible(
+                      child: RichText(
                         maxLines: 1,
                         overflow: TextOverflow.ellipsis,
+                        text: TextSpan(
+                          style: const TextStyle(color: Colors.white, fontSize: 14),
+                          children: [
+                            TextSpan(
+                              text: hideChapterTitle
+                                  ? '↳ ${currentChapterIndex + 1}/${audiobook.chapters.length}'
+                                  : '↳ ${currentChapterIndex + 1}/${audiobook.chapters.length}: ${currentChapter.title}',
+                            ),
+                          ],
+                        ),
                       ),
                     ),
                   ],
                 ),
-                if (!isYouTubeStream && currentChapter != null)
-                  Row(
-                    children: [
-                      Flexible(
-                        child: RichText(
-                          maxLines: 1,
-                          overflow: TextOverflow.ellipsis,
-                          text: TextSpan(
-                            style: const TextStyle(color: Colors.white, fontSize: 14),
-                            children: [
-                              TextSpan(
-                                text: hideChapterTitle
-                                    ? '↳ ${currentChapterIndex + 1}/${audiobook.chapters.length}'
-                                    : '↳ ${currentChapterIndex + 1}/${audiobook.chapters.length}: ${currentChapter.title}',
-                              ),
-                              TextSpan(
-                                text: isYouTubeStream ? '' : ' -${_formatChapterRemaining(chapterRemaining)}',
-                                style: const TextStyle(
-                                  color: Colors.white54,
-                                  fontWeight: FontWeight.normal,
-                                ),
-                              ),
-                            ],
-                          ),
-                        ),
-                      ),
-                    ],
-                  ),
-              ],
-            ),
+            ],
           ),
+        ),
         const Spacer(),
         if (!isVideoFile && secondarySubtitleText.isNotEmpty)
           Center(
