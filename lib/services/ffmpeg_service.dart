@@ -379,17 +379,31 @@ class FFmpegService {
       onProgress('Creating final audiobook...');
 
       final coverData = _getBlackCoverPng();
-      await shell.run(
-        '$_ffmpegPath -i "temp.opus" -i "ffmetadata.txt" '
-        '-map_chapters 1 -map 0:a '
-        '-metadata "title=${config.title}" '
-        '-metadata "album=${config.title}" '
-        '-metadata "artist=${config.author}" '
-        '-metadata "album_artist=${config.author}" '
-        '-metadata "year=${config.year}" '
-        '-metadata:s:a METADATA_BLOCK_PICTURE="$coverData" '
-        '-c copy "$outputPath" -y'
+
+      final encodeResult = await Process.run(
+        _ffmpegPath!,
+        [
+          '-i', path.join(workingDir, 'temp.opus'),
+          '-i', metadataFile.path,
+          '-map_chapters', '1',
+          '-map', '0:a',
+          '-metadata', 'title=${config.title}',
+          '-metadata', 'album=${config.title}',
+          '-metadata', 'artist=${config.author}',
+          '-metadata', 'album_artist=${config.author}',
+          '-metadata', 'year=${config.year}',
+          '-metadata:s:a', 'METADATA_BLOCK_PICTURE=$coverData',
+          '-c', 'copy',
+          outputPath,
+          '-y',
+        ],
+        stdoutEncoding: utf8,
+        stderrEncoding: utf8,
       );
+
+      if (encodeResult.exitCode != 0) {
+        throw Exception('FFmpeg failed: ${encodeResult.stderr}');
+      }
 
       onProgress('Complete!');
 
@@ -412,67 +426,77 @@ class FFmpegService {
   }
 
   Future<void> _addChapterMetadata({
-    required File metadataFile,
-    required List<String> opusFiles,
-    List<Map<String, dynamic>>? chapters,
-    int? startChapterIndex,
-    int? audioRepetitions,
-    bool useFilenameAsChapterName = false,
-  }) async {
-    final metadata = StringBuffer(await metadataFile.readAsString());
+      required File metadataFile,
+      required List<String> opusFiles,
+      List<Map<String, dynamic>>? chapters,
+      int? startChapterIndex,
+      int? audioRepetitions,
+      bool useFilenameAsChapterName = false,
+    }) async {
+      final metadata = StringBuffer(
+        await metadataFile.readAsBytes().then((b) => utf8.decode(b, allowMalformed: false))
+      );
 
-    double totalSeconds = 0;
+      double totalSeconds = 0;
 
-    for (int i = 0; i < opusFiles.length; i++) {
-      final opusFile = opusFiles[i];
-      final duration = await getAudioDuration(opusFile);
-      final durationSecs = duration.inMilliseconds / 1000;
+      for (int i = 0; i < opusFiles.length; i++) {
+        final opusFile = opusFiles[i];
+        final duration = await getAudioDuration(opusFile);
+        final durationSecs = duration.inMilliseconds / 1000;
 
-      String title;
+        String title;
 
-      if (chapters != null && startChapterIndex != null) {
-        final chapterIndex = startChapterIndex + i;
-        final chapter = chapters[chapterIndex];
+        if (chapters != null && startChapterIndex != null) {
+          final chapterIndex = startChapterIndex + i;
+          final chapter = chapters[chapterIndex];
 
-        // Use Front for repeat 1, Back for repeat 2+
-        final textToUse = (audioRepetitions == 1)
-            ? chapter['front'] as String
-            : chapter['back'] as String;
+          final textToUse = (audioRepetitions == 1)
+              ? chapter['front'] as String
+              : chapter['back'] as String;
 
-        final chapterNum = useFilenameAsChapterName && chapter.containsKey('audioFile')
-        ? path.basenameWithoutExtension(chapter['audioFile'] as String)
-        : (chapterIndex + 1).toString().padLeft(4, '0');
-        title = '$chapterNum $textToUse';
+          final chapterNum = useFilenameAsChapterName && chapter.containsKey('audioFile')
+              ? path.basenameWithoutExtension(chapter['audioFile'] as String)
+              : (chapterIndex + 1).toString().padLeft(4, '0');
+          title = '$chapterNum $textToUse';
+        } else {
+          title = path.basenameWithoutExtension(opusFile);
+        }
 
-        print('DEBUG: Chapter title = $title');
-      } else {
-        title = path.basenameWithoutExtension(opusFile);
+        title = title.replaceAll('`', "'");
+
+        title = _escapeFFMetadata(title);
+
+        final hours = duration.inHours;
+        final minutes = duration.inMinutes.remainder(60);
+        final seconds = duration.inSeconds.remainder(60);
+
+        String timeStr;
+        if (hours > 0) {
+          timeStr = '$hours:${minutes.toString().padLeft(2, '0')}:'
+                   '${seconds.toString().padLeft(2, '0')}';
+        } else {
+          timeStr = '$minutes:${seconds.toString().padLeft(2, '0')}';
+        }
+
+        metadata.writeln('[CHAPTER]');
+        metadata.writeln('TIMEBASE=1/1');
+        metadata.writeln('START=${totalSeconds.round()}');
+        totalSeconds += durationSecs;
+        metadata.writeln('END=${totalSeconds.round()}');
+        metadata.writeln('title=$title [$timeStr]');
       }
 
-      title = title.replaceAll('`', "'");
-
-      final hours = duration.inHours;
-      final minutes = duration.inMinutes.remainder(60);
-      final seconds = duration.inSeconds.remainder(60);
-
-      String timeStr;
-      if (hours > 0) {
-        timeStr = '$hours:${minutes.toString().padLeft(2, '0')}:'
-                 '${seconds.toString().padLeft(2, '0')}';
-      } else {
-        timeStr = '$minutes:${seconds.toString().padLeft(2, '0')}';
-      }
-
-      metadata.writeln('[CHAPTER]');
-      metadata.writeln('TIMEBASE=1/1');
-      metadata.writeln('START=${totalSeconds.round()}');
-      totalSeconds += durationSecs;
-      metadata.writeln('END=${totalSeconds.round()}');
-      metadata.writeln('title=$title [$timeStr]');
+      await metadataFile.writeAsBytes(utf8.encode(metadata.toString()));
     }
 
-    await metadataFile.writeAsString(metadata.toString());
-  }
+    String _escapeFFMetadata(String value) {
+      return value
+          .replaceAll('\\', '\\\\')
+          .replaceAll('=', '\\=')
+          .replaceAll(';', '\\;')
+          .replaceAll('#', '\\#')
+          .replaceAll('\n', '\\\n');
+    }
 
   String _getBlackCoverPng() {
     return 'AAAAAwAAAAlpbWFnZS9wbmcAAAALRnJvbnQgQ292ZXIAAAAQAAAACQAAACAAAAAAAAAAU4lQTkcNChoKAAAADUlIRFIAAAAQAAAACQgGAAAAOyqsMgAAABpJREFUeJxjZGBg+M9AAWCiRPOoARAwDAwAAFmzARHg40/fAAAAAElFTkSuQmCC';
@@ -502,27 +526,29 @@ class FFmpegService {
   }
 
   Future<AudiobookMetadata> loadAudiobook(String filePath) async {
-    await _ensureBinaries();
-    try {
-      if (_ffprobePath == null) {
-        throw Exception('ffprobe binary not found');
-      }
+      await _ensureBinaries();
+      try {
+        if (_ffprobePath == null) {
+          throw Exception('ffprobe binary not found');
+        }
 
-      final result = await Process.run(
-        _ffprobePath!,
-        [
-          '-v', 'quiet',
-          '-print_format', 'json',
-          '-show_format',
-          '-show_chapters',
-          filePath,
-        ],
-        runInShell: false,
-      );
+        final result = await Process.run(
+          _ffprobePath!,
+          [
+            '-v', 'quiet',
+            '-print_format', 'json',
+            '-show_format',
+            '-show_chapters',
+            filePath,
+          ],
+          runInShell: false,
+          stdoutEncoding: utf8,
+          stderrEncoding: utf8,
+        );
 
-      if (result.exitCode != 0) {
-        throw Exception('ffprobe failed: ${result.stderr}');
-      }
+        if (result.exitCode != 0) {
+          throw Exception('ffprobe failed: ${result.stderr}');
+        }
 
       final jsonStr = result.stdout as String;
       final json = jsonDecode(jsonStr) as Map<String, dynamic>;

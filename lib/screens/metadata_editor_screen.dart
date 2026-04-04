@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:file_picker/file_picker.dart';
 import 'dart:io';
+import 'dart:convert';
 import 'package:path/path.dart' as path;
 import '../services/ffmpeg_service.dart';
 import '../models/audiobook_metadata.dart';
@@ -140,128 +141,148 @@ class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
   }
 
   Future<AudiobookMetadataEdit> _extractMetadata(String filePath) async {
-    await _ffmpeg.ensureBinaries();
+      await _ffmpeg.ensureBinaries();
 
-    final metadataResult = await Process.run(_ffmpeg.ffprobePath ?? 'ffprobe', [
-      filePath,
-    ]);
+      final process = await Process.start(
+        _ffmpeg.ffprobePath ?? 'ffprobe',
+        [filePath],
+      );
 
-    if (metadataResult.exitCode != 0 && metadataResult.stderr.toString().isEmpty) {
-      throw Exception('Failed to extract metadata');
-    }
+      final stderrBytes = <int>[];
+      await for (final chunk in process.stderr) {
+        stderrBytes.addAll(chunk);
+      }
+      await process.exitCode;
 
-    final output = metadataResult.stderr as String;
-
-    setState(() {
-      _debugInfo = 'RAW FFPROBE OUTPUT:\n$output\n\n';
-    });
-
-    String artist = 'Unknown Artist';
-    String albumArtist = 'Unknown Artist';
-    String album = 'Unknown Album';
-    String title = 'Unknown Album';
-    String? year;
-
-    final lines = output.split('\n');
-    bool inAudioStreamMetadata = false;
-
-    for (final line in lines) {
-      final trimmed = line.trim();
-
-      if (trimmed.startsWith('Stream #0:0: Audio:')) {
-        inAudioStreamMetadata = false;
-        continue;
+      String output;
+      try {
+        output = utf8.decode(stderrBytes);
+      } catch (_) {
+        output = latin1.decode(stderrBytes);
       }
 
-      if (trimmed.startsWith('Stream #0:1:') || trimmed.startsWith('Stream #0:2:')) {
-        break;
-      }
+      setState(() {
+        _debugInfo = 'RAW FFPROBE OUTPUT:\n$output\n\n';
+      });
 
-      if (trimmed.startsWith('Metadata:')) {
-        inAudioStreamMetadata = true;
-        continue;
-      }
+      String artist = 'Unknown Artist';
+      String albumArtist = 'Unknown Artist';
+      String album = 'Unknown Album';
+      String title = 'Unknown Album';
+      String? year;
 
-      if (inAudioStreamMetadata && trimmed.contains(':')) {
-        final parts = trimmed.split(':');
-        if (parts.length >= 2) {
-          final key = parts[0].trim().toLowerCase();
-          final value = parts.sublist(1).join(':').trim();
+      final lines = output.split('\n');
+      bool inAudioStreamMetadata = false;
 
-          if (value.isEmpty) continue;
+      for (final line in lines) {
+        final trimmed = line.trim();
 
-          if (key == 'artist') {
-            artist = value;
-          } else if (key == 'album artist') {
-            albumArtist = value;
-          } else if (key == 'album') {
-            album = value;
-          } else if (key == 'title') {
-            title = value;
-          } else if (key == 'year' || key == 'date') {
-            year = value;
+        if (trimmed.startsWith('Stream #0:0: Audio:')) {
+          inAudioStreamMetadata = false;
+          continue;
+        }
+
+        if (trimmed.startsWith('Stream #0:1:') || trimmed.startsWith('Stream #0:2:')) {
+          break;
+        }
+
+        if (trimmed.startsWith('Metadata:')) {
+          inAudioStreamMetadata = true;
+          continue;
+        }
+
+        if (inAudioStreamMetadata && trimmed.contains(':')) {
+          final parts = trimmed.split(':');
+          if (parts.length >= 2) {
+            final key = parts[0].trim().toLowerCase();
+            final value = parts.sublist(1).join(':').trim();
+
+            if (value.isEmpty) continue;
+
+            if (key == 'artist') {
+              artist = value;
+            } else if (key == 'album artist') {
+              albumArtist = value;
+            } else if (key == 'album') {
+              album = value;
+            } else if (key == 'title') {
+              title = value;
+            } else if (key == 'year' || key == 'date') {
+              year = value;
+            }
           }
         }
       }
+
+      if (albumArtist == 'Unknown Artist' && artist != 'Unknown Artist') {
+        albumArtist = artist;
+      }
+
+      if (artist == 'Unknown Artist' && albumArtist != 'Unknown Artist') {
+        artist = albumArtist;
+      }
+
+      final finalAuthor = artist != 'Unknown Artist' ? artist : albumArtist;
+      final finalTitle = album != 'Unknown Album' ? album : 'Unknown Title';
+
+      setState(() {
+        _debugInfo += 'FOUND METADATA:\n';
+        _debugInfo += '  Artist: $artist\n';
+        _debugInfo += '  Album Artist: $albumArtist\n';
+        _debugInfo += '  Album: $album\n';
+        _debugInfo += '  Title: $title\n';
+        _debugInfo += '  Year: ${year ?? 'not found'}\n';
+        _debugInfo += '\nFINAL PARSED VALUES:\n';
+        _debugInfo += '  Author (will be used): $finalAuthor\n';
+        _debugInfo += '  Title (will be used): $finalTitle\n';
+        _debugInfo += '  Year: ${year ?? 'not found'}\n';
+      });
+
+      print(_debugInfo);
+
+      List<Chapter> chapters = [];
+      try {
+        chapters = await _extractChapters(filePath);
+      } catch (e) {
+        print('WARNING: Chapter extraction failed: $e');
+      }
+
+      return AudiobookMetadataEdit(
+        author: finalAuthor,
+        title: finalTitle,
+        year: year,
+        chapters: chapters,
+      );
     }
 
-    if (albumArtist == 'Unknown Artist' && artist != 'Unknown Artist') {
-      albumArtist = artist;
-    }
+    Future<List<Chapter>> _extractChapters(String filePath) async {
+        await _ffmpeg.ensureBinaries();
 
-    if (artist == 'Unknown Artist' && albumArtist != 'Unknown Artist') {
-      artist = albumArtist;
-    }
+        final tempFile = '${Directory.systemTemp.path}/temp_ffmetadata.txt';
 
-    final finalAuthor = artist != 'Unknown Artist' ? artist : albumArtist;
-    final finalTitle = album != 'Unknown Album' ? album : 'Unknown Title';
+        final process = await Process.start(
+          _ffmpeg.ffmpegPath ?? 'ffmpeg',
+          ['-i', filePath, '-f', 'ffmetadata', '-y', tempFile],
+        );
 
-    setState(() {
-      _debugInfo += 'FOUND METADATA:\n';
-      _debugInfo += '  Artist: $artist\n';
-      _debugInfo += '  Album Artist: $albumArtist\n';
-      _debugInfo += '  Album: $album\n';
-      _debugInfo += '  Title: $title\n';
-      _debugInfo += '  Year: ${year ?? 'not found'}\n';
-      _debugInfo += '\nFINAL PARSED VALUES:\n';
-      _debugInfo += '  Author (will be used): $finalAuthor\n';
-      _debugInfo += '  Title (will be used): $finalTitle\n';
-      _debugInfo += '  Year: ${year ?? 'not found'}\n';
-    });
+        await process.stderr.drain();
+        await process.stdout.drain();
+        final exitCode = await process.exitCode;
 
-    print(_debugInfo);
+        if (exitCode != 0) return [];
 
-    final chapters = await _extractChapters(filePath);
+        final bytes = await File(tempFile).readAsBytes();
+        String content;
+        try {
+          content = utf8.decode(bytes);
+        } catch (_) {
+          content = latin1.decode(bytes);
+        }
 
-    return AudiobookMetadataEdit(
-      author: finalAuthor,
-      title: finalTitle,
-      year: year,
-      chapters: chapters,
-    );
-  }
+        await File(tempFile).delete();
 
-  Future<List<Chapter>> _extractChapters(String filePath) async {
-    await _ffmpeg.ensureBinaries();
-
-    final tempFile = '${Directory.systemTemp.path}/temp_ffmetadata.txt';
-
-    final result = await Process.run(_ffmpeg.ffmpegPath ?? 'ffmpeg', [
-      '-i', filePath,
-      '-f', 'ffmetadata',
-      '-y',
-      tempFile,
-    ]);
-
-    if (result.exitCode != 0) {
-      return [];
-    }
-
-    final content = await File(tempFile).readAsString();
-    await File(tempFile).delete();
-
-    return _parseChaptersFromMetadata(content);
-  }
+        return _parseChaptersFromMetadata(content);
+      }
 
   List<Chapter> _parseChaptersFromMetadata(String content) {
     final chapters = <Chapter>[];
@@ -905,125 +926,100 @@ class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
   }
 
   Future<void> _saveMetadata() async {
-    if (_currentFilePath == null || _metadata == null) return;
+      if (_currentFilePath == null || _metadata == null) return;
 
-    setState(() {
-      _saving = true;
-    });
+      setState(() => _saving = true);
 
-    try {
-      await _ffmpeg.ensureBinaries();
+      try {
+        await _ffmpeg.ensureBinaries();
 
-      final metadataContent = _createFFMetadataContent();
-      final tempMetadataFile = '${Directory.systemTemp.path}/editing_metadata.txt';
+        final metadataContent = _createFFMetadataContent();
+        final tempMetadataFile = path.join(Directory.systemTemp.path, 'editing_metadata.txt');
 
-      print('SAVE PROCESS STARTED\n');
-      print('Created metadata content:\n$metadataContent\n');
+        await File(tempMetadataFile).writeAsBytes(
+          utf8.encode(metadataContent),
+          flush: true,
+        );
 
-      await File(tempMetadataFile).writeAsString(metadataContent);
+        final ext = path.extension(_currentFilePath!).toLowerCase();
+        final dir = path.dirname(_currentFilePath!);
+        final baseName = path.basenameWithoutExtension(_currentFilePath!);
+        final tempOutputFile = path.join(dir, '${baseName}_temp_meta$ext');
 
-      print('Wrote metadata to: $tempMetadataFile\n');
+        final result = await Process.run(
+          _ffmpeg.ffmpegPath ?? 'ffmpeg',
+          [
+            '-i', _currentFilePath!,
+            '-i', tempMetadataFile,
+            '-map', '0:a',
+            '-map_chapters', '1',
+            '-map_metadata', '1',
+            '-c', 'copy',
+            '-v', 'warning',
+            '-y',
+            tempOutputFile,
+          ],
+        );
 
-      final ext = path.extension(_currentFilePath!).toLowerCase();
-      final tempOutputFile = '${Directory.systemTemp.path}/temp_no_metadata$ext';
+        if (result.exitCode != 0) {
+          try { await File(tempOutputFile).delete(); } catch (_) {}
+          try { await File(tempMetadataFile).delete(); } catch (_) {}
+          throw Exception('Failed to apply metadata: ${result.stderr}');
+        }
 
-      print('Step 1: Stripping original metadata...');
+        await File(_currentFilePath!).delete();
+        await File(tempOutputFile).rename(_currentFilePath!);
+        await File(tempMetadataFile).delete();
 
-      final stripResult = await Process.run(_ffmpeg.ffmpegPath ?? 'ffmpeg', [
-        '-i', _currentFilePath!,
-        '-map_metadata', '-1',
-        '-map_chapters', '-1',
-        '-c:a', 'copy',
-        '-c:v', 'copy',
-        '-v', 'warning',
-        '-y',
-        tempOutputFile,
-      ]);
-
-      print('Strip result: exit code ${stripResult.exitCode}');
-      if (stripResult.stderr.toString().isNotEmpty) {
-        print('Strip stderr: ${stripResult.stderr}');
-      }
-
-      if (stripResult.exitCode != 0) {
-        throw Exception('Failed to strip metadata: ${stripResult.stderr}');
-      }
-
-      print('Step 2: Applying new metadata...');
-
-      final applyResult = await Process.run(_ffmpeg.ffmpegPath ?? 'ffmpeg', [
-        '-i', tempOutputFile,
-        '-i', tempMetadataFile,
-        '-map', '0',
-        '-map_metadata', '1',
-        '-map_chapters', '1',
-        '-c', 'copy',
-        '-v', 'warning',
-        '-y',
-        _currentFilePath!,
-      ]);
-
-      print('Apply result: exit code ${applyResult.exitCode}');
-      if (applyResult.stderr.toString().isNotEmpty) {
-        print('Apply stderr: ${applyResult.stderr}');
-      }
-
-      await File(tempOutputFile).delete();
-      await File(tempMetadataFile).delete();
-
-      if (applyResult.exitCode == 0) {
-        setState(() {
-          _saving = false;
-        });
-        print('SUCCESS: Metadata saved successfully!');
+        setState(() => _saving = false);
         _showSuccess('Metadata saved successfully!');
-      } else {
-        throw Exception('Failed to apply metadata: ${applyResult.stderr}');
+
+      } catch (e) {
+        setState(() => _saving = false);
+        _showError('Failed to save metadata: $e');
       }
-
-    } catch (e) {
-      setState(() {
-        _saving = false;
-      });
-      print('ERROR: $e');
-      _showError('Failed to save metadata: $e');
-    }
-  }
-
-  String _createFFMetadataContent() {
-    final buffer = StringBuffer();
-
-    buffer.writeln(';FFMETADATA1');
-
-    buffer.writeln('Artist=${_authorController.text}');
-    buffer.writeln('Album Artist=${_authorController.text}');
-    buffer.writeln('Album=${_titleController.text}');
-    buffer.writeln('Title=${_titleController.text}');
-
-    if (_yearController.text.isNotEmpty) {
-      buffer.writeln('Year=${_yearController.text}');
     }
 
-    if (_currentFilePath!.toLowerCase().endsWith('.opus')) {
-      const base64Png = 'AAAAAwAAAAlpbWFnZS9wbmcAAAALRnJvbnQgQ292ZXIAAAAQAAAACQAAACAAAAAAAAAAU4lQTkcNChoKAAAADUlIRFIAAAAQAAAACQgGAAAAOyqsMgAAABpJREFUeJxjZGBg+M9AAWCiRPOoARAwDAwAAFmzARHg40/fAAAAAElFTkSuQmCC';
-      buffer.writeln('\nMETADATA_BLOCK_PICTURE=$base64Png');
-    }
+    String _createFFMetadataContent() {
+        final buffer = StringBuffer();
 
-    buffer.writeln();
+        buffer.writeln(';FFMETADATA1');
+        buffer.writeln('Artist=${_escapeFFMetadata(_authorController.text)}');
+        buffer.writeln('Album Artist=${_escapeFFMetadata(_authorController.text)}');
+        buffer.writeln('Album=${_escapeFFMetadata(_titleController.text)}');
+        buffer.writeln('Title=${_escapeFFMetadata(_titleController.text)}');
 
-    if (_metadata!.chapters.isNotEmpty) {
-      for (final chapter in _metadata!.chapters) {
-        buffer.writeln('[CHAPTER]');
-        buffer.writeln('TIMEBASE=1/1000');
-        buffer.writeln('START=${chapter.startTime.inMilliseconds}');
-        buffer.writeln('END=${chapter.endTime.inMilliseconds}');
-        buffer.writeln('title=${chapter.title}');
+        if (_yearController.text.isNotEmpty) {
+          buffer.writeln('Year=${_yearController.text}');
+        }
+
+        if (_currentFilePath!.toLowerCase().endsWith('.opus')) {
+          const base64Png = 'AAAAAwAAAAlpbWFnZS9wbmcAAAALRnJvbnQgQ292ZXIAAAAQAAAACQAAACAAAAAAAAAAU4lQTkcNChoKAAAADUlIRFIAAAAQAAAACQgGAAAAOyqsMgAAABpJREFUeJxjZGBg+M9AAWCiRPOoARAwDAwAAFmzARHg40/fAAAAAElFTkSuQmCC';
+          buffer.writeln('\nMETADATA_BLOCK_PICTURE=$base64Png');
+        }
+
         buffer.writeln();
-      }
-    }
 
-    return buffer.toString();
-  }
+        for (final chapter in _metadata!.chapters) {
+          buffer.writeln('[CHAPTER]');
+          buffer.writeln('TIMEBASE=1/1000');
+          buffer.writeln('START=${chapter.startTime.inMilliseconds}');
+          buffer.writeln('END=${chapter.endTime.inMilliseconds}');
+          buffer.writeln('title=${_escapeFFMetadata(chapter.title)}');
+          buffer.writeln();
+        }
+
+        return buffer.toString();
+      }
+
+      String _escapeFFMetadata(String value) {
+        return value
+            .replaceAll('\\', '\\\\')
+            .replaceAll('=', '\\=')
+            .replaceAll(';', '\\;')
+            .replaceAll('#', '\\#')
+            .replaceAll('\n', '\\\n');
+      }
 
   Future<void> _addBlack16x9Cover() async {
     if (_currentFilePath == null) return;

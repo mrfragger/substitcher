@@ -8998,125 +8998,125 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   }
 
   Future<void> _copyCurrentMetadata() async {
-    if (_currentAudiobook == null) {
-      ScaffoldMessenger.of(context).showSnackBar(
-        const SnackBar(content: Text('No audiobook loaded')),
-      );
-      return;
-    }
-
-    try {
-      await _ffmpeg.ensureBinaries();
-
-      if (_ffmpeg.ffprobePath == null) {
-        throw Exception('ffprobe not found');
+      if (_currentAudiobook == null) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          const SnackBar(content: Text('No audiobook loaded')),
+        );
+        return;
       }
-
-      final metadataResult = await Process.run(_ffmpeg.ffprobePath!, [
-        _currentAudiobook!.path,
-      ]);
-
-      final output = metadataResult.stderr as String;
-      String artist = 'Unknown Artist';
-      String album = 'Unknown Album';
-      String title = 'Unknown Title';
-      String year = 'Unknown Year';
-
-      final lines = output.split('\n');
-      bool inMetadata = false;
-      bool isAttachedPic = false;
-
-      for (final line in lines) {
-        final trimmed = line.trim();
-
-        if (trimmed.contains('(attached pic)')) {
-          isAttachedPic = true;
-          continue;
+      try {
+        await _ffmpeg.ensureBinaries();
+        if (_ffmpeg.ffprobePath == null) {
+          throw Exception('ffprobe not found');
         }
 
-        if (trimmed.startsWith('Stream #')) {
-          isAttachedPic = false;
-          inMetadata = false;
-          continue;
+        final process = await Process.start(
+          _ffmpeg.ffprobePath!,
+          [_currentAudiobook!.path],
+        );
+
+        final stderrBytes = <int>[];
+        await for (final chunk in process.stderr) {
+          stderrBytes.addAll(chunk);
+        }
+        await process.stdout.drain();
+        await process.exitCode;
+
+        String output;
+        try {
+          output = utf8.decode(stderrBytes);
+        } catch (_) {
+          output = latin1.decode(stderrBytes);
         }
 
-        if (trimmed.startsWith('Metadata:')) {
-          inMetadata = true;
-          continue;
-        }
-
-        if (inMetadata && !isAttachedPic && trimmed.contains(':')) {
-          final parts = trimmed.split(':');
-          if (parts.length >= 2) {
-            final key = parts[0].trim().toLowerCase();
-            final value = parts.sublist(1).join(':').trim();
-
-            if (value.isEmpty) continue;
-
-            if (key == 'artist') {
-              artist = value;
-            } else if (key == 'album') {
-              album = value;
-            } else if (key == 'title' && value != 'Front Cover') {
-              title = value;
-            } else if (key == 'year') {
-              year = value;
-            } else if (key == 'date' && year == 'Unknown Year') {
-              final rangeMatch = RegExp(r'^\d{4}-\d{4}').firstMatch(value);
-              if (rangeMatch != null) {
-                year = rangeMatch.group(0)!;
-              } else {
-                final yearMatch = RegExp(r'^\d{4}').firstMatch(value);
-                if (yearMatch != null) {
-                  year = yearMatch.group(0)!;
+        String artist = 'Unknown Artist';
+        String album = 'Unknown Album';
+        String title = 'Unknown Title';
+        String year = 'Unknown Year';
+        final lines = output.split('\n');
+        bool inMetadata = false;
+        bool isAttachedPic = false;
+        for (final line in lines) {
+          final trimmed = line.trim();
+          if (trimmed.contains('(attached pic)')) {
+            isAttachedPic = true;
+            continue;
+          }
+          if (trimmed.startsWith('Stream #')) {
+            isAttachedPic = false;
+            inMetadata = false;
+            continue;
+          }
+          if (trimmed.startsWith('Metadata:')) {
+            inMetadata = true;
+            continue;
+          }
+          if (inMetadata && !isAttachedPic && trimmed.contains(':')) {
+            final parts = trimmed.split(':');
+            if (parts.length >= 2) {
+              final key = parts[0].trim().toLowerCase();
+              final value = parts.sublist(1).join(':').trim();
+              if (value.isEmpty) continue;
+              if (key == 'artist') {
+                artist = value;
+              } else if (key == 'album') {
+                album = value;
+              } else if (key == 'title' && value != 'Front Cover') {
+                title = value;
+              } else if (key == 'year') {
+                year = value;
+              } else if (key == 'date' && year == 'Unknown Year') {
+                final rangeMatch = RegExp(r'^\d{4}-\d{4}').firstMatch(value);
+                if (rangeMatch != null) {
+                  year = rangeMatch.group(0)!;
+                } else {
+                  final yearMatch = RegExp(r'^\d{4}').firstMatch(value);
+                  if (yearMatch != null) {
+                    year = yearMatch.group(0)!;
+                  }
                 }
               }
             }
           }
         }
-      }
-
-      final finalTitle = album != 'Unknown Album' ? album : title;
-      final file = File(_currentAudiobook!.path);
-      final fileSize = await file.length();
-      final formattedFileSize = _formatFileSize(fileSize);
-      final duration = _totalDuration;
-      final hours = duration.inHours;
-      final minutes = duration.inMinutes.remainder(60);
-      String formattedDuration;
-      if (hours > 0) {
-        formattedDuration = '${hours}h ${minutes}m';
-      } else if (minutes > 0) {
-        formattedDuration = '${minutes}m';
-      } else {
-        final seconds = duration.inSeconds.remainder(60);
-        formattedDuration = '${seconds}s';
-      }
-
-      const ltr = '\u200E';
-      final clipboardText = '$artist - $finalTitle ($year) $ltr$formattedFileSize $formattedDuration';
-
-      await Clipboard.setData(ClipboardData(text: clipboardText));
-
-      if (mounted) {
-        ScaffoldMessenger.of(context).showSnackBar(
-          SnackBar(
-            content: Text('Copied to clipboard:\n$clipboardText'),
-            duration: const Duration(seconds: 3),
-          ),
-        );
-      }
-    } catch (e) {
-      if (mounted) {
-        ScaffoldMessenger.of(context).showSnackBar(
-          SnackBar(
-            content: Text('Failed to copy metadata: $e'),
-            backgroundColor: Colors.red,
-          ),
-        );
+        final finalTitle = album != 'Unknown Album' ? album : title;
+        final file = File(_currentAudiobook!.path);
+        final fileSize = await file.length();
+        final formattedFileSize = _formatFileSize(fileSize);
+        final duration = _totalDuration;
+        final hours = duration.inHours;
+        final minutes = duration.inMinutes.remainder(60);
+        String formattedDuration;
+        if (hours > 0) {
+          formattedDuration = '${hours}h ${minutes}m';
+        } else if (minutes > 0) {
+          formattedDuration = '${minutes}m';
+        } else {
+          final seconds = duration.inSeconds.remainder(60);
+          formattedDuration = '${seconds}s';
+        }
+        const ltr = '\u200E';
+        final clipboardText = '$artist - $finalTitle ($year) $ltr$formattedFileSize $formattedDuration';
+        await Clipboard.setData(ClipboardData(text: clipboardText));
+        if (mounted) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            SnackBar(
+              content: Text('Copied to clipboard:\n$clipboardText'),
+              duration: const Duration(seconds: 3),
+            ),
+          );
+        }
+      } catch (e) {
+        if (mounted) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            SnackBar(
+              content: Text('Failed to copy metadata: $e'),
+              backgroundColor: Colors.red,
+            ),
+          );
+        }
       }
     }
-  }
 
   Future<void> _copyChaptersList() async {
     if (_currentAudiobook == null) {

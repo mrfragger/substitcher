@@ -415,6 +415,8 @@ class AnkiService {
   }) async {
     onProgress('Reading CSV file...', 0.0);
 
+    final resolvedMediaDir = _findMediaDir(csvPath);
+    print('DEBUG mediaDir resolved: $resolvedMediaDir');
 
     final csvFile = File(csvPath);
 
@@ -452,7 +454,7 @@ class AnkiService {
       final audioFiles = audioList.split(';').map((s) => s.trim()).where((s) => s.isNotEmpty).toList();
 
       for (final audioFile in audioFiles) {
-        final audioPath = path.join(mediaDir, audioFile);
+        final audioPath = path.join(resolvedMediaDir, audioFile);
 
         if (!await File(audioPath).exists()) {
           print('Warning: Audio file not found: $audioPath');
@@ -505,7 +507,7 @@ class AnkiService {
 
       onProgress('Repeating (${audioRepetitions}x) audio chapter ${i + 1}/${chapters.length}', 0.2 + (i / chapters.length) * 0.5);
       final audioFile = chapter['audioFile'] as String;
-      final audioPath = path.join(mediaDir, audioFile);
+      final audioPath = path.join(resolvedMediaDir, audioFile);
 
 
       if (audioRepetitions == 1) {
@@ -648,6 +650,22 @@ class AnkiService {
     if (result.exitCode != 0) {
       throw Exception('Failed to convert $inputPath: ${result.stderr}');
     }
+  }
+
+  String _findMediaDir(String csvPath) {
+    final dir = path.dirname(csvPath);
+    final baseName = path.basenameWithoutExtension(csvPath);
+
+    final exactMedia = path.join(dir, '${baseName}_media');
+    if (Directory(exactMedia).existsSync()) return exactMedia;
+
+    final stripped = baseName.replaceAll(RegExp(r'[\d\-]+$'), '');
+    if (stripped.isNotEmpty) {
+      final strippedMedia = path.join(dir, '${stripped}_media');
+      if (Directory(strippedMedia).existsSync()) return strippedMedia;
+    }
+
+    return exactMedia;
   }
 
   Future<void> _repeatAudio(String inputPath, String outputPath, int times) async {

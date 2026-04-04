@@ -57,6 +57,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
   bool _csvOnlyMode = false;
   bool _useFilenameAsChapterName = false;
   static String? _lastCsvDirectory;
+  String? _lastOutputFilename;
 
   @override
   void dispose() {
@@ -549,6 +550,7 @@ print('DONE', flush=True)
           _lastProcessingTime = hours > 0
               ? '${hours}h ${minutes}m ${seconds}s'
               : '${minutes}m ${seconds}s';
+          _lastOutputFilename = '$_author - $_title.opus';
         });
 
         ScaffoldMessenger.of(context).showSnackBar(
@@ -1103,14 +1105,14 @@ print('DONE', flush=True)
             const SizedBox(height: 10),
             Row(
               children: [
-                const Icon(Icons.info_outline, color: Colors.amber, size: 14),
+                const Icon(Icons.info_outline, color: Colors.amber, size: 16),
                 const SizedBox(width: 6),
                 Expanded(
-                  child: Text(
+                  child: SelectableText(
                     'CSV mode: audio files must be in a subfolder named '
                     '"${_csvPath != null ? path.basenameWithoutExtension(_csvPath!) : "<deck>"}_media" '
                     'next to the CSV.',
-                    style: const TextStyle(color: Colors.amber, fontSize: 11),
+                    style: const TextStyle(color: Colors.amber, fontSize: 14),
                   ),
                 ),
               ],
@@ -1820,7 +1822,7 @@ print('DONE', flush=True)
                 const Icon(Icons.check_circle, color: Colors.green, size: 20),
                 const SizedBox(width: 8),
                 Text(
-                  'Last conversion completed in $_lastProcessingTime',
+                  'Last conversion completed in $_lastProcessingTime${_lastOutputFilename != null ? '  $_lastOutputFilename' : ''}',
                   style: const TextStyle(color: Colors.white, fontSize: 14),
                 ),
               ],
