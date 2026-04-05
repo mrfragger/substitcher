@@ -4,6 +4,7 @@ import '../models/subtitle_cue.dart';
 
 class VttShowEditOverlay extends StatefulWidget {
   final List<SubtitleCue> subtitles;
+  final List<SubtitleCue> originalSubtitles;
   final int currentIndex;
   final FocusNode line1FocusNode;
   final FocusNode line2FocusNode;
@@ -17,6 +18,7 @@ class VttShowEditOverlay extends StatefulWidget {
   const VttShowEditOverlay({
     super.key,
     required this.subtitles,
+    required this.originalSubtitles,
     required this.currentIndex,
     required this.line1FocusNode,
     required this.line2FocusNode,
@@ -107,7 +109,10 @@ class VttShowEditOverlayState extends State<VttShowEditOverlay> {
       return;
     }
 
-    final lines = widget.subtitles[index].text.split('\n');
+    final source = index < widget.originalSubtitles.length
+        ? widget.originalSubtitles[index]
+        : widget.subtitles[index];
+    final lines = source.text.split('\n');
     _line1Controller.text = lines.isNotEmpty ? lines[0] : '';
     _line2Controller.text = lines.length > 1 ? lines[1] : '';
   }
@@ -311,7 +316,7 @@ class VttShowEditOverlayState extends State<VttShowEditOverlay> {
                         style: const TextStyle(fontSize: 10),
                         children: [
                           TextSpan(
-                            text: 'TAB → line2 → unfocus → shortcuts → line1',
+                            text: 'TAB → line2 → shortcuts → line1',
                             style: TextStyle(
                               color: _isInShortcutMode ? Colors.yellow : Colors.white24,
                               fontWeight: _isInShortcutMode
@@ -344,14 +349,12 @@ class VttShowEditOverlayState extends State<VttShowEditOverlay> {
                       message: 'Ctrl+A',
                       child: InkWell(
                         onTap: () {
+                          print('Add tapped, index: $_currentIndex');
                           final line1 = _line1Controller.text.trim();
+                          print('line1: "$line1"');
                           if (line1.isEmpty) return;
-                          if (_currentIndex + 1 < widget.subtitles.length &&
-                              widget.subtitles[_currentIndex + 1].startTime ==
-                              widget.subtitles[_currentIndex].endTime) return;
                           _commitCurrentCue();
                           widget.onAddCueAfter(_currentIndex);
-                          _navigateTo(_currentIndex + 1);
                         },
                         borderRadius: BorderRadius.circular(4),
                         child: Container(
@@ -446,6 +449,15 @@ class VttShowEditOverlayState extends State<VttShowEditOverlay> {
                       widget.onSave();
                       return KeyEventResult.handled;
                     }
+                    if (event.logicalKey == LogicalKeyboardKey.keyA &&
+                        HardwareKeyboard.instance.isControlPressed) {
+                      final line1 = _line1Controller.text.trim();
+                      if (line1.isEmpty) return KeyEventResult.handled;
+                      _commitCurrentCue();
+                      flushEdits();
+                      widget.onAddCueAfter(_currentIndex);
+                      return KeyEventResult.handled;
+                    }
                     return KeyEventResult.ignored;
                   },
                   child: TextField(
@@ -465,9 +477,13 @@ class VttShowEditOverlayState extends State<VttShowEditOverlay> {
                 child: Focus(
                   onKeyEvent: (node, event) {
                     if (event is! KeyDownEvent) return KeyEventResult.ignored;
-                    if (event.logicalKey == LogicalKeyboardKey.tab) {
-                      widget.line2FocusNode.unfocus();
-                      widget.line1FocusNode.unfocus();
+                    if (event.logicalKey == LogicalKeyboardKey.keyA &&
+                        HardwareKeyboard.instance.isControlPressed) {
+                      final line1 = _line1Controller.text.trim();
+                      if (line1.isEmpty) return KeyEventResult.handled;
+                      _commitCurrentCue();
+                      flushEdits();
+                      widget.onAddCueAfter(_currentIndex);
                       return KeyEventResult.handled;
                     }
                     if (event.logicalKey == LogicalKeyboardKey.enter) {

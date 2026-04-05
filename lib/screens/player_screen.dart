@@ -1079,6 +1079,10 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             final styles = await VttShowService.load(vttShowPath);
             final content = await File(filePath).readAsString();
             final cues = _parseVTT(content);
+            final reconciledStyles = VttShowService.reconcile(
+              styles: styles,
+              cues: cues,
+            );
             setState(() {
               _vttShowStyles = styles;
               _vttShowActive = true;
@@ -1181,6 +1185,10 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             final styles = await VttShowService.load(vttShowPath);
             final content = await File(filePath).readAsString();
             final cues = _parseVTT(content);
+            final reconciledStyles = VttShowService.reconcile(
+              styles: styles,
+              cues: cues,
+            );
             setState(() {
               _vttShowStyles = styles;
               _vttShowActive = true;
@@ -1366,55 +1374,48 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     }
   }
 
-  void _addCueAfter(int afterIndex) {
-    _shiftCuesFrom(afterIndex);
+  void _addCueAfter(int index) {
+    const gap = Duration(seconds: 3);
+    final current = _subtitles[index];
 
-    final prev     = _subtitles[afterIndex];
-    final newStart = prev.endTime + const Duration(seconds: 1);
-    final newEnd   = newStart     + const Duration(seconds: 1);
+    final oldKeys = <int, String>{};
+    for (int i = index + 1; i < _subtitles.length; i++) {
+      oldKeys[i] = _subtitles[i].timecodeKey;
+    }
+
+    for (int i = index + 1; i < _subtitles.length; i++) {
+      _subtitles[i] = _subtitles[i].copyWith(
+        startTime: _subtitles[i].startTime + gap,
+        endTime: _subtitles[i].endTime + gap,
+      );
+      _originalSubtitles[i] = _originalSubtitles[i].copyWith(
+        startTime: _originalSubtitles[i].startTime + gap,
+        endTime: _originalSubtitles[i].endTime + gap,
+      );
+    }
+
+    for (final entry in oldKeys.entries) {
+      final oldKey = entry.value;
+      final newKey = _subtitles[entry.key].timecodeKey;
+      if (oldKey != newKey && _vttShowStyles.containsKey(oldKey)) {
+        _vttShowStyles[newKey] = _vttShowStyles.remove(oldKey)!;
+      }
+    }
 
     final newCue = SubtitleCue(
-      startTime: newStart,
-      endTime:   newEnd,
-      text:      '',
+      startTime: current.endTime,
+      endTime: current.endTime + gap,
+      text: '',
     );
 
     setState(() {
-      _subtitles.insert(afterIndex + 1, newCue);
-      _originalSubtitles.insert(afterIndex + 1, newCue);
+      _subtitles.insert(index + 1, newCue);
+      _originalSubtitles.insert(index + 1, newCue);
+      _currentSubtitleIndex = index + 1;
     });
-  }
 
-  void _shiftCuesFrom(int insertAfterIndex) {
-    const shiftAmount = Duration(seconds: 2);
-    final affectedCues = _subtitles.sublist(insertAfterIndex + 1);
-
-    final Map<String, String> keyRemap = {};
-    for (final cue in affectedCues) {
-      final oldKey = '${_formatVttTime(cue.startTime)} --> ${_formatVttTime(cue.endTime)}';
-      final newKey = '${_formatVttTime(cue.startTime + shiftAmount)} --> ${_formatVttTime(cue.endTime + shiftAmount)}';
-      keyRemap[oldKey] = newKey;
-    }
-
-    final remappedStyles = <String, VttShowStyle>{};
-    _vttShowStyles.forEach((key, value) {
-      remappedStyles[keyRemap[key] ?? key] = value;
-    });
-    _vttShowStyles
-      ..clear()
-      ..addAll(remappedStyles);
-
-    setState(() {
-      for (int i = insertAfterIndex + 1; i < _subtitles.length; i++) {
-        final c = _subtitles[i];
-        final shifted = SubtitleCue(
-          startTime: c.startTime + shiftAmount,
-          endTime:   c.endTime   + shiftAmount,
-          text:      c.text,
-        );
-        _subtitles[i]         = shifted;
-        _originalSubtitles[i] = shifted;
-      }
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      _vttEditKey.currentState?.jumpToIndex(index + 1);
     });
   }
 
@@ -6939,35 +6940,12 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           } else if (event.logicalKey == LogicalKeyboardKey.keyA &&
                      HardwareKeyboard.instance.isControlPressed &&
                      event is KeyDownEvent) {
-                       if (_vttShowEditMode && _currentSubtitleIndex != null) {
-                         final index = _currentSubtitleIndex!;
-                         final cue = _subtitles[index];
-                         if (cue.text.trim().isEmpty) return KeyEventResult.handled;
-                         if (index + 1 < _subtitles.length &&
-                           _subtitles[index + 1].startTime == cue.endTime) {
-                             if (mounted) {
-                               ScaffoldMessenger.of(context).showSnackBar(
-                                 const SnackBar(
-                                   content: Text('Next cue already exists at this time'),
-                                   duration: Duration(seconds: 1),
-                                 ),
-                               );
-                             }
-                             return KeyEventResult.handled;
-                           }
-                           _vttEditKey.currentState?.flushEdits();
-              final newStart = cue.endTime;
-              final newEnd = cue.endTime + const Duration(seconds: 10);
-              final newCue = SubtitleCue(
-                startTime: newStart,
-                endTime: newEnd,
-                text: '',
-              );
-              setState(() {
-                _subtitles.insert(index + 1, newCue);
-                _originalSubtitles.insert(index + 1, newCue);
-              });
-              _seekTo(newStart + const Duration(milliseconds: 10));
+            if (_vttShowEditMode && _currentSubtitleIndex != null) {
+              final index = _currentSubtitleIndex!;
+              final cue = _subtitles[index];
+              if (cue.text.trim().isEmpty) return KeyEventResult.handled;
+              _vttEditKey.currentState?.flushEdits();
+              _addCueAfter(index);
               return KeyEventResult.handled;
             }
             return KeyEventResult.ignored;
@@ -6989,65 +6967,28 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               }
               return KeyEventResult.handled;
             }
-          } else if (event.logicalKey == LogicalKeyboardKey.tab && event is KeyDownEvent) {
-            if (_vttShowActive) {
-              if (_vttShowEditMode) {
-                if (!_vttEditLine1FocusNode.hasFocus &&
-                    !_vttEditLine2FocusNode.hasFocus) {
-                  _vttEditLine1FocusNode.requestFocus();
+            } else if (event.logicalKey == LogicalKeyboardKey.tab && event is KeyDownEvent) {
+              if (_vttShowActive) {
+                if (_vttShowEditMode) {
+                  if (!_vttEditLine1FocusNode.hasFocus &&
+                      !_vttEditLine2FocusNode.hasFocus) {
+                    _vttEditLine1FocusNode.requestFocus();
+                  }
+                } else {
+                  if (_currentAudiobook == null) {
+                    _loadVttShowSilentAudio();
+                  }
+                  setState(() {
+                    _vttShowEditMode = true;
+                  });
+                  WidgetsBinding.instance.addPostFrameCallback((_) {
+                    final idx = _currentSubtitleIndex ?? 0;
+                    _vttEditKey.currentState?.jumpToIndex(idx);
+                  });
                 }
-              } else {
-                _loadVttShowSilentAudio();
-                setState(() {
-                  _vttShowEditMode = true;
-                });
-                WidgetsBinding.instance.addPostFrameCallback((_) {
-                  _vttEditLine1FocusNode.requestFocus();
-                });
+                return KeyEventResult.handled;
               }
-              return KeyEventResult.handled;
-            }
-            return KeyEventResult.ignored;
-          } else if (event.logicalKey == LogicalKeyboardKey.space) {
-            if (_vttShowActive && _subtitles.isNotEmpty) {
-              final currentLines = _currentSubtitleText.split('\n').length;
-              if (_vttShowRevealedLines < currentLines) {
-                setState(() => _vttShowRevealedLines++);
-              } else {
-                _skipToNextSubtitle();
-              }
-              return KeyEventResult.handled;
-            }
-            _togglePlayPause();
-            return KeyEventResult.handled;
-          } else if (event.logicalKey == LogicalKeyboardKey.backquote && event is KeyDownEvent) {
-            if (_showPanel) {
-              setState(() {
-                _panelCollapsed = !_panelCollapsed;
-              });
-            }
-            return KeyEventResult.handled;
-          } else if (event.logicalKey == LogicalKeyboardKey.tab && event is KeyDownEvent) {
-            if (_vttShowActive) {
-              if (_vttShowEditMode) {
-                if (!_vttEditLine1FocusNode.hasFocus &&
-                    !_vttEditLine2FocusNode.hasFocus) {
-                  _vttEditLine1FocusNode.requestFocus();
-                }
-              } else {
-                if (_currentAudiobook == null) {
-                  _loadVttShowSilentAudio();
-                }
-                setState(() {
-                  _vttShowEditMode = true;
-                });
-                WidgetsBinding.instance.addPostFrameCallback((_) {
-                  _vttEditLine1FocusNode.requestFocus();
-                });
-              }
-              return KeyEventResult.handled;
-            }
-            return KeyEventResult.ignored;
+              return KeyEventResult.ignored;
           } else if (event.logicalKey == LogicalKeyboardKey.keyE) {
             setState(() {
               _showEncoderScreen = true;
@@ -7951,6 +7892,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                   VttShowEditOverlay(
                     key: _vttEditKey,
                     subtitles: _subtitles,
+                    originalSubtitles: _originalSubtitles,
                     currentIndex: _currentSubtitleIndex!,
                     line1FocusNode: _vttEditLine1FocusNode,
                     line2FocusNode: _vttEditLine2FocusNode,

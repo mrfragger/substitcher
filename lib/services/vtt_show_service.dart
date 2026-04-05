@@ -1,7 +1,19 @@
 import 'dart:io';
+import '../models/subtitle_cue.dart';
 import '../models/vtt_show_style.dart';
 
 class VttShowService {
+  static const String spacerDelimiter = '|||';
+  static const String renderedSpacer = '&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;';
+
+  static String renderSpacers(String text) {
+    return text.replaceAll(spacerDelimiter, renderedSpacer);
+  }
+
+  static String unrenderSpacers(String text) {
+    return text.replaceAll(renderedSpacer, spacerDelimiter);
+  }
+
   static Future<Map<String, VttShowStyle>> load(String vttPath) async {
     final result = <String, VttShowStyle>{};
     final content = await File(vttPath).readAsString();
@@ -30,6 +42,40 @@ class VttShowService {
       if (style != null) {
         result[key] = style;
       }
+    }
+
+    return result;
+  }
+
+  /// Reconcile styles with current cues after external edits.
+  /// If timecodes still match, keeps them. Otherwise remaps by position.
+  static Map<String, VttShowStyle> reconcile({
+    required Map<String, VttShowStyle> styles,
+    required List<SubtitleCue> cues,
+  }) {
+    if (styles.isEmpty || cues.isEmpty) return styles;
+
+    final cueKeys = cues.map((c) => c.timecodeKey).toSet();
+
+    // If all style keys match existing cues, nothing to fix
+    if (styles.keys.every((k) => cueKeys.contains(k))) {
+      return styles;
+    }
+
+    // Orphaned styles — remap by position order
+    final sortedStyleEntries = styles.entries.toList()
+      ..sort((a, b) =>
+          _parseStartTime(a.key).compareTo(_parseStartTime(b.key)));
+
+    final sortedCues = List<SubtitleCue>.from(cues)
+      ..sort((a, b) => a.startTime.compareTo(b.startTime));
+
+    final result = <String, VttShowStyle>{};
+
+    for (int i = 0;
+        i < sortedStyleEntries.length && i < sortedCues.length;
+        i++) {
+      result[sortedCues[i].timecodeKey] = sortedStyleEntries[i].value;
     }
 
     return result;
@@ -106,8 +152,12 @@ class VttShowService {
       final conversion   = style.conversion ?? '';
       final fontColor    = style.fontColorOverride ?? '';
       final colorPalette = style.colorPalette ?? '';
-      final fontSize     = style.fontSize != null ? style.fontSize!.toStringAsFixed(0) : '';
-      final lineSpacing  = style.lineSpacing != null ? style.lineSpacing!.toStringAsFixed(2) : '';
+      final fontSize     = style.fontSize != null
+          ? style.fontSize!.toStringAsFixed(0)
+          : '';
+      final lineSpacing  = style.lineSpacing != null
+          ? style.lineSpacing!.toStringAsFixed(2)
+          : '';
       final coloringMode = style.coloringMode ?? '';
       final blurShadow   = style.blurShadow ?? '';
       buffer.writeln(
@@ -119,7 +169,6 @@ class VttShowService {
   }
 
   static Duration _parseStartTime(String timecodeKey) {
-    // "00:00:10.000 --> 00:00:20.000"
     final start = timecodeKey.split(' --> ').first.trim();
     final parts = start.split(':');
     if (parts.length != 3) return Duration.zero;
