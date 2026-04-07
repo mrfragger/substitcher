@@ -6828,6 +6828,13 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               }
             }
             return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.space && event is KeyDownEvent) {
+            if (player.state.playing) {
+              player.pause();
+            } else {
+              player.play();
+            }
+            return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.backspace &&
                      (HardwareKeyboard.instance.isControlPressed || HardwareKeyboard.instance.isMetaPressed) &&
                      event is KeyDownEvent) {
@@ -8158,8 +8165,6 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                   ),
                 if (_currentAudiobook!.chapters.isNotEmpty)
                   RichText(
-                    maxLines: 1,
-                    overflow: TextOverflow.ellipsis,
                     text: TextSpan(
                       style: const TextStyle(color: Colors.white, fontSize: 14),
                       children: [
@@ -10559,6 +10564,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         ),
       ),
     );
+    _focusNode.requestFocus();
   }
 
   Future<void> _showYouTubeDialog() async {

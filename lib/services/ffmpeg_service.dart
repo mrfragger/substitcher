@@ -433,9 +433,14 @@ class FFmpegService {
       int? audioRepetitions,
       bool useFilenameAsChapterName = false,
     }) async {
-      final metadata = StringBuffer(
-        await metadataFile.readAsBytes().then((b) => utf8.decode(b, allowMalformed: false))
-      );
+      final metadataBytes = await metadataFile.readAsBytes();
+      String metadataContent;
+      try {
+        metadataContent = utf8.decode(metadataBytes);
+      } catch (_) {
+        metadataContent = latin1.decode(metadataBytes);
+      }
+      final metadata = StringBuffer(metadataContent);
 
       double totalSeconds = 0;
 

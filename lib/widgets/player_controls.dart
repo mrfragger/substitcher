@@ -232,8 +232,6 @@ class PlayerControls extends StatelessWidget {
                   children: [
                     Flexible(
                       child: RichText(
-                        maxLines: 1,
-                        overflow: TextOverflow.ellipsis,
                         text: TextSpan(
                           style: const TextStyle(color: Colors.white, fontSize: 14),
                           children: [

@@ -41,9 +41,13 @@ class AnkiService {
       print('Found $extractedCount existing audio files');
 
       final csvFile = File(csvPath);
-      final csvContent = await csvFile.readAsBytes().then(
-        (bytes) => utf8.decode(bytes, allowMalformed: true)
-      );
+      final csvBytes = await csvFile.readAsBytes();
+      String csvContent;
+      try {
+        csvContent = utf8.decode(csvBytes);
+      } catch (_) {
+        csvContent = latin1.decode(csvBytes);
+      }
 
       final csvData = Csv().decode(csvContent);
 
@@ -420,9 +424,13 @@ class AnkiService {
 
     final csvFile = File(csvPath);
 
-    final csvContent = await csvFile.readAsBytes().then(
-      (bytes) => utf8.decode(bytes, allowMalformed: true)
-    );
+    final csvBytes = await csvFile.readAsBytes();
+    String csvContent;
+    try {
+      csvContent = utf8.decode(csvBytes);
+    } catch (_) {
+      csvContent = latin1.decode(csvBytes);
+    }
 
     final csvData = Csv().decode(csvContent);
 
@@ -637,20 +645,33 @@ class AnkiService {
   }
 
   Future<void> _copyOrConvertAudio(String inputPath, String outputPath) async {
-    await _ffmpeg.ensureBinaries();
+      await _ffmpeg.ensureBinaries();
 
-    final result = await Process.run(_ffmpeg.ffmpegPath!, [
-      '-y',
-      '-i', inputPath,
-      '-c:a', 'libopus',
-      '-b:a', '32k',
-      outputPath,
-    ]);
+      final process = await Process.start(_ffmpeg.ffmpegPath!, [
+        '-y',
+        '-i', inputPath,
+        '-c:a', 'libopus',
+        '-b:a', '32k',
+        outputPath,
+      ]);
 
-    if (result.exitCode != 0) {
-      throw Exception('Failed to convert $inputPath: ${result.stderr}');
+      final stderrBytes = <int>[];
+      await for (final chunk in process.stderr) {
+        stderrBytes.addAll(chunk);
+      }
+      await process.stdout.drain();
+      final exitCode = await process.exitCode;
+
+      if (exitCode != 0) {
+        String error;
+        try {
+          error = utf8.decode(stderrBytes);
+        } catch (_) {
+          error = latin1.decode(stderrBytes);
+        }
+        throw Exception('Failed to convert $inputPath: $error');
+      }
     }
-  }
 
   String _findMediaDir(String csvPath) {
     final dir = path.dirname(csvPath);
@@ -669,68 +690,85 @@ class AnkiService {
   }
 
   Future<void> _repeatAudio(String inputPath, String outputPath, int times) async {
-    await _ffmpeg.ensureBinaries();
+      await _ffmpeg.ensureBinaries();
 
-    final result = await Process.run(_ffmpeg.ffmpegPath!, [
-      '-y',
-      '-stream_loop', '${times - 1}',
-      '-i', inputPath,
-      '-c:a', 'libopus',
-      '-b:a', '32k',
-      outputPath,
-    ]);
+      final process = await Process.start(_ffmpeg.ffmpegPath!, [
+        '-y',
+        '-stream_loop', '${times - 1}',
+        '-i', inputPath,
+        '-c:a', 'libopus',
+        '-b:a', '32k',
+        outputPath,
+      ]);
 
-    if (result.exitCode != 0) {
-      throw Exception('Failed to repeat $inputPath: ${result.stderr}');
-    }
-  }
+      final stderrBytes = <int>[];
+      await for (final chunk in process.stderr) {
+        stderrBytes.addAll(chunk);
+      }
+      await process.stdout.drain();
+      final exitCode = await process.exitCode;
 
-  Future<void> _encodeToOpusParallel({
-    required List<File> mp3Files,
-    required Directory outputDir,
-    required int bitrate,
-    required Function(int current, int total) onProgress,
-  }) async {
-    await _ffmpeg.ensureBinaries();
-
-    final cpuCount = Platform.numberOfProcessors;
-    final maxConcurrent = (cpuCount * 0.75).round().clamp(1, 8);
-
-    int completed = 0;
-    final futures = <Future>[];
-    final semaphore = _Semaphore(maxConcurrent);
-
-    for (final file in mp3Files) {
-      final future = semaphore.acquire().then((_) async {
+      if (exitCode != 0) {
+        String error;
         try {
-          final basename = path.basenameWithoutExtension(file.path);
-          final outputPath = path.join(outputDir.path, '$basename.opus');
-
-          final opusApplication = bitrate == 12 ? 'voip' : 'audio';
-
-          await Process.run(_ffmpeg.ffmpegPath!, [
-            '-y',
-            '-i', file.path,
-            '-c:a', 'libopus',
-            '-application', opusApplication,
-            '-frame_duration', '60',
-            '-b:a', '${bitrate}k',
-            '-af', 'dynaudnorm=f=250:g=31:p=0.5:m=5:r=0.9:b=1',
-            outputPath,
-          ]);
-
-          completed++;
-          onProgress(completed, mp3Files.length);
-        } finally {
-          semaphore.release();
+          error = utf8.decode(stderrBytes);
+        } catch (_) {
+          error = latin1.decode(stderrBytes);
         }
-      });
-
-      futures.add(future);
+        throw Exception('Failed to repeat $inputPath: $error');
+      }
     }
 
-    await Future.wait(futures);
-  }
+    Future<void> _encodeToOpusParallel({
+        required List<File> mp3Files,
+        required Directory outputDir,
+        required int bitrate,
+        required Function(int current, int total) onProgress,
+      }) async {
+        await _ffmpeg.ensureBinaries();
+
+        final cpuCount = Platform.numberOfProcessors;
+        final maxConcurrent = (cpuCount * 0.75).round().clamp(1, 8);
+
+        int completed = 0;
+        final futures = <Future>[];
+        final semaphore = _Semaphore(maxConcurrent);
+
+        for (final file in mp3Files) {
+          final future = semaphore.acquire().then((_) async {
+            try {
+              final basename = path.basenameWithoutExtension(file.path);
+              final outputPath = path.join(outputDir.path, '$basename.opus');
+
+              final opusApplication = bitrate == 12 ? 'voip' : 'audio';
+
+              final process = await Process.start(_ffmpeg.ffmpegPath!, [
+                '-y',
+                '-i', file.path,
+                '-c:a', 'libopus',
+                '-application', opusApplication,
+                '-frame_duration', '60',
+                '-b:a', '${bitrate}k',
+                '-af', 'dynaudnorm=f=250:g=31:p=0.5:m=5:r=0.9:b=1',
+                outputPath,
+              ]);
+
+              await process.stderr.drain();
+              await process.stdout.drain();
+              await process.exitCode;
+
+              completed++;
+              onProgress(completed, mp3Files.length);
+            } finally {
+              semaphore.release();
+            }
+          });
+
+          futures.add(future);
+        }
+
+        await Future.wait(futures);
+      }
 
   Future<void> _createVttFile({
     required String vttPath,

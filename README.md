@@ -458,11 +458,12 @@ Android (64-bit devices only, arm64-v8a)
 - **Low Algorithmic Delay and Frame Flexibility** Supports frame sizes from 2.5 ms up to 60 ms, allowing very low latency if needed. Fine control of bitrate and delay trade-offs further improves coding of speech/music at low rates
 
 - `-application voip` gives best quality at a given bitrate for voice signals. It enhances the input signal by high-pass filtering and emphasizing formants and harmonics
-</details>
+
 
 - LACE / NoLACE (Libopus 1.5+) At low bitrates like 12 kb/s, the decoder runs a neural network post-filter that restores detail lost during encoding. LACE (Lossless Audio Concept Enhancement) handles single-speaker speech; NoLACE (Non-Linear LACE) extends this to more complex signals. The encoder flags audio features at encode time, and the ML model on the decoder side uses those flags to reconstruct naturalness — meaning a 12 kb/s file decoded by libopus 1.5+ can sound comparable to 20+ kb/s standard opus.
 
 - Substitcher uses libopus 1.6.1 released in January 2026. libopus 1.5 was released March 2024.
+</details>
 
 <details>
 <summary>Miscellaneous</summary>
