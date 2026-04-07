@@ -4,6 +4,7 @@ import 'package:url_launcher/url_launcher.dart';
 import 'package:flutter/gestures.dart';
 import 'package:path/path.dart' as path;
 import 'package:csv/csv.dart';
+import 'package:flutter/services.dart';
 import 'dart:io';
 import 'dart:convert';
 import '../services/anki_service.dart';
@@ -21,6 +22,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
   static const int MAX_PREVIEW_COLS = 120;
   final AnkiService _ankiService = AnkiService();
   final ScrollController _scrollController = ScrollController();
+  final TextEditingController _titleController = TextEditingController();
 
   bool _isProcessing = false;
   String _processingStatus = '';
@@ -43,6 +45,10 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
   int? _backColumn;
   int? _audioColumn;
 
+  int? _lastFrontColumn;
+  int? _lastBackColumn;
+  int? _lastAudioColumn;
+
   bool _showCsvPreview = false;
   List<List<String>> _fullCsvData = [];
   final ScrollController _csvScrollController = ScrollController();
@@ -63,6 +69,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
   void dispose() {
     _scrollController.dispose();
     _csvScrollController.dispose();
+    _titleController.dispose();
     super.dispose();
   }
 
@@ -93,6 +100,18 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
         _audioColumn = null;
         _extractedAudioCount = 0;
         _totalNotes = 0;
+
+        final filename = path.basenameWithoutExtension(filePath);
+        final newMatch = RegExp(r'\d+[-–]\d+').firstMatch(filename);
+        if (newMatch != null) {
+          final newRange = newMatch.group(0)!;
+          if (RegExp(r'\d+[-–]\d+').hasMatch(_title)) {
+            _title = _title.replaceFirst(RegExp(r'\d+[-–]\d+'), newRange);
+          } else {
+            _title = '$_title $newRange'.trim();
+          }
+          _titleController.text = _title;
+        }
       });
 
       try {
@@ -493,6 +512,10 @@ print('DONE', flush=True)
       csvPathToUse = path.join(_outputDirectory!, '${baseName}_converted.csv');
       mediaDirToUse = path.join(_outputDirectory!, '${baseName}_media');
     }
+
+    _lastFrontColumn = _frontColumn;
+    _lastBackColumn = _backColumn;
+    _lastAudioColumn = _audioColumn;
 
     setState(() {
       _isProcessing = true;
@@ -1249,6 +1272,27 @@ print('DONE', flush=True)
                   fontWeight: FontWeight.bold,
                 ),
               ),
+              const Spacer(),
+              if (_lastFrontColumn != null && _lastBackColumn != null && _lastAudioColumn != null)
+                ElevatedButton.icon(
+                  onPressed: () {
+                    setState(() {
+                      _frontColumn = _lastFrontColumn;
+                      _backColumn = _lastBackColumn;
+                      _audioColumn = _lastAudioColumn;
+                    });
+                  },
+                  icon: const Icon(Icons.history, size: 16),
+                  label: Text(
+                    'Use Last (${(_lastFrontColumn! + 1)}, ${(_lastBackColumn! + 1)}, ${(_lastAudioColumn! + 1)})',
+                  ),
+                  style: ElevatedButton.styleFrom(
+                    backgroundColor: Colors.cyan.shade900,
+                    foregroundColor: Colors.white,
+                    padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                    textStyle: const TextStyle(fontSize: 12),
+                  ),
+                ),
             ],
           ),
           const SizedBox(height: 8),
@@ -1513,6 +1557,7 @@ print('DONE', flush=True)
                     ),
                     const SizedBox(height: 8),
                     TextField(
+                      controller: _titleController,
                       style: const TextStyle(color: Colors.white),
                       decoration: const InputDecoration(
                         filled: true,

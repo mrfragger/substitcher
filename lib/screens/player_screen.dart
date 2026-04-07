@@ -1917,8 +1917,8 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       shuffleEnabled: _shuffleEnabled,
       playedChapters: _playedChapters,
     ));
-    if (_history.length > 20) {
-      _history = _history.sublist(0, 20);
+    if (_history.length > 99) {
+      _history = _history.sublist(0, 99);
     }
     final prefs = await SharedPreferences.getInstance();
     await prefs.setStringList(
@@ -6668,6 +6668,11 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               });
               return KeyEventResult.handled;
             }
+          } else if (event.logicalKey == LogicalKeyboardKey.backquote && event is KeyDownEvent) {
+            setState(() {
+              _panelCollapsed = !_panelCollapsed;
+            });
+            return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyC &&
                    HardwareKeyboard.instance.isShiftPressed && event is KeyDownEvent) {
             _copyChaptersList();
