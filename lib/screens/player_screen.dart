@@ -805,92 +805,88 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   }
 
   void _checkChapterBoundary(Duration position) {
-    if (_currentAudiobook == null || _currentAudiobook!.chapters.isEmpty) return;
-    if (_currentChapterIndex >= _currentAudiobook!.chapters.length) return;
-
-    final chapter = _currentAudiobook!.chapters[_currentChapterIndex];
-
-    if (position >= chapter.endTime) {
-      if (!_isYouTubeStream) {
-        final currentChapter = _currentAudiobook!.chapters[_currentChapterIndex];
-        _statsManager.recordChapterEnd(
-          path.basenameWithoutExtension(_currentAudiobook!.path),
-          currentChapter.title,
-          false,
-        );
-      }
-
-      if (!_playedChapters.contains(_currentChapterIndex)) {
-        _playedChapters.add(_currentChapterIndex);
-      }
-
-      if (_sleepDuration == Duration.zero) {
-        _triggerSleepTimerCountdown();
-        return;
-      }
-
-      if (_shuffleEnabled && !_isYouTubeStream) {
-        final unplayedChapters = List.generate(_currentAudiobook!.chapters.length, (i) => i)
-            .where((i) => !_playedChapters.contains(i) && !_shouldSkipChapter(_currentAudiobook!.chapters[i].title))
-            .toList();
-
-        if (unplayedChapters.isEmpty) {
-          player.pause();
-          if (mounted) {
-            ScaffoldMessenger.of(context).showSnackBar(
-              const SnackBar(
-                content: Text('All chapters played in shuffle mode'),
-                duration: Duration(seconds: 5),
-              ),
-            );
+      if (_currentAudiobook == null || _currentAudiobook!.chapters.isEmpty) return;
+      if (_currentChapterIndex >= _currentAudiobook!.chapters.length) return;
+      final chapter = _currentAudiobook!.chapters[_currentChapterIndex];
+      if (position >= chapter.endTime) {
+        if (!_isYouTubeStream) {
+          final currentChapter = _currentAudiobook!.chapters[_currentChapterIndex];
+          _statsManager.recordChapterEnd(
+            path.basenameWithoutExtension(_currentAudiobook!.path),
+            currentChapter.title,
+            false,
+          );
+        }
+        if (!_playedChapters.contains(_currentChapterIndex)) {
+          _playedChapters.add(_currentChapterIndex);
+        }
+        if (_sleepDuration == Duration.zero) {
+          if (_sleepTimer == null) {
+            _triggerSleepTimerCountdown();
           }
           return;
-        } else {
-          final nextIndex = _getNextShuffleChapter();
-          if (nextIndex < 0 || nextIndex >= _currentAudiobook!.chapters.length) return;
-          final nextChapter = _currentAudiobook!.chapters[nextIndex];
-          setState(() {
-            _currentChapterIndex = nextIndex;
-            if (!_playedChapters.contains(nextIndex)) {
-              _playedChapters.add(nextIndex);
-            }
-          });
-          player.seek(nextChapter.startTime + const Duration(milliseconds: 100));
         }
-      } else {
-        int nextIndex = _currentChapterIndex + 1;
-        if (!_isYouTubeStream) {
-          while (nextIndex < _currentAudiobook!.chapters.length) {
-            if (!_shouldSkipChapter(_currentAudiobook!.chapters[nextIndex].title)) break;
-            nextIndex++;
-          }
-          if (nextIndex >= _currentAudiobook!.chapters.length) {
+        if (_shuffleEnabled && !_isYouTubeStream) {
+          final unplayedChapters = List.generate(_currentAudiobook!.chapters.length, (i) => i)
+              .where((i) => !_playedChapters.contains(i) && !_shouldSkipChapter(_currentAudiobook!.chapters[i].title))
+              .toList();
+          if (unplayedChapters.isEmpty) {
             player.pause();
             if (mounted) {
               ScaffoldMessenger.of(context).showSnackBar(
                 const SnackBar(
-                  content: Text('Finished audiobook'),
-                  duration: Duration(seconds: 3),
+                  content: Text('All chapters played in shuffle mode'),
+                  duration: Duration(seconds: 5),
                 ),
               );
             }
             return;
+          } else {
+            final nextIndex = _getNextShuffleChapter();
+            if (nextIndex < 0 || nextIndex >= _currentAudiobook!.chapters.length) return;
+            final nextChapter = _currentAudiobook!.chapters[nextIndex];
+            setState(() {
+              _currentChapterIndex = nextIndex;
+              if (!_playedChapters.contains(nextIndex)) {
+                _playedChapters.add(nextIndex);
+              }
+            });
+            player.seek(nextChapter.startTime + const Duration(milliseconds: 100));
           }
-          setState(() => _currentChapterIndex = nextIndex);
         } else {
-          if (nextIndex >= _currentAudiobook!.chapters.length) {
-            player.pause();
-            return;
+          int nextIndex = _currentChapterIndex + 1;
+          if (!_isYouTubeStream) {
+            while (nextIndex < _currentAudiobook!.chapters.length) {
+              if (!_shouldSkipChapter(_currentAudiobook!.chapters[nextIndex].title)) break;
+              nextIndex++;
+            }
+            if (nextIndex >= _currentAudiobook!.chapters.length) {
+              player.pause();
+              if (mounted) {
+                ScaffoldMessenger.of(context).showSnackBar(
+                  const SnackBar(
+                    content: Text('Finished audiobook'),
+                    duration: Duration(seconds: 3),
+                  ),
+                );
+              }
+              return;
+            }
+            setState(() => _currentChapterIndex = nextIndex);
+          } else {
+            if (nextIndex >= _currentAudiobook!.chapters.length) {
+              player.pause();
+              return;
+            }
+            setState(() => _currentChapterIndex = nextIndex);
           }
-          setState(() => _currentChapterIndex = nextIndex);
+        }
+        if (!_isYouTubeStream && _currentChapterIndex < _currentAudiobook!.chapters.length) {
+          _statsManager.recordChapterStart();
         }
       }
-
-      if (!_isYouTubeStream && _currentChapterIndex < _currentAudiobook!.chapters.length) {
-        _statsManager.recordChapterStart();
-      }
     }
-  }
+
 
   Future<void> _loadAutoConversionSettings() async {
     final prefs = await SharedPreferences.getInstance();
@@ -1624,85 +1620,97 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   }
 
   void _setSleepTimer(Duration? duration) {
-    _sleepTimer?.cancel();
-    _sleepTimer = null;
-
-    if (duration == null || duration.inSeconds == -1) {
-      setState(() {
-        _sleepDuration = null;
-      });
-      if (mounted) {
-        ScaffoldMessenger.of(context).showSnackBar(
-          const SnackBar(
-            content: Text('Sleep timer off'),
-            duration: Duration(seconds: 1),
-          ),
-        );
+      _sleepTimer?.cancel();
+      _sleepTimer = null;
+      if (duration == null || duration.inSeconds == -1) {
+        setState(() {
+          _sleepDuration = null;
+        });
+        if (mounted) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            const SnackBar(
+              content: Text('Sleep timer off'),
+              duration: Duration(seconds: 1),
+            ),
+          );
+        }
+        return;
       }
-      return;
-    }
+      if (!_isPlaying) {
+        player.play();
+      }
+      if (duration == Duration.zero) {
+        if (_currentAudiobook == null) return;
+        final currentChapter = _currentAudiobook!.chapters[_currentChapterIndex];
+        final timeUntilChapterEnd = currentChapter.endTime - _currentPosition;
 
-    if (!_isPlaying) {
-          player.play();
-    }
+        if (timeUntilChapterEnd < const Duration(seconds: 15)) {
+          if (mounted) {
+            ScaffoldMessenger.of(context).showSnackBar(
+              const SnackBar(
+                content: Text('Too close to chapter end — wait till next chapter starts'),
+                duration: Duration(seconds: 2),
+              ),
+            );
+          }
+          return;
+        }
 
-    if (duration == Duration.zero) {
-      if (_currentAudiobook == null) return;
-      final currentChapter = _currentAudiobook!.chapters[_currentChapterIndex];
-      final timeUntilChapterEnd = currentChapter.endTime - _currentPosition;
+        setState(() {
+          _sleepDuration = Duration.zero;
+        });
+        _sleepTimer = Timer(timeUntilChapterEnd, () {
+          _sleepTimer = null;
+          _triggerSleepTimerCountdown();
+        });
+        if (mounted) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            const SnackBar(
+              content: Text('Sleep timer: Chapter end'),
+              duration: Duration(seconds: 1),
+            ),
+          );
+        }
+        return;
+      }
+      if (duration.inMinutes == -1) {
+        if (_currentAudiobook == null) return;
+        final lastChapter = _currentAudiobook!.chapters.last;
+        final timeUntilBookEnd = lastChapter.endTime - _currentPosition;
+        setState(() {
+          _sleepDuration = Duration(minutes: -1);
+        });
+        _sleepTimer = Timer(timeUntilBookEnd, () {
+          _sleepTimer = null;
+          _triggerSleepTimerCountdown();
+        });
+        if (mounted) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            const SnackBar(
+              content: Text('Sleep timer: End of audiobook'),
+              duration: Duration(seconds: 1),
+            ),
+          );
+        }
+        return;
+      }
       setState(() {
-        _sleepDuration = Duration.zero;
+        _sleepDuration = duration;
       });
-      _sleepTimer = Timer(timeUntilChapterEnd, () {
+      _sleepTimer = Timer(duration, () {
+        _sleepTimer = null;
         _triggerSleepTimerCountdown();
       });
       if (mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
-          const SnackBar(
-            content: Text('Sleep timer: Chapter end'),
-            duration: Duration(seconds: 1),
+          SnackBar(
+            content: Text('Sleep timer: ${duration.inMinutes} minutes'),
+            duration: const Duration(seconds: 1),
           ),
         );
       }
-      return;
     }
 
-    if (duration.inMinutes == -1) {
-      if (_currentAudiobook == null) return;
-      final lastChapter = _currentAudiobook!.chapters.last;
-      final timeUntilBookEnd = lastChapter.endTime - _currentPosition;
-      setState(() {
-        _sleepDuration = Duration(minutes: -1);
-      });
-      _sleepTimer = Timer(timeUntilBookEnd, () {
-        _triggerSleepTimerCountdown();
-      });
-      if (mounted) {
-        ScaffoldMessenger.of(context).showSnackBar(
-          const SnackBar(
-            content: Text('Sleep timer: End of audiobook'),
-            duration: Duration(seconds: 1),
-          ),
-        );
-      }
-      return;
-    }
-
-    setState(() {
-      _sleepDuration = duration;
-    });
-    _sleepTimer = Timer(duration, () {
-      _triggerSleepTimerCountdown();
-    });
-    if (mounted) {
-      ScaffoldMessenger.of(context).showSnackBar(
-        SnackBar(
-          content: Text('Sleep timer: ${duration.inMinutes} minutes'),
-          duration: const Duration(seconds: 1),
-        ),
-      );
-    }
-  }
 
   void _triggerSleepTimerCountdown() {
     if (_isPlaying) {
