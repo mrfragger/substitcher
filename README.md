@@ -15,7 +15,7 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 - Remove silence -26dB, -30dB, -34dB, -38dB, -42dB, -46dB, reduces transcribing hallucinations
 - Hiss (reduction) preview a random audio to compare
 - Batch Trim Audio beginning and end, previews 6 trimmed audios
-- Extract chapters with names from audiobooks
+- Extract chapters with names from audiobooks or use beginning number in chapter name
 - Edit Metadata (chapters, author, title) of opus audiobook
 - Paste List of text to rename files, two surah lists
 - denoise audio with DeepFilterNet3 (36MB for runtime and model).  Old audio with static, hiss, keyboard clicking, fan noise removes all that noise and leaves just the speech. ~22x realtime speed on Mac M1.
