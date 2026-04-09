@@ -375,6 +375,14 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
     }
   }
 
+  String _displayPath(String fullPath) {
+    final parts = fullPath.split(Platform.pathSeparator);
+    if (parts.length >= 2) {
+      return '${parts[parts.length - 2]}/${parts.last}';
+    }
+    return parts.last;
+  }
+
 
   int _findWordBoundary(String text, int pos) {
     for (int j = 0; j < 50; j++) {
@@ -530,7 +538,7 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
                               children: [
                                 Expanded(
                                   child: Text(
-                                    path.basename(_primarySubtitle!),
+                                    _displayPath(_primarySubtitle!),
                                     style: const TextStyle(color: Colors.white, fontSize: 14),
                                   ),
                                 ),
@@ -652,7 +660,7 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
                               children: [
                                 Expanded(
                                   child: Text(
-                                    path.basename(_secondarySubtitle!),
+                                    _displayPath(_secondarySubtitle!),
                                     style: const TextStyle(color: Colors.white, fontSize: 14),
                                   ),
                                 ),
