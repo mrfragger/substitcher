@@ -402,6 +402,8 @@ class AnkiService {
   }
 
   Future<void> createAudiobook({
+    int? suraColumn,
+    int? ayaColumn,
     required String apkgPath,
     required String outputDir,
     required String csvPath,
@@ -416,10 +418,11 @@ class AnkiService {
     required int bitrate,
     required bool useFilenameAsChapterName,
     required Function(String status, double progress) onProgress,
+    bool matchByRange = false,
   }) async {
     onProgress('Reading CSV file...', 0.0);
 
-    final resolvedMediaDir = _findMediaDir(csvPath);
+    final resolvedMediaDir = _findMediaDir(csvPath, matchByRange: matchByRange);
     print('DEBUG mediaDir resolved: $resolvedMediaDir');
 
     final csvFile = File(csvPath);
@@ -454,6 +457,9 @@ class AnkiService {
       final back = row[backColumn].toString().trim();
       final audioList = row[audioColumn].toString().trim();
 
+      final sura = (suraColumn != null && suraColumn < row.length) ? row[suraColumn].toString().trim() : null;
+      final aya = (ayaColumn != null && ayaColumn < row.length) ? row[ayaColumn].toString().trim() : null;
+
       if (audioList.isEmpty) {
         print('Warning: Row $i has no audio in column ${columns[audioColumn]}');
         continue;
@@ -462,17 +468,19 @@ class AnkiService {
       final audioFiles = audioList.split(';').map((s) => s.trim()).where((s) => s.isNotEmpty).toList();
 
       for (final audioFile in audioFiles) {
-        final audioPath = path.join(resolvedMediaDir, audioFile);
+        final audioPath = _resolveAudioPath(resolvedMediaDir, audioFile);
 
         if (!await File(audioPath).exists()) {
           print('Warning: Audio file not found: $audioPath');
           continue;
         }
-
+        final resolvedAudioFile = path.basename(audioPath);
         chapters.add({
           'front': front.isEmpty ? back : front,
           'back': back.isEmpty ? front : back,
-          'audioFile': audioFile,
+          'audioFile': resolvedAudioFile,
+          'sura': sura,
+          'aya': aya,
         });
 
         if (chapters.length >= maxNotes) break;
@@ -515,7 +523,7 @@ class AnkiService {
 
       onProgress('Repeating (${audioRepetitions}x) audio chapter ${i + 1}/${chapters.length}', 0.2 + (i / chapters.length) * 0.5);
       final audioFile = chapter['audioFile'] as String;
-      final audioPath = path.join(resolvedMediaDir, audioFile);
+      final audioPath = _resolveAudioPath(resolvedMediaDir, audioFile);
 
 
       if (audioRepetitions == 1) {
@@ -532,6 +540,8 @@ class AnkiService {
         back: chapter['back']!,
         duration: duration,
         repetitions: audioRepetitions,
+        sura: chapter['sura'] as String?,
+        aya: chapter['aya'] as String?,
       );
 
       await File(path.join(vttDir.path, '$paddedNum.back'))
@@ -673,21 +683,54 @@ class AnkiService {
       }
     }
 
-  String _findMediaDir(String csvPath) {
-    final dir = path.dirname(csvPath);
-    final baseName = path.basenameWithoutExtension(csvPath);
+    String _findMediaDir(String csvPath, {bool matchByRange = false}) {
+        final dir = path.dirname(csvPath);
+        final baseName = path.basenameWithoutExtension(csvPath);
 
-    final exactMedia = path.join(dir, '${baseName}_media');
-    if (Directory(exactMedia).existsSync()) return exactMedia;
+        final exactMedia = path.join(dir, '${baseName}_media');
+        if (Directory(exactMedia).existsSync()) return exactMedia;
 
-    final stripped = baseName.replaceAll(RegExp(r'[\d\-]+$'), '');
-    if (stripped.isNotEmpty) {
-      final strippedMedia = path.join(dir, '${stripped}_media');
-      if (Directory(strippedMedia).existsSync()) return strippedMedia;
-    }
+        final stripped = baseName.replaceAll(RegExp(r'[\d\-]+$'), '');
+        if (stripped.isNotEmpty) {
+          final strippedMedia = path.join(dir, '${stripped}_media');
+          if (Directory(strippedMedia).existsSync()) return strippedMedia;
+        }
 
-    return exactMedia;
-  }
+        if (matchByRange) {
+          final rangeMatch = RegExp(r'(\d{3}-\d{3})').firstMatch(baseName);
+          if (rangeMatch != null) {
+            final range = rangeMatch.group(1)!;
+            try {
+              final entries = Directory(dir).listSync();
+              for (final entry in entries) {
+                if (entry is Directory) {
+                  final dirName = path.basename(entry.path);
+                  if (dirName.contains(range) && dirName.endsWith('_chapters')) {
+                    return entry.path;
+                  }
+                }
+              }
+            } catch (e) {
+              print('Warning: Could not scan directory for range match: $e');
+            }
+          }
+        }
+
+        return exactMedia;
+      }
+
+      String _resolveAudioPath(String mediaDir, String audioFile) {
+        final directPath = path.join(mediaDir, audioFile);
+        if (File(directPath).existsSync()) return directPath;
+
+        final noExt = path.join(mediaDir, path.basenameWithoutExtension(audioFile));
+        for (final ext in ['.opus', '.mp3', '.m4a', '.ogg', '.wav', '.flac']) {
+          final candidate = '$noExt$ext';
+          if (File(candidate).existsSync()) return candidate;
+        }
+
+        return directPath;
+      }
 
   Future<void> _repeatAudio(String inputPath, String outputPath, int times) async {
       await _ffmpeg.ensureBinaries();
@@ -770,34 +813,38 @@ class AnkiService {
         await Future.wait(futures);
       }
 
-  Future<void> _createVttFile({
-    required String vttPath,
-    required String front,
-    required String back,
-    required Duration duration,
-    required int repetitions,
-  }) async {
-    final buffer = StringBuffer();
-    buffer.writeln('WEBVTT');
-    buffer.writeln();
+      Future<void> _createVttFile({
+        required String vttPath,
+        required String front,
+        required String back,
+        required Duration duration,
+        required int repetitions,
+        String? sura,
+        String? aya,
+      }) async {
+        final String prefix = (sura != null && aya != null) ? '$sura,$aya ' : '';
 
-    if (repetitions == 1) {
-      buffer.writeln('00:00:00.000 --> ${_formatTimestamp(duration)}');
-      buffer.writeln(front);
-    } else {
-      final frontRepetitions = _getFrontRepetitions(repetitions);
-      final frontDurationMs = (duration.inMilliseconds * frontRepetitions / repetitions).round();
-      final frontDuration = Duration(milliseconds: frontDurationMs);
+        final buffer = StringBuffer();
+        buffer.writeln('WEBVTT');
+        buffer.writeln();
 
-      buffer.writeln('00:00:00.000 --> ${_formatTimestamp(frontDuration)}');
-      buffer.writeln(front);
-      buffer.writeln();
-      buffer.writeln('${_formatTimestamp(frontDuration)} --> ${_formatTimestamp(duration)}');
-      buffer.writeln(back);
-    }
+        if (repetitions == 1) {
+          buffer.writeln('00:00:00.000 --> ${_formatTimestamp(duration)}');
+          buffer.writeln('$prefix$front');
+        } else {
+          final frontRepetitions = _getFrontRepetitions(repetitions);
+          final frontDurationMs = (duration.inMilliseconds * frontRepetitions / repetitions).round();
+          final frontDuration = Duration(milliseconds: frontDurationMs);
 
-    await File(vttPath).writeAsString(buffer.toString());
-  }
+          buffer.writeln('00:00:00.000 --> ${_formatTimestamp(frontDuration)}');
+          buffer.writeln('$prefix$front');
+          buffer.writeln();
+          buffer.writeln('${_formatTimestamp(frontDuration)} --> ${_formatTimestamp(duration)}');
+          buffer.writeln('$prefix$back');
+        }
+
+        await File(vttPath).writeAsString(buffer.toString());
+      }
 
   int _getFrontRepetitions(int total) {
     switch (total) {

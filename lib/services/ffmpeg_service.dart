@@ -25,99 +25,108 @@ class FFmpegService {
   }
 
   Future<void> extractChapters({
-    required String audiobookPath,
-    required Function(String) onProgress,
-  }) async {
-    await _ensureBinaries();
+      required String audiobookPath,
+      required Function(String) onProgress,
+      bool numbersOnly = false,
+    }) async {
+      await _ensureBinaries();
 
-    final ext = path.extension(audiobookPath).toLowerCase();
-    if (ext != '.opus' && ext != '.m4a' && ext != '.m4b') {
-      throw Exception('Only .opus, .m4a, and .m4b files are supported for chapter extraction');
-    }
+      final ext = path.extension(audiobookPath).toLowerCase();
+      if (ext != '.opus' && ext != '.m4a' && ext != '.m4b') {
+        throw Exception('Only .opus, .m4a, and .m4b files are supported for chapter extraction');
+      }
 
-    final sourceDir = path.dirname(audiobookPath);
-    final audiobookName = path.basenameWithoutExtension(audiobookPath);
-    final chaptersDir = path.join(sourceDir, '${audiobookName}_chapters');
+      final sourceDir = path.dirname(audiobookPath);
+      final audiobookName = path.basenameWithoutExtension(audiobookPath);
+      final chaptersDir = path.join(sourceDir, '${audiobookName}_chapters');
 
-    final outputDir = Directory(chaptersDir);
-    if (!await outputDir.exists()) {
-      await outputDir.create(recursive: true);
-    }
+      final outputDir = Directory(chaptersDir);
+      if (!await outputDir.exists()) {
+        await outputDir.create(recursive: true);
+      }
 
-    onProgress('Reading chapters from audiobook...');
+      onProgress('Reading chapters from audiobook...');
 
-    final result = await Process.run(
-      _ffprobePath!,
-      [
-        '-i', audiobookPath,
-        '-show_chapters',
-        '-print_format', 'json',
-      ],
-    );
-
-    if (result.exitCode != 0) {
-      throw Exception('Failed to read chapters: ${result.stderr}');
-    }
-
-    final jsonStr = result.stdout.toString();
-    final json = jsonDecode(jsonStr) as Map<String, dynamic>;
-    final chapters = json['chapters'] as List? ?? [];
-
-    if (chapters.isEmpty) {
-      throw Exception('No chapters found in audiobook');
-    }
-
-    onProgress('Found ${chapters.length} chapters. Extracting...');
-
-    for (var i = 0; i < chapters.length; i++) {
-      final chapter = chapters[i] as Map<String, dynamic>;
-      final tags = chapter['tags'] as Map<String, dynamic>? ?? {};
-
-      final startTime = chapter['start_time'].toString();
-      final endTime = chapter['end_time'].toString();
-
-      var title = tags['title'] ?? tags['TITLE'] ?? 'Chapter_${i + 1}';
-      title = title.toString()
-          .replaceAll('/', '-')
-          .replaceAll('\\', '-')
-          .replaceAll(':', '-')
-          .replaceAll('*', '')
-          .replaceAll('?', '')
-          .replaceAll('"', "'")
-          .replaceAll('<', '')
-          .replaceAll('>', '')
-          .replaceAll('|', '-')
-          .replaceAll('_', ' ')
-          .trim();
-
-      final outputExt = (ext == '.m4b') ? '.m4a' : ext;
-      final outputPath = path.join(chaptersDir, '$title$outputExt');
-
-      onProgress('Extracting chapter ${i + 1}/${chapters.length}: $title');
-
-      final extractResult = await Process.run(
-        _ffmpegPath!,
+      final result = await Process.run(
+        _ffprobePath!,
         [
-          '-hide_banner',
           '-i', audiobookPath,
-          '-ss', startTime,
-          '-to', endTime,
-          '-c:v', 'copy',
-          '-c:a', 'copy',
-          '-avoid_negative_ts', 'make_zero',
-          '-fflags', '+genpts',
-          outputPath,
-          '-y',
+          '-show_chapters',
+          '-print_format', 'json',
         ],
       );
 
-      if (extractResult.exitCode != 0) {
-        print('Warning: Failed to extract chapter ${i + 1}: ${extractResult.stderr}');
+      if (result.exitCode != 0) {
+        throw Exception('Failed to read chapters: ${result.stderr}');
       }
-    }
 
-    onProgress('All ${chapters.length} chapters extracted to: $chaptersDir');
-  }
+      final jsonStr = result.stdout.toString();
+      final json = jsonDecode(jsonStr) as Map<String, dynamic>;
+      final chapters = json['chapters'] as List? ?? [];
+
+      if (chapters.isEmpty) {
+        throw Exception('No chapters found in audiobook');
+      }
+
+      onProgress('Found ${chapters.length} chapters. Extracting...');
+
+      for (var i = 0; i < chapters.length; i++) {
+        final chapter = chapters[i] as Map<String, dynamic>;
+        final tags = chapter['tags'] as Map<String, dynamic>? ?? {};
+
+        final startTime = chapter['start_time'].toString();
+        final endTime = chapter['end_time'].toString();
+
+        var title = tags['title'] ?? tags['TITLE'] ?? 'Chapter_${i + 1}';
+        title = title.toString();
+
+        String filename;
+        if (numbersOnly) {
+          final numMatch = RegExp(r'^\d+').firstMatch(title.trim());
+          filename = numMatch != null ? numMatch.group(0)! : (i + 1).toString().padLeft(4, '0');
+        } else {
+          filename = title
+              .replaceAll('/', '-')
+              .replaceAll('\\', '-')
+              .replaceAll(':', '-')
+              .replaceAll('*', '')
+              .replaceAll('?', '')
+              .replaceAll('"', "'")
+              .replaceAll('<', '')
+              .replaceAll('>', '')
+              .replaceAll('|', '-')
+              .replaceAll('_', ' ')
+              .trim();
+        }
+
+        final outputExt = (ext == '.m4b') ? '.m4a' : ext;
+        final outputPath = path.join(chaptersDir, '$filename$outputExt');
+
+        onProgress('Extracting chapter ${i + 1}/${chapters.length}: $filename');
+
+        final extractResult = await Process.run(
+          _ffmpegPath!,
+          [
+            '-hide_banner',
+            '-i', audiobookPath,
+            '-ss', startTime,
+            '-to', endTime,
+            '-c:v', 'copy',
+            '-c:a', 'copy',
+            '-avoid_negative_ts', 'make_zero',
+            '-fflags', '+genpts',
+            outputPath,
+            '-y',
+          ],
+        );
+
+        if (extractResult.exitCode != 0) {
+          print('Warning: Failed to extract chapter ${i + 1}: ${extractResult.stderr}');
+        }
+      }
+
+      onProgress('All ${chapters.length} chapters extracted to: $chaptersDir');
+    }
 
   Future<void> _ensureBinaries() async {
       if (_ffmpegPath != null && _ffprobePath != null) return;

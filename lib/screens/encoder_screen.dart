@@ -45,6 +45,7 @@ class _EncoderScreenState extends State<EncoderScreen> {
   String? _lastEncodingTime;
   bool _extracting = false;
   String _extractionStatus = '';
+  bool _extractNumbersOnly = false;
 
   final WhisperService _whisperService = WhisperService();
 
@@ -647,131 +648,157 @@ class _EncoderScreenState extends State<EncoderScreen> {
   }
 
   Future<void> _extractChapters() async {
-    String? filePath;
+      String? filePath;
+      bool numbersOnly = false;
 
-    if (widget.currentAudiobookPath != null) {
-      final audiobookName = path.basename(widget.currentAudiobookPath!);
-
-      final choice = await showDialog<String>(
-        context: context,
-        builder: (context) => AlertDialog(
-          backgroundColor: const Color(0xFF1E1E1E),
-          title: const Text(
-            'Extract Chapters',
-            style: TextStyle(color: Colors.white),
-          ),
-          content: Column(
-            mainAxisSize: MainAxisSize.min,
-            crossAxisAlignment: CrossAxisAlignment.start,
-            children: [
-              const Text(
-                'Extract chapters from which audiobook?',
-                style: TextStyle(color: Colors.white70),
-              ),
-              const SizedBox(height: 16),
-              Container(
-                padding: const EdgeInsets.all(12),
-                decoration: BoxDecoration(
-                  color: Colors.black26,
-                  borderRadius: BorderRadius.circular(8),
+      if (widget.currentAudiobookPath != null) {
+        final audiobookName = path.basename(widget.currentAudiobookPath!);
+        String? choice;
+        await showDialog(
+          context: context,
+          builder: (context) {
+            bool localNumbersOnly = false;
+            return StatefulBuilder(
+              builder: (context, setDialogState) => AlertDialog(
+                backgroundColor: const Color(0xFF1E1E1E),
+                title: const Text(
+                  'Extract Chapters',
+                  style: TextStyle(color: Colors.white),
                 ),
-                child: Row(
+                content: Column(
+                  mainAxisSize: MainAxisSize.min,
+                  crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    const Icon(Icons.audiotrack, color: Colors.blue, size: 16),
-                    const SizedBox(width: 8),
-                    Expanded(
-                      child: Text(
-                        'Currently loaded:\n$audiobookName',
-                        style: const TextStyle(color: Colors.white54, fontSize: 12),
+                    const Text(
+                      'Extract chapters from which audiobook?',
+                      style: TextStyle(color: Colors.white70),
+                    ),
+                    const SizedBox(height: 16),
+                    Container(
+                      padding: const EdgeInsets.all(12),
+                      decoration: BoxDecoration(
+                        color: Colors.black26,
+                        borderRadius: BorderRadius.circular(8),
                       ),
+                      child: Row(
+                        children: [
+                          const Icon(Icons.audiotrack, color: Colors.blue, size: 16),
+                          const SizedBox(width: 8),
+                          Expanded(
+                            child: Text(
+                              'Currently loaded:\n$audiobookName',
+                              style: const TextStyle(color: Colors.white54, fontSize: 12),
+                            ),
+                          ),
+                        ],
+                      ),
+                    ),
+                    const SizedBox(height: 16),
+                    CheckboxListTile(
+                      title: const Text(
+                        'Numbers only filename',
+                        style: TextStyle(color: Colors.white),
+                      ),
+                      subtitle: const Text(
+                        'e.g. 001000.opus instead of 001000 In the name of Allah... .opus',
+                        style: TextStyle(color: Colors.white54, fontSize: 11),
+                      ),
+                      value: localNumbersOnly,
+                      onChanged: (value) {
+                        setDialogState(() => localNumbersOnly = value!);
+                        numbersOnly = value!;
+                      },
+                      activeColor: Colors.deepPurple,
+                      contentPadding: EdgeInsets.zero,
                     ),
                   ],
                 ),
+                actions: [
+                  TextButton(
+                    onPressed: () {
+                      choice = 'cancel';
+                      Navigator.pop(context);
+                    },
+                    child: const Text('Cancel'),
+                  ),
+                  ElevatedButton(
+                    onPressed: () {
+                      choice = 'select';
+                      Navigator.pop(context);
+                    },
+                    child: const Text('Choose Audiobook'),
+                  ),
+                  ElevatedButton(
+                    onPressed: () {
+                      choice = 'current';
+                      Navigator.pop(context);
+                    },
+                    style: ElevatedButton.styleFrom(
+                      backgroundColor: Colors.deepPurple,
+                    ),
+                    child: const Text('Use Current Loaded Audiobook'),
+                  ),
+                ],
               ),
-            ],
-          ),
-          actions: [
-            TextButton(
-              onPressed: () => Navigator.pop(context, 'cancel'),
-              child: const Text('Cancel'),
-            ),
-            ElevatedButton(
-              onPressed: () => Navigator.pop(context, 'select'),
-              child: const Text('Choose Audiobook'),
-            ),
-            ElevatedButton(
-              onPressed: () => Navigator.pop(context, 'current'),
-              style: ElevatedButton.styleFrom(
-                backgroundColor: Colors.deepPurple,
-              ),
-              child: const Text('Use Current Loaded Audiobook'),
-            ),
-          ],
-        ),
-      );
+            );
+          },
+        );
+        if (choice == null || choice == 'cancel') return;
+        if (choice == 'current') {
+          filePath = widget.currentAudiobookPath;
+        }
+      }
 
-      if (choice == null || choice == 'cancel') return;
+      if (filePath == null) {
+        final result = await FilePicker.platform.pickFiles(
+          type: FileType.custom,
+          allowedExtensions: ['opus', 'm4a', 'm4b', 'ogg', 'mkv'],
+        );
+        if (result == null || result.files.isEmpty) return;
+        filePath = result.files.first.path!;
+      }
 
-      if (choice == 'current') {
-        filePath = widget.currentAudiobookPath;
+      final ext = path.extension(filePath).toLowerCase();
+      if (ext != '.opus' && ext != '.m4a' && ext != '.m4b' && ext != '.mkv' && ext != '.ogg') {
+        _showError('Please select an .opus, .m4a, .m4b, .ogg or .mkv file');
+        return;
+      }
+
+      setState(() {
+        _extracting = true;
+        _extractionStatus = 'Starting extraction...';
+      });
+
+      final startTime = DateTime.now();
+      try {
+        await _ffmpeg.extractChapters(
+          audiobookPath: filePath,
+          numbersOnly: numbersOnly,
+          onProgress: (message) {
+            if (mounted) {
+              setState(() {
+                _extractionStatus = message;
+              });
+            }
+          },
+        );
+        final elapsed = DateTime.now().difference(startTime);
+        final minutes = elapsed.inMinutes;
+        final seconds = elapsed.inSeconds.remainder(60);
+        setState(() {
+          _extracting = false;
+          _extractionStatus = 'Complete!';
+        });
+        _showSuccess('Chapters extracted in ${minutes}m ${seconds}s');
+      } catch (e) {
+        setState(() {
+          _extracting = false;
+          _extractionStatus = 'Error: $e';
+        });
+        _showError('Extraction failed: $e');
       }
     }
 
-    if (filePath == null) {
-      final result = await FilePicker.platform.pickFiles(
-        type: FileType.custom,
-        allowedExtensions: ['opus', 'm4a', 'm4b', 'ogg', 'mkv'],
-      );
-
-      if (result == null || result.files.isEmpty) return;
-
-      filePath = result.files.first.path!;
-    }
-
-    final ext = path.extension(filePath).toLowerCase();
-
-    if (ext != '.opus' && ext != '.m4a' && ext != '.m4b' && ext != '.mkv' && ext != '.ogg') {
-      _showError('Please select an .opus, .m4a, .m4b, .ogg or .mkv file');
-      return;
-    }
-
-    setState(() {
-      _extracting = true;
-      _extractionStatus = 'Starting extraction...';
-    });
-
-    final startTime = DateTime.now();
-
-    try {
-      await _ffmpeg.extractChapters(
-        audiobookPath: filePath,
-        onProgress: (message) {
-          if (mounted) {
-            setState(() {
-              _extractionStatus = message;
-            });
-          }
-        },
-      );
-
-      final elapsed = DateTime.now().difference(startTime);
-      final minutes = elapsed.inMinutes;
-      final seconds = elapsed.inSeconds.remainder(60);
-
-      setState(() {
-        _extracting = false;
-        _extractionStatus = 'Complete!';
-      });
-
-      _showSuccess('Chapters extracted in ${minutes}m ${seconds}s');
-    } catch (e) {
-      setState(() {
-        _extracting = false;
-        _extractionStatus = 'Error: $e';
-      });
-      _showError('Extraction failed: $e');
-    }
-  }
 
   Future<void> _pickFiles() async {
     try {
@@ -921,7 +948,7 @@ class _EncoderScreenState extends State<EncoderScreen> {
           removeHiss: false,
           author: 'Preview',
           title: 'Original',
-          year: '2024',
+          year: '2026',
         ),
         onProgress: (_) {},
       );

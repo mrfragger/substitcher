@@ -38,7 +38,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
   bool _sampleMode = true;
   String _author = '';
   String _title = '';
-  int _bitrate =  12;
+  int _bitrate = 12;
 
   List<String> _availableColumns = [];
   int? _frontColumn;
@@ -48,7 +48,10 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
   int? _lastFrontColumn;
   int? _lastBackColumn;
   int? _lastAudioColumn;
+  int? _lastSuraColumn;
+  int? _lastAyaColumn;
 
+  bool _matchByRange = false;
   bool _showCsvPreview = false;
   List<List<String>> _fullCsvData = [];
   final ScrollController _csvScrollController = ScrollController();
@@ -64,6 +67,10 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
   bool _useFilenameAsChapterName = false;
   static String? _lastCsvDirectory;
   String? _lastOutputFilename;
+
+  bool _useSuraAyah = false;
+  int? _suraColumn;
+  int? _ayaColumn;
 
   @override
   void dispose() {
@@ -98,6 +105,8 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
         _frontColumn = null;
         _backColumn = null;
         _audioColumn = null;
+        _suraColumn = null;
+        _ayaColumn = null;
         _extractedAudioCount = 0;
         _totalNotes = 0;
 
@@ -185,6 +194,8 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
         _frontColumn = null;
         _backColumn = null;
         _audioColumn = null;
+        _suraColumn = null;
+        _ayaColumn = null;
       });
 
       try {
@@ -243,7 +254,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
 
   String get _pythonExecutable {
     if (Platform.isWindows) return 'python';
-    return 'python3'; // macOS and Linux
+    return 'python3';
   }
 
   Future<void> _runHiraganaTransliteration() async {
@@ -255,7 +266,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
 
     final tempDir = Directory.systemTemp;
     final scriptFile = File('${tempDir.path}/vtt_to_hiragana.py');
-  await scriptFile.writeAsString(r'''
+    await scriptFile.writeAsString(r'''
 import pykakasi, sys, os, re
 from pathlib import Path
 
@@ -372,7 +383,6 @@ print('DONE', flush=True)
       });
 
       await process.exitCode;
-
     } catch (e) {
       setState(() {
         _isTransliterating = false;
@@ -495,6 +505,11 @@ print('DONE', flush=True)
       return;
     }
 
+    if (_useSuraAyah && (_suraColumn == null || _ayaColumn == null)) {
+      _showError('Please select Sura and Aya columns');
+      return;
+    }
+
     if (_author.isEmpty || _title.isEmpty) {
       _showError('Please enter Language (Artist) and Title (Album)');
       return;
@@ -516,6 +531,8 @@ print('DONE', flush=True)
     _lastFrontColumn = _frontColumn;
     _lastBackColumn = _backColumn;
     _lastAudioColumn = _audioColumn;
+    _lastSuraColumn = _useSuraAyah ? _suraColumn : null;
+    _lastAyaColumn = _useSuraAyah ? _ayaColumn : null;
 
     setState(() {
       _isProcessing = true;
@@ -534,7 +551,6 @@ print('DONE', flush=True)
       }
     });
 
-
     try {
       await _ankiService.createAudiobook(
         apkgPath: _apkgFilePath ?? _csvPath!,
@@ -550,6 +566,9 @@ print('DONE', flush=True)
         author: _author,
         title: _title,
         bitrate: _bitrate,
+        suraColumn: _useSuraAyah ? _suraColumn : null,
+        ayaColumn: _useSuraAyah ? _ayaColumn : null,
+        matchByRange: _matchByRange,
         onProgress: (status, progress) {
           if (mounted) {
             setState(() {
@@ -592,7 +611,6 @@ print('DONE', flush=True)
       _showError('Conversion failed: $e');
     }
   }
-
 
   void _showError(String message) {
     ScaffoldMessenger.of(context).showSnackBar(
@@ -674,29 +692,23 @@ print('DONE', flush=True)
               ),
             ),
             const SizedBox(height: 32),
-
             Expanded(
               child: SingleChildScrollView(
                 controller: _scrollController,
                 child: Column(
                   children: [
-                  _buildHiraganaSection(),
-                  const SizedBox(height: 24),
-
+                    _buildHiraganaSection(),
+                    const SizedBox(height: 24),
                     _buildApkgFileSection(),
                     const SizedBox(height: 24),
-
                     _buildOutputDirectorySection(),
                     const SizedBox(height: 24),
-
                     _buildConfigurationSection(),
                     const SizedBox(height: 24),
-
                     if (_availableColumns.isNotEmpty) ...[
                       _buildColumnSelectionSection(),
                       const SizedBox(height: 24),
                     ],
-
                     if (_previewRows.isNotEmpty &&
                         _frontColumn != null &&
                         _backColumn != null &&
@@ -704,7 +716,6 @@ print('DONE', flush=True)
                       _buildPreviewSection(),
                       const SizedBox(height: 24),
                     ],
-
                     if (_csvPath != null && !_showCsvPreview) ...[
                       const SizedBox(height: 24),
                       Center(
@@ -720,14 +731,11 @@ print('DONE', flush=True)
                         ),
                       ),
                     ],
-
                     if (_showCsvPreview) ...[
                       const SizedBox(height: 24),
                       _buildCsvPreview(),
                     ],
-
                     const SizedBox(height: 32),
-
                     if (_isProcessing) ...[
                       _buildProcessingProgress(),
                       const SizedBox(height: 32),
@@ -736,10 +744,8 @@ print('DONE', flush=True)
                 ),
               ),
             ),
-
             const SizedBox(height: 16),
-
-                        _buildConversionControls(),
+            _buildConversionControls(),
           ],
         ),
       ),
@@ -758,7 +764,7 @@ print('DONE', flush=True)
       final file = File(_csvPath!);
       final fileSize = await file.length();
 
-      if (fileSize > 5 * 1024 * 1024) { // 5MB
+      if (fileSize > 5 * 1024 * 1024) {
         final shouldContinue = await showDialog<bool>(
           context: context,
           builder: (context) => AlertDialog(
@@ -766,7 +772,7 @@ print('DONE', flush=True)
             content: Text(
               'This CSV file is ${(fileSize / 1024 / 1024).toStringAsFixed(1)} MB.\n'
               'Preview will be limited to first $MAX_PREVIEW_ROWS rows and $MAX_PREVIEW_COLS columns.\n\n'
-              'Continue?'
+              'Continue?',
             ),
             actions: [
               TextButton(
@@ -790,17 +796,14 @@ print('DONE', flush=True)
       }
 
       final stream = file.openRead();
-      final lines = stream
-          .transform(utf8.decoder)
-          .transform(LineSplitter());
+      final lines = stream.transform(utf8.decoder).transform(LineSplitter());
 
       int lineCount = 0;
       await for (final line in lines) {
-        if (lineCount >= MAX_PREVIEW_ROWS + 1) break; // +1 for header
+        if (lineCount >= MAX_PREVIEW_ROWS + 1) break;
 
         final row = _parseCsvLine(line);
 
-        // Limit columns
         if (row.length > MAX_PREVIEW_COLS) {
           _fullCsvData.add(row.sublist(0, MAX_PREVIEW_COLS));
         } else {
@@ -809,7 +812,6 @@ print('DONE', flush=True)
 
         lineCount++;
 
-        // Update UI periodically
         if (lineCount % 25 == 0) {
           setState(() {});
         }
@@ -867,7 +869,7 @@ print('DONE', flush=True)
     }
 
     final columnCount = _fullCsvData.first.length;
-    final rowCount = _fullCsvData.length - 1; // Exclude header
+    final rowCount = _fullCsvData.length - 1;
     final isLimited = rowCount >= MAX_PREVIEW_ROWS || columnCount >= MAX_PREVIEW_COLS;
 
     return Container(
@@ -926,7 +928,7 @@ print('DONE', flush=True)
                     Container(
                       decoration: BoxDecoration(
                         color: Colors.deepPurple.withValues(alpha: 0.3),
-                        border: Border(
+                        border: const Border(
                           bottom: BorderSide(
                             color: Colors.white12,
                             width: 2,
@@ -1005,7 +1007,6 @@ print('DONE', flush=True)
                                       ),
                                     ),
                                   ),
-                                  // Data cells
                                   ...List.generate(
                                     columnCount,
                                     (index) => Container(
@@ -1065,7 +1066,6 @@ print('DONE', flush=True)
             ],
           ),
           const SizedBox(height: 12),
-
           if (_apkgFilePath != null)
             _buildStatusBox(
               icon: Icons.check_circle,
@@ -1097,9 +1097,7 @@ print('DONE', flush=True)
                 ],
               ),
             ),
-
           const SizedBox(height: 12),
-
           Row(
             children: [
               ElevatedButton.icon(
@@ -1123,7 +1121,6 @@ print('DONE', flush=True)
               ),
             ],
           ),
-
           if (_csvOnlyMode) ...[
             const SizedBox(height: 10),
             Row(
@@ -1272,7 +1269,7 @@ print('DONE', flush=True)
                   fontWeight: FontWeight.bold,
                 ),
               ),
-              const Spacer(),
+              const SizedBox(width: 36),
               if (_lastFrontColumn != null && _lastBackColumn != null && _lastAudioColumn != null)
                 ElevatedButton.icon(
                   onPressed: () {
@@ -1280,11 +1277,16 @@ print('DONE', flush=True)
                       _frontColumn = _lastFrontColumn;
                       _backColumn = _lastBackColumn;
                       _audioColumn = _lastAudioColumn;
+                      if (_useSuraAyah) {
+                        _suraColumn = _lastSuraColumn;
+                        _ayaColumn = _lastAyaColumn;
+                      }
                     });
                   },
                   icon: const Icon(Icons.history, size: 16),
                   label: Text(
-                    'Use Last (${(_lastFrontColumn! + 1)}, ${(_lastBackColumn! + 1)}, ${(_lastAudioColumn! + 1)})',
+                    'Use Last (${(_lastFrontColumn! + 1)}, ${(_lastBackColumn! + 1)}, ${(_lastAudioColumn! + 1)}'
+                    '${_lastSuraColumn != null && _lastAyaColumn != null ? ', Sura ${_lastSuraColumn! + 1}, Aya ${_lastAyaColumn! + 1}' : ''})',
                   ),
                   style: ElevatedButton.styleFrom(
                     backgroundColor: Colors.cyan.shade900,
@@ -1301,7 +1303,6 @@ print('DONE', flush=True)
             style: TextStyle(color: Colors.white54, fontSize: 12),
           ),
           const SizedBox(height: 20),
-
           Row(
             children: [
               Expanded(
@@ -1332,11 +1333,7 @@ print('DONE', flush=True)
                           ),
                         );
                       }).toList(),
-                      onChanged: (value) {
-                        setState(() {
-                          _frontColumn = value;
-                        });
-                      },
+                      onChanged: (value) => setState(() => _frontColumn = value),
                     ),
                   ],
                 ),
@@ -1370,11 +1367,7 @@ print('DONE', flush=True)
                           ),
                         );
                       }).toList(),
-                      onChanged: (value) {
-                        setState(() {
-                          _backColumn = value;
-                        });
-                      },
+                      onChanged: (value) => setState(() => _backColumn = value),
                     ),
                   ],
                 ),
@@ -1408,89 +1401,100 @@ print('DONE', flush=True)
                           ),
                         );
                       }).toList(),
-                      onChanged: (value) {
-                        setState(() {
-                          _audioColumn = value;
-                        });
-                      },
+                      onChanged: (value) => setState(() => _audioColumn = value),
                     ),
                   ],
                 ),
               ),
             ],
           ),
+          if (_useSuraAyah) ...[
+            const SizedBox(height: 16),
+            Row(
+              children: [
+                Expanded(
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      const Text(
+                        'Sura Column',
+                        style: TextStyle(color: Color(0xFF34d399), fontSize: 14, fontWeight: FontWeight.bold),
+                      ),
+                      const SizedBox(height: 8),
+                      DropdownButtonFormField<int>(
+                        value: _suraColumn,
+                        decoration: const InputDecoration(
+                          filled: true,
+                          fillColor: Colors.black26,
+                          border: OutlineInputBorder(),
+                          contentPadding: EdgeInsets.symmetric(horizontal: 12, vertical: 2),
+                        ),
+                        dropdownColor: const Color(0xFF1E1E1E),
+                        style: const TextStyle(color: Colors.white, fontSize: 10),
+                        items: _availableColumns.asMap().entries.map((entry) {
+                          return DropdownMenuItem(
+                            value: entry.key,
+                            child: Text(
+                              '${entry.key + 1}. ${entry.value}',
+                              style: const TextStyle(fontSize: 10),
+                            ),
+                          );
+                        }).toList(),
+                        onChanged: (value) => setState(() => _suraColumn = value),
+                      ),
+                    ],
+                  ),
+                ),
+                const SizedBox(width: 16),
+                Expanded(
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      const Text(
+                        'Aya Column',
+                        style: TextStyle(color: Color(0xFFa78bfa), fontSize: 14, fontWeight: FontWeight.bold),
+                      ),
+                      const SizedBox(height: 8),
+                      DropdownButtonFormField<int>(
+                        value: _ayaColumn,
+                        decoration: const InputDecoration(
+                          filled: true,
+                          fillColor: Colors.black26,
+                          border: OutlineInputBorder(),
+                          contentPadding: EdgeInsets.symmetric(horizontal: 12, vertical: 2),
+                        ),
+                        dropdownColor: const Color(0xFF1E1E1E),
+                        style: const TextStyle(color: Colors.white, fontSize: 10),
+                        items: _availableColumns.asMap().entries.map((entry) {
+                          return DropdownMenuItem(
+                            value: entry.key,
+                            child: Text(
+                              '${entry.key + 1}. ${entry.value}',
+                              style: const TextStyle(fontSize: 10),
+                            ),
+                          );
+                        }).toList(),
+                        onChanged: (value) => setState(() => _ayaColumn = value),
+                      ),
+                    ],
+                  ),
+                ),
+                const Expanded(child: SizedBox()),
+              ],
+            ),
+          ],
         ],
       ),
     );
   }
 
   Widget _buildPreviewSection() {
-      if (_frontColumn == null || _backColumn == null || _audioColumn == null) {
-        return const SizedBox.shrink();
-      }
-
-      final previewCount = _previewRows.length > 15 ? 15 : _previewRows.length;
-
-      return Container(
-        padding: const EdgeInsets.all(20),
-        decoration: BoxDecoration(
-          color: const Color(0xFF2A2A2A),
-          borderRadius: BorderRadius.circular(12),
-          border: Border.all(color: Colors.white12),
-        ),
-        child: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            Row(
-              children: [
-                const Icon(Icons.preview, color: Colors.purple, size: 20),
-                const SizedBox(width: 8),
-                Text(
-                  'Preview ($previewCount entries)',
-                  style: const TextStyle(
-                    color: Colors.white,
-                    fontSize: 16,
-                    fontWeight: FontWeight.bold,
-                  ),
-                ),
-              ],
-            ),
-            const SizedBox(height: 16),
-            ..._previewRows.take(previewCount).map((row) {
-              final frontKey = _availableColumns[_frontColumn!];
-              final backKey = _availableColumns[_backColumn!];
-              final audioKey = _availableColumns[_audioColumn!];
-
-              return Padding(
-                padding: const EdgeInsets.only(bottom: 12),
-                child: Column(
-                  crossAxisAlignment: CrossAxisAlignment.start,
-                  children: [
-                    Text(
-                      'Front: ${row[frontKey] ?? ''}',
-                      style: const TextStyle(color: Color(0xFF60a5fa), fontSize: 12),
-                    ),
-                    const SizedBox(height: 4),
-                    Text(
-                      'Back: ${row[backKey] ?? ''}',
-                      style: const TextStyle(color: Color(0xFF4ade80), fontSize: 12),
-                    ),
-                    const SizedBox(height: 4),
-                    Text(
-                      'Audio: ${row[audioKey] ?? ''}',
-                      style: const TextStyle(color: Color(0xFFfbbf24), fontSize: 12),
-                    ),
-                    const Divider(color: Colors.white12),
-                  ],
-                ),
-              );
-            }),
-          ],
-        ),
-      );
+    if (_frontColumn == null || _backColumn == null || _audioColumn == null) {
+      return const SizedBox.shrink();
     }
 
-  Widget _buildConfigurationSection() {
+    final previewCount = _previewRows.length > 15 ? 15 : _previewRows.length;
+
     return Container(
       padding: const EdgeInsets.all(20),
       decoration: BoxDecoration(
@@ -1503,11 +1507,11 @@ print('DONE', flush=True)
         children: [
           Row(
             children: [
-              const Icon(Icons.settings, color: Colors.deepPurple, size: 20),
+              const Icon(Icons.preview, color: Colors.purple, size: 20),
               const SizedBox(width: 8),
-              const Text(
-                'Audiobook Configuration',
-                style: TextStyle(
+              Text(
+                'Preview ($previewCount entries)',
+                style: const TextStyle(
                   color: Colors.white,
                   fontSize: 16,
                   fontWeight: FontWeight.bold,
@@ -1515,212 +1519,246 @@ print('DONE', flush=True)
               ),
             ],
           ),
-          const SizedBox(height: 20),
-
-          Row(
-            children: [
-              Expanded(
-                child: Column(
-                  crossAxisAlignment: CrossAxisAlignment.start,
-                  children: [
-                    const Text(
-                      'Language (Artist & Album Artist)',
-                      style: TextStyle(color: Colors.white70, fontSize: 14),
-                    ),
-                    const SizedBox(height: 8),
-                    TextField(
-                      style: const TextStyle(color: Colors.white),
-                      decoration: const InputDecoration(
-                        filled: true,
-                        fillColor: Colors.black26,
-                        border: OutlineInputBorder(),
-                        hintText: 'e.g., Spanish, Japanese, Arabic',
-                        hintStyle: TextStyle(color: Colors.white38),
-                      ),
-                      onChanged: (value) {
-                        setState(() {
-                          _author = value;
-                        });
-                      },
-                    ),
-                  ],
-                ),
-              ),
-              const SizedBox(width: 16),
-              Expanded(
-                child: Column(
-                  crossAxisAlignment: CrossAxisAlignment.start,
-                  children: [
-                    const Text(
-                      'Title (Title & Album)',
-                      style: TextStyle(color: Colors.white70, fontSize: 14),
-                    ),
-                    const SizedBox(height: 8),
-                    TextField(
-                      controller: _titleController,
-                      style: const TextStyle(color: Colors.white),
-                      decoration: const InputDecoration(
-                        filled: true,
-                        fillColor: Colors.black26,
-                        border: OutlineInputBorder(),
-                        hintText: 'e.g., Core 1k Sentences',
-                        hintStyle: TextStyle(color: Colors.white38),
-                      ),
-                      onChanged: (value) {
-                        setState(() {
-                          _title = value;
-                        });
-                      },
-                    ),
-                  ],
-                ),
-              ),
-            ],
-          ),
-
           const SizedBox(height: 16),
+          ..._previewRows.take(previewCount).map((row) {
+            final frontKey = _availableColumns[_frontColumn!];
+            final backKey = _availableColumns[_backColumn!];
+            final audioKey = _availableColumns[_audioColumn!];
+            final suraKey = _useSuraAyah && _suraColumn != null ? _availableColumns[_suraColumn!] : null;
+            final ayaKey = _useSuraAyah && _ayaColumn != null ? _availableColumns[_ayaColumn!] : null;
 
-            Row(
+            return Padding(
+              padding: const EdgeInsets.only(bottom: 12),
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
-                  Expanded(
-                    child: Column(
-                      crossAxisAlignment: CrossAxisAlignment.start,
-                      children: [
-                        const Text(
-                          'Audio Repetitions',
-                          style: TextStyle(color: Colors.white70, fontSize: 14),
-                        ),
-                        const SizedBox(height: 8),
-                        DropdownButtonFormField<int>(
-                          initialValue: _audioRepetitions,
-                          decoration: const InputDecoration(
-                            filled: true,
-                            fillColor: Colors.black26,
-                            border: OutlineInputBorder(),
-                          ),
-                          dropdownColor: const Color(0xFF1E1E1E),
-                          style: const TextStyle(color: Colors.white),
-                          items: [
-                            const DropdownMenuItem(
-                              value: 1,
-                              child: Text('1 time: front 1x only'),
-                            ),
-                            const DropdownMenuItem(
-                              value: 2,
-                              child: Text('2 times: front 1x, back 1x'),
-                            ),
-                            const DropdownMenuItem(
-                              value: 3,
-                              child: Text('3 times: front 2x, back 1x'),
-                            ),
-                            const DropdownMenuItem(
-                              value: 4,
-                              child: Text('4 times: front 2x, back 2x'),
-                            ),
-                            const DropdownMenuItem(
-                              value: 5,
-                              child: Text('5 times: front 3x, back 2x'),
-                            ),
-                            const DropdownMenuItem(
-                              value: 6,
-                              child: Text('6 times: front 3x, back 3x'),
-                            ),
-                          ],
-                          onChanged: (value) {
-                            setState(() {
-                              _audioRepetitions = value!;
-                            });
-                          },
-                        ),
-                      ],
+                  if (suraKey != null && ayaKey != null)
+                    Text(
+                      'Sura/Aya: ${row[suraKey] ?? ''},${row[ayaKey] ?? ''}',
+                      style: const TextStyle(color: Color(0xFF34d399), fontSize: 12),
                     ),
+                  if (suraKey != null && ayaKey != null) const SizedBox(height: 4),
+                  Text(
+                    'Front: ${row[frontKey] ?? ''}',
+                    style: const TextStyle(color: Color(0xFF60a5fa), fontSize: 12),
                   ),
-              const SizedBox(width: 16),
-              Expanded(
-                child: Column(
-                  crossAxisAlignment: CrossAxisAlignment.start,
-                  children: [
-                    const Text(
-                      'Bitrate',
-                      style: TextStyle(color: Colors.white70, fontSize: 14),
-                    ),
-                    const SizedBox(height: 8),
-                    DropdownButtonFormField<int>(
-                      initialValue: _bitrate,
-                      decoration: const InputDecoration(
-                        filled: true,
-                        fillColor: Colors.black26,
-                        border: OutlineInputBorder(),
-                      ),
-                      dropdownColor: const Color(0xFF1E1E1E),
-                      style: const TextStyle(color: Colors.white),
-                      items: [12, 24].map((bitrate) {
-                        return DropdownMenuItem(
-                          value: bitrate,
-                          child: Text('$bitrate kbps'),
-                        );
-                      }).toList(),
-                      onChanged: (value) {
-                        setState(() {
-                          _bitrate = value!;
-                        });
-                      },
-                    ),
-                  ],
-                ),
-              ),
-              const SizedBox(width: 16),
-              Expanded(
-                child: CheckboxListTile(
-                  title: const Text('Use filename as chapter name', style: TextStyle(color: Colors.white)),
-                  subtitle: const Text('e.g. chapter named 001004 instead of 0001 (CSV mode only)', style: TextStyle(color: Colors.white54, fontSize: 11)),
-                  value: _useFilenameAsChapterName,
-                  onChanged: (value) => setState(() => _useFilenameAsChapterName = value!),
-                  activeColor: Colors.deepPurple,
-                ),
-              ),
-              Expanded(
-                child: CheckboxListTile(
-                  title: const Text('Sample Mode (50 entries)', style: TextStyle(color: Colors.white)),
-                  subtitle: const Text('Uncheck to process entire deck', style: TextStyle(color: Colors.white54, fontSize: 11)),
-                  value: _sampleMode,
-                  onChanged: (value) {
-                    setState(() {
-                      _sampleMode = value!;
-                    });
-                  },
-                  activeColor: Colors.deepPurple,
-                ),
-              ),
-            ],
-          ),
-          if (_csvPath != null) ...[
-            const SizedBox(height: 16),
-            Container(
-              padding: const EdgeInsets.all(12),
-              decoration: BoxDecoration(
-                color: Colors.blue.withValues(alpha: 0.1),
-                borderRadius: BorderRadius.circular(8),
-                border: Border.all(color: Colors.blue.withValues(alpha: 0.3)),
-              ),
-              child: Row(
-                children: [
-                  const Icon(Icons.table_chart, color: Colors.blue, size: 16),
-                  const SizedBox(width: 8),
-                  Expanded(
-                    child: Text(
-                      'CSV: $_csvPath',
-                      style: const TextStyle(color: Colors.white70, fontSize: 12),
-                    ),
+                  const SizedBox(height: 4),
+                  Text(
+                    'Back: ${row[backKey] ?? ''}',
+                    style: const TextStyle(color: Color(0xFF4ade80), fontSize: 12),
                   ),
+                  const SizedBox(height: 4),
+                  Text(
+                    'Audio: ${row[audioKey] ?? ''}',
+                    style: const TextStyle(color: Color(0xFFfbbf24), fontSize: 12),
+                  ),
+                  const Divider(color: Colors.white12),
                 ],
               ),
-            ),
-          ],
+            );
+          }),
         ],
       ),
     );
   }
+
+  Widget _buildConfigurationSection() {
+      return Container(
+        padding: const EdgeInsets.all(20),
+        decoration: BoxDecoration(
+          color: const Color(0xFF2A2A2A),
+          borderRadius: BorderRadius.circular(12),
+          border: Border.all(color: Colors.white12),
+        ),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Row(
+              children: [
+                const Icon(Icons.settings, color: Colors.deepPurple, size: 20),
+                const SizedBox(width: 8),
+                const Text(
+                  'Audiobook Configuration',
+                  style: TextStyle(
+                    color: Colors.white,
+                    fontSize: 16,
+                    fontWeight: FontWeight.bold,
+                  ),
+                ),
+              ],
+            ),
+            const SizedBox(height: 20),
+            Row(
+              children: [
+                Expanded(
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      const Text(
+                        'Language (Artist & Album Artist)',
+                        style: TextStyle(color: Colors.white70, fontSize: 14),
+                      ),
+                      const SizedBox(height: 8),
+                      TextField(
+                        style: const TextStyle(color: Colors.white),
+                        decoration: const InputDecoration(
+                          filled: true,
+                          fillColor: Colors.black26,
+                          border: OutlineInputBorder(),
+                          hintText: 'e.g., Spanish, Japanese, Arabic',
+                          hintStyle: TextStyle(color: Colors.white38),
+                        ),
+                        onChanged: (value) => setState(() => _author = value),
+                      ),
+                    ],
+                  ),
+                ),
+                const SizedBox(width: 16),
+                Expanded(
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      const Text(
+                        'Title (Title & Album)',
+                        style: TextStyle(color: Colors.white70, fontSize: 14),
+                      ),
+                      const SizedBox(height: 8),
+                      TextField(
+                        controller: _titleController,
+                        style: const TextStyle(color: Colors.white),
+                        decoration: const InputDecoration(
+                          filled: true,
+                          fillColor: Colors.black26,
+                          border: OutlineInputBorder(),
+                          hintText: 'e.g., Core 1k Sentences',
+                          hintStyle: TextStyle(color: Colors.white38),
+                        ),
+                        onChanged: (value) => setState(() => _title = value),
+                      ),
+                    ],
+                  ),
+                ),
+              ],
+            ),
+            const SizedBox(height: 16),
+                      Row(
+                        children: [
+                          Expanded(
+                            child: Column(
+                              crossAxisAlignment: CrossAxisAlignment.start,
+                              children: [
+                                const Text('Audio Repetitions', style: TextStyle(color: Colors.white70, fontSize: 14)),
+                                const SizedBox(height: 8),
+                                DropdownButtonFormField<int>(
+                                  initialValue: _audioRepetitions,
+                                  decoration: const InputDecoration(filled: true, fillColor: Colors.black26, border: OutlineInputBorder()),
+                                  dropdownColor: const Color(0xFF1E1E1E),
+                                  style: const TextStyle(color: Colors.white),
+                                  items: const [
+                                    DropdownMenuItem(value: 1, child: Text('1 time: front 1x only')),
+                                    DropdownMenuItem(value: 2, child: Text('2 times: front 1x, back 1x')),
+                                    DropdownMenuItem(value: 3, child: Text('3 times: front 2x, back 1x')),
+                                    DropdownMenuItem(value: 4, child: Text('4 times: front 2x, back 2x')),
+                                    DropdownMenuItem(value: 5, child: Text('5 times: front 3x, back 2x')),
+                                    DropdownMenuItem(value: 6, child: Text('6 times: front 3x, back 3x')),
+                                  ],
+                                  onChanged: (value) => setState(() => _audioRepetitions = value!),
+                                ),
+                              ],
+                            ),
+                          ),
+                          const SizedBox(width: 16),
+                          Expanded(
+                            child: Column(
+                              crossAxisAlignment: CrossAxisAlignment.start,
+                              children: [
+                                const Text('Bitrate', style: TextStyle(color: Colors.white70, fontSize: 14)),
+                                const SizedBox(height: 8),
+                                DropdownButtonFormField<int>(
+                                  initialValue: _bitrate,
+                                  decoration: const InputDecoration(filled: true, fillColor: Colors.black26, border: OutlineInputBorder()),
+                                  dropdownColor: const Color(0xFF1E1E1E),
+                                  style: const TextStyle(color: Colors.white),
+                                  items: [12, 24].map((bitrate) {
+                                    return DropdownMenuItem(value: bitrate, child: Text('$bitrate kbps'));
+                                  }).toList(),
+                                  onChanged: (value) => setState(() => _bitrate = value!),
+                                ),
+                              ],
+                            ),
+                          ),
+                          const Expanded(child: SizedBox()),
+                          const Expanded(child: SizedBox()),
+                        ],
+                      ),
+                      const SizedBox(height: 8),
+                      Row(
+                        children: [
+                          Expanded(
+                            child: CheckboxListTile(
+                              title: const Text('Use filename as chapter name', style: TextStyle(color: Colors.white)),
+                              subtitle: const Text('e.g. chapter named 001004 instead of 0001 (CSV mode only)', style: TextStyle(color: Colors.white54, fontSize: 11)),
+                              value: _useFilenameAsChapterName,
+                              onChanged: (value) => setState(() => _useFilenameAsChapterName = value!),
+                              activeColor: Colors.deepPurple,
+                            ),
+                          ),
+                          Expanded(
+                            child: CheckboxListTile(
+                              title: const Text('Sample Mode (50 entries)', style: TextStyle(color: Colors.white)),
+                              subtitle: const Text('Uncheck to process entire deck', style: TextStyle(color: Colors.white54, fontSize: 11)),
+                              value: _sampleMode,
+                              onChanged: (value) => setState(() => _sampleMode = value!),
+                              activeColor: Colors.deepPurple,
+                            ),
+                          ),
+                          Expanded(
+                            child: CheckboxListTile(
+                              title: const Text('Prepend Sura/Aya to subtitles', style: TextStyle(color: Colors.white)),
+                              subtitle: const Text('Adds "1,0 " prefix to each subtitle line', style: TextStyle(color: Colors.white54, fontSize: 11)),
+                              value: _useSuraAyah,
+                              onChanged: (value) => setState(() => _useSuraAyah = value!),
+                              activeColor: Colors.deepPurple,
+                            ),
+                          ),
+                          Expanded(
+                            child: CheckboxListTile(
+                              title: const Text('Match media by range', style: TextStyle(color: Colors.white)),
+                              subtitle: const Text('e.g. 001-006 in CSV matches 001-006 _chapters dir', style: TextStyle(color: Colors.white54, fontSize: 11)),
+                              value: _matchByRange,
+                              onChanged: (value) => setState(() => _matchByRange = value!),
+                              activeColor: Colors.deepPurple,
+                            ),
+                          ),
+                        ],
+                      ),
+            if (_csvPath != null) ...[
+              const SizedBox(height: 16),
+              Container(
+                padding: const EdgeInsets.all(12),
+                decoration: BoxDecoration(
+                  color: Colors.blue.withValues(alpha: 0.1),
+                  borderRadius: BorderRadius.circular(8),
+                  border: Border.all(color: Colors.blue.withValues(alpha: 0.3)),
+                ),
+                child: Row(
+                  children: [
+                    const Icon(Icons.table_chart, color: Colors.blue, size: 16),
+                    const SizedBox(width: 8),
+                    Expanded(
+                      child: Text(
+                        'CSV: $_csvPath',
+                        style: const TextStyle(color: Colors.white70, fontSize: 12),
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+            ],
+          ],
+        ),
+      );
+    }
 
   Widget _buildProcessingProgress() {
     String elapsedTime = '';
@@ -1799,7 +1837,6 @@ print('DONE', flush=True)
         _backColumn != null &&
         _audioColumn != null &&
         !_isProcessing;
-
 
     return Column(
       children: [

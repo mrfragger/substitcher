@@ -311,7 +311,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   Set<String> _favoriteFonts = {};
 
   Set<String> _favoriteColorPalettes = {};
-  String _colorFilterMode = 'favorites';
+  String _colorFilterMode = 'all';
   ColorPaletteFilter _colorFilter = ColorPaletteFilter.all;
 
   bool _blurShadowEnabled = false;
@@ -1649,7 +1649,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             ScaffoldMessenger.of(context).showSnackBar(
               const SnackBar(
                 content: Text('Too close to chapter end — wait till next chapter starts'),
-                duration: Duration(seconds: 2),
+                duration: Duration(seconds: 4),
               ),
             );
           }
