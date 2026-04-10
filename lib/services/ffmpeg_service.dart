@@ -1,5 +1,6 @@
 import 'dart:io';
 import 'dart:convert';
+import 'dart:async';
 import 'package:process_run/shell.dart';
 import 'package:path/path.dart' as path;
 import '../models/audio_file.dart';
@@ -68,63 +69,80 @@ class FFmpegService {
         throw Exception('No chapters found in audiobook');
       }
 
-      onProgress('Found ${chapters.length} chapters. Extracting...');
+      onProgress('Found ${chapters.length} chapters. Extracting in parallel...');
+
+      final cpuCount = Platform.numberOfProcessors;
+      final maxConcurrent = (cpuCount * 0.75).round().clamp(1, 8);
+      final semaphore = _Semaphore(maxConcurrent);
+      int completed = 0;
+      final futures = <Future>[];
 
       for (var i = 0; i < chapters.length; i++) {
         final chapter = chapters[i] as Map<String, dynamic>;
-        final tags = chapter['tags'] as Map<String, dynamic>? ?? {};
+        final chapterIndex = i;
 
-        final startTime = chapter['start_time'].toString();
-        final endTime = chapter['end_time'].toString();
+        final future = semaphore.acquire().then((_) async {
+          try {
+            final tags = chapter['tags'] as Map<String, dynamic>? ?? {};
+            final startTime = chapter['start_time'].toString();
+            final endTime = chapter['end_time'].toString();
 
-        var title = tags['title'] ?? tags['TITLE'] ?? 'Chapter_${i + 1}';
-        title = title.toString();
+            var title = tags['title'] ?? tags['TITLE'] ?? 'Chapter_${chapterIndex + 1}';
+            title = title.toString();
 
-        String filename;
-        if (numbersOnly) {
-          final numMatch = RegExp(r'^\d+').firstMatch(title.trim());
-          filename = numMatch != null ? numMatch.group(0)! : (i + 1).toString().padLeft(4, '0');
-        } else {
-          filename = title
-              .replaceAll('/', '-')
-              .replaceAll('\\', '-')
-              .replaceAll(':', '-')
-              .replaceAll('*', '')
-              .replaceAll('?', '')
-              .replaceAll('"', "'")
-              .replaceAll('<', '')
-              .replaceAll('>', '')
-              .replaceAll('|', '-')
-              .replaceAll('_', ' ')
-              .trim();
-        }
+            String filename;
+            if (numbersOnly) {
+              final numMatch = RegExp(r'^\d+').firstMatch(title.trim());
+              filename = numMatch != null ? numMatch.group(0)! : (chapterIndex + 1).toString().padLeft(4, '0');
+            } else {
+              filename = title
+                  .replaceAll('/', '-')
+                  .replaceAll('\\', '-')
+                  .replaceAll(':', '-')
+                  .replaceAll('*', '')
+                  .replaceAll('?', '')
+                  .replaceAll('"', "'")
+                  .replaceAll('<', '')
+                  .replaceAll('>', '')
+                  .replaceAll('|', '-')
+                  .replaceAll('_', ' ')
+                  .trim();
+            }
 
-        final outputExt = (ext == '.m4b') ? '.m4a' : ext;
-        final outputPath = path.join(chaptersDir, '$filename$outputExt');
+            final outputExt = (ext == '.m4b') ? '.m4a' : ext;
+            final outputPath = path.join(chaptersDir, '$filename$outputExt');
 
-        onProgress('Extracting chapter ${i + 1}/${chapters.length}: $filename');
+            final extractResult = await Process.run(
+              _ffmpegPath!,
+              [
+                '-hide_banner',
+                '-i', audiobookPath,
+                '-ss', startTime,
+                '-to', endTime,
+                '-c:v', 'copy',
+                '-c:a', 'copy',
+                '-avoid_negative_ts', 'make_zero',
+                '-fflags', '+genpts',
+                outputPath,
+                '-y',
+              ],
+            );
 
-        final extractResult = await Process.run(
-          _ffmpegPath!,
-          [
-            '-hide_banner',
-            '-i', audiobookPath,
-            '-ss', startTime,
-            '-to', endTime,
-            '-c:v', 'copy',
-            '-c:a', 'copy',
-            '-avoid_negative_ts', 'make_zero',
-            '-fflags', '+genpts',
-            outputPath,
-            '-y',
-          ],
-        );
+            if (extractResult.exitCode != 0) {
+              print('Warning: Failed to extract chapter ${chapterIndex + 1}: ${extractResult.stderr}');
+            }
 
-        if (extractResult.exitCode != 0) {
-          print('Warning: Failed to extract chapter ${i + 1}: ${extractResult.stderr}');
-        }
+            completed++;
+            onProgress('Extracting chapter $completed/${chapters.length}: $filename');
+          } finally {
+            semaphore.release();
+          }
+        });
+
+        futures.add(future);
       }
 
+      await Future.wait(futures);
       onProgress('All ${chapters.length} chapters extracted to: $chaptersDir');
     }
 
@@ -713,5 +731,32 @@ class FFmpegService {
       '$_ffmpegPath -i "$inputPath" -i "$metadataPath" '
       '-map_chapters 1 -map 0:a -c copy "$outputPath" -y'
     );
+  }
+}
+
+class _Semaphore {
+  final int maxCount;
+  int _currentCount = 0;
+  final List<Completer<void>> _queue = [];
+
+  _Semaphore(this.maxCount);
+
+  Future<void> acquire() async {
+    if (_currentCount < maxCount) {
+      _currentCount++;
+      return;
+    }
+    final completer = Completer<void>();
+    _queue.add(completer);
+    return completer.future;
+  }
+
+  void release() {
+    _currentCount--;
+    if (_queue.isNotEmpty) {
+      final completer = _queue.removeAt(0);
+      _currentCount++;
+      completer.complete();
+    }
   }
 }
