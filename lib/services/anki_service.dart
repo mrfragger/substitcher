@@ -402,257 +402,277 @@ class AnkiService {
   }
 
   Future<void> createAudiobook({
-    int? suraColumn,
-    int? ayaColumn,
-    required String apkgPath,
-    required String outputDir,
-    required String csvPath,
-    required String mediaDir,
-    required int frontColumn,
-    required int backColumn,
-    required int audioColumn,
-    required int audioRepetitions,
-    required bool sampleMode,
-    required String author,
-    required String title,
-    required int bitrate,
-    required bool useFilenameAsChapterName,
-    required Function(String status, double progress) onProgress,
-    bool matchByRange = false,
-  }) async {
-    onProgress('Reading CSV file...', 0.0);
+      int? suraColumn,
+      int? ayaColumn,
+      required String apkgPath,
+      required String outputDir,
+      required String csvPath,
+      required String mediaDir,
+      required int frontColumn,
+      required int backColumn,
+      required int audioColumn,
+      required int audioRepetitions,
+      required bool sampleMode,
+      required String author,
+      required String title,
+      required int bitrate,
+      required bool useFilenameAsChapterName,
+      required Function(String status, double progress) onProgress,
+      bool matchByRange = false,
+    }) async {
+      onProgress('Reading CSV file...', 0.0);
 
-    final resolvedMediaDir = _findMediaDir(csvPath, matchByRange: matchByRange);
-    print('DEBUG mediaDir resolved: $resolvedMediaDir');
+      final resolvedMediaDir = _findMediaDir(csvPath, matchByRange: matchByRange);
+      print('DEBUG mediaDir resolved: $resolvedMediaDir');
 
-    final csvFile = File(csvPath);
+      final csvFile = File(csvPath);
 
-    final csvBytes = await csvFile.readAsBytes();
-    String csvContent;
-    try {
-      csvContent = utf8.decode(csvBytes);
-    } catch (_) {
-      csvContent = latin1.decode(csvBytes);
-    }
-
-    final csvData = Csv().decode(csvContent);
-
-    final columns = csvData[0].map((e) => e.toString()).toList();
-    print('Reading from columns: Front=${columns[frontColumn]}, Back=${columns[backColumn]}, Audio=${columns[audioColumn]}');
-
-    final chapters = <Map<String, dynamic>>[];
-    final maxNotes = sampleMode ? 50 : csvData.length - 1;
-
-    onProgress('Processing notes...', 0.1);
-
-    for (int i = 1; i < csvData.length && chapters.length < maxNotes; i++) {
-      final row = csvData[i];
-
-      if (frontColumn >= row.length || backColumn >= row.length || audioColumn >= row.length) {
-        print('Warning: Row $i has insufficient columns');
-        continue;
+      final csvBytes = await csvFile.readAsBytes();
+      String csvContent;
+      try {
+        csvContent = utf8.decode(csvBytes);
+      } catch (_) {
+        csvContent = latin1.decode(csvBytes);
       }
 
-      final front = row[frontColumn].toString().trim();
-      final back = row[backColumn].toString().trim();
-      final audioList = row[audioColumn].toString().trim();
+      final csvData = Csv().decode(csvContent);
 
-      final sura = (suraColumn != null && suraColumn < row.length) ? row[suraColumn].toString().trim() : null;
-      final aya = (ayaColumn != null && ayaColumn < row.length) ? row[ayaColumn].toString().trim() : null;
+      final columns = csvData[0].map((e) => e.toString()).toList();
+      print('Reading from columns: Front=${columns[frontColumn]}, Back=${columns[backColumn]}, Audio=${columns[audioColumn]}');
 
-      if (audioList.isEmpty) {
-        print('Warning: Row $i has no audio in column ${columns[audioColumn]}');
-        continue;
-      }
+      final chapters = <Map<String, dynamic>>[];
+      final maxNotes = sampleMode ? 50 : csvData.length - 1;
 
-      final audioFiles = audioList.split(';').map((s) => s.trim()).where((s) => s.isNotEmpty).toList();
+      onProgress('Processing notes...', 0.1);
 
-      for (final audioFile in audioFiles) {
-        final audioPath = _resolveAudioPath(resolvedMediaDir, audioFile);
+      for (int i = 1; i < csvData.length && chapters.length < maxNotes; i++) {
+        final row = csvData[i];
 
-        if (!await File(audioPath).exists()) {
-          print('Warning: Audio file not found: $audioPath');
+        if (frontColumn >= row.length || backColumn >= row.length || audioColumn >= row.length) {
+          print('Warning: Row $i has insufficient columns');
           continue;
         }
-        final resolvedAudioFile = path.basename(audioPath);
-        chapters.add({
-          'front': front.isEmpty ? back : front,
-          'back': back.isEmpty ? front : back,
-          'audioFile': resolvedAudioFile,
-          'sura': sura,
-          'aya': aya,
-        });
+
+        final front = row[frontColumn].toString().trim();
+        final back = row[backColumn].toString().trim();
+        final audioList = row[audioColumn].toString().trim();
+
+        final sura = (suraColumn != null && suraColumn < row.length) ? row[suraColumn].toString().trim() : null;
+        final aya = (ayaColumn != null && ayaColumn < row.length) ? row[ayaColumn].toString().trim() : null;
+
+        if (audioList.isEmpty) {
+          print('Warning: Row $i has no audio in column ${columns[audioColumn]}');
+          continue;
+        }
+
+        final audioFiles = audioList.split(';').map((s) => s.trim()).where((s) => s.isNotEmpty).toList();
+
+        for (final audioFile in audioFiles) {
+          final audioPath = _resolveAudioPath(resolvedMediaDir, audioFile);
+
+          if (!await File(audioPath).exists()) {
+            print('Warning: Audio file not found: $audioPath');
+            continue;
+          }
+          final resolvedAudioFile = path.basename(audioPath);
+          chapters.add({
+            'front': front.isEmpty ? back : front,
+            'back': back.isEmpty ? front : back,
+            'audioFile': resolvedAudioFile,
+            'sura': sura,
+            'aya': aya,
+          });
+
+          if (chapters.length >= maxNotes) break;
+        }
 
         if (chapters.length >= maxNotes) break;
       }
 
-      if (chapters.length >= maxNotes) break;
-    }
+      if (chapters.isEmpty) {
+        throw Exception('No valid chapters found.\nFront: ${columns[frontColumn]}\nBack: ${columns[backColumn]}\nAudio: ${columns[audioColumn]}');
+      }
 
-    if (chapters.isEmpty) {
-      throw Exception('No valid chapters found.\nFront: ${columns[frontColumn]}\nBack: ${columns[backColumn]}\nAudio: ${columns[audioColumn]}');
-    }
+      print('Found ${chapters.length} chapters to create');
+      onProgress('Processing ${chapters.length} chapters...', 0.2);
 
-    print('Found ${chapters.length} chapters to create');
-    onProgress('Processing ${chapters.length} chapters...', 0.2);
+      final totalChapters = chapters.length;
+      int numAudiobooks = 1;
+      int chaptersPerBook = totalChapters;
 
-    final totalChapters = chapters.length;
-    int numAudiobooks = 1;
-    int chaptersPerBook = totalChapters;
-
-    if (totalChapters > 999) {
-      numAudiobooks = ((totalChapters + 998) / 999).floor();
-      chaptersPerBook = ((totalChapters + numAudiobooks - 1) / numAudiobooks).floor();
-      onProgress(
-        'Creating $numAudiobooks audiobooks (about $chaptersPerBook chapters each)',
-        0.2
-      );
-    } else {
-      onProgress('Creating 1 audiobook', 0.2);
-    }
-
-    final now = DateTime.now();
-    final timestamp = '${now.year}_${now.month.toString().padLeft(2, '0')}_${now.day.toString().padLeft(2, '0')}_${now.hour.toString().padLeft(2, '0')}_${now.minute.toString().padLeft(2, '0')}_${now.second.toString().padLeft(2, '0')}';
-    final vttDir = Directory(path.join(outputDir, timestamp, 'vtt'));
-    await vttDir.create(recursive: true);
-
-    for (int i = 0; i < chapters.length; i++) {
-      final chapter = chapters[i];
-      final paddedNum = (i + 1).toString().padLeft(4, '0');
-      final chapterOutputPath = path.join(vttDir.path, '$paddedNum.opus');
-
-      onProgress('Repeating (${audioRepetitions}x) audio chapter ${i + 1}/${chapters.length}', 0.2 + (i / chapters.length) * 0.5);
-      final audioFile = chapter['audioFile'] as String;
-      final audioPath = _resolveAudioPath(resolvedMediaDir, audioFile);
-
-
-      if (audioRepetitions == 1) {
-        await _copyOrConvertAudio(audioPath, chapterOutputPath);
+      if (totalChapters > 999) {
+        numAudiobooks = ((totalChapters + 998) / 999).floor();
+        chaptersPerBook = ((totalChapters + numAudiobooks - 1) / numAudiobooks).floor();
+        onProgress(
+          'Creating $numAudiobooks audiobooks (about $chaptersPerBook chapters each)',
+          0.2,
+        );
       } else {
-        await _repeatAudio(audioPath, chapterOutputPath, audioRepetitions);
+        onProgress('Creating 1 audiobook', 0.2);
       }
 
-      final duration = await _ffmpeg.getAudioDuration(chapterOutputPath);
+      final now = DateTime.now();
+      final timestamp = '${now.year}_${now.month.toString().padLeft(2, '0')}_${now.day.toString().padLeft(2, '0')}_${now.hour.toString().padLeft(2, '0')}_${now.minute.toString().padLeft(2, '0')}_${now.second.toString().padLeft(2, '0')}';
+      final vttDir = Directory(path.join(outputDir, timestamp, 'vtt'));
+      await vttDir.create(recursive: true);
 
-      await _createVttFile(
-        vttPath: path.join(vttDir.path, '$paddedNum.vtt'),
-        front: chapter['front']!,
-        back: chapter['back']!,
-        duration: duration,
-        repetitions: audioRepetitions,
-        sura: chapter['sura'] as String?,
-        aya: chapter['aya'] as String?,
-      );
+      final cpuCount = Platform.numberOfProcessors;
+      final maxConcurrent = (cpuCount * 0.75).round().clamp(1, 8);
+      final semaphore = _Semaphore(maxConcurrent);
+      int completedRepeat = 0;
+      final repeatFutures = <Future>[];
 
-      await File(path.join(vttDir.path, '$paddedNum.back'))
-          .writeAsString(chapter['back']!);
-    }
+      for (int i = 0; i < chapters.length; i++) {
+        final chapter = chapters[i];
+        final paddedNum = (i + 1).toString().padLeft(4, '0');
+        final chapterOutputPath = path.join(vttDir.path, '$paddedNum.opus');
+        final audioFile = chapter['audioFile'] as String;
+        final audioPath = _resolveAudioPath(resolvedMediaDir, audioFile);
+        final chapterIndex = i;
 
-    onProgress('Encoding chapters to opus...', 0.7);
+        final future = semaphore.acquire().then((_) async {
+          try {
+            if (audioRepetitions == 1) {
+              await _copyOrConvertAudio(audioPath, chapterOutputPath);
+            } else {
+              await _repeatAudio(audioPath, chapterOutputPath, audioRepetitions);
+            }
 
-    final encodedDir = Directory(path.join(vttDir.path, 'output',
-        'chapters', 'encodedchapters'));
-    await encodedDir.create(recursive: true);
+            final duration = await _ffmpeg.getAudioDuration(chapterOutputPath);
 
-    final opusChapterFiles = vttDir
-        .listSync()
-        .where((e) => e is File && e.path.endsWith('.opus'))
-        .cast<File>()
-        .toList();
+            await _createVttFile(
+              vttPath: path.join(vttDir.path, '$paddedNum.vtt'),
+              front: chapter['front']!,
+              back: chapter['back']!,
+              duration: duration,
+              repetitions: audioRepetitions,
+              sura: chapter['sura'] as String?,
+              aya: chapter['aya'] as String?,
+            );
 
-    await _encodeToOpusParallel(
-      mp3Files: opusChapterFiles,
-      outputDir: encodedDir,
-      bitrate: bitrate,
-      onProgress: (current, total) {
-        onProgress('Encoding to opus $current/$total', 0.7 + (current / total) * 0.15);
-      },
-    );
+            await File(path.join(vttDir.path, '$paddedNum.back'))
+                .writeAsString(chapter['back']!);
 
-    for (final file in vttDir.listSync()) {
-      if (file is File && (file.path.endsWith('.vtt') || file.path.endsWith('.back'))) {
-        final basename = path.basename(file.path);
-        await file.copy(path.join(encodedDir.path, basename));
-      }
-    }
+            completedRepeat++;
+            onProgress(
+              'Repeating (${audioRepetitions}x) audio chapter $completedRepeat/${chapters.length}',
+              0.2 + (completedRepeat / chapters.length) * 0.5,
+            );
+          } finally {
+            semaphore.release();
+          }
+        });
 
-    final opusFiles = encodedDir
-        .listSync()
-        .where((e) => e is File && e.path.endsWith('.opus'))
-        .cast<File>()
-        .map((f) => f.path)
-        .toList()
-      ..sort();
-
-    if (opusFiles.isEmpty) {
-      throw Exception('No opus files found after encoding');
-    }
-
-    for (int audiobookNum = 1; audiobookNum <= numAudiobooks; audiobookNum++) {
-      final startChapter = (audiobookNum - 1) * chaptersPerBook;
-      var endChapter = startChapter + chaptersPerBook - 1;
-      if (endChapter >= totalChapters) {
-        endChapter = totalChapters - 1;
+        repeatFutures.add(future);
       }
 
-      final currentTitle = numAudiobooks > 1
-          ? '${title}_$audiobookNum'
-          : title;
+      await Future.wait(repeatFutures);
 
-      final audiobookOpusFiles = opusFiles.sublist(startChapter, endChapter + 1);
+      onProgress('Encoding chapters to opus...', 0.7);
 
-      final progressBase = 0.85 + ((audiobookNum - 1) / numAudiobooks) * 0.1;
-      final progressRange = 0.1 / numAudiobooks;
+      final encodedDir = Directory(path.join(vttDir.path, 'output', 'chapters', 'encodedchapters'));
+      await encodedDir.create(recursive: true);
 
-      onProgress(
-        numAudiobooks > 1
-            ? 'Creating audiobook $audiobookNum/$numAudiobooks: VTT subtitles...'
-            : 'Creating VTT subtitle file...',
-        progressBase
-      );
+      final opusChapterFiles = vttDir
+          .listSync()
+          .where((e) => e is File && e.path.endsWith('.opus'))
+          .cast<File>()
+          .toList()
+        ..sort((a, b) => a.path.compareTo(b.path));
 
-      final stitchedVttPath = path.join(outputDir, timestamp, '$author - $currentTitle.vtt');
-      await _stitchVttFiles(
-        encodedDir: encodedDir.path,
-        outputPath: stitchedVttPath,
-        opusFiles: audiobookOpusFiles,
-      );
-
-      onProgress(
-        numAudiobooks > 1
-            ? 'Creating audiobook $audiobookNum/$numAudiobooks: ${audiobookOpusFiles.length} chapters...'
-            : 'Creating final audiobook...',
-        progressBase + progressRange * 0.5
-      );
-
-      final finalAudiobookPath = path.join(outputDir, timestamp, '$author - $currentTitle.opus');
-      await _createFinalAudiobook(
-        encodedDir: encodedDir.path,
-        author: author,
-        title: currentTitle,
+      await _encodeToOpusParallel(
+        mp3Files: opusChapterFiles,
+        outputDir: encodedDir,
         bitrate: bitrate,
-        outputPath: finalAudiobookPath,
-        opusFiles: audiobookOpusFiles,
-        chapters: chapters,
-        startChapterIndex: startChapter,
-        audioRepetitions: audioRepetitions,
-        useFilenameAsChapterName: useFilenameAsChapterName,
+        onProgress: (current, total) {
+          onProgress('Encoding to opus $current/$total', 0.7 + (current / total) * 0.15);
+        },
       );
-    }
 
-    onProgress('Cleaning up temporary files...', 0.98);
-    try {
-      if (await vttDir.exists()) {
-        await vttDir.delete(recursive: true);
-        print('Deleted temporary vtt directory: ${vttDir.path}');
+      for (final file in vttDir.listSync()) {
+        if (file is File && (file.path.endsWith('.vtt') || file.path.endsWith('.back'))) {
+          final basename = path.basename(file.path);
+          await file.copy(path.join(encodedDir.path, basename));
+        }
       }
-    } catch (e) {
-      print('Warning: Could not delete vtt directory: $e');
-    }
 
-    await Future.delayed(const Duration(milliseconds: 100));
-    onProgress('Complete!', 1.0);
-  }
+      final opusFiles = encodedDir
+          .listSync()
+          .where((e) => e is File && e.path.endsWith('.opus'))
+          .cast<File>()
+          .map((f) => f.path)
+          .toList()
+        ..sort();
+
+      if (opusFiles.isEmpty) {
+        throw Exception('No opus files found after encoding');
+      }
+
+      for (int audiobookNum = 1; audiobookNum <= numAudiobooks; audiobookNum++) {
+        final startChapter = (audiobookNum - 1) * chaptersPerBook;
+        var endChapter = startChapter + chaptersPerBook - 1;
+        if (endChapter >= totalChapters) {
+          endChapter = totalChapters - 1;
+        }
+
+        final currentTitle = numAudiobooks > 1
+            ? '${title}_$audiobookNum'
+            : title;
+
+        final audiobookOpusFiles = opusFiles.sublist(startChapter, endChapter + 1);
+
+        final progressBase = 0.85 + ((audiobookNum - 1) / numAudiobooks) * 0.1;
+        final progressRange = 0.1 / numAudiobooks;
+
+        onProgress(
+          numAudiobooks > 1
+              ? 'Creating audiobook $audiobookNum/$numAudiobooks: VTT subtitles...'
+              : 'Creating VTT subtitle file...',
+          progressBase,
+        );
+
+        final stitchedVttPath = path.join(outputDir, timestamp, '$author - $currentTitle.vtt');
+        await _stitchVttFiles(
+          encodedDir: encodedDir.path,
+          outputPath: stitchedVttPath,
+          opusFiles: audiobookOpusFiles,
+        );
+
+        onProgress(
+          numAudiobooks > 1
+              ? 'Creating audiobook $audiobookNum/$numAudiobooks: ${audiobookOpusFiles.length} chapters...'
+              : 'Creating final audiobook...',
+          progressBase + progressRange * 0.5,
+        );
+
+        final finalAudiobookPath = path.join(outputDir, timestamp, '$author - $currentTitle.opus');
+        await _createFinalAudiobook(
+          encodedDir: encodedDir.path,
+          author: author,
+          title: currentTitle,
+          bitrate: bitrate,
+          outputPath: finalAudiobookPath,
+          opusFiles: audiobookOpusFiles,
+          chapters: chapters,
+          startChapterIndex: startChapter,
+          audioRepetitions: audioRepetitions,
+          useFilenameAsChapterName: useFilenameAsChapterName,
+        );
+      }
+
+      onProgress('Cleaning up temporary files...', 0.98);
+      try {
+        if (await vttDir.exists()) {
+          await vttDir.delete(recursive: true);
+          print('Deleted temporary vtt directory: ${vttDir.path}');
+        }
+      } catch (e) {
+        print('Warning: Could not delete vtt directory: $e');
+      }
+
+      await Future.delayed(const Duration(milliseconds: 100));
+      onProgress('Complete!', 1.0);
+    }
 
   Future<void> _copyOrConvertAudio(String inputPath, String outputPath) async {
       await _ffmpeg.ensureBinaries();
