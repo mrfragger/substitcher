@@ -40,6 +40,9 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
   late String? _primarySubtitle;
   late String? _secondarySubtitle;
   String? _lastVttShowPath;
+  final TextEditingController _searchController = TextEditingController();
+  final FocusNode _searchFocusNode = FocusNode();
+  String _searchQuery = '';
 
   @override
   void initState() {
@@ -47,6 +50,13 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
     _primarySubtitle = widget.primarySubtitle;
     _secondarySubtitle = widget.secondarySubtitle;
     _loadLastVttShow();
+  }
+
+  @override
+  void dispose() {
+    _searchController.dispose();
+    _searchFocusNode.dispose();
+    super.dispose();
   }
 
   Future<void> _loadLastVttShow() async {
@@ -424,73 +434,78 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
           widget.onSwap();
           return KeyEventResult.handled;
         }
+        if (event is KeyDownEvent &&
+            event.logicalKey == LogicalKeyboardKey.slash) {
+          _searchFocusNode.requestFocus();
+          return KeyEventResult.handled;
+        }
         return KeyEventResult.ignored;
       },
       child: Dialog(
         backgroundColor: const Color(0xFF1E1E1E),
         child: Container(
-          width: 800,
+          width: 960,
           padding: const EdgeInsets.all(24),
           child: Column(
             mainAxisSize: MainAxisSize.min,
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-            Row(
-              children: [
-                const Text(
-                  'Subtitle Manager',
-                  style: TextStyle(
-                    color: Colors.white,
-                    fontSize: 24,
-                    fontWeight: FontWeight.bold,
-                  ),
-                ),
-                const SizedBox(width: 16),
-                ElevatedButton.icon(
-                  onPressed: () => _createNewVttShow(context),
-                  icon: const Icon(Icons.add, size: 16),
-                  label: const Text('New VttShow'),
-                  style: ElevatedButton.styleFrom(
-                    backgroundColor: Colors.deepPurple,
-                    foregroundColor: Colors.white,
-                    padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
-                  ),
-                ),
-                const SizedBox(width: 8),
-                if (_lastVttShowPath != null)
-                  ElevatedButton.icon(
-                    onPressed: () async {
-                      if (!await File(_lastVttShowPath!).exists()) {
-                        if (context.mounted) {
-                          ScaffoldMessenger.of(context).showSnackBar(
-                            const SnackBar(
-                              content: Text('Last vttshow file no longer exists'),
-                              backgroundColor: Colors.red,
-                            ),
-                          );
-                        }
-                        return;
-                      }
-                      _loadVttShow(_lastVttShowPath!);
-                    },
-                    icon: const Icon(Icons.history, size: 16),
-                    label: Text(
-                      'Last: ${path.basename(_lastVttShowPath!)}',
-                      overflow: TextOverflow.ellipsis,
+              Row(
+                children: [
+                  const Text(
+                    'Subtitle Manager',
+                    style: TextStyle(
+                      color: Colors.white,
+                      fontSize: 24,
+                      fontWeight: FontWeight.bold,
                     ),
+                  ),
+                  const SizedBox(width: 16),
+                  ElevatedButton.icon(
+                    onPressed: () => _createNewVttShow(context),
+                    icon: const Icon(Icons.add, size: 16),
+                    label: const Text('New vttShow'),
                     style: ElevatedButton.styleFrom(
-                      backgroundColor: Colors.deepPurple.withValues(alpha: 0.5),
+                      backgroundColor: Colors.deepPurple,
                       foregroundColor: Colors.white,
                       padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
                     ),
                   ),
-                const Spacer(),
-                IconButton(
-                  icon: const Icon(Icons.close, color: Colors.white),
-                  onPressed: () => Navigator.pop(context),
-                ),
-              ],
-            ),
+                  const SizedBox(width: 8),
+                  if (_lastVttShowPath != null)
+                    ElevatedButton.icon(
+                      onPressed: () async {
+                        if (!await File(_lastVttShowPath!).exists()) {
+                          if (context.mounted) {
+                            ScaffoldMessenger.of(context).showSnackBar(
+                              const SnackBar(
+                                content: Text('Last vttshow file no longer exists'),
+                                backgroundColor: Colors.red,
+                              ),
+                            );
+                          }
+                          return;
+                        }
+                        _loadVttShow(_lastVttShowPath!);
+                      },
+                      icon: const Icon(Icons.history, size: 16),
+                      label: Text(
+                        'Last: ${path.basename(_lastVttShowPath!)}',
+                        overflow: TextOverflow.ellipsis,
+                      ),
+                      style: ElevatedButton.styleFrom(
+                        backgroundColor: Colors.deepPurple.withValues(alpha: 0.5),
+                        foregroundColor: Colors.white,
+                        padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                      ),
+                    ),
+                  const Spacer(),
+                  IconButton(
+                    icon: const Icon(Icons.close, color: Colors.white),
+                    onPressed: () => Navigator.pop(context),
+                  ),
+                ],
+              ),
               const SizedBox(height: 8),
               Row(
                 children: [
@@ -707,13 +722,20 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
               const SizedBox(height: 24),
               Row(
                 children: [
-                  const Text(
-                    'Available Subtitles',
-                    style: TextStyle(color: Colors.white, fontSize: 18, fontWeight: FontWeight.bold),
+                  Text(
+                    _searchQuery.isEmpty
+                        ? 'Available Subtitles (${widget.availableSubtitles.length})'
+                        : 'Available Subtitles (${widget.availableSubtitles.where((sub) {
+                            final parts = sub.split(Platform.pathSeparator);
+                            final language = parts.length >= 2 ? parts[parts.length - 2].toLowerCase() : '';
+                            final fileName = parts.last.toLowerCase();
+                            return language.contains(_searchQuery) || fileName.contains(_searchQuery);
+                          }).length} of ${widget.availableSubtitles.length})',
+                    style: const TextStyle(color: Colors.white, fontSize: 18, fontWeight: FontWeight.bold),
                   ),
                   const SizedBox(width: 16),
                   Tooltip(
-                    message: 'Splits lines with characters over 160 (1/2) , 240 (1/3), 320 (1/4), 400 (1/5), 480 (1/6) and duration.',
+                    message: 'Splits lines with characters over 160 (1/2), 240 (1/3), 320 (1/4), 400 (1/5), 480 (1/6) and duration.',
                     child: ElevatedButton.icon(
                       onPressed: _primarySubtitle != null ? () => _splitLongSubs(context) : null,
                       icon: const Icon(Icons.call_split, size: 16),
@@ -725,78 +747,140 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
                       ),
                     ),
                   ),
+                  const SizedBox(width: 16),
+                  Expanded(
+                    child: TextField(
+                      controller: _searchController,
+                      focusNode: _searchFocusNode,
+                      autofocus: false,
+                      style: const TextStyle(color: Colors.white),
+                      decoration: InputDecoration(
+                        hintText: '/ Search language…',
+                        hintStyle: const TextStyle(color: Colors.white38),
+                        prefixIcon: const Icon(Icons.search, color: Colors.white38),
+                        suffixIcon: _searchQuery.isNotEmpty
+                            ? IconButton(
+                                icon: const Icon(Icons.clear, color: Colors.white38),
+                                onPressed: () {
+                                  _searchController.clear();
+                                  setState(() => _searchQuery = '');
+                                },
+                              )
+                            : null,
+                        filled: true,
+                        fillColor: Colors.black26,
+                        border: OutlineInputBorder(
+                          borderRadius: BorderRadius.circular(8),
+                          borderSide: BorderSide.none,
+                        ),
+                        contentPadding: const EdgeInsets.symmetric(vertical: 8),
+                      ),
+                      onChanged: (val) => setState(() => _searchQuery = val.trim().toLowerCase()),
+                    ),
+                  ),
                 ],
               ),
               const SizedBox(height: 12),
-              Flexible(
-                child: Container(
-                  constraints: const BoxConstraints(maxHeight: 300),
-                  decoration: BoxDecoration(
-                    color: Colors.black26,
-                    borderRadius: BorderRadius.circular(8),
-                  ),
-                  child: ListView.builder(
-                    shrinkWrap: true,
-                    itemCount: widget.availableSubtitles.length,
-                    itemBuilder: (context, index) {
-                      final subtitle = widget.availableSubtitles[index];
-                      final fileName = path.basename(subtitle);
-                      final isPrimary = subtitle == _primarySubtitle;
-                      final isSecondary = subtitle == _secondarySubtitle;
+              Builder(
+                builder: (context) {
+                  final filtered = widget.availableSubtitles.where((sub) {
+                    if (_searchQuery.isEmpty) return true;
+                    final parts = sub.split(Platform.pathSeparator);
+                    final language = parts.length >= 2 ? parts[parts.length - 2].toLowerCase() : '';
+                    final fileName = parts.last.toLowerCase();
+                    return language.contains(_searchQuery) || fileName.contains(_searchQuery);
+                  }).toList();
 
-                      return ListTile(
-                        title: Text(
-                          fileName,
-                          style: TextStyle(
-                            color: isPrimary ? Colors.blue :
-                                   isSecondary ? Colors.orange :
-                                   Colors.white,
-                            fontWeight: isPrimary || isSecondary ? FontWeight.bold : FontWeight.normal,
-                          ),
-                        ),
-                        trailing: Row(
-                          mainAxisSize: MainAxisSize.min,
-                          children: [
-                            if (isPrimary)
-                              Container(
-                                padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
-                                decoration: BoxDecoration(
-                                  color: Colors.blue,
-                                  borderRadius: BorderRadius.circular(4),
+                  return Flexible(
+                    child: Container(
+                      constraints: const BoxConstraints(maxHeight: 300),
+                      decoration: BoxDecoration(
+                        color: Colors.black26,
+                        borderRadius: BorderRadius.circular(8),
+                      ),
+                      child: filtered.isEmpty
+                          ? const Center(
+                              child: Padding(
+                                padding: EdgeInsets.all(24),
+                                child: Text(
+                                  'No subtitles match',
+                                  style: TextStyle(color: Colors.white38),
                                 ),
-                                child: const Text('PRIMARY', style: TextStyle(color: Colors.white, fontSize: 10)),
                               ),
-                            if (isSecondary)
-                              Container(
-                                padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
-                                decoration: BoxDecoration(
-                                  color: Colors.orange,
-                                  borderRadius: BorderRadius.circular(4),
-                                ),
-                                child: const Text('SECONDARY', style: TextStyle(color: Colors.white, fontSize: 10)),
-                              ),
-                            if (!isPrimary && !isSecondary) ...[
-                              TextButton(
-                                onPressed: () {
-                                  setState(() => _primarySubtitle = subtitle);
-                                  widget.onPrimarySelected(subtitle);
-                                },
-                                child: const Text('Primary'),
-                              ),
-                              TextButton(
-                                onPressed: () {
-                                  setState(() => _secondarySubtitle = subtitle);
-                                  widget.onSecondarySelected(subtitle);
-                                },
-                                child: const Text('Secondary'),
-                              ),
-                            ],
-                          ],
-                        ),
-                      );
-                    },
-                  ),
-                ),
+                            )
+                          : ListView.builder(
+                              shrinkWrap: true,
+                              itemCount: filtered.length,
+                              itemBuilder: (context, index) {
+                                final subtitle = filtered[index];
+                                final parts = subtitle.split(Platform.pathSeparator);
+                                final displayName = parts.length >= 2
+                                    ? '${parts[parts.length - 2]} / ${parts.last}'
+                                    : parts.last;
+                                final isPrimary = subtitle == _primarySubtitle;
+                                final isSecondary = subtitle == _secondarySubtitle;
+
+                                return ListTile(
+                                  title: Text(
+                                    displayName,
+                                    style: TextStyle(
+                                      color: isPrimary
+                                          ? Colors.blue
+                                          : isSecondary
+                                              ? Colors.orange
+                                              : Colors.white,
+                                      fontWeight: isPrimary || isSecondary
+                                          ? FontWeight.bold
+                                          : FontWeight.normal,
+                                    ),
+                                  ),
+                                  trailing: Row(
+                                    mainAxisSize: MainAxisSize.min,
+                                    children: [
+                                      if (isPrimary)
+                                        Container(
+                                          padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+                                          decoration: BoxDecoration(
+                                            color: Colors.blue,
+                                            borderRadius: BorderRadius.circular(4),
+                                          ),
+                                          child: const Text('PRIMARY',
+                                              style: TextStyle(color: Colors.white, fontSize: 10)),
+                                        ),
+                                      if (isSecondary)
+                                        Container(
+                                          padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+                                          decoration: BoxDecoration(
+                                            color: Colors.orange,
+                                            borderRadius: BorderRadius.circular(4),
+                                          ),
+                                          child: const Text('SECONDARY',
+                                              style: TextStyle(color: Colors.white, fontSize: 10)),
+                                        ),
+                                      if (!isPrimary && !isSecondary) ...[
+                                        TextButton(
+                                          onPressed: () {
+                                            setState(() => _primarySubtitle = subtitle);
+                                            widget.onPrimarySelected(subtitle);
+                                          },
+                                          child: const Text('Primary'),
+                                        ),
+                                        TextButton(
+                                          onPressed: () {
+                                            setState(() => _secondarySubtitle = subtitle);
+                                            widget.onSecondarySelected(subtitle);
+                                          },
+                                          child: const Text('Secondary'),
+                                        ),
+                                      ],
+                                    ],
+                                  ),
+                                );
+                              },
+                            ),
+                    ),
+                  );
+                },
               ),
             ],
           ),

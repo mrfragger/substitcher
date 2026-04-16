@@ -652,10 +652,6 @@ class PlayerControls extends StatelessWidget {
               child: Text('Blur on/off 2x cpu (Ctrl+b)'),
             ),
             const PopupMenuItem(
-              value: 'useBlurShadow',
-              child: Text('Blur on/off 2x cpu (Ctrl+b)'),
-            ),
-            const PopupMenuItem(
               value: 'useBlackFont',
               child: Text('Black/White/original Font (⇧B)'),
             ),

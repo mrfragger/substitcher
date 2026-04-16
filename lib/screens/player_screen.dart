@@ -1023,8 +1023,8 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       }
     }
 
-    final dir = Directory(audiobookDir);
-    await for (final entity in dir.list()) {
+    final audiobookDirEntity = Directory(audiobookDir);
+    await for (final entity in audiobookDirEntity.list()) {
       if (entity is File) {
         final name = path.basename(entity.path);
         if (name.startsWith(audiobookBase)) {
@@ -1038,7 +1038,65 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       }
     }
 
-    subtitleFiles.sort((a, b) => path.basename(a).compareTo(path.basename(b)));
+
+    await for (final entity in audiobookDirEntity.list(followLinks: false)) {
+      if (entity is Directory) {
+        if (entity.path == vttDir) continue;
+
+        bool foundTwoLevel = false;
+
+        await for (final subEntity in entity.list(followLinks: false)) {
+          if (subEntity is Directory) {
+            await for (final file in subEntity.list(followLinks: false)) {
+              if (file is File) {
+                final ext = path.extension(file.path).toLowerCase();
+                if (ext != '.vtt' && ext != '.srt') continue;
+                final baseName = path.basenameWithoutExtension(file.path);
+                if (baseName == audiobookBase) {
+                  if (!subtitleFiles.contains(file.path)) {
+                    subtitleFiles.add(file.path);
+                    foundTwoLevel = true;
+                  }
+                }
+              }
+            }
+          }
+        }
+
+        if (!foundTwoLevel) {
+          await for (final file in entity.list(followLinks: false)) {
+            if (file is File) {
+              final ext = path.extension(file.path).toLowerCase();
+              if (ext != '.vtt' && ext != '.srt') continue;
+              final baseName = path.basenameWithoutExtension(file.path);
+              if (baseName == audiobookBase) {
+                if (!subtitleFiles.contains(file.path)) {
+                  subtitleFiles.add(file.path);
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+
+      subtitleFiles.sort((a, b) {
+        final aParentDir = path.dirname(a);
+        final bParentDir = path.dirname(b);
+        final aIsSameDir = aParentDir == audiobookDir;
+        final bIsSameDir = bParentDir == audiobookDir;
+
+        if (aIsSameDir && !bIsSameDir) return -1;
+        if (!aIsSameDir && bIsSameDir) return 1;
+
+        final aParts = a.split(Platform.pathSeparator);
+        final bParts = b.split(Platform.pathSeparator);
+        final aParent = aParts.length >= 2 ? aParts[aParts.length - 2].toLowerCase() : '';
+        final bParent = bParts.length >= 2 ? bParts[bParts.length - 2].toLowerCase() : '';
+        final parentCmp = aParent.compareTo(bParent);
+        if (parentCmp != 0) return parentCmp;
+        return path.basename(a).toLowerCase().compareTo(path.basename(b).toLowerCase());
+      });
 
     setState(() {
       _availableSubtitles = subtitleFiles;

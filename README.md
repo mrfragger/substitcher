@@ -53,6 +53,10 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 - search foreign language subtitles
 - blur shadow (uses 2x cpu usage) but dims it a bit
 - font size ↑/↓ or Alt⌥+↑/↓ ...use later shortcuts when Font/Colors panel is open
+- vtt subs one or two levels deep and it'll find matching vtt subs to the loaded audiobook
+- example 1 level Bengali/Quran Arabic - 016-024 Tunaiji Verse by Verse.vtt
+- example 2 level Quran Arabic - Tunaiji Verse by Verse Translations_vtt/Bengali/Quran Arabic - 016-024 Tunaiji Verse by Verse.vtt
+
 
 ![](images/japanese.gif)
 
