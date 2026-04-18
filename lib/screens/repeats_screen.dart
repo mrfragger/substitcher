@@ -69,146 +69,146 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
     final result = <String>[];
     final fixedLinePairs = <Map<String, int>>[];
     int fixCount = 0;
-    
+
     for (int i = 0; i < lines.length; i++) {
       String line = lines[i];
-      
-      if (line.trim().isNotEmpty && 
-          !line.contains('-->') && 
+
+      if (line.trim().isNotEmpty &&
+          !line.contains('-->') &&
           !RegExp(r'^\d+$').hasMatch(line.trim())) {
-        
+
         // Pattern 1: Ends with sallallahu/salallahu (with optional alayhi/alaihi)
         final endsWithSallallahu = RegExp(
           r"(sallallahu|salallahu|sal\s+allahu|salla\s+allahu|shallallahu)(\s+(alayhi|alaihi|'alayhi))?\s*$",
           caseSensitive: false,
         );
-        
+
         // Pattern 2: Ends with "alayhi wa" or "alaihi wa"
         final endsWithAlayhiWa = RegExp(
           r"(sallallahu|salallahu|sal\s+allahu|salla\s+allahu|shallallahu)\s+(alayhi|alaihi|'alayhi)\s+wa\s*$",
           caseSensitive: false,
         );
-        
+
         // Pattern 3: Ends with just "alayhi" or "alaihi" (after previous line had sallallahu)
         final endsWithAlayhi = RegExp(
           r"\s+(alayhi|alaihi|'alayhi)\s*$",
           caseSensitive: false,
         );
-        
+
         // Pattern 4: Ends with subhanahu
         final endsWithSubhanahu = RegExp(
           r'(Allah|allah)\s+(subhanahu|Subhanahu)\s*$',
           caseSensitive: false,
         );
-        
+
         var sallallahuMatch = endsWithSallallahu.firstMatch(line);
         var alayhiWaMatch = endsWithAlayhiWa.firstMatch(line);
         var alayhiMatch = endsWithAlayhi.firstMatch(line);
         var subhanahuMatch = endsWithSubhanahu.firstMatch(line);
-        
+
         if (sallallahuMatch != null || alayhiWaMatch != null || alayhiMatch != null || subhanahuMatch != null) {
           for (int j = i + 1; j < lines.length; j++) {
             String nextLine = lines[j];
-            
+
             if (nextLine.trim().isEmpty || nextLine.contains('-->') || RegExp(r'^\d+$').hasMatch(nextLine.trim())) {
               continue;
             }
-            
+
             // Handle sallallahu pattern - next line might have: alayhi wasallam, wasallam, alaihi wasallam, etc.
             if (sallallahuMatch != null) {
               final startsWithRest = RegExp(
                 r"^\s*((alayhi|alaihi|'alayhi)\s+)?(wa\s*)?(sallam|salaam|salam|wasallam|wasalam)",
                 caseSensitive: false,
               );
-              
+
               final nextMatch = startsWithRest.firstMatch(nextLine);
-              
+
               if (nextMatch != null) {
                 line = line.replaceAll(endsWithSallallahu, 'ﷺ ');
-                
+
                 final leadingSpace = RegExp(r'^\s+').firstMatch(nextLine)?.group(0) ?? '';
                 lines[j] = leadingSpace + nextLine.replaceFirst(startsWithRest, '').trimLeft();
-                
+
                 fixedLinePairs.add({'first': i, 'second': j});
                 fixCount++;
                 break;
               }
             }
-            
+
             // Handle "alayhi wa" pattern - next line should start with sallam
             if (alayhiWaMatch != null) {
               final startsWithSallam = RegExp(
                 r"^\s*(sallam|salaam|salam|wasallam|wasalam)",
                 caseSensitive: false,
               );
-              
+
               final nextMatch = startsWithSallam.firstMatch(nextLine);
-              
+
               if (nextMatch != null) {
                 line = line.replaceAll(endsWithAlayhiWa, 'ﷺ ');
-                
+
                 final leadingSpace = RegExp(r'^\s+').firstMatch(nextLine)?.group(0) ?? '';
                 lines[j] = leadingSpace + nextLine.replaceFirst(startsWithSallam, '').trimLeft();
-                
+
                 fixedLinePairs.add({'first': i, 'second': j});
                 fixCount++;
                 break;
               }
             }
-            
+
             // Handle standalone "alayhi" at end - next line might have "wasallam"
             if (alayhiMatch != null) {
               final startsWithWasallam = RegExp(
                 r"^\s*(wa\s*)?(sallam|salaam|salam|wasallam|wasalam)",
                 caseSensitive: false,
               );
-              
+
               final nextMatch = startsWithWasallam.firstMatch(nextLine);
-              
+
               if (nextMatch != null) {
                 line = line.replaceAll(endsWithAlayhi, ' ﷺ ');
-                
+
                 final leadingSpace = RegExp(r'^\s+').firstMatch(nextLine)?.group(0) ?? '';
                 lines[j] = leadingSpace + nextLine.replaceFirst(startsWithWasallam, '').trimLeft();
-                
+
                 fixedLinePairs.add({'first': i, 'second': j});
                 fixCount++;
                 break;
               }
             }
-            
+
             // Handle subhanahu pattern
             if (subhanahuMatch != null) {
               final startsWithWaTaala = RegExp(
                 r"^\s*(wa\s+)?(ta'ala|taala|Ta'ala|Taala)",
                 caseSensitive: false,
               );
-              
+
               final nextMatch = startsWithWaTaala.firstMatch(nextLine);
-              
+
               if (nextMatch != null) {
                 line = line.replaceAll(endsWithSubhanahu, 'Allah ﷾ ');
-                
+
                 final leadingSpace = RegExp(r'^\s+').firstMatch(nextLine)?.group(0) ?? '';
                 lines[j] = leadingSpace + nextLine.replaceFirst(startsWithWaTaala, '').trimLeft();
-                
+
                 fixedLinePairs.add({'first': i, 'second': j});
                 fixCount++;
                 break;
               }
             }
-            
+
             break;
           }
         }
       }
-      
+
       result.add(line);
     }
-    
+
     _debugInfo = 'Cross-subtitle honorific fixes: $fixCount';
     print(_debugInfo);
-    
+
     return {
       'content': result.join('\n'),
       'fixedLinePairs': fixedLinePairs,
@@ -216,157 +216,252 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
     };
   }
 
- Future<void> _processVttFile() async {
-   if (_selectedVttPath == null) {
-     setState(() {
-       _statusMessage = 'Please select a VTT file first';
-     });
-     return;
-   }
- 
-   setState(() {
-     _isProcessing = true;
-     _statusMessage = 'Step 1/4: Removing repeating words...';
-   });
- 
-   try {
-     final file = File(_selectedVttPath!);
-     final originalContent = await file.readAsString();
-     String content = originalContent;
- 
-     for (final word in _preserveWords) {
-       content = content.replaceAll(
-         RegExp(word['pattern']!, caseSensitive: false),
-         word['temp']!,
-       );
-     }
- 
-     bool foundRepeats = true;
-     int maxIterations = 20;
-     int iterations = 0;
-     
-     while (foundRepeats && iterations < maxIterations) {
-       final beforePass = content;
-       
-       content = content.replaceAllMapped(
-         RegExp(r'(\s|^)(\w+)(\s)\2(\s|$)', caseSensitive: false),
-         (match) {
-           return '${match.group(1)}${match.group(2)}${match.group(4)}';
-         },
-       );
-       
-       foundRepeats = (content != beforePass);
-       iterations++;
-     }
+  Future<String> _processVttContent(String originalContent, String baseName, String dir) async {
+    String content = _normalizeBlankLines(originalContent);
 
-     _iterationCount = iterations;
- 
-     for (final word in _preserveWords) {
-       content = content.replaceAll(word['temp']!, word['restore']!);
-     }
- 
-     content = _removeEmptyLines(content);
-     
-     final dir = path.dirname(_selectedVttPath!);
-     final baseName = path.basenameWithoutExtension(_selectedVttPath!);
-     final repeatsPath = path.join(dir, '${baseName}_repeats.vtt');
-     
-     await File(repeatsPath).writeAsString(content);
-     
-     setState(() {
-       _statusMessage = 'Step 2/4: Fixing cross-subtitle honorifics...';
-     });
-     
-     final beforeHonorifics = content;
-     final honorificResult = _fixCrossSubtitleHonorifics(content);
-     content = honorificResult['content'] as String;
-     final fixedLinePairs = honorificResult['fixedLinePairs'] as List<Map<String, int>>;
-     
-     setState(() {
-       _statusMessage = 'Step 3/4: Applying single-line honorifics...';
-     });
-     
-     final beforeSingleLine = content;
-     content = _applySingleLineHonorifics(content);
-     
-     setState(() {
-       _statusMessage = 'Step 4/4: Capitalizing proper nouns...';
-     });
-     
-     final beforeProperNouns = content;
-     content = _capitalizeProperNouns(content);
-     content = _capitalizeSentenceStarts(content);
-     
-     final outputPath = path.join(dir, '${baseName}_propernoun.vtt');
-     await File(outputPath).writeAsString(content);
-     
-     final repeatsHtmlPath = path.join(dir, '${baseName}_repeats_changes.html');
-     await _generateDiffHtml('Repeats Removed', originalContent, beforeHonorifics, repeatsHtmlPath);
-     
-     final honorificsHtmlPath = path.join(dir, '${baseName}_honorifics_changes.html');
-     await _generateDiffHtml('Cross-Subtitle Honorific Fixes', beforeHonorifics, beforeSingleLine, honorificsHtmlPath, fixedLinePairs: fixedLinePairs);
-     
-     final singleLineHtmlPath = path.join(dir, '${baseName}_singleline_honorifics.html');
-     await _generateDiffHtml('Single-Line Honorifics', beforeSingleLine, beforeProperNouns, singleLineHtmlPath);
-     
-     final properNounsHtmlPath = path.join(dir, '${baseName}_propernoun_changes.html');
-     await _generateDiffHtml('Proper Nouns Capitalized', beforeProperNouns, content, properNounsHtmlPath);
- 
-     await Future.delayed(const Duration(milliseconds: 100));
-     
-     final repeatsChanges = _countHtmlChanges(repeatsHtmlPath);
-     final singleLineChanges = _countHtmlChanges(singleLineHtmlPath);
-     final honorificsChanges = _countHtmlChanges(honorificsHtmlPath);
-     final properNounChanges = _countHtmlChanges(properNounsHtmlPath);
-     final totalChanges = repeatsChanges + singleLineChanges + honorificsChanges + properNounChanges;
- 
-     setState(() {
-       _isProcessing = false;
-       _outputPath = outputPath;
-       _statusMessage = 'Success! Created:\n'
-           '1. ${path.basename(repeatsPath)}\n'
-           '2. ${path.basename(outputPath)}\n'
-           '3. ${path.basename(repeatsHtmlPath)}\n'
-           '4. ${path.basename(singleLineHtmlPath)}\n'
-           '5. ${path.basename(honorificsHtmlPath)}\n'
-           '6. ${path.basename(properNounsHtmlPath)}\n\n'
-           'Repeats removed: $repeatsChanges changes ($iterations passes)\n'
-           'Single-line honorifics: $singleLineChanges changes\n'
-           'Cross-subtitle honorifics: $honorificsChanges changes\n'
-           'Proper nouns: $properNounChanges changes\n'
-           'Total changes: $totalChanges';
-     });
- 
-     if (mounted) {
-       ScaffoldMessenger.of(context).showSnackBar(
-         SnackBar(
-           content: Text(
-               'Processing complete!\n'
-               'Repeats: $repeatsChanges, Single-line: $singleLineChanges, Cross-subtitle: $honorificsChanges, Proper nouns: $properNounChanges\n'
-               'Total: $totalChanges changes\n'
-               'HTML reports generated'),
-           duration: const Duration(seconds: 4),
-           backgroundColor: Colors.green,
-         ),
-       );
-     }
-   } catch (e) {
-     setState(() {
-       _isProcessing = false;
-       _statusMessage = 'Error: $e';
-     });
- 
-     if (mounted) {
-       ScaffoldMessenger.of(context).showSnackBar(
-         SnackBar(
-           content: Text('Error processing file: $e'),
-           backgroundColor: Colors.red,
-         ),
-       );
-     }
-   }
- }
- 
+    final subDir = path.join(dir, '${baseName}_vtt');
+    await Directory(subDir).create(recursive: true);
+
+    final beforeZeroDuration = content;
+    content = _fixZeroDurationSubtitles(content);
+    final afterZeroDuration = content;
+
+    for (final word in _preserveWords) {
+      content = content.replaceAll(
+        RegExp(word['pattern']!, caseSensitive: false),
+        word['temp']!,
+      );
+    }
+
+    bool foundRepeats = true;
+    int maxIterations = 20;
+    int iterations = 0;
+
+    while (foundRepeats && iterations < maxIterations) {
+      final beforePass = content;
+      content = content.replaceAllMapped(
+        RegExp(r'(\s|^)(\w+)(\s)\2(\s|$)', caseSensitive: false),
+        (match) {
+          return '${match.group(1)}${match.group(2)}${match.group(4)}';
+        },
+      );
+      foundRepeats = (content != beforePass);
+      iterations++;
+    }
+
+    _iterationCount = iterations;
+
+    for (final word in _preserveWords) {
+      content = content.replaceAll(word['temp']!, word['restore']!);
+    }
+
+    content = _removeEmptyLines(content);
+
+    final repeatsPath = path.join(subDir, '${baseName}_repeats.vtt');
+    await File(repeatsPath).writeAsString(content);
+
+    final beforeHonorifics = content;
+    final honorificResult = _fixCrossSubtitleHonorifics(content);
+    content = honorificResult['content'] as String;
+    final fixedLinePairs = honorificResult['fixedLinePairs'] as List<Map<String, int>>;
+
+    final beforeSingleLine = content;
+    content = _applySingleLineHonorifics(content);
+
+    final beforeProperNouns = content;
+    content = _capitalizeProperNouns(content);
+    content = _capitalizeSentenceStarts(content);
+
+    final outputPath = path.join(subDir, '${baseName}_propernoun.vtt');
+    await File(outputPath).writeAsString(content);
+
+    final zeroDurationHtmlPath = path.join(subDir, '${baseName}_zeroduration_changes.html');
+    await _generateDiffHtml('Zero-Duration Fixes', beforeZeroDuration, afterZeroDuration, zeroDurationHtmlPath);
+
+    final repeatsHtmlPath = path.join(subDir, '${baseName}_repeats_changes.html');
+    await _generateDiffHtml('Repeats Removed', originalContent, beforeHonorifics, repeatsHtmlPath);
+
+    final honorificsHtmlPath = path.join(subDir, '${baseName}_honorifics_changes.html');
+    await _generateDiffHtml('Cross-Subtitle Honorific Fixes', beforeHonorifics, beforeSingleLine, honorificsHtmlPath, fixedLinePairs: fixedLinePairs);
+
+    final singleLineHtmlPath = path.join(subDir, '${baseName}_singleline_honorifics.html');
+    await _generateDiffHtml('Single-Line Honorifics', beforeSingleLine, beforeProperNouns, singleLineHtmlPath);
+
+    final properNounsHtmlPath = path.join(subDir, '${baseName}_propernoun_changes.html');
+    await _generateDiffHtml('Proper Nouns Capitalized', beforeProperNouns, content, properNounsHtmlPath);
+
+    return outputPath;
+  }
+
+  Future<void> _processVttFile() async {
+    if (_selectedVttPath == null) {
+      setState(() {
+        _statusMessage = 'Please select a VTT file first';
+      });
+      return;
+    }
+
+    setState(() {
+      _isProcessing = true;
+      _statusMessage = 'Step 1/5: Fixing zero-duration subtitles...';
+    });
+
+    try {
+      final file = File(_selectedVttPath!);
+      final originalContent = await file.readAsString();
+      final dir = path.dirname(_selectedVttPath!);
+      final baseName = path.basenameWithoutExtension(_selectedVttPath!);
+
+      final outputPath = await _processVttContent(originalContent, baseName, dir);
+
+      final subDir = path.join(dir, '${baseName}_vtt');
+      final zeroDurationHtmlPath = path.join(subDir, '${baseName}_zeroduration_changes.html');
+      final repeatsHtmlPath = path.join(subDir, '${baseName}_repeats_changes.html');
+      final singleLineHtmlPath = path.join(subDir, '${baseName}_singleline_honorifics.html');
+      final honorificsHtmlPath = path.join(subDir, '${baseName}_honorifics_changes.html');
+      final properNounsHtmlPath = path.join(subDir, '${baseName}_propernoun_changes.html');
+
+      await Future.delayed(const Duration(milliseconds: 100));
+
+      final zeroDurationChanges = _countHtmlChanges(zeroDurationHtmlPath);
+      final repeatsChanges = _countHtmlChanges(repeatsHtmlPath);
+      final singleLineChanges = _countHtmlChanges(singleLineHtmlPath);
+      final honorificsChanges = _countHtmlChanges(honorificsHtmlPath);
+      final properNounChanges = _countHtmlChanges(properNounsHtmlPath);
+      final totalChanges = zeroDurationChanges + repeatsChanges + singleLineChanges + honorificsChanges + properNounChanges;
+
+      setState(() {
+        _isProcessing = false;
+        _outputPath = outputPath;
+        _statusMessage = 'Success! Output in: ${path.basename(subDir)}/\n\n'
+            'Zero-duration fixes: $zeroDurationChanges changes\n'
+            'Repeats removed: $repeatsChanges changes ($_iterationCount passes)\n'
+            'Single-line honorifics: $singleLineChanges changes\n'
+            'Cross-subtitle honorifics: $honorificsChanges changes\n'
+            'Proper nouns: $properNounChanges changes\n'
+            'Total changes: $totalChanges';
+      });
+
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            content: Text('Processing complete! Total: $totalChanges changes'),
+            duration: const Duration(seconds: 4),
+            backgroundColor: Colors.green,
+          ),
+        );
+      }
+    } catch (e) {
+      setState(() {
+        _isProcessing = false;
+        _statusMessage = 'Error: $e';
+      });
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            content: Text('Error processing file: $e'),
+            backgroundColor: Colors.red,
+          ),
+        );
+      }
+    }
+  }
+
+  Future<void> _batchProcessDirectory() async {
+    final result = await FilePicker.platform.getDirectoryPath(
+      dialogTitle: 'Select directory containing VTT files',
+    );
+
+    if (result == null) return;
+
+    setState(() {
+      _isProcessing = true;
+      _statusMessage = 'Scanning for VTT files...';
+    });
+
+    try {
+      final dir = Directory(result);
+      final vttFiles = dir
+          .listSync(recursive: false)
+          .whereType<File>()
+          .where((f) => path.extension(f.path).toLowerCase() == '.vtt')
+          .toList();
+
+      if (vttFiles.isEmpty) {
+        setState(() {
+          _isProcessing = false;
+          _statusMessage = 'No VTT files found in selected directory.';
+        });
+        return;
+      }
+
+      int totalFiles = vttFiles.length;
+      int processed = 0;
+      int totalChanges = 0;
+      final errors = <String>[];
+
+      for (final file in vttFiles) {
+        final baseName = path.basenameWithoutExtension(file.path);
+        final fileDir = path.dirname(file.path);
+
+        setState(() {
+          _statusMessage = 'Processing ${processed + 1}/$totalFiles: $baseName...';
+        });
+
+        try {
+          final originalContent = await file.readAsString();
+          await _processVttContent(originalContent, baseName, fileDir);
+
+          final subDir = path.join(fileDir, '${baseName}_vtt');
+          final zeroDurationChanges = _countHtmlChanges(path.join(subDir, '${baseName}_zeroduration_changes.html'));
+          final repeatsChanges = _countHtmlChanges(path.join(subDir, '${baseName}_repeats_changes.html'));
+          final singleLineChanges = _countHtmlChanges(path.join(subDir, '${baseName}_singleline_honorifics.html'));
+          final honorificsChanges = _countHtmlChanges(path.join(subDir, '${baseName}_honorifics_changes.html'));
+          final properNounChanges = _countHtmlChanges(path.join(subDir, '${baseName}_propernoun_changes.html'));
+          totalChanges += zeroDurationChanges + repeatsChanges + singleLineChanges + honorificsChanges + properNounChanges;
+
+          processed++;
+        } catch (e) {
+          errors.add('$baseName: $e');
+          processed++;
+        }
+      }
+
+      setState(() {
+        _isProcessing = false;
+        _statusMessage = 'Batch complete!\n'
+            'Processed: $processed/$totalFiles files\n'
+            'Total changes across all files: $totalChanges'
+            '${errors.isNotEmpty ? '\n\nErrors:\n${errors.join('\n')}' : ''}';
+      });
+
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            content: Text('Batch complete! $processed files, $totalChanges total changes'),
+            duration: const Duration(seconds: 4),
+            backgroundColor: errors.isNotEmpty ? Colors.orange : Colors.green,
+          ),
+        );
+      }
+    } catch (e) {
+      setState(() {
+        _isProcessing = false;
+        _statusMessage = 'Batch error: $e';
+      });
+    }
+  }
+
+  String _normalizeBlankLines(String content) {
+    content = content.replaceAll('\r\n', '\n').replaceAll('\r', '\n');
+
+    content = content.replaceAll(RegExp(r'\n{3,}'), '\n\n');
+
+    content = content.split('\n').map((line) => line.trimRight()).join('\n');
+
+    return content.trim();
+  }
+
  String _applySingleLineHonorifics(String content) {
    final honorificPatterns = [
      // Longest patterns first
@@ -466,14 +561,14 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
      r'alayhi salam',
      r'alayhi as-salam',
    ];
- 
+
    for (final pattern in honorificPatterns) {
      content = content.replaceAll(
        RegExp(r'\b' + pattern + r'\b', caseSensitive: false),
        ' ﷺ ',
      );
    }
- 
+
    return content;
  }
 
@@ -491,34 +586,34 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
     int _getIterationCount() {
       return _iterationCount;
     }
-  
+
   String _removeEmptyLines(String content) {
     final lines = content.split('\n');
     final output = <String>[];
-    
+
     for (int i = 0; i < lines.length; i++) {
       final line = lines[i];
-      
-      if (line.trim().isNotEmpty || 
+
+      if (line.trim().isNotEmpty ||
           (i + 1 < lines.length && lines[i + 1].trim().isNotEmpty)) {
         output.add(line);
       }
     }
-  
+
     return output.join('\n');
   }
-  
+
   Future<void> _generateDiffHtml(
-    String title, 
-    String original, 
-    String modified, 
+    String title,
+    String original,
+    String modified,
     String outputPath,
     {List<Map<String, int>>? fixedLinePairs}
   ) async {
     final changes = <Map<String, dynamic>>[];
     final originalLines = original.split('\n');
     final modifiedLines = modified.split('\n');
-    
+
     // Create a set of line indices that are part of paired fixes
     final pairedLines = <int>{};
     if (fixedLinePairs != null) {
@@ -527,7 +622,7 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
         pairedLines.add(pair['second']!);
       }
     }
-    
+
     int changeNumber = 1;
     for (int i = 0; i < originalLines.length && i < modifiedLines.length; i++) {
       if (originalLines[i] != modifiedLines[i]) {
@@ -535,12 +630,12 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
         if (pairedLines.contains(i)) {
           // Check if this is the first line of a pair
           final isPairStart = fixedLinePairs?.any((pair) => pair['first'] == i) ?? false;
-          
+
           if (isPairStart) {
             // Find the second line of the pair
             final pair = fixedLinePairs!.firstWhere((p) => p['first'] == i);
             final secondLineIndex = pair['second']!;
-            
+
             changes.add({
               'original': '${originalLines[i]}\n${originalLines[secondLineIndex]}',
               'modified': '${modifiedLines[i]}\n${modifiedLines[secondLineIndex]}',
@@ -553,7 +648,7 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
           // Skip the second line of pairs as it's already included
           continue;
         }
-        
+
         changes.add({
           'original': originalLines[i],
           'modified': modifiedLines[i],
@@ -564,9 +659,9 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
         changeNumber++;
       }
     }
-    
+
     final fontBase64 = await _getFontBase64();
-    
+
     final html = '''
   <!DOCTYPE html>
   <html>
@@ -580,7 +675,7 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
         font-weight: normal;
         font-style: normal;
       }
-      
+
       body {
         background: #1a1a1a;
         color: #e0e0e0;
@@ -675,10 +770,10 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
   </body>
   </html>
   ''';
-    
+
     await File(outputPath).writeAsString(html);
   }
-  
+
   Future<String> _getFontBase64() async {
     try {
       final fontData = await rootBundle.load('fonts/ScheherazadeNew-Regular.woff2');
@@ -689,16 +784,16 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
       return '';
     }
   }
-  
+
   Map<String, String> _highlightDifferences(String original, String modified) {
     final originalWords = original.split(' ');
     final modifiedWords = modified.split(' ');
-    
+
     final alignment = _alignWords(originalWords, modifiedWords);
-    
+
     final highlightedOriginal = <String>[];
     final highlightedModified = <String>[];
-    
+
     for (final pair in alignment) {
       if (pair['orig'] != null && pair['mod'] != null) {
         if (pair['orig'] == pair['mod']) {
@@ -714,18 +809,134 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
         highlightedModified.add('<span class="added-highlight">${_escapeHtml(pair['mod']!)}</span>');
       }
     }
-    
+
     return {
       'original': highlightedOriginal.join(' '),
       'modified': highlightedModified.join(' '),
     };
   }
-  
+
+  String _fixZeroDurationSubtitles(String content) {
+    final lines = content.split('\n');
+    final blocks = <Map<String, dynamic>>[];
+
+    final timecodeRegex = RegExp(
+      r'^(\d{2}:\d{2}:\d{2}\.\d{3})\s+-->\s+(\d{2}:\d{2}:\d{2}\.\d{3})',
+    );
+
+    int i = 0;
+
+    String header = '';
+    if (lines.isNotEmpty && lines[0].trim().startsWith('WEBVTT')) {
+      header = lines[0];
+      i = 1;
+    }
+
+    while (i < lines.length) {
+      if (lines[i].trim().isEmpty) {
+        i++;
+        continue;
+      }
+
+      final match = timecodeRegex.firstMatch(lines[i].trim());
+
+      if (match != null) {
+        final startTime = match.group(1)!;
+        final endTime = match.group(2)!;
+
+        final textLines = <String>[];
+        i++;
+        while (i < lines.length &&
+               lines[i].trim().isNotEmpty &&
+               !timecodeRegex.hasMatch(lines[i].trim())) {
+          textLines.add(lines[i]);
+          i++;
+        }
+
+        blocks.add({
+          'start': startTime,
+          'end': endTime,
+          'text': textLines.join(' ').trim(),
+          'isZeroDuration': startTime == endTime,
+        });
+      } else {
+        i++;
+      }
+    }
+
+    int fixCount = 0;
+    int idx = 0;
+
+    while (idx < blocks.length) {
+      if (blocks[idx]['isZeroDuration'] == true) {
+        if (idx > 0 && idx + 1 < blocks.length) {
+          final prevBlock = blocks[idx - 1];
+          final nextBlock = blocks[idx + 1];
+
+          final prevText = prevBlock['text'] as String;
+          final nextText = nextBlock['text'] as String;
+
+          final trimmedNext = _removeOverlappingPrefix(prevText, nextText);
+
+          nextBlock['text'] = trimmedNext;
+          prevBlock['end'] = nextBlock['start'];
+
+          fixCount++;
+        }
+
+        blocks.removeAt(idx);
+      } else {
+        idx++;
+      }
+    }
+
+    final buffer = StringBuffer();
+    if (header.isNotEmpty) {
+      buffer.writeln(header);
+      buffer.writeln();
+    }
+
+    for (final block in blocks) {
+      buffer.writeln('${block['start']} --> ${block['end']}');
+      buffer.writeln(' ${block['text']}');
+      buffer.writeln();
+    }
+
+    print('Zero-duration subtitle fixes: $fixCount');
+    return buffer.toString().trimRight();
+  }
+
+  String _removeOverlappingPrefix(String prev, String next) {
+    final prevWords = prev.trim().split(RegExp(r'\s+'));
+    final nextWords = next.trim().split(RegExp(r'\s+'));
+
+    final maxOverlap = prevWords.length < nextWords.length
+        ? prevWords.length
+        : nextWords.length;
+
+    for (int len = maxOverlap; len >= 1; len--) {
+      final prevSuffix = prevWords
+          .sublist(prevWords.length - len)
+          .map((w) => w.toLowerCase().replaceAll(RegExp(r'[^\w]'), ''))
+          .join(' ');
+      final nextPrefix = nextWords
+          .sublist(0, len)
+          .map((w) => w.toLowerCase().replaceAll(RegExp(r'[^\w]'), ''))
+          .join(' ');
+
+      if (prevSuffix == nextPrefix && prevSuffix.isNotEmpty) {
+        return nextWords.sublist(len).join(' ');
+      }
+    }
+
+    return next;
+  }
+
   List<Map<String, String?>> _alignWords(List<String> original, List<String> modified) {
     final result = <Map<String, String?>>[];
     int i = 0;
     int j = 0;
-    
+
     while (i < original.length || j < modified.length) {
       if (i >= original.length) {
         result.add({'orig': null, 'mod': modified[j]});
@@ -739,7 +950,7 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
         j++;
       } else {
         bool foundMatch = false;
-        
+
         for (int lookahead = 1; lookahead <= 10 && i + lookahead < original.length; lookahead++) {
           if (original[i + lookahead] == modified[j]) {
             for (int k = 0; k < lookahead; k++) {
@@ -750,7 +961,7 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
             break;
           }
         }
-        
+
         if (!foundMatch) {
           for (int lookahead = 1; lookahead <= 10 && j + lookahead < modified.length; lookahead++) {
             if (original[i] == modified[j + lookahead]) {
@@ -763,7 +974,7 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
             }
           }
         }
-        
+
         if (!foundMatch) {
           result.add({'orig': original[i], 'mod': modified[j]});
           i++;
@@ -771,10 +982,10 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
         }
       }
     }
-    
+
     return result;
   }
-  
+
   String _escapeHtml(String text) {
     return text
         .replaceAll('&', '&amp;')
@@ -790,7 +1001,7 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
     content = _applyPersonNames(content);
     content = _applyDatesAndDays(content);
     content = _applyMiscCapitalizations(content);
-    
+
     return content;
   }
 
@@ -812,7 +1023,7 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
         return '___PROPHET_PBUH_TEMP___';
       },
     );
-    
+
     final compoundPhrases = [
       [r"insha'Allah [Tt]a'ala", "inshaAllah ﷾"],
       [r"in [Ss]ha'Allah [Tt]a'ala", "inshaAllah ﷾"],
@@ -826,14 +1037,14 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
       [r"wa'ta'ala", "﷾"],
       [r"wa ta'ala", "﷾"],
     ];
-    
+
     for (final item in compoundPhrases) {
       content = content.replaceAllMapped(
         RegExp(item[0]),
         (m) => item[1],
       );
     }
-  
+
     final swtVariations = [
       ["Allah subhanahu wa ta'ala Subhanahu wa ta'ala", 'Allah ﷾ '],
       ["Allah subhanahu alayhi wa sallamah Subhanahu Wa Ta'ala", 'Allah ﷾ '],
@@ -863,14 +1074,14 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
       [r's\.w\.t\.', ' ﷾ '],
       [r'\(swt\)', ' ﷾ '],
     ];
-    
+
     for (final item in swtVariations) {
       content = content.replaceAllMapped(
         RegExp(item[0], caseSensitive: false),
         (m) => item[1],
       );
     }
-  
+
     final azzaVariations = [
       r"Azza wa ta'ala",
       r'Azza wa Alayhi',
@@ -901,14 +1112,14 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
       r'Azawajah',
       r'azawajib',
     ];
-  
+
     for (final variation in azzaVariations) {
       content = content.replaceAllMapped(
         RegExp(r'\b' + variation + r'\b', caseSensitive: false),
         (m) => ' ﷿ ',
       );
     }
-  
+
     final pbuhVariations = [
       r's\.a\.w\.a\.',
       r's\.a\.w\.',
@@ -1023,11 +1234,11 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
       r'\bSAW\b',
       r'\bSAWS\b',
     ];
-  
+
     for (final variation in pbuhVariations) {
       final hasDotsOrParens = variation.contains(r'\.') || variation.contains(r'\(');
       final isSawsAcronym = variation == r'\bSAW\b' || variation == r'\bSAWS\b';
-      
+
       if (hasDotsOrParens || isSawsAcronym) {
         content = content.replaceAllMapped(
           RegExp(variation),
@@ -1040,7 +1251,7 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
         );
       }
     }
-  
+
     final prophetHonorifics = [
       [r'Ibrahim alayhi wa salam', 'Ibrahim ﵇ '],
       [r'Dawud alayhi wa salam', 'Dawud ﵇ '],
@@ -1058,7 +1269,7 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
       [r'a\.s\.', ' ﵇ '],
       [r'A\.S\.', ' ﵇ '],
     ];
-  
+
     for (final item in prophetHonorifics) {
       content = content.replaceAllMapped(
         RegExp(item[0], caseSensitive: false),
@@ -1069,12 +1280,12 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
     content = content.replaceAll('___THE_PROPHET_PBUH_TEMP___', 'The Prophet ﷺ ');
     content = content.replaceAll('___the_PROPHET_PBUH_TEMP___', 'the Prophet ﷺ ');
     content = content.replaceAll('___PROPHET_PBUH_TEMP___', 'Prophet ﷺ ');
-  
+
     content = content.replaceAllMapped(
       RegExp(r'\bprophet muhammad\b', caseSensitive: false),
       (m) => 'Prophet Muhammad',
     );
-  
+
     final radiyallahuVariations = [
       [r"rahimahum Allah ta'ala", ' ﵏ '],
       [r"rahimahum allahu wa ta'ala", ' ﵏ '],
@@ -1114,14 +1325,14 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
       [r'\(ra\)', ' ﵁ '],
       [r'\(RA\)', ' ﵁ '],
     ];
-  
+
     for (final item in radiyallahuVariations) {
       content = content.replaceAllMapped(
         RegExp(item[0], caseSensitive: false),
         (m) => item[1],
       );
     }
-  
+
     final rahimahullahVariations = [
       r"rahimahallahu ta'ala",
       r"rahimahallahu wa ta'ala",
@@ -1139,49 +1350,49 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
       r'rahmatullah alayh',
       r'rahimahullah',
     ];
-  
+
     for (final variation in rahimahullahVariations) {
       content = content.replaceAllMapped(
         RegExp(r'\b' + variation + r'\b', caseSensitive: false),
         (m) => ' ﵀ ',
       );
     }
-  
+
     final bismillahVariations = [
       r'Bismillah ar-Rahman ar-Rahim',
       r'Bismillahirrahmanirrahim',
       r'Bismillahir Rahmanir Raheem',
       r'Bismillahir Rahmanir Rahim',
     ];
-  
+
     for (final variation in bismillahVariations) {
       content = content.replaceAllMapped(
         RegExp(variation, caseSensitive: false),
         (m) => ' ﷽ ',
       );
     }
-  
+
     final taalaVariations = [
       r"Allah ta'ala",
       r"Allahu ta'ala",
     ];
-  
+
     for (final variation in taalaVariations) {
       content = content.replaceAllMapped(
         RegExp(r'\b' + variation + r'\b', caseSensitive: false),
         (m) => ' ﷾ ',
       );
     }
-  
+
     content = content.replaceAll(RegExp(r'Messenger of Allah ﷺ', caseSensitive: false), '___MESSENGER_TEMP___');
     content = content.replaceAll(RegExp(r'Allah ﷺ'), 'Allah ﷾ ');
     content = content.replaceAll('___MESSENGER_TEMP___', 'Messenger of Allah ﷺ ');
-  
+
     content = content.replaceAllMapped(
       RegExp(r'\bfuck\b|\bshit\b|\basshole\b|\bbitch\b|\bfucking\b', caseSensitive: false),
       (m) => '~~~~',
     );
-  
+
     final islamicTerms = [
       [r"\ballah's\b", "Allah's"],
       [r'\ballah\b', 'Allah'],
@@ -1241,37 +1452,37 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
       [r'\byeshua\b', 'Yeshua'],
       [r'\byusuf\b', 'Yusuf'],
     ];
-  
+
     for (final item in islamicTerms) {
       content = content.replaceAllMapped(
         RegExp(item[0], caseSensitive: false),
         (m) => item[1],
       );
     }
-  
+
     content = content.replaceAll('O Muhammad, except as a mercy to the Lord', '');
-  
+
     return content;
   }
-  
-  
-  
+
+
+
   String _applyMiscCapitalizations(String content) {
     final Map<String, String> misc = {
       r'\bmr\b\.?': 'Mr.',
       r'\bmrs\b\.?': 'Mrs.',
       r'\bdr\b\.?': 'Dr.',
       r'\b i \b': ' I ',
-      r"\bi'm\b": "I'm", 
+      r"\bi'm\b": "I'm",
     };
-  
+
     misc.forEach((pattern, replacement) {
       content = content.replaceAllMapped(
         RegExp(pattern, caseSensitive: false),
         (m) => replacement,
       );
     });
-  
+
     return content;
   }
 
@@ -2325,6 +2536,16 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
                   textStyle: const TextStyle(fontSize: 16),
                 ),
               ),
+              ElevatedButton.icon(
+                onPressed: _isProcessing ? null : _batchProcessDirectory,
+                icon: const Icon(Icons.folder),
+                label: const Text('Batch Process Directory'),
+                style: ElevatedButton.styleFrom(
+                  padding: const EdgeInsets.all(16),
+                  textStyle: const TextStyle(fontSize: 16),
+                  backgroundColor: Colors.teal[800],
+                ),
+              ),
               const SizedBox(height: 16),
               if (_selectedVttPath != null) ...[
                 Container(
@@ -2503,7 +2724,7 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
         ),
       );
     }
-  
+
   Future<void> _openFileInBrowser(String filePath) async {
     try {
       if (Platform.isMacOS) {
@@ -2520,5 +2741,5 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
         );
       }
     }
-  }    
+  }
 }

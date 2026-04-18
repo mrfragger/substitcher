@@ -5078,16 +5078,15 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     if (palette.strokeColor != null) {
       return _parseColor(palette.strokeColor!);
     }
-
     final color = fillColor.replaceAll('#', '');
     final r = int.parse(color.substring(0, 2), radix: 16);
     final g = int.parse(color.substring(2, 4), radix: 16);
     final b = int.parse(color.substring(4, 6), radix: 16);
-
-    final newR = (r * 0.7).clamp(0, 255).round();
-    final newG = (g * 0.7).clamp(0, 255).round();
-    final newB = (b * 0.7).clamp(0, 255).round();
-
+    final luminance = (0.299 * r + 0.587 * g + 0.114 * b) / 255;
+    final factor = luminance > 0.6 ? 0.65 : luminance > 0.4 ? 0.5 : 0.3;
+    final newR = (r * (1 - factor)).clamp(0, 255).round();
+    final newG = (g * (1 - factor)).clamp(0, 255).round();
+    final newB = (b * (1 - factor)).clamp(0, 255).round();
     return Color.fromARGB(255, newR, newG, newB);
   }
 

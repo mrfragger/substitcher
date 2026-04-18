@@ -267,7 +267,6 @@ class PlayerControls extends StatelessWidget {
                     ),
                     child: Stack(
                       children: [
-                        if (secondaryColorPalette?.strokeColor != null)
                           Transform.translate(
                             offset: Offset(shadowOffset, shadowOffset),
                             child: RichText(
@@ -310,7 +309,6 @@ class PlayerControls extends StatelessWidget {
                             useBlurShadow: blurShadowEnabled,
                           ),
                         ),
-                        if (secondaryColorPalette?.strokeColor != null)
                           RichText(
                             textAlign: TextAlign.center,
                             text: buildColoredTextSpan(

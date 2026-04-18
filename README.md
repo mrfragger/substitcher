@@ -498,8 +498,6 @@ Android (64-bit devices only, arm64-v8a)
 - KeepassXC, free, password manager https://keepassxc.org
 - Screen Kite, free, record screen area with system sound, better than OBS https://www.screenkite.com 
 - MetalVoice, free, Denoise DeepFilterNet3 in realtime on mic input https://github.com/Ghostkwebb/MetalVoice
-- VSCodium, free, half file size of VSCode https://vscodium.com
-- Text Power Tools, extension for VSCodium, powerful text manipulation
 - LocalSend, free, flutter app share files, free https://localsend.org
 - Shotcut, free, add images, mutli-track video editor, free, learning curve https://shotcut.org
 - DaVinci resolve, free up to 1080p, but requires 16GB RAM bare minimum and massive learning curve, expensive

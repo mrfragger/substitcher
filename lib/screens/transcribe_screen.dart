@@ -51,7 +51,7 @@ List<String> _availableAudiobooks = [];
       if (mounted) {
         setState(() {
           _customPromptController.text = _whisperService.customPrompt;
-          
+
           if (_whisperService.isTranscribing) {
             _isTranscribing = true;
             _transcriptionStatus = _whisperService.transcriptionStatus;
@@ -63,7 +63,7 @@ List<String> _availableAudiobooks = [];
             _initialTotalDuration = _whisperService.initialTotalDuration;
             _transcriptionStartTime = _whisperService.transcriptionStartTime;
             _startingRemainingDuration = _whisperService.startingRemainingDuration;
-            
+
             _startProgressUpdateTimer();
           }
         });
@@ -83,7 +83,7 @@ List<String> _availableAudiobooks = [];
     final result = await FilePicker.platform.pickFiles(
       dialogTitle: 'Select Whisper Executable',
     );
-    
+
     if (result != null && result.files.isNotEmpty) {
       await _whisperService.setWhisperExecutable(result.files.first.path!);
       setState(() {});
@@ -97,20 +97,20 @@ List<String> _availableAudiobooks = [];
       }
     }
   }
-  
+
   Future<void> _selectModelDirectory() async {
     final result = await FilePicker.platform.getDirectoryPath(
       dialogTitle: 'Select Whisper Models Directory',
     );
-    
+
     if (result != null) {
       await _whisperService.setModelDirectory(result);
-      
+
       final models = _whisperService.getAvailableModels();
-      
+
       if (mounted) {
         setState(() {});
-        
+
         ScaffoldMessenger.of(context).showSnackBar(
           SnackBar(
             content: Text('Found ${models.length} models'),
@@ -151,16 +151,16 @@ List<String> _availableAudiobooks = [];
 
   Future<void> _scanForAudiobooks() async {
     if (_chaptersDirectory == null) return;
-    
+
     final parentDir = Directory(path.dirname(_chaptersDirectory!));
     final opusFiles = parentDir
         .listSync()
         .where((e) => e is File && e.path.endsWith('.opus'))
         .map((e) => e.path)
         .toList();
-    
+
     opusFiles.sort();
-    
+
     setState(() {
       _availableAudiobooks = opusFiles;
       if (opusFiles.isNotEmpty) {
@@ -176,12 +176,12 @@ List<String> _availableAudiobooks = [];
       }
     });
   }
-  
+
   Future<void> _selectChaptersDirectory() async {
     final result = await FilePicker.platform.getDirectoryPath(
       dialogTitle: 'Select encodedchapters Directory',
     );
-    
+
     if (result != null) {
       setState(() {
         _chaptersDirectory = result;
@@ -189,9 +189,9 @@ List<String> _availableAudiobooks = [];
 
       final prefs = await SharedPreferences.getInstance();
       await prefs.setString('lastChaptersDirectory', result);
-      
+
       await _scanForAudiobooks();
-      
+
       if (mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
           SnackBar(
@@ -202,36 +202,36 @@ List<String> _availableAudiobooks = [];
       }
     }
   }
-  
+
   Future<void> _startTranscription() async {
     if (_chaptersDirectory == null) return;
 
     _whisperService.addPromptToHistory(_whisperService.customPrompt);
-    
+
     final chaptersDir = Directory(_chaptersDirectory!);
     final opusFiles = chaptersDir
         .listSync()
         .where((e) => e is File && e.path.endsWith('.opus'))
         .cast<File>()
         .toList();
-    
+
     setState(() {
       _transcriptionStatus = 'Calculating total duration...';
     });
-    
+
     _chapterDurations.clear();
     Duration totalDuration = Duration.zero;
     Duration totalRemainingDuration = Duration.zero;
-    
+
     for (final file in opusFiles) {
       try {
         final duration = await _ffmpegService.getAudioDuration(file.path);
         _chapterDurations[file.path] = duration;
         totalDuration += duration;
-        
+
         final vttPath = file.path.replaceAll('.opus', '.vtt');
         final hasVtt = await File(vttPath).exists();
-        
+
         if (!hasVtt) {
           totalRemainingDuration += duration;
         }
@@ -239,10 +239,10 @@ List<String> _availableAudiobooks = [];
         print('Error getting duration for ${file.path}: $e');
       }
     }
-    
+
     print('Total audiobook duration: ${_formatDuration(totalDuration)}');
     print('Total remaining duration to transcribe: ${_formatDuration(totalRemainingDuration)}');
-    
+
     setState(() {
       _isTranscribing = true;
       _transcriptionStatus = 'Starting transcription...';
@@ -254,7 +254,7 @@ List<String> _availableAudiobooks = [];
       _totalRemainingDuration = totalRemainingDuration;
       _initialTotalDuration = totalDuration;
       _startingRemainingDuration = _totalRemainingDuration;
-    
+
       if (_initialTotalDuration.inSeconds > 0) {
         final transcribedDuration = _initialTotalDuration - _totalRemainingDuration;
         _transcriptionProgress = transcribedDuration.inSeconds / _initialTotalDuration.inSeconds;
@@ -266,9 +266,9 @@ List<String> _availableAudiobooks = [];
     _whisperService.initialTotalDuration = _initialTotalDuration;
     _whisperService.totalRemainingDuration = _totalRemainingDuration;
     _whisperService.startingRemainingDuration = _startingRemainingDuration;
-    
+
     _startProgressUpdateTimer();
-    
+
     WidgetsBinding.instance.addPostFrameCallback((_) {
       final scrollController = _scrollController;
       if (scrollController.hasClients) {
@@ -279,7 +279,7 @@ List<String> _availableAudiobooks = [];
         );
       }
     });
-    
+
     await _whisperService.transcribeChapters(
       _chaptersDirectory!,
       (status, progress, cumulativeDuration) {
@@ -287,7 +287,7 @@ List<String> _availableAudiobooks = [];
           final chapterMatch = RegExp(r'Processing chapter (\d+)/(\d+)').firstMatch(status);
           if (chapterMatch != null) {
             final newChapterNum = int.parse(chapterMatch.group(1)!);
-            
+
             if (newChapterNum > _currentTranscriptionChapter && _currentTranscriptionChapter > 0) {
               final justCompletedIndex = _currentTranscriptionChapter - 1;
               if (justCompletedIndex >= 0 && justCompletedIndex < opusFiles.length) {
@@ -299,7 +299,7 @@ List<String> _availableAudiobooks = [];
                     if (_totalRemainingDuration.isNegative) {
                       _totalRemainingDuration = Duration.zero;
                     }
-                    
+
                     if (_initialTotalDuration.inSeconds > 0) {
                       final transcribedDuration = _initialTotalDuration - _totalRemainingDuration;
                       _transcriptionProgress = transcribedDuration.inSeconds / _initialTotalDuration.inSeconds;
@@ -311,14 +311,14 @@ List<String> _availableAudiobooks = [];
                 }
               }
             }
-            
+
             _currentTranscriptionChapter = newChapterNum;
           }
-          
+
           if (status.contains('Transcribing') && status.contains('segments') && cumulativeDuration == Duration.zero) {
             _transcriptionStartTime = DateTime.now();
           }
-          
+
           setState(() {
             _transcriptionStatus = status;
             _cumulativeChapterDuration = cumulativeDuration;
@@ -341,23 +341,23 @@ List<String> _availableAudiobooks = [];
       },
       targetAudiobookPath: _selectedAudiobookPath,
     );
-    
+
     if (mounted && _isTranscribing) {
       final elapsed = DateTime.now().difference(_transcriptionStartTime!);
       final hours = elapsed.inHours;
       final minutes = elapsed.inMinutes.remainder(60);
       final seconds = elapsed.inSeconds.remainder(60);
-    
+
       double finalRealtimeSpeed = 0.0;
       if (_startingRemainingDuration!.inSeconds > 0 && elapsed.inSeconds > 0) {
         finalRealtimeSpeed = _startingRemainingDuration!.inSeconds / elapsed.inSeconds;
       }
-      
+
       setState(() {
         _isTranscribing = false;
         _transcriptionStatus = 'Transcription complete!';
         _transcriptionProgress = 1.0;
-        _lastTranscriptionTime = hours > 0 
+        _lastTranscriptionTime = hours > 0
             ? '${hours}h ${minutes}m ${seconds}s'
             : '${minutes}m ${seconds}s';
         _lastRealtimeSpeed = finalRealtimeSpeed;
@@ -396,12 +396,12 @@ List<String> _availableAudiobooks = [];
       }
     });
   }
-  
+
   String _formatDuration(Duration d) {
     final hours = d.inHours;
     final minutes = d.inMinutes.remainder(60);
     final seconds = d.inSeconds.remainder(60);
-    
+
     if (hours > 0) {
       return '${hours}h ${minutes}m ${seconds}s';
     } else {
@@ -416,7 +416,7 @@ List<String> _availableAudiobooks = [];
       });
       return;
     }
-  
+
     final chaptersDir = Directory(_chaptersDirectory!);
     if (!chaptersDir.existsSync()) {
       setState(() {
@@ -424,16 +424,16 @@ List<String> _availableAudiobooks = [];
       });
       return;
     }
-  
+
     final chapterVttFiles = chaptersDir
         .listSync()
         .where((e) => e is File && e.path.endsWith('.vtt') && !e.path.contains('_original_overlaps'))
         .cast<File>()
         .map((f) => f.path)
         .toList();
-  
+
     chapterVttFiles.sort();
-  
+
     final opusFiles = <String>[];
     for (final vttPath in chapterVttFiles) {
       final chapterName = path.basenameWithoutExtension(vttPath);
@@ -442,43 +442,43 @@ List<String> _availableAudiobooks = [];
         opusFiles.add(opusPath);
       }
     }
-  
+
     if (chapterVttFiles.isEmpty || opusFiles.isEmpty) {
       setState(() {
         _remergeStatus = 'No chapter VTT files or opus files found';
       });
       return;
     }
-  
+
     if (chapterVttFiles.length != opusFiles.length) {
       setState(() {
         _remergeStatus = 'Mismatch: ${chapterVttFiles.length} VTTs but ${opusFiles.length} opus files';
       });
       return;
     }
-  
+
     setState(() {
       _remerging = true;
       _remergeStatus = 'Re-merging ${chapterVttFiles.length} chapter VTTs with ${_customMsOffset}ms offset...';
     });
-  
+
     try {
       final originalOffset = _whisperService.msOffset;
       _whisperService.msOffset = _customMsOffset;
-  
-      await _whisperService.mergeChapterVttFiles( 
+
+      await _whisperService.mergeChapterVttFiles(
         chapterVttFiles,
         _chaptersDirectory!,
         opusFiles,
       );
-  
+
       _whisperService.msOffset = originalOffset;
-  
+
       setState(() {
         _remerging = false;
         _remergeStatus = 'Successfully re-merged with ${_customMsOffset}ms offset!';
       });
-  
+
       if (mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
           SnackBar(
@@ -492,7 +492,7 @@ List<String> _availableAudiobooks = [];
         _remerging = false;
         _remergeStatus = 'Error: $e';
       });
-  
+
       if (mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
           SnackBar(
@@ -509,7 +509,7 @@ List<String> _availableAudiobooks = [];
       setState(() {
         _transcriptionStatus = 'Converting VTT files to markdown...';
       });
-      
+
       final vttFiles = <String>[];
       final dir = Directory(chaptersDirectory);
       await for (final entity in dir.list()) {
@@ -517,26 +517,28 @@ List<String> _availableAudiobooks = [];
           vttFiles.add(entity.path);
         }
       }
-      
+
       vttFiles.sort();
-      
+
       for (int i = 0; i < vttFiles.length; i++) {
         final vttPath = vttFiles[i];
         final vttFilename = path.basenameWithoutExtension(vttPath);
-        
-        final vttContent = await File(vttPath).readAsString();
+
+        final rawVtt = await File(vttPath).readAsString();
+        final vttContent = _normalizeBlankLines(rawVtt);
+        await File(vttPath).writeAsString(vttContent + '\n');
         final paragraphs = _createParagraphsFromVtt(vttContent);
-        
+
         if (paragraphs.isEmpty) continue;
-        
+
         final mdContent = StringBuffer();
         mdContent.writeln('# $vttFilename\n');
-        
+
         for (final paragraph in paragraphs) {
           mdContent.writeln(paragraph);
           mdContent.writeln();
         }
-        
+
         final cleanFilename = vttFilename
             .replaceAll('/', '-')
             .replaceAll("'", '')
@@ -548,70 +550,70 @@ List<String> _availableAudiobooks = [];
             .replaceAll('*', '')
             .replaceAll('<', '')
             .replaceAll('>', '');
-        
+
         final mdFilename = '$cleanFilename.md';
         final mdPath = path.join(chaptersDirectory, mdFilename);
-        
+
         await File(mdPath).writeAsString(mdContent.toString());
       }
     } catch (e) {
       print('Error converting VTT to markdown: $e');
     }
   }
-  
+
   List<String> _createParagraphsFromVtt(String vttContent) {
     final cues = _parseVttContent(vttContent);
     if (cues.isEmpty) return [];
-    
+
     final allText = cues
         .map((cue) => cue.replaceAll('\n', ' ').trim())
         .where((text) => text.isNotEmpty)
         .join(' ');
-    
+
     final sentences = <String>[];
     final words = allText.split(RegExp(r'\s+'));
     var currentSentence = '';
-    
+
     for (final word in words) {
       currentSentence += word + ' ';
-      
+
       if (word.endsWith('.') || word.endsWith('?') || word.endsWith('!')) {
         final abbreviations = ['Mr.', 'Dr.', 'Mrs.', 'Ms.', 'Prof.', 'Sr.', 'Jr.', 'St.'];
-        final isAbbreviation = abbreviations.any((abbr) => 
+        final isAbbreviation = abbreviations.any((abbr) =>
           currentSentence.trim().endsWith(abbr));
-        
+
         if (!isAbbreviation) {
           sentences.add(currentSentence.trim());
           currentSentence = '';
         }
       }
     }
-    
+
     if (currentSentence.trim().isNotEmpty) {
       sentences.add(currentSentence.trim());
     }
-  
+
     final paragraphs = <String>[];
     for (int i = 0; i < sentences.length; i += 9) {
       final paragraphSentences = sentences.skip(i).take(9).toList();
       if (paragraphSentences.isNotEmpty) {
         var paragraph = paragraphSentences.join(' ');
-        
+
         if (paragraph.isNotEmpty) {
           paragraph = paragraph[0].toUpperCase() + paragraph.substring(1);
         }
-        
+
         paragraphs.add(paragraph);
       }
     }
-    
+
     return paragraphs;
   }
-  
+
   List<String> _parseVttContent(String content) {
     final cues = <String>[];
     final lines = content.split('\n');
-    
+
     for (var i = 0; i < lines.length; i++) {
       final line = lines[i].trim();
       if (line.contains('-->')) {
@@ -626,7 +628,7 @@ List<String> _availableAudiobooks = [];
         }
       }
     }
-    
+
     return cues;
   }
 
@@ -664,7 +666,7 @@ List<String> _availableAudiobooks = [];
               ),
             ),
             const SizedBox(height: 32),
-            
+
             Expanded(
               child: SingleChildScrollView(
                 controller: _scrollController,
@@ -675,16 +677,16 @@ List<String> _availableAudiobooks = [];
 
                     _buildWhisperPathSection(),
                     const SizedBox(height: 24),
-                    
+
                     _buildChaptersDirectorySection(),
                     const SizedBox(height: 32),
-                    
+
                     _buildWhisperSettingsSection(),
                     const SizedBox(height: 32),
 
                     _buildRemergeSection(),
                     const SizedBox(height: 32),
-                    
+
                     if (_isTranscribing) ...[
                       _buildTranscriptionProgress(),
                       const SizedBox(height: 32),
@@ -693,7 +695,7 @@ List<String> _availableAudiobooks = [];
                 ),
               ),
             ),
-            
+
             _buildTranscriptionControls(),
           ],
         ),
@@ -759,7 +761,7 @@ List<String> _availableAudiobooks = [];
               foregroundColor: Colors.white,
             ),
           ),
-          
+
           const SizedBox(height: 12),
           if (_whisperService.whisperExecutablePath != null)
             Container(
@@ -814,7 +816,7 @@ List<String> _availableAudiobooks = [];
       ),
     );
   }
-  
+
   Widget _buildModelDirectorySection() {
       return Container(
         padding: const EdgeInsets.all(24),
@@ -840,7 +842,7 @@ List<String> _availableAudiobooks = [];
               ],
             ),
             const SizedBox(height: 16),
-            
+
             InkWell(
               onTap: () async {
                 final url = Uri.parse('https://huggingface.co/ggerganov/whisper.cpp/tree/main');
@@ -858,7 +860,7 @@ List<String> _availableAudiobooks = [];
               ),
             ),
             const SizedBox(height: 16),
-            _buildModelInfo('ggml-large-v3-turbo.bin', '1.62GB', 
+            _buildModelInfo('ggml-large-v3-turbo.bin', '1.62GB',
               '8G RAM works great. The fastest and tends to hallucinate a little bit more than large v2'),
             const SizedBox(height: 8),
             _buildModelInfo('ggml-large-v2-q8_0.bin', '1.66GB',
@@ -867,7 +869,7 @@ List<String> _availableAudiobooks = [];
             _buildModelInfo('ggml-large-v2.bin', '3.09GB',
               '8GB RAM is pushing it but will work if no other apps open and with some swap'),
             const SizedBox(height: 16),
-            
+
             if (_whisperService.modelDirectory != null) ...[
               Row(
                 children: [
@@ -883,7 +885,7 @@ List<String> _availableAudiobooks = [];
                 ],
               ),
               const SizedBox(height: 16),
-              
+
               if (_whisperService.getAvailableModels().isNotEmpty) ...[
                 const Text(
                   'Available Models:',
@@ -919,12 +921,12 @@ List<String> _availableAudiobooks = [];
               ),
               const SizedBox(height: 16),
             ],
-            
+
             ElevatedButton.icon(
               onPressed: _selectModelDirectory,
               icon: const Icon(Icons.folder_open),
-              label: Text(_whisperService.modelDirectory == null 
-                  ? 'Select Model Directory' 
+              label: Text(_whisperService.modelDirectory == null
+                  ? 'Select Model Directory'
                   : 'Change Model Directory'),
               style: ElevatedButton.styleFrom(
                 backgroundColor: Colors.deepPurple,
@@ -935,7 +937,7 @@ List<String> _availableAudiobooks = [];
         ),
       );
     }
-  
+
   Widget _buildModelInfo(String modelName, String size, String description) {
     return Row(
       crossAxisAlignment: CrossAxisAlignment.start,
@@ -1131,7 +1133,7 @@ List<String> _availableAudiobooks = [];
               foregroundColor: Colors.white,
             ),
           ),
-          
+
           if (_availableAudiobooks.isNotEmpty) ...[
             const SizedBox(height: 20),
             const Divider(color: Colors.white24),
@@ -1243,7 +1245,7 @@ List<String> _availableAudiobooks = [];
             ],
           ),
           const SizedBox(height: 20),
-          
+
           Row(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
@@ -1376,9 +1378,9 @@ List<String> _availableAudiobooks = [];
               ),
             ],
           ),
-          
+
           const SizedBox(height: 16),
-          
+
           Row(
             children: [
               Expanded(
@@ -1452,9 +1454,9 @@ List<String> _availableAudiobooks = [];
               ),
             ],
           ),
-          
+
           const SizedBox(height: 16),
-          
+
           Row(
             children: [
               Expanded(
@@ -1497,7 +1499,7 @@ List<String> _availableAudiobooks = [];
         _whisperService.modelDirectory != null &&
         _chaptersDirectory != null &&
         !_isTranscribing;
-  
+
     return Column(
       children: [
         Row(
@@ -1582,7 +1584,14 @@ List<String> _availableAudiobooks = [];
       ],
     );
   }
-  
+
+  String _normalizeBlankLines(String content) {
+    content = content.replaceAll('\r\n', '\n').replaceAll('\r', '\n');
+    content = content.replaceAll(RegExp(r'\n{3,}'), '\n\n');
+    content = content.split('\n').map((line) => line.trimRight()).join('\n');
+    return content.trim();
+  }
+
  Widget _buildTranscriptionProgress() {
    String elapsedTime = '';
    String realtimeSpeed = _whisperService.realtimeSpeed ?? '';
@@ -1591,37 +1600,37 @@ List<String> _availableAudiobooks = [];
    String estimatedTimeLeftStr = _whisperService.estimatedTimeLeft ?? '';
    String calculationLine1 = '';
    String calculationLine2 = '';
-   
+
    if (_transcriptionStartTime != null) {
      final elapsed = DateTime.now().difference(_transcriptionStartTime!);
      final hours = elapsed.inHours;
      final minutes = elapsed.inMinutes.remainder(60);
      final seconds = elapsed.inSeconds.remainder(60);
-     
+
      if (hours > 0) {
        elapsedTime = '${hours}h ${minutes}m ${seconds}s';
      } else {
        elapsedTime = '${minutes}m ${seconds}s';
      }
    }
-   
+
    if (_initialTotalDuration.inSeconds > 0) {
      final totalHours = _initialTotalDuration.inHours;
      final totalMinutes = _initialTotalDuration.inMinutes.remainder(60);
      final totalSeconds = _initialTotalDuration.inSeconds.remainder(60);
-     
+
      if (totalHours > 0) {
        totalDurationStr = '${totalHours}h ${totalMinutes}m ${totalSeconds}s';
      } else {
        totalDurationStr = '${totalMinutes}m ${totalSeconds}s';
      }
    }
-   
+
    if (_totalRemainingDuration.inSeconds > 0) {
      final remainingHours = _totalRemainingDuration.inHours;
      final remainingMinutes = _totalRemainingDuration.inMinutes.remainder(60);
      final remainingSeconds = _totalRemainingDuration.inSeconds.remainder(60);
-     
+
      if (remainingHours > 0) {
        remainingDurationStr = '${remainingHours}h ${remainingMinutes}m ${remainingSeconds}s';
      } else if (remainingMinutes > 0) {
@@ -1630,18 +1639,18 @@ List<String> _availableAudiobooks = [];
        remainingDurationStr = '${remainingSeconds}s';
      }
    }
-   
+
    if (_initialTotalDuration.inSeconds > 0) {
      final totalSeconds = _initialTotalDuration.inSeconds;
      final remainingSeconds = _totalRemainingDuration.inSeconds;
      final transcribedSeconds = totalSeconds - remainingSeconds;
-     
+
      if (transcribedSeconds >= 0) {
        calculationLine1 = '($totalDurationStr) ${totalSeconds.toStringAsFixed(0)} - ($remainingDurationStr) ${remainingSeconds.toStringAsFixed(0)} = ${transcribedSeconds.toStringAsFixed(0)} seconds';
        calculationLine2 = 'Progress calculation: ${transcribedSeconds.toStringAsFixed(0)} / ${totalSeconds.toStringAsFixed(0)} = ${(_transcriptionProgress * 100).toStringAsFixed(2)}%';
      }
    }
-   
+
    return Container(
      padding: const EdgeInsets.all(20),
      decoration: BoxDecoration(

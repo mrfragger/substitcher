@@ -101,6 +101,29 @@ class FontAlternatesData {
       's': '\u{e044}',
       'y': '\u{e102}',
     },
+    'Sorean': {
+      'A': '\u{e0eb}',
+      'B': '\u{e026}',
+      'C': '\u{e002}',
+      'D': '\u{e027}',
+      'G': '\u{e006}',
+      'F': '\u{e0cd}',
+      'I': '\u{e008}',
+      'J': '\u{e009}',
+      'K': '\u{e028}',
+      'M': '\u{e0ef}',
+      'O': '\u{e00e}',
+      'Q': '\u{e02a}',
+      'R': '\u{e02b}',
+      'S': '\u{e012}',
+      'T': '\u{e0ce}',
+      'W': '\u{e016}',
+      'X': '\u{e023}',
+      'Z': '\u{e019}',
+      'a': '\u{e01a}',
+      'i': '\u{e01d}',
+      'l': '\u{e01f}',
+    },
   };
 
   static const Map<String, Map<String, String>> notAtEnd = {
@@ -148,6 +171,21 @@ class FontAlternatesData {
       'v': '\u{e047}',
       'w': '\u{e048}',
     },
+    'Sorean': {
+      'a': '\u{e02c}',
+      'd': '\u{e02d}',
+      'g': '\u{e074}',
+      'h': '\u{e0a4}',
+      'k': '\u{e0a5}',
+      'n': '\u{e036}',
+      'p': '\u{e07c}',
+      'r': '\u{e06a}',
+      's': '\u{e07f}',
+      't': '\u{e0d2}',
+      'u': '\u{e0a8}',
+      'v': '\u{e0d6}',
+      'y': '\u{e0d8}',
+    },
   };
 
   static const Map<String, Map<String, String>> onlyAtEnd = {
@@ -186,6 +224,21 @@ class FontAlternatesData {
       'k': '\u{e140}',
       'm': '\u{e142}',
       'n': '\u{e143}',
+    },
+    'Sorean': {
+      'b': '\u{e0ae}',
+      'd': '\u{e0a2}',
+      'f': '\u{e0a3}',
+      'g': '\u{e049}',
+      'h': '\u{e0af}',
+      'k': '\u{e0b0}',
+      'n': '\u{e07b}',
+      'r': '\u{e039}',
+      's': '\u{e054}',
+      't': '\u{e0d1}',
+      'u': '\u{e061}',
+      'v': '\u{e062}',
+      'y': '\u{e064}',
     },
   };
 

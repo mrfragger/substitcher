@@ -228,7 +228,7 @@ class ColorPalette {
     ColorPalette(name: "Warm Nostalgia Remembers", colors: ["#2B2B2B", "#404040", "#595959", "#708090", "#727272", "#594736", "#7E6952", "#A69580", "#C4B5A2", "#E2D9CD", "#E8F4F8", "#CBE5F3", "#DDEDEA", "#F0EBF4", "#F9E7E7", "#FFE0B2", "#FFCC80", "#FFB74D", "#FFA726", "#FF9800"]),
     ColorPalette(name: "Warm Wood Comfort", colors: ["#1DB9B2", "#FF5E62", "#34D1BF", "#F7E8D0", "#68B0AB", "#8B4513", "#D2691E", "#E6BE8A", "#DEB887", "#F4A460", "#f8d964", "#ff5aac", "#a1dcc8", "#ffcade", "#7e657b", "#9ac5e5", "#4fb19d", "#edce7a", "#c98c9a", "#e5c6c3"]),
     ColorPalette(name: "Zircon Amber Glow", colors: ["#ece4cc", "#b7874b", "#c99572", "#a28e69", "#ab2119", "#d39bac", "#e5c9b9", "#e5ab64", "#d8dfe3", "#9bccce", "#fef4c0", "#fdb10b", "#fe8535", "#fd292f", "#b20000", "#2f3930", "#665143", "#c34d29", "#dbac93", "#a9c9c4"]),
-    
+
 
     ColorPalette(name: "Apple Cinnamon Glaze", colors: ["#663326", "#804D40", "#99665C", "#B3868C", "#CC6633", "#D9A79C", "#E6733A", "#FF8040", "#FFA366", "#FFB380", "#FFC0A3", "#FFD1B3"]),
     ColorPalette(name: "Apple Honey Crust", colors: ["#A6531E", "#BF6523", "#CC8F39", "#D97A2C", "#E6B85C", "#F29133", "#F5D880", "#F7A84C", "#FAC169", "#FCD98A", "#FFE0A3", "#FFEBB8"]),
