@@ -1004,6 +1004,31 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       return;
     }
 
+    if (_isYouTubeStream) {
+      final tempDir = Directory.systemTemp.path;
+      final ytSubDir = path.join(tempDir, 'substitcher_yt_subs');
+      final subtitleFiles = <String>[];
+
+      if (await Directory(ytSubDir).exists()) {
+        await for (final entity in Directory(ytSubDir).list()) {
+          if (entity is File) {
+            final ext = path.extension(entity.path).toLowerCase();
+            if (ext == '.vtt') {
+              subtitleFiles.add(entity.path);
+            }
+          }
+        }
+      }
+
+      subtitleFiles.sort((a, b) =>
+          path.basename(a).toLowerCase().compareTo(path.basename(b).toLowerCase()));
+
+      setState(() {
+        _availableSubtitles = subtitleFiles;
+      });
+      return;
+    }
+
     final audiobookPath = _currentAudiobook!.path;
     final audiobookDir = path.dirname(audiobookPath);
     final audiobookBase = path.basenameWithoutExtension(audiobookPath);
@@ -10124,6 +10149,8 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
 
       String? subtitlePath;
       String selectedLang = _subtitlePreferences.defaultLanguage;
+      String? translateTo;
+      bool isAutoTranslated = false;
 
       if (!showPicker) {
         print('Attempting to download default language: $selectedLang');
@@ -10289,8 +10316,8 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           return;
         }
 
-        String? translateTo;
         if (selected.startsWith('translate:')) {
+          isAutoTranslated = true;
           final source = selected.replaceFirst('translate:', '');
           if (source == 'auto') {
             selectedLang = _subtitlePreferences.defaultLanguage;
@@ -10320,36 +10347,61 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       if (subtitlePath != null && mounted) {
         print('Loading subtitle file: $subtitlePath');
         final content = await File(subtitlePath).readAsString();
-        final originalSubtitles = _parseVTT(content);
-        print('Parsed ${originalSubtitles.length} subtitle cues');
+        final parsedSubs = _parseVTT(content);
+        print('Parsed ${parsedSubs.length} subtitle cues');
 
-        setState(() {
-          _originalSubtitles = originalSubtitles;
-          _subtitleFilePath = subtitlePath;
-          _paragraphItems = _createParagraphs(originalSubtitles);
-        });
+        if (isAutoTranslated) {
+          setState(() {
+            _secondarySubtitleFilePath = subtitlePath;
+            _secondarySubtitlePath = subtitlePath;
+            _secondaryOriginalSubtitles = parsedSubs;
+            _secondarySubtitles = parsedSubs;
+            _secondarySubtitleText = '';
+            _currentSecondarySubtitleIndex = null;
+          });
+          await _applySecondaryConversion();
+          _updateCurrentSubtitle();
 
-        if (_conversionType != 'none' && _subtitleFilePath != null) {
-          print('Applying conversion: $_conversionType');
-          await _applyConversion();
+          if (mounted) {
+            ScaffoldMessenger.of(context).showSnackBar(
+              SnackBar(
+                content: Text(
+                  'Loaded ${parsedSubs.length} auto-translated cues as secondary ($selectedLang → ${_subtitlePreferences.defaultLanguage})',
+                ),
+                duration: const Duration(seconds: 3),
+              ),
+            );
+          }
         } else {
           setState(() {
-            _subtitles = originalSubtitles;
+            _originalSubtitles = parsedSubs;
+            _subtitleFilePath = subtitlePath;
+            _primarySubtitlePath = subtitlePath;
+            _paragraphItems = _createParagraphs(parsedSubs);
           });
-        }
 
-        _updateCurrentSubtitle();
-        _precalculateWordPositions();
+          if (_conversionType != 'none' && _subtitleFilePath != null) {
+            print('Applying conversion: $_conversionType');
+            await _applyConversion();
+          } else {
+            setState(() {
+              _subtitles = parsedSubs;
+            });
+          }
 
-        if (mounted) {
-          ScaffoldMessenger.of(context).showSnackBar(
-            SnackBar(
-              content: Text(
-                'Loaded ${_subtitles.length} subtitle cues ($selectedLang)${_conversionType != 'none' ? ' • $_conversionType' : ''}',
+          _updateCurrentSubtitle();
+          _precalculateWordPositions();
+
+          if (mounted) {
+            ScaffoldMessenger.of(context).showSnackBar(
+              SnackBar(
+                content: Text(
+                  'Loaded ${_subtitles.length} subtitle cues ($selectedLang)${_conversionType != 'none' ? ' • $_conversionType' : ''}',
+                ),
+                duration: const Duration(seconds: 3),
               ),
-              duration: const Duration(seconds: 3),
-            ),
-          );
+            );
+          }
         }
       } else if (mounted) {
         print('Failed to download subtitle');
@@ -10417,6 +10469,16 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       _isLoadingYouTube = true;
       _currentYouTubeUrl = url;
     });
+
+    try {
+      final ytSubDir = path.join(Directory.systemTemp.path, 'substitcher_yt_subs');
+      if (await Directory(ytSubDir).exists()) {
+        await Directory(ytSubDir).delete(recursive: true);
+        await Directory(ytSubDir).create();
+      }
+    } catch (e) {
+      print('Error clearing subtitle temp dir: $e');
+    }
 
     try {
       if (!await YouTubeService.isYtdlpAvailable()) {

@@ -675,7 +675,6 @@ class PlayerControls extends StatelessWidget {
                 child: const Text('Apply Font/Color Default (a)'),
               ),
             ),
-            if (!isYouTubeStream)
               const PopupMenuItem(
                 value: 'subtitle_manager',
                 child: Text('Subtitle Manager (v)'),

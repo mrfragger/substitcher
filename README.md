@@ -330,9 +330,12 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 - displays subs automatically if avaiable based on default language which can be set
 - set to any language using youtube's auto-translate feature
 - using auto-translate requires visiting youtube.com on firefox and leaving it there so it can find the cookie
+- dual subs for auto-translated into any language and original language
 - still can choose orig (original file if which doesn't require a firefox cookie)
 - choose audio streams
 - choose up to 10 languages to prompt when default language isn't found, this enables a shortlist rather than scrolling through 79 languages each time
+
+![](images/youtubedualsubs.jpg)
 
 <details>
 <summary>list of languages</summary>
