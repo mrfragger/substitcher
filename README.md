@@ -327,7 +327,10 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 ### Youtube
 - handles videos or audio to stream (ignored for History, Stats), disabled on android/iOS
 - download video or audio and playlists with option to resume includes soundcloud and spreaker
-- displays subs automatically if avaiable based on default language
+- displays subs automatically if avaiable based on default language which can be set
+- set to any language using youtube's auto-translate feature
+- using auto-translate requires visiting youtube.com on firefox and leaving it there so it can find the cookie
+- still can choose orig (original file if which doesn't require a firefox cookie)
 - choose audio streams
 - choose up to 10 languages to prompt when default language isn't found, this enables a shortlist rather than scrolling through 79 languages each time
 
@@ -499,6 +502,8 @@ Android (64-bit devices only, arm64-v8a)
 - Screen Kite, free, record screen area with system sound, better than OBS https://www.screenkite.com 
 - MetalVoice, free, Denoise DeepFilterNet3 in realtime on mic input https://github.com/Ghostkwebb/MetalVoice
 - LocalSend, free, flutter app share files, free https://localsend.org
+- Handy, free, local (CPU only) not-realtime dictation, transcription in many languages, no srt, vtt though https://github.com/cjpais/Handy
+- Moonshine Note Taker, free, English only, local realtime transcription, edit mistakes, outputs srt drag audio to app to transcribe https://note-taker.moonshine.ai/
 - Shotcut, free, add images, mutli-track video editor, free, learning curve https://shotcut.org
 - DaVinci resolve, free up to 1080p, but requires 16GB RAM bare minimum and massive learning curve, expensive
 
@@ -521,16 +526,6 @@ https://github.com/kjyv/KokoroTTS Mac only
 
 ![](images/ttskokoro.jpg)
 
-https://piper.ttstool.com
-- ~63MB download per voice, fast local cpu processing
-- (~3min mac m1 for 30KB text), right-click save as wav audio file
-- English (Great Britain)
-- alba[medium]
-- northern_english_male[medium]
-- English (United States)
-- amy[medium]
-- hfc_female[medium]
-- hfc_male[medium]
-- joe[medium]
+
 
 </details>

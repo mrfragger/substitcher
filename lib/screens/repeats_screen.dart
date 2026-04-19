@@ -217,81 +217,67 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
   }
 
   Future<String> _processVttContent(String originalContent, String baseName, String dir) async {
-    String content = _normalizeBlankLines(originalContent);
-
-    final subDir = path.join(dir, '${baseName}_vtt');
-    await Directory(subDir).create(recursive: true);
-
-    final beforeZeroDuration = content;
-    content = _fixZeroDurationSubtitles(content);
-    final afterZeroDuration = content;
-
-    for (final word in _preserveWords) {
-      content = content.replaceAll(
-        RegExp(word['pattern']!, caseSensitive: false),
-        word['temp']!,
-      );
+      String content = _normalizeBlankLines(originalContent);
+      final subDir = path.join(dir, '${baseName}_vtt');
+      await Directory(subDir).create(recursive: true);
+      final beforeZeroDuration = content;
+      content = _fixZeroDurationSubtitles(content);
+      final afterZeroDuration = content;
+      final beforeOverlap = content;
+      content = _fixOverlappingTimecodes(content);
+      final afterOverlap = content;
+      for (final word in _preserveWords) {
+        content = content.replaceAll(
+          RegExp(word['pattern']!, caseSensitive: false),
+          word['temp']!,
+        );
+      }
+      bool foundRepeats = true;
+      int maxIterations = 20;
+      int iterations = 0;
+      while (foundRepeats && iterations < maxIterations) {
+        final beforePass = content;
+        content = content.replaceAllMapped(
+          RegExp(r'(\s|^)(\w+)(\s)\2(\s|$)', caseSensitive: false),
+          (match) {
+            return '${match.group(1)}${match.group(2)}${match.group(4)}';
+          },
+        );
+        foundRepeats = (content != beforePass);
+        iterations++;
+      }
+      _iterationCount = iterations;
+      for (final word in _preserveWords) {
+        content = content.replaceAll(word['temp']!, word['restore']!);
+      }
+      content = _removeEmptyLines(content);
+      final repeatsPath = path.join(subDir, '${baseName}_repeats.vtt');
+      await File(repeatsPath).writeAsString(content);
+      final beforeHonorifics = content;
+      final honorificResult = _fixCrossSubtitleHonorifics(content);
+      content = honorificResult['content'] as String;
+      final fixedLinePairs = honorificResult['fixedLinePairs'] as List<Map<String, int>>;
+      final beforeSingleLine = content;
+      content = _applySingleLineHonorifics(content);
+      final beforeProperNouns = content;
+      content = _capitalizeProperNouns(content);
+      content = _capitalizeSentenceStarts(content);
+      final outputPath = path.join(subDir, '${baseName}_propernoun.vtt');
+      await File(outputPath).writeAsString(content);
+      final zeroDurationHtmlPath = path.join(subDir, '${baseName}_zeroduration_changes.html');
+      await _generateDiffHtml('Zero-Duration Fixes', beforeZeroDuration, afterZeroDuration, zeroDurationHtmlPath);
+      final overlapHtmlPath = path.join(subDir, '${baseName}_overlap_changes.html');
+      await _generateDiffHtml('Overlapping Timecode Fixes', beforeOverlap, afterOverlap, overlapHtmlPath);
+      final repeatsHtmlPath = path.join(subDir, '${baseName}_repeats_changes.html');
+      await _generateDiffHtml('Repeats Removed', originalContent, beforeHonorifics, repeatsHtmlPath);
+      final honorificsHtmlPath = path.join(subDir, '${baseName}_honorifics_changes.html');
+      await _generateDiffHtml('Cross-Subtitle Honorific Fixes', beforeHonorifics, beforeSingleLine, honorificsHtmlPath, fixedLinePairs: fixedLinePairs);
+      final singleLineHtmlPath = path.join(subDir, '${baseName}_singleline_honorifics.html');
+      await _generateDiffHtml('Single-Line Honorifics', beforeSingleLine, beforeProperNouns, singleLineHtmlPath);
+      final properNounsHtmlPath = path.join(subDir, '${baseName}_propernoun_changes.html');
+      await _generateDiffHtml('Proper Nouns Capitalized', beforeProperNouns, content, properNounsHtmlPath);
+      return outputPath;
     }
-
-    bool foundRepeats = true;
-    int maxIterations = 20;
-    int iterations = 0;
-
-    while (foundRepeats && iterations < maxIterations) {
-      final beforePass = content;
-      content = content.replaceAllMapped(
-        RegExp(r'(\s|^)(\w+)(\s)\2(\s|$)', caseSensitive: false),
-        (match) {
-          return '${match.group(1)}${match.group(2)}${match.group(4)}';
-        },
-      );
-      foundRepeats = (content != beforePass);
-      iterations++;
-    }
-
-    _iterationCount = iterations;
-
-    for (final word in _preserveWords) {
-      content = content.replaceAll(word['temp']!, word['restore']!);
-    }
-
-    content = _removeEmptyLines(content);
-
-    final repeatsPath = path.join(subDir, '${baseName}_repeats.vtt');
-    await File(repeatsPath).writeAsString(content);
-
-    final beforeHonorifics = content;
-    final honorificResult = _fixCrossSubtitleHonorifics(content);
-    content = honorificResult['content'] as String;
-    final fixedLinePairs = honorificResult['fixedLinePairs'] as List<Map<String, int>>;
-
-    final beforeSingleLine = content;
-    content = _applySingleLineHonorifics(content);
-
-    final beforeProperNouns = content;
-    content = _capitalizeProperNouns(content);
-    content = _capitalizeSentenceStarts(content);
-
-    final outputPath = path.join(subDir, '${baseName}_propernoun.vtt');
-    await File(outputPath).writeAsString(content);
-
-    final zeroDurationHtmlPath = path.join(subDir, '${baseName}_zeroduration_changes.html');
-    await _generateDiffHtml('Zero-Duration Fixes', beforeZeroDuration, afterZeroDuration, zeroDurationHtmlPath);
-
-    final repeatsHtmlPath = path.join(subDir, '${baseName}_repeats_changes.html');
-    await _generateDiffHtml('Repeats Removed', originalContent, beforeHonorifics, repeatsHtmlPath);
-
-    final honorificsHtmlPath = path.join(subDir, '${baseName}_honorifics_changes.html');
-    await _generateDiffHtml('Cross-Subtitle Honorific Fixes', beforeHonorifics, beforeSingleLine, honorificsHtmlPath, fixedLinePairs: fixedLinePairs);
-
-    final singleLineHtmlPath = path.join(subDir, '${baseName}_singleline_honorifics.html');
-    await _generateDiffHtml('Single-Line Honorifics', beforeSingleLine, beforeProperNouns, singleLineHtmlPath);
-
-    final properNounsHtmlPath = path.join(subDir, '${baseName}_propernoun_changes.html');
-    await _generateDiffHtml('Proper Nouns Capitalized', beforeProperNouns, content, properNounsHtmlPath);
-
-    return outputPath;
-  }
 
   Future<void> _processVttFile() async {
     if (_selectedVttPath == null) {
@@ -324,29 +310,31 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
       await Future.delayed(const Duration(milliseconds: 100));
 
       final zeroDurationChanges = _countHtmlChanges(zeroDurationHtmlPath);
+      final overlapChanges = _countHtmlChanges(path.join(subDir, '${baseName}_overlap_changes.html'));
       final repeatsChanges = _countHtmlChanges(repeatsHtmlPath);
       final singleLineChanges = _countHtmlChanges(singleLineHtmlPath);
       final honorificsChanges = _countHtmlChanges(honorificsHtmlPath);
       final properNounChanges = _countHtmlChanges(properNounsHtmlPath);
-      final totalChanges = zeroDurationChanges + repeatsChanges + singleLineChanges + honorificsChanges + properNounChanges;
+      final totalChanges = zeroDurationChanges + overlapChanges + repeatsChanges + singleLineChanges + honorificsChanges + properNounChanges;
 
       setState(() {
         _isProcessing = false;
         _outputPath = outputPath;
         _statusMessage = 'Success! Output in: ${path.basename(subDir)}/\n\n'
-            'Zero-duration fixes: $zeroDurationChanges changes\n'
-            'Repeats removed: $repeatsChanges changes ($_iterationCount passes)\n'
-            'Single-line honorifics: $singleLineChanges changes\n'
-            'Cross-subtitle honorifics: $honorificsChanges changes\n'
-            'Proper nouns: $properNounChanges changes\n'
-            'Total changes: $totalChanges';
+        'Zero-duration fixes: $zeroDurationChanges changes\n'
+        'Overlap fixes: $overlapChanges changes\n'
+        'Repeats removed: $repeatsChanges changes ($_iterationCount passes)\n'
+        'Single-line honorifics: $singleLineChanges changes\n'
+        'Cross-subtitle honorifics: $honorificsChanges changes\n'
+        'Proper nouns: $properNounChanges changes\n'
+        'Total changes: $totalChanges';
       });
 
       if (mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
           SnackBar(
             content: Text('Processing complete! Total: $totalChanges changes'),
-            duration: const Duration(seconds: 4),
+            duration: const Duration(seconds: 15),
             backgroundColor: Colors.green,
           ),
         );
@@ -368,89 +356,112 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
   }
 
   Future<void> _batchProcessDirectory() async {
-    final result = await FilePicker.platform.getDirectoryPath(
-      dialogTitle: 'Select directory containing VTT files',
-    );
+      final result = await FilePicker.platform.getDirectoryPath(
+        dialogTitle: 'Select directory containing VTT files',
+      );
 
-    if (result == null) return;
+      if (result == null) return;
 
-    setState(() {
-      _isProcessing = true;
-      _statusMessage = 'Scanning for VTT files...';
-    });
+      setState(() {
+        _isProcessing = true;
+        _statusMessage = 'Scanning for VTT files...';
+      });
 
-    try {
-      final dir = Directory(result);
-      final vttFiles = dir
-          .listSync(recursive: false)
-          .whereType<File>()
-          .where((f) => path.extension(f.path).toLowerCase() == '.vtt')
-          .toList();
+      try {
+        final dir = Directory(result);
+        final vttFiles = dir
+            .listSync(recursive: false)
+            .whereType<File>()
+            .where((f) => path.extension(f.path).toLowerCase() == '.vtt')
+            .toList();
 
-      if (vttFiles.isEmpty) {
+        if (vttFiles.isEmpty) {
+          setState(() {
+            _isProcessing = false;
+            _statusMessage = 'No VTT files found in selected directory.';
+          });
+          return;
+        }
+
+        int totalFiles = vttFiles.length;
+        int processed = 0;
+        int totalChanges = 0;
+        final errors = <String>[];
+        final copiedFiles = <String>[];
+
+        final timestamp = DateTime.now().millisecondsSinceEpoch;
+        final originalsDir = path.join(result, '${timestamp}_original_vtt');
+        await Directory(originalsDir).create(recursive: true);
+
+        for (final file in vttFiles) {
+          final baseName = path.basenameWithoutExtension(file.path);
+          final fileDir = path.dirname(file.path);
+
+          setState(() {
+            _statusMessage = 'Processing ${processed + 1}/$totalFiles: $baseName...';
+          });
+
+          try {
+            final originalContent = await file.readAsString();
+            await _processVttContent(originalContent, baseName, fileDir);
+
+            final subDir = path.join(fileDir, '${baseName}_vtt');
+
+            final originalDestPath = path.join(originalsDir, '${baseName}.vtt');
+            await file.rename(originalDestPath);
+
+            final properNounPath = path.join(subDir, '${baseName}_propernoun.vtt');
+            final copyDestPath = path.join(fileDir, '${baseName}.vtt');
+            await File(properNounPath).copy(copyDestPath);
+            copiedFiles.add('${baseName}.vtt');
+
+            final zeroDurationChanges = _countHtmlChanges(path.join(subDir, '${baseName}_zeroduration_changes.html'));
+            final overlapChanges = _countHtmlChanges(path.join(subDir, '${baseName}_overlap_changes.html'));
+            final repeatsChanges = _countHtmlChanges(path.join(subDir, '${baseName}_repeats_changes.html'));
+            final singleLineChanges = _countHtmlChanges(path.join(subDir, '${baseName}_singleline_honorifics.html'));
+            final honorificsChanges = _countHtmlChanges(path.join(subDir, '${baseName}_honorifics_changes.html'));
+            final properNounChanges = _countHtmlChanges(path.join(subDir, '${baseName}_propernoun_changes.html'));
+            totalChanges += zeroDurationChanges + overlapChanges + repeatsChanges + singleLineChanges + honorificsChanges + properNounChanges;
+
+            processed++;
+          } catch (e) {
+            errors.add('$baseName: $e');
+            processed++;
+          }
+        }
+
+        final copiedSummary = copiedFiles.isNotEmpty
+            ? '\n\nPropernoun VTTs copied to source directory:\n${copiedFiles.map((f) => '  ✓ $f').join('\n')}'
+            : '';
+
         setState(() {
           _isProcessing = false;
-          _statusMessage = 'No VTT files found in selected directory.';
-        });
-        return;
-      }
-
-      int totalFiles = vttFiles.length;
-      int processed = 0;
-      int totalChanges = 0;
-      final errors = <String>[];
-
-      for (final file in vttFiles) {
-        final baseName = path.basenameWithoutExtension(file.path);
-        final fileDir = path.dirname(file.path);
-
-        setState(() {
-          _statusMessage = 'Processing ${processed + 1}/$totalFiles: $baseName...';
+          _statusMessage = 'Batch complete!\n'
+              'Processed: $processed/$totalFiles files\n'
+              'Total changes across all files: $totalChanges'
+              '$copiedSummary'
+              '${errors.isNotEmpty ? '\n\nErrors:\n${errors.join('\n')}' : ''}';
         });
 
-        try {
-          final originalContent = await file.readAsString();
-          await _processVttContent(originalContent, baseName, fileDir);
-
-          final subDir = path.join(fileDir, '${baseName}_vtt');
-          final zeroDurationChanges = _countHtmlChanges(path.join(subDir, '${baseName}_zeroduration_changes.html'));
-          final repeatsChanges = _countHtmlChanges(path.join(subDir, '${baseName}_repeats_changes.html'));
-          final singleLineChanges = _countHtmlChanges(path.join(subDir, '${baseName}_singleline_honorifics.html'));
-          final honorificsChanges = _countHtmlChanges(path.join(subDir, '${baseName}_honorifics_changes.html'));
-          final properNounChanges = _countHtmlChanges(path.join(subDir, '${baseName}_propernoun_changes.html'));
-          totalChanges += zeroDurationChanges + repeatsChanges + singleLineChanges + honorificsChanges + properNounChanges;
-
-          processed++;
-        } catch (e) {
-          errors.add('$baseName: $e');
-          processed++;
+        if (mounted) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            SnackBar(
+              content: Text(
+                'Batch complete! $processed files, $totalChanges total changes\n'
+                '${copiedFiles.length} propernoun VTTs copied to source directory'
+              ),
+              duration: const Duration(seconds: 6),
+              backgroundColor: errors.isNotEmpty ? Colors.orange : Colors.green,
+            ),
+          );
         }
+      } catch (e) {
+        setState(() {
+          _isProcessing = false;
+          _statusMessage = 'Batch error: $e';
+        });
       }
-
-      setState(() {
-        _isProcessing = false;
-        _statusMessage = 'Batch complete!\n'
-            'Processed: $processed/$totalFiles files\n'
-            'Total changes across all files: $totalChanges'
-            '${errors.isNotEmpty ? '\n\nErrors:\n${errors.join('\n')}' : ''}';
-      });
-
-      if (mounted) {
-        ScaffoldMessenger.of(context).showSnackBar(
-          SnackBar(
-            content: Text('Batch complete! $processed files, $totalChanges total changes'),
-            duration: const Duration(seconds: 4),
-            backgroundColor: errors.isNotEmpty ? Colors.orange : Colors.green,
-          ),
-        );
-      }
-    } catch (e) {
-      setState(() {
-        _isProcessing = false;
-        _statusMessage = 'Batch error: $e';
-      });
     }
-  }
 
   String _normalizeBlankLines(String content) {
     content = content.replaceAll('\r\n', '\n').replaceAll('\r', '\n');
@@ -645,7 +656,6 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
             });
             changeNumber++;
           }
-          // Skip the second line of pairs as it's already included
           continue;
         }
 
@@ -984,6 +994,92 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
     }
 
     return result;
+  }
+
+  String _fixOverlappingTimecodes(String content) {
+    final lines = content.split('\n');
+    final blocks = <Map<String, dynamic>>[];
+
+    final timecodeRegex = RegExp(
+      r'^(\d{2}:\d{2}:\d{2}\.\d{3})\s+-->\s+(\d{2}:\d{2}:\d{2}\.\d{3})',
+    );
+
+    String header = '';
+    int i = 0;
+    if (lines.isNotEmpty && lines[0].trim().startsWith('WEBVTT')) {
+      header = lines[0];
+      i = 1;
+    }
+
+    while (i < lines.length) {
+      if (lines[i].trim().isEmpty) {
+        i++;
+        continue;
+      }
+
+      final match = timecodeRegex.firstMatch(lines[i].trim());
+      if (match != null) {
+        final startTime = match.group(1)!;
+        final endTime = match.group(2)!;
+
+        final textLines = <String>[];
+        i++;
+        while (i < lines.length &&
+               lines[i].trim().isNotEmpty &&
+               !timecodeRegex.hasMatch(lines[i].trim())) {
+          textLines.add(lines[i]);
+          i++;
+        }
+
+        blocks.add({
+          'start': startTime,
+          'end': endTime,
+          'text': textLines,
+        });
+      } else {
+        i++;
+      }
+    }
+
+    // Fix overlapping timecodes
+    int fixCount = 0;
+    for (int idx = 0; idx < blocks.length - 1; idx++) {
+      final currentEnd = _parseTimecode(blocks[idx]['end'] as String);
+      final nextStart = _parseTimecode(blocks[idx + 1]['start'] as String);
+
+      if (currentEnd > nextStart) {
+        blocks[idx]['end'] = blocks[idx + 1]['start'];
+        fixCount++;
+      }
+    }
+
+    print('Overlapping timecode fixes: $fixCount');
+
+    final buffer = StringBuffer();
+    if (header.isNotEmpty) {
+      buffer.writeln(header);
+      buffer.writeln();
+    }
+
+    for (final block in blocks) {
+      buffer.writeln('${block['start']} --> ${block['end']}');
+      for (final textLine in block['text'] as List<String>) {
+        buffer.writeln(textLine);
+      }
+      buffer.writeln();
+    }
+
+    return buffer.toString().trimRight();
+  }
+
+  int _parseTimecode(String timecode) {
+    final parts = timecode.split(':');
+    final hours = int.parse(parts[0]);
+    final minutes = int.parse(parts[1]);
+    final secondsParts = parts[2].split('.');
+    final seconds = int.parse(secondsParts[0]);
+    final milliseconds = int.parse(secondsParts[1]);
+    return ((hours * 3600 + minutes * 60 + seconds) * 1000) + milliseconds;
   }
 
   String _escapeHtml(String text) {

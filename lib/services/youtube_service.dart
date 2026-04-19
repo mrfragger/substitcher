@@ -6,14 +6,14 @@ class YouTubeService {
   static String? _ytdlpPath;
 
   static String? get ytdlpPath => _ytdlpPath;
-  
+
   static Future<bool> isYtdlpAvailable() async {
     final paths = [
       '/opt/homebrew/bin/yt-dlp',
       '/usr/local/bin/yt-dlp',
       'yt-dlp',
     ];
-    
+
     for (final ytdlp in paths) {
       try {
         final result = await Process.run(ytdlp, ['--version']);
@@ -32,52 +32,52 @@ class YouTubeService {
     if (_ytdlpPath == null && !await isYtdlpAvailable()) {
       return null;
     }
-    
+
     final result = await Process.run(_ytdlpPath!, [
       '--get-filename',
       '-o', '%(channel)s',
       '--no-playlist',
       youtubeUrl,
     ]);
-    
+
     if (result.exitCode == 0) {
       return result.stdout.toString().trim();
     }
     return null;
   }
-  
+
   static Future<String?> getAudioStreamUrl(String youtubeUrl, {String? formatId}) async {
     if (_ytdlpPath == null && !await isYtdlpAvailable()) {
       throw Exception('yt-dlp not found. Please install yt-dlp.');
     }
-    
+
     final args = [
       '-f', formatId ?? 'bestaudio',
       '-g',
       '--no-playlist',
       youtubeUrl,
     ];
-    
+
     final result = await Process.run(_ytdlpPath!, args);
-    
+
     if (result.exitCode != 0) {
       throw Exception('Failed to get audio stream: ${result.stderr}');
     }
-    
+
     return result.stdout.toString().trim();
   }
-  
+
   static Future<String> getVideoTitle(String youtubeUrl) async {
     if (_ytdlpPath == null && !await isYtdlpAvailable()) {
       throw Exception('yt-dlp not found');
     }
-    
+
     final result = await Process.run(_ytdlpPath!, [
       '--get-title',
       '--no-playlist',
       youtubeUrl,
     ]);
-    
+
     if (result.exitCode == 0) {
       return result.stdout.toString().trim();
     }
@@ -93,16 +93,16 @@ class YouTubeService {
     if (_ytdlpPath == null && !await isYtdlpAvailable()) {
       throw Exception('yt-dlp not found');
     }
-    
+
     await _cleanupOldSubtitles(outputDir);
-    
+
     final title = await getVideoTitle(youtubeUrl);
     final safeTitle = YouTubeService.sanitizeFilename(title);
-    
+
     print('Downloading auto-translated subtitle: $sourceLang -> $targetLang');
     print('Safe title: $safeTitle');
     print('Output dir: $outputDir');
-    
+
     final result = await Process.run(_ytdlpPath!, [
       '--write-auto-sub',
       '--sub-lang', targetLang,
@@ -112,32 +112,32 @@ class YouTubeService {
       '-o', path.join(outputDir, '$safeTitle.%(ext)s'),
       youtubeUrl,
     ]);
-    
+
     print('Download exit code: ${result.exitCode}');
     print('stdout: ${result.stdout}');
     print('stderr: ${result.stderr}');
-    
+
     final stdoutStr = result.stdout.toString();
     final stderrStr = result.stderr.toString();
-    
+
     if (stdoutStr.contains('There are no subtitles for the requested languages')) {
       print('No subtitles available for $targetLang');
       return null;
     }
-    
+
     if (stderrStr.contains('429') || stderrStr.contains('Too Many Requests')) {
       print('Rate limited by YouTube. Please wait a moment and try again.');
       return null;
     }
-    
+
     await Future.delayed(const Duration(seconds: 1));
-    
+
     String? subtitlePath;
-    
+
     await for (final entity in Directory(outputDir).list()) {
       if (entity is File) {
         final name = path.basename(entity.path);
-        
+
         if (name.endsWith('.$targetLang.vtt') && !name.contains('.ytfixed')) {
           subtitlePath = entity.path;
           print('Found subtitle file: $subtitlePath');
@@ -145,12 +145,12 @@ class YouTubeService {
         }
       }
     }
-    
+
     if (subtitlePath == null) {
       print('Could not find downloaded subtitle file');
       return null;
     }
-    
+
     try {
       final fixedPath = await fixYouTubeSubtitles(subtitlePath);
       print('Fixed subtitle path: $fixedPath');
@@ -160,32 +160,41 @@ class YouTubeService {
       return subtitlePath;
     }
   }
-  
+
   static Future<String?> downloadAndFixSubtitles(
-    String youtubeUrl, 
-    String outputDir,
-    {String lang = 'en', String? translateTo}
-  ) async {
+    String youtubeUrl,
+    String outputDir, {
+    String lang = 'en',
+    String? translateTo,
+    String? cookiesFilePath,
+  }) async {
     if (_ytdlpPath == null && !await isYtdlpAvailable()) {
       throw Exception('yt-dlp not found');
     }
-    
     await _cleanupOldSubtitles(outputDir);
-    
     final title = await getVideoTitle(youtubeUrl);
     final safeTitle = YouTubeService.sanitizeFilename(title);
-    
     print('Attempting to download subtitle: $lang');
     if (translateTo != null) {
       print('With auto-translate to: $translateTo');
     }
     print('Safe title: $safeTitle');
-    
+
     ProcessResult? result;
-    
     final subLangArg = translateTo != null ? '$translateTo-$lang' : lang;
-    
+
+    List<String> cookieArgs = [];
+    if (cookiesFilePath != null) {
+      cookieArgs = ['--cookies', cookiesFilePath!];
+    } else {
+      final browser = await _findWorkingCookieArg(youtubeUrl);
+      if (browser != null) {
+        cookieArgs = ['--cookies-from-browser', browser];
+      }
+    }
+
     result = await Process.run(_ytdlpPath!, [
+      ...cookieArgs,
       '--write-auto-sub',
       '--sub-lang', subLangArg,
       '--sub-format', 'vtt',
@@ -195,19 +204,19 @@ class YouTubeService {
       '-o', path.join(outputDir, '$safeTitle.%(ext)s'),
       youtubeUrl,
     ]);
-    
+
     final autoStdout = result.stdout.toString();
-    
     print('Auto-sub exit code: ${result.exitCode}');
-    
-    bool downloadedAuto = autoStdout.contains('Writing video subtitles') || 
+
+    bool downloadedAuto = autoStdout.contains('Writing video subtitles') ||
                          autoStdout.contains('Downloading subtitles');
-    
+
     if (!downloadedAuto) {
       print('Auto-sub output: $autoStdout');
       print('Trying manual subtitles...');
-      
+
       result = await Process.run(_ytdlpPath!, [
+        ...cookieArgs,
         '--write-sub',
         '--sub-lang', subLangArg,
         '--sub-format', 'vtt',
@@ -217,33 +226,31 @@ class YouTubeService {
         '-o', path.join(outputDir, '$safeTitle.%(ext)s'),
         youtubeUrl,
       ]);
-      
+
       final manualStdout = result.stdout.toString();
       print('Manual sub exit code: ${result.exitCode}');
       print('Manual sub output: $manualStdout');
-      
-      if (!manualStdout.contains('Writing video subtitles') && 
+
+      if (!manualStdout.contains('Writing video subtitles') &&
           !manualStdout.contains('Downloading subtitles')) {
         print('No subtitles were actually downloaded');
         return null;
       }
     }
-    
+
     await Future.delayed(const Duration(milliseconds: 500));
-    
     final searchLang = translateTo ?? lang;
     print('Looking for subtitle files with pattern: $safeTitle.*.$searchLang*.vtt');
     final dir = Directory(outputDir);
     String? subtitlePath;
-    
+
     await for (final entity in dir.list()) {
       if (entity is File) {
         final name = path.basename(entity.path);
-        
-        if (name.startsWith(safeTitle) && 
+        if (name.startsWith(safeTitle) &&
             name.endsWith('.vtt') &&
             !name.contains('.ytfixed') &&
-            (name.contains('.$searchLang.') || 
+            (name.contains('.$searchLang.') ||
              name.contains('.$searchLang-') ||
              name.contains('-$searchLang.'))) {
           subtitlePath = entity.path;
@@ -252,12 +259,12 @@ class YouTubeService {
         }
       }
     }
-    
+
     if (subtitlePath == null) {
       print('Could not find downloaded subtitle file');
       return null;
     }
-    
+
     try {
       final fixedPath = await fixYouTubeSubtitles(subtitlePath);
       print('Fixed subtitle path: $fixedPath');
@@ -267,32 +274,57 @@ class YouTubeService {
       return subtitlePath;
     }
   }
-  
+
+  static Future<String?> _findWorkingCookieArg(String youtubeUrl) async {
+    final browsers = ['firefox'];
+
+    for (final browser in browsers) {
+      try {
+        final result = await Process.run(_ytdlpPath!, [
+          '--cookies-from-browser', browser,
+          '--skip-download',
+          '--no-warnings',
+          '--no-playlist',
+          youtubeUrl,
+        ]);
+        if (result.exitCode == 0 &&
+            !result.stderr.toString().contains('could not find') &&
+            !result.stderr.toString().contains('Extracted 0 cookies')) {
+          print('Found working cookies from: $browser');
+          return browser;
+        }
+      } catch (e) {
+        continue;
+      }
+    }
+    return null;
+  }
+
   static Future<void> _cleanupOldSubtitles(String outputDir, {String? keepTitle}) async {
     try {
       final dir = Directory(outputDir);
       if (!await dir.exists()) {
         return;
       }
-      
+
       final now = DateTime.now();
       final files = await dir.list().toList();
-      
+
       print('Cleaning up old subtitle files (${files.length} files)...');
-      
+
       int deletedCount = 0;
       for (final entity in files) {
         if (entity is File) {
           try {
             final name = path.basename(entity.path);
-            
+
             if (keepTitle != null && name.startsWith(keepTitle)) {
               continue;
             }
-            
+
             final stat = await entity.stat();
             final age = now.difference(stat.modified);
-            
+
             if (age.inHours > 24) {
               await entity.delete();
               deletedCount++;
@@ -302,7 +334,7 @@ class YouTubeService {
           }
         }
       }
-      
+
       if (deletedCount > 0) {
         print('Deleted $deletedCount old subtitle files');
       }
@@ -315,25 +347,25 @@ class YouTubeService {
     if (_ytdlpPath == null && !await isYtdlpAvailable()) {
       return null;
     }
-    
+
     try {
       final result = await Process.run(_ytdlpPath!, [
         '--dump-json',
         '--no-playlist',
         youtubeUrl,
       ]);
-      
+
       if (result.exitCode != 0) {
         return null;
       }
-      
+
       final jsonStr = result.stdout.toString();
       final data = jsonDecode(jsonStr) as Map<String, dynamic>;
-      
+
       if (data.containsKey('chapters') && data['chapters'] != null) {
         return List<Map<String, dynamic>>.from(data['chapters']);
       }
-      
+
       return null;
     } catch (e) {
       print('Error getting chapters: $e');
@@ -343,26 +375,79 @@ class YouTubeService {
 
   static Future<List<Map<String, String>>> getAvailableSubtitles(
     String youtubeUrl,
-    List<String> enabledLanguages,
   ) async {
     if (_ytdlpPath == null && !await isYtdlpAvailable()) {
       throw Exception('yt-dlp not found');
     }
-    
-    final subtitles = <Map<String, String>>[];
-    
-    for (final langCode in enabledLanguages) {
-      final langName = _getLanguageName(langCode);
-      subtitles.add({
-        'code': langCode,
-        'name': langName,
-        'type': 'user-enabled',
-      });
+
+    final result = await Process.run(
+      _ytdlpPath!,
+      ['--list-subs', '--skip-download', '--no-update', youtubeUrl],
+    );
+
+    final output = result.stdout as String;
+    final realSubs = <Map<String, String>>[];
+    final autoSubs = <Map<String, String>>[];
+    final seen = <String>{};
+    bool inRealSubs = false;
+    bool inAutoSubs = false;
+
+    for (final line in output.split('\n')) {
+      if (line.contains('[info] Available subtitles')) {
+        inRealSubs = true;
+        inAutoSubs = false;
+        continue;
+      }
+      if (line.contains('[info] Available automatic captions')) {
+        inAutoSubs = true;
+        inRealSubs = false;
+        continue;
+      }
+
+      if (!inRealSubs && !inAutoSubs) continue;
+
+      final trimmed = line.trim();
+      if (trimmed.isEmpty ||
+          trimmed.startsWith('Language') ||
+          trimmed.startsWith('[')) continue;
+
+      final match = RegExp(r'^(\S+)\s{2,}(.+?)\s{2,}(vtt|srt|ttml|srv)').firstMatch(trimmed);
+      if (match == null) continue;
+
+      final code = match.group(1)!.trim();
+      final name = match.group(2)!.trim();
+
+      if (seen.contains(code)) continue;
+
+      if (inAutoSubs) {
+        final isTranslated = RegExp(r'^.+-.{2,5}-.{2,5}$|^.+-\w{2,3}-\w{2,5}$').hasMatch(code)
+            || name.contains(' from ');
+        if (isTranslated) continue;
+      }
+
+      seen.add(code);
+
+      final entry = {'code': code, 'name': name, 'type': inRealSubs ? 'manual' : 'auto'};
+      if (inRealSubs) {
+        realSubs.add(entry);
+      } else {
+        autoSubs.add(entry);
+      }
     }
-    
-    return subtitles;
+
+    final combined = [...realSubs, ...autoSubs];
+
+    combined.sort((a, b) {
+      final aIsOriginal = a['name']!.contains('(Original)') || a['type'] == 'manual';
+      final bIsOriginal = b['name']!.contains('(Original)') || b['type'] == 'manual';
+      if (aIsOriginal && !bIsOriginal) return -1;
+      if (!aIsOriginal && bIsOriginal) return 1;
+      return a['name']!.compareTo(b['name']!);
+    });
+
+    return combined;
   }
-  
+
   static String _getLanguageName(String code) {
     const nameMap = {
       'en': 'English',
@@ -444,31 +529,31 @@ class YouTubeService {
       'ug': 'Uyghur (ئۇيغۇرچە)',
       'uz': 'Uzbek (Oʻzbekcha)',
       'vi': 'Vietnamese (Tiếng Việt)',
-    };      
-    
+    };
+
     return nameMap[code] ?? code.toUpperCase();
   }
-  
+
   static Future<String> fixYouTubeSubtitles(String inputPath) async {
     final content = await File(inputPath).readAsString();
     final lines = content.split('\n');
-    
+
     final cues = <_SubtitleCue>[];
     String? currentStart;
     String? currentEnd;
     final textBuffer = <String>[];
-    
+
     for (var line in lines) {
       line = line.trim();
-      
+
       if (line == 'WEBVTT' || line.startsWith('NOTE') || line.startsWith('Kind:') || line.startsWith('Language:')) {
         continue;
       }
-      
+
       if (RegExp(r'^\d+$').hasMatch(line)) {
         continue;
       }
-      
+
       if (line.contains('-->')) {
         if (currentStart != null && textBuffer.isNotEmpty) {
           final text = textBuffer.join(' ').trim();
@@ -480,7 +565,7 @@ class YouTubeService {
             ));
           }
         }
-        
+
         final parts = line.split('-->');
         if (parts.length == 2) {
           currentStart = parts[0].trim().split(' ')[0];
@@ -491,7 +576,7 @@ class YouTubeService {
         textBuffer.add(line);
       }
     }
-    
+
     if (currentStart != null && textBuffer.isNotEmpty) {
       final text = textBuffer.join(' ').trim();
       if (text.isNotEmpty) {
@@ -502,16 +587,16 @@ class YouTubeService {
         ));
       }
     }
-    
+
     var baseName = path.basenameWithoutExtension(inputPath);
     final dir = path.dirname(inputPath);
-    
+
     while (baseName.contains('.ytfixed')) {
       baseName = baseName.replaceAll('.ytfixed', '');
     }
-    
+
     final outputPath = path.join(dir, '$baseName.ytfixed.vtt');
-    
+
     if (cues.isEmpty) {
       final output = StringBuffer();
       output.writeln('WEBVTT');
@@ -519,22 +604,22 @@ class YouTubeService {
       await File(outputPath).writeAsString(output.toString());
       return outputPath;
     }
-    
+
     final processedCues = <_SubtitleCue>[];
-    
+
     for (int i = 0; i < cues.length; i++) {
       final current = cues[i];
       String newText = current.text;
-      
+
       if (i > 0 && newText.isNotEmpty) {
         final prev = cues[i - 1];
-        
+
         if (prev.text.isNotEmpty) {
           int overlapLength = 0;
           final prevLen = prev.text.length;
           final currLen = current.text.length;
           final maxOverlap = prevLen < currLen ? prevLen : currLen;
-          
+
           for (int len = maxOverlap; len >= 3; len--) {
             if (len <= prevLen && len <= currLen) {
               final suffix = prev.text.substring(prevLen - len);
@@ -544,13 +629,13 @@ class YouTubeService {
               }
             }
           }
-          
+
           if (overlapLength > 0 && overlapLength < currLen) {
             newText = current.text.substring(overlapLength).trim();
           }
         }
       }
-      
+
       if (newText.isNotEmpty) {
         processedCues.add(_SubtitleCue(
           startTime: current.startTime,
@@ -559,7 +644,7 @@ class YouTubeService {
         ));
       }
     }
-    
+
     final mergedCues = <_SubtitleCue>[];
     for (final cue in processedCues) {
       if (mergedCues.isEmpty) {
@@ -577,27 +662,27 @@ class YouTubeService {
         }
       }
     }
-    
+
     final output = StringBuffer();
     output.writeln('WEBVTT');
     output.writeln();
-    
+
     for (final cue in mergedCues) {
       output.writeln('${cue.startTime} --> ${cue.endTime}');
       output.writeln(cue.text);
       output.writeln();
     }
-    
+
     await File(outputPath).writeAsString(output.toString());
-    
+
     return outputPath;
   }
-  
+
   static String _normalizeTimecode(String timecode) {
     timecode = timecode.trim();
-    
+
     final colonCount = ':'.allMatches(timecode).length;
-    
+
     if (colonCount == 1) {
       // MM:SS.mmm format -> add 00:
       return '00:$timecode';
@@ -605,15 +690,15 @@ class YouTubeService {
       // Already HH:MM:SS.mmm format
       return timecode;
     }
-    
+
     return timecode;
   }
-  
+
   static String _cleanText(String text) {
     text = text.replaceAll(RegExp(r'<[^>]+>'), '');
-    
+
     text = text.replaceAll(RegExp(r'<\d{2}:\d{2}:\d{2}\.\d{3}>'), '');
-    
+
     text = text
         .replaceAll('&gt;', '>')
         .replaceAll('&lt;', '<')
@@ -629,7 +714,7 @@ class YouTubeService {
         .replaceAll('&ldquo;', '"')
         .replaceAll('&rdquo;', '"')
         .replaceAll('&hellip;', '…');
-    
+
     // Decode numeric HTML entities (&#123; or &#x7B;)
     text = text.replaceAllMapped(RegExp(r'&#(\d+);'), (match) {
       final code = int.tryParse(match.group(1)!);
@@ -639,14 +724,14 @@ class YouTubeService {
       final code = int.tryParse(match.group(1)!, radix: 16);
       return code != null ? String.fromCharCode(code) : match.group(0)!;
     });
-    
+
     text = text.replaceAll(RegExp(r'^[>\s]+'), '');
     text = text.replaceAll(RegExp(r'\s*>>\s*'), ' ');
-    
+
     text = text.replaceAll(RegExp(r'\s+'), ' ');
-    
+
     text = text.trim();
-    
+
     return text;
   }
 
@@ -655,9 +740,9 @@ class YouTubeService {
         .replaceAll(RegExp(r'[<>:"/\\|?*]'), '')
         .replaceAll(RegExp(r'\s+'), '_')
         .replaceAll(RegExp(r'[^\x00-\x7F]'), '');
-    
-    return sanitized.length > 100 
-        ? sanitized.substring(0, 100) 
+
+    return sanitized.length > 100
+        ? sanitized.substring(0, 100)
         : sanitized;
   }
 
@@ -665,14 +750,14 @@ class YouTubeService {
     if (_ytdlpPath == null && !await isYtdlpAvailable()) {
       return false;
     }
-    
+
     try {
       final result = await Process.run(_ytdlpPath!, [
         '--dump-json',
         '--no-playlist',
         url,
       ]);
-      
+
       if (result.exitCode == 0) {
         final json = jsonDecode(result.stdout.toString());
         final isLive = json['is_live'] == true;
@@ -681,10 +766,10 @@ class YouTubeService {
     } catch (e) {
       print('Error checking live status: $e');
     }
-    
+
     return false;
   }
-  
+
   static bool isSupportedUrl(String text) {
     final patterns = [
       RegExp(r'^https?://(www\.)?youtube\.com/watch\?v='),
@@ -703,96 +788,96 @@ class YouTubeService {
       RegExp(r'^https?://(www\.)?soundcloud\.com/[^/]+/[^/?]+'),
       RegExp(r'^https?://(www\.)?soundcloud\.com/[^/]+/sets/[^/?]+'),
     ];
-    
+
     return patterns.any((pattern) => pattern.hasMatch(text.trim()));
   }
-  
+
   static String cleanUrl(String url) {
     final uri = Uri.parse(url);
-    
+
     if (uri.host.contains('soundcloud.com') || uri.host.contains('spreaker.com')) {
       return '${uri.scheme}://${uri.host}${uri.path}';
     }
-    
+
     return url;
   }
-  
+
   static String getPlatformName(String url) {
     if (url.contains('soundcloud.com')) return 'SoundCloud';
     if (url.contains('spreaker.com')) return 'Spreaker';
     if (url.contains('youtube.com') || url.contains('youtu.be')) return 'YouTube';
     return 'Unknown';
   }
-  
+
   static String? extractVideoId(String url) {
     var match = RegExp(r'[?&]v=([a-zA-Z0-9_-]{11})').firstMatch(url);
     if (match != null) return match.group(1);
-    
+
     match = RegExp(r'youtu\.be/([a-zA-Z0-9_-]{11})').firstMatch(url);
     if (match != null) return match.group(1);
-    
+
     match = RegExp(r'shorts/([a-zA-Z0-9_-]{11})').firstMatch(url);
     if (match != null) return match.group(1);
-    
+
     return null;
   }
-  
+
   static Future<List<Map<String, dynamic>>> getAvailableAudioStreams(String youtubeUrl) async {
     if (_ytdlpPath == null && !await isYtdlpAvailable()) {
       throw Exception('yt-dlp not found');
     }
-    
+
     final result = await Process.run(_ytdlpPath!, [
       '-F',
       '--no-playlist',
       youtubeUrl,
     ]);
-    
+
     if (result.exitCode != 0) {
       throw Exception('Failed to get formats: ${result.stderr}');
     }
-    
+
     final lines = result.stdout.toString().split('\n');
     final audioStreams = <Map<String, dynamic>>[];
-    
+
     for (final line in lines) {
       if (line.contains('audio only')) {
         final parts = line.trim().split(RegExp(r'\s+'));
         if (parts.isEmpty) continue;
-        
+
         final formatId = parts[0];
         final ext = parts[1];
-        
+
         String language = 'Unknown';
         String description = '';
         bool isOriginal = line.contains('original');
         bool isDrc = line.contains('DRC') || formatId.contains('-drc');
-        
+
         final langMatch = RegExp(r'\[([^\]]+)\]\s+([^,]+)').firstMatch(line);
         if (langMatch != null) {
           final langCode = langMatch.group(1) ?? '';
           final langName = langMatch.group(2) ?? '';
           language = '$langName ($langCode)';
         }
-        
+
         String bitrate = 'unknown';
         final bitrateMatch = RegExp(r'\|\s+\S+\s+(\d+k)').firstMatch(line);
         if (bitrateMatch != null) {
           bitrate = bitrateMatch.group(1)!;
         }
-        
+
         String codec = ext;
         if (line.contains('opus')) codec = 'opus';
         else if (line.contains('mp4a')) codec = 'm4a';
-        
+
         String quality = 'medium';
         if (line.contains('low')) quality = 'low';
         else if (line.contains('medium')) quality = 'medium';
         else if (line.contains('high')) quality = 'high';
-        
+
         description = '$codec $bitrate ($quality)';
         if (isDrc) description += ' [DRC]';
-        
+
         audioStreams.add({
           'id': formatId,
           'ext': ext,
@@ -807,20 +892,20 @@ class YouTubeService {
         });
       }
     }
-    
+
     audioStreams.sort((a, b) {
       if (a['isOriginal'] != b['isOriginal']) {
         return b['isOriginal'] ? 1 : -1;
       }
-      
+
       final langCompare = a['language'].toString().compareTo(b['language'].toString());
       if (langCompare != 0) return langCompare;
-      
+
       final aBitrate = int.tryParse(a['bitrate'].toString().replaceAll('k', '')) ?? 0;
       final bBitrate = int.tryParse(b['bitrate'].toString().replaceAll('k', '')) ?? 0;
       return bBitrate.compareTo(aBitrate);
     });
-    
+
     return audioStreams;
   }
 }
@@ -829,7 +914,7 @@ class _SubtitleCue {
   final String startTime;
   final String endTime;
   final String text;
-  
+
   _SubtitleCue({
     required this.startTime,
     required this.endTime,

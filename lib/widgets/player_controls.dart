@@ -68,6 +68,7 @@ class PlayerControls extends StatelessWidget {
   final String? youtubeTitle;
   final String? youtubeChannelName;
   final VoidCallback? onShowSubtitlePreferences;
+  final VoidCallback? onDownloadSubtitles;
   final VoidCallback? onShowDownload;
   final VoidCallback? onShowYouTubeDialog;
   final VoidCallback? onCloseYouTube;
@@ -149,6 +150,7 @@ class PlayerControls extends StatelessWidget {
     this.youtubeTitle,
     this.youtubeChannelName,
     this.onShowSubtitlePreferences,
+    this.onDownloadSubtitles,
     this.onShowDownload,
     this.onShowYouTubeDialog,
     this.onCloseYouTube,
@@ -1075,6 +1077,14 @@ class PlayerControls extends StatelessWidget {
               onPressed: onShowSubtitlePreferences,
               iconSize: 24,
               tooltip: 'Subtitle preferences',
+            ),
+          const SizedBox(width: 8),
+          if (onDownloadSubtitles != null)
+            IconButton(
+              icon: const Icon(Icons.subtitles, color: Colors.white70),
+              onPressed: onDownloadSubtitles,
+              iconSize: 24,
+              tooltip: 'Download subtitles (wait 10s)',
             ),
           const SizedBox(width: 8),
           if (onShowDownload != null)

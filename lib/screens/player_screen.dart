@@ -8600,6 +8600,13 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             onShowSubtitlePreferences: _showSubtitlePreferencesDialog,
             onShowDownload: _showDownloadDialog,
             onShowYouTubeDialog: _showYouTubeDialog,
+            onDownloadSubtitles: _isYouTubeStream && _currentYouTubeUrl != null
+                ? () => _downloadYouTubeSubtitles(
+                      _currentYouTubeUrl!,
+                      _youtubeTitle ?? '',
+                      showPicker: true,
+                    )
+                : null,
             onShowAudioStreams: _isYouTubeStream && _currentYouTubeUrl != null
                 ? () => _showAudioStreamPicker(_currentYouTubeUrl!)
                 : null,
@@ -8854,6 +8861,13 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       onShowSubtitlePreferences: _showSubtitlePreferencesDialog,
       onShowDownload: _showDownloadDialog,
       onShowYouTubeDialog: _showYouTubeDialog,
+      onDownloadSubtitles: _isYouTubeStream && _currentYouTubeUrl != null
+          ? () => _downloadYouTubeSubtitles(
+                _currentYouTubeUrl!,
+                _youtubeTitle ?? '',
+                showPicker: true,
+              )
+          : null,
       onShowAudioStreams: _isYouTubeStream && _currentYouTubeUrl != null
           ? () => _showAudioStreamPicker(_currentYouTubeUrl!)
           : null,
@@ -10100,7 +10114,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     }
   }
 
-  Future<void> _downloadYouTubeSubtitles(String url, String title) async {
+  Future<void> _downloadYouTubeSubtitles(String url, String title, {bool showPicker = false}) async {
     try {
       print('=== Starting subtitle download for: $title ===');
 
@@ -10111,171 +10125,256 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       String? subtitlePath;
       String selectedLang = _subtitlePreferences.defaultLanguage;
 
-      print('Attempting to download default language: $selectedLang');
-
-      subtitlePath = await YouTubeService.downloadAndFixSubtitles(
-        url,
-        ytSubDir,
-        lang: selectedLang,
-      );
+      if (!showPicker) {
+        print('Attempting to download default language: $selectedLang');
+        subtitlePath = await YouTubeService.downloadAndFixSubtitles(
+          url,
+          ytSubDir,
+          lang: selectedLang,
+          cookiesFilePath: _subtitlePreferences.cookiesFilePath,
+        );
+      }
 
       if (subtitlePath == null) {
         print('Default language $selectedLang failed, showing language selection...');
-
         if (!mounted) return;
 
-        final availableSubs = await YouTubeService.getAvailableSubtitles(
-          url,
-          _subtitlePreferences.enabledLanguages,
+        final availableSubs = await YouTubeService.getAvailableSubtitles(url);
+
+        final selected = await showDialog<String>(
+          context: context,
+          builder: (context) {
+            final searchController = TextEditingController();
+            List<Map<String, String>> filtered = List.from(availableSubs);
+            bool autoTranslate = false;
+
+            return StatefulBuilder(
+              builder: (context, setDialogState) => AlertDialog(
+                backgroundColor: const Color(0xFF2D2D2D),
+                title: const Text(
+                  'Select Subtitle Language',
+                  style: TextStyle(color: Colors.white),
+                ),
+                content: SizedBox(
+                  width: 400,
+                  child: Column(
+                    mainAxisSize: MainAxisSize.min,
+                    children: [
+                      Container(
+                        padding: const EdgeInsets.all(12),
+                        decoration: BoxDecoration(
+                          color: Colors.orange.withValues(alpha: 0.2),
+                          borderRadius: BorderRadius.circular(8),
+                          border: Border.all(color: Colors.orange),
+                        ),
+                        child: Text(
+                          showPicker
+                              ? 'Select subtitle language:'
+                              : 'Default language "$selectedLang" not available.\nSelect an alternative:',
+                          style: const TextStyle(color: Colors.orange, fontSize: 12),
+                          textAlign: TextAlign.center,
+                        ),
+                      ),
+                      const SizedBox(height: 12),
+
+                      Container(
+                        padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                        decoration: BoxDecoration(
+                          color: const Color(0xFF1E1E1E),
+                          borderRadius: BorderRadius.circular(8),
+                        ),
+                        child: Row(
+                          children: [
+                            Checkbox(
+                              value: autoTranslate,
+                              activeColor: Colors.deepPurple,
+                              onChanged: (val) {
+                                if (val == true) {
+                                  Navigator.pop(context, 'translate:auto');
+                                } else {
+                                  setDialogState(() => autoTranslate = false);
+                                }
+                              },
+                            ),
+                            Expanded(
+                              child: Text(
+                                'Auto-translate to ${SubtitlePreferences.availableLanguages[_subtitlePreferences.defaultLanguage] ?? _subtitlePreferences.defaultLanguage}\n(requires Firefox with youtube.com visited)',
+                                style: const TextStyle(color: Colors.white70, fontSize: 12),
+                              ),
+                            ),
+                          ],
+                        ),
+                      ),
+                      const SizedBox(height: 12),
+
+                      TextField(
+                        controller: searchController,
+                        autofocus: true,
+                        style: const TextStyle(color: Colors.white),
+                        decoration: InputDecoration(
+                          hintText: autoTranslate
+                              ? 'Search source language...'
+                              : 'Search languages...',
+                          hintStyle: const TextStyle(color: Colors.white38),
+                          prefixIcon: const Icon(Icons.search, color: Colors.white54),
+                          filled: true,
+                          fillColor: const Color(0xFF1E1E1E),
+                          border: OutlineInputBorder(
+                            borderRadius: BorderRadius.circular(8),
+                            borderSide: BorderSide.none,
+                          ),
+                          contentPadding: const EdgeInsets.symmetric(vertical: 10),
+                        ),
+                        onChanged: (query) {
+                          setDialogState(() {
+                            filtered = availableSubs.where((sub) {
+                              final q = query.toLowerCase();
+                              return sub['name']!.toLowerCase().contains(q) ||
+                                     sub['code']!.toLowerCase().contains(q);
+                            }).toList();
+                          });
+                        },
+                      ),
+                      const SizedBox(height: 8),
+                      Flexible(
+                        child: filtered.isEmpty
+                            ? const Padding(
+                                padding: EdgeInsets.all(16),
+                                child: Text(
+                                  'No languages match your search',
+                                  style: TextStyle(color: Colors.white54),
+                                ),
+                              )
+                            : ListView.builder(
+                                shrinkWrap: true,
+                                itemCount: filtered.length,
+                                itemBuilder: (context, index) {
+                                  final sub = filtered[index];
+                                  return ListTile(
+                                    dense: true,
+                                    title: Text(
+                                      sub['name']!,
+                                      style: const TextStyle(color: Colors.white),
+                                    ),
+                                    subtitle: Text(
+                                      sub['code']!,
+                                      style: const TextStyle(color: Colors.white54),
+                                    ),
+                                    onTap: () => Navigator.pop(
+                                      context,
+                                      autoTranslate
+                                          ? 'translate:${sub['code']}'
+                                          : sub['code'],
+                                    ),
+                                  );
+                                },
+                              ),
+                      ),
+                    ],
+                  ),
+                ),
+                actions: [
+                  TextButton(
+                    onPressed: () => Navigator.pop(context),
+                    child: const Text('Cancel'),
+                  ),
+                ],
+              ),
+            );
+          },
         );
 
-         final selected = await showDialog<String>(
-           context: context,
-           builder: (context) => AlertDialog(
-             backgroundColor: const Color(0xFF2D2D2D),
-             title: Row(
-               mainAxisAlignment: MainAxisAlignment.spaceBetween,
-               children: [
-                 const Text(
-                   'Select Subtitle Language',
-                   style: TextStyle(color: Colors.white),
-                 ),
-                 IconButton(
-                   icon: const Icon(Icons.settings, color: Colors.white54, size: 20),
-                   onPressed: () {
-                     Navigator.pop(context);
-                     _showSubtitlePreferencesDialog();
-                   },
-                   tooltip: 'Configure languages',
-                 ),
-               ],
-             ),
-             content: SizedBox(
-               width: 400,
-               child: Column(
-                 mainAxisSize: MainAxisSize.min,
-                 children: [
-                   Container(
-                     padding: const EdgeInsets.all(12),
-                     decoration: BoxDecoration(
-                       color: Colors.orange.withValues(alpha: 0.2),
-                       borderRadius: BorderRadius.circular(8),
-                       border: Border.all(color: Colors.orange),
-                     ),
-                     child: Text(
-                       'Default language "$selectedLang" not available.\nSelect an alternative:',
-                       style: const TextStyle(color: Colors.orange, fontSize: 12),
-                       textAlign: TextAlign.center,
-                     ),
-                   ),
-                   const SizedBox(height: 16),
-                   Flexible(
-                     child: ListView.builder(
-                       shrinkWrap: true,
-                       itemCount: availableSubs.length,
-                       itemBuilder: (context, index) {
-                         final sub = availableSubs[index];
-                         return ListTile(
-                           title: Text(
-                             sub['name']!,
-                             style: const TextStyle(color: Colors.white),
-                           ),
-                           subtitle: Text(
-                             sub['code']!,
-                             style: const TextStyle(color: Colors.white54),
-                           ),
-                           onTap: () => Navigator.pop(context, sub['code']),
-                         );
-                       },
-                     ),
-                   ),
-                 ],
-               ),
-             ),
-             actions: [
-               TextButton(
-                 onPressed: () => Navigator.pop(context),
-                 child: const Text('Cancel'),
-               ),
-             ],
-           ),
-         );
+        if (selected == null) {
+          print('User cancelled subtitle selection');
+          return;
+        }
 
-         if (selected == null) {
-           print('User cancelled subtitle selection');
-           return;
-         }
+        String? translateTo;
+        if (selected.startsWith('translate:')) {
+          final source = selected.replaceFirst('translate:', '');
+          if (source == 'auto') {
+            selectedLang = _subtitlePreferences.defaultLanguage;
+            translateTo = null;
+            print('User selected auto-translate: yt-dlp will detect source');
+          } else {
+            selectedLang = source;
+            translateTo = _subtitlePreferences.defaultLanguage;
+            print('User selected auto-translate: $selectedLang -> $translateTo');
+          }
+        } else {
+          selectedLang = selected;
+          print('User selected alternative: $selectedLang');
+        }
 
-         selectedLang = selected;
-         print('User selected alternative: $selectedLang');
+        subtitlePath = await YouTubeService.downloadAndFixSubtitles(
+          url,
+          ytSubDir,
+          lang: selectedLang,
+          translateTo: translateTo,
+          cookiesFilePath: _subtitlePreferences.cookiesFilePath,
+        );
+      }
 
-         subtitlePath = await YouTubeService.downloadAndFixSubtitles(
-           url,
-           ytSubDir,
-           lang: selectedLang,
-         );
-       }
+      print('Subtitle path result: $subtitlePath');
 
-       print('Subtitle path result: $subtitlePath');
+      if (subtitlePath != null && mounted) {
+        print('Loading subtitle file: $subtitlePath');
+        final content = await File(subtitlePath).readAsString();
+        final originalSubtitles = _parseVTT(content);
+        print('Parsed ${originalSubtitles.length} subtitle cues');
 
-       if (subtitlePath != null && mounted) {
-         print('Loading subtitle file: $subtitlePath');
-         final content = await File(subtitlePath).readAsString();
-         final originalSubtitles = _parseVTT(content);
-         print('Parsed ${originalSubtitles.length} subtitle cues');
+        setState(() {
+          _originalSubtitles = originalSubtitles;
+          _subtitleFilePath = subtitlePath;
+          _paragraphItems = _createParagraphs(originalSubtitles);
+        });
 
-         setState(() {
-           _originalSubtitles = originalSubtitles;
-           _subtitleFilePath = subtitlePath;
-           _paragraphItems = _createParagraphs(originalSubtitles);
-         });
+        if (_conversionType != 'none' && _subtitleFilePath != null) {
+          print('Applying conversion: $_conversionType');
+          await _applyConversion();
+        } else {
+          setState(() {
+            _subtitles = originalSubtitles;
+          });
+        }
 
-         if (_conversionType != 'none' && _subtitleFilePath != null) {
-           print('Applying conversion: $_conversionType');
-           await _applyConversion();
-         } else {
-           setState(() {
-             _subtitles = originalSubtitles;
-           });
-         }
+        _updateCurrentSubtitle();
+        _precalculateWordPositions();
 
-         _updateCurrentSubtitle();
-         _precalculateWordPositions();
-
-         if (mounted) {
-           ScaffoldMessenger.of(context).showSnackBar(
-             SnackBar(
-               content: Text(
-                 'Loaded ${_subtitles.length} subtitle cues ($selectedLang)${_conversionType != 'none' ? ' • $_conversionType' : ''}',
-               ),
-               duration: const Duration(seconds: 3),
-             ),
-           );
-         }
-       } else if (mounted) {
-         print('Failed to download subtitle');
-         ScaffoldMessenger.of(context).showSnackBar(
-           SnackBar(
-             content: Text('No $selectedLang subtitles available for this video'),
-             backgroundColor: Colors.orange,
-             duration: const Duration(seconds: 3),
-           ),
-         );
-       }
-     } catch (e, stackTrace) {
-       print('Error downloading YouTube subtitles: $e');
-       print('Stack trace: $stackTrace');
-       if (mounted) {
-         ScaffoldMessenger.of(context).showSnackBar(
-           SnackBar(
-             content: Text('Subtitle download failed: $e'),
-             backgroundColor: Colors.orange,
-             duration: const Duration(seconds: 3),
-           ),
-         );
-       }
-     }
-   }
+        if (mounted) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            SnackBar(
+              content: Text(
+                'Loaded ${_subtitles.length} subtitle cues ($selectedLang)${_conversionType != 'none' ? ' • $_conversionType' : ''}',
+              ),
+              duration: const Duration(seconds: 3),
+            ),
+          );
+        }
+      } else if (mounted) {
+        print('Failed to download subtitle');
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            content: Text('No $selectedLang subtitles available for this video'),
+            backgroundColor: Colors.orange,
+            duration: const Duration(seconds: 3),
+          ),
+        );
+      }
+    } catch (e, stackTrace) {
+      print('Error downloading YouTube subtitles: $e');
+      print('Stack trace: $stackTrace');
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            content: Text('Subtitle download failed: $e'),
+            backgroundColor: Colors.orange,
+            duration: const Duration(seconds: 3),
+          ),
+        );
+      }
+    }
+  }
 
   Future<void> _handleYouTubeUrl(String url) async {
     if (!YouTubeService.isSupportedUrl(url)) return;
@@ -10500,109 +10599,119 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
 
   Future<void> _showSubtitlePreferencesDialog() async {
     final prefs = _subtitlePreferences;
-
     await showDialog(
       context: context,
       builder: (context) => StatefulBuilder(
         builder: (context, setDialogState) => AlertDialog(
           backgroundColor: const Color(0xFF2D2D2D),
           title: const Text(
-            'Subtitle Language Preferences',
+            'Subtitle Preferences',
             style: TextStyle(color: Colors.white),
           ),
-          content: SizedBox(
-            width: 500,
-            height: 600,
-            child: Column(
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
-                const Text(
-                  'Default Language: (auto-downloads subs if available)',
-                  style: TextStyle(color: Colors.white70, fontSize: 14),
+          content: Column(
+            mainAxisSize: MainAxisSize.min,
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              const Text(
+                'Default Language',
+                style: TextStyle(color: Colors.white70, fontSize: 14),
+              ),
+              const SizedBox(height: 4),
+              const Text(
+                'Auto-downloaded when a YouTube video is loaded and sets auto-translate language',
+                style: TextStyle(color: Colors.white38, fontSize: 12),
+              ),
+              const SizedBox(height: 12),
+              Container(
+                padding: const EdgeInsets.symmetric(horizontal: 12),
+                decoration: BoxDecoration(
+                  color: const Color(0xFF1E1E1E),
+                  borderRadius: BorderRadius.circular(8),
                 ),
-                const SizedBox(height: 8),
-                Container(
-                  padding: const EdgeInsets.symmetric(horizontal: 12),
-                  decoration: BoxDecoration(
-                    color: const Color(0xFF1E1E1E),
-                    borderRadius: BorderRadius.circular(8),
+                child: DropdownButton<String>(
+                  value: prefs.defaultLanguage,
+                  isExpanded: true,
+                  dropdownColor: const Color(0xFF1E1E1E),
+                  style: const TextStyle(color: Colors.white),
+                  underline: Container(),
+                  items: SubtitlePreferences.availableLanguages.entries
+                      .map((entry) => DropdownMenuItem(
+                            value: entry.key,
+                            child: Text(entry.value),
+                          ))
+                      .toList(),
+                  onChanged: (value) {
+                    if (value != null) {
+                      setDialogState(() => prefs.defaultLanguage = value);
+                    }
+                  },
+                ),
+              ),
+
+              const SizedBox(height: 24),
+
+              const Text(
+                'YouTube Cookies File',
+                style: TextStyle(color: Colors.white70, fontSize: 14),
+              ),
+              const SizedBox(height: 4),
+              const Text(
+                'Required for auto-translated subtitles:\n'
+                '1. Open Firefox and visit youtube.com\n'
+                '2. In Firefox Settings → Privacy, add youtube.com as a cookie exception so it persists after close\n'
+                '3. Auto-translate will then work without needing a cookies file',
+                style: TextStyle(color: Colors.white38, fontSize: 12),
+              ),
+              const SizedBox(height: 12),
+              Row(
+                children: [
+                  Expanded(
+                    child: Container(
+                      padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 10),
+                      decoration: BoxDecoration(
+                        color: const Color(0xFF1E1E1E),
+                        borderRadius: BorderRadius.circular(8),
+                      ),
+                      child: Text(
+                        prefs.cookiesFilePath ?? 'No cookies file selected',
+                        style: TextStyle(
+                          color: prefs.cookiesFilePath != null
+                              ? Colors.white
+                              : Colors.white38,
+                          fontSize: 12,
+                        ),
+                        overflow: TextOverflow.ellipsis,
+                      ),
+                    ),
                   ),
-                  child: DropdownButton<String>(
-                    value: prefs.defaultLanguage,
-                    isExpanded: true,
-                    dropdownColor: const Color(0xFF1E1E1E),
-                    style: const TextStyle(color: Colors.white),
-                    underline: Container(),
-                    items: SubtitlePreferences.availableLanguages.entries
-                        .map((entry) => DropdownMenuItem(
-                              value: entry.key,
-                              child: Text(entry.value),
-                            ))
-                        .toList(),
-                    onChanged: (value) {
-                      if (value != null) {
+                  const SizedBox(width: 8),
+                  IconButton(
+                    icon: const Icon(Icons.file_open, color: Colors.white70),
+                    tooltip: 'Select cookies.txt file',
+                    onPressed: () async {
+                      final result = await FilePicker.platform.pickFiles(
+                        type: FileType.custom,
+                        allowedExtensions: ['txt'],
+                        dialogTitle: 'Select YouTube cookies.txt',
+                      );
+                      if (result != null) {
                         setDialogState(() {
-                          prefs.defaultLanguage = value;
+                          prefs.cookiesFilePath = result.files.single.path;
                         });
                       }
                     },
                   ),
-                ),
-
-                const SizedBox(height: 24),
-                const Text(
-                  'Enabled Languages (check up to 10):',
-                  style: TextStyle(color: Colors.white70, fontSize: 14),
-                ),
-                const SizedBox(height: 8),
-                Expanded(
-                  child: Container(
-                    padding: const EdgeInsets.all(12),
-                    decoration: BoxDecoration(
-                      color: Colors.black26,
-                      borderRadius: BorderRadius.circular(8),
+                  if (prefs.cookiesFilePath != null)
+                    IconButton(
+                      icon: const Icon(Icons.clear, color: Colors.white38),
+                      tooltip: 'Remove cookies file',
+                      onPressed: () {
+                        setDialogState(() => prefs.cookiesFilePath = null);
+                      },
                     ),
-                    child: ListView(
-                      children: SubtitlePreferences.availableLanguages.entries.map((entry) {
-                        final isEnabled = prefs.enabledLanguages.contains(entry.key);
-                        return CheckboxListTile(
-                          title: Text(
-                            entry.value,
-                            style: const TextStyle(color: Colors.white),
-                          ),
-                          subtitle: Text(
-                            entry.key,
-                            style: const TextStyle(color: Colors.white54, fontSize: 11),
-                          ),
-                          value: isEnabled,
-                          onChanged: (value) {
-                            if (value == true && prefs.enabledLanguages.length < 10) {
-                              setDialogState(() {
-                                prefs.enabledLanguages.add(entry.key);
-                              });
-                            } else if (value == false) {
-                              setDialogState(() {
-                                prefs.enabledLanguages.remove(entry.key);
-                              });
-                            }
-                          },
-                          activeColor: Colors.deepPurple,
-                          contentPadding: EdgeInsets.zero,
-                        );
-                      }).toList(),
-                    ),
-                  ),
-                ),
-                const SizedBox(height: 8),
-                Text(
-                  '${prefs.enabledLanguages.length}/10 languages selected',
-                  style: TextStyle(
-                    color: prefs.enabledLanguages.length >= 10 ? Colors.orange : Colors.white54,
-                    fontSize: 12,
-                  ),
-                ),
-              ],
-            ),
+                ],
+              ),
+            ],
           ),
           actions: [
             TextButton(
@@ -10612,22 +10721,18 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             ElevatedButton(
               onPressed: () async {
                 await prefs.save();
-                setState(() {
-                  _subtitlePreferences = prefs;
-                });
+                setState(() => _subtitlePreferences = prefs);
                 if (mounted) {
                   Navigator.pop(context);
                   ScaffoldMessenger.of(context).showSnackBar(
                     const SnackBar(
-                      content: Text('Subtitle preferences saved'),
+                      content: Text('Preferences saved'),
                       duration: Duration(seconds: 2),
                     ),
                   );
                 }
               },
-              style: ElevatedButton.styleFrom(
-                backgroundColor: Colors.deepPurple,
-              ),
+              style: ElevatedButton.styleFrom(backgroundColor: Colors.deepPurple),
               child: const Text('Save'),
             ),
           ],

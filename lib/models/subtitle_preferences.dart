@@ -2,47 +2,44 @@ import 'package:shared_preferences/shared_preferences.dart';
 
 class SubtitlePreferences {
   static const String _defaultLangKey = 'subtitle_default_language';
-  static const String _enabledLangsKey = 'subtitle_enabled_languages';
   static const String _autoTranslateKey = 'subtitle_auto_translate';
   static const String _translateTargetKey = 'subtitle_translate_target';
-  
+  static const String _cookiesFilePathKey = 'subtitle_cookies_file_path';
+
   String defaultLanguage;
-  List<String> enabledLanguages;
   bool autoTranslate;
   String translateTarget;
-  
+  String? cookiesFilePath;
+
   SubtitlePreferences({
     this.defaultLanguage = 'en',
-    this.enabledLanguages = const ['en', 'ar', 'es', 'fr', 'de', 'ja', 'ko', 'ru', 'pt', 'hi'],
     this.autoTranslate = false,
     this.translateTarget = 'en',
+    this.cookiesFilePath,
   });
-  
+
   static Future<SubtitlePreferences> load() async {
     final prefs = await SharedPreferences.getInstance();
-    
-    final defaultLang = prefs.getString(_defaultLangKey) ?? 'en';
-    final enabledLangs = prefs.getStringList(_enabledLangsKey) ?? 
-                        ['en', 'ar', 'es', 'fr', 'de', 'ja', 'ko', 'ru', 'pt', 'hi'];
-    final autoTranslate = prefs.getBool(_autoTranslateKey) ?? false;
-    final translateTarget = prefs.getString(_translateTargetKey) ?? 'en';
-    
     return SubtitlePreferences(
-      defaultLanguage: defaultLang,
-      enabledLanguages: enabledLangs,
-      autoTranslate: autoTranslate,
-      translateTarget: translateTarget,
+      defaultLanguage: prefs.getString(_defaultLangKey) ?? 'en',
+      autoTranslate: prefs.getBool(_autoTranslateKey) ?? false,
+      translateTarget: prefs.getString(_translateTargetKey) ?? 'en',
+      cookiesFilePath: prefs.getString(_cookiesFilePathKey),
     );
   }
-  
+
   Future<void> save() async {
     final prefs = await SharedPreferences.getInstance();
     await prefs.setString(_defaultLangKey, defaultLanguage);
-    await prefs.setStringList(_enabledLangsKey, enabledLanguages);
     await prefs.setBool(_autoTranslateKey, autoTranslate);
     await prefs.setString(_translateTargetKey, translateTarget);
+    if (cookiesFilePath != null) {
+      await prefs.setString(_cookiesFilePathKey, cookiesFilePath!);
+    } else {
+      await prefs.remove(_cookiesFilePathKey);
+    }
   }
-  
+
   static const Map<String, String> availableLanguages = {
     'en': 'English',
     'af': 'Afrikaans',
