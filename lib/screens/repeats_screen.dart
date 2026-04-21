@@ -223,6 +223,7 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
       final beforeZeroDuration = content;
       content = _fixZeroDurationSubtitles(content);
       final afterZeroDuration = content;
+      content = _deleteRogueChunkBlocks(content);
       final beforeOverlap = content;
       content = _fixOverlappingTimecodes(content);
       final afterOverlap = content;
@@ -353,6 +354,84 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
         );
       }
     }
+  }
+
+  String _deleteRogueChunkBlocks(String content) {
+    final lines = content.split('\n');
+    final blocks = <Map<String, dynamic>>[];
+
+    final timecodeRegex = RegExp(
+      r'^(\d{2}:\d{2}:\d{2}\.\d{3})\s+-->\s+(\d{2}:\d{2}:\d{2}\.\d{3})',
+    );
+
+    String header = '';
+    int i = 0;
+    if (lines.isNotEmpty && lines[0].trim().startsWith('WEBVTT')) {
+      header = lines[0];
+      i = 1;
+    }
+
+    while (i < lines.length) {
+      if (lines[i].trim().isEmpty) {
+        i++;
+        continue;
+      }
+
+      final match = timecodeRegex.firstMatch(lines[i].trim());
+      if (match != null) {
+        final startTime = match.group(1)!;
+        final endTime = match.group(2)!;
+
+        final textLines = <String>[];
+        i++;
+        while (i < lines.length &&
+               lines[i].trim().isNotEmpty &&
+               !timecodeRegex.hasMatch(lines[i].trim())) {
+          textLines.add(lines[i]);
+          i++;
+        }
+
+        blocks.add({
+          'start': startTime,
+          'end': endTime,
+          'text': textLines,
+        });
+      } else {
+        i++;
+      }
+    }
+
+    int deleteCount = 0;
+    int idx = 0;
+    while (idx < blocks.length - 1) {
+      final currentStart = _parseTimecode(blocks[idx]['start'] as String);
+      final nextStart = _parseTimecode(blocks[idx + 1]['start'] as String);
+
+      if (currentStart > nextStart) {
+        blocks.removeAt(idx);
+        deleteCount++;
+      } else {
+        idx++;
+      }
+    }
+
+    print('Rogue chunk blocks deleted: $deleteCount');
+
+    final buffer = StringBuffer();
+    if (header.isNotEmpty) {
+      buffer.writeln(header);
+      buffer.writeln();
+    }
+
+    for (final block in blocks) {
+      buffer.writeln('${block['start']} --> ${block['end']}');
+      for (final textLine in block['text'] as List<String>) {
+        buffer.writeln(textLine);
+      }
+      buffer.writeln();
+    }
+
+    return buffer.toString().trimRight();
   }
 
   Future<void> _batchProcessDirectory() async {

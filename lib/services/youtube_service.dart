@@ -167,6 +167,7 @@ class YouTubeService {
     String lang = 'en',
     String? translateTo,
     String? cookiesFilePath,
+    bool isAutoTranslate = false,
   }) async {
     if (_ytdlpPath == null && !await isYtdlpAvailable()) {
       throw Exception('yt-dlp not found');
@@ -186,7 +187,7 @@ class YouTubeService {
     List<String> cookieArgs = [];
     if (cookiesFilePath != null) {
       cookieArgs = ['--cookies', cookiesFilePath!];
-    } else {
+    } else if (translateTo != null || isAutoTranslate) {
       final browser = await _findWorkingCookieArg(youtubeUrl);
       if (browser != null) {
         cookieArgs = ['--cookies-from-browser', browser];

@@ -10159,6 +10159,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           ytSubDir,
           lang: selectedLang,
           cookiesFilePath: _subtitlePreferences.cookiesFilePath,
+          isAutoTranslate: isAutoTranslated,
         );
       }
 
@@ -10225,7 +10226,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                             ),
                             Expanded(
                               child: Text(
-                                'Auto-translate to ${SubtitlePreferences.availableLanguages[_subtitlePreferences.defaultLanguage] ?? _subtitlePreferences.defaultLanguage}\n(requires Firefox with youtube.com visited)',
+                                'Auto-translate to ${SubtitlePreferences.availableLanguages[_subtitlePreferences.defaultLanguage] ?? _subtitlePreferences.defaultLanguage}\n(requires Firefox cookie with youtube.com visited)',
                                 style: const TextStyle(color: Colors.white70, fontSize: 12),
                               ),
                             ),
@@ -10339,6 +10340,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           lang: selectedLang,
           translateTo: translateTo,
           cookiesFilePath: _subtitlePreferences.cookiesFilePath,
+          isAutoTranslate: isAutoTranslated,
         );
       }
 
@@ -10572,6 +10574,13 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         _currentSubtitleText = '';
         _currentSubtitleIndex = null;
         _subtitleFilePath = null;
+        _primarySubtitlePath = null;
+        _secondarySubtitlePath = null;
+        _secondarySubtitleFilePath = null;
+        _secondarySubtitles = [];
+        _secondaryOriginalSubtitles = [];
+        _secondarySubtitleText = '';
+        _currentSecondarySubtitleIndex = null;
 
         _selectedFont = _defaultFont;
         _conversionType = _defaultConversionType;
