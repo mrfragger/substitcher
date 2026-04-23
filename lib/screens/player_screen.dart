@@ -59,6 +59,7 @@ import '../widgets/cuts_overlay.dart';
 import '../widgets/encode_progress_overlay.dart';
 import '../widgets/lut_picker_overlay.dart';
 import '../widgets/vtt_show_edit_overlay.dart';
+import '../widgets/youtube_dialog.dart';
 
 enum FontColorOverride { none, black, white }
 
@@ -181,6 +182,8 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   List<String> _playlistDirectories = [];
   int? _activePlaylistIndex;
   final Map<String, String> _playlistDurationCache = {};
+  int? _youtubePlaylistCurrentIndex; // 0-based
+  int? _youtubePlaylistTotal;
 
   Timer? _frequencyGenerationTimer;
 
@@ -691,6 +694,9 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
      _defaultFont = _selectedFont;
      _defaultConversionType = _conversionType;
      _defaultColorPalette = _currentColorPalette?.name;
+
+     _secondarySubtitleFont = _selectedFont;
+     _secondaryColorPalette = _currentColorPalette;
    });
 
    await _saveDefaultSettings();
@@ -736,6 +742,9 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
      } else {
        _currentColorPalette = null;
      }
+
+     _secondarySubtitleFont = _defaultFont;
+     _secondaryColorPalette = _currentColorPalette;
    });
 
    await _saveFontSettings();
@@ -8399,6 +8408,8 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               duration: Duration.zero,
               chapters: [],
             ),
+            youtubePlaylistCurrentIndex: _youtubePlaylistCurrentIndex,
+            youtubePlaylistTotal: _youtubePlaylistTotal,
             currentChapterIndex: _isYouTubeStream ? 0 : _currentChapterIndex,
             currentPosition: _currentPosition,
             totalDuration: _totalDuration,
@@ -8657,7 +8668,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     }
 
     return PlayerControls(
-    hideTitle: _vttShowActive ? true : _hideChapterTitle,
+      hideTitle: _vttShowActive ? true : _hideChapterTitle,
       audiobook: _currentAudiobook ?? AudiobookMetadata(
         path: '',
         title: _youtubeTitle ?? 'YouTube Audio',
@@ -8666,6 +8677,8 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         duration: Duration.zero,
         chapters: [],
       ),
+      youtubePlaylistCurrentIndex: _youtubePlaylistCurrentIndex,
+      youtubePlaylistTotal: _youtubePlaylistTotal,
       currentChapterIndex: _isYouTubeStream ? 0 : _currentChapterIndex,
       currentPosition: _currentPosition,
       totalDuration: _totalDuration,
@@ -10353,56 +10366,51 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         print('Parsed ${parsedSubs.length} subtitle cues');
 
         if (isAutoTranslated) {
-          setState(() {
-            _secondarySubtitleFilePath = subtitlePath;
-            _secondarySubtitlePath = subtitlePath;
-            _secondaryOriginalSubtitles = parsedSubs;
-            _secondarySubtitles = parsedSubs;
-            _secondarySubtitleText = '';
-            _currentSecondarySubtitleIndex = null;
-          });
-          await _applySecondaryConversion();
-          _updateCurrentSubtitle();
-
-          if (mounted) {
-            ScaffoldMessenger.of(context).showSnackBar(
-              SnackBar(
-                content: Text(
-                  'Loaded ${parsedSubs.length} auto-translated cues as secondary ($selectedLang → ${_subtitlePreferences.defaultLanguage})',
-                ),
-                duration: const Duration(seconds: 3),
-              ),
-            );
-          }
-        } else {
-          setState(() {
-            _originalSubtitles = parsedSubs;
-            _subtitleFilePath = subtitlePath;
-            _primarySubtitlePath = subtitlePath;
-            _paragraphItems = _createParagraphs(parsedSubs);
-          });
-
-          if (_conversionType != 'none' && _subtitleFilePath != null) {
-            print('Applying conversion: $_conversionType');
+          if (_subtitleFilePath == null) {
+            setState(() {
+              _originalSubtitles = parsedSubs;
+              _subtitleFilePath = subtitlePath;
+              _primarySubtitlePath = subtitlePath;
+              _paragraphItems = _createParagraphs(parsedSubs);
+              _secondarySubtitleFont = _defaultFont;
+              _secondaryColorPalette = _currentColorPalette;
+            });
             await _applyConversion();
+            _updateCurrentSubtitle();
+            _precalculateWordPositions();
+            if (mounted) {
+              ScaffoldMessenger.of(context).showSnackBar(
+                SnackBar(
+                  content: Text(
+                    'Loaded ${parsedSubs.length} auto-translated cues as primary ($selectedLang → ${_subtitlePreferences.defaultLanguage})',
+                  ),
+                  duration: const Duration(seconds: 3),
+                ),
+              );
+            }
           } else {
             setState(() {
-              _subtitles = parsedSubs;
+              _secondarySubtitleFilePath = subtitlePath;
+              _secondarySubtitlePath = subtitlePath;
+              _secondaryOriginalSubtitles = parsedSubs;
+              _secondarySubtitles = parsedSubs;
+              _secondarySubtitleText = '';
+              _currentSecondarySubtitleIndex = null;
+              _secondarySubtitleFont = _defaultFont;
+              _secondaryColorPalette = _currentColorPalette;
             });
-          }
-
-          _updateCurrentSubtitle();
-          _precalculateWordPositions();
-
-          if (mounted) {
-            ScaffoldMessenger.of(context).showSnackBar(
-              SnackBar(
-                content: Text(
-                  'Loaded ${_subtitles.length} subtitle cues ($selectedLang)${_conversionType != 'none' ? ' • $_conversionType' : ''}',
+            await _applySecondaryConversion();
+            _updateCurrentSubtitle();
+            if (mounted) {
+              ScaffoldMessenger.of(context).showSnackBar(
+                SnackBar(
+                  content: Text(
+                    'Loaded ${parsedSubs.length} auto-translated cues as secondary ($selectedLang → ${_subtitlePreferences.defaultLanguage})',
+                  ),
+                  duration: const Duration(seconds: 3),
                 ),
-                duration: const Duration(seconds: 3),
-              ),
-            );
+              );
+            }
           }
         }
       } else if (mounted) {
@@ -10430,7 +10438,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     }
   }
 
-  Future<void> _handleYouTubeUrl(String url) async {
+  Future<void> _handleYouTubeUrl(String url, {int? playlistIndex, int? playlistTotal}) async {
     if (!YouTubeService.isSupportedUrl(url)) return;
 
     final isLive = await YouTubeService.isActiveLiveStream(url);
@@ -10581,7 +10589,6 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         _secondaryOriginalSubtitles = [];
         _secondarySubtitleText = '';
         _currentSecondarySubtitleIndex = null;
-
         _selectedFont = _defaultFont;
         _conversionType = _defaultConversionType;
         if (_defaultColorPalette != null) {
@@ -10599,7 +10606,6 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
 
       if (youtubeChapters.isNotEmpty) {
         await player.stream.duration.first;
-
         if (_totalDuration > Duration.zero) {
           final lastChapter = youtubeChapters.last;
           youtubeChapters[youtubeChapters.length - 1] = Chapter(
@@ -10609,7 +10615,6 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             endTime: _totalDuration,
             duration: _totalDuration - lastChapter.startTime,
           );
-
           setState(() {
             _currentAudiobook = AudiobookMetadata(
               path: url,
@@ -10814,153 +10819,28 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   }
 
   Future<void> _showYouTubeDialog() async {
-    final controller = TextEditingController();
-
-    final clipboardData = await Clipboard.getData(Clipboard.kTextPlain);
-    if (clipboardData?.text != null && YouTubeService.isSupportedUrl(clipboardData!.text!)) {
-      controller.text = clipboardData.text!;
-    }
-
     if (!mounted) return;
 
-    final result = await showDialog<Map<String, dynamic>>(
-      context: context,
-      builder: (context) => Dialog(
-        backgroundColor: const Color(0xFF2D2D2D),
-        child: Container(
-          width: 700,
-          padding: const EdgeInsets.all(32),
-          child: Column(
-            mainAxisSize: MainAxisSize.min,
-            children: [
-              const Row(
-                mainAxisAlignment: MainAxisAlignment.center,
-                children: [
-                  Icon(Icons.headphones, color: Colors.red, size: 40),
-                  SizedBox(width: 16),
-                  Text(
-                    'YouTube Audio',
-                    style: TextStyle(
-                      color: Colors.white,
-                      fontSize: 28,
-                      fontWeight: FontWeight.bold,
-                    ),
-                  ),
-                ],
-              ),
-              const SizedBox(height: 24),
-              const Text(
-                'Paste a YouTube URL to stream audio only\nSubtitles will be downloaded automatically if available',
-                style: TextStyle(color: Colors.white70, fontSize: 16),
-                textAlign: TextAlign.center,
-              ),
-              const SizedBox(height: 32),
-              TextField(
-                controller: controller,
-                autofocus: true,
-                style: const TextStyle(color: Colors.white, fontSize: 16),
-                decoration: InputDecoration(
-                  prefixIcon: const Icon(Icons.link, color: Colors.white54),
-                  suffixIcon: IconButton(
-                    icon: const Icon(Icons.content_paste, color: Colors.white54),
-                    onPressed: () async {
-                      final data = await Clipboard.getData(Clipboard.kTextPlain);
-                      if (data?.text != null) {
-                        controller.text = data!.text!;
-                      }
-                    },
-                  ),
-                  hintText: 'https://youtube.com/watch?v=...',
-                  hintStyle: const TextStyle(color: Colors.white38),
-                  filled: true,
-                  fillColor: const Color(0xFF1E1E1E),
-                  border: OutlineInputBorder(
-                    borderRadius: BorderRadius.circular(12),
-                    borderSide: BorderSide.none,
-                  ),
-                  contentPadding: const EdgeInsets.symmetric(
-                    horizontal: 20,
-                    vertical: 16,
-                  ),
-                ),
-                onSubmitted: (value) {
-                  if (YouTubeService.isSupportedUrl(value)) {
-                    Navigator.pop(context, {'action': 'stream', 'url': value});
-                  }
-                },
-              ),
-              const SizedBox(height: 32),
-              const Text(
-                'Requires yt-dlp installed on your system\n\n'
-                '(Mac) brew install yt-dlp (Linux) sudo apt install yt-dlp (Windows) choco install yt-dlp',
-                style: TextStyle(color: Colors.white38, fontSize: 12),
-                textAlign: TextAlign.center,
-              ),
-              const SizedBox(height: 32),
-              Row(
-                mainAxisAlignment: MainAxisAlignment.end,
-                children: [
-                  TextButton(
-                    onPressed: () => Navigator.pop(context),
-                    child: const Text(
-                      'Cancel',
-                      style: TextStyle(color: Colors.white54, fontSize: 16),
-                    ),
-                  ),
-                  const SizedBox(width: 16),
-                  OutlinedButton.icon(
-                    icon: const Icon(Icons.download, size: 20),
-                    label: const Text('Download Only (⇧D)'),
-                    onPressed: () {
-                      Navigator.pop(context, {'action': 'download'});
-                    },
-                    style: OutlinedButton.styleFrom(
-                      foregroundColor: Colors.purple,
-                      side: const BorderSide(color: Colors.deepPurple),
-                      padding: const EdgeInsets.symmetric(
-                        horizontal: 24,
-                        vertical: 16,
-                      ),
-                    ),
-                  ),
-                  const SizedBox(width: 16),
-                  ElevatedButton.icon(
-                    icon: const Icon(Icons.play_arrow, size: 24),
-                    label: const Text('Stream Audio'),
-                    onPressed: () {
-                      final url = controller.text.trim();
-                      if (YouTubeService.isSupportedUrl(url)) {
-                        Navigator.pop(context, {'action': 'stream', 'url': url});
-                      } else {
-                        ScaffoldMessenger.of(context).showSnackBar(
-                          const SnackBar(
-                            content: Text('Please enter a valid YouTube URL'),
-                            backgroundColor: Colors.deepPurple,
-                          ),
-                        );
-                      }
-                    },
-                    style: ElevatedButton.styleFrom(
-                      backgroundColor: Colors.red.shade900,
-                      foregroundColor: Colors.white,
-                      padding: const EdgeInsets.symmetric(
-                        horizontal: 32,
-                        vertical: 16,
-                      ),
-                      textStyle: const TextStyle(fontSize: 16),
-                    ),
-                  ),
-                ],
-              ),
-            ],
-          ),
-        ),
-      ),
-    );
+    final result = await showYouTubeDialog(context);
 
     if (result != null) {
       if (result['action'] == 'stream' && result['url'] != null) {
-        await _handleYouTubeUrl(result['url']);
+        if (result['playlistIndex'] != null) {
+          setState(() {
+            _youtubePlaylistCurrentIndex = result['playlistIndex'] as int;
+            _youtubePlaylistTotal = result['playlistTotal'] as int;
+          });
+        } else {
+          setState(() {
+            _youtubePlaylistCurrentIndex = null;
+            _youtubePlaylistTotal = null;
+          });
+        }
+        await _handleYouTubeUrl(
+          result['url'],
+          playlistIndex: result['playlistIndex'] as int?,
+          playlistTotal: result['playlistTotal'] as int?,
+        );
       } else if (result['action'] == 'download') {
         _showDownloadDialog();
       }

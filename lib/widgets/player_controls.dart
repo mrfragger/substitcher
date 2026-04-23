@@ -67,6 +67,8 @@ class PlayerControls extends StatelessWidget {
   final bool isYouTubeStream;
   final String? youtubeTitle;
   final String? youtubeChannelName;
+  final int? youtubePlaylistCurrentIndex;
+  final int? youtubePlaylistTotal;
   final VoidCallback? onShowSubtitlePreferences;
   final VoidCallback? onDownloadSubtitles;
   final VoidCallback? onShowDownload;
@@ -149,6 +151,8 @@ class PlayerControls extends StatelessWidget {
     this.isYouTubeStream = false,
     this.youtubeTitle,
     this.youtubeChannelName,
+    this.youtubePlaylistCurrentIndex,
+    this.youtubePlaylistTotal,
     this.onShowSubtitlePreferences,
     this.onDownloadSubtitles,
     this.onShowDownload,
@@ -207,6 +211,13 @@ class PlayerControls extends StatelessWidget {
                           overflow: TextOverflow.ellipsis,
                         ),
                       ),
+                      if (youtubePlaylistCurrentIndex != null && youtubePlaylistTotal != null) ...[
+                        const SizedBox(width: 6),
+                        Text(
+                          '${youtubePlaylistCurrentIndex! + 1}/$youtubePlaylistTotal',
+                          style: const TextStyle(color: Colors.yellow, fontSize: 14),
+                        ),
+                      ],
                       const Text('  ', style: TextStyle(color: Colors.white70, fontSize: 14)),
                     ],
                   ],

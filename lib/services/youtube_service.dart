@@ -823,6 +823,53 @@ class YouTubeService {
     return null;
   }
 
+  static Future<List<Map<String, String>>> getPlaylistVideos(String playlistUrl) async {
+    if (_ytdlpPath == null && !await isYtdlpAvailable()) {
+      throw Exception('yt-dlp not found');
+    }
+
+    final result = await Process.run(_ytdlpPath!, [
+      '--flat-playlist',
+      '--dump-single-json',
+      '--no-warnings',
+      playlistUrl,
+    ]);
+
+    if (result.exitCode != 0) {
+      throw Exception('Failed to fetch playlist: ${result.stderr}');
+    }
+
+    final data = jsonDecode(result.stdout.toString()) as Map<String, dynamic>;
+    final entries = data['entries'] as List<dynamic>? ?? [];
+
+    return entries.map((e) {
+      final id = e['id']?.toString() ?? '';
+      final rawDuration = e['duration'];
+      String formattedDuration = '';
+      if (rawDuration != null) {
+        final totalSeconds = (rawDuration as num).toInt();
+        final h = totalSeconds ~/ 3600;
+        final m = (totalSeconds % 3600) ~/ 60;
+        final s = totalSeconds % 60;
+        if (h > 0) {
+          formattedDuration = '$h:${m.toString().padLeft(2, '0')}:${s.toString().padLeft(2, '0')}';
+        } else {
+          formattedDuration = '$m:${s.toString().padLeft(2, '0')}';
+        }
+      }
+      return {
+        'title': e['title']?.toString() ?? 'Untitled',
+        'url': id.isNotEmpty ? 'https://www.youtube.com/watch?v=$id' : '',
+        'duration': formattedDuration,
+      };
+    }).where((e) => e['url']!.isNotEmpty).toList();
+  }
+
+  static bool isPlaylistUrl(String url) {
+    return url.contains('list=') &&
+        (url.contains('youtube.com') || url.contains('youtu.be'));
+  }
+
   static Future<List<Map<String, dynamic>>> getAvailableAudioStreams(String youtubeUrl) async {
     if (_ytdlpPath == null && !await isYtdlpAvailable()) {
       throw Exception('yt-dlp not found');
