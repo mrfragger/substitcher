@@ -215,6 +215,8 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   String _defaultFont = 'System Default';
   String? _defaultColorPalette;
   String _defaultConversionType = 'none';
+  ColorPaletteFilter _defaultColorCategoryFilter = ColorPaletteFilter.all;
+  bool _defaultColorCycleActive = false;
   String _selectedFont = 'System Default';
   int _selectedFontIndex = -1;
   final ScrollController _fontScrollController = ScrollController();
@@ -402,7 +404,6 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     CustomFontMetadataManager.load();
     _loadSkipChapterTerms();
     _loadCustomFontDirectory();
-    _loadDefaultSettings();
     _loadPlaylistDirectories().then((_) {
       _loadChapterIndex();
     });
@@ -421,6 +422,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     WidgetsBinding.instance.addPostFrameCallback((_) {
       _focusNode.requestFocus();
       _adhanClockService.checkNow();
+      _loadDefaultSettings();
     });
   }
 
@@ -665,6 +667,8 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
    await prefs.setInt('fontColorOverride', _fontColorOverride.index);
    await prefs.setString('sleepTimerAction',
        _sleepTimerAction == SleepTimerAction.closeApp ? 'close' : 'pause');
+   await prefs.setInt('defaultColorCategoryFilter', _defaultColorCategoryFilter.index);
+   await prefs.setBool('defaultColorCycleActive', _defaultColorCycleActive);
  }
 
  Future<void> _loadDefaultSettings() async {
@@ -676,9 +680,17 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
      _defaultConversionType = prefs.getString('defaultConversionType') ?? 'none';
      _defaultColorPalette = prefs.getString('defaultColorPalette');
      _fontColorOverride = fontColorOverride;
+     _defaultColorCategoryFilter = ColorPaletteFilter.values[
+       prefs.getInt('defaultColorCategoryFilter') ?? 0
+     ];
+     _defaultColorCycleActive = prefs.getBool('defaultColorCycleActive') ?? false;
      _sleepTimerAction = sleepTimerAction == 'close'
          ? SleepTimerAction.closeApp
          : SleepTimerAction.pauseOnly;
+     _colorFilter = ColorPaletteFilter.values[
+       prefs.getInt('colorCategoryFilter') ?? 0];
+     _colorCycleActive = prefs.getBool('colorCycleActive') ?? false;
+     _colorCycleInterval = prefs.getInt('colorCycleInterval') ?? 4;
    });
  }
 
@@ -694,6 +706,8 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
      _defaultFont = _selectedFont;
      _defaultConversionType = _conversionType;
      _defaultColorPalette = _currentColorPalette?.name;
+     _defaultColorCategoryFilter = _colorFilter;
+     _defaultColorCycleActive = _colorCycleActive;
 
      _secondarySubtitleFont = _selectedFont;
      _secondaryColorPalette = _currentColorPalette;
@@ -709,6 +723,8 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
            'Font: $_defaultFont\n'
            'Conversion: $_defaultConversionType\n'
            'Color: ${_defaultColorPalette ?? 'None'}\n'
+           'Filter: ${_defaultColorCategoryFilter.name}\n'
+           'Cycling: $_defaultColorCycleActive\n'
          ),
          duration: const Duration(seconds: 5),
        ),
@@ -729,6 +745,9 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
      final filteredFonts = _getFilteredFonts();
      _selectedFontIndex = filteredFonts.indexOf(_defaultFont);
      if (_selectedFontIndex == -1) _selectedFontIndex = 0;
+
+     _colorFilter = _defaultColorCategoryFilter;
+     _colorCycleActive = _defaultColorCycleActive;
 
      _conversionType = _defaultConversionType;
 
@@ -758,6 +777,8 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
            'Font: $_defaultFont\n'
            'Conversion: $_defaultConversionType\n'
            'Color: ${_defaultColorPalette ?? 'None'}\n'
+           'Filter: ${_defaultColorCategoryFilter.name}\n'
+           'Cycling: $_defaultColorCycleActive\n'
          ),
          duration: const Duration(seconds: 4),
        ),
@@ -2439,6 +2460,10 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                         stream['description'],
                         style: const TextStyle(color: Colors.white),
                       ),
+                      subtitle: Text(
+                        'id: ${stream['id']}',
+                        style: const TextStyle(color: Colors.white38, fontSize: 11),
+                      ),
                       trailing: Text(
                         stream['ext'],
                         style: const TextStyle(
@@ -3561,130 +3586,157 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     showDialog(
       context: context,
       barrierColor: Colors.black87,
-      builder: (context) => Dialog(
-        backgroundColor: Colors.transparent,
-        insetPadding: const EdgeInsets.all(40),
-        child: _buildGlyphViewer(),
+      builder: (context) => StatefulBuilder(
+        builder: (context, setDialogState) => Dialog(
+          backgroundColor: Colors.transparent,
+          insetPadding: const EdgeInsets.all(40),
+          child: _buildGlyphViewer(setDialogState),
+        ),
       ),
     );
   }
 
-  Widget _buildGlyphViewer() {
-    final displayFont = _selectedFont == 'System Default' ? null : _selectedFont;
+  Widget _buildGlyphViewer(StateSetter setDialogState) {
+      final displayFont = _selectedFont == 'System Default' ? null : _selectedFont;
+      final filteredFonts = _getFilteredFonts();
+      final currentIndex = filteredFonts.indexOf(_selectedFont);
 
-    final allGlyphs = <String>[];
+      final allGlyphs = <String>[];
 
-    // Basic Latin (32-126)
-    for (int i = 32; i <= 126; i++) {
-      allGlyphs.add(String.fromCharCode(i));
-    }
+      // Basic Latin (32-126)
+      for (int i = 32; i <= 126; i++) {
+        allGlyphs.add(String.fromCharCode(i));
+      }
 
-    // Private Use Area (E000-F6FF)
-    for (int i = 0xE000; i <= 0xF6FF; i++) {
-      allGlyphs.add(String.fromCharCode(i));
-    }
+      // Private Use Area (E000-F6FF)
+      for (int i = 0xE000; i <= 0xF6FF; i++) {
+        allGlyphs.add(String.fromCharCode(i));
+      }
 
-    return Container(
-      decoration: BoxDecoration(
-        color: Colors.black,
-        border: Border.all(color: Colors.deepPurple, width: 2),
-        borderRadius: BorderRadius.circular(8),
-      ),
-      child: FutureBuilder<List<String>>(
-        future: _filterValidGlyphs(allGlyphs, displayFont),
-        builder: (context, snapshot) {
-          if (!snapshot.hasData) {
-            return const Center(
-              child: CircularProgressIndicator(color: Colors.white),
-            );
-          }
+      return Container(
+        decoration: BoxDecoration(
+          color: Colors.black,
+          border: Border.all(color: Colors.deepPurple, width: 2),
+          borderRadius: BorderRadius.circular(8),
+        ),
+        child: FutureBuilder<List<String>>(
+          future: _filterValidGlyphs(allGlyphs, displayFont),
+          builder: (context, snapshot) {
+            if (!snapshot.hasData) {
+              return const Center(
+                child: CircularProgressIndicator(color: Colors.white),
+              );
+            }
 
-          final glyphs = snapshot.data!;
+            final glyphs = snapshot.data!;
 
-          return Column(
-            children: [
-              Container(
-                padding: const EdgeInsets.all(16),
-                decoration: BoxDecoration(
-                  color: Colors.grey[900],
-                  borderRadius: const BorderRadius.only(
-                    topLeft: Radius.circular(8),
-                    topRight: Radius.circular(8),
-                  ),
-                ),
-                child: Row(
-                  children: [
-                    Text(
-                      'Font: $_selectedFont (${glyphs.length} glyphs)',
-                      style: const TextStyle(color: Colors.white, fontSize: 18),
-                    ),
-                    const Spacer(),
-                    IconButton(
-                      icon: const Icon(Icons.close, color: Colors.white),
-                      onPressed: () {
-                        Navigator.of(context).pop();
-                      },
-                      tooltip: 'Close (ESC)',
-                    ),
-                  ],
-                ),
-              ),
-              Expanded(
-                child: GridView.builder(
+            return Column(
+              children: [
+                Container(
                   padding: const EdgeInsets.all(16),
-                  gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
-                    crossAxisCount: 8,
-                    mainAxisSpacing: 16,
-                    crossAxisSpacing: 16,
-                    childAspectRatio: 1,
+                  decoration: BoxDecoration(
+                    color: Colors.grey[900],
+                    borderRadius: const BorderRadius.only(
+                      topLeft: Radius.circular(8),
+                      topRight: Radius.circular(8),
+                    ),
                   ),
-                  itemCount: glyphs.length,
-                  itemBuilder: (context, index) {
-                    final char = glyphs[index];
-                    final codePoint = char.codeUnitAt(0);
-
-                    return Container(
-                      decoration: BoxDecoration(
-                        border: Border.all(color: Colors.grey[800]!),
+                  child: Row(
+                    children: [
+                      IconButton(
+                        icon: const Icon(Icons.arrow_back, color: Colors.white),
+                        onPressed: currentIndex > 0
+                            ? () async {
+                                await _navigateFonts(-1);
+                                setDialogState(() {});
+                              }
+                            : null,
+                        tooltip: 'Previous font',
                       ),
-                      child: Column(
-                        mainAxisAlignment: MainAxisAlignment.center,
-                        children: [
-                          Expanded(
-                            child: Center(
-                              child: Text(
-                                char,
-                                style: TextStyle(
-                                  color: Colors.white,
-                                  fontSize: 48,
-                                  fontFamily: displayFont,
+                      IconButton(
+                        icon: const Icon(Icons.arrow_forward, color: Colors.white),
+                        onPressed: currentIndex < filteredFonts.length - 1
+                            ? () async {
+                                await _navigateFonts(1);
+                                setDialogState(() {});
+                              }
+                            : null,
+                        tooltip: 'Next font',
+                      ),
+                      const SizedBox(width: 8),
+                      Expanded(
+                        child: Text(
+                          'Font: $_selectedFont (${glyphs.length} glyphs)',
+                          style: const TextStyle(color: Colors.white, fontSize: 18),
+                          overflow: TextOverflow.ellipsis,
+                        ),
+                      ),
+                      IconButton(
+                        icon: const Icon(Icons.close, color: Colors.white),
+                        onPressed: () {
+                          Navigator.of(context).pop();
+                        },
+                        tooltip: 'Close (ESC)',
+                      ),
+                    ],
+                  ),
+                ),
+                Expanded(
+                  child: GridView.builder(
+                    padding: const EdgeInsets.all(16),
+                    gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
+                      crossAxisCount: 8,
+                      mainAxisSpacing: 16,
+                      crossAxisSpacing: 16,
+                      childAspectRatio: 1,
+                    ),
+                    itemCount: glyphs.length,
+                    itemBuilder: (context, index) {
+                      final char = glyphs[index];
+                      final codePoint = char.codeUnitAt(0);
+
+                      return Container(
+                        decoration: BoxDecoration(
+                          border: Border.all(color: Colors.grey[800]!),
+                        ),
+                        child: Column(
+                          mainAxisAlignment: MainAxisAlignment.center,
+                          children: [
+                            Expanded(
+                              child: Center(
+                                child: Text(
+                                  char,
+                                  style: TextStyle(
+                                    color: Colors.white,
+                                    fontSize: 48,
+                                    fontFamily: displayFont,
+                                  ),
                                 ),
                               ),
                             ),
-                          ),
-                          Container(
-                            padding: const EdgeInsets.all(4),
-                            color: Colors.grey[900],
-                            child: Text(
-                              'U+${codePoint.toRadixString(16).toUpperCase().padLeft(4, '0')}',
-                              style: const TextStyle(
-                                color: Colors.grey,
-                                fontSize: 10,
+                            Container(
+                              padding: const EdgeInsets.all(4),
+                              color: Colors.grey[900],
+                              child: Text(
+                                'U+${codePoint.toRadixString(16).toUpperCase().padLeft(4, '0')}',
+                                style: const TextStyle(
+                                  color: Colors.grey,
+                                  fontSize: 10,
+                                ),
                               ),
                             ),
-                          ),
-                        ],
-                      ),
-                    );
-                  },
+                          ],
+                        ),
+                      );
+                    },
+                  ),
                 ),
-              ),
-            ],
-          );
-        },
-      ),
-    );
-  }
+              ],
+            );
+          },
+        ),
+      );
+    }
 
   Future<List<String>> _filterValidGlyphs(List<String> allGlyphs, String? fontFamily) async {
     final validGlyphs = <String>[];
@@ -7791,17 +7843,12 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                   },
                   colorCycleActive: _colorCycleActive,
                   colorCycleInterval: _colorCycleInterval,
-                  onColorCycleToggled: () {
-                    setState(() {
-                      _colorCycleActive = !_colorCycleActive;
-                      _colorCycleCueCounter = 0;
-                    });
-                  },
                   onColorCycleIntervalChanged: (val) {
                     setState(() {
                       _colorCycleInterval = val;
                       _colorCycleCueCounter = 0;
                     });
+                    _saveColorSettings();
                   },
                   parseColor: _parseColor,
 
@@ -7833,11 +7880,17 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                         _applyColorPalette(newPalette);
                       }
                     });
-                    _colorScrollController.animateTo(
-                      0,
-                      duration: const Duration(milliseconds: 300),
-                      curve: Curves.easeOut,
-                    );
+                    _colorScrollController.animateTo(0,
+                        duration: const Duration(milliseconds: 300),
+                        curve: Curves.easeOut);
+                    _saveColorSettings();
+                  },
+                  onColorCycleToggled: () {
+                    setState(() {
+                      _colorCycleActive = !_colorCycleActive;
+                      _colorCycleCueCounter = 0;
+                    });
+                    _saveColorSettings();
                   },
                   onClearLut: () {
                     setState(() {
@@ -8163,6 +8216,13 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         ),
       ),
     );
+  }
+
+  Future<void> _saveColorSettings() async {
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setInt('colorCategoryFilter', _colorFilter.index);
+    await prefs.setBool('colorCycleActive', _colorCycleActive);
+    await prefs.setInt('colorCycleInterval', _colorCycleInterval);
   }
 
 
@@ -10412,31 +10472,55 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               );
             }
           }
+        } else {
+          setState(() {
+            _subtitles = parsedSubs;
+            _originalSubtitles = parsedSubs;
+            _subtitleFilePath = subtitlePath;
+            _primarySubtitlePath = subtitlePath;
+            _paragraphItems = _createParagraphs(parsedSubs);
+            _secondarySubtitleFont = _defaultFont;
+            _secondaryColorPalette = _currentColorPalette;
+          });
+          await _applyConversion();
+          _updateCurrentSubtitle();
+          _precalculateWordPositions();
+          if (mounted) {
+            ScaffoldMessenger.of(context).showSnackBar(
+              SnackBar(
+                content: Text(
+                  'Loaded ${parsedSubs.length} subtitle cues ($selectedLang)',
+                ),
+                duration: const Duration(seconds: 3),
+              ),
+            );
+          }
         }
-      } else if (mounted) {
-        print('Failed to download subtitle');
-        ScaffoldMessenger.of(context).showSnackBar(
-          SnackBar(
-            content: Text('No $selectedLang subtitles available for this video'),
-            backgroundColor: Colors.orange,
-            duration: const Duration(seconds: 3),
-          ),
-        );
+        } else if (mounted) {
+          print('Failed to download subtitle');
+          ScaffoldMessenger.of(context).showSnackBar(
+            SnackBar(
+              content: Text('No $selectedLang subtitles available for this video'),
+              backgroundColor: Colors.orange,
+              duration: const Duration(seconds: 3),
+            ),
+          );
+        }
+        } catch (e, stackTrace) {
+          print('Error downloading YouTube subtitles: $e');
+          print('Stack trace: $stackTrace');
+          if (mounted) {
+            ScaffoldMessenger.of(context).showSnackBar(
+              SnackBar(
+                content: Text('Subtitle download failed: $e'),
+                backgroundColor: Colors.orange,
+                duration: const Duration(seconds: 3),
+              ),
+            );
+          }
+        }
       }
-    } catch (e, stackTrace) {
-      print('Error downloading YouTube subtitles: $e');
-      print('Stack trace: $stackTrace');
-      if (mounted) {
-        ScaffoldMessenger.of(context).showSnackBar(
-          SnackBar(
-            content: Text('Subtitle download failed: $e'),
-            backgroundColor: Colors.orange,
-            duration: const Duration(seconds: 3),
-          ),
-        );
-      }
-    }
-  }
+
 
   Future<void> _handleYouTubeUrl(String url, {int? playlistIndex, int? playlistTotal}) async {
     if (!YouTubeService.isSupportedUrl(url)) return;

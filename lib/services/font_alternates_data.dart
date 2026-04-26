@@ -225,8 +225,8 @@ class FontAlternatesData {
       'n': '\u{e143}',
     },
     'Sorean': {
-      'b': '\u{e0ae}',
-      'd': '\u{e0a2}',
+      'b': '\u{e0ad}',
+      'd': '\u{e085}',
       'f': '\u{e0a3}',
       'g': '\u{e049}',
       'h': '\u{e0af}',

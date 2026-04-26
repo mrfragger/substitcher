@@ -874,81 +874,96 @@ class YouTubeService {
     if (_ytdlpPath == null && !await isYtdlpAvailable()) {
       throw Exception('yt-dlp not found');
     }
-
     final result = await Process.run(_ytdlpPath!, [
       '-F',
       '--no-playlist',
       youtubeUrl,
     ]);
-
     if (result.exitCode != 0) {
       throw Exception('Failed to get formats: ${result.stderr}');
     }
-
     final lines = result.stdout.toString().split('\n');
     final audioStreams = <Map<String, dynamic>>[];
 
     for (final line in lines) {
-      if (line.contains('audio only')) {
-        final parts = line.trim().split(RegExp(r'\s+'));
-        if (parts.isEmpty) continue;
+      if (line.trimLeft().startsWith('[')) continue;
 
-        final formatId = parts[0];
-        final ext = parts[1];
+      final isAudioOnly = line.contains('audio only');
+      final isDubbedMp4 = line.contains('m3u8') &&
+          !line.contains('video only') &&
+          RegExp(r'\[[a-z]{2,3}(?:-[A-Za-z]{2,4})?\]').hasMatch(line);
 
-        String language = 'Unknown';
-        String description = '';
-        bool isOriginal = line.contains('original');
-        bool isDrc = line.contains('DRC') || formatId.contains('-drc');
 
-        final langMatch = RegExp(r'\[([^\]]+)\]\s+([^,]+)').firstMatch(line);
-        if (langMatch != null) {
-          final langCode = langMatch.group(1) ?? '';
-          final langName = langMatch.group(2) ?? '';
-          language = '$langName ($langCode)';
-        }
+      if (!isAudioOnly && !isDubbedMp4) continue;
 
-        String bitrate = 'unknown';
-        final bitrateMatch = RegExp(r'\|\s+\S+\s+(\d+k)').firstMatch(line);
-        if (bitrateMatch != null) {
-          bitrate = bitrateMatch.group(1)!;
-        }
+      final parts = line.trim().split(RegExp(r'\s+'));
+      if (parts.isEmpty) continue;
+      final formatId = parts[0];
+      if (formatId.contains(':') || formatId.contains('/') || formatId.length > 10) continue;
 
-        String codec = ext;
-        if (line.contains('opus')) codec = 'opus';
-        else if (line.contains('mp4a')) codec = 'm4a';
-
-        String quality = 'medium';
-        if (line.contains('low')) quality = 'low';
-        else if (line.contains('medium')) quality = 'medium';
-        else if (line.contains('high')) quality = 'high';
-
-        description = '$codec $bitrate ($quality)';
-        if (isDrc) description += ' [DRC]';
-
-        audioStreams.add({
-          'id': formatId,
-          'ext': ext,
-          'codec': codec,
-          'bitrate': bitrate,
-          'language': language,
-          'quality': quality,
-          'isOriginal': isOriginal,
-          'isDrc': isDrc,
-          'description': description,
-          'fullLine': line.trim(),
-        });
+      // For m3u8 dubbed streams, only keep lowest resolution (91-x, skip 92+ )
+      if (line.contains('m3u8')) {
+        final baseId = formatId.split('-')[0];
+        final baseNum = int.tryParse(baseId) ?? 999;
+        if (baseNum > 95) continue;
       }
+
+      final ext = parts.length > 1 ? parts[1] : 'unknown';
+      final bool isOriginal = line.contains('original');
+      final bool isDrc = line.contains('DRC') || formatId.contains('-drc');
+
+      String language = 'Unknown';
+      final langMatch = RegExp(r'\[([a-z]{2,3}(?:-[A-Za-z]{2,4})?)\]').firstMatch(line);
+      if (langMatch != null) {
+        final langCode = langMatch.group(1)!;
+        final baseLang = langCode.split('-')[0];
+        final friendlyName = _getLanguageName(baseLang);
+        language = '$friendlyName ($langCode)${line.contains('original') ? ' ★' : ''}';
+      } else {
+        final audioLangMatch = RegExp(r'\[([^\]]+)\]\s+([^,]+)').firstMatch(line);
+        if (audioLangMatch != null) {
+          language = '${audioLangMatch.group(2)!.trim()} (${audioLangMatch.group(1)})';
+        }
+      }
+
+      String bitrate = 'unknown';
+      final bitrateMatch = RegExp(r'\|\s+\S+\s+(\d+k)').firstMatch(line);
+      if (bitrateMatch != null) {
+        bitrate = bitrateMatch.group(1)!;
+      }
+
+      String codec = ext;
+      if (line.contains('opus')) codec = 'opus';
+      else if (line.contains('mp4a')) codec = 'm4a';
+
+      String quality = 'medium';
+      if (line.contains('low')) quality = 'low';
+      else if (line.contains('medium')) quality = 'medium';
+      else if (line.contains('high')) quality = 'high';
+
+      String description = '$codec $bitrate ($quality)';
+      if (isDrc) description += ' [DRC]';
+
+      audioStreams.add({
+        'id': formatId,
+        'ext': ext,
+        'codec': codec,
+        'bitrate': bitrate,
+        'language': language,
+        'quality': quality,
+        'isOriginal': isOriginal,
+        'isDrc': isDrc,
+        'description': description,
+        'fullLine': line.trim(),
+      });
     }
 
     audioStreams.sort((a, b) {
       if (a['isOriginal'] != b['isOriginal']) {
         return b['isOriginal'] ? 1 : -1;
       }
-
       final langCompare = a['language'].toString().compareTo(b['language'].toString());
       if (langCompare != 0) return langCompare;
-
       final aBitrate = int.tryParse(a['bitrate'].toString().replaceAll('k', '')) ?? 0;
       final bBitrate = int.tryParse(b['bitrate'].toString().replaceAll('k', '')) ?? 0;
       return bBitrate.compareTo(aBitrate);
