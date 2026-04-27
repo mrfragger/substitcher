@@ -50,8 +50,8 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 │   ├── Bentley Vintage.otf
 │   ├── Dantene.otf
 │   ├── Kambegi.ttf
-│   └── Mount Hills.otf
-│   ├── Sorean.otf
+    ├── Mount Hills.otf
+│   └── Sorean.otf
 ├── ligatures177
 │   ├── Brilliant Heavens demo.otf
 │   ├── Categories Elegant demo.otf
@@ -70,7 +70,7 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 │   ├── Rocket Raccoon free.otf
 │   ├── Shoese Flower.ttf
 │   ├── Sophia Melanie.otf
-│   └── Souther Daleska demo version.otf
+│   ├── Souther Daleska demo version.otf
 │   └── Sparkster One.otf
 ├── missingligatures177
 │   ├── Abstract Settings demo.otf
