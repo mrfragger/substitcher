@@ -22,6 +22,83 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 
 ![](images/encode.jpg)
 
+### Fonts
+- ligatures fonts, missing ligatures, alternates, fonts must be uppercase
+- 100+ fonts
+- demo fonts
+- free (free for commerical use)
+- each missing and each alternate font, subs must be converted
+- ligature demo fonts, subs need converting only once
+- alternates don't work with mixed CJK and Latin text on same subtitle line
+- favorites list
+- choose own custom folder for own fonts, refresh for added fonts, must restart app though to clear out removed fonts
+- custom folder can have subfolders although all fonts will be sorted alphabetically
+- 500+ LUTs (color presets) applied to subtitles and existing color palettes, hidden to right of Stats tab
+
+![](images/fonts.jpg)
+
+- download 42 demo fonts or link is provided for each one within app 
+- custom fonts can all be in one directory within various subdirectories, it recursively loads the fonts
+- ![customfonts.zip 2MB](https://github.com/mrfragger/substitcher/raw/main/images/customfonts.zip)
+- in font panel set custom folder to this one and all fonts will be loaded
+
+```bash
+│  customfonts
+├── alternates
+│   ├── Aloevera.ttf
+│   ├── Bremlin.otf
+│   ├── Bentley Vintage.otf
+│   ├── Dantene.otf
+│   ├── Kambegi.ttf
+│   └── Mount Hills.otf
+│   ├── Sorean.otf
+├── ligatures177
+│   ├── Brilliant Heavens demo.otf
+│   ├── Categories Elegant demo.otf
+│   ├── Changing Campaign demo.otf
+│   ├── Creating Families demo.otf
+│   ├── Creating Graphics demo.otf
+│   ├── Enduring demo.otf
+│   ├── Gares demo.otf
+│   ├── Reminder According demo.otf
+│   ├── Roommate Surrealism demo.otf
+│   ├── Salvador Abstract demo.otf
+│   └── Traditional Civilization demo.otf
+├── ligaturesVarious
+│   ├── Chocolate Chips.otf
+│   ├── Pricedown Black.otf
+│   ├── Rocket Raccoon free.otf
+│   ├── Shoese Flower.ttf
+│   ├── Sophia Melanie.otf
+│   └── Souther Daleska demo version.otf
+│   └── Sparkster One.otf
+├── missingligatures177
+│   ├── Abstract Settings demo.otf
+│   ├── Classical Aesthetics demo.otf
+│   ├── Coastline Classical demo.otf
+│   ├── Created Aesthetic demo.otf
+│   ├── Creates Presence demo.otf
+│   ├── Engaging Realities demo.otf
+│   ├── Fondness Romance demo.otf
+│   ├── Healthcare Resilience demo.otf
+│   ├── Radical Blending demo.otf
+│   ├── Realities Endlessly demo.otf
+│   ├── Rococo Aesthetic demo.otf
+│   └── Titanium Galleries demo.otf
+├── mustBeUppercase
+│   ├── Children Interests demo.otf
+│   └── Intricate Narrative demo.otf
+└── seesawcase
+    ├── Harquil.ttf
+    ├── Sidethree.otf
+    └── Zigzageo.ttf
+```
+
+### Glyph Viewer
+only 1-9, basic latin and ligatures
+
+![](images/glyphviewer.jpg)
+
 ### Transcribe
 - Transcribe with 30 second segments to reduce hallucination with whisper.cpp, keeps model in memory for entire chapter
 - Repeats vtt to remove repeated words, capitalize pronouns, Islamic terms and honorifics
@@ -141,80 +218,6 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 - press b 1-9 to quickly open bookmark entries
 - mutiple bookmarks from same audiobook grouped together
 - sorted by most recently added
-
-### Fonts
-- ligatures fonts, missing ligatures, alternates, fonts must be uppercase
-- 100+ fonts
-- demo fonts
-- free (free for commerical use)
-- each missing and each alternate font, subs must be converted
-- ligature demo fonts, subs need converting only once
-- alternates don't work with mixed CJK and Latin text on same subtitle line
-- favorites list
-- choose own custom folder for own fonts, refresh for added fonts, must restart app though to clear out removed fonts
-- custom folder can have subfolders although all fonts will be sorted alphabetically
-- 500+ LUTs (color presets) applied to subtitles and existing color palettes, hidden to right of Stats tab
-
-![](images/fonts.jpg)
-
-- download 39 demo fonts or link is provided for each one within app 
-- custom fonts can all be in one directory within various subdirectories, it recursively loads the fonts
-- ![customfonts.zip 2MB](https://github.com/mrfragger/substitcher/raw/main/images/customfonts.zip)
-- in font panel set custom folder to this one and all fonts will be loaded
-
-```bash
-│  customfonts
-├── alternates
-│   ├── Aloevera.ttf
-│   ├── Bentley Vintage.otf
-│   ├── Kambegi.ttf
-│   └── Mount Hills.otf
-├── ligatures177
-│   ├── Brilliant Heavens demo.otf
-│   ├── Categories Elegant demo.otf
-│   ├── Changing Campaign demo.otf
-│   ├── Creating Families demo.otf
-│   ├── Creating Graphics demo.otf
-│   ├── Enduring demo.otf
-│   ├── Gares demo.otf
-│   ├── Reminder According demo.otf
-│   ├── Roommate Surrealism demo.otf
-│   ├── Salvador Abstract demo.otf
-│   └── Traditional Civilization demo.otf
-├── ligaturesVarious
-│   ├── Chocolate Chips.otf
-│   ├── Pricedown Black.otf
-│   ├── Rocket Raccoon free.otf
-│   ├── Shoese Flower.ttf
-│   ├── Sophia Melanie.otf
-│   └── Souther Daleska demo version.otf
-│   └── Sparkster One.otf
-├── missingligatures177
-│   ├── Abstract Settings demo.otf
-│   ├── Classical Aesthetics demo.otf
-│   ├── Coastline Classical demo.otf
-│   ├── Created Aesthetic demo.otf
-│   ├── Creates Presence demo.otf
-│   ├── Engaging Realities demo.otf
-│   ├── Fondness Romance demo.otf
-│   ├── Healthcare Resilience demo.otf
-│   ├── Radical Blending demo.otf
-│   ├── Realities Endlessly demo.otf
-│   ├── Rococo Aesthetic demo.otf
-│   └── Titanium Galleries demo.otf
-├── mustBeUppercase
-│   ├── Children Interests demo.otf
-│   └── Intricate Narrative demo.otf
-└── seesawcase
-    ├── Harquil.ttf
-    ├── Sidethree.otf
-    └── Zigzageo.ttf
-```
-
-### Glyph Viewer
-only 1-9, basic latin and ligatures
-
-![](images/glyphviewer.jpg)
 
 ### Colors
 - 750+ color palettes

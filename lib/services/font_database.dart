@@ -120,8 +120,11 @@ class FontDatabase {
      // ==================== demo/alternates ====================
     'Aloevera': FontMetadata(fontName: 'Aloevera', mainCategory: FontCategory.demo, subCategories: [FontCategory.alternates]),
     'Bentley Vintage': FontMetadata(fontName: 'Bentley Vintage', mainCategory: FontCategory.demo, subCategories: [FontCategory.alternates]),
+    'Bremlin': FontMetadata(fontName: 'Bremlin', mainCategory: FontCategory.demo, subCategories: [FontCategory.alternates]),
+    'Dantene': FontMetadata(fontName: 'Dantene', mainCategory: FontCategory.demo, subCategories: [FontCategory.alternates]),
     'Kambegi': FontMetadata(fontName: 'Kambegi', mainCategory: FontCategory.demo, subCategories: [FontCategory.alternates]),
     'Mount Hills': FontMetadata(fontName: 'Mount Hills', mainCategory: FontCategory.demo, subCategories: [FontCategory.alternates]),
+    'Sorean': FontMetadata(fontName: 'Sorean', mainCategory: FontCategory.demo, subCategories: [FontCategory.alternates]),
 
  // ==================== demo/MustBeUPPERCASE/177studio ====================
      'Children Interests demo': FontMetadata(fontName: 'Children Interests demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.mustBeUppercase], studio: FontCategory.studio177),
