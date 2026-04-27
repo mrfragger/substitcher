@@ -329,14 +329,15 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 
 ### Youtube
 - handles videos or audio to stream (ignored for History, Stats), disabled on android/iOS
+- stream playlists too but must select each item, no skip to next playlist item
 - download video or audio and playlists with option to resume includes soundcloud and spreaker
 - displays subs automatically if avaiable based on default language which can be set
 - set to any language using youtube's auto-translate feature
 - using auto-translate requires visiting youtube.com on firefox and leaving it there so it can find the cookie
 - dual subs for auto-translated into any language and original language, use ytfixed.vtt ones
 - still can choose orig (original file if which doesn't require a firefox cookie)
-- choose audio streams
-- choose up to 10 languages to prompt when default language isn't found, this enables a shortlist rather than scrolling through 79 languages each time
+- choose audio streams in any languages available
+- choose any subtitle languages and auto-translate to any language
 
 ![](images/youtubedualsubs.jpg)
 
