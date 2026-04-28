@@ -310,11 +310,13 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 ![](images/transliteratejapanese.jpg)
 
 ### Translate vtt Subtitles
-- translate with TranslateGemma
+- translate with TranslateGemma using llama.cpp
 - choose on vtt file and translation into 16 different langauges simutaneously
 - using translategemma-4b-it.Q4_K_M.gguf 2.5GB model, works with only 8GB RAM
-- translate into these languages (either from or to)
-- English, Arabic, Dutch, French, German, Italian, Portuguese, Spanish, Swedish, Russian, Chinese, Japanese, Korean, Thai, Vietnamese, Indonesian, Bengali
+- translate into these 11 languages (either from or to)
+- English, Arabic, French, German, Italian, Portuguese, Spanish, Russian, Chinese, Japanese, Korean
+- these are great but keeping it small set of languages: Czech, Dutch, Swedish
+- these sometimes hallucinate too often: Thai, Vietnamese, Indonesian, Bengali
 - missing Filipino, Hindi, Polish, Turkish due to bad accuracy
 - resume translation if necessary, choose same vtt again
 - pause and/or unload model (to free up memory) then resume

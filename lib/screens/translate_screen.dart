@@ -31,6 +31,7 @@ class _TranslateScreenState extends State<TranslateScreen> {
   DateTime? _lastUserScrollTime;
 
   final Map<int, Map<String, String>> _translationResults = {};
+  final Map<int, Duration> _translationDurations = {};
 
   int _cacheHits = 0;
   int _apiCalls = 0;
@@ -64,7 +65,7 @@ class _TranslateScreenState extends State<TranslateScreen> {
       }
     });
   }
-  
+
   @override
   void dispose() {
     _scrollController.dispose();
@@ -73,10 +74,17 @@ class _TranslateScreenState extends State<TranslateScreen> {
   }
 
   Future<void> _startServer() async {
-    if (_service.modelPath == null) {
+    if (!Platform.isMacOS && _service.modelPath == null) {
       _showSnack('Please select a TranslateGemma GGUF model first', isError: true);
       return;
     }
+    if (Platform.isMacOS && _service.modelPath == null) {
+      final llamaAvailable = _service.llamaExecutablePath != null ||
+                             _service.getBundledLlamaPath() != null;
+      if (!llamaAvailable) {
+      }
+    }
+
     setState(() {
       _serverStarting = true;
       _statusMessage = 'Loading model... 0s';
@@ -96,7 +104,6 @@ class _TranslateScreenState extends State<TranslateScreen> {
         setState(() {
           _serverRunning = true;
           _serverStarting = false;
-          _statusMessage = 'Server ready';
         });
       }
     }).catchError((e) {
@@ -151,10 +158,10 @@ class _TranslateScreenState extends State<TranslateScreen> {
     final p = result.files.first.path!;
     final content = await File(p).readAsString();
     final cues = _service.parseVtt(content);
-  
+
     final prefs = await SharedPreferences.getInstance();
     await prefs.setString('lastVttFilePath', p);
-  
+
     setState(() {
       _vttPath = p;
       _cues = cues;
@@ -365,7 +372,7 @@ class _TranslateScreenState extends State<TranslateScreen> {
       ),
     );
   }
-  
+
   Future<void> _startTranslation() async {
     if (_vttPath == null || _cues.isEmpty) {
       _showSnack('Please select a VTT file first', isError: true);
@@ -379,18 +386,18 @@ class _TranslateScreenState extends State<TranslateScreen> {
       _showSnack('Please start the translation server first', isError: true);
       return;
     }
-  
+
     // Hand data to the service
     _service.vttPath = _vttPath;
     _service.cues = _cues;
-  
+
     // Fire and forget — service owns the work
     _service.runTranslation().then((_) {
       if (mounted && !_service.cancelled) {
         _showSnack('Translation complete! Files saved to translated_vtt/');
       }
     });
-  
+
     _startProgressTimer();
   }
 
@@ -409,13 +416,14 @@ class _TranslateScreenState extends State<TranslateScreen> {
           _cacheHits = _service.cacheHits;
           _apiCalls = _service.apiCalls;
           _startTime = _service.startTime;
-          // Copy results reference for the feed
           _translationResults
             ..clear()
             ..addAll(_service.translationResults);
+          _translationDurations
+            ..clear()
+            ..addAll(_service.translationDurations);
         });
-  
-        // Auto-scroll logic
+
         if (_isTranslating && _scrollController.hasClients) {
           if (_lastUserScrollTime == null ||
               DateTime.now().difference(_lastUserScrollTime!).inSeconds >= 20) {
@@ -429,11 +437,11 @@ class _TranslateScreenState extends State<TranslateScreen> {
       }
     });
   }
-  
+
   void _cancel() {
     _service.cancelTranslation();
   }
-  
+
 
   String _formatDuration(Duration d) {
     final h = d.inHours;
@@ -622,19 +630,21 @@ class _TranslateScreenState extends State<TranslateScreen> {
             const SizedBox(width: 8),
             Text(
               _serverRunning
-                  ? 'Server running on :18033'
+                  ? 'Server running on :18033 (llama.cpp)'
                   : _serverStarting
                       ? 'Loading model...'
                       : 'Server stopped',
               style: TextStyle(
-                color: _serverRunning ? Colors.greenAccent : Colors.white60,
+                color: _serverRunning
+                    ? Colors.greenAccent
+                    : Colors.white60,
                 fontSize: 13,
               ),
             ),
             const SizedBox(width: 12),
             if (!_serverRunning && !_serverStarting)
               ElevatedButton.icon(
-                onPressed: _service.modelPath != null ? _startServer : null,
+                onPressed: (Platform.isMacOS || _service.modelPath != null) ? _startServer : null,
                 icon: const Icon(Icons.play_arrow, size: 18),
                 label: const Text('Start Server'),
                 style: ElevatedButton.styleFrom(
@@ -650,6 +660,14 @@ class _TranslateScreenState extends State<TranslateScreen> {
                     backgroundColor: Colors.red[700],
                     foregroundColor: Colors.white),
               ),
+              if (Platform.isMacOS && !_serverRunning && !_serverStarting)
+                Padding(
+                  padding: const EdgeInsets.only(top: 8),
+                  child: Text(
+                    'On Apple Silicon? Install MLX for faster translation: pip install mlx-lm',
+                    style: TextStyle(color: Colors.white38, fontSize: 11),
+                  ),
+                ),
           ]),
         ],
       ),
@@ -780,28 +798,23 @@ class _TranslateScreenState extends State<TranslateScreen> {
             children: [
               ActionChip(
                 label: const Text('All', style: TextStyle(fontSize: 12)),
-                backgroundColor: Colors.orange.withValues(alpha: 0.2),
-                side: const BorderSide(color: Colors.orange),
-                onPressed: _isTranslating
-                    ? null
-                    : () {
-                        setState(() {
-                          _service.selectedLanguages =
-                              List.from(TranslationService.availableLanguages);
-                        });
-                        _service.saveSettings();
-                      },
+                backgroundColor: Colors.deepOrange.withValues(alpha: 0.2),
+                side: const BorderSide(color: Colors.deepOrange),
+                onPressed: _isTranslating ? null : () {
+                  setState(() {
+                    _service.selectedLanguages = List.from(TranslationService.availableLanguages);
+                  });
+                  _service.saveSettings();
+                },
               ),
               ActionChip(
                 label: const Text('None', style: TextStyle(fontSize: 12)),
                 backgroundColor: Colors.red.withValues(alpha: 0.1),
                 side: const BorderSide(color: Colors.red),
-                onPressed: _isTranslating
-                    ? null
-                    : () {
-                        setState(() => _service.selectedLanguages = []);
-                        _service.saveSettings();
-                      },
+                onPressed: _isTranslating ? null : () {
+                  setState(() => _service.selectedLanguages = []);
+                  _service.saveSettings();
+                },
               ),
               ...TranslationService.availableLanguages.map((lang) {
                 final selected = _service.selectedLanguages.contains(lang);
@@ -811,7 +824,7 @@ class _TranslateScreenState extends State<TranslateScreen> {
                           fontSize: 12,
                           color: selected ? Colors.black : Colors.white70)),
                   selected: selected,
-                  selectedColor: Colors.orangeAccent,
+                  selectedColor: Colors.deepOrange,
                   backgroundColor: const Color(0xFF3A3A3A),
                   checkmarkColor: Colors.black,
                   onSelected: _isTranslating
@@ -909,11 +922,31 @@ class _TranslateScreenState extends State<TranslateScreen> {
     );
   }
 
+  Color _durationColor(Duration d) {
+    if (d == Duration.zero) return Colors.blueAccent;
+    if (d.inSeconds < 10) return Colors.greenAccent;
+    if (d.inSeconds < 20) return Colors.yellowAccent;
+    if (d.inSeconds < 40) return Colors.orangeAccent;
+    return Colors.redAccent;
+  }
+
+  String _formatLangDuration(Duration d) {
+    if (d.inMinutes > 0) return '${d.inMinutes}m ${d.inSeconds.remainder(60)}s';
+    return '${d.inSeconds}s';
+  }
+
   Widget _buildTranslationFeed() {
-    final entries = _translationResults.entries.toList();
-    final display = entries.length > 40
-        ? entries.sublist(entries.length - 40)
-        : entries;
+    if (_translationResults.isEmpty) return const SizedBox.shrink();
+
+    final currentLang = _isTranslating ? _statusMessage
+        .replaceAll('Translating to ', '')
+        .split('...').first
+        .trim() : '';
+
+    final allIndices = _translationResults.keys.toList()..sort();
+    final display = allIndices.length > 40
+        ? allIndices.sublist(allIndices.length - 40)
+        : allIndices;
 
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
@@ -924,23 +957,24 @@ class _TranslateScreenState extends State<TranslateScreen> {
                 fontSize: 14,
                 fontWeight: FontWeight.bold)),
         const SizedBox(height: 10),
-        ...display.map((entry) {
-          final cueIdx = entry.key;
-          final translations = entry.value;
+
+        ...display.map((cueIdx) {
+          final translations = _translationResults[cueIdx] ?? {};
           final originalText = _cues[cueIdx]['text'] ?? '';
           final timestamp = _cues[cueIdx]['timestamp'] ?? '';
-          final isCurrentlyCue = cueIdx == _currentCueIndex && _isTranslating;
+          final isCurrentCue = cueIdx == _currentCueIndex && _isTranslating;
+          final duration = _translationDurations[cueIdx];
 
           return Container(
             margin: const EdgeInsets.only(bottom: 10),
             padding: const EdgeInsets.all(14),
             decoration: BoxDecoration(
-              color: isCurrentlyCue
+              color: isCurrentCue
                   ? const Color(0xFF2A2A1A)
                   : const Color(0xFF1E1E1E),
               borderRadius: BorderRadius.circular(10),
               border: Border.all(
-                color: isCurrentlyCue
+                color: isCurrentCue
                     ? Colors.orange.withValues(alpha: 0.5)
                     : Colors.white12,
               ),
@@ -949,19 +983,37 @@ class _TranslateScreenState extends State<TranslateScreen> {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 Row(children: [
-                  Text(
-                    timestamp,
-                    style: const TextStyle(
-                        color: Colors.white38,
-                        fontSize: 10,
-                        fontFamily: 'monospace'),
-                  ),
+                  Text(timestamp,
+                      style: const TextStyle(
+                          color: Colors.white38,
+                          fontSize: 10,
+                          fontFamily: 'monospace')),
                   const SizedBox(width: 8),
                   Text('#${cueIdx + 1}',
                       style: const TextStyle(
                           color: Colors.white24, fontSize: 10)),
+                  const SizedBox(width: 8),
+                  if (duration != null)
+                    Container(
+                      padding: const EdgeInsets.symmetric(
+                          horizontal: 5, vertical: 1),
+                      decoration: BoxDecoration(
+                        color: _durationColor(duration).withValues(alpha: 0.15),
+                        borderRadius: BorderRadius.circular(4),
+                      ),
+                      child: Text(
+                        duration == Duration.zero
+                            ? 'cached'
+                            : '${duration.inSeconds}s',
+                        style: TextStyle(
+                          color: _durationColor(duration),
+                          fontSize: 10,
+                          fontWeight: FontWeight.bold,
+                        ),
+                      ),
+                    ),
                   const Spacer(),
-                  if (isCurrentlyCue)
+                  if (isCurrentCue)
                     Container(
                       padding: const EdgeInsets.symmetric(
                           horizontal: 6, vertical: 2),
@@ -972,12 +1024,10 @@ class _TranslateScreenState extends State<TranslateScreen> {
                             color: Colors.orange.withValues(alpha: 0.5)),
                       ),
                       child: const Text('translating',
-                          style: TextStyle(
-                              color: Colors.orange, fontSize: 10)),
+                          style: TextStyle(color: Colors.orange, fontSize: 10)),
                     ),
                 ]),
                 const SizedBox(height: 8),
-
                 Container(
                   width: double.infinity,
                   padding: const EdgeInsets.all(10),
@@ -1013,15 +1063,16 @@ class _TranslateScreenState extends State<TranslateScreen> {
                     ],
                   ),
                 ),
-
                 if (translations.isNotEmpty) ...[
                   const SizedBox(height: 6),
                   ...(() {
                     final sorted = translations.entries.toList()
                       ..sort((a, b) =>
-                          TranslationService.availableLanguages.indexOf(a.key)
-                              .compareTo(TranslationService.availableLanguages
-                                  .indexOf(b.key)));
+                          TranslationService.availableLanguages
+                              .indexOf(a.key)
+                              .compareTo(
+                                  TranslationService.availableLanguages
+                                      .indexOf(b.key)));
                     return sorted.map((t) {
                       final color = _languageColor(t.key);
                       return Padding(
@@ -1072,7 +1123,6 @@ class _TranslateScreenState extends State<TranslateScreen> {
         _service.selectedLanguages.isNotEmpty &&
         _serverRunning &&
         !_isTranslating;
-  
     return Row(children: [
       Expanded(
         child: ElevatedButton.icon(
@@ -1142,6 +1192,24 @@ class _TranslateScreenState extends State<TranslateScreen> {
             backgroundColor: Colors.red[700],
             foregroundColor: Colors.white,
             padding: const EdgeInsets.symmetric(vertical: 18, horizontal: 28),
+          ),
+        ),
+      ],
+      if (!_isTranslating && _translationResults.isNotEmpty) ...[
+        const SizedBox(width: 12),
+        ElevatedButton.icon(
+          onPressed: _serverRunning ? () {
+            _service.runMissedTranslations().then((_) {
+              if (mounted) _showSnack('Re-run complete!');
+            });
+            _startProgressTimer();
+          } : null,
+          icon: const Icon(Icons.refresh, size: 18),
+          label: const Text('Re-run Missed'),
+          style: ElevatedButton.styleFrom(
+            backgroundColor: Colors.teal[700],
+            foregroundColor: Colors.white,
+            padding: const EdgeInsets.symmetric(vertical: 18, horizontal: 20),
           ),
         ),
       ],
