@@ -1849,7 +1849,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
 
     setState(() {
       _showSleepTimerCountdown = true;
-      _sleepTimerCountdownSeconds = 120;
+      _sleepTimerCountdownSeconds = 300;
     });
 
     _sleepTimerCountdownTimer?.cancel();
@@ -3620,7 +3620,11 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
           borderRadius: BorderRadius.circular(8),
         ),
         child: FutureBuilder<List<String>>(
-          future: _filterValidGlyphs(allGlyphs, displayFont),
+          future: _filterValidGlyphs(
+            allGlyphs,
+            displayFont,
+            knownCodePoints: _getKnownCodePoints(_selectedFont),
+          ),
           builder: (context, snapshot) {
             if (!snapshot.hasData) {
               return const Center(
@@ -3738,51 +3742,73 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       );
     }
 
-  Future<List<String>> _filterValidGlyphs(List<String> allGlyphs, String? fontFamily) async {
-    final validGlyphs = <String>[];
+    Future<List<String>> _filterValidGlyphs(
+      List<String> allGlyphs,
+      String? fontFamily, {
+      Set<int>? knownCodePoints,
+    }) async {
+      final validGlyphs = <String>[];
 
-    final textPainter = TextPainter(
-      textDirection: TextDirection.ltr,
-    );
+      final textPainter = TextPainter(textDirection: TextDirection.ltr);
 
-    for (final char in allGlyphs) {
-      if (char.trim().isEmpty) continue;
-
-      final codePoint = char.codeUnitAt(0);
-
-      // Always include Basic Latin (32-126) - A-Z, a-z, 0-9, punctuation
-      if (codePoint >= 32 && codePoint <= 126) {
-        validGlyphs.add(char);
-        continue;
-      }
-
-      // For PUA range, filter using width comparison
+      // Measure a clearly-missing glyph once
       textPainter.text = TextSpan(
-        text: char,
-        style: TextStyle(
-          fontSize: 48,
-          fontFamily: fontFamily,
-        ),
+        text: '\uFFFF',
+        style: TextStyle(fontSize: 48, fontFamily: fontFamily),
       );
       textPainter.layout();
+      final missingWidth = textPainter.width;
 
-      if (textPainter.width > 0) {
-        final testPainter = TextPainter(textDirection: TextDirection.ltr);
-        testPainter.text = TextSpan(
-          text: '�',
+      for (final char in allGlyphs) {
+        if (char.trim().isEmpty) continue;
+
+        final codePoint = char.codeUnitAt(0);
+
+        // Always include Basic Latin
+        if (codePoint >= 32 && codePoint <= 126) {
+          validGlyphs.add(char);
+          continue;
+        }
+
+        if (knownCodePoints != null && knownCodePoints.contains(codePoint)) {
+          validGlyphs.add(char);
+          continue;
+        }
+
+        textPainter.text = TextSpan(
+          text: char,
           style: TextStyle(fontSize: 48, fontFamily: fontFamily),
         );
-        testPainter.layout();
+        textPainter.layout();
 
-        // If widths are significantly different, it's probably a valid glyph
-        if ((textPainter.width - testPainter.width).abs() > 5) {
+        if (textPainter.width > 0 &&
+            (textPainter.width - missingWidth).abs() > 2) {
           validGlyphs.add(char);
         }
       }
+
+      return validGlyphs;
     }
 
-    return validGlyphs;
-  }
+    Set<int> _getKnownCodePoints(String fontName) {
+      final codePoints = <int>{};
+
+      for (final map in [
+        FontAlternatesData.anyPosition,
+        FontAlternatesData.notAtEnd,
+        FontAlternatesData.onlyAtEnd,
+      ]) {
+        final fontMap = map[fontName];
+        if (fontMap != null) {
+          for (final value in fontMap.values) {
+            codePoints.add(value.runes.first);
+          }
+        }
+      }
+
+      return codePoints;
+    }
+
 
   Future<void> _loadFavoriteColorPalettes() async {
     final prefs = await SharedPreferences.getInstance();

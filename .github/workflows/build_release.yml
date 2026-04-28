@@ -3,7 +3,7 @@ name: Build Release
 on:
   push:
     tags:
-      - 'v*'
+      - "v*"
   workflow_dispatch:
 
 permissions:
@@ -14,18 +14,18 @@ jobs:
     runs-on: macos-latest
     steps:
       - uses: actions/checkout@v4.2.2
-      
+
       - uses: subosito/flutter-action@v2
         with:
-          channel: 'stable'
-      
+          channel: "stable"
+
       - name: Download arm64 FFmpeg
         uses: dawidd6/action-download-artifact@v3
         with:
           workflow: build_ffmpeg.yml
           name: ffmpeg-macos
           path: macos/Runner/Resources/bin/
-      
+
       - name: Download arm64 Whisper
         uses: dawidd6/action-download-artifact@v3
         with:
@@ -40,12 +40,12 @@ jobs:
           name: llama-macos-arm64
           path: macos/Runner/Resources/llama/
           if_no_artifact_found: fail
-      
+
       - name: Build macOS (arm64 only)
         run: |
           flutter pub get
           flutter build macos --release
-      
+
       - name: Create DMG
         run: |
           brew install create-dmg
@@ -57,7 +57,7 @@ jobs:
             --app-drop-link 425 120 \
             "SubStitcher-macOS-arm64.dmg" \
             "build/macos/Build/Products/Release/SubStitcher.app"
-      
+
       - name: Upload macOS artifact
         uses: actions/upload-artifact@v4.6.2
         with:
@@ -68,23 +68,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4.2.2
-      
+
       - uses: subosito/flutter-action@v2
         with:
-          channel: 'stable'
-      
+          channel: "stable"
+
       - name: Install dependencies
         run: |
           sudo apt-get update
           sudo apt-get install -y clang cmake ninja-build pkg-config libgtk-3-dev liblzma-dev libmpv-dev mpv
-      
+
       - name: Download Linux FFmpeg
         uses: dawidd6/action-download-artifact@v3
         with:
           workflow: build_ffmpeg.yml
           name: ffmpeg-linux
           path: temp-bin/
-      
+
       - name: Download Linux Whisper
         uses: dawidd6/action-download-artifact@v3
         with:
@@ -106,32 +106,32 @@ jobs:
           name: deepfilter-linux-x64
           path: temp-deepfilter/
           if_no_artifact_found: fail
-      
+
       - name: Build Linux
         run: |
           flutter pub get
           flutter build linux --release
-          
+
           mkdir -p build/linux/x64/release/bundle/bin
           mkdir -p build/linux/x64/release/bundle/whisper
           mkdir -p build/linux/x64/release/bundle/llama
           mkdir -p build/linux/x64/release/bundle/deepfilter
-          
+
           cp temp-bin/* build/linux/x64/release/bundle/bin/
           cp temp-whisper/* build/linux/x64/release/bundle/whisper/
           cp temp-llama/* build/linux/x64/release/bundle/llama/
           cp temp-deepfilter/* build/linux/x64/release/bundle/deepfilter/
-          
+
           chmod +x build/linux/x64/release/bundle/bin/*
           chmod +x build/linux/x64/release/bundle/whisper/*
           chmod +x build/linux/x64/release/bundle/llama/*
           chmod +x build/linux/x64/release/bundle/deepfilter/deep-filter
-      
+
       - name: Create AppImage
         run: |
           chmod +x scripts/build_appimage.sh
           ./scripts/build_appimage.sh
-      
+
       - name: Upload Linux AppImage artifact
         uses: actions/upload-artifact@v4.6.2
         with:
@@ -142,18 +142,18 @@ jobs:
     runs-on: windows-latest
     steps:
       - uses: actions/checkout@v4.2.2
-      
+
       - uses: subosito/flutter-action@v2
         with:
-          channel: 'stable'
-      
+          channel: "stable"
+
       - name: Download Windows FFmpeg
         uses: dawidd6/action-download-artifact@v3
         with:
           workflow: build_ffmpeg.yml
           name: ffmpeg-windows
           path: temp-bin/
-      
+
       - name: Download Windows Whisper
         uses: dawidd6/action-download-artifact@v3
         with:
@@ -175,12 +175,12 @@ jobs:
           name: deepfilter-windows-x64
           path: temp-deepfilter/
           if_no_artifact_found: fail
-      
+
       - name: Build Windows
         run: |
           flutter pub get
           flutter build windows --release
-      
+
       - name: Copy binaries to build output
         shell: powershell
         run: |
@@ -192,11 +192,11 @@ jobs:
           Copy-Item temp-whisper\* build\windows\x64\runner\Release\whisper\
           Copy-Item temp-llama\* build\windows\x64\runner\Release\llama\
           Copy-Item temp-deepfilter\* build\windows\x64\runner\Release\deepfilter\
-      
+
       - name: Create ZIP
         run: |
           Compress-Archive -Path build\windows\x64\runner\Release\* -DestinationPath SubStitcher-Windows-x64.zip
-      
+
       - name: Upload Windows ZIP
         uses: actions/upload-artifact@v4.6.2
         with:
@@ -207,21 +207,21 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4.2.2
-      
+
       - uses: subosito/flutter-action@v2
         with:
-          channel: 'stable'
-      
+          channel: "stable"
+
       - name: Install build dependencies
         run: |
           sudo apt-get update
           sudo apt-get install -y clang cmake ninja-build pkg-config libgtk-3-dev liblzma-dev libmpv-dev mpv
-      
+
       - name: Install Flatpak dependencies
         run: |
           sudo apt-get install -y flatpak flatpak-builder
           sudo flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
-      
+
       - name: Install Flatpak SDK
         timeout-minutes: 15
         run: |
@@ -231,14 +231,14 @@ jobs:
           if ! flatpak list | grep -q "org.freedesktop.Sdk.*24.08"; then
             sudo flatpak install -y flathub org.freedesktop.Sdk//24.08
           fi
-      
+
       - name: Download Linux FFmpeg
         uses: dawidd6/action-download-artifact@v3
         with:
           workflow: build_ffmpeg.yml
           name: ffmpeg-linux
           path: temp-bin/
-      
+
       - name: Download Linux Whisper
         uses: dawidd6/action-download-artifact@v3
         with:
@@ -259,12 +259,12 @@ jobs:
           workflow: build_deepfilter.yml
           name: deepfilter-linux-x64
           path: temp-deepfilter/
-      
+
       - name: Build Linux
         run: |
           flutter pub get
           flutter build linux --release
-          
+
           mkdir -p build/linux/x64/release/bundle/bin
           mkdir -p build/linux/x64/release/bundle/whisper
           mkdir -p build/linux/x64/release/bundle/llama
@@ -277,12 +277,12 @@ jobs:
           chmod +x build/linux/x64/release/bundle/whisper/*
           chmod +x build/linux/x64/release/bundle/llama/*
           chmod +x build/linux/x64/release/bundle/deepfilter/deep-filter
-      
+
       - name: Build Flatpak
         run: |
           chmod +x scripts/build_flatpak.sh
           ./scripts/build_flatpak.sh
-      
+
       - name: Upload Linux Flatpak artifact
         uses: actions/upload-artifact@v4.6.2
         with:
@@ -297,57 +297,48 @@ jobs:
       FLUTTER_DISABLE_FILE_WATCHER: true
     steps:
       - uses: actions/checkout@v4.2.2
-      
+
       - name: Set up JDK 17
         uses: actions/setup-java@v4
         with:
-          distribution: 'temurin'
-          java-version: '17'
+          distribution: "temurin"
+          java-version: "17"
           cache: gradle
-      
+
       - name: Install Android SDK with CMake
         uses: android-actions/setup-android@v3
         with:
-          packages: 'platform-tools platforms;android-34 build-tools;34.0.0 cmake;3.22.1'
+          packages: "platform-tools platforms;android-34 build-tools;34.0.0 cmake;3.22.1"
           accept-android-sdk-licenses: true
-      
+
       - uses: subosito/flutter-action@v2
         with:
-          channel: 'stable'
+          channel: "stable"
           cache: true
-      
+
       - name: Download Android FFmpeg
         uses: dawidd6/action-download-artifact@v3
         with:
           workflow: build_ffmpeg.yml
           name: ffmpeg-android
           path: temp-android-bin/
-      
-      - name: Download Android Whisper
-        uses: dawidd6/action-download-artifact@v3
-        with:
-          workflow: build_whisper.yml
-          name: whisper-android
-          path: temp-android-whisper/
-      
+
       - name: Copy Android native libraries
         run: |
           mkdir -p android/app/src/main/jniLibs/arm64-v8a
           cp temp-android-bin/arm64-v8a/ffmpeg android/app/src/main/jniLibs/arm64-v8a/libffmpeg.so
           cp temp-android-bin/arm64-v8a/ffprobe android/app/src/main/jniLibs/arm64-v8a/libffprobe.so
-          cp temp-android-whisper/arm64-v8a/whisper-cli android/app/src/main/jniLibs/arm64-v8a/libwhisper-cli.so
-          cp temp-android-whisper/arm64-v8a/*.so android/app/src/main/jniLibs/arm64-v8a/ || true
-      
+
       - name: Get dependencies
         run: flutter pub get
-      
+
       - name: Build Android APK
         run: flutter build apk --release
-      
+
       - name: Rename APK
         run: |
           mv build/app/outputs/flutter-apk/app-release.apk build/app/outputs/flutter-apk/substitcher-android-arm64.apk
-      
+
       - name: Upload Android APK
         uses: actions/upload-artifact@v4.6.2
         with:
@@ -355,13 +346,20 @@ jobs:
           path: build/app/outputs/flutter-apk/substitcher-android-arm64.apk
 
   create-release:
-    needs: [build-macos, build-windows, build-linux-appimage, build-linux-flatpak, build-android]
+    needs:
+      [
+        build-macos,
+        build-windows,
+        build-linux-appimage,
+        build-linux-flatpak,
+        build-android,
+      ]
     runs-on: ubuntu-latest
     if: startsWith(github.ref, 'refs/tags/')
     steps:
       - name: Download all artifacts
         uses: actions/download-artifact@v4
-      
+
       - name: Create Release
         uses: softprops/action-gh-release@v2
         with:
@@ -381,56 +379,56 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4.2.2
-      
+
       - name: Extract version from tag
         id: version
         run: |
           VERSION=${GITHUB_REF#refs/tags/v}
           echo "version=$VERSION" >> $GITHUB_OUTPUT
-      
+
       - name: Download AppImage artifact
         uses: actions/download-artifact@v4
         with:
           name: linux-appimage-build
           path: artifacts
-      
+
       - name: Calculate SHA256
         id: sha
         run: |
           cd artifacts
           SHA256=$(sha256sum substitcher-x64.AppImage | cut -d' ' -f1)
           echo "sha256=$SHA256" >> $GITHUB_OUTPUT
-      
+
       - name: Update AUR package
         env:
           AUR_SSH_KEY: ${{ secrets.AUR_SSH_KEY }}
         run: |
           VERSION="${{ steps.version.outputs.version }}"
           SHA256="${{ steps.sha.outputs.sha256 }}"
-          
+
           mkdir -p ~/.ssh
           echo "$AUR_SSH_KEY" > ~/.ssh/aur
           chmod 600 ~/.ssh/aur
           ssh-keyscan -H aur.archlinux.org >> ~/.ssh/known_hosts
-          
+
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
+
           GIT_SSH_COMMAND="ssh -i ~/.ssh/aur" git clone ssh://aur@aur.archlinux.org/substitcher-bin.git aur-repo
           cd aur-repo
-          
+
           sed -i "s/^pkgver=.*/pkgver=${VERSION}/" PKGBUILD
           sed -i "s/^sha256sums=.*/sha256sums=('${SHA256}')/" PKGBUILD
-          
+
           docker run --rm -v $(pwd):/pkg archlinux bash -c "
-            pacman -Sy --noconfirm pacman-contrib sudo fakeroot && 
-            useradd -m builder && 
-            chown -R builder:builder /pkg && 
+            pacman -Sy --noconfirm pacman-contrib sudo fakeroot &&
+            useradd -m builder &&
+            chown -R builder:builder /pkg &&
             su builder -c 'cd /pkg && makepkg --printsrcinfo > .SRCINFO'
           "
-          
+
           sudo chown -R $(whoami):$(whoami) .
-          
+
           git add PKGBUILD .SRCINFO
           git commit -m "Update to version ${VERSION}"
           GIT_SSH_COMMAND="ssh -i ~/.ssh/aur" git push
@@ -442,62 +440,62 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4.2.2
-      
+
       - name: Extract version from pubspec.yaml
         id: version
         run: |
           VERSION=$(grep '^version:' pubspec.yaml | sed 's/version: //')
           echo "version=$VERSION" >> $GITHUB_OUTPUT
-      
+
       - name: Download DMG artifact
         uses: actions/download-artifact@v4
         with:
           name: macos-build
           path: artifacts
-      
+
       - name: Calculate SHA256
         id: sha
         run: |
           cd artifacts
           SHA256=$(shasum -a 256 SubStitcher-macOS-arm64.dmg | cut -d' ' -f1)
           echo "sha256=$SHA256" >> $GITHUB_OUTPUT
-      
+
       - name: Update Homebrew cask
         env:
           HOMEBREW_TAP_TOKEN: ${{ secrets.HOMEBREW_TAP_TOKEN }}
         run: |
           VERSION="${{ steps.version.outputs.version }}"
           SHA256="${{ steps.sha.outputs.sha256 }}"
-          
+
           git clone https://x-access-token:${HOMEBREW_TAP_TOKEN}@github.com/mrfragger/homebrew-substitcher.git
           cd homebrew-substitcher
-          
+
           mkdir -p Casks
-          
+
           cat > Casks/substitcher.rb << 'EOF'
           cask "substitcher" do
             version "VERSION_PLACEHOLDER"
             sha256 "SHA_PLACEHOLDER"
-            
+
             url "https://github.com/mrfragger/substitcher/releases/download/vVERSION_PLACEHOLDER/SubStitcher-macOS-arm64.dmg"
             name "SubStitcher"
             desc "Audiobook encoder and player with subtitle support"
             homepage "https://github.com/mrfragger/substitcher"
-            
+
             app "SubStitcher.app"
-            
+
             zap trash: [
               "~/Library/Preferences/com.substitcher.app.plist",
               "~/Library/Application Support/substitcher",
             ]
           end
           EOF
-          
+
           sed -i "s/VERSION_PLACEHOLDER/${VERSION}/g" Casks/substitcher.rb
           sed -i "s/SHA_PLACEHOLDER/${SHA256}/g" Casks/substitcher.rb
-          
+
           rm -f Formula/substitcher.rb
-          
+
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add Casks/substitcher.rb

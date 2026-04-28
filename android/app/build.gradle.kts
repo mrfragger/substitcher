@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.substitcher"
+    namespace = "io.github.mrfragger.substitcher""
     compileSdk = 36
 
     sourceSets {
@@ -25,12 +25,12 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.example.substitcher"
+        applicationId = "io.github.mrfragger.substitcher""
         minSdk = 24
         targetSdk = 36
         versionCode = flutter.versionCode
         versionName = flutter.versionName
-        
+
         ndk {
             abiFilters.clear()
             abiFilters.add("arm64-v8a")

@@ -50,7 +50,7 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 │   ├── Bentley Vintage.otf
 │   ├── Dantene.otf
 │   ├── Kambegi.ttf
-    ├── Mount Hills.otf
+│   ├── Mount Hills.otf
 │   └── Sorean.otf
 ├── ligatures177
 │   ├── Brilliant Heavens demo.otf
@@ -181,7 +181,7 @@ only 1-9, basic latin and ligatures
 - sleep at End of Audiobook
 - Z cancel sleep timer
 - pause or adjusting playback speed also cancels sleep timer
-- warning of 120 seconds before closing app
+- warning of 300 seconds before closing app
 - if paused when setting sleep timer, playback is started
 - set to Pause instead of Close app so translating or transcribing continues while you sleep
 
