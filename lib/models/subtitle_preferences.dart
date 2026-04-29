@@ -5,6 +5,8 @@ class SubtitlePreferences {
   static const String _autoTranslateKey = 'subtitle_auto_translate';
   static const String _translateTargetKey = 'subtitle_translate_target';
   static const String _cookiesFilePathKey = 'subtitle_cookies_file_path';
+  static const String _lastUsedVttPathKey = 'subtitle_last_used_vtt_path';
+  static const String _lastUsedSecondaryVttPathKey = 'subtitle_last_used_secondary_vtt_path';
 
   String defaultLanguage;
   bool autoTranslate;
@@ -26,6 +28,42 @@ class SubtitlePreferences {
       translateTarget: prefs.getString(_translateTargetKey) ?? 'en',
       cookiesFilePath: prefs.getString(_cookiesFilePathKey),
     );
+  }
+
+  static Future<void> saveLastUsedVttPath(String audioBookPath, String vttPath) async {
+    final prefs = await SharedPreferences.getInstance();
+    final key = '${_lastUsedVttPathKey}_$audioBookPath';
+    await prefs.setString(key, vttPath);
+  }
+
+  static Future<String?> loadLastUsedVttPath(String audioBookPath) async {
+    final prefs = await SharedPreferences.getInstance();
+    final key = '${_lastUsedVttPathKey}_$audioBookPath';
+    final result = prefs.getString(key);
+    return result;
+  }
+
+  static Future<void> saveLastUsedSecondaryVttPath(String audioBookPath, String vttPath) async {
+    final prefs = await SharedPreferences.getInstance();
+    final key = '${_lastUsedSecondaryVttPathKey}_$audioBookPath';
+    await prefs.setString(key, vttPath);
+  }
+
+  static Future<String?> loadLastUsedSecondaryVttPath(String audioBookPath) async {
+    final prefs = await SharedPreferences.getInstance();
+    final key = '${_lastUsedSecondaryVttPathKey}_$audioBookPath';
+    final result = prefs.getString(key);
+    return result;
+  }
+
+  static Future<void> clearLastUsedVttPath(String audioBookPath) async {
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.remove('${_lastUsedVttPathKey}_$audioBookPath');
+  }
+
+  static Future<void> clearLastUsedSecondaryVttPath(String audioBookPath) async {
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.remove('${_lastUsedSecondaryVttPathKey}_$audioBookPath');
   }
 
   Future<void> save() async {

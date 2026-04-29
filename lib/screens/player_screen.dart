@@ -1159,276 +1159,324 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   }
 
   Future<void> _openSubtitleManager() async {
-    if (_currentAudiobook != null) {
-      await _scanAvailableSubtitles();
-    }
+      if (_currentAudiobook != null) {
+        await _scanAvailableSubtitles();
+      }
 
-    if (_subtitleFilePath != null && _primarySubtitlePath == null) {
-      setState(() {
-        _primarySubtitlePath = _subtitleFilePath;
-      });
-    }
+      if (_subtitleFilePath != null && _primarySubtitlePath == null) {
+        setState(() {
+          _primarySubtitlePath = _subtitleFilePath;
+        });
+      }
 
-    if (!mounted) return;
+      if (_secondarySubtitleFilePath != null && _secondarySubtitlePath == null) {
+        setState(() {
+          _secondarySubtitlePath = _secondarySubtitleFilePath;
+        });
+      }
 
-    showDialog(
-      context: context,
-      builder: (context) => SubtitleManagerDialog(
-        availableSubtitles: _availableSubtitles,
-        primarySubtitle: _primarySubtitlePath,
-        secondarySubtitle: _secondarySubtitlePath,
-        currentAudiobookPath: _currentAudiobook?.path,
-        onPrimarySelected: (filePath) async {
-          setState(() {
-            _primarySubtitlePath = filePath;
-            _subtitleFilePath = filePath;
-          });
-          final vttShowPath = VttShowService.vttShowPathFor(filePath);
-          if (vttShowPath != null) {
-            final styles = await VttShowService.load(vttShowPath);
-            final content = await File(filePath).readAsString();
-            final cues = _parseVTT(content);
-            final reconciledStyles = VttShowService.reconcile(
-              styles: styles,
-              cues: cues,
-            );
+      if (!mounted) return;
+
+      final audiobookPath = _currentAudiobook?.path;
+
+      showDialog(
+        context: context,
+        builder: (context) => SubtitleManagerDialog(
+          availableSubtitles: _availableSubtitles,
+          primarySubtitle: _primarySubtitlePath,
+          secondarySubtitle: _secondarySubtitlePath,
+          currentAudiobookPath: _currentAudiobook?.path,
+          onPrimarySelected: (filePath) async {
             setState(() {
-              _vttShowStyles = styles;
-              _vttShowActive = true;
-              _vttShowRevealedLines = 1;
-              _vttShowCurrentKey = null;
-              _vttShowApplying = false;
-              _subtitles = cues;
-              _originalSubtitles = cues;
+              _primarySubtitlePath = filePath;
+              _subtitleFilePath = filePath;
             });
+
+            if (audiobookPath != null) {
+              await SubtitlePreferences.saveLastUsedVttPath(audiobookPath, filePath);
+            }
+
+            final vttShowPath = VttShowService.vttShowPathFor(filePath);
+            if (vttShowPath != null) {
+              final styles = await VttShowService.load(vttShowPath);
+              final content = await File(filePath).readAsString();
+              final cues = _parseVTT(content);
+              final reconciledStyles = VttShowService.reconcile(
+                styles: styles,
+                cues: cues,
+              );
+              setState(() {
+                _vttShowStyles = styles;
+                _vttShowActive = true;
+                _vttShowRevealedLines = 1;
+                _vttShowCurrentKey = null;
+                _vttShowApplying = false;
+                _subtitles = cues;
+                _originalSubtitles = cues;
+              });
+              await Future.delayed(const Duration(milliseconds: 300));
+              if (mounted) await _loadVttShowSilentAudio();
+            } else {
+              await _applyConversion();
+            }
+          },
+          onSecondarySelected: (path) async {
+            setState(() {
+              _secondarySubtitlePath = path;
+              _secondarySubtitleFilePath = path;
+              if (_secondarySubtitleFont == 'System Default' && _selectedFont != 'System Default') {
+                _secondarySubtitleFont = _selectedFont;
+              }
+              if (_secondaryColorPalette == null && _currentColorPalette != null) {
+                _secondaryColorPalette = _currentColorPalette;
+              }
+              if (_secondarySubtitleFontSize == 86.0) {
+                _secondarySubtitleFontSize = _subtitleFontSize;
+              }
+            });
+
+            if (audiobookPath != null) {
+              await SubtitlePreferences.saveLastUsedSecondaryVttPath(audiobookPath, path);
+            }
+
+            await _applySecondaryConversion();
+          },
+          onSwap: () {
+            setState(() {
+              final temp = _primarySubtitlePath;
+              _primarySubtitlePath = _secondarySubtitlePath;
+              _secondarySubtitlePath = temp;
+
+              _subtitleFilePath = _primarySubtitlePath;
+              _secondarySubtitleFilePath = _secondarySubtitlePath;
+
+              final tempSubtitles = _subtitles;
+              final tempText = _currentSubtitleText;
+              final tempIndex = _currentSubtitleIndex;
+
+              _subtitles = _secondarySubtitles;
+              _currentSubtitleText = _secondarySubtitleText;
+              _currentSubtitleIndex = _currentSecondarySubtitleIndex;
+
+              _secondarySubtitles = tempSubtitles;
+              _secondarySubtitleText = tempText;
+              _currentSecondarySubtitleIndex = tempIndex;
+
+              final tempFont = _selectedFont;
+              final tempSize = _subtitleFontSize;
+              final tempPalette = _currentColorPalette;
+              final tempConversion = _conversionType;
+
+              final tempOriginal = _originalSubtitles;
+              _originalSubtitles = _secondaryOriginalSubtitles;
+              _secondaryOriginalSubtitles = tempOriginal;
+
+              _selectedFont = _secondarySubtitleFont;
+              _subtitleFontSize = _secondarySubtitleFontSize;
+              _currentColorPalette = _secondaryColorPalette;
+              _conversionType = _secondaryConversionType;
+
+              _secondarySubtitleFont = tempFont;
+              _secondarySubtitleFontSize = tempSize;
+              _secondaryColorPalette = tempPalette;
+              _secondaryConversionType = tempConversion;
+            });
+
+            // ✅ Save swapped state
+            if (audiobookPath != null) {
+              if (_primarySubtitlePath != null) {
+                SubtitlePreferences.saveLastUsedVttPath(audiobookPath, _primarySubtitlePath!);
+              }
+              if (_secondarySubtitlePath != null) {
+                SubtitlePreferences.saveLastUsedSecondaryVttPath(audiobookPath, _secondarySubtitlePath!);
+              }
+            }
+          },
+          onClearPrimary: () {
+            setState(() {
+              _primarySubtitlePath = null;
+              _subtitleFilePath = null;
+              _subtitles = [];
+              _currentSubtitleText = '';
+              _currentSubtitleIndex = null;
+            });
+            // ✅ Clear saved primary
+            if (audiobookPath != null) {
+              SubtitlePreferences.clearLastUsedVttPath(audiobookPath);
+            }
+          },
+          onClearSecondary: () {
+            setState(() {
+              _secondarySubtitlePath = null;
+              _secondarySubtitleFilePath = null;
+              _secondarySubtitles = [];
+              _secondarySubtitleText = '';
+              _currentSecondarySubtitleIndex = null;
+              _secondaryOriginalSubtitles = [];
+            });
+            // ✅ Clear saved secondary
+            if (audiobookPath != null) {
+              SubtitlePreferences.clearLastUsedSecondaryVttPath(audiobookPath);
+            }
+          },
+          onVttShowCreated: (filePath) async {
+            setState(() {
+              _primarySubtitlePath = filePath;
+              _subtitleFilePath = filePath;
+              _availableSubtitles = [];
+            });
+            final vttShowPath = VttShowService.vttShowPathFor(filePath);
+            if (vttShowPath != null) {
+              final styles = await VttShowService.load(vttShowPath);
+              final content = await File(filePath).readAsString();
+              final cues = _parseVTT(content);
+              final reconciledStyles = VttShowService.reconcile(
+                styles: styles,
+                cues: cues,
+              );
+              setState(() {
+                _vttShowStyles = styles;
+                _vttShowActive = true;
+                _vttShowRevealedLines = 1;
+                _vttShowCurrentKey = null;
+                _vttShowApplying = false;
+                _subtitles = cues;
+                _originalSubtitles = cues;
+              });
+            }
             await Future.delayed(const Duration(milliseconds: 300));
-            if (mounted) await _loadVttShowSilentAudio();
-          } else {
-            await _applyConversion();
-          }
-        },
-        onSecondarySelected: (path) async {
-          setState(() {
-            _secondarySubtitlePath = path;
-            _secondarySubtitleFilePath = path;
-            if (_secondarySubtitleFont == 'System Default' && _selectedFont != 'System Default') {
-              _secondarySubtitleFont = _selectedFont;
+            if (mounted) {
+              await _loadVttShowSilentAudio();
             }
-            if (_secondaryColorPalette == null && _currentColorPalette != null) {
-              _secondaryColorPalette = _currentColorPalette;
-            }
-            if (_secondarySubtitleFontSize == 86.0) {
-              _secondarySubtitleFontSize = _subtitleFontSize;
-            }
-          });
-          await _applySecondaryConversion();
-        },
-        onSwap: () {
-          setState(() {
-            final temp = _primarySubtitlePath;
-            _primarySubtitlePath = _secondarySubtitlePath;
-            _secondarySubtitlePath = temp;
-
-            _subtitleFilePath = _primarySubtitlePath;
-            _secondarySubtitleFilePath = _secondarySubtitlePath;
-
-            final tempSubtitles = _subtitles;
-            final tempText = _currentSubtitleText;
-            final tempIndex = _currentSubtitleIndex;
-
-            _subtitles = _secondarySubtitles;
-            _currentSubtitleText = _secondarySubtitleText;
-            _currentSubtitleIndex = _currentSecondarySubtitleIndex;
-
-            _secondarySubtitles = tempSubtitles;
-            _secondarySubtitleText = tempText;
-            _currentSecondarySubtitleIndex = tempIndex;
-
-            final tempFont = _selectedFont;
-            final tempSize = _subtitleFontSize;
-            final tempPalette = _currentColorPalette;
-            final tempConversion = _conversionType;
-
-            final tempOriginal = _originalSubtitles;
-            _originalSubtitles = _secondaryOriginalSubtitles;
-            _secondaryOriginalSubtitles = tempOriginal;
-
-            _selectedFont = _secondarySubtitleFont;
-            _subtitleFontSize = _secondarySubtitleFontSize;
-            _currentColorPalette = _secondaryColorPalette;
-            _conversionType = _secondaryConversionType;
-
-            _secondarySubtitleFont = tempFont;
-            _secondarySubtitleFontSize = tempSize;
-            _secondaryColorPalette = tempPalette;
-            _secondaryConversionType = tempConversion;
-          });
-        },
-        onClearPrimary: () {
-          setState(() {
-            _primarySubtitlePath = null;
-            _subtitleFilePath = null;
-            _subtitles = [];
-            _currentSubtitleText = '';
-            _currentSubtitleIndex = null;
-          });
-        },
-        onClearSecondary: () {
-          setState(() {
-            _secondarySubtitlePath = null;
-            _secondarySubtitleFilePath = null;
-            _secondarySubtitles = [];
-            _secondarySubtitleText = '';
-            _currentSecondarySubtitleIndex = null;
-            _secondaryOriginalSubtitles = [];
-          });
-        },
-        onVttShowCreated: (filePath) async {
-          setState(() {
-            _primarySubtitlePath = filePath;
-            _subtitleFilePath = filePath;
-            _availableSubtitles = [];
-          });
-          final vttShowPath = VttShowService.vttShowPathFor(filePath);
-          if (vttShowPath != null) {
-            final styles = await VttShowService.load(vttShowPath);
-            final content = await File(filePath).readAsString();
-            final cues = _parseVTT(content);
-            final reconciledStyles = VttShowService.reconcile(
-              styles: styles,
-              cues: cues,
-            );
-            setState(() {
-              _vttShowStyles = styles;
-              _vttShowActive = true;
-              _vttShowRevealedLines = 1;
-              _vttShowCurrentKey = null;
-              _vttShowApplying = false;
-              _subtitles = cues;
-              _originalSubtitles = cues;
-            });
-          }
-          await Future.delayed(const Duration(milliseconds: 300));
-          if (mounted) {
-            await _loadVttShowSilentAudio();
-          }
-        },
-      ),
-    );
-  }
+          },
+        ),
+      );
+    }
 
   Future<void> _loadSubtitles(String audiobookPath) async {
-    try {
-      setState(() {
-        _primarySubtitlePath = null;
-        _secondarySubtitleFilePath = null;
-        _secondarySubtitlePath = null;
-        _secondarySubtitles = [];
-        _secondarySubtitleText = '';
-        _currentSecondarySubtitleIndex = null;
-        _currentSubtitleIndex = null;
-        _currentSubtitleText = '';
-        _vttShowStyles = {};
-        _vttShowActive = false;
-        _vttShowRevealedLines = 1;
-        _vttShowCurrentKey = null;
-        _vttShowApplying = false;
-      });
+      try {
+        setState(() {
+          _primarySubtitlePath = null;
+          _secondarySubtitleFilePath = null;
+          _secondarySubtitlePath = null;
+          _secondarySubtitles = [];
+          _secondarySubtitleText = '';
+          _currentSecondarySubtitleIndex = null;
+          _currentSubtitleIndex = null;
+          _currentSubtitleText = '';
+          _vttShowStyles = {};
+          _vttShowActive = false;
+          _vttShowRevealedLines = 1;
+          _vttShowCurrentKey = null;
+          _vttShowApplying = false;
+        });
 
-      final dir = path.dirname(audiobookPath);
-      final audiobookBase = path.basenameWithoutExtension(audiobookPath);
-      final vttDir = path.join(dir, '${audiobookBase}_vtt');
+        final dir = path.dirname(audiobookPath);
+        final audiobookBase = path.basenameWithoutExtension(audiobookPath);
+        final vttDir = path.join(dir, '${audiobookBase}_vtt');
 
-      String? subtitlePath;
+        String? subtitlePath;
 
-      if (await Directory(vttDir).exists()) {
-        subtitlePath = await SubtitleOrganizer.findSubtitleInDirectory(audiobookPath);
-      }
+        final lastUsed = await SubtitlePreferences.loadLastUsedVttPath(audiobookPath);
+        if (lastUsed != null && await File(lastUsed).exists()) {
+          subtitlePath = lastUsed;
+        }
 
-      if (subtitlePath == null) {
-        final basePath = path.join(dir, audiobookBase);
-        for (final ext in ['.vtt', '.srt']) {
-          final testPath = '$basePath$ext';
-          if (await File(testPath).exists()) {
-            subtitlePath = testPath;
-            break;
+        if (subtitlePath == null && await Directory(vttDir).exists()) {
+          subtitlePath = await SubtitleOrganizer.findSubtitleInDirectory(audiobookPath);
+        }
+
+        if (subtitlePath == null) {
+          final basePath = path.join(dir, audiobookBase);
+          for (final ext in ['.vtt', '.srt']) {
+            final testPath = '$basePath$ext';
+            if (await File(testPath).exists()) {
+              subtitlePath = testPath;
+              break;
+            }
           }
         }
-      }
 
-      if (subtitlePath == null) {
-        print('No subtitle file found for: ${path.basename(audiobookPath)}');
+        if (subtitlePath == null) {
+          print('No subtitle file found for: ${path.basename(audiobookPath)}');
+          setState(() {
+            _subtitles = [];
+            _originalSubtitles = [];
+            _subtitleFilePath = null;
+            _currentSubtitleText = '';
+            _paragraphItems = [];
+            _vttShowStyles = {};
+            _vttShowActive = false;
+            _vttShowRevealedLines = 1;
+            _vttShowCurrentKey = null;
+          });
+          _updateWakelock();
+          return;
+        }
+
+        String content = await File(subtitlePath).readAsString();
+        if (subtitlePath.toLowerCase().endsWith('.srt')) {
+          final vttPath = subtitlePath.replaceAll(RegExp(r'\.srt$', caseSensitive: false), '.vtt');
+          final converted = _convertSrtToVtt(content);
+          await File(vttPath).writeAsString(converted);
+          subtitlePath = vttPath;
+          content = converted;
+        }
+
+        setState(() {
+          _subtitleFilePath = subtitlePath;
+        });
+
+        final originalCues = _parseVTT(content);
+        setState(() {
+          _originalSubtitles = originalCues;
+          _paragraphItems = _createParagraphs(originalCues);
+        });
+
+        final vttShowPath = VttShowService.vttShowPathFor(subtitlePath);
+        if (vttShowPath != null) {
+          final styles = await VttShowService.load(vttShowPath);
+          setState(() {
+            _vttShowStyles = styles;
+            _vttShowActive = true;
+            _vttShowRevealedLines = 1;
+            _vttShowCurrentKey = null;
+            _vttShowApplying = false;
+          });
+          await player.pause();
+        } else {
+          setState(() {
+            _vttShowStyles = {};
+            _vttShowActive = false;
+            _vttShowRevealedLines = 1;
+            _vttShowCurrentKey = null;
+            _vttShowApplying = false;
+          });
+        }
+
+        final lastSecondary = await SubtitlePreferences.loadLastUsedSecondaryVttPath(audiobookPath);
+        if (lastSecondary != null && await File(lastSecondary).exists()) {
+          setState(() {
+            _secondarySubtitleFilePath = lastSecondary;
+          });
+          await _applySecondaryConversion();
+        }
+
+        await _applyConversion();
+        _updateWakelock();
+        _scheduleFrequencyGeneration();
+      } catch (e) {
+        print('Error loading subtitles: $e');
         setState(() {
           _subtitles = [];
           _originalSubtitles = [];
           _subtitleFilePath = null;
           _currentSubtitleText = '';
           _paragraphItems = [];
-          _vttShowStyles = {};
-          _vttShowActive = false;
-          _vttShowRevealedLines = 1;
-          _vttShowCurrentKey = null;
         });
         _updateWakelock();
-        return;
       }
-
-      String content = await File(subtitlePath).readAsString();
-
-      if (subtitlePath.toLowerCase().endsWith('.srt')) {
-        final vttPath = subtitlePath.replaceAll(RegExp(r'\.srt$', caseSensitive: false), '.vtt');
-        final converted = _convertSrtToVtt(content);
-        await File(vttPath).writeAsString(converted);
-        subtitlePath = vttPath;
-        content = converted;
-      }
-
-      setState(() {
-        _subtitleFilePath = subtitlePath;
-      });
-
-      final originalCues = _parseVTT(content);
-      setState(() {
-        _originalSubtitles = originalCues;
-        _paragraphItems = _createParagraphs(originalCues);
-      });
-
-      final vttShowPath = VttShowService.vttShowPathFor(subtitlePath);
-      if (vttShowPath != null) {
-        final styles = await VttShowService.load(vttShowPath);
-        setState(() {
-          _vttShowStyles = styles;
-          _vttShowActive = true;
-          _vttShowRevealedLines = 1;
-          _vttShowCurrentKey = null;
-          _vttShowApplying = false;
-        });
-        await player.pause();
-      } else {
-        setState(() {
-          _vttShowStyles = {};
-          _vttShowActive = false;
-          _vttShowRevealedLines = 1;
-          _vttShowCurrentKey = null;
-          _vttShowApplying = false;
-        });
-      }
-
-      await _applyConversion();
-      _updateWakelock();
-      _scheduleFrequencyGeneration();
-    } catch (e) {
-      print('Error loading subtitles: $e');
-      setState(() {
-        _subtitles = [];
-        _originalSubtitles = [];
-        _subtitleFilePath = null;
-        _currentSubtitleText = '';
-        _paragraphItems = [];
-      });
-      _updateWakelock();
     }
-  }
 
   VttShowStyle _captureCurrentVttShowStyle() {
     return VttShowStyle(
@@ -4394,7 +4442,6 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       );
       return;
     }
-
     final audiobookPath = _currentAudiobook!.path;
     final audiobookDir = path.dirname(audiobookPath);
     final audiobookBase = path.basenameWithoutExtension(audiobookPath);
@@ -4424,6 +4471,8 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             _secondarySubtitleFontSize = _subtitleFontSize;
           }
         });
+
+        await SubtitlePreferences.saveLastUsedSecondaryVttPath(audiobookPath, subtitlePath);
 
         await _applySecondaryConversion();
 
@@ -6093,6 +6142,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       dialogTitle: 'Select Subtitle File',
       initialDirectory: initialDirectory,
     );
+
     if (result == null || result.files.isEmpty) return;
 
     var subtitlePath = result.files.first.path!;
@@ -6129,6 +6179,9 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         _originalSubtitles = subtitles;
         _paragraphItems = _createParagraphs(subtitles);
       });
+
+      await SubtitlePreferences.saveLastUsedVttPath(audiobookPath, subtitlePath);
+
       _updateCurrentSubtitle();
       _scheduleFrequencyGeneration();
       if (mounted) {

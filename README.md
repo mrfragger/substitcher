@@ -37,7 +37,7 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 
 ![](images/fonts.jpg)
 
-- download 43 demo fonts or link is provided for each one within app 
+- download 43 demo fonts or search for them to download on font websites
 - custom fonts can all be in one directory within various subdirectories, it recursively loads the fonts
 - ![customfonts.zip 2MB](https://github.com/mrfragger/substitcher/raw/main/images/customfonts.zip)
 - in font panel set custom folder to this one and all fonts will be loaded
@@ -126,6 +126,7 @@ only 1-9, basic latin and ligatures
 - apply default font, font size, font line spacing
 - left/right arrows advanced to prev/next subtitle
 - use primary / secondary at same time, i.e. bilingual subs
+- remembers lasts chosen primary and/or secondary subs
 - copy to clipboard primary or secondary subtitle line (u / U)
 - copy to clipboard in memory (font conversion for primary)
 - search foreign language subtitles

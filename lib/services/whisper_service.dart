@@ -3,7 +3,7 @@ import 'dart:convert';
 import 'dart:async';
 import 'package:path/path.dart' as path;
 import 'package:shared_preferences/shared_preferences.dart';
-import 'whisper_bundled.dart'; 
+import 'whisper_bundled.dart';
 import 'dart:math' show min;
 
 class WhisperService {
@@ -37,20 +37,20 @@ class WhisperService {
   Duration? startingRemainingDuration;
   String? estimatedTimeLeft;
   String? realtimeSpeed;
-  
+
   Function(String, double, Duration)? onProgressCallback;
   Function(String)? onErrorCallback;
-  
+
   int msOffset = 0;
   bool printColors = false;
   bool useGPU = true;
   String customPrompt = "The example of those who disbelieve is like that of one who shouts at what hears nothing but calls and cries i.e., cattle or sheep - deaf, dumb and blind, so they do not understand.";
-  
+
   List<String> customPromptHistory = [];
-  
+
   Future<void> initialize() async {
     final prefs = await SharedPreferences.getInstance();
-    
+
     try {
       whisperExecutablePath = await WhisperBundled.getWhisperExecutablePath();
       await prefs.setString('whisperExecutablePath', whisperExecutablePath!);
@@ -59,32 +59,32 @@ class WhisperService {
       print('Could not find bundled whisper: $e');
       whisperExecutablePath = prefs.getString('whisperExecutablePath');
     }
-    
+
     modelDirectory = prefs.getString('whisperModelDirectory');
     language = prefs.getString('whisperLanguage') ?? 'auto';
     selectedModel = prefs.getString('whisperModel') ?? 'large-v3-turbo';
     maxLength = prefs.getInt('whisperMaxLength') ?? 80;
     segmentTime = prefs.getString('whisperSegmentTime') ?? '0:30';
-        
+
     printColors = prefs.getBool('whisperPrintColors') ?? false;
     splitOnWord = prefs.getBool('whisperSplitOnWord') ?? true;
     customPrompt = prefs.getString('whisperPrompt') ?? customPrompt;
     translateToEnglish = prefs.getBool('whisperTranslate') ?? false;
-    
+
     customPromptHistory = prefs.getStringList('whisperPromptHistory') ?? [];
   }
-  
+
   void addPromptToHistory(String prompt) {
     if (prompt.trim().isEmpty) return;
-    
+
     customPromptHistory.remove(prompt);
-    
+
     customPromptHistory.insert(0, prompt);
-    
+
     if (customPromptHistory.length > 4) {
       customPromptHistory = customPromptHistory.sublist(0, 4);
     }
-    
+
     saveSettings();
   }
 
@@ -99,15 +99,15 @@ class WhisperService {
 
   Future<void> _ensureFFmpeg() async {
     if (_ffmpegPath != null) return;
-    
+
     if (Platform.isMacOS) {
       final executablePath = Platform.resolvedExecutable;
       final bundleDir = path.dirname(path.dirname(executablePath));
       final resourcesDir = path.join(bundleDir, 'Resources', 'bin');
-      
+
       final bundledFfmpeg = path.join(resourcesDir, 'ffmpeg');
       final bundledFfprobe = path.join(resourcesDir, 'ffprobe');
-      
+
       if (File(bundledFfmpeg).existsSync() && File(bundledFfprobe).existsSync()) {
         _ffmpegPath = bundledFfmpeg;
         _ffprobePath = bundledFfprobe;
@@ -118,10 +118,10 @@ class WhisperService {
       final executablePath = Platform.resolvedExecutable;
       final executableDir = path.dirname(executablePath);
       final binDir = path.join(executableDir, 'bin');
-      
+
       final bundledFfmpeg = path.join(binDir, 'ffmpeg.exe');
       final bundledFfprobe = path.join(binDir, 'ffprobe.exe');
-      
+
       if (File(bundledFfmpeg).existsSync() && File(bundledFfprobe).existsSync()) {
         _ffmpegPath = bundledFfmpeg;
         _ffprobePath = bundledFfprobe;
@@ -132,10 +132,10 @@ class WhisperService {
       final executablePath = Platform.resolvedExecutable;
       final executableDir = path.dirname(executablePath);
       final binDir = path.join(executableDir, 'bin');
-      
+
       final bundledFfmpeg = path.join(binDir, 'ffmpeg');
       final bundledFfprobe = path.join(binDir, 'ffprobe');
-      
+
       if (File(bundledFfmpeg).existsSync() && File(bundledFfprobe).existsSync()) {
         _ffmpegPath = bundledFfmpeg;
         _ffprobePath = bundledFfprobe;
@@ -149,7 +149,7 @@ class WhisperService {
       print('WhisperService using Android ffmpeg: $_ffmpegPath');
       return;
     }
-    
+
     _ffmpegPath = 'ffmpeg';
     _ffprobePath = 'ffprobe';
   }
@@ -171,24 +171,24 @@ class WhisperService {
     await prefs.setString('whisperPrompt', customPrompt);
     await prefs.setBool('whisperTranslate', translateToEnglish);
     await prefs.setStringList('whisperPromptHistory', customPromptHistory);
-  }  
+  }
 
   Future<void> setWhisperExecutable(String path) async {
     whisperExecutablePath = path;
     await saveSettings();
   }
-  
+
   Future<void> setModelDirectory(String path) async {
     modelDirectory = path;
     await saveSettings();
   }
-  
+
   List<String> getAvailableModels() {
     if (modelDirectory == null) return [];
-    
+
     final dir = Directory(modelDirectory!);
     if (!dir.existsSync()) return [];
-    
+
     final models = <String>[];
     for (final entity in dir.listSync()) {
       if (entity is File && entity.path.endsWith('.bin')) {
@@ -214,24 +214,24 @@ class WhisperService {
         'env': <String, String>{},
       };
     }
-  
+
     print('Detected Linux AppImage mount; copying whisper-cli and libraries to temp...');
-  
+
     // Locate original file + its directory
     final origFile = File(whisperExecutablePath);
     if (!await origFile.exists()) {
       throw Exception('whisper-cli not found at $whisperExecutablePath');
     }
     final origDir = origFile.parent;
-  
+
     // Create a fresh temp directory
     final tempDir = await Directory.systemTemp.createTemp('whisper_');
     final tempExePath = path.join(tempDir.path, 'whisper-cli');
-  
+
     // Copy the binary and make it executable
     await origFile.copy(tempExePath);
     await Process.run('chmod', ['+x', tempExePath]);
-  
+
     // Find and copy all .so files
     final copiedSoFiles = <String>[];
     await for (final entity in origDir.list()) {
@@ -245,7 +245,7 @@ class WhisperService {
         }
       }
     }
-  
+
     // Pick out the two libraries we care about for LD_PRELOAD
     final libGgml = copiedSoFiles.firstWhere(
       (s) => path.basename(s).startsWith('libggml') && !path.basename(s).contains('-'),
@@ -255,10 +255,10 @@ class WhisperService {
       (s) => path.basename(s) == 'libwhisper.so' || path.basename(s).startsWith('libwhisper.so.'),
       orElse: () => throw Exception('libwhisper.so not found'),
     );
-  
+
     print('Found libggml: $libGgml');
     print('Found libwhisper: $libWhisper');
-  
+
     // Write the wrapper script - properly escape the variables
     final wrapperPath = path.join(tempDir.path, 'whisper-wrapper.sh');
     final wrapperScript = '''#!/usr/bin/env bash
@@ -266,21 +266,21 @@ class WhisperService {
   export LD_PRELOAD="$libGgml:$libWhisper:\$LD_PRELOAD"
   exec "$tempExePath" "\$@"
   ''';
-    
+
     await File(wrapperPath).writeAsString(wrapperScript);
     await Process.run('chmod', ['+x', wrapperPath]);
-  
+
     print('Created wrapper script at $wrapperPath');
     print('Wrapper contents:');
     print(wrapperScript);
-  
+
     // Return the wrapper as the new executable plus empty env (vars are in the script)
     return {
       'path': wrapperPath,
       'env': <String, String>{},
     };
   }
-  
+
   Future<void> transcribeChapters(
     String chaptersDirectory,
     Function(String status, double progress, Duration cumulativeDuration) onProgress,
@@ -291,26 +291,26 @@ class WhisperService {
     isTranscribing = true;
     onProgressCallback = onProgress;
     onErrorCallback = onError;
-    
+
     if (whisperExecutablePath == null || modelDirectory == null) {
       isTranscribing = false;
       onError('Whisper executable or model directory not set');
       return;
     }
-    
+
     if (!File(whisperExecutablePath!).existsSync()) {
       isTranscribing = false;
       onError('Whisper executable not found at: $whisperExecutablePath');
       return;
     }
-    
+
     final modelPath = path.join(modelDirectory!, 'ggml-$selectedModel.bin');
     if (!File(modelPath).existsSync()) {
       isTranscribing = false;
       onError('Model not found: $modelPath');
       return;
     }
-    
+
     try {
       final chaptersDir = Directory(chaptersDirectory);
       if (!chaptersDir.existsSync()) {
@@ -318,24 +318,24 @@ class WhisperService {
         onError('Chapters directory not found: $chaptersDirectory');
         return;
       }
-      
+
       final opusFiles = chaptersDir
           .listSync()
           .where((entity) => entity is File && entity.path.endsWith('.opus'))
           .cast<File>()
           .toList();
-      
+
       if (opusFiles.isEmpty) {
         isTranscribing = false;
         onError('No .opus files found in directory');
         return;
       }
-      
+
       opusFiles.sort((a, b) => path.basename(a.path).compareTo(path.basename(b.path)));
-      
+
       final skippedChapters = <String>[];
       final remainingFiles = <File>[];
-      
+
       for (final opusFile in opusFiles) {
         final chapterName = path.basenameWithoutExtension(opusFile.path);
         final vttPath = path.join(chaptersDirectory, '$chapterName.vtt');
@@ -345,13 +345,13 @@ class WhisperService {
           remainingFiles.add(opusFile);
         }
       }
-      
+
       if (skippedChapters.isNotEmpty) {
         transcriptionStatus = 'Skipped ${skippedChapters.length} already transcribed chapters';
         onProgress(transcriptionStatus, 0.0, Duration.zero);
         await Future.delayed(const Duration(seconds: 1));
       }
-      
+
       if (remainingFiles.isEmpty) {
         transcriptionStatus = 'All chapters already transcribed!';
         transcriptionProgress = 1.0;
@@ -359,15 +359,15 @@ class WhisperService {
         onProgress(transcriptionStatus, 1.0, Duration.zero);
         return;
       }
-      
+
       final tempWorkDir = Directory(path.join(chaptersDirectory, 'temp_transcribe'));
-      
+
       totalTranscriptionChapters = opusFiles.length;
       final chapterVttFiles = <String>[];
-      
+
       cumulativeChapterDuration = Duration.zero;
       DateTime sessionStartTime = DateTime.now();
-      
+
       for (int i = 0; i < remainingFiles.length; i++) {
         if (_shouldCancelTranscription) {
           transcriptionStatus = 'Transcription cancelled';
@@ -375,27 +375,27 @@ class WhisperService {
           onProgress(transcriptionStatus, 0.0, Duration.zero);
           return;
         }
-        
+
         final chapterStart = DateTime.now();
         final opusFile = remainingFiles[i];
         final chapterName = path.basenameWithoutExtension(opusFile.path);
         final actualChapterNumber = opusFiles.indexOf(opusFile) + 1;
-        
+
         if (tempWorkDir.existsSync()) {
           tempWorkDir.deleteSync(recursive: true);
         }
         tempWorkDir.createSync(recursive: true);
-        
+
         currentTranscriptionChapter = actualChapterNumber;
         transcriptionStatus = 'Processing chapter $actualChapterNumber/$totalTranscriptionChapters: $chapterName';
         transcriptionProgress = (actualChapterNumber - 1) / totalTranscriptionChapters;
-        
+
         onProgress(
           transcriptionStatus,
           transcriptionProgress,
           cumulativeChapterDuration,
         );
-        
+
         final chapterVttPath = await _transcribeChapter(
           opusFile.path,
           tempWorkDir.path,
@@ -408,62 +408,62 @@ class WhisperService {
           },
           onError,
         );
-        
+
         if (chapterVttPath != null) {
           final finalChapterVtt = path.join(chaptersDirectory, '$chapterName.vtt');
           await File(chapterVttPath).copy(finalChapterVtt);
           chapterVttFiles.add(finalChapterVtt);
         }
-        
+
         final chapterDurationSeconds = await _getOpusDuration(opusFile.path);
         cumulativeChapterDuration += Duration(seconds: chapterDurationSeconds.toInt());
-        
+
         final chapterElapsed = DateTime.now().difference(chapterStart);
         final totalElapsedSeconds = DateTime.now().difference(sessionStartTime).inSeconds;
-        
+
         final chapterTime = _formatElapsed(chapterElapsed.inSeconds);
         final totalTime = _formatElapsed(totalElapsedSeconds);
-        
+
         double speedMultiplier = 0.0;
         if (cumulativeChapterDuration.inSeconds > 0 && totalElapsedSeconds > 0) {
           speedMultiplier = cumulativeChapterDuration.inSeconds / totalElapsedSeconds;
           realtimeSpeed = '${speedMultiplier.toStringAsFixed(1)}x';
         }
-        
+
         final speedText = speedMultiplier > 0 ? ' (${speedMultiplier.toStringAsFixed(1)}x realtime speed)' : '';
-        
+
         if (speedMultiplier > 0) {
           Duration remainingAudio = Duration.zero;
           for (int j = actualChapterNumber; j < opusFiles.length; j++) {
             final futureChapterDuration = await _getOpusDuration(opusFiles[j].path);
             remainingAudio += Duration(seconds: futureChapterDuration.toInt());
           }
-          
+
           final estimatedSecondsLeft = (remainingAudio.inSeconds / speedMultiplier).round();
           final estDuration = Duration(seconds: estimatedSecondsLeft);
           final estHours = estDuration.inHours;
           final estMinutes = estDuration.inMinutes.remainder(60);
           final estSeconds = estDuration.inSeconds.remainder(60);
-          
+
           if (estHours > 0) {
             estimatedTimeLeft = '${estHours}h ${estMinutes}m ${estSeconds}s';
           } else {
             estimatedTimeLeft = '${estMinutes}m ${estSeconds}s';
           }
-          
+
           totalRemainingDuration = remainingAudio;
         }
-        
+
         transcriptionStatus = 'Chapter $actualChapterNumber/$totalTranscriptionChapters complete: $chapterName ($chapterTime | Total: $totalTime$speedText)';
         transcriptionProgress = actualChapterNumber / totalTranscriptionChapters;
-        
+
         onProgress(
           transcriptionStatus,
           transcriptionProgress,
           cumulativeChapterDuration,
         );
       }
-      
+
       final allChapterVtts = <String>[];
       for (final opusFile in opusFiles) {
         final chapterName = path.basenameWithoutExtension(opusFile.path);
@@ -472,37 +472,37 @@ class WhisperService {
           allChapterVtts.add(vttPath);
         }
       }
-      
+
       if (allChapterVtts.length > 1) {
         transcriptionStatus = 'Merging ${allChapterVtts.length} chapter VTT files...';
         transcriptionProgress = 0.95;
         onProgress(transcriptionStatus, 0.95, cumulativeChapterDuration);
-        
+
         await mergeChapterVttFiles(
-          allChapterVtts, 
+          allChapterVtts,
           chaptersDirectory,
           opusFiles.map((f) => f.path).toList(),
           targetAudiobookPath: targetAudiobookPath,
         );
       }
-      
+
       if (tempWorkDir.existsSync()) {
         tempWorkDir.deleteSync(recursive: true);
       }
-      
+
       transcriptionStatus = 'Transcription complete!';
       transcriptionProgress = 1.0;
       isTranscribing = false;
-      
+
       onProgress(transcriptionStatus, 1.0, cumulativeChapterDuration);
-      
+
     } catch (e) {
       isTranscribing = false;
       transcriptionStatus = 'Error: $e';
       onError('Transcription error: $e');
     }
   }
-  
+
   String _formatElapsed(int seconds) {
     final h = seconds ~/ 3600;
     final m = (seconds % 3600) ~/ 60;
@@ -511,7 +511,7 @@ class WhisperService {
     if (m > 0) return '${m}m ${s}s';
     return '${s}s';
   }
-  
+
   Future<String?> _transcribeChapter(
     String opusFilePath,
     String workingDirectory,
@@ -520,44 +520,44 @@ class WhisperService {
     Function(String error) onError,
   ) async {
     final chapterName = path.basenameWithoutExtension(opusFilePath);
-    
+
     try {
-      
+
       onProgress('Splitting into $segmentTime segments...', 0.1);
       await _splitIntoSegments(opusFilePath, workingDirectory);
-      
+
       onProgress('Converting segments to WAV...', 0.2);
       final wavFiles = await _convertToWav(workingDirectory);
-      
+
       if (wavFiles.isEmpty) {
         onError('No WAV files created');
         return null;
       }
-      
+
       onProgress('Transcribing ${wavFiles.length} segments...', 0.3);
       await _runWhisper(wavFiles, modelPath, workingDirectory);
-      
+
       onProgress('Organizing VTT files...', 0.7);
       await _organizeVttFiles(workingDirectory);
-      
+
       onProgress('Stitching VTT segments...', 0.8);
       final stitchedVttPath = await _stitchVttFilesForChapter(opusFilePath, workingDirectory);
-      
+
       onProgress('Chapter complete: $chapterName', 1.0);
-      
+
       return stitchedVttPath;
-      
+
     } catch (e) {
       onError('Error transcribing chapter: $e');
       return null;
     }
   }
-  
+
   Future<void> _splitIntoSegments(String opusFilePath, String workingDir) async {
     await _ensureFFmpeg();
-    
+
     final duration = await _getOpusDuration(opusFilePath);
-    
+
     int segmentSecs = 30;
     if (segmentTime.contains(':')) {
       final parts = segmentTime.split(':');
@@ -567,17 +567,17 @@ class WhisperService {
     } else {
       segmentSecs = int.tryParse(segmentTime) ?? 30;
     }
-    
+
     final numSegments = (duration / segmentSecs).ceil();
-    
+
     for (int i = 0; i < numSegments; i++) {
       final startTime = i * segmentSecs;
-      final segmentDuration = (startTime + segmentSecs > duration) 
-          ? duration - startTime 
+      final segmentDuration = (startTime + segmentSecs > duration)
+          ? duration - startTime
           : segmentSecs.toDouble();
-      
+
       final outputPath = path.join(workingDir, '${i.toString().padLeft(4, '0')}.opus');
-      
+
       final result = await Process.run(
         _ffmpegPath!,
         [
@@ -590,7 +590,7 @@ class WhisperService {
           outputPath,
         ],
       );
-      
+
       if (result.exitCode != 0) {
         throw Exception('FFmpeg segment $i failed: ${result.stderr}');
       }
@@ -601,18 +601,18 @@ class WhisperService {
     if (whisperExecutablePath == null) {
       return 'ERROR: whisperExecutablePath is null';
     }
-    
+
     final whisperFile = File(whisperExecutablePath!);
     if (!whisperFile.existsSync()) {
       return 'ERROR: whisper-cli does not exist at $whisperExecutablePath';
     }
-    
+
     final whisperDir = whisperFile.parent.path;
     final buffer = StringBuffer();
     buffer.writeln('Platform: ${Platform.operatingSystem}');
     buffer.writeln('Whisper path: $whisperExecutablePath');
     buffer.writeln('Whisper dir: $whisperDir');
-    
+
     if (Platform.isMacOS) {
       final dylibs = Directory(whisperDir)
           .listSync()
@@ -620,19 +620,19 @@ class WhisperService {
           .map((e) => path.basename(e.path))
           .toList();
       buffer.writeln('Found dylibs: $dylibs');
-      
+
       final statResult = await Process.run('ls', ['-la', whisperExecutablePath!]);
       buffer.writeln('File permissions: ${statResult.stdout}');
-      
+
       final xattrResult = await Process.run('xattr', ['-l', whisperExecutablePath!]);
       buffer.writeln('Extended attributes: ${xattrResult.stdout}');
       if (xattrResult.stdout.toString().contains('quarantine')) {
         buffer.writeln('WARNING: Quarantine flag is set!');
       }
-      
+
       final codesignResult = await Process.run('codesign', ['-dv', whisperExecutablePath!]);
       buffer.writeln('Code signing: ${codesignResult.stderr}');
-      
+
     } else if (Platform.isLinux) {
       final soFiles = Directory(whisperDir)
           .listSync()
@@ -640,13 +640,13 @@ class WhisperService {
           .map((e) => path.basename(e.path))
           .toList();
       buffer.writeln('Found .so files: $soFiles');
-      
+
       final statResult = await Process.run('ls', ['-la', whisperExecutablePath!]);
       buffer.writeln('File permissions: ${statResult.stdout}');
-      
+
       final lddResult = await Process.run('ldd', [whisperExecutablePath!]);
       buffer.writeln('Library dependencies:\n${lddResult.stdout}');
-      
+
       buffer.writeln('\n=== CPU COMPATIBILITY CHECK ===');
       try {
         final cpuInfo = await File('/proc/cpuinfo').readAsString();
@@ -654,13 +654,13 @@ class WhisperService {
           (line) => line.startsWith('flags'),
           orElse: () => 'flags: not found'
         );
-        
+
         final hasAVX = flagsLine.contains(' avx ');
         final hasAVX2 = flagsLine.contains(' avx2 ');
-        
+
         buffer.writeln('AVX support: ${hasAVX ? "YES ✓" : "NO ✗"}');
         buffer.writeln('AVX2 support: ${hasAVX2 ? "YES ✓" : "NO ✗"}');
-        
+
         if (!hasAVX) {
           buffer.writeln('\n=== CPU COMPATIBILITY WARNING ===');
           buffer.writeln('Your CPU does not support AVX instructions (introduced ~2011-2013).');
@@ -674,11 +674,11 @@ class WhisperService {
       } catch (e) {
         buffer.writeln('Could not read CPU info: $e');
       }
-      
+
       buffer.writeln('\n=== BINARY INFO ===');
       final fileResult = await Process.run('file', [whisperExecutablePath!]);
       buffer.writeln('Binary type: ${fileResult.stdout}');
-      
+
     } else if (Platform.isWindows) {
       final dllFiles = Directory(whisperDir)
           .listSync()
@@ -687,10 +687,10 @@ class WhisperService {
           .toList();
       buffer.writeln('Found DLLs: $dllFiles');
     }
-    
+
     try {
       final environment = <String, String>{};
-      
+
       if (Platform.isMacOS) {
         environment['DYLD_LIBRARY_PATH'] = whisperDir;
         environment['DYLD_FALLBACK_LIBRARY_PATH'] = whisperDir;
@@ -701,16 +701,16 @@ class WhisperService {
         buffer.writeln('\n=== TESTING ===');
         buffer.writeln('Testing with environment: $environment');
       }
-      
+
       final testResult = await Process.run(
         whisperExecutablePath!,
         ['--help'],
         environment: environment,
       ).timeout(const Duration(seconds: 5));
-      
+
       buffer.writeln('\nTest result:');
       buffer.writeln('Exit code: ${testResult.exitCode}');
-      
+
       if (testResult.exitCode == -4) {
         buffer.writeln('\n FATAL ERROR: Exit code -4 (SIGILL - Illegal Instruction)');
         buffer.writeln('Your CPU does not support the instructions required by this binary.');
@@ -726,10 +726,10 @@ class WhisperService {
     } catch (e) {
       buffer.writeln('\nEXCEPTION running whisper: $e');
     }
-    
+
     return buffer.toString();
   }
-  
+
   Future<List<String>> _convertToWav(String workingDir) async {
     await _ensureFFmpeg();
     final dir = Directory(workingDir);
@@ -738,15 +738,15 @@ class WhisperService {
         .where((e) => e is File && path.basename(e.path).startsWith(RegExp(r'^\d{4}\.opus$')))
         .cast<File>()
         .toList();
-    
+
     opusSegments.sort((a, b) => path.basename(a.path).compareTo(path.basename(b.path)));
-    
+
     final wavFiles = <String>[];
-    
+
     for (final opusFile in opusSegments) {
       final basename = path.basenameWithoutExtension(opusFile.path);
       final wavPath = path.join(workingDir, 'temp_$basename.wav');
-      
+
       final result = await Process.run(
         _ffmpegPath!,
         [
@@ -758,15 +758,15 @@ class WhisperService {
           wavPath,
         ],
       );
-      
+
       if (result.exitCode == 0) {
         wavFiles.add(wavPath);
       }
     }
-    
+
     return wavFiles;
   }
-  
+
   Future<void> _runWhisper(
     List<String> wavFiles,
     String modelPath,
@@ -777,7 +777,7 @@ class WhisperService {
     );
     final actualWhisperPath = whisperInfo['path'] as String;
     final environment = whisperInfo['env'] as Map<String, String>;
-    
+
     final args = <String>[
       '-m', modelPath,
       ...wavFiles,
@@ -785,23 +785,23 @@ class WhisperService {
       '-t', '8',
       '-l', language,
     ];
-    
+
     if (translateToEnglish && selectedModel != 'large-v3-turbo') {
       args.add('-tr');
     }
-    
+
     args.addAll(['-ml', maxLength.toString()]);
-    
+
     if (splitOnWord) {
       args.add('-sow');
     }
-    
+
     if (printColors) {
       args.add('-pc');
     }
-    
+
     args.addAll(['--prompt', customPrompt]);
-    
+
     final logFile = File('${workingDir}/whisper_debug.log');
     final logBuffer = StringBuffer();
     logBuffer.writeln('=== WHISPER RUN ${DateTime.now()} ===');
@@ -812,7 +812,7 @@ class WhisperService {
     logBuffer.writeln('WAV count: ${wavFiles.length}');
     logBuffer.writeln('Args: $args');
     await logFile.writeAsString(logBuffer.toString());
-    
+
     try {
       _currentWhisperProcess = await Process.start(
         actualWhisperPath,
@@ -820,35 +820,35 @@ class WhisperService {
         workingDirectory: workingDir,
         environment: environment,
       );
-      
+
       final stdout = StringBuffer();
       final stderr = StringBuffer();
-      
+
       _currentWhisperProcess!.stdout.transform(utf8.decoder).listen((data) {
         stdout.write(data);
       });
-      
+
       _currentWhisperProcess!.stderr.transform(utf8.decoder).listen((data) {
         stderr.write(data);
       });
-      
+
       final exitCode = await _currentWhisperProcess!.exitCode;
-      
+
       await logFile.writeAsString(
         'Exit code: $exitCode\nStdout: ${stdout.toString()}\nStderr: ${stderr.toString()}\n',
         mode: FileMode.append,
       );
-      
+
       if (_shouldCancelTranscription) {
         _currentWhisperProcess = null;
         throw Exception('Transcription cancelled by user');
       }
-      
+
       if (exitCode != 0) {
         _currentWhisperProcess = null;
         throw Exception('Whisper failed (exit $exitCode): ${stderr.toString()}');
       }
-      
+
       _currentWhisperProcess = null;
     } catch (e, stackTrace) {
       _currentWhisperProcess = null;
@@ -859,22 +859,22 @@ class WhisperService {
       rethrow;
     }
   }
-  
+
   Future<void> _organizeVttFiles(String workingDir) async {
     final vttSubsDir = Directory(path.join(workingDir, 'vttsubs'));
     if (!vttSubsDir.existsSync()) {
       vttSubsDir.createSync();
     }
-    
+
     final dir = Directory(workingDir);
     final vttFiles = dir
         .listSync()
         .where((e) => e is File && e.path.endsWith('.vtt'))
         .cast<File>()
         .toList();
-    
+
     vttFiles.sort((a, b) => path.basename(a.path).compareTo(path.basename(b.path)));
-    
+
     int counter = 0;
     for (final vttFile in vttFiles) {
       final newName = '${counter.toString().padLeft(4, '0')}.vtt';
@@ -883,36 +883,36 @@ class WhisperService {
       counter++;
     }
   }
-  
+
   Future<String> _stitchVttFilesForChapter(String originalOpusPath, String workingDir) async {
     final vttSubsDir = Directory(path.join(workingDir, 'vttsubs'));
-    
+
     final opusSegments = Directory(workingDir)
         .listSync()
         .where((e) => e is File && RegExp(r'^\d{4}\.opus$').hasMatch(path.basename(e.path)))
         .cast<File>()
         .toList();
-    
+
     opusSegments.sort((a, b) => path.basename(a.path).compareTo(path.basename(b.path)));
-  
+
     double tsum = 0.0;
     final shiftedVttFiles = <String>[];
-  
+
     final firstVtt = path.join(vttSubsDir.path, '0000.vtt');
     if (File(firstVtt).existsSync()) {
       shiftedVttFiles.add(firstVtt);
     }
-  
+
     for (int i = 0; i < opusSegments.length; i++) {
       final current = i.toString().padLeft(4, '0');
       final next = (i + 1).toString().padLeft(4, '0');
       final currentOpus = path.join(workingDir, '$current.opus');
       final nextVtt = path.join(vttSubsDir.path, '$next.vtt');
-  
+
       if (File(currentOpus).existsSync()) {
         final duration = await _getOpusDuration(currentOpus);
         tsum = tsum + duration;
-  
+
         if (File(nextVtt).existsSync()) {
           final shiftedPath = path.join(workingDir, '$next.vtt');
           await _vttShift(nextVtt, tsum, shiftedPath);
@@ -920,13 +920,13 @@ class WhisperService {
         }
       }
     }
-  
+
     final stitchedTemp1 = path.join(workingDir, 'stitchedsubstemp1.vtt');
     final stitchedFile = File(stitchedTemp1);
     if (stitchedFile.existsSync()) {
       await stitchedFile.delete();
     }
-  
+
     for (final vttPath in shiftedVttFiles) {
       if (File(vttPath).existsSync()) {
         final content = await File(vttPath).readAsString();
@@ -936,33 +936,33 @@ class WhisperService {
         await stitchedFile.writeAsString(cleaned, mode: FileMode.append);
       }
     }
-  
+
     final stitchedTemp4 = path.join(workingDir, 'stitchedsubstemp4.vtt');
     await _addHourToTimecodes(stitchedTemp1, stitchedTemp4);
-  
+
     final stitchedTemp2 = path.join(workingDir, 'stitchedsubstemp2.vtt');
     await _addWebvttHeader(stitchedTemp4, stitchedTemp2);
-  
+
     final chapterName = path.basenameWithoutExtension(originalOpusPath);
     final finalVtt = path.join(workingDir, '$chapterName.vtt');
     await File(stitchedTemp2).copy(finalVtt);
-  
+
     return finalVtt;
   }
-  
+
   Future<void> mergeChapterVttFiles(
-    List<String> chapterVttFiles, 
-    String outputDir, 
+    List<String> chapterVttFiles,
+    String outputDir,
     List<String> originalOpusFiles,
     {String? targetAudiobookPath}
   ) async {
     if (chapterVttFiles.isEmpty) return;
-    
+
     final parentDir = Directory(outputDir).parent.path;
-    
+
     String baseFilename = 'audiobook_complete';
     String outputPath = parentDir;
-    
+
     if (targetAudiobookPath != null) {
       baseFilename = path.basenameWithoutExtension(targetAudiobookPath);
       outputPath = path.dirname(targetAudiobookPath);
@@ -972,28 +972,28 @@ class WhisperService {
           .where((e) => e is File && e.path.endsWith('.opus'))
           .cast<File>()
           .firstOrNull;
-      
+
       if (opusAudiobook != null) {
         baseFilename = path.basenameWithoutExtension(opusAudiobook.path);
         outputPath = path.dirname(opusAudiobook.path);
       }
     }
-    
+
     final mergedVttOriginal = path.join(outputDir, '${baseFilename}_original_overlaps.vtt');
     final output = StringBuffer();
     output.writeln('WEBVTT');
     output.writeln();
-    
+
     double cumulativeTime = 0.0;
-    
+
     for (int i = 0; i < chapterVttFiles.length; i++) {
       final vttFile = chapterVttFiles[i];
       final content = await File(vttFile).readAsLines();
       bool inCue = false;
-      
+
       for (final line in content) {
         if (line.trim() == 'WEBVTT') continue;
-        
+
         if (line.contains('-->')) {
           if (inCue) {
             output.writeln();
@@ -1012,35 +1012,35 @@ class WhisperService {
           inCue = false;
         }
       }
-      
+
       if (inCue) {
         output.writeln();
       }
-      
+
       final chapterDuration = await _getOpusDuration(originalOpusFiles[i]);
       cumulativeTime += chapterDuration - (msOffset / 1000.0);
     }
-    
+
     await File(mergedVttOriginal).writeAsString(output.toString());
-    
+
     String finalVtt = path.join(outputPath, '$baseFilename.vtt');
     int counter = 1;
-    
+
     while (File(finalVtt).existsSync()) {
       finalVtt = path.join(outputPath, '${baseFilename}_${counter}.vtt');
       counter++;
     }
-    
+
     if (counter > 1) {
       print('VTT file already existed, saved as: ${path.basename(finalVtt)}');
     }
-    
+
     await _fixOverlappingTimecodes(mergedVttOriginal, finalVtt);
   }
 
   Future<double> _getOpusDuration(String opusPath) async {
     await _ensureFFmpeg();
-    
+
     final result = await Process.run(_ffprobePath!, [
       '-show_entries',
       'format=duration',
@@ -1050,7 +1050,7 @@ class WhisperService {
       'csv=p=0',
       opusPath,
     ]);
-  
+
     if (result.exitCode == 0) {
       final durationStr = result.stdout.toString().trim();
       return double.tryParse(durationStr) ?? 0.0;
@@ -1061,7 +1061,7 @@ class WhisperService {
   Future<void> _vttShift(String inputPath, double shiftSeconds, String outputPath) async {
     final content = await File(inputPath).readAsLines();
     final output = StringBuffer();
-  
+
     for (final line in content) {
       if (line.contains('-->')) {
         final parts = line.split('-->');
@@ -1074,7 +1074,7 @@ class WhisperService {
         output.writeln(line);
       }
     }
-  
+
     await File(outputPath).writeAsString(output.toString());
   }
 
@@ -1110,41 +1110,59 @@ class WhisperService {
     await File(outputPath).writeAsString(modified);
   }
 
-  int _timecodeToMilliseconds(String timecode) {
+  String _normalizeTimecode(String timecode) {
     final parts = timecode.split(':');
+    if (parts.length != 3) return timecode;
+    final hours = int.parse(parts[0]);
+    final minutes = int.parse(parts[1]);
+    final secondsParts = parts[2].split('.');
+    int seconds = int.parse(secondsParts[0]);
+    int milliseconds = secondsParts.length > 1 ? int.parse(secondsParts[1]) : 0;
+
+    if (milliseconds >= 1000) {
+      seconds += milliseconds ~/ 1000;
+      milliseconds = milliseconds % 1000;
+    }
+
+    return '${hours.toString().padLeft(2, '0')}:${minutes.toString().padLeft(2, '0')}:${seconds.toString().padLeft(2, '0')}.${milliseconds.toString().padLeft(3, '0')}';
+  }
+
+  int _timecodeToMilliseconds(String timecode) {
+    final normalized = _normalizeTimecode(timecode);
+    final parts = normalized.split(':');
     if (parts.length != 3) return 0;
-  
+
     final h = int.tryParse(parts[0]) ?? 0;
     final m = int.tryParse(parts[1]) ?? 0;
     final sParts = parts[2].split('.');
     final s = int.tryParse(sParts[0]) ?? 0;
     final ms = sParts.length > 1 ? int.tryParse(sParts[1]) ?? 0 : 0;
-  
+
     return (h * 3600 + m * 60 + s) * 1000 + ms;
   }
-  
+
   String _millisecondsToTimecode(int ms) {
     final h = ms ~/ 3600000;
     final m = (ms % 3600000) ~/ 60000;
     final s = (ms % 60000) ~/ 1000;
     final msRemainder = ms % 1000;
-    
+
     return '${h.toString().padLeft(2, '0')}:${m.toString().padLeft(2, '0')}:${s.toString().padLeft(2, '0')}.${msRemainder.toString().padLeft(3, '0')}';
   }
 
   Future<void> _fixOverlappingTimecodes(String inputPath, String outputPath) async {
     final content = await File(inputPath).readAsString();
     final blocks = content.split('\n\n').where((b) => b.trim().isNotEmpty).toList();
-    
+
     final List<Map<String, dynamic>> subtitleBlocks = [];
-    
+
     for (final block in blocks) {
       if (block.trim() == 'WEBVTT') continue;
-      
+
       final lines = block.split('\n');
       String? timeLine;
       final textLines = <String>[];
-  
+
       for (final line in lines) {
         if (line.contains('-->')) {
           timeLine = line;
@@ -1152,20 +1170,20 @@ class WhisperService {
           textLines.add(line);
         }
       }
-  
+
       if (timeLine != null && textLines.isNotEmpty) {
         final parts = timeLine.split('-->');
         if (parts.length == 2) {
           final startTime = parts[0].trim();
           final endTime = parts[1].trim();
-          
+
           int startMs = _timecodeToMilliseconds(startTime);
           int endMs = _timecodeToMilliseconds(endTime);
-          
+
           if (endMs < startMs) {
             startMs = endMs;
           }
-          
+
           subtitleBlocks.add({
             'startMs': startMs,
             'endMs': endMs,
@@ -1174,38 +1192,45 @@ class WhisperService {
         }
       }
     }
-    
+
     for (int i = 0; i < subtitleBlocks.length - 1; i++) {
       final current = subtitleBlocks[i];
       final next = subtitleBlocks[i + 1];
-      
+
       final currentEnd = current['endMs'] as int;
       final nextStart = next['startMs'] as int;
-      
+
       if (nextStart < currentEnd) {
         current['endMs'] = nextStart;
       } else if (nextStart > currentEnd) {
         current['endMs'] = nextStart;
       }
     }
-    
+
     final output = StringBuffer();
-    output.writeln('WEBVTT'); 
-    output.writeln();   
-    
+    output.writeln('WEBVTT');
+    output.writeln();
+
     for (final block in subtitleBlocks) {
       final startMs = block['startMs'] as int;
       final endMs = block['endMs'] as int;
       final text = block['text'] as List<String>;
-      
+
       output.writeln('${_millisecondsToTimecode(startMs)} --> ${_millisecondsToTimecode(endMs)}');
       for (final line in text) {
         output.writeln(line);
       }
       output.writeln();
     }
-  
-    await File(outputPath).writeAsString(output.toString());
+
+    String finalOutput = output.toString();
+
+    finalOutput = finalOutput.replaceAll('\r\n', '\n').replaceAll('\r', '\n');
+    finalOutput = finalOutput.replaceAll(RegExp(r'\n{3,}'), '\n\n');
+    finalOutput = finalOutput.split('\n').map((line) => line.trimRight()).join('\n');
+    finalOutput = finalOutput.trim() + '\n';
+
+    await File(outputPath).writeAsString(finalOutput);
   }
 
   Future<void> _addWebvttHeader(String inputPath, String outputPath) async {

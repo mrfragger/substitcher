@@ -302,6 +302,9 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
       final outputPath = await _processVttContent(originalContent, baseName, dir);
 
       final subDir = path.join(dir, '${baseName}_vtt');
+      final originalBackupPath = path.join(subDir, '$baseName.original.vtt');
+      await File(originalBackupPath).writeAsString(originalContent);
+
       final zeroDurationHtmlPath = path.join(subDir, '${baseName}_zeroduration_changes.html');
       final repeatsHtmlPath = path.join(subDir, '${baseName}_repeats_changes.html');
       final singleLineHtmlPath = path.join(subDir, '${baseName}_singleline_honorifics.html');
@@ -379,8 +382,8 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
 
       final match = timecodeRegex.firstMatch(lines[i].trim());
       if (match != null) {
-        final startTime = match.group(1)!;
-        final endTime = match.group(2)!;
+        final startTime = _normalizeTimecode(match.group(1)!);
+        final endTime = _normalizeTimecode(match.group(2)!);
 
         final textLines = <String>[];
         i++;
@@ -905,6 +908,22 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
     };
   }
 
+  String _normalizeTimecode(String timecode) {
+    final parts = timecode.split(':');
+    final hours = int.parse(parts[0]);
+    final minutes = int.parse(parts[1]);
+    final secondsParts = parts[2].split('.');
+    int seconds = int.parse(secondsParts[0]);
+    int milliseconds = int.parse(secondsParts[1]);
+
+    if (milliseconds >= 1000) {
+      seconds += milliseconds ~/ 1000;
+      milliseconds = milliseconds % 1000;
+    }
+
+    return '${hours.toString().padLeft(2, '0')}:${minutes.toString().padLeft(2, '0')}:${seconds.toString().padLeft(2, '0')}.${milliseconds.toString().padLeft(3, '0')}';
+  }
+
   String _fixZeroDurationSubtitles(String content) {
     final lines = content.split('\n');
     final blocks = <Map<String, dynamic>>[];
@@ -930,8 +949,8 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
       final match = timecodeRegex.firstMatch(lines[i].trim());
 
       if (match != null) {
-        final startTime = match.group(1)!;
-        final endTime = match.group(2)!;
+        final startTime = _normalizeTimecode(match.group(1)!);
+        final endTime = _normalizeTimecode(match.group(2)!);
 
         final textLines = <String>[];
         i++;
@@ -946,7 +965,7 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
           'start': startTime,
           'end': endTime,
           'text': textLines.join(' ').trim(),
-          'isZeroDuration': startTime == endTime,
+          'isZeroDuration': _parseTimecode(endTime) <= _parseTimecode(startTime),
         });
       } else {
         i++;
@@ -1098,8 +1117,8 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
 
       final match = timecodeRegex.firstMatch(lines[i].trim());
       if (match != null) {
-        final startTime = match.group(1)!;
-        final endTime = match.group(2)!;
+        final startTime = _normalizeTimecode(match.group(1)!);
+        final endTime = _normalizeTimecode(match.group(2)!);
 
         final textLines = <String>[];
         i++;
