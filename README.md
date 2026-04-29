@@ -460,8 +460,8 @@ Android (ARM64 devices only)
 - 10" or larger screen strongly recommended for subtitle display
 
 Recommended Tablets with either 128GB or 256GB storage
-- Samsung Galaxy Tab A9+ (11") or A11+ (11")
-- Lenovo Tab P11 or M10 Plus
+- Samsung Galaxy Tab A9+ (11") or A11+ (11" $270 256GB)
+- Lenovo Tab P11, Lenovo Idea Tab ($230 256GB)
 
 Installation Steps
 
