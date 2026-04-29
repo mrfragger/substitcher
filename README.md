@@ -457,13 +457,35 @@ Android (64-bit devices only, arm64-v8a)
 - Requires Android 7.0+ (API 24+)
 - ARM64 devices (99% of modern Android phones, 2015+)
 - Tap Settings when prompted and enable installation from your browser
-</details>
 
 <details>
-<summary>iOS (may publish in future)</summary>
+<summary>Android</summary>
 
-- with subs (just one color, one font) nPlayer $5
-- no subs for opus audiobooks, vlc (set audio to resume)
+Android (ARM64 devices only)
+- Requires Android 7.0+ (API 24+)
+- Compatible with 99% of Android tablets and phones from 2015 onwards
+- If you don't want subtitles you can use VLC (free)
+- 10" or larger screen strongly recommended for subtitle display
+
+Recommended Tablets with either 128GB or 256GB storage
+- Samsung Galaxy Tab A9+ (11") or A11+ (11")
+- Lenovo Tab P11 or M10 Plus
+
+Installation Steps
+
+1. Download `substitcher-android-arm64.apk` from
+   [Releases](https://github.com/mrfragger/substitcher/releases/latest)
+
+2. When prompted, tap **Settings** and enable **Allow from this source**
+   — or go to **Settings → Apps → Special app access → Install unknown apps**
+   and enable your browser manually
+
+3. Open the downloaded APK and tap **Install**
+
+4. Download and extract the **Demo Fonts** zip from ![customfonts.zip 2MB](https://github.com/mrfragger/substitcher/raw/main/images/customfonts.zip) into a folder
+   on your tablet — then point SubStitcher to that folder in Font Settings
+
+**Note:** The "Install unknown apps" warning is standard Android security for any app installed outside the Google Play Store — it does not mean the app is unsafe.
 </details>
 
 ### Various
