@@ -453,14 +453,6 @@ flatpak install substitcher-x64.flatpak
 <details>
 <summary>Android</summary>
 
-Android (64-bit devices only, arm64-v8a)
-- Requires Android 7.0+ (API 24+)
-- ARM64 devices (99% of modern Android phones, 2015+)
-- Tap Settings when prompted and enable installation from your browser
-
-<details>
-<summary>Android</summary>
-
 Android (ARM64 devices only)
 - Requires Android 7.0+ (API 24+)
 - Compatible with 99% of Android tablets and phones from 2015 onwards
