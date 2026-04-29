@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "io.github.mrfragger.substitcher""
+    namespace = "io.github.mrfragger.substitcher"
     compileSdk = 36
 
     sourceSets {
@@ -20,12 +20,12 @@ android {
         targetCompatibility = JavaVersion.VERSION_17
     }
 
-    kotlinOptions {
-        jvmTarget = JavaVersion.VERSION_17.toString()
+    compilerOptions {
+    jvmTarget = org.jetbrains.kotlin.gradle.dsl.JvmTarget.JVM_17
     }
 
     defaultConfig {
-        applicationId = "io.github.mrfragger.substitcher""
+        applicationId = "io.github.mrfragger.substitcher"
         minSdk = 24
         targetSdk = 36
         versionCode = flutter.versionCode
@@ -49,7 +49,7 @@ android {
         }
     }
 
-    packagingOptions {
+    packaging {
         jniLibs {
             excludes += listOf(
                 "**/armeabi-v7a/**",

@@ -37,7 +37,7 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 
 ![](images/fonts.jpg)
 
-- download 42 demo fonts or link is provided for each one within app 
+- download 43 demo fonts or link is provided for each one within app 
 - custom fonts can all be in one directory within various subdirectories, it recursively loads the fonts
 - ![customfonts.zip 2MB](https://github.com/mrfragger/substitcher/raw/main/images/customfonts.zip)
 - in font panel set custom folder to this one and all fonts will be loaded
@@ -46,8 +46,9 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 │  customfonts
 ├── alternates
 │   ├── Aloevera.ttf
-│   ├── Bremlin.otf
 │   ├── Bentley Vintage.otf
+│   ├── Bisque Veloute demo.otf
+│   ├── Bremlin.otf
 │   ├── Dantene.otf
 │   ├── Kambegi.ttf
 │   ├── Mount Hills.otf

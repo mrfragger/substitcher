@@ -345,61 +345,73 @@ class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
   }
 
   String _titleCaseString(String text) {
-    final smallWords = RegExp(r'^(a|an|and|as|at|but|by|en|for|if|in|nor|of|on|or|per|the|to|up|v\.?|vs\.?|via|with)$', caseSensitive: false);
-
+    final smallWords = RegExp(
+      r'^(a|an|and|as|at|but|by|en|for|if|in|nor|of|on|or|per|the|to|up|v\.?|vs\.?|via|with)$',
+      caseSensitive: false,
+    );
     final parts = <String>[];
     final regex = RegExp(r'(\S+|\s+)');
     for (final match in regex.allMatches(text)) {
       parts.add(match.group(0)!);
     }
-
     final nonWhitespace = parts.where((p) => p.trim().isNotEmpty).toList();
+
+    String? prevNonWS(int idx) {
+      for (int i = idx - 1; i >= 0; i--) {
+        if (parts[i].trim().isNotEmpty) return parts[i];
+      }
+      return null;
+    }
 
     return parts.asMap().entries.map((entry) {
       final idx = entry.key;
       final part = entry.value;
-
       if (part.trim().isEmpty) return part;
-
       final word = part;
       final isFirstWord = word == nonWhitespace.first;
       final isLastWord = word == nonWhitespace.last;
 
-      // Check if previous non-whitespace word ends with digits
-      if (idx > 0) {
-        for (int i = idx - 1; i >= 0; i--) {
-          if (parts[i].trim().isNotEmpty) {
-            if (RegExp(r'\d$').hasMatch(parts[i])) {
-              return word[0].toUpperCase() + word.substring(1).toLowerCase();
-            }
-            break;
-          }
-        }
+      final prev = prevNonWS(idx);
+
+      if (prev != null && RegExp(r'^\d+\.\d*$').hasMatch(prev)) {
+        return word;
+      }
+
+      if (prev != null && (prev == '-' || prev.endsWith('-'))) {
+        return word;
+      }
+
+      if (prev != null && RegExp(r'\d$').hasMatch(prev)) {
+        return word[0].toUpperCase() + word.substring(1).toLowerCase();
       }
 
       if (idx > 0) {
         final prevPart = parts[idx - 1];
         if (prevPart.contains(':') || prevPart.contains('：') ||
-            (idx > 1 && (parts[idx - 2].contains(':') || parts[idx - 2].contains('：')))) {
+            (idx > 1 &&
+                (parts[idx - 2].contains(':') ||
+                    parts[idx - 2].contains('：')))) {
           return word[0].toUpperCase() + word.substring(1).toLowerCase();
         }
       }
-
       if (word.startsWith('"') || word.startsWith('＂')) {
         if (word.length > 1) {
           final openQuote = word[0];
-          return openQuote + word[1].toUpperCase() + word.substring(2).toLowerCase();
+          return openQuote +
+              word[1].toUpperCase() +
+              word.substring(2).toLowerCase();
         }
       }
-
       if (idx > 0) {
         final prevPart = parts[idx - 1];
-        if (prevPart == '"' || prevPart == '＂' ||
-            (prevPart.trim().isEmpty && idx > 1 && (parts[idx - 2] == '"' || parts[idx - 2] == '＂'))) {
+        if (prevPart == '"' ||
+            prevPart == '＂' ||
+            (prevPart.trim().isEmpty &&
+                idx > 1 &&
+                (parts[idx - 2] == '"' || parts[idx - 2] == '＂'))) {
           return word[0].toUpperCase() + word.substring(1).toLowerCase();
         }
       }
-
       if (!isFirstWord && nonWhitespace.isNotEmpty) {
         final prevIndex = nonWhitespace.indexOf(word) - 1;
         if (prevIndex >= 0) {
@@ -408,27 +420,37 @@ class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
               RegExp(r'^\d+\.?$').hasMatch(prevWord)) {
             return word[0].toUpperCase() + word.substring(1).toLowerCase();
           }
-
           if (prevWord.contains(':') || prevWord.contains('：')) {
             return word[0].toUpperCase() + word.substring(1).toLowerCase();
           }
-
-          if (prevWord == '"' || prevWord == '＂' || prevWord.endsWith('"') || prevWord.endsWith('＂')) {
+          if (prevWord == '"' ||
+              prevWord == '＂' ||
+              prevWord.endsWith('"') ||
+              prevWord.endsWith('＂')) {
             return word[0].toUpperCase() + word.substring(1).toLowerCase();
           }
         }
       }
-
       if (RegExp(r'^[Aa][dlnstrz]-').hasMatch(word)) {
         final prefix = word.substring(0, 3);
         final rest = word.substring(3);
-        if (rest.isNotEmpty) {
-          return prefix[0].toUpperCase() + prefix.substring(1).toLowerCase() +
-                 rest[0].toUpperCase() + rest.substring(1).toLowerCase();
+        if (isFirstWord) {
+          if (rest.isNotEmpty) {
+            return prefix[0].toUpperCase() +
+                prefix.substring(1).toLowerCase() +
+                rest[0].toUpperCase() +
+                rest.substring(1).toLowerCase();
+          }
+          return prefix[0].toUpperCase() + prefix.substring(1).toLowerCase();
+        } else {
+          if (rest.isNotEmpty) {
+            return prefix.toLowerCase() +
+                rest[0].toUpperCase() +
+                rest.substring(1).toLowerCase();
+          }
+          return prefix.toLowerCase();
         }
-        return prefix[0].toUpperCase() + prefix.substring(1).toLowerCase();
       }
-
       if (word.contains('(')) {
         return word.split('').asMap().entries.map((e) {
           if (e.value == '(' && e.key + 1 < word.length) return e.value;
@@ -436,15 +458,12 @@ class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
           return e.value.toLowerCase();
         }).join('');
       }
-
       if (isFirstWord || isLastWord) {
         return word[0].toUpperCase() + word.substring(1).toLowerCase();
       }
-
       if (smallWords.hasMatch(word)) {
         return word.toLowerCase();
       }
-
       return word[0].toUpperCase() + word.substring(1).toLowerCase();
     }).join('');
   }

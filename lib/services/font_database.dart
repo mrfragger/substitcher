@@ -120,6 +120,7 @@ class FontDatabase {
      // ==================== demo/alternates ====================
     'Aloevera': FontMetadata(fontName: 'Aloevera', mainCategory: FontCategory.demo, subCategories: [FontCategory.alternates]),
     'Bentley Vintage': FontMetadata(fontName: 'Bentley Vintage', mainCategory: FontCategory.demo, subCategories: [FontCategory.alternates]),
+    'Bisque Veloute demo': FontMetadata(fontName: 'Bisque Veloute demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.alternates]),
     'Bremlin': FontMetadata(fontName: 'Bremlin', mainCategory: FontCategory.demo, subCategories: [FontCategory.alternates]),
     'Dantene': FontMetadata(fontName: 'Dantene', mainCategory: FontCategory.demo, subCategories: [FontCategory.alternates]),
     'Kambegi': FontMetadata(fontName: 'Kambegi', mainCategory: FontCategory.demo, subCategories: [FontCategory.alternates]),
