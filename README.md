@@ -382,6 +382,15 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 
 ![](images/lutspicker.jpg)
 
+### Quran index
+- use with Quran Verse by Verse opus audiobooks to navigate to chapter, verse
+- search topics and subtopics
+- subs are in 80+ languages translations
+- or just search for topics with physical Quran
+- topic index almost 99% from Hilali and Muhsin Khan Quran English translation
+
+![](images/quranindex.jpg)
+
 ### vttshow Slide Presentation
 - open v Subtitle Manager to create New vttshow or Last vttshow or Browse vtt
 - edit vttshow.vtt to show fancy fonts with various color palettes
@@ -531,26 +540,5 @@ Installation Steps
 - Moonshine Note Taker, free, English only, local realtime transcription, edit mistakes, outputs srt drag audio to app to transcribe https://note-taker.moonshine.ai/
 - Shotcut, free, add images, mutli-track video editor, free, learning curve https://shotcut.org
 - DaVinci resolve, free up to 1080p, but requires 16GB RAM bare minimum and massive learning curve, expensive
-
-</details>
-
-<details>
-<summary>tts (text to speech) that support chapters</summary>
-my opinon of voice quality
-
-- kokoro > piper
-- Qwen3 and echo-tts are better than kokoro but require 16GB RAM minimum
-- KokoroTTS, piper.ttstool.com are free to use
-
-https://github.com/kjyv/KokoroTTS Mac only
-
-- English (American and British) only 
-- stays at 1GB memory usage amazingly
-- Paste text, save wav audio file
-- Just as fast as mlx-audio without RAM hitting 10GB due to python
-
-![](images/ttskokoro.jpg)
-
-
 
 </details>

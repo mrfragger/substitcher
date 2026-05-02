@@ -10,6 +10,7 @@ import 'package:flutter/foundation.dart' show compute;
 import 'package:wakelock_plus/wakelock_plus.dart';
 import 'package:image/image.dart' as img;
 import 'package:substitcher/models/pause_mode.dart';
+import 'package:scrollable_positioned_list/scrollable_positioned_list.dart';
 import 'dart:async';
 import 'dart:io';
 import 'dart:ui';
@@ -60,6 +61,8 @@ import '../widgets/encode_progress_overlay.dart';
 import '../widgets/lut_picker_overlay.dart';
 import '../widgets/vtt_show_edit_overlay.dart';
 import '../widgets/youtube_dialog.dart';
+import '../widgets/quran_panel.dart';
+import '../data/quran_index.dart';
 
 enum FontColorOverride { none, black, white }
 
@@ -132,7 +135,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   final FFmpegService _ffmpeg = FFmpegService();
   final player = Player();
   late final VideoController _videoController;
-  final ScrollController _chapterScrollController = ScrollController();
+  final ItemScrollController _chapterScrollController = ItemScrollController();
   final ScrollController _playlistScrollController = ScrollController();
   final ScrollController _historyScrollController = ScrollController();
   final FocusNode _focusNode = FocusNode();
@@ -157,9 +160,12 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   bool _panelCollapsed = false;
   ColorPalette? _currentColorPalette;
   int _selectedColorIndex = 0;
-  final ScrollController _colorScrollController = ScrollController();
+  final ItemScrollController _colorItemScrollController = ItemScrollController();
+  final ItemScrollController _lutItemScrollController = ItemScrollController();
   bool _showEncoderScreen = false;
   final List<int> _cueWordStarts = [];
+
+  final ItemScrollController _quranItemScrollController = ItemScrollController();
 
   bool _showWordOverlay = false;
   double? _sliderHoverPosition;
@@ -211,6 +217,13 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   final TextEditingController _excludeController = TextEditingController();
   final FocusNode _searchFocusNode = FocusNode();
   final FocusNode _excludeFocusNode = FocusNode();
+  final FocusNode _quranSearchFocusNode = FocusNode();
+  final FocusNode _quranExcludeFocusNode = FocusNode();
+  String _quranSearchQuery = '';
+  String _quranExcludeQuery = '';
+  final TextEditingController _quranSearchController = TextEditingController();
+  final TextEditingController _quranExcludeController = TextEditingController();
+  int? _activeQuranFilteredIndex;
 
   String _defaultFont = 'System Default';
   String? _defaultColorPalette;
@@ -361,6 +374,11 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   String _lutFilterMode = 'all';
   int _selectedLutIndex = -1;
 
+  List<QuranIndexEntry> _quranEntries = [];
+  QuranVerseRef? _activeQuranRef;
+  QuranVerseRef? _pendingStopRef;
+  String? _activeQuranTopic;
+
   bool _fontCycleActive = false;
   int _fontCycleInterval = 4;
   int _fontCycleCueCounter = 0;
@@ -419,6 +437,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     _startCacheFlushTimer();
     _loadFavoriteLuts();
     _loadSavedLut();
+    _quranEntries = parseQuranIndex(quranIndexRaw);
     WidgetsBinding.instance.addPostFrameCallback((_) {
       _focusNode.requestFocus();
       _adhanClockService.checkNow();
@@ -449,9 +468,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     _sleepTimer?.cancel();
     _pauseModeTimer?.cancel();
     player.dispose();
-    _chapterScrollController.dispose();
     _fontScrollController.dispose();
-    _colorScrollController.dispose();
     _playlistScrollController.dispose();
     _historyScrollController.dispose();
     _focusNode.dispose();
@@ -459,6 +476,8 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     _excludeController.dispose();
     _searchFocusNode.dispose();
     _excludeFocusNode.dispose();
+    _quranSearchFocusNode.dispose();
+    _quranExcludeFocusNode.dispose();
     _skipChapterController.dispose();
     _skipChapterFocusNode.dispose();
     _subsSearchController.dispose();
@@ -493,6 +512,101 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       setState(() {
         _showAdhanOverlay = true;
       });
+    }
+  }
+
+  bool get _isQuranVerseByVerse {
+    final p = _currentAudiobook?.path ?? '';
+    return p.contains('Verse by Verse');
+  }
+
+  Future<void> _navigateToQuranVerse(QuranVerseRef ref, int filteredIndex) async {
+      setState(() {
+        _activeQuranRef = ref;
+        _activeQuranFilteredIndex = filteredIndex;
+      });
+      final rangeKey = getRangeKeyForSurah(ref.surah);
+      if (rangeKey == null) return;
+      final currentPath = _currentAudiobook?.path;
+      if (currentPath == null) return;
+      final parentDir = path.dirname(currentPath);
+      final currentBase = path.basename(currentPath);
+      final reciterSuffix = currentBase.replaceFirst(
+        RegExp(r'^.*?\d{3}-\d{3} '),
+        '',
+      );
+      final targetOpusName = 'Quran Arabic - $rangeKey $reciterSuffix';
+      final targetOpusPath = path.join(parentDir, targetOpusName);
+      if (!await File(targetOpusPath).exists()) {
+        if (mounted) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            SnackBar(content: Text('File not found: $targetOpusName')),
+          );
+        }
+        return;
+      }
+      final needsNewFile = currentPath != targetOpusPath;
+      if (needsNewFile) {
+        await _loadQuranVttForFile(targetOpusPath);
+        await _openAudiobook(targetOpusPath);
+        await Future.delayed(const Duration(milliseconds: 800));
+      }
+      final startId = ref.chapterIdStart;
+      final chapters = _currentAudiobook?.chapters ?? [];
+      final chapterIndex = chapters.indexWhere(
+        (c) => c.title.startsWith(startId),
+      );
+      if (chapterIndex == -1) {
+        if (mounted) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            SnackBar(content: Text('Verse $startId not found in chapters')),
+          );
+        }
+        return;
+      }
+      if (!ref.isFullSurah) {
+        setState(() => _pendingStopRef = ref);
+      } else {
+        setState(() => _pendingStopRef = null);
+      }
+      await _jumpToChapter(chapterIndex);
+      await player.play();
+      setState(() => _showPanel = false);
+    }
+
+  Future<void> _loadQuranVttForFile(String targetOpusPath) async {
+    final currentVtt = _subtitleFilePath;
+    if (currentVtt == null) return;
+
+    final vttDir = path.dirname(currentVtt);
+    final langSubdir = path.basename(vttDir);
+    final vttParentDir = path.dirname(vttDir);
+
+    final targetBase = path.basenameWithoutExtension(targetOpusPath);
+    final targetVttName = '$targetBase.vtt';
+
+    final targetOpusDir = path.dirname(targetOpusPath);
+    final targetOpusBase = path.basenameWithoutExtension(targetOpusPath);
+
+    final candidate1 = path.join(vttParentDir, langSubdir, targetVttName);
+    final candidate2 = path.join(
+      targetOpusDir,
+      '${targetOpusBase}_vtt',
+      langSubdir,
+      targetVttName,
+    );
+    final candidate3 = path.join(targetOpusDir, targetVttName);
+
+    String? foundVtt;
+    for (final candidate in [candidate1, candidate2, candidate3]) {
+      if (await File(candidate).exists()) {
+        foundVtt = candidate;
+        break;
+      }
+    }
+
+    if (foundVtt != null) {
+      await SubtitlePreferences.saveLastUsedVttPath(targetOpusPath, foundVtt);
     }
   }
 
@@ -835,87 +949,99 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   }
 
   void _checkChapterBoundary(Duration position) {
-      if (_currentAudiobook == null || _currentAudiobook!.chapters.isEmpty) return;
-      if (_currentChapterIndex >= _currentAudiobook!.chapters.length) return;
-      final chapter = _currentAudiobook!.chapters[_currentChapterIndex];
-      if (position >= chapter.endTime) {
-        if (!_isYouTubeStream) {
-          final currentChapter = _currentAudiobook!.chapters[_currentChapterIndex];
-          _statsManager.recordChapterEnd(
-            path.basenameWithoutExtension(_currentAudiobook!.path),
-            currentChapter.title,
-            false,
-          );
-        }
-        if (!_playedChapters.contains(_currentChapterIndex)) {
-          _playedChapters.add(_currentChapterIndex);
-        }
-        if (_sleepDuration == Duration.zero) {
-          if (_sleepTimer == null) {
-            _triggerSleepTimerCountdown();
-          }
+    if (_currentAudiobook == null || _currentAudiobook!.chapters.isEmpty) return;
+    if (_currentChapterIndex >= _currentAudiobook!.chapters.length) return;
+    final chapter = _currentAudiobook!.chapters[_currentChapterIndex];
+    if (position >= chapter.endTime) {
+      if (_pendingStopRef != null) {
+        final endId = _pendingStopRef!.chapterIdEnd;
+        final currentTitle = _currentAudiobook!.chapters[_currentChapterIndex].title;
+        if (currentTitle.startsWith(endId)) {
+          player.pause();
+          setState(() => _pendingStopRef = null);
           return;
         }
-        if (_shuffleEnabled && !_isYouTubeStream) {
-          final unplayedChapters = List.generate(_currentAudiobook!.chapters.length, (i) => i)
-              .where((i) => !_playedChapters.contains(i) && !_shouldSkipChapter(_currentAudiobook!.chapters[i].title))
-              .toList();
-          if (unplayedChapters.isEmpty) {
+      }
+      if (!_isYouTubeStream) {
+        final currentChapter = _currentAudiobook!.chapters[_currentChapterIndex];
+        _statsManager.recordChapterEnd(
+          path.basenameWithoutExtension(_currentAudiobook!.path),
+          currentChapter.title,
+          false,
+        );
+      }
+      if (!_playedChapters.contains(_currentChapterIndex)) {
+        _playedChapters.add(_currentChapterIndex);
+      }
+      if (_sleepDuration == Duration.zero) {
+        if (_sleepTimer == null) {
+          _triggerSleepTimerCountdown();
+        }
+        return;
+      }
+      if (_shuffleEnabled && !_isYouTubeStream) {
+        final unplayedChapters = List.generate(_currentAudiobook!.chapters.length, (i) => i)
+            .where((i) => !_playedChapters.contains(i) && !_shouldSkipChapter(_currentAudiobook!.chapters[i].title))
+            .toList();
+        if (unplayedChapters.isEmpty) {
+          player.pause();
+          if (mounted) {
+            ScaffoldMessenger.of(context).showSnackBar(
+              const SnackBar(
+                content: Text('All chapters played in shuffle mode'),
+                duration: Duration(seconds: 5),
+              ),
+            );
+          }
+          return;
+        } else {
+          final nextIndex = _getNextShuffleChapter();
+          if (nextIndex < 0 || nextIndex >= _currentAudiobook!.chapters.length) return;
+          final nextChapter = _currentAudiobook!.chapters[nextIndex];
+          setState(() {
+            _currentChapterIndex = nextIndex;
+            if (!_playedChapters.contains(nextIndex)) {
+              _playedChapters.add(nextIndex);
+            }
+          });
+          if (_showPanel && _panelMode == PanelMode.chapters) _scrollToCurrentChapter();
+          player.seek(nextChapter.startTime + const Duration(milliseconds: 100));
+        }
+      } else {
+        int nextIndex = _currentChapterIndex + 1;
+        if (!_isYouTubeStream) {
+          while (nextIndex < _currentAudiobook!.chapters.length) {
+            if (!_shouldSkipChapter(_currentAudiobook!.chapters[nextIndex].title)) break;
+            nextIndex++;
+          }
+          if (nextIndex >= _currentAudiobook!.chapters.length) {
             player.pause();
             if (mounted) {
               ScaffoldMessenger.of(context).showSnackBar(
                 const SnackBar(
-                  content: Text('All chapters played in shuffle mode'),
-                  duration: Duration(seconds: 5),
+                  content: Text('Finished audiobook'),
+                  duration: Duration(seconds: 3),
                 ),
               );
             }
             return;
-          } else {
-            final nextIndex = _getNextShuffleChapter();
-            if (nextIndex < 0 || nextIndex >= _currentAudiobook!.chapters.length) return;
-            final nextChapter = _currentAudiobook!.chapters[nextIndex];
-            setState(() {
-              _currentChapterIndex = nextIndex;
-              if (!_playedChapters.contains(nextIndex)) {
-                _playedChapters.add(nextIndex);
-              }
-            });
-            player.seek(nextChapter.startTime + const Duration(milliseconds: 100));
           }
+          setState(() => _currentChapterIndex = nextIndex);
+          if (_showPanel && _panelMode == PanelMode.chapters) _scrollToCurrentChapter();
         } else {
-          int nextIndex = _currentChapterIndex + 1;
-          if (!_isYouTubeStream) {
-            while (nextIndex < _currentAudiobook!.chapters.length) {
-              if (!_shouldSkipChapter(_currentAudiobook!.chapters[nextIndex].title)) break;
-              nextIndex++;
-            }
-            if (nextIndex >= _currentAudiobook!.chapters.length) {
-              player.pause();
-              if (mounted) {
-                ScaffoldMessenger.of(context).showSnackBar(
-                  const SnackBar(
-                    content: Text('Finished audiobook'),
-                    duration: Duration(seconds: 3),
-                  ),
-                );
-              }
-              return;
-            }
-            setState(() => _currentChapterIndex = nextIndex);
-          } else {
-            if (nextIndex >= _currentAudiobook!.chapters.length) {
-              player.pause();
-              return;
-            }
-            setState(() => _currentChapterIndex = nextIndex);
+          if (nextIndex >= _currentAudiobook!.chapters.length) {
+            player.pause();
+            return;
           }
-        }
-        if (!_isYouTubeStream && _currentChapterIndex < _currentAudiobook!.chapters.length) {
-          _statsManager.recordChapterStart();
+          setState(() => _currentChapterIndex = nextIndex);
+          if (_showPanel && _panelMode == PanelMode.chapters) _scrollToCurrentChapter();
         }
       }
+      if (!_isYouTubeStream && _currentChapterIndex < _currentAudiobook!.chapters.length) {
+        _statsManager.recordChapterStart();
+      }
     }
+  }
 
 
   Future<void> _loadAutoConversionSettings() async {
@@ -1282,7 +1408,6 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               _secondaryConversionType = tempConversion;
             });
 
-            // ✅ Save swapped state
             if (audiobookPath != null) {
               if (_primarySubtitlePath != null) {
                 SubtitlePreferences.saveLastUsedVttPath(audiobookPath, _primarySubtitlePath!);
@@ -1300,7 +1425,6 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               _currentSubtitleText = '';
               _currentSubtitleIndex = null;
             });
-            // ✅ Clear saved primary
             if (audiobookPath != null) {
               SubtitlePreferences.clearLastUsedVttPath(audiobookPath);
             }
@@ -1314,7 +1438,6 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               _currentSecondarySubtitleIndex = null;
               _secondaryOriginalSubtitles = [];
             });
-            // ✅ Clear saved secondary
             if (audiobookPath != null) {
               SubtitlePreferences.clearLastUsedSecondaryVttPath(audiobookPath);
             }
@@ -1944,73 +2067,59 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   }
 
   void _scrollToSelectedColorPalette() {
-    if (_showPanel && _panelMode == PanelMode.colors && _currentColorPalette != null) {
-      WidgetsBinding.instance.addPostFrameCallback((_) {
-        if (_colorScrollController.hasClients) {
-          final paletteIndex = ColorPalette.presets.indexWhere((p) => p.name == _currentColorPalette!.name);
-          if (paletteIndex == -1) return;
-          setState(() {
-            _selectedColorIndex = paletteIndex;
-          });
-          final maxScroll = _colorScrollController.position.maxScrollExtent;
-          if (maxScroll <= 0) return;
-          final totalItems = ColorPalette.presets.length;
-          if (totalItems <= 1) return;
-          final percentage = paletteIndex / (totalItems - 1);
-          final targetScroll = maxScroll * percentage;
-          _colorScrollController.animateTo(
-            targetScroll,
-            duration: const Duration(milliseconds: 300),
-            curve: Curves.easeInOut,
-          );
-        }
-      });
-    }
-  }
+    if (_currentColorPalette == null) return;
+    final filteredColors = _getFilteredColors();
+    final paletteIndex = filteredColors.indexWhere((p) => p.name == _currentColorPalette!.name);
+    if (paletteIndex == -1) return;
+    setState(() => _selectedColorIndex = ColorPalette.presets.indexOf(filteredColors[paletteIndex]));
 
-  void _scrollToSelectedLut() {
-    if (_showPanel && _panelMode == PanelMode.luts && _selectedLutIndex >= 0) {
-      WidgetsBinding.instance.addPostFrameCallback((_) {
-        if (_colorScrollController.hasClients) {
-          final filteredLuts = _getFilteredLuts();
-          if (_selectedLutIndex >= _availableLuts.length) return;
-          final currentLut = _availableLuts[_selectedLutIndex];
-          final filteredIndex = filteredLuts.indexOf(currentLut);
-          if (filteredIndex == -1) return;
-          final maxScroll = _colorScrollController.position.maxScrollExtent;
-          if (maxScroll <= 0) return;
-          final totalItems = filteredLuts.length;
-          if (totalItems <= 1) return;
-          final percentage = filteredIndex / (totalItems - 1);
-          final targetScroll = maxScroll * percentage;
-          _colorScrollController.animateTo(
-            targetScroll,
-            duration: const Duration(milliseconds: 300),
-            curve: Curves.easeInOut,
-          );
-        }
-      });
-    }
+    Future.delayed(const Duration(milliseconds: 300), () {
+      if (!mounted) return;
+      if (_colorItemScrollController.isAttached) {
+        _colorItemScrollController.scrollTo(
+          index: paletteIndex,
+          duration: const Duration(milliseconds: 300),
+          curve: Curves.easeInOut,
+          alignment: 0.1,
+        );
+      } else {
+        Future.delayed(const Duration(milliseconds: 300), () {
+          if (!mounted) return;
+          if (_colorItemScrollController.isAttached) {
+            _colorItemScrollController.jumpTo(
+              index: paletteIndex,
+              alignment: 0.1,
+            );
+          }
+        });
+      }
+    });
   }
 
   void _scrollToCurrentChapter() {
-    if (_showPanel && _panelMode == PanelMode.chapters && _currentAudiobook != null) {
-      WidgetsBinding.instance.addPostFrameCallback((_) {
-        if (_chapterScrollController.hasClients) {
-          final maxScroll = _chapterScrollController.position.maxScrollExtent;
-          if (maxScroll <= 0) return;
-          final totalItems = _currentAudiobook!.chapters.length;
-          if (totalItems <= 1) return;
-          final percentage = _currentChapterIndex / (totalItems - 1);
-          final targetScroll = maxScroll * percentage;
-          _chapterScrollController.animateTo(
-            targetScroll,
-            duration: const Duration(milliseconds: 300),
-            curve: Curves.easeInOut,
-          );
-        }
-      });
-    }
+    if (_currentAudiobook == null) return;
+
+    Future.delayed(const Duration(milliseconds: 300), () {
+      if (!mounted) return;
+      if (_chapterScrollController.isAttached) {
+        _chapterScrollController.scrollTo(
+          index: _currentChapterIndex,
+          duration: const Duration(milliseconds: 300),
+          curve: Curves.easeInOut,
+          alignment: 0.1,
+        );
+      } else {
+        Future.delayed(const Duration(milliseconds: 500), () {
+          if (!mounted) return;
+          if (_chapterScrollController.isAttached) {
+            _chapterScrollController.jumpTo(
+              index: _currentChapterIndex,
+              alignment: 0.1,
+            );
+          }
+        });
+      }
+    });
   }
 
   void _scrollToCurrentPlaylistItem() {
@@ -5540,7 +5649,6 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       await _seekTo(chapter.startTime);
       setState(() {
         _currentChapterIndex = index;
-        _showPanel = false;
       });
       _statsManager.recordChapterStart();
       if (_isPlaying) {
@@ -6058,6 +6166,10 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       await _calculateBitrate();
 
       _cacheSingleFileDuration(selectedPath);
+
+      if (_showPanel && _panelMode == PanelMode.chapters) {
+        _scrollToCurrentChapter();
+      }
 
       _focusNode.requestFocus();
     } catch (e, stackTrace) {
@@ -6847,7 +6959,9 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             _chapterExcludeFocusNode.hasFocus ||
             _statsSearchFocusNode.hasFocus ||
             _vttEditLine1FocusNode.hasFocus ||
-            _vttEditLine2FocusNode.hasFocus) {
+            _vttEditLine2FocusNode.hasFocus ||
+            _quranSearchFocusNode.hasFocus ||
+            _quranExcludeFocusNode.hasFocus) {
           return KeyEventResult.ignored;
         }
 
@@ -6899,9 +7013,16 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               return KeyEventResult.handled;
             }
           } else if (event.logicalKey == LogicalKeyboardKey.backquote && event is KeyDownEvent) {
+            final wasCollapsed = _panelCollapsed;
             setState(() {
               _panelCollapsed = !_panelCollapsed;
             });
+            if (wasCollapsed && _showPanel && _panelMode == PanelMode.chapters) {
+              _scrollToCurrentChapter();
+            }
+            if (wasCollapsed && _showPanel && _panelMode == PanelMode.quran) {
+                _scrollToActiveQuranRef();
+            }
             return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyC &&
                    HardwareKeyboard.instance.isShiftPressed && event is KeyDownEvent) {
@@ -6914,7 +7035,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             });
             _scrollToCurrentChapter();
             return KeyEventResult.handled;
-          } else if (event.logicalKey == LogicalKeyboardKey.keyU &&
+         } else if (event.logicalKey == LogicalKeyboardKey.keyU &&
                           HardwareKeyboard.instance.isControlPressed && event is KeyDownEvent) {
               _copyCurrentSubtitleInMemory();
               return KeyEventResult.handled;
@@ -6997,6 +7118,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               _showPanel = true;
               _panelMode = PanelMode.colors;
             });
+             _scrollToSelectedColorPalette();
             return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyW && event is KeyDownEvent) {
             setState(() {
@@ -7058,6 +7180,8 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             if (_showPanel) {
               if (_panelMode == PanelMode.subs) {
                 _searchFocusNode.requestFocus();
+              } else if (_panelMode == PanelMode.quran) {
+                _quranSearchFocusNode.requestFocus();
               } else if (_panelMode != PanelMode.words) {
                 _searchFocusNode.requestFocus();
               }
@@ -7174,7 +7298,16 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             _setSleepTimer(Duration.zero);
             return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyQ && event is KeyDownEvent) {
-            _setCurrentAsDefault();
+            if (HardwareKeyboard.instance.isShiftPressed) {
+              _applyDefaultSettings();
+            } else {
+              setState(() {
+                _showPanel = true;
+                _panelMode = PanelMode.quran;
+                _panelCollapsed = false;
+              });
+              _scrollToActiveQuranRef();
+            }
             return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.equal && event is KeyDownEvent) {
             _showGlyphViewerOverlay();
@@ -7559,6 +7692,10 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                 SharedPreferences.getInstance().then((prefs) {
                   prefs.remove('selectedLutPath');
                   prefs.remove('selectedLutName');
+                  _quranSearchQuery = prefs.getString('quran_search_query') ?? '';
+                  _quranExcludeQuery = prefs.getString('quran_exclude_query') ?? '';
+                  _quranSearchController.text = _quranSearchQuery;
+                  _quranExcludeController.text = _quranExcludeQuery;
                 });
                 return KeyEventResult.handled;
             }
@@ -7913,7 +8050,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
 
                   getFilteredColors: _getFilteredColors,
                   selectedColorIndex: _selectedColorIndex,
-                  colorScrollController: _colorScrollController,
+                  colorItemScrollController: _colorItemScrollController,
                   onColorPaletteSelected: (palette, index) {
                     setState(() {
                       _selectedColorIndex = index;
@@ -7959,11 +8096,11 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                         _applyColorPalette(newPalette);
                       }
                     });
-                    _colorScrollController.animateTo(0,
-                        duration: const Duration(milliseconds: 300),
-                        curve: Curves.easeOut);
+                    if (_colorItemScrollController.isAttached) {
+                      _colorItemScrollController.jumpTo(index: 0, alignment: 0.0);
+                    }
                     _saveColorSettings();
-                  },
+                    },
                   onColorCycleToggled: () {
                     setState(() {
                       _colorCycleActive = !_colorCycleActive;
@@ -7980,7 +8117,32 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                     SharedPreferences.getInstance().then((prefs) {
                       prefs.remove('selectedLutPath');
                       prefs.remove('selectedLutName');
+                      _quranSearchQuery = prefs.getString('quran_search_query') ?? '';
+                      _quranExcludeQuery = prefs.getString('quran_exclude_query') ?? '';
+                      _quranSearchController.text = _quranSearchQuery;
+                      _quranExcludeController.text = _quranExcludeQuery;
                     });
+                  },
+
+                  quranEntries: _quranEntries,
+                  isQuranLoaded: _isQuranVerseByVerse,
+                  activeQuranRef: _activeQuranRef,
+                  onQuranVerseSelected: _navigateToQuranVerse,
+                  quranSearchFocusNode: _quranSearchFocusNode,
+                  quranExcludeFocusNode: _quranExcludeFocusNode,
+                  quranItemScrollController: _quranItemScrollController,
+                  lutItemScrollController: _lutItemScrollController,
+                  quranSearchQuery: _quranSearchQuery,
+                  quranExcludeQuery: _quranExcludeQuery,
+                  quranSearchController: _quranSearchController,
+                  quranExcludeController: _quranExcludeController,
+                  onQuranSearchChanged: (v) {
+                    setState(() => _quranSearchQuery = v);
+                    SharedPreferences.getInstance().then((p) => p.setString('quran_search_query', v));
+                  },
+                  onQuranExcludeChanged: (v) {
+                    setState(() => _quranExcludeQuery = v);
+                    SharedPreferences.getInstance().then((p) => p.setString('quran_exclude_query', v));
                   },
 
                   frequencyItems: _frequencyItems,
@@ -8350,36 +8512,119 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     _scrollToSelectedLut();
   }
 
-  void _scrollToSelectedColor() {
-    if (!_colorScrollController.hasClients) return;
-    final filteredColors = _getFilteredColors();
-    final currentPalette = _selectedColorIndex >= 0 && _selectedColorIndex < ColorPalette.presets.length
-        ? ColorPalette.presets[_selectedColorIndex]
-        : null;
-    if (currentPalette == null) return;
-    final filteredIndex = filteredColors.indexOf(currentPalette);
+  void _scrollToSelectedLut() {
+    if (_selectedLutIndex < 0) return;
+    final filteredLuts = _getFilteredLuts();
+    if (_selectedLutIndex >= _availableLuts.length) return;
+    final currentLut = _availableLuts[_selectedLutIndex];
+    final filteredIndex = filteredLuts.indexOf(currentLut);
     if (filteredIndex == -1) return;
-    WidgetsBinding.instance.addPostFrameCallback((_) {
-      if (!_colorScrollController.hasClients) return;
-      const itemHeight = 56.0;
-      final viewportHeight = _colorScrollController.position.viewportDimension;
-      final currentScroll = _colorScrollController.offset;
-      final itemTop = filteredIndex * itemHeight;
-      final itemBottom = itemTop + itemHeight;
-      final viewportTop = currentScroll;
-      final viewportBottom = currentScroll + viewportHeight;
-      if (itemTop < viewportTop || itemBottom > viewportBottom) {
-        final targetOffset = (itemTop) - (viewportHeight / 2) + (itemHeight / 2);
-        final maxScroll = _colorScrollController.position.maxScrollExtent;
-        final minScroll = _colorScrollController.position.minScrollExtent;
-        final clampedScroll = targetOffset.clamp(minScroll, maxScroll);
-        _colorScrollController.animateTo(
-          clampedScroll,
-          duration: const Duration(milliseconds: 200),
+
+    Future.delayed(const Duration(milliseconds: 300), () {
+      if (!mounted) return;
+      if (_lutItemScrollController.isAttached) {
+        _lutItemScrollController.scrollTo(
+          index: filteredIndex,
+          duration: const Duration(milliseconds: 300),
           curve: Curves.easeInOut,
+          alignment: 0.1,
         );
+      } else {
+        Future.delayed(const Duration(milliseconds: 300), () {
+          if (!mounted) return;
+          if (_lutItemScrollController.isAttached) {
+            _lutItemScrollController.jumpTo(index: filteredIndex, alignment: 0.1);
+          }
+        });
       }
     });
+  }
+
+  void _scrollToSelectedColor() {
+    if (_selectedColorIndex < 0 || _selectedColorIndex >= ColorPalette.presets.length) return;
+    final filteredColors = _getFilteredColors();
+    final currentPalette = ColorPalette.presets[_selectedColorIndex];
+    final filteredIndex = filteredColors.indexOf(currentPalette);
+    if (filteredIndex == -1) return;
+
+    Future.delayed(const Duration(milliseconds: 300), () {
+      if (!mounted) return;
+      if (_colorItemScrollController.isAttached) {
+        _colorItemScrollController.scrollTo(
+          index: filteredIndex,
+          duration: const Duration(milliseconds: 200),
+          curve: Curves.easeInOut,
+          alignment: 0.1,
+        );
+      } else {
+        Future.delayed(const Duration(milliseconds: 300), () {
+          if (!mounted) return;
+          if (_colorItemScrollController.isAttached) {
+            _colorItemScrollController.jumpTo(
+              index: filteredIndex,
+              alignment: 0.1,
+            );
+          }
+        });
+      }
+    });
+  }
+
+  List<QuranIndexEntry> _getFilteredQuranEntries() {
+    if (_quranSearchQuery.isEmpty && _quranExcludeQuery.isEmpty) return _quranEntries;
+    final result = <QuranIndexEntry>[];
+    String? currentMainTopic;
+    bool currentMainMatches = false;
+    for (final entry in _quranEntries) {
+      if (!entry.isSubtopic) {
+        currentMainTopic = entry.topic;
+        final topicLower = entry.topic.toLowerCase();
+        currentMainMatches = (_quranSearchQuery.isEmpty || topicLower.contains(_quranSearchQuery)) &&
+            (_quranExcludeQuery.isEmpty || !topicLower.contains(_quranExcludeQuery));
+        if (currentMainMatches) result.add(entry);
+      } else {
+        final topicLower = entry.topic.toLowerCase();
+        final subtopicMatches = (_quranSearchQuery.isEmpty || topicLower.contains(_quranSearchQuery)) &&
+            (_quranExcludeQuery.isEmpty || !topicLower.contains(_quranExcludeQuery));
+        if (currentMainMatches) {
+          result.add(entry);
+        } else if (subtopicMatches) {
+          if (!result.any((e) => !e.isSubtopic && e.topic == currentMainTopic)) {
+            final parentEntry = _quranEntries.firstWhere(
+              (e) => !e.isSubtopic && e.topic == currentMainTopic,
+              orElse: () => entry,
+            );
+            result.add(parentEntry);
+          }
+          result.add(entry);
+        }
+      }
+    }
+    return result;
+  }
+
+  void _scrollToActiveQuranRef() {
+    if (_activeQuranRef == null) return;
+    if (_activeQuranFilteredIndex == null) return;
+
+    final activeIndex = _activeQuranFilteredIndex!;
+
+    void doScroll() {
+      if (!mounted) return;
+      if (_quranItemScrollController.isAttached) {
+        _quranItemScrollController.scrollTo(
+          index: activeIndex,
+          duration: const Duration(milliseconds: 300),
+          curve: Curves.easeInOut,
+          alignment: 0.1,
+        );
+      }
+    }
+
+    Future.delayed(const Duration(milliseconds: 300), () => doScroll());
+    Future.delayed(const Duration(milliseconds: 500), () => doScroll());
+    Future.delayed(const Duration(milliseconds: 1000), () => doScroll());
+    Future.delayed(const Duration(milliseconds: 3000), () => doScroll());
   }
 
   Widget _buildPlayer() {

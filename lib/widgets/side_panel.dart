@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:path/path.dart' as path;
 import 'package:flutter/services.dart';
 import 'package:url_launcher/url_launcher.dart';
+import 'package:scrollable_positioned_list/scrollable_positioned_list.dart';
 import '../models/audiobook_metadata.dart';
 import '../models/color_palette.dart';
 import '../models/frequency_item.dart';
@@ -13,9 +14,11 @@ import '../models/lut_item.dart';
 import '../services/font_database.dart';
 import '../services/font_loader.dart';
 import '../services/custom_font_metadata.dart';
+import '../data/quran_index.dart';
 import 'stats_panel.dart';
+import 'quran_panel.dart';
 
-enum PanelMode { chapters, history, playlist, bookmarks, fonts, colors, words, subs, stats, luts}
+enum PanelMode { chapters, history, playlist, bookmarks, fonts, colors, words, subs, stats, luts, quran}
 enum ColoringMode { words, letters }
 
 class SidePanel extends StatelessWidget {
@@ -40,7 +43,7 @@ class SidePanel extends StatelessWidget {
   final VoidCallback onSearchOrSelected;
   final List<Chapter> Function() getFilteredChapters;
   final Function(int) onJumpToChapter;
-  final ScrollController chapterScrollController;
+  final ItemScrollController chapterScrollController;
   final String skipChapterTerms;
   final TextEditingController skipChapterController;
   final FocusNode skipChapterFocusNode;
@@ -96,7 +99,6 @@ class SidePanel extends StatelessWidget {
   final String conversionType;
   final List<ColorPalette> Function() getFilteredColors;
   final int selectedColorIndex;
-  final ScrollController colorScrollController;
   final Function(ColorPalette, int) onColorPaletteSelected;
   final Color Function(String) parseColor;
   final List<FrequencyItem> frequencyItems;
@@ -180,7 +182,22 @@ class SidePanel extends StatelessWidget {
   final Function(String) onRemoveLutFavorite;
   final String? selectedLutName;
   final VoidCallback onClearLut;
-  
+  final List<QuranIndexEntry> quranEntries;
+  final bool isQuranLoaded;
+  final QuranVerseRef? activeQuranRef;
+  final Function(QuranVerseRef, int) onQuranVerseSelected;
+  final FocusNode quranSearchFocusNode;
+  final FocusNode quranExcludeFocusNode;
+  final ItemScrollController quranItemScrollController;
+  final String quranSearchQuery;
+  final String quranExcludeQuery;
+  final TextEditingController quranSearchController;
+  final TextEditingController quranExcludeController;
+  final Function(String) onQuranSearchChanged;
+  final Function(String) onQuranExcludeChanged;
+  final ItemScrollController colorItemScrollController;
+  final ItemScrollController lutItemScrollController;
+
   const SidePanel({
     super.key,
     required this.panelMode,
@@ -242,7 +259,7 @@ class SidePanel extends StatelessWidget {
     required this.onSetCustomFontDirectory,
     required this.customFontDirectory2,
     required this.onSetCustomFontDirectory2,
-    required this.onRefreshCustomFonts2,    
+    required this.onRefreshCustomFonts2,
     required this.playlistDirectories,
     required this.activePlaylistIndex,
     required this.onAddPlaylistDirectory,
@@ -259,7 +276,6 @@ class SidePanel extends StatelessWidget {
     required this.conversionType,
     required this.getFilteredColors,
     required this.selectedColorIndex,
-    required this.colorScrollController,
     required this.onColorPaletteSelected,
     required this.parseColor,
     required this.frequencyItems,
@@ -343,6 +359,21 @@ class SidePanel extends StatelessWidget {
     required this.onRemoveLutFavorite,
     required this.selectedLutName,
     required this.onClearLut,
+    required this.quranEntries,
+    required this.isQuranLoaded,
+    required this.activeQuranRef,
+    required this.onQuranVerseSelected,
+    required this.quranSearchFocusNode,
+    required this.quranExcludeFocusNode,
+    required this.quranItemScrollController,
+    required this.quranSearchQuery,
+    required this.quranExcludeQuery,
+    required this.quranSearchController,
+    required this.quranExcludeController,
+    required this.onQuranSearchChanged,
+    required this.onQuranExcludeChanged,
+    required this.colorItemScrollController,
+    required this.lutItemScrollController,
   });
 
   @override
@@ -351,7 +382,7 @@ class SidePanel extends StatelessWidget {
       right: 0,
       top: 0,
       bottom: isCollapsed ? null : 0,
-      width: 800,
+      width: 950,
       child: GestureDetector(
         onTap: () {},
         child: Container(
@@ -424,6 +455,7 @@ class SidePanel extends StatelessWidget {
                  _buildTabButton(context, 'Subs', PanelMode.subs, subsCount),
                  _buildTabButton(context, 'Stats', PanelMode.stats, statsCount),
                  _buildTabButton(context, 'LUTs', PanelMode.luts, availableLuts.length),
+                 _buildTabButton(context, 'Quran', PanelMode.quran, quranEntries.length),
                ],
              ),
            ),
@@ -531,10 +563,10 @@ class SidePanel extends StatelessWidget {
 
   Widget _buildTabButton(BuildContext context, String label, PanelMode mode, int count) {
     final isActive = panelMode == mode;
-    
-    final isSpecialCollapsed = isCollapsed && 
+
+    final isSpecialCollapsed = isCollapsed &&
         (mode == PanelMode.fonts || mode == PanelMode.colors);
-    
+
     int? underlineIndex;
     switch (mode) {
       case PanelMode.chapters:
@@ -567,8 +599,11 @@ class SidePanel extends StatelessWidget {
       case PanelMode.luts:
         underlineIndex = 2;
         break;
+      case PanelMode.quran:
+        underlineIndex = 0;
+        break;
     }
-    
+
     return Padding(
       padding: const EdgeInsets.only(right: 8),
       child: TextButton(
@@ -588,7 +623,7 @@ class SidePanel extends StatelessWidget {
             Text(
               count.toString(),
               style: TextStyle(
-                fontSize: 10, 
+                fontSize: 10,
                 color: isSpecialCollapsed ? Colors.teal[200] : Colors.white70,
               ),
             ),
@@ -601,7 +636,7 @@ class SidePanel extends StatelessWidget {
   TextSpan _buildLabelWithShortcutColor(String text, int? underlineIndex, bool isSpecialCollapsed) {
     final children = <TextSpan>[];
     final textColor = isSpecialCollapsed ? Colors.teal : Colors.white;
-  
+
     for (int i = 0; i < text.length; i++) {
       children.add(TextSpan(
         text: text[i],
@@ -652,115 +687,131 @@ class SidePanel extends StatelessWidget {
         );
       case PanelMode.luts:
         return _buildLutsList(context);
+      case PanelMode.quran:
+        return QuranPanel(
+          entries: quranEntries,
+          isQuranLoaded: isQuranLoaded,
+          activeRef: activeQuranRef,
+          onVerseSelected: onQuranVerseSelected,
+          searchFocusNode: quranSearchFocusNode,
+          quranExcludeFocusNode: quranExcludeFocusNode,
+          itemScrollController: quranItemScrollController,
+          searchQuery: quranSearchQuery,
+          excludeQuery: quranExcludeQuery,
+          searchController: quranSearchController,
+          excludeController: quranExcludeController,
+          onSearchChanged: onQuranSearchChanged,
+          onExcludeChanged: onQuranExcludeChanged,
+        );
     }
   }
 
   Widget _buildChapterList(BuildContext context) {
-    final filteredChapters = getFilteredChapters();
-    if (filteredChapters.isEmpty) {
-      return const Center(
-        child: Text(
-          'No chapters match search',
-          style: TextStyle(color: Colors.white54),
-        ),
+      final filteredChapters = getFilteredChapters();
+      if (filteredChapters.isEmpty) {
+        return const Center(
+          child: Text(
+            'No chapters match search',
+            style: TextStyle(color: Colors.white54),
+          ),
+        );
+      }
+      return Column(
+        children: [
+          Container(
+            padding: const EdgeInsets.all(16),
+            decoration: const BoxDecoration(
+              border: Border(bottom: BorderSide(color: Colors.white24)),
+            ),
+            child: Row(
+              children: [
+                const Text(
+                  'Skip Chapters:',
+                  style: TextStyle(color: Colors.red, fontSize: 12, fontWeight: FontWeight.bold),
+                ),
+                const SizedBox(width: 12),
+                Expanded(
+                  child: TextField(
+                    controller: skipChapterController,
+                    focusNode: skipChapterFocusNode,
+                    style: const TextStyle(color: Colors.white, fontSize: 14),
+                    decoration: InputDecoration(
+                      hintText: 'any of these terms',
+                      hintStyle: const TextStyle(color: Colors.white54),
+                      prefixIcon: const Icon(Icons.skip_next, color: Colors.white54, size: 20),
+                      suffixIcon: skipChapterTerms.isNotEmpty
+                          ? IconButton(
+                              icon: const Icon(Icons.clear, color: Colors.white54, size: 20),
+                              onPressed: () {
+                                skipChapterController.clear();
+                                onSkipChapterChanged('');
+                              },
+                            )
+                          : null,
+                      filled: true,
+                      fillColor: Colors.black26,
+                      border: OutlineInputBorder(
+                        borderRadius: BorderRadius.circular(8),
+                        borderSide: BorderSide.none,
+                      ),
+                      contentPadding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                    ),
+                    onChanged: onSkipChapterChanged,
+                  ),
+                ),
+              ],
+            ),
+          ),
+          Expanded(
+            child: ScrollablePositionedList.builder(
+              itemScrollController: chapterScrollController,
+              itemCount: filteredChapters.length,
+              itemBuilder: (context, index) {
+                final chapter = filteredChapters[index];
+                final actualIndex = currentAudiobook!.chapters.indexOf(chapter);
+                final isActive = actualIndex == currentChapterIndex;
+                final shouldSkip = shouldSkipChapter(chapter.title);
+                return ListTile(
+                  leading: CircleAvatar(
+                    backgroundColor: shouldSkip
+                        ? Colors.red.withAlpha(128)
+                        : (isActive ? Colors.deepPurple : const Color(0xFF006064)),
+                    radius: 12,
+                    child: Text(
+                      '${actualIndex + 1}',
+                      style: const TextStyle(fontSize: 10, color: Colors.white),
+                    ),
+                  ),
+                  title: RichText(
+                    text: TextSpan(
+                      style: TextStyle(
+                        color: shouldSkip
+                            ? Colors.red.withAlpha(179)
+                            : (isActive ? Colors.purple[200] : Colors.white),
+                        fontSize: 14,
+                        fontWeight: isActive ? FontWeight.bold : FontWeight.normal,
+                      ),
+                      children: [
+                        TextSpan(text: '$ltr${chapter.title}'),
+                        TextSpan(
+                          text: ' ${chapter.formattedDuration}',
+                          style: TextStyle(
+                            color: shouldSkip ? Colors.red.withAlpha(128) : Colors.lightBlue,
+                            fontWeight: FontWeight.normal,
+                          ),
+                        ),
+                      ],
+                    ),
+                  ),
+                  onTap: () => onJumpToChapter(actualIndex),
+                  tileColor: isActive ? Colors.deepPurple.withAlpha(51) : null,
+                );
+              },
+            ),
+          ),
+        ],
       );
     }
-    return Column(
-      children: [
-        Container(
-          padding: const EdgeInsets.all(16),
-          decoration: const BoxDecoration(
-            border: Border(bottom: BorderSide(color: Colors.white24)),
-          ),
-          child: Row(
-            children: [
-              const Text(
-                'Skip Chapters:',
-                style: TextStyle(color: Colors.red, fontSize: 12, fontWeight: FontWeight.bold),
-              ),
-              const SizedBox(width: 12),
-              Expanded(
-                child: TextField(
-                  controller: skipChapterController,
-                  focusNode: skipChapterFocusNode,
-                  style: const TextStyle(color: Colors.white, fontSize: 14),
-                  decoration: InputDecoration(
-                    hintText: 'any of these terms',
-                    hintStyle: const TextStyle(color: Colors.white54),
-                    prefixIcon: const Icon(Icons.skip_next, color: Colors.white54, size: 20),
-                    suffixIcon: skipChapterTerms.isNotEmpty
-                        ? IconButton(
-                            icon: const Icon(Icons.clear, color: Colors.white54, size: 20),
-                            onPressed: () {
-                              skipChapterController.clear();
-                              onSkipChapterChanged('');
-                            },
-                          )
-                        : null,
-                    filled: true,
-                    fillColor: Colors.black26,
-                    border: OutlineInputBorder(
-                      borderRadius: BorderRadius.circular(8),
-                      borderSide: BorderSide.none,
-                    ),
-                    contentPadding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
-                  ),
-                  onChanged: onSkipChapterChanged,
-                ),
-              ),
-            ],
-          ),
-        ),
-        Expanded(
-          child: ListView.builder(
-            controller: chapterScrollController,
-            itemCount: filteredChapters.length,
-            itemBuilder: (context, index) {
-              final chapter = filteredChapters[index];
-              final actualIndex = currentAudiobook!.chapters.indexOf(chapter);
-              final isActive = actualIndex == currentChapterIndex;
-              final shouldSkip = shouldSkipChapter(chapter.title);
-              return ListTile(
-                leading: CircleAvatar(
-                  backgroundColor: shouldSkip 
-                      ? Colors.red.withAlpha(128)
-                      : (isActive ? Colors.deepPurple : const Color(0xFF006064)),
-                  radius: 12,
-                  child: Text(
-                    '${actualIndex + 1}',
-                    style: const TextStyle(fontSize: 10, color: Colors.white),
-                  ),
-                ),
-                title: RichText(
-                  text: TextSpan(
-                    style: TextStyle(
-                      color: shouldSkip
-                          ? Colors.red.withAlpha(179)
-                          : (isActive ? Colors.purple[200] : Colors.white),
-                      fontSize: 14,
-                      fontWeight: isActive ? FontWeight.bold : FontWeight.normal,
-                    ),
-                    children: [
-                      TextSpan(text: '$ltr${chapter.title}'),
-                      TextSpan(
-                        text: ' ${chapter.formattedDuration}',
-                        style: TextStyle(
-                          color: shouldSkip ? Colors.red.withAlpha(128) : Colors.lightBlue,
-                          fontWeight: FontWeight.normal,
-                        ),
-                      ),
-                    ],
-                  ),
-                ),
-                onTap: () => onJumpToChapter(actualIndex),
-                tileColor: isActive ? Colors.deepPurple.withAlpha(51) : null,
-              );
-            },
-          ),
-        ),
-      ],
-    );
-  }
 
   double _parseProgress(String progressStr) {
     final cleaned = progressStr.replaceAll('%', '').trim();
@@ -823,7 +874,7 @@ class SidePanel extends StatelessWidget {
                         text: ' \u200E${snapshot.data!['duration']}',
                         style: const TextStyle(color: Colors.lightBlue),
                       ),
-                      if (snapshot.data!['progress'] != null && 
+                      if (snapshot.data!['progress'] != null &&
                           snapshot.data!['progress'].toString().isNotEmpty &&
                           _parseProgress(snapshot.data!['progress'].toString()) > 0.9)
                         TextSpan(
@@ -852,7 +903,7 @@ class SidePanel extends StatelessWidget {
 
   Widget _buildPlaylistList(BuildContext context) {
     final filteredPlaylist = getFilteredPlaylist();
-    
+
     return Column(
       children: [
         Container(
@@ -1048,35 +1099,35 @@ class SidePanel extends StatelessWidget {
           ),
         );
       }
-    
+
       final pinnedBookmarks = filteredBookmarks.where((b) => b.pinNumber != null).toList()
         ..sort((a, b) => a.pinNumber!.compareTo(b.pinNumber!));
-      
+
       final unpinnedBookmarks = filteredBookmarks.where((b) => b.pinNumber == null).toList()
         ..sort((a, b) {
           final pathCompare = a.audiobookPath.compareTo(b.audiobookPath);
           if (pathCompare != 0) return pathCompare;
           return a.chapterTitle.compareTo(b.chapterTitle);
         });
-    
+
       final Map<String, List<Bookmark>> groupedUnpinned = {};
       for (final bookmark in unpinnedBookmarks) {
         groupedUnpinned.putIfAbsent(bookmark.audiobookPath, () => []).add(bookmark);
       }
-    
+
       final usedPinNumbers = pinnedBookmarks.map((b) => b.pinNumber!).toSet();
       final availablePinNumbers = [1, 2, 3, 4, 5, 6, 7, 8, 9]
           .where((num) => !usedPinNumbers.contains(num))
           .toList();
       final nextAvailablePin = availablePinNumbers.isNotEmpty ? availablePinNumbers.first : null;
-    
+
       return ListView(
         controller: historyScrollController,
         children: [
           ...pinnedBookmarks.map((bookmark) {
             final audiobookName = path.basenameWithoutExtension(bookmark.audiobookPath);
             final actualIndex = filteredBookmarks.indexOf(bookmark);
-            
+
             return Container(
               margin: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
               decoration: BoxDecoration(
@@ -1134,17 +1185,17 @@ class SidePanel extends StatelessWidget {
               ),
             );
           }),
-          
+
           if (pinnedBookmarks.isNotEmpty && unpinnedBookmarks.isNotEmpty)
             const Divider(color: Colors.white24, thickness: 2, height: 32),
-          
+
           ...groupedUnpinned.entries.toList().asMap().entries.map((groupEntry) {
             final groupIndex = groupEntry.key;
             final entry = groupEntry.value;
             final audiobookPath = entry.key;
             final bookmarks = entry.value;
             final audiobookName = path.basenameWithoutExtension(audiobookPath);
-            
+
             return Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
@@ -1177,7 +1228,7 @@ class SidePanel extends StatelessWidget {
                 ...bookmarks.asMap().entries.map((bookmarkEntry) {
                   final bookmark = bookmarkEntry.value;
                   final actualIndex = filteredBookmarks.indexOf(bookmark);
-                  
+
                   return Container(
                     margin: const EdgeInsets.symmetric(horizontal: 8, vertical: 2),
                     decoration: BoxDecoration(
@@ -1228,11 +1279,11 @@ class SidePanel extends StatelessWidget {
     final hours = d.inHours;
     final minutes = d.inMinutes.remainder(60);
     final seconds = d.inSeconds.remainder(60);
-    
+
     if (hours == 0 && minutes == 0) {
       return '';
     }
-    
+
     return '${hours.toString().padLeft(2, '0')}:${minutes.toString().padLeft(2, '0')}:${seconds.toString().padLeft(2, '0')}';
   }
 
@@ -1294,7 +1345,7 @@ class SidePanel extends StatelessWidget {
 
   Widget _buildColorsList(BuildContext context) {
     final filteredColors = getFilteredColors();
-    
+
     return Column(
       children: [
         Padding(
@@ -1386,10 +1437,10 @@ class SidePanel extends StatelessWidget {
                   DropdownMenuItem(value: ColorPaletteFilter.all,          child: Text('All')),
                   DropdownMenuItem(value: ColorPaletteFilter.twentyColors, child: Text('20 colors')),
                   DropdownMenuItem(value: ColorPaletteFilter.twelveColors, child: Text('12 colors')),
-                  DropdownMenuItem(value: ColorPaletteFilter.twentyTwelveColors,child: Text('20 + 12 colors')),
+                  DropdownMenuItem(value: ColorPaletteFilter.twentyTwelveColors, child: Text('20 + 12 colors')),
                   DropdownMenuItem(value: ColorPaletteFilter.same,         child: Text('same')),
                   DropdownMenuItem(value: ColorPaletteFilter.three,        child: Text('three')),
-                  DropdownMenuItem(value: ColorPaletteFilter.samethree, child: Text('same + three')),
+                  DropdownMenuItem(value: ColorPaletteFilter.samethree,    child: Text('same + three')),
                   DropdownMenuItem(value: ColorPaletteFilter.fontWhite,    child: Text('font (white)')),
                   DropdownMenuItem(value: ColorPaletteFilter.fontBlack,    child: Text('font (black)')),
                   DropdownMenuItem(value: ColorPaletteFilter.borderWhite,  child: Text('border (white)')),
@@ -1414,113 +1465,116 @@ class SidePanel extends StatelessWidget {
           )
         else
           Expanded(
-            child: ListView.builder(
-              controller: colorScrollController,
+            child: Padding(
               padding: const EdgeInsets.all(16),
-              itemCount: filteredColors.length,
-              itemBuilder: (context, index) {
-                final palette = filteredColors[index];
-                final actualIndex = ColorPalette.presets.indexOf(palette);
-                final isSelected = selectedColorIndex == actualIndex;
-                final isFavorite = favoriteColorPalettes.contains(palette.name);
-                final showingFavorites = colorFilterMode == 'favorites';
-                
-                return InkWell(
-                  onTap: () => onColorPaletteSelected(palette, actualIndex),
-                  child: Container(
-                    margin: const EdgeInsets.only(bottom: 12),
-                    padding: const EdgeInsets.all(12),
-                    decoration: BoxDecoration(
-                      color: isSelected ? Colors.deepPurple.withAlpha(51) : Colors.black26,
-                      borderRadius: BorderRadius.circular(8),
-                      border: isSelected 
-                          ? Border.all(color: Colors.deepPurple, width: 2)
-                          : null,
-                    ),
-                    child: Row(
-                      children: [
-                        Expanded(
-                          child: Text(
-                            palette.name,
-                            style: TextStyle(
-                              color: isSelected ? Colors.purple[200] : Colors.white,
-                              fontSize: 14,
-                              fontWeight: isSelected ? FontWeight.bold : FontWeight.normal,
-                            ),
-                          ),
-                        ),
-                        const SizedBox(width: 12),
-                        if (palette.isSimplePreset)
-                          Container(
-                            width: 280,
-                            height: 20,
-                            decoration: BoxDecoration(
-                              color: parseColor(palette.colors[0]),
-                              border: Border.all(
-                                color: parseColor(palette.subShadowColor!),
-                                width: 4,
+              child: ScrollablePositionedList.builder(
+                itemScrollController: colorItemScrollController,
+                itemCount: filteredColors.length,
+                itemBuilder: (context, index) {
+                  final palette = filteredColors[index];
+                  final actualIndex = ColorPalette.presets.indexOf(palette);
+                  final isSelected = selectedColorIndex == actualIndex;
+                  final isFavorite = favoriteColorPalettes.contains(palette.name);
+                  final showingFavorites = colorFilterMode == 'favorites';
+
+                  return InkWell(
+                    onTap: () => onColorPaletteSelected(palette, actualIndex),
+                    child: Container(
+                      margin: const EdgeInsets.only(bottom: 12),
+                      padding: const EdgeInsets.all(12),
+                      decoration: BoxDecoration(
+                        color: isSelected ? Colors.deepPurple.withAlpha(51) : Colors.black26,
+                        borderRadius: BorderRadius.circular(8),
+                        border: isSelected
+                            ? Border.all(color: Colors.deepPurple, width: 2)
+                            : null,
+                      ),
+                      child: Row(
+                        children: [
+                          Expanded(
+                            child: Text(
+                              palette.name,
+                              style: TextStyle(
+                                color: isSelected ? Colors.purple[200] : Colors.white,
+                                fontSize: 14,
+                                fontWeight: isSelected ? FontWeight.bold : FontWeight.normal,
                               ),
-                              borderRadius: BorderRadius.circular(4),
-                            ),
-                          )
-                        else
-                          ...palette.colors.map((color) => Container(
-                            width: 20,
-                            height: 20,
-                            margin: const EdgeInsets.only(left: 4),
-                            decoration: BoxDecoration(
-                              color: parseColor(color),
-                              borderRadius: BorderRadius.circular(4),
-                              border: Border.all(color: Colors.white24),
-                            ),
-                          )),
-                        if (palette.strokeColor != null)
-                          Container(
-                            width: 20,
-                            height: 20,
-                            margin: const EdgeInsets.only(left: 8),
-                            decoration: BoxDecoration(
-                              color: parseColor(palette.strokeColor!),
-                              borderRadius: BorderRadius.circular(4),
-                              border: Border.all(color: Colors.white60, width: 1.5),
                             ),
                           ),
-                        if (palette.shadowColor != null)
-                          Container(
-                            width: 20,
-                            height: 20,
-                            margin: const EdgeInsets.only(left: 4),
-                            decoration: BoxDecoration(
-                              color: parseColor(palette.shadowColor!),
-                              borderRadius: BorderRadius.circular(4),
-                              border: Border.all(color: Colors.white60, width: 1.5),
-                            ),
-                          ),
-                        if (showingFavorites) ...[
                           const SizedBox(width: 12),
-                          IconButton(
-                            icon: const Icon(Icons.delete, color: Colors.white54, size: 18),
-                            onPressed: () => onRemoveColorPaletteFavorite(palette.name),
-                            tooltip: 'Remove from favorites',
-                            padding: EdgeInsets.zero,
-                            constraints: const BoxConstraints(),
-                          ),
+                          if (palette.isSimplePreset)
+                            Container(
+                              width: 280,
+                              height: 20,
+                              decoration: BoxDecoration(
+                                color: parseColor(palette.colors[0]),
+                                border: Border.all(
+                                  color: parseColor(palette.subShadowColor!),
+                                  width: 4,
+                                ),
+                                borderRadius: BorderRadius.circular(4),
+                              ),
+                            )
+                          else
+                            ...palette.colors.map((color) => Container(
+                              width: 20,
+                              height: 20,
+                              margin: const EdgeInsets.only(left: 4),
+                              decoration: BoxDecoration(
+                                color: parseColor(color),
+                                borderRadius: BorderRadius.circular(4),
+                                border: Border.all(color: Colors.white24),
+                              ),
+                            )),
+                          if (palette.strokeColor != null)
+                            Container(
+                              width: 20,
+                              height: 20,
+                              margin: const EdgeInsets.only(left: 8),
+                              decoration: BoxDecoration(
+                                color: parseColor(palette.strokeColor!),
+                                borderRadius: BorderRadius.circular(4),
+                                border: Border.all(color: Colors.white60, width: 1.5),
+                              ),
+                            ),
+                          if (palette.shadowColor != null)
+                            Container(
+                              width: 20,
+                              height: 20,
+                              margin: const EdgeInsets.only(left: 4),
+                              decoration: BoxDecoration(
+                                color: parseColor(palette.shadowColor!),
+                                borderRadius: BorderRadius.circular(4),
+                                border: Border.all(color: Colors.white60, width: 1.5),
+                              ),
+                            ),
+                          if (showingFavorites) ...[
+                            const SizedBox(width: 12),
+                            IconButton(
+                              icon: const Icon(Icons.delete, color: Colors.white54, size: 18),
+                              onPressed: () => onRemoveColorPaletteFavorite(palette.name),
+                              tooltip: 'Remove from favorites',
+                              padding: EdgeInsets.zero,
+                              constraints: const BoxConstraints(),
+                            ),
+                          ],
                         ],
-                      ],
+                      ),
                     ),
-                  ),
-                );
-              },
+                  );
+                },
+              ),
             ),
           ),
       ],
     );
   }
 
+
  Widget _buildLutsList(BuildContext context) {
      final filteredLuts = getFilteredLuts();
      final showingFavorites = lutFilterMode == 'favorites';
-   
+
      return Column(
        children: [
          Padding(
@@ -1573,100 +1627,81 @@ class SidePanel extends StatelessWidget {
              ),
            )
          else
-           Expanded(
-             child: ListView.builder(
-               controller: colorScrollController,
-               padding: const EdgeInsets.all(16),
-               itemCount: filteredLuts.length,
-               itemBuilder: (context, index) {
-                 final lut = filteredLuts[index];
-                 final actualIndex = availableLuts.indexOf(lut);
-                 final isSelected = selectedLutIndex == actualIndex;
-                 final isFavorite = favoriteLuts.contains(lut.name);
-
-                 final itemKey = isSelected ? GlobalKey() : null;
-                 
-                 if (isSelected) {
-                   WidgetsBinding.instance.addPostFrameCallback((_) {
-                     if (itemKey!.currentContext != null &&
-                         colorScrollController.hasClients &&
-                         colorScrollController.position.pixels == 0.0) {
-                       Scrollable.ensureVisible(
-                         itemKey.currentContext!,
-                         duration: const Duration(milliseconds: 400),
-                         curve: Curves.easeOut,
-                         alignment: 0.3,
-                       );
-                     }
-                   });
-                 }
-                 
-                 return InkWell(
-                   key: itemKey,
-                   onTap: () => onLutSelected(lut, actualIndex),
-                   child: Container(
-                     margin: const EdgeInsets.only(bottom: 8),
-                     padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 10),
-                     decoration: BoxDecoration(
-                       color: isSelected
-                           ? Colors.amber.withAlpha(30)
-                           : Colors.black26,
-                       borderRadius: BorderRadius.circular(8),
-                       border: isSelected
-                           ? Border.all(color: Colors.amber, width: 2)
-                           : null,
-                     ),
-                     child: Row(
-                       children: [
-                         Expanded(
-                           child: Text(
-                             lut.name.replaceAll('.cube', ''),
-                             style: TextStyle(
-                               color: isSelected ? Colors.amber : Colors.white,
-                               fontSize: 14,
-                               fontWeight: isSelected
-                                   ? FontWeight.bold
-                                   : FontWeight.normal,
-                             ),
+         Expanded(
+           child: ScrollablePositionedList.builder(
+             itemScrollController: lutItemScrollController,
+             padding: const EdgeInsets.all(16),
+             itemCount: filteredLuts.length,
+             itemBuilder: (context, index) {
+               final lut = filteredLuts[index];
+               final actualIndex = availableLuts.indexOf(lut);
+               final isSelected = selectedLutIndex == actualIndex;
+               final isFavorite = favoriteLuts.contains(lut.name);
+               return InkWell(
+                 onTap: () => onLutSelected(lut, actualIndex),
+                 child: Container(
+                   margin: const EdgeInsets.only(bottom: 8),
+                   padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 10),
+                   decoration: BoxDecoration(
+                     color: isSelected
+                         ? Colors.amber.withAlpha(30)
+                         : Colors.black26,
+                     borderRadius: BorderRadius.circular(8),
+                     border: isSelected
+                         ? Border.all(color: Colors.amber, width: 2)
+                         : null,
+                   ),
+                   child: Row(
+                     children: [
+                       Expanded(
+                         child: Text(
+                           lut.name.replaceAll('.cube', ''),
+                           style: TextStyle(
+                             color: isSelected ? Colors.amber : Colors.white,
+                             fontSize: 14,
+                             fontWeight: isSelected
+                                 ? FontWeight.bold
+                                 : FontWeight.normal,
                            ),
                          ),
+                       ),
+                       IconButton(
+                         icon: Icon(
+                           isFavorite ? Icons.star : Icons.star_border,
+                           color: isFavorite ? Colors.amber : Colors.white38,
+                           size: 18,
+                         ),
+                         onPressed: () => isFavorite
+                             ? onRemoveLutFavorite(lut.name)
+                             : onAddLutFavorite(lut.name),
+                         padding: EdgeInsets.zero,
+                         constraints: const BoxConstraints(),
+                         tooltip: isFavorite
+                             ? 'Remove from favorites'
+                             : 'Add to favorites',
+                       ),
+                       if (showingFavorites) ...[
+                         const SizedBox(width: 8),
                          IconButton(
-                           icon: Icon(
-                             isFavorite ? Icons.star : Icons.star_border,
-                             color: isFavorite ? Colors.amber : Colors.white38,
-                             size: 18,
-                           ),
-                           onPressed: () => isFavorite
-                               ? onRemoveLutFavorite(lut.name)
-                               : onAddLutFavorite(lut.name),
+                           icon: const Icon(Icons.delete,
+                               color: Colors.white54, size: 18),
+                           onPressed: () => onRemoveLutFavorite(lut.name),
                            padding: EdgeInsets.zero,
                            constraints: const BoxConstraints(),
-                           tooltip: isFavorite
-                               ? 'Remove from favorites'
-                               : 'Add to favorites',
+                           tooltip: 'Remove from favorites',
                          ),
-                         if (showingFavorites) ...[
-                           const SizedBox(width: 8),
-                           IconButton(
-                             icon: const Icon(Icons.delete,
-                                 color: Colors.white54, size: 18),
-                             onPressed: () => onRemoveLutFavorite(lut.name),
-                             padding: EdgeInsets.zero,
-                             constraints: const BoxConstraints(),
-                             tooltip: 'Remove from favorites',
-                           ),
-                         ],
                        ],
-                     ),
+                     ],
                    ),
-                 );
-               },
-             ),
+                 ),
+               );
+             },
            ),
+         ),
        ],
      );
    }
-   
+
    Widget _buildLutFilterButton(String label, String mode) {
      final isActive = lutFilterMode == mode;
      return ElevatedButton(
@@ -1685,7 +1720,7 @@ class SidePanel extends StatelessWidget {
        ),
      );
    }
- 
+
   Widget _buildColoringModeButton(ColoringMode mode, String label, String? tooltip) {
     final isActive = coloringMode == mode;
     return ElevatedButton(
@@ -1724,7 +1759,7 @@ class SidePanel extends StatelessWidget {
         ),
       );
     }
-    
+
     if (frequencyItems.isEmpty) {
       return Center(
         child: Column(
@@ -1750,20 +1785,20 @@ class SidePanel extends StatelessWidget {
         ),
       );
     }
-  
+
     final groupedByWordCount = <int, List<FrequencyItem>>{};
     for (final item in frequencyItems) {
       groupedByWordCount.putIfAbsent(item.wordCount, () => []).add(item);
     }
-    
+
     final orderedKeys = groupedByWordCount.keys.toList()..sort((a, b) {
       if (a == 1) return -1;
       if (b == 1) return 1;
       return b.compareTo(a);
     });
-    
+
     final limitedGroups = <int, List<FrequencyItem>>{};
-    
+
     for (final key in orderedKeys) {
       final items = groupedByWordCount[key]!;
       if (key == 1) {
@@ -1772,7 +1807,7 @@ class SidePanel extends StatelessWidget {
         limitedGroups[key] = items.take(200).toList();
       }
     }
-    
+
     return _WordsPanel(
       orderedKeys: orderedKeys,
       limitedGroups: limitedGroups,
@@ -1808,7 +1843,7 @@ class SidePanel extends StatelessWidget {
                   const SizedBox(width: 8),
                   ElevatedButton.icon(
                     onPressed: isExportingMarkdown ? null : onExportMarkdown,
-                    icon: isExportingMarkdown 
+                    icon: isExportingMarkdown
                         ? const SizedBox(
                             width: 16,
                             height: 16,
@@ -1828,7 +1863,7 @@ class SidePanel extends StatelessWidget {
                   const SizedBox(width: 8),
                   Expanded(
                     child: Tooltip(
-                      message: hasChapterIndex 
+                      message: hasChapterIndex
                           ? 'Chapter index loaded'
                           : 'Index all chapters in current playlist',
                       child: ElevatedButton.icon(
@@ -1843,8 +1878,8 @@ class SidePanel extends StatelessWidget {
                                 hasChapterIndex ? Icons.check_circle : Icons.manage_search,
                                 color: Colors.white,
                               ),
-                        label: Text(hasChapterIndex 
-                            ? 'Search Playlist Chapters' 
+                        label: Text(hasChapterIndex
+                            ? 'Search Playlist Chapters'
                             : 'Index Playlist Chapters'),
                         style: ElevatedButton.styleFrom(
                           backgroundColor: Colors.lightBlue,
@@ -2090,9 +2125,9 @@ class SidePanel extends StatelessWidget {
         child: Text('No fonts match', style: TextStyle(color: Colors.white54)),
       );
     }
-    
+
     final bool showingFavorites = selectedMainCategory == FontCategory.favorites;
-    
+
     return ListView.builder(
       controller: fontScrollController,
       itemCount: filteredFonts.length,
@@ -2104,9 +2139,9 @@ class SidePanel extends StatelessWidget {
         final isCustomFont = CustomFontLoader.customFonts.contains(fontName);
         final isLoaded = CustomFontLoader.loadedFonts.contains(fontName);
         final customMetadata = isCustomFont ? CustomFontMetadataManager.getMetadata(fontName) : null;
-        
+
         String? subtitleText;
-        
+
         if (customMetadata != null) {
           subtitleText = customMetadata.displayLabel;
         } else if (showingFavorites) {
@@ -2119,7 +2154,7 @@ class SidePanel extends StatelessWidget {
             subtitleText = parts.join(' → ');
           }
         }
-        
+
         return ListTile(
           dense: true,
           leading: Icon(
@@ -2175,19 +2210,19 @@ class SidePanel extends StatelessWidget {
       },
     );
   }
-  
+
   Future<void> _showFontMetadataDialog(BuildContext context, String fontName) async {
     final existing = CustomFontMetadataManager.getMetadata(fontName);
     String baseType = existing?.baseType ?? 'original';
     String caseType = existing?.caseType ?? '';
-    
+
     void saveAndClose() {
       Navigator.pop(context, {
         'baseType': baseType,
         'caseType': caseType,
       });
     }
-    
+
     final result = await showDialog<Map<String, String>>(
       context: context,
       builder: (context) => StatefulBuilder(
@@ -2338,7 +2373,7 @@ class SidePanel extends StatelessWidget {
         ),
       ),
     );
-    
+
     if (result != null) {
       if (result['action'] == 'delete') {
         await CustomFontMetadataManager.removeMetadata(fontName);
@@ -2535,7 +2570,7 @@ class SidePanel extends StatelessWidget {
         ),
       ];
     }
-  
+
     return [];
   }
 
@@ -2561,8 +2596,8 @@ class SidePanel extends StatelessWidget {
   }
 
  Widget _buildCategoryButton(String label, String category, String? subCat, String? studio) {
-    final isSelected = selectedMainCategory == category && 
-                       selectedSubCategory == subCat && 
+    final isSelected = selectedMainCategory == category &&
+                       selectedSubCategory == subCat &&
                        selectedStudio == studio;
     return Padding(
       padding: const EdgeInsets.symmetric(vertical: 2),
@@ -2584,7 +2619,7 @@ class SidePanel extends StatelessWidget {
       ),
     );
   }
-  
+
   Widget _buildSubCategoryButton(String label, String? subCat, {String? studio}) {
     final isSelected = selectedSubCategory == subCat && selectedStudio == studio;
     return Padding(
@@ -2606,7 +2641,7 @@ class SidePanel extends StatelessWidget {
       ),
     );
   }
-  
+
   Widget _buildStudioButton(String label, String studio) {
     final isSelected = selectedStudio == studio;
     return Padding(
@@ -2637,7 +2672,7 @@ class _WordsPanel extends StatefulWidget {
   final Function(String) onWordSearch;
   final Function(String) onPhraseSearch;
 
-  const _WordsPanel({
+  _WordsPanel({
     required this.orderedKeys,
     required this.limitedGroups,
     required this.hasSearchQuery,
@@ -2654,10 +2689,10 @@ class _WordsPanelState extends State<_WordsPanel> {
   final ScrollController _scrollController = ScrollController();
 
   @override
-  void dispose() {
-    _scrollController.dispose();
-    super.dispose();
-  }
+   void dispose() {
+     _scrollController.dispose();
+     super.dispose();
+   }
 
   @override
   Widget build(BuildContext context) {
@@ -2798,7 +2833,7 @@ class _WordsPanelState extends State<_WordsPanel> {
     return GestureDetector(
       onTap: () async {
         await Clipboard.setData(ClipboardData(text: item.text));
-        
+
         if (isSingleWord) {
           widget.onWordSearch(item.text);
         } else {

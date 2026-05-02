@@ -676,7 +676,7 @@ class PlayerControls extends StatelessWidget {
             ),
             const PopupMenuItem(
               value: 'set_default',
-              child: Text('Set Font/Color as Default (q)'),
+              child: Text('Set Font/Color as Default (⇧Q)'),
             ),
             PopupMenuItem(
               value: 'apply_default',

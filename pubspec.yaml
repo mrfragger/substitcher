@@ -1,7 +1,7 @@
 name: substitcher
 description: opus chaptered audiobook player, encoder and editor with colored subtitle support, basic video editor
 publish_to: "none"
-version: 26.04.29
+version: 26.05.02
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
@@ -15,6 +15,7 @@ dependencies:
   path_provider: ^2.1.5
   path: ^1.9.0
   crypto: ^3.0.3
+  scrollable_positioned_list: ^0.3.8
 
   # internet
   http: ^1.2.0
