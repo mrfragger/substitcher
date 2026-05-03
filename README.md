@@ -387,7 +387,7 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 - search topics and subtopics
 - subs are in 80+ languages translations
 - or just search for topics with physical Quran
-- topic index almost 99% from Hilali and Muhsin Khan Quran English translation
+- topic index mostly from Hilali and Muhsin Khan Quran English translation
 
 ![](images/quranindex.jpg)
 
