@@ -102,10 +102,6 @@ List<QuranIndexEntry> parseQuranIndex(String raw) {
 
   for (final block in blocks) {
 
-    if (block.toLowerCase().contains('hell (the fire')) {
-      print('📦 HELL FULL BLOCK LENGTH: ${block.length}');
-      print('📦 HELL FULL BLOCK: $block');
-    }
     final entry = _parseBlock(block);
     if (entry == null) continue;
 
@@ -471,8 +467,7 @@ variety in, 35:27-28
 - Allah commands "Be!" — and it is, 2:117;16:40; 36:82; 40:68
 as the twinkling of an eye, 54:50
 night and day, sun and moon, 39:5
-of heaven and earth earth greater than, of
-mankind, 40:57; 79:27
+of heaven and earth earth greater than, of mankind, 40:57; 79:27
 purpose of, 51:56
 Crow, 5:31
 Criterion, 2:53, 185; 3:4; 8:29, 41; 21:48; 25:1
@@ -580,9 +575,8 @@ Dogs, 7:176
 Donkeys (Ass), 2:259; 16:8; 31:19; 62:5; 74:50
 Drink,
 alcoholic, 2:219; 5:90
-pure, 37:45; 76:21
+pure and white delicious, 37:45-46; 76:21
 pure sealed wine, 83:25
-white delicious, 37:46
 Duha, S.93
 Dukhan, S.44
 Earth, 51:20; 51:48; 91:6
@@ -628,8 +622,8 @@ Falaq, S.113
 False conversation about Verses of Quran, 6:68
 False gods,
 besides Allah, idols and so-called partners 7:194-198; 16:20-21, 72, 86; 21:22, 24; 34:22, 27; 41:47-48; 46:5-6; 53:19-24; 71:23-24
-see also Taghut
 insult not those whom they worship besides Allah, 6:108
+see also Taghut
 Falsehood (Batil), 2:42; 3:71; 8:8; 9:24; 13:17; 17:81; 21:18; 22:62; 29:52, 67; 31:30; 34:49; 40:5; 41:42; 42:24; 47:3
 Fastened man's deeds to his own neck,17:13
 Fasting, 2:178, 183, 184-185, 187, 196; 4:92; 5:89, 95; 19:26; 33:35
@@ -678,8 +672,7 @@ forgive and make reconciliation, 42:40
 for those who avoid great sins and the Fawahish, 53:32
 race one with another in hastening towards, 57:21
 evil deeds changed into good deeds 25:68-71
-Fraud, 83:1-6
-see Betray
+Fraud, (see Betray) 83:1-6
 Free will,
 limited by Allah's Will, 6:107; 10:99; 74:56;76:31; 81:28-29
 whosoever wills, let him: believe and disbelieve, 18:29
@@ -702,9 +695,9 @@ Ghafir (see Mu'min), S.40
 Ghashiyah, S.88
 Ghusl, 4:43; 5:6
 Gifts, 30:39
-Goliath, (Jalüt) 2:249-251
+Goliath, (Jalut) 2:249-251
 Good (Days), 3:140
-you dislike a thing which is, and like which 1s bad, 2:216
+you dislike a thing which is, and like which is bad, 2:216
 to be rewarded, 4:85; 28:54
 rewarded double, 4:40; 28:54
 rewarded ten times, 6:160
@@ -735,7 +728,7 @@ Haman, 28:6, 38; 29:39; 40:24, 36, 37
 Hands and legs will bear witness, 36:65
 Haggah, S.69
 Hardship, there is relief with every, 94:5-6
-Harün, (see Aaron).
+Harun, (Aaron)
 Harut, 2:102
 Hashr, S.59
 Hearts,
@@ -941,8 +934,7 @@ accursed for what they uttered, 5:64
 enmity to the believers (Muslims), 5:82
 who embraced Islam, 26:197; 28:53; 29:47
 Jibril, (see Gabriel)
-Jihad, 2:216; 9:24; 22:78; 25:52
-see also Fighting; Striving
+Jihad,(Fighting, Striving) 2:216; 9:24; 22:78; 25:52
 Jinn, S.72
 Jinn, 6:100, 112; 15:27; 34:41; 38:37; 46:18,29; 55:33, 39;
 Jinn, created from fire 15:25; 55:15;
@@ -1207,10 +1199,6 @@ Misfortune, because of your hands, 42:30
 Monasticism, not prescribed, 57:27
 Monkeys, transgressors became as, 2:65;5:60; 7:166
 Miraj, 17:1; 53:12
-Miserliness/Misers, 57:24
-Misfortune, because of your hands, 42:30
-Monasticism, not prescribed, 57:27
-Monkeys, transgressors became as, 2:65;5:60; 7:166
 Months, number of, 9:36-37
 Moon, 7:54; 10:5; 16:12; 22:18; 25:61; 36:39-40; 71:16; 91:2
 splitting of; 54:1
@@ -1253,7 +1241,7 @@ Mountains, 15:19; 16:15; 20:105-107; 21:31;22:18; 31:10; 42:32-33; 59:21; 73:14;
 Muddaththir, S.74
 Muhajir (Emigrants), 4:100; 9:100, 107, 117;22:58-59; 24:22; 33:6; 59:8-9
 women, 60:10-12
-Muhammad ( ﷺ )
+Muhammad ﷺ
 mocked, 2:104; 4:46; 25:41-42; 34:78
 respect the Messenger, 2:104; 4:46; 49:1-5
 covenant to believe in, 3:81
@@ -1390,7 +1378,7 @@ brink of a precipice, 9:109-110
 rain, 10:24
 clean-mown harvest, 10:24
 blind and deaf, 11:24
-Allah vs. false gods 13:14, 16:76;
+- Allah vs. false gods 13:14, 16:76;
 truth vs. falsehood 13:17
 ashes on which the wind blows furiously,14:18
 goodly tree, 14:24-25
@@ -1784,11 +1772,11 @@ deniers of, 77:15-50
 mankind will be like moths scattered about,101:4
 mankind will proceed in scattered groups,100:6
 mankind as in a drunken state, 22:2
+every pregnant will drop her load, 22:2
 pregnant she-camels shall be neglected,81:4
 nursing mother will forget her nursling,22:2
-every pregnant will drop her load, 22:2
-relatives shall be made to see one another, 70:11
-man shall flee from his relatives, 81:34-37
+relatives shall be made to see one another,70:11
+a man shall flee from his relatives,80:34-37
 no friend will ask of a friend, 70:10
 there will be no friend nor an intercessor,40:18
 no person shall have power to do anything for another, 82:19
@@ -1813,7 +1801,7 @@ through Ruh-ul-Qudus, 16:102; 26:192-193
 explained in detail, 6:98; 41:2-4
 of the Book is from Allah, 46:2
 see also Book and Quran
-Revenge of oppressive wrong, 42:39-43
+Revenge of oppressive wrong done to them, 42:39-43
 Reward,
 according to the best of deeds, and even more, 24:38; 29:7; 39:35
 as a reward 25:15
@@ -2465,7 +2453,7 @@ warning to those who don't comply 4:13-14
 - Interest, prohibition and warning 2:275-281; 3:130-132;
 rendered profitless 30:39
 Legal
-- Anti-terrorism law (hirabah) 5:33-34
+- treason law (hirabah) 5:33-34
 - Justice, standing up for justice 4:135; 5:8; 16:90-91;
 standing up for the rights of orphans and women 4:127;
 justice to a Jew 4:105-112;
@@ -2473,7 +2461,7 @@ justice to a pagan 4:58;
 fairness with non-Muslims 60:8-9
 - Retaliation through legal channels (with the option to forgive) 2:178-179; 5:45; 16:126; 17:33; 42:37-43
 - Separation between husband and wife, khul' 2:229;
-lian 24:6-10
+lian (accuse of adultery) 24:6-10
 Political
 - Conducting affairs by consultation (shura) 3:159; 42:38
 - Fighting in self-defence (jihad), etiquette 2:190-192; 2:216; 22:38-40;
@@ -2579,7 +2567,7 @@ argumentative 18:54
 Major Sins
 associating others with Allah in worship (shirk) 4:48; 4:116; 5:72; 6:19; 31:13:
 abusing one's own parents 4:36; 6:151; 17:23;
-nealecting obligatory prayers 19:59-60;
+neglecting or abandoning obligatory prayers 19:59-60;
 not paying alms-tax 41:6-7;
 murder 6:151; 17:33;
 killing a believer intentionally 4:93;
