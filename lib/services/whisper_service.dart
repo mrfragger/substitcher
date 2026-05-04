@@ -20,7 +20,7 @@ class WhisperService {
   String segmentTime = '0:30';
   int maxLength = 80;
   bool splitOnWord = true;
-  bool translateToEng lish = false;
+  bool translateToEnglish = false;
   bool useGpu = true;
 
   Process? _currentWhisperProcess;
