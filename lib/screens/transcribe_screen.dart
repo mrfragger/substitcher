@@ -1476,7 +1476,7 @@ List<String> _availableAudiobooks = [];
               Expanded(
                 child: CheckboxListTile(
                   title: const Text('Use GPU', style: TextStyle(color: Colors.white)),
-                  subtitle: const Text('Requires CUDA build of whisper.cpp', style: TextStyle(color: Colors.white54, fontSize: 11)),
+                  subtitle: const Text('Window Linux requires CUDA build of whisper.cpp or Mac', style: TextStyle(color: Colors.white54, fontSize: 11)),
                   value: _whisperService.useGpu,
                   onChanged: (value) {
                     setState(() {
@@ -1484,7 +1484,7 @@ List<String> _availableAudiobooks = [];
                       _whisperService.saveSettings();
                     });
                   },
-                  activeColor: Colors.green,
+                  activeColor: Colors.deepPurple,
                 ),
               ),
               if (_whisperService.selectedModel != 'large-v3-turbo')
