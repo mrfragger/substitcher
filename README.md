@@ -385,9 +385,12 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 ### Quran index
 - use with Quran Verse by Verse opus audiobooks to navigate to chapter, verse
 - search topics and subtopics
-- subs are in 80+ languages translations
+- subs are in 80+ languages translations and can be used with English index or any other language, just set vtt subs language once and it'll remember it
 - or just search for topics with physical Quran
 - topic index mostly from Hilali and Muhsin Khan Quran English translation
+- eventually will translate the index into most of the languages below
+- these are the vtt subs languages:
+- A_English_Saheeh, Afar,  Albanian, Amharic, Arabic, Asante, Assamese, Azerbaijani, Belarusian, Bengali, Bosnian, Bulgarian, Cebuano, Chichewa, Chinese, Croatian, Dari Persian, Dagbani, Dutch, English (Hilali Khan), Fula, French, German, Greek, Gujarati, Hausa, Hebrew, Hindi, Indonesian, Iranun, Italian, Japanese, Kannada, Kazakh, Kinyarwanda, Kirundi, Korean, Kurdish, Kurmanji, Kyrgyz, Lingala, Lithuanian, Luganda, Luhya, Macedonian, Maguindanaon, Malayalam, Malagasy, Malay, Marathi, Moore, Nepali, Nko, Oromo, Pashto, Persian, Portuguese, Punjabi, Romanian, Russian, Serbian, Sinhalese, Somali, Spanish, Spanish Latin, Swahili, Swedish, Tagalog, Tajik, Tamil, Telugu, Thai, Turkish, Ukranian, Urdu, Uyghur, Uzbek, Vietnamese, Yao, Yoruba
 
 ![](images/quranindex.jpg)
 

@@ -19,6 +19,9 @@ class QuranPanel extends StatefulWidget {
   final TextEditingController excludeController;
   final Function(String) onSearchChanged;
   final Function(String) onExcludeChanged;
+  // NEW:
+  final String selectedLanguage;
+  final Function(String) onLanguageChanged;
 
   const QuranPanel({
     super.key,
@@ -35,6 +38,9 @@ class QuranPanel extends StatefulWidget {
     required this.excludeController,
     required this.onSearchChanged,
     required this.onExcludeChanged,
+    // NEW:
+    required this.selectedLanguage,
+    required this.onLanguageChanged,
   });
 
   @override
@@ -122,7 +128,7 @@ class _QuranPanelState extends State<QuranPanel> {
       },
       child: Column(
         children: [
-          // Search bar
+          // Search + Exclude + Language row
           Padding(
             padding: const EdgeInsets.fromLTRB(16, 8, 16, 8),
             child: Row(
@@ -188,6 +194,26 @@ class _QuranPanelState extends State<QuranPanel> {
                     onChanged: (v) => widget.onExcludeChanged(v.trim().toLowerCase()),
                   ),
                 ),
+                // Language dropdown — only shows if more than one language available
+                if (availableQuranIndexLanguages.length > 1) ...[
+                  const SizedBox(width: 12),
+                  DropdownButton<String>(
+                    value: widget.selectedLanguage,
+                    dropdownColor: const Color(0xFF2A2A2A),
+                    style: const TextStyle(color: Colors.white70, fontSize: 13),
+                    underline: const SizedBox(),
+                    isDense: true,
+                    items: availableQuranIndexLanguages.map((lang) =>
+                      DropdownMenuItem(
+                        value: lang,
+                        child: Text(lang),
+                      )
+                    ).toList(),
+                    onChanged: (lang) {
+                      if (lang != null) widget.onLanguageChanged(lang);
+                    },
+                  ),
+                ],
               ],
             ),
           ),
@@ -236,7 +262,7 @@ class _QuranPanelState extends State<QuranPanel> {
               ),
             ),
 
-          // Entry count
+          // Entry count + expand/collapse
           Padding(
             padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 4),
             child: Row(

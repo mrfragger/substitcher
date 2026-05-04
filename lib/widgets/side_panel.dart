@@ -197,6 +197,8 @@ class SidePanel extends StatelessWidget {
   final Function(String) onQuranExcludeChanged;
   final ItemScrollController colorItemScrollController;
   final ItemScrollController lutItemScrollController;
+  final String quranIndexLanguage;
+  final Function(String) onQuranLanguageChanged;
 
   const SidePanel({
     super.key,
@@ -372,6 +374,8 @@ class SidePanel extends StatelessWidget {
     required this.quranExcludeController,
     required this.onQuranSearchChanged,
     required this.onQuranExcludeChanged,
+    required this.quranIndexLanguage,
+    required this.onQuranLanguageChanged,
     required this.colorItemScrollController,
     required this.lutItemScrollController,
   });
@@ -702,6 +706,8 @@ class SidePanel extends StatelessWidget {
           excludeController: quranExcludeController,
           onSearchChanged: onQuranSearchChanged,
           onExcludeChanged: onQuranExcludeChanged,
+          selectedLanguage: quranIndexLanguage,
+          onLanguageChanged: onQuranLanguageChanged,
         );
     }
   }

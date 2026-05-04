@@ -224,6 +224,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   final TextEditingController _quranSearchController = TextEditingController();
   final TextEditingController _quranExcludeController = TextEditingController();
   int? _activeQuranFilteredIndex;
+  String _quranIndexLanguage = 'English';
 
   String _defaultFont = 'System Default';
   String? _defaultColorPalette;
@@ -429,6 +430,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     _loadInitialStats();
     _loadHistory();
     _loadPlaylist();
+    _loadQuranLanguage();
     _loadSubtitlePreferences();
     _loadAutoConversionSettings();
     _loadBookmarks();
@@ -437,7 +439,6 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     _startCacheFlushTimer();
     _loadFavoriteLuts();
     _loadSavedLut();
-    _quranEntries = parseQuranIndex(quranIndexRaw);
     WidgetsBinding.instance.addPostFrameCallback((_) {
       _focusNode.requestFocus();
       _adhanClockService.checkNow();
@@ -513,6 +514,27 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
         _showAdhanOverlay = true;
       });
     }
+  }
+
+  Future<void> _loadQuranLanguage() async {
+    final prefs = await SharedPreferences.getInstance();
+    final language = prefs.getString('quranIndexLanguage') ?? 'English';
+    setState(() {
+      _quranIndexLanguage = language;
+      _quranEntries = parseQuranIndex(getQuranIndexRaw(language));
+    });
+  }
+
+  void _onQuranLanguageChanged(String language) {
+    setState(() {
+      _quranIndexLanguage = language;
+      _quranEntries = parseQuranIndex(getQuranIndexRaw(language));
+      _activeQuranRef = null;
+      _activeQuranFilteredIndex = null;
+    });
+    SharedPreferences.getInstance().then((prefs) {
+      prefs.setString('quranIndexLanguage', language);
+    });
   }
 
   bool get _isQuranVerseByVerse {
@@ -8144,6 +8166,8 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                     setState(() => _quranExcludeQuery = v);
                     SharedPreferences.getInstance().then((p) => p.setString('quran_exclude_query', v));
                   },
+                  quranIndexLanguage: _quranIndexLanguage,
+                  onQuranLanguageChanged: _onQuranLanguageChanged,
 
                   frequencyItems: _frequencyItems,
                   isAnalyzingFrequencies: _isAnalyzingFrequencies,
