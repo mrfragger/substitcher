@@ -183,8 +183,62 @@ jobs:
           name: whisper-windows
           path: whisper-binaries/windows/
 
+  build-whisper-windows-cuda:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Add msbuild to PATH
+        uses: microsoft/setup-msbuild@v2
+
+      - name: Install CUDA Toolkit
+        uses: Jimver/cuda-toolkit@v0.2.16
+        with:
+          cuda: "12.4.0"
+          method: "network"
+
+      - name: Clone whisper.cpp
+        run: |
+          git clone https://github.com/ggerganov/whisper.cpp.git
+          cd whisper.cpp
+          git checkout v1.8.2
+
+      - name: Configure with CUDA
+        run: |
+          cd whisper.cpp
+          cmake -S . -B ./build -A x64 `
+            -DCMAKE_BUILD_TYPE=Release `
+            -DBUILD_SHARED_LIBS=ON `
+            -DGGML_CUDA=ON
+
+      - name: Build
+        run: |
+          cd whisper.cpp/build
+          msbuild ALL_BUILD.vcxproj -t:build -p:configuration=Release -p:platform=x64
+
+      - name: Collect all libraries
+        shell: powershell
+        run: |
+          New-Item -ItemType Directory -Force -Path whisper-binaries/windows-cuda
+          Copy-Item whisper.cpp/build/bin/Release/whisper-cli.exe whisper-binaries/windows-cuda/
+          Copy-Item whisper.cpp/build/bin/Release/*.dll whisper-binaries/windows-cuda/
+          Write-Host "=== Final contents ==="
+          Get-ChildItem whisper-binaries/windows-cuda/ | Format-Table Name, Length
+
+      - name: Upload Windows CUDA binary
+        uses: actions/upload-artifact@v4
+        with:
+          name: whisper-windows-cuda
+          path: whisper-binaries/windows-cuda/
+
   combine-artifacts:
-    needs: [build-whisper-linux, build-whisper-macos, build-whisper-windows]
+    needs:
+      [
+        build-whisper-linux,
+        build-whisper-macos,
+        build-whisper-windows,
+        build-whisper-windows-cuda,
+      ]
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -199,10 +253,12 @@ jobs:
           mkdir -p combined/linux
           mkdir -p combined/macos
           mkdir -p combined/windows
+          mkdir -p combined/windows-cuda
 
           cp artifacts/whisper-linux/* combined/linux/ 2>/dev/null || true
           cp artifacts/whisper-macos/* combined/macos/ 2>/dev/null || true
           cp artifacts/whisper-windows/* combined/windows/ 2>/dev/null || true
+          cp artifacts/whisper-windows-cuda/* combined/windows-cuda/ 2>/dev/null || true
 
           echo "=== Binary sizes ==="
           find combined -type f -exec ls -lh {} \;
