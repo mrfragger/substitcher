@@ -345,14 +345,6 @@ Bebida,
 - vino puro y sellado, 83:25
 Duha, S.93
 Dukhan, S.44
-Tierra, 51:20; 51:48; 91:6
-- transformada en otra tierra, 14:48
-- creación de la, 3:190; 79:30
-- en seis "días", 7:54; 10:3; 11:7; 25:59; 50:38; 57:4
-- en dos "días", 41:9
-- el resto en los otros cuatro, 41:10
-- inclinación del eje de rotación respecto al plano orbital, 22:61; 57:6
-- rotación de la, 3:190; 7:54; 10:6; 13:3; 14:33; 25:62; 39:5; 41:37; 45:5
 Ejército del Elefante, 105:1-5
 Elías (Ilyasin) 6:85; 37:123-132
 Eliseo, (Alyasa') 6:86; 38:48

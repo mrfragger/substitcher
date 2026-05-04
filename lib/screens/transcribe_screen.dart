@@ -1473,6 +1473,20 @@ List<String> _availableAudiobooks = [];
                   activeColor: Colors.deepPurple,
                 ),
               ),
+              Expanded(
+                child: CheckboxListTile(
+                  title: const Text('Use GPU', style: TextStyle(color: Colors.white)),
+                  subtitle: const Text('Requires CUDA build of whisper.cpp', style: TextStyle(color: Colors.white54, fontSize: 11)),
+                  value: _whisperService.useGpu,
+                  onChanged: (value) {
+                    setState(() {
+                      _whisperService.useGpu = value!;
+                      _whisperService.saveSettings();
+                    });
+                  },
+                  activeColor: Colors.green,
+                ),
+              ),
               if (_whisperService.selectedModel != 'large-v3-turbo')
                 Expanded(
                   child: CheckboxListTile(

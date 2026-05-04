@@ -348,14 +348,6 @@ Getränke,
 - reiner versiegelter Wein, 83:25
 Duha, S.93
 Dukhan, S.44
-Erde, 51:20; 51:48; 91:6
-- verwandelt in eine andere Erde, 14:48
-- Erschaffung der, 3:190; 79:30
-- in sechs „Tagen", 7:54; 10:3; 11:7; 25:59; 50:38; 57:4
-- in zwei „Tagen", 41:9
-- der Rest in den anderen vier, 41:10
-- Neigung der Rotationsachse zur Umlaufbahn, 22:61; 57:6
-- Rotation der, 3:190; 7:54; 10:6; 13:3; 14:33; 25:62; 39:5; 41:37; 45:5
 Elefantenheer, 105:1-5
 Elias (Elia; Ilyasin), 6:85; 37:123-132
 Elisa (Alyasa'), 6:86; 38:48

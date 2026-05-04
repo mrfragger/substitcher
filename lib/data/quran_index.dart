@@ -636,14 +636,6 @@ Drink,
 - pure sealed wine, 83:25
 Duha, S.93
 Dukhan, S.44
-Earth, 51:20; 51:48; 91:6
-- changed into another earth, 14:48
-- creation of, 3:190; 79:30
-- in six "days", 7:54; 10:3; 11:7; 25:59; 50:38; 57:4
-- in two "days", 41:9
-- the rest in the other four, 41:10
-- inclination of rotational axis to orbital plane, 22:61; 57:6
-- rotation of, 3:190; 7:54; 10:6; 13:3; 14:33; 25:62; 39:5; 41:37; 45:5
 Elephant army, 105:1-5
 Elias (Elijah; Ilyasin) 6:85; 37:123-132
 Elisha, (Alyasa') 6:86; 38:48

@@ -20,7 +20,8 @@ class WhisperService {
   String segmentTime = '0:30';
   int maxLength = 80;
   bool splitOnWord = true;
-  bool translateToEnglish = false;
+  bool translateToEng lish = false;
+  bool useGpu = true;
 
   Process? _currentWhisperProcess;
   bool _shouldCancelTranscription = false;
@@ -43,7 +44,6 @@ class WhisperService {
 
   int msOffset = 0;
   bool printColors = false;
-  bool useGPU = true;
   String customPrompt = "The example of those who disbelieve is like that of one who shouts at what hears nothing but calls and cries i.e., cattle or sheep - deaf, dumb and blind, so they do not understand.";
 
   List<String> customPromptHistory = [];
@@ -70,6 +70,7 @@ class WhisperService {
     splitOnWord = prefs.getBool('whisperSplitOnWord') ?? true;
     customPrompt = prefs.getString('whisperPrompt') ?? customPrompt;
     translateToEnglish = prefs.getBool('whisperTranslate') ?? false;
+    useGpu = prefs.getBool('useGpu') ?? true;
 
     customPromptHistory = prefs.getStringList('whisperPromptHistory') ?? [];
   }
@@ -170,6 +171,7 @@ class WhisperService {
     await prefs.setBool('whisperSplitOnWord', splitOnWord);
     await prefs.setString('whisperPrompt', customPrompt);
     await prefs.setBool('whisperTranslate', translateToEnglish);
+    await prefs.setBool('useGpu', useGpu);
     await prefs.setStringList('whisperPromptHistory', customPromptHistory);
   }
 
@@ -798,6 +800,10 @@ class WhisperService {
 
     if (printColors) {
       args.add('-pc');
+    }
+
+    if (!useGpu) {
+      args.add('-ng');
     }
 
     args.addAll(['--prompt', customPrompt]);

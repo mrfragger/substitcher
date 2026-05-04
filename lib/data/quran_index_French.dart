@@ -347,14 +347,6 @@ Boissons,
 - vin pur et cacheté, 83:25
 Duha, S.93
 Dukhan, S.44
-Terre, 51:20; 51:48; 91:6
-- transformée en une autre terre, 14:48
-- création de la, 3:190; 79:30
-- en six « jours », 7:54; 10:3; 11:7; 25:59; 50:38; 57:4
-- en deux « jours », 41:9
-- le reste en quatre autres jours, 41:10
-- inclinaison de l'axe de rotation sur le plan orbital, 22:61; 57:6
-- rotation de la, 3:190; 7:54; 10:6; 13:3; 14:33; 25:62; 39:5; 41:37; 45:5
 Armée de l'éléphant, 105:1-5
 Élie (Ilyas ; Ilyasin) 6:85; 37:123-132
 Élisée (Alyasa') 6:86; 38:48
