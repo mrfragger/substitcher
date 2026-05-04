@@ -10,7 +10,7 @@ import '../models/audiobook_metadata.dart';
 class FFmpegService {
   String? _ffmpegPath;
   String? _ffprobePath;
-  late final Shell _shell;
+  late Shell _shell;
 
   String? get ffmpegPath => _ffmpegPath;
   String? get ffprobePath => _ffprobePath;

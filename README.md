@@ -492,6 +492,15 @@ Installation Steps
 **Note:** The "Install unknown apps" warning is standard Android security for any app installed outside the Google Play Store — it does not mean the app is unsafe.
 </details>
 
+
+<details>
+<summary>Nvidia cards Windows and Linux</summary>
+
+download and in transcribe screen point it to use this whisper-cli.exe instead of the bundled one to use GPU Nvidia card.  If it crashes, install the CUDA Runtime 12.x from NVIDIA
+![whisper-windows-cuda.zip 35MB](https://github.com/mrfragger/substitcher/raw/main/images/whisper-windows-cuda.zip) 
+
+</details>
+
 ### Various
 <details>
 <summary>Opus audio codec</summary>
