@@ -1,8 +1,22 @@
+import 'quran_index_Bengali.dart';
 import 'quran_index_Chinese.dart';
 import 'quran_index_French.dart';
 import 'quran_index_German.dart';
+import 'quran_index_Hindi.dart';
+import 'quran_index_Indonesian.dart';
+import 'quran_index_Italian.dart';
 import 'quran_index_Japanese.dart';
+import 'quran_index_Korean.dart';
+import 'quran_index_Portuguese.dart';
+import 'quran_index_Russian.dart';
 import 'quran_index_Spanish.dart';
+import 'quran_index_Swahili.dart';
+import 'quran_index_Swedish.dart';
+import 'quran_index_Tagalog.dart';
+import 'quran_index_Thai.dart';
+import 'quran_index_Turkish.dart';
+import 'quran_index_Urdu.dart';
+import 'quran_index_Vietnamese.dart';
 
 /// Verse counts per surah (1-indexed, index 0 is unused)
 const List<int> quranVerseCounts = [
@@ -28,9 +42,7 @@ const Map<String, List<int>> quranFileRanges = {
   '025-036': [25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36],
   '037-049': [37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49],
   '050-069': [50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69],
-  '070-114': [70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89,
-              90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107,
-              108, 109, 110, 111, 112, 113, 114],
+  '070-114': [70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114],
 };
 
 String? getRangeKeyForSurah(int surah) {
@@ -272,17 +284,43 @@ const List<String> availableQuranIndexLanguages = [
   'Chinese',
   'French',
   'German',
+  'Hindi',
+  'Indonesian',
+  'Italian',
   'Japanese',
+  'Korean',
+  'Portuguese',
+  'Russian',
   'Spanish',
+  'Swedish',
+  'Tagalog',
+  'Thai',
+  'Turkish',
+  'Urdu',
+  'Vietnamese',
 ];
 
 String getQuranIndexRaw(String language) {
   switch (language) {
+    case 'Bengali': return quranIndexBengaliRaw;
     case 'Chinese': return quranIndexChineseRaw;
     case 'French': return quranIndexFrenchRaw;
     case 'German': return quranIndexGermanRaw;
+    case 'Hindi': return quranIndexHindiRaw;
+    case 'Indonesian': return quranIndexIndonesianRaw;
+    case 'Italian': return quranIndexItalianRaw;
     case 'Japanese': return quranIndexJapaneseRaw;
+    case 'Korean': return quranIndexKoreanRaw;
+    case 'Portuguese': return quranIndexPortugueseRaw;
+    case 'Russian': return quranIndexRussianRaw;
     case 'Spanish': return quranIndexSpanishRaw;
+    case 'Swahili': return quranIndexSwahiliRaw;
+    case 'Swedish': return quranIndexSwedishRaw;
+    case 'Tagalog': return quranIndexTagalogRaw;
+    case 'Thai': return quranIndexThaiRaw;
+    case 'Turkish': return quranIndexTurkishRaw;
+    case 'Urdu': return quranIndexUrduRaw;
+    case 'Vietnamese': return quranIndexVietnameseRaw;
     default: return quranIndexRaw;
   }
 }

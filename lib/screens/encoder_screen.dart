@@ -326,6 +326,32 @@ class _EncoderScreenState extends State<EncoderScreen> {
   @override
   void initState() {
     super.initState();
+    _ffmpeg.onWindowsDebugMessage = (message) {
+      if (mounted && Platform.isWindows) {
+        showDialog(
+          context: context,
+          builder: (context) => AlertDialog(
+            title: const Text('FFmpeg Debug Info'),
+            content: SingleChildScrollView(
+              child: SelectableText(
+                message,
+                style: const TextStyle(fontFamily: 'monospace', fontSize: 11),
+              ),
+            ),
+            actions: [
+              TextButton(
+                onPressed: () => Navigator.pop(context),
+                child: const Text('Close'),
+              ),
+            ],
+          ),
+        );
+
+        Future.delayed(const Duration(seconds: 20), () {
+          if (mounted) Navigator.of(context, rootNavigator: true).pop();
+        });
+      }
+    };
     _checkFFmpeg();
     _whisperService.initialize();
   }
@@ -346,6 +372,48 @@ class _EncoderScreenState extends State<EncoderScreen> {
     final available = await _ffmpeg.checkFFmpegAvailable();
     if (!available && mounted) {
       _showError('FFmpeg not found!\n\nInstall:\nMac: brew install ffmpeg\nLinux: sudo apt install ffmpeg\nWindows: choco install ffmpeg');
+    }
+  }
+
+  Future<void> _testFfmpeg() async {
+    await _ffmpeg.ensureBinaries();
+    final buffer = StringBuffer();
+    buffer.writeln('Platform: ${Platform.operatingSystem}');
+    buffer.writeln('ffmpeg path: ${_ffmpeg.ffmpegPath}');
+    buffer.writeln('ffprobe path: ${_ffmpeg.ffprobePath}');
+    buffer.writeln('ffmpeg exists: ${_ffmpeg.ffmpegPath != null && await File(_ffmpeg.ffmpegPath!).exists()}');
+    buffer.writeln('ffprobe exists: ${_ffmpeg.ffprobePath != null && await File(_ffmpeg.ffprobePath!).exists()}');
+
+    try {
+      final result = await Process.run(
+        _ffmpeg.ffmpegPath!,
+        ['-version'],
+      ).timeout(const Duration(seconds: 5));
+      buffer.writeln('\nExit code: ${result.exitCode}');
+      buffer.writeln('Output: ${result.stdout.toString().split('\n').first}');
+    } catch (e) {
+      buffer.writeln('\nERROR running ffmpeg: $e');
+    }
+
+    if (mounted) {
+      showDialog(
+        context: context,
+        builder: (context) => AlertDialog(
+          title: const Text('FFmpeg Diagnostic'),
+          content: SingleChildScrollView(
+            child: SelectableText(
+              buffer.toString(),
+              style: const TextStyle(fontFamily: 'monospace', fontSize: 11),
+            ),
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.pop(context),
+              child: const Text('Close'),
+            ),
+          ],
+        ),
+      );
     }
   }
 
@@ -2694,6 +2762,17 @@ class _EncoderScreenState extends State<EncoderScreen> {
                         ),
                       ),
                   ],
+                ),
+              ),
+              const SizedBox(width: 16),
+              ElevatedButton.icon(
+                onPressed: _testFfmpeg,
+                icon: const Icon(Icons.bug_report, size: 16),
+                label: const Text('Test FFmpeg'),
+                style: ElevatedButton.styleFrom(
+                  backgroundColor: Colors.deepOrange,
+                  foregroundColor: Colors.white,
+                  padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
                 ),
               ),
             ],

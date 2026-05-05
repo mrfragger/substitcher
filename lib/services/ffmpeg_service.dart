@@ -14,6 +14,7 @@ class FFmpegService {
 
   String? get ffmpegPath => _ffmpegPath;
   String? get ffprobePath => _ffprobePath;
+  Function(String)? onWindowsDebugMessage;
 
   Future<void> ensureBinaries() async {
     await _ensureBinaries();
@@ -21,7 +22,9 @@ class FFmpegService {
 
   FFmpegService() {
     final environment = Map<String, String>.from(Platform.environment);
-    environment['PATH'] = '/opt/homebrew/bin:/usr/local/bin:${environment['PATH']}';
+    if (Platform.isMacOS) {
+      environment['PATH'] = '/opt/homebrew/bin:/usr/local/bin:${environment['PATH']}';
+    }
     _shell = Shell(environment: environment);
   }
 
@@ -199,11 +202,12 @@ class FFmpegService {
         final executablePath = Platform.resolvedExecutable;
         final executableDir = path.dirname(executablePath);
 
-        await _writeLog('Windows executable path: $executablePath');
-        await _writeLog('Windows executable dir: $executableDir');
+        final msg = StringBuffer();
+        msg.writeln('Windows executable path: $executablePath');
+        msg.writeln('Windows executable dir: $executableDir');
 
         final bundledBinDir = path.join(executableDir, 'bin');
-        await _writeLog('Looking for ffmpeg in: $bundledBinDir');
+        msg.writeln('Looking for ffmpeg in: $bundledBinDir');
 
         final bundledFfmpeg = path.join(bundledBinDir, 'ffmpeg.exe');
         final bundledFfprobe = path.join(bundledBinDir, 'ffprobe.exe');
@@ -211,20 +215,22 @@ class FFmpegService {
         final ffmpegExists = await File(bundledFfmpeg).exists();
         final ffprobeExists = await File(bundledFfprobe).exists();
 
-        await _writeLog('ffmpeg.exe exists: $ffmpegExists at $bundledFfmpeg');
-        await _writeLog('ffprobe.exe exists: $ffprobeExists at $bundledFfprobe');
+        msg.writeln('ffmpeg.exe exists: $ffmpegExists at $bundledFfmpeg');
+        msg.writeln('ffprobe.exe exists: $ffprobeExists at $bundledFfprobe');
 
         if (ffmpegExists && ffprobeExists) {
           _ffmpegPath = bundledFfmpeg;
           _ffprobePath = bundledFfprobe;
-          await _writeLog('Using bundled ffmpeg: $_ffmpegPath');
-          await _writeLog('Using bundled ffprobe: $_ffprobePath');
-          return;
+          msg.writeln('Using bundled ffmpeg: $_ffmpegPath');
+          msg.writeln('Using bundled ffprobe: $_ffprobePath');
+        } else {
+          _ffmpegPath = 'ffmpeg';
+          _ffprobePath = 'ffprobe';
+          msg.writeln('WARNING: Falling back to system ffmpeg/ffprobe - binaries not found!');
         }
 
-        _ffmpegPath = 'ffmpeg';
-        _ffprobePath = 'ffprobe';
-        await _writeLog('WARNING: Falling back to system ffmpeg/ffprobe - binaries not found!');
+        await _writeLog(msg.toString());
+        onWindowsDebugMessage?.call(msg.toString());
       } else {
         _ffmpegPath = 'ffmpeg';
         _ffprobePath = 'ffprobe';

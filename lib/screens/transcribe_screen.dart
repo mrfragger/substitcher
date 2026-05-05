@@ -380,11 +380,6 @@ List<String> _availableAudiobooks = [];
     _progressUpdateTimer = Timer.periodic(const Duration(milliseconds: 500), (timer) {
       if (!_whisperService.isTranscribing) {
         timer.cancel();
-        if (mounted) {
-          setState(() {
-            _isTranscribing = false;
-          });
-        }
       } else if (mounted) {
         setState(() {
           _transcriptionStatus = _whisperService.transcriptionStatus;
