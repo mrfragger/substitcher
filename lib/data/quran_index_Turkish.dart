@@ -1,3 +1,2939 @@
 const String quranIndexTurkishRaw = r"""
-not yet
+Harun (Aaron) 2:248; 4:163; 6:84; 7:122, 142; 10:75; 19:28, 53; 20:30, 70, 90, 92; 21:48; 23:45; 25:35; 26:13, 48; 28:34; 37:114, 120.
+
+'Abasa, S.80; 74:22
+
+Abdest (Wudu), 4:43; 5:6
+
+İbrahim (Abraham) S.14; 2:135-136, 148; 3:33, 84, 95; 4:54, 125, 163; 6:161; 9:70, 114; 12:6, 38; 16:120; 19:58; 21:51, 60, 62, 69; 22:43, 78; 26:69; 29:31; 33:7; 37:83, 104, 109; 38:45; 42:13; 43:26; 51:24; 53:37; 57:26; 60:4; 87:19
+- ne Yahudi ne de Hristiyan, 3:67-68
+- Beytullah'taki ilk mabette durdu, 3:97; 26:123
+- Kâbe'nin temellerini yükseltir 2:124-129;
+- halkını tek gerçek Allah'a ibadete davet eder 2:130-133; 26:69-89; 29:16; 29:24-27;
+- kibirli kralla tartışır 2:258,
+- diriliş hakkında soru sorar 2:260;
+- ne Yahudi ne de Hristiyan 3:65-68;
+- gök cisimlerine tapınmayı reddeder 6:74-87;
+- İshak'ın doğumuna dair müjdeyi alır 11:69-76; 51:24-30;
+- Kâbe'deki duası 14:35-41;
+- melekler tarafından ziyaret edilir 15:51-56;
+- bir rol model 16:123;
+- babasını hakikate davet eder 19:41-50;
+- putları yıkar ve ateşten kurtulur 21:51-73; 37:83-113;
+- herkesi hacca davet eder 22:26
+
+Ebrâr, 3:193, 198; 76:5; 82:13; 83:18-22
+
+Nesih (Abrogation), 2:106, 16:101
+
+Ebu Leheb, 111:1-5
+
+Âd kavmi, 7:65-74; 9:70; 11:59; 14:9; 22:42; 25:38; 26:123; 29:38; 38:12; 40:31; 41:13, 15; 46:21; 50:13; 51:41; 53:50; 54:18; 69:4-6; 89:6
+
+Âdem, 3:33, 59; 5:27; 7:26-27, 31, 35, 172; 17:70; 19:58; 36:60
+- meleklerin önünde secde etmesi, 2:34; 7:11
+- bilgi ağacı, 2:35; 7:19-20; 20:120-121
+- Cennetten çıkarılması (Havva'ya suç yüklenmez), 2:36; 7:24
+- Allah tarafından onurlandırılır, Şeytan tarafından ayartılır 2:30-38; 7:11-25; 17:61-65; 18:50; 20:115-123; 38:71-85;
+- Allah tarafından affedilir 2:37; 20:122
+
+'Adiyat, S.100
+
+Adn Cenneti, 9:72; 13:23; 16:31; 18:31;
+19:61; 20:76; 35:33; 38:50; 40:8; 61:12; 98:8
+
+Sıkıntı
+- başkasının yükü yüklenmez, 6:164; 17:15; 35:18; 39:7; 53:38
+- dayanma gücünün ötesinde yük yüklenmez, 2:286; 6:152; 7:42; 23:62
+- sıkıntı sırasında sabır, 2:153; 2:155; 2:177; 2:250; 3:17; 3:125; 3:142; 3:146; 3:186; 3:200; 7:87; 7:126; 7:128; 7:137; 8:46; 8:65; 8:66; 10:109; 11:11; 11:49; 11:115; 12:18; 12:83; 12:90; 13:22; 16:96; 16:110; 16:126; 21:85; 22:35; 23:111; 28:54; 29:59; 30:60; 31:17; 31:31; 37:102; 38:44; 39:10; 40:55; 40:77; 41:35; 42:33; 46:35; 47:31; 70:5; 76:12; 90:17; 103:3
+
+Yaşlanma, 16:70; 22:5; 30:54; 36:68
+- bakımınızdaki yaşlı ebeveynlere davranış, 17:23
+
+Ahmed, 61:6
+
+Ahkaf, S.46; 46:21
+
+Ahzab, S.33; 11:17; 13:36; 19:37; 38:11, 13; 40:5, 30; 43:65
+
+Eyke halkı, 15:78; 26:176; 38:13; 50:14
+
+A'la S.87; 87:1; 92:20
+
+'Alak, S.96
+
+Âl-i İmran, S.3
+
+Allah
+- O'nun için bir gün elli bin yıldır, 70:4
+- O'nun için bir gün bin insan yılıdır, 22:47; 32:5
+- her şeye gücü yeter, 2:106; 2:117; 3:165; 3:189; 8:41; 9:116; 11:4; 16:40; 40:68; 41:39; 42:49; 57:2
+- hüküm verenlerin en iyisidir, 95:8
+- tanımın ötesindedir, 43:82; 67:12
+- inkârcıların planlarını boşa çıkarır, 8:30; 8:36
+- insanları yok edip başka varlıklar getirebilir, 4:133; 14:19; 35:16
+- gülmeyi ve ağlamayı yaratan O'dur, 53:43
+- bir adamı bir asır uyuttu, 2:259
+- hakikati inkâr edenlerin düşmanı, 2:98
+- sabah akşam O'nu tesbih et, 33:42
+- O'nun sahte kızları, 16:57; 17:40; 43:16; 52:39; 53:21-22
+- ismiyle, 53:19-20
+- insanlara özgür irade verir, 36:67
+- her şeyi O'na adamak, 4:66-68; 4:125
+- hayır ve şer O'ndandır, 4:78
+- hayat ve ölümü verir, 44:8; 53:44; 57:2; 67:2
+- çok çalışanlar daha iyi ödüllendirilir, 4:95-96; 5:54; 9:120; 49:15; 61:11
+- eşi yoktur, 72:3
+- oğlu yoktur, 43:81; 72:3; 112:3
+- zor zamanlarında seni terk etmedi, 93:3
+- her yerde bilgisiyle hazır ve nazırdır, 2:115; 2:142; 2:177; 4:126
+- İlk ve Son'dur (alfa ve omega), 57:3
+- Zahir ve Batın'dır, 57:3
+- kavrayışın ötesindekini bilir, 6:59; 6:73; 9:94; 9:105; 13:9; 32:6; 34:48; 35:38-39:46; 49:18; 59:22; 62:8; 64:18; 72:26; 74:31; 87:7
+- adaletli davrananlara sevgi duyar, 49:9
+- hakkında konuşmadığı şeyler için hüküm koymamıştır, 5:101; 6:140; 6:148; 7:32
+- içlerinde iyilik bulunan savaş esirlerine merhamet, 8:70
+- mahiyeti, 2:255
+- hiçbir insan ilah değildir, 3:64; 3:151
+- teslis değildir, 4:171
+- kötülükten O'na sığınmak, 113:1-5; 114:1-6
+- ayakta, otururken, uzanmışken O'nu anmak, 3:191; 4:103; 10:12; 25:64
+- seni rahimde şekillendirir, 3:6
+- tahtı suyun üzerindedir, 11:7
+- bilmediğin şeyler yaratacaktır, 16:8
+- yarattıklarına haksızlık dilemez, 3:108; 4:40; 17:71; 21:47; 22:10; 26:209; 40:31; 41:46; 45:22; 50:29; 64:11
+
+İttifaklar, 8:72; 9:7
+- Hristiyanlar ve Yahudiler, 5:51
+- inkârcı akrabalarla yasak, 9:23-24
+- münafıklarla yasak, 4:88-89; 4:139; 4:144
+
+Elyesa' (bkz. Elisha)
+
+Emanet ve Allah'ın farz kıldığı görevler vb., 2:283; 4:58; 8:27
+- bkz. Güven
+
+Melekler, 2:30-34; 2:98; 2:285; 4:97; 8:50; 13:23; 21:108; 22:75; 25:22; 25:25; 32:11; 33:43; 33:56; 34:40; 35:1; 37:150; 38:71; 39:75; 41:14; 41:30; 42:5; 43:53; 43:60; 47:27; 53:26; 66:4; 66:6; 69:17; 70:4; 89:22; 97:4
+- ateşten yaratılmıştır, 7:12; 38:76
+- sekizi Kıyamet Günü Allah'ın tahtını yüksekte taşıyacak, 69:17
+- dişi oldukları yönündeki asılsız iddia, 43:19; 53:27
+- koruyucu, 82:10-12; 86:4
+- on dokuzu cehenneme hükmeder, 74:30-31
+- hevesleri tatmin için gönderilmezler, 15:7-8
+- ilham vermek için gönderilirler, 16:2
+
+Öfke, tut, 3:134
+
+'Ankebut, S.29
+
+Karıncalar, 27:18
+
+Maymunlar, 5:60
+- aşağılık, 2:65; 7:166
+
+İrtidat, 3:72; 3:86-88; 3:90-91; 3:167; 4:137; 5:54; 9:74; 9:107; 16:106; 33:14
+- mürtetler için çabuk azap isteme, 46:35
+- yalnızca Allah onları cezalandıracak, 73:11; 74:11
+- ahirette ceza, 2:217; 9:74
+- başkalarının reddi, 3:87
+- tövbe, 3:89; 5:34; 9:5; 9:11
+- Kıyamet Günü'nde çok geç, 40:85
+- baskı altında, 16:106
+
+Mürtetler, 47:25
+
+A'raf, S.7; 7:46, 48
+
+Arafat, 2:198
+
+Tartışmak,
+- kendini aldatanlar adına tartışma, 4:107
+- onlar için bu dünyada tartıştın, peki Kıyamet Günü'nde kim tartışacak, 4:109
+
+Tartışmalar/Saldırılar
+- misliyle karşılık ver, 8:58
+- sabırlı olmak çok daha iyidir, 16:126
+
+Zırh, 16:81
+
+'Asr, S.103
+
+Ayetü'l-Kürsi, 2:255
+
+Gıybet eden, 49:12; 104:1
+
+Bedir (savaşı), 3:13,
+- dersler, 8:5-19, 42-48
+
+El-Beytü'l-Ma'mur, 52:4
+
+Bekkah (Mekke), 3:96
+
+Ba'l, 37:125
+
+Beled, S.90
+
+Denge, 7:8-9; 17:35; 21:47; 55:7-9; 57:25; 101:6-9
+
+Beni Nadir, 59:2-6, 13
+
+Bakara, S.2
+
+Berâe (bkz. Tevbe), S.9
+
+Berzah (Engel), 23:100; 25:53; 55:20;
+- ayrıca bkz. 18:94-97; 34:54; 36:9
+
+Beyyine, S.98
+
+Dabbetü'l-Arz (Ahir Zamanın Canavarı), 27:82
+
+Bedeviler, 9:90, 97-99, 101, 120; 48:11, 16; 49:14
+
+Arı, 16:68-69
+
+Davranış
+- daha önce vahiy verilenlere nazikçe tartış, 16:125, 29:46
+- hiçbir şey bilmediğin konulara karışmaktan kaçın, 17:36
+- büyük günahlardan ve çirkin işlerden kaçın, 53:32
+- birbiriniz hakkında tahminde bulunmayın, casusluk yapmayın ve birbirinizin gıybetini etmeyin, 49:12
+- görüşlerinde adil ol, 6:152
+- toplum ılımlı olmalıdır, 2:143; 25:67
+- kibir hoş karşılanmaz, 4:36, 57:23
+- yardım isteyenleri azarlama, 93:10
+- kendini temiz sayma, 53:32
+- başkalarıyla alay etme, 49:11; 104:1
+- kötü şeyleri açıkça söyleme, 4:148
+- birbirinizin gıybetini etmeyin, 104:1
+- her topluluğa bir şeriat ve bir yol verilmiştir, 2:148; 5:48; 10:47; 10:74; 13:38; 16:36; 16:63; 16:84
+- ve bir ibadet biçimi, 22:67
+- Allah onları tek bir ümmet yapabilirdi, 5:48; 11:118; 16:93; 42:8
+- Allah altında tek ümmet, 21:92
+- Yahudileri affet, 5:13
+- inkârcıları affet, 31:15; 45:14
+- kolayca affet, 42:37
+- yöneticiler istişare ederek karar alır, 42:38
+- ve bir peygamber, 10:47; 16:36
+- müminlere iftira atmak günahtır, 33:58
+- erkeklerin (kadınlara) davranışı, 24:30
+- barış sağlayanlar ödüllendirilir, 42:40
+- başka bir şey yapamıyorsan muhtaçlara adil konuş, 17:28
+- bakımındaki yaşlı ebeveynlere davranış, 17:23
+- diğer Müslümanlara davranış, 33:6
+- başkalarına davranış, 17:26-29; 17:35; 17:53; 60:8
+- ebeveynlere davranış, 46:15
+- kölelere davranış, 4:36; 24:33
+- savaşmayan inkârcılara adil davran, 60:8
+- Peygamberin eşleri, 33:28-34
+- kadınların (erkeklere) davranışı, 24:31
+- tüm vahiylerde, 2:136; 2:285
+- mahiyeti, 49:14-15
+
+Müminler, 2:2-5; 2:285; 8:2-4; 8:24
+
+Vasiyet, 2:180, 240; 4:7, 12; 36:50
+
+İhanet (aldatma, hile), 2:187; 4:107; 5:13; 8:27, 58, 71; 12:52; 22:38; 66:10
+
+İncil, 5:64, 5:65, 5:68
+- tahrifi, 3:78; 5:14-15
+
+Kuşlar, 2:260; 3:49; 5:110; 6:38; 12:36, 41; 16:79; 21:79; 22:31; 24:41; 27:16-17, 20; 34:10; 38:19; 56:21; 67:19; 105:3
+
+Diyet, 2:178-179; 4:92; 17:33
+
+Ganimet, 4:94; 8:41; 59:6-8;
+- yasadışı alma, 3:162
+- bkz. ganimetler
+
+Rüşvet, 2:188
+
+Büdn, 22:36
+
+Yük
+- başkasının yükünü taşıyan olmaz, 35:18; 39:7; 53:38
+- inkârcılar başkalarının yükünü de taşıyacak, 16:25; 29:13
+- taşıyacakları yükler ne kötüdür, 6:31, 164
+- Allah kimseye gücünün üstünde yük yüklemez, 2:286; 7:42; 23:62
+
+Buruc (Büyük yıldızlar), S.85; 85:1; 15:16; 25:61
+
+Deve, 6:144; 7:40; 77:33; 88:17
+
+Esirler, 4:25; 8:67, 70, 71; 9:60; 33:26-27; 76:8
+- bkz. ayrıca Savaş esirleri
+
+Hayvanlar, 3:14; 4:119; 5:1; 6:136, 138, 139, 142; 7:179; 10:24; 16:5-8, 10, 66, 80; 20:54; 22:28, 30, 34; 23:21; 25:44, 49; 26:133; 32:27; 35:28; 36:71-73; 39:6; 40:79; 42:11; 43:12-13; 47:12; 79:33; 80:32
+
+Sevr Mağarası, 9:40
+
+Mağara, ashabı, 18:9-22, 25-26
+
+Hakka ile kesinlik, 56:95; 69:51
+
+Sadaka, 2:196, 263, 264, 270, 271, 273; 4:114; 9:58, 75, 76-79, 103, 104; 57:18; 58:12-13
+- sadaka ve zekâtın verilecekleri, 2:273; 9:60
+
+Çocuklar, 2:233; 42:49-50
+- bilgisizlik ve ahmaklıkla çocuklarını öldürenler ziyan etmiştir, 6:140
+
+Mesih (bkz. İsa)
+
+Hristiyanlar, 5:14, 19, 64-65, 69; 22:17
+- İsa'yı ilah edinmemeleri istendi, 4:171
+- Müslümanlara en yakın sevgiyi hissedenlerin başında gelir, 5:82
+- çoğu kendilerine hatırlatılanı unutmuştur, 5:14
+- şimdi size bir elçi geldi, 5:15, 19
+- salihler ödüllendirilecek, 2:62; 5:65; 5:69
+- "İsa Allah'ın oğludur" derler, 9:30
+
+Yıkılan şehirler, 69:9
+
+Güvenlik şehri, 95:3
+
+Giysi, 7:26; 16:81
+- ateş giysisi, 22:19
+- örtü veya ev dışındaki durumlarda kadın giysisi, 24:31
+- kadınların dış giysileri münafıkların tacizini önler, 33:59-60
+
+Ahzab, 33:9, 22
+- bkz. Ahzab / İstişare, karşılıklı, 42:38
+
+Yaratılış,
+- başlar ve tekrarlanır, 10:4; 21:104; 27:64; 29:19-20
+- yeni bir yaratılış, 17:49, 98; 35:16
+- hak ile, 15:85; 16:3; 29:44; 39:5; 44:39; 45:22; 46:3
+- oyun için değil, 21:16-17; 23:115
+- her canlı şey sudan yapılmıştır, 21:30; 24:45; 25:54
+- insanın yaratılışı, 4:1; 6:2; 15:26, 28, 33; 16:4; 21:30; 22:5; 23:12-14; 25:54; 32:7-9; 35:11; 36:77-78; 37:11; 39:6; 40:67; 49:13; 55:14; 56:57-59; 75:37-40; 76:1-2; 77:20-23; 80:18-19; 86:5-8; 96:2
+- ilk biçimi, 56:62
+- altı günde, 7:54; 11:7; 32:4; 50:38; 57:4
+- çiftler halinde, 13:3; 30:8; 36:36; 42:11; 43:12; 51:9, 49; 53:45
+- çeşitlilik, 35:27-28
+- Allah "Ol!" der — ve olur, 2:117; 16:40; 36:82; 40:68
+- göz kırpması kadar hızlı, 54:50
+- gece ve gündüz, güneş ve ay, 39:5
+- göklerin ve yerin yaratılışı insanın yaratılışından büyüktür, 40:57; 79:27
+- yaratılışın amacı, 51:56
+
+Karga, 5:31
+
+Furkan, 2:53, 185; 3:4; 8:29, 41; 21:48; 25:1
+
+Dehr (bkz. İnsan,) S.76; 45:24
+- zaman, 76:1; 103:1
+
+Davud, 5:78; 6:84; 17:55; 34:10, 13; 38:17-30;
+- Zebur'u aldı, 4:163
+- Calut ile savaştı ve onu öldürdü, 2:251
+- bir hüküm verdi, 21:78-80;
+- bilgi ve peygamberlikle nimetlendi, 27:15-16;
+- dağlar ve kuşlar ona Allah'ı tesbihte eşlik eder, 34:10; 38:17-20;
+- iki kişi arasında hükmeder, 38:21-26
+
+Dâbbe (hareket eden canlı varlık vb.) 2:164; 6:38; 8:22, 55; 11:6, 56; 16:49, 61; 22:18; 24:45; 27:82; 29:60; 31:10; 34:14; 35:28, 45; 42:29; 45:4
+
+Ölüler diriltilecek, 6:36
+
+Ölüm, 3:185; 3:193; 4:78; 6:61; 6:93; 21:35; 23:99-108; 31:34; 32:11; 33:19; 33:23; 44:56; 47:27; 50:19-20; 56:60-62; 56:83-96; 75:29; 75:26-35
+- savaştan kaçmak ve ölüm, 33:16
+- Allah yolunda ölüm, 3:195; 22:58; 47:4
+- kendilerine vahiy gelmemiş topluluklar yok edilmeyecek, 6:131; 9:115; 10:47; 11:117; 15:4; 16:119; 17:15; 28:59
+- Allah yolunda öldürülenler diridir, 2:154; 3:169
+- kötülükten Allah'a doğru kaçarken, 4:100
+- durdurulamaz veya ertelenemez, 63:10-11;
+- uykunun ikiz kardeşi, 6:60; 39:42;
+- ölüm anında müminler ve inkârcılar, 8:50; 16:27-32; 41:30;
+- kabir azabı, 40:46
+
+Borçlar, 2:280, 282; 4:11-12
+
+Kader,
+- her mesele için bir kader vardır, 13:38
+- hiçbir kasabayı bilinen bir kaderi olmaksızın yok etmedik, 15:4
+- her işin kararı Allah'tandır, 44:5
+- bir şeyi dilediğinde yalnızca "Ol!" der — ve olur, 2:117; 36:82; 40:68
+
+Ameller,
+- kötü ameller onlara süslü gösterilmiştir, 47:14
+- bizim amellerimiz bize, sizin amelleriniz size, 28:55; 42:15; 45:15
+- iyilik ve kötülük kendi lehinedir ve aleyhinedir, 41:46
+- insanın amellerini kendi boynuna astı, 17:13
+
+Dereceler, yaptıklarına göre, 6:132
+
+Arzu, kötü arzularına uyanlar, 47:14, 16
+- kendi hevesini ilah edinenler, 25:43
+
+Allah'ın rahmetinden umut kesme, 39:53; 21:87-88; 68:48-50
+- bkz. ayrıca Yunus
+
+Zariyat, S.51
+
+Zikir, 7:205; 15:6, 9
+
+Zülkifl, 21:85; 38:48
+
+Zülkarneyn, 18:83-98
+
+Zünnun (Balık Sahibi),
+
+İnkârcılar (bkz. ayrıca Münafıklar)
+- Muhammed'den (ﷺ) Allah'ın gazabını delil olarak çağırmasını isterler, 6:57-58; 8:32; 10:49-52
+- onlara nazikçe davran, 31:15
+- söylediklerine sabırla katlan, 20:130; 50:39
+- onlarla antlaşmalar, 8:56; 8:72; 9:4, 7
+- antlaşmaların bozulması, 8:58; 9:12
+- Allah planlarını boşa çıkarır, 8:30, 36
+- Allah'ın ayetleriyle alay edildiği mecliste bulunma, 4:140; 6:68
+- sığınak isterlerse koru, 9:6
+- savaşta ceza, 8:12, 50, 59
+- ahirette ceza, 8:37
+- mescitleri ziyaret etmemeli veya bakımını üstlenmemeli, 9:17
+- onlarla nazikçe konuş, 17:53
+- onlara karşı güçlü çaba göster, 9:73; 25:52; 66:9
+- savaşmayanlara adil davran, 60:8
+- yalnızca diğer inkârcılarla ittifak kurarlar, 8:72
+
+Havariler (İsa'nın), 3:52; 61:14
+
+Münafıkların ve inkârcıların kalplerindeki hastalık, 2:10; 5:52; 8:49; 9:125; 22:53; 24:50; 33:12, 32, 60; 47:20, 29; 74:31
+
+Sıkıntıdan sonra güvenlik gelir, 3:154
+
+Ganimet dağıtımı, 8:41; 59:7-8
+
+Hendek halkı, 85:4-10
+
+Çeşitlilik
+- insanların, 30:22, 35:27-28
+- yaşamın, 35:27-28
+
+Boşanma, 2:228-232, 236-237, 241; 4:35, 130; 65:1-7;
+- bekleme süresi sonunda ayrıl ya da barış, 2:231; 65:2
+- iki şahit, 65:2
+- nafaka, 2:233, 241
+- eski kocasının varisine uzanır, 2:233
+- iki kez geri alınabilir, 2:229
+- mehrin durumu, 2:229, 236-237
+- gerekirse sütanne bul, 65:6
+- bkz. ayrıca Zıhar
+
+Boşanma, Erkek
+- bir kadını bırakıp başkasıyla evlenmek — verdiğini geri alma, 4:20
+- eşini taciz etme, 65:6
+- eşlerini zorla tutma, 4:19
+- fikrini değiştirmek için dört ay, 2:226
+- hamilelik ve bekleme süresince eşini tam olarak geçindir, 65:6
+- çocuğunu emziriyorsa eşini tam olarak geçindir, 65:6
+- anne, babasız çocuğu yüzünden zarara uğramamalı, 2:233
+- İslam öncesi, 58:2
+- uzlaşmak için kefaret olarak iki ay arka arkaya oruç, 58:4
+- uzlaşmak için kefaret olarak altmış kişiyi doyur, 58:4
+- uzlaşmak için kefaret olarak bir köle azat et, 58:3
+- uzlaşma girişimi, 4:35
+- nikâh kıyılmamışsa günahsız, 2:236
+- gelin mehrin yarısına hak kazanır, 2:237
+
+Boşanma, Kadın
+- üçüncü boşanmadan (başka bir kocadan) sonra ilk kocasına geri dönebilir, 2:229
+- nafaka hakkı, 2:241; 65:1
+- boşanmada eşit hak, 2:228
+- kocasının kötü muamelesinden korkması, 4:128
+- kocasının verdiğini alıkoyabilir, 2:229
+- evden çıkarılamaz, 65:1
+- hamileliği çürütmek için üç adet bekleme süresi, 2:228
+- âdet görmeyenler için üç aylık bekleme, 65:4
+- nikâh kıyılmamışsa istisna, 33:49
+
+Köpekler, 7:176
+
+Eşekler, 2:259; 16:8; 31:19; 62:5; 74:50
+
+İçecek,
+- alkollü, 2:219; 5:90
+- saf ve beyaz, lezzetli, 37:45-46; 76:21
+- saf mühürlü şarap, 83:25
+
+Duha, S.93
+
+Duhan, S.44
+
+Fil ordusu, 105:1-5
+
+İlyas (Elijah; İlyasin) 6:85; 37:123-132
+
+Elyesa', 6:86; 38:48
+
+İdris (bkz. İdris)
+
+Hadise, 56:1; 69:15
+
+Kötülük, 4:123; 10:27-30; 19:83; 59:15
+- alenen söylenmemelidir, 4:148
+- kendimizden gelir, iyilik ise Allah'tandır, 4:79; 42:48
+- kötülüğü affet, 4:149
+- karşılık verilir, 6:160; 42:40
+- tuzak kuranlar, 16:45-47
+- sonu kötü oldu, 30:10
+- karada ve denizde ortaya çıktı, 30:41
+- iyilikle karşılık ver/sav, 13:22; 23:96; 41:34
+- iyiliğe dönüştürüldü, 7:95
+- kötü arzularına uyanlar, 47:14, 16
+- ameller onlara süslü gösterildi, 47:14
+
+Aşırılık,
+- yiyecekte yasak, 5:87
+- dinde, 4:171; 5:77-81
+
+Gözler, kulaklar ve deriler günahkarlara karşı tanıklık edecek, 41:20-23
+
+Üzeyr, 9:30
+
+Allah'ın yüzü veya tecellisi, 2:115, 272; 6:52; 13:22; 18:28; 28:88; 30:38-39; 55:27; 76:9; 92:20
+
+Süslü gösterilen,
+- Allah her topluluğun kendi amellerini kendine güzel göstermiştir, 6:108
+
+İman, 2:108; 3:167, 177, 193; 5:5; 9:23; 16:106; 30:56; 40:10; 42:52; 49:7, 11, 14; 52:21; 58:22; 59:9-10
+- inkâr edenler, 3:116
+- imanda artış, 3:173
+- kesinlikle, 44:7; 45:4, 20; 51:20
+- seni imana hidayet etti, 49:17
+
+Fecr, S.89
+
+Felak, S.113
+
+Kur'an ayetleri hakkında asılsız konuşma, 6:68
+
+Sahte tanrılar,
+- Allah'tan başka, putlar ve sözde ortaklar, 7:194-198; 16:20-21, 72, 86; 21:22, 24; 34:22, 27; 41:47-48; 46:5-6; 53:19-24; 71:23-24
+- Allah'tan başka ibadet ettiklerini hakaret etme, 6:108
+- bkz. ayrıca Tağut
+
+Bâtıl, 2:42; 3:71; 8:8; 9:24; 13:17; 17:81; 21:18; 22:62; 29:52, 67; 31:30; 34:49; 40:5; 41:42; 42:24; 47:3
+
+İnsanın amellerini kendi boynuna astı, 17:13
+
+Oruç, 2:178, 183, 184-185, 187, 196; 4:92; 5:89, 95; 19:26; 33:35
+- beyaz iplik siyah iplikten seçilinceye kadar ye ve iç, 2:187
+
+Fetih, S.48
+
+Fatiha, S.1
+
+Fatır, S.35
+
+Fidye (orucun fidyesi), 2:196
+- esirleri serbest bırakmak için, 8:67
+- inkârcıların teklif ettiği fidye, 3:91; 5:36, 37; 10:54; 13:18
+
+İncir, 95:1
+
+Savaşmak,
+- Allah yolunda inkârcılara karşı, 2:190-193, 244; 4:84, 95; 8:72, 74, 75; 9:12-16, 20, 24, 36, 123; 47:4; 61:11
+- farz kılındı, 2:216
+- haram aylarda, 2:217; 9:5
+- İsrailoğulları tarafından, 2:246-251
+- Allah yolunda ve mazlum erkek ve kadınlar için, 4:74-76
+- fitne kalmayana kadar, 8:39
+- yirmi kişi iki yüz kişiyi yener, 8:65
+- Allah'a ve ahirete inanmayanlara karşı, 9:29
+- haksızlığa uğrayanlara izin, 22:39-41
+- ve münafıklar, 47:20
+- muafiyetler, 48:17
+
+Fil, S.105
+
+Firdevs Cenneti, 18:107; 23:11
+
+Ateş, 56:71, 100:2
+
+Sinek, 22:73
+
+Yiyecek,
+- helal ve haram, 2:168, 172, 173; 5:1, 3-5, 88; 6:118-119, 121, 145-146; 16:114-118; 23:51
+- geçmişte yenilenlerde günah yok, 5:93
+- aşırıya gitme, 5:87
+- Allah'ın helal kıldığını haram kılma, 5:87; 7:32; 16:116
+
+Yasak davranışlar, 6:151-152; 7:33
+
+Af, 2:109; 4:48, 110, 116; 5:74; 7:199; 39:53; 42:5, 40-43; 45:14; 53:32; 57:21
+- müminlerin görevi, 42:37; 45:14
+- müminlerin kitap ehlini affetmesi, 2:109
+- Allah dilediğini affeder, 4:48
+- Allah kendisine ortak koşulmasını affetmez, 4:48, 116
+- Allah'tan af isteyen, 4:110
+- müşrikler için Allah'tan af dileme, 9:113
+- Allah tüm günahları affeder, 39:53
+- melekler yeryüzündekiler için af diler, 42:5
+- öfkelendiklerinde affederler, 42:37
+- affet ve uzlaş, 42:40
+- müminler Allah'ın günlerini ummayanları affetsin, 45:14
+- büyük günahlardan ve çirkin işlerden kaçınanlar için, 53:32
+- af için birbirinizle yarışın, 57:21
+- kötü ameller iyiye dönüşür, 25:68-71
+
+Hile (bkz. İhanet) 83:1-6
+
+Özgür irade,
+- Allah'ın iradesine göre sınırlıdır, 6:107; 10:99; 74:56; 76:31; 81:28-29
+- dileyen iman etsin, dileyen inkâr etsin, 18:29
+- Rabbine giden yolu tut, 76:29
+- doğru yürü, 81:28
+
+Cuma namazları, 62:9-11
+
+Meyveler, 6:41; 16:11
+- cennette bol, 43:73
+- her türlü, 47:15
+- diledikçe, 77:42
+
+Füccâr, 82:14-16; 83:7
+
+Furkan, S.25
+
+Fussilet (bkz. Ha Mim), S.41
+
+Cebrail (Cibril) 2:97-98; 26:193; 66:4; 81:19-21
+- Ruh, 26:193; 67:12; 70:4; 78:38; 97:4
+- Ruhü'l-Kudüs, 2:87, 253; 5:110; 16:102
+
+Kumar, 2:219; 5:90
+
+İhramlıyken av, 5:94-96
+
+Gafir (bkz. Mü'min), S.40
+
+Gaşiye, S.88
+
+Gusül, 4:43; 5:6
+
+Hediyeler, 30:39
+
+Calut, 2:249-251
+
+İyi (günler), 3:140
+- sevmediğin bir şey hayırlı olabilir, sevdiğin ise kötü, 2:216
+- ödüllendirilir, 4:85; 28:54
+- iki kat ödüllendirilir, 4:40; 28:54
+- on kat ödüllendirilir, 6:160
+- artırılır, 42:23
+- iyilik yapanlar için bu dünyada da ahirette de iyilik vardır, 16:30
+- iyilik yapanlar için dünyada iyilik vardır, 39:10
+- Allah iyilik yapanları en güzel şekilde ödüllendirir, 53:31
+- iyiliğin karşılığı iyilikten başka ne olabilir, 55:60
+- Allah sana nasıl iyilik yaptıysa sen de iyilik yap, 28:77
+
+İyilik ve Kötülük,
+- iyilik Allah'tandır, kötülük ise kendinden, 4:79
+- iyilik yaparsan kendin için, kötülük yaparsan kendi aleyhinedir, 17:7; 41:46
+- kötülüğü iyilikle sav, 23:96; 28:54; 41:34
+- iyilik ve kötülük eşit olamaz, 41:34
+- herkes yaptığı tüm iyilik ve kötülükle yüz yüze gelecek, 3:30
+- bkz. ayrıca Muhsinun
+
+İyi amel,
+- açıkla ya da gizle, 4:149
+- iyilikte yarış, 5:48
+
+İncil, 3:3, 48, 65; 5:46-47, 66, 68, 110; 7:157; 9:111; 48:29; 57:27
+
+Büyük Haber, 78:1-5
+
+Selam, 4:86; 10:10; 14:23; 33:44; 25:75; 24:61
+
+Hadid, S.57
+
+Kurban hayvanı, 2:196, 200
+
+Hac, 2:158, 196-203; 3:97; 5:2; 22:30
+
+Hac, S.22
+
+Haman, 28:6, 38; 29:39; 40:24, 36, 37
+
+Eller ve ayaklar tanıklık edecek, 36:65
+
+Hâkka, S.69
+
+Her zorlukla birlikte bir kolaylık vardır, 94:5-6
+
+Harun (Aaron)
+
+Harut, 2:102
+
+Haşr, S.59
+
+Kalpler,
+- katılaşmış, 2:74; 22:53; 39:22; 57:16
+- mühürlenmiş, 7:100-101; 40:35; 47:16; 63:3
+- örtülmüş, 17:46; 41:5
+- kilitli, 47:24
+- bölünmüş, 59:14
+- korkuyla dolu, 22:35
+- kalplerinde hastalık olanlar, 2:10; 5:52; 8:49; 9:125; 22:53; 24:50; 33:12, 32, 60; 47:20, 29; 74:31
+
+Gökler,
+- göklerin gaybı Allah'a aittir, 16:77
+- oyun için yaratılmadı, 21:16
+- yer ve gök birleşikti, 21:30
+- göklerde gizli hiçbir şey yoktur, 27:75
+- direksiz yaratıldı, 31:10
+- sağ elinde dürülecek, 39:67
+- iki günde yedi göğün yaratılması, 41:12
+- en yakın göğü kandillerle süsledi, 41:12
+- göklerde ne varsa Allah'a aittir, 45:27; 53:31
+- yedi gök, üst üste, 67:3
+
+Cehennem (ateş, alevler) 2:24, 119, 161, 166, 201; 3:10, 12, 116, 131, 151, 162, 192; 4:55-56, 93, 97, 114, 121, 169; 5:10, 37, 72, 86; 6:27, 70, 128; 7:18, 36, 38, 41, 50, 179; 8:16, 36, 50; 9:17, 35, 49, 63, 68, 73, 81, 95, 109, 113; 10:8, 27; 11:16-17, 11:98, 106, 113, 119; 13:5, 18, 35; 14:16, 49; 15:43; 16:29, 62; 17:8, 18, 39, 63, 97, 129; 18:53, 100, 106; 19:68, 70, 86; 20:74, 21:39, 21:98, 22:4, 22:9, 51, 72; 24:57, 25:11-13, 34, 65; 26:91, 94; 27:90, 28:41, 29:25, 54, 68; 31:21; 32:13, 20; 33:64, 66; 34:12, 42; 35:6, 36; 36:63, 37:10, 23, 55, 63, 68, 163; 38:27, 56, 59, 61, 64, 85; 39:8, 16, 19, 32, 60, 71, 72; 40:6-7, 41-43, 46, 47-49, 60, 72, 76; 41:19, 24, 28, 40; 42:7, 44:47, 56; 45:10, 34-35; 46:20, 34; 47:12, 15; 48:6, 13; 50:24, 30; 51:13, 52:13-16, 18; 54:48, 55:43, 56:94, 57:15, 19; 58:8, 17; 59:3, 17, 20; 64:10, 66:9-10, 67:5-10, 69:31, 70:15, 71:25, 72:15, 23; 73:12-13, 74:26-31, 42; 76:4, 77:31, 78:21, 79:36, 39; 81:12; 82:14; 83:16; 84:12; 85:10; 87:12; 88:4; 89:23; 90:20; 92:14; 98:6; 101:9-11; 102:6; 104:6-9; 111:3
+- yanan ve kaynayan su, 22:19-22; 23:103-104
+- irin, 14:14-17; 38:55-58; 69:35-37
+- Zakkum ağacı, 37:62-70; 44:43-50; 56:41-56
+- sakinlerin yaşayamama veya ölememe hali, 87:13
+- birbirini suçlama, 26:91-101; 34:31-33
+- anında yok olmayı isteme, 25:13-14; 43:74-78
+- feryat ve figan, 35:36-37
+- ateşin homurdaması ve kükreyişi, 25:11-12; 67:6-11
+- kavrulan derilerin yerine yenilerinin getirilmesi, 4:56
+- zincirler ve zift elbiseleri, 14:48-50
+- demir topuzlar, 22:19-22
+- zincirler, 13:5
+- cehennem bekçileri, 39:71; 40:49-50; 43:77; 66:6; 67:8; 74:30-31; 96:18
+- fidye kabul edilmez, 5:36-37
+- şefaat reddedilir, 6:94; 26:100; 30:13; 74:48
+- cehennemde yanan umutsuzluk ve buz gibi karanlık, 38:57
+- yetmiş arşın zincir, 69:32
+- sınırlı süre kalış, 78:23
+
+Ahiret,
+- ahirette ev daha iyidir, 6:32; 7:169
+- ahirette son ne olacak, 6:135
+- zalimler (ahirette) kurtulamayacak, 6:135
+- ahiretin yurdu, 12:109; 16:30; 28:83; 29:64
+- ahirete inanmayanlar, 17:10
+- ahiretin ödülü, 42:20
+- gümüş ve altından daha iyidir, 43:33-35
+- yalnızca muttakiler için, 43:35
+- ahiret azabı, 68:33
+- daha iyi ve daha kalıcı, 87:17
+- şimdiden daha iyi, 93:4
+
+Geniş yollar, 21:31
+
+Hicr (Kayalık Bölge), 15:80-85
+
+Hicr, S.15
+
+Eşcinsellik, 26:165-166; 27:55; 29:28-29
+
+Atlar, 16:8
+
+Saat (Kıyamet),
+- bilgisi yalnızca Allah'a aittir, 7:187; 31:34; 33:63; 41:47; 68:26; 79:42-46
+- aniden üzerlerine gelir, 6:31; 7:187; 12:107; 43:66
+- size gelir, 6:40; 12:107; 20:15; 34:3
+- yaklaştı, 54:1-5
+- göz kırpması kadar veya daha yakın, 16:77
+- saatin depremi, 22:1
+- o günde kurulacak, 30:12, 14
+- şüphesiz gelecek, kuşku yok, 40:59; 45:32; 51:5-6
+- işaretler, 21:96; 27:82; 43:61; 47:18; 54:1-2;
+- isimleri, 1:3; 2:4; 3:55; 19:39; 30:56; 37:21; 40:15; 41:47; 42:7; 50:20; 56:1; 64:9; 69:1; 79:34; 80:33; 88:1; 101:1-3;
+- insanları ansızın yakalayacak, 6:31; 7:187;
+- Sur üflenecek, 6:73; 23:101; 39:68
+
+Evlere girme adabı, 24:27-29
+
+Hud, 7:65-72; 11:50-60; 26:123-140; 46:21-26
+
+Hud, S.11
+Hucurat, S.49
+Humeze, S.104
+Huneyn (savaşı), 9:25
+Hur (cennetteki kadınlar), 44:54; 52:20
+
+Münafıklar,
+- Allah'a ve Ahiret Günü'ne inandık derler, ama aslında inanmazlar, 2:8
+- kendilerini aldatırlar, 2:9
+- kalplerinde hastalık, 2:10; 8:49; 22:53; 33:12; 47:29
+- bozgunculuk çıkarırlar, 2:11-12
+- ahmaklar ve alay edenler, 2:13-15
+- hidayeti bırakıp sapıklığı satın aldılar, 2:16
+- sağır, dilsiz ve kör, 2:17-18
+- ölüm ve karanlık korkusu içinde, 2:19-20
+- hoş sözler, 2:204-206
+- savaşmayı reddederler, 3:167-168
+- Allah kalplerindekini bilir, 3:167; 4:63
+- sahte yargıçlara giderler, vahiyden yüz çevirirler, başlarına bela gelince gelirler, 4:60-62
+- musibette ve büyük başarıda, 4:72-73
+- Allah onları geri çevirdi, 4:88
+- dost edinilmez, 4:89; 58:14-19
+- dönerlerse, nerede bulursanız öldürün, 4:89
+- zaferinizi ya da inkârcıların galibiyetini bekler ve gözetirler, 4:141
+- Allah'ı aldatmaya çalışırlar, namazı tembelce ve gösteriş için kılarlar, 4:142
+- ne bunlara ne de ötekiler ne aittirler, 4:143
+- ateşin en derin tabakasında; yardımcıları yok, 4:145
+- deşifre olmaktan korkarlar, 9:64-65
+- onlar için dua edilmez, 9:84
+- erkek ve kadın münafıklar birbirinden; kaybedenler; Allah'ın laneti, 9:67-69
+- bedeviler arasında, 9:101
+- nerede bulunurlarsa yakalanıp öldürülecekler, 33:61
+- Allah onları cezalandıracak, 33:73
+- yalancılar; sırtlarını dönerler; kalpleri bölünmüş, 59:11-14
+- yalancılar; yeminlerini siper ettiler; kalpleri mühürlü; onlardan sakının, 63:1-4
+- kavramazlar; bilmezler, 63:7-8
+- onlara karşı güçlü çaba göster, 66:9
+
+İblis (Şeytan), 2:34; 7:11-18; 15:31-44; 17:61-65; 18:50; 20:116-120; 34:20-21; 38:71-85
+- bkz. ayrıca Şeytan
+
+İbrahim (bkz. Abraham)
+
+İbrahim, S.14
+
+İddet (kadınlar için boşanma bekleme süresi), 2:228, 231, 232, 234, 235; 33:49; 65:1-7
+
+İdris (Enoch), 19:56-57; 21:85; 96:4
+
+İhram, 2:197; 5:2, 95
+
+İhsan, 16:90
+
+İhlâs, S.112
+
+İlah, yalnızca Bir, 2:163; 6:19; 16:22, 51; 23:91; 37:4; 38:65
+
+Zina; tanık şahitliği, 4:15-18; 24:2, 19
+
+İlliyyun, 83:18-21
+
+Necis, 9:28
+
+İmran,
+- hanımı, 3:35;
+- kızı, 66:12
+
+Kaçınılmaz, 69:1-3
+
+İnfitar, S.82
+
+Miras, 2:180, 240; 4:7-9, 11-12, 19, 33, 176; 5:106-108
+
+Haksızlık, maruz kalanlara, 4:30, 148
+
+İnsan (bkz. Dehr), S.76
+
+İnşikak, S.84
+
+İnşirah (bkz. Şerh), S.94
+
+İlham, 6:93; 10:2, 109; 12:102; 17:86; 40:15; 42:3, 7, 51-52; 53:4, 10
+
+Şefaat/Şefaatçi, 6:51, 70, 93-94; 10:3; 19:87; 20:106, 109; 30:13; 34:23; 39:44; 40:18; 43:86; 53:26; 74:48
+
+Sarhoşluk verici şeyler, 5:90, 2:219
+
+Namazı ikame etmek, 2:3, 43, 83, 110, 177, 277; 4:77, 102-103; 5:12, 55; 6:72; 7:170; 8:3; 9:5, 11, 18, 71; 10:87; 11:114; 13:22; 14:31, 37; 17:78; 20:14; 22:41, 78; 24:56; 27:3; 29:45; 30:31; 31:4, 17; 33:33; 35:18, 29; 42:38; 58:13; 73:20; 98:5
+
+İkra' (bkz. Alak), S.96
+
+İrem, 89:7
+
+Demir, 57:25
+
+İsa (bkz. İsa)
+
+İshak, 2:133; 4:163; 6:84; 19:49; 21:72; 29:27; 37:112-113
+
+İsmail, 2:125-129, 133; 4:163; 6:86; 19:54-55; 21:85; 38:48
+- babasıyla birlikte Kâbe'nin temellerini yükseltir, 2:125-140;
+- kurban kıssası, 37:100-113
+
+İslam, 3:19, 85; 5:3; 6:125; 39:22; 61:7
+- Müslüman olarak teslim olanların ilki, 6:14, 163; 39:12
+- ilk kucaklayanlar, 9:100
+- göğsü İslam'a açıldı, 39:22
+- bir lütuf olarak, 49:17
+
+İsra', S.17
+
+İsrailoğulları, 2:40-86
+- verilen nimetler, 2:47-53, 60, 122; 45:16-17
+- Allah'ın itaatine karşı gelmek, 2:54-59, 61, 63-74; 5:71; 7:138-141
+- Müslümanlarla ilişkileri, 2:75-79
+- kibirleri, 2:80, 88, 91
+- antlaşmaları, 2:80, 83-86, 93, 100; 5:12-13, 70
+- ahireti dünya hayatına sattılar, 2:86
+- insanların yaşama en hırslı olanları, 2:96
+- bir kral isterler, 2:246-251
+- sınırları aştılar; çeşitli gruplara bölündüler; maymunlar, 7:161-171
+- iki kez söz verildi, 17:4-8
+- düşmandan kurtarıldı, 20:80-82
+- kitap ve önderler verildi, 32:23-25; 40:53-54
+- bilgin âlimleri bunu (Kur'an'ın gerçek olduğunu) biliyordu, 26:197
+
+İstiva (üstüne kuruldu), 2:29; 7:54; 10:3; 13:2; 20:5; 32:4; 41:11; 57:4
+
+İtikaf, 2:187
+
+Yakub, 2:132-133; 4:163; 6:84; 12:18; 19:49; 21:72; 29:27
+- Esbat (Yakub'un on iki oğlu), 2:140; 3:84; 4:163
+
+Calut (bkz. Goliath)
+
+Cemerat, 2:200
+
+Casiye, S.45
+
+İsa, Meryem'in oğlu,
+- annesi tüm dünyadaki kadınlar arasında seçildi, 3:42;
+- Kıyamet Günü'nde tanıklık eder, 4:159
+- doğumunun müjdesi, 3:45-47; 19:22-23
+- İsrailoğullarına Elçi, 3:49-51
+- havariler, 3:52-53; 5:111-115
+- havariler Allah'ın yardımcıları olarak, 3:52; 61:14
+- yükseltildi, 3:55-59; 4:157-159
+- Âdem'e benzerliği, 3:59
+- ne öldürüldü ne de çarmıha gerildi, 4:157
+- ilham verildi, 4:163
+- yalnızca bir elçidir (ilah edinilmemeli), 4:171-172; 5:75; 19:30, 43:63-64
+- inkâr edenler, 5:17, 72; 9:30
+- Elçimiz (Muhammed ﷺ) geldi, 5:19
+- İncil'i verdi, 5:46
+- havariler: biz Müslümanız, dediler, 5:111
+- yiyecekle dolu sofra, 5:114
+- yanlış ibadeti öğretmedi, 5:116-118
+- salih bir Peygamber, 6:85
+- bir ayet olarak, 23:50
+- ikinci gelişi, 43:61
+- hakkında farklı görüşler, 43:65
+- İsrailoğullarına yalnızca bir kul ve örnek, 43:59
+- adı Ahmed olacak bir elçinin müjdesi, 61:6
+- bakireden doğuşu, mesajı ve mucizeleri, 3:45-51; 19:16-38;
+- Allah'ın nimetleri hatırlatıldı, 5:110-115;
+- ilah olmadığını reddeder, 5:116-120;
+- takipçilerinin kalplerinde şefkat ve merhamet, 5:82; 57:27
+
+Yahudiler ve Hristiyanlar, 2:140; 4:153-161, 171; 5:18
+- yalanı dinlerler, 5:41-42
+- söyledikleri yüzünden lanetlendiler, 5:64
+- müminlere (Müslümanlara) düşmanlık, 5:82
+- İslam'ı kucaklayanlar, 26:197; 28:53; 29:47
+
+Cebrail (bkz. Gabriel)
+
+Cihad (Savaşmak, Çaba Göstermek) 2:216; 9:24; 22:78; 25:52
+
+Cin, S.72
+
+Cinler, 6:100, 112; 15:27; 34:41; 38:37; 46:18, 29; 55:33, 39;
+- ateşten yaratıldı, 15:25; 55:15;
+- inanan ve inkâr eden cinler, 72:1-15;
+- bazıları Kur'an'ın mesajına iman etti, 46:29-32
+- insanlar ve cinler bir amaç için yaratıldı, 51:56-58
+
+Eyyub, 4:163; 6:84; 21:83-84; 38:41-44
+
+Yahya (Vaftizci Yahya),
+- müjdesi, 3:38-41; 19:7-11; 21:90
+- salih, 6:85
+- bilge, merhametli, itaatkâr, 19:12-15
+
+Yunus, 4:163; 6:86; 10:98; 21:87; 37:139-148;
+- (Zünnun) 21:87; 68:48-50
+
+Yusuf, 6:84; 12:4-101
+- kıssaların en güzeli, 12:1-3;
+- genç Yusuf'un rüyası, 12:4-6;
+- kardeşlerinin komplosu, 12:7-18;
+- köle olarak satılması, 12:19-20;
+- Mısır Hazine Bakanı'nın evinde yetiştirilmesi, 12:21-22
+- Bakanın karısının onu baştan çıkarmaya çalışması, 12:23-29;
+- ziyafet olayı, 12:30-32;
+- hapse girmesi, 12:33-35;
+- iki mahkum, 12:36-42;
+- Kral'ın rüyası, 12:43-53;
+- Hazine Bakanı olması, 12:54-57;
+- kardeşleri erzak için gelir, 12:58-68;
+- kardeşi Bünyamin'i yanında alıkoyar, 12:69-82;
+- babasının yenilenen kederi, 12:83-87;
+- gerçek kimliğini açıklar, 12:88-98;
+- eski rüya gerçekleşir, 12:99-100;
+- kapanış duası, 12:101
+
+Cudi Dağı, 11:44
+
+Cuma, S.62
+
+Adalet, 2:282; 4:58, 135; 7:29; 16:90; 57:25
+- bkz. ayrıca 4:65, 105
+
+Kâbe,
+- İbrahim tarafından inşa edildi, 2:125-127
+- av hayvanı öldürülmez, 5:94-96
+- güvenlik sığınağı, 5:97
+- çıplak halde tavaf, 7:28
+- namaz kılarken ve tavaf ederken, 2:200; 7:29, 31
+
+Kâfirun, S.109
+
+Kâfur, katkılı kadeh, 76:5
+
+Kehf, S.18
+
+Kenz, 9:34-35
+
+Kevser (cennetteki nehir), 108:1
+
+Kevser, S.108
+
+Anahtarlar,
+- göklerin ve yerin, 39:63; 42:12
+- gaybin, 6:59
+
+Havle bint Sa'lebe, 58:1
+
+Öldürmek,
+- bir kişiyi öldüren tüm insanlığı öldürmüş gibidir, 5:32
+- kimseyi öldürme, 17:33
+
+Güzel söz sadakadan iyidir, 2:263
+
+Akrabalık, hakları, 2:83, 177, 215; 4:7-9, 36; 8:41; 16:90; 17:26; 24:22; 29:8; 30:38; 42:23
+
+Kiramen Katibin, 82:11
+
+Bilgi,
+- bir yaprak düşmez ki O bilmesin, 6:59
+- çocuklarını bilgisizlik ve ahmaklıkla öldürenler ziyan etti, 6:140
+- beş şeyin bilgisi yalnızca Allah'a aittir, 31:34
+- kesinlikle, 102:5-7
+
+Karun, 28:76-82; 29:39; 40:24
+
+Kürsi, 2:255
+
+Leheb (bkz. Mesed), S.111
+
+Leyl, S.92
+
+Lamba, 25:61; 67:5; 71:16; 78:13
+
+Diller,
+- insanların dil ve renk farklılığı, 30:22
+
+Lat, 53:19
+
+Şeriat, 5:48
+
+Allah'tan gelen kanunlar, 2:219; 98:3
+
+Yalancılar, 26:221-223
+
+Hayat, bir kişiyi kurtaran tüm insanlığı kurtarmış gibidir, 5:32
+
+Dünya hayatı,
+- ahireti dünya hayatına sattılar, 2:86
+- yalnızca aldatıcı bir zevkten ibarettir, 3:185
+- ahiret için dünya hayatını sat, 4:74
+- oyun ve eğlenceden başka bir şey değil, 6:32; 29:64; 47:36; 57:20
+- aldatır, 6:130
+- ahirete kıyasla az bir zevk, 9:38; 13:26; 28:60
+- benzetmesi yağmur gibidir, 10:24
+- dünyada müjde, 10:64
+- kim dünyayı isterse elde eder; ama ahiretten nasibi olmaz, 11:15-16; 17:18; 42:20
+- şimdiyi sevenler ve ahireti ihmal edenler, 75:20-21; 76:27
+- dünyayı tercih edersiniz, 87:16
+
+Nur,
+- apaçık, 4:174
+- ve karanlık, 6:1
+- nuru örneği, 24:35
+- müminlerin önünde ve yanında gider, 57:12-15; 66:8
+- müminlerin doğru yürümesi için Allah tarafından verilir, 57:2
+
+Allah'ın koyduğu sınırlar, 2:173, 187, 190, 230; 9:112; 58:4; 65:1; 78:22
+- bunlar sınırlardır, 2:187; 229-230; 4:13; 58:4; 65:1
+- sınırları aşma, 2:190, 229
+- her kim sınırı aşarsa, 2:229; 4:14; 78:22
+- zorunluluk halinde, sınırı aşmadan, 2:173; 6:145
+- dinde sınırı aşma, 4:171; 5:77
+- sınırı aştıklarında (maymunlara dönüştüler), 7:166
+- sınırlara uyanlar, 9:112
+
+Aslan, 74:51
+
+Borç,
+- Allah'a güzel bir borç ver, 2:245; 73:20
+- kat kat artırıldı, 57:11, 18
+- iki katına çıkarıldı, 64:17
+
+Apaçık kayıp, 39:15
+
+Lut, 6:86; 7:80; 11:70, 74, 77, 81, 89; 15:59, 61; 21:71, 74; 22:43; 26:160-161, 167; 27:54-56; 29:26, 28, 32-33; 37:133; 38:13; 50:13; 54:33-34; 66:10
+- itaatsiz karısı, 11:81; 15:60; 66:10
+
+Sidre ağacı, 34:16; 53:14-16; 56:28
+
+Lokman, 31:12-14
+
+Lokman, S.31
+
+Meâric, S.70
+
+Medine (Yesrib), 9:120; 33:13, 60; 63:8
+
+Medyen, 7:85-93; 11:84-95; 20:40; 22:44; 28:22-23; 29:36-37
+- bkz. ayrıca Eyke halkı
+
+Mehir, 2:229, 236-237; 4:4, 19-21, 24-25; 5:5; 33:50; 60:10-11
+
+Maide, S.5
+
+Mekke (Bekkah), 3:96; 90:1-2
+- Güvenlik Şehri, 95:3
+
+İnsan,
+- yeryüzünde kuşaktan kuşağa, 2:30; 6:165
+- halife kılındı, 35:39
+- görevi, 2:83-84, 88, 177; 4:1-36; 8:41; 16:90; 17:23-39; 24:22; 29:8-9; 30:38; 33:33; 42:23; 64:14; 70:22-35
+- Allah tarafından sınandı, 2:155; 3:186; 47:31; 57:25
+- insanın arzuladığı şeyler, 3:14
+- yaratıldığı şey, 4:1; 6:2; 15:26, 28, 33; 16:4; 21:30; 22:5; 23:12-14; 25:54; 30:20; 32:7-9; 35:11; 36:77-78; 37:11; 39:6; 40:67; 49:13; 55:14; 56:57-59; 75:37-40; 76:1-2; 77:20-23; 80:18-19; 86:5-8; 96:2
+- yaratıldı ve belirli bir süre takdir edildi, 6:2; 15:26
+- eşiyle uzlaşma, 4:35
+- Allah ile buluşmayı inkâr eden kaybedenler, 6:31
+- dönüş, 6:60, 72, 164; 10:45-46
+- kendi kendine tuzak kurar, 6:123
+- başkasının yükünü taşımaz, 6:164
+- nankördür, 7:10; 11:9; 30:34; 32:9; 80:17; 100:6
+- Şeytan'a karşı uyarıldı, 7:27
+- eş ve çocuklar, 7:189-190
+- zarara veya kötülüğe dokunduğunda, 10:12; 11:9-10; 16:53-55; 17:67; 29:10; 30:33; 31:32; 39:8, 49; 41:49-51; 42:48; 70:19-21; 89:16
+- Rabbine dönerken, 10:23; 84:6; 96:8
+- kendine haksızlık eder, 10:44
+- şımarık ve övüngendır, 11:10
+- kötülük için dua eder, 17:11
+- çok aceleden, 17:11
+- amelleri boynuna bağlandı, 17:13
+- sapan kendi zararına, doğru giden kendi yararına, 17:15
+- haksızlığa uğratılmaz, 17:71
+- ölüm ve diriliş, 23:15-16
+- dinini fırkalara böldüler, her biri kendi inancından memnun, 23:53
+- dil, eller ve ayaklar aleyhine tanıklık edecek, 24:24
+- kendi aleyhine tanık, 75:14
+- kendi hevesini ilah edinen, 25:43
+- kan ve evlilik akrabaları, 25:54
+- Allah göklerde ve yerde olanları sizin hizmetinize verdi, 31:20
+- yüzünü Allah'a teslim eden, 31:22
+- içinde iki kalp yok, 33:4
+- Allah'a ibadet etmek için, 39:64-66
+- ellerin kazandığı yüzünden başa gelenler, 42:30, 48
+- amellerini kaydeden melekler, 50:17-18, 23; 85:11
+- onu koruyan melekler, 13:11; 86:4
+- üç sınıfa ayrıldı, 56:7-56
+- Allah'a en yakın olanlar, 56:10-11
+- sağ yanaşımcılar, 56:27-40
+- sol yanaşımcılar, 56:41-56
+- bilinmeyen biçimlerde dönüştürülüp yaratılacak, 56:60-62
+- şekilleri güzel kılındı, 64:3
+- mal ve çocuklar yalnızca bir sınav, 64:15
+- yaratıldı ve donatıldı, 67:23-24; 74:12-15; 90:8-10
+- sabırsız, 70:19-21
+- namaza bağlı, 70:22-35
+- daha fazlasını ister, 74:15
+- kendi aleyhine tanık, 75:14-15
+- kibrini, 75:31-40; 90:5-7
+- dünya hayatını sever, 76:27
+- yaratılması daha mı zor, yoksa gökyüzü mü, 79:28
+- Rabbinden gafil, 82:6-12
+- mükemmel şekillendirildi ve uygun biçim verildi, 82:7
+- aşamadan aşamaya geçer, 84:19
+- mal sevgisi, 89:20
+- sıkıntı içinde yaratıldı, 90:4
+- çabaları ve amelleri çeşitlidir, 92:4
+- kolaylık ve zorluk yolunu düzeltti, 92:7, 10
+- en güzel biçimde yaratıldı, 95:4
+- sonra aşağıların aşağısına indirildi, 96:5
+- her sınırı aşar, 96:6-7
+
+Hac görevleri, 2:128, 200; 22:30
+
+Menat, 53:20
+
+İnsanlık,
+- üzerine tanıklar, 2:143
+- tek ümmet, 2:213; 10:19
+- tek bir çiftten yaratıldı, 4:1; 39:6; 49:13
+- kendi nefislerine isyan, 10:23
+- Hesap yakın olsa da gafil, 21:1-3
+- fıtrat üzere yaratıldı, 30:30
+- insanların en şereflisi, 49:13
+- milletlere ve kabilelere ayrıldı, 49:13
+
+Men ve bıldırcın, 2:57
+
+Adab,
+- evlere girerken, 24:27-29
+- evde, 24:58-61
+- Peygamberin evlerinde, 33:53
+- Peygamberi selamlayıp ona salat etmek, 33:56
+- Allah'ı, Elçisini veya erkek ve kadın müminleri incitmemek, 33:57-58
+- haber gelmeden önce doğrula, 49:6
+- başkasıyla alay etme, 49:11
+- toplantılarda, 58:11
+
+Nikâh, 2:232, 234
+- inkârcılar veya kölelerle, 2:221
+- kaç kişiyle helal, 4:3
+- Mehrin geri alınmaması (boşanma halinde), 4:20-21
+- nikâhı haram olanlar, 4:22-24
+- hür mümin kadınlarla evlenmeye gücü yetmeyenler için, 4:25
+- anlaşmazlık endişesinde iki hakem atanması, 4:35
+- eşin zulüm veya terk endişesinde sulh şartları, 4:128
+- bir eşe o kadar meyletme ki diğerini askıda bırakasın, 4:129
+- zinakârların nikâhı, 24:3
+- yoksullarla, 24:32
+- nikâha mali güç bulamayanlar, 24:33
+- Peygambere helal kılınan eşler, 33:50-52
+- cinsel birleşmeden önce boşanmada iddet yoktur, 33:49
+
+Şehitler,
+- ölü değillerdir, 2:154; 3:169
+- Allah'ın lütuf ve ikramından sevinirler, 3:170-171
+- bağışlanma ve rahmete kavuşurlar, 3:157-158
+- iyi rızık alacaklar, 22:58-59
+
+Marut, 2:102
+
+Meryem (İsa'nın annesi), doğumu, 3:35-7
+- İsa'nın müjdesi, 3:42-51; 19:16-21
+- doğum sancısında, 19:23-26
+- bebeği kavmine getirdi, 19:27-33
+- iftira, 4:156
+- iffetini korudu, 21:91; 66:12
+
+Meryem, S.19
+
+Mesed, S.111
+- El-Mescidü'l-Aksa, 17:1
+- El-Mescidü'l-Haram, 2:144, 149-150, 191, 196, 217; 5:2; 9:19, 28; 17:1; 48:25, 27
+- El-Meş'arü'l-Haram, 2:198
+
+Maun, S.107
+
+Me'va Cenneti, 53:15
+
+Ölçü ve tartı, tam ver, 11:85; 17:35; 83:1-5
+
+Buluşma,
+- Allah ile, 6:31
+- Büyük Günde, 19:37
+- ahirette, 30:16
+
+Elçiler, 2:253; 4:164-165; 40:78; 57:27
+- ardarda gelmesi, 2:87
+- silsilesi, 5:19; 23:44
+- öldürüldüler, 3:183
+- tehdit edildiler, 14:13
+- alay edildi, 6:10; 13:32; 15:11; 21:41
+- inkâr ve reddedildiler, 3:184; 6:34; 25:37; 34:45; 51:52
+- bir kısmına inanıp diğerlerini reddedenlere, 4:150-152
+- elçilerin toplanması, 5:109
+- müjdeci ve uyarıcı olarak gönderildi, 6:48; 14:4-8
+- her ümmetten bir tanık olarak, 16:89
+- her ümmet için bir elçi, 10:47; 16:36
+- Allah'ın ayetlerini okuyanlar, 7:35-36
+- bir melek elçi olarak, 17:95; 25:7
+- sıradan insanlardan başkası değil, 14:10-12; 17:94; 21:8; 25:7-8, 20
+- eşleri ve çocukları, 13:38
+- bkz. ayrıca Peygamberler
+
+Miraç, 17:1; 53:12
+
+Cimrilik/Cimriler, 57:24
+
+Musibetler, ellerinin kazandığı yüzünden, 42:30
+
+Ruhbanlık, emredilmedi, 57:27
+
+Maymunlar, azgınlar maymuna dönüştü, 2:65; 5:60; 7:166
+
+Miraç, 17:1; 53:12
+
+Ayların sayısı, 9:36-37
+
+Ay, 7:54; 10:5; 16:12; 22:18; 25:61; 36:39-40; 71:16; 91:2
+- yarılması, 54:1
+
+Musa,
+- ve kavmi, 2:51-61; 7:138-141, 159-162; 14:5-8; 61:5
+- ve Firavun, 2:49-50; 17:101-103; 20:17-53, 56-79; 23:45-49; 25:31-42; 40:23-46; 43:46-56; 51:38-40; 73:16; 79:15-26
+- Allah tarafından hidayete erdirildi, 6:84
+- dağ ve Rabbinin tecellisi, 7:142-145
+- buzağıya tapan kavmini azarlar, 7:148-156; 20:83-99
+- kitabında farklılıklar çıktı, 11:110
+- Tevrat verildi, 17:2
+- dokuz açık ayet, 7:133; 17:101
+- iki denizin birleştiği yere, 18:60-82
+- yanan çalılıkta kaderî buluşma, 20:9-36; 27:7-14; 28:29-35;
+- çağrıldı ve peygamberlik verildi, 19:51-53; 20:9-56
+- çocukluğu, annesi ve kız kardeşi, 20:38-40; 28:7-13
+- sihirbazlar iman etti, 20:70-73; 26:46-52
+- Medyen'de, 20:40; 28:22-28
+- Furkan verildi, 21:48
+- gizemli ateş, 27:7-12; 28:29-35
+- şehirde hataen bir Mısırlıyı öldürür, 28:14-21;
+- açık ayetlerle geldi, 29:39
+- Firavun'la kıssası, 7:103-137; 10:75-92; 11:96-99; 26:10-69;
+- Firavun ve kavmi için dokuz ayet, 7:130-133; 20:17-22; 17:101;
+- Firavun'un sihirbazlarını yener, 20:70-73; 26:46-52;
+- Medyen'e kaçışı ve evliliği, 28:22-28;
+- Levhaları alır, 7:142-154,
+- Dağ'da Allah'ı görmek ister, 7:142-145;
+- Allah tarafından onurlandırıldı, 33:69;
+- Allah'ın İsrailoğullarına nimetleri, 2:47-61;
+- İsrailoğulları Kudüs'e girmeyi reddeder, 5:20-29
+- doğru yola hidayet edildi, 37:114-122
+- Musa'nın kitabı, 53:36; 87:19
+
+Kudüs Mescidi, 17:7
+
+Kuba Mescidi, 9:107-108
+
+Mescitler, 2:187; 9:17-19
+- Allah'ın mescitlerini ayakta tutmak, 9:17-18
+
+Sivrisinek, bir örnek, 2:26
+
+Dağlar, 15:19; 16:15; 20:105-107; 21:31; 22:18; 31:10; 42:32-33; 59:21; 73:14; 77:10, 27; 81:3; 101:5
+
+Müddessir, S.74
+
+Muhacirler, 4:100; 9:100, 107, 117; 22:58-59; 24:22; 33:6; 59:8-9
+- kadınlar, 60:10-12
+
+Muhammed ﷺ
+- alay edildi, 2:104; 4:46; 25:41-42; 34:78
+- Elçiye saygı göster, 2:104; 4:46; 49:1-5
+- ona iman etme ahdi, 3:81
+- müminler üzerine tanık, 2:143
+- yalnızca bir Elçidir, 3:144
+- yumuşak davrandı, 3:159
+- görevi, 3:164; 7:157; 36:6; 52:29; 74:1-7
+- müminlere büyük bir lütuf olarak gönderildi, 3:164
+- hakla gönderildi, 4:170
+- gözetici kılınmadı, 6:107
+- ümmiydi, 7:157; 62:2
+- Allah'ın Elçisi olarak tüm insanlığa gönderildi, 7:158; 48:9, 29
+- apaçık bir uyarıcı, 7:184, 188; 11:2; 15:89; 53:56
+- deli değil, 7:184; 68:2; 81:22
+- seni itham edenler, 9:58
+- Peygamberi inciten erkekler, müminlere rahmet, 9:61
+- yalnızca vahyedilene uyar, 10:15-16; 11:12-14; 46:9
+- sözleri, 11:2-4; 12:108; 34:46-50
+- Allah onun üzerine tanıktır, 13:43; 29:52; 46:8
+- tanık, müjdeci ve uyarıcı olarak gönderildi, 11:2; 15:89; 26:194; 33:45; 34:28; 48:8
+- sıkılmaması için, 15:97; 16:127; 18:6
+- tanık olarak gönderildi, 16:89; 22:78; 73:15
+- hikmetle ve güzel öğütle davet et, daha güzel şekilde tartış, 16:125
+- Makamı Mahmud, 17:79
+- ilham verildi, 18:110
+- âlemlere rahmet, 21:107
+- ücret istemez, 25:57; 38:86; 42:23
+- emredildi, 27:91-93; 30:30; 66:9
+- Allah'tan bir rahmet olarak, 28:46-47
+- müminlere yakın, 33:6
+- uyulacak güzel örnek, 33:21
+- peygamberlerin sonuncusu, 33:40
+- ona salat edin, 33:56
+- tüm insanlığa gönderildi, 34:28
+- ücreti yalnızca Allah'tandır, 34:47
+- yalnızca bir insandır, 41:6
+- koruyucu olarak gönderildi, 42:48
+- elçilerde yeni bir şey değil, 46:9
+- İsrailoğulları'ndan bir tanık, 46:10
+- Ona biat Allah'a biattır, 48:10, 18
+- Cebrail'i gördü, 53:4-18; 81:22-25
+- ona karşı çıkma, 58:20-22
+- İsa tarafından müjdelendi, 61:6
+- Hak dini tüm dinler üzerine galip kılmak için, 61:9
+- karanlıktan aydınlığa, 65:11
+- inkârcılara ve münafıklara karşı çaba göster, 66:9
+- yüce ahlak, 68:4
+- şair veya kahin değil, 69:41-42
+- namaza bağlı, 73:1-8, 20; 74:3
+- ve kör adam, 80:1-12
+- secde edip Allah'a yaklaş, 96:19
+- saf sayfalar okuyor, 98:2
+- ailesine dair ayetler, 24:11-17; 33:28-34, 50-53, 55, 59; 66:1, 3-6; 108:3
+- bkz. ayrıca Elçiler; Peygamberler
+
+Muhammed (ﷺ), S.47
+
+Muhsinun (İyilik Yapanlar), 2:117, 195; 4:125, 128; 10:12-16; 16:128
+- Allah muhsinleri sever, 3:134, 148; 5:93
+- Allah muhsinlerin ödülünü zayi etmez, 5:85; 9:120; 11:115; 18:30
+- muhsinleri ödüllendiririz, 12:22; 37:80, 105, 110; 39:34; 77:44
+- muhsinlere müjde, 22:37; 46:12
+- Allah'ın rahmeti muhsinlere yakındır, 7:56
+- Allah onlarla beraberdir, 29:69
+- ebeveynlere karşı dürüst ve iyiliksever, 2:83
+- Allah'a karşı görevlerde sabırlı, 16:90
+- bkz. ayrıca İyilik ve Kötülük
+
+Mücadele, S.58
+
+Katırlar, 16:8
+
+Mülk, S.67
+
+Mü'min (bkz. Gafir), S.40
+
+Mü'minun, S.23
+
+Mümtehine, S.60
+
+Münafikun, S.63
+
+Cinayet, 2:178-179
+
+Mürselat, S.77
+
+Müslümanlar,
+- ilk Müslümanlar, 6:14, 163; 9:100; 39:12
+- bu ismi veren, 22:78
+- bağışlanma ve büyük ödül, 33:35-36
+
+Mutaffifin, S.83
+
+Müzzemmil, S.73
+
+Nebe', S.78
+
+Nadir, Beni Nadir (Yahudiler), 59:2, 9, 13
+
+Nahl, S.16
+
+Necis, 9:28
+
+Necm, S.53
+
+Necva (bkz. Sır)
+
+İsimler,
+- en güzel isimler O'na aittir, 7:180
+- en iyi isimler O'na aittir, 17:110; 20:8; 59:24
+
+Zorunluluk, zorunlu kalınırsa, 2:173; 6:145
+
+Komşu, 4:36
+
+Hilaller, 2:189
+
+Haber, sınanacak, 4:83
+
+Cimrilik/Cimriler, 3:180; 4:37; 17:29; 25:67; 47:38; 57:24; 92:8
+
+Gece, (sembol olarak) dinlenme için, 10:67
+- örtü olarak, 13:3; 78:10
+- hizmet vermek için, 14:32
+- Kadir Gecesi, 44:3-4; 97:1-5
+
+Nisa', S.4
+
+Nuh, 3:33; 4:163; 6:84; 9:70; 10:71; 11:25, 32, 36, 42, 45-46, 48, 89; 17:3; 21:76; 25:37; 26:105; 29:14; 37:75; 51:46; 54:9; 69:11;
+- alay edildi, 11:38;
+- Tufan, 29:14
+- Gemi ve Tufan, 7:59-69, 11:25-48; 23:23-31; 26:105-122; 71:1-28;
+- günahkâr oğlu kurtarılmadı, 11:42-48
+- günahkâr karısı, 14:9; 17:3, 17; 19:58; 21:76; 22:42; 26:105-106, 116; 33:7; 37:75, 79; 38:12; 42:13; 40:5, 31; 42:13; 50:12; 53:52; 57:26; 66:10; 71:1, 21, 26
+
+Nuh, S.71
+
+Nur, S.24
+
+Yemin, 2:224-227; 3:77; 5:89; 6:109; 16:38, 91-92, 94; 24:22, 53; 66:2; 68:10, 39; 77:3
+
+İtaat, 3:132; 4:59, 64, 66, 80-81; 5:95; 18:46; 24:51-52, 54; 47:33; 64:12
+
+Yerine getirilmesi gereken yükümlülükler, 5:1
+
+Evlat, 4:9; 42:49-50
+- dilediğine erkek ve dişi verir, 42:49
+
+Zeytin, 6:141; 16:11; 23:20; 24:35; 95:1
+
+Yalnızca Tek İlah, 2:163; 6:19; 16:22, 51; 23:91; 37:4; 38:65
+
+Yetimler, 2:83, 177, 215, 220; 4:2-3, 6, 8, 10, 36, 127; 6:152; 8:41; 17:34; 18:82; 59:7; 76:8; 89:17; 90:15; 93:6; 107:2
+- velileri, 4:6
+
+Kendi amelleri, her kavme güzel gösterildi, 6:108
+
+Çiftler, tüm yaratıklarda, 13:3; 30:8; 36:36; 42:11; 43:12; 51:9, 49; 53:45
+
+Hurma ağacı, 13:4; 19:25; 20:71; 59:5
+
+Misaller (benzetmeler, örnekler)
+- ateş yakan, 2:17-18
+- gökten yağmur fırtınası, 2:19-20
+- sivrisinek, 2:26
+- bağıranlar, 2:171
+- harabeye dönmüş şehir, 2:259
+- buğday tanesi, 2:261
+- düz kaya, 2:264
+- bahçe, 2:265-266
+- ip, 3:103
+- soğuk rüzgar, 3:117
+- diriliş, 7:57; 22:5; 41:39
+- dilini sarkıtan köpek, 7:176
+- bir uçurumun kenarı, 9:109-110
+- yağmur, 10:24
+- biçilmiş ekin, 10:24
+- kör ve sağır, 11:24
+- Allah ile sahte tanrılar, 13:14; 16:76;
+- hak ile batıl, 13:17
+- şiddetle esen rüzgardaki kül, 14:18
+- güzel ağaç, 14:24-25
+- kötü ağaç, 14:26
+- köle ve özgür adam, 16:75
+- efendisine yük olan dilsiz adam, 16:76
+- ipliğini çözen kadın, 16:92
+- güvenli ve müreffeh kasaba, 16:112-113
+- üzüm bahçeli iki adam, 18:32-44
+- dünya hayatı gökten inen su gibi, 18:45
+- gökten düşen ve kuşlarca kapılan, 22:31
+- sinek, 22:73
+- nur bir nişte gibi, 24:35-36
+- serap, 24:39
+- engin derin denizdeki karanlık, 24:40
+- örümcek, 29:41
+- ortaklar, 30:28
+- şehir halkı, 36:13-32
+- farklı renklerde ekinler, 39:21
+- pek çok ortağa ait adam, 39:29
+- büyüyen tohum, 48:29
+- katılaşmış kalpler, 57:16-17
+- yağmurdan sonra bitki örtüsü, 57:20
+- alçalan dağ, 59:21
+- eşek, 62:5
+- sular çekilip gitseydi, 67:30
+- bahçe halkı, 68:17-33
+
+Cennet,
+- Me'va Cenneti, 53:15
+- Firdevs Cenneti, 18:107; 23:11
+- altından ırmaklar akan bahçeler, 3:15, 198; 4:57; 5:119; 7:43; 9:72; 18:31; 22:23; 39:20; 57:12; 64:9; 98:8
+- Adn Cennetleri, 9:72; 13:23; 18:31; 19:61; 20:76
+- Ebedi Adn Cennetleri, 16:31; 35:33; 98:8
+- Naim Cennetleri, 37:43; 56:12, 89
+- Ebedi nimetler bahçeleri, 9:21
+- Bahçeler ve üzümlükler, 78:32
+- iki bahçenin meyveleri, 55:54, 62
+- her türlü meyve bol miktarda, 36:57; 37:42; 43:73; 44:55; 47:15; 55:52, 68; 56:20, 29, 32; 77:42
+- meyveler yakın olacak, 55:54; 69:23
+- meyve ve et, 52:22
+- kümes hayvanları eti, 56:21
+- dikensiz kiraz ağaçları ve muz ağaçları, 56:28-29
+- faydasız bilgi, kitap taşıyan eşek, 62:5
+- akan pınar, 88:12
+- Selsebil adlı pınar, 76:18
+- Kâfur adlı pınar, 76:5
+- Tesnim pınarı, 83:27-28
+- cennette bir ırmak, Kevser, 108:1
+- şarap, süt, saf bal ırmakları, 47:15
+- saf mühürlü şarap, beyaz, lezzetli, 37:45-46; 56:18; 76:21; 83:25
+- zencefil karıştırılmış kadeh, 76:17; 78:34;
+- su, 76:5
+- altın tepsiler ve kadehler, 43:71
+- gümüş kaplar ve kristal kadehler, 76:15-16
+- ince ve kalın ipekten yeşil elbiseler, 18:31; 22:23; 35:33; 44:53; 76:12, 21
+- altın ve inci bileziklerle süslü, 18:31; 22:23; 35:33; 76:21
+- ipek astarlı koltuklar, 55:54
+- yeşil yastıklar ve güzel döşekler sıra halinde, 55:76; 88:15
+- altın ve kıymetli taşlarla örülü yüksek tahtlar, 56:15; 88:13
+- yaygılmış zengin halılar, 88:16
+- birbirinin üstünde güzel köşkler, 9:72; 39:20
+- ebediyen orada kalacak, 3:198; 4:57; 5:119; 9:22, 72; 11:108; 43:71; 57:12; 98:8
+- ebedi yurt, 3:15; 35:35
+- tahtlar üzerinde birbirlerine karşı oturarak, 15:47; 37:44; 44:53; 56:16
+- orada ölümü tatmayacaklar, 44:56
+- oradan çıkarılmayacaklar, 15:48
+- kalplerden kin ve kırgınlık giderilmiş, 7:43; 15:47
+- tüm üzüntü giderilmiş, 35:34
+- yorgunluk, meşakkat ve bezginlik yok, 15:48; 35:35
+- ne acı ne karın ağrısı ne baş ağrısı ne de sarhoşluk, 37:47; 56:19
+- boş veya günah söz yok, 19:62; 56:25
+- zararlı söz ya da yalan yok, 78:35; 88:11
+- günahtan arınmış, 37:47; 52:23
+- ne aşırı sıcak ne de soğuk, 76:13
+- bilinen bir rızık olacak, 37:41; 56:89
+- huzur ve güvenlik içinde, 15:46; 44:51, 55; 50:34
+- esenlik yurdu, 6:127
+- cennette selamlaşmak, 7:46; 10:10; 13:24; 14:23; 16:32; 19:62; 36:58; 39:73; 56:26
+- salih amel işleyen girecek, 4:124; 42:22; 44:51
+- Rablerine karşı gelmekten sakinenler gruplar halinde götürülecek, 39:73
+- yaptıkları ameller sayesinde miras alacak, 43:72
+- Allah onlardan razı, onlar da Allah'tan razı, 5:119
+- Benim cennetim, 89:30
+- en büyük mutluluk, 9:72
+- büyük kurtuluş, 57:12; 64:9
+- en yüce kurtuluş, 9:72; 44:57
+- müminler için eğlence olarak bahçeler, 32:19
+- cennet halkı o gün neşeli işlerle meşgul olacak, 36:35
+- bahçeler, su pınarları ve meyveler arasında, 15:45; 19:63; 44:52; 52:17; 54:54; 55:46
+- Arş'ı çevreleyen melekleri görecekler, 39:75
+- Her Şeye Kadir Meliki'nin yanında, 54:55
+- diledikleri her şey onlara ait, 50:35
+- nurlu gözlü huriler, korunmuş yumurta gibi, 37:48-49; 44:54; 52:20; 55:58, 70; 56:22-23
+- temiz eşler, 3:15
+- gölgede eşleriyle tahtlar üzerinde yatarak, 36:55
+- aynı yaşta genç kızlar, 78:33
+- inci gibi saçılmış, hizmetlerine koşan ölümsüz gençler, 52:24; 56:17; 76:19
+- genişliği gökyüzü ve yer kadar, 3:133, 57:21;
+- akan su, serin gölge, lezzetler ve temiz eşler, 2:25; 4:57; 36:55-58; 37:40-49; 38:50-54; 44:51-57; 52:17-24; 69:19-24; 76:5-22;
+- müminlerin ödülü, 55:46-78; 56:10-40;
+- bal, süt, su ve şarap ırmakları, 47:15;
+- dualar ve selamlaşmalar, 10:9-10; 39:73-74;
+- esenlik selamıyla karşılanmak, 13:23-24; 14:32;
+- nimette ebedi kalış, 11:108;
+- çıkarılmayacak, 15:45-48;
+- önlerinde ve sağlarında parlayan nur, 57:12;
+- ne sıcak ne soğuk, 76:13;
+- tüm dilekler karşılanmış, 16:30-32; 41:31-32;
+- altın bilezikler ve ince ipek elbiseler, 18:30-31; 22:23-24; 44:51-53;
+- altın kadehlerin tepsileri, 43:67-73;
+- gümüş kaplar ve ulaşılabilir meyveler, 76:14-16;
+- tahtlar üzerinde yaslanmış, 15:47; 37:44; 52:20;
+- müminler Rablerine bakacak, 75:22-23
+
+Ebeveynler, onlara iyilik, 2:83, 215; 4:36; 16:90; 17:23; 29:8; 31:14; 46:15-17
+
+Allah'ın ortakları, asılsız bir iddia, 4:116; 10:34-35, 66; 16:86; 28:62-64, 71-75; 30:40; 42:21
+
+Otlak, 87:4-5
+
+Yol, 5:77; 16:94; 42:52-53; 43:43; 90:11-12
+- bkz. ayrıca Sırat
+
+Sabır, 3:186, 200; 10:109; 11:115; 16:126-127; 20:130; 40:55, 77; 42:43; 46:35; 70:5; 73:10
+- sabır ve namazla yardım isteyin, 2:45, 153; 20:132; 50:39
+
+Sabredenler,
+- ödüllerini tam alacak, 39:10
+- Allah sabredenlerle beraberdir, 8:46
+- sabırlı ol, 11:115
+- Allah'a karşı görevlerde sabırlı, 16:90
+- öfke anında sabırlı olmak, 41:34
+
+Barış, barışa meylet, 8:61
+
+İnci ve mercan, korunmuş, 52:24; 55:22; 56:23
+
+Kalem, 68:1; 96:4
+
+Kişi,
+- Allah kimseye gücünün üstünde yük yüklemez, 2:286; 7:42
+- Allah kimseye takatinin ötesinde yükleme yapmaz, 23:62
+- hiç kimse yarın ne kazanacağını ve hangi toprakta öleceğini bilemez, 31:34
+- herkes yaptığı tüm iyilik ve kötülükle yüz yüze gelecek, 3:30
+- herkes kendi adına yalvarararak gelecek, 16:111
+- herkes kazandığı için rehindir, 74:38
+- Allah kendini kınayan nefse yemin eder, 75:2
+
+Firavun, 28:6; 40:24
+- kavmi, 2:49; 3:11; 7:141; 44:17-33
+- boğuldu, 2:50
+- Musa ile ilişkisi, 7:103-137; 10:75-92
+- cesedi denizden çıkarıldı, 10:90-92
+- sınırları aştı; günah işledi ve isyan etti, 20:24; 69:9; 73:16; 85:17-20; 89:10-14
+- salih karısı, 28:8-9
+- tanrı olduğunu iddia etti, 28:38; 79:24
+- yok edildi, 29:39
+- Firavun'un ailesinden inanan bir adam, 40:28-44
+- bir kule inşası, 40:36-37
+- bkz. ayrıca Musa
+
+Dünya malı yığmak, 102:1-4
+
+Biat,
+- İslam için, 16:91
+- Elçiye biat Allah'a biattır, 48:10
+- müminlerin biatı, 48:18; 60:12
+
+Rehin (İpotek), rehin olsun, 2:283
+- herkes kazandığı için rehindir, 52:21; 74:38
+
+Şiir, 36:69
+
+Şairler, 26:224-227; 69:41
+
+Nar, 6:141
+
+Yoksullar, 2:88, 177, 215, 273; 4:8, 36; 8:41; 9:60; 17:26; 24:22, 32; 30:38; 47:38; 51:19; 59:7-8; 69:34; 74:44; 76:8; 89:18; 90:16; 93:8; 107:3
+
+Dua, 1:1-7; 3:8, 26-27, 147, 191-194; 4:103; 17:80; 23:118
+- ne yüksek sesle ne de kısık sesle, 17:110
+- inkârcılar için dua, 9:113-114
+- inkârcıların duası, 13:14
+- O, dua edenlere cevap verir, 42:26
+- sabır ve namazla yardım isteyin, 2:45, 153; 20:132; 50:39
+- Kıble'ye yönelik namazı ikame edin, 2:142-145, 149-150
+- namazı titizlikle koruyun, 2:238
+- yolculukta ve saldırı anında, 2:239; 4:101-102
+- sarhoşken yaklaşmayın, 4:43
+- cünüp haldeyken de, 4:43
+- namaz için temizlenmek, 4:43; 5:6
+- namazı bitirince, 4:103
+- namaz vakitleri, 11:114; 17:78-79; 20:130; 30:17-18; 50:39-40; 52:48-49; 73:1-6, 20
+- yalnızca Allah için secde, 13:15
+
+Cuma namazları, 62:9-11
+
+Tehlikede önlem almak, 4:71
+
+Savaş esirleri, 8:67-71
+- bkz. ayrıca Esirler
+
+Hak vaadi, 46:16-17
+
+Mülkiyet, 2:188; 3:186; 4:5, 7, 29; 51:19; 59:7-9; 70:25
+
+Peygamberler, 3:33-34, 146; 4:163; 5:20; 6:84-90; 23:23-50; 57:26
+- peygamberlerin ahdi, 3:81; 33:7-8
+- peygamberlere haram olan, 3:161
+- her peygambere bir düşman, 6:112; 25:31
+- bkz. ayrıca Elçiler
+
+Secde,
+- göklerde ve yerde olanlar ve gölgeleri Allah'a secde eder, 13:15
+
+Rızık, 10:59; 13:26; 14:32; 16:73; 34:36, 39; 42:12; 51:57; 67:21; 79:33
+
+Zebur, 4:163
+
+Ceza,
+- ertelenmesi, 3:178
+- el veya ayak kesme, 5:33
+- size yapılanın misliyle cezalandırın, 16:126
+- bu dünya ve ahiret cezası, 24:19; 68:33
+
+Temizlik,
+- bedensel, 4:43; 5:6;
+- ruhsal (kirlilikten arınma), 87:14; 91:9
+
+Kader, 5:5; 64:11
+
+Kadr, S.97
+
+Kaf, S.50
+
+Kalem, S.68
+
+Kamer, S.54
+
+Karia, S.101
+
+Karun, 28:76-82; 29:39
+
+Kasas, S.28
+
+Kıble, 2:142-145, 149
+
+Kısas, 2:178-179, 194; 5:45; 16:126; 17:33; 22:60; 42:40
+
+Kur'an,
+- tarifi, 13:31, 36, 37; 14:1; 56:77-80
+- Allah'tan başkası tarafından meydana getirilemez, 2:23; 10:38; 11:13; 17:88
+- Allah'tan başkasından gelseydi çok çelişki bulunurdu, 4:82
+- apaçık bir nur, 4:174; 42:52
+- indirildi, 6:19
+- Allah ona tanıktır, 6:19
+- açık kanıt, 6:157
+- ayetleri hakkında asılsız konuşma, 6:68
+- bir zikir, 7:63; 12:104; 18:101; 20:3, 99, 124; 25:29; 36:11, 69; 43:44; 50:8; 65:10; 72:17
+- okunduğunda dinleyin ve susun, 7:204
+- Zikir, 7:205; 15:6, 9
+- Hikmet Kitabı, 10:1; 31:2; 36:2
+- ilham edilmiş mesaj, 10:2, 109; 42:52
+- onu reddedenlere, 11:17
+- Arapça, 12:2; 13:37; 16:103; 20:113; 26:195; 39:28; 41:3, 44; 42:7; 43:3; 44:58; 46:12
+- bölümlere ayrılmış ve kademeli indirilmiş, 15:91; 17:106; 25:32; 76:23
+- bir ayetin değiştirilmesi, 16:10
+- okumak istediğinde, 16:98
+- hidayet eder, 17:9
+- müjde ve uyarı, 17:9-10
+- ve inkârcılar, 17:45-47
+- şafak vaktinde okunması melekler tarafından şahit olunan, 17:78
+- şifa ve rahmet, 17:82
+- insanlığa her türlü misal ve örneğiyle açıklanmış, ama çoğu kabul etmiyor, 17:89; 18:54; 39:27
+- kolay, 19:97; 44:58; 54:17, 22, 32, 40
+- kavmim bu Kur'an'ı terk etti, 25:30
+- önceki kitaplar tarafından doğrulanmış, 26:196
+- İsrailoğullarına ayrılıkçı oldukları konuları anlatıyor, 27:76
+- oku ve namaz kıl, 29:45
+- Allah'tan gelen hak, 32:3; 35:31
+- mübarek bir gecede, 44:3
+- her emrin hükmü orada karara bağlanmış, 44:4
+- Kur'an'ı derin düşünün, 47:24
+- onunla uyar, 50:45
+- Allah tarafından öğretilmiş, 55:1
+- değerli ve iyi korunmuş okuma, 56:77-78
+- temizlerden başkası dokunamaz, 56:79
+- bir dağa indirilseydi, 59:21
+- inkârcılar için bir acı, 69:50
+- kesin bir gerçek, 69:51
+- yavaş yavaş oku, 73:4
+- onurlu sayfalarda korunmuş, temiz ve kutsal, 80:13-16
+- tüm âlemlere bir zikir, 81:27
+- inkârcılar yalanlar, 84:22
+- korunmuş levhada, 85:22
+- hakkı batıldan ayıran söz, 86:13
+- temiz sayfalar okuyarak, 98:2
+- bkz. ayrıca Kitap; Vahiy
+
+Kureyş, S.106
+
+Kureyş,
+- inkârcıları, 54:43-46, 51
+- ısındırılmaları, 106:1-4
+
+Hahamlar ve rahipler, 9:31, 34
+
+Yarışmak, iyi amellerde yarışın, 5:48
+
+Ra'd, S.13
+
+Rahman, S.55
+
+Takva elbisesi daha iyidir, 7:26
+
+Yağmur,
+- Allah'ın nimeti, 56:68-70
+- taş yağmuru, 27:58
+
+Ramazan, 2:185
+
+Remy, 2:200
+
+Fidye,
+- kabul edilmeyecek, 57:15
+- inkârcıların teklifi, 3:91; 10:54; 13:18
+
+Orucun fidyesi, 2:196;
+- esirleri serbest bırakmak için, 8:67
+
+Rass halkı, 25:38; 50:12
+
+Karşılık,
+- karşılık günü, 1:4; 37:20; 51:12; 56:56; 82:17-18; 96:7
+- inkâr edenler, 107:1-7
+- kötülüğün karşılığı misliyle kötülüktür, 42:40
+
+Uzlaşma,
+- affedip uzlaşan, 42:40
+- eş ve koca arasında, 4:35
+- müminler arasında, 49:9-10
+
+Kayıt,
+- yazılı sicil, 83:7-9, 18-21
+- her ümmet kendi kaydına çağrılacak, 45:28-29
+- her kişinin amel sayfaları yazılmış, 81:10
+- gerçeği konuşan, 23:62
+- sağ elde, 69:19; 84:7-9
+- sol elde, 69:25
+- arkadan, 84:10-15
+
+Kayıt tutan melekler, 50:17-18, 23; 85:11
+
+Kolaylık, zorlukla birlikte, 94:5-6
+
+Din,
+- dinde zorlama yoktur, 2:256
+- İslam'dır, 3:19
+- Allah'ın dini, 3:83-84
+- İslam'dan başkası, 3:85
+- dinde sınırı aşmayın, 4:171; 5:77
+- tamamlandı, 5:3
+- dini oyun ve eğlence olarak görenler, 6:70
+- dinlerini bölüp fırkalara ayrılanlar, 6:159; 30:32
+- bkz. ayrıca 42:13-14; 43:65; 45:17
+- insanlar dinlerini fırkalara böldü, her grup kendi inancından memnun, 23:53; 30:32
+- dinde güçlük koymadı, 22:78
+- insanlık fıtrat üzere yaratıldı, 30:30
+- tüm peygamberler için aynı din, 42:13-15
+- atalar dini, 43:22-24
+
+Allah'ı zikretmek, 63:9
+- kalplar O'nun zikriyle huzur bulur, 13:28
+
+Tövbe,
+- cahillikle yapılan kötülükten sonra hemen tövbe edilirse kabul edilir, 4:17; 6:54
+- kötü ameller sürdürülüyorsa tövbenin faydası yok, 4:18
+- tövbeyi kabul eder ve günahları bağışlar, 4:25
+
+Kötüler için mühlet, 3:178; 10:11; 12:110; 14:42, 44; 29:53-55; 86:15-17
+
+Diriliş, 2:28, 7:53; 14:21; 16:38-40; 22:5-7; 23:15-16; 31:28, 41:39, 46:33-34; 50:3, 20-29, 41-44; 64:7, 75:1-15; 79:10-12; 86:5-8
+- Üzeyr kıssasında örnek, 2:259
+- İbrahim, 2:260
+- mağara ashabı, 18:9-26;
+- dirilişi inkâr edenlere uyarı, 17:49-52, 17:97-100, 19:66-72, 37:11-27, 50:1-15, 80:17-42
+
+Kıyamet Günü, 7:89; 20:100-101, 124
+- Gerçek Gün, 78:39
+- ücretiniz tam ödenecek, 3:185
+- amel sayfaları açılacak, 81:11
+- herkes ne getirdiğini bilecek, 81:14
+- herkes yaptığı tüm iyilik ve kötülükle yüz yüze gelecek, 3:30
+- kişi ne gönderdiğini ve ne bıraktığını bilecek, 82:5
+- haksızlık korkusu yok, 20:112
+- adalet terazileri, 21:47
+- amel terazileri, 23:102-103
+- zerre ağırlığınca iyilik veya kötülük yapan onu görecek, 100:7-8
+- tüm sırlar incelenecek, 86:9
+- kayıt sağ elde verilecek, 69:19; 84:7-9
+- kayıt sol elde verilecek, 69:25
+- kayıt arkadan verilecek, 84:10-15
+- inkârcılar için ağır bir gün, 25:26; 54:8; 74:9
+- ağır bir gün, 76:27
+- ağır bir yük taşıyacaklar, 20:100-101
+- özür beyan etmelerine izin verilmeyecek, 77:36
+- haksız kişi ellerini ısıracak, 25:27
+- haksızlar dostları ve putlarıyla toplanacak, 37:22
+- derin pişmanlık, acı ve umutsuzlukla mahvolmak, 30:12
+- diri diri gömülen kız çocuğu sorgulanacak, 81:8-9
+- en büyük dehşet, 21:103
+- çağırıcı korkunç bir şeye çağıracak, 50:41; 54:6-8
+- tek bir çığlık, 36:29, 49, 53; 38:15; 50:42
+- Saha (çığlık), 37:19; 79:13
+- yakın azap, 78:40
+- gökyüzü korkunç bir sarsıntıyla sarsılacak, 52:9; 56:4
+- gök yarılacak, 84:1-2
+- gök yarılacak, 77:9; 82:1
+- gök bulutlarla parçalanacak, 25:25
+- gök sağ elde dürülecek, 21:104; 39:67
+- göklerde ve yerde olanlar baygın düşecek, 39:68
+- gök açılacak, kapı gibi olacak, 78:19
+- gökyüzü kaynayan yağ tortusu gibi olacak, 70:8
+- yıldızlar düşecek, 81:2; 82:2
+- yıldızlar ışıklarını yitirecek, 77:8
+- güneş ışığını yitirecek, 81:1
+- denizler alev alev tutuşacak, 81:6
+- denizler birbirine karışacak, 82:3
+- saatin depremi, 22:1; 99:1
+- dağlar yürüyecek, 18:47; 27:88; 52:10; 77:9; 78:20; 81:3
+- toz haline getirilecek, 20:105; 56:5
+- atılmış yün gibi, 70:9; 101:5
+- yer ve dağlar şiddetle sarsılacak, 73:14; 79:6
+- yer toz haline getirilecek, 89:21
+- yer başka bir yere, gökler de başka göklere dönüştürülecek, 14:48
+- yer uzatılacak, 84:3-5
+- yer dümdüz ovaya dönecek, 18:47; 20:106
+- yer yüklerini dışarı atacak, 84:4; 99:2
+- kabirler altüst olacak, 82:4
+- kabirlerden diriliş, 21:97; 70:43
+- ölümün ardından yeryüzünde diri, 79:14
+- vahşi hayvanlar bir araya toplanacak, 81:5
+- kör olarak diriltilecek, 20:124-125
+- Sur üflenecek, 6:73; 18:99; 20:102; 23:101; 27:87; 36:51; 39:68; 50:20; 69:13; 74:8; 78:18; 79:7
+- Sahha, 80:33
+- ruhlar cesetleriyle buluşacak, 81:7
+- on günden fazla kalmayacaklar, 20:103
+- bir günden fazla kalmayacaklar, 20:104
+- ya da günün bir kısmı, 23:112-114
+- Toplanma Günü, 64:9
+- Hesap Günü, 37:21
+- Karar Günü, 77:38; 78:17
+- Ayrım Günü, 77:13-14
+- Keder ve Pişmanlık Günü, 19:39
+- inkâr edenler, 77:15-50
+- insanlar saçılmış pervaneler gibi olacak, 101:4
+- insanlar dağınık gruplar halinde ilerleyecek, 100:6
+- insanlar sarhoş gibi, 22:2
+- her gebe yükünü düşürecek, 22:2
+- develerin bakımı ihmal edilecek, 81:4
+- emziren anne çocuğunu unutacak, 22:2
+- akrabalar birbirini görecek, 70:11
+- adam akrabalarından kaçacak, 80:34-37
+- hiçbir dost dostunu sormayacak, 70:10
+- ne dost ne şefaatçi olacak, 40:18
+- hiç kimsenin başkası için bir şey yapma gücü olmayacak, 82:19
+- hiçbir güç ve yardımcı olmayacak, 87:10
+- müminlere korku yok, 43:68
+- müminler gölgeler, pınarlar ve meyveler arasında, 77:41-43
+- cennet halkı ve eşleri, 36:55-58
+- melekler büyük bir iniş ile inecek, 25:25
+- Bacak açığa çıkarılacak, 68:42-43
+- cennet yaklaştırılacak, 81:13
+- cehennem yaklaştırılacak, 89:23
+- cehennem tutuşturulacak, 81:11-12
+- sadaka yoluyla kısas kefaret olacak, 5:45
+
+Vahiy,
+- şüphe duyuyorsan, 2:23-24
+- neshedilen veya unutulan ayet, 2:106
+- doğru yol, 3:73
+- Rabbinden, öyleyse şüphe edenlerden olma, 6:114
+- anlayanlar için, 6:98
+- bir Rehber ve Rahmet, 7:203; 16:64; 31:3
+- Ruhü'l-Kudüs aracılığıyla, 16:102; 26:192-193
+- ayrıntılı açıklanmış, 6:98; 41:2-4
+- Kitap'tan olan Allah'tandır, 46:2
+- bkz. ayrıca Kitap ve Kur'an
+
+Zulme uğrayanların öç alması, 42:39-43
+
+Ödül,
+- en iyi amellere göre ve daha fazlası, 24:38; 29:7; 39:35
+- bir ödül olarak, 25:15
+- Allah iyilik yapanları en güzelle ödüllendirir, 53:31
+- iyiliğin karşılığı iyilikten başkası değil, 55:60
+
+Riba (bkz. Faiz)
+
+Salihler,
+- salihlerle birlikte olmak, 4:69
+- yeryüzüne varis olacak, 21:105
+- cennette, 51:15-19; 76:5-12
+- bkz. ayrıca İyilik
+
+Dürüstlük, 2:177, 207-208, 212; 3:16-17, 92, 133-135, 191-195; 4:36, 125; 5:93; 7:42-43; 16:97
+- dürüstlüğün sarp yolu, 90:11-18
+
+Doğru yol, Allah'ın yoludur, 3:73
+
+Yollar, 43:10
+
+Hicr (Kayalık Bölge) halkı, 15:80-85
+
+Rumlar, 30:2-5
+
+Çatı, gök, 21:32
+
+Ruh (Cebrail), 26:193; 67:12; 70:4; 78:38; 97:4
+
+Ruhü'l-Kudüs, 2:87, 253; 5:110; 16:102
+- bkz. ayrıca Cebrail
+
+Ruh (can, tin), 15:29; 17:85; 58:22
+
+Rum, S.30
+
+Sebe' (Sheba), 27:22-44; 34:15-21
+
+Sebe', S.34
+
+Cumartesi,
+- ihlal edenler, 2:65; 4:154; 7:163-166
+- yalnızca bunlar için emredildi, 16:124
+
+Sabiiler, 5:69; 22:17
+
+Kurban, 2:196, 200; 22:34-37
+
+Sad, S.38
+
+Sadaka, 2:196, 263-264, 270-271, 273; 4:114; 9:60, 75-76, 79, 103-104; 57:18; 58:12-13
+- gizli vermek açıktan vermekten iyidir, 2:271
+
+Safa ve Merve, 2:158
+
+Saff, S.61
+
+Saffat, S.37
+
+Seylü'l-Arim (Me'rib Seddi'nden bırakılan sel), 34:16
+
+Secde, S.32
+
+Sekine, 2:248; 9:26, 40; 48:4, 18, 26
+
+Salih, 7:73-79; 11:61-68; 26:141-159; 27:45-53; 91:13
+
+Selsebil (cennetteki pınar), 76:18
+
+Samiri, 20:85, 95-97
+
+Samuel, 2:247
+
+Şeytan, 2:36, 168, 208, 268, 275; 3:36, 155, 175; 4:38, 60, 76, 83, 119-120; 5:80, 91; 6:43, 68, 142; 7:20, 22, 27, 175, 200-201; 8:48; 16:63, 98; 20:120; 24:21; 25:29; 27:24; 41:36; 58:10, 19; 82:25
+- düşmanlık ve kin uyandırır, 5:91
+- kötü vesvese, 7:200-201
+- aldatır, 8:48
+- ihanet etti, 14:22
+- müminler üzerinde gücü yoktur, 16:99-100
+- asılsız şeyler atar, 22:52-53
+- bir düşmandır, 12:5; 35:6; 36:60
+- kibir, 2:34; 7:11-27; 15:26-43; 17:61-65; 38:73-85;
+- bir cin, 18:50-51;
+- Âdem'in ayartılması ve düşüşü, 7:20-23; 20:116-121;
+- müminler üzerinde otoritesi yok, 16:98-100;
+- amacı, 35:6-8;
+- insanlığa yeminli düşman, 12:5; 17:53;
+- taraftarları, 53:14-19;
+- işi, 5:90-91;
+- iyi amelleri engeller, 2:268;
+- müminler Allah'a ondan sığınır, 7:200-202;
+- hileleri zayıftır, 4:76;
+- taraftarlarını yarı yolda bırakır, 8:48;
+- cehennemde taraftarlarıyla konuşur, 14:22
+- bkz. ayrıca İblis
+
+Terazi, ağır olanın kurtuluşu, 7:8-9
+- bkz. ayrıca Denge
+
+Kitap,
+- kitap ehli (Yahudiler ve Hristiyanlar), 2:109; 3:64-65, 69-72, 75, 98-99, 110, 113, 199; 4:47, 153-161; 5:59-60, 68; 98:1
+- sakladıkları şey, 5:61-63
+- aralarında doğru yolda olanlar, 5:66
+- tanırlar ama inanmazlar, 6:20
+
+Denizler, 42:32-33; 45:12
+- iki deniz, 18:60; 25:53; 35:12; 55:19-20
+- denizler birbirine karışınca, 82:3
+
+Sır (Necva),
+- gizli konuşmalar, 4:114
+- üçün gizli danışması, 58:7
+- gizli istişareler, 58:8, 10
+- özel danışma, 58:12-13
+
+Dinde fırkalar ve bölünmeler, 6:15; 23:53; 30:32; 42:13-14; 43:65; 45:17
+
+Güvenlik, sıkıntının ardından O indirdi, 3:154
+
+Tohum, kim büyütür, 56:63-67
+
+Duyular, 23:78
+
+Yedi, yaratılan,
+- gök, 2:29; 23:17; 65:12; 67:3; 71:15
+- yeryüzünden de benzeri, 65:12
+
+Gölge,
+- Allah'a secde eder, 13:15; 16:48
+- gölgenin yayılması, 25:45
+
+Şems, S.91
+
+- Semud kavmine açık bir ayet olarak dişi deve, 7:73; 17:59; 26:155-158
+
+Gemi, yüzmesi bir ayet olarak; hizmet vermesi; şükretmek; O'nun lütfunu aramak, 2:164; 14:32; 16:14; 17:66; 22:65; 31:31; 35:12; 42:32-33; 43:12; 45:12; 55:24
+
+Şuayb, 7:85-93; 11:84-95; 29:36-37
+
+Şuara, S.26
+
+Şura, S.42
+
+Sidretü'l-Müntehâ, 53:14
+
+Medine Kuşatması, 33:9-27
+
+Sicin, 88:7-9
+
+Günah, 7:100; 74:43-6
+- zina, 4:15-16; 24:2, 19
+- büyük günahlardan kaçınılırsa küçükler affedilir, 4:31
+- insanlardan gizleyebilirler, ama Allah'tan gizleyemezler, 4:108
+- günahı olan yalnızca kendi aleyhine kazanır, 4:111
+- günah işleyen onu masum birine yıkarsa, 4:112
+- Allah kendisine ortak koşulmasını affetmez, ama dilediği başka günahları affeder, 4:116
+- günah işleyenler karşılığını alacak, 6:120
+- günahkârlar asla kurtulamaz, 10:17
+- Allah tüm günahları affeder, 39:53
+- büyük günahlar, 42:37
+
+Sinai Dağı, 19:52; 23:20; 95:2
+
+Günahkârlar, kulakları, gözleri ve derileri aleyhlerine tanıklık edecek, 41:20-23
+
+Sırat Köprüsü, 66:8
+
+İftira atan, 68:11-12; 104:1
+
+Köleler, 2:177-178; 4:25, 36, 92; 5:89; 24:33; 58:3; 90:13
+- bkz. ayrıca Savaş esirleri; Esirler
+
+Uyku, dinlenme için, 78:9
+
+Sodom, 29:31; 37:136
+
+Livata, 7:80-82; 11:77-83; 15:61-77; 29:28-29
+
+Süleyman, 2:102; 4:163; 6:84;
+- babası Davud'un daha adil bir hüküm vermesine yardımcı olur, 21:78-82;
+- ve karıncalar, 27:15-19
+- ve hüdhüd, 27:20-26
+- ve Sebe' Melikesi, 27:22-44; 34:15
+- Allah'ın ona nimetleri, 34:12-14, 38:34-40;
+- güzel atlara sevgisi, 38:30-33
+
+Evlatlık, 33:4-5
+
+Ruh (can, tin), 15:29; 17:85; 58:22
+
+Allah yolunda harcamak, 2:195, 215, 254, 262, 265, 267, 274; 3:92, 134; 8:3; 9:99; 13:22; 14:31; 22:35; 32:16; 35:29; 36:47; 47:38; 57:7; 63:10; 64:16
+- ihtiyacın dışında olanı, 2:219
+- Allah yolunda mal harcayanların örneği, 2:261
+- insanlara gösteriş için, 2:264; 4:38
+- Allah yolunda ne harcarsan karşılığı verilir, 2:272; 8:60; 34:39
+- israfla veya saçıp savurarak değil, 6:141; 17:26
+- ne savurgan ne cimri, 25:67
+- Allah yolunda harcamaktan elini sıkı tutanlar, 9:67
+
+Ruh (can), 15:29
+- bilgisi Allah'a aittir, 17:85
+- Allah müminleri onunla güçlendirir, 58:22
+
+Savaş ganimetleri, 8:41, 69; 48:15, 19-20; 48:15
+- bkz. ayrıca Ganimet
+
+Casusluk, 49:12
+
+Yıldız, 53:1, 49; 86:1-4
+
+Yıldızlar, 7:54; 15:16; 16:12, 16; 22:18; 25:61; 37:6-10; 56:75; 77:8; 81:2; 82:2
+
+Sırat-ı Müstakim, 1:6,
+- vb. Yol, 6:153,
+- vb. Çaba, 4:95; 8:72, 74, 75; 9:20, 24, 81; 22:78; 25:52; 29:69; 47:3; 60:1; 61:11
+
+Emzirme, süresi, sütanne, 2:233
+
+Sıkıntı, yoksulluk, sağlık kaybı ve musibetler; refah ve servet, 7:94-96
+
+Güneş, 7:54; 10:5; 14:32; 16:12; 22:18; 25:61; 36:38, 40; 71:16; 81:1; 91:1
+
+En yüce kurtuluş, 9:72; 44:57
+
+Sure, 10:38; 11:13; 47:20
+- inişi imanı artırır, 9:124-127
+
+Şüpheler, 49:12
+
+Rızık, 19:62
+- bkz. ayrıca Nafaka; Takdir
+
+Suva', 71:23
+
+Tebük, 9:40-59, 81-99, 117-118, 120-122
+
+Tegabün, S.64
+
+Tağut, 2:256-257; 4:51-60, 76; 5:60; 16:36; 17:39
+- bkz. ayrıca Sahte tanrılar
+
+Ta-Ha, S.20
+
+Tahrim, S.66
+
+Tekasür, S.102
+
+Tekvir, S.81
+
+Talak, S.65
+
+Talh (muz ağacı), 56:29
+
+Talut (Saul), 2:247-249
+
+Tarık, S.86
+
+Tesnim (pınar), 83:27-28
+
+Tevbe, S.9
+
+Tavaf, 2:200; 7:29, 31
+
+Teyemmüm, 4:43; 5:6
+
+Süre, her ümmetin belirlenmiş bir süresi vardır, ne öne alınabilir ne de ertelenebilir, 7:34; 10:49; 15:4-5; 16:61; 20:129
+
+Toprak, ordularla savunun, 3:200
+
+Sınama, Allah tarafından, 3:154; 34:21
+
+Semud, 7:73-79; 11:61-68; 17:59; 25:38; 26:141-159; 27:45-53; 29:38; 41:17; 51:43-45; 54:23-31; 69:4-8; 85:17-20; 89:9-14; 91:11-15
+
+Hırsız, cezası, 5:38-39
+
+Arş, 7:54, 58; 9:129; 10:3; 13:2; 20:5; 23:86, 116; 32:4; 40:15; 57:4; 85:15
+- su üzerinde, 11:7
+- sekiz melek taşıyor, 39:75; 40:7; 69:17
+
+Zaman, 45:24; 76:1; 103:1
+
+Tin, S.95
+
+Azap, 3:188; 6:15-16; 10:50-53; 11:10; 13:34; 16:88; 46:20; 70:1-2
+
+Kasaba, hiçbir kasabayı bilinen bir kader olmaksızın yok etmedik, 15:4
+
+Ticaret ve mülkiyet, 4:29
+
+Yolculuk, yeryüzünde dolaşmadılar mı, 6:11; 10:22; 12:109; 22:46; 27:69; 29:20; 30:9, 42; 34:18; 35:44; 40:21, 82; 47:10
+
+İhanet, 8:58; 22:38
+- bkz. İhanet
+
+Biriktirilen hazine, 9:35
+
+Allah'ın hazineleri, 6:50
+
+Ebediyet Ağacı, 20:120
+
+Ağaçlar, 22:18
+
+Sınavlar, 2:214-218; 64:15
+
+Sur, Kıyamet Günü'nde, 6:73; 18:99; 20:102; 23:101; 27:87; 36:51; 39:68; 50:20; 69:13; 74:8; 78:18; 79:7
+
+Sahha, 80:33
+
+Emanet göklere, yere ve dağlara teklif edildi, ama insan üstlendi, 33:72-73
+
+Emanetler, 2:283; 4:58; 8:27; 23:8; 33:72; 70:32
+
+Hak, 5:48; 23:70-71, 90; 25:33; 69:51
+- batılla karıştırma, gizleme, 2:42
+- hak geldi, batıl yok oldu, 17:81
+- hak vaadi, 46:16-17
+
+Tübba' kavmi, 44:37; 50:14
+
+Tur (Dağı), 28:29, 46
+
+Tur, S.52
+
+Tuva vadisi, 20:12; 79:16
+
+Uhud savaşı, 3:121-128, 140-180
+
+Ümmet, 2:143-144; 10:47, 49; 11:118; 16:36, 120
+
+Umre, 2:128, 158, 196
+
+Faiz (Riba), 2:275-276, 278-280; 3:130; 4:161; 30:39
+
+Üzeyr (bkz. Ezra)
+
+Uzza, 53:19
+
+Görünmez perde, 17:45-46
+
+Örtünme, 24:31; 33:59
+
+Seb'ul-Mesani ayetleri, 15:87
+
+Zafer,
+- Allah tarafından verildi, 48:1
+- Allah'ın yardımıyla, 61:13
+
+Erdemler (bkz. Dürüstlük; Müminler)
+
+Vadd, 71:23
+
+- "Bekleyin, biz de bekliyoruz", 7:71; 9:52; 10:102; 11:122; 20:135; 44:59; 52:31
+
+Vakıa, S.56
+
+Allah'a karşı savaş, 5:33-34
+
+İsraf etme, 6:141; 7:31; 17:26
+
+Su, her canlı şey sudan yaratıldı, 21:30; 24:45; 25:54
+- iki deniz, 18:60; 25:53; 35:12; 55:19-20
+- Allah'ın Arşı su üzerinde, 11:7
+- yağmur, 23:18
+
+Yol, 1:6; 42:52-53; 90:10
+- vb. kolay, kolaylaştır, 87:8
+- bkz. ayrıca Sırat
+
+Yolcu, 2:177, 215; 8:41; 17:26; 29:29; 30:38; 59:7
+
+Servet,
+- biriktiren, 104:2-4
+- Allah yolunda harcamak (bkz. Harcamak)
+
+Servet ve çocuklar, dünya hayatının süsü, 18:46
+
+Ölçü ve tartı, tam ver, 11:85; 17:35; 83:1-5
+
+Dullar, 2:234-235, 240
+
+Allah'ın iradesi, 10:99-100; 30:5; 81:29; 82:8
+
+İnsanın iradesi, doğru yürümek, Allah dilemedikçe, 28:29
+
+Rüzgarlar, 77:1-3
+- müjde habercileri olarak, 7:57; 30:46
+- bulut kaldırır, yağmur yağdırır, 15:22; 30:48
+- sarıya döner, 30:51
+
+Şarap (cennette)
+- saf içecekler, 37:45; 76:21
+- beyaz, lezzetli, 37:46
+- ırmaklar, 47:15
+- saf mühürlü, 83:25
+
+Başkalarına verileni dilememe, 4:32
+
+Tanıklar,
+- peygamberlerin ahdi için, 3:81
+- insanlık üzerine, 2:143; 22:78
+- bir sözleşme için, 2:282
+- bir erkeğe karşı iki kadın, 2:282
+- zinaya karşı, 4:16; 24:2
+- adil olun, 5:8
+- eller ve ayaklar tanıklık edecek, 36:65
+- kişi kendi aleyhine, 75:14
+
+Tanıklık Günü ve Tanıklık Edilen Gün, 85:3
+
+Eşler,
+- sizin için bir tarla, 2:223
+- sizin için örtü, 2:187
+- kendi cinsinizden, 16:72
+
+Mücadele eden kadın, 58:1-2
+
+Kadınlar, 2:222-223; 4:15, 19-22, 34, 127
+- iffetli kadınlara iftira atanlar, 24:4-5, 11-17, 23-26
+- örtünme, 24:31; 33:59
+- muhacir mümin kadınlar, 60:10-12
+- anlaşmazlıkta kendini ifade edemeyen, 43:17-18
+
+Eyke halkı, 15:78; 38:13; 50:14
+- bkz. ayrıca Aikah; Medyen, 26:176-191
+
+Dünya hayatı,
+- oyun ve eğlenceden başkası değil, 6:32; 29:64; 47:36; 57:20
+- insanları aldatır, 6:130
+- ahirete kıyasla az bir zevk, 9:38; 13:26; 28:60-61
+- dileyen elde eder, ama ahiretten nasibi olmaz, 11:15-16; 17:18; 42:20
+- servet ve çocuklar onun süsü, 18:46
+- şimdiyi sevenler ve ahireti bırakanlar, 75:20-21; 76:27
+
+Yazım, sözleşmeler için, 2:282
+
+Zalimler, 11:18-22, 101-104, 116-117; 39:47
+- bkz. ayrıca İnkârcılar
+
+Abdest (Wudu'), 4:43; 5:6
+
+Yağus, 71:23
+
+Yahya (Vaftizci Yahya),
+- müjdesi, 3:39; 21:90
+- salih, 6:85
+- bilge, merhametli, itaatkâr, 19:12-15
+
+Ya-Sin, S.36
+
+Yesrib (El-Medine) halkı, 33:13
+
+Ya'uk, 71:23
+
+Yunus, S.10
+
+Yusuf, S.12
+
+Zebur, 21:105
+
+Zekeriyya, 3:37-41; 6:85; 19:2-11; 21:89-90
+
+Zeyd bin Harise, Peygamberin azatlı kölesi, 33:37-38
+
+Zekât, 2:3, 43, 83, 110, 177, 277; 3:85; 4:77, 162; 5:12, 55; 6:141; 7:156; 9:5, 11, 18, 71; 19:31, 55; 21:73; 22:41, 78; 23:4; 24:37, 56; 27:3; 30:39; 31:4; 33:33; 41:7; 58:13; 73:20; 98:5
+- zekât ve sadakanın verileceği yerler, 2:273; 9:60
+
+Zencefil, 76:17
+
+Zelzele, S.99
+
+Zakkum, 17:60; 37:62-66; 44:43-46; 56:52
+
+Zihar, 33:4; 58:2-4
+
+Zuhruf, S.43
+
+Zümer, S.39
+
+Temel İnanç Esasları
+- İman tamamlandı, 5:3;
+- Allah'ın kabul ettiği tek yol, 3:19, 85;
+- İslam'ı kabul etmede zorlama yoktur, 2:256;
+- farklı inanç ve hukuk sistemleriyle tek din, 5:48; 22:67-70; 42:13-14;
+- İslam peygamberleri, 2:135-136; 3:84; 4:163-165;
+- emirler (Allah'a iman et ve iyilik yap), 4:36; 6:151-154; 17:23-39; 18:107-108;
+- Şeriatın beş amacı: imanı koruma, 5:54;
+- canı koruma, 5:32; 6:151;
+- malı koruma, 5:38;
+- namusu koruma, 5:5; 24:4;
+- aklı koruma, 5:90.
+
+Allah'a İman, 2:255
+- İlahi sıfatlar, Esmaü'l-Hüsna, 57:1-6; 59:22-24; 85:13-16; 112:1-4;
+- ibadete layık tek ilah, 1:1-4; 2:285; 6:3; 43:84;
+- tüm otorite O'na aittir, 3:26; O'nun Arşı, 7:54; 11:7;
+- Kürsüsü, 2:255;
+- insanlığa sayısız nimetler, 14:32-34; 2:164; 16:2-93; 31:20; 55:1-25;
+- hayat verir ve ölümü yaratır, 44:8; 53:44; 57:2; 67:2;
+- sevinç ve hüzün verir, 53:43;
+- bol veya az rızık verir, 13:26; 17:30; 29:62;
+- hüküm verenlerin en iyisi, 95:8;
+- merhametlilerin en merhametlisi, 12:92;
+- salihlerı sever, 85:14;
+- son derece bağışlayıcı ve azabı şiddetlidir, 13:6, 40:3;
+- İlk ve Son, 57:3;
+- tüm şeref ve güç O'nundur, 35:10;
+- bilinmeyeni ve görünmeyeni bilir, 6:59, 73; 9:94, 105; 13:8-10; 31:34; 32:6; 34:48; 35:38; 39:46; 49:18; 59:22; 62:8; 64:18; 72:26; 74:31; 87:7;
+- kalplerde gizleneni en iyi bilir, 5:7; 11:5; 31:23;
+- geçmişi ve geleceği bilir, 2:255;
+- her şeyi Levha-i Mahfuz'a yazdı, 6:38; 13:39; 36:12;
+- her şeye gücü yeter, 2:117; 3:189; 8:41; 9:116; 11:4; 16:40; 40:68; 41:39; 42:49; 57:2;
+- sonsuz gücü, 3:26-27; 24:45; 31:28-30;
+- gökleri ve yeri altı günde yarattı ve yorulmadı, 46:33; 50:38;
+- "Ol!" emriyle yaratır, 36:81-83;
+- yaratıklarına asla haksızlık etmez, 3:108; 4:40; 17:71; 21:47; 22:10; 26:209; 40:31; 41:46; 45:22; 50:29; 64:11; 78:6-16;
+- her şey O'nun iradesine boyun eğer, 3:83; 22:18; 30:26;
+- herkes O'na muhtaçtır, 11:6; 35:15; 55:29;
+- O'na tevekkül edin, 10:84-85; 12:67; 25:58;
+- ilahi iletişim biçimleri, 42:51;
+- O'ndan sakınmaya layık, 2:21; 3:102; 4:1; 33:70-71; 59:18;
+- hikmet O'ndan bir armağandır, 2:269;
+- kimseye muhtaç değildir, 3:97; 6:133; 112:2;
+- teslis değildir, 4:171;
+- eşi yoktur, 6:101;
+- çocukları yoktur, 10:68; 19:35; 43:81; 72:3; 112:3;
+- ortakları veya ortak tanrıları yoktur, 6:94; 7:191-195; 46:4-5;
+- O'na benzer hiçbir şey yoktur, 42:11; 112:4
+
+O'nun yaratısının mucizelerini tefekkür etme emri, 3:190; 6:99; 10:5-6; 13:3-4; 16:10-16; 88:17-20
+
+Yaratılıştaki ayetler, 2:164; 6:95-99; 7:57-58; 10:5-6; 13:2-4; 16:10-13, 65-69, 79; 23:27-30; 27:60-65; 30:19-25; 50:6-11
+- her şeyi bir amaç için yarattı, 10:5-6; 15:85; 16:3; 23:115; 29:44; 30:8; 38:27; 44:38-39; 75:36
+- evren mükemmelleştirilmiş, 67:3-4
+- geceyi gündüze katar, 3:27
+- çeşitlilik, 30:22; 35:27-28
+- bal, 16:68-69
+- süt, 16:66
+- çocuk nimeti, 42:49-50
+- gezegenler ve yörüngeler, 21:33; 36:38-44
+- takım yıldızlar, 25:61; 85:1
+- yıldızlar, 37:6-7; 67:5
+- bulutlar, 7:57; 30:48
+- deprem, 7:78; 7:155
+- heyelan, 28:81; 29:40
+- fırtına, 10:22
+- çiseleyen yağmur, dolu ve yağmur, 2:265; 6:99; 24:43; 50:9-11
+- gök gürültüsü ve şimşek, 13:12-13
+
+Bilimsel atıflar
+- insanlar erkek ve dişi gametlerden yaratılmıştır, 76:2;
+- embriyonun oluşumu ve gelişim evreleri, 22:5; 23:12-14;
+- üç karanlık tabaka içindeki cenin, 39:6;
+- tuzlu su, 25:53-54; 35:12; 55:19-20;
+- rüzgâr ile tozlaşma, 15:22;
+- parmak izleri, 75:3-4;
+- dağlar kazık olarak, 78:7;
+- demirin indirilmesi, 57:25;
+- ağrı reseptörleri, 4:56;
+- güneşin ışık kaynağı ve ayın yansıtılan ışık olması, 10:5;
+- ayın yarılması, 54:1;
+- gök korunaklı bir tavan olarak, 21:32;
+- tüm canlılar sudan yaratıldı, 21:30; 24:45;
+- karıncalar iletişim kurar, 27:17-19;
+- iç dalgalar, 24:40;
+
+Canlılar
+- melekler, 39:75
+- insanlar (yeryüzünde halife), 2:30; 6:165; 16:4
+- cinler, 72:1-15
+- hayvanlar insanlar gibi topluluklara aittir, 6:38
+- buzağı, 11:69
+- deve, 7:40
+- köpek, 18:22
+- fil, 105:1
+- atlar, katırlar ve eşekler, 16:8
+- aslan ve zebralar, 74:50-51
+- maymunlar, 2:65
+- domuzlar, 2:173
+- dişi deve, 7:73
+- koyun ve keçiler, 6:143
+- kurt, 12:17
+- kurbağalar, 7:133
+- yılan, 7:107
+- kuşlar, 24:41
+- karga, 5:31
+- hüdhüd, 27:20
+- bıldırcın, 2:57
+- balık, 18:61
+- balina, 37:142
+- karıncalar, 27:18
+- arılar, 16:68
+- sivrisinek, 2:26
+- sinek, 22:73
+- bitler ve çekirgeler, 7:133
+- örümcek, 29:41
+- bilinmeyenler, 16:8
+
+Bitkiler ve meyveler, 6:99; 13:4; 16:11; 36:33-35
+- muzlar, 56:29,
+- hurma, 19:25,
+- otlar, salatalık, sarımsak, mercimek ve soğan, 2:61,
+- üzüm, 80:28,
+- zeytin, 6:99,
+- incir, 95:1,
+- nar, 55:68,
+- kabak, 37:146
+
+Muhammed'e İman
+- Nitelikleri, yalnızca bir peygamber, 3:144; 6:50; 7:188; 18:110;
+- hakkı tebliğ etmek, 2:119; 35:24; 42:48;
+- peygamberlerin sonuncusu, 33:40;
+- üstün karakter, 3:159; 68:4;
+- örnek alınacak model, 33:21;
+- müminlere bir lütuf olarak, 3:164;
+- âlemlere rahmet, 21:107;
+- evrensel elçi, 4:170; 7:157-158; 34:28;
+- Sırat-ı Müstakim'e götürür, 42:52-53;
+- insanlara önem verir, 9:129;
+- Kıyamet Günü tanık olarak, 4:42; 16:89;
+- ümmî peygamber, 7:157-158; 29:48; 62:2;
+- Tevrat ve İncil'de müjdelendi, 7:157;
+- İsa tarafından müjdelendi, 61:6
+
+Peygamberin (ﷺ) karşılaştığı zorluklar
+- müşriklerin anlamsız talepleri, 8:32; 15:7; 17:89-93; 25:7-8;
+- asılsız suçlamalar, 10:2; 11:13; 21:5; 24:11-26; 25:4-6; 37:36; 38:4; 52:29-30;
+- hayatına kasteden girişimler, 8:30; 9:74;
+- onu inciten veya karşı çıkanlara uyarı, 4:115; 8:13; 9:61; 15:95; 33:57; 47:32; 96:9-19;
+- inkâra sabırla karşılık vermesi emredildi, 20:130; 30:60; 46:35; 70:5;
+- Allah tarafından güvence verilmesi emredildi, 5:67; 93:1-11; 94:1-8
+
+Peygamberin (ﷺ) hayatından dersler
+- hicretten Bedir Savaşı'na, 3:121-129; 8:42-44; 8:65-71;
+- Uhud Savaşı, 3:151-180;
+- Hendek Savaşı, 33:9-27;
+- Huneyn Savaşı, 9:25-27;
+- Medine, 9:40; Tebük, 9:38-123;
+- Beni Nadir, 59:2-6;
+- Hamraü'l-Esed, 3:172-175;
+- Hudeybiye Antlaşması, 48:1-7; 48:10-29
+
+Peygambere (ﷺ) verilen şeref ve onurlar
+- Allah ve melekleri ona salat eder, 33:56;
+- Mekke'den Kudüs'e gece yolculuğu, 17:1;
+- göklere yolculuk, 53:1-18;
+- bu dünyada ve ahirette onurlandırıldı, 17:79; 66:8; 108:1;
+- ona itaat Allah'a itaattir, 4:80;
+- Allah'a ve Elçisine itaatin ödülü, 4:69;
+- ailesi temizlendi, 33:33-34;
+- Cebrail'i gerçek suretinde görür, 53:1-18;
+- müminler ona itaatle emredildi, 59:7;
+- onunla konuşma adabı, 49:1-5
+- onu ziyaret adabı, 33:53;
+- eşleriyle ilişki adabı, 33:53;
+- Allah ondan ve sahabelerinden razıdır, 9:100; 9:117;
+- iman topluluğunun üstünlüğü, 2:143; 3:110
+
+Namaz, 2:45; 9:103; 51:18; 70:22-23; 75:31; 96:10; 108:2;
+- Cuma cemaat namazı, 62:9;
+- kıble yönü, 2:144; 2:149-150;
+- kötü amellerden alıkoymalı, 29:45;
+- vakitler, 11:114; 17:78; 17:79; 20:130; 24:36; 24:58; 30:17-18; 32:16; 38:18; 50:39-40; 51:17; 52:48-49; 73:2-4; 76:25-26;
+- tehlike veya yolculukta, 2:239; 4:101-102;
+- namazı ihmal edenlere uyarı, 19:59; 74:38-47; 107:5-7;
+- münafıkların namazı, 4:142; 9:54
+
+Temizlik, abdest (wudu), 5:6;
+- tam gusül, 2:222; 4:43;
+- teyemmüm, 4:43; 5:6
+
+Dualar (dua)
+- İbrahim'in duaları, 2:126-129; 14:35-41; 26:83-89;
+- Âdem ve Havva, 7:23;
+- İsa, 5:114;
+- Eyyub, 21:83;
+- Yunus, 21:87;
+- Yusuf, 12:33; 12:101;
+- Musa, 10:88-89; 20:25-35;
+- Muhammed, 17:80; 20:114
+- Nuh, 23:26; 26:117-118; 54:9-10; 71:26; 71:28;
+- Süleyman, 38:35;
+- Şuayb, 7:89;
+- Zekeriyya, 3:38; 19:2-6; 21:89-90;
+- melekler, 40:8-9;
+- Meryem'in annesi, 3:35-36;
+- Firavun'un karısı, 66:11;
+- Firavun'un sihirbazları, 7:126;
+- Kral Talut ve beraberindeki müminler, 2:250;
+- İsrailoğullarının müminleri, 10:85-86;
+- mağara ashabı, 18:10;
+- salihler, 2:285-286; 3:8-9; 3:16; 3:147; 3:191-194; 25:74; 59:10;
+- mazlumlar, 4:75
+
+Secde ayetleri
+- secdeler, 7:206; 13:15; 16:49; 17:109; 19:58; 22:18; 22:77; 25:60; 27:26; 32:15; 38:24; 41:37; 53:62; 84:21; 96:19
+
+Zekât, bir yükümlülük olarak, 2:110; 2:177; 2:277; 6:141;
+- müminlerin özelliklerinden, 22:41; 23:4; 51:19;
+- alacaklar, 9:60
+- sadaka, 2:177; 2:261-263; 2:267-274; 3:92; 63:10
+- vermekten kaçınanlara uyarı, 3:180; 9:34; 47:38
+
+Oruç,
+- Ramazanda, 2:183-185;
+- oruç saatleri, 2:187;
+- muafiyetler, 2:184-185;
+- orucun başlayacağı geceye ait ilişkiler, 2:187;
+- hac sırasında oruç, 2:196
+
+Hac,
+- gücü yetenlere farz, 3:97;
+- ritüeller ve hükümler, 2:158; 2:189; 2:196-203; 5:2; 22:26-37;
+- kurban, 2:196; 22:36-37;
+- ihramlıyken kara avı yasağı, 5:1; 5:94-95;
+- deniz avının helal olması, 5:96
+- Umre, 2:158; 2:196
+
+İman toplulukları
+- Müslümanlar, 2:132-136; 3:64; 3:84; 5:111; 22:77-78; 33:35; 41:33; 43:67-70; 72:14-15;
+- birbirlerinin velileri, 3:28; 9:71;
+- Hristiyanlar, 2:62; 2:111-140; 4:171-172; 5:14-19; 5:82-86; 5:116-120; 9:30-31; 22:17;
+- Yahudiler, 2:62, 111-140; 5:44-45; 6:146; 22:17; 62:6-8;
+- İsrailoğulları, 2:40-103, 122-123, 246-251; 3:49; 3:93-94; 5:12-13, 20-26, 32, 70-71, 78-81; 7:137-141, 148-153, 159-171; 10:83-93; 14:5-8; 17:2-8, 104; 20:80-98; 26:52-67, 197; 27:76; 44:23-33; 45:16-17; 46:10; 61:5-6;
+- Ehli Kitap (ağırlıklı olarak Yahudiler ve Hristiyanlar), 2:109; 3:64-115, 199; 4:123-172; 5:15-77; 6:20-21; 13:36; 28:52-55; 29:46-47; 57:16, 28-29; 74:31; 98:1-5
+- Müslümanlar onların kestiklerinden yiyebilir ve kadınlarıyla evlenebilir, 5:5
+- Yahudilere haram kılınan yiyecekler, 6:146;
+- Sabiiler, 2:62; 22:17;
+- Mecusiler, 22:17;
+- müşrikler (putperestler), 3:186; 6:148; 9:6, 17; 10:28; 16:86; 22:17; 53:19-30;
+- pagan batıl inanç uygulamaları, 2:189; 5:103; 6:138-144;
+- ateistler, 52:35-36
+
+Yasaklanan pagan uygulamaları
+- kız çocuklarını diri diri gömmek, 16:58-59; 81:8-9;
+- yoksulluk korkusuyla çocuk öldürmek, 6:137; 6:151; 17:31;
+- Kâbe etrafında ıslık çalmak ve el çırpmak, 8:35;
+- develeri putlara adamak, 5:103; 6:136;
+- putlar adına kurban kesmek, 6:121;
+- zihar boşanması, 33:4; 58:2-4;
+- ila (dört aydan fazla), 2:226-227;
+- kararlar için kura çekmek, 5:3;
+- çıplak halde Kâbe'yi tavaf etmek, 7:26-28;
+- hac sonrası evlere arka kapıdan girmek, 2:189
+
+İbadet nesneleri,
+- melekler (bazı pagan Araplar arasında), 34:40;
+- Eyke (Şuayb kavmi arasında), 26:176;
+- Ba'l (İlyas kavmi arasında), 37:125;
+- İsa (Hristiyanlıkta), 5:17;
+- putlar (İbrahim kavmi arasında), 21:52-53;
+- Lat, Uzza ve Menat putları (Arap putperestleri arasında), 53:19-20;
+- Vadd, Suva', Yağus, Ya'uk ve Nesr putları (Nuh kavmi arasında), 71:23;
+- güneş (Sebe' halkı), 27:24;
+- Şi'ra yıldızı (bazı pagan Araplar arasında), 53:49;
+- Firavun (eski Mısır'da), 26:29; 28:38; 79:24;
+- arzular, 25:43-44; 45:23;
+- çok tanrı inancının reddi, 17:42-43; 21:21-24; 25:3
+
+İbadet yerleri, mescitler, 9:18;
+- kiliseler, havralar ve manastırlar, 22:40;
+- kutsal alan, 3:39; 38:21;
+- mabet, 17:7
+- Dini unvanlar, rahipler, keşişler ve hahamlar, 5:44; 5:63; 5:82; 9:31-34
+
+Melekler,
+- Âdem'in yaratılışı hakkında sorarlar, 2:30-34
+- Allah'a hiç isyan etmezler, 21:26-27; 66:6;
+- Allah'ın kızları değiller, 21:26; 43:16-19;
+- koruyucu melekler, 13:11;
+- iki kayıt meleği, 50:16-18; 82:10-12;
+- Kıyamet Günü Allah'ın Arşı'nı taşıyan sekiz melek, 69:17;
+- cehennemin on dokuz bekçisi, 74:26-31;
+- Ölüm Meleği, 6:93; 16:28; 32:11;
+- Cebrail, 2:97; 66:4; 26:192-195; 53:1-14;
+- Mikail, 2:98;
+- Malik, 43:77
+
+Elçiler
+- melekler ve insanlar arasından, 22:75;
+- Ulü'l-Azm Peygamberler (İbrahim, Nuh, Musa, İsa ve Muhammed ﷺ), 33:7; 42:13; 46:35
+
+Kitaplar
+- Kur'an, Allah'tan bir vahiy, 12:2-3; 20:2-4; 26:192-195; 32:2-3;
+- tüm dünyaya bir hatırlatma, 68:51-52;
+- en doğru yaşam yoluna rehberlik eder, 17:9;
+- Ramazan ayında inmeye başladı, 2:185;
+- mübarek bir gecede, 44:3; 97:1-5;
+- aşamalı olarak indirildi, 17:105-106;
+- ezberlenmesi kolaylaştırıldı, 54:17;
+- önceki vahiylerdeki gerçeği doğrular, 3:3-4;
+- önceki kitaplar üzerinde en yüce otorite, 5:48;
+- şüphe yoktur, 2:2; 10:37;
+- çelişki yoktur, 4:82;
+- uydurma değil, 10:37-39;
+- İncil'den kopyalanmadı, 25:4-6;
+- şeytan tarafından indirilmedi, 26:210-212;
+- kimse benzerini getiremez, 17:88; 2:23-24; 10:13-14; 11:13
+- bozulmadan korunmuş, 15:9;
+- Levha-i Mahfuz'da korunmuş, 56:75-80;
+- yanlışlanamaz, 41:42;
+- gelecek olayları haber verir, 30:1-7; 48:27;
+- müminleri gözyaşlarına boğar, 5:83; 17:107-109;
+- kalplere dokunur, 39:23;
+- parlak bir nur, 4:174; 42:52;
+- müminler için şifa ve rahmet, 17:82
+- Tevrat, 3:3; 3:93; 5:46; 5:66-68, 110; 7:157; 9:111; 48:29; 61:6; 62:5
+- İncil, 3:3; 48; 5:46-47, 66-68, 77, 110; 7:157; 9:111; 48:29; 57:27
+- Zebur, 4:163; 17:55
+- İbrahim'in Sahifeleri, 53:36-44; 87:14-19
+
+Kader ve takdir, 3:145; 9:51; 10:107; 11:6; 54:49; 67:30;
+- özgür irade, 6:148-150; 11:118-119; 16:93; 33:72-73; 39:41; 76:1-3; 91:1-10
+
+Kıyamet Günü,
+- haksızlık yoktur, 2:281; 18:49; 40:17;
+- kıyamet dehşeti, 22:1-2; 27:82-84, 87; 40:18; 52:11-16; 69:13-18; 70:8-18; 73:17-18; 75:7-15; 77:8-15; 78:17-20; 79:34-36; 80:33-42; 81:1-14; 82:1-5; 84:1-5; 87:17-40; 99:1-8; 101:1-11;
+- o günde salihler ve günahkârlar, 11:105-108; 16:27-33, 84-89; 18:52-53; 20:100-111; 25:24-29; 30:12-16; 33:63-68; 39:68-75; 50:20-35; 55:37-41; 83:4-36;
+- şefaat, 2:48, 255; 6:51, 70; 10:3; 21:28; 32:4; 36:23; 39:43-44; 43:86; 53:26; 74:48
+
+Amel kayıtları, 17:13; 18:49;
+- müminler kayıtlarını sağ ellerinden alır, 69:19-24; 84:7-9;
+- inkârcılar kayıtlarını sol ellerinden alır, 69:25-37; 84:10-15;
+- Allah'tan hiçbir şey gizlenemez, 21:47; 40:16;
+- amellerin tartılması, 7:8; 23:102-104; 101:1-11;
+- uzuvların tanıklığı, 41:19-24; 24:24;
+- iyi ve kötü amellerin karşılığı, 6:160; 27:89-90; 28:84
+
+İnsan tipleri
+- müminler, 18:107-108;
+- inkârcılar, 4:167-169;
+- münafıklar, 4:145; 57:13-15;
+- cennet sakinleri, öne geçenler, 55:46-61; 56:10-26;
+- cennet sakinleri, ashab-ı yemin, 55:62-78; 56:27-40;
+- cehennem sakinleri, ashab-ı şimal, 55:31-45; 56:41-56;
+- A'raf halkı, 7:46-49
+
+Mali
+- Ticaret kuralları, 2:188; 2:275; 2:282-283; 4:29; 4:58; 6:152; 17:34-35; 24:36-37; 26:182; 30:39; 55:7-9; 62:9
+- Vasiyetler, mirasçı olmayanlara isteğe bağlı vasiyetler, 2:180-183; 4:11-12; yolculukta ölüm döşeğindeyken, 5:106-108
+- Rüşvet, 2:188
+- Borçlar, borç tahsilinde şefkat, 2:280; borç sözleşmesini yazıp şahit tutmak, 2:282; teminat almak, 2:283
+- Miras, kurallar, 4:7; 4:32-33; 8:75; evlat ve ebeveynlerin payları, 4:11; eşler ve anneden kardeşler, 4:12; tam kardeşler, 4:176; uymayanlara uyarı, 4:13-14
+- Faiz, yasağı ve uyarı, 2:275-281; 3:130-132; kârsız bırakılır, 30:39
+
+Hukuki
+- İsyan kanunu (hirabah), 5:33-34
+- Adalet, adaleti ayakta tutmak, 4:135; 5:8; 16:90-91; yetimlerin ve kadınların haklarını korumak, 4:127; bir Yahudiye adalet, 4:105-112; bir putperest için adalet, 4:58; Müslüman olmayanlara adalet, 60:8-9
+- Hukuki yollarla kısas (affetme seçeneğiyle), 2:178-179; 5:45; 16:126; 17:33; 42:37-43
+- Eşler arasında ayrılık, hul', 2:229; lian (zina suçlaması), 24:6-10
+
+Siyasi
+- İşleri istişareyle yürütmek (şura), 3:159; 42:38
+- Meşru müdafaa savaşı (cihad), adabı, 2:190-192; 2:216; 22:38-40; gelişigüzel saldırmamak, 4:94; mazlum erkek, kadın ve çocuklar için savaşmak, 4:75; ibadet yerlerini korumak, 22:37; şehitlerin ödülü, 2:154; 3:169-171; 9:111; 57:19; askeri güç potansiyel düşmanları caydırır, 8:60; barışa yönelmek, 2:192; 8:61
+- Taraflar arasında barış yapmak, 49:9-10
+- Savaş esirleri, muamele, 8:70; 47:4; 76:8
+
+Sosyal
+- Evlatlık edinme, 33:4-5
+- Yetimlere bakmak, 2:220; 4:2-10; 4:127; 6:152; 17:34
+- Boşanma, hakemlik ve uzlaşma, 4:35; 4:128; boşanma adabı, 2:229-231; 65:1-2; mehir ve bekleme süresi, 2:226-241; 4:19-21; 33:49; 65:1-7; kocanın mehri geri almaması, 4:20; eşin tacize uğramaması, 65:6; hamilelik sırasında eşe nafaka, 65:6; bekleme süresince, 65:6; eski kocasının çocuğunu emzirirse, 65:6; hiçbir ebeveyn çocuğu yüzünden zarara uğramamalı, 2:233; sütanne seçmek, 65:6
+- İyiliği emretmek ve kötülükten sakındırmak, 3:104; 3:110; 7:157; 9:71-72; 31:17
+- İnsanların eşitliği, 49:13; Allah ve kanun önünde erkek ve kadın, 3:195; 4:124; 5:38; 16:97; 24:2; 40:40; erkeklerin kadınlar üzerinde bir derece sorumluluğu, 2:228
+- Yoksulları, yetimleri ve esirleri doyurmak, 76:8-9
+- Affetmek ve öfkeyi kontrol etmek, 3:134; 42:40
+- Köleleri azat etmek ve yardımcı olmak, 4:92; 5:89; 9:60; 24:33; 58:3; 90:13
+- Ebeveynlere saygı göstermek, 4:36; 17:23-25; 31:14-15
+- Alçakgönüllülük, 17:37; 31:18-19
+- İbrahim'in rüyasının yorumu, 37:102; Yusuf'un rüyasının yorumu, 12:4; 12:36; 12:43; Muhammed'in rüyasının yorumu, 8:43; 48:27
+- Müslüman olmayanlara iyilik, 60:8
+- Evlilik, 4:3; 4:129; 16:72; 30:21; nikâhı helal ve haram kadınlar, 4:22-24; yakınlık adabı, 2:222-223; hamilelik ve emzirme, 2:233; 31:4; 46:15; 65:6; eski eşiyle yeniden evlenmek, 2:230; bekârların evlenmesine yardımcı olmak, 24:32; bekleme süresinde dolaylı ilgi göstermek, 2:235
+- Yeminler, 2:224-225; 16:91-92; 16:94; bozulan yemin için kefaret, 5:89
+- Zor zamanlarda sabır, 2:45; 2:153-157; 3:186; 12:18; 12:83; 16:127-128; 70:5
+- İzin almak, 24:58-60; başkalarının evlerine girmek, 24:27-28; kamusal alanlara girmek, 24:29
+- Sosyal adab, haberi doğrulamak, 4:83; 49:6; herkese saygı, 49:11-12; toplantı adabı, 58:11; özel konuşmalar, 4:114; 58:9
+- Adaklar, 2:270; 9:75-77; 22:29; 76:7
+- İsraf ve cimrilik, 7:31; 17:29; 25:67
+
+Diğer kıssalar
+- Habil ve Kabil, 5:27-31;
+- Hızır ve Musa, 18:60-82;
+- Fil Ordusu, 105:1-4;
+- Firavun'un kavminden inanan adam, 40:28-46;
+- Meryem'in doğumu, 3:35-36;
+- İsrailoğullarının ineği, 2:67-74;
+- Üzeyr, 2:259;
+- bahçe sahipleri, 68:17-32
+- Harut ve Marut, 2:102
+- Karun, 28:76-82
+- Lokman'ın oğluna öğütleri, 31:12-19;
+- iki bahçe sahibi, 18:32-44;
+- Sebe' halkı, 34:15-19;
+- mağara ashabı, 18:9-26;
+- hendek halkı, 85:1-8;
+- Cumartesi'yi çiğneyenler, 7:163-165;
+- Samiri ve Altın Buzağı, 20:83-97;
+- Talut ve Samuel, 2:247-251;
+- Zülkarneyn, 18:83-98
+
+Şeytanlar, 2:102; 6:71; 6:112; 6:121; 7:27; 7:30; 17:27; 19:68; 19:83; 22:3-4; 23:97-98; 26:210; 37:7-10; 38:37-38; 67:5;
+- şeytani insanlar ve cinler, 6:112; 114:6;
+- gök şeytanlara karşı korunmuş, 15:16-18
+
+Pişmanlıklar
+- Peygambere uymamak, 25:27;
+- Allah'a ve Elçisine itaat etmemek, 4:41-42; 33:64-68;
+- kötü arkadaşlar edinmek, 25:28-29; 26:96-102; 43:36-39;
+- Allah'ın ayetlerini inkâr etmek, 6:27-30;
+- ahiret için çalışmamak, 89:23-24
+
+Çaresiz yakarmalar
+- dünyaya geri dönmek için yalvarmak, 2:167; 6:27-28; 32:12-14; 42:44;
+- bir şans daha istemek, 35:36-37;
+- ateşten çıkarılmayı istemek, 40:10-12;
+- yiyecek ve su için, 7:51-52;
+- şefaatçiler için, 7:52-53;
+- toza dönüşmek istemek, 4:41-42; 78:40;
+- ölüm istemek, 43:74-78
+
+Salihlerin özellikleri
+- Yaratan'ın ve yaratılmışların haklarını gözetmek, 3:133-136; 4:36; 4:69-70; 6:151-154; 8:2-4; 13:19-24; 17:23-39; 18:107-108; 23:1-11; 25:63-76; 42:36-43
+
+Günahkârların özellikleri
+- nankör, 14:34;
+- cimri, 17:100;
+- aceleci, 21:37;
+- yalnızca zor zamanlarda Allah'ı anarlar, 10:12; 41:51;
+- sabırsız, 70:19;
+- tartışmacı, 18:54
+
+Büyük Günahlar
+- Allah'a ortak koşmak (şirk), 4:48; 4:116; 5:72; 6:19; 31:13;
+- ebeveynlere kötü davranmak, 4:36; 6:151; 17:23;
+- farz namazları terk etmek veya ihmal etmek, 19:59-60;
+- zekât vermemek, 41:6-7;
+- cinayet, 6:151; 17:33;
+- bir mümini kasıtlı olarak öldürmek, 4:93;
+- hırsızlık, 5:38;
+- hile ve aldatma, 7:85; 11:85; 26:182-183; 83:1-6;
+- yalan söylemek, 2:10; 9:77; 39:60;
+- Allah hakkında yalan söylemek, 6:93; 29:68; 61:7;
+- yasak cinsel ilişkiler, 2:222; 17:32; 24:2; 25:68; 29:28-30
+- zina iftirasında bulunmak, 24:4-5;
+- irtidat, 2:217; 5:54;
+- domuz ve diğer haram yiyecekleri yemek (leş, kan vb.), 5:3; 6:145;
+- alkol ve kumar, 5:90-91;
+- gıybet, 49:11;
+- yalancı tanıklık, 22:30;
+- sihir, 2:102; 10:77; 20:69
 """;

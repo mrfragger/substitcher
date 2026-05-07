@@ -847,7 +847,7 @@ class _EncoderScreenState extends State<EncoderScreen> {
       if (filePath == null) {
         final result = await FilePicker.platform.pickFiles(
           type: FileType.custom,
-          allowedExtensions: ['opus', 'm4a', 'm4b', 'ogg', 'mkv'],
+          allowedExtensions: ['opus', 'm4a', 'm4b', 'ogg', 'mkv', 'mp3'],
         );
         if (result == null || result.files.isEmpty) return;
         filePath = result.files.first.path!;
@@ -855,7 +855,7 @@ class _EncoderScreenState extends State<EncoderScreen> {
 
       final ext = path.extension(filePath).toLowerCase();
       if (ext != '.opus' && ext != '.m4a' && ext != '.m4b' && ext != '.mkv' && ext != '.ogg') {
-        _showError('Please select an .opus, .m4a, .m4b, .ogg or .mkv file');
+        _showError('Please select an .opus, .m4a, .m4b, .ogg, .mkv or .mp3 file');
         return;
       }
 

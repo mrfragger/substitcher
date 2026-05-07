@@ -1,22 +1,87 @@
+import 'quran_index_Afar.dart';
+import 'quran_index_Albanian.dart';
+import 'quran_index_Amharic.dart';
+import 'quran_index_Arabic.dart';
+import 'quran_index_AsanteTwi.dart';
+import 'quran_index_Assamese.dart';
+import 'quran_index_Azerbaijani.dart';
+import 'quran_index_Belarusian.dart';
 import 'quran_index_Bengali.dart';
+import 'quran_index_Bosnian.dart';
+import 'quran_index_Bulgarian.dart';
+import 'quran_index_Cebuano.dart';
+import 'quran_index_Chichewa.dart';
 import 'quran_index_Chinese.dart';
+import 'quran_index_ChineseTrad.dart';
+import 'quran_index_Croatian.dart';
+import 'quran_index_Czech.dart';
+import 'quran_index_Dagbani.dart';
+import 'quran_index_Danish.dart';
+import 'quran_index_DariPersian.dart';
+import 'quran_index_Dutch.dart';
+import 'quran_index_Fula.dart';
 import 'quran_index_French.dart';
+import 'quran_index_Georgian.dart';
 import 'quran_index_German.dart';
+import 'quran_index_Greek.dart';
+import 'quran_index_Gujarati.dart';
+import 'quran_index_Hausa.dart';
+import 'quran_index_Hebrew.dart';
 import 'quran_index_Hindi.dart';
+import 'quran_index_Hungarian.dart';
 import 'quran_index_Indonesian.dart';
+import 'quran_index_Iranun.dart';
 import 'quran_index_Italian.dart';
 import 'quran_index_Japanese.dart';
+import 'quran_index_Kannada.dart';
+import 'quran_index_Kazakh.dart';
+import 'quran_index_Khmer.dart';
+import 'quran_index_Kinyarwanda.dart';
+import 'quran_index_Kirundi.dart';
 import 'quran_index_Korean.dart';
+import 'quran_index_Kurdish.dart';
+import 'quran_index_Kyrgyz.dart';
+import 'quran_index_Lingala.dart';
+import 'quran_index_Lithuanian.dart';
+import 'quran_index_Luganda.dart';
+import 'quran_index_Luhya.dart';
+import 'quran_index_Macedonian.dart';
+import 'quran_index_Maguindanaon.dart';
+import 'quran_index_Malagasy.dart';
+import 'quran_index_Malay.dart';
+import 'quran_index_Malayalam.dart';
+import 'quran_index_Marathi.dart';
+import 'quran_index_Moore.dart';
+import 'quran_index_Nko.dart';
+import 'quran_index_Norwegian.dart';
+import 'quran_index_Oromo.dart';
+import 'quran_index_Pashto.dart';
+import 'quran_index_Persian.dart';
+import 'quran_index_Polish.dart';
 import 'quran_index_Portuguese.dart';
+import 'quran_index_Punjabi.dart';
+import 'quran_index_Romanian.dart';
 import 'quran_index_Russian.dart';
+import 'quran_index_Serbian.dart';
+import 'quran_index_Sinhalese.dart';
+import 'quran_index_Slovak.dart';
+import 'quran_index_Somali.dart';
 import 'quran_index_Spanish.dart';
 import 'quran_index_Swahili.dart';
 import 'quran_index_Swedish.dart';
 import 'quran_index_Tagalog.dart';
+import 'quran_index_Tajik.dart';
+import 'quran_index_Tamil.dart';
+import 'quran_index_Telugu.dart';
 import 'quran_index_Thai.dart';
 import 'quran_index_Turkish.dart';
+import 'quran_index_Ukrainian.dart';
 import 'quran_index_Urdu.dart';
+import 'quran_index_Uyghur.dart';
+import 'quran_index_Uzbek.dart';
 import 'quran_index_Vietnamese.dart';
+import 'quran_index_Yao.dart';
+import 'quran_index_Yoruba.dart';
 
 /// Verse counts per surah (1-indexed, index 0 is unused)
 const List<int> quranVerseCounts = [
@@ -94,6 +159,22 @@ class QuranIndexEntry {
   });
 }
 
+const Set<String> rtlQuranIndexLanguages = {
+  'Arabic',
+  'Urdu',
+  'Hebrew',
+  'Pashto',
+  'Uyghur',
+  'Kurdish',
+  'Nko',
+  'Fula',
+  'Persian',
+  'DariPersian',
+};
+
+bool isRtlQuranLanguage(String language) =>
+    rtlQuranIndexLanguages.contains(language);
+
 List<QuranIndexEntry> parseQuranIndex(String raw) {
   final normalized = raw
       .replaceAll('；', ';')
@@ -144,7 +225,7 @@ List<QuranIndexEntry> parseQuranIndex(String raw) {
       final subLine = lines[i].trim();
       if (subLine.startsWith('- ') || subLine.startsWith('-')) {
         final cleaned = subLine.replaceFirst(RegExp(r'^-\s*'), '');
-        final refStart = RegExp(r'\b(\d+:\d+|S\.\d+)').firstMatch(cleaned);
+        final refStart = RegExp(r'(\d+:\d+|S\.\d+)').firstMatch(cleaned);
 
         String subTopic;
         List<QuranVerseRef> subRefs;
@@ -186,7 +267,7 @@ QuranIndexEntry? _parseBlock(String block) {
   final trimmed = mainLine;
   final cleanBlock = trimmed;
 
-  final refStart = RegExp(r'\b(\d+:\d+|S\.\d+)').firstMatch(cleanBlock);
+  final refStart = RegExp(r'(\d+:\d+|S\.\d+)').firstMatch(cleanBlock);
 
   String topic;
   List<QuranVerseRef> refs;
@@ -281,46 +362,177 @@ void _parseAyahList(int surah, String ayahText, List<QuranVerseRef> refs) {
 
 const List<String> availableQuranIndexLanguages = [
   'English', // always first
+  // 'Afar', not found
+  'Albanian',
+  'Amharic',
+  'Arabic',
+  'AsanteTwi',
+  'Assamese',
+  'Azerbaijani',
+  'Belarusian',
+  'Bengali',
+  'Bosnian',
+  'Bulgarian',
+  'Cebuano',
+  'Chichewa',
   'Chinese',
+  'ChineseTrad *',
+  'Croatian',
+  'Czech *',
+  // 'Dagbani', not found
+  'Danish *',
+  // 'DariPersian', RTL
+  'Dutch',
+  // 'Fula', RTL
   'French',
+  'Georgian *',
   'German',
+  'Greek',
+  'Gujarati',
+  'Hausa',
+  'Hebrew',
   'Hindi',
+  'Hungarian *',
   'Indonesian',
+  // 'Iranun', not found
   'Italian',
   'Japanese',
+  'Kannada',
+  'Kazakh',
+  'Khmer',
+  'Kinyarwanda',
+  // 'Kirundi', not found
   'Korean',
+  // 'Kurdish', RTL
+  'Kyrgyz',
+  'Lingala',
+  'Lithuanian',
+  'Luganda',
+  // 'Luhya', not found
+  // 'Nko', RTL
+  'Norwegian *',
+  'Macedonian',
+  // 'Maguindanaon', not found
+  'Malagasy',
+  'Malay',
+  'Malayalam',
+  'Marathi',
+  // 'Moore', not found
+  'Oromo',
+  // 'Pashto', RTL
+  'Persian',
+  'Polish *',
   'Portuguese',
+  'Punjabi',
+  'Romanian',
   'Russian',
+  'Serbian',
+  'Sinhalese',
+  'Slovak *',
+  'Somali',
   'Spanish',
+  'Swahili',
   'Swedish',
   'Tagalog',
+  'Tajik',
+  'Tamil',
+  'Telugu',
   'Thai',
   'Turkish',
+  'Ukrainian',
   'Urdu',
+  // 'Uyghur', RTL
+  'Uzbek',
   'Vietnamese',
+  // 'Yao', not found
+  'Yoruba',
 ];
 
 String getQuranIndexRaw(String language) {
   switch (language) {
+    case 'Afar': return quranIndexAfarRaw;
+    case 'Albanian': return quranIndexAlbanianRaw;
+    case 'Amharic': return quranIndexAmharicRaw;
+    case 'Arabic': return quranIndexArabicRaw;
+    case 'AsanteTwi': return quranIndexAsanteTwiRaw;
+    case 'Assamese': return quranIndexAssameseRaw;
+    case 'Azerbaijani': return quranIndexAzerbaijaniRaw;
+    case 'Belarusian': return quranIndexBelarusianRaw;
     case 'Bengali': return quranIndexBengaliRaw;
+    case 'Bosnian': return quranIndexBosnianRaw;
+    case 'Bulgarian': return quranIndexBulgarianRaw;
+    case 'Cebuano': return quranIndexCebuanoRaw;
+    case 'Chichewa': return quranIndexChichewaRaw;
     case 'Chinese': return quranIndexChineseRaw;
+    case 'ChineseTrad *': return quranIndexChineseTradRaw;
+    case 'Croatian': return quranIndexCroatianRaw;
+    case 'Czech *': return quranIndexCzechRaw;
+    case 'Dagbani': return quranIndexDagbaniRaw;
+    case 'Danish *': return quranIndexDanishRaw;
+    case 'DariPersian': return quranIndexDariPersianRaw;
+    case 'Dutch': return quranIndexDutchRaw;
+    case 'Fula': return quranIndexFulaRaw;
     case 'French': return quranIndexFrenchRaw;
+    case 'Georgian *': return quranIndexGeorgianRaw;
     case 'German': return quranIndexGermanRaw;
+    case 'Greek': return quranIndexGreekRaw;
+    case 'Gujarati': return quranIndexGujaratiRaw;
+    case 'Hausa': return quranIndexHausaRaw;
+    case 'Hebrew': return quranIndexHebrewRaw;
     case 'Hindi': return quranIndexHindiRaw;
+    case 'Hungarian *': return quranIndexHungarianRaw;
     case 'Indonesian': return quranIndexIndonesianRaw;
     case 'Italian': return quranIndexItalianRaw;
     case 'Japanese': return quranIndexJapaneseRaw;
+    case 'Kannada': return quranIndexKannadaRaw;
+    case 'Kazakh': return quranIndexKazakhRaw;
+    case 'Khmer': return quranIndexKhmerRaw;
+    case 'Kinyarwanda': return quranIndexKinyarwandaRaw;
+    case 'Kirundi': return quranIndexKirundiRaw;
     case 'Korean': return quranIndexKoreanRaw;
+    case 'Kurdish': return quranIndexKurdishRaw;
+    case 'Kyrgyz': return quranIndexKyrgyzRaw;
+    case 'Lingala': return quranIndexLingalaRaw;
+    case 'Lithuanian': return quranIndexLithuanianRaw;
+    case 'Luganda': return quranIndexLugandaRaw;
+    case 'Luhya': return quranIndexLuhyaRaw;
+    case 'Macedonian': return quranIndexMacedonianRaw;
+    case 'Maguindanaon': return quranIndexMaguindanaonRaw;
+    case 'Malagasy': return quranIndexMalagasyRaw;
+    case 'Malay': return quranIndexMalayRaw;
+    case 'Malayalam': return quranIndexMalayalamRaw;
+    case 'Marathi': return quranIndexMarathiRaw;
+    case 'Moore': return quranIndexMooreRaw;
+    case 'Nko': return quranIndexNkoRaw;
+    case 'Norwegian *': return quranIndexNorwegianRaw;
+    case 'Oromo': return quranIndexOromoRaw;
+    case 'Pashto': return quranIndexPashtoRaw;
+    case 'Persian': return quranIndexPersianRaw;
+    case 'Polish *': return quranIndexPolishRaw;
     case 'Portuguese': return quranIndexPortugueseRaw;
+    case 'Punjabi': return quranIndexPunjabiRaw;
+    case 'Romanian': return quranIndexRomanianRaw;
     case 'Russian': return quranIndexRussianRaw;
+    case 'Serbian': return quranIndexSerbianRaw;
+    case 'Sinhalese': return quranIndexSinhaleseRaw;
+    case 'Slovak *': return quranIndexSlovakRaw;
+    case 'Somali': return quranIndexSomaliRaw;
     case 'Spanish': return quranIndexSpanishRaw;
     case 'Swahili': return quranIndexSwahiliRaw;
     case 'Swedish': return quranIndexSwedishRaw;
     case 'Tagalog': return quranIndexTagalogRaw;
+    case 'Tajik': return quranIndexTajikRaw;
+    case 'Tamil': return quranIndexTamilRaw;
+    case 'Telugu': return quranIndexTeluguRaw;
     case 'Thai': return quranIndexThaiRaw;
     case 'Turkish': return quranIndexTurkishRaw;
+    case 'Ukrainian': return quranIndexUkrainianRaw;
     case 'Urdu': return quranIndexUrduRaw;
+    case 'Uyghur': return quranIndexUyghurRaw;
+    case 'Uzbek': return quranIndexUzbekRaw;
     case 'Vietnamese': return quranIndexVietnameseRaw;
+    case 'Yao': return quranIndexYaoRaw;
+    case 'Yoruba': return quranIndexYorubaRaw;
     default: return quranIndexRaw;
   }
 }
@@ -348,11 +560,10 @@ Abraham (Ibrahim) S.14; 2:135-136, 148; 3:33, 84, 95; 4:54, 125, 163; 6:161; 9:7
 Abrar, 3:193, 198; 76:5; 82:13; 83:18-22
 Abrogation, 2:106, 16:101
 Abu Lahab, 111:1-5
-'Ad people, 7:65-74; 9:70; 11:59; 14:9; 22:42;
-25:38; 26:123; 29:38; 38:12; 40:31; 41:13, 15; 46:21; 50:13; 51:41; 53:50; 54:18; 69:4-6; 89:6
+'Ad people, 7:65-74; 9:70; 11:59; 14:9; 22:42; 25:38; 26:123; 29:38; 38:12; 40:31; 41:13, 15; 46:21; 50:13; 51:41; 53:50; 54:18; 69:4-6; 89:6
 Adam, 3:33, 59; 5:27; 7:26-27, 31, 35, 172; 17:70; 19:58; 36:60
 - angels to prostrate before, 2:34; 7:11
-- tree of knowledge, 2:35; 7:19-20:120-121
+- tree of knowledge, 2:35; 7:19-20; 20:120-121
 - banishment from Garden (no blame on Eve), 2:36; 7:24
 - honoured by Allah, tempted by Satan 2:30-38; 7:11-25; 17:61-65; 18:50; 20:115-123; 38:71-85;
 - forgiven by Allah 2:37; 20:122
@@ -1464,8 +1675,8 @@ Parables, (likeness, example, similitudes)
 - rain, 10:24
 - clean-mown harvest, 10:24
 - blind and deaf, 11:24
-- Allah vs. false gods 13:14; 16:76;
-- truth vs. falsehood 13:17
+- Allah versus false gods 13:14; 16:76;
+- truth versus falsehood 13:17
 - ashes on which the wind blows furiously,14:18
 - goodly tree, 14:24-25
 - evil tree, 14:26

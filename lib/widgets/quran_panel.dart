@@ -306,12 +306,17 @@ class _QuranPanelState extends State<QuranPanel> {
                 if (entry.refs.isEmpty && entry.isSubtopic) {
                   return Padding(
                     padding: const EdgeInsets.fromLTRB(48, 2, 16, 2),
-                    child: Text(
-                      entry.topic,
-                      style: const TextStyle(
-                        color: Colors.white38,
-                        fontSize: 12,
-                        fontStyle: FontStyle.italic,
+                    child: Directionality(
+                      textDirection: isRtlQuranLanguage(widget.selectedLanguage)
+                          ? TextDirection.rtl
+                          : TextDirection.ltr,
+                      child: Text(
+                        entry.topic,
+                        style: const TextStyle(
+                          color: Colors.white38,
+                          fontSize: 12,
+                          fontStyle: FontStyle.italic,
+                        ),
                       ),
                     ),
                   );
@@ -373,23 +378,29 @@ class _QuranPanelState extends State<QuranPanel> {
                             ),
                             const SizedBox(width: 8),
                             Expanded(
-                              child: Text(
-                                entry.topic,
-                                style: TextStyle(
-                                  color: hasActiveRef
-                                      ? Colors.purple[200]
-                                      : entry.isSubtopic
-                                          ? Colors.white70
-                                          : Colors.white,
-                                  fontSize: entry.isSubtopic ? 13 : 14,
-                                  fontWeight: hasActiveRef
-                                      ? FontWeight.bold
-                                      : entry.isSubtopic
-                                          ? FontWeight.normal
-                                          : FontWeight.w600,
+                              child: Directionality(
+                                textDirection: isRtlQuranLanguage(widget.selectedLanguage)
+                                    ? TextDirection.rtl
+                                    : TextDirection.ltr,
+                                child: Text(
+                                  entry.topic,
+                                  style: TextStyle(
+                                    color: hasActiveRef
+                                        ? Colors.purple[200]
+                                        : entry.isSubtopic
+                                            ? Colors.white70
+                                            : Colors.white,
+                                    fontSize: entry.isSubtopic ? 13 : 14,
+                                    fontWeight: hasActiveRef
+                                        ? FontWeight.bold
+                                        : entry.isSubtopic
+                                            ? FontWeight.normal
+                                            : FontWeight.w600,
+                                  ),
                                 ),
                               ),
                             ),
+                            const SizedBox(width: 10),
                             Text(
                               '${entry.refs.length} ref${entry.refs.length == 1 ? '' : 's'}',
                               style: const TextStyle(color: Colors.white24, fontSize: 11),

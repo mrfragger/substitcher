@@ -24,7 +24,7 @@ Abu Lahab, 111:1-5
 Pueblo de 'Ad, 7:65-74; 9:70; 11:59; 14:9; 22:42; 25:38; 26:123; 29:38; 38:12; 40:31; 41:13, 15; 46:21; 50:13; 51:41; 53:50; 54:18; 69:4-6; 89:6
 Adán, 3:33, 59; 5:27; 7:26-27, 31, 35, 172; 17:70; 19:58; 36:60
 - los ángeles deben postrarse ante él, 2:34; 7:11
-- el árbol del conocimiento, 2:35; 7:19-20:120-121
+- el árbol del conocimiento, 2:35; 7:19-20; 20:120-121
 - expulsión del Jardín (sin culpa sobre Eva), 2:36; 7:24
 - honrado por Allah, tentado por Satanás 2:30-38; 7:11-25; 17:61-65; 18:50; 20:115-123; 38:71-85;
 - perdonado por Allah 2:37; 20:122

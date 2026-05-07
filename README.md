@@ -390,7 +390,7 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 - topic index mostly from Hilali and Muhsin Khan Quran English translation
 - eventually will translate the index into most of the languages below
 - these are the vtt subs languages:
-- A_English_Saheeh, Afar,  Albanian, Amharic, Arabic, Asante, Assamese, Azerbaijani, Belarusian, Bengali, Bosnian, Bulgarian, Cebuano, Chichewa, Chinese, Croatian, Dari Persian, Dagbani, Dutch, English (Hilali Khan), Fula, French, German, Greek, Gujarati, Hausa, Hebrew, Hindi, Indonesian, Iranun, Italian, Japanese, Kannada, Kazakh, Kinyarwanda, Kirundi, Korean, Kurdish, Kurmanji, Kyrgyz, Lingala, Lithuanian, Luganda, Luhya, Macedonian, Maguindanaon, Malayalam, Malagasy, Malay, Marathi, Moore, Nepali, Nko, Oromo, Pashto, Persian, Portuguese, Punjabi, Romanian, Russian, Serbian, Sinhalese, Somali, Spanish, Spanish Latin, Swahili, Swedish, Tagalog, Tajik, Tamil, Telugu, Thai, Turkish, Ukranian, Urdu, Uyghur, Uzbek, Vietnamese, Yao, Yoruba
+- A_English_Saheeh, Afar,  Albanian, Amharic, Arabic, Asante, Assamese, Azerbaijani, Belarusian, Bengali, Bosnian, Bulgarian, Cebuano, Chichewa, Chinese, Croatian, Dari Persian, Dagbani, Dutch, English (Hilali Khan), Fula, French, German, Greek, Gujarati, Hausa, Hebrew, Hindi, Indonesian, Iranun, Italian, Japanese, Kannada, Kazakh, Khmer, Kinyarwanda, Kirundi, Korean, Kurdish, Kurmanji, Kyrgyz, Lingala, Lithuanian, Luganda, Luhya, Macedonian, Maguindanaon, Malayalam, Malagasy, Malay, Marathi, Moore, Nepali, Nko, Oromo, Pashto, Persian, Portuguese, Punjabi, Romanian, Russian, Serbian, Sinhalese, Somali, Spanish, Spanish Latin, Swahili, Swedish, Tagalog, Tajik, Tamil, Telugu, Thai, Turkish, Ukranian, Urdu, Uyghur, Uzbek, Vietnamese, Yao, Yoruba
 
 ![](images/quranindex.jpg)
 
