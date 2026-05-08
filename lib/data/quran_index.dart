@@ -13,11 +13,12 @@ import 'quran_index_Cebuano.dart';
 import 'quran_index_Chichewa.dart';
 import 'quran_index_Chinese.dart';
 import 'quran_index_ChineseTrad.dart';
+import 'quran_index_Circassian.dart';
 import 'quran_index_Croatian.dart';
 import 'quran_index_Czech.dart';
-import 'quran_index_Dagbani.dart';
 import 'quran_index_Danish.dart';
-import 'quran_index_DariPersian.dart';
+import 'quran_index_Dari.dart';
+import 'quran_index_Dhivehi.dart';
 import 'quran_index_Dutch.dart';
 import 'quran_index_Fula.dart';
 import 'quran_index_French.dart';
@@ -30,28 +31,23 @@ import 'quran_index_Hebrew.dart';
 import 'quran_index_Hindi.dart';
 import 'quran_index_Hungarian.dart';
 import 'quran_index_Indonesian.dart';
-import 'quran_index_Iranun.dart';
 import 'quran_index_Italian.dart';
 import 'quran_index_Japanese.dart';
 import 'quran_index_Kannada.dart';
 import 'quran_index_Kazakh.dart';
 import 'quran_index_Khmer.dart';
 import 'quran_index_Kinyarwanda.dart';
-import 'quran_index_Kirundi.dart';
 import 'quran_index_Korean.dart';
 import 'quran_index_Kurdish.dart';
 import 'quran_index_Kyrgyz.dart';
 import 'quran_index_Lingala.dart';
 import 'quran_index_Lithuanian.dart';
 import 'quran_index_Luganda.dart';
-import 'quran_index_Luhya.dart';
 import 'quran_index_Macedonian.dart';
-import 'quran_index_Maguindanaon.dart';
 import 'quran_index_Malagasy.dart';
 import 'quran_index_Malay.dart';
 import 'quran_index_Malayalam.dart';
 import 'quran_index_Marathi.dart';
-import 'quran_index_Moore.dart';
 import 'quran_index_Nko.dart';
 import 'quran_index_Norwegian.dart';
 import 'quran_index_Oromo.dart';
@@ -80,7 +76,6 @@ import 'quran_index_Urdu.dart';
 import 'quran_index_Uyghur.dart';
 import 'quran_index_Uzbek.dart';
 import 'quran_index_Vietnamese.dart';
-import 'quran_index_Yao.dart';
 import 'quran_index_Yoruba.dart';
 
 /// Verse counts per surah (1-indexed, index 0 is unused)
@@ -161,15 +156,15 @@ class QuranIndexEntry {
 
 const Set<String> rtlQuranIndexLanguages = {
   'Arabic',
-  'Urdu',
+  'Dari',
+  'Dhivehi *',
   'Hebrew',
-  'Pashto',
-  'Uyghur',
   'Kurdish',
   'Nko',
-  'Fula',
+  'Pashto',
   'Persian',
-  'DariPersian',
+  'Urdu',
+  'Uyghur',
 };
 
 bool isRtlQuranLanguage(String language) =>
@@ -362,7 +357,7 @@ void _parseAyahList(int surah, String ayahText, List<QuranVerseRef> refs) {
 
 const List<String> availableQuranIndexLanguages = [
   'English', // always first
-  // 'Afar', not found
+  'Afar',
   'Albanian',
   'Amharic',
   'Arabic',
@@ -377,13 +372,14 @@ const List<String> availableQuranIndexLanguages = [
   'Chichewa',
   'Chinese',
   'ChineseTrad *',
+  'Circassian *',
   'Croatian',
   'Czech *',
-  // 'Dagbani', not found
   'Danish *',
-  // 'DariPersian', RTL
+  'Dari',
+  // 'Dhivehi *',
   'Dutch',
-  // 'Fula', RTL
+  'Fula',
   'French',
   'Georgian *',
   'German',
@@ -394,32 +390,27 @@ const List<String> availableQuranIndexLanguages = [
   'Hindi',
   'Hungarian *',
   'Indonesian',
-  // 'Iranun', not found
   'Italian',
   'Japanese',
   'Kannada',
   'Kazakh',
   'Khmer',
   'Kinyarwanda',
-  // 'Kirundi', not found
   'Korean',
-  // 'Kurdish', RTL
+  'Kurdish',
   'Kyrgyz',
   'Lingala',
   'Lithuanian',
   'Luganda',
-  // 'Luhya', not found
   // 'Nko', RTL
   'Norwegian *',
   'Macedonian',
-  // 'Maguindanaon', not found
   'Malagasy',
   'Malay',
   'Malayalam',
   'Marathi',
-  // 'Moore', not found
   'Oromo',
-  // 'Pashto', RTL
+  'Pashto',
   'Persian',
   'Polish *',
   'Portuguese',
@@ -441,10 +432,9 @@ const List<String> availableQuranIndexLanguages = [
   'Turkish',
   'Ukrainian',
   'Urdu',
-  // 'Uyghur', RTL
+  'Uyghur',
   'Uzbek',
   'Vietnamese',
-  // 'Yao', not found
   'Yoruba',
 ];
 
@@ -465,11 +455,12 @@ String getQuranIndexRaw(String language) {
     case 'Chichewa': return quranIndexChichewaRaw;
     case 'Chinese': return quranIndexChineseRaw;
     case 'ChineseTrad *': return quranIndexChineseTradRaw;
+    case 'Circassian *': return quranIndexCircassianRaw;
     case 'Croatian': return quranIndexCroatianRaw;
     case 'Czech *': return quranIndexCzechRaw;
-    case 'Dagbani': return quranIndexDagbaniRaw;
     case 'Danish *': return quranIndexDanishRaw;
-    case 'DariPersian': return quranIndexDariPersianRaw;
+    case 'Dari': return quranIndexDariRaw;
+    case 'Dhivehi *': return quranIndexDhivehiRaw;
     case 'Dutch': return quranIndexDutchRaw;
     case 'Fula': return quranIndexFulaRaw;
     case 'French': return quranIndexFrenchRaw;
@@ -488,21 +479,17 @@ String getQuranIndexRaw(String language) {
     case 'Kazakh': return quranIndexKazakhRaw;
     case 'Khmer': return quranIndexKhmerRaw;
     case 'Kinyarwanda': return quranIndexKinyarwandaRaw;
-    case 'Kirundi': return quranIndexKirundiRaw;
     case 'Korean': return quranIndexKoreanRaw;
     case 'Kurdish': return quranIndexKurdishRaw;
     case 'Kyrgyz': return quranIndexKyrgyzRaw;
     case 'Lingala': return quranIndexLingalaRaw;
     case 'Lithuanian': return quranIndexLithuanianRaw;
     case 'Luganda': return quranIndexLugandaRaw;
-    case 'Luhya': return quranIndexLuhyaRaw;
     case 'Macedonian': return quranIndexMacedonianRaw;
-    case 'Maguindanaon': return quranIndexMaguindanaonRaw;
     case 'Malagasy': return quranIndexMalagasyRaw;
     case 'Malay': return quranIndexMalayRaw;
     case 'Malayalam': return quranIndexMalayalamRaw;
     case 'Marathi': return quranIndexMarathiRaw;
-    case 'Moore': return quranIndexMooreRaw;
     case 'Nko': return quranIndexNkoRaw;
     case 'Norwegian *': return quranIndexNorwegianRaw;
     case 'Oromo': return quranIndexOromoRaw;
@@ -531,7 +518,6 @@ String getQuranIndexRaw(String language) {
     case 'Uyghur': return quranIndexUyghurRaw;
     case 'Uzbek': return quranIndexUzbekRaw;
     case 'Vietnamese': return quranIndexVietnameseRaw;
-    case 'Yao': return quranIndexYaoRaw;
     case 'Yoruba': return quranIndexYorubaRaw;
     default: return quranIndexRaw;
   }
