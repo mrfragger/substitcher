@@ -5,18 +5,18 @@ Udhu (Wudu), 4:43; 5:6
 Ibrahimu (Ibrahim) S.14; 2:135-136, 148; 3:33, 84, 95; 4:54, 125, 163; 6:161; 9:70, 114; 12:6, 38; 16:120; 19:58; 21:51, 60, 62, 69; 22:43, 78; 26:69; 29:31; 33:7; 37:83, 104, 109; 38:45; 42:13; 43:26; 51:24; 53:37; 57:26; 60:4; 87:19
 - hakuwa Myahudi wala Mkristo, 3:67-68
 - alisimama katika hekalu la kwanza huko Bakkah, 3:97; 26:123
-- anaweka misingi ya Al-Ka'bah 2:124-129;
-- anawaita watu wake kuabudu Mungu Mmoja wa Kweli 2:130-133; 26:69-89; 29:16; 29:24-27;
-- anashindana na mfalme mwenye kiburi 2:258,
-- anauliza kuhusu ufufuo 2:260;
-- hakuwa Myahudi wala Mkristo 3:65-68;
-- anakataa ibada ya miili ya angani 6:74-87;
-- anapokea habari za kuzaliwa kwa Isaka 11:69-76; 51:24-30;
-- dua yake katika Al-Ka'bah 14:35-41;
-- anatembelewa na malaika 15:51-56;
-- mfano wa kuigwa 16:123;
-- anamweleza baba yake ukweli 19:41-50;
-- anaharibu sanamu na kuokolewa kutoka motoni 21:51-73; 37:83-113;
+- anaweka misingi ya Al-Ka'bah 2:124-129
+- anawaita watu wake kuabudu Mungu Mmoja wa Kweli 2:130-133; 26:69-89; 29:16; 29:24-27
+- anashindana na mfalme mwenye kiburi 2:258
+- anauliza kuhusu ufufuo 2:260
+- hakuwa Myahudi wala Mkristo 3:65-68
+- anakataa ibada ya miili ya angani 6:74-87
+- anapokea habari za kuzaliwa kwa Isaka 11:69-76; 51:24-30
+- dua yake katika Al-Ka'bah 14:35-41
+- anatembelewa na malaika 15:51-56
+- mfano wa kuigwa 16:123
+- anamweleza baba yake ukweli 19:41-50
+- anaharibu sanamu na kuokolewa kutoka motoni 21:51-73; 37:83-113
 - anawaita wote kufanya hija 22:26
 Abrar, 3:193, 198; 76:5; 82:13; 83:18-22
 Kufutwa kwa Sheria, 2:106, 16:101
@@ -26,11 +26,10 @@ Adamu, 3:33, 59; 5:27; 7:26-27, 31, 35, 172; 17:70; 19:58; 36:60
 - malaika waamriwa kusujudu mbele yake, 2:34; 7:11
 - mti wa maarifa, 2:35; 7:19-20; 20:120-121
 - kufukuzwa kutoka Bustanini (Hawa hana lawama), 2:36; 7:24
-- kutukuzwa na Allah, kudanganywa na Shetani 2:30-38; 7:11-25; 17:61-65; 18:50; 20:115-123; 38:71-85;
+- kutukuzwa na Allah, kudanganywa na Shetani 2:30-38; 7:11-25; 17:61-65; 18:50; 20:115-123; 38:71-85
 - kusamehewa na Allah 2:37; 20:122
 'Adiyat, S.100
-Pepo ya 'Adn, 9:72; 13:23; 16:31; 18:31;
-19:61; 20:76; 35:33; 38:50; 40:8; 61:12; 98:8
+Pepo ya 'Adn, 9:72; 13:23; 16:31; 18:31;19:61; 20:76; 35:33; 38:50; 40:8; 61:12; 98:8
 Msiba
 - habebeshwi mzigo wa mwingine, 6:164; 17:15; 35:18; 39:7; 53:38
 - habebeshwi zaidi ya uwezo wake, 2:286; 6:152; 7:42; 23:62
@@ -113,7 +112,7 @@ Uasi wa Dini, 3:72; 3:86-88; 3:90-91; 3:167; 4:137; 5:54; 9:74; 9:107; 16:106; 3
 Waasi, 47:25
 A'raf, S.7; 7:46, 48
 Arafat, 2:198
-Kubishana,
+Kubishana
 - usibishane kwa niaba ya wanaojidanganya, 4:107
 - ulibishana kwa ajili yao duniani, lakini nani atabishana Siku ya Ufufuo, 4:109
 Migogoro/Mashambulio
@@ -123,7 +122,7 @@ Silaha ya kinga, 16:81
 'Asr, S.103
 Ayat Al-Kursi, 2:255
 Msengenyaji, 49:12; 104:1
-Badr (vita vya), 3:13,
+Badr (vita vya), 3:13
 - mafunzo yake, 8:5-19, 42-48
 Al-Bait-ul-Ma'mur, 52:4
 Bakkah (Makkah), 3:96
@@ -133,7 +132,7 @@ Mizani, 7:8-9; 17:35; 21:47; 55:7-9; 57:25;101:6-9
 Banu An-Nadir, 59:2-6, 13
 Baqarah, S.2
 Bara'a (Angalia Taubah), S.9
-Barzakh, (Kizuizi), 23:100; 25:53; 55:20;
+Barzakh, (Kizuizi), 23:100; 25:53; 55:20
 - angalia pia 18:94-97; 34:54; 36:9
 Baiyinah, S.98
 Mnyama (wa Siku za Mwisho), 27:82
@@ -182,7 +181,7 @@ Biblia, 5:64, 5:65, 5:68
 - kupotoshwa kwake, 3:78; 5:14-15
 Ndege, 2:260; 3:49; 5:110; 6:38; 12:36, 41; 16:79; 21:79; 22:31; 24:41; 27:16-17, 20; 34:10; 38:19; 56:21; 67:19; 105:3
 Diya (Fidia ya damu), 2:178-179; 4:92; 17:33
-Nyara za vita, 4:94. 8:41; 59:6-8;
+Nyara za vita, 4:94. 8:41; 59:6-8
 - kuchukua kwa njia haramu, 3:162
 - angalia nyara
 Rushwa, 2:188
@@ -220,7 +219,7 @@ Mavazi, 7:26; 16:81
 - mavazi ya nje ya wanawake huzuia unyanyasaji na wanafiki, 33:59-60
 Washirika, 33:9, 22
 - angalia Ahzab Mashauriano ya pamoja, 42:38
-Uumbaji,
+Uumbaji
 - huanza na kurudiwa, 10:4; 21:104; 27:64; 29:19-20
 - mpya, 17:49, 98; 35:16
 - kwa ukweli, 15:85; 16:3; 29:44; 39:5; 44:39;45:22; 46:3
@@ -240,12 +239,12 @@ Kunguru, 5:31
 Kipimo (Furqan), 2:53, 185; 3:4; 8:29, 41; 21:48; 25:1
 Dahr, (angalia Insan,) S.76; 45:24
 - wakati, 76:1; 103:1
-Daudi, 5:78; 6:84; 17:55; 34:10, 13; 38:17-30;
+Daudi, 5:78; 6:84; 17:55; 34:10, 13; 38:17-30
 - alipewa Zaburi 4:163
 - anapigana na kumuua Jalut, 2:251
-- anatoa hukumu 21:78-80;
-- amepewa maarifa na unabii 27:15-16;
-- milima na ndege wanajiunga naye kumsifu Allah 34:10; 38:17-20;
+- anatoa hukumu 21:78-80
+- amepewa maarifa na unabii 27:15-16
+- milima na ndege wanajiunga naye kumsifu Allah 34:10; 38:17-20
 - anahukumu kati ya watu wawili 38:21-26
 Dawabb au Dabbah (kiumbe chenye uhai kinachosogea n.k.) 2:164; 6:38; 8:22, 55; 11:6, 56; 16:49, 61; 22:18; 24:45; 27:82; 29:60;31:10; 34:14; 35:28, 45; 42:29; 45:4
 Wafu watafufuliwa, 6:36
@@ -255,17 +254,17 @@ Kifo, 3:185; 3:193; 4:78; 6:61; 6:93; 21:35; 23:99-108; 31:34; 32:11; 33:19; 33:
 - jamii zisizo na ufunuo hazitaangushwa, 6:131; 9:115; 10:47; 11:117; 15:4; 16:119; 17:15; 28:59
 - waliouawa katika njia ya Allah wako hai, 2:154; 3:169
 - wakati wa kukimbia uovu kuelekea Allah, 4:100
-- haliwezi kuzuiwa wala kuchelewa 63:10-11;
-- ndugu pacha wa usingizi 6:60; 39:42;
-- waumini na wasioamini wakati wa kifo 8:50; 16:27-32; 41:30;
+- haliwezi kuzuiwa wala kuchelewa 63:10-11
+- ndugu pacha wa usingizi 6:60; 39:42
+- waumini na wasioamini wakati wa kifo 8:50; 16:27-32; 41:30
 - adhabu kaburini 40:46
 Madeni, 2:280, 282; 4:11-12
-Amri,
+Amri
 - kwa kila jambo lipo amri yake, 13:38
 - hatukuwaangamiza mji wowote ila kulikuwa na amri yake iliyojulikana, 15:4
 - amri ya kila jambo inatoka kwa Allah, 44:5
 - anapopanga jambo, anasema tu "Kuwa!" — nacho kipo, 2:117; 36:82; 40:68
-Matendo,
+Matendo
 - mabaya yamependezwa kwao, 47:14
 - kwetu yetu, kwenu yenu, 28:55; 42:15; 45:15
 - mema na mabaya ni kwa nafsi yake mwenyewe, 41:46
@@ -279,7 +278,7 @@ Dhariyat, S.51
 Dhikr, 7:205; 15:6, 9
 Dhul-Kifi, 21:85; 38:48
 Dhul-Qarain, 18:83-98
-Dhun-Nun (Mwenzi wa Samaki),
+Dhun-Nun (Mwenzi wa Samaki)
 Wasioamini (angalia pia Wanafiki)
 - wamwambie Muhammad ( ﷺ ) aitishe ghadhabu ya Allah juu yao kama uthibitisho, 6:57-58; 8:32; 10:49-52
 - beba urafiki nao kwa upole, 31:15
@@ -304,7 +303,7 @@ Watu wa mfereji, 85:4-10
 Utofauti
 - wa wanadamu, 30:22, 35:27-28
 - wa maisha, 35:27-28
-Talaka, 2:228-232, 236-237, 241; 4:35, 130; 65:1-7;
+Talaka, 2:228-232, 236-237, 241; 4:35, 130; 65:1-7
 - baada ya kipindi cha kusubiri, achana au patana, 2:231; 65:2
 - mashahidi wawili, 65:2
 - matunzo, 2:233, 241
@@ -340,7 +339,7 @@ Talaka, Mwanamke
 - isipokuwa ndoa haikutiwa muhuri, 33:49
 Mbwa, 7:176
 Punda, 2:259; 16:8; 31:19; 62:5; 74:50
-Kinywaji,
+Kinywaji
 - cha kulevya, 2:219; 5:90
 - safi na nyeupe chenye ladha, 37:45-46; 76:21
 - mvinyo safi uliofungwa muhuri, 83:25
@@ -363,13 +362,13 @@ Uovu, 4:123; 10:27-30; 19:83; 59:15
 - ulibadilishwa na wema, 7:95
 - wanaofuata tamaa zao mbaya, 47:14, 16
 - matendo yao yamependezwa kwao, 47:14
-Kuzidisha,
+Kuzidisha
 - kimekatazwa katika chakula, 5:87
 - katika dini, 4:171; 5:77-81
 Macho, masikio na ngozi zitashuhudia dhidi ya wenye dhambi, 41:20-23
 Uzairi, (Uzair) 9:30
 Uso au sura ya Allah, 2:115, 272; 6:52; 13:22; 18:28; 28:88; 30:38-39; 55:27; 76:9; 92:20
-Kupendeza,
+Kupendeza
 - Allah amependeza kwa kila watu matendo yao wenyewe, 6:108
 Imani, 2:108; 3:167, 177, 193; 5:5; 9:23; 16:106; 30:56; 40:10; 42:52; 49:7, 11, 14; 52:21; 58:22; 59:9-10
 - wakatao imani, 3:116
@@ -379,7 +378,7 @@ Imani, 2:108; 3:167, 177, 193; 5:5; 9:23; 16:106; 30:56; 40:10; 42:52; 49:7, 11,
 Fajr, S.89
 Falaq, S.113
 Mazungumzo ya uongo kuhusu Aya za Qur'an, 6:68
-Miungu ya uongo,
+Miungu ya uongo
 - mbali na Allah, masanamu na washirika wanaodaiwa 7:194-198; 16:20-21, 72, 86; 21:22, 24; 34:22, 27; 41:47-48; 46:5-6; 53:19-24; 71:23-24
 - usidharau wanaowaabudu badala ya Allah, 6:108
 - angalia pia Taghut
@@ -394,7 +393,7 @@ Fidyah (fidia), ya kufunga, 2:196
 - ya kukomboa wafungwa, 8:67
 - fidia inayotolewa na wasioamini, 3:91; 5:36,37; 10:54; 13:18
 Tini, 95:1
-Kupigana,
+Kupigana
 - katika njia ya Allah, dhidi ya wasioamini, 2:190-193, 244; 4:84, 95; 8:72, 74, 75; 9:12-16, 20, 24, 36, 123; 47:4; 61:11
 - kuamriwa, 2:216
 - katika miezi mitukufu, 2:217; 9:5
@@ -410,7 +409,7 @@ Fil, S.105
 Pepo ya Firdaus, 18:107; 23:11
 Moto, 56:71, 100:2
 Nzi, 22:73
-Chakula,
+Chakula
 - halali na haramu, 2:168, 172, 173; 5:1, 3-5, 88; 6:118-119, 121, 145-146; 16:114-118; 23:51
 - hakuna dhambi kwa alichokula zamani, 5:93
 - usizidishe, 5:87
@@ -432,7 +431,7 @@ Msamaha, 2:109; 4:48, 110, 116; 5:74; 7:199; 39:53; 42:5, 40-43; 45:14; 53:32; 5
 - shangamkia msamaha, 57:21
 - matendo mabaya yanabadilishwa na mema 25:68-71
 Ulaghai, (angalia Kusalitiwa) 83:1-6
-Hiari ya kuchagua,
+Hiari ya kuchagua
 - inazuiwa na Mapenzi ya Allah, 6:107; 10:99; 74:56;76:31; 81:28-29
 - yeyote atakaye, na aamini au akanusha, 18:29
 - achukue njia kuelekea kwa Mola wake, 76:29
@@ -466,14 +465,14 @@ Siku nzuri, 3:140
 - Allah huwapa wanaotenda mema kilicho bora zaidi, 53:31
 - je, kuna malipo kwa wema ila wema, 55:60
 - fanya mema kama Allah alivyokufanyia wewe, 28:77
-Wema na Uovu,
+Wema na Uovu
 - wema unatoka kwa Allah na uovu unatoka kwako mwenyewe, 4:79
 - ukifanya mema, ni kwa nafsi yako na ukifanya uovu, ni dhidi ya nafsi yako, 17:7;41:46
 - zuia uovu kwa wema, 23:96; 28:54; 41:34
 - tendo jema na baya haviwezi kuwa sawa, 41:34
 - kila mtu atakabiliwa na yote aliyoyatenda, 3:30
 - angalia pia Muhsinun
-Tendo jema,
+Tendo jema
 - lifunue au lifiche, 4:149
 - shindana katika, 5:48
 Injili, 3:3, 48, 65; 5:46-47, 66, 68, 110;7:157; 9:111; 48:29; 57:27
@@ -490,7 +489,7 @@ Shida, kila shida kuna nafuu, 94:5-6
 Harun, (Aaron)
 Harut, 2:102
 Hashr, S.59
-Mioyo,
+Mioyo
 - iliyoganda, 2:74; 22:53; 39:22; 57:16
 - iliyofungwa muhuri, 7:100-101; 40:35; 47:16; 63:3
 - iliyofunikwa, 17:46; 41:5
@@ -498,7 +497,7 @@ Mioyo,
 - iliyogawanyika, 59:14
 - iliyojaa hofu, 22:35
 - yenye ugonjwa, 2:10; 5:52; 8:49; 9:125; 22:53; 24:50; 33:12, 32, 60; 47:20, 29;74:31
-Mbingu,
+Mbingu
 - siri za mbingu ni za Allah, 16:77
 - haikuumbwa kwa mchezo, 21:16
 - na ardhi zilikuwa zimeungana, 21:30
@@ -528,7 +527,7 @@ Jahanamu (moto, mwali wa moto) 2:24, 119, 161, 166, 201; 3:10, 12, 116, 131, 151
 - kukata tamaa kunakowaka na baridi ya giza katika, 38:57
 - mnyororo wa dhiraa sabini, 69:32
 - kukaa kwa muda mfupi, 78:23
-Akhera,
+Akhera
 - nyumba ya akhera ni bora zaidi, 6:32; 7:169
 - nini kitakuwa mwisho katika akhera, 6:135
 - madhalimu hawatafanikiwa katika akhera, 6:135
@@ -545,7 +544,7 @@ Hijr (Eneo la Mawe), 15:80-85
 Hijr, S.15
 Ushoga 26:165-166; 27:55; 29:28-29
 Farasi, 16:8
-Saa ya Mwisho,
+Saa ya Mwisho
 - ujuzi wake uko kwa Allah peke yake, 7:187; 31:34; 33:63; 41:47; 68:26; 79:42-46
 - ghafla inawakuta, 6:31; 7:187;12:107; 43:66
 - inakujia, 6:40; 12:107; 20:15; 34:3
@@ -554,9 +553,9 @@ Saa ya Mwisho,
 - tetemeko la, 22:1
 - itasimamishwa, Siku hiyo, 30:12, 14
 - hakika inakuja, hakuna shaka, 40:59;45:32; 51:5-6
-- dalili 21:96; 27:82; 43:61; 47:18; 54:1-2;
-- majina 1:3; 2:4; 3:55; 19:39; 30:56; 37:21; 40:15; 41:47; 42:7; 50:20; 56:1; 64:9; 69:1; 79:34; 80:33; 88:1; 101:1-3;
-- itawashangaza watu 6:31; 7:187;
+- dalili 21:96; 27:82; 43:61; 47:18; 54:1-2
+- majina 1:3; 2:4; 3:55; 19:39; 30:56; 37:21; 40:15; 41:47; 42:7; 50:20; 56:1; 64:9; 69:1; 79:34; 80:33; 88:1; 101:1-3
+- itawashangaza watu 6:31; 7:187
 - baragumu litapigwa 6:73; 23:101; 39:68
 Nyumba, adabu za kuingia, 24:27-29
 Hud, 7:65-72; 11:50-60; 26:123-140; 46:21-26
@@ -565,7 +564,7 @@ Hujurat, S.49
 Humazah, S.104
 Hunain (vita vya), 9:25
 Hur (wanawake wa Peponi), 44:54; 52:20
-Wanafiki,
+Wanafiki
 - wanasema: tunamwamini Allah na Siku ya Mwisho, lakini kwa kweli hawaamini, 2:8
 - wanajidanganya wenyewe, 2:9
 - ugonjwa mioyoni mwao, 2:10; 8:49; 22:53;33:12; 47:29
@@ -609,8 +608,8 @@ Ilah, Mmoja tu, 2:163; 6:19; 16:22, 51; 23:91; 37:4; 38:65
 Uzinzi; ushahidi wa mashahidi, 4:15-18; 24:2, 19
 Illiyyun, 83:18-21
 Najisi (Najas) 9:28
-'Imran,
-- mke wake, 3:35;
+'Imran
+- mke wake, 3:35
 - binti yake, 66:12
 Jambo la Kweli, 69:1-3
 Infitar, S.82
@@ -629,7 +628,7 @@ Chuma, 57:25
 'Isa, angalia Yesu
 Isaka, (Ishaq) 2:133; 4:163; 6:84; 19:49;21:72; 29:27; 37:112-113
 Ismaili (Isma'il), 2:125-129, 133; 4:163;6:86; 19:54-55; 21:85; 38:48
-anaweka misingi ya Al-Ka'bah pamoja na baba yake 2:125-140;
+anaweka misingi ya Al-Ka'bah pamoja na baba yake 2:125-140
 hadithi ya dhabihu 37:100-113
 Uislamu, 3:19, 85; 5:3; 6:125; 39:22; 61:7
 - wa kwanza wa wanaoislamu, 6:14,163; 39:12
@@ -658,8 +657,8 @@ Yakobo, (Ya'qub) 2:132-133; 4:163; 6:84;12:18; 19:49; 21:72; 29:27
 Jalut, (angalia Goliath)
 Jamarat, 2:200
 Jathiyah, S.45
-Yesu, Isa mwana wa Maryamu,
-- mama yake alichaguliwa juu ya wanawake wote wa ulimwengu 3:42;
+Yesu, Isa mwana wa Maryamu
+- mama yake alichaguliwa juu ya wanawake wote wa ulimwengu 3:42
 - anashuhudia Siku ya Ufufuo, 4:159
 - habari njema za kuzaliwa kwake, 3:45-47; 19:22-23
 - Mjumbe kwa Wana wa Israeli, 3:49-51
@@ -682,9 +681,9 @@ Yesu, Isa mwana wa Maryamu,
 - maoni tofauti kuhusu, 43:65
 - si zaidi ya mtumwa na mfano kwa Wana wa Israeli, 43:59
 - habari njema za Mjumbe ambaye jina lake litakuwa Ahmad, 61:6
-- kuzaliwa kwake kwa ubikira, ujumbe, na miujiza 3:45-51; 19:16-38;
-- ukumbushaji wa neema za Allah 5:110-115;
-- anakataa kuwa mungu 5:116-120;
+- kuzaliwa kwake kwa ubikira, ujumbe, na miujiza 3:45-51; 19:16-38
+- ukumbushaji wa neema za Allah 5:110-115
+- anakataa kuwa mungu 5:116-120
 - huruma na neema mioyoni mwa wafuasi wake 5:82; 57:27
 Wayahudi na Wakristo, 2:140; 4:153-161, 171; 5:18
 - wanasikiliza uongo, 5:41-42
@@ -694,41 +693,41 @@ Wayahudi na Wakristo, 2:140; 4:153-161, 171; 5:18
 Jibril, (angalia Gabriel)
 Jihad, (Kupigana, Kujitahidi) 2:216; 9:24; 22:78; 25:52
 Jinn, S.72
-Majini, 6:100, 112; 15:27; 34:41; 38:37; 46:18,29; 55:33, 39;
-Majini, waliumbwa kutoka moto 15:25; 55:15;
-- majini wanaoamini na wasioamini 72:1-15;
+Majini, 6:100, 112; 15:27; 34:41; 38:37; 46:18,29; 55:33, 39
+Majini, waliumbwa kutoka moto 15:25; 55:15
+- majini wanaoamini na wasioamini 72:1-15
 - baadhi waliamini ujumbe wa Qur'an 46:29-32
 - wanadamu na majini waliumbwa kwa kusudi 51:56-58
 Ayubu, 4:163; 6:84; 21:83-84; 38:41-44
-Yahya, (Yohana Mbatizaji),
+Yahya, (Yohana Mbatizaji)
 - habari njema zake, 3:38-41; 19:7-11; 21:90
 - mwenye haki, 6:85
 - mwenye hekima, huruma, utii, 19:12-15
-Yunus (Jonas), 4:163; 6:86; 10:98;21:87; 37:139-148;
+Yunus (Jonas), 4:163; 6:86; 10:98;21:87; 37:139-148
 - (Dhun-Nun) 21:87; 68:48-50
 Yusufu (Yusuf), 6:84; 12:4-101
-- hadithi bora zaidi 12:1-3;
-- ndoto ya Yusufu mdogo 12:4-6;
-- hila za ndugu zake 12:7-18;
-- kuuzwa utumwani 12:19-20;
+- hadithi bora zaidi 12:1-3
+- ndoto ya Yusufu mdogo 12:4-6
+- hila za ndugu zake 12:7-18
+- kuuzwa utumwani 12:19-20
 - kulelewa nyumbani kwa Waziri Mkuu wa Misri 12:21-22
-- mke wa Waziri Mkuu anajaribu kumshawishi 12:23-29;
-- tukio la karamu 12:30-32;
-- anaenda gerezani 12:33-35;
-- wafungwa wawili 12:36-42;
-- ndoto ya Mfalme 12:43-53;
-- anakuwa Waziri Mkuu 12:54-57;
-- ndugu zake wanakuja kutafuta mahitaji 12:58-68;
-- anamchukua kaka yake Benyamini 12:69-82;
-- huzuni mpya ya baba yake 12:83-87;
-- anafunua utambulisho wake wa kweli 12:88-98;
-- ndoto ya zamani inatimia 12:99-100;
+- mke wa Waziri Mkuu anajaribu kumshawishi 12:23-29
+- tukio la karamu 12:30-32
+- anaenda gerezani 12:33-35
+- wafungwa wawili 12:36-42
+- ndoto ya Mfalme 12:43-53
+- anakuwa Waziri Mkuu 12:54-57
+- ndugu zake wanakuja kutafuta mahitaji 12:58-68
+- anamchukua kaka yake Benyamini 12:69-82
+- huzuni mpya ya baba yake 12:83-87
+- anafunua utambulisho wake wa kweli 12:88-98
+- ndoto ya zamani inatimia 12:99-100
 - dua ya mwisho 12:101
 Mlima Judi, 11:44
 Jumu'ah, S.62
 Uadilifu (Adl), 2:282; 4:58, 135; 7:29; 16:90; 57:25
 - angalia pia 4:65, 105
-Al-Ka'bah,
+Al-Ka'bah
 - iliojengwa na Ibrahimu, 2:125-127
 - hairuhusiwi kuwinda, 5:94-96
 - mahali pa usalama, 5:97
@@ -740,17 +739,17 @@ Kahf, S.18
 Kanz, 9:34-35
 Kauthar (mto wa Peponi), 108:1
 Kauthar, S.108
-Funguo,
+Funguo
 za mbingu na ardhi, 39:63; 42:12
 za Ghaib, 6:59
 Khaulah binti Tha'labah, 58:1
-Kuua,
+Kuua
 - yeyote aliyemuua mtu, ameua wanadamu wote, 5:32
 - usimuue mtu yeyote, 17:33
 Maneno mazuri ni bora kuliko sadaka, 2:263
 Haki za jamaa, 2:83, 177, 215; 4:7-9, 36;8:41; 16:90; 17:26; 24:22; 29:8; 30:38; 42:23
 Kiraman-Katibin, 82:11
-Maarifa,
+Maarifa
 - jani moja halianguki isipokuwa Yeye anajua, 6:59
 - wamepotea waliowaua watoto wao kwa upumbavu, bila maarifa, 6:140
 - ya mambo matano, iko kwa Allah Peke Yake, 31:34
@@ -760,14 +759,14 @@ Kursi, 2:255
 Lahab (angalia Masad), S.111
 Lail, S.92
 Taa, 25:61; 67:5; 71:16; 78:13
-Lugha,
+Lugha
 - tofauti za lugha na rangi za watu, 30:22
 Lat, 53:19
 Sheria iliyowekwa, 5:48
 Sheria kutoka kwa Allah, 2:219; 98:3
 Waongo, 26:221-223
 Maisha, yeyote aliyemwokoa mtu, ameokoea maisha ya wanadamu wote, 5:32
-Maisha ya dunia,
+Maisha ya dunia
 - walinunua, kwa bei ya Akhera, 2:86
 - ni starehe ya udanganyifu tu, 3:185
 - uza maisha ya dunia kwa Akhera, 4:74
@@ -779,7 +778,7 @@ Maisha ya dunia,
 - yeyote anayeitamani, anapata humo; lakini hatakuwa na sehemu Akhera, 11:15-16; 17:18; 42:20
 - wanaopenda sasa na kupuuza Akhera, 75:20-21; 76:27
 - mnaipendelea, 87:16
-Nuru,
+Nuru
 - dhahiri, 4:174
 - na giza, 6:1
 - mfano wa nuru, 24:35
@@ -794,7 +793,7 @@ Mipaka iliyowekwa na Allah, 2:173, 187, 190, 230;9:112; 58:4; 65:1; 78:22
 - walipovuka mipaka (wakawa nyani), 7:166
 - wanaoheshimu mipaka, 9:112
 Simba, 74:51
-Mkopo,
+Mkopo
 - mkopeshee Allah mkopo mzuri, 2:245; 73:20
 - uliozidishwa mara nyingi, 57:11, 18
 - uliofupishwa, 64:17
@@ -812,7 +811,7 @@ Mahari, 2:229, 236-237; 4:4,19-21, 24-25; 5:5; 33:50; 60:10-11
 Ma'idah, S.5
 Makkah (Bakkah), 3:96;90:1-2
 - Mji wa Usalama, 95:3
-Mwanadamu,
+Mwanadamu
 - kizazi baada ya kizazi duniani, 2:30;6:165
 - amefanywa khalifa, 35:39
 - wajibu, 2:83-84, 88, 177; 4:1-36; 8:41; 16:90;17:23-39; 24:22; 29:8-9; 30:38;33:33;42:23; 64:14; 70:22-35
@@ -877,7 +876,7 @@ Mwanadamu,
 - anavuka mipaka yote, 96:6-7
 Manasik (wajibu) wa Hija, 2:128, 200; 22:30
 Manat, 53:20
-Wanadamu,
+Wanadamu
 - mashahidi juu ya wanadamu, 2:143
 - jamii moja, 2:213; 10:19
 - waliumbwa kutoka jozi moja, 4:1; 39:6; 49:13
@@ -887,7 +886,7 @@ Wanadamu,
 - wenye heshima zaidi miongoni mwao, 49:13
 - waligawanywa mataifa na makabila, 49:13
 Mana na kware, 2:57
-Adabu,
+Adabu
 - za kuingia majumba, 24:27-29
 - nyumbani, 24:58-61
 - katika nyumba za Mtume, 33:53
@@ -910,7 +909,7 @@ Ndoa, 2:232, 234
 - wasio na uwezo wa kifedha wa kuoa, 24:33
 - wake waliohalalishwa kwa Mtume, 33:50-52
 - kabla ya tendo la ndoa, hakuna Iddah kwa talaka, 33:49
-Mashahidi (Waliouawa katika njia ya Allah),
+Mashahidi (Waliouawa katika njia ya Allah)
 - hawafi, 2:154; 3:169
 - wanafurahi kwa neema na rehema za Allah,3:170-171
 - wanapata msamaha na rehema, 3:157-158
@@ -930,7 +929,7 @@ Masad, S.111
 Maun, S.107
 Pepo ya Ma'wa, 53:15
 Pima na uzani, toa kamili, 11:85; 17:35;83:1-5
-Kukutana,
+Kukutana
 - na Allah, 6:31
 - Siku Kubwa, 19:37
 - ya Akhera, 30:16
@@ -960,7 +959,7 @@ Miraj, 17:1; 53:12
 Miezi, idadi yake, 9:36-37
 Mwezi, 7:54; 10:5; 16:12; 22:18; 25:61; 36:39-40; 71:16; 91:2
 - kupasuka kwake; 54:1
-Musa,
+Musa
 - na watu wake, 2:51-61; 7:138-141,159-162; 14:5-8; 61:5
 - na Firauni, 2:49-50; 17:101-103; 20:17-53, 56-79;23:45-49; 25:31-42; 40:23-46; 43:46-56; 51:38-40; 73:16;79:15-26
 - alioongozwa na Allah, 6:84
@@ -970,23 +969,23 @@ Musa,
 - alipewa Maandiko, 17:2
 - ishara tisa wazi, 7:133; 17:101
 - hadi makutano ya bahari mbili, 18:60-82
-- mkutano wa hatima mbele ya kichaka kinachowaka moto 20:9-36; 27:7-14; 28:29-35;
+- mkutano wa hatima mbele ya kichaka kinachowaka moto 20:9-36; 27:7-14; 28:29-35
 - aliitwa na kupewa Utume, 19:51-53;20:9-56
 - utoto wake, mama na dada yake, 20:38-40;28:7-13
 - wachawi walioongoka, 20:70-73; 26:46-52
 - huko Madyan, 20:40; 28:22-28
 - alipewa Kipimo, 21:48
 - na moto wa siri, 27:7-12; 28:29-35
-- anauwa Mmisri kwa makosa mjini 28:14-21;
+- anauwa Mmisri kwa makosa mjini 28:14-21
 - alikuja na Aya wazi, 29:39
-- hadithi yake na Firauni 7:103-137; 10:75-92; 11:96-99; 26:10-69;
-- ishara tisa kwa Firauni na watu wake 7:130-133; 20:17-22; 17:101;
-- anawashinda wachawi wa Firauni 20:70-73; 26:46-52;
-- kukimbia hadi Midiani na ndoa 28:22-28;
-- anapokea Vibao 7:142-154,
-- anaomba kuona Allah mlimani 7:142-145;
-- kutukuzwa na Allah 33:69;
-- neema za Allah kwa Wana wa Israeli 2:47-61;
+- hadithi yake na Firauni 7:103-137; 10:75-92; 11:96-99; 26:10-69
+- ishara tisa kwa Firauni na watu wake 7:130-133; 20:17-22; 17:101
+- anawashinda wachawi wa Firauni 20:70-73; 26:46-52
+- kukimbia hadi Midiani na ndoa 28:22-28
+- anapokea Vibao 7:142-154
+- anaomba kuona Allah mlimani 7:142-145
+- kutukuzwa na Allah 33:69
+- neema za Allah kwa Wana wa Israeli 2:47-61
 - Wana wa Israeli wanakataa kuingia Yerusalemu 5:20-29
 - alioongozwa kwenye Njia Iliyonyooka, 37:114-122
 - Maandiko ya Musa, 53:36; 87:19
@@ -1074,7 +1073,7 @@ Mumtahanah, S.60
 Munafiqun, S.63
 Mauaji, 2:178-179
 Mursalat, S.77
-Waislamu,
+Waislamu
 - wa kwanza wa, 6:14, 163; 9:100; 39:12
 - aliyewapa jina hili, 22:78
 - msamaha na malipo makubwa kwa wale wanaofanya, 33:35-36
@@ -1086,7 +1085,7 @@ Nahl, S.16
 Najisi (Najas) 9:28
 Najm, S.53
 Najwa (angalia Siri)
-Majina,
+Majina
 kwake yangu Majina Mazuri Zaidi, 7:180
 kwake yangu Majina Bora Zaidi, 17:110; 20:8; 59:24
 Dharura, ikiwa mtu analazimishwa na, 2:173; 6:145
@@ -1099,10 +1098,10 @@ Usiku, (kama ishara), wa kupumzika, 10:67
 - kuwa wa manufaa, 14:32
 - Usiku wa Al-Qadr (Hukumu), 44:3-4; 97:1-5
 Nisa', S.4
-Nuhu, 3:33; 4:163; 6:84; 9:70; 10:71;11:25, 32, 36, 42, 45-46, 48, 89; 17:3; 21:76; 25:37; 26:105; 29:14; 37:75; 51:46;54:9; 69:11;
-- aliyedhihakiwa 11:38;
+Nuhu, 3:33; 4:163; 6:84; 9:70; 10:71;11:25, 32, 36, 42, 45-46, 48, 89; 17:3; 21:76; 25:37; 26:105; 29:14; 37:75; 51:46;54:9; 69:11
+- aliyedhihakiwa 11:38
 - Tufani (mafuriko makubwa), 29:14
-- Safina na Tufani 7:59-69, 11:25-48; 23:23-31; 26:105-122; 71:1-28;
+- Safina na Tufani 7:59-69, 11:25-48; 23:23-31; 26:105-122; 71:1-28
 - mwana asiye mwenye haki hakuokolewa, 11:42-48
 - mke asiye mwenye haki, 14:9; 17:3, 17;19:58;21:76; 22:42; 26:105-106, 116; 33:7; 37:75,79; 38:12; 42:13; 40:5, 31; 42:13;50:12;53:52; 57:26; 66:10; 71:1, 21, 26
 Nuh, S.71
@@ -1136,7 +1135,7 @@ Mifano, (mfano, kielelezo, mfanano)
 - mvua, 10:24
 - mavuno yaliyokatwa, 10:24
 - kipofu na kiziwi, 11:24
-- Allah dhidi ya miungu ya uongo 13:14; 16:76;
+- Allah dhidi ya miungu ya uongo 13:14; 16:76
 - ukweli dhidi ya uongo 13:17
 - majivu yanayopigwa na upepo mkali,14:18
 - mti mzuri, 14:24-25
@@ -1164,7 +1163,7 @@ Mifano, (mfano, kielelezo, mfanano)
 - punda, 62:5
 - maji yangekauka, 67:30
 - watu wa bustani, 68:17-33
-Pepo,
+Pepo
 - ya Makazi, (Pepo ya Ma'wa), 53:15
 - Pepo ya Firdaus, 18:107; 23:11
 - Bustani zenye mito inayotiririka chini yake, 3:15, 198;4:57; 5:119; 7:43; 9:72; 18:31; 22:23; 39:20;57:12; 64:9; 98:8
@@ -1187,7 +1186,7 @@ Pepo,
 - mto peponi, Kauthar, 108:1
 - mito ya mvinyo, maziwa, asali iliyosafishwa, 47:15
 - mvinyo safi uliofungwa muhuri, mweupe, wenye ladha, 37:45-46; 56:18; 76:21; 83:25
-- kikombe kilichochanganywa na Zanjabil, 76:17; 78:34;
+- kikombe kilichochanganywa na Zanjabil, 76:17; 78:34
 - maji, 76:5
 - sahani za dhahabu na vikombe, 43:71
 - vyombo vya fedha na vikombe vya kioo, 76:15-16
@@ -1234,21 +1233,21 @@ Pepo,
 - wake katika kivuli kizuri, wakiegemea viti vya enzi, 36:55
 - mabikira wachanga wenye matiti yaliyokua wa umri sawa,78:33
 - wavulana wa milele wa kuwahudumia, kama lulu zilizotawanyika, 52:24; 56:17; 76:19
-- pana kama mbingu na ardhi 3:133, 57:21;
-- maji yanayotiririka, kivuli kipoa, vyakula vizuri, na wenzao safi 2:25; 4:57; 36:55-58; 37:40-49; 38:50-54; 44:51-57; 52:17-24; 69:19-24; 76:5-22;
-- malipo ya waumini 55:46-78; 56:10-40;
-- mito ya asali, maziwa, maji, na mvinyo 47:15;
-- sala na salamu 10:9-10; 39:73-74;
-- wasalimishwe kwa salamu za amani 13:23-24; 14:32;
-- kukaa milele katika furaha 11:108;
-- hawataombwa kuondoka 15:45-48;
-- nuru inayowangaza mbele yao na upande wao wa kulia 57:12;
-- hakuna joto wala baridi 76:13;
-- matakwa yote yatimizwa 16:30-32; 41:31-32;
-- bangili za dhahabu na mavazi ya hariri laini 18:30-31; 22:23-24; 44:51-53;
-- sahani za vikombe vya dhahabu 43:67-73;
-- vyombo vya fedha na matunda yanayoning'inia karibu 76:14-16;
-- wakiegemea viti vya enzi 15:47; 37:44; 52:20;
+- pana kama mbingu na ardhi 3:133, 57:21
+- maji yanayotiririka, kivuli kipoa, vyakula vizuri, na wenzao safi 2:25; 4:57; 36:55-58; 37:40-49; 38:50-54; 44:51-57; 52:17-24; 69:19-24; 76:5-22
+- malipo ya waumini 55:46-78; 56:10-40
+- mito ya asali, maziwa, maji, na mvinyo 47:15
+- sala na salamu 10:9-10; 39:73-74
+- wasalimishwe kwa salamu za amani 13:23-24; 14:32
+- kukaa milele katika furaha 11:108
+- hawataombwa kuondoka 15:45-48
+- nuru inayowangaza mbele yao na upande wao wa kulia 57:12
+- hakuna joto wala baridi 76:13
+- matakwa yote yatimizwa 16:30-32; 41:31-32
+- bangili za dhahabu na mavazi ya hariri laini 18:30-31; 22:23-24; 44:51-53
+- sahani za vikombe vya dhahabu 43:67-73
+- vyombo vya fedha na matunda yanayoning'inia karibu 76:14-16
+- wakiegemea viti vya enzi 15:47; 37:44; 52:20
 - waumini watamwona Mola wao 75:22-23
 Wazazi, wema kwao, 2:83, 215; 4:36; 16:90;17:23; 29:8; 31:14; 46:15-17
 Washirika wa Allah, ni uongo,4:116;10:34-35, 66; 16:86; 28:62-64, 71-75; 30:40;42:21
@@ -1257,7 +1256,7 @@ Njia, 5:77; 16:94; 42:52-53; 43:43; 90:11-12
 - angalia pia Sirat
 Subira, 3:186, 200; 10:109; 11:115; 16:126-127; 20:130; 40:55, 77; 42:43; 46:35; 70:5;73:10
 - tafuta msaada kwa subira na sala, 2:45, 153; 20:132;50:39
-Mwenye Subira,
+Mwenye Subira
 - atapata malipo yake kamili, 39:10
 - Allah yuko pamoja na wenye subira, 8:46
 - na uwe na subira, 11:115
@@ -1266,7 +1265,7 @@ Mwenye Subira,
 Amani, elekea kwake, 8:61
 Lulu na matumbawe, yaliyolindwa, 52:24; 55:22; 56:23
 Kalamu, 68:1; 96:4
-Mtu,
+Mtu
 - Allah hambebeshi, zaidi ya uwezo wake,2:286; 7:42
 - Allah hamkadifishi mtu yeyote ila kulingana na uwezo wake, 23:62
 - hakuna mtu anayejua atakachopata kesho na wapi atakufa, 31:34
@@ -1287,7 +1286,7 @@ Firauni, 28:6; 40:24
 - ujenzi wa mnara, 40:36-37
 - angalia pia Musa
 Mkusanyiko wa mambo ya dunia, 102:1-4
-Ahadi (Bai'ah),
+Ahadi (Bai'ah)
 - kwa Uislamu, 16:91
 - kwa Mjumbe ni ahadi kwa Allah, 48:10
 - ya Waumini, 48:18; 60:12
@@ -1323,17 +1322,17 @@ Manabii, 3:33-34, 146; 4:163; 5:20; 6:84-90;23:23-50; 57:26
 - haramu kwa, 3:161
 - adui kwa kila, 6:112; 25:31
 - angalia pia Mitume
-Kusujudu,
+Kusujudu
 - kwa Allah huanguka kwa kusujudu, yeyote aliyeko mbinguni na ardhini na vivuli vyao, 13:15
 Riziki, 10:59; 13:26; 14:32; 16:73; 34:36,39; 42:12; 51:57; 67:21; 79:33
 Zaburi, 4:163
-Adhabu,
+Adhabu
 - kuahirisha, 3:178
 - kukatwa mikono au miguu, 5:33
 - waadhibu kwa mfano wa kilichokudhulumuni, 16:126
 - ya maisha haya na Akhera, 24:19; 68:33
-Kutakasika,
-- kwa mwili,4:43; 5:6;
+Kutakasika
+- kwa mwili,4:43; 5:6
 - kwa roho (kutoka uchafu), 87:14; 91:9
 Qadar, 5:5; 64:11
 Qadr, S.97
@@ -1345,7 +1344,7 @@ Qarun (Korah), 28:76-82; 29:39
 Qasas, S.28
 Qiblah, 2:142-145, 149
 Qisas (Sheria ya usawa katika adhabu), 2:178-179, 194; 5:45; 16:126; 17:33; 22:60;42:40
-Qur'an,
+Qur'an
 - maelezo yake, 13:31, 36, 37; 14:1; 56:77-80
 - haiwezekani kutengenezwa na mwingine asiye Allah, 2:23; 10:38; 11:13; 17:88
 - kama ingekuwa kutoka kwa asiye Allah, ingekuwa na utata mwingi, 4:82
@@ -1395,7 +1394,7 @@ Qur'an,
 - usomaji wa kurasa safi, 98:2
 - angalia pia Kitabu; Ufunuo
 Quraish, S.106
-Quraish,
+Quraish
 - wasioamini wa, 54:43-46, 51
 - kufugwa kwao, 106:1-4
 Marabbai na watawa, 9:31, 34
@@ -1403,26 +1402,26 @@ Shindana, kama mbio, katika matendo mema, 5:48
 Ra'd, S.13
 Rahman, S.55
 Mavazi ya uadilifu ni bora, 7:26
-Mvua,
+Mvua
 - Kipawa cha Allah, 56:68-70
 - ya mawe, 27:58
 Ramadhani, 2:185
 Ramy, 2:200
-Fidia,
+Fidia
 - hapatikani, 57:15
 - inayotolewa na wasioamini, 3:91; 10:54; 13:18
-Fidyah, ya kufunga, 2:196;
+Fidyah, ya kufunga, 2:196
 - ya kukomboa wafungwa, 8:67
 Rass, wakazi wake, 25:38; 50:12
-Malipo,
+Malipo
 - Siku ya Malipo, 1:4; 37:20; 51:12; 56:56; 82:17-18; 96:7
 - wanaokanusha malipo, 107:1-7
 - malipo ya uovu ni uovu mfano wake, 42:40
-Upatanisho,
+Upatanisho
 - yeyote anayesamehe na kupatana, 42:40
 - kati ya mwanaume na mke wake, 4:35
 - kati ya waumini, 49:9-10
-Kumbukumbu ya matendo,
+Kumbukumbu ya matendo
 - Daftari lililoandikwa, 83:7-9, 18-21
 - kila taifa litaitwa kwa kumbukumbu yake, 45:28-29
 - kurasa zilizoandikwa za matendo ya kila mtu,81:10
@@ -1432,7 +1431,7 @@ Kumbukumbu ya matendo,
 - nyuma ya mgongo, 84:10-15
 Malaika waandishi, 50:17-18, 23; 85:11
 Nafuu, pamoja na shida, 94:5-6
-Dini,
+Dini
 - hakuna kulazimishwa katika, 2:256
 - ni Uislamu, 3:19
 - ya Allah, 3:83-84
@@ -1449,7 +1448,7 @@ Dini,
 - ya mababu, 43:22-24
 Ukumbusho wa Allah, 63:9
 - katika ukumbusho wake, mioyo hupata utulivu, 13:28
-Toba,
+Toba
 - inakubaliwa ikiwa uovu ulifanywa kwa ujinga na kutubia hivi karibuni, 4:17; 6:54
 - na haina thamani toba, ikiwa matendo mabaya yanaendelea, 4:18
 - Yeye anakubali toba na kusamehe dhambi, 4:25
@@ -1457,7 +1456,7 @@ Toba,
 Ufufuo, 2:28, 7:53; 14:21; 16:38-40; 22:5-7; 23:15-16; 31:28, 41:39, 46:33-34; 50:3,20-29, 41-44; 64:7, 75:1-15; 79:10-12; 86:5-8
 - mfano katika hadithi ya Uzairi 2:259
 - Ibrahimu 2:260
-- watu wa pango 18:9-26;
+- watu wa pango 18:9-26
 - onyo kwa wanaokanusha ufufuo 17:49-52, 17:97-100, 19:66-72, 37:11-27, 50:1-15, 80:17-42
 Siku ya Ufufuo, 7:89; 20:100-101, 124
 - Siku ya Kweli, 78:39
@@ -1548,7 +1547,7 @@ Kumbukumbu iliyotolewa nyuma ya mgongo, 84:10-15
 - Jahanamu itakaribisha, 89:23
 - Moto wa Jahanamu utafunuliwa, ukiwashwa kwa nguvu, 81:11-12
 - Kisasi kwa njia ya sadaka itakuwa kafara, 5:45
-Ufunuo,
+Ufunuo
 - kama una shaka, 2:23-24
 - Aya iliyofutwa au iliyosahauliwa, 2:106
 - uongofu sahihi, 3:73
@@ -1560,13 +1559,13 @@ Ufunuo,
 - wa Kitabu ni kutoka kwa Allah, 46:2
 - angalia pia Kitabu na Qur'an
 Kulipiza kisasi dhidi ya dhuluma iliyofanywa kwao, 42:39-43
-Malipo,
+Malipo
 - kulingana na matendo bora, na zaidi ya hayo, 24:38; 29:7; 39:35
 - kama malipo 25:15
 - Allah huwapa wanaotenda mema kilicho bora zaidi, 53:31
 - kwa wema, hakuna malipo ila wema, 55:60
 Riba (angalia Faida haramu)
-Wenye Haki,
+Wenye Haki
 - kampuni ya wenye haki, 4:69
 - watarithi ardhi, 21:105
 - peponi, 51:15-19; 76:5-12
@@ -1585,7 +1584,7 @@ Ruh (roho, pumzi), 15:29; 17:85; 58:22
 Rum, S.30
 Saba' (Sheba), 27:22-44; 34:15-21
 Saba', S.34
-Sabato,
+Sabato
 - wakiukao, 2:65; 4:154; 7:163-166
 - iliamriwa kwa, 16:124
 Wasabai, 5:69; 22:17
@@ -1611,23 +1610,23 @@ Shetani, 2:36, 168, 208, 268, 275; 3:36, 155, 175;4:38, 60, 76, 83, 119-120; 5:8
 - hana nguvu juu ya waumini, 16:99-100
 - anapiga uongo, 22:52-53
 - ni adui, 12:5; 35:6; 36:60
-- kiburi 2:34; 7:11-27; 15:26-43; 17:61-65; 38:73-85;
-- ni jini 18:50-51;
-- kumshawishi Adamu na kuanguka kwake 7:20-23; 20:116-121;
-- hana mamlaka juu ya waumini 16:98-100;
-- lengo lake 35:6-8;
-- adui aliyeapa kwa wanadamu 12:5; 17:53;
-- kikosi chake 53:14-19;
-- kazi ya mikono yake 5:90-91;
-- anazuia matendo mema 2:268;
-- waumini wanakimbilia kwa Allah kutoka kwake 7:200-202;
-- hila zake ni dhaifu 4:76;
-- anawaacha wafuasi wake 8:48;
+- kiburi 2:34; 7:11-27; 15:26-43; 17:61-65; 38:73-85
+- ni jini 18:50-51
+- kumshawishi Adamu na kuanguka kwake 7:20-23; 20:116-121
+- hana mamlaka juu ya waumini 16:98-100
+- lengo lake 35:6-8
+- adui aliyeapa kwa wanadamu 12:5; 17:53
+- kikosi chake 53:14-19
+- kazi ya mikono yake 5:90-91
+- anazuia matendo mema 2:268
+- waumini wanakimbilia kwa Allah kutoka kwake 7:200-202
+- hila zake ni dhaifu 4:76
+- anawaacha wafuasi wake 8:48
 - anazungumza na wafuasi wake Jahanamu 14:22
 - angalia pia Ibilisi
 Mizani, aliyefanikiwa, mzigo wake utakuwa mzito, 7:8-9
 - angalia pia Uzani
-Maandiko,
+Maandiko
 - watu wa, (Wayahudi na Wakristo), 2:109;3:64-65, 69-72, 75, 98-99, 110, 113,199; 4:47, 153-161; 5:59-60, 68; 98:1
 - walichokuwa wakificha, 5:61-63
 - miongoni mwao walio katika njia sahihi,5:66
@@ -1635,7 +1634,7 @@ Maandiko,
 Bahari, 42:32-33; 45:12
 - mbili, 18:60; 25:53; 35:12; 55:19-20
 - zinapofurika, 82:3
-Siri (Najwa),
+Siri (Najwa)
 - mazungumzo ya siri, 4:114
 - ushauri wa watatu, 58:7
 - mashauri ya siri, 58:8, 10
@@ -1644,10 +1643,10 @@ Makundi na mgawanyiko katika dini, 6:15; 23:53;30:32; 42:13-14; 43:65; 45:17
 Usalama, baada ya shida, Aliteremsha, 3:154
 Mbegu, Nani anayeifanya ikue, 56:63-67
 Hisia, 23:78
-Saba, ziliumbwa,
+Saba, ziliumbwa
 - mbingu, 2:29; 23:17; 65:12; 67:3; 71:15
 - na ardhi mfano wake, 65:12
-Kivuli,
+Kivuli
 - kwa Allah huanguka kwa kusujudu, 13:15; 16:48
 - kutandaa kwake, 25:45
 Shams, S.91
@@ -1679,12 +1678,12 @@ Watumwa, 2:177-178; 4:25, 36, 92; 5:89; 24:33; 58:3; 90:13
 Usingizi, kitu cha kupumzika, 78:9
 Sodoma, 29:31; 37:136
 Ushoga, 7:80-82; 11:77-83; 15:61-77; 29:28-29
-Suleiman, 2:102; 4:163; 6:84;
-- humsaidia baba yake Daudi kufikia hukumu ya haki zaidi 21:78-82;
+Suleiman, 2:102; 4:163; 6:84
+- humsaidia baba yake Daudi kufikia hukumu ya haki zaidi 21:78-82
 - na sisimizi, 27:15-19
 - na tadu, 27:20-26
 - na Malkia wa Saba', 27:22-44; 34:15
-- neema za Allah kwake 34:12-14, 38:34-40;
+- neema za Allah kwake 34:12-14, 38:34-40
 - upendo wake wa farasi wazuri 38:30-33
 Mwana wa kuasili, 33:4-5
 Roho (pumzi, Ruh), 15:29; 17:85; 58:22
@@ -1704,8 +1703,8 @@ Nyara za vita, 8:41, 69; 48:15, 19-20; 48:15
 Kupeleleza, 49:12
 Nyota, 53:1, 49; 86:1-4
 Nyota, 7:54; 15:16; 16:12, 16; 22:18; 25:61;37:6-10; 56:75; 77:8; 81:2; 82:2
-Njia Iliyonyooka, 1:6,
-- n.k. Sirat, 6:153,
+Njia Iliyonyooka, 1:6
+- n.k. Sirat, 6:153
 - n.k. Kujitahidi, 4:95; 8:72, 74, 75; 9:20, 24, 81; 22:78; 25:52; 29:69; 47:3; 60:1; 61:11
 Kunyonyesha, muda wake, mama wa kulea, 2:233
 Mateso, umaskini, kupoteza afya na majanga; ustawi na utajiri, 7:94-96
@@ -1775,7 +1774,7 @@ Faida haramu (Riba), 2:275-276, 278-280; 3:130;4:161; 30:39
 Pazia lisiloonekana, 17:45-46
 Kujifunika, 24:31; 33:59
 Aya, Sab' Al-Mathani, 15:87
-Ushindi,
+Ushindi
 - uliotolewa na Allah, 48:1
 - kupitia msaada wa Allah, 61:13
 Fadhila, (angalia Uadilifu; Waumini)
@@ -1792,7 +1791,7 @@ Njia, 1:6; 42:52-53; 90:10
 - n.k. rahisi, fanya rahisi, 87:8
 - angalia pia Sirat
 Msafiri, 2:177, 215; 8:41; 17:26; 29:29;30:38; 59:7
-Mali,
+Mali
 - aliyekusanya, 104:2-4
 - kutoa katika Njia ya Allah (angalia Toa)
 Mali na watoto, mapambo ya maisha ya dunia, 18:46
@@ -1810,7 +1809,7 @@ Mvinyo (peponi)
 - mito ya, 47:15
 - safi uliofungwa muhuri, 83:25
 Usitamani alichomfadhilisha Allah mwingine zaidi yako, 4:32
-Mashahidi,
+Mashahidi
 - kwa agano la Manabii, 3:81
 - juu ya wanadamu, 2:143; 22:78
 - kwa mkataba, 2:282
@@ -1820,7 +1819,7 @@ Mashahidi,
 - mikono na miguu itashuhudia, 36:65
 - mtu dhidi ya nafsi yake, 75:14
 Siku ya Kushuhudia na Siku Inayoshuhudiwa, 85:3
-Wake,
+Wake
 - ni shamba lenu, 2:223
 - nguo za kufunika kwenu, 2:187
 - wa aina yenu, 16:72
@@ -1831,7 +1830,7 @@ Wanawake, 2:222-223; 4:15, 19-22, 34, 127
 - waumini, kama wahamiaji, 60:10-12
 - Miti, wakazi wake, 15:78; 38:13; 50:14
 - angalia pia Aikah; Madyan 26:176-191
-Dunia, maisha yake,
+Dunia, maisha yake
 - si chochote ila mchezo na burudani, 6:32;29:64; 47:36; 57:20
 - inadanganya watu, 6:130
 - starehe yake ni ndogo kuliko ya Akhera, 9:38; 13:26; 28:60-61
@@ -1843,7 +1842,7 @@ Madhalimun,11:18-22, 101-104, 116-117;39:47
 - angalia pia Wasioamini
 Wudu' (Udhu), 4:43; 5:6
 Yaghuth, 71:23
-Yahya (Yohana),
+Yahya (Yohana)
 - habari njema zake, 3:39; 21:90
 - mwenye haki, 6:85
 - mwenye hekima; huruma; utii, 19:12-15
@@ -1864,52 +1863,52 @@ Zihar, 33:4; 58:2-4
 Zukhruf, S.43
 Zumar, S.39
 Misingi ya Imani
-- Imani iliyokamilishwa 5:3;
-- Njia pekee inayokubaliwa na Allah 3:19, 85;
-- hakuna kulazimishwa kukubali Uislamu 2:256;
-- dini moja yenye imani na sheria tofauti 5:48; 22:67-70; 42:13-14;
-- Manabii wa Uislamu 2:135-136; 3:84; 4:163-165;
-- amri (kuamini Allah na kutenda mema) 4:36; 6:151-154;17:23-39;18:107-108;
-- malengo matano ya Sharia: kulinda imani 5:54;
-- kulinda uhai 5:32;6:151;
-- kulinda mali 5:38;
-- kulinda heshima 5:5;24:4;
+- Imani iliyokamilishwa 5:3
+- Njia pekee inayokubaliwa na Allah 3:19, 85
+- hakuna kulazimishwa kukubali Uislamu 2:256
+- dini moja yenye imani na sheria tofauti 5:48; 22:67-70; 42:13-14
+- Manabii wa Uislamu 2:135-136; 3:84; 4:163-165
+- amri (kuamini Allah na kutenda mema) 4:36; 6:151-154;17:23-39;18:107-108
+- malengo matano ya Sharia: kulinda imani 5:54
+- kulinda uhai 5:32;6:151
+- kulinda mali 5:38
+- kulinda heshima 5:5;24:4
 - kulinda uwezo wa kufikiri 5:90.
 Imani katika Allah 2:255
-- Sifa za Kimungu, Majina Mazuri 57:1-6; 59:22-24; 85:13-16; 112:1-4;
-- mungu pekee anayestahili kuabudiwa 1:1-4; 2:285; 6:3; 43:84;
-- mamlaka yote ni Yake 3:26; Kiti Chake cha Enzi ('Arsh) 7:54; 11:7;
-- Kursi Yake 2:255;
-- neema zake zisizo na hesabu kwa wanadamu 14:32-34; 2:164; 16:2-93; 31:20; 55:1-25;
-- hutoa uhai na husababisha kifo 44:8; 53:44; 57:2; 67:2;
-- huleta furaha na huzuni 53:43;
-- hutoa riziki nyingi au kidogo 13:26; 17:30; 29:62;
-- Bora wa waamuzi wote 95:8;
-- Mwenye Huruma zaidi ya wenye huruma 12:92;
-- anawapenda wenye haki 85:14;
-- Mwenye kusamehe sana na mkali katika adhabu 13:6, 40:3;
-- wa Kwanza na wa Mwisho 57:3;
-- heshima na nguvu zote ni Zake 35:10;
-- anajua lisilofahamika na kuona lisiloonekana 6:59,73; 9:94, 105; 13:8-10; 31:34; 32:6; 34:48; 35:38; 39:46; 49:18; 59:22; 62:8; 64:18; 72:26; 74:31; 87:7;
-- anajua vyema yaliyofichwa moyoni 5:7; 11:5; 31:23;
-- anajua yaliyopita na yatakayokuja 2:255;
-- aliandika kila kitu katika Kumbukumbu (au Kibao Kilichohifadhiwa) 6:38; 13:39; 36:12;
-- ana uwezo wa kufanya chochote 2:117; 3:189; 8:41; 9:116; 11:4; 16:40; 40:68; 41:39; 42:49;57:2;
-- nguvu Zake zisizo na kikomo 3:26-27; 24:45; 31:28-30;
-- aliumba mbingu na ardhi katika siku sita na hakuchoka 46:33; 50:38;
-- huumba kwa neno 'Kuwa!' 36:81-83;
-- hana dhuluma kwa viumbe vyake 3:108; 4:40; 17:71; 21:47; 22:10; 26:209; 40:31; 41:46; 45:22; 50:29; 64:11; 78:6-16;
-- kila kitu kinatii Mapenzi Yake 3:83; 22:18; 30:26;
-- wote wanahitaji Yeye 11:6; 35:15; 55:29;
-- mtegemee Yeye 10:84-85; 12:67; 25:58;
-- aina za mawasiliano ya kimungu 42:51;
-- anastahili kumcha 2:21; 3:102; 4:1; 33:70-71; 59:18;
-- hekima ni kipawa kutoka Kwake 2:269;
-- hahitaji mtu yeyote 3:97; 6:133; 112:2;
-- si mmoja katika Utatu 4:171;
-- hana mwenza 6:101;
-- hana watoto 10:68; 19:35; 43:81; 72:3; 112:3;
-- hana washirika au miungu washirika 6:94; 7:191-195; 46:4-5;
+- Sifa za Kimungu, Majina Mazuri 57:1-6; 59:22-24; 85:13-16; 112:1-4
+- mungu pekee anayestahili kuabudiwa 1:1-4; 2:285; 6:3; 43:84
+- mamlaka yote ni Yake 3:26; Kiti Chake cha Enzi ('Arsh) 7:54; 11:7
+- Kursi Yake 2:255
+- neema zake zisizo na hesabu kwa wanadamu 14:32-34; 2:164; 16:2-93; 31:20; 55:1-25
+- hutoa uhai na husababisha kifo 44:8; 53:44; 57:2; 67:2
+- huleta furaha na huzuni 53:43
+- hutoa riziki nyingi au kidogo 13:26; 17:30; 29:62
+- Bora wa waamuzi wote 95:8
+- Mwenye Huruma zaidi ya wenye huruma 12:92
+- anawapenda wenye haki 85:14
+- Mwenye kusamehe sana na mkali katika adhabu 13:6, 40:3
+- wa Kwanza na wa Mwisho 57:3
+- heshima na nguvu zote ni Zake 35:10
+- anajua lisilofahamika na kuona lisiloonekana 6:59,73; 9:94, 105; 13:8-10; 31:34; 32:6; 34:48; 35:38; 39:46; 49:18; 59:22; 62:8; 64:18; 72:26; 74:31; 87:7
+- anajua vyema yaliyofichwa moyoni 5:7; 11:5; 31:23
+- anajua yaliyopita na yatakayokuja 2:255
+- aliandika kila kitu katika Kumbukumbu (au Kibao Kilichohifadhiwa) 6:38; 13:39; 36:12
+- ana uwezo wa kufanya chochote 2:117; 3:189; 8:41; 9:116; 11:4; 16:40; 40:68; 41:39; 42:49;57:2
+- nguvu Zake zisizo na kikomo 3:26-27; 24:45; 31:28-30
+- aliumba mbingu na ardhi katika siku sita na hakuchoka 46:33; 50:38
+- huumba kwa neno 'Kuwa!' 36:81-83
+- hana dhuluma kwa viumbe vyake 3:108; 4:40; 17:71; 21:47; 22:10; 26:209; 40:31; 41:46; 45:22; 50:29; 64:11; 78:6-16
+- kila kitu kinatii Mapenzi Yake 3:83; 22:18; 30:26
+- wote wanahitaji Yeye 11:6; 35:15; 55:29
+- mtegemee Yeye 10:84-85; 12:67; 25:58
+- aina za mawasiliano ya kimungu 42:51
+- anastahili kumcha 2:21; 3:102; 4:1; 33:70-71; 59:18
+- hekima ni kipawa kutoka Kwake 2:269
+- hahitaji mtu yeyote 3:97; 6:133; 112:2
+- si mmoja katika Utatu 4:171
+- hana mwenza 6:101
+- hana watoto 10:68; 19:35; 43:81; 72:3; 112:3
+- hana washirika au miungu washirika 6:94; 7:191-195; 46:4-5
 - hakuna kama Yeye 42:11; 112:4
 Amri ya kufikiri juu ya maajabu ya uumbaji Wake 3:190; 6:99; 10:5-6; 13:3-4; 16:10-16; 88:17-20
 Ishara katika uumbaji 2:164; 6:95-99; 7:57-58; 10:5-6; 13:2-4; 16:10-13, 65-69, 79; 23:27-30; 27:60-65; 30:19-25; 50:6-11
@@ -1930,21 +1929,21 @@ Ishara katika uumbaji 2:164; 6:95-99; 7:57-58; 10:5-6; 13:2-4; 16:10-13, 65-69, 
 - mvua nyepesi, mvua ya mawe na mvua 2:265; 6:99; 24:43; 50:9-11
 - radi na umeme 13:12-13
 Marejeo ya kisayansi
-- wanadamu waliumbwa kutoka viini vya kiume na kike 76:2;
-- malezi na hatua za ukuaji wa kiinitete 22:5; 23:12-14;
-- kiinitete katika giza tatu 39:6;
-- maji ya chumvi 25:53-54; 35:12; 55:19-20;
-- uchavushaji wa upepo 15:22;
-- alama za vidole 75:3-4;
-- milima kama vigingi 78:7;
-- chuma kilishushwa 57:25;
-- vipokezi vya maumivu 4:56;
-- jua kama chanzo cha mwanga na mwezi kama mwanga unaoakisiwa 10:5;
-- mwezi kupasuka 54:1;
-- anga kama dari iliyolindwa 21:32;
-- viumbe vyote viliumbwa kutoka maji 21:30; 24:45;
-- sisimizi wanawasiliana 27:17-19;
-- mawimbi ya ndani 24:40;
+- wanadamu waliumbwa kutoka viini vya kiume na kike 76:2
+- malezi na hatua za ukuaji wa kiinitete 22:5; 23:12-14
+- kiinitete katika giza tatu 39:6
+- maji ya chumvi 25:53-54; 35:12; 55:19-20
+- uchavushaji wa upepo 15:22
+- alama za vidole 75:3-4
+- milima kama vigingi 78:7
+- chuma kilishushwa 57:25
+- vipokezi vya maumivu 4:56
+- jua kama chanzo cha mwanga na mwezi kama mwanga unaoakisiwa 10:5
+- mwezi kupasuka 54:1
+- anga kama dari iliyolindwa 21:32
+- viumbe vyote viliumbwa kutoka maji 21:30; 24:45
+- sisimizi wanawasiliana 27:17-19
+- mawimbi ya ndani 24:40
 Viumbe hai
 - malaika 39:75
 - wanadamu (mamlaka duniani) 2:30; 6:165; 16:4
@@ -1977,366 +1976,366 @@ Viumbe hai
 - buibui 29:41
 - wengine wasiotujulikana 16:8
 Mimea na matunda 6:99; 13:4; 16:11; 36:33-35
-- ndizi 56:29,
-- tende 19:25,
-- mimea, matango, vitunguu saumu, dengu na vitunguu 2:61,
-- zabibu 80:28,
-- mizeituni 6:99,
-- tini 95:1,
-- makomamanga 55:68,
+- ndizi 56:29
+- tende 19:25
+- mimea, matango, vitunguu saumu, dengu na vitunguu 2:61
+- zabibu 80:28
+- mizeituni 6:99
+- tini 95:1
+- makomamanga 55:68
 - boga 37:146
 Imani katika Muhammad
-- Sifa, nabii tu 3:144; 6:50; 7:188; 18:110;
-- kufikisha ukweli 2:119; 35:24; 42:48;
-- muhuri wa manabii 33:40;
-- tabia nzuri 3:159; 68:4;
-- mfano wa kuigwa 33:21;
-- kama neema kwa waumini 3:164;
-- rehema kwa ulimwengu wote 21:107;
-- mjumbe wa ulimwengu wote 4:170; 7:157-158; 34:28;
-- anaongoza kwenye Njia Iliyonyooka 42:52-53;
-- anajali watu 9:129;
-- kama shahidi Siku ya Hukumu 4:42; 16:89;
-- nabii asiyejua kusoma na kuandika 7:157-158; 29:48; 62:2;
-- alitabiriwa katika Torati na Injili 7:157;
+- Sifa, nabii tu 3:144; 6:50; 7:188; 18:110
+- kufikisha ukweli 2:119; 35:24; 42:48
+- muhuri wa manabii 33:40
+- tabia nzuri 3:159; 68:4
+- mfano wa kuigwa 33:21
+- kama neema kwa waumini 3:164
+- rehema kwa ulimwengu wote 21:107
+- mjumbe wa ulimwengu wote 4:170; 7:157-158; 34:28
+- anaongoza kwenye Njia Iliyonyooka 42:52-53
+- anajali watu 9:129
+- kama shahidi Siku ya Hukumu 4:42; 16:89
+- nabii asiyejua kusoma na kuandika 7:157-158; 29:48; 62:2
+- alitabiriwa katika Torati na Injili 7:157
 - alitabiriwa na Isa 61:6
 Changamoto alizokabili Mtume ( ﷺ )
-- madai yasiyokuwa na maana ya washirikina 8:32; 15:7; 17:89-93; 25:7-8;
-- shutuma za uongo 10:2; 11:13; 21:5; 24:11-26; 25:4-6; 37:36; 38:4; 52:29-30;
-- majaribio ya kumuua 8:30; 9:74;
-- onyo kwa wanaomdhuru au kumpinga 4:115; 8:13; 9:61; 15:95; 33:57; 47:32; 96:9-19;
-- aliamriwa kujibu ukanushaji kwa subira 20:130; 30:60; 46:35; 70:5;
+- madai yasiyokuwa na maana ya washirikina 8:32; 15:7; 17:89-93; 25:7-8
+- shutuma za uongo 10:2; 11:13; 21:5; 24:11-26; 25:4-6; 37:36; 38:4; 52:29-30
+- majaribio ya kumuua 8:30; 9:74
+- onyo kwa wanaomdhuru au kumpinga 4:115; 8:13; 9:61; 15:95; 33:57; 47:32; 96:9-19
+- aliamriwa kujibu ukanushaji kwa subira 20:130; 30:60; 46:35; 70:5
 - aliamriwa kuthibitishwa na Allah 5:67; 93:1-11; 94:1-8
 Mafunzo kutoka maishani mwa Mtume ( ﷺ )
-- kutoka kwa hijra yake hadi Vita vya Badr 3:121-129; 8:42-44; 8:65-71;
-- Vita vya Uhud 3:151-180;
-- Vita vya Mfereji 33:9-27;
-- Vita vya Hunain 9:25-27;
-- Madina 9:40; Tabuk 9:38-123;
-- Banu An-Nadhir 59:2-6;
-- Hamra' Al-Asad 3:172-175;
+- kutoka kwa hijra yake hadi Vita vya Badr 3:121-129; 8:42-44; 8:65-71
+- Vita vya Uhud 3:151-180
+- Vita vya Mfereji 33:9-27
+- Vita vya Hunain 9:25-27
+- Madina 9:40
+- Tabuk 9:38-123
+- Banu An-Nadhir 59:2-6
+- Hamra' Al-Asad 3:172-175
 - Mkataba wa Hudaibiyah 48:1-7; 48:10-29
 Heshima zilizomshukia Mtume ( ﷺ )
-- Allah na malaika Wake wamtakia rehema 33:56;
-- safari ya usiku kutoka Makka hadi Yerusalemu 17:1;
-- safari kwenda mbinguni 53:1-18;
-- kutukuzwa katika maisha haya na ya kesho 17:79; 66:8; 108:1;
-- kumtii ni kumtii Allah 4:80;
-- malipo ya kumtii Allah na Mjumbe Wake 4:69;
-- familia yake ilitakaswa 33:33-34;
-- alimwona Jibril katika umbo lake la kweli 53:1-18;
-- waumini waliamriwa kumtii 59:7;
+- Allah na malaika Wake wamtakia rehema 33:56
+- safari ya usiku kutoka Makka hadi Yerusalemu 17:1
+- safari kwenda mbinguni 53:1-18
+- kutukuzwa katika maisha haya na ya kesho 17:79; 66:8; 108:1
+- kumtii ni kumtii Allah 4:80
+- malipo ya kumtii Allah na Mjumbe Wake 4:69
+- familia yake ilitakaswa 33:33-34
+- alimwona Jibril katika umbo lake la kweli 53:1-18
+- waumini waliamriwa kumtii 59:7
 - adabu za kuzungumza naye 49:1-5
-- adabu za kumtembelea 33:53;
-- adabu za kushughulika na wake zake 33:53;
-- Allah ameridhika naye na masahaba wake 9:100; 9:117;
+- adabu za kumtembelea 33:53
+- adabu za kushughulika na wake zake 33:53
+- Allah ameridhika naye na masahaba wake 9:100; 9:117
 - ubora wa jumuiya yake ya waumini 2:143; 3:110
-Sala 2:45; 9:103; 51:18; 70:22-23; 75:31; 96:10; 108:2;
-- mkusanyiko wa Ijumaa 62:9;
-- mwelekeo wa sala (qiblah) 2:144; 2:149-150;
-- inapaswa kumzuia mtu na matendo mabaya 29:45;
-- nyakati 11:114; 17:78; 17:79; 20:130; 24:36; 24:58; 30:17-18; 32:16; 38:18; 50:39-40; 51:17; 52:48-49; 73:2-4; 76:25-26;
-- wakati wa hatari au safari 2:239; 4:101-102;
-- onyo kwa wanaopuuza sala 19:59; 74:38-47; 107:5-7;
+Sala 2:45; 9:103; 51:18; 70:22-23; 75:31; 96:10; 108:2
+- mkusanyiko wa Ijumaa 62:9
+- mwelekeo wa sala (qiblah) 2:144; 2:149-150
+- inapaswa kumzuia mtu na matendo mabaya 29:45
+- nyakati 11:114; 17:78; 17:79; 20:130; 24:36; 24:58; 30:17-18; 32:16; 38:18; 50:39-40; 51:17; 52:48-49; 73:2-4; 76:25-26
+- wakati wa hatari au safari 2:239; 4:101-102
+- onyo kwa wanaopuuza sala 19:59; 74:38-47; 107:5-7
 - sala za wanafiki 4:142; 9:54
-Kutakasika, udhu (wudu) 5:6;
-- ghusl kamili 2:222; 4:43;
+Kutakasika, udhu (wudu) 5:6
+- ghusl kamili 2:222; 4:43
 - tayammum 4:43; 5:6
 Dua
-- za Ibrahimu 2:126-129; 2:126-129; 14:35-41; 26:83-89;
-- Adamu na Hawa 7:23;
-- Isa 5:114;
-- Ayubu 21:83; 21:83;
-- Yunus 21:87;
-- Yusufu 12:33; 12:101;
-- Musa 10:88-89; 20:25-35;
+- za Ibrahimu 2:126-129; 2:126-129; 14:35-41; 26:83-89
+- Adamu na Hawa 7:23
+- Isa 5:114
+- Ayubu 21:83; 21:83
+- Yunus 21:87
+- Yusufu 12:33; 12:101
+- Musa 10:88-89; 20:25-35
 - Muhammad 17:80; 20:114
-- Nuhu 23:26; 26:117-118; 54:9-10; 71:26; 71:28;
-- Suleiman 38:35;
-- Shuaibu 7:89;
-- Zakaria 3:38; 19:2-6; 21:89-90;
-- malaika 40:8-9;
-- mama wa Maryamu 3:35-36;
-- mke wa Firauni 66:11;
-- wachawi wa Firauni 7:126;
-- Mfalme Sauli na waumini waliokuwa naye 2:250;
-- waumini wa Wana wa Israeli 10:85-86;
-- watu wa pango 18:10;
-- wenye haki 2:285-286; 3:8-9; 3:16; 3:147; 3:191-194; 25:74; 59:10;
+- Nuhu 23:26; 26:117-118; 54:9-10; 71:26; 71:28
+- Suleiman 38:35
+- Shuaibu 7:89
+- Zakaria 3:38; 19:2-6; 21:89-90
+- malaika 40:8-9
+- mama wa Maryamu 3:35-36
+- mke wa Firauni 66:11
+- wachawi wa Firauni 7:126
+- Mfalme Sauli na waumini waliokuwa naye 2:250
+- waumini wa Wana wa Israeli 10:85-86
+- watu wa pango 18:10
+- wenye haki 2:285-286; 3:8-9; 3:16; 3:147; 3:191-194; 25:74; 59:10
 - walioonewa 4:75
 Aya za kusujudu
 - sajadat, wingi wa sajdah, 7:206; 13:15; 16:49; 17:109; 19:58; 22:18; 22:77; 25:60; 27:26; 32:15; 38:24; 41:37; 53:62; 84:21; 96:19
-Zakat, kama wajibu 2:110; 2:177; 2:277; 6:141;
-- moja ya sifa za waumini 22:41; 23:4; 51:19;
+Zakat, kama wajibu 2:110; 2:177; 2:277; 6:141
+- moja ya sifa za waumini 22:41; 23:4; 51:19
 - walengwa 9:60
 - sadaka 2:177; 2:261-263; 2:267-274; 3:92; 63:10
 - onyo kwa wanaozuia 3:180; 9:34; 47:38
 Kufunga (sawm)
-- katika Ramadhani 2:183-185;
-- masaa ya kufunga 2:187;
-- msamaha 2:184-185;
-- mahusiano ya ndoa wakati wa usiku kabla ya kufunga 2:187;
+- katika Ramadhani 2:183-185
+- masaa ya kufunga 2:187
+- msamaha 2:184-185
+- mahusiano ya ndoa wakati wa usiku kabla ya kufunga 2:187
 - kufunga wakati wa hija 2:196
-Hija,
-- wajibu kwa awezaye 3:97;
-- ibada na hukumu 2:158; 2:189; 2:196-203; 5:2; 22:26-37;
-- sadaka za dhabihu 2:196; 22:36-37;
-- ukatazwaji wa uwindaji nchi kavu wakati wa hija 5:1; 5:94-95;
+Hija
+- wajibu kwa awezaye 3:97
+- ibada na hukumu 2:158; 2:189; 2:196-203; 5:2; 22:26-37
+- sadaka za dhabihu 2:196; 22:36-37
+- ukatazwaji wa uwindaji nchi kavu wakati wa hija 5:1; 5:94-95
 - kuruhusiwa kuwinda baharini 5:96
 - Umrah 2:158; 2:196
 Makundi ya kidini
-- Waislamu 2:132-136; 3:64; 3:84; 5:111; 22:77-78; 33:35; 41:33; 43:67-70; 72:14-15;
-- wanaowalinda wenzao 3:28; 9:71;
-- Wakristo 2:62; 2:111-140; 4:171-172; 5:14-19; 5:82-86; 5:116-120; 9:30-31; 22:17;
-- Wayahudi 2:62, 111-140; 5:44-45; 6:146; 22:17; 62:6-8;
-- Wana wa Israeli 2:40-103, 122-123, 246-251; 3:49; 3:93-94; 5:12-13, 20-26, 32, 70-71, 78-81; 7:137-141, 148-153,159-171; 10:83-93; 14:5-8; 17:2-8, 104; 20:80-98; 26:52-67, 197; 27:76; 44:23-33; 45:16-17; 46:10; 61:5-6;
+- Waislamu 2:132-136; 3:64; 3:84; 5:111; 22:77-78; 33:35; 41:33; 43:67-70; 72:14-15
+- wanaowalinda wenzao 3:28; 9:71
+- Wakristo 2:62; 2:111-140; 4:171-172; 5:14-19; 5:82-86; 5:116-120; 9:30-31; 22:17
+- Wayahudi 2:62, 111-140; 5:44-45; 6:146; 22:17; 62:6-8
+- Wana wa Israeli 2:40-103, 122-123, 246-251; 3:49; 3:93-94; 5:12-13, 20-26, 32, 70-71, 78-81; 7:137-141, 148-153,159-171; 10:83-93; 14:5-8; 17:2-8, 104; 20:80-98; 26:52-67, 197; 27:76; 44:23-33; 45:16-17; 46:10; 61:5-6
 - Watu wa Kitabu (hasa Wayahudi na Wakristo) 2:109; 3:64-115, 199; 4:123-172; 5:15-77; 6:20-21; 13:36; 28:52-55; 29:46-47; 57:16, 28-29; 74:31; 98:1-5
 - Waislamu wanaweza kula chakula walichochinja na kuoa wanawake wao 5:5
-- vyakula vilivyokatazwa kwa Wayahudi 6:146;
-- Wasabai 2:62; 22:17;
-- Wamajusi 22:17;
-- washirikina (wapagani, waabudu masanamu) 3:186; 6:148; 9:6, 17; 10:28; 16:86; 22:17; 53:19-30;
-- desturi za kishirikina za kipagani 2:189; 5:103; 6:138-144;
+- vyakula vilivyokatazwa kwa Wayahudi 6:146
+- Wasabai 2:62; 22:17
+- Wamajusi 22:17
+- washirikina (wapagani, waabudu masanamu) 3:186; 6:148; 9:6, 17; 10:28; 16:86; 22:17; 53:19-30
+- desturi za kishirikina za kipagani 2:189; 5:103; 6:138-144
 - wasioamini mungu 52:35-36
 Mwenendo wa kipagani uliokatazwa
-- kuzika binti wakiwa hai 16:58-59; 81:8-9;
-- kuua watoto kwa hofu ya umaskini 6:137; 6:151; 17:31;
-- kupiga filimbi na kupiga makofi karibu na Al-Ka'bah 8:35;
-- kuwaakhiri ngamia kwa masanamu 5:103; 6:136;
-- kuchinja kwa jina la masanamu 6:121;
-- talaka ya zihar 33:4; 58:2-4;
-- ila' (zaidi ya miezi minne) 2:226-227;
-- kupiga kura kwa maamuzi 5:3;
-- kuzunguka Al-Ka'bah uchi 7:26-28;
+- kuzika binti wakiwa hai 16:58-59; 81:8-9
+- kuua watoto kwa hofu ya umaskini 6:137; 6:151; 17:31
+- kupiga filimbi na kupiga makofi karibu na Al-Ka'bah 8:35
+- kuwaakhiri ngamia kwa masanamu 5:103; 6:136
+- kuchinja kwa jina la masanamu 6:121
+- talaka ya zihar 33:4; 58:2-4
+- ila' (zaidi ya miezi minne) 2:226-227
+- kupiga kura kwa maamuzi 5:3
+- kuzunguka Al-Ka'bah uchi 7:26-28
 - kuingia nyumbani kwa milango ya nyuma baada ya hija 2:189
-Vitu vya ibada,
-- malaika (miongoni mwa Waarabu wapagani) 34:40;
-- Al-Aykah (miongoni mwa watu wa Shuaibu) 26:176;
-- Ba'l (miongoni mwa watu wa Eliya) 37:125;
-- Isa (katika Ukristo) 5:17;
-- masanamu (miongoni mwa watu wa Ibrahimu) 21:52-53;
-- masanamu ya Lat, 'Uzza, na Manat (miongoni mwa Waarabu wapagani) 53:19-20;
-- masanamu ya Wadd, Suwa', Yaghuth, Ya'uq, na Nasr (miongoni mwa watu wa Nuhu) 71:23;
-- jua (watu wa Sheba) 27:24;
-- Sirius (miongoni mwa Waarabu wapagani wengine) 53:49;
-- Firauni (katika Misri ya kale) 26:29; 28:38; 79:24;
-- tamaa 25:43-44; 45:23;
+Vitu vya ibada
+- malaika (miongoni mwa Waarabu wapagani) 34:40
+- Al-Aykah (miongoni mwa watu wa Shuaibu) 26:176
+- Ba'l (miongoni mwa watu wa Eliya) 37:125
+- Isa (katika Ukristo) 5:17
+- masanamu (miongoni mwa watu wa Ibrahimu) 21:52-53
+- masanamu ya Lat, 'Uzza, na Manat (miongoni mwa Waarabu wapagani) 53:19-20
+- masanamu ya Wadd, Suwa', Yaghuth, Ya'uq, na Nasr (miongoni mwa watu wa Nuhu) 71:23
+- jua (watu wa Sheba) 27:24
+- Sirius (miongoni mwa Waarabu wapagani wengine) 53:49
+- Firauni (katika Misri ya kale) 26:29; 28:38; 79:24
+- tamaa 25:43-44; 45:23
 - imani katika miungu mingi inakanushwa 17:42-43; 21:21-24; 25:3
-Mahali pa ibada, misikiti 9:18;
-- makanisa, masinagogi na monasteri 22:40;
-- hekalu 3:39; 38:21;
+Mahali pa ibada, misikiti 9:18
+- makanisa, masinagogi na monasteri 22:40
+- hekalu 3:39; 38:21
 - hekalu 17:7
 - Vyeo vya kidini, makasisi, watawa na marabbai 5:44; 5:63; 5:82; 9:31-34
-Malaika,
+Malaika
 - wauliza kuhusu uumbaji wa Adamu 2:30-34
-- hawamwasi Allah kamwe 21:26-27; 66:6;
-- si binti wa Allah 21:26; 43:16-19;
-- malaika walinzi 13:11;
-- malaika wawili waandishi 50:16-18; 82:10-12;
-- wanane wanaobeba Kiti cha Enzi cha Allah Siku ya Hukumu 69:17;
-- kumi na tisa walinzi wa Jahanamu 74:26-31;
-- Malaika wa Kifo 6:93; 16:28; 32:11;
-- Jibril 2:97; 66:4; 26:192-195; 53:1-14;
-- Mikaili 2:98;
+- hawamwasi Allah kamwe 21:26-27; 66:6
+- si binti wa Allah 21:26; 43:16-19
+- malaika walinzi 13:11
+- malaika wawili waandishi 50:16-18; 82:10-12
+- wanane wanaobeba Kiti cha Enzi cha Allah Siku ya Hukumu 69:17
+- kumi na tisa walinzi wa Jahanamu 74:26-31
+- Malaika wa Kifo 6:93; 16:28; 32:11
+- Jibril 2:97; 66:4; 26:192-195; 53:1-14
+- Mikaili 2:98
 - Malik 43:77
 Mitume
-- kutoka miongoni mwa malaika na wanadamu 22:75;
+- kutoka miongoni mwa malaika na wanadamu 22:75
 - Mitume wenye Azma (Ibrahimu, Nuhu, Musa, Isa, na Muhammad ﷺ ) 33:7; 42:13; 46:35
 Maandiko
-- Qur'an, ufunuo kutoka kwa Allah 12:2-3; 20:2-4; 26:192-195; 32:2-3;
-- ukumbusho kwa ulimwengu wote 68:51-52;
-- inaongoza kwenye njia bora zaidi ya maisha 17:9;
-- ufunuo ulianza katika mwezi wa Ramadhani 2:185;
-- katika usiku uliobarikiwa 44:3;97:1-5;
-- ilifunuliwa hatua kwa hatua 17:105-106;
-- ilirahisishwa kukumbukwa 54:17;
-- inathibitisha ukweli katika mafunuo ya awali 3:3-4;
-- mamlaka ya juu juu ya maandiko ya awali 5:48;
-- hakuna shaka ndani yake 2:2; 10:37;
-- hakuna utata 4:82;
-- haikutengenezwa 10:37-39;
-- haikunakiliwa kutoka Biblia 25:4-6;
-- haikufunuliwa na mashetani 26:210-212;
+- Qur'an, ufunuo kutoka kwa Allah 12:2-3; 20:2-4; 26:192-195; 32:2-3
+- ukumbusho kwa ulimwengu wote 68:51-52
+- inaongoza kwenye njia bora zaidi ya maisha 17:9
+- ufunuo ulianza katika mwezi wa Ramadhani 2:185
+- katika usiku uliobarikiwa 44:3;97:1-5
+- ilifunuliwa hatua kwa hatua 17:105-106
+- ilirahisishwa kukumbukwa 54:17
+- inathibitisha ukweli katika mafunuo ya awali 3:3-4
+- mamlaka ya juu juu ya maandiko ya awali 5:48
+- hakuna shaka ndani yake 2:2; 10:37
+- hakuna utata 4:82
+- haikutengenezwa 10:37-39
+- haikunakiliwa kutoka Biblia 25:4-6
+- haikufunuliwa na mashetani 26:210-212
 - hakuna anayeweza kutengeneza mfano wake 17:88; 2:23-24;10:13-14; 11:13
-- inalindwa dhidi ya upotofu 15:9;
-- inalindwa katika Kibao Kilichohifadhiwa 56:75-80;
-- haiwezi kuthibitishiwa uongo 41:42;
-- inatabiri matukio ya wakati ujao 30:1-7; 48:27;
-- inagusa mioyo ya waumini hadi kulia 5:83; 17:107-109;
-- inagusa mioyo 39:23;
-- nuru nyangavu 4:174; 42:52;
+- inalindwa dhidi ya upotofu 15:9
+- inalindwa katika Kibao Kilichohifadhiwa 56:75-80
+- haiwezi kuthibitishiwa uongo 41:42
+- inatabiri matukio ya wakati ujao 30:1-7; 48:27
+- inagusa mioyo ya waumini hadi kulia 5:83; 17:107-109
+- inagusa mioyo 39:23
+- nuru nyangavu 4:174; 42:52
 - uponyaji na rehema kwa waumini 17:82
 - Torati 3:3; 3:93; 5:46; 5:66-68, 110; 7:157; 9:111; 48:29; 61:6; 62:5
-- Injili 3:3; 48; 5:46-47, 66-68, 77, 110; 7:157; 9:111; 48:29; 57:27
+- Injili 3:3, 48; 5:46-47, 66-68, 77, 110; 7:157; 9:111; 48:29; 57:27
 - Zaburi 4:163; 17:55
 - Kurasa za Ibrahimu 53:36-44; 87:14-19
-Qadar na Destiny 3:145; 9:51; 10:107; 11:6; 54:49; 67:30;
+Qadar na Destiny 3:145; 9:51; 10:107; 11:6; 54:49; 67:30
 - hiari ya kuchagua 6:148-150; 11:118-119; 16:93; 33:72-73; 39:41; 76:1-3; 91:1-10
-Siku ya Hukumu,
-- hakuna dhuluma 2:281; 18:49; 40:17;
-- matukio ya kutisha ya Siku ya Mwisho 22:1-2; 27:82-84, 87; 40:18; 52:11-16; 69:13-18; 70:8-18; 73:17-18; 75:7-15; 77:8-15; 78:17-20; 79:34-36; 80:33-42; 81:1-14; 82:1-5; 84:1-5; 87:17-40; 99:1-8; 101:1-11;
-- wenye haki na waovu Siku hiyo 11:105-108; 16:27-33, 84-89; 18:52-53; 20:100-111; 25:24-29; 30:12-16; 33:63-68; 39:68-75; 50:20-35; 55:37-41; 83:4-36;
+Siku ya Hukumu
+- hakuna dhuluma 2:281; 18:49; 40:17
+- matukio ya kutisha ya Siku ya Mwisho 22:1-2; 27:82-84, 87; 40:18; 52:11-16; 69:13-18; 70:8-18; 73:17-18; 75:7-15; 77:8-15; 78:17-20; 79:34-36; 80:33-42; 81:1-14; 82:1-5; 84:1-5; 87:17-40; 99:1-8; 101:1-11
+- wenye haki na waovu Siku hiyo 11:105-108; 16:27-33, 84-89; 18:52-53; 20:100-111; 25:24-29; 30:12-16; 33:63-68; 39:68-75; 50:20-35; 55:37-41; 83:4-36
 - uombezi (shafa'ah) 2:48, 255; 6:51, 70; 10:3; 21:28; 32:4; 36:23; 39:43-44; 43:86; 53:26;74:48
-Kumbukumbu za matendo 17:13; 18:49;
-- waumini wanapata kumbukumbu zao kwa mkono wa kulia 69:19-24; 84:7-9;
-- wasioamini wanapata kumbukumbu zao kwa mkono wa kushoto 69:25-37; 84:10-15;
-- hakuna kitakachofichwa kutoka kwa Allah 21:47; 40:16;
-- kupima matendo 7:8; 23:102-104; 101:1-11;
-- ushahidi wa viungo vya mwili 41:19-24; 24:24;
+Kumbukumbu za matendo 17:13; 18:49
+- waumini wanapata kumbukumbu zao kwa mkono wa kulia 69:19-24; 84:7-9
+- wasioamini wanapata kumbukumbu zao kwa mkono wa kushoto 69:25-37; 84:10-15
+- hakuna kitakachofichwa kutoka kwa Allah 21:47; 40:16
+- kupima matendo 7:8; 23:102-104; 101:1-11
+- ushahidi wa viungo vya mwili 41:19-24; 24:24
 - malipo kwa matendo mema na mabaya 6:160; 27:89-90; 28:84
 Aina za watu
-- waumini 18:107-108;
-- wasioamini 4:167-169;
-- wanafiki 4:145; 57:13-15;
-- wakazi wa Pepo, waumini wa kwanza 55:46-61; 56:10-26;
-- wakazi wa Pepo, watu wa upande wa kulia 55:62-78; 56:27-40;
-- wakazi wa Jahanamu, watu wa upande wa kushoto 55:31-45; 56:41-56;
+- waumini 18:107-108
+- wasioamini 4:167-169
+- wanafiki 4:145; 57:13-15
+- wakazi wa Pepo, waumini wa kwanza 55:46-61; 56:10-26
+- wakazi wa Pepo, watu wa upande wa kulia 55:62-78; 56:27-40
+- wakazi wa Jahanamu, watu wa upande wa kushoto 55:31-45; 56:41-56
 - watu wa vilele 7:46-49
 Fedha
-- miongozo ya biashara 2:188; 2:275; 2:282-283; 4:29; 4:58; 6:152; 17:34-35;
-24:36-37; 26:182; 30:39; 55:7-9; 62:9
-- Wosia, wosia wa hiari kwa wasio warithi 2:180-183; 4:11-12;
+- miongozo ya biashara 2:188; 2:275; 2:282-283; 4:29; 4:58; 6:152; 17:34-35; 24:36-37; 26:182; 30:39; 55:7-9; 62:9
+- Wosia, wosia wa hiari kwa wasio warithi 2:180-183; 4:11-12
 kabla ya kifo ukiwa safarini 5:106-108
 - Rushwa 2:188
-- Madeni, upole katika kukusanya madeni 2:280;
-- kuandika na kushuhudia mkataba wa deni 2:282;
+- Madeni, upole katika kukusanya madeni 2:280
+- kuandika na kushuhudia mkataba wa deni 2:282
 - kuchukua dhamana 2:283
-- Urithi, miongozo 4:7; 4:32-33; 8:75;
-- sehemu za watoto na wazazi 4:11;
-- wake na ndugu wa upande wa mama 4:12;
-- ndugu wa damu 4:176;
+- Urithi, miongozo 4:7; 4:32-33; 8:75
+- sehemu za watoto na wazazi 4:11
+- wake na ndugu wa upande wa mama 4:12
+- ndugu wa damu 4:176
 - onyo kwa wasiotii 4:13-14
-- Faida haramu, ukatazwaji na onyo 2:275-281; 3:130-132;
+- Faida haramu, ukatazwaji na onyo 2:275-281; 3:130-132
 - inafanywa isife tija 30:39
 Kisheria
 - sheria ya uhaini (hirabah) 5:33-34
-- Uadilifu, kusimama kwa ajili ya uadilifu 4:135; 5:8; 16:90-91;
-- kusimama kwa ajili ya haki za yatima na wanawake 4:127;
-- uadilifu kwa Myahudi 4:105-112;
-- uadilifu kwa mpagani 4:58;
+- Uadilifu, kusimama kwa ajili ya uadilifu 4:135; 5:8; 16:90-91
+- kusimama kwa ajili ya haki za yatima na wanawake 4:127
+- uadilifu kwa Myahudi 4:105-112
+- uadilifu kwa mpagani 4:58
 - uadilifu kwa wasio Waislamu 60:8-9
 - Kisasi kupitia njia za kisheria (na chaguo la kusamehe) 2:178-179; 5:45; 16:126; 17:33; 42:37-43
-- Kutengana kwa mume na mke, khul' 2:229;
+- Kutengana kwa mume na mke, khul' 2:229
 - lian (shutuma ya uzinzi) 24:6-10
 Kisiasa
 - Kushughulikia mambo kwa mashauriano (shura) 3:159; 42:38
-- Kupigana kujilinda (jihad), adabu 2:190-192; 2:216; 22:38-40;
-- kutoshambulia bila kuchagua 4:94;
-- kupigana kwa ajili ya wanaume, wanawake na watoto wanaoonewa 4:75;
-- kulinda mahali pa ibada 22:37;
-- malipo ya mashahidi 2:154; 3:169-171; 9:111; 57:19;
-- nguvu za kijeshi huzuia maadui wanaoweza kushambulia 8:60;
+- Kupigana kujilinda (jihad), adabu 2:190-192; 2:216; 22:38-40
+- kutoshambulia bila kuchagua 4:94
+- kupigana kwa ajili ya wanaume, wanawake na watoto wanaoonewa 4:75
+- kulinda mahali pa ibada 22:37
+- malipo ya mashahidi 2:154; 3:169-171; 9:111; 57:19
+- nguvu za kijeshi huzuia maadui wanaoweza kushambulia 8:60
 - kuchagua amani 2:192; 8:61
 - Kufanya amani kati ya pande 49:9-10
 - Wafungwa wa vita, mwenendo 8:70; 47:4; 76:8
 Kijamii
 - Uasili 33:4-5
 - Utunzaji wa yatima 2:220; 4:2-10; 4:127; 6:152; 17:34
-- Talaka, usuluhishi na upatanisho 4:35; 4:128;
-- adabu za talaka 2:229-231; 65:1-2;
-- mahari na kipindi cha kusubiri 2:226-241; 4:19-21; 33:49; 65:1-7;
-- mume asichukue chochote cha mahari 4:20;
-- mke asinyanyaswe 65:6;
-- mke ategemezwe kipato wakati wa ujauzito 65:6;
-- wakati wa kipindi chake cha kusubiri 65:6;
-- akinyonyesha mtoto wa mume wa zamani 65:6;
-- mzazi yeyote asiumie kwa sababu ya mtoto wake 2:233;
+- Talaka, usuluhishi na upatanisho 4:35; 4:128
+- adabu za talaka 2:229-231; 65:1-2
+- mahari na kipindi cha kusubiri 2:226-241; 4:19-21; 33:49; 65:1-7
+- mume asichukue chochote cha mahari 4:20
+- mke asinyanyaswe 65:6
+- mke ategemezwe kipato wakati wa ujauzito 65:6
+- wakati wa kipindi chake cha kusubiri 65:6
+- akinyonyesha mtoto wa mume wa zamani 65:6
+- mzazi yeyote asiumie kwa sababu ya mtoto wake 2:233
 - kuchagua mama wa kulea 65:6
 - Kuhimiza wema na kukataza uovu 3:104; 3:110; 7:157; 9:71-72; 31:17
-- Usawa wa wanadamu 49:13;
-- wanaume na wanawake mbele ya Allah na sheria, 3:195; 4:124; 5:38; 16:97; 24:2; 40:40;
+- Usawa wa wanadamu 49:13
+- wanaume na wanawake mbele ya Allah na sheria, 3:195; 4:124; 5:38; 16:97; 24:2; 40:40
 - wanaume wana daraja la uwajibikaji zaidi ya wanawake 2:228
 - Kulisha maskini, yatima na wafungwa 76:8-9
 - Msamaha na kudhibiti hasira 3:134; 42:40
 - Kuwakomboa watumwa na kuwasaidia 4:92; 5:89; 9:60; 24:33; 58:3; 90:13
 - Kuheshimu wazazi wako 4:36; 17:23-25; 31:14-15
 - Unyenyekevu 17:37; 31:18-19
-- Tafsiri ya ndoto za Ibrahimu 37:102;
-- Tafsiri ya ndoto za Yusufu 12:4; 12:36; 12:43;
+- Tafsiri ya ndoto za Ibrahimu 37:102
+- Tafsiri ya ndoto za Yusufu 12:4; 12:36; 12:43
 - Tafsiri ya ndoto za Muhammad 8:43; 48:27
 - Upole kwa wasio Waislamu 60:8
-- Ndoa 4:3; 4:129; 16:72; 30:21;
-- wanawake halali na haramu kuoa 4:22-24;
-- adabu za mahusiano ya ndoa 2:222-223;
-- ujauzito na kunyonyesha 2:233; 31:4; 46:15; 65:6;
-- kuoa tena mke wa zamani 2:230;
-- kusaidia wasio na wenzi kuoa 24:32;
+- Ndoa 4:3; 4:129; 16:72; 30:21
+- wanawake halali na haramu kuoa 4:22-24
+- adabu za mahusiano ya ndoa 2:222-223
+- ujauzito na kunyonyesha 2:233; 31:4; 46:15; 65:6
+- kuoa tena mke wa zamani 2:230
+- kusaidia wasio na wenzi kuoa 24:32
 - kuonyesha kwa upole hamu wakati wa kipindi cha kusubiri 2:235
-- Viapo 2:224-225; 16:91-92; 16:94;
+- Viapo 2:224-225; 16:91-92; 16:94
 - kufidia kiapo kilichovunjwa 5:89
 - Subira wakati wa magumu 2:45; 2:153-157; 3:186; 12:18; 12:83; 16:127-128; 70:5
-- Ruhusa ya kuingia 24:58-60;
-- kuingia nyumba za watu 24:27-28;
+- Ruhusa ya kuingia 24:58-60
+- kuingia nyumba za watu 24:27-28
 - kuingia mahali pa umma 24:29
-- Adabu za kijamii, kuthibitisha habari 4:83; 49:6;
-- heshima kwa wote 49:11-12;
-- adabu za makusanyiko 58:11;
+- Adabu za kijamii, kuthibitisha habari 4:83; 49:6
+- heshima kwa wote 49:11-12
+- adabu za makusanyiko 58:11
 - mazungumzo ya faragha 4:114; 58:9
 - Nadhiri 2:270; 9:75-77; 22:29; 76:7
 - Ubadhirifu na ubakhili 7:31; 17:29; 25:67
 Hadithi nyingine
-- Habili na Kabili 5:27-31;
-- Al-Khidhir na Musa 18:60-82;
-- Jeshi la Tembo 105:1-4;
-- muumini kutoka watu wa Firauni 40:28-46;
-- kuzaliwa kwa Maryamu 3:35-36;
-- Ng'ombe wa Wana wa Israeli 2:67-74;
-- Uzairi 2:259;
+- Habili na Kabili 5:27-31
+- Al-Khidhir na Musa 18:60-82
+- Jeshi la Tembo 105:1-4
+- muumini kutoka watu wa Firauni 40:28-46
+- kuzaliwa kwa Maryamu 3:35-36
+- Ng'ombe wa Wana wa Israeli 2:67-74
+- Uzairi 2:259
 - wamiliki wa bustani 68:17-32
 - Harut na Marut 2:102
 - Qaruni 28:76-82
-- Ushauri wa Luqman kwa mwanawe 31:12-19;
-- mmiliki wa bustani mbili 18:32-44;
-- watu wa Sheba 34:15-19;
-- watu wa pango 18:9-26;
-- watu wa mfereji 85:1-8;
-- wavunjaji wa Sabato 7:163-165;
-- Samiri na Ndama wa Dhahabu 20:83-97;
-- Sauli na Samweli 2:247-251;
+- Ushauri wa Luqman kwa mwanawe 31:12-19
+- mmiliki wa bustani mbili 18:32-44
+- watu wa Sheba 34:15-19
+- watu wa pango 18:9-26
+- watu wa mfereji 85:1-8
+- wavunjaji wa Sabato 7:163-165
+- Samiri na Ndama wa Dhahabu 20:83-97
+- Sauli na Samweli 2:247-251
 - Dhul-Qarnain 18:83-98
-Mashetani 2:102; 6:71; 6:112; 6:121; 7:27; 7:30; 17:27; 19:68; 19:83; 22:3-4; 23:97-98; 26:210; 37:7-10; 38:37-38; 67:5;
-- mashetani wa kibinadamu na majini 6:112;114:6;
+Mashetani 2:102; 6:71; 6:112; 6:121; 7:27; 7:30; 17:27; 19:68; 19:83; 22:3-4; 23:97-98; 26:210; 37:7-10; 38:37-38; 67:5
+- mashetani wa kibinadamu na majini 6:112;114:6
 - mbingu zinalindwa dhidi ya mashetani 15:16-18
 Majuto
-- kutomfuata Mtume 25:27;
-- kutomtii Allah na Mjumbe Wake 4:41-42; 33:64-68;
-- kuwa na marafiki waovu 25:28-29; 26:96-102; 43:36-39;
-- kukataa ishara za Allah 6:27-30;
+- kutomfuata Mtume 25:27
+- kutomtii Allah na Mjumbe Wake 4:41-42; 33:64-68
+- kuwa na marafiki waovu 25:28-29; 26:96-102; 43:36-39
+- kukataa ishara za Allah 6:27-30
 - kutofanya kazi kwa ajili ya Akhera 89:23-24
 Maombi ya kukata tamaa
-- kuomba kurudi duniani 2:167; 6:27-28; 32:12-14; 42:44;
-- kupewa nafasi ya pili 35:36-37;
-- kuondolewa Motoni 40:10-12;
-- chakula na maji 7:51-52;
-- waombezi 7:52-53;
-- kugeuzwa kuwa mavumbi 4:41-42; 78:40;
+- kuomba kurudi duniani 2:167; 6:27-28; 32:12-14; 42:44
+- kupewa nafasi ya pili 35:36-37
+- kuondolewa Motoni 40:10-12
+- chakula na maji 7:51-52
+- waombezi 7:52-53
+- kugeuzwa kuwa mavumbi 4:41-42; 78:40
 - kifo 43:74-78
 Sifa za wenye haki
 - kuzingatia haki za Muumba na viumbe Vyake 3:133-136; 4:36; 4:69-70; 6:151-154; 8:2-4; 13:19-24; 17:23-39;18:107-108; 23:1-11; 25:63-76; 42:36-43
 Sifa za waovu
-- wasio na shukrani 14:34;
-- wabakhili 17:100;
-- wenye haraka 21:37;
-- wanakumbuka Allah tu wakati wa shida 10:12; 41:51;
-- wasio na subira 70:19;
+- wasio na shukrani 14:34
+- wabakhili 17:100
+- wenye haraka 21:37
+- wanakumbuka Allah tu wakati wa shida 10:12; 41:51
+- wasio na subira 70:19
 - wenye ugomvi 18:54
 Dhambi Kubwa
-- kumshirikisha mwingine na Allah katika ibada (shirk) 4:48; 4:116; 5:72; 6:19; 31:13;
-- kuwadhulumu wazazi wako 4:36; 6:151; 17:23;
-- kupuuza au kuacha sala za wajibu 19:59-60;
-- kutolipa zakat 41:6-7;
-- mauaji 6:151; 17:33;
-- kumuua muumini kwa makusudi 4:93;
-- wizi 5:38;
-- ulaghai 7:85; 11:85; 26:182-183; 83:1-6;
-- uongo 2:10; 9:77; 39:60;
-- kusema uongo kuhusu Allah 6:93; 29:68; 61:7;
+- kumshirikisha mwingine na Allah katika ibada (shirk) 4:48; 4:116; 5:72; 6:19; 31:13
+- kuwadhulumu wazazi wako 4:36; 6:151; 17:23
+- kupuuza au kuacha sala za wajibu 19:59-60
+- kutolipa zakat 41:6-7
+- mauaji 6:151; 17:33
+- kumuua muumini kwa makusudi 4:93
+- wizi 5:38
+- ulaghai 7:85; 11:85; 26:182-183; 83:1-6
+- uongo 2:10; 9:77; 39:60
+- kusema uongo kuhusu Allah 6:93; 29:68; 61:7
 - mahusiano ya ngono yaliyokatazwa 2:222; 17:32; 24:2; 25:68; 29:28-30
-- shutuma za uongo za uzinzi 24:4-5;
-- uasi wa dini 2:217; 5:54;
-- kula nyama ya nguruwe na vyakula vingine vilivyokatazwa (nyamafu, damu, n.k.) 5:3; 6:145;
-- pombe na kamari 5:90-91;
-- kusengenyea 49:11;
-- ushahidi wa uongo 22:30;
+- shutuma za uongo za uzinzi 24:4-5
+- uasi wa dini 2:217; 5:54
+- kula nyama ya nguruwe na vyakula vingine vilivyokatazwa (nyamafu, damu, n.k.) 5:3; 6:145
+- pombe na kamari 5:90-91
+- kusengenyea 49:11
+- ushahidi wa uongo 22:30
 - uchawi 2:102; 10:77; 20:69
 """;

@@ -5,18 +5,18 @@ Abdest (Abdest), 4:43; 5:6
 Abraham (Ibrahim) S.14; 2:135-136, 148; 3:33, 84, 95; 4:54, 125, 163; 6:161; 9:70, 114; 12:6, 38; 16:120; 19:58; 21:51, 60, 62, 69; 22:43, 78; 26:69; 29:31; 33:7; 37:83, 104, 109; 38:45; 42:13; 43:26; 51:24; 53:37; 57:26; 60:4; 87:19
 - ni Jevrej ni kršćanin, 3:67-68
 - stajao je u prvom hramu u Baki, 3:97; 26:123
-- podiže temelje Kabe 2:124-129;
-- poziva svoj narod na obožavanje Jedinog Istinskog Boga 2:130-133; 26:69-89; 29:16; 29:24-27;
-- raspravlja o arogantnom kralju 2:258,
-- pita o uskrsnuću 2:260;
-- ni Jevrej ni kršćanin 3:65-68;
-- opovrgava nebesko obožavanje 6:74-87;
-- prima vijest o rođenju Izaka 11:69-76; 51:24-30;
-- njegova molitva kod Kabe 14:35-41;
-- posjećeni od strane anđela 15:51-56;
-- uzor 16:123;
-- poziva svog oca istini 19:41-50;
-- uništava idole i biva spašen od vatre 21:51-73; 37:83-113;
+- podiže temelje Kabe 2:124-129
+- poziva svoj narod na obožavanje Jedinog Istinskog Boga 2:130-133; 26:69-89; 29:16; 29:24-27
+- raspravlja o arogantnom kralju 2:258
+- pita o uskrsnuću 2:260
+- ni Jevrej ni kršćanin 3:65-68
+- opovrgava nebesko obožavanje 6:74-87
+- prima vijest o rođenju Izaka 11:69-76; 51:24-30
+- njegova molitva kod Kabe 14:35-41
+- posjećeni od strane anđela 15:51-56
+- uzor 16:123
+- poziva svog oca istini 19:41-50
+- uništava idole i biva spašen od vatre 21:51-73; 37:83-113
 - poziva sve na hodočašće 22:26
 Abrar, 3:193, 198; 76:5; 82:13; 83:18-22
 Ukidanje, 2:106, 16:101
@@ -26,11 +26,10 @@ Adam, 3:33, 59; 5:27; 7:26-27, 31, 35, 172; 17:70; 19:58; 36:60
 - anđeli da se poklone pred njima, 2:34; 7:11
 - drvo spoznaje, 2:35; 7:19-20; 20:120-121
 - progonstvo iz Rajskog vrta (bez krivice na Evi), 2:36; 7:24
-- poštovan od Allaha, iskušan od Sotone 2:30-38; 7:11-25; 17:61-65; 18:50; 20:115-123; 38:71-85;
+- poštovan od Allaha, iskušan od Sotone 2:30-38; 7:11-25; 17:61-65; 18:50; 20:115-123; 38:71-85
 - oprošteno od Allaha 2:37; 20:122
 'Adiyat, S.100
-'Adn Paradise, 9:72; 13:23; 16:31; 18:31;
-19:61; 20:76; 35:33; 38:50; 40:8; 61:12; 98:8
+'Adn Paradise, 9:72; 13:23; 16:31; 18:31;19:61; 20:76; 35:33; 38:50; 40:8; 61:12; 98:8
 Nevolja
 - ne opterećen tuđim teretom, 6:164; 17:15; 35:18; 39:7; 53:38
 - nije opterećen preko mogućnosti da izdrži, 2:286; 6:152; 7:42; 23:62
@@ -113,7 +112,7 @@ Otpadništvo, 3:72; 3:86-88; 3:90-91; 3:167; 4:137; 5:54; 9:74; 9:107; 16:106; 3
 Otpadnici, 47:25
 Araf, S.7; 7:46, 48
 Arafat, 2:198
-Svađati se,
+Svađati se
 - ne u ime onih koji sami sebe obmanjuju, 4:107
 - ti si se zalagao za njih na ovom svijetu, ali ko će se zalagati na Sudnjem danu, 4:109
 Svađe/Napadi
@@ -123,7 +122,7 @@ Oklop, 16:81
 'Asr,S.103
 Ajet El-Kursi, 2:255
 Ogovarač, 49:12; 104:1
-Bedr (bitka kod), 3:13,
+Bedr (bitka kod), 3:13
 - lekcije iz, 8:5-19, 42-48
 El-Bejt-ul-Mamur, 52:4
 Bekka (Meka), 3:96
@@ -133,7 +132,7 @@ Ravnoteža, 7:8-9; 17:35; 21:47; 55:7-9; 57:25; 101:6-9
 Banu En-Nadir, 59:2-6, 13
 Bakara, S.2
 Bara'a (Vidi Taubah), S.9
-Barzak, (Barijera), 23:100; 25:53; 55:20;
+Barzak, (Barijera), 23:100; 25:53; 55:20
 - vidi također 18:94-97; 34:54; 36:9
 Baiyinah, S.98
 Zvijer (posljednjih dana), 27:82
@@ -182,7 +181,7 @@ Biblija, 5:64, 5:65, 5:68
 - iskrivljavanje, 3:78; 5:14-15
 Ptice, 2:260; 3:49; 5:110; 6:38; 12:36, 41; 16:79; 21:79; 22:31; 24:41; 27:16-17, 20; 34:10; 38:19; 56:21; 67:19; 105:3
 Krvavi novac (Diya), 2:178-179; 4:92; 17:33
-Plijen, rat, 4:94. 8:41; 59:6-8;
+Plijen, rat, 4:94. 8:41; 59:6-8
 - ilegalno uzimanje, 3:162
 - vidjeti plijen
 Podmićivanje, 2:188
@@ -220,7 +219,7 @@ Odjeća, 7:26; 16:81
 - ženska gornja odjeća sprječava uznemiravanje od strane licemjera, 33:59-60
 Konfederati, 33:9, 22
 - vidi Ahzab Konsultacije, uzajamne, 42:38
-Stvaranje,
+Stvaranje
 - počinje i ponavlja se, 10:4; 21:104; 27:64; 29:19-20
 - novi, 17:49, 98; 35:16
 - s istinom, 15:85; 16:3; 29:44; 39:5; 44:39; 45:22; 46:3
@@ -240,12 +239,12 @@ Vrana, 5:31
 Kriterij, 2:53, 185; 3:4; 8:29, 41; 21:48; 25:1
 Dahr, (vidi Insan,) S.76; 45:24
 - vrijeme, 76:1; 103:1
-David, 5:78; 6:84; 17:55; 34:10, 13; 38:17-30;
+David, 5:78; 6:84; 17:55; 34:10, 13; 38:17-30
 - s obzirom na Psalme 4:163
 - bori se i ubija Golijata, 2:251
-- donosi sud 21:78-80;
-- blagoslovljen znanjem i proročanstvom 27:15-16;
-- planine i ptice mu se pridružuju u hvali Allaha 34:10; 38:17-20;
+- donosi sud 21:78-80
+- blagoslovljen znanjem i proročanstvom 27:15-16
+- planine i ptice mu se pridružuju u hvali Allaha 34:10; 38:17-20
 - sudi između dvije osobe 38:21-26
 Dawabb ili Dabbah (pokretno živo biće, itd.) 2:164; 6:38; 8:22, 55; 11:6, 56; 16:49, 61; 22:18; 24:45; 27:82; 29:60; 31:10; 34:14; 35:28, 45; 42:29; 45:4
 Mrtvi će uskrsnuti, 6:36
@@ -255,17 +254,17 @@ Smrt, 3:185; 3:193; 4:78; 6:61; 6:93; 21:35; 23:99-108; 31:34; 32:11; 33:19; 33:
 - one zajednice koje nemaju objavu neće biti uništene, 6:131; 9:115; 10:47; 11:117; 15:4; 16:119; 17:15; 28:59
 - oni koji su ubijeni na Allahovom putu su živi, 2:154; 3:169
 - bježeći od zla prema Allahu, 4:100
-- ne može se zaustaviti ili odložiti 63:10-11;
-- brat blizanac iz sna 6:60; 39:42;
-- vjernici i nevjernici u trenutku smrti 8:50; 16:27-32; 41:30;
+- ne može se zaustaviti ili odložiti 63:10-11
+- brat blizanac iz sna 6:60; 39:42
+- vjernici i nevjernici u trenutku smrti 8:50; 16:27-32; 41:30
 - kazna u grobu 40:46
 Dugovi, 2:280, 282; 4:11-12
-Dekret,
+Dekret
 - za svaku pojedinu stvar postoji, 13:38
 - nikada nismo uništili nijedno naselje, a da za njega nije bilo poznato, 15:4
 - svaka stvar je od Allaha, 44:5
 - kada On odluči nešto, On samo kaže: "Budi!" - i to i jeste, 2:117; 36:82; 40:68
-Djela,
+Djela
 - zlo, uljepšano za njih, 47:14
 - nama naša, vama vaša djela, 28:55; 42:15; 45:15
 - dobro i loše, su za i protiv njega samog, 41:46
@@ -279,7 +278,7 @@ Dhariyat, S.51
 Zikr, 7:205; 15:6, 9
 Zul-Kifi, 21:85; 38:48
 Zul-Karejn, 18:83-98
-Dhun-Nun (drugar ribe),
+Dhun-Nun (drugar ribe)
 Nevjernici (vidi također Licemjeri)
 - zamolite Muhammeda ( s.a.v.s. ) da na njih prizove Allahov gnjev kao dokaz, 6:57-58; 8:32; 10:49-52
 - podnesite njihovo društvo s ljubaznošću, 31:15
@@ -304,7 +303,7 @@ Jarak, ljudi iz, 85:4-10
 Raznolikost
 - o ljudima, 30:22, 35:27-28
 - života, 35:27-28
-Razvod, 2:228-232, 236-237, 241; 4:35, 130; 65:1-7;
+Razvod, 2:228-232, 236-237, 241; 4:35, 130; 65:1-7
 - nakon perioda čekanja, razvesti se ili pomiriti, 2:231; 65:2
 - dva svjedoka, 65:2
 - alimentacija, 2:233, 241
@@ -340,7 +339,7 @@ Razvod, Žena
 - osim ako brak nije konzumiran, 33:49
 Psi, 7:176
 Magarci, 2:259; 16:8; 31:19; 62:5; 74:50
-Piće,
+Piće
 - alkoholičar, 2:219; 5:90
 - čisto i bijelo ukusno, 37:45-46; 76:21
 - čisto zapečaćeno vino, 83:25
@@ -363,13 +362,13 @@ Zlo, 4:123; 10:27-30; 19:83; 59:15
 - promijenjeno, na bolje, 7:95
 - oni slijede svoje, želje, 47:14, 16
 - djela uljepšana za njih, 47:14
-Višak,
+Višak
 - zabranjeno u hrani, 5:87
 - u religiji, 4:171; 5:77-81
 Oči, uši i koža svjedočit će protiv grešnika, 41:20-23
 Ezra, (Uzair) 9:30
 Lice ili Obličje Allaha, 2:115, 272; 6:52; 13:22; 18:28; 28:88; 30:38-39; 55:27; 76:9; 92:20
-Lijepog izgleda,
+Lijepog izgleda
 - Allah je svakom narodu dao njegova djela, 6:108
 Vjera (Vjerovanje), 2:108; 3:167, 177, 193; 5:5; 9:23; 16:106; 30:56; 40:10; 42:52; 49:7, 11, 14; 52:21; 58:22; 59:9-10
 - oni koji odbacuju, 3:116
@@ -379,7 +378,7 @@ Vjera (Vjerovanje), 2:108; 3:167, 177, 193; 5:5; 9:23; 16:106; 30:56; 40:10; 42:
 Fadžr, S.89
 Falaq, S.113
 Lažni razgovor o ajetima iz Kur'ana, 6:68
-Lažni bogovi,
+Lažni bogovi
 - osim Allaha, idoli i takozvani partneri 7:194-198; 16:20-21, 72, 86; 21:22, 24; 34:22, 27; 41:47-48; 46:5-6; 53:19-24; 71:23-24
 - ne vrijeđajte one kojima se klanjaju, pored Allaha, 6:108
 - vidi također Tagut
@@ -394,7 +393,7 @@ Fidija (otkupnina), od posta, 2:196
 - za oslobađanje zarobljenika, 8:67
 - otkupnina koju nude nevjernici, 3:91; 5:36,37; 10:54; 13:18
 Sl., 95:1
-Borba,
+Borba
 - na Allahovom putu, protiv nevjernika, 2:190-193, 244; 4:84, 95; 8:72, 74, 75; 9:12-16, 20, 24, 36, 123; 47:4; 61:11
 - zaređen, 2:216
 - u svetim mjesecima, 2:217; 9:5
@@ -410,7 +409,7 @@ Fil, S.105
 Firdausov raj, 18:107; 23:11
 Vatra, 56:71, 100:2
 Let, 22:73
-Hrana,
+Hrana
 - dozvoljeno i zabranjeno, (Halal i Haram), 2:168, 172, 173; 5:1, 3-5, 88; 6:118-119, 121, 145-146; 16:114-118; 23:51
 - nema grijeha za ono što je jeo u prošlosti, 5:93
 - ne prestupajte, 5:87
@@ -432,7 +431,7 @@ Oproštenje, 2:109; 4:48, 110, 116; 5:74; 7:199; 39:53; 42:5, 40-43; 45:14; 53:3
 - utrkujući se jedni s drugima u žurbi prema, 57:21
 - zla djela pretvorena u dobra djela 25:68-71
 Prevara, (vidi Izdaja) 83:1-6
-Slobodna volja,
+Slobodna volja
 - ograničeno Allahovom voljom, 6:107; 10:99; 74:56; 76:31; 81:28-29
 - ko hoće, neka vjeruje i ne vjeruje, 18:29
 - krene putem ka Gospodaru svome, 76:29
@@ -466,14 +465,14 @@ Dobri (Dani), 3:140
 - Allah nagrađuje one koji čine ono što je najbolje, 53:31
 - postoji li ikakva nagrada za, osim dobra, 55:60
 - činite ono što je Allah učinio dobro prema vama, 28:77
-Dobro i zlo,
+Dobro i zlo
 - dobro je od Allaha, a zlo je od tebe samog, 4:79
 - ako činite dobro, sebi samima, a ako činite zlo, sebi samima, 17:7;41:46
 - odbijati zlo dobrim, 23:96; 28:54; 41:34
 - dobro i zlo djelo ne mogu biti jednaki, 41:34
 - svaka osoba će biti suočena sa svim što je učinila, 3:30
 - vidi također Muhsinun
-Dobro djelo,
+Dobro djelo
 - otkriti ili sakriti to, 4:149
 - nastojati kao u trci u, 5:48
 Jevanđelje, 3:3, 48, 65; 5:46-47, 66, 68, 110; 7:157; 9:111; 48:29; 57:27
@@ -490,7 +489,7 @@ Teškoća, sa svakom dolazi olakšanje, 94:5-6
 Harun, (Aron)
 Harut, 2:102
 Hašr, S.59
-Srca,
+Srca
 - otvrdnuo, 2:74; 22:53; 39:22; 57:16
 - zapečaćeno, 7:100-101; 40:35; 47:16; 63:3
 - pokriveno, 17:46; 41:5
@@ -498,7 +497,7 @@ Srca,
 - podijeljeno, 59:14
 - ispunjen strahom, 22:35
 - u kome se nalazi bolest, 2:10; 5:52; 8:49; 9:125; 22:53; 24:50; 33:12, 32, 60; 47:20, 29; 74:31
-Nebesa,
+Nebesa
 - Allahu pripada ono što je nevidljivo, 16:77
 - stvoreno nije za predstavu, 21:16
 - i zemlja se spoji, 21:30
@@ -528,7 +527,7 @@ Pakao (vatra, plamteći plamen) 2:24, 119, 161, 166, 201; 3:10, 12, 116, 131, 15
 - gorući očaj i ledeno hladna tama u, 38:57
 - lanac od 70 lakata, 69:32
 - ostati ograničeno vrijeme, 78:23
-U daljnjem tekstu,
+U daljnjem tekstu
 - bolja je kuća u, 6:32; 7:169
 - što će biti kraj u, 6:135
 - Zalimun neće biti uspješan (u), 6:135
@@ -545,7 +544,7 @@ Hidžra (Stjenovit trakt), 15:80-85
 Hidžra, S.15
 Homoseksualnost 26:165-166; 27:55; 29:28-29
 Konji, 16:8
-Sat,
+Sat
 - znanje o tome je samo kod Allaha, 7:187; 31:34; 33:63; 41:47; 68:26; 79:42-46
 - odjednom je to na njima, 6:31; 7:187; 12:107; 43:66
 - dolazi na tebe, 6:40; 12:107; 20:15; 34:3
@@ -554,9 +553,9 @@ Sat,
 - zemljotres jačine 22:1
 - bit će uspostavljeno, na Dan, 30:12, 14
 - sigurno dolazi, nema sumnje, 40:59; 45:32; 51:5-6
-- znaci 21:96; 27:82; 43:61; 47:18; 54:1-2;
-- imena 1:3; 2:4; 3:55; 19:39; 30:56; 37:21; 40:15; 41:47; 42:7; 50:20; 56:1; 64:9; 69:1; 79:34; 80:33; 88:1; 101:1-3;
-- iznenadit će ljude 6:31; 7:187;
+- znaci 21:96; 27:82; 43:61; 47:18; 54:1-2
+- imena 1:3; 2:4; 3:55; 19:39; 30:56; 37:21; 40:15; 41:47; 42:7; 50:20; 56:1; 64:9; 69:1; 79:34; 80:33; 88:1; 101:1-3
+- iznenadit će ljude 6:31; 7:187
 - Truba će biti zasvirana u 6:73; 23:101; 39:68
 Kuće, ponašanje prilikom ulaska, 24:27-29
 Hud, 7:65-72; 11:50-60; 26:123-140; 46:21-26
@@ -565,7 +564,7 @@ Hujurat, S.49
 Humazah, S.104
 Hunain (bitka), 9:25
 Hur (žene u Raju), 44:54; 52:20
-Licemjeri,
+Licemjeri
 - reci: Vjerujemo u Allaha i onaj svijet, a zapravo ne vjerujemo, 2:8
 - varaju sami sebe, 2:9
 - bolest u njihovim srcima, 2:10; 8:49; 22:53; 33:12; 47:29
@@ -609,8 +608,8 @@ Ilah, samo Jedan, 2:163; 6:19; 16:22, 51; 23:91; 37:4; 38:65
 Nedozvoljeni seksualni odnos; iskazi svjedoka, 4:15-18; 24:2, 19
 Ilijun, 83:18-21
 Nečisti (Najas) 9:28
-Imran,
-- supruga od, 3:35;
+Imran
+- supruga od, 3:35
 - kćerka od, 66:12
 Neizbježno, 69:1-3
 Infitar, S.82
@@ -629,7 +628,7 @@ Eram, 89:7
 Isuse, vidi Isusa
 Isak, (Isak) 2:133; 4:163; 6:84; 19:49;21:72; 29:27; 37:112–113
 Izmael (Izmael), 2:125-129, 133; 4:163; 6:86; 19:54–55; 21:85; 38:48
-podiza temelje Kabe sa svojim ocem 2:125-140;
+podiza temelje Kabe sa svojim ocem 2:125-140
 priča o žrtvi 37:100-113
 Islam, 3:19, 85; 5:3; 6:125; 39:22; 61:7
 - prvi od onih koji se pokoravaju kao muslimani, 6:14,163; 39:12
@@ -658,8 +657,8 @@ Jakov, (Ja'kub) 2:132-133; 4:163; 6:84;12:18; 19:49; 21:72; 29:27
 Džalut (vidi Golijat)
 Džamarat, 2:200
 Džatija, S.45
-Isus, Isa, sin Marijin,
-- majka izabrana među svim ženama svijeta 3:42;
+Isus, Isa, sin Marijin
+- majka izabrana među svim ženama svijeta 3:42
 - svjedoči o Sudnjem danu, 4:159
 - radosna vijest o rođenju, 3:45-47; 19:22-23
 - Poslanik djeci Izraela, 3:49-51
@@ -682,9 +681,9 @@ Isus, Isa, sin Marijin,
 - različita mišljenja o, 43:65
 - ništa više od roba i primjera djeci Izraela, 43:59
 - radosna vijest o Poslaniku čije će ime biti Ahmed, 61:6
-- njegovo djevičansko rođenje, poruka i čuda 3:45-51; 19:16-38;
-- podsjetio na Allahove blagodati 5:110-115;
-- poriče da je božanski 5:116-120;
+- njegovo djevičansko rođenje, poruka i čuda 3:45-51; 19:16-38
+- podsjetio na Allahove blagodati 5:110-115
+- poriče da je božanski 5:116-120
 - saosjećanje i milost u srcima njegovih sljedbenika 5:82; 57:27
 Jevreji i kršćani, 2:140; 4:153-161, 171; 5:18
 - slušajte laž, 5:41-42
@@ -694,41 +693,41 @@ Jevreji i kršćani, 2:140; 4:153-161, 171; 5:18
 Džibril (vidi Gabril)
 Džihad (Borba, Nastojanje) 2:216; 9:24; 22:78; 25:52
 Džin, S.72
-Džin, 6:100, 112; 15:27; 34:41; 38:37; 46:18,29; 55:33, 39;
-Džin, stvoren od vatre 15:25; 55:15;
-- vjerujući i nevjerujući džini 72:1-15;
+Džin, 6:100, 112; 15:27; 34:41; 38:37; 46:18,29; 55:33, 39
+Džin, stvoren od vatre 15:25; 55:15
+- vjerujući i nevjerujući džini 72:1-15
 - neki su vjerovali u poruku Kur'ana 46:29-32
 - ljudi i džini su stvoreni sa svrhom 51:56-58
 Jov, 4:163; 6:84; 21:83-84; 38:41-44
-Ivan, (Jahja, Ivan Krstitelj),
+Ivan, (Jahja, Ivan Krstitelj)
 - radosna vijest iz, 3:38-41; 19:7-11; 21:90
 - pravednik, 6:85
 - mudar, saosjećajan, poslušan, 19:12-15
-Jona (Jonas ili Junus), 4:163; 6:86; 10:98; 21:87; 37:139-148;
+Jona (Jonas ili Junus), 4:163; 6:86; 10:98; 21:87; 37:139-148
 - (Zun-Nun) 21:87; 68:48-50
 Josip (Jusuf), 6:84; 12:4-101
-- najbolje priče 12:1-3;
-- san mladog Jusufa 12:4-6;
-- zavjera njegove braće 12:7-18;
-- prodani u ropstvo 12:19-20;
+- najbolje priče 12:1-3
+- san mladog Jusufa 12:4-6
+- zavjera njegove braće 12:7-18
+- prodani u ropstvo 12:19-20
 - odgajano u kući glavnog ministra Egipta 12:21-22
-- Supruga glavnog ministra pokušava ga zavesti 12:23-29;
-- incident na banketu 12:30-32;
-- ide u zatvor 12:33-35;
-- dva zatvorenika 12:36-42;
-- Kraljev san 12:43-53;
-- postaje glavni ministar 12:54-57;
-- braća dolaze k njemu po potrebštine 12:58-68;
-- uzima svog brata Benjamina 12:69-82;
-- ponovna tuga njegovog oca 12:83-87;
-- otkriva svoj pravi identitet 12:88-98;
-- stari san se ostvaruje 12:99-100;
+- Supruga glavnog ministra pokušava ga zavesti 12:23-29
+- incident na banketu 12:30-32
+- ide u zatvor 12:33-35
+- dva zatvorenika 12:36-42
+- Kraljev san 12:43-53
+- postaje glavni ministar 12:54-57
+- braća dolaze k njemu po potrebštine 12:58-68
+- uzima svog brata Benjamina 12:69-82
+- ponovna tuga njegovog oca 12:83-87
+- otkriva svoj pravi identitet 12:88-98
+- stari san se ostvaruje 12:99-100
 - završna molitva 12:101
 Judi, Mount, 11:44
 Džuma, S.62
 Pravda (Adl), 2:282; 4:58, 135; 7:29; 16:90; 57:25
 - vidi također 4:65, 105
-Kaba,
+Kaba
 - sagradio Abraham, 2:125-127
 - zabranjeno ubijanje divljači, 5:94-96
 - azil sigurnosti, 5:97
@@ -740,17 +739,17 @@ Kahf, S.18
 Kanz, 9:34-35
 Kauthar (rijeka u raju), 108:1
 Kauthar, S.108
-Ključevi,
+Ključevi
 o nebesima i zemlji, 39:63; 42:12
 od Gaiba, 6:59
 Haula bint Ta Labah, 58:1
-Ubijanje,
+Ubijanje
 - ako je neko ubio jednu osobu, ubio je cijelo čovječanstvo, 5:32
 - ne ubij nikoga, 17:33
 Lijepe riječi su bolje od milostinje, 2:263
 Srodstvo, prava iz, 2:83, 177, 215; 4:7-9, 36; 8:41; 16:90; 17:26; 24:22; 29:8; 30:38; 42:23
 Kiraman-Ratibin, 82:11
-Znanje,
+Znanje
 - nijedan list ne padne, ali On to zna, 6:59
 - izgubljeni su oni koji su ubili svoju djecu iz ludosti, bez obzira na to, 6:140
 - od pet stvari, samo s Allahom, 31:34
@@ -760,14 +759,14 @@ Kursi, 2:255
 Lahab (Vidi Masad), S.111
 Lail, S.92
 Lampa, 25:61; 67:5; 71:16; 78:13
-Jezici,
+Jezici
 - razlika u i bojama kože muškaraca, 30:22
 Lat, 53:19
 Zakon, propisan, 5:48
 Allahovi zakoni, 2:219; 98:3
 Lažljivci, 26:221-223
 Život, ako je iko spasio jednog čovjeka, spasio je život cijelom čovječanstvu, 5:32
-Život ovog svijeta,
+Život ovog svijeta
 - kupio, po cijeni zagrobnog života, 2:86
 - je samo uživanje u obmani, 3:185
 - prodaj, za Ahiret, 4:74
@@ -779,7 +778,7 @@ Lažljivci, 26:221-223
 - ko god želi, ulazi u nju; ali onda neće imati udjela u onome svijetu, 11:15-16; 17:18; 42:20
 - koji vole sadašnji svijet, a zanemaruju budući svijet, 75:20-21; 76:27
 - ti preferiraš, 87:16
-Svjetlo,
+Svjetlo
 - manifest, 4:174
 - i tama, 6:1
 - parabola iz, 24:35
@@ -794,7 +793,7 @@ Granice koje je postavio Allah, 2:173, 187, 190, 230; 9:112; 58:4; 65:1; 78:22
 - kada su prekoračili, (postali su majmuni), 7:166
 - koji poštuju, 9:112
 Lav, 74:51
-Zajam,
+Zajam
 - posudite Allahu lijepu stvar, 2:245; 73:20
 - povećana mnogostrukost, 57:11, 18
 - udvostručeno, 64:17
@@ -812,7 +811,7 @@ Mahr (novac za vjenčanje), 2:229, 236-237; 4:4,19-21, 24-25; 5:5; 33:50; 60:10-
 Maidah, S.5
 Meka (Bekka), 3:96;90:1-2
 - Grad sigurnosti, 95:3
-Čovječe,
+Čovječe
 - generacije za generacijama na Zemlji, 2:30;6:165
 - postao nasljednik, 35:39
 - dužnost, 2:83-84, 88, 177; 4:1-36; 8:41; 16:90; 17:23-39; 24:22; 29:8-9; 30:38; 33:33; 42:23; 64:14; 70:22-35
@@ -877,7 +876,7 @@ Meka (Bekka), 3:96;90:1-2
 - prelazi sve granice, 96:6-7
 Manasik (dužnosti) hadža, 2:128, 200; 22:30
 Manat, 53:20
-Čovječanstvo,
+Čovječanstvo
 - svjedoci preko, 2:143
 - jedna zajednica, 2:213; 10:19
 - stvoreno od jednog para, 4:1; 39:6; 49:13
@@ -887,7 +886,7 @@ Manat, 53:20
 - najčasniji od, 49:13
 - pretvoreni u narode i plemena, 49:13
 Mana i prepelice, 2:57
-Maniri,
+Maniri
 - o ulasku u kuće, 24:27-29
 - u kući, 24:58-61
 - u Poslanikovim kućama, 33:53
@@ -910,7 +909,7 @@ Brak, 2:232, 234
 - oni koji ne pronađu finansijska sredstva za brak, 24:33
 - žene koje su bile dozvoljene Poslaniku, 33:50-52
 - prije spolnog odnosa, nema ide prilikom razvoda, 33:49
-Mučenici,
+Mučenici
 - nije mrtav, 2:154; 3:169
 - radujte se milosti i obilju od Allaha, 3:170-171
 - primiti oproštenje i milost, 3:157-158
@@ -930,7 +929,7 @@ Masad, S.111
 Maun, S.107
 Ma'wa Raj, 53:15
 Izmjeri i utegni, daj punu težinu, 11:85; 17:35; 83:1-5
-Sastanak,
+Sastanak
 - s Allahom, 6:31
 - Velikog dana, 19:37
 - o onome što je zagrobni svijet, 30:16
@@ -960,7 +959,7 @@ Miradž, 17:1; 53:12
 Mjeseci, broj, 9:36-37
 Mjesec, 7:54; 10:5; 16:12; 22:18; 25:61; 36:39-40; 71:16; 91:2
 - cijepanje; 54:1
-Mojsije,
+Mojsije
 - i njegov narod, 2:51-61; 7:138-141, 159-162; 14:5-8; 61:5
 - i faraon, 2:49-50; 17:101-103; 20:17-53, 56-79; 23:45-49; 25:31-42; 40:23-46; 43:46-56; 51:38-40; 73:16; 79:15-26
 - vođen Allahom, 6:84
@@ -970,23 +969,23 @@ Mojsije,
 - s obzirom na Sveto pismo, 17:2
 - devet jasnih znakova, 7:133; 17:101
 - do spoja dvaju mora, 18:60-82
-- sudbonosni susret kod gorućeg grma 20:9-36; 27:7-14; 28:29-35;
+- sudbonosni susret kod gorućeg grma 20:9-36; 27:7-14; 28:29-35
 - pozvan i dat mu je poslanstvo, 19:51-53; 20:9-56
 - njegovo djetinjstvo, majka i sestra, 20:38-40; 28:7-13
 - čarobnjaci su se obratili, 20:70-73; 26:46-52
 - u Madjanu, 20:40; 28:22-28
 - odobren Kriterijum, 21:48
 - i mistična vatra, 27:7-12; 28:29-35
-- greškom ubija Egipćanina u gradu 28:14-21;
+- greškom ubija Egipćanina u gradu 28:14-21
 - došao je sa jasnim ajetom, 29:39
-- priča s faraonom 7:103-137; 10:75-92; 11:96-99; 26:10-69;
-- devet znakova za faraona i njegov narod 7:130-133; 20:17-22; 17:101;
-- pobjeđuje faraonove čarobnjake 20:70-73; 26:46-52;
-- bijeg u Midjan i brak 28:22-28;
-- prima Pločice 7:142-154,
-- traži da vidi Allaha na Gori 7:142-145;
-- poštovan od Allaha 33:69;
-- Allahove milosti prema Izraelćanima 2:47-61;
+- priča s faraonom 7:103-137; 10:75-92; 11:96-99; 26:10-69
+- devet znakova za faraona i njegov narod 7:130-133; 20:17-22; 17:101
+- pobjeđuje faraonove čarobnjake 20:70-73; 26:46-52
+- bijeg u Midjan i brak 28:22-28
+- prima Pločice 7:142-154
+- traži da vidi Allaha na Gori 7:142-145
+- poštovan od Allaha 33:69
+- Allahove milosti prema Izraelćanima 2:47-61
 - Izraelci odbijaju ući u Jeruzalem 5:20-29
 - upućen na Pravi put, 37:114-122
 - Pismo, 53:36; 87:19
@@ -1074,7 +1073,7 @@ Mumtahana, S.60
 Munafigun, S.63
 Ubistvo, 2:178-179
 Mursalat, S.77
-Muslimani,
+Muslimani
 - prvi od, 6:14, 163; 9:100; 39:12
 - Ko je imenovao, 22:78
 - oprost i velika nagrada za one koji, 33:35-36
@@ -1086,7 +1085,7 @@ Nahl, S.16
 Najas (nečist) 9:28
 Najm, S.53
 Najwa (Vidi Tajnu)
-Imena,
+Imena
 Njemu pripada Najljepši, 7:180
 Njemu pripada Najbolji, 17:110; 20:8; 59:24
 Nužda, ako je neko prisiljen, 2:173; 6:145
@@ -1099,10 +1098,10 @@ Noć (kao simbol) za odmor, 10:67
 - biti na usluzi, 14:32
 - Noć Kadra (Dekret), 44:3-4; 97:1-5
 Nisa, S.4
-Noa, 3:33; 4:163; 6:84; 9:70; 10:71; 11:25, 32, 36, 42, 45-46, 48, 89; 17:3; 21:76; 25:37; 26:105; 29:14; 37:75; 51:46; 54:9; 69:11;
-- ismijavali 11:38;
+Noa, 3:33; 4:163; 6:84; 9:70; 10:71; 11:25, 32, 36, 42, 45-46, 48, 89; 17:3; 21:76; 25:37; 26:105; 29:14; 37:75; 51:46; 54:9; 69:11
+- ismijavali 11:38
 - Potop (velika poplava), 29:14
-- Arka i Potop 7:59-69, 11:25-48; 23:23-31; 26:105-122; 71:1-28;
+- Arka i Potop 7:59-69, 11:25-48; 23:23-31; 26:105-122; 71:1-28
 - nepravedni sin nije spašen, 11:42-48
 - nepravedna žena, 14:9; 17:3, 17; 19:58; 21:76; 22:42; 26:105-106, 116; 33:7; 37:75, 79; 38:12; 42:13; 40:5, 31; 42:13; 50:12; 53:52; 57:26; 66:10; 71:1, 21, 26
 Nuh, S.71
@@ -1136,7 +1135,7 @@ Parabole (sličnost, primjer, poređenja)
 - kiša, 10:24
 - čisto pokošena žetva, 10:24
 - slijep i gluh, 11:24
-- Allah protiv lažnih bogova 13:14; 16:76;
+- Allah protiv lažnih bogova 13:14; 16:76
 - istina protiv laži 13:17
 - pepeo po kojem vjetar silovito puše, 14:18
 - lijepo drvo, 14:24-25
@@ -1164,7 +1163,7 @@ Parabole (sličnost, primjer, poređenja)
 - magarac, 62:5
 - voda je trebala biti potopljena, 67:30
 - ljudi iz vrta, 68:17-33
-Raj,
+Raj
 - od Abode, (Ma'wa Raj), 53:15
 - Firdausov raj, 18:107; 23:11
 - Vrtovi ispod kojih teku rijeke, 3:15, 198; 4:57; 5:119; 7:43; 9:72; 18:31; 22:23; 39:20; 57:12; 64:9; 98:8
@@ -1187,7 +1186,7 @@ Raj,
 - rijeka u Raju, Kauthar, 108:1
 - rijeke vina, mlijeka, pročišćenog meda, 47:15
 - čisto zapečaćeno vino, bijelo, ukusno, 37:45-46; 56:18; 76:21; 83:25
-- čaša, pomiješana sa, Zanjabil, 76:17; 78:34;
+- čaša, pomiješana sa, Zanjabil, 76:17; 78:34
 - voda, 76:5
 - poslužavnici sa zlatom i čaše, 43:71
 - posude od srebra i čaše od kristala, 76:15-16
@@ -1234,21 +1233,21 @@ Raj,
 - žene u ugodnom hladu, naslonjene na prijestolja, 36:55
 - mlade djevojke punih grudi jednakih godina, 78:33
 - besmrtni dječaci-sluge da im služe, kao rasuti biseri, 52:24; 56:17; 76:19
-- prostran kao nebesa i zemlja 3:133, 57:21;
-- tekuća voda, hlad, delikatese i čisti partneri 2:25; 4:57; 36:55-58; 37:40-49; 38:50-54; 44:51-57; 52:17-24; 69:19-24; 76:5-22;
-- nagrada vjernicima 55:46-78; 56:10-40;
-- rijeke meda, mlijeka, vode i vina 47:15;
-- molitve i pozdravi 10:9-10; 39:73-74;
-- pozdravljeni pozdravima mira 13:23-24; 14:32;
-- vječni boravak u blaženstvu 11:108;
-- nikada nije zamoljen/a da ode 15:45-48;
-- svjetlost sija ispred njih i s njihove desne strane 57:12;
-- bez vrućine ili hladnoće 76:13;
-- sve želje ispunjene 16:30-32; 41:31-32;
-- narukvice od zlata i odjeća od fine svile 18:30-31; 22:23-24; 44:51-53;
-- poslužavnici sa zlatnim čašama 43:67-73;
-- srebrne posude i voće koje visi na dohvat ruke 76:14-16;
-- ležeći na prijestoljima 15:47; 37:44; 52:20;
+- prostran kao nebesa i zemlja 3:133, 57:21
+- tekuća voda, hlad, delikatese i čisti partneri 2:25; 4:57; 36:55-58; 37:40-49; 38:50-54; 44:51-57; 52:17-24; 69:19-24; 76:5-22
+- nagrada vjernicima 55:46-78; 56:10-40
+- rijeke meda, mlijeka, vode i vina 47:15
+- molitve i pozdravi 10:9-10; 39:73-74
+- pozdravljeni pozdravima mira 13:23-24; 14:32
+- vječni boravak u blaženstvu 11:108
+- nikada nije zamoljen/a da ode 15:45-48
+- svjetlost sija ispred njih i s njihove desne strane 57:12
+- bez vrućine ili hladnoće 76:13
+- sve želje ispunjene 16:30-32; 41:31-32
+- narukvice od zlata i odjeća od fine svile 18:30-31; 22:23-24; 44:51-53
+- poslužavnici sa zlatnim čašama 43:67-73
+- srebrne posude i voće koje visi na dohvat ruke 76:14-16
+- ležeći na prijestoljima 15:47; 37:44; 52:20
 - vjernici će vidjeti svog Gospodara 75:22-23
 Roditelji, ljubaznost prema, 2:83, 215; 4:36; 16:90; 17:23; 29:8; 31:14; 46:15-17
 Allahovi partneri, laž, 4:116; 10:34-35, 66; 16:86; 28:62-64, 71-75; 30:40; 42:21
@@ -1257,7 +1256,7 @@ Put, 5:77; 16:94; 42:52-53; 43:43; 90:11-12
 - vidi također Put
 Strpljenje, 3:186, 200; 10:109; 11:115; 16:126-127; 20:130; 40:55, 77; 42:43; 46:35; 70:5; 73:10
 - traženje pomoći u, i molitva, 2:45, 153; 20:132; 50:39
-Pacijent,
+Pacijent
 - dobit će punu nagradu, 39:10
 - Allah je s onima koji jesu, 8:46
 - i budi, 11:115
@@ -1266,7 +1265,7 @@ Pacijent,
 Mir, sklonost ka, 8:61
 Biser i koralj, sačuvani, 52:24; 55:22; 56:23
 Pero, 68:1; 96:4
-Osoba,
+Osoba
 - Allah ne opterećuje preko svojih mogućnosti, 2:286; 7:42
 - Allah ne oporezuje nikoga, osim prema njegovim mogućnostima, 23:62
 - ne, zna šta će sutra zaraditi i u kojoj će zemlji umrijeti, 31:34
@@ -1287,7 +1286,7 @@ Faraon, 28:6; 40:24
 - gradnja kule, 40:36-37
 - vidi također Mojsije
 Gomilanje svjetovnih stvari, 102:1-4
-Zavjet (Bai'ah),
+Zavjet (Bai'ah)
 - za islam, 16:91
 - Poslaniku je zavjet (bai'at) Allahu, 48:10
 - o vjernicima, 48:18; 60:12
@@ -1323,17 +1322,17 @@ Proroci, 3:33-34, 146; 4:163; 5:20; 6:84-90; 23:23-50; 57:26
 - ilegalno za, 3:161
 - neprijatelj za svakoga, 6:112; 25:31
 - vidi također Glasnici
-Prostracija,
+Prostracija
 - Allahu pripadaju svi koji su na nebesima i na Zemlji, kao i njihove sjene, 13:15
 Opskrba, 10:59; 13:26; 14:32; 16:73; 34:36,39; 42:12; 51:57; 67:21; 79:33
 Psalmi, 4:163
-Kazna,
+Kazna
 - odlaganje, 3:178
 - rezanje ruku ili stopala, 5:33
 - kaznite ih onim što je i vas zadesilo, 16:126
 - ovog života i ahireta, 24:19; 68:33
-Pročišćavajuće,
-- tjelesni, 4:43; 5:6;
+Pročišćavajuće
+- tjelesni, 4:43; 5:6
 - duhovno (od nečistoća), 87:14; 91:9
 Kadar, 5:5; 64:11
 Kadr, S.97
@@ -1345,7 +1344,7 @@ Karun (Korah), 28:76-82; 29:39
 Kasas, S.28
 Kibla, 2:142-145, 149
 Kisas (Zakon o jednakosti u kažnjavanju), 2:178-179, 194; 5:45; 16:126; 17:33; 22:60;42:40
-Kuran,
+Kuran
 - opisano, 13:31, 36, 37; 14:1; 56:77-80
 - nije takvo što bi ikada mogao proizvesti neko drugi osim Allaha, 2:23; 10:38; 11:13; 17:88
 - da je bilo od nekog drugog, a ne od Allaha, u tome bi bilo mnogo protivrječnosti, 4:82
@@ -1395,7 +1394,7 @@ Kuran,
 - recitovanje čistih stranica, 98:2
 - vidi također Knjiga; Otkrivenje
 Kurejšije, S.106
-Kurejšije,
+Kurejšije
 - nevjernici iz, 54:43-46, 51
 - ukroćivanje, 106:1-4
 Rabini i monasi, 9:31, 34
@@ -1403,26 +1402,26 @@ Trka, trudi se kao u, u dobrim djelima, 5:48
 Ra'd, S.13
 Rahman, S.55
 Odjeća pravednosti je bolja, 7:26
-Kiša,
+Kiša
 - Allahov dar, 56:68-70
 - od kamenja, 27:58
 Ramazan, 2:185
 Rami, 2:200
-Otkupnina,
+Otkupnina
 - ne, bit će uzet, 57:15
 - ponuđeno od strane nevjernika, 3:91; 10:54; 13:18
-Fidja, o postu, 2:196;
+Fidja, o postu, 2:196
 - za oslobađanje zarobljenika, 8:67
 Rass, stanovnici, 25:38; 50:12
-Naknada,
+Naknada
 - Dan, 1:4; 37:20; 51:12; 56:56; 82:17-18; 96:7
 - poricatelji, 107:1-7
 - od zla je zlo slično njemu, 42:40
-Pomirenje,
+Pomirenje
 - ko oprosti i učini, 42:40
 - između muškarca i žene, 4:35
 - između vjernika, 49:9-10
-Zapis,
+Zapis
 - upisan u Registar, 83:7-9, 18-21
 - svaki narod će biti pozvan u svoje, 45:28-29
 - napisane stranice djela svake osobe, 81:10
@@ -1432,7 +1431,7 @@ Zapis,
 - iza leđa, 84:10-15
 Anđeli koji zapisuju, 50:17-18, 23; 85:11
 Olakšanje, s teškoćama, 94:5-6
-Religija,
+Religija
 - bez prisile, 2:256
 - je Islam, 3:19
 - od Allaha, 3:83-84
@@ -1449,7 +1448,7 @@ Religija,
 - predački, 43:22-24
 Spominjanje Allaha, 63:9
 - u, srca pronalaze odmor, 13:28
-Pokajanje,
+Pokajanje
 - prihvaćeno ako je zlo učinjeno u neznanju i pokajanje ubrzo nakon toga, 4:17; 6:54
 - i bez učinka je, ako se zla djela nastave, 4:18
 - On prihvata i oprašta grijehe, 4:25
@@ -1457,7 +1456,7 @@ Predah od zla, 3:178; 10:11; 12:110; 14:42,44; 29:53-55; 86:15-17
 Uskrsnuće, 2:28, 7:53; 14:21; 16:38-40; 22:5-7; 23:15-16; 31:28, 41:39, 46:33-34; 50:3, 20-29, 41-44; 64:7, 75:1-15; 79:10-12; 86:5-8
 - primjer u priči iz Ezre 2:259
 - Abraham 2:260
-- ljudi iz pećine 18:9-26;
+- ljudi iz pećine 18:9-26
 - upozorenje poricateljima uskrsnuća 17:49-52, 17:97-100, 19:66-72, 37:11-27, 50:1-15, 80:17-42
 Dan uskrsnuća, 7:89; 20:100-101, 124
 - Pravi Dan, 78:39
@@ -1548,7 +1547,7 @@ Zapis dat iza leđa, 84:10-15
 - Približit će se Pakao, 89:23
 - Vatra pakla bit će skinuta, rasplamsana u žestoki plamen, 81:11-12
 - Odmazda putem milostinje bit će iskupljenje, 5:45
-Otkrivenje,
+Otkrivenje
 - ako ste u nedoumici, 2:23-24
 - ukinut ili zaboravljen Stih, 2:106
 - ispravno vodstvo, 3:73
@@ -1560,13 +1559,13 @@ Otkrivenje,
 - dijela Knjige je od Allaha, 46:2
 - vidi također Knjigu i Kuran
 Osveta za ugnjetavačku nepravdu koja im je učinjena, 42:39-43
-Nagrada,
+Nagrada
 - prema najboljim djelima, pa čak i više od toga, 24:38; 29:7; 39:35
 - kao nagrada 25:15
 - Allah nagrađuje one koji čine dobra djela onim što je najbolje, 53:31
 - za dobro, nema nagrade osim dobra, 55:60
 Riba (Vidi lihvarenje)
-Pravedni,
+Pravedni
 - društvo, 4:69
 - naslijedit će zemlju, 21:105
 - u Raju, 51:15-19; 76:5-12
@@ -1585,7 +1584,7 @@ Ruh (duša, duh), 15:29; 17:85; 58:22
 Rum, S.30
 Saba' (Šeba), 27:22-44; 34:15-21
 Saba', S.34
-Šabat,
+Šabat
 - prestupnici, 2:65; 4:154; 7:163-166
 - propisano samo za, 16:124
 Sabijanci, 5:69; 22:17
@@ -1611,23 +1610,23 @@ Sotona, 2:36, 168, 208, 268, 275; 3:36, 155, 175; 4:38, 60, 76, 83, 119-120; 5:8
 - nema moć nad vjernicima, 16:99-100
 - širi laži, 22:52-53
 - je neprijatelj, 12:5; 35:6; 36:60
-- oholost 2:34; 7:11-27; 15:26-43; 17:61-65; 38:73-85;
-- džin 18:50-51;
-- Adamovo iskušenje i pad 7:20-23; 20:116-121;
-- nema vlast nad vjernicima 16:98-100;
-- njegov gol 35:6-8;
-- zakleti neprijatelj čovječanstva 12:5; 17:53;
-- njegova stranka 53:14-19;
-- djelo njegovih ruku 5:90-91;
-- obeshrabruje dobra djela 2:268;
-- vjernici traže utočište kod Allaha od njega 7:200-202;
-- njegove sheme su slabe 4:76;
-- razočarava svoje sljedbenike 8:48;
+- oholost 2:34; 7:11-27; 15:26-43; 17:61-65; 38:73-85
+- džin 18:50-51
+- Adamovo iskušenje i pad 7:20-23; 20:116-121
+- nema vlast nad vjernicima 16:98-100
+- njegov gol 35:6-8
+- zakleti neprijatelj čovječanstva 12:5; 17:53
+- njegova stranka 53:14-19
+- djelo njegovih ruku 5:90-91
+- obeshrabruje dobra djela 2:268
+- vjernici traže utočište kod Allaha od njega 7:200-202
+- njegove sheme su slabe 4:76
+- razočarava svoje sljedbenike 8:48
 - razgovara sa svojim sljedbenicima u paklu 14:22
 - vidi također Iblis
 Vaga, uspješna, čija će biti teška, 7:8-9
 - vidi također ravnotežu
-Sveto pismo,
+Sveto pismo
 - ljudi od (Židova i kršćana), 2:109;3:64-65, 69-72, 75, 98-99, 110, 113,199; 4:47, 153-161; 5:59-60, 68; 98:1
 - šta su krili, 5:61-63
 - među onima koji su na pravom putu, 5:66
@@ -1635,7 +1634,7 @@ Sveto pismo,
 Mora, 42:32-33; 45:12
 - dvojica, 18:60; 25:53; 35:12; 55:19-20
 - kada, izbijaju na vidjelo, 82:3
-Tajna (Najwa),
+Tajna (Najwa)
 - razgovori, 4:114
 - savjet trojice, 58:7
 - savjeti, 58:8, 10
@@ -1644,10 +1643,10 @@ Sekte i podjele u religiji, 6:15; 23:53; 30:32; 42:13-14; 43:65; 45:17
 Sigurnost, nakon nevolje, On je spustio, 3:154
 Sjeme, Ko čini da raste, 56:63-67
 Osjetila, 23:78
-Sedam, stvorenih,
+Sedam, stvorenih
 - nebesa, 2:29; 23:17; 65:12; 67:3; 71:15
 - i zemlje kao što je ona, 65:12
-Sjena,
+Sjena
 - pada na sedždu Allahu, 13:15; 16:48
 širenje, 25:45
 Šams, S.91
@@ -1679,12 +1678,12 @@ Robovi, 2:177-178; 4:25, 36, 92; 5:89; 24:33; 58:3; 90:13
 San, stvar za odmor, 78:9
 Sodoma, 29:31; 37:136
 Sodomija, 7:80-82; 11:77-83; 15:61-77; 29:28-29
-Solomon, 2:102; 4:163; 6:84;
-- pomaže svom ocu Davidu da donese pravedniji sud 21:78-82;
+Solomon, 2:102; 4:163; 6:84
+- pomaže svom ocu Davidu da donese pravedniji sud 21:78-82
 - i mravi, 27:15-19
 - i pupavac, 27:20-26
 - i kraljica od Sabe, 27:22-44; 34:15
-- Allahove blagodati prema njemu 34:12-14, 38:34-40;
+- Allahove blagodati prema njemu 34:12-14, 38:34-40
 - njegova ljubav prema lijepim konjima 38:30-33
 Sin, usvojen, 33:4-5
 Duša (duh, Ruh), 15:29; 17:85; 58:22
@@ -1704,8 +1703,8 @@ Ratni plijen, 8:41, 69; 48:15, 19-20; 48:15
 Špijuniranje, 49:12
 Zvijezda, 53:1, 49; 86:1-4
 Zvijezde, 7:54; 15:16; 16:12, 16; 22:18; 25:61; 37:6-10; 56:75; 77:8; 81:2; 82:2
-Prav, Put, 1:6,
-- itd. Put, 6:153,
+Prav, Put, 1:6
+- itd. Put, 6:153
 - itd. Težnja, 4:95; 8:72, 74, 75; 9:20, 24, 81; 22:78; 25:52; 29:69:69; 47:3; 60:1; 61:11
 Dojenje, termin, hraniteljica, 2:233
 Patnja, siromaštvo, gubitak zdravlja i nesreće; blagostanje i bogatstvo, 7:94-96
@@ -1775,7 +1774,7 @@ Uza, 53:19
 Veo, nevidljivi, 17:45-46
 Veo, 24:31; 33:59
 Stihovi, Sab' Al-Mathani, 15:87
-Pobjeda,
+Pobjeda
 - dat od Allaha, 48:1
 - uz Allahovu pomoć, 61:13
 Vrline (vidi Pravednost; Vjernici)
@@ -1792,7 +1791,7 @@ Put, 1:6; 42:52-53; 90:10
 - itd. lako, učiniti lakim, 87:8
 - vidi također Put
 Putnik, 2:177, 215; 8:41; 17:26; 29:29; 30:38; 59:7
-Bogatstvo,
+Bogatstvo
 - ko je sakupio, 104:2-4
 - trošenje na Allahovom putu (vidi Trošenje)
 Bogatstvo i djeca, ukras života ovoga svijeta, 18:46
@@ -1810,7 +1809,7 @@ Vino (u raju)
 - rijeke, 47:15
 - čisto zapečaćeno, 83:25
 Ne poželi ono u čemu je Allah jedne nadmašio druge, 4:32
-Svjedoci,
+Svjedoci
 - savezu proroka, 3:81
 - nad čovječanstvom, 2:143; 22:78
 - za ugovor, 2:282
@@ -1820,7 +1819,7 @@ Svjedoci,
 - ruke i noge će svjedočiti, 36:65
 - čovjek protiv sebe samog, 75:14
 Dan svjedočenja i Dan svjedočenja, 85:3
-Supruge,
+Supruge
 - su vam njiva, 2:223
 - naslovnica za tebe, 2:187
 - od tvoje vrste, 16:72
@@ -1832,7 +1831,7 @@ Supruge,
 - ne izjašnjava se jasno u raspravi, 43:17-18
 Drvo, stanovnici, 15:78; 38:13; 50:14
 - vidi i Aikah; Madyan 26:176-191
-Svijet, živote ovoga,
+Svijet, živote ovoga
 - nije ništa drugo nego igra i zabava, 6:32; 29:64; 47:36; 57:20
 - obmanjuje ljude, 6:130
 - manje je uživanje u onome životu nego u onome svijetu, 9:38; 13:26; 28:60-61
@@ -1844,7 +1843,7 @@ Zločinitelji, 11:18-22, 101-104, 116-117; 39:47
 - vidi također Nevjernici
 Abdest (Abdest), 4:43; 5:6
 Jagut, 71:23
-Jahja (Džon),
+Jahja (Džon)
 - radosna vijest iz, 3:39; 21:90
 - pravednik, 6:85
 - mudar; saosjećajan; poslušan, 19:12-15
@@ -1865,52 +1864,52 @@ Zihar, 33:4; 58:2-4
 Zuhruf, S.43
 Zumar, S.39
 Osnovne postavke
-- Vjera usavršena 5:3;
-- jedini Put koji Allah prihvata 3:19, 85;
-- bez prisile na prihvatanje islama 2:256;
-- jedna religija s različitim vjerovanjima i zakonima 5:48; 22:67-70; 42:13-14;
-- proroci islama 2:135-136; 3:84; 4:163-165;
-- zapovijedi (vjeruj u Allaha i čini dobro) 4:36; 6:151-154; 17:23-39; 18:107-108;
-- pet ciljeva Šerijata: zaštita vjere 5:54;
-- zaštita života 5:32;6:151;
-- zaštita bogatstva 5:38;
-- zaštita časti 5:5;24:4;
+- Vjera usavršena 5:3
+- jedini Put koji Allah prihvata 3:19, 85
+- bez prisile na prihvatanje islama 2:256
+- jedna religija s različitim vjerovanjima i zakonima 5:48; 22:67-70; 42:13-14
+- proroci islama 2:135-136; 3:84; 4:163-165
+- zapovijedi (vjeruj u Allaha i čini dobro) 4:36; 6:151-154; 17:23-39; 18:107-108
+- pet ciljeva Šerijata: zaštita vjere 5:54
+- zaštita života 5:32;6:151
+- zaštita bogatstva 5:38
+- zaštita časti 5:5;24:4
 - zaštita vlastite sposobnosti razmišljanja 5:90.
 Vjerovanje u Allaha 2:255
-- Božanske osobine, Prekrasna imena 57:1-6; 59:22-24; 85:13-16; 112:1-4;
-- jedini bog dostojan obožavanja 1:1-4; 2:285; 6:3; 43:84;
-- sva vlast pripada Njemu 3:26; Njegov Prijestolje ('Arš) 7:54; 11:7;
-- Njegov Kursi (stolica ili tabure) 2:255;
-- bezbrojne milosti prema čovječanstvu 14:32-34; 2:164; 16:2-93; 31:20; 55:1-25;
-- daje život i uzrokuje smrt 44:8; 53:44; 57:2; 67:2;
-- donosi radost i tugu 53:43;
-- daje obilne ili ograničene zalihe 13:26; 17:30; 29:62;
-- Najbolji od svih sudija 95:8;
-- Najmilostiviji od milosrdnih 12:92;
-- voli pravednike 85:14;
-- pun oprosta i strog u kažnjavanju 13:6, 40:3;
-- Prvi i Posljednji 57:3;
-- sva čast i moć pripadaju Njemu 35:10;
-- poznaje nepoznato i vidi nevidljivo 6:59,73; 9:94, 105; 13:8-10; 31:34; 32:6; 34:48; 35:38; 39:46; 49:18; 59:22; 62:8; 64:18; 72:26; 74:31; 87:7;
-- najbolje zna šta je skriveno u srcu 5:7; 11:5; 31:23;
-- zna šta se dogodilo i šta tek dolazi 2:255;
-- sve je zapisao u Zapisu (ili Sačuvanoj Ploči) 6:38; 13:39; 36:12;
-- sposoban učiniti bilo šta 2:117; 3:189; 8:41; 9:116; 11:4; 16:40; 40:68; 41:39; 42:49; 57:2;
-- Njegova beskonačna moć 3:26-27; 24:45; 31:28-30;
-- stvorio je nebesa i zemlju za šest dana i nikada se nije umorio 46:33; 50:38;
-- stvara riječju 'Budi!' 36:81-83;
-- nikada nije nepravedan prema Svojim stvorenjima 3:108; 4:40; 17:71; 21:47; 22:10; 26:209; 40:31; 41:46; 45:22; 50:29; 64:11; 78:6-16;
-- sve se pokorava Njegovoj volji 3:83; 22:18; 30:26;
-- svi imaju potrebu za Njim 11:6; 35:15; 55:29;
-- pouzdajte se u Njega 10:84-85; 12:67; 25:58;
-- oblici božanske komunikacije 42:51;
-- vrijedno je imati na umu 2:21; 3:102; 4:1; 33:70-71; 59:18;
-- mudrost je dar od Njega 2:269;
-- On ne treba nikoga 3:97; 6:133; 112:2;
-- nijedan u Trojstvu 4:171;
-- nema partnera 6:101;
-- nema djece 10:68; 19:35; 43:81; 72:3; 112:3;
-- nema partnera ili bogova-saradnika 6:94; 7:191-195; 46:4-5;
+- Božanske osobine, Prekrasna imena 57:1-6; 59:22-24; 85:13-16; 112:1-4
+- jedini bog dostojan obožavanja 1:1-4; 2:285; 6:3; 43:84
+- sva vlast pripada Njemu 3:26; Njegov Prijestolje ('Arš) 7:54; 11:7
+- Njegov Kursi (stolica ili tabure) 2:255
+- bezbrojne milosti prema čovječanstvu 14:32-34; 2:164; 16:2-93; 31:20; 55:1-25
+- daje život i uzrokuje smrt 44:8; 53:44; 57:2; 67:2
+- donosi radost i tugu 53:43
+- daje obilne ili ograničene zalihe 13:26; 17:30; 29:62
+- Najbolji od svih sudija 95:8
+- Najmilostiviji od milosrdnih 12:92
+- voli pravednike 85:14
+- pun oprosta i strog u kažnjavanju 13:6, 40:3
+- Prvi i Posljednji 57:3
+- sva čast i moć pripadaju Njemu 35:10
+- poznaje nepoznato i vidi nevidljivo 6:59,73; 9:94, 105; 13:8-10; 31:34; 32:6; 34:48; 35:38; 39:46; 49:18; 59:22; 62:8; 64:18; 72:26; 74:31; 87:7
+- najbolje zna šta je skriveno u srcu 5:7; 11:5; 31:23
+- zna šta se dogodilo i šta tek dolazi 2:255
+- sve je zapisao u Zapisu (ili Sačuvanoj Ploči) 6:38; 13:39; 36:12
+- sposoban učiniti bilo šta 2:117; 3:189; 8:41; 9:116; 11:4; 16:40; 40:68; 41:39; 42:49; 57:2
+- Njegova beskonačna moć 3:26-27; 24:45; 31:28-30
+- stvorio je nebesa i zemlju za šest dana i nikada se nije umorio 46:33; 50:38
+- stvara riječju 'Budi!' 36:81-83
+- nikada nije nepravedan prema Svojim stvorenjima 3:108; 4:40; 17:71; 21:47; 22:10; 26:209; 40:31; 41:46; 45:22; 50:29; 64:11; 78:6-16
+- sve se pokorava Njegovoj volji 3:83; 22:18; 30:26
+- svi imaju potrebu za Njim 11:6; 35:15; 55:29
+- pouzdajte se u Njega 10:84-85; 12:67; 25:58
+- oblici božanske komunikacije 42:51
+- vrijedno je imati na umu 2:21; 3:102; 4:1; 33:70-71; 59:18
+- mudrost je dar od Njega 2:269
+- On ne treba nikoga 3:97; 6:133; 112:2
+- nijedan u Trojstvu 4:171
+- nema partnera 6:101
+- nema djece 10:68; 19:35; 43:81; 72:3; 112:3
+- nema partnera ili bogova-saradnika 6:94; 7:191-195; 46:4-5
 - ništa kao On 42:11; 112:4
 Nalog za razmišljanje o čudima Njegovog stvaranja 3:190; 6:99; 10:5-6; 13:3-4; 16:10-16; 88:17-20
 Znaci stvaranja 2:164; 6:95-99; 7:57-58; 10:5-6; 13:2-4; 16:10-13, 65-69, 79; 23:27-30; 27:60-65; 30:19-25; 50:6-11
@@ -1931,21 +1930,21 @@ Znaci stvaranja 2:164; 6:95-99; 7:57-58; 10:5-6; 13:2-4; 16:10-13, 65-69, 79; 23
 - rosulja, grad i kiša 2:265; 6:99; 24:43; 50:9-11
 - grmljavina i munja 13:12-13
 Naučne reference
-- ljudi su stvoreni od muških i ženskih gameta 76:2;
-- faze formiranja i razvoja embriona 22:5; 23:12-14;
-- fetus u tri sloja tame 39:6;
-- slankasta voda 25:53-54; 35:12; 55:19-20;
-- oprašivanje vjetrom 15:22;
-- otisci prstiju 75:3-4;
-- planine kao klinovi 78:7;
-- željezo poslano dolje 57:25;
-- receptori bola 4:56;
-- sunce kao izvor zračenja i mjesec kao reflektirana svjetlost 10:5;
-- cijepanje mjeseca 54:1;
-- nebo kao dobro zaštićeni krošnjar 21:32;
-- sva bića stvorena od vode 21:30; 24:45;
-- mravi komuniciraju 27:17-19;
-- unutrašnji talasi 24:40;
+- ljudi su stvoreni od muških i ženskih gameta 76:2
+- faze formiranja i razvoja embriona 22:5; 23:12-14
+- fetus u tri sloja tame 39:6
+- slankasta voda 25:53-54; 35:12; 55:19-20
+- oprašivanje vjetrom 15:22
+- otisci prstiju 75:3-4
+- planine kao klinovi 78:7
+- željezo poslano dolje 57:25
+- receptori bola 4:56
+- sunce kao izvor zračenja i mjesec kao reflektirana svjetlost 10:5
+- cijepanje mjeseca 54:1
+- nebo kao dobro zaštićeni krošnjar 21:32
+- sva bića stvorena od vode 21:30; 24:45
+- mravi komuniciraju 27:17-19
+- unutrašnji talasi 24:40
 Živa bića
 - anđeli 39:75
 - ljudi (autoritet na Zemlji) 2:30; 6:165; 16:4
@@ -1978,366 +1977,366 @@ Naučne reference
 - pauk 29:41
 - drugi nama nepoznati 16:8
 Biljke i plodovi 6:99; 13:4; 16:11; 36:33-35
-- banane 56:29,
-- datumi 19:25,
-- začinsko bilje, krastavci, bijeli luk, leća i luk 2:61,
-- grožđe 80:28,
-- masline 6:99,
-- sl. 95:1,
-- šipak 55:68,
+- banane 56:29
+- datumi 19:25
+- začinsko bilje, krastavci, bijeli luk, leća i luk 2:61
+- grožđe 80:28
+- masline 6:99
+- sl. 95:1
+- šipak 55:68
 - tikva 37:146
 Vjerovanje u Muhameda
-- Osobine, samo prorok 3:144; 6:50; 7:188; 18:110;
-- da prenese istinu 2:119; 35:24; 42:48;
-- pečat proroka 33:40;
-- plemenit karakter 3:159; 68:4;
-- uzor 33:21;
-- kao usluga vjernicima 3:164;
-- milost cijelom svijetu 21:107;
-- univerzalni glasnik 4:170; 7:157-158; 34:28;
-- vodi Pravom putu 42:52-53;
-- brine o ljudima 9:129;
-- kao svjedok na Sudnjem danu 4:42; 16:89;
-- nepismeni prorok 7:157-158; 29:48; 62:2;
-- prorečeno u Tori i Evanđelju 7:157;
+- Osobine, samo prorok 3:144; 6:50; 7:188; 18:110
+- da prenese istinu 2:119; 35:24; 42:48
+- pečat proroka 33:40
+- plemenit karakter 3:159; 68:4
+- uzor 33:21
+- kao usluga vjernicima 3:164
+- milost cijelom svijetu 21:107
+- univerzalni glasnik 4:170; 7:157-158; 34:28
+- vodi Pravom putu 42:52-53
+- brine o ljudima 9:129
+- kao svjedok na Sudnjem danu 4:42; 16:89
+- nepismeni prorok 7:157-158; 29:48; 62:2
+- prorečeno u Tori i Evanđelju 7:157
 - prorekao Isus 61:6
 Izazovi s kojima se suočavao Poslanik ( s.a.v.s. )
-- besmisleni zahtjevi pagana 8:32; 15:7; 17:89-93; 25:7-8;
-- lažne optužbe 10:2; 11:13; 21:5; 24:11-26; 25:4-6; 37:36; 38:4; 52:29-30;
-- pokušaji atentata na njega 8:30; 9:74;
-- upozorenje onima koji mu nanose štetu ili mu se protive 4:115; 8:13; 9:61; 15:95; 33:57; 47:32; 96:9-19;
-- naređeno je da se na odbijanje odgovori sa strpljenjem 20:130; 30:60; 46:35; 70:5;
+- besmisleni zahtjevi pagana 8:32; 15:7; 17:89-93; 25:7-8
+- lažne optužbe 10:2; 11:13; 21:5; 24:11-26; 25:4-6; 37:36; 38:4; 52:29-30
+- pokušaji atentata na njega 8:30; 9:74
+- upozorenje onima koji mu nanose štetu ili mu se protive 4:115; 8:13; 9:61; 15:95; 33:57; 47:32; 96:9-19
+- naređeno je da se na odbijanje odgovori sa strpljenjem 20:130; 30:60; 46:35; 70:5
 - naredio, uvjerio Allah 5:67; 93:1-11; 94:1-8
 Pouke iz života Poslanika ( s.a.v.s. )
-- od njegove emigracije (hidžre) do Bitke na Bedru 3:121-129; 8:42-44; 8:65-71;
-- Bitka na Uhudu 3:151-180;
-- Bitka kod rova 33:9-27;
-- Bitka kod Hunaina 9:25-27;
-- Medina 9:40; Tabuk 9:38-123;
-- Banu En-Nadir 59:2-6;
-- Hamra' Al-Asad 3:172-175;
+- od njegove emigracije (hidžre) do Bitke na Bedru 3:121-129; 8:42-44; 8:65-71
+- Bitka na Uhudu 3:151-180
+- Bitka kod rova 33:9-27
+- Bitka kod Hunaina 9:25-27
+- Medina 9:40
+- Tabuk 9:38-123
+- Banu En-Nadir 59:2-6
+- Hamra' Al-Asad 3:172-175
 - Primirje Hudaibiyah 48:1-7; 48:10-29
 Počasti ukazane Poslaniku ( s.a.v.s. )
-- Allah i Njegovi anđeli ga blagosiljaju 33:56;
-- noćno putovanje iz Meke u Jeruzalem 17:1;
-- putovanje u nebesa 53:1-18;
-- poštovan u ovom i sljedećem životu 17:79; 66:8; 108:1;
-- poslušnost njemu je poslušnost Allahu 4:80;
-- nagrada za poslušnost Allahu i Njegovom Poslaniku 4:69;
-- njegova porodica je pročišćena 33:33-34;
-- vidi Gabrijela u njegovom pravom obliku 53:1-18;
-- vjernicima je naređeno da mu se pokoravaju 59:7;
+- Allah i Njegovi anđeli ga blagosiljaju 33:56
+- noćno putovanje iz Meke u Jeruzalem 17:1
+- putovanje u nebesa 53:1-18
+- poštovan u ovom i sljedećem životu 17:79; 66:8; 108:1
+- poslušnost njemu je poslušnost Allahu 4:80
+- nagrada za poslušnost Allahu i Njegovom Poslaniku 4:69
+- njegova porodica je pročišćena 33:33-34
+- vidi Gabrijela u njegovom pravom obliku 53:1-18
+- vjernicima je naređeno da mu se pokoravaju 59:7
 - bonton razgovora s njim 49:1-5
-- bonton prilikom posjete njemu 33:53;
-- bonton u ophođenju sa svojim ženama 33:53;
-- Allah je zadovoljan njime i njegovim ashabima 9:100; 9:117;
+- bonton prilikom posjete njemu 33:53
+- bonton u ophođenju sa svojim ženama 33:53
+- Allah je zadovoljan njime i njegovim ashabima 9:100; 9:117
 - izvrsnost njegove vjerske zajednice 2:143; 3:110
-Namaz (salah) 2:45; 9:103; 51:18; 70:22-23; 75:31; 96:10; 108:2;
-- Petkom u skupštini 62:9;
-- smjer molitve (kibla) 2:144; 2:149-150;
-- treba odvraćati od zlih djela 29:45;
-- puta 11:114; 17:78; 17:79; 20:130; 24:36; 24:58; 30:17-18; 32:16; 38:18; 50:39-40; 51:17; 52:48-49; 73:2-4; 76:25-26;
-- dok su u opasnosti ili na putovanju 2:239; 4:101-102;
-- upozorenje onima koji zanemaruju molitve 19:59; 74:38-47; 107:5-7;
+Namaz (salah) 2:45; 9:103; 51:18; 70:22-23; 75:31; 96:10; 108:2
+- Petkom u skupštini 62:9
+- smjer molitve (kibla) 2:144; 2:149-150
+- treba odvraćati od zlih djela 29:45
+- puta 11:114; 17:78; 17:79; 20:130; 24:36; 24:58; 30:17-18; 32:16; 38:18; 50:39-40; 51:17; 52:48-49; 73:2-4; 76:25-26
+- dok su u opasnosti ili na putovanju 2:239; 4:101-102
+- upozorenje onima koji zanemaruju molitve 19:59; 74:38-47; 107:5-7
 - molitve licemjera 4:142; 9:54
-Čišćenje, abdest (abdest) 5:6;
-- potpuno kupanje (gusul) 2:222; 4:43;
+Čišćenje, abdest (abdest) 5:6
+- potpuno kupanje (gusul) 2:222; 4:43
 - suho pranje (tejemmum) 4:43; 5:6
 Molitve (du'a)
-- iz Abrahama 2:126-129; 2:126-129; 14:35-41; 26:83-89;
-- Adam i Eva 7:23;
-- Isus 5:114;
-- Jov 21:83; 21:83;
-- Jona 21:87;
-- Josip 12:33; 12:101;
-- Mojsije 10:88-89; 20:25-35;
+- iz Abrahama 2:126-129; 2:126-129; 14:35-41; 26:83-89
+- Adam i Eva 7:23
+- Isus 5:114
+- Jov 21:83; 21:83
+- Jona 21:87
+- Josip 12:33; 12:101
+- Mojsije 10:88-89; 20:25-35
 - Muhammed 17:80; 20:114
-- Noa 23:26; 26:117-118; 54:9-10; 71:26; 71:28;
-- Solomon 38:35;
-- Šuaib 7:89;
-- Zaharija 3:38; 19:2-6; 21:89-90;
-- anđeli 40:8-9;
-- Marijina majka 3:35-36;
-- Faraonova žena 66:11;
-- Faraonovi čarobnjaci 7:126;
-- Kralj Saul i vjernici s njim 2:250;
-- vjernici djece Izraelove 10:85-86;
-- ljudi iz pećine 18:10;
-- pravednici 2:285-286; 3:8-9; 3:16; 3:147; 3:191-194; 25:74; 59:10;
+- Noa 23:26; 26:117-118; 54:9-10; 71:26; 71:28
+- Solomon 38:35
+- Šuaib 7:89
+- Zaharija 3:38; 19:2-6; 21:89-90
+- anđeli 40:8-9
+- Marijina majka 3:35-36
+- Faraonova žena 66:11
+- Faraonovi čarobnjaci 7:126
+- Kralj Saul i vjernici s njim 2:250
+- vjernici djece Izraelove 10:85-86
+- ljudi iz pećine 18:10
+- pravednici 2:285-286; 3:8-9; 3:16; 3:147; 3:191-194; 25:74; 59:10
 - potlačeni 4:75
 Ajeti za sedždu
 - sadžadat, množina od sedžde, 7:206; 13:15; 16:49; 17:109; 19:58; 22:18; 22:77; 25:60; 27:26; 32:15; 38:24; 41:37; 53:62; 84:21; 96:19
-Zekat, kao obaveza 2:110; 2:177; 2:277; 6:141;
-- jedna od osobina vjernika 22:41; 23:4; 51:19;
+Zekat, kao obaveza 2:110; 2:177; 2:277; 6:141
+- jedna od osobina vjernika 22:41; 23:4; 51:19
 - primaoci 9:60
 - dobročinstvo (sadaqah) 2:177; 2:261-263; 2:267-274; 3:92; 63:10
 - upozorenje onima koji uskraćuju 3:180; 9:34; 47:38
 Post (sawm)
-- u Ramazanu 2:183-185;
-- sati posta 2:187;
-- izuzeća 2:184-185;
-- intimni odnosi tokom noći koja prethodi postu 2:187;
+- u Ramazanu 2:183-185
+- sati posta 2:187
+- izuzeća 2:184-185
+- intimni odnosi tokom noći koja prethodi postu 2:187
 - post tokom hodočašća 2:196
-Hodočašće (hadž),
-- obaveza za one koji si to mogu priuštiti 3:97;
-- rituali i propisi 2:158; 2:189; 2:196-203; 5:2; 22:26-37;
-- žrtvene žrtve 2:196; 22:36-37;
-- zabrana lova na kopnu tokom hodočašća 5:1; 5:94-95;
+Hodočašće (hadž)
+- obaveza za one koji si to mogu priuštiti 3:97
+- rituali i propisi 2:158; 2:189; 2:196-203; 5:2; 22:26-37
+- žrtvene žrtve 2:196; 22:36-37
+- zabrana lova na kopnu tokom hodočašća 5:1; 5:94-95
 - dozvoljenost lova na moru 5:96
 - Malo hodočašće (umra) 2:158; 2:196
 Vjerske zajednice
-- Muslimani 2:132-136; 3:64; 3:84; 5:111; 22:77-78; 33:35; 41:33; 43:67-70; 72:14-15;
-- čuvari jedni drugih 3:28; 9:71;
-- Kršćani 2:62; 2:111-140; 4:171-172; 5:14-19; 5:82-86; 5:116-120; 9:30-31; 22:17;
-- Jevrejima 2:62, 111-140; 5:44-45; 6:146; 22:17; 62:6-8;
-- Djeca Izraelova 2:40-103, 122-123, 246-251; 3:49; 3:93-94; 5:12-13, 20-26, 32, 70-71, 78-81; 7:137-141, 148-153, 159-171; 10:83-93; 14:5-8; 17:2-8, 104; 20:80-98; 26:52-67, 197; 27:76; 44:23-33; 45:16-17; 46:10; 61:5-6;
+- Muslimani 2:132-136; 3:64; 3:84; 5:111; 22:77-78; 33:35; 41:33; 43:67-70; 72:14-15
+- čuvari jedni drugih 3:28; 9:71
+- Kršćani 2:62; 2:111-140; 4:171-172; 5:14-19; 5:82-86; 5:116-120; 9:30-31; 22:17
+- Jevrejima 2:62, 111-140; 5:44-45; 6:146; 22:17; 62:6-8
+- Djeca Izraelova 2:40-103, 122-123, 246-251; 3:49; 3:93-94; 5:12-13, 20-26, 32, 70-71, 78-81; 7:137-141, 148-153, 159-171; 10:83-93; 14:5-8; 17:2-8, 104; 20:80-98; 26:52-67, 197; 27:76; 44:23-33; 45:16-17; 46:10; 61:5-6
 - Ljudi Knjige (uglavnom Jevreji i kršćani) 2:109; 3:64-115, 199; 4:123-172; 5:15-77; 6:20-21; 13:36; 28:52-55; 29:46-47; 57:16, 28-29; 74:31; 98:1-5
 - Muslimani mogu jesti životinje koje su žrtvovali i oženiti se njihovim ženama 5:5
-- hrana zabranjena Jevrejima 6:146;
-- Sabijanima 2:62; 22:17;
-- Mudraci 22:17;
-- politeisti (pagani, idolopoklonici) 3:186; 6:148; 9:6, 17; 10:28; 16:86; 22:17; 53:19-30;
-- paganske praznovjerne prakse 2:189; 5:103; 6:138-144;
+- hrana zabranjena Jevrejima 6:146
+- Sabijanima 2:62; 22:17
+- Mudraci 22:17
+- politeisti (pagani, idolopoklonici) 3:186; 6:148; 9:6, 17; 10:28; 16:86; 22:17; 53:19-30
+- paganske praznovjerne prakse 2:189; 5:103; 6:138-144
 - ateisti 52:35-36
 Paganske prakse zabranjene
-- sahranjivanje živih kćeri 16:58-59; 81:8-9;
-- ubijanje djece iz straha od siromaštva 6:137; 6:151; 17:31;
-- zviždanje i pljeskanje oko Kabe 8:35;
-- posvećivanje kamila idolima 5:103; 6:136;
-- žrtvovanje u ime idola 6:121;
-- razvod braka zihar 33:4; 58:2-4;
-- ila' (više od četiri mjeseca) 2:226-227;
-- žrijebanje za odluke 5:3;
-- kruženje oko Kabe golo 7:26-28;
+- sahranjivanje živih kćeri 16:58-59; 81:8-9
+- ubijanje djece iz straha od siromaštva 6:137; 6:151; 17:31
+- zviždanje i pljeskanje oko Kabe 8:35
+- posvećivanje kamila idolima 5:103; 6:136
+- žrtvovanje u ime idola 6:121
+- razvod braka zihar 33:4; 58:2-4
+- ila' (više od četiri mjeseca) 2:226-227
+- žrijebanje za odluke 5:3
+- kruženje oko Kabe golo 7:26-28
 - ulazak u kuće kroz stražnja vrata nakon hodočašća 2:189
-Predmeti obožavanja,
-- anđeli (među nekim paganskim Arapima) 34:40;
-- El-Ajka (među stanovnicima Šu'aiba) 26:176;
-- Ba'l (među ljudima iz Elije 37:125;
-- Isus (u kršćanstvu) 5:17;
-- idoli (među Abrahamovim narodom) 21:52-53;
-- idoli Lata, Uzze i Manata (među arapskim paganima) 53:19-20;
-- idoli Wadda, Suwe, Yaghutha, Ya'uqa i Nasra (među narodom Nuha) 71:23;
-- sunce (ljudi iz Sabe) 27:24;
-- Sirius (kod nekih paganskih Arapa) 53:49;
-- Faraon (u drevnom Egiptu) 26:29; 28:38; 79:24;
-- želje 25:43-44; 45:23;
+Predmeti obožavanja
+- anđeli (među nekim paganskim Arapima) 34:40
+- El-Ajka (među stanovnicima Šu'aiba) 26:176
+- Ba'l (među ljudima iz Elije 37:125
+- Isus (u kršćanstvu) 5:17
+- idoli (među Abrahamovim narodom) 21:52-53
+- idoli Lata, Uzze i Manata (među arapskim paganima) 53:19-20
+- idoli Wadda, Suwe, Yaghutha, Ya'uqa i Nasra (među narodom Nuha) 71:23
+- sunce (ljudi iz Sabe) 27:24
+- Sirius (kod nekih paganskih Arapa) 53:49
+- Faraon (u drevnom Egiptu) 26:29; 28:38; 79:24
+- želje 25:43-44; 45:23
 - opovrgnuto vjerovanje u više bogova 17:42-43; 21:21-24; 25:3
-Mjesta bogosluženja, džamije 9:18;
-- crkve, sinagoge i manastiri 22:40;
-- svetište 3:39; 38:21;
+Mjesta bogosluženja, džamije 9:18
+- crkve, sinagoge i manastiri 22:40
+- svetište 3:39; 38:21
 - hram 17:7
 - Vjerske titule, svećenici, monasi i rabini 5:44; 5:63; 5:82; 9:31-34
-Anđeli,
+Anđeli
 - raspitajte se o stvaranju Adama 2:30-34
-- nikada ne budite neposlušni Allahu 21:26-27; 66:6;
-- nisu kćeri Allaha 21:26; 43:16-19;
-- anđeli čuvari 13:11;
-- dva anđela zapisničara 50:16-18; 82:10-12;
-- osam koji nose Allahov Prijestol na Sudnjem danu 69:17;
-- devetnaest čuvara Pakla 74:26-31;
-- Anđeli smrti 6:93; 16:28; 32:11;
-- Gabrijel 2:97; 66:4; 26:192-195; 53:1-14;
-- Mihael 2:98;
+- nikada ne budite neposlušni Allahu 21:26-27; 66:6
+- nisu kćeri Allaha 21:26; 43:16-19
+- anđeli čuvari 13:11
+- dva anđela zapisničara 50:16-18; 82:10-12
+- osam koji nose Allahov Prijestol na Sudnjem danu 69:17
+- devetnaest čuvara Pakla 74:26-31
+- Anđeli smrti 6:93; 16:28; 32:11
+- Gabrijel 2:97; 66:4; 26:192-195; 53:1-14
+- Mihael 2:98
 - Malik 43:77
 Glasnici
-- između anđela i ljudi 22:75;
+- između anđela i ljudi 22:75
 - Poslanici čvrste odluke (Abraham, Noa, Musa, Isus i Muhammed, s.a.v.s. ) 33:7; 42:13; 46:35
 Sveto pismo
-- Kuran, objava od Allaha 12:2-3; 20:2-4; 26:192-195; 32:2-3;
-- podsjetnik cijelom svijetu 68:51-52;
-- vodiči za najispravniji životni put 17:9;
-- objava je počela u mjesecu ramazanu 2:185;
-- u blagoslovljenoj noći 44:3;97:1-5;
-- otkriveno u fazama 17:105-106;
-- lako za pamćenje 54:17;
-- potvrđuje istinu u prethodnim otkrivenjima 3:3-4;
-- vrhovni autoritet za ranije spise 5:48;
-- nema sumnje u to 2:2; 10:37;
-- bez kontradikcija 4:82;
-- nije izmišljeno 10:37-39;
-- nije prepisano iz Biblije 25:4-6;
-- nije otkriveno od strane đavola 26:210-212;
+- Kuran, objava od Allaha 12:2-3; 20:2-4; 26:192-195; 32:2-3
+- podsjetnik cijelom svijetu 68:51-52
+- vodiči za najispravniji životni put 17:9
+- objava je počela u mjesecu ramazanu 2:185
+- u blagoslovljenoj noći 44:3;97:1-5
+- otkriveno u fazama 17:105-106
+- lako za pamćenje 54:17
+- potvrđuje istinu u prethodnim otkrivenjima 3:3-4
+- vrhovni autoritet za ranije spise 5:48
+- nema sumnje u to 2:2; 10:37
+- bez kontradikcija 4:82
+- nije izmišljeno 10:37-39
+- nije prepisano iz Biblije 25:4-6
+- nije otkriveno od strane đavola 26:210-212
 - niko ne može proizvesti nešto slično 17:88; 2:23-24; 10:13-14; 11:13
-- zaštićen od korupcije 15:9;
-- zaštićeno u Sačuvanoj ploči 56:75-80;
-- ne može se dokazati kao lažno 41:42;
-- predskazuje buduće događaje 30:1-7; 48:27;
-- dovodi vjernike do suza 5:83; 17:107-109;
-- dotiče srca 39:23;
-- blistava svjetlost 4:174; 42:52;
+- zaštićen od korupcije 15:9
+- zaštićeno u Sačuvanoj ploči 56:75-80
+- ne može se dokazati kao lažno 41:42
+- predskazuje buduće događaje 30:1-7; 48:27
+- dovodi vjernike do suza 5:83; 17:107-109
+- dotiče srca 39:23
+- blistava svjetlost 4:174; 42:52
 - iscjeljenje i milost za vjernike 17:82
 - Tora 3:3; 3:93; 5:46; 5:66-68, 110; 7:157; 9:111; 48:29; 61:6; 62:5
-- Evanđelje 3:3; 48; 5:46-47, 66-68, 77, 110; 7:157; 9:111; 48:29; 57:27
+- Evanđelje 3:3, 48; 5:46-47, 66-68, 77, 110; 7:157; 9:111; 48:29; 57:27
 - Psalmi 4:163; 17:55
 - Svici Abrahamovi 53:36-44; 87:14-19
-Sudbina i predodređenje 3:145; 9:51; 10:107; 11:6; 54:49; 67:30;
+Sudbina i predodređenje 3:145; 9:51; 10:107; 11:6; 54:49; 67:30
 - slobodan izbor 6:148-150; 11:118-119; 16:93; 33:72-73; 39:41; 76:1-3; 91:1-10
-Sudnji dan,
-- bez nepravde 2:281; 18:49; 40:17;
-- užasi apokalipse 22:1-2; 27:82-84, 87; 40:18; 52:11-16; 69:13-18; 70:8-18; 73:17-18; 75:7-15; 77:8-15; 78:17-20; 79:34-36; 80:33-42; 81:1-14; 82:1-5; 84:1-5; 87:17-40; 99:1-8; 101:1-11;
-- pravednici i zli na taj Dan 11:105-108; 16:27-33, 84-89; 18:52-53; 20:100-111; 25:24-29; 30:12-16; 33:63-68; 39:68-75; 50:20-35; 55:37-41; 83:4-36;
+Sudnji dan
+- bez nepravde 2:281; 18:49; 40:17
+- užasi apokalipse 22:1-2; 27:82-84, 87; 40:18; 52:11-16; 69:13-18; 70:8-18; 73:17-18; 75:7-15; 77:8-15; 78:17-20; 79:34-36; 80:33-42; 81:1-14; 82:1-5; 84:1-5; 87:17-40; 99:1-8; 101:1-11
+- pravednici i zli na taj Dan 11:105-108; 16:27-33, 84-89; 18:52-53; 20:100-111; 25:24-29; 30:12-16; 33:63-68; 39:68-75; 50:20-35; 55:37-41; 83:4-36
 - posredovanje (shafa'ah) 2:48, 255; 6:51, 70; 10:3; 21:28; 32:4; 36:23; 39:43-44; 43:86; 53:26;74:48
-Zapisi o aktima 17:13; 18:49;
-- vjernici primaju svoj zapis desnom rukom 69:19-24; 84:7-9;
-- nevjernici primaju svoj zapis lijevom rukom 69:25-37; 84:10-15;
-- ništa neće biti skriveno od Allaha 21:47; 40:16;
-- vaganje djela 7:8; 23:102-104; 101:1-11;
-- svjedočanstvo tjelesnih organa 41:19-24; 24:24;
+Zapisi o aktima 17:13; 18:49
+- vjernici primaju svoj zapis desnom rukom 69:19-24; 84:7-9
+- nevjernici primaju svoj zapis lijevom rukom 69:25-37; 84:10-15
+- ništa neće biti skriveno od Allaha 21:47; 40:16
+- vaganje djela 7:8; 23:102-104; 101:1-11
+- svjedočanstvo tjelesnih organa 41:19-24; 24:24
 - nagrada za dobra i loša djela 6:160; 27:89-90; 28:84
 Vrste ljudi
-- vjernici 18:107-108;
-- nevjernici 4:167-169;
-- licemjeri 4:145; 57:13-15;
-- stanovnici Raja, najistaknutiji vjernici 55:46-61; 56:10-26;
-- stanovnici Dženneta, ljudi pravde 55:62-78; 56:27-40;
-- stanovnici Džehennema, ljudi ljevice 55:31-45; 56:41-56;
+- vjernici 18:107-108
+- nevjernici 4:167-169
+- licemjeri 4:145; 57:13-15
+- stanovnici Raja, najistaknutiji vjernici 55:46-61; 56:10-26
+- stanovnici Dženneta, ljudi pravde 55:62-78; 56:27-40
+- stanovnici Džehennema, ljudi ljevice 55:31-45; 56:41-56
 - ljudi na visinama 7:46-49
 Financije
-- Poslovne smjernice 2:188; 2:275; 2:282-283; 4:29; 4:58; 6:152; 17:34-35;
-24:36-37; 26:182; 30:39; 55:7-9; 62:9
-- Zaveštanja, opcionalna zaveštanja osobama koje nisu naslednici 2:180-183; 4:11-12;
+- Poslovne smjernice 2:188; 2:275; 2:282-283; 4:29; 4:58; 6:152; 17:34-35; 24:36-37; 26:182; 30:39; 55:7-9; 62:9
+- Zaveštanja, opcionalna zaveštanja osobama koje nisu naslednici 2:180-183; 4:11-12
 prije smrti tokom putovanja 5:106-108
 - Podmićivanje 2:188
-- Dugovi, ljubaznost u naplati dugova 2:280;
-- pisanje i ovjeravanje ugovora o dugu 2:282;
+- Dugovi, ljubaznost u naplati dugova 2:280
+- pisanje i ovjeravanje ugovora o dugu 2:282
 - uzimanje kolaterala 2:283
-- Nasljeđivanje, smjernice 4:7; 4:32-33; 8:75;
-- udio potomstva i roditelja 4:11;
-- supružnici i braća i sestre po majci 4:12;
-- braća i sestre 4:176;
+- Nasljeđivanje, smjernice 4:7; 4:32-33; 8:75
+- udio potomstva i roditelja 4:11
+- supružnici i braća i sestre po majci 4:12
+- braća i sestre 4:176
 - upozorenje onima koji se ne pridržavaju 4:13-14
-- Kamata, zabrana i upozorenje 2:275-281; 3:130-132;
+- Kamata, zabrana i upozorenje 2:275-281; 3:130-132
 - učinjeno neprofitabilnim 30:39
 Pravno
 - Zakon o izdaji (hirabah) 5:33-34
-- Pravda, zalaganje za pravdu 4:135; 5:8; 16:90-91;
-- zalaganje za prava siročadi i žena 4:127;
-- pravda za Jevreja 4:105-112;
-- pravda za pagana 4:58;
+- Pravda, zalaganje za pravdu 4:135; 5:8; 16:90-91
+- zalaganje za prava siročadi i žena 4:127
+- pravda za Jevreja 4:105-112
+- pravda za pagana 4:58
 - pravednost prema nemuslimanima 60:8-9
 - Odmazda putem pravnih kanala (s mogućnošću oprosta) 2:178-179; 5:45; 16:126; 17:33; 42:37-43
-- Razdvajanje muža i žene, Khul' 2:229;
+- Razdvajanje muža i žene, Khul' 2:229
 - lian (optužba za preljubu) 24:6-10
 Politički
 - Vođenje poslova putem konsultacija (šura) 3:159; 42:38
-- Borba u samoodbrani (džihad), bonton 2:190-192; 2:216; 22:38-40;
-- ne napadati neselektivno 4:94;
-- borba za potlačene muškarce, žene i djecu 4:75;
-- zaštita bogomolja 22:37;
-- nagrada za šehide 2:154; 3:169-171; 9:111; 57:19;
-- vojna moć odvraća potencijalne neprijatelje 8:60;
+- Borba u samoodbrani (džihad), bonton 2:190-192; 2:216; 22:38-40
+- ne napadati neselektivno 4:94
+- borba za potlačene muškarce, žene i djecu 4:75
+- zaštita bogomolja 22:37
+- nagrada za šehide 2:154; 3:169-171; 9:111; 57:19
+- vojna moć odvraća potencijalne neprijatelje 8:60
 - opredjeljivanje za mir 2:192; 8:61
 - Mirovljenje među stranama 49:9-10
 - Ratni zarobljenici, tretman 8:70; 47:4; 76:8
 Društvene mreže
 - Posinjenje 33:4-5
 - Briga o siročadi 2:220; 4:2-10; 4:127; 6:152; 17:34
-- Razvod, arbitraža i pomirenje 4:35; 4:128;
-- bonton razvoda 2:229-231; 65:1-2;
-- miraz i period čekanja 2:226-241; 4:19-21; 33:49; 65:1-7;
-- muž ne smije uzeti ništa od miraza 4:20;
-- žena ne smije biti uznemiravana 65:6;
-- supruga treba biti finansijski izdržavana tokom trudnoće 65:6;
-- tokom njenog perioda čekanja 65:6;
-- ako doji dijete bivšeg muža, 65:6;
-- nijedan roditelj ne bi trebao patiti zbog svog djeteta 2:233;
+- Razvod, arbitraža i pomirenje 4:35; 4:128
+- bonton razvoda 2:229-231; 65:1-2
+- miraz i period čekanja 2:226-241; 4:19-21; 33:49; 65:1-7
+- muž ne smije uzeti ništa od miraza 4:20
+- žena ne smije biti uznemiravana 65:6
+- supruga treba biti finansijski izdržavana tokom trudnoće 65:6
+- tokom njenog perioda čekanja 65:6
+- ako doji dijete bivšeg muža, 65:6
+- nijedan roditelj ne bi trebao patiti zbog svog djeteta 2:233
 - odabir za dojilju 65:6
 - Podsticanje dobra i odvraćanje od zla 3:104; 3:110; 7:157; 9:71-72; 31:17
-- Pravednost ljudskih bića 49:13;
-- muškarci i žene pred Allahom i zakonom, 3:195; 4:124; 5:38; 16:97; 24:2; 40:40;
+- Pravednost ljudskih bića 49:13
+- muškarci i žene pred Allahom i zakonom, 3:195; 4:124; 5:38; 16:97; 24:2; 40:40
 - muškarci imaju određeni stepen odgovornosti u odnosu na žene 2:228
 - Hranjenje siromašnih, siročadi i zarobljenika 76:8-9
 - Oprost i kontrola ljutnje 3:134; 42:40
 - Oslobađanje robova i pomaganje istima 4:92; 5:89; 9:60; 24:33; 58:3; 90:13
 - Poštovanje vlastitih roditelja 4:36; 17:23-25; 31:14-15
 - Poniznost 17:37; 31:18-19
-- Tumačenje Abrahamovih snova 37:102;
-- Tumačenje snova Josipovih 12:4; 12:36; 12:43;
+- Tumačenje Abrahamovih snova 37:102
+- Tumačenje snova Josipovih 12:4; 12:36; 12:43
 - Tumačenje snova Muhameda 8:43; 48:27
 - Ljubaznost prema nemuslimanima 60:8
-- Brak 4:3; 4:129; 16:72; 30:21;
-- zakoniti i nezakoniti brak ženama 4:22-24;
-- bonton intimnosti 2:222-223;
-- trudnoća i dojenje 2:233; 31:4; 46:15; 65:6;
-- ponovni brak sa bivšom suprugom 2:230;
-- pomoć samcima pri braku 24:32;
+- Brak 4:3; 4:129; 16:72; 30:21
+- zakoniti i nezakoniti brak ženama 4:22-24
+- bonton intimnosti 2:222-223
+- trudnoća i dojenje 2:233; 31:4; 46:15; 65:6
+- ponovni brak sa bivšom suprugom 2:230
+- pomoć samcima pri braku 24:32
 - suptilno pokazivanje interesa tokom perioda čekanja 2:235
-- Zakletve 2:224-225; 16:91-92; 16:94;
+- Zakletve 2:224-225; 16:91-92; 16:94
 - nadoknađivanje prekršene zakletve 5:89
 - Strpljenje u teškim vremenima 2:45; 2:153-157; 3:186; 12:18; 12:83; 16:127-128; 70:5
-- Dozvola za ulazak 24:58-60;
-- ulazak u domove ljudi 24:27-28;
+- Dozvola za ulazak 24:58-60
+- ulazak u domove ljudi 24:27-28
 - ulazak na javna mjesta 24:29
-- Društveni bonton, provjera vijesti 4:83; 49:6;
-- poštovanje prema svima 49:11-12;
-- bonton okupljanja 58:11;
+- Društveni bonton, provjera vijesti 4:83; 49:6
+- poštovanje prema svima 49:11-12
+- bonton okupljanja 58:11
 - privatni razgovori 4:114; 58:9
 - Zavjeti 2:270; 9:75-77; 22:29; 76:7
 - Rasipništvo i škrtost 7:31; 17:29; 25:67
 Druge priče
-- Abel i Kain 5:27-31;
-- El-Hadir i Musa 18:60-82;
-- Vojska slona 105:1-4;
-- vjernik iz faraonovog naroda 40:28-46;
-- rođenje Marije 3:35-36;
-- Krava djece Izraelove 2:67-74;
-- Ezra 2:259;
+- Abel i Kain 5:27-31
+- El-Hadir i Musa 18:60-82
+- Vojska slona 105:1-4
+- vjernik iz faraonovog naroda 40:28-46
+- rođenje Marije 3:35-36
+- Krava djece Izraelove 2:67-74
+- Ezra 2:259
 - vlasnici vrtova 68:17-32
 - Harut i Marut 2:102
 - Korah 28:76-82
-- Lukmanov savjet njegovom sinu 31:12-19;
-- vlasnik dva vrta 18:32-44;
-- narod Sabe 34:15-19;
-- ljudi iz pećine 18:9-26;
-- ljudi iz rova 85:1-8;
-- Oni koji krše Šabat 7:163-165;
-- Samiri i zlatno tele 20:83-97;
-- Saul i Samuel 2:247-251;
+- Lukmanov savjet njegovom sinu 31:12-19
+- vlasnik dva vrta 18:32-44
+- narod Sabe 34:15-19
+- ljudi iz pećine 18:9-26
+- ljudi iz rova 85:1-8
+- Oni koji krše Šabat 7:163-165
+- Samiri i zlatno tele 20:83-97
+- Saul i Samuel 2:247-251
 - Zul-Karnain 18:83-98
-Đavoli 2:102; 6:71; 6:112; 6:121; 7:27; 7:30; 17:27; 19:68; 19:83; 22:3-4; 23:97-98; 26:210; 37:7-10; 38:37-38; 67:5;
-- đavolski ljudi i džini 6:112;114:6;
+Đavoli 2:102; 6:71; 6:112; 6:121; 7:27; 7:30; 17:27; 19:68; 19:83; 22:3-4; 23:97-98; 26:210; 37:7-10; 38:37-38; 67:5
+- đavolski ljudi i džini 6:112;114:6
 - nebo zaštićeno od đavola 15:16-18
 Žaljenja
-- ne slijeđenje Poslanika 25:27;
-- neposlušnost Allahu i Njegovom Poslaniku 4:41-42; 33:64-68;
-- uzimanje zlih prijatelja 25:28-29; 26:96-102; 43:36-39;
-- poricanje Allahovih znakova 6:27-30;
+- ne slijeđenje Poslanika 25:27
+- neposlušnost Allahu i Njegovom Poslaniku 4:41-42; 33:64-68
+- uzimanje zlih prijatelja 25:28-29; 26:96-102; 43:36-39
+- poricanje Allahovih znakova 6:27-30
 - ne radi za Ahiret 89:23-24
 Očajničke molbe
-- molba za povratak u svijet 2:167; 6:27-28; 32:12-14; 42:44;
-- za drugu šansu 35:36-37;
-- biti uklonjen iz Vatre 40:10-12;
-- za hranu i vodu 7:51-52;
-- za posrednike 7:52-53;
-- biti sravni s prahom 4:41-42; 78:40;
+- molba za povratak u svijet 2:167; 6:27-28; 32:12-14; 42:44
+- za drugu šansu 35:36-37
+- biti uklonjen iz Vatre 40:10-12
+- za hranu i vodu 7:51-52
+- za posrednike 7:52-53
+- biti sravni s prahom 4:41-42; 78:40
 - za smrt 43:74-78
 Kvalitete pravednika
 - poštovanje prava Stvoritelja i Njegovog stvorenja 3:133-136; 4:36; 4:69-70; 6:151-154; 8:2-4; 13:19-24; 17:23-39; 18:107-108; 23:1-11; 25:63-76; 42:36-43
 Osobine zlih
-- nezahvalan 14:34;
-- škrt 17:100;
-- brzopleto 21:37;
-- spominjite Allaha samo u teškim vremenima 10:12; 41:51;
-- nestrpljiv 70:19;
+- nezahvalan 14:34
+- škrt 17:100
+- brzopleto 21:37
+- spominjite Allaha samo u teškim vremenima 10:12; 41:51
+- nestrpljiv 70:19
 - argumentirano 18:54
 Veliki grijesi
 - pripisivanje drugima Allahu u obožavanju (širk) 4:48; 4:116; 5:72; 6:19; 31:13
-- zlostavljanje vlastitih roditelja 4:36; 6:151; 17:23;
-- zanemarivanje ili napuštanje obaveznih molitvi 19:59-60;
-- neplaćanje poreza na milostinju 41:6-7;
-- ubistvo 6:151; 17:33;
-- namjerno ubijanje vjernika 4:93;
-- krađa 5:38;
-- prevara 7:85; 11:85; 26:182-183; 83:1-6;
-- laganje 2:10; 9:77; 39:60;
-- laganje o Allahu 6:93; 29:68; 61:7;
+- zlostavljanje vlastitih roditelja 4:36; 6:151; 17:23
+- zanemarivanje ili napuštanje obaveznih molitvi 19:59-60
+- neplaćanje poreza na milostinju 41:6-7
+- ubistvo 6:151; 17:33
+- namjerno ubijanje vjernika 4:93
+- krađa 5:38
+- prevara 7:85; 11:85; 26:182-183; 83:1-6
+- laganje 2:10; 9:77; 39:60
+- laganje o Allahu 6:93; 29:68; 61:7
 - zabranjeni seksualni odnosi 2:222; 17:32; 24:2; 25:68; 29:28-30
-- lažne optužbe za preljubu 24:4-5;
-- otpadništvo 2:217; 5:54;
-- jedenje svinjetine i druge zabranjene hrane (lešina, krv, itd.) 5:3; 6:145;
-- alkohol i kockanje 5:90-91;
-- ogovaranje 49:11;
-- lažno svjedočenje 22:30;
+- lažne optužbe za preljubu 24:4-5
+- otpadništvo 2:217; 5:54
+- jedenje svinjetine i druge zabranjene hrane (lešina, krv, itd.) 5:3; 6:145
+- alkohol i kockanje 5:90-91
+- ogovaranje 49:11
+- lažno svjedočenje 22:30
 - magija 2:102; 10:77; 20:69
 """;

@@ -5,18 +5,18 @@ Gusukura (Wudu), 4:43; 5:6
 Aburahamu (Ibrahim) S.14; 2: 135-136, 148; 3:33, 84, 95; 4:54, 125, 163; 6: 161; 9:70, 114; 12: 6, 38; 16: 120; 19:58; 21:51, 60, 62, 69; 22:43, 78; 26:69; 29:31; 33: 7; 37:83, 104, 109; 38:45; 42:13; 43:26; 51:24; 53:37; 57:26; 60: 4; 87:19
 - nta Muyahudi cyangwa Umukristo, 3:67-68
 - yahagaze mu rusengero rwa mbere i Bakkah, 3:97; 26:123
-- kuzamura ishingiro rya Ka'bah 2:124-129;
-- ahamagarira abantu be gusenga Imana Imwe y'Ukuri 2:130-133; 26:69-89; 29:16; 29:24-27;
-- impaka ku mwami w'umwirasi 2:258,
-- abaza ibyerekeye izuka rya Yesu saa 2:260;
-- nta Muyahudi cyangwa Umukristo 3:65-68;
-- ahakana ugusenga kw'ijuru 6:74-87;
-- yakiriye inkuru y'ivuka rya Isaka 11:69-76; 51:24-30;
-- isengesho rye muri Ka'bah 14:35-41;
-- yasuwe n'abamarayika 15:51-56;
-- umuntu wo kwigana 16:123;
-- ahamagara se mu kuri 19:41-50;
-- arimbura ibigirwamana kandi arokorwa mu muriro 21:51-73; 37:83-113;
+- kuzamura ishingiro rya Ka'bah 2:124-129
+- ahamagarira abantu be gusenga Imana Imwe y'Ukuri 2:130-133; 26:69-89; 29:16; 29:24-27
+- impaka ku mwami w'umwirasi 2:258
+- abaza ibyerekeye izuka rya Yesu saa 2:260
+- nta Muyahudi cyangwa Umukristo 3:65-68
+- ahakana ugusenga kw'ijuru 6:74-87
+- yakiriye inkuru y'ivuka rya Isaka 11:69-76; 51:24-30
+- isengesho rye muri Ka'bah 14:35-41
+- yasuwe n'abamarayika 15:51-56
+- umuntu wo kwigana 16:123
+- ahamagara se mu kuri 19:41-50
+- arimbura ibigirwamana kandi arokorwa mu muriro 21:51-73; 37:83-113
 - ahamagarira bose kujya mu rugendo rutagatifu 22:26
 Abrar, 3: 193, 198; 76: 5; 82:13; 83: 18-22
 Gukuraho, 2:106, 16:101
@@ -26,11 +26,10 @@ Adamu, 3:33, 59; 5:27; 7:26-27, 31, 35, 172; 17:70; 19:58; 36:60
 - abamarayika bo kuramya, 2:34; 7:11
 - igiti cy'ubumenyi, 2:35; 7:19-20; 20:120-121
 - Kwirukanwa mu busitani (nta cyaha kuri Eva), 2:36; 7:24
-- yubashywe na Allah, ageragezwa na Satani 2:30-38; 7:11-25; 17:61-65; 18:50; 20:115-123; 38:71-85;
+- yubashywe na Allah, ageragezwa na Satani 2:30-38; 7:11-25; 17:61-65; 18:50; 20:115-123; 38:71-85
 - Imana yababariye 2:37; 20:122
 'Adiyat, S.100
-'Adn Paradise, 9:72; 13:23; 16:31; 18:31;
-19:61; 20:76; 35:33; 38:50; 40:8; 61:12; 98:8
+'Adn Paradise, 9:72; 13:23; 16:31; 18:31;19:61; 20:76; 35:33; 38:50; 40:8; 61:12; 98:8
 Ingorane
 - kudatwarwa n'umutwaro w'undi, 6:164; 17:15; 35:18; 39:7; 53:38
 - nta mutwaro urenze ubushobozi bwo kwihanganira, 2:286; 6:152; 7:42; 23:62
@@ -113,7 +112,7 @@ Ubuhakanyi, 3:72; 3:86-88; 3:90-91; 3:167; 4:137; 5:54; 9:74; 9:107; 16:106; 33:
 Abahakanyi, 47:25
 A'raf, S.7; 7:46, 48
 Arafat, 2:198
-Impaka,
+Impaka
 - ntabwo ari mu izina ry'abibeshya ubwabo, 4:107
 - mwabagiriye impaka muri iyi si, ariko ni nde uzabashyigikira ku munsi w'imperuka, 4:109
 Impaka/Ibitero
@@ -123,7 +122,7 @@ Intwaro, 16:81
 'Asr, S.103
 Ayat Al-Kursi, 2:255
 Umusebya, 49:12; 104:1
-Badr (intambara ya), 3:13,
+Badr (intambara ya), 3:13
 - amasomo yo kuva, 8:5-19, 42-48
 Al-Bait-ul-Ma mur, 52:4
 Bakkah (Makkah), 3:96
@@ -133,7 +132,7 @@ Kuringaniza, 7:8-9; 17:35; 21:47; 55:7-9; 57:25; 101:6-9
 Banu An-Nadir, 59:2-6, 13
 Baqarah, S.2
 Bara'a (Reba Taubah), Igice cya 9
-Barzakh, (Barrière), 23: 100; 25:53; 55:20;
+Barzakh, (Barrière), 23: 100; 25:53; 55:20
 - reba kandi 18:94-97; 34:54; 36:9
 Baiyinah, S.98
 Inyamaswa (yo mu minsi y'imperuka), 27:82
@@ -182,7 +181,7 @@ Bibiliya, 5:64, 5:65, 5:68
 - kugoreka, 3:78; 5:14-15
 Inyoni, 2:260; 3:49; 5:110; 6:38; 12:36, 41; 16:79; 21:79; 22:31; 24:41; 27:16-17, 20; 34:10; 38:19; 56:21; 67:19; 105:3
 Amaraso-amafaranga (Diya), 2: 178-179; 4:92; 17:33
-Imyenda, intambara, 4:94. 8:41; 59:6-8;
+Imyenda, intambara, 4:94. 8:41; 59:6-8
 - gufata mu buryo butemewe n'amategeko, 3:162
 - reba ibyangiritse
 Ruswa, 2:188
@@ -220,7 +219,7 @@ Imyambaro, 7:26; 16:81
 - Imyambaro y'abagore yo hanze irinda gutotezwa n'indyarya, 33:59-60
 Abanyamerika ba Confederate, 33:9, 22
 - reba Inama ya Ahzab, mutual, 42:38
-Irema,
+Irema
 - itangira kandi igasubirwamo, 10:4; 21:104; 27:64; 29:19-20
 - nshya, 17:49, 98; 35:16
 - mu kuri, 15:85; 16:3; 29:44; 39:5; 44:39; 45:22; 46:3
@@ -240,12 +239,12 @@ Igikona, 5:31
 Igipimo, 2:53, 185; 3:4; 8:29, 41; 21:48; 25:1
 Dahr, (reba Insan,) S.76; 45:24
 - isaha, 76:1; 103:1
-Dawidi, 5:78; 6:84; 17:55; 34:10, 13; 38:17-30;
+Dawidi, 5:78; 6:84; 17:55; 34:10, 13; 38:17-30
 - dukurikije Zaburi 4:163
 - arwana kandi yica Goliyati, 2:251
-- yaciye urubanza 21:78-80;
-- yahawe umugisha wo kugira ubumenyi n'ubuhanuzi 27:15-16;
-- imisozi n'inyoni bifatanya na we mu gusingiza Allah 34:10; 38:17-20;
+- yaciye urubanza 21:78-80
+- yahawe umugisha wo kugira ubumenyi n'ubuhanuzi 27:15-16
+- imisozi n'inyoni bifatanya na we mu gusingiza Allah 34:10; 38:17-20
 - abacamanza hagati y'abantu babiri 38:21-26
 Dawabb cyangwa Dabbah (ikiremwa kigenda, nibindi) 2:164; 6:38; 8:22, 55; 11:6, 56; 16:49, 61; 22:18; 24:45; 27:82; 29:60; 31:10; 34:14; 35:28, 45; 42:29; 45:4
 Abapfuye bazazuka, 6:36
@@ -255,17 +254,17 @@ Urupfu, 3:185; 3:193; 4:78; 6:61; 6:93; 21:35; 23:99-108; 31:34; 32:11; 33:19; 3
 - iyo miryango idafite ihishurirwa ntizarimburwa, 6:131; 9:115; 10:47; 11:117; 15:4; 16:119; 17:15; 28:59
 - abishwe mu nzira ya Allah ni bazima, 2:154; 3:169
 - mu gihe uhunga ikibi ugana Allah, 4:100
-- ntishobora guhagarara cyangwa gutinda 63:10-11;
-- umuvandimwe w'impanga w'ibitotsi 6:60; 39:42;
-- abizera n'abatizera igihe cy'urupfu 8:50; 16:27-32; 41:30;
+- ntishobora guhagarara cyangwa gutinda 63:10-11
+- umuvandimwe w'impanga w'ibitotsi 6:60; 39:42
+- abizera n'abatizera igihe cy'urupfu 8:50; 16:27-32; 41:30
 - igihano mu mva 40:46
 Imyenda, 2:280, 282; 4:11-12
-Itegeko,
+Itegeko
 - Kuri buri kibazo, hari, 13:38
 - Ntitwigeze dusenya umujyi ariko hari uzwi, kubera wo, 15:4
 - buri kintu cyose gituruka kuri Allah, 44:5
 - Iyo ategetse ikintu, avuga gusa ati "Baho!" - kandi biba, 2:117; 36:82; 40:68
-Ibikorwa,
+Ibikorwa
 - ikibi, cyababereye cyiza, 47:14
 - kuri twe ibyacu, kuri wowe ibikorwa byawe, 28:55; 42:15; 45:15
 - icyiza n'ikibi, ni ukumushyigikira no kumurwanya, 41:46
@@ -279,7 +278,7 @@ Dhariyat, S.51
 Dhikr, 7:205; 15:6, 9
 Dhul-Kifi, 21:85; 38:48
 Dhul-Qarain, 18:83-98
-Dhun-Umubikira (Mugenzi w'Amafi),
+Dhun-Umubikira (Mugenzi w'Amafi)
 Abatizera (reba kandi n'indyarya)
 - saba Muhammad ( ﷺ ) kubasabira uburakari bwa Allah nk'igihamya, 6:57-58; 8:32; 10:49-52
 - kwihanganirana kwabo mu bugwaneza, 31:15
@@ -304,7 +303,7 @@ Ingoyi, bantu bo mu bwoko bwa, 85:4-10
 Ubudasa
 - by'abantu, 30:22, 35:27-28
 - by'ubuzima, 35:27-28
-Gutandukana, 2:228-232, 236-237, 241; 4:35, 130; 65:1-7;
+Gutandukana, 2:228-232, 236-237, 241; 4:35, 130; 65:1-7
 - nyuma yo gutegereza, gusesa cyangwa gusubiza hamwe, 2:231; 65:2
 - Abahamya babiri, 65:2
 - indezo y'ubukene, 2:233, 241
@@ -340,7 +339,7 @@ Gutandukana, Umugore
 - keretse iyo ishyingiranwa ritararangira, 33:49
 Imbwa, 7:176
 Indogobe (Igituba), 2:259; 16:8; 31:19; 62:5; 74:50
-Ikinyobwa,
+Ikinyobwa
 - umusinzi, 2:219; 5:90
 - biryoshye cyane kandi byera, 37:45-46; 76:21
 - divayi ifunze neza, 83:25
@@ -363,13 +362,13 @@ Ikibi, 4:123; 10:27-30; 19:83; 59:15
 - byahindutse, ku bw'inyungu, 7:95
 - abo bakurikiza ibyifuzo byabo, 47:14, 16
 - ibikorwa byiza kuri bo, 47:14
-Ibirenze urugero,
+Ibirenze urugero
 - bibujijwe mu biribwa, 5:87
 - mu idini, 4:171; 5:77-81
 Amaso, amatwi n'uruhu bizahamya abanyabyaha, 41:20-23
 Ezira, (Uzayiri) 9:30
 Isura cyangwa Isura ya Allah, 2:115, 272; 6:52; 13:22; 18:28; 28:88; 30:38-39; 55:27; 76:9; 92:20
-Bisa nkaho ari byiza,
+Bisa nkaho ari byiza
 - Allah yahaye buri bwoko ibikorwa byabwo, 6:108
 Kwizera (Kwizera), 2:108; 3:167, 177, 193; 5:5; 9:23; 16:106; 30:56; 40:10; 42:52; 49:7, 11, 14; 52:21; 58:22; 59:9-10
 - abanze, 3:116
@@ -379,7 +378,7 @@ Kwizera (Kwizera), 2:108; 3:167, 177, 193; 5:5; 9:23; 16:106; 30:56; 40:10; 42:5
 Fajr, S.89
 Falaq, S.113
 Ikiganiro cy'ibinyoma ku mirongo ya Quran, 6:68
-Imana z'ibinyoma,
+Imana z'ibinyoma
 - uretse Allah, ibigirwamana n'abiyita abafatanyabikorwa 7:194-198; 16:20-21, 72, 86; 21:22, 24; 34:22, 27; 41:47-48; 46:5-6; 53:19-24; 71:23-24
 - ntugatuke abo basenga batari Allah, 6:108
 - reba kandi Taghut
@@ -394,7 +393,7 @@ Fidyah (incungu), yihuta, 2: 196
 - kubera kubohora imbohe, 8:67
 - incungu yatanzwe n'abatizera, 3:91; 5:36,37; 10:54; 13:18
 Igishushanyo, 95:1
-Imirwano,
+Imirwano
 - mu nzira ya Allah, kurwanya abatemera, 2:190-193, 244; 4:84, 95; 8:72, 74, 75; 9:12-16, 20, 24, 36, 123; 47:4; 61:11
 - yashyizweho, 2:216
 - mu mezi matagatifu, 2:217; 9:5
@@ -410,7 +409,7 @@ Fil, S.105
 Iparadizo ya Firdaus, 18: 107; 23:11
 Umuriro, 56:71, 100:2
 Gutembera, 22:73
-Ibiryo,
+Ibiryo
 - byemewe kandi bitemewe n'amategeko, (Halal na Haram), 2:168, 172, 173; 5:1, 3-5, 88; 6:118-119, 121, 145-146; 16:114-118; 23:51
 - nta cyaha ku byaryaga mu bihe byashize, 5:93
 - ntugapfobye, 5:87
@@ -432,7 +431,7 @@ Imbabazi, 2:109; 4:48, 110, 116; 5:74; 7:199; 39:53; 42:5, 40-43; 45:14; 53:32; 
 - gusiganwa umwe n'undi mu kwihutira kujya, 57:21
 - ibikorwa bibi byahindutse ibikorwa byiza 25:68-71
 Uburiganya, (reba Ubugambanyi) 83:1-6
-Ubwisanzure,
+Ubwisanzure
 - bigengwa n'ubushake bwa Allah, 6:107; 10:99; 74:56; 76:31; 81:28-29
 - ushaka wese, niyizere kandi ntazemere, 18:29
 - fata inzira igana kuri Nyagasani we, 76:29
@@ -466,14 +465,14 @@ Iminsi myiza (Iminsi), 3:140
 - Allah agororera ababikora, ibyiza byose, 53:31
 - hari indi ngororano ihari uretse ibyiza, 55:60
 - kora, nk'uko Allah yakugiriye neza, 28:77
-Icyiza n'ikibi,
+Icyiza n'ikibi
 - Ibyiza bituruka kuri Allah naho ikibi kiva kuri wowe ubwawe,4:79
 - niba mukora icyiza, ku bwanyu bwite, kandi niba mukora ikibi, mukigirire nabi, 17:7; 41:46
 - kwirukana ikibi n'ibyiza, 23:96; 28:54; 41:34
 - icyiza n'ikibi ntibishobora kungana,41:34
 - buri muntu azahura n'ibyo yakoze byose, saa tatu n'igice
 - reba kandi Muhsinun
-Igikorwa cyiza,
+Igikorwa cyiza
 - kubihishura cyangwa kubihisha, 4:149
 - haranira nk'uko uri mu isiganwa muri, 5:48
 Ubutumwa Bwiza, 3:3, 48, 65; 5:46-47, 66, 68, 110; 7:157; 9:111; 48:29; 57:27
@@ -490,7 +489,7 @@ Ingorane, hari ihumure kuri buri wese, 94:5-6
 Harun, (Aroni)
 Harut, 2:102
 Hashr, S.59
-Imitima,
+Imitima
 - gukomera, 2:74; 22:53; 39:22; 57:16
 - ifunze, 7:100-101; 40:35; 47:16; 63:3
 - bitwikiriwe, 17:46; 41:5
@@ -498,7 +497,7 @@ Imitima,
 - yagabanijwemo kabiri, 59:14
 - yuzuye ubwoba, 22:35
 - ufite indwara, 2:10; 5:52; 8:49; 9:125; 22:53; 24:50; 33:12, 32, 60; 47:20, 29; 74:31
-Ijuru,
+Ijuru
 - Ibitagaragara by'Imana ni ibya Allah, 16:77
 - ntabwo byaremewe gukina, 21:16
 - kandi isi yarafatanye, 21:30
@@ -528,7 +527,7 @@ Kuzimu (umuriro, umuriro ugurumana) 2:24, 119, 161, 166, 201; 3:10, 12, 116, 131
 - Kwiheba gukomeye n'umwijima ukonje cyane muri, 38:57
 - umunyururu w'imikono 70, 69:32
 - gumaho igihe gito, 78:23
-Nyuma y'ibihe bizaza,
+Nyuma y'ibihe bizaza
 - Inzu iri muri, 6:32; 7:169
 - bizaba ari iherezo muri, 6:135
 - Zalimun ntabwo azatsinda (muri), 6:135
@@ -545,7 +544,7 @@ Hijr (Urugendo rw'Amabuye), 15:80-85
 Hijr, S.15
 Ubutinganyi 26:165-166; 27:55; 29:28-29
 Amafarashi, 16:8
-Isaha,
+Isaha
 - Kubimenya biri kuri Allah gusa, 7:187; 31:34; 33:63; 41:47; 68:26; 79:42-46
 - mu buryo butunguranye bibageraho, 6:31; 7:187; 12:107; 43:66
 - iragusanga, 6:40; 12:107; 20:15; 34:3
@@ -554,9 +553,9 @@ Isaha,
 - umutingito w'isi, 22:1
 - izashyirwaho, kuri uwo munsi, 30:12, 14
 - bizaza rwose, nta gushidikanya, 40:59; 45:32; 51:5-6
-- ibimenyetso 21:96; 27:82; 43:61; 47:18; 54:1-2;
-- amazina 1:3; 2:4; 3:55; 19:39; 30:56; 37:21; 40:15; 41:47; 42:7; 50:20; 56:1; 64:9; 69:1; 79:34; 80:33; 88:1; 101:1-3;
-- bizatungura abantu 6:31; 7:187;
+- ibimenyetso 21:96; 27:82; 43:61; 47:18; 54:1-2
+- amazina 1:3; 2:4; 3:55; 19:39; 30:56; 37:21; 40:15; 41:47; 42:7; 50:20; 56:1; 64:9; 69:1; 79:34; 80:33; 88:1; 101:1-3
+- bizatungura abantu 6:31; 7:187
 - Impanda izavuzwa saa 6:73; 23:101; 39:68
 Amazu, imyitwarire yo kwinjira, 24:27-29
 Hud, 7:65-72; 11:50-60; 26:123-140; 46:21-26
@@ -565,7 +564,7 @@ Hujurat, S.49
 Humazah, S.104
 Hunain (intambara), 9:25
 Hur (abagore muri Paradizo), 44:54; 52:20
-Indyarya,
+Indyarya
 - vuga uti: twemera Allah n'umunsi w'imperuka, ariko mu by'ukuri ntitubyemera, 2:8
 - baribeshya, 2:9
 - indwara mu mitima yabo, 2:10; 8:49; 22:53; 33:12; 47:29
@@ -609,8 +608,8 @@ Ilah, Umwe gusa, 2:163; 6:19; 16:22, 51; 23:91; 37:4; 38:65
 Imibonano mpuzabitsina itemewe n'amategeko; ibimenyetso by'abatangabuhamya, 4:15-18; 24:2, 19
 Illiyyun, 83:18-21
 Icyanduye (Najas) 9:28
-'Imran,
-- umugore wa, 3:35;
+'Imran
+- umugore wa, 3:35
 - umukobwa wa, 66:12
 Ntabwo byanze bikunze, 69:1-3
 Infitar, S.82
@@ -629,7 +628,7 @@ Icyuma, 57:25
 Yesu, reba Yesu
 Isaka, (Isaka) 2: 133; 4: 163; 6:84; 19: 49; 21: 72; 29:27; 37: 112–113
 Ishimayeli (Ishimayeli), 2:125-129, 133; 4:163; 6:86; 19:54–55; 21:85; 38:48
-ashinga imizi ya Ka'bah hamwe na se 2:125-140;
+ashinga imizi ya Ka'bah hamwe na se 2:125-140
 Inkuru y'igitambo 37:100-113
 Isilamu, 3:19, 85; 5:3; 6:125; 39:22; 61:7
 - mbere na mbere mu bemera Imana nk'Abayisilamu, 6:14,163; 39:12
@@ -658,8 +657,8 @@ Yakobo, (Ya'qub) 2: 132-133; 4: 163; 6: 84; 12: 18; 19:49; 21:72; 29:27
 Jalut, (reba Goliyati)
 Jamarat, 2:200
 Jathiyah, S.45
-Yesu, Isa mwene Mariya,
-- umubyeyi watoranijwe kurusha abagore bose bo ku isi 3:42;
+Yesu, Isa mwene Mariya
+- umubyeyi watoranijwe kurusha abagore bose bo ku isi 3:42
 - atanga ubuhamya ku munsi w'izuka, 4:159
 - inkuru nziza y'ivuka, 3:45-47; 19:22-23
 - Intumwa ku bana ba Isirayeli, 3:49-51
@@ -682,9 +681,9 @@ Yesu, Isa mwene Mariya,
 - ibitekerezo bitandukanye kuri, 43:65
 - nta kindi uretse umugaragu n'urugero ku bana ba Isirayeli, 43:59
 - Inkuru nziza y'Intumwa izitwa Ahmed, 61:6
-- kubyara kwe nk'inkumi, ubutumwa bwe, n'ibitangaza 3:45-51; 19:16-38;
-- yibukijwe ineza za Allah 5:110-115;
-- ahakana ko atari Imana 5:116-120;
+- kubyara kwe nk'inkumi, ubutumwa bwe, n'ibitangaza 3:45-51; 19:16-38
+- yibukijwe ineza za Allah 5:110-115
+- ahakana ko atari Imana 5:116-120
 - impuhwe n'ubuntu mu mitima y'abayoboke be 5:82; 57:27
 Abayahudi n'Abakristo, 2:140; 4:153-161, 171; 5:18
 - kumva ibinyoma, 5:41-42
@@ -694,41 +693,41 @@ Abayahudi n'Abakristo, 2:140; 4:153-161, 171; 5:18
 Jibril, (reba Gaburiyeli)
 Jihad, (Kurwana, Guharanira) 2:216; 9:24; 22:78; 25:52
 Jinn, S.72
-Jinn, 6:100, 112; 15:27; 34:41; 38:37; 46:18, 29; 55:33, 39;
-Jinn, yaremwe mu muriro 15:25; 55:15;
-- kwemera no kutabyemera 72:1-15;
+Jinn, 6:100, 112; 15:27; 34:41; 38:37; 46:18, 29; 55:33, 39
+Jinn, yaremwe mu muriro 15:25; 55:15
+- kwemera no kutabyemera 72:1-15
 - bamwe bemeraga ubutumwa bwa Korowani 46:29-32
 - abantu n'amajini baremwe ku bw'umugambi 51:56-58
 Yobu, 4:163; 6:84; 21:83-84; 38:41-44
-Yohani, (Yahya, Yohani Umubatiza),
+Yohani, (Yahya, Yohani Umubatiza)
 - inkuru nziza ya, 3:38-41; 19:7-11; 21:90
 - umukiranutsi, 6:85
 - umunyabwenge, impuhwe, kwitondera, 19:12-15
-Yona (Yonasi cyangwa Yunus), 4:163; 6:86; 10:98; 21:87; 37:139-148;
+Yona (Yonasi cyangwa Yunus), 4:163; 6:86; 10:98; 21:87; 37:139-148
 - (Dhu n-Nun) 21:87; 68:48-50
 Yozefu (Yusuf), 6:84; 12:4-101
-- inkuru nziza kurusha izindi zose 12:1-3;
-- inzozi za Yusufu ukiri muto 12:4-6;
-- umugambi mubi wakozwe n'abavandimwe be 12:7-18;
-- yagurishijwe mu bucakara 12:19-20;
+- inkuru nziza kurusha izindi zose 12:1-3
+- inzozi za Yusufu ukiri muto 12:4-6
+- umugambi mubi wakozwe n'abavandimwe be 12:7-18
+- yagurishijwe mu bucakara 12:19-20
 - yarerewe mu nzu ya Minisitiri w'Intebe wa Misiri 12:21-22
-- Umugore wa Minisitiri w'Intebe agerageza kumushukashuka 12:23-29;
-- Ibirori byabaye saa 12:30-32;
-- ajya muri gereza 12:33-35;
-- imfungwa ebyiri 12:36-42;
-- Inzozi z'Umwami 12:43-53;
-- aba Minisitiri Mukuru 12:54-57;
-- abavandimwe baza aho ari bashaka ibyo bakeneye 12:58-68;
-- afata murumuna we Benyamini 12:69-82;
-- agahinda ka se gashya 12:83-87;
-- agaragaza umwirondoro we nyakuri 12:88-98;
-- inzozi za kera zirasohora 12:99-100;
+- Umugore wa Minisitiri w'Intebe agerageza kumushukashuka 12:23-29
+- Ibirori byabaye saa 12:30-32
+- ajya muri gereza 12:33-35
+- imfungwa ebyiri 12:36-42
+- Inzozi z'Umwami 12:43-53
+- aba Minisitiri Mukuru 12:54-57
+- abavandimwe baza aho ari bashaka ibyo bakeneye 12:58-68
+- afata murumuna we Benyamini 12:69-82
+- agahinda ka se gashya 12:83-87
+- agaragaza umwirondoro we nyakuri 12:88-98
+- inzozi za kera zirasohora 12:99-100
 - isengesho risoza 12:101
 Judi, Mount, 11:44
 Jumu'ah, S.62
 Ubutabera (Adl), 2:282; 4:58, 135; 7:29; 16:90; 57:25 (
 - reba kandi 4:65, 105
-Ka'bah,
+Ka'bah
 - yubatswe na Aburahamu, 2:125-127
 - nta kwica inyamaswa, 5:94-96
 - ubuhungiro bw'umutekano, 5:97
@@ -740,17 +739,17 @@ Kahf, S.18
 Kanz, 9:34-35
 Kauthar (uruzi muri paradizo), 108: 1
 Kauthar, S.108
-Imfunguzo,
+Imfunguzo
 iby'ijuru n'isi, 39:63; 42:12
 bya Ghaib, 6:59
 Khaulah bint Tha labah, 58:1
-Kwica,
+Kwica
 - iyo umuntu yishe umuntu, aba yishe abantu bose, 5:32
 - ntukice umuntu uwo ari we wese, 17:33
 Amagambo meza aruta ubuntu, 2:263
 Umuryango, uburenganzira bwa, 2:83, 177, 215; 4:7-9, 36; 8:41; 16:90; 17:26; 24:22; 29:8; 30:38; 42:23
 Kiraman-Ratibin, 82:11
-Ubumenyi,
+Ubumenyi
 - nta kibabi na kimwe kigwa, ariko arabizi, 6:59
 - ni ababuze abishe abana babo kubera ubupfapfa, nta, 6:140
 - mu bintu bitanu, hamwe n'Imana yonyine, 31:34
@@ -760,14 +759,14 @@ Kursi, 2:255
 Lahab (Reba Masad), S.111
 Lail, S.92
 Itara, 25:61; 67:5; 71:16; 78:13
-Indimi,
+Indimi
 - itandukaniro mu bantu n'amabara yabo, 30:22
 Ikilatini, 53:19
 Amategeko, yashyizweho, 5:48
 Amategeko aturuka kuri Allah, 2:219; 98:3
 Abanyabinyoma, 26:221-223
 Ubuzima, iyo umuntu yakizaga umuntu, yarokoye ubuzima bw'abantu bose, 5:32
-Ubuzima bw'iyi si,
+Ubuzima bw'iyi si
 - yaguze, ku giciro cy'ubuzima bw'imperuka, 2:86
 - ni ukwishimira uburiganya gusa, 3:185
 - kugurisha, ku bw'ubuzima bw'imperuka, 4:74
@@ -779,7 +778,7 @@ Ubuzima bw'iyi si,
 - Uwifuza wese, azabigeraho; ariko nta mugabane uzaba uhari mu bihe bizaza, 11:15-16; 17:18; 42:20
 - bakunda iby'ubu, bakirengagiza iby'imperuka, 75:20-21; 76:27
 - ukunda cyane, 87:16
-Umucyo,
+Umucyo
 - igaragara, 4:174
 - n'umwijima, 6:1
 - umugani wa, 24:35
@@ -794,7 +793,7 @@ Imipaka yashyizweho na Allah, 2:173, 187, 190, 230; 9:112; 58:4; 65:1; 78:22
 - igihe barengeje, (babaye inkende), 7:166
 - abitondera, 9:112
 Intare, 74:51
-Inguzanyo,
+Inguzanyo
 - guza Allah ibyiza, 2:245; 73:20
 - increased manifold, 57:11, 18
 - kabiri, 64:17
@@ -812,7 +811,7 @@ Mahr (amafaranga y'ubukwe), 2:229, 236-237; 4:4,19-21, 24-25; 5:5; 33:50; 60:10-
 Ma'idah, S.5
 Makkah (Bakkah), 3:96; 90:1-2
 - Umujyi w'Umutekano, 95:3
-Umugabo,
+Umugabo
 - ibisekuruza ku bindi bisekuruza ku isi, 2:30; 6:165
 - yagizwe umusimbura, 35:39
 - inshingano, 2:83-84, 88, 177; 4:1-36; 8:41; 16:90; 17:23-39; 24:22; 29:8-9; 30:38; 33:33; 42:23; 64:14; 70:22-35
@@ -877,7 +876,7 @@ Umugabo,
 - arenga imipaka yose, 96:6-7
 Manasik (imirimo) ya Hija, 2: 128, 200; 22:30
 Manat, 53:20
-Abantu,
+Abantu
 - abatangabuhamya barenze, 2:143
 - umuryango umwe, 2:213; 10:19
 - byakozwe mu itsinda rimwe, 4:1; 39:6; 49:13
@@ -887,7 +886,7 @@ Abantu,
 - icyubahiro kurusha abandi bose, 49:13
 - yahinduwe mu mahanga n'imiryango, 49:13
 Manu n'inkware, 2:57
-Imyitwarire myiza,
+Imyitwarire myiza
 - ibyerekeye kwinjira mu mazu, 24:27-29
 - mu rugo, 24:58-61
 - mu ngo z'Intumwa, 33:53
@@ -910,7 +909,7 @@ Ubukwe, 2:232, 234
 - abatabona amikoro yo gushaka, 24:33
 - abagore bemewe n'amategeko ku Muhanuzi, 33:50-52
 - mbere yo gukora imibonano mpuzabitsina, nta Iddah ku gutandukana, 33:49
-Abahowe Imana,
+Abahowe Imana
 - ntabwo yapfuye, 2:154; 3:169
 - Ishime mu buntu n'ibyiza biva kuri Allah, 3:170-171
 - habwa imbabazi n'imbabazi, 3:157-158
@@ -930,7 +929,7 @@ Masad, S.111
 Maun, S.107
 Iparadizo ya Ma'wa, 53:15
 Pima kandi upime, tanga byuzuye, 11:85; 17:35; 83:1-5
-Inama,
+Inama
 - hamwe n'Imana, 6:31
 - y'Umunsi Mukuru, 19:37
 - by'ubuzima bw'imperuka, 30:16
@@ -960,7 +959,7 @@ Miraj, 17:1; 53:12
 Amezi, umubare wa, 9:36-37
 Ukwezi, 7:54; 10:5; 16:12; 22:18; 25:61; 36:39-40; 71:16; 91:2
 - gutandukanya; 54:1
-Mose,
+Mose
 - n'abantu be, 2:51-61; 7:138-141,159-162; 14:5-8; 61:5
 - na Farawo, 2:49-50; 17:101-103; 20:17-53, 56-79; 23:45-49; 25:31-42; 40:23-46; 43:46-56; 51:38-40; 73:16; 79:15-26
 - kuyoborwa na Allah, 6:84
@@ -970,23 +969,23 @@ Mose,
 - dukurikije Ibyanditswe Byera, 17:2
 - Ibimenyetso icyenda bisobanutse, 7:133; 17:101
 - kugera aho inyanja ebyiri zihurira, 18:60-82
-- guhura n'ibyago bikomeye ku gihuru cyakaga 20:9-36; 27:7-14; 28:29-35;
+- guhura n'ibyago bikomeye ku gihuru cyakaga 20:9-36; 27:7-14; 28:29-35
 - guhamagarwa no guhabwa Ubutumwa, 19:51-53; 20:9-56
 - ubwana bwe, nyina na mushiki we, 20:38-40; 28:7-13
 - abapfumu bahindukiriye idini, 20:70-73; 26:46-52
 - muri Madyan, 20:40; 28:22-28
 - yahawe Igipimo, 21:48
 - n'umuriro w'amayobera, 27:7-12; 28:29-35
-- yica Umunyamisiri mu mujyi yibeshye 28:14-21;
+- yica Umunyamisiri mu mujyi yibeshye 28:14-21
 - yazanye Ayat isobanutse neza, 29:39
-- inkuru ya Farawo 7:103-137; 10:75-92; 11:96-99; 26:10-69;
-- ibimenyetso icyenda kuri Farawo n'abantu be 7:130-133; 20:17-22; 17:101;
-- atsinda abapfumu ba Farawo 20:70-73; 26:46-52;
-- guhungira i Midiyani no gushaka 28:22-28;
-- yakira Ibibabi 7:142-154,
-- asaba kubona Allah ku musozi 7:142-145;
-- yubashywe na Allah 33:69;
-- Ineza Imana yahaye Abisirayeli 2:47-61;
+- inkuru ya Farawo 7:103-137; 10:75-92; 11:96-99; 26:10-69
+- ibimenyetso icyenda kuri Farawo n'abantu be 7:130-133; 20:17-22; 17:101
+- atsinda abapfumu ba Farawo 20:70-73; 26:46-52
+- guhungira i Midiyani no gushaka 28:22-28
+- yakira Ibibabi 7:142-154
+- asaba kubona Allah ku musozi 7:142-145
+- yubashywe na Allah 33:69
+- Ineza Imana yahaye Abisirayeli 2:47-61
 - Abisirayeli banze kwinjira i Yerusalemu 5:20-29
 - kuyoborwa mu nzira igororotse, 37:114-122
 - Ibyanditswe Byera, 53:36; 87:19
@@ -1074,7 +1073,7 @@ Mumtahanah, S.60
 Munafigun, S.63
 Ubwicanyi, 2:178-179
 Mursalat, S.77
-Abayisilamu,
+Abayisilamu
 - iya mbere, 6:14, 163; 9:100; 39:12
 - Ni nde wavuze izina, 22:78
 - imbabazi n'ibihembo bikomeye kuri bo, 33:35-36
@@ -1086,7 +1085,7 @@ Nahl, S.16
 Najas (umwanda) 9:28
 Najm, S.53
 Najwa (Reba Ibanga)
-Amazina,
+Amazina
 Ni We Mwiza Cyane, 7:180
 Ni We Mwiza, 17:110; 20:8; 59:24
 Ni ngombwa, niba umuntu ahatiwe na, 2:173; 6:145
@@ -1099,10 +1098,10 @@ Ijoro, (nk'ikimenyetso), cyo kuruhuka, 10:67
 - kuba umukozi, 14:32
 - Ijoro rya Al-Qadr (Itegeko), 44:3-4; 97:1-5
 Nisa', S.4
-Nowa, 3:33; 4:163; 6:84; 9:70; 10:71; 11:25, 32, 36, 42, 45-46, 48, 89; 17:3; 21:76; 25:37; 26:105; 29:14; 37:75; 51:46; 54:9; 69:11;
-- yashinyaguriwe 11:38;
+Nowa, 3:33; 4:163; 6:84; 9:70; 10:71; 11:25, 32, 36, 42, 45-46, 48, 89; 17:3; 21:76; 25:37; 26:105; 29:14; 37:75; 51:46; 54:9; 69:11
+- yashinyaguriwe 11:38
 - Umwuzure (umwuzure ukomeye), 29:14
-- Ubwato n'umwuzure 7:59-69, 11:25-48; 23:23-31; 26:105-122; 71:1-28;
+- Ubwato n'umwuzure 7:59-69, 11:25-48; 23:23-31; 26:105-122; 71:1-28
 - umwana ukiranirwa ntiyakijijwe, 11:42-48
 - umugore utari uw'Imana, 14:9; 17:3, 17; 19:58; 21:76; 22:42; 26:105-106, 116; 33:7; 37:75,79; 38:12; 42:13; 40:5, 31; 42:13; 50:12; 53:52; 57:26; 66:10; 71:1, 21, 26
 Nuh, S.71
@@ -1136,7 +1135,7 @@ Imigani, (gusa, urugero, ibigereranyo)
 - imvura, 10:24
 - gusarura imyaka iciwe neza, 10:24
 - impumyi n'igipfamatwi, 11:24
-- Allah ahanganye n'imana z'ibinyoma 13:14; 16:76;
+- Allah ahanganye n'imana z'ibinyoma 13:14; 16:76
 - ukuri ugereranije n'ikinyoma 13:17
 - ivu umuyaga uhuhaho cyane, 14:18
 - igiti cyiza, 14:24-25
@@ -1164,7 +1163,7 @@ Imigani, (gusa, urugero, ibigereranyo)
 - indogobe, 62:5
 - amazi yagombaga kurohama, 67:30
 - abantu bo mu busitani, 68:17-33
-Paradizo,
+Paradizo
 - ya Abode, (Iparadizo ya Ma'wa), 53:15
 - Iparadizo ya Firdaus, 18: 107; 23:11
 - Ubusitani butemba munsi y'imigezi, 3:15, 198; 4:57; 5:119; 7:43; 9:72; 18:31; 22:23; 39:20; 57:12; 64:9; 98:8
@@ -1187,7 +1186,7 @@ Paradizo,
 - uruzi muri Paradizo, Kauthar, 108:1
 - imigezi ya divayi, amata, ubuki busukuye, 47:15
 - divayi ifunze neza, yera, iryoshye, 37:45-46; 56:18; 76:21; 83:25
-- igikombe, kivanze na, Zanjabil, 76:17; 78:34;
+- igikombe, kivanze na, Zanjabil, 76:17; 78:34
 - amazi, 76:5
 - amasahani ya zahabu n'ibikombe, 43:71
 - ibikoresho by'ifeza n'ibikombe by'ikirahure, 76:15-16
@@ -1234,21 +1233,21 @@ Paradizo,
 - abagore bari mu gicucu cyiza, bicaye ku ntebe z'ubwami, 36:55
 - abakobwa bato bafite amabere yuzuye bafite imyaka ingana, 78:33
 - abahungu-abagaragu badapfa kugira ngo babakorere, nk'amasaro yatatanye, 52:24; 56:17; 76:19
-- angana n'ijuru n'isi 3:133, 57:21;
-- amazi atemba, igicucu gikonje, ibiryoshye, n'ibiryoshye 2:25; 4:57; 36:55-58; 37:40-49; 38:50-54; 44:51-57; 52:17-24; 69:19-24; 76:5-22;
-- ingororano y'abizera 55:46-78; 56:10-40;
-- imigezi y'ubuki, amata, amazi, na divayi 47:15;
-- amasengesho n'indamutso 10:9-10; 39:73-74;
-- yaramukiwe n'indamukanyo y'amahoro 13:23-24; 14:32;
-- kuguma iteka ryose muri Bliss 11:108;
-- ntiyigeze asabwa kugenda 15:45-48;
-- urumuri rurabagirana imbere yabo no iburyo bwabo 57:12;
-- nta bushyuhe cyangwa ubukonje 76:13;
-- ibyifuzo byose byatanzwe kuva 16:30-32; 41:31-32;
-- imikufi ya zahabu n'imyenda ya hariri nziza 18:30-31; 22:23-24; 44:51-53;
-- amasahani y'ibikombe bya zahabu 43:67-73;
-- ibikombe by'ifeza n'imbuto bimanitse ku buryo bitagerwaho 76:14-16;
-- bicaye ku ntebe 15:47; 37:44; 52:20;
+- angana n'ijuru n'isi 3:133, 57:21
+- amazi atemba, igicucu gikonje, ibiryoshye, n'ibiryoshye 2:25; 4:57; 36:55-58; 37:40-49; 38:50-54; 44:51-57; 52:17-24; 69:19-24; 76:5-22
+- ingororano y'abizera 55:46-78; 56:10-40
+- imigezi y'ubuki, amata, amazi, na divayi 47:15
+- amasengesho n'indamutso 10:9-10; 39:73-74
+- yaramukiwe n'indamukanyo y'amahoro 13:23-24; 14:32
+- kuguma iteka ryose muri Bliss 11:108
+- ntiyigeze asabwa kugenda 15:45-48
+- urumuri rurabagirana imbere yabo no iburyo bwabo 57:12
+- nta bushyuhe cyangwa ubukonje 76:13
+- ibyifuzo byose byatanzwe kuva 16:30-32; 41:31-32
+- imikufi ya zahabu n'imyenda ya hariri nziza 18:30-31; 22:23-24; 44:51-53
+- amasahani y'ibikombe bya zahabu 43:67-73
+- ibikombe by'ifeza n'imbuto bimanitse ku buryo bitagerwaho 76:14-16
+- bicaye ku ntebe 15:47; 37:44; 52:20
 - abizera bazabona Umwami wabo 75:22-23
 Babyeyi, ineza kuri, 2:83, 215; 4:36; 16:90; 17:23; 29:8; 31:14; 46:15-17
 Abafatanyabikorwa ba Allah, ikinyoma, 4:116; 10:34-35, 66; 16:86; 28:62-64, 71-75; 30:40; 42:21
@@ -1257,7 +1256,7 @@ Inzira, 5:77; 16:94; 42:52-53; 43:43; 90:11-12
 - reba kandi Inzira
 Ukwihangana, 3:186, 200; 10:109; 11:115; 16:126-127; 20:130; 40:55, 77; 42:43; 46:35; 70:5; 73:10
 - shaka ubufasha mu isengesho, 2:45, 153; 20:132; 50:39
-Umurwayi,
+Umurwayi
 - azahabwa ingororano yuzuye, 39:10
 - Allah ari kumwe n'abariho, 8:46
 - kandi ube, 11:115
@@ -1266,7 +1265,7 @@ Umurwayi,
 Amahoro, komeza, 8:61
 Isaro na korali, byabitswe, 52:24; 55:22; 56:23
 Ikaramu, 68:1; 96:4
-Umuntu,
+Umuntu
 - Allah ntaremerera, birenze ubushobozi bwe, 2:286; 7:42
 - Allah ntukagire uwo usoresha, keretse akurikije ubushobozi bwe, 23:62
 - oya, azi icyo azungukira ejo n'icyo azapfiramo, 31:34
@@ -1287,7 +1286,7 @@ Farawo, 28:6; 40:24
 - kubaka umunara, 40:36-37
 - reba na Mose
 Kwirundanya ibintu byo mu isi, 102:1-4
-Indahiro (Bai'ah),
+Indahiro (Bai'ah)
 - ku idini ya Islam, 16:91
 - Intumwa ni Bai'ah (isezerano) kuri Allah, 48:10
 - mu bizera, 48:18; 60:12
@@ -1323,17 +1322,17 @@ Abahanuzi, 3:33-34, 146; 4:163; 5:20; 6:84-90; 23:23-50; 57:26
 - bitemewe n'amategeko kuri, 3:161
 - umwanzi kuri buri wese, 6:112; 25:31
 - reba kandi Intumwa
-Gupfukama,
+Gupfukama
 - Allah agwamo, uwo ari we wese uri mu ijuru no mu isi ndetse n'igicucu cyabyo, 13:15
 Gutanga, 10:59; 13:26; 14:32; 16:73; 34:36,39; 42:12; 51:57; 67:21; 79:33
 Zaburi, 4:163
-Igihano,
+Igihano
 - gusubika, 3:178
 - gutema intoki cyangwa ibirenge, 5:33
 - Bahane nk'ibyo wagiriwe nabi, 16:126
 - by'ubu buzima n'imperuka, 24:19; 68:33
-Gusukura,
-- umubiri, 4:43; 5:6;
+Gusukura
+- umubiri, 4:43; 5:6
 - mu buryo bw'umwuka (kuva mu bihumanya), 87:14; 91:9
 Qadari, 5:5; 64:11
 Qadr, S.97
@@ -1345,7 +1344,7 @@ Qarun (Korah), 28: 76-82; 29:39
 Qasas, S.28
 Qibla, 2:142-145, 149
 Qisas (Itegeko ry'uburinganire mu bihano), 2:178-179, 194; 5:45; 16:126; 17:33; 22:60; 42:40
-Korani,
+Korani
 - byasobanuwe, 13:31, 36, 37; 14:1; 56:77-80
 - ntabwo ari ikintu cyashoboraga gukorwa n'undi utari Allah, 2:23; 10:38; 11:13; 17:88
 - Iyo biba biturutse ku wundi utari Allah, hari impaka nyinshi muri byo, 4:82
@@ -1395,7 +1394,7 @@ Korani,
 - gusoma impapuro zisukuye, 98:2
 - reba kandi Igitabo; Ibyahishuwe
 Abakurayishi, S.106
-Abakurayishi,
+Abakurayishi
 - abatemera Imana, 54:43-46, 51
 - gutozwa, 106:1-4
 Abarabi n'abihaye Imana, 9:31, 34
@@ -1403,26 +1402,26 @@ Irushanwa, haranira nk'uko biri mu bikorwa byiza, 5:48
 Ra'd, S.13
 Rahman, S.55
 Imyambaro yo gukiranuka ni myiza kurushaho, 7:26
-Imvura,
+Imvura
 - Impano ya Allah, 56:68-70
 - by'amabuye, 27:58
 Ramadhani, 2:185
 Ramy, 2:200
-Incungu,
+Incungu
 - oya, azafatwa, 57:15
 - byatanzwe n'abatizera, 3:91; 10:54; 13:18
-Fidyah, yo kwiyiriza ubusa, 2:196;
+Fidyah, yo kwiyiriza ubusa, 2:196
 - kubera kubohora imbohe, 8:67
 Rass, abatuye muri, 25:38; 50:12
-Inyishyu,
+Inyishyu
 - Umunsi wa, 1:4; 37:20; 51:12; 56:56; 82:17-18; 96:7
 - abahakana, 107:1-7
 - ikibi ni ikibi nk'icyo, 42:40
-Ubwiyunge,
+Ubwiyunge
 - umuntu wese ubabarira kandi agatanga imbabazi, 42:40
 - hagati y'umugabo n'umugore, 4:35
 - hagati y'abizera, 49:9-10
-Inyandiko,
+Inyandiko
 - Igitabo cyanditseho, 83:7-9, 18-21
 - buri gihugu kizahamagarirwa ku cyacyo, 45:28-29
 - impapuro zanditse z'ibikorwa bya buri muntu, 81:10
@@ -1432,7 +1431,7 @@ Inyandiko,
 - inyuma y'inyuma, 84:10-15
 Abamarayika banditse, 50:17-18, 23; 85:11
 Ihumure, hamwe n'ingorane, 94:5-6
-Idini,
+Idini
 - nta gahato muri, 2:256
 - ni Islam, 3:19
 - by'Imana, 3:83-84
@@ -1449,7 +1448,7 @@ Idini,
 - abakurambere, 43:22-24
 Kwibuka Allah, 63:9
 - muri, imitima ibona ihumure, 13:28
-Kwihana,
+Kwihana
 - yemerwa niba ikibi cyakozwe mu bujiji hanyuma ukihana vuba nyuma yaho, 4:17; 6:54
 - kandi ntacyo bitwaye, niba ibikorwa bibi bikomeje, 4:18
 - Yemera, kandi akababarira ibyaha, 4:25
@@ -1457,7 +1456,7 @@ Guhemukira ikibi, 3:178; 10:11; 12:110; 14:42,44; 29:53-55; 86:15-17
 Izuka, 2:28, 7:53; 14:21; 16:38-40; 22:5-7; 23:15-16; 31:28, 41:39, 46:33-34; 50:3,20-29, 41-44; 64:7, 75:1-15; 79:10-12; 86:5-8
 - urugero mu nkuru ya Ezira 2:259
 - Aburahamu 2:260
-- abantu bo mu buvumo 18:9-26;
+- abantu bo mu buvumo 18:9-26
 - umuburo ku bahakana izuka 17:49-52, 17:97-100, 19:66-72, 37:11-27, 50:1-15, 80:17-42
 Umunsi w'izuka, 7:89; 20:100-101, 124
 - Umunsi w'ukuri, 78:39
@@ -1548,7 +1547,7 @@ Inyandiko yatanzwe inyuma, 84:10-15
 - Ikuzimu rizaregera, 89:23
 - Umuriro wa Jahanamu uzakurwaho, utwikwe uhinduke umuriro ukaze, 81:11-12
 - Kwihorera binyuze mu rukundo bizaba ari impongano, 5:45
-Ibyahishuwe,
+Ibyahishuwe
 - niba ufite gushidikanya, 2:23-24
 - Umurongo wakuweho cyangwa wibagiwe, 2:106
 - ubuyobozi bwiza, 3:73
@@ -1560,13 +1559,13 @@ Ibyahishuwe,
 - y'igitabo ikomoka kuri Allah, 46:2
 - reba kandi Igitabo na Korowani
 Kwihorera ku kibi gikabije bakorewe, 42:39-43
-Igihembo,
+Igihembo
 - hakurikijwe ibyiza by'ibikorwa, ndetse n'ibindi byinshi, 24:38; 29:7; 39:35
 - nk'igihembo 25:15
 - Allah agororera abakora ibyiza, ibyiza byose, 53:31
 - ku bw'ineza, nta kindi gihembo uretse ineza, 55:60
 Riba (Reba inyungu)
-Ukiranuka,
+Ukiranuka
 - itsinda ry'aba, 4:69
 - bazaragwa igihugu, 21:105
 - muri Paradizo, 51:15-19; 76:5-12
@@ -1585,7 +1584,7 @@ Ruh (ubugingo, umwuka), 15:29; 17:85; 58:22
 Rum, S.30
 Saba '(Sheba), 27: 22-44; 34: 15-21
 Saba', S.34
-Isabato,
+Isabato
 - abarenga ku mategeko, 2:65; 4:154; 7:163-166
 - byategetswe gusa, 16:124
 Abasabiya, 5:69; 22:17
@@ -1611,23 +1610,23 @@ Satani, 2:36, 168, 208, 268, 275; 3:36, 155, 175; 4:38, 60, 76, 83, 119-120; 5:8
 - nta bubasha afite ku bizera, 16:99-100
 - atera ibinyoma, 22:52-53
 - ni umwanzi, 12:5; 35:6; 36:60
-- ubwibone 2:34; 7:11-27; 15:26-43; 17:61-65; 38:73-85;
-- jini 18:50-51;
-- Kugeragezwa kwa Adamu no kugwa kwe 7:20-23; 20:116-121;
-- nta bubasha afite ku bizera 16:98-100;
-- intego ye 35:6-8;
-- umwanzi w’ikirangirire ku bantu 12:5; 17:53;
-- itsinda rye 53:14-19;
-- ibikorwa bye by'amaboko 5:90-91;
-- bibuza ibikorwa byiza 2:268;
-- abizera basaba ubuhungiro kuri Allah kugira ngo bamurinde 7:200-202;
-- imigambi ye ni mike cyane 4:76;
-- yatesheje agaciro abayoboke be 8:48;
+- ubwibone 2:34; 7:11-27; 15:26-43; 17:61-65; 38:73-85
+- jini 18:50-51
+- Kugeragezwa kwa Adamu no kugwa kwe 7:20-23; 20:116-121
+- nta bubasha afite ku bizera 16:98-100
+- intego ye 35:6-8
+- umwanzi w’ikirangirire ku bantu 12:5; 17:53
+- itsinda rye 53:14-19
+- ibikorwa bye by'amaboko 5:90-91
+- bibuza ibikorwa byiza 2:268
+- abizera basaba ubuhungiro kuri Allah kugira ngo bamurinde 7:200-202
+- imigambi ye ni mike cyane 4:76
+- yatesheje agaciro abayoboke be 8:48
 - vugana n'abayoboke be mu muriro 14:22
 - reba kandi Ibilisi
 Igipimo, intsinzi, uwo umutima we uremereye, 7:8-9
 - reba kandi kuringaniza
-Ibyanditswe Byera,
+Ibyanditswe Byera
 - abantu b'abayahudi (Abayahudi n'Abakristo), 2:109; 3:64-65, 69-72, 75, 98-99, 110, 113,199; 4:47, 153-161; 5:59-60, 68; 98:1
 - icyo bari bahishe, 5:61-63
 - muri bo bari mu nzira nziza, 5:66
@@ -1635,7 +1634,7 @@ Ibyanditswe Byera,
 Inyanja, 42:32-33; 45:12
 - babiri, 18:60; 25:53; 35:12; 55:19-20
 - igihe, bizaturika, 82:3
-Ibanga (Najwa),
+Ibanga (Najwa)
 - ibiganiro, 4:114
 - inama y'abantu batatu, 58:7
 - inama, 58:8, 10
@@ -1644,10 +1643,10 @@ Amacakubiri n'amacakubiri mu idini, 6:15; 23:53; 30:32; 42:13-14; 43:65; 45:17
 Umutekano, nyuma y'amakuba, yamanuye, 3:154
 Imbuto, Ni nde uyitera gukura, 56:63-67
 Ibyumviro, 23:78
-Birindwi, byaremwe,
+Birindwi, byaremwe
 - ijuru, 2:29; 23:17; 65:12; 67:3; 71:15
 - n'iby'isi nk'ibyo, 65:12
-Igicucu,
+Igicucu
 - Imana igwa mu cyunamo, 13:15; 16:48
 gukwirakwira kwa, 25:45
 Shams, S.91
@@ -1679,12 +1678,12 @@ Abacakara, 2:177-178; 4:25, 36, 92; 5:89; 24:33; 58:3; 90:13
 Gusinzira, ikintu cyo kuruhuka, 78:9
 Sodoma, 29:31; 37:136
 Sodomu, 7:80-82; 11:77-83; 15:61-77; 29:28-29
-Salomo, 2:102; 4:163; 6:84;
-- afasha se Dawidi kugera ku mwanzuro ukwiye 21:78-82;
+Salomo, 2:102; 4:163; 6:84
+- afasha se Dawidi kugera ku mwanzuro ukwiye 21:78-82
 - n'ibimonyo, 27:15-19
 - n'umuheha, 27:20-26
 - n'Umwamikazi wa Saba', 27:22-44; 34:15
-- Ineza za Allah kuri we 34:12-14, 38:34-40;
+- Ineza za Allah kuri we 34:12-14, 38:34-40
 - urukundo rwe ku mafarashi meza 38:30-33
 Umwana w'umuhungu, warezwe, 33:4-5
 Ubugingo (umwuka, Ruh), 15:29; 17:85; 58:22
@@ -1704,8 +1703,8 @@ Iminyago y'intambara, 8:41, 69; 48:15, 19-20; 48:15
 Ubutasi, 49:12
 Inyenyeri, 53:1, 49; 86:1-4
 Inyenyeri, 7:54; 15:16; 16:12, 16; 22:18; 25:61; 37:6-10; 56:75; 77:8; 81:2; 82:2
-Inzira Igororotse, 1:6,
-- n'ibindi. Inzira, 6:153,
+Inzira Igororotse, 1:6
+- n'ibindi. Inzira, 6:153
 - n'ibindi. Guharanira, 4:95; 8:72, 74, 75; 9:20, 24, 81; 22:78; 25:52; 29:69:69; 47:3; 60:1; 61:11
 Konsa, ijambo rya, umubyeyi urera, 2:233
 Imibabaro, ubukene, gutakaza ubuzima n'ibyago; iterambere n'ubutunzi, 7:94-96
@@ -1775,7 +1774,7 @@ Inyungu (Riba), 2: 275-276, 278-280; 3: 130; 4: 161; 30:39
 Igitambaro, ikintu kitagaragara, 17:45-46
 Gupfuka igitambaro, 24:31; 33:59
 Imirongo, Sab 'Al-Mathani, 15:87
-Intsinzi,
+Intsinzi
 - byatanzwe na Allah, 48:1
 - binyuze mu bufasha buturuka kuri Allah, 61:13
 Ingeso nziza, (reba Gukiranuka; Abemera)
@@ -1792,7 +1791,7 @@ Inzira, 1:6; 42:52-53; 90:10
 - n'ibindi. byoroshye, byoroshye, 87:8
 - reba kandi Inzira
 Umugenzi w'inzira, 2:177, 215; 8:41; 17:26; 29:29; 30:38; 59:7
-Ubukire,
+Ubukire
 - ni nde wateranyije, 104:2-4
 - Gukoresha amafaranga mu nzira ya Allah (reba Gukoresha amafaranga)
 Ubukire n'abana, ubwiza bw'ubuzima bw'iyi si, 18:46
@@ -1810,7 +1809,7 @@ Divayi (muri Paradizo)
 - imigezi ya, 47:15
 - ifunze neza, 83:25
 Ntukifuze ibintu Allah yahaye bamwe kubarusha, 4:32
-Abahamya,
+Abahamya
 - ku isezerano ry'abahanuzi, 3:81
 - hejuru y'abantu, 2:143; 22:78
 - ku masezerano, 2:282
@@ -1820,7 +1819,7 @@ Abahamya,
 - amaboko n'amaguru bizatanga ubuhamya, 36:65
 - umuntu yirwanya, 75:14
 Umunsi w'ubuhamya n'umunsi w'ubuhamya, 85:3
-Abagore,
+Abagore
 - ni agace gato kuri wewe, 2:223
 - gupfuka kuri wewe, 2:187
 - mu bwoko bwawe bwite, 16:72
@@ -1832,7 +1831,7 @@ Abagore, 2:222-223; 4:15, 19-22, 34, 127
 - kutisobanura mu mpaka, 43:17-18
 Wood, abatuye muri, 15:78; 38:13; 50:14
 - reba na Aikah; Madyan 26: 176-191
-Isi, ubuzima bw'iki,
+Isi, ubuzima bw'iki
 - nta kindi ari ugukina no kwishimisha gusa, 6:32; 29:64; 47:36; 57:20
 - ashuka abantu, 6:130
 - ibyishimo bike by'ubuzima bw'imperuka, 9:38; 13:26; 28:60-61
@@ -1844,7 +1843,7 @@ Abakora ibibi, 11:18-22, 101-104, 116-117; 39:47
 - reba kandi Abatemera
 Wudhu' (Gusukura), 4:43; 5:6
 Yaghuth, 71:23
-Yahya (Yohana),
+Yahya (Yohana)
 - inkuru nziza ya, 3:39; 21:90
 - umukiranutsi, 6:85
 - umunyabwenge; impuhwe; inyangamugayo, 19:12-15
@@ -1865,52 +1864,52 @@ Zihari, 33:4; 58:2-4
 Zukhruf, S.43
 Zumar, S.39
 Amahame y'ibanze
-- Ukwizera gutunganye 5:3;
-- Inzira yonyine yemewe na Allah 3:19, 85;
-- nta gahato ko kwemera Islam 2:256;
-- idini rimwe rifite imyizerere itandukanye n'amategeko atandukanye 5:48; 22:67-70; 42:13-14;
-- abahanuzi b'idini ya Islam 2:135-136;3:84;4:163-165;
-- amategeko (ufite ukwizera muri Allah kandi ukore ibyiza) 4:36; 6:151-154; 17:23-39; 18:107-108;
-- Intego eshanu za Sharia: kurinda ukwizera 5:54;
-- kurinda ubuzima 5:32; 6:151;
-- kurinda ubutunzi 5:38;
-- kurinda icyubahiro 5:5;24:4;
+- Ukwizera gutunganye 5:3
+- Inzira yonyine yemewe na Allah 3:19, 85
+- nta gahato ko kwemera Islam 2:256
+- idini rimwe rifite imyizerere itandukanye n'amategeko atandukanye 5:48; 22:67-70; 42:13-14
+- abahanuzi b'idini ya Islam 2:135-136;3:84;4:163-165
+- amategeko (ufite ukwizera muri Allah kandi ukore ibyiza) 4:36; 6:151-154; 17:23-39; 18:107-108
+- Intego eshanu za Sharia: kurinda ukwizera 5:54
+- kurinda ubuzima 5:32; 6:151
+- kurinda ubutunzi 5:38
+- kurinda icyubahiro 5:5;24:4
 - kurinda ubushobozi bw'umuntu bwo gutekereza 5:90.
 Kwemera Allah 2:255
-- Imico y'Imana, Amazina meza 57:1-6; 59:22-24; 85:13-16; 112:1-4;
-- Imana yonyine ikwiye gusengwa 1:1-4; 2:285; 6:3; 43:84;
-- ubutware bwose ni ubwe 3:26; Intebe ye y'ubwami ('Arsh) 7:54; 11:7;
-- Kursi ye (intebe y'ibirenge cyangwa intebe) 2:255;
-- ineza zitabarika ku bantu 14:32-34; 2:164; 16:2-93; 31:20; 55:1-25;
-- itanga ubuzima kandi igatera urupfu 44:8; 53:44; 57:2; 67:2;
-- bizana ibyishimo n'agahinda 53:43;
-- atanga ibikenewe byinshi cyangwa bike 13:26; 17:30; 29:62;
-- Abacamanza beza kurusha abandi bose 95:8;
-- Nyir'impuhwe nyinshi kurusha abandi bose 12:92;
-- akunda umukiranutsi 85:14;
-- yuzuye imbabazi kandi ihanira bikomeye 13:6, 40:3;
-- Icya mbere n'icya nyuma 57:3;
-- icyubahiro n'ububasha byose ni ibyayo 35:10;
-- azi ibitazwi kandi abona ibitagaragara 6:59,73; 9:94, 105; 13:8-10; 31:34; 32:6; 34:48; 35:38; 39:46; 49:18; 59:22; 62:8; 64:18; 72:26; 74:31; 87:7;
-- azi neza ibyihishe mu mutima 5:7; 11:5; 31:23;
-- azi ibyabaye n'ibitaraza saa 2:255;
-- yanditse byose mu Byanditswe (cyangwa ku Cyapa Cyabitswe) 6:38; 13:39; 36:12;
-- gushobora gukora ikintu icyo ari cyo cyose 2:117; 3:189; 8:41; 9:116; 11:4; 16:40; 40:68; 41:39; 42:49; 57:2;
-- Imbaraga ze zitagira imipaka 3:26-27; 24:45; 31:28-30;
-- yaremye ijuru n'isi mu minsi itandatu kandi ntiyigeze ananirwa 46:33; 50:38;
-- irema ikoresheje ijambo 'Ba!' 36:81-83;
-- Ntiyigeze arenganya ibiremwa bye 3:108; 4:40; 17:71; 21:47; 22:10; 26:209; 40:31; 41:46; 45:22; 50:29; 64:11; 78:6-16;
-- byose byumvira ubushake bwe 3:83; 22:18; 30:26;
-- bose bamukeneye 11:6; 35:15; 55:29;
-- Mwiringire 10:84-85; 12:67; 25:58;
-- uburyo bwo kuvugana n'Imana 42:51;
-- bikwiye kwitabwaho 2:21; 3:102; 4:1; 33:70-71; 59:18;
-- ubwenge ni impano ituruka kuri We 2:269;
-- Nta muntu n'umwe akeneye 3:97; 6:133; 112:2;
-- nta n'umwe mu Butatu 4:171;
-- nta mugenzi we afite 6:101;
-- nta bana afite 10:68; 19:35; 43:81; 72:3; 112:3;
-- nta bafatanya cyangwa imana zifatanya na we 6:94; 7:191-195; 46:4-5;
+- Imico y'Imana, Amazina meza 57:1-6; 59:22-24; 85:13-16; 112:1-4
+- Imana yonyine ikwiye gusengwa 1:1-4; 2:285; 6:3; 43:84
+- ubutware bwose ni ubwe 3:26; Intebe ye y'ubwami ('Arsh) 7:54; 11:7
+- Kursi ye (intebe y'ibirenge cyangwa intebe) 2:255
+- ineza zitabarika ku bantu 14:32-34; 2:164; 16:2-93; 31:20; 55:1-25
+- itanga ubuzima kandi igatera urupfu 44:8; 53:44; 57:2; 67:2
+- bizana ibyishimo n'agahinda 53:43
+- atanga ibikenewe byinshi cyangwa bike 13:26; 17:30; 29:62
+- Abacamanza beza kurusha abandi bose 95:8
+- Nyir'impuhwe nyinshi kurusha abandi bose 12:92
+- akunda umukiranutsi 85:14
+- yuzuye imbabazi kandi ihanira bikomeye 13:6, 40:3
+- Icya mbere n'icya nyuma 57:3
+- icyubahiro n'ububasha byose ni ibyayo 35:10
+- azi ibitazwi kandi abona ibitagaragara 6:59,73; 9:94, 105; 13:8-10; 31:34; 32:6; 34:48; 35:38; 39:46; 49:18; 59:22; 62:8; 64:18; 72:26; 74:31; 87:7
+- azi neza ibyihishe mu mutima 5:7; 11:5; 31:23
+- azi ibyabaye n'ibitaraza saa 2:255
+- yanditse byose mu Byanditswe (cyangwa ku Cyapa Cyabitswe) 6:38; 13:39; 36:12
+- gushobora gukora ikintu icyo ari cyo cyose 2:117; 3:189; 8:41; 9:116; 11:4; 16:40; 40:68; 41:39; 42:49; 57:2
+- Imbaraga ze zitagira imipaka 3:26-27; 24:45; 31:28-30
+- yaremye ijuru n'isi mu minsi itandatu kandi ntiyigeze ananirwa 46:33; 50:38
+- irema ikoresheje ijambo 'Ba!' 36:81-83
+- Ntiyigeze arenganya ibiremwa bye 3:108; 4:40; 17:71; 21:47; 22:10; 26:209; 40:31; 41:46; 45:22; 50:29; 64:11; 78:6-16
+- byose byumvira ubushake bwe 3:83; 22:18; 30:26
+- bose bamukeneye 11:6; 35:15; 55:29
+- Mwiringire 10:84-85; 12:67; 25:58
+- uburyo bwo kuvugana n'Imana 42:51
+- bikwiye kwitabwaho 2:21; 3:102; 4:1; 33:70-71; 59:18
+- ubwenge ni impano ituruka kuri We 2:269
+- Nta muntu n'umwe akeneye 3:97; 6:133; 112:2
+- nta n'umwe mu Butatu 4:171
+- nta mugenzi we afite 6:101
+- nta bana afite 10:68; 19:35; 43:81; 72:3; 112:3
+- nta bafatanya cyangwa imana zifatanya na we 6:94; 7:191-195; 46:4-5
 - nta kintu na kimwe gisa na We 42:11; 112:4
 Teganya gutekereza ku bitangaza by'ibyo yaremye 3:190; 6:99; 10:5-6; 13:3-4; 16:10-16; 88:17-20
 Ibimenyetso mu irema 2:164; 6:95-99; 7:57-58; 10:5-6; 13:2-4; 16:10-13, 65-69, 79; 23:27-30; 27:60-65; 30:19-25; 50:6-11
@@ -1931,21 +1930,21 @@ Ibimenyetso mu irema 2:164; 6:95-99; 7:57-58; 10:5-6; 13:2-4; 16:10-13, 65-69, 7
 - imvura y'amahindu, urubura n'imvura 2:265; 6:99; 24:43; 50:9-11
 - inkuba n'imirabyo 13:12-13
 Ibyerekeye siyansi
-- abantu baremwe mu matsinda y'abagabo n'abagore 76:2;
-- ishingwa n'ibyiciro by'iterambere ry'uruhinja 22:5; 23:12-14;
-- umwana uri mu byiciro bitatu by'umwijima 39:6;
-- amazi y'umunyu 25:53-54; 35:12; 55:19-20;
-- gukwirakwiza umuyaga 15:22;
-- ibikumwe 75:3-4;
-- imisozi nk'imigozi 78:7;
-- icyuma cyoherejwe hasi 57:25;
-- ibyuma bivura ububabare 4:56;
-- izuba nk'isoko ry'urumuri n'ukwezi nk'urumuri rugaragara 10:5;
-- ukwezi gucikamo ibice 54:1;
-- ikirere nk'igisenge kirinzwe neza 21:32;
-- ibiremwa byose byaremwe mu mazi 21:30; 24:45;
-- inseko zivugana 27:17-19;
-- imiraba y'imbere 24:40;
+- abantu baremwe mu matsinda y'abagabo n'abagore 76:2
+- ishingwa n'ibyiciro by'iterambere ry'uruhinja 22:5; 23:12-14
+- umwana uri mu byiciro bitatu by'umwijima 39:6
+- amazi y'umunyu 25:53-54; 35:12; 55:19-20
+- gukwirakwiza umuyaga 15:22
+- ibikumwe 75:3-4
+- imisozi nk'imigozi 78:7
+- icyuma cyoherejwe hasi 57:25
+- ibyuma bivura ububabare 4:56
+- izuba nk'isoko ry'urumuri n'ukwezi nk'urumuri rugaragara 10:5
+- ukwezi gucikamo ibice 54:1
+- ikirere nk'igisenge kirinzwe neza 21:32
+- ibiremwa byose byaremwe mu mazi 21:30; 24:45
+- inseko zivugana 27:17-19
+- imiraba y'imbere 24:40
 Ibinyabuzima
 - abamarayika 39:75
 - abantu (umutegetsi ku isi) 2:30; 6:165; 16:4
@@ -1978,366 +1977,365 @@ Ibinyabuzima
 - igitagangurirwa 29:41
 - abandi tutazi 16:8
 Ibimera n'imbuto 6:99; 13:4; 16:11; 36:33-35
-- ibitoki 56:29,
-- amatariki 19:25,
-- ibyatsi, inkoko, tungurusumu, lentil, n'ibitunguru 2:61,
-- imizabibu 80:28,
-- elayo 6:99,
-- ishusho ya 95:1,
-- amakomamanga 55:68,
+- ibitoki 56:29
+- amatariki 19:25
+- ibyatsi, inkoko, tungurusumu, lentil, n'ibitunguru 2:61
+- imizabibu 80:28
+- elayo 6:99
+- ishusho ya 95:1
+- amakomamanga 55:68
 - squash 37:146
 Ukwemera Muhammad
-- Imico, umuhanuzi gusa 3:144; 6:50; 7:188; 18:110;
-- gutanga ukuri 2:119; 35:24; 42:48;
-- ikimenyetso cy'abahanuzi 33:40;
-- umuntu w'umunyacyubahiro 3:159; 68:4;
-- umuntu w'icyitegererezo 33:21;
-- nk'ubuntu ku bemera 3:164;
-- imbabazi ku isi yose 21:107;
-- intumwa rusange 4:170; 7:157-158; 34:28;
-- biyobora ku Nzira Igororotse 42:52-53;
-- yita ku bantu 9:129;
-- nk'umutangabuhamya ku munsi w'urubanza 4:42; 16:89;
-- umuhanuzi utazi gusoma no kwandika 7:157-158; 29:48; 62:2;
-- byahanuwe muri Torah no mu Ivanjiri 7:157;
+- Imico, umuhanuzi gusa 3:144; 6:50; 7:188; 18:110
+- gutanga ukuri 2:119; 35:24; 42:48
+- ikimenyetso cy'abahanuzi 33:40
+- umuntu w'umunyacyubahiro 3:159; 68:4
+- umuntu w'icyitegererezo 33:21
+- nk'ubuntu ku bemera 3:164
+- imbabazi ku isi yose 21:107
+- intumwa rusange 4:170; 7:157-158; 34:28
+- biyobora ku Nzira Igororotse 42:52-53
+- yita ku bantu 9:129
+- nk'umutangabuhamya ku munsi w'urubanza 4:42; 16:89
+- umuhanuzi utazi gusoma no kwandika 7:157-158; 29:48; 62:2
+- byahanuwe muri Torah no mu Ivanjiri 7:157
 - Yesu yahanuye 61:6
 Ibibazo Intumwa ( ﷺ ) yahuye na byo
-- ibyo abapagani basaba bidafite icyo bivuga 8:32; 15:7; 17:89-93; 25:7-8;
-- ibirego by'ibinyoma 10:2; 11:13; 21:5; 24:11-26; 25:4-6; 37:36; 38:4; 52:29-30;
-- kugerageza kumuhitana 8:30; 9:74;
-- umuburo ku bamugirira nabi cyangwa bamurwanya 4:115; 8:13; 9:61; 15:95; 33:57; 47:32; 96:9-19;
-- bategetswe gusubiza bihanganye iyo banze kwemera 20:130; 30:60; 46:35; 70:5;
+- ibyo abapagani basaba bidafite icyo bivuga 8:32; 15:7; 17:89-93; 25:7-8
+- ibirego by'ibinyoma 10:2; 11:13; 21:5; 24:11-26; 25:4-6; 37:36; 38:4; 52:29-30
+- kugerageza kumuhitana 8:30; 9:74
+- umuburo ku bamugirira nabi cyangwa bamurwanya 4:115; 8:13; 9:61; 15:95; 33:57; 47:32; 96:9-19
+- bategetswe gusubiza bihanganye iyo banze kwemera 20:130; 30:60; 46:35; 70:5
 - Imana yategetse ko Imana imuha icyizere 5:67; 93:1-11; 94:1-8
 Amasomo yo mu buzima bw'Intumwa ( ﷺ )
-- kuva mu kwimuka kwe (hijrah) ajya mu ntambara ya Badr 3:121-129; 8:42-44; 8:65-71;
-- Intambara ya Uhud 3:151-180;
-- Intambara yo mu muyoboro 33:9-27;
-- Intambara ya Hunain 9:25-27;
-- Medina 9:40; Tabuk 9: 38-123;
-- Banu An-Naḍîr 59: 2-6;
-- Hamra' Al-Asad 3:172-175;
+- kuva mu kwimuka kwe (hijrah) ajya mu ntambara ya Badr 3:121-129; 8:42-44; 8:65-71
+- Intambara ya Uhud 3:151-180
+- Intambara yo mu muyoboro 33:9-27
+- Intambara ya Hunain 9:25-27
+- Medina 9:40; Tabuk 9: 38-123
+- Banu An-Naḍîr 59: 2-6
+- Hamra' Al-Asad 3:172-175
 - Amahoro ya Hudaibiyah 48: 1-7; 48: 10-29
 Ibyubahiro byahawe Intumwa ( ﷺ )
-- Allah n'abamarayika be bamuha umugisha 33:56;
-- urugendo rw'ijoro kuva i Maka kugera i Yerusalemu 17:1;
-- urugendo rugana mu ijuru 53:1-18;
-- icyubahiro muri ubu buzima no mu gihe kizaza 17:79; 66:8; 108:1;
-- kumugandukira ni ukumvira Allah 4:80;
-- ibihembo byo kumvira Allah n'Intumwa ye 4:69;
-- umuryango we warasukuwe 33:33-34;
-- abona Gaburiyeli mu ishusho ye nyayo 53:1-18;
-- abizera bategetswe kumwumvira 59:7;
+- Allah n'abamarayika be bamuha umugisha 33:56
+- urugendo rw'ijoro kuva i Maka kugera i Yerusalemu 17:1
+- urugendo rugana mu ijuru 53:1-18
+- icyubahiro muri ubu buzima no mu gihe kizaza 17:79; 66:8; 108:1
+- kumugandukira ni ukumvira Allah 4:80
+- ibihembo byo kumvira Allah n'Intumwa ye 4:69
+- umuryango we warasukuwe 33:33-34
+- abona Gaburiyeli mu ishusho ye nyayo 53:1-18
+- abizera bategetswe kumwumvira 59:7
 - umuco wo kuvugana na we 49:1-5
-- imyitwarire yo kumusura 33:53;
-- imyitwarire myiza yo gufata abagore be 33:53;
-- Allah yishimiye we n'abasangirangendo be 9:100; 9:117;
+- imyitwarire yo kumusura 33:53
+- imyitwarire myiza yo gufata abagore be 33:53
+- Allah yishimiye we n'abasangirangendo be 9:100; 9:117
 - ubwiza bw'umuryango we w'abizera 2:143; 3:110
-Amasengesho (salah) 2:45; 9: 103; 51:18; 70: 22-23; 75:31; 96:10; 108: 2;
-- Itorero ryo kuwa gatanu 62:9;
-- icyerekezo cy'isengesho (qiblah) 2:144; 2:149-150;
-- bigomba kubuza umuntu gukora ibibi 29:45;
-- inshuro 11:114; 17:78; 17:79; 20:130; 24:36; 24:58; 30:17-18; 32:16; 38:18; 50:39-40; 51:17; 52:48-49; 73:2-4; 76:25-26;
-- mu gihe uri mu kaga cyangwa uri mu rugendo 2:239; 4:101-102;
-- umuburo ku birengagiza amasengesho 19:59; 74:38-47; 107:5-7;
+Amasengesho (salah) 2:45; 9: 103; 51:18; 70: 22-23; 75:31; 96:10; 108: 2
+- Itorero ryo kuwa gatanu 62:9
+- icyerekezo cy'isengesho (qiblah) 2:144; 2:149-150
+- bigomba kubuza umuntu gukora ibibi 29:45
+- inshuro 11:114; 17:78; 17:79; 20:130; 24:36; 24:58; 30:17-18; 32:16; 38:18; 50:39-40; 51:17; 52:48-49; 73:2-4; 76:25-26
+- mu gihe uri mu kaga cyangwa uri mu rugendo 2:239; 4:101-102
+- umuburo ku birengagiza amasengesho 19:59; 74:38-47; 107:5-7
 - amasengesho y'indyarya 4:142; 9:54
-Gusukura, kwiyuhagira (wudu) 5:6;
-- Kwiyuhagira byuzuye (ghusl) 2:222; 4:43;
+Gusukura, kwiyuhagira (wudu) 5:6
+- Kwiyuhagira byuzuye (ghusl) 2:222; 4:43
 - Kwiyuhagira byumye (tayammum) 4:43; 5:6
 Gusaba (du'a)
-- ibya Aburahamu 2:126-129; 2:126-129; 14:35-41; 26:83-89;
-- Adamu na Eva 7:23;
-- Yesu 5:114;
-- Yobu 21:83; 21:83;
-- Yona 21:87;
-- Yozefu 12:33; 12:101;
-- Mose 10:88-89; 20:25-35;
+- ibya Aburahamu 2:126-129; 2:126-129; 14:35-41; 26:83-89
+- Adamu na Eva 7:23
+- Yesu 5:114
+- Yobu 21:83; 21:83
+- Yona 21:87
+- Yozefu 12:33; 12:101
+- Mose 10:88-89; 20:25-35
 - Muhamadi 17:80; 20:114
-- Nowa 23:26; 26:117-118; 54:9-10; 71:26; 71:28;
-- Salomo 38:35;
-- Shuaib 7:89;
-- Zekariya 3:38; 19:2-6; 21:89-90;
-- abamarayika 40:8-9;
-- Nyina wa Mariya 3:35-36;
-- Umugore wa Farawo 66:11;
-- Abapfumu ba Farawo 7:126;
-- Umwami Sawuli n'abizera bari kumwe na we 2:250;
-- abizera b'abana ba Isirayeli 10:85-86;
-- abantu bo mu buvumo 18:10;
-- umukiranutsi 2:285-286; 3:8-9; 3:16; 3:147; 3:191-194; 25:74; 59:10;
+- Nowa 23:26; 26:117-118; 54:9-10; 71:26; 71:28
+- Salomo 38:35
+- Shuaib 7:89
+- Zekariya 3:38; 19:2-6; 21:89-90
+- abamarayika 40:8-9
+- Nyina wa Mariya 3:35-36
+- Umugore wa Farawo 66:11
+- Abapfumu ba Farawo 7:126
+- Umwami Sawuli n'abizera bari kumwe na we 2:250
+- abizera b'abana ba Isirayeli 10:85-86
+- abantu bo mu buvumo 18:10
+- umukiranutsi 2:285-286; 3:8-9; 3:16; 3:147; 3:191-194; 25:74; 59:10
 - abarenganywa 4:75
 Imivugo yo kuramya
 - sajadat, ubwinshi bwa sajdah, 7: 206; 13:15; 16:49; 17: 109; 19:58; 22:18; 22:77; 25:60; 27:26; 32:15; 38:24; 41:37; 53:62; 84:21; 96:19
-Umusoro w'intungamubiri (zakah), nk'itegeko 2:110; 2:177; 2:277; 6:141;
-- imwe mu mico y'abizera 22:41; 23:4; 51:19;
+Umusoro w'intungamubiri (zakah), nk'itegeko 2:110; 2:177; 2:277; 6:141
+- imwe mu mico y'abizera 22:41; 23:4; 51:19
 - abahabwa 9:60
 - gufasha (sadaqah) 2: 177; 2: 261-263; 2: 267-274; 3:92; 63:10
 - umuburo ku bantu batitaye ku mirongo itatu n'umunani (3:180); 9:34; 47:38)
 Kwiyiriza ubusa (sawm)
-- muri Ramadhani 2:183-185;
-- amasaha yo kwiyiriza ubusa 2:187;
-- gusonerwa 2:184-185;
-- imibonano mpuzabitsina mu ijoro ribanziriza igisibo 2:187;
+- muri Ramadhani 2:183-185
+- amasaha yo kwiyiriza ubusa 2:187
+- gusonerwa 2:184-185
+- imibonano mpuzabitsina mu ijoro ribanziriza igisibo 2:187
 - kwiyiriza ubusa mu gihe cy'urugendo rutagatifu 2:196
-Urugendo rw'idini (hijja),
-- inshingano ku babishoboye 3:97;
-- imihango n'amategeko 2:158; 2:189; 2:196-203; 5:2; 22:26-37;
-- ibitambo 2:196; 22:36-37;
-- Kubuza guhiga ku butaka mu gihe uri mu rugendo rutagatifu 5:1; 5:94-95;
+Urugendo rw'idini (hijja)
+- inshingano ku babishoboye 3:97
+- imihango n'amategeko 2:158; 2:189; 2:196-203; 5:2; 22:26-37
+- ibitambo 2:196; 22:36-37
+- Kubuza guhiga ku butaka mu gihe uri mu rugendo rutagatifu 5:1; 5:94-95
 - uburenganzira bwo guhiga mu nyanja 5:96
 - Hija nto ('umrah) 2:158; 2:196
 Imiryango y'amadini
-- Abayisilamu 2:132-136; 3:64; 3:84; 5:111; 22:77-78; 33:35; 41:33; 43:67-70; 72:14-15;
-- barinzi ba mugenzi wabo 3:28; 9:71;
-- Abakristo 2:62; 2:111-140; 4:171-172; 5:14-19; 5:82-86; 5:116-120; 9:30-31; 22:17;
-- Abayahudi 2:62, 111-140; 5:44-45; 6:146; 22:17; 62:6-8;
-- Abana ba Isirayeli 2:40-103, 122-123, 246-251; 3:49; 3:93-94; 5:12-13, 20-26, 32, 70-71, 78-81; 7:137-141, 148-153,159-171; 10:83-93; 14:5-8; 17:2-8, 104; 20:80-98; 26:52-67, 197; 27:76; 44:23-33; 45:16-17; 46:10; 61:5-6;
+- Abayisilamu 2:132-136; 3:64; 3:84; 5:111; 22:77-78; 33:35; 41:33; 43:67-70; 72:14-15
+- barinzi ba mugenzi wabo 3:28; 9:71
+- Abakristo 2:62; 2:111-140; 4:171-172; 5:14-19; 5:82-86; 5:116-120; 9:30-31; 22:17
+- Abayahudi 2:62, 111-140; 5:44-45; 6:146; 22:17; 62:6-8
+- Abana ba Isirayeli 2:40-103, 122-123, 246-251; 3:49; 3:93-94; 5:12-13, 20-26, 32, 70-71, 78-81; 7:137-141, 148-153,159-171; 10:83-93; 14:5-8; 17:2-8, 104; 20:80-98; 26:52-67, 197; 27:76; 44:23-33; 45:16-17; 46:10; 61:5-6
 - Abantu b'igitabo (cyane cyane Abayahudi n'Abakristo) 2:109; 3:64-115, 199; 4:123-172; 5:15-77; 6:20-21; 13:36; 28:52-55; 29:46-47; 57:16, 28-29; 74:31; 98:1-5
 - Abayisilamu bashobora kurya ku nyamaswa batanzeho igitambo no gushaka abagore babo 5:5
-- ibiryo bibujijwe ku Bayahudi 6:146;
-- Abasabiya 2:62; 22:17;
-- Abamaji 22:17;
-- abasenga ibigirwamana (abapagani, abasenga ibigirwamana) 3:186; 6:148; 9:6, 17; 10:28; 16:86; 22:17; 53:19-30;
-- imigenzo y'ibihimbano bya gipagani 2:189; 5:103; 6:138-144;
+- ibiryo bibujijwe ku Bayahudi 6:146
+- Abasabiya 2:62; 22:17
+- Abamaji 22:17
+- abasenga ibigirwamana (abapagani, abasenga ibigirwamana) 3:186; 6:148; 9:6, 17; 10:28; 16:86; 22:17; 53:19-30
+- imigenzo y'ibihimbano bya gipagani 2:189; 5:103; 6:138-144
 - abahakana Imana 52:35-36
 Imigenzereze ya gipagani irabujijwe
-- gushyingura abakobwa ari bazima 16:58-59; 81:8-9;
-- kwica abana kubera gutinya ubukene 6:137; 6:151; 17:31;
-- gucuranga no gukoma amashyi hirya no hino muri Ka'bah 8:35;
-- kwegurira ingamiya ibigirwamana 5:103; 6:136;
-- gutamba ibitambo mu izina ry'ibigirwamana 6:121;
-- gutandukana kwa zihar 33:4; 58:2-4;
-- ila' (igihe kirenga amezi ane) 2:226-227;
-- gufatira ibyemezo ku buryo bwo gufata amafindo 5:3;
-- kuzenguruka Ka'bah yambaye ubusa 7:26-28;
+- gushyingura abakobwa ari bazima 16:58-59; 81:8-9
+- kwica abana kubera gutinya ubukene 6:137; 6:151; 17:31
+- gucuranga no gukoma amashyi hirya no hino muri Ka'bah 8:35
+- kwegurira ingamiya ibigirwamana 5:103; 6:136
+- gutamba ibitambo mu izina ry'ibigirwamana 6:121
+- gutandukana kwa zihar 33:4; 58:2-4
+- ila' (igihe kirenga amezi ane) 2:226-227
+- gufatira ibyemezo ku buryo bwo gufata amafindo 5:3
+- kuzenguruka Ka'bah yambaye ubusa 7:26-28
 - kwinjira mu ngo uturutse inyuma y'inzugi nyuma y'urugendo rutagatifu 2:189
-Ibintu byo gusengwa,
-- abamarayika (muri bamwe mu barabu b'abapagani) 34:40;
-- Al-Aykah (mu bantu ba Shu'aib) 26:176;
-- Ba'l (mu bantu ba Eliya 37:125;
-- Yesu (mu Bukristo) 5:17;
-- ibigirwamana (mu bantu ba Aburahamu) 21:52-53;
-- ibigirwamana bya Lat, Uza, na Manat (mu bapagani b'Abarabu) 53:19-20;
-- ibigirwamana bya Wadd, Suwa', Yaghuth, Ya'uq, na Nasr (mu bantu ba Nuhu) 71:23;
-- izuba (abantu bo muri Sheba) 27:24;
-- Sirius (muri bamwe mu barabu b'abapagani) 53:49;
-- Farawo (mu Misiri ya kera) 26:29; 28:38; 79:24;
-- ibyifuzo 25:43-44; 45:23;
+Ibintu byo gusengwa
+- abamarayika (muri bamwe mu barabu b'abapagani) 34:40
+- Al-Aykah (mu bantu ba Shu'aib) 26:176
+- Ba'l (mu bantu ba Eliya 37:125
+- Yesu (mu Bukristo) 5:17
+- ibigirwamana (mu bantu ba Aburahamu) 21:52-53
+- ibigirwamana bya Lat, Uza, na Manat (mu bapagani b'Abarabu) 53:19-20
+- ibigirwamana bya Wadd, Suwa', Yaghuth, Ya'uq, na Nasr (mu bantu ba Nuhu) 71:23
+- izuba (abantu bo muri Sheba) 27:24
+- Sirius (muri bamwe mu barabu b'abapagani) 53:49
+- Farawo (mu Misiri ya kera) 26:29; 28:38; 79:24
+- ibyifuzo 25:43-44; 45:23
 - ukwemera imana nyinshi kwaranzwe 17:42-43; 21:21-24; 25:3
-Ahantu ho gusengera, imisigiti 9:18;
-- insengero, amasinagogi, n'amamonasteri 22:40;
-- ubuturo bwera 3:39; 38:21;
+Ahantu ho gusengera, imisigiti 9:18
+- insengero, amasinagogi, n'amamonasteri 22:40
+- ubuturo bwera 3:39; 38:21
 - urusengero 17:7
 - Amazina y'idini, abatambyi, abamonaki, n'abarabi 5:44; 5:63; 5:82; 9:31-34
-Abamarayika,
+Abamarayika
 - Baza ku iremwa rya Adamu 2:30-34
-- ntuzigere usuzugura Allah 21:26-27; 66:6;
-- si abakobwa ba Allah 21:26; 43:16-19;
-- abamarayika barinze 13:11;
-- abamarayika babiri bandika 50:16-18; 82:10-12;
-- umunani batwaye Intebe y'Ubwami ya Allah ku munsi w'urubanza 69:17;
-- abarinzi cumi n'icyenda b'ikuzimu 74:26-31;
-- Abamarayika b'urupfu 6:93; 16:28; 32:11;
-- Gaburiyeli 2:97; 66:4; 26:192-195; 53:1-14;
-- Mikayeli 2:98;
+- ntuzigere usuzugura Allah 21:26-27; 66:6
+- si abakobwa ba Allah 21:26; 43:16-19
+- abamarayika barinze 13:11
+- abamarayika babiri bandika 50:16-18; 82:10-12
+- umunani batwaye Intebe y'Ubwami ya Allah ku munsi w'urubanza 69:17
+- abarinzi cumi n'icyenda b'ikuzimu 74:26-31
+- Abamarayika b'urupfu 6:93; 16:28; 32:11
+- Gaburiyeli 2:97; 66:4; 26:192-195; 53:1-14
+- Mikayeli 2:98
 - Malik 43:77
 Intumwa
-- kuva mu bamarayika n'abantu 22:75;
+- kuva mu bamarayika n'abantu 22:75
 - Intumwa z'Ubwumvikane Buhamye (Aburahamu, Nowa, Mose, Yesu, na Muhammadi ﷺ ) 33:7; 42:13; 46:35
 Ibyanditswe Byera
-- Korani, ihishurwa ryavuye kuri Allah 12:2-3; 20:2-4; 26:192-195; 32:2-3;
-- urwibutso ku isi yose 68:51-52;
-- ubuyobozi buyobora inzira igororotse kurusha izindi zose 17:9;
-- ihishurwa ryatangiye mu kwezi kwa Ramadhani 2:185;
-- mu ijoro ryiza 44:3;97:1-5;
-- byahishuwe mu byiciro 17:105-106;
-- byoroshye kwibuka 54:17;
-- byemeza ukuri mu byahishuwe mbere 3:3-4;
-- umwanditsi w’ikirenga ku byanditswe byera bya mbere 5:48;
-- nta gushidikanya muri byo 2:2; 10:37;
-- nta kuvuguruzanya 4:82;
-- ntabwo ari ibihimbano 10:37-39;
-- ntabwo byakuwe muri Bibiliya 25:4-6;
-- ntabwo byahishuwe n'abadayimoni 26:210-212;
+- Korani, ihishurwa ryavuye kuri Allah 12:2-3; 20:2-4; 26:192-195; 32:2-3
+- urwibutso ku isi yose 68:51-52
+- ubuyobozi buyobora inzira igororotse kurusha izindi zose 17:9
+- ihishurwa ryatangiye mu kwezi kwa Ramadhani 2:185
+- mu ijoro ryiza 44:3;97:1-5
+- byahishuwe mu byiciro 17:105-106
+- byoroshye kwibuka 54:17
+- byemeza ukuri mu byahishuwe mbere 3:3-4
+- umwanditsi w’ikirenga ku byanditswe byera bya mbere 5:48
+- nta gushidikanya muri byo 2:2; 10:37
+- nta kuvuguruzanya 4:82
+- ntabwo ari ibihimbano 10:37-39
+- ntabwo byakuwe muri Bibiliya 25:4-6
+- ntabwo byahishuwe n'abadayimoni 26:210-212
 - nta muntu ushobora gukora ikintu nk'icyo 17:88; 2:23-24; 10:13-14; 11:13
-- kurindwa ruswa 15:9;
-- birinzwe mu gitabo cyabitswe 56:75-80;
-- ntibishobora guhamya ko ari ibinyoma 41:42;
-- ahanura ibizaba mu gihe kizaza 30:1-7; 48:27;
-- bituma abizera barira 5:83; 17:107-109;
-- ikora ku mitima 39:23;
-- urumuri rutangaje 4:174; 42:52;
+- kurindwa ruswa 15:9
+- birinzwe mu gitabo cyabitswe 56:75-80
+- ntibishobora guhamya ko ari ibinyoma 41:42
+- ahanura ibizaba mu gihe kizaza 30:1-7; 48:27
+- bituma abizera barira 5:83; 17:107-109
+- ikora ku mitima 39:23
+- urumuri rutangaje 4:174; 42:52
 - gukira no kugirira imbabazi abizera 17:82
 - Torah 3:3; 3:93; 5:46; 5:66-68, 110; 7:157; 9:111; 48:29; 61:6; 62:5
-- Ivanjiri 3:3; 48; 5:46-47, 66-68, 77, 110; 7:157; 9:111; 48:29; 57:27
+- Ivanjiri 3:3, 48; 5:46-47, 66-68, 77, 110; 7:157; 9:111; 48:29; 57:27
 - Zaburi 4:163; 17:55
 - Ibitabo bya Aburahamu 53:36-44; 87:14-19
-Iherezo n'iherezo 3:145; 9:51; 10:107; 11:6; 54:49; 67:30;
+Iherezo n'iherezo 3:145; 9:51; 10:107; 11:6; 54:49; 67:30
 - Amahitamo y'ubuntu 6:148-150; 11:118-119; 16:93; 33:72-73; 39:41; 76:1-3; 91:1-10
-Umunsi w'urubanza,
-- nta karengane 2:281; 18:49; 40:17;
-- ubwoba bw'imperuka 22:1-2; 27:82-84, 87; 40:18; 52:11-16; 69:13-18; 70:8-18; 73:17-18; 75:7-15; 77:8-15; 78:17-20; 79:34-36; 80:33-42; 81:1-14; 82:1-5; 84:1-5; 87:17-40; 99:1-8; 101:1-11;
-- abakiranutsi n'abanyabyaha kuri uwo munsi 11:105-108; 16:27-33, 84-89; 18:52-53; 20:100-111; 25:24-29; 30:12-16; 33:63-68; 39:68-75; 50:20-35; 55:37-41; 83:4-36;
+Umunsi w'urubanza
+- nta karengane 2:281; 18:49; 40:17
+- ubwoba bw'imperuka 22:1-2; 27:82-84, 87; 40:18; 52:11-16; 69:13-18; 70:8-18; 73:17-18; 75:7-15; 77:8-15; 78:17-20; 79:34-36; 80:33-42; 81:1-14; 82:1-5; 84:1-5; 87:17-40; 99:1-8; 101:1-11
+- abakiranutsi n'abanyabyaha kuri uwo munsi 11:105-108; 16:27-33, 84-89; 18:52-53; 20:100-111; 25:24-29; 30:12-16; 33:63-68; 39:68-75; 50:20-35; 55:37-41; 83:4-36
 - kwinginga (shafa'ah) 2:48, 255; 6:51, 70; 10: 3; 21:28; 32: 4; 36:23; 39: 43-44; 43:86; 53: 26; 74: 48
-Inyandiko z'ibikorwa 17:13; 18:49;
-- abizera bahabwa inyandiko zabo n'ukuboko kwabo kw'iburyo 69:19-24; 84:7-9;
-- abatizera bahabwa inyandiko zabo bakoresheje ukuboko kwabo kw'ibumoso 69:25-37; 84:10-15;
-- nta kintu na kimwe kizahishwa Allah 21:47; 40:16;
-- gupima ibikorwa 7:8; 23:102-104; 101:1-11;
-- ubuhamya bw'ingingo z'umubiri 41:19-24; 24:24;
+Inyandiko z'ibikorwa 17:13; 18:49
+- abizera bahabwa inyandiko zabo n'ukuboko kwabo kw'iburyo 69:19-24; 84:7-9
+- abatizera bahabwa inyandiko zabo bakoresheje ukuboko kwabo kw'ibumoso 69:25-37; 84:10-15
+- nta kintu na kimwe kizahishwa Allah 21:47; 40:16
+- gupima ibikorwa 7:8; 23:102-104; 101:1-11
+- ubuhamya bw'ingingo z'umubiri 41:19-24; 24:24
 - ibihembo by'ibikorwa byiza n'ibibi 6:160; 27:89-90; 28:84
 Ubwoko bw'abantu
-- abizera 18:107-108;
-- abatizera 4:167-169;
-- indyarya 4:145; 57:13-15;
-- abatuye Paradizo, abemera b'ingenzi 55:46-61; 56:10-26;
-- abatuye muri Paradizo, abantu b'iburyo 55:62-78; 56:27-40;
-- abatuye ikuzimu, abantu b'ibumoso 55:31-45; 56:41-56;
+- abizera 18:107-108
+- abatizera 4:167-169
+- indyarya 4:145; 57:13-15
+- abatuye Paradizo, abemera b'ingenzi 55:46-61; 56:10-26
+- abatuye muri Paradizo, abantu b'iburyo 55:62-78; 56:27-40
+- abatuye ikuzimu, abantu b'ibumoso 55:31-45; 56:41-56
 - abantu bari ku misozi miremire 7:46-49
 Imari
-- Amabwiriza y'ubucuruzi 2:188; 2:275; 2:282-283; 4:29; 4:58; 6:152; 17:34-35;
-24:36-37; 26:182; 30:39; 55:7-9; 62:9
-- Indagano, iragi ry'abatari abaragwa ku bushake 2:180-183; 4:11-12;
+- Amabwiriza y'ubucuruzi 2:188; 2:275; 2:282-283; 4:29; 4:58; 6:152; 17:34-35; 24:36-37; 26:182; 30:39; 55:7-9; 62:9
+- Indagano, iragi ry'abatari abaragwa ku bushake 2:180-183; 4:11-12
 mbere y'urupfu ubwo yari mu rugendo 5:106-108
 - Ruswa 2:188
-- Imyenda, ubuntu mu kwishyuza imyenda 2:280;
-- Kwandika no kubona amasezerano y'umwenda 2:282;
+- Imyenda, ubuntu mu kwishyuza imyenda 2:280
+- Kwandika no kubona amasezerano y'umwenda 2:282
 - gufata ingwate 2:283
-- Umurage, amabwiriza 4:7; 4:32-33; 8:75;
-- imigabane y'urubyaro n'ababyeyi 4:11;
-- abo bashakanye n'abavandimwe ba nyina 4:12;
-- abavandimwe b'abahungu bose 4:176;
+- Umurage, amabwiriza 4:7; 4:32-33; 8:75
+- imigabane y'urubyaro n'ababyeyi 4:11
+- abo bashakanye n'abavandimwe ba nyina 4:12
+- abavandimwe b'abahungu bose 4:176
 - umuburo ku batubahiriza amategeko 4:13-14
-- Inyungu, itegeko ribuza no kuburira 2:275-281; 3:130-132;
+- Inyungu, itegeko ribuza no kuburira 2:275-281; 3:130-132
 - byakozwe nta nyungu 30:39
 Amategeko n'amategeko
 - amategeko agambanira (hirabah) 5: 33-34
-- Ubutabera, guhagarara ku butabera 4:135; 5:8; 16:90-91;
-- guharanira uburenganzira bw'imfubyi n'abagore 4:127;
-- ubutabera ku Muyahudi 4:105-112;
-- ubutabera ku mupagani 4:58;
+- Ubutabera, guhagarara ku butabera 4:135; 5:8; 16:90-91
+- guharanira uburenganzira bw'imfubyi n'abagore 4:127
+- ubutabera ku Muyahudi 4:105-112
+- ubutabera ku mupagani 4:58
 - ubutabera ku batari Abayisilamu 60:8-9
 - Kwihorera binyuze mu nzira zemewe n'amategeko (hamwe n'uburyo bwo kubabarira) 2:178-179; 5:45; 16:126; 17:33; 42:37-43
-- Gutandukana hagati y'umugabo n'umugore, khul' 2:229;
+- Gutandukana hagati y'umugabo n'umugore, khul' 2:229
 - lian (ikirego cy'ubusambanyi) 24:6-10
 Politiki
 - Gukurikirana ibintu binyuze mu nama (shura) 3:159; 42:38
-- Kurwana mu kwirwanaho (jihadi), imyitwarire myiza 2:190-192; 2:216; 22:38-40;
-- kudatera mu buryo butari bwo 4:94;
-- kurwanira abagabo, abagore n'abana barenganyijwe 4:75;
-- kurinda ahantu ho gusengera 22:37;
-- igihembo cy'abahowe Imana 2:154; 3:169-171; 9:111; 57:19;
-- imbaraga za gisirikare zirinda abanzi bashobora kuba abanzi saa 8:60;
+- Kurwana mu kwirwanaho (jihadi), imyitwarire myiza 2:190-192; 2:216; 22:38-40
+- kudatera mu buryo butari bwo 4:94
+- kurwanira abagabo, abagore n'abana barenganyijwe 4:75
+- kurinda ahantu ho gusengera 22:37
+- igihembo cy'abahowe Imana 2:154; 3:169-171; 9:111; 57:19
+- imbaraga za gisirikare zirinda abanzi bashobora kuba abanzi saa 8:60
 - guhitamo amahoro 2:192; 8:61
 - Gusubiza amahoro hagati y'impande 49:9-10
 - Imfungwa z'intambara, kuvura 8:70; 47:4; 76:8
 Imibanire y'abantu
 - Guhabwa umwana 33:4-5
 - Kwita ku mfubyi 2:220; 4:2-10; 4:127; 6:152; 17:34
-- Gutandukana, ubukemurampaka no kwiyunga 4:35; 4:128;
-- Imyitwarire myiza yo gutandukana n'umugabo cyangwa umugore 2:229-231; 65:1-2;
-- inkwano n'igihe cyo gutegereza 2:226-241; 4:19-21; 33:49; 65:1-7;
-- umugabo ntagomba gusubiza ikintu icyo ari cyo cyose cy'inkwano 4:20;
-- umugore ntagomba gutotezwa 65:6;
-- umugore agomba guterwa inkunga mu gihe atwite 65:6;
-- mu gihe cyo gutegereza kwe 65:6;
-- niba yonsa umwana w'uwahoze ari umugabo we, 65:6;
-- nta mubyeyi ugomba kubabazwa kubera umwana we 2:233;
+- Gutandukana, ubukemurampaka no kwiyunga 4:35; 4:128
+- Imyitwarire myiza yo gutandukana n'umugabo cyangwa umugore 2:229-231; 65:1-2
+- inkwano n'igihe cyo gutegereza 2:226-241; 4:19-21; 33:49; 65:1-7
+- umugabo ntagomba gusubiza ikintu icyo ari cyo cyose cy'inkwano 4:20
+- umugore ntagomba gutotezwa 65:6
+- umugore agomba guterwa inkunga mu gihe atwite 65:6
+- mu gihe cyo gutegereza kwe 65:6
+- niba yonsa umwana w'uwahoze ari umugabo we, 65:6
+- nta mubyeyi ugomba kubabazwa kubera umwana we 2:233
 - guhitamo umuforomokazi wo kurera abana bato (wet-nurse 65:6)
 - Gushishikariza icyiza no kubuza ikibi 3:104; 3:110; 7:157; 9:71-72; 31:17
-- Uburinganire bw'abantu 49:13;
-- abagabo n'abagore imbere ya Allah n'amategeko, 3:195; 4:124; 5:38; 16:97; 24:2; 40:40;
+- Uburinganire bw'abantu 49:13
+- abagabo n'abagore imbere ya Allah n'amategeko, 3:195; 4:124; 5:38; 16:97; 24:2; 40:40
 - Abagabo bafite inshingano zirenze iz'abagore 2:228
 - Kugaburira abakene, imfubyi n'imbohe 76:8-9
 - Kubabarira no kugenzura uburakari 3:134; 42:40
 - Kubohora abacakara no kubafasha 4:92; 5:89; 9:60; 24:33; 58:3; 90:13
 - Kubaha ababyeyi bawe 4:36; 17:23-25; 31:14-15
 - Kwicisha bugufi 17:37; 31:18-19
-- Gusobanura inzozi za Aburahamu 37:102;
-- Gusobanura inzozi za Yozefu 12:4; 12:36; 12:43;
+- Gusobanura inzozi za Aburahamu 37:102
+- Gusobanura inzozi za Yozefu 12:4; 12:36; 12:43
 - Gusobanura inzozi za Muhamadi 8:43; 48:27
 - Ubuntu ku batari Abayisilamu 60:8
-- Ubukwe 4:3; 4:129; 16:72; 30:21;
-- abagore bemewe n'amategeko kandi batemewe n'amategeko bagomba gushyingirwa 4:22-24;
-- imyitwarire myiza yo kubana mu buryo bw'ubucuti 2:222-223;
-- gutwita no konsa 2:233; 31:4; 46:15; 65:6;
-- kongera gushaka uwahoze ari umugore wawe 2:230;
-- gufasha abatarashaka gushaka 24:32;
+- Ubukwe 4:3; 4:129; 16:72; 30:21
+- abagore bemewe n'amategeko kandi batemewe n'amategeko bagomba gushyingirwa 4:22-24
+- imyitwarire myiza yo kubana mu buryo bw'ubucuti 2:222-223
+- gutwita no konsa 2:233; 31:4; 46:15; 65:6
+- kongera gushaka uwahoze ari umugore wawe 2:230
+- gufasha abatarashaka gushaka 24:32
 - kugaragaza ko ushimishijwe mu buryo bugaragara mu gihe cyo gutegereza 2:235
-- Indahiro 2:224-225; 16:91-92; 16:94;
+- Indahiro 2:224-225; 16:91-92; 16:94
 - kwishyuza indahiro yangiritse 5:89
 - Kwihangana mu bihe bigoye 2:45; 2:153-157; 3:186; 12:18; 12:83; 16:127-128; 70:5
-- Uruhushya rwo kuza saa 24:58-60;
-- kwinjira mu ngo z'abantu 24:27-28;
+- Uruhushya rwo kuza saa 24:58-60
+- kwinjira mu ngo z'abantu 24:27-28
 - kwinjira ahantu hahurira abantu benshi 24:29
-- Imyitwarire myiza mu mibanire, amakuru agenzura 4:83; 49:6;
-- kubaha bose 49:11-12;
-- imyitwarire myiza y'amateraniro 58:11;
+- Imyitwarire myiza mu mibanire, amakuru agenzura 4:83; 49:6
+- kubaha bose 49:11-12
+- imyitwarire myiza y'amateraniro 58:11
 - ibiganiro byihariye 4:114; 58:9
 - Indahiro 2:270; 9:75-77; 22:29; 76:7
 - Gupfusha ubusa no kwigunga 7:31; 17:29; 25:67
 Izindi nkuru
-- Abeli na Kayini 5:27-31;
-- Al-Khadir na Mose 18:60-82;
-- Ingabo z'inzovu 105: 1-4;
-- umwemera wo mu bwoko bwa Farawo 40:28-46;
-- ivuka rya Mariya 3:35-36;
-- Inka y'abana ba Isirayeli 2:67-74;
-- Ezira 2:259;
+- Abeli na Kayini 5:27-31
+- Al-Khadir na Mose 18:60-82
+- Ingabo z'inzovu 105: 1-4
+- umwemera wo mu bwoko bwa Farawo 40:28-46
+- ivuka rya Mariya 3:35-36
+- Inka y'abana ba Isirayeli 2:67-74
+- Ezira 2:259
 - ba nyir'ubusitani 68:17-32
 - Harut na Marut 2:102
 - Kora 28:76-82
-- Inama Luqman yahaye umuhungu we 31:12-19;
-- nyiri ubusitani bubiri 18:32-44;
-- abantu bo muri Sheba 34:15-19;
-- abantu bo mu buvumo 18:9-26;
-- abantu bo mu mwobo 85:1-8;
-- Abarenga ku Isabato 7:163-165;
-- Samiri n'inyana y'izahabu 20:83-97;
-- Sawuli na Samweli 2:247-251;
+- Inama Luqman yahaye umuhungu we 31:12-19
+- nyiri ubusitani bubiri 18:32-44
+- abantu bo muri Sheba 34:15-19
+- abantu bo mu buvumo 18:9-26
+- abantu bo mu mwobo 85:1-8
+- Abarenga ku Isabato 7:163-165
+- Samiri n'inyana y'izahabu 20:83-97
+- Sawuli na Samweli 2:247-251
 - Zul-Qarnain 18:83-98
-Amashitani 2:102; 6:71; 6:112; 6:121; 7:27; 7:30; 17:27; 19:68; 19:83; 22:3-4; 23:97-98; 26:210; 37:7-10; 38:37-38; 67:5;
-- abantu b'abadayimoni n'amajini 6:112;114:6;
+Amashitani 2:102; 6:71; 6:112; 6:121; 7:27; 7:30; 17:27; 19:68; 19:83; 22:3-4; 23:97-98; 26:210; 37:7-10; 38:37-38; 67:5
+- abantu b'abadayimoni n'amajini 6:112;114:6
 - Ijuru rirakingiwe abadayimoni 15:16-18
 Kwicuza
-- kudakurikira Umuhanuzi 25:27;
-- kudakurikiza Allah n'Intumwa ye 4:41-42; 33:64-68;
-- Gufata inshuti mbi 25:28-29; 26:96-102; 43:36-39;
-- guhakana ibimenyetso bya Allah 6:27-30;
+- kudakurikira Umuhanuzi 25:27
+- kudakurikiza Allah n'Intumwa ye 4:41-42; 33:64-68
+- Gufata inshuti mbi 25:28-29; 26:96-102; 43:36-39
+- guhakana ibimenyetso bya Allah 6:27-30
 - kudakorera ubuzima bw'imperuka 89:23-24
 Ubusabe bwihebye
-- gusaba kugaruka ku isi 2:167; 6:27-28; 32:12-14; 42:44;
-- kugira ngo ubone amahirwe ya kabiri 35:36-37;
-- gukurwa mu muriro 40:10-12;
-- ku biryo n'amazi 7:51-52;
-- ku basabira abandi 7:52-53;
-- gusimburwa kugeza ku ivumbi 4:41-42; 78:40;
+- gusaba kugaruka ku isi 2:167; 6:27-28; 32:12-14; 42:44
+- kugira ngo ubone amahirwe ya kabiri 35:36-37
+- gukurwa mu muriro 40:10-12
+- ku biryo n'amazi 7:51-52
+- ku basabira abandi 7:52-53
+- gusimburwa kugeza ku ivumbi 4:41-42; 78:40
 - kubera urupfu 43:74-78
 Imico y'abakiranutsi
 - Kwitondera uburenganzira bw'Umuremyi n'ibiremwa bye 3:133-136; 4:36; 4:69-70; 6:151-154; 8:2-4; 13:19-24; 17:23-39; 18:107-108; 23:1-11; 25:63-76; 42:36-43
 Imico y'ababi
-- indashima 14:34;
-- uburyarya 17:100;
-- vuba cyane 21:37;
-- kwibuka Allah gusa mu bihe bigoye 10:12; 41:51;
-- kwihangana 70:19;
+- indashima 14:34
+- uburyarya 17:100
+- vuba cyane 21:37
+- kwibuka Allah gusa mu bihe bigoye 10:12; 41:51
+- kwihangana 70:19
 - impaka 18:54
 Ibyaha Bikomeye
 - Gufatanya abandi na Allah mu gusenga (shirk) 4:48; 4:116; 5:72; 6:19; 31:13:
-- guhohotera ababyeyi bawe 4:36; 6:151; 17:23;
-- kwirengagiza cyangwa kureka amasengesho y'itegeko 19:59-60;
-- kudatanga umusoro w'inka 41:6-7;
-- ubwicanyi 6:151; 17:33;
-- kwica umwizera nkana 4:93;
-- ubujura 5:38;
-- uburiganya 7:85; 11:85; 26:182-183; 83:1-6;
-- kubeshya 2:10; 9:77; 39:60;
-- Kubeshya Allah 6:93; 29:68; 61:7;
+- guhohotera ababyeyi bawe 4:36; 6:151; 17:23
+- kwirengagiza cyangwa kureka amasengesho y'itegeko 19:59-60
+- kudatanga umusoro w'inka 41:6-7
+- ubwicanyi 6:151; 17:33
+- kwica umwizera nkana 4:93
+- ubujura 5:38
+- uburiganya 7:85; 11:85; 26:182-183; 83:1-6
+- kubeshya 2:10; 9:77; 39:60
+- Kubeshya Allah 6:93; 29:68; 61:7
 - imibonano mpuzabitsina ibujijwe 2:222; 17:32; 24:2; 25:68; 29:28-30
-- ibirego by'ibinyoma by'ubusambanyi 24:4-5;
-- ubuhakanyi 2:217; 5:54;
-- Kurya ingurube n'ibindi biribwa bitemewe (intumbi, amaraso, nibindi) 5:3; 6:145;
-- inzoga n'urusimbi 5:90-91;
-- gusebanya 49:11;
-- ubuhamya bw'ibinyoma 22:30;
+- ibirego by'ibinyoma by'ubusambanyi 24:4-5
+- ubuhakanyi 2:217; 5:54
+- Kurya ingurube n'ibindi biribwa bitemewe (intumbi, amaraso, nibindi) 5:3; 6:145
+- inzoga n'urusimbi 5:90-91
+- gusebanya 49:11
+- ubuhamya bw'ibinyoma 22:30
 - ubumaji 2:102; 10:77; 20:69
 """;

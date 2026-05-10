@@ -5,18 +5,18 @@ Kusamba (Wudu), 4:43; 5:6
 Abrahamu (Ibrahim) S.14; 2:135-136, 148; 3:33, 84, 95; 4:54, 125, 163; 6:161; 9:70, 114; 12:6, 38; 16:120; 19:58; 21:51, 60, 62, 69; 22:43, 78; 26:69; 29:31; 33:7; 37:83, 104, 109; 38:45; 42:13; 43:26; 51:24; 53:37; 57:26; 60:4; 87:19
 - Myuda kapena Mkristu, 3:67-68
 - anaima mu kachisi woyamba ku Bakkah, 3:97; 26:123
-- akukweza maziko a Ka'bah 2:124-129;
-- akuitana anthu ake kuti alambire Mulungu Mmodzi Woona 2:130-133; 26:69-89; 29:16; 29:24-27;
-- akutsutsana mfumu yodzikuza 2:258,
-- akufunsa za kuuka kwa akufa 2:260;
-- Myuda kapena Mkhristu 3:65-68;
-- akutsutsa kulambira kwakumwamba 6:74-87;
-- analandira uthenga wa kubadwa kwa Isake 11:69-76; 51:24-30;
-- pemphero lake ku Ka'bah 14:35-41;
-- anachezeredwa ndi angelo 15:51-56;
-- chitsanzo chabwino 16:123;
-- akuitana abambo ake ku choonadi 19:41-50;
-- amawononga mafano ndipo amapulumutsidwa ku moto 21:51-73; 37:83-113;
+- akukweza maziko a Ka'bah 2:124-129
+- akuitana anthu ake kuti alambire Mulungu Mmodzi Woona 2:130-133; 26:69-89; 29:16; 29:24-27
+- akutsutsana mfumu yodzikuza 2:258
+- akufunsa za kuuka kwa akufa 2:260
+- Myuda kapena Mkhristu 3:65-68
+- akutsutsa kulambira kwakumwamba 6:74-87
+- analandira uthenga wa kubadwa kwa Isake 11:69-76; 51:24-30
+- pemphero lake ku Ka'bah 14:35-41
+- anachezeredwa ndi angelo 15:51-56
+- chitsanzo chabwino 16:123
+- akuitana abambo ake ku choonadi 19:41-50
+- amawononga mafano ndipo amapulumutsidwa ku moto 21:51-73; 37:83-113
 - akuitana onse ku ulendo wopita ku Haji 22:26
 Abrar, 3:193, 198; 76:5; 82:13; 83:18-22
 Kuchotsedwa, 2:106, 16:101
@@ -26,11 +26,10 @@ Adamu, 3:33, 59; 5:27; 7:26-27, 31, 35, 172; 17:70; 19:58; 36:60
 - angelo kuti aweramire, 2:34; 7:11
 - mtengo wa chidziwitso, 2:35; 7:19-20; 20:120-121
 - kuthamangitsidwa m'munda (palibe mlandu pa Hava), 2:36; 7:24
-- kulemekezedwa ndi Allah, kuyesedwa ndi Satana 2:30-38; 7:11-25; 17:61-65; 18:50; 20:115-123; 38:71-85;
+- kulemekezedwa ndi Allah, kuyesedwa ndi Satana 2:30-38; 7:11-25; 17:61-65; 18:50; 20:115-123; 38:71-85
 - Mulungu wakhululukira 2:37; 20:122
 'Adiyat, S.100
-'Adn Paradiso, 9:72; 13:23; 16:31; 18:31;
-19:61; 20:76; 35:33; 38:50; 40:8; 61:12; 98:8
+'Adn Paradiso, 9:72; 13:23; 16:31; 18:31;19:61; 20:76; 35:33; 38:50; 40:8; 61:12; 98:8
 Mavuto
 - osalemedwa ndi katundu wa wina, 6:164; 17:15; 35:18; 39:7; 53:38
 - Osalemedwa kwambiri kuposa mphamvu yopirira, 2:286; 6:152; 7:42; 23:62
@@ -113,7 +112,7 @@ Mpatuko, 3:72; 3:86-88; 3:90-91; 3:167; 4:137; 5:54; 9:74; 9:107; 16:106; 33:14
 Ampatuko, 47:25
 A'raf, S.7; 7:46, 48
 Arafat, 2:198
-Kukangana,
+Kukangana
 - osati m'malo mwa iwo amene amadzinyenga okha, 4:107
 - Munawatsutsa m'dziko lino lapansi, koma ndani adzawatsutsa pa Tsiku la Chiweruzo, 4:109
 Mikangano/Kuukira
@@ -123,7 +122,7 @@ Zida, 16:81
 'Asr,S.103
 Ayat Al-Kursi, 2:255
 Wonyoza, 49:12; 104:1
-Nkhondo ya Badr (nkhondo ya), 3:13,
+Nkhondo ya Badr (nkhondo ya), 3:13
 - maphunziro ochokera, 8:5-19, 42-48
 Al-Bait-ul-Ma mur, 52:4
 Bakkah (Makkah), 3:96
@@ -133,7 +132,7 @@ Kulinganiza, 7:8-9; 17:35; 21:47; 55:7-9; 57:25; 101:6-9
 Banu An-Nadir, 59:2-6, 13
 Baqarah, S.2
 Bara'a (Onani Taubah), S.9
-Barzaki, (Chotchinga), 23:100; 25:53; 55:20;
+Barzaki, (Chotchinga), 23:100; 25:53; 55:20
 - onaninso 18:94-97; 34:54; 36:9
 Baiyinah, S.98
 Chirombo (cha Masiku Otsiriza), 27:82
@@ -182,7 +181,7 @@ Baibulo, 5:64, 5:65, 5:68
 - kupotoza kwa, 3:78; 5:14-15
 Mbalame, 2:260; 3:49; 5:110; 6:38; 12:36, 41; 16:79; 21:79; 22:31; 24:41; 27:16-17, 20; 34:10; 38:19; 56:21; 67:19; 105:3
 Ndalama za magazi (Diya), 2:178-179; 4:92; 17:33
-Zofunkha, nkhondo, 4:94. 8:41; 59:6-8;
+Zofunkha, nkhondo, 4:94. 8:41; 59:6-8
 - kutenga mosaloledwa, 3:162
 - onani zofunkha
 Ziphuphu, 2:188
@@ -220,7 +219,7 @@ Zovala, 7:26; 16:81
 - Zovala zakunja za akazi zimaletsa kuzunzidwa ndi achinyengo, 33:59-60
 Asilikali a Confederate, 33:9, 22
 - onani Ahzab Consultation, mutual, 42:38
-Chilengedwe,
+Chilengedwe
 - imayamba ndi kubwerezabwereza, 10:4; 21:104; 27:64; 29:19-20
 - yatsopano, 17:49, 98; 35:16
 - ndi choonadi, 15:85; 16:3; 29:44; 39:5; 44:39; 45:22; 46:3
@@ -240,12 +239,12 @@ Khwangwala, 5:31
 Muyeso, 2:53, 185; 3:4; 8:29, 41; 21:48; 25:1
 Dahr, (onani Insan,) S.76; 45:24
 - nthawi, 76:1; 103:1
-Davide, 5:78; 6:84; 17:55; 34:10, 13; 38:17-30;
+Davide, 5:78; 6:84; 17:55; 34:10, 13; 38:17-30
 - malinga ndi Salmo 4:163
 - akumenyana ndi kupha Goliati, 2:251
-- apereka chigamulo 21:78-80;
-- wodalitsidwa ndi chidziwitso ndi uneneri 27:15-16;
-- mapiri ndi mbalame zikugwirizana naye kutamanda Allah 34:10; 38:17-20;
+- apereka chigamulo 21:78-80
+- wodalitsidwa ndi chidziwitso ndi uneneri 27:15-16
+- mapiri ndi mbalame zikugwirizana naye kutamanda Allah 34:10; 38:17-20
 - oweruza pakati pa anthu awiri 38:21-26
 Dawabb kapena Dabbah (cholengedwa chamoyo choyenda, ndi zina zotero) 2:164; 6:38; 8:22, 55; 11:6, 56; 16:49, 61; 22:18; 24:45; 27:82; 29:60;31:10; 34:14; 35:28, 45; 42:29; 45:4
 Akufa adzaukitsidwa, 6:36
@@ -255,17 +254,17 @@ Imfa, 3:185; 3:193; 4:78; 6:61; 6:93; 21:35; 23:99-108; 31:34; 32:11; 33:19; 33:
 - midzi imene ilibe vumbulutso sidzawonongedwa, 6:131; 9:115; 10:47; 11:117; 15:4; 16:119; 17:15; 28:59
 - Ophedwa chifukwa cha Mulungu ali amoyo, 2:154; 3:169
 - pamene akuthawa choipa kupita kwa Allah, 4:100
-- sizingaimitsidwe kapena kuchedwa 63:10-11;
-- mchimwene wa tulo ta mapasa 6:60; 39:42;
-- okhulupirira ndi osakhulupirira pa nthawi ya imfa 8:50; 16:27-32; 41:30;
+- sizingaimitsidwe kapena kuchedwa 63:10-11
+- mchimwene wa tulo ta mapasa 6:60; 39:42
+- okhulupirira ndi osakhulupirira pa nthawi ya imfa 8:50; 16:27-32; 41:30
 - chilango m'manda 40:46
 Ngongole, 2:280, 282; 4:11-12
-Lamulo,
+Lamulo
 - pa nkhani iliyonse, pali, 13:38
 - Sitidawonongepo mudzi koma unali wodziwika, 15:4
 - nkhani iliyonse imachokera kwa Mulungu, 44:5
 - Akalamula chinthu, Iye amangoti, "Chikhale!" — ndipo chimakhala, 2:117; 36:82; 40:68
-Zochita,
+Zochita
 - choipa, chokongoletsedwa kwa iwo, 47:14
 - kwa ife, kwa inu zochita zanu, 28:55; 42:15; 45:15
 - chabwino ndi choipa, zimamuthandiza komanso zimatsutsana naye, 41:46
@@ -279,7 +278,7 @@ Dhariyat, S.51
 Dhikr, 7:205; 15:6, 9
 Dhul-Kifi, 21:85; 38:48
 Dhul-Qarain, 18:83-98
-Dhun-Nun (Mnzake wa Nsomba),
+Dhun-Nun (Mnzake wa Nsomba)
 Osakhulupirira (onaninso Onyenga)
 - pemphani Muhammad ( ﷺ ) kuti awapempherere mkwiyo wa Mulungu ngati umboni, 6:57-58; 8:32; 10:49-52
 - khalani nawo mwachifundo, 31:15
@@ -304,7 +303,7 @@ Dzenje, anthu a, 85:4-10
 Kusiyanasiyana
 - ya anthu, 30:22, 35:27-28
 - za moyo, 35:27-28
-Kusudzulana, 2:228-232, 236-237, 241; 4:35, 130; 65:1-7;
+Kusudzulana, 2:228-232, 236-237, 241; 4:35, 130; 65:1-7
 - mutatha nthawi yodikira, sungani kapena gwirizanitsani, 2:231; 65:2
 - mboni ziwiri, 65:2
 - alimony, 2:233, 241
@@ -340,7 +339,7 @@ Kusudzulana, Mkazi
 - pokhapokha ngati ukwati sunamalizidwe, 33:49
 Agalu, 7:176
 Abulu (Abulu), 2:259; 16:8; 31:19; 62:5; 74:50
-Imwani,
+Imwani
 - chidakwa, 2:219; 5:90
 - chokoma choyera ndi choyera, 37:45-46; 76:21
 - vinyo woyera wotsekedwa, 83:25
@@ -363,13 +362,13 @@ Zoipa, 4:123; 10:27-30; 19:83; 59:15
 - anasintha, zabwino zonse, 7:95
 - amene amatsatira zofuna zawo, 47:14, 16
 - ntchito zokongoletsedwa kwa iwo, 47:14
-Kuchuluka,
+Kuchuluka
 - choletsedwa mu chakudya, 5:87
 - mu chipembedzo, 4:171; 5:77-81
 Maso, makutu ndi zikopa zidzachitira umboni motsutsana ndi ochimwa, 41:20-23
 Ezra, (Uzair) 9:30
 Nkhope kapena nkhope ya Allah, 2:115, 272; 6:52; 13:22; 18:28; 28:88; 30:38-39; 55:27; 76:9; 92:20
-Zooneka bwino,
+Zooneka bwino
 - Allah wapangira anthu onse zochita zawo, 6:108
 Chikhulupiriro (Chikhulupiro), 2:108; 3:167, 177, 193; 5:5; 9:23; 16:106; 30:56; 40:10; 42:52; 49:7, 11, 14; 52:21; 58:22; 59:9-10
 - okana, 3:116
@@ -379,7 +378,7 @@ Chikhulupiriro (Chikhulupiro), 2:108; 3:167, 177, 193; 5:5; 9:23; 16:106; 30:56;
 Fajr, S.89
 Falaq, S.113
 Kukambirana zabodza zokhudza Mavesi a Quran, 6:68
-Milungu yabodza,
+Milungu yabodza
 - kupatula Allah, mafano ndi omwe amatchedwa ogwirizana nawo 7:194-198; 16:20-21, 72, 86; 21:22, 24; 34:22, 27; 41:47-48; 46:5-6; 53:19-24; 71:23-24
 - Musanyoze amene akupembedza kupatula Mulungu, 6:108
 - onaninso Taghut
@@ -394,7 +393,7 @@ Fidyah (chiwombolo), cha kusala, 2:196
 - pomasula akapolo, 8:67
 - dipo loperekedwa ndi osakhulupirira, 3:91; 5:36,37; 10:54; 13:18
 Chithunzi, 95:1
-Nkhondo,
+Nkhondo
 - mu njira ya Allah, motsutsana ndi osakhulupirira, 2:190-193, 244; 4:84, 95; 8:72, 74, 75; 9:12-16, 20, 24, 36, 123; 47:4; 61:11
 - wodzozedwa, 2:216
 - m'miyezi yopatulika, 2:217; 9:5
@@ -410,7 +409,7 @@ Fil, S.105
 Firdaus Paradaiso, 18:107; 23:11
 Moto, 56:71, 100:2
 Kuuluka, 22:73
-Chakudya,
+Chakudya
 - zovomerezeka komanso zosaloledwa, (Halal ndi Haram), 2:168, 172, 173; 5:1, 3-5, 88; 6:118-119, 121, 145-146; 16:114-118; 23:51
 - Palibe tchimo pa zomwe zidadya kale, 5:93
 - osapyola malire, 5:87
@@ -432,7 +431,7 @@ Chikhululukiro, 2:109; 4:48, 110, 116; 5:74; 7:199; 39:53; 42:5, 40-43; 45:14; 5
 - pikisanani wina ndi mnzake pothamangira, 57:21
 - ntchito zoipa zimasanduka zabwino 25:68-71
 Chinyengo, (onani Kuperekedwa) 83:1-6
-Ufulu wodzisankhira,
+Ufulu wodzisankhira
 - malire ndi chifuniro cha Mulungu, 6:107; 10:99; 74:56; 76:31; 81:28-29
 - amene afuna, akhulupirire ndipo asakhulupirire, 18:29
 - yendani njira yopita kwa Ambuye wake, 76:29
@@ -466,14 +465,14 @@ Zabwino (Masiku), 3:140
 - Allah amawalipira omwe amachita zimenezo, ndi zabwino kwambiri, 53:31
 - Kodi pali mphotho ina iliyonse kupatula zabwino, 55:60
 - chitani, monga momwe Mulungu wakuchitirani zabwino, 28:77
-Zabwino ndi Zoipa,
+Zabwino ndi Zoipa
 - Chabwino chimachokera kwa Allah ndipo choipa chimachokera kwa iwe mwini, 4:79
 - ngati muchita zabwino, chifukwa cha inu nokha ndipo ngati muchita zoyipa, chifukwa cha inu nokha, 17:7;41:46
 - Chotsani choipa ndi chabwino, 23:96; 28:54; 41:34
 - chabwino ndi choipa sizingafanane, 41:34
 - munthu aliyense adzakumana ndi zonse zomwe wachita, 3:30
 - onaninso Muhsinun
-Ntchito yabwino,
+Ntchito yabwino
 - kuulula kapena kubisa, 4:149
 - limbikirani ngati mu mpikisano mu, 5:48
 Uthenga Wabwino, 3:3, 48, 65; 5:46-47, 66, 68, 110; 7:157; 9:111; 48:29; 57:27
@@ -490,7 +489,7 @@ Mavuto, pali mpumulo pa chilichonse, 94:5-6
 Harun, (Aroni)
 Harut, 2:102
 Hashr, S.59
-Mitima,
+Mitima
 - wouma mtima, 2:74; 22:53; 39:22; 57:16
 - chosindikizidwa, 7:100-101; 40:35; 47:16; 63:3
 - yophimbidwa, 17:46; 41:5
@@ -498,7 +497,7 @@ Mitima,
 - kugawanika, 59:14
 - wodzazidwa ndi mantha, 22:35
 - amene ali ndi matenda, 2:10; 5:52; 8:49; 9:125; 22:53; 24:50; 33:12, 32, 60; 47:20, 29;74:31
-Kumwamba,
+Kumwamba
 - Zosaoneka za Mulungu ndi za Mulungu, 16:77
 - sanalengedwe kuti achite sewero, 21:16
 - ndipo dziko lapansi linalumikizidwa pamodzi, 21:30
@@ -528,7 +527,7 @@ Gehena (moto, lawi loyaka) 2:24, 119, 161, 166, 201; 3:10, 12, 116, 131, 151, 16
 - kutaya mtima koyaka ndi mdima wozizira kwambiri, 38:57
 - unyolo wa mikono 70, 69:32
 - khalani kwa nthawi yochepa, 78:23
-Tsiku lotsatira,
+Tsiku lotsatira
 - nyumbayo ndi yabwino kwambiri, 6:32; 7:169
 - umene udzakhala mapeto mu, 6:135
 - Zalimun sadzapambana (mu), 6:135
@@ -545,7 +544,7 @@ Hijr (Rocky Tract), 15:80-85
 Hijr, S.15
 Kugonana kwa amuna kapena akazi okhaokha 26:165-166; 27:55; 29:28-29
 Mahatchi, 16:8
-Ola,
+Ola
 - Kudziwa kwake kuli kwa Mulungu yekha, 7:187; 31:34; 33:63; 41:47; 68:26; 79:42-46
 - mwadzidzidzi afika pa iwo, 6:31; 7:187; 12:107; 43:66
 - kukugwerani, 6:40; 12:107; 20:15; 34:3
@@ -554,9 +553,9 @@ Ola,
 - chivomerezi cha, 22:1
 - idzakhazikitsidwa, pa Tsikulo, 30:12, 14
 - ndithudi ikubwera, palibe chikayikiro, 40:59;45:32; 51:5-6
-- zizindikiro 21:96; 27:82; 43:61; 47:18; 54:1-2;
-- mayina 1:3; 2:4; 3:55; 19:39; 30:56; 37:21; 40:15; 41:47; 42:7; 50:20; 56:1; 64:9; 69:1; 79:34; 80:33; 88:1; 101:1-3;
-- adzadabwitsa anthu 6:31; 7:187;
+- zizindikiro 21:96; 27:82; 43:61; 47:18; 54:1-2
+- mayina 1:3; 2:4; 3:55; 19:39; 30:56; 37:21; 40:15; 41:47; 42:7; 50:20; 56:1; 64:9; 69:1; 79:34; 80:33; 88:1; 101:1-3
+- adzadabwitsa anthu 6:31; 7:187
 - Lipenga lidzawombedwa 6:73; 23:101; 39:68
 Nyumba, makhalidwe abwino okhudza kulowa, 24:27-29
 Hud, 7:65-72; 11:50-60; 26:123-140; 46:21-26
@@ -565,7 +564,7 @@ Hujurat, S.49
 Humazah, S.104
 Hunain (nkhondo), 9:25
 Hur (akazi mu Paradaiso), 44:54; 52:20
-Onyenga,
+Onyenga
 - nenani: Timakhulupirira mwa Allah ndi Tsiku Lomaliza, koma kwenikweni sitikhulupirira, 2:8
 - kudzinyenga okha, 2:9
 - matenda m'mitima mwawo, 2:10; 8:49; 22:53; 33:12; 47:29
@@ -610,7 +609,7 @@ Kugonana kosaloledwa; umboni wa mboni, 4:15-18; 24:2, 19
 Illiyyun, 83:18-21
 Wosayera (Najas) 9:28
 'Imran,'
-- mkazi wa, 3:35;
+- mkazi wa, 3:35
 - mwana wamkazi wa, 66:12
 Zosathawika, 69:1-3
 Infitar, S.82
@@ -629,7 +628,7 @@ Chitsulo, 57:25
 Yesu, onani Yesu
 Isake, ( Isake ) 2:133; 4:163; 6:84; 19:49; 21:72; 29:27; 37:112–113
 Ismayeli (Ismayeli), 2:125-129, 133; 4:163;6:86; 19:54–55; 21:85; 38:48
-akukhazikitsa maziko a Ka'bah ndi bambo ake 2:125-140;
+akukhazikitsa maziko a Ka'bah ndi bambo ake 2:125-140
 nkhani ya nsembe 37:100-113
 Chisilamu, 3:19, 85; 5:3; 6:125; 39:22; 61:7
 - Choyamba mwa omwe adzipereka ngati Asilamu, 6:14,163; 39:12
@@ -658,8 +657,8 @@ Yakobo, (Yakobe) 2:132-133; 4:163; 6:84; 12:18; 19:49; 21:72; 29:27
 Jalut, (onani Goliath)
 Jamarat, 2:200
 Jathiyah, S.45
-Yesu, Isa mwana wa Mariya,
-- mayi wosankhidwa kuposa akazi onse padziko lapansi 3:42;
+Yesu, Isa mwana wa Mariya
+- mayi wosankhidwa kuposa akazi onse padziko lapansi 3:42
 - akuchitira umboni pa Tsiku la Kuuka kwa Akufa, 4:159
 - Uthenga Wabwino Wokhudza Kubadwa, 3:45-47; 19:22-23
 - Mtumiki kwa Ana a Israeli, 3:49-51
@@ -682,9 +681,9 @@ Yesu, Isa mwana wa Mariya,
 - malingaliro osiyanasiyana okhudza, 43:65
 - osati china koma kapolo ndi chitsanzo kwa Ana a Israeli, 43:59
 - Uthenga Wabwino wa Mtumiki dzina lake Ahmed, 61:6
-- kubadwa kwake ndi namwali, uthenga, ndi zodabwitsa 3:45-51; 19:16-38;
-- kukumbutsidwa za zabwino za Allah 5:110-115;
-- akukana kuti ndi Mulungu 5:116-120;
+- kubadwa kwake ndi namwali, uthenga, ndi zodabwitsa 3:45-51; 19:16-38
+- kukumbutsidwa za zabwino za Allah 5:110-115
+- akukana kuti ndi Mulungu 5:116-120
 - chifundo ndi chisomo m'mitima ya otsatira ake 5:82; 57:27
 Ayuda ndi Akristu, 2:140; 4:153-161, 171; 5:18
 - mverani bodza, 5:41-42
@@ -694,41 +693,41 @@ Ayuda ndi Akristu, 2:140; 4:153-161, 171; 5:18
 Jibril, (onani Gabrieli)
 Jihad, (Kumenyana, Kulimbikira) 2:216; 9:24; 22:78; 25:52
 Jinn, S.72
-Jinn, 6:100, 112; 15:27; 34:41; 38:37; 46:18, 29; 55:33, 39;
-Jinn, wolengedwa kuchokera ku moto 15:25; 55:15;
-- kukhulupirira ndi kusakhulupirira ziwanda 72:1-15;
+Jinn, 6:100, 112; 15:27; 34:41; 38:37; 46:18, 29; 55:33, 39
+Jinn, wolengedwa kuchokera ku moto 15:25; 55:15
+- kukhulupirira ndi kusakhulupirira ziwanda 72:1-15
 - ena ankakhulupirira uthenga wa Quran 46:29-32
 - anthu ndi ziwanda adalengedwa ndi cholinga 51:56-58
 Yobu, 4:163; 6:84; 21:83-84; 38:41-44
-Yohane, (Yahya, Yohane Mbatizi),
+Yohane, (Yahya, Yohane Mbatizi)
 - Uthenga Wabwino wa, 3:38-41; 19:7-11; 21:90
 - wolungama, 6:85
 - wanzeru, wachifundo, womvera ena, 19:12-15
-Yona (Jonas kapena Yunus), 4:163; 6:86; 10:98; 21:87; 37:139-148;
+Yona (Jonas kapena Yunus), 4:163; 6:86; 10:98; 21:87; 37:139-148
 - (Dhu n-Nun) 21:87; 68:48-50
 Yosefe (Yusuf), 6:84; 12:4-101
-- nkhani zabwino kwambiri 12:1-3;
-- maloto a Yusuf wachinyamata 12:4-6;
-- chiwembu cha abale ake 12:7-18;
-- kugulitsidwa mu ukapolo 12:19-20;
+- nkhani zabwino kwambiri 12:1-3
+- maloto a Yusuf wachinyamata 12:4-6
+- chiwembu cha abale ake 12:7-18
+- kugulitsidwa mu ukapolo 12:19-20
 - analeredwa m'nyumba ya Nduna Yaikulu ya ku Egypt 12:21-22
-- Mkazi wa Nduna Wamkulu akuyesera kumunyengerera 12:23-29;
-- chochitika cha phwando 12:30-32;
-- amapita kundende 12:33-35;
-- akaidi awiri 12:36-42;
-- Maloto a Mfumu 12:43-53;
-- anakhala Nduna Yaikulu 12:54-57;
-- abale anabwera kwa iye kudzafuna zinthu 12:58-68;
-- akutenga mbale wake Benjamini 12:69-82;
-- chisoni chatsopano cha abambo ake 12:83-87;
-- akuulula umunthu wake weniweni 12:88-98;
-- maloto akale akwaniritsidwa 12:99-100;
+- Mkazi wa Nduna Wamkulu akuyesera kumunyengerera 12:23-29
+- chochitika cha phwando 12:30-32
+- amapita kundende 12:33-35
+- akaidi awiri 12:36-42
+- Maloto a Mfumu 12:43-53
+- anakhala Nduna Yaikulu 12:54-57
+- abale anabwera kwa iye kudzafuna zinthu 12:58-68
+- akutenga mbale wake Benjamini 12:69-82
+- chisoni chatsopano cha abambo ake 12:83-87
+- akuulula umunthu wake weniweni 12:88-98
+- maloto akale akwaniritsidwa 12:99-100
 - pemphero lomaliza 12:101
 Judi, Phiri, 11:44
 Jumu'ah, S.62
 Chilungamo (Adl), 2:282; 4:58, 135; 7:29; 16:90; 57:25 (
 - onaninso 4:65, 105
-Ka'bah,
+Ka'bah
 - yomangidwa ndi Abrahamu, 2:125-127
 - palibe kupha nyama, 5:94-96
 - chitetezo cha chitetezo, 5:97
@@ -740,17 +739,17 @@ Kahf, S.18
 Kanz, 9:34-35
 Kauthar (mtsinje wa ku Paradiso), 108:1
 Kauthar, S.108
-Makiyi,
+Makiyi
 zakumwamba ndi dziko lapansi, 39:63; 42:12
 wa Ghaib, 6:59
 Khaulah bint Tha labah, 58:1
-Kupha,
+Kupha
 - ngati wina wapha munthu, ndiye kuti wapha anthu onse, 5:32
 - musaphe munthu aliyense, 17:33
 Mawu abwino ndi abwino kuposa chikondi, 2:263
 Chibale, ufulu wa, 2:83, 177, 215; 4:7-9, 36; 8:41; 16:90; 17:26; 24:22; 29:8; 30:38; 42:23
 Kiraman-Ratibin, 82:11
-Chidziwitso,
+Chidziwitso
 - Palibe tsamba lomwe limagwa, koma Iye amalidziwa, 6:59
 - otayika ndi omwe adapha ana awo chifukwa cha utsiru, popanda, 6:140
 - pa zinthu zisanu, ndi Mulungu Yekha, 31:34
@@ -760,14 +759,14 @@ Kursi, 2:255
 Lahab (Onani Masad), S.111
 Lail, S.92
 Nyali, 25:61; 67:5; 71:16; 78:13
-Zilankhulo,
+Zilankhulo
 - kusiyana pakati pa anthu ndi mitundu yawo, 30:22
 Lat, 53:19
 Lamulo, lolembedwa, 5:48
 Malamulo ochokera kwa Allah, 2:219; 98:3
 Abodza, 26:221-223
 Moyo, ngati wina wapulumutsa munthu, ndiye kuti wapulumutsa moyo wa anthu onse, 5:32
-Moyo wa dziko lino,
+Moyo wa dziko lino
 - anagula, pa mtengo wa Tsiku Lomaliza, 2:86
 - ndi chisangalalo cha chinyengo chokha, 3:185
 - gulitsani, chifukwa cha moyo wa pambuyo pa imfa, 4:74
@@ -779,7 +778,7 @@ Moyo wa dziko lino,
 - amene akufuna, adzalowamo; koma pamenepo sipadzakhala gawo m'dziko lomaliza, 11:15-16; 17:18; 42:20
 - amene amakonda za pano, ndipo amanyalanyaza za moyo womaliza, 75:20-21; 76:27
 - mumakonda, 87:16
-Kuwala,
+Kuwala
 - kuwonetseredwa, 4:174
 - ndi mdima, 6:1
 - fanizo la, 24:35
@@ -794,7 +793,7 @@ Malire okhazikitsidwa ndi Allah, 2:173, 187, 190, 230; 9:112; 58:4; 65:1; 78:22
 - pamene adapitirira, (anakhala anyani), 7:166
 - amene amasunga, 9:112
 Mkango, 74:51
-Ngongole,
+Ngongole
 - perekani kwa Allah zabwino, 2:245; 73:20
 - kuchuluka kwa manifold, 57:11, 18
 - kawiri, 64:17
@@ -812,7 +811,7 @@ Mahr (ndalama zaukwati), 2:229, 236-237; 4:4,19-21, 24-25; 5:5; 33:50; 60:10-11
 Ma'idah, S.5
 Makkah (Bakkah), 3:96;90:1-2
 - Mzinda wa Chitetezo, 95:3
-Munthu,
+Munthu
 - mibadwomibadwo padziko lapansi, 2:30; 6:165
 - wolowa m'malo, 35:39
 - ntchito, 2:83-84, 88, 177; 4:1-36; 8:41; 16:90;17:23-39; 24:22; 29:8-9; 30:38;33:33;42:23; 64:14; 70:22-35
@@ -877,7 +876,7 @@ Munthu,
 - amapyola malire onse, 96:6-7
 Manasik (ntchito) za Haji, 2:128, 200; 22:30
 Manat, 53:20
-Anthu,
+Anthu
 - mboni pa, 2:143
 - gulu limodzi, 2:213; 10:19
 - yopangidwa kuchokera ku gulu limodzi, 4:1; 39:6; 49:13
@@ -887,7 +886,7 @@ Anthu,
 - wolemekezeka kwambiri, 49:13
 - kupangidwa m'mitundu ndi mafuko, 49:13
 Mana ndi zinziri, 2:57
-Makhalidwe abwino,
+Makhalidwe abwino
 - zokhudza kulowa m'nyumba, 24:27-29
 - m'nyumba, 24:58-61
 - m'nyumba za Mneneri, 33:53
@@ -910,7 +909,7 @@ Ukwati, 2:232, 234
 - amene sapeza ndalama zokwanira zoti akwatire, 24:33
 - akazi ololedwa kwa Mneneri, 33:50-52
 - musanachite zogonana, palibe Iddah pa chisudzulo, 33:49
-Ofera chikhulupiriro,
+Ofera chikhulupiriro
 - sanafe, 2:154; 3:169
 - kondwerani ndi chisomo ndi ubwino wochokera kwa Allah, 3:170-171
 - kulandira chikhululukiro ndi chifundo, 3:157-158
@@ -930,7 +929,7 @@ Masad, S.111
 Maun, S.107
 Ma’wa Paradaiso, 53:15
 Muyeso ndi kulemera, perekani mokwanira, 11:85; 17:35; 83:1-5
-Msonkhano,
+Msonkhano
 - ndi Allah, 6:31
 - ya Tsiku Lalikulu, 19:37
 - wa Tsiku Lomaliza, 30:16
@@ -960,7 +959,7 @@ Miraj, 17:1; 53:12
 Miyezi, chiwerengero cha, 9:36-37
 Mwezi, 7:54; 10:5; 16:12; 22:18; 25:61; 36:39-40; 71:16; 91:2
 - kugawanika kwa; 54:1
-Mose,
+Mose
 - ndi anthu ake, 2:51-61; 7:138-141,159-162; 14:5-8; 61:5
 - ndi Farao, 2:49-50; 17:101-103; 20:17-53, 56-79;23:45-49; 25:31-42; 40:23-46; 43:46-56; 51:38-40; 73:16;79:15-26
 - kutsogozedwa ndi Allah, 6:84
@@ -970,23 +969,23 @@ Mose,
 - potengera Malemba, 17:2
 - Zizindikiro Zisanu ndi Zinayi Zomveka, 7:133; 17:101
 - mpaka pomwe nyanja ziwiri zimakumana, 18:60-82
-- kukumana ndi tsoka pa chitsamba choyaka moto 20:9-36; 27:7-14; 28:29-35;
+- kukumana ndi tsoka pa chitsamba choyaka moto 20:9-36; 27:7-14; 28:29-35
 - kuyitanidwa ndi kupatsidwa Utumiki, 19:51-53;20:9-56
 - ubwana wake, amayi ake ndi mlongo wake, 20:38-40; 28:7-13
 - amatsenga otembenuzidwa, 20:70-73; 26:46-52
 - mu Madyan, 20:40; 28:22-28
 - anapatsidwa Criterion, 21:48
 - ndi moto wachinsinsi, 27:7-12; 28:29-35
-- anapha Mwangozi Mwigupto mumzindamo 28:14-21;
+- anapha Mwangozi Mwigupto mumzindamo 28:14-21
 - anabwera ndi Ayat yomveka bwino, 29:39
-- nkhani ndi Farao 7:103-137; 10:75-92; 11:96-99; 26:10-69;
-- zizindikiro zisanu ndi zinayi kwa Farao ndi anthu ake 7:130-133; 20:17-22; 17:101;
-- anagonjetsa amatsenga a Farao 20:70-73; 26:46-52;
-- kuthawira ku Midiyani ndi kukwatira 28:22-28;
-- alandira Mapiritsi 7:142-154,
-- akupempha kuti aone Allah pa Phiri 7:142-145;
-- Mulungu walemekeza 33:69;
-- Chifundo cha Mulungu kwa Aisrayeli 2:47-61;
+- nkhani ndi Farao 7:103-137; 10:75-92; 11:96-99; 26:10-69
+- zizindikiro zisanu ndi zinayi kwa Farao ndi anthu ake 7:130-133; 20:17-22; 17:101
+- anagonjetsa amatsenga a Farao 20:70-73; 26:46-52
+- kuthawira ku Midiyani ndi kukwatira 28:22-28
+- alandira Mapiritsi 7:142-154
+- akupempha kuti aone Allah pa Phiri 7:142-145
+- Mulungu walemekeza 33:69
+- Chifundo cha Mulungu kwa Aisrayeli 2:47-61
 - Aisrayeli anakana kulowa mu Yerusalemu 5:20-29
 - kutsogozedwa ku Njira Yowongoka, 37:114-122
 - Lemba la, 53:36; 87:19
@@ -1074,7 +1073,7 @@ Mumtahanah, S.60
 Munafigun, S.63
 Kupha, 2:178-179
 Mursalat, S.77
-Asilamu,
+Asilamu
 - choyamba cha, 6:14, 163; 9:100; 39:12
 - Ndani watchula dzina, 22:78
 - chikhululukiro ndi mphotho yayikulu kwa iwo amene, 33:35-36
@@ -1086,7 +1085,7 @@ Nahl, S.16
 Najas (wosayera) 9:28
 Najm, S.53
 Najwa (Onani Chinsinsi)
-Mayina,
+Mayina
 Kwa Iye ndiko kwa Wokongola Kwambiri, 7:180
 Wabwino kwambiri ndi wake, 17:110; 20:8; 59:24
 Kufunika, ngati munthu wakakamizidwa ndi, 2:173; 6:145
@@ -1099,10 +1098,10 @@ Usiku, (monga chizindikiro), wopumula, 10:67
 - kukhala wotumikira, 14:32
 - Usiku wa Al-Qadr (Lamulo), 44:3-4; 97:1-5
 Nisa', S.4
-Nowa, 3:33; 4:163; 6:84; 9:70; 10:71;11:25, 32, 36, 42, 45-46, 48, 89; 17:3; 21:76; 25:37; 26:105; 29:14; 37:75; 51:46;54:9; 69:11;
-- kunyozedwa 11:38;
+Nowa, 3:33; 4:163; 6:84; 9:70; 10:71;11:25, 32, 36, 42, 45-46, 48, 89; 17:3; 21:76; 25:37; 26:105; 29:14; 37:75; 51:46;54:9; 69:11
+- kunyozedwa 11:38
 - Chigumula (chigumula chachikulu), 29:14
-- Chingalawa ndi Chigumula 7:59-69, 11:25-48; 23:23-31; 26:105-122; 71:1-28;
+- Chingalawa ndi Chigumula 7:59-69, 11:25-48; 23:23-31; 26:105-122; 71:1-28
 - mwana wosalungama sanapulumutsidwe, 11:42-48
 - mkazi wosalungama, 14:9; 17:3, 17;19:58;21:76; 22:42; 26:105-106, 116; 33:7; 37:75,79; 38:12; 42:13; 40:5, 31; 42:13;50:12;53:52; 57:26; 66:10; 71:1, 21, 26
 Nuh, S.71
@@ -1136,7 +1135,7 @@ Mafanizo, (kufanana, chitsanzo, mafanizo)
 - mvula, 10:24
 - kukolola kodulidwa bwino, 10:24
 - akhungu ndi ogontha, 11:24
-- Mulungu motsutsana ndi milungu yabodza 13:14; 16:76;
+- Mulungu motsutsana ndi milungu yabodza 13:14; 16:76
 - choonadi motsutsana ndi bodza 13:17
 - phulusa lomwe mphepo imawomba mwamphamvu, 14:18
 - mtengo wabwino, 14:24-25
@@ -1164,7 +1163,7 @@ Mafanizo, (kufanana, chitsanzo, mafanizo)
 - bulu, 62:5
 - madzi anali oti amizidwa, 67:30
 - anthu a m'munda, 68:17-33
-Paradaiso,
+Paradaiso
 - wa Malo, (Ma'wa Paradiso), 53:15
 - Firdaus Paradaiso, 18:107; 23:11
 - Minda yomwe mitsinje imayenda pansi pake, 3:15, 198;4:57; 5:119; 7:43; 9:72; 18:31; 22:23; 39:20; 57:12; 64:9; 98:8
@@ -1187,7 +1186,7 @@ Paradaiso,
 - mtsinje ku Paradaiso, Kauthar, 108:1
 - mitsinje ya vinyo, mkaka, uchi woyengedwa, 47:15
 - vinyo woyera wotsekedwa, woyera, wokoma, 37:45-46; 56:18; 76:21; 83:25
-- chikho, chosakanizidwa ndi, Zanjabil, 76:17; 78:34;
+- chikho, chosakanizidwa ndi, Zanjabil, 76:17; 78:34
 - madzi, 76:5
 - mbale zagolide ndi makapu, 43:71
 - ziwiya zasiliva ndi makapu a kristalo, 76:15-16
@@ -1234,21 +1233,21 @@ Paradaiso,
 - akazi okhala mumthunzi wokongola, okhala pa mipando yachifumu, 36:55
 - atsikana achichepere okhala ndi mabere okwanira azaka zofanana, 78:33
 - anyamata osafa-antchito kuti awatumikire, ngati ngale zobalalika, 52:24; 56:17; 76:19
-- kukula kwake monga kumwamba ndi dziko lapansi 3:133, 57:21;
-- madzi oyenda, mthunzi wozizira, zakudya zokoma, ndi mabwenzi oyera 2:25; 4:57; 36:55-58; 37:40-49; 38:50-54; 44:51-57; 52:17-24; 69:19-24; 76:5-22;
-- mphotho ya okhulupirira 55:46-78; 56:10-40;
-- mitsinje ya uchi, mkaka, madzi, ndi vinyo 47:15;
-- mapemphero ndi moni 10:9-10; 39:73-74;
-- moni wa mtendere 13:23-24; 14:32;
-- kukhala kosatha mu Bliss 11:108;
-- sanapemphedwepo kuti achoke 15:45-48;
-- kuwala kukuwala patsogolo pawo ndi kudzanja lawo lamanja 57:12;
-- palibe kutentha kapena kuzizira 76:13;
-- zonse zomwe munthu akufuna zidzakwaniritsidwa 16:30-32; 41:31-32;
-- zibangili zagolide ndi zovala za silika wabwino kwambiri 18:30-31; 22:23-24; 44:51-53;
-- mathireyi a zikho zagolide 43:67-73;
-- ziwiya zasiliva ndi zipatso zopachikidwa pafupi 76:14-16;
-- kukhala pa mipando yachifumu 15:47; 37:44; 52:20;
+- kukula kwake monga kumwamba ndi dziko lapansi 3:133, 57:21
+- madzi oyenda, mthunzi wozizira, zakudya zokoma, ndi mabwenzi oyera 2:25; 4:57; 36:55-58; 37:40-49; 38:50-54; 44:51-57; 52:17-24; 69:19-24; 76:5-22
+- mphotho ya okhulupirira 55:46-78; 56:10-40
+- mitsinje ya uchi, mkaka, madzi, ndi vinyo 47:15
+- mapemphero ndi moni 10:9-10; 39:73-74
+- moni wa mtendere 13:23-24; 14:32
+- kukhala kosatha mu Bliss 11:108
+- sanapemphedwepo kuti achoke 15:45-48
+- kuwala kukuwala patsogolo pawo ndi kudzanja lawo lamanja 57:12
+- palibe kutentha kapena kuzizira 76:13
+- zonse zomwe munthu akufuna zidzakwaniritsidwa 16:30-32; 41:31-32
+- zibangili zagolide ndi zovala za silika wabwino kwambiri 18:30-31; 22:23-24; 44:51-53
+- mathireyi a zikho zagolide 43:67-73
+- ziwiya zasiliva ndi zipatso zopachikidwa pafupi 76:14-16
+- kukhala pa mipando yachifumu 15:47; 37:44; 52:20
 - okhulupirira adzaona Ambuye wawo 75:22-23
 Makolo, chifundo kwa, 2:83, 215; 4:36; 16:90; 17:23; 29:8; 31:14; 46:15-17
 Ogwirizana ndi Allah, bodza, 4:116; 10:34-35, 66; 16:86; 28:62-64, 71-75; 30:40; 42:21
@@ -1257,7 +1256,7 @@ Njira, 5:77; 16:94; 42:52-53; 43:43; 90:11-12
 - onaninso Way
 Kuleza mtima, 3:186, 200; 10:109; 11:115; 16:126-127; 20:130; 40:55, 77; 42:43; 46:35; 70:5; 73:10
 - funani thandizo, ndi pemphero, 2:45, 153; 20:132; 50:39
-Wodwala,
+Wodwala
 - adzalandira mphotho yonse, 39:10
 - Mulungu ali ndi amene ali, 8:46
 - ndipo khalani, 11:115
@@ -1266,7 +1265,7 @@ Wodwala,
 Mtendere, tsatirani, 8:61
 Ngale ndi korali, zosungidwa, 52:24; 55:22; 56:23
 Cholembera, 68:1; 96:4
-Munthu,
+Munthu
 - Allah salemetsa chinthu choposa mphamvu zake, 2:286; 7:42
 - Mulungu asapereke msonkho kwa aliyense, koma malinga ndi mphamvu zake, 23:62
 - ayi, akudziwa zomwe adzapeze mawa ndi dziko lomwe adzafere, 31:34
@@ -1287,7 +1286,7 @@ Farao, 28:6; 40:24
 - kumanga nsanja, 40:36-37
 - onaninso Mose
 Kusonkhanitsa zinthu za dziko lapansi, 102:1-4
-Lonjezo (Bai'ah),
+Lonjezo (Bai'ah)
 - za Chisilamu, 16:91
 - kwa Mtumiki kuli Bai'ah (chikole) kwa Allah, 48:10
 - a Okhulupirira, 48:18; 60:12
@@ -1323,17 +1322,17 @@ Aneneri, 3:33-34, 146; 4:163; 5:20; 6:84-90; 23:23-50; 57:26
 - zosaloledwa pa, 3:161
 - mdani wa aliyense, 6:112; 25:31
 - onaninso Atumiki
-Kugwada,
+Kugwada
 - kwa Allah amagwera, aliyense amene ali kumwamba ndi padziko lapansi ndi mithunzi yawo, 13:15
 Chakudya, 10:59; 13:26; 14:32; 16:73; 34:36,39; 42:12; 51:57; 67:21; 79:33
 Masalmo, 4:163
-Chilango,
+Chilango
 - kuchedwetsa, 3:178
 - kudula manja kapena mapazi, 5:33
 - Alangeni ndi zomwe mudakumana nazo, 16:126
 - za moyo uno ndi wamtsogolo, 24:19; 68:33
-Kuyeretsa,
-- thupi, 4:43; 5:6;
+Kuyeretsa
+- thupi, 4:43; 5:6
 - mwauzimu (kuchokera ku zodetsa), 87:14; 91:9
 Qadar, 5:5; 64:11
 Qadr, S.97
@@ -1345,7 +1344,7 @@ Karuni ( Kora ), 28:76-82; 29:39
 Qasas, S.28
 Qiblah, 2:142-145, 149
 Qisas (Lamulo la kufanana mu chilango), 2:178-179, 194; 5:45; 16:126; 17:33; 22:60; 42:40
-Qur'an,
+Qur'an
 - tafotokoza, 13:31, 36, 37; 14:1; 56:77-80
 - sichinthu chomwe chingapangidwe ndi wina kupatula Allah, 2:23; 10:38; 11:13; 17:88
 - Zikadakhala zochokera kwa wina osati Allah, pamenepo pakhala zotsutsana zambiri, 4:82
@@ -1395,7 +1394,7 @@ Qur'an,
 - kuwerenga masamba oyera, 98:2
 - onaninso Buku; Chivumbulutso
 Aquraish, S.106
-Aquraishi,
+Aquraishi
 - osakhulupirira a, 54:43-46, 51
 - kulamulira, 106:1-4
 Arabi ndi amonke, 9:31, 34
@@ -1403,26 +1402,26 @@ Mpikisano, yesetsani monga momwe zilili, m'ntchito zabwino, 5:48
 Ra'd, S.13
 Rahman, S.55
 Zovala za chilungamo ndizabwino, 7:26
-Mvula,
+Mvula
 - Mphatso ya Mulungu, 56:68-70
 - ya miyala, 27:58
 Ramadani, 2:185
 Ramy, 2:200
-Dipo,
+Dipo
 - ayi, adzatengedwa, 57:15
 - zoperekedwa ndi osakhulupirira, 3:91; 10:54; 13:18
-Fidyah, ya kusala, 2:196;
+Fidyah, ya kusala, 2:196
 - pomasula akapolo, 8:67
 Rass, okhala m'dziko la, 25:38; 50:12
-Kubwezera,
+Kubwezera
 - Tsiku la, 1:4; 37:20; 51:12; 56:56; 82:17-18; 96:7
 - otsutsa, 107:1-7
 - choipa chili ngati choipacho, 42:40
-Kuyanjanitsa,
+Kuyanjanitsa
 - aliyense wokhululuka ndi kupereka, 42:40
 - pakati pa mwamuna ndi mkazi, 4:35
 - pakati pa okhulupirira, 49:9-10
-Zolemba,
+Zolemba
 - Kaundula wolembedwa, 83:7-9, 18-21
 - mtundu uliwonse udzaitanidwa ku dziko lake, 45:28-29
 - masamba olembedwa a zochita za munthu aliyense, 81:10
@@ -1432,7 +1431,7 @@ Zolemba,
 - kumbuyo, 84:10-15
 Angelo olemba, 50:17-18, 23; 85:11
 Mpumulo, ndi mavuto, 94:5-6
-Chipembedzo,
+Chipembedzo
 - palibe kukakamizidwa mu, 2:256
 - kodi Chisilamu, 3:19
 - wa Allah, 3:83-84
@@ -1449,7 +1448,7 @@ Chipembedzo,
 - makolo, 43:22-24
 Kukumbukira Allah, 63:9
 - mu, mitima imapeza mpumulo, 13:28
-Kulapa,
+Kulapa
 - kulandiridwa ngati choipa chachitika mu umbuli ndi kulapa posachedwa, 4:17; 6:54
 - ndipo palibe phindu, ngati zochita zoipa zipitirira, 4:18
 - Amalandira, ndipo amakhululukira machimo, 4:25
@@ -1457,7 +1456,7 @@ Kupuma chifukwa cha choipa, 3:178; 10:11; 12:110; 14:42,44; 29:53-55; 86:15-17
 Kuuka kwa akufa, 2:28, 7:53; 14:21; 16:38-40; 22:5-7; 23:15-16; 31:28, 41:39, 46:33-34; 50:3,20-29, 41-44; 64:7, 75:1-15; 79:10-12; 86:5-8
 - chitsanzo mu nkhani ya Ezara 2:259
 - Abrahamu 2:260
-- anthu a m'phanga 18:9-26;
+- anthu a m'phanga 18:9-26
 - chenjezo kwa okana kuuka kwa akufa 17:49-52, 17:97-100, 19:66-72, 37:11-27, 50:1-15, 80:17-42
 Tsiku la Kuuka kwa Akufa, 7:89; 20:100-101, 124
 - Tsiku Loona, 78:39
@@ -1548,7 +1547,7 @@ Zolemba zoperekedwa kumbuyo, 84:10-15
 - Jahena idzayandikira, 89:23
 - Moto wa ku Gehena udzachotsedwa, udzayatsidwa kukhala moto woyaka kwambiri, 81:11-12
 - Kubwezera kudzera mu chikondi kudzakhala dipo, 5:45
-Chivumbulutso,
+Chivumbulutso
 - ngati mukukayika, 2:23-24
 - Vesi lochotsedwa kapena loiwalika, 2:106
 - chitsogozo choyenera, 3:73
@@ -1560,13 +1559,13 @@ Chivumbulutso,
 - cha m'buku chimachokera kwa Allah, 46:2
 - onaninso Buku ndi Korani
 Kubwezera choipa chopondereza chomwe chachitidwa kwa iwo, 42:39-43
-Mphotho,
+Mphotho
 - malinga ndi ntchito zabwino kwambiri, ndi zina zambiri, 24:38; 29:7; 39:35
 - monga mphotho 25:15
 - Allah amalipira zabwino kwa iwo amene amachita zabwino, 53:31
 - zabwino, palibe mphotho ina kupatula zabwino, 55:60
 Riba (Onani katapira)
-Wolungama,
+Wolungama
 - gulu la, 4:69
 - adzalandira dzikolo, 21:105
 - mu Paradaiso, 51:15-19; 76:5-12
@@ -1585,7 +1584,7 @@ Ruh (moyo, mzimu), 15:29; 17:85; 58:22
 Rum, S.30
 Saba’ ( Sheba ), 27:22-44; 34:15-21
 Saba', S.34
-Sabata,
+Sabata
 - ochimwa, 2:65; 4:154; 7:163-166
 - yolembedwa kokha, 16:124
 Asabiyani, 5:69; 22:17
@@ -1611,23 +1610,23 @@ Satana, 2:36, 168, 208, 268, 275; 3:36, 155, 175; 4:38, 60, 76, 83, 119-120; 5:8
 - alibe mphamvu pa okhulupirira, 16:99-100
 - amaponya bodza, 22:52-53
 - ndi mdani, 12:5; 35:6; 36:60
-- kudzikuza 2:34; 7:11-27; 15:26-43; 17:61-65; 38:73-85;
-- chiwanda 18:50-51;
-- Kuyesedwa ndi kugwa kwa Adamu 7:20-23; 20:116-121;
-- alibe ulamuliro pa okhulupirira 16:98-100;
-- cholinga chake 35:6-8;
-- mdani wolumbira kwa anthu 12:5; 17:53;
-- gulu lake 53:14-19;
-- ntchito yake yamanja 5:90-91;
-- amaletsa kuchita zabwino 2:268;
-- okhulupirira amafunafuna chitetezo mwa Allah kwa iye 7:200-202;
-- machenjerero ake ndi ofooka 4:76;
-- anakhumudwitsa otsatira ake 8:48;
+- kudzikuza 2:34; 7:11-27; 15:26-43; 17:61-65; 38:73-85
+- chiwanda 18:50-51
+- Kuyesedwa ndi kugwa kwa Adamu 7:20-23; 20:116-121
+- alibe ulamuliro pa okhulupirira 16:98-100
+- cholinga chake 35:6-8
+- mdani wolumbira kwa anthu 12:5; 17:53
+- gulu lake 53:14-19
+- ntchito yake yamanja 5:90-91
+- amaletsa kuchita zabwino 2:268
+- okhulupirira amafunafuna chitetezo mwa Allah kwa iye 7:200-202
+- machenjerero ake ndi ofooka 4:76
+- anakhumudwitsa otsatira ake 8:48
 - lankhulani ndi otsatira ake ku Gehena 14:22
 - onaninso Iblis
 Mulingo, wopambana, amene chifuniro chake chidzakhala cholemera, 7:8-9
 - onaninso kulinganiza
-Malemba,
+Malemba
 - anthu a, (Ayuda ndi Akristu), 2:109; 3:64-65, 69-72, 75, 98-99, 110, 113,199; 4:47, 153-161; 5:59-60, 68; 98:1
 - zomwe ankabisa, 5:61-63
 - pakati pawo omwe ali pa njira yolungama, 5:66
@@ -1635,7 +1634,7 @@ Malemba,
 Nyanja, 42:32-33; 45:12
 - awiriwa, 18:60; 25:53; 35:12; 55:19-20
 - pamene, aphulika, 82:3
-Chinsinsi (Najwa),
+Chinsinsi (Najwa)
 - zokambirana, 4:114
 - uphungu wa atatu, 58:7
 - uphungu, 58:8, 10
@@ -1644,10 +1643,10 @@ Mipatuko ndi magawano m'chipembedzo, 6:15; 23:53; 30:32; 42:13-14; 43:65; 45:17
 Chitetezo, pambuyo pa mavuto, Iye adachitsitsa, 3:154
 Mbewu, Amene Amaikulitsa, 56:63-67
 Kumva, 23:78
-Zisanu ndi ziwiri, zolengedwa,
+Zisanu ndi ziwiri, zolengedwa
 - kumwamba, 2:29; 23:17; 65:12; 67:3; 71:15
 - ndi dziko lapansi longa limenelo la, 65:12
-Mthunzi,
+Mthunzi
 - kwa Allah amagwa mogwada, 13:15; 16:48
 kufalikira kwa, 25:45
 Shams, S.91
@@ -1679,12 +1678,12 @@ Akapolo, 2:177-178; 4:25, 36, 92; 5:89; 24:33; 58:3; 90:13
 Kugona, chinthu chopumula, 78:9
 Sodomu, 29:31; 37:136
 Sodomu, 7:80-82; 11:77-83; 15:61-77; 29:28-29
-Solomoni, 2:102; 4:163; 6:84;
-- kuthandiza abambo ake Davide kufika pa chiweruzo cholungama 21:78-82;
+Solomoni, 2:102; 4:163; 6:84
+- kuthandiza abambo ake Davide kufika pa chiweruzo cholungama 21:78-82
 - ndi nyerere, 27:15-19
 - ndi hoopoe, 27:20-26
 - ndi Mfumukazi ya ku Saba', 27:22-44; 34:15
-- Ulemu wa Mulungu pa iye 34:12-14, 38:34-40;
+- Ulemu wa Mulungu pa iye 34:12-14, 38:34-40
 - chikondi chake pa akavalo abwino 38:30-33
 Mwana, woleredwa, 33:4-5
 Moyo (mzimu, Ruh), 15:29; 17:85; 58:22
@@ -1704,8 +1703,8 @@ Zofunkha za nkhondo, 8:41, 69; 48:15, 19-20; 48:15
 Ukazitape, 49:12
 Nyenyezi, 53:1, 49; 86:1-4
 Nyenyezi, 7:54; 15:16; 16:12, 16; 22:18; 25:61;37:6-10; 56:75; 77:8; 81:2; 82:2
-Njira Yowongoka, 1:6,
-- etc. Njira, 6:153,
+Njira Yowongoka, 1:6
+- etc. Njira, 6:153
 - ndi zina zotero. Kulimbikira, 4:95; 8:72, 74, 75; 9:20, 24, 81; 22:78; 25:52; 29:69:69; 47:3; 60:1; 61:11
 Kuyamwitsa, mawu akuti, mayi wolera, 2:233
 Kuvutika, umphawi, kutayika kwa thanzi ndi masoka; chitukuko ndi chuma, 7:94-96
@@ -1775,7 +1774,7 @@ Kubweza (Riba), 2:275-276, 278-280; 3:130; 4:161; 30:39
 Chophimba, chosaoneka, 17:45-46
 Kuphimba nkhope, 24:31; 33:59
 Ndime, Sab' Al-Mathani, 15:87
-Kupambana,
+Kupambana
 - yoperekedwa ndi Allah, 48:1
 - kudzera mu thandizo lochokera kwa Allah, 61:13
 Makhalidwe Abwino, (onani Chilungamo; Okhulupirira)
@@ -1792,7 +1791,7 @@ Njira, 1:6; 42:52-53; 90:10
 - ndi zina zotero. zosavuta, zosavuta, 87:8
 - onaninso Njira
 Woyenda m'njira, 2:177, 215; 8:41; 17:26; 29:29; 30:38; 59:7
-Chuma,
+Chuma
 - amene wasonkhanitsa, 104:2-4
 - kugwiritsa ntchito ndalama m'njira ya Allah (onani Ndalama)
 Chuma ndi ana, zokongoletsa za moyo wa dziko lapansi, 18:46
@@ -1810,7 +1809,7 @@ Vinyo (mu Paradaiso)
 - mitsinje ya, 47:15
 - chosindikizidwa bwino, 83:25
 Musafune zinthu zimene Mulungu wawachitira ena kuposa ena, 4:32
-Mboni,
+Mboni
 - ku pangano la Aneneri, 3:81
 - pa anthu, 2:143; 22:78
 - pa pangano, 2:282
@@ -1820,7 +1819,7 @@ Mboni,
 - manja ndi miyendo zidzachitira umboni, 36:65
 - munthu wodzitsutsa yekha, 75:14
 Tsiku la Umboni ndi Tsiku la Umboni, 85:3
-Akazi,
+Akazi
 - ndi gawo lofunika kwa inu, 2:223
 - chivundikiro chanu, 2:187
 - wa mtundu wanu, 16:72
@@ -1832,7 +1831,7 @@ Akazi, 2:222-223; 4:15, 19-22, 34, 127
 - osadzionetsera yekha pa mkangano, 43:17-18
 Wood, okhala m'dziko la Palestina, 15:78; 38:13; 50:14
 - onaninso Aika; — Mateyu 26:176-191
-Dziko lapansi, moyo wa izi,
+Dziko lapansi, moyo wa izi
 - si china koma masewero ndi zosangalatsa, 6:32; 29:64; 47:36; 57:20
 - amanyenga anthu, 6:130
 - Chisangalalo cha moyo wosatha n'chochepa kuposa cha pambuyo pake, 9:38; 13:26; 28:60-61
@@ -1844,7 +1843,7 @@ Ochita Zoipa,11:18-22, 101-104, 116-117;39:47
 - onaninso Osakhulupirira
 Wudu' (Kusamba), 4:43; 5:6
 Yaghuth, 71:23
-Yahya (John),
+Yahya (John)
 - Uthenga Wabwino wa, 3:39; 21:90
 - wolungama, 6:85
 - wanzeru; wachifundo; womvera ena, 19:12-15
@@ -1865,52 +1864,52 @@ Zihari, 33:4; 58:2-4
 Zukhruf, S.43
 Zumar, S.39
 Mfundo zoyambira
-- Chikhulupiriro changwiro 5:3;
-- Njira yokhayo yovomerezeka ndi Allah 3:19, 85;
-- palibe kukakamizidwa kulowa Chisilamu 2:256;
-- chipembedzo chimodzi chokhala ndi zikhulupiriro ndi malamulo osiyanasiyana 5:48; 22:67-70; 42:13-14;
-- aneneri a Chisilamu 2:135-136; 3:84; 4:163-165;
-- malamulo (khalani ndi chikhulupiriro mwa Allah ndipo chitani zabwino) 4:36; 6:151-154; 17:23-39; 18:107-108;
-- zolinga zisanu za Sharia: kuteteza chikhulupiriro 5:54;
-- kuteteza moyo 5:32;6:151;
-- kuteteza chuma 5:38;
-- kuteteza ulemu 5:5;24:4;
+- Chikhulupiriro changwiro 5:3
+- Njira yokhayo yovomerezeka ndi Allah 3:19, 85
+- palibe kukakamizidwa kulowa Chisilamu 2:256
+- chipembedzo chimodzi chokhala ndi zikhulupiriro ndi malamulo osiyanasiyana 5:48; 22:67-70; 42:13-14
+- aneneri a Chisilamu 2:135-136; 3:84; 4:163-165
+- malamulo (khalani ndi chikhulupiriro mwa Allah ndipo chitani zabwino) 4:36; 6:151-154; 17:23-39; 18:107-108
+- zolinga zisanu za Sharia: kuteteza chikhulupiriro 5:54
+- kuteteza moyo 5:32;6:151
+- kuteteza chuma 5:38
+- kuteteza ulemu 5:5;24:4
 - kuteteza luso la munthu loganiza 5:90.
 Kukhulupirira Allah 2:255
-- Makhalidwe Aumulungu, Mayina Okongola 57:1-6; 59:22-24; 85:13-16; 112:1-4;
-- Mulungu yekha woyenera kulambiridwa 1:1-4; 2:285; 6:3; 43:84;
-- ulamuliro wonse ndi wake 3:26; Mpando Wake Wachifumu ('Arsh) 7:54; 11:7;
-- Kursi wake (chopondapo mapazi kapena mpando) 2:255;
-- zabwino zosawerengeka pa anthu 14:32-34; 2:164; 16:2-93; 31:20; 55:1-25;
-- amapereka moyo ndipo amachititsa imfa 44:8; 53:44; 57:2; 67:2;
-- kumabweretsa chisangalalo ndi chisoni 53:43;
-- amapereka zinthu zambiri kapena zochepa 13:26; 17:30; 29:62;
-- Oweruza abwino kwambiri 95:8;
-- Wachifundo Chambiri kuposa Wachifundo 12:92;
-- amakonda olungama 85:14;
-- wodzaza ndi Chikhululukiro ndi chilango choopsa 13:6, 40:3;
-- Choyamba ndi Chomaliza 57:3;
-- ulemu ndi mphamvu zonse ndi zake 35:10;
-- amadziwa zosadziwika ndipo amaona zosaoneka 6:59,73; 9:94, 105; 13:8-10; 31:34; 32:6; 34:48; 35:38; 39:46; 49:18; 59:22; 62:8; 64:18; 72:26; 74:31; 87:7;
-- amadziwa bwino zomwe zili mumtima 5:7; 11:5; 31:23;
-- akudziwa zomwe zinachitika ndi zomwe zikubwera 2:255;
-- analemba chilichonse mu Mbiri (kapena Cholembedwa Chosungidwa) 6:38; 13:39; 36:12;
-- wokhoza kuchita chilichonse 2:117; 3:189; 8:41; 9:116; 11:4; 16:40; 40:68; 41:39; 42:49;57:2;
-- Mphamvu zake zopanda malire 3:26-27; 24:45; 31:28-30;
-- analenga kumwamba ndi dziko lapansi m'masiku asanu ndi limodzi ndipo sanatope 46:33; 50:38;
-- kulenga ndi mawu oti 'Khalani!' 36:81-83;
-- Sanachite zinthu zosayenera kwa chilengedwe Chake 3:108; 4:40; 17:71; 21:47; 22:10; 26:209; 40:31; 41:46; 45:22; 50:29; 64:11; 78:6-16;
-- chilichonse chimagonjera chifuniro chake 3:83; 22:18; 30:26;
-- onse akumufuna Iye 11:6; 35:15; 55:29;
-- khulupirirani Iye 10:84-85; 12:67; 25:58;
-- mitundu ya kulankhulana kwaumulungu 42:51;
-- woyenera kukumbukira 2:21; 3:102; 4:1; 33:70-71; 59:18;
-- nzeru ndi mphatso yochokera kwa Iye 2:269;
-- Sakusowa aliyense 3:97; 6:133; 112:2;
-- palibe m'modzi mu Utatu 4:171;
-- alibe mnzake 6:101;
-- alibe ana 10:68; 19:35; 43:81; 72:3; 112:3;
-- alibe ogwirizana naye kapena milungu ina 6:94; 7:191-195; 46:4-5;
+- Makhalidwe Aumulungu, Mayina Okongola 57:1-6; 59:22-24; 85:13-16; 112:1-4
+- Mulungu yekha woyenera kulambiridwa 1:1-4; 2:285; 6:3; 43:84
+- ulamuliro wonse ndi wake 3:26; Mpando Wake Wachifumu ('Arsh) 7:54; 11:7
+- Kursi wake (chopondapo mapazi kapena mpando) 2:255
+- zabwino zosawerengeka pa anthu 14:32-34; 2:164; 16:2-93; 31:20; 55:1-25
+- amapereka moyo ndipo amachititsa imfa 44:8; 53:44; 57:2; 67:2
+- kumabweretsa chisangalalo ndi chisoni 53:43
+- amapereka zinthu zambiri kapena zochepa 13:26; 17:30; 29:62
+- Oweruza abwino kwambiri 95:8
+- Wachifundo Chambiri kuposa Wachifundo 12:92
+- amakonda olungama 85:14
+- wodzaza ndi Chikhululukiro ndi chilango choopsa 13:6, 40:3
+- Choyamba ndi Chomaliza 57:3
+- ulemu ndi mphamvu zonse ndi zake 35:10
+- amadziwa zosadziwika ndipo amaona zosaoneka 6:59,73; 9:94, 105; 13:8-10; 31:34; 32:6; 34:48; 35:38; 39:46; 49:18; 59:22; 62:8; 64:18; 72:26; 74:31; 87:7
+- amadziwa bwino zomwe zili mumtima 5:7; 11:5; 31:23
+- akudziwa zomwe zinachitika ndi zomwe zikubwera 2:255
+- analemba chilichonse mu Mbiri (kapena Cholembedwa Chosungidwa) 6:38; 13:39; 36:12
+- wokhoza kuchita chilichonse 2:117; 3:189; 8:41; 9:116; 11:4; 16:40; 40:68; 41:39; 42:49;57:2
+- Mphamvu zake zopanda malire 3:26-27; 24:45; 31:28-30
+- analenga kumwamba ndi dziko lapansi m'masiku asanu ndi limodzi ndipo sanatope 46:33; 50:38
+- kulenga ndi mawu oti 'Khalani!' 36:81-83
+- Sanachite zinthu zosayenera kwa chilengedwe Chake 3:108; 4:40; 17:71; 21:47; 22:10; 26:209; 40:31; 41:46; 45:22; 50:29; 64:11; 78:6-16
+- chilichonse chimagonjera chifuniro chake 3:83; 22:18; 30:26
+- onse akumufuna Iye 11:6; 35:15; 55:29
+- khulupirirani Iye 10:84-85; 12:67; 25:58
+- mitundu ya kulankhulana kwaumulungu 42:51
+- woyenera kukumbukira 2:21; 3:102; 4:1; 33:70-71; 59:18
+- nzeru ndi mphatso yochokera kwa Iye 2:269
+- Sakusowa aliyense 3:97; 6:133; 112:2
+- palibe m'modzi mu Utatu 4:171
+- alibe mnzake 6:101
+- alibe ana 10:68; 19:35; 43:81; 72:3; 112:3
+- alibe ogwirizana naye kapena milungu ina 6:94; 7:191-195; 46:4-5
 - palibe wofanana ndi Iye 42:11; 112:4
 Konzani kuti muganizire zodabwitsa za chilengedwe chake 3:190; 6:99; 10:5-6; 13:3-4; 16:10-16; 88:17-20
 Zizindikiro mu chilengedwe 2:164; 6:95-99; 7:57-58; 10:5-6; 13:2-4; 16:10-13, 65-69, 79; 23:27-30; 27:60-65; 30:19-25; 50:6-11
@@ -1931,21 +1930,21 @@ Zizindikiro mu chilengedwe 2:164; 6:95-99; 7:57-58; 10:5-6; 13:2-4; 16:10-13, 65
 - mvula yamphamvu, matalala ndi mvula 2:265; 6:99; 24:43; 50:9-11
 - bingu ndi mphezi 13:12-13
 Zolemba za sayansi
-- anthu olengedwa kuchokera ku ma gametes aamuna ndi aakazi 76:2;
-- mapangidwe ndi kukula kwa mwana wosabadwayo 22:5; 23:12-14;
-- mwana wosabadwayo ali mu mdima wa magawo atatu 39:6;
-- madzi amchere 25:53-54; 35:12; 55:19-20;
-- kupukutira kwa mphepo 15:22;
-- zala za munthu 75:3-4;
-- mapiri ngati zikhomo 78:7;
-- chitsulo chotumizidwa pansi 57:25;
-- zolandirira ululu 4:56;
-- dzuwa ngati gwero lowala ndi mwezi ngati kuwala kowala 10:5;
-- kugawanika kwa mwezi 54:1;
-- thambo ngati denga lotetezedwa bwino 21:32;
-- zamoyo zonse zolengedwa kuchokera m'madzi 21:30; 24:45;
-- nyerere zimalankhulana 27:17-19;
-- mafunde amkati 24:40;
+- anthu olengedwa kuchokera ku ma gametes aamuna ndi aakazi 76:2
+- mapangidwe ndi kukula kwa mwana wosabadwayo 22:5; 23:12-14
+- mwana wosabadwayo ali mu mdima wa magawo atatu 39:6
+- madzi amchere 25:53-54; 35:12; 55:19-20
+- kupukutira kwa mphepo 15:22
+- zala za munthu 75:3-4
+- mapiri ngati zikhomo 78:7
+- chitsulo chotumizidwa pansi 57:25
+- zolandirira ululu 4:56
+- dzuwa ngati gwero lowala ndi mwezi ngati kuwala kowala 10:5
+- kugawanika kwa mwezi 54:1
+- thambo ngati denga lotetezedwa bwino 21:32
+- zamoyo zonse zolengedwa kuchokera m'madzi 21:30; 24:45
+- nyerere zimalankhulana 27:17-19
+- mafunde amkati 24:40
 Zamoyo
 - angelo 39:75
 - anthu (ulamuliro padziko lapansi) 2:30; 6:165; 16:4
@@ -1978,366 +1977,366 @@ Zamoyo
 - kangaude 29:41
 - ena omwe sitiwadziwa 16:8
 Zomera ndi zipatso 6:99; 13:4; 16:11; 36:33-35
-- nthochi 56:29,
-- masiku 19:25,
-- zitsamba, nkhaka, adyo, mphodza, ndi anyezi 2:61,
-- mphesa 80:28,
-- olive 6:99,
-- chithunzi 95:1,
-- makangaza 55:68,
+- nthochi 56:29
+- masiku 19:25
+- zitsamba, nkhaka, adyo, mphodza, ndi anyezi 2:61
+- mphesa 80:28
+- olive 6:99
+- chithunzi 95:1
+- makangaza 55:68
 - sikwashi 37:146
 Chikhulupiriro mwa Muhammad
-- Makhalidwe, mneneri yekha 3:144; 6:50; 7:188; 18:110;
-- kupereka choonadi 2:119; 35:24; 42:48;
-- chisindikizo cha aneneri 33:40;
-- khalidwe labwino 3:159; 68:4;
-- chitsanzo chabwino 33:21;
-- ngati chisomo kwa okhulupirira 3:164;
-- chifundo kwa dziko lonse lapansi 21:107;
-- mtumiki wa dziko lonse 4:170; 7:157-158; 34:28;
-- imatsogolera ku Njira Yowongoka 42:52-53;
-- amasamala za anthu 9:129;
-- monga mboni pa Tsiku la Chiweruzo 4:42; 16:89;
-- mneneri wosaphunzira 7:157-158; 29:48; 62:2;
-- analosera mu Torah ndi Uthenga Wabwino 7:157;
+- Makhalidwe, mneneri yekha 3:144; 6:50; 7:188; 18:110
+- kupereka choonadi 2:119; 35:24; 42:48
+- chisindikizo cha aneneri 33:40
+- khalidwe labwino 3:159; 68:4
+- chitsanzo chabwino 33:21
+- ngati chisomo kwa okhulupirira 3:164
+- chifundo kwa dziko lonse lapansi 21:107
+- mtumiki wa dziko lonse 4:170; 7:157-158; 34:28
+- imatsogolera ku Njira Yowongoka 42:52-53
+- amasamala za anthu 9:129
+- monga mboni pa Tsiku la Chiweruzo 4:42; 16:89
+- mneneri wosaphunzira 7:157-158; 29:48; 62:2
+- analosera mu Torah ndi Uthenga Wabwino 7:157
 - Yesu ananeneratu 61:6
 Mavuto omwe Mtumiki ( ﷺ ) anakumana nawo
-- zofuna zopanda tanthauzo za akunja 8:32; 15:7; 17:89-93; 25:7-8;
-- zonamizira zabodza 10:2; 11:13; 21:5; 24:11-26; 25:4-6; 37:36; 38:4; 52:29-30;
-- kuyesa kumupha 8:30; 9:74;
-- chenjezo kwa iwo amene amamupweteka kapena kumutsutsa 4:115; 8:13; 9:61; 15:95; 33:57; 47:32; 96:9-19;
-- kulamulidwa kuyankha moleza mtima akakana 20:130; 30:60; 46:35; 70:5;
+- zofuna zopanda tanthauzo za akunja 8:32; 15:7; 17:89-93; 25:7-8
+- zonamizira zabodza 10:2; 11:13; 21:5; 24:11-26; 25:4-6; 37:36; 38:4; 52:29-30
+- kuyesa kumupha 8:30; 9:74
+- chenjezo kwa iwo amene amamupweteka kapena kumutsutsa 4:115; 8:13; 9:61; 15:95; 33:57; 47:32; 96:9-19
+- kulamulidwa kuyankha moleza mtima akakana 20:130; 30:60; 46:35; 70:5
 - Mulungu adalamula kuti atsimikizire 5:67; 93:1-11; 94:1-8
 Maphunziro ochokera m'moyo wa Mtumiki ( ﷺ )
-- kuchoka pa ulendo wake wosamukira kudziko lina (hijrah) kupita ku Nkhondo ya Badr 3:121-129; 8:42-44; 8:65-71;
-- Nkhondo ya Uhud 3:151-180;
-- Nkhondo ya pa ngalande 33:9-27;
-- Nkhondo ya ku Hunain 9:25-27;
-— Madina 9:40; Tabuki 9:38-123;
-- Banu An-Naḍîr 59:2-6;
-- Hamra' Al-Asad 3:172-175;
+- kuchoka pa ulendo wake wosamukira kudziko lina (hijrah) kupita ku Nkhondo ya Badr 3:121-129; 8:42-44; 8:65-71
+- Nkhondo ya Uhud 3:151-180
+- Nkhondo ya pa ngalande 33:9-27
+- Nkhondo ya ku Hunain 9:25-27
+— Madina 9:40
+- Tabuki 9:38-123
+- Banu An-Naḍîr 59:2-6
+- Hamra' Al-Asad 3:172-175
 - Choonadi cha Hudaibiyah 48:1-7; 48:10-29
 Ulemu umene Mtumiki ( ﷺ ) amapatsidwa
-- Allah ndi angelo ake amudalitsa 33:56;
-- ulendo wausiku kuchokera ku Mecca kupita ku Yerusalemu 17:1;
-- ulendo wopita kumwamba 53:1-18;
-- wolemekezeka m'moyo uno ndi wotsatira 17:79; 66:8; 108:1;
-- kumumvera ndi kumvera Allah 4:80;
-- mphotho ya kumvera Allah ndi Mtumiki Wake 4:69;
-- banja lake linayeretsedwa 33:33-34;
-- akuona Gabrieli mu mawonekedwe ake enieni 53:1-18;
-- okhulupirira analamulidwa kuti amumvere 59:7;
+- Allah ndi angelo ake amudalitsa 33:56
+- ulendo wausiku kuchokera ku Mecca kupita ku Yerusalemu 17:1
+- ulendo wopita kumwamba 53:1-18
+- wolemekezeka m'moyo uno ndi wotsatira 17:79; 66:8; 108:1
+- kumumvera ndi kumvera Allah 4:80
+- mphotho ya kumvera Allah ndi Mtumiki Wake 4:69
+- banja lake linayeretsedwa 33:33-34
+- akuona Gabrieli mu mawonekedwe ake enieni 53:1-18
+- okhulupirira analamulidwa kuti amumvere 59:7
 - makhalidwe abwino olankhula naye 49:1-5
-- makhalidwe abwino oti mukamuchezere 33:53;
-- makhalidwe abwino okhudza kuchita ndi akazi ake 33:53;
-- Allah akukondwera naye ndi anzake 9:100; 9:117;
+- makhalidwe abwino oti mukamuchezere 33:53
+- makhalidwe abwino okhudza kuchita ndi akazi ake 33:53
+- Allah akukondwera naye ndi anzake 9:100; 9:117
 - ubwino wa gulu lake lachipembedzo 2:143; 3:110
-Pemphero ( salah ) 2:45; 9:103; 51:18; 70:22-23; 75:31; 96:10; 108:2;
-- Msonkhano wa Lachisanu 62:9;
-- malangizo a pemphero (qiblah) 2:144; 2:149-150;
-- ayenera kuletsa munthu kuchita zoipa 29:45;
-- nthawi 11:114; 17:78; 17:79; 20:130; 24:36; 24:58; 30:17-18; 32:16; 38:18; 50:39-40; 51:17; 52:48-49; 73:2-4; 76:25-26;
-- pamene muli pachiwopsezo kapena paulendo 2:239; 4:101-102;
-- chenjezo kwa iwo amene amanyalanyaza mapemphero 19:59; 74:38-47; 107:5-7;
+Pemphero ( salah ) 2:45; 9:103; 51:18; 70:22-23; 75:31; 96:10; 108:2
+- Msonkhano wa Lachisanu 62:9
+- malangizo a pemphero (qiblah) 2:144; 2:149-150
+- ayenera kuletsa munthu kuchita zoipa 29:45
+- nthawi 11:114; 17:78; 17:79; 20:130; 24:36; 24:58; 30:17-18; 32:16; 38:18; 50:39-40; 51:17; 52:48-49; 73:2-4; 76:25-26
+- pamene muli pachiwopsezo kapena paulendo 2:239; 4:101-102
+- chenjezo kwa iwo amene amanyalanyaza mapemphero 19:59; 74:38-47; 107:5-7
 - mapemphero a onyenga 4:142; 9:54
-Kuyeretsa, kusamba (wudu) 5:6;
-- kusamba mokwanira (ghusl) 2:222; 4:43;
+Kuyeretsa, kusamba (wudu) 5:6
+- kusamba mokwanira (ghusl) 2:222; 4:43
 - kusamba kouma (tayammum) 4:43; 5:6
 Mapemphero (du'a)
-- za Abrahamu 2:126-129; 2:126-129; 14:35-41; 26:83-89;
-- Adamu ndi Hava 7:23;
-- Yesu 5:114;
-- Yobu 21:83; 21:83;
-- Yona 21:87;
-- Yosefe 12:33; 12:101;
-- Mose 10:88-89; 20:25-35;
+- za Abrahamu 2:126-129; 2:126-129; 14:35-41; 26:83-89
+- Adamu ndi Hava 7:23
+- Yesu 5:114
+- Yobu 21:83; 21:83
+- Yona 21:87
+- Yosefe 12:33; 12:101
+- Mose 10:88-89; 20:25-35
 - Muhammad 17:80; 20:114
-- Nowa 23:26; 26:117-118; 54:9-10; 71:26; 71:28;
-- Solomo 38:35;
-- Shuaib 7:89;
-- Zekariya 3:38; 19:2-6; 21:89-90;
-- angelo 40:8-9;
-- Amayi ake a Mariya 3:35-36;
-- Mkazi wa Farao 66:11;
-- Amatsenga a Farao 7:126;
-- Mfumu Sauli ndi okhulupirira omwe anali naye 2:250;
-- okhulupirira a Ana a Israeli 10:85-86;
-- anthu a m'phanga 18:10;
-- olungama 2:285-286; 3:8-9; 3:16; 3:147; 3:191-194; 25:74; 59:10;
+- Nowa 23:26; 26:117-118; 54:9-10; 71:26; 71:28
+- Solomo 38:35
+- Shuaib 7:89
+- Zekariya 3:38; 19:2-6; 21:89-90
+- angelo 40:8-9
+- Amayi ake a Mariya 3:35-36
+- Mkazi wa Farao 66:11
+- Amatsenga a Farao 7:126
+- Mfumu Sauli ndi okhulupirira omwe anali naye 2:250
+- okhulupirira a Ana a Israeli 10:85-86
+- anthu a m'phanga 18:10
+- olungama 2:285-286; 3:8-9; 3:16; 3:147; 3:191-194; 25:74; 59:10
 - oponderezedwa 4:75
 Mavesi ogwada
 - sajadat, kuchuluka kwa sajdah, 7:206; 13:15; 16:49; 17:109; 19:58; 22:18; 22:77; 25:60; 27:26; 32:15; 38:24; 41:37; 53:62; 84:21; 96:19
-Msonkho wa zachifundo (zakah), monga chokakamiza 2:110; 2:177; 2:277; 6:141;
-- chimodzi mwa makhalidwe a okhulupirira 22:41; 23:4; 51:19;
+Msonkho wa zachifundo (zakah), monga chokakamiza 2:110; 2:177; 2:277; 6:141
+- chimodzi mwa makhalidwe a okhulupirira 22:41; 23:4; 51:19
 - olandira 9:60
 - chikondi (sadaqah) 2:177; 2:261-263; 2:267-274; 3:92; 63:10
 - chenjezo kwa iwo omwe safuna 3:180; 9:34; 47:38
 Kusala (sawm)
-- mu Ramadan 2:183-185;
-- maola osala kudya 2:187;
-- kumasulidwa 2:184-185;
-- ubale wapamtima usiku usanachitike kusala kudya 2:187;
+- mu Ramadan 2:183-185
+- maola osala kudya 2:187
+- kumasulidwa 2:184-185
+- ubale wapamtima usiku usanachitike kusala kudya 2:187
 - kusala kudya pa nthawi ya ulendo wa Haji 2:196
-Ulendo wa Haji (Hajj),
-- udindo kwa iwo amene angathe kuukwanitsa 3:97;
-- miyambo ndi zigamulo 2:158; 2:189; 2:196-203; 5:2; 22:26-37;
-- nsembe zoperekedwa nsembe 2:196; 22:36-37;
-- kuletsa kusaka pamtunda pamene muli paulendo wa Haji 5:1; 5:94-95;
+Ulendo wa Haji (Hajj)
+- udindo kwa iwo amene angathe kuukwanitsa 3:97
+- miyambo ndi zigamulo 2:158; 2:189; 2:196-203; 5:2; 22:26-37
+- nsembe zoperekedwa nsembe 2:196; 22:36-37
+- kuletsa kusaka pamtunda pamene muli paulendo wa Haji 5:1; 5:94-95
 - chilolezo chosaka panyanja 5:96
 - Ulendo Waufupi ('umrah) 2:158; 2:196
 Magulu achipembedzo
-- Asilamu 2:132-136; 3:64; 3:84; 5:111; 22:77-78; 33:35; 41:33; 43:67-70; 72:14-15;
-- otetezana wina ndi mnzake 3:28; 9:71;
-- Akristu 2:62; 2:111-140; 4:171-172; 5:14-19; 5:82-86; 5:116-120; 9:30-31; 22:17;
-- Ayuda 2:62, 111-140; 5:44-45; 6:146; 22:17; 62:6-8;
-- Ana a Israeli 2:40-103, 122-123, 246-251; 3:49; 3:93-94; 5:12-13, 20-26, 32, 70-71, 78-81; 7:137-141, 148-153,159-171; 10:83-93; 14:5-8; 17:2-8, 104; 20:80-98; 26:52-67, 197; 27:76; 44:23-33; 45:16-17; 46:10; 61:5-6;
+- Asilamu 2:132-136; 3:64; 3:84; 5:111; 22:77-78; 33:35; 41:33; 43:67-70; 72:14-15
+- otetezana wina ndi mnzake 3:28; 9:71
+- Akristu 2:62; 2:111-140; 4:171-172; 5:14-19; 5:82-86; 5:116-120; 9:30-31; 22:17
+- Ayuda 2:62, 111-140; 5:44-45; 6:146; 22:17; 62:6-8
+- Ana a Israeli 2:40-103, 122-123, 246-251; 3:49; 3:93-94; 5:12-13, 20-26, 32, 70-71, 78-81; 7:137-141, 148-153,159-171; 10:83-93; 14:5-8; 17:2-8, 104; 20:80-98; 26:52-67, 197; 27:76; 44:23-33; 45:16-17; 46:10; 61:5-6
 - Anthu a Buku (makamaka Ayuda ndi Akristu) 2:109; 3:64-115, 199; 4:123-172; 5:15-77; 6:20-21; 13:36; 28:52-55; 29:46-47; 57:16, 28-29; 74:31; 98:1-5
 - Asilamu akhoza kudya nyama zomwe adapereka nsembe ndikukwatira akazi awo 5:5
-- zakudya zoletsedwa kwa Ayuda 6:146;
-- Asabiyani 2:62; 22:17;
-- Anzeru 22:17;
-- olambira milungu yambiri (achikunja, olambira mafano) 3:186; 6:148; 9:6, 17; 10:28; 16:86; 22:17; 53:19-30;
-- zikhulupiriro zachikunja 2:189; 5:103; 6:138-144;
+- zakudya zoletsedwa kwa Ayuda 6:146
+- Asabiyani 2:62; 22:17
+- Anzeru 22:17
+- olambira milungu yambiri (achikunja, olambira mafano) 3:186; 6:148; 9:6, 17; 10:28; 16:86; 22:17; 53:19-30
+- zikhulupiriro zachikunja 2:189; 5:103; 6:138-144
 - osakhulupirira Mulungu 52:35-36
 Miyambo yachikunja yaletsedwa
-- kuika ana aakazi ali amoyo 16:58-59; 81:8-9;
-- kupha ana chifukwa choopa umphawi 6:137; 6:151; 17:31;
-- kuyimba mluzu ndi kuwomba m'manja mozungulira Ka'bah 8:35;
-- kupereka ngamila ku mafano 5:103; 6:136;
-- kupereka nsembe m'dzina la mafano 6:121;
-- chisudzulo cha zihar 33:4; 58:2-4;
-- ila' (kwa miyezi yoposa inayi) 2:226-227;
-- kupanga maere pa zisankho 5:3;
-- kuzungulira Ka'bah ali wamaliseche 7:26-28;
+- kuika ana aakazi ali amoyo 16:58-59; 81:8-9
+- kupha ana chifukwa choopa umphawi 6:137; 6:151; 17:31
+- kuyimba mluzu ndi kuwomba m'manja mozungulira Ka'bah 8:35
+- kupereka ngamila ku mafano 5:103; 6:136
+- kupereka nsembe m'dzina la mafano 6:121
+- chisudzulo cha zihar 33:4; 58:2-4
+- ila' (kwa miyezi yoposa inayi) 2:226-227
+- kupanga maere pa zisankho 5:3
+- kuzungulira Ka'bah ali wamaliseche 7:26-28
 - kulowa m'nyumba kuchokera kuseri kwa nyumba pambuyo pa ulendo wa Haji 2:189
-Zinthu zopembedzedwa,
-- angelo (pakati pa Aarabu ena achikunja) 34:40;
-- Al-Aykah (pakati pa anthu a Shu'aib) 26:176;
-- Ba'l (pakati pa anthu a Eliya 37:125;
-- Yesu (mu Chikhristu) 5:17;
-- mafano (pakati pa anthu a Abrahamu) 21:52-53;
-- mafano a Lat, 'Uzza, ndi Manat (pakati pa Aarabu achikunja) 53:19-20;
-- mafano a Wadd, Suwa', Yaghuth, Ya'uq, ndi Nasr (pakati pa anthu a Nuhu) 71:23;
-- dzuwa (anthu a ku Sheba) 27:24;
-- Sirius (pakati pa Aarabu ena achikunja) 53:49;
-- Farao (mu Igupto wakale) 26:29; 28:38; 79:24;
-- zilakolako 25:43-44; 45:23;
+Zinthu zopembedzedwa
+- angelo (pakati pa Aarabu ena achikunja) 34:40
+- Al-Aykah (pakati pa anthu a Shu'aib) 26:176
+- Ba'l (pakati pa anthu a Eliya 37:125
+- Yesu (mu Chikhristu) 5:17
+- mafano (pakati pa anthu a Abrahamu) 21:52-53
+- mafano a Lat, 'Uzza, ndi Manat (pakati pa Aarabu achikunja) 53:19-20
+- mafano a Wadd, Suwa', Yaghuth, Ya'uq, ndi Nasr (pakati pa anthu a Nuhu) 71:23
+- dzuwa (anthu a ku Sheba) 27:24
+- Sirius (pakati pa Aarabu ena achikunja) 53:49
+- Farao (mu Igupto wakale) 26:29; 28:38; 79:24
+- zilakolako 25:43-44; 45:23
 - kukhulupirira milungu yambiri kunatsutsidwa 17:42-43; 21:21-24; 25:3
-Malo olambirira, mizikiti 9:18;
-- matchalitchi, masunagoge, ndi nyumba za amonke 22:40;
-- malo opatulika 3:39; 38:21;
+Malo olambirira, mizikiti 9:18
+- matchalitchi, masunagoge, ndi nyumba za amonke 22:40
+- malo opatulika 3:39; 38:21
 - kachisi 17:7
 - Maina aulemu achipembedzo, ansembe, amonke, ndi arabi 5:44; 5:63; 5:82; 9:31-34
-Angelo,
+Angelo
 - funsani za kulengedwa kwa Adamu 2:30-34
-- osamvera Allah 21:26-27; 66:6;
-- kodi si ana aakazi a Allah 21:26; 43:16-19;
-- angelo oteteza 13:11;
-- angelo awiri olemba 50:16-18; 82:10-12;
-- asanu ndi atatu akunyamula Mpando wachifumu wa Allah pa Tsiku la Chiweruzo 69:17;
-- osunga Gehena khumi ndi asanu ndi anayi 74:26-31;
-- Angelo a Imfa 6:93; 16:28; 32:11;
-- Gabrieli 2:97; 66:4; 26:192-195; 53:1-14;
-- Mikayeli 2:98;
+- osamvera Allah 21:26-27; 66:6
+- kodi si ana aakazi a Allah 21:26; 43:16-19
+- angelo oteteza 13:11
+- angelo awiri olemba 50:16-18; 82:10-12
+- asanu ndi atatu akunyamula Mpando wachifumu wa Allah pa Tsiku la Chiweruzo 69:17
+- osunga Gehena khumi ndi asanu ndi anayi 74:26-31
+- Angelo a Imfa 6:93; 16:28; 32:11
+- Gabrieli 2:97; 66:4; 26:192-195; 53:1-14
+- Mikayeli 2:98
 - Malik 43:77
 Amithenga
-- kuchokera pakati pa angelo ndi anthu 22:75;
+- kuchokera pakati pa angelo ndi anthu 22:75
 - Atumiki Otsimikiza Mtima (Abrahamu, Nowa, Mose, Yesu, ndi Muhammad ﷺ ) 33:7; 42:13; 46:35
 Malemba
-- Quran, chivumbulutso chochokera kwa Allah 12:2-3; 20:2-4; 26:192-195; 32:2-3;
-- chikumbutso kwa dziko lonse lapansi 68:51-52;
-- malangizo otsogolera ku njira yowongoka kwambiri ya moyo 17:9;
-- kuwululidwa kunayamba mu mwezi wa Ramadan 2:185;
-- pa usiku wodala 44:3;97:1-5;
-- yavumbulutsidwa mu magawo 17:105-106;
-- zosavuta kukumbukira 54:17;
-- akutsimikizira zoona zomwe zili m'mavumbulutso am'mbuyomu 3:3-4;
-- wodziwa bwino kwambiri malemba oyambirira 5:48;
-- palibe kukayika mmenemo 2:2; 10:37;
-- palibe zotsutsana 4:82;
-- osati yongopeka 10:37-39;
-- sizinakopedwe kuchokera m'Baibulo 25:4-6;
-- sanaululidwe ndi ziwanda 26:210-212;
+- Quran, chivumbulutso chochokera kwa Allah 12:2-3; 20:2-4; 26:192-195; 32:2-3
+- chikumbutso kwa dziko lonse lapansi 68:51-52
+- malangizo otsogolera ku njira yowongoka kwambiri ya moyo 17:9
+- kuwululidwa kunayamba mu mwezi wa Ramadan 2:185
+- pa usiku wodala 44:3;97:1-5
+- yavumbulutsidwa mu magawo 17:105-106
+- zosavuta kukumbukira 54:17
+- akutsimikizira zoona zomwe zili m'mavumbulutso am'mbuyomu 3:3-4
+- wodziwa bwino kwambiri malemba oyambirira 5:48
+- palibe kukayika mmenemo 2:2; 10:37
+- palibe zotsutsana 4:82
+- osati yongopeka 10:37-39
+- sizinakopedwe kuchokera m'Baibulo 25:4-6
+- sanaululidwe ndi ziwanda 26:210-212
 - palibe amene angapange chinthu chonga ichi 17:88; 2:23-24; 10:13-14; 11:13
-- kutetezedwa ku chivundi 15:9;
-- yotetezedwa mu Chikho Chosungidwa 56:75-80;
-- sizingatsimikizidwe kuti ndi zabodza 41:42;
-- akuneneratu zochitika zamtsogolo 30:1-7; 48:27;
-- amapangitsa okhulupirira kulira 5:83; 17:107-109;
-- zimakhudza mitima 39:23;
-- kuwala kowala 4:174; 42:52;
+- kutetezedwa ku chivundi 15:9
+- yotetezedwa mu Chikho Chosungidwa 56:75-80
+- sizingatsimikizidwe kuti ndi zabodza 41:42
+- akuneneratu zochitika zamtsogolo 30:1-7; 48:27
+- amapangitsa okhulupirira kulira 5:83; 17:107-109
+- zimakhudza mitima 39:23
+- kuwala kowala 4:174; 42:52
 - machiritso ndi chifundo kwa okhulupirira 17:82
 - Torah 3:3; 3:93; 5:46; 5:66-68, 110; 7:157; 9:111; 48:29; 61:6; 62:5
-- Uthenga Wabwino 3:3; 48; 5:46-47, 66-68, 77, 110; 7:157; 9:111; 48:29; 57:27
+- Uthenga Wabwino 3:3, 48; 5:46-47, 66-68, 77, 110; 7:157; 9:111; 48:29; 57:27
 — Salmo 4:163; 17:55
 - Mipukutu ya Abrahamu 53:36-44; 87:14-19
-Tsogolo ndi tsogolo 3:145; 9:51; 10:107; 11:6; 54:49; 67:30;
+Tsogolo ndi tsogolo 3:145; 9:51; 10:107; 11:6; 54:49; 67:30
 - kusankha kwaulere 6:148-150; 11:118-119; 16:93; 33:72-73; 39:41; 76:1-3; 91:1-10
-Tsiku la Chiweruzo,
-- palibe chisalungamo 2:281; 18:49; 40:17;
-- zoopsa za chiwonongeko 22:1-2; 27:82-84, 87; 40:18; 52:11-16; 69:13-18; 70:8-18; 73:17-18; 75:7-15; 77:8-15; 78:17-20; 79:34-36; 80:33-42; 81:1-14; 82:1-5; 84:1-5; 87:17-40; 99:1-8; 101:1-11;
-- olungama ndi oipa pa Tsiku limenelo 11:105-108; 16:27-33, 84-89; 18:52-53; 20:100-111; 25:24-29; 30:12-16; 33:63-68; 39:68-75; 50:20-35; 55:37-41; 83:4-36;
+Tsiku la Chiweruzo
+- palibe chisalungamo 2:281; 18:49; 40:17
+- zoopsa za chiwonongeko 22:1-2; 27:82-84, 87; 40:18; 52:11-16; 69:13-18; 70:8-18; 73:17-18; 75:7-15; 77:8-15; 78:17-20; 79:34-36; 80:33-42; 81:1-14; 82:1-5; 84:1-5; 87:17-40; 99:1-8; 101:1-11
+- olungama ndi oipa pa Tsiku limenelo 11:105-108; 16:27-33, 84-89; 18:52-53; 20:100-111; 25:24-29; 30:12-16; 33:63-68; 39:68-75; 50:20-35; 55:37-41; 83:4-36
 - kupembedzera ( shafa’ah) 2:48, 255; 6:51, 70; 10:3; 21:28; 32:4; 36:23; 39:43-44; 43:86; 53:26; 74:48
-Zolemba za zochita 17:13; 18:49;
-- okhulupirira amalandira zolemba zawo ndi dzanja lawo lamanja 69:19-24; 84:7-9;
-- osakhulupirira amalandira zolemba zawo ndi dzanja lawo lamanzere 69:25-37; 84:10-15;
-- palibe chomwe chidzabisika kwa Allah 21:47; 40:16;
-- kuyeza zochita 7:8; 23:102-104; 101:1-11;
-- umboni wa ziwalo za thupi 41:19-24; 24:24;
+Zolemba za zochita 17:13; 18:49
+- okhulupirira amalandira zolemba zawo ndi dzanja lawo lamanja 69:19-24; 84:7-9
+- osakhulupirira amalandira zolemba zawo ndi dzanja lawo lamanzere 69:25-37; 84:10-15
+- palibe chomwe chidzabisika kwa Allah 21:47; 40:16
+- kuyeza zochita 7:8; 23:102-104; 101:1-11
+- umboni wa ziwalo za thupi 41:19-24; 24:24
 - mphotho ya zabwino ndi zoipa 6:160; 27:89-90; 28:84
 Mitundu ya anthu
-- okhulupirira 18:107-108;
-- osakhulupirira 4:167-169;
-- onyenga 4:145; 57:13-15;
-- okhala m'Paradaiso, okhulupirira odziwika kwambiri 55:46-61; 56:10-26;
-- okhala m'Paradaiso, anthu achilungamo 55:62-78; 56:27-40;
-- okhala ku Gehena, anthu akumanzere 55:31-45; 56:41-56;
+- okhulupirira 18:107-108
+- osakhulupirira 4:167-169
+- onyenga 4:145; 57:13-15
+- okhala m'Paradaiso, okhulupirira odziwika kwambiri 55:46-61; 56:10-26
+- okhala m'Paradaiso, anthu achilungamo 55:62-78; 56:27-40
+- okhala ku Gehena, anthu akumanzere 55:31-45; 56:41-56
 - anthu okwera mapiri 7:46-49
 Zachuma
-- Malangizo a bizinesi 2:188; 2:275; 2:282-283; 4:29; 4:58; 6:152; 17:34-35;
-24:36-37; 26:182; 30:39; 55:7-9; 62:9
-- Zopereka, zopereka zomwe sizingasankhidwe kwa osakhala olowa m'malo 2:180-183; 4:11-12;
+- Malangizo a bizinesi 2:188; 2:275; 2:282-283; 4:29; 4:58; 6:152; 17:34-35; 24:36-37; 26:182; 30:39; 55:7-9; 62:9
+- Zopereka, zopereka zomwe sizingasankhidwe kwa osakhala olowa m'malo 2:180-183; 4:11-12
 asanamwalire ali paulendo 5:106-108
 - Ziphuphu 2:188
-- Ngongole, kukoma mtima posonkhanitsa ngongole 2:280;
-- kulemba ndi kuchitira umboni pangano la ngongole 2:282;
+- Ngongole, kukoma mtima posonkhanitsa ngongole 2:280
+- kulemba ndi kuchitira umboni pangano la ngongole 2:282
 - kutenga chikole 2:283
-- Cholowa, malangizo 4:7; 4:32-33; 8:75;
-- magawo a ana ndi makolo 4:11;
-- akazi ndi abale ndi alongo a amayi 4:12;
-- abale ndi alongo onse 4:176;
+- Cholowa, malangizo 4:7; 4:32-33; 8:75
+- magawo a ana ndi makolo 4:11
+- akazi ndi abale ndi alongo a amayi 4:12
+- abale ndi alongo onse 4:176
 - chenjezo kwa iwo amene satsatira 4:13-14
-- Chiwongola dzanja, kuletsa ndi chenjezo 2:275-281; 3:130-132;
+- Chiwongola dzanja, kuletsa ndi chenjezo 2:275-281; 3:130-132
 - yopanda phindu 30:39
 Zamalamulo
 - lamulo lachiwembu (hiraba) 5:33-34
-- Chilungamo, kuimirira chilungamo 4:135; 5:8; 16:90-91;
-- kuyimira ufulu wa ana amasiye ndi akazi 4:127;
-- chilungamo kwa Myuda 4:105-112;
-- chilungamo kwa munthu wachikunja 4:58;
+- Chilungamo, kuimirira chilungamo 4:135; 5:8; 16:90-91
+- kuyimira ufulu wa ana amasiye ndi akazi 4:127
+- chilungamo kwa Myuda 4:105-112
+- chilungamo kwa munthu wachikunja 4:58
 - chilungamo ndi anthu osakhala Asilamu 60:8-9
 - Kubwezera kudzera mu njira zovomerezeka (ndi mwayi wokhululukira) 2:178-179; 5:45; 16:126; 17:33; 42:37-43
-- Kulekana pakati pa mwamuna ndi mkazi, khul' 2:229;
+- Kulekana pakati pa mwamuna ndi mkazi, khul' 2:229
 - lian (kuimbidwa mlandu wa chigololo) 24:6-10
 Ndale
 - Kukonza zinthu mwa kufunsana (shura) 3:159; 42:38
-- Kumenyana podziteteza (jihad), makhalidwe abwino 2:190-192; 2:216; 22:38-40;
-- osaukira mosasamala 4:94;
-- kumenyera nkhondo amuna, akazi, ndi ana oponderezedwa 4:75;
-- kuteteza malo olambirira 22:37;
-- mphotho ya ophedwa chifukwa cha chikhulupiriro 2:154; 3:169-171; 9:111; 57:19;
-- mphamvu ya asilikali imaletsa adani omwe angakhalepo 8:60;
+- Kumenyana podziteteza (jihad), makhalidwe abwino 2:190-192; 2:216; 22:38-40
+- osaukira mosasamala 4:94
+- kumenyera nkhondo amuna, akazi, ndi ana oponderezedwa 4:75
+- kuteteza malo olambirira 22:37
+- mphotho ya ophedwa chifukwa cha chikhulupiriro 2:154; 3:169-171; 9:111; 57:19
+- mphamvu ya asilikali imaletsa adani omwe angakhalepo 8:60
 - kusankha mtendere 2:192; 8:61
 - Kukhazikitsa mtendere pakati pa magulu 49:9-10
 - Akaidi a nkhondo, chithandizo 8:70; 47:4; 76:8
 Zachikhalidwe
 - Kutengera Mwana 33:4-5
 - Kusamalira ana amasiye 2:220; 4:2-10; 4:127; 6:152; 17:34
-- Kusudzulana, kuweruza milandu ndi kuyanjananso 4:35; 4:128;
-- makhalidwe abwino a chisudzulo 2:229-231; 65:1-2;
-- nthawi yolipirira ukwati ndi nthawi yodikira 2:226-241; 4:19-21; 33:49; 65:1-7;
-- mwamuna asatenge chilichonse cha malowolo 4:20;
-- mkazi asavutitsidwe 65:6;
-- mkazi azithandizidwa pa nthawi ya mimba 65:6;
-- panthawi yake yodikira 65:6;
-- ngati akuyamwitsa mwana wa mwamuna wake wakale, 65:6;
-- palibe kholo lomwe liyenera kuvutika chifukwa cha mwana wake 2:233;
+- Kusudzulana, kuweruza milandu ndi kuyanjananso 4:35; 4:128
+- makhalidwe abwino a chisudzulo 2:229-231; 65:1-2
+- nthawi yolipirira ukwati ndi nthawi yodikira 2:226-241; 4:19-21; 33:49; 65:1-7
+- mwamuna asatenge chilichonse cha malowolo 4:20
+- mkazi asavutitsidwe 65:6
+- mkazi azithandizidwa pa nthawi ya mimba 65:6
+- panthawi yake yodikira 65:6
+- ngati akuyamwitsa mwana wa mwamuna wake wakale, 65:6
+- palibe kholo lomwe liyenera kuvutika chifukwa cha mwana wake 2:233
 - kusankha woyamwitsa 65:6
 - Kulimbikitsa zabwino ndi kuletsa zoipa 3:104; 3:110; 7:157; 9:71-72; 31:17
-- Kulingana kwa anthu 49:13;
-- amuna ndi akazi pamaso pa Allah ndi lamulo, 3:195; 4:124; 5:38; 16:97; 24:2; 40:40;
+- Kulingana kwa anthu 49:13
+- amuna ndi akazi pamaso pa Allah ndi lamulo, 3:195; 4:124; 5:38; 16:97; 24:2; 40:40
 - Amuna ali ndi udindo wapamwamba kuposa akazi 2:228
 - Kudyetsa osauka, ana amasiye, ndi akaidi 76:8-9
 - Kukhululuka ndi kuletsa mkwiyo 3:134; 42:40
 - Kumasula akapolo ndi kuwathandiza 4:92; 5:89; 9:60; 24:33; 58:3; 90:13
 - Kulemekeza makolo anu 4:36; 17:23-25; 31:14-15
 - Kudzichepetsa 17:37; 31:18-19
-- Kutanthauzira maloto a Abrahamu 37:102;
-- Kutanthauzira maloto a Yosefe 12:4; 12:36; 12:43;
+- Kutanthauzira maloto a Abrahamu 37:102
+- Kutanthauzira maloto a Yosefe 12:4; 12:36; 12:43
 - Kutanthauzira maloto a Muhammad 8:43; 48:27
 - Kukoma mtima kwa anthu osakhala Asilamu 60:8
-- Ukwati 4:3; 4:129; 16:72; 30:21;
-- akazi ovomerezeka ndi osaloledwa kukwatiwa 4:22-24;
-- makhalidwe abwino a ubwenzi 2:222-223;
-- mimba ndi kuyamwitsa 2:233; 31:4; 46:15; 65:6;
-- kukwatiranso mkazi wakale wa munthu 2:230;
-- kuthandiza anthu osakwatira kukwatira 24:32;
+- Ukwati 4:3; 4:129; 16:72; 30:21
+- akazi ovomerezeka ndi osaloledwa kukwatiwa 4:22-24
+- makhalidwe abwino a ubwenzi 2:222-223
+- mimba ndi kuyamwitsa 2:233; 31:4; 46:15; 65:6
+- kukwatiranso mkazi wakale wa munthu 2:230
+- kuthandiza anthu osakwatira kukwatira 24:32
 - kusonyeza chidwi pang'ono panthawi yodikira 2:235
-- Malumbiro 2:224-225; 16:91-92; 16:94;
+- Malumbiro 2:224-225; 16:91-92; 16:94
 - kubwezera lumbiro losweka 5:89
 - Kuleza mtima nthawi zovuta 2:45; 2:153-157; 3:186; 12:18; 12:83; 16:127-128; 70:5
-- Chilolezo chobwera nthawi ya 24:58-60;
-- kulowa m'nyumba za anthu 24:27-28;
+- Chilolezo chobwera nthawi ya 24:58-60
+- kulowa m'nyumba za anthu 24:27-28
 - kulowa m'malo opezeka anthu ambiri 24:29
-- Makhalidwe abwino a anthu, nkhani zotsimikizira 4:83; 49:6;
-- ulemu kwa onse 49:11-12;
-- makhalidwe abwino a misonkhano 58:11;
+- Makhalidwe abwino a anthu, nkhani zotsimikizira 4:83; 49:6
+- ulemu kwa onse 49:11-12
+- makhalidwe abwino a misonkhano 58:11
 - nkhani zachinsinsi 4:114; 58:9
 - Malumbiro 2:270; 9:75-77; 22:29; 76:7
 - Kutaya ndalama ndi kusafuna zinthu 7:31; 17:29; 25:67
 Nkhani zina
-- Abele ndi Kaini 5:27-31;
-- Al-Khadir ndi Mose 18:60-82;
-- Gulu la Asilikali a Njovu 105:1-4;
-- wokhulupirira wochokera mwa anthu a Farao 40:28-46;
-- kubadwa kwa Mariya 3:35-36;
-- Ng'ombe ya Ana a Israeli 2:67-74;
-- Ezara 2:259;
+- Abele ndi Kaini 5:27-31
+- Al-Khadir ndi Mose 18:60-82
+- Gulu la Asilikali a Njovu 105:1-4
+- wokhulupirira wochokera mwa anthu a Farao 40:28-46
+- kubadwa kwa Mariya 3:35-36
+- Ng'ombe ya Ana a Israeli 2:67-74
+- Ezara 2:259
 - eni minda 68:17-32
 - Harut ndi Marut 2:102
 - Kora 28:76-82
-- Uphungu wa Luqman kwa mwana wake 31:12-19;
-- mwini minda iwiri 18:32-44;
-- anthu a ku Sheba 34:15-19;
-- anthu a m'phanga 18:9-26;
-- anthu a m’ngalande 85:1-8;
-- Oswa Sabata 7:163-165;
-- Samiri ndi Mwana wa Ng'ombe Wagolide 20:83-97;
-- Sauli ndi Samueli 2:247-251;
+- Uphungu wa Luqman kwa mwana wake 31:12-19
+- mwini minda iwiri 18:32-44
+- anthu a ku Sheba 34:15-19
+- anthu a m'phanga 18:9-26
+- anthu a m’ngalande 85:1-8
+- Oswa Sabata 7:163-165
+- Samiri ndi Mwana wa Ng'ombe Wagolide 20:83-97
+- Sauli ndi Samueli 2:247-251
 - Zul-Qarnain 18:83-98
-Ziwanda 2:102; 6:71; 6:112; 6:121; 7:27; 7:30; 17:27; 19:68; 19:83; 22:3-4; 23:97-98; 26:210; 37:7-10; 38:37-38; 67:5;
-- anthu ndi ziwanda 6:112;114:6;
+Ziwanda 2:102; 6:71; 6:112; 6:121; 7:27; 7:30; 17:27; 19:68; 19:83; 22:3-4; 23:97-98; 26:210; 37:7-10; 38:37-38; 67:5
+- anthu ndi ziwanda 6:112;114:6
 - Kumwamba kuli kotetezedwa ku ziwanda 15:16-18
 Zodandaula
-- osatsatira Mneneri 25:27;
-- kusamvera Allah ndi Mtumiki Wake 4:41-42; 33:64-68;
-- kutenga mabwenzi oipa 25:28-29; 26:96-102; 43:36-39;
-- kukana zizindikiro za Allah 6:27-30;
+- osatsatira Mneneri 25:27
+- kusamvera Allah ndi Mtumiki Wake 4:41-42; 33:64-68
+- kutenga mabwenzi oipa 25:28-29; 26:96-102; 43:36-39
+- kukana zizindikiro za Allah 6:27-30
 - osagwira ntchito ya Tsiku Lomaliza 89:23-24
 Mapempho osowa
-- kupempha kuti abwerere ku dziko lapansi 2:167; 6:27-28; 32:12-14; 42:44;
-- kuti mupeze mwayi wachiwiri 35:36-37;
-- kuchotsedwa mu Moto 40:10-12;
-- chakudya ndi madzi 7:51-52;
-- kwa opempherera 7:52-53;
-- kutsanulidwa kukhala fumbi 4:41-42; 78:40;
+- kupempha kuti abwerere ku dziko lapansi 2:167; 6:27-28; 32:12-14; 42:44
+- kuti mupeze mwayi wachiwiri 35:36-37
+- kuchotsedwa mu Moto 40:10-12
+- chakudya ndi madzi 7:51-52
+- kwa opempherera 7:52-53
+- kutsanulidwa kukhala fumbi 4:41-42; 78:40
 - chifukwa cha imfa 43:74-78
 Makhalidwe a olungama
 - Kusunga ufulu wa Mlengi ndi chilengedwe chake 3:133-136; 4:36; 4:69-70; 6:151-154; 8:2-4; 13:19-24; 17:23-39;18:107-108; 23:1-11; 25:63-76; 42:36-43
 Makhalidwe a oipa
-- osayamika 14:34;
-- wonyinyirika 17:100;
-- mwachangu 21:37;
-- kumbukirani Mulungu nthawi zovuta zokha 10:12; 41:51;
-- wosaleza mtima 70:19;
+- osayamika 14:34
+- wonyinyirika 17:100
+- mwachangu 21:37
+- kumbukirani Mulungu nthawi zovuta zokha 10:12; 41:51
+- wosaleza mtima 70:19
 - wokangana 18:54
 Machimo Aakulu
 - Kulambira Mulungu ndi ena (shirk) 4:48; 4:116; 5:72; 6:19; 31:13:
-- kuzunza makolo anu 4:36; 6:151; 17:23;
-- kunyalanyaza kapena kusiya mapemphero okakamiza 19:59-60;
-- osapereka msonkho wa zachifundo 41:6-7;
-- kupha munthu 6:151; 17:33;
-- kupha wokhulupirira mwadala 4:93;
-- kuba 5:38;
-- chinyengo 7:85; 11:85; 26:182-183; 83:1-6;
-- kunama 2:10; 9:77; 39:60;
-- kunama za Allah 6:93; 29:68; 61:7;
+- kuzunza makolo anu 4:36; 6:151; 17:23
+- kunyalanyaza kapena kusiya mapemphero okakamiza 19:59-60
+- osapereka msonkho wa zachifundo 41:6-7
+- kupha munthu 6:151; 17:33
+- kupha wokhulupirira mwadala 4:93
+- kuba 5:38
+- chinyengo 7:85; 11:85; 26:182-183; 83:1-6
+- kunama 2:10; 9:77; 39:60
+- kunama za Allah 6:93; 29:68; 61:7
 - kugonana koletsedwa 2:222; 17:32; 24:2; 25:68; 29:28-30
-- milandu yabodza ya chigololo 24:4-5;
-- mpatuko 2:217; 5:54;
-- kudya nkhumba ndi zakudya zina zoletsedwa (zovunda, magazi, ndi zina zotero) 5:3; 6:145;
-- mowa ndi kutchova juga 5:90-91;
-- kunyoza 49:11;
-- umboni wabodza 22:30;
+- milandu yabodza ya chigololo 24:4-5
+- mpatuko 2:217; 5:54
+- kudya nkhumba ndi zakudya zina zoletsedwa (zovunda, magazi, ndi zina zotero) 5:3; 6:145
+- mowa ndi kutchova juga 5:90-91
+- kunyoza 49:11
+- umboni wabodza 22:30
 - matsenga 2:102; 10:77; 20:69
 """;

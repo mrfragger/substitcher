@@ -5,18 +5,18 @@ Mimọ (Wudu), 4:43; 5:6
 Ibraaheem (Ibrahim) S.14; 2:135-136, 148; 3:33, 84, 95; 4:54, 125, 163; 6:161; 9:70, 114; 12:6, 38; 16:120; 19:58; 21:51, 60, 62, 69; 22:43, 78; 26:69; 29:31; 33:7; 37:83, 104, 109; 38:45; 42:13; 43:26; 51:24; 53:37; 57:26; 60:4; 87:19
 - kò jẹ́ Júù tàbí Kristẹni, 3:67-68
 - dúró nínú tẹ́ńpìlì àkọ́kọ́ ní Bakkah, 3:97; 26:123
-- gbé ìpìlẹ̀ Ka'bah kalẹ̀ 2:124-129;
-- pè àwọn ènìyàn rẹ̀ sí ìjọsìn Ọlọ́run Òótọ́ Kan 2:130-133; 26:69-89; 29:16; 29:24-27;
-- jiyàn pẹ̀lú ọba alágbéraga 2:258,
-- béèrè nípa àjíǹde 2:260;
-- kò jẹ́ Júù tàbí Kristẹni 3:65-68;
-- tako ìjọsìn ìràwọ̀ 6:74-87;
-- gbọ́ ìròyìn ìbí Isaaki 11:69-76; 51:24-30;
-- àdúrà rẹ̀ ní Ka'bah 14:35-41;
-- àwọn angẹli ṣèbẹ̀wò rẹ̀ 15:51-56;
-- àpẹẹrẹ ìgbésí ayé rere 16:123;
-- pè baba rẹ̀ sí òtítọ́ 19:41-50;
-- fọ́ àwọn ère ìbọ̀ tí a sì gbàla rẹ̀ nínú iná 21:51-73; 37:83-113;
+- gbé ìpìlẹ̀ Ka'bah kalẹ̀ 2:124-129
+- pè àwọn ènìyàn rẹ̀ sí ìjọsìn Ọlọ́run Òótọ́ Kan 2:130-133; 26:69-89; 29:16; 29:24-27
+- jiyàn pẹ̀lú ọba alágbéraga 2:258
+- béèrè nípa àjíǹde 2:260
+- kò jẹ́ Júù tàbí Kristẹni 3:65-68
+- tako ìjọsìn ìràwọ̀ 6:74-87
+- gbọ́ ìròyìn ìbí Isaaki 11:69-76; 51:24-30
+- àdúrà rẹ̀ ní Ka'bah 14:35-41
+- àwọn angẹli ṣèbẹ̀wò rẹ̀ 15:51-56
+- àpẹẹrẹ ìgbésí ayé rere 16:123
+- pè baba rẹ̀ sí òtítọ́ 19:41-50
+- fọ́ àwọn ère ìbọ̀ tí a sì gbàla rẹ̀ nínú iná 21:51-73; 37:83-113
 - pè gbogbo ènìyàn sí ìrìn àjò mímọ́ 22:26
 Abrar, 3:193, 198; 76:5; 82:13; 83:18-22
 Ìfagbéjáde, 2:106, 16:101
@@ -26,11 +26,10 @@ Adamu, 3:33, 59; 5:27; 7:26-27, 31, 35, 172; 17:70; 19:58; 36:60
 - àwọn angẹli kọ́ pẹlẹ́ sí i, 2:34; 7:11
 - igi ìmọ̀, 2:35; 7:19-20; 20:120-121
 - ìlepa kúrò ní Ọgbà Ẹdẹni (láì fi ẹ̀bi bá Efa), 2:36; 7:24
-- Allàh bọ̀wọ̀ fún un, Sátánì dán an wò 2:30-38; 7:11-25; 17:61-65; 18:50; 20:115-123; 38:71-85;
+- Allàh bọ̀wọ̀ fún un, Sátánì dán an wò 2:30-38; 7:11-25; 17:61-65; 18:50; 20:115-123; 38:71-85
 - Allàh darí jì í 2:37; 20:122
 'Adiyat, S.100
-Àárọ̀ Ọ̀run Ẹdẹni ('Adn), 9:72; 13:23; 16:31; 18:31;
-19:61; 20:76; 35:33; 38:50; 40:8; 61:12; 98:8
+Àárọ̀ Ọ̀run Ẹdẹni ('Adn), 9:72; 13:23; 16:31; 18:31;19:61; 20:76; 35:33; 38:50; 40:8; 61:12; 98:8
 Ìpọ́njú
 - kò ní rù irù ẹni mìíràn, 6:164; 17:15; 35:18; 39:7; 53:38
 - kò ní rù ẹrù tó jù agbára rẹ̀ lọ, 2:286; 6:152; 7:42; 23:62
@@ -113,7 +112,7 @@ Amanah, Ìgbẹ́kẹ̀lé àti àwọn ojúṣe Allàh tí ó yàn, 2:283; 4:58
 Àwọn aláìgbàgbọ́,47:25
 A'raf, S.7; 7:46, 48
 Arafat, 2:198
-Jiyàn,
+Jiyàn
 - má ṣe dáàbòbò àwọn tó ń tan ara wọn jẹ, 4:107
 - o jiyàn fún wọn ní ayé yìí, ṣùgbọ́n tani yóò ṣe bẹ́ẹ̀ ní Ọjọ́ Àjíǹde, 4:109
 Àríyànjiyàn/Ìkọlù
@@ -123,7 +122,7 @@ Ihamọ-ara, 16:81
 'Asr, S.103
 Ayat Al-Kursi, 2:255
 Alátagbàsọ̀rọ̀, 49:12; 104:1
-Ogun Badr, 3:13,
+Ogun Badr, 3:13
 - àwọn ẹ̀kọ́ láti ọ̀dọ̀ rẹ̀, 8:5-19, 42-48
 Al-Bait-ul-Ma'mur, 52:4
 Bakkah (Makkah), 3:96
@@ -133,7 +132,7 @@ Balad, S.90
 Banu An-Nadir, 59:2-6, 13
 Baqarah, S.2
 Bara'a (Wo Taubah), S.9
-Barzakh,(Ìdènà), 23:100; 25:53; 55:20;
+Barzakh,(Ìdènà), 23:100; 25:53; 55:20
 - wo pẹ̀lú 18:94-97; 34:54; 36:9
 Baiyinah, S.98
 Ẹranko (ti Àwọn Ọjọ́ Ìkẹhìn), 27:82
@@ -182,7 +181,7 @@ Bíbélì, 5:64, 5:65, 5:68
 - ìdàrúdàpọ̀ rẹ̀, 3:78; 5:14-15
 Àwọn Ẹyẹ, 2:260; 3:49; 5:110; 6:38; 12:36, 41; 16:79; 21:79; 22:31; 24:41; 27:16-17, 20; 34:10; 38:19; 56:21; 67:19; 105:3
 Owó-ẹ̀jẹ̀ (Diya), 2:178-179; 4:92; 17:33
-Ohun ogun, 4:94. 8:41; 59:6-8;
+Ohun ogun, 4:94. 8:41; 59:6-8
 - gbígba lọ́nà ìkà, 3:162
 - wo ohun ọdẹ
 Ẹ̀ràbàwọ̀, 2:188
@@ -220,7 +219,7 @@ Aṣọ, 7:26; 16:81
 - aṣọ ita obìnrin ṣe àlàáfíà kúrò lọ́wọ́ ìdọ̀ti àwọn àgàbàgebè, 33:59-60
 Àwọn ọmọ ogun àjọṣepọ̀, 33:9, 22
 - wo Ahzab Ìfọ̀kànbalẹ̀ apapọ̀, 42:38
-Ìṣẹ̀dá,
+Ìṣẹ̀dá
 - bẹ̀rẹ̀ tí a sì tún ṣe, 10:4; 21:104; 27:64; 29:19-20
 - tuntun, 17:49, 98; 35:16
 - pẹ̀lú òtítọ́, 15:85; 16:3; 29:44; 39:5; 44:39;45:22; 46:3
@@ -240,12 +239,12 @@ Aṣọ, 7:26; 16:81
 Ìyàtọ̀, 2:53, 185; 3:4; 8:29, 41; 21:48; 25:1
 Dahr, (wo Insan,) S.76; 45:24
 - àkókò, 76:1; 103:1
-Dàùdù, 5:78; 6:84; 17:55; 34:10, 13; 38:17-30;
+Dàùdù, 5:78; 6:84; 17:55; 34:10, 13; 38:17-30
 - a fún ni Psalmu 4:163
 - jagun tó sì pa Goliatu, 2:251
-- kọjá ìdájọ́ 21:78-80;
-- a bùṣe fún un pẹ̀lú ìmọ̀ àti àṣeyọrí ìjọsìn 27:15-16;
-- àwọn òkè àti ẹyẹ dara pọ̀ mọ́ ọn lati yin iyin Allàh 34:10; 38:17-20;
+- kọjá ìdájọ́ 21:78-80
+- a bùṣe fún un pẹ̀lú ìmọ̀ àti àṣeyọrí ìjọsìn 27:15-16
+- àwọn òkè àti ẹyẹ dara pọ̀ mọ́ ọn lati yin iyin Allàh 34:10; 38:17-20
 - dájọ́ láàárín àwọn ènìyàn méjì 38:21-26
 Dawabb tàbí Dabbah (ẹ̀dá alààyè tó ń gbéra, abbl.) 2:164; 6:38; 8:22, 55; 11:6, 56; 16:49, 61; 22:18; 24:45; 27:82; 29:60;31:10; 34:14; 35:28, 45; 42:29; 45:4
 Àwọn òkú ni a óò jí dậy, 6:36
@@ -255,17 +254,17 @@ Ikú, 3:185; 3:193; 4:78; 6:61; 6:93; 21:35; 23:99-108; 31:34; 32:11; 33:19; 33:
 - àwọn àwùjọ tí kò ní ìfihàn kò ní run, 6:131; 9:115; 10:47; 11:117; 15:4; 16:119; 17:15; 28:59
 - àwọn tí a pa nínú ọ̀nà Allàh wà láàyè, 2:154; 3:169
 - nígbà tó ń sálọ kúrò lọ́wọ́ ibi sí Allàh, 4:100
-- a kò lè dáwọ́ dúró tàbí ì fá sẹ́yìn 63:10-11;
-- ẹ̀gbọ́n àbúrò isinmi 6:60; 39:42;
-- àwọn onígbàgbọ́ àti aláìgbàgbọ́ nígbà ikú 8:50; 16:27-32; 41:30;
+- a kò lè dáwọ́ dúró tàbí ì fá sẹ́yìn 63:10-11
+- ẹ̀gbọ́n àbúrò isinmi 6:60; 39:42
+- àwọn onígbàgbọ́ àti aláìgbàgbọ́ nígbà ikú 8:50; 16:27-32; 41:30
 - ìjìyà nínú ibojì 40:46
 Àwọn gbèsè, 2:280, 282; 4:11-12
-Ìpinnu,
+Ìpinnu
 - fún ọ̀rọ̀ kọ̀ọ̀kan, àti gbogbo ọ̀rọ̀, àwọn wà, 13:38
 - a kò ti run ìlú kankan àyàfi tí àwọn wà tí a mọ̀ fún rẹ̀, 15:4
 - ti ọ̀rọ̀ gbogbo wá láti Ọ̀dọ̀ Allàh, 44:5
 - nígbàtí Ó bá ṣe ìpinnu nípa ọ̀rọ̀ kan, Ó sọ pé nìkan,"Jẹ́!" — ó sì jẹ́, 2:117; 36:82; 40:68
-Àwọn iṣe,
+Àwọn iṣe
 - búburú, a ṣe àwọn rere fún wọn, 47:14
 - tiwa ni tiwa, tirẹ ni tirẹ, 28:55; 42:15; 45:15
 - rere àti búburú, wà fún àti lòdì sí ẹni ara rẹ̀, 41:46
@@ -279,7 +278,7 @@ Dhariyat, S.51
 Dhikr, 7:205; 15:6, 9
 Dhul-Kifi, 21:85; 38:48
 Dhul-Qarain, 18:83-98
-Dhun-Nun (Alábàásọ Ẹja),
+Dhun-Nun (Alábàásọ Ẹja)
 Àwọn aláìgbàgbọ́ (wo pẹ̀lú Àwọn àgàbàgebè)
 - béèrè lọ́wọ́ Muhammad ( ﷺ ) láti pè ìbínú Allàh sórí wọn gẹ́gẹ́ bí ẹrí, 6:57-58; 8:32; 10:49-52
 - rù àjọṣepọ̀ wọn pẹ̀lú ìfẹ́, 31:15
@@ -304,7 +303,7 @@ Pínpín ohun ogun ogun, 8:41; 59:7-8
 Oríṣiríṣi
 - ti ènìyàn, 30:22, 35:27-28
 - ti ìyè, 35:27-28
-Ìkọ̀silẹ̀, 2:228-232, 236-237, 241; 4:35, 130; 65:1-7;
+Ìkọ̀silẹ̀, 2:228-232, 236-237, 241; 4:35, 130; 65:1-7
 - lẹ́yìn àkókò ìdúró, yà tàbí bá ara pọ̀, 2:231; 65:2
 - àwọn ẹlẹ́rí méjì, 65:2
 - owó ìtọ́jú, 2:233, 241
@@ -340,7 +339,7 @@ Oríṣiríṣi
 - àyàfi tí ìgbéyàwó kò bá ti pé, 33:49
 Àwọn ajá, 7:176
 Àwọn kẹ́tẹ́kẹ́tẹ́ (Kẹ́tẹ́kẹ́tẹ́), 2:259; 16:8; 31:19; 62:5; 74:50
-Ohun mímu,
+Ohun mímu
 - ọtí, 2:219; 5:90
 - mímọ́ àti funfun tó dára, 37:45-46; 76:21
 - waini mímọ́ tí a fi edidi, 83:25
@@ -363,13 +362,13 @@ Ibi, 4:123; 10:27-30; 19:83; 59:15
 - yí padà, fún rere, 7:95
 - àwọn tó ń tẹ̀lé ìfẹ́ búburú wọn, 47:14, 16
 - àwọn iṣe tí a ṣe àwọn rere fún wọn, 47:14
-Àpọ̀jù,
+Àpọ̀jù
 - a kọ nínú oúnjẹ, 5:87
 - nínú ẹ̀sìn, 4:171; 5:77-81
 Àwọn ojú, etí àti awọ ara yóò jẹ́rìí lòdì sí àwọn ẹlẹ̀ṣẹ̀, 41:20-23
 Ezra, (Uzair) 9:30
 Ojú tàbí Ìrísí Allàh, 2:115, 272; 6:52; 13:22; 18:28; 28:88; 30:38-39; 55:27; 76:9; 92:20
-Ìfahàn deedee,
+Ìfahàn deedee
 - Allàh ti mú ohun tí àwùjọ kọ̀ọ̀kan ń ṣe dára fún wọn, 6:108
 Ìgbàgbọ́ (Ìgbàgbọ́), 2:108; 3:167, 177, 193; 5:5; 9:23; 16:106; 30:56; 40:10; 42:52; 49:7, 11, 14; 52:21; 58:22; 59:9-10
 - àwọn tó kọ, 3:116
@@ -379,7 +378,7 @@ Ojú tàbí Ìrísí Allàh, 2:115, 272; 6:52; 13:22; 18:28; 28:88; 30:38-39; 55
 Fajr, S.89
 Falaq, S.113
 Ìjíròrò ìké nípa Àwọn Ẹsẹ Qur'an, 6:68
-Àwọn ọlọ́run ìké,
+Àwọn ọlọ́run ìké
 - yàtọ̀ sí Allàh, àwọn ere ìbọ̀ àti àwọn alábàásọ tí a pè, 7:194-198; 16:20-21, 72, 86; 21:22, 24; 34:22, 27; 41:47-48; 46:5-6; 53:19-24; 71:23-24
 - má ṣe ẹ̀gàn àwọn tí wọn ń jọsìn yàtọ̀ sí Allàh, 6:108
 - wo pẹ̀lú Taghut
@@ -394,7 +393,7 @@ Fidyah (ìràpadà), ti àwàwí, 2:196
 - fún ìdásíláàyè àwọn ẹlẹ́wọ̀n, 8:67
 - ìràpadà tí àwọn aláìgbàgbọ́ pèsè, 3:91; 5:36,37; 10:54; 13:18
 Ọ̀pọ̀tọ̀, 95:1
-Ogun,
+Ogun
 - nínú ọ̀nà Allàh, lòdì sí àwọn aláìgbàgbọ́, 2:190-193, 244; 4:84, 95; 8:72, 74, 75; 9:12-16, 20, 24, 36, 123; 47:4; 61:11
 - a paṣẹ, 2:216
 - nínú àwọn oṣù mímọ́, 2:217; 9:5
@@ -410,7 +409,7 @@ Fil, S.105
 Firdaus Ọ̀run Ẹdẹni, 18:107; 23:11
 Iná, 56:71, 100:2
 Eṣinṣin, 22:73
-Oúnjẹ,
+Oúnjẹ
 - tí a gbà àti tí a kọ̀, (Halal àti Haram), 2:168, 172, 173; 5:1, 3-5, 88; 6:118-119, 121, 145-146; 16:114-118; 23:51
 - kò sí ẹ̀ṣẹ̀ fún ohun tí wọn jẹ nígbà tẹ́lẹ̀, 5:93
 - má ṣe kọjá, 5:87
@@ -432,7 +431,7 @@ Oúnjẹ,
 - yára sáré pẹ̀lú ẹlòmíràn sí, 57:21
 - àwọn iṣe búburú yí padà sí rere 25:68-71
 Ẹ̀tàn, (wo Jìbìtì) 83:1-6
-Ìfẹ̀ ominira,
+Ìfẹ̀ ominira
 - Allàh fi iye rẹ̀ pín, 6:107; 10:99; 74:56;76:31; 81:28-29
 - ẹnikẹni tó bá fẹ́, jẹ́ kí ó: gbàgbọ́ tàbí kọ̀, 18:29
 - mú ọ̀nà sí Olúwa rẹ̀, 76:29
@@ -466,14 +465,14 @@ Rere (Àwọn Ọjọ́), 3:140
 - Allàh sanpada àwọn tó ń ṣe rere pẹ̀lú ohun tó dára jùlọ, 53:31
 - ṣé àánú kankan wà fún rere, yàtọ̀ sí rere, 55:60
 - ṣe rere, bí Allàh ṣe dára sí ọ, 28:77
-Rere àti Ibi,
+Rere àti Ibi
 - rere wá láti Allàh àti ibi wá láti ọ̀dọ̀ ara rẹ̀, 4:79
 - tí o bá ṣe rere, fún ara rẹ̀ fúnra rẹ̀ àti tí o bá ṣe ibi, lòdì sí ara rẹ̀, 17:7; 41:46
 - tako ibi pẹ̀lú rere, 23:96; 28:54; 41:34
 - rere àti ibi kò lè dọ́gba, 41:34
 - ẹnìkẹ́ni yóò dojú kọ gbogbo rere àti ibi tí ó ti ṣe, 3:30
 - wo pẹ̀lú Muhsinun
-Iṣe rere,
+Iṣe rere
 - ṣí i tàbí pa á mọ́, 4:149
 - jàákúmọ̀ bí ẹni tó ń sáré nínú, 5:48
 Ihinrere, 3:3, 48, 65; 5:46-47, 66, 68, 110;7:157; 9:111; 48:29; 57:27
@@ -490,7 +489,7 @@ Haggah, S.69
 Harun, (Arun)
 Harut, 2:102
 Hashr, S.59
-Àwọn Ọkàn,
+Àwọn Ọkàn
 - le, 2:74; 22:53; 39:22; 57:16
 - tí a fi edidi, 7:100-101; 40:35; 47:16; 63:3
 - tí a bo, 17:46; 41:5
@@ -498,7 +497,7 @@ Hashr, S.59
 - tí ó pín, 59:14
 - tí a kún pẹ̀lú ẹ̀rù, 22:35
 - nínú èyí tí àìsàn wà, 2:10; 5:52; 8:49; 9:125; 22:53; 24:50; 33:12, 32, 60; 47:20, 29;74:31
-Àwọn Ọ̀run,
+Àwọn Ọ̀run
 - ohun tí a fi pamọ́ ti àwọn ọ̀run jẹ́ ti Allàh, 16:77
 - a kò dá fún eré, 21:16
 - àti ilẹ̀ àgbàyé wà papọ̀, 21:30
@@ -528,7 +527,7 @@ Hashr, S.59
 - ìbànújẹ́ tó ń jo àti òkùnkùn òtútù nínú, 38:57
 - ẹ̀wọ̀n tó gùn gò ọgójì cubit, 69:32
 - ìgbé ayé fún ìgbà tó ní ìpín, 78:23
-Ìgbà Tó Ń Bọ̀,
+Ìgbà Tó Ń Bọ̀
 - ilé dára ju nínú, 6:32; 7:169
 - ìparí tó ń bọ̀ nínú, 6:135
 - àwọn Zalimun kò ní jẹ́ aṣeyọrí (nínú), 6:135
@@ -545,7 +544,7 @@ Hijr (Àwọn Àpáta), 15:80-85
 Hijr, S.15
 Ìbálòpọ̀ onítara 26:165-166; 27:55; 29:28-29
 Àwọn ẹṣin, 16:8
-Wákàtí (Àkókò Ìkẹhìn),
+Wákàtí (Àkókò Ìkẹhìn)
 - ìmọ̀ rẹ̀ wà pẹ̀lú Allàh nìkan, 7:187; 31:34; 33:63; 41:47; 68:26; 79:42-46
 - lójijì ó wà sórí wọn, 6:31; 7:187;12:107; 43:66
 - wá sí ọ̀dọ̀ rẹ, 6:40; 12:107; 20:15; 34:3
@@ -554,9 +553,9 @@ Wákàtí (Àkókò Ìkẹhìn),
 - ìmìtìtì ilẹ̀ rẹ̀, 22:1
 - a óò fi ìdí múlẹ̀ ní Ọjọ́, 30:12, 14
 - dájúdájú n bọ̀, kò sí iyèméjì, 40:59;45:32; 51:5-6
-- àwọn àmì 21:96; 27:82; 43:61; 47:18; 54:1-2;
-- àwọn orúkọ 1:3; 2:4; 3:55; 19:39; 30:56; 37:21; 40:15; 41:47; 42:7; 50:20; 56:1; 64:9; 69:1; 79:34; 80:33; 88:1; 101:1-3;
-- yóò mú àwọn ènìyàn lọjijì 6:31; 7:187;
+- àwọn àmì 21:96; 27:82; 43:61; 47:18; 54:1-2
+- àwọn orúkọ 1:3; 2:4; 3:55; 19:39; 30:56; 37:21; 40:15; 41:47; 42:7; 50:20; 56:1; 64:9; 69:1; 79:34; 80:33; 88:1; 101:1-3
+- yóò mú àwọn ènìyàn lọjijì 6:31; 7:187
 - Ìbẹ̀rẹ̀pẹ̀lú yóò fún 6:73; 23:101; 39:68
 Àwọn ilé, àwọn ìwà nípa títẹ, 24:27-29
 Hud, 7:65-72; 11:50-60; 26:123-140; 46:21-26
@@ -565,7 +564,7 @@ Hujurat, S.49
 Humazah, S.104
 Ogun Hunain, 9:25
 Hur (àwọn obìnrin nínú Ọ̀run Ẹdẹni), 44:54; 52:20
-Àwọn Àgàbàgebè,
+Àwọn Àgàbàgebè
 - wí pé: a gbàgbọ́ nínú Allàh àti Ọjọ́ Ìkẹhìn, ṣùgbọ́n ní òtítọ́ kò gbàgbọ́, 2:8
 - tan ara wọn jẹ, 2:9
 - àìsàn nínú ọkàn wọn, 2:10; 8:49; 22:53;33:12; 47:29
@@ -609,8 +608,8 @@ Ilah, Ọ̀kan nìkan, 2:163; 6:19; 16:22, 51; 23:91; 37:4; 38:65
 Ìbálòpọ̀ àìtọ́; ẹ̀rí àwọn ẹlẹ́rì, 4:15-18; 24:2, 19
 Illiyyun, 83:18-21
 Àìmọ́ (Najas) 9:28
-'Imran,
-- ìyàwó rẹ̀, 3:35;
+'Imran
+- ìyàwó rẹ̀, 3:35
 - ọmọbìnrin rẹ̀, 66:12
 Àìdásílọ̀, 69:1-3
 Infitar, S.82
@@ -629,7 +628,7 @@ Irin, 57:25
 'Isa, wo Jesu
 Isaaki, (Ishaq) 2:133; 4:163; 6:84; 19:49;21:72; 29:27; 37:112-113
 Ismaila (Isma'il), 2:125-129, 133; 4:163;6:86; 19:54-55; 21:85; 38:48
-gbé ìpìlẹ̀ Ka'bah kalẹ̀ pẹ̀lú baba rẹ̀ 2:125-140;
+gbé ìpìlẹ̀ Ka'bah kalẹ̀ pẹ̀lú baba rẹ̀ 2:125-140
 ìtàn ìrúbọ 37:100-113
 Islam, 3:19, 85; 5:3; 6:125; 39:22; 61:7
 - àkọ́kọ́ nínú àwọn tó tẹrí ba gẹ́gẹ́ bí Mùsùlùmí, 6:14,163; 39:12
@@ -658,8 +657,8 @@ Jakọbu, (Ya'qub) 2:132-133; 4:163; 6:84;12:18; 19:49; 21:72; 29:27
 Jalut, (wo Goliatu)
 Jamarat, 2:200
 Jathiyah, S.45
-Jesu, Isa ọmọ Mariamu,
-- màmá tí a yàn lórí gbogbo obìnrin ní àgbáyé 3:42;
+Jesu, Isa ọmọ Mariamu
+- màmá tí a yàn lórí gbogbo obìnrin ní àgbáyé 3:42
 - jẹ́rìí ní Ọjọ́ Àjíǹde, 4:159
 - ìròyìn rere ti ìbí, 3:45-47; 19:22-23
 - Òjíṣẹ́ sí Àwọn ọmọ Israẹli, 3:49-51
@@ -682,9 +681,9 @@ Jesu, Isa ọmọ Mariamu,
 - àwọn ìwòye tí ó yàtọ̀ nípa rẹ̀, 43:65
 - kò ju ẹrú àti àpẹẹrẹ fún Àwọn ọmọ Israẹli lọ, 43:59
 - ìròyìn rere ti Òjíṣẹ́ tí orúkọ rẹ̀ yóò jẹ́ Ahmad, 61:6
-- ìbí rẹ̀ láti ìbàlẹ̀ obìnrin, ìfọ̀rọ̀wánilẹ́nu àti àwọn àmì ìyanu 3:45-51; 19:16-38;
-- a rántí àwọn ojurere Allàh 5:110-115;
-- tako jíjẹ́ ọlọ́run 5:116-120;
+- ìbí rẹ̀ láti ìbàlẹ̀ obìnrin, ìfọ̀rọ̀wánilẹ́nu àti àwọn àmì ìyanu 3:45-51; 19:16-38
+- a rántí àwọn ojurere Allàh 5:110-115
+- tako jíjẹ́ ọlọ́run 5:116-120
 - àánú àti ore-ọ̀fẹ́ nínú ọkàn àwọn tó tẹ̀lé e 5:82; 57:27
 Àwọn Júù àti Kristẹni, 2:140; 4:153-161, 171; 5:18
 - tẹ́tí sí irọ́, 5:41-42
@@ -694,41 +693,41 @@ Jesu, Isa ọmọ Mariamu,
 Jibril, (wo Jibrilu)
 Jihad, (Ogun, Jàákúmọ̀) 2:216; 9:24; 22:78; 25:52
 Jinn, S.72
-Jinn, 6:100, 112; 15:27; 34:41; 38:37; 46:18,29; 55:33, 39;
-Jinn, a dá wọn láti iná 15:25; 55:15;
-- àwọn jinn onígbàgbọ́ àti aláìgbàgbọ́ 72:1-15;
+Jinn, 6:100, 112; 15:27; 34:41; 38:37; 46:18,29; 55:33, 39
+Jinn, a dá wọn láti iná 15:25; 55:15
+- àwọn jinn onígbàgbọ́ àti aláìgbàgbọ́ 72:1-15
 - àwọn kan gbàgbọ́ nínú ìfọ̀rọ̀wánilẹ́nu Qur'an 46:29-32
 - a dá ènìyàn àti jinn fún ète kan 51:56-58
 Jọbu, 4:163; 6:84; 21:83-84; 38:41-44
-Johanu, (Yahya, Johanu Baptisti),
+Johanu, (Yahya, Johanu Baptisti)
 - ìròyìn rere rẹ̀, 3:38-41; 19:7-11; 21:90
 - olódodo, 6:85
 - ọlọ́gbọ́n, olóore-ọfẹ́, olùgbọràn, 19:12-15
-Jonah (Jonas tàbí Yunus), 4:163; 6:86; 10:98;21:87; 37:139-148;
+Jonah (Jonas tàbí Yunus), 4:163; 6:86; 10:98;21:87; 37:139-148
 - (Dhu n-Nun) 21:87; 68:48-50
 Josefu (Yusuf), 6:84; 12:4-101
-- ìtàn tó dára jùlọ 12:1-3;
-- ìrólẹ̀ Yusuf ọdọ̀mọdé 12:4-6;
-- ìdìtẹ̀ àwọn ẹ̀gbọ́n rẹ̀ 12:7-18;
-- a ta gẹ́gẹ́ bí ẹrú 12:19-20;
+- ìtàn tó dára jùlọ 12:1-3
+- ìrólẹ̀ Yusuf ọdọ̀mọdé 12:4-6
+- ìdìtẹ̀ àwọn ẹ̀gbọ́n rẹ̀ 12:7-18
+- a ta gẹ́gẹ́ bí ẹrú 12:19-20
 - a gbe dìde nínú ilé Olórí Ìjọba Éjíbítì 12:21-22
-- ìyàwó Olórí Ìjọba gbìyànjú láti fi ara fún u 12:23-29;
-- ìṣẹlẹ àlejò oúnjẹ 12:30-32;
-- lọ sí ẹ̀wọ̀n 12:33-35;
-- àwọn ẹlẹ́wọ̀n méjì 12:36-42;
-- ìrólẹ̀ Ọba 12:43-53;
-- di Olórí Ìjọba 12:54-57;
-- àwọn ẹ̀gbọ́n wá sí ọ̀dọ̀ rẹ̀ fún àwọn ohun èlò 12:58-68;
-- mú ẹ̀gbọ́n rẹ̀ Benjaminu 12:69-82;
-- ìpadàbọ̀ ìbànújẹ́ baba rẹ̀ 12:83-87;
-- ṣàfihàn ìdánimọ̀ rẹ̀ 12:88-98;
-- ìrólẹ̀ àtijọ́ di òtítọ́ 12:99-100;
+- ìyàwó Olórí Ìjọba gbìyànjú láti fi ara fún u 12:23-29
+- ìṣẹlẹ àlejò oúnjẹ 12:30-32
+- lọ sí ẹ̀wọ̀n 12:33-35
+- àwọn ẹlẹ́wọ̀n méjì 12:36-42
+- ìrólẹ̀ Ọba 12:43-53
+- di Olórí Ìjọba 12:54-57
+- àwọn ẹ̀gbọ́n wá sí ọ̀dọ̀ rẹ̀ fún àwọn ohun èlò 12:58-68
+- mú ẹ̀gbọ́n rẹ̀ Benjaminu 12:69-82
+- ìpadàbọ̀ ìbànújẹ́ baba rẹ̀ 12:83-87
+- ṣàfihàn ìdánimọ̀ rẹ̀ 12:88-98
+- ìrólẹ̀ àtijọ́ di òtítọ́ 12:99-100
 - àdúrà ìparí 12:101
 Judi, Òkè, 11:44
 Jumu'ah, S.62
 Idálójú (Adl), 2:282; 4:58, 135; 7:29; 16:90; 57:25
 - wo pẹ̀lú 4:65, 105
-Ka'bah,
+Ka'bah
 - Ibraaheem kọ́, 2:125-127
 - kò sí ìpaniyan ẹran ọdẹ, 5:94-96
 - ibi àbò àlàáfíà, 5:97
@@ -740,17 +739,17 @@ Kahf, S.18
 Kanz, 9:34-35
 Kauthar (odò nínú Ọ̀run Ẹdẹni), 108:1
 Kauthar, S.108
-Àwọn Bọ́tìnnì,
+Àwọn Bọ́tìnnì
 ti àwọn ọ̀run àti ilẹ̀, 39:63; 42:12
 ti Ghaib, 6:59
 Khaulah bint Tha'labah, 58:1
-Pípa,
+Pípa
 - tí ẹnikẹni bá pa ènìyàn, ó pa gbogbo ènìyàn, 5:32
 - má ṣe pa ẹnikẹni, 17:33
 Àwọn ọ̀rọ̀ rere dára ju ìfọwọ́sọwọ́pọ̀ lọ, 2:263
 Ẹ̀tọ́ àwọn ìbátan, 2:83, 177, 215; 4:7-9, 36;8:41; 16:90; 17:26; 24:22; 29:8; 30:38; 42:23
 Kiraman-Ratibin, 82:11
-Ìmọ̀,
+Ìmọ̀
 - kò sí ewé tó ṣubú tí Kò mọ̀ rẹ̀, 6:59
 - wọn ti pàdánù àwọn tó ti pa àwọn ọmọ wọn láti ìwàkàwà, láìsí, 6:140
 - ti àwọn nǹkan márùn-ún, pẹ̀lú Allàh Nìkan, 31:34
@@ -760,14 +759,14 @@ Kursi, 2:255
 Lahab (Wo Masad), S.111
 Lail, S.92
 Fitilà, 25:61; 67:5; 71:16; 78:13
-Àwọn Èdè,
+Àwọn Èdè
 - ìyàtọ̀ nínú, àti àwọn awọ ara ènìyàn, 30:22
 Lat, 53:19
 Òfin tí a yàn, 5:48
 Àwọn òfin láti Allàh, 2:219; 98:3
 Àwọn ọ̀daràn, 26:221-223
 Ìyè, tí ẹnikẹni bá gbà ẹmi ènìyàn là, ó gbà ẹmi gbogbo ènìyàn là, 5:32
-Ìgbésí Ayé Yìí,
+Ìgbésí Ayé Yìí
 - ra, ní iye Ìgbà Tó Ń Bọ̀, 2:86
 - jẹ́ ìgbádùn ẹ̀tàn nìkan, 3:185
 - ta, fún Ìgbà Tó Ń Bọ̀, 4:74
@@ -779,7 +778,7 @@ Lat, 53:19
 - ẹnikẹni tó bá fẹ́, gba nínú rẹ̀; ṣùgbọ́n lẹ́yìn náà kò ní ìpín nínú Ìgbà Tó Ń Bọ̀, 11:15-16; 17:18; 42:20
 - àwọn tó fẹ́ràn ìgbà yìí, tí wọn sì gbàgbé Ìgbà Tó Ń Bọ̀, 75:20-21; 76:27
 - o fẹ́, 87:16
-Ìmọ́lẹ̀,
+Ìmọ́lẹ̀
 - farahàn, 4:174
 - àti òkùnkùn, 6:1
 - àwòrán rẹ̀, 24:35
@@ -794,7 +793,7 @@ Lat, 53:19
 - nígbàtí wọn kọjá àwọn ìdí (di edì), 7:166
 - àwọn tó ń ṣe àkíyèsí àwọn ìdí, 9:112
 Kìnnìún, 74:51
-Yánàn,
+Yánàn
 - yánàn fún Allàh yánàn rere, 2:245; 73:20
 - pọ̀ sí i lọ́pọlọpọ ìgbà, 57:11, 18
 - ilọ́po méjì, 64:17
@@ -812,7 +811,7 @@ Mahr (owó ìdowópọ̀), 2:229, 236-237; 4:4,19-21, 24-25; 5:5; 33:50; 60:10-1
 Ma'idah, S.5
 Makkah (Bakkah), 3:96;90:1-2
 - Ìlú Àbò, 95:3
-Ènìyàn,
+Ènìyàn
 - ìran lẹ́yìn ìran lórí ilẹ̀, 2:30;6:165
 - a sọ di arọmọdọmọ, 35:39
 - ojúṣe, 2:83-84, 88, 177; 4:1-36; 8:41; 16:90;17:23-39; 24:22; 29:8-9; 30:38;33:33;42:23; 64:14; 70:22-35
@@ -877,7 +876,7 @@ Makkah (Bakkah), 3:96;90:1-2
 - kọjá gbogbo ìdí, 96:6-7
 Manasik (àwọn ojúṣe) Hajj, 2:128, 200; 22:30
 Manat, 53:20
-Ẹ̀dá ènìyàn,
+Ẹ̀dá ènìyàn
 - àwọn ẹlẹ́rì lórí, 2:143
 - àwùjọ kan, 2:213; 10:19
 - a dá láti oríi kan, 4:1; 39:6; 49:13
@@ -887,7 +886,7 @@ Manat, 53:20
 - tó ni ọlá jùlọ nínú, 49:13
 - a ṣe sí àwọn orílẹ̀-èdè àti àwọn ẹyà, 49:13
 Manna àti àwọn Ẹyẹlé, 2:57
-Àwọn Ìwà,
+Àwọn Ìwà
 - nípa títẹ àwọn ilé, 24:27-29
 - nínú ilé, 24:58-61
 - nínú àwọn ilé Annabí, 33:53
@@ -910,7 +909,7 @@ Manna àti àwọn Ẹyẹlé, 2:57
 - àwọn tí kò ní àwọn ọ̀nà ìnáwó fún ìgbéyàwó, 24:33
 - àwọn ìyàwó tí a gbà fún Annabí, 33:50-52
 - ṣáájú ìbálòpọ̀, kò sí Iddah lórí ìkọ̀silẹ̀, 33:49
-Àwọn Olúṣàánú,
+Àwọn Olúṣàánú
 - kò kú, 2:154; 3:169
 - ní ayọ̀ nínú Ore àti Ẹbùn Allàh,3:170-171
 - gba ìdáríjì àti àánú, 3:157-158
@@ -930,7 +929,7 @@ Masad, S.111
 Maun, S.107
 Ma'wa Ọ̀run Ẹdẹni, 53:15
 Wíwọn àti ìwọ̀n, fún ni pọ̀, 11:85; 17:35;83:1-5
-Ìpàdé,
+Ìpàdé
 - pẹ̀lú Allàh, 6:31
 - ti Ọjọ́ Ńlá, 19:37
 - ti Ìgbà Tó Ń Bọ̀, 30:16
@@ -960,7 +959,7 @@ Miraj, 17:1; 53:12
 Àwọn Oṣù, iye, 9:36-37
 Òṣùpá, 7:54; 10:5; 16:12; 22:18; 25:61; 36:39-40; 71:16; 91:2
 - ìpínyà rẹ̀; 54:1
-Musa,
+Musa
 - àti àwọn ènìyàn rẹ̀, 2:51-61; 7:138-141,159-162; 14:5-8; 61:5
 - àti Pharaoh, 2:49-50; 17:101-103; 20:17-53, 56-79;23:45-49; 25:31-42; 40:23-46; 43:46-56; 51:38-40; 73:16;79:15-26
 - Allàh ṣamọ̀nà, 6:84
@@ -970,23 +969,23 @@ Musa,
 - a fún ni Ìwé, 17:2
 - àwọn àmì mẹ́sàn-án tí ó hàn gbangba, 7:133; 17:101
 - sí ibi ìpọ̀pọ̀ awọn òkun méjì, 18:60-82
-- ìpàdé àyànfẹ́ ní igbo tó ń jo 20:9-36; 27:7-14; 28:29-35;
+- ìpàdé àyànfẹ́ ní igbo tó ń jo 20:9-36; 27:7-14; 28:29-35
 - a pè tí a sì fún ni Òjíṣẹ́, 19:51-53;20:9-56
 - ìgbà ọmọdé rẹ̀, màmá àti ẹ̀gbọ́n obìnrin rẹ̀, 20:38-40;28:7-13
 - àwọn ajẹ́ yí padà, 20:70-73; 26:46-52
 - nínú Madyan, 20:40; 28:22-28
 - a fún ni Ìyàtọ̀, 21:48
 - àti iná àgbàyanu, 27:7-12; 28:29-35
-- pa ará Éjíbítì kan lọ́nà àṣìṣe nínú ìlú 28:14-21;
+- pa ará Éjíbítì kan lọ́nà àṣìṣe nínú ìlú 28:14-21
 - wá pẹ̀lú àwọn Ẹsẹ tí ó hàn gbangba, 29:39
-- ìtàn pẹ̀lú Pharaoh 7:103-137; 10:75-92; 11:96-99; 26:10-69;
-- àwọn àmì mẹ́sàn-án fún Pharaoh àti àwọn ènìyàn rẹ̀ 7:130-133; 20:17-22; 17:101;
-- borí àwọn ajẹ́ Pharaoh 20:70-73; 26:46-52;
-- sálo sí Midiani àti ìgbéyàwó 28:22-28;
-- gba Àwọn Pákó 7:142-154,
-- béèrè láti rí Allàh lórí Òkè 7:142-145;
-- Allàh bọ̀wọ̀ fún un 33:69;
-- ojurere Allàh sí Àwọn ọmọ Israẹli 2:47-61;
+- ìtàn pẹ̀lú Pharaoh 7:103-137; 10:75-92; 11:96-99; 26:10-69
+- àwọn àmì mẹ́sàn-án fún Pharaoh àti àwọn ènìyàn rẹ̀ 7:130-133; 20:17-22; 17:101
+- borí àwọn ajẹ́ Pharaoh 20:70-73; 26:46-52
+- sálo sí Midiani àti ìgbéyàwó 28:22-28
+- gba Àwọn Pákó 7:142-154
+- béèrè láti rí Allàh lórí Òkè 7:142-145
+- Allàh bọ̀wọ̀ fún un 33:69
+- ojurere Allàh sí Àwọn ọmọ Israẹli 2:47-61
 - Àwọn ọmọ Israẹli kọ̀ láti wọ Jerúsálẹ́mù 5:20-29
 - ṣamọ̀nà sí Ọ̀nà Tọ́, 37:114-122
 - Ìwé rẹ̀, 53:36; 87:19
@@ -1074,7 +1073,7 @@ Mumtahanah, S.60
 Munafigun, S.63
 Pípa ènìyàn, 2:178-179
 Mursalat, S.77
-Àwọn Mùsùlùmí,
+Àwọn Mùsùlùmí
 - àkọ́kọ́ nínú, 6:14, 163; 9:100; 39:12
 - ẹni tó sọ orúkọ wọn, 22:78
 - ìdáríjì àti ẹsan ńlá fún àwọn tí, 33:35-36
@@ -1086,7 +1085,7 @@ Nahl, S.16
 Najas (àìmọ́) 9:28
 Najm, S.53
 Najwa (Wo Àṣírí)
-Àwọn Orúkọ,
+Àwọn Orúkọ
 àwọn Orúkọ tó Dára jùlọ jẹ́ ti Rẹ̀, 7:180
 àwọn Orúkọ tó Dára jùlọ jẹ́ ti Rẹ̀, 17:110; 20:8; 59:24
 Ìjákulẹ, tí ìjákulẹ bá fipá mú ẹni, 2:173; 6:145
@@ -1099,10 +1098,10 @@ Aládùúgbò, 4:36
 - láti jẹ́ irànlọ́wọ́, 14:32
 - Òru Al-Qadr (Ìpinnu), 44:3-4; 97:1-5
 Nisa', S.4
-Noa, 3:33; 4:163; 6:84; 9:70; 10:71;11:25, 32, 36, 42, 45-46, 48, 89; 17:3; 21:76; 25:37; 26:105; 29:14; 37:75; 51:46;54:9; 69:11;
-- a ṣe ẹ̀gàn rẹ̀ 11:38;
+Noa, 3:33; 4:163; 6:84; 9:70; 10:71;11:25, 32, 36, 42, 45-46, 48, 89; 17:3; 21:76; 25:37; 26:105; 29:14; 37:75; 51:46;54:9; 69:11
+- a ṣe ẹ̀gàn rẹ̀ 11:38
 - Ìkún Omi Ńlá, 29:14
-- Àpótí àti Ìkún Omi 7:59-69, 11:25-48; 23:23-31; 26:105-122; 71:1-28;
+- Àpótí àti Ìkún Omi 7:59-69, 11:25-48; 23:23-31; 26:105-122; 71:1-28
 - ọmọkùnrin tí kò gbọràn kò gbàlà, 11:42-48
 - ìyàwó tí kò gbọràn, 14:9; 17:3, 17;19:58;21:76; 22:42; 26:105-106, 116; 33:7; 37:75,79; 38:12; 42:13; 40:5, 31; 42:13;50:12;53:52; 57:26; 66:10; 71:1, 21, 26
 Nuh, S.71
@@ -1136,7 +1135,7 @@ Igi ọ̀pẹ, 13:4; 19:25; 20:71; 59:5
 - òjò, 10:24
 - irugbin tí a gé, 10:24
 - afọ́jú àti adití, 11:24
-- Allàh lòdì sí àwọn ọlọ́run ìké 13:14; 16:76;
+- Allàh lòdì sí àwọn ọlọ́run ìké 13:14; 16:76
 - òtítọ́ lòdì sí irọ́ 13:17
 - àèrò lórí èyí tí afẹ́fẹ́ ń fẹ́ líle,14:18
 - igi rere, 14:24-25
@@ -1164,7 +1163,7 @@ Igi ọ̀pẹ, 13:4; 19:25; 20:71; 59:5
 - kẹ́tẹ́kẹ́tẹ́, 62:5
 - tí omi bá rì lọ, 67:30
 - àwọn ènìyàn ọgbà, 68:17-33
-Ọ̀run Ẹdẹni,
+Ọ̀run Ẹdẹni
 - ti Ibùgbé, (Ma'wa Ọ̀run Ẹdẹni), 53:15
 - Firdaus Ọ̀run Ẹdẹni, 18:107; 23:11
 - Àwọn Ọgbà tí àwọn odò ń ṣàn lábẹ́ wọn, 3:15, 198;4:57; 5:119; 7:43; 9:72; 18:31; 22:23; 39:20;57:12; 64:9; 98:8
@@ -1187,7 +1186,7 @@ Igi ọ̀pẹ, 13:4; 19:25; 20:71; 59:5
 - odò nínú Ọ̀run Ẹdẹni, Kauthar, 108:1
 - àwọn odò waini, wàrà, oyin tí a ti sọ di mímọ́, 47:15
 - waini mímọ́ tí a fi edidi, funfun, tó dára, 37:45-46; 56:18; 76:21; 83:25
-- ife tí a dapọ̀ pẹ̀lú, Zanjabil, 76:17; 78:34;
+- ife tí a dapọ̀ pẹ̀lú, Zanjabil, 76:17; 78:34
 - omi, 76:5
 - àwọn àwo goolu àti àwọn ife, 43:71
 - àwọn ohun elo fèrè àti àwọn ife gírísítálì, 76:15-16
@@ -1234,21 +1233,21 @@ Igi ọ̀pẹ, 13:4; 19:25; 20:71; 59:5
 - àwọn ìyàwó nínú ìbòjì tó dára, tí wọn ń jókòó lórí àwọn ìtẹ́, 36:55
 - àwọn ọmọbìnrin ọdọ̀ tó ní àyà kíkan tó dọ́gba pẹ̀lú ara wọn,78:33
 - àwọn ọmọkùnrin tó ń ṣ'ojúṣe títí láíláí, bí àwọn òyìn tí a tà káàkiri, 52:24; 56:17; 76:19
-- gbòòrò bí àwọn ọ̀run àti ilẹ̀ 3:133, 57:21;
-- omi tó ń ṣàn, ìbòjì tútù, àwọn ohun dídára, àti àwọn ìyàwó mímọ́ 2:25; 4:57; 36:55-58; 37:40-49; 38:50-54; 44:51-57; 52:17-24; 69:19-24; 76:5-22;
-- ẹsan àwọn onígbàgbọ́ 55:46-78; 56:10-40;
-- àwọn odò oyin, wàrà, omi, àti waini 47:15;
-- àwọn àdúrà àti ìkíni 10:9-10; 39:73-74;
-- a kí pẹ̀lú ìkíni àlàáfíà 13:23-24; 14:32;
-- gbé nínú Ìgbádùn láìdásẹ̀sẹ̀ 11:108;
-- a kò ní béèrè kúrò 15:45-48;
-- ìmọ́lẹ̀ tó ń tàn níwájú wọn àti ní ọwọ́ ọ̀tún wọn 57:12;
-- kò ní ooru tàbí òtútù 76:13;
-- gbogbo ìfẹ́ a ṣẹ 16:30-32; 41:31-32;
-- àwọn ẹgba goolu àti aṣọ siliki dídára 18:30-31; 22:23-24; 44:51-53;
-- àwọn àwo ife goolu 43:67-73;
-- àwọn ohun elo fèrè àti àwọn èso tó wà láàárín ọwọ́ 76:14-16;
-- jókòó lórí àwọn ìtẹ́ 15:47; 37:44; 52:20;
+- gbòòrò bí àwọn ọ̀run àti ilẹ̀ 3:133, 57:21
+- omi tó ń ṣàn, ìbòjì tútù, àwọn ohun dídára, àti àwọn ìyàwó mímọ́ 2:25; 4:57; 36:55-58; 37:40-49; 38:50-54; 44:51-57; 52:17-24; 69:19-24; 76:5-22
+- ẹsan àwọn onígbàgbọ́ 55:46-78; 56:10-40
+- àwọn odò oyin, wàrà, omi, àti waini 47:15
+- àwọn àdúrà àti ìkíni 10:9-10; 39:73-74
+- a kí pẹ̀lú ìkíni àlàáfíà 13:23-24; 14:32
+- gbé nínú Ìgbádùn láìdásẹ̀sẹ̀ 11:108
+- a kò ní béèrè kúrò 15:45-48
+- ìmọ́lẹ̀ tó ń tàn níwájú wọn àti ní ọwọ́ ọ̀tún wọn 57:12
+- kò ní ooru tàbí òtútù 76:13
+- gbogbo ìfẹ́ a ṣẹ 16:30-32; 41:31-32
+- àwọn ẹgba goolu àti aṣọ siliki dídára 18:30-31; 22:23-24; 44:51-53
+- àwọn àwo ife goolu 43:67-73
+- àwọn ohun elo fèrè àti àwọn èso tó wà láàárín ọwọ́ 76:14-16
+- jókòó lórí àwọn ìtẹ́ 15:47; 37:44; 52:20
 - àwọn onígbàgbọ́ yóò rí Olúwa wọn 75:22-23
 Àwọn Òbí, ìfẹ́ sí, 2:83, 215; 4:36; 16:90;17:23; 29:8; 31:14; 46:15-17
 Àwọn alábàásọ Allàh, irọ́ ni,4:116;10:34-35, 66; 16:86; 28:62-64, 71-75; 30:40;42:21
@@ -1257,7 +1256,7 @@ Pàṣánpàdí, 87:4-5
 - wo pẹ̀lú Ọ̀nà
 Ìfaradà, 3:186, 200; 10:109; 11:115; 16:126-127; 20:130; 40:55, 77; 42:43; 46:35; 70:5;73:10
 - wá ìrànlọ́wọ́ nínú ìfaradà àti àdúrà, 2:45, 153; 20:132;50:39
-Olùfaradà,
+Olùfaradà
 - yóò gba ẹsan rẹ̀ pọ̀, 39:10
 - Allàh wà pẹ̀lú àwọn tó ń farí, 8:46
 - jẹ́ olùfaradà, 11:115
@@ -1266,7 +1265,7 @@ Olùfaradà,
 Àlàáfíà, tẹríba sí, 8:61
 Òyìn àti iyùn, tí a tọ́jú, 52:24; 55:22; 56:23
 Pẹ̀n, 68:1; 96:4
-Ènìyàn,
+Ènìyàn
 - Allàh kò ní rù ẹrù ènìyàn kan tó jù agbára rẹ̀ lọ,2:286; 7:42
 - Allàh kò ní rù ẹnikẹni ẹrù tó jù agbára rẹ̀ lọ, 23:62
 - kò sí ènìyàn tó mọ̀ ohun tí ó óò jo ola àti ibì tí ó óò kú, 31:34
@@ -1287,7 +1286,7 @@ Pharaoh, 28:6; 40:24
 - ìkọ́ ilé gogoro kan, 40:36-37
 - wo pẹ̀lú Musa
 Ìkójọpọ̀ àwọn nǹkan ayé, 102:1-4
-Ìlérí (Bai'ah),
+Ìlérí (Bai'ah)
 - fún Islam, 16:91
 - sí Òjíṣẹ́ jẹ́ Bai'ah (ìlérí) sí Allàh, 48:10
 - ti àwọn onígbàgbọ́, 48:18; 60:12
@@ -1323,17 +1322,17 @@ Ohun-ini, 2:188; 3:186; 4:5, 7, 29; 51:19; 59:7-9; 70:25
 - ẹ̀ṣẹ̀ fún, 3:161
 - ọ̀tá fún gbogbo, 6:112; 25:31
 - wo pẹ̀lú Àwọn Òjíṣẹ́
-Ìpẹlẹ́,
+Ìpẹlẹ́
 - gbogbo ohun tó wà ní ọ̀run àti ilẹ̀ pẹlẹ́ sí Allàh pẹ̀lú àwọn òjìji wọn, 13:15
 Ohun ìpèsè, 10:59; 13:26; 14:32; 16:73; 34:36,39; 42:12; 51:57; 67:21; 79:33
 Psalmu, 4:163
-Ìjìyà,
+Ìjìyà
 - ìdádúró rẹ̀, 3:178
 - gige ọwọ́ tàbí ẹsẹ̀, 5:33
 - jìyà wọn bí a ti ṣe jìyà yín, 16:126
 - ti ìgbésí ayé yìí àti Ìgbà Tó Ń Bọ̀, 24:19; 68:33
-Ìmọ́,
-- ti ara,4:43; 5:6;
+Ìmọ́
+- ti ara,4:43; 5:6
 - ti ẹmí (kúrò nínú àwọn àìmọ́), 87:14; 91:9
 Qadar, 5:5; 64:11
 Qadr, S.97
@@ -1345,7 +1344,7 @@ Qarun (Korah), 28:76-82; 29:39
 Qasas, S.28
 Qiblah, 2:142-145, 149
 Qisas (Òfin ìdọ́gbà nínú ìjìyà), 2:178-179, 194; 5:45; 16:126; 17:33; 22:60;42:40
-Qur'an,
+Qur'an
 - àpèjúwe rẹ̀, 13:31, 36, 37; 14:1; 56:77-80
 - kò ṣeéṣe pé ẹnikẹni yàtọ̀ sí Allàh lè ṣe rẹ̀, 2:23; 10:38; 11:13; 17:88
 - tí ó bá wá láti ọ̀dọ̀ ẹlòmíràn yàtọ̀ sí Allàh, àwọn ìtakora ńlá yóò wà nínú rẹ̀, 4:82
@@ -1395,7 +1394,7 @@ Qur'an,
 - kíkà àwọn ojú-ewé mímọ́, 98:2
 - wo pẹ̀lú Ìwé; Ìfihàn
 Quraish, S.106
-Quraish,
+Quraish
 - àwọn aláìgbàgbọ́ ti, 54:43-46, 51
 - ìtúnú wọn, 106:1-4
 Àwọn rabbai àti àwọn mọnki, 9:31, 34
@@ -1403,26 +1402,26 @@ Quraish,
 Ra'd, S.13
 Rahman, S.55
 Aṣọ òdodo dára jù, 7:26
-Òjò,
+Òjò
 - Ẹbùn Allàh, 56:68-70
 - ti àwọn òkúta, 27:58
 Ramadan, 2:185
 Ramy, 2:200
-Ìràpadà,
+Ìràpadà
 - a kò ní gbà, 57:15
 - tí àwọn aláìgbàgbọ́ pèsè, 3:91; 10:54; 13:18
-Fidyah, ti àwàwí, 2:196;
+Fidyah, ti àwàwí, 2:196
 - fún ìdásíláàyè àwọn ẹlẹ́wọ̀n, 8:67
 Rass, àwọn olùgbé, 25:38; 50:12
-Ẹsan,
+Ẹsan
 - Ọjọ́ Ẹsan, 1:4; 37:20; 51:12; 56:56; 82:17-18; 96:7
 - àwọn tó kọ̀ ẹsan, 107:1-7
 - ẹsan ibi jẹ́ ibi bí i rẹ̀, 42:40
-Ìrẹ̀púsọ̀,
+Ìrẹ̀púsọ̀
 - ẹnikẹni tó bá darí jì tí ó sì ṣe ìrẹ̀púsọ̀, 42:40
 - láàárín ọkùnrin àti ìyàwó, 4:35
 - láàárín àwọn onígbàgbọ́, 49:9-10
-Àkọsílẹ̀,
+Àkọsílẹ̀
 - Ìwé tí a kọ, 83:7-9, 18-21
 - a óò pè orílẹ̀-èdè kọ̀ọ̀kan sí, 45:28-29
 - àwọn ojú-ewé iṣe gbogbo ènìyàn tí a kọ,81:10
@@ -1432,7 +1431,7 @@ Rass, àwọn olùgbé, 25:38; 50:12
 - lẹ́yìn ẹ̀yìn, 84:10-15
 Àwọn angẹli tó ń gbasilẹ, 50:17-18, 23; 85:11
 Ìtura, pẹ̀lú ìpọ́njú, 94:5-6
-Ẹ̀sìn,
+Ẹ̀sìn
 - kò sí ìfipábánilò nínú, 2:256
 - jẹ́ Islam, 3:19
 - ti Allàh, 3:83-84
@@ -1449,7 +1448,7 @@ Rass, àwọn olùgbé, 25:38; 50:12
 - ẹ̀sìn àwọn baba ńlá, 43:22-24
 Ìrántí Allàh, 63:9
 - nínú, ọkàn rí ìsinmi, 13:28
-Ìronupiwada,
+Ìronupiwada
 - a gbà tí ó bá jẹ́ pé ibi ni a ṣe nínú àìmọ̀ tí o sì ronupiwada lẹ́sẹ̀kẹsẹ̀, 4:17; 6:54
 - ìronupiwada kò ní wúlò tí àwọn iṣe ibi bá tẹ̀síwájú, 4:18
 - Ó gbà ìronupiwada tí Ó sì darí jì àwọn ẹ̀ṣẹ̀, 4:25
@@ -1457,7 +1456,7 @@ Rass, àwọn olùgbé, 25:38; 50:12
 Àjíǹde, 2:28, 7:53; 14:21; 16:38-40; 22:5-7; 23:15-16; 31:28, 41:39, 46:33-34; 50:3,20-29, 41-44; 64:7, 75:1-15; 79:10-12; 86:5-8
 - àpẹẹrẹ nínú ìtàn Ezra 2:259
 - Ibraaheem 2:260
-- àwọn ènìyàn ihò 18:9-26;
+- àwọn ènìyàn ihò 18:9-26
 - ìkìlọ̀ sí àwọn tó kọ̀ àjíǹde 17:49-52, 17:97-100, 19:66-72, 37:11-27, 50:1-15, 80:17-42
 Ọjọ́ Àjíǹde, 7:89; 20:100-101, 124
 - Ọjọ́ Òtítọ́, 78:39
@@ -1548,7 +1547,7 @@ Rass, àwọn olùgbé, 25:38; 50:12
 - Ọrùn-ọrun yóò mú sún mọ́, 89:23
 - Iná Ọrùn-ọrun yóò já, tí a sì fi jíná, 81:11-12
 - Ìgbẹ́san nípasẹ̀ ìfọwọ́sọwọ́pọ̀ yóò jẹ́ ìsọtun, 5:45
-Ìfihàn,
+Ìfihàn
 - tí o bá ní iyèméjì, 2:23-24
 - Ẹsẹ tí a fagbéjáde tàbí tí a gbàgbé, 2:106
 - ìtọ́sọ̀nà tí ó tọ, 3:73
@@ -1560,13 +1559,13 @@ Rass, àwọn olùgbé, 25:38; 50:12
 - Ìwé wá láti Allàh, 46:2
 - wo pẹ̀lú Ìwé àti Qur'an
 Ẹ̀san fún àìdálójú tí a ṣe sí wọn, 42:39-43
-Ẹsan,
+Ẹsan
 - gẹ́gẹ́ bí àwọn iṣe tó dára jùlọ, àti jù bẹ́ẹ̀ lọ, 24:38; 29:7; 39:35
 - gẹ́gẹ́ bí ẹsan 25:15
 - Allàh sanpada àwọn tó ń ṣe rere pẹ̀lú ohun tó dára jùlọ, 53:31
 - fún rere, kò sí ẹsan yàtọ̀ sí rere, 55:60
 Riba (Wo ìlò owó)
-Àwọn olódodo,
+Àwọn olódodo
 - àjọṣepọ̀ àwọn, 4:69
 - yóò jogún ilẹ̀, 21:105
 - nínú Ọ̀run Ẹdẹni, 51:15-19; 76:5-12
@@ -1585,7 +1584,7 @@ Ruh (ẹmí, ìní), 15:29; 17:85; 58:22
 Rum, S.30
 Saba' (Sheba), 27:22-44; 34:15-21
 Saba', S.34
-Ọjọ́ Àsè,
+Ọjọ́ Àsè
 - àwọn apẹ̀yìndà, 2:65; 4:154; 7:163-166
 - a yàn fún, 16:124
 Àwọn Sabiani, 5:69; 22:17
@@ -1611,23 +1610,23 @@ Sátánì, 2:36, 168, 208, 268, 275; 3:36, 155, 175;4:38, 60, 76, 83, 119-120; 5
 - kò ní agbára lórí àwọn onígbàgbọ́, 16:99-100
 - ju irọ́ sílẹ̀, 22:52-53
 - jẹ́ ọ̀tá, 12:5; 35:6; 36:60
-- ìgberaga 2:34; 7:11-27; 15:26-43; 17:61-65; 38:73-85;
-- jẹ́ jinn 18:50-51;
-- ìdánwò àti ìṣubú Adamu 7:20-23; 20:116-121;
-- kò ní àṣẹ lórí àwọn onígbàgbọ́ 16:98-100;
-- ète rẹ̀ 35:6-8;
-- ọ̀tá tó búra fún ẹ̀dá ènìyàn 12:5; 17:53;
-- ẹgbẹ́ rẹ̀ 53:14-19;
-- iṣẹ́ ọwọ́ rẹ̀ 5:90-91;
-- ń dá àwọn iṣe rere sẹ́ 2:268;
-- àwọn onígbàgbọ́ wá ibi àbò nínú Allàh kúrò lọ́wọ́ rẹ̀ 7:200-202;
-- àwọn ètò rẹ̀ àláìlágbára ni 4:76;
-- fi àwọn tó ń tẹ̀lé e sílẹ̀ 8:48;
+- ìgberaga 2:34; 7:11-27; 15:26-43; 17:61-65; 38:73-85
+- jẹ́ jinn 18:50-51
+- ìdánwò àti ìṣubú Adamu 7:20-23; 20:116-121
+- kò ní àṣẹ lórí àwọn onígbàgbọ́ 16:98-100
+- ète rẹ̀ 35:6-8
+- ọ̀tá tó búra fún ẹ̀dá ènìyàn 12:5; 17:53
+- ẹgbẹ́ rẹ̀ 53:14-19
+- iṣẹ́ ọwọ́ rẹ̀ 5:90-91
+- ń dá àwọn iṣe rere sẹ́ 2:268
+- àwọn onígbàgbọ́ wá ibi àbò nínú Allàh kúrò lọ́wọ́ rẹ̀ 7:200-202
+- àwọn ètò rẹ̀ àláìlágbára ni 4:76
+- fi àwọn tó ń tẹ̀lé e sílẹ̀ 8:48
 - sọ̀rọ̀ sí àwọn tó ń tẹ̀lé e nínú Ọrùn-ọrun 14:22
 - wo pẹ̀lú Iblisi
 Ìwọ̀n, ẹni tó ṣeyọrí, ẹyí tó wúwo yóò jẹ, 7:8-9
 - wo pẹ̀lú ìwọntúnwọnsì
-Ìwé Mímọ́,
+Ìwé Mímọ́
 - àwọn ènìyàn rẹ̀, (àwọn Júù àti Kristẹni), 2:109;3:64-65, 69-72, 75, 98-99, 110, 113,199; 4:47, 153-161; 5:59-60, 68; 98:1
 - ohun tí wọn ń pa mọ́, 5:61-63
 - nínú wọn tó wà lórí ọ̀nà tí ó tọ,5:66
@@ -1635,7 +1634,7 @@ Sátánì, 2:36, 168, 208, 268, 275; 3:36, 155, 175;4:38, 60, 76, 83, 119-120; 5
 Àwọn Òkun, 42:32-33; 45:12
 - méjì, 18:60; 25:53; 35:12; 55:19-20
 - nígbàtí wọn bá gbà ìbúwọ́lú, 82:3
-Àṣírí (Najwa),
+Àṣírí (Najwa)
 - àwọn ìjíròrò, 4:114
 - ìmọ̀ràn ẹni mẹ́ta, 58:7
 - àwọn ìmọ̀ràn, 58:8, 10
@@ -1644,10 +1643,10 @@ Sátánì, 2:36, 168, 208, 268, 275; 3:36, 155, 175;4:38, 60, 76, 83, 119-120; 5
 Àbò, lẹ́yìn ìpọ́njú, Ó rán sọ̀kalẹ̀,3:154
 Irugbin, Ẹni tó mú u hù, 56:63-67
 Àwọn orí ìmọ̀, 23:78
-Méjeje, a dá,
+Méjeje, a dá
 - àwọn ọ̀run, 2:29; 23:17; 65:12; 67:3; 71:15
 - àti ti ilẹ̀ bẹ́ẹ̀ náà, 65:12
-Ìbòjì,
+Ìbòjì
 - gbogbo nǹkan pẹlẹ́ sí Allàh, 13:15; 16:48
 gbòòrò rẹ̀, 25:45
 Shams, S.91
@@ -1679,12 +1678,12 @@ Aládàrúkọ, 68:11-12; 104:1
 Oorun, nǹkan fún ìsinmi, 78:9
 Sodomu, 29:31; 37:136
 Ìbálòpọ̀ onítara, 7:80-82; 11:77-83; 15:61-77; 29:28-29
-Solomoni, 2:102; 4:163; 6:84;
-- ràn baba rẹ̀ Dàùdù lọ́wọ́ láti wá ìdájọ́ tó dára jù 21:78-82;
+Solomoni, 2:102; 4:163; 6:84
+- ràn baba rẹ̀ Dàùdù lọ́wọ́ láti wá ìdájọ́ tó dára jù 21:78-82
 - àti àwọn kìkì, 27:15-19
 - àti ẹyẹ hoopoe, 27:20-26
 - àti Ayaba Saba', 27:22-44; 34:15
-- ojurere Allàh sí i 34:12-14, 38:34-40;
+- ojurere Allàh sí i 34:12-14, 38:34-40
 - ìfẹ́ rẹ̀ fún àwọn ẹṣin rere 38:30-33
 Ọmọ tí a gba, 33:4-5
 Ẹmí (ìní, Ruh), 15:29; 17:85; 58:22
@@ -1704,8 +1703,8 @@ Ohun ogun, 8:41, 69; 48:15, 19-20; 48:15
 Ìṣẹ̀dá àdáni, 49:12
 Ìràwọ̀, 53:1, 49; 86:1-4
 Àwọn ìràwọ̀, 7:54; 15:16; 16:12, 16; 22:18; 25:61;37:6-10; 56:75; 77:8; 81:2; 82:2
-Tí Ó Tọ, Ọ̀nà, 1:6,
-- àbbl. Ọ̀nà, 6:153,
+Tí Ó Tọ, Ọ̀nà, 1:6
+- àbbl. Ọ̀nà, 6:153
 - àbbl. Jàákúmọ̀, 4:95; 8:72, 74, 75; 9:20, 24, 81; 22:78; 25:52; 29:69; 47:3; 60:1; 61:11
 Ìbọ̀mu, ìgbà fún ìbọ̀mu, màmá ìbọ̀mu, 2:233
 Ìpọ́njú, òṣì, àìsàn àti àwọn àjálù; àlàáfíà àti ọrọ̀, 7:94-96
@@ -1775,7 +1774,7 @@ Ummah (àwùjọ, orílẹ̀-èdè), 2:143-144;10:47, 49; 11:118; 16:36, 120
 Ìbòrí tí a kò rí, 17:45-46
 Ìbòrí, 24:31; 33:59
 Àwọn Ẹsẹ, Sab' Al-Mathani, 15:87
-Àṣeyọrí,
+Àṣeyọrí
 - Allàh fún, 48:1
 - nípasẹ̀ ìrànlọ́wọ́ Allàh, 61:13
 Àwọn Ìwà Rere, (wo Ìwà Ododo; Àwọn Onígbàgbọ́)
@@ -1792,7 +1791,7 @@ Omi, gbogbo nnkan tó ní ìyè a dá láti omi, 21:30;24:45; 25:54
 - àbbl. rọrùn, mú ní rọrùn, 87:8
 - wo pẹ̀lú Ọ̀nà
 Alàbágbèéká, 2:177, 215; 8:41; 17:26; 29:29;30:38; 59:7
-Ọrọ̀,
+Ọrọ̀
 - ẹni tó ti kó, 104:2-4
 - ìnáwó nínú Ọ̀nà Allàh (wo Ìnáwó)
 Ọrọ̀ àti àwọn ọmọ, ọ̀ṣọ́ ìgbésí ayé yìí, 18:46
@@ -1810,7 +1809,7 @@ Waini (nínú Ọ̀run Ẹdẹni)
 - àwọn odò waini, 47:15
 - mímọ́ tí a fi edidi, 83:25
 Má ṣe fẹ́ àwọn nǹkan tí Allàh ti mú àwọn kan ṣe jù àwọn mìíràn lọ, 4:32
-Àwọn Ẹlẹ́rì,
+Àwọn Ẹlẹ́rì
 - sí àdéhùn àwọn Woli, 3:81
 - lórí ẹ̀dá ènìyàn, 2:143; 22:78
 - fún àdéhùn, 2:282
@@ -1820,7 +1819,7 @@ Má ṣe fẹ́ àwọn nǹkan tí Allàh ti mú àwọn kan ṣe jù àwọn m�
 - àwọn ọwọ́ àti ẹsẹ̀ yóò jẹ́rìí, 36:65
 - ọkùnrin lòdì sí ara rẹ̀, 75:14
 Ọjọ́ tí a Rí àti Ọjọ́ tí a Ń Ríran, 85:3
-Àwọn Ìyàwó,
+Àwọn Ìyàwó
 - jẹ́ ìlẹ̀ àgbẹ̀ fún yín, 2:223
 - ìbòrí fún yín, 2:187
 - ti irú rẹ̀ fúnra rẹ̀, 16:72
@@ -1832,7 +1831,7 @@ Obìnrin tó ń jiyàn, 58:1-2
 - tí kò ṣàlàyé ara rẹ̀ nínú jiyàn, 43:17-18
 Igbó, àwọn olùgbé, 15:78; 38:13; 50:14
 - wo pẹ̀lú Aikah; Madyan 26:176-191
-Ayé, ìgbésí ayé yìí,
+Ayé, ìgbésí ayé yìí
 - kò jẹ́ nǹkan yàtọ̀ sí eré àti ìdárayá, 6:32;29:64; 47:36; 57:20
 - tan ènìyàn jẹ, 6:130
 - kékeré ni ìgbádùn rẹ̀, jù ti Ìgbà Tó Ń Bọ̀ lọ, 9:38; 13:26; 28:60-61
@@ -1844,7 +1843,7 @@ Kíkọ, fún àwọn àdéhùn, 2:282
 - wo pẹ̀lú Àwọn aláìgbàgbọ́
 Wudu' (Mimọ), 4:43; 5:6
 Yaghuth, 71:23
-Yahya (Johanu),
+Yahya (Johanu)
 - ìròyìn rere rẹ̀, 3:39; 21:90
 - olódodo, 6:85
 - ọlọ́gbọ́n; olóore-ọfẹ́; olùgbọràn, 19:12-15
@@ -1865,52 +1864,52 @@ Zihar, 33:4; 58:2-4
 Zukhruf, S.43
 Zumar, S.39
 Àwọn Ìpìlẹ̀ Àṣà
-- Ìgbàgbọ́ a ṣe pé 5:3;
-- Ọ̀nà kan ṣoṣo tí Allàh gbà 3:19, 85;
-- kò sí ìfipábánilò nínú gbígba Islam 2:256;
-- ẹ̀sìn kan pẹ̀lú àwọn ìgbàgbọ́ àti àwọn òfin oríṣiríṣi 5:48; 22:67-70; 42:13-14;
-- àwọn woli Islam 2:135-136; 3:84; 4:163-165;
-- àwọn àṣẹ (gbàgbọ́ nínú Allàh àti ṣe rere) 4:36; 6:151-154;17:23-39;18:107-108;
-- àwọn ète márùn-ún Sharia: ìdáàbòbò ìgbàgbọ́ 5:54;
-- ìdáàbòbò ìyè 5:32;6:151;
-- ìdáàbòbò ọrọ̀ 5:38;
-- ìdáàbòbò ọlá 5:5;24:4;
+- Ìgbàgbọ́ a ṣe pé 5:3
+- Ọ̀nà kan ṣoṣo tí Allàh gbà 3:19, 85
+- kò sí ìfipábánilò nínú gbígba Islam 2:256
+- ẹ̀sìn kan pẹ̀lú àwọn ìgbàgbọ́ àti àwọn òfin oríṣiríṣi 5:48; 22:67-70; 42:13-14
+- àwọn woli Islam 2:135-136; 3:84; 4:163-165
+- àwọn àṣẹ (gbàgbọ́ nínú Allàh àti ṣe rere) 4:36; 6:151-154;17:23-39;18:107-108
+- àwọn ète márùn-ún Sharia: ìdáàbòbò ìgbàgbọ́ 5:54
+- ìdáàbòbò ìyè 5:32;6:151
+- ìdáàbòbò ọrọ̀ 5:38
+- ìdáàbòbò ọlá 5:5;24:4
 - ìdáàbòbò agbára ìrò 5:90.
 Ìgbàgbọ́ nínú Allàh 2:255
-- Àwọn ìwà àtọ̀runwá, Àwọn Orúkọ Tó Dára 57:1-6; 59:22-24; 85:13-16; 112:1-4;
-- ọlọ́run kan ṣoṣo tó yẹ kí a jọsìn 1:1-4; 2:285; 6:3; 43:84;
-- gbogbo àṣẹ jẹ́ ti Rẹ̀ 3:26; Àtẹ́ Ìjókòó Rẹ̀ ('Arsh) 7:54; 11:7;
-- Kursi Rẹ̀ 2:255;
-- àwọn ojurere tí kò kọ̀ sí ẹ̀dá ènìyàn 14:32-34; 2:164; 16:2-93; 31:20; 55:1-25;
-- fún ìyè àti mú ikú wá 44:8; 53:44; 57:2; 67:2;
-- mú ayọ̀ àti ìbànújẹ́ wá 53:43;
-- fún ohun ìpèsè púpọ̀ tàbí díẹ̀ 13:26; 17:30; 29:62;
-- Olùdájọ́ tó Dára Jùlọ 95:8;
-- Alàánú jùlọ nínú àwọn alàánú 12:92;
-- fẹ́ràn àwọn olódodo 85:14;
-- kún pẹ̀lú Ìdáríjì àti líle nínú ìjìyà 13:6, 40:3;
-- Àkọ́kọ́ àti Ìkẹhìn 57:3;
-- gbogbo ọlá àti agbára jẹ́ ti Rẹ̀ 35:10;
-- mọ ohun àìmọ̀ tí ó sì rí ohun tó farasin 6:59,73; 9:94, 105; 13:8-10; 31:34; 32:6; 34:48; 35:38; 39:46; 49:18; 59:22; 62:8; 64:18; 72:26; 74:31; 87:7;
-- mọ̀ dáradára ohun tó farasin nínú ọkàn 5:7; 11:5; 31:23;
-- mọ ohun tó ṣẹlẹ̀ àti ohun tó ṣì ń bọ̀ 2:255;
-- kọ gbogbo nǹkan nínú Àkọsílẹ̀ (tàbí Pákó Tí a Tọ́jú) 6:38; 13:39; 36:12;
-- ni agbára láti ṣe ohunkóhun 2:117; 3:189; 8:41; 9:116; 11:4; 16:40; 40:68; 41:39; 42:49;57:2;
-- agbára Rẹ̀ tí kò ní ìpín 3:26-27; 24:45; 31:28-30;
-- dá àwọn ọ̀run àti ilẹ̀ ní ọjọ́ mẹ́fà tí kò rẹ̀ 46:33; 50:38;
-- dá pẹ̀lú ọ̀rọ̀ 'Jẹ́!' 36:81-83;
-- kò ṣe àìdálójú fún ẹ̀dá Rẹ̀ 3:108; 4:40; 17:71; 21:47; 22:10; 26:209; 40:31; 41:46; 45:22; 50:29; 64:11; 78:6-16;
-- gbogbo nǹkan tẹrí ba fún Ìfẹ̀ Rẹ̀ 3:83; 22:18; 30:26;
-- gbogbo nǹkan wà nínú àìní sí i 11:6; 35:15; 55:29;
-- gbẹ́kẹ̀lé Rẹ̀ 10:84-85; 12:67; 25:58;
-- àwọn ọ̀nà ìbánisọ̀rọ̀ àtọ̀runwá 42:51;
-- tó yẹ kí a ṣe ìrántí sí 2:21; 3:102; 4:1; 33:70-71; 59:18;
-- ọgbọ́n jẹ́ ẹbùn láti Ọ̀dọ̀ Rẹ̀ 2:269;
-- Kò nílò ẹnikẹni 3:97; 6:133; 112:2;
-- kò jẹ́ kan nínú Ìmẹ̀tẹ̀ta 4:171;
-- kò ní ìyàwó 6:101;
-- kò ní àwọn ọmọ 10:68; 19:35; 43:81; 72:3; 112:3;
-- kò ní àwọn alábàásọ tàbí àwọn ọlọ́run alábàásọ 6:94; 7:191-195; 46:4-5;
+- Àwọn ìwà àtọ̀runwá, Àwọn Orúkọ Tó Dára 57:1-6; 59:22-24; 85:13-16; 112:1-4
+- ọlọ́run kan ṣoṣo tó yẹ kí a jọsìn 1:1-4; 2:285; 6:3; 43:84
+- gbogbo àṣẹ jẹ́ ti Rẹ̀ 3:26; Àtẹ́ Ìjókòó Rẹ̀ ('Arsh) 7:54; 11:7
+- Kursi Rẹ̀ 2:255
+- àwọn ojurere tí kò kọ̀ sí ẹ̀dá ènìyàn 14:32-34; 2:164; 16:2-93; 31:20; 55:1-25
+- fún ìyè àti mú ikú wá 44:8; 53:44; 57:2; 67:2
+- mú ayọ̀ àti ìbànújẹ́ wá 53:43
+- fún ohun ìpèsè púpọ̀ tàbí díẹ̀ 13:26; 17:30; 29:62
+- Olùdájọ́ tó Dára Jùlọ 95:8
+- Alàánú jùlọ nínú àwọn alàánú 12:92
+- fẹ́ràn àwọn olódodo 85:14
+- kún pẹ̀lú Ìdáríjì àti líle nínú ìjìyà 13:6, 40:3
+- Àkọ́kọ́ àti Ìkẹhìn 57:3
+- gbogbo ọlá àti agbára jẹ́ ti Rẹ̀ 35:10
+- mọ ohun àìmọ̀ tí ó sì rí ohun tó farasin 6:59,73; 9:94, 105; 13:8-10; 31:34; 32:6; 34:48; 35:38; 39:46; 49:18; 59:22; 62:8; 64:18; 72:26; 74:31; 87:7
+- mọ̀ dáradára ohun tó farasin nínú ọkàn 5:7; 11:5; 31:23
+- mọ ohun tó ṣẹlẹ̀ àti ohun tó ṣì ń bọ̀ 2:255
+- kọ gbogbo nǹkan nínú Àkọsílẹ̀ (tàbí Pákó Tí a Tọ́jú) 6:38; 13:39; 36:12
+- ni agbára láti ṣe ohunkóhun 2:117; 3:189; 8:41; 9:116; 11:4; 16:40; 40:68; 41:39; 42:49;57:2
+- agbára Rẹ̀ tí kò ní ìpín 3:26-27; 24:45; 31:28-30
+- dá àwọn ọ̀run àti ilẹ̀ ní ọjọ́ mẹ́fà tí kò rẹ̀ 46:33; 50:38
+- dá pẹ̀lú ọ̀rọ̀ 'Jẹ́!' 36:81-83
+- kò ṣe àìdálójú fún ẹ̀dá Rẹ̀ 3:108; 4:40; 17:71; 21:47; 22:10; 26:209; 40:31; 41:46; 45:22; 50:29; 64:11; 78:6-16
+- gbogbo nǹkan tẹrí ba fún Ìfẹ̀ Rẹ̀ 3:83; 22:18; 30:26
+- gbogbo nǹkan wà nínú àìní sí i 11:6; 35:15; 55:29
+- gbẹ́kẹ̀lé Rẹ̀ 10:84-85; 12:67; 25:58
+- àwọn ọ̀nà ìbánisọ̀rọ̀ àtọ̀runwá 42:51
+- tó yẹ kí a ṣe ìrántí sí 2:21; 3:102; 4:1; 33:70-71; 59:18
+- ọgbọ́n jẹ́ ẹbùn láti Ọ̀dọ̀ Rẹ̀ 2:269
+- Kò nílò ẹnikẹni 3:97; 6:133; 112:2
+- kò jẹ́ kan nínú Ìmẹ̀tẹ̀ta 4:171
+- kò ní ìyàwó 6:101
+- kò ní àwọn ọmọ 10:68; 19:35; 43:81; 72:3; 112:3
+- kò ní àwọn alábàásọ tàbí àwọn ọlọ́run alábàásọ 6:94; 7:191-195; 46:4-5
 - kò sí ohun tó jọ Rẹ̀ 42:11; 112:4
 Àṣẹ láti rò nípa àwọn ìyanu ìṣẹ̀dá Rẹ̀ 3:190; 6:99; 10:5-6; 13:3-4; 16:10-16; 88:17-20
 Àwọn àmì nínú ìṣẹ̀dá 2:164; 6:95-99; 7:57-58; 10:5-6; 13:2-4; 16:10-13, 65-69, 79; 23:27-30; 27:60-65; 30:19-25; 50:6-11
@@ -1931,21 +1930,21 @@ Zumar, S.39
 - òjò rírọ̀, yìnyín àti òjò 2:265; 6:99; 24:43; 50:9-11
 - àrá àti mànàmáná 13:12-13
 Àwọn àtọ̀kànsí sáyẹ́ǹsì
-- a dá ènìyàn láti àwọn gamete ọkùnrin àti obìnrin 76:2;
-- ìpíle àti àwọn ìpele ìdàgbàsókè ti ọmọ inú 22:5; 23:12-14;
-- ọmọ inú nínú àwọn ìpele òkùnkùn mẹ́ta 39:6;
-- omi tó kún iyọ̀ 25:53-54; 35:12; 55:19-20;
-- ìmú adágún afẹ́fẹ́ 15:22;
-- àwọn ìtẹ̀ ọwọ́ 75:3-4;
-- àwọn òkè gẹ́gẹ́ bí àwọn ẹkọn 78:7;
-- irin tí a rán sọ̀kalẹ̀ 57:25;
-- àwọn ohun afetigbọ irora 4:56;
-- oòrùn gẹ́gẹ́ bí orísun ìmọ́lẹ̀ àti òṣùpá gẹ́gẹ́ bí ìmọ́lẹ̀ tí a tàn padà 10:5;
-- ìpínyà òṣùpá 54:1;
-- ojú ọ̀run gẹ́gẹ́ bí ààbò tí a ṣọ daradara 21:32;
-- gbogbo ẹ̀dá a dá láti omi 21:30; 24:45;
-- àwọn kìkì ń bánisọ̀rọ̀ 27:17-19;
-- àwọn ìgbi ìnú 24:40;
+- a dá ènìyàn láti àwọn gamete ọkùnrin àti obìnrin 76:2
+- ìpíle àti àwọn ìpele ìdàgbàsókè ti ọmọ inú 22:5; 23:12-14
+- ọmọ inú nínú àwọn ìpele òkùnkùn mẹ́ta 39:6
+- omi tó kún iyọ̀ 25:53-54; 35:12; 55:19-20
+- ìmú adágún afẹ́fẹ́ 15:22
+- àwọn ìtẹ̀ ọwọ́ 75:3-4
+- àwọn òkè gẹ́gẹ́ bí àwọn ẹkọn 78:7
+- irin tí a rán sọ̀kalẹ̀ 57:25
+- àwọn ohun afetigbọ irora 4:56
+- oòrùn gẹ́gẹ́ bí orísun ìmọ́lẹ̀ àti òṣùpá gẹ́gẹ́ bí ìmọ́lẹ̀ tí a tàn padà 10:5
+- ìpínyà òṣùpá 54:1
+- ojú ọ̀run gẹ́gẹ́ bí ààbò tí a ṣọ daradara 21:32
+- gbogbo ẹ̀dá a dá láti omi 21:30; 24:45
+- àwọn kìkì ń bánisọ̀rọ̀ 27:17-19
+- àwọn ìgbi ìnú 24:40
 Àwọn ẹ̀dá tó ní ìyè
 - àwọn angẹli 39:75
 - ènìyàn (aláṣẹ lórí ilẹ̀) 2:30; 6:165; 16:4
@@ -1978,366 +1977,365 @@ Zumar, S.39
 - alántakùn 29:41
 - àwọn mìíràn tí a kò mọ̀ 16:8
 Àwọn ohun àgbẹ̀ àti èso 6:99; 13:4; 16:11; 36:33-35
-- ògẹ̀dẹ̀ 56:29,
-- ọ̀pẹ 19:25,
-- àwọn ewébẹ̀, ẹ̀bọ, ìlù, ẹ̀wà, àti àlùbọ́sà 2:61,
-- àjàrà 80:28,
-- ọlíìfì 6:99,
-- ọ̀pọ̀tọ̀ 95:1,
-- ọ̀sàn 55:68,
+- ògẹ̀dẹ̀ 56:29
+- ọ̀pẹ 19:25
+- àwọn ewébẹ̀, ẹ̀bọ, ìlù, ẹ̀wà, àti àlùbọ́sà 2:61
+- àjàrà 80:28
+- ọlíìfì 6:99
+- ọ̀pọ̀tọ̀ 95:1
+- ọ̀sàn 55:68
 - ẹ̀gúsí 37:146
 Ìgbàgbọ́ nínú Muḥammad
-- Àwọn ìwà, woli nìkan 3:144; 6:50; 7:188; 18:110;
-- láti jiṣẹ́ òtítọ́ 2:119; 35:24; 42:48;
-- ìparí àwọn woli 33:40;
-- ìwà àgbàyanu 3:159; 68:4;
-- àpẹẹrẹ ìgbésí ayé 33:21;
-- gẹ́gẹ́ bí ojurere sí àwọn onígbàgbọ́ 3:164;
-- àánú fún gbogbo àgbáyé 21:107;
-- òjíṣẹ́ àgbáyé 4:170; 7:157-158; 34:28;
-- ṣamọ̀nà sí Ọ̀nà Tí Ó Tọ 42:52-53;
-- ń ṣe àánú fún ènìyàn 9:129;
-- gẹ́gẹ́ bí ẹlẹ́rì ní Ọjọ́ Ìdájọ́ 4:42; 16:89;
-- woli aláìlẹ́kọ̀ 7:157-158; 29:48; 62:2;
-- a sọ tẹ́lẹ̀ nípa rẹ̀ nínú Torah àti Ihinrere 7:157;
+- Àwọn ìwà, woli nìkan 3:144; 6:50; 7:188; 18:110
+- láti jiṣẹ́ òtítọ́ 2:119; 35:24; 42:48
+- ìparí àwọn woli 33:40
+- ìwà àgbàyanu 3:159; 68:4
+- àpẹẹrẹ ìgbésí ayé 33:21
+- gẹ́gẹ́ bí ojurere sí àwọn onígbàgbọ́ 3:164
+- àánú fún gbogbo àgbáyé 21:107
+- òjíṣẹ́ àgbáyé 4:170; 7:157-158; 34:28
+- ṣamọ̀nà sí Ọ̀nà Tí Ó Tọ 42:52-53
+- ń ṣe àánú fún ènìyàn 9:129
+- gẹ́gẹ́ bí ẹlẹ́rì ní Ọjọ́ Ìdájọ́ 4:42; 16:89
+- woli aláìlẹ́kọ̀ 7:157-158; 29:48; 62:2
+- a sọ tẹ́lẹ̀ nípa rẹ̀ nínú Torah àti Ihinrere 7:157
 - Jesu sọ tẹ́lẹ̀ nípa rẹ̀ 61:6
 Àwọn ìṣòro tí Annabí ( ﷺ ) dojú kọ
-- àwọn ìbéèrè asan ti àwọn aṣọ̀fun 8:32; 15:7; 17:89-93; 25:7-8;
-- àwọn ẹ̀sùn ìké 10:2; 11:13; 21:5; 24:11-26; 25:4-6; 37:36; 38:4; 52:29-30;
-- àwọn ìgbìyànjú lati pa a 8:30; 9:74;
-- ìkìlọ̀ sí àwọn tó bá jẹ tàbí tako rẹ̀ 4:115; 8:13; 9:61; 15:95; 33:57; 47:32; 96:9-19;
-- a paṣẹ fún láti dáhùn sí ìkọ̀ pẹ̀lú ìfaradà 20:130; 30:60; 46:35; 70:5;
+- àwọn ìbéèrè asan ti àwọn aṣọ̀fun 8:32; 15:7; 17:89-93; 25:7-8
+- àwọn ẹ̀sùn ìké 10:2; 11:13; 21:5; 24:11-26; 25:4-6; 37:36; 38:4; 52:29-30
+- àwọn ìgbìyànjú lati pa a 8:30; 9:74
+- ìkìlọ̀ sí àwọn tó bá jẹ tàbí tako rẹ̀ 4:115; 8:13; 9:61; 15:95; 33:57; 47:32; 96:9-19
+- a paṣẹ fún láti dáhùn sí ìkọ̀ pẹ̀lú ìfaradà 20:130; 30:60; 46:35; 70:5
 - a farajì àti tùnú pẹ̀lú Allàh 5:67; 93:1-11; 94:1-8
 Àwọn ẹ̀kọ́ láti ìgbésí ayé Annabí ( ﷺ )
-- láti ìjíkúrò rẹ̀ (hijrah) sí Ogun Badr 3:121-129; 8:42-44; 8:65-71;
-- Ogun Uhud 3:151-180;
-- Ogun Ìhámọ̀ 33:9-27;
-- Ogun Hunain 9:25-27;
-- Madinah 9:40; Tabuk 9:38-123;
-- Banu An-Naḍîr 59:2-6;
-- Hamra' Al-Asad 3:172-175;
+- láti ìjíkúrò rẹ̀ (hijrah) sí Ogun Badr 3:121-129; 8:42-44; 8:65-71
+- Ogun Uhud 3:151-180
+- Ogun Ìhámọ̀ 33:9-27
+- Ogun Hunain 9:25-27
+- Madinah 9:40; Tabuk 9:38-123
+- Banu An-Naḍîr 59:2-6
+- Hamra' Al-Asad 3:172-175
 - Àdéhùn Hudaibiyah 48:1-7; 48:10-29
 Àwọn ọlá tí a fún Annabí ( ﷺ )
-- Allàh àti àwọn angẹli Rẹ̀ bùkún fún un 33:56;
-- ìrìn àjò òru láti Makkah sí Jerúsálẹ́mù 17:1;
-- ìrìn àjò sí àwọn ọ̀run 53:1-18;
-- a bọ̀wọ̀ fún un ní ìgbésí ayé yìí àti ti tó ń bọ̀ 17:79; 66:8; 108:1;
-- ìgbọràn sí i jẹ́ ìgbọràn sí Allàh 4:80;
-- ẹsan ìgbọràn sí Allàh àti Òjíṣẹ́ Rẹ̀ 4:69;
-- a sọ ìdílé rẹ̀ di mímọ́ 33:33-34;
-- rí Jibrilu nínú ìrísí òtítọ́ rẹ̀ 53:1-18;
-- a paṣẹ fún àwọn onígbàgbọ́ láti gbọràn sí i 59:7;
+- Allàh àti àwọn angẹli Rẹ̀ bùkún fún un 33:56
+- ìrìn àjò òru láti Makkah sí Jerúsálẹ́mù 17:1
+- ìrìn àjò sí àwọn ọ̀run 53:1-18
+- a bọ̀wọ̀ fún un ní ìgbésí ayé yìí àti ti tó ń bọ̀ 17:79; 66:8; 108:1
+- ìgbọràn sí i jẹ́ ìgbọràn sí Allàh 4:80
+- ẹsan ìgbọràn sí Allàh àti Òjíṣẹ́ Rẹ̀ 4:69
+- a sọ ìdílé rẹ̀ di mímọ́ 33:33-34
+- rí Jibrilu nínú ìrísí òtítọ́ rẹ̀ 53:1-18
+- a paṣẹ fún àwọn onígbàgbọ́ láti gbọràn sí i 59:7
 - àwọn ìwà nípa sísọ̀rọ̀ sí i 49:1-5
-- àwọn ìwà nípa ṣèbẹ̀wò rẹ̀ 33:53;
-- àwọn ìwà nípa ìbáṣepọ̀ pẹ̀lú àwọn ìyàwó rẹ̀ 33:53;
-- Allàh ní ìtẹ́lọrùn pẹ̀lú rẹ̀ àti àwọn alábàásọ rẹ̀ 9:100; 9:117;
+- àwọn ìwà nípa ṣèbẹ̀wò rẹ̀ 33:53
+- àwọn ìwà nípa ìbáṣepọ̀ pẹ̀lú àwọn ìyàwó rẹ̀ 33:53
+- Allàh ní ìtẹ́lọrùn pẹ̀lú rẹ̀ àti àwọn alábàásọ rẹ̀ 9:100; 9:117
 - ọlá àwùjọ ìgbàgbọ́ rẹ̀ 2:143; 3:110
-Àdúrà (salah) 2:45; 9:103; 51:18; 70:22-23; 75:31; 96:10; 108:2;
-- àpéjọ Ọjọ́ Jimọ̀ 62:9;
-- ìtọ́sọ̀nà àdúrà (qiblah) 2:144; 2:149-150;
-- yẹ kí ó dá àwọn iṣe búburú dúró 29:45;
-- àwọn àkókò 11:114; 17:78; 17:79; 20:130; 24:36; 24:58; 30:17-18; 32:16; 38:18; 50:39-40; 51:17; 52:48-49; 73:2-4; 76:25-26;
-- nígbà ewu tàbí nínú ìrìn àjò 2:239; 4:101-102;
-- ìkìlọ̀ sí àwọn tó ń gbàgbé àdúrà 19:59; 74:38-47; 107:5-7;
+Àdúrà (salah) 2:45; 9:103; 51:18; 70:22-23; 75:31; 96:10; 108:2
+- àpéjọ Ọjọ́ Jimọ̀ 62:9
+- ìtọ́sọ̀nà àdúrà (qiblah) 2:144; 2:149-150
+- yẹ kí ó dá àwọn iṣe búburú dúró 29:45
+- àwọn àkókò 11:114; 17:78; 17:79; 20:130; 24:36; 24:58; 30:17-18; 32:16; 38:18; 50:39-40; 51:17; 52:48-49; 73:2-4; 76:25-26
+- nígbà ewu tàbí nínú ìrìn àjò 2:239; 4:101-102
+- ìkìlọ̀ sí àwọn tó ń gbàgbé àdúrà 19:59; 74:38-47; 107:5-7
 - àwọn àdúrà àgàbàgebè 4:142; 9:54
-Ìmọ́, mimọ (wudu) 5:6;
-- ìwẹ̀ àkópọ̀ (ghusl) 2:222; 4:43;
+Ìmọ́, mimọ (wudu) 5:6
+- ìwẹ̀ àkópọ̀ (ghusl) 2:222; 4:43
 - mimọ gbígbẹ (tayammum) 4:43; 5:6
 Àwọn Àdúrà (du'a)
-- ti Ibraaheem 2:126-129; 2:126-129; 14:35-41; 26:83-89;
-- Adamu àti Efa 7:23;
-- Jesu 5:114;
-- Jọbu 21:83; 21:83;
-- Jonah 21:87;
-- Josefu 12:33; 12:101;
-- Musa 10:88-89; 20:25-35;
+- ti Ibraaheem 2:126-129; 2:126-129; 14:35-41; 26:83-89
+- Adamu àti Efa 7:23
+- Jesu 5:114
+- Jọbu 21:83; 21:83
+- Jonah 21:87
+- Josefu 12:33; 12:101
+- Musa 10:88-89; 20:25-35
 - Muhammad 17:80; 20:114
-- Noa 23:26; 26:117-118; 54:9-10; 71:26; 71:28;
-- Solomoni 38:35;
-- Shu'aibu 7:89;
-- Sakariya 3:38; 19:2-6; 21:89-90;
-- àwọn angẹli 40:8-9;
-- màmá Mariamu 3:35-36;
-- ìyàwó Pharaoh 66:11;
-- àwọn ajẹ́ Pharaoh 7:126;
-- Ọba Saul àti àwọn onígbàgbọ́ pẹ̀lú rẹ̀ 2:250;
-- àwọn onígbàgbọ́ Àwọn ọmọ Israẹli 10:85-86;
-- àwọn ènìyàn ihò 18:10;
-- àwọn olódodo 2:285-286; 3:8-9; 3:16; 3:147; 3:191-194; 25:74; 59:10;
+- Noa 23:26; 26:117-118; 54:9-10; 71:26; 71:28
+- Solomoni 38:35
+- Shu'aibu 7:89
+- Sakariya 3:38; 19:2-6; 21:89-90
+- àwọn angẹli 40:8-9
+- màmá Mariamu 3:35-36
+- ìyàwó Pharaoh 66:11
+- àwọn ajẹ́ Pharaoh 7:126
+- Ọba Saul àti àwọn onígbàgbọ́ pẹ̀lú rẹ̀ 2:250
+- àwọn onígbàgbọ́ Àwọn ọmọ Israẹli 10:85-86
+- àwọn ènìyàn ihò 18:10
+- àwọn olódodo 2:285-286; 3:8-9; 3:16; 3:147; 3:191-194; 25:74; 59:10
 - àwọn tí a ṣe àìdálójú 4:75
 Àwọn Ẹsẹ Ìpẹlẹ́
 - sajadat, ọpọ̀ sajdah, 7:206; 13:15; 16:49; 17:109; 19:58; 22:18; 22:77; 25:60; 27:26; 32:15; 38:24; 41:37; 53:62; 84:21; 96:19
-Owo-orí ìfọwọ́sọwọ́pọ̀ (zakah), gẹ́gẹ́ bí ojúṣe 2:110; 2:177; 2:277; 6:141;
-- ọ̀kan nínú àwọn ìwà àwọn onígbàgbọ́ 22:41; 23:4; 51:19;
+Owo-orí ìfọwọ́sọwọ́pọ̀ (zakah), gẹ́gẹ́ bí ojúṣe 2:110; 2:177; 2:277; 6:141
+- ọ̀kan nínú àwọn ìwà àwọn onígbàgbọ́ 22:41; 23:4; 51:19
 - àwọn olùgba 9:60
 - ìfọwọ́sọwọ́pọ̀ (sadaqah) 2:177; 2:261-263; 2:267-274; 3:92; 63:10
 - ìkìlọ̀ sí àwọn tó dè 3:180; 9:34; 47:38
 Àwàwí (sawm)
-- nínú Ramadan 2:183-185;
-- àwọn wákàtí àwàwí 2:187;
-- àwọn àfilọ́ 2:184-185;
-- ìbálòpọ̀ ní òru tí ó ṣáájú àwàwí 2:187;
+- nínú Ramadan 2:183-185
+- àwọn wákàtí àwàwí 2:187
+- àwọn àfilọ́ 2:184-185
+- ìbálòpọ̀ ní òru tí ó ṣáájú àwàwí 2:187
 - àwàwí nínú ìrìn àjò mímọ́ 2:196
-Ìrìn Àjò Mímọ́ (hajj),
-- ojúṣe fún àwọn tó ní agbára 3:97;
-- àwọn ìṣe àti àwọn òfin 2:158; 2:189; 2:196-203; 5:2; 22:26-37;
-- àwọn ìrúbọ 2:196; 22:36-37;
-- ìdọ̀ti lati ṣọdẹ lórí ilẹ̀ nígbà ìrìn àjò mímọ́ 5:1; 5:94-95;
+Ìrìn Àjò Mímọ́ (hajj)
+- ojúṣe fún àwọn tó ní agbára 3:97
+- àwọn ìṣe àti àwọn òfin 2:158; 2:189; 2:196-203; 5:2; 22:26-37
+- àwọn ìrúbọ 2:196; 22:36-37
+- ìdọ̀ti lati ṣọdẹ lórí ilẹ̀ nígbà ìrìn àjò mímọ́ 5:1; 5:94-95
 - ìgbaniláàyè láti ṣọdẹ ní òkun 5:96
 - Ìrìn Àjò Kékeré ('umrah) 2:158; 2:196
 Àwọn àwùjọ ìgbàgbọ́
-- Àwọn Mùsùlùmí 2:132-136; 3:64; 3:84; 5:111; 22:77-78; 33:35; 41:33; 43:67-70; 72:14-15;
-- àwọn olùdáàbòbò ara wọn 3:28; 9:71;
-- Àwọn Kristẹni 2:62; 2:111-140; 4:171-172; 5:14-19; 5:82-86; 5:116-120; 9:30-31; 22:17;
-- Àwọn Júù 2:62, 111-140; 5:44-45; 6:146; 22:17; 62:6-8;
-- Àwọn ọmọ Israẹli 2:40-103, 122-123, 246-251; 3:49; 3:93-94; 5:12-13, 20-26, 32, 70-71, 78-81; 7:137-141, 148-153,159-171; 10:83-93; 14:5-8; 17:2-8, 104; 20:80-98; 26:52-67, 197; 27:76; 44:23-33; 45:16-17; 46:10; 61:5-6;
+- Àwọn Mùsùlùmí 2:132-136; 3:64; 3:84; 5:111; 22:77-78; 33:35; 41:33; 43:67-70; 72:14-15
+- àwọn olùdáàbòbò ara wọn 3:28; 9:71
+- Àwọn Kristẹni 2:62; 2:111-140; 4:171-172; 5:14-19; 5:82-86; 5:116-120; 9:30-31; 22:17
+- Àwọn Júù 2:62, 111-140; 5:44-45; 6:146; 22:17; 62:6-8
+- Àwọn ọmọ Israẹli 2:40-103, 122-123, 246-251; 3:49; 3:93-94; 5:12-13, 20-26, 32, 70-71, 78-81; 7:137-141, 148-153,159-171; 10:83-93; 14:5-8; 17:2-8, 104; 20:80-98; 26:52-67, 197; 27:76; 44:23-33; 45:16-17; 46:10; 61:5-6
 - Àwọn ènìyàn Ìwé (àwọn Júù àti Kristẹni jùlọ) 2:109; 3:64-115, 199; 4:123-172; 5:15-77; 6:20-21; 13:36; 28:52-55; 29:46-47; 57:16, 28-29; 74:31; 98:1-5
 - Àwọn Mùsùlùmí lè jẹ ẹran ti àwọn ó pa àti fẹ àwọn obìnrin wọn 5:5
-- àwọn oúnjẹ tí a kọ̀ fún àwọn Júù 6:146;
-- Àwọn Sabiani 2:62; 22:17;
-- Magi 22:17;
-- àwọn aṣọ̀fun (àwọn aṣàjọsìn ère) 3:186; 6:148; 9:6, 17; 10:28; 16:86; 22:17; 53:19-30;
-- àwọn àṣà ìgbàgbọ́ aṣọ̀fun 2:189; 5:103; 6:138-144;
+- àwọn oúnjẹ tí a kọ̀ fún àwọn Júù 6:146
+- Àwọn Sabiani 2:62; 22:17
+- Magi 22:17
+- àwọn aṣọ̀fun (àwọn aṣàjọsìn ère) 3:186; 6:148; 9:6, 17; 10:28; 16:86; 22:17; 53:19-30
+- àwọn àṣà ìgbàgbọ́ aṣọ̀fun 2:189; 5:103; 6:138-144
 - àwọn aláìgbàgbọ́ 52:35-36
 Àwọn ìwà aṣọ̀fun tí a fòfinde
-- ìsìnkú àwọn ọmọbìnrin láàyè 16:58-59; 81:8-9;
-- pípa àwọn ọmọ nítorí ẹ̀rù òṣì 6:137; 6:151; 17:31;
-- fẹnu yó àti pàtẹwọ́ ní àyíká Ka'bah 8:35;
-- ṣíṣe àwọn ràkúnmí fún àwọn ère 5:103; 6:136;
-- ìrúbọ ní orúkọ àwọn ère 6:121;
-- ìkọ̀silẹ̀ zihar 33:4; 58:2-4;
-- ila' (fún jù oṣù mẹ́rin lọ) 2:226-227;
-- yíyọ ìpín fún àwọn ìpinnu 5:3;
-- yíyíká Ka'bah ní ipò ìhòhò 7:26-28;
+- ìsìnkú àwọn ọmọbìnrin láàyè 16:58-59; 81:8-9
+- pípa àwọn ọmọ nítorí ẹ̀rù òṣì 6:137; 6:151; 17:31
+- fẹnu yó àti pàtẹwọ́ ní àyíká Ka'bah 8:35
+- ṣíṣe àwọn ràkúnmí fún àwọn ère 5:103; 6:136
+- ìrúbọ ní orúkọ àwọn ère 6:121
+- ìkọ̀silẹ̀ zihar 33:4; 58:2-4
+- ila' (fún jù oṣù mẹ́rin lọ) 2:226-227
+- yíyọ ìpín fún àwọn ìpinnu 5:3
+- yíyíká Ka'bah ní ipò ìhòhò 7:26-28
 - títẹ ilé nípasẹ̀ ẹnu-ọ̀nà ẹ̀yìn lẹ́yìn ìrìn àjò mímọ́ 2:189
-Àwọn ohun ìjọsìn,
-- àwọn angẹli (nínú àwọn Lárúbáwá aṣọ̀fun kan) 34:40;
-- Al-Aykah (nínú àwọn ènìyàn Shu'aibu) 26:176;
-- Ba'l (nínú àwọn ènìyàn Elias 37:125;
-- Jesu (nínú Kristẹnídọ̀) 5:17;
-- àwọn ère (nínú àwọn ènìyàn Ibraaheem) 21:52-53;
-- àwọn ère Lat, 'Uzza, àti Manat (nínú àwọn Lárúbáwá aṣọ̀fun) 53:19-20;
-- àwọn ère Wadd, Suwa', Yaghuth, Ya'uq, àti Nasr (nínú àwọn ènìyàn Noa) 71:23;
-- oòrùn (àwọn ènìyàn Sheba) 27:24;
-- Sirius (nínú àwọn Lárúbáwá aṣọ̀fun kan) 53:49;
-- Pharaoh (ní Éjíbítì àtijọ́) 26:29; 28:38; 79:24;
-- àwọn ìfẹ́ 25:43-44; 45:23;
+Àwọn ohun ìjọsìn
+- àwọn angẹli (nínú àwọn Lárúbáwá aṣọ̀fun kan) 34:40
+- Al-Aykah (nínú àwọn ènìyàn Shu'aibu) 26:176
+- Ba'l (nínú àwọn ènìyàn Elias 37:125
+- Jesu (nínú Kristẹnídọ̀) 5:17
+- àwọn ère (nínú àwọn ènìyàn Ibraaheem) 21:52-53
+- àwọn ère Lat, 'Uzza, àti Manat (nínú àwọn Lárúbáwá aṣọ̀fun) 53:19-20
+- àwọn ère Wadd, Suwa', Yaghuth, Ya'uq, àti Nasr (nínú àwọn ènìyàn Noa) 71:23
+- oòrùn (àwọn ènìyàn Sheba) 27:24
+- Sirius (nínú àwọn Lárúbáwá aṣọ̀fun kan) 53:49
+- Pharaoh (ní Éjíbítì àtijọ́) 26:29; 28:38; 79:24
+- àwọn ìfẹ́ 25:43-44; 45:23
 - ìgbàgbọ́ nínú àwọn ọlọ́run púpọ̀ a tako 17:42-43; 21:21-24; 25:3
-Àwọn ibi ìjọsìn, àwọn mọsalásí 9:18;
-- àwọn ṣọọ̀tì, àwọn sinagọ̀gù, àti àwọn mọnásítẹ̀rì 22:40;
-- ibi mímọ́ 3:39; 38:21;
+Àwọn ibi ìjọsìn, àwọn mọsalásí 9:18
+- àwọn ṣọọ̀tì, àwọn sinagọ̀gù, àti àwọn mọnásítẹ̀rì 22:40
+- ibi mímọ́ 3:39; 38:21
 - tẹ́ńpìlì 17:7
 - Àwọn àkọlé ẹ̀sìn, àwọn àlùfáà, àwọn mọnki, àti àwọn rabbai 5:44; 5:63; 5:82; 9:31-34
-Àwọn Angẹli,
+Àwọn Angẹli
 - béèrè nípa ìṣẹ̀dá Adamu 2:30-34
-- kò ṣe àì-gbọràn sí Allàh 21:26-27; 66:6;
-- kò ṣe àwọn ọmọbìnrin Allàh 21:26; 43:16-19;
-- àwọn angẹli olùṣọ 13:11;
-- angẹli méjì tó ń gbasilẹ 50:16-18; 82:10-12;
-- mẹjọ tó ń gbé Àtẹ́ Ìjókòó Allàh ní Ọjọ́ Ìdájọ́ 69:17;
-- mọkàndínlógún tó ń ṣọ ọrùn-ọrun 74:26-31;
-- Àwọn Angẹli Ikú 6:93; 16:28; 32:11;
-- Jibrilu 2:97; 66:4; 26:192-195; 53:1-14;
-- Mikailu 2:98;
+- kò ṣe àì-gbọràn sí Allàh 21:26-27; 66:6
+- kò ṣe àwọn ọmọbìnrin Allàh 21:26; 43:16-19
+- àwọn angẹli olùṣọ 13:11
+- angẹli méjì tó ń gbasilẹ 50:16-18; 82:10-12
+- mẹjọ tó ń gbé Àtẹ́ Ìjókòó Allàh ní Ọjọ́ Ìdájọ́ 69:17
+- mọkàndínlógún tó ń ṣọ ọrùn-ọrun 74:26-31
+- Àwọn Angẹli Ikú 6:93; 16:28; 32:11
+- Jibrilu 2:97; 66:4; 26:192-195; 53:1-14
+- Mikailu 2:98
 - Malik 43:77
 Àwọn Òjíṣẹ́
-- láti nínú àwọn angẹli àti ènìyàn 22:75;
+- láti nínú àwọn angẹli àti ènìyàn 22:75
 - Àwọn Òjíṣẹ́ Agbára Ìdánimọ̀ (Ibraaheem, Noa, Musa, Jesu, àti Muhammad ﷺ ) 33:7; 42:13; 46:35
 Àwọn Ìwé Mímọ́
-- Qur'an, ìfihàn láti Allàh 12:2-3; 20:2-4; 26:192-195; 32:2-3;
-- ìrántí fún gbogbo àgbáyé 68:51-52;
-- ṣamọ̀nà sí ọ̀nà ìgbésí ayé tí ó tọ jùlọ 17:9;
-- ìṣàfihàn bẹ̀rẹ̀ ní oṣù Ramadân 2:185;
-- ní òru olùbùkún 44:3;97:1-5;
-- a ṣàfihàn ní àwọn ìpele 17:105-106;
-- a ṣe rọrùn láti rántí 54:17;
-- jẹ́rìí si òtítọ́ nínú àwọn ìfihàn tẹ́lẹ̀ 3:3-4;
-- aláṣẹ gíga lórí àwọn Ìwé tẹ́lẹ̀ 5:48;
-- kò sí iyèméjì nínú rẹ̀ 2:2; 10:37;
-- kò sí àwọn ìtakora 4:82;
-- a kò ṣe é 10:37-39;
-- a kò ṣe àdàkọ rẹ̀ láti Bíbélì 25:4-6;
-- àwọn ẹ̀mí búburú kò ṣàfihàn rẹ̀ 26:210-212;
+- Qur'an, ìfihàn láti Allàh 12:2-3; 20:2-4; 26:192-195; 32:2-3
+- ìrántí fún gbogbo àgbáyé 68:51-52
+- ṣamọ̀nà sí ọ̀nà ìgbésí ayé tí ó tọ jùlọ 17:9
+- ìṣàfihàn bẹ̀rẹ̀ ní oṣù Ramadân 2:185
+- ní òru olùbùkún 44:3;97:1-5
+- a ṣàfihàn ní àwọn ìpele 17:105-106
+- a ṣe rọrùn láti rántí 54:17
+- jẹ́rìí si òtítọ́ nínú àwọn ìfihàn tẹ́lẹ̀ 3:3-4
+- aláṣẹ gíga lórí àwọn Ìwé tẹ́lẹ̀ 5:48
+- kò sí iyèméjì nínú rẹ̀ 2:2; 10:37
+- kò sí àwọn ìtakora 4:82
+- a kò ṣe é 10:37-39
+- a kò ṣe àdàkọ rẹ̀ láti Bíbélì 25:4-6
+- àwọn ẹ̀mí búburú kò ṣàfihàn rẹ̀ 26:210-212
 - kò sí ẹni tó lè ṣe nǹkan tó jọ rẹ̀ 17:88; 2:23-24;10:13-14; 11:13
-- a dáàbòbò kúrò nínú ìdàrúdàpọ̀ 15:9;
-- a tọ́jú nínú Pákó Tí a Tọ́jú 56:75-80;
-- a kò lè fi ẹ̀rí fòfinde rẹ̀ 41:42;
-- sọ àsọtẹlẹ àwọn ìṣẹlẹ ọjọ́ iwájú 30:1-7; 48:27;
-- mú àwọn onígbàgbọ́ sọkún 5:83; 17:107-109;
-- fọwọ́ kan ọkàn 39:23;
-- ìmọ́lẹ̀ àgbàyanu 4:174; 42:52;
+- a dáàbòbò kúrò nínú ìdàrúdàpọ̀ 15:9
+- a tọ́jú nínú Pákó Tí a Tọ́jú 56:75-80
+- a kò lè fi ẹ̀rí fòfinde rẹ̀ 41:42
+- sọ àsọtẹlẹ àwọn ìṣẹlẹ ọjọ́ iwájú 30:1-7; 48:27
+- mú àwọn onígbàgbọ́ sọkún 5:83; 17:107-109
+- fọwọ́ kan ọkàn 39:23
+- ìmọ́lẹ̀ àgbàyanu 4:174; 42:52
 - ìwòsàn àti àánú fún àwọn onígbàgbọ́ 17:82
 - Torah 3:3; 3:93; 5:46; 5:66-68, 110; 7:157; 9:111; 48:29; 61:6; 62:5
-- Ihinrere 3:3; 48; 5:46-47, 66-68, 77, 110; 7:157; 9:111; 48:29; 57:27
+- Ihinrere 3:3, 48; 5:46-47, 66-68, 77, 110; 7:157; 9:111; 48:29; 57:27
 - Psalmu 4:163; 17:55
 - Àwọn Ìwé Scrolls Ibraaheem 53:36-44; 87:14-19
-Àánú àti ìpinnu 3:145; 9:51; 10:107; 11:6; 54:49; 67:30;
+Àánú àti ìpinnu 3:145; 9:51; 10:107; 11:6; 54:49; 67:30
 - ìfẹ̀ ominira 6:148-150; 11:118-119; 16:93; 33:72-73; 39:41; 76:1-3; 91:1-10
-Ọjọ́ Ìdájọ́,
-- kò sí àìdálójú 2:281; 18:49; 40:17;
-- àwọn ẹ̀rù ìparún àgbáyé 22:1-2; 27:82-84, 87; 40:18; 52:11-16; 69:13-18; 70:8-18; 73:17-18; 75:7-15; 77:8-15; 78:17-20; 79:34-36; 80:33-42; 81:1-14; 82:1-5; 84:1-5; 87:17-40; 99:1-8; 101:1-11;
-- àwọn olódodo àti àwọn ẹni búburú ní Ọjọ́ náà 11:105-108; 16:27-33, 84-89; 18:52-53; 20:100-111; 25:24-29; 30:12-16; 33:63-68; 39:68-75; 50:20-35; 55:37-41; 83:4-36;
+Ọjọ́ Ìdájọ́
+- kò sí àìdálójú 2:281; 18:49; 40:17
+- àwọn ẹ̀rù ìparún àgbáyé 22:1-2; 27:82-84, 87; 40:18; 52:11-16; 69:13-18; 70:8-18; 73:17-18; 75:7-15; 77:8-15; 78:17-20; 79:34-36; 80:33-42; 81:1-14; 82:1-5; 84:1-5; 87:17-40; 99:1-8; 101:1-11
+- àwọn olódodo àti àwọn ẹni búburú ní Ọjọ́ náà 11:105-108; 16:27-33, 84-89; 18:52-53; 20:100-111; 25:24-29; 30:12-16; 33:63-68; 39:68-75; 50:20-35; 55:37-41; 83:4-36
 - àtinúdá (shafa'ah) 2:48, 255; 6:51, 70; 10:3; 21:28; 32:4; 36:23; 39:43-44; 43:86; 53:26;74:48
-Àwọn àkọsílẹ̀ iṣe 17:13; 18:49;
-- àwọn onígbàgbọ́ gba àkọsílẹ̀ wọn pẹ̀lú ọwọ́ ọ̀tún 69:19-24; 84:7-9;
-- àwọn aláìgbàgbọ́ gba àkọsílẹ̀ wọn pẹ̀lú ọwọ́ òsì 69:25-37; 84:10-15;
-- kò sí ohun tí a fì pamọ́ kúrò lọ́wọ́ Allàh 21:47; 40:16;
-- wíwọn àwọn iṣe 7:8; 23:102-104; 101:1-11;
-- ẹ̀rí àwọn ẹ̀yà ara 41:19-24; 24:24;
+Àwọn àkọsílẹ̀ iṣe 17:13; 18:49
+- àwọn onígbàgbọ́ gba àkọsílẹ̀ wọn pẹ̀lú ọwọ́ ọ̀tún 69:19-24; 84:7-9
+- àwọn aláìgbàgbọ́ gba àkọsílẹ̀ wọn pẹ̀lú ọwọ́ òsì 69:25-37; 84:10-15
+- kò sí ohun tí a fì pamọ́ kúrò lọ́wọ́ Allàh 21:47; 40:16
+- wíwọn àwọn iṣe 7:8; 23:102-104; 101:1-11
+- ẹ̀rí àwọn ẹ̀yà ara 41:19-24; 24:24
 - ẹsan fún àwọn iṣe rere àti búburú 6:160; 27:89-90; 28:84
 Àwọn irú ènìyàn
-- àwọn onígbàgbọ́ 18:107-108;
-- àwọn aláìgbàgbọ́ 4:167-169;
-- àwọn àgàbàgebè 4:145; 57:13-15;
-- àwọn olùgbé Ọ̀run Ẹdẹni, àwọn onígbàgbọ́ àkọ́kọ́ 55:46-61; 56:10-26;
-- àwọn olùgbé Ọ̀run Ẹdẹni, àwọn ènìyàn ọwọ́ ọ̀tún 55:62-78; 56:27-40;
-- àwọn olùgbé Ọrùn-ọrun, àwọn ènìyàn ọwọ́ òsì 55:31-45; 56:41-56;
+- àwọn onígbàgbọ́ 18:107-108
+- àwọn aláìgbàgbọ́ 4:167-169
+- àwọn àgàbàgebè 4:145; 57:13-15
+- àwọn olùgbé Ọ̀run Ẹdẹni, àwọn onígbàgbọ́ àkọ́kọ́ 55:46-61; 56:10-26
+- àwọn olùgbé Ọ̀run Ẹdẹni, àwọn ènìyàn ọwọ́ ọ̀tún 55:62-78; 56:27-40
+- àwọn olùgbé Ọrùn-ọrun, àwọn ènìyàn ọwọ́ òsì 55:31-45; 56:41-56
 - àwọn ènìyàn lórí gíga 7:46-49
 Ìnáwó
-- Àwọn ìtọ́sọ̀nà òwò 2:188; 2:275; 2:282-283; 4:29; 4:58; 6:152; 17:34-35;
-24:36-37; 26:182; 30:39; 55:7-9; 62:9
-- Àwọn àṣẹ-ìpín, àwọn àṣẹ-ìpín àṣàyàn sí àwọn tí kò jẹ́ arọmọdọmọ 2:180-183; 4:11-12;
+- Àwọn ìtọ́sọ̀nà òwò 2:188; 2:275; 2:282-283; 4:29; 4:58; 6:152; 17:34-35; 24:36-37; 26:182; 30:39; 55:7-9; 62:9
+- Àwọn àṣẹ-ìpín, àwọn àṣẹ-ìpín àṣàyàn sí àwọn tí kò jẹ́ arọmọdọmọ 2:180-183; 4:11-12
 ṣáájú ikú nígbà ìrìn àjò 5:106-108
 - Ẹ̀ràbàwọ̀ 2:188
-- Àwọn gbèsè, ìfẹ́ nínú gbígba àwọn gbèsè 2:280;
-- kíkọ àti jíjẹ́rìí àdéhùn gbèsè 2:282;
+- Àwọn gbèsè, ìfẹ́ nínú gbígba àwọn gbèsè 2:280
+- kíkọ àti jíjẹ́rìí àdéhùn gbèsè 2:282
 - gbígba àtìpọ̀lé 2:283
-- Ogún-ìní, àwọn ìtọ́sọ̀nà 4:7; 4:32-33; 8:75;
-- àwọn ìpín àwọn ọmọ àti àwọn òbí 4:11;
-- àwọn ìyàwó àti àwọn ẹ̀gbọ́n aburo ìdílé màmá 4:12;
-- àwọn ẹ̀gbọ́n aburo pípé 4:176;
+- Ogún-ìní, àwọn ìtọ́sọ̀nà 4:7; 4:32-33; 8:75
+- àwọn ìpín àwọn ọmọ àti àwọn òbí 4:11
+- àwọn ìyàwó àti àwọn ẹ̀gbọ́n aburo ìdílé màmá 4:12
+- àwọn ẹ̀gbọ́n aburo pípé 4:176
 - ìkìlọ̀ sí àwọn tí kò gba 4:13-14
-- Èlò owó, ìfòfinde àti ìkìlọ̀ 2:275-281; 3:130-132;
+- Èlò owó, ìfòfinde àti ìkìlọ̀ 2:275-281; 3:130-132
 - di aláìnírọ̀rùn 30:39
 Òfin
 - òfin ìtànjẹ (hirabah) 5:33-34
-- Ìdálójú, dídúró fún ìdálójú 4:135; 5:8; 16:90-91;
-- dídúró fún àwọn ẹ̀tọ́ àwọn òrukú àti obìnrin 4:127;
-- ìdálójú sí Júù 4:105-112;
-- ìdálójú sí aṣọ̀fun 4:58;
+- Ìdálójú, dídúró fún ìdálójú 4:135; 5:8; 16:90-91
+- dídúró fún àwọn ẹ̀tọ́ àwọn òrukú àti obìnrin 4:127
+- ìdálójú sí Júù 4:105-112
+- ìdálójú sí aṣọ̀fun 4:58
 - deedee pẹ̀lú àwọn tí kò jẹ́ Mùsùlùmí 60:8-9
 - Ìgbẹ́san nípasẹ̀ àwọn ọ̀nà òfin (pẹ̀lú àṣàyàn láti darí jì) 2:178-179; 5:45; 16:126; 17:33; 42:37-43
-- Ìyàtọ̀ láàárín ọkọ àti ìyàwó, khul' 2:229;
+- Ìyàtọ̀ láàárín ọkọ àti ìyàwó, khul' 2:229
 - lian (ẹ̀sùn ìgbálòpọ̀) 24:6-10
 Ìṣèlú
 - Ṣíṣe àwọn ọ̀rọ̀ nípasẹ̀ ìfọ̀kànbalẹ̀ (shura) 3:159; 42:38
-- Ogun fún ìdáàbòbò ara ẹni (jihad), àwọn ìwà 2:190-192; 2:216; 22:38-40;
-- kò ní kọlù lọ́nà àìṣèlọ 4:94;
-- ogun fún àwọn ọkùnrin, obìnrin, àti àwọn ọmọ tí a ṣe àìdálójú 4:75;
-- ìdáàbòbò àwọn ibi ìjọsìn 22:37;
-- ẹsan àwọn olúṣàánú 2:154; 3:169-171; 9:111; 57:19;
-- agbára ológun ń dá àwọn ọ̀tá tó ṣeéṣe dúró 8:60;
+- Ogun fún ìdáàbòbò ara ẹni (jihad), àwọn ìwà 2:190-192; 2:216; 22:38-40
+- kò ní kọlù lọ́nà àìṣèlọ 4:94
+- ogun fún àwọn ọkùnrin, obìnrin, àti àwọn ọmọ tí a ṣe àìdálójú 4:75
+- ìdáàbòbò àwọn ibi ìjọsìn 22:37
+- ẹsan àwọn olúṣàánú 2:154; 3:169-171; 9:111; 57:19
+- agbára ológun ń dá àwọn ọ̀tá tó ṣeéṣe dúró 8:60
 - yíyan àlàáfíà 2:192; 8:61
 - Ṣíṣe àlàáfíà láàárín àwọn ẹgbẹ́ 49:9-10
 - Àwọn ẹlẹ́wọ̀n ogun, ìtọ́jú 8:70; 47:4; 76:8
 Àwùjọ
 - Gbígba ọmọ 33:4-5
 - Ìtọ́jú àwọn òrukú 2:220; 4:2-10; 4:127; 6:152; 17:34
-- Ìkọ̀silẹ̀, ìdàjọ́ àti ìrẹ̀púsọ̀ 4:35; 4:128;
-- àwọn ìwà ìkọ̀silẹ̀ 2:229-231; 65:1-2;
-- ìdowópọ̀ àti àkókò ìdúró 2:226-241; 4:19-21; 33:49; 65:1-7;
-- ọkọ kò ní mú ohunkóhun ti ìdowópọ̀ padà 4:20;
-- a kò ní dọ̀rọ̀ ìyàwó 65:6;
-- a ní ṣàtìlẹyìn ìyàwó ní ọrọ̀ nígbà oyún 65:6;
-- nígbà àkókò ìdúró rẹ̀ 65:6;
-- tí ó bá tọ́ ọmọ ọkọ tẹ́lẹ̀ mu 65:6;
-- kò sí òbí tó yẹ kí ó jìyà nítorí ọmọ rẹ̀ 2:233;
+- Ìkọ̀silẹ̀, ìdàjọ́ àti ìrẹ̀púsọ̀ 4:35; 4:128
+- àwọn ìwà ìkọ̀silẹ̀ 2:229-231; 65:1-2
+- ìdowópọ̀ àti àkókò ìdúró 2:226-241; 4:19-21; 33:49; 65:1-7
+- ọkọ kò ní mú ohunkóhun ti ìdowópọ̀ padà 4:20
+- a kò ní dọ̀rọ̀ ìyàwó 65:6
+- a ní ṣàtìlẹyìn ìyàwó ní ọrọ̀ nígbà oyún 65:6
+- nígbà àkókò ìdúró rẹ̀ 65:6
+- tí ó bá tọ́ ọmọ ọkọ tẹ́lẹ̀ mu 65:6
+- kò sí òbí tó yẹ kí ó jìyà nítorí ọmọ rẹ̀ 2:233
 - yíyan ìlọ́pọlọpọ 65:6
 - Ìgbéralẹ̀ rere àti ìfòfinde ibi 3:104; 3:110; 7:157; 9:71-72; 31:17
-- Ìdọ́gbà ẹ̀dá ènìyàn 49:13;
-- àwọn ọkùnrin àti obìnrin níwájú Allàh àti òfin, 3:195; 4:124; 5:38; 16:97; 24:2; 40:40;
+- Ìdọ́gbà ẹ̀dá ènìyàn 49:13
+- àwọn ọkùnrin àti obìnrin níwájú Allàh àti òfin, 3:195; 4:124; 5:38; 16:97; 24:2; 40:40
 - àwọn ọkùnrin ní ipele ojúṣe tó ga jù lórí àwọn obìnrin 2:228
 - Jíjẹun fún àwọn tálákà, àwọn òrukú, àti àwọn ẹlẹ́wọ̀n 76:8-9
 - Ìdáríjì àti ìdarí ìbínú 3:134; 42:40
 - Dásíláàyè àwọn ẹrú àti ìrànlọ́wọ́ sí wọn 4:92; 5:89; 9:60; 24:33; 58:3; 90:13
 - Bọ̀wọ̀ fún àwọn òbí ara ẹni 4:36; 17:23-25; 31:14-15
 - Ìwà ìrẹlẹ 17:37; 31:18-19
-- Ìtumọ̀ àwọn ìrólẹ̀ Ibraaheem 37:102;
-- Ìtumọ̀ àwọn ìrólẹ̀ Josefu 12:4; 12:36; 12:43;
+- Ìtumọ̀ àwọn ìrólẹ̀ Ibraaheem 37:102
+- Ìtumọ̀ àwọn ìrólẹ̀ Josefu 12:4; 12:36; 12:43
 - Ìtumọ̀ àwọn ìrólẹ̀ Muhammad 8:43; 48:27
 - Ìfẹ́ sí àwọn tí kò jẹ́ Mùsùlùmí 60:8
-- Ìgbéyàwó 4:3; 4:129; 16:72; 30:21;
-- àwọn obìnrin tí a gbà àti tí a kọ̀ láti fẹ 4:22-24;
-- àwọn ìwà ìbálòpọ̀ 2:222-223;
-- oyún àti ìbọ̀mu 2:233; 31:4; 46:15; 65:6;
-- ìfẹ̀yìntì ìgbéyàwó pẹ̀lú ìyàwó tẹ́lẹ̀ 2:230;
-- ìrànlọ́wọ́ fún àwọn àdọ̀kan láti fẹ 24:32;
+- Ìgbéyàwó 4:3; 4:129; 16:72; 30:21
+- àwọn obìnrin tí a gbà àti tí a kọ̀ láti fẹ 4:22-24
+- àwọn ìwà ìbálòpọ̀ 2:222-223
+- oyún àti ìbọ̀mu 2:233; 31:4; 46:15; 65:6
+- ìfẹ̀yìntì ìgbéyàwó pẹ̀lú ìyàwó tẹ́lẹ̀ 2:230
+- ìrànlọ́wọ́ fún àwọn àdọ̀kan láti fẹ 24:32
 - ìfihàn ìfẹ́ ní ìbẹ̀rẹ̀pẹ̀lú nígbà àkókò ìdúró 2:235
-- Àwọn ìbúra 2:224-225; 16:91-92; 16:94;
+- Àwọn ìbúra 2:224-225; 16:91-92; 16:94
 - ṣíṣe àtúnṣe fún ìbúra tí a fọ́ 5:89
 - Ìfaradà nínú àwọn àkókò ìṣòro 2:45; 2:153-157; 3:186; 12:18; 12:83; 16:127-128; 70:5
-- Ìgbaniláàyè láti wọlé 24:58-60;
-- títẹ ilé àwọn ènìyàn 24:27-28;
+- Ìgbaniláàyè láti wọlé 24:58-60
+- títẹ ilé àwọn ènìyàn 24:27-28
 - títẹ àwọn ibi gbangba 24:29
-- Àwọn ìwà àwùjọ, ìṣàyẹ̀wò ìròyìn 4:83; 49:6;
-- bọ̀wọ̀ fún gbogbo ènìyàn 49:11-12;
-- àwọn ìwà àpéjọ 58:11;
+- Àwọn ìwà àwùjọ, ìṣàyẹ̀wò ìròyìn 4:83; 49:6
+- bọ̀wọ̀ fún gbogbo ènìyàn 49:11-12
+- àwọn ìwà àpéjọ 58:11
 - àwọn ìjíròrò àdáni 4:114; 58:9
 - Àwọn ìbúra ìdúró 2:270; 9:75-77; 22:29; 76:7
 - Ìjẹ tó pọ̀jù àti ìṣekúṣe 7:31; 17:29; 25:67
 Àwọn ìtàn mìíràn
-- Hábílì àti Kábílì 5:27-31;
-- Al-Khadir àti Musa 18:60-82;
-- Àwọn ọmọ ogun Erin 105:1-4;
-- onígbàgbọ́ láti àwọn ènìyàn Pharaoh 40:28-46;
-- ìbí Mariamu 3:35-36;
-- Màlúù Àwọn ọmọ Israẹli 2:67-74;
-- Ezra 2:259;
+- Hábílì àti Kábílì 5:27-31
+- Al-Khadir àti Musa 18:60-82
+- Àwọn ọmọ ogun Erin 105:1-4
+- onígbàgbọ́ láti àwọn ènìyàn Pharaoh 40:28-46
+- ìbí Mariamu 3:35-36
+- Màlúù Àwọn ọmọ Israẹli 2:67-74
+- Ezra 2:259
 - àwọn onílé ọgbà 68:17-32
 - Harut àti Marut 2:102
 - Korah 28:76-82
-- Ìmọ̀ràn Luqmanu fún ọmọ rẹ̀ 31:12-19;
-- olóni àwọn ọgbà méjì 18:32-44;
-- àwọn ènìyàn Sheba 34:15-19;
-- àwọn ènìyàn ihò 18:9-26;
-- àwọn ènìyàn ihò iná 85:1-8;
-- àwọn apẹ̀yìndà Ọjọ́ Àsè 7:163-165;
-- Samiri àti Màlúù Goolu 20:83-97;
-- Saul àti Samuẹli 2:247-251;
+- Ìmọ̀ràn Luqmanu fún ọmọ rẹ̀ 31:12-19
+- olóni àwọn ọgbà méjì 18:32-44
+- àwọn ènìyàn Sheba 34:15-19
+- àwọn ènìyàn ihò 18:9-26
+- àwọn ènìyàn ihò iná 85:1-8
+- àwọn apẹ̀yìndà Ọjọ́ Àsè 7:163-165
+- Samiri àti Màlúù Goolu 20:83-97
+- Saul àti Samuẹli 2:247-251
 - Zul-Qarnain 18:83-98
-Àwọn ẹ̀mí búburú 2:102; 6:71; 6:112; 6:121; 7:27; 7:30; 17:27; 19:68; 19:83; 22:3-4; 23:97-98; 26:210; 37:7-10; 38:37-38; 67:5;
-- àwọn ènìyàn àti jinn tó ń ṣe bí ẹ̀mí búburú 6:112;114:6;
+Àwọn ẹ̀mí búburú 2:102; 6:71; 6:112; 6:121; 7:27; 7:30; 17:27; 19:68; 19:83; 22:3-4; 23:97-98; 26:210; 37:7-10; 38:37-38; 67:5
+- àwọn ènìyàn àti jinn tó ń ṣe bí ẹ̀mí búburú 6:112;114:6
 - ọ̀run a dáàbòbò lòdì sí àwọn ẹ̀mí búburú 15:16-18
 Àwọn ìjẹ̀nù
-- láti má tẹ̀lé Annabí 25:27;
-- láti má gbọràn sí Allàh àti Òjíṣẹ́ Rẹ̀ 4:41-42; 33:64-68;
-- gbígba àwọn ọ̀rẹ́ búburú 25:28-29; 26:96-102; 43:36-39;
-- kíkọ̀ àwọn àmì Allàh 6:27-30;
+- láti má tẹ̀lé Annabí 25:27
+- láti má gbọràn sí Allàh àti Òjíṣẹ́ Rẹ̀ 4:41-42; 33:64-68
+- gbígba àwọn ọ̀rẹ́ búburú 25:28-29; 26:96-102; 43:36-39
+- kíkọ̀ àwọn àmì Allàh 6:27-30
 - láti má ṣiṣẹ́ fún Ìgbà Tó Ń Bọ̀ 89:23-24
 Àwọn ẹkún ìjákulẹ̀
-- ẹkún láti padà sí ayé 2:167; 6:27-28; 32:12-14; 42:44;
-- fún ànfàní ìkejì 35:36-37;
-- láti yọ kúrò nínú Iná 40:10-12;
-- fún oúnjẹ àti omi 7:51-52;
-- fún àwọn atinúdá 7:52-53;
-- láti di erùpẹ̀ 4:41-42; 78:40;
+- ẹkún láti padà sí ayé 2:167; 6:27-28; 32:12-14; 42:44
+- fún ànfàní ìkejì 35:36-37
+- láti yọ kúrò nínú Iná 40:10-12
+- fún oúnjẹ àti omi 7:51-52
+- fún àwọn atinúdá 7:52-53
+- láti di erùpẹ̀ 4:41-42; 78:40
 - fún ikú 43:74-78
 Àwọn ìwà àwọn olódodo
 - ìṣe àwọn ẹ̀tọ́ Ẹlẹ̀dàá àti ẹ̀dá Rẹ̀ 3:133-136; 4:36; 4:69-70; 6:151-154; 8:2-4; 13:19-24; 17:23-39;18:107-108; 23:1-11; 25:63-76; 42:36-43
 Àwọn ìwà àwọn ẹni búburú
-- aláìgbàṣepẹ 14:34;
-- ìṣekúṣe 17:100;
-- ìyára 21:37;
-- rántí Allàh nínú àwọn àkókò ìṣòro nìkan 10:12; 41:51;
-- aláìfaradà 70:19;
+- aláìgbàṣepẹ 14:34
+- ìṣekúṣe 17:100
+- ìyára 21:37
+- rántí Allàh nínú àwọn àkókò ìṣòro nìkan 10:12; 41:51
+- aláìfaradà 70:19
 - alájiyànjiyàn 18:54
 Àwọn Ẹ̀ṣẹ̀ Ńlá
-- ṣíṣe àwọn mìíràn papọ̀ pẹ̀lú Allàh nínú ìjọsìn (shirk) 4:48; 4:116; 5:72; 6:19; 31:13;
-- ìbùkún sí àwọn òbí ara ẹni 4:36; 6:151; 17:23;
-- gbàgbé tàbí jiyọ àwọn àdúrà dandan 19:59-60;
-- àìsan owo-orí ìfọwọ́sọwọ́pọ̀ 41:6-7;
-- pípa ènìyàn 6:151; 17:33;
-- pípa onígbàgbọ́ mọ̀ọ́mọ̀ 4:93;
-- jíjà 5:38;
-- ẹ̀tàn 7:85; 11:85; 26:182-183; 83:1-6;
-- irọ́ 2:10; 9:77; 39:60;
-- irọ́ nípa Allàh 6:93; 29:68; 61:7;
+- ṣíṣe àwọn mìíràn papọ̀ pẹ̀lú Allàh nínú ìjọsìn (shirk) 4:48; 4:116; 5:72; 6:19; 31:13
+- ìbùkún sí àwọn òbí ara ẹni 4:36; 6:151; 17:23
+- gbàgbé tàbí jiyọ àwọn àdúrà dandan 19:59-60
+- àìsan owo-orí ìfọwọ́sọwọ́pọ̀ 41:6-7
+- pípa ènìyàn 6:151; 17:33
+- pípa onígbàgbọ́ mọ̀ọ́mọ̀ 4:93
+- jíjà 5:38
+- ẹ̀tàn 7:85; 11:85; 26:182-183; 83:1-6
+- irọ́ 2:10; 9:77; 39:60
+- irọ́ nípa Allàh 6:93; 29:68; 61:7
 - àwọn ìbáṣepọ̀ ìbálòpọ̀ tí a fòfinde 2:222; 17:32; 24:2; 25:68; 29:28-30
-- àwọn ẹ̀sùn ìké nípa ìgbálòpọ̀ 24:4-5;
-- ìkọ̀ẹ̀sìn 2:217; 5:54;
-- jíjẹ ẹlẹdẹ àti àwọn oúnjẹ tí a fòfinde mìíràn (ẹran tí kú fúnra rẹ̀, ẹjẹ̀, àbbl.) 5:3; 6:145;
-- ọtí àti eré àtọ̀ pẹ̀lú owó 5:90-91;
-- ìtagbàsọ̀rọ̀ 49:11;
-- ẹ̀rí ìké 22:30;
+- àwọn ẹ̀sùn ìké nípa ìgbálòpọ̀ 24:4-5
+- ìkọ̀ẹ̀sìn 2:217; 5:54
+- jíjẹ ẹlẹdẹ àti àwọn oúnjẹ tí a fòfinde mìíràn (ẹran tí kú fúnra rẹ̀, ẹjẹ̀, àbbl.) 5:3; 6:145
+- ọtí àti eré àtọ̀ pẹ̀lú owó 5:90-91
+- ìtagbàsọ̀rọ̀ 49:11
+- ẹ̀rí ìké 22:30
 - ajẹ́ 2:102; 10:77; 20:69
 """;

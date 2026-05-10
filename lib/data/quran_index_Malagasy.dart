@@ -5,18 +5,18 @@ Fisasana (Wudu), 4:43; 5:6
 Abraham (Ibrahim) S.14; 2:135–136, 148; 3:33, 84, 95; 4:54, 125, 163; 6:161; 9:70, 114; 12:6, 38; 16:120; 19:58; 21:51, 60, 62, 69; 22:43, 78; 26:69; 29:31; 33:7; 37:83, 104, 109; 38:45; 42:13; 43:26; 51:24; 53:37; 57:26; 60:4; 87:19
 - tsy Jiosy na Kristiana, 3:67-68
 - nijoro tao amin'ny tempoly voalohany tao Bakkah, 3:97; 26:123
-- manangana ny fototry ny Ka'bah 2:124-129;
-- miantso ny olony hivavaka amin'ilay Andriamanitra Tokana sady Marina 2:130-133; 26:69-89; 29:16; 29:24-27;
-- adihevitra mpanjaka miavonavona 2:258,
-- manontany momba ny fitsanganana amin'ny maty 2:260;
-- sady tsy Jiosy no tsy Kristiana 3:65-68;
-- mandà ny fivavahana any an-danitra 6:74-87;
-- nahazo vaovao momba ny nahaterahan'i Isaka 11:69-76; 51:24-30;
-- ny vavaka nataony tao amin'ny Ka'bah 14:35-41;
-- notsidihin'ny anjely 15:51-56;
-- modely 16:123;
-- niantso ny rainy ho amin'ny fahamarinana 19:41-50;
-- nandrava ny sampy ary voavonjy tamin'ny afo 21:51-73; 37:83-113;
+- manangana ny fototry ny Ka'bah 2:124-129
+- miantso ny olony hivavaka amin'ilay Andriamanitra Tokana sady Marina 2:130-133; 26:69-89; 29:16; 29:24-27
+- adihevitra mpanjaka miavonavona 2:258
+- manontany momba ny fitsanganana amin'ny maty 2:260
+- sady tsy Jiosy no tsy Kristiana 3:65-68
+- mandà ny fivavahana any an-danitra 6:74-87
+- nahazo vaovao momba ny nahaterahan'i Isaka 11:69-76; 51:24-30
+- ny vavaka nataony tao amin'ny Ka'bah 14:35-41
+- notsidihin'ny anjely 15:51-56
+- modely 16:123
+- niantso ny rainy ho amin'ny fahamarinana 19:41-50
+- nandrava ny sampy ary voavonjy tamin'ny afo 21:51-73; 37:83-113
 - miantso ny rehetra ho amin'ny fivahiniana masina 22:26
 Abrar, 3:193, 198; 76:5; 82:13; 83:18-22
 Fanafoanana, 2:106, 16:101
@@ -26,11 +26,10 @@ Adama, 3:33, 59; 5:27; 7:26-27, 31, 35, 172; 17:70; 19:58; 36:60
 - hiankohoka eo anatrehan'ny anjely, 2:34; 7:11
 - hazo fahalalana, 2:35; 7:19-20; 20:120-121
 - fandroahana avy tao amin'ny Saha (tsy misy tsiny an'i Eva), 2:36; 7:24
-- nohajain'i Allah, nalain'i Satana fanahy 2:30-38; 7:11-25; 17:61-65; 18:50; 20:115-123; 38:71-85;
+- nohajain'i Allah, nalain'i Satana fanahy 2:30-38; 7:11-25; 17:61-65; 18:50; 20:115-123; 38:71-85
 - voavela heloka nataon'i Allah 2:37; 20:122
 'Adiyat, S.100
-'Adn Paradisa, 9:72; 13:23; 16:31; 18:31;
-19:61; 20:76; 35:33; 38:50; 40:8; 61:12; 98:8
+'Adn Paradisa, 9:72; 13:23; 16:31; 18:31;19:61; 20:76; 35:33; 38:50; 40:8; 61:12; 98:8
 tsarotra
 - tsy enta-mavesatra amin'ny enta-mavesatry ny hafa, 6:164; 17:15; 35:18; 39:7; 53:38
 - tsy mavesatra mihoatra ny zakany, 2:286; 6:152; 7:42; 23:62
@@ -113,7 +112,7 @@ Fivadiham-pinoana, 3:72; 3:86-88; 3:90-91; 3:167; 4:137; 5:54; 9:74; 9:107; 16:1
 Mpivadi-pinoana,47:25
 A'raf, S.7; 7:46, 48
 Arafat, 2:198
-Mifamaly,
+Mifamaly
 - tsy ho an'ireo izay mamitaka ny tenany, 4:107
 - niady ho azy ireo teto amin'ity tontolo ity ianao, fa iza no hiady ho azy ireo amin'ny Andro Fitsanganan-ko velona, 4:109
 Adihevitra/Fanafihana
@@ -123,7 +122,7 @@ Fiadiana, 16:81
 'Asr,S.103
 Ayat Al-Kursi, 2:255
 Mpanendrikendrika, 49:12; 104:1
-Badr (ady), 3:13,
+Badr (ady), 3:13
 - lesona avy amin'ny 8:5-19, 42-48
 Al-Bait-ul-Ma mur, 52:4
 Bakkah (Maka), 3:96
@@ -133,7 +132,7 @@ Mizana, 7:8-9; 17:35; 21:47; 55:7-9; 57:25; 101:6-9
 Banu An-Nadir, 59:2-6, 13
 Baqarah, S.2
 Bara'a (Jereo ny Taubah), S.9
-Barzakh,(Barrier), 23:100; 25:53; 55:20;
+Barzakh,(Barrier), 23:100; 25:53; 55:20
 - jereo koa ny 18:94-97; 34:54; 36:9
 Baiyinah, S.98
 Bibidia (amin'ny Andro Farany), 27:82
@@ -182,7 +181,7 @@ Baiboly, 5:64, 5:65, 5:68
 - fanodinkodinana ny, 3:78; 5:14-15
 Vorona, 2:260; 3:49; 5:110; 6:38; 12:36, 41; 16:79; 21:79; 22:31; 24:41; 27:16-17, 20; 34:10; 38:19; 56:21; 67:19; 105:3
 Vola-dra (Diya), 2:178-179; 4:92; 17:33
-Babo, ady, 4:94. 8:41; 59:6-8;
+Babo, ady, 4:94. 8:41; 59:6-8
 - maka tsy ara-dalàna, 3:162
 - mahita zavatra simba
 Kolikoly, 2:188
@@ -220,7 +219,7 @@ Akanjo, 7:26; 16:81
 - ny akanjo ivelany ho an'ny vehivavy dia misoroka ny fanorisorenana ataon'ny mpihatsaravelatsihy, 33:59-60
 Konfederasiona, 33:9, 22
 - jereo ny Fifampidinihana Ahzab, fifampiraharahana, 42:38
-Famoronana,
+Famoronana
 - manomboka ary averimberina, 10:4; 21:104; 27:64; 29:19-20
 - vaovao, 17:49, 98; 35:16
 - amin'ny fahamarinana, 15:85; 16:3; 29:44; 39:5; 44:39; 45:22; 46:3
@@ -240,12 +239,12 @@ Goaika, 5:31
 Fepetra, 2:53, 185; 3:4; 8:29, 41; 21:48; 25:1
 Dahr, (jereo Insan,) S.76; 45:24
 - fotoana, 76:1; 103:1
-Davida, 5:78; 6:84; 17:55; 34:10, 13; 38:17-30;
+Davida, 5:78; 6:84; 17:55; 34:10, 13; 38:17-30
 - nomena ny Salamo 4:163
 - niady sy namono an'i Goliata, 2:251
-- namoaka didim-pitsarana 21:78-80;
-- notahina tamin'ny fahalalana sy ny faminaniana 27:15-16;
-- miaraka aminy midera an'i Allah ny tendrombohitra sy ny vorona (34:10; 38:17-20);
+- namoaka didim-pitsarana 21:78-80
+- notahina tamin'ny fahalalana sy ny faminaniana 27:15-16
+- miaraka aminy midera an'i Allah ny tendrombohitra sy ny vorona (34:10; 38:17-20)
 - mitsara eo amin'ny olona roa 38:21-26
 Dawabb na Dabbah (zavamananaina mihetsiketsika, sns.) 2:164; 6:38; 8:22, 55; 11:6, 56; 16:49, 61; 22:18; 24:45; 27:82; 29:60; 31:10; 34:14; 35:28, 45; 42:29; 45:4
 Hatsangana ny maty, 6:36
@@ -255,17 +254,17 @@ Fahafatesana, 3:185; 3:193; 4:78; 6:61; 6:93; 21:35; 23:99-108; 31:34; 32:11; 33
 - ireo vondrom-piarahamonina izay tsy manana fanambarana dia tsy ho rava, 6:131; 9:115; 10:47; 11:117; 15:4; 16:119; 17:15; 28:59
 - velona ireo izay novonoina noho ny amin'i Allah, 2:154; 3:169
 - raha mandositra ny ratsy mankany amin'i Allah, 4:100
-- tsy azo sakanana na ahemotra 63:10-11;
-- kambana amin'ny torimaso 6:60; 39:42;
-- ireo mpino sy ireo tsy mpino amin'ny fotoana ahafatesana 8:50; 16:27-32; 41:30;
+- tsy azo sakanana na ahemotra 63:10-11
+- kambana amin'ny torimaso 6:60; 39:42
+- ireo mpino sy ireo tsy mpino amin'ny fotoana ahafatesana 8:50; 16:27-32; 41:30
 - sazy any am-pasana 40:46
 Trosa, 2:280, 282; 4:11-12
-Didim-panjakana,
+Didim-panjakana
 - ho an'ny raharaha tsirairay, dia misy, 13:38
 - tsy nandringana tanàna mihitsy Izahay raha tsy nisy fantatra momba izany, 15:4
 - avy amin'i Allah ny zavatra rehetra, 44:5
 - rehefa mandidy zavatra Izy dia miteny fotsiny hoe: "Misia!" - dia misy izany, 2:117; 36:82; 40:68
-Asa,
+Asa
 - ratsy, nohatsaraina ho azy ireo, 47:14
 - ho anay ny asanao, ho anao ny asanao, 28:55; 42:15; 45:15
 - ny tsara sy ny ratsy, dia ho an'ny tenany sy ho an'ny tenany, 41:46
@@ -279,7 +278,7 @@ Dhariyat, S.51
 Dhikr, 7:205; 15:6, 9
 Dhul-Kifi, 21:85; 38:48
 Dhul-Qarain, 18:83-98
-Dhun-Nun (Mpiara-dia amin'ny trondro),
+Dhun-Nun (Mpiara-dia amin'ny trondro)
 Ireo tsy mpino (jereo koa ny mpihatsaravelatsihy)
 - angataho amin'i Muhammad ( ﷺ ) mba hangataka ny fahatezeran'i Allah amin'izy ireo ho porofo, 6:57-58; 8:32; 10:49-52
 - miaraha amin'izy ireo amim-pitiavana, 31:15
@@ -304,7 +303,7 @@ Hady, vahoakan'ny, 85:4-10
 samihafa
 - ny olombelona, 30:22, 35:27-28
 - ny fiainana, 35:27-28
-Fisaraham-panambadiana, 2:228-232, 236-237, 241; 4:35, 130; 65:1-7;
+Fisaraham-panambadiana, 2:228-232, 236-237, 241; 4:35, 130; 65:1-7
 - rehefa afaka ny fe-potoana fiandrasana, dia foanana na fampihavanana, 2:231; 65:2
 - vavolombelona roa, 65:2
 - alimony, 2:233, 241
@@ -340,7 +339,7 @@ Fisaraham-panambadiana, Vehivavy
 - raha tsy hoe tsy vita ny fanambadiana, 33:49
 Alika, 7:176
 Ampondra (As), 2:259; 16:8; 31:19; 62:5; 74:50
-Misotroa,
+Misotroa
 - mpisotro toaka, 2:219; 5:90
 - madio sy fotsy matsiro, 37:45-46; 76:21
 - divay madio voaisy tombo-kase, 83:25
@@ -363,13 +362,13 @@ Ratsy, 4:123; 10:27-30; 19:83; 59:15
 - niova, ho amin'ny tsara, 7:95
 - ireo manaraka ny faniriany, 47:14, 16
 - asa tsara tarehy ho azy ireo, 47:14
-Fihoaram-pefy,
+Fihoaram-pefy
 - voarara amin'ny sakafo, 5:87
 - amin'ny fivavahana, 4:171; 5:77-81
 Ny maso, ny sofina ary ny hoditra no vavolombelona hanameloka ny mpanota, 41:20-23
 Ezra, (Ozair) 9:30
 Endrika na Endrik'i Allah, 2:115, 272; 6:52; 13:22; 18:28; 28:88; 30:38-39; 55:27; 76:9; 92:20
-Toa tsara,
+Toa tsara
 - Andriamanitra dia nanome ny olona tsirairay ny asany avy, 6:108
 Finoana (Inoana), 2:108; 3:167, 177, 193; 5:5; 9:23; 16:106; 30:56; 40:10; 42:52; 49:7, 11, 14; 52:21; 58:22; 59:9-10
 - ireo mandà, 3:116
@@ -379,7 +378,7 @@ Finoana (Inoana), 2:108; 3:167, 177, 193; 5:5; 9:23; 16:106; 30:56; 40:10; 42:52
 Fajr, S.89
 Falaq, S.113
 Resadresaka diso momba ny andininy ao amin'ny CORAN, 6:68
-Andriamanitra sandoka,
+Andriamanitra sandoka
 - ankoatra an'i Allah, ny sampy sy ireo lazaina fa mpiara-miasa 7:194-198; 16:20-21, 72, 86; 21:22, 24; 34:22, 27; 41:47-48; 46:5-6; 53:19-24; 71:23-24
 - aza manevateva izay ivavahany ankoatra an'i Allah, 6:108
 - jereo koa Taghut
@@ -394,7 +393,7 @@ Fidyah (vidim-panavotana), amin'ny fifadian-kanina, 2:196
 - ho fanafahana ireo babo, 8:67
 - avotra natolotr'ireo tsy mpino, 3:91; 5:36,37; 10:54; 13:18
 Sary, 95:1
-Miady,
+Miady
 - amin'ny lalan'i Allah, manohitra ireo tsy mpino, 2:190-193, 244; 4:84, 95; 8:72, 74, 75; 9:12-16, 20, 24, 36, 123; 47:4; 61:11
 - voatokana, 2:216
 - amin'ny volana masina, 2:217; 9:5
@@ -410,7 +409,7 @@ Fil, S.105
 Firdaus Paradise, 18:107; 23:11
 Afo, 56:71, 100:2
 Manidina, 22:73
-Sakafo,
+Sakafo
 - ara-dalàna sy tsy ara-dalàna, (Halal sy Haram), 2:168, 172, 173; 5:1, 3-5, 88; 6:118-119, 121, 145-146; 16:114-118; 23:51
 - tsy misy fahotana amin'izay nohanina taloha, 5:93
 - aza mandika lalàna, 5:87
@@ -432,7 +431,7 @@ Famelan-keloka, 2:109; 4:48, 110, 116; 5:74; 7:199; 39:53; 42:5, 40-43; 45:14; 5
 - mifanitsaka amin'ny hafa amin'ny faingana mankany, 57:21
 - ny asa ratsy niova ho asa tsara 25:68-71
 Fisolokiana, (jereo ny Famadihana) 83:1-6
-Safidy malalaka,
+Safidy malalaka
 - voafetra araka ny sitrapon'i Allah, 6:107; 10:99; 74:56;76:31; 81:28-29
 - izay rehetra maniry izany, aoka izy hino sy tsy hino, 18:29
 - mandehana mankany amin'ny Tompony, 76:29
@@ -466,14 +465,14 @@ Tsara (Andro), 3:140
 - Andriamanitra dia mamaly soa ireo izay manao izany amin'ny tsara indrindra, 53:31
 - misy valisoa hafa ankoatra ny soa ve, 55:60
 - ataovy araka ny nanasoavan'Andriamanitra anao, 28:77
-Ny tsara sy ny ratsy,
+Ny tsara sy ny ratsy
 - avy amin'Andriamanitra ny tsara ary avy aminao ny ratsy, 4:79
 - raha manao soa ianareo dia ho an'ny tenanareo ary raha manao ratsy kosa dia ho an'ny tenanareo ihany, 17:7;41:46
 - esory amin'ny soa ny ratsy, 23:96; 28:54; 41:34
 - tsy mety mitovy ny tsara sy ny ratsy, 41:34
 - ny olona rehetra dia hiatrika izay rehetra nataony, 3:30
 - jereo koa Muhsinun
-Asa soa,
+Asa soa
 - ambarao na afeno izany, 4:149
 - miezaka toy ny amin'ny hazakazaka amin'ny 5:48
 Filazantsara, 3:3, 48, 65; 5:46-47, 66, 68, 110; 7:157; 9:111; 48:29; 57:27
@@ -490,7 +489,7 @@ Fahasarotana, misy fanamaivanana amin'ny zava-drehetra, 94:5-6
 Harona, (Aaron)
 Harut, 2:102
 Hashr, S.59
-Fo,
+Fo
 - nohamafisina, 2:74; 22:53; 39:22; 57:16
 - voaisy tombo-kase, 7:100-101; 40:35; 47:16; 63:3
 - voasarona, 17:46; 41:5
@@ -498,7 +497,7 @@ Fo,
 - mizara roa, 59:14
 - feno tahotra, 22:35
 - izay misy aretina ao aminy, 2:10; 5:52; 8:49; 9:125; 22:53; 24:50; 33:12, 32, 60; 47:20, 29; 74:31
-Lanitra,
+Lanitra
 - an'i Allah ny zavatra tsy hita maso, 16:77
 - tsy noforonina ho an'ny tantara an-tsehatra, 21:16
 - ary nifamatotra ny tany, 21:30
@@ -528,7 +527,7 @@ Ny afobe (ny afobe, ny lelafo mirehitra) 2:24, 119, 161, 166, 201; 3:10, 12, 116
 - fahakiviana mirehitra sy haizina mangatsiaka ao anatiny, 38:57
 - rojo vy 70 hakiho, 69:32
 - mijanona mandritra ny fotoana voafetra, 78:23
-Aorian'izay,
+Aorian'izay
 - tsara kokoa ny trano ao, 6:32; 7:169
 - izay ho fiafarana amin'ny, 6:135
 - Tsy hahomby i Zalimun (ao amin'ny), 6:135
@@ -545,7 +544,7 @@ Hijr (Vatolampy), 15:80-85
 Hijr, S.15
 Firaisan'ny samy lehilahy na samy vehivavy 26:165-166; 27:55; 29:28-29
 Soavaly, 16:8
-Ora,
+Ora
 - ny fahalalana izany dia an'i Allah irery ihany, 7:187; 31:34; 33:63; 41:47; 68:26; 79:42-46
 - tampoka teo dia tonga teo amin'izy ireo izany, 6:31; 7:187;12:107; 43:66
 - ho avy aminao, 6:40; 12:107; 20:15; 34:3
@@ -554,9 +553,9 @@ Ora,
 - horohoron-tany tamin'ny, 22:1
 - haorina amin'ny Andro, 30:12, 14
 - azo antoka fa ho avy tokoa, tsy isalasalana, 40:59;45:32; 51:5-6
-- famantarana 21:96; 27:82; 43:61; 47:18; 54:1-2;
-- anarana 1:3; 2:4; 3:55; 19:39; 30:56; 37:21; 40:15; 41:47; 42:7; 50:20; 56:1; 64:9; 69:1; 79:34; 80:33; 88:1; 101:1-3;
-- hahagaga ny olona 6:31; 7:187;
+- famantarana 21:96; 27:82; 43:61; 47:18; 54:1-2
+- anarana 1:3; 2:4; 3:55; 19:39; 30:56; 37:21; 40:15; 41:47; 42:7; 50:20; 56:1; 64:9; 69:1; 79:34; 80:33; 88:1; 101:1-3
+- hahagaga ny olona 6:31; 7:187
 - Hotsofina ny trompetra 6:73; 23:101; 39:68
 Trano, fomba fidirana, 24:27-29
 Hoda, 7:65-72; 11:50-60; 26:123-140; 46:21-26
@@ -565,7 +564,7 @@ Hujurat, S.49
 Humazah, S.104
 Hunain (ady), 9:25
 Hour (vehivavy ao amin'ny Paradisa), 44:54; 52:20
-Mpihatsaravelatsihy,
+Mpihatsaravelatsihy
 - lazao hoe: mino an'i Allah sy ny Andro Farany izahay, nefa raha ny marina dia tsy mino izahay, 2:8
 - mamitaka ny tenany, 2:9
 - aretina ao am-pony, 2:10; 8:49; 22:53; 33:12; 47:29
@@ -609,8 +608,8 @@ Ilah, Tokana, 2:163; 6:19; 16:22, 51; 23:91; 37:4; 38:65
 Firaisana ara-nofo tsy ara-dalàna; porofon'ny vavolombelona, 4:15-18; 24:2, 19
 Illiyyun, 83:18-21
 Maloto (Najas) 9:28
-'Imran,
-- vadin'i, 3:35;
+'Imran
+- vadin'i, 3:35
 - zanakavavin'i, 66:12
 Tsy azo ihodivirana, 69:1-3
 Infitar, S.82
@@ -629,7 +628,7 @@ Vy, 57:25
 Jesosy ô, jereo Jesosy
 Isaka, (Isaka) 2:133; 4:163; 6:84; 19:49;21:72; 29:27; 37:112–113
 Ismaela (Ismaela), 2:125-129, 133; 4:163; 6:86; 19:54–55; 21:85; 38:48
-nanangana ny fototry ny Ka'bah niaraka tamin-drainy 2:125-140;
+nanangana ny fototry ny Ka'bah niaraka tamin-drainy 2:125-140
 tantaran'ny sorona 37:100-113
 Islam, 3:19, 85; 5:3; 6:125; 39:22; 61:7
 - voalohany amin'ireo izay manaiky ho Silamo, 6:14,163; 39:12
@@ -658,8 +657,8 @@ Jakoba, (Jakoba) 2:132-133; 4:163; 6:84;12:18; 19:49; 21:72; 29:27
 Jalut, (jereo Goliata)
 Jamarat, 2:200
 Jathiyah, S.45
-Jesosy, Isa zanak'i Maria,
-- reny voafidy ambonin'ny vehivavy rehetra eran-tany 3:42;
+Jesosy, Isa zanak'i Maria
+- reny voafidy ambonin'ny vehivavy rehetra eran-tany 3:42
 - mijoro ho vavolombelona amin'ny Andro Fitsanganan-ko velona, 4:159
 - vaovao mahafaly momba ny fahaterahana, 3:45-47; 19:22-23
 - Iraka ho an'ny Zanak'Isiraely, 3:49-51
@@ -682,9 +681,9 @@ Tonga ny iraka (Muhammad ﷺ ), 5:19
 - fomba fijery samihafa momba ny, 43:65
 - tsy mihoatra noho ny andevo sy ohatra ho an'ny Zanak'Israely, 43:59
 - vaovao mahafaly momba ny iraka iray izay hatao hoe Ahmed no anarany, 61:6
-- ny nahaterahany tamin'ny virjiny, ny hafatra ary ny fahagagana nataony 3:45-51; 19:16-38;
-- ampahatsiahivina ny fahasoavan'i Allah 5:110-115;
-- mandà ny maha-Andriamanitra azy 5:116-120;
+- ny nahaterahany tamin'ny virjiny, ny hafatra ary ny fahagagana nataony 3:45-51; 19:16-38
+- ampahatsiahivina ny fahasoavan'i Allah 5:110-115
+- mandà ny maha-Andriamanitra azy 5:116-120
 - fangorahana sy fahasoavana ao am-pon'ny mpanara-dia azy 5:82; 57:27
 Jiosy sy Kristiana, 2:140; 4:153-161, 171; 5:18
 - mihaino lainga, 5:41-42
@@ -694,41 +693,41 @@ Jiosy sy Kristiana, 2:140; 4:153-161, 171; 5:18
 Jibril, (jereo Gabriela)
 Jihad, (Miady, Miezaka mafy) 2:216; 9:24; 22:78; 25:52
 Jinn, S.72
-Jinn, 6:100, 112; 15:27; 34:41; 38:37; 46:18,29; 55:33, 39;
-Jinn, noforonina avy amin'ny afo 15:25; 55:15;
-- jiny mino sy tsy mino 72:1-15;
+Jinn, 6:100, 112; 15:27; 34:41; 38:37; 46:18,29; 55:33, 39
+Jinn, noforonina avy amin'ny afo 15:25; 55:15
+- jiny mino sy tsy mino 72:1-15
 - ny sasany nino ny hafatry ny CORAN 46:29-32
 - noforonina ho amin'ny tanjona iray ny olombelona sy ny jiny (51:56-58)
 Joba, 4:163; 6:84; 21:83-84; 38:41-44
-Jaona, (Yahya, Jaona Mpanao Batisa),
+Jaona, (Yahya, Jaona Mpanao Batisa)
 - vaovao mahafaly momba ny 3:38-41; 19:7-11; 21:90
 - olo-marina, 6:85
 - hendry, mangoraka, mankatò, 19:12-15
-Jona (Jona na Yunus), 4:163; 6:86; 10:98; 21:87; 37:139-148;
+Jona (Jona na Yunus), 4:163; 6:86; 10:98; 21:87; 37:139-148
 - (Dhu n-Nun) 21:87; 68:48-50
 Josefa (Yosuf), 6:84; 12:4-101
-- tantara tsara indrindra 12:1-3;
-- ny nofin'i Yusuf kely 12:4-6;
-- teti-dratsy nataon'ireo rahalahiny 12:7-18;
-- namidy ho andevo 12:19-20;
+- tantara tsara indrindra 12:1-3
+- ny nofin'i Yusuf kely 12:4-6
+- teti-dratsy nataon'ireo rahalahiny 12:7-18
+- namidy ho andevo 12:19-20
 - notezaina tao an-tranon'ny Lehiben'ny Minisitra tao Ejipta 12:21-22
-- Niezaka naka fanahy azy ny vadin'ny Lehiben'ny Minisitra 12:23-29;
-- tranga fanasana tamin'ny 12:30-32;
-- niditra an-tranomaizina 12:33-35;
-- ireo voafonja roa 12:36-42;
-- Ny nofin'ny mpanjaka 12:43-53;
-- lasa Lehiben'ny Minisitra 12:54-57;
-- nisy rahalahy nanatona azy mba hangataka vatsy 12:58-68;
-- naka an'i Benjamina rahalahiny (12:69-82);
-- ny alahelon-drainy indray 12:83-87;
-- mampiseho ny tena maha-izy azy 12:88-98;
-- tanteraka ny nofinofy taloha 12:99-100;
+- Niezaka naka fanahy azy ny vadin'ny Lehiben'ny Minisitra 12:23-29
+- tranga fanasana tamin'ny 12:30-32
+- niditra an-tranomaizina 12:33-35
+- ireo voafonja roa 12:36-42
+- Ny nofin'ny mpanjaka 12:43-53
+- lasa Lehiben'ny Minisitra 12:54-57
+- nisy rahalahy nanatona azy mba hangataka vatsy 12:58-68
+- naka an'i Benjamina rahalahiny (12:69-82)
+- ny alahelon-drainy indray 12:83-87
+- mampiseho ny tena maha-izy azy 12:88-98
+- tanteraka ny nofinofy taloha 12:99-100
 - vavaka famaranana 12:101
 Judi, Tendrombohitra, 11:44
 Jumu'ah, S.62
 Rariny (Adl), 2:282; 4:58, 135; 7:29; 16:90; 57:25 (
 - jereo koa ny 4:65, 105
-Ka'bah,
+Ka'bah
 - naorin'i Abrahama, 2:125-127
 - tsy misy famonoana bibidia, 5:94-96
 - fialofana ho an'ny fiarovana, 5:97
@@ -740,17 +739,17 @@ Kahf, S.18
 Kanz, 9:34-35
 Kauthar (renirano ao amin'ny Paradisa), 108:1
 Kauthar, S.108
-Lakile,
+Lakile
 an'ny lanitra sy ny tany, 39:63; 42:12
 an'ny Ghaib, 6:59
 Khaulah bint Tha labah, 58:1
-Famonoana olona,
+Famonoana olona
 - raha misy olona mamono olona dia mamono ny olombelona rehetra izy, 5:32
 - aza mamono olona, 17:33
 Tsara kokoa ny teny soa noho ny fiantrana, 2:263
 Havana, zon'ny, 2:83, 177, 215; 4:7-9, 36; 8:41; 16:90; 17:26; 24:22; 29:8; 30:38; 42:23
 Kiraman-Ratibin, 82:11
-Fahalalana,
+Fahalalana
 - tsy misy ravina mihintsana, nefa Izy mahalala izany, 6:59
 - very izay namono ny zanany noho ny hadalana, tsy nisy, 6:140
 - zavatra dimy, miaraka amin'i Allah irery ihany, 31:34
@@ -760,14 +759,14 @@ Kursi, 2:255
 Lahab (Jereo Masad), S.111
 Lail, S.92
 Jiro, 25:61; 67:5; 71:16; 78:13
-Fiteny,
+Fiteny
 - fahasamihafan'ny lokon'ny lehilahy sy ny maha-samihafa azy, 30:22
 Lat, 53:19
 Lalàna, voasoratra, 5:48
 Lalàna avy amin'i Allah, 2:219; 98:3
 Mpandainga, 26:221-223
 Aina, raha misy olona mamonjy olona iray, dia mamonjy ny ain'ny olombelona rehetra izy, 5:32
-Ny fiainan'izao tontolo izao,
+Ny fiainan'izao tontolo izao
 - nividy ny, tamin'ny vidin'ny Hereafter, 2:86
 - fahafinaretana amin'ny famitahana fotsiny ihany, 3:185
 - mivarotra ny, ho an'ny any ankoatra, 4:74
@@ -779,7 +778,7 @@ Ny fiainan'izao tontolo izao,
 - izay maniry dia mahazo izany; fa amin'izay dia tsy hisy anjara any ankoatra, 11:15-16; 17:18; 42:20
 - izay tia ny ankehitriny, ary manao tsirambina ny any ankoatra, 75:20-21; 76:27
 - aleonao kokoa ny, 87:16
-Hazavana,
+Hazavana
 - miharihary, 4:174
 - sy ny haizina, 6:1
 - fanoharana momba ny, 24:35
@@ -794,7 +793,7 @@ Fetra napetrak'i Allah, 2:173, 187, 190, 230;9:112; 58:4; 65:1; 78:22
 - rehefa nihoatra ny, (lasa rajako) izy ireo, 7:166
 - izay mitandrina ny, 9:112
 Liona, 74:51
-Findramam-bola,
+Findramam-bola
 - mampindrana soa ho an'i Allah, 2:245; 73:20
 - nitombo be, 57:11, 18
 - avo roa heny, 64:17
@@ -812,7 +811,7 @@ Mahr (vola ho an'ny ampakarina), 2:229, 236-237; 4:4,19-21, 24-25; 5:5; 33:50; 6
 Ma'idah, S.5
 Makkah (Bakkah), 3:96;90:1-2
 - Tanànan'ny Fiarovana, 95:3
-Lehilahy,
+Lehilahy
 - taranaka mifandimby eto an-tany, 2:30;6:165
 - natao mpandimby, 35:39
 - adidy, 2:83-84, 88, 177; 4:1-36; 8:41; 16:90;17:23-39; 24:22; 29:8-9; 30:38;33:33;42:23; 64:14; 70:22-35
@@ -877,7 +876,7 @@ Lehilahy,
 - mandika ny fetra rehetra, 96:6-7
 Manasik (adidy) ny Hajj, 2:128, 200; 22:30
 Manat, 53:20
-Ny olombelona,
+Ny olombelona
 - vavolombelona vita, 2:143
 - vondrom-piarahamonina iray, 2:213; 10:19
 - noforonina avy amin'ny mpivady tokana, 4:1; 39:6; 49:13
@@ -887,7 +886,7 @@ Ny olombelona,
 - mendri-kaja indrindra, 49:13
 - natao firenena sy foko, 49:13
 Mana sy ny papelika, 2:57
-Fomba,
+Fomba
 - momba ny fidirana amin'ny trano, 24:27-29
 - ao an-trano, 24:58-61
 - tao an-tranon'ny Mpaminany, 33:53
@@ -910,7 +909,7 @@ Fanambadiana, 2:232, 234
 - ireo izay tsy mahita ny fomba ara-bola ho an'ny fanambadiana, 24:33
 - ireo vehivavy natao ara-dalàna ho an'ny Mpaminany, 33:50-52
 - alohan'ny firaisana ara-nofo, tsy misy Iddah amin'ny fisaraham-panambadiana, 33:49
-Maritiora,
+Maritiora
 - tsy maty, 2:154; 3:169
 - mifalia amin'ny fahasoavana sy ny fahatsaran'Andriamanitra, 3:170-171
 - mahazo famelan-keloka sy famindram-po, 3:157-158
@@ -930,7 +929,7 @@ Masad, S.111
 Maun, S.107
 Paradisa Ma'wa, 53:15
 Refeso sy lanjao, omeo feno, 11:85; 17:35;83:1-5
-Fivoriana,
+Fivoriana
 - miaraka amin'i Allah, 6:31
 - Andro Lehibe, 19:37
 - ny any ankoatra, 30:16
@@ -960,7 +959,7 @@ Miraj, 17:1; 53:12
 Volana, isan'ny, 9:36-37
 Volana, 7:54; 10:5; 16:12; 22:18; 25:61; 36:39-40; 71:16; 91:2
 - fizarazarana ny; 54:1
-Mosesy,
+Mosesy
 - sy ny olony, 2:51-61; 7:138-141,159-162; 14:5-8; 61:5
 - sy Farao, 2:49-50; 17:101-103; 20:17-53, 56-79;23:45-49; 25:31-42; 40:23-46; 43:46-56; 51:38-40; 73:16;79:15-26
 - tarihin'i Allah, 6:84
@@ -970,23 +969,23 @@ Mosesy,
 - nomena ny Soratra Masina, 17:2
 - Famantarana Mazava Sivy, 7:133; 17:101
 - mankany amin'ny fihaonan'ny ranomasina roa, 18:60-82
-- fifandonana mahatsiravina teo amin'ny kirihitra nirehitra 20:9-36; 27:7-14; 28:29-35;
+- fifandonana mahatsiravina teo amin'ny kirihitra nirehitra 20:9-36; 27:7-14; 28:29-35
 - nantsoina sy nomena ny iraka, 19:51-53;20:9-56
 - ny fahazazany, ny reniny ary ny anabaviny, 20:38-40; 28:7-13
 - niova fo ireo mpanao majika, 20:70-73; 26:46-52
 - ao Madyan, 20:40; 28:22-28
 - nomena ny Fepetra, 21:48
 - ary ny afo mahagaga, 27:7-12; 28:29-35
-- namono Ejipsianina tsy nahy tao an-tanàna 28:14-21;
+- namono Ejipsianina tsy nahy tao an-tanàna 28:14-21
 - tonga miaraka amin'ny Ayat mazava, 29:39
-- tantara tamin'i Farao 7:103-137; 10:75-92; 11:96-99; 26:10-69;
-- famantarana sivy ho an'i Farao sy ny olony 7:130-133; 20:17-22; 17:101;
-- nandresy ireo ombiasin'i Farao 20:70-73; 26:46-52;
-- fandosirana tany Midiana sy fanambadiana 28:22-28;
-- mandray ny Takelaka 7:142-154,
-- mangataka hahita an'i Allah eo an-tendrombohitra 7:142-145;
-- nohajain'i Allah 33:69;
-- Ny fahasoavan'Andriamanitra ho an'ny Isiraelita 2:47-61;
+- tantara tamin'i Farao 7:103-137; 10:75-92; 11:96-99; 26:10-69
+- famantarana sivy ho an'i Farao sy ny olony 7:130-133; 20:17-22; 17:101
+- nandresy ireo ombiasin'i Farao 20:70-73; 26:46-52
+- fandosirana tany Midiana sy fanambadiana 28:22-28
+- mandray ny Takelaka 7:142-154
+- mangataka hahita an'i Allah eo an-tendrombohitra 7:142-145
+- nohajain'i Allah 33:69
+- Ny fahasoavan'Andriamanitra ho an'ny Isiraelita 2:47-61
 - Tsy nety niditra tao Jerosalema ny Israelita (5:20-29)
 - tarihina amin'ny Lalana Marina, 37:114-122
 - Soratra Masina, 53:36; 87:19
@@ -1074,7 +1073,7 @@ Mumtahanah, S.60
 Munafigun, S.63
 Famonoana olona, 2:178-179
 Mursalat, S.77
-Miozolomana,
+Miozolomana
 - voalohany amin'ny, 6:14, 163; 9:100; 39:12
 - Iza no nanome anarana, 22:78
 - famelan-keloka sy valisoa lehibe ho an'izay, 33:35-36
@@ -1086,7 +1085,7 @@ Nahl, S.16
 Najas (maloto) 9:28
 Najm, S.53
 Najwa (Jereo ny Tsiambaratelo)
-Anarana,
+Anarana
 Azy ny Tsara Tarehy Indrindra, 7:180
 Azy ny tsara indrindra, 17:110; 20:8; 59:24
 Filàna, raha terena, 2:173; 6:145
@@ -1099,10 +1098,10 @@ Alina, (ho mariky ny fitsaharana), 10:67
 - hanompo, 14:32
 - Alin'i Al-Qadr (Didy), 44:3-4; 97:1-5
 Nisa', S.4
-Noa, 3:33; 4:163; 6:84; 9:70; 10:71; 11:25, 32, 36, 42, 45-46, 48, 89; 17:3; 21:76; 25:37; 26:105; 29:14; 37:75; 51:46; 54:9; 69:11;
-- noesoina 11:38;
+Noa, 3:33; 4:163; 6:84; 9:70; 10:71; 11:25, 32, 36, 42, 45-46, 48, 89; 17:3; 21:76; 25:37; 26:105; 29:14; 37:75; 51:46; 54:9; 69:11
+- noesoina 11:38
 - ny Safodrano (tondra-drano mahery vaika), 29:14
-- ny Sambofiara sy ny Safodrano 7:59-69, 11:25-48; 23:23-31; 26:105-122; 71:1-28;
+- ny Sambofiara sy ny Safodrano 7:59-69, 11:25-48; 23:23-31; 26:105-122; 71:1-28
 - tsy voavonjy ny zanaka tsy marina, 11:42-48
 - vady tsy marina, 14:9; 17:3, 17;19:58;21:76; 22:42; 26:105-106, 116; 33:7; 37:75,79; 38:12; 42:13; 40:5, 31; 42:13;50:12;53:52; 57:26; 66:10; 71:1, 21, 26
 Nuh, S.71
@@ -1136,7 +1135,7 @@ Fanoharana, (tohatra, ohatra, fampitahana)
 - orana, 10:24
 - fijinjana voajinja madio, 10:24
 - jamba sy marenina, 11:24
-- Allah vs. andriamani-diso 13:14; 16:76;
+- Allah vs. andriamani-diso 13:14; 16:76
 - fahamarinana vs. lainga 13:17
 - lavenona izay mitsoka mafy ny rivotra, 14:18
 - hazo tsara tarehy, 14:24-25
@@ -1164,7 +1163,7 @@ Fanoharana, (tohatra, ohatra, fampitahana)
 - ampondra, 62:5
 - tokony holevonina ny rano, 67:30
 - olon'ny zaridaina, 68:17-33
-Paradisa,
+Paradisa
 - of Abode, (Ma'wa Paradise), 53:15
 - Firdaus Paradise, 18:107; 23:11
 - Zaridaina izay ikorianan'ny renirano, 3:15, 198;4:57; 5:119; 7:43; 9:72; 18:31; 22:23; 39:20;57:12; 64:9; 98:8
@@ -1187,7 +1186,7 @@ Paradisa,
 - renirano any Paradisa, Kauthar, 108:1
 - reniranon'ny divay, ronono, tantely voadio, 47:15
 - divay madio voaisy tombo-kase, fotsy, matsiro, 37:45-46; 56:18; 76:21; 83:25
-- kaopy, afangaro amin'ny, Zanjabil, 76:17; 78:34;
+- kaopy, afangaro amin'ny, Zanjabil, 76:17; 78:34
 - rano, 76:5
 - lovia volamena sy kaopy, 43:71
 - kaopy volafotsy sy kaopy kristaly, 76:15-16
@@ -1234,21 +1233,21 @@ Paradisa,
 - ireo vady ao anaty alokaloka mahafinaritra, mandry eo amin'ny seza fiandrianana, 36:55
 - tovovavy feno nono mitovy taona, 78:33
 - mpanompolahy tsy mety maty hanompo azy ireo, toy ny perla naparitaka, 52:24; 56:17; 76:19
-- mivelatra toy ny lanitra sy ny tany 3:133, 57:21;
-- rano mikoriana, alokaloka mangatsiaka, sakafo matsiro, ary sakaiza madio 2:25; 4:57; 36:55-58; 37:40-49; 38:50-54; 44:51-57; 52:17-24; 69:19-24; 76:5-22;
-- valisoa ho an'ny mpino 55:46-78; 56:10-40;
-- reniranon'ny tantely, ronono, rano ary divay 47:15;
-- vavaka sy fiarahabana 10:9-10; 39:73-74;
-- fiarahabana feno fiadanana 13:23-24; 14:32;
-- fijanonana mandrakizay ao amin'ny Fahasambarana 11:108;
-- tsy nangatahina hiala mihitsy 15:45-48;
-- hazavana mamirapiratra eo anoloan'izy ireo sy eo ankavanany 57:12;
-- tsy misy hafanana na hatsiaka 76:13;
-- tanteraka ny faniriana rehetra 16:30-32; 41:31-32;
-- fehin-tanana volamena sy akanjo landy tsara 18:30-31; 22:23-24; 44:51-53;
-- lovia misy kaopy volamena 43:67-73;
-- vilany volafotsy sy voankazo mihantona eo akaikin'ny tratra 76:14-16;
-- mandry eo amin'ny seza fiandrianana 15:47; 37:44; 52:20;
+- mivelatra toy ny lanitra sy ny tany 3:133, 57:21
+- rano mikoriana, alokaloka mangatsiaka, sakafo matsiro, ary sakaiza madio 2:25; 4:57; 36:55-58; 37:40-49; 38:50-54; 44:51-57; 52:17-24; 69:19-24; 76:5-22
+- valisoa ho an'ny mpino 55:46-78; 56:10-40
+- reniranon'ny tantely, ronono, rano ary divay 47:15
+- vavaka sy fiarahabana 10:9-10; 39:73-74
+- fiarahabana feno fiadanana 13:23-24; 14:32
+- fijanonana mandrakizay ao amin'ny Fahasambarana 11:108
+- tsy nangatahina hiala mihitsy 15:45-48
+- hazavana mamirapiratra eo anoloan'izy ireo sy eo ankavanany 57:12
+- tsy misy hafanana na hatsiaka 76:13
+- tanteraka ny faniriana rehetra 16:30-32; 41:31-32
+- fehin-tanana volamena sy akanjo landy tsara 18:30-31; 22:23-24; 44:51-53
+- lovia misy kaopy volamena 43:67-73
+- vilany volafotsy sy voankazo mihantona eo akaikin'ny tratra 76:14-16
+- mandry eo amin'ny seza fiandrianana 15:47; 37:44; 52:20
 - Hahita ny Tompony ny mpino (75:22-23)
 Ray aman-dreny, hatsaram-panahy amin'ny, 2:83, 215; 4:36; 16:90; 17:23; 29:8; 31:14; 46:15-17
 Ireo mpiara-miasa amin'i Allah, lainga, 4:116; 10:34-35, 66; 16:86; 28:62-64, 71-75; 30:40; 42:21
@@ -1257,7 +1256,7 @@ Lalana, 5:77; 16:94; 42:52-53; 43:43; 90:11-12
 - jereo koa ny Lalana
 Faharetana, 3:186, 200; 10:109; 11:115; 16:126-127; 20:130; 40:55, 77; 42:43; 46:35; 70:5; 73:10
 - mitady fanampiana sy vavaka, 2:45, 153; 20:132; 50:39
-Marary,
+Marary
 - hahazo valisoa feno, 39:10
 - Allah dia miaraka amin'ireo izay manana izany, 8:46
 - ary ho, 11:115
@@ -1266,7 +1265,7 @@ Marary,
 Fiadanana, miangavy anao, 8:61
 Perla sy haran-dranomasina, voatahiry, 52:24; 55:22; 56:23
 Penina, 68:1; 96:4
-Olona,
+Olona
 - Tsy manavesatra mihoatra ny fahafahany Andriamanitra, 2:286; 7:42
 - Andriamanitra tsy manome hetra afa-tsy izay zakany, 23:62
 - tsia, fantany izay ho azony rahampitso ary any amin'ny tany inona no hahafatesany, 31:34
@@ -1287,7 +1286,7 @@ Farao, 28:6; 40:24
 - fanorenana tilikambo, 40:36-37
 - jereo koa Mosesy
 Fanangonana ny zavatra eto amin'izao tontolo izao, 102:1-4
-Fanomezan-toky (Bai'ah),
+Fanomezan-toky (Bai'ah)
 - ho an'ny finoana silamo, 16:91
 - ho an'ny Iraka ny Bai'ah (fiantohana) amin'i Allah, 48:10
 - an'ny mpino, 48:18; 60:12
@@ -1323,17 +1322,17 @@ Mpaminany, 3:33-34, 146; 4:163; 5:20; 6:84-90; 23:23-50; 57:26
 - tsy ara-dalàna ho an'ny, 3:161
 - fahavalo ho solon'ny tsirairay, 6:112; 25:31
 - jereo koa ny Iraka
-Fiankohofana,
+Fiankohofana
 - ho an'i Allah no hianjeran'izay rehetra any an-danitra sy ety an-tany ary toy izany koa ny alokalony, 13:15
 Fanomezana, 10:59; 13:26; 14:32; 16:73; 34:36,39; 42:12; 51:57; 67:21; 79:33
 Salamo, 4:163
-Sazy,
+Sazy
 - fanemorana ny, 3:178
 - fanapahana tanana na tongotra, 5:33
 - sazio amin'ny sazy mitovy amin'izay nanjo anao izy ireo, 16:126
 - amin'ity fiainana ity sy any ankoatra, 24:19; 68:33
-Fanadiovana,
-- ara-batana,4:43; 5:6;
+Fanadiovana
+- ara-batana,4:43; 5:6
 - ara-panahy (avy amin'ny fahalotoana), 87:14; 91:9
 Qadar, 5:5; 64:11
 Qadr, S.97
@@ -1345,7 +1344,7 @@ Qarun (Kora), 28:76–82; 29:39
 Qasas,S.28
 Kiblah, 2:142-145, 149
 Qisas (Lalànan'ny fitoviana amin'ny sazy), 2:178-179, 194; 5:45; 16:126; 17:33; 22:60; 42:40
-Korany,
+Korany
 - voalaza, 13:31, 36, 37; 14:1; 56:77-80
 - tsy zavatra hafa ankoatra an'i Allah mihitsy no azo atao, 2:23; 10:38; 11:13; 17:88
 - raha avy amin'ny hafa ankoatra an'i Allah izany, dia efa nisy fifanoherana maro tao, 4:82
@@ -1395,7 +1394,7 @@ Korany,
 - famakiana pejy madio, 98:2
 - jereo koa ny Boky; Apokalypsy
 Quraish, S.106
-Quraish,
+Quraish
 - ireo tsy nino an'i, 54:43-46, 51
 - famelombelomana, 106:1-4
 Raby sy moanina, 9:31, 34
@@ -1403,26 +1402,26 @@ Hifaninana, miezaha mafy toy ny amin'ny asa tsara, 5:48
 Ra'd, S.13
 Rahman, S.55
 Tsara kokoa ny fitafiana maneho fahamarinana, 7:26
-Orana,
+Orana
 - Fanomezan'i Allah, 56:68-70
 - amin'ny vato, 27:58
 Ramadany, 2:185
 Ramy, 2:200
-Avotra,
+Avotra
 - tsia, horaisina, 57:15
 - natolotr'ireo tsy mpino, 3:91; 10:54; 13:18
-Fidyah, momba ny fifadian-kanina, 2:196;
+Fidyah, momba ny fifadian-kanina, 2:196
 - ho fanafahana ireo babo, 8:67
 Rass, mponina ao amin'ny, 25:38; 50:12
-Famaliana,
+Famaliana
 - ny Andron'ny, 1:4; 37:20; 51:12; 56:56; 82:17-18; 96:7
 - ireo mandà, 107:1-7
 - ny ratsy dia ratsy mitovy amin'izany, 42:40
-Fampihavanana,
+Fampihavanana
 - izay mamela heloka sy manao izany, 42:40
 - eo amin'ny lehilahy sy ny vehivavy, 4:35
 - eo amin'ny mpino, 49:9-10
-Rakitra,
+Rakitra
 - voasoratra ny boky firaketana, 83:7-9, 18-21
 - ny firenena tsirairay dia hantsoina ho any amin'ny fireneny avy, 45:28-29
 - pejy voasoratra momba ny asa nataon'ny olona tsirairay, 81:10
@@ -1432,7 +1431,7 @@ Rakitra,
 - ao ambadiky ny lamosina, 84:10-15
 Fandraketana anjely, 50:17-18, 23; 85:11
 Fanamaivanana, miaraka amin'ny fahasahiranana, 94:5-6
-Fivavahana,
+Fivavahana
 - tsy misy fanerena, 2:256
 - dia ny finoana silamo, 3:19
 - an'i Allah, 3:83-84
@@ -1449,7 +1448,7 @@ Fivavahana,
 - razambe, 43:22-24
 Fahatsiarovana an'i Allah, 63:9
 - ao anatin'ny, mahita fitsaharana ny fo, 13:28
-Fibebahana,
+Fibebahana
 - ekena raha ratsy natao noho ny tsy fahalalana ary mibebaka tsy ela aorian'izay, 4:17; 6:54
 - ary tsy misy vokany ny asa ratsy raha mitohy, 4:18
 - Manaiky sy mamela ny fahotana Izy, 4:25
@@ -1457,7 +1456,7 @@ Fialan-tsasatra ho an'ny ratsy, 3:178; 10:11; 12:110; 14:42,44; 29:53-55; 86:15-
 Fitsanganana amin'ny maty, 2:28, 7:53; 14:21; 16:38-40; 22:5-7; 23:15-16; 31:28, 41:39, 46:33-34; 50:3,20-29, 41-44; 64:7, 75:1-15; 79:10-12; 86:5-8
 - ohatra ao amin'ny tantaran'i Ezra 2:259
 - Abrahama 2:260
-- olona tao anaty lava-bato 18:9-26;
+- olona tao anaty lava-bato 18:9-26
 - fampitandremana ho an'ireo izay mandà ny fitsanganan'ny maty 17:49-52, 17:97-100, 19:66-72, 37:11-27, 50:1-15, 80:17-42
 Andro Fitsanganan-ko velona, 7:89; 20:100-101, 124
 - ny Andro Marina, 78:39
@@ -1548,7 +1547,7 @@ Firaketana nomena tao an-damosiny, 84:10-15
 - Hoentina akaiky ny afobe, 89:23
 - Hesorina ny Afoben'ny Helo, hirehitra mafy, 81:11-12
 - Ny valifaty amin'ny alalan'ny fiantrana dia ho fanonerana, 5:45
-Fanambarana,
+Fanambarana
 - raha misalasala ianao, 2:23-24
 - nesorina na hadinoina Andininy, 2:106
 - tari-dalana marina, 3:73
@@ -1560,13 +1559,13 @@ Fanambarana,
 - avy amin'i Allah ny Boky, 46:2
 - jereo koa ny Boky sy ny Korany
 Famaliana faty noho ny ratsy natao tamin'izy ireo, 42:39-43
-Valisoa,
+Valisoa
 - araka ny asa tsara indrindra, ary mihoatra noho izany aza, 24:38; 29:7; 39:35
 - ho valisoa 25:15
 - Andriamanitra dia mamaly soa ireo izay manao ny tsara amin'ny zavatra tsara indrindra, 53:31
 - ho amin'ny tsara, tsy misy valisoa afa-tsy ny tsara, 55:60
 Riba (Jereo ny zanabola)
-Marina,
+Marina
 - orinasan'ny, 4:69
 - handova ny tany, 21:105
 - ao amin'ny Paradisa, 51:15-19; 76:5-12
@@ -1585,7 +1584,7 @@ Ruh (fanahy), 15:29; 17:85; 58:22
 Rôma, S.30
 Saba' (Sheba), 27:22-44; 34:15-21
 Saba', S.34
-Sabata,
+Sabata
 - ireo mpandika lalàna, 2:65; 4:154; 7:163-166
 - voalaza ho an'ny, 16:124 ihany
 Sabiana, 5:69; 22:17
@@ -1611,23 +1610,23 @@ Satana, 2:36, 168, 208, 268, 275; 3:36, 155, 175; 4:38, 60, 76, 83, 119-120; 5:8
 - tsy manana fahefana amin'ny mpino, 16:99-100
 - manipy lainga, 22:52-53
 - dia fahavalo, 12:5; 35:6; 36:60
-- avonavona 2:34; 7:11-27; 15:26-43; 17:61-65; 38:73-85;
-- jiny 18:50-51;
-- Ny fakam-panahy sy ny fahalavoan'i Adama 7:20-23; 20:116-121;
-- tsy manana fahefana amin'ny mpino 16:98-100;
-- ny tanjony 35:6-8;
-- fahavalon'ny olombelona 12:5; 17:53;
-- ny antokony 53:14-19;
-- ny asan-tanany 5:90-91;
-- manakivy ny asa tsara 2:268;
-- mitady fialofana amin'i Allah amin'ny aminy ny mpino 7:200-202;
-- malemy ny teti-dratsiny 4:76;
-- namela ireo mpanara-dia azy hidina 8:48;
+- avonavona 2:34; 7:11-27; 15:26-43; 17:61-65; 38:73-85
+- jiny 18:50-51
+- Ny fakam-panahy sy ny fahalavoan'i Adama 7:20-23; 20:116-121
+- tsy manana fahefana amin'ny mpino 16:98-100
+- ny tanjony 35:6-8
+- fahavalon'ny olombelona 12:5; 17:53
+- ny antokony 53:14-19
+- ny asan-tanany 5:90-91
+- manakivy ny asa tsara 2:268
+- mitady fialofana amin'i Allah amin'ny aminy ny mpino 7:200-202
+- malemy ny teti-dratsiny 4:76
+- namela ireo mpanara-dia azy hidina 8:48
 - miresaka amin'ireo mpanara-dia azy any amin'ny helo 14:22
 - jereo koa Iblis
 Mizana, mahomby, izay mavesatra ny sitrapony, 7:8-9
 - jereo koa ny fandanjana
-Soratra Masina,
+Soratra Masina
 - vahoakan'ny, (Jiosy sy Kristiana), 2:109;3:64-65, 69-72, 75, 98-99, 110, 113,199; 4:47, 153-161; 5:59-60, 68; 98:1
 - izay nafenin'izy ireo, 5:61-63
 - anisan'ireo izay eo amin'ny lalana marina,5:66
@@ -1635,7 +1634,7 @@ Soratra Masina,
 Ranomasina, 42:32-33; 45:12
 - ny roa, 18:60; 25:53; 35:12; 55:19-20
 - rehefa, mipoaka, 82:3
-Tsiambaratelo (Najwa),
+Tsiambaratelo (Najwa)
 - lahateny, 4:114
 - mpanolo-tsaina telo, 58:7
 - torohevitra, 58:8, 10
@@ -1644,10 +1643,10 @@ Sekta sy fisaratsarahana eo amin'ny fivavahana, 6:15; 23:53; 30:32; 42:13-14; 43
 Fiarovana, taorian'ny fahoriana, dia nampidininy, 3:154
 Voa, Izay mampitombo azy, 56:63-67
 Senses, 23:78
-Fito, noforonina,
+Fito, noforonina
 - lanitra, 2:29; 23:17; 65:12; 67:3; 71:15
 - ary ny tany tahaka ny azy, 65:12
-Aloka,
+Aloka
 - miankohoka eo anatrehan'i Allah, 13:15; 16:48
 fiparitahan'ny, 25:45
 Shams, S.91
@@ -1679,12 +1678,12 @@ Andevo, 2:177-178; 4:25, 36, 92; 5:89; 24:33; 58:3; 90:13
 Torimaso, zavatra fitsaharana, 78:9
 Sodoma, 29:31; 37:136
 Sodomia, 7:80-82; 11:77-83; 15:61-77; 29:28-29
-Solomona, 2:102; 4:163; 6:84;
-- nanampy an'i Davida rainy hahazo fitsarana ara-drariny kokoa 21:78-82;
+Solomona, 2:102; 4:163; 6:84
+- nanampy an'i Davida rainy hahazo fitsarana ara-drariny kokoa 21:78-82
 - ary ny vitsika, 27:15-19
 - ary ny hoopoe, 27:20-26
 - ary ny Mpanjakavavin'i Saba', 27:22-44; 34:15
-- Ny fahasoavan'i Allah taminy 34:12-14, 38:34-40;
+- Ny fahasoavan'i Allah taminy 34:12-14, 38:34-40
 - ny fitiavany ireo soavaly tsara tarehy 38:30-33
 Zanakalahy natsangana, 33:4-5
 Fanahy (fanahy, Roh), 15:29; 17:85; 58:22
@@ -1704,8 +1703,8 @@ Zavatra azo babo tamin'ny ady, 8:41, 69; 48:15, 19-20; 48:15
 Fitsikilovana, 49:12
 Kintana, 53:1, 49; 86:1-4
 Kintana, 7:54; 15:16; 16:12, 16; 22:18; 25:61;37:6-10; 56:75; 77:8; 81:2; 82:2
-Lalana Mahitsy, 1:6,
-- sns. Lalana, 6:153,
+Lalana Mahitsy, 1:6
+- sns. Lalana, 6:153
 - sns. Miezaka mafy, 4:95; 8:72, 74, 75; 9:20, 24, 81; 22:78; 25:52; 29:69:69; 47:3; 60:1; 61:11
 Mampinono, ny teny hoe, reny mitaiza, 2:233
 Fijaliana, fahantrana, fahaverezan'ny fahasalamana sy loza; fanambinana sy harena, 7:94-96
@@ -1775,7 +1774,7 @@ Riba (Riba), 2:275-276, 278-280; 3:130; 4:161; 30:39
 Voaly, tsy hita maso, 17:45-46
 Fisaronana amin'ny lamba, 24:31; 33:59
 Andininy, Sab' Al-Mathani, 15:87
-Fandresena,
+Fandresena
 - nomen'i Allah, 48:1
 - noho ny fanampian'i Allah, 61:13
 Hatsaran-toetra, (jereo ny Fahamarinana; Mpino)
@@ -1792,7 +1791,7 @@ Lalana, ny, 1:6; 42:52-53; 90:10
 - sns. mora, ataovy mora, 87:8
 - jereo koa ny Lalana
 Mpandeha an-tongotra, 2:177, 215; 8:41; 17:26; 29:29; 30:38; 59:7
-Harena,
+Harena
 - izay efa nivory, 104:2-4
 - mandany vola ho an'i Allah (jereo ny Fandaniana)
 Harena sy zanaka, haingon'ny fiainana eto an-tany, 18:46
@@ -1810,7 +1809,7 @@ Divay (ao amin'ny Paradisa)
 - reniranon'i, 47:15
 - voaisy tombo-kase madio, 83:25
 Aza maniry zavatra izay nataon'Andriamanitra ho ambony noho ny hafa ny sasany, 4:32
-Vavolombelona,
+Vavolombelona
 - amin'ny faneken'ny Mpaminany, 3:81
 - ambonin'ny olombelona, 2:143; 22:78
 - ho an'ny fifanarahana, 2:282
@@ -1820,7 +1819,7 @@ Vavolombelona,
 - ny tanana sy ny tongotra no ho vavolombelona, 36:65
 - olona manohitra ny tenany, 75:14
 Andro Fijoroana Vavolombelona sy Andro Fijoroana Vavolombelona, 85:3
-Vady,
+Vady
 - dia toeram-pambolena ho anao, 2:223
 - fonony ho anao, 2:187
 - karazana anao manokana, 16:72
@@ -1832,7 +1831,7 @@ Vehivavy, 2:222-223; 4:15, 19-22, 34, 127
 - tsy nanaporofo ny tenany ho diso hevitra, 43:17-18
 Ala, mponina ao amin'ny, 15:78; 38:13; 50:14
 - jereo koa Aikah; Madyana 26:176-191
-Izao tontolo izao, ny fiainan'ity tontolo ity,
+Izao tontolo izao, ny fiainan'ity tontolo ity
 - tsy misy afa-tsy filalaovana sy fialamboly, 6:32;29:64; 47:36; 57:20
 - mamitaka ny olona, 6:130
 - kely dia kely ny fahafinaretana amin'ny fiainana any ankoatra noho ny any ankoatra, 9:38; 13:26; 28:60-61
@@ -1844,7 +1843,7 @@ Ireo mpanao ratsy, 11:18-22, 101-104, 116-117; 39:47
 - jereo koa ny Tsy Mpino
 Wudu' (Fidiovam-bava), 4:43; 5:6
 Yaghut, 71:23
-Yahya (Jaona),
+Yahya (Jaona)
 - vaovao mahafaly momba ny 3:39; 21:90
 - olo-marina, 6:85
 - hendry; mangoraka; mankatò, 19:12-15
@@ -1865,52 +1864,52 @@ Zihara, 33:4; 58:2-4
 Zukhruf, S.43
 Zumar, S.39
 Foto-kevitra fototra
-- Notanterahina ny finoana 5:3;
-- ny hany lalana eken'i Allah 3:19, 85;
-- tsy misy fanerena amin'ny fanekena ny finoana silamo 2:256;
-- fivavahana iray misy finoana sy lalàna samihafa 5:48; 22:67-70; 42:13-14;
-- mpaminanin'ny finoana silamo 2:135-136; 3:84; 4:163-165;
-- didy (manàna finoana an'i Allah ary manaova soa) 4:36; 6:151-154;17:23-39;18:107-108;
-- tanjona dimy ao amin'ny Sharia: fiarovana ny finoana 5:54;
-- miaro ny aina 5:32;6:151;
-- fiarovana ny harena 5:38;
-- miaro ny voninahitra 5:5;24:4;
+- Notanterahina ny finoana 5:3
+- ny hany lalana eken'i Allah 3:19, 85
+- tsy misy fanerena amin'ny fanekena ny finoana silamo 2:256
+- fivavahana iray misy finoana sy lalàna samihafa 5:48; 22:67-70; 42:13-14
+- mpaminanin'ny finoana silamo 2:135-136; 3:84; 4:163-165
+- didy (manàna finoana an'i Allah ary manaova soa) 4:36; 6:151-154;17:23-39;18:107-108
+- tanjona dimy ao amin'ny Sharia: fiarovana ny finoana 5:54
+- miaro ny aina 5:32;6:151
+- fiarovana ny harena 5:38
+- miaro ny voninahitra 5:5;24:4
 - miaro ny fahafahan'ny tena mieritreritra 5:90.
 Finoana an'i Allah 2:255
-- Toetra masina, Anarana mahafinaritra 57:1-6; 59:22-24; 85:13-16; 112:1-4;
-- Andriamanitra tokana mendrika hotompoina 1:1-4; 2:285; 6:3; 43:84;
-- Azy ny fahefana rehetra 3:26; Ny Seza Fiandrianany ('Arsh) 7:54; 11:7;
-- Ny Kursi (fitoeran-tongotra na seza) 2:255;
-- fahasoavana tsy tambo isaina ho an'ny olombelona 14:32-34; 2:164; 16:2-93; 31:20; 55:1-25;
-- manome aina ary mahatonga fahafatesana 44:8; 53:44; 57:2; 67:2;
-- mitondra fifaliana sy alahelo 53:43;
-- manome vatsy betsaka na voafetra 13:26; 17:30; 29:62;
-- Tsara indrindra amin'ny rehetra ny mpitsara 95:8;
-- Ilay Be Famindrampo Indrindra amin'ireo be famindram-po 12:92;
-- tia ny marina 85:14;
-- feno famelan-keloka sady sazy henjana 13:6, 40:3;
-- ny Voalohany sy ny Farany 57:3;
-- Azy ny voninahitra sy ny hery rehetra 35:10;
-- mahalala ny tsy fantatra ary mahita ny tsy hita (6:59,73; 9:94, 105; 13:8-10; 31:34; 32:6; 34:48; 35:38; 39:46; 49:18; 59:22; 62:8; 64:18; 72:26; 74:31; 87:7;
-- mahalala tsara izay miafina ao am-po (5:7; 11:5; 31:23);
-- mahalala izay nitranga sy izay mbola ho avy 2:255;
-- nanoratra izay rehetra tao amin'ny Firaketana (na ny Takelaka Voatahiry) 6:38; 13:39; 36:12;
-- afaka manao na inona na inona 2:117; 3:189; 8:41; 9:116; 11:4; 16:40; 40:68; 41:39; 42:49;57:2;
-- Ny heriny tsy manam-petra 3:26-27; 24:45; 31:28-30;
-- namorona ny lanitra sy ny tany tao anatin'ny enina andro ary tsy mba reraka mihitsy (46:33; 50:38);
-- mamorona amin'ny teny hoe 'Aoka!' 36:81-83;
-- tsy manao ny tsy rariny amin'ny zavaboariny mihitsy 3:108; 4:40; 17:71; 21:47; 22:10; 26:209; 40:31; 41:46; 45:22; 50:29; 64:11; 78:6-16;
-- ny zava-drehetra dia manaiky ny sitrapony 3:83; 22:18; 30:26;
-- mila Azy avokoa ny rehetra (11:6; 35:15; 55:29);
-- matokia Azy 10:84-85; 12:67; 25:58;
-- endrika fifandraisana avy amin'Andriamanitra 42:51;
-- mendrika ny hahatsiarovana ny 2:21; 3:102; 4:1; 33:70-71; 59:18;
-- fanomezana avy Aminy ny fahendrena 2:269;
-- Tsy mila olona Izy 3:97; 6:133; 112:2;
-- tsy iray ao amin'ny Trinite 4:171;
-- tsy manana vady 6:101;
-- tsy manan-janaka 10:68; 19:35; 43:81; 72:3; 112:3;
-- tsy manana mpiara-miasa na andriamanitra hafa 6:94; 7:191-195; 46:4-5;
+- Toetra masina, Anarana mahafinaritra 57:1-6; 59:22-24; 85:13-16; 112:1-4
+- Andriamanitra tokana mendrika hotompoina 1:1-4; 2:285; 6:3; 43:84
+- Azy ny fahefana rehetra 3:26; Ny Seza Fiandrianany ('Arsh) 7:54; 11:7
+- Ny Kursi (fitoeran-tongotra na seza) 2:255
+- fahasoavana tsy tambo isaina ho an'ny olombelona 14:32-34; 2:164; 16:2-93; 31:20; 55:1-25
+- manome aina ary mahatonga fahafatesana 44:8; 53:44; 57:2; 67:2
+- mitondra fifaliana sy alahelo 53:43
+- manome vatsy betsaka na voafetra 13:26; 17:30; 29:62
+- Tsara indrindra amin'ny rehetra ny mpitsara 95:8
+- Ilay Be Famindrampo Indrindra amin'ireo be famindram-po 12:92
+- tia ny marina 85:14
+- feno famelan-keloka sady sazy henjana 13:6, 40:3
+- ny Voalohany sy ny Farany 57:3
+- Azy ny voninahitra sy ny hery rehetra 35:10
+- mahalala ny tsy fantatra ary mahita ny tsy hita (6:59,73; 9:94, 105; 13:8-10; 31:34; 32:6; 34:48; 35:38; 39:46; 49:18; 59:22; 62:8; 64:18; 72:26; 74:31; 87:7
+- mahalala tsara izay miafina ao am-po (5:7; 11:5; 31:23)
+- mahalala izay nitranga sy izay mbola ho avy 2:255
+- nanoratra izay rehetra tao amin'ny Firaketana (na ny Takelaka Voatahiry) 6:38; 13:39; 36:12
+- afaka manao na inona na inona 2:117; 3:189; 8:41; 9:116; 11:4; 16:40; 40:68; 41:39; 42:49;57:2
+- Ny heriny tsy manam-petra 3:26-27; 24:45; 31:28-30
+- namorona ny lanitra sy ny tany tao anatin'ny enina andro ary tsy mba reraka mihitsy (46:33; 50:38)
+- mamorona amin'ny teny hoe 'Aoka!' 36:81-83
+- tsy manao ny tsy rariny amin'ny zavaboariny mihitsy 3:108; 4:40; 17:71; 21:47; 22:10; 26:209; 40:31; 41:46; 45:22; 50:29; 64:11; 78:6-16
+- ny zava-drehetra dia manaiky ny sitrapony 3:83; 22:18; 30:26
+- mila Azy avokoa ny rehetra (11:6; 35:15; 55:29)
+- matokia Azy 10:84-85; 12:67; 25:58
+- endrika fifandraisana avy amin'Andriamanitra 42:51
+- mendrika ny hahatsiarovana ny 2:21; 3:102; 4:1; 33:70-71; 59:18
+- fanomezana avy Aminy ny fahendrena 2:269
+- Tsy mila olona Izy 3:97; 6:133; 112:2
+- tsy iray ao amin'ny Trinite 4:171
+- tsy manana vady 6:101
+- tsy manan-janaka 10:68; 19:35; 43:81; 72:3; 112:3
+- tsy manana mpiara-miasa na andriamanitra hafa 6:94; 7:191-195; 46:4-5
 - tsy misy tahaka Azy 42:11; 112:4
 Mba hisaintsainana ny fahagagana amin'ny zavatra noforoniny 3:190; 6:99; 10:5-6; 13:3-4; 16:10-16; 88:17-20
 Famantarana teo amin'ny famoronana 2:164; 6:95-99; 7:57-58; 10:5-6; 13:2-4; 16:10-13, 65-69, 79; 23:27-30; 27:60-65; 30:19-25; 50:6-11
@@ -1931,21 +1930,21 @@ Famantarana teo amin'ny famoronana 2:164; 6:95-99; 7:57-58; 10:5-6; 13:2-4; 16:1
 - orana mikitroka, havandra ary orana 2:265; 6:99; 24:43; 50:9-11
 - kotroka sy tselatra 13:12-13
 Referansa siantifika
-- noforonina avy amin'ny gametes lahy sy vavy ny olombelona 76:2;
-- dingana fiforonan'ny embryon sy ny fivoarany 22:5; 23:12-14;
-- zaza ao an-kibo ao anaty haizina telo sosona 39:6;
-- rano masirasira 25:53-54; 35:12; 55:19-20;
-- vovobony avy amin'ny rivotra 15:22;
-- dian-tanana 75:3-4;
-- tendrombohitra ho toy ny fihantonan-javatra 78:7;
-- vy nalefa 57:25;
-- mpandray fanaintainana 4:56;
-- ny masoandro ho toy ny loharano mamirapiratra ary ny volana ho toy ny hazavana taratra 10:5;
-- fizarana 54:1 ny volana;
-- lanitra toy ny elo voaaro tsara 21:32;
-- ny zavamananaina rehetra noforonina avy amin'ny rano 21:30; 24:45;
-- mifampiresaka ny vitsika 27:17-19;
-- onja anatiny 24:40;
+- noforonina avy amin'ny gametes lahy sy vavy ny olombelona 76:2
+- dingana fiforonan'ny embryon sy ny fivoarany 22:5; 23:12-14
+- zaza ao an-kibo ao anaty haizina telo sosona 39:6
+- rano masirasira 25:53-54; 35:12; 55:19-20
+- vovobony avy amin'ny rivotra 15:22
+- dian-tanana 75:3-4
+- tendrombohitra ho toy ny fihantonan-javatra 78:7
+- vy nalefa 57:25
+- mpandray fanaintainana 4:56
+- ny masoandro ho toy ny loharano mamirapiratra ary ny volana ho toy ny hazavana taratra 10:5
+- fizarana 54:1 ny volana
+- lanitra toy ny elo voaaro tsara 21:32
+- ny zavamananaina rehetra noforonina avy amin'ny rano 21:30; 24:45
+- mifampiresaka ny vitsika 27:17-19
+- onja anatiny 24:40
 Zavamananaina
 - anjely 39:75
 - olombelona (manam-pahefana eto an-tany) 2:30; 6:165; 16:4
@@ -1978,366 +1977,365 @@ Zavamananaina
 - hala 29:41
 - hafa tsy fantatsika 16:8
 Zavamaniry sy voankazo 6:99; 13:4; 16:11; 36:33-35
-- akondro 56:29,
-- daty 19:25,
-- anana, kôkômbra, tongolo lay, voanjobory ary tongolo 2:61,
-- voaloboka 80:28,
-- oliva 6:99,
-- sary 95:1,
-- ampongabendanitra 55:68,
+- akondro 56:29
+- daty 19:25
+- anana, kôkômbra, tongolo lay, voanjobory ary tongolo 2:61
+- voaloboka 80:28
+- oliva 6:99
+- sary 95:1
+- ampongabendanitra 55:68
 - squash 37:146
 Finoana an'i Muhammad
-- Toetra, mpaminany iray ihany 3:144; 6:50; 7:188; 18:110;
-- hanambara ny fahamarinana 2:119; 35:24; 42:48;
-- tombo-kase ho an'ny mpaminany 33:40;
-- toetra mendri-kaja 3:159; 68:4;
-- modely 33:21;
-- ho fankasitrahana ho an'ny mpino 3:164;
-- famindram-po ho an'izao tontolo izao 21:107;
-- iraka manerantany 4:170; 7:157-158; 34:28;
-- mitarika mankany amin'ny Lalana Mahitsy 42:52-53;
-- miahy ny olona 9:129;
-- ho vavolombelona amin'ny Andro Fitsarana 4:42; 16:89;
-- mpaminany tsy mahay mamaky teny sy manoratra 7:157-158; 29:48; 62:2;
-- naminany tao amin'ny Torah sy ny Filazantsara 7:157;
+- Toetra, mpaminany iray ihany 3:144; 6:50; 7:188; 18:110
+- hanambara ny fahamarinana 2:119; 35:24; 42:48
+- tombo-kase ho an'ny mpaminany 33:40
+- toetra mendri-kaja 3:159; 68:4
+- modely 33:21
+- ho fankasitrahana ho an'ny mpino 3:164
+- famindram-po ho an'izao tontolo izao 21:107
+- iraka manerantany 4:170; 7:157-158; 34:28
+- mitarika mankany amin'ny Lalana Mahitsy 42:52-53
+- miahy ny olona 9:129
+- ho vavolombelona amin'ny Andro Fitsarana 4:42; 16:89
+- mpaminany tsy mahay mamaky teny sy manoratra 7:157-158; 29:48; 62:2
+- naminany tao amin'ny Torah sy ny Filazantsara 7:157
 - nolazain'i Jesosy mialoha 61:6
 Ireo olana natrehin'ny Mpaminany ( ﷺ )
-- ny fitakian'ny mpanompo sampy tsy misy dikany 8:32; 15:7; 17:89-93; 25:7-8;
-- fiampangana lainga 10:2; 11:13; 21:5; 24:11-26; 25:4-6; 37:36; 38:4; 52:29-30;
-- andrana hamonoana azy 8:30; 9:74;
-- fampitandremana ho an'ireo izay manisy ratsy na manohitra azy 4:115; 8:13; 9:61; 15:95; 33:57; 47:32; 96:9-19;
-- nasaina namaly tamim-paharetana ny fandavana 20:130; 30:60; 46:35; 70:5;
+- ny fitakian'ny mpanompo sampy tsy misy dikany 8:32; 15:7; 17:89-93; 25:7-8
+- fiampangana lainga 10:2; 11:13; 21:5; 24:11-26; 25:4-6; 37:36; 38:4; 52:29-30
+- andrana hamonoana azy 8:30; 9:74
+- fampitandremana ho an'ireo izay manisy ratsy na manohitra azy 4:115; 8:13; 9:61; 15:95; 33:57; 47:32; 96:9-19
+- nasaina namaly tamim-paharetana ny fandavana 20:130; 30:60; 46:35; 70:5
 - nodidian'i Allah hampitony azy 5:67; 93:1-11; 94:1-8
 Lesona avy amin'ny fiainan'ny Mpaminany ( ﷺ )
-- nanomboka tamin'ny fifindra-monina (hijrah) ka hatramin'ny Adin'i Badr 3:121-129; 8:42-44; 8:65-71;
-- Adin'i Ouhoud 3:151-180;
-- Adin'ny Hady 33:9-27;
-- Adin'i Hunain 9:25-27;
-- Medina 9:40; Taboka 9:38–123;
-- Banu An-Naḍîr 59:2-6;
-- Hamra' Al-Asad 3:172-175;
+- nanomboka tamin'ny fifindra-monina (hijrah) ka hatramin'ny Adin'i Badr 3:121-129; 8:42-44; 8:65-71
+- Adin'i Ouhoud 3:151-180
+- Adin'ny Hady 33:9-27
+- Adin'i Hunain 9:25-27
+- Medina 9:40; Taboka 9:38–123
+- Banu An-Naḍîr 59:2-6
+- Hamra' Al-Asad 3:172-175
 - Fiafaran'i Hodaibiyah 48:1-7; 48:10-29
 Voninahitra nomena ny Mpaminany ( ﷺ )
-- Andriamanitra sy ireo anjeliny dia mitahy azy 33:56;
-- dia alina avy any Lameka nankany Jerosalema 17:1;
-- dia mankany an-danitra 53:1-18;
-- hajaina eto amin'ity fiainana ity sy amin'ny ho avy 17:79; 66:8; 108:1;
-- ny fankatoavana azy dia fankatoavana an'i Allah 4:80;
-- valisoan'ny fankatoavana an'i Allah sy ny Iraka 4:69;
-- nodiovina ny fianakaviany 33:33-34;
-- mahita an'i Gabriela amin'ny endriny marina 53:1-18;
-- ireo mpino dia nasaina nankatò azy 59:7;
+- Andriamanitra sy ireo anjeliny dia mitahy azy 33:56
+- dia alina avy any Lameka nankany Jerosalema 17:1
+- dia mankany an-danitra 53:1-18
+- hajaina eto amin'ity fiainana ity sy amin'ny ho avy 17:79; 66:8; 108:1
+- ny fankatoavana azy dia fankatoavana an'i Allah 4:80
+- valisoan'ny fankatoavana an'i Allah sy ny Iraka 4:69
+- nodiovina ny fianakaviany 33:33-34
+- mahita an'i Gabriela amin'ny endriny marina 53:1-18
+- ireo mpino dia nasaina nankatò azy 59:7
 - fomba firesahana aminy 49:1-5
-- fomba fitsidihan'ny olona azy 33:53;
-- fomba fitondran-tena amin'ny vadiny 33:53;
-- Faly aminy sy ireo namany i Allah 9:100; 9:117;
+- fomba fitsidihan'ny olona azy 33:53
+- fomba fitondran-tena amin'ny vadiny 33:53
+- Faly aminy sy ireo namany i Allah 9:100; 9:117
 - ny hatsaran'ny finoany - ny fiarahamoniny 2:143; 3:110
-Vavaka (salat) 2:45; 9:103; 51:18; 70:22-23; 75:31; 96:10; 108:2;
-- Fiangonan'ny Zoma 62:9;
-- fitarihana ny vavaka (qiblah) 2:144; 2:149-150;
-- tokony hisakana ny olona tsy hanao ratsy 29:45;
-- fotoana 11:114; 17:78; 17:79; 20:130; 24:36; 24:58; 30:17-18; 32:16; 38:18; 50:39-40; 51:17; 52:48-49; 73:2-4; 76:25-26;
-- raha sendra misy loza na eny an-dalana 2:239; 4:101-102;
-- fampitandremana ho an'ireo izay manao tsirambina ny vavaka 19:59; 74:38-47; 107:5-7;
+Vavaka (salat) 2:45; 9:103; 51:18; 70:22-23; 75:31; 96:10; 108:2
+- Fiangonan'ny Zoma 62:9
+- fitarihana ny vavaka (qiblah) 2:144; 2:149-150
+- tokony hisakana ny olona tsy hanao ratsy 29:45
+- fotoana 11:114; 17:78; 17:79; 20:130; 24:36; 24:58; 30:17-18; 32:16; 38:18; 50:39-40; 51:17; 52:48-49; 73:2-4; 76:25-26
+- raha sendra misy loza na eny an-dalana 2:239; 4:101-102
+- fampitandremana ho an'ireo izay manao tsirambina ny vavaka 19:59; 74:38-47; 107:5-7
 - vavaky ny mpihatsaravelatsihy 4:142; 9:54
-Fanadiovana, fidiovana (wudu) 5:6;
-- fandroana feno (ghusl) 2:222; 4:43;
+Fanadiovana, fidiovana (wudu) 5:6
+- fandroana feno (ghusl) 2:222; 4:43
 - fidiovana maina (tayammum) 4:43; 5:6
 Fitalahoana (du'a)
-- an'i Abrahama 2:126-129; 2:126-129; 14:35-41; 26:83-89;
-- Adama sy Eva 7:23;
-- Jesosy 5:114;
-- Joba 21:83; 21:83;
-- Jona 21:87;
-- Josefa 12:33; 12:101;
-- Mosesy 10:88-89; 20:25-35;
+- an'i Abrahama 2:126-129; 2:126-129; 14:35-41; 26:83-89
+- Adama sy Eva 7:23
+- Jesosy 5:114
+- Joba 21:83; 21:83
+- Jona 21:87
+- Josefa 12:33; 12:101
+- Mosesy 10:88-89; 20:25-35
 - Muhammad 17:80; 20:114
-- Noa 23:26; 26:117-118; 54:9-10; 71:26; 71:28;
-- Solomona 38:35;
-- Shuaib 7:89;
-- Zakaria 3:38; 19:2-6; 21:89-90;
-- anjely 40:8-9;
-- Renin'i Maria 3:35-36;
-- Vadin'i Farao 66:11;
-- Ireo mpanao majika an'i Farao 7:126;
-- Saoly Mpanjaka sy ireo mpino niaraka taminy 2:250;
-- ireo mpino ny Zanak'Isiraely 10:85-86;
-- ny olona tao anaty lava-bato 18:10;
-- ny marina 2:285-286; 3:8-9; 3:16; 3:147; 3:191-194; 25:74; 59:10;
+- Noa 23:26; 26:117-118; 54:9-10; 71:26; 71:28
+- Solomona 38:35
+- Shuaib 7:89
+- Zakaria 3:38; 19:2-6; 21:89-90
+- anjely 40:8-9
+- Renin'i Maria 3:35-36
+- Vadin'i Farao 66:11
+- Ireo mpanao majika an'i Farao 7:126
+- Saoly Mpanjaka sy ireo mpino niaraka taminy 2:250
+- ireo mpino ny Zanak'Isiraely 10:85-86
+- ny olona tao anaty lava-bato 18:10
+- ny marina 2:285-286; 3:8-9; 3:16; 3:147; 3:191-194; 25:74; 59:10
 - ireo ampahorina 4:75
 Andininy momba ny fiankohofana
 - sajadat, ploralin'ny sajdah, 7:206; 13:15; 16:49; 17:109; 19:58; 22:18; 22:77; 25:60; 27:26; 32:15; 38:24; 41:37; 53:62; 84:21; 96:19
-Ny hetra amin'ny fiantrana (zakah), ho adidy 2:110; 2:177; 2:277; 6:141;
-- iray amin'ireo toetran'ny mpino 22:41; 23:4; 51:19;
+Ny hetra amin'ny fiantrana (zakah), ho adidy 2:110; 2:177; 2:277; 6:141
+- iray amin'ireo toetran'ny mpino 22:41; 23:4; 51:19
 - mpandray 9:60
 - fiantrana (sadaqah) 2:177; 2:261–263; 2:267–274; 3:92; 63:10
 - fampitandremana ho an'ireo izay tsy manao izany 3:180; 9:34; 47:38
 Fifadian-kanina (sawm)
-- ao amin'ny Ramadany 2:183-185;
-- ora fifadian-kanina 2:187;
-- fanavahana 2:184-185;
-- fifandraisana akaiky mandritra ny alina mialoha ny fifadian-kanina 2:187;
+- ao amin'ny Ramadany 2:183-185
+- ora fifadian-kanina 2:187
+- fanavahana 2:184-185
+- fifandraisana akaiky mandritra ny alina mialoha ny fifadian-kanina 2:187
 - fifadian-kanina mandritra ny fivahiniana masina 2:196
-Fivahiniana masina (hajj),
-- adidy ho an'ireo izay afaka mandoa izany 3:97;
-- fombafomba sy didim-pitsarana 2:158; 2:189; 2:196-203; 5:2; 22:26-37;
-- fanatitra atao sorona 2:196; 22:36-37;
-- fandrarana ny fihazana an-tanety mandritra ny fivahiniana masina 5:1; 5:94-95;
+Fivahiniana masina (hajj)
+- adidy ho an'ireo izay afaka mandoa izany 3:97
+- fombafomba sy didim-pitsarana 2:158; 2:189; 2:196-203; 5:2; 22:26-37
+- fanatitra atao sorona 2:196; 22:36-37
+- fandrarana ny fihazana an-tanety mandritra ny fivahiniana masina 5:1; 5:94-95
 - azo atao ny mihaza any an-dranomasina 5:96
 - Fivahiniana masina kely ('umrah) 2:158; 2:196
 Fiarahamonina ara-pinoana
-- Miozolomana 2:132-136; 3:64; 3:84; 5:111; 22:77-78; 33:35; 41:33; 43:67-70; 72:14-15;
-- mpiambina ny tsirairay 3:28; 9:71;
-- Kristiana 2:62; 2:111-140; 4:171-172; 5:14-19; 5:82-86; 5:116-120; 9:30-31; 22:17;
-- Jiosy 2:62, 111-140; 5:44-45; 6:146; 22:17; 62:6-8;
-- Zanak'i Israely 2:40-103, 122-123, 246-251; 3:49; 3:93-94; 5:12-13, 20-26, 32, 70-71, 78-81; 7:137-141, 148-153,159-171; 10:83-93; 14:5-8; 17:2-8, 104; 20:80-98; 26:52-67, 197; 27:76; 44:23-33; 45:16-17; 46:10; 61:5-6;
+- Miozolomana 2:132-136; 3:64; 3:84; 5:111; 22:77-78; 33:35; 41:33; 43:67-70; 72:14-15
+- mpiambina ny tsirairay 3:28; 9:71
+- Kristiana 2:62; 2:111-140; 4:171-172; 5:14-19; 5:82-86; 5:116-120; 9:30-31; 22:17
+- Jiosy 2:62, 111-140; 5:44-45; 6:146; 22:17; 62:6-8
+- Zanak'i Israely 2:40-103, 122-123, 246-251; 3:49; 3:93-94; 5:12-13, 20-26, 32, 70-71, 78-81; 7:137-141, 148-153,159-171; 10:83-93; 14:5-8; 17:2-8, 104; 20:80-98; 26:52-67, 197; 27:76; 44:23-33; 45:16-17; 46:10; 61:5-6
 - Olon'ny Boky (indrindra fa Jiosy sy Kristiana) 2:109; 3:64-115, 199; 4:123-172; 5:15-77; 6:20-21; 13:36; 28:52-55; 29:46-47; 57:16, 28-29; 74:31; 98:1-5
 - Afaka mihinana biby novonoiny ho faty ny Miozolomana ary manambady ny vadiny 5:5
-- sakafo voarara ho an'ny Jiosy 6:146;
-- Sabiana 2:62; 22:17;
-- Magy 22:17;
-- mpivavaka amin'Andriamanitra maro (mpanompo sampy, mpanompo sampy) 3:186; 6:148; 9:6, 17; 10:28; 16:86; 22:17; 53:19-30;
-- fanao finoanoam-poana mpanompo sampy 2:189; 5:103; 6:138-144;
+- sakafo voarara ho an'ny Jiosy 6:146
+- Sabiana 2:62; 22:17
+- Magy 22:17
+- mpivavaka amin'Andriamanitra maro (mpanompo sampy, mpanompo sampy) 3:186; 6:148; 9:6, 17; 10:28; 16:86; 22:17; 53:19-30
+- fanao finoanoam-poana mpanompo sampy 2:189; 5:103; 6:138-144
 - tsy mino an'Andriamanitra 52:35-36
 Voarara ny fanao mpanompo sampy
-- fandevenana velona ny zanakavaviny 16:58-59; 81:8-9;
-- famonoana ankizy noho ny tahotra ny fahantrana 6:137; 6:151; 17:31;
-- misioka sy mitehaka manodidina ny Ka'bah 8:35;
-- fanolorana rameva ho an'ny sampy 5:103; 6:136;
-- manao sorona amin'ny anaran'ny sampy 6:121;
-- fisaraham-panambadiana zihar 33:4; 58:2-4;
-- ila' (mandritra ny efa-bolana mahery) 2:226-227;
-- filokana ho an'ny fanapahan-kevitra 5:3;
-- manodidina ny Ka'bah sady mitanjaka 7:26-28;
+- fandevenana velona ny zanakavaviny 16:58-59; 81:8-9
+- famonoana ankizy noho ny tahotra ny fahantrana 6:137; 6:151; 17:31
+- misioka sy mitehaka manodidina ny Ka'bah 8:35
+- fanolorana rameva ho an'ny sampy 5:103; 6:136
+- manao sorona amin'ny anaran'ny sampy 6:121
+- fisaraham-panambadiana zihar 33:4; 58:2-4
+- ila' (mandritra ny efa-bolana mahery) 2:226-227
+- filokana ho an'ny fanapahan-kevitra 5:3
+- manodidina ny Ka'bah sady mitanjaka 7:26-28
 - fidirana an-trano avy any aoriana aorian'ny fivahiniana masina 2:189
-Zavatra ivavahana,
-- anjely (teo amin'ny Arabo mpanompo sampy sasany) 34:40;
-- Al-Aykah (teo amin'ny vahoakan'i Shu'aib) 26:176;
-- Ba'l (teo anivon'ny vahoakan'i Elia 37:125;
-- Jesosy (ao amin'ny Kristianisma) 5:17;
-- sampy (teo amin'ny vahoakan'i Abrahama) 21:52-53;
-- ny sampin'i Lat, 'Ozza, ary Manat (teo amin'ireo mpanompo sampy Arabo) 53:19-20;
-- ireo sampin'i Wadd, Suwa', Yaghuth, Ya'uq, ary Nasr (teo amin'ny vahoakan'i Noa) 71:23;
-- ny masoandro (ny vahoakan'i Sheba) 27:24;
-- Sirius (teo amin'ireo Arabo mpanompo sampy sasany) 53:49;
-- Farao (tany Ejipta fahiny) 26:29; 28:38; 79:24;
-- faniriana 25:43-44; 45:23;
+Zavatra ivavahana
+- anjely (teo amin'ny Arabo mpanompo sampy sasany) 34:40
+- Al-Aykah (teo amin'ny vahoakan'i Shu'aib) 26:176
+- Ba'l (teo anivon'ny vahoakan'i Elia 37:125
+- Jesosy (ao amin'ny Kristianisma) 5:17
+- sampy (teo amin'ny vahoakan'i Abrahama) 21:52-53
+- ny sampin'i Lat, 'Ozza, ary Manat (teo amin'ireo mpanompo sampy Arabo) 53:19-20
+- ireo sampin'i Wadd, Suwa', Yaghuth, Ya'uq, ary Nasr (teo amin'ny vahoakan'i Noa) 71:23
+- ny masoandro (ny vahoakan'i Sheba) 27:24
+- Sirius (teo amin'ireo Arabo mpanompo sampy sasany) 53:49
+- Farao (tany Ejipta fahiny) 26:29; 28:38; 79:24
+- faniriana 25:43-44; 45:23
 - nolavina ny finoana andriamanitra maro (17:42-43; 21:21-24; 25:3)
-Toeram-pivavahana, moskea 9:18;
-- fiangonana, synagoga ary monasitera 22:40;
-- fitoerana masina 3:39; 38:21;
+Toeram-pivavahana, moskea 9:18
+- fiangonana, synagoga ary monasitera 22:40
+- fitoerana masina 3:39; 38:21
 - tempoly 17:7
 - Anaram-boninahitra ara-pivavahana, mpisorona, moanina ary raby 5:44; 5:63; 5:82; 9:31-34
-Anjely,
+Anjely
 - manontany momba ny namoronana an'i Adama 2:30-34
-- aza mandika an'i Allah mihitsy (21:26-27; 66:6);
-- tsy zanakavavin'i Allah ianareo (21:26; 43:16-19);
-- anjely mpiambina 13:11;
-- anjely roa mpandrakitra an-tsoratra 50:16-18; 82:10-12;
-- valo mitondra ny Seza Fiandrianan'i Allah amin'ny Andro Fitsarana 69:17;
-- mpiambina sivy ambin'ny folo ao amin'ny helo 74:26-31;
-- Anjelin'ny Fahafatesana 6:93; 16:28; 32:11;
-- Gabriela 2:97; 66:4; 26:192-195; 53:1-14;
-- Mikaela 2:98;
+- aza mandika an'i Allah mihitsy (21:26-27; 66:6)
+- tsy zanakavavin'i Allah ianareo (21:26; 43:16-19)
+- anjely mpiambina 13:11
+- anjely roa mpandrakitra an-tsoratra 50:16-18; 82:10-12
+- valo mitondra ny Seza Fiandrianan'i Allah amin'ny Andro Fitsarana 69:17
+- mpiambina sivy ambin'ny folo ao amin'ny helo 74:26-31
+- Anjelin'ny Fahafatesana 6:93; 16:28; 32:11
+- Gabriela 2:97; 66:4; 26:192-195; 53:1-14
+- Mikaela 2:98
 - Malik 43:77
 olona
-- avy amin'ny anjely sy ny olombelona 22:75;
+- avy amin'ny anjely sy ny olombelona 22:75
 - Iraka manana fahavononana mafy orina (Abrahama, Noa, Mosesy, Jesosy ary Muhammad ﷺ ) 33:7; 42:13; 46:35
 soratra masina
-- CORAN, fanambarana avy amin'i Allah 12:2-3; 20:2-4; 26:192-195; 32:2-3;
-- fampahatsiahivana ho an'izao tontolo izao 68:51-52;
-- mpitari-dalana ho amin'ny fomba fiaina mahitsy indrindra 17:9;
-- nanomboka tamin'ny volana Ramadân ny fanambarana 2:185;
-- amin'ny alina feno fitahiana 44:3;97:1-5;
-- naseho tsikelikely 17:105-106;
-- natao mora tadidy 54:17;
-- manamafy ny fahamarinana ao amin'ny fanambarana teo aloha 3:3-4;
-- manam-pahefana faratampony amin'ny soratra masina teo aloha 5:48;
-- tsy misy isalasalana izany 2:2; 10:37;
-- tsy misy fifanoherana 4:82;
-- tsy noforonina 10:37-39;
-- tsy nalaina avy amin'ny Baiboly 25:4-6;
-- tsy nasehon'ny devoly 26:210-212;
+- CORAN, fanambarana avy amin'i Allah 12:2-3; 20:2-4; 26:192-195; 32:2-3
+- fampahatsiahivana ho an'izao tontolo izao 68:51-52
+- mpitari-dalana ho amin'ny fomba fiaina mahitsy indrindra 17:9
+- nanomboka tamin'ny volana Ramadân ny fanambarana 2:185
+- amin'ny alina feno fitahiana 44:3;97:1-5
+- naseho tsikelikely 17:105-106
+- natao mora tadidy 54:17
+- manamafy ny fahamarinana ao amin'ny fanambarana teo aloha 3:3-4
+- manam-pahefana faratampony amin'ny soratra masina teo aloha 5:48
+- tsy misy isalasalana izany 2:2; 10:37
+- tsy misy fifanoherana 4:82
+- tsy noforonina 10:37-39
+- tsy nalaina avy amin'ny Baiboly 25:4-6
+- tsy nasehon'ny devoly 26:210-212
 - tsy misy olona afaka mamorona zavatra tahaka azy 17:88; 2:23-24;10:13-14; 11:13
-- voaaro amin'ny kolikoly 15:9;
-- voaaro ao amin'ny Takelaka Voatahiry 56:75-80;
-- tsy azo porofoina ho diso 41:42;
-- maminany ny amin'ny ho avy 30:1-7; 48:27;
-- nampitomany ny mpino 5:83; 17:107-109;
-- mikasika ny fo 39:23;
-- hazavana mamirapiratra 4:174; 42:52;
+- voaaro amin'ny kolikoly 15:9
+- voaaro ao amin'ny Takelaka Voatahiry 56:75-80
+- tsy azo porofoina ho diso 41:42
+- maminany ny amin'ny ho avy 30:1-7; 48:27
+- nampitomany ny mpino 5:83; 17:107-109
+- mikasika ny fo 39:23
+- hazavana mamirapiratra 4:174; 42:52
 - fanasitranana sy famindram-po ho an'ny mpino 17:82
 - Torah 3:3; 3:93; 5:46; 5:66-68, 110; 7:157; 9:111; 48:29; 61:6; 62:5
-- Filazantsara 3:3; 48; 5:46-47, 66-68, 77, 110; 7:157; 9:111; 48:29; 57:27
+- Filazantsara 3:3, 48; 5:46-47, 66-68, 77, 110; 7:157; 9:111; 48:29; 57:27
 - Salamo 4:163; 17:55
 - Horonana nosoratan'i Abrahama 53:36-44; 87:14-19
-Lahatra sy lahatra 3:145; 9:51; 10:107; 11:6; 54:49; 67:30;
+Lahatra sy lahatra 3:145; 9:51; 10:107; 11:6; 54:49; 67:30
 - safidy malalaka 6:148-150; 11:118-119; 16:93; 33:72-73; 39:41; 76:1-3; 91:1-10
-Andro Fitsarana,
-- tsy misy tsy rariny 2:281; 18:49; 40:17;
-- horohoro amin'ny apokalipsy 22:1-2; 27:82-84, 87; 40:18; 52:11-16; 69:13-18; 70:8-18; 73:17-18; 75:7-15; 77:8-15; 78:17-20; 79:34-36; 80:33-42; 81:1-14; 82:1-5; 84:1-5; 87:17-40; 99:1-8; 101:1-11;
-- ny marina sy ny ratsy fanahy amin'izany andro izany 11:105-108; 16:27-33, 84-89; 18:52-53; 20:100-111; 25:24-29; 30:12-16; 33:63-68; 39:68-75; 50:20-35; 55:37-41; 83:4-36;
+Andro Fitsarana
+- tsy misy tsy rariny 2:281; 18:49; 40:17
+- horohoro amin'ny apokalipsy 22:1-2; 27:82-84, 87; 40:18; 52:11-16; 69:13-18; 70:8-18; 73:17-18; 75:7-15; 77:8-15; 78:17-20; 79:34-36; 80:33-42; 81:1-14; 82:1-5; 84:1-5; 87:17-40; 99:1-8; 101:1-11
+- ny marina sy ny ratsy fanahy amin'izany andro izany 11:105-108; 16:27-33, 84-89; 18:52-53; 20:100-111; 25:24-29; 30:12-16; 33:63-68; 39:68-75; 50:20-35; 55:37-41; 83:4-36
 - fanelanelanana (shafa'ah) 2:48, 255; 6:51, 70; 10:3; 21:28; 32:4; 36:23; 39:43-44; 43:86; 53:26;74:48
-Firaketana ny asa nataon'i Mosesy 17:13; 18:49;
-- mandray ny firaketana an-tsorany amin'ny tanany ankavanana ny mpino (69:19-24; 84:7-9);
-- mandray ny rakitsorany amin'ny tanany havia ireo tsy mpino (69:25-37; 84:10-15);
-- tsy hisy zavatra miafina amin'i Allah 21:47; 40:16;
-- fandanjana ny asa 7:8; 23:102-104; 101:1-11;
-- fijoroana vavolombelona momba ny taova ao amin'ny vatana 41:19-24; 24:24;
+Firaketana ny asa nataon'i Mosesy 17:13; 18:49
+- mandray ny firaketana an-tsorany amin'ny tanany ankavanana ny mpino (69:19-24; 84:7-9)
+- mandray ny rakitsorany amin'ny tanany havia ireo tsy mpino (69:25-37; 84:10-15)
+- tsy hisy zavatra miafina amin'i Allah 21:47; 40:16
+- fandanjana ny asa 7:8; 23:102-104; 101:1-11
+- fijoroana vavolombelona momba ny taova ao amin'ny vatana 41:19-24; 24:24
 - valisoa ho an'ny asa tsara sy ratsy 6:160; 27:89-90; 28:84
 Karazana olona
-- mpino 18:107-108;
-- ireo tsy mpino 4:167-169;
-- mpihatsaravelatsihy 4:145; 57:13-15;
-- mponina ao amin'ny Paradisa, mpino voalohany indrindra 55:46-61; 56:10-26;
-- mponina ao amin'ny Paradisa, olon'ny ankavanana 55:62-78; 56:27-40;
-- mponina any amin'ny helo, olona avy amin'ny ankavia 55:31-45; 56:41-56;
+- mpino 18:107-108
+- ireo tsy mpino 4:167-169
+- mpihatsaravelatsihy 4:145; 57:13-15
+- mponina ao amin'ny Paradisa, mpino voalohany indrindra 55:46-61; 56:10-26
+- mponina ao amin'ny Paradisa, olon'ny ankavanana 55:62-78; 56:27-40
+- mponina any amin'ny helo, olona avy amin'ny ankavia 55:31-45; 56:41-56
 - olona eny amin'ny toerana avo 7:46-49
 Ara-bola
-- Torolalana ara-barotra 2:188; 2:275; 2:282-283; 4:29; 4:58; 6:152; 17:34-35;
-24:36-37; 26:182; 30:39; 55:7-9; 62:9
-- Lova, lova azo atao tsy voatery ho an'ireo tsy mpandova 2:180-183; 4:11-12;
+- Torolalana ara-barotra 2:188; 2:275; 2:282-283; 4:29; 4:58; 6:152; 17:34-35; 24:36-37; 26:182; 30:39; 55:7-9; 62:9
+- Lova, lova azo atao tsy voatery ho an'ireo tsy mpandova 2:180-183; 4:11-12
 talohan'ny nahafatesany nandritra ny diany 5:106-108
 - Kolikoly 2:188
-- Trosa, hatsaram-panahy amin'ny fanangonana trosa 2:280;
-- fanoratana sy fijoroana vavolombelona momba ny fifanarahana momba ny trosa 2:282;
+- Trosa, hatsaram-panahy amin'ny fanangonana trosa 2:280
+- fanoratana sy fijoroana vavolombelona momba ny fifanarahana momba ny trosa 2:282
 - maka antoka 2:283
-- Lova, torolalana 4:7; 4:32-33; 8:75;
-- anjaran'ny taranaka sy ny ray aman-dreny 4:11;
-- vady sy iray tampo amin'ny reny 4:12;
-- iray tampo feno 4:176;
+- Lova, torolalana 4:7; 4:32-33; 8:75
+- anjaran'ny taranaka sy ny ray aman-dreny 4:11
+- vady sy iray tampo amin'ny reny 4:12
+- iray tampo feno 4:176
 - fampitandremana ho an'ireo izay tsy manaraka ny 4:13-14
-- Fahalianana, fandrarana ary fampitandremana 2:275-281; 3:130-132;
+- Fahalianana, fandrarana ary fampitandremana 2:275-281; 3:130-132
 - natao tsy nahazoana tombony 30:39
 Ara-dalàna
 - lalàna famadihana (hirabah) 5:33-34
-- Rariny, mijoro ho an'ny rariny 4:135; 5:8; 16:90-91;
-- miaro ny zon'ny kamboty sy ny vehivavy 4:127;
-- rariny ho an'ny Jiosy 4:105-112;
-- rariny ho an'ny mpanompo sampy 4:58;
+- Rariny, mijoro ho an'ny rariny 4:135; 5:8; 16:90-91
+- miaro ny zon'ny kamboty sy ny vehivavy 4:127
+- rariny ho an'ny Jiosy 4:105-112
+- rariny ho an'ny mpanompo sampy 4:58
 - rariny amin'ny tsy Miozolomana 60:8-9
 - Famaliana faty amin'ny alalan'ny fomba ara-dalàna (miaraka amin'ny safidy hamela heloka) 2:178-179; 5:45; 16:126; 17:33; 42:37-43
-- Fisarahana eo amin'ny mpivady, khul' 2:229;
+- Fisarahana eo amin'ny mpivady, khul' 2:229
 - lian (mpiampanga ho nanitsakitsa-bady) 24:6-10
 ARA-POLITIKA
 - Fitantanana raharaha amin'ny alalan'ny fifampidinihana (shura) 3:159; 42:38
-- Miady ho fiarovan-tena (jihad), fomba amam-panao 2:190-192; 2:216; 22:38-40;
-- tsy hanafika tsy misy fanavakavahana 4:94;
-- miady ho an'ny lehilahy, vehivavy ary ankizy ampahorina 4:75;
-- fiarovana ny toeram-pivavahana 22:37;
-- valisoa ho an'ny maritiora 2:154; 3:169-171; 9:111; 57:19;
-- ny herin'ny tafika dia mampisavorovoro ireo fahavalo mety ho avy 8:60;
+- Miady ho fiarovan-tena (jihad), fomba amam-panao 2:190-192; 2:216; 22:38-40
+- tsy hanafika tsy misy fanavakavahana 4:94
+- miady ho an'ny lehilahy, vehivavy ary ankizy ampahorina 4:75
+- fiarovana ny toeram-pivavahana 22:37
+- valisoa ho an'ny maritiora 2:154; 3:169-171; 9:111; 57:19
+- ny herin'ny tafika dia mampisavorovoro ireo fahavalo mety ho avy 8:60
 - misafidy ny fandriampahalemana 2:192; 8:61
 - Fihavanana eo amin'ny andaniny roa 49:9-10
 - Babo an'ady, fitsaboana 8:70; 47:4; 76:8
 SOSIALY
 - Fananganan-jaza 33:4-5
 - Fikarakarana ny kamboty 2:220; 4:2-10; 4:127; 6:152; 17:34
-- Fisaraham-panambadiana, fitsarana ary fampihavanana 4:35; 4:128;
-- fomba fisaraham-panambadiana 2:229-231; 65:1-2;
-- fanomezana ho an'ny vady sy ny fe-potoana fiandrasana 2:226-241; 4:19-21; 33:49; 65:1-7;
-- tsy tokony haka na inona na inona amin'ny vodiondry ny lehilahy 4:20;
-- tsy azo terena ny vady 65:6;
-- hotohanana ara-bola ny vady mandritra ny fitondrana vohoka 65:6;
-- mandritra ny fe-potoana fiandrasany 65:6;
-- raha mampinono ny zanaky ny vadiny taloha izy, 65:6;
-- tsy tokony hisy ray aman-dreny hijaly noho ny zanany 2:233;
+- Fisaraham-panambadiana, fitsarana ary fampihavanana 4:35; 4:128
+- fomba fisaraham-panambadiana 2:229-231; 65:1-2
+- fanomezana ho an'ny vady sy ny fe-potoana fiandrasana 2:226-241; 4:19-21; 33:49; 65:1-7
+- tsy tokony haka na inona na inona amin'ny vodiondry ny lehilahy 4:20
+- tsy azo terena ny vady 65:6
+- hotohanana ara-bola ny vady mandritra ny fitondrana vohoka 65:6
+- mandritra ny fe-potoana fiandrasany 65:6
+- raha mampinono ny zanaky ny vadiny taloha izy, 65:6
+- tsy tokony hisy ray aman-dreny hijaly noho ny zanany 2:233
 - misafidy ny fampinonoana amin'ny tahan'ny 65:6
 - Mampirisika ny tsara sy mandrara ny ratsy 3:104; 3:110; 7:157; 9:71-72; 31:17
-- Ny fitovian-jo eo amin'ny olombelona 49:13;
-- lehilahy sy vehivavy eo anatrehan'i Allah sy ny lalàna, 3:195; 4:124; 5:38; 16:97; 24:2; 40:40;
+- Ny fitovian-jo eo amin'ny olombelona 49:13
+- lehilahy sy vehivavy eo anatrehan'i Allah sy ny lalàna, 3:195; 4:124; 5:38; 16:97; 24:2; 40:40
 - manana andraikitra ambony kokoa noho ny vehivavy ny lehilahy 2:228
 - Mamahana ny mahantra, ny kamboty ary ny babo 76:8-9
 - Famelan-keloka sy fifehezana ny hatezerana 3:134; 42:40
 - Fanafahana andevo sy fanampiana azy ireo 4:92; 5:89; 9:60; 24:33; 58:3; 90:13
 - Manaja ny ray aman-dreny 4:36; 17:23-25; 31:14-15
 - Fanetren-tena 17:37; 31:18-19
-- Fandikana ny nofin'i Abrahama 37:102;
-- Fandikana ny nofin'i Josefa 12:4; 12:36; 12:43;
+- Fandikana ny nofin'i Abrahama 37:102
+- Fandikana ny nofin'i Josefa 12:4; 12:36; 12:43
 - Fandikana ny nofin'i Muhammad 8:43; 48:27
 - Hatsaram-panahy amin'ny tsy Miozolomana 60:8
-- Fanambadiana 4:3; 4:129; 16:72; 30:21;
-- ny vehivavy ara-dalàna sy tsy ara-dalàna dia tsy maintsy manambady 4:22-24;
-- fomba fifandraisana akaiky 2:222-223;
-- fitondrana vohoka sy fampinonoana 2:233; 31:4; 46:15; 65:6;
-- manambady indray ny vadin'ny tena manokana 2:230;
-- manampy ny mpitovo hanambady 24:32;
+- Fanambadiana 4:3; 4:129; 16:72; 30:21
+- ny vehivavy ara-dalàna sy tsy ara-dalàna dia tsy maintsy manambady 4:22-24
+- fomba fifandraisana akaiky 2:222-223
+- fitondrana vohoka sy fampinonoana 2:233; 31:4; 46:15; 65:6
+- manambady indray ny vadin'ny tena manokana 2:230
+- manampy ny mpitovo hanambady 24:32
 - maneho fahalianana an-kolaka mandritra ny fotoam-piandrasana 2:235
-- Fianianana 2:224-225; 16:91-92; 16:94;
+- Fianianana 2:224-225; 16:91-92; 16:94
 - manonitra ny fianianana tsy tanteraka 5:89
 - Faharetana amin'ny fotoan-tsarotra 2:45; 2:153-157; 3:186; 12:18; 12:83; 16:127-128; 70:5
-- Fahazoan-dalana hiditra 24:58-60;
-- miditra ao an-tranon'ny olona 24:27-28;
+- Fahazoan-dalana hiditra 24:58-60
+- miditra ao an-tranon'ny olona 24:27-28
 - fidirana amin'ny toerana ho an'ny daholobe 24:29
-- Fitondran-tena ara-tsosialy, fanamarinana vaovao 4:83; 49:6;
-- fanajana ny rehetra 49:11-12;
-- fomba fanao amin'ny fivoriana 58:11;
+- Fitondran-tena ara-tsosialy, fanamarinana vaovao 4:83; 49:6
+- fanajana ny rehetra 49:11-12
+- fomba fanao amin'ny fivoriana 58:11
 - resaka manokana 4:114; 58:9
 - Voady 2:270; 9:75-77; 22:29; 76:7
 - Fandaniam-poana sy fitsiriritana 7:31; 17:29; 25:67
 Tantara hafa
-- Abela sy Kaina 5:27-31;
-- Al-Khadir sy Mosesy 18:60-82;
-- Tafiky ny Elefanta 105:1-4;
-- ny mpino avy amin'ny vahoakan'i Farao 40:28-46;
-- fahaterahan'i Maria 3:35-36;
-- Ombivavin'ny Zanak'Isiraely 2:67-74;
-- Ezra 2:259;
+- Abela sy Kaina 5:27-31
+- Al-Khadir sy Mosesy 18:60-82
+- Tafiky ny Elefanta 105:1-4
+- ny mpino avy amin'ny vahoakan'i Farao 40:28-46
+- fahaterahan'i Maria 3:35-36
+- Ombivavin'ny Zanak'Isiraely 2:67-74
+- Ezra 2:259
 - tompon'ny zaridaina 68:17-32
 - Harut sy Marut 2:102
 - Kora 28:76-82
-- Ny torohevitr'i Luqman ho an'ny zanany lahy 31:12-19;
-- tompon'ny zaridaina roa 18:32-44;
-- vahoakan'i Sheba 34:15-19;
-- olona tao anaty lava-bato 18:9-26;
-- vahoakan'ny hady 85:1-8;
-- Ireo mpandika ny Sabata 7:163-165;
-- Samiri sy ilay Ombilahy Kely Volamena 20:83-97;
-- Saoly sy Samoela 2:247-251;
+- Ny torohevitr'i Luqman ho an'ny zanany lahy 31:12-19
+- tompon'ny zaridaina roa 18:32-44
+- vahoakan'i Sheba 34:15-19
+- olona tao anaty lava-bato 18:9-26
+- vahoakan'ny hady 85:1-8
+- Ireo mpandika ny Sabata 7:163-165
+- Samiri sy ilay Ombilahy Kely Volamena 20:83-97
+- Saoly sy Samoela 2:247-251
 - Zul-Qarnain 18:83-98
-Devoly 2:102; 6:71; 6:112; 6:121; 7:27; 7:30; 17:27; 19:68; 19:83; 22:3-4; 23:97-98; 26:210; 37:7-10; 38:37-38; 67:5;
-- olombelona devoly sy jiny 6:112;114:6;
+Devoly 2:102; 6:71; 6:112; 6:121; 7:27; 7:30; 17:27; 19:68; 19:83; 22:3-4; 23:97-98; 26:210; 37:7-10; 38:37-38; 67:5
+- olombelona devoly sy jiny 6:112;114:6
 - voaaro amin'ny demonia ny lanitra 15:16-18
 ny nenina
-- tsy manaraka ny Mpaminany 25:27;
-- tsy fankatoavana an'i Allah sy ny Iraka avy Aminy 4:41-42; 33:64-68;
-- maka namana ratsy fanahy 25:28-29; 26:96-102; 43:36-39;
-- fandavana ireo famantarana avy amin'i Allah 6:27-30;
+- tsy manaraka ny Mpaminany 25:27
+- tsy fankatoavana an'i Allah sy ny Iraka avy Aminy 4:41-42; 33:64-68
+- maka namana ratsy fanahy 25:28-29; 26:96-102; 43:36-39
+- fandavana ireo famantarana avy amin'i Allah 6:27-30
 - tsy miasa ho an'ny any ankoatra 89:23-24
 Fitalahoana mafy
-- mangataka ny hiverenana eto amin'izao tontolo izao 2:167; 6:27-28; 32:12-14; 42:44;
-- ho an'ny fahafahana faharoa 35:36-37;
-- hesorina amin'ny afo 40:10-12;
-- ho an'ny sakafo sy ny rano 7:51-52;
-- ho an'ny mpitalaho 7:52-53;
-- horavana ho vovoka 4:41-42; 78:40;
+- mangataka ny hiverenana eto amin'izao tontolo izao 2:167; 6:27-28; 32:12-14; 42:44
+- ho an'ny fahafahana faharoa 35:36-37
+- hesorina amin'ny afo 40:10-12
+- ho an'ny sakafo sy ny rano 7:51-52
+- ho an'ny mpitalaho 7:52-53
+- horavana ho vovoka 4:41-42; 78:40
 - ho an'ny fahafatesana 43:74-78
 Toetran'ny olo-marina
 - fitandremana ny zon'ny Mpamorona sy ny zavaboariny 3:133-136; 4:36; 4:69-70; 6:151-154; 8:2-4; 13:19-24; 17:23-39; 18:107-108; 23:1-11; 25:63-76; 42:36-43
 Toetran'ny ratsy fanahy
-- tsy mahay mankasitraka 14:34;
-- mahira-tsaina 17:100;
-- maimaika 21:37;
-- tsarovy Andriamanitra amin'ny fotoan-tsarotra ihany 10:12; 41:51;
-- tsy manam-paharetana 70:19;
+- tsy mahay mankasitraka 14:34
+- mahira-tsaina 17:100
+- maimaika 21:37
+- tsarovy Andriamanitra amin'ny fotoan-tsarotra ihany 10:12; 41:51
+- tsy manam-paharetana 70:19
 - miady hevitra 18:54
 Fahotana Lehibe
 - fampiraisana zavatra amin'i Allah amin'ny fivavahana (shirk) 4:48; 4:116; 5:72; 6:19; 31:13:
-- manararaotra ny ray aman-dreny 4:36; 6:151; 17:23;
-- fanaovana tsinontsinona na fialana amin'ny vavaka tsy maintsy atao 19:59-60;
-- tsy mandoa hetra amin'ny fiantrana 41:6-7;
-- vonoan'olona 6:151; 17:33;
-- famonoana mpino an-tsitrapo 4:93;
-- halatra 5:38;
-- hosoka 7:85; 11:85; 26:182-183; 83:1-6;
-- mandainga 2:10; 9:77; 39:60;
-- mandainga momba an'i Allah 6:93; 29:68; 61:7;
+- manararaotra ny ray aman-dreny 4:36; 6:151; 17:23
+- fanaovana tsinontsinona na fialana amin'ny vavaka tsy maintsy atao 19:59-60
+- tsy mandoa hetra amin'ny fiantrana 41:6-7
+- vonoan'olona 6:151; 17:33
+- famonoana mpino an-tsitrapo 4:93
+- halatra 5:38
+- hosoka 7:85; 11:85; 26:182-183; 83:1-6
+- mandainga 2:10; 9:77; 39:60
+- mandainga momba an'i Allah 6:93; 29:68; 61:7
 - firaisana ara-nofo voarara 2:222; 17:32; 24:2; 25:68; 29:28-30
-- fiampangana lainga momba ny fanitsakitsaham-bady 24:4-5;
-- fivadiham-pinoana 2:217; 5:54;
-- fihinanana kisoa sy sakafo voarara hafa (fatin'ny biby, ra, sns.) 5:3; 6:145;
-- toaka sy filokana 5:90-91;
-- fanaratsiana 49:11;
-- fijoroana ho vavolombelona mandainga 22:30;
+- fiampangana lainga momba ny fanitsakitsaham-bady 24:4-5
+- fivadiham-pinoana 2:217; 5:54
+- fihinanana kisoa sy sakafo voarara hafa (fatin'ny biby, ra, sns.) 5:3; 6:145
+- toaka sy filokana 5:90-91
+- fanaratsiana 49:11
+- fijoroana ho vavolombelona mandainga 22:30
 - majika 2:102; 10:77; 20:69
 """;

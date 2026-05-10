@@ -5,18 +5,18 @@ Wudhu (Ablusi), 4:43; 5:6
 Ibrahim (Abraham) S.14; 2:135-136, 148; 3:33, 84, 95; 4:54, 125, 163; 6:161; 9:70, 114; 12:6, 38; 16:120; 19:58; 21:51, 60, 62, 69; 22:43, 78; 26:69; 29:31; 33:7; 37:83, 104, 109; 38:45; 42:13; 43:26; 51:24; 53:37; 57:26; 60:4; 87:19
 - bukan Yahudi maupun Kristen, 3:67-68
 - berdiri di masjid pertama di Bakkah, 3:97; 26:123
-- membangun pondasi Ka'bah 2:124-129;
-- menyeru kaumnya untuk menyembah Allah Yang Maha Esa 2:130-133; 26:69-89; 29:16; 29:24-27;
-- berdebat dengan raja yang sombong 2:258,
-- bertanya tentang kebangkitan 2:260;
-- bukan Yahudi maupun Kristen 3:65-68;
-- menolak penyembahan benda langit 6:74-87;
-- menerima kabar kelahiran Ishaq 11:69-76; 51:24-30;
-- doanya di Ka'bah 14:35-41;
-- dikunjungi para malaikat 15:51-56;
-- suri teladan 16:123;
-- menyeru ayahnya kepada kebenaran 19:41-50;
-- menghancurkan berhala dan diselamatkan dari api 21:51-73; 37:83-113;
+- membangun pondasi Ka'bah 2:124-129
+- menyeru kaumnya untuk menyembah Allah Yang Maha Esa 2:130-133; 26:69-89; 29:16; 29:24-27
+- berdebat dengan raja yang sombong 2:258
+- bertanya tentang kebangkitan 2:260
+- bukan Yahudi maupun Kristen 3:65-68
+- menolak penyembahan benda langit 6:74-87
+- menerima kabar kelahiran Ishaq 11:69-76; 51:24-30
+- doanya di Ka'bah 14:35-41
+- dikunjungi para malaikat 15:51-56
+- suri teladan 16:123
+- menyeru ayahnya kepada kebenaran 19:41-50
+- menghancurkan berhala dan diselamatkan dari api 21:51-73; 37:83-113
 - menyeru semua orang untuk berhaji 22:26
 Abrar, 3:193, 198; 76:5; 82:13; 83:18-22
 Nasakh (Penghapusan), 2:106, 16:101
@@ -26,11 +26,10 @@ Adam, 3:33, 59; 5:27; 7:26-27, 31, 35, 172; 17:70; 19:58; 36:60
 - para malaikat diperintahkan bersujud kepadanya, 2:34; 7:11
 - pohon pengetahuan, 2:35; 7:19-20; 20:120-121
 - pengusiran dari Surga (tidak ada kesalahan pada Hawa), 2:36; 7:24
-- dimuliakan Allah, digoda Iblis 2:30-38; 7:11-25; 17:61-65; 18:50; 20:115-123; 38:71-85;
+- dimuliakan Allah, digoda Iblis 2:30-38; 7:11-25; 17:61-65; 18:50; 20:115-123; 38:71-85
 - diampuni oleh Allah 2:37; 20:122
 'Adiyat, S.100
-Surga 'Adn, 9:72; 13:23; 16:31; 18:31;
-19:61; 20:76; 35:33; 38:50; 40:8; 61:12; 98:8
+Surga 'Adn, 9:72; 13:23; 16:31; 18:31;19:61; 20:76; 35:33; 38:50; 40:8; 61:12; 98:8
 Kesulitan/Musibah
 - tidak dibebani dengan beban orang lain, 6:164; 17:15; 35:18; 39:7; 53:38
 - tidak dibebani melebihi kemampuan, 2:286; 6:152; 7:42; 23:62
@@ -113,7 +112,7 @@ Kemurtadan, 3:72; 3:86-88; 3:90-91; 3:167; 4:137; 5:54; 9:74; 9:107; 16:106; 33:
 Orang-orang Murtad, 47:25
 A'raf, S.7; 7:46, 48
 Arafat, 2:198
-Berdebat,
+Berdebat
 - jangan membela mereka yang menipu diri sendiri, 4:107
 - kamu membela mereka di dunia ini, tetapi siapa yang akan membela pada Hari Kebangkitan, 4:109
 Argumen/Serangan
@@ -123,7 +122,7 @@ Baju Besi, 16:81
 'Asr, S.103
 Ayat Al-Kursi, 2:255
 Pengumpat, 49:12; 104:1
-Badr (pertempuran), 3:13,
+Badr (pertempuran), 3:13
 - pelajaran dari sana, 8:5-19, 42-48
 Al-Bait-ul-Ma'mur, 52:4
 Bakkah (Makkah), 3:96
@@ -133,7 +132,7 @@ Keseimbangan, 7:8-9; 17:35; 21:47; 55:7-9; 57:25;101:6-9
 Banu An-Nadir, 59:2-6, 13
 Baqarah, S.2
 Bara'a (Lihat Taubah), S.9
-Barzakh (Penghalang), 23:100; 25:53; 55:20;
+Barzakh (Penghalang), 23:100; 25:53; 55:20
 - lihat juga 18:94-97; 34:54; 36:9
 Baiyinah, S.98
 Binatang Buas (pada Hari-Hari Akhir), 27:82
@@ -182,7 +181,7 @@ Alkitab, 5:64, 5:65, 5:68
 - pemalsuan isi, 3:78; 5:14-15
 Burung, 2:260; 3:49; 5:110; 6:38; 12:36, 41; 16:79; 21:79; 22:31; 24:41; 27:16-17, 20; 34:10; 38:19; 56:21; 67:19; 105:3
 Diyat (Denda Darah), 2:178-179; 4:92; 17:33
-Ghanimah (Rampasan perang), 4:94. 8:41; 59:6-8;
+Ghanimah (Rampasan perang), 4:94. 8:41; 59:6-8
 - mengambil secara tidak sah, 3:162
 - lihat rampasan
 Suap, 2:188
@@ -223,7 +222,7 @@ Pakaian, 7:26; 16:81
 - pakaian luar wanita mencegah gangguan dari orang-orang munafik, 33:59-60
 Pasukan Sekutu, 33:9, 22
 - lihat Ahzab Musyawarah, 42:38
-Penciptaan,
+Penciptaan
 - dimulai dan diulang, 10:4; 21:104; 27:64; 29:19-20
 - yang baru, 17:49, 98; 35:16
 - dengan kebenaran, 15:85; 16:3; 29:44; 39:5; 44:39;45:22; 46:3
@@ -243,12 +242,12 @@ Gagak, 5:31
 Furqan (Pembeda), 2:53, 185; 3:4; 8:29, 41; 21:48; 25:1
 Dahr, (lihat Insan,) S.76; 45:24
 - waktu, 76:1; 103:1
-Dawud, 5:78; 6:84; 17:55; 34:10, 13; 38:17-30;
+Dawud, 5:78; 6:84; 17:55; 34:10, 13; 38:17-30
 - dianugerahi Zabur 4:163
 - bertempur dan membunuh Jalut, 2:251
-- menetapkan suatu keputusan 21:78-80;
-- diberkahi dengan ilmu dan kenabian 27:15-16;
-- gunung-gunung dan burung-burung ikut bertasbih bersamanya 34:10; 38:17-20;
+- menetapkan suatu keputusan 21:78-80
+- diberkahi dengan ilmu dan kenabian 27:15-16
+- gunung-gunung dan burung-burung ikut bertasbih bersamanya 34:10; 38:17-20
 - menghakimi antara dua orang 38:21-26
 Dawabb atau Dabbah (makhluk hidup yang bergerak, dsb.) 2:164; 6:38; 8:22, 55; 11:6, 56; 16:49, 61; 22:18; 24:45; 27:82; 29:60;31:10; 34:14; 35:28, 45; 42:29; 45:4
 Orang-orang mati akan dibangkitkan, 6:36
@@ -258,17 +257,17 @@ Kematian, 3:185; 3:193; 4:78; 6:61; 6:93; 21:35; 23:99-108; 31:34; 32:11; 33:19;
 - kaum-kaum yang tidak menerima wahyu tidak akan dibinasakan, 6:131; 9:115; 10:47; 11:117; 15:4; 16:119; 17:15; 28:59
 - mereka yang gugur di jalan Allah tetap hidup, 2:154; 3:169
 - saat melarikan diri dari kejahatan menuju Allah, 4:100
-- tidak dapat dihentikan atau ditunda 63:10-11;
-- saudara kembar tidur 6:60; 39:42;
-- orang beriman dan orang kafir pada saat kematian 8:50; 16:27-32; 41:30;
+- tidak dapat dihentikan atau ditunda 63:10-11
+- saudara kembar tidur 6:60; 39:42
+- orang beriman dan orang kafir pada saat kematian 8:50; 16:27-32; 41:30
 - siksa kubur 40:46
 Hutang, 2:280, 282; 4:11-12
-Ketetapan,
+Ketetapan
 - bagi setiap urusan ada ketetapannya, 13:38
 - Kami tidak pernah membinasakan suatu negeri melainkan ada ketetapan yang telah ditetapkan baginya, 15:4
 - setiap urusan adalah dari Allah, 44:5
 - apabila Dia menetapkan suatu perkara, Dia hanya berfirman,"Jadilah!" — maka jadilah, 2:117; 36:82; 40:68
-Amal Perbuatan,
+Amal Perbuatan
 - perbuatan jahat diperindah bagi mereka, 47:14
 - bagi kami amal kami, bagi kalian amal kalian, 28:55; 42:15; 45:15
 - kebaikan dan keburukan adalah untuk dan terhadap dirinya sendiri, 41:46
@@ -282,7 +281,7 @@ Dhariyat, S.51
 Dzikir, 7:205; 15:6, 9
 Dzul-Kifli, 21:85; 38:48
 Dzul-Qarnain, 18:83-98
-Dzun-Nun (Sahabat Ikan),
+Dzun-Nun (Sahabat Ikan)
 Orang-orang Kafir (lihat juga Munafik)
 - meminta Muhammad (ﷺ) agar Allah menurunkan azab kepada mereka sebagai bukti, 6:57-58; 8:32; 10:49-52
 - bersabarlah menemani mereka dengan baik, 31:15
@@ -307,7 +306,7 @@ Orang-orang parit, 85:4-10
 Keberagaman
 - pada manusia, 30:22, 35:27-28
 - dalam kehidupan, 35:27-28
-Talak, 2:228-232, 236-237, 241; 4:35, 130; 65:1-7;
+Talak, 2:228-232, 236-237, 241; 4:35, 130; 65:1-7
 - setelah masa tunggu, pisahkan atau rujuk, 2:231; 65:2
 - dua orang saksi, 65:2
 - nafkah, 2:233, 241
@@ -343,7 +342,7 @@ Talak, Pihak Istri
 - kecuali pernikahan belum terlaksana, 33:49
 Anjing, 7:176
 Keledai, 2:259; 16:8; 31:19; 62:5; 74:50
-Minuman,
+Minuman
 - beralkohol, 2:219; 5:90
 - minuman murni, putih, dan lezat, 37:45-46; 76:21
 - khamr murni tersegel, 83:25
@@ -366,13 +365,13 @@ Kejahatan, 4:123; 10:27-30; 19:83; 59:15
 - diganti dengan kebaikan, 7:95
 - mereka yang mengikuti hawa nafsu jahat mereka, 47:14, 16
 - amal perbuatan diperindah bagi mereka, 47:14
-Berlebihan,
+Berlebihan
 - dilarang dalam makanan, 5:87
 - dalam agama, 4:171; 5:77-81
 Mata, telinga, dan kulit akan bersaksi melawan para pendosa, 41:20-23
 Uzair, (Ezra) 9:30
 Wajah atau Keagungan Allah, 2:115, 272; 6:52; 13:22; 18:28; 28:88; 30:38-39; 55:27; 76:9; 92:20
-Terasa Indah,
+Terasa Indah
 - Allah menjadikan setiap perbuatan suatu kaum terasa indah bagi mereka, 6:108
 Iman (Kepercayaan), 2:108; 3:167, 177, 193; 5:5; 9:23; 16:106; 30:56; 40:10; 42:52; 49:7, 11, 14; 52:21; 58:22; 59:9-10
 - para penolak iman, 3:116
@@ -382,7 +381,7 @@ Iman (Kepercayaan), 2:108; 3:167, 177, 193; 5:5; 9:23; 16:106; 30:56; 40:10; 42:
 Fajr, S.89
 Falaq, S.113
 Percakapan palsu tentang Ayat-ayat Al-Qur'an, 6:68
-Tuhan-tuhan palsu,
+Tuhan-tuhan palsu
 - selain Allah, berhala dan sekutu-sekutu yang diadakan 7:194-198; 16:20-21, 72, 86; 21:22, 24; 34:22, 27; 41:47-48; 46:5-6; 53:19-24; 71:23-24
 - jangan menghina sesembahan mereka selain Allah, 6:108
 - lihat juga Thaghut
@@ -397,7 +396,7 @@ Fidyah (tebusan), puasa, 2:196
 - untuk membebaskan tawanan, 8:67
 - tebusan yang ditawarkan orang-orang kafir, 3:91; 5:36,37; 10:54; 13:18
 Buah Ara, 95:1
-Peperangan,
+Peperangan
 - di jalan Allah, melawan orang-orang kafir, 2:190-193, 244; 4:84, 95; 8:72, 74, 75; 9:12-16, 20, 24, 36, 123; 47:4; 61:11
 - diwajibkan, 2:216
 - di bulan-bulan haram, 2:217; 9:5
@@ -413,7 +412,7 @@ Fil, S.105
 Surga Firdaus, 18:107; 23:11
 Api, 56:71, 100:2
 Lalat, 22:73
-Makanan,
+Makanan
 - yang halal dan haram, 2:168, 172, 173; 5:1, 3-5, 88; 6:118-119, 121, 145-146; 16:114-118; 23:51
 - tidak berdosa atas apa yang telah dimakan di masa lalu, 5:93
 - jangan melampaui batas, 5:87
@@ -435,7 +434,7 @@ Ampunan, 2:109; 4:48, 110, 116; 5:74; 7:199; 39:53; 42:5, 40-43; 45:14; 53:32; 5
 - berlomba-lomba dalam menuju ampunan, 57:21
 - amal perbuatan jahat diubah menjadi kebaikan 25:68-71
 Penipuan, (lihat Mengkhianati) 83:1-6
-Kehendak bebas,
+Kehendak bebas
 - dibatasi oleh Kehendak Allah, 6:107; 10:99; 74:56;76:31; 81:28-29
 - barangsiapa berkehendak, hendaklah ia: beriman atau kafir, 18:29
 - menempuh jalan menuju Tuhannya, 76:29
@@ -469,14 +468,14 @@ Hari-hari Baik, 3:140
 - Allah membalas mereka yang berbuat baik dengan yang terbaik, 53:31
 - adakah balasan kebaikan selain kebaikan, 55:60
 - berbuat baiklah sebagaimana Allah telah berbuat baik kepadamu, 28:77
-Kebaikan dan Kejahatan,
+Kebaikan dan Kejahatan
 - kebaikan berasal dari Allah dan kejahatan berasal dari dirimu sendiri, 4:79
 - jika kamu berbuat baik, untuk dirimu sendiri dan jika kamu berbuat jahat, terhadap dirimu sendiri, 17:7;41:46
 - tolak kejahatan dengan kebaikan, 23:96; 28:54; 41:34
 - perbuatan baik dan perbuatan buruk tidak dapat disamakan, 41:34
 - setiap orang akan dihadapkan dengan semua kebaikan dan kejahatan yang telah dilakukannya, 3:30
 - lihat juga Muhsinun
-Amal Kebaikan,
+Amal Kebaikan
 - ungkapkan atau sembunyikan, 4:149
 - berlomba dalam kebaikan, 5:48
 Injil, 3:3, 48, 65; 5:46-47, 66, 68, 110;7:157; 9:111; 48:29; 57:27
@@ -493,7 +492,7 @@ Kesulitan, sesungguhnya bersama kesulitan ada kemudahan, 94:5-6
 Harun, (Aaron)
 Harut, 2:102
 Hashr, S.59
-Hati,
+Hati
 - mengeras, 2:74; 22:53; 39:22; 57:16
 - terkunci mati, 7:100-101; 40:35; 47:16; 63:3
 - tertutup, 17:46; 41:5
@@ -501,7 +500,7 @@ Hati,
 - terpecah belah, 59:14
 - dipenuhi rasa takut, 22:35
 - dalam hati mereka ada penyakit, 2:10; 5:52; 8:49; 9:125; 22:53; 24:50; 33:12, 32, 60; 47:20, 29;74:31
-Langit,
+Langit
 - kepada Allah milik semua yang tersembunyi di langit, 16:77
 - tidak diciptakan sebagai permainan, 21:16
 - langit dan bumi dahulu adalah suatu yang padu, 21:30
@@ -531,7 +530,7 @@ Neraka (api, nyala api yang menyala-nyala) 2:24, 119, 161, 166, 201; 3:10, 12, 1
 - keputusasaan yang membakar dan kegelapan beku di dalamnya, 38:57
 - rantai sepanjang tujuh puluh hasta, 69:32
 - menetap untuk jangka waktu tertentu, 78:23
-Akhirat,
+Akhirat
 - rumah di akhirat jauh lebih baik, 6:32; 7:169
 - siapakah yang akan berakhir di akhirat, 6:135
 - orang-orang zalim tidak akan berhasil di akhirat, 6:135
@@ -548,7 +547,7 @@ Hijr (Daerah Berbatu), 15:80-85
 Hijr, S.15
 Homoseksualitas 26:165-166; 27:55; 29:28-29
 Kuda, 16:8
-Hari Kiamat,
+Hari Kiamat
 - ilmu tentangnya hanya ada pada Allah, 7:187; 31:34; 33:63; 41:47; 68:26; 79:42-46
 - tiba-tiba datang kepada mereka, 6:31; 7:187;12:107; 43:66
 - datang kepada kalian, 6:40; 12:107; 20:15; 34:3
@@ -557,9 +556,9 @@ Hari Kiamat,
 - gempa bumi saat kiamat, 22:1
 - akan ditegakkan, pada Hari itu, 30:12, 14
 - pasti akan datang, tidak ada keraguan, 40:59;45:32; 51:5-6
-- tanda-tandanya 21:96; 27:82; 43:61; 47:18; 54:1-2;
-- nama-namanya 1:3; 2:4; 3:55; 19:39; 30:56; 37:21; 40:15; 41:47; 42:7; 50:20; 56:1; 64:9; 69:1; 79:34; 80:33; 88:1; 101:1-3;
-- akan datang mengejutkan manusia 6:31; 7:187;
+- tanda-tandanya 21:96; 27:82; 43:61; 47:18; 54:1-2
+- nama-namanya 1:3; 2:4; 3:55; 19:39; 30:56; 37:21; 40:15; 41:47; 42:7; 50:20; 56:1; 64:9; 69:1; 79:34; 80:33; 88:1; 101:1-3
+- akan datang mengejutkan manusia 6:31; 7:187
 - Sangkakala akan ditiup 6:73; 23:101; 39:68
 Tata cara memasuki rumah, 24:27-29
 Hud, 7:65-72; 11:50-60; 26:123-140; 46:21-26
@@ -568,7 +567,7 @@ Hujurat, S.49
 Humazah, S.104
 Hunain (pertempuran), 9:25
 Hur (wanita-wanita di Surga), 44:54; 52:20
-Orang-orang Munafik,
+Orang-orang Munafik
 - berkata: kami beriman kepada Allah dan Hari Akhir, tetapi sebenarnya tidak beriman, 2:8
 - menipu diri mereka sendiri, 2:9
 - penyakit dalam hati mereka, 2:10; 8:49; 22:53;33:12; 47:29
@@ -612,8 +611,8 @@ Ilah, hanya Satu, 2:163; 6:19; 16:22, 51; 23:91; 37:4; 38:65
 Zina; kesaksian para saksi, 4:15-18; 24:2, 19
 Illiyyun, 83:18-21
 Najis 9:28
-'Imran,
-- istri dari, 3:35;
+'Imran
+- istri dari, 3:35
 - putri dari, 66:12
 Peristiwa yang Pasti Terjadi, 69:1-3
 Infitar, S.82
@@ -632,7 +631,7 @@ Besi, 57:25
 'Isa, lihat Isa
 Ishaq, (Isaac) 2:133; 4:163; 6:84; 19:49;21:72; 29:27; 37:112-113
 Ismail (Isma'il), 2:125-129, 133; 4:163;6:86; 19:54-55; 21:85; 38:48
-- membangun pondasi Ka'bah bersama ayahnya 2:125-140;
+- membangun pondasi Ka'bah bersama ayahnya 2:125-140
 - kisah pengorbanan 37:100-113
 Islam, 3:19, 85; 5:3; 6:125; 39:22; 61:7
 - yang pertama dari mereka yang berserah diri sebagai Muslim, 6:14,163; 39:12
@@ -661,8 +660,8 @@ Ya'qub, (Jacob) 2:132-133; 4:163; 6:84;12:18; 19:49; 21:72; 29:27
 Jalut, (lihat Jalut)
 Jamarat, 2:200
 Jathiyah, S.45
-Isa, putra Maryam,
-- ibunya dipilih di atas semua wanita di dunia 3:42;
+Isa, putra Maryam
+- ibunya dipilih di atas semua wanita di dunia 3:42
 - bersaksi pada Hari Kebangkitan, 4:159
 - kabar gembira kelahirannya, 3:45-47; 19:22-23
 - Rasul bagi Bani Israil, 3:49-51
@@ -685,9 +684,9 @@ Isa, putra Maryam,
 - pandangan yang berbeda-beda tentangnya, 43:65
 - tidak lebih dari seorang hamba dan teladan bagi Bani Israil, 43:59
 - kabar gembira tentang seorang Rasul yang namanya Ahmad, 61:6
-- kelahirannya dari seorang perawan, pesan, dan mukjizat-mukjizatnya 3:45-51; 19:16-38;
-- diingatkan tentang nikmat-nikmat Allah 5:110-115;
-- menolak anggapan ketuhanan 5:116-120;
+- kelahirannya dari seorang perawan, pesan, dan mukjizat-mukjizatnya 3:45-51; 19:16-38
+- diingatkan tentang nikmat-nikmat Allah 5:110-115
+- menolak anggapan ketuhanan 5:116-120
 - kasih sayang dan rahmat dalam hati pengikut-pengikutnya 5:82; 57:27
 Yahudi dan Kristen, 2:140; 4:153-161, 171; 5:18
 - mendengarkan kebohongan, 5:41-42
@@ -697,41 +696,41 @@ Yahudi dan Kristen, 2:140; 4:153-161, 171; 5:18
 Jibril, (lihat Jibril)
 Jihad, (Peperangan, Perjuangan) 2:216; 9:24; 22:78; 25:52
 Jinn, S.72
-Jin, 6:100, 112; 15:27; 34:41; 38:37; 46:18,29; 55:33, 39;
-Jin, diciptakan dari api 15:25; 55:15;
-- jin yang beriman dan yang kafir 72:1-15;
+Jin, 6:100, 112; 15:27; 34:41; 38:37; 46:18,29; 55:33, 39
+Jin, diciptakan dari api 15:25; 55:15
+- jin yang beriman dan yang kafir 72:1-15
 - sebagian beriman kepada pesan Al-Qur'an 46:29-32
 - manusia dan jin diciptakan untuk suatu tujuan 51:56-58
 Ayyub, 4:163; 6:84; 21:83-84; 38:41-44
-Yahya, (Yohanes Pembaptis),
+Yahya, (Yohanes Pembaptis)
 - kabar gembira tentangnya, 3:38-41; 19:7-11; 21:90
 - saleh, 6:85
 - bijaksana, penuh kasih sayang, berbakti, 19:12-15
-Yunus (Jonas atau Yunus), 4:163; 6:86; 10:98;21:87; 37:139-148;
+Yunus (Jonas atau Yunus), 4:163; 6:86; 10:98;21:87; 37:139-148
 - (Dzun-Nun) 21:87; 68:48-50
 Yusuf (Joseph), 6:84; 12:4-101
-- sebaik-baik kisah 12:1-3;
-- mimpi Yusuf muda 12:4-6;
-- persekongkolan saudara-saudaranya 12:7-18;
-- dijual sebagai budak 12:19-20;
+- sebaik-baik kisah 12:1-3
+- mimpi Yusuf muda 12:4-6
+- persekongkolan saudara-saudaranya 12:7-18
+- dijual sebagai budak 12:19-20
 - dibesarkan di rumah Menteri Besar Mesir 12:21-22
-- istri Menteri Besar berusaha merayunya 12:23-29;
-- peristiwa jamuan makan 12:30-32;
-- masuk penjara 12:33-35;
-- dua orang penghuni penjara 12:36-42;
-- mimpi Raja 12:43-53;
-- menjadi Menteri Besar 12:54-57;
-- saudara-saudaranya datang meminta perbekalan 12:58-68;
-- membawa saudara kandungnya Bunyamin 12:69-82;
-- kesedihan ayahnya yang terbarukan 12:83-87;
-- mengungkapkan jati dirinya 12:88-98;
-- mimpi lama menjadi kenyataan 12:99-100;
+- istri Menteri Besar berusaha merayunya 12:23-29
+- peristiwa jamuan makan 12:30-32
+- masuk penjara 12:33-35
+- dua orang penghuni penjara 12:36-42
+- mimpi Raja 12:43-53
+- menjadi Menteri Besar 12:54-57
+- saudara-saudaranya datang meminta perbekalan 12:58-68
+- membawa saudara kandungnya Bunyamin 12:69-82
+- kesedihan ayahnya yang terbarukan 12:83-87
+- mengungkapkan jati dirinya 12:88-98
+- mimpi lama menjadi kenyataan 12:99-100
 - doa penutup 12:101
 Bukit Judi, 11:44
 Jumu'ah, S.62
 Keadilan (Adl), 2:282; 4:58, 135; 7:29; 16:90; 57:25
 - lihat juga 4:65, 105
-Ka'bah,
+Ka'bah
 - dibangun oleh Ibrahim, 2:125-127
 - dilarang memburu binatang, 5:94-96
 - tempat perlindungan yang aman, 5:97
@@ -743,17 +742,17 @@ Kahf, S.18
 Kanz, 9:34-35
 Kauthar (sungai di Surga), 108:1
 Kauthar, S.108
-Kunci,
+Kunci
 - langit dan bumi, 39:63; 42:12
 - Ghaib, 6:59
 Khaulah binti Tsa'labah, 58:1
-Pembunuhan,
+Pembunuhan
 - barangsiapa membunuh seorang manusia, maka seolah-olah ia membunuh seluruh umat manusia, 5:32
 - jangan membunuh siapapun, 17:33
 Kata-kata yang baik lebih baik dari sedekah, 2:263
 Hak-hak kerabat, 2:83, 177, 215; 4:7-9, 36;8:41; 16:90; 17:26; 24:22; 29:8; 30:38; 42:23
 Kiraman-Katibin, 82:11
-Ilmu,
+Ilmu
 - tidak sehelai daun pun yang gugur, melainkan Dia mengetahuinya, 6:59
 - merugilah mereka yang membunuh anak-anak mereka karena kebodohan, tanpa ilmu, 6:140
 - lima hal, hanya ada pada Allah semata, 31:34
@@ -763,14 +762,14 @@ Kursi, 2:255
 Lahab (Lihat Masad), S.111
 Lail, S.92
 Lampu, 25:61; 67:5; 71:16; 78:13
-Bahasa-bahasa,
+Bahasa-bahasa
 - perbedaan bahasa dan warna kulit manusia, 30:22
 Latta, 53:19
 Hukum yang ditetapkan, 5:48
 Hukum-hukum dari Allah, 2:219; 98:3
 Para pendusta, 26:221-223
 Kehidupan, barangsiapa menyelamatkan seorang manusia, maka seolah-olah ia menyelamatkan seluruh umat manusia, 5:32
-Kehidupan dunia,
+Kehidupan dunia
 - membeli kehidupan dunia dengan mengorbankan akhirat, 2:86
 - hanyalah kesenangan yang memperdaya, 3:185
 - jual kehidupan dunia demi akhirat, 4:74
@@ -782,7 +781,7 @@ Kehidupan dunia,
 - barangsiapa menginginkan dunia, mendapatkannya di sini; namun tidak akan mendapat bagian di akhirat, 11:15-16; 17:18; 42:20
 - mereka yang mencintai kehidupan saat ini dan mengabaikan akhirat, 75:20-21; 76:27
 - kamu lebih mengutamakan kehidupan dunia, 87:16
-Cahaya,
+Cahaya
 - yang nyata, 4:174
 - dan kegelapan, 6:1
 - perumpamaan cahaya, 24:35
@@ -797,7 +796,7 @@ Batasan-batasan yang ditetapkan Allah, 2:173, 187, 190, 230;9:112; 58:4; 65:1; 7
 - ketika mereka melampaui batas (dijadikan kera), 7:166
 - mereka yang menjaga batasan-batasannya, 9:112
 Singa, 74:51
-Pinjaman,
+Pinjaman
 - pinjamkan kepada Allah pinjaman yang baik, 2:245; 73:20
 - dilipatgandakan berkali-kali, 57:11, 18
 - digandakan, 64:17
@@ -815,7 +814,7 @@ Mahar, 2:229, 236-237; 4:4,19-21, 24-25; 5:5; 33:50; 60:10-11
 Ma'idah, S.5
 Makkah (Bakkah), 3:96;90:1-2
 - Kota yang Aman, 95:3
-Manusia,
+Manusia
 - generasi demi generasi di bumi, 2:30;6:165
 - dijadikan khalifah, 35:39
 - kewajiban, 2:83-84, 88, 177; 4:1-36; 8:41; 16:90;17:23-39; 24:22; 29:8-9; 30:38;33:33;42:23; 64:14; 70:22-35
@@ -880,7 +879,7 @@ Manusia,
 - melampaui segala batas, 96:6-7
 Manasik (kewajiban) Haji, 2:128, 200; 22:30
 Manat, 53:20
-Umat Manusia,
+Umat Manusia
 - saksi atas umat manusia, 2:143
 - satu umat, 2:213; 10:19
 - diciptakan dari satu pasang, 4:1; 39:6; 49:13
@@ -890,7 +889,7 @@ Umat Manusia,
 - yang paling mulia di antara manusia, 49:13
 - dijadikan berbangsa-bangsa dan bersuku-suku, 49:13
 Manna dan burung puyuh, 2:57
-Adab,
+Adab
 - tentang cara memasuki rumah, 24:27-29
 - di dalam rumah, 24:58-61
 - di rumah-rumah Nabi, 33:53
@@ -913,7 +912,7 @@ Pernikahan, 2:232, 234
 - mereka yang tidak memiliki kemampuan finansial untuk menikah, 24:33
 - istri-istri yang dihalalkan bagi Nabi, 33:50-52
 - sebelum berhubungan badan, tidak ada iddah saat diceraikan, 33:49
-Para Syuhada,
+Para Syuhada
 - tidak mati, 2:154; 3:169
 - bersuka cita dalam karunia dan anugerah dari Allah, 3:170-171
 - mendapat ampunan dan rahmat, 3:157-158
@@ -933,7 +932,7 @@ Masad, S.111
 Maun, S.107
 Surga Ma'wa, 53:15
 Takaran dan timbangan, penuhkan, 11:85; 17:35;83:1-5
-Pertemuan,
+Pertemuan
 - dengan Allah, 6:31
 - Hari yang Agung, 19:37
 - di Akhirat, 30:16
@@ -963,7 +962,7 @@ Mi'raj, 17:1; 53:12
 Bulan-bulan, jumlahnya, 9:36-37
 Bulan, 7:54; 10:5; 16:12; 22:18; 25:61; 36:39-40; 71:16; 91:2
 - terbelahnya bulan; 54:1
-Musa,
+Musa
 - dan kaumnya, 2:51-61; 7:138-141,159-162; 14:5-8; 61:5
 - dan Fir'aun, 2:49-50; 17:101-103; 20:17-53, 56-79;23:45-49; 25:31-42; 40:23-46; 43:46-56; 51:38-40; 73:16;79:15-26
 - dibimbing oleh Allah, 6:84
@@ -973,23 +972,23 @@ Musa,
 - diberikan Kitab Suci, 17:2
 - sembilan tanda yang nyata, 7:133; 17:101
 - ke pertemuan dua lautan, 18:60-82
-- pertemuan menentukan di semak api yang menyala 20:9-36; 27:7-14; 28:29-35;
+- pertemuan menentukan di semak api yang menyala 20:9-36; 27:7-14; 28:29-35
 - dipanggil dan diberi kerasulan, 19:51-53;20:9-56
 - masa kecilnya, ibu dan saudara perempuannya, 20:38-40;28:7-13
 - para ahli sihir bertobat, 20:70-73; 26:46-52
 - di Madyan, 20:40; 28:22-28
 - dianugerahi Furqan, 21:48
 - dan api misterius, 27:7-12; 28:29-35
-- membunuh seorang Mesir secara tidak sengaja di kota 28:14-21;
+- membunuh seorang Mesir secara tidak sengaja di kota 28:14-21
 - datang dengan Ayat-ayat yang jelas, 29:39
-- kisah dengan Fir'aun 7:103-137; 10:75-92; 11:96-99; 26:10-69;
-- sembilan tanda bagi Fir'aun dan kaumnya 7:130-133; 20:17-22; 17:101;
-- mengalahkan para ahli sihir Fir'aun 20:70-73; 26:46-52;
-- melarikan diri ke Madyan dan menikah 28:22-28;
-- menerima Lembaran-lembaran Kitab 7:142-154,
-- memohon untuk melihat Allah di Gunung 7:142-145;
-- dimuliakan oleh Allah 33:69;
-- nikmat-nikmat Allah kepada Bani Israil 2:47-61;
+- kisah dengan Fir'aun 7:103-137; 10:75-92; 11:96-99; 26:10-69
+- sembilan tanda bagi Fir'aun dan kaumnya 7:130-133; 20:17-22; 17:101
+- mengalahkan para ahli sihir Fir'aun 20:70-73; 26:46-52
+- melarikan diri ke Madyan dan menikah 28:22-28
+- menerima Lembaran-lembaran Kitab 7:142-154
+- memohon untuk melihat Allah di Gunung 7:142-145
+- dimuliakan oleh Allah 33:69
+- nikmat-nikmat Allah kepada Bani Israil 2:47-61
 - Bani Israil menolak memasuki Yerusalem 5:20-29
 - dibimbing ke Jalan yang Lurus, 37:114-122
 - Kitab Suci Musa, 53:36; 87:19
@@ -1077,7 +1076,7 @@ Mumtahanah, S.60
 Munafiqun, S.63
 Pembunuhan, 2:178-179
 Mursalat, S.77
-Kaum Muslimin,
+Kaum Muslimin
 - yang pertama dari kaum Muslimin, 6:14, 163; 9:100; 39:12
 - siapa yang menamakan mereka, 22:78
 - ampunan dan pahala yang besar bagi mereka yang, 33:35-36
@@ -1089,7 +1088,7 @@ Nahl, S.16
 Najas (najis) 9:28
 Najm, S.53
 Najwa (Lihat Rahasia)
-Nama-nama,
+Nama-nama
 - milik-Nya Asmaul Husna (Nama-nama yang Terindah), 7:180
 - milik-Nya Nama-nama yang Terbaik, 17:110; 20:8; 59:24
 Keadaan darurat, jika seseorang terpaksa, 2:173; 6:145
@@ -1102,10 +1101,10 @@ Malam, (sebagai simbol), untuk beristirahat, 10:67
 - untuk memberikan manfaat, 14:32
 - Malam Al-Qadar (Kemuliaan), 44:3-4; 97:1-5
 Nisa', S.4
-Nuh, 3:33; 4:163; 6:84; 9:70; 10:71;11:25, 32, 36, 42, 45-46, 48, 89; 17:3; 21:76; 25:37; 26:105; 29:14; 37:75; 51:46;54:9; 69:11;
-- diolok-olok 11:38;
+Nuh, 3:33; 4:163; 6:84; 9:70; 10:71;11:25, 32, 36, 42, 45-46, 48, 89; 17:3; 21:76; 25:37; 26:105; 29:14; 37:75; 51:46;54:9; 69:11
+- diolok-olok 11:38
 - banjir besar, 29:14
-- Bahtera dan Banjir 7:59-69, 11:25-48; 23:23-31; 26:105-122; 71:1-28;
+- Bahtera dan Banjir 7:59-69, 11:25-48; 23:23-31; 26:105-122; 71:1-28
 - putranya yang durhaka tidak diselamatkan, 11:42-48
 - istrinya yang durhaka, 14:9; 17:3, 17;19:58;21:76; 22:42; 26:105-106, 116; 33:7; 37:75,79; 38:12; 42:13; 40:5, 31; 42:13;50:12;53:52; 57:26; 66:10; 71:1, 21, 26
 Nuh, S.71
@@ -1139,7 +1138,7 @@ Perumpamaan-perumpamaan, (persamaan, contoh, misal)
 - hujan, 10:24
 - tanaman yang dipotong bersih, 10:24
 - buta dan tuli, 11:24
-- Allah vs. tuhan-tuhan palsu 13:14; 16:76;
+- Allah vs. tuhan-tuhan palsu 13:14; 16:76
 - kebenaran vs. kebatilan 13:17
 - abu yang diterbangkan angin kencang, 14:18
 - pohon yang baik, 14:24-25
@@ -1167,7 +1166,7 @@ Perumpamaan-perumpamaan, (persamaan, contoh, misal)
 - keledai, 62:5
 - jika air meresap ke dalam bumi, 67:30
 - orang-orang yang memiliki kebun, 68:17-33
-Surga,
+Surga
 - Surga Ma'wa, 53:15
 - Surga Firdaus, 18:107; 23:11
 - Taman-taman yang di bawahnya mengalir sungai-sungai, 3:15, 198;4:57; 5:119; 7:43; 9:72; 18:31; 22:23; 39:20;57:12; 64:9; 98:8
@@ -1190,7 +1189,7 @@ Surga,
 - sungai di Surga, Kauthar, 108:1
 - sungai-sungai khamr, susu, madu murni, 47:15
 - khamr murni tersegel, putih, lezat, 37:45-46; 56:18; 76:21; 83:25
-- minuman yang dicampur dengan Zanjabil, 76:17; 78:34;
+- minuman yang dicampur dengan Zanjabil, 76:17; 78:34
 - air, 76:5
 - nampan-nampan emas dan piala-piala, 43:71
 - bejana-bejana perak dan piala-piala kristal, 76:15-16
@@ -1237,21 +1236,21 @@ Surga,
 - istri-istri dalam naungan yang menyenangkan, bersandar di atas singgasana, 36:55
 - gadis-gadis remaja yang montok dan sebaya, 78:33
 - pelayan-pelayan muda yang abadi untuk melayani mereka, seperti mutiara yang berserakan, 52:24; 56:17; 76:19
-- seluas langit dan bumi 3:133, 57:21;
-- air yang mengalir, naungan yang sejuk, makanan lezat, dan pasangan yang suci 2:25; 4:57; 36:55-58; 37:40-49; 38:50-54; 44:51-57; 52:17-24; 69:19-24; 76:5-22;
-- pahala bagi orang-orang beriman 55:46-78; 56:10-40;
-- sungai-sungai madu, susu, air, dan khamr 47:15;
-- doa-doa dan salam penghormatan 10:9-10; 39:73-74;
-- disambut dengan salam kedamaian 13:23-24; 14:32;
-- tinggal abadi dalam kebahagiaan 11:108;
-- tidak pernah diminta meninggalkannya 15:45-48;
-- cahaya bersinar di depan dan di sebelah kanan mereka 57:12;
-- tidak ada panas maupun dingin 76:13;
-- semua keinginan dikabulkan 16:30-32; 41:31-32;
-- gelang-gelang emas dan pakaian dari sutera halus 18:30-31; 22:23-24; 44:51-53;
-- nampan-nampan piala emas 43:67-73;
-- bejana-bejana perak dan buah-buahan yang mudah dijangkau 76:14-16;
-- bersandar di atas singgasana 15:47; 37:44; 52:20;
+- seluas langit dan bumi 3:133, 57:21
+- air yang mengalir, naungan yang sejuk, makanan lezat, dan pasangan yang suci 2:25; 4:57; 36:55-58; 37:40-49; 38:50-54; 44:51-57; 52:17-24; 69:19-24; 76:5-22
+- pahala bagi orang-orang beriman 55:46-78; 56:10-40
+- sungai-sungai madu, susu, air, dan khamr 47:15
+- doa-doa dan salam penghormatan 10:9-10; 39:73-74
+- disambut dengan salam kedamaian 13:23-24; 14:32
+- tinggal abadi dalam kebahagiaan 11:108
+- tidak pernah diminta meninggalkannya 15:45-48
+- cahaya bersinar di depan dan di sebelah kanan mereka 57:12
+- tidak ada panas maupun dingin 76:13
+- semua keinginan dikabulkan 16:30-32; 41:31-32
+- gelang-gelang emas dan pakaian dari sutera halus 18:30-31; 22:23-24; 44:51-53
+- nampan-nampan piala emas 43:67-73
+- bejana-bejana perak dan buah-buahan yang mudah dijangkau 76:14-16
+- bersandar di atas singgasana 15:47; 37:44; 52:20
 - orang-orang beriman akan melihat Tuhan mereka 75:22-23
 Orang tua, berbuat baik kepada mereka, 2:83, 215; 4:36; 16:90;17:23; 29:8; 31:14; 46:15-17
 Sekutu-sekutu Allah, suatu kebatilan, 4:116;10:34-35, 66; 16:86; 28:62-64, 71-75; 30:40;42:21
@@ -1260,7 +1259,7 @@ Jalan, 5:77; 16:94; 42:52-53; 43:43; 90:11-12
 - lihat juga Cara
 Kesabaran, 3:186, 200; 10:109; 11:115; 16:126-127; 20:130; 40:55, 77; 42:43; 46:35; 70:5;73:10
 - mohon pertolongan dengan sabar dan shalat, 2:45, 153; 20:132;50:39
-Orang yang Sabar,
+Orang yang Sabar
 - akan menerima pahala yang penuh, 39:10
 - Allah bersama mereka yang sabar, 8:46
 - dan bersabarlah, 11:115
@@ -1269,7 +1268,7 @@ Orang yang Sabar,
 Damai, condongkanlah kepada perdamaian, 8:61
 Mutiara dan koral yang terpelihara, 52:24; 55:22; 56:23
 Pena, 68:1; 96:4
-Seseorang,
+Seseorang
 - Allah tidak membebani seseorang melebihi kemampuannya, 2:286; 7:42
 - Allah tidak membebankan kepada seseorang melainkan sesuai dengan kesanggupannya, 23:62
 - tidak seorang pun yang mengetahui apa yang akan diusahakannya esok hari dan di bumi mana ia akan mati, 31:34
@@ -1290,7 +1289,7 @@ Fir'aun, 28:6; 40:24
 - pembangunan menara, 40:36-37
 - lihat juga Musa
 Penimbunan harta benda duniawi, 102:1-4
-Janji Setia (Bai'ah),
+Janji Setia (Bai'ah)
 - untuk Islam, 16:91
 - kepada Rasul adalah Bai'ah kepada Allah, 48:10
 - orang-orang Beriman, 48:18; 60:12
@@ -1326,17 +1325,17 @@ Para Nabi, 3:33-34, 146; 4:163; 5:20; 6:84-90;23:23-50; 57:26
 - diharamkan bagi para nabi, 3:161
 - musuh bagi setiap nabi, 6:112; 25:31
 - lihat juga Para Rasul
-Sujud,
+Sujud
 - kepada Allah sujudlah siapa pun yang ada di langit dan di bumi beserta bayangan-bayangan mereka, 13:15
 Rezeki, 10:59; 13:26; 14:32; 16:73; 34:36,39; 42:12; 51:57; 67:21; 79:33
 Zabur, 4:163
-Hukuman,
+Hukuman
 - penundaan hukuman, 3:178
 - pemotongan tangan atau kaki, 5:33
 - hukumlah mereka setimpal dengan apa yang kamu dihukum, 16:126
 - di dunia ini dan di akhirat, 24:19; 68:33
-Bersuci,
-- secara jasmani, 4:43; 5:6;
+Bersuci
+- secara jasmani, 4:43; 5:6
 - secara rohani (dari kotoran), 87:14; 91:9
 Qadar, 5:5; 64:11
 Qadr, S.97
@@ -1348,7 +1347,7 @@ Qarun (Korah), 28:76-82; 29:39
 Qasas, S.28
 Kiblat, 2:142-145, 149
 Qisas (Hukum persamaan dalam hukuman), 2:178-179, 194; 5:45; 16:126; 17:33; 22:60;42:40
-Al-Qur'an,
+Al-Qur'an
 - deskripsinya, 13:31, 36, 37; 14:1; 56:77-80
 - tidak mungkin dikarang oleh selain Allah, 2:23; 10:38; 11:13; 17:88
 - seandainya bukan dari Allah, niscaya ada banyak pertentangan di dalamnya, 4:82
@@ -1398,7 +1397,7 @@ Al-Qur'an,
 - membacakan lembaran-lembaran yang suci, 98:2
 - lihat juga Kitab; Wahyu
 Quraish, S.106
-Quraish,
+Quraish
 - orang-orang kafir Quraisy, 54:43-46, 51
 - penjinakan mereka, 106:1-4
 Para Rabi dan Pendeta, 9:31, 34
@@ -1406,26 +1405,26 @@ Berlomba, bersungguh-sungguhlah dalam berbuat kebaikan, 5:48
 Ra'd, S.13
 Rahman, S.55
 Pakaian ketakwaan adalah yang terbaik, 7:26
-Hujan,
+Hujan
 - anugerah Allah, 56:68-70
 - hujan batu, 27:58
 Ramadhan, 2:185
 Ramy, 2:200
-Tebusan,
+Tebusan
 - tidak akan diterima tebusan apapun, 57:15
 - yang ditawarkan orang-orang kafir, 3:91; 10:54; 13:18
-Fidyah, puasa, 2:196;
+Fidyah, puasa, 2:196
 - untuk membebaskan tawanan, 8:67
 Penduduk Rass, 25:38; 50:12
-Pembalasan,
+Pembalasan
 - Hari Pembalasan, 1:4; 37:20; 51:12; 56:56; 82:17-18; 96:7
 - para pengingkar pembalasan, 107:1-7
 - balasan suatu keburukan adalah keburukan yang setimpal, 42:40
-Rekonsiliasi,
+Rekonsiliasi
 - barangsiapa memaafkan dan melakukan rekonsiliasi, 42:40
 - antara suami dan istri, 4:35
 - antara orang-orang beriman, 49:9-10
-Catatan Amal,
+Catatan Amal
 - sebuah Daftar yang tertulis, 83:7-9, 18-21
 - setiap umat akan dipanggil menghadap catatannya, 45:28-29
 - lembaran-lembaran tertulis berisi amal perbuatan setiap orang, 81:10
@@ -1435,7 +1434,7 @@ Catatan Amal,
 - di belakang punggung, 84:10-15
 Para malaikat pencatat, 50:17-18, 23; 85:11
 Kemudahan, bersama kesulitan ada kemudahan, 94:5-6
-Agama,
+Agama
 - tidak ada paksaan dalam agama, 2:256
 - adalah Islam, 3:19
 - agama Allah, 3:83-84
@@ -1452,7 +1451,7 @@ Agama,
 - agama leluhur, 43:22-24
 Mengingat Allah, 63:9
 - dalam mengingat Allah, hati menjadi tenang, 13:28
-Taubat,
+Taubat
 - diterima jika kejahatan dilakukan karena ketidaktahuan dan segera bertaubat sesudahnya, 4:17; 6:54
 - tidak ada gunanya taubat jika perbuatan jahat terus dilanjutkan, 4:18
 - Dia menerima taubat dan mengampuni dosa, 4:25
@@ -1460,7 +1459,7 @@ Tangguh bagi kejahatan, 3:178; 10:11; 12:110; 14:42,44; 29:53-55; 86:15-17
 Kebangkitan, 2:28, 7:53; 14:21; 16:38-40; 22:5-7; 23:15-16; 31:28, 41:39, 46:33-34; 50:3,20-29, 41-44; 64:7, 75:1-15; 79:10-12; 86:5-8
 - contoh dalam kisah Uzair 2:259
 - Ibrahim 2:260
-- penghuni gua 18:9-26;
+- penghuni gua 18:9-26
 - peringatan bagi para pengingkar kebangkitan 17:49-52, 17:97-100, 19:66-72, 37:11-27, 50:1-15, 80:17-42
 Hari Kebangkitan, 7:89; 20:100-101, 124
 - Hari yang Sejati, 78:39
@@ -1551,7 +1550,7 @@ Hari Kebangkitan, 7:89; 20:100-101, 124
 - Neraka akan didekatkan, 89:23
 - api Neraka akan dinyalakan dengan berkobar-kobar, 81:11-12
 - Pembalasan melalui sedekah akan menjadi penebus dosa, 5:45
-Wahyu,
+Wahyu
 - jika kamu dalam keraguan, 2:23-24
 - Ayat yang dinasakh atau dilupakan, 2:106
 - petunjuk yang benar, 3:73
@@ -1563,13 +1562,13 @@ Wahyu,
 - turunnya Kitab dari Allah, 46:2
 - lihat juga Kitab dan Al-Qur'an
 Pembalasan atas kezaliman yang dilakukan terhadap mereka, 42:39-43
-Pahala,
+Pahala
 - sesuai dengan amal perbuatan yang terbaik, bahkan lebih, 24:38; 29:7; 39:35
 - sebagai pahala 25:15
 - Allah membalas mereka yang berbuat baik dengan yang terbaik, 53:31
 - atas kebaikan, tidak ada balasan lain selain kebaikan, 55:60
 Riba (lihat riba)
-Orang-orang yang Saleh,
+Orang-orang yang Saleh
 - bergaul dengan orang-orang saleh, 4:69
 - akan mewarisi bumi, 21:105
 - di Surga, 51:15-19; 76:5-12
@@ -1588,7 +1587,7 @@ Ruh (jiwa, roh), 15:29; 17:85; 58:22
 Rum, S.30
 Saba' (Sheba), 27:22-44; 34:15-21
 Saba', S.34
-Hari Sabat,
+Hari Sabat
 - para pelanggarnya, 2:65; 4:154; 7:163-166
 - hanya ditetapkan untuk, 16:124
 Kaum Sabi'in, 5:69; 22:17
@@ -1614,23 +1613,23 @@ Setan, 2:36, 168, 208, 268, 275; 3:36, 155, 175;4:38, 60, 76, 83, 119-120; 5:80,
 - tidak memiliki kekuasaan atas orang-orang beriman, 16:99-100
 - melemparkan kebatilan, 22:52-53
 - adalah musuh, 12:5; 35:6; 36:60
-- kesombongannya 2:34; 7:11-27; 15:26-43; 17:61-65; 38:73-85;
-- seorang jin 18:50-51;
-- godaan dan kejatuhan Adam 7:20-23; 20:116-121;
-- tidak memiliki kekuasaan atas orang-orang beriman 16:98-100;
-- tujuannya 35:6-8;
-- musuh yang nyata bagi umat manusia 12:5; 17:53;
-- golongannya 53:14-19;
-- perbuatannya 5:90-91;
-- menghalangi amal kebaikan 2:268;
-- orang-orang beriman berlindung kepada Allah dari Setan 7:200-202;
-- tipu dayanya lemah 4:76;
-- menelantarkan para pengikutnya 8:48;
+- kesombongannya 2:34; 7:11-27; 15:26-43; 17:61-65; 38:73-85
+- seorang jin 18:50-51
+- godaan dan kejatuhan Adam 7:20-23; 20:116-121
+- tidak memiliki kekuasaan atas orang-orang beriman 16:98-100
+- tujuannya 35:6-8
+- musuh yang nyata bagi umat manusia 12:5; 17:53
+- golongannya 53:14-19
+- perbuatannya 5:90-91
+- menghalangi amal kebaikan 2:268
+- orang-orang beriman berlindung kepada Allah dari Setan 7:200-202
+- tipu dayanya lemah 4:76
+- menelantarkan para pengikutnya 8:48
 - berbicara kepada para pengikutnya di Neraka 14:22
 - lihat juga Iblis
 Timbangan, berhasillah mereka yang berat timbangannya, 7:8-9
 - lihat juga Keseimbangan
-Kitab Suci,
+Kitab Suci
 - Ahli Kitab, (Yahudi dan Kristen), 2:109;3:64-65, 69-72, 75, 98-99, 110, 113,199; 4:47, 153-161; 5:59-60, 68; 98:1
 - apa yang mereka sembunyikan, 5:61-63
 - di antara mereka ada yang berada di jalan yang benar, 5:66
@@ -1638,7 +1637,7 @@ Kitab Suci,
 Lautan, 42:32-33; 45:12
 - dua lautan, 18:60; 25:53; 35:12; 55:19-20
 - ketika lautan meluap, 82:3
-Rahasia (Najwa),
+Rahasia (Najwa)
 - pembicaraan tersembunyi, 4:114
 - musyawarah tiga orang, 58:7
 - musyawarah rahasia, 58:8, 10
@@ -1647,10 +1646,10 @@ Golongan-golongan dan perpecahan dalam agama, 6:15; 23:53;30:32; 42:13-14; 43:65
 Keamanan, setelah kesusahan, Dia menurunkan ketenangan, 3:154
 Biji-bijian, siapakah yang menumbuhkannya, 56:63-67
 Indera, 23:78
-Tujuh, diciptakan,
+Tujuh, diciptakan
 - langit, 2:29; 23:17; 65:12; 67:3; 71:15
 - dan bumi seperti itu pula, 65:12
-Bayangan,
+Bayangan
 - kepada Allah bersujud, 13:15; 16:48
 - panjangnya bayangan, 25:45
 Shams, S.91
@@ -1682,12 +1681,12 @@ Budak-budak, 2:177-178; 4:25, 36, 92; 5:89; 24:33; 58:3; 90:13
 Tidur, sebagai istirahat, 78:9
 Sodom, 29:31; 37:136
 Sodomi, 7:80-82; 11:77-83; 15:61-77; 29:28-29
-Sulaiman, 2:102; 4:163; 6:84;
-- membantu ayahnya Dawud mencapai keputusan yang lebih adil 21:78-82;
+Sulaiman, 2:102; 4:163; 6:84
+- membantu ayahnya Dawud mencapai keputusan yang lebih adil 21:78-82
 - dan semut-semut, 27:15-19
 - dan burung Hudhud, 27:20-26
 - dan Ratu Saba', 27:22-44; 34:15
-- nikmat-nikmat Allah atasnya 34:12-14, 38:34-40;
+- nikmat-nikmat Allah atasnya 34:12-14, 38:34-40
 - kecintaannya pada kuda-kuda yang gagah 38:30-33
 Putra angkat, 33:4-5
 Jiwa (roh, Ruh), 15:29; 17:85; 58:22
@@ -1707,8 +1706,8 @@ Rampasan perang, 8:41, 69; 48:15, 19-20; 48:15
 Memata-matai, 49:12
 Bintang, 53:1, 49; 86:1-4
 Bintang-bintang, 7:54; 15:16; 16:12, 16; 22:18; 25:61;37:6-10; 56:75; 77:8; 81:2; 82:2
-Jalan, yang Lurus, 1:6,
-- dsb. Jalan, 6:153,
+Jalan, yang Lurus, 1:6
+- dsb. Jalan, 6:153
 - dsb. Berjuang, 4:95; 8:72, 74, 75; 9:20, 24, 81; 22:78; 25:52; 29:69; 47:3; 60:1; 61:11
 Penyusuan, masa penyusuan, ibu susu, 2:233
 Penderitaan, kemiskinan, kehilangan kesehatan dan musibah; kemakmuran dan kekayaan, 7:94-96
@@ -1778,7 +1777,7 @@ Riba, 2:275-276, 278-280; 3:130;4:161; 30:39
 Tirai, yang tidak kelihatan, 17:45-46
 Cadar, 24:31; 33:59
 Ayat-ayat, Sab' Al-Matsani, 15:87
-Kemenangan,
+Kemenangan
 - diberikan oleh Allah, 48:1
 - melalui pertolongan dari Allah, 61:13
 Keutamaan-keutamaan, (lihat Kesalehan; Orang-orang Beriman)
@@ -1795,7 +1794,7 @@ Jalan, 1:6; 42:52-53; 90:10
 - dsb. yang mudah, permudahlah, 87:8
 - lihat juga Jalan
 Musafir/Ibnu Sabil, 2:177, 215; 8:41; 17:26; 29:29;30:38; 59:7
-Harta,
+Harta
 - mereka yang menimbun harta, 104:2-4
 - menginfakkan di Jalan Allah (lihat Infak)
 Harta dan anak-anak, perhiasan kehidupan dunia, 18:46
@@ -1813,7 +1812,7 @@ Khamr (di Surga)
 - sungai-sungai khamr, 47:15
 - khamr murni tersegel, 83:25
 Janganlah menginginkan apa yang telah Allah lebihkan kepada sebagian orang atas yang lain, 4:32
-Para Saksi,
+Para Saksi
 - untuk perjanjian para Nabi, 3:81
 - atas umat manusia, 2:143; 22:78
 - untuk suatu akad, 2:282
@@ -1823,7 +1822,7 @@ Para Saksi,
 - tangan dan kaki akan bersaksi, 36:65
 - seseorang bersaksi melawan dirinya sendiri, 75:14
 Hari yang Menyaksikan dan Hari yang Disaksikan, 85:3
-Istri-istri,
+Istri-istri
 - adalah ladang bagimu, 2:223
 - penutup bagimu, 2:187
 - dari jenismu sendiri, 16:72
@@ -1835,7 +1834,7 @@ Wanita, 2:222-223; 4:15, 19-22, 34, 127
 - yang tidak menjelaskan dirinya dalam perselisihan, 43:17-18
 Kayu, penduduk hutan, 15:78; 38:13; 50:14
 - lihat juga Aikah; Madyan 26:176-191
-Kehidupan dunia,
+Kehidupan dunia
 - tidak lain hanyalah permainan dan hiburan, 6:32;29:64; 47:36; 57:20
 - menipu manusia, 6:130
 - sedikit kenikmatan dunia dibanding akhirat, 9:38; 13:26; 28:60-61
@@ -1847,7 +1846,7 @@ Orang-orang yang zalim, 11:18-22, 101-104, 116-117;39:47
 - lihat juga Orang-orang Kafir
 Wudhu' (Ablusi), 4:43; 5:6
 Yaghuts, 71:23
-Yahya (Yohanes),
+Yahya (Yohanes)
 - kabar gembira tentangnya, 3:39; 21:90
 - saleh, 6:85
 - bijaksana; penuh kasih sayang; berbakti, 19:12-15
@@ -1868,52 +1867,52 @@ Zihar, 33:4; 58:2-4
 Zukhruf, S.43
 Zumar, S.39
 Pokok-pokok Ajaran
-- Iman yang telah disempurnakan 5:3;
-- satu-satunya jalan yang diterima Allah 3:19, 85;
-- tidak ada paksaan dalam menerima Islam 2:256;
-- satu agama dengan berbagai syariat dan hukum 5:48; 22:67-70; 42:13-14;
-- para nabi Islam 2:135-136; 3:84; 4:163-165;
-- perintah-perintah (beriman kepada Allah dan berbuat baik) 4:36; 6:151-154;17:23-39;18:107-108;
-- lima tujuan syariat: menjaga agama 5:54;
-- menjaga jiwa 5:32;6:151;
-- menjaga harta 5:38;
-- menjaga kehormatan 5:5;24:4;
+- Iman yang telah disempurnakan 5:3
+- satu-satunya jalan yang diterima Allah 3:19, 85
+- tidak ada paksaan dalam menerima Islam 2:256
+- satu agama dengan berbagai syariat dan hukum 5:48; 22:67-70; 42:13-14
+- para nabi Islam 2:135-136; 3:84; 4:163-165
+- perintah-perintah (beriman kepada Allah dan berbuat baik) 4:36; 6:151-154;17:23-39;18:107-108
+- lima tujuan syariat: menjaga agama 5:54
+- menjaga jiwa 5:32;6:151
+- menjaga harta 5:38
+- menjaga kehormatan 5:5;24:4
 - menjaga akal 5:90.
 Iman kepada Allah 2:255
-- Sifat-sifat Ilahiah, Asmaul Husna 57:1-6; 59:22-24; 85:13-16; 112:1-4;
-- satu-satunya tuhan yang berhak disembah 1:1-4; 2:285; 6:3; 43:84;
-- semua kekuasaan milik-Nya 3:26; Arsy-Nya 7:54; 11:7;
-- Kursi-Nya 2:255;
-- nikmat-nikmat yang tak terhitung kepada umat manusia 14:32-34; 2:164; 16:2-93; 31:20; 55:1-25;
-- memberikan kehidupan dan menyebabkan kematian 44:8; 53:44; 57:2; 67:2;
-- mendatangkan kegembiraan dan kesedihan 53:43;
-- memberikan rezeki yang berlimpah atau terbatas 13:26; 17:30; 29:62;
-- Sebaik-baik Hakim 95:8;
-- Maha Penyayang di antara yang penyayang 12:92;
-- mencintai orang-orang yang saleh 85:14;
-- Maha Pengampun dan keras dalam hukuman 13:6, 40:3;
-- Yang Pertama dan Yang Terakhir 57:3;
-- segala kemuliaan dan kekuasaan milik-Nya 35:10;
-- mengetahui yang ghaib dan melihat yang tersembunyi 6:59,73; 9:94, 105; 13:8-10; 31:34; 32:6; 34:48; 35:38; 39:46; 49:18; 59:22; 62:8; 64:18; 72:26; 74:31; 87:7;
-- paling mengetahui apa yang tersembunyi dalam hati 5:7; 11:5; 31:23;
-- mengetahui apa yang telah terjadi dan apa yang akan datang 2:255;
-- mencatat segala sesuatu dalam Kitab (atau Lauh Mahfuz) 6:38; 13:39; 36:12;
-- berkuasa atas segala sesuatu 2:117; 3:189; 8:41; 9:116; 11:4; 16:40; 40:68; 41:39; 42:49;57:2;
-- kekuasaan-Nya yang tak terbatas 3:26-27; 24:45; 31:28-30;
-- menciptakan langit dan bumi dalam enam Hari dan tidak pernah merasa lelah 46:33; 50:38;
-- menciptakan dengan firman 'Jadilah!' 36:81-83;
-- tidak pernah zalim kepada ciptaan-Nya 3:108; 4:40; 17:71; 21:47; 22:10; 26:209; 40:31; 41:46; 45:22; 50:29; 64:11; 78:6-16;
-- segala sesuatu tunduk kepada Kehendak-Nya 3:83; 22:18; 30:26;
-- semua membutuhkan-Nya 11:6; 35:15; 55:29;
-- bertawakkal kepada-Nya 10:84-85; 12:67; 25:58;
-- bentuk-bentuk komunikasi Ilahiah 42:51;
-- layak untuk diingat dan ditaati 2:21; 3:102; 4:1; 33:70-71; 59:18;
-- hikmah adalah anugerah dari-Nya 2:269;
-- Dia tidak membutuhkan siapa pun 3:97; 6:133; 112:2;
-- bukan satu dari Trinitas 4:171;
-- tidak memiliki pasangan 6:101;
-- tidak memiliki anak 10:68; 19:35; 43:81; 72:3; 112:3;
-- tidak memiliki sekutu atau tuhan-tuhan tandingan 6:94; 7:191-195; 46:4-5;
+- Sifat-sifat Ilahiah, Asmaul Husna 57:1-6; 59:22-24; 85:13-16; 112:1-4
+- satu-satunya tuhan yang berhak disembah 1:1-4; 2:285; 6:3; 43:84
+- semua kekuasaan milik-Nya 3:26; Arsy-Nya 7:54; 11:7
+- Kursi-Nya 2:255
+- nikmat-nikmat yang tak terhitung kepada umat manusia 14:32-34; 2:164; 16:2-93; 31:20; 55:1-25
+- memberikan kehidupan dan menyebabkan kematian 44:8; 53:44; 57:2; 67:2
+- mendatangkan kegembiraan dan kesedihan 53:43
+- memberikan rezeki yang berlimpah atau terbatas 13:26; 17:30; 29:62
+- Sebaik-baik Hakim 95:8
+- Maha Penyayang di antara yang penyayang 12:92
+- mencintai orang-orang yang saleh 85:14
+- Maha Pengampun dan keras dalam hukuman 13:6, 40:3
+- Yang Pertama dan Yang Terakhir 57:3
+- segala kemuliaan dan kekuasaan milik-Nya 35:10
+- mengetahui yang ghaib dan melihat yang tersembunyi 6:59,73; 9:94, 105; 13:8-10; 31:34; 32:6; 34:48; 35:38; 39:46; 49:18; 59:22; 62:8; 64:18; 72:26; 74:31; 87:7
+- paling mengetahui apa yang tersembunyi dalam hati 5:7; 11:5; 31:23
+- mengetahui apa yang telah terjadi dan apa yang akan datang 2:255
+- mencatat segala sesuatu dalam Kitab (atau Lauh Mahfuz) 6:38; 13:39; 36:12
+- berkuasa atas segala sesuatu 2:117; 3:189; 8:41; 9:116; 11:4; 16:40; 40:68; 41:39; 42:49;57:2
+- kekuasaan-Nya yang tak terbatas 3:26-27; 24:45; 31:28-30
+- menciptakan langit dan bumi dalam enam Hari dan tidak pernah merasa lelah 46:33; 50:38
+- menciptakan dengan firman 'Jadilah!' 36:81-83
+- tidak pernah zalim kepada ciptaan-Nya 3:108; 4:40; 17:71; 21:47; 22:10; 26:209; 40:31; 41:46; 45:22; 50:29; 64:11; 78:6-16
+- segala sesuatu tunduk kepada Kehendak-Nya 3:83; 22:18; 30:26
+- semua membutuhkan-Nya 11:6; 35:15; 55:29
+- bertawakkal kepada-Nya 10:84-85; 12:67; 25:58
+- bentuk-bentuk komunikasi Ilahiah 42:51
+- layak untuk diingat dan ditaati 2:21; 3:102; 4:1; 33:70-71; 59:18
+- hikmah adalah anugerah dari-Nya 2:269
+- Dia tidak membutuhkan siapa pun 3:97; 6:133; 112:2
+- bukan satu dari Trinitas 4:171
+- tidak memiliki pasangan 6:101
+- tidak memiliki anak 10:68; 19:35; 43:81; 72:3; 112:3
+- tidak memiliki sekutu atau tuhan-tuhan tandingan 6:94; 7:191-195; 46:4-5
 - tidak ada sesuatu pun yang serupa dengan-Nya 42:11; 112:4
 Perintah untuk merenungkan keajaiban ciptaan-Nya 3:190; 6:99; 10:5-6; 13:3-4; 16:10-16; 88:17-20
 Tanda-tanda dalam penciptaan 2:164; 6:95-99; 7:57-58; 10:5-6; 13:2-4; 16:10-13, 65-69, 79; 23:27-30; 27:60-65; 30:19-25; 50:6-11
@@ -1934,21 +1933,21 @@ Tanda-tanda dalam penciptaan 2:164; 6:95-99; 7:57-58; 10:5-6; 13:2-4; 16:10-13, 
 - gerimis, hujan es, dan hujan 2:265; 6:99; 24:43; 50:9-11
 - petir dan kilat 13:12-13
 Referensi ilmiah
-- manusia diciptakan dari sel kelamin jantan dan betina 76:2;
-- pembentukan dan tahap-tahap perkembangan janin 22:5; 23:12-14;
-- janin dalam tiga lapisan kegelapan 39:6;
-- air payau 25:53-54; 35:12; 55:19-20;
-- penyerbukan oleh angin 15:22;
-- sidik jari 75:3-4;
-- gunung-gunung sebagai pasak 78:7;
-- besi yang diturunkan 57:25;
-- reseptor rasa sakit 4:56;
-- matahari sebagai sumber cahaya dan bulan sebagai cahaya pantulan 10:5;
-- terbelahnya bulan 54:1;
-- langit sebagai kanopi yang terlindungi 21:32;
-- semua makhluk diciptakan dari air 21:30; 24:45;
-- semut berkomunikasi 27:17-19;
-- gelombang internal 24:40;
+- manusia diciptakan dari sel kelamin jantan dan betina 76:2
+- pembentukan dan tahap-tahap perkembangan janin 22:5; 23:12-14
+- janin dalam tiga lapisan kegelapan 39:6
+- air payau 25:53-54; 35:12; 55:19-20
+- penyerbukan oleh angin 15:22
+- sidik jari 75:3-4
+- gunung-gunung sebagai pasak 78:7
+- besi yang diturunkan 57:25
+- reseptor rasa sakit 4:56
+- matahari sebagai sumber cahaya dan bulan sebagai cahaya pantulan 10:5
+- terbelahnya bulan 54:1
+- langit sebagai kanopi yang terlindungi 21:32
+- semua makhluk diciptakan dari air 21:30; 24:45
+- semut berkomunikasi 27:17-19
+- gelombang internal 24:40
 Makhluk-makhluk Hidup
 - malaikat 39:75
 - manusia (khalifah di bumi) 2:30; 6:165; 16:4
@@ -1981,365 +1980,366 @@ Makhluk-makhluk Hidup
 - laba-laba 29:41
 - makhluk lain yang tidak kita ketahui 16:8
 Tanaman dan buah-buahan 6:99; 13:4; 16:11; 36:33-35
-- pisang 56:29,
-- kurma 19:25,
-- tumbuhan, mentimun, bawang putih, kacang merah, dan bawang merah 2:61,
-- anggur 80:28,
-- zaitun 6:99,
-- buah ara 95:1,
-- delima 55:68,
+- pisang 56:29
+- kurma 19:25
+- tumbuhan, mentimun, bawang putih, kacang merah, dan bawang merah 2:61
+- anggur 80:28
+- zaitun 6:99
+- buah ara 95:1
+- delima 55:68
 - labu 37:146
 Iman kepada Muhammad
-- Sifat-sifatnya, hanya seorang nabi 3:144; 6:50; 7:188; 18:110;
-- menyampaikan kebenaran 2:119; 35:24; 42:48;
-- penutup para nabi 33:40;
-- akhlak yang mulia 3:159; 68:4;
-- suri teladan 33:21;
-- sebagai anugerah bagi orang-orang beriman 3:164;
-- rahmat bagi seluruh alam 21:107;
-- rasul yang bersifat universal 4:170; 7:157-158; 34:28;
-- membimbing kepada Jalan yang Lurus 42:52-53;
-- peduli kepada umat manusia 9:129;
-- sebagai saksi pada Hari Penghakiman 4:42; 16:89;
-- nabi yang tidak bisa baca tulis 7:157-158; 29:48; 62:2;
-- diramalkan dalam Taurat dan Injil 7:157;
+- Sifat-sifatnya, hanya seorang nabi 3:144; 6:50; 7:188; 18:110
+- menyampaikan kebenaran 2:119; 35:24; 42:48
+- penutup para nabi 33:40
+- akhlak yang mulia 3:159; 68:4
+- suri teladan 33:21
+- sebagai anugerah bagi orang-orang beriman 3:164
+- rahmat bagi seluruh alam 21:107
+- rasul yang bersifat universal 4:170; 7:157-158; 34:28
+- membimbing kepada Jalan yang Lurus 42:52-53
+- peduli kepada umat manusia 9:129
+- sebagai saksi pada Hari Penghakiman 4:42; 16:89
+- nabi yang tidak bisa baca tulis 7:157-158; 29:48; 62:2
+- diramalkan dalam Taurat dan Injil 7:157
 - diramalkan oleh Isa 61:6
 Tantangan yang dihadapi Nabi (ﷺ)
-- tuntutan-tuntutan tidak berdasar dari kaum pagan 8:32; 15:7; 17:89-93; 25:7-8;
-- tuduhan-tuduhan palsu 10:2; 11:13; 21:5; 24:11-26; 25:4-6; 37:36; 38:4; 52:29-30;
-- percobaan pembunuhan atas dirinya 8:30; 9:74;
-- peringatan bagi mereka yang menyakiti atau menentangnya 4:115; 8:13; 9:61; 15:95; 33:57; 47:32; 96:9-19;
-- diperintahkan menanggapi pendustaan dengan kesabaran 20:130; 30:60; 46:35; 70:5;
+- tuntutan-tuntutan tidak berdasar dari kaum pagan 8:32; 15:7; 17:89-93; 25:7-8
+- tuduhan-tuduhan palsu 10:2; 11:13; 21:5; 24:11-26; 25:4-6; 37:36; 38:4; 52:29-30
+- percobaan pembunuhan atas dirinya 8:30; 9:74
+- peringatan bagi mereka yang menyakiti atau menentangnya 4:115; 8:13; 9:61; 15:95; 33:57; 47:32; 96:9-19
+- diperintahkan menanggapi pendustaan dengan kesabaran 20:130; 30:60; 46:35; 70:5
 - diperintahkan dan diyakinkan oleh Allah 5:67; 93:1-11; 94:1-8
 Pelajaran dari kehidupan Nabi (ﷺ)
-- dari hijrahnya hingga Pertempuran Badr 3:121-129; 8:42-44; 8:65-71;
-- Pertempuran Uhud 3:151-180;
-- Pertempuran Khandaq 33:9-27;
-- Pertempuran Hunain 9:25-27;
-- Madinah 9:40; Tabuk 9:38-123;
-- Banu An-Nadir 59:2-6;
-- Hamra' Al-Asad 3:172-175;
+- dari hijrahnya hingga Pertempuran Badr 3:121-129; 8:42-44; 8:65-71
+- Pertempuran Uhud 3:151-180
+- Pertempuran Khandaq 33:9-27
+- Pertempuran Hunain 9:25-27
+- Madinah 9:40
+- Tabuk 9:38-123
+- Banu An-Nadir 59:2-6
+- Hamra' Al-Asad 3:172-175
 - Perjanjian Hudaibiyah 48:1-7; 48:10-29
 Kehormatan yang dianugerahkan kepada Nabi (ﷺ)
-- Allah dan para malaikat-Nya bershalawat atasnya 33:56;
-- Isra' dari Makkah ke Yerusalem 17:1;
-- Mi'raj ke langit 53:1-18;
-- dimuliakan di dunia dan di akhirat 17:79; 66:8; 108:1;
-- taat kepadanya adalah taat kepada Allah 4:80;
-- pahala ketaatan kepada Allah dan Rasul-Nya 4:69;
-- keluarganya disucikan 33:33-34;
-- melihat Jibril dalam wujud aslinya 53:1-18;
-- orang-orang beriman diperintahkan untuk menaatinya 59:7;
+- Allah dan para malaikat-Nya bershalawat atasnya 33:56
+- Isra' dari Makkah ke Yerusalem 17:1
+- Mi'raj ke langit 53:1-18
+- dimuliakan di dunia dan di akhirat 17:79; 66:8; 108:1
+- taat kepadanya adalah taat kepada Allah 4:80
+- pahala ketaatan kepada Allah dan Rasul-Nya 4:69
+- keluarganya disucikan 33:33-34
+- melihat Jibril dalam wujud aslinya 53:1-18
+- orang-orang beriman diperintahkan untuk menaatinya 59:7
 - adab berbicara dengannya 49:1-5
-- adab mengunjunginya 33:53;
-- adab bergaul dengan istri-istrinya 33:53;
-- Allah ridha kepadanya dan para sahabatnya 9:100; 9:117;
+- adab mengunjunginya 33:53
+- adab bergaul dengan istri-istrinya 33:53
+- Allah ridha kepadanya dan para sahabatnya 9:100; 9:117
 - keunggulan umatnya yang beriman 2:143; 3:110
-Shalat (salah) 2:45; 9:103; 51:18; 70:22-23; 75:31; 96:10; 108:2;
-- shalat Jum'at berjamaah 62:9;
-- arah shalat (kiblat) 2:144; 2:149-150;
-- hendaknya mencegah dari perbuatan keji dan mungkar 29:45;
-- waktu-waktu shalat 11:114; 17:78; 17:79; 20:130; 24:36; 24:58; 30:17-18; 32:16; 38:18; 50:39-40; 51:17; 52:48-49; 73:2-4; 76:25-26;
-- dalam keadaan bahaya atau dalam perjalanan 2:239; 4:101-102;
-- peringatan bagi mereka yang mengabaikan shalat 19:59; 74:38-47; 107:5-7;
+Shalat (salah) 2:45; 9:103; 51:18; 70:22-23; 75:31; 96:10; 108:2
+- shalat Jum'at berjamaah 62:9
+- arah shalat (kiblat) 2:144; 2:149-150
+- hendaknya mencegah dari perbuatan keji dan mungkar 29:45
+- waktu-waktu shalat 11:114; 17:78; 17:79; 20:130; 24:36; 24:58; 30:17-18; 32:16; 38:18; 50:39-40; 51:17; 52:48-49; 73:2-4; 76:25-26
+- dalam keadaan bahaya atau dalam perjalanan 2:239; 4:101-102
+- peringatan bagi mereka yang mengabaikan shalat 19:59; 74:38-47; 107:5-7
 - shalat orang-orang munafik 4:142; 9:54
-Bersuci, wudhu 5:6;
-- mandi wajib (ghusl) 2:222; 4:43;
+Bersuci, wudhu 5:6
+- mandi wajib (ghusl) 2:222; 4:43
 - tayamum 4:43; 5:6
 Doa-doa (du'a)
-- Ibrahim 2:126-129; 2:126-129; 14:35-41; 26:83-89;
-- Adam dan Hawa 7:23;
-- Isa 5:114;
-- Ayyub 21:83; 21:83;
-- Yunus 21:87;
-- Yusuf 12:33; 12:101;
-- Musa 10:88-89; 20:25-35;
+- Ibrahim 2:126-129; 2:126-129; 14:35-41; 26:83-89
+- Adam dan Hawa 7:23
+- Isa 5:114
+- Ayyub 21:83; 21:83
+- Yunus 21:87
+- Yusuf 12:33; 12:101
+- Musa 10:88-89; 20:25-35
 - Muhammad 17:80; 20:114
-- Nuh 23:26; 26:117-118; 54:9-10; 71:26; 71:28;
-- Sulaiman 38:35;
-- Syu'aib 7:89;
-- Zakaria 3:38; 19:2-6; 21:89-90;
-- para malaikat 40:8-9;
-- ibu Maryam 3:35-36;
-- istri Fir'aun 66:11;
-- para ahli sihir Fir'aun 7:126;
-- Raja Thalut dan orang-orang beriman bersamanya 2:250;
-- orang-orang beriman dari Bani Israil 10:85-86;
-- penghuni gua 18:10;
-- orang-orang yang saleh 2:285-286; 3:8-9; 3:16; 3:147; 3:191-194; 25:74; 59:10;
+- Nuh 23:26; 26:117-118; 54:9-10; 71:26; 71:28
+- Sulaiman 38:35
+- Syu'aib 7:89
+- Zakaria 3:38; 19:2-6; 21:89-90
+- para malaikat 40:8-9
+- ibu Maryam 3:35-36
+- istri Fir'aun 66:11
+- para ahli sihir Fir'aun 7:126
+- Raja Thalut dan orang-orang beriman bersamanya 2:250
+- orang-orang beriman dari Bani Israil 10:85-86
+- penghuni gua 18:10
+- orang-orang yang saleh 2:285-286; 3:8-9; 3:16; 3:147; 3:191-194; 25:74; 59:10
 - orang-orang yang tertindas 4:75
 Ayat-ayat sajdah
 - sajadat, jamak dari sajdah, 7:206; 13:15; 16:49; 17:109; 19:58; 22:18; 22:77; 25:60; 27:26; 32:15; 38:24; 41:37; 53:62; 84:21; 96:19
-Zakat, sebagai kewajiban 2:110; 2:177; 2:277; 6:141;
-- salah satu sifat orang-orang beriman 22:41; 23:4; 51:19;
+Zakat, sebagai kewajiban 2:110; 2:177; 2:277; 6:141
+- salah satu sifat orang-orang beriman 22:41; 23:4; 51:19
 - para penerima zakat 9:60
 - sedekah (sadaqah) 2:177; 2:261-263; 2:267-274; 3:92; 63:10
 - peringatan bagi mereka yang menahan zakat 3:180; 9:34; 47:38
 Puasa (sawm)
-- di bulan Ramadhan 2:183-185;
-- jam-jam berpuasa 2:187;
-- pengecualian-pengecualian 2:184-185;
-- hubungan suami istri pada malam sebelum berpuasa 2:187;
+- di bulan Ramadhan 2:183-185
+- jam-jam berpuasa 2:187
+- pengecualian-pengecualian 2:184-185
+- hubungan suami istri pada malam sebelum berpuasa 2:187
 - puasa selama ibadah haji 2:196
-Haji (hajj),
-- kewajiban bagi yang mampu 3:97;
-- tata cara dan hukum-hukumnya 2:158; 2:189; 2:196-203; 5:2; 22:26-37;
-- hewan kurban 2:196; 22:36-37;
-- larangan berburu di darat saat ihram 5:1; 5:94-95;
+Haji (hajj)
+- kewajiban bagi yang mampu 3:97
+- tata cara dan hukum-hukumnya 2:158; 2:189; 2:196-203; 5:2; 22:26-37
+- hewan kurban 2:196; 22:36-37
+- larangan berburu di darat saat ihram 5:1; 5:94-95
 - kebolehan berburu di laut 5:96
 - Umrah 2:158; 2:196
 Komunitas-komunitas Beriman
-- kaum Muslimin 2:132-136; 3:64; 3:84; 5:111; 22:77-78; 33:35; 41:33; 43:67-70; 72:14-15;
-- pelindung satu sama lain 3:28; 9:71;
-- kaum Kristen 2:62; 2:111-140; 4:171-172; 5:14-19; 5:82-86; 5:116-120; 9:30-31; 22:17;
-- kaum Yahudi 2:62, 111-140; 5:44-45; 6:146; 22:17; 62:6-8;
-- Bani Israil 2:40-103, 122-123, 246-251; 3:49; 3:93-94; 5:12-13, 20-26, 32, 70-71, 78-81; 7:137-141, 148-153,159-171; 10:83-93; 14:5-8; 17:2-8, 104; 20:80-98; 26:52-67, 197; 27:76; 44:23-33; 45:16-17; 46:10; 61:5-6;
+- kaum Muslimin 2:132-136; 3:64; 3:84; 5:111; 22:77-78; 33:35; 41:33; 43:67-70; 72:14-15
+- pelindung satu sama lain 3:28; 9:71
+- kaum Kristen 2:62; 2:111-140; 4:171-172; 5:14-19; 5:82-86; 5:116-120; 9:30-31; 22:17
+- kaum Yahudi 2:62, 111-140; 5:44-45; 6:146; 22:17; 62:6-8
+- Bani Israil 2:40-103, 122-123, 246-251; 3:49; 3:93-94; 5:12-13, 20-26, 32, 70-71, 78-81; 7:137-141, 148-153,159-171; 10:83-93; 14:5-8; 17:2-8, 104; 20:80-98; 26:52-67, 197; 27:76; 44:23-33; 45:16-17; 46:10; 61:5-6
 - Ahli Kitab (terutama Yahudi dan Kristen) 2:109; 3:64-115, 199; 4:123-172; 5:15-77; 6:20-21; 13:36; 28:52-55; 29:46-47; 57:16, 28-29; 74:31; 98:1-5
 - kaum Muslimin boleh memakan hewan sembelihan mereka dan menikahi wanita-wanita mereka 5:5
-- makanan yang diharamkan bagi kaum Yahudi 6:146;
-- kaum Sabi'in 2:62; 22:17;
-- kaum Majusi 22:17;
-- kaum musyrikin (pagan, penyembah berhala) 3:186; 6:148; 9:6, 17; 10:28; 16:86; 22:17; 53:19-30;
-- praktik-praktik takhayul kaum pagan 2:189; 5:103; 6:138-144;
+- makanan yang diharamkan bagi kaum Yahudi 6:146
+- kaum Sabi'in 2:62; 22:17
+- kaum Majusi 22:17
+- kaum musyrikin (pagan, penyembah berhala) 3:186; 6:148; 9:6, 17; 10:28; 16:86; 22:17; 53:19-30
+- praktik-praktik takhayul kaum pagan 2:189; 5:103; 6:138-144
 - kaum ateis 52:35-36
 Praktik-praktik pagan yang dilarang
-- mengubur anak perempuan hidup-hidup 16:58-59; 81:8-9;
-- membunuh anak-anak karena takut kemiskinan 6:137; 6:151; 17:31;
-- bersiul dan bertepuk tangan di sekitar Ka'bah 8:35;
-- mempersembahkan unta untuk berhala 5:103; 6:136;
-- menyembelih atas nama berhala 6:121;
-- talak zihar 33:4; 58:2-4;
-- ila' (lebih dari empat bulan) 2:226-227;
-- pengambilan keputusan dengan undian 5:3;
-- mengelilingi Ka'bah dalam keadaan telanjang 7:26-28;
+- mengubur anak perempuan hidup-hidup 16:58-59; 81:8-9
+- membunuh anak-anak karena takut kemiskinan 6:137; 6:151; 17:31
+- bersiul dan bertepuk tangan di sekitar Ka'bah 8:35
+- mempersembahkan unta untuk berhala 5:103; 6:136
+- menyembelih atas nama berhala 6:121
+- talak zihar 33:4; 58:2-4
+- ila' (lebih dari empat bulan) 2:226-227
+- pengambilan keputusan dengan undian 5:3
+- mengelilingi Ka'bah dalam keadaan telanjang 7:26-28
 - memasuki rumah dari pintu belakang setelah berhaji 2:189
-Objek-objek sembahan,
-- malaikat (di kalangan sebagian pagan Arab) 34:40;
-- Al-Aikah (di kalangan kaum Syu'aib) 26:176;
-- Ba'l (di kalangan kaum Ilyas) 37:125;
-- Isa (dalam agama Kristen) 5:17;
-- berhala-berhala (di kalangan kaum Ibrahim) 21:52-53;
-- berhala-berhala Latta, 'Uzza, dan Manat (di kalangan pagan Arab) 53:19-20;
-- berhala-berhala Wadd, Suwa', Yaghuts, Ya'uq, dan Nasr (di kalangan kaum Nuh) 71:23;
-- matahari (kaum Saba') 27:24;
-- bintang Sirius (di kalangan sebagian pagan Arab) 53:49;
-- Fir'aun (di Mesir kuno) 26:29; 28:38; 79:24;
-- hawa nafsu 25:43-44; 45:23;
+Objek-objek sembahan
+- malaikat (di kalangan sebagian pagan Arab) 34:40
+- Al-Aikah (di kalangan kaum Syu'aib) 26:176
+- Ba'l (di kalangan kaum Ilyas) 37:125
+- Isa (dalam agama Kristen) 5:17
+- berhala-berhala (di kalangan kaum Ibrahim) 21:52-53
+- berhala-berhala Latta, 'Uzza, dan Manat (di kalangan pagan Arab) 53:19-20
+- berhala-berhala Wadd, Suwa', Yaghuts, Ya'uq, dan Nasr (di kalangan kaum Nuh) 71:23
+- matahari (kaum Saba') 27:24
+- bintang Sirius (di kalangan sebagian pagan Arab) 53:49
+- Fir'aun (di Mesir kuno) 26:29; 28:38; 79:24
+- hawa nafsu 25:43-44; 45:23
 - kepercayaan kepada banyak tuhan dibantah 17:42-43; 21:21-24; 25:3
-Tempat-tempat ibadah, masjid-masjid 9:18;
-- gereja-gereja, sinagog-sinagog, dan biara-biara 22:40;
-- tempat suci 3:39; 38:21;
+Tempat-tempat ibadah, masjid-masjid 9:18
+- gereja-gereja, sinagog-sinagog, dan biara-biara 22:40
+- tempat suci 3:39; 38:21
 - kuil 17:7
 - Gelar-gelar keagamaan, pendeta, rahib, dan rabi 5:44; 5:63; 5:82; 9:31-34
-Malaikat,
+Malaikat
 - menanyakan tentang penciptaan Adam 2:30-34
-- tidak pernah mendurhakai Allah 21:26-27; 66:6;
-- bukan putri-putri Allah 21:26; 43:16-19;
-- malaikat-malaikat penjaga 13:11;
-- dua malaikat pencatat 50:16-18; 82:10-12;
-- delapan malaikat memikul Arsy Allah pada Hari Kiamat 69:17;
-- sembilan belas penjaga Neraka 74:26-31;
-- Malaikat Maut 6:93; 16:28; 32:11;
-- Jibril 2:97; 66:4; 26:192-195; 53:1-14;
-- Mikail 2:98;
+- tidak pernah mendurhakai Allah 21:26-27; 66:6
+- bukan putri-putri Allah 21:26; 43:16-19
+- malaikat-malaikat penjaga 13:11
+- dua malaikat pencatat 50:16-18; 82:10-12
+- delapan malaikat memikul Arsy Allah pada Hari Kiamat 69:17
+- sembilan belas penjaga Neraka 74:26-31
+- Malaikat Maut 6:93; 16:28; 32:11
+- Jibril 2:97; 66:4; 26:192-195; 53:1-14
+- Mikail 2:98
 - Malik 43:77
 Para Rasul
-- dari kalangan malaikat dan manusia 22:75;
+- dari kalangan malaikat dan manusia 22:75
 - Rasul-rasul Ulul Azmi (Ibrahim, Nuh, Musa, Isa, dan Muhammad ﷺ) 33:7; 42:13; 46:35
 Kitab-kitab Suci
-- Al-Qur'an, wahyu dari Allah 12:2-3; 20:2-4; 26:192-195; 32:2-3;
-- peringatan bagi seluruh alam 68:51-52;
-- membimbing kepada cara hidup yang paling lurus 17:9;
-- wahyu dimulai pada bulan Ramadhan 2:185;
-- pada malam yang diberkahi 44:3;97:1-5;
-- diturunkan secara bertahap 17:105-106;
-- dimudahkan untuk diingat 54:17;
-- membenarkan kebenaran dalam wahyu-wahyu sebelumnya 3:3-4;
-- otoritas tertinggi atas kitab-kitab sebelumnya 5:48;
-- tidak ada keraguan di dalamnya 2:2; 10:37;
-- tidak ada pertentangan 4:82;
-- bukan rekayasa 10:37-39;
-- bukan disalin dari Alkitab 25:4-6;
-- bukan diwahyukan oleh setan-setan 26:210-212;
+- Al-Qur'an, wahyu dari Allah 12:2-3; 20:2-4; 26:192-195; 32:2-3
+- peringatan bagi seluruh alam 68:51-52
+- membimbing kepada cara hidup yang paling lurus 17:9
+- wahyu dimulai pada bulan Ramadhan 2:185
+- pada malam yang diberkahi 44:3;97:1-5
+- diturunkan secara bertahap 17:105-106
+- dimudahkan untuk diingat 54:17
+- membenarkan kebenaran dalam wahyu-wahyu sebelumnya 3:3-4
+- otoritas tertinggi atas kitab-kitab sebelumnya 5:48
+- tidak ada keraguan di dalamnya 2:2; 10:37
+- tidak ada pertentangan 4:82
+- bukan rekayasa 10:37-39
+- bukan disalin dari Alkitab 25:4-6
+- bukan diwahyukan oleh setan-setan 26:210-212
 - tidak seorang pun dapat menghasilkan yang serupa dengannya 17:88; 2:23-24;10:13-14; 11:13
-- terlindungi dari pemalsuan 15:9;
-- terlindungi dalam Lauh Mahfuz 56:75-80;
-- tidak dapat dibuktikan salah 41:42;
-- meramalkan peristiwa-peristiwa masa depan 30:1-7; 48:27;
-- menggerakkan orang-orang beriman hingga meneteskan air mata 5:83; 17:107-109;
-- menyentuh hati 39:23;
-- cahaya yang cemerlang 4:174; 42:52;
+- terlindungi dari pemalsuan 15:9
+- terlindungi dalam Lauh Mahfuz 56:75-80
+- tidak dapat dibuktikan salah 41:42
+- meramalkan peristiwa-peristiwa masa depan 30:1-7; 48:27
+- menggerakkan orang-orang beriman hingga meneteskan air mata 5:83; 17:107-109
+- menyentuh hati 39:23
+- cahaya yang cemerlang 4:174; 42:52
 - penyembuh dan rahmat bagi orang-orang beriman 17:82
 - Taurat 3:3; 3:93; 5:46; 5:66-68, 110; 7:157; 9:111; 48:29; 61:6; 62:5
-- Injil 3:3; 48; 5:46-47, 66-68, 77, 110; 7:157; 9:111; 48:29; 57:27
+- Injil 3:3, 48; 5:46-47, 66-68, 77, 110; 7:157; 9:111; 48:29; 57:27
 - Zabur 4:163; 17:55
 - Shahifah Ibrahim 53:36-44; 87:14-19
-Takdir dan nasib 3:145; 9:51; 10:107; 11:6; 54:49; 67:30;
+Takdir dan nasib 3:145; 9:51; 10:107; 11:6; 54:49; 67:30
 - kehendak bebas 6:148-150; 11:118-119; 16:93; 33:72-73; 39:41; 76:1-3; 91:1-10
-Hari Kiamat,
-- tidak ada ketidakadilan 2:281; 18:49; 40:17;
-- kengerian kiamat 22:1-2; 27:82-84, 87; 40:18; 52:11-16; 69:13-18; 70:8-18; 73:17-18; 75:7-15; 77:8-15; 78:17-20; 79:34-36; 80:33-42; 81:1-14; 82:1-5; 84:1-5; 87:17-40; 99:1-8; 101:1-11;
-- orang-orang saleh dan orang-orang jahat pada Hari itu 11:105-108; 16:27-33, 84-89; 18:52-53; 20:100-111; 25:24-29; 30:12-16; 33:63-68; 39:68-75; 50:20-35; 55:37-41; 83:4-36;
+Hari Kiamat
+- tidak ada ketidakadilan 2:281; 18:49; 40:17
+- kengerian kiamat 22:1-2; 27:82-84, 87; 40:18; 52:11-16; 69:13-18; 70:8-18; 73:17-18; 75:7-15; 77:8-15; 78:17-20; 79:34-36; 80:33-42; 81:1-14; 82:1-5; 84:1-5; 87:17-40; 99:1-8; 101:1-11
+- orang-orang saleh dan orang-orang jahat pada Hari itu 11:105-108; 16:27-33, 84-89; 18:52-53; 20:100-111; 25:24-29; 30:12-16; 33:63-68; 39:68-75; 50:20-35; 55:37-41; 83:4-36
 - syafaat (shafa'ah) 2:48, 255; 6:51, 70; 10:3; 21:28; 32:4; 36:23; 39:43-44; 43:86; 53:26;74:48
-Catatan amal perbuatan 17:13; 18:49;
-- orang-orang beriman menerima catatan mereka dengan tangan kanan 69:19-24; 84:7-9;
-- orang-orang kafir menerima catatan mereka dengan tangan kiri 69:25-37; 84:10-15;
-- tidak ada sesuatu pun yang tersembunyi dari Allah 21:47; 40:16;
-- penimbangan amal perbuatan 7:8; 23:102-104; 101:1-11;
-- kesaksian anggota-anggota tubuh 41:19-24; 24:24;
+Catatan amal perbuatan 17:13; 18:49
+- orang-orang beriman menerima catatan mereka dengan tangan kanan 69:19-24; 84:7-9
+- orang-orang kafir menerima catatan mereka dengan tangan kiri 69:25-37; 84:10-15
+- tidak ada sesuatu pun yang tersembunyi dari Allah 21:47; 40:16
+- penimbangan amal perbuatan 7:8; 23:102-104; 101:1-11
+- kesaksian anggota-anggota tubuh 41:19-24; 24:24
 - balasan atas amal perbuatan baik dan buruk 6:160; 27:89-90; 28:84
 Jenis-jenis manusia
-- orang-orang beriman 18:107-108;
-- orang-orang kafir 4:167-169;
-- orang-orang munafik 4:145; 57:13-15;
-- penghuni Surga, orang-orang beriman yang paling terdepan 55:46-61; 56:10-26;
-- penghuni Surga, golongan kanan 55:62-78; 56:27-40;
-- penghuni Neraka, golongan kiri 55:31-45; 56:41-56;
+- orang-orang beriman 18:107-108
+- orang-orang kafir 4:167-169
+- orang-orang munafik 4:145; 57:13-15
+- penghuni Surga, orang-orang beriman yang paling terdepan 55:46-61; 56:10-26
+- penghuni Surga, golongan kanan 55:62-78; 56:27-40
+- penghuni Neraka, golongan kiri 55:31-45; 56:41-56
 - orang-orang di atas A'raf 7:46-49
 Keuangan
 - Pedoman berbisnis 2:188; 2:275; 2:282-283; 4:29; 4:58; 6:152; 17:34-35;24:36-37; 26:182; 30:39; 55:7-9; 62:9
-- Wasiat, wasiat sunnah kepada selain ahli waris 2:180-183; 4:11-12;
+- Wasiat, wasiat sunnah kepada selain ahli waris 2:180-183; 4:11-12
 - sebelum meninggal saat dalam perjalanan 5:106-108
 - Suap 2:188
-- Hutang, kebaikan dalam menagih hutang 2:280;
-- penulisan dan kesaksian akad hutang 2:282;
+- Hutang, kebaikan dalam menagih hutang 2:280
+- penulisan dan kesaksian akad hutang 2:282
 - pengambilan jaminan 2:283
-- Warisan, pedoman-pedomannya 4:7; 4:32-33; 8:75;
-- bagian keturunan dan orang tua 4:11;
-- pasangan suami istri dan saudara seibu 4:12;
-- saudara kandung penuh 4:176;
+- Warisan, pedoman-pedomannya 4:7; 4:32-33; 8:75
+- bagian keturunan dan orang tua 4:11
+- pasangan suami istri dan saudara seibu 4:12
+- saudara kandung penuh 4:176
 - peringatan bagi mereka yang tidak mematuhi 4:13-14
-- Riba, larangan dan peringatannya 2:275-281; 3:130-132;
+- Riba, larangan dan peringatannya 2:275-281; 3:130-132
 - tidak memberi manfaat 30:39
 Hukum
 - hukum pengkhianatan (hirabah) 5:33-34
-- Keadilan, menegakkan keadilan 4:135; 5:8; 16:90-91;
-- menegakkan hak-hak anak yatim dan wanita 4:127;
-- keadilan kepada seorang Yahudi 4:105-112;
-- keadilan kepada seorang pagan 4:58;
+- Keadilan, menegakkan keadilan 4:135; 5:8; 16:90-91
+- menegakkan hak-hak anak yatim dan wanita 4:127
+- keadilan kepada seorang Yahudi 4:105-112
+- keadilan kepada seorang pagan 4:58
 - keadilan kepada non-Muslim 60:8-9
 - Pembalasan melalui jalur hukum (dengan pilihan untuk memaafkan) 2:178-179; 5:45; 16:126; 17:33; 42:37-43
-- Pemisahan antara suami dan istri, khul' 2:229;
+- Pemisahan antara suami dan istri, khul' 2:229
 - li'an (menuduh berzina) 24:6-10
 Politik
 - Menyelenggarakan urusan melalui musyawarah (syura) 3:159; 42:38
-- Berperang dalam membela diri (jihad), adab-adabnya 2:190-192; 2:216; 22:38-40;
-- tidak menyerang secara membabi buta 4:94;
-- berperang membela kaum laki-laki, perempuan, dan anak-anak yang tertindas 4:75;
-- melindungi tempat-tempat ibadah 22:37;
-- pahala para syuhada 2:154; 3:169-171; 9:111; 57:19;
-- kekuatan militer menghalangi musuh-musuh potensial 8:60;
+- Berperang dalam membela diri (jihad), adab-adabnya 2:190-192; 2:216; 22:38-40
+- tidak menyerang secara membabi buta 4:94
+- berperang membela kaum laki-laki, perempuan, dan anak-anak yang tertindas 4:75
+- melindungi tempat-tempat ibadah 22:37
+- pahala para syuhada 2:154; 3:169-171; 9:111; 57:19
+- kekuatan militer menghalangi musuh-musuh potensial 8:60
 - memilih perdamaian 2:192; 8:61
 - Mendamaikan pihak-pihak yang bertikai 49:9-10
 - Tawanan perang, perlakuan terhadap mereka 8:70; 47:4; 76:8
 Sosial
 - Adopsi 33:4-5
 - Memelihara anak yatim 2:220; 4:2-10; 4:127; 6:152; 17:34
-- Talak, arbitrasi dan rekonsiliasi 4:35; 4:128;
-- adab bercerai 2:229-231; 65:1-2;
-- mahar dan masa iddah 2:226-241; 4:19-21; 33:49; 65:1-7;
-- suami tidak boleh mengambil kembali mahar 4:20;
-- istri tidak boleh disakiti 65:6;
-- istri harus dinafkahi selama kehamilan 65:6;
-- selama masa iddahnya 65:6;
-- jika ia menyusui anak mantan suaminya, 65:6;
-- tidak boleh ada orang tua yang menderita karena anaknya 2:233;
+- Talak, arbitrasi dan rekonsiliasi 4:35; 4:128
+- adab bercerai 2:229-231; 65:1-2
+- mahar dan masa iddah 2:226-241; 4:19-21; 33:49; 65:1-7
+- suami tidak boleh mengambil kembali mahar 4:20
+- istri tidak boleh disakiti 65:6
+- istri harus dinafkahi selama kehamilan 65:6
+- selama masa iddahnya 65:6
+- jika ia menyusui anak mantan suaminya, 65:6
+- tidak boleh ada orang tua yang menderita karena anaknya 2:233
 - memilih ibu susu 65:6
 - Amar ma'ruf nahi mungkar 3:104; 3:110; 7:157; 9:71-72; 31:17
-- Kesetaraan umat manusia 49:13;
-- laki-laki dan perempuan di hadapan Allah dan hukum, 3:195; 4:124; 5:38; 16:97; 24:2; 40:40;
+- Kesetaraan umat manusia 49:13
+- laki-laki dan perempuan di hadapan Allah dan hukum, 3:195; 4:124; 5:38; 16:97; 24:2; 40:40
 - laki-laki memiliki satu derajat tanggung jawab di atas perempuan 2:228
 - Memberi makan orang-orang miskin, anak yatim, dan tawanan 76:8-9
 - Pengampunan dan pengendalian amarah 3:134; 42:40
 - Membebaskan budak dan membantu mereka 4:92; 5:89; 9:60; 24:33; 58:3; 90:13
 - Memuliakan orang tua 4:36; 17:23-25; 31:14-15
 - Kerendahan hati 17:37; 31:18-19
-- Tafsir mimpi Ibrahim 37:102;
-- Tafsir mimpi Yusuf 12:4; 12:36; 12:43;
+- Tafsir mimpi Ibrahim 37:102
+- Tafsir mimpi Yusuf 12:4; 12:36; 12:43
 - Tafsir mimpi Muhammad 8:43; 48:27
 - Berbuat baik kepada non-Muslim 60:8
-- Pernikahan 4:3; 4:129; 16:72; 30:21;
-- wanita-wanita yang halal dan haram untuk dinikahi 4:22-24;
-- adab keintiman 2:222-223;
-- kehamilan dan penyusuan 2:233; 31:4; 46:15; 65:6;
-- menikahi kembali mantan istri sendiri 2:230;
-- membantu orang-orang lajang untuk menikah 24:32;
+- Pernikahan 4:3; 4:129; 16:72; 30:21
+- wanita-wanita yang halal dan haram untuk dinikahi 4:22-24
+- adab keintiman 2:222-223
+- kehamilan dan penyusuan 2:233; 31:4; 46:15; 65:6
+- menikahi kembali mantan istri sendiri 2:230
+- membantu orang-orang lajang untuk menikah 24:32
 - menunjukkan ketertarikan secara halus selama masa iddah 2:235
-- Sumpah 2:224-225; 16:91-92; 16:94;
+- Sumpah 2:224-225; 16:91-92; 16:94
 - menebus sumpah yang dilanggar 5:89
 - Kesabaran dalam masa-masa sulit 2:45; 2:153-157; 3:186; 12:18; 12:83; 16:127-128; 70:5
-- Meminta izin masuk 24:58-60;
-- memasuki rumah orang lain 24:27-28;
+- Meminta izin masuk 24:58-60
+- memasuki rumah orang lain 24:27-28
 - memasuki tempat-tempat umum 24:29
-- Adab sosial, memverifikasi berita 4:83; 49:6;
-- menghormati semua orang 49:11-12;
-- adab dalam majelis-majelis 58:11;
+- Adab sosial, memverifikasi berita 4:83; 49:6
+- menghormati semua orang 49:11-12
+- adab dalam majelis-majelis 58:11
 - pembicaraan rahasia 4:114; 58:9
 - Nazar 2:270; 9:75-77; 22:29; 76:7
 - Pemborosan dan kekikiran 7:31; 17:29; 25:67
 Kisah-kisah lainnya
-- Habil dan Qabil 5:27-31;
-- Al-Khadir dan Musa 18:60-82;
-- Pasukan Gajah 105:1-4;
-- orang beriman dari keluarga Fir'aun 40:28-46;
-- kelahiran Maryam 3:35-36;
-- Sapi Bani Israil 2:67-74;
-- Uzair 2:259;
+- Habil dan Qabil 5:27-31
+- Al-Khadir dan Musa 18:60-82
+- Pasukan Gajah 105:1-4
+- orang beriman dari keluarga Fir'aun 40:28-46
+- kelahiran Maryam 3:35-36
+- Sapi Bani Israil 2:67-74
+- Uzair 2:259
 - para pemilik kebun 68:17-32
 - Harut dan Marut 2:102
 - Qarun 28:76-82
-- nasihat Luqman kepada putranya 31:12-19;
-- pemilik dua kebun 18:32-44;
-- kaum Saba' 34:15-19;
-- penghuni gua 18:9-26;
-- orang-orang parit 85:1-8;
-- para pelanggar Sabat 7:163-165;
-- Samiri dan Anak Lembu Emas 20:83-97;
-- Thalut dan Samuel 2:247-251;
+- nasihat Luqman kepada putranya 31:12-19
+- pemilik dua kebun 18:32-44
+- kaum Saba' 34:15-19
+- penghuni gua 18:9-26
+- orang-orang parit 85:1-8
+- para pelanggar Sabat 7:163-165
+- Samiri dan Anak Lembu Emas 20:83-97
+- Thalut dan Samuel 2:247-251
 - Dzul-Qarnain 18:83-98
-Setan-setan 2:102; 6:71; 6:112; 6:121; 7:27; 7:30; 17:27; 19:68; 19:83; 22:3-4; 23:97-98; 26:210; 37:7-10; 38:37-38; 67:5;
-- manusia dan jin yang jahat 6:112;114:6;
+Setan-setan 2:102; 6:71; 6:112; 6:121; 7:27; 7:30; 17:27; 19:68; 19:83; 22:3-4; 23:97-98; 26:210; 37:7-10; 38:37-38; 67:5
+- manusia dan jin yang jahat 6:112;114:6
 - langit terlindungi dari setan-setan 15:16-18
 Penyesalan-penyesalan
-- tidak mengikuti Nabi 25:27;
-- tidak menaati Allah dan Rasul-Nya 4:41-42; 33:64-68;
-- bergaul dengan teman-teman jahat 25:28-29; 26:96-102; 43:36-39;
-- mengingkari tanda-tanda Allah 6:27-30;
+- tidak mengikuti Nabi 25:27
+- tidak menaati Allah dan Rasul-Nya 4:41-42; 33:64-68
+- bergaul dengan teman-teman jahat 25:28-29; 26:96-102; 43:36-39
+- mengingkari tanda-tanda Allah 6:27-30
 - tidak beramal untuk akhirat 89:23-24
 Permohonan-permohonan yang putus asa
-- memohon untuk kembali ke dunia 2:167; 6:27-28; 32:12-14; 42:44;
-- untuk kesempatan kedua 35:36-37;
-- untuk dikeluarkan dari Neraka 40:10-12;
-- untuk makanan dan minuman 7:51-52;
-- untuk para pemberi syafaat 7:52-53;
-- untuk diratakan menjadi debu 4:41-42; 78:40;
+- memohon untuk kembali ke dunia 2:167; 6:27-28; 32:12-14; 42:44
+- untuk kesempatan kedua 35:36-37
+- untuk dikeluarkan dari Neraka 40:10-12
+- untuk makanan dan minuman 7:51-52
+- untuk para pemberi syafaat 7:52-53
+- untuk diratakan menjadi debu 4:41-42; 78:40
 - untuk kematian 43:74-78
 Sifat-sifat orang-orang saleh
 - menjaga hak-hak Sang Pencipta dan ciptaan-Nya 3:133-136; 4:36; 4:69-70; 6:151-154; 8:2-4; 13:19-24; 17:23-39;18:107-108; 23:1-11; 25:63-76; 42:36-43
 Sifat-sifat orang-orang jahat
-- tidak bersyukur 14:34;
-- kikir 17:100;
-- tergesa-gesa 21:37;
-- mengingat Allah hanya dalam masa-masa sulit 10:12; 41:51;
-- tidak sabar 70:19;
+- tidak bersyukur 14:34
+- kikir 17:100
+- tergesa-gesa 21:37
+- mengingat Allah hanya dalam masa-masa sulit 10:12; 41:51
+- tidak sabar 70:19
 - suka berdebat 18:54
 Dosa-dosa Besar
-- menyekutukan Allah dalam ibadah (syirik) 4:48; 4:116; 5:72; 6:19; 31:13;
-- menyakiti orang tua sendiri 4:36; 6:151; 17:23;
-- mengabaikan atau meninggalkan shalat wajib 19:59-60;
-- tidak membayar zakat 41:6-7;
-- pembunuhan 6:151; 17:33;
-- membunuh seorang beriman secara sengaja 4:93;
-- pencurian 5:38;
-- penipuan 7:85; 11:85; 26:182-183; 83:1-6;
-- berbohong 2:10; 9:77; 39:60;
-- berdusta atas nama Allah 6:93; 29:68; 61:7;
+- menyekutukan Allah dalam ibadah (syirik) 4:48; 4:116; 5:72; 6:19; 31:13
+- menyakiti orang tua sendiri 4:36; 6:151; 17:23
+- mengabaikan atau meninggalkan shalat wajib 19:59-60
+- tidak membayar zakat 41:6-7
+- pembunuhan 6:151; 17:33
+- membunuh seorang beriman secara sengaja 4:93
+- pencurian 5:38
+- penipuan 7:85; 11:85; 26:182-183; 83:1-6
+- berbohong 2:10; 9:77; 39:60
+- berdusta atas nama Allah 6:93; 29:68; 61:7
 - hubungan seksual yang dilarang 2:222; 17:32; 24:2; 25:68; 29:28-30
-- tuduhan palsu berzina 24:4-5;
-- murtad 2:217; 5:54;
-- memakan daging babi dan makanan-makanan terlarang lainnya (bangkai, darah, dsb.) 5:3; 6:145;
-- alkohol dan perjudian 5:90-91;
-- ghibah 49:11;
-- kesaksian palsu 22:30;
+- tuduhan palsu berzina 24:4-5
+- murtad 2:217; 5:54
+- memakan daging babi dan makanan-makanan terlarang lainnya (bangkai, darah, dsb.) 5:3; 6:145
+- alkohol dan perjudian 5:90-91
+- ghibah 49:11
+- kesaksian palsu 22:30
 - sihir 2:102; 10:77; 20:69
 """;

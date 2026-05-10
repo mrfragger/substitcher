@@ -5,18 +5,18 @@ Rituele wassing (Wudu), 4:43; 5:6
 Abraham (Ibrahim) S.14; 2:135-136, 148; 3:33, 84, 95; 4:54, 125, 163; 6:161; 9:70, 114; 12:6, 38; 16:120; 19:58; 21:51, 60, 62, 69; 22:43, 78; 26:69; 29:31; 33:7; 37:83, 104, 109; 38:45; 42:13; 43:26; 51:24; 53:37; 57:26; 60:4; 87:19
 - noch Jood noch Christen, 3:67-68
 - stond in de eerste tempel te Bakkah, 3:97; 26:123
-- legt de fundamenten van de Ka'bah op (2:124-129);
-- roept zijn volk op tot de aanbidding van de Ene Ware God 2:130-133; 26:69-89; 29:16; 29:24-27;
-- debatten arrogante koning 2:258,
-- vraagt naar de opstanding 2:260;
-- noch Jood noch Christen 3:65-68;
-- weerlegt hemelse aanbidding 6:74-87;
-- ontvangt het nieuws van de geboorte van Isaak 11:69-76; 51:24-30;
-- zijn gebed bij de Ka'bah 14:35-41;
-- bezocht door engelen 15:51-56;
-- een rolmodel 16:123;
-- roept zijn vader op tot de waarheid 19:41-50;
-- vernietigt afgoden en wordt gered van het vuur 21:51-73; 37:83-113;
+- legt de fundamenten van de Ka'bah op (2:124-129)
+- roept zijn volk op tot de aanbidding van de Ene Ware God 2:130-133; 26:69-89; 29:16; 29:24-27
+- debatten arrogante koning 2:258
+- vraagt naar de opstanding 2:260
+- noch Jood noch Christen 3:65-68
+- weerlegt hemelse aanbidding 6:74-87
+- ontvangt het nieuws van de geboorte van Isaak 11:69-76; 51:24-30
+- zijn gebed bij de Ka'bah 14:35-41
+- bezocht door engelen 15:51-56
+- een rolmodel 16:123
+- roept zijn vader op tot de waarheid 19:41-50
+- vernietigt afgoden en wordt gered van het vuur 21:51-73; 37:83-113
 - roept iedereen op tot de pelgrimstocht 22:26
 Abrar, 3:193, 198; 76:5; 82:13; 83:18-22
 Afschaffing, 2:106, 16:101
@@ -26,11 +26,10 @@ Adam, 3:33, 59; 5:27; 7:26-27, 31, 35, 172; 17:70; 19:58; 36:60
 - engelen om voor neer te knielen, 2:34; 7:11
 - boom van kennis, 2:35; 7:19-20; 20:120-121
 - verbanning uit de Hof van Eden (Eva valt niets te verwijten), 2:36; 7:24
-- geëerd door Allah, verleid door Satan 2:30-38; 7:11-25; 17:61-65; 18:50; 20:115-123; 38:71-85;
+- geëerd door Allah, verleid door Satan 2:30-38; 7:11-25; 17:61-65; 18:50; 20:115-123; 38:71-85
 - vergeven door Allah 2:37; 20:122
 'Adiyat, S.100
-'Adn Paradijs, 9:72; 13:23; 16:31; 18:31;
-19:61; 20:76; 35:33; 38:50; 40:8; 61:12; 98:8
+'Adn Paradijs, 9:72; 13:23; 16:31; 18:31;19:61; 20:76; 35:33; 38:50; 40:8; 61:12; 98:8
 Moeilijkheden
 - niet belast met de last van een ander, 6:164; 17:15; 35:18; 39:7; 53:38
 - niet overbelast boven het vermogen om te verdragen, 2:286; 6:152; 7:42; 23:62
@@ -113,7 +112,7 @@ Afvalligheid, 3:72; 3:86-88; 3:90-91; 3:167; 4:137; 5:54; 9:74; 9:107; 16:106; 3
 Afvalligen, 47:25
 A'raf, S.7; 7:46, 48
 Arafat, 2:198
-Ruzie maken,
+Ruzie maken
 - niet ten behoeve van hen die zichzelf bedriegen, 4:107
 - jullie hebben hier in deze wereld voor hen gepleit, maar wie zal dat doen op de Dag der Opstanding? 4:109
 Argumenten/Aanvallen
@@ -123,7 +122,7 @@ Pantser, 16:81
 'Asr,S.103
 Ayat Al-Kursi, 2:255
 Roddelaar, 49:12; 104:1
-Slag bij Badr, 3:13,
+Slag bij Badr, 3:13
 - lessen van 8:5-19, 42-48
 Al-Bait-ul-Ma mur, 52:4
 Bakkah (Mekka), 3:96
@@ -133,7 +132,7 @@ Evenwicht, 7:8-9; 17:35; 21:47; 55:7-9; 57:25; 101:6-9
 Banu An-Nadir, 59:2-6, 13
 Baqarah, S.2
 Bara'a (Zie Taubah), S.9
-Barzakh, (barrière), 23:100; 25:53; 55:20;
+Barzakh, (barrière), 23:100; 25:53; 55:20
 - zie ook 18:94-97; 34:54; 36:9
 Baiyinah, S.98
 Beest (van de laatste dagen), 27:82
@@ -182,7 +181,7 @@ Bijbel, 5:64, 5:65, 5:68
 - vervorming van 3:78; 5:14-15
 Vogels, 2:260; 3:49; 5:110; 6:38; 12:36, 41; 16:79; 21:79; 22:31; 24:41; 27:16-17, 20; 34:10; 38:19; 56:21; 67:19; 105:3
 Bloedgeld (Diya), 2:178-179; 4:92; 17:33
-Buit, oorlog, 4:94. 8:41; 59:6-8;
+Buit, oorlog, 4:94. 8:41; 59:6-8
 - illegaal in bezit nemen, 3:162
 - zie buit
 Omkoping, 2:188
@@ -220,7 +219,7 @@ Kleding, 7:26; 16:81
 - De bovenkleding van vrouwen voorkomt intimidatie door hypocrieten, 33:59-60
 Confederaten, 33:9, 22
 - zie Ahzab-overleg, wederzijds, 42:38
-Schepping,
+Schepping
 - begint en wordt herhaald in 10:4; 21:104; 27:64; 29:19-20
 - een nieuwe, 17:49, 98; 35:16
 - met de waarheid, 15:85; 16:3; 29:44; 39:5; 44:39; 45:22; 46:3
@@ -240,12 +239,12 @@ Kraai, 5:31
 Criterium, 2:53, 185; 3:4; 8:29, 41; 21:48; 25:1
 Dahr, (zie Insan,) S.76; 45:24
 - tijd, 76:1; 103:1
-David, 5:78; 6:84; 17:55; 34:10, 13; 38:17-30;
+David, 5:78; 6:84; 17:55; 34:10, 13; 38:17-30
 - gezien Psalm 4:163
 - vecht tegen en doodt Goliath, 2:251
-- velt een oordeel 21:78-80;
-- gezegend met kennis en profetie 27:15-16;
-- Bergen en vogels sluiten zich bij hem aan in het prijzen van Allah (34:10; 38:17-20);
+- velt een oordeel 21:78-80
+- gezegend met kennis en profetie 27:15-16
+- Bergen en vogels sluiten zich bij hem aan in het prijzen van Allah (34:10; 38:17-20)
 - rechters tussen twee personen 38:21-26
 Dawabb of Dabbah (bewegend levend wezen, enz.) 2:164; 6:38; 8:22, 55; 11:6, 56; 16:49, 61; 22:18; 24:45; 27:82; 29:60; 31:10; 34:14; 35:28, 45; 42:29; 45:4
 Doden zullen worden opgewekt, 6:36
@@ -255,17 +254,17 @@ Dood, 3:185; 3:193; 4:78; 6:61; 6:93; 21:35; 23:99-108; 31:34; 32:11; 33:19; 33:
 - die gemeenschappen die geen openbaring ontvangen, zullen niet vernietigd worden, 6:131; 9:115; 10:47; 11:117; 15:4; 16:119; 17:15; 28:59
 - zij die voor Allahs zaak zijn gedood, leven nog (2:154; 3:169).
 - terwijl ze het kwaad ontvluchten en zich tot Allah wenden, 4:100
-- kan niet worden gestopt of vertraagd 63:10-11;
-- tweelingbroer van slaap 6:60; 39:42;
-- gelovigen en ongelovigen ten tijde van de dood 8:50; 16:27-32; 41:30;
+- kan niet worden gestopt of vertraagd 63:10-11
+- tweelingbroer van slaap 6:60; 39:42
+- gelovigen en ongelovigen ten tijde van de dood 8:50; 16:27-32; 41:30
 - straf in het graf 40:46
 Schulden, 2:280, 282; 4:11-12
-Decreet,
+Decreet
 - voor elke kwestie is er een, 13:38
 - Nooit hebben Wij een stad verwoest, of er was een bekende reden voor, 15:4
 - van elke zaak komt Allah, 44:5
 - Wanneer Hij een zaak besluit, zegt Hij slechts: "Wees!" — en het is, 2:117; 36:82; 40:68
-Akten,
+Akten
 - kwaad, voor hen verfraaid, 47:14
 - aan ons onze daden, aan u uw daden, 28:55; 42:15; 45:15
 - goed en kwaad zijn voor en tegen hemzelf, 41:46
@@ -279,7 +278,7 @@ Dhariyat, S.51
 Dhikr, 7:205; 15:6, 9
 Dhul-Kifi, 21:85; 38:48
 Dhul-Qarain, 18:83-98
-Dhun-Nun (metgezel van de vis),
+Dhun-Nun (metgezel van de vis)
 Ongelovigen (zie ook hypocrieten)
 - vraag Mohammed ( ﷺ ) om Allahs toorn over hen af te roepen als bewijs, 6:57-58; 8:32; 10:49-52
 - verdraag hun gezelschap met vriendelijkheid, 31:15
@@ -304,7 +303,7 @@ Gracht, mensen van de, 85:4-10
 Diversiteit
 - van mensen, 30:22, 35:27-28
 - van het leven, 35:27-28
-Scheiding, 2:228-232, 236-237, 241; 4:35, 130; 65:1-7;
+Scheiding, 2:228-232, 236-237, 241; 4:35, 130; 65:1-7
 - na de wachtperiode, ontbinden of verzoenen, 2:231; 65:2
 - twee getuigen, 65:2
 - alimentatie, 2:233, 241
@@ -340,7 +339,7 @@ Scheiding, vrouw
 - tenzij het huwelijk niet is geconsumeerd, 33:49
 Honden, 7:176
 Ezels (Ass), 2:259; 16:8; 31:19; 62:5; 74:50
-Drankje,
+Drankje
 - alcoholist, 2:219; 5:90
 - puur en wit, heerlijk, 37:45-46; 76:21
 - pure, verzegelde wijn, 83:25
@@ -363,13 +362,13 @@ Kwaad, 4:123; 10:27-30; 19:83; 59:15
 - veranderd, ten goede, 7:95
 - zij die hun verlangens volgen, 47:14, 16
 - daden die voor hen verfraaid zijn, 47:14
-Overmaat,
+Overmaat
 - verboden in voedsel, 5:87
 - in godsdienst, 4:171; 5:77-81
 Ogen, oren en huid zullen getuigen tegen zondaars, 41:20-23
 Ezra (Uzair) 9:30
 Het gezicht of gelaat van Allah, 2:115, 272; 6:52; 13:22; 18:28; 28:88; 30:38-39; 55:27; 76:9; 92:20
-Eerlijk ogend,
+Eerlijk ogend
 - Allah heeft voor ieder volk zijn eigen daden geschapen. 6:108
 Geloof (Overtuiging), 2:108; 3:167, 177, 193; 5:5; 9:23; 16:106; 30:56; 40:10; 42:52; 49:7, 11, 14; 52:21; 58:22; 59:9-10
 - verwerpers van, 3:116
@@ -379,7 +378,7 @@ Geloof (Overtuiging), 2:108; 3:167, 177, 193; 5:5; 9:23; 16:106; 30:56; 40:10; 4
 Fajr, S.89
 Falaq, S.113
 Onjuist gesprek over verzen uit de Koran, 6:68
-Valse goden,
+Valse goden
 - naast Allah, afgoden en zogenaamde partners 7:194-198; 16:20-21, 72, 86; 21:22, 24; 34:22, 27; 41:47-48; 46:5-6; 53:19-24; 71:23-24
 - beledig niet degenen die zij naast Allah aanbidden, 6:108
 - zie ook Taghut
@@ -394,7 +393,7 @@ Fidyah (losgeld), van vasten, 2:196
 - voor het bevrijden van de gevangenen, 8:67
 - losgeld aangeboden door ongelovigen, 3:91; 5:36,37; 10:54; 13:18
 Figuur 95:1
-Vechten,
+Vechten
 - in de weg van Allah, tegen de ongelovigen, 2:190-193, 244; 4:84, 95; 8:72, 74, 75; 9:12-16, 20, 24, 36, 123; 47:4; 61:11
 - geordend, 2:216
 - in heilige maanden, 2:217; 9:5
@@ -410,7 +409,7 @@ Fil, S.105
 Firdaus-paradijs, 18:107; 23:11
 Vuur, 56:71, 100:2
 Vlieg, 22:73
-Voedsel,
+Voedsel
 - wettig en onwettig (Halal en Haram), 2:168, 172, 173; 5:1, 3-5, 88; 6:118-119, 121, 145-146; 16:114-118; 23:51
 - geen zonde voor wat in het verleden is gedaan, 5:93
 - Overtreed de wet niet, 5:87
@@ -432,7 +431,7 @@ Vergeving, 2:109; 4:48, 110, 116; 5:74; 7:199; 39:53; 42:5, 40-43; 45:14; 53:32;
 - met elkaar wedijveren in het haasten naar elkaar toe, 57:21
 - slechte daden veranderd in goede daden 25:68-71
 Fraude (zie Verraad) 83:1-6
-Vrije wil,
+Vrije wil
 - beperkt door de wil van Allah, 6:107; 10:99; 74:56; 76:31; 81:28-29
 - wie wil, laat hem geloven en niet geloven, 18:29
 - neem een pad naar zijn Heer, 76:29
@@ -466,14 +465,14 @@ Goed (Dagen), 3:140
 Allah beloont degenen die dit doen met het beste, 53:31
 - Is er naast een goede beloning nog een andere beloning voor 55:60?
 - doe zoals Allah goed voor jullie is geweest, 28:77
-Goed en kwaad,
+Goed en kwaad
 - Het goede komt van Allah en het kwade komt uit jezelf.4:79
 - als je goed doet, doe je dat voor jezelf, en als je kwaad doet, doe je dat tegen jezelf. 17:7;41:46
 - Verdrijf het kwaad met het goede, 23:96; 28:54; 41:34
 - het goede en het kwade kunnen niet gelijk zijn,41:34
 - ieder mens zal geconfronteerd worden met alles wat hij gedaan heeft, 3:30
 - zie ook Muhsinun
-Goede daad,
+Goede daad
 - het openbaar maken of verbergen, 4:149
 - streven als in een wedstrijd, 5:48
 Evangelie, 3:3, 48, 65; 5:46-47, 66, 68, 110; 7:157; 9:111; 48:29; 57:27
@@ -490,7 +489,7 @@ In elke tegenspoed is er verlichting, 94:5-6
 Harun, (Aäron)
 Harut, 2:102
 Hashr, S.59
-Harten,
+Harten
 - verhard, 2:74; 22:53; 39:22; 57:16
 - verzegeld, 7:100-101; 40:35; 47:16; 63:3
 - behandeld, 17:46; 41:5
@@ -498,7 +497,7 @@ Harten,
 - verdeeld, 59:14
 - vervuld van angst, 22:35
 - in wiens lichaam een ziekte is, 2:10; 5:52; 8:49; 9:125; 22:53; 24:50; 33:12, 32, 60; 47:20, 29; 74:31
-Hemel,
+Hemel
 - Aan Allah behoren de onzichtbare dingen, 16:77
 - niet gemaakt voor een toneelstuk, 21:16
 - en de aarde werd samengevoegd, 21:30
@@ -528,7 +527,7 @@ Hel (het vuur, de laaiende vlam) 2:24, 119, 161, 166, 201; 3:10, 12, 116, 131, 1
 - brandende wanhoop en ijskoude duisternis in 38:57
 - ketting van 70 ellen, 69:32
 - verblijf voor een beperkte tijd, 78:23
-Hierna,
+Hierna
 - beter is het huis in de, 6:32; 7:169
 - wat het einde zal zijn in de 6:135
 - Zalimun zal niet succesvol zijn (in), 6:135
@@ -545,7 +544,7 @@ Hijr (Rocky Tract), 15:80-85
 Hijr, S.15
 Homoseksualiteit 26:165-166; 27:55; 29:28-29
 Paarden, 16:8
-Uur,
+Uur
 - de kennis daarvan berust alleen bij Allah, 7:187; 31:34; 33:63; 41:47; 68:26; 79:42-46
 - ineens zijn ze ermee geconfronteerd, 6:31; 7:187; 12:107; 43:66
 - komt over u, 6:40; 12:107; 20:15; 34:3
@@ -554,9 +553,9 @@ Uur,
 - aardbeving van de, 22:1
 - zal worden vastgesteld op de dag 30:12, 14
 - Hij komt zeker, daar bestaat geen twijfel over, 40:59; 45:32; 51:5-6
-- tekenen 21:96; 27:82; 43:61; 47:18; 54:1-2;
-- namen 1:3; 2:4; 3:55; 19:39; 30:56; 37:21; 40:15; 41:47; 42:7; 50:20; 56:1; 64:9; 69:1; 79:34; 80:33; 88:1; 101:1-3;
-- zal mensen verrassen 6:31; 7:187;
+- tekenen 21:96; 27:82; 43:61; 47:18; 54:1-2
+- namen 1:3; 2:4; 3:55; 19:39; 30:56; 37:21; 40:15; 41:47; 42:7; 50:20; 56:1; 64:9; 69:1; 79:34; 80:33; 88:1; 101:1-3
+- zal mensen verrassen 6:31; 7:187
 - De trompet zal geblazen worden op 6:73; 23:101; 39:68
 Huizen, etiquette bij het betreden ervan, 24:27-29
 Hud, 7:65-72; 11:50-60; 26:123-140; 46:21-26
@@ -565,7 +564,7 @@ Hujurat, S.49
 Humazah, S.104
 Hunain (slag), 9:25
 Hur (vrouwen in het Paradijs), 44:54; 52:20
-Huichelaars,
+Huichelaars
 - zeg: wij geloven in Allah en de Laatste Dag, maar in feite geloven we er niet in, 2:8
 - zichzelf bedriegen, 2:9
 - ziekte in hun hart, 2:10; 8:49; 22:53; 33:12; 47:29
@@ -609,8 +608,8 @@ Ilah, de enige, 2:163; 6:19; 16:22, 51; 23:91; 37:4; 38:65
 Onwettige seksuele gemeenschap; getuigenverklaringen, 4:15-18; 24:2, 19
 Illiyyun, 83:18-21
 Onrein (Najas) 9:28
-'Imran,
-- echtgenote van, 3:35;
+'Imran
+- echtgenote van, 3:35
 - dochter van, 66:12
 Onvermijdelijk, 69:1-3
 Infitar, S.82
@@ -629,7 +628,7 @@ IJzer, 57:25
 Jezus, zie Jezus
 Isaak, (Isaak) 2:133; 4:163; 6:84; 19:49;21:72; 29:27; 37: 112–113
 Ismaël (Ismaël), 2:125-129, 133; 4:163; 6:86; 19:54-55; 21:85; 38:48
-legt samen met zijn vader de fundamenten van de Ka'bah op (2:125-140);
+legt samen met zijn vader de fundamenten van de Ka'bah op (2:125-140)
 verhaal van het offer 37:100-113
 Islam, 3:19, 85; 5:3; 6:125; 39:22; 61:7
 - eerst van hen die zich als moslims onderwerpen, 6:14,163; 39:12
@@ -658,8 +657,8 @@ Jakob, (Ya'qub) 2:132-133; 4:163; 6:84;12:18; 19:49; 21:72; 29:27
 Jalut (zie Goliath)
 Jamarat, 2:200
 Jathiyah, S.45
-Jezus, Isa, zoon van Maria,
-- Moeder uitverkoren boven alle vrouwen ter wereld 3:42;
+Jezus, Isa, zoon van Maria
+- Moeder uitverkoren boven alle vrouwen ter wereld 3:42
 - getuigt op de dag van de opstanding, 4:159
 - blijde boodschap van de geboorte, 3:45-47; 19:22-23
 - Boodschapper aan de kinderen van Israël, 3:49-51
@@ -682,9 +681,9 @@ Jezus, Isa, zoon van Maria,
 - uiteenlopende meningen over, 43:65
 - niet meer dan een slaaf en een voorbeeld voor de kinderen van Israël, 43:59
 - blijde tijdingen van een Boodschapper wiens naam Ahmed zal zijn, 61:6
-- zijn maagdelijke geboorte, boodschap en wonderen 3:45-51; 19:16-38;
-- herinnerd aan Allah's gunsten 5:110-115;
-- ontkent goddelijk te zijn 5:116-120;
+- zijn maagdelijke geboorte, boodschap en wonderen 3:45-51; 19:16-38
+- herinnerd aan Allah's gunsten 5:110-115
+- ontkent goddelijk te zijn 5:116-120
 - mededogen en genade in de harten van zijn volgelingen 5:82; 57:27
 Joden en christenen, 2:140; 4:153-161, 171; 5:18
 - luister naar de leugen, 5:41-42
@@ -694,41 +693,41 @@ Joden en christenen, 2:140; 4:153-161, 171; 5:18
 Jibril (zie Gabriël)
 Jihad (Strijden, Streven) 2:216; 9:24; 22:78; 25:52
 Jinn, S.72
-Djinn, 6:100, 112; 15:27; 34:41; 38:37; 46:18,29; 55:33, 39;
-Djinn, geschapen uit vuur 15:25; 55:15;
-- gelovige en ongelovige djinn 72:1-15;
+Djinn, 6:100, 112; 15:27; 34:41; 38:37; 46:18,29; 55:33, 39
+Djinn, geschapen uit vuur 15:25; 55:15
+- gelovige en ongelovige djinn 72:1-15
 Sommigen geloofden in de boodschap van de Koran 46:29-32
 - Mensen en djinn zijn met een doel geschapen 51:56-58
 Job, 4:163; 6:84; 21:83-84; 38:41-44
-Johannes (Yahya, Johannes de Doper),
+Johannes (Yahya, Johannes de Doper)
 - blijde boodschap van, 3:38-41; 19:7-11; 21:90
 - rechtvaardig, 6:85
 - wijs, meelevend, plichtsgetrouw, 19:12-15
-Jona (Jonas of Yunus), 4:163; 6:86; 10:98; 21:87; 37:139-148;
+Jona (Jonas of Yunus), 4:163; 6:86; 10:98; 21:87; 37:139-148
 - (Dhu n-Nun) 21:87; 68:48-50
 Jozef (Yusuf), 6:84; 12:4-101
-- Beste verhalen 12:1-3;
-- de droom van de jonge Yusuf 12:4-6;
-- samenzwering door zijn broers 12:7-18;
-- verkocht als slaaf 12:19-20;
+- Beste verhalen 12:1-3
+- de droom van de jonge Yusuf 12:4-6
+- samenzwering door zijn broers 12:7-18
+- verkocht als slaaf 12:19-20
 - opgevoed in het huis van de premier van Egypte 12:21-22
-- De vrouw van de minister-president probeert hem te verleiden 12:23-29;
-- incident tijdens banket 12:30-32;
-- gaat naar de gevangenis 12:33-35;
-- de twee gevangenen 12:36-42;
-- Koningsdroom 12:43-53;
-- wordt premier 12:54-57;
-- Broeders komen naar hem toe voor benodigdheden 12:58-68;
-- neemt zijn broer Benjamin mee 12:69-82;
-- het hernieuwde verdriet van zijn vader 12:83-87;
-- onthult zijn ware identiteit 12:88-98;
-- oude droom komt uit 12:99-100;
+- De vrouw van de minister-president probeert hem te verleiden 12:23-29
+- incident tijdens banket 12:30-32
+- gaat naar de gevangenis 12:33-35
+- de twee gevangenen 12:36-42
+- Koningsdroom 12:43-53
+- wordt premier 12:54-57
+- Broeders komen naar hem toe voor benodigdheden 12:58-68
+- neemt zijn broer Benjamin mee 12:69-82
+- het hernieuwde verdriet van zijn vader 12:83-87
+- onthult zijn ware identiteit 12:88-98
+- oude droom komt uit 12:99-100
 - afsluitend gebed 12:101
 Judi, Mount, 11:44
 Jumu'ah, S.62
 Rechtvaardigheid (Adl), 2:282; 4:58, 135; 7:29; 16:90; 57:25 (
 - zie ook 4:65, 105
-Ka'bah,
+Ka'bah
 - gebouwd door Abraham, 2:125-127
 - geen wild doden, 5:94-96
 - asiel van veiligheid, 5:97
@@ -740,17 +739,17 @@ Kahf, S.18
 Kanz, 9:34-35
 Kauthar (rivier in het paradijs), 108:1
 Kauthar, S.108
-Sleutels,
+Sleutels
 van de hemel en de aarde, 39:63; 42:12
 van de Ghaib, 6:59
 Khaulah bint Tha labah, 58:1
-Doden,
+Doden
 - als iemand een mens doodt, doodt hij de hele mensheid, 5:32
 - Dood niemand, 17:33
 Vriendelijke woorden zijn beter dan liefdadigheid, 2:263
 Verwantschap, rechten van, 2:83, 177, 215; 4:7-9, 36; 8:41; 16:90; 17:26; 24:22; 29:8; 30:38; 42:23
 Kiraman-Ratibin, 82:11
-Kennis,
+Kennis
 - geen blad valt, of Hij weet het, 6:59
 - verloren zijn zij die hun kinderen uit dwaasheid hebben gedood, buiten, 6:140
 - van vijf dingen, alleen bij Allah, 31:34
@@ -760,14 +759,14 @@ Kursi, 2:255
 Lahab (Zie Masad), S.111
 Lail, S.92
 Lamp, 25:61; 67:5; 71:16; 78:13
-Talen,
+Talen
 - verschil in en kleuren van mannen, 30:22
 Lat, 53:19
 Wet, voorgeschreven, 5:48
 Wetten van Allah, 2:219; 98:3
 Leugenaars, 26:221-223
 Leven, want als iemand een mens redt, redt hij het leven van de hele mensheid (5:32).
-Het leven van deze wereld,
+Het leven van deze wereld
 - gekocht voor de prijs van Hiernamaals, 2:86
 - is slechts het genieten van bedrog, 3:185
 - verkoop de, voor het Hiernamaals, 4:74
@@ -779,7 +778,7 @@ Het leven van deze wereld,
 - wie wil, krijgt daarin; maar dan zal er geen deel zijn in het Hiernamaals, 11:15-16; 17:18; 42:20
 - die het heden liefhebben en het Hiernamaals verwaarlozen, 75:20-21; 76:27
 - u geeft de voorkeur aan 87:16
-Licht,
+Licht
 - manifest, 4:174
 - en duisternis, 6:1
 - gelijkenis van 24:35
@@ -794,7 +793,7 @@ Grenzen gesteld door Allah, 2:173, 187, 190, 230; 9:112; 58:4; 65:1; 78:22
 - toen ze de grens overschreden, (werden apen), 7:166
 - die de 9:112 in acht nemen
 Leeuw, 74:51
-Lening,
+Lening
 - leen aan Allah een goed geschenk, 2:245; 73:20
 - verhoogd verdeelstuk, 57:11, 18
 - verdubbeld, 64:17
@@ -812,7 +811,7 @@ Mahr (bruidsgeld), 2:229, 236-237; 4:4, 19-21, 24-25; 5:5; 33:50; 60:10-11
 Ma'idah, S.5
 Mekka (Bakka), 3:96;90:1-2
 - Stad van Veiligheid, 95:3
-Man,
+Man
 - generaties na generaties op aarde, 2:30; 6:165
 - benoemd tot opvolger, 35:39
 - dienst, 2:83-84, 88, 177; 4:1-36; 8:41; 16:90; 17:23-39; 24:22; 29:8-9; 30:38; 33:33; 42:23; 64:14; 70:22-35
@@ -877,7 +876,7 @@ Man,
 - overschrijdt alle grenzen, 96:6-7
 Manasik (plichten) van de hadj, 2:128, 200; 22:30 uur
 Manat, 53:20
-Mensheid,
+Mensheid
 - getuigen voorbij, 2:143
 - één gemeenschap, 2:213; 10:19
 - gemaakt uit één enkel paar, 4:1; 39:6; 49:13
@@ -887,7 +886,7 @@ Mensheid,
 - meest eerbiedwaardige van, 49:13
 - gemaakt tot volken en stammen, 49:13
 Manna en de kwartels, 2:57
-Manieren,
+Manieren
 - over het betreden van huizen, 24:27-29
 - thuis, 24:58-61
 - in de huizen van de Profeet, 33:53
@@ -910,7 +909,7 @@ Huwelijk, 2:232, 234
 - zij die niet de financiële middelen hebben om te trouwen, 24:33
 - echtgenotes die wettig werden verklaard aan de Profeet, 33:50-52
 - vóór de geslachtsgemeenschap, geen Iddah bij echtscheiding, 33:49
-Martelaren,
+Martelaren
 - niet dood, 2:154; 3:169
 - Verheug je in de genade en overvloed van Allah, 3:170-171
 - ontvang vergeving en barmhartigheid, 3:157-158
@@ -930,7 +929,7 @@ Masad, S.111
 Maun, S.107
 Ma'wa-paradijs, 53:15
 Meten en wegen, vol geven, 11:85; 17:35; 83:1-5
-Ontmoeting,
+Ontmoeting
 - met Allah, 6:31
 - van Great Day, 19:37
 - van het Hiernamaals, 30:16
@@ -960,7 +959,7 @@ Miraj, 17:1; 53:12
 Maanden, aantal van, 9:36-37
 Maan, 7:54; 10:5; 16:12; 22:18; 25:61; 36:39-40; 71:16; 91:2
 - verdeling van; 54:1
-Mozes,
+Mozes
 - en zijn volk, 2:51-61; 7:138-141,159-162; 14:5-8; 61:5
 - en Farao, 2:49-50; 17:101-103; 20:17-53, 56-79; 23:45-49; 25:31-42; 40:23-46; 43:46-56; 51:38-40; 73:16; 79:15-26
 - geleid door Allah, 6:84
@@ -970,23 +969,23 @@ Mozes,
 - gezien de Schrift, 17:2
 - Negen duidelijke tekenen, 7:133; 17:101
 - naar de samenvloeiing van de twee zeeën, 18:60-82
-- noodlottige ontmoeting bij de brandende struik 20:9-36; 27:7-14; 28:29-35;
+- noodlottige ontmoeting bij de brandende struik 20:9-36; 27:7-14; 28:29-35
 - geroepen en tot boodschapper benoemd, 19:51-53; 20:9-56
 - zijn jeugd, moeder en zus, 20:38-40; 28:7-13
 - magiërs bekeerd, 20:70-73; 26:46-52
 - in Madyan, 20:40; 28:22-28
 - het criterium toegekend, 21:48
 - en het mystieke vuur, 27:7-12; 28:29-35
-- doodt per ongeluk een Egyptenaar in de stad (28:14-21);
+- doodt per ongeluk een Egyptenaar in de stad (28:14-21)
 - kwam met duidelijke Ayat, 29:39
-- verhaal met Farao 7:103-137; 10:75-92; 11:96-99; 26:10-69;
-- negen tekenen voor Farao en zijn volk 7:130-133; 20:17-22; 17:101;
-- verslaat de magiërs van de farao 20:70-73; 26:46-52;
-- vlucht naar Midian en huwelijk 28:22-28;
-- ontvangt de Tabletten 7:142-154,
-- vraagt om Allah op de berg te mogen zien 7:142-145;
-- geëerd door Allah 33:69;
-- Allahs gunsten aan de Israëlieten 2:47-61;
+- verhaal met Farao 7:103-137; 10:75-92; 11:96-99; 26:10-69
+- negen tekenen voor Farao en zijn volk 7:130-133; 20:17-22; 17:101
+- verslaat de magiërs van de farao 20:70-73; 26:46-52
+- vlucht naar Midian en huwelijk 28:22-28
+- ontvangt de Tabletten 7:142-154
+- vraagt om Allah op de berg te mogen zien 7:142-145
+- geëerd door Allah 33:69
+- Allahs gunsten aan de Israëlieten 2:47-61
 - Israëlieten weigeren Jeruzalem binnen te gaan 5:20-29
 - geleid naar het rechte pad, 37:114-122
 - Schriftgedeelten van 53:36; 87:19
@@ -1074,7 +1073,7 @@ Mumtahanah, S.60
 Munafigun, S.63
 Moord, 2:178-179
 Mursalat, S.77
-Moslims,
+Moslims
 - eerst de 6:14, 163; 9:100; 39:12
 - Wie heeft het genoemd, 22:78
 - vergeving en een grote beloning voor hen die, 33:35-36
@@ -1086,7 +1085,7 @@ Nahl, S.16
 Najas (onrein) 9:28
 Najm, S.53
 Najwa (Zie Geheim)
-Namen,
+Namen
 Aan Hem behoren de Allermooiste toe, 7:180
 Aan Hem behoren de Besten, 17:110; 20:8; 59:24
 Noodzaak, als men daartoe gedwongen wordt, 2:173; 6:145
@@ -1099,10 +1098,10 @@ Nacht (als symbool) voor rust, 10:67
 - om van dienst te zijn, 14:32
 - Nacht van Al-Qadr (Besluit), 44:3-4; 97:1-5
 Nisa', S.4
-Noach, 3:33; 4:163; 6:84; 9:70; 10:71; 11:25, 32, 36, 42, 45-46, 48, 89; 17:3; 21:76; 25:37; 26:105; 29:14; 37:75; 51:46; 54:9; 69:11;
-- bespot 11:38;
+Noach, 3:33; 4:163; 6:84; 9:70; 10:71; 11:25, 32, 36, 42, 45-46, 48, 89; 17:3; 21:76; 25:37; 26:105; 29:14; 37:75; 51:46; 54:9; 69:11
+- bespot 11:38
 - de zondvloed (zware overstroming), 29:14
-- De ark en de zondvloed 7:59-69, 11:25-48; 23:23-31; 26:105-122; 71:1-28;
+- De ark en de zondvloed 7:59-69, 11:25-48; 23:23-31; 26:105-122; 71:1-28
 - onrechtvaardige zoon niet gered, 11:42-48
 - onrechtvaardige vrouw, 14:9; 17:3, 17; 19:58; 21:76; 22:42; 26:105-106, 116; 33:7; 37:75, 79; 38:12; 42:13; 40:5, 31; 42:13; 50:12; 53:52; 57:26; 66:10; 71:1, 21, 26
 Nuh, S.71
@@ -1136,7 +1135,7 @@ Parabels (gelijkenissen, voorbeelden, overeenkomsten)
 - regen, 10:24
 - schone, gemaaid oogst, 10:24
 - blind en doof, 11:24
-- Allah versus valse goden 13:14; 16:76;
+- Allah versus valse goden 13:14; 16:76
 - waarheid versus leugen 13:17
 - as waarop de wind woest waait, 14:18
 - mooie boom, 14:24-25
@@ -1164,7 +1163,7 @@ Parabels (gelijkenissen, voorbeelden, overeenkomsten)
 - ezel, 62:5
 - het water moest worden weggezogen, 67:30
 - mensen van de tuin, 68:17-33
-Paradijs,
+Paradijs
 - van Verblijfplaats, (Ma'wa Paradise), 53:15
 - Firdaus-paradijs, 18:107; 23:11
 - Tuinen waaronder rivieren stromen, 3:15, 198; 4:57; 5:119; 7:43; 9:72; 18:31; 22:23; 39:20; 57:12; 64:9; 98:8
@@ -1187,7 +1186,7 @@ Paradijs,
 - een rivier in het Paradijs, Kauthar, 108:1
 - rivieren van wijn, melk, heldere honing, 47:15
 - pure, verzegelde wijn, wit, heerlijk, 37:45-46; 56:18; 76:21; 83:25
-- kopje, gemengd met, Zanjabil, 76:17; 78:34;
+- kopje, gemengd met, Zanjabil, 76:17; 78:34
 - water, 76:5
 - schalen met goud en bekers, 43:71
 - zilveren vaten en kristallen bekers, 76:15-16
@@ -1234,21 +1233,21 @@ Paradijs,
 - echtgenotes in aangename schaduw, liggend op tronen, 36:55
 - jonge, volborstige meisjes van gelijke leeftijd, 78:33
 - onsterfelijke jongensdienaren om hen te dienen, als verspreide parels, 52:24; 56:17; 76:19
-- zo uitgestrekt als de hemel en de aarde 3:133, 57:21;
-- stromend water, koele schaduw, lekkernijen en pure mates 2:25; 4:57; 36:55-58; 37:40-49; 38:50-54; 44:51-57; 52:17-24; 69:19-24; 76:5-22;
-- beloning van de gelovigen 55:46-78; 56:10-40;
-- rivieren van honing, melk, water en wijn 47:15;
-- gebeden en groeten 10:9-10; 39:73-74;
-- begroet met vredesgroeten 13:23-24; 14:32;
-- eeuwig verblijf in gelukzaligheid 11:108;
-- nooit gevraagd om te vertrekken tussen 15:45 en 15:48;
-- licht dat voor hen en aan hun rechterkant scheen 57:12;
-- geen hitte of kou 76:13;
-- alle wensen vervuld 16:30-32; 41:31-32;
-- gouden armbanden en kleding van fijne zijde 18:30-31; 22:23-24; 44:51-53;
-- schalen met gouden bekers 43:67-73;
-- zilveren vaten en vruchten die binnen handbereik hangen 76:14-16;
-- liggend op tronen 15:47; 37:44; 52:20;
+- zo uitgestrekt als de hemel en de aarde 3:133, 57:21
+- stromend water, koele schaduw, lekkernijen en pure mates 2:25; 4:57; 36:55-58; 37:40-49; 38:50-54; 44:51-57; 52:17-24; 69:19-24; 76:5-22
+- beloning van de gelovigen 55:46-78; 56:10-40
+- rivieren van honing, melk, water en wijn 47:15
+- gebeden en groeten 10:9-10; 39:73-74
+- begroet met vredesgroeten 13:23-24; 14:32
+- eeuwig verblijf in gelukzaligheid 11:108
+- nooit gevraagd om te vertrekken tussen 15:45 en 15:48
+- licht dat voor hen en aan hun rechterkant scheen 57:12
+- geen hitte of kou 76:13
+- alle wensen vervuld 16:30-32; 41:31-32
+- gouden armbanden en kleding van fijne zijde 18:30-31; 22:23-24; 44:51-53
+- schalen met gouden bekers 43:67-73
+- zilveren vaten en vruchten die binnen handbereik hangen 76:14-16
+- liggend op tronen 15:47; 37:44; 52:20
 - gelovigen zullen hun Heer zien 75:22-23
 Ouders, vriendelijkheid jegens, 2:83, 215; 4:36; 16:90; 17:23; 29:8; 31:14; 46:15-17
 Partners van Allah, een leugen, 4:116; 10:34-35, 66; 16:86; 28:62-64, 71-75; 30:40; 42:21
@@ -1257,7 +1256,7 @@ Pad, 5:77; 16:94; 42:52-53; 43:43; 90:11-12
 - zie ook Weg
 Geduld, 3:186, 200; 10:109; 11:115; 16:126-127; 20:130; 40:55, 77; 42:43; 46:35; 70:5; 73:10
 - zoek hulp in gebed, 2:45, 153; 20:132; 50:39
-Geduldig,
+Geduldig
 - zal de beloning volledig ontvangen, 39:10
 - Allah is met hen die zijn, 8:46
 - en wees, 11:115
@@ -1266,7 +1265,7 @@ Geduldig,
 Vrede, neig naar, 8:61
 Parel en koraal, geconserveerd, 52:24; 55:22; 56:23
 Pen, 68:1; 96:4
-Persoon,
+Persoon
 - Allah legt geen lasten op die buiten Zijn macht liggen, 2:286; 7:42
 - Allah belast niemand, behalve naar vermogen, 23:62
 - nee, hij weet wat hij morgen zal verdienen en in welk land hij zal sterven, 31:34
@@ -1287,7 +1286,7 @@ Farao, 28:6; 40:24
 - het bouwen van een toren, 40:36-37
 - zie ook Mozes
 Het opstapelen van wereldse bezittingen, 102:1-4
-Eed (Bai'ah),
+Eed (Bai'ah)
 - voor de islam, 16:91
 - De eed (bai) aan Allah is voor de Boodschapper, 48:10
 - van de gelovigen, 48:18; 60:12
@@ -1323,17 +1322,17 @@ Profeten, 3:33-34, 146; 4:163; 5:20; 6:84-90; 23:23-50; 57:26
 - illegaal voor, 3:161
 - een vijand voor iedereen, 6:112; 25:31
 - zie ook Boodschappers
-Uitputting,
+Uitputting
 - tot Allah valt neer, wie zich ook in de hemel en op de aarde bevindt, en zo ook hun schaduwen, 13:15
 Voorziening, 10:59; 13:26; 14:32; 16:73; 34:36,39; 42:12; 51:57; 67:21; 79:33
 Psalmen 4:163
-Straf,
+Straf
 - uitstel van, 3:178
 - het afhakken van handen of voeten, 5:33
 - straf hen met hetzelfde als waarmee jullie zelf gestraft zijn, 16:126
 - van dit leven en het Hiernamaals, 24:19; 68:33
-Zuiverend,
-- lichamelijk, 4:43; 5:6;
+Zuiverend
+- lichamelijk, 4:43; 5:6
 - geestelijk (van onzuiverheden), 87:14; 91:9
 Qadar, 5:5; 64:11
 Qadr, S.97
@@ -1345,7 +1344,7 @@ Qarun (Korah), 28:76-82; 29:39
 Qasas, S.28
 Qiblah, 2:142-145, 149
 Qisas (Wet van gelijkheid in straf), 2:178-179, 194; 5:45; 16:126; 17:33; 22:60; 42:40
-Koran,
+Koran
 - beschreven, 13:31, 36, 37; 14:1; 56:77-80
 - is niet iets dat ooit door iemand anders dan Allah voortgebracht zou kunnen worden, 2:23; 10:38; 11:13; 17:88
 - als het van iemand anders dan Allah afkomstig was geweest, dan zouden er veel tegenstrijdigheden in zijn geweest. 4:82
@@ -1395,7 +1394,7 @@ Koran,
 - het reciteren van zuivere pagina's, 98:2
 - zie ook Boek; Openbaring
 Quraish, S.106
-Quraish,
+Quraish
 - ongelovigen van, 54:43-46, 51
 - het temmen van, 106:1-4
 Rabbijnen en monniken, 9:31, 34
@@ -1403,26 +1402,26 @@ Wedijver, streef ernaar zoals in een, in goede daden, 5:48
 Ra'd, S.13
 Rahman, S.55
 De kleding van gerechtigheid is beter, 7:26
-Regen,
+Regen
 - Allah's Geschenk, 56:68-70
 - van stenen, 27:58
 Ramadan, 2:185
 Ramy, 2:200
-Losgeld,
+Losgeld
 - nee, zal worden genomen, 57:15
 - aangeboden door ongelovigen, 3:91; 10:54; 13:18
-Fidyah, van vasten, 2:196;
+Fidyah, van vasten, 2:196
 - voor het bevrijden van de gevangenen, 8:67
 Rass, bewoners van de, 25:38; 50:12
-Vergelden,
+Vergelden
 - de dag van, 1:4; 37:20; 51:12; 56:56; 82:17-18; 96:7
 - ontkenners van, 107:1-7
 - van een kwaad is een kwaad dat daarmee gelijk is, 42:40
-Verzoening,
+Verzoening
 - wie vergeeft en goedmaakt, 42:40
 - tussen man en vrouw, 4:35
 - tussen gelovigen, 49:9-10
-Dossier,
+Dossier
 - een register met opschrift, 83:7-9, 18-21
 - elke natie zal geroepen worden tot zijn, 45:28-29
 - geschreven pagina's met daden van elke persoon,81:10
@@ -1432,7 +1431,7 @@ Dossier,
 - achter de rug, 84:10-15
 Opnemende engelen, 50:17-18, 23; 85:11
 Verlichting, ondanks de moeilijkheden, 94:5-6
-Religie,
+Religie
 - geen dwang in, 2:256
 - is de islam, 3:19
 - van Allah, 3:83-84
@@ -1449,7 +1448,7 @@ Religie,
 - voorouderlijk, 43:22-24
 Gedenkteken aan Allah, 63:9
 - daarin vinden harten rust, 13:28
-Berouw,
+Berouw
 - aanvaard indien het kwaad in onwetendheid is gedaan en men zich kort daarna bekeert, 4:17; 6:54
 - en het heeft geen effect als de slechte daden voortduren, 4:18
 - Hij aanvaardt en vergeeft zonden, 4:25
@@ -1457,7 +1456,7 @@ Uitstel voor het kwaad, 3:178; 10:11; 12:110; 14:42,44; 29:53-55; 86:15-17
 Opstanding, 2:28, 7:53; 14:21; 16:38-40; 22:5-7; 23:15-16; 31:28, 41:39, 46:33-34; 50:3, 20-29, 41-44; 64:7, 75:1-15; 79:10-12; 86:5-8
 - voorbeeld in het verhaal van Ezra 2:259
 - Abraham 2:260
-- Mensen van de grot 18:9-26;
+- Mensen van de grot 18:9-26
 - waarschuwing aan ontkenners van de opstanding 17:49-52, 17:97-100, 19:66-72, 37:11-27, 50:1-15, 80:17-42
 Opstandingsdag, 7:89; 20:100-101, 124
 - De Ware Dag, 78:39
@@ -1548,7 +1547,7 @@ Record gegeven achter de rug, 84:10-15
 - De hel zal nabij komen, 89:23
 - Het hellevuur zal worden ontketend en tot een felle vlam worden aangestoken, 81:11-12
 - Vergelding door middel van liefdadigheid zal een verzoening zijn, 5:45
-Openbaring,
+Openbaring
 - als je twijfelt, 2:23-24
 - afgeschaft of vergeten vers 2:106
 - juiste leiding, 3:73
@@ -1560,13 +1559,13 @@ Openbaring,
 - van het Boek is van Allah, 46:2
 - zie ook Boek en Koran
 Wraak voor het onderdrukkende onrecht dat hen is aangedaan, 42:39-43
-Beloning,
+Beloning
 - overeenkomstig de beste daden, en zelfs nog meer, 24:38; 29:7; 39:35
 - als beloning 25:15
 - Allah beloont degenen die goed doen met het beste, 53:31
 - voor het goede, geen andere beloning dan het goede, 55:60
 Riba (Zie woeker)
-Rechtvaardig,
+Rechtvaardig
 - bedrijf van de, 4:69
 - zal het land erven, 21:105
 - in het Paradijs, 51:15-19; 76:5-12
@@ -1585,7 +1584,7 @@ Ruh (ziel, geest), 15:29; 17:85; 58:22
 Rum, S.30
 Saba' (Seba), 27:22-44; 34:15-21
 Saba', S.34
-Sabbat,
+Sabbat
 - overtreders van, 2:65; 4:154; 7:163-166
 - alleen voorgeschreven voor, 16:124
 Sabianen 5:69; 22:17
@@ -1611,23 +1610,23 @@ Satan, 2:36, 168, 208, 268, 275; 3:36, 155, 175; 4:38, 60, 76, 83, 119-120; 5:80
 - heeft geen macht over gelovigen, 16:99-100
 - verspreidt onwaarheden, 22:52-53
 - is een vijand, 12:5; 35:6; 36:60
-- arrogantie 2:34; 7:11-27; 15:26-43; 17:61-65; 38:73-85;
-- een djinn 18:50-51;
-- Adams verleiding en val 7:20-23; 20:116-121;
-- heeft geen gezag over de gelovigen 16:98-100;
-- zijn doelpunt 35:6-8;
-- een gezworen vijand van de mensheid 12:5; 17:53;
-- zijn partij 53:14-19;
-- zijn handwerk 5:90-91;
-- ontmoedigt goede daden 2:268;
-- gelovigen zoeken hun toevlucht bij Allah tegen hem 7:200-202;
-- zijn plannen zijn zwak 4:76;
-- stelt zijn volgelingen teleur 8:48;
+- arrogantie 2:34; 7:11-27; 15:26-43; 17:61-65; 38:73-85
+- een djinn 18:50-51
+- Adams verleiding en val 7:20-23; 20:116-121
+- heeft geen gezag over de gelovigen 16:98-100
+- zijn doelpunt 35:6-8
+- een gezworen vijand van de mensheid 12:5; 17:53
+- zijn partij 53:14-19
+- zijn handwerk 5:90-91
+- ontmoedigt goede daden 2:268
+- gelovigen zoeken hun toevlucht bij Allah tegen hem 7:200-202
+- zijn plannen zijn zwak 4:76
+- stelt zijn volgelingen teleur 8:48
 - spreek tot zijn volgelingen in de hel 14:22
 - zie ook Iblis
 Schaal, succesvol, wiens wil zwaar zal zijn, 7:8-9
 - zie ook evenwicht
-Schrift,
+Schrift
 - volk van de (Joden en christenen), 2:109; 3:64-65, 69-72, 75, 98-99, 110, 113, 199; 4:47, 153-161; 5:59-60, 68; 98:1
 - wat ze verborgen hielden, 5:61-63
 - onder hen die op de goede weg zijn, 5:66
@@ -1635,7 +1634,7 @@ Schrift,
 Zeeën, 42:32-33; 45:12
 - de twee, 18:60; 25:53; 35:12; 55:19-20
 - wanneer, worden uitgebroken, 82:3
-Geheim (Najwa),
+Geheim (Najwa)
 - gesprekken, 4:114
 - raad van drie, 58:7
 - raadgevingen, 58:8, 10
@@ -1644,10 +1643,10 @@ Sekten en verdeeldheid in de religie, 6:15; 23:53; 30:32; 42:13-14; 43:65; 45:17
 Veiligheid, na de benauwdheid, zond Hij neer, 3:154
 Zaad, Wie laat het groeien, 56:63-67
 Zintuigen, 23:78
-Zeven, gecreëerd,
+Zeven, gecreëerd
 - hemelen, 2:29; 23:17; 65:12; 67:3; 71:15
 - en van de aarde zoals daarvan, 65:12
-Schaduw,
+Schaduw
 - voor Allah neerknielen, 13:15; 16:48
 verspreiding van, 25:45
 Shams, S.91
@@ -1679,12 +1678,12 @@ Slaven, 2:177-178; 4:25, 36, 92; 5:89; 24:33; 58:3; 90:13
 Slaap, iets om uit te rusten, 78:9
 Sodom, 29:31; 37:136
 Sodomie, 7:80-82; 11:77-83; 15:61-77; 29:28-29
-Salomo, 2:102; 4:163; 6:84;
-- helpt zijn vader David tot een rechtvaardiger oordeel te komen 21:78-82;
+Salomo, 2:102; 4:163; 6:84
+- helpt zijn vader David tot een rechtvaardiger oordeel te komen 21:78-82
 - en de mieren, 27:15-19
 - en de hop, 27:20-26
 - en de Koningin van Saba', 27:22-44; 34:15
-- Allahs gunsten over hem 34:12-14, 38:34-40;
+- Allahs gunsten over hem 34:12-14, 38:34-40
 - zijn liefde voor mooie paarden 38:30-33
 Zoon, geadopteerd, 33:4-5
 Ziel (geest, Ruh), 15:29; 17:85; 58:22
@@ -1704,8 +1703,8 @@ Oorlogsbuit, 8:41, 69; 48:15, 19-20; 48:15
 Spionage, 49:12
 Star, 53:1, 49; 86:1-4
 Sterren, 7:54; 15:16; 16:12, 16; 22:18; 25:61; 37:6-10; 56:75; 77:8; 81:2; 82:2
-Recht, Weg, 1:6,
-- enz. Pad, 6:153,
+Recht, Weg, 1:6
+- enz. Pad, 6:153
 - enz. Streven, 4:95; 8:72, 74, 75; 9:20, 24, 81; 22:78; 25:52; 29:69; 47:3; 60:1; 61:11
 Zogen, de term voor pleegmoeder, 2:233
 Lijden, armoede, verlies van gezondheid en rampen; voorspoed en rijkdom, 7:94-96
@@ -1775,7 +1774,7 @@ Woeker (Riba), 2:275-276, 278-280; 3:130;4:161; 30:39
 Sluier, een onzichtbare, 17:45-46
 Versluiering, 24:31; 33:59
 Verzen, Sab' Al-Mathani, 15:87
-Overwinning,
+Overwinning
 - gegeven door Allah, 48:1
 - met hulp van Allah, 61:13
 Deugden (zie Rechtvaardigheid; Gelovigen)
@@ -1792,7 +1791,7 @@ De Weg, de, 1:6; 42:52-53; 90:10
 - enz. gemakkelijk, maak het gemakkelijk, 87:8
 - zie ook Pad
 Wayfarer, 2:177, 215; 8:41; 17:26; 29:29; 30:38; 59:7
-Rijkdom,
+Rijkdom
 - die bijeengekomen is, 104:2-4
 - Uitgaven doen voor de zaak van Allah (zie Uitgaven)
 Rijkdom en kinderen, versiering van het leven in deze wereld, 18:46
@@ -1810,7 +1809,7 @@ Wijn (in het paradijs)
 - rivieren van, 47:15
 - puur verzegeld, 83:25
 Verlang niet naar de dingen waarin Allah sommigen boven anderen heeft doen uitblinken. 4:32
-Getuigen,
+Getuigen
 - naar het verbond der profeten, 3:81
 - over de mensheid, 2:143; 22:78
 - voor een contract, 2:282
@@ -1820,7 +1819,7 @@ Getuigen,
 - handen en benen zullen getuigen, 36:65
 - de mens tegen zichzelf, 75:14
 Dag van het Getuigen en de Getuigde Dag, 85:3
-Vrouwen,
+Vrouwen
 - zijn een akker voor jullie, 2:223
 - dekking voor jou, 2:187
 - van je eigen soort, 16:72
@@ -1832,7 +1831,7 @@ Vrouwen, 2:222-223; 4:15, 19-22, 34, 127
 - zich niet duidelijk maken in het geschil, 43:17-18
 Hout, bewoners van de, 15:78; 38:13; 50:14
 - zie ook Aikah; Madyan 26:176-191
-Wereld, leven hiervan,
+Wereld, leven hiervan
 - is niets dan spel en vermaak, 6:32; 29:64; 47:36; 57:20
 - misleidt mensen, 6:130
 - weinig is het genot van het hiernamaals, 9:38; 13:26; 28:60-61
@@ -1844,7 +1843,7 @@ Onrechtplegers, 11:18-22, 101-104, 116-117; 39:47
 - zie ook Ongelovigen
 Wudu' (rituele wassing), 4:43; 5:6
 Yaghuth, 71:23
-Yahya (John),
+Yahya (John)
 - blijde boodschap van, 3:39; 21:90
 - rechtvaardig, 6:85
 - wijs; meelevend; plichtsgetrouw, 19:12-15
@@ -1865,52 +1864,52 @@ Zihar, 33:4; 58:2-4
 Zukhruf, S.43
 Zumar, S.39
 Basisprincipes
-- Het geloof is volmaakt 5:3;
-- de enige Weg die door Allah wordt aanvaard 3:19, 85;
-- geen dwang om de islam te aanvaarden 2:256;
-- één religie met verschillende geloofsovertuigingen en wetboeken 5:48; 22:67-70; 42:13-14;
-- Profeten van de islam 2:135-136; 3:84; 4:163-165;
-- geboden (heb vertrouwen in Allah en doe het goede) 4:36; 6:151-154; 17:23-39; 18:107-108;
-- vijf doelstellingen van de sharia: het beschermen van het geloof 5:54;
-- het beschermen van leven 5:32;6:151;
-- het beschermen van vermogen 5:38;
-- het beschermen van de eer 5:5;24:4;
+- Het geloof is volmaakt 5:3
+- de enige Weg die door Allah wordt aanvaard 3:19, 85
+- geen dwang om de islam te aanvaarden 2:256
+- één religie met verschillende geloofsovertuigingen en wetboeken 5:48; 22:67-70; 42:13-14
+- Profeten van de islam 2:135-136; 3:84; 4:163-165
+- geboden (heb vertrouwen in Allah en doe het goede) 4:36; 6:151-154; 17:23-39; 18:107-108
+- vijf doelstellingen van de sharia: het beschermen van het geloof 5:54
+- het beschermen van leven 5:32;6:151
+- het beschermen van vermogen 5:38
+- het beschermen van de eer 5:5;24:4
 - het beschermen van iemands denkvermogen 5:90.
 Geloof in Allah 2:255
-- Goddelijke eigenschappen, Schone Namen 57:1-6; 59:22-24; 85:13-16; 112:1-4;
-- de enige God die het waard is aanbeden te worden 1:1-4; 2:285; 6:3; 43:84;
-- alle macht behoort Hem toe 3:26; Zijn troon ('Arsh) 7:54; 11:7;
-- Zijn Kursi (voetbank of stoel) 2:255;
-- ontelbare gunsten aan de mensheid 14:32-34; 2:164; 16:2-93; 31:20; 55:1-25;
-- geeft leven en veroorzaakt de dood 44:8; 53:44; 57:2; 67:2;
-- brengt vreugde en verdriet teweeg 53:43;
-- geeft ruime of beperkte voorzieningen 13:26; 17:30; 29:62;
-- Beste van alle juryleden 95:8;
-- De Meest Barmhartige van de barmhartigen 12:92;
-- houdt van de rechtvaardigen 85:14;
-- vol van vergeving en streng in straf 13:6, 40:3;
-- de Eerste en de Laatste 57:3;
-- alle eer en macht behoort Hem toe 35:10;
-- kent het onbekende en ziet het onzichtbare 6:59,73; 9:94, 105; 13:8-10; 31:34; 32:6; 34:48; 35:38; 39:46; 49:18; 59:22; 62:8; 64:18; 72:26; 74:31; 87:7;
-- weet het beste wat er in het hart verborgen is 5:7; 11:5; 31:23;
-- weet wat er is gebeurd en wat er nog gaat komen 2:255;
-- heeft alles opgeschreven in het verslag (of de bewaard gebleven tablet) 6:38; 13:39; 36:12;
-- in staat om alles te doen 2:117; 3:189; 8:41; 9:116; 11:4; 16:40; 40:68; 41:39; 42:49; 57:2;
-- Zijn oneindige macht 3:26-27; 24:45; 31:28-30;
-- Hij schiep de hemel en de aarde in zes dagen en werd nooit moe (46:33; 50:38);
-- schept met het woord 'Wees!' 36:81-83;
-- Hij is nooit onrechtvaardig geweest jegens Zijn schepping 3:108; 4:40; 17:71; 21:47; 22:10; 26:209; 40:31; 41:46; 45:22; 50:29; 64:11; 78:6-16;
-- alles onderwerpt zich aan Zijn wil 3:83; 22:18; 30:26;
-- allen hebben Hem nodig 11:6; 35:15; 55:29;
-- Vertrouw op Hem 10:84-85; 12:67; 25:58;
-- vormen van goddelijke communicatie 42:51;
-- het is de moeite waard om de volgende passages in gedachten te houden: 2:21; 3:102; 4:1; 33:70-71; 59:18;
-- wijsheid is een gave van Hem 2:269;
-- Hij heeft niemand nodig 3:97; 6:133; 112:2;
-- niet één in een Drie-eenheid 4:171;
-- heeft geen partner 6:101;
-- heeft geen kinderen 10:68; 19:35; 43:81; 72:3; 112:3;
-- heeft geen partners of geassocieerde goden 6:94; 7:191-195; 46:4-5;
+- Goddelijke eigenschappen, Schone Namen 57:1-6; 59:22-24; 85:13-16; 112:1-4
+- de enige God die het waard is aanbeden te worden 1:1-4; 2:285; 6:3; 43:84
+- alle macht behoort Hem toe 3:26; Zijn troon ('Arsh) 7:54; 11:7
+- Zijn Kursi (voetbank of stoel) 2:255
+- ontelbare gunsten aan de mensheid 14:32-34; 2:164; 16:2-93; 31:20; 55:1-25
+- geeft leven en veroorzaakt de dood 44:8; 53:44; 57:2; 67:2
+- brengt vreugde en verdriet teweeg 53:43
+- geeft ruime of beperkte voorzieningen 13:26; 17:30; 29:62
+- Beste van alle juryleden 95:8
+- De Meest Barmhartige van de barmhartigen 12:92
+- houdt van de rechtvaardigen 85:14
+- vol van vergeving en streng in straf 13:6, 40:3
+- de Eerste en de Laatste 57:3
+- alle eer en macht behoort Hem toe 35:10
+- kent het onbekende en ziet het onzichtbare 6:59,73; 9:94, 105; 13:8-10; 31:34; 32:6; 34:48; 35:38; 39:46; 49:18; 59:22; 62:8; 64:18; 72:26; 74:31; 87:7
+- weet het beste wat er in het hart verborgen is 5:7; 11:5; 31:23
+- weet wat er is gebeurd en wat er nog gaat komen 2:255
+- heeft alles opgeschreven in het verslag (of de bewaard gebleven tablet) 6:38; 13:39; 36:12
+- in staat om alles te doen 2:117; 3:189; 8:41; 9:116; 11:4; 16:40; 40:68; 41:39; 42:49; 57:2
+- Zijn oneindige macht 3:26-27; 24:45; 31:28-30
+- Hij schiep de hemel en de aarde in zes dagen en werd nooit moe (46:33; 50:38)
+- schept met het woord 'Wees!' 36:81-83
+- Hij is nooit onrechtvaardig geweest jegens Zijn schepping 3:108; 4:40; 17:71; 21:47; 22:10; 26:209; 40:31; 41:46; 45:22; 50:29; 64:11; 78:6-16
+- alles onderwerpt zich aan Zijn wil 3:83; 22:18; 30:26
+- allen hebben Hem nodig 11:6; 35:15; 55:29
+- Vertrouw op Hem 10:84-85; 12:67; 25:58
+- vormen van goddelijke communicatie 42:51
+- het is de moeite waard om de volgende passages in gedachten te houden: 2:21; 3:102; 4:1; 33:70-71; 59:18
+- wijsheid is een gave van Hem 2:269
+- Hij heeft niemand nodig 3:97; 6:133; 112:2
+- niet één in een Drie-eenheid 4:171
+- heeft geen partner 6:101
+- heeft geen kinderen 10:68; 19:35; 43:81; 72:3; 112:3
+- heeft geen partners of geassocieerde goden 6:94; 7:191-195; 46:4-5
 - niets is met Hem te vergelijken 42:11; 112:4
 Om na te denken over de wonderen van Zijn schepping 3:190; 6:99; 10:5-6; 13:3-4; 16:10-16; 88:17-20
 Tekenen in de schepping 2:164; 6:95-99; 7:57-58; 10:5-6; 13:2-4; 16:10-13, 65-69, 79; 23:27-30; 27:60-65; 30:19-25; 50:6-11
@@ -1931,21 +1930,21 @@ Tekenen in de schepping 2:164; 6:95-99; 7:57-58; 10:5-6; 13:2-4; 16:10-13, 65-69
 - motregen, hagel en regen 2:265; 6:99; 24:43; 50:9-11
 - donder en bliksem 13:12-13
 Wetenschappelijke referenties
-- mensen zijn geschapen uit mannelijke en vrouwelijke geslachtscellen 76:2;
-- Vorming en ontwikkelingsfasen van een embryo 22:5; 23:12-14;
-- foetus in drie lagen duisternis 39:6;
-- brak water 25:53-54; 35:12; 55:19-20;
-- windbestuiving 15:22;
-- vingerafdrukken 75:3-4;
-- bergen als pinnen 78:7;
-- ijzer neergezonden 57:25;
-- pijnreceptoren 4:56;
-- de zon als stralingsbron en de maan als weerkaatst licht 10:5;
-- maansplitsing 54:1;
-- de hemel als een goed beschermd bladerdak 21:32;
-- alle wezens zijn uit water geschapen 21:30; 24:45;
-- mieren communiceren 27:17-19;
-- interne golven 24:40;
+- mensen zijn geschapen uit mannelijke en vrouwelijke geslachtscellen 76:2
+- Vorming en ontwikkelingsfasen van een embryo 22:5; 23:12-14
+- foetus in drie lagen duisternis 39:6
+- brak water 25:53-54; 35:12; 55:19-20
+- windbestuiving 15:22
+- vingerafdrukken 75:3-4
+- bergen als pinnen 78:7
+- ijzer neergezonden 57:25
+- pijnreceptoren 4:56
+- de zon als stralingsbron en de maan als weerkaatst licht 10:5
+- maansplitsing 54:1
+- de hemel als een goed beschermd bladerdak 21:32
+- alle wezens zijn uit water geschapen 21:30; 24:45
+- mieren communiceren 27:17-19
+- interne golven 24:40
 Levende wezens
 - engelen 39:75
 - mensen (een autoriteit op aarde) 2:30; 6:165; 16:4
@@ -1978,366 +1977,366 @@ Levende wezens
 - spin 29:41
 - anderen die ons onbekend zijn 16:8
 Planten en vruchten 6:99; 13:4; 16:11; 36:33-35
-- bananen 56:29,
-- datums 19:25,
-- kruiden, komkommers, knoflook, linzen en uien 2:61,
-- druiven 80:28,
-- olijven 6:99,
-- figuur 95:1,
-- granaatappels 55:68,
+- bananen 56:29
+- datums 19:25
+- kruiden, komkommers, knoflook, linzen en uien 2:61
+- druiven 80:28
+- olijven 6:99
+- figuur 95:1
+- granaatappels 55:68
 - squash 37:146
 Geloof in Mohammed
-- Eigenschappen, alleen een profeet 3:144; 6:50; 7:188; 18:110;
-- om de waarheid te brengen 2:119; 35:24; 42:48;
-- zegel van de profeten 33:40;
-- nobel karakter 3:159; 68:4;
-- een rolmodel 33:21;
-- als een gunst aan de gelovigen 3:164;
-- een genade voor de hele wereld 21:107;
-- een universele boodschapper 4:170; 7:157-158; 34:28;
-- leidt naar het Rechte Pad 42:52-53;
-- geeft om mensen 9:129;
-- als getuige op de Dag des Oordeels 4:42; 16:89;
-- ongeletterde profeet 7:157-158; 29:48; 62:2;
-- geprofeteerd in de Torah en het Evangelie 7:157;
+- Eigenschappen, alleen een profeet 3:144; 6:50; 7:188; 18:110
+- om de waarheid te brengen 2:119; 35:24; 42:48
+- zegel van de profeten 33:40
+- nobel karakter 3:159; 68:4
+- een rolmodel 33:21
+- als een gunst aan de gelovigen 3:164
+- een genade voor de hele wereld 21:107
+- een universele boodschapper 4:170; 7:157-158; 34:28
+- leidt naar het Rechte Pad 42:52-53
+- geeft om mensen 9:129
+- als getuige op de Dag des Oordeels 4:42; 16:89
+- ongeletterde profeet 7:157-158; 29:48; 62:2
+- geprofeteerd in de Torah en het Evangelie 7:157
 - voorspeld door Jezus 61:6
 Uitdagingen waarmee de Profeet ( ﷺ ) te maken kreeg
-- zinloze eisen van heidenen 8:32; 15:7; 17:89-93; 25:7-8;
-- valse beschuldigingen 10:2; 11:13; 21:5; 24:11-26; 25:4-6; 37:36; 38:4; 52:29-30;
-- pogingen tot moord op hem 8:30; 9:74;
-- waarschuwing aan hen die hem kwaad doen of zich tegen hem verzetten 4:115; 8:13; 9:61; 15:95; 33:57; 47:32; 96:9-19;
-- opdracht om geduldig te reageren op ontkenning 20:130; 30:60; 46:35; 70:5;
+- zinloze eisen van heidenen 8:32; 15:7; 17:89-93; 25:7-8
+- valse beschuldigingen 10:2; 11:13; 21:5; 24:11-26; 25:4-6; 37:36; 38:4; 52:29-30
+- pogingen tot moord op hem 8:30; 9:74
+- waarschuwing aan hen die hem kwaad doen of zich tegen hem verzetten 4:115; 8:13; 9:61; 15:95; 33:57; 47:32; 96:9-19
+- opdracht om geduldig te reageren op ontkenning 20:130; 30:60; 46:35; 70:5
 - bevolen en gerustgesteld door Allah 5:67; 93:1-11; 94:1-8
 Lessen uit het leven van de Profeet ( ﷺ )
-- vanaf zijn emigratie (hijrah) tot de Slag bij Badr 3:121-129; 8:42-44; 8:65-71;
-- Slag bij Uhud 3:151-180;
-- Slag om de loopgraven 33:9-27;
-- Slag bij Hunain 9:25-27;
-- Medina 9:40; Tabuk 9:38-123;
-- Banu An-Naḍîr 59:2-6;
-- Hamra' Al-Asad 3:172-175;
+- vanaf zijn emigratie (hijrah) tot de Slag bij Badr 3:121-129; 8:42-44; 8:65-71
+- Slag bij Uhud 3:151-180
+- Slag om de loopgraven 33:9-27
+- Slag bij Hunain 9:25-27
+- Medina 9:40
+- Tabuk 9:38-123
+- Banu An-Naḍîr 59:2-6
+- Hamra' Al-Asad 3:172-175
 - Wapenstilstand van Hoedaibiyah 48:1-7; 48:10-29
 Eerbewijzen toegekend aan de Profeet ( ﷺ )
-- Allah en Zijn engelen zegenen hem 33:56;
-- nachtelijke reis van Mekka naar Jeruzalem 17:1;
-- reis naar de hemel 53:1-18;
-- geëerd in dit leven en het volgende 17:79; 66:8; 108:1;
-- Gehoorzaamheid aan hem is gehoorzaamheid aan Allah 4:80;
-- beloning voor gehoorzaamheid aan Allah en Zijn Boodschapper 4:69;
-- zijn familie werd gezuiverd 33:33-34;
-- ziet Gabriël in zijn ware gedaante 53:1-18;
-- gelovigen kregen de opdracht hem te gehoorzamen 59:7;
+- Allah en Zijn engelen zegenen hem 33:56
+- nachtelijke reis van Mekka naar Jeruzalem 17:1
+- reis naar de hemel 53:1-18
+- geëerd in dit leven en het volgende 17:79; 66:8; 108:1
+- Gehoorzaamheid aan hem is gehoorzaamheid aan Allah 4:80
+- beloning voor gehoorzaamheid aan Allah en Zijn Boodschapper 4:69
+- zijn familie werd gezuiverd 33:33-34
+- ziet Gabriël in zijn ware gedaante 53:1-18
+- gelovigen kregen de opdracht hem te gehoorzamen 59:7
 - etiquette van het spreken tot hem 49:1-5
-- etiquette bij een bezoek aan hem 33:53;
-- etiquette in de omgang met zijn vrouwen 33:53;
-- Allah is tevreden met hem en zijn metgezellen 9:100; 9:117;
+- etiquette bij een bezoek aan hem 33:53
+- etiquette in de omgang met zijn vrouwen 33:53
+- Allah is tevreden met hem en zijn metgezellen 9:100; 9:117
 - uitmuntendheid van zijn geloofsgemeenschap 2:143; 3:110
-Gebed (salah) 2:45; 9:103; 51:18; 70:22-23; 75:31; 96:10; 108:2;
-- Vrijdagse gemeente 62:9;
-- Gebedsrichting (qiblah) 2:144; 2:149-150;
-- zou iemand moeten weerhouden van slechte daden 29:45;
-- tijden 11:114; 17:78; 17:79; 20:130; 24:36; 24:58; 30:17-18; 32:16; 38:18; 50:39-40; 51:17; 52:48-49; 73:2-4; 76:25-26;
-- terwijl je in gevaar bent of op reis bent 2:239; 4:101-102;
-- waarschuwing aan hen die het gebed verwaarlozen 19:59; 74:38-47; 107:5-7;
+Gebed (salah) 2:45; 9:103; 51:18; 70:22-23; 75:31; 96:10; 108:2
+- Vrijdagse gemeente 62:9
+- Gebedsrichting (qiblah) 2:144; 2:149-150
+- zou iemand moeten weerhouden van slechte daden 29:45
+- tijden 11:114; 17:78; 17:79; 20:130; 24:36; 24:58; 30:17-18; 32:16; 38:18; 50:39-40; 51:17; 52:48-49; 73:2-4; 76:25-26
+- terwijl je in gevaar bent of op reis bent 2:239; 4:101-102
+- waarschuwing aan hen die het gebed verwaarlozen 19:59; 74:38-47; 107:5-7
 - gebeden van hypocrieten 4:142; 9:54
-Reiniging, rituele wassing (wudu) 5:6;
-- volledige wassing (ghusl) 2:222; 4:43;
+Reiniging, rituele wassing (wudu) 5:6
+- volledige wassing (ghusl) 2:222; 4:43
 - droge rituele wassing (tayammum) 4:43; 5:6
 Smeekbeden (du'a)
-- van Abraham 2:126-129; 2:126-129; 14:35-41; 26:83-89;
-- Adam en Eva 7:23;
-- Jezus 5:114;
-- Job 21:83; 21:83;
-- Jona 21:87;
-- Jozef 12:33; 12:101;
-- Mozes 10:88-89; 20:25-35;
+- van Abraham 2:126-129; 2:126-129; 14:35-41; 26:83-89
+- Adam en Eva 7:23
+- Jezus 5:114
+- Job 21:83; 21:83
+- Jona 21:87
+- Jozef 12:33; 12:101
+- Mozes 10:88-89; 20:25-35
 - Mohammed 17:80; 20:114
-- Noach 23:26; 26:117-118; 54:9-10; 71:26; 71:28;
-- Salomo 38:35;
-- Shuaib 7:89;
-- Zacharia 3:38; 19:2-6; 21:89-90;
-- engelen 40:8-9;
-- Maria's moeder 3:35-36;
-- De vrouw van de farao 66:11;
-- De magiërs van de farao 7:126;
-- Koning Saul en de gelovigen met hem 2:250;
-- de gelovigen van de Kinderen van Israël 10:85-86;
-- de mensen van de grot 18:10;
-- de rechtvaardigen 2:285-286; 3:8-9; 3:16; 3:147; 3:191-194; 25:74; 59:10;
+- Noach 23:26; 26:117-118; 54:9-10; 71:26; 71:28
+- Salomo 38:35
+- Shuaib 7:89
+- Zacharia 3:38; 19:2-6; 21:89-90
+- engelen 40:8-9
+- Maria's moeder 3:35-36
+- De vrouw van de farao 66:11
+- De magiërs van de farao 7:126
+- Koning Saul en de gelovigen met hem 2:250
+- de gelovigen van de Kinderen van Israël 10:85-86
+- de mensen van de grot 18:10
+- de rechtvaardigen 2:285-286; 3:8-9; 3:16; 3:147; 3:191-194; 25:74; 59:10
 - de onderdrukten 4:75
 Verzen van de prostratie
 - sajadat, meervoud van sajdah, 7:206; 13:15; 16:49; 17:109; 19:58; 22:18; 22:77; 25:60; 27:26; 32:15; 38:24; 41:37; 53:62; 84:21; 96:19
-Aalmoesbelasting (zakah), als verplichting 2:110; 2:177; 2:277; 6:141;
-- een van de eigenschappen van de gelovigen 22:41; 23:4; 51:19;
+Aalmoesbelasting (zakah), als verplichting 2:110; 2:177; 2:277; 6:141
+- een van de eigenschappen van de gelovigen 22:41; 23:4; 51:19
 - ontvangers 9:60
 - liefdadigheid (sadaqah) 2:177; 2:261-263; 2:267-274; 3:92; 63:10
 - waarschuwing aan hen die 3:180; 9:34; 47:38 achterhouden
 Vasten (sawm)
-- in Ramadan 2:183-185;
-- uren vasten 2:187;
-- vrijstellingen 2:184-185;
-- intieme relaties gedurende de nacht voorafgaand aan het vasten 2:187;
+- in Ramadan 2:183-185
+- uren vasten 2:187
+- vrijstellingen 2:184-185
+- intieme relaties gedurende de nacht voorafgaand aan het vasten 2:187
 - vasten tijdens de pelgrimstocht 2:196
-Pelgrimage (hajj),
-- een verplichting voor hen die het zich kunnen veroorloven 3:97;
-- rituelen en voorschriften 2:158; 2:189; 2:196-203; 5:2; 22:26-37;
-- offergaven 2:196; 22:36-37;
-- verbod op jagen op het land tijdens een pelgrimstocht 5:1; 5:94-95;
+Pelgrimage (hajj)
+- een verplichting voor hen die het zich kunnen veroorloven 3:97
+- rituelen en voorschriften 2:158; 2:189; 2:196-203; 5:2; 22:26-37
+- offergaven 2:196; 22:36-37
+- verbod op jagen op het land tijdens een pelgrimstocht 5:1; 5:94-95
 - Toelaatbaarheid van de jacht op zee 5:96
 - Kleine bedevaart ('umrah) 2:158; 2:196
 Geloofsgemeenschappen
-- Moslims 2:132-136; 3:64; 3:84; 5:111; 22:77-78; 33:35; 41:33; 43:67-70; 72:14-15;
-- elkaars beschermers 3:28; 9:71;
-- Christenen 2:62; 2:111-140; 4:171-172; 5:14-19; 5:82-86; 5:116-120; 9:30-31; 22:17;
-- Joden 2:62, 111-140; 5:44-45; 6:146; 22:17; 62:6-8;
-- Kinderen van Israël 2:40-103, 122-123, 246-251; 3:49; 3:93-94; 5:12-13, 20-26, 32, 70-71, 78-81; 7:137-141, 148-153, 159-171; 10:83-93; 14:5-8; 17:2-8, 104; 20:80-98; 26:52-67, 197; 27:76; 44:23-33; 45:16-17; 46:10; 61:5-6;
+- Moslims 2:132-136; 3:64; 3:84; 5:111; 22:77-78; 33:35; 41:33; 43:67-70; 72:14-15
+- elkaars beschermers 3:28; 9:71
+- Christenen 2:62; 2:111-140; 4:171-172; 5:14-19; 5:82-86; 5:116-120; 9:30-31; 22:17
+- Joden 2:62, 111-140; 5:44-45; 6:146; 22:17; 62:6-8
+- Kinderen van Israël 2:40-103, 122-123, 246-251; 3:49; 3:93-94; 5:12-13, 20-26, 32, 70-71, 78-81; 7:137-141, 148-153, 159-171; 10:83-93; 14:5-8; 17:2-8, 104; 20:80-98; 26:52-67, 197; 27:76; 44:23-33; 45:16-17; 46:10; 61:5-6
 - Mensen van het Boek (voornamelijk Joden en christenen) 2:109; 3:64-115, 199; 4:123-172; 5:15-77; 6:20-21; 13:36; 28:52-55; 29:46-47; 57:16, 28-29; 74:31; 98:1-5
 Moslims mogen eten van dieren die door hen zijn geofferd en met hun vrouwen trouwen (5:5).
-- voedsel dat Joden verboden is 6:146;
-- Sabeërs 2:62; 22:17;
-- Wijzen 22:17;
-- polytheïsten (heidenen, afgodendienaars) 3:186; 6:148; 9:6, 17; 10:28; 16:86; 22:17; 53:19-30;
-- heidense bijgelovige praktijken 2:189; 5:103; 6:138-144;
+- voedsel dat Joden verboden is 6:146
+- Sabeërs 2:62; 22:17
+- Wijzen 22:17
+- polytheïsten (heidenen, afgodendienaars) 3:186; 6:148; 9:6, 17; 10:28; 16:86; 22:17; 53:19-30
+- heidense bijgelovige praktijken 2:189; 5:103; 6:138-144
 - atheïsten 52:35-36
 Heidense praktijken verboden
-- het levend begraven van dochters 16:58-59; 81:8-9;
-- het doden van kinderen uit angst voor armoede 6:137; 6:151; 17:31;
-- fluiten en klappen rond de Ka'bah 8:35;
-- het opdragen van kamelen aan afgoden 5:103; 6:136;
-- offers brengen in de naam van afgoden 6:121;
-- zihar scheiding 33:4; 58:2-4;
-- ila' (gedurende meer dan vier maanden) 2:226-227;
-- loting voor beslissingen 5:3;
-- naakt rond de Ka'bah lopen 7:26-28;
+- het levend begraven van dochters 16:58-59; 81:8-9
+- het doden van kinderen uit angst voor armoede 6:137; 6:151; 17:31
+- fluiten en klappen rond de Ka'bah 8:35
+- het opdragen van kamelen aan afgoden 5:103; 6:136
+- offers brengen in de naam van afgoden 6:121
+- zihar scheiding 33:4; 58:2-4
+- ila' (gedurende meer dan vier maanden) 2:226-227
+- loting voor beslissingen 5:3
+- naakt rond de Ka'bah lopen 7:26-28
 - het betreden van huizen via achterdeuren na een pelgrimstocht 2:189
-Voorwerpen van verering,
-- engelen (onder sommige heidense Arabieren) 34:40;
-- Al-Aykah (onder de mensen van Shu'aib) 26:176;
-- Ba'l (onder het volk van Elia 37:125;
-- Jezus (in het christendom) 5:17;
-- afgoden (onder het volk van Abraham) 21:52-53;
-- de afgoden van Lat, 'Uzza en Manat (onder Arabische heidenen) 53:19-20;
-- de afgoden van Wadd, Suwa', Yaghuth, Ya'uq en Nasr (onder het volk van Noach) 71:23;
-- de zon (de inwoners van Sheba) 27:24;
-- Sirius (onder sommige heidense Arabieren) 53:49;
-- Farao (in het oude Egypte) 26:29; 28:38; 79:24;
-- verlangens 25:43-44; 45:23;
+Voorwerpen van verering
+- engelen (onder sommige heidense Arabieren) 34:40
+- Al-Aykah (onder de mensen van Shu'aib) 26:176
+- Ba'l (onder het volk van Elia 37:125
+- Jezus (in het christendom) 5:17
+- afgoden (onder het volk van Abraham) 21:52-53
+- de afgoden van Lat, 'Uzza en Manat (onder Arabische heidenen) 53:19-20
+- de afgoden van Wadd, Suwa', Yaghuth, Ya'uq en Nasr (onder het volk van Noach) 71:23
+- de zon (de inwoners van Sheba) 27:24
+- Sirius (onder sommige heidense Arabieren) 53:49
+- Farao (in het oude Egypte) 26:29; 28:38; 79:24
+- verlangens 25:43-44; 45:23
 - Het geloof in meerdere goden wordt weerlegd (17:42-43; 21:21-24; 25:3).
-Gebedshuizen, moskeeën 9:18;
-- kerken, synagogen en kloosters 22:40;
-- heiligdom 3:39; 38:21;
+Gebedshuizen, moskeeën 9:18
+- kerken, synagogen en kloosters 22:40
+- heiligdom 3:39; 38:21
 - Tempel 17:7
 - Religieuze titels, priesters, monniken en rabbijnen 5:44; 5:63; 5:82; 9:31-34
-Engelen,
+Engelen
 - onderzoek naar de schepping van Adam 2:30-34
-- Wees nooit ongehoorzaam aan Allah 21:26-27; 66:6;
-- zijn niet de dochters van Allah 21:26; 43:16-19;
-- beschermengelen 13:11;
-- twee registrerende engelen 50:16-18; 82:10-12;
-- acht die de troon van Allah dragen op de Dag des Oordeels 69:17;
-- negentien bewakers van de hel 74:26-31;
-- Engelen des doods 6:93; 16:28; 32:11;
-- Gabriël 2:97; 66:4; 26:192-195; 53:1-14;
-- Michael 2:98;
+- Wees nooit ongehoorzaam aan Allah 21:26-27; 66:6
+- zijn niet de dochters van Allah 21:26; 43:16-19
+- beschermengelen 13:11
+- twee registrerende engelen 50:16-18; 82:10-12
+- acht die de troon van Allah dragen op de Dag des Oordeels 69:17
+- negentien bewakers van de hel 74:26-31
+- Engelen des doods 6:93; 16:28; 32:11
+- Gabriël 2:97; 66:4; 26:192-195; 53:1-14
+- Michael 2:98
 - Malik 43:77
 Boodschappers
-- uit de gelederen van engelen en mensen 22:75;
+- uit de gelederen van engelen en mensen 22:75
 - Boodschappers met een vastberadenheid (Abraham, Noach, Mozes, Jezus en Mohammed ﷺ ) 33:7; 42:13; 46:35
 Schriften
-- Koran, een openbaring van Allah 12:2-3; 20:2-4; 26:192-195; 32:2-3;
-- een herinnering aan de hele wereld 68:51-52;
-- richtlijnen voor de meest rechtschapen levenswijze 17:9;
-- Openbaring begon in de maand Ramadan 2:185;
-- op een gezegende nacht 44:3;97:1-5;
-- onthuld in fasen 17:105-106;
-- gemakkelijk te onthouden 54:17;
-- bevestigt de waarheid in eerdere openbaringen 3:3-4;
-- een opperste autoriteit op het gebied van eerdere geschriften 5:48;
-- geen twijfel mogelijk 2:2; 10:37;
-- geen tegenstrijdigheden 4:82;
-- niet gefabriceerd 10:37-39;
-- niet overgenomen uit de Bijbel 25:4-6;
-- niet geopenbaard door duivels 26:210-212;
+- Koran, een openbaring van Allah 12:2-3; 20:2-4; 26:192-195; 32:2-3
+- een herinnering aan de hele wereld 68:51-52
+- richtlijnen voor de meest rechtschapen levenswijze 17:9
+- Openbaring begon in de maand Ramadan 2:185
+- op een gezegende nacht 44:3;97:1-5
+- onthuld in fasen 17:105-106
+- gemakkelijk te onthouden 54:17
+- bevestigt de waarheid in eerdere openbaringen 3:3-4
+- een opperste autoriteit op het gebied van eerdere geschriften 5:48
+- geen twijfel mogelijk 2:2; 10:37
+- geen tegenstrijdigheden 4:82
+- niet gefabriceerd 10:37-39
+- niet overgenomen uit de Bijbel 25:4-6
+- niet geopenbaard door duivels 26:210-212
 - niemand kan zoiets produceren 17:88; 2:23-24; 10:13-14; 11:13
-- beschermd tegen corruptie 15:9;
-- beschermd in de Bewaarde Tablet 56:75-80;
-- kan niet onwaar blijken 41:42;
-- voorspelt toekomstige gebeurtenissen 30:1-7; 48:27;
-- ontroert de gelovigen tot tranen 5:83; 17:107-109;
-- raakt harten 39:23;
-- schitterend licht 4:174; 42:52;
+- beschermd tegen corruptie 15:9
+- beschermd in de Bewaarde Tablet 56:75-80
+- kan niet onwaar blijken 41:42
+- voorspelt toekomstige gebeurtenissen 30:1-7; 48:27
+- ontroert de gelovigen tot tranen 5:83; 17:107-109
+- raakt harten 39:23
+- schitterend licht 4:174; 42:52
 - genezing en barmhartigheid voor de gelovigen 17:82
 - Tora 3:3; 3:93; 5:46; 5:66-68, 110; 7:157; 9:111; 48:29; 61:6; 62:5
-- Evangelie 3:3; 48; 5:46-47, 66-68, 77, 110; 7:157; 9:111; 48:29; 57:27
+- Evangelie 3:3, 48; 5:46-47, 66-68, 77, 110; 7:157; 9:111; 48:29; 57:27
 - Psalmen 4:163; 17:55
 - Rollen van Abraham 53:36-44; 87:14-19
-Lot en bestemming 3:145; 9:51; 10:107; 11:6; 54:49; 67:30;
+Lot en bestemming 3:145; 9:51; 10:107; 11:6; 54:49; 67:30
 - vrije keuze 6:148-150; 11:118-119; 16:93; 33:72-73; 39:41; 76:1-3; 91:1-10
-Dag des Oordeels,
-- geen onrecht 2:281; 18:49; 40:17;
-- Verschrikkingen van de apocalyps 22:1-2; 27:82-84, 87; 40:18; 52:11-16; 69:13-18; 70:8-18; 73:17-18; 75:7-15; 77:8-15; 78:17-20; 79:34-36; 80:33-42; 81:1-14; 82:1-5; 84:1-5; 87:17-40; 99:1-8; 101:1-11;
-- de rechtvaardigen en de goddelozen op die dag 11:105-108; 16:27-33, 84-89; 18:52-53; 20:100-111; 25:24-29; 30:12-16; 33:63-68; 39:68-75; 50:20-35; 55:37-41; 83:4-36;
+Dag des Oordeels
+- geen onrecht 2:281; 18:49; 40:17
+- Verschrikkingen van de apocalyps 22:1-2; 27:82-84, 87; 40:18; 52:11-16; 69:13-18; 70:8-18; 73:17-18; 75:7-15; 77:8-15; 78:17-20; 79:34-36; 80:33-42; 81:1-14; 82:1-5; 84:1-5; 87:17-40; 99:1-8; 101:1-11
+- de rechtvaardigen en de goddelozen op die dag 11:105-108; 16:27-33, 84-89; 18:52-53; 20:100-111; 25:24-29; 30:12-16; 33:63-68; 39:68-75; 50:20-35; 55:37-41; 83:4-36
 - voorbede (shafa'ah) 2:48, 255; 6:51, 70; 10:3; 21:28; 32:4; 36:23; 39:43-44; 43:86; 53:26;74:48
-Aktenregisters 17:13; 18:49;
-- gelovigen ontvangen hun verslag met hun rechterhand 69:19-24; 84:7-9;
-- ongelovigen ontvangen hun verslag met hun linkerhand 69:25-37; 84:10-15;
-- Niets zal voor Allah verborgen blijven (21:47; 40:16);
-- weging van daden 7:8; 23:102-104; 101:1-11;
-- getuigenis van lichaamsorganen 41:19-24; 24:24;
+Aktenregisters 17:13; 18:49
+- gelovigen ontvangen hun verslag met hun rechterhand 69:19-24; 84:7-9
+- ongelovigen ontvangen hun verslag met hun linkerhand 69:25-37; 84:10-15
+- Niets zal voor Allah verborgen blijven (21:47; 40:16)
+- weging van daden 7:8; 23:102-104; 101:1-11
+- getuigenis van lichaamsorganen 41:19-24; 24:24
 - beloning voor goede en slechte daden 6:160; 27:89-90; 28:84
 Soorten mensen
-- gelovigen 18:107-108;
-- ongelovigen 4:167-169;
-- hypocrieten 4:145; 57:13-15;
-- bewoners van het Paradijs, voornaamste gelovigen 55:46-61; 56:10-26;
-- inwoners van het Paradijs, mensen van het recht 55:62-78; 56:27-40;
-- bewoners van de hel, mensen van links 55:31-45; 56:41-56;
+- gelovigen 18:107-108
+- ongelovigen 4:167-169
+- hypocrieten 4:145; 57:13-15
+- bewoners van het Paradijs, voornaamste gelovigen 55:46-61; 56:10-26
+- inwoners van het Paradijs, mensen van het recht 55:62-78; 56:27-40
+- bewoners van de hel, mensen van links 55:31-45; 56:41-56
 - mensen op de hoogten 7:46-49
 Financieel
-- Bedrijfsrichtlijnen 2:188; 2:275; 2:282-283; 4:29; 4:58; 6:152; 17:34-35;
-24:36-37; 26:182; 30:39; 55:7-9; 62:9
-- Legaten, facultatieve legaten aan niet-erfgenamen 2:180-183; 4:11-12;
+- Bedrijfsrichtlijnen 2:188; 2:275; 2:282-283; 4:29; 4:58; 6:152; 17:34-35; 24:36-37; 26:182; 30:39; 55:7-9; 62:9
+- Legaten, facultatieve legaten aan niet-erfgenamen 2:180-183; 4:11-12
 voor de dood tijdens een reis 5:106-108
 - Omkoping 2:188
-- Schulden, vriendelijkheid bij het innen van schulden 2:280;
-- het opstellen en bekrachtigen van een schuldovereenkomst 2:282;
+- Schulden, vriendelijkheid bij het innen van schulden 2:280
+- het opstellen en bekrachtigen van een schuldovereenkomst 2:282
 - onderpand nemen 2:283
-- Erfrecht, richtlijnen 4:7; 4:32-33; 8:75;
-- aandeel van nakomelingen en ouders 4:11;
-- echtgenoten en broers en zussen van moederszijde 4:12;
-- volle broers en zussen 4:176;
+- Erfrecht, richtlijnen 4:7; 4:32-33; 8:75
+- aandeel van nakomelingen en ouders 4:11
+- echtgenoten en broers en zussen van moederszijde 4:12
+- volle broers en zussen 4:176
 - waarschuwing aan degenen die zich niet aan de regels houden 4:13-14
-- Rente, verbod en waarschuwing 2:275-281; 3:130-132;
+- Rente, verbod en waarschuwing 2:275-281; 3:130-132
 - onrendabel gemaakt 30:39
 Juridisch
 - Wet op verraad (hirabah) 5:33-34
-- Rechtvaardigheid, opkomen voor rechtvaardigheid 4:135; 5:8; 16:90-91;
-- opkomen voor de rechten van wezen en vrouwen 4:127;
-- gerechtigheid voor een Jood 4:105-112;
-- gerechtigheid voor een heiden 4:58;
+- Rechtvaardigheid, opkomen voor rechtvaardigheid 4:135; 5:8; 16:90-91
+- opkomen voor de rechten van wezen en vrouwen 4:127
+- gerechtigheid voor een Jood 4:105-112
+- gerechtigheid voor een heiden 4:58
 - Rechtvaardigheid jegens niet-moslims 60:8-9
 - Vergelding via juridische kanalen (met de mogelijkheid tot vergeving) 2:178-179; 5:45; 16:126; 17:33; 42:37-43
-- Scheiding tussen man en vrouw, khul' 2:229;
+- Scheiding tussen man en vrouw, khul' 2:229
 - lian (beschuldigen van overspel) 24:6-10
 Politiek
 - Zaken regelen door overleg (shura) 3:159; 42:38
-- Vechten uit zelfverdediging (jihad), etiquette 2:190-192; 2:216; 22:38-40;
-- niet willekeurig aanvallen 4:94;
-- strijden voor onderdrukte mannen, vrouwen en kinderen 4:75;
-- het beschermen van gebedshuizen 22:37;
-- beloning van martelaren 2:154; 3:169-171; 9:111; 57:19;
-- militaire macht schrikt potentiële vijanden af 8:60;
+- Vechten uit zelfverdediging (jihad), etiquette 2:190-192; 2:216; 22:38-40
+- niet willekeurig aanvallen 4:94
+- strijden voor onderdrukte mannen, vrouwen en kinderen 4:75
+- het beschermen van gebedshuizen 22:37
+- beloning van martelaren 2:154; 3:169-171; 9:111; 57:19
+- militaire macht schrikt potentiële vijanden af 8:60
 - kiezen voor vrede 2:192; 8:61
 - Vrede stichten tussen partijen 49:9-10
 - Behandeling van krijgsgevangenen 8:70; 47:4; 76:8
 Sociaal
 - Adoptie 33:4-5
 - Zorg voor wezen 2:220; 4:2-10; 4:127; 6:152; 17:34
-- Scheiding, arbitrage en verzoening 4:35; 4:128;
-- etiquette van echtscheiding 2:229-231; 65:1-2;
-- bruidsschat en wachttijd 2:226-241; 4:19-21; 33:49; 65:1-7;
-- echtgenoot mag niets van de bruidsschat terugnemen 4:20;
-- echtgenote mag niet lastiggevallen worden 65:6;
-- echtgenote dient financieel ondersteund te worden tijdens de zwangerschap 65:6;
-- tijdens haar wachttijd 65:6;
-- als ze het kind van haar ex-man borstvoedt, 65:6;
-- geen enkele ouder zou moeten lijden vanwege zijn kind 2:233;
+- Scheiding, arbitrage en verzoening 4:35; 4:128
+- etiquette van echtscheiding 2:229-231; 65:1-2
+- bruidsschat en wachttijd 2:226-241; 4:19-21; 33:49; 65:1-7
+- echtgenoot mag niets van de bruidsschat terugnemen 4:20
+- echtgenote mag niet lastiggevallen worden 65:6
+- echtgenote dient financieel ondersteund te worden tijdens de zwangerschap 65:6
+- tijdens haar wachttijd 65:6
+- als ze het kind van haar ex-man borstvoedt, 65:6
+- geen enkele ouder zou moeten lijden vanwege zijn kind 2:233
 - kiezen voor een voedster 65:6
 - Het goede aanmoedigen en het kwade verbieden 3:104; 3:110; 7:157; 9:71-72; 31:17
-- Gelijkheid van de mens 49:13;
-- mannen en vrouwen voor Allah en de wet, 3:195; 4:124; 5:38; 16:97; 24:2; 40:40;
+- Gelijkheid van de mens 49:13
+- mannen en vrouwen voor Allah en de wet, 3:195; 4:124; 5:38; 16:97; 24:2; 40:40
 - mannen hebben een zekere mate van verantwoordelijkheid die vrouwen overtreft 2:228
 - Het voeden van de armen, wezen en gevangenen 76:8-9
 - Vergeving en woedebeheersing 3:134; 42:40
 - Slaven bevrijden en hen helpen 4:92; 5:89; 9:60; 24:33; 58:3; 90:13
 - Het eren van je eigen ouders 4:36; 17:23-25; 31:14-15
 - Nederigheid 17:37; 31:18-19
-- Uitleg van de dromen van Abraham 37:102;
-- Uitleg van de dromen van Jozef 12:4; 12:36; 12:43;
+- Uitleg van de dromen van Abraham 37:102
+- Uitleg van de dromen van Jozef 12:4; 12:36; 12:43
 - Interpretatie van dromen van Mohammed 8:43; 48:27
 - Vriendelijkheid jegens niet-moslims 60:8
-- Huwelijk 4:3; 4:129; 16:72; 30:21;
-- wettige en onwettige vrouwen om mee te trouwen 4:22-24;
-- etiquette van intimiteit 2:222-223;
-- zwangerschap en borstvoeding 2:233; 31:4; 46:15; 65:6;
-- hertrouwen met de eigen ex-vrouw 2:230;
-- singles helpen om te trouwen 24:32;
+- Huwelijk 4:3; 4:129; 16:72; 30:21
+- wettige en onwettige vrouwen om mee te trouwen 4:22-24
+- etiquette van intimiteit 2:222-223
+- zwangerschap en borstvoeding 2:233; 31:4; 46:15; 65:6
+- hertrouwen met de eigen ex-vrouw 2:230
+- singles helpen om te trouwen 24:32
 - subtiel interesse tonen tijdens de wachttijd 2:235
-- Eedaflegging 2:224-225; 16:91-92; 16:94;
+- Eedaflegging 2:224-225; 16:91-92; 16:94
 - het goedmaken van een gebroken eed 5:89
 - Geduld in moeilijke tijden 2:45; 2:153-157; 3:186; 12:18; 12:83; 16:127-128; 70:5
-- Toestemming om binnen te komen tussen 24:58 en 24:60;
-- het betreden van de huizen van mensen 24:27-28;
+- Toestemming om binnen te komen tussen 24:58 en 24:60
+- het betreden van de huizen van mensen 24:27-28
 - het betreden van openbare plaatsen 24:29
-- Sociale etiquette, nieuws verifiëren 4:83; 49:6;
-- respect voor iedereen 49:11-12;
-- etiquette van bijeenkomsten 58:11;
+- Sociale etiquette, nieuws verifiëren 4:83; 49:6
+- respect voor iedereen 49:11-12
+- etiquette van bijeenkomsten 58:11
 - privégesprekken 4:114; 58:9
 - Gelofte 2:270; 9:75-77; 22:29; 76:7
 - Verspilling en gierigheid 7:31; 17:29; 25:67
 Andere verhalen
-- Abel en Kaïn 5:27-31;
-- Al-Khadir en Mozes 18:60-82;
-- Leger van de Olifant 105:1-4;
-- de gelovige uit het volk van de farao 40:28-46;
-- geboorte van Maria 3:35-36;
-- De koe van de kinderen van Israël 2:67-74;
-- Ezra 2:259;
+- Abel en Kaïn 5:27-31
+- Al-Khadir en Mozes 18:60-82
+- Leger van de Olifant 105:1-4
+- de gelovige uit het volk van de farao 40:28-46
+- geboorte van Maria 3:35-36
+- De koe van de kinderen van Israël 2:67-74
+- Ezra 2:259
 - tuineigenaren 68:17-32
 - Harut en Marut 2:102
 - Korach 28:76-82
-- Luqmans advies aan zijn zoon 31:12-19;
-- eigenaar van de twee tuinen 18:32-44;
-- inwoners van Sjeba 34:15-19;
-- Mensen van de grot 18:9-26;
-- mensen van de loopgraaf 85:1-8;
-- Sabbatschenders 7:163-165;
-- Samiri en het gouden kalf 20:83-97;
-- Saul en Samuel 2:247-251;
+- Luqmans advies aan zijn zoon 31:12-19
+- eigenaar van de twee tuinen 18:32-44
+- inwoners van Sjeba 34:15-19
+- Mensen van de grot 18:9-26
+- mensen van de loopgraaf 85:1-8
+- Sabbatschenders 7:163-165
+- Samiri en het gouden kalf 20:83-97
+- Saul en Samuel 2:247-251
 - Zul-Qarnain 18:83-98
-Duivels 2:102; 6:71; 6:112; 6:121; 7:27; 7:30; 17:27; 19:68; 19:83; 22:3-4; 23:97-98; 26:210; 37:7-10; 38:37-38; 67:5;
-- duivelse mensen en djinn 6:112;114:6;
+Duivels 2:102; 6:71; 6:112; 6:121; 7:27; 7:30; 17:27; 19:68; 19:83; 22:3-4; 23:97-98; 26:210; 37:7-10; 38:37-38; 67:5
+- duivelse mensen en djinn 6:112;114:6
 - de hemel beschermde tegen demonen 15:16-18
 Spijt
-- niet in navolging van de profeet 25:27;
-- het niet gehoorzamen van Allah en Zijn Boodschapper 4:41-42; 33:64-68;
-- slechte vrienden nemen 25:28-29; 26:96-102; 43:36-39;
-- het ontkennen van Allahs tekenen 6:27-30;
+- niet in navolging van de profeet 25:27
+- het niet gehoorzamen van Allah en Zijn Boodschapper 4:41-42; 33:64-68
+- slechte vrienden nemen 25:28-29; 26:96-102; 43:36-39
+- het ontkennen van Allahs tekenen 6:27-30
 - niet werken voor het Hiernamaals 89:23-24
 Wanhopige smeekbeden
-- smeken om terugkeer naar de wereld 2:167; 6:27-28; 32:12-14; 42:44;
-- voor een tweede kans 35:36-37;
-- verwijderd worden uit het vuur 40:10-12;
-- voor eten en drinken 7:51-52;
-- voor voorbidders 7:52-53;
-- tot stof vermalen worden 4:41-42; 78:40;
+- smeken om terugkeer naar de wereld 2:167; 6:27-28; 32:12-14; 42:44
+- voor een tweede kans 35:36-37
+- verwijderd worden uit het vuur 40:10-12
+- voor eten en drinken 7:51-52
+- voor voorbidders 7:52-53
+- tot stof vermalen worden 4:41-42; 78:40
 - voor de dood 43:74-78
 Eigenschappen van de rechtvaardigen
 - het in acht nemen van de rechten van de Schepper en Zijn schepping 3:133-136; 4:36; 4:69-70; 6:151-154; 8:2-4; 13:19-24; 17:23-39; 18:107-108; 23:1-11; 25:63-76; 42:36-43
 Eigenschappen van de slechteriken
-- ondankbaar 14:34;
-- gierig 17:100;
-- haastig 21:37;
-- Gedenk Allah alleen in moeilijke tijden 10:12; 41:51;
-- ongeduldig 70:19;
+- ondankbaar 14:34
+- gierig 17:100
+- haastig 21:37
+- Gedenk Allah alleen in moeilijke tijden 10:12; 41:51
+- ongeduldig 70:19
 - argumentatief 18:54
 Grote zonden
 - het toekennen van andere dingen aan Allah in de aanbidding (shirk) 4:48; 4:116; 5:72; 6:19; 31:13:
-- het misbruiken van de eigen ouders 4:36; 6:151; 17:23;
-- het verwaarlozen of nalaten van verplichte gebeden 19:59-60;
-- het niet betalen van aalmoezenbelasting 41:6-7;
-- moord 6:151; 17:33;
-- het opzettelijk doden van een gelovige 4:93;
-- diefstal 5:38;
-- fraude 7:85; 11:85; 26:182-183; 83:1-6;
-- liggend 2:10; 9:77; 39:60;
-- liegen over Allah 6:93; 29:68; 61:7;
+- het misbruiken van de eigen ouders 4:36; 6:151; 17:23
+- het verwaarlozen of nalaten van verplichte gebeden 19:59-60
+- het niet betalen van aalmoezenbelasting 41:6-7
+- moord 6:151; 17:33
+- het opzettelijk doden van een gelovige 4:93
+- diefstal 5:38
+- fraude 7:85; 11:85; 26:182-183; 83:1-6
+- liggend 2:10; 9:77; 39:60
+- liegen over Allah 6:93; 29:68; 61:7
 - verboden seksuele relaties 2:222; 17:32; 24:2; 25:68; 29:28-30
-- valse beschuldigingen van overspel 24:4-5;
-- afvalligheid 2:217; 5:54;
-- het eten van varkensvlees en andere verboden voedselsoorten (aas, bloed, enz.) 5:3; 6:145;
-- alcohol en gokken 5:90-91;
-- roddelen 49:11;
-- valse getuigenis 22:30;
+- valse beschuldigingen van overspel 24:4-5
+- afvalligheid 2:217; 5:54
+- het eten van varkensvlees en andere verboden voedselsoorten (aas, bloed, enz.) 5:3; 6:145
+- alcohol en gokken 5:90-91
+- roddelen 49:11
+- valse getuigenis 22:30
 - magie 2:102; 10:77; 20:69
 """;

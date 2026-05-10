@@ -5,18 +5,18 @@ Kaxxaam (wuudu), 4:43; 5:6
 ibraahim (ibraahim) S.14; 2:135-136, 148; 3:33, 84, 95; 4:54,125,163; 6:161; 9:70, 114; 12:6,38; 16:120; 19:58; 21:51,60,62,69; 22:43,78; 26:69; 29:31; 33:7; 37:83,104,109; 38:45; 42:13; 43:26; 51:24; 53:37; 57:26; 60:4; 87:19
 - Yahuud hinna koros hinna, 3:67-68
 - Bakkah addal naharsi qibaadah aracal soole, 3:97; 26:123
-- Kaabah rakiibo fayya haanam 2:124-129;
-- isi ummatta inki numma le rabbih qibaadah seeca 2:130-133; 26:69-89; 29:16; 29:24-27;
-- anaakar kaxxiini amoyti 2:258,
-- ugtuma wagittam esserta 2:260;
-- Yahuud akkiiy Kiristaan ​​akki 3:65-68;
-- qaran qibaadah 6:74-87;
-- Isxaaq ubkah xaagu geyte 11:69-76; 51:24-30;
-- kay salat kaqbal 14:35-41;
-- gufneh malaykoota 15:51-56;
-- ceelalloh 16:123;
-- isi abbah numma fan seeca 19:41-50;
-- sanamitte baysaanam kee girak cattiimaanam 21:51-73; 37:83-113 fanah;
+- Kaabah rakiibo fayya haanam 2:124-129
+- isi ummatta inki numma le rabbih qibaadah seeca 2:130-133; 26:69-89; 29:16; 29:24-27
+- anaakar kaxxiini amoyti 2:258
+- ugtuma wagittam esserta 2:260
+- Yahuud akkiiy Kiristaan ​​akki 3:65-68
+- qaran qibaadah 6:74-87
+- Isxaaq ubkah xaagu geyte 11:69-76; 51:24-30
+- kay salat kaqbal 14:35-41
+- gufneh malaykoota 15:51-56
+- ceelalloh 16:123
+- isi abbah numma fan seeca 19:41-50
+- sanamitte baysaanam kee girak cattiimaanam 21:51-73; 37:83-113 fanah
 - seeco inkih cajji fan 22:26
 abraarak, 3:193,198; 76:5; 82:13; 83:18-22
 baysiyya, 2:106, 16:101
@@ -26,11 +26,10 @@ Adam, 3:33,59; 5:27; 7:26-27,31,35,172; 17:70; 19:58; 36:60
 - malaykoota naharal sujuud abta, 2:34; 7:11
 - ixxiga caxa, 2:35; 7:19-20; 20:120-121
 - caxaaxuwi aracak diiriyo (Haawa dareemu mali), 2:36; 7:24
-- Yallih konnabna, sheytan gibbatu 2:30-38; 7:11-25; 17:61-65; 18:50; 20:115-123 fanah; 38:71-85;
+- Yallih konnabna, sheytan gibbatu 2:30-38; 7:11-25; 17:61-65; 18:50; 20:115-123 fanah; 38:71-85
 - yallih qafuuta 2:37; 20:122
 'Adiyat, S.100
-'Adn Jannat, 9:72; 13:23; 16:31; 18:31;
-19:61; 20:76; 35:33; 38:50; 40:8; 61:12; 98:8
+'Adn Jannat, 9:72; 13:23; 16:31; 18:31; 19:61; 20:76; 35:33; 38:50; 40:8; 61:12; 98:8
 Qawwalayla
 - gersi marih quukat maquuka, 6:164; 17:15; 35:18; 39:7; 53:38
 - quukak daga soolisaanam hinna, 2:286; 6:152; 7:42; 23:62
@@ -113,7 +112,7 @@ Murtid, 3:72; 3:86-88; 3:90-91; 3:167; 4:137; 5:54; 9:74; 9:107; 16:106; 33:14
 Murtad,47:25
 Qaraaf, S.7; 7:46, 48
 Qaraafaay, 2:198
-Qaduwwutiyya,
+Qaduwwutiyya
 - sinni duquurusa marih aftok hinna, 4:107
 - atu keenih qadaaqadisteh ta baadal, takkay immay iyyi akkelem qiyaamah ayro, 4:109
 Qadaaqada/Maysattaka
@@ -123,7 +122,7 @@ silac, 16:81
 'asr,S.103
 ayat al-kursi, 2:255
 wadirsi arooca, 49:12; 104:1
-Badri (carbi), 3:13,
+Badri (carbi), 3:13
 - baritto kak, 8:5-19, 42-48
 Al-baytil-muur, 52:45.
 Bakka (Makka), 3:96
@@ -133,7 +132,7 @@ Qeedalsa, 7:8-9; 17:35; 21:47; 55:7-9; 57:25;101:6-9
 baanu an-nadir, 59:2-6,13
 Baqarah,S.2
 Bara'a ( ubul Taubah), S.9
-Barzaak, (Adaf), 23:100; 25:53; 55:20;
+Barzaak, (Adaf), 23:100; 25:53; 55:20
 - kaaduk 18:94-97 wagita; 34:54; 36:9
 Bayina, S.98
 Ali ( illacaboh ayroora), 27:82
@@ -182,7 +181,7 @@ koros kitab, 5:64, 5:65, 5:68
 - maynaqu, 3:78; 5:14-15
 kimmir, 2:260; 3:49; 5:110; 6:38; 12:36, 41; 16:79; 21:79; 22:31; 24:41; 27:16-17,20; 34:10; 38:19; 56:21; 67:19; 105:3
 qabli-lakqo ( diya), 2:178-179; 4:92; 17:33
-Booti, ​​carbi, 4:94. 8:41; 59:6-8;
+Booti, ​​carbi, 4:94. 8:41; 59:6-8
 - madqak iroh beyaanam, 3:162
 - finqittem wagita
 Guqul, 2:188
@@ -220,7 +219,7 @@ Sartan, 7:26; 16:81
 - sayyoh iroh sartan munaafiqitteh ganaasaqo waasa, 33:59-60
 eglaali, 33:9,22
 - ubul Aczab fayi, namma fanih, 42:38
-Hadliyyi,
+Hadliyyi
 - qimbisam kee qagaaqagitak, 10:4; 21:104; 27:64; 29:19-20
 - qusbaamak 17:49, 98; 35:16
 - nummat, 15:85; 16:3; 29:44; 39:5; 44:39;45:22; 46:3
@@ -240,12 +239,12 @@ Kuraana, 5:31
 xiqsissoosa, 2:53, 185; 3:4; 8:29, 41; 21:48; 25:1
 Daarah, ( ubul insan,) S.76; 45:24
 - uddur, 76:1; 103:1
-Daavid, 5:78; 6:84; 17:55; 34:10,13; 38:17-30;
+Daavid, 5:78; 6:84; 17:55; 34:10,13; 38:17-30
 - Zabuur 4:163 yomcowwe
 - qeebi abeeh Goliath qide, 2:251
-- taturte cokmi 21:78-80;
-- ixxiga kee nabiyyi barkat le 27:15-16;
-- qaleela kee kimbir kaat engeleh yalla faylissuh 34:10; 38:17-20;
+- taturte cokmi 21:78-80
+- ixxiga kee nabiyyi barkat le 27:15-16
+- qaleela kee kimbir kaat engeleh yalla faylissuh 34:10; 38:17-20
 - namma numih fanat yan garkure 38:21-26
 Dawabb hinnay Dabbah (qangarah addat tan gino, w.w.) 2:164; 6:38; 8:22,55; 11:6,56; 16:49,61; 22:18; 24:45; 27:82; 29:60;31:10; 34:14; 35:28, 45; 42:29; 45:4
 Raboyti ugtele, 6:36
@@ -255,17 +254,17 @@ Rabi, 3:185; 3:193; 4:78; 6:61; 6:93; 21:35; 23:99-108 fanah; 31:34; 32:11; 33:1
 - too ayyuntih addal wagsiisi sinni mari mabaysu waa, 6:131; 9:115; 10:47; 11:117; 15:4; 16:119; 17:15; 28:59
 - Yallih gital qide mari manol yan,2:154; 3:169
 - Yalli fanah umaanek kudak, 4:100
-- soolisaanam maduudunta akkek udurrusaanam maduudunta 63:10-11;
-- gangah yan toobokoyti xin 6:60; 39:42;
--muuminiin kee kaafiritte rabi uddur 8:50; 16:27-32; 41:30;
+- soolisaanam maduudunta akkek udurrusaanam maduudunta 63:10-11
+- gangah yan toobokoyti xin 6:60; 39:42
+-muuminiin kee kaafiritte rabi uddur 8:50; 16:27-32; 41:30
 - kabri addat tan digaala 40:46
 mogo, 2:280, 282; 4:11-12
-Amri,
+Amri
 - kulli kinni caagidih, 13:38 yan
 - qigdu nanu magaala mabaysinno takkay immay wokkel timixxige, teetih, 15:40.
 - kulli caagidik Yalla, 44:51.
 - Usug caagid amrise wak, Usug dubuk "Tikki!" - kee toh, 2:117; 36:82; 40:68
-Abtoota,
+Abtoota
 - umaane, keenih qaxmeqe, 47:14
 - neh ni, koh ku abtoota, 28:55; 42:15; 45:15
 - meqem kee umam, isih saduh, 41:46
@@ -279,7 +278,7 @@ Daariyat, S.51
 dikri, 7:205; 15:6, 9
 zul-kiifi, 21:85; 38:48
 zul-qarayin, 18:83-98
-Dhun-Nun (Kullumti waklenta),
+Dhun-Nun (Kullumti waklenta)
 Kaafiritte ( ubul kaadu munaafiqitte)
 - Macammad ( صلى الله عليه وسلم ) esseraanam Yallih naqabu keenih akah seecannah, 6:57-58; 8:32; 10:49-52
 - ken eglah meqem mariinoh quuka, 31:15
@@ -304,7 +303,7 @@ Boodo, sinam, 85:4-10
 Mangintiino
 - seehadayti baxi, 30:22, 35:27-28
 - manok, 35:27-28
-Cabiyyi, 2:228-232, 236-237, 241; 4:35, 130; 65:1-7;
+Cabiyyi, 2:228-232, 236-237, 241; 4:35, 130; 65:1-7
 - qammaaliyyi udduruuk lakal, fidga akkek wagari, 2:231; 65:2
 - namma sumaq, 65:20.
 - maaqiddi mekla, 2:233, 241
@@ -340,7 +339,7 @@ Cabti, Barra
 - digib gaba kale week, 33:49
 kuuta, 7:176
 Danan (Daman), 2:259; 16:8; 31:19; 62:5; 74:50
-Aqub,
+Aqub
 - kasmuda, 2:219; 5:90
 - saytunim kee qado salfa, 37:45-46; 76:21
 - saytun alfime qinab, 83:25
@@ -363,13 +362,13 @@ Umaane, 4:123; 10:27-30; 19:83; 59:15
 - milaagimeh, maqaaneh, 7:95
 - too ken katayta, fayxi, 47:14, 16
 - abtoota keenih qaxmeqe, 47:14
-Ixxuuk daga,
+Ixxuuk daga
 - maaqot waasole, 5:87
 - diini addat, 4:171; 5:77-81
 intiitaay, aytiita kee arabitte zambi abeenitik sumaq akkele, 41:20-23
 Ezra, (Uzayir) 9:30
 Yallih fooca hinnay fooca, 2:115, 272; 6:52; 13:22; 18:28; 28:88; 30:38-39; 55:27; 76:9; 92:20
-qadliino-celta,
+qadliino-celta
 - Yalli abeh yan, umman ummattah isi taama, 6:108
 Imaan (Aamanti), 2:108; 3:167,177,193; 5:5; 9:23; 16:106; 30:56; 40:10; 42:52; 49:7,11,14; 52:21; 58:22; 59:9-10
 - cinna mari, 3:116
@@ -379,7 +378,7 @@ Imaan (Aamanti), 2:108; 3:167,177,193; 5:5; 9:23; 16:106; 30:56; 40:10; 42:52; 4
 Fajri, S.89
 Falaaq, S.113
 Dirab walal Kur'aan aayat wagittaamal, 6:68
-Dirab rabbitte,
+Dirab rabbitte
 - Yallak kalah, idoola kee waklentit deqsitta 7:194-198; 16:20-21, 72, 86; 21:22, 24; 34:22, 27; 41:47-48; 46:5-6; 53:19-24; 71:23-24
 Yallak kalah qibaadah mara xaafisina,6:108
 - Taghut kaadu wagita
@@ -394,7 +393,7 @@ Fidyah (fidâ), soom, 2:196
 - yabbixeenim currik yayyaaqoonuh, 8:67
 - fidga xayyowteh tan kaafir, 3:91; 5:36,37; 10:54; 13:18
 qar, 95:1
-Qeebi,
+Qeebi
 - yallih gital, koroonih fanat, 2:190-193, 244; 4:84, 95; 8:72,74,75; 9:12-16,20,24,36,123; 47:4; 61:11
 - amrisen, 2:216
 - diini alsitteh addat, 2:217; 9:5
@@ -410,7 +409,7 @@ Cibta, S.105
 firdawus gannata, 18:107; 23:11
 Gira, 56:71, 100:20.
 Haada, 22:73
-Maaqo,
+Maaqo
 -caalal kee giram mali,(calaal kee haram),2:168,172,173; 5:1,3-5,88; 6:118-119,121,145-146; 16:114-118 fanah; 23:51
 - uli zambi mali taturte wak yokmeemih, 5:93
 - matatur hinna, 5:87
@@ -432,7 +431,7 @@ Qafuuta, 2:109; 4:48, 110, 116; 5:74; 7:199; 39:53; 42:5, 40-43 fan; 45:14; 53:3
 - qalayli tiya gersittu lih sissikuk fooca fan, 57:21
 - uma taama meqe taama fan milaagimte 25:68-71
 Malmaalu, ( ubul gano) 83:1-6.
-Currik tan fayxi,
+Currik tan fayxi
 - Yallih Fayxih Waado, 6:107; 10:99; 74:56;76:31; 81:28-29
 - faxe num faxe num kaa yaamineeh yaamineeh, 18:29
 - kay Rabbih gita bey, 76:29
@@ -466,14 +465,14 @@ Meqeh (Ayroora), 3:140
 - Yalli abe marah agala yaceeh, tayseemih, 53:31
 - faxe acwa tanii, meqeemik iroh, 55:60
 - abit, Yalli koh elle meqennal, 28:77
-Meqem kee Umam,
+Meqem kee Umam
 - maqaane yallak tameete umam ku nabkiik,4:79
 - meqem abteenik, sinnih kee umam abteenik, sinnil, 17:7;41:46.
 - umam maqaanet gutqaanama, 23:96; 28:54; 41:34
 -meqee kee umaane inki gid takkem madudda,41:34
 - kulli num inkih foocal asele, usuk abeh yan, 3:30
 - wagit kaadu Muhsinun
-Meqe abto,
+Meqe abto
 - qaddos akkek qellis tet, 4:149
 - qalaylih innal macala, 5:48
 injiil, 3:3,48,65; 5:46-47,66,68,110;7:157; 9:111; 48:29; 57:27
@@ -490,7 +489,7 @@ Gibdaabina, umman way cato tan, 94:5-6.
 Harun, (Aaron)
 Harut, 2:102
 Hashr, S.59
-Sorkocobaxitte,
+Sorkocobaxitte
 - maqarrowteh, 2:74; 22:53; 39:22; 57:16
 - alfimeh, 7:100-101; 40:35; 47:16; 63:3
 - reebimeh, 17:46; 41:5
@@ -498,7 +497,7 @@ Sorkocobaxitte,
 - kurruumak, 59:14
 - meysi kibbiimeh, 22:35
 - miyyin addat, dalka tan, 2:10; 5:52; 8:49; 9:125; 22:53; 24:50; 33:12,32,60; 47:20, 29;74:31
-Jannata,
+Jannata
 - Yallah tan qammalsimtam, 16:77
 - digirih hinna, 21:16
 - kee ardi ittat yengele, 21:30
@@ -528,7 +527,7 @@ Jahannam (gira, laqna girah) 2:24, 119, 161, 166, 201; 3:10,12,116,131,151,162,1
 - cararow niya garuq kee barad xabcin dite addat, 38:57
 - 70 kubbaabih girgir, 69:32
 - waado le uddur fan idiy, 78:23
-Tahak wadir,
+Tahak wadir
 - taysem qari addat yan, 6:32; 7:169
 - 6:135 illacabo akkele
 - Zalimun mabicsa (addal), 6:135
@@ -545,7 +544,7 @@ Hijr (Xaahi gita), 15:80-85
 Hijra, S.15
 Siita ceelallo 26:165-166; 27:55; 29:28-29
 Faraswa, 16:8
-Saaqata,
+Saaqata
 - ixxiga teetik Yallih garil dubuk tan, 7:187; 31:34; 33:63; 41:47; 68:26; 79:42-46
 - inkih garciik keenil tan, 6:31; 7:187;12:107; 43:66
 - kol amaatele, 6:40; 12:107; 20:15; 34:3
@@ -554,9 +553,9 @@ Saaqata,
 - ardi angoyyak, 22:11.
 - xissiimele, ayrol, 30:12, 14
 - asmatah yamaate, waaga mali, 40:59;45:32; 51:5-6
-- asta 21:96; 27:82; 43:61; 47:18; 54:1-2;
-- migaaqitte 1:3; 2:4; 3:55; 19:39; 30:56; 37:21; 40:15; 41:47; 42:7; 50:20; 56:1; 64:9; 69:1; 79:34; 80:33; 88:1; 101:1-3;
-- ummatta cakkumsutak beele 6:31; 7:187;
+- asta 21:96; 27:82; 43:61; 47:18; 54:1-2
+- migaaqitte 1:3; 2:4; 3:55; 19:39; 30:56; 37:21; 40:15; 41:47; 42:7; 50:20; 56:1; 64:9; 69:1; 79:34; 80:33; 88:1; 101:1-3
+- ummatta cakkumsutak beele 6:31; 7:187
 - tuntulla ufuusele 6:73; 23:101; 39:68
 Qarwa, culmah adabi, 24:27-29
 huud, 7:65-72; 11:50-60; 26:123-140 fanah; 46:21-26
@@ -565,7 +564,7 @@ Hujuraat, S.49
 Humaza, S.104
 Hunayin (carbi), 9:25
 Hur (jannatal tan sayyo), 44:54; 52:20
-Munaafiqhi,
+Munaafiqhi
 - inxic: nanu Yallaa kee elle caboh ayro naamineeh, takkay immay nummah manaamine,2:8.
 - sinni duquurusaanam, 2:9.
 - ken sorkocobaxak addat tan dalka, 2:10; 8:49; 22:53;33:12; 47:29
@@ -609,8 +608,8 @@ Ilah, dubuk tiya, 2:163; 6:19; 16:22,51; 23:91; 37:4; 38:65
 Madqak iroh yan angaaraw; sumaaqitteh sumaq, 4:15-18; 24:2, 19
 Illiyun, 83:18-21
 Saytunaane (Najas) 9:28
-'Imraan,
-- barra, 3:35;
+'Imraan
+- barra, 3:35
 - baxá, 66:12
 Raq sinnim, 69:1-3.
 Infitar, S.82
@@ -629,7 +628,7 @@ Birta, 57:25
 'Isa, Qiisa wagit
 isxaaq, (isqaaq) 2:133; 4:163; 6:84; 19:49;21:72; 29:27; 37:112-113
 ismaaqil (ismaaqil), 2:125-129,133; 4:163;6:86; 19:54-55; 21:85; 38:48
-Ka’bah xisneh abba luk 2:125-140;
+Ka’bah xisneh abba luk 2:125-140
 fida aydaadi 37:100-113
 islaam, 3:19,85; 5:3; 6:125; 39:22; 61:7
 - muslimiin axcuk xayyoosen marih fanak naharsitti, 6:14,163; 39:12
@@ -658,8 +657,8 @@ Yaaqobi, (yaqub) 2:132-133; 4:163; 6:84;12:18; 19:49; 21:72; 29:27
 Jaaluut, (Goliyaat wagita)
 jamaara, 2:200
 Jaatiyah, S.45
-Jesus, Isa Maryam baxi,
-- ina doorimte inkih tan baadal tan sayyoh amol 3:42;
+Jesus, Isa Maryam baxi
+- ina doorimte inkih tan baadal tan sayyoh amol 3:42
 - sumaq qiid ayro, 4:159
 - ubkah rufto le xaagu, 3:45-47; 19:22-23
 - farmoyti Israa-eel xayloh, 3:49-51
@@ -682,9 +681,9 @@ Jesus, Isa Maryam baxi,
 - sissin mablooli wagittaamal, 43:65
 - naqoosak muxxi hinna Israa-eel xayloh ceelallo, 43:59
 -farmoytak farci xaagu kay migaq Acmad yakke,61:61.
-- kay baxuwwa ubka, farmo, kee muqjiza 3:45-51; 19:16-38;
-- Yallih niqmat kassis 5:110-115;
-- qibaadah taniimih ganak 5:116-120;
+- kay baxuwwa ubka, farmo, kee muqjiza 3:45-51; 19:16-38
+- Yallih niqmat kassis 5:110-115
+- qibaadah taniimih ganak 5:116-120
 - kay kataysis sorkocô baxat racmatta kee racmatta 5:82; 57:27
 Yahuud kee Kiristaan, 2:140; 4:153-161,171; 5:18
 - dirab ankacis, 5:41-42
@@ -694,41 +693,41 @@ Yahuud kee Kiristaan, 2:140; 4:153-161,171; 5:18
 Jibriil, (wagit jibriil)
 Jihaad, (Qeebi, Giclo) 2:216; 9:24; 22:78; 25:52
 Jinni, S.72
-Jinni, 6:100, 112; 15:27; 34:41; 38:37; 46:18,29; 55:33, 39;
-Jinni, girak ginnimtem 15:25; 55:15;
-- jinni yaamineenim kee yaamineenim 72:1-15;
+Jinni, 6:100, 112; 15:27; 34:41; 38:37; 46:18,29; 55:33, 39
+Jinni, girak ginnimtem 15:25; 55:15
+- jinni yaamineenim kee yaamineenim 72:1-15
 - inki inki mari elle yaaminem kur'aanak farmo 46:29-32
 - seehadayti baxi kee jinni hadafah ginnimtem 51:56-58
 taama, 4:163; 6:84; 21:83-84; 38:41-44
-Yoona, (Yahya, Yoona Baptise),
+Yoona, (Yahya, Yoona Baptise)
 - rufto le xaagu, 3:38-41; 19:7-11; 21:90
 - Gita, 6:85
 - kasle, racmatta, dirki, 19:12-15
-Yoonas (Yoonas akkek Yuunus), 4:163; 6:86; 10:98;21:87; 37:139-148 fanah;
+Yoonas (Yoonas akkek Yuunus), 4:163; 6:86; 10:98;21:87; 37:139-148 fanah
 - (Duu n-nuun) 21:87; 68:48-50
 yuusuf (yuusuf), 6:84; 12:4-101
-- tayse aydaadittek 12:1-3;
-- qunxa yuusuf soono 12:4-6;
-- kay toobokoh gabat agle 12:7-18;
-- naqoosa limmowteh 12:19-20;
+- tayse aydaadittek 12:1-3
+- qunxa yuusuf soono 12:4-6
+- kay toobokoh gabat agle 12:7-18
+- naqoosa limmowteh 12:19-20
 - Masrik Naharsi malaakih buxal ugte 12:21-22
-- Naharsi malaakak barra kaa duquurussam faxxa 12:23-29;
-- Qaffaydah tekkooka 12:30-32;
-- casbi buxa fan gexa 12:33-35;
-- namma casbi mari 12:36-42;
-- Amoyti soono 12:43-53;
-- Naharsi malaak yakke 12:54-57;
-- toobokoyti kaah yamaate xayyos 12:58-68;
-- isi toobokoyta Binyaamin beeh 12:69-82;
-- kay abbah rooka 12:83-87;
-- kay numma kinnaane baxxaqisa 12:88-98;
-- dumaahi soono numma tekke 12:99-100;
+- Naharsi malaakak barra kaa duquurussam faxxa 12:23-29
+- Qaffaydah tekkooka 12:30-32
+- casbi buxa fan gexa 12:33-35
+- namma casbi mari 12:36-42
+- Amoyti soono 12:43-53
+- Naharsi malaak yakke 12:54-57
+- toobokoyti kaah yamaate xayyos 12:58-68
+- isi toobokoyta Binyaamin beeh 12:69-82
+- kay abbah rooka 12:83-87
+- kay numma kinnaane baxxaqisa 12:88-98
+- dumaahi soono numma tekke 12:99-100
 - amoqayxi dooqa 12:101
 Juudi, Qale, 11:44
 Jumuqa, S.62
 qadli ( maysaxxaga), 2:282; 4:58, 135; 7:29; 16:90; 57:25 (
 - ubul kaadu 4:65, 105
-Kaaba,
+Kaaba
 - ibraahim xissem, 2:125-127
 - digir qidim mayan, 5:94-96
 - dacayroh arac, 5:97
@@ -740,17 +739,17 @@ Kahfi, S.18
 Kanz, 9:34-35
 Kawutar ( daqar gannat addat), 108:10.
 kautar, S.108
-Mafaatic,
+Mafaatic
 qaran kee ardi, 39:63; 42:12
 Gaaybik, 6:59
 khaulah binti tha labah, 58:10.
-Qidim,
+Qidim
 - faxe num qidek, usuk inkih tan seehada qide, 5:32
 - num maqidin, 17:33
 Meqe qangor meqem abittoh aysuk yayseh, 2:263
 ramad, gar, 2:83, 177, 215; 4:7-9, 36;8:41; 16:90; 17:26; 24:22; 29:8; 30:38; 42:23
 kiraaman-raatibin, 82:11
-Iddiga,
+Iddiga
 - caffi marada, takkay immay usuk yaaxigeh tet, 6:59
 - bayteh oson sinni xaylo qideenim duquurinnak, sinnim, 6:140
 - koona caagidik, Yalla dubuk luk, 31:34
@@ -760,14 +759,14 @@ kursi, 2:255
 Lahab ( ubul masad), S.111
 Layil, S.92
 kooran, 25:61; 67:5; 71:16; 78:13
-Afitte,
+Afitte
 - labhak baxsa kee bisitte, 30:22
 Laat, 53:19
 Madqa, amrisen, 5:48
 Yallik madqooqi, 2:219; 98:3
 Dirabli, 26:221-223
 Mano, faxe num num catak, usug inkih tan seehadayti baxi mano catak, 5:32
-Ta baad mano,
+Ta baad mano
 - xaameh, mellebik akheera, 2:86
 - dubuk aylahsiyyi rufto, 3:185
 - limmos, akheeratah, 4:74
@@ -779,7 +778,7 @@ Ta baad mano,
 - faxe num, wokkel geya; takkay immay tohuk lakal akeerat exxa matana, 11:15-16; 17:18; 42:20
 - yan wargu kicnaah, akheerat carra sinnim, 75:20-21; 76:27
 - atu doorteh, 87:16
-Ifu,
+Ifu
 - baxxaqsa, 4:174
 - kee dite, 6:1.
 - ceelalloh, 24:35
@@ -794,7 +793,7 @@ cuduud daffeese yalli, 2:173,187,190,230;9:112; 58:4; 65:1; 78:22
 - oson taturen wak, ( damaqti yekken), 7:166
 - iyyi yablem, 9:112
 Lubak, 74:51
-Abuudu,
+Abuudu
 - Yallah meqem abuudus, 2:245; 73:20
 - mangoomuk ossotina, 57:11, 18
 - xibbaani, 64:17
@@ -812,7 +811,7 @@ Mahr (digib-lakqo), 2:229, 236-237; 4:4,19-21,24-25; 5:5; 33:50; 60:10-11
 Mayda, S.5
 Makka (bakkah), 3:96;90:1-23.
 - Magaalak saay, 95:30.
-Numu,
+Numu
 - horaak horak hora ardi bagul, 2:30;6:165
 - ciggiilak bicsen, 35:39
 - dirki, 2:83-84, 88, 177; 4:1-36; 8:41; 16:90;17:23-39; 24:22; 29:8-9; 30:38;33:33;42:23; 64:14; 70:22-35
@@ -877,7 +876,7 @@ Numu,
 - inkih tan maadu taturta, 96:6-7.
 manaasiik (dirki) cajjih, 2:128,200; 22:30
 manaata, 53:20
-Sehdayti baxi,
+Sehdayti baxi
 - wadittek daga, 2:143
 - inki ayyunta, 2:213; 10:19
 - dubuk yan nammaytakkoh hadlimte, 4:1; 39:6; 49:13
@@ -887,7 +886,7 @@ Sehdayti baxi,
 - kaxxa kunnabna le, 49:13
 - agat kee kedoodah bicsen, 49:13
 Manna kee doora, 2:57
-Meqem kaban,
+Meqem kaban
 - qarwa culiyya wagittaamal, 24:27-29
 - buxah addal, 24:58-61
 - nabiyyi qarih addat, 33:53
@@ -910,7 +909,7 @@ Digibi, 2:232, 234
 - too maaliyyah gorrise wee mari digibih, 24:33
 - barra halal abte farmoytal, 33:50-52
 - fidoh angaarawak naharal, cabtil Idda mali, 33:49
-Shahiiditte,
+Shahiiditte
 - marabinna, 2:154; 3:169
 - ruffa inxic racmatta kee Yallih gabat,3:170-171
 - qafuuta kee racmatta gey, 3:157-158
@@ -930,7 +929,7 @@ masaad, S.111
 Mawun, S.107
 Ma'wa gannata, 53:15
 acassaale kee qilsa, dudda luk ucuy, 11:85; 17:35;83:1-5
-Gaaboyna,
+Gaaboyna
 - Yalla lih, 6:31
 - kaxxa ayro, 19:37
 - Akheeraak, 30:16
@@ -960,7 +959,7 @@ Miraaj, 17:1; 53:12
 Alsitte, ixxima, 9:36-37
 Alsa, 7:54; 10:5; 16:12; 22:18; 25:61; 36:39-40; 71:16; 91:2
 - kurruumak; 54:1
-Muusa,
+Muusa
 - kee kay ummatta, 2:51-61; 7:138-141,159-162; 14:5-8; 61:5
 - kee Firqawni, 2:49-50; 17:101-103 fanah; 20:17-53, 56-79;23:45-49; 25:31-42; 40:23-46; 43:46-56; 51:38-40; 73:16;79:15-26
 - Yalli miraacisam, 6:84
@@ -970,23 +969,23 @@ Muusa,
 - yomcowweh yan kutbe, 17:2.
 - sagaal qado astooti, ​​7:133; 17:101
 - namma badih angaaraw fan, 18:60-82
-- carartah tan caxaaxuwih addat tan saamih garayyo 20:9-36; 27:7-14; 28:29-35;
+- carartah tan caxaaxuwih addat tan saamih garayyo 20:9-36; 27:7-14; 28:29-35
 - seecimeeh farmoytiinu yomcowwe, 19:51-53;20:9-56
 - kay qunxa mariino, ina kee maqanxa, 20:38-40;28:7-13
 - baab abeynit milaagimteh, 20:70-73; 26:46-52
 - madiyaan addal, 20:40; 28:22-28
 - xiqsisso tomcowweh, 21:48
 - kee cuumi gira, 27:7-12; 28:29-35
-- magaalal hoxat Masri num qide 28:14-21;
+- magaalal hoxat Masri num qide 28:14-21
 - qado Ayat luk yemeete, 29:39
-- Firqawni lih aydaadu 7:103-137; 10:75-92; 11:96-99; 26:10-69;
-- Firqawni kee kay ummattah sagaal takke astooti 7:130-133; 20:17-22; 17:101;
-- Firqawni baab abeynit 20:70-73; 26:46-52;
-- Midiyaan fanah kudak kee digibih 28:22-28;
-- kaniina harge 7:142-154,
-- Yalli qalel yableenim essera 7:142-145;
-- yalli konnabna le 33:69;
-- Yalli israa-eel le niqmat 2:47-61;
+- Firqawni lih aydaadu 7:103-137; 10:75-92; 11:96-99; 26:10-69
+- Firqawni kee kay ummattah sagaal takke astooti 7:130-133; 20:17-22; 17:101
+- Firqawni baab abeynit 20:70-73; 26:46-52
+- Midiyaan fanah kudak kee digibih 28:22-28
+- kaniina harge 7:142-154
+- Yalli qalel yableenim essera 7:142-145
+- yalli konnabna le 33:69
+- Yalli israa-eel le niqmat 2:47-61
 - Israa-eel xaylo Yeruusaalem cultam cinteh 5:20-29
 - Gitah yan gita miraacisak, 37:114-122
 - kutbe, 53:36; 87:19
@@ -1074,7 +1073,7 @@ Mumtahaana, S.60
 Munafigun, S.63
 qidim, 2:178-179
 Mursalaat, S.77
-Muslimiin,
+Muslimiin
 - qimmok, 6:14, 163; 9:100; 39:12
 - Iyyi muggaaqiseeh, 22:78
 - qafuuta kee kaxxa acwa keenih miyya, 33:35-36
@@ -1086,7 +1085,7 @@ Naal, S.16
 Najaas (saytun) 9:28
 Najmi, S.53
 Najwa (Sirri wagita)
-Migaaqitte,
+Migaaqitte
 Kaxxam qaxa le, 7:180
 Kaak taysem, 17:110; 20:8; 59:24
 Faxximtam, inkitti dirkiseh yenek, 2:173; 6:145
@@ -1099,10 +1098,10 @@ Bar, (asta innal), rabboh, 10:67
 - Ayfaf takkuh, 14:32
 - Bar Al-Qadri (Kuktak), 44:3-4; 97:1-5
 Nisa', S.4
-Nuuc, 3:33; 4:163; 6:84; 9:70; 10:71;11:25,32,36,42,45-46,48,89; 17:3; 21:76; 25:37; 26:105; 29:14; 37:75; 51:46;54:9; 69:11;
-- yusuuleh 11:38;
+Nuuc, 3:33; 4:163; 6:84; 9:70; 10:71;11:25,32,36,42,45-46,48,89; 17:3; 21:76; 25:37; 26:105; 29:14; 37:75; 51:46;54:9; 69:11
+- yusuuleh 11:38
 - weeqi (gibdi weeqi), 29:14
-- doonik kee weeqi 7:59-69, 11:25-48; 23:23-31; 26:105-122 fanah; 71:1-28;
+- doonik kee weeqi 7:59-69, 11:25-48; 23:23-31; 26:105-122 fanah; 71:1-28
 - gitat ane sinni baxi cattiiminna, 11:42-48
 - gitat ane sinni barra, 14:9; 17:3,17;19:58;21:76; 22:42; 26:105-106, 116 fanah; 33:7; 37:75,79; 38:12; 42:13; 40:5,31; 42:13;50:12;53:52; 57:26; 66:10; 71:1,21,26
 Nuuc, S.71
@@ -1136,7 +1135,7 @@ Ceelallo, (ceelallo, ceelalloh, ceelallo)
 - rob, 10:24
 - saytun gaaboyso, 10:24
 - inti maleela kee aytimali, 11:24
-- Yalli saduh dirab rabbitte 13:14; 16:76;
+- Yalli saduh dirab rabbitte 13:14; 16:76
 - numma saduh diraaba 13:17
 - silayti naqabut elle radah yan gommod,14:18
 - meqe caxa, 14:24-25
@@ -1164,7 +1163,7 @@ Ceelallo, (ceelallo, ceelalloh, ceelallo)
 - danan, 62:50.
 - lee wonnah cultam faxxiimak sugte, 67:30
 - caxaaxuwi aracih mari, 68:17-33
-Firdawsi gannata,
+Firdawsi gannata
 - sigmah, (ma'wa gannat), 53:15
 - firdawus jannatak, 18:107; 23:11
 - caxaaxuwi aracal weeqaytitte kak caxta, 3:15, 198;4:57; 5:119; 7:43; 9:72; 18:31; 22:23; 39:20;57:12; 64:9; 98:8
@@ -1187,7 +1186,7 @@ Firdawsi gannata,
 - jannatih addat yan daqar, kautar,108:10.
 - qinab daqoorit, can, qaddoowe malab, 47:15
 - saytun alfime qinab, qidi, salfa le, 37:45-46; 56:18; 76:21; 83:25
-- galas, yengeggele lih, zanjaabil, 76:17; 78:34;
+- galas, yengeggele lih, zanjaabil, 76:17; 78:34
 - lee, 76:50.
 - dahab sandug kee kubbayya, 43:71
 - lakqo mansoofa kee kiristaal kolbitte, 76:15-16
@@ -1234,21 +1233,21 @@ Firdawsi gannata,
 - agabi rufto le iraawoh addat, qarkaytoh amol daffeyak, 36:55
 - Qunxaaneyti dudda le angu le sayyo inki gid takke karmat,78:33
 - raba sinni awki- taama abeynit keenih ayfaf taceem, fixixxeh tan luul, 52:24; 56:17; 76:19
-- qaran kee ardih innah baar le 3:133, 57:21;
-- arda lee, xamcin iraawo, salfa le maaqooqaa kee saytun kataysis 2:25; 4:57; 36:55-58; 37:40-49; 38:50-54; 44:51-57; 52:17-24; 69:19-24; 76:5-22;
-- muuminiin acwa 55:46-78; 56:10-40;
-- daqoorit malab, can, lee, kee qinab 47:15;
-- dooqa kee salaamatta 10:9-10; 39:73-74;
-- salaamatta luk salaamatta 13:23-24; 14:32;
-- amotani sugmenta rufto 11:108;
-- 15:45-48 cabaanam qigdu masserinna;
-- ifu keenik foocal keenik migdal 57:12;
-- laqna akkek xabca matan 76:13;
-- inkih tan qaago oggolimteh 16:30-32; 41:31-32;
-- dahab cagol kee meqe cariir sartan 18:30-31; 22:23-24; 44:51-53;
-- dahabak tan kolbitte 43:67-73;
-- lakqo mansaf kee caxâ baxi waxeexih addat 76:14-16;
-- qarkaytoh amol daffeyaanam 15:47; 37:44; 52:20;
+- qaran kee ardih innah baar le 3:133, 57:21
+- arda lee, xamcin iraawo, salfa le maaqooqaa kee saytun kataysis 2:25; 4:57; 36:55-58; 37:40-49; 38:50-54; 44:51-57; 52:17-24; 69:19-24; 76:5-22
+- muuminiin acwa 55:46-78; 56:10-40
+- daqoorit malab, can, lee, kee qinab 47:15
+- dooqa kee salaamatta 10:9-10; 39:73-74
+- salaamatta luk salaamatta 13:23-24; 14:32
+- amotani sugmenta rufto 11:108
+- 15:45-48 cabaanam qigdu masserinna
+- ifu keenik foocal keenik migdal 57:12
+- laqna akkek xabca matan 76:13
+- inkih tan qaago oggolimteh 16:30-32; 41:31-32
+- dahab cagol kee meqe cariir sartan 18:30-31; 22:23-24; 44:51-53
+- dahabak tan kolbitte 43:67-73
+- lakqo mansaf kee caxâ baxi waxeexih addat 76:14-16
+- qarkaytoh amol daffeyaanam 15:47; 37:44; 52:20
 - yaamine mari sinni Rabbi ablelon 75:22-23
 xaleena, meqem mariinoh, 2:83, 215; 4:36; 16:90;17:23; 29:8; 31:14; 46:15-17
 Yallih waklentit, dirab,4:116;10:34-35,66; 16:86; 28:62-64, 71-75; 30:40;42:21
@@ -1257,7 +1256,7 @@ Gita, 5:77; 16:94; 42:52-53; 43:43; 90:11-12
 - wagit kaadu gita
 Sabri, 3:186, 200; 10:109; 11:115; 16:126-127 fanah; 20:130; 40:55, 77; 42:43; 46:35; 70:5;73:10
 - cato gorris, kee dooqa, 2:45, 153; 20:132;50:39
-Lakmise,
+Lakmise
 - inki gabuuk acwa geelon, 39:10
 -Yalli edde yan mara lih yan, 8:46
 - kee takkem, 11:115
@@ -1266,7 +1265,7 @@ Lakmise,
 Salaam, 8:61 fan obsa
 luul kee koraal, daccarsimteh, 52:24; 55:22; 56:23
 kalam, 68:1; 96:4
-Inki numu,
+Inki numu
 - Yalli quuka mali a, kay waadok iroh,2:286; 7:42
 - Yalli qiso mali, kay duddak ugutak akke waytek, 23:62
 - bale, yaaxigeh usuk beera maca geyam kee manni baaxol usuk rabelem, 31:34
@@ -1287,7 +1286,7 @@ Firqawni, 28:6; 40:24
 - kalqatih xiso, 40:36-37
 - wagit kaadu muusa
 baad caagiida kobxisaanam, 102:1-4.
-xagana (Baa'ah),
+xagana (Baa'ah)
 - Islaaminnah, 16:91
 - farmoyti fan Bai'a (xagana) Yalla fan, 48:10
 - diini marak, 48:18; 60:12
@@ -1323,17 +1322,17 @@ farmoytit, 3:33-34, 146; 4:163; 5:20; 6:84-90;23:23-50; 57:26
 - madqak iroh, 3:161
 - kulli numuh naqboyti, 6:112; 25:31
 - Farmoytit kaadu wagita
-Sujuud,
+Sujuud
 - Yallih addat rade, faxem qaran kee ardi bagul kee tonnah ken silaalal, 13:15
 Xayyos, 10:59; 13:26; 14:32; 16:73; 34:36,39; 42:12; 51:57; 67:21; 79:33
 Zabuur, 4:163
-Digaala,
+Digaala
 - udurrusaanam, 3:178
 - gaba akkek ibaabi yargiqeenimi, 5:33
 - ken digaalah too atu edde biyaakitteh tan innal, 16:126
 - ta mano kee akeera, 24:19; 68:33
-Saytunnos,
-- dagar,4:43; 5:6;
+Saytunnos
+- dagar,4:43; 5:6
 - roociini gurral ( wasak), 87:14; 91:9
 Qadar, 5:5; 64:11
 Qadri, S.97
@@ -1345,7 +1344,7 @@ Qaarun (Qurah), 28:76-82; 29:39
 Qasaas,S.28
 qqbaalaay, 2:142-145,149
 Qisas (Madqa inki gid akkiyya digaalah), 2:178-179, 194; 5:45; 16:126; 17:33; 22:60;42:40
-Kur'aan,
+Kur'aan
 - baxxaqimteh, 13:31, 36, 37; 14:1; 56:77-80
 - Yallak iroh yan numuk murtussam duuddam hinna, 2:23; 10:38; 11:13; 17:88
 - Yallak iroh gersi numuk sugtek, wokkel mango sadu sugte, 4:82
@@ -1395,7 +1394,7 @@ Kur'aan,
 - saytun galitte kawsaanam, 98:20.
 - ubul kaadu kitab; Maybalaalaqa
 Kurayshi, S.106
-Kurayshi,
+Kurayshi
 - kaafitte, 54:43-46,51
 - barsaanam, 106:1-4
 Rabbittee kee rahiibitte, 9:31,34
@@ -1403,26 +1402,26 @@ Qalayli, meqe taamah addat, 5:48
 Raad, S.13
 Racmaan, S.55
 Qadli sartan tayse, 7:26
-Roobu,
+Roobu
 - Yallih acwa, 56:68-70 fanah.
 - xaahi, 27:58
 Ramadhaan, 2:185
 Raami, 2:200
-Fidga,
+Fidga
 - bale, beelon, 57:15
 - xayyowtem kaafir, 3:91; 10:54; 13:18
-fidiya, soom, 2:196;
+fidiya, soom, 2:196
 - yabbixeenim currik yayyaaqoonuh, 8:67
 Raas, sigeenit, 25:38; 50:12
-Mekla,
+Mekla
 - ayro, 1:4; 37:20; 51:12; 56:56; 82:17-18; 96:7
 - ganak, 107:1-7.
 - umaanek umaane tet ceela, 42:40
-Wagari,
+Wagari
 - qafuuta abaah, 42:40
 - num kee barrah fanat, 4:35
 - diini marih fanat, 49:9-10
-Maysaqarra,
+Maysaqarra
 - maysarraqa tunkuttube, 83:7-9, 18-21
 -kulli agattiinah seecimele,45:28-29
 - tunkuttube galitte abtoota umman numuk,81:10
@@ -1432,7 +1431,7 @@ Maysaqarra,
 - darrek, 84:10-15
 malaykoota tasjiilih, 50:17-18,23; 85:11
 Cato, gibdaabina lih, 94:5-6.
-Diini,
+Diini
 - dirki mali, 2:256
 - islaaminna, 3:19
 - Yallih adda, 3:83-84
@@ -1449,7 +1448,7 @@ Diini,
 - aboyya, 43:22-24
 Yallih kassit, 63:99.
 - addat, sorkoco baxi rabbo geele, 13:28
-Tooba,
+Tooba
 - oggolteh umaane tekkek iggimaa kee toobit xayuk lakal, 4:17; 6:54
 - kee uli xaloot mali, uma abtoota bisoh intek, 4:18
 - Usug oggoleh, kee zambitte qafuuta, 4:25
@@ -1457,7 +1456,7 @@ umaanek rabbo, 3:178; 10:11; 12:110; 14:42,44; 29:53-55; 86:15-17
 Uguugus, 2:28, 7:53; 14:21; 16:38-40; 22:5-7; 23:15-16; 31:28, 41:39, 46:33-34; 50:3,20-29,41-44; 64:7,75:1-15; 79:10-12; 86:5-8
 - ceelalloh Ezra 2:259 aydaadih addat
 - ibraahim 2:260
-- gablah ummatta 18:9-26;
+- gablah ummatta 18:9-26
 - maabitinah ugtuma ganak 17:49-52, 17:97-100, 19:66-72, 37:11-27, 50:1-15, 80:17-42
 Qidimih ayro, 7:89; 20:100-101, 124
 - numma ayro, 78:39
@@ -1548,7 +1547,7 @@ tasjiil darrek yomcowwe, 84:10-15
 - Jahannam xayyoowe le, 89:23
 - Jahannam-gira duugumele, gibdi girah cararele, 81:11-12
 - sadaqah gital canê gacsi kaffaarat akkele, 5:45
-Maybalaalaqa,
+Maybalaalaqa
 - atu dareemu tellek, 2:23-24
 - baytem akkek habbalteh tan aayat, 2:106
 - gitah yan miracsenta, 3:73
@@ -1560,13 +1559,13 @@ Maybalaalaqa,
 -kitaabak Yallak temeete,46:2
 - Kitab kee Kuran kaadu wagita
 keenil tekkeh tan zulmih canê gacsi, 42:39-43
-Acwa,
+Acwa
 - meqe abtootah gurral, kee wohuuk daga, 24:38; 29:7; 39:35
 - acwah innal 25:15
 - Yalli maqaane aba marah galato yaceeh, tayseemih, 53:31
 - maqaane, meqeemik iroh uli acwa mali, 55:60
 Riiba (Riba wagita)
-Gitat tan,
+Gitat tan
 - egla, 4:69
 - baaxo naggaarimele, 21:105
 - gannat addat, 51:15-19; 76:5-12
@@ -1585,7 +1584,7 @@ Ruuha (rooci, rooci), 15:29; 17:85; 58:22
 Rum, S.30
 Saba' (Saba), 27:22-44; 34:15-21
 Saba', S.34
-Sabti,
+Sabti
 - tabaatabsa, 2:65; 4:154; 7:163-166
 - dubuk amrisen, 16:124
 Sabiyaan, 5:69; 22:17
@@ -1611,23 +1610,23 @@ Sheytan, 2:36, 168, 208, 268, 275; 3:36,155,175;4:38,60,76,83,119-120; 5:80, 91;
 - diini maral cayla mali, 16:99-100
 - dirab qida, 22:52-53
 - naqboyta, 12:5; 35:6; 36:60
-- kaxxiina 2:34; 7:11-27; 15:26-43; 17:61-65; 38:73-85;
-- inki jinni 18:50-51;
-- Adam gabbat kee radim 7:20-23; 20:116-121 fanah;
-- diini maral reeda mali 16:98-100;
-- kay hadaf 35:6-8;
-- seehadayti baxi naqboyti 12:5; 17:53;
-- kay missoyna 53:14-19;
-- kay gabah taama 5:90-91;
-- meqe taama niya yirgiqeh 2:268;
-- muuminiin Yallal dacayri gorrisan kaak 7:200-202;
-- kay ekraaroora boolale 4:76;
-- kay kataysis oobis 8:48;
+- kaxxiina 2:34; 7:11-27; 15:26-43; 17:61-65; 38:73-85
+- inki jinni 18:50-51
+- Adam gabbat kee radim 7:20-23; 20:116-121 fanah
+- diini maral reeda mali 16:98-100
+- kay hadaf 35:6-8
+- seehadayti baxi naqboyti 12:5; 17:53
+- kay missoyna 53:14-19
+- kay gabah taama 5:90-91
+- meqe taama niya yirgiqeh 2:268
+- muuminiin Yallal dacayri gorrisan kaak 7:200-202
+- kay ekraaroora boolale 4:76
+- kay kataysis oobis 8:48
 - yab kay kataysis lih jahannab addal 14:22
 - Ibliis kaadu wagita
 qeedaalisso, mayso, miyyi qilsi akkele, 7:8-9.
 - ubul kaadu qeedaalisso
-kutbe,
+kutbe
 - ummattah, (yahuud kee koros), 2:109;3:64-65,69-72,75,98-99,110,113,199; 4:47, 153-161 fanah; 5:59-60,68; 98:1
 - oson maca yaaqureenim, 5:61-63
 - keenik fanak gitah yan korsil yani,5:66
@@ -1635,7 +1634,7 @@ kutbe,
 Badditte, 42:32-33; 45:12
 - nammay, 18:60; 25:53; 35:12; 55:19-20
 - malqooy, bakaqtam, 82:30.
-Sirri (Najwa),
+Sirri (Najwa)
 - yaabitte, 4:114
 - sidocuk qakkaloysa, 58:7.
 - fayitte, 58:8,10
@@ -1644,10 +1643,10 @@ Diini addat tan diinitte kee baxsitte, 6:15; 23:53;30:32; 42:13-14; 43:65; 45:17
 Amaan, ceynitiyyak lakal, Usug oobeh,3:154
 Dariyyu, iyyaay tet dadlissam, 56:63-67
 Cusoosa, 23:78
-Malciini, ginnimteh,
+Malciini, ginnimteh
 - qaran, 2:29; 23:17; 65:12; 67:3; 71:15
 - kee ardik tokkel tan, 65:12
-Silaalo,
+Silaalo
 - Yallah sujuudih addat raddaama,13:15; 16:48
 baxcisiyyi, 25:45
 shams, S.91
@@ -1679,12 +1678,12 @@ naqoosa, 2:177-178; 4:25,36,92; 5:89; 24:33; 58:3; 90:13
 xin, rabboh caagid, 78:9.
 soodooma, 29:31; 37:136
 soodomi, 7:80-82; 11:77-83; 15:61-77; 29:28-29
-Suleymaan, 2:102; 4:163; 6:84;
-- isi abba Daavid qadlinaan le cokmi guftuh cato 21:78-82;
+Suleymaan, 2:102; 4:163; 6:84
+- isi abba Daavid qadlinaan le cokmi guftuh cato 21:78-82
 - kee xuune, 27:15-19
 - kee hoopo, 27:20-26
 - kee Saba'h Amoyti, 27:22-44; 34:15
-- Yalli kaal abah yan racmat 34:12-14,38:34-40;
+- Yalli kaal abah yan racmat 34:12-14,38:34-40
 - kay kacni meqe farasitteh 38:30-33
 Baxi, qarse, 33:4-5.
 Rooci (rooci, Ruuhu), 15:29; 17:85; 58:22
@@ -1704,8 +1703,8 @@ carbi qanxix, 8:41,69; 48:15,19-20; 48:15
 Ayti gexxo, 49:12
 cutukta, 53:1,49; 86:1-4
 cutuuka, 7:54; 15:16; 16:12,16; 22:18; 25:61;37:6-10; 56:75; 77:8; 81:2; 82:2
-Massat, Gita, 1:6,
-- w.w tanim. Gita, 6:153,
+Massat, Gita, 1:6
+- w.w tanim. Gita, 6:153
 - w.w tanim. Macala, 4:95; 8:72,74,75; 9:20,24,81; 22:78; 25:52; 29:69:69; 47:3; 60:1; 61:11
 Anxabi, qangara, qarse ina, 2:233
 Gandi, baacah, qaafiyat finqaa kee qawwalaylooli; leeda kee gadda, 7:94-96
@@ -1775,7 +1774,7 @@ Uuza, 53:19
 Reebu, ambulle sinni, 17:45-46
 reebu, 24:31; 33:59
 aayatitteh, sab al-mataani, 15:87
-mayso,
+mayso
 - Yalli yeceeh yan, 48:11.
 - Yallih catotta, 61:13
 Meqem kaban, ( ubul nummat; diini mara)
@@ -1792,7 +1791,7 @@ Gita, woo, 1:6; 42:52-53; 90:10
 - w.w tanim. sahlinih, sahhalos, 87:8.
 - Gita kaadu wagita
 gita yayyaaqe, 2:177,215; 8:41; 17:26; 29:29;30:38; 59:7
-Gaddaliino,
+Gaddaliino
 - iyyi gaaboyseeh, 104:2-4.
 - Yallih gitah tayyaaqeenim (wagit Nifisiyya)
 Gadda kee xaylo, ta baadal tan manoh bilqa, 18:46
@@ -1810,7 +1809,7 @@ Qinab (Gannat addat)
 - daqoorit, 47:15
 - saytun alfime, 83:25
 Yalli inkinki mari gersi marak yayseh yan tumammi maqaagitin, 4:32
-Waditte,
+Waditte
 - farmoytit xagana, 3:81
 - seehadayti baxi amol, 2:143; 22:78
 - Ambalal, 2:282
@@ -1820,7 +1819,7 @@ Waditte,
 - gaba kee ibi sumaq akkele, 36:65
 - num isil qagitak, 75:14
 sumaaqitteh ayro kee sumaaqitteh ayro, 85:30.
-Barra,
+Barra
 - koh buqre, 2:223
 - koh reebu, 2:187
 - isi qaynatak, 16:72
@@ -1832,7 +1831,7 @@ Sayyo, 2:222-223; 4:15, 19-22, 34, 127
 - tuhat is maqaddoosinna, 43:17-18
 Boco, sigeenit, 15:78; 38:13; 50:14
 - ubul kaadu Aykah; madiyaan 26:176-191
-Baad, tah mano,
+Baad, tah mano
 - tuhinna takkay immay digir kee wacaysir, 6:32;29:64; 47:36; 57:20
 - labha duquurussa, 6:130
 - dagoomuy rufto le, akheeraak muxxi, 9:38; 13:26; 28:60-61
@@ -1844,7 +1843,7 @@ Hoxat yan mari,11:18-22,101-104,116-117;39:47
 - ubul kaafiritte kaadu
 Wudu' (Kaadu), 4:43; 5:6
 Yaaguut, 71:23
-Yahya (Yoohannis),
+Yahya (Yoohannis)
 - farci xaagu, 3:39; 21:90
 - Gita, 6:85
 - kas le; racmattale; dirki le, 19:12-15
@@ -1865,52 +1864,52 @@ Zihaar, 33:4; 58:2-4
 Zukruf, S.43
 Zuumar, S.39
 Rakiiboh radmooma
-- Imaan qigdu 5:3;
-- dubuk yalli oggoleh yan gita 3:19,85;
-- Islaam oggoloonuh dirki mali 2:256;
-- inki diini baxaabaxsale diinitte kee madqooqih sirritte 5:48; 22:67-70; 42:13-14;
-- islaaminnah farmoytit 2:135-136; 3:84; 4:163-165 fanah;
-- amritte (Yallal imaan haysitaay meqem aba) 4:36; 6:151-154;17:23-39;18:107-108;
-- shariqak koona hadaf: imaan dacrisaanam 5:54;
-- mano kalalaanam 5:32;6:151;
-- gadda kalalaanam 5:38;
-- massakaxxa dacrisaanam 5:5;24:4;
+- Imaan qigdu 5:3
+- dubuk yalli oggoleh yan gita 3:19,85
+- Islaam oggoloonuh dirki mali 2:256
+- inki diini baxaabaxsale diinitte kee madqooqih sirritte 5:48; 22:67-70; 42:13-14
+- islaaminnah farmoytit 2:135-136; 3:84; 4:163-165 fanah
+- amritte (Yallal imaan haysitaay meqem aba) 4:36; 6:151-154;17:23-39;18:107-108
+- shariqak koona hadaf: imaan dacrisaanam 5:54
+- mano kalalaanam 5:32;6:151
+- gadda kalalaanam 5:38
+- massakaxxa dacrisaanam 5:5;24:4
 - inki numih dudda kalalaanam 5:90.
 Yallal Taamineemi 2:255
-- Qibaadah mexxat, Qaxmeqe Migaaqitte 57:1-6; 59:22-24; 85:13-16; 112:1-4;
-- dubuk yalla qibaadah taguudeh 1:1-4; 2:285; 6:3; 43:84;
-- inkih tan reeda kay imi 3:26; Kay Taaqeh ('Arsh) 7:54; 11:7;
-- Kay Kursi (ibi korsi hinnay korsi) 2:255;
-- loowo sinni fayxi seehadayti baxi amol 14:32-34; 2:164; 16:2-93; 31:20; 55:1-25;
-- mano taceem kee raba katassa 44:8; 53:44; 57:2; 67:2;
-- rufto kee rooka bahta 53:43;
-- mangom akkek waadole xayyos yacee 13:26; 17:30; 29:62;
-- inkih tan garkureenit yayse 95:8;
-- kaxxa racmatta le racmatta le 12:92;
-- gitat yan mara kicna 85:14;
-- Qafuuta kibuk tanim kee gibdi digaala 13:6, 40:3;
-- Naharsi kee Ellecabo 57:3;
-- inkih tan kunnabna kee reeda kay imi 35:10;
-- amixxige sinnim yaaxigeeh, able weem yable 6:59,73; 9:94,105; 13:8-10; 31:34; 32:6; 34:48; 35:38; 39:46; 49:18; 59:22; 62:8; 64:18; 72:26; 74:31; 87:7;
-- sorkocobaxak addat qeltut tanim nagay yaaxigeh 5:7; 11:5; 31:23 ;
-- tekkem kee uxih tamaatem yaaxigeh 2:255;
-- kutbeh kullim tasjiilit ( hinnay daccarsimte tablet) 6:38; 13:39; 36:12;
-- faxem abam duudah 2:117; 3:189; 8:41; 9:116; 11:4; 16:40; 40:68; 41:39; 42:49;57:2;
-- Kaak ellecabo sinni cayla 3:26-27; 24:45; 31:28-30;
-- qaran kee ardi laca ayrot gineeh, qigdu mataqaba 46:33; 50:38;
-- ‘Kik!’ inta qangara lih ginnimte 36:81-83;
-- qigdu qadli sinna kay ginok 3:108; 4:40; 17:71; 21:47; 22:10; 26:209; 40:31; 41:46; 45:22; 50:29; 64:11; 78:6-16;
-- kullim kay fayxih addat tan 3:83; 22:18; 30:26;
-- inkih soolan kay fayxih 11:6; 35:15; 55:29;
-- Kaal eemen 10:84-85; 12:67; 25:58;
-- qibaadah angaarawih cibtitte 42:51;
-- 2:21 mesenkacat haanam faxximta; 3:102; 4:1; 33:70-71; 59:18;
-- wale acwa kaak 2:269;
-- Usug faxe num mafaxa 3:97; 6:133; 112:2;
-- sidocuk tiya hinna 4:171;
-- kataysa mali 6:101;
-- xaylo mali 10:68; 19:35; 43:81; 72:3; 112:3;
-- waklentit mali hinnay eglaali mali 6:94; 7:191-195 fanah; 46:4-5;
+- Qibaadah mexxat, Qaxmeqe Migaaqitte 57:1-6; 59:22-24; 85:13-16; 112:1-4
+- dubuk yalla qibaadah taguudeh 1:1-4; 2:285; 6:3; 43:84
+- inkih tan reeda kay imi 3:26; Kay Taaqeh ('Arsh) 7:54; 11:7
+- Kay Kursi (ibi korsi hinnay korsi) 2:255
+- loowo sinni fayxi seehadayti baxi amol 14:32-34; 2:164; 16:2-93; 31:20; 55:1-25
+- mano taceem kee raba katassa 44:8; 53:44; 57:2; 67:2
+- rufto kee rooka bahta 53:43
+- mangom akkek waadole xayyos yacee 13:26; 17:30; 29:62
+- inkih tan garkureenit yayse 95:8
+- kaxxa racmatta le racmatta le 12:92
+- gitat yan mara kicna 85:14
+- Qafuuta kibuk tanim kee gibdi digaala 13:6, 40:3
+- Naharsi kee Ellecabo 57:3
+- inkih tan kunnabna kee reeda kay imi 35:10
+- amixxige sinnim yaaxigeeh, able weem yable 6:59,73; 9:94,105; 13:8-10; 31:34; 32:6; 34:48; 35:38; 39:46; 49:18; 59:22; 62:8; 64:18; 72:26; 74:31; 87:7
+- sorkocobaxak addat qeltut tanim nagay yaaxigeh 5:7; 11:5; 31:23
+- tekkem kee uxih tamaatem yaaxigeh 2:255
+- kutbeh kullim tasjiilit ( hinnay daccarsimte tablet) 6:38; 13:39; 36:12
+- faxem abam duudah 2:117; 3:189; 8:41; 9:116; 11:4; 16:40; 40:68; 41:39; 42:49;57:2
+- Kaak ellecabo sinni cayla 3:26-27; 24:45; 31:28-30
+- qaran kee ardi laca ayrot gineeh, qigdu mataqaba 46:33; 50:38
+- ‘Kik!’ inta qangara lih ginnimte 36:81-83
+- qigdu qadli sinna kay ginok 3:108; 4:40; 17:71; 21:47; 22:10; 26:209; 40:31; 41:46; 45:22; 50:29; 64:11; 78:6-16
+- kullim kay fayxih addat tan 3:83; 22:18; 30:26
+- inkih soolan kay fayxih 11:6; 35:15; 55:29
+- Kaal eemen 10:84-85; 12:67; 25:58
+- qibaadah angaarawih cibtitte 42:51
+- 2:21 mesenkacat haanam faxximta; 3:102; 4:1; 33:70-71; 59:18
+- wale acwa kaak 2:269
+- Usug faxe num mafaxa 3:97; 6:133; 112:2
+- sidocuk tiya hinna 4:171
+- kataysa mali 6:101
+- xaylo mali 10:68; 19:35; 43:81; 72:3; 112:3
+- waklentit mali hinnay eglaali mali 6:94; 7:191-195 fanah; 46:4-5
 - kaa celtam matan 42:11; 112:4
 amri abaabissuh kay ginok qaxmaqaane 3:190; 6:99; 10:5-6; 13:3-4; 16:10-16; 88:17-20
 Gino astooti 2:164; 6:95-99; 7:57-58; 10:5-6; 13:2-4; 16:10-13,65-69,79; 23:27-30; 27:60-65; 30:19-25; 50:6-11
@@ -1931,21 +1930,21 @@ Gino astooti 2:164; 6:95-99; 7:57-58; 10:5-6; 13:2-4; 16:10-13,65-69,79; 23:27-3
 - rob, barad kee rob 2:265; 6:99; 24:43; 50:9-11
 - cankaxi kee cankaxi 13:12-13
 Missô Mangeelá
-- seehadayti baxi ginnimtem lab kee say gameetik 76:2;
-- gino kee dadal caddooda cawuy 22:5; 23:12-14;
-- ulqi sidiica diteh addat yan 39:6;
-- qasbo lee 25:53-54; 35:12; 55:19-20;
-- caacay laqna 15:22;
-- feerâ asta 75:3-4;
-- qaleela 78:7;
-- birti addah ruube 57:25;
-- biyak arcibiseenit 4:56;
-- ayro diifih raceena kinnim kee alsi diifu abaabisa 10:5;
-- alsi baxsi 54:1;
-- qaran nagay daccarsimte fiddima 21:32;
-- inkih tan ginoona leek ginnimtem 21:30; 24:45;
-- xuune angaaraw 27:17-19;
-- addâ mooyat 24:40;
+- seehadayti baxi ginnimtem lab kee say gameetik 76:2
+- gino kee dadal caddooda cawuy 22:5; 23:12-14
+- ulqi sidiica diteh addat yan 39:6
+- qasbo lee 25:53-54; 35:12; 55:19-20
+- caacay laqna 15:22
+- feerâ asta 75:3-4
+- qaleela 78:7
+- birti addah ruube 57:25
+- biyak arcibiseenit 4:56
+- ayro diifih raceena kinnim kee alsi diifu abaabisa 10:5
+- alsi baxsi 54:1
+- qaran nagay daccarsimte fiddima 21:32
+- inkih tan ginoona leek ginnimtem 21:30; 24:45
+- xuune angaaraw 27:17-19
+- addâ mooyat 24:40
 Cooci le gino
 - malaykoota 39:75
 - seehadayti baxi (ardi bagul yan reeda) 2:30; 6:165; 16:4
@@ -1978,366 +1977,366 @@ Cooci le gino
 - qaro 29:41
 - gersi mari neh amixxige sinni 16:8.
 Coox kee caxâ baxa 6:99; 13:4; 16:11; 36:33-35
-- muuz 56:29,
-- ayroora 19:25,
-- caxaaxuwi, kukumber, qado basal, qasidi, kee basal 2:61,
-- qinab 80:28,
-- wagar 6:99,
-- muuci 95:1,
-- pomgraneet 55:68,
+- muuz 56:29
+- ayroora 19:25
+- caxaaxuwi, kukumber, qado basal, qasidi, kee basal 2:61
+- qinab 80:28
+- wagar 6:99
+- muuci 95:1
+- pomgraneet 55:68
 - iskuwaash 37:146
 Macammadal Aamaniyya
-- mexxat, dubuk nabiyyi 3:144; 6:50; 7:188; 18:110;
-- numma gufsoonuh 2:119; 35:24; 42:48;
-- farmoytit muhri 33:40;
-- massakaxxa le kilqa 3:159; 68:4;
-- ceelalloh 33:21;
-- diini marih fayxih innal 3:164;
-- inkih yan baadal racmatta 21:107;
-- baadiino farmoyti 4:170; 7:157-158 fanah; 34:28;
-- massat yan gita fan miraacisa 42:52-53;
-- sinam wagittam dacrisa 9:129;
-- sumaaqih innal cokmi ayro 4:42; 16:89;
-- kutbe sinni farmoytit 7:157-158; 29:48; 62:2;
-- Tawraat kee Injil 7:157;
+- mexxat, dubuk nabiyyi 3:144; 6:50; 7:188; 18:110
+- numma gufsoonuh 2:119; 35:24; 42:48
+- farmoytit muhri 33:40
+- massakaxxa le kilqa 3:159; 68:4
+- ceelalloh 33:21
+- diini marih fayxih innal 3:164
+- inkih yan baadal racmatta 21:107
+- baadiino farmoyti 4:170; 7:157-158 fanah; 34:28
+- massat yan gita fan miraacisa 42:52-53
+- sinam wagittam dacrisa 9:129
+- sumaaqih innal cokmi ayro 4:42; 16:89
+- kutbe sinni farmoytit 7:157-158; 29:48; 62:2
+- Tawraat kee Injil 7:157
 - Jesus 61:6 warseh.
 farmoyti ( صلى الله عليه وسلم ) kaat boodeh yan gexkalit
-- pagan’ maqna sinni essero 8:32; 15:7; 17:89-93; 25:7-8;
-- dirab malkit 10:2; 11:13; 21:5; 24:11-26; 25:4-6; 37:36; 38:4; 52:29-30;
-- kay manol gibbatitte 8:30; 9:74;
-- maabitina too biyaakah hinnay kaa sadah 4:115; 8:13; 9:61; 15:95; 33:57; 47:32; 96:9-19;
-- sabrit angodda gacsaanam amrisen 20:130; 30:60; 46:35; 70:5;
+- pagan’ maqna sinni essero 8:32; 15:7; 17:89-93; 25:7-8
+- dirab malkit 10:2; 11:13; 21:5; 24:11-26; 25:4-6; 37:36; 38:4; 52:29-30
+- kay manol gibbatitte 8:30; 9:74
+- maabitina too biyaakah hinnay kaa sadah 4:115; 8:13; 9:61; 15:95; 33:57; 47:32; 96:9-19
+- sabrit angodda gacsaanam amrisen 20:130; 30:60; 46:35; 70:5
 - Yalli amriseh 5:67; 93:1-11; 94:1-8
 Meqe Nabi ( صلى الله عليه وسلم ) manok baritto.
-- kay hijra ( hijra ) fanah Badri carbi fan 3:121-129; 8:42-44; 8:65-71;
-- Uhuud carbi 3:151-180;
-- Boodoh carbi 33:9-27;
-- Hunayin carbi 9:25-27;
-- Madiina 9:40; Tabuuk 9:38-123 fanah;
-- baanu an-nadiir 59:2-6;
-- camra alsad 3:172-175;
+- kay hijra ( hijra ) fanah Badri carbi fan 3:121-129; 8:42-44; 8:65-71
+- Uhuud carbi 3:151-180
+- Boodoh carbi 33:9-27
+- Hunayin carbi 9:25-27
+- Madiina 9:40
+- Tabuuk 9:38-123
+- baanu an-nadiir 59:2-6
+- camra alsad 3:172-175
 - Hudabiyah salaamah 48:1-7; 48:10-29
 farmoytal ( صلى الله عليه وسلم ) tomcowwe kunnabna
-- Yalli kee kay malaykoota kaa taafay 33:56;
-- barti safar Makkaak Yaruusaalem fanah 17:1;
-- qaran fanah safar 53:1-18;
-- ta manol kunnabna kee ciggilta 17:79; 66:8; 108:1;
-- kaak ammirtimaanam Yallih ammirtimaanama 4:80;
-- yallaa kee kay farmoytih ammirtimaamih acwa 4:69;
-- kay buxah mari saytunnowteh 33:33-34;
-- Jibriyel isi nummah weelol 53:1-18;
-- diini mari kaa ammirtimaanam amrisen 59:7;
+- Yalli kee kay malaykoota kaa taafay 33:56
+- barti safar Makkaak Yaruusaalem fanah 17:1
+- qaran fanah safar 53:1-18
+- ta manol kunnabna kee ciggilta 17:79; 66:8; 108:1
+- kaak ammirtimaanam Yallih ammirtimaanama 4:80
+- yallaa kee kay farmoytih ammirtimaamih acwa 4:69
+- kay buxah mari saytunnowteh 33:33-34
+- Jibriyel isi nummah weelol 53:1-18
+- diini mari kaa ammirtimaanam amrisen 59:7
 - kaa lih yaabanam adabi 49:1-5.
-- kaa gufneh adabi 33:53;
-- kay barra lih abah yan adabi 33:53;
-- Yalli kaa kee kay kataysis ruffa hayta 9:100; 9:117;
+- kaa gufneh adabi 33:53
+- kay barra lih abah yan adabi 33:53
+- Yalli kaa kee kay kataysis ruffa hayta 9:100; 9:117
 - kay imaan-ayyunta 2:143; 3:110
-Dooqa (salaata) 2:45; 9:103; 51:18; 70:22-23; 75:31; 96:10; 108:2;
-- Jumqatti kobox 62:9;
-- salat afkan ( qibla) 2:144; 2:149-150 fanah;
-- inki num uma taamak soolisam faxximta 29:45;
-- uddur 11:114; 17:78; 17:79; 20:130; 24:36; 24:58; 30:17-18; 32:16; 38:18; 50:39-40; 51:17; 52:48-49; 73:2-4; 76:25-26;
-- qawwalaylah addat yan wak akkek safaral yan wak 2:239; 4:101-102 fanah;
-- salat carra sinni marah maabitina 19:59; 74:38-47; 107:5-7;
+Dooqa (salaata) 2:45; 9:103; 51:18; 70:22-23; 75:31; 96:10; 108:2
+- Jumqatti kobox 62:9
+- salat afkan ( qibla) 2:144; 2:149-150 fanah
+- inki num uma taamak soolisam faxximta 29:45
+- uddur 11:114; 17:78; 17:79; 20:130; 24:36; 24:58; 30:17-18; 32:16; 38:18; 50:39-40; 51:17; 52:48-49; 73:2-4; 76:25-26
+- qawwalaylah addat yan wak akkek safaral yan wak 2:239; 4:101-102 fanah
+- salat carra sinni marah maabitina 19:59; 74:38-47; 107:5-7
 - munaafiqhiini dooqa 4:142; 9:54
-Saytunnos, wuddu (wudu) 5:6;
-- dudda le kaqaylo (qusli) 2:222; 4:43;
+Saytunnos, wuddu (wudu) 5:6
+- dudda le kaqaylo (qusli) 2:222; 4:43
 -kafin wudduru(tayaamu)4:43; 5:6
 xaaqo (du'a)
-- ibraahimik 2:126-129; 2:126-129 fanah; 14:35-41; 26:83-89;
-- Adam kee Xaawa 7:23;
-- Qiisa 5:114;
-- taama 21:83; 21:83;
-- Yoonas 21:87;
-- Yuusuf 12:33; 12:101;
--muusa 10:88-89; 20:25-35;
+- ibraahimik 2:126-129; 2:126-129 fanah; 14:35-41; 26:83-89
+- Adam kee Xaawa 7:23
+- Qiisa 5:114
+- taama 21:83; 21:83
+- Yoonas 21:87
+- Yuusuf 12:33; 12:101
+-muusa 10:88-89; 20:25-35
 - Macammad 17:80; 20:114
-- Nuuc 23:26; 26:117-118 fanah; 54:9-10; 71:26; 71:28;
-- Suleymaan 38:35;
-- Suuqabi 7:89;
-- Zakaariyas 3:38; 19:2-6; 21:89-90;
-- malaykoota 40:8-9;
-- Meeriyah ina 3:35-36;
-- Firqawni barra 66:11;
-- Firqawni baab abeynit 7:126;
-- Amoyti Sawulu kee kaa luk yan mu'miniin 2:250;
-- Israa-eel xayloh muuminiin 10:85-86;
-- gablah mari 18:10;
-- garli 2:285-286; 3:8-9; 3:16; 3:147; 3:191-194; 25:74; 59:10;
+- Nuuc 23:26; 26:117-118 fanah; 54:9-10; 71:26; 71:28
+- Suleymaan 38:35
+- Suuqabi 7:89
+- Zakaariyas 3:38; 19:2-6; 21:89-90
+- malaykoota 40:8-9
+- Meeriyah ina 3:35-36
+- Firqawni barra 66:11
+- Firqawni baab abeynit 7:126
+- Amoyti Sawulu kee kaa luk yan mu'miniin 2:250
+- Israa-eel xayloh muuminiin 10:85-86
+- gablah mari 18:10
+- garli 2:285-286; 3:8-9; 3:16; 3:147; 3:191-194; 25:74; 59:10
 - xukko 4:75
 Sujuud aayat
 - sajaadat, mango sajdah, 7:206; 13:15; 16:49; 17:109; 19:58; 22:18; 22:77; 25:60; 27:26; 32:15; 38:24; 41:37; 53:62; 84:21; 96:19
-Sadaqah-qiso (zaaka), dirki innal 2:110; 2:177; 2:277; 6:141;
-- diini marih mexxatak tiyak teyna 22:41; 23:4; 51:19;
+Sadaqah-qiso (zaaka), dirki innal 2:110; 2:177; 2:277; 6:141
+- diini marih mexxatak tiyak teyna 22:41; 23:4; 51:19
 - hargeynit 9:60
 - sadaqah (saqaada) 2:177; 2:261-263 fanah; 2:267-274 fanah; 3:92; 63:10
 - 3:180 yabbixeenimih maabitina; 9:34; 47:38
 Soom (sawm)
-- ramadhaan addat 2:183-185;
-- soom saaqoota 2:187;
-- currik 2:184-185;
-- xayi angaaraw bar bar soom naharal 2:187;
+- ramadhaan addat 2:183-185
+- soom saaqoota 2:187
+- currik 2:184-185
+- xayi angaaraw bar bar soom naharal 2:187
 - cajjih uddur soom 2:196
-Cajji (cajji),
-- dirki tiya too dudda lem 3:97;
-- siirat kee madqooqi 2:158; 2:189; 2:196-203 fanah; 5:2; 22:26-37;
-- fida fida 2:196; 22:36-37;
-- admo waaso ardi bagul hajji 5:1; 5:94-95;
+Cajji (cajji)
+- dirki tiya too dudda lem 3:97
+- siirat kee madqooqi 2:158; 2:189; 2:196-203 fanah; 5:2; 22:26-37
+- fida fida 2:196; 22:36-37
+- admo waaso ardi bagul hajji 5:1; 5:94-95
 - baddi admoh idini 5:96
 - Qunxa gexo (’umra) 2:158; 2:196
 Diini-ayyuntitte
-- muslimiin ummattak 2:132-136; 3:64; 3:84; 5:111; 22:77-78; 33:35; 41:33; 43:67-70; 72:14-15;
-- dacrisa mari gersi marak 3:28; 9:71;
-- koros mari 2:62; 2:111-140 fanah; 4:171-172 fanah; 5:14-19; 5:82-86; 5:116-120 fanah; 9:30-31; 22:17;
-- Yahuudinna 2:62, 111-140; 5:44-45; 6:146; 22:17; 62:6-8;
-- israail xaylo 2:40-103,122-123,246-251; 3:49; 3:93-94; 5:12-13,20-26,32,70-71,78-81; 7:137-141,148-153,159-171; 10:83-93; 14:5-8; 17:2-8,104; 20:80-98; 26:52-67,197; 27:76; 44:23-33; 45:16-17; 46:10; 61:5-6;
+- muslimiin ummattak 2:132-136; 3:64; 3:84; 5:111; 22:77-78; 33:35; 41:33; 43:67-70; 72:14-15
+- dacrisa mari gersi marak 3:28; 9:71
+- koros mari 2:62; 2:111-140 fanah; 4:171-172 fanah; 5:14-19; 5:82-86; 5:116-120 fanah; 9:30-31; 22:17
+- Yahuudinna 2:62, 111-140; 5:44-45; 6:146; 22:17; 62:6-8
+- israail xaylo 2:40-103,122-123,246-251; 3:49; 3:93-94; 5:12-13,20-26,32,70-71,78-81; 7:137-141,148-153,159-171; 10:83-93; 14:5-8; 17:2-8,104; 20:80-98; 26:52-67,197; 27:76; 44:23-33; 45:16-17; 46:10; 61:5-6
 - Kitab ummatta (baxsa luk Yahuud kee Kiristaan) 2:109; 3:64-115,199; 4:123-172 fanah; 5:15-77; 6:20-21; 13:36; 28:52-55; 29:46-47; 57:16, 28-29 fanah; 74:31; 98:1-5
 - muslimiin mari ken fida kah aban saq yakmeenim kee sinni agabu digibsaanam duudaanah 5:5.
-- Yahuudih waaso le maaqo 6:146;
-- Sabiyaan 2:62; 22:17;
-- Maagi 22:17;
-- mushrik (pagan, idoola) 3:186; 6:148; 9:6,17; 10:28; 16:86; 22:17; 53:19-30;
-- pagan diini abtoota 2:189; 5:103; 6:138-144 fanah;
+- Yahuudih waaso le maaqo 6:146
+- Sabiyaan 2:62; 22:17
+- Maagi 22:17
+- mushrik (pagan, idoola) 3:186; 6:148; 9:6,17; 10:28; 16:86; 22:17; 53:19-30
+- pagan diini abtoota 2:189; 5:103; 6:138-144 fanah
 - Yalla sinni mari 52:35-36
 Pagan abtoota madqak iroh tan
-- say xaylo manol yaaguqeenim 16:58-59; 81:8-9;
-- urru qidaanam baacah meysik 6:137; 6:151; 17:31;
-- Kaaqbah dariifal fooxima kee gaba yaagureenim 8:35;
-- gaalitte sanamitteh garuq 5:103; 6:136;
-- sanamitteh migaaqal fida abaanam 6:121;
-- zihar cabti 33:4; 58:2-4;
-- ila' (affara alsak muxxi) 2:226-227;
-- margaqooqih mangom muucusaanam 5:3;
-- Kaaba maroyta qarkakisak 7:26-28;
+- say xaylo manol yaaguqeenim 16:58-59; 81:8-9
+- urru qidaanam baacah meysik 6:137; 6:151; 17:31
+- Kaaqbah dariifal fooxima kee gaba yaagureenim 8:35
+- gaalitte sanamitteh garuq 5:103; 6:136
+- sanamitteh migaaqal fida abaanam 6:121
+- zihar cabti 33:4; 58:2-4
+- ila' (affara alsak muxxi) 2:226-227
+- margaqooqih mangom muucusaanam 5:3
+- Kaaba maroyta qarkakisak 7:26-28
 - buxaaxi culaanam wadirsi albaabih gexok lakal 2:189
-Qibaadah duyyeeya,
-- malaykoota (inki inki pagan Qarab fanat) 34:40;
-- Al-Aykah (Shuqaybi ummattah fanak) 26:176;
-- Ba'al (Iliyaas ummattah fanat 37:125;
-- Qiisa (koroosinna) 5:17;
-- sanamitte (Ibraahim ummattah fanak) 21:52-53;
-- Laat, Uzza, kee Manaat (Qarabih fanat) 53:19-20;
-- Waddaay, Suwaaay, Yaghutuuy, Yaaququuy, Nasrih idoola (Nuuc ummattah fanak) 71:23;
-- ayro (Sheba ummatta) 27:24;
-- Siriyus (inki inki Qarabih fanat) 53:49;
-- Firqawni (dumaahi Masril) 26:29; 28:38; 79:24;
-- fayxitte 25:43-44; 45:23;
+Qibaadah duyyeeya
+- malaykoota (inki inki pagan Qarab fanat) 34:40
+- Al-Aykah (Shuqaybi ummattah fanak) 26:176
+- Ba'al (Iliyaas ummattah fanat 37:125
+- Qiisa (koroosinna) 5:17
+- sanamitte (Ibraahim ummattah fanak) 21:52-53
+- Laat, Uzza, kee Manaat (Qarabih fanat) 53:19-20
+- Waddaay, Suwaaay, Yaghutuuy, Yaaququuy, Nasrih idoola (Nuuc ummattah fanak) 71:23
+- ayro (Sheba ummatta) 27:24
+- Siriyus (inki inki Qarabih fanat) 53:49
+- Firqawni (dumaahi Masril) 26:29; 28:38; 79:24
+- fayxitte 25:43-44; 45:23
 - mango goytitteh aamanti 17:42-43; 21:21-24; 25:3
-Qibaadah arooca, masjid 9:18;
-- kaniisaay, sinaagog kee monasteritte 22:40;
-- diini arac 3:39; 38:21;
+Qibaadah arooca, masjid 9:18
+- kaniisaay, sinaagog kee monasteritte 22:40
+- diini arac 3:39; 38:21
 - diini buxa 17:7
 - Diini ammuntitte, kaysi, rahiibi, kee rabbi 5:44; 5:63; 5:82; 9:31-34
-Malaykoota,
+Malaykoota
 - Adam hadliyyi wagittam esser 2:30-34
-- qigdu Yalli oggolta 21:26-27; 66:6;
-- Yallih say xaylo hinna 21:26; 43:16-19;
-- malaykoota dacrisaanam 13:11;
-- namma tasjiilih malaykoota 50:16-18; 82:10-12;
-- bacra quukah Yalli Taaqeh Qiyaamah Ayro 69:17;
-- taban kee sagaal dacrisa jahannam 74:26-31;
-- Rabi Malaykoota 6:93; 16:28; 32:11;
-- Jibriil 2:97; 66:4; 26:192-195 fanah; 53:1-14;
-- Mikaaqel 2:98;
+- qigdu Yalli oggolta 21:26-27; 66:6
+- Yallih say xaylo hinna 21:26; 43:16-19
+- malaykoota dacrisaanam 13:11
+- namma tasjiilih malaykoota 50:16-18; 82:10-12
+- bacra quukah Yalli Taaqeh Qiyaamah Ayro 69:17
+- taban kee sagaal dacrisa jahannam 74:26-31
+- Rabi Malaykoota 6:93; 16:28; 32:11
+- Jibriil 2:97; 66:4; 26:192-195 fanah; 53:1-14
+- Mikaaqel 2:98
 - Maalik 43:77
 Farmoytit
-- malaykoota kee seehadayti baxi fanak 22:75;
+- malaykoota kee seehadayti baxi fanak 22:75
 - Farmoytit (Ibraahiim, Nuuc, Muusa, Qiisa, kee Macammad صلى الله عليه وسلم ) 33:7; 42:13; 46:35
 kutbe
-- Qhur-aan, Yallih addak 12:2-3; 20:2-4; 26:192-195 fanah; 32:2-3;
-- inkih yan baadal kassiisi 68:51-52;
-- miracsentitte kaxxam massat tan manoh gita 17:9;
-- wahyu qimbimtem Ramadhaan alsih addat 2:185;
-- barkatle bar 44:3;97:1-5;
-- caddo baxxaqimteh 17:105-106;
-- kassituh sahlinih 54:17;
-- numma diggoysa naharsi baxxaqsal 3:3-4;
-- naharsi kutbeh amol fayyale reeda 5:48;
-- shakki mali teetil 2:2; 10:37;
-- sadiyyi mayan 4:82;
-- mabicinna 10:37-39;
-- koros kitaabak 25:4-6;
-- sheytanitteh gabat maqaddoowinna 26:210-212;
+- Qhur-aan, Yallih addak 12:2-3; 20:2-4; 26:192-195 fanah; 32:2-3
+- inkih yan baadal kassiisi 68:51-52
+- miracsentitte kaxxam massat tan manoh gita 17:9
+- wahyu qimbimtem Ramadhaan alsih addat 2:185
+- barkatle bar 44:3;97:1-5
+- caddo baxxaqimteh 17:105-106
+- kassituh sahlinih 54:17
+- numma diggoysa naharsi baxxaqsal 3:3-4
+- naharsi kutbeh amol fayyale reeda 5:48
+- shakki mali teetil 2:2; 10:37
+- sadiyyi mayan 4:82
+- mabicinna 10:37-39
+- koros kitaabak 25:4-6
+- sheytanitteh gabat maqaddoowinna 26:210-212
 - num murtusam maduuda tukteenay toh celta 17:88; 2:23-24;10:13-14; 11:13
-- umaadoobak kalalaanam 15:9;
-- daccarsimte kaniina 56:75-80;
-- dirab kinnim cedaanam maduudumta 41:42;
-- fooca fan takku wayta tekkooka 30:1-7; 48:27;
-- diini mara ximo fan gexa 5:83; 17:107-109 fanah;
-- sorkocô baxa xaga 39:23;
-- diifule diifu 4:174; 42:52;
+- umaadoobak kalalaanam 15:9
+- daccarsimte kaniina 56:75-80
+- dirab kinnim cedaanam maduudumta 41:42
+- fooca fan takku wayta tekkooka 30:1-7; 48:27
+- diini mara ximo fan gexa 5:83; 17:107-109 fanah
+- sorkocô baxa xaga 39:23
+- diifule diifu 4:174; 42:52
 - dayla kee racmatta diini marah 17:82
 - Tawraat 3:3; 3:93; 5:46; 5:66-68, 110; 7:157; 9:111; 48:29; 61:6; 62:5
-- Injiil 3:3; 48; 5:46-47,66-68,77,110; 7:157; 9:111; 48:29; 57:27
+- Injiil 3:3, 48; 5:46-47,66-68,77,110; 7:157; 9:111; 48:29; 57:27
 - Zabuur 4:163; 17:55
 - Ibraahim kitaabak 53:36-44; 87:14-19
-sarrimaane kee sarrimaane 3:145; 9:51; 10:107; 11:6; 54:49; 67:30;
+sarrimaane kee sarrimaane 3:145; 9:51; 10:107; 11:6; 54:49; 67:30
 - currik yan doorit 6:148-150; 11:118-119 fanah; 16:93; 33:72-73; 39:41; 76:1-3; 91:1-10
-Cokmi Ayro,
-- uli qadli sinna 2:281; 18:49; 40:17;
-- warigga apokalipsi 22:1-2; 27:82-84, 87; 40:18; 52:11-16; 69:13-18; 70:8-18; 73:17-18; 75:7-15; 77:8-15; 78:17-20; 79:34-36; 80:33-42; 81:1-14; 82:1-5; 84:1-5; 87:17-40; 99:1-8; 101:1-11;
-- meqe maraa kee uma mara woo ayro 11:105-108; 16:27-33, 84-89; 18:52-53; 20:100-111 fanah; 25:24-29; 30:12-16; 33:63-68; 39:68-75; 50:20-35; 55:37-41; 83:4-36;
+Cokmi Ayro
+- uli qadli sinna 2:281; 18:49; 40:17
+- warigga apokalipsi 22:1-2; 27:82-84, 87; 40:18; 52:11-16; 69:13-18; 70:8-18; 73:17-18; 75:7-15; 77:8-15; 78:17-20; 79:34-36; 80:33-42; 81:1-14; 82:1-5; 84:1-5; 87:17-40; 99:1-8; 101:1-11
+- meqe maraa kee uma mara woo ayro 11:105-108; 16:27-33, 84-89; 18:52-53; 20:100-111 fanah; 25:24-29; 30:12-16; 33:63-68; 39:68-75; 50:20-35; 55:37-41; 83:4-36
 - shafaaqat (shafaqa) 2:48,255; 6:51,70; 10:3; 21:28; 32:4; 36:23; 39:43-44; 43:86; 53:26;74:48
-maysarraqooqi abtoota 17:13; 18:49;
-- diini mari sinni tasjiil sinni migdi gabat geelon 69:19-24; 84:7-9;
-- kaafir sinni tasjiil guri gabat geen 69:25-37; 84:10-15;
-- Yallal qellittam matan 21:47; 40:16;
-- abtootah qilsa 7:8; 23:102-104 fanah; 101:1-11;
-- dagar exxaaxih sumaq 41:19-24; 24:24;
+maysarraqooqi abtoota 17:13; 18:49
+- diini mari sinni tasjiil sinni migdi gabat geelon 69:19-24; 84:7-9
+- kaafir sinni tasjiil guri gabat geen 69:25-37; 84:10-15
+- Yallal qellittam matan 21:47; 40:16
+- abtootah qilsa 7:8; 23:102-104 fanah; 101:1-11
+- dagar exxaaxih sumaq 41:19-24; 24:24
 - meqem kee umam abte acwa 6:160; 27:89-90; 28:84
 Sahda qaynoota
-- yaamineenit 18:107-108;
-- kaafiritte 4:167-169;
-- munaafiqitte 4:145; 57:13-15;
-- Jannatih sigeenit, naharsi diini 55:46-61; 56:10-26;
-- jannatih sigeenit, ummatta numma 55:62-78; 56:27-40;
-- jahannam sigeenit, guri ummatta 55:31-45; 56:41-56;
+- yaamineenit 18:107-108
+- kaafiritte 4:167-169
+- munaafiqitte 4:145; 57:13-15
+- Jannatih sigeenit, naharsi diini 55:46-61; 56:10-26
+- jannatih sigeenit, ummatta numma 55:62-78; 56:27-40
+- jahannam sigeenit, guri ummatta 55:31-45; 56:41-56
 - ummatta fayyal 7:46-49
 Maali caagid
-- kabxah miracsenta 2:188; 2:275; 2:282-283 fanah; 4:29; 4:58; 6:152; 17:34-35;
-24:36-37; 26:182; 30:39; 55:7-9; 62:9
-- Naggaarinna, doorit naggaarinna akke sinni 2:180-183; 4:11-12;
+- kabxah miracsenta 2:188; 2:275; 2:282-283 fanah; 4:29; 4:58; 6:152; 17:34-35; 24:36-37; 26:182; 30:39; 55:7-9; 62:9
+- Naggaarinna, doorit naggaarinna akke sinni 2:180-183; 4:11-12
 rabak naharal safaral suge wak 5:106-108
 - Guqul 2:188
-- mogo, mogo gaaboysoh addat meqem mariino 2:280;
-- kutbe kee sumaq mogoh ambalal 2:282;
+- mogo, mogo gaaboysoh addat meqem mariino 2:280
+- kutbe kee sumaq mogoh ambalal 2:282
 - caabi beyaanam 2:283
-- Naggaarinni, miracsentitte 4:7; 4:32-33; 8:75;
-- xaylo kee xaleenah agleh 4:11;
-- qasaala kee inah tooboko 4:12;
-- dudda le tooboko 4:176;
+- Naggaarinni, miracsentitte 4:7; 4:32-33; 8:75
+- xaylo kee xaleenah agleh 4:11
+- qasaala kee inah tooboko 4:12
+- dudda le tooboko 4:176
 - oggole waa marah maabitina 4:13-14
-- fayxi, waaso kee maabitina 2:275-281; 3:130-132 fanah;
+- fayxi, waaso kee maabitina 2:275-281; 3:130-132 fanah
 - fayda sinnim tekke 30:39
 Madqiino leemi
 - gano madqa (hirabah) 5:33-34
-- qadli, qadli soolaanam 4:135; 5:8; 16:90-91;
-- Yaatiim kee sayyoh gar soolaanam 4:127;
-- qadli yahuudih 4:105-112;
-- qadli pagan fan 4:58;
+- qadli, qadli soolaanam 4:135; 5:8; 16:90-91
+- Yaatiim kee sayyoh gar soolaanam 4:127
+- qadli yahuudih 4:105-112
+- qadli pagan fan 4:58
 - qadliino le muslimiin akke sinni mara lih 60:8-9.
 - Cane gaanun gitaak (qafuuta doorit luk) 2:178-179; 5:45; 16:126; 17:33; 42:37-43
-- Baqla kee barra fanat yan baxsi, khul' 2:229;
+- Baqla kee barra fanat yan baxsi, khul' 2:229
 - liyan ( zinah malkit) 24:6-10
 Siyaasa
 - caagiida fayisiyat gexsiisaanam (shuura) 3:159; 42:38
-- isih is kalaluh qeebi (jihaad), adabi 2:190-192; 2:216; 22:38-40;
-- maysattaka mabta baxsa sinnim 4:94;
-- giclo qanxaffe le labhaay, sayyo kee alaaqah 4:75;
-- qibaadah arooca kalalaanam 22:37;
-- nadaamah acwa 2:154; 3:169-171 fanah; 9:111; 57:19;
-- qaskariyyoh dudda qaduwwi soolissa 8:60;
+- isih is kalaluh qeebi (jihaad), adabi 2:190-192; 2:216; 22:38-40
+- maysattaka mabta baxsa sinnim 4:94
+- giclo qanxaffe le labhaay, sayyo kee alaaqah 4:75
+- qibaadah arooca kalalaanam 22:37
+- nadaamah acwa 2:154; 3:169-171 fanah; 9:111; 57:19
+- qaskariyyoh dudda qaduwwi soolissa 8:60
 - salaam dooritaanam 2:192; 8:61
 - missoynaanih fanat salaam abaanam 49:9-10
 - carbi casbi mara, dayla 8:70; 47:4; 76:8
 Ayyuntiimi
 - oggol 33:4-5.
 - Yatiimih hanaawi 2:220; 4:2-10; 4:127; 6:152; 17:34
-- Cabti, anaakar kee wagari 4:35; 4:128;
-- cabti adabi 2:229-231; 65:1-2;
-- mehrat kee qammaaliyyi uddur 2:226-241; 4:19-21; 33:49; 65:1-7;
-- baqla mehrak tu wadirih mabeya 4:20;
-- barra mataqbisa 65:6;
-- barra idqino uddur maaliyyak qokoltam faxximta 65:6;
-- tet qammaaliyyih uddur 65:6;
-- is dumi baqlih baxa daylissek, 65:6;
-- faxe xaleena ganditam mafaxximta kah kinnim sinni baxi 2:233;
+- Cabti, anaakar kee wagari 4:35; 4:128
+- cabti adabi 2:229-231; 65:1-2
+- mehrat kee qammaaliyyi uddur 2:226-241; 4:19-21; 33:49; 65:1-7
+- baqla mehrak tu wadirih mabeya 4:20
+- barra mataqbisa 65:6
+- barra idqino uddur maaliyyak qokoltam faxximta 65:6
+- tet qammaaliyyih uddur 65:6
+- is dumi baqlih baxa daylissek, 65:6
+- faxe xaleena ganditam mafaxximta kah kinnim sinni baxi 2:233
 - wiin-narsi doorit 65:6.
 - meqem aydukumusaanam kee umam waasaanam 3:104; 3:110; 7:157; 9:71-72; 31:17
-- sahdayti baxi qadliino 49:13;
-- labha kee sayyo Yalli kee madqah foocal, 3:195; 4:124; 5:38; 16:97; 24:2; 40:40;
+- sahdayti baxi qadliino 49:13
+- labha kee sayyo Yalli kee madqah foocal, 3:195; 4:124; 5:38; 16:97; 24:2; 40:40
 - labha sayyok dagah qaaqah caddo lon 2:228
 - Baacoytiiy, yatiimii kee abbixe mara yakmeenim 76:8-9.
 - Qafuuta kee naqabi lowsiisiyya 3:134; 42:40
 - naqoosa currik yayyaaqeenim kee ken cataanam 4:92; 5:89; 9:60; 24:33; 58:3; 90:13
 - inki num isi xaltani yassakaxxeenim 4:36; 17:23-25; 31:14-15
 - rammitleela 17:37; 31:18-19
-- Ibraahim soonoh maqnisso 37:102;
-- Yuusuf soonoh maqnisso 12:4; 12:36; 12:43;
+- Ibraahim soonoh maqnisso 37:102
+- Yuusuf soonoh maqnisso 12:4; 12:36; 12:43
 - Macammad soonoh tafsiiriy 8:43; 48:27
 - Meqem mariinoh muslimiin akke sinni marah 60:8.
-- Rihim 4:3; 4:129; 16:72; 30:21;
-- madqa kee madqa sinni barra digibtam 4:22-24;
-- xayi angaarawih adabi 2:222-223;
-- idqino kee dayla 2:233; 31:4; 46:15; 65:6;
-- inki num isi dumi barra qagitak digiba 2:230;
-- dubuk yan mara digibih cato 24:32;
+- Rihim 4:3; 4:129; 16:72; 30:21
+- madqa kee madqa sinni barra digibtam 4:22-24
+- xayi angaarawih adabi 2:222-223
+- idqino kee dayla 2:233; 31:4; 46:15; 65:6
+- inki num isi dumi barra qagitak digiba 2:230
+- dubuk yan mara digibih cato 24:32
 - cubbil fayxi taybulleem qammaaliyyi uddur 2:235
-- Xiibitte 2:224-225; 16:91-92; 16:94;
+- Xiibitte 2:224-225; 16:91-92; 16:94
 - yiddigile xiibih bicsiyyi 5:89
 - Sabri gibdi waktit 2:45; 2:153-157 fanah; 3:186; 12:18; 12:83; 16:127-128 fanah; 70:5
-- idni yamaatem 24:58-60;
-- sinam buxaaxil culaanam 24:27-28;
+- idni yamaatem 24:58-60
+- sinam buxaaxil culaanam 24:27-28
 - ummatta arac culma 24:29
-- Ayyuntiinô adabi, xaagi diggoysaanam 4:83; 49:6;
-- inkih yassakaxxeenim 49:11-12;
-- gaaboynah adabi 58:11;
+- Ayyuntiinô adabi, xaagi diggoysaanam 4:83; 49:6
+- inkih yassakaxxeenim 49:11-12
+- gaaboynah adabi 58:11
 - cankâ walalitte 4:114; 58:9
 - xagana 2:270; 9:75-77; 22:29; 76:7
 - finqittem kee taqabi 7:31; 17:29; 25:67
 Gersi aydaaditte
-- Abel kee Qaabil 5:27-31;
-- Al-khadir kee muusa 18:60-82;
-- Dakani qande 105:1-4;
-- muumini firqawni ummattak 40:28-46;
-- Maryam ubka 3:35-36;
-- Israa-eel xayloh saga 2:67-74;
-- Ezra 2:259;
+- Abel kee Qaabil 5:27-31
+- Al-khadir kee muusa 18:60-82
+- Dakani qande 105:1-4
+- muumini firqawni ummattak 40:28-46
+- Maryam ubka 3:35-36
+- Israa-eel xayloh saga 2:67-74
+- Ezra 2:259
 - caxaaxuwi lewanna 68:17-32
 - Harut kee Marut 2:102
 - korah 28:76-82
-- luqmaan isi baxah fayu 31:12-19;
-- namma caxaaxuwih lewanna 18:32-44;
-- sheebah ummatta 34:15-19;
-- gablah ummatta 18:9-26;
-- boodoh ummatta 85:1-8;
-- sabtih-diglo 7:163-165;
-- Saamiri kee dahab ruga 20:83-97;
-- Sawulu kee Samuweel 2:247-251;
+- luqmaan isi baxah fayu 31:12-19
+- namma caxaaxuwih lewanna 18:32-44
+- sheebah ummatta 34:15-19
+- gablah ummatta 18:9-26
+- boodoh ummatta 85:1-8
+- sabtih-diglo 7:163-165
+- Saamiri kee dahab ruga 20:83-97
+- Sawulu kee Samuweel 2:247-251
 - Zul-qarnayni 18:83-98
-Sheytanitte 2:102; 6:71; 6:112; 6:121; 7:27; 7:30; 17:27; 19:68; 19:83; 22:3-4; 23:97-98; 26:210; 37:7-10; 38:37-38; 67:5;
-- sheytan sahda kee jinni 6:112;114:6;
+Sheytanitte 2:102; 6:71; 6:112; 6:121; 7:27; 7:30; 17:27; 19:68; 19:83; 22:3-4; 23:97-98; 26:210; 37:7-10; 38:37-38; 67:5
+- sheytan sahda kee jinni 6:112;114:6
 - jannat sheetanittek kalalimte 15:16-18
 Nadaama
-- farmoyti kataye waanam 25:27;
-- Yallaa kee Kay farmoytih ammirtimaanam 4:41-42; 33:64-68;
-- uma kataysis beyaanam 25:28-29; 26:96-102 fanah; 43:36-39;
-- Yallih astooti dirab 6:27-30;
+- farmoyti kataye waanam 25:27
+- Yallaa kee Kay farmoytih ammirtimaanam 4:41-42; 33:64-68
+- uma kataysis beyaanam 25:28-29; 26:96-102 fanah; 43:36-39
+- Yallih astooti dirab 6:27-30
 -akheerah mataamita 89:23-24
 Niyâ garuq xagana
-- baad fanah yandabbuh xaaqimaanam 2:167; 6:27-28; 32:12-14; 42:44;
-- nammeyhayto saamih 35:36-37;
-- Girak duugumtuh 40:10-12;
-- maaqoo kee lee 7:51-52;
-- shafaaqah 7:52-53;
-- qaaneh caddo guftuh 4:41-42; 78:40;
+- baad fanah yandabbuh xaaqimaanam 2:167; 6:27-28; 32:12-14; 42:44
+- nammeyhayto saamih 35:36-37
+- Girak duugumtuh 40:10-12
+- maaqoo kee lee 7:51-52
+- shafaaqah 7:52-53
+- qaaneh caddo guftuh 4:41-42; 78:40
 - rabah 43:74-78
 Garle marih mexxatitte
 - Gine kee kay gino wagsiisak 3:133-136; 4:36; 4:69-70; 6:151-154 fanah; 8:2-4; 13:19-24; 17:23-39;18:107-108; 23:1-11; 25:63-76; 42:36-43
 uma marih mexxat
-- gadda sinnim 14:34;
-- qaku lem 17:100;
-- sissik 21:37;
-- gibdi waktit dubuh yalla kassitaanam 10:12; 41:51;
-- sabri sinna 70:19;
+- gadda sinnim 14:34
+- qaku lem 17:100
+- sissik 21:37
+- gibdi waktit dubuh yalla kassitaanam 10:12; 41:51
+- sabri sinna 70:19
 - qadaaqada 18:54
 Kaxxa zambitte
 - qibaadat yallat agleyta haanam (shirki) 4:48; 4:116; 5:72; 6:19; 31:13:
-- inki num isi xaleyna uncus abaanam 4:36; 6:151; 17:23;
-- dirki salaatah hangi yaceenim akkek cabaanam 19:59-60;
-- sadaqah qiso meklaanam hinna 41:6-7;
-- qidim 6:151; 17:33;
-- diini num niyaatah qidaanam 4:93;
-- garqa 5:38;
-- malmaalitte 7:85; 11:85; 26:182-183 fanah; 83:1-6;
-- dirab yaceenim 2:10; 9:77; 39:60;
-- Yalli wagittaamal dirab yaceenim 6:93; 29:68; 61:7;
+- inki num isi xaleyna uncus abaanam 4:36; 6:151; 17:23
+- dirki salaatah hangi yaceenim akkek cabaanam 19:59-60
+- sadaqah qiso meklaanam hinna 41:6-7
+- qidim 6:151; 17:33
+- diini num niyaatah qidaanam 4:93
+- garqa 5:38
+- malmaalitte 7:85; 11:85; 26:182-183 fanah; 83:1-6
+- dirab yaceenim 2:10; 9:77; 39:60
+- Yalli wagittaamal dirab yaceenim 6:93; 29:68; 61:7
 - waasimteh tan angaaraw 2:222; 17:32; 24:2; 25:68; 29:28-30
-- zinah dirab malkit 24:4-5;
-- murtad 2:217; 5:54;
-- cereyya yakmeenim kee gersi waaso le maaqooqa (carrion, qabala, w.w. tanim) 5:3; 6:145;
-- kasmuda kee kumaar 5:90-91;
-- derrek anaakar 49:11;
-- dirab sumaq 22:30;
+- zinah dirab malkit 24:4-5
+- murtad 2:217; 5:54
+- cereyya yakmeenim kee gersi waaso le maaqooqa (carrion, qabala, w.w. tanim) 5:3; 6:145
+- kasmuda kee kumaar 5:90-91
+- derrek anaakar 49:11
+- dirab sumaq 22:30
 - baab 2:102; 10:77; 20:69
 """;

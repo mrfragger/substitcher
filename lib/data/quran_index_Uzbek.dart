@@ -5,18 +5,18 @@ Tahorat (tahorat), 4:43; 5:6
 Ibrohim (Ibrohim) S.14; 2:135-136, 148; 3:33, 84, 95; 4:54, 125, 163; 6:161; 9:70, 114; 12:6, 38; 16:120; 19:58; 21:51, 60, 62, 69; 22:43, 78; 26:69; 29:31; 33:7; 37:83, 104, 109; 38:45; 42:13; 43:26; 51:24; 53:37; 57:26; 60:4; 87:19
 - na yahudiy, na nasroniy, 3:67-68
 - Bakkadagi birinchi ma'badda turgan, 3:97; 26:123
-- Ka'ba poydevorini ko'taradi 2:124-129;
-- o'z xalqini yagona Haq Xudoga sig'inishga chaqiradi 2:130-133; 26:69-89; 29:16; 29:24-27;
-- takabbur shoh 2:258 munozaralari,
-- tirilish haqida so'raydi 2:260;
-- na yahudiy, na nasroniy 3:65-68;
-- samoviy ibodatni rad etadi 6:74-87;
-- Ishoqning tug'ilishi haqidagi xabarni oladi 11:69-76; 51:24-30;
-- uning Ka'badagi ibodati 14:35-41;
-- farishtalar tashrif buyurishdi 15:51-56;
-- o'rnak bo'luvchi 16:123;
-- otasini haqiqatga chaqiradi 19:41-50;
-- butlarni yo'q qiladi va olovdan qutqariladi 21:51-73; 37:83-113;
+- Ka'ba poydevorini ko'taradi 2:124-129
+- o'z xalqini yagona Haq Xudoga sig'inishga chaqiradi 2:130-133; 26:69-89; 29:16; 29:24-27
+- takabbur shoh 2:258 munozaralari
+- tirilish haqida so'raydi 2:260
+- na yahudiy, na nasroniy 3:65-68
+- samoviy ibodatni rad etadi 6:74-87
+- Ishoqning tug'ilishi haqidagi xabarni oladi 11:69-76; 51:24-30
+- uning Ka'badagi ibodati 14:35-41
+- farishtalar tashrif buyurishdi 15:51-56
+- o'rnak bo'luvchi 16:123
+- otasini haqiqatga chaqiradi 19:41-50
+- butlarni yo'q qiladi va olovdan qutqariladi 21:51-73; 37:83-113
 - barchani ziyoratga chaqiradi 22:26
 Abror, 3:193, 198; 76:5; 82:13; 83:18-22
 Bekor qilish, 2:106, 16:101
@@ -26,11 +26,10 @@ Adam, 3:33, 59; 5:27; 7:26-27, 31, 35, 172; 17:70; 19:58; 36:60
 - farishtalarning sajda qilishi, 2:34; 7:11
 - bilim daraxti, 2:35; 7:19-20; 20:120-121
 - Jannatdan quvg'in qilish (Momo Havo aybdor emas), 2:36; 7:24
-- Alloh tomonidan ulug'langan, Shayton tomonidan vasvasaga solingan 2:30-38; 7:11-25; 17:61-65; 18:50; 20:115-123; 38:71-85;
+- Alloh tomonidan ulug'langan, Shayton tomonidan vasvasaga solingan 2:30-38; 7:11-25; 17:61-65; 18:50; 20:115-123; 38:71-85
 - Alloh tomonidan kechirilgan 2:37; 20:122
 Adiyat, S.100
-“Adn jannat” surasi, 9:72; 13:23; 16:31; 18:31;
-19:61; 20:76; 35:33; 38:50; 40:8; 61:12; 98:8
+“Adn jannat” surasi, 9:72; 13:23; 16:31; 18:31;19:61; 20:76; 35:33; 38:50; 40:8; 61:12; 98:8
 Qiyinchilik
 - boshqa birovning yuki bilan yuklanmagan, 6:164; 17:15; 35:18; 39:7; 53:38
 - bardosh bera olmaydigan darajada yuklanmagan, 2:286; 6:152; 7:42; 23:62
@@ -113,7 +112,7 @@ Murtadlik, 3:72; 3:86-88; 3:90-91; 3:167; 4:137; 5:54; 9:74; 9:107; 16:106; 33:1
 Murtadlar, 47:25
 A'rof, 7-oyat; 7:46, 48
 Arafat, 2:198
-Bahslashish,
+Bahslashish
 - o'zlarini aldaydiganlar nomidan emas, 4:107
 — Sizlar bu dunyoda ular uchun bahslashdingizlar, qiyomat kuni kim ular uchun bahslashar, 4:109
 Argumentlar/hujumlar
@@ -123,7 +122,7 @@ Zirh, 16:81
 Asr, S.103
 Oyat al-Kursi, 2:255
 G'iybatchi, 49:12; 104:1
-Badr (jang), 3:13,
+Badr (jang), 3:13
 - 8:5-19, 42-48 dan olingan saboqlar
 Al-Bayt-ul-Ma mur, 52:4
 Baqqa (Makka), 3:96
@@ -133,7 +132,7 @@ Muvozanat, 7:8-9; 17:35; 21:47; 55:7-9; 57:25;101:6-9
 Banu an-Nadir, 59:2-6, 13
 Baqara, S.2
 Bara'a (Taubahga qarang), 9-bet
-Barzax, 23:100; 25:53; 55:20;
+Barzax, 23:100; 25:53; 55:20
 - shuningdek, 18:94-97; 34:54; 36:9 ga qarang.
 Bayinah, S.98
 Oxirgi kunlarning hayvoni, 27:82
@@ -182,7 +181,7 @@ Muqaddas Kitob, 5:64, 5:65, 5:68
 - 3:78; 5:14-15 ning buzilishi
 Qushlar, 2:260; 3:49; 5:110; 6:38; 12:36, 41; 16:79; 21:79; 22:31; 24:41; 27:16-17, 20; 34:10; 38:19; 56:21; 67:19; 105:3
 Qon-pul (Diya), 2:178-179; 4:92; 17:33
-O'lja, urush, 4:94. 8:41; 59:6-8;
+O'lja, urush, 4:94. 8:41; 59:6-8
 - noqonuniy olib kirish, 3:162
 - o'ljalarni ko'ring
 Poraxo'rlik, 2:188
@@ -220,7 +219,7 @@ Kiyim-kechak, 7:26; 16:81
 - ayollarning ustki kiyimlari ikkiyuzlamachilarning ta'qib qilinishining oldini oladi, 33:59-60
 Ittifoqchilar, 33:9, 22
 - qarang: Ahzab maslahatlashuvi, o'zaro, 42:38
-Yaratilish,
+Yaratilish
 - boshlanadi va takrorlanadi, 10:4; 21:104; 27:64; 29:19-20
 - yangi, 17:49, 98; 35:16
 - rostgo'ylik bilan, 15:85; 16:3; 29:44; 39:5; 44:39; 45:22; 46:3
@@ -240,12 +239,12 @@ Qarg'a, 5:31
 Mezon, 2:53, 185; 3:4; 8:29, 41; 21:48; 25:1
 Dahr, (qarang Insan,) S.76; 45:24
 - vaqt, 76:1; 103:1
-Dovud, 5:78; 6:84; 17:55; 34:10, 13; 38:17-30;
+Dovud, 5:78; 6:84; 17:55; 34:10, 13; 38:17-30
 - Zabur 4:163 ga binoan
 - Go'liyot bilan jang qiladi va uni o'ldiradi, 2:251
-- 21:78-80 oyatlarida hukm chiqaradi;
-- ilm va payg'ambarlik bilan baraka topgan 27:15-16;
-- tog'lar va qushlar unga qo'shilib, Allohni ulug'laydilar 34:10; 38:17-20;
+- 21:78-80 oyatlarida hukm chiqaradi
+- ilm va payg'ambarlik bilan baraka topgan 27:15-16
+- tog'lar va qushlar unga qo'shilib, Allohni ulug'laydilar 34:10; 38:17-20
 - ikki kishi o'rtasidagi hakamlar 38:21-26
 Dawabb yoki Dabbah (harakatlanuvchi tirik mavjudot va boshqalar) 2:164; 6:38; 8:22, 55; 11:6, 56; 16:49, 61; 22:18; 24:45; 27:82; 29:60;31:10; 34:14; 35:28, 45; 42:29; 45:4
 O'liklar tiriladi, 6:36
@@ -255,17 +254,17 @@ O'lim, 3:185; 3:193; 4:78; 6:61; 6:93; 21:35; 23:99-108; 31:34; 32:11; 33:19; 33
 - vahiysi bo'lmagan jamoalar yo'q qilinmaydi, 6:131; 9:115; 10:47; 11:117; 15:4; 16:119; 17:15; 28:59
 - Alloh yo'lida o'ldirilganlar tirik, 2:154; 3:169
 - Allohga yomonlikdan qochib, 4:100
-- to'xtatib bo'lmaydi yoki kechiktirib bo'lmaydi 63:10-11;
-- uyquning egizak akasi 6:60; 39:42;
-- o'lim vaqtidagi mo'minlar va kofirlar 8:50; 16:27-32; 41:30;
+- to'xtatib bo'lmaydi yoki kechiktirib bo'lmaydi 63:10-11
+- uyquning egizak akasi 6:60; 39:42
+- o'lim vaqtidagi mo'minlar va kofirlar 8:50; 16:27-32; 41:30
 - qabrdagi azob 40:46
 Qarzlar, 2:280, 282; 4:11-12
-Farmon,
+Farmon
 - har bir masala uchun 13:38 bor
 Biz biron bir shaharni vayron qilmadik, albatta, u yerda ma'lum bir shahar bor edi, 15:4
 - Har bir ish Allohdandir, 44:5
 — Qachonki U biror ishni hukm qilsa, faqat "Bo'l!" deydi — va u bo'ladi, 2:117; 36:82; 40:68
-Amallar,
+Amallar
 - ular uchun chiroyli qilingan yomonlik, 47:14
 - bizning amallarimiz bizga, sizning amallaringiz sizga, 28:55; 42:15; 45:15
 - yaxshi va yomon, o'zi uchun va o'ziga qarshi, 41:46
@@ -279,7 +278,7 @@ Dhariyat, S.51
 Zikr, 7:205; 15:6, 9
 Zul-Kifiy, 21:85; 38:48
 Zul-Qorayn, 18:83-98
-Dhun-Nun (baliqning hamrohi),
+Dhun-Nun (baliqning hamrohi)
 Kofirlar (shuningdek, Munofiqlarga qarang)
 - Muhammaddan ( ﷺ ) Allohning g'azabini dalil sifatida ularga yo'llashini so'rang, 6:57-58; 8:32; 10:49-52
 - ularga mehr bilan yo'ldosh bo'lish, 31:15
@@ -304,7 +303,7 @@ Xandaq, odamlar, 85:4-10
 Xilma-xillik
 - insonlar, 30:22, 35:27-28
 - hayot, 35:27-28
-Ajralish, 2:228-232, 236-237, 241; 4:35, 130; 65:1-7;
+Ajralish, 2:228-232, 236-237, 241; 4:35, 130; 65:1-7
 - kutish muddati tugagandan so'ng, ajrashish yoki yarashish, 2:231; 65:2
 - ikki guvoh, 65:2
 - aliment, 2:233, 241
@@ -340,7 +339,7 @@ Ajrashish, ayol
 - nikoh tugallanmagan bo'lsa, 33:49
 Itlar, 7:176
 Eshaklar (Eshak), 2:259; 16:8; 31:19; 62:5; 74:50
-Ichimlik,
+Ichimlik
 - alkogolga moyil, 2:219; 5:90
 - sof va oq mazali, 37:45-46; 76:21
 - sof muhrlangan sharob, 83:25
@@ -363,13 +362,13 @@ Yovuzlik, 4:123; 10:27-30; 19:83; 59:15
 - yaxshi tomonga o'zgartirildi, 7:95
 - ular o'zlarining nafslariga ergashuvchilar, 47:14, 16
 - ular uchun chiroyli qilingan amallar, 47:14
-Haddan tashqari,
+Haddan tashqari
 - oziq-ovqatda taqiqlangan, 5:87
 - dinda, 4:171; 5:77-81
 Ko'zlar, quloqlar va terilar gunohkorlarga qarshi guvohlik beradi, 41:20-23
 Ezra, (Uzair) 9:30
 Allohning yuzi yoki qiyofasi, 2:115, 272; 6:52; 13:22; 18:28; 28:88; 30:38-39; 55:27; 76:9; 92:20
-Adolatli ko'rinishga ega,
+Adolatli ko'rinishga ega
 - Alloh har bir qavm uchun o'z ishini qildi, 6:108
 Iymon (E'tiqod), 2:108; 3:167, 177, 193; 5:5; 9:23; 16:106; 30:56; 40:10; 42:52; 49:7, 11, 14; 52:21; 58:22; 59:9-10
 - 3:116 ni rad etuvchilar
@@ -379,7 +378,7 @@ Iymon (E'tiqod), 2:108; 3:167, 177, 193; 5:5; 9:23; 16:106; 30:56; 40:10; 42:52;
 Fajr, S89
 Falaq, S.113
 Qur'on oyatlari haqida yolg'on suhbat, 6:68
-Soxta xudolar,
+Soxta xudolar
 - Allohdan tashqari, butlar va sheriklar deb ataluvchi narsalar 7:194-198; 16:20-21, 72, 86; 21:22, 24; 34:22, 27; 41:47-48; 46:5-6; 53:19-24; 71:23-24
 - Allohdan o'zga ibodat qilayotganlarni haqorat qilmanglar, 6:108
 - shuningdek, Tag'utga qarang
@@ -394,7 +393,7 @@ Fidya (fidya), ro'za, 2:196
 - asirlarni ozod qilish uchun, 8:67
 - kofirlar tomonidan taqdim etilgan to'lov, 3:91; 5:36,37; 10:54; 13:18
 Shakl, 95:1
-Jang,
+Jang
 - Alloh yo'lida, kofirlarga qarshi, 2:190-193, 244; 4:84, 95; 8:72, 74, 75; 9:12-16, 20, 24, 36, 123; 47:4; 61:11
 - tayinlangan, 2:216
 - muqaddas oylarda, 2:217; 9:5
@@ -410,7 +409,7 @@ Fil, S.105
 Firdavs jannati, 18:107; 23:11
 Olov, 56:71, 100:2
 Pashsha, 22:73
-Oziq-ovqat,
+Oziq-ovqat
 - halol va noqonuniy, (Halol va Harom), 2:168, 172, 173; 5:1, 3-5, 88; 6:118-119, 121, 145-146; 16:114-118; 23:51
 - o'tmishda yegan narsa uchun gunoh yo'q, 5:93
 - tajovuz qilmang, 5:87
@@ -432,7 +431,7 @@ Kechirim, 2:109; 4:48, 110, 116; 5:74; 7:199; 39:53; 42:5, 40-43; 45:14; 53:32; 
 - bir-biringiz bilan shoshilishda musobaqalashing, 57:21
 - yomon amallar yaxshi amallarga aylandi 25:68-71
 Firibgarlik, (Xiyonatga qarang) 83:1-6
-Erkin iroda,
+Erkin iroda
 - Allohning irodasi bilan cheklangan, 6:107; 10:99; 74:56;76:31; 81:28-29
 — kim xohlasa, iymon keltirsin va kofir bo'lsin, 18:29
 - Parvardigoriga yo'l tutsin, 76:29
@@ -466,14 +465,14 @@ Yaxshi (kunlar), 3:140
 - Alloh qilganlarni eng yaxshisi bilan mukofotlaydi, 53:31
 - yaxshilikdan boshqa mukofot bormi? 55:60
 - Alloh sizga yaxshilik qilganidek, siz ham shunday qiling, 28:77
-Yaxshilik va yomonlik,
+Yaxshilik va yomonlik
 - yaxshilik Allohdan, yomonlik esa o'zingdan, 4:79
 — Agar yaxshilik qilsangiz, o'zingiz uchun, agar yomonlik qilsangiz, o'zingizga zarar, 17:7;41:46
 - yomonlikni yaxshilik bilan daf qiling, 23:96; 28:54; 41:34
 - yaxshilik va yomonlik teng bo'la olmaydi, 41:34
 - har bir inson o'zi qilgan barcha narsalarga duch keladi, 3:30
 - shuningdek, Muhsinunga qarang
-Yaxshi ish,
+Yaxshi ish
 - uni oshkor qilish yoki yashirish, 4:149
 - 5:48 da poygada bo'lgani kabi harakat qiling
 Xushxabar, 3:3, 48, 65; 5:46-47, 66, 68, 110; 7:157; 9:111; 48:29; 57:27
@@ -490,7 +489,7 @@ Qiyinchilik, har bir qiyinchilik bilan birga yengillik bor, 94:5-6
 Horun, (Horun)
 Harut, 2:102
 Hashr, S.59
-Yuraklar,
+Yuraklar
 - qotib qolgan, 2:74; 22:53; 39:22; 57:16
 - muhrlangan, 7:100-101; 40:35; 47:16; 63:3
 - qoplangan, 17:46; 41:5
@@ -498,7 +497,7 @@ Yuraklar,
 - bo'lingan, 59:14
 - qo'rquvga to'la, 22:35
 - kimda kasallik bor bo'lsa, 2:10; 5:52; 8:49; 9:125; 22:53; 24:50; 33:12, 32, 60; 47:20, 29; 74:31
-Jannatlar,
+Jannatlar
 - G'ayb Allohnikidir, 16:77
 - spektakl uchun yaratilmagan, 21:16
 - va yer birlashdi, 21:30
@@ -528,7 +527,7 @@ Do'zax (olov, alangali alanga) 2:24, 119, 161, 166, 201; 3:10, 12, 116, 131, 151
 - yonayotgan umidsizlik va muzdek zulmat, 38:57
 - 70 tirsakli zanjir, 69:32
 - cheklangan muddatga qolish, 78:23
-Keyinchalik,
+Keyinchalik
 - uydagi uy yaxshiroq, 6:32; 7:169
 - bu 6:135 da tugaydi
 - Zalimun (in) muvaffaqiyat qozonmaydi, 6:135
@@ -545,7 +544,7 @@ Hijr (Qoyali yo'l), 15:80-85
 Hijr, S.15
 Gomoseksualizm 26:165-166; 27:55; 29:28-29
 Otlar, 16:8
-Soat,
+Soat
 - bu haqda faqat Allohning bilimi bor, 7:187; 31:34; 33:63; 41:47; 68:26; 79:42-46
 - to'satdan bu ularning ustiga tushadi, 6:31; 7:187;12:107; 43:66
 - sizga keladi, 6:40; 12:107; 20:15; 34:3
@@ -554,9 +553,9 @@ Soat,
 - zilzila, 22:1
 - Qiyomat kuni, 30:12, 14 da o'rnatiladi.
 - albatta keladi, shubha yo'q, 40:59; 45:32; 51:5-6
-- alomatlar 21:96; 27:82; 43:61; 47:18; 54:1-2;
-- ismlar 1:3; 2:4; 3:55; 19:39; 30:56; 37:21; 40:15; 41:47; 42:7; 50:20; 56:1; 64:9; 69:1; 79:34; 80:33; 88:1; 101:1-3;
-- odamlarni hayratda qoldiradi 6:31; 7:187;
+- alomatlar 21:96; 27:82; 43:61; 47:18; 54:1-2
+- ismlar 1:3; 2:4; 3:55; 19:39; 30:56; 37:21; 40:15; 41:47; 42:7; 50:20; 56:1; 64:9; 69:1; 79:34; 80:33; 88:1; 101:1-3
+- odamlarni hayratda qoldiradi 6:31; 7:187
 - Suru chalinadi 6:73; 23:101; 39:68
 Uylar, kirish odoblari, 24:27-29
 Hud, 7:65-72; 11:50-60; 26:123-140; 46:21-26
@@ -565,7 +564,7 @@ Hujurat, S.49
 Humazah, S.104
 Hunayn (jang), 9:25
 Hur (jannatdagi ayollar), 44:54; 52:20
-Ikkiyuzlamachilar,
+Ikkiyuzlamachilar
 — Aytinglar: Biz Allohga va oxirat kuniga iymon keltiramiz, lekin aslida ishonmaymiz, 2:8
 - o'zlarini aldaydilar, 2:9
 - qalblaridagi kasallik, 2:10; 8:49; 22:53;33:12; 47:29
@@ -609,8 +608,8 @@ Ilah, faqat bitta, 2:163; 6:19; 16:22, 51; 23:91; 37:4; 38:65
 Noqonuniy jinsiy aloqa; guvohlarning ko'rsatmalari, 4:15-18; 24:2, 19
 Illiyyun, 83:18-21
 Nopok (Najas) 9:28
-Imron,
-- xotini, 3:35;
+Imron
+- xotini, 3:35
 - qizi, 66:12
 Muqarrar, 69:1-3
 Infitar, S.82
@@ -629,7 +628,7 @@ Temir, 57:25
 Iso, Isoga qarang
 Ishoq, (Ishoq) 2:133; 4:163; 6:84; 19:49;21:72; 29:27; 37:112–113
 Ismoil (Ismoil), 2:125-129, 133; 4:163;6:86; 19:54–55; 21:85; 38:48
-otasi bilan Ka'ba poydevorini ko'taradi 2:125-140;
+otasi bilan Ka'ba poydevorini ko'taradi 2:125-140
 qurbonlik hikoyasi 37: 100-113
 Islom, 3:19, 85; 5:3; 6:125; 39:22; 61:7
 - musulmon sifatida itoat etganlarning birinchisi, 6:14,163; 39:12
@@ -658,8 +657,8 @@ Yoqub, (Yoqub) 2:132-133; 4:163; 6:84;12:18; 19:49; 21:72; 29:27
 Jalut, (Goliatga qarang)
 Jamarat, 2:200
 Jathiyah, S.45
-Iso, Maryam o'g'li Iso,
-- dunyoning barcha ayollaridan tanlangan ona 3:42;
+Iso, Maryam o'g'li Iso
+- dunyoning barcha ayollaridan tanlangan ona 3:42
 - Qiyomat kuni guvohlik beradi, 4:159
 - tug'ilish haqidagi xushxabar, 3:45-47; 19:22-23
 - Isroil farzandlariga elchi, 3:49-51
@@ -682,9 +681,9 @@ Iso, Maryam o'g'li Iso,
 - 43:65 ga oid turli xil qarashlar
 — Isroil avlodi uchun qul va o'rnakdan boshqa narsa emas, 43:59
 - Ahmad ismli payg'ambarning xushxabari, 61:6
-- uning bokira qizdan tug'ilishi, xabari va mo''jizalari 3:45-51; 19:16-38;
-- Allohning ne'matlarini eslatdi 5:110-115;
-- ilohiylikni inkor etadi 5:116-120;
+- uning bokira qizdan tug'ilishi, xabari va mo''jizalari 3:45-51; 19:16-38
+- Allohning ne'matlarini eslatdi 5:110-115
+- ilohiylikni inkor etadi 5:116-120
 - izdoshlarining qalbida mehr-shafqat va inoyat 5:82; 57:27
 Yahudiylar va nasroniylar, 2:140; 4:153-161, 171; 5:18
 - yolg'onga quloq soling, 5:41-42
@@ -694,41 +693,41 @@ Yahudiylar va nasroniylar, 2:140; 4:153-161, 171; 5:18
 Jibril, (qarang: Jabroil)
 Jihod, (Jang qilish, Intizorlik) 2:216; 9:24; 22:78; 25:52
 Jinn, S.72
-Jin, 6:100, 112; 15:27; 34:41; 38:37; 46:18,29; 55:33, 39;
-Jin, olovdan yaratilgan 15:25; 55:15;
-- ishongan va ishonmagan jinlar 72:1-15;
+Jin, 6:100, 112; 15:27; 34:41; 38:37; 46:18,29; 55:33, 39
+Jin, olovdan yaratilgan 15:25; 55:15
+- ishongan va ishonmagan jinlar 72:1-15
 - ba'zilari Qur'on 46:29-32 oyatlariga ishonishgan
 - insonlar va jinlar bir maqsad uchun yaratilgan 51:56-58
 Ayub, 4:163; 6:84; 21:83-84; 38:41-44
-Yuhanno, (Yahyo, Cho'mdiruvchi Yuhanno),
+Yuhanno, (Yahyo, Cho'mdiruvchi Yuhanno)
 - xushxabar, 3:38-41; 19:7-11; 21:90
 - solih, 6:85
 - dono, hamdard, itoatkor, 19:12-15
-Yunus (Yunus yoki Yunus), 4:163; 6:86; 10:98;21:87; 37:139-148;
+Yunus (Yunus yoki Yunus), 4:163; 6:86; 10:98;21:87; 37:139-148
 - (Zun-Nun) 21:87; 68:48-50
 Yusuf (Yusuf), 6:84; 12:4-101
-- eng yaxshi hikoyalar 12:1-3;
-- yosh Yusufning tushi 12:4-6;
-- aka-ukalarining fitnasi 12:7-18;
-- qullikka sotilgan 12:19-20;
+- eng yaxshi hikoyalar 12:1-3
+- yosh Yusufning tushi 12:4-6
+- aka-ukalarining fitnasi 12:7-18
+- qullikka sotilgan 12:19-20
 - Misr bosh vazirining uyida tarbiyalangan 12:21-22
-- Bosh vazirning xotini uni yo'ldan ozdirishga harakat qiladi 12:23-29;
-- ziyofat voqeasi 12:30-32;
-- qamoqxonaga boradi 12:33-35;
-- ikki mahbus 12:36-42;
-- Shohning tushi 12:43-53;
-- Bosh vazir bo'ladi 12:54-57;
-- aka-ukalar uning oldiga oziq-ovqat uchun kelishadi 12:58-68;
-- ukasi Benyaminni oladi 12:69-82;
-- otasining yangilangan qayg'usi 12:83-87;
-- o'zining asl kimligini ochib beradi 12:88-98;
-- eski orzu ro'yobga chiqadi 12:99-100;
+- Bosh vazirning xotini uni yo'ldan ozdirishga harakat qiladi 12:23-29
+- ziyofat voqeasi 12:30-32
+- qamoqxonaga boradi 12:33-35
+- ikki mahbus 12:36-42
+- Shohning tushi 12:43-53
+- Bosh vazir bo'ladi 12:54-57
+- aka-ukalar uning oldiga oziq-ovqat uchun kelishadi 12:58-68
+- ukasi Benyaminni oladi 12:69-82
+- otasining yangilangan qayg'usi 12:83-87
+- o'zining asl kimligini ochib beradi 12:88-98
+- eski orzu ro'yobga chiqadi 12:99-100
 - yakuniy ibodat 12:101
 Judi, Mount, 11:44
 Juma, S.62
 Adolat (Adl), 2:282; 4:58, 135; 7:29; 16:90; 57:25 (
 - shuningdek, 4:65, 105 ga qarang
-Ka'ba,
+Ka'ba
 - Ibrohim tomonidan qurilgan, 2:125-127
 - ovni o'ldirish mumkin emas, 5:94-96
 - xavfsizlik boshpanasi, 5:97
@@ -740,17 +739,17 @@ Kahf, S.18
 Kanz, 9:34-35
 Kavsar (jannatdagi daryo), 108:1
 Kavtar, S.108
-Kalitlar,
+Kalitlar
 osmonlar va yerning, 39:63; 42:12
 G'oyibning, 6:59
 Xaulah bint Tha labah, 58:1
-O'ldirish,
+O'ldirish
 - agar kimdir bir odamni o'ldirsa, u butun insoniyatni o'ldirgan bo'ladi, 5:32
 - hech kimni o'ldirmang, 17:33
 Yaxshi so'zlar sadaqadan yaxshiroq, 2:263
 Qarindoshlar, huquqlari, 2:83, 177, 215; 4:7-9, 36;8:41; 16:90; 17:26; 24:22; 29:8; 30:38; 42:23
 Kiraman-Ratibin, 82:11
-Bilim,
+Bilim
 — Biror barg tushmaydi, faqat U biladi, 6:59
 - o'z farzandlarini ahmoqlikdan, behuda o'ldirganlar ziyon ko'rdilar, 6:140
 - besh narsadan, faqat Alloh bilan, 31:34
@@ -760,14 +759,14 @@ Kursi, 2:255
 Lahab (Masadga qarang), S.111
 Lail, S.92
 Chiroq, 25:61; 67:5; 71:16; 78:13
-Tillar,
+Tillar
 - erkaklarning rang-barangligi va farqi, 30:22
 Lot, 53:19
 Qonun, belgilangan, 5:48
 Allohdan kelgan qonunlar, 2:219; 98:3
 Yolg'onchilar, 26:221-223
 Hayot, agar kimdir bir odamni qutqargan bo'lsa, u butun insoniyatning hayotini saqlab qolgan bo'ladi, 5:32
-Bu dunyo hayoti,
+Bu dunyo hayoti
 - oxirat narxiga sotib oldi, 2:86
 - faqat aldashdan zavqlanishdir, 3:185
 - Oxirat uchun soting, 4:74
@@ -779,7 +778,7 @@ Bu dunyo hayoti,
 — kim xohlasa, unga erishadi; lekin oxiratda unga hech qanday nasiba bo'lmaydi, 11:15-16; 17:18; 42:20
 - hozirgi zamonni sevib, oxiratni unutadiganlar, 75:20-21; 76:27
 - siz afzal ko'rasiz, 87:16
-Yorug'lik,
+Yorug'lik
 - manifest, 4:174
 - va zulmat, 6:1
 - 24:35 ning masallari
@@ -794,7 +793,7 @@ Alloh tomonidan belgilangan chegaralar, 2:173, 187, 190, 230;9:112; 58:4; 65:1; 
 - ular (maymunlarga aylanganlaridan) oshib ketganlarida, 7:166
 - ga rioya qiladiganlar, 9:112
 Arslon, 74:51
-Kredit,
+Kredit
 - Allohga yaxshi qarz bering, 2:245; 73:20
 - ko'paytirilgan ko'plik, 57:11, 18
 - ikki baravar oshirildi, 64:17
@@ -812,7 +811,7 @@ Mahr (kelinlik puli), 2:229, 236-237; 4:4,19-21, 24-25; 5:5; 33:50; 60:10-11
 Ma'idah, S.5
 Makka (Bakka), 3:96;90:1-2
 - Xavfsizlik shahri, 95:3
-Erkak,
+Erkak
 - yer yuzida avloddan-avlodga, 2:30;6:165
 - voris qilib tayinlangan, 35:39
 - burch, 2:83-84, 88, 177; 4:1-36; 8:41; 16:90;17:23-39; 24:22; 29:8-9; 30:38;33:33;42:23; 64:14; 70:22-35
@@ -877,7 +876,7 @@ Erkak,
 - barcha chegaralardan oshib ketadi, 96:6-7
 Hajning Manasik (vazifalari), 2:128, 200; 22:30
 Manat, 53:20
-Insoniyat,
+Insoniyat
 - guvohlar, 2:143
 - bitta jamoa, 2:213; 10:19
 - bitta juftlikdan yaratilgan, 4:1; 39:6; 49:13
@@ -887,7 +886,7 @@ Insoniyat,
 - eng sharaflisi, 49:13
 - xalqlar va qabilalarga bo'lingan, 49:13
 Manna va bedana, 2:57
-Odob-axloq,
+Odob-axloq
 - uylarga kirish haqida, 24:27-29
 - uyda, 24:58-61
 - Payg'ambarning uylarida, 33:53
@@ -910,7 +909,7 @@ Nikoh, 2:232, 234
 - turmush qurish uchun moliyaviy imkoniyat topa olmaydiganlar, 24:33
 - Payg'ambarga halol qilingan xotinlar, 33:50-52
 - jinsiy aloqadan oldin, ajrashishda idda yo'q, 33:49
-Shahidlar,
+Shahidlar
 - o'lmagan, 2:154; 3:169
 - Allohning fazlu karami bilan xursand bo'ling, 3:170-171
 - kechirim va rahm-shafqatni qabul qilish, 3:157-158
@@ -930,7 +929,7 @@ Masad, S.111
 Maun, S.107
 Mavo jannat, 53:15
 O'lchov va vazn, to'liq bering, 11:85; 17:35;83:1-5
-Uchrashuv,
+Uchrashuv
 - Alloh bilan, 6:31
 - Buyuk Kun, 19:37
 - Oxirat haqida, 30:16
@@ -960,7 +959,7 @@ Miraj, 17:1; 53:12
 Oylar, soni, 9:36-37
 Oy, 7:54; 10:5; 16:12; 22:18; 25:61; 36:39-40; 71:16; 91:2
 - ning bo'linishi; 54:1
-Muso,
+Muso
 - va uning xalqi, 2:51-61; 7:138-141,159-162; 14:5-8; 61:5
 - va Fir'avn, 2:49-50; 17:101-103; 20:17-53, 56-79; 23:45-49; 25:31-42; 40:23-46; 43:46-56; 51:38-40; 73:16; 79:15-26
 - Alloh tomonidan hidoyat qilingan, 6:84
@@ -970,23 +969,23 @@ Muso,
 - Muqaddas Yozuvlarga binoan, 17:2
 - to'qqizta aniq oyat-belgilar, 7:133; 17:101
 - ikki dengiz tutashgan joyga, 18:60-82
-- yonayotgan buta yonidagi taqdirli uchrashuv 20:9-36; 27:7-14; 28:29-35;
+- yonayotgan buta yonidagi taqdirli uchrashuv 20:9-36; 27:7-14; 28:29-35
 - chaqirilgan va elchilik berilgan, 19:51-53; 20:9-56
 - uning bolaligi, onasi va singlisi, 20:38-40;28:7-13
 - sehrgarlar tavba qilishdi, 20:70-73; 26:46-52
 - Madyanda, 20:40; 28:22-28
 - mezon berildi, 21:48
 - va sirli olov, 27:7-12; 28:29-35
-- shaharda misrlikni xato bilan o'ldiradi 28:14-21;
+- shaharda misrlikni xato bilan o'ldiradi 28:14-21
 - aniq oyat-belgilar bilan kelgan, 29:39
-- Fir'avn bilan bo'lgan hikoya 7:103-137; 10:75-92; 11:96-99; 26:10-69;
-- Fir'avn va uning qavmi uchun to'qqizta oyat-mo''jiza 7:130-133; 20:17-22; 17:101;
-- Fir'avnning sehrgarlarini mag'lub etadi 20:70-73; 26:46-52;
-- Midiyonga qochish va turmush qurish 28:22-28;
-- Lavhalarni qabul qiladi 7:142-154,
-- Allohni tog'da ko'rishni so'raydi 7:142-145;
-- Alloh tomonidan ulug'langan 33:69;
-- Allohning Isroil xalqiga qilgan ne'matlari 2:47-61;
+- Fir'avn bilan bo'lgan hikoya 7:103-137; 10:75-92; 11:96-99; 26:10-69
+- Fir'avn va uning qavmi uchun to'qqizta oyat-mo''jiza 7:130-133; 20:17-22; 17:101
+- Fir'avnning sehrgarlarini mag'lub etadi 20:70-73; 26:46-52
+- Midiyonga qochish va turmush qurish 28:22-28
+- Lavhalarni qabul qiladi 7:142-154
+- Allohni tog'da ko'rishni so'raydi 7:142-145
+- Alloh tomonidan ulug'langan 33:69
+- Allohning Isroil xalqiga qilgan ne'matlari 2:47-61
 - Isroilliklar Quddusga kirishdan bosh tortdilar 5:20-29
 - To'g'ri yo'lga hidoyat qilingan, 37:114-122
 - Muqaddas Yozuvlar, 53:36; 87:19
@@ -1074,7 +1073,7 @@ Mumtahana, S.60
 Munafigun, S.63
 Qotillik, 2:178-179
 Mursalat, S.77
-Musulmonlar,
+Musulmonlar
 - birinchisi, 6:14, 163; 9:100; 39:12
 - Kim nomladi, 22:78
 - mag'firat va buyuk mukofotga ega bo'lganlar uchun, 33:35-36
@@ -1086,7 +1085,7 @@ Nahl, S.16
 Najas (nopok) 9:28
 Najm, S.53
 Najva (Sirga qarang)
-Ismlar,
+Ismlar
 Eng go'zal zot Unga tegishlidir, 7:180
 Eng yaxshisi Unga tegishli, 17:110; 20:8; 59:24
 Agar kimdir majbur bo'lsa, zarurat, 2:173; 6:145
@@ -1099,10 +1098,10 @@ Kecha, (ramz sifatida), dam olish uchun, 10:67
 - xizmat qilish, 14:32
 - Qadr kechasi (Farmon), 44:3-4; 97:1-5
 Niso, S.4
-Nuh, 3:33; 4:163; 6:84; 9:70; 10:71; 11:25, 32, 36, 42, 45-46, 48, 89; 17:3; 21:76; 25:37; 26:105; 29:14; 37:75; 51:46; 54:9; 69:11;
-- masxara qilingan 11:38;
+Nuh, 3:33; 4:163; 6:84; 9:70; 10:71; 11:25, 32, 36, 42, 45-46, 48, 89; 17:3; 21:76; 25:37; 26:105; 29:14; 37:75; 51:46; 54:9; 69:11
+- masxara qilingan 11:38
 - To'fon (kuchli suv toshqini), 29:14
-- Kema va To'fon 7:59-69, 11:25-48; 23:23-31; 26:105-122; 71:1-28;
+- Kema va To'fon 7:59-69, 11:25-48; 23:23-31; 26:105-122; 71:1-28
 - adolatsiz o'g'il najot topmadi, 11:42-48
 - adolatsiz xotin, 14:9; 17:3, 17;19:58;21:76; 22:42; 26:105-106, 116; 33:7; 37:75,79; 38:12; 42:13; 40:5, 31; 42:13;50:12;53:52; 57:26; 66:10; 71:1, 21, 26
 Nuh, S.71
@@ -1136,7 +1135,7 @@ Masallar (o'xshashlik, misol, o'xshatishlar)
 - yomg'ir, 10:24
 - toza o'rilgan hosil, 10:24
 - ko'r va kar, 11:24
-- Alloh va soxta xudolar 13:14; 16:76;
+- Alloh va soxta xudolar 13:14; 16:76
 - haqiqat va yolg'on 13:17
 - shamol shiddat bilan esadigan kul, 14:18
 - go'zal daraxt, 14:24-25
@@ -1164,7 +1163,7 @@ Masallar (o'xshashlik, misol, o'xshatishlar)
 - eshak, 62:5
 - suvni cho'ktirish kerak edi, 67:30
 - bog' ahli, 68:17-33
-Jannat,
+Jannat
 - maskan, (Ma'vo jannat), 53:15
 - Firdavs jannati, 18:107; 23:11
 - Ostidan daryolar oqib o'tadigan bog'lar, 3:15, 198;4:57; 5:119; 7:43; 9:72; 18:31; 22:23; 39:20;57:12; 64:9; 98:8
@@ -1187,7 +1186,7 @@ Jannat,
 - Jannatdagi daryo, Kavsar, 108:1
 - sharob, sut, tiniq asal daryolari, 47:15
 - sof muhrlangan sharob, oq, mazali, 37:45-46; 56:18; 76:21; 83:25
-- Zanjabil bilan aralashtirilgan chashka, 76:17; 78:34;
+- Zanjabil bilan aralashtirilgan chashka, 76:17; 78:34
 - suv, 76:5
 - oltin laganlar va qadahlar, 43:71
 - kumush idishlar va billurdan yasalgan qadahlar, 76:15-16
@@ -1234,21 +1233,21 @@ Jannat,
 - yoqimli soyalarda, taxtlarda yonboshlab o'tirgan xotinlar, 36:55
 - teng yoshdagi to'la ko'krakli yosh qizlar, 78:33
 - ularga sochilgan marvaridlar kabi xizmat qilish uchun o'lmas xizmatkor o'g'il bolalar, 52:24; 56:17; 76:19
-- osmon va yer kabi keng 3:133, 57:21;
-- oqar suv, salqin soya, lazzatli taomlar va sof juftliklar 2:25; 4:57; 36:55-58; 37:40-49; 38:50-54; 44:51-57; 52:17-24; 69:19-24; 76:5-22;
-- mo'minlarning mukofoti 55:46-78; 56:10-40;
-- asal, sut, suv va sharob daryolari 47:15;
-- ibodatlar va salomlar 10:9-10; 39:73-74;
-- tinchlik salomlari bilan kutib olindi 13:23-24; 14:32;
-- Baxtda abadiy qolish 11:108;
-- hech qachon ketish so'ralmagan 15:45-48;
-- ularning oldida va o'ng tomonida porlayotgan nur 57:12;
-- issiqlik yoki sovuq yo'q 76:13;
-- barcha tilaklar ijobat bo'ldi 16:30-32; 41:31-32;
-- oltin bilaguzuklar va nozik ipakdan tikilgan kiyimlar 18:30-31; 22:23-24; 44:51-53;
-- oltin qadahlar solingan lagandalar 43:67-73;
-- qo'l yetarlicha osilgan kumush idishlar va mevalar 76:14-16;
-- taxtlarga suyanib o'tirish 15:47; 37:44; 52:20;
+- osmon va yer kabi keng 3:133, 57:21
+- oqar suv, salqin soya, lazzatli taomlar va sof juftliklar 2:25; 4:57; 36:55-58; 37:40-49; 38:50-54; 44:51-57; 52:17-24; 69:19-24; 76:5-22
+- mo'minlarning mukofoti 55:46-78; 56:10-40
+- asal, sut, suv va sharob daryolari 47:15
+- ibodatlar va salomlar 10:9-10; 39:73-74
+- tinchlik salomlari bilan kutib olindi 13:23-24; 14:32
+- Baxtda abadiy qolish 11:108
+- hech qachon ketish so'ralmagan 15:45-48
+- ularning oldida va o'ng tomonida porlayotgan nur 57:12
+- issiqlik yoki sovuq yo'q 76:13
+- barcha tilaklar ijobat bo'ldi 16:30-32; 41:31-32
+- oltin bilaguzuklar va nozik ipakdan tikilgan kiyimlar 18:30-31; 22:23-24; 44:51-53
+- oltin qadahlar solingan lagandalar 43:67-73
+- qo'l yetarlicha osilgan kumush idishlar va mevalar 76:14-16
+- taxtlarga suyanib o'tirish 15:47; 37:44; 52:20
 - imonlilar o'z Rabblarini ko'radilar 75:22-23
 Ota-onalarga mehr-oqibat, 2:83, 215; 4:36; 16:90; 17:23; 29:8; 31:14; 46:15-17
 Allohning sheriklari, botil, 4:116;10:34-35, 66; 16:86; 28:62-64, 71-75; 30:40;42:21
@@ -1257,7 +1256,7 @@ Yo'l, 5:77; 16:94; 42:52-53; 43:43; 90:11-12
 - shuningdek, Way ga qarang
 Sabr, 3:186, 200; 10:109; 11:115; 16:126-127; 20:130; 40:55, 77; 42:43; 46:35; 70:5;73:10
 - ibodatda yordam so'rang, 2:45, 153; 20:132;50:39
-Bemor,
+Bemor
 - mukofotni to'liq oladi, 39:10
 - Alloh taolo itoatkorlar bilan birgadir, 8:46
 - va bo'l, 11:115
@@ -1266,7 +1265,7 @@ Bemor,
 Tinchlik, moyillik, 8:61
 Saqlangan marvarid va marjon, 52:24; 55:22; 56:23
 Qalam, 68:1; 96:4
-Shaxs,
+Shaxs
 - Alloh hech kimga toqatidan tashqari yuklamaydi, 2:286; 7:42
 - Alloh hech kimga toqatidan tashqari soliq solmas, 23:62
 — yoʻq, ertaga nima kasb qilishini va qaysi yurtda oʻlishini biladi, 31:34
@@ -1287,7 +1286,7 @@ Fir'avn, 28:6; 40:24
 - minora qurish, 40:36-37
 - shuningdek, Musoga qarang
 Dunyoviy narsalarni to'plash, 102:1-4
-Bay'at (qasamyod),
+Bay'at (qasamyod)
 - Islom uchun, 16:91
 - Payg'ambar uchun Allohga bay'at (qasam) bordir, 48:10
 - mo'minlarning, 48:18; 60:12
@@ -1323,17 +1322,17 @@ Payg'ambarlar, 3:33-34, 146; 4:163; 5:20; 6:84-90; 23:23-50; 57:26
 - noqonuniy, 3:161
 - har bir kishi uchun dushman, 6:112; 25:31
 - shuningdek, Xabarchilarga qarang
-Sajda,
+Sajda
 — Osmonlar va Yerdagi borliq va ularning soyalari Allohga taslim bo'lur, 13:15
 Ta'minot, 10:59; 13:26; 14:32; 16:73; 34:36,39; 42:12; 51:57; 67:21; 79:33
 Zabur, 4:163
-Jazo,
+Jazo
 - kechiktirish, 3:178
 - qo'l yoki oyoqlarni kesish, 5:33
 — ularni o'zingizga yetkazilgan azobga o'xshash azob bilan azoblang, 16:126
 - bu hayot va oxirat haqida, 24:19; 68:33
-Tozalovchi,
-- jismoniy, 4:43; 5:6;
+Tozalovchi
+- jismoniy, 4:43; 5:6
 - ma'naviy jihatdan (iflosliklardan), 87:14; 91:9
 Qadar, 5:5; 64:11
 Qadr, S.97
@@ -1345,7 +1344,7 @@ Qorun, 28:76-82; 29:39
 Qasas, S.28
 Qibla, 2:142-145, 149
 Qisas (Jazoda tenglik qonuni), 2:178-179, 194; 5:45; 16:126; 17:33; 22:60;42:40
-Qur'on,
+Qur'on
 - tasvirlangan, 13:31, 36, 37; 14:1; 56:77-80
 - Allohdan boshqa hech qachon yarata olmaydigan narsa emas, 2:23; 10:38; 11:13; 17:88
 — Agar u Allohdan boshqa tomonidan bo'lganida, unda ko'p ziddiyatlar bo'lgan bo'lar edi, 4:82
@@ -1363,7 +1362,7 @@ Qur'on,
 - arab tilida, 12:2; 13:37; 16:103; 20:113; 26:195;39:28; 41:3, 44; 42:7; 43:3; 44:58; 46:12
 - qismlarga bo'lingan va bosqichma-bosqich nozil qilingan, 15:91; 17:106; 25:32; 76:23
 - oyatning o'zgarishi, 16:10
-- qachonki siz 16:98 ni o'qimoqchi bo'lsangiz,
+- qachonki siz 16:98 ni o'qimoqchi bo'lsangiz
 - qo'llanmalar, 17:9
 - xushxabar va ogohlantirish, 17:9-10
 - va kofirlar, 17:45-47
@@ -1395,7 +1394,7 @@ Qur'on,
 - sof sahifalarni tilovat qilish, 98:2
 - shuningdek, Kitobga qarang; Vahiy
 Quraysh, S.106
-Quraysh,
+Quraysh
 - kofirlar, 54:43-46, 51
 - qo'lga kiritish, 106:1-4
 Ravvinlar va rohiblar, 9:31, 34
@@ -1403,26 +1402,26 @@ Yaxshi ishlarda poyga qiling, kurashing, 5:48
 Ra'd, S.13
 Rahmon, S.55
 Solihlik libosi yaxshiroqdir, 7:26
-Yomg'ir,
+Yomg'ir
 - Allohning sovg'asi, 56:68-70
 - toshlardan, 27:58
 Ramazon, 2:185
 Ramy, 2:200
-To'lov,
+To'lov
 - yo'q, olinadi, 57:15
 - kofirlar tomonidan taklif qilingan, 3:91; 10:54; 13:18
-Ro'za fidyasi, 2:196;
+Ro'za fidyasi, 2:196
 - asirlarni ozod qilish uchun, 8:67
 Rass aholisi, 25:38; 50:12
-Kompensatsiya,
+Kompensatsiya
 - ning kuni, 1:4; 37:20; 51:12; 56:56; 82:17-18; 96:7
 - inkor etuvchilar, 107:1-7
 - yomonlikning o'ziga o'xshashi ham bor, 42:40
-Yarashish,
+Yarashish
 - kim kechirsa va tuzatsa, 42:40
 - er va xotin o'rtasida, 4:35
 - imonlilar orasida, 49:9-10
-Yozuv,
+Yozuv
 - yozilgan daftar, 83:7-9, 18-21
 - har bir xalq o'z safiga chaqiriladi, 45:28-29
 - har bir insonning amallari yozilgan sahifalar, 81:10
@@ -1432,7 +1431,7 @@ Yozuv,
 - orqada, 84:10-15
 Yozuvchi farishtalar, 50:17-18, 23; 85:11
 Qiyinchilik bilan yengillik, 94:5-6
-Din,
+Din
 - majburlash yo'q, 2:256
 - Islom, 3:19
 - Allohning, 3:83-84
@@ -1449,7 +1448,7 @@ Din,
 - ajdodlar, 43:22-24
 Allohni zikr qilish, 63:9
 - qalblar orom topadi, 13:28
-Tavba,
+Tavba
 - agar bilmasdan yomonlik qilinsa, qabul qilinadi va undan keyin tez orada tavba qilinadi, 4:17; 6:54
 - va agar yomon ishlar davom etsa, hech qanday ta'sir qilmaydi, 4:18
 - U gunohlarni qabul qiladi va kechiradi, 4:25
@@ -1457,7 +1456,7 @@ Yomonlik uchun muhlat, 3:178; 10:11; 12:110; 14:42,44; 29:53-55; 86:15-17
 Tirilish, 2:28, 7:53; 14:21; 16:38-40; 22:5-7; 23:15-16; 31:28, 41:39, 46:33-34; 50:3,20-29, 41-44; 64:7, 75:1-15; 79:10-12; 86:5-8
 - Ezra 2:259 hikoyasidagi misol
 - Ibrohim 2:260
-- g'or odamlari 18:9-26;
+- g'or odamlari 18:9-26
 - tirilishni inkor etuvchilarga ogohlantirish 17:49-52, 17:97-100, 19:66-72, 37:11-27, 50:1-15, 80:17-42
 Qiyomat kuni, 7:89; 20:100-101, 124
 - Haqiqiy Kun, 78:39
@@ -1548,7 +1547,7 @@ Orqaga berilgan yozuv, 84:10-15
 - Do'zax yaqinlashtiriladi, 89:23
 - Do'zax olovi uzilib, qattiq alangaga aylantiriladi, 81:11-12
 - Sadaqa yo'li bilan qasos olish kafforat bo'ladi, 5:45
-Vahiy,
+Vahiy
 - agar shubhangiz bo'lsa, 2:23-24
 - bekor qilingan yoki unutilgan oyat, 2:106
 - to'g'ri yo'l-yo'riq, 3:73
@@ -1560,13 +1559,13 @@ Vahiy,
 - Kitobning bir qismi Allohdandir, 46:2
 - shuningdek, Kitob va Qur'onga qarang
 Ularga qilingan zulm uchun qasos, 42:39-43
-Mukofot,
+Mukofot
 - amallarning eng yaxshisiga va undan ham ko'proqqa ko'ra, 24:38; 29:7; 39:35
 - mukofot sifatida 25:15
 - Alloh yaxshilik qiluvchilarni eng yaxshisi bilan mukofotlaydi, 53:31
 - yaxshilik uchun, faqat yaxshilik uchun mukofot yo'q, 55:60
 Ribo (Suruvga qarang)
-Solih,
+Solih
 - kompaniyasi, 4:69
 - yerni meros qilib oladi, 21:105
 - Jannatda, 51:15-19; 76:5-12
@@ -1585,7 +1584,7 @@ Ruh (jon, ruh), 15:29; 17:85; 58:22
 Rom, S.30
 Sabo (Shaba), 27:22-44; 34:15-21
 Saba', S.34
-Shanba,
+Shanba
 - tajovuzkorlar, 2:65; 4:154; 7:163-166
 - faqat 16:124 uchun buyurilgan
 Sabiylar, 5:69; 22:17
@@ -1611,23 +1610,23 @@ Shayton, 2:36, 168, 208, 268, 275; 3:36, 155, 175; 4:38, 60, 76, 83, 119-120; 5:
 - imonlilar ustidan hech qanday kuchga ega emas, 16:99-100
 - yolg'on gapiradi, 22:52-53
 - dushman, 12:5; 35:6; 36:60
-- takabburlik 2:34; 7:11-27; 15:26-43; 17:61-65; 38:73-85;
-- jin 18:50-51;
-- Odam Atoning vasvasasi va yiqilishi 7:20-23; 20:116-121;
-- mo'minlar ustidan hech qanday hokimiyatga ega emas 16:98-100;
-- uning goli 35:6-8;
-- insoniyatga qasamyod qilgan dushman 12:5; 17:53;
-- uning guruhi 53:14-19;
-- uning qo'l mehnati 5:90-91;
-- yaxshi ishlarni qilishga to'sqinlik qiladi 2:268;
-- mo'minlar undan Allohdan panoh so'rashadi 7:200-202;
-- uning hiylalari zaif 4:76;
-- izdoshlarini xafa qiladi 8:48;
+- takabburlik 2:34; 7:11-27; 15:26-43; 17:61-65; 38:73-85
+- jin 18:50-51
+- Odam Atoning vasvasasi va yiqilishi 7:20-23; 20:116-121
+- mo'minlar ustidan hech qanday hokimiyatga ega emas 16:98-100
+- uning goli 35:6-8
+- insoniyatga qasamyod qilgan dushman 12:5; 17:53
+- uning guruhi 53:14-19
+- uning qo'l mehnati 5:90-91
+- yaxshi ishlarni qilishga to'sqinlik qiladi 2:268
+- mo'minlar undan Allohdan panoh so'rashadi 7:200-202
+- uning hiylalari zaif 4:76
+- izdoshlarini xafa qiladi 8:48
 - Do'zaxdagi izdoshlari bilan gaplashish 14:22
 - shuningdek, Iblisga qarang
 Miqyosli, muvaffaqiyatli, og'ir bo'ladi, 7:8-9
 - shuningdek, balansga qarang
-Muqaddas Kitob,
+Muqaddas Kitob
 - Yahudiylar xalqi (yahudiylar va nasroniylar), 2:109; 3:64-65, 69-72, 75, 98-99, 110, 113,199; 4:47, 153-161; 5:59-60, 68; 98:1
 - ular nimani yashirgan edilar, 5:61-63
 - to'g'ri yo'lda bo'lganlar orasida, 5:66
@@ -1635,7 +1634,7 @@ Muqaddas Kitob,
 Dengizlar, 42:32-33; 45:12
 - ikkalasi, 18:60; 25:53; 35:12; 55:19-20
 - qachon, portlab ketadi, 82:3
-Sir (Najva),
+Sir (Najva)
 - suhbatlar, 4:114
 - uch kishining maslahati, 58:7
 - maslahatlar, 58:8, 10
@@ -1644,10 +1643,10 @@ Dindagi mazhablar va bo'linishlar, 6:15; 23:53;30:32; 42:13-14; 43:65; 45:17
 U g'amdan keyin xavfsizlikni tushirdi, 3:154
 Urug', uni o'stiradigan Zot, 56:63-67
 Sezgilar, 23:78
-Yetti, yaratilgan,
+Yetti, yaratilgan
 - osmonlar, 2:29; 23:17; 65:12; 67:3; 71:15
 - va unga o'xshash yerning, 65:12
-Soya,
+Soya
 - Allohga sajda qiladi, 13:15; 16:48
 tarqalishi, 25:45
 Shams, S.91
@@ -1679,12 +1678,12 @@ Qullar, 2:177-178; 4:25, 36, 92; 5:89; 24:33; 58:3; 90:13
 Uyqu, dam olish uchun narsa, 78:9
 Sodom, 29:31; 37:136
 Sodomiy, 7:80-82; 11:77-83; 15:61-77; 29:28-29
-Sulaymon, 2:102; 4:163; 6:84;
-- otasi Dovudga adolatli hukm chiqarishga yordam beradi 21:78-82;
+Sulaymon, 2:102; 4:163; 6:84
+- otasi Dovudga adolatli hukm chiqarishga yordam beradi 21:78-82
 - va chumolilar, 27:15-19
 - va huddush, 27:20-26
 - va Saba' malikasi, 27:22-44; 34:15
-- Allohning unga bo'lgan marhamati 34:12-14, 38:34-40;
+- Allohning unga bo'lgan marhamati 34:12-14, 38:34-40
 - uning yaxshi otlarga bo'lgan muhabbati 38:30-33
 O'g'il, asrab olingan, 33:4-5
 Jon (ruh, Ruh), 15:29; 17:85; 58:22
@@ -1704,8 +1703,8 @@ Urush o'ljalari, 8:41, 69; 48:15, 19-20; 48:15
 Josuslik, 49:12
 Yulduz, 53:1, 49; 86:1-4
 Yulduzlar, 7:54; 15:16; 16:12, 16; 22:18; 25:61;37:6-10; 56:75; 77:8; 81:2; 82:2
-To'g'ri, Yo'l, 1:6,
-- va boshqalar. Yo'l, 6:153,
+To'g'ri, Yo'l, 1:6
+- va boshqalar. Yo'l, 6:153
 - va hokazo. Intizorlik, 4:95; 8:72, 74, 75; 9:20, 24, 81; 22:78; 25:52; 29:69:69; 47:3; 60:1; 61:11
 Emizish, emizikli onaning muddati, 2:233
 Azob-uqubatlar, qashshoqlik, sog'liqni yo'qotish va falokatlar; farovonlik va boylik, 7:94-96
@@ -1775,7 +1774,7 @@ Uzza, 53:19
 Parda, ko'rinmas narsa, 17:45-46
 Parda, 24:31; 33:59
 Oyatlar, Sab'ul-Mataniy, 15:87
-G'alaba,
+G'alaba
 - Alloh tomonidan berilgan, 48:1
 - Allohning yordami bilan, 61:13
 Fazilatlar, (qarang: Solihlik; Mo'minlar)
@@ -1792,7 +1791,7 @@ Yo'l, 1:6; 42:52-53; 90:10
 - va hokazo. oson, osonlashtirmoq, 87:8
 - shuningdek, Yo'lga qarang
 Yo'lchi, 2:177, 215; 8:41; 17:26; 29:29;30:38; 59:7
-Boylik,
+Boylik
 - kim yig'di, 104:2-4
 - Alloh yo'lida sarflash (sarflashga qarang)
 Mol-mulk va farzandlar bu dunyo hayotining ziynatidir, 18:46
@@ -1810,7 +1809,7 @@ Sharob (Jannatda)
 - daryolar, 47:15
 - sof muhrlangan, 83:25
 Alloh ba'zilaringizni ba'zilaridan ustun qilgan narsalarni orzu qilmang, 4:32
-Guvohlar,
+Guvohlar
 - Payg'ambarlar ahdiga, 3:81
 - insoniyat ustidan, 2:143; 22:78
 - shartnoma uchun, 2:282
@@ -1820,7 +1819,7 @@ Guvohlar,
 - qo'llar va oyoqlar guvohlik beradi, 36:65
 - inson o'ziga qarshi, 75:14
 Guvohlik kuni va Guvohlik kuni, 85:3
-Xotinlar,
+Xotinlar
 - sizlar uchun ekinzordir, 2:223
 - siz uchun muqova, 2:187
 - o'zingizga xos, 16:72
@@ -1832,7 +1831,7 @@ Ayollar, 2:222-223; 4:15, 19-22, 34, 127
 - bahsli vaziyatda o'zini aniq ko'rsatmaslik, 43:17-18
 O'rmon aholisi, 15:78; 38:13; 50:14
 - shuningdek qarang Aika; Madyan 26:176-191
-Dunyo, bu hayot,
+Dunyo, bu hayot
 - faqat o'yin-kulgi va zavqdan boshqa narsa emas, 6:32;29:64; 47:36; 57:20
 - odamlarni aldaydi, 6:130
 - oxiratdan boshqa hech narsa yo'q, 9:38; 13:26; 28:60-61
@@ -1844,7 +1843,7 @@ Zolimlar, 11:18-22, 101-104, 116-117;39:47
 - shuningdek, Kofirlarga qarang
 Tahorat (Vudu'), 4:43; 5:6
 Yag'ut, 71:23
-Yahyo (Yuhanno),
+Yahyo (Yuhanno)
 - xushxabar, 3:39; 21:90
 - solih, 6:85
 - dono; hamdard; itoatkor, 19:12-15
@@ -1865,52 +1864,52 @@ Zihar, 33:4; 58:2-4
 Zuxruf, S.43
 Zumar, S.39
 Asosiy tamoyillar
-- Imon mukammallikka erishdi 5:3;
-- Alloh tomonidan qabul qilingan yagona yo'l 3:19, 85;
-- Islomni qabul qilishda hech qanday majburlash yo'q 2:256;
-- turli dinlar va qonunlar to'plamiga ega bitta din 5:48; 22:67-70; 42:13-14;
-- Islom payg'ambarlari 2:135-136; 3:84; 4:163-165;
-- amrlar (Allohga iymon keltiring va yaxshilik qiling) 4:36; 6:151-154;17:23-39;18:107-108;
-- shariatning beshta maqsadi: iymonni himoya qilish 5:54;
-- hayotni himoya qilish 5:32;6:151;
-- boylikni himoya qilish 5:38;
-- sharafni himoya qilish 5:5;24:4;
+- Imon mukammallikka erishdi 5:3
+- Alloh tomonidan qabul qilingan yagona yo'l 3:19, 85
+- Islomni qabul qilishda hech qanday majburlash yo'q 2:256
+- turli dinlar va qonunlar to'plamiga ega bitta din 5:48; 22:67-70; 42:13-14
+- Islom payg'ambarlari 2:135-136; 3:84; 4:163-165
+- amrlar (Allohga iymon keltiring va yaxshilik qiling) 4:36; 6:151-154;17:23-39;18:107-108
+- shariatning beshta maqsadi: iymonni himoya qilish 5:54
+- hayotni himoya qilish 5:32;6:151
+- boylikni himoya qilish 5:38
+- sharafni himoya qilish 5:5;24:4
 - fikrlash qobiliyatini himoya qilish 5:90.
 Allohga iymon keltirish 2:255
-- Ilohiy fazilatlar, go'zal ismlar 57:1-6; 59:22-24; 85:13-16; 112:1-4;
-- ibodatga loyiq yagona xudo 1:1-4; 2:285; 6:3; 43:84;
-- barcha hokimiyat Unga tegishli 3:26; Uning taxti ('Arsh) 7:54; 11:7;
-- Uning Kursi (oyoq kursisi yoki stul) 2:255;
-- insoniyatga ko'rsatilgan son-sanoqsiz ne'matlar 14:32-34; 2:164; 16:2-93; 31:20; 55:1-25;
-- hayot beradi va o'ldiradi 44:8; 53:44; 57:2; 67:2;
-- quvonch va qayg'u keltiradi 53:43;
-- mo'l-ko'l yoki cheklangan miqdorda ta'minot beradi 13:26; 17:30; 29:62;
-- Barcha hakamlarning eng yaxshisi 95:8;
-- Rahmlilarning eng rahmlisi 12:92;
-- solihlarni sevadi 85:14;
-- mag'firatga to'la va azobi qattiq 13:6, 40:3;
-- Birinchi va Oxirgi 57:3;
-- barcha shon-sharaf va kuch Unga tegishli 35:10;
-- noma'lumni biladi va ko'rinmaydiganni ko'radi 6:59,73; 9:94, 105; 13:8-10; 31:34; 32:6; 34:48; 35:38; 39:46; 49:18; 59:22; 62:8; 64:18; 72:26; 74:31; 87:7;
-- qalbda nima yashiringanini eng yaxshi biladi 5:7; 11:5; 31:23;
-- nima bo'lganini va hali nima bo'lishini biladi 2:255;
-- hamma narsani Yozuvda (yoki Saqlangan Lavhada) yozib qo'ygan 6:38; 13:39; 36:12;
-- har qanday ishni qila oladigan 2:117; 3:189; 8:41; 9:116; 11:4; 16:40; 40:68; 41:39; 42:49;57:2;
-- Uning cheksiz qudrati 3:26-27; 24:45; 31:28-30;
-- osmonlar va yerni olti kunda yaratdi va hech qachon charchamadi 46:33; 50:38;
-- "Bo'l!" so'zi bilan yaratadi 36:81-83;
-- O'z yaratganlariga hech qachon zulm qilmagan 3:108; 4:40; 17:71; 21:47; 22:10; 26:209; 40:31; 41:46; 45:22; 50:29; 64:11; 78:6-16;
-- hamma narsa Uning irodasiga bo'ysunadi 3:83; 22:18; 30:26;
-- hamma Unga muhtoj 11:6; 35:15; 55:29;
-- Unga ishoning 10:84-85; 12:67; 25:58;
-- ilohiy muloqot shakllari 42:51;
-- 2:21; 3:102; 4:1; 33:70-71; 59:18 ni yodda tutishga arziydi;
-- donolik Undan kelgan in'omdir 2:269;
-- U hech kimga muhtoj emas 3:97; 6:133; 112:2;
-- Uchbirlikda bitta emas 4:171;
-- jufti yo'q 6:101;
-- farzandi yo'q 10:68; 19:35; 43:81; 72:3; 112:3;
-- sherigi yoki sherik xudosi yo'q 6:94; 7:191-195; 46:4-5;
+- Ilohiy fazilatlar, go'zal ismlar 57:1-6; 59:22-24; 85:13-16; 112:1-4
+- ibodatga loyiq yagona xudo 1:1-4; 2:285; 6:3; 43:84
+- barcha hokimiyat Unga tegishli 3:26; Uning taxti ('Arsh) 7:54; 11:7
+- Uning Kursi (oyoq kursisi yoki stul) 2:255
+- insoniyatga ko'rsatilgan son-sanoqsiz ne'matlar 14:32-34; 2:164; 16:2-93; 31:20; 55:1-25
+- hayot beradi va o'ldiradi 44:8; 53:44; 57:2; 67:2
+- quvonch va qayg'u keltiradi 53:43
+- mo'l-ko'l yoki cheklangan miqdorda ta'minot beradi 13:26; 17:30; 29:62
+- Barcha hakamlarning eng yaxshisi 95:8
+- Rahmlilarning eng rahmlisi 12:92
+- solihlarni sevadi 85:14
+- mag'firatga to'la va azobi qattiq 13:6, 40:3
+- Birinchi va Oxirgi 57:3
+- barcha shon-sharaf va kuch Unga tegishli 35:10
+- noma'lumni biladi va ko'rinmaydiganni ko'radi 6:59,73; 9:94, 105; 13:8-10; 31:34; 32:6; 34:48; 35:38; 39:46; 49:18; 59:22; 62:8; 64:18; 72:26; 74:31; 87:7
+- qalbda nima yashiringanini eng yaxshi biladi 5:7; 11:5; 31:23
+- nima bo'lganini va hali nima bo'lishini biladi 2:255
+- hamma narsani Yozuvda (yoki Saqlangan Lavhada) yozib qo'ygan 6:38; 13:39; 36:12
+- har qanday ishni qila oladigan 2:117; 3:189; 8:41; 9:116; 11:4; 16:40; 40:68; 41:39; 42:49;57:2
+- Uning cheksiz qudrati 3:26-27; 24:45; 31:28-30
+- osmonlar va yerni olti kunda yaratdi va hech qachon charchamadi 46:33; 50:38
+- "Bo'l!" so'zi bilan yaratadi 36:81-83
+- O'z yaratganlariga hech qachon zulm qilmagan 3:108; 4:40; 17:71; 21:47; 22:10; 26:209; 40:31; 41:46; 45:22; 50:29; 64:11; 78:6-16
+- hamma narsa Uning irodasiga bo'ysunadi 3:83; 22:18; 30:26
+- hamma Unga muhtoj 11:6; 35:15; 55:29
+- Unga ishoning 10:84-85; 12:67; 25:58
+- ilohiy muloqot shakllari 42:51
+- 2:21; 3:102; 4:1; 33:70-71; 59:18 ni yodda tutishga arziydi
+- donolik Undan kelgan in'omdir 2:269
+- U hech kimga muhtoj emas 3:97; 6:133; 112:2
+- Uchbirlikda bitta emas 4:171
+- jufti yo'q 6:101
+- farzandi yo'q 10:68; 19:35; 43:81; 72:3; 112:3
+- sherigi yoki sherik xudosi yo'q 6:94; 7:191-195; 46:4-5
 - Unga o'xshagan hech narsa yo'q 42:11; 112:4
 Uning yaratgan mo'jizalari haqida mulohaza yuritish buyrug'i 3:190; 6:99; 10:5-6; 13:3-4; 16:10-16; 88:17-20
 Yaratilishdagi alomatlar 2:164; 6:95-99; 7:57-58; 10:5-6; 13:2-4; 16:10-13, 65-69, 79; 23:27-30; 27:60-65; 30:19-25; 50:6-11
@@ -1931,21 +1930,21 @@ Yaratilishdagi alomatlar 2:164; 6:95-99; 7:57-58; 10:5-6; 13:2-4; 16:10-13, 65-6
 - yomg'ir, do'l va yomg'ir 2:265; 6:99; 24:43; 50:9-11
 - momaqaldiroq va chaqmoq 13:12-13
 Ilmiy ma'lumotnomalar
-- erkak va urg'ochi gametalardan yaratilgan insonlar 76:2;
-- embrionning shakllanishi va rivojlanish bosqichlari 22:5; 23:12-14;
-- uch qavat qorong'ulikda homila 39:6;
-- sho'r suv 25:53-54; 35:12; 55:19-20;
-- shamol changlatishi 15:22;
-- barmoq izlari 75:3-4;
-- tog'lar qoziqlar kabi 78:7;
-- temir tushirildi 57:25;
-- og'riq retseptorlari 4:56;
-- quyosh nur manbai va oy aks ettirilgan yorug'lik sifatida 10:5;
-- oyning ikkiga bo'linishi 54:1;
-- osmon yaxshi himoyalangan soyabon sifatida 21:32;
-- barcha mavjudotlar suvdan yaratilgan 21:30; 24:45;
-- chumolilar muloqot qilishadi 27:17-19;
-- ichki to'lqinlar 24:40;
+- erkak va urg'ochi gametalardan yaratilgan insonlar 76:2
+- embrionning shakllanishi va rivojlanish bosqichlari 22:5; 23:12-14
+- uch qavat qorong'ulikda homila 39:6
+- sho'r suv 25:53-54; 35:12; 55:19-20
+- shamol changlatishi 15:22
+- barmoq izlari 75:3-4
+- tog'lar qoziqlar kabi 78:7
+- temir tushirildi 57:25
+- og'riq retseptorlari 4:56
+- quyosh nur manbai va oy aks ettirilgan yorug'lik sifatida 10:5
+- oyning ikkiga bo'linishi 54:1
+- osmon yaxshi himoyalangan soyabon sifatida 21:32
+- barcha mavjudotlar suvdan yaratilgan 21:30; 24:45
+- chumolilar muloqot qilishadi 27:17-19
+- ichki to'lqinlar 24:40
 Tirik mavjudotlar
 - farishtalar 39:75
 - insonlar (yer yuzidagi hokimiyat) 2:30; 6:165; 16:4
@@ -1978,366 +1977,365 @@ Tirik mavjudotlar
 - o'rgimchak 29:41
 - bizga noma'lum bo'lgan boshqalar 16:8
 O'simliklar va mevalar 6:99; 13:4; 16:11; 36:33-35
-- banan 56:29,
-- sanalar 19:25,
-- ko'katlar, bodring, sarimsoq, yasmiq va piyoz 2:61,
-- uzum 80:28,
-- zaytun 6:99,
-- 95:1-rasm,
-- anorlar 55:68,
+- banan 56:29
+- sanalar 19:25
+- ko'katlar, bodring, sarimsoq, yasmiq va piyoz 2:61
+- uzum 80:28
+- zaytun 6:99
+- 95:1-rasm
+- anorlar 55:68
 - qovoq 37:146
 Muhammadga ishonish
-- Faqat payg'ambar bo'lgan fazilatlar 3:144; 6:50; 7:188; 18:110;
-- haqiqatni yetkazish uchun 2:119; 35:24; 42:48;
-- payg'ambarlarning muhri 33:40;
-- olijanob xulq-atvor 3:159; 68:4;
-- o'rnak bo'luvchi 33:21;
-- mo'minlarga marhamat sifatida 3:164;
-- butun dunyoga rahm-shafqat 21:107;
-- koinot xabarchisi 4:170; 7:157-158; 34:28;
-- To'g'ri yo'lga olib boradi 42:52-53;
-- odamlar haqida qayg'uradi 9:129;
-- Qiyomat kuni guvoh sifatida 4:42; 16:89;
-- savodsiz payg'ambar 7:157-158; 29:48; 62:2;
-- Tavrot va Xushxabarda 7:157 da bashorat qilingan;
+- Faqat payg'ambar bo'lgan fazilatlar 3:144; 6:50; 7:188; 18:110
+- haqiqatni yetkazish uchun 2:119; 35:24; 42:48
+- payg'ambarlarning muhri 33:40
+- olijanob xulq-atvor 3:159; 68:4
+- o'rnak bo'luvchi 33:21
+- mo'minlarga marhamat sifatida 3:164
+- butun dunyoga rahm-shafqat 21:107
+- koinot xabarchisi 4:170; 7:157-158; 34:28
+- To'g'ri yo'lga olib boradi 42:52-53
+- odamlar haqida qayg'uradi 9:129
+- Qiyomat kuni guvoh sifatida 4:42; 16:89
+- savodsiz payg'ambar 7:157-158; 29:48; 62:2
+- Tavrot va Xushxabarda 7:157 da bashorat qilingan
 - Iso Masih tomonidan bashorat qilingan 61:6
 Payg'ambarimiz ( ﷺ ) duch kelgan qiyinchiliklar
-- butparastlarning ma'nosiz talablari 8:32; 15:7; 17:89-93; 25:7-8;
-- yolg'on ayblovlar 10:2; 11:13; 21:5; 24:11-26; 25:4-6; 37:36; 38:4; 52:29-30;
-- uning hayotiga suiqasdlar 8:30; 9:74;
-- Unga zarar yetkazadigan yoki unga qarshi chiqadiganlarga ogohlantirish 4:115; 8:13; 9:61; 15:95; 33:57; 47:32; 96:9-19;
-- inkorga sabr bilan javob berish buyurilgan 20:130; 30:60; 46:35; 70:5;
+- butparastlarning ma'nosiz talablari 8:32; 15:7; 17:89-93; 25:7-8
+- yolg'on ayblovlar 10:2; 11:13; 21:5; 24:11-26; 25:4-6; 37:36; 38:4; 52:29-30
+- uning hayotiga suiqasdlar 8:30; 9:74
+- Unga zarar yetkazadigan yoki unga qarshi chiqadiganlarga ogohlantirish 4:115; 8:13; 9:61; 15:95; 33:57; 47:32; 96:9-19
+- inkorga sabr bilan javob berish buyurilgan 20:130; 30:60; 46:35; 70:5
 - Alloh tomonidan xotirjam qilingan 5:67; 93:1-11; 94:1-8
 ﷺ ) hayotidan saboqlar
-- hijratidan (hijratidan) Badr jangigacha 3:121-129; 8:42-44; 8:65-71;
-- Uhud jangi 3:151-180;
-- Xandaq jangi 33:9-27;
-- Hunayn jangi 9:25-27;
-- Madina 9:40; Tabuk 9:38-123;
-- Banu an-Nazîr 59:2-6;
-- Hamro' al-Asad 3:172-175;
+- hijratidan (hijratidan) Badr jangigacha 3:121-129; 8:42-44; 8:65-71
+- Uhud jangi 3:151-180
+- Xandaq jangi 33:9-27
+- Hunayn jangi 9:25-27
+- Madina 9:40; Tabuk 9:38-123
+- Banu an-Nazîr 59:2-6
+- Hamro' al-Asad 3:172-175
 - Hudaybiya sulhi 48:1-7; 48:10-29
 Payg'ambarimizga ( ﷺ ) berilgan sharaflar
-- Alloh va Uning farishtalari uni duo qiladilar 33:56;
-- Makkadan Quddusgacha bo'lgan tungi sayohat 17:1;
-- osmonga sayohat 53:1-18;
-- bu hayotda va oxiratda sharaflangan 17:79; 66:8; 108:1;
-- unga itoat qilish Allohga itoat qilishdir 4:80;
-- Alloh va Uning Rasuliga itoat qilishning mukofoti 4:69;
-- uning oilasi poklandi 33:33-34;
-- Jabroilni o'zining asl qiyofasida ko'radi 53:1-18;
-- imonlilarga unga itoat qilish buyurilgan 59:7;
+- Alloh va Uning farishtalari uni duo qiladilar 33:56
+- Makkadan Quddusgacha bo'lgan tungi sayohat 17:1
+- osmonga sayohat 53:1-18
+- bu hayotda va oxiratda sharaflangan 17:79; 66:8; 108:1
+- unga itoat qilish Allohga itoat qilishdir 4:80
+- Alloh va Uning Rasuliga itoat qilishning mukofoti 4:69
+- uning oilasi poklandi 33:33-34
+- Jabroilni o'zining asl qiyofasida ko'radi 53:1-18
+- imonlilarga unga itoat qilish buyurilgan 59:7
 - u bilan gaplashish odob-axloq qoidalari 49:1-5
-- uni ziyorat qilish odob-axloq qoidalari 33:53;
-- xotinlari bilan muomala qilish odob-axloq qoidalari 33:53;
-- Alloh u va uning sahobalaridan rozi bo'ldi 9:100; 9:117;
+- uni ziyorat qilish odob-axloq qoidalari 33:53
+- xotinlari bilan muomala qilish odob-axloq qoidalari 33:53
+- Alloh u va uning sahobalaridan rozi bo'ldi 9:100; 9:117
 - uning imon jamoasining mukammalligi 2:143; 3:110
-Namoz (namoz) 2:45; 9:103; 51:18; 70:22-23; 75:31; 96:10; 108:2;
-- Juma jamoati 62:9;
-- namoz yo'nalishi (qibla) 2:144; 2:149-150;
-- yomon ishlardan qaytarishi kerak 29:45;
-- marta 11:114; 17:78; 17:79; 20:130; 24:36; 24:58; 30:17-18; 32:16; 38:18; 50:39-40; 51:17; 52:48-49; 73:2-4; 76:25-26;
-- xavf ostida yoki safarda bo'lganida 2:239; 4:101-102;
-- ibodatlarni e'tiborsiz qoldiradiganlarga ogohlantirish 19:59; 74:38-47; 107:5-7;
+Namoz (namoz) 2:45; 9:103; 51:18; 70:22-23; 75:31; 96:10; 108:2
+- Juma jamoati 62:9
+- namoz yo'nalishi (qibla) 2:144; 2:149-150
+- yomon ishlardan qaytarishi kerak 29:45
+- marta 11:114; 17:78; 17:79; 20:130; 24:36; 24:58; 30:17-18; 32:16; 38:18; 50:39-40; 51:17; 52:48-49; 73:2-4; 76:25-26
+- xavf ostida yoki safarda bo'lganida 2:239; 4:101-102
+- ibodatlarni e'tiborsiz qoldiradiganlarga ogohlantirish 19:59; 74:38-47; 107:5-7
 - ikkiyuzlamachilarning ibodatlari 4:142; 9:54
-Poklanish, tahorat (tahorat) 5:6;
-- to'liq cho'milish (g'usl) 2:222; 4:43;
+Poklanish, tahorat (tahorat) 5:6
+- to'liq cho'milish (g'usl) 2:222; 4:43
 - quruq tahorat (tayammum) 4:43; 5:6
 Duolar (duo)
-- Ibrohimning 2:126-129; 2:126-129; 14:35-41; 26:83-89;
-- Odam Ato va Momo Havo 7:23;
-- Iso 5:114;
-- Ayub 21:83; 21:83;
-- Yunus 21:87;
-- Yusuf 12:33; 12:101;
-- Muso 10:88-89; 20:25-35;
+- Ibrohimning 2:126-129; 2:126-129; 14:35-41; 26:83-89
+- Odam Ato va Momo Havo 7:23
+- Iso 5:114
+- Ayub 21:83; 21:83
+- Yunus 21:87
+- Yusuf 12:33; 12:101
+- Muso 10:88-89; 20:25-35
 - Muhammad 17:80; 20:114
-- Nuh 23:26; 26:117-118; 54:9-10; 71:26; 71:28;
-- Sulaymon 38:35;
-- Shuayb 7:89;
-- Zakariyo 3:38; 19:2-6; 21:89-90;
-- farishtalar 40:8-9;
-- Maryamning onasi 3:35-36;
-- Fir'avnning xotini 66:11;
-- Fir'avnning sehrgarlari 7:126;
-- Shoh Shoul va u bilan birga bo'lgan imonlilar 2:250;
-- Isroil avlodining mo'minlari 10:85-86;
-- g'or ahli 18:10;
-- solihlar 2:285-286; 3:8-9; 3:16; 3:147; 3:191-194; 25:74; 59:10;
+- Nuh 23:26; 26:117-118; 54:9-10; 71:26; 71:28
+- Sulaymon 38:35
+- Shuayb 7:89
+- Zakariyo 3:38; 19:2-6; 21:89-90
+- farishtalar 40:8-9
+- Maryamning onasi 3:35-36
+- Fir'avnning xotini 66:11
+- Fir'avnning sehrgarlari 7:126
+- Shoh Shoul va u bilan birga bo'lgan imonlilar 2:250
+- Isroil avlodining mo'minlari 10:85-86
+- g'or ahli 18:10
+- solihlar 2:285-286; 3:8-9; 3:16; 3:147; 3:191-194; 25:74; 59:10
 - mazlumlar 4:75
 Sajda oyatlari
 - sajdat, sajdaning ko‘pligi, 7:206; 13:15; 16:49; 17:109; 19:58; 22:18; 22:77; 25:60; 27:26; 32:15; 38:24; 41:37; 53:62; 84:21; 96:19
-Zakot solig'i (zakot), majburiyat sifatida 2:110; 2:177; 2:277; 6:141;
-- mo'minlarning fazilatlaridan biri 22:41; 23:4; 51:19;
+Zakot solig'i (zakot), majburiyat sifatida 2:110; 2:177; 2:277; 6:141
+- mo'minlarning fazilatlaridan biri 22:41; 23:4; 51:19
 - qabul qiluvchilar 9:60
 - sadaqa (sadaqa) 2:177; 2:261-263; 2:267-274; 3:92; 63:10
 - saqlovchilarga ogohlantirish 3:180; 9:34; 47:38
 Ro'za (sawm)
-- Ramazon oyida 2:183-185;
-- ro'za tutish soatlari 2:187;
-- istisnolar 2:184-185;
-- ro'za tutishdan oldingi kechada yaqin munosabatlar 2:187;
+- Ramazon oyida 2:183-185
+- ro'za tutish soatlari 2:187
+- istisnolar 2:184-185
+- ro'za tutishdan oldingi kechada yaqin munosabatlar 2:187
 - Haj paytida ro'za tutish 2:196
-Haj (haj),
-- bunga qodir bo'lganlar uchun majburiyat 3:97;
-- marosimlar va hukmlar 2:158; 2:189; 2:196-203; 5:2; 22:26-37;
-- qurbonlik qurbonliklari 2:196; 22:36-37;
-- ziyorat paytida quruqlikda ov qilishning taqiqlanishi 5:1; 5:94-95;
+Haj (haj)
+- bunga qodir bo'lganlar uchun majburiyat 3:97
+- marosimlar va hukmlar 2:158; 2:189; 2:196-203; 5:2; 22:26-37
+- qurbonlik qurbonliklari 2:196; 22:36-37
+- ziyorat paytida quruqlikda ov qilishning taqiqlanishi 5:1; 5:94-95
 - dengizda ov qilishga ruxsat berilganligi 5:96
 - Kichik ziyorat (umra) 2:158; 2:196
 Diniy jamoalar
-- Musulmonlar 2:132-136; 3:64; 3:84; 5:111; 22:77-78; 33:35; 41:33; 43:67-70; 72:14-15;
-- bir-birlarining vasiylari 3:28; 9:71;
-- Masihiylar 2:62; 2:111-140; 4:171-172; 5:14-19; 5:82-86; 5:116-120; 9:30-31; 22:17;
-- Yahudiylar 2:62, 111-140; 5:44-45; 6:146; 22:17; 62:6-8;
-- Isroil farzandlari 2:40-103, 122-123, 246-251; 3:49; 3:93-94; 5:12-13, 20-26, 32, 70-71, 78-81; 7:137-141, 148-153,159-171; 10:83-93; 14:5-8; 17:2-8, 104; 20:80-98; 26:52-67, 197; 27:76; 44:23-33; 45:16-17; 46:10; 61:5-6;
+- Musulmonlar 2:132-136; 3:64; 3:84; 5:111; 22:77-78; 33:35; 41:33; 43:67-70; 72:14-15
+- bir-birlarining vasiylari 3:28; 9:71
+- Masihiylar 2:62; 2:111-140; 4:171-172; 5:14-19; 5:82-86; 5:116-120; 9:30-31; 22:17
+- Yahudiylar 2:62, 111-140; 5:44-45; 6:146; 22:17; 62:6-8
+- Isroil farzandlari 2:40-103, 122-123, 246-251; 3:49; 3:93-94; 5:12-13, 20-26, 32, 70-71, 78-81; 7:137-141, 148-153,159-171; 10:83-93; 14:5-8; 17:2-8, 104; 20:80-98; 26:52-67, 197; 27:76; 44:23-33; 45:16-17; 46:10; 61:5-6
 - Kitob ahli (asosan yahudiylar va nasroniylar) 2:109; 3:64-115, 199; 4:123-172; 5:15-77; 6:20-21; 13:36; 28:52-55; 29:46-47; 57:16, 28-29; 74:31; 98:1-5
 - Musulmonlar qurbonlik qilgan hayvonlarning go'shtini yeyishlari va ularning ayollariga uylanishlari mumkin 5:5
-- yahudiylarga taqiqlangan taomlar 6:146;
-- Sabianlar 2:62; 22:17;
-- Magi 22:17;
-- mushriklar (butparastlar, butparastlar) 3:186; 6:148; 9:6, 17; 10:28; 16:86; 22:17; 53:19-30;
-- butparastlarning xurofot amaliyotlari 2:189; 5:103; 6:138-144;
+- yahudiylarga taqiqlangan taomlar 6:146
+- Sabianlar 2:62; 22:17
+- Magi 22:17
+- mushriklar (butparastlar, butparastlar) 3:186; 6:148; 9:6, 17; 10:28; 16:86; 22:17; 53:19-30
+- butparastlarning xurofot amaliyotlari 2:189; 5:103; 6:138-144
 - ateistlar 52:35-36
 Butparastlik amaliyotlari taqiqlangan
-- qizlarni tiriklayin ko'mish 16:58-59; 81:8-9;
-- qashshoqlikdan qo'rqib bolalarni o'ldirish 6:137; 6:151; 17:31;
-- Ka'ba atrofida hushtak chalish va qarsak chalish 8:35;
-- tuyalarni butlarga bag'ishlash 5:103; 6:136;
-- butlar nomi bilan qurbonlik qilish 6:121;
-- zihar ajralishi 33:4; 58:2-4;
-- ila' (to'rt oydan ortiq) 2:226-227;
-- 5:3 qarorlari uchun qur'a tashlash;
-- yalang'och holda Ka'bani aylanib chiqish 7:26-28;
+- qizlarni tiriklayin ko'mish 16:58-59; 81:8-9
+- qashshoqlikdan qo'rqib bolalarni o'ldirish 6:137; 6:151; 17:31
+- Ka'ba atrofida hushtak chalish va qarsak chalish 8:35
+- tuyalarni butlarga bag'ishlash 5:103; 6:136
+- butlar nomi bilan qurbonlik qilish 6:121
+- zihar ajralishi 33:4; 58:2-4
+- ila' (to'rt oydan ortiq) 2:226-227
+- 5:3 qarorlari uchun qur'a tashlash
+- yalang'och holda Ka'bani aylanib chiqish 7:26-28
 - ziyoratdan keyin uylarga orqa eshiklardan kirish 2:189
-Ibodat buyumlari,
-- farishtalar (ba'zi butparast arablar orasida) 34:40;
-- Al-Aykah (Shu'ayb qavmi orasida) 26:176;
-- Ba'l (Ilyos xalqi orasida 37:125;
-- Iso (nasroniylikda) 5:17;
-- butlar (Ibrohim qavmi orasida) 21:52-53;
-- (arab butparastlari orasida) Lot, Uzzo va Manat butlari 53:19-20;
-- (Nuh qavmi orasida) Vadd, Suva', Yag'us, Ya'uq va Nasr butlari 71:23;
-- quyosh (Sheba xalqi) 27:24;
-- Sirius (ba'zi butparast arablar orasida) 53:49;
-- Fir'avn (qadimgi Misrda) 26:29; 28:38; 79:24;
-- istaklar 25:43-44; 45:23;
+Ibodat buyumlari
+- farishtalar (ba'zi butparast arablar orasida) 34:40
+- Al-Aykah (Shu'ayb qavmi orasida) 26:176
+- Ba'l (Ilyos xalqi orasida 37:125
+- Iso (nasroniylikda) 5:17
+- butlar (Ibrohim qavmi orasida) 21:52-53
+- (arab butparastlari orasida) Lot, Uzzo va Manat butlari 53:19-20
+- (Nuh qavmi orasida) Vadd, Suva', Yag'us, Ya'uq va Nasr butlari 71:23
+- quyosh (Sheba xalqi) 27:24
+- Sirius (ba'zi butparast arablar orasida) 53:49
+- Fir'avn (qadimgi Misrda) 26:29; 28:38; 79:24
+- istaklar 25:43-44; 45:23
 - bir nechta xudolarga ishonish rad etildi 17:42-43; 21:21-24; 25:3
-Ibodat joylari, masjidlar 9:18;
-- cherkovlar, ibodatxonalar va monastirlar 22:40;
-- muqaddas joy 3:39; 38:21;
+Ibodat joylari, masjidlar 9:18
+- cherkovlar, ibodatxonalar va monastirlar 22:40
+- muqaddas joy 3:39; 38:21
 - ma'bad 17:7
 - Diniy unvonlar, ruhoniylar, rohiblar va ravvinlar 5:44; 5:63; 5:82; 9:31-34
-Farishtalar,
+Farishtalar
 - Odam Atoning yaratilishi haqida so'rang 2:30-34
-- hech qachon Allohga itoatsizlik qilmang 21:26-27; 66:6;
-- ular Allohning qizlari emaslar 21:26; 43:16-19;
-- qo'riqchi farishtalar 13:11;
-- ikkita yozib oluvchi farishta 50:16-18; 82:10-12;
-- Qiyomat kunida Allohning Arshini ko'tarib yuradigan sakkiz kishi 69:17;
-- Do'zaxning o'n to'qqiz qo'riqchisi 74:26-31;
-- O'lim farishtalari 6:93; 16:28; 32:11;
-- Jabroil 2:97; 66:4; 26:192-195; 53:1-14;
-- Mikoil 2:98;
+- hech qachon Allohga itoatsizlik qilmang 21:26-27; 66:6
+- ular Allohning qizlari emaslar 21:26; 43:16-19
+- qo'riqchi farishtalar 13:11
+- ikkita yozib oluvchi farishta 50:16-18; 82:10-12
+- Qiyomat kunida Allohning Arshini ko'tarib yuradigan sakkiz kishi 69:17
+- Do'zaxning o'n to'qqiz qo'riqchisi 74:26-31
+- O'lim farishtalari 6:93; 16:28; 32:11
+- Jabroil 2:97; 66:4; 26:192-195; 53:1-14
+- Mikoil 2:98
 - Malik 43:77
 Xabarchilar
-- farishtalar va odamlar orasidan 22:75;
+- farishtalar va odamlar orasidan 22:75
 - Qat'iy qarorli elchilar (Ibrohim, Nuh, Muso, Iso va Muhammad ﷺ ) 33:7; 42:13; 46:35
 Muqaddas Yozuvlar
-- Qur'on, Alloh tomonidan nozil qilingan 12:2-3; 20:2-4; 26:192-195; 32:2-3;
-- butun dunyoga eslatma 68:51-52;
-- eng to'g'ri hayot yo'liga yo'l ko'rsatuvchi 17:9;
-- vahiy Ramazon oyida boshlangan 2:185;
-- muborak kechada 44:3;97:1-5;
-- 17:105-106 bosqichlarda vahiy qilingan;
-- eslab qolish osonlashtirildi 54:17;
-- oldingi vahiylar 3:3-4 da haqiqatni tasdiqlaydi;
-- avvalgi Muqaddas Yozuvlar bo'yicha oliy hokimiyat 5:48;
-- shubhasiz, unda 2:2; 10:37;
-- qarama-qarshiliklar yo'q 4:82;
-- uydirma emas 10:37-39;
-- Muqaddas Kitobdan ko'chirilmagan 25:4-6;
-- jinlar tomonidan oshkor qilinmagan 26:210-212;
+- Qur'on, Alloh tomonidan nozil qilingan 12:2-3; 20:2-4; 26:192-195; 32:2-3
+- butun dunyoga eslatma 68:51-52
+- eng to'g'ri hayot yo'liga yo'l ko'rsatuvchi 17:9
+- vahiy Ramazon oyida boshlangan 2:185
+- muborak kechada 44:3;97:1-5
+- 17:105-106 bosqichlarda vahiy qilingan
+- eslab qolish osonlashtirildi 54:17
+- oldingi vahiylar 3:3-4 da haqiqatni tasdiqlaydi
+- avvalgi Muqaddas Yozuvlar bo'yicha oliy hokimiyat 5:48
+- shubhasiz, unda 2:2; 10:37
+- qarama-qarshiliklar yo'q 4:82
+- uydirma emas 10:37-39
+- Muqaddas Kitobdan ko'chirilmagan 25:4-6
+- jinlar tomonidan oshkor qilinmagan 26:210-212
 - hech kim bunga o'xshash narsani yarata olmaydi 17:88; 2:23-24; 10:13-14; 11:13
-- korruptsiyadan himoyalangan 15:9;
-- Saqlangan Lavhada 56:75-80 da himoyalangan;
-- yolg'on ekanligini isbotlab bo'lmaydi 41:42;
-- kelajakdagi voqealarni bashorat qiladi 30:1-7; 48:27;
-- imonlilarni yig'latadi 5:83; 17:107-109;
-- qalblarga ta'sir qiladi 39:23;
-- yorqin yorug'lik 4:174; 42:52;
+- korruptsiyadan himoyalangan 15:9
+- Saqlangan Lavhada 56:75-80 da himoyalangan
+- yolg'on ekanligini isbotlab bo'lmaydi 41:42
+- kelajakdagi voqealarni bashorat qiladi 30:1-7; 48:27
+- imonlilarni yig'latadi 5:83; 17:107-109
+- qalblarga ta'sir qiladi 39:23
+- yorqin yorug'lik 4:174; 42:52
 - mo'minlar uchun shifo va rahm-shafqat 17:82
 - Tavrot 3:3; 3:93; 5:46; 5:66-68, 110; 7:157; 9:111; 48:29; 61:6; 62:5
-- Xushxabar 3:3; 48; 5:46-47, 66-68, 77, 110; 7:157; 9:111; 48:29; 57:27
+- Xushxabar 3:3, 48; 5:46-47, 66-68, 77, 110; 7:157; 9:111; 48:29; 57:27
 - Zabur 4:163; 17:55
 - Ibrohimning bitiklari 53:36-44; 87:14-19
-Taqdir va taqdir 3:145; 9:51; 10:107; 11:6; 54:49; 67:30;
+Taqdir va taqdir 3:145; 9:51; 10:107; 11:6; 54:49; 67:30
 - erkin tanlov 6:148-150; 11:118-119; 16:93; 33:72-73; 39:41; 76:1-3; 91:1-10
-Qiyomat kuni,
-- adolatsizlik yo'q 2:281; 18:49; 40:17;
-- apokalipsis dahshatlari 22:1-2; 27:82-84, 87; 40:18; 52:11-16; 69:13-18; 70:8-18; 73:17-18; 75:7-15; 77:8-15; 78:17-20; 79:34-36; 80:33-42; 81:1-14; 82:1-5; 84:1-5; 87:17-40; 99:1-8; 101:1-11;
-- o'sha kuni solihlar va fosiqlar 11:105-108; 16:27-33, 84-89; 18:52-53; 20:100-111; 25:24-29; 30:12-16; 33:63-68; 39:68-75; 50:20-35; 55:37-41; 83:4-36;
+Qiyomat kuni
+- adolatsizlik yo'q 2:281; 18:49; 40:17
+- apokalipsis dahshatlari 22:1-2; 27:82-84, 87; 40:18; 52:11-16; 69:13-18; 70:8-18; 73:17-18; 75:7-15; 77:8-15; 78:17-20; 79:34-36; 80:33-42; 81:1-14; 82:1-5; 84:1-5; 87:17-40; 99:1-8; 101:1-11
+- o'sha kuni solihlar va fosiqlar 11:105-108; 16:27-33, 84-89; 18:52-53; 20:100-111; 25:24-29; 30:12-16; 33:63-68; 39:68-75; 50:20-35; 55:37-41; 83:4-36
 - shafoat (shafoat) 2:48, 255; 6:51, 70; 10:3; 21:28; 32:4; 36:23; 39:43-44; 43:86; 53:26;74:48
-Amallar yozuvlari 17:13; 18:49;
-- imonlilar o'z yozuvlarini o'ng qo'llari bilan olishadi 69:19-24; 84:7-9;
-- kofirlar o'z yozuvlarini chap qo'llari bilan olishadi 69:25-37; 84:10-15;
-- Allohdan hech narsa yashirin bo'lmaydi 21:47; 40:16;
-- amallarni tortish 7:8; 23:102-104; 101:1-11;
-- tana a'zolarining guvohligi 41:19-24; 24:24;
+Amallar yozuvlari 17:13; 18:49
+- imonlilar o'z yozuvlarini o'ng qo'llari bilan olishadi 69:19-24; 84:7-9
+- kofirlar o'z yozuvlarini chap qo'llari bilan olishadi 69:25-37; 84:10-15
+- Allohdan hech narsa yashirin bo'lmaydi 21:47; 40:16
+- amallarni tortish 7:8; 23:102-104; 101:1-11
+- tana a'zolarining guvohligi 41:19-24; 24:24
 - yaxshilik va yomonlik amallari uchun mukofot 6:160; 27:89-90; 28:84
 Odamlar turlari
-- imonlilar 18:107-108;
-- kofirlar 4:167-169;
-- ikkiyuzlamachilar 4:145; 57:13-15;
-- Jannat aholisi, eng ilg'or mo'minlar 55:46-61; 56:10-26;
-- jannat aholisi, o'ng tarafdagilar 55:62-78; 56:27-40;
-- do'zax aholisi, chap qanot odamlari 55:31-45; 56:41-56;
+- imonlilar 18:107-108
+- kofirlar 4:167-169
+- ikkiyuzlamachilar 4:145; 57:13-15
+- Jannat aholisi, eng ilg'or mo'minlar 55:46-61; 56:10-26
+- jannat aholisi, o'ng tarafdagilar 55:62-78; 56:27-40
+- do'zax aholisi, chap qanot odamlari 55:31-45; 56:41-56
 - balandlikdagi odamlar 7:46-49
 Moliyaviy
-- Biznes qoidalari 2:188; 2:275; 2:282-283; 4:29; 4:58; 6:152; 17:34-35;
-24:36-37; 26:182; 30:39; 55:7-9; 62:9
-- Vasiyatlar, merosxo'r bo'lmaganlarga ixtiyoriy vasiyatnomalar 2:180-183; 4:11-12;
+- Biznes qoidalari 2:188; 2:275; 2:282-283; 4:29; 4:58; 6:152; 17:34-35; 24:36-37; 26:182; 30:39; 55:7-9; 62:9
+- Vasiyatlar, merosxo'r bo'lmaganlarga ixtiyoriy vasiyatnomalar 2:180-183; 4:11-12
 safarda o'limdan oldin 5:106-108
 - Poraxo'rlik 2:188
-- Qarzlar, qarzlarni undirishda mehr-oqibat 2:280;
-- qarz shartnomasini yozish va guvohlik berish 2:282;
+- Qarzlar, qarzlarni undirishda mehr-oqibat 2:280
+- qarz shartnomasini yozish va guvohlik berish 2:282
 - garov olish 2:283
-- Meros, ko'rsatmalar 4:7; 4:32-33; 8:75;
-- avlodlar va ota-onalarning ulushi 4:11;
-- turmush o'rtoqlar va ona tomonidan aka-uka va opa-singillar 4:12;
-- to'liq aka-uka va opa-singillar 4:176;
+- Meros, ko'rsatmalar 4:7; 4:32-33; 8:75
+- avlodlar va ota-onalarning ulushi 4:11
+- turmush o'rtoqlar va ona tomonidan aka-uka va opa-singillar 4:12
+- to'liq aka-uka va opa-singillar 4:176
 - 4:13-14 ga rioya qilmaydiganlarga ogohlantirish
-- Foiz, taqiq va ogohlantirish 2:275-281; 3:130-132;
+- Foiz, taqiq va ogohlantirish 2:275-281; 3:130-132
 - foydasiz holga keltirildi 30:39
 Huquqiy
 - xiyonat qonuni (hirabah) 5:33-34
-- Adolat, adolat uchun kurashish 4:135; 5:8; 16:90-91;
-- yetimlar va ayollar huquqlarini himoya qilish 4:127;
-- yahudiyga adolat 4:105-112;
-- butparastga adolat 4:58;
+- Adolat, adolat uchun kurashish 4:135; 5:8; 16:90-91
+- yetimlar va ayollar huquqlarini himoya qilish 4:127
+- yahudiyga adolat 4:105-112
+- butparastga adolat 4:58
 - musulmon bo'lmaganlar bilan adolatlilik 60:8-9
 - Qonuniy yo'llar orqali qasos olish (kechirish imkoniyati bilan) 2:178-179; 5:45; 16:126; 17:33; 42:37-43
-- Er va xotin o'rtasidagi ajralish, xul' 2:229;
+- Er va xotin o'rtasidagi ajralish, xul' 2:229
 - lian (zinoda ayblangan) 24:6-10
 Siyosiy
 - Ishlarni maslahatlashuv (shura) orqali yuritish 3:159; 42:38
-- O'zini himoya qilish uchun jang qilish (jihod), odob-axloq qoidalari 2:190-192; 2:216; 22:38-40;
-- beparvo hujum qilmaslik 4:94;
-- mazlum erkaklar, ayollar va bolalar uchun kurashish 4:75;
-- ibodat joylarini himoya qilish 22:37;
-- shahidlarning mukofoti 2:154; 3:169-171; 9:111; 57:19;
-- harbiy qudrat potentsial dushmanlarni to'xtatadi 8:60;
+- O'zini himoya qilish uchun jang qilish (jihod), odob-axloq qoidalari 2:190-192; 2:216; 22:38-40
+- beparvo hujum qilmaslik 4:94
+- mazlum erkaklar, ayollar va bolalar uchun kurashish 4:75
+- ibodat joylarini himoya qilish 22:37
+- shahidlarning mukofoti 2:154; 3:169-171; 9:111; 57:19
+- harbiy qudrat potentsial dushmanlarni to'xtatadi 8:60
 - tinchlikni tanlash 2:192; 8:61
 - Tomonlar o'rtasida tinchlik o'rnatish 49:9-10
 - Harbiy asirlar, ularga munosabat 8:70; 47:4; 76:8
 Ijtimoiy
 - Farzandlikka olish 33:4-5
 - Yetimlarga g'amxo'rlik qilish 2:220; 4:2-10; 4:127; 6:152; 17:34
-- Ajrashish, hakamlik sudi va yarashish 4:35; 4:128;
-- ajrashish odob-axloq qoidalari 2:229-231; 65:1-2;
-- mahr va kutish muddati 2:226-241; 4:19-21; 33:49; 65:1-7;
-- er sepdan hech narsani qaytarib olmasligi kerak 4:20;
-- xotinga ta'qib qilinmasin 65:6;
-- homiladorlik paytida xotin moliyaviy jihatdan qo'llab-quvvatlanishi kerak 65:6;
-- uning kutish davrida 65:6;
-- agar u sobiq erining bolasini emizsa, 65:6;
-- hech bir ota-ona farzandi tufayli azob chekmasligi kerak 2:233;
+- Ajrashish, hakamlik sudi va yarashish 4:35; 4:128
+- ajrashish odob-axloq qoidalari 2:229-231; 65:1-2
+- mahr va kutish muddati 2:226-241; 4:19-21; 33:49; 65:1-7
+- er sepdan hech narsani qaytarib olmasligi kerak 4:20
+- xotinga ta'qib qilinmasin 65:6
+- homiladorlik paytida xotin moliyaviy jihatdan qo'llab-quvvatlanishi kerak 65:6
+- uning kutish davrida 65:6
+- agar u sobiq erining bolasini emizsa, 65:6
+- hech bir ota-ona farzandi tufayli azob chekmasligi kerak 2:233
 - hamshirani tanlash 65:6
 - Yaxshilikka undash va yomonlikdan qaytarish 3:104; 3:110; 7:157; 9:71-72; 31:17
-- Insonlarning tengligi 49:13;
-- Alloh va qonun oldida erkaklar va ayollar, 3:195; 4:124; 5:38; 16:97; 24:2; 40:40;
+- Insonlarning tengligi 49:13
+- Alloh va qonun oldida erkaklar va ayollar, 3:195; 4:124; 5:38; 16:97; 24:2; 40:40
 - erkaklar ayollarga nisbatan mas'uliyat darajasiga ega 2:228
 - Kambag'allarni, yetimlarni va asirlarni ovqatlantirish 76:8-9
 - Kechirim va g'azabni jilovlash 3:134; 42:40
 - Qullarni ozod qilish va ularga yordam berish 4:92; 5:89; 9:60; 24:33; 58:3; 90:13
 - O'z ota-onasini hurmat qilish 4:36; 17:23-25; 31:14-15
 - Kamtarlik 17:37; 31:18-19
-- Ibrohimning tushlarining ta'biri 37:102;
-- Yusufning tushlarining ta'biri 12:4; 12:36; 12:43;
+- Ibrohimning tushlarining ta'biri 37:102
+- Yusufning tushlarining ta'biri 12:4; 12:36; 12:43
 - Muhammadning tushlarining ta'biri 8:43; 48:27
 - Musulmon bo'lmaganlarga mehr-oqibat 60:8
-- Nikoh 4:3; 4:129; 16:72; 30:21;
-- qonuniy va noqonuniy ayollarga uylanish 4:22-24;
-- yaqinlik odob-axloq qoidalari 2:222-223;
-- homiladorlik va emizish 2:233; 31:4; 46:15; 65:6;
-- o'z sobiq xotiniga qayta uylanish 2:230;
-- yolg'izlarga turmush qurishga yordam berish 24:32;
+- Nikoh 4:3; 4:129; 16:72; 30:21
+- qonuniy va noqonuniy ayollarga uylanish 4:22-24
+- yaqinlik odob-axloq qoidalari 2:222-223
+- homiladorlik va emizish 2:233; 31:4; 46:15; 65:6
+- o'z sobiq xotiniga qayta uylanish 2:230
+- yolg'izlarga turmush qurishga yordam berish 24:32
 - kutish davrida qiziqishni sezilmasdan ko'rsatish 2:235
-- Qasamyodlar 2:224-225; 16:91-92; 16:94;
+- Qasamyodlar 2:224-225; 16:91-92; 16:94
 - buzilgan qasamni qoplash 5:89
 - Qiyin paytlarda sabr-toqat 2:45; 2:153-157; 3:186; 12:18; 12:83; 16:127-128; 70:5
-- 24:58-60 da kirishga ruxsat;
-- odamlarning uylariga kirish 24:27-28;
+- 24:58-60 da kirishga ruxsat
+- odamlarning uylariga kirish 24:27-28
 - jamoat joylariga kirish 24:29
-- Ijtimoiy odob-axloq qoidalari, yangiliklarni tekshirish 4:83; 49:6;
-- barchaga hurmat 49:11-12;
-- yig'ilishlar odob-axloq qoidalari 58:11;
+- Ijtimoiy odob-axloq qoidalari, yangiliklarni tekshirish 4:83; 49:6
+- barchaga hurmat 49:11-12
+- yig'ilishlar odob-axloq qoidalari 58:11
 - shaxsiy suhbatlar 4:114; 58:9
 - Qasamlar 2:270; 9:75-77; 22:29; 76:7
 - Isrofgarchilik va ziqnalik 7:31; 17:29; 25:67
 Boshqa hikoyalar
-- Hobil va Qobil 5:27-31;
-- Al-Xodir va Muso 18:60-82;
-- Fil armiyasi 105:1-4;
-- Fir'avn qavmidan bo'lgan mo'min 40:28-46;
-- Maryamning tug'ilishi 3:35-36;
-- Isroil farzandlarining sigiri 2:67-74;
-- Ezra 2:259;
+- Hobil va Qobil 5:27-31
+- Al-Xodir va Muso 18:60-82
+- Fil armiyasi 105:1-4
+- Fir'avn qavmidan bo'lgan mo'min 40:28-46
+- Maryamning tug'ilishi 3:35-36
+- Isroil farzandlarining sigiri 2:67-74
+- Ezra 2:259
 - bog' egalari 68:17-32
 - Harut va Marut 2:102
 - Ko'rax 28:76-82
-- Luqmonning o'g'liga bergan nasihati 31:12-19;
-- ikkita bog'ning egasi 18:32-44;
-- Sheba xalqi 34:15-19;
-- g'or odamlari 18:9-26;
-- xandaq odamlari 85:1-8;
-- Shabbatni buzuvchilar 7:163-165;
-- Samiri va Oltin Buzoq 20:83-97;
-- Shoul va Shomuil 2:247-251;
+- Luqmonning o'g'liga bergan nasihati 31:12-19
+- ikkita bog'ning egasi 18:32-44
+- Sheba xalqi 34:15-19
+- g'or odamlari 18:9-26
+- xandaq odamlari 85:1-8
+- Shabbatni buzuvchilar 7:163-165
+- Samiri va Oltin Buzoq 20:83-97
+- Shoul va Shomuil 2:247-251
 - Zul-Qarnayn 18:83-98
-Iblislar 2:102; 6:71; 6:112; 6:121; 7:27; 7:30; 17:27; 19:68; 19:83; 22:3-4; 23:97-98; 26:210; 37:7-10; 38:37-38; 67:5;
-- shaytoniy insonlar va jinlar 6:112;114:6;
+Iblislar 2:102; 6:71; 6:112; 6:121; 7:27; 7:30; 17:27; 19:68; 19:83; 22:3-4; 23:97-98; 26:210; 37:7-10; 38:37-38; 67:5
+- shaytoniy insonlar va jinlar 6:112;114:6
 - jannat jinlardan himoyalangan 15:16-18
 Afsuslanishlar
-- Payg'ambarga ergashmaslik 25:27;
-- Alloh va Uning Rasuliga itoat qilmaslik 4:41-42; 33:64-68;
-- yomon do'stlarni qabul qilish 25:28-29; 26:96-102; 43:36-39;
-- Allohning oyatlarini inkor etish 6:27-30;
+- Payg'ambarga ergashmaslik 25:27
+- Alloh va Uning Rasuliga itoat qilmaslik 4:41-42; 33:64-68
+- yomon do'stlarni qabul qilish 25:28-29; 26:96-102; 43:36-39
+- Allohning oyatlarini inkor etish 6:27-30
 - oxirat uchun ishlamaslik 89:23-24
 Umidsiz iltijolar
-- dunyoga qaytishni yolvorish 2:167; 6:27-28; 32:12-14; 42:44;
-- ikkinchi imkoniyat uchun 35:36-37;
-- olovdan chetlashtiriladi 40:10-12;
-- oziq-ovqat va suv uchun 7:51-52;
-- shafoatchilar uchun 7:52-53;
-- changga aylantirilishi kerak 4:41-42; 78:40;
+- dunyoga qaytishni yolvorish 2:167; 6:27-28; 32:12-14; 42:44
+- ikkinchi imkoniyat uchun 35:36-37
+- olovdan chetlashtiriladi 40:10-12
+- oziq-ovqat va suv uchun 7:51-52
+- shafoatchilar uchun 7:52-53
+- changga aylantirilishi kerak 4:41-42; 78:40
 - o'lim uchun 43:74-78
 Solihlarning fazilatlari
 - Yaratguvchi va Uning yaratganlarining huquqlariga rioya qilish 3:133-136; 4:36; 4:69-70; 6:151-154; 8:2-4; 13:19-24; 17:23-39;18:107-108; 23:1-11; 25:63-76; 42:36-43
 Yovuzlarning fazilatlari
-- noshukur 14:34;
-- ziqna 17:100;
-- shoshilinch 21:37;
-- Allohni faqat qiyin paytlarda eslang 10:12; 41:51;
-- sabrsiz 70:19;
+- noshukur 14:34
+- ziqna 17:100
+- shoshilinch 21:37
+- Allohni faqat qiyin paytlarda eslang 10:12; 41:51
+- sabrsiz 70:19
 - bahsli 18:54
 Katta gunohlar
 - ibodatda Allohga boshqalarni sherik qilish (shirk) 4:48; 4:116; 5:72; 6:19; 31:13:
-- o'z ota-onasiga nisbatan zo'ravonlik qilish 4:36; 6:151; 17:23;
-- farz namozlarini e'tiborsiz qoldirish yoki tark etish 19:59-60;
-- sadaqa solig'ini to'lamaslik 41:6-7;
-- qotillik 6:151; 17:33;
-- mo'minni qasddan o'ldirish 4:93;
-- o'g'irlik 5:38;
-- firibgarlik 7:85; 11:85; 26:182-183; 83:1-6;
-- yolg'on gapirish 2:10; 9:77; 39:60;
-- Alloh haqida yolg'on gapirish 6:93; 29:68; 61:7;
+- o'z ota-onasiga nisbatan zo'ravonlik qilish 4:36; 6:151; 17:23
+- farz namozlarini e'tiborsiz qoldirish yoki tark etish 19:59-60
+- sadaqa solig'ini to'lamaslik 41:6-7
+- qotillik 6:151; 17:33
+- mo'minni qasddan o'ldirish 4:93
+- o'g'irlik 5:38
+- firibgarlik 7:85; 11:85; 26:182-183; 83:1-6
+- yolg'on gapirish 2:10; 9:77; 39:60
+- Alloh haqida yolg'on gapirish 6:93; 29:68; 61:7
 - taqiqlangan jinsiy aloqalar 2:222; 17:32; 24:2; 25:68; 29:28-30
-- zinokorlikda yolg'on ayblovlar 24:4-5;
-- murtadlik 2:217; 5:54;
-- cho'chqa go'shti va boshqa taqiqlangan ovqatlarni (murda, qon va boshqalar) iste'mol qilish 5:3; 6:145;
-- alkogol va qimor o'yinlari 5:90-91;
-- g'iybat qilish 49:11;
-- yolg'on guvohlik 22:30;
+- zinokorlikda yolg'on ayblovlar 24:4-5
+- murtadlik 2:217; 5:54
+- cho'chqa go'shti va boshqa taqiqlangan ovqatlarni (murda, qon va boshqalar) iste'mol qilish 5:3; 6:145
+- alkogol va qimor o'yinlari 5:90-91
+- g'iybat qilish 49:11
+- yolg'on guvohlik 22:30
 - sehr 2:102; 10:77; 20:69
 """;

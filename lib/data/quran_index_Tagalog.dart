@@ -5,18 +5,18 @@ Ablutions (Wudu), 4:43; 5:6
 Abraham (Ibrahim) S.14; 2:135-136, 148; 3:33, 84, 95; 4:54, 125, 163; 6:161; 9:70, 114; 12:6, 38; 16:120; 19:58; 21:51, 60, 62, 69; 22:43, 78; 26:69; 29:31; 33:7; 37:83, 104, 109; 38:45; 42:13; 43:26; 51:24; 53:37; 57:26; 60:4; 87:19
 - hindi Hudyo ni Kristiyano, 3:67-68
 - tumayo sa unang templo sa Bakkah, 3:97; 26:123
-- itinayo ang pundasyon ng Ka'bah 2:124-129;
-- tinawag ang kanyang bayan sa pagsamba sa Iisang Tunay na Diyos 2:130-133; 26:69-89; 29:16; 29:24-27;
-- nakipagtalo sa mapagmataas na hari 2:258,
-- nagtanong tungkol sa muling pagkabuhay 2:260;
-- hindi Hudyo ni Kristiyano 3:65-68;
-- tinanggihan ang pagsamba sa mga kalangitan 6:74-87;
-- nakatanggap ng balita tungkol sa kapanganakan ni Isaac 11:69-76; 51:24-30;
-- ang kanyang panalangin sa Ka'bah 14:35-41;
-- dinaklawan ng mga anghel 15:51-56;
-- isang huwaran 16:123;
-- tinawag ang kanyang ama sa katotohanan 19:41-50;
-- winasak ang mga diyus-diyusan at naligtas mula sa apoy 21:51-73; 37:83-113;
+- itinayo ang pundasyon ng Ka'bah 2:124-129
+- tinawag ang kanyang bayan sa pagsamba sa Iisang Tunay na Diyos 2:130-133; 26:69-89; 29:16; 29:24-27
+- nakipagtalo sa mapagmataas na hari 2:258
+- nagtanong tungkol sa muling pagkabuhay 2:260
+- hindi Hudyo ni Kristiyano 3:65-68
+- tinanggihan ang pagsamba sa mga kalangitan 6:74-87
+- nakatanggap ng balita tungkol sa kapanganakan ni Isaac 11:69-76; 51:24-30
+- ang kanyang panalangin sa Ka'bah 14:35-41
+- dinaklawan ng mga anghel 15:51-56
+- isang huwaran 16:123
+- tinawag ang kanyang ama sa katotohanan 19:41-50
+- winasak ang mga diyus-diyusan at naligtas mula sa apoy 21:51-73; 37:83-113
 - tinawag ang lahat sa paglalakbay-pagdasal 22:26
 Abrar, 3:193, 198; 76:5; 82:13; 83:18-22
 Abrogation, 2:106, 16:101
@@ -26,11 +26,10 @@ Adam, 3:33, 59; 5:27; 7:26-27, 31, 35, 172; 17:70; 19:58; 36:60
 - ang mga anghel ay magpapatirapa sa harap niya, 2:34; 7:11
 - puno ng kaalaman, 2:35; 7:19-20; 20:120-121
 - pagpapalayo mula sa Hardin (walang sisi kay Eva), 2:36; 7:24
-- pinagpala ng Allah, tinukso ni Satanas 2:30-38; 7:11-25; 17:61-65; 18:50; 20:115-123; 38:71-85;
+- pinagpala ng Allah, tinukso ni Satanas 2:30-38; 7:11-25; 17:61-65; 18:50; 20:115-123; 38:71-85
 - pinatawad ng Allah 2:37; 20:122
 'Adiyat, S.100
-'Adn Paraiso, 9:72; 13:23; 16:31; 18:31;
-19:61; 20:76; 35:33; 38:50; 40:8; 61:12; 98:8
+'Adn Paraiso, 9:72; 13:23; 16:31; 18:31;19:61; 20:76; 35:33; 38:50; 40:8; 61:12; 98:8
 Kagipitan
 - hindi bibigatan ng pasan ng iba, 6:164; 17:15; 35:18; 39:7; 53:38
 - hindi bibigatan nang higit sa kakayahang tiisin, 2:286; 6:152; 7:42; 23:62
@@ -113,7 +112,7 @@ Apostasya, 3:72; 3:86-88; 3:90-91; 3:167; 4:137; 5:54; 9:74; 9:107; 16:106; 33:1
 Mga Apostat, 47:25
 A'raf, S.7; 7:46, 48
 Arafat, 2:198
-Makipagtalo,
+Makipagtalo
 - huwag ipagtanggol ang mga nagdaraya sa kanilang sarili, 4:107
 - ipinagtanggol mo sila sa mundong ito, ngunit sino ang gagawa nito sa Araw ng Muling Pagkabuhay, 4:109
 Mga Argumento/Pag-atake
@@ -123,7 +122,7 @@ Baluting-Pandigma, 16:81
 'Asr, S.103
 Ayat Al-Kursi, 2:255
 Mapanira, 49:12; 104:1
-Badr (labanan ng), 3:13,
+Badr (labanan ng), 3:13
 - mga aral mula rito, 8:5-19, 42-48
 Al-Bait-ul-Ma'mur, 52:4
 Bakkah (Makkah), 3:96
@@ -133,7 +132,7 @@ Balanse, 7:8-9; 17:35; 21:47; 55:7-9; 57:25;101:6-9
 Banu An-Nadir, 59:2-6, 13
 Baqarah, S.2
 Bara'a (Tingnan ang Taubah), S.9
-Barzakh, (Hadlang), 23:100; 25:53; 55:20;
+Barzakh, (Hadlang), 23:100; 25:53; 55:20
 - tingnan din ang 18:94-97; 34:54; 36:9
 Baiyinah, S.98
 Halimaw (ng Huling mga Araw), 27:82
@@ -182,7 +181,7 @@ Biblia, 5:64, 5:65, 5:68
 - pagbabaluktot ng, 3:78; 5:14-15
 Mga Ibon, 2:260; 3:49; 5:110; 6:38; 12:36, 41; 16:79; 21:79; 22:31; 24:41; 27:16-17, 20; 34:10; 38:19; 56:21; 67:19; 105:3
 Dugo-pera (Diya), 2:178-179; 4:92; 17:33
-Rampasan ng digmaan, 4:94. 8:41; 59:6-8;
+Rampasan ng digmaan, 4:94. 8:41; 59:6-8
 - pagkuha nang labag sa batas, 3:162
 - tingnan ang mga samsam
 Suhol, 2:188
@@ -220,7 +219,7 @@ Damit, 7:26; 16:81
 - ang panlabas na damit ng mga babae ay pumipigil ng panliligalig ng mga mapagkunwari, 33:59-60
 Mga Konfederado, 33:9, 22
 - tingnan ang Ahzab Konsultasyon, mutual, 42:38
-Paglikha,
+Paglikha
 - nagsisimula at inuulit, 10:4; 21:104; 27:64; 29:19-20
 - isang bago, 17:49, 98; 35:16
 - sa katotohanan, 15:85; 16:3; 29:44; 39:5; 44:39;45:22; 46:3
@@ -240,12 +239,12 @@ Uwak, 5:31
 Pamantayan, 2:53, 185; 3:4; 8:29, 41; 21:48; 25:1
 Dahr, (tingnan ang Insan,) S.76; 45:24
 - panahon, 76:1; 103:1
-David, 5:78; 6:84; 17:55; 34:10, 13; 38:17-30;
+David, 5:78; 6:84; 17:55; 34:10, 13; 38:17-30
 - binigyan ng mga Salmo 4:163
 - lumaban at pumatay kay Goliath, 2:251
-- nagpasa ng isang hatol 21:78-80;
-- pinagpala ng kaalaman at propesiya 27:15-16;
-- ang mga bundok at ibon ay sumasama sa kanya sa pagpuri kay Allah 34:10; 38:17-20;
+- nagpasa ng isang hatol 21:78-80
+- pinagpala ng kaalaman at propesiya 27:15-16
+- ang mga bundok at ibon ay sumasama sa kanya sa pagpuri kay Allah 34:10; 38:17-20
 - humusga sa pagitan ng dalawang tao 38:21-26
 Dawabb o Dabbah (gumagalaw na buhay na nilalang, atbp.) 2:164; 6:38; 8:22, 55; 11:6, 56; 16:49, 61; 22:18; 24:45; 27:82; 29:60;31:10; 34:14; 35:28, 45; 42:29; 45:4
 Ang mga patay ay muling ibabangon, 6:36
@@ -255,17 +254,17 @@ Kamatayan, 3:185; 3:193; 4:78; 6:61; 6:93; 21:35; 23:99-108; 31:34; 32:11; 33:19
 - ang mga komunidad na walang pahayag ay hindi mawawasak, 6:131; 9:115; 10:47; 11:117; 15:4; 16:119; 17:15; 28:59
 - ang mga namatay sa dahilan ng Allah ay buhay, 2:154; 3:169
 - habang tumatakbo mula sa kasamaan patungo kay Allah, 4:100
-- hindi mapipigilang o mapapalibang 63:10-11;
-- kapatid na kambal ng tulog 6:60; 39:42;
-- ang mga mananampalataya at di-naniniwala sa oras ng kamatayan 8:50; 16:27-32; 41:30;
+- hindi mapipigilang o mapapalibang 63:10-11
+- kapatid na kambal ng tulog 6:60; 39:42
+- ang mga mananampalataya at di-naniniwala sa oras ng kamatayan 8:50; 16:27-32; 41:30
 - kaparusahan sa libingan 40:46
 Mga Utang, 2:280, 282; 4:11-12
-Kautusan,
+Kautusan
 - para sa bawat bagay, mayroon itong, 13:38
 - hindi Namin kailanman winasak ang isang bayan nang walang kilalang, para rito, 15:4
 - ng bawat bagay ay nagmumula kay Allah, 44:5
 - kapag siya ay nag-utos ng isang bagay, sinasabi lamang Niya, "Maging!" — at ito ay naging ganoon, 2:117; 36:82; 40:68
-Mga Gawa,
+Mga Gawa
 - ang kasamaan ay pinaganda para sa kanila, 47:14
 - sa atin ang ating mga, sa inyo ang inyong mga gawa, 28:55; 42:15; 45:15
 - ang mabuti at masama ay para sa at laban sa kanyang sarili, 41:46
@@ -279,7 +278,7 @@ Dhariyat, S.51
 Dhikr, 7:205; 15:6, 9
 Dhul-Kifi, 21:85; 38:48
 Dhul-Qarain, 18:83-98
-Dhun-Nun (Kasama ng Isda),
+Dhun-Nun (Kasama ng Isda)
 Mga Di-naniniwala (tingnan din ang Mga Mapagkunwari)
 - hinihingi kay Muhammad (ﷺ) na tawagin ang galit ng Allah sa kanila bilang patunay, 6:57-58; 8:32; 10:49-52
 - makisamahan sa kanila nang may kabaitan, 31:15
@@ -304,7 +303,7 @@ Hukay, mga tao ng, 85:4-10
 Pagkakaiba-iba
 - ng mga tao, 30:22, 35:27-28
 - ng buhay, 35:27-28
-Diborsiyo, 2:228-232, 236-237, 241; 4:35, 130; 65:1-7;
+Diborsiyo, 2:228-232, 236-237, 241; 4:35, 130; 65:1-7
 - pagkatapos ng panahon ng paghihintay, buwagin o makipagkasundo, 2:231; 65:2
 - dalawang saksi, 65:2
 - alimony, 2:233, 241
@@ -340,7 +339,7 @@ Diborsiyo, Babae
 - maliban kung hindi pa naisagawa ang kasal, 33:49
 Mga Aso, 7:176
 Mga Asno, 2:259; 16:8; 31:19; 62:5; 74:50
-Inumin,
+Inumin
 - nakalalasing, 2:219; 5:90
 - dalisay at puting masarap, 37:45-46; 76:21
 - dalisay na selyado na alak, 83:25
@@ -363,13 +362,13 @@ Kasamaan, 4:123; 10:27-30; 19:83; 59:15
 - binago, para sa mabuti, 7:95
 - ang mga sumusunod sa kanilang masasamang, pagnanasa, 47:14, 16
 - mga gawa ay pinaganda para sa kanila, 47:14
-Labis,
+Labis
 - ipinagbabawal sa pagkain, 5:87
 - sa relihiyon, 4:171; 5:77-81
 Ang mga mata, tainga at balat ay magpapatotoo laban sa mga makasalanan, 41:20-23
 Ezra, (Uzair) 9:30
 Mukha o Anyo ng Allah, 2:115, 272; 6:52; 13:22; 18:28; 28:88; 30:38-39; 55:27; 76:9; 92:20
-Tila-maganda,
+Tila-maganda
 - ginawa ng Allah para sa bawat tao ang kanyang sariling mga gawa, 6:108
 Pananampalataya (Paniniwala), 2:108; 3:167, 177, 193; 5:5; 9:23; 16:106; 30:56; 40:10; 42:52; 49:7, 11, 14; 52:21; 58:22; 59:9-10
 - mga tumatanggi sa, 3:116
@@ -379,7 +378,7 @@ Pananampalataya (Paniniwala), 2:108; 3:167, 177, 193; 5:5; 9:23; 16:106; 30:56; 
 Fajr, S.89
 Falaq, S.113
 Maling usapan tungkol sa mga Talata ng Quran, 6:68
-Mga Maling diyos,
+Mga Maling diyos
 - bukod kay Allah, mga idolo at mga tinatawag na kasosyo 7:194-198; 16:20-21, 72, 86; 21:22, 24; 34:22, 27; 41:47-48; 46:5-6; 53:19-24; 71:23-24
 - huwag insultuhin ang kanilang sinasamba bukod kay Allah, 6:108
 - tingnan din ang Taghut
@@ -394,7 +393,7 @@ Fidyah (ransom), ng pag-aayuno, 2:196
 - para sa pagpapalaya ng mga bihag, 8:67
 - ransom na inaalok ng mga di-naniniwala, 3:91; 5:36,37; 10:54; 13:18
 Igos, 95:1
-Pakikipaglaban,
+Pakikipaglaban
 - sa landas ng Allah, laban sa mga di-naniniwala, 2:190-193, 244; 4:84, 95; 8:72, 74, 75; 9:12-16, 20, 24, 36, 123; 47:4; 61:11
 - iniutos, 2:216
 - sa mga sagradong buwan, 2:217; 9:5
@@ -410,7 +409,7 @@ Fil, S.105
 Firdaus Paraiso, 18:107; 23:11
 Apoy, 56:71, 100:2
 Langaw, 22:73
-Pagkain,
+Pagkain
 - pinahintulutan at ipinagbabawal, (Halal at Haram), 2:168, 172, 173; 5:1, 3-5, 88; 6:118-119, 121, 145-146; 16:114-118; 23:51
 - walang kasalanan para sa kinain noong nakaraan, 5:93
 - huwag lumabis, 5:87
@@ -432,7 +431,7 @@ Pagpapatawad, 2:109; 4:48, 110, 116; 5:74; 7:199; 39:53; 42:5, 40-43; 45:14; 53:
 - makipagtakbuhan sa isa't isa sa pagmamadali tungo sa, 57:21
 - ang mga masamang gawa ay nababago sa mabubuting gawa 25:68-71
 Panloloko, (tingnan ang Pagtataksil) 83:1-6
-Malayang kalooban,
+Malayang kalooban
 - limitado ng Kalooban ng Allah, 6:107; 10:99; 74:56;76:31; 81:28-29
 - sinumang nais, hayaan siyang: maniwala at huwag maniwala, 18:29
 - kumuha ng landas patungo sa kanyang Panginoon, 76:29
@@ -466,14 +465,14 @@ Mabuti (Mga Araw), 3:140
 - ginagantimpalaan ng Allah ang mga gumagawa ng mabuti ng pinakamabuti, 53:31
 - mayroon bang gantimpala para sa mabuti maliban sa mabuti, 55:60
 - gumawa ng mabuti, tulad ng pagiging mabuti ng Allah sa iyo, 28:77
-Mabuti at Masama,
+Mabuti at Masama
 - ang mabuti ay nagmumula kay Allah at ang masama ay nagmumula sa iyong sarili, 4:79
 - kung gumawa ka ng mabuti, para sa iyong sarili at kung gumawa ka ng masama, laban sa iyong sarili, 17:7;41:46
 - labanan ang masama gamit ang mabuti, 23:96; 28:54; 41:34
 - ang mabuting gawa at ang masamang gawa ay hindi maaaring maging pantay,41:34
 - bawat tao ay haharapin ang lahat ng mabuti at masama na kanyang ginawa, 3:30
 - tingnan din ang Muhsinun
-Mabuting gawa,
+Mabuting gawa
 - ihayag o itago, 4:149
 - magsikap na parang sa isang karera sa, 5:48
 Ebanghelyo, 3:3, 48, 65; 5:46-47, 66, 68, 110;7:157; 9:111; 48:29; 57:27
@@ -490,7 +489,7 @@ Kahirapan, may kaginhawahan sa bawat kahirapan, 94:5-6
 Harun, (Aaron)
 Harut, 2:102
 Hashr, S.59
-Mga Puso,
+Mga Puso
 - pinagtigas, 2:74; 22:53; 39:22; 57:16
 - tinatakan, 7:100-101; 40:35; 47:16; 63:3
 - natatakpan, 17:46; 41:5
@@ -498,7 +497,7 @@ Mga Puso,
 - nahati, 59:14
 - puno ng takot, 22:35
 - yaong may sakit sa, 2:10; 5:52; 8:49; 9:125; 22:53; 24:50; 33:12, 32, 60; 47:20, 29;74:31
-Mga Langit,
+Mga Langit
 - sa Allah ang mga nakatagong bagay ng mga, 16:77
 - hindi nilikha para sa laro, 21:16
 - at ang lupa ay magkasamang pinagdugtong, 21:30
@@ -528,7 +527,7 @@ Impiyerno (ang apoy, ang naglalagablab na apoy) 2:24, 119, 161, 166, 201; 3:10, 
 - nagsusunugang kawalan ng pag-asa at malamig na kadiliman sa, 38:57
 - kadena ng 70 siko, 69:32
 - pananatili sa loob ng limitadong panahon, 78:23
-Kabilang Buhay,
+Kabilang Buhay
 - mas mabuti ang tahanan sa, 6:32; 7:169
 - kung ano ang magiging katapusan sa, 6:135
 - ang mga Zalimun ay hindi magtatagumpay (sa), 6:135
@@ -545,7 +544,7 @@ Hijr (Batuhang Lugar), 15:80-85
 Hijr, S.15
 Homosexualidad 26:165-166; 27:55; 29:28-29
 Mga Kabayo, 16:8
-Oras,
+Oras
 - ang kaalaman nito ay nasa Allah lamang, 7:187; 31:34; 33:63; 41:47; 68:26; 79:42-46
 - bigla na lamang ito sa kanila, 6:31; 7:187;12:107; 43:66
 - darating sa iyo, 6:40; 12:107; 20:15; 34:3
@@ -554,9 +553,9 @@ Oras,
 - lindol ng, 22:1
 - maitatag, sa Araw, 30:12, 14
 - tiyak na darating, walang alinlangan, 40:59;45:32; 51:5-6
-- mga tanda 21:96; 27:82; 43:61; 47:18; 54:1-2;
-- mga pangalan 1:3; 2:4; 3:55; 19:39; 30:56; 37:21; 40:15; 41:47; 42:7; 50:20; 56:1; 64:9; 69:1; 79:34; 80:33; 88:1; 101:1-3;
-- biglang dadating sa mga tao 6:31; 7:187;
+- mga tanda 21:96; 27:82; 43:61; 47:18; 54:1-2
+- mga pangalan 1:3; 2:4; 3:55; 19:39; 30:56; 37:21; 40:15; 41:47; 42:7; 50:20; 56:1; 64:9; 69:1; 79:34; 80:33; 88:1; 101:1-3
+- biglang dadating sa mga tao 6:31; 7:187
 - ang Trumpeta ay ihihip 6:73; 23:101; 39:68
 Mga paraan ng pagpasok sa bahay, 24:27-29
 Hud, 7:65-72; 11:50-60; 26:123-140; 46:21-26
@@ -565,7 +564,7 @@ Hujurat, S.49
 Humazah, S.104
 Hunain (labanan), 9:25
 Hur (mga babae sa Paraiso), 44:54; 52:20
-Mga Mapagkunwari,
+Mga Mapagkunwari
 - nagsasabi: naniniwala kami kay Allah at sa Huling Araw, ngunit sa katunayan ay hindi naniniwala, 2:8
 - dinadaya ang kanilang sarili, 2:9
 - sakit sa kanilang mga puso, 2:10; 8:49; 22:53;33:12; 47:29
@@ -609,8 +608,8 @@ Ilah, isa lamang, 2:163; 6:19; 16:22, 51; 23:91; 37:4; 38:65
 Labag sa batas na pakikipagtalik; patotoo ng mga saksi, 4:15-18; 24:2, 19
 Illiyyun, 83:18-21
 Marumi (Najas) 9:28
-'Imran,
-- asawa ng, 3:35;
+'Imran
+- asawa ng, 3:35
 - anak na babae ng, 66:12
 Inevitable, 69:1-3
 Infitar, S.82
@@ -629,7 +628,7 @@ Bakal, 57:25
 'Isa, tingnan ang Hesus
 Isaac, (Ishaq) 2:133; 4:163; 6:84; 19:49;21:72; 29:27; 37:112-113
 Ishmael (Isma'il), 2:125-129, 133; 4:163;6:86; 19:54-55; 21:85; 38:48
-itinayo ang pundasyon ng Ka'bah kasama ang kanyang ama 2:125-140;
+itinayo ang pundasyon ng Ka'bah kasama ang kanyang ama 2:125-140
 kwento ng sakripisyo 37:100-113
 Islam, 3:19, 85; 5:3; 6:125; 39:22; 61:7
 - una sa mga nagpapasakop bilang Muslim, 6:14,163; 39:12
@@ -658,8 +657,8 @@ Jacob, (Ya'qub) 2:132-133; 4:163; 6:84;12:18; 19:49; 21:72; 29:27
 Jalut, (tingnan ang Goliath)
 Jamarat, 2:200
 Jathiyah, S.45
-Hesus, Isa na anak ni Maria,
-- ang kanyang ina ay pinili nang higit sa lahat ng kababaihan sa mundo 3:42;
+Hesus, Isa na anak ni Maria
+- ang kanyang ina ay pinili nang higit sa lahat ng kababaihan sa mundo 3:42
 - nagpapatotoo sa Araw ng Muling Pagkabuhay, 4:159
 - magandang balita ng kapanganakan, 3:45-47; 19:22-23
 - Sugo sa mga Anak ni Israel, 3:49-51
@@ -682,9 +681,9 @@ Hesus, Isa na anak ni Maria,
 - magkakaibang pananaw tungkol sa kanya, 43:65
 - wala nang iba kundi isang alipin at isang halimbawa para sa mga Anak ni Israel, 43:59
 - magandang balita ng isang Sugo na ang pangalan ay Ahmed, 61:6
-- ang kanyang pagsilang sa birhen, mensahe, at mga milagro 3:45-51; 19:16-38;
-- ipinaalala ng mga pabor ng Allah 5:110-115;
-- tinanggihan ang pagiging diyos 5:116-120;
+- ang kanyang pagsilang sa birhen, mensahe, at mga milagro 3:45-51; 19:16-38
+- ipinaalala ng mga pabor ng Allah 5:110-115
+- tinanggihan ang pagiging diyos 5:116-120
 - habag at biyaya sa puso ng kanyang mga tagasunod 5:82; 57:27
 Mga Hudyo at Kristiyano, 2:140; 4:153-161, 171; 5:18
 - nakikinig sa kasinungalingan, 5:41-42
@@ -694,41 +693,41 @@ Mga Hudyo at Kristiyano, 2:140; 4:153-161, 171; 5:18
 Jibril, (tingnan ang Gabriel)
 Jihad, (Pakikipaglaban, Pagsisikap) 2:216; 9:24; 22:78; 25:52
 Jinn, S.72
-Jinn, 6:100, 112; 15:27; 34:41; 38:37; 46:18,29; 55:33, 39;
-Jinn, nilikha mula sa apoy 15:25; 55:15;
-- naniniwala at di-naniniwalaing jinn 72:1-15;
+Jinn, 6:100, 112; 15:27; 34:41; 38:37; 46:18,29; 55:33, 39
+Jinn, nilikha mula sa apoy 15:25; 55:15
+- naniniwala at di-naniniwalaing jinn 72:1-15
 - ang ilan ay naniwala sa mensahe ng Quran 46:29-32
 - ang mga tao at jinn ay nilikha para sa isang layunin 51:56-58
 Job, 4:163; 6:84; 21:83-84; 38:41-44
-Juan, (Yahya, Juan Bautista),
+Juan, (Yahya, Juan Bautista)
 - magandang balita ng, 3:38-41; 19:7-11; 21:90
 - matuwid, 6:85
 - matalino, mahabagin, masunurin, 19:12-15
-Jonah (Jonas o Yunus), 4:163; 6:86; 10:98;21:87; 37:139-148;
+Jonah (Jonas o Yunus), 4:163; 6:86; 10:98;21:87; 37:139-148
 - (Dhu n-Nun) 21:87; 68:48-50
 Joseph (Yusuf), 6:84; 12:4-101
-- pinakamahusay na mga kwento 12:1-3;
-- panaginip ng batang si Yusuf 12:4-6;
-- pakana ng kanyang mga kapatid 12:7-18;
-- ipinagbili bilang alipin 12:19-20;
+- pinakamahusay na mga kwento 12:1-3
+- panaginip ng batang si Yusuf 12:4-6
+- pakana ng kanyang mga kapatid 12:7-18
+- ipinagbili bilang alipin 12:19-20
 - pinalaki sa bahay ng Punong Ministro ng Ehipto 12:21-22
-- sinubukan siyang akitin ng asawa ng Punong Ministro 12:23-29;
-- insidente sa handaan 12:30-32;
-- napunta sa bilangguan 12:33-35;
-- ang dalawang kapwa bilanggo 12:36-42;
-- panaginip ng Hari 12:43-53;
-- naging Punong Ministro 12:54-57;
-- ang mga kapatid ay pumunta sa kanya para sa mga suplay 12:58-68;
-- kinuha ang kanyang kapatid na si Benjamin 12:69-82;
-- bagong pagdadalamhati ng kanyang ama 12:83-87;
-- inihayag ang kanyang tunay na pagkakakilanlan 12:88-98;
-- ang lumang panaginip ay natupad 12:99-100;
+- sinubukan siyang akitin ng asawa ng Punong Ministro 12:23-29
+- insidente sa handaan 12:30-32
+- napunta sa bilangguan 12:33-35
+- ang dalawang kapwa bilanggo 12:36-42
+- panaginip ng Hari 12:43-53
+- naging Punong Ministro 12:54-57
+- ang mga kapatid ay pumunta sa kanya para sa mga suplay 12:58-68
+- kinuha ang kanyang kapatid na si Benjamin 12:69-82
+- bagong pagdadalamhati ng kanyang ama 12:83-87
+- inihayag ang kanyang tunay na pagkakakilanlan 12:88-98
+- ang lumang panaginip ay natupad 12:99-100
 - pangwakas na panalangin 12:101
 Judi, Bundok, 11:44
 Jumu'ah, S.62
 Katarungan (Adl), 2:282; 4:58, 135; 7:29; 16:90; 57:25
 - tingnan din ang 4:65, 105
-Ka'bah,
+Ka'bah
 - itinayo ni Abraham, 2:125-127
 - walang pagpatay ng laro, 5:94-96
 - kanlungan ng kaligtasan, 5:97
@@ -740,17 +739,17 @@ Kahf, S.18
 Kanz, 9:34-35
 Kauthar (ilog sa Paraiso), 108:1
 Kauthar, S.108
-Mga Susi,
+Mga Susi
 ng mga langit at lupa, 39:63; 42:12
 ng Ghaib, 6:59
 Khaulah bint Tha'labah, 58:1
-Pagpatay,
+Pagpatay
 - kung sinuman ang pumatay ng isang tao, parang pinatay niya ang buong sangkatauhan, 5:32
 - huwag pumatay ng sinuman, 17:33
 Ang mabuting salita ay mas mabuti kaysa kawanggawa, 2:263
 Mga Kamag-anak, karapatan ng, 2:83, 177, 215; 4:7-9, 36;8:41; 16:90; 17:26; 24:22; 29:8; 30:38; 42:23
 Kiraman-Katibin, 82:11
-Kaalaman,
+Kaalaman
 - kahit isang dahon ay hindi nahuhulog, nang hindi Niya nalalaman, 6:59
 - nawawala ang mga pumatay ng kanilang mga anak sa kamangmangan, nang wala sa, 6:140
 - ng limang bagay, kay Allah lamang, 31:34
@@ -760,14 +759,14 @@ Kursi, 2:255
 Lahab (tingnan ang Masad), S.111
 Lail, S.92
 Ilaw, 25:61; 67:5; 71:16; 78:13
-Mga Wika,
+Mga Wika
 - pagkakaiba ng, at mga kulay ng mga tao, 30:22
 Lat, 53:19
 Batas, itinakda, 5:48
 Mga Batas mula kay Allah, 2:219; 98:3
 Mga Sinungaling, 26:221-223
 Buhay, kung sinuman ang nagligtas ng isang tao, naligtas niya ang buhay ng buong sangkatauhan, 5:32
-Buhay ng mundong ito,
+Buhay ng mundong ito
 - binili ang, sa halaga ng Kabilang Buhay, 2:86
 - ito ay kasiyahan lamang ng panlilinlang, 3:185
 - ipagbili ang, para sa Kabilang Buhay, 4:74
@@ -779,7 +778,7 @@ Buhay ng mundong ito,
 - sinumang nagnanais nito, nakukuha niya roon; ngunit wala na siyang bahagi sa Kabilang Buhay, 11:15-16; 17:18; 42:20
 - yaong nagmamahal sa kasalukuyan, at nagpapabaya sa Kabilang Buhay, 75:20-21; 76:27
 - mas gusto mo ang, 87:16
-Liwanag,
+Liwanag
 - malinaw, 4:174
 - at kadiliman, 6:1
 - talinghaga ng, 24:35
@@ -794,7 +793,7 @@ Mga hangganan na itinakda ng Allah, 2:173, 187, 190, 230;9:112; 58:4; 65:1; 78:2
 - nang sila ay lumampas sa mga, (naging mga unggoy), 7:166
 - yaong sumusunod sa mga, 9:112
 Leon, 74:51
-Pautang,
+Pautang
 - magpautang kay Allah ng isang magandang, 2:245; 73:20
 - dumami nang maraming beses, 57:11, 18
 - dinodoble, 64:17
@@ -812,7 +811,7 @@ Mahr (pera ng nobya), 2:229, 236-237; 4:4,19-21, 24-25; 5:5; 33:50; 60:10-11
 Ma'idah, S.5
 Makkah (Bakkah), 3:96;90:1-2
 - Lungsod ng Kaligtasan, 95:3
-Tao,
+Tao
 - mga henerasyon pagkatapos ng mga henerasyon sa lupa, 2:30;6:165
 - ginawang kahalili, 35:39
 - tungkulin, 2:83-84, 88, 177; 4:1-36; 8:41; 16:90;17:23-39; 24:22; 29:8-9; 30:38;33:33;42:23; 64:14; 70:22-35
@@ -877,7 +876,7 @@ Tao,
 - lumalampas sa lahat ng mga hangganan, 96:6-7
 Manasik (mga tungkulin) ng Hajj, 2:128, 200; 22:30
 Manat, 53:20
-Sangkatauhan,
+Sangkatauhan
 - mga saksi sa, 2:143
 - isang komunidad, 2:213; 10:19
 - nilikha mula sa isang pares, 4:1; 39:6; 49:13
@@ -887,7 +886,7 @@ Sangkatauhan,
 - pinaka-kagalang-galang sa, 49:13
 - ginawang mga bansa at mga tribo, 49:13
 Manna at mga pugo, 2:57
-Mga Asal,
+Mga Asal
 - tungkol sa pagpasok ng mga bahay, 24:27-29
 - sa tahanan, 24:58-61
 - sa mga bahay ng Propeta, 33:53
@@ -910,7 +909,7 @@ Kasal, 2:232, 234
 - yaong walang pinansyal na paraan para sa kasal, 24:33
 - ang mga asawang babae na pinahintulutan sa Propeta, 33:50-52
 - bago ang pakikipagtalik, walang Iddah sa diborsiyo, 33:49
-Mga Martir,
+Mga Martir
 - hindi patay, 2:154; 3:169
 - nagagalak sa Biyaya at Kagandahang-loob mula kay Allah,3:170-171
 - tumatanggap ng pagpapatawad at awa, 3:157-158
@@ -930,7 +929,7 @@ Masad, S.111
 Maun, S.107
 Ma'wa Paraiso, 53:15
 Sukatan at timbang, magbigay ng buo, 11:85; 17:35;83:1-5
-Pakikipagtagpo,
+Pakikipagtagpo
 - kay Allah, 6:31
 - ng Dakilang Araw, 19:37
 - ng Kabilang Buhay, 30:16
@@ -960,7 +959,7 @@ Miraj, 17:1; 53:12
 Mga Buwan, bilang ng, 9:36-37
 Buwan, 7:54; 10:5; 16:12; 22:18; 25:61; 36:39-40; 71:16; 91:2
 - pagbibiyak ng; 54:1
-Moises,
+Moises
 - at ang kanyang bayan, 2:51-61; 7:138-141,159-162; 14:5-8; 61:5
 - at si Paraon, 2:49-50; 17:101-103; 20:17-53, 56-79;23:45-49; 25:31-42; 40:23-46; 43:46-56; 51:38-40; 73:16;79:15-26
 - ginabayan ng Allah, 6:84
@@ -970,23 +969,23 @@ Moises,
 - binigyan ng Kasulatan, 17:2
 - siyam na Malinaw na Tanda, 7:133; 17:101
 - sa pinagsalubungan ng dalawang dagat, 18:60-82
-- mapanganib na paghaharap sa nagliliyab na puno 20:9-36; 27:7-14; 28:29-35;
+- mapanganib na paghaharap sa nagliliyab na puno 20:9-36; 27:7-14; 28:29-35
 - tinawag at binigyan ng Pagsusugo, 19:51-53;20:9-56
 - ang kanyang kabataan, ina at kapatid na babae, 20:38-40;28:7-13
 - ang mga salamangkero ay nag-convert, 20:70-73; 26:46-52
 - sa Madyan, 20:40; 28:22-28
 - binigyan ng Pamantayan, 21:48
 - at ang mistikong apoy, 27:7-12; 28:29-35
-- nakapatay ng isang Ehipsiyo nang hindi sinasadya sa lungsod 28:14-21;
+- nakapatay ng isang Ehipsiyo nang hindi sinasadya sa lungsod 28:14-21
 - dumating na may malinaw na mga Ayat, 29:39
-- kwento kay Paraon 7:103-137; 10:75-92; 11:96-99; 26:10-69;
-- siyam na mga tanda para kay Paraon at sa kanyang bayan 7:130-133; 20:17-22; 17:101;
-- natalo ang mga salamangkero ni Paraon 20:70-73; 26:46-52;
-- pagtakas sa Midian at kasal 28:22-28;
-- natanggap ang mga Tapyas 7:142-154,
-- humiling na makita ang Allah sa Bundok 7:142-145;
-- pinarangalan ng Allah 33:69;
-- mga pabor ng Allah sa mga Israelita 2:47-61;
+- kwento kay Paraon 7:103-137; 10:75-92; 11:96-99; 26:10-69
+- siyam na mga tanda para kay Paraon at sa kanyang bayan 7:130-133; 20:17-22; 17:101
+- natalo ang mga salamangkero ni Paraon 20:70-73; 26:46-52
+- pagtakas sa Midian at kasal 28:22-28
+- natanggap ang mga Tapyas 7:142-154
+- humiling na makita ang Allah sa Bundok 7:142-145
+- pinarangalan ng Allah 33:69
+- mga pabor ng Allah sa mga Israelita 2:47-61
 - ang mga Israelita ay tumangging pumasok sa Jerusalem 5:20-29
 - ginabayan sa Tamang Landas, 37:114-122
 - Kasulatan ni, 53:36; 87:19
@@ -1074,7 +1073,7 @@ Mumtahanah, S.60
 Munafiqun, S.63
 Pagpatay, 2:178-179
 Mursalat, S.77
-Mga Muslim,
+Mga Muslim
 - una sa mga, 6:14, 163; 9:100; 39:12
 - sino ang nagbigay ng pangalan sa, 22:78
 - pagpapatawad at isang dakilang gantimpala para sa kanila, 33:35-36
@@ -1086,7 +1085,7 @@ Nahl, S.16
 Najas (marumi) 9:28
 Najm, S.53
 Najwa (Tingnan ang Sikreto)
-Mga Pangalan,
+Mga Pangalan
 sa Kanya ang pinaka-magagandang, 7:180
 sa Kanya ang pinakamabuti, 17:110; 20:8; 59:24
 Pangangailangan, kung ang isang tao ay pinilit ng, 2:173; 6:145
@@ -1099,10 +1098,10 @@ Gabi, (bilang simbolo), para sa pahinga, 10:67
 - upang magsilbi, 14:32
 - Gabi ng Al-Qadr (Kautusan), 44:3-4; 97:1-5
 Nisa', S.4
-Noah, 3:33; 4:163; 6:84; 9:70; 10:71;11:25, 32, 36, 42, 45-46, 48, 89; 17:3; 21:76; 25:37; 26:105; 29:14; 37:75; 51:46;54:9; 69:11;
-- nilait 11:38;
+Noah, 3:33; 4:163; 6:84; 9:70; 10:71;11:25, 32, 36, 42, 45-46, 48, 89; 17:3; 21:76; 25:37; 26:105; 29:14; 37:75; 51:46;54:9; 69:11
+- nilait 11:38
 - ang Delubyo (matinding baha), 29:14
-- ang Arko at ang Baha 7:59-69, 11:25-48; 23:23-31; 26:105-122; 71:1-28;
+- ang Arko at ang Baha 7:59-69, 11:25-48; 23:23-31; 26:105-122; 71:1-28
 - ang di-matuwid na anak ay hindi naligtas, 11:42-48
 - di-matuwid na asawa, 14:9; 17:3, 17;19:58;21:76; 22:42; 26:105-106, 116; 33:7; 37:75,79; 38:12; 42:13; 40:5, 31; 42:13;50:12;53:52; 57:26; 66:10; 71:1, 21, 26
 Nuh, S.71
@@ -1136,7 +1135,7 @@ Mga Talinghaga, (pagkakatulad, halimbawa, mga katulad)
 - ulan, 10:24
 - anihing naputol nang malinis, 10:24
 - bulag at bingi, 11:24
-- Allah kumpara sa mga maling diyos 13:14; 16:76;
+- Allah kumpara sa mga maling diyos 13:14; 16:76
 - katotohanan kumpara sa kasinungalingan 13:17
 - abo na tinatahip ng malakas na hangin,14:18
 - magandang puno, 14:24-25
@@ -1164,7 +1163,7 @@ Mga Talinghaga, (pagkakatulad, halimbawa, mga katulad)
 - asno, 62:5
 - kung ang tubig ay maaaring ilubog, 67:30
 - mga tao ng hardin, 68:17-33
-Paraiso,
+Paraiso
 - ng Tirahan, (Ma'wa Paraiso), 53:15
 - Firdaus Paraiso, 18:107; 23:11
 - Mga Hardin na may mga ilog na dumadaloy sa ilalim, 3:15, 198;4:57; 5:119; 7:43; 9:72; 18:31; 22:23; 39:20;57:12; 64:9; 98:8
@@ -1187,7 +1186,7 @@ Paraiso,
 - isang ilog sa Paraiso, Kauthar, 108:1
 - mga ilog ng alak, gatas, dalisay na pulot-pukyutan, 47:15
 - dalisay na selyado na alak, puti, masarap, 37:45-46; 56:18; 76:21; 83:25
-- tasa, halo ng, Zanjabil, 76:17; 78:34;
+- tasa, halo ng, Zanjabil, 76:17; 78:34
 - tubig, 76:5
 - mga plato ng ginto at mga tasa, 43:71
 - mga sisidlan ng pilak at mga tasa ng kristal, 76:15-16
@@ -1234,21 +1233,21 @@ Paraiso,
 - mga asawa sa maayos na lilim, nakasandal sa mga trono, 36:55
 - mga batang dalaga na puno ng buhay na magkaparehong edad,78:33
 - mga immortal na batang lingkod upang pagsilbihan sila, tulad ng mga nakakalat na perlas, 52:24; 56:17; 76:19
-- malawak tulad ng mga langit at lupa 3:133, 57:21;
-- tumutakbong tubig, malamig na lilim, mga pagkain, at mga dalisay na kasama 2:25; 4:57; 36:55-58; 37:40-49; 38:50-54; 44:51-57; 52:17-24; 69:19-24; 76:5-22;
-- gantimpala ng mga mananampalataya 55:46-78; 56:10-40;
-- mga ilog ng pulot-pukyutan, gatas, tubig, at alak 47:15;
-- mga panalangin at pagbati 10:9-10; 39:73-74;
-- binabati ng mga pagbati ng kapayapaan 13:23-24; 14:32;
-- walang hanggang pananatili sa Kaligayahan 11:108;
-- hindi kailanman hinihiling na umalis 15:45-48;
-- liwanag na sumisinag sa harap nila at sa kanilang kanan 57:12;
-- walang init o ginaw 76:13;
-- lahat ng kagustuhan ay ipinagkakaloob 16:30-32; 41:31-32;
-- mga pulseras ng ginto at damit ng manipis na sutla 18:30-31; 22:23-24; 44:51-53;
-- mga plato ng mga gintong tasa 43:67-73;
-- mga sisidlan ng pilak at mga prutas na nakabitin sa loob ng abot-kamay 76:14-16;
-- nakasandal sa mga trono 15:47; 37:44; 52:20;
+- malawak tulad ng mga langit at lupa 3:133, 57:21
+- tumutakbong tubig, malamig na lilim, mga pagkain, at mga dalisay na kasama 2:25; 4:57; 36:55-58; 37:40-49; 38:50-54; 44:51-57; 52:17-24; 69:19-24; 76:5-22
+- gantimpala ng mga mananampalataya 55:46-78; 56:10-40
+- mga ilog ng pulot-pukyutan, gatas, tubig, at alak 47:15
+- mga panalangin at pagbati 10:9-10; 39:73-74
+- binabati ng mga pagbati ng kapayapaan 13:23-24; 14:32
+- walang hanggang pananatili sa Kaligayahan 11:108
+- hindi kailanman hinihiling na umalis 15:45-48
+- liwanag na sumisinag sa harap nila at sa kanilang kanan 57:12
+- walang init o ginaw 76:13
+- lahat ng kagustuhan ay ipinagkakaloob 16:30-32; 41:31-32
+- mga pulseras ng ginto at damit ng manipis na sutla 18:30-31; 22:23-24; 44:51-53
+- mga plato ng mga gintong tasa 43:67-73
+- mga sisidlan ng pilak at mga prutas na nakabitin sa loob ng abot-kamay 76:14-16
+- nakasandal sa mga trono 15:47; 37:44; 52:20
 - ang mga mananampalataya ay makikita ang kanilang Panginoon 75:22-23
 Mga Magulang, kabaitan sa, 2:83, 215; 4:36; 16:90;17:23; 29:8; 31:14; 46:15-17
 Mga Kasosyo ng Allah, isang kasinungalingan,4:116;10:34-35, 66; 16:86; 28:62-64, 71-75; 30:40;42:21
@@ -1257,7 +1256,7 @@ Landas, 5:77; 16:94; 42:52-53; 43:43; 90:11-12
 - tingnan din ang Daan
 Pasensya, 3:186, 200; 10:109; 11:115; 16:126-127; 20:130; 40:55, 77; 42:43; 46:35; 70:5;73:10
 - humingi ng tulong sa pasensya at panalangin, 2:45, 153; 20:132;50:39
-Matiyaga,
+Matiyaga
 - makakatanggap ng gantimpala nang buo, 39:10
 - si Allah ay kasama ng mga matiyaga, 8:46
 - at maging, 11:115
@@ -1266,7 +1265,7 @@ Matiyaga,
 Kapayapaan, humiling ng, 8:61
 Perlas at korales, napanatili, 52:24; 55:22; 56:23
 Panulat, 68:1; 96:4
-Tao,
+Tao
 - hindi bibigatan ng Allah ang isang, nang higit sa kanyang kakayahan,2:286; 7:42
 - hindi bibigatan ng Allah ang sinumang, maliban sa ayon sa kanyang kakayahan, 23:62
 - walang, na nakakaalam ng kanyang kikitain bukas at sa anong lupaing siya ay mamamatay, 31:34
@@ -1287,7 +1286,7 @@ Paraon, 28:6; 40:24
 - pagtatayo ng isang tore, 40:36-37
 - tingnan din ang Moises
 Pag-iipon ng mga bagay ng mundo, 102:1-4
-Pangako (Bai'ah),
+Pangako (Bai'ah)
 - para sa Islam, 16:91
 - sa Sugo ay Bai'ah (pangako) kay Allah, 48:10
 - ng mga Mananampalataya, 48:18; 60:12
@@ -1323,17 +1322,17 @@ Mga Propeta, 3:33-34, 146; 4:163; 5:20; 6:84-90;23:23-50; 57:26
 - labag sa batas para sa mga, 3:161
 - isang kaaway para sa bawat, 6:112; 25:31
 - tingnan din ang Mga Sugo
-Pagpapatirapa,
+Pagpapatirapa
 - kay Allah ay nagpapatirapa, sinumang nasa mga langit at lupa at pati ang kanilang mga anino, 13:15
 Probisyon, 10:59; 13:26; 14:32; 16:73; 34:36,39; 42:12; 51:57; 67:21; 79:33
 Mga Salmo, 4:163
-Kaparusahan,
+Kaparusahan
 - pagpapaliban ng, 3:178
 - pagputol ng mga kamay o paa, 5:33
 - parusahan sila ng katulad ng iyong tiniis, 16:126
 - ng buhay na ito at ng Kabilang Buhay, 24:19; 68:33
-Paglilinis,
-- panlabas na katawan, 4:43; 5:6;
+Paglilinis
+- panlabas na katawan, 4:43; 5:6
 - espiritwal (mula sa mga karumihan), 87:14; 91:9
 Qadar, 5:5; 64:11
 Qadr, S.97
@@ -1345,7 +1344,7 @@ Qarun (Korah), 28:76-82; 29:39
 Qasas, S.28
 Qiblah, 2:142-145, 149
 Qisas (Batas ng pagkakapantay-pantay sa kaparusahan), 2:178-179, 194; 5:45; 16:126; 17:33; 22:60;42:40
-Quran,
+Quran
 - inilarawan, 13:31, 36, 37; 14:1; 56:77-80
 - hindi maaaring gawin ng iba maliban kay Allah, 2:23; 10:38; 11:13; 17:88
 - kung ito ay nagmula sa iba maliban kay Allah, maraming magkakakontradiksyong matatagpuan roon, 4:82
@@ -1395,7 +1394,7 @@ Quran,
 - pagbabasa ng mga dalisay na pahina, 98:2
 - tingnan din ang Aklat; Pahayag
 Quraish, S.106
-Quraish,
+Quraish
 - mga di-naniniwala ng, 54:43-46, 51
 - pagpapasunod ng, 106:1-4
 Mga Rabino at mga monghe, 9:31, 34
@@ -1403,26 +1402,26 @@ Karera, magsikap na parang sa isang, sa mabubuting gawa, 5:48
 Ra'd, S.13
 Rahman, S.55
 Ang damit ng kabutihan ay mas mabuti, 7:26
-Ulan,
+Ulan
 - regalo ng Allah, 56:68-70
 - ng mga bato, 27:58
 Ramadan, 2:185
 Ramy, 2:200
-Ransom,
+Ransom
 - walang, na tatanggapin, 57:15
 - inaalok ng mga di-naniniwala, 3:91; 10:54; 13:18
-Fidyah, ng pag-aayuno, 2:196;
+Fidyah, ng pag-aayuno, 2:196
 - para sa pagpapalaya ng mga bihag, 8:67
 Rass, mga naninirahan ng, 25:38; 50:12
-Gantimpala,
+Gantimpala
 - ang Araw ng, 1:4; 37:20; 51:12; 56:56; 82:17-18; 96:7
 - mga tumatanggi sa, 107:1-7
 - ng isang kasamaan ay isang kasamaan na katulad nito, 42:40
-Pagkakasundo,
+Pagkakasundo
 - sinumang nagpapatawad at gumagawa ng, 42:40
 - sa pagitan ng lalaki at asawa, 4:35
 - sa pagitan ng mga mananampalataya, 49:9-10
-Talaan,
+Talaan
 - isang Rehistro na nakasulat, 83:7-9, 18-21
 - bawat bansa ay tatawagin sa kanyang, 45:28-29
 - mga nakasulat na pahina ng mga gawa ng bawat tao,81:10
@@ -1432,7 +1431,7 @@ Talaan,
 - sa likod, 84:10-15
 Mga anghel na nagtatala, 50:17-18, 23; 85:11
 Kaginhawahan, kasama ng kahirapan, 94:5-6
-Relihiyon,
+Relihiyon
 - walang pamimilit sa, 2:256
 - ay Islam, 3:19
 - ng Allah, 3:83-84
@@ -1449,7 +1448,7 @@ Relihiyon,
 - relihiyon ng ninuno, 43:22-24
 Pag-alala kay Allah, 63:9
 - sa, ang mga puso ay nakakahanap ng pahinga, 13:28
-Pagsisisi,
+Pagsisisi
 - tinatanggap kung ang kasamaan ay ginawa nang walang kaalaman at nagsisi agad pagkatapos, 4:17; 6:54
 - at walang bisa ang, kung ang mga masamang gawa ay ipinagpapatuloy, 4:18
 - tinatanggap Niya, at pinapatawad ang mga kasalanan, 4:25
@@ -1457,7 +1456,7 @@ Palugit para sa kasamaan, 3:178; 10:11; 12:110; 14:42,44; 29:53-55; 86:15-17
 Muling Pagkabuhay, 2:28, 7:53; 14:21; 16:38-40; 22:5-7; 23:15-16; 31:28, 41:39, 46:33-34; 50:3,20-29, 41-44; 64:7, 75:1-15; 79:10-12; 86:5-8
 - halimbawa sa kwento ni Ezra 2:259
 - Abraham 2:260
-- mga tao ng yungib 18:9-26;
+- mga tao ng yungib 18:9-26
 - babala sa mga tumatanggi sa muling pagkabuhay 17:49-52, 17:97-100, 19:66-72, 37:11-27, 50:1-15, 80:17-42
 Araw ng Muling Pagkabuhay, 7:89; 20:100-101, 124
 - ang Tunay na Araw, 78:39
@@ -1548,7 +1547,7 @@ Talaan na ibinigay sa likod, 84:10-15
 - ang Impiyerno ay dadalhin malapit, 89:23
 - ang Apoy ng Impiyerno ay aalisan ng takip, sisindihan nang matinding apoy, 81:11-12
 - ang Paghihiganti sa pamamagitan ng kawanggawa ay magiging kabayaran, 5:45
-Pahayag,
+Pahayag
 - kung ikaw ay nag-aalinlangan, 2:23-24
 - binago o nakalimutang Talata, 2:106
 - tamang patnubay, 3:73
@@ -1560,13 +1559,13 @@ Pahayag,
 - ng Aklat ay nagmumula kay Allah, 46:2
 - tingnan din ang Aklat at Quran
 Paghihiganti ng mapang-abusong kasamaan na ginawa sa kanila, 42:39-43
-Gantimpala,
+Gantimpala
 - ayon sa pinakamahusay na mga gawa, at higit pa, 24:38; 29:7; 39:35
 - bilang isang gantimpala 25:15
 - ginagantimpalaan ng Allah ang mga gumagawa ng mabuti ng pinakamabuti, 53:31
 - para sa mabuti, walang gantimpala kundi ang mabuti, 55:60
 Riba (Tingnan ang usura)
-Matuwid,
+Matuwid
 - kasama ng mga, 4:69
 - magmamana ng lupa, 21:105
 - sa Paraiso, 51:15-19; 76:5-12
@@ -1585,7 +1584,7 @@ Ruh (kaluluwa, espiritu), 15:29; 17:85; 58:22
 Rum, S.30
 Saba' (Sheba), 27:22-44; 34:15-21
 Saba', S.34
-Sabbath,
+Sabbath
 - mga lumalabag sa, 2:65; 4:154; 7:163-166
 - itinakda lamang para sa, 16:124
 Mga Sabiano, 5:69; 22:17
@@ -1611,23 +1610,23 @@ Satanas, 2:36, 168, 208, 268, 275; 3:36, 155, 175;4:38, 60, 76, 83, 119-120; 5:8
 - walang kapangyarihan sa mga mananampalataya, 16:99-100
 - nagtatapon ng kasinungalingan, 22:52-53
 - isang kaaway, 12:5; 35:6; 36:60
-- kayabangan 2:34; 7:11-27; 15:26-43; 17:61-65; 38:73-85;
-- isang jinn 18:50-51;
-- tukso at pagkahulog ni Adam 7:20-23; 20:116-121;
-- walang awtoridad sa mga mananampalataya 16:98-100;
-- ang kanyang layunin 35:6-8;
-- isang nakumpirmang kaaway ng sangkatauhan 12:5; 17:53;
-- ang kanyang partido 53:14-19;
-- ang kanyang gawa 5:90-91;
-- pinipigilan ang mabubuting gawa 2:268;
-- ang mga mananampalataya ay nagtatakbuhan sa Allah mula sa kanya 7:200-202;
-- ang kanyang mga pakana ay mahina 4:76;
-- iniiwan ang kanyang mga tagasunod 8:48;
+- kayabangan 2:34; 7:11-27; 15:26-43; 17:61-65; 38:73-85
+- isang jinn 18:50-51
+- tukso at pagkahulog ni Adam 7:20-23; 20:116-121
+- walang awtoridad sa mga mananampalataya 16:98-100
+- ang kanyang layunin 35:6-8
+- isang nakumpirmang kaaway ng sangkatauhan 12:5; 17:53
+- ang kanyang partido 53:14-19
+- ang kanyang gawa 5:90-91
+- pinipigilan ang mabubuting gawa 2:268
+- ang mga mananampalataya ay nagtatakbuhan sa Allah mula sa kanya 7:200-202
+- ang kanyang mga pakana ay mahina 4:76
+- iniiwan ang kanyang mga tagasunod 8:48
 - nakikipag-usap sa kanyang mga tagasunod sa Impiyerno 14:22
 - tingnan din ang Iblis
 Timbangan, matagumpay, ang mabigat ay, 7:8-9
 - tingnan din ang balanse
-Kasulatan,
+Kasulatan
 - mga tao ng, (Mga Hudyo at Kristiyano), 2:109;3:64-65, 69-72, 75, 98-99, 110, 113,199; 4:47, 153-161; 5:59-60, 68; 98:1
 - ang kanilang mga itinatago, 5:61-63
 - sa kanila yaong nasa tamang landas,5:66
@@ -1635,7 +1634,7 @@ Kasulatan,
 Mga Dagat, 42:32-33; 45:12
 - ang dalawa, 18:60; 25:53; 35:12; 55:19-20
 - kapag nagbulwak, 82:3
-Sikreto (Najwa),
+Sikreto (Najwa)
 - mga usapan, 4:114
 - payo ng tatlo, 58:7
 - mga payo, 58:8, 10
@@ -1644,10 +1643,10 @@ Mga sekta at pagkakabiyak sa relihiyon, 6:15; 23:53;30:32; 42:13-14; 43:65; 45:1
 Kaligtasan, pagkatapos ng kaguluhan, nagpadala Siya ng, 3:154
 Binhi, sino ang nagpapalaki nito, 56:63-67
 Mga pandama, 23:78
-Pitong nilikha,
+Pitong nilikha
 - mga langit, 2:29; 23:17; 65:12; 67:3; 71:15
 - at ng lupa na katulad nito, 65:12
-Anino,
+Anino
 - kay Allah nagpapatirapa, 13:15; 16:48
 pagkalat ng, 25:45
 Shams, S.91
@@ -1679,12 +1678,12 @@ Mga Alipin, 2:177-178; 4:25, 36, 92; 5:89; 24:33; 58:3; 90:13
 Tulog, isang bagay para sa pahinga, 78:9
 Sodom, 29:31; 37:136
 Sodomy, 7:80-82; 11:77-83; 15:61-77; 29:28-29
-Solomon, 2:102; 4:163; 6:84;
-- tinutulungan ang kanyang amang si David na maabot ang mas makatarungang hatol 21:78-82;
+Solomon, 2:102; 4:163; 6:84
+- tinutulungan ang kanyang amang si David na maabot ang mas makatarungang hatol 21:78-82
 - at ang mga langgam, 27:15-19
 - at ang abubong ibon, 27:20-26
 - at ang Reyna ng Saba', 27:22-44; 34:15
-- mga pabor ng Allah sa kanya 34:12-14, 38:34-40;
+- mga pabor ng Allah sa kanya 34:12-14, 38:34-40
 - ang kanyang pagmamahal sa magagandang kabayo 38:30-33
 Anak, ampon, 33:4-5
 Kaluluwa (espiritu, Ruh), 15:29; 17:85; 58:22
@@ -1704,8 +1703,8 @@ Mga samsam ng digmaan, 8:41, 69; 48:15, 19-20; 48:15
 Paniktik, 49:12
 Bituin, 53:1, 49; 86:1-4
 Mga Bituin, 7:54; 15:16; 16:12, 16; 22:18; 25:61;37:6-10; 56:75; 77:8; 81:2; 82:2
-Tuwid, Daan, 1:6,
-- atbp. Landas, 6:153,
+Tuwid, Daan, 1:6
+- atbp. Landas, 6:153
 - atbp. Pagsisikap, 4:95; 8:72, 74, 75; 9:20, 24, 81; 22:78; 25:52; 29:69:69; 47:3; 60:1; 61:11
 Pagpapasuso, ang panahon nito, ama ng gatas, 2:233
 Pagdurusa, kahirapan, pagkawala ng kalusugan at mga sakuna; kasaganaan at kayamanan, 7:94-96
@@ -1775,7 +1774,7 @@ Usura (Riba), 2:275-276, 278-280; 3:130;4:161; 30:39
 Belo, isang hindi nakikita, 17:45-46
 Pagtatakip, 24:31; 33:59
 Mga Talata, Sab' Al-Mathani, 15:87
-Tagumpay,
+Tagumpay
 - ibinigay ng Allah, 48:1
 - sa pamamagitan ng tulong mula kay Allah, 61:13
 Mga Birtud, (tingnan ang Katuwiran; Mga Mananampalataya)
@@ -1792,7 +1791,7 @@ Daan, ang, 1:6; 42:52-53; 90:10
 - atbp. madali, gawing madali, 87:8
 - tingnan din ang Landas
 Manlalakbay, 2:177, 215; 8:41; 17:26; 29:29;30:38; 59:7
-Kayamanan,
+Kayamanan
 - yaong nag-iipon, 104:2-4
 - paggastos sa Dahilan ng Allah (tingnan ang Gumastos)
 Kayamanan at mga anak, palamuti ng buhay ng mundong ito, 18:46
@@ -1810,7 +1809,7 @@ Alak (sa Paraiso)
 - mga ilog ng, 47:15
 - dalisay na selyado, 83:25
 Huwag naisin ang mga bagay kung saan pinagpala ng Allah ang ilan nang higit sa iba, 4:32
-Mga Saksi,
+Mga Saksi
 - sa kasunduan ng mga Propeta, 3:81
 - sa sangkatauhan, 2:143; 22:78
 - para sa isang kontrata, 2:282
@@ -1820,7 +1819,7 @@ Mga Saksi,
 - ang mga kamay at paa ay magpapatotoo, 36:65
 - ang lalaki laban sa kanyang sarili, 75:14
 Araw ng Pagiging Saksi at Araw na Sinasaksihan, 85:3
-Mga Asawa,
+Mga Asawa
 - isang bukid para sa inyo, 2:223
 - takip para sa inyo, 2:187
 - ng inyong sariling uri, 16:72
@@ -1831,7 +1830,7 @@ Mga Babae, 2:222-223; 4:15, 19-22, 34, 127
 - mga naniniwalaang babae, bilang mga emigrante, 60:10-12
 Kahoy, mga naninirahan ng, 15:78; 38:13; 50:14
 - tingnan din ang Aikah; Madyan 26:176-191
-Mundo, buhay ng,
+Mundo, buhay ng
 - wala nang iba kundi laro at kasiyahan, 6:32;29:64; 47:36; 57:20
 - nanlilinlang sa mga tao, 6:130
 - kaunti ang kasiyahan ng, kumpara sa Kabilang Buhay, 9:38; 13:26; 28:60-61
@@ -1843,7 +1842,7 @@ Mga Makasama,11:18-22, 101-104, 116-117;39:47
 - tingnan din ang Mga Di-naniniwala
 Wudu' (Mga Ablusiyon), 4:43; 5:6
 Yaghuth, 71:23
-Yahya (Juan),
+Yahya (Juan)
 - magandang balita ng, 3:39; 21:90
 - matuwid, 6:85
 - matalino; mahabagin; masunurin, 19:12-15
@@ -1864,52 +1863,52 @@ Zihar, 33:4; 58:2-4
 Zukhruf, S.43
 Zumar, S.39
 Mga pangunahing paniniwala
-- Ang pananampalataya ay naging perpekto 5:3;
-- tanging Daan na tinatanggap ng Allah 3:19, 85;
-- walang pamimilit sa pagtanggap ng Islam 2:256;
-- isang relihiyon na may iba't ibang pananampalataya at mga batas 5:48; 22:67-70; 42:13-14;
-- mga propeta ng Islam 2:135-136; 3:84; 4:163-165;
-- mga utos (maniwala kay Allah at gumawa ng mabuti) 4:36; 6:151-154;17:23-39;18:107-108;
-- limang layunin ng Sharia: pangangalaga ng pananampalataya 5:54;
-- pangangalaga ng buhay 5:32;6:151;
-- pangangalaga ng kayamanan 5:38;
-- pangangalaga ng karangalan 5:5;24:4;
+- Ang pananampalataya ay naging perpekto 5:3
+- tanging Daan na tinatanggap ng Allah 3:19, 85
+- walang pamimilit sa pagtanggap ng Islam 2:256
+- isang relihiyon na may iba't ibang pananampalataya at mga batas 5:48; 22:67-70; 42:13-14
+- mga propeta ng Islam 2:135-136; 3:84; 4:163-165
+- mga utos (maniwala kay Allah at gumawa ng mabuti) 4:36; 6:151-154;17:23-39;18:107-108
+- limang layunin ng Sharia: pangangalaga ng pananampalataya 5:54
+- pangangalaga ng buhay 5:32;6:151
+- pangangalaga ng kayamanan 5:38
+- pangangalaga ng karangalan 5:5;24:4
 - pangangalaga ng kakayahang mag-isip 5:90.
 Paniniwala kay Allah 2:255
-- Mga katangiang Diyos, Magagandang Pangalan 57:1-6; 59:22-24; 85:13-16; 112:1-4;
-- tanging diyos na karapat-dapat sambahin 1:1-4; 2:285; 6:3; 43:84;
-- lahat ng awtoridad ay sa Kanya 3:26; Ang Kanyang Trono ('Arsh) 7:54; 11:7;
-- Ang Kanyang Kursi (tuntungan o upuan) 2:255;
-- walang katapusang mga pabor sa sangkatauhan 14:32-34; 2:164; 16:2-93; 31:20; 55:1-25;
-- nagbibigay ng buhay at nagdudulot ng kamatayan 44:8; 53:44; 57:2; 67:2;
-- nagdudulot ng kagalakan at kalungkutan 53:43;
-- nagbibigay ng sagana o limitadong probisyon 13:26; 17:30; 29:62;
-- Pinakamahusay sa lahat ng mga hukom 95:8;
-- Pinaka-mahabagin sa mga mahabagin 12:92;
-- minamahal ang matuwid 85:14;
-- puno ng Pagpapatawad at mahigpit sa kaparusahan 13:6, 40:3;
-- ang Una at ang Huli 57:3;
-- lahat ng karangalan at kapangyarihan ay sa Kanya 35:10;
-- nakakaalam ng hindi alam at nakakakita ng hindi nakikita 6:59,73; 9:94, 105; 13:8-10; 31:34; 32:6; 34:48; 35:38; 39:46; 49:18; 59:22; 62:8; 64:18; 72:26; 74:31; 87:7;
-- pinaka-nakaaalam ng nakatago sa puso 5:7; 11:5; 31:23;
-- nakakaalam ng nangyari at ng darating 2:255;
-- isinulat ang lahat sa Talaan (o ang Napanatiling Tapyas) 6:38; 13:39; 36:12;
-- may kakayahang gumawa ng anumang bagay 2:117; 3:189; 8:41; 9:116; 11:4; 16:40; 40:68; 41:39; 42:49;57:2;
-- Ang Kanyang walang hanggang kapangyarihan 3:26-27; 24:45; 31:28-30;
-- nilikha ang mga langit at lupa sa anim na Araw at hindi napagod 46:33; 50:38;
-- lumilikha sa salitang 'Maging!' 36:81-83;
-- hindi kailanman nagkakamali sa Kanyang nilikha 3:108; 4:40; 17:71; 21:47; 22:10; 26:209; 40:31; 41:46; 45:22; 50:29; 64:11; 78:6-16;
-- lahat ay nagpapasakop sa Kanyang Kalooban 3:83; 22:18; 30:26;
-- lahat ay nangangailangan sa Kanya 11:6; 35:15; 55:29;
-- magtiwala sa Kanya 10:84-85; 12:67; 25:58;
-- mga anyo ng banal na komunikasyon 42:51;
-- karapat-dapat na mapag-ingatan 2:21; 3:102; 4:1; 33:70-71; 59:18;
-- ang karunungan ay isang kaloob mula sa Kanya 2:269;
-- hindi Siya nangangailangan ng sinuman 3:97; 6:133; 112:2;
-- hindi isa sa isang Trinidad 4:171;
-- walang kasama 6:101;
-- walang mga anak 10:68; 19:35; 43:81; 72:3; 112:3;
-- walang mga kasosyo o mga katuwang na diyos 6:94; 7:191-195; 46:4-5;
+- Mga katangiang Diyos, Magagandang Pangalan 57:1-6; 59:22-24; 85:13-16; 112:1-4
+- tanging diyos na karapat-dapat sambahin 1:1-4; 2:285; 6:3; 43:84
+- lahat ng awtoridad ay sa Kanya 3:26; Ang Kanyang Trono ('Arsh) 7:54; 11:7
+- Ang Kanyang Kursi (tuntungan o upuan) 2:255
+- walang katapusang mga pabor sa sangkatauhan 14:32-34; 2:164; 16:2-93; 31:20; 55:1-25
+- nagbibigay ng buhay at nagdudulot ng kamatayan 44:8; 53:44; 57:2; 67:2
+- nagdudulot ng kagalakan at kalungkutan 53:43
+- nagbibigay ng sagana o limitadong probisyon 13:26; 17:30; 29:62
+- Pinakamahusay sa lahat ng mga hukom 95:8
+- Pinaka-mahabagin sa mga mahabagin 12:92
+- minamahal ang matuwid 85:14
+- puno ng Pagpapatawad at mahigpit sa kaparusahan 13:6, 40:3
+- ang Una at ang Huli 57:3
+- lahat ng karangalan at kapangyarihan ay sa Kanya 35:10
+- nakakaalam ng hindi alam at nakakakita ng hindi nakikita 6:59,73; 9:94, 105; 13:8-10; 31:34; 32:6; 34:48; 35:38; 39:46; 49:18; 59:22; 62:8; 64:18; 72:26; 74:31; 87:7
+- pinaka-nakaaalam ng nakatago sa puso 5:7; 11:5; 31:23
+- nakakaalam ng nangyari at ng darating 2:255
+- isinulat ang lahat sa Talaan (o ang Napanatiling Tapyas) 6:38; 13:39; 36:12
+- may kakayahang gumawa ng anumang bagay 2:117; 3:189; 8:41; 9:116; 11:4; 16:40; 40:68; 41:39; 42:49;57:2
+- Ang Kanyang walang hanggang kapangyarihan 3:26-27; 24:45; 31:28-30
+- nilikha ang mga langit at lupa sa anim na Araw at hindi napagod 46:33; 50:38
+- lumilikha sa salitang 'Maging!' 36:81-83
+- hindi kailanman nagkakamali sa Kanyang nilikha 3:108; 4:40; 17:71; 21:47; 22:10; 26:209; 40:31; 41:46; 45:22; 50:29; 64:11; 78:6-16
+- lahat ay nagpapasakop sa Kanyang Kalooban 3:83; 22:18; 30:26
+- lahat ay nangangailangan sa Kanya 11:6; 35:15; 55:29
+- magtiwala sa Kanya 10:84-85; 12:67; 25:58
+- mga anyo ng banal na komunikasyon 42:51
+- karapat-dapat na mapag-ingatan 2:21; 3:102; 4:1; 33:70-71; 59:18
+- ang karunungan ay isang kaloob mula sa Kanya 2:269
+- hindi Siya nangangailangan ng sinuman 3:97; 6:133; 112:2
+- hindi isa sa isang Trinidad 4:171
+- walang kasama 6:101
+- walang mga anak 10:68; 19:35; 43:81; 72:3; 112:3
+- walang mga kasosyo o mga katuwang na diyos 6:94; 7:191-195; 46:4-5
 - walang katulad sa Kanya 42:11; 112:4
 Utos na mag-isip sa mga kahanga-hangang nilikha Niya 3:190; 6:99; 10:5-6; 13:3-4; 16:10-16; 88:17-20
 Mga Tanda sa paglikha 2:164; 6:95-99; 7:57-58; 10:5-6; 13:2-4; 16:10-13, 65-69, 79; 23:27-30; 27:60-65; 30:19-25; 50:6-11
@@ -1930,21 +1929,21 @@ Mga Tanda sa paglikha 2:164; 6:95-99; 7:57-58; 10:5-6; 13:2-4; 16:10-13, 65-69, 
 - ambon, yelo at ulan 2:265; 6:99; 24:43; 50:9-11
 - kulog at kidlat 13:12-13
 Mga sangguniang siyentipiko
-- ang mga tao ay nilikha mula sa mga selula ng lalaki at babae 76:2;
-- pagbuo at mga yugto ng pag-unlad ng isang embryo 22:5; 23:12-14;
-- fetus sa tatlong antas ng kadiliman 39:6;
-- mapait na tubig 25:53-54; 35:12; 55:19-20;
-- polinasyon ng hangin 15:22;
-- mga bakas ng daliri 75:3-4;
-- mga bundok bilang mga tulos 78:7;
-- ang bakal ay ipinadala 57:25;
-- mga receptor ng sakit 4:56;
-- ang araw bilang isang nagliliwanag na pinagkukunan at ang buwan bilang isang salaming liwanag 10:5;
-- pagbibiyak ng buwan 54:1;
-- langit bilang isang mahusay na pinanatiling bubong 21:32;
-- lahat ng nilalang ay nilikha mula sa tubig 21:30; 24:45;
-- ang mga langgam ay nakikipag-usap 27:17-19;
-- mga panloob na alon 24:40;
+- ang mga tao ay nilikha mula sa mga selula ng lalaki at babae 76:2
+- pagbuo at mga yugto ng pag-unlad ng isang embryo 22:5; 23:12-14
+- fetus sa tatlong antas ng kadiliman 39:6
+- mapait na tubig 25:53-54; 35:12; 55:19-20
+- polinasyon ng hangin 15:22
+- mga bakas ng daliri 75:3-4
+- mga bundok bilang mga tulos 78:7
+- ang bakal ay ipinadala 57:25
+- mga receptor ng sakit 4:56
+- ang araw bilang isang nagliliwanag na pinagkukunan at ang buwan bilang isang salaming liwanag 10:5
+- pagbibiyak ng buwan 54:1
+- langit bilang isang mahusay na pinanatiling bubong 21:32
+- lahat ng nilalang ay nilikha mula sa tubig 21:30; 24:45
+- ang mga langgam ay nakikipag-usap 27:17-19
+- mga panloob na alon 24:40
 Mga Nabubuhay na nilalang
 - mga anghel 39:75
 - mga tao (awtoridad sa lupa) 2:30; 6:165; 16:4
@@ -1977,366 +1976,366 @@ Mga Nabubuhay na nilalang
 - gagamba 29:41
 - iba pa na hindi natin kilala 16:8
 Mga halaman at prutas 6:99; 13:4; 16:11; 36:33-35
-- mga saging 56:29,
-- mga datiles 19:25,
-- mga damo, pipino, bawang, lentil, at sibuyas 2:61,
-- mga ubas 80:28,
-- mga olibo 6:99,
-- igos 95:1,
-- mga granada 55:68,
+- mga saging 56:29
+- mga datiles 19:25
+- mga damo, pipino, bawang, lentil, at sibuyas 2:61
+- mga ubas 80:28
+- mga olibo 6:99
+- igos 95:1
+- mga granada 55:68
 - kalabasa 37:146
 Paniniwala kay Muhammad
-- Mga katangian, propeta lamang 3:144; 6:50; 7:188; 18:110;
-- upang maihatid ang katotohanan 2:119; 35:24; 42:48;
-- tatak ng mga propeta 33:40;
-- marangal na karakter 3:159; 68:4;
-- isang huwaran 33:21;
-- bilang isang pabor sa mga mananampalataya 3:164;
-- isang awa sa buong mundo 21:107;
-- isang pangkalahatang sugo 4:170; 7:157-158; 34:28;
-- nagdadala sa Tamang Landas 42:52-53;
-- nagmamalasakit sa mga tao 9:129;
-- bilang saksi sa Araw ng Paghuhukom 4:42; 16:89;
-- propetang hindi marunong bumasa at sumulat 7:157-158; 29:48; 62:2;
-- inihula sa Torah at Ebanghelyo 7:157;
+- Mga katangian, propeta lamang 3:144; 6:50; 7:188; 18:110
+- upang maihatid ang katotohanan 2:119; 35:24; 42:48
+- tatak ng mga propeta 33:40
+- marangal na karakter 3:159; 68:4
+- isang huwaran 33:21
+- bilang isang pabor sa mga mananampalataya 3:164
+- isang awa sa buong mundo 21:107
+- isang pangkalahatang sugo 4:170; 7:157-158; 34:28
+- nagdadala sa Tamang Landas 42:52-53
+- nagmamalasakit sa mga tao 9:129
+- bilang saksi sa Araw ng Paghuhukom 4:42; 16:89
+- propetang hindi marunong bumasa at sumulat 7:157-158; 29:48; 62:2
+- inihula sa Torah at Ebanghelyo 7:157
 - ipinagbalita ni Hesus 61:6
 Mga hamong kinaharap ng Propeta (ﷺ)
-- mga walang kabuluhang hinihingi ng mga pagano 8:32; 15:7; 17:89-93; 25:7-8;
-- mga maling paratang 10:2; 11:13; 21:5; 24:11-26; 25:4-6; 37:36; 38:4; 52:29-30;
-- mga pagtatangkang saktan ang kanyang buhay 8:30; 9:74;
-- babala sa mga nananakit o sumasalungat sa kanya 4:115; 8:13; 9:61; 15:95; 33:57; 47:32; 96:9-19;
-- inutusan na tumugon sa pagtanggi nang may pasensya 20:130; 30:60; 46:35; 70:5;
+- mga walang kabuluhang hinihingi ng mga pagano 8:32; 15:7; 17:89-93; 25:7-8
+- mga maling paratang 10:2; 11:13; 21:5; 24:11-26; 25:4-6; 37:36; 38:4; 52:29-30
+- mga pagtatangkang saktan ang kanyang buhay 8:30; 9:74
+- babala sa mga nananakit o sumasalungat sa kanya 4:115; 8:13; 9:61; 15:95; 33:57; 47:32; 96:9-19
+- inutusan na tumugon sa pagtanggi nang may pasensya 20:130; 30:60; 46:35; 70:5
 - tiniyak ng Allah 5:67; 93:1-11; 94:1-8
 Mga aral mula sa buhay ng Propeta (ﷺ)
-- mula sa kanyang paglilipat (hijrah) hanggang sa Labanan ng Badr 3:121-129; 8:42-44; 8:65-71;
-- Labanan ng Uhud 3:151-180;
-- Labanan ng Hukay 33:9-27;
-- Labanan ng Hunain 9:25-27;
-- Madinah 9:40; Tabuk 9:38-123;
-- Banu An-Nadir 59:2-6;
-- Hamra' Al-Asad 3:172-175;
+- mula sa kanyang paglilipat (hijrah) hanggang sa Labanan ng Badr 3:121-129; 8:42-44; 8:65-71
+- Labanan ng Uhud 3:151-180
+- Labanan ng Hukay 33:9-27
+- Labanan ng Hunain 9:25-27
+- Madinah 9:40
+- Tabuk 9:38-123
+- Banu An-Nadir 59:2-6
+- Hamra' Al-Asad 3:172-175
 - Kasunduan ng Hudaibiyah 48:1-7; 48:10-29
 Mga karangalang ipinagkaloob sa Propeta (ﷺ)
-- pinagpala siya ng Allah at ng Kanyang mga anghel 33:56;
-- paglalakbay sa gabi mula sa Mecca patungong Jerusalem 17:1;
-- paglalakbay sa mga langit 53:1-18;
-- pinarangalan sa buhay na ito at sa susunod 17:79; 66:8; 108:1;
-- ang pagsunod sa kanya ay pagsunod kay Allah 4:80;
-- gantimpala ng pagsunod kay Allah at sa Kanyang Sugo 4:69;
-- ang kanyang pamilya ay dinalisa 33:33-34;
-- nakita si Gabriel sa kanyang tunay na anyo 53:1-18;
-- ang mga mananampalataya ay inutusang sundin siya 59:7;
+- pinagpala siya ng Allah at ng Kanyang mga anghel 33:56
+- paglalakbay sa gabi mula sa Mecca patungong Jerusalem 17:1
+- paglalakbay sa mga langit 53:1-18
+- pinarangalan sa buhay na ito at sa susunod 17:79; 66:8; 108:1
+- ang pagsunod sa kanya ay pagsunod kay Allah 4:80
+- gantimpala ng pagsunod kay Allah at sa Kanyang Sugo 4:69
+- ang kanyang pamilya ay dinalisa 33:33-34
+- nakita si Gabriel sa kanyang tunay na anyo 53:1-18
+- ang mga mananampalataya ay inutusang sundin siya 59:7
 - etiketa ng pakikipag-usap sa kanya 49:1-5
-- etiketa ng pagbisita sa kanya 33:53;
-- etiketa ng pakikitungo sa kanyang mga asawa 33:53;
-- nalulugod si Allah sa kanya at sa kanyang mga kasama 9:100; 9:117;
+- etiketa ng pagbisita sa kanya 33:53
+- etiketa ng pakikitungo sa kanyang mga asawa 33:53
+- nalulugod si Allah sa kanya at sa kanyang mga kasama 9:100; 9:117
 - kahusayan ng kanyang pamayanan ng pananampalataya 2:143; 3:110
-Panalangin (salah) 2:45; 9:103; 51:18; 70:22-23; 75:31; 96:10; 108:2;
-- pagtitipon sa Biyernes 62:9;
-- direksyon ng panalangin (qiblah) 2:144; 2:149-150;
-- dapat hadlangan ang isa mula sa masamang mga gawa 29:45;
-- mga oras 11:114; 17:78; 17:79; 20:130; 24:36; 24:58; 30:17-18; 32:16; 38:18; 50:39-40; 51:17; 52:48-49; 73:2-4; 76:25-26;
-- habang nasa panganib o sa paglalakbay 2:239; 4:101-102;
-- babala sa mga nagpapabaya ng mga panalangin 19:59; 74:38-47; 107:5-7;
+Panalangin (salah) 2:45; 9:103; 51:18; 70:22-23; 75:31; 96:10; 108:2
+- pagtitipon sa Biyernes 62:9
+- direksyon ng panalangin (qiblah) 2:144; 2:149-150
+- dapat hadlangan ang isa mula sa masamang mga gawa 29:45
+- mga oras 11:114; 17:78; 17:79; 20:130; 24:36; 24:58; 30:17-18; 32:16; 38:18; 50:39-40; 51:17; 52:48-49; 73:2-4; 76:25-26
+- habang nasa panganib o sa paglalakbay 2:239; 4:101-102
+- babala sa mga nagpapabaya ng mga panalangin 19:59; 74:38-47; 107:5-7
 - mga panalangin ng mga mapagkunwari 4:142; 9:54
-Paglilinis, ablusiyon (wudu) 5:6;
-- buong paliligo (ghusl) 2:222; 4:43;
+Paglilinis, ablusiyon (wudu) 5:6
+- buong paliligo (ghusl) 2:222; 4:43
 - tuyong ablusiyon (tayammum) 4:43; 5:6
 Mga pagsamo (du'a)
-- ni Abraham 2:126-129; 2:126-129; 14:35-41; 26:83-89;
-- ni Adam at Eva 7:23;
-- ni Hesus 5:114;
-- ni Job 21:83; 21:83;
-- ni Jonah 21:87;
-- ni Joseph 12:33; 12:101;
-- ni Moises 10:88-89; 20:25-35;
+- ni Abraham 2:126-129; 2:126-129; 14:35-41; 26:83-89
+- ni Adam at Eva 7:23
+- ni Hesus 5:114
+- ni Job 21:83; 21:83
+- ni Jonah 21:87
+- ni Joseph 12:33; 12:101
+- ni Moises 10:88-89; 20:25-35
 - ni Muhammad 17:80; 20:114
-- ni Noah 23:26; 26:117-118; 54:9-10; 71:26; 71:28;
-- ni Solomon 38:35;
-- ni Shuaib 7:89;
-- ni Zachariah 3:38; 19:2-6; 21:89-90;
-- mga anghel 40:8-9;
-- ina ni Maria 3:35-36;
-- asawa ni Paraon 66:11;
-- mga salamangkero ni Paraon 7:126;
-- si Haring Saul at ang mga mananampalatayang kasama niya 2:250;
-- ang mga mananampalataya ng mga Anak ni Israel 10:85-86;
-- ang mga tao ng yungib 18:10;
-- ang matuwid 2:285-286; 3:8-9; 3:16; 3:147; 3:191-194; 25:74; 59:10;
+- ni Noah 23:26; 26:117-118; 54:9-10; 71:26; 71:28
+- ni Solomon 38:35
+- ni Shuaib 7:89
+- ni Zachariah 3:38; 19:2-6; 21:89-90
+- mga anghel 40:8-9
+- ina ni Maria 3:35-36
+- asawa ni Paraon 66:11
+- mga salamangkero ni Paraon 7:126
+- si Haring Saul at ang mga mananampalatayang kasama niya 2:250
+- ang mga mananampalataya ng mga Anak ni Israel 10:85-86
+- ang mga tao ng yungib 18:10
+- ang matuwid 2:285-286; 3:8-9; 3:16; 3:147; 3:191-194; 25:74; 59:10
 - ang mga inaapi 4:75
 Mga talata ng pagpapatirapa
 - sajadat, pangmaramihan ng sajdah, 7:206; 13:15; 16:49; 17:109; 19:58; 22:18; 22:77; 25:60; 27:26; 32:15; 38:24; 41:37; 53:62; 84:21; 96:19
-Buwis ng kawanggawa (zakah), bilang isang obligasyon 2:110; 2:177; 2:277; 6:141;
-- isa sa mga katangian ng mga mananampalataya 22:41; 23:4; 51:19;
+Buwis ng kawanggawa (zakah), bilang isang obligasyon 2:110; 2:177; 2:277; 6:141
+- isa sa mga katangian ng mga mananampalataya 22:41; 23:4; 51:19
 - mga tatanggap 9:60
 - kawanggawa (sadaqah) 2:177; 2:261-263; 2:267-274; 3:92; 63:10
 - babala sa mga nagtatago nito 3:180; 9:34; 47:38
 Pag-aayuno (sawm)
-- sa Ramadan 2:183-185;
-- mga oras ng pag-aayuno 2:187;
-- mga pagbubukod 2:184-185;
-- pakikipagtalik sa gabi bago ang pag-aayuno 2:187;
+- sa Ramadan 2:183-185
+- mga oras ng pag-aayuno 2:187
+- mga pagbubukod 2:184-185
+- pakikipagtalik sa gabi bago ang pag-aayuno 2:187
 - pag-aayuno sa panahon ng paglalakbay-pagdasal 2:196
-Paglalakbay-pagdasal (hajj),
-- isang obligasyon sa mga may kakayahan 3:97;
-- mga ritwal at mga tuntunin 2:158; 2:189; 2:196-203; 5:2; 22:26-37;
-- mga handog sa sakripisyo 2:196; 22:36-37;
-- pagbabawal ng pangangaso sa lupa habang nasa paglalakbay-pagdasal 5:1; 5:94-95;
+Paglalakbay-pagdasal (hajj)
+- isang obligasyon sa mga may kakayahan 3:97
+- mga ritwal at mga tuntunin 2:158; 2:189; 2:196-203; 5:2; 22:26-37
+- mga handog sa sakripisyo 2:196; 22:36-37
+- pagbabawal ng pangangaso sa lupa habang nasa paglalakbay-pagdasal 5:1; 5:94-95
 - pahintulot ng pangangaso sa dagat 5:96
 - Menor na paglalakbay-pagdasal ('umrah) 2:158; 2:196
 Mga pamayanan ng pananampalataya
-- mga Muslim 2:132-136; 3:64; 3:84; 5:111; 22:77-78; 33:35; 41:33; 43:67-70; 72:14-15;
-- mga tagapag-alaga ng isa't isa 3:28; 9:71;
-- mga Kristiyano 2:62; 2:111-140; 4:171-172; 5:14-19; 5:82-86; 5:116-120; 9:30-31; 22:17;
-- mga Hudyo 2:62, 111-140; 5:44-45; 6:146; 22:17; 62:6-8;
-- mga Anak ni Israel 2:40-103, 122-123, 246-251; 3:49; 3:93-94; 5:12-13, 20-26, 32, 70-71, 78-81; 7:137-141, 148-153,159-171; 10:83-93; 14:5-8; 17:2-8, 104; 20:80-98; 26:52-67, 197; 27:76; 44:23-33; 45:16-17; 46:10; 61:5-6;
+- mga Muslim 2:132-136; 3:64; 3:84; 5:111; 22:77-78; 33:35; 41:33; 43:67-70; 72:14-15
+- mga tagapag-alaga ng isa't isa 3:28; 9:71
+- mga Kristiyano 2:62; 2:111-140; 4:171-172; 5:14-19; 5:82-86; 5:116-120; 9:30-31; 22:17
+- mga Hudyo 2:62, 111-140; 5:44-45; 6:146; 22:17; 62:6-8
+- mga Anak ni Israel 2:40-103, 122-123, 246-251; 3:49; 3:93-94; 5:12-13, 20-26, 32, 70-71, 78-81; 7:137-141, 148-153,159-171; 10:83-93; 14:5-8; 17:2-8, 104; 20:80-98; 26:52-67, 197; 27:76; 44:23-33; 45:16-17; 46:10; 61:5-6
 - Mga Tao ng Aklat (pangunahin ang mga Hudyo at Kristiyano) 2:109; 3:64-115, 199; 4:123-172; 5:15-77; 6:20-21; 13:36; 28:52-55; 29:46-47; 57:16, 28-29; 74:31; 98:1-5
 - ang mga Muslim ay maaaring kumain mula sa mga hayop na inihandog nila at pakasalan ang kanilang mga babae 5:5
-- mga pagkain na ipinagbabawal sa mga Hudyo 6:146;
-- mga Sabiano 2:62; 22:17;
-- mga Magi 22:17;
-- mga politeista (mga pagano, mga sumasamba sa diyus-diyusan) 3:186; 6:148; 9:6, 17; 10:28; 16:86; 22:17; 53:19-30;
-- mga pamahiing gawi ng mga pagano 2:189; 5:103; 6:138-144;
+- mga pagkain na ipinagbabawal sa mga Hudyo 6:146
+- mga Sabiano 2:62; 22:17
+- mga Magi 22:17
+- mga politeista (mga pagano, mga sumasamba sa diyus-diyusan) 3:186; 6:148; 9:6, 17; 10:28; 16:86; 22:17; 53:19-30
+- mga pamahiing gawi ng mga pagano 2:189; 5:103; 6:138-144
 - mga ateista 52:35-36
 Mga gawi ng mga pagano na ipinagbabawal
-- paglilibing ng mga anak na babae nang buhay 16:58-59; 81:8-9;
-- pagpatay ng mga anak dahil sa takot sa kahirapan 6:137; 6:151; 17:31;
-- pagsipol at pagpalakpak sa paligid ng Ka'bah 8:35;
-- pagtalaga ng mga kamelyo sa mga diyus-diyusan 5:103; 6:136;
-- pagsasakripisyo sa pangalan ng mga diyus-diyusan 6:121;
-- zihar na diborsiyo 33:4; 58:2-4;
-- ila' (nang higit sa apat na buwan) 2:226-227;
-- pagguguhit ng palabunutan para sa mga desisyon 5:3;
-- pag-ikot sa Ka'bah nang hubad 7:26-28;
+- paglilibing ng mga anak na babae nang buhay 16:58-59; 81:8-9
+- pagpatay ng mga anak dahil sa takot sa kahirapan 6:137; 6:151; 17:31
+- pagsipol at pagpalakpak sa paligid ng Ka'bah 8:35
+- pagtalaga ng mga kamelyo sa mga diyus-diyusan 5:103; 6:136
+- pagsasakripisyo sa pangalan ng mga diyus-diyusan 6:121
+- zihar na diborsiyo 33:4; 58:2-4
+- ila' (nang higit sa apat na buwan) 2:226-227
+- pagguguhit ng palabunutan para sa mga desisyon 5:3
+- pag-ikot sa Ka'bah nang hubad 7:26-28
 - pagpasok sa mga tahanan mula sa mga pinto sa likod pagkatapos ng paglalakbay-pagdasal 2:189
-Mga bagay na sinasamba,
-- mga anghel (sa ilang mga pagano sa Arabia) 34:40;
-- Al-Aykah (sa mga tao ni Shu'aib) 26:176;
-- Ba'l (sa mga tao ni Elias) 37:125;
-- Hesus (sa Kristiyanismo) 5:17;
-- mga diyus-diyusan (sa mga tao ni Abraham) 21:52-53;
-- ang mga diyus-diyusan na Lat, 'Uzza, at Manat (sa mga pagano sa Arabia) 53:19-20;
-- ang mga diyus-diyusan na Wadd, Suwa', Yaghuth, Ya'uq, at Nasr (sa mga tao ni Noah) 71:23;
-- ang araw (ang mga tao ng Sheba) 27:24;
-- Sirius (sa ilang mga pagano sa Arabia) 53:49;
-- Paraon (sa sinaunang Ehipto) 26:29; 28:38; 79:24;
-- mga pagnanasa 25:43-44; 45:23;
+Mga bagay na sinasamba
+- mga anghel (sa ilang mga pagano sa Arabia) 34:40
+- Al-Aykah (sa mga tao ni Shu'aib) 26:176
+- Ba'l (sa mga tao ni Elias) 37:125
+- Hesus (sa Kristiyanismo) 5:17
+- mga diyus-diyusan (sa mga tao ni Abraham) 21:52-53
+- ang mga diyus-diyusan na Lat, 'Uzza, at Manat (sa mga pagano sa Arabia) 53:19-20
+- ang mga diyus-diyusan na Wadd, Suwa', Yaghuth, Ya'uq, at Nasr (sa mga tao ni Noah) 71:23
+- ang araw (ang mga tao ng Sheba) 27:24
+- Sirius (sa ilang mga pagano sa Arabia) 53:49
+- Paraon (sa sinaunang Ehipto) 26:29; 28:38; 79:24
+- mga pagnanasa 25:43-44; 45:23
 - ang paniniwala sa maraming diyos ay tinanggihan 17:42-43; 21:21-24; 25:3
-Mga lugar ng pagsamba, mga moske 9:18;
-- mga simbahan, mga sinagoga, at mga monasteryo 22:40;
-- kanlungan 3:39; 38:21;
+Mga lugar ng pagsamba, mga moske 9:18
+- mga simbahan, mga sinagoga, at mga monasteryo 22:40
+- kanlungan 3:39; 38:21
 - templo 17:7
 - Mga pamagat sa relihiyon, mga pari, mga monghe, at mga rabino 5:44; 5:63; 5:82; 9:31-34
-Mga Anghel,
+Mga Anghel
 - nagtatanong tungkol sa paglikha ni Adam 2:30-34
-- hindi kailanman sumusuway kay Allah 21:26-27; 66:6;
-- hindi mga anak na babae ng Allah 21:26; 43:16-19;
-- mga anghel na tagabantay 13:11;
-- dalawang anghel na nagtatala 50:16-18; 82:10-12;
-- walong nagdadala ng Trono ng Allah sa Araw ng Paghuhukom 69:17;
-- labinsampu't siyam na tagapagbantay ng Impiyerno 74:26-31;
-- Mga Anghel ng Kamatayan 6:93; 16:28; 32:11;
-- Gabriel 2:97; 66:4; 26:192-195; 53:1-14;
-- Michael 2:98;
+- hindi kailanman sumusuway kay Allah 21:26-27; 66:6
+- hindi mga anak na babae ng Allah 21:26; 43:16-19
+- mga anghel na tagabantay 13:11
+- dalawang anghel na nagtatala 50:16-18; 82:10-12
+- walong nagdadala ng Trono ng Allah sa Araw ng Paghuhukom 69:17
+- labinsampu't siyam na tagapagbantay ng Impiyerno 74:26-31
+- Mga Anghel ng Kamatayan 6:93; 16:28; 32:11
+- Gabriel 2:97; 66:4; 26:192-195; 53:1-14
+- Michael 2:98
 - Malik 43:77
 Mga Sugo
-- mula sa mga anghel at mga tao 22:75;
+- mula sa mga anghel at mga tao 22:75
 - Mga Sugo ng Matibay na Pasya (Abraham, Noah, Moises, Hesus, at Muhammad ﷺ) 33:7; 42:13; 46:35
 Mga Kasulatan
-- Quran, isang pahayag mula kay Allah 12:2-3; 20:2-4; 26:192-195; 32:2-3;
-- isang paalala sa buong mundo 68:51-52;
-- gabay sa pinaka-matuwid na paraan ng pamumuhay 17:9;
-- ang pahayag ay nagsimula sa buwan ng Ramadan 2:185;
-- sa isang pinagpalang gabi 44:3;97:1-5;
-- inihayag sa mga yugto 17:105-106;
-- ginawang madaling tandaan 54:17;
-- kinukumpirma ang katotohanan sa mga nakaraang pahayag 3:3-4;
-- isang pinakamataas na awtoridad sa mga nakaraang kasulatan 5:48;
-- walang pagdududa rito 2:2; 10:37;
-- walang mga kontradiksyon 4:82;
-- hindi gawa-gawa 10:37-39;
-- hindi kinopya mula sa Biblia 25:4-6;
-- hindi inihayag ng mga diyablo 26:210-212;
+- Quran, isang pahayag mula kay Allah 12:2-3; 20:2-4; 26:192-195; 32:2-3
+- isang paalala sa buong mundo 68:51-52
+- gabay sa pinaka-matuwid na paraan ng pamumuhay 17:9
+- ang pahayag ay nagsimula sa buwan ng Ramadan 2:185
+- sa isang pinagpalang gabi 44:3;97:1-5
+- inihayag sa mga yugto 17:105-106
+- ginawang madaling tandaan 54:17
+- kinukumpirma ang katotohanan sa mga nakaraang pahayag 3:3-4
+- isang pinakamataas na awtoridad sa mga nakaraang kasulatan 5:48
+- walang pagdududa rito 2:2; 10:37
+- walang mga kontradiksyon 4:82
+- hindi gawa-gawa 10:37-39
+- hindi kinopya mula sa Biblia 25:4-6
+- hindi inihayag ng mga diyablo 26:210-212
 - walang makakalikha ng katulad nito 17:88; 2:23-24;10:13-14; 11:13
-- protektado mula sa katiwalian 15:9;
-- protektado sa Napanatiling Tapyas 56:75-80;
-- hindi mapapatunayan na mali 41:42;
-- hinuhulaan ang mga hinaharap na pangyayari 30:1-7; 48:27;
-- nagdudulot ng luha sa mga mananampalataya 5:83; 17:107-109;
-- humahawak sa mga puso 39:23;
-- maliwanag na liwanag 4:174; 42:52;
+- protektado mula sa katiwalian 15:9
+- protektado sa Napanatiling Tapyas 56:75-80
+- hindi mapapatunayan na mali 41:42
+- hinuhulaan ang mga hinaharap na pangyayari 30:1-7; 48:27
+- nagdudulot ng luha sa mga mananampalataya 5:83; 17:107-109
+- humahawak sa mga puso 39:23
+- maliwanag na liwanag 4:174; 42:52
 - kagalingan at awa para sa mga mananampalataya 17:82
 - Torah 3:3; 3:93; 5:46; 5:66-68, 110; 7:157; 9:111; 48:29; 61:6; 62:5
-- Ebanghelyo 3:3; 48; 5:46-47, 66-68, 77, 110; 7:157; 9:111; 48:29; 57:27
+- Ebanghelyo 3:3, 48; 5:46-47, 66-68, 77, 110; 7:157; 9:111; 48:29; 57:27
 - Mga Salmo 4:163; 17:55
 - Mga Scroll ni Abraham 53:36-44; 87:14-19
-Kapalaran at tadhana 3:145; 9:51; 10:107; 11:6; 54:49; 67:30;
+Kapalaran at tadhana 3:145; 9:51; 10:107; 11:6; 54:49; 67:30
 - malayang pagpili 6:148-150; 11:118-119; 16:93; 33:72-73; 39:41; 76:1-3; 91:1-10
-Araw ng Paghuhukom,
-- walang kawalang-katarungan 2:281; 18:49; 40:17;
-- mga kakila-kilabot ng apokalipsis 22:1-2; 27:82-84, 87; 40:18; 52:11-16; 69:13-18; 70:8-18; 73:17-18; 75:7-15; 77:8-15; 78:17-20; 79:34-36; 80:33-42; 81:1-14; 82:1-5; 84:1-5; 87:17-40; 99:1-8; 101:1-11;
-- ang matuwid at ang masama sa Araw na iyon 11:105-108; 16:27-33, 84-89; 18:52-53; 20:100-111; 25:24-29; 30:12-16; 33:63-68; 39:68-75; 50:20-35; 55:37-41; 83:4-36;
+Araw ng Paghuhukom
+- walang kawalang-katarungan 2:281; 18:49; 40:17
+- mga kakila-kilabot ng apokalipsis 22:1-2; 27:82-84, 87; 40:18; 52:11-16; 69:13-18; 70:8-18; 73:17-18; 75:7-15; 77:8-15; 78:17-20; 79:34-36; 80:33-42; 81:1-14; 82:1-5; 84:1-5; 87:17-40; 99:1-8; 101:1-11
+- ang matuwid at ang masama sa Araw na iyon 11:105-108; 16:27-33, 84-89; 18:52-53; 20:100-111; 25:24-29; 30:12-16; 33:63-68; 39:68-75; 50:20-35; 55:37-41; 83:4-36
 - pamamagitan (shafa'ah) 2:48, 255; 6:51, 70; 10:3; 21:28; 32:4; 36:23; 39:43-44; 43:86; 53:26;74:48
-Mga talaan ng mga gawa 17:13; 18:49;
-- ang mga mananampalataya ay tumatanggap ng kanilang talaan sa kanang kamay 69:19-24; 84:7-9;
-- ang mga di-naniniwala ay tumatanggap ng kanilang talaan sa kaliwang kamay 69:25-37; 84:10-15;
-- walang maitatatagong bagay kay Allah 21:47; 40:16;
-- pagtitimbang ng mga gawa 7:8; 23:102-104; 101:1-11;
-- patotoo ng mga bahagi ng katawan 41:19-24; 24:24;
+Mga talaan ng mga gawa 17:13; 18:49
+- ang mga mananampalataya ay tumatanggap ng kanilang talaan sa kanang kamay 69:19-24; 84:7-9
+- ang mga di-naniniwala ay tumatanggap ng kanilang talaan sa kaliwang kamay 69:25-37; 84:10-15
+- walang maitatatagong bagay kay Allah 21:47; 40:16
+- pagtitimbang ng mga gawa 7:8; 23:102-104; 101:1-11
+- patotoo ng mga bahagi ng katawan 41:19-24; 24:24
 - gantimpala para sa mabuti at masamang mga gawa 6:160; 27:89-90; 28:84
 Mga uri ng mga tao
-- mga mananampalataya 18:107-108;
-- mga di-naniniwala 4:167-169;
-- mga mapagkunwari 4:145; 57:13-15;
-- mga naninirahan sa Paraiso, mga nangunguna sa mga mananampalataya 55:46-61; 56:10-26;
-- mga naninirahan sa Paraiso, mga tao ng kanan 55:62-78; 56:27-40;
-- mga naninirahan sa Impiyerno, mga tao ng kaliwa 55:31-45; 56:41-56;
+- mga mananampalataya 18:107-108
+- mga di-naniniwala 4:167-169
+- mga mapagkunwari 4:145; 57:13-15
+- mga naninirahan sa Paraiso, mga nangunguna sa mga mananampalataya 55:46-61; 56:10-26
+- mga naninirahan sa Paraiso, mga tao ng kanan 55:62-78; 56:27-40
+- mga naninirahan sa Impiyerno, mga tao ng kaliwa 55:31-45; 56:41-56
 - mga tao sa mga taas 7:46-49
 Pinansyal
-- Mga alituntunin sa negosyo 2:188; 2:275; 2:282-283; 4:29; 4:58; 6:152; 17:34-35;
-24:36-37; 26:182; 30:39; 55:7-9; 62:9
-- Mga pamana, opsyonal na pamana sa mga hindi tagapagmana 2:180-183; 4:11-12;
+- Mga alituntunin sa negosyo 2:188; 2:275; 2:282-283; 4:29; 4:58; 6:152; 17:34-35; 24:36-37; 26:182; 30:39; 55:7-9; 62:9
+- Mga pamana, opsyonal na pamana sa mga hindi tagapagmana 2:180-183; 4:11-12
 bago ang kamatayan habang nasa paglalakbay 5:106-108
 - Suhol 2:188
-- Mga utang, kabaitan sa pagsingil ng mga utang 2:280;
-- pagsulat at pagiging saksi sa isang kontrata ng utang 2:282;
+- Mga utang, kabaitan sa pagsingil ng mga utang 2:280
+- pagsulat at pagiging saksi sa isang kontrata ng utang 2:282
 - pagkuha ng pangako 2:283
-- Pamana, mga alituntunin 4:7; 4:32-33; 8:75;
-- bahagi ng mga anak at mga magulang 4:11;
-- mga asawa at mga kapatid sa ina 4:12;
-- mga kapatid na tunay 4:176;
+- Pamana, mga alituntunin 4:7; 4:32-33; 8:75
+- bahagi ng mga anak at mga magulang 4:11
+- mga asawa at mga kapatid sa ina 4:12
+- mga kapatid na tunay 4:176
 - babala sa mga hindi sumusunod 4:13-14
-- Interes, pagbabawal at babala 2:275-281; 3:130-132;
+- Interes, pagbabawal at babala 2:275-281; 3:130-132
 - ginawang walang kabuluhan 30:39
 Legal
 - batas ng kataksilan (hirabah) 5:33-34
-- Katarungan, pagtataguyod ng katarungan 4:135; 5:8; 16:90-91;
-- pagtataguyod ng karapatan ng mga ulila at mga babae 4:127;
-- katarungan sa isang Hudyo 4:105-112;
-- katarungan sa isang pagano 4:58;
+- Katarungan, pagtataguyod ng katarungan 4:135; 5:8; 16:90-91
+- pagtataguyod ng karapatan ng mga ulila at mga babae 4:127
+- katarungan sa isang Hudyo 4:105-112
+- katarungan sa isang pagano 4:58
 - pagiging makatarungan sa mga hindi Muslim 60:8-9
 - Paghihiganti sa pamamagitan ng legal na paraan (na may pagpipilian na magpatawad) 2:178-179; 5:45; 16:126; 17:33; 42:37-43
-- Paghihiwalay sa pagitan ng asawang lalaki at babae, khul' 2:229;
+- Paghihiwalay sa pagitan ng asawang lalaki at babae, khul' 2:229
 - lian (pagpaparatang ng pangangalunya) 24:6-10
 Pampulitika
 - Pagsasagawa ng mga gawain sa pamamagitan ng konsultasyon (shura) 3:159; 42:38
-- Pakikipaglaban sa pagtatanggol sa sarili (jihad), etiketa 2:190-192; 2:216; 22:38-40;
-- huwag atakuhin nang walang pagtatangi 4:94;
-- pakikipaglaban para sa mga api na lalaki, babae, at mga bata 4:75;
-- pangangalaga ng mga lugar ng pagsamba 22:37;
-- gantimpala ng mga martir 2:154; 3:169-171; 9:111; 57:19;
-- ang lakas ng hukbo ay nagpipigil sa mga potensyal na kaaway 8:60;
+- Pakikipaglaban sa pagtatanggol sa sarili (jihad), etiketa 2:190-192; 2:216; 22:38-40
+- huwag atakuhin nang walang pagtatangi 4:94
+- pakikipaglaban para sa mga api na lalaki, babae, at mga bata 4:75
+- pangangalaga ng mga lugar ng pagsamba 22:37
+- gantimpala ng mga martir 2:154; 3:169-171; 9:111; 57:19
+- ang lakas ng hukbo ay nagpipigil sa mga potensyal na kaaway 8:60
 - pagpili ng kapayapaan 2:192; 8:61
 - Paggawa ng kapayapaan sa pagitan ng mga partido 49:9-10
 - Mga bilanggo ng digmaan, pagtrato 8:70; 47:4; 76:8
 Panlipunan
 - Pag-ampon 33:4-5
 - Pag-aalaga ng mga ulila 2:220; 4:2-10; 4:127; 6:152; 17:34
-- Diborsiyo, pagdadaglat at pagkakasundo 4:35; 4:128;
-- etiketa ng diborsiyo 2:229-231; 65:1-2;
-- dowry at panahon ng paghihintay 2:226-241; 4:19-21; 33:49; 65:1-7;
-- ang asawang lalaki ay hindi dapat bawiin ang anumang bahagi ng dowry 4:20;
-- ang asawang babae ay hindi dapat galawin 65:6;
-- ang asawang babae ay dapat suportahang pinansyal sa panahon ng pagbubuntis 65:6;
-- sa panahon ng kanyang paghihintay 65:6;
-- kung siya ay nagpapasuso ng anak ng dating asawa, 65:6;
-- walang magulang ang dapat masaktan dahil sa kanilang anak 2:233;
+- Diborsiyo, pagdadaglat at pagkakasundo 4:35; 4:128
+- etiketa ng diborsiyo 2:229-231; 65:1-2
+- dowry at panahon ng paghihintay 2:226-241; 4:19-21; 33:49; 65:1-7
+- ang asawang lalaki ay hindi dapat bawiin ang anumang bahagi ng dowry 4:20
+- ang asawang babae ay hindi dapat galawin 65:6
+- ang asawang babae ay dapat suportahang pinansyal sa panahon ng pagbubuntis 65:6
+- sa panahon ng kanyang paghihintay 65:6
+- kung siya ay nagpapasuso ng anak ng dating asawa, 65:6
+- walang magulang ang dapat masaktan dahil sa kanilang anak 2:233
 - pagpipilian ng ama ng gatas 65:6
 - Paghikayat ng mabuti at pagbabawal ng masama 3:104; 3:110; 7:157; 9:71-72; 31:17
-- Pagkakapantay-pantay ng mga tao 49:13;
-- ang mga lalaki at babae sa harap ng Allah at ng batas, 3:195; 4:124; 5:38; 16:97; 24:2; 40:40;
+- Pagkakapantay-pantay ng mga tao 49:13
+- ang mga lalaki at babae sa harap ng Allah at ng batas, 3:195; 4:124; 5:38; 16:97; 24:2; 40:40
 - ang mga lalaki ay may antas ng pananagutan na higit sa mga babae 2:228
 - Pagpapakain sa mahirap, mga ulila, at mga bihag 76:8-9
 - Pagpapatawad at pagpigil ng galit 3:134; 42:40
 - Pagpapalaya ng mga alipin at pagtulong sa kanila 4:92; 5:89; 9:60; 24:33; 58:3; 90:13
 - Pagpaparangal sa sariling mga magulang 4:36; 17:23-25; 31:14-15
 - Kababaang-loob 17:37; 31:18-19
-- Pagpapaliwanag ng mga panaginip ni Abraham 37:102;
-- Pagpapaliwanag ng mga panaginip ni Joseph 12:4; 12:36; 12:43;
+- Pagpapaliwanag ng mga panaginip ni Abraham 37:102
+- Pagpapaliwanag ng mga panaginip ni Joseph 12:4; 12:36; 12:43
 - Pagpapaliwanag ng mga panaginip ni Muhammad 8:43; 48:27
 - Kabaitan sa mga hindi Muslim 60:8
-- Kasal 4:3; 4:129; 16:72; 30:21;
-- mga pinahintulutan at ipinagbabawal na babae sa pag-aasawa 4:22-24;
-- etiketa ng pagiging malapit 2:222-223;
-- pagbubuntis at pagpapasuso 2:233; 31:4; 46:15; 65:6;
-- muling pag-aasawa sa sariling dating asawa 2:230;
-- pagtulong sa mga nag-iisa na mag-asawa 24:32;
+- Kasal 4:3; 4:129; 16:72; 30:21
+- mga pinahintulutan at ipinagbabawal na babae sa pag-aasawa 4:22-24
+- etiketa ng pagiging malapit 2:222-223
+- pagbubuntis at pagpapasuso 2:233; 31:4; 46:15; 65:6
+- muling pag-aasawa sa sariling dating asawa 2:230
+- pagtulong sa mga nag-iisa na mag-asawa 24:32
 - banayad na pagpapakita ng interes sa panahon ng paghihintay 2:235
-- Mga panunumpa 2:224-225; 16:91-92; 16:94;
+- Mga panunumpa 2:224-225; 16:91-92; 16:94
 - pagbabayad para sa isang sirang panunumpa 5:89
 - Pasensya sa mga mahirap na panahon 2:45; 2:153-157; 3:186; 12:18; 12:83; 16:127-128; 70:5
-- Pahintulot na pumasok 24:58-60;
-- pagpasok sa mga tahanan ng mga tao 24:27-28;
+- Pahintulot na pumasok 24:58-60
+- pagpasok sa mga tahanan ng mga tao 24:27-28
 - pagpasok sa mga pampublikong lugar 24:29
-- Etiketa sa lipunan, pagpapatunay ng balita 4:83; 49:6;
-- paggalang sa lahat 49:11-12;
-- etiketa ng mga pagtitipon 58:11;
+- Etiketa sa lipunan, pagpapatunay ng balita 4:83; 49:6
+- paggalang sa lahat 49:11-12
+- etiketa ng mga pagtitipon 58:11
 - mga pribadong usapan 4:114; 58:9
 - Mga panata 2:270; 9:75-77; 22:29; 76:7
 - Pag-aaksaya at karamutan 7:31; 17:29; 25:67
 Iba pang mga kwento
-- si Abel at Cain 5:27-31;
-- si Al-Khadir at Moises 18:60-82;
-- Hukbo ng Elepante 105:1-4;
-- ang mananampalataya mula sa bayan ni Paraon 40:28-46;
-- kapanganakan ni Maria 3:35-36;
-- Baka ng mga Anak ni Israel 2:67-74;
-- Ezra 2:259;
+- si Abel at Cain 5:27-31
+- si Al-Khadir at Moises 18:60-82
+- Hukbo ng Elepante 105:1-4
+- ang mananampalataya mula sa bayan ni Paraon 40:28-46
+- kapanganakan ni Maria 3:35-36
+- Baka ng mga Anak ni Israel 2:67-74
+- Ezra 2:259
 - mga may-ari ng hardin 68:17-32
 - Harut at Marut 2:102
 - Korah 28:76-82
-- payo ni Luqman sa kanyang anak 31:12-19;
-- may-ari ng dalawang hardin 18:32-44;
-- mga tao ng Sheba 34:15-19;
-- mga tao ng yungib 18:9-26;
-- mga tao ng hukay 85:1-8;
-- mga lumalabag sa Sabbath 7:163-165;
-- si Samiri at ang Gintong Guya 20:83-97;
-- si Saul at Samuel 2:247-251;
+- payo ni Luqman sa kanyang anak 31:12-19
+- may-ari ng dalawang hardin 18:32-44
+- mga tao ng Sheba 34:15-19
+- mga tao ng yungib 18:9-26
+- mga tao ng hukay 85:1-8
+- mga lumalabag sa Sabbath 7:163-165
+- si Samiri at ang Gintong Guya 20:83-97
+- si Saul at Samuel 2:247-251
 - Zul-Qarnain 18:83-98
-Mga diyablo 2:102; 6:71; 6:112; 6:121; 7:27; 7:30; 17:27; 19:68; 19:83; 22:3-4; 23:97-98; 26:210; 37:7-10; 38:37-38; 67:5;
-- mga diyablong tao at jinn 6:112;114:6;
+Mga diyablo 2:102; 6:71; 6:112; 6:121; 7:27; 7:30; 17:27; 19:68; 19:83; 22:3-4; 23:97-98; 26:210; 37:7-10; 38:37-38; 67:5
+- mga diyablong tao at jinn 6:112;114:6
 - ang langit ay protektado laban sa mga diyablo 15:16-18
 Mga pagsisisi
-- hindi pagsunod sa Propeta 25:27;
-- hindi pagsunod kay Allah at sa Kanyang Sugo 4:41-42; 33:64-68;
-- pagkuha ng masamang mga kaibigan 25:28-29; 26:96-102; 43:36-39;
-- pagtanggi sa mga tanda ng Allah 6:27-30;
+- hindi pagsunod sa Propeta 25:27
+- hindi pagsunod kay Allah at sa Kanyang Sugo 4:41-42; 33:64-68
+- pagkuha ng masamang mga kaibigan 25:28-29; 26:96-102; 43:36-39
+- pagtanggi sa mga tanda ng Allah 6:27-30
 - hindi paggawa para sa Kabilang Buhay 89:23-24
 Mga desperadong pakiusap
-- pakikiusap para sa pagbabalik sa mundo 2:167; 6:27-28; 32:12-14; 42:44;
-- para sa isang ikalawang pagkakataon 35:36-37;
-- upang alisin mula sa Apoy 40:10-12;
-- para sa pagkain at tubig 7:51-52;
-- para sa mga tagapamagitan 7:52-53;
-- upang gawing alikabok 4:41-42; 78:40;
+- pakikiusap para sa pagbabalik sa mundo 2:167; 6:27-28; 32:12-14; 42:44
+- para sa isang ikalawang pagkakataon 35:36-37
+- upang alisin mula sa Apoy 40:10-12
+- para sa pagkain at tubig 7:51-52
+- para sa mga tagapamagitan 7:52-53
+- upang gawing alikabok 4:41-42; 78:40
 - para sa kamatayan 43:74-78
 Mga katangian ng matuwid
 - pagsunod sa mga karapatan ng Lumikha at Kanyang nilikha 3:133-136; 4:36; 4:69-70; 6:151-154; 8:2-4; 13:19-24; 17:23-39;18:107-108; 23:1-11; 25:63-76; 42:36-43
 Mga katangian ng masama
-- walang utang na loob 14:34;
-- kuripot 17:100;
-- nagmamadali 21:37;
-- naaalala ang Allah sa mahirap na panahon lamang 10:12; 41:51;
-- walang pasensya 70:19;
+- walang utang na loob 14:34
+- kuripot 17:100
+- nagmamadali 21:37
+- naaalala ang Allah sa mahirap na panahon lamang 10:12; 41:51
+- walang pasensya 70:19
 - mapagtatalo 18:54
 Malalaking Kasalanan
 - pagtatalaga ng iba kay Allah sa pagsamba (shirk) 4:48; 4:116; 5:72; 6:19; 31:13:
-- pag-abuso sa sariling mga magulang 4:36; 6:151; 17:23;
-- pagpapabaya o pag-abandona ng mga obligadong panalangin 19:59-60;
-- hindi pagbabayad ng buwis ng kawanggawa 41:6-7;
-- pagpatay 6:151; 17:33;
-- pagpatay sa isang mananampalataya nang sadya 4:93;
-- pagnanakaw 5:38;
-- panloloko 7:85; 11:85; 26:182-183; 83:1-6;
-- pagsisinungaling 2:10; 9:77; 39:60;
-- pagsisinungaling tungkol kay Allah 6:93; 29:68; 61:7;
+- pag-abuso sa sariling mga magulang 4:36; 6:151; 17:23
+- pagpapabaya o pag-abandona ng mga obligadong panalangin 19:59-60
+- hindi pagbabayad ng buwis ng kawanggawa 41:6-7
+- pagpatay 6:151; 17:33
+- pagpatay sa isang mananampalataya nang sadya 4:93
+- pagnanakaw 5:38
+- panloloko 7:85; 11:85; 26:182-183; 83:1-6
+- pagsisinungaling 2:10; 9:77; 39:60
+- pagsisinungaling tungkol kay Allah 6:93; 29:68; 61:7
 - mga ipinagbabawal na pakikipagtalik 2:222; 17:32; 24:2; 25:68; 29:28-30
-- maling paratang ng pangangalunya 24:4-5;
-- apostasya 2:217; 5:54;
-- pagkain ng baboy at iba pang mga ipinagbabawal na pagkain (bangkay, dugo, atbp.) 5:3; 6:145;
-- alkohol at pagsusugal 5:90-91;
-- paninirang-puri 49:11;
-- maling patotoo 22:30;
+- maling paratang ng pangangalunya 24:4-5
+- apostasya 2:217; 5:54
+- pagkain ng baboy at iba pang mga ipinagbabawal na pagkain (bangkay, dugo, atbp.) 5:3; 6:145
+- alkohol at pagsusugal 5:90-91
+- paninirang-puri 49:11
+- maling patotoo 22:30
 - mahika 2:102; 10:77; 20:69
 """;

@@ -5,18 +5,18 @@ Ablutioner (Wudu), 4:43; 5:6
 Abraham (Ibrahim) S.14; 2:135-136, 148; 3:33, 84, 95; 4:54, 125, 163; 6:161; 9:70, 114; 12:6, 38; 16:120; 19:58; 21:51, 60, 62, 69; 22:43, 78; 26:69; 29:31; 33:7; 37:83, 104, 109; 38:45; 42:13; 43:26; 51:24; 53:37; 57:26; 60:4; 87:19
 - varken jude eller kristen, 3:67-68
 - stod i det första templet i Bakkah, 3:97; 26:123
-- lägger grunderna till Ka'bah, 2:124-129;
-- uppmanar sitt folk att dyrka den Ende Sanne Guden 2:130-133; 26:69-89; 29:16; 29:24-27;
-- debatterar en arrogant kung 2:258,
-- frågar om uppståndelsen 2:260;
-- varken jude eller kristen 3:65-68;
-- vederlägger himmelsk dyrkan 6:74-87;
-- får nyheten om Isaks födelse 11:69-76; 51:24-30;
-- hans bön vid Ka'bah 14:35-41;
-- besöks av änglar 15:51-56;
-- en förebild 16:123;
-- uppmanar sin fader till sanningen 19:41-50;
-- förstör avgudar och räddas från elden 21:51-73; 37:83-113;
+- lägger grunderna till Ka'bah, 2:124-129
+- uppmanar sitt folk att dyrka den Ende Sanne Guden 2:130-133; 26:69-89; 29:16; 29:24-27
+- debatterar en arrogant kung 2:258
+- frågar om uppståndelsen 2:260
+- varken jude eller kristen 3:65-68
+- vederlägger himmelsk dyrkan 6:74-87
+- får nyheten om Isaks födelse 11:69-76; 51:24-30
+- hans bön vid Ka'bah 14:35-41
+- besöks av änglar 15:51-56
+- en förebild 16:123
+- uppmanar sin fader till sanningen 19:41-50
+- förstör avgudar och räddas från elden 21:51-73; 37:83-113
 - kallar alla till vallfärden 22:26
 Abrar, 3:193, 198; 76:5; 82:13; 83:18-22
 Upphävande, 2:106, 16:101
@@ -26,11 +26,10 @@ Adam, 3:33, 59; 5:27; 7:26-27, 31, 35, 172; 17:70; 19:58; 36:60
 - änglar ska falla ned inför honom, 2:34; 7:11
 - kunskapens träd, 2:35; 7:19-20; 20:120-121
 - förvisning från Lustgården (Eva bär inget ansvar), 2:36; 7:24
-- hedrad av Allah, frestad av Satan 2:30-38; 7:11-25; 17:61-65; 18:50; 20:115-123; 38:71-85;
+- hedrad av Allah, frestad av Satan 2:30-38; 7:11-25; 17:61-65; 18:50; 20:115-123; 38:71-85
 - förlåten av Allah 2:37; 20:122
 'Adiyat, S.100
-'Adn Paradiset, 9:72; 13:23; 16:31; 18:31;
-19:61; 20:76; 35:33; 38:50; 40:8; 61:12; 98:8
+'Adn Paradiset, 9:72; 13:23; 16:31; 18:31;19:61; 20:76; 35:33; 38:50; 40:8; 61:12; 98:8
 Motgångar
 - bärs inte av en annan, 6:164; 17:15; 35:18; 39:7; 53:38
 - bördas inte bortom förmågan att uthärda, 2:286; 6:152; 7:42; 23:62
@@ -113,7 +112,7 @@ Avfall från tron, 3:72; 3:86-88; 3:90-91; 3:167; 4:137; 5:54; 9:74; 9:107; 16:1
 Avfällingar, 47:25
 A'raf, S.7; 7:46, 48
 Arafat, 2:198
-Argumentera,
+Argumentera
 - inte på uppdrag av dem som bedrar sig själva, 4:107
 - du argumenterade för dem i denna värld, men vem ska göra det på Uppståndelsens dag, 4:109
 Argument/Angrepp
@@ -123,7 +122,7 @@ Rustning, 16:81
 'Asr, S.103
 Ayat Al-Kursi, 2:255
 Baktalare, 49:12; 104:1
-Badr (slaget vid), 3:13,
+Badr (slaget vid), 3:13
 - lärdomar från, 8:5-19, 42-48
 Al-Bait-ul-Ma mur, 52:4
 Bakkah (Makkah), 3:96
@@ -133,7 +132,7 @@ Balans, 7:8-9; 17:35; 21:47; 55:7-9; 57:25;101:6-9
 Banu An-Nadir, 59:2-6, 13
 Baqarah, S.2
 Bara'a (Se Taubah), S.9
-Barzakh, (Barriär), 23:100; 25:53; 55:20;
+Barzakh, (Barriär), 23:100; 25:53; 55:20
 - se även 18:94-97; 34:54; 36:9
 Baiyinah, S.98
 Vilddjuret (de yttersta dagarnas), 27:82
@@ -181,7 +180,7 @@ Bibeln, 5:64, 5:65, 5:68
 - förvrängning av, 3:78; 5:14-15
 Fåglar, 2:260; 3:49; 5:110; 6:38; 12:36, 41; 16:79; 21:79; 22:31; 24:41; 27:16-17, 20; 34:10; 38:19; 56:21; 67:19; 105:3
 Blodpengar (Diya), 2:178-179; 4:92; 17:33
-Krigsbyte, 4:94. 8:41; 59:6-8;
+Krigsbyte, 4:94. 8:41; 59:6-8
 - olagligt tagande av, 3:162
 - se byte
 Mutor, 2:188
@@ -219,7 +218,7 @@ Kläder, 7:26; 16:81
 - kvinnors ytterkläder förhindrar trakasserier av hycklare, 33:59-60
 Förbundna, 33:9, 22
 - se Ahzab Ömsesidigt samråd, 42:38
-Skapelsen,
+Skapelsen
 - börjar och upprepas, 10:4; 21:104; 27:64; 29:19-20
 - en ny, 17:49, 98; 35:16
 - med sanning, 15:85; 16:3; 29:44; 39:5; 44:39;45:22; 46:3
@@ -239,12 +238,12 @@ Kråka, 5:31
 Kriteriet, 2:53, 185; 3:4; 8:29, 41; 21:48; 25:1
 Dahr (se Insan,) S.76; 45:24
 - tid, 76:1; 103:1
-David, 5:78; 6:84; 17:55; 34:10, 13; 38:17-30;
+David, 5:78; 6:84; 17:55; 34:10, 13; 38:17-30
 - fick Psaltaren 4:163
 - strider mot och dödar Goliat, 2:251
-- fäller ett avgörande 21:78-80;
-- välsignad med kunskap och profetskap 27:15-16;
-- berg och fåglar instämmer med honom i att prisa Allah 34:10; 38:17-20;
+- fäller ett avgörande 21:78-80
+- välsignad med kunskap och profetskap 27:15-16
+- berg och fåglar instämmer med honom i att prisa Allah 34:10; 38:17-20
 - dömer mellan två personer 38:21-26
 Dawabb eller Dabbah (rörliga levande varelser m.m.) 2:164; 6:38; 8:22, 55; 11:6, 56; 16:49, 61; 22:18; 24:45; 27:82; 29:60;31:10; 34:14; 35:28, 45; 42:29; 45:4
 De döda ska uppväckas, 6:36
@@ -254,17 +253,17 @@ Döden, 3:185; 3:193; 4:78; 6:61; 6:93; 21:35; 23:99-108; 31:34; 32:11; 33:19; 3
 - de samhällen som inte fått någon uppenbarelse ska inte förgöras, 6:131; 9:115; 10:47; 11:117; 15:4; 16:119; 17:15; 28:59
 - de som stupat i Allahs sak lever, 2:154; 3:169
 - medan man flyr det onda mot Allah, 4:100
-- kan inte stoppas eller försenas 63:10-11;
-- sömnens tvillingbror 6:60; 39:42;
-- troende och icke-troende vid dödsögonblicket 8:50; 16:27-32; 41:30;
+- kan inte stoppas eller försenas 63:10-11
+- sömnens tvillingbror 6:60; 39:42
+- troende och icke-troende vid dödsögonblicket 8:50; 16:27-32; 41:30
 - straff i graven 40:46
 Skulder, 2:280, 282; 4:11-12
-Dekret,
+Dekret
 - för varje sak finns ett, 13:38
 - aldrig förstörde Vi en stad utan att det fanns ett känt, för den, 15:4
 - varje saks dekret är från Allah, 44:5
 - när Han beslutar om en sak säger Han endast "Var!" — och det är, 2:117; 36:82; 40:68
-Gärningar,
+Gärningar
 - onda gärningar förskönade för dem, 47:14
 - till oss våra gärningar, till er era gärningar, 28:55; 42:15; 45:15
 - goda och onda gärningar är för och mot en själv, 41:46
@@ -278,7 +277,7 @@ Dhariyat, S.51
 Dhikr, 7:205; 15:6, 9
 Dhul-Kifi, 21:85; 38:48
 Dhul-Qarain, 18:83-98
-Dhun-Nun (Fiskens följeslagare),
+Dhun-Nun (Fiskens följeslagare)
 Icke-troende (se även Hycklare)
 - ber Muhammed (ﷺ) att åkalla Allahs vrede över dem som bevis, 6:57-58; 8:32; 10:49-52
 - bär deras sällskap med vänlighet, 31:15
@@ -303,7 +302,7 @@ Graven, dess folk, 85:4-10
 Mångfald
 - hos människor, 30:22, 35:27-28
 - i livet, 35:27-28
-Skilsmässa, 2:228-232, 236-237, 241; 4:35, 130; 65:1-7;
+Skilsmässa, 2:228-232, 236-237, 241; 4:35, 130; 65:1-7
 - efter väntetiden, upplös eller försona, 2:231; 65:2
 - två vittnen, 65:2
 - underhåll, 2:233, 241
@@ -339,7 +338,7 @@ Skilsmässa, Kvinnan
 - om inte äktenskapet är oconsummerat, 33:49
 Hundar, 7:176
 Åsnor, 2:259; 16:8; 31:19; 62:5; 74:50
-Dryck,
+Dryck
 - alkoholhaltig, 2:219; 5:90
 - ren och vit läskande, 37:45-46; 76:21
 - rent försegnat vin, 83:25
@@ -362,13 +361,13 @@ Ondskan, 4:123; 10:27-30; 19:83; 59:15
 - byttes ut mot det goda, 7:95
 - de som följer sina onda begär, 47:14, 16
 - gärningar förskönade för dem, 47:14
-Överdrift,
+Överdrift
 - förbjuden i mat, 5:87
 - i religion, 4:171; 5:77-81
 Ögon, öron och hud ska vittna mot syndare, 41:20-23
 Ezra (Uzair) 9:30
 Allahs ansikte eller närvaro, 2:115, 272; 6:52; 13:22; 18:28; 28:88; 30:38-39; 55:27; 76:9; 92:20
-Tilltalande sken,
+Tilltalande sken
 - Allah har gjort varje folks egna gärningar tilltalande för dem, 6:108
 Tro (Övertygelse), 2:108; 3:167, 177, 193; 5:5; 9:23; 16:106; 30:56; 40:10; 42:52; 49:7, 11, 14; 52:21; 58:22; 59:9-10
 - förkastare av, 3:116
@@ -378,7 +377,7 @@ Tro (Övertygelse), 2:108; 3:167, 177, 193; 5:5; 9:23; 16:106; 30:56; 40:10; 42:
 Fajr, S.89
 Falaq, S.113
 Falsk konversation om Koranens verser, 6:68
-Falska gudar,
+Falska gudar
 - utöver Allah, avgudar och s.k. medhjälpare 7:194-198; 16:20-21, 72, 86; 21:22, 24; 34:22, 27; 41:47-48; 46:5-6; 53:19-24; 71:23-24
 - förolämpa inte dem de dyrkar utöver Allah, 6:108
 - se även Taghut
@@ -393,7 +392,7 @@ Fidyah (lösen), för fastan, 2:196
 - för att befria fångar, 8:67
 - lösen erbjuden av icke-troende, 3:91; 5:36,37; 10:54; 13:18
 Fikon, 95:1
-Strid,
+Strid
 - på Allahs väg, mot icke-troende, 2:190-193, 244; 4:84, 95; 8:72, 74, 75; 9:12-16, 20, 24, 36, 123; 47:4; 61:11
 - föreskriven, 2:216
 - under heliga månader, 2:217; 9:5
@@ -409,7 +408,7 @@ Fil, S.105
 Firdaus Paradiset, 18:107; 23:11
 Eld, 56:71, 100:2
 Fluga, 22:73
-Mat,
+Mat
 - tillåten och otillåten (Halal och Haram), 2:168, 172, 173; 5:1, 3-5, 88; 6:118-119, 121, 145-146; 16:114-118; 23:51
 - ingen synd för vad som åts i det förflutna, 5:93
 - överträd inte, 5:87
@@ -431,7 +430,7 @@ Förlåtelse, 2:109; 4:48, 110, 116; 5:74; 7:199; 39:53; 42:5, 40-43; 45:14; 53:
 - tävla med varandra i att skynda mot, 57:21
 - onda gärningar byts mot goda gärningar 25:68-71
 Bedrägeri (se Förråda) 83:1-6
-Fri vilja,
+Fri vilja
 - begränsad av Allahs vilja, 6:107; 10:99; 74:56;76:31; 81:28-29
 - den som vill, må: tro och inte tro, 18:29
 - ta en väg till sin Herre, 76:29
@@ -465,14 +464,14 @@ Goda (dagar), 3:140
 - Allah belönar dem som gör gott med det bästa, 53:31
 - finns det någon belöning för gott annat än gott, 55:60
 - gör gott, såsom Allah har gjort gott mot dig, 28:77
-Gott och ont,
+Gott och ont
 - gott är från Allah och ont är från dig själv, 4:79
 - om du gör gott, för din egen skull, och om du gör ont, mot dig själv, 17:7;41:46
 - avvärj ont med gott, 23:96; 28:54; 41:34
 - goda och onda gärningar kan inte vara lika, 41:34
 - varje person ska konfronteras med allt gott och ont han gjort, 3:30
 - se även Muhsinun
-God gärning,
+God gärning
 - avslöja eller dölja den, 4:149
 - sträva som i ett lopp i, 5:48
 Evangeliet, 3:3, 48, 65; 5:46-47, 66, 68, 110;7:157; 9:111; 48:29; 57:27
@@ -489,7 +488,7 @@ Svårigheter, efter varje svårighet finns lättnad, 94:5-6
 Harun (Aaron)
 Harut, 2:102
 Hashr, S.59
-Hjärtan,
+Hjärtan
 - förhärdade, 2:74; 22:53; 39:22; 57:16
 - förseglade, 7:100-101; 40:35; 47:16; 63:3
 - täckta, 17:46; 41:5
@@ -497,7 +496,7 @@ Hjärtan,
 - delade, 59:14
 - fyllda med fruktan, 22:35
 - i vars hjärtan det finns en sjukdom, 2:10; 5:52; 8:49; 9:125; 22:53; 24:50; 33:12, 32, 60; 47:20, 29;74:31
-Himlarna,
+Himlarna
 - till Allah hör det dolda i, 16:77
 - inte skapade för lek, 21:16
 - och jorden var förenade, 21:30
@@ -527,7 +526,7 @@ Helvetet (elden, den flammande lågan) 2:24, 119, 161, 166, 201; 3:10, 12, 116, 
 - brännande förtvivlan och iskall mörker i, 38:57
 - kedja av 70 armbågar, 69:32
 - vistelse under begränsad tid, 78:23
-Det kommande livet,
+Det kommande livet
 - bättre är hemmet i, 6:32; 7:169
 - vilket som ska bli slutet i, 6:135
 - Zalimun ska inte lyckas (i), 6:135
@@ -544,7 +543,7 @@ Hijr (Klippiga trakten), 15:80-85
 Hijr, S.15
 Homosexualitet 26:165-166; 27:55; 29:28-29
 Hästar, 16:8
-Timmen,
+Timmen
 - kännedom om den är endast hos Allah, 7:187; 31:34; 33:63; 41:47; 68:26; 79:42-46
 - plötsligt drabbar den dem, 6:31; 7:187;12:107; 43:66
 - kommer över dig, 6:40; 12:107; 20:15; 34:3
@@ -553,9 +552,9 @@ Timmen,
 - timmen jordbävning, 22:1
 - ska upprättas, på dagen, 30:12, 14
 - kommer säkert, utan tvivel, 40:59;45:32; 51:5-6
-- tecken 21:96; 27:82; 43:61; 47:18; 54:1-2;
-- namn 1:3; 2:4; 3:55; 19:39; 30:56; 37:21; 40:15; 41:47; 42:7; 50:20; 56:1; 64:9; 69:1; 79:34; 80:33; 88:1; 101:1-3;
-- ska ta folk på sängen 6:31; 7:187;
+- tecken 21:96; 27:82; 43:61; 47:18; 54:1-2
+- namn 1:3; 2:4; 3:55; 19:39; 30:56; 37:21; 40:15; 41:47; 42:7; 50:20; 56:1; 64:9; 69:1; 79:34; 80:33; 88:1; 101:1-3
+- ska ta folk på sängen 6:31; 7:187
 - Basunen ska blåsas 6:73; 23:101; 39:68
 Hus, seder vid besök, 24:27-29
 Hud, 7:65-72; 11:50-60; 26:123-140; 46:21-26
@@ -564,7 +563,7 @@ Hujurat, S.49
 Humazah, S.104
 Hunain (slaget vid), 9:25
 Hur (kvinnor i Paradiset), 44:54; 52:20
-Hycklare,
+Hycklare
 - säger: vi tror på Allah och den Yttersta dagen, men tror i verkligheten inte, 2:8
 - bedrar sig själva, 2:9
 - sjukdom i deras hjärtan, 2:10; 8:49; 22:53;33:12; 47:29
@@ -608,8 +607,8 @@ Ilah, endast En, 2:163; 6:19; 16:22, 51; 23:91; 37:4; 38:65
 Olagligt sexuellt umgänge; vittnesmål, 4:15-18; 24:2, 19
 Illiyyun, 83:18-21
 Oren (Najas) 9:28
-'Imran,
-- hustru till, 3:35;
+'Imran
+- hustru till, 3:35
 - dotter till, 66:12
 Det oundvikliga, 69:1-3
 Infitar, S.82
@@ -628,7 +627,7 @@ Järn, 57:25
 'Isa, se Jesus
 Isak (Ishaq) 2:133; 4:163; 6:84; 19:49;21:72; 29:27; 37:112-113
 Ismael (Isma'il), 2:125-129, 133; 4:163;6:86; 19:54-55; 21:85; 38:48
-lägger Ka'bahs grund tillsammans med sin fader 2:125-140;
+lägger Ka'bahs grund tillsammans med sin fader 2:125-140
 offrets historia 37:100-113
 Islam, 3:19, 85; 5:3; 6:125; 39:22; 61:7
 - den förste av dem som underkastar sig som muslimer, 6:14,163; 39:12
@@ -657,8 +656,8 @@ Jakob (Ya'qub) 2:132-133; 4:163; 6:84;12:18; 19:49; 21:72; 29:27
 Jalut (se Goliat)
 Jamarat, 2:200
 Jathiyah, S.45
-Jesus, Isa, Marias son,
-- hans mor utvald framför alla världens kvinnor 3:42;
+Jesus, Isa, Marias son
+- hans mor utvald framför alla världens kvinnor 3:42
 - vittnar på Uppståndelsens dag, 4:159
 - glädjebudskapet om hans födelse, 3:45-47; 19:22-23
 - sändebud till Israels barn, 3:49-51
@@ -681,9 +680,9 @@ Jesus, Isa, Marias son,
 - skilda åsikter om, 43:65
 - inte mer än en tjänare och ett exempel för Israels barn, 43:59
 - glädjebudskapet om ett sändebud vars namn ska vara Ahmad, 61:6
-- hans jungfrufödsel, budskap och mirakel 3:45-51; 19:16-38;
-- påminns om Allahs välgärningar 5:110-115;
-- förnekar att han är gudomlig 5:116-120;
+- hans jungfrufödsel, budskap och mirakel 3:45-51; 19:16-38
+- påminns om Allahs välgärningar 5:110-115
+- förnekar att han är gudomlig 5:116-120
 - medkänsla och nåd i hans efterföljares hjärtan 5:82; 57:27
 Judar och kristna, 2:140; 4:153-161, 171; 5:18
 - lyssnar till lögner, 5:41-42
@@ -693,41 +692,41 @@ Judar och kristna, 2:140; 4:153-161, 171; 5:18
 Jibril (se Gabriel)
 Jihad (Strid, kamp) 2:216; 9:24; 22:78; 25:52
 Jinn, S.72
-Jinn, 6:100, 112; 15:27; 34:41; 38:37; 46:18,29; 55:33, 39;
-Jinn, skapade av eld 15:25; 55:15;
-- troende och otroende jinn 72:1-15;
+Jinn, 6:100, 112; 15:27; 34:41; 38:37; 46:18,29; 55:33, 39
+Jinn, skapade av eld 15:25; 55:15
+- troende och otroende jinn 72:1-15
 - några trodde på Koranens budskap 46:29-32
 - människor och jinn skapade för ett syfte 51:56-58
 Job, 4:163; 6:84; 21:83-84; 38:41-44
-Johannes (Yahya, Johannes Döparen),
+Johannes (Yahya, Johannes Döparen)
 - glädjebudskapet om, 3:38-41; 19:7-11; 21:90
 - rättfärdig, 6:85
 - vis, medkännande, plikttrogen, 19:12-15
-Jona (Jonas eller Yunus), 4:163; 6:86; 10:98;21:87; 37:139-148;
+Jona (Jonas eller Yunus), 4:163; 6:86; 10:98;21:87; 37:139-148
 - (Dhu n-Nun) 21:87; 68:48-50
 Josef (Yusuf), 6:84; 12:4-101
-- den bästa av berättelser 12:1-3;
-- unge Yusufs dröm 12:4-6;
-- hans bröders konspiration 12:7-18;
-- såld som slav 12:19-20;
+- den bästa av berättelser 12:1-3
+- unge Yusufs dröm 12:4-6
+- hans bröders konspiration 12:7-18
+- såld som slav 12:19-20
 - uppfostrad i Egyptens statsministers hus 12:21-22
-- statsministerns hustru försöker förföra honom 12:23-29;
-- bankettincidenten 12:30-32;
-- hamnar i fängelse 12:33-35;
-- de två medfångarna 12:36-42;
-- kungens dröm 12:43-53;
-- blir statsminister 12:54-57;
-- bröder kommer till honom för förråd 12:58-68;
-- tar sin bror Benjamin 12:69-82;
-- faderns förnyade sorg 12:83-87;
-- avslöjar sin sanna identitet 12:88-98;
-- gammal dröm går i uppfyllelse 12:99-100;
+- statsministerns hustru försöker förföra honom 12:23-29
+- bankettincidenten 12:30-32
+- hamnar i fängelse 12:33-35
+- de två medfångarna 12:36-42
+- kungens dröm 12:43-53
+- blir statsminister 12:54-57
+- bröder kommer till honom för förråd 12:58-68
+- tar sin bror Benjamin 12:69-82
+- faderns förnyade sorg 12:83-87
+- avslöjar sin sanna identitet 12:88-98
+- gammal dröm går i uppfyllelse 12:99-100
 - avslutande bön 12:101
 Judi, berget, 11:44
 Jumu'ah, S.62
 Rättvisa (Adl), 2:282; 4:58, 135; 7:29; 16:90; 57:25
 - se även 4:65, 105
-Ka'bah,
+Ka'bah
 - byggd av Abraham, 2:125-127
 - ingen jakt tillåten, 5:94-96
 - fristad och tillflykt, 5:97
@@ -739,17 +738,17 @@ Kahf, S.18
 Kanz, 9:34-35
 Kauthar (flod i Paradiset), 108:1
 Kauthar, S.108
-Nycklar,
+Nycklar
 - till himlarna och jorden, 39:63; 42:12
 - till det dolda, 6:59
 Khaulah bint Tha'labah, 58:1
-Dödande,
+Dödande
 - om någon dödade en person, dödade han hela mänskligheten, 5:32
 - döda ingen, 17:33
 Vänliga ord är bättre än välgörenhet, 2:263
 Fränders rättigheter, 2:83, 177, 215; 4:7-9, 36;8:41; 16:90; 17:26; 24:22; 29:8; 30:38; 42:23
 Kiraman-Ratibin, 82:11
-Kunskap,
+Kunskap
 - inte ett löv faller utan att Han vet det, 6:59
 - förlorade är de som dödat sina barn av dårskap, utan, 6:140
 - om fem saker, hos Allah allena, 31:34
@@ -759,14 +758,14 @@ Kursi, 2:255
 Lahab (se Masad), S.111
 Lail, S.92
 Lampa, 25:61; 67:5; 71:16; 78:13
-Språk,
+Språk
 - skillnader i, och människors hudfärger, 30:22
 Lat, 53:19
 Lag, föreskriven, 5:48
 Lagar från Allah, 2:219; 98:3
 Lögnare, 26:221-223
 Livet, om någon räddat en persons liv, räddade han hela mänsklighetens liv, 5:32
-Detta livets tillvaro,
+Detta livets tillvaro
 - köpte, till priset av Det kommande livet, 2:86
 - är bara njutning av bedrägeri, 3:185
 - sälj, för Det kommande livet, 4:74
@@ -778,7 +777,7 @@ Detta livets tillvaro,
 - den som begär, får det däri; men sedan kommer det inte att finnas någon del i Det kommande livet, 11:15-16; 17:18; 42:20
 - de som älskar nuet och försummar Det kommande livet, 75:20-21; 76:27
 - ni föredrar, 87:16
-Ljuset,
+Ljuset
 - uppenbart, 4:174
 - och mörker, 6:1
 - liknelse om, 24:35
@@ -793,7 +792,7 @@ Gränser satta av Allah, 2:173, 187, 190, 230;9:112; 58:4; 65:1; 78:22
 - när de överträdde, (blev apor), 7:166
 - de som iakttar, 9:112
 Lejon, 74:51
-Lån,
+Lån
 - låna Allah ett gott lån, 2:245; 73:20
 - mångfaldigt ökat, 57:11, 18
 - fördubblat, 64:17
@@ -811,7 +810,7 @@ Mahr (brudpenning), 2:229, 236-237; 4:4,19-21, 24-25; 5:5; 33:50; 60:10-11
 Ma'idah, S.5
 Makkah (Bakkah), 3:96;90:1-2
 - Trygghetens stad, 95:3
-Människan,
+Människan
 - generation efter generation på jorden, 2:30;6:165
 - gjord till efterträdare, 35:39
 - plikt, 2:83-84, 88, 177; 4:1-36; 8:41; 16:90;17:23-39; 24:22; 29:8-9; 30:38;33:33;42:23; 64:14; 70:22-35
@@ -876,7 +875,7 @@ Människan,
 - överträder alla gränser, 96:6-7
 Manasik (plikter) för Hajj, 2:128, 200; 22:30
 Manat, 53:20
-Mänskligheten,
+Mänskligheten
 - vittnen över, 2:143
 - ett folk, 2:213; 10:19
 - skapad från ett enda par, 4:1; 39:6; 49:13
@@ -886,7 +885,7 @@ Mänskligheten,
 - den mest ärade av, 49:13
 - uppdelad i nationer och stammar, 49:13
 Manna och vaktlarna, 2:57
-Seder,
+Seder
 - vid besök i hus, 24:27-29
 - i hemmet, 24:58-61
 - i profetens hus, 33:53
@@ -909,7 +908,7 @@ Seder,
 - de som saknar ekonomiska medel för äktenskap, 24:33
 - hustrur gjorda tillåtna för profeten, 33:50-52
 - innan samlag, ingen Iddah vid skilsmässa, 33:49
-Martyrer,
+Martyrer
 - inte döda, 2:154; 3:169
 - gläds i nåd och gåvor från Allah,3:170-171
 - tar emot förlåtelse och barmhärtighet, 3:157-158
@@ -929,7 +928,7 @@ Masad, S.111
 Maun, S.107
 Ma'wa Paradiset, 53:15
 Mått och vikt, ge fullt, 11:85; 17:35;83:1-5
-Mötet,
+Mötet
 - med Allah, 6:31
 - den stora dagen, 19:37
 - Det kommande livets, 30:16
@@ -959,7 +958,7 @@ Miraj, 17:1; 53:12
 Månader, antal, 9:36-37
 Månen, 7:54; 10:5; 16:12; 22:18; 25:61; 36:39-40; 71:16; 91:2
 - delning av; 54:1
-Moses,
+Moses
 - och hans folk, 2:51-61; 7:138-141,159-162; 14:5-8; 61:5
 - och farao, 2:49-50; 17:101-103; 20:17-53, 56-79;23:45-49; 25:31-42; 40:23-46; 43:46-56; 51:38-40; 73:16;79:15-26
 - vägledd av Allah, 6:84
@@ -969,23 +968,23 @@ Moses,
 - given Skriften, 17:2
 - nio klara tecken, 7:133; 17:101
 - till de två havens möte, 18:60-82
-- det ödesdigra mötet vid den brinnande busken 20:9-36; 27:7-14; 28:29-35;
+- det ödesdigra mötet vid den brinnande busken 20:9-36; 27:7-14; 28:29-35
 - kallad och given sändebud-uppdraget, 19:51-53;20:9-56
 - hans barndom, mor och syster, 20:38-40;28:7-13
 - magiker omvände sig, 20:70-73; 26:46-52
 - i Madyan, 20:40; 28:22-28
 - fick Kriteriet, 21:48
 - och den mystiska elden, 27:7-12; 28:29-35
-- dödar en egyptier av misstag i staden 28:14-21;
+- dödar en egyptier av misstag i staden 28:14-21
 - kom med klara Ayat, 29:39
-- berättelsen med farao 7:103-137; 10:75-92; 11:96-99; 26:10-69;
-- nio tecken för farao och hans folk 7:130-133; 20:17-22; 17:101;
-- besegrade faraos magiker 20:70-73; 26:46-52;
-- flykt till Midjan och äktenskap 28:22-28;
-- mottar Tavlorna 7:142-154,
-- ber att få se Allah på berget 7:142-145;
-- hedrad av Allah 33:69;
-- Allahs välgärningar mot israeliterna 2:47-61;
+- berättelsen med farao 7:103-137; 10:75-92; 11:96-99; 26:10-69
+- nio tecken för farao och hans folk 7:130-133; 20:17-22; 17:101
+- besegrade faraos magiker 20:70-73; 26:46-52
+- flykt till Midjan och äktenskap 28:22-28
+- mottar Tavlorna 7:142-154
+- ber att få se Allah på berget 7:142-145
+- hedrad av Allah 33:69
+- Allahs välgärningar mot israeliterna 2:47-61
 - israeliterna vägrar att inta Jerusalem 5:20-29
 - vägledd till den rätta vägen, 37:114-122
 - Moses Skrift, 53:36; 87:19
@@ -1073,7 +1072,7 @@ Mumtahanah, S.60
 Munafigun, S.63
 Mord, 2:178-179
 Mursalat, S.77
-Muslimer,
+Muslimer
 - den förste av, 6:14, 163; 9:100; 39:12
 - Vem som har namngett, 22:78
 - förlåtelse och stor belöning för dem som, 33:35-36
@@ -1085,7 +1084,7 @@ Nahl, S.16
 Najas (oren) 9:28
 Najm, S.53
 Najwa (se Hemlighet)
-Namn,
+Namn
 - de mest sköna tillhör Honom, 7:180
 - de bästa tillhör Honom, 17:110; 20:8; 59:24
 Nödvändighet, om man tvingas av, 2:173; 6:145
@@ -1098,10 +1097,10 @@ Natten, (som symbol), för vila, 10:67
 - till tjänst, 14:32
 - Laylat al-Qadr (Maktens natt), 44:3-4; 97:1-5
 Nisa', S.4
-Noa, 3:33; 4:163; 6:84; 9:70; 10:71;11:25, 32, 36, 42, 45-46, 48, 89; 17:3; 21:76; 25:37; 26:105; 29:14; 37:75; 51:46;54:9; 69:11;
-- hånad 11:38;
+Noa, 3:33; 4:163; 6:84; 9:70; 10:71;11:25, 32, 36, 42, 45-46, 48, 89; 17:3; 21:76; 25:37; 26:105; 29:14; 37:75; 51:46;54:9; 69:11
+- hånad 11:38
 - Syndafloden, 29:14
-- Arken och floden 7:59-69, 11:25-48; 23:23-31; 26:105-122; 71:1-28;
+- Arken och floden 7:59-69, 11:25-48; 23:23-31; 26:105-122; 71:1-28
 - orättfärdig son inte räddad, 11:42-48
 - orättfärdig hustru, 14:9; 17:3, 17;19:58;21:76; 22:42; 26:105-106, 116; 33:7; 37:75,79; 38:12; 42:13; 40:5, 31; 42:13;50:12;53:52; 57:26; 66:10; 71:1, 21, 26
 Nuh, S.71
@@ -1135,7 +1134,7 @@ Liknelser (likhet, exempel, jämförelser)
 - regn, 10:24
 - en ren skördad åker, 10:24
 - blind och döv, 11:24
-- Allah mot falska gudar 13:14; 16:76;
+- Allah mot falska gudar 13:14; 16:76
 - sanning mot lögn 13:17
 - aska som vinden blåser häftigt på,14:18
 - ett gott träd, 14:24-25
@@ -1163,7 +1162,7 @@ Liknelser (likhet, exempel, jämförelser)
 - åsnan, 62:5
 - om vattnet sjönk undan, 67:30
 - trädgårdens folk, 68:17-33
-Paradiset,
+Paradiset
 - Bostaden (Ma'wa Paradiset), 53:15
 - Firdaus Paradiset, 18:107; 23:11
 - Lustgårdar under vilka floder flödar, 3:15, 198;4:57; 5:119; 7:43; 9:72; 18:31; 22:23; 39:20;57:12; 64:9; 98:8
@@ -1186,7 +1185,7 @@ Paradiset,
 - en flod i Paradiset, Kauthar, 108:1
 - floder av vin, mjölk, klarat honung, 47:15
 - rent försegnat vin, vitt och läskande, 37:45-46; 56:18; 76:21; 83:25
-- bägare blandad med Zanjabil, 76:17; 78:34;
+- bägare blandad med Zanjabil, 76:17; 78:34
 - vatten, 76:5
 - fat av guld och bägare, 43:71
 - kärl av silver och kristallbägare, 76:15-16
@@ -1233,21 +1232,21 @@ Paradiset,
 - hustrur i skön skugga, vilande på tronor, 36:55
 - unga fullbröstade jungfrur av samma ålder,78:33
 - odödliga pojktjänare som tjänar dem, som strödda pärlor, 52:24; 56:17; 76:19
-- lika vid som himlarna och jorden 3:133, 57:21;
-- rinnande vatten, sval skugga, delikatesser och rena makar 2:25; 4:57; 36:55-58; 37:40-49; 38:50-54; 44:51-57; 52:17-24; 69:19-24; 76:5-22;
-- de troendes belöning 55:46-78; 56:10-40;
-- floder av honung, mjölk, vatten och vin 47:15;
-- böner och hälsningar 10:9-10; 39:73-74;
-- hälsade med fredshälsningar 13:23-24; 14:32;
-- evigt boende i salighet 11:108;
-- aldrig uppmanade att lämna 15:45-48;
-- ljus skimrar framför dem och på deras högra sida 57:12;
-- varken hetta eller kyla 76:13;
-- alla önskningar uppfyllda 16:30-32; 41:31-32;
-- armband av guld och kläder av fint silke 18:30-31; 22:23-24; 44:51-53;
-- fat av gyllene bägare 43:67-73;
-- silverkärl och frukter inom räckhåll 76:14-16;
-- vilande på tronor 15:47; 37:44; 52:20;
+- lika vid som himlarna och jorden 3:133, 57:21
+- rinnande vatten, sval skugga, delikatesser och rena makar 2:25; 4:57; 36:55-58; 37:40-49; 38:50-54; 44:51-57; 52:17-24; 69:19-24; 76:5-22
+- de troendes belöning 55:46-78; 56:10-40
+- floder av honung, mjölk, vatten och vin 47:15
+- böner och hälsningar 10:9-10; 39:73-74
+- hälsade med fredshälsningar 13:23-24; 14:32
+- evigt boende i salighet 11:108
+- aldrig uppmanade att lämna 15:45-48
+- ljus skimrar framför dem och på deras högra sida 57:12
+- varken hetta eller kyla 76:13
+- alla önskningar uppfyllda 16:30-32; 41:31-32
+- armband av guld och kläder av fint silke 18:30-31; 22:23-24; 44:51-53
+- fat av gyllene bägare 43:67-73
+- silverkärl och frukter inom räckhåll 76:14-16
+- vilande på tronor 15:47; 37:44; 52:20
 - de troende ska se sin Herre 75:22-23
 Föräldrar, vänlighet mot, 2:83, 215; 4:36; 16:90;17:23; 29:8; 31:14; 46:15-17
 Allahs medhjälpare, en lögn,4:116;10:34-35, 66; 16:86; 28:62-64, 71-75; 30:40;42:21
@@ -1256,7 +1255,7 @@ Vägen, 5:77; 16:94; 42:52-53; 43:43; 90:11-12
 - se även Väg
 Tålamod, 3:186, 200; 10:109; 11:115; 16:126-127; 20:130; 40:55, 77; 42:43; 46:35; 70:5;73:10
 - sök hjälp i tålamod och bön, 2:45, 153; 20:132;50:39
-Tålmodig,
+Tålmodig
 - ska ta emot full belöning, 39:10
 - Allah är med dem som är, 8:46
 - och var, 11:115
@@ -1265,7 +1264,7 @@ Tålmodig,
 Fred, luta er mot, 8:61
 Pärla och korall, skyddade, 52:24; 55:22; 56:23
 Pennan, 68:1; 96:4
-Personen,
+Personen
 - Allah belastar ingen, utöver hans förmåga,2:286; 7:42
 - Allah belastar ingen, utöver hans kapacitet, 23:62
 - ingen, vet vad han ska förtjäna imorgon och i vilket land han ska dö, 31:34
@@ -1286,7 +1285,7 @@ Farao, 28:6; 40:24
 - byggandet av ett torn, 40:36-37
 - se även Moses
 Anhopning av världsliga ting, 102:1-4
-Trohet (Bai'ah),
+Trohet (Bai'ah)
 - för Islam, 16:91
 - till sändebudet är Bai'ah (trohet) till Allah, 48:10
 - de troendes, 48:18; 60:12
@@ -1322,17 +1321,17 @@ Profeter, 3:33-34, 146; 4:163; 5:20; 6:84-90;23:23-50; 57:26
 - olagligt för, 3:161
 - en fiende för varje, 6:112; 25:31
 - se även Sändebud
-Prostration,
+Prostration
 - för Allah faller i prostration den som finns i himlarna och på jorden och deras skuggor, 13:15
 Uppehälle, 10:59; 13:26; 14:32; 16:73; 34:36,39; 42:12; 51:57; 67:21; 79:33
 Psaltaren, 4:163
-Straff,
+Straff
 - uppskjutande av, 3:178
 - avhuggning av händer eller fötter, 5:33
 - straffa dem med liknande som ni drabbades av, 16:126
 - i detta liv och Det kommande livet, 24:19; 68:33
-Rening,
-- kroppslig, 4:43; 5:6;
+Rening
+- kroppslig, 4:43; 5:6
 - andlig (från orenheter), 87:14; 91:9
 Qadar, 5:5; 64:11
 Qadr, S.97
@@ -1344,7 +1343,7 @@ Qarun (Kora), 28:76-82; 29:39
 Qasas, S.28
 Qiblah, 2:142-145, 149
 Qisas (lagen om vedergällning i bestraffning), 2:178-179, 194; 5:45; 16:126; 17:33; 22:60;42:40
-Koranen,
+Koranen
 - beskriven, 13:31, 36, 37; 14:1; 56:77-80
 - är inte sådan att den någonsin kunde framställas av annan än Allah, 2:23; 10:38; 11:13; 17:88
 - hade den kommit från annan än Allah, hade det funnits många motsägelser däri, 4:82
@@ -1394,7 +1393,7 @@ Koranen,
 - reciterande rena sidor, 98:2
 - se även Bok; Uppenbarelse
 Quraish, S.106
-Quraish,
+Quraish
 - icke-troende bland, 54:43-46, 51
 - tamandet av, 106:1-4
 Rabbiner och munkar, 9:31, 34
@@ -1402,26 +1401,26 @@ Lopp, sträva som i ett lopp i goda gärningar, 5:48
 Ra'd, S.13
 Rahman, S.55
 Rättfärdighetens klädnad är bättre, 7:26
-Regn,
+Regn
 - Allahs gåva, 56:68-70
 - av stenar, 27:58
 Ramadan, 2:185
 Ramy, 2:200
-Lösen,
+Lösen
 - ingen lösen ska tas, 57:15
 - erbjuden av icke-troende, 3:91; 10:54; 13:18
-Fidyah, för fastan, 2:196;
+Fidyah, för fastan, 2:196
 - för att befria fångar, 8:67
 Rass, dess invånare, 25:38; 50:12
-Vedergällning,
+Vedergällning
 - Vedergällningens dag, 1:4; 37:20; 51:12; 56:56; 82:17-18; 96:7
 - de som förnekar, 107:1-7
 - vedergällning för ett ont är ett ont liknande det, 42:40
-Försoning,
+Försoning
 - den som förlåter och försonar, 42:40
 - mellan man och hustru, 4:35
 - mellan troende, 49:9-10
-Register,
+Register
 - ett inskrivet register, 83:7-9, 18-21
 - varje nation ska kallas till sitt, 45:28-29
 - skrivna sidor med varje persons gärningar,81:10
@@ -1431,7 +1430,7 @@ Register,
 - bakom ryggen, 84:10-15
 Registrerande änglar, 50:17-18, 23; 85:11
 Lättnad, vid svårigheter, 94:5-6
-Religion,
+Religion
 - inget tvång i, 2:256
 - är Islam, 3:19
 - Allahs, 3:83-84
@@ -1448,7 +1447,7 @@ Religion,
 - förfäders, 43:22-24
 Åminnelse av Allah, 63:9
 - i, finner hjärtan ro, 13:28
-Ånger,
+Ånger
 - accepteras om ont gjorts i okunnighet och ångern kommer snart därefter, 4:17; 6:54
 - och utan verkan är, om onda gärningar fortsätter, 4:18
 - Han accepterar, och förlåter synder, 4:25
@@ -1456,7 +1455,7 @@ Respit för det onda, 3:178; 10:11; 12:110; 14:42,44; 29:53-55; 86:15-17
 Uppståndelsen, 2:28, 7:53; 14:21; 16:38-40; 22:5-7; 23:15-16; 31:28, 41:39, 46:33-34; 50:3,20-29, 41-44; 64:7, 75:1-15; 79:10-12; 86:5-8
 - exempel i berättelsen om Ezra 2:259
 - Abraham 2:260
-- grottans folk 18:9-26;
+- grottans folk 18:9-26
 - varning till de som förnekar uppståndelsen 17:49-52, 17:97-100, 19:66-72, 37:11-27, 50:1-15, 80:17-42
 Uppståndelsens dag, 7:89; 20:100-101, 124
 - den sanna dagen, 78:39
@@ -1547,7 +1546,7 @@ Register givet bakom ryggen, 84:10-15
 - Helvetet ska föras nära, 89:23
 - Helvetets eld ska tändas och brinna i vild låga, 81:11-12
 - Vedergällning genom välgörenhet ska vara en botgöring, 5:45
-Uppenbarelse,
+Uppenbarelse
 - om du tvivlar, 2:23-24
 - upphävd eller glömd vers, 2:106
 - rätt vägledning, 3:73
@@ -1559,13 +1558,13 @@ Uppenbarelse,
 - Bokens uppenbarelse är från Allah, 46:2
 - se även Bok och Koranen
 Hämnd för förtryckande orättvisa gjord mot dem, 42:39-43
-Belöning,
+Belöning
 - i enlighet med de bästa gärningarna, och ännu mer, 24:38; 29:7; 39:35
 - som en belöning 25:15
 - Allah belönar dem som gör gott med det bästa, 53:31
 - för gott, ingen belöning utom gott, 55:60
 Riba (se ocker)
-Rättfärdiga,
+Rättfärdiga
 - sällskapet av de, 4:69
 - ska ärva landet, 21:105
 - i Paradiset, 51:15-19; 76:5-12
@@ -1584,7 +1583,7 @@ Ruh (själ, ande), 15:29; 17:85; 58:22
 Rum, S.30
 Saba' (Saba), 27:22-44; 34:15-21
 Saba', S.34
-Sabbaten,
+Sabbaten
 - överträdare av, 2:65; 4:154; 7:163-166
 - föreskriven bara för, 16:124
 Sabierna, 5:69; 22:17
@@ -1610,23 +1609,23 @@ Satan, 2:36, 168, 208, 268, 275; 3:36, 155, 175;4:38, 60, 76, 83, 119-120; 5:80,
 - har ingen makt över de troende, 16:99-100
 - kastar lögn, 22:52-53
 - är en fiende, 12:5; 35:6; 36:60
-- arrogans 2:34; 7:11-27; 15:26-43; 17:61-65; 38:73-85;
-- en jinn 18:50-51;
-- Adams frestelse och fall 7:20-23; 20:116-121;
-- har ingen makt över de troende 16:98-100;
-- hans mål 35:6-8;
-- en svuren fiende mot mänskligheten 12:5; 17:53;
-- hans parti 53:14-19;
-- hans hantverk 5:90-91;
-- avskräcker från goda gärningar 2:268;
-- de troende söker tillflykt hos Allah från honom 7:200-202;
-- hans planer är svaga 4:76;
-- sviker sina anhängare 8:48;
+- arrogans 2:34; 7:11-27; 15:26-43; 17:61-65; 38:73-85
+- en jinn 18:50-51
+- Adams frestelse och fall 7:20-23; 20:116-121
+- har ingen makt över de troende 16:98-100
+- hans mål 35:6-8
+- en svuren fiende mot mänskligheten 12:5; 17:53
+- hans parti 53:14-19
+- hans hantverk 5:90-91
+- avskräcker från goda gärningar 2:268
+- de troende söker tillflykt hos Allah från honom 7:200-202
+- hans planer är svaga 4:76
+- sviker sina anhängare 8:48
 - talar till sina anhängare i Helvetet 14:22
 - se även Iblis
 Vågskålen, den lycklige vars ska vara tung, 7:8-9
 - se även balans
-Skriften,
+Skriften
 - skriftens folk (judar och kristna), 2:109;3:64-65, 69-72, 75, 98-99, 110, 113,199; 4:47, 153-161; 5:59-60, 68; 98:1
 - vad de dolde, 5:61-63
 - bland dem som följer den rätta kursen,5:66
@@ -1634,7 +1633,7 @@ Skriften,
 Haven, 42:32-33; 45:12
 - de två, 18:60; 25:53; 35:12; 55:19-20
 - när, brister, 82:3
-Hemlighet (Najwa),
+Hemlighet (Najwa)
 - samtal, 4:114
 - råd av tre, 58:7
 - råd, 58:8, 10
@@ -1643,10 +1642,10 @@ Sekter och splittring i religionen, 6:15; 23:53;30:32; 42:13-14; 43:65; 45:17
 Trygghet, efter nöden sänder Han ned,3:154
 Fröet, vem gör det att växa, 56:63-67
 Sinnen, 23:78
-Sju, skapade,
+Sju, skapade
 - himlar, 2:29; 23:17; 65:12; 67:3; 71:15
 - och av jorden likaså, 65:12
-Skuggan,
+Skuggan
 - för Allah faller i prostration, 13:15; 16:48
 - skuggans utbredning, 25:45
 Shams, S.91
@@ -1678,12 +1677,12 @@ Slavar, 2:177-178; 4:25, 36, 92; 5:89; 24:33; 58:3; 90:13
 Sömnen, en sak för vila, 78:9
 Sodom, 29:31; 37:136
 Sodomi, 7:80-82; 11:77-83; 15:61-77; 29:28-29
-Salomo, 2:102; 4:163; 6:84;
-- hjälper sin fader David att nå ett rättvisare avgörande 21:78-82;
+Salomo, 2:102; 4:163; 6:84
+- hjälper sin fader David att nå ett rättvisare avgörande 21:78-82
 - och myrorna, 27:15-19
 - och härfågeln, 27:20-26
 - och drottningen av Saba', 27:22-44; 34:15
-- Allahs välgärningar mot honom 34:12-14, 38:34-40;
+- Allahs välgärningar mot honom 34:12-14, 38:34-40
 - hans kärlek till ädla hästar 38:30-33
 Son, adopterad, 33:4-5
 Själen (anden, Ruh), 15:29; 17:85; 58:22
@@ -1703,8 +1702,8 @@ Krigsbyte, 8:41, 69; 48:15, 19-20; 48:15
 Spioneri, 49:12
 Stjärnan, 53:1, 49; 86:1-4
 Stjärnor, 7:54; 15:16; 16:12, 16; 22:18; 25:61;37:6-10; 56:75; 77:8; 81:2; 82:2
-Den rätta, vägen, 1:6,
-- osv. Stigen, 6:153,
+Den rätta, vägen, 1:6
+- osv. Stigen, 6:153
 - osv. Kamp, 4:95; 8:72, 74, 75; 9:20, 24, 81; 22:78; 25:52; 29:69; 47:3; 60:1; 61:11
 Amning, amningstiden, fostermor, 2:233
 Lidande, fattigdom, förlust av hälsa och olyckor; välstånd och rikedom, 7:94-96
@@ -1774,7 +1773,7 @@ Ocker (Riba), 2:275-276, 278-280; 3:130;4:161; 30:39
 Slöja, en osynlig, 17:45-46
 Slöjning, 24:31; 33:59
 Verser, Sab' Al-Mathani, 15:87
-Seger,
+Seger
 - given av Allah, 48:1
 - genom hjälp från Allah, 61:13
 Dygder (se Rättfärdighet; Troende)
@@ -1791,7 +1790,7 @@ Vägen, 1:6; 42:52-53; 90:10
 - osv. lätt, gör lätt, 87:8
 - se även Stigen
 Vägfaranden, 2:177, 215; 8:41; 17:26; 29:29;30:38; 59:7
-Rikedom,
+Rikedom
 - den som samlat ihop, 104:2-4
 - utgifter i Allahs sak (se Utgifter)
 Rikedom och barn, detta livets prydnad, 18:46
@@ -1809,7 +1808,7 @@ Vin (i Paradiset)
 - floder av, 47:15
 - rent och försegnat, 83:25
 Önska inte det som Allah gett vissa framför andra, 4:32
-Vittnen,
+Vittnen
 - för profeternas förbund, 3:81
 - över mänskligheten, 2:143; 22:78
 - för ett avtal, 2:282
@@ -1819,7 +1818,7 @@ Vittnen,
 - händer och ben ska vittna, 36:65
 - mannen mot sig själv, 75:14
 Bevittnandets dag och det bevittnade dagen, 85:3
-Hustrur,
+Hustrur
 - är en åker för er, 2:223
 - ett täcke för er, 2:187
 - av ert eget slag, 16:72
@@ -1831,7 +1830,7 @@ Kvinnor, 2:222-223; 4:15, 19-22, 34, 127
 - gör inte sig själv tydlig i tvist, 43:17-18
 Skogen, dess invånare, 15:78; 38:13; 50:14
 - se även Aikah; Madyan 26:176-191
-Världen, detta livets tillvaro,
+Världen, detta livets tillvaro
 - är ingenting annat än lek och nöje, 6:32;29:64; 47:36; 57:20
 - bedrar människor, 6:130
 - liten är njutningen av, jämfört med Det kommande livet, 9:38; 13:26; 28:60-61
@@ -1843,7 +1842,7 @@ Orättgörare, 11:18-22, 101-104, 116-117;39:47
 - se även Icke-troende
 Wudu' (Ablutioner), 4:43; 5:6
 Yaghuth, 71:23
-Yahya (Johannes),
+Yahya (Johannes)
 - glädjebudskapet om, 3:39; 21:90
 - rättfärdig, 6:85
 - vis; medkännande; plikttrogen, 19:12-15
@@ -1864,52 +1863,52 @@ Zihar, 33:4; 58:2-4
 Zukhruf, S.43
 Zumar, S.39
 Grundläggande trossatser
-- Tron fulländad 5:3;
-- den enda väg accepterad av Allah 3:19, 85;
-- inget tvång i att acceptera Islam 2:256;
-- en religion med olika trostraditioner och rättssystem 5:48; 22:67-70; 42:13-14;
-- Islams profeter 2:135-136; 3:84; 4:163-165;
-- bud (tro på Allah och gör gott) 4:36; 6:151-154;17:23-39;18:107-108;
-- Shariahs fem mål: att skydda tron 5:54;
-- att skydda livet 5:32;6:151;
-- att skydda rikedomen 5:38;
-- att skydda äran 5:5;24:4;
+- Tron fulländad 5:3
+- den enda väg accepterad av Allah 3:19, 85
+- inget tvång i att acceptera Islam 2:256
+- en religion med olika trostraditioner och rättssystem 5:48; 22:67-70; 42:13-14
+- Islams profeter 2:135-136; 3:84; 4:163-165
+- bud (tro på Allah och gör gott) 4:36; 6:151-154;17:23-39;18:107-108
+- Shariahs fem mål: att skydda tron 5:54
+- att skydda livet 5:32;6:151
+- att skydda rikedomen 5:38
+- att skydda äran 5:5;24:4
 - att skydda förmågan att tänka 5:90.
 Tro på Allah 2:255
-- Gudomliga egenskaper, Sköna namn 57:1-6; 59:22-24; 85:13-16; 112:1-4;
-- den ende guden värdig dyrkan 1:1-4; 2:285; 6:3; 43:84;
-- all makt tillhör Honom 3:26; Hans tron ('Arsh) 7:54; 11:7;
-- Hans Kursi (fotpall eller stol) 2:255;
-- otaliga välgärningar mot mänskligheten 14:32-34; 2:164; 16:2-93; 31:20; 55:1-25;
-- ger liv och orsakar död 44:8; 53:44; 57:2; 67:2;
-- åstadkommer glädje och sorg 53:43;
-- ger rikligt eller begränsat uppehälle 13:26; 17:30; 29:62;
-- den bäste av alla domare 95:8;
-- den mest barmhärtige av de barmhärtiga 12:92;
-- älskar de rättfärdiga 85:14;
-- full av förlåtelse och sträng i bestraffning 13:6, 40:3;
-- den Förste och Siste 57:3;
-- all ära och makt tillhör Honom 35:10;
-- känner det okända och ser det dolda 6:59,73; 9:94, 105; 13:8-10; 31:34; 32:6; 34:48; 35:38; 39:46; 49:18; 59:22; 62:8; 64:18; 72:26; 74:31; 87:7;
-- känner bäst det som döljs i hjärtat 5:7; 11:5; 31:23;
-- känner vad som hänt och vad som ska komma 2:255;
-- nedtecknade allt i Registret (eller den bevarade Tavlan) 6:38; 13:39; 36:12;
-- förmåga att göra vad som helst 2:117; 3:189; 8:41; 9:116; 11:4; 16:40; 40:68; 41:39; 42:49;57:2;
-- Hans oändliga makt 3:26-27; 24:45; 31:28-30;
-- skapade himlarna och jorden på sex dagar och tröttnade aldrig 46:33; 50:38;
-- skapar med ordet 'Var!' 36:81-83;
-- aldrig orättvis mot Sin skapelse 3:108; 4:40; 17:71; 21:47; 22:10; 26:209; 40:31; 41:46; 45:22; 50:29; 64:11; 78:6-16;
-- allt underkastar sig Hans vilja 3:83; 22:18; 30:26;
-- alla är i behov av Honom 11:6; 35:15; 55:29;
-- förtröstan på Honom 10:84-85; 12:67; 25:58;
-- former av gudomlig kommunikation 42:51;
-- värd att frukta 2:21; 3:102; 4:1; 33:70-71; 59:18;
-- visdom är en gåva från Honom 2:269;
-- Han är inte i behov av någon 3:97; 6:133; 112:2;
-- inte en i en treenighet 4:171;
-- har ingen gemål 6:101;
-- har inga barn 10:68; 19:35; 43:81; 72:3; 112:3;
-- har inga medhjälpare eller delgudar 6:94; 7:191-195; 46:4-5;
+- Gudomliga egenskaper, Sköna namn 57:1-6; 59:22-24; 85:13-16; 112:1-4
+- den ende guden värdig dyrkan 1:1-4; 2:285; 6:3; 43:84
+- all makt tillhör Honom 3:26; Hans tron ('Arsh) 7:54; 11:7
+- Hans Kursi (fotpall eller stol) 2:255
+- otaliga välgärningar mot mänskligheten 14:32-34; 2:164; 16:2-93; 31:20; 55:1-25
+- ger liv och orsakar död 44:8; 53:44; 57:2; 67:2
+- åstadkommer glädje och sorg 53:43
+- ger rikligt eller begränsat uppehälle 13:26; 17:30; 29:62
+- den bäste av alla domare 95:8
+- den mest barmhärtige av de barmhärtiga 12:92
+- älskar de rättfärdiga 85:14
+- full av förlåtelse och sträng i bestraffning 13:6, 40:3
+- den Förste och Siste 57:3
+- all ära och makt tillhör Honom 35:10
+- känner det okända och ser det dolda 6:59,73; 9:94, 105; 13:8-10; 31:34; 32:6; 34:48; 35:38; 39:46; 49:18; 59:22; 62:8; 64:18; 72:26; 74:31; 87:7
+- känner bäst det som döljs i hjärtat 5:7; 11:5; 31:23
+- känner vad som hänt och vad som ska komma 2:255
+- nedtecknade allt i Registret (eller den bevarade Tavlan) 6:38; 13:39; 36:12
+- förmåga att göra vad som helst 2:117; 3:189; 8:41; 9:116; 11:4; 16:40; 40:68; 41:39; 42:49;57:2
+- Hans oändliga makt 3:26-27; 24:45; 31:28-30
+- skapade himlarna och jorden på sex dagar och tröttnade aldrig 46:33; 50:38
+- skapar med ordet 'Var!' 36:81-83
+- aldrig orättvis mot Sin skapelse 3:108; 4:40; 17:71; 21:47; 22:10; 26:209; 40:31; 41:46; 45:22; 50:29; 64:11; 78:6-16
+- allt underkastar sig Hans vilja 3:83; 22:18; 30:26
+- alla är i behov av Honom 11:6; 35:15; 55:29
+- förtröstan på Honom 10:84-85; 12:67; 25:58
+- former av gudomlig kommunikation 42:51
+- värd att frukta 2:21; 3:102; 4:1; 33:70-71; 59:18
+- visdom är en gåva från Honom 2:269
+- Han är inte i behov av någon 3:97; 6:133; 112:2
+- inte en i en treenighet 4:171
+- har ingen gemål 6:101
+- har inga barn 10:68; 19:35; 43:81; 72:3; 112:3
+- har inga medhjälpare eller delgudar 6:94; 7:191-195; 46:4-5
 - ingenting liknar Honom 42:11; 112:4
 Uppmaning att begrunda Hans skapelses underverk 3:190; 6:99; 10:5-6; 13:3-4; 16:10-16; 88:17-20
 Tecken i skapelsen 2:164; 6:95-99; 7:57-58; 10:5-6; 13:2-4; 16:10-13, 65-69, 79; 23:27-30; 27:60-65; 30:19-25; 50:6-11
@@ -1930,21 +1929,21 @@ Tecken i skapelsen 2:164; 6:95-99; 7:57-58; 10:5-6; 13:2-4; 16:10-13, 65-69, 79;
 - duggregn, hagel och regn 2:265; 6:99; 24:43; 50:9-11
 - åska och blixt 13:12-13
 Vetenskapliga referenser
-- människor skapade av manliga och kvinnliga könsceller 76:2;
-- fostrets bildning och utvecklingsfaser 22:5; 23:12-14;
-- fostret i tre lager av mörker 39:6;
-- bräckt vatten 25:53-54; 35:12; 55:19-20;
-- vindpollinering 15:22;
-- fingeravtryck 75:3-4;
-- berg som pålar 78:7;
-- järn sänt ned 57:25;
-- smärtreceptorer 4:56;
-- solen som en strålande källa och månen som reflekterat ljus 10:5;
-- månklyvning 54:1;
-- himlen som ett välskyddat tak 21:32;
-- alla varelser skapade av vatten 21:30; 24:45;
-- myror kommunicerar 27:17-19;
-- inre vågor 24:40;
+- människor skapade av manliga och kvinnliga könsceller 76:2
+- fostrets bildning och utvecklingsfaser 22:5; 23:12-14
+- fostret i tre lager av mörker 39:6
+- bräckt vatten 25:53-54; 35:12; 55:19-20
+- vindpollinering 15:22
+- fingeravtryck 75:3-4
+- berg som pålar 78:7
+- järn sänt ned 57:25
+- smärtreceptorer 4:56
+- solen som en strålande källa och månen som reflekterat ljus 10:5
+- månklyvning 54:1
+- himlen som ett välskyddat tak 21:32
+- alla varelser skapade av vatten 21:30; 24:45
+- myror kommunicerar 27:17-19
+- inre vågor 24:40
 Levande varelser
 - änglar 39:75
 - människor (en auktoritet på jorden) 2:30; 6:165; 16:4
@@ -1977,366 +1976,366 @@ Levande varelser
 - spindeln 29:41
 - andra okända för oss 16:8
 Växter och frukter 6:99; 13:4; 16:11; 36:33-35
-- bananer 56:29,
-- dadlar 19:25,
-- örter, gurkor, vitlök, linser och lök 2:61,
-- druvor 80:28,
-- oliver 6:99,
-- fikon 95:1,
-- granatäpplen 55:68,
+- bananer 56:29
+- dadlar 19:25
+- örter, gurkor, vitlök, linser och lök 2:61
+- druvor 80:28
+- oliver 6:99
+- fikon 95:1
+- granatäpplen 55:68
 - squash 37:146
 Tro på Muhammed
-- Egenskaper, bara en profet 3:144; 6:50; 7:188; 18:110;
-- att förmedla sanningen 2:119; 35:24; 42:48;
-- profeternas sigill 33:40;
-- ädel karaktär 3:159; 68:4;
-- ett föredöme 33:21;
-- en välgärning för de troende 3:164;
-- en nåd för hela världen 21:107;
-- ett universellt sändebud 4:170; 7:157-158; 34:28;
-- leder till den rätta vägen 42:52-53;
-- bryr sig om människor 9:129;
-- som ett vittne på Domens dag 4:42; 16:89;
-- analfabetisk profet 7:157-158; 29:48; 62:2;
-- förebådad i Torahn och Evangeliet 7:157;
+- Egenskaper, bara en profet 3:144; 6:50; 7:188; 18:110
+- att förmedla sanningen 2:119; 35:24; 42:48
+- profeternas sigill 33:40
+- ädel karaktär 3:159; 68:4
+- ett föredöme 33:21
+- en välgärning för de troende 3:164
+- en nåd för hela världen 21:107
+- ett universellt sändebud 4:170; 7:157-158; 34:28
+- leder till den rätta vägen 42:52-53
+- bryr sig om människor 9:129
+- som ett vittne på Domens dag 4:42; 16:89
+- analfabetisk profet 7:157-158; 29:48; 62:2
+- förebådad i Torahn och Evangeliet 7:157
 - förutsagd av Jesus 61:6
 Utmaningar profeten (ﷺ) mötte
-- hedningarnas meningslösa krav 8:32; 15:7; 17:89-93; 25:7-8;
-- falska anklagelser 10:2; 11:13; 21:5; 24:11-26; 25:4-6; 37:36; 38:4; 52:29-30;
-- försök på hans liv 8:30; 9:74;
-- varning till dem som skadar eller motsätter sig honom 4:115; 8:13; 9:61; 15:95; 33:57; 47:32; 96:9-19;
-- beordrad att svara på förnekelse med tålamod 20:130; 30:60; 46:35; 70:5;
+- hedningarnas meningslösa krav 8:32; 15:7; 17:89-93; 25:7-8
+- falska anklagelser 10:2; 11:13; 21:5; 24:11-26; 25:4-6; 37:36; 38:4; 52:29-30
+- försök på hans liv 8:30; 9:74
+- varning till dem som skadar eller motsätter sig honom 4:115; 8:13; 9:61; 15:95; 33:57; 47:32; 96:9-19
+- beordrad att svara på förnekelse med tålamod 20:130; 30:60; 46:35; 70:5
 - beordrad och försäkrad av Allah 5:67; 93:1-11; 94:1-8
 Lärdomar från profetens (ﷺ) liv
-- från hans utvandring (hijrah) till slaget vid Badr 3:121-129; 8:42-44; 8:65-71;
-- slaget vid Uhud 3:151-180;
-- slaget vid Graven 33:9-27;
-- slaget vid Hunain 9:25-27;
-- Madinah 9:40; Tabuk 9:38-123;
-- Banu An-Nadir 59:2-6;
-- Hamra' Al-Asad 3:172-175;
+- från hans utvandring (hijrah) till slaget vid Badr 3:121-129; 8:42-44; 8:65-71
+- slaget vid Uhud 3:151-180
+- slaget vid Graven 33:9-27
+- slaget vid Hunain 9:25-27
+- Madinah 9:40
+- Tabuk 9:38-123
+- Banu An-Nadir 59:2-6
+- Hamra' Al-Asad 3:172-175
 - vapenstilleståndet vid Hudaibiyah 48:1-7; 48:10-29
 Hedringar bestådda på profeten (ﷺ)
-- Allah och Hans änglar välsignar honom 33:56;
-- nattresan från Mekka till Jerusalem 17:1;
-- resan till himlarna 53:1-18;
-- hedrad i detta liv och det nästa 17:79; 66:8; 108:1;
-- lydnad mot honom är lydnad mot Allah 4:80;
-- belöning för lydnad mot Allah och Hans sändebud 4:69;
-- hans familj renad 33:33-34;
-- ser Gabriel i hans sanna gestalt 53:1-18;
-- de troende beordrade att lyda honom 59:7;
+- Allah och Hans änglar välsignar honom 33:56
+- nattresan från Mekka till Jerusalem 17:1
+- resan till himlarna 53:1-18
+- hedrad i detta liv och det nästa 17:79; 66:8; 108:1
+- lydnad mot honom är lydnad mot Allah 4:80
+- belöning för lydnad mot Allah och Hans sändebud 4:69
+- hans familj renad 33:33-34
+- ser Gabriel i hans sanna gestalt 53:1-18
+- de troende beordrade att lyda honom 59:7
 - etikett vid tilltal av honom 49:1-5
-- etikett vid besök hos honom 33:53;
-- etikett vid umgänge med hans hustrur 33:53;
-- Allah är nöjd med honom och hans följeslagare 9:100; 9:117;
+- etikett vid besök hos honom 33:53
+- etikett vid umgänge med hans hustrur 33:53
+- Allah är nöjd med honom och hans följeslagare 9:100; 9:117
 - hans troendegemenskaps förträfflighet 2:143; 3:110
-Bön (salah) 2:45; 9:103; 51:18; 70:22-23; 75:31; 96:10; 108:2;
-- fredagsbön i gemenskap 62:9;
-- bönriktning (qiblah) 2:144; 2:149-150;
-- ska avhålla från onda gärningar 29:45;
-- tider 11:114; 17:78; 17:79; 20:130; 24:36; 24:58; 30:17-18; 32:16; 38:18; 50:39-40; 51:17; 52:48-49; 73:2-4; 76:25-26;
-- under fara eller på resa 2:239; 4:101-102;
-- varning till dem som försummar bönen 19:59; 74:38-47; 107:5-7;
+Bön (salah) 2:45; 9:103; 51:18; 70:22-23; 75:31; 96:10; 108:2
+- fredagsbön i gemenskap 62:9
+- bönriktning (qiblah) 2:144; 2:149-150
+- ska avhålla från onda gärningar 29:45
+- tider 11:114; 17:78; 17:79; 20:130; 24:36; 24:58; 30:17-18; 32:16; 38:18; 50:39-40; 51:17; 52:48-49; 73:2-4; 76:25-26
+- under fara eller på resa 2:239; 4:101-102
+- varning till dem som försummar bönen 19:59; 74:38-47; 107:5-7
 - hycklarnas böner 4:142; 9:54
-Rening, ablution (wudu) 5:6;
-- helkroppsrening (ghusl) 2:222; 4:43;
+Rening, ablution (wudu) 5:6
+- helkroppsrening (ghusl) 2:222; 4:43
 - torrablution (tayammum) 4:43; 5:6
 Åkallan (du'a)
-- Abrahams 2:126-129; 14:35-41; 26:83-89;
-- Adam och Evas 7:23;
-- Jesu 5:114;
-- Jobs 21:83;
-- Jonas 21:87;
-- Josefs 12:33; 12:101;
-- Moses 10:88-89; 20:25-35;
+- Abrahams 2:126-129; 14:35-41; 26:83-89
+- Adam och Evas 7:23
+- Jesu 5:114
+- Jobs 21:83
+- Jonas 21:87
+- Josefs 12:33; 12:101
+- Moses 10:88-89; 20:25-35
 - Muhammeds 17:80; 20:114
-- Noas 23:26; 26:117-118; 54:9-10; 71:26; 71:28;
-- Salomos 38:35;
-- Shu'aibs 7:89;
-- Sakarias 3:38; 19:2-6; 21:89-90;
-- änglarnas 40:8-9;
-- Marias mors 3:35-36;
-- faraos hustrus 66:11;
-- faraos trollkarlars 7:126;
-- kung Sauls och de troende med honom 2:250;
-- Israels barns troende 10:85-86;
-- grottans folk 18:10;
-- de rättfärdigas 2:285-286; 3:8-9; 3:16; 3:147; 3:191-194; 25:74; 59:10;
+- Noas 23:26; 26:117-118; 54:9-10; 71:26; 71:28
+- Salomos 38:35
+- Shu'aibs 7:89
+- Sakarias 3:38; 19:2-6; 21:89-90
+- änglarnas 40:8-9
+- Marias mors 3:35-36
+- faraos hustrus 66:11
+- faraos trollkarlars 7:126
+- kung Sauls och de troende med honom 2:250
+- Israels barns troende 10:85-86
+- grottans folk 18:10
+- de rättfärdigas 2:285-286; 3:8-9; 3:16; 3:147; 3:191-194; 25:74; 59:10
 - de förtrycktas 4:75
 Prostrationens verser
 - sajadat, plural av sajdah, 7:206; 13:15; 16:49; 17:109; 19:58; 22:18; 22:77; 25:60; 27:26; 32:15; 38:24; 41:37; 53:62; 84:21; 96:19
-Allmoseskatten (zakah), som en skyldighet 2:110; 2:177; 2:277; 6:141;
-- en av de troendes egenskaper 22:41; 23:4; 51:19;
+Allmoseskatten (zakah), som en skyldighet 2:110; 2:177; 2:277; 6:141
+- en av de troendes egenskaper 22:41; 23:4; 51:19
 - mottagare 9:60
 - välgörenhet (sadaqah) 2:177; 2:261-263; 2:267-274; 3:92; 63:10
 - varning till dem som håller tillbaka 3:180; 9:34; 47:38
 Fasta (sawm)
-- under Ramadan 2:183-185;
-- fastans timmar 2:187;
-- undantag 2:184-185;
-- intimitet under natten före fastan 2:187;
+- under Ramadan 2:183-185
+- fastans timmar 2:187
+- undantag 2:184-185
+- intimitet under natten före fastan 2:187
 - fasta under vallfärden 2:196
-Vallfärd (hajj),
-- en skyldighet för dem som har möjlighet 3:97;
-- ritualer och regler 2:158; 2:189; 2:196-203; 5:2; 22:26-37;
-- offerdjur 2:196; 22:36-37;
-- förbud mot jakt på land under vallfärden 5:1; 5:94-95;
+Vallfärd (hajj)
+- en skyldighet för dem som har möjlighet 3:97
+- ritualer och regler 2:158; 2:189; 2:196-203; 5:2; 22:26-37
+- offerdjur 2:196; 22:36-37
+- förbud mot jakt på land under vallfärden 5:1; 5:94-95
 - tillåtlighet av jakt till havs 5:96
 - Liten vallfärd ('umrah) 2:158; 2:196
 Trosgemenskaper
-- muslimer 2:132-136; 3:64; 3:84; 5:111; 22:77-78; 33:35; 41:33; 43:67-70; 72:14-15;
-- varandras beskyddare 3:28; 9:71;
-- kristna 2:62; 2:111-140; 4:171-172; 5:14-19; 5:82-86; 5:116-120; 9:30-31; 22:17;
-- judar 2:62, 111-140; 5:44-45; 6:146; 22:17; 62:6-8;
-- Israels barn 2:40-103, 122-123, 246-251; 3:49; 3:93-94; 5:12-13, 20-26, 32, 70-71, 78-81; 7:137-141, 148-153,159-171; 10:83-93; 14:5-8; 17:2-8, 104; 20:80-98; 26:52-67, 197; 27:76; 44:23-33; 45:16-17; 46:10; 61:5-6;
+- muslimer 2:132-136; 3:64; 3:84; 5:111; 22:77-78; 33:35; 41:33; 43:67-70; 72:14-15
+- varandras beskyddare 3:28; 9:71
+- kristna 2:62; 2:111-140; 4:171-172; 5:14-19; 5:82-86; 5:116-120; 9:30-31; 22:17
+- judar 2:62, 111-140; 5:44-45; 6:146; 22:17; 62:6-8
+- Israels barn 2:40-103, 122-123, 246-251; 3:49; 3:93-94; 5:12-13, 20-26, 32, 70-71, 78-81; 7:137-141, 148-153,159-171; 10:83-93; 14:5-8; 17:2-8, 104; 20:80-98; 26:52-67, 197; 27:76; 44:23-33; 45:16-17; 46:10; 61:5-6
 - Bokens folk (huvudsakligen judar och kristna) 2:109; 3:64-115, 199; 4:123-172; 5:15-77; 6:20-21; 13:36; 28:52-55; 29:46-47; 57:16, 28-29; 74:31; 98:1-5
 - muslimer får äta av djur slaktade av dem och gifta sig med deras kvinnor 5:5
-- mat förbjuden för judar 6:146;
-- sabierna 2:62; 22:17;
-- magierna 22:17;
-- polyteister (hedningar, avgudadyrkare) 3:186; 6:148; 9:6, 17; 10:28; 16:86; 22:17; 53:19-30;
-- hedniska vidskepliga seder 2:189; 5:103; 6:138-144;
+- mat förbjuden för judar 6:146
+- sabierna 2:62; 22:17
+- magierna 22:17
+- polyteister (hedningar, avgudadyrkare) 3:186; 6:148; 9:6, 17; 10:28; 16:86; 22:17; 53:19-30
+- hedniska vidskepliga seder 2:189; 5:103; 6:138-144
 - ateister 52:35-36
 Hedniska sedvänjor förbjudna
-- levande begravning av döttrar 16:58-59; 81:8-9;
-- döda barn av rädsla för fattigdom 6:137; 6:151; 17:31;
-- vissling och handklappning runt Ka'bah 8:35;
-- tilldela kameler till avgudar 5:103; 6:136;
-- offra i avgudars namn 6:121;
-- zihar-skilsmässa 33:4; 58:2-4;
-- ila' (i mer än fyra månader) 2:226-227;
-- lottdragning för beslut 5:3;
-- gå runt Ka'bah naken 7:26-28;
+- levande begravning av döttrar 16:58-59; 81:8-9
+- döda barn av rädsla för fattigdom 6:137; 6:151; 17:31
+- vissling och handklappning runt Ka'bah 8:35
+- tilldela kameler till avgudar 5:103; 6:136
+- offra i avgudars namn 6:121
+- zihar-skilsmässa 33:4; 58:2-4
+- ila' (i mer än fyra månader) 2:226-227
+- lottdragning för beslut 5:3
+- gå runt Ka'bah naken 7:26-28
 - gå in i hus genom bakdörrar efter vallfärden 2:189
-Dyrkansföremål,
-- änglar (bland vissa hedniska araber) 34:40;
-- Al-Aykah (bland Shu'aibs folk) 26:176;
-- Ba'l (bland Elias folk) 37:125;
-- Jesus (i kristendomen) 5:17;
-- avgudar (bland Abrahams folk) 21:52-53;
-- avgudarna Lat, 'Uzza och Manat (bland arabiska hedningar) 53:19-20;
-- avgudarna Wadd, Suwa', Yaghuth, Ya'uq och Nasr (bland Noas folk) 71:23;
-- solen (Sabas folk) 27:24;
-- Sirius (bland vissa hedniska araber) 53:49;
-- farao (i det gamla Egypten) 26:29; 28:38; 79:24;
-- begär 25:43-44; 45:23;
+Dyrkansföremål
+- änglar (bland vissa hedniska araber) 34:40
+- Al-Aykah (bland Shu'aibs folk) 26:176
+- Ba'l (bland Elias folk) 37:125
+- Jesus (i kristendomen) 5:17
+- avgudar (bland Abrahams folk) 21:52-53
+- avgudarna Lat, 'Uzza och Manat (bland arabiska hedningar) 53:19-20
+- avgudarna Wadd, Suwa', Yaghuth, Ya'uq och Nasr (bland Noas folk) 71:23
+- solen (Sabas folk) 27:24
+- Sirius (bland vissa hedniska araber) 53:49
+- farao (i det gamla Egypten) 26:29; 28:38; 79:24
+- begär 25:43-44; 45:23
 - tron på flera gudar vederlagd 17:42-43; 21:21-24; 25:3
-Dyrkansplatser, moskéer 9:18;
-- kyrkor, synagogor och kloster 22:40;
-- helgedom 3:39; 38:21;
+Dyrkansplatser, moskéer 9:18
+- kyrkor, synagogor och kloster 22:40
+- helgedom 3:39; 38:21
 - tempel 17:7
 - Religiösa titlar, präster, munkar och rabbiner 5:44; 5:63; 5:82; 9:31-34
-Änglar,
+Änglar
 - frågar om skapelsen av Adam 2:30-34
-- lyder aldrig Allah 21:26-27; 66:6;
-- är inte Allahs döttrar 21:26; 43:16-19;
-- skyddande änglar 13:11;
-- två registrerande änglar 50:16-18; 82:10-12;
-- åtta bär Allahs tron på Domens dag 69:17;
-- nitton väktare av Helvetet 74:26-31;
-- dödsänglarna 6:93; 16:28; 32:11;
-- Gabriel 2:97; 66:4; 26:192-195; 53:1-14;
-- Mikael 2:98;
+- lyder aldrig Allah 21:26-27; 66:6
+- är inte Allahs döttrar 21:26; 43:16-19
+- skyddande änglar 13:11
+- två registrerande änglar 50:16-18; 82:10-12
+- åtta bär Allahs tron på Domens dag 69:17
+- nitton väktare av Helvetet 74:26-31
+- dödsänglarna 6:93; 16:28; 32:11
+- Gabriel 2:97; 66:4; 26:192-195; 53:1-14
+- Mikael 2:98
 - Malik 43:77
 Sändebud
-- bland änglar och människor 22:75;
+- bland änglar och människor 22:75
 - sändebud med fast beslutsamhet (Abraham, Noa, Moses, Jesus och Muhammed ﷺ) 33:7; 42:13; 46:35
 Skrifter
-- Koranen, en uppenbarelse från Allah 12:2-3; 20:2-4; 26:192-195; 32:2-3;
-- en påminnelse till hela världen 68:51-52;
-- vägleder till det mest uppriktiga levnadssättet 17:9;
-- uppenbarelsen började under månaden Ramadan 2:185;
-- en välsignad natt 44:3;97:1-5;
-- uppenbarad etappvis 17:105-106;
-- gjord lätt att minnas 54:17;
-- bekräftar sanningen i tidigare uppenbarelser 3:3-4;
-- en högsta auktoritet över tidigare skrifter 5:48;
-- inget tvivel i den 2:2; 10:37;
-- inga motsägelser 4:82;
-- inte fabricerad 10:37-39;
-- inte kopierad från Bibeln 25:4-6;
-- inte uppenbarad av djävlar 26:210-212;
+- Koranen, en uppenbarelse från Allah 12:2-3; 20:2-4; 26:192-195; 32:2-3
+- en påminnelse till hela världen 68:51-52
+- vägleder till det mest uppriktiga levnadssättet 17:9
+- uppenbarelsen började under månaden Ramadan 2:185
+- en välsignad natt 44:3;97:1-5
+- uppenbarad etappvis 17:105-106
+- gjord lätt att minnas 54:17
+- bekräftar sanningen i tidigare uppenbarelser 3:3-4
+- en högsta auktoritet över tidigare skrifter 5:48
+- inget tvivel i den 2:2; 10:37
+- inga motsägelser 4:82
+- inte fabricerad 10:37-39
+- inte kopierad från Bibeln 25:4-6
+- inte uppenbarad av djävlar 26:210-212
 - ingen kan producera något liknande 17:88; 2:23-24;10:13-14; 11:13
-- skyddad från förfalskning 15:9;
-- bevarad i den bevarade Tavlan 56:75-80;
-- kan inte bevisas falsk 41:42;
-- förutsäger framtida händelser 30:1-7; 48:27;
-- rör de troende till tårar 5:83; 17:107-109;
-- berör hjärtan 39:23;
-- strålande ljus 4:174; 42:52;
+- skyddad från förfalskning 15:9
+- bevarad i den bevarade Tavlan 56:75-80
+- kan inte bevisas falsk 41:42
+- förutsäger framtida händelser 30:1-7; 48:27
+- rör de troende till tårar 5:83; 17:107-109
+- berör hjärtan 39:23
+- strålande ljus 4:174; 42:52
 - helande och barmhärtighet för de troende 17:82
 - Torahn 3:3; 3:93; 5:46; 5:66-68, 110; 7:157; 9:111; 48:29; 61:6; 62:5
-- Evangeliet 3:3; 48; 5:46-47, 66-68, 77, 110; 7:157; 9:111; 48:29; 57:27
+- Evangeliet 3:3, 48; 5:46-47, 66-68, 77, 110; 7:157; 9:111; 48:29; 57:27
 - Psaltaren 4:163; 17:55
 - Abrahams rullar 53:36-44; 87:14-19
-Öde och bestämmelse 3:145; 9:51; 10:107; 11:6; 54:49; 67:30;
+Öde och bestämmelse 3:145; 9:51; 10:107; 11:6; 54:49; 67:30
 - fri vilja 6:148-150; 11:118-119; 16:93; 33:72-73; 39:41; 76:1-3; 91:1-10
-Domens dag,
-- ingen orättvisa 2:281; 18:49; 40:17;
-- apokalypsens fasor 22:1-2; 27:82-84, 87; 40:18; 52:11-16; 69:13-18; 70:8-18; 73:17-18; 75:7-15; 77:8-15; 78:17-20; 79:34-36; 80:33-42; 81:1-14; 82:1-5; 84:1-5; 87:17-40; 99:1-8; 101:1-11;
-- de rättfärdiga och de onda den dagen 11:105-108; 16:27-33, 84-89; 18:52-53; 20:100-111; 25:24-29; 30:12-16; 33:63-68; 39:68-75; 50:20-35; 55:37-41; 83:4-36;
+Domens dag
+- ingen orättvisa 2:281; 18:49; 40:17
+- apokalypsens fasor 22:1-2; 27:82-84, 87; 40:18; 52:11-16; 69:13-18; 70:8-18; 73:17-18; 75:7-15; 77:8-15; 78:17-20; 79:34-36; 80:33-42; 81:1-14; 82:1-5; 84:1-5; 87:17-40; 99:1-8; 101:1-11
+- de rättfärdiga och de onda den dagen 11:105-108; 16:27-33, 84-89; 18:52-53; 20:100-111; 25:24-29; 30:12-16; 33:63-68; 39:68-75; 50:20-35; 55:37-41; 83:4-36
 - förbön (shafa'ah) 2:48, 255; 6:51, 70; 10:3; 21:28; 32:4; 36:23; 39:43-44; 43:86; 53:26;74:48
-Gärningsregister 17:13; 18:49;
-- de troende tar emot sitt register med höger hand 69:19-24; 84:7-9;
-- de icke-troende tar emot sitt register med vänster hand 69:25-37; 84:10-15;
-- ingenting döljs för Allah 21:47; 40:16;
-- vägning av gärningar 7:8; 23:102-104; 101:1-11;
-- vittnesmål av kroppsdelar 41:19-24; 24:24;
+Gärningsregister 17:13; 18:49
+- de troende tar emot sitt register med höger hand 69:19-24; 84:7-9
+- de icke-troende tar emot sitt register med vänster hand 69:25-37; 84:10-15
+- ingenting döljs för Allah 21:47; 40:16
+- vägning av gärningar 7:8; 23:102-104; 101:1-11
+- vittnesmål av kroppsdelar 41:19-24; 24:24
 - belöning för goda och onda gärningar 6:160; 27:89-90; 28:84
 Typer av människor
-- troende 18:107-108;
-- icke-troende 4:167-169;
-- hycklare 4:145; 57:13-15;
-- Paradisets invånare, de förnämsta troende 55:46-61; 56:10-26;
-- Paradisets invånare, de på högra handens sida 55:62-78; 56:27-40;
-- Helvetets invånare, de på vänstra handens sida 55:31-45; 56:41-56;
+- troende 18:107-108
+- icke-troende 4:167-169
+- hycklare 4:145; 57:13-15
+- Paradisets invånare, de förnämsta troende 55:46-61; 56:10-26
+- Paradisets invånare, de på högra handens sida 55:62-78; 56:27-40
+- Helvetets invånare, de på vänstra handens sida 55:31-45; 56:41-56
 - folk på höjderna 7:46-49
 Ekonomi
-- riktlinjer för affärer 2:188; 2:275; 2:282-283; 4:29; 4:58; 6:152; 17:34-35;
-24:36-37; 26:182; 30:39; 55:7-9; 62:9
-- Testamenten, frivilliga testamenten till icke-arvingar 2:180-183; 4:11-12;
+- riktlinjer för affärer 2:188; 2:275; 2:282-283; 4:29; 4:58; 6:152; 17:34-35; 24:36-37; 26:182; 30:39; 55:7-9; 62:9
+- Testamenten, frivilliga testamenten till icke-arvingar 2:180-183; 4:11-12
 innan döden under resa 5:106-108
 - Mutor 2:188
-- Skulder, vänlighet vid indrivning 2:280;
-- skrivande och bevittnande av skuldavtal 2:282;
+- Skulder, vänlighet vid indrivning 2:280
+- skrivande och bevittnande av skuldavtal 2:282
 - pantsättning 2:283
-- Arv, riktlinjer 4:7; 4:32-33; 8:75;
-- avkommas och föräldrars andelar 4:11;
-- makars och mödrars syskon 4:12;
-- helsyskon 4:176;
+- Arv, riktlinjer 4:7; 4:32-33; 8:75
+- avkommas och föräldrars andelar 4:11
+- makars och mödrars syskon 4:12
+- helsyskon 4:176
 - varning till dem som inte följer 4:13-14
-- Ränta, förbud och varning 2:275-281; 3:130-132;
+- Ränta, förbud och varning 2:275-281; 3:130-132
 - gjord värdelös 30:39
 Juridik
 - förräderilagen (hirabah) 5:33-34
-- Rättvisa, att stå upp för rättvisa 4:135; 5:8; 16:90-91;
-- att stå upp för föräldralösas och kvinnors rättigheter 4:127;
-- rättvisa mot en jude 4:105-112;
-- rättvisa mot en hedning 4:58;
+- Rättvisa, att stå upp för rättvisa 4:135; 5:8; 16:90-91
+- att stå upp för föräldralösas och kvinnors rättigheter 4:127
+- rättvisa mot en jude 4:105-112
+- rättvisa mot en hedning 4:58
 - rättvisa mot icke-muslimer 60:8-9
 - Vedergällning genom rättsliga kanaler (med möjligheten att förlåta) 2:178-179; 5:45; 16:126; 17:33; 42:37-43
-- Separation mellan make och maka, khul' 2:229;
+- Separation mellan make och maka, khul' 2:229
 - lian (anklaga för äktenskapsbrott) 24:6-10
 Politik
 - Genomföra ärenden genom samråd (shura) 3:159; 42:38
-- Kamp i självförsvar (jihad), etikett 2:190-192; 2:216; 22:38-40;
-- inte att anfalla urskillningslöst 4:94;
-- kamp för förtryckta män, kvinnor och barn 4:75;
-- skydda dyrkansplatser 22:37;
-- martyrers belöning 2:154; 3:169-171; 9:111; 57:19;
-- militär styrka avskräcker potentiella fiender 8:60;
+- Kamp i självförsvar (jihad), etikett 2:190-192; 2:216; 22:38-40
+- inte att anfalla urskillningslöst 4:94
+- kamp för förtryckta män, kvinnor och barn 4:75
+- skydda dyrkansplatser 22:37
+- martyrers belöning 2:154; 3:169-171; 9:111; 57:19
+- militär styrka avskräcker potentiella fiender 8:60
 - välja fred 2:192; 8:61
 - Fredsmäkling mellan parter 49:9-10
 - Krigsfångar, behandling 8:70; 47:4; 76:8
 Socialt
 - Adoption 33:4-5
 - Omsorg om föräldralösa 2:220; 4:2-10; 4:127; 6:152; 17:34
-- Skilsmässa, skiljeförfarande och försoning 4:35; 4:128;
-- skilsmässans etikett 2:229-231; 65:1-2;
-- hemgift och väntetid 2:226-241; 4:19-21; 33:49; 65:1-7;
-- maken ska inte ta tillbaka något av hemgiften 4:20;
-- hustrun ska inte trakasseras 65:6;
-- hustrun ska försörjas ekonomiskt under graviditet 65:6;
-- under hennes väntetid 65:6;
-- om hon ammar f.d. makens barn, 65:6;
-- ingen förälder ska lida på grund av sitt barn 2:233;
+- Skilsmässa, skiljeförfarande och försoning 4:35; 4:128
+- skilsmässans etikett 2:229-231; 65:1-2
+- hemgift och väntetid 2:226-241; 4:19-21; 33:49; 65:1-7
+- maken ska inte ta tillbaka något av hemgiften 4:20
+- hustrun ska inte trakasseras 65:6
+- hustrun ska försörjas ekonomiskt under graviditet 65:6
+- under hennes väntetid 65:6
+- om hon ammar f.d. makens barn, 65:6
+- ingen förälder ska lida på grund av sitt barn 2:233
 - välja amma 65:6
 - Uppmuntra det goda och förbjuda det onda 3:104; 3:110; 7:157; 9:71-72; 31:17
-- Mänsklig jämlikhet 49:13;
-- män och kvinnor inför Allah och lagen, 3:195; 4:124; 5:38; 16:97; 24:2; 40:40;
+- Mänsklig jämlikhet 49:13
+- män och kvinnor inför Allah och lagen, 3:195; 4:124; 5:38; 16:97; 24:2; 40:40
 - männen har ett mått av ansvar över kvinnorna 2:228
 - Mata de fattiga, föräldralösa och fångar 76:8-9
 - Förlåtelse och kontroll av ilska 3:134; 42:40
 - Befria slavar och hjälpa dem 4:92; 5:89; 9:60; 24:33; 58:3; 90:13
 - Hedra sina föräldrar 4:36; 17:23-25; 31:14-15
 - Ödmjukhet 17:37; 31:18-19
-- Tolkning av Abrahams drömmar 37:102;
-- Tolkning av Josefs drömmar 12:4; 12:36; 12:43;
+- Tolkning av Abrahams drömmar 37:102
+- Tolkning av Josefs drömmar 12:4; 12:36; 12:43
 - Tolkning av Muhammeds drömmar 8:43; 48:27
 - Vänlighet mot icke-muslimer 60:8
-- Äktenskap 4:3; 4:129; 16:72; 30:21;
-- tillåtna och otillåtna kvinnor att gifta sig med 4:22-24;
-- etikett för intimitet 2:222-223;
-- graviditet och amning 2:233; 31:4; 46:15; 65:6;
-- gifta om sig med sin f.d. hustru 2:230;
-- hjälpa ensamstående att gifta sig 24:32;
+- Äktenskap 4:3; 4:129; 16:72; 30:21
+- tillåtna och otillåtna kvinnor att gifta sig med 4:22-24
+- etikett för intimitet 2:222-223
+- graviditet och amning 2:233; 31:4; 46:15; 65:6
+- gifta om sig med sin f.d. hustru 2:230
+- hjälpa ensamstående att gifta sig 24:32
 - subtilt visa intresse under väntetiden 2:235
-- Eder 2:224-225; 16:91-92; 16:94;
+- Eder 2:224-225; 16:91-92; 16:94
 - gottgöra ett brutet löfte 5:89
 - Tålamod i svåra tider 2:45; 2:153-157; 3:186; 12:18; 12:83; 16:127-128; 70:5
-- Tillstånd att komma in 24:58-60;
-- gå in i andras hem 24:27-28;
+- Tillstånd att komma in 24:58-60
+- gå in i andras hem 24:27-28
 - gå in på offentliga platser 24:29
-- Social etikett, verifiera nyheter 4:83; 49:6;
-- respekt för alla 49:11-12;
-- etikett vid sammankomster 58:11;
+- Social etikett, verifiera nyheter 4:83; 49:6
+- respekt för alla 49:11-12
+- etikett vid sammankomster 58:11
 - privata samtal 4:114; 58:9
 - Löften 2:270; 9:75-77; 22:29; 76:7
 - Slöseri och snålhet 7:31; 17:29; 25:67
 Andra berättelser
-- Abel och Kain 5:27-31;
-- Al-Khadir och Moses 18:60-82;
-- Elefantarmén 105:1-4;
-- den troende från faraos folk 40:28-46;
-- Marias födelse 3:35-36;
-- Israels barns ko 2:67-74;
-- Ezra 2:259;
+- Abel och Kain 5:27-31
+- Al-Khadir och Moses 18:60-82
+- Elefantarmén 105:1-4
+- den troende från faraos folk 40:28-46
+- Marias födelse 3:35-36
+- Israels barns ko 2:67-74
+- Ezra 2:259
 - trädgårdsägarna 68:17-32
 - Harut och Marut 2:102
 - Kora 28:76-82
-- Luqmans råd till sin son 31:12-19;
-- ägaren av de två trädgårdarna 18:32-44;
-- Sabas folk 34:15-19;
-- grottans folk 18:9-26;
-- gravens folk 85:1-8;
-- sabbatsbrytarna 7:163-165;
-- Samiri och guldkalven 20:83-97;
-- Saul och Samuel 2:247-251;
+- Luqmans råd till sin son 31:12-19
+- ägaren av de två trädgårdarna 18:32-44
+- Sabas folk 34:15-19
+- grottans folk 18:9-26
+- gravens folk 85:1-8
+- sabbatsbrytarna 7:163-165
+- Samiri och guldkalven 20:83-97
+- Saul och Samuel 2:247-251
 - Dhul-Qarnain 18:83-98
-Djävlar 2:102; 6:71; 6:112; 6:121; 7:27; 7:30; 17:27; 19:68; 19:83; 22:3-4; 23:97-98; 26:210; 37:7-10; 38:37-38; 67:5;
-- djävulska människor och jinn 6:112;114:6;
+Djävlar 2:102; 6:71; 6:112; 6:121; 7:27; 7:30; 17:27; 19:68; 19:83; 22:3-4; 23:97-98; 26:210; 37:7-10; 38:37-38; 67:5
+- djävulska människor och jinn 6:112;114:6
 - himlen skyddad mot djävlar 15:16-18
 Ånger
-- att inte följa profeten 25:27;
-- att inte lyda Allah och Hans sändebud 4:41-42; 33:64-68;
-- att ta onda vänner 25:28-29; 26:96-102; 43:36-39;
-- att förneka Allahs tecken 6:27-30;
+- att inte följa profeten 25:27
+- att inte lyda Allah och Hans sändebud 4:41-42; 33:64-68
+- att ta onda vänner 25:28-29; 26:96-102; 43:36-39
+- att förneka Allahs tecken 6:27-30
 - att inte arbeta för Det kommande livet 89:23-24
 Desperata böner
-- bön om att få återvända till världen 2:167; 6:27-28; 32:12-14; 42:44;
-- om en andra chans 35:36-37;
-- om att tas bort från Elden 40:10-12;
-- om mat och vatten 7:51-52;
-- om förebedjare 7:52-53;
-- om att jämnas med stoftet 4:41-42; 78:40;
+- bön om att få återvända till världen 2:167; 6:27-28; 32:12-14; 42:44
+- om en andra chans 35:36-37
+- om att tas bort från Elden 40:10-12
+- om mat och vatten 7:51-52
+- om förebedjare 7:52-53
+- om att jämnas med stoftet 4:41-42; 78:40
 - om döden 43:74-78
 De rättfärdigas egenskaper
 - iaktta Skaparens och Hans skapelses rättigheter 3:133-136; 4:36; 4:69-70; 6:151-154; 8:2-4; 13:19-24; 17:23-39;18:107-108; 23:1-11; 25:63-76; 42:36-43
 De ondas egenskaper
-- otacksamma 14:34;
-- snåla 17:100;
-- brådskande 21:37;
-- minns Allah bara i svåra tider 10:12; 41:51;
-- otåliga 70:19;
+- otacksamma 14:34
+- snåla 17:100
+- brådskande 21:37
+- minns Allah bara i svåra tider 10:12; 41:51
+- otåliga 70:19
 - argumentativa 18:54
 Grova synder
-- att associera andra med Allah i dyrkan (shirk) 4:48; 4:116; 5:72; 6:19; 31:13;
-- att misshandla sina föräldrar 4:36; 6:151; 17:23;
-- att försumma eller överge obligatoriska böner 19:59-60;
-- att inte betala allmoseskatten 41:6-7;
-- mord 6:151; 17:33;
-- att avsiktligt döda en troende 4:93;
-- stöld 5:38;
-- bedrägeri 7:85; 11:85; 26:182-183; 83:1-6;
-- lögn 2:10; 9:77; 39:60;
-- att ljuga om Allah 6:93; 29:68; 61:7;
+- att associera andra med Allah i dyrkan (shirk) 4:48; 4:116; 5:72; 6:19; 31:13
+- att misshandla sina föräldrar 4:36; 6:151; 17:23
+- att försumma eller överge obligatoriska böner 19:59-60
+- att inte betala allmoseskatten 41:6-7
+- mord 6:151; 17:33
+- att avsiktligt döda en troende 4:93
+- stöld 5:38
+- bedrägeri 7:85; 11:85; 26:182-183; 83:1-6
+- lögn 2:10; 9:77; 39:60
+- att ljuga om Allah 6:93; 29:68; 61:7
 - förbjudna sexuella relationer 2:222; 17:32; 24:2; 25:68; 29:28-30
-- falska anklagelser om äktenskapsbrott 24:4-5;
-- avfall från tron 2:217; 5:54;
-- att äta svin och annan förbjuden mat (as, blod m.m.) 5:3; 6:145;
-- alkohol och hasardspel 5:90-91;
-- skvaller 49:11;
-- falskt vittnesmål 22:30;
+- falska anklagelser om äktenskapsbrott 24:4-5
+- avfall från tron 2:217; 5:54
+- att äta svin och annan förbjuden mat (as, blod m.m.) 5:3; 6:145
+- alkohol och hasardspel 5:90-91
+- skvaller 49:11
+- falskt vittnesmål 22:30
 - magi 2:102; 10:77; 20:69
 """;

@@ -5,18 +5,18 @@ Ablutions (Wudu), 4:43; 5:6
 Ibraahim (Ibraahim) S.14; 2:135-136, 148; 3:33, 84, 95; 4:54, 125, 163; 6:161; 9:70, 114; 12:6, 38; 16:120; 19:58; 21:51, 60, 62, 69; 22:43, 78; 26:69; 29:31; 33:7; 37:83, 104, 109; 38:45; 42:13; 43:26; 51:24; 53:37; 57:26; 60:4; 87:19
 - Yuhuud iyo Masiixi midna ma aha, 3:67-68
 - waxay taagnayd macbadkii ugu horreeyay ee Bakkah, 3:97; 26:123
-- wuxuu kor u qaadayaa aasaaska Kacbada 2:124-129;
-- wuxuu dadkiisa ugu yeerayaa caabudidda Ilaaha runta ah ee keliya 2:130-133; 26:69-89; 29:16; 29:24-27;
-- dood boqor kibir badan 2:258,
-- wuxuu wax ka weydiinayaa sarakicidda 2:260;
-- Yuhuud iyo Masiixi midna ma aha 3:65-68;
-- wuxuu diidayaa cibaadada samada 6:74-87;
-- wuxuu helayaa war ku saabsan dhalashada Isxaaq 11:69-76; 51:24-30;
-- salaaddiisii Kacbada 14:35-41;
-- waxaa booqday malaa'igta 15:51-56;
-- tusaale 16:123;
-- wuxuu aabihiis ugu yeeraa runta 19:41-50;
-- wuxuu burburiyaa sanamyada oo laga badbaadiyaa dabka 21:51-73; 37:83-113;
+- wuxuu kor u qaadayaa aasaaska Kacbada 2:124-129
+- wuxuu dadkiisa ugu yeerayaa caabudidda Ilaaha runta ah ee keliya 2:130-133; 26:69-89; 29:16; 29:24-27
+- dood boqor kibir badan 2:258
+- wuxuu wax ka weydiinayaa sarakicidda 2:260
+- Yuhuud iyo Masiixi midna ma aha 3:65-68
+- wuxuu diidayaa cibaadada samada 6:74-87
+- wuxuu helayaa war ku saabsan dhalashada Isxaaq 11:69-76; 51:24-30
+- salaaddiisii Kacbada 14:35-41
+- waxaa booqday malaa'igta 15:51-56
+- tusaale 16:123
+- wuxuu aabihiis ugu yeeraa runta 19:41-50
+- wuxuu burburiyaa sanamyada oo laga badbaadiyaa dabka 21:51-73; 37:83-113
 - waxay ugu yeeraysaa dhammaan xajka 22:26
 Abrar, 3:193, 198; 76:5; 82:13; 83:18-22
 Tirtirid, 2:106, 16:101
@@ -26,11 +26,10 @@ Aadan, 3:33, 59; 5:27; 7:26-27, 31, 35, 172; 17:70; 19:58; 36:60
 - malaa'igta oo u sujuudda, 2:34; 7:11
 - geed aqooneed, 2:35; 7:19-20; 20:120-121
 - ka saarista Beerta (eed kuma lahan Xaawa), 2:36; 7:24
-- waxaa sharfay Alle, oo Shaydaan jirrabay 2:30-38; 7:11-25; 17:61-65; 18:50; 20:115-123; 38:71-85;
+- waxaa sharfay Alle, oo Shaydaan jirrabay 2:30-38; 7:11-25; 17:61-65; 18:50; 20:115-123; 38:71-85
 - Alle ayaa cafiyay 2:37; 20:122
 'Adiyat, S.100
-Jannada Cadan, 9:72; 13:23; 16:31; 18:31;
-19:61; 20:76; 35:33; 38:50; 40:8; 61:12; 98:8
+Jannada Cadan, 9:72; 13:23; 16:31; 18:31;19:61; 20:76; 35:33; 38:50; 40:8; 61:12; 98:8
 Dhibaato
 - aan lagu cuslayn culayska qof kale, 6:164; 17:15; 35:18; 39:7; 53:38
 - aan culays ka badnayn awoodda loo adkeysan karo, 2:286; 6:152; 7:42; 23:62
@@ -113,7 +112,7 @@ Ridku, 3:72; 3:86-88; 3:90-91; 3:167; 4:137; 5:54; 9:74; 9:107; 16:106; 33:14
 Ridiyiinta, 47:25
 A'raf, S.7; 7:46, 48
 Arafat, 2:198
-Doodi,
+Doodi
 - maaha kuwa naftooda khiyaaneeya, 4:107
 - waxaad u doodeen iyaga adduunkan, laakiin yaa u doodi doona Maalinta Qiyaame, 4:109
 Doodaha/Weerarada
@@ -123,7 +122,7 @@ Hubka, 16:81
 'Asr,S.103
 Aayat Al-Kursi, 2:255
 Dib-u-dhac, 49:12; 104:1
-Badr (dagaalkii), 3:13,
+Badr (dagaalkii), 3:13
 - casharro laga bilaabo, 8:5-19, 42-48
 Al-Bait-ul-Ma mur, 52:4
 Bakkah (Makkah), 3:96
@@ -133,7 +132,7 @@ Isku dheelitiran, 7:8-9; 17:35; 21:47; 55:7-9; 57:25; 101:6-9
 Banu An-Nadir, 59:2-6, 13
 Baqarah, S.2
 Bara'a (Eeg Taubah), S.9
-Barzakh, (Barri), 23:100; 25:53; 55:20;
+Barzakh, (Barri), 23:100; 25:53; 55:20
 - sidoo kale fiiri 18:94-97; 34:54; 36:9
 Bayyinah, S.98
 Bahalkii (Maalmihii Ugu Dambeeyay), 27:82
@@ -182,7 +181,7 @@ Kitaabka Qudduuska ah, 5:64, 5:65, 5:68
 - leexasho, 3:78; 5:14-15
 Shimbiraha, 2:260; 3:49; 5:110; 6:38; 12:36, 41; 16:79; 21:79; 22:31; 24:41; 27:16-17, 20; 34:10; 38:19; 56:21; 67:19; 105:3
 Dhiiga-lacag (Diya), 2:178-179; 4:92; 17:33
-Booti, dagaal, 4:94. 8:41; 59:6-8;
+Booti, dagaal, 4:94. 8:41; 59:6-8
 - qaadashada sharci darrada ah, 3:162
 - arag kharribaadyada
 Laaluush, 2:188
@@ -220,7 +219,7 @@ Dharka, 7:26; 16:81
 - dharka dibadda ee dumarka ayaa ka hortagaya dhibaataynta munaafiqiinta, 33:59-60
 Ururada Midowbey, 33:9, 22
 - fiiri Wadatashiga Ahzab, wadajirka ah, 42:38
-Abuurid,
+Abuurid
 - bilaabmaa oo ku celceliyaa, 10:4; 21:104; 27:64; 29:19-20
 - cusub, 17:49, 98; 35:16
 - run, 15:85; 16:3; 29:44; 39:5; 44:39; 45:22; 46:3
@@ -240,12 +239,12 @@ Tuke, 5:31
 Heerka, 2:53, 185; 3:4; 8:29, 41; 21:48; 25:1
 Dahr, (eeg Insan,) S.76; 45:24
 - waqti, 76:1; 103:1
-Daa'uud, 5:78; 6:84; 17:55; 34:10, 13; 38:17-30;
+Daa'uud, 5:78; 6:84; 17:55; 34:10, 13; 38:17-30
 - waxaa la siiyay Sabuurradii 4:163
 - la dagaallamay oo dilay Goli'ad, 2:251
-- wuxuu sameeyaa xukun 21:78-80;
-- waxaa barakeysan aqoon iyo nebinimo 27:15-16;
-- Buuro iyo shimbiro ayaa ku biiraya ammaanta Alle 34:10; 38:17-20;
+- wuxuu sameeyaa xukun 21:78-80
+- waxaa barakeysan aqoon iyo nebinimo 27:15-16
+- Buuro iyo shimbiro ayaa ku biiraya ammaanta Alle 34:10; 38:17-20
 - wuxuu u kala garsooraa laba qof 38:21-26
 Dawabb ama Dabbah (noolaha dhaqdhaqaaqa, iwm.) 2:164; 6:38; 8:22, 55; 11:6, 56; 16:49, 61; 22:18; 24:45; 27:82; 29:60;31:10; 34:14; 35:28, 45; 42:29; 45:4
 Kuwa dhintay waa la sara kicin doonaa, 6:36
@@ -255,17 +254,17 @@ Geeri, 3:185; 3:193; 4:78; 6:61; 6:93; 21:35; 23:99-108; 31:34; 32:11; 33:19; 33
 - bulshooyinkaas aan wax muujin ah lahayn lama burburin doono, 6:131; 9:115; 10:47; 11:117; 15:4; 16:119; 17:15; 28:59
 - kuwa lagu dilay dar Alle waa nool yihiin, 2:154; 3:169
 - iyadoo shar u cararaysa dhanka Alle, 4:100
-- lama joojin karo ama dib looma dhigi karo 63:10-11;
-- walaal mataano ah oo hurdo ah 6:60; 39:42;
-- Mu'miniinta iyo kuwa aan rumaysanayn wakhtiga dhimashada 8:50; 16:27-32; 41:30;
+- lama joojin karo ama dib looma dhigi karo 63:10-11
+- walaal mataano ah oo hurdo ah 6:60; 39:42
+- Mu'miniinta iyo kuwa aan rumaysanayn wakhtiga dhimashada 8:50; 16:27-32; 41:30
 - ciqaabta qabriga 40:46
 Deynta, 2:280, 282; 4:11-12
-Digreeto,
+Digreeto
 - arrin kasta, waxaa jira, 13:38
 - Waligay maan halaagin magaalo laakiin waxaa jirtay magaalo la yaqaan, 15:4
 - arrin kasta waxay ka timid Alle, 44:5
 - markuu xukumo arrin, wuxuu dhahaa oo keliya "Ahaw!" - waana, 2:117; 36:82; 40:68
-Ficillo,
+Ficillo
 - shar, oo loogu qurxiyay, 47:14
 - annaga, idinkana camalkiinna, 28:55; 42:15; 45:15
 - wanaag iyo xumaanba, waa nafta iyo nafta ka soo horjeeda, 41:46
@@ -279,7 +278,7 @@ Dhariyat, S.51
 Dhikr, 7:205; 15:6, 9
 Dhul-Kifi, 21:85; 38:48
 Dhul-Qarain, 18:83-98
-Dhun-Nuun (saaxiibka kalluunka),
+Dhun-Nuun (saaxiibka kalluunka)
 Gaalo (sidoo kale fiiri Munaafiqiinta)
 - weydii Muxammad ( ﷺ ) inuu ku caayo cadhada Alle oo uu u caddeeyo, 6:57-58; 8:32; 10:49-52
 - si naxariis leh ula dhaqan, 31:15
@@ -304,7 +303,7 @@ Godob, dadka reer, 85:4-10
 Kala duwanaanshaha
 - aadanaha, 30:22, 35:27-28
 - nolosha, 35:27-28
-Furriinka, 2:228-232, 236-237, 241; 4:35, 130; 65:1-7;
+Furriinka, 2:228-232, 236-237, 241; 4:35, 130; 65:1-7
 - ka dib muddada sugitaanka, kala dirid ama dib u heshii, 2:231; 65:2
 - laba markhaati, 65:2
 - lacagta kaalmada ah, 2:233, 241
@@ -340,7 +339,7 @@ Furiinka, Haweeney
 - haddii aan guurku dhammaan, 33:49
 Eeyaha, 7:176
 Dameero (Dameero), 2:259; 16:8; 31:19; 62:5; 74:50
-Cab,
+Cab
 - khamri cab, 2:219; 5:90
 - saafi ah oo cad oo macaan, 37:45-46; 76:21
 - khamri saafi ah oo la shaabadeeyey, 83:25
@@ -363,13 +362,13 @@ Shar, 4:123; 10:27-30; 19:83; 59:15
 - isbeddelay, wanaag awgeed, 7:95
 - kuwaas oo raacaya rabitaankooda, 47:14, 16
 - camal loo qurxiyay, 47:14
-Xad-dhaaf,
+Xad-dhaaf
 - cuntada mamnuuc ayay ka tahay, 5:87
 - diinta, 4:171; 5:77-81
 Indhaha, dhegaha iyo haragga ayaa markhaati ka noqon doona dembiilayaasha, 41:20-23
 Cesraa, (Cusayr) 9:30
 Wajiga ama Muuqaalka Alle, 2:115, 272; 6:52; 13:22; 18:28; 28:88; 30:38-39; 55:27; 76:9; 92:20
-Mid cadaalad ah,
+Mid cadaalad ah
 - Alle wuxuu u sameeyay, qof walba camalkiisa, 6:108
 Iimaanka (Caqiidada), 2:108; 3:167, 177, 193; 5:5; 9:23; 16:106; 30:56; 40:10; 42:52; 49:7, 11, 14; 52:21; 58:22; 59:9-10
 - kuwa diiday, 3:116
@@ -379,7 +378,7 @@ Iimaanka (Caqiidada), 2:108; 3:167, 177, 193; 5:5; 9:23; 16:106; 30:56; 40:10; 4
 Fajr, S.89
 Falaq, S.113
 Wadahadal been ah oo ku saabsan Aayadaha Qur'aanka, 6:68
-Ilaahyo been ah,
+Ilaahyo been ah
 - marka laga reebo Alle, sanamyo iyo kuwa loogu yeero la-hawlgalayaasha 7:194-198; 16:20-21, 72, 86; 21:22, 24; 34:22, 27; 41:47-48; 46:5-6; 53:19-24; 71:23-24
 - ha caayin kuwa ay caabudaan marka laga reebo Alle, 6:108
 - sidoo kale eeg Taghut
@@ -394,7 +393,7 @@ Fidyah (madaxfurashada), ee soonka, 2:196
 - si loo xoreeyo maxaabiista, 8:67
 - madaxfurasho ay bixiyeen gaalada, 3:91; 5:36,37; 10:54; 13:18
 Jaantuska, 95:1
-Dagaal,
+Dagaal
 - Jidka Alle, ka dhanka ah gaalada, 2:190-193, 244; 4:84, 95; 8:72, 74, 75; 9:12-16, 20, 24, 36, 123; 47:4; 61:11
 - la magacaabay, 2:216
 - bilaha xurmada leh, 2:217; 9:5
@@ -410,7 +409,7 @@ Fil, S.105
 Firdaus Jannada, 18:107; 23:11
 Dab, 56:71, 100:2
 Duul, 22:73
-Cunto,
+Cunto
 - sharci iyo sharci darro, (Xalaal iyo Xaaraam), 2:168, 172, 173; 5:1, 3-5, 88; 6:118-119, 121, 145-146; 16:114-118; 23:51
 - dembi kuma jiro wixii hore loo cunay, 5:93
 - ha xadgudbin, 5:87
@@ -432,7 +431,7 @@ Cafis, 2:109; 4:48, 110, 116; 5:74; 7:199; 39:53; 42:5, 40-43; 45:14; 53:32; 57:
 - midba midka kale ku tartamo si uu ugu degdego, 57:21
 - falalka xun waxay isu beddeleen camal wanaagsan 25:68-71
 Khiyaamo, (fiiri Khiyaamada) 83:1-6
-Rabitaan xor ah,
+Rabitaan xor ah
 - waxaa xaddiday doonista Eebbe, 6:107; 10:99; 74:56; 76:31; 81:28-29
 - Qofkii doonaya, ha rumaysto oo ha gaaleeyo, 18:29
 - u qaado jidka Eebbe, 76:29
@@ -466,14 +465,14 @@ Wanaagsan (Maalmo), 3:140
 - Eebe wuxuu abaalmariyaa kuwa sameeya, waxa ugu fiican, 53:31
 - ma jiraa wax abaal-marin ah oo aan ahayn wanaagga, 55:60
 - samee, sida Eebe kuugu roonaaday, 28:77
-Wanaag iyo Xumaan,
+Wanaag iyo Xumaan
 - Wanaaggu wuxuu ka yimid Alle, sharkuna wuxuu ka yimid naftaada, 4:79
 - haddii aad wanaag samaysaan, naftiinna iyo haddii aad xumaan samaysaan, naftiinna ka soo horjeeda, 17:7;41:46
 - Xumaanta ku celi wanaag, 23:96; 28:54; 41:34
 - wanaagga iyo xumaanta ma siman yihiin,41:34
 - qof walba waxaa la kulmi doonaa wax kasta oo uu sameeyay, 3:30
 - sidoo kale fiiri Muhsinun
-Ficil wanaagsan,
+Ficil wanaagsan
 - shaaca ka qaad ama qari, 4:149
 - ku dadaal sidii tartan, 5:48
 Injiil, 3:3, 48, 65; 5:46-47, 66, 68, 110; 7:157; 9:111; 48:29; 57:27
@@ -490,7 +489,7 @@ Dhibaato, waxaa jira gargaar kasta, 94:5-6
 Haaruun, (Haaruun)
 Harut, 2:102
 Xashr, S.59
-Quluubta,
+Quluubta
 - adag, 2:74; 22:53; 39:22; 57:16
 - shaabadaysan, 7:100-101; 40:35; 47:16; 63:3
 - daboolay, 17:46; 41:5
@@ -498,7 +497,7 @@ Quluubta,
 - qaybsan, 59:14
 - cabsi ka buuxdo, 22:35
 - kuwaas oo cudur ku jira, 2:10; 5:52; 8:49; 9:125; 22:53; 24:50; 33:12, 32, 60; 47:20, 29;74:31
-Samooyinka,
+Samooyinka
 - Eebaa iska leh waxa aan la arki karin, 16:77
 - looma abuurin riwaayad, 21:16
 - dhulkuna wuu isku xidhnaa, 21:30
@@ -528,7 +527,7 @@ Jahannamo (dabka, ololka ololaya) 2:24, 119, 161, 166, 201; 3:10, 12, 116, 131, 
 - gubanaya quus iyo mugdi qabow oo baraf ah, 38:57
 - silsilad 70 dhudhun ah, 69:32
 - joog muddo xaddidan, 78:23
-Wixii dambe,
+Wixii dambe
 - guriga ku yaal waa ka wanaagsan yahay, 6:32; 7:169
 - kaas oo noqon doona dhammaadka, 6:135
 - Zalimun ma guuleysan doono (gudaha), 6:135
@@ -545,7 +544,7 @@ Hijr (Dhuxul Dhagax), 15:80-85
 Hijr, S.15
 Khaniisnimada 26:165-166; 27:55; 29:28-29
 Fardo, 16:8
-Saacad,
+Saacad
 - aqoontaas waxaa leh Ilaahay oo keliya, 7:187; 31:34; 33:63; 41:47; 68:26; 79:42-46
 - si lama filaan ah ayay ugu dhacday, 6:31; 7:187; 12:107; 43:66
 - wuu kugu soo degayaa, 6:40; 12:107; 20:15; 34:3
@@ -554,9 +553,9 @@ Saacad,
 - dhulgariirkii, 22:1
 - waxaa la dhisi doonaa, Maalinta, 30:12, 14
 - hubaal wuu imanayaa, shaki kuma jiro, 40:59;45:32; 51:5-6
-- calaamadaha 21:96; 27:82; 43:61; 47:18; 54:1-2;
-- magacyada 1:3; 2:4; 3:55; 19:39; 30:56; 37:21; 40:15; 41:47; 42:7; 50:20; 56:1; 64:9; 69:1; 79:34; 80:33; 88:1; 101:1-3;
-- waxay dadka la yaabi doontaa 6:31; 7:187;
+- calaamadaha 21:96; 27:82; 43:61; 47:18; 54:1-2
+- magacyada 1:3; 2:4; 3:55; 19:39; 30:56; 37:21; 40:15; 41:47; 42:7; 50:20; 56:1; 64:9; 69:1; 79:34; 80:33; 88:1; 101:1-3
+- waxay dadka la yaabi doontaa 6:31; 7:187
 - Buunkii ayaa la afuufi doonaa 6:73; 23:101; 39:68
 Guryo, dhaqan ku saabsan gelitaanka, 24:27-29
 Hud, 7:65-72; 11:50-60; 26:123-140; 46:21-26
@@ -565,7 +564,7 @@ Hujurat, S.49
 Humazah, S.104
 Hunain (dagaal), 9:25
 Xur (dheddigga Jannada), 44:54; 52:20
-Munaafiqiinta,
+Munaafiqiinta
 - dheh: waxaan rumeynay Alle iyo Maalinta Dambe, laakiin dhab ahaantii ma rumaysanno, 2:8
 - naftooda khiyaaneeya, 2:9
 - cudur ku dhaca qalbigooda, 2:10; 8:49; 22:53; 33:12; 47:29
@@ -609,8 +608,8 @@ Ilaahay, Mid keliya, 2:163; 6:19; 16:22, 51; 23:91; 37:4; 38:65
 Galmo sharci darro ah; caddayn markhaatiyaal, 4:15-18; 24:2, 19
 Illiyyun, 83:18-21
 Najas (Najas) 9:28
-'Cimraan,
-- xaaska, 3:35;
+'Cimraan
+- xaaska, 3:35
 - gabadhii, 66:12
 Lama huraan, 69:1-3
 Infitar, S.82
@@ -629,7 +628,7 @@ Bir, 57:25
 Ciise, arag Ciise
 Isaxaaq, (Isxaaq) 2:133; 4:163; 6:84; 19:49;21:72; 29:27; 37:112–113
 Ismaaciil (Ismaaciil), 2:125-129, 133; 4:163;6:86; 19:54-55; 21:85; 38:48
-Wuxuu dhisay aasaaska Kacbada isagoo la socda aabihiis 2:125-140;
+Wuxuu dhisay aasaaska Kacbada isagoo la socda aabihiis 2:125-140
 sheekada allabaryada 37:100-113
 Islaamka, 3:19, 85; 5:3; 6:125; 39:22; 61:7
 - marka hore kuwa Muslimka ah ee isu dhiibay, 6:14,163; 39:12
@@ -658,8 +657,8 @@ Yacquub, (Yacquub) 2:132-133; 4:163; 6:84;12:18; 19:49; 21:72; 29:27
 Jalut, (fiiri Goli'ad)
 Jamarat, 2:200
 Jathiyah, S.45
-Ciise, Ciise ina Maryam,
-- hooyo laga doortay dhammaan dumarka adduunka 3:42;
+Ciise, Ciise ina Maryam
+- hooyo laga doortay dhammaan dumarka adduunka 3:42
 - wuxuu markhaati ka yahay Maalinta Qiyaamaha, 4:159
 - war farxad leh oo ku saabsan dhalashada, 3:45-47; 19:22-23
 - Rasuul u diraya reer binu Israa'iil, 3:49-51
@@ -682,9 +681,9 @@ Ciise, Ciise ina Maryam,
 - aragtiyo kala duwan oo ku saabsan, 43:65
 - ma aha wax aan ahayn addoon iyo tusaale u ah reer binu Israa'iil, 43:59
 - bishaar rasuul oo magaciisa la yiraahdo Axmed, 61:6
-- dhalashadiisa bikradda ah, farriintiisa, iyo mucjisooyinkiisa 3:45-51; 19:16-38;
-- xasuusin nimcooyinka Alle 5:110-115;
-- wuxuu diidayaa inuu yahay ilaah 5:116-120;
+- dhalashadiisa bikradda ah, farriintiisa, iyo mucjisooyinkiisa 3:45-51; 19:16-38
+- xasuusin nimcooyinka Alle 5:110-115
+- wuxuu diidayaa inuu yahay ilaah 5:116-120
 - naxariis iyo nimco ku jirta quluubta taageerayaashiisa 5:82; 57:27
 Yuhuud iyo Masiixiyiin, 2:140; 4:153-161, 171; 5:18
 - dhegayso beenta, 5:41-42
@@ -694,41 +693,41 @@ Yuhuud iyo Masiixiyiin, 2:140; 4:153-161, 171; 5:18
 Jibriil, (fiiri Jibriil)
 Jihaad, (Dagaal, Halgan) 2:216; 9:24; 22:78; 25:52
 Jinn, S.72
-Jinn, 6:100, 112; 15:27; 34:41; 38:37; 46:18,29; 55:33, 39;
-Jin, oo laga abuuray dab 15:25; 55:15;
-- jinni rumaysan oo aan rumaysanayn 72:1-15;
+Jinn, 6:100, 112; 15:27; 34:41; 38:37; 46:18,29; 55:33, 39
+Jin, oo laga abuuray dab 15:25; 55:15
+- jinni rumaysan oo aan rumaysanayn 72:1-15
 - qaar baa rumaystay farriinta Qur'aanka 46:29-32
 - aadanaha iyo jinniga loo abuuray ujeedo 51:56-58
 Ayuub, 4:163; 6:84; 21:83-84; 38:41-44
-Yooxanaa, (Yahaya, Yooxanaa Baabtiisaha),
+Yooxanaa, (Yahaya, Yooxanaa Baabtiisaha)
 - war farxadeed oo ku saabsan, 3:38-41; 19:7-11; 21:90
 - xaq ah, 6:85
 - xikmad leh, naxariis badan, naxariis badan, 19:12-15
-Yoonis (Yoonis ama Yuunus), 4:163; 6:86; 10:98; 21:87; 37:139-148;
+Yoonis (Yoonis ama Yuunus), 4:163; 6:86; 10:98; 21:87; 37:139-148
 - (Dhu n-Nun) 21:87; 68:48-50
 Yuusuf (Yuusuf), 6:84; 12:4-101
-- sheekooyinka ugu fiican 12:1-3;
-- riyadii Yuusuf ee dhallinyarada ahayd 12:4-6;
-- shirqool ay sameeyeen walaalihiis 12:7-18;
-- lagu iibiyay addoonsiga 12:19-20;
+- sheekooyinka ugu fiican 12:1-3
+- riyadii Yuusuf ee dhallinyarada ahayd 12:4-6
+- shirqool ay sameeyeen walaalihiis 12:7-18
+- lagu iibiyay addoonsiga 12:19-20
 - lagu soo barbaariyay guriga Ra'iisul Wasaaraha Masar 12:21-22
-- Xaaska Wasiirka ayaa isku dayaysa inay sasabto 12:23-29;
-- dhacdo xafladeed 12:30-32;
-- xabsiga ayuu galay 12:33-35;
-- labada maxbuus 12:36-42;
-- Riyada Boqorka 12:43-53;
-- wuxuu noqonayaa Wasiirka Koowaad 12:54-57;
-- walaalo ayaa u yimid si ay u helaan sahay 12:58-68;
-- wuxuu qaataa walaalkiis Benjamin 12:69-82;
-- murugadii aabihii oo soo cusboonaatay 12:83-87;
-- wuxuu shaaca ka qaadayaa aqoonsigiisa dhabta ah 12:88-98;
-- riyo hore ayaa rumowday 12:99-100;
+- Xaaska Wasiirka ayaa isku dayaysa inay sasabto 12:23-29
+- dhacdo xafladeed 12:30-32
+- xabsiga ayuu galay 12:33-35
+- labada maxbuus 12:36-42
+- Riyada Boqorka 12:43-53
+- wuxuu noqonayaa Wasiirka Koowaad 12:54-57
+- walaalo ayaa u yimid si ay u helaan sahay 12:58-68
+- wuxuu qaataa walaalkiis Benjamin 12:69-82
+- murugadii aabihii oo soo cusboonaatay 12:83-87
+- wuxuu shaaca ka qaadayaa aqoonsigiisa dhabta ah 12:88-98
+- riyo hore ayaa rumowday 12:99-100
 - salaadda gabagabada 12:101
 Judi, Buurta, 11:44
 Jimcaha, S.62
 Caddaaladda (Adl), 2:282; 4:58, 135; 7:29; 16:90; 57:25 (
 - sidoo kale fiiri 4:65, 105
-Kacbada,
+Kacbada
 - waxaa dhisay Ibraahim, 2:125-127
 - ma jirto dil ugaadh ah, 5:94-96
 - magangalyada amniga, 5:97
@@ -740,17 +739,17 @@ Kahf, S.18
 Kanz, 9:34-35
 Kauthar (webiga Jannada ku yaal), 108:1
 Kauthar, S.108
-Furayaasha,
+Furayaasha
 samada iyo dhulka, 39:63; 42:12
 ee Ghaib, 6:59
 Khaulah bint Tha labah, 58:1
-Dil,
+Dil
 - haddii qof dilo qof, wuxuu dilay dhammaan aadanaha, 5:32
 - ha dilin qofna, 17:33
 Erayada wanaagsan ayaa ka wanaagsan sadaqada, 2:263
 Ehelka, xuquuqda, 2:83, 177, 215; 4:7-9, 36; 8:41; 16:90; 17:26; 24:22; 29:8; 30:38; 42:23
 Kiraman-Ratibin, 82:11
-Aqoon,
+Aqoon
 - caleen ma dhacdo, laakiin wuu ogyahay, 6:59
 - waa lumay kuwii carruurtooda ku dilay nacasnimo, iyagoon haysan, 6:140
 - shan shay, oo Alle keliya la jira, 31:34
@@ -760,14 +759,14 @@ Kursi, 2:255
 Lahab (Eeg Masad), S.111
 Lail, S.92
 Laambad, 25:61; 67:5; 71:16; 78:13
-Luqadaha,
+Luqadaha
 - farqiga u dhexeeya, iyo midabada ragga, 30:22
 Lat, 53:19
 Sharciga, oo la qoray, 5:48
 Sharciyada ka yimid Alle, 2:219; 98:3
 Beenaalayaal, 26:221-223
 Noloshu, haddii qof badbaadiyo qof, wuxuu badbaadiyey nolosha aadanaha oo dhan, 5:32
-Nolosha adduunyadan,
+Nolosha adduunyadan
 - iibsaday, qiimaha Aakhiro, 2:86
 - waa uun raaxada khiyaanada, 3:185
 - iibi, Aakhiro, 4:74
@@ -779,7 +778,7 @@ Nolosha adduunyadan,
 - Qofkii doonaya, wuu ku helaa; laakiin markaas qayb ma yeelan doonto Aakhiro, 11:15-16; 17:18; 42:20
 - kuwa jecel waxa jira, oo dayaca Aakhiro, 75:20-21; 76:27
 - waxaad door bidaysaa, 87:16
-Iftiin,
+Iftiin
 - manifest, 4:174
 - iyo gudcur, 6:1
 - masaal ka mid ah, 24:35
@@ -794,7 +793,7 @@ Xadka uu Alle dejiyay, 2:173, 187, 190, 230;9:112; 58:4; 65:1; 78:22
 - markay dhaafeen, (waxay noqdeen daanyeer), 7:166
 - kuwaas oo fiiro gaar ah u leh, 9:112
 Libaax, 74:51
-Amaah,
+Amaah
 - amaahi Eebbe wanaag, 2:245; 73:20
 - kor u kacay labanlaab, 57:11, 18
 - labanlaabay, 64:17
@@ -812,7 +811,7 @@ Mahr (lacag aroos), 2:229, 236-237; 4:4,19-21, 24-25; 5:5; 33:50; 60:10-11
 Maa'idah, S.5
 Makkah (Bakkah), 3:96;90:1-2
 - Magaalada Amniga, 95:3
-Nin,
+Nin
 - jiilal ka dib jiilal dhulka ah, 2:30; 6:165
 - laga dhigay beddel, 35:39
 - waajib, 2:83-84, 88, 177; 4:1-36; 8:41; 16:90;17:23-39; 24:22; 29:8-9; 30:38;33:33;42:23; 64:14; 70:22-35
@@ -877,7 +876,7 @@ Nin,
 - wuxuu ku xadgudbaa dhammaan xuduudaha, 96:6-7
 Manaasik (waajibaadka) Xajka, 2:128, 200; 22:30
 Manaat, 53:20
-Aadane,
+Aadane
 - markhaatiyaal, 2:143
 - hal bulsho, 2:213; 10:19
 - laga sameeyay lammaane keli ah, 4:1; 39:6; 49:13
@@ -887,7 +886,7 @@ Aadane,
 - ugu sharafta badan, 49:13
 - laga dhigay quruumo iyo qabiilo, 49:13
 Manna iyo digaagduurkii, 2:57
-Dhaqanka,
+Dhaqanka
 - ku saabsan gelitaanka guryaha, 24:27-29
 - guriga dhexdiisa, 24:58-61
 - guryaha Nabiga, 33:53
@@ -910,7 +909,7 @@ Guurka, 2:232, 234
 - kuwa aan helin hab dhaqaale oo loogu guuriyo, 24:33
 - xaasaskii loo xalaaleeyay Nabiga, 33:50-52
 - ka hor galmada, Iddah la'aan furiinka, 33:49
-Shuhadada,
+Shuhadada
 - ma dhiman, 2:154; 3:169
 - ku farax nimcada iyo fadliga Alle, 3:170-171
 - hel cafis iyo naxariis, 3:157-158
@@ -930,7 +929,7 @@ Masad, S.111
 Maun, S.107
 Macawa Jannada, 53:15
 Cabbirka iyo miisaanka, bixi oo buuxa, 11:85; 17:35; 83:1-5
-Shir,
+Shir
 - Ilaahay agtiisa, 6:31
 - Maalinta Weyn, 19:37
 - Aakhiro, 30:16
@@ -960,7 +959,7 @@ Miraj, 17:1; 53:12
 Bilaha, tirada, 9:36-37
 Dayax, 7:54; 10:5; 16:12; 22:18; 25:61; 36:39-40; 71:16; 91:2
 - kala qaybsanaanta; 54:1
-Muuse,
+Muuse
 - iyo dadkiisa, 2:51-61; 7:138-141,159-162; 14:5-8; 61:5
 - iyo Fircoon, 2:49-50; 17:101-103; 20:17-53, 56-79;23:45-49; 25:31-42; 40:23-46; 43:46-56; 51:38-40; 73:16;79:15-26
 - Alle hagayo, 6:84
@@ -970,23 +969,23 @@ Muuse,
 - Qorniinka la siiyay, 17:2
 - sagaal Calaamadood oo Cad, 7:133; 17:101
 - ilaa isgoyska labada badood, 18:60-82
-- kulan nasiib darro ah oo ka dhacay kaynta gubanaysa 20:9-36; 27:7-14; 28:29-35;
+- kulan nasiib darro ah oo ka dhacay kaynta gubanaysa 20:9-36; 27:7-14; 28:29-35
 - loogu yeeray oo la siiyay Rasuulnimo, 19:51-53; 20:9-56
 - carruurnimadiisii, hooyadiis iyo walaashiis, 20:38-40; 28:7-13
 - sixirroolayaal ayaa beddelay, 20:70-73; 26:46-52
 - Madyan, 20:40; 28:22-28
 - la siiyay Shuruudaha, 21:48
 - iyo dabka sixirka ah, 27:7-12; 28:29-35
-- si qalad ah ayuu nin Masri ah ugu dilay magaalada 28:14-21;
+- si qalad ah ayuu nin Masri ah ugu dilay magaalada 28:14-21
 - wuxuu la yimid Aayad cad, 29:39
-- sheeko la socota Fircoon 7:103-137; 10:75-92; 11:96-99; 26:10-69;
-- sagaal calaamadood oo loogu talagalay Fircoon iyo dadkiisa 7:130-133; 20:17-22; 17:101;
-- wuxuu ka adkaaday sixirroolayaasha Fircoon 20:70-73; 26:46-52;
-- u baxsashada Midyaan iyo guurka 28:22-28;
-- wuxuu helayaa Kiniiniyada 7:142-154,
-- wuxuu weydiisanayaa inuu arko Alle oo Buurta saaran 7:142-145;
-- waxaa sharfay Alle 33:69;
-- Nicmooyinka Eebbe ee reer binu Israa'iil 2:47-61;
+- sheeko la socota Fircoon 7:103-137; 10:75-92; 11:96-99; 26:10-69
+- sagaal calaamadood oo loogu talagalay Fircoon iyo dadkiisa 7:130-133; 20:17-22; 17:101
+- wuxuu ka adkaaday sixirroolayaasha Fircoon 20:70-73; 26:46-52
+- u baxsashada Midyaan iyo guurka 28:22-28
+- wuxuu helayaa Kiniiniyada 7:142-154
+- wuxuu weydiisanayaa inuu arko Alle oo Buurta saaran 7:142-145
+- waxaa sharfay Alle 33:69
+- Nicmooyinka Eebbe ee reer binu Israa'iil 2:47-61
 - Israa'iiliyiintu way diideen inay galaan Yeruusaalem 5:20-29
 - lagu hago Jidka Toosan, 37:114-122
 - Qorniinka, 53:36; 87:19
@@ -1074,7 +1073,7 @@ Mumtahanah, S.60
 Munafigun, S.63
 Dil, 2:178-179
 Mursalaat, S.77
-Muslimiinta,
+Muslimiinta
 - marka hore, 6:14, 163; 9:100; 39:12
 - Yaa magacaabay, 22:78
 - cafis iyo abaalmarin weyn oo loogu talagalay kuwa, 33:35-36
@@ -1086,7 +1085,7 @@ Nahl, S.16
 Najas (nadiif ah) 9:28
 Najm, S.53
 Najwa (Eeg Sirta)
-Magacyada,
+Magacyada
 Isagaa iska leh kan ugu quruxda badan, 7:180
 Isagaa iska leh kan ugu Fiican, 17:110; 20:8; 59:24
 Baahi, haddii qof lagu qasbo, 2:173; 6:145
@@ -1099,10 +1098,10 @@ Habeen, (asal ahaan), nasasho, 10:67
 - inay noqoto adeege, 14:32
 - Habeenka Al-Qadr (Amar), 44:3-4; 97:1-5
 Nisa', S.4
-Nuux, 3:33; 4:163; 6:84; 9:70; 10:71;11:25, 32, 36, 42, 45-46, 48, 89; 17:3; 21:76; 25:37; 26:105; 29:14; 37:75; 51:46;54:9; 69:11;
-- jeesjees 11:38;
+Nuux, 3:33; 4:163; 6:84; 9:70; 10:71;11:25, 32, 36, 42, 45-46, 48, 89; 17:3; 21:76; 25:37; 26:105; 29:14; 37:75; 51:46;54:9; 69:11
+- jeesjees 11:38
 - Daadka (daad daran), 29:14
-- Doontii iyo Daadkii 7:59-69, 11:25-48; 23:23-31; 26:105-122; 71:1-28;
+- Doontii iyo Daadkii 7:59-69, 11:25-48; 23:23-31; 26:105-122; 71:1-28
 - wiil aan xaq ahayn oo aan la badbaadin, 11:42-48
 - xaas aan xaq ahayn, 14:9; 17:3, 17;19:58;21:76; 22:42; 26:105-106, 116; 33:7; 37:75,79; 38:12; 42:13; 40:5, 31; 42:13;50:12;53:52; 57:26; 66:10; 71:1, 21, 26
 Nuux, S.71
@@ -1136,7 +1135,7 @@ Tusaalooyin, (u ekaanshaha, tusaale, masaal)
 - roob, 10:24
 - goosashada nadiifka ah ee la jaray, 10:24
 - indhoole iyo dhegoole, 11:24
-- Allah vS. ilaahyo been ah 13:14; 16:76;
+- Allah vS. ilaahyo been ah 13:14; 16:76
 - runta vS. been 13:17
 - dambas ay dabayshu si xoog leh ugu dhacayso,14:18
 - geed wanaagsan, 14:24-25
@@ -1164,7 +1163,7 @@ Tusaalooyin, (u ekaanshaha, tusaale, masaal)
 - dameer, 62:5
 - biyaha waa in la quusiyaa, 67:30
 - dadka beerta, 68:17-33
-Jannada,
+Jannada
 - ee Hooy, (Macwa Jannada), 53:15
 - Firdaus Jannada, 18:107; 23:11
 - Beeraha ay webiyadu hoos maraan, 3:15, 198;4:57; 5:119; 7:43; 9:72; 18:31; 22:23; 39:20;57:12; 64:9; 98:8
@@ -1187,7 +1186,7 @@ Jannada,
 - webi ku yaal Jannada, Kauthar, 108:1
 - webiyo khamri ah, caano, malab la caddeeyey, 47:15
 - khamri saafi ah oo la shaabadeeyey, cad, macaan, 37:45-46; 56:18; 76:21; 83:25
-- koob, oo lagu qasay Zanjabil, 76:17; 78:34;
+- koob, oo lagu qasay Zanjabil, 76:17; 78:34
 - biyo, 76:5
 - saxaarado dahab ah iyo koobab, 43:71
 - weelal lacag ah iyo koobab kiristaalo ah, 76:15-16
@@ -1234,21 +1233,21 @@ Jannada,
 - xaasaskooda oo ku jira hadh wanaagsan, oo ku fadhiya carshiyo, 36:55
 - gabdho yar yar oo naaso buuxa leh oo da'doodu la mid tahay,78:33
 - wiilal addoommo ah oo aan dhiman karin si ay ugu adeegaan, sida luul kala firdhisan, 52:24; 56:17; 76:19
-- sida cirka iyo dhulka oo kale u weyn 3:133, 57:21;
-- biyo socda, hadh qabow, macaan, iyo saaxiibo saafi ah 2:25; 4:57; 36:55-58; 37:40-49; 38:50-54; 44:51-57; 52:17-24; 69:19-24; 76:5-22;
-- abaalmarinta mu'miniinta 55:46-78; 56:10-40;
-- webiyo malab, caano, biyo, iyo khamri ah 47:15;
-- duco iyo salaan 10:9-10; 39:73-74;
-- lagu salaamay salaan nabadeed 13:23-24; 14:32;
-- joogitaan weligiis ah oo ku jira Nicmada 11:108;
-- waligiis lama weydiisan inuu baxo 15:45-48;
-- iftiin hortooda ka iftiimaya iyo midigtooda 57:12;
-- ma jiro kulayl ama qabow 76:13;
-- dhammaan rabitaanka la bixiyay 16:30-32; 41:31-32;
-- jijimooyin dahab ah iyo dhar xariir ah oo wanaagsan 18:30-31; 22:23-24; 44:51-53;
-- saxaarado koob dahab ah 43:67-73;
-- weelal lacag ah iyo miro laalaada meel la gaari karo 76:14-16;
-- ku fadhiista carshiyo 15:47; 37:44; 52:20;
+- sida cirka iyo dhulka oo kale u weyn 3:133, 57:21
+- biyo socda, hadh qabow, macaan, iyo saaxiibo saafi ah 2:25; 4:57; 36:55-58; 37:40-49; 38:50-54; 44:51-57; 52:17-24; 69:19-24; 76:5-22
+- abaalmarinta mu'miniinta 55:46-78; 56:10-40
+- webiyo malab, caano, biyo, iyo khamri ah 47:15
+- duco iyo salaan 10:9-10; 39:73-74
+- lagu salaamay salaan nabadeed 13:23-24; 14:32
+- joogitaan weligiis ah oo ku jira Nicmada 11:108
+- waligiis lama weydiisan inuu baxo 15:45-48
+- iftiin hortooda ka iftiimaya iyo midigtooda 57:12
+- ma jiro kulayl ama qabow 76:13
+- dhammaan rabitaanka la bixiyay 16:30-32; 41:31-32
+- jijimooyin dahab ah iyo dhar xariir ah oo wanaagsan 18:30-31; 22:23-24; 44:51-53
+- saxaarado koob dahab ah 43:67-73
+- weelal lacag ah iyo miro laalaada meel la gaari karo 76:14-16
+- ku fadhiista carshiyo 15:47; 37:44; 52:20
 - Mu'miniintu waxay arki doonaan Rabbigooda 75:22-23
 Waalid, naxariis, 2:83, 215; 4:36; 16:90; 17:23; 29:8; 31:14; 46:15-17
 Wada-hawlgalayaasha Alle, been abuur,4:116;10:34-35, 66; 16:86; 28:62-64, 71-75; 30:40;42:21
@@ -1257,7 +1256,7 @@ Waddo, 5:77; 16:94; 42:52-53; 43:43; 90:11-12
 - sidoo kale eeg Jidka
 Dulqaad, 3:186, 200; 10:109; 11:115; 16:126-127; 20:130; 40:55, 77; 42:43; 46:35; 70:5;73:10
 - caawimo ka raadso, iyo duco, 2:45, 153; 20:132; 50:39
-Bukaanka,
+Bukaanka
 - wuxuu heli doonaa abaalmarin buuxda, 39:10
 - Alle wuxuu la jiraa kuwa jira, 8:46
 - oo noqo, 11:115
@@ -1266,7 +1265,7 @@ Bukaanka,
 Nabad, u janjeera, 8:61
 Luul iyo shacaab, la ilaaliyay, 52:24; 55:22; 56:23
 Qalin, 68:1; 96:4
-Qof,
+Qof
 - Alle ma culays saaro, wax ka baxsan awooddiisa, 2:286; 7:42
 - Ilaahay canshuur kama qaadi karo, marka laga reebo inta uu awoodo, 23:62
 - maya, wuu ogyahay waxa uu kasban doono berri iyo dhulka uu ku dhiman doono, 31:34
@@ -1287,7 +1286,7 @@ Fircoon, 28:6; 40:24
 - dhismaha munaaradda, 40:36-37
 - sidoo kale eeg Muuse
 Isu ururinta waxyaalaha adduunka, 102:1-4
-Ballanqaad (Bai'ah),
+Ballanqaad (Bai'ah)
 - Islaamka, 16:91
 - Rasuulka waxaa u ah Bay'ah (ballanqaad) Eebe, 48:10
 - Mu'miniinta, 48:18; 60:12
@@ -1323,17 +1322,17 @@ Nebiyadii, 3:33-34, 146; 4:163; 5:20; 6:84-90; 23:23-50; 57:26
 - sharci darro ah, 3:161
 - cadow u ah mid kasta, 6:112; 25:31
 - sidoo kale eeg Rasuullada
-Sujuud,
+Sujuud
 - Eebe wuxuu ku dhacaa, cid kasta oo ku jirta samooyinka iyo dhulka iyo hadhkooduba, 13:15
 Bixinta, 10:59; 13:26; 14:32; 16:73; 34:36,39; 42:12; 51:57; 67:21; 79:33
 Sabuurradii, 4:163
-Ciqaab,
+Ciqaab
 - dib u dhigista, 3:178
 - jarista gacmaha ama cagaha, 5:33
 - ku cadaab wixii lagu dhibay oo kale, 16:126
 - noloshan iyo aakhiro, 24:19; 68:33
-Nadiifin,
-- jir ahaan,4:43; 5:6;
+Nadiifin
+- jir ahaan,4:43; 5:6
 - ruux ahaan (laga bilaabo wasakhda), 87:14; 91:9
 Qadar, 5:5; 64:11
 Qadar, S.97
@@ -1345,7 +1344,7 @@ Qaaruun (Koorah), 28:76-82; 29:39
 Qasas,S.28
 Qiblah, 2:142-145, 149
 Qisas (Sharciga sinnaanta ciqaabta), 2:178-179, 194; 5:45; 16:126; 17:33; 22:60;42:40
-Qur'aan,
+Qur'aan
 - lagu sharraxay, 13:31, 36, 37; 14:1; 56:77-80
 - ma aha mid aan waligiis soo saari karin wax aan Alle ahayn, 2:23; 10:38; 11:13; 17:88
 - haddii uu ka yimid meel aan Alle ahayn, waxaa halkaas ka jiray khilaaf badan, 4:82
@@ -1395,7 +1394,7 @@ Qur'aan,
 - akhrinta bogag saafi ah, 98:2
 - sidoo kale eeg Kitaabka; Muujintii
 Quraysh, S.106
-Quraysh,
+Quraysh
 - kuwa aan rumaysanayn, 54:43-46, 51
 - hagaajinta, 106:1-4
 Rabbaaniyiin iyo wadaaddo, 9:31, 34
@@ -1403,26 +1402,26 @@ Tartan, ku dadaal sidii a, camal wanaagsan, 5:48
 Ra'd, S.13
 Raxmaan, S.55
 Dharka xaqnimadu waa ka wanaagsan yahay, 7:26
-Roob,
+Roob
 - Hadiyadda Alle, 56:68-70
 - dhagaxyada, 27:58
 Ramadaan, 2:185
 Ramy, 2:200
-Madaxfurasho,
+Madaxfurasho
 - maya, waa la qaadi doonaa, 57:15
 - waxaa bixiyay gaalada, 3:91; 10:54; 13:18
-Fidyah, oo ah soonka, 2:196;
+Fidyah, oo ah soonka, 2:196
 - si loo xoreeyo maxaabiista, 8:67
 Rass, dadka deggan, 25:38; 50:12
-Magdhow,
+Magdhow
 - Maalinta, 1:4; 37:20; 51:12; 56:56; 82:17-18; 96:7
 - beeniyayaal, 107:1-7
 - sharku waa shar la mid ah, 42:40
-Dib-u-heshiisiin,
+Dib-u-heshiisiin
 - qofkii cafiya oo sameeya, 42:40
 - inta u dhaxaysa ninka iyo xaaskiisa, 4:35
 - inta u dhaxaysa rumaystayaasha, 49:9-10
-Diiwaan,
+Diiwaan
 - Diiwaan la qoray, 83:7-9, 18-21
 - quruun kasta waxaa loogu yeeri doonaa keeda, 45:28-29
 - bogag qoran oo ka mid ah falalka qof kasta, 81:10
@@ -1432,7 +1431,7 @@ Diiwaan,
 - gadaasha dambe, 84:10-15
 Malaa'igta duubista, 50:17-18, 23; 85:11
 Gargaar, oo ay weheliso dhib, 94:5-6
-Diinta,
+Diinta
 - qasab kuma jiro, 2:256
 - waa Islaam, 3:19
 - ee Alle, 3:83-84
@@ -1449,7 +1448,7 @@ Diinta,
 - abtirsiinyo, 43:22-24
 Xuska Alle, 63:9
 - gudaha, quluubtu waxay helaan nasasho, 13:28
-Towbad keen,
+Towbad keen
 - la aqbalo haddii xumaan lagu sameeyo jaahilnimo oo la toobad keeno dhawaan ka dib, 4:17; 6:54
 - oo aan wax saameyn ah lahayn, haddii falalka sharka ah la sii wado, 4:18
 - Wuu aqbalaa, oo dembiyada cafiyaa, 4:25
@@ -1457,7 +1456,7 @@ Nasasho shar ah, 3:178; 10:11; 12:110; 14:42,44; 29:53-55; 86:15-17
 Sarakicid, 2:28, 7:53; 14:21; 16:38-40; 22:5-7; 23:15-16; 31:28, 41:39, 46:33-34; 50:3,20-29, 41-44; 64:7, 75:1-15; 79:10-12; 86:5-8
 - tusaale ku jira sheekada Cesraa 2:259
 - Ibraahim 2:260
-- dadkii godka joogay 18:9-26;
+- dadkii godka joogay 18:9-26
 - digniin ku socota kuwa beeniya sarakicidda 17:49-52, 17:97-100, 19:66-72, 37:11-27, 50:1-15, 80:17-42
 Maalinta Sarakicidda, 7:89; 20:100-101, 124
 - Maalinta Runta ah, 78:39
@@ -1548,7 +1547,7 @@ Rikoor la bixiyay gadaasha dambe, 84:10-15
 - Jahannamo waa la soo dhawayn doonaa, 89:23
 - Naarta Jahannamo waa la furi doonaa, waxaana loo shidi doonaa dab daran, 81:11-12
 - Aargoosiga iyadoo loo marayo sadaqadu wuxuu noqon doonaa kafaaraggud, 5:45
-Muujintii,
+Muujintii
 - haddii aad shaki qabtid, 2:23-24
 - la tirtiray ama la ilaaway Aayadda, 2:106
 - hagitaan sax ah, 3:73
@@ -1560,13 +1559,13 @@ Muujintii,
 - Kitaabka wuxuu ka yimid xagga Eebe, 46:2
 - sidoo kale eeg Kitaabka iyo Qur'aanka
 Aargoosiga dulmiga lagu sameeyay, 42:39-43
-Abaalmarin,
+Abaalmarin
 - sida ugu wanaagsan ee camalku yahay, iyo xitaa in ka badan, 24:38; 29:7; 39:35
 - abaalmarin ahaan 25:15
 - Eebe wuxuu ku abaalmariyaa kuwa wanaagga sameeya, waxa ugu wanaagsan, 53:31
 - wanaag, abaalmarin aan ahayn wanaag, 55:60
 Riba (Fiiri ribada)
-Xaq ah,
+Xaq ah
 - shirkadda, 4:69
 - waxay dhaxli doonaan dhulka, 21:105
 - Jannada dhexdeeda, 51:15-19; 76:5-12
@@ -1585,7 +1584,7 @@ Ruux (naf, ruux), 15:29; 17:85; 58:22
 Rum, S.30
 Saba' (Sheba), 27:22-44; 34:15-21
 Saba', S.34
-Sabti,
+Sabti
 - kuwa xadgudba, 2:65; 4:154; 7:163-166
 - loo qoray oo keliya, 16:124
 Sabiyaan, 5:69; 22:17
@@ -1611,23 +1610,23 @@ Shaydaan, 2:36, 168, 208, 268, 275; 3:36, 155, 175;4:38, 60, 76, 83, 119-120; 5:
 - awood uma laha mu'miniinta, 16:99-100
 - been ayuu tuurayaa, 22:52-53
 - waa cadow, 12:5; 35:6; 36:60
-- kibir 2:34; 7:11-27; 15:26-43; 17:61-65; 38:73-85;
-- jinni 18:50-51;
-- Jirrabaadda Aadan iyo dhicitaankiisa 7:20-23; 20:116-121;
-- awood uma laha mu'miniinta 16:98-100;
-- goolkiisii 35:6-8;
-- cadow lagu dhaartay oo aadanaha u janjeera 12:5; 17:53;
-- xisbigiisa 53:14-19;
-- shaqadiisa gacanta 5:90-91;
-- waxay niyad jabisaa camalka wanaagsan 2:268;
-- Mu'miniintu waxay ka magan galaan Alle isaga 7:200-202;
-- qorshayaashiisu waa daciif yihiin 4:76;
-- wuxuu ka niyad jabiyay taageerayaashiisa 8:48;
+- kibir 2:34; 7:11-27; 15:26-43; 17:61-65; 38:73-85
+- jinni 18:50-51
+- Jirrabaadda Aadan iyo dhicitaankiisa 7:20-23; 20:116-121
+- awood uma laha mu'miniinta 16:98-100
+- goolkiisii 35:6-8
+- cadow lagu dhaartay oo aadanaha u janjeera 12:5; 17:53
+- xisbigiisa 53:14-19
+- shaqadiisa gacanta 5:90-91
+- waxay niyad jabisaa camalka wanaagsan 2:268
+- Mu'miniintu waxay ka magan galaan Alle isaga 7:200-202
+- qorshayaashiisu waa daciif yihiin 4:76
+- wuxuu ka niyad jabiyay taageerayaashiisa 8:48
 - la hadal taageerayaashiisa Jahannamo 14:22
 - sidoo kale eeg Ibliis
 Miisaan, guulaysta, oo noqon doona mid culus, 7:8-9
 - sidoo kale eeg dheelitirka
-Qorniinka,
+Qorniinka
 - dadka, (Yuhuudda iyo Masiixiyiinta), 2:109;3:64-65, 69-72, 75, 98-99, 110, 113,199; 4:47, 153-161; 5:59-60, 68; 98:1
 - waxa ay qarinayeen, 5:61-63
 - kuwaas oo ku jira jidka saxda ah,5:66
@@ -1635,7 +1634,7 @@ Qorniinka,
 Badda, 42:32-33; 45:12
 - labada, 18:60; 25:53; 35:12; 55:19-20
 - marka, la qarxiyo, 82:3
-Sir (Najwa),
+Sir (Najwa)
 - wadahadallo, 4:114
 - talada saddex, 58:7
 - talo, 58:8, 10
@@ -1644,10 +1643,10 @@ Qaybaha iyo kala qaybsanaanta diinta, 6:15; 23:53; 30:32; 42:13-14; 43:65; 45:17
 Ammaan, ka dib dhibaatadii, wuxuu soo dejiyay, 3:154
 Abuur, Yaa beera, 56:63-67
 Dareenno, 23:78
-Todoba, la abuuray,
+Todoba, la abuuray
 - jannooyinka, 2:29; 23:17; 65:12; 67:3; 71:15
 - iyo dhulka la mid ah, 65:12
-Hooska,
+Hooska
 - Alle ayuu sujuudayaa, 13:15; 16:48
 faafidda, 25:45
 Shams, S.91
@@ -1679,12 +1678,12 @@ Addoomo, 2:177-178; 4:25, 36, 92; 5:89; 24:33; 58:3; 90:13
 Hurdo, wax nasasho ah, 78:9
 Sodom, 29:31; 37:136
 Sodomy, 7:80-82; 11:77-83; 15:61-77; 29:28-29
-Sulaymaan, 2:102; 4:163; 6:84;
-- wuxuu ka caawiyay aabihiis Daa'uud inuu gaaro xukun cadaalad ah 21:78-82;
+Sulaymaan, 2:102; 4:163; 6:84
+- wuxuu ka caawiyay aabihiis Daa'uud inuu gaaro xukun cadaalad ah 21:78-82
 - iyo quraanjada, 27:15-19
 - iyo hoopoe-ga, 27:20-26
 - iyo Boqoradda Saba', 27:22-44; 34:15
-- Nicmada Eebe korkiisa 34:12-14, 38:34-40;
+- Nicmada Eebe korkiisa 34:12-14, 38:34-40
 - jacaylkiisa fardaha wanaagsan 38:30-33
 Wiil, korsaday, 33:4-5
 Naf (ruux, Ruux), 15:29; 17:85; 58:22
@@ -1704,8 +1703,8 @@ Khasaaraha dagaalka, 8:41, 69; 48:15, 19-20; 48:15
 Basaasnimo, 49:12
 Xiddig, 53:1, 49; 86:1-4
 Xiddigo, 7:54; 15:16; 16:12, 16; 22:18; 25:61;37:6-10; 56:75; 77:8; 81:2; 82:2
-Toosan, Jid, 1:6,
-- iwm. Wadada, 6:153,
+Toosan, Jid, 1:6
+- iwm. Wadada, 6:153
 - iwm. Ku dadaal, 4:95; 8:72, 74, 75; 9:20, 24, 81; 22:78; 25:52; 29:69:69; 47:3; 60:1; 61:11
 Nuugista, ereyga hooyada korsanaysa, 2:233
 Dhibaato, saboolnimo, caafimaad la'aan iyo masiibooyin; barwaaqo iyo hanti, 7:94-96
@@ -1715,7 +1714,7 @@ Suuradda, 10:38; 11:13; 47:20
 - muujinteedu waxay kordhisaa iimaanka, 9:124-127
 Shaki, 49:12
 Cunno, 19:62
-- sidoo kale eeg Bixinta;
+- sidoo kale eeg Bixinta
 Suwaa', 71:23
 Tabuuk, 9:40-59, 81-99, 117-118, 120-122
 Taghabun, S.64
@@ -1775,7 +1774,7 @@ Riba (Riba), 2:275-276, 278-280; 3:130;4:161; 30:39
 Xijaab, mid aan la arki karin, 17:45-46
 Xidhmo, 24:31; 33:59
 Aayadaha, Sab' Al-Mathani, 15:87
-Guul,
+Guul
 - waxaa bixiyay Alle, 48:1
 - iyadoo loo marayo gargaar ka yimid Alle, 61:13
 Fadliga, (fiiri Xaqnimada; Mu'miniinta)
@@ -1792,7 +1791,7 @@ Jidka, the, 1:6; 42:52-53; 90:10
 - iwm. fudud, fududee, 87:8
 - sidoo kale eeg Waddada
 Wayfarer, 2:177, 215; 8:41; 17:26; 29:29; 30:38; 59:7
-Hanti,
+Hanti
 - yaa soo urursaday, 104:2-4
 - ku bixinta Dariiqa Alle (fiiri Kharash gareynta)
 Xoolo iyo carruur, qurxinta nolosha adduunyada, 18:46
@@ -1810,7 +1809,7 @@ Khamri (Jannada)
 - webiyada, 47:15
 - shaabad saafi ah, 83:25
 Ha jeclaysanin waxa Eebe qaar kaga fadilay qaarka kale, 4:32
-Markhaatiyaal,
+Markhaatiyaal
 - axdigii Nebiyada, 3:81
 - aadanaha oo dhan, 2:143; 22:78
 - qandaraas, 2:282
@@ -1820,7 +1819,7 @@ Markhaatiyaal,
 - gacmaha iyo lugaha ayaa markhaati furi doona, 36:65
 - nin ka soo horjeeda naftiisa, 75:14
 Maalinta Markhaati-qaadka iyo Maalinta Markhaati-qaadka, 85:3
-Xaasaska,
+Xaasaska
 - waa beer kuu gaar ah, 2:223
 - dabool adiga, 2:187
 - nooc ka mid ah, 16:72
@@ -1832,7 +1831,7 @@ Haweenka, 2:222-223; 4:15, 19-22, 34, 127
 - iyada oo aan is caddaynayn muranka, 43:17-18
 Kaynta, dadka deggan, 15:78; 38:13; 50:14
 - sidoo kale fiiri Aikah; Madyan 26:176-191
-Adduun, nolosha tan,
+Adduun, nolosha tan
 - waa ciyaar iyo madadaalo mooyee, 6:32;29:64; 47:36; 57:20
 - khiyaaneeyo ragga, 6:130
 - Raaxada Aakhiro wax yar ayay ka yar tahay, 9:38; 13:26; 28:60-61
@@ -1844,7 +1843,7 @@ Dambiileyaal,11:18-22, 101-104, 116-117;39:47
 - sidoo kale eeg Gaalada
 Wudu' (Abultions), 4:43; 5:6
 Yaghuth, 71:23
-Yaxye (Yooxanaa),
+Yaxye (Yooxanaa)
 - war farxad leh, 3:39; 21:90
 - xaq ah, 6:85
 -xikmad leh; naxariis badan; naxariis badan, 19:12-15
@@ -1865,52 +1864,52 @@ Zihar, 33:4; 58:2-4
 Zukhruf, S.43
 Zumar, S.39
 Mabaadi'da aasaasiga ah
-- Iimaanku wuu kaamilay 5:3;
-- Jid keliya oo uu Alle aqbalay 3:19, 85;
-- ma jirto qasab lagu aqbalayo Islaamka 2:256;
-- hal diin oo leh diimo iyo xeerar sharci oo kala duwan 5:48; 22:67-70; 42:13-14;
-- nebiyada Islaamka 2:135-136; 3:84; 4:163-165;
-- amarrada (rumayso Alle oo sama fal) 4:36; 6:151-154; 17:23-39; 18:107-108;
-- shan ujeedo oo Shareecada ah: ilaalinta diinta 5:54;
-- ilaalinta nolosha 5:32;6:151;
-- ilaalinta hantida 5:38;
-- ilaalinta sharafta 5:5;24:4;
+- Iimaanku wuu kaamilay 5:3
+- Jid keliya oo uu Alle aqbalay 3:19, 85
+- ma jirto qasab lagu aqbalayo Islaamka 2:256
+- hal diin oo leh diimo iyo xeerar sharci oo kala duwan 5:48; 22:67-70; 42:13-14
+- nebiyada Islaamka 2:135-136; 3:84; 4:163-165
+- amarrada (rumayso Alle oo sama fal) 4:36; 6:151-154; 17:23-39; 18:107-108
+- shan ujeedo oo Shareecada ah: ilaalinta diinta 5:54
+- ilaalinta nolosha 5:32;6:151
+- ilaalinta hantida 5:38
+- ilaalinta sharafta 5:5;24:4
 - ilaalinta kartida qofku u leeyahay inuu fikiro 5:90.
 Rumaynta Alle 2:255
-- Sifooyinka Rabbaaniga ah, Magacyada Quruxda badan 57:1-6; 59:22-24; 85:13-16; 112:1-4;
-- ilaah keliya oo mudan in la caabudo 1:1-4; 2:285; 6:3; 43:84;
-- dhammaan awoodda isagaa iska leh 3:26; Carshigiisa ('Arsh) 7:54; 11:7;
-- Kursigiisa (kursi ama kursi) 2:255;
-- nimcooyin aan la tirin karin oo ku wajahan aadanaha 14:32-34; 2:164; 16:2-93; 31:20; 55:1-25;
-- wuxuu nooleeyaa oo dilaa keenaa 44:8; 53:44; 57:2; 67:2;
-- waxay keentaa farxad iyo murugo 53:43;
-- wuxuu bixiyaa qodobbo badan ama xaddidan 13:26; 17:30; 29:62;
-- Garsoorayaasha ugu fiican 95:8;
-- Naxariista badan ee naxariista badan 12:92;
-- wuxuu jecel yahay kuwa xaqa ah 85:14;
-- Cafis buuxa iyo ciqaab daran 13:6, 40:3;
-- Kii Hore iyo Kii Dambe 57:3;
-- sharafta iyo awoodda oo dhan isagaa iska leh 35:10;
-- wuu yaqaanaa waxa aan la garanayn wuxuuna arkaa waxa aan la arki karin 6:59,73; 9:94, 105; 13:8-10; 31:34; 32:6; 34:48; 35:38; 39:46; 49:18; 59:22; 62:8; 64:18; 72:26; 74:31; 87:7;
-- wuxuu si fiican u yaqaan waxa ku qarsoon qalbiga 5:7; 11:5; 31:23;
-- wuu ogyahay waxa dhacay iyo waxa soo socda 2:255;
-- wax walba oo ku jira Diiwaanka (ama Looxa La Ilaaliyay) 6:38; 13:39; 36:12;
-- awood u leh inuu wax walba sameeyo 2:117; 3:189; 8:41; 9:116; 11:4; 16:40; 40:68; 41:39; 42:49;57:2;
-- Awooddiisa aan dhammaadka lahayn 3:26-27; 24:45; 31:28-30;
-- wuxuu abuuray cirka iyo dhulka lix maalmood gudahood mana uusan daalin 46:33; 50:38;
-- wuxuu abuuraa ereyga 'Noqo!' 36:81-83;
-- waligiis caddaalad darro kuma aha abuurkiisa 3:108; 4:40; 17:71; 21:47; 22:10; 26:209; 40:31; 41:46; 45:22; 50:29; 64:11; 78:6-16;
-- wax walba waxay u hoggaansamaan doonistiisa 3:83; 22:18; 30:26;
-- dhammaantood waxay u baahan yihiin isaga 11:6; 35:15; 55:29;
-- ku kalsoonow isaga 10:84-85; 12:67; 25:58;
-- qaababka isgaarsiinta rabbaaniga ah 42:51;
-- mudan in la xasuusto 2:21; 3:102; 4:1; 33:70-71; 59:18;
-- xigmaddu waa hadiyad ka timid isaga 2:269;
-- Uma baahna cidna 3:97; 6:133; 112:2;
-- midna kuma jiro Saddexmidnimada 4:171;
-- ma laha saaxiib 6:101;
-- carruur ma laha 10:68; 19:35; 43:81; 72:3; 112:3;
-- ma laha lammaane ama ilaahyo la-hawlgalayaal ah 6:94; 7:191-195; 46:4-5;
+- Sifooyinka Rabbaaniga ah, Magacyada Quruxda badan 57:1-6; 59:22-24; 85:13-16; 112:1-4
+- ilaah keliya oo mudan in la caabudo 1:1-4; 2:285; 6:3; 43:84
+- dhammaan awoodda isagaa iska leh 3:26; Carshigiisa ('Arsh) 7:54; 11:7
+- Kursigiisa (kursi ama kursi) 2:255
+- nimcooyin aan la tirin karin oo ku wajahan aadanaha 14:32-34; 2:164; 16:2-93; 31:20; 55:1-25
+- wuxuu nooleeyaa oo dilaa keenaa 44:8; 53:44; 57:2; 67:2
+- waxay keentaa farxad iyo murugo 53:43
+- wuxuu bixiyaa qodobbo badan ama xaddidan 13:26; 17:30; 29:62
+- Garsoorayaasha ugu fiican 95:8
+- Naxariista badan ee naxariista badan 12:92
+- wuxuu jecel yahay kuwa xaqa ah 85:14
+- Cafis buuxa iyo ciqaab daran 13:6, 40:3
+- Kii Hore iyo Kii Dambe 57:3
+- sharafta iyo awoodda oo dhan isagaa iska leh 35:10
+- wuu yaqaanaa waxa aan la garanayn wuxuuna arkaa waxa aan la arki karin 6:59,73; 9:94, 105; 13:8-10; 31:34; 32:6; 34:48; 35:38; 39:46; 49:18; 59:22; 62:8; 64:18; 72:26; 74:31; 87:7
+- wuxuu si fiican u yaqaan waxa ku qarsoon qalbiga 5:7; 11:5; 31:23
+- wuu ogyahay waxa dhacay iyo waxa soo socda 2:255
+- wax walba oo ku jira Diiwaanka (ama Looxa La Ilaaliyay) 6:38; 13:39; 36:12
+- awood u leh inuu wax walba sameeyo 2:117; 3:189; 8:41; 9:116; 11:4; 16:40; 40:68; 41:39; 42:49;57:2
+- Awooddiisa aan dhammaadka lahayn 3:26-27; 24:45; 31:28-30
+- wuxuu abuuray cirka iyo dhulka lix maalmood gudahood mana uusan daalin 46:33; 50:38
+- wuxuu abuuraa ereyga 'Noqo!' 36:81-83
+- waligiis caddaalad darro kuma aha abuurkiisa 3:108; 4:40; 17:71; 21:47; 22:10; 26:209; 40:31; 41:46; 45:22; 50:29; 64:11; 78:6-16
+- wax walba waxay u hoggaansamaan doonistiisa 3:83; 22:18; 30:26
+- dhammaantood waxay u baahan yihiin isaga 11:6; 35:15; 55:29
+- ku kalsoonow isaga 10:84-85; 12:67; 25:58
+- qaababka isgaarsiinta rabbaaniga ah 42:51
+- mudan in la xasuusto 2:21; 3:102; 4:1; 33:70-71; 59:18
+- xigmaddu waa hadiyad ka timid isaga 2:269
+- Uma baahna cidna 3:97; 6:133; 112:2
+- midna kuma jiro Saddexmidnimada 4:171
+- ma laha saaxiib 6:101
+- carruur ma laha 10:68; 19:35; 43:81; 72:3; 112:3
+- ma laha lammaane ama ilaahyo la-hawlgalayaal ah 6:94; 7:191-195; 46:4-5
 - wax la mid ah isaga 42:11; 112:4
 Amar si aad uga fikirto yaababka abuurkiisa 3:190; 6:99; 10:5-6; 13:3-4; 16:10-16; 88:17-20
 Calaamadaha ku jira abuuridda 2:164; 6:95-99; 7:57-58; 10:5-6; 13:2-4; 16:10-13, 65-69, 79; 23:27-30; 27:60-65; 30:19-25; 50:6-11
@@ -1931,21 +1930,21 @@ Calaamadaha ku jira abuuridda 2:164; 6:95-99; 7:57-58; 10:5-6; 13:2-4; 16:10-13,
 - roob da'aya, roob dhagaxyaale iyo roob 2:265; 6:99; 24:43; 50:9-11
 - onkod iyo hillaac 13:12-13
 Tixraacyada sayniska
-- aadanaha laga sameeyay unugyada labka iyo dheddigga 76:2;
-- sameynta iyo marxaladaha koritaanka ee uurjiifka 22:5; 23:12-14;
-- uurjiif saddex lakab oo mugdi ah 39:6;
-- biyo macaan 25:53-54; 35:12; 55:19-20;
-- faafinta dabaysha 15:22;
-- faraha 75:3-4;
-- buuro sida biinanka 78:7;
-- birtu waxay soo degtay 57:25;
-- qabtayaasha xanuunka 4:56;
-- qorraxda oo ah isha ifaysa iyo dayaxu oo ah iftiin milicsanaya 10:5;
-- kala qaybsanaanta dayaxa 54:1;
-- cirka oo ah saqaf si fiican loo ilaaliyo 21:32;
-- dhammaan makhluuqaadka laga abuuray biyaha 21:30; 24:45;
-- quraanjadu waxay isgaarsiisaa 27:17-19;
-- hirarka gudaha 24:40;
+- aadanaha laga sameeyay unugyada labka iyo dheddigga 76:2
+- sameynta iyo marxaladaha koritaanka ee uurjiifka 22:5; 23:12-14
+- uurjiif saddex lakab oo mugdi ah 39:6
+- biyo macaan 25:53-54; 35:12; 55:19-20
+- faafinta dabaysha 15:22
+- faraha 75:3-4
+- buuro sida biinanka 78:7
+- birtu waxay soo degtay 57:25
+- qabtayaasha xanuunka 4:56
+- qorraxda oo ah isha ifaysa iyo dayaxu oo ah iftiin milicsanaya 10:5
+- kala qaybsanaanta dayaxa 54:1
+- cirka oo ah saqaf si fiican loo ilaaliyo 21:32
+- dhammaan makhluuqaadka laga abuuray biyaha 21:30; 24:45
+- quraanjadu waxay isgaarsiisaa 27:17-19
+- hirarka gudaha 24:40
 Noolaha nool
 - malaa'igta 39:75
 - aadanuhu (awood dhulka ah) 2:30; 6:165; 16:4
@@ -1978,366 +1977,366 @@ Noolaha nool
 - caaro 29:41
 - kuwa kale oo aan naqaan 16:8
 Dhirta iyo miraha 6:99; 13:4; 16:11; 36:33-35
-- muuska 56:29,
-- taariikhaha 19:25,
-- geedo yaryar, qajaar, toon, digir, iyo basasha 2:61,
-- canab 80:28,
-- saytuun 6:99,
-- sawirka 95:1,
-- rummaan 55:68,
+- muuska 56:29
+- taariikhaha 19:25
+- geedo yaryar, qajaar, toon, digir, iyo basasha 2:61
+- canab 80:28
+- saytuun 6:99
+- sawirka 95:1
+- rummaan 55:68
 - bocorka 37:146
 Rumaynta Muxammad
-- Tayada, nebi keliya 3:144; 6:50; 7:188; 18:110;
-- si loo gudbiyo runta 2:119; 35:24; 42:48;
-- shaabadda nebiyada 33:40;
-- dabeecad sharaf leh 3:159; 68:4;
-- tusaale 33:21;
-- si ay u noqoto nimco mu'miniinta 3:164;
-- naxariis adduunka oo dhan 21:107;
-- rasuul caalami ah 4:170; 7:157-158; 34:28;
-- waxay u horseeddaa Jidka Toosan 42:52-53;
-- daneeyaa dadka 9:129;
-- markhaati ahaan Maalinta Qiyaamaha 4:42; 16:89;
-- nebi aan wax qorin 7:157-158; 29:48; 62:2;
-- wax lagu sii sheegay Tawreed iyo Injiil 7:157;
+- Tayada, nebi keliya 3:144; 6:50; 7:188; 18:110
+- si loo gudbiyo runta 2:119; 35:24; 42:48
+- shaabadda nebiyada 33:40
+- dabeecad sharaf leh 3:159; 68:4
+- tusaale 33:21
+- si ay u noqoto nimco mu'miniinta 3:164
+- naxariis adduunka oo dhan 21:107
+- rasuul caalami ah 4:170; 7:157-158; 34:28
+- waxay u horseeddaa Jidka Toosan 42:52-53
+- daneeyaa dadka 9:129
+- markhaati ahaan Maalinta Qiyaamaha 4:42; 16:89
+- nebi aan wax qorin 7:157-158; 29:48; 62:2
+- wax lagu sii sheegay Tawreed iyo Injiil 7:157
 - Ciise ayaa sii sheegay 61:6
 Caqabadaha uu la kulmay Nabiga ( ﷺ )
-- dalabaadka aan macnaha lahayn ee jaahilka 8:32; 15:7; 17:89-93; 25:7-8;
-- eedeymo been abuur ah 10:2; 11:13; 21:5; 24:11-26; 25:4-6; 37:36; 38:4; 52:29-30;
-- isku day lagu doonayay in lagu dilo naftiisa 8:30; 9:74;
-- digniinta kuwa wax yeeleeya ama ka soo horjeeda 4:115; 8:13; 9:61; 15:95; 33:57; 47:32; 96:9-19;
-- amar lagu siiyay inuu si dulqaad leh uga jawaabo diidmada 20:130; 30:60; 46:35; 70:5;
+- dalabaadka aan macnaha lahayn ee jaahilka 8:32; 15:7; 17:89-93; 25:7-8
+- eedeymo been abuur ah 10:2; 11:13; 21:5; 24:11-26; 25:4-6; 37:36; 38:4; 52:29-30
+- isku day lagu doonayay in lagu dilo naftiisa 8:30; 9:74
+- digniinta kuwa wax yeeleeya ama ka soo horjeeda 4:115; 8:13; 9:61; 15:95; 33:57; 47:32; 96:9-19
+- amar lagu siiyay inuu si dulqaad leh uga jawaabo diidmada 20:130; 30:60; 46:35; 70:5
 - Alle ayaa ku amray in la xaqiijiyo 5:67; 93:1-11; 94:1-8
 Casharro laga bartay noloshii Nabiga ( ﷺ )
-- laga bilaabo hijradiisii (hijra) ilaa Dagaalkii Badar 3:121-129; 8:42-44; 8:65-71;
-- Dagaalkii Uxud 3:151-180;
-- Dagaalkii Godka 33:9-27;
-- Dagaalkii Xunayn 9:25-27;
-- Madiina 9:40; Tabuuk 9:38-123;
-- Banu An-Naḍîr 59:2-6;
-- Xamra' Al-Asad 3:172-175;
+- laga bilaabo hijradiisii (hijra) ilaa Dagaalkii Badar 3:121-129; 8:42-44; 8:65-71
+- Dagaalkii Uxud 3:151-180
+- Dagaalkii Godka 33:9-27
+- Dagaalkii Xunayn 9:25-27
+- Madiina 9:40
+- Tabuuk 9:38-123
+- Banu An-Naḍîr 59:2-6
+- Xamra' Al-Asad 3:172-175
 - Xallinta Xudeybiya 48:1-7; 48:10-29
 Sharafta la siiyay Nabiga ( ﷺ )
-- Ilaahay iyo malaa'igtiisu waxay ku barakeeyaan isaga 33:56;
-- safar habeenimo ah oo ka yimid Makka ilaa Yeruusaalem 17:1;
-- safarka janada 53:1-18;
-- sharaf leh noloshan iyo tan xigta 17:79; 66:8; 108:1;
-- addeeciddiisa waa addeecid Alle 4:80;
-- abaalmarinta addeecidda Alle iyo Rasuulkiisa 4:69;
-- qoyskiisa oo la daahiriyay 33:33-34;
-- wuxuu Jibriil ku arkay qaabkiisa runta ah 53:1-18;
-- Mu'miniintu waxay ku amreen inay addeecaan isaga 59:7;
+- Ilaahay iyo malaa'igtiisu waxay ku barakeeyaan isaga 33:56
+- safar habeenimo ah oo ka yimid Makka ilaa Yeruusaalem 17:1
+- safarka janada 53:1-18
+- sharaf leh noloshan iyo tan xigta 17:79; 66:8; 108:1
+- addeeciddiisa waa addeecid Alle 4:80
+- abaalmarinta addeecidda Alle iyo Rasuulkiisa 4:69
+- qoyskiisa oo la daahiriyay 33:33-34
+- wuxuu Jibriil ku arkay qaabkiisa runta ah 53:1-18
+- Mu'miniintu waxay ku amreen inay addeecaan isaga 59:7
 - anshaxa la hadalka isaga 49:1-5
-- anshaxa booqashada isaga 33:53;
-- anshaxa la macaamilka xaasaskiisa 33:53;
-- Ilaahay wuu ku farxay isaga iyo asxaabtiisa 9:100; 9:117;
+- anshaxa booqashada isaga 33:53
+- anshaxa la macaamilka xaasaskiisa 33:53
+- Ilaahay wuu ku farxay isaga iyo asxaabtiisa 9:100; 9:117
 - heer sare oo ka mid ah bulshadiisa diimeed 2:143; 3:110
-Ducada (salaah) 2:45; 9:103; 51:18; 70:22-23; 75:31; 96:10; 108:2;
-- Jimce shirka 62:9;
-- jihada salaadda ( qiblah) 2:144; 2:149-150;
-- waa inuu qofka ka hor istaagaa falalka xun 29:45;
-- waqtiyada 11:114; 17:78; 17:79; 20:130; 24:36; 24:58; 30:17-18; 32:16; 38:18; 50:39-40; 51:17; 52:48-49; 73:2-4; 76:25-26;
-- inta aad khatar ku jirto ama aad safar ku jirto 2:239; 4:101-102;
-- digniin kuwa dayaca salaadda 19:59; 74:38-47; 107:5-7;
+Ducada (salaah) 2:45; 9:103; 51:18; 70:22-23; 75:31; 96:10; 108:2
+- Jimce shirka 62:9
+- jihada salaadda ( qiblah) 2:144; 2:149-150
+- waa inuu qofka ka hor istaagaa falalka xun 29:45
+- waqtiyada 11:114; 17:78; 17:79; 20:130; 24:36; 24:58; 30:17-18; 32:16; 38:18; 50:39-40; 51:17; 52:48-49; 73:2-4; 76:25-26
+- inta aad khatar ku jirto ama aad safar ku jirto 2:239; 4:101-102
+- digniin kuwa dayaca salaadda 19:59; 74:38-47; 107:5-7
 - Salaadda munaafiqiinta 4:142; 9:54
-Nadiifinta, dhaqidda (wudu) 5:6;
-- qubeys buuxa (ghusl) 2:222; 4:43;
+Nadiifinta, dhaqidda (wudu) 5:6
+- qubeys buuxa (ghusl) 2:222; 4:43
 - dhaqidda qalalan (tayammum) 4:43; 5:6
 Ducada (ducada)
-- ee Ibraahim 2:126-129; 2:126-129; 14:35-41; 26:83-89;
-- Aadan iyo Xaawa 7:23;
-- Ciise 5:114;
-- Ayuub 21:83; 21:83;
-- Yoonis 21:87;
-- Yuusuf 12:33; 12:101;
-- Muuse 10:88-89; 20:25-35;
+- ee Ibraahim 2:126-129; 2:126-129; 14:35-41; 26:83-89
+- Aadan iyo Xaawa 7:23
+- Ciise 5:114
+- Ayuub 21:83; 21:83
+- Yoonis 21:87
+- Yuusuf 12:33; 12:101
+- Muuse 10:88-89; 20:25-35
 - Muxamed 17:80; 20:114
-- Nuux 23:26; 26:117-118; 54:9-10; 71:26; 71:28;
-- Sulaymaan 38:35;
-- Shucayb 7:89;
-- Sakariyaas 3:38; 19:2-6; 21:89-90;
-- malaa'igta 40:8-9;
-- Hooyada Maryan 3:35-36;
-- Xaaska Fircoon 66:11;
-- Saaxiriintii Fircoon 7:126;
-- Boqor Saa'uul iyo mu'miniintii la socotay 2:250;
-- Mu'miniinta reer binu Israa'iil 10:85-86;
-- dadkii godka joogay 18:10;
-- kuwa xaqa ah 2:285-286; 3:8-9; 3:16; 3:147; 3:191-194; 25:74; 59:10;
+- Nuux 23:26; 26:117-118; 54:9-10; 71:26; 71:28
+- Sulaymaan 38:35
+- Shucayb 7:89
+- Sakariyaas 3:38; 19:2-6; 21:89-90
+- malaa'igta 40:8-9
+- Hooyada Maryan 3:35-36
+- Xaaska Fircoon 66:11
+- Saaxiriintii Fircoon 7:126
+- Boqor Saa'uul iyo mu'miniintii la socotay 2:250
+- Mu'miniinta reer binu Israa'iil 10:85-86
+- dadkii godka joogay 18:10
+- kuwa xaqa ah 2:285-286; 3:8-9; 3:16; 3:147; 3:191-194; 25:74; 59:10
 - kuwa la dulmay 4:75
 Aayadaha Sujuuda
 - sajadat, jamac sajdah, 7:206; 13:15; 16:49; 17:109; 19:58; 22:18; 22:77; 25:60; 27:26; 32:15; 38:24; 41:37; 53:62; 84:21; 96:19
-Canshuurta Sadaqada (zakada), oo ah waajib 2:110; 2:177; 2:277; 6:141;
-- mid ka mid ah sifooyinka mu'miniinta 22:41; 23:4; 51:19;
+Canshuurta Sadaqada (zakada), oo ah waajib 2:110; 2:177; 2:277; 6:141
+- mid ka mid ah sifooyinka mu'miniinta 22:41; 23:4; 51:19
 - qaataha 9:60
 - samafal (sadaqah) 2:177; 2:261-263; 2:267-274; 3:92; 63:10
 - digniin kuwa ka aamusa 3:180; 9:34; 47:38
 Soonka (sawm)
-- Ramadaan 2:183-185;
-- saacadaha soonka 2:187;
-- ka-dhaafitaannada 2:184-185;
-- xiriir dhow habeenkii ka horreeyay soonka 2:187;
+- Ramadaan 2:183-185
+- saacadaha soonka 2:187
+- ka-dhaafitaannada 2:184-185
+- xiriir dhow habeenkii ka horreeyay soonka 2:187
 - soonka xilliga xajka 2:196
-Xajka (xajka),
-- waajib mid ah kuwa awooda 3:97;
-- caadooyin iyo xukunno 2:158; 2:189; 2:196-203; 5:2; 22:26-37;
-- qurbaanno allabaryo ah 2:196; 22:36-37;
-- mamnuucidda ugaarsiga dhulka inta lagu jiro xajka 5:1; 5:94-95;
+Xajka (xajka)
+- waajib mid ah kuwa awooda 3:97
+- caadooyin iyo xukunno 2:158; 2:189; 2:196-203; 5:2; 22:26-37
+- qurbaanno allabaryo ah 2:196; 22:36-37
+- mamnuucidda ugaarsiga dhulka inta lagu jiro xajka 5:1; 5:94-95
 - ogolaanshaha ugaarsiga badda 5:96
 - Xajka yar ('umrah) 2:158; 2:196
 Bulshooyinka Diinta
-- Muslimiinta 2:132-136; 3:64; 3:84; 5:111; 22:77-78; 33:35; 41:33; 43:67-70; 72:14-15;
-- ilaaliyeyaasha midba midka kale 3:28; 9:71;
-- Masiixiyiinta 2:62; 2:111-140; 4:171-172; 5:14-19; 5:82-86; 5:116-120; 9:30-31; 22:17;
-- Yuhuuddu 2:62, 111-140; 5:44-45; 6:146; 22:17; 62:6-8;
-- Carruurta Israa'iil 2:40-103, 122-123, 246-251; 3:49; 3:93-94; 5:12-13, 20-26, 32, 70-71, 78-81; 7:137-141, 148-153,159-171; 10:83-93; 14:5-8; 17:2-8, 104; 20:80-98; 26:52-67, 197; 27:76; 44:23-33; 45:16-17; 46:10; 61:5-6;
+- Muslimiinta 2:132-136; 3:64; 3:84; 5:111; 22:77-78; 33:35; 41:33; 43:67-70; 72:14-15
+- ilaaliyeyaasha midba midka kale 3:28; 9:71
+- Masiixiyiinta 2:62; 2:111-140; 4:171-172; 5:14-19; 5:82-86; 5:116-120; 9:30-31; 22:17
+- Yuhuuddu 2:62, 111-140; 5:44-45; 6:146; 22:17; 62:6-8
+- Carruurta Israa'iil 2:40-103, 122-123, 246-251; 3:49; 3:93-94; 5:12-13, 20-26, 32, 70-71, 78-81; 7:137-141, 148-153,159-171; 10:83-93; 14:5-8; 17:2-8, 104; 20:80-98; 26:52-67, 197; 27:76; 44:23-33; 45:16-17; 46:10; 61:5-6
 - Dadka Kitaabka (badanaa Yuhuudda iyo Masiixiyiinta) 2:109; 3:64-115, 199; 4:123-172; 5:15-77; 6:20-21; 13:36; 28:52-55; 29:46-47; 57:16, 28-29; 74:31; 98:1-5
 - Muslimiintu waxay cuni karaan xayawaanka ay iyagu allabaryaan oo ay guursan karaan dumarkooda 5:5
-- cuntooyinka mamnuuca u ah Yuhuudda 6:146;
-- Sabiyaan 2:62; 22:17;
-- Magi 22:17;
-- mushrikiintu (kuwa gaalada ah, kuwa caabuda sanamyada) 3:186; 6:148; 9:6, 17; 10:28; 16:86; 22:17; 53:19-30;
-- dhaqamada khuraafaadka jaahilka ah 2:189; 5:103; 6:138-144;
+- cuntooyinka mamnuuca u ah Yuhuudda 6:146
+- Sabiyaan 2:62; 22:17
+- Magi 22:17
+- mushrikiintu (kuwa gaalada ah, kuwa caabuda sanamyada) 3:186; 6:148; 9:6, 17; 10:28; 16:86; 22:17; 53:19-30
+- dhaqamada khuraafaadka jaahilka ah 2:189; 5:103; 6:138-144
 - dadka aan diin lahayn 52:35-36
 Dhaqamada jaahilka ah waa la mamnuucay
-- gabdhihii oo nool 16:58-59; 81:8-9;
-- dilka carruurta cabsi faqri awgeed 6:137; 6:151; 17:31;
-- foorida iyo sacabka ku wareegsan Kacbada 8:35;
-- u huridda geela sanamyada 5:103; 6:136;
-- allabaryo magaca sanamyada 6:121;
-- furiinka zihar 33:4; 58:2-4;
-- ila' (in ka badan afar bilood) 2:226-227;
-- sawiridda go'aannada 5:3;
-- ku wareegaya Kacbada iyadoo qaawan 7:26-28;
+- gabdhihii oo nool 16:58-59; 81:8-9
+- dilka carruurta cabsi faqri awgeed 6:137; 6:151; 17:31
+- foorida iyo sacabka ku wareegsan Kacbada 8:35
+- u huridda geela sanamyada 5:103; 6:136
+- allabaryo magaca sanamyada 6:121
+- furiinka zihar 33:4; 58:2-4
+- ila' (in ka badan afar bilood) 2:226-227
+- sawiridda go'aannada 5:3
+- ku wareegaya Kacbada iyadoo qaawan 7:26-28
 - gelitaanka guryaha laga soo galo albaabada dambe ka dib xajka 2:189
-Walxaha cibaadada,
-- malaa'ig (qaar ka mid ah Carabta jaahilka ah) 34:40;
-- Al-Aykah (oo ka mid ah reer Shucayb) 26:176;
-- Ba'al (dadka Elias 37:125;
-- Ciise (Masiixiga) 5:17;
-- sanamyo (dadka Ibraahim dhexdooda) 21:52-53;
-- sanamyada Laat, Cuzza, iyo Manaat (kuwa jaahilka Carabta dhexdooda) 53:19-20;
-- sanamyada Wadd, Suwa', Yaghuth, Ya'uq, iyo Nasr (qowmkii Nuux) 71:23;
-- qorraxda (dadka reer Sheba) 27:24;
-- Sirius (qaar ka mid ah Carabta jaahilka ah) 53:49;
-- Fircoon (Masarkii hore) 26:29; 28:38; 79:24;
-- rabitaanno 25:43-44; 45:23;
+Walxaha cibaadada
+- malaa'ig (qaar ka mid ah Carabta jaahilka ah) 34:40
+- Al-Aykah (oo ka mid ah reer Shucayb) 26:176
+- Ba'al (dadka Elias 37:125
+- Ciise (Masiixiga) 5:17
+- sanamyo (dadka Ibraahim dhexdooda) 21:52-53
+- sanamyada Laat, Cuzza, iyo Manaat (kuwa jaahilka Carabta dhexdooda) 53:19-20
+- sanamyada Wadd, Suwa', Yaghuth, Ya'uq, iyo Nasr (qowmkii Nuux) 71:23
+- qorraxda (dadka reer Sheba) 27:24
+- Sirius (qaar ka mid ah Carabta jaahilka ah) 53:49
+- Fircoon (Masarkii hore) 26:29; 28:38; 79:24
+- rabitaanno 25:43-44; 45:23
 - rumaynta ilaahyo badan ayaa la beeniyay 17:42-43; 21:21-24; 25:3
-Goobaha cibaadada, masaajidada 9:18;
-- kaniisadaha, sunagogyada, iyo macbadyada 22:40;
-- meesha quduuska ah 3:39; 38:21;
+Goobaha cibaadada, masaajidada 9:18
+- kaniisadaha, sunagogyada, iyo macbadyada 22:40
+- meesha quduuska ah 3:39; 38:21
 - macbadka 17:7
 - Cinwaanno diimeed, wadaaddo, wadaaddo, iyo rabbaaniyiin 5:44; 5:63; 5:82; 9:31-34
-Malaa'igta,
+Malaa'igta
 - wax ka weydii abuurka Aadan 2:30-34
-- waligaa ha caasiyin Alle 21:26-27; 66:6;
-- miyaanay ahayn gabdhaha Alle 21:26; 43:16-19;
-- malaa'igta ilaalinaysa 13:11;
-- laba malaa'ig oo duuban 50:16-18; 82:10-12;
-- siddeed qof oo Carshiga Alle sita Maalinta Qiyaame 69:17;
-- sagaal iyo toban ilaaliye oo Jahannamo ah 74:26-31;
-- Malaa'igta Dhimashada 6:93; 16:28; 32:11;
-- Jibriil 2:97; 66:4; 26:192-195; 53:1-14;
-- Michael 2:98;
+- waligaa ha caasiyin Alle 21:26-27; 66:6
+- miyaanay ahayn gabdhaha Alle 21:26; 43:16-19
+- malaa'igta ilaalinaysa 13:11
+- laba malaa'ig oo duuban 50:16-18; 82:10-12
+- siddeed qof oo Carshiga Alle sita Maalinta Qiyaame 69:17
+- sagaal iyo toban ilaaliye oo Jahannamo ah 74:26-31
+- Malaa'igta Dhimashada 6:93; 16:28; 32:11
+- Jibriil 2:97; 66:4; 26:192-195; 53:1-14
+- Michael 2:98
 - Maalik 43:77
 Rasuullo
-- laga bilaabo malaa'igta iyo aadanaha dhexdooda 22:75;
+- laga bilaabo malaa'igta iyo aadanaha dhexdooda 22:75
 - Rasuulladii Xallinta Adag (Ibraahim, Nuux, Muuse, Ciise, iyo Muxammad ﷺ ) 33:7; 42:13; 46:35
 Qorniinka Quduuska ah
-- Qur'aan, waa waxyi ka yimid Alle 12:2-3; 20:2-4; 26:192-195; 32:2-3;
-- xasuusin adduunka oo dhan 68:51-52;
-- hagaya habka ugu toosan ee nolosha 17:9;
-- waxyigu wuxuu bilaabmay bishii Ramadaan 2:185;
-- habeen barakeysan 44:3;97:1-5;
-- waxaa lagu muujiyay marxaladaha 17:105-106;
-- si fudud loo xasuusto 54:17;
-- wuxuu xaqiijinayaa runta ku jirta aayadaha hore 3:3-4;
-- awood sare oo ku saabsan kutubtii hore 5:48;
-- shaki kuma jiro 2:2; 10:37;
-- ma jiraan wax iska hor imaad ah 4:82;
-- aan la farsamayn 10:37-39;
-- aan laga soo minguurin Kitaabka Qudduuska ah 25:4-6;
-- aan Shaydaanku shaaca ka qaadin 26:210-212;
+- Qur'aan, waa waxyi ka yimid Alle 12:2-3; 20:2-4; 26:192-195; 32:2-3
+- xasuusin adduunka oo dhan 68:51-52
+- hagaya habka ugu toosan ee nolosha 17:9
+- waxyigu wuxuu bilaabmay bishii Ramadaan 2:185
+- habeen barakeysan 44:3;97:1-5
+- waxaa lagu muujiyay marxaladaha 17:105-106
+- si fudud loo xasuusto 54:17
+- wuxuu xaqiijinayaa runta ku jirta aayadaha hore 3:3-4
+- awood sare oo ku saabsan kutubtii hore 5:48
+- shaki kuma jiro 2:2; 10:37
+- ma jiraan wax iska hor imaad ah 4:82
+- aan la farsamayn 10:37-39
+- aan laga soo minguurin Kitaabka Qudduuska ah 25:4-6
+- aan Shaydaanku shaaca ka qaadin 26:210-212
 - qofna ma soo saari karo wax la mid ah 17:88; 2:23-24; 10:13-14; 11:13
-- laga ilaaliyo musuqmaasuqa 15:9;
-- lagu ilaaliyo Kiniinka La Ilaaliyay 56:75-80;
-- been laguma caddeyn karo 41:42;
-- wuxuu saadaaliyaa dhacdooyinka mustaqbalka 30:1-7; 48:27;
-- waxay rumaystayaasha u keentaa inay ooyaan 5:83; 17:107-109;
-- waxay taabataa quluubta 39:23;
-- iftiin dhalaalaya 4:174; 42:52;
+- laga ilaaliyo musuqmaasuqa 15:9
+- lagu ilaaliyo Kiniinka La Ilaaliyay 56:75-80
+- been laguma caddeyn karo 41:42
+- wuxuu saadaaliyaa dhacdooyinka mustaqbalka 30:1-7; 48:27
+- waxay rumaystayaasha u keentaa inay ooyaan 5:83; 17:107-109
+- waxay taabataa quluubta 39:23
+- iftiin dhalaalaya 4:174; 42:52
 - bogsiin iyo naxariis Mu'miniinta 17:82
 - Tawreed 3:3; 3:93; 5:46; 5:66-68, 110; 7:157; 9:111; 48:29; 61:6; 62:5
-- Injiil 3:3; 48; 5:46-47, 66-68, 77, 110; 7:157; 9:111; 48:29; 57:27
+- Injiil 3:3, 48; 5:46-47, 66-68, 77, 110; 7:157; 9:111; 48:29; 57:27
 - Sabuurradii 4:163; 17:55
 - Qoraalladii Ibraahim 53:36-44; 87:14-19
-Qaddar iyo qaddar 3:145; 9:51; 10:107; 11:6; 54:49; 67:30;
+Qaddar iyo qaddar 3:145; 9:51; 10:107; 11:6; 54:49; 67:30
 - doorasho xor ah 6:148-150; 11:118-119; 16:93; 33:72-73; 39:41; 76:1-3; 91:1-10
-Maalinta Qiyaamaha,
-- ma jirto caddaalad darro 2:281; 18:49; 40:17;
-- naxdinta aakhiro 22:1-2; 27:82-84, 87; 40:18; 52:11-16; 69:13-18; 70:8-18; 73:17-18; 75:7-15; 77:8-15; 78:17-20; 79:34-36; 80:33-42; 81:1-14; 82:1-5; 84:1-5; 87:17-40; 99:1-8; 101:1-11;
-- kuwa xaqa ah iyo kuwa sharka leh Maalintaas 11:105-108; 16:27-33, 84-89; 18:52-53; 20:100-111; 25:24-29; 30:12-16; 33:63-68; 39:68-75; 50:20-35; 55:37-41; 83:4-36;
+Maalinta Qiyaamaha
+- ma jirto caddaalad darro 2:281; 18:49; 40:17
+- naxdinta aakhiro 22:1-2; 27:82-84, 87; 40:18; 52:11-16; 69:13-18; 70:8-18; 73:17-18; 75:7-15; 77:8-15; 78:17-20; 79:34-36; 80:33-42; 81:1-14; 82:1-5; 84:1-5; 87:17-40; 99:1-8; 101:1-11
+- kuwa xaqa ah iyo kuwa sharka leh Maalintaas 11:105-108; 16:27-33, 84-89; 18:52-53; 20:100-111; 25:24-29; 30:12-16; 33:63-68; 39:68-75; 50:20-35; 55:37-41; 83:4-36
 - shafeecada (shafa'ah) 2:48, 255; 6:51, 70; 10:3; 21:28; 32:4; 36:23; 39:43-44; 43:86; 53:26;74:48
-Diiwaanada ficillada 17:13; 18:49;
-- Mu'miniintu waxay diiwaankooda ku helaan gacantooda midig 69:19-24; 84:7-9;
-- gaaladu waxay diiwaankooda ku helaan gacantooda bidix 69:25-37; 84:10-15;
-- waxba kama qarsoonaan doonaan Alle 21:47; 40:16;
-- miisaanka falalka 7:8; 23:102-104; 101:1-11;
-- markhaatifurka xubnaha jidhka 41:19-24; 24:24;
+Diiwaanada ficillada 17:13; 18:49
+- Mu'miniintu waxay diiwaankooda ku helaan gacantooda midig 69:19-24; 84:7-9
+- gaaladu waxay diiwaankooda ku helaan gacantooda bidix 69:25-37; 84:10-15
+- waxba kama qarsoonaan doonaan Alle 21:47; 40:16
+- miisaanka falalka 7:8; 23:102-104; 101:1-11
+- markhaatifurka xubnaha jidhka 41:19-24; 24:24
 - abaalmarinta wanaagga iyo xumaanta 6:160; 27:89-90; 28:84
 Noocyada dadka
-- rumaystayaasha 18:107-108;
-- gaalada 4:167-169;
-- munaafiqiinta 4:145; 57:13-15;
-- dadka deggan Jannada, kuwa ugu horreeya ee rumaysta 55:46-61; 56:10-26;
-- dadka deggan Jannada, dadka midigta haysta 55:62-78; 56:27-40;
-- dadka deggan Jahannamo, dadka bidixda 55:31-45; 56:41-56;
+- rumaystayaasha 18:107-108
+- gaalada 4:167-169
+- munaafiqiinta 4:145; 57:13-15
+- dadka deggan Jannada, kuwa ugu horreeya ee rumaysta 55:46-61; 56:10-26
+- dadka deggan Jannada, dadka midigta haysta 55:62-78; 56:27-40
+- dadka deggan Jahannamo, dadka bidixda 55:31-45; 56:41-56
 - dadka meelaha dhaadheer jooga 7:46-49
 Dhaqaale
-- Tilmaamaha Ganacsiga 2:188; 2:275; 2:282-283; 4:29; 4:58; 6:152; 17:34-35;
-24:36-37; 26:182; 30:39; 55:7-9; 62:9
-- Dhaxal, dhaxal ikhtiyaari ah oo la siiyo kuwa aan dhaxalka lahayn 2:180-183; 4:11-12;
+- Tilmaamaha Ganacsiga 2:188; 2:275; 2:282-283; 4:29; 4:58; 6:152; 17:34-35; 24:36-37; 26:182; 30:39; 55:7-9; 62:9
+- Dhaxal, dhaxal ikhtiyaari ah oo la siiyo kuwa aan dhaxalka lahayn 2:180-183; 4:11-12
 kahor geerida intii lagu jiray safar 5:106-108
 - Laaluush 2:188
-- Deynta, naxariista marka la ururinayo deymaha 2:280;
-- qorista iyo markhaati ka noqoshada heshiis deyn 2:282;
+- Deynta, naxariista marka la ururinayo deymaha 2:280
+- qorista iyo markhaati ka noqoshada heshiis deyn 2:282
 - qaadashada dammaanadda 2:283
-- Dhaxalka, tilmaamaha 4:7; 4:32-33; 8:75;
-- saamiyada farcanka iyo waalidiinta 4:11;
-- xaasaska iyo walaalaha hooyada 4:12;
-- walaalaha oo dhammaystiran 4:176;
+- Dhaxalka, tilmaamaha 4:7; 4:32-33; 8:75
+- saamiyada farcanka iyo waalidiinta 4:11
+- xaasaska iyo walaalaha hooyada 4:12
+- walaalaha oo dhammaystiran 4:176
 - digniin ku socota kuwa aan u hoggaansamin 4:13-14
-- Dulsaar, mamnuucid iyo digniin 2:275-281; 3:130-132;
+- Dulsaar, mamnuucid iyo digniin 2:275-281; 3:130-132
 - waxay noqotay mid aan faa'iido lahayn 30:39
 Sharci ah
 - sharciga khiyaanada (Hirabah) 5:33-34
-- Caddaalad, u istaagga caddaaladda 4:135; 5:8; 16:90-91;
-- u istaagidda xuquuqda agoonta iyo haweenka 4:127;
-- caddaaladda Yuhuudi 4:105-112;
-- caddaalad u ah qof jaahil ah 4:58;
+- Caddaalad, u istaagga caddaaladda 4:135; 5:8; 16:90-91
+- u istaagidda xuquuqda agoonta iyo haweenka 4:127
+- caddaaladda Yuhuudi 4:105-112
+- caddaalad u ah qof jaahil ah 4:58
 - caddaalad lala yeesho kuwa aan Muslimiinta ahayn 60:8-9
 - Aargoosi iyada oo loo marayo waddooyin sharci ah (iyadoo la adeegsanayo ikhtiyaarka cafinta) 2:178-179; 5:45; 16:126; 17:33; 42:37-43
-- Kala-tagga ninka iyo xaaskiisa, khul' 2:229;
+- Kala-tagga ninka iyo xaaskiisa, khul' 2:229
 - lian (eedaynta sino) 24:6-10
 Siyaasadeed
 - Ku dhaqanka arrimaha wadatashi (shura) 3:159; 42:38
-- Dagaalka is-difaaca (jihaadka), akhlaaqda 2:190-192; 2:216; 22:38-40;
-- in aan si aan kala sooc lahayn loo weerarin 4:94;
-- u dagaallama ragga, dumarka, iyo carruurta la dulmay 4:75;
-- ilaalinta goobaha cibaadada 22:37;
-- abaalmarinta shahiidiinta 2:154; 3:169-171; 9:111; 57:19;
-- awood militari ayaa ka hortagta cadawga suurtagalka ah 8:60;
+- Dagaalka is-difaaca (jihaadka), akhlaaqda 2:190-192; 2:216; 22:38-40
+- in aan si aan kala sooc lahayn loo weerarin 4:94
+- u dagaallama ragga, dumarka, iyo carruurta la dulmay 4:75
+- ilaalinta goobaha cibaadada 22:37
+- abaalmarinta shahiidiinta 2:154; 3:169-171; 9:111; 57:19
+- awood militari ayaa ka hortagta cadawga suurtagalka ah 8:60
 - doorashada nabadda 2:192; 8:61
 - Nabadaynta dhinacyada dhexdooda 49:9-10
 - Maxaabiista dagaalka, daaweynta 8:70; 47:4; 76:8
 Bulsho
 - Korsashada 33:4-5
 - Daryeelka agoonta 2:220; 4:2-10; 4:127; 6:152; 17:34
-- Furriinka, garqaadidda iyo dib-u-heshiisiinta 4:35; 4:128;
-- anshaxa furriinka 2:229-231; 65:1-2;
-- meherka iyo muddada sugitaanka 2:226-241; 4:19-21; 33:49; 65:1-7;
-- ninku inuu waxba ka qaadan meherka 4:20;
-- xaaska ha la dhibaateeyo 65:6;
-- xaaska oo la taageero dhaqaale inta lagu jiro uurka 65:6;
-- inta lagu jiro muddada sugitaankeeda 65:6;
-- haddii ay nuujiso ilmaha ninkeedii hore, 65:6;
-- waalidna waa in uusan u xanuunsan ilmahiisa dartiis 2:233;
+- Furriinka, garqaadidda iyo dib-u-heshiisiinta 4:35; 4:128
+- anshaxa furriinka 2:229-231; 65:1-2
+- meherka iyo muddada sugitaanka 2:226-241; 4:19-21; 33:49; 65:1-7
+- ninku inuu waxba ka qaadan meherka 4:20
+- xaaska ha la dhibaateeyo 65:6
+- xaaska oo la taageero dhaqaale inta lagu jiro uurka 65:6
+- inta lagu jiro muddada sugitaankeeda 65:6
+- haddii ay nuujiso ilmaha ninkeedii hore, 65:6
+- waalidna waa in uusan u xanuunsan ilmahiisa dartiis 2:233
 - dooranaya kalkaalisada qoynta 65:6
 - Dhiirigelinta wanaagga iyo ka reebidda xumaanta 3:104; 3:110; 7:157; 9:71-72; 31:17
-- Sinnaanta aadanaha 49:13;
-- ragga iyo dumarka hortooda Alle iyo sharciga, 3:195; 4:124; 5:38; 16:97; 24:2; 40:40;
+- Sinnaanta aadanaha 49:13
+- ragga iyo dumarka hortooda Alle iyo sharciga, 3:195; 4:124; 5:38; 16:97; 24:2; 40:40
 - Raggu waxay leeyihiin mas'uuliyad ka sarreysa dumarka 2:228
 - Quudinta masaakiinta, agoonta, iyo maxaabiista 76:8-9
 - Cafis iyo xakamaynta cadhada 3:134; 42:40
 - Xoraynta addoommada iyo caawinta 4:92; 5:89; 9:60; 24:33; 58:3; 90:13
 - Xushmaynta waalidkiis 4:36; 17:23-25; 31:14-15
 - Is-hoosaysiin 17:37; 31:18-19
-- Fasiraadda riyooyinka Ibraahim 37:102;
-- Fasiraadda riyooyinka Yuusuf 12:4; 12:36; 12:43;
+- Fasiraadda riyooyinka Ibraahim 37:102
+- Fasiraadda riyooyinka Yuusuf 12:4; 12:36; 12:43
 - Fasiraadda riyooyinka Muxamed 8:43; 48:27
 - Naxariis u fidinta dadka aan Muslimiinta ahayn 60:8
-- Guurka 4:3; 4:129; 16:72; 30:21;
-- dumarka sharciga ah iyo kuwa aan sharciga ahayn inay guursadaan 4:22-24;
-- anshaxa isku-xirnaanta 2:222-223;
-- uurka iyo kalkaalinta 2:233; 31:4; 46:15; 65:6;
-- dib u guursashada xaaskiisii hore 2:230;
-- caawinta dadka aan guursan karin 24:32;
+- Guurka 4:3; 4:129; 16:72; 30:21
+- dumarka sharciga ah iyo kuwa aan sharciga ahayn inay guursadaan 4:22-24
+- anshaxa isku-xirnaanta 2:222-223
+- uurka iyo kalkaalinta 2:233; 31:4; 46:15; 65:6
+- dib u guursashada xaaskiisii hore 2:230
+- caawinta dadka aan guursan karin 24:32
 - si xeeladaysan u muujinaya xiisaha inta lagu jiro muddada sugitaanka 2:235
-- Dhaartii 2:224-225; 16:91-92; 16:94;
+- Dhaartii 2:224-225; 16:91-92; 16:94
 - ka gudba dhaartii jabtay 5:89
 - Dulqaad waqtiyada adag 2:45; 2:153-157; 3:186; 12:18; 12:83; 16:127-128; 70:5
-- Ogolaansho in la yimaado 24:58-60;
-- gelitaanka guryaha dadka 24:27-28;
+- Ogolaansho in la yimaado 24:58-60
+- gelitaanka guryaha dadka 24:27-28
 - gelitaanka goobaha dadweynaha 24:29
-- Anshaxa bulshada, xaqiijinta wararka 4:83; 49:6;
-- ixtiraam dhammaan 49:11-12;
-- anshaxa isu imaatinka 58:11;
+- Anshaxa bulshada, xaqiijinta wararka 4:83; 49:6
+- ixtiraam dhammaan 49:11-12
+- anshaxa isu imaatinka 58:11
 - wadahadallo gaar ah 4:114; 58:9
 - Nidar 2:270; 9:75-77; 22:29; 76:7
 - Lumis iyo bakhaylnimo 7:31; 17:29; 25:67
 Sheekooyin kale
-- Haabiil iyo Qaabiil 5:27-31;
-- Al-Khadir iyo Muuse 18:60-82;
-- Ciidanka Maroodiga 105:1-4;
-- mu'min ka yimid dadkii Fircoon 40:28-46;
-- dhalashada Maryan 3:35-36;
-- Sac reer binu Israa'iil 2:67-74;
-- Cesraa 2:259;
+- Haabiil iyo Qaabiil 5:27-31
+- Al-Khadir iyo Muuse 18:60-82
+- Ciidanka Maroodiga 105:1-4
+- mu'min ka yimid dadkii Fircoon 40:28-46
+- dhalashada Maryan 3:35-36
+- Sac reer binu Israa'iil 2:67-74
+- Cesraa 2:259
 - milkiilayaasha beerta 68:17-32
 - Harut iyo Marut 2:102
 - Qorax 28:76-82
-- Taladii Luqman ee wiilkiisa 31:12-19;
-- milkiilaha labada beerood 18:32-44;
-- dadka reer Sheba 34:15-19;
-- dadkii godka joogay 18:9-26;
-- dadka godadka 85:1-8;
-- kuwa jebiya Sabtida 7:163-165;
-- Samiri iyo Wufihii Dahabka ahaa 20:83-97;
-- Saa'uul iyo Samuu'eel 2:247-251;
+- Taladii Luqman ee wiilkiisa 31:12-19
+- milkiilaha labada beerood 18:32-44
+- dadka reer Sheba 34:15-19
+- dadkii godka joogay 18:9-26
+- dadka godadka 85:1-8
+- kuwa jebiya Sabtida 7:163-165
+- Samiri iyo Wufihii Dahabka ahaa 20:83-97
+- Saa'uul iyo Samuu'eel 2:247-251
 - Zul-Qarnain 18:83-98
-Shaydaanka 2:102; 6:71; 6:112; 6:121; 7:27; 7:30; 17:27; 19:68; 19:83; 22:3-4; 23:97-98; 26:210; 37:7-10; 38:37-38; 67:5;
-- aadanaha iyo jinniyada shaydaanka ah 6:112;114:6;
+Shaydaanka 2:102; 6:71; 6:112; 6:121; 7:27; 7:30; 17:27; 19:68; 19:83; 22:3-4; 23:97-98; 26:210; 37:7-10; 38:37-38; 67:5
+- aadanaha iyo jinniyada shaydaanka ah 6:112;114:6
 - janada oo laga ilaaliyo shaydaanka 15:16-18
 Qoomamo
-- aan raacin Nabiga 25:27;
-- in aan la addeecin Alle iyo Rasuulkiisa 4:41-42; 33:64-68;
-- qaadashada saaxiibo xunxun 25:28-29; 26:96-102; 43:36-39;
-- beeninta calaamadaha Alle 6:27-30;
+- aan raacin Nabiga 25:27
+- in aan la addeecin Alle iyo Rasuulkiisa 4:41-42; 33:64-68
+- qaadashada saaxiibo xunxun 25:28-29; 26:96-102; 43:36-39
+- beeninta calaamadaha Alle 6:27-30
 - uma shaqaynayo Aakhiro 89:23-24
 Codsi quus ah
-- baryaya in dib loogu soo laabto adduunka 2:167; 6:27-28; 32:12-14; 42:44;
-- fursad labaad 35:36-37;
-- in laga saaro Dabka 40:10-12;
-- cunto iyo biyo 7:51-52;
-- kuwa u duceeya 7:52-53;
-- in la simo boodhka 4:41-42; 78:40;
+- baryaya in dib loogu soo laabto adduunka 2:167; 6:27-28; 32:12-14; 42:44
+- fursad labaad 35:36-37
+- in laga saaro Dabka 40:10-12
+- cunto iyo biyo 7:51-52
+- kuwa u duceeya 7:52-53
+- in la simo boodhka 4:41-42; 78:40
 - dhimashada 43:74-78
 Tayada kuwa xaqa ah
 - ilaalinta xuquuqda Abuuraha iyo abuurkiisa 3:133-136; 4:36; 4:69-70; 6:151-154; 8:2-4; 13:19-24; 17:23-39;18:107-108; 23:1-11; 25:63-76; 42:36-43
 Tayada kuwa sharka leh
-- aan mahadnaqin 14:34;
-- bakhaylnimo 17:100;
-- degdeg 21:37;
-- xusa Alle waqtiyada adag oo keliya 10:12; 41:51;
-- dulqaad la'aan 70:19;
+- aan mahadnaqin 14:34
+- bakhaylnimo 17:100
+- degdeg 21:37
+- xusa Alle waqtiyada adag oo keliya 10:12; 41:51
+- dulqaad la'aan 70:19
 - dood 18:54
 Dembiyada Waaweyn
 - la wadaajinta dadka kale Alle cibaadada (shirk) 4:48; 4:116; 5:72; 6:19; 31:13:
-- ku xadgudubka waalidkiisa 4:36; 6:151; 17:23;
-- dayaca ama ka tagista salaadaha waajibka ah 19:59-60;
-- aan la bixin canshuurta sadaqada 41:6-7;
-- dil 6:151; 17:33;
-- si ula kac ah u dilidda mu'min 4:93;
-- xatooyo 5:38;
-- khiyaamo 7:85; 11:85; 26:182-183; 83:1-6;
-- been sheegid 2:10; 9:77; 39:60;
-- been ka sheegidda Alle 6:93; 29:68; 61:7;
+- ku xadgudubka waalidkiisa 4:36; 6:151; 17:23
+- dayaca ama ka tagista salaadaha waajibka ah 19:59-60
+- aan la bixin canshuurta sadaqada 41:6-7
+- dil 6:151; 17:33
+- si ula kac ah u dilidda mu'min 4:93
+- xatooyo 5:38
+- khiyaamo 7:85; 11:85; 26:182-183; 83:1-6
+- been sheegid 2:10; 9:77; 39:60
+- been ka sheegidda Alle 6:93; 29:68; 61:7
 - xiriir galmo oo mamnuuc ah 2:222; 17:32; 24:2; 25:68; 29:28-30
-- eedeymo been abuur ah oo ku saabsan sino 24:4-5;
-- riddada 2:217; 5:54;
-- cunista doofaarka iyo cuntooyinka kale ee mamnuuca ah (bakhti, dhiig, iwm.) 5:3; 6:145;
-- khamriga iyo khamaarka 5:90-91;
-- xanta 49:11;
-- markhaati been ah 22:30;
+- eedeymo been abuur ah oo ku saabsan sino 24:4-5
+- riddada 2:217; 5:54
+- cunista doofaarka iyo cuntooyinka kale ee mamnuuca ah (bakhti, dhiig, iwm.) 5:3; 6:145
+- khamriga iyo khamaarka 5:90-91
+- xanta 49:11
+- markhaati been ah 22:30
 - sixir 2:102; 10:77; 20:69
 """;

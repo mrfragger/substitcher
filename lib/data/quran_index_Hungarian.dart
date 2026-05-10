@@ -1,23 +1,22 @@
 const String quranIndexHungarianRaw = r"""
-* A Korán magyar fordítása még nem érhető el a quranenc.com oldalon, ezért feliratok sincsenek.
 Aaron (Harun) 2:248; 4:163; 6:84; 7:122, 142; 10:75; 19:28, 53; 20:30, 70, 90, 92; 21:48; 23:45; 25:35; 26:13, 48; 28:34; 37:114, 120.
 'Abasa, S.80; 74:22
 Mosakodások (Wudu), 4:43; 5:6
 Ábrahám (Ibrahim) S.14; 2:135-136, 148; 3:33, 84, 95; 4:54, 125, 163; 6:161; 9:70, 114; 12:6, 38; 16:120; 19:58; 21:51, 60, 62, 69; 22:43, 78; 26:69; 29:31; 33:7; 37:83, 104, 109; 38:45; 42:13; 43:26; 51:24; 53:37; 57:26; 60:4; 87:19
 - sem zsidó, sem keresztény, 3:67-68
 - Bakkában, az első templomban állt, 3:97; 26:123
-- felemeli a Kába alapjait 2:124-129;
-- az Egy Igaz Isten imádatára hívja népét 2:130-133; 26:69-89; 29:16; 29:24-27;
-- viták az arrogáns királyról 2:258,
-- a feltámadásról kérdezősködik 2:260;
-- sem zsidó, sem keresztény 3:65-68;
-- cáfolja az égi imádatot 6:74-87;
-- hírt kap Izsák születéséről 11:69-76; 51:24-30;
-- imája a Kábánál 14:35-41;
-- angyalok látogatása 15:51-56;
-- példakép 16:123;
-- az igazságra szólítja apját 19:41-50;
-- elpusztítja a bálványokat és megmenekül a tűztől 21:51-73; 37:83-113;
+- felemeli a Kába alapjait 2:124-129
+- az Egy Igaz Isten imádatára hívja népét 2:130-133; 26:69-89; 29:16; 29:24-27
+- viták az arrogáns királyról 2:258
+- a feltámadásról kérdezősködik 2:260
+- sem zsidó, sem keresztény 3:65-68
+- cáfolja az égi imádatot 6:74-87
+- hírt kap Izsák születéséről 11:69-76; 51:24-30
+- imája a Kábánál 14:35-41
+- angyalok látogatása 15:51-56
+- példakép 16:123
+- az igazságra szólítja apját 19:41-50
+- elpusztítja a bálványokat és megmenekül a tűztől 21:51-73; 37:83-113
 - zarándoklatra hív mindenkit 22:26
 Abrar, 3:193, 198; 76:5; 82:13; 83:18-22
 Hatályon kívül helyezés, 2:106, 16:101
@@ -27,11 +26,10 @@ Abu Laháb, 111:1-5
 - angyalok leborulnak előttük, 2:34; 7:11
 - a tudás fája, 2:35; 7:19-20; 20:120-121
 - száműzetés a Kertből (Éva nem hibáztatható), 2:36; 7:24
-- Allah tisztelte, Sátán megkísértette 2:30-38; 7:11-25; 17:61-65; 18:50; 20:115-123; 38:71-85;
+- Allah tisztelte, Sátán megkísértette 2:30-38; 7:11-25; 17:61-65; 18:50; 20:115-123; 38:71-85
 - Allah megbocsátotta 2:37; 20:122
 'Adiyat, S.100
-„Adn Paradise, 9:72; 13:23; 16:31; 18:31;
-19:61; 20:76; 35:33; 38:50; 40:8; 61:12; 98:8
+„Adn Paradise, 9:72; 13:23; 16:31; 18:31;19:61; 20:76; 35:33; 38:50; 40:8; 61:12; 98:8
 Balsors
 - nem mások terhével terhelve, 6:164; 17:15; 35:18; 39:7; 53:38
 - nem terhelve az elviselhetőségén túl, 2:286; 6:152; 7:42; 23:62
@@ -114,7 +112,7 @@ Hitehagyás, 3:72; 3:86-88; 3:90-91; 3:167; 4:137; 5:54; 9:74; 9:107; 16:106; 33
 Hitehagyottak, 47:25
 A'raf, S.7; 7:46, 48
 Arafat, 2:198
-Vitatkozni,
+Vitatkozni
 - nem azok nevében, akik becsapják magukat, 4:107
 – érveltetek mellettük ebben a világban, de ki fog érvelni a Feltámadás Napján, 4:109
 Érvek/Támadások
@@ -124,7 +122,7 @@ Páncél, 16:81
 Asr,S.103
 Ayat Al-Kursi, 2:255
 Rágalmazó, 49:12; 104:1
-Badr (a csata), 3:13,
+Badr (a csata), 3:13
 - tanulságok a 8:5-19, 42-48-ból
 Al-Bait-ul-Ma mur, 52:4
 Bakka (Mekka), 3:96
@@ -134,7 +132,7 @@ Mérleg, 7:8-9; 17:35; 21:47; 55:7-9; 57:25; 101:6-9
 Banu An-Nadir, 59:2-6, 13
 Bakara, S.2
 Bara'a (Lásd Taubah), S.9
-Barzakh, (sorompó), 23:100; 25:53; 55:20;
+Barzakh, (sorompó), 23:100; 25:53; 55:20
 - lásd még 18:94-97; 34:54; 36:9
 Baiyinah, S.98
 A Szörnyeteg (az Utolsó Napokban), 27:82
@@ -183,7 +181,7 @@ Biblia, 5:64, 5:65, 5:68
 - a 3:78 és 5:14-15 torzítása
 Madarak, 2:260; 3:49; 5:110; 6:38; 12:36, 41; 16:79; 21:79; 22:31; 24:41; 27:16-17, 20; 34:10; 38:19; 56:21; 67:19; 105:3
 Vérpénz (Diya), 2:178-179; 4:92; 17:33
-Zsákmány, háború, 4:94. 8:41; 59:6-8;
+Zsákmány, háború, 4:94. 8:41; 59:6-8
 - illegális elvétel, 3:162
 - lásd a zsákmányt
 Vesztegetés, 2:188
@@ -221,7 +219,7 @@ Ruházat, 7:26; 16:81
 - a női felsőruházat megakadályozza a képmutatók zaklatását, 33:59-60
 Konföderációsok, 33:9, 22
 - lásd Ahzab konzultáció, kölcsönös, 42:38
-Teremtés,
+Teremtés
 - kezdődik és megismétlődik, 10:4; 21:104; 27:64; 29:19-20
 - egy új, 17:49, 98; 35:16
 - igazsággal, 15:85; 16:3; 29:44; 39:5; 44:39; 45:22; 46:3
@@ -241,12 +239,12 @@ Varjú, 5:31
 Kritérium, 2:53, 185; 3:4; 8:29, 41; 21:48; 25:1
 Dahr, (lásd Insan,) S.76; 45:24
 - idő, 76:1; 103:1
-Dávid, 5:78; 6:84; 17:55; 34:10, 13; 38:17-30;
+Dávid, 5:78; 6:84; 17:55; 34:10, 13; 38:17-30
 - a Zsoltárok 4:163 alapján
 - megküzd Góliáttal és megöli őt, 2:251
-- ítéletet hoz 21:78-80;
-- tudással és prófétai mivolttal áldott meg 27:15-16;
-- hegyek és madarak csatlakoznak hozzá Allah dicséretében 34:10; 38:17-20;
+- ítéletet hoz 21:78-80
+- tudással és prófétai mivolttal áldott meg 27:15-16
+- hegyek és madarak csatlakoznak hozzá Allah dicséretében 34:10; 38:17-20
 - ítélkeznek két ember között 38:21-26
 Dawabb vagy Dabbah (mozgó élőlény stb.) 2:164; 6:38; 8:22, 55; 11:6, 56; 16:49, 61; 22:18; 24:45; 27:82; 29:60; 31:10; 34:14; 35:28, 45; 42:29; 45:4
 A halottak feltámadnak, 6:36
@@ -256,17 +254,17 @@ Halál, 3:185; 3:193; 4:78; 6:61; 6:93; 21:35; 23:99-108; 31:34; 32:11; 33:19; 3
 - azok a közösségek, amelyeknek nincs kinyilatkoztatásuk, nem pusztulnak el, 6:131; 9:115; 10:47; 11:117; 15:4; 16:119; 17:15; 28:59
 - akiket Allah útján megöltek, élnek, 2:154; 3:169
 - miközben a gonosz elől Allah felé menekül, 4:100
-- nem állítható meg vagy késleltethető 63:10-11;
-- alvás ikertestvére 6:60; 39:42;
-- hívők és hitetlenek a halál pillanatában 8:50; 16:27-32; 41:30;
+- nem állítható meg vagy késleltethető 63:10-11
+- alvás ikertestvére 6:60; 39:42
+- hívők és hitetlenek a halál pillanatában 8:50; 16:27-32; 41:30
 - büntetés a sírban 40:46
 Adósságok, 2:280, 282; 4:11-12
-Rendelet,
+Rendelet
 - minden egyes ügyre van egy, 13:38
 „Soha nem pusztítottunk el egyetlen települést sem anélkül, hogy ne lett volna róla ismert valami, 15:4”
 - minden dolog Allahtól származik, 44:5
 - amikor eldönt valamit, csak annyit mond: „Legyen!” - és ez így is van, 2:117; 36:82; 40:68
-Cselekmények,
+Cselekmények
 - gonosz, megszépült értük, 47:14
 - nekünk a mieink, nektek a ti cselekedeteitek, 28:55; 42:15; 45:15
 - jó és rossz, önmaga mellett és ellen szól, 41:46
@@ -280,7 +278,7 @@ Dhariyat, S.51
 Dhikr, 7:205; 15:6, 9
 Dhul-Kifi, 21:85; 38:48
 Dhul-Qarain, 18:83-98
-Dhun-Nun (a hal társa),
+Dhun-Nun (a hal társa)
 Hitetlenek (lásd még: Képmutatók)
 - kérjék Mohamedet ( ﷺ ), hogy hívja rájuk Allah haragját bizonyítékként, 6:57-58; 8:32; 10:49-52
 - kedvesen viseld a társaságukat, 31:15
@@ -305,7 +303,7 @@ A hadizsákmány elosztása, 8:41; 59:7-8
 Sokféleség
 - az emberekről, 30:22, 35:27-28
 - az életről, 35:27-28
-Válás, 2:228-232, 236-237, 241; 4:35, 130; 65:1-7;
+Válás, 2:228-232, 236-237, 241; 4:35, 130; 65:1-7
 - a várakozási idő lejárta után feloszlathatja vagy kibékítheti a feleket, 2:231; 65:2
 - két tanú, 65:2
 - tartásdíj, 2:233, 241
@@ -341,7 +339,7 @@ Válás, Nő
 - kivéve, ha a házasság nem teljesült, 33:49
 Kutyák, 7:176
 Szamarak (Ass), 2:259; 16:8; 31:19; 62:5; 74:50
-Ital,
+Ital
 - alkoholista, 2:219; 5:90
 - tiszta és fehér, finom, 37:45-46; 76:21
 - tiszta, lezárt bor, 83:25
@@ -364,13 +362,13 @@ Gonosz, 4:123; 10:27-30; 19:83; 59:15
 - megváltozott, jó irányba, 7:95
 - akik a saját vágyaikat követik, 47:14, 16
 - a tettek megszépültek értük, 47:14
-Túlzott,
+Túlzott
 - ételben tilos, 5:87
 - vallásban, 4:171; 5:77-81
 Szemek, fülek és bőrök fognak tanúskodni a bűnösök ellen, 41:20-23
 Ezsdrás (Uzair) 9:30
 Allah arca vagy ábrázata, 2:115, 272; 6:52; 13:22; 18:28; 28:88; 30:38-39; 55:27; 76:9; 92:20
-Szépnek tűnő,
+Szépnek tűnő
 - Allah minden népnek a maga dolgát rendelte. (Korán 6:108)
 Hit (Belief), 2:108; 3:167, 177, 193; 5:5; 9:23; 16:106; 30:56; 40:10; 42:52; 49:7, 11, 14; 52:21; 58:22; 59:9-10
 - elutasítók, 3:116
@@ -380,7 +378,7 @@ Hit (Belief), 2:108; 3:167, 177, 193; 5:5; 9:23; 16:106; 30:56; 40:10; 42:52; 49
 Fajr, S.89
 Falaq, S.113
 Hamis beszélgetés a Korán verseiről, 6:68
-Hamis istenek,
+Hamis istenek
 - Allahon kívül bálványok és úgynevezett társak 7:194-198; 16:20-21, 72, 86; 21:22, 24; 34:22, 27; 41:47-48; 46:5-6; 53:19-24; 71:23-24
 - Ne sértegesd azokat, akiket Allahon kívül imádnak, 6:108
 - lásd még: Taghut
@@ -395,7 +393,7 @@ Fidyah (váltságdíj), a böjtből, 2:196
 - a foglyok kiszabadításáért, 8:67
 - a hitetlenek által felajánlott váltságdíj, 3:91; 5:36,37; 10:54; 13:18
 95. ábra:1
-Harcolás,
+Harcolás
 - Allah útján, a hitetlenek ellen, 2:190-193, 244; 4:84, 95; 8:72, 74, 75; 9:12-16, 20, 24, 36, 123; 47:4; 61:11
 - felszentelt, 2:216
 - szent hónapokban, 2:217; 9:5
@@ -411,7 +409,7 @@ Fájl, S.105
 Firdaus Paradicsom, 18:107; 23:11
 Tűz, 56:71, 100:2
 Repülj, 22:73
-Élelmiszer,
+Élelmiszer
 - törvényes és törvénytelen (Halal és Haram), 2:168, 172, 173; 5:1, 3-5, 88; 6:118-119, 121, 145-146; 16:114-118; 23:51
 - nem bűn azért, amit a múltban evett, 5:93
 - ne hágd át, 5:87
@@ -433,7 +431,7 @@ Megbocsátás, 2:109; 4:48, 110, 116; 5:74; 7:199; 39:53; 42:5, 40-43; 45:14; 53
 - versenyfutás egymással a felé sietve, 57:21
 - a gonosz cselekedetek jó cselekedetekké változtak 25:68-71
 Csalás (lásd Árulás) 83:1-6
-Szabad akarat,
+Szabad akarat
 - Allah akarata által korlátozva, 6:107; 10:99; 74:56; 76:31; 81:28-29
 Aki akar, higgyen és tagadjon, 18:29
 - járj az Úrhoz vezető úton, 76:29
@@ -467,14 +465,14 @@ Jó (Napok), 3:140
 - Allah a legjobbakkal jutalmazza azokat, akik cselekszenek, 53:31
 - jár-e bármilyen jutalom a jóságon kívül, 55:60
 - tégy úgy, ahogy Allah jó volt hozzád, 28:77
-Jó és Rossz,
+Jó és Rossz
 - a jó Allahtól van, a rossz pedig tőled, 4:79
 - ha jót tesztek magatoknak, és ha rosszat tesztek magatok ellen, 17:7;41:46
 - jóval taszítsd el a rosszat, 23:96; 28:54; 41:34
 - a jó és a rossz cselekedet nem lehet egyenlő, 41:34
 - mindenki szembesülni fog mindazzal, amit tett, 3:30
 - lásd még Muhsinun
-Jó cselekedet,
+Jó cselekedet
 - felfedni vagy eltitkolni, 4:149
 - küzdj, mint egy versenyen, 5:48
 Evangélium, 3:3, 48, 65; 5:46-47, 66, 68, 110; 7:157; 9:111; 48:29; 57:27
@@ -491,7 +489,7 @@ A nehézségek mindenből enyhülést hoznak, 94:5-6
 Harun, (Aaron)
 Harut, 2:102
 Hashr, S.59
-Szívek,
+Szívek
 - megedzett, 2:74; 22:53; 39:22; 57:16
 - lepecsételve, 7:100-101; 40:35; 47:16; 63:3
 - lefedett, 17:46; 41:5
@@ -499,7 +497,7 @@ Szívek,
 - megosztott, 59:14
 - félelemmel teli, 22:35
 - akinél betegség van, 2:10; 5:52; 8:49; 9:125; 22:53; 24:50; 33:12, 32, 60; 47:20, 29;74:31
-Mennyek,
+Mennyek
 - Allahé a láthatatlan, 16:77
 - nem színdarabhoz készült, 21:16
 - és a föld egybeépült, 21:30
@@ -529,7 +527,7 @@ Pokol (a tűz, a lángoló égő tűz) 2:24, 119, 161, 166, 201; 3:10, 12, 116, 
 - égető kétségbeesés és jéghideg sötétség bennünk, 38:57
 - 70 könyökös lánc, 69:32
 - korlátozott ideig tartó tartózkodás, 78:23
-A továbbiakban,
+A továbbiakban
 - jobb a ház a..., 6:32; 7:169
 - ami a vége lesz a, 6:135
 - Zalimun nem fog sikeresen teljesíteni (be), 6:135
@@ -546,7 +544,7 @@ Hidzsr (Sziklás Ösvény), 15:80-85
 Hidzsr, S.15
 Homoszexualitás 26:165-166; 27:55; 29:28-29
 Lovak, 16:8
-Óra,
+Óra
 - csak Allah tud róla, 7:187; 31:34; 33:63; 41:47; 68:26; 79:42-46
 - hirtelen rajtuk a sor, 6:31; 7:187; 12:107; 43:66
 - eljön rád, 6:40; 12:107; 20:15; 34:3
@@ -555,9 +553,9 @@ Lovak, 16:8
 - a földrengés, 22:1
 - a Napon, 30:12, 14-kor fog létrejönni
 - biztosan eljön, nincs kétség, 40:59;45:32; 51:5-6
-- jelek 21:96; 27:82; 43:61; 47:18; 54:1-2;
-- nevek 1:3; 2:4; 3:55; 19:39; 30:56; 37:21; 40:15; 41:47; 42:7; 50:20; 56:1; 64:9; 69:1; 79:34; 80:33; 88:1; 101:1-3;
-- váratlanul éri majd az embereket 6:31; 7:187;
+- jelek 21:96; 27:82; 43:61; 47:18; 54:1-2
+- nevek 1:3; 2:4; 3:55; 19:39; 30:56; 37:21; 40:15; 41:47; 42:7; 50:20; 56:1; 64:9; 69:1; 79:34; 80:33; 88:1; 101:1-3
+- váratlanul éri majd az embereket 6:31; 7:187
 - A trombita megszólal: 6:73; 23:101; 39:68
 Házak, belépési szokások, 24:27-29
 Húd 7:65-72; 11:50-60; 26:123-140; 46:21-26
@@ -566,7 +564,7 @@ Hudzsurat, S.49
 Humazah, S.104
 Hunain (csata), 9:25
 Húr (nők a Paradicsomban), 44:54; 52:20
-Képmutatók,
+Képmutatók
 - mondjuk: Hiszünk Allahban és az Utolsó Napban, de valójában nem hiszünk, 2:8
 - becsapják magukat, 2:9
 - betegség a szívükben, 2:10; 8:49; 22:53; 33:12; 47:29
@@ -610,8 +608,8 @@ Iláh, csak egy, 2:163; 6:19; 16:22, 51; 23:91; 37:4; 38:65
 Illegális szexuális kapcsolat; tanúk vallomása, 4:15–18; 24:2, 19
 Illiyyun, 83:18-21
 Tisztátalan (Najas) 9:28
-Imrán,
-- felesége, 3:35;
+Imrán
+- felesége, 3:35
 - lánya, 66:12
 Elkerülhetetlen, 69:1-3
 Infitar, S.82
@@ -630,7 +628,7 @@ Vas, 57:25
 Jézus, lásd Jézust
 Izsák, (Izsák) 2:133; 4:163; 6:84; 19:49;21:72; 29:27; 37:112–113
 Ismael (Iszmáil), 2:125-129, 133; 4:163;6:86; 19:54-55; 21:85; 38:48
-apjával együtt rakják le a Kába alapjait 2:125-140;
+apjával együtt rakják le a Kába alapjait 2:125-140
 az áldozat története 37:100-113
 Iszlám, 3:19, 85; 5:3; 6:125; 39:22; 61:7
 - elsőként azok közül, akik muszlimként engedelmeskednek, 6:14,163; 39:12
@@ -659,8 +657,8 @@ Jacob, (Ya'qub) 2:132-133; 4:163; 6:84;12:18; 19:49; 21:72; 29:27
 Jalut (lásd Góliát)
 Dzsamarat, 2:200
 Jathiyah, S.45
-Jézus, Isa, Mária fia,
-- a világ minden nője felett választott anya 3:42;
+Jézus, Isa, Mária fia
+- a világ minden nője felett választott anya 3:42
 - tanúskodik a Feltámadás Napján, 4:159
 - születés örömhíre, 3:45-47; 19:22-23
 - Izrael gyermekeinek küldötte, 3:49-51
@@ -683,9 +681,9 @@ Eljött a Küldöttünk (Mohamed ﷺ ), 5:19
 - eltérő nézetek, 43:65
 - nem több, mint rabszolga és példakép Izrael gyermekeinek, 43:59
 - örömhír egy Küldöttről, akinek a neve Ahmed lesz, 61:6
-- szűztől való születése, üzenete és csodái 3:45-51; 19:16-38;
-- emlékeztetett Allah kegyeire 5:110-115;
-- tagadja, hogy isteni lenne 5:116-120;
+- szűztől való születése, üzenete és csodái 3:45-51; 19:16-38
+- emlékeztetett Allah kegyeire 5:110-115
+- tagadja, hogy isteni lenne 5:116-120
 - együttérzés és kegyelem követői szívében 5:82; 57:27
 Zsidók és keresztények, 2:140; 4:153-161, 171; 5:18
 - hallgass a hazugságra, 5:41-42
@@ -695,41 +693,41 @@ Zsidók és keresztények, 2:140; 4:153-161, 171; 5:18
 Dzsibril (lásd Gábriel)
 Dzsihád (Harc, Küzdelem) 2:216; 9:24; 22:78; 25:52
 Dzsinn, S.72
-Dzsinn, 6:100, 112; 15:27; 34:41; 38:37; 46:18,29; 55:33, 39;
-Dzsinn, tűzből teremtve 15:25; 55:15;
-- hívő és hitetlen dzsinn 72:1-15;
+Dzsinn, 6:100, 112; 15:27; 34:41; 38:37; 46:18,29; 55:33, 39
+Dzsinn, tűzből teremtve 15:25; 55:15
+- hívő és hitetlen dzsinn 72:1-15
 - néhányan hittek a Korán 46:29-32 üzenetében
 - az emberek és a dzsinnek céllal lettek teremtve 51:56-58
 Jób 4:163; 6:84; 21:83-84; 38:41-44
-János (Jahja, Keresztelő János),
+János (Jahja, Keresztelő János)
 - örömhír, 3:38-41; 19:7-11; 21:90
 - igazak, 6:85
 - bölcs, együttérző, kötelességtudó, 19:12-15
-Jónás (Jónás vagy Júnusz), 4:163; 6:86; 10:98; 21:87; 37:139-148;
+Jónás (Jónás vagy Júnusz), 4:163; 6:86; 10:98; 21:87; 37:139-148
 - (Dhu n-Nun) 21:87; 68:48-50
 József (Juszúf), 6:84; 12:4-101
-- a legjobb történetek 12:1-3;
-- a fiatal Juszuf álma 12:4-6;
-- testvérei összeesküvése 12:7-18;
-- rabszolgaságba adták el 12:19-20;
+- a legjobb történetek 12:1-3
+- a fiatal Juszuf álma 12:4-6
+- testvérei összeesküvése 12:7-18
+- rabszolgaságba adták el 12:19-20
 - Egyiptom miniszterelnökének házában nevelkedett 12:21-22
-- A miniszterelnök felesége megpróbálja elcsábítani 12:23-29;
-- bankett esemény 12:30-32;
-- bördögbe megy 12:33-35;
-- a két rab 12:36-42;
-- Király álma 12:43-53;
-- miniszterelnökké válik 12:54-57;
-- testvérek jönnek hozzá ellátmányért 12:58-68;
-- elveszi testvérét, Benjámint 12:69-82;
-- apja megújuló gyásza 12:83-87;
-- felfedi valódi kilétét 12:88-98;
-- régi álom válik valóra 12:99-100;
+- A miniszterelnök felesége megpróbálja elcsábítani 12:23-29
+- bankett esemény 12:30-32
+- bördögbe megy 12:33-35
+- a két rab 12:36-42
+- Király álma 12:43-53
+- miniszterelnökké válik 12:54-57
+- testvérek jönnek hozzá ellátmányért 12:58-68
+- elveszi testvérét, Benjámint 12:69-82
+- apja megújuló gyásza 12:83-87
+- felfedi valódi kilétét 12:88-98
+- régi álom válik valóra 12:99-100
 - záróima 12:101
 Judi, Mount, 11:44
 Jumu'ah, S.62
 Igazságszolgáltatás (Adl), 2:282; 4:58, 135; 7:29; 16:90; 57:25 (
 - lásd még 4:65, 105
-Kába,
+Kába
 - Ábrahám építette, 2:125-127
 - vad elejtése tilos, 5:94-96
 - a biztonság menedéke, 5:97
@@ -741,17 +739,17 @@ Kahf, S.18
 Kanz, 9:34-35
 Kauthar (folyó a paradicsomban), 108:1
 Kauthar, S.108
-Kulcsok,
+Kulcsok
 az egekről és a földről, 39:63; 42:12
 a Ghaibról, 6:59
 Khaulah bint Tha labah, 58:1
-Gyilkolás,
+Gyilkolás
 - ha valaki embert ölt, az egész emberiséget ölte meg, 5:32
 - Ne ölj meg senkit, 17:33
 A kedves szavak jobbak a jószívűségnél, 2:263
 Rokonság, jogai, 2:83, 177, 215; 4:7-9, 36; 8:41; 16:90; 17:26; 24:22; 29:8; 30:38; 42:23
 Kiraman-Ratibin, 82:11
-Tudás,
+Tudás
 - egy levél sem hullik, de Ő tudja, 6:59
 - elveszettek azok, akik balgaságból, kívülről ölték meg gyermekeiket, 6:140
 - öt dologról, Egyedül Allahnál, 31:34
@@ -761,14 +759,14 @@ Kursi, 2:255
 Laháb (lásd Masad), S.111
 Lail, S.92
 Lámpa, 25:61; 67:5; 71:16; 78:13
-Nyelvek,
+Nyelvek
 - a férfiak közötti különbség és színei, 30:22
 Szél., 53:19
 Törvény, előírt, 5:48
 Allah törvényei, 2:219; 98:3
 Hazugok, 26:221-223
 Életet, ha valaki egy embert megmentett, az egész emberiség életét mentette meg, 5:32
-E világ élete,
+E világ élete
 - megvettem a Hereafter árán, 2:86-kor
 - csak a megtévesztés élvezete, 3:185
 - eladni a túlvilágra, 4:74
@@ -780,7 +778,7 @@ E világ élete,
 Aki vágyik, az eléri azt; de a túlvilágon nem lesz része, 11:15-16; 17:18; 42:20
 - akik szeretik a jelent, és elhanyagolják a túlvilágot, 75:20-21; 76:27
 - jobban szereted a, 87:16
-Fény,
+Fény
 - manifeszt, 4:174
 - és sötétség, 6:1
 - példázata, 24:35
@@ -795,7 +793,7 @@ Allah által szabotált határok, 2:173, 187, 190, 230; 9:112; 58:4; 65:1; 78:22
 - amikor túllépték a (majmokká váltak), 7:166
 - akik betartják a, 9:112
 Oroszlán, 74:51
-Hitel,
+Hitel
 - kölcsönadjatok Allahnak egy jót, 2:245; 73:20
 - megnövelt sokaság, 57:11, 18
 - duplázott, 64:17
@@ -813,7 +811,7 @@ Mahr (menyasszonyi pénz), 2:229, 236-237; 4:4,19-21, 24-25; 5:5; 33:50; 60:10-1
 Ma'idah, S.5
 Mekka (Bakka), 3:96;90:1-2
 - Biztonság Városa, 95:3
-Férfi,
+Férfi
 - nemzedékről nemzedékre a földön, 2:30;6:165
 - utóddá tette, 35:39
 - kötelesség, 2:83-84, 88, 177; 4:1-36; 8:41; 16:90;17:23-39; 24:22; 29:8-9; 30:38;33:33;42:23; 64:14; 70:22-35
@@ -878,7 +876,7 @@ Férfi,
 - átlép minden határt, 96:6-7
 Manasik (feladatok) of Hajj, 2:128, 200; 22:30
 Manat, 53:20
-Emberiség,
+Emberiség
 - tanúk felett, 2:143
 - egy közösség, 2:213; 10:19
 - egyetlen párból létrehozva, 4:1; 39:6; 49:13
@@ -888,7 +886,7 @@ Emberiség,
 - legtiszteletreméltóbb, 49:13
 - nemzetekké és törzsekké tették, 49:13
 Manna és a fürjek, 2:57
-Modor,
+Modor
 - a házakba való belépésről, 24:27-29
 - otthon, 24:58-61
 - a Próféta házaiban, 33:53
@@ -911,7 +909,7 @@ Házasság, 2:232, 234
 - azok, akik nem találják meg a házassághoz szükséges anyagi eszközöket, 24:33
 - a feleségek törvényesek a Próféta számára, 33:50-52
 - szexuális aktus előtt, váláskor nincs idda, 33:49
-Mártírok,
+Mártírok
 - nem halott, 2:154; 3:169
 - Örüljetek Allah kegyelmében és jóságában, 3:170-171
 - nyerj megbocsátást és irgalmat, 3:157-158
@@ -931,7 +929,7 @@ Masad, S.111
 Maun, S.107
 Ma'wa Paradise, 53:15
 Mérés és súly, teljes súly megadása, 11:85; 17:35; 83:1-5
-Találkozó,
+Találkozó
 - Allahhal, 6:31
 - a Nagy Napról, 19:37
 - a túlvilágról, 30:16
@@ -961,7 +959,7 @@ Mirádzs, 17:1; 53:12
 Hónapok száma, 9:36-37
 Hold, 7:54; 10:5; 16:12; 22:18; 25:61; 36:39-40; 71:16; 91:2
 - felosztás; 54:1
-Mózes,
+Mózes
 - és népe, 2:51-61; 7:138-141,159-162; 14:5-8; 61:5
 - és a fáraó, 2:49-50; 17:101-103; 20:17-53, 56-79; 23:45-49; 25:31-42; 40:23-46; 43:46-56; 51:38-40; 73:16; 79:15-26
 - Allah vezetésével, 6:84
@@ -971,23 +969,23 @@ Mózes,
 - a Szentírás szerint, 17:2
 - kilenc egyértelmű jel, 7:133; 17:101
 - a két tenger találkozásánál, 18:60-82
-- végzetes találkozás az égő csipkebokornál 20:9-36; 27:7-14; 28:29-35;
+- végzetes találkozás az égő csipkebokornál 20:9-36; 27:7-14; 28:29-35
 - elhívták és hírvivőként megkapták, 19:51-53; 20:9-56
 - gyermekkora, édesanyja és nővére, 20:38-40; 28:7-13
 - a mágusok megtérnek, 20:70-73; 26:46-52
 - Madyanban, 20:40; 28:22-28
 - jóváhagyta a kritériumot, 21:48
 - és a misztikus tűz, 27:7-12; 28:29-35
-- tévedésből megöl egy egyiptomit a városban 28:14-21;
+- tévedésből megöl egy egyiptomit a városban 28:14-21
 - tiszta Ayat-tal érkezett, 29:39
-- történet a fáraóval 7:103-137; 10:75-92; 11:96-99; 26:10-69;
-- kilenc jel a fáraónak és népének 7:130-133; 20:17-22; 17:101;
-- legyőzi a fáraó mágusait 20:70-73; 26:46-52;
-- menekülés Midiánba és házasság 28:22-28;
-- megkapja a Táblákat 7:142-154,
-- kéri, hogy láthassa Allahot a hegyen 7:142-145;
-- Allah tiszteletére 33:69;
-- Allah kegyei az izraelitáknak 2:47-61;
+- történet a fáraóval 7:103-137; 10:75-92; 11:96-99; 26:10-69
+- kilenc jel a fáraónak és népének 7:130-133; 20:17-22; 17:101
+- legyőzi a fáraó mágusait 20:70-73; 26:46-52
+- menekülés Midiánba és házasság 28:22-28
+- megkapja a Táblákat 7:142-154
+- kéri, hogy láthassa Allahot a hegyen 7:142-145
+- Allah tiszteletére 33:69
+- Allah kegyei az izraelitáknak 2:47-61
 - Az izraeliták nem hajlandók belépni Jeruzsálembe 5:20-29
 - a helyes útra vezetve, 37:114-122
 - Szentírás, 53:36; 87:19
@@ -1075,7 +1073,7 @@ Mumtahanah, S.60
 Munafigún, S.63
 Gyilkosság, 2:178-179
 Mursalat, S.77
-muszlimok,
+muszlimok
 - az első, 6:14, 163; 9:100; 39:12
 - Ki nevezte meg, 22:78
 - megbocsátás és nagy jutalom azoknak, akik, 33:35-36
@@ -1087,7 +1085,7 @@ Nahl, S.16
 Najasz (tisztátalan) 9:28
 Najm, S.53
 Najwa (Lásd a Titkot)
-Nevek,
+Nevek
 Övé a Legszebb, 7:180
 Övé a legjobb, 17:110; 20:8; 59:24
 Szükségszerűség, ha valakit kényszerít, 2:173; 6:145
@@ -1100,10 +1098,10 @@ Szűkösség 3:180; 4:37; 17:29; 25:67;47:38; 57:24; 92:8
 - szolgálatra, 14:32
 - Al-Kadr éjszakája (Rentelme), 44:3-4; 97:1-5
 Nisa', S.4
-Noé, 3:33; 4:163; 6:84; 9:70; 10:71; 11:25, 32, 36, 42, 45-46, 48, 89; 17:3; 21:76; 25:37; 26:105; 29:14; 37:75; 51:46; 54:9; 69:11;
-- gúnyolódott 11:38-kor;
+Noé, 3:33; 4:163; 6:84; 9:70; 10:71; 11:25, 32, 36, 42, 45-46, 48, 89; 17:3; 21:76; 25:37; 26:105; 29:14; 37:75; 51:46; 54:9; 69:11
+- gúnyolódott 11:38-kor
 - az Özönvíz (súlyos árvíz), 29:14
-- a Bárka és az özönvíz 7:59-69, 11:25-48; 23:23-31; 26:105-122; 71:1-28;
+- a Bárka és az özönvíz 7:59-69, 11:25-48; 23:23-31; 26:105-122; 71:1-28
 - az igazságtalan fiú nem üdvözül, 11:42-48
 - igazságtalan feleség, 14:9; 17:3, 17;19:58;21:76; 22:42; 26:105-106, 116; 33:7; 37:75,79; 38:12; 42:13; 40:5, 31; 42:13;50:12;53:52; 57:26; 66:10; 71:1, 21, 26
 Nem, S.71
@@ -1137,7 +1135,7 @@ Példabeszédek (hasonlat, példa, hasonlatok)
 - eső, 10:24
 - tisztán lekaszált aratás, 10:24
 - vakok és süketek, 11:24
-- Allah a hamis istenek ellen 13:14; 16:76;
+- Allah a hamis istenek ellen 13:14; 16:76
 - igazság kontra hazugság 13:17
 - hamu, amelyre a szél vadul fúj, 14:18
 - szép fa, 14:24-25
@@ -1165,7 +1163,7 @@ Példabeszédek (hasonlat, példa, hasonlatok)
 - szamár, 62:5
 - a vizet el kellett volna nyelni, 67:30
 - a kert népe, 68:17-33
-Paradicsom,
+Paradicsom
 - Abode, (Ma'wa Paradise), 53:15
 - Firdaus Paradise, 18:107; 23:11
 - Kertek, amelyek alatt folyók folynak, 3:15, 198;4:57; 5:119; 7:43; 9:72; 18:31; 22:23; 39:20;57:12; 64:9; 98:8
@@ -1188,7 +1186,7 @@ Paradicsom,
 - egy folyó Paradicsomban, Kauthar, 108:1
 - bor, tej, tisztított méz folyói, 47:15
 - tiszta, lezárt bor, fehér, finom, 37:45-46; 56:18; 76:21; 83:25
-- kupa, vegyes mérkőzés, Zanjabil, 76:17; 78:34;
+- kupa, vegyes mérkőzés, Zanjabil, 76:17; 78:34
 - víz, 76:5
 - arany- és csészékkel teli tálcák, 43:71
 - ezüstedények és kristálykupák, 76:15-16
@@ -1235,21 +1233,21 @@ Paradicsom,
 - feleségek kellemes árnyékban, trónokon heverészve, 36:55
 - egyenlő korú, telt mellű fiatal lányok, 78:33
 - halhatatlan fiúszolgák, akik szétszórt gyöngyökként szolgálják őket, 52:24; 56:17; 76:19
-- olyan hatalmas, mint az ég és a föld 3:133, 57:21;
-- folyóvíz, hűvös árnyék, finomságok és tiszta társak 2:25; 4:57; 36:55-58; 37:40-49; 38:50-54; 44:51-57; 52:17-24; 69:19-24; 76:5-22;
-- a hívők jutalma 55:46-78; 56:10-40;
-- méz, tej, víz és bor folyói 47:15;
-- imák és üdvözletek 10:9-10; 39:73-74;
-- békeüzenetekkel köszöntötték 13:23-24; 14:32;
-- örökké tartó boldogság 11:108;
-- soha nem kérte, hogy távozhasson 15:45-48;
-- előttük és jobbjukon fény ragyog 57:12;
-- nincs meleg vagy hideg 76:13;
-- minden kívánság teljesül 16:30-32; 41:31-32;
-- arany karkötők és finom selyemből készült ruhák 18:30-31; 22:23-24; 44:51-53;
-- aranypoharakkal teli tálcák 43:67-73;
-- karnyújtásnyira lógó ezüstedények és gyümölcsök 76:14-16;
-- trónokon nyugovóra térve 15:47; 37:44; 52:20;
+- olyan hatalmas, mint az ég és a föld 3:133, 57:21
+- folyóvíz, hűvös árnyék, finomságok és tiszta társak 2:25; 4:57; 36:55-58; 37:40-49; 38:50-54; 44:51-57; 52:17-24; 69:19-24; 76:5-22
+- a hívők jutalma 55:46-78; 56:10-40
+- méz, tej, víz és bor folyói 47:15
+- imák és üdvözletek 10:9-10; 39:73-74
+- békeüzenetekkel köszöntötték 13:23-24; 14:32
+- örökké tartó boldogság 11:108
+- soha nem kérte, hogy távozhasson 15:45-48
+- előttük és jobbjukon fény ragyog 57:12
+- nincs meleg vagy hideg 76:13
+- minden kívánság teljesül 16:30-32; 41:31-32
+- arany karkötők és finom selyemből készült ruhák 18:30-31; 22:23-24; 44:51-53
+- aranypoharakkal teli tálcák 43:67-73
+- karnyújtásnyira lógó ezüstedények és gyümölcsök 76:14-16
+- trónokon nyugovóra térve 15:47; 37:44; 52:20
 - a hívők meglátják Urukat 75:22-23
 Szülők, kedvesség irántuk, 2:83, 215; 4:36; 16:90; 17:23; 29:8; 31:14; 46:15-17
 Allah társai, hazugság, 4:116; 10:34-35, 66; 16:86; 28:62-64, 71-75; 30:40; 42:21
@@ -1258,7 +1256,7 @@ Legelő, 87:4-5
 - lásd még az Út
 Türelem, 3:186, 200; 10:109; 11:115; 16:126-127; 20:130; 40:55, 77; 42:43; 46:35; 70:5;73:10
 - kérj segítséget az imában, 2:45, 153; 20:132;50:39
-Beteg,
+Beteg
 - teljes jutalmat kap, 39:10
 - Allah azokkal van, akik vannak. (Korán, 8:46)
 - és légy, 11:115
@@ -1267,7 +1265,7 @@ Beteg,
 Béke, hajlam, 8:61
 Gyöngy és korall, tartósítva, 52:24; 55:22; 56:23
 Pen, 68:1; 96:4
-Személy,
+Személy
 - Allah nem terhel meg senkit a hatáskörén túl, 2:286; 7:42
 - Allah senkit sem adóztathat, kivéve a képességei szerint. 23:62
 - nem, tudja, mit fog keresni holnap, és melyik földön fog meghalni, 31:34
@@ -1288,7 +1286,7 @@ Fáraó, 28:6; 40:24
 - toronyépítés, 40:36-37
 - lásd még Mózes
 A világi dolgok felhalmozása, 102:1-4
-Fogadalom (Bai'ah),
+Fogadalom (Bai'ah)
 - az iszlám esetében, 16:91
 - a Küldöttnek a Bai'ah (fogadalom) Allahnak, 48:10
 - a hívőkről, 48:18; 60:12
@@ -1324,17 +1322,17 @@ Próféták, 3:33-34, 146; 4:163; 5:20; 6:84-90; 23:23-50; 57:26
 - illegális a következőre: 3:161
 - egy ellenség mindenért, 6:112; 25:31
 - lásd még: Hírvivők
-Levertség,
+Levertség
 - Allahhoz fordul mindenki, aki az egekben és a földön van, és az árnyékaik is. 13:15
 Gondoskodás, 10:59; 13:26; 14:32; 16:73; 34:36,39; 42:12; 51:57; 67:21; 79:33
 Zsoltárok 4:163
-Büntetés,
+Büntetés
 - elhalasztása, 3:178
 - kéz vagy láb elvágása, 5:33
 – büntesd meg őket azzal, amivel téged sújtottak, 16:126
 - erről az életről és a túlvilágról, 24:19; 68:33
-Tisztítás,
-- testileg, 4:43; 5:6;
+Tisztítás
+- testileg, 4:43; 5:6
 - lelkileg (a szennyeződésektől), 87:14; 91:9
 Kadár, 5:5; 64:11
 Qadr, S.97
@@ -1346,7 +1344,7 @@ Qarun (Korah), 28:76-82; 29:39
 Qasas,S.28
 Kibla, 2:142-145, 149
 Qisas (A büntetésben való egyenlőség törvénye), 2:178-179, 194; 5:45; 16:126; 17:33; 22:60;42:40
-Korán,
+Korán
 - leírták, 13:31, 36, 37; 14:1; 56:77-80
 - nem olyan, amit Allahon kívül más hozhatna létre, 2:23; 10:38; 11:13; 17:88
 – ha Allahon kívül mástól származna, sok ellentmondás lenne benne, 4:82
@@ -1404,26 +1402,26 @@ Versenyezz, törekedj, mint egy, jó cselekedetekben, 5:48
 Ra'd, S.13
 Rahman, S.55
 Jobb az igazság ruhája, 7:26
-Eső,
+Eső
 - Allah ajándéka, 56:68-70
 - kövekből, 27:58
 Ramadán, 2:185
 Ramy, 2:200
-Váltságdíj,
+Váltságdíj
 - nem, el kell fogadni, 57:15
 - hitetlenek által felajánlva, 3:91; 10:54; 13:18
-Fidja, a böjtről, 2:196;
+Fidja, a böjtről, 2:196
 - a foglyok kiszabadításáért, 8:67
 Rass, a lakói, 25:38; 50:12
-Jutalom,
+Jutalom
 - a Nap, 1:4; 37:20; 51:12; 56:56; 82:17-18; 96:7
 - tagadók, 107:1-7
 - egy gonoszhoz hasonló gonosz tartozik, 42:40
-Egyeztetés,
+Egyeztetés
 - aki megbocsát és tesz, 42:40
 - férj és feleség között, 4:35
 - hívők között, 49:9-10
-Rekord,
+Rekord
 - egy feljegyzett lajstrom, 83:7-9, 18-21
 - minden nemzet a maga útjára szól, 45:28-29
 - minden ember tetteinek írásos oldalai, 81:10
@@ -1433,7 +1431,7 @@ Rekord,
 - a háta mögött, 84:10-15
 Angyalok feljegyzése, 50:17-18, 23; 85:11
 Megkönnyebbülés a nehézségekkel együtt, 94:5-6
-Vallás,
+Vallás
 - nincs benne kényszer, 2:256
 - az iszlám, 3:19
 - Allahról, 3:83-84
@@ -1450,7 +1448,7 @@ Vallás,
 - ősi, 43:22-24
 Allah megemlékezése, 63:9
 - a szívek megnyugvást találnak, 13:28
-Bűnbánat,
+Bűnbánat
 - elfogadják, ha tudatlanságból követtek el rosszat, és utána hamarosan megbánják, 4:17; 6:54
 - és hiábavaló, ha a gonosz cselekedetek folytatódnak, 4:18
 - Elfogadja és megbocsátja a bűnöket, 4:25
@@ -1458,7 +1456,7 @@ A gonosznak enyhülése, 3:178; 10:11; 12:110; 14:42,44; 29:53-55; 86:15-17
 Feltámadás, 2:28, 7:53; 14:21; 16:38-40; 22:5-7; 23:15-16; 31:28, 41:39, 46:33-34; 50:3,20-29, 41-44; 64:7, 75:1-15; 79:10-12; 86:5-8
 - példa Ezsdrás történetében 2:259
 - Ábrahám 2:260
-- a barlang népe 18:9-26;
+- a barlang népe 18:9-26
 - figyelmeztetés a feltámadás tagadóinak 17:49-52, 17:97-100, 19:66-72, 37:11-27, 50:1-15, 80:17-42
 Feltámadás Napja, 7:89; 20:100-101, 124
 - az Igaz Nap, 78:39
@@ -1549,7 +1547,7 @@ Hát mögött felállított mérleg, 84:10-15
 - Közeleg a pokol, 89:23
 - A Pokol Tüze elvész, és heves lángra lobban, 81:11-12
 - A jótékonykodás útján történő megtorlás vezeklés lesz, 5:45
-Kinyilatkoztatás,
+Kinyilatkoztatás
 - ha kétségeid vannak, 2:23-24
 - hatályon kívül helyezett vagy elfelejtett 2:106-os vers
 - helyes útmutatás, 3:73
@@ -1561,13 +1559,13 @@ Kinyilatkoztatás,
 - a Könyv egyik része Allahtól származik, 46:2
 - lásd még a Könyvet és a Koránt
 Az elnyomó igazságtalanság bosszúja, 42:39-43
-Jutalom,
+Jutalom
 - a legjobb cselekedetek szerint, sőt még inkább, 24:38; 29:7; 39:35
 - jutalomként 25:15
 - Allah a jót cselekvőket jutalmazza a legjobbal, 53:31
 - jóért, nincs más jutalom, mint a jóért, 55:60
 Riba (Lásd uzsora)
-Igazságos,
+Igazságos
 - a társaság, 4:69
 - öröklik a földet, 21:105
 - a Paradicsomban, 51:15-19; 76:5-12
@@ -1586,7 +1584,7 @@ Rú (lélek, szellem), 15:29; 17:85; 58:22
 Rum, S.30
 Saba' (Saba), 27:22-44; 34:15-21
 Saba', S.34
-Szombat,
+Szombat
 - a következők áthágói, 2:65; 4:154; 7:163-166
 - csak a következő személyek számára előírt, 16:124
 Sabians, 5:69; 22:17
@@ -1612,23 +1610,23 @@ Sátán, 2:36, 168, 208, 268, 275; 3:36, 155, 175; 4:38, 60, 76, 83, 119-120; 5:
 - nincs hatalma a hívők felett, 16:99-100
 - hazugságokat vet fel, 22:52-53
 - ellenség, 12:5; 35:6; 36:60
-- arrogancia 2:34; 7:11-27; 15:26-43; 17:61-65; 38:73-85;
-- egy dzsinn 18:50-51;
-- Ádám megkísértése és bukása 7:20-23; 20:116-121;
-- nincs hatalma a hívők felett 16:98-100;
-- gólja 35:6-8;
-- az emberiség esküdt ellensége 12:5; 17:53;
-- pártja 53:14-19;
-- a kézimunkája 5:90-91;
-- elriasztja a jó cselekedeteket 2:268;
-- a hívők Allahnál keresnek menedéket előle 7:200-202;
-- a tervei gyengék 4:76;
-- cserbenhagyja követőit 8:48;
+- arrogancia 2:34; 7:11-27; 15:26-43; 17:61-65; 38:73-85
+- egy dzsinn 18:50-51
+- Ádám megkísértése és bukása 7:20-23; 20:116-121
+- nincs hatalma a hívők felett 16:98-100
+- gólja 35:6-8
+- az emberiség esküdt ellensége 12:5; 17:53
+- pártja 53:14-19
+- a kézimunkája 5:90-91
+- elriasztja a jó cselekedeteket 2:268
+- a hívők Allahnál keresnek menedéket előle 7:200-202
+- a tervei gyengék 4:76
+- cserbenhagyja követőit 8:48
 - beszéljen követőivel a pokolban 14:22
 - lásd még Iblis
 Mérleg, sikeres, akinek nehéz lesz, 7:8-9
 - lásd még az egyensúlyt
-Szentírás,
+Szentírás
 - a zsidók és keresztények népe, 2:109;3:64-65, 69-72, 75, 98-99, 110, 113, 199; 4:47, 153-161; 5:59-60, 68; 98:1
 - mit rejtegettek, 5:61-63
 - azok között, akik a helyes úton járnak, 5:66
@@ -1636,7 +1634,7 @@ Szentírás,
 Tengerek, 42:32-33; 45:12
 - a kettő, 18:60; 25:53; 35:12; 55:19-20
 - amikor, kitörnek, 82:3
-Titkos (Najwa),
+Titkos (Najwa)
 - előadások, 4:114
 - három ember tanácsa, 58:7
 - tanácsok, 58:8, 10
@@ -1645,10 +1643,10 @@ Szekták és vallási megosztottságok, 6:15; 23:53; 30:32; 42:13-14; 43:65; 45:
 A vész után biztonságot küldött le, 3:154
 Mag, aki növekedést hoz, 56:63-67
 Érzékek, 23:78
-Hét, teremtve,
+Hét, teremtve
 - mennyek, 2:29; 23:17; 65:12; 67:3; 71:15
 - és a földnek, mint ott, 65:12
-Árnyék,
+Árnyék
 - Allah előtt leborulva, 13:15; 16:48
 terjedése, 25:45
 Shams, S.91
@@ -1680,12 +1678,12 @@ Rabszolgák, 2:177-178; 4:25, 36, 92; 5:89; 24:33; 58:3; 90:13
 Az alvás, a pihenés záloga, 78:9
 Szodoma, 29:31; 37:136
 Szodómia, 7:80-82; 11:77-83; 15:61-77; 29:28-29
-Salamon, 2:102; 4:163; 6:84;
-- segít apjának, Dávidnak igazságosabb ítéletet hozni 21:78-82;
+Salamon, 2:102; 4:163; 6:84
+- segít apjának, Dávidnak igazságosabb ítéletet hozni 21:78-82
 - és a hangyák, 27:15-19
 - és a búbos banka, 27:20-26
 - és Sába királynője', 27:22-44; 34:15
-- Allah kegyei rajta 34:12-14, 38:34-40;
+- Allah kegyei rajta 34:12-14, 38:34-40
 - a jó lovak iránti szeretete 38:30-33
 Fiú, örökbefogadott, 33:4-5
 Lélek (szellem, Ruh), 15:29; 17:85; 58:22
@@ -1705,8 +1703,8 @@ Hadizsákmány, 8:41, 69; 48:15, 19-20; 48:15
 Kémkedés, 49:12
 Csillag, 53:1, 49; 86:1-4
 Csillagok, 7:54; 15:16; 16:12, 16; 22:18; 25:61; 37:6-10; 56:75; 77:8; 81:2; 82:2
-Egyenes, Út, 1:6,
-- stb. Ösvény, 6:153,
+Egyenes, Út, 1:6
+- stb. Ösvény, 6:153
 - stb. Törekvés, 4:95; 8:72, 74, 75; 9:20, 24, 81; 22:78; 25:52; 29:69:69; 47:3; 60:1; 61:11
 Szoptatás, a nevelőanya kifejezése, 2:233
 Szenvedés, szegénység, egészségvesztés és csapások; jólét és gazdagság, 7:94-96
@@ -1776,7 +1774,7 @@ Uzza, 53:19
 Fátyol, egy láthatatlan, 17:45-46
 Fátyolozás, 24:31; 33:59
 Versek, Sab' Al-Mathani, 15:87
-Győzelem,
+Győzelem
 - Allah adta, 48:1
 - Allah segítségével, 61:13
 Erények (lásd Igazságosság; Hívők)
@@ -1793,7 +1791,7 @@ Víz, minden élőlény, amiből készült, 21:30; 24:45; 25:54
 - stb. könnyű, könnyűvé tesz, 87:8
 - lásd még az Útvonalat
 Vándor, 2:177, 215; 8:41; 17:26; 29:29; 30:38; 59:7
-Jólét,
+Jólét
 - aki összegyűlt, 104:2-4
 - Allah ügyében való költekezés (lásd Költés)
 Gazdagság és gyermekek, e világi élet ékességei, 18:46
@@ -1811,7 +1809,7 @@ Bor (a Paradicsomban)
 - folyók, 47:15
 - tiszta lezárt, 83:25
 Ne kívánjátok azokat a dolgokat, amelyekben Allah egyeseket mások fölé helyezett, 4:32
-Tanúk,
+Tanúk
 - a Próféták szövetségéhez, 3:81
 - az emberiség felett, 2:143; 22:78
 - szerződés esetén, 2:282
@@ -1821,7 +1819,7 @@ Tanúk,
 - kezek és lábak fognak tanúskodni, 36:65
 - ember önmaga ellen, 75:14
 Tanúságtétel Napja és Tanúságtétel Napja, 85:3
-Feleségek,
+Feleségek
 - szántóföldek számodra, 2:223
 - borító neked, 2:187
 - a magad fajtájából, 16:72
@@ -1833,7 +1831,7 @@ Nők, 2:222-223; 4:15, 19-22, 34, 127
 - nem fejti ki egyértelműen a vitáját, 43:17-18
 Erdő, a lakói, 15:78; 38:13; 50:14
 - lásd még Aikah; Madyan 26:176-191
-Világ, e világ élete,
+Világ, e világ élete
 - nem más, mint játék és szórakozás, 6:32;29:64; 47:36; 57:20
 - megtéveszti az embereket, 6:130
 - kevesebb az élvezet a túlvilágon, mint a túlvilágon, 9:38; 13:26; 28:60-61
@@ -1845,7 +1843,7 @@ Gonosztevők, 11:18-22, 101-104, 116-117; 39:47
 - lásd még a Hitetlenek címűeket is
 Wudu' (Mosdás), 4:43; 5:6
 Yaghuth, 71:23
-Jahja (János),
+Jahja (János)
 - örömhír, 3:39; 21:90
 - igazak, 6:85
 -bölcs; együttérző; kötelességtudó, 19:12-15
@@ -1866,52 +1864,52 @@ Zihár, 33:4; 58:2-4
 Zuhruf, S.43
 Zumar, S.39
 Alapelvek
-- Tökéletessé vált hit 5:3;
-- az egyetlen Allah által elfogadott Út 3:19, 85;
-- nincs kényszer az iszlám elfogadásában 2:256;
-- egy vallás különböző hitekkel és törvénykönyvekkel 5:48; 22:67-70; 42:13-14;
-- az iszlám prófétái 2:135-136; 3:84; 4:163-165;
-- parancsolatok (higgy Allahban és cselekedj jót) 4:36; 6:151-154; 17:23-39; 18:107-108;
-- a saría öt célja: a hit védelme 5:54;
-- az élet védelme 5:32;6:151;
-- vagyonvédelem 5:38;
-- a becsület védelme 5:5;24:4;
+- Tökéletessé vált hit 5:3
+- az egyetlen Allah által elfogadott Út 3:19, 85
+- nincs kényszer az iszlám elfogadásában 2:256
+- egy vallás különböző hitekkel és törvénykönyvekkel 5:48; 22:67-70; 42:13-14
+- az iszlám prófétái 2:135-136; 3:84; 4:163-165
+- parancsolatok (higgy Allahban és cselekedj jót) 4:36; 6:151-154; 17:23-39; 18:107-108
+- a saría öt célja: a hit védelme 5:54
+- az élet védelme 5:32;6:151
+- vagyonvédelem 5:38
+- a becsület védelme 5:5;24:4
 - a gondolkodóképesség védelme 5:90.
 Allahban való hit 2:255
-- Isteni tulajdonságok, Gyönyörű nevek 57:1-6; 59:22-24; 85:13-16; 112:1-4;
-- az egyetlen imádatra méltó isten 1:1-4; 2:285; 6:3; 43:84;
-- minden hatalom Övé 3:26; Az Ő trónja ('Arsh) 7:54; 11:7;
-- Kursi-ja (lábtartója vagy széke) 2:255;
-- számtalan kegy az emberiségnek 14:32-34; 2:164; 16:2-93; 31:20; 55:1-25;
-- életet ad és halált okoz 44:8; 53:44; 57:2; 67:2;
-- örömet és bánatot hoz 53:43;
-- bőséges vagy korlátozott ellátást biztosít 13:26; 17:30; 29:62;
-- Minden bíró legjobbja 95:8;
-- Az irgalmasok legirgalmasabbja 12:92;
-- szereti az igazakat 85:14;
-- tele van megbocsátással és szigorú a büntetésben 13:6, 40:3;
-- az Első és az Utolsó 57:3;
-- minden tisztelet és hatalom Övé 35:10;
-- ismeri az ismeretlent és látja a láthatatlant 6:59,73; 9:94, 105; 13:8-10; 31:34; 32:6; 34:48; 35:38; 39:46; 49:18; 59:22; 62:8; 64:18; 72:26; 74:31; 87:7;
-- tudja a legjobban, mi van elrejtve a szívben 5:7; 11:5; 31:23 ;
-- tudja, mi történt és mi fog még történni 2:255;
-- mindent felírt a Feljegyzésbe (vagy a Megőrzött Táblába) 6:38; 13:39; 36:12;
-- bármire képes 2:117; 3:189; 8:41; 9:116; 11:4; 16:40; 40:68; 41:39; 42:49;57:2;
-- Az Ő végtelen hatalma 3:26-27; 24:45; 31:28-30;
-- hat nap alatt teremtette az eget és a földet, és soha nem fáradt el 46:33; 50:38;
-- a „Légy!” szóval teremt 36:81-83;
-- soha nem igazságtalan a teremtésével szemben 3:108; 4:40; 17:71; 21:47; 22:10; 26:209; 40:31; 41:46; 45:22; 50:29; 64:11; 78:6-16;
-- minden aláveti magát az Ő akaratának 3:83; 22:18; 30:26;
-- mindenkinek szüksége van Őrá 11:6; 35:15; 55:29;
-- bízz benne 10:84-85; 12:67; 25:58;
-- az isteni kommunikáció formái 42:51;
-- érdemes szem előtt tartani a 2:21; 3:102; 4:1; 33:70-71; 59:18 verseket;
-- a bölcsesség ajándék Tőle 2:269;
-- Nincs szüksége senkire 3:97; 6:133; 112:2;
-- egy sincs a Szentháromságban 4:171;
-- nincs társa 6:101;
-- nincsenek gyermekei 10:68; 19:35; 43:81; 72:3; 112:3;
-- nincsenek társai vagy istentársai 6:94; 7:191-195; 46:4-5;
+- Isteni tulajdonságok, Gyönyörű nevek 57:1-6; 59:22-24; 85:13-16; 112:1-4
+- az egyetlen imádatra méltó isten 1:1-4; 2:285; 6:3; 43:84
+- minden hatalom Övé 3:26; Az Ő trónja ('Arsh) 7:54; 11:7
+- Kursi-ja (lábtartója vagy széke) 2:255
+- számtalan kegy az emberiségnek 14:32-34; 2:164; 16:2-93; 31:20; 55:1-25
+- életet ad és halált okoz 44:8; 53:44; 57:2; 67:2
+- örömet és bánatot hoz 53:43
+- bőséges vagy korlátozott ellátást biztosít 13:26; 17:30; 29:62
+- Minden bíró legjobbja 95:8
+- Az irgalmasok legirgalmasabbja 12:92
+- szereti az igazakat 85:14
+- tele van megbocsátással és szigorú a büntetésben 13:6, 40:3
+- az Első és az Utolsó 57:3
+- minden tisztelet és hatalom Övé 35:10
+- ismeri az ismeretlent és látja a láthatatlant 6:59,73; 9:94, 105; 13:8-10; 31:34; 32:6; 34:48; 35:38; 39:46; 49:18; 59:22; 62:8; 64:18; 72:26; 74:31; 87:7
+- tudja a legjobban, mi van elrejtve a szívben 5:7; 11:5; 31:23
+- tudja, mi történt és mi fog még történni 2:255
+- mindent felírt a Feljegyzésbe (vagy a Megőrzött Táblába) 6:38; 13:39; 36:12
+- bármire képes 2:117; 3:189; 8:41; 9:116; 11:4; 16:40; 40:68; 41:39; 42:49;57:2
+- Az Ő végtelen hatalma 3:26-27; 24:45; 31:28-30
+- hat nap alatt teremtette az eget és a földet, és soha nem fáradt el 46:33; 50:38
+- a „Légy!” szóval teremt 36:81-83
+- soha nem igazságtalan a teremtésével szemben 3:108; 4:40; 17:71; 21:47; 22:10; 26:209; 40:31; 41:46; 45:22; 50:29; 64:11; 78:6-16
+- minden aláveti magát az Ő akaratának 3:83; 22:18; 30:26
+- mindenkinek szüksége van Őrá 11:6; 35:15; 55:29
+- bízz benne 10:84-85; 12:67; 25:58
+- az isteni kommunikáció formái 42:51
+- érdemes szem előtt tartani a 2:21; 3:102; 4:1; 33:70-71; 59:18 verseket
+- a bölcsesség ajándék Tőle 2:269
+- Nincs szüksége senkire 3:97; 6:133; 112:2
+- egy sincs a Szentháromságban 4:171
+- nincs társa 6:101
+- nincsenek gyermekei 10:68; 19:35; 43:81; 72:3; 112:3
+- nincsenek társai vagy istentársai 6:94; 7:191-195; 46:4-5
 - semmi sem olyan, mint Ő 42:11; 112:4
 Hogy elmélkedjünk a teremtés csodáin 3:190; 6:99; 10:5-6; 13:3-4; 16:10-16; 88:17-20
 Jelek a teremtésben 2:164; 6:95-99; 7:57-58; 10:5-6; 13:2-4; 16:10-13, 65-69, 79; 23:27-30; 27:60-65; 30:19-25; 50:6-11
@@ -1932,21 +1930,21 @@ Jelek a teremtésben 2:164; 6:95-99; 7:57-58; 10:5-6; 13:2-4; 16:10-13, 65-69, 7
 - szitálás, jégeső és eső 2:265; 6:99; 24:43; 50:9-11
 - mennydörgés és villámlás 13:12-13
 Tudományos hivatkozások
-- férfi és női ivarsejtekből létrehozott emberek 76:2;
-- az embrió kialakulásának és fejlődési fázisai 22:5; 23:12-14;
-- magzat három sötétségrétegben 39:6;
-- brakkvíz 25:53-54; 35:12; 55:19-20;
-- szélbeporzás 15:22;
-- ujjlenyomatok 75:3-4;
-- hegyek cövekként 78:7;
-- vasat küldtek le 57:25-re;
-- fájdalomreceptorok 4:56;
-- a Nap, mint sugárzó forrás és a Hold, mint visszavert fény 10:5;
-- holdfelhasadás 54:1;
-- az ég, mint jól védett lombkorona 21:32;
-- minden lény vízből teremtetett 21:30; 24:45;
-- a hangyák kommunikálnak 27:17-19;
-- belső hullámok 24:40;
+- férfi és női ivarsejtekből létrehozott emberek 76:2
+- az embrió kialakulásának és fejlődési fázisai 22:5; 23:12-14
+- magzat három sötétségrétegben 39:6
+- brakkvíz 25:53-54; 35:12; 55:19-20
+- szélbeporzás 15:22
+- ujjlenyomatok 75:3-4
+- hegyek cövekként 78:7
+- vasat küldtek le 57:25-re
+- fájdalomreceptorok 4:56
+- a Nap, mint sugárzó forrás és a Hold, mint visszavert fény 10:5
+- holdfelhasadás 54:1
+- az ég, mint jól védett lombkorona 21:32
+- minden lény vízből teremtetett 21:30; 24:45
+- a hangyák kommunikálnak 27:17-19
+- belső hullámok 24:40
 Élőlények
 - angyalok 39:75
 - emberek (földi tekintély) 2:30; 6:165; 16:4
@@ -1979,366 +1977,367 @@ Tudományos hivatkozások
 - pók 29:41
 - mások, akiket nem ismerünk 16:8
 Növények és gyümölcsök 6:99; 13:4; 16:11; 36:33-35
-- banán 56:29,
-- dátumok 19:25,
-- fűszernövények, uborka, fokhagyma, lencse és hagyma 2:61,
-- szőlő 80:28,
-- olajbogyó 6:99,
-- 95:1. ábra,
-- gránátalma 55:68,
+- banán 56:29
+- dátumok 19:25
+- fűszernövények, uborka, fokhagyma, lencse és hagyma 2:61
+- szőlő 80:28
+- olajbogyó 6:99
+- 95:1. ábra
+- gránátalma 55:68
 - tök 37:146
 Mohamedbe vetett hit
-- Tulajdonságok, csak egy próféta 3:144; 6:50; 7:188; 18:110;
-- az igazság közvetítése 2:119; 35:24; 42:48;
-- próféták pecsétje 33:40;
-- nemes jellem 3:159; 68:4;
-- egy példakép 33:21;
-- a hívőknek tett szívességből 3:164;
-- irgalom az egész világnak 21:107;
-- egyetemes hírnök 4:170; 7:157-158; 34:28;
-- az Egyenes Ösvényre vezet 42:52-53;
-- törődik az emberekkel 9:129;
-- tanúként az ítélet napján 4:42; 16:89;
-- írástudatlan próféta 7:157-158; 29:48; 62:2;
-- megjövendölte a Tóra és az Evangélium 7:157;
+- Tulajdonságok, csak egy próféta 3:144; 6:50; 7:188; 18:110
+- az igazság közvetítése 2:119; 35:24; 42:48
+- próféták pecsétje 33:40
+- nemes jellem 3:159; 68:4
+- egy példakép 33:21
+- a hívőknek tett szívességből 3:164
+- irgalom az egész világnak 21:107
+- egyetemes hírnök 4:170; 7:157-158; 34:28
+- az Egyenes Ösvényre vezet 42:52-53
+- törődik az emberekkel 9:129
+- tanúként az ítélet napján 4:42; 16:89
+- írástudatlan próféta 7:157-158; 29:48; 62:2
+- megjövendölte a Tóra és az Evangélium 7:157
 - Jézus megjövendölte 61:6
 béke legyen vele ) előtt álló kihívások
-- a pogányok értelmetlen követelései 8:32; 15:7; 17:89-93; 25:7-8;
-- hamis vádak 10:2; 11:13; 21:5; 24:11-26; 25:4-6; 37:36; 38:4; 52:29-30;
-- merényletek az életére 8:30; 9:74;
-- figyelmeztetés azoknak, akik ártanak neki vagy szembeszállnak vele 4:115; 8:13; 9:61; 15:95; 33:57; 47:32; 96:9-19;
-- elrendelte, hogy türelemmel reagáljon a tagadásra 20:130; 30:60; 46:35; 70:5;
+- a pogányok értelmetlen követelései 8:32; 15:7; 17:89-93; 25:7-8
+- hamis vádak 10:2; 11:13; 21:5; 24:11-26; 25:4-6; 37:36; 38:4; 52:29-30
+- merényletek az életére 8:30; 9:74
+- figyelmeztetés azoknak, akik ártanak neki vagy szembeszállnak vele 4:115; 8:13; 9:61; 15:95; 33:57; 47:32; 96:9-19
+- elrendelte, hogy türelemmel reagáljon a tagadásra 20:130; 30:60; 46:35; 70:5
 - Allah megnyugtatására elrendelte 5:67; 93:1-11; 94:1-8
 béke legyen vele ) életéből
-- emigrációjától (hidzsra) a badri csatáig 3:121-129; 8:42-44; 8:65-71;
-- Uhudi csata 3:151-180;
-- A lövészárok csatája 33:9-27;
-- Hunain csata 9:25-27;
-- Medina 9:40; Tabuk 9:38-123;
-- Banu An-Naḍîr 59:2-6;
-- Hamra' Al-Asad 3:172-175;
+- emigrációjától (hidzsra) a badri csatáig 3:121-129; 8:42-44; 8:65-71
+- Uhudi csata 3:151-180
+- A lövészárok csatája 33:9-27
+- Hunain csata 9:25-27
+- Medina 9:40
+- Tabuk 9:38-123
+- Banu An-Naḍîr 59:2-6
+- Hamra' Al-Asad 3:172-175
 - Hudaibijai fegyverszünet 48:1-7; 48:10-29
 A Prófétának ( ﷺ ) adományozott kitüntetések
-- Allah és angyalai áldják meg őt 33:56;
-- éjszakai utazás Mekkából Jeruzsálembe 17:1;
-- utazás a mennyekbe 53:1-18;
-- tisztelik ebben az életben és a következőben 17:79; 66:8; 108:1;
-- az iránta való engedelmesség Allah iránti engedelmesség 4:80;
-- az Allah és az Ő Küldötte iránti engedelmesség jutalma 4:69;
-- családja megtisztult 33:33-34;
-- Gábrielt látja valódi alakjában 53:1-18;
-- a hívőknek engedelmeskedniük kell neki 59:7;
+- Allah és angyalai áldják meg őt 33:56
+- éjszakai utazás Mekkából Jeruzsálembe 17:1
+- utazás a mennyekbe 53:1-18
+- tisztelik ebben az életben és a következőben 17:79; 66:8; 108:1
+- az iránta való engedelmesség Allah iránti engedelmesség 4:80
+- az Allah és az Ő Küldötte iránti engedelmesség jutalma 4:69
+- családja megtisztult 33:33-34
+- Gábrielt látja valódi alakjában 53:1-18
+- a hívőknek engedelmeskedniük kell neki 59:7
 - a vele való beszélgetés etikettje 49:1-5
-- a látogatás etikettje 33:53;
-- a feleségekkel való bánásmód etikettje 33:53;
-- Allah elégedett vele és társaival 9:100; 9:117;
+- a látogatás etikettje 33:53
+- a feleségekkel való bánásmód etikettje 33:53
+- Allah elégedett vele és társaival 9:100; 9:117
 - hitközösségének kiválósága 2:143; 3:110
-Ima (sala) 2:45; 9:103; 51:18; 70:22-23; 75:31; 96:10; 108:2;
-- Pénteki gyülekezet 62:9;
-- az ima iránya (kibla) 2:144; 2:149-150;
-- visszatartson a gonosz cselekedetektől 29:45;
-- idők 11:114; 17:78; 17:79; 20:130; 24:36; 24:58; 30:17-18; 32:16; 38:18; 50:39-40; 51:17; 52:48-49; 73:2-4; 76:25-26;
-- veszélyben vagy úton 2:239; 4:101-102;
-- figyelmeztetés azoknak, akik elhanyagolják az imákat 19:59; 74:38-47; 107:5-7;
+Ima (sala) 2:45; 9:103; 51:18; 70:22-23; 75:31; 96:10; 108:2
+- Pénteki gyülekezet 62:9
+- az ima iránya (kibla) 2:144; 2:149-150
+- visszatartson a gonosz cselekedetektől 29:45
+- idők 11:114; 17:78; 17:79; 20:130; 24:36; 24:58; 30:17-18; 32:16; 38:18; 50:39-40; 51:17; 52:48-49; 73:2-4; 76:25-26
+- veszélyben vagy úton 2:239; 4:101-102
+- figyelmeztetés azoknak, akik elhanyagolják az imákat 19:59; 74:38-47; 107:5-7
 - képmutatók imái 4:142; 9:54
-Megtisztulás, mosakodás (wudu) 5:6;
-- teljes fürdő (ghusl) 2:222; 4:43;
+Megtisztulás, mosakodás (wudu) 5:6
+- teljes fürdő (ghusl) 2:222; 4:43
 - száraz mosakodás (tayammum) 4:43; 5:6
 Könyörgések (du'a)
-- Ábrahám 2:126-129; 2:126-129; 14:35-41; 26:83-89;
-- Ádám és Éva 7:23;
-- Jézus 5:114;
-- Jób 21:83; 21:83;
-- Jónás 21:87;
-- József 12:33; 12:101;
-- Mózes 10:88-89; 20:25-35;
+- Ábrahám 2:126-129; 2:126-129; 14:35-41; 26:83-89
+- Ádám és Éva 7:23
+- Jézus 5:114
+- Jób 21:83; 21:83
+- Jónás 21:87
+- József 12:33; 12:101
+- Mózes 10:88-89; 20:25-35
 - Mohamed 17:80; 20:114
-- Noé 23:26; 26:117-118; 54:9-10; 71:26; 71:28;
-- Salamon 38:35;
-- Suájáb 7:89;
-- Zakariás 3:38; 19:2-6; 21:89-90;
-- angyalok 40:8-9;
-- Mária anyja 3:35-36;
-- A fáraó felesége 66:11;
-- A fáraó mágusai 7:126;
-- Saul király és a vele lévő hívők 2:250;
-- Izrael gyermekeinek hívői 10:85-86;
-- a barlang népe 18:10;
-- az igazak 2:285-286; 3:8-9; 3:16; 3:147; 3:191-194; 25:74; 59:10;
+- Noé 23:26; 26:117-118; 54:9-10; 71:26; 71:28
+- Salamon 38:35
+- Suájáb 7:89
+- Zakariás 3:38; 19:2-6; 21:89-90
+- angyalok 40:8-9
+- Mária anyja 3:35-36
+- A fáraó felesége 66:11
+- A fáraó mágusai 7:126
+- Saul király és a vele lévő hívők 2:250
+- Izrael gyermekeinek hívői 10:85-86
+- a barlang népe 18:10
+- az igazak 2:285-286; 3:8-9; 3:16; 3:147; 3:191-194; 25:74; 59:10
 - az elnyomottak 4:75
 Leborulási versek
 - sajadat, a sajdah többes száma, 7:206; 13:15; 16:49; 17:109; 19:58; 22:18; 22:77; 25:60; 27:26; 32:15; 38:24; 41:37; 53:62; 84:21; 96:19
-Alamizsnaadó (zakah), mint kötelezettség 2:110; 2:177; 2:277; 6:141;
-- a hívők egyik tulajdonsága 22:41; 23:4; 51:19;
+Alamizsnaadó (zakah), mint kötelezettség 2:110; 2:177; 2:277; 6:141
+- a hívők egyik tulajdonsága 22:41; 23:4; 51:19
 - címzettek 9:60
 - jótékonyság (sadaqah) 2:177; 2:261-263; 2:267-274; 3:92; 63:10
 - figyelmeztetés azoknak, akik visszatartják 3:180; 9:34; 47:38
 Böjt (fűrész)
-- a Ramadán 2:183-185-ben;
-- böjt órái 2:187;
-- mentességek 2:184-185;
-- intim kapcsolatok a böjtöt megelőző éjszaka 2:187;
+- a Ramadán 2:183-185-ben
+- böjt órái 2:187
+- mentességek 2:184-185
+- intim kapcsolatok a böjtöt megelőző éjszaka 2:187
 - böjt zarándoklat alatt 2:196
-Zarándoklat (haddzs),
-- kötelezettség azok számára, akik megengedhetik maguknak 3:97;
-- rituálék és szabályok 2:158; 2:189; 2:196-203; 5:2; 22:26-37;
-- áldozati felajánlások 2:196; 22:36-37;
-- a szárazföldi vadászat tilalma zarándoklat alatt 5:1; 5:94-95;
+Zarándoklat (haddzs)
+- kötelezettség azok számára, akik megengedhetik maguknak 3:97
+- rituálék és szabályok 2:158; 2:189; 2:196-203; 5:2; 22:26-37
+- áldozati felajánlások 2:196; 22:36-37
+- a szárazföldi vadászat tilalma zarándoklat alatt 5:1; 5:94-95
 - a tengeri vadászat megengedettsége 5:96
 - Kisebb zarándoklat (umra) 2:158; 2:196
 Hitéleti közösségek
-- Muszlimok 2:132-136; 3:64; 3:84; 5:111; 22:77-78; 33:35; 41:33; 43:67-70; 72:14-15;
-- egymás őrzői 3:28; 9:71;
-- Keresztények 2:62; 2:111-140; 4:171-172; 5:14-19; 5:82-86; 5:116-120; 9:30-31; 22:17;
-- Zsidók 2:62, 111-140; 5:44-45; 6:146; 22:17; 62:6-8;
-- Izrael gyermekei 2:40-103, 122-123, 246-251; 3:49; 3:93-94; 5:12-13, 20-26, 32, 70-71, 78-81; 7:137-141, 148-153, 159-171; 10:83-93; 14:5-8; 17:2-8, 104; 20:80-98; 26:52-67, 197; 27:76; 44:23-33; 45:16-17; 46:10; 61:5-6;
+- Muszlimok 2:132-136; 3:64; 3:84; 5:111; 22:77-78; 33:35; 41:33; 43:67-70; 72:14-15
+- egymás őrzői 3:28; 9:71
+- Keresztények 2:62; 2:111-140; 4:171-172; 5:14-19; 5:82-86; 5:116-120; 9:30-31; 22:17
+- Zsidók 2:62, 111-140; 5:44-45; 6:146; 22:17; 62:6-8
+- Izrael gyermekei 2:40-103, 122-123, 246-251; 3:49; 3:93-94; 5:12-13, 20-26, 32, 70-71, 78-81; 7:137-141, 148-153, 159-171; 10:83-93; 14:5-8; 17:2-8, 104; 20:80-98; 26:52-67, 197; 27:76; 44:23-33; 45:16-17; 46:10; 61:5-6
 - A Könyv népe (főleg zsidók és keresztények) 2:109; 3:64-115, 199; 4:123-172; 5:15-77; 6:20-21; 13:36; 28:52-55; 29:46-47; 57:16, 28-29; 74:31; 98:1-5
 - A muszlimok ehetnek az általuk feláldozott állatok gyümölcséből és feleségül vehetik a feleségeiket 5:5
-- zsidóknak tiltott ételek 6:146;
-- Sábiaiak 2:62; 22:17;
-- Mágusok 22:17;
-- politeisták (pogányok, bálványimádók) 3:186; 6:148; 9:6, 17; 10:28; 16:86; 22:17; 53:19-30;
-- pogány babonás szokások 2:189; 5:103; 6:138-144;
+- zsidóknak tiltott ételek 6:146
+- Sábiaiak 2:62; 22:17
+- Mágusok 22:17
+- politeisták (pogányok, bálványimádók) 3:186; 6:148; 9:6, 17; 10:28; 16:86; 22:17; 53:19-30
+- pogány babonás szokások 2:189; 5:103; 6:138-144
 - ateisták 52:35-36
 Pogány szokások betiltva
-- a lányok élve eltemetése 16:58-59; 81:8-9;
-- gyermekek megölése a szegénységtől való félelem miatt 6:137; 6:151; 17:31;
-- fütyülés és tapsolás a Kába körül 8:35;
-- tevék bálványoknak szentelése 5:103; 6:136;
-- bálványok nevében való áldozás 6:121;
-- zihar válás 33:4; 58:2-4;
-- ila' (több mint négy hónapig) 2:226-227;
-- sorsolás a döntések meghozatalához 5:3;
-- meztelenül a Kába körüli járás 7:26-28;
+- a lányok élve eltemetése 16:58-59; 81:8-9
+- gyermekek megölése a szegénységtől való félelem miatt 6:137; 6:151; 17:31
+- fütyülés és tapsolás a Kába körül 8:35
+- tevék bálványoknak szentelése 5:103; 6:136
+- bálványok nevében való áldozás 6:121
+- zihar válás 33:4; 58:2-4
+- ila' (több mint négy hónapig) 2:226-227
+- sorsolás a döntések meghozatalához 5:3
+- meztelenül a Kába körüli járás 7:26-28
 - hátsó ajtókon keresztül bejutni otthonokba a zarándoklat után 2:189
-Az imádat tárgyai,
-- angyalok (néhány pogány arab körében) 34:40;
-- Al-Aykah (Su'aib népe között) 26:176;
-- Bál (Illés népe között 37:125;
-- Jézus (a kereszténységben) 5:17;
-- bálványok (Ábrahám népe között) 21:52-53;
-- Lat, Uzza és Manat bálványai (arab pogányok között) 53:19-20;
-- Wadd, Suwa', Yaghuth, Ya'uq és Nasr bálványai (Noé népe között) 71:23;
-- a nap (Sába népe) 27:24;
-- Szíriusz (egyes pogány arabok között) 53:49;
-- Fáraó (az ókori Egyiptomban) 26:29; 28:38; 79:24;
-- vágyak 25:43-44; 45:23;
+Az imádat tárgyai
+- angyalok (néhány pogány arab körében) 34:40
+- Al-Aykah (Su'aib népe között) 26:176
+- Bál (Illés népe között 37:125
+- Jézus (a kereszténységben) 5:17
+- bálványok (Ábrahám népe között) 21:52-53
+- Lat, Uzza és Manat bálványai (arab pogányok között) 53:19-20
+- Wadd, Suwa', Yaghuth, Ya'uq és Nasr bálványai (Noé népe között) 71:23
+- a nap (Sába népe) 27:24
+- Szíriusz (egyes pogány arabok között) 53:49
+- Fáraó (az ókori Egyiptomban) 26:29; 28:38; 79:24
+- vágyak 25:43-44; 45:23
 - a több istenbe vetett hitet megcáfolták 17:42-43; 21:21-24; 25:3
-Istentiszteleti helyek, mecsetek 9:18;
-- templomok, zsinagógák és kolostorok 22:40;
-- szentély 3:39; 38:21;
+Istentiszteleti helyek, mecsetek 9:18
+- templomok, zsinagógák és kolostorok 22:40
+- szentély 3:39; 38:21
 - templom 17:7
 - Vallási címek, papok, szerzetesek és rabbik 5:44; 5:63; 5:82; 9:31-34
-Angyalok,
+Angyalok
 - érdeklődj Ádám teremtéséről 2:30-34
-- soha ne szegülj engedetlenségre Allah iránt 21:26-27; 66:6;
-- nem Allah lányai 21:26; 43:16-19;
-- őrangyalok 13:11;
-- két feljegyzést tevő angyal 50:16-18; 82:10-12;
-- nyolcan viszik Allah trónját az Ítélet Napján 69:17;
-- a pokol tizenkilenc őrzője 74:26-31;
-- A halál angyalai 6:93; 16:28; 32:11;
-- Gábriel 2:97; 66:4; 26:192-195; 53:1-14;
-- Mihály 2:98;
+- soha ne szegülj engedetlenségre Allah iránt 21:26-27; 66:6
+- nem Allah lányai 21:26; 43:16-19
+- őrangyalok 13:11
+- két feljegyzést tevő angyal 50:16-18; 82:10-12
+- nyolcan viszik Allah trónját az Ítélet Napján 69:17
+- a pokol tizenkilenc őrzője 74:26-31
+- A halál angyalai 6:93; 16:28; 32:11
+- Gábriel 2:97; 66:4; 26:192-195; 53:1-14
+- Mihály 2:98
 - Malik 43:77
 Hírvivők
-- angyalok és emberek közül 22:75;
+- angyalok és emberek közül 22:75
 - A Szilárd Elhatározás Küldöttei (Ábrahám, Noé, Mózes, Jézus és Mohamed ﷺ ) 33:7; 42:13; 46:35
 Szentírások
-- Korán, Allah kinyilatkoztatása 12:2-3; 20:2-4; 26:192-195; 32:2-3;
-- emlékeztető az egész világnak 68:51-52;
-- útmutatók a legigazságosabb életmódhoz 17:9;
-- a kinyilatkoztatás a Ramadán hónapjában kezdődött 2:185;
-- egy áldott éjszakán 44:3;97:1-5;
-- a 17:105-106. szakaszokban kinyilatkoztatva;
-- könnyen megjegyezhetővé téve 54:17;
-- megerősíti a korábbi kinyilatkoztatások 3:3-4-ben szereplő igazságot;
-- a korábbi szentírások legfőbb tekintélye 5:48;
-- kétségtelenül benne van 2:2; 10:37;
-- nincsenek ellentmondások 4:82;
-- nem kitalált 10:37-39;
-- nem a Bibliából másolva 25:4-6;
-- nem az ördögök által kinyilatkoztatva 26:210-212;
+- Korán, Allah kinyilatkoztatása 12:2-3; 20:2-4; 26:192-195; 32:2-3
+- emlékeztető az egész világnak 68:51-52
+- útmutatók a legigazságosabb életmódhoz 17:9
+- a kinyilatkoztatás a Ramadán hónapjában kezdődött 2:185
+- egy áldott éjszakán 44:3;97:1-5
+- a 17:105-106. szakaszokban kinyilatkoztatva
+- könnyen megjegyezhetővé téve 54:17
+- megerősíti a korábbi kinyilatkoztatások 3:3-4-ben szereplő igazságot
+- a korábbi szentírások legfőbb tekintélye 5:48
+- kétségtelenül benne van 2:2; 10:37
+- nincsenek ellentmondások 4:82
+- nem kitalált 10:37-39
+- nem a Bibliából másolva 25:4-6
+- nem az ördögök által kinyilatkoztatva 26:210-212
 - senki sem tud ehhez hasonlót produkálni 17:88; 2:23-24; 10:13-14; 11:13
-- védve a korrupciótól 15:9;
-- védve van az 56:75-80-as szám alatt megőrzött Táblában;
-- nem bizonyítható hamisnak 41:42;
-- jövőbeli eseményeket jövendöl 30:1-7; 48:27;
-- könnyekre fakasztja a hívőket 5:83; 17:107-109;
-- megérinti a szíveket 39:23;
-- ragyogó fény 4:174; 42:52;
+- védve a korrupciótól 15:9
+- védve van az 56:75-80-as szám alatt megőrzött Táblában
+- nem bizonyítható hamisnak 41:42
+- jövőbeli eseményeket jövendöl 30:1-7; 48:27
+- könnyekre fakasztja a hívőket 5:83; 17:107-109
+- megérinti a szíveket 39:23
+- ragyogó fény 4:174; 42:52
 - gyógyulás és irgalom a hívőknek 17:82
 - Tóra 3:3; 3:93; 5:46; 5:66-68, 110; 7:157; 9:111; 48:29; 61:6; 62:5
-- Evangélium 3:3; 48; 5:46-47, 66-68, 77, 110; 7:157; 9:111; 48:29; 57:27
+- Evangélium 3:3, 48; 5:46-47, 66-68, 77, 110; 7:157; 9:111; 48:29; 57:27
 - Zsoltárok 4:163; 17:55
 - Ábrahám tekercsei 53:36-44; 87:14-19
-Sors és végzet 3:145; 9:51; 10:107; 11:6; 54:49; 67:30;
+Sors és végzet 3:145; 9:51; 10:107; 11:6; 54:49; 67:30
 - szabad választás 6:148-150; 11:118-119; 16:93; 33:72-73; 39:41; 76:1-3; 91:1-10
-Az ítélet napja,
-- nincs igazságtalanság 2:281; 18:49; 40:17;
-- az apokalipszis borzalmai 22:1-2; 27:82-84, 87; 40:18; 52:11-16; 69:13-18; 70:8-18; 73:17-18; 75:7-15; 77:8-15; 78:17-20; 79:34-36; 80:33-42; 81:1-14; 82:1-5; 84:1-5; 87:17-40; 99:1-8; 101:1-11;
-- az igazak és a gonoszok azon a napon 11:105-108; 16:27-33, 84-89; 18:52-53; 20:100-111; 25:24-29; 30:12-16; 33:63-68; 39:68-75; 50:20-35; 55:37-41; 83:4-36;
+Az ítélet napja
+- nincs igazságtalanság 2:281; 18:49; 40:17
+- az apokalipszis borzalmai 22:1-2; 27:82-84, 87; 40:18; 52:11-16; 69:13-18; 70:8-18; 73:17-18; 75:7-15; 77:8-15; 78:17-20; 79:34-36; 80:33-42; 81:1-14; 82:1-5; 84:1-5; 87:17-40; 99:1-8; 101:1-11
+- az igazak és a gonoszok azon a napon 11:105-108; 16:27-33, 84-89; 18:52-53; 20:100-111; 25:24-29; 30:12-16; 33:63-68; 39:68-75; 50:20-35; 55:37-41; 83:4-36
 - közbenjárás (shafa'ah) 2:48, 255; 6:51, 70; 10:3; 21:28; 32:4; 36:23; 39:43-44; 43:86; 53:26;74:48
-Az okiratok feljegyzései 17:13; 18:49;
-- a hívők jobb kezükkel kapják meg a feljegyzésüket 69:19-24; 84:7-9;
-- a hitetlenek bal kezükkel kapják meg a feljegyzésüket 69:25-37; 84:10-15;
-- semmi sem maradhat rejtve Allah elől 21:47; 40:16;
-- a tettek mérlegelése 7:8; 23:102-104; 101:1-11;
-- a testi szervek bizonyságtétele 41:19-24; 24:24;
+Az okiratok feljegyzései 17:13; 18:49
+- a hívők jobb kezükkel kapják meg a feljegyzésüket 69:19-24; 84:7-9
+- a hitetlenek bal kezükkel kapják meg a feljegyzésüket 69:25-37; 84:10-15
+- semmi sem maradhat rejtve Allah elől 21:47; 40:16
+- a tettek mérlegelése 7:8; 23:102-104; 101:1-11
+- a testi szervek bizonyságtétele 41:19-24; 24:24
 - jutalom a jó és rossz cselekedetekért 6:160; 27:89-90; 28:84
 Embertípusok
-- hívők 18:107-108;
-- hitetlenek 4:167-169;
-- képmutatók 4:145; 57:13-15;
-- a Paradicsom lakói, a legkiválóbb hívők 55:46-61; 56:10-26;
-- a Paradicsom lakói, a jobboldal népe 55:62-78; 56:27-40;
-- a Pokol lakói, a baloldal emberei 55:31-45; 56:41-56;
+- hívők 18:107-108
+- hitetlenek 4:167-169
+- képmutatók 4:145; 57:13-15
+- a Paradicsom lakói, a legkiválóbb hívők 55:46-61; 56:10-26
+- a Paradicsom lakói, a jobboldal népe 55:62-78; 56:27-40
+- a Pokol lakói, a baloldal emberei 55:31-45; 56:41-56
 - a magaslatokon lévő emberek 7:46-49
 Pénzügyi
-- Üzleti irányelvek 2:188; 2:275; 2:282-283; 4:29; 4:58; 6:152; 17:34-35;
+- Üzleti irányelvek 2:188; 2:275; 2:282-283; 4:29; 4:58; 6:152; 17:34-35
 24:36–37; 26:182; 30:39; 55:7–9; 62:9
-- Hagyatékok, nem örökösöknek szóló, opcionális hagyatékok 2:180-183; 4:11-12;
+- Hagyatékok, nem örökösöknek szóló, opcionális hagyatékok 2:180-183; 4:11-12
 halála előtt, utazás közben 5:106-108
 - Vesztegetés 2:188
-- Adósságok, kedvesség az adósságok behajtásában 2:280;
-- adósságszerződés írása és tanúként való jelenléte 2:282;
+- Adósságok, kedvesség az adósságok behajtásában 2:280
+- adósságszerződés írása és tanúként való jelenléte 2:282
 - biztosíték elfogadása 2:283
-- Öröklés, irányelvek 4:7; 4:32-33; 8:75;
-- az utódok és a szülők részesedése 4:11;
-- házastársak és anyai testvérek 4:12;
-- teljes testvérek 4:176;
+- Öröklés, irányelvek 4:7; 4:32-33; 8:75
+- az utódok és a szülők részesedése 4:11
+- házastársak és anyai testvérek 4:12
+- teljes testvérek 4:176
 - figyelmeztetés azoknak, akik nem tartják be a 4:13-14-et
-- Érdek, tiltás és figyelmeztetés 2:275-281; 3:130-132;
+- Érdek, tiltás és figyelmeztetés 2:275-281; 3:130-132
 - nyereségtelenné nyilvánítva 30:39
 Jogi
 - hazaárulási törvény (hirabah) 5:33-34
-- Igazságosság, kiállás az igazságosságért 4:135; 5:8; 16:90-91;
-- kiállás az árvák és nők jogaiért 4:127;
-- igazságszolgáltatás egy zsidónak 4:105-112;
-- igazságszolgáltatás egy pogánynak 4:58;
+- Igazságosság, kiállás az igazságosságért 4:135; 5:8; 16:90-91
+- kiállás az árvák és nők jogaiért 4:127
+- igazságszolgáltatás egy zsidónak 4:105-112
+- igazságszolgáltatás egy pogánynak 4:58
 - igazságosság a nem muszlimokkal szemben 60:8-9
 - Megtorlás jogi úton (a megbocsátás lehetőségével) 2:178-179; 5:45; 16:126; 17:33; 42:37-43
-- Férj és feleség különválás, khul' 2:229;
+- Férj és feleség különválás, khul' 2:229
 - lian (házasságtöréssel vádolja) 24:6-10
 Politikai
 - Ügyek intézése konzultáció útján (súra) 3:159; 42:38
-- Önvédelem (dzsihád), etikett 2:190-192; 2:216; 22:38-40;
-- nem szabad válogatás nélkül támadni 4:94;
-- az elnyomott férfiakért, nőkért és gyermekekért harcol 4:75;
-- az istentiszteleti helyek védelme 22:37;
-- a mártírok jutalma 2:154; 3:169-171; 9:111; 57:19;
-- a katonai erő elrettenti a potenciális ellenségeket 8:60;
+- Önvédelem (dzsihád), etikett 2:190-192; 2:216; 22:38-40
+- nem szabad válogatás nélkül támadni 4:94
+- az elnyomott férfiakért, nőkért és gyermekekért harcol 4:75
+- az istentiszteleti helyek védelme 22:37
+- a mártírok jutalma 2:154; 3:169-171; 9:111; 57:19
+- a katonai erő elrettenti a potenciális ellenségeket 8:60
 - a béke melletti választás 2:192; 8:61
 - Békekötés a felek között 49:9-10
 - Hadifoglyok, bánásmód 8:70; 47:4; 76:8
 Szociális
 - Örökbefogadás 33:4-5
 - Árvák gondozása 2:220; 4:2-10; 4:127; 6:152; 17:34
-- Válás, választottbíráskodás és megbékélés 4:35; 4:128;
-- a válás etikettje 2:229-231; 65:1-2;
-- hozomány és várakozási idő 2:226-241; 4:19-21; 33:49; 65:1-7;
-- a férj ne vegyen vissza semmit a hozományból 4:20;
-- a feleséget nem szabad zaklatni 65:6;
-- a feleséget a terhesség alatt anyagilag támogatni kell 65:6;
-- a várakozási ideje alatt 65:6;
-- ha volt férje gyermekét szoptatja, 65:6;
-- egyetlen szülőnek sem szabadna szenvednie a gyermeke miatt 2:233;
+- Válás, választottbíráskodás és megbékélés 4:35; 4:128
+- a válás etikettje 2:229-231; 65:1-2
+- hozomány és várakozási idő 2:226-241; 4:19-21; 33:49; 65:1-7
+- a férj ne vegyen vissza semmit a hozományból 4:20
+- a feleséget nem szabad zaklatni 65:6
+- a feleséget a terhesség alatt anyagilag támogatni kell 65:6
+- a várakozási ideje alatt 65:6
+- ha volt férje gyermekét szoptatja, 65:6
+- egyetlen szülőnek sem szabadna szenvednie a gyermeke miatt 2:233
 - dajkaválasztás 65:6 arányban
 - A jóra buzdítás és a rossz tiltása 3:104; 3:110; 7:157; 9:71-72; 31:17
-- Emberi egyenlőség 49:13;
-- férfiak és nők Allah és a törvény előtt, 3:195; 4:124; 5:38; 16:97; 24:2; 40:40;
+- Emberi egyenlőség 49:13
+- férfiak és nők Allah és a törvény előtt, 3:195; 4:124; 5:38; 16:97; 24:2; 40:40
 - a férfiak bizonyos fokú felelősséggel rendelkeznek a nőkkel szemben 2:228
 - A szegények, árvák és foglyok etetése 76:8-9
 - Megbocsátás és dühkontroll 3:134; 42:40
 - A rabszolgák felszabadítása és megsegítése 4:92; 5:89; 9:60; 24:33; 58:3; 90:13
 - A saját szülők tisztelete 4:36; 17:23-25; 31:14-15
 - Alázat 17:37; 31:18-19
-- Ábrahám álmainak értelmezése 37:102;
-- József álmainak értelmezése 12:4; 12:36; 12:43;
+- Ábrahám álmainak értelmezése 37:102
+- József álmainak értelmezése 12:4; 12:36; 12:43
 - Mohamed álmainak értelmezése 8:43; 48:27
 - Kedvesség a nem muszlimok iránt 60:8
-- Házasság 4:3; 4:129; 16:72; 30:21;
-- a törvényes és a törvénytelen nők házassága 4:22-24;
-- az intimitás etikettje 2:222-223;
-- terhesség és szoptatás 2:233; 31:4; 46:15; 65:6;
-- saját volt feleségének újraházasodása 2:230;
-- egyedülállók házasságkötésének segítése 24:32;
+- Házasság 4:3; 4:129; 16:72; 30:21
+- a törvényes és a törvénytelen nők házassága 4:22-24
+- az intimitás etikettje 2:222-223
+- terhesség és szoptatás 2:233; 31:4; 46:15; 65:6
+- saját volt feleségének újraházasodása 2:230
+- egyedülállók házasságkötésének segítése 24:32
 - finoman érdeklődést mutat a várakozási idő alatt 2:235
-- Eskük 2:224-225; 16:91-92; 16:94;
+- Eskük 2:224-225; 16:91-92; 16:94
 - megszegett eskü jóvátétele 5:89
 - Türelem a nehéz időkben 2:45; 2:153-157; 3:186; 12:18; 12:83; 16:127-128; 70:5
-- Belépési engedély 24:58-60;
-- belépve az emberek otthonaiba 24:27-28;
+- Belépési engedély 24:58-60
+- belépve az emberek otthonaiba 24:27-28
 - nyilvános helyekre való belépés 24:29
-- Társasági etikett, hírek ellenőrzése 4:83; 49:6;
-- tiszteletben tartás mindenki iránt 49:11-12;
-- összejövetelek etikettje 58:11;
+- Társasági etikett, hírek ellenőrzése 4:83; 49:6
+- tiszteletben tartás mindenki iránt 49:11-12
+- összejövetelek etikettje 58:11
 - magánbeszélgetések 4:114; 58:9
 - Fogadalom 2:270; 9:75-77; 22:29; 76:7
 - Sorvadás és fukarság 7:31; 17:29; 25:67
 Egyéb történetek
-- Ábel és Káin 5:27-31;
-- Al-Khadir és Mózes 18:60-82;
-- Az elefánt serege 105:1-4;
-- a fáraó népéből származó hívő 40:28-46;
-- Mária születése 3:35-36;
-- Izrael fiainak tehene 2:67-74;
-- Ezsdrás 2:259;
+- Ábel és Káin 5:27-31
+- Al-Khadir és Mózes 18:60-82
+- Az elefánt serege 105:1-4
+- a fáraó népéből származó hívő 40:28-46
+- Mária születése 3:35-36
+- Izrael fiainak tehene 2:67-74
+- Ezsdrás 2:259
 - kerttulajdonosok 68:17-32
 - Harut és Marut 2:102
 - Kóré 28:76-82
-- Luqman tanácsa a fiának 31:12-19;
-- a két kert tulajdonosa 18:32-44;
-- Sába népe 34:15-19;
-- a barlang népe 18:9-26;
-- az árok népe 85:1-8;
-- Szombatmegszakítók 7:163-165;
-- Szamiri és az aranyborjú 20:83-97;
-- Saul és Sámuel 2:247-251;
+- Luqman tanácsa a fiának 31:12-19
+- a két kert tulajdonosa 18:32-44
+- Sába népe 34:15-19
+- a barlang népe 18:9-26
+- az árok népe 85:1-8
+- Szombatmegszakítók 7:163-165
+- Szamiri és az aranyborjú 20:83-97
+- Saul és Sámuel 2:247-251
 - Zul-Karnain 18:83-98
-Ördögök 2:102; 6:71; 6:112; 6:121; 7:27; 7:30; 17:27; 19:68; 19:83; 22:3-4; 23:97-98; 26:210; 37:7-10; 38:37-38; 67:5;
-- ördögi emberek és dzsinnek 6:112;114:6;
+Ördögök 2:102; 6:71; 6:112; 6:121; 7:27; 7:30; 17:27; 19:68; 19:83; 22:3-4; 23:97-98; 26:210; 37:7-10; 38:37-38; 67:5
+- ördögi emberek és dzsinnek 6:112;114:6
 - a mennyország védelmet nyújtott az ördögök ellen 15:16-18
 Megbánások
-- nem követik a Próféta 25:27-et;
-- nem engedelmeskednek Allahnak és az Ő Küldöttének 4:41-42; 33:64-68;
-- gonosz barátok megszerzése 25:28-29; 26:96-102; 43:36-39;
-- Allah jeleinek tagadása 6:27-30;
+- nem követik a Próféta 25:27-et
+- nem engedelmeskednek Allahnak és az Ő Küldöttének 4:41-42; 33:64-68
+- gonosz barátok megszerzése 25:28-29; 26:96-102; 43:36-39
+- Allah jeleinek tagadása 6:27-30
 - nem a túlvilágon dolgoznak 89:23-24
 Kétségbeesett könyörgések
-- a világba való visszatérésért könyörögve 2:167; 6:27-28; 32:12-14; 42:44;
-- egy második esélyért 35:36-37;
-- eltávolítandó a Tűzből 40:10-12;
-- élelemért és vízért 7:51-52;
-- közbenjáróknak 7:52-53;
-- porrá lesz a semmi 4:41-42; 78:40;
+- a világba való visszatérésért könyörögve 2:167; 6:27-28; 32:12-14; 42:44
+- egy második esélyért 35:36-37
+- eltávolítandó a Tűzből 40:10-12
+- élelemért és vízért 7:51-52
+- közbenjáróknak 7:52-53
+- porrá lesz a semmi 4:41-42; 78:40
 - halálra 43:74-78
 Az igazak tulajdonságai
 - a Teremtő és teremtményei jogainak tiszteletben tartása 3:133-136; 4:36; 4:69-70; 6:151-154; 8:2-4; 13:19-24; 17:23-39; 18:107-108; 23:1-11; 25:63-76; 42:36-43
 A gonoszok tulajdonságai
-- hálátlan 14:34;
-- fukar 17:100;
-- elhamarkodott 21:37;
-- csak nehéz időkben emlékezzetek Allahra 10:12; 41:51;
-- türelmetlen 70:19;
+- hálátlan 14:34
+- fukar 17:100
+- elhamarkodott 21:37
+- csak nehéz időkben emlékezzetek Allahra 10:12; 41:51
+- türelmetlen 70:19
 - érvelő 18:54
 Súlyos bűnök
 - mások Allah mellé rendelése az imádatban (sirk) 4:48; 4:116; 5:72; 6:19; 31:13:
-- saját szülei bántalmazása 4:36; 6:151; 17:23;
-- a kötelező imák elhanyagolása vagy elhagyása 19:59-60;
-- alamizsnaadó fizetésének elmulasztása 41:6-7;
-- gyilkosság 6:151; 17:33;
-- hívő szándékos megölése 4:93;
-- lopás 5:38;
-- csalás 7:85; 11:85; 26:182-183; 83:1-6;
-- hazugság 2:10; 9:77; 39:60;
-- hazudozás Allahról 6:93; 29:68; 61:7;
+- saját szülei bántalmazása 4:36; 6:151; 17:23
+- a kötelező imák elhanyagolása vagy elhagyása 19:59-60
+- alamizsnaadó fizetésének elmulasztása 41:6-7
+- gyilkosság 6:151; 17:33
+- hívő szándékos megölése 4:93
+- lopás 5:38
+- csalás 7:85; 11:85; 26:182-183; 83:1-6
+- hazugság 2:10; 9:77; 39:60
+- hazudozás Allahról 6:93; 29:68; 61:7
 - tiltott szexuális kapcsolatok 2:222; 17:32; 24:2; 25:68; 29:28-30
-- házasságtörés hamis vádjai 24:4-5;
-- hitehagyás 2:217; 5:54;
-- sertéshús és más tiltott ételek (dög, vér stb.) fogyasztása 5:3; 6:145;
-- alkohol és szerencsejáték 5:90-91;
-- rágalmazás 49:11;
-- hamis tanúvallomás 22:30;
+- házasságtörés hamis vádjai 24:4-5
+- hitehagyás 2:217; 5:54
+- sertéshús és más tiltott ételek (dög, vér stb.) fogyasztása 5:3; 6:145
+- alkohol és szerencsejáték 5:90-91
+- rágalmazás 49:11
+- hamis tanúvallomás 22:30
 - mágia 2:102; 10:77; 20:69
 """;

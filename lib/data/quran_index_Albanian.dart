@@ -5,18 +5,18 @@ Abdes (Abdes), 4:43; 5:6
 Abraham (Ibrahim) S.14; 2:135-136, 148; 3:33, 84, 95; 4:54, 125, 163; 6:161; 9:70, 114; 12:6, 38; 16:120; 19:58; 21:51, 60, 62, 69; 22:43, 78; 26:69; 29:31; 33:7; 37:83, 104, 109; 38:45; 42:13; 43:26; 51:24; 53:37; 57:26; 60:4; 87:19
 - as hebre, as i krishterë, 3:67-68
 - qëndroi në tempullin e parë në Bakkah, 3:97; 26:123
-- ngre themelet e Qabes 2:124-129;
-- i thërret njerëzit e tij në adhurimin e të Vetmit Perëndi të Vërtetë 2:130-133; 26:69-89; 29:16; 29:24-27;
-- debaton mbretin arrogant 2:258,
-- pyet rreth ringjalljes 2:260;
-- as hebre, as i krishterë 3:65-68;
-- hedh poshtë adhurimin qiellor 6:74-87;
-- merr lajmin për lindjen e Isakut 11:69-76; 51:24-30;
-- lutja e tij në Qabe 14:35-41;
-- vizitohet nga engjëjt 15:51-56;
-- një model për t’u ndjekur 16:123;
-- e thërret të atin në të vërtetën 19:41-50;
-- shkatërron idhujt dhe shpëtohet nga zjarri 21:51-73; 37:83-113;
+- ngre themelet e Qabes 2:124-129
+- i thërret njerëzit e tij në adhurimin e të Vetmit Perëndi të Vërtetë 2:130-133; 26:69-89; 29:16; 29:24-27
+- debaton mbretin arrogant 2:258
+- pyet rreth ringjalljes 2:260
+- as hebre, as i krishterë 3:65-68
+- hedh poshtë adhurimin qiellor 6:74-87
+- merr lajmin për lindjen e Isakut 11:69-76; 51:24-30
+- lutja e tij në Qabe 14:35-41
+- vizitohet nga engjëjt 15:51-56
+- një model për t’u ndjekur 16:123
+- e thërret të atin në të vërtetën 19:41-50
+- shkatërron idhujt dhe shpëtohet nga zjarri 21:51-73; 37:83-113
 - i thërret të gjithë në pelegrinazh 22:26
 Abrar, 3:193, 198; 76:5; 82:13; 83:18-22
 Shfuqizim, 2:106, 16:101
@@ -26,11 +26,10 @@ Adami, 3:33, 59; 5:27; 7:26-27, 31, 35, 172; 17:70; 19:58; 36:60
 - engjëjve t’u përulen, 2:34; 7:11
 - pema e dijes, 2:35; 7:19-20; 20:120-121
 - dëbim nga Kopshti (pa faj për Evën), 2:36; 7:24
-- i nderuar nga Allahu, i tunduar nga Satani 2:30-38; 7:11-25; 17:61-65; 18:50; 20:115-123; 38:71-85;
+- i nderuar nga Allahu, i tunduar nga Satani 2:30-38; 7:11-25; 17:61-65; 18:50; 20:115-123; 38:71-85
 - i falur nga Allahu 2:37; 20:122
 'Adiyat, S.100
-'Adn Paradise, 9:72; 13:23; 16:31; 18:31;
-19:61; 20:76; 35:33; 38:50; 40:8; 61:12; 98:8
+'Adn Paradise, 9:72; 13:23; 16:31; 18:31; 19:61; 20:76; 35:33; 38:50; 40:8; 61:12; 98:8
 Vështirësi
 - i pangarkuar me barrën e një tjetri, 6:164; 17:15; 35:18; 39:7; 53:38
 - jo i ngarkuar përtej aftësisë për t’i bërë ballë, 2:286; 6:152; 7:42; 23:62
@@ -113,7 +112,7 @@ Apostacia, 3:72; 3:86-88; 3:90-91; 3:167; 4:137; 5:54; 9:74; 9:107; 16:106; 33:1
 Apostatët, 47:25
 A'raf, S.7; 7:46, 48
 Arafat, 2:198
-Argumento,
+Argumento
 - jo në emër të atyre që mashtrojnë veten, 4:107
 - ti argumentove për ta në këtë botë, por kush do të argumentojë në Ditën e Ringjalljes, 4:109
 Argumente/Sulme
@@ -123,7 +122,7 @@ Armatura, 16:81
 Asr, S.103
 Ajetu El-Kursi, 2:255
 Përgojues, 49:12; 104:1
-Beteja e Bedrit, 3:13,
+Beteja e Bedrit, 3:13
 - mësime nga, 8:5-19, 42-48
 El-Beit-ul-Ma mur, 52:4
 Bekka (Mekka), 3:96
@@ -133,7 +132,7 @@ Ekuilibri, 7:8-9; 17:35; 21:47; 55:7-9; 57:25; 101:6-9
 Benu En-Nadir, 59:2-6, 13
 Bekare, S.2
 Bara'a (Shih Taubah), S.9
-Barzakh, (Pengesa), 23:100; 25:53; 55:20;
+Barzakh, (Pengesa), 23:100; 25:53; 55:20
 - shih edhe 18:94-97; 34:54; 36:9
 Baiyinah, S.98
 Bisha (e Ditëve të Fundit), 27:82
@@ -182,7 +181,7 @@ Bibla, 5:64, 5:65, 5:68
 - shtrembërim i, 3:78; 5:14-15
 Zogjtë, 2:260; 3:49; 5:110; 6:38; 12:36, 41; 16:79; 21:79; 22:31; 24:41; 27:16-17, 20; 34:10; 38:19; 56:21; 67:19; 105:3
 Paratë e gjakut (Diya), 2:178-179; 4:92; 17:33
-Plaçkë lufte, 4:94. 8:41; 59:6-8;
+Plaçkë lufte, 4:94. 8:41; 59:6-8
 - marrja e paligjshme, 3:162
 - shih plaçkën
 Ryshfeti, 2:188
@@ -220,7 +219,7 @@ Veshje, 7:26; 16:81
 - veshjet e jashtme të grave parandalojnë ngacmimet nga hipokritët, 33:59-60
 Konfederatët, 33:9, 22
 - shih Konsultimin e Ahzabëve, të ndërsjellë, 42:38
-Krijimi,
+Krijimi
 - fillon dhe përsëritet, 10:4; 21:104; 27:64; 29:19-20
 - një i ri, 17:49, 98; 35:16
 - me të vërtetën, 15:85; 16:3; 29:44; 39:5; 44:39; 45:22; 46:3
@@ -240,12 +239,12 @@ Korbi, 5:31
 Kriteri, 2:53, 185; 3:4; 8:29, 41; 21:48; 25:1
 Dahr, (shih Insan,) S.76; 45:24
 - kohë, 76:1; 103:1
-Davidi, 5:78; 6:84; 17:55; 34:10, 13; 38:17-30;
+Davidi, 5:78; 6:84; 17:55; 34:10, 13; 38:17-30
 - duke pasur parasysh Psalmet 4:163
 - lufton dhe vret Goliathin, 2:251
-- jep një gjykim 21:78-80;
-- i bekuar me dituri dhe profetësi 27:15-16;
-- malet dhe zogjtë i bashkohen atij në lavdërimin e Allahut 34:10; 38:17-20;
+- jep një gjykim 21:78-80
+- i bekuar me dituri dhe profetësi 27:15-16
+- malet dhe zogjtë i bashkohen atij në lavdërimin e Allahut 34:10; 38:17-20
 - gjykon midis dy njerëzve 38:21-26
 Dawabb ose Dabbah (krijesë e gjallë në lëvizje, etj.) 2:164; 6:38; 8:22, 55; 11:6, 56; 16:49, 61; 22:18; 24:45; 27:82; 29:60; 31:10; 34:14; 35:28, 45; 42:29; 45:4
 Të vdekurit do të ringjallen, 6:36
@@ -255,17 +254,17 @@ Vdekja, 3:185; 3:193; 4:78; 6:61; 6:93; 21:35; 23:99-108; 31:34; 32:11; 33:19; 3
 - ato komunitete që nuk kanë zbulesë nuk do të shkatërrohen, 6:131; 9:115; 10:47; 11:117; 15:4; 16:119; 17:15; 28:59
 - ata që vriten në rrugën e Allahut janë gjallë, 2:154; 3:169
 - ndërsa iknin nga e keqja drejt Allahut, 4:100
-- nuk mund të ndalet ose vonohet 63:10-11;
-- vëllai binjak i gjumit 6:60; 39:42;
-- besimtarët dhe jobesimtarët në kohën e vdekjes 8:50; 16:27-32; 41:30;
+- nuk mund të ndalet ose vonohet 63:10-11
+- vëllai binjak i gjumit 6:60; 39:42
+- besimtarët dhe jobesimtarët në kohën e vdekjes 8:50; 16:27-32; 41:30
 - ndëshkimi në varr 40:46
 Borxhet, 2:280, 282; 4:11-12
-Dekreti,
+Dekreti
 - për çdo çështje, ka një, 13:38
 - Ne nuk shkatërruam asnjë vendbanim që të mos kishte një vendbanim të njohur për të, 15:4
 - çdo çështje është nga Allahu, 44:5
 - kur Ai vendos për një çështje, Ai vetëm thotë: "Bëhu!" - dhe ajo bëhet, 2:117; 36:82; 40:68
-Aktet,
+Aktet
 - e keqe, e zbukuruar për ta, 47:14
 - për ne tonat, për ju veprat tuaja, 28:55; 42:15; 45:15
 - të mirat dhe të këqijat, janë pro dhe kundër vetes së tij, 41:46
@@ -279,7 +278,7 @@ Dhariat, S.51
 Dhikr, 7:205; 15:6, 9
 Dhul-Kifi, 21:85; 38:48
 Dhul-Karain, 18:83-98
-Dhun-Nun (Shoku i Peshkut),
+Dhun-Nun (Shoku i Peshkut)
 Jobesimtarët (shih edhe Hipokritët)
 - i kërkojnë Muhamedit ( ﷺ ) që të thërrasë zemërimin e Allahut mbi ta si provë, 6:57-58; 8:32; 10:49-52
 - duroni shoqërinë e tyre me mirësi, 31:15
@@ -304,7 +303,7 @@ Hendeku, njerëzit e, 85:4-10
 Diversiteti
 - e njerëzve, 30:22, 35:27-28
 - e jetës, 35:27-28
-Divorci, 2:228-232, 236-237, 241; 4:35, 130; 65:1-7;
+Divorci, 2:228-232, 236-237, 241; 4:35, 130; 65:1-7
 - pas periudhës së pritjes, shpërbëhet ose pajtohet, 2:231; 65:2
 - dy dëshmitarë, 65:2
 - aliment, 2:233, 241
@@ -340,7 +339,7 @@ Divorc, Grua
 - përveç nëse martesa është e pakonsumuar, 33:49
 Qentë, 7:176
 Gomarët (Gomarët), 2:259; 16:8; 31:19; 62:5; 74:50
-Pije,
+Pije
 - alkoolik, 2:219; 5:90
 - e pastër dhe e bardhë e shijshme, 37:45-46; 76:21
 - verë e pastër e vulosur, 83:25
@@ -363,13 +362,13 @@ E keqja, 4:123; 10:27-30; 19:83; 59:15
 - ndryshoi, për mirë, 7:95
 - ata që ndjekin dëshirat e tyre, 47:14, 16
 - veprat u zbukuruan atyre, 47:14
-Tepricë,
+Tepricë
 - e ndaluar në ushqim, 5:87
 - në fe, 4:171; 5:77-81
 Sytë, veshët dhe lëkurat do të dëshmojnë kundër mëkatarëve, 41:20-23
 Ezra, (Uzair) 9:30
 Fytyra ose Fytyra e Allahut, 2:115, 272; 6:52; 13:22; 18:28; 28:88; 30:38-39; 55:27; 76:9; 92:20
-Me pamje të bukur,
+Me pamje të bukur
 - Allahu ia ka bërë çdo populli veprat e veta, 6:108
 Besim (Besim), 2:108; 3:167, 177, 193; 5:5; 9:23; 16:106; 30:56; 40:10; 42:52; 49:7, 11, 14; 52:21; 58:22; 59:9-10
 - refuzuesit e, 3:116
@@ -379,7 +378,7 @@ Besim (Besim), 2:108; 3:167, 177, 193; 5:5; 9:23; 16:106; 30:56; 40:10; 42:52; 4
 Sabah, S.89
 Falak, S.113
 Bisedë e rreme rreth vargjeve të Kuranit, 6:68
-Zota të rremë,
+Zota të rremë
 - përveç Allahut, idhuj dhe të ashtuquajtur partnerë 7:194-198; 16:20-21, 72, 86; 21:22, 24; 34:22, 27; 41:47-48; 46:5-6; 53:19-24; 71:23-24
 - mos i fyeni ata që adhurojnë përveç Allahut, 6:108
 - shih edhe Tagut
@@ -394,7 +393,7 @@ Fidyah (shpërblim), i agjërimit, 2:196
 - për lirimin e robërve, 8:67
 - shpërblim i ofruar nga jobesimtarët, 3:91; 5:36,37; 10:54; 13:18
 Fig. 95:1
-Duke luftuar,
+Duke luftuar
 - në rrugën e Allahut, kundër jobesimtarëve, 2:190-193, 244; 4:84, 95; 8:72, 74, 75; 9:12-16, 20, 24, 36, 123; 47:4; 61:11
 - i shuguruar, 2:216
 - në muajt e shenjtë, 2:217; 9:5
@@ -410,7 +409,7 @@ Fil, S.105
 Firdeus Parajsa, 18:107; 23:11
 Zjarr, 56:71, 100:2
 Fluturo, 22:73
-Ushqim,
+Ushqim
 - e ligjshme dhe e paligjshme, (Hallall dhe Haram), 2:168, 172, 173; 5:1, 3-5, 88; 6:118-119, 121, 145-146; 16:114-118; 23:51
 - nuk ka mëkat për atë që hëngri në të kaluarën, 5:93
 - mos shkel, 5:87
@@ -432,7 +431,7 @@ Falje, 2:109; 4:48, 110, 116; 5:74; 7:199; 39:53; 42:5, 40-43; 45:14; 53:32; 57:
 - duke u garuar me njëri-tjetrin në nxitim drejt, 57:21
 - veprat e këqija shndërrohen në vepra të mira 25:68-71
 Mashtrimi, (shih Tradhtia) 83:1-6
-Vullnet i lirë,
+Vullnet i lirë
 - i kufizuar nga Vullneti i Allahut, 6:107; 10:99; 74:56; 76:31; 81:28-29
 - kushdo që të dojë, le të besojë dhe të mos besojë, 18:29
 - të marrë rrugën për te Zoti i tij, 76:29
@@ -466,14 +465,14 @@ Mirë (Ditët), 3:140
 - Allahu i shpërblen ata që veprojnë me atë që është më e mira, 53:31
 - a ka ndonjë shpërblim tjetër për të, përveç të mirës, 55:60
 - bëj, ashtu siç të ka bërë mirë Allahu, 28:77
-E mira dhe e keqja,
+E mira dhe e keqja
 - e mira është nga Allahu dhe e keqja është nga vetja jote, 4:79
 - nëse bëni mirë, për veten tuaj dhe nëse bëni keq, kundër vetes, 17:7;41:46
 - e largon të keqen me të mirë, 23:96; 28:54; 41:34
 - vepra e mirë dhe e keqe nuk mund të jenë të barabarta, 41:34
 - çdo person do të përballet me të gjitha ato që ka bërë, 3:30
 - shih edhe Muhsinun
-Vepër e mirë,
+Vepër e mirë
 - zbulojeni ose fshihni atë, 4:149
 - përpiqu si në një garë në, 5:48
 Ungjilli, 3:3, 48, 65; 5:46-47, 66, 68, 110; 7:157; 9:111; 48:29; 57:27
@@ -490,7 +489,7 @@ Vështirësi, ka lehtësim me çdo gjë, 94:5-6
 Harun, (Aaron)
 Harut, 2:102
 Hashr, S.59
-Zemrat,
+Zemrat
 - i ngurtësuar, 2:74; 22:53; 39:22; 57:16
 - i vulosur, 7:100-101; 40:35; 47:16; 63:3
 - i mbuluar, 17:46; 41:5
@@ -498,7 +497,7 @@ Zemrat,
 - i ndarë, 59:14
 - i mbushur me frikë, 22:35
 - tek i cili ka një sëmundje, 2:10; 5:52; 8:49; 9:125; 22:53; 24:50; 33:12, 32, 60; 47:20, 29; 74:31
-Qiejt,
+Qiejt
 - Allahut i përket e padukshmja, 16:77
 - i krijuar jo për një lojë, 21:16
 - dhe toka u bashkua, 21:30
@@ -528,7 +527,7 @@ Ferri (zjarri, flaka përvëluese) 2:24, 119, 161, 166, 201; 3:10, 12, 116, 131,
 - dëshpërim përvëlues dhe errësirë akulli brenda, 38:57
 - zinxhir prej 70 kubitësh, 69:32
 - qëndrim për një kohëzgjatje të kufizuar, 78:23
-Më pas,
+Më pas
 - më e mirë është shtëpia në, 6:32; 7:169
 - që do të jetë fundi në, 6:135
 - Zalimuni nuk do të ketë sukses (në), 6:135
@@ -545,7 +544,7 @@ Hixhri (Shkëmbore), 15:80-85
 Hixhri, S.15
 Homoseksualiteti 26:165-166; 27:55; 29:28-29
 Kuaj, 16:8
-Orë,
+Orë
 - dija për këtë është vetëm tek Allahu, 7:187; 31:34; 33:63; 41:47; 68:26; 79:42-46
 - papritmas është mbi ta, 6:31; 7:187; 12:107; 43:66
 - vjen mbi ty, 6:40; 12:107; 20:15; 34:3
@@ -554,9 +553,9 @@ Orë,
 - tërmet i, 22:1
 - do të vendoset, në Ditën, 30:12, 14
 - me siguri do të vijë, nuk ka dyshim, 40:59;45:32; 51:5-6
-- shenjat 21:96; 27:82; 43:61; 47:18; 54:1-2;
-- emrat 1:3; 2:4; 3:55; 19:39; 30:56; 37:21; 40:15; 41:47; 42:7; 50:20; 56:1; 64:9; 69:1; 79:34; 80:33; 88:1; 101:1-3;
-- do t’i zërë njerëzit në befasi 6:31; 7:187;
+- shenjat 21:96; 27:82; 43:61; 47:18; 54:1-2
+- emrat 1:3; 2:4; 3:55; 19:39; 30:56; 37:21; 40:15; 41:47; 42:7; 50:20; 56:1; 64:9; 69:1; 79:34; 80:33; 88:1; 101:1-3
+- do t’i zërë njerëzit në befasi 6:31; 7:187
 - Do të fryhet trombë 6:73; 23:101; 39:68
 Shtëpitë, sjelljet e hyrjes, 24:27-29
 Hud, 7:65-72; 11:50-60; 26:123-140; 46:21-26
@@ -565,7 +564,7 @@ Huxhurat, S.49
 Humazah, S.104
 Hunain (beteja), 9:25
 Hur (femrat në Parajsë), 44:54; 52:20
-Hipokritë,
+Hipokritë
 - thuaj: Ne besojmë në Allahun dhe në Ditën e Fundit, por në fakt nuk besojmë, 2:8
 - mashtrojnë veten, 2:9
 - sëmundje në zemrat e tyre, 2:10; 8:49; 22:53; 33:12; 47:29
@@ -609,8 +608,8 @@ Ilah, vetëm Një, 2:163; 6:19; 16:22, 51; 23:91; 37:4; 38:65
 Marrëdhënie seksuale të paligjshme; dëshmitë e dëshmitarëve, 4:15-18; 24:2, 19
 Ilijjun, 83:18-21
 I papastër (Najas) 9:28
-Imran,
-- gruaja e, 3:35;
+Imran
+- gruaja e, 3:35
 - vajza e, 66:12
 E pashmangshme, 69:1-3
 Infitar, S.82
@@ -629,7 +628,7 @@ Hekuri, 57:25
 Jezus, shih Jezusin
 Isaku, (Isaku) 2:133; 4:163; 6:84; 19:49;21:72; 29:27; 37:112–113
 Ismaili (Ishmaeli), 2:125-129, 133; 4:163; 6:86; 19:54–55; 21:85; 38:48
-ngre themelet e Qabes me të atin 2:125-140;
+ngre themelet e Qabes me të atin 2:125-140
 historia e sakrificës 37:100-113
 Islami, 3:19, 85; 5:3; 6:125; 39:22; 61:7
 - i pari i atyre që nënshtrohen si myslimanë, 6:14,163; 39:12
@@ -658,8 +657,8 @@ Jakobi, (Ja'kub) 2:132-133; 4:163; 6:84;12:18; 19:49; 21:72; 29:27
 Jalut, (shih Goliath)
 Xhamarat, 2:200
 Jathiyah, S.45
-Jezusi, Isai, bir i Merjemes,
-- nëna e zgjedhur mbi të gjitha gratë e botës 3:42;
+Jezusi, Isai, bir i Merjemes
+- nëna e zgjedhur mbi të gjitha gratë e botës 3:42
 - dëshmon në Ditën e Ringjalljes, 4:159
 - lajmi i gëzuar i lindjes, 3:45-47; 19:22-23
 - I Dërguari i Bijve të Izraelit, 3:49-51
@@ -682,9 +681,9 @@ Jezusi, Isai, bir i Merjemes,
 - pikëpamje të ndryshme rreth, 43:65
 - jo më shumë se një rob dhe një shembull për Bijtë e Izraelit, 43:59
 - lajm i gëzuar për një të Dërguar emri i të cilit do të jetë Ahmed, 61:6
-- lindja e tij e virgjër, mesazhi dhe mrekullitë 3:45-51; 19:16-38;
-- u kujtuan për mirësitë e Allahut 5:110-115;
-- mohon të qenit hyjnor 5:116-120;
+- lindja e tij e virgjër, mesazhi dhe mrekullitë 3:45-51; 19:16-38
+- u kujtuan për mirësitë e Allahut 5:110-115
+- mohon të qenit hyjnor 5:116-120
 - dhembshuri dhe hir në zemrat e ithtarëve të tij 5:82; 57:27
 Hebrenjtë dhe të krishterët, 2:140; 4:153-161, 171; 5:18
 - dëgjoni gënjeshtrën, 5:41-42
@@ -694,41 +693,41 @@ Hebrenjtë dhe të krishterët, 2:140; 4:153-161, 171; 5:18
 Xhibrili, (shih Gabrieli)
 Xhihad, (Luftim, Përpjekje) 2:216; 9:24; 22:78; 25:52
 Xhin, S.72
-Xhin, 6:100, 112; 15:27; 34:41; 38:37; 46:18,29; 55:33, 39;
-Xhind, i krijuar nga zjarri 15:25; 55:15;
-- xhindët që besojnë dhe nuk besojnë 72:1-15;
+Xhin, 6:100, 112; 15:27; 34:41; 38:37; 46:18,29; 55:33, 39
+Xhind, i krijuar nga zjarri 15:25; 55:15
+- xhindët që besojnë dhe nuk besojnë 72:1-15
 - disa besuan në mesazhin e Kuranit 46:29-32
 - njerëzit dhe xhindët u krijuan për një qëllim 51:56-58
 Jobi, 4:163; 6:84; 21:83-84; 38:41-44
-Gjoni, (Jahja, Gjon Pagëzori),
+Gjoni, (Jahja, Gjon Pagëzori)
 - lajmi i mirë i, 3:38-41; 19:7-11; 21:90
 - i drejtë, 6:85
 - i mençur, i dhembshur, i përkushtuar, 19:12-15
-Jona (Jonas ose Junus), 4:163; 6:86; 10:98; 21:87; 37:139-148;
+Jona (Jonas ose Junus), 4:163; 6:86; 10:98; 21:87; 37:139-148
 - (Dhu n-Nun) 21:87; 68:48-50
 Jusufi (Jusuf), 6:84; 12:4-101
-- më e mira e historive 12:1-3;
-- ëndrra e Jusufit të ri 12:4-6;
-- komplot nga vëllezërit e tij 12:7-18;
-- shiten si skllav 12:19-20;
+- më e mira e historive 12:1-3
+- ëndrra e Jusufit të ri 12:4-6
+- komplot nga vëllezërit e tij 12:7-18
+- shiten si skllav 12:19-20
 - rritur në shtëpinë e Kryeministrit të Egjiptit 12:21-22
-- Gruaja e Kryeministrit përpiqet ta joshë atë 12:23-29;
-- incidenti i banketit 12:30-32;
-- shkon në burg 12:33-35;
-- dy të burgosurit 12:36-42;
-- Ëndrra e Mbretit 12:43-53;
-- bëhet Kryeministër 12:54-57;
-- vëllezërit vijnë tek ai për furnizime 12:58-68;
-- merr vëllanë e tij Beniaminin 12:69-82;
-- hidhërimi i ripërtërirë i babait të tij 12:83-87;
-- zbulon identitetin e tij të vërtetë 12:88-98;
-- ëndrra e vjetër bëhet realitet 12:99-100;
+- Gruaja e Kryeministrit përpiqet ta joshë atë 12:23-29
+- incidenti i banketit 12:30-32
+- shkon në burg 12:33-35
+- dy të burgosurit 12:36-42
+- Ëndrra e Mbretit 12:43-53
+- bëhet Kryeministër 12:54-57
+- vëllezërit vijnë tek ai për furnizime 12:58-68
+- merr vëllanë e tij Beniaminin 12:69-82
+- hidhërimi i ripërtërirë i babait të tij 12:83-87
+- zbulon identitetin e tij të vërtetë 12:88-98
+- ëndrra e vjetër bëhet realitet 12:99-100
 - lutja përmbyllëse 12:101
 Judi, Mali, 11:44
 Xhuma, S.62
 Drejtësia (Adl), 2:282; 4:58, 135; 7:29; 16:90; 57:25 (
 - shih edhe 4:65, 105
-Qabeja,
+Qabeja
 - ndërtuar nga Abrahami, 2:125-127
 - nuk lejohet vrasja e gjahut, 5:94-96
 - azil sigurie, 5:97
@@ -740,17 +739,17 @@ Kahf, S.18
 Kanz, 9:34-35
 Kauthar (lumi në Parajsë), 108:1
 Kauthar, S.108
-Çelësat,
+Çelësat
 e qiejve dhe e tokës, 39:63; 42:12
 i Ghaib, 6:59
 Khaulah bint Tha labah, 58:1
-Vrasja,
+Vrasja
 - nëse dikush vret një person, ai vret të gjithë njerëzimin, 5:32
 - mos vrit askënd, 17:33
 Fjalët e mira janë më të mira se sadakaja, 2:263
 Të afërmit, të drejtat e, 2:83, 177, 215; 4:7-9, 36; 8:41; 16:90; 17:26; 24:22; 29:8; 30:38; 42:23
 Kiraman-Ratibin, 82:11
-Njohuri,
+Njohuri
 - asnjë gjethe nuk bie, pa e ditur Ai, 6:59
 - të humbur janë ata që i kanë vrarë fëmijët e tyre nga marrëzia, pa marrëzi, 6:140
 - prej pesë gjërave, vetëm te Allahu, 31:34
@@ -760,14 +759,14 @@ Kursi, 2:255
 Lahab (Shih Masad), S.111
 Lail, S.92
 Llambë, 25:61; 67:5; 71:16; 78:13
-Gjuhët,
+Gjuhët
 - ndryshimi në, dhe ngjyrat e njerëzve, 30:22
 Lat, 53:19
 Ligji, i përcaktuar, 5:48
 Ligjet nga Allahu, 2:219; 98:3
 Gënjeshtarët, 26:221-223
 Jeta, nëse dikush shpëtoi një njeri, ai shpëtoi jetën e gjithë njerëzimit, 5:32
-Jeta e kësaj bote,
+Jeta e kësaj bote
 - bleu, me çmimin e Botës së Përtejme, 2:86
 - është vetëm kënaqësi mashtrimi, 3:185
 - shit, për Ahiretin, 4:74
@@ -779,7 +778,7 @@ Jeta e kësaj bote,
 - kushdo që dëshiron, hyn në të; por pastaj nuk do të ketë pjesë në Ahiret, 11:15-16; 17:18; 42:20
 - që e duan të tashmen dhe e lënë pas dore Ahiretin, 75:20-21; 76:27
 - ju preferoni, 87:16
-Dritë,
+Dritë
 - manifest, 4:174
 - dhe errësira, 6:1
 - shëmbëlltyra e, 24:35
@@ -794,7 +793,7 @@ Kufijtë e vendosur nga Allahu, 2:173, 187, 190, 230;9:112; 58:4; 65:1; 78:22
 - kur ata tejkaluan, (u bënë majmunë), 7:166
 - që i përmbahen, 9:112
 Luani, 74:51
-Kredi,
+Kredi
 - jepini hua Allahut një të mirë, 2:245; 73:20
 - shumëfish i rritur, 57:11, 18
 - dyfishuar, 64:17
@@ -812,7 +811,7 @@ Mahr (paratë e nuses), 2:229, 236-237; 4:4,19-21, 24-25; 5:5; 33:50; 60:10-11
 Ma'idah, S.5
 Mekë (Bekka), 3:96;90:1-2
 - Qyteti i Sigurisë, 95:3
-Burrë,
+Burrë
 - breza pas brezi në tokë, 2:30;6:165
 - u bë pasardhës, 35:39
 - detyrë, 2:83-84, 88, 177; 4:1-36; 8:41; 16:90;17:23-39; 24:22; 29:8-9; 30:38;33:33;42:23; 64:14; 70:22-35
@@ -877,7 +876,7 @@ Burrë,
 - shkel të gjitha kufijtë, 96:6-7
 Manasik (detyrat) e Haxhit, 2:128, 200; 22:30
 Manat, 53:20
-Njerëzimi,
+Njerëzimi
 - dëshmitarët mbi, 2:143
 - një bashkësi, 2:213; 10:19
 - krijuar nga një çift i vetëm, 4:1; 39:6; 49:13
@@ -887,7 +886,7 @@ Njerëzimi,
 - më i nderuari nga, 49:13
 - të shndërruar në kombe dhe fise, 49:13
 Mana dhe shkurtat, 2:57
-Sjellje,
+Sjellje
 - rreth hyrjes në shtëpi, 24:27-29
 - në shtëpi, 24:58-61
 - në shtëpitë e Profetit, 33:53
@@ -910,7 +909,7 @@ Martesa, 2:232, 234
 - ata që nuk gjejnë mjete financiare për martesë, 24:33
 - gratë e lejuara për Profetin, 33:50-52
 - para marrëdhënies seksuale, nuk ka Idah në divorc, 33:49
-Martirë,
+Martirë
 - jo i vdekur, 2:154; 3:169
 - gëzohuni me mirësinë dhe begatinë e Allahut, 3:170-171
 - të marrë falje dhe mëshirë, 3:157-158
@@ -930,7 +929,7 @@ Masad, S.111
 Maun, S.107
 Parajsa Ma'ua, 53:15
 Mat dhe pesho, jep të plotë, 11:85; 17:35; 83:1-5
-Takim,
+Takim
 - me Allahun, 6:31
 - e Ditës së Madhe, 19:37
 - e Botës së Përtejme, 30:16
@@ -960,7 +959,7 @@ Miraxh, 17:1; 53:12
 Muajt, numri i, 9:36-37
 Hëna, 7:54; 10:5; 16:12; 22:18; 25:61; 36:39-40; 71:16; 91:2
 - ndarja e; 54:1
-Moisiu,
+Moisiu
 - dhe populli i tij, 2:51-61; 7:138-141,159-162; 14:5-8; 61:5
 - dhe Faraoni, 2:49-50; 17:101-103; 20:17-53, 56-79; 23:45-49; 25:31-42; 40:23-46; 43:46-56; 51:38-40; 73:16; 79:15-26
 - i udhëzuar nga Allahu, 6:84
@@ -970,23 +969,23 @@ Moisiu,
 - duke pasur parasysh Shkrimin e Shenjtë, 17:2
 - nëntë Shenja të Qarta, 7:133; 17:101
 - deri në kryqëzimin e dy deteve, 18:60-82
-- takimi fatal te shkurrja që digjej 20:9-36; 27:7-14; 28:29-35;
+- takimi fatal te shkurrja që digjej 20:9-36; 27:7-14; 28:29-35
 - i thirrur dhe i dhënë Lajmëtari, 19:51-53; 20:9-56
 - fëmijëria e tij, nëna dhe motra, 20:38-40; 28:7-13
 - magjistarët u konvertuan, 20:70-73; 26:46-52
 - në Madjan, 20:40; 28:22-28
 - u miratua Kriteri, 21:48
 - dhe zjarri mistik, 27:7-12; 28:29-35
-- vret një egjiptian gabimisht në qytet 28:14-21;
+- vret një egjiptian gabimisht në qytet 28:14-21
 - erdhi me ajete të qarta, 29:39
-- historia me Faraonin 7:103-137; 10:75-92; 11:96-99; 26:10-69;
-- nëntë shenja për Faraonin dhe popullin e tij 7:130-133; 20:17-22; 17:101;
-- mposht magjistarët e Faraonit 20:70-73; 26:46-52;
-- arratisja në Madian dhe martesa 28:22-28;
-- merr Pllakat 7:142-154,
-- kërkon të shohë Allahun në Mal 7:142-145;
-- i nderuar nga Allahu 33:69;
-- Mirësitë e Allahut ndaj Izraelitëve 2:47-61;
+- historia me Faraonin 7:103-137; 10:75-92; 11:96-99; 26:10-69
+- nëntë shenja për Faraonin dhe popullin e tij 7:130-133; 20:17-22; 17:101
+- mposht magjistarët e Faraonit 20:70-73; 26:46-52
+- arratisja në Madian dhe martesa 28:22-28
+- merr Pllakat 7:142-154
+- kërkon të shohë Allahun në Mal 7:142-145
+- i nderuar nga Allahu 33:69
+- Mirësitë e Allahut ndaj Izraelitëve 2:47-61
 - Izraelitët refuzojnë të hyjnë në Jerusalem 5:20-29
 - i udhëzuar në Rrugën e Drejtë, 37:114-122
 - Shkrimi i Shenjtë i, 53:36; 87:19
@@ -1074,7 +1073,7 @@ Mumtahanah, S.60
 Munafigun, S.63
 Vrasje, 2:178-179
 Mursalat, S.77
-Muslimanët,
+Muslimanët
 - i pari i, 6:14, 163; 9:100; 39:12
 - Kush e ka emëruar, 22:78
 - falje dhe shpërblim të madh për ata që, 33:35-36
@@ -1086,7 +1085,7 @@ Nahl, S.16
 Najas (i papastër) 9:28
 Naxhm, S.53
 Najwa (Shih Sekretin)
-Emrat,
+Emrat
 Atij i përket Më e Bukura, 7:180
 Atij i përket më i miri, 17:110; 20:8; 59:24
 Domosdoshmëri, nëse dikush detyrohet nga, 2:173; 6:145
@@ -1099,10 +1098,10 @@ Nata, (si simbol), për pushim, 10:67
 - për të qenë në shërbim, 14:32
 - Nata e Kadrit (Dekreti), 44:3-4; 97:1-5
 Nisa', S.4
-Noeu, 3:33; 4:163; 6:84; 9:70; 10:71; 11:25, 32, 36, 42, 45-46, 48, 89; 17:3; 21:76; 25:37; 26:105; 29:14; 37:75; 51:46; 54:9; 69:11;
-- tallur 11:38;
+Noeu, 3:33; 4:163; 6:84; 9:70; 10:71; 11:25, 32, 36, 42, 45-46, 48, 89; 17:3; 21:76; 25:37; 26:105; 29:14; 37:75; 51:46; 54:9; 69:11
+- tallur 11:38
 - Përmbytja (përmbytje e madhe), 29:14
-- Arka dhe Përmbytja 7:59-69, 11:25-48; 23:23-31; 26:105-122; 71:1-28;
+- Arka dhe Përmbytja 7:59-69, 11:25-48; 23:23-31; 26:105-122; 71:1-28
 - djali i padrejtë nuk shpëtohet, 11:42-48
 - grua e padrejtë, 14:9; 17:3, 17;19:58;21:76; 22:42; 26:105-106, 116; 33:7; 37:75,79; 38:12; 42:13; 40:5, 31; 42:13;50:12;53:52; 57:26; 66:10; 71:1, 21, 26
 Nuh, S.71
@@ -1136,7 +1135,7 @@ Shëmbëlltyra (ngjashmëri, shembull, përngjasime)
 - shi, 10:24
 - korrje e pastër, 10:24
 - të verbër dhe të shurdhër, 11:24
-- Allahu kundrejt perëndive të rreme 13:14; 16:76;
+- Allahu kundrejt perëndive të rreme 13:14; 16:76
 - e vërteta kundrejt gënjeshtrës 13:17
 - hi mbi të cilin fryn era me furi, 14:18
 - pemë e bukur, 14:24-25
@@ -1164,7 +1163,7 @@ Shëmbëlltyra (ngjashmëri, shembull, përngjasime)
 - gomar, 62:5
 - uji do të fundosej, 67:30
 - njerëzit e kopshtit, 68:17-33
-Parajsë,
+Parajsë
 - e Vendbanimit, (Xheneti Ma'ua), 53:15
 - Xheneti Firdeus, 18:107; 23:11
 - Kopshte nën të cilat rrjedhin lumenj, 3:15, 198;4:57; 5:119; 7:43; 9:72; 18:31; 22:23; 39:20;57:12; 64:9; 98:8
@@ -1187,7 +1186,7 @@ Parajsë,
 - një lumë në Xhennet, Keuthar, 108:1
 - lumenj vere, qumështi, mjalti i kulluar, 47:15
 - verë e pastër e vulosur, e bardhë, e shijshme, 37:45-46; 56:18; 76:21; 83:25
-- kupë, e përzier me, Zenxhabil, 76:17; 78:34;
+- kupë, e përzier me, Zenxhabil, 76:17; 78:34
 - ujë, 76:5
 - tabaka ari dhe kupa, 43:71
 - enë argjendi dhe kupa kristali, 76:15-16
@@ -1234,21 +1233,21 @@ Parajsë,
 - gra në hije të këndshme, të mbështetura në frone, 36:55
 - vajza të reja me gjoks të plotë të të njëjtës moshë, 78:33
 - shërbëtorë të rinj të pavdekshëm për t'u shërbyer atyre, si perla të shpërndara, 52:24; 56:17; 76:19
-- aq i gjerë sa qiejt dhe toka 3:133, 57:21;
-- ujë i rrjedhshëm, hije e freskët, ushqime të shijshme dhe shokë të pastër 2:25; 4:57; 36:55-58; 37:40-49; 38:50-54; 44:51-57; 52:17-24; 69:19-24; 76:5-22;
-- shpërblimi i besimtarëve 55:46-78; 56:10-40;
-- lumenj mjalti, qumështi, uji dhe vere 47:15;
-- lutjet dhe përshëndetjet 10:9-10; 39:73-74;
-- u përshëndet me përshëndetje paqeje 13:23-24; 14:32;
-- qëndrim i përjetshëm në Lumturi 11:108;
-- nuk më është kërkuar kurrë të largohem 15:45-48;
-- dritë që shkëlqen përpara tyre dhe në të djathtën e tyre 57:12;
-- pa vapë ose të ftohtë 76:13;
-- të gjitha dëshirat u plotësuan 16:30-32; 41:31-32;
-- byzylykë prej ari dhe rroba prej mëndafshi të hollë 18:30-31; 22:23-24; 44:51-53;
-- tabaka me kupa të arta 43:67-73;
-- enë argjendi dhe fruta të varura në afërsi 76:14-16;
-- të mbështetur në frone 15:47; 37:44; 52:20;
+- aq i gjerë sa qiejt dhe toka 3:133, 57:21
+- ujë i rrjedhshëm, hije e freskët, ushqime të shijshme dhe shokë të pastër 2:25; 4:57; 36:55-58; 37:40-49; 38:50-54; 44:51-57; 52:17-24; 69:19-24; 76:5-22
+- shpërblimi i besimtarëve 55:46-78; 56:10-40
+- lumenj mjalti, qumështi, uji dhe vere 47:15
+- lutjet dhe përshëndetjet 10:9-10; 39:73-74
+- u përshëndet me përshëndetje paqeje 13:23-24; 14:32
+- qëndrim i përjetshëm në Lumturi 11:108
+- nuk më është kërkuar kurrë të largohem 15:45-48
+- dritë që shkëlqen përpara tyre dhe në të djathtën e tyre 57:12
+- pa vapë ose të ftohtë 76:13
+- të gjitha dëshirat u plotësuan 16:30-32; 41:31-32
+- byzylykë prej ari dhe rroba prej mëndafshi të hollë 18:30-31; 22:23-24; 44:51-53
+- tabaka me kupa të arta 43:67-73
+- enë argjendi dhe fruta të varura në afërsi 76:14-16
+- të mbështetur në frone 15:47; 37:44; 52:20
 - besimtarët do ta shohin Zotin e tyre 75:22-23
 Prindër, mirësi ndaj, 2:83, 215; 4:36; 16:90; 17:23; 29:8; 31:14; 46:15-17
 Partnerët e Allahut, një gënjeshtër, 4:116; 10:34-35, 66; 16:86; 28:62-64, 71-75; 30:40; 42:21
@@ -1257,7 +1256,7 @@ Shtegu, 5:77; 16:94; 42:52-53; 43:43; 90:11-12
 - shih edhe Rrugën
 Durim, 3:186, 200; 10:109; 11:115; 16:126-127; 20:130; 40:55, 77; 42:43; 46:35; 70:5;73:10
 - kërkoni ndihmë në, dhe lutuni, 2:45, 153; 20:132; 50:39
-Pacient,
+Pacient
 - do të marrë shpërblimin e plotë, 39:10
 - Allahu është me ata që janë, 8:46
 - dhe të jesh, 11:115
@@ -1266,7 +1265,7 @@ Pacient,
 Paqe, anoju drejt, 8:61
 Perla dhe korale, të ruajtura, 52:24; 55:22; 56:23
 Pena, 68:1; 96:4
-Person,
+Person
 - Allahu nuk ngarkon askënd përtej mundësive të Tij, 2:286; 7:42
 - Allahu nuk i vë taksa askujt, përveç sipas mundësive të Tij, 23:62
 - jo, e di se çfarë do të fitojë nesër dhe në çfarë vendi do të vdesë, 31:34
@@ -1287,7 +1286,7 @@ Faraoni, 28:6; 40:24
 - ndërtimi i një kulle, 40:36-37
 - shih edhe Moisiun
 Grumbullimi i gjërave të kësaj bote, 102:1-4
-Betimi (Bai'ah),
+Betimi (Bai'ah)
 - për Islamin, 16:91
 - për të Dërguarin është Bai'a (besë) ndaj Allahut, 48:10
 - e Besimtarëve, 48:18; 60:12
@@ -1323,17 +1322,17 @@ Profetët, 3:33-34, 146; 4:163; 5:20; 6:84-90; 23:23-50; 57:26
 - i paligjshëm për, 3:161
 - një armik për çdo, 6:112; 25:31
 - shih edhe Lajmëtarët
-Sexhde,
+Sexhde
 - tek Allahu bien të gjithë ata që janë në qiej dhe në Tokë, si dhe hijet e tyre, 13:15
 Furnizim, 10:59; 13:26; 14:32; 16:73; 34:36,39; 42:12; 51:57; 67:21; 79:33
 Psalmet, 4:163
-Dënimi,
+Dënimi
 - shtyrja e, 3:178
 - prerja e duarve ose e këmbëve, 5:33
 - ndëshkojini ata me të njëjtën masë që ju ka goditur juve, 16:126
 - e kësaj jete dhe e botës tjetër, 24:19; 68:33
-Pastrues,
-- trupor, 4:43; 5:6;
+Pastrues
+- trupor, 4:43; 5:6
 - shpirtërisht (nga papastërtitë), 87:14; 91:9
 Kadar, 5:5; 64:11
 Qadr, S.97
@@ -1345,7 +1344,7 @@ Karun (Koreh), 28:76-82; 29:39
 Qasas, S.28
 Kibla, 2:142-145, 149
 Kisas (Ligji i barazisë në ndëshkim), 2:178-179, 194; 5:45; 16:126; 17:33; 22:60; 42:40
-Kurani,
+Kurani
 - përshkruar, 13:31, 36, 37; 14:1; 56:77-80
 - nuk është i tillë që mund të prodhohet ndonjëherë nga dikush tjetër përveç Allahut, 2:23; 10:38; 11:13; 17:88
 - sikur të ishte prej dikujt tjetër përveç Allahut, do të kishte shumë kundërthënie në të, 4:82
@@ -1395,7 +1394,7 @@ Kurani,
 - duke recituar faqe të pastra, 98:2
 - shih edhe Libri; Zbulesa
 Kurejsh, S.106
-Kurejshët,
+Kurejshët
 - jobesimtarët e, 54:43-46, 51
 - zbutja e, 106:1-4
 Rabinët dhe murgjit, 9:31, 34
@@ -1403,26 +1402,26 @@ Garo, përpiqu si në një, në vepra të mira, 5:48
 Ra'd, S.13
 Rahman, S.55
 Veshja e drejtësisë është më e mirë, 7:26
-Shi,
+Shi
 - Dhurata e Allahut, 56:68-70
 - prej gurësh, 27:58
 Ramazan, 2:185
 Ramy, 2:200
-Shpërblesë,
+Shpërblesë
 - jo, do të merret, 57:15
 - ofruar nga jobesimtarët, 3:91; 10:54; 13:18
-Fidjah, i agjërimit, 2:196;
+Fidjah, i agjërimit, 2:196
 - për lirimin e robërve, 8:67
 Rass, banorët e, 25:38; 50:12
-Shpërblim,
+Shpërblim
 - Dita e, 1:4; 37:20; 51:12; 56:56; 82:17-18; 96:7
 - mohuesit e, 107:1-7
 - nga një e keqe ka një të keqe të ngjashme me të, 42:40
-Pajtimi,
+Pajtimi
 - kushdo që fal dhe bën, 42:40
 - midis burrit dhe gruas, 4:35
 - midis besimtarëve, 49:9-10
-Regjistro,
+Regjistro
 - një Regjistr i gdhendur, 83:7-9, 18-21
 - çdo komb do të thirret në vendin e vet, 45:28-29
 - faqe të shkruara të veprave të çdo personi, 81:10
@@ -1432,7 +1431,7 @@ Regjistro,
 - pas shpine, 84:10-15
 Engjëjt që regjistrojnë, 50:17-18, 23; 85:11
 Lehtësim, me vështirësi, 94:5-6
-Feja,
+Feja
 - pa detyrim në, 2:256
 - është Islami, 3:19
 - e Allahut, 3:83-84
@@ -1449,7 +1448,7 @@ Feja,
 - stërgjyshore, 43:22-24
 Përkujtimi i Allahut, 63:9
 - në, zemrat gjejnë prehje, 13:28
-Pendimi,
+Pendimi
 - pranohet nëse e keqja bëhet nga padija dhe pendohet menjëherë më pas, 4:17; 6:54
 - dhe nuk ka asnjë efekt, nëse veprat e këqija vazhdojnë, 4:18
 - Ai pranon dhe fal mëkatet, 4:25
@@ -1457,7 +1456,7 @@ Pushim për të keqen, 3:178; 10:11; 12:110; 14:42,44; 29:53-55; 86:15-17
 Ringjallja, 2:28, 7:53; 14:21; 16:38-40; 22:5-7; 23:15-16; 31:28, 41:39, 46:33-34; 50:3,20-29, 41-44; 64:7, 75:1-15; 79:10-12; 86:5-8
 - shembull në historinë e Ezrës 2:259
 - Abrahami 2:260
-- njerëzit e shpellës 18:9-26;
+- njerëzit e shpellës 18:9-26
 - paralajmërim për mohuesit e ringjalljes 17:49-52, 17:97-100, 19:66-72, 37:11-27, 50:1-15, 80:17-42
 Dita e Ringjalljes, 7:89; 20:100-101, 124
 - Dita e Vërtetë, 78:39
@@ -1548,7 +1547,7 @@ Regjistrimi i dhënë pas shpine, 84:10-15
 - Xhehenemi do të afrohet, 89:23
 - Zjarri i Xhehenemit do të zhduket, do të ndizet në flakë të fortë, 81:11-12
 - Hakmarrja me anë të bamirësisë do të jetë një shlyerje, 5:45
-Zbulesa,
+Zbulesa
 - nëse keni dyshime, 2:23-24
 - i shfuqizuar ose i harruar Vargu, 2:106
 - udhëzim i drejtë, 3:73
@@ -1560,13 +1559,13 @@ Zbulesa,
 - e Librit është nga Allahu, 46:2
 - shih edhe Librin dhe Kuranin
 Hakmarrja për padrejtësinë shtypëse që u është bërë atyre, 42:39-43
-Shpërblim,
+Shpërblim
 - sipas veprave më të mira, dhe madje edhe më shumë, 24:38; 29:7; 39:35
 - si shpërblim 25:15
 - Allahu i shpërblen ata që bëjnë mirë me atë që është më e mira, 53:31
 - për të mirën, asnjë shpërblim tjetër përveç të mirës, 55:60
 Riba (Shih fajde)
-I drejtë,
+I drejtë
 - kompania e, 4:69
 - do ta trashëgojnë tokën, 21:105
 - në Parajsë, 51:15-19; 76:5-12
@@ -1585,7 +1584,7 @@ Ruh (shpirt, frymë), 15:29; 17:85; 58:22
 Rum, S.30
 Saba' (Sheba), 27:22-44; 34:15-21
 Saba', S.34
-Sabat,
+Sabat
 - shkelësit e, 2:65; 4:154; 7:163-166
 - i përshkruar vetëm për, 16:124
 Sabianët, 5:69; 22:17
@@ -1611,23 +1610,23 @@ Satani, 2:36, 168, 208, 268, 275; 3:36, 155, 175; 4:38, 60, 76, 83, 119-120; 5:8
 - nuk ka pushtet mbi besimtarët, 16:99-100
 - hedh gënjeshtra, 22:52-53
 - është armik, 12:5; 35:6; 36:60
-- arroganca 2:34; 7:11-27; 15:26-43; 17:61-65; 38:73-85;
-- një xhind 18:50-51;
-- Tundimi dhe rënia e Adamit 7:20-23; 20:116-121;
-- nuk ka autoritet mbi besimtarët 16:98-100;
-- goli i tij 35:6-8;
-- një armik i betuar i njerëzimit 12:5; 17:53;
-- grupi i tij 53:14-19;
-- vepra e tij e duarve 5:90-91;
-- dekurajon veprat e mira 2:268;
-- besimtarët kërkojnë strehim tek Allahu prej tij 7:200-202;
-- skemat e tij janë të dobëta 4:76;
-- i zhgënjen ndjekësit e tij 8:48;
+- arroganca 2:34; 7:11-27; 15:26-43; 17:61-65; 38:73-85
+- një xhind 18:50-51
+- Tundimi dhe rënia e Adamit 7:20-23; 20:116-121
+- nuk ka autoritet mbi besimtarët 16:98-100
+- goli i tij 35:6-8
+- një armik i betuar i njerëzimit 12:5; 17:53
+- grupi i tij 53:14-19
+- vepra e tij e duarve 5:90-91
+- dekurajon veprat e mira 2:268
+- besimtarët kërkojnë strehim tek Allahu prej tij 7:200-202
+- skemat e tij janë të dobëta 4:76
+- i zhgënjen ndjekësit e tij 8:48
 - të flasë me ndjekësit e tij në Ferr 14:22
 - shih edhe Iblisi
 Peshorja, e suksesshme, vullneti i të cilit është i rëndë, 7:8-9
 - shih edhe balancën
-Shkrimi i Shenjtë,
+Shkrimi i Shenjtë
 - njerëzit e, (Hebrenjve dhe të Krishterëve), 2:109; 3:64-65, 69-72, 75, 98-99, 110, 113,199; 4:47, 153-161; 5:59-60, 68; 98:1
 - çfarë po fshihnin, 5:61-63
 - midis atyre që janë në rrugën e drejtë, 5:66
@@ -1635,7 +1634,7 @@ Shkrimi i Shenjtë,
 Detet, 42:32-33; 45:12
 - të dy, 18:60; 25:53; 35:12; 55:19-20
 - kur, shpërthejnë, 82:3
-Sekret (Najwa),
+Sekret (Najwa)
 - bisedime, 4:114
 - këshilla e tre personave, 58:7
 - këshillon, 58:8, 10
@@ -1644,10 +1643,10 @@ Sektet dhe përçarjet në fe, 6:15; 23:53; 30:32; 42:13-14; 43:65; 45:17
 Sigurinë, pas fatkeqësisë, Ai e zbriti, 3:154
 Fara, Kush e bën të rritet, 56:63-67
 Shqisat, 23:78
-Shtatë, të krijuara,
+Shtatë, të krijuara
 - qiejt, 2:29; 23:17; 65:12; 67:3; 71:15
 - dhe nga toka si ajo, 65:12
-Hije,
+Hije
 - i bie në sexhde Allahut, 13:15; 16:48
 përhapja e, 25:45
 Shams, S.91
@@ -1679,12 +1678,12 @@ Skllevërit, 2:177-178; 4:25, 36, 92; 5:89; 24:33; 58:3; 90:13
 Gjumi, një gjë për pushim, 78:9
 Sodoma, 29:31; 37:136
 Sodomia, 7:80-82; 11:77-83; 15:61-77; 29:28-29
-Solomoni, 2:102; 4:163; 6:84;
-- e ndihmon të atin, Davidin, të arrijë një gjykim më të drejtë 21:78-82;
+Solomoni, 2:102; 4:163; 6:84
+- e ndihmon të atin, Davidin, të arrijë një gjykim më të drejtë 21:78-82
 - dhe milingonat, 27:15-19
 - dhe pupëza, 27:20-26
 - dhe Mbretëresha e Sebeit, 27:22-44; 34:15
-- Mirësitë e Allahut mbi të 34:12-14, 38:34-40;
+- Mirësitë e Allahut mbi të 34:12-14, 38:34-40
 - dashuria e tij për kuajt e mirë 38:30-33
 Bir, i adoptuar, 33:4-5
 Shpirt (frymë, Ruh), 15:29; 17:85; 58:22
@@ -1704,8 +1703,8 @@ Plaçka lufte, 8:41, 69; 48:15, 19-20; 48:15
 Spiunazh, 49:12
 Ylli, 53:1, 49; 86:1-4
 Yje, 7:54; 15:16; 16:12, 16; 22:18; 25:61; 37:6-10; 56:75; 77:8; 81:2; 82:2
-Drejt, Rrugë, 1:6,
-- etj. Shtegu, 6:153,
+Drejt, Rrugë, 1:6
+- etj. Shtegu, 6:153
 - etj. Përpjekja, 4:95; 8:72, 74, 75; 9:20, 24, 81; 22:78; 25:52; 29:69:69; 47:3; 60:1; 61:11
 Gjindja, termi i, nënë kujdestare, 2:233
 Vuajtje, varfëri, humbje e shëndetit dhe fatkeqësi; begati dhe pasuri, 7:94-96
@@ -1775,7 +1774,7 @@ Uza, 53:19
 Veli, një i padukshëm, 17:45-46
 Mbulimi i Velit, 24:31; 33:59
 Ajete, Sab' El-Mathani, 15:87
-Fitore,
+Fitore
 - dhënë nga Allahu, 48:1
 - nëpërmjet ndihmës nga Allahu, 61:13
 Virtytet, (shih Drejtësia; Besimtarët)
@@ -1792,7 +1791,7 @@ Rruga, 1:6; 42:52-53; 90:10
 - etj. i lehtë, bëj të lehtë, 87:8
 - shih edhe Shtegu
 Udhëtar, 2:177, 215; 8:41; 17:26; 29:29; 30:38; 59:7
-Pasuria,
+Pasuria
 - kush është mbledhur, 104:2-4
 - shpenzim në Çështjen e Allahut (shih Shpenzim)
 Pasuria dhe fëmijët, stoli e jetës së kësaj bote, 18:46
@@ -1810,7 +1809,7 @@ Verë (në Parajsë)
 - lumenjtë e, 47:15
 - i pastër i vulosur, 83:25
 Mos dëshiro gjërat në të cilat Allahu i ka bërë disa mbi të tjerët, 4:32
-Dëshmitarë,
+Dëshmitarë
 - për besëlidhjen e Profetëve, 3:81
 - mbi njerëzimin, 2:143; 22:78
 - për një kontratë, 2:282
@@ -1820,7 +1819,7 @@ Dëshmitarë,
 - duart dhe këmbët do të dëshmojnë, 36:65
 - njeriu kundër vetes, 75:14
 Dita e Dëshmisë dhe Dita e Dëshmisë, 85:3
-Gratë,
+Gratë
 - janë një tokë për ju, 2:223
 - mbulesë për ty, 2:187
 - i llojit tënd, 16:72
@@ -1832,7 +1831,7 @@ Gratë, 2:222-223; 4:15, 19-22, 34, 127
 - duke mos e bërë të qartë veten në debat, 43:17-18
 Pyll, banorët e, 15:78; 38:13; 50:14
 - shih gjithashtu Aikah; Medjan 26:176-191
-Bota, jeta e kësaj,
+Bota, jeta e kësaj
 - nuk është gjë tjetër veçse lojë dhe zbavitje, 6:32;29:64; 47:36; 57:20
 - mashtron njerëzit, 6:130
 - kënaqësia e botës tjetër është më e vogël se ajo e botës tjetër, 9:38; 13:26; 28:60-61
@@ -1844,7 +1843,7 @@ Keqbërësit, 11:18-22, 101-104, 116-117; 39:47
 - shih edhe Jobesimtarët
 Abdes (Abdes), 4:43; 5:6
 Jaghuth, 71:23
-Jahja (Gjoni),
+Jahja (Gjoni)
 - lajmi i mirë i, 3:39; 21:90
 - i drejtë, 6:85
 - i mençur; i dhembshur; i përkushtuar, 19:12-15
@@ -1865,52 +1864,52 @@ Zihar, 33:4; 58:2-4
 Zukhruf, S.43
 Zumar, S.39
 Parimet themelore
-- Besimi i përsosur 5:3;
-- e vetmja Rrugë e pranuar nga Allahu 3:19, 85;
-- asnjë detyrim në pranimin e Islamit 2:256;
-- një fe me besime dhe kode të ndryshme ligjore 5:48; 22:67-70; 42:13-14;
-- profetët e Islamit 2:135-136; 3:84; 4:163-165;
-- urdhërimet (ki besim në Allah dhe bëj mirë) 4:36; 6:151-154; 17:23-39; 18:107-108;
-- pesë objektivat e Sheriatit: mbrojtja e besimit 5:54;
-- mbrojtja e jetës 5:32; 6:151;
-- mbrojtja e pasurisë 5:38;
-- mbrojtja e nderit 5:5; 24:4;
+- Besimi i përsosur 5:3
+- e vetmja Rrugë e pranuar nga Allahu 3:19, 85
+- asnjë detyrim në pranimin e Islamit 2:256
+- një fe me besime dhe kode të ndryshme ligjore 5:48; 22:67-70; 42:13-14
+- profetët e Islamit 2:135-136; 3:84; 4:163-165
+- urdhërimet (ki besim në Allah dhe bëj mirë) 4:36; 6:151-154; 17:23-39; 18:107-108
+- pesë objektivat e Sheriatit: mbrojtja e besimit 5:54
+- mbrojtja e jetës 5:32; 6:151
+- mbrojtja e pasurisë 5:38
+- mbrojtja e nderit 5:5; 24:4
 - mbrojtja e aftësisë së dikujt për të menduar 5:90.
 Besimi në Allah 2:255
-- Cilësi hyjnore, Emra të Bukur 57:1-6; 59:22-24; 85:13-16; 112:1-4;
-- i vetmi zot i denjë për adhurim 1:1-4; 2:285; 6:3; 43:84;
-- i gjithë autoriteti i përket Atij 3:26; Froni i Tij ('Arsh) 7:54; 11:7;
-- Kursija e Tij (shtroja e këmbëve ose karrige) 2:255;
-- favore të panumërta mbi njerëzimin 14:32-34; 2:164; 16:2-93; 31:20; 55:1-25;
-- jep jetë dhe shkakton vdekje 44:8; 53:44; 57:2; 67:2;
-- sjell gëzim dhe trishtim 53:43;
-- jep furnizime të bollshme ose të kufizuara 13:26; 17:30; 29:62;
-- Më i miri nga të gjithë gjyqtarët 95:8;
-- Më i Mëshirshmi i mëshiruesve 12:92;
-- i do të drejtët 85:14;
-- plot Falje dhe i ashpër në ndëshkim 13:6, 40:3;
-- i Pari dhe i Fundit 57:3;
-- gjithë nderi dhe pushteti i përkasin Atij 35:10;
-- e njeh të panjohurën dhe sheh të padukshmen 6:59,73; 9:94, 105; 13:8-10; 31:34; 32:6; 34:48; 35:38; 39:46; 49:18; 59:22; 62:8; 64:18; 72:26; 74:31; 87:7;
-- e di më mirë se çfarë fshihet në zemër 5:7; 11:5; 31:23;
-- e di çfarë ka ndodhur dhe çfarë pritet të ndodhë 2:255;
-- shkroi gjithçka në Regjistrin (ose Pllakën e Ruajtur) 6:38; 13:39; 36:12;
-- i aftë të bëjë çdo gjë 2:117; 3:189; 8:41; 9:116; 11:4; 16:40; 40:68; 41:39; 42:49;57:2;
-- Fuqia e Tij e pafundme 3:26-27; 24:45; 31:28-30;
-- krijoi qiejt dhe tokën në gjashtë ditë dhe nuk u lodh kurrë 46:33; 50:38;
-- krijon me fjalën 'Bëhu!' 36:81-83;
-- kurrë i padrejtë ndaj krijimit të Tij 3:108; 4:40; 17:71; 21:47; 22:10; 26:209; 40:31; 41:46; 45:22; 50:29; 64:11; 78:6-16;
-- çdo gjë i nënshtrohet Vullnetit të Tij 3:83; 22:18; 30:26;
-- të gjithë kanë nevojë për Të 11:6; 35:15; 55:29;
-- beso tek Ai 10:84-85; 12:67; 25:58;
-- format e komunikimit hyjnor 42:51;
-- i denjë për t’u kujtuar 2:21; 3:102; 4:1; 33:70-71; 59:18;
-- dituria është një dhuratë prej Tij 2:269;
-- Ai nuk ka nevojë për askënd 3:97; 6:133; 112:2;
-- asnjë në një Trinitet 4:171;
-- nuk ka partner 6:101;
-- nuk ka fëmijë 10:68; 19:35; 43:81; 72:3; 112:3;
-- nuk ka partnerë ose zota shoqërues 6:94; 7:191-195; 46:4-5;
+- Cilësi hyjnore, Emra të Bukur 57:1-6; 59:22-24; 85:13-16; 112:1-4
+- i vetmi zot i denjë për adhurim 1:1-4; 2:285; 6:3; 43:84
+- i gjithë autoriteti i përket Atij 3:26; Froni i Tij ('Arsh) 7:54; 11:7
+- Kursija e Tij (shtroja e këmbëve ose karrige) 2:255
+- favore të panumërta mbi njerëzimin 14:32-34; 2:164; 16:2-93; 31:20; 55:1-25
+- jep jetë dhe shkakton vdekje 44:8; 53:44; 57:2; 67:2
+- sjell gëzim dhe trishtim 53:43
+- jep furnizime të bollshme ose të kufizuara 13:26; 17:30; 29:62
+- Më i miri nga të gjithë gjyqtarët 95:8
+- Më i Mëshirshmi i mëshiruesve 12:92
+- i do të drejtët 85:14
+- plot Falje dhe i ashpër në ndëshkim 13:6, 40:3
+- i Pari dhe i Fundit 57:3
+- gjithë nderi dhe pushteti i përkasin Atij 35:10
+- e njeh të panjohurën dhe sheh të padukshmen 6:59,73; 9:94, 105; 13:8-10; 31:34; 32:6; 34:48; 35:38; 39:46; 49:18; 59:22; 62:8; 64:18; 72:26; 74:31; 87:7
+- e di më mirë se çfarë fshihet në zemër 5:7; 11:5; 31:23
+- e di çfarë ka ndodhur dhe çfarë pritet të ndodhë 2:255
+- shkroi gjithçka në Regjistrin (ose Pllakën e Ruajtur) 6:38; 13:39; 36:12
+- i aftë të bëjë çdo gjë 2:117; 3:189; 8:41; 9:116; 11:4; 16:40; 40:68; 41:39; 42:49;57:2
+- Fuqia e Tij e pafundme 3:26-27; 24:45; 31:28-30
+- krijoi qiejt dhe tokën në gjashtë ditë dhe nuk u lodh kurrë 46:33; 50:38
+- krijon me fjalën 'Bëhu!' 36:81-83
+- kurrë i padrejtë ndaj krijimit të Tij 3:108; 4:40; 17:71; 21:47; 22:10; 26:209; 40:31; 41:46; 45:22; 50:29; 64:11; 78:6-16
+- çdo gjë i nënshtrohet Vullnetit të Tij 3:83; 22:18; 30:26
+- të gjithë kanë nevojë për Të 11:6; 35:15; 55:29
+- beso tek Ai 10:84-85; 12:67; 25:58
+- format e komunikimit hyjnor 42:51
+- i denjë për t’u kujtuar 2:21; 3:102; 4:1; 33:70-71; 59:18
+- dituria është një dhuratë prej Tij 2:269
+- Ai nuk ka nevojë për askënd 3:97; 6:133; 112:2
+- asnjë në një Trinitet 4:171
+- nuk ka partner 6:101
+- nuk ka fëmijë 10:68; 19:35; 43:81; 72:3; 112:3
+- nuk ka partnerë ose zota shoqërues 6:94; 7:191-195; 46:4-5
 - asgjë si Ai 42:11; 112:4
 Urdhër për të reflektuar mbi mrekullitë e krijimit të Tij 3:190; 6:99; 10:5-6; 13:3-4; 16:10-16; 88:17-20
 Shenjat në krijim 2:164; 6:95-99; 7:57-58; 10:5-6; 13:2-4; 16:10-13, 65-69, 79; 23:27-30; 27:60-65; 30:19-25; 50:6-11
@@ -1931,21 +1930,21 @@ Shenjat në krijim 2:164; 6:95-99; 7:57-58; 10:5-6; 13:2-4; 16:10-13, 65-69, 79;
 - shi i imët, breshër dhe shi 2:265; 6:99; 24:43; 50:9-11
 - bubullima dhe vetëtima 13:12-13
 Referenca shkencore
-- njerëzit e krijuar nga gametet mashkullore dhe femërore 76:2;
-- fazat e formimit dhe zhvillimit të një embrioni 22:5; 23:12-14;
-- fetusi në tre shtresa errësire 39:6;
-- ujë i kripur 25:53-54; 35:12; 55:19-20;
-- pjalmimi me erë 15:22;
-- gjurmët e gishtërinjve 75:3-4;
-- malet si kunja 78:7;
-- hekuri i zbritur 57:25;
-- receptorët e dhimbjes 4:56;
-- dielli si një burim rrezatimi dhe hëna si një dritë e reflektuar 10:5;
-- ndarja e hënës 54:1;
-- qielli si një tendë e mbrojtur mirë 21:32;
-- të gjitha qeniet e krijuara nga uji 21:30; 24:45;
-- milingonat komunikojnë 27:17-19;
-- valët e brendshme 24:40;
+- njerëzit e krijuar nga gametet mashkullore dhe femërore 76:2
+- fazat e formimit dhe zhvillimit të një embrioni 22:5; 23:12-14
+- fetusi në tre shtresa errësire 39:6
+- ujë i kripur 25:53-54; 35:12; 55:19-20
+- pjalmimi me erë 15:22
+- gjurmët e gishtërinjve 75:3-4
+- malet si kunja 78:7
+- hekuri i zbritur 57:25
+- receptorët e dhimbjes 4:56
+- dielli si një burim rrezatimi dhe hëna si një dritë e reflektuar 10:5
+- ndarja e hënës 54:1
+- qielli si një tendë e mbrojtur mirë 21:32
+- të gjitha qeniet e krijuara nga uji 21:30; 24:45
+- milingonat komunikojnë 27:17-19
+- valët e brendshme 24:40
 Qenie të gjalla
 - engjëjt 39:75
 - njerëzit (një autoritet në tokë) 2:30; 6:165; 16:4
@@ -1978,366 +1977,366 @@ Qenie të gjalla
 - merimangë 29:41
 - të tjerë të panjohur për ne 16:8
 Bimët dhe frutat 6:99; 13:4; 16:11; 36:33-35
-- banane 56:29,
-- datat 19:25,
-- barishte, kastraveca, hudhër, thjerrëza dhe qepë 2:61,
-- rrush 80:28,
-- ullinj 6:99,
-- fig. 95:1,
-- shegë 55:68,
+- banane 56:29
+- datat 19:25
+- barishte, kastraveca, hudhër, thjerrëza dhe qepë 2:61
+- rrush 80:28
+- ullinj 6:99
+- fig. 95:1
+- shegë 55:68
 - kungull 37:146
 Besimi në Muhamedin
-- Cilësitë, vetëm një profet 3:144; 6:50; 7:188; 18:110;
-- për të shpallur të vërtetën 2:119; 35:24; 42:48;
-- vula e profetëve 33:40;
-- karakter fisnik 3:159; 68:4;
-- një model për t’u ndjekur 33:21;
-- si një nder për besimtarët 3:164;
-- një mëshirë për të gjithë botën 21:107;
-- një lajmëtar universal 4:170; 7:157-158; 34:28;
-- të çon në Shtegun e Drejtë 42:52-53;
-- kujdeset për njerëzit 9:129;
-- si dëshmitar në Ditën e Gjykimit 4:42; 16:89;
-- profet i pashkolluar 7:157-158; 29:48; 62:2;
-- profetizuar në Tora dhe Ungjill 7:157;
+- Cilësitë, vetëm një profet 3:144; 6:50; 7:188; 18:110
+- për të shpallur të vërtetën 2:119; 35:24; 42:48
+- vula e profetëve 33:40
+- karakter fisnik 3:159; 68:4
+- një model për t’u ndjekur 33:21
+- si një nder për besimtarët 3:164
+- një mëshirë për të gjithë botën 21:107
+- një lajmëtar universal 4:170; 7:157-158; 34:28
+- të çon në Shtegun e Drejtë 42:52-53
+- kujdeset për njerëzit 9:129
+- si dëshmitar në Ditën e Gjykimit 4:42; 16:89
+- profet i pashkolluar 7:157-158; 29:48; 62:2
+- profetizuar në Tora dhe Ungjill 7:157
 - parathënë nga Jezusi 61:6
 Sfidat me të cilat u përball Profeti ( paqja qoftë mbi të )
-- kërkesat e pakuptimta të paganëve 8:32; 15:7; 17:89-93; 25:7-8;
-- akuza të rreme 10:2; 11:13; 21:5; 24:11-26; 25:4-6; 37:36; 38:4; 52:29-30;
-- atentat ndaj jetës së tij 8:30; 9:74;
-- paralajmërim për ata që e dëmtojnë ose e kundërshtojnë atë 4:115; 8:13; 9:61; 15:95; 33:57; 47:32; 96:9-19;
-- urdhëruar t’i përgjigjen mohimit me durim 20:130; 30:60; 46:35; 70:5;
+- kërkesat e pakuptimta të paganëve 8:32; 15:7; 17:89-93; 25:7-8
+- akuza të rreme 10:2; 11:13; 21:5; 24:11-26; 25:4-6; 37:36; 38:4; 52:29-30
+- atentat ndaj jetës së tij 8:30; 9:74
+- paralajmërim për ata që e dëmtojnë ose e kundërshtojnë atë 4:115; 8:13; 9:61; 15:95; 33:57; 47:32; 96:9-19
+- urdhëruar t’i përgjigjen mohimit me durim 20:130; 30:60; 46:35; 70:5
 - i urdhëruar i qetësuar nga Allahu 5:67; 93:1-11; 94:1-8
 Mësime nga jeta e Profetit ( paqja dhe bekimet e Allahut qofshin mbi të )
-- nga emigrimi i tij (hixhreti) deri në Betejën e Bedrit 3:121-129; 8:42-44; 8:65-71;
-- Beteja e Uhudit 3:151-180;
-- Beteja e Hendekut 33:9-27;
-- Beteja e Hunainit 9:25-27;
-- Medine 9:40; Tebuku 9:38-123;
-- Benu En-Nadir 59:2-6;
-- Hamra' El-Asad 3:172-175;
+- nga emigrimi i tij (hixhreti) deri në Betejën e Bedrit 3:121-129; 8:42-44; 8:65-71
+- Beteja e Uhudit 3:151-180
+- Beteja e Hendekut 33:9-27
+- Beteja e Hunainit 9:25-27
+- Medine 9:40
+- Tebuku 9:38-123
+- Benu En-Nadir 59:2-6
+- Hamra' El-Asad 3:172-175
 - Armëpushimi i Hudejbijes 48:1-7; 48:10-29
 Nderimet e dhëna Profetit ( paqja qoftë mbi të )
-- Allahu dhe engjëjt e Tij e bekojnë atë 33:56;
-- udhëtim natën nga Meka në Jerusalem 17:1;
-- udhëtim drejt qiejve 53:1-18;
-- të nderuar në këtë jetë dhe në tjetrën 17:79; 66:8; 108:1;
-- bindja ndaj tij është bindje ndaj Allahut 4:80;
-- shpërblimi i bindjes ndaj Allahut dhe të Dërguarit të Tij 4:69;
-- familja e tij pastrohet 33:33-34;
-- e sheh Gabrielin në formën e tij të vërtetë 53:1-18;
-- besimtarëve iu urdhërua t'i bindeshin atij 59:7;
+- Allahu dhe engjëjt e Tij e bekojnë atë 33:56
+- udhëtim natën nga Meka në Jerusalem 17:1
+- udhëtim drejt qiejve 53:1-18
+- të nderuar në këtë jetë dhe në tjetrën 17:79; 66:8; 108:1
+- bindja ndaj tij është bindje ndaj Allahut 4:80
+- shpërblimi i bindjes ndaj Allahut dhe të Dërguarit të Tij 4:69
+- familja e tij pastrohet 33:33-34
+- e sheh Gabrielin në formën e tij të vërtetë 53:1-18
+- besimtarëve iu urdhërua t'i bindeshin atij 59:7
 - etiketa e të folurit me të 49:1-5
-- etiketa e vizitës tek ai 33:53;
-- etiketa e sjelljes me gratë e tij 33:53;
-- Allahu është i kënaqur me të dhe me shokët e tij 9:100; 9:117;
+- etiketa e vizitës tek ai 33:53
+- etiketa e sjelljes me gratë e tij 33:53
+- Allahu është i kënaqur me të dhe me shokët e tij 9:100; 9:117
 - shkëlqimi i besimit të tij - bashkësia 2:143; 3:110
-Namazi (salah) 2:45; 9:103; 51:18; 70:22-23; 75:31; 96:10; 108:2;
-- Kongregacioni i së premtes 62:9;
-- drejtimi i namazit (kibla) 2:144; 2:149-150;
-- duhet ta largojë dikë nga veprat e këqija 29:45;
-- herë 11:114; 17:78; 17:79; 20:130; 24:36; 24:58; 30:17-18; 32:16; 38:18; 50:39-40; 51:17; 52:48-49; 73:2-4; 76:25-26;
-- ndërsa është në rrezik ose në një udhëtim 2:239; 4:101-102;
-- paralajmërim për ata që i lënë pas dore lutjet 19:59; 74:38-47; 107:5-7;
+Namazi (salah) 2:45; 9:103; 51:18; 70:22-23; 75:31; 96:10; 108:2
+- Kongregacioni i së premtes 62:9
+- drejtimi i namazit (kibla) 2:144; 2:149-150
+- duhet ta largojë dikë nga veprat e këqija 29:45
+- herë 11:114; 17:78; 17:79; 20:130; 24:36; 24:58; 30:17-18; 32:16; 38:18; 50:39-40; 51:17; 52:48-49; 73:2-4; 76:25-26
+- ndërsa është në rrezik ose në një udhëtim 2:239; 4:101-102
+- paralajmërim për ata që i lënë pas dore lutjet 19:59; 74:38-47; 107:5-7
 - lutjet e hipokritëve 4:142; 9:54
-Pastrim, abdes (wudu) 5:6;
-- banjë e plotë (ghusl) 2:222; 4:43;
+Pastrim, abdes (wudu) 5:6
+- banjë e plotë (ghusl) 2:222; 4:43
 - larje e thatë (tejammum) 4:43; 5:6
 Lutje (du'a)
-- e Abrahamit 2:126-129; 2:126-129; 14:35-41; 26:83-89;
-- Adami dhe Eva 7:23;
-- Jezusi 5:114;
-- Jobi 21:83; 21:83;
-- Jona 21:87;
-- Jozefi 12:33; 12:101;
-- Moisiu 10:88-89; 20:25-35;
+- e Abrahamit 2:126-129; 2:126-129; 14:35-41; 26:83-89
+- Adami dhe Eva 7:23
+- Jezusi 5:114
+- Jobi 21:83; 21:83
+- Jona 21:87
+- Jozefi 12:33; 12:101
+- Moisiu 10:88-89; 20:25-35
 - Muhamedi 17:80; 20:114
-- Noeu 23:26; 26:117-118; 54:9-10; 71:26; 71:28;
-- Salomoni 38:35;
-- Shuajb 7:89;
-- Zakaria 3:38; 19:2-6; 21:89-90;
-- engjëjt 40:8-9;
-- Nëna e Marisë 3:35-36;
-- Gruaja e Faraonit 66:11;
-- Magjistarët e Faraonit 7:126;
-- Mbreti Saul dhe besimtarët me të 2:250;
-- besimtarët e Bijve të Izraelit 10:85-86;
-- njerëzit e shpellës 18:10;
-- të drejtët 2:285-286; 3:8-9; 3:16; 3:147; 3:191-194; 25:74; 59:10;
+- Noeu 23:26; 26:117-118; 54:9-10; 71:26; 71:28
+- Salomoni 38:35
+- Shuajb 7:89
+- Zakaria 3:38; 19:2-6; 21:89-90
+- engjëjt 40:8-9
+- Nëna e Marisë 3:35-36
+- Gruaja e Faraonit 66:11
+- Magjistarët e Faraonit 7:126
+- Mbreti Saul dhe besimtarët me të 2:250
+- besimtarët e Bijve të Izraelit 10:85-86
+- njerëzit e shpellës 18:10
+- të drejtët 2:285-286; 3:8-9; 3:16; 3:147; 3:191-194; 25:74; 59:10
 - të shtypurit 4:75
 Vargjet e sexhdes
 - sexhadet, shumësi i sexhdes, 7:206; 13:15; 16:49; 17:109; 19:58; 22:18; 22:77; 25:60; 27:26; 32:15; 38:24; 41:37; 53:62; 84:21; 96:19
-Taksa e lëmoshës (zekati), si detyrim 2:110; 2:177; 2:277; 6:141;
-- një nga cilësitë e besimtarëve 22:41; 23:4; 51:19;
+Taksa e lëmoshës (zekati), si detyrim 2:110; 2:177; 2:277; 6:141
+- një nga cilësitë e besimtarëve 22:41; 23:4; 51:19
 - marrësit 9:60
 - bamirësi (sadaka) 2:177; 2:261-263; 2:267-274; 3:92; 63:10
 - paralajmërim për ata që nuk flasin 3:180; 9:34; 47:38
 Agjërimi (savm)
-- në Ramazan 2:183-185;
-- orë agjërimi 2:187;
-- përjashtimet 2:184-185;
-- marrëdhënie intime gjatë natës që i paraprin agjërimit 2:187;
+- në Ramazan 2:183-185
+- orë agjërimi 2:187
+- përjashtimet 2:184-185
+- marrëdhënie intime gjatë natës që i paraprin agjërimit 2:187
 - agjërimi gjatë pelegrinazhit 2:196
-Pelegrinazhi (haxhi),
-- një detyrim për ata që kanë mundësi ta përballojnë 3:97;
-- ritualet dhe vendimet 2:158; 2:189; 2:196-203; 5:2; 22:26-37;
-- ofertat e flijimit 2:196; 22:36-37;
-- ndalimi i gjuetisë në tokë gjatë pelegrinazhit 5:1; 5:94-95;
+Pelegrinazhi (haxhi)
+- një detyrim për ata që kanë mundësi ta përballojnë 3:97
+- ritualet dhe vendimet 2:158; 2:189; 2:196-203; 5:2; 22:26-37
+- ofertat e flijimit 2:196; 22:36-37
+- ndalimi i gjuetisë në tokë gjatë pelegrinazhit 5:1; 5:94-95
 - lejueshmëria e gjuetisë në det 5:96
 - Haxhi i vogël (umre) 2:158; 2:196
 Komunitetet fetare
-- Myslimanët 2:132-136; 3:64; 3:84; 5:111; 22:77-78; 33:35; 41:33; 43:67-70; 72:14-15;
-- kujdestarë të njëri-tjetrit 3:28; 9:71;
-- Të krishterët 2:62; 2:111-140; 4:171-172; 5:14-19; 5:82-86; 5:116-120; 9:30-31; 22:17;
-- Hebrenjtë 2:62, 111-140; 5:44-45; 6:146; 22:17; 62:6-8;
-- Fëmijët e Izraelit 2:40-103, 122-123, 246-251; 3:49; 3:93-94; 5:12-13, 20-26, 32, 70-71, 78-81; 7:137-141, 148-153, 159-171; 10:83-93; 14:5-8; 17:2-8, 104; 20:80-98; 26:52-67, 197; 27:76; 44:23-33; 45:16-17; 46:10; 61:5-6;
+- Myslimanët 2:132-136; 3:64; 3:84; 5:111; 22:77-78; 33:35; 41:33; 43:67-70; 72:14-15
+- kujdestarë të njëri-tjetrit 3:28; 9:71
+- Të krishterët 2:62; 2:111-140; 4:171-172; 5:14-19; 5:82-86; 5:116-120; 9:30-31; 22:17
+- Hebrenjtë 2:62, 111-140; 5:44-45; 6:146; 22:17; 62:6-8
+- Fëmijët e Izraelit 2:40-103, 122-123, 246-251; 3:49; 3:93-94; 5:12-13, 20-26, 32, 70-71, 78-81; 7:137-141, 148-153, 159-171; 10:83-93; 14:5-8; 17:2-8, 104; 20:80-98; 26:52-67, 197; 27:76; 44:23-33; 45:16-17; 46:10; 61:5-6
 - Ithtarët e Librit (kryesisht hebrenj dhe të krishterë) 2:109; 3:64-115, 199; 4:123-172; 5:15-77; 6:20-21; 13:36; 28:52-55; 29:46-47; 57:16, 28-29; 74:31; 98:1-5
 - Muslimanët mund të hanë nga kafshët e sakrifikuara prej tyre dhe të martohen me gratë e tyre 5:5
-- ushqime të ndaluara për hebrenjtë 6:146;
-- Sabianët 2:62; 22:17;
-- Magjistarët 22:17;
-- politeistët (paganët, adhuruesit e idhujve) 3:186; 6:148; 9:6, 17; 10:28; 16:86; 22:17; 53:19-30;
-- praktikat supersticioze pagane 2:189; 5:103; 6:138-144;
+- ushqime të ndaluara për hebrenjtë 6:146
+- Sabianët 2:62; 22:17
+- Magjistarët 22:17
+- politeistët (paganët, adhuruesit e idhujve) 3:186; 6:148; 9:6, 17; 10:28; 16:86; 22:17; 53:19-30
+- praktikat supersticioze pagane 2:189; 5:103; 6:138-144
 - ateistët 52:35-36
 Praktikat pagane të ndaluara
-- varrosja e vajzave të gjalla 16:58-59; 81:8-9;
-- vrasja e fëmijëve nga frika e varfërisë 6:137; 6:151; 17:31;
-- fishkëllima dhe duartrokitje rreth Qabes 8:35;
-- kushtimi i deveve për idhuj 5:103; 6:136;
-- flijimi në emër të idhujve 6:121;
-- zihar divorci 33:4; 58:2-4;
-- ila' (për më shumë se katër muaj) 2:226-227;
-- hedhja e shortit për vendimet 5:3;
-- duke u rrotulluar rreth Qabes lakuriq 7:26-28;
+- varrosja e vajzave të gjalla 16:58-59; 81:8-9
+- vrasja e fëmijëve nga frika e varfërisë 6:137; 6:151; 17:31
+- fishkëllima dhe duartrokitje rreth Qabes 8:35
+- kushtimi i deveve për idhuj 5:103; 6:136
+- flijimi në emër të idhujve 6:121
+- zihar divorci 33:4; 58:2-4
+- ila' (për më shumë se katër muaj) 2:226-227
+- hedhja e shortit për vendimet 5:3
+- duke u rrotulluar rreth Qabes lakuriq 7:26-28
 - hyrja në shtëpi nga dyert e pasme pas pelegrinazhit 2:189
-Objektet e adhurimit,
-- engjëj (midis disa arabëve paganë) 34:40;
-- El-Ajke (midis popullit të Shuajbit) 26:176;
-- Ba'l (midis popullit të Elias 37:125;
-- Jezusi (në Krishterim) 5:17;
-- idhujt (midis popullit të Abrahamit) 21:52-53;
-- idhujt e Latit, Uzës dhe Manatit (midis paganëve arabë) 53:19-20;
-- idhujt e Uadit, Suvasë, Jaguthit, Jaukut dhe Nasrit (midis popullit të Nuhut) 71:23;
-- dielli (populli i Shebës) 27:24;
-- Siriusi (midis disa arabëve paganë) 53:49;
-- Faraoni (në Egjiptin e lashtë) 26:29; 28:38; 79:24;
-- dëshirat 25:43-44; 45:23;
+Objektet e adhurimit
+- engjëj (midis disa arabëve paganë) 34:40
+- El-Ajke (midis popullit të Shuajbit) 26:176
+- Ba'l (midis popullit të Elias 37:125
+- Jezusi (në Krishterim) 5:17
+- idhujt (midis popullit të Abrahamit) 21:52-53
+- idhujt e Latit, Uzës dhe Manatit (midis paganëve arabë) 53:19-20
+- idhujt e Uadit, Suvasë, Jaguthit, Jaukut dhe Nasrit (midis popullit të Nuhut) 71:23
+- dielli (populli i Shebës) 27:24
+- Siriusi (midis disa arabëve paganë) 53:49
+- Faraoni (në Egjiptin e lashtë) 26:29; 28:38; 79:24
+- dëshirat 25:43-44; 45:23
 - besimi në perëndi të shumëfishta hidhet poshtë 17:42-43; 21:21-24; 25:3
-Vendet e adhurimit, xhamitë 9:18;
-- kisha, sinagoga dhe manastire 22:40;
-- shenjtërorja 3:39; 38:21;
+Vendet e adhurimit, xhamitë 9:18
+- kisha, sinagoga dhe manastire 22:40
+- shenjtërorja 3:39; 38:21
 - tempulli 17:7
 - Tituj fetarë, priftërinj, murgj dhe rabinë 5:44; 5:63; 5:82; 9:31-34
-Engjëj,
+Engjëj
 - pyesni rreth krijimit të Adamit 2:30-34
-- mos i bindesh kurrë Allahut 21:26-27; 66:6;
-- nuk janë bijat e Allahut 21:26; 43:16-19;
-- engjëj mbrojtës 13:11;
-- dy engjëj që regjistrojnë 50:16-18; 82:10-12;
-- tetë që mbajnë Fronin e Allahut në Ditën e Gjykimit 69:17;
-- nëntëmbëdhjetë roje të Ferrit 74:26-31;
-- Engjëjt e Vdekjes 6:93; 16:28; 32:11;
-- Gabrieli 2:97; 66:4; 26:192-195; 53:1-14;
-- Mikaeli 2:98;
+- mos i bindesh kurrë Allahut 21:26-27; 66:6
+- nuk janë bijat e Allahut 21:26; 43:16-19
+- engjëj mbrojtës 13:11
+- dy engjëj që regjistrojnë 50:16-18; 82:10-12
+- tetë që mbajnë Fronin e Allahut në Ditën e Gjykimit 69:17
+- nëntëmbëdhjetë roje të Ferrit 74:26-31
+- Engjëjt e Vdekjes 6:93; 16:28; 32:11
+- Gabrieli 2:97; 66:4; 26:192-195; 53:1-14
+- Mikaeli 2:98
 - Malik 43:77
 Lajmëtarët
-- nga mesi i engjëjve dhe njerëzve 22:75;
+- nga mesi i engjëjve dhe njerëzve 22:75
 - Të Dërguarit me Vendosmëri të Patundur (Abrahami, Nuhu, Moisiu, Jezusi dhe Muhamedi ﷺ ) 33:7; 42:13; 46:35
 Shkrimet e Shenjta
-- Kurani, një zbulesë nga Allahu 12:2-3; 20:2-4; 26:192-195; 32:2-3;
-- një përkujtues për të gjithë botën 68:51-52;
-- udhëzon drejt rrugës më të drejtë të jetës 17:9;
-- shpallja filloi në muajin e Ramazanit 2:185;
-- në një natë të bekuar 44:3;97:1-5;
-- zbuluar në fazat 17:105-106;
-- e lehtë për t’u mbajtur mend 54:17;
-- konfirmon të vërtetën në zbulesat e mëparshme 3:3-4;
-- një autoritet suprem mbi shkrimet e shenjta të mëparshme 5:48;
-- pa dyshim në të 2:2; 10:37;
-- pa kundërshtime 4:82;
-- jo i sajuar 10:37-39;
-- nuk është kopjuar nga Bibla 25:4-6;
-- nuk është zbuluar nga djajtë 26:210-212;
+- Kurani, një zbulesë nga Allahu 12:2-3; 20:2-4; 26:192-195; 32:2-3
+- një përkujtues për të gjithë botën 68:51-52
+- udhëzon drejt rrugës më të drejtë të jetës 17:9
+- shpallja filloi në muajin e Ramazanit 2:185
+- në një natë të bekuar 44:3;97:1-5
+- zbuluar në fazat 17:105-106
+- e lehtë për t’u mbajtur mend 54:17
+- konfirmon të vërtetën në zbulesat e mëparshme 3:3-4
+- një autoritet suprem mbi shkrimet e shenjta të mëparshme 5:48
+- pa dyshim në të 2:2; 10:37
+- pa kundërshtime 4:82
+- jo i sajuar 10:37-39
+- nuk është kopjuar nga Bibla 25:4-6
+- nuk është zbuluar nga djajtë 26:210-212
 - askush nuk mund të prodhojë diçka të tillë 17:88; 2:23-24; 10:13-14; 11:13
-- i mbrojtur nga prishja 15:9;
-- i mbrojtur në Pllakën e Ruajtur 56:75-80;
-- nuk mund të provohet të jetë i rremë 41:42;
-- parathotë ngjarjet e ardhshme 30:1-7; 48:27;
-- i prek besimtarët deri në lot 5:83; 17:107-109;
-- prek zemrat 39:23;
-- dritë e shkëlqyer 4:174; 42:52;
+- i mbrojtur nga prishja 15:9
+- i mbrojtur në Pllakën e Ruajtur 56:75-80
+- nuk mund të provohet të jetë i rremë 41:42
+- parathotë ngjarjet e ardhshme 30:1-7; 48:27
+- i prek besimtarët deri në lot 5:83; 17:107-109
+- prek zemrat 39:23
+- dritë e shkëlqyer 4:174; 42:52
 - shërim dhe mëshirë për besimtarët 17:82
 - Tora 3:3; 3:93; 5:46; 5:66-68, 110; 7:157; 9:111; 48:29; 61:6; 62:5
-- Ungjilli 3:3; 48; 5:46-47, 66-68, 77, 110; 7:157; 9:111; 48:29; 57:27
+- Ungjilli 3:3, 48; 5:46-47, 66-68, 77, 110; 7:157; 9:111; 48:29; 57:27
 - Psalmet 4:163; 17:55
 - Rrotullat e Abrahamit 53:36-44; 87:14-19
-Fati dhe paracaktimi 3:145; 9:51; 10:107; 11:6; 54:49; 67:30;
+Fati dhe paracaktimi 3:145; 9:51; 10:107; 11:6; 54:49; 67:30
 - zgjedhje e lirë 6:148-150; 11:118-119; 16:93; 33:72-73; 39:41; 76:1-3; 91:1-10
-Dita e Gjykimit,
-- pa padrejtësi 2:281; 18:49; 40:17;
-- tmerret e apokalipsit 22:1-2; 27:82-84, 87; 40:18; 52:11-16; 69:13-18; 70:8-18; 73:17-18; 75:7-15; 77:8-15; 78:17-20; 79:34-36; 80:33-42; 81:1-14; 82:1-5; 84:1-5; 87:17-40; 99:1-8; 101:1-11;
-- të drejtët dhe të ligjtë në atë Ditë 11:105-108; 16:27-33, 84-89; 18:52-53; 20:100-111; 25:24-29; 30:12-16; 33:63-68; 39:68-75; 50:20-35; 55:37-41; 83:4-36;
+Dita e Gjykimit
+- pa padrejtësi 2:281; 18:49; 40:17
+- tmerret e apokalipsit 22:1-2; 27:82-84, 87; 40:18; 52:11-16; 69:13-18; 70:8-18; 73:17-18; 75:7-15; 77:8-15; 78:17-20; 79:34-36; 80:33-42; 81:1-14; 82:1-5; 84:1-5; 87:17-40; 99:1-8; 101:1-11
+- të drejtët dhe të ligjtë në atë Ditë 11:105-108; 16:27-33, 84-89; 18:52-53; 20:100-111; 25:24-29; 30:12-16; 33:63-68; 39:68-75; 50:20-35; 55:37-41; 83:4-36
 - ndërmjetësimi (shefa'ah) 2:48, 255; 6:51, 70; 10:3; 21:28; 32:4; 36:23; 39:43-44; 43:86; 53:26;74:48
-Regjistrat e veprave 17:13; 18:49;
-- besimtarët e marrin librin e tyre me dorën e djathtë 69:19-24; 84:7-9;
-- jobesimtarët e marrin regjistrin e tyre me dorën e majtë 69:25-37; 84:10-15;
-- asgjë nuk do t’i fshihet Allahut 21:47; 40:16;
-- peshimi i veprave 7:8; 23:102-104; 101:1-11;
-- dëshmia e organeve trupore 41:19-24; 24:24;
+Regjistrat e veprave 17:13; 18:49
+- besimtarët e marrin librin e tyre me dorën e djathtë 69:19-24; 84:7-9
+- jobesimtarët e marrin regjistrin e tyre me dorën e majtë 69:25-37; 84:10-15
+- asgjë nuk do t’i fshihet Allahut 21:47; 40:16
+- peshimi i veprave 7:8; 23:102-104; 101:1-11
+- dëshmia e organeve trupore 41:19-24; 24:24
 - shpërblim për veprat e mira dhe të këqija 6:160; 27:89-90; 28:84
 Llojet e njerëzve
-- besimtarët 18:107-108;
-- jobesimtarët 4:167-169;
-- hipokritët 4:145; 57:13-15;
-- banorët e Parajsës, besimtarët kryesorë 55:46-61; 56:10-26;
-- banorët e Parajsës, njerëzit e së djathtës 55:62-78; 56:27-40;
-- banorët e Ferrit, njerëzit e së majtës 55:31-45; 56:41-56;
+- besimtarët 18:107-108
+- jobesimtarët 4:167-169
+- hipokritët 4:145; 57:13-15
+- banorët e Parajsës, besimtarët kryesorë 55:46-61; 56:10-26
+- banorët e Parajsës, njerëzit e së djathtës 55:62-78; 56:27-40
+- banorët e Ferrit, njerëzit e së majtës 55:31-45; 56:41-56
 - njerëz në lartësi 7:46-49
 Financiare
-- Udhëzime biznesi 2:188; 2:275; 2:282-283; 4:29; 4:58; 6:152; 17:34-35;
-24:36-37; 26:182; 30:39; 55:7-9; 62:9
-- Trashëgimi, trashëgimi opsionale për jo-trashëgimtarë 2:180-183; 4:11-12;
+- Udhëzime biznesi 2:188; 2:275; 2:282-283; 4:29; 4:58; 6:152; 17:34-35; 24:36-37; 26:182; 30:39; 55:7-9; 62:9
+- Trashëgimi, trashëgimi opsionale për jo-trashëgimtarë 2:180-183; 4:11-12
 para vdekjes gjatë një udhëtimi 5:106-108
 - Ryshfeti 2:188
-- Borxhet, mirësia në mbledhjen e borxheve 2:280;
-- shkrimi dhe dëshmimi i një kontrate borxhi 2:282;
+- Borxhet, mirësia në mbledhjen e borxheve 2:280
+- shkrimi dhe dëshmimi i një kontrate borxhi 2:282
 - marrja e kolateralit 2:283
-- Trashëgimia, udhëzime 4:7; 4:32-33; 8:75;
-- pjesët e pasardhësve dhe prindërve 4:11;
-- bashkëshortët dhe vëllezërit e motrat nga ana e nënës 4:12;
-- vëllezër e motra të plota 4:176;
+- Trashëgimia, udhëzime 4:7; 4:32-33; 8:75
+- pjesët e pasardhësve dhe prindërve 4:11
+- bashkëshortët dhe vëllezërit e motrat nga ana e nënës 4:12
+- vëllezër e motra të plota 4:176
 - paralajmërim për ata që nuk i binden 4:13-14
-- Interesi, ndalimi dhe paralajmërimi 2:275-281; 3:130-132;
+- Interesi, ndalimi dhe paralajmërimi 2:275-281; 3:130-132
 - i bërë pa fitim 30:39
 Ligjore
 - ligji i tradhtisë (hirabah) 5:33-34
-- Drejtësi, duke u mbrojtur drejtësia 4:135; 5:8; 16:90-91;
-- mbrojtja e të drejtave të jetimëve dhe grave 4:127;
-- drejtësi ndaj një hebreu 4:105-112;
-- drejtësi ndaj një pagani 4:58;
+- Drejtësi, duke u mbrojtur drejtësia 4:135; 5:8; 16:90-91
+- mbrojtja e të drejtave të jetimëve dhe grave 4:127
+- drejtësi ndaj një hebreu 4:105-112
+- drejtësi ndaj një pagani 4:58
 - drejtësi me jomuslimanët 60:8-9
 - Hakmarrje nëpërmjet kanaleve ligjore (me mundësinë për të falur) 2:178-179; 5:45; 16:126; 17:33; 42:37-43
-- Ndarja midis burrit dhe gruas, khul' 2:229;
+- Ndarja midis burrit dhe gruas, khul' 2:229
 - lian (akuzë për kurorëshkelje) 24:6-10
 Politike
 - Kryerja e punëve me anë të konsultimit (shura) 3:159; 42:38
-- Luftimi në vetëmbrojtje (xhihad), etiketa 2:190-192; 2:216; 22:38-40;
-- të mos sulmosh pa dallim 4:94;
-- lufta për burrat, gratë dhe fëmijët e shtypur 4:75;
-- mbrojtja e vendeve të adhurimit 22:37;
-- shpërblimi i martirëve 2:154; 3:169-171; 9:111; 57:19;
-- fuqia ushtarake i pengon armiqtë e mundshëm 8:60;
+- Luftimi në vetëmbrojtje (xhihad), etiketa 2:190-192; 2:216; 22:38-40
+- të mos sulmosh pa dallim 4:94
+- lufta për burrat, gratë dhe fëmijët e shtypur 4:75
+- mbrojtja e vendeve të adhurimit 22:37
+- shpërblimi i martirëve 2:154; 3:169-171; 9:111; 57:19
+- fuqia ushtarake i pengon armiqtë e mundshëm 8:60
 - zgjedhja e paqes 2:192; 8:61
 - Bërja e paqes midis palëve 49:9-10
 - Të burgosurit e luftës, trajtimi 8:70; 47:4; 76:8
 Sociale
 - Birësimi 33:4-5
 - Kujdesi për jetimët 2:220; 4:2-10; 4:127; 6:152; 17:34
-- Divorci, arbitrazhi dhe pajtimi 4:35; 4:128;
-- etiketa e divorcit 2:229-231; 65:1-2;
-- prika dhe periudha e pritjes 2:226-241; 4:19-21; 33:49; 65:1-7;
-- burri të mos marrë mbrapsht asgjë nga prika 4:20;
-- gruaja të mos ngacmohet 65:6;
-- gruaja duhet të mbështetet financiarisht gjatë shtatzënisë 65:6;
-- gjatë periudhës së saj të pritjes 65:6;
-- nëse ajo ushqen fëmijën e ish-burrit, 65:6;
-- asnjë prind nuk duhet të vuajë për shkak të fëmijës së tij 2:233;
+- Divorci, arbitrazhi dhe pajtimi 4:35; 4:128
+- etiketa e divorcit 2:229-231; 65:1-2
+- prika dhe periudha e pritjes 2:226-241; 4:19-21; 33:49; 65:1-7
+- burri të mos marrë mbrapsht asgjë nga prika 4:20
+- gruaja të mos ngacmohet 65:6
+- gruaja duhet të mbështetet financiarisht gjatë shtatzënisë 65:6
+- gjatë periudhës së saj të pritjes 65:6
+- nëse ajo ushqen fëmijën e ish-burrit, 65:6
+- asnjë prind nuk duhet të vuajë për shkak të fëmijës së tij 2:233
 - zgjedhja e një infermiereje 65:6
 - Nxitja e së mirës dhe ndalimi i së keqes 3:104; 3:110; 7:157; 9:71-72; 31:17
-- Barazia e qenieve njerëzore 49:13;
-- burra dhe gra para Allahut dhe ligjit, 3:195; 4:124; 5:38; 16:97; 24:2; 40:40;
+- Barazia e qenieve njerëzore 49:13
+- burra dhe gra para Allahut dhe ligjit, 3:195; 4:124; 5:38; 16:97; 24:2; 40:40
 - burrat kanë një shkallë përgjegjësie më të lartë se gratë 2:228
 - Ushqyerja e të varfërve, jetimëve dhe robërve 76:8-9
 - Falja dhe kontrolli i zemërimit 3:134; 42:40
 - Lirimi i skllevërve dhe ndihma ndaj tyre 4:92; 5:89; 9:60; 24:33; 58:3; 90:13
 - Nderimi i prindërve të vet 4:36; 17:23-25; 31:14-15
 - Përulësia 17:37; 31:18-19
-- Interpretimi i ëndrrave të Abrahamit 37:102;
-- Interpretimi i ëndrrave të Jozefit 12:4; 12:36; 12:43;
+- Interpretimi i ëndrrave të Abrahamit 37:102
+- Interpretimi i ëndrrave të Jozefit 12:4; 12:36; 12:43
 - Interpretimi i ëndrrave të Muhamedit 8:43; 48:27
 - Mirësia ndaj jomuslimanëve 60:8
-- Martesa 4:3; 4:129; 16:72; 30:21;
-- gratë e ligjshme dhe të paligjshme për t'u martuar 4:22-24;
-- etiketa e intimitetit 2:222-223;
-- shtatzënia dhe ushqyerja me gji 2:233; 31:4; 46:15; 65:6;
-- rimartesa me ish-gruan e vet 2:230;
-- ndihma për beqarët që të martohen 24:32;
+- Martesa 4:3; 4:129; 16:72; 30:21
+- gratë e ligjshme dhe të paligjshme për t'u martuar 4:22-24
+- etiketa e intimitetit 2:222-223
+- shtatzënia dhe ushqyerja me gji 2:233; 31:4; 46:15; 65:6
+- rimartesa me ish-gruan e vet 2:230
+- ndihma për beqarët që të martohen 24:32
 - duke treguar interes të fshehtë gjatë periudhës së pritjes 2:235
-- Betimet 2:224-225; 16:91-92; 16:94;
+- Betimet 2:224-225; 16:91-92; 16:94
 - duke kompensuar një betim të thyer 5:89
 - Durim në kohë të vështira 2:45; 2:153-157; 3:186; 12:18; 12:83; 16:127-128; 70:5
-- Leja për të hyrë 24:58-60;
-- hyrja në shtëpitë e njerëzve 24:27-28;
+- Leja për të hyrë 24:58-60
+- hyrja në shtëpitë e njerëzve 24:27-28
 - hyrja në vende publike 24:29
-- Etiketa shoqërore, verifikimi i lajmeve 4:83; 49:6;
-- respekt për të gjithë 49:11-12;
-- etiketa e tubimeve 58:11;
+- Etiketa shoqërore, verifikimi i lajmeve 4:83; 49:6
+- respekt për të gjithë 49:11-12
+- etiketa e tubimeve 58:11
 - biseda private 4:114; 58:9
 - Betimet 2:270; 9:75-77; 22:29; 76:7
 - Dobësim dhe koprraci 7:31; 17:29; 25:67
 Histori të tjera
-- Abeli dhe Kaini 5:27-31;
-- El-Khadir dhe Moisiu 18:60-82;
-- Ushtria e Elefantit 105:1-4;
-- besimtari nga populli i Faraonit 40:28-46;
-- lindja e Marisë 3:35-36;
-- Lopa e Bijve të Izraelit 2:67-74;
-- Ezdra 2:259;
+- Abeli dhe Kaini 5:27-31
+- El-Khadir dhe Moisiu 18:60-82
+- Ushtria e Elefantit 105:1-4
+- besimtari nga populli i Faraonit 40:28-46
+- lindja e Marisë 3:35-36
+- Lopa e Bijve të Izraelit 2:67-74
+- Ezdra 2:259
 - pronarët e kopshteve 68:17-32
 - Harut dhe Marut 2:102
 - Korah 28:76-82
-- Këshilla e Lukmanit për të birin 31:12-19;
-- pronari i dy kopshteve 18:32-44;
-- populli i Shebës 34:15-19;
-- njerëzit e shpellës 18:9-26;
-- njerëzit e llogoreve 85:1-8;
-- Shkelësit e Sabatit 7:163-165;
-- Samiri dhe Viçi i Artë 20:83-97;
-- Sauli dhe Samueli 2:247-251;
+- Këshilla e Lukmanit për të birin 31:12-19
+- pronari i dy kopshteve 18:32-44
+- populli i Shebës 34:15-19
+- njerëzit e shpellës 18:9-26
+- njerëzit e llogoreve 85:1-8
+- Shkelësit e Sabatit 7:163-165
+- Samiri dhe Viçi i Artë 20:83-97
+- Sauli dhe Samueli 2:247-251
 - Dhulkarnejn 18:83-98
-Djajtë 2:102; 6:71; 6:112; 6:121; 7:27; 7:30; 17:27; 19:68; 19:83; 22:3-4; 23:97-98; 26:210; 37:7-10; 38:37-38; 67:5;
-- njerëz dhe xhinde djallëzorë 6:112;114:6;
+Djajtë 2:102; 6:71; 6:112; 6:121; 7:27; 7:30; 17:27; 19:68; 19:83; 22:3-4; 23:97-98; 26:210; 37:7-10; 38:37-38; 67:5
+- njerëz dhe xhinde djallëzorë 6:112;114:6
 - qielli i mbrojtur nga demonët 15:16-18
 Keqardhje
-- mosndjekja e Profetit 25:27;
-- mosbindja ndaj Allahut dhe të Dërguarit të Tij 4:41-42; 33:64-68;
-- të kesh miq të këqij 25:28-29; 26:96-102; 43:36-39;
-- mohimi i shenjave të Allahut 6:27-30;
+- mosndjekja e Profetit 25:27
+- mosbindja ndaj Allahut dhe të Dërguarit të Tij 4:41-42; 33:64-68
+- të kesh miq të këqij 25:28-29; 26:96-102; 43:36-39
+- mohimi i shenjave të Allahut 6:27-30
 - nuk punon për botën tjetër 89:23-24
 Lutje të dëshpëruara
-- duke u lutur për kthim në botë 2:167; 6:27-28; 32:12-14; 42:44;
-- për një shans të dytë 35:36-37;
-- të nxirret nga Zjarri 40:10-12;
-- për ushqim dhe ujë 7:51-52;
-- për ndërmjetësuesit 7:52-53;
-- të bëhet pluhur 4:41-42; 78:40;
+- duke u lutur për kthim në botë 2:167; 6:27-28; 32:12-14; 42:44
+- për një shans të dytë 35:36-37
+- të nxirret nga Zjarri 40:10-12
+- për ushqim dhe ujë 7:51-52
+- për ndërmjetësuesit 7:52-53
+- të bëhet pluhur 4:41-42; 78:40
 - për vdekjen 43:74-78
 Cilësitë e të drejtëve
 - respektimi i të drejtave të Krijuesit dhe krijimit të Tij 3:133-136; 4:36; 4:69-70; 6:151-154; 8:2-4; 13:19-24; 17:23-39; 18:107-108; 23:1-11; 25:63-76; 42:36-43
 Cilësitë e të ligjve
-- mosmirënjohës 14:34;
-- koprrac 17:100;
-- i nxituar 21:37;
-- kujtojeni Allahun vetëm në kohë të vështira 10:12; 41:51;
-- i paduruar 70:19;
+- mosmirënjohës 14:34
+- koprrac 17:100
+- i nxituar 21:37
+- kujtojeni Allahun vetëm në kohë të vështira 10:12; 41:51
+- i paduruar 70:19
 - argumentues 18:54
 Mëkatet e mëdha
 - shoqërimi i të tjerëve me Allahun në adhurim (shirk) 4:48; 4:116; 5:72; 6:19; 31:13:
-- abuzimi me prindërit e vet 4:36; 6:151; 17:23;
-- neglizhimi ose braktisja e lutjeve të detyrueshme 19:59-60;
-- mospagimi i taksës së lëmoshës 41:6-7;
-- vrasje 6:151; 17:33;
-- vrasja e qëllimshme e një besimtari 4:93;
-- vjedhje 5:38;
-- mashtrim 7:85; 11:85; 26:182-183; 83:1-6;
-- gënjeshtra 2:10; 9:77; 39:60;
-- gënjeshtra për Allahun 6:93; 29:68; 61:7;
+- abuzimi me prindërit e vet 4:36; 6:151; 17:23
+- neglizhimi ose braktisja e lutjeve të detyrueshme 19:59-60
+- mospagimi i taksës së lëmoshës 41:6-7
+- vrasje 6:151; 17:33
+- vrasja e qëllimshme e një besimtari 4:93
+- vjedhje 5:38
+- mashtrim 7:85; 11:85; 26:182-183; 83:1-6
+- gënjeshtra 2:10; 9:77; 39:60
+- gënjeshtra për Allahun 6:93; 29:68; 61:7
 - marrëdhëniet seksuale të ndaluara 2:222; 17:32; 24:2; 25:68; 29:28-30
-- akuza të rreme për kurorëshkelje 24:4-5;
-- apostazia 2:217; 5:54;
-- ngrënia e derrit dhe ushqimeve të tjera të ndaluara (kërmi, gjak, etj.) 5:3; 6:145;
-- alkooli dhe bixhozi 5:90-91;
-- përgojimi 49:11;
-- dëshmi e rreme 22:30;
+- akuza të rreme për kurorëshkelje 24:4-5
+- apostazia 2:217; 5:54
+- ngrënia e derrit dhe ushqimeve të tjera të ndaluara (kërmi, gjak, etj.) 5:3; 6:145
+- alkooli dhe bixhozi 5:90-91
+- përgojimi 49:11
+- dëshmi e rreme 22:30
 - magjia 2:102; 10:77; 20:69
 """;

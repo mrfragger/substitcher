@@ -5,18 +5,18 @@ Nsuo (Wudu), 4:43; 5:6
 Abraham (Ibrahim) S.14; 2:135-136, 148,; 3:33, 84, 95; 4:54, 125, 163; 6:161; 9:70, 114; 12:6, 38; 16:120; 19:58; 21:51, 60, 62, 69; 22:43, 78; 26:69; 29:31; 33:7; 37:83, 104, 109; 38:45; 42:13; 43:26; 51:24; 53:37; 57:26; 60:4; 87:19
 - a ennye Yudani anaase Kristoni, 3:67-68
 - gyinaa asɔredan a edi kan mu wɔ Bakkah, 3:97; 26:123
-- ma Ka'bah 2:124-129 fapem so;
-- frɛ ne nkurɔfo ma wɔsom Nokware Nyankopɔn Baako 2:130-133; 26:69-89; 29:16; 29:24-27;
+- ma Ka'bah 2:124-129 fapem so
+- frɛ ne nkurɔfo ma wɔsom Nokware Nyankopɔn Baako 2:130-133; 26:69-89; 29:16; 29:24-27
 - gye akyinnye hene ahantanfo 2:258, 259 .
-- bisa owusɔreɛ ho asɛm 2:260;
-- a ennye Yudani anaase Kristoni 3:65-68;
-- bɔ ɔsoro som gu 6:74-87;
-- nsa ka Isak awo ho nsem 11:69-76; 51:24-30;
-- ne mpaebɔ wɔ Ka'bah 14:35-41;
-- a abɔfoɔ akɔsra no 15:51-56;
-- a efata 16:123;
-- frɛ n’agya kɔ nokorɛ mu 19:41-50;
-- see abosom na wogye no firi ogya mu 21:51-73; 37:83-113;
+- bisa owusɔreɛ ho asɛm 2:260
+- a ennye Yudani anaase Kristoni 3:65-68
+- bɔ ɔsoro som gu 6:74-87
+- nsa ka Isak awo ho nsem 11:69-76; 51:24-30
+- ne mpaebɔ wɔ Ka'bah 14:35-41
+- a abɔfoɔ akɔsra no 15:51-56
+- a efata 16:123
+- frɛ n’agya kɔ nokorɛ mu 19:41-50
+- see abosom na wogye no firi ogya mu 21:51-73; 37:83-113
 - frɛ obiara kɔ akwantuo mu 22:26
 Abrar, 3:193, 198, ne nea wɔkyerɛwee; 76:5; 82:13; 83:18-22
 Nsɛm a Wɔatwa mu, 2:106, 16:101
@@ -26,7 +26,7 @@ Adam, 3:33, 59; 5:27; 7:26-27, 31, 35, 172; 17:70; 19:58; 36:60
 - abɔfoɔ a wɔbɛkoto wɔn anim, 2:34; 7:11
 - nimdeɛ dua, 2:35; 7:19-20; 20:120-121
 - a wopam no firi Turo mu (asodie biara nni Hawa so), 2:36; 7:24
-- a Allah de no animuonyam, a Satan asɔ no ahwɛ 2:30-38; 7:11-25; 17:61-65; 18:50; 20:115-123; 38:71-85;
+- a Allah de no animuonyam, a Satan asɔ no ahwɛ 2:30-38; 7:11-25; 17:61-65; 18:50; 20:115-123; 38:71-85
 - a Allah de akyɛ no 2:37; 20:122
 ‘Adiyat, S.100 na ɔkyerɛwee
 ‘Adn Paradise, 9:72; 13:23; 16:31; 18:31; 19:61; 20:76; 35:33; 38:50; 40:8; 61:12; 98:8
@@ -112,7 +112,7 @@ Akraman, 5:60
 Awaefo,47:25
 A’raf, S.7, ne ne deɛ; 7:46, 48
 Arafat, 2:198 na ɔkyerɛwee
-Gye kyin,
+Gye kyin
 - a ennye nkurafoa a wodaadaa won ho no ananmu, 4:107
 - wogyee akyinnye maa won wo ewiase yi mu, nanso hwan na obebe Owusore Da no, 4:109
 Akyinnyegye/Ntuo
@@ -132,7 +132,7 @@ Kari pɛ, 7:8-9; 17:35; 21:47; 55:7-9; 57:25;101:6-9
 Banu An-Nadir, 59:2-6, 13
 Baqarah, S.2 na ɔkyerɛwee
 Bara'a (Hwɛ Taubah), S.9
-Barzakh,(Akwansideɛ), 23:100; 25:53; 55:20;
+Barzakh,(Akwansideɛ), 23:100; 25:53; 55:20
 - nso hwɛ 18:94-97; 34:54; 36:9
 Baiyinah, S.98 na ɔkyerɛwee
 Aboa (Nna a Edi Akyire no mu), 27:82
@@ -181,7 +181,7 @@ Bible, 5:64, 5:65, 5:68
 - a woakyinkyim no, 3:78; 5:14-15
 Nnomaa, 2:260; 3:49; 5:110; 6:38; 12:36, 41; 16:79; 21:79; 22:31; 24:41; 27:16-17, 20; 34:10; 38:19; 56:21; 67:19; 105:3
 Mogya-sika (Diya), 2:178-179; 4:92; 17:33
-Asade, ɔko, 4:94. 8:41; 59:6-8;
+Asade, ɔko, 4:94. 8:41; 59:6-8
 - a wogye no kwan so, 3:162
 - hwe asade
 Adanmude, 2:188
@@ -239,12 +239,12 @@ Adebɔ, .
 Nhwehwɛmu, 2:53, 185; 3:4; 8:29, 41; 21:48; 25:1
 Dahr, (hwɛ Insan,) S.76, ne nea ɔkyerɛwee; 45:24
 - bere, 76:1; 103:1
-Dawid, 5:78; 6:84; 17:55; 34:10, 13; 38:17-30;
+Dawid, 5:78; 6:84; 17:55; 34:10, 13; 38:17-30
 - a wode ama Nnwom 4:163
 - ko na okum Goliat, 2:251
-- twa atemmuo bi 21:78-80;
-- a wode nimdee ne nkɔmhyɛni ahyira no 27:15-16;
-- mmepo ne nnomaa ka ne ho ma woyi Allah ayɛ 34:10; 38:17-20;
+- twa atemmuo bi 21:78-80
+- a wode nimdee ne nkɔmhyɛni ahyira no 27:15-16
+- mmepo ne nnomaa ka ne ho ma woyi Allah ayɛ 34:10; 38:17-20
 - atemmufoa wo nnipa mmienu ntam 38:21-26
 Dawabb anaa Dabbah (abɔdeɛ a ɔte ase a ɔkeka ne ho, ne nea ɛkeka ho) 2:164; 6:38; 8:22, 55; 11:6, 56; 16:49, 61; 22:18; 24:45; 27:82 mu; 29:60;31:10; 34:14; 35:28, 45; 42:29; 45:4
 Wobenyan awufo, 6:36
@@ -254,9 +254,9 @@ Owuo, 3:185; 3:193; 4:78; 6:61; 6:93; 21:35; 23:99-108; 31:34; 32:11; 33:19; 33:
 - saa mpɔtam a wonni adiyisɛm biara no, wɔrensɛe no, 6:131; 9:115; 10:47; 11:117; 15:4; 16:119; 17:15; 28:59
 - nkurofoo a wokum won wo Allah kwan mu no te ase, 2:154; 3:169
 - bere a woguan bane ko Allah ho, 4:100
-- ntumi nsiw ano anaase ntwentwɛn so 63:10-11;
-- nua mmanoma a wada 6:60; 39:42;
-- agyidifoa ne atiafoa wo owuo bere mu 8:50; 16:27-32; 41:30;
+- ntumi nsiw ano anaase ntwentwɛn so 63:10-11
+- nua mmanoma a wada 6:60; 39:42
+- agyidifoa ne atiafoa wo owuo bere mu 8:50; 16:27-32; 41:30
 - asotwe wo adamena mu 40:46
 Ɛka ahorow, 2:280, 282; 4:11-12
 Ahyɛde, .
@@ -303,7 +303,7 @@ Ditch, nnipa a wɔwɔ, 85:4-10
 Sonobi-sonobi
 - a ɛfa nnipa ho, 30:22, 35:27-28
 - a efa nkwa ho, 35:27-28
-Awaregyae, 2:228-232, 236-237, 241; 4:35, 130; 65:1-7;
+Awaregyae, 2:228-232, 236-237, 241; 4:35, 130; 65:1-7
 - akyire bere a wode twɛn no, ɛpete anaasɛ ɛbɛpata, 2:231; 65:2
 - adansefo baanu, 65:2
 - alimony, 2:233, 241. Nkyem
@@ -339,7 +339,7 @@ Awaregyae, Ɔbea
 - gyese awaree no anwie, 33:49
 Akraman, 7:176
 Mfurum (Afunumu), 2:259; 16:8; 31:19; 62:5; 74:50
-Nom,
+Nom
 - a ɔyɛ ɔsadweam, 2:219; 5:90
 - a ɛho tew ne fitaa a ɛyɛ dɛ, 37:45-46; 76:21
 - bobesa a woatoto mu kronkron, 83:25
@@ -362,7 +362,7 @@ Bɔne, 4:123; 10:27-30; 19:83; 59:15
 - asesa, ama papa, 7:95
 - a wodi won akyi, 47:14, 16
 - nnwuma a woasiesie ama won, 47:14
-Mmorosoɔ,
+Mmorosoɔ
 - a woabara wo aduane mu, 5:87
 - wo nyamesom mu, 4:171; 5:77-81
 Aniwa, aso ne nwoma bedi adanse atia nnebɔneyɛfo, 41:20-23
@@ -393,7 +393,7 @@ Fidyah (agyedeɛ), a ɛfa mmuadadi ho, 2:196
 - a wode ama nnommum no, 8:67
 - agyede a atiafoa de ma, 3:91; 5:36,37; 10:54; 13:18
 Mfonini, 95:1
-Reko,
+Reko
 - wo Allah kwan so, tiaa atiafoa, 2:190-193, 244; 4:84, 95; 8:72, 74, 75, ne 10; 9:12-16, 20, 24, 36, 123; 47:4; 61:11
 - a woahyehye no, 2:216
 - wo bosome kronkron mu, 2:217; 9:5
@@ -409,7 +409,7 @@ Fil, S.105
 Firdaus Paradise, 18:107; 23:11
 Ogya, 56:71, 100:2
 Wimhyɛn, 22:73
-Aduane,
+Aduane
 - a ewo mmara so na ennye mmara so, (Halal ne Haram), 2:168, 172, 173; 5:1, 3-5, 88; 6:118-119, 121, 145-146; 16:114-118; 23:51
 - bɔne biara nni ho wɔ nea edii bere a atwam no ho, 5:93
 - nnye mmarato, 5:87
@@ -544,7 +544,7 @@ Hijr (Abotan Nkratawa), 15:80-85
 Hijr, S.15 na ɔkyerɛwee
 Mmarima a wɔne wɔn ho da 26:165-166; 27:55; 29:28-29
 Apɔnkɔ, 16:8
-Dɔnhwere,
+Dɔnhwere
 - ho nimdee wo Allah nkoaa ho, 7:187; 31:34; 33:63; 41:47; 68:26; 79:42-46
 - mpofirim ara na ewo won so, 6:31; 7:187;12:107; 43:66
 - ba wo so, 6:40; 12:107; 20:15; 34:3
@@ -553,9 +553,9 @@ Dɔnhwere,
 - asaasewosow a ewo ho, 22:1
 - besi ho, wo Da no mu, 30:12, 14
 - esi pi se ereba, akyinnyee biara nni ho, 40:59;45:32; 51:5-6
-- nsɛnkyerɛnne 21:96; 27:82 mu; 43:61; 47:18; 54:1-2;
-- din 1:3; 2:4; 3:55; 19:39; 30:56; 37:21; 40:15; 41:47; 42:7; 50:20; 56:1; 64:9; 69:1; 79:34; 80:33; 88:1; 101:1-3;
-- begye nnipa ahodwiriw 6:31; 7:187;
+- nsɛnkyerɛnne 21:96; 27:82 mu; 43:61; 47:18; 54:1-2
+- din 1:3; 2:4; 3:55; 19:39; 30:56; 37:21; 40:15; 41:47; 42:7; 50:20; 56:1; 64:9; 69:1; 79:34; 80:33; 88:1; 101:1-3
+- begye nnipa ahodwiriw 6:31; 7:187
 - torobɛnto bɛbɔ 6:73; 23:101; 39:68
 Afie, suban a ɛfa hyɛn ho, 24:27-29
 Hud, 7:65-72; 11:50-60; 26:123-140; 46:21-26
@@ -609,7 +609,7 @@ Ilah, Baako pɛ, 2:163; 6:19; 16:22, 51; 23:91; 37:4; 38:65
 Illiyyun, 83:18-21
 Nea ɛho ntew (Najas) 9:28
 ‘Imran, .
-- yere a, 3:35;
+- yere a, 3:35
 - babaa a, 66:12
 Nea wontumi nkwati, 69:1-3
 Infitar, S.82 na ɔkyerɛwee
@@ -628,7 +628,7 @@ Dade, 57:25
 Yesu, hwɛ Yesu
 Isak, (Isak) 2:133; 4:163; 6:84; 19:49;21:72; 29:27; 37:112–113
 Ismael (Ishmael), 2:125-129, 133; 4:163;6:86; 19:54–55; 21:85; 38:48
-ɔne n’agya ma Ka’bah fapem so 2:125-140;
+ɔne n’agya ma Ka’bah fapem so 2:125-140
 afɔrebɔ ho asɛm 37:100-113
 Nkramofo, 3:19, 85; 5:3; 6:125; 39:22; 61:7
 - a edi kan wo nkurafoa a wobre won ho ase se Muslimfoo, 6:14,163; 39:12
@@ -658,7 +658,7 @@ Jalut, (hwɛ Goliat) .
 Jamarat, 2:200
 Jathiyah, S.45 na ɔkyerɛwee
 Yesu, Maria ba Yesa, .
-- ɛna a wɔayi no sene wiase mmaa nyinaa 3:42;
+- ɛna a wɔayi no sene wiase mmaa nyinaa 3:42
 - di adansee wo Owusore Da, 4:159
 - awo ho asem pa, 3:45-47; 19:22-23
 - Ɔbɔfoɔ a ɔde kɔmaa Israel Mma, 3:49-51
@@ -681,9 +681,9 @@ Yesu, Maria ba Yesa, .
 - adwene a egu ahorow fa ho, 43:65
 - a ennye akoa ne nhwɛsoɔ mma Israelmma, 43:59
 - anigyee asem a efa Somafoa bi a ne din de Ahmed ho, 61:6
-- ne baabun awo, nkra, ne anwonwade 3:45-51; 19:16-38;
-- kae Allah adom 5:110-115;
-- pow sɛ ɔyɛ ɔsoro 5:116-120;
+- ne baabun awo, nkra, ne anwonwade 3:45-51; 19:16-38
+- kae Allah adom 5:110-115
+- pow sɛ ɔyɛ ɔsoro 5:116-120
 - ayamhyehye ne adom wo n'akyidifoa akoma mu 5:82; 57:27
 Yudafo ne Kristofo, 2:140; 4:153-161, 171,; 5:18
 - tie atoro, 5:41-42
@@ -693,9 +693,9 @@ Yudafo ne Kristofo, 2:140; 4:153-161, 171,; 5:18
 Jibril, (hwɛ Gabriel) .
 Jihad, (Ɔko, Mmɔdenbɔ) 2:216; 9:24; 22:78; 25:52
 Jinn, S.72 na ɔkyerɛwee
-Jinn, 6:100, 112, ne 112; 15:27; 34:41; 38:37; 46:18,29; 55:33, 39;
-Jinn, a wɔde ogya bɔɔ no 15:25; 55:15;
-- a wogye di na wonnye jinn 72:1-15;
+Jinn, 6:100, 112, ne 112; 15:27; 34:41; 38:37; 46:18,29; 55:33, 39
+Jinn, a wɔde ogya bɔɔ no 15:25; 55:15
+- a wogye di na wonnye jinn 72:1-15
 - binom gyee nkra a ewo Kur'aan 46:29-32 no dii
 - nnipa ne jinn a woabo no ama atirimpɔw bi 51:56-58
 Hiob, 4:163; 6:84; 21:83-84; 38:41-44
@@ -703,25 +703,25 @@ Yohane, (Yahya, Yohane Suboni), .
 - anigyesɛm a ɛfa, 3:38-41; 19:7-11; 21:90
 - teneneefoo, 6:85
 - nyansa, tema, asɛdeɛ, 19:12-15
-Yona (Yona anaa Yunus), 4:163; 6:86; 10:98;21:87; 37:139-148;
+Yona (Yona anaa Yunus), 4:163; 6:86; 10:98;21:87; 37:139-148
 - (Dhu n-Nun) 21:87; 68:48-50
 Yosef (Yusuf), 6:84; 12:4-101
-- asem a eye sen biara 12:1-3;
-- aberanteɛ Yusuf daeɛ 12:4-6;
-- atirisopam a ne nuanom dee 12:7-18;
-- a wɔtɔn kɔ nkoasom mu 12:19-20;
+- asem a eye sen biara 12:1-3
+- aberanteɛ Yusuf daeɛ 12:4-6
+- atirisopam a ne nuanom dee 12:7-18
+- a wɔtɔn kɔ nkoasom mu 12:19-20
 - a wɔtetee no wɔ Egypt Ɔmanpanyin fie 12:21-22
-- Chief Minster yere bɔ mmɔden sɛ ɔbɛdaadaa no 12:23-29;
-- apontow ase asɛm 12:30-32;
-- kɔ afiase 12:33-35;
-- nneduafo baanu no 12:36-42;
-- Ɔhene daeɛ 12:43-53;
-- beye Ɔmanpanyin 12:54-57;
-- anuanom ba ne nkyɛn bɛpɛ nneɛma 12:58-68;
-- fa ne nua Benjamin 12:69-82;
-- n'agya awerɛhoɔ foforɔ 12:83-87;
-- da ne nipasu ankasa adi 12:88-98;
-- dae dedaw no ba mu 12:99-100;
+- Chief Minster yere bɔ mmɔden sɛ ɔbɛdaadaa no 12:23-29
+- apontow ase asɛm 12:30-32
+- kɔ afiase 12:33-35
+- nneduafo baanu no 12:36-42
+- Ɔhene daeɛ 12:43-53
+- beye Ɔmanpanyin 12:54-57
+- anuanom ba ne nkyɛn bɛpɛ nneɛma 12:58-68
+- fa ne nua Benjamin 12:69-82
+- n'agya awerɛhoɔ foforɔ 12:83-87
+- da ne nipasu ankasa adi 12:88-98
+- dae dedaw no ba mu 12:99-100
 - mpaebɔ a wɔde wie 12:101
 Judi, Bepɔw, 11:44
 Jumu’ah, S.62
@@ -749,7 +749,7 @@ Awudi, .
 Nsɛm a ɛyɛ dɛ ye sen adɔe, 2:263
 Abusuafo, hokwan ahorow a, 2:83, 177, 215; 4:7-9, 36;8:41; 16:90; 17:26; 24:22; 29:8; 30:38; 42:23
 Kiraman-Ratibin, 82:11
-Nimdeɛ,
+Nimdeɛ
 - a ahaban biara nhwe ase, nanso 3nim, 6:59
 - ayera ne nkurafoa a wakum wan mma afiri nkwaseasɛm mu, a wonni, 6:140
 - a ewo nneɛma anum ho, a Allah nkoaa ka ho, 31:34
@@ -778,7 +778,7 @@ Wiase yi asetena, .
 - obiara a ope no, onya mu; nanso afei kyɛfa biara nni Daankwamma mu, 11:15-16; 17:18; 42:20
 - a wodɔ mprempren, na wobu wɔn ani gu Daankwamma no so, 75:20-21; 76:27
 - wope se, 87:16
-Kanea,
+Kanea
 - a ɛda adi, 4:174
 - ne esum, 6:1
 - mfatoho a efa, 24:35
@@ -793,7 +793,7 @@ Anohyeto a Allah de asi hɔ, 2:173, 187, 190, 230;9:112; 58:4; 65:1; 78:22
 - bere a woboroo, (beye bonsu), 7:166
 - a wodi, 9:112
 Gyata, 74:51
-Besea,
+Besea
 - bom Allah papa, 2:245; 73:20
 - a ɛkɔɔ soro mpɛn pii, 57:11, 18
 - a woabo mmɔho abien, 64:17
@@ -811,7 +811,7 @@ Mahr (ayeforo-sika), 2:229, 236-237; 4:4,19-21, 24-25; 5:5; 33:50; 60:10-11
 Ma’idah, S.5., ne nea ɔkyerɛwee
 Makkah (Bakkah), 3:96;90:1-2
 - Kuropɔn a Ahobammɔ, 95:3
-Barima,
+Barima
 - awo ntoatoasoo akyi awo ntoatoasoo wo asaase so, 2:30;6:165
 - yɛɛ adedifoɔ, 35:39
 - asɛdeɛ, 2:83-84, 88, 177; 4:1-36; 8:41; 16:90;17:23-39; 24:22; 29:8-9; 30:38;33:33;42:23; 64:14; 70:22-35
@@ -929,7 +929,7 @@ Masad, S.111 na ɔkyerɛwee
 Maun, S.107 na ɔkyerɛwee
 Ma'wa Paradise, 53:15
 Susu ne mu duru, ma awie, 11:85; 17:35;83:1-5
-Nhyiamu,
+Nhyiamu
 - ne Allah, 6:31
 - a ɛfa Da Kɛseɛ ho, 19:37
 - a efa Daankwamma ho, 30:16
@@ -969,23 +969,23 @@ Mose, .
 - a wode ama Twerɛ Kronkron no, 17:2
 - Nsenkyerennee akron a eda adi pefee, 7:133; 17:101
 - de ko epo mmienu no nhyiamu, 18:60-82
-- nkrabea hyia wo kwae a erehyew no ho 20:9-36; 27:7-14; 28:29-35;
+- nkrabea hyia wo kwae a erehyew no ho 20:9-36; 27:7-14; 28:29-35
 - frɛɛ na wɔmaa no Asomafoɔ, 19:51-53;20:9-56
 - ne mmofraberem, ne maame ne ne nuabea, 20:38-40;28:7-13
 - nkonyaayifoɔ a wɔasakyeraeɛ, 20:70-73; 26:46-52
 - wo Madyan kasa mu, 20:40; 28:22-28
 - a woama no Criterion no, 21:48
 - ne ahintasɛm gya, 27:7-12; 28:29-35
-- kum Misraimni bi wo mfomsoo mu wo kuro no mu 28:14-21;
+- kum Misraimni bi wo mfomsoo mu wo kuro no mu 28:14-21
 - bae ne Ayat a eda adi, 29:39
-- asɛm a ɛne Farao 7:103-137; 10:75-92; 11:96-99; 26:10-69;
-- nsenkyerennee nkron ma Farao ne ne nkurofoo 7:130-133; 20:17-22; 17:101;
-- di Farao nkonyaayifoa so nkonim 20:70-73; 26:46-52;
-- guan kɔ Midian ne awareɛ 28:22-28;
+- asɛm a ɛne Farao 7:103-137; 10:75-92; 11:96-99; 26:10-69
+- nsenkyerennee nkron ma Farao ne ne nkurofoo 7:130-133; 20:17-22; 17:101
+- di Farao nkonyaayifoa so nkonim 20:70-73; 26:46-52
+- guan kɔ Midian ne awareɛ 28:22-28
 - gye Abopon 7:142-154, 154 no.
-- bisa se wonhunu Allah wo Bepo no so 7:142-145;
-- a Allah de no animuonyam 33:69;
-- Allah adom ma Israelfo 2:47-61;
+- bisa se wonhunu Allah wo Bepo no so 7:142-145
+- a Allah de no animuonyam 33:69
+- Allah adom ma Israelfo 2:47-61
 - Israelfoɔ po sɛ wɔbɛkɔ Yerusalem 5:20-29
 - a wokyerekyere no kwan ko Kwan pa no so, 37:114-122
 - Kyerɛwsɛm a ɛfa, 53:36; 87:19
@@ -1098,10 +1098,10 @@ Anadwo, (sɛ sɛnkyerɛnne), ma ahomegye, 10:67
 - se wobeye som, 14:32
 - Anadwo a ewo Al-Qadr (Ahyedee), 44:3-4; 97:1-5
 Nisa’, S.4., ne nea ɔkyerɛwee
-Noa, 3:33; 4:163; 6:84; 9:70; 10:71;11:25, 32, 36, 42, 45-46, 48, 89; 17:3; 21:76; 25:37; 26:105; 29:14; 37:75; 51:46;54:9; 69:11;
-- dii ho fɛw 11:38;
+Noa, 3:33; 4:163; 6:84; 9:70; 10:71;11:25, 32, 36, 42, 45-46, 48, 89; 17:3; 21:76; 25:37; 26:105; 29:14; 37:75; 51:46;54:9; 69:11
+- dii ho fɛw 11:38
 - Nsuyiri (nsuyiri a emu ye den), 29:14
-- Adaka no ne Nsuyiri no 7:59-69, 11:25-48; 23:23-31; 26:105-122; 71:1-28;
+- Adaka no ne Nsuyiri no 7:59-69, 11:25-48; 23:23-31; 26:105-122; 71:1-28
 - ɔba a ɔnteɛ a wɔannye no nkwa, 11:42-48
 - ɔyere a ɔnteɛ, 14:9; 17:3, 17;19:58;21:76; 22:42; 26:105-106, 116,; 33:7; 37:75,79; 38:12; 42:13; 40:5, 31; 42:13;50:12;53:52, ne nea ɛwɔ hɔ nyinaa; 57:26; 66:10; 71:1, 21, 26
 Nuh, S.71 na ɔkyerɛwee
@@ -1135,7 +1135,7 @@ Mmebu, (sɛnea, nhwɛso, nsɛso) .
 - osuo, 10:24
 - a wotwa no ho tew, 10:24
 - anifuraefoo ne asotifoo, 11:24
-- Allah vs. atoro anyame 13:14; 16:76;
+- Allah vs. atoro anyame 13:14; 16:76
 - nokore vs. atoro 13:17
 - nsõ a mframa bɔ so abufuw so,14:18
 - dua pa, 14:24-25
@@ -1163,7 +1163,7 @@ Mmebu, (sɛnea, nhwɛso, nsɛso) .
 - afurum, 62:5
 - na ɛsɛ sɛ wɔmene nsuo kɔ, 67:30
 - nnipa a wowo turo no mu, 68:17-33
-Paradise,
+Paradise
 - a ewo Tebea, (Ma'wa Paradise), 53:15
 - Firdaus Paradise, 18:107 na woagye atom; 23:11
 - turo a nsubɔnten sen ase, 3:15, 198;4:57; 5:119; 7:43; 9:72; 18:31; 22:23; 39:20;57:12; 64:9; 98:8
@@ -1186,7 +1186,7 @@ Paradise,
 - asuo bi a ewo Paradise, Kauthar, 108:1
 - nsubɔnten a nsa, nufusu, ɛwo a wɔama emu ada hɔ, 47:15
 - bobesa a woatoto mu a ɛho tew, fitaa, ɛyɛ dɛ, 37:45-46; 56:18; 76:21; 83:25
-- kuruwa, a wode afrafra, Zanjabil, 76:17; 78:34;
+- kuruwa, a wode afrafra, Zanjabil, 76:17; 78:34
 - nsuo, 76:5
 - trays a sika ne nkuruwa, 43:71
 - dwetɛ nkukuo ne nkuruwa a wɔde ahwehwɛ ayɛ, 76:15-16
@@ -1233,21 +1233,21 @@ Paradise,
 - yerenom a wowo sunsuma a eye, a wote ahennwa so, 36:55
 - mmabaa nkumaa a wɔn nufu yɛ pɛ a wɔn mfeɛ yɛ pɛ,78:33
 - abarimaa-asomfo a wonwuo a wobesom won, se nhwene a woapete, 52:24; 56:17; 76:19
-- trɛw te sɛ esoro ne asaase 3:133, 57:21;
-- nsuo a ewo, sunsuma a ɛyɛ nwini, aduane a ɛyɛ dɛ, ne ahokafoɔ a ɛho tew 2:25; 4:57; 36:55-58; 37:40-49; 38:50-54; 44:51-57; 52:17-24; 69:19-24; 76:5-22;
-- akatua a wode ma agyidifoa 55:46-78; 56:10-40;
-- nsubɔnten a ɛwoɔ, nufusuo, nsuo, ne nsa 47:15;
-- mpaebɔ ne nkyia 10:9-10; 39:73-74;
-- de asomdwoe nkyia kyia 13:23-24; 14:32;
-- daa tenabea wo Anigyee mu 11:108;
-- annbisa da se wobefiri mu 15:45-48;
-- hann a ehyerɛn wɔn anim ne wɔn nifa so 57:12;
-- a ehyehyee anaase nwini biara nni ho 76:13;
-- apɛdeɛ nyinaa a wɔde ama 16:30-32; 41:31-32;
-- nkapo a wode sika kɔkɔɔ ne ntadeɛ a wɔde sirikyi ayɛ 18:30-31; 22:23-24; 44:51-53;
-- trays a sika kɔkɔɔ nkuruwa 43:67-73;
-- dwetɛ nkukuo ne nnuaba a ɛsensɛn baabi a wobetumi adu ho 76:14-16;
-- a wote ahennwa so 15:47; 37:44; 52:20;
+- trɛw te sɛ esoro ne asaase 3:133, 57:21
+- nsuo a ewo, sunsuma a ɛyɛ nwini, aduane a ɛyɛ dɛ, ne ahokafoɔ a ɛho tew 2:25; 4:57; 36:55-58; 37:40-49; 38:50-54; 44:51-57; 52:17-24; 69:19-24; 76:5-22
+- akatua a wode ma agyidifoa 55:46-78; 56:10-40
+- nsubɔnten a ɛwoɔ, nufusuo, nsuo, ne nsa 47:15
+- mpaebɔ ne nkyia 10:9-10; 39:73-74
+- de asomdwoe nkyia kyia 13:23-24; 14:32
+- daa tenabea wo Anigyee mu 11:108
+- annbisa da se wobefiri mu 15:45-48
+- hann a ehyerɛn wɔn anim ne wɔn nifa so 57:12
+- a ehyehyee anaase nwini biara nni ho 76:13
+- apɛdeɛ nyinaa a wɔde ama 16:30-32; 41:31-32
+- nkapo a wode sika kɔkɔɔ ne ntadeɛ a wɔde sirikyi ayɛ 18:30-31; 22:23-24; 44:51-53
+- trays a sika kɔkɔɔ nkuruwa 43:67-73
+- dwetɛ nkukuo ne nnuaba a ɛsensɛn baabi a wobetumi adu ho 76:14-16
+- a wote ahennwa so 15:47; 37:44; 52:20
 - agyidifoa behu won Awurade 75:22-23
 Awofo, ayamye ma, 2:83, 215; 4:36; 16:90;17:23; 29:8; 31:14; 46:15-17
 Allah ahokafoɔ, atoro,4:116;10:34-35, 66; 16:86; 28:62-64, 71-75, ne nsɛm a ɛfa ho; 30:40;42:21
@@ -1256,7 +1256,7 @@ Adidibea, 87:4-5
 - hwe Way nso
 Boasetɔ, 3:186, 200; 10:109; 11:115; 16:126-127; 20:130; 40:55, 77; 42:43; 46:35; 70:5;73:10
 - hwehwe mmoa mu, ne mpaebɔ, 2:45, 153; 20:132;50:39
-Ɔyarefoɔ,
+Ɔyarefoɔ
 - benya akatua a edi mu, 39:10
 - Allah ka nkurafoa a wawo ho, 8:46
 - na eye, 11:115
@@ -1265,7 +1265,7 @@ Boasetɔ, 3:186, 200; 10:109; 11:115; 16:126-127; 20:130; 40:55, 77; 42:43; 46:3
 Asomdwoe, akɔnnɔ, 8:61
 Ahwehwɛ ne akorade, a wɔakora so, 52:24; 55:22; 56:23
 Pen, 68:1; 96:4
-Onii,
+Onii
 - Allah nnye adesoa a, boro ne tumi so,2:286; 7:42
 - Allah nnye tow biara, gyese sedee ne tumi te, 23:62
 - dabi, nim dee obenya okyena ne asaase a obewu, 31:34
@@ -1332,7 +1332,7 @@ Asotwe, .
 - twe won aso de te se dee wodii wo amane no, 16:126
 - a efa asetena yi ne Daankwamma ho, 24:19; 68:33
 Ahotew, .
-- nipadua mu,4:43; 5:6;
+- nipadua mu,4:43; 5:6
 - honhom mu (efiri efĩ mu), 87:14; 91:9 mu
 Qadar, 5:5; 64:11
 Qadr, S.97 na ɔkyerɛwee
@@ -1402,7 +1402,7 @@ Mmirikatu, bɔ mmɔden sɛ wɔ a, wɔ nnwuma pa mu, 5:48
 Ra’d, S.13 na ɔkyerɛwee
 Rahman, S.55 na ɔkyerɛwee
 Trenee ntade ye sen biara, 7:26
-Nsuo tɔ,
+Nsuo tɔ
 - Allah Akyɛdeɛ, 56:68-70
 - a ewo abo, 27:58
 Ramadan, 2:185
@@ -1410,7 +1410,7 @@ Ramy, 2:200
 Agyede, .
 - dabi, wobegye, 57:15
 - a atiafoa dee ama, 3:91; 10:54; 13:18
-Fidyah, a ɛfa mmuadadi ho, 2:196;
+Fidyah, a ɛfa mmuadadi ho, 2:196
 - a wode ama nnommum no, 8:67
 Rass, wɔn a wɔte hɔ, 25:38; 50:12
 Akatua, .
@@ -1421,7 +1421,7 @@ Mpata, .
 - obiara a obefakye na waye no, 42:40
 - a eda ɔbarima ne ɔyere ntam, 4:35
 - a ewo agyidifoo ntam, 49:9-10
-Nsɛnkoraeɛ,
+Nsɛnkoraeɛ
 - a Woatwerɛ Kyerɛwtohɔ, 83:7-9, 18-21
 - wobefre oman biara aba ne mu, 45:28-29
 - a woatwerɛ nkratafa a ɛkyerɛ onipa biara nnwuma,81:10
@@ -1431,7 +1431,7 @@ Nsɛnkoraeɛ,
 - akyi akyi, 84:10-15
 Abɔfo a wɔkyerɛw kyerɛwtohɔ, 50:17-18, 23; 85:11
 Ahotɔ, ne ahokyere no, 94:5-6
-Ɔsom,
+Ɔsom
 - nhyɛ biara nni mu, 2:256
 - ne Islam, 3:19
 - a ewo Allah ho, 3:83-84
@@ -1456,7 +1456,7 @@ Ahomegye ma bɔne, 3:178; 10:11; 12:110; 14:42,44; 29:53-55; 86:15-17
 Owusɔre, 2:28, 7:53; 14:21; 16:38-40; 22:5-7; 23:15-16; 31:28, 41:39, 46:33-34; 50:3,20-29, 41-44; 64:7, 75:1-15; 79:10-12; 86:5-8
 - nhwɛsoɔ wɔ Esra 2:259 asɛm no mu
 - Abraham 2:260
-- nnipa a wowo abodan mu 18:9-26;
+- nnipa a wowo abodan mu 18:9-26
 - kɔkɔbɔ ma owusɔreɛ a wɔpoo 17:49-52, 17:97-100, 19:66-72, 37:11-27, 50:1-15, 80:17-42
 Owusɔre Da, 7:89; 20:100-101, 124
 - Nokware Da no, 78:39
@@ -1559,7 +1559,7 @@ Adiyisɛm, .
 - a ewo Nwoma no mu no firi Allah ho, 46:2
 - hwɛ Nwoma ne Kuran nso
 Aweredi a ɛfa nhyɛsoɔ bɔne a wɔayɛ wɔn ho, 42:39-43
-Abasobɔdeɛ,
+Abasobɔdeɛ
 - sedee nnwuma a eye papa te, na eboro so mpo, 24:38; 29:7; 39:35
 - se akatua 25:15
 - Allah tua nkurafoa a woyo papa no ka, dee eye papa, 53:31
@@ -1610,18 +1610,18 @@ Satan, 2:36, 168, 208, 268, 275; 3:36, 155, 175;4:38, 60, 76, 83, 119-120; 5:80,
 - nni tumi biara wo agyidifoo so, 16:99-100
 - tow nkontompo, 22:52-53
 - ye atamfo, 12:5; 35:6; 36:60
-- ahantan 2:34; 7:11-27; 15:26-43; 17:61-65; 38:73-85;
-- a jinn 18:50-51;
-- Adam nsɔhwɛ ne asehwe 7:20-23; 20:116-121;
-- nni tumi biara wo agyidifoa no so 16:98-100;
-- ne botaeɛ 35:6-8;
-- a waka ntam ama adesamma 12:5; 17:53;
-- n'apon 53:14-19;
-- ne nsaanodwuma 5:90-91;
-- bu nnwuma pa abam 2:268;
-- agyidifoa hwehwe dwanekobea wo Allah ho firi ne ho 7:200-202;
-- ne nsusuie no ye mmerɛw 4:76;
-- ma n'akyidifoa ase 8:48;
+- ahantan 2:34; 7:11-27; 15:26-43; 17:61-65; 38:73-85
+- a jinn 18:50-51
+- Adam nsɔhwɛ ne asehwe 7:20-23; 20:116-121
+- nni tumi biara wo agyidifoa no so 16:98-100
+- ne botaeɛ 35:6-8
+- a waka ntam ama adesamma 12:5; 17:53
+- n'apon 53:14-19
+- ne nsaanodwuma 5:90-91
+- bu nnwuma pa abam 2:268
+- agyidifoa hwehwe dwanekobea wo Allah ho firi ne ho 7:200-202
+- ne nsusuie no ye mmerɛw 4:76
+- ma n'akyidifoa ase 8:48
 - kasa kyerɛ n’akyidifoɔ wɔ Hell 14:22
 - hwɛ Iblis nso
 Scale, nkonimdi, nea ne pɛ bɛyɛ duru, 7:8-9
@@ -1646,7 +1646,7 @@ Nkatede, 23:78
 Nson, wɔbɔɔ, .
 - esoro, 2:29; 23:17; 65:12; 67:3; 71:15
 - ne asaase no te se ewo ho, 65:12
-Sunsum,
+Sunsum
 - ma Allah hwe ase wo nkotodwe mu, 13:15; 16:48
 trɛw mu, 25:45
 Shams, S.91 na ɔkyerɛwee
@@ -1678,12 +1678,12 @@ Nkoa, 2:177-178; 4:25, 36, 92; 5:89; 24:33; 58:3; 90:13
 Dae, ade a wɔde gye wɔn ahome, 78:9
 Sodom, 29:31; 37:136
 Sodome, 7:80-82, ne nsɛm a wɔka kyerɛ; 11:77-83; 15:61-77; 29:28-29
-Salomo, 2:102; 4:163; 6:84;
-- boa n'agya Dawid ma oduru atemmuo a eye 21:78-82;
+Salomo, 2:102; 4:163; 6:84
+- boa n'agya Dawid ma oduru atemmuo a eye 21:78-82
 - ne nwansena, 27:15-19
 - ne hoopoe, 27:20-26
 - ne Saba' Hemmaa', 27:22-44; 34:15
-- Allah adom wo ne so 34:12-14, 38:34-40;
+- Allah adom wo ne so 34:12-14, 38:34-40
 - ne dɔ a ɔwɔ ma apɔnkɔ pa 38:30-33
 Ɔba, a wɔagye no ayɛ ne ba, 33:4-5
 Ɔkra (honhom, Ruh), 15:29; 17:85; 58:22
@@ -1791,7 +1791,7 @@ Nsuo, abɔdeɛ biara a nkwa wom a wɔde, 21:30;24:45; 25:54
 - ne nea ɛkeka ho mmerɛw, ma ɛyɛ mmerɛw, 87:8
 - hwɛ Ɔkwan nso
 Ɔkwantufo, 2:177, 215; 8:41; 17:26; 29:29;30:38; 59:7
-Ahonya,
+Ahonya
 - a waboaboa ano, 104:2-4
 - a wode sesa sika wo Allah Asem mu (hwe Sede) .
 Ahonyadeɛ ne mma, wiase yi asetena ho ahosiesie, 18:46
@@ -1864,52 +1864,52 @@ Sihar, 33:4; 58:2-4
 Zukhruf, S.43 na ɔkyerɛwee
 Zumar, S.39 na ɔkyerɛwee
 Nnyinasosɛm atitiriw
-- gyedie a woawie 5:3;
-- kwan nkoaa a Allah gye tom 3:19, 85;
-- nhyehye biara nni ho se wobegye Islam 2:256;
-- som baako a ewo gyidie ne mmara kwan so 5:48; 22:67-70; 42:13-14;
-- nkɔmhyɛfoɔ a wɔwɔ Islam mu 2:135-136; 3:84; 4:163-165;
-- ahyedee (nya gyidie wo Allah mu na moyo papa) 4:36; 6:151-154;17:23-39;18:107-108, ne nea ɛwɔ hɔ nnɛ;
-- botaeɛ anum a ɛwɔ Sharia mu: gyidie ho banbɔ 5:54;
-- a wobo nkwa ho ban 5:32;6:151;
-- ahonyadee ho ban 5:38;
-- a wobo nidi ho ban 5:5;24:4;
+- gyedie a woawie 5:3
+- kwan nkoaa a Allah gye tom 3:19, 85
+- nhyehye biara nni ho se wobegye Islam 2:256
+- som baako a ewo gyidie ne mmara kwan so 5:48; 22:67-70; 42:13-14
+- nkɔmhyɛfoɔ a wɔwɔ Islam mu 2:135-136; 3:84; 4:163-165
+- ahyedee (nya gyidie wo Allah mu na moyo papa) 4:36; 6:151-154;17:23-39;18:107-108, ne nea ɛwɔ hɔ nnɛ
+- botaeɛ anum a ɛwɔ Sharia mu: gyidie ho banbɔ 5:54
+- a wobo nkwa ho ban 5:32;6:151
+- ahonyadee ho ban 5:38
+- a wobo nidi ho ban 5:5;24:4
 - a wobo obi tumi a wode dwene ho ban 5:90.
 Gyidie a wogye to Allah mu 2:255
-- Ɔsoro su ahorow, Edin a Ɛyɛ Fɛ 57:1-6; 59:22-24; 85:13-16; 112:1-4;
-- onyame nkoaa na ofata som 1:1-4; 2:285; 6:3; 43:84;
-- tumi nyinaa ye Ne dea 3:26; N’Ahengua (‘Arsh) 7:54; 11:7;
-- Ne Kursi (nanso anaa nkongua) 2:255;
-- adom a enni ano wo adesamma so 14:32-34; 2:164; 16:2-93; 31:20; 55:1-25;
-- ma nkwa na owuo 44:8; 53:44; 57:2; 67:2;
-- de anigye ne awerɛhow ba 53:43;
-- ma nsiesiei bebree anaase anohyeto 13:26; 17:30; 29:62;
-- a eye sen biara atemmufo 95:8;
-- Mmoborohunufoa paa 12:92;
-- dɔ ateneneefoɔ 85:14;
-- a Banefakye ahyɛ no ma na asotwe mu yɛ den 13:6, 40:3;
-- a edi kan ne nea etwa to 57:3;
-- animuonyam ne tumi nyinaa ye Ne dea 35:10;
-- nim nea wonnim na ohu nea wonhu 6:59,73; 9:94, 105; 13:8-10; 31:34; 32:6; 34:48; 35:38; 39:46; 49:18; 59:22; 62:8; 64:18; 72:26; 74:31; 87:7;
-- nim dee ede asie akoma mu yie 5:7; 11:5; 31:23 ;
-- nim nea esii ne nea eda so ara reba 2:255;
-- kyeree biribiara a ewo Kyerɛwtohɔ (anaasɛ Abopon a Wɔakora So) 6:38; 13:39; 36:12;
-- tumi yɛ biribiara 2:117; 3:189; 8:41; 9:116; 11:4; 16:40; 40:68; 41:39; 42:49;57:2;
-- ne tumi a enni ano 3:26-27; 24:45; 31:28-30;
-- bɔɔ esoro ne asaase wɔ Nna nsia mu na wanmmrɛ da 46:33; 50:38;
-- de asemfua 'Be!' 36:81-83;
-- nnyɛ atirimɔdenfoɔ da wɔ N’abɔdeɛ ho 3:108; 4:40; 17:71; 21:47; 22:10; 26:209; 40:31; 41:46; 45:22; 50:29; 64:11; 78:6-16;
-- biribiara brɛ ne ho ase ma N’apɛde 3:83; 22:18; 30:26;
-- nyinaa gyina hɔ a wohia No 11:6; 35:15; 55:29;
-- de wo ho to Ne so 10:84-85; 12:67; 25:58;
-- akwan a wofa so nya osoro nkitahodie 42:51;
-- a efata se wodwene ho 2:21; 3:102; 4:1; 33:70-71; 59:18;
-- nyansa ye akyɛdeɛ a ɛfiri Ne hɔ 2:269;
-- nnhia obiara 3:97; 6:133; 112:2;
-- a ennye baako wo Baasakoro mu 4:171;
-- nni hokafo 6:101;
-- nni mma 10:68; 19:35; 43:81; 72:3; 112:3;
-- nni ahokafoɔ anaa ayɔnkofoɔ-anyame 6:94; 7:191-195; 46:4-5;
+- Ɔsoro su ahorow, Edin a Ɛyɛ Fɛ 57:1-6; 59:22-24; 85:13-16; 112:1-4
+- onyame nkoaa na ofata som 1:1-4; 2:285; 6:3; 43:84
+- tumi nyinaa ye Ne dea 3:26; N’Ahengua (‘Arsh) 7:54; 11:7
+- Ne Kursi (nanso anaa nkongua) 2:255
+- adom a enni ano wo adesamma so 14:32-34; 2:164; 16:2-93; 31:20; 55:1-25
+- ma nkwa na owuo 44:8; 53:44; 57:2; 67:2
+- de anigye ne awerɛhow ba 53:43
+- ma nsiesiei bebree anaase anohyeto 13:26; 17:30; 29:62
+- a eye sen biara atemmufo 95:8
+- Mmoborohunufoa paa 12:92
+- dɔ ateneneefoɔ 85:14
+- a Banefakye ahyɛ no ma na asotwe mu yɛ den 13:6, 40:3
+- a edi kan ne nea etwa to 57:3
+- animuonyam ne tumi nyinaa ye Ne dea 35:10
+- nim nea wonnim na ohu nea wonhu 6:59,73; 9:94, 105; 13:8-10; 31:34; 32:6; 34:48; 35:38; 39:46; 49:18; 59:22; 62:8; 64:18; 72:26; 74:31; 87:7
+- nim dee ede asie akoma mu yie 5:7; 11:5; 31:23
+- nim nea esii ne nea eda so ara reba 2:255
+- kyeree biribiara a ewo Kyerɛwtohɔ (anaasɛ Abopon a Wɔakora So) 6:38; 13:39; 36:12
+- tumi yɛ biribiara 2:117; 3:189; 8:41; 9:116; 11:4; 16:40; 40:68; 41:39; 42:49;57:2
+- ne tumi a enni ano 3:26-27; 24:45; 31:28-30
+- bɔɔ esoro ne asaase wɔ Nna nsia mu na wanmmrɛ da 46:33; 50:38
+- de asemfua 'Be!' 36:81-83
+- nnyɛ atirimɔdenfoɔ da wɔ N’abɔdeɛ ho 3:108; 4:40; 17:71; 21:47; 22:10; 26:209; 40:31; 41:46; 45:22; 50:29; 64:11; 78:6-16
+- biribiara brɛ ne ho ase ma N’apɛde 3:83; 22:18; 30:26
+- nyinaa gyina hɔ a wohia No 11:6; 35:15; 55:29
+- de wo ho to Ne so 10:84-85; 12:67; 25:58
+- akwan a wofa so nya osoro nkitahodie 42:51
+- a efata se wodwene ho 2:21; 3:102; 4:1; 33:70-71; 59:18
+- nyansa ye akyɛdeɛ a ɛfiri Ne hɔ 2:269
+- nnhia obiara 3:97; 6:133; 112:2
+- a ennye baako wo Baasakoro mu 4:171
+- nni hokafo 6:101
+- nni mma 10:68; 19:35; 43:81; 72:3; 112:3
+- nni ahokafoɔ anaa ayɔnkofoɔ-anyame 6:94; 7:191-195; 46:4-5
 - biara nni ho te se No 42:11; 112:4
 Nhyehyɛe sɛ wonsusuw N’abɔde mu anwonwade ho 3:190; 6:99; 10:5-6; 13:3-4; 16:10-16; 88:17-20
 Nsɛnkyerɛnne a ɛwɔ adebɔ mu 2:164; 6:95-99; 7:57-58; 10:5-6; 13:2-4; 16:10-13, 65-69, 79; 23:27-30; 27:60-65; 30:19-25; 50:6-11
@@ -1930,21 +1930,21 @@ Nsɛnkyerɛnne a ɛwɔ adebɔ mu 2:164; 6:95-99; 7:57-58; 10:5-6; 13:2-4; 16:10-
 - a ɛtɔ, asukɔtweaa ne osuo 2:265; 6:99; 24:43; 50:9-11
 - aprannaa ne anyinam 13:12-13
 Nyansahu mu nsɛm a wɔde gyina hɔ ma
-- nnipa a woabo no afiri mmarima ne mmaa gametes mu 76:2;
-- a ewo ne nkɔsoɔ fã a ɛwɔ awotwaa mu 22:5; 23:12-14;
-- awotwaa a ewo esum mu nsensanee mmiensa 39:6;
-- nsuo a ɛyɛ nkyene 25:53-54; 35:12; 55:19-20;
-- mframa mu nsuo 15:22;
-- nsateaa nkyerɛwee 75:3-4;
-- mmepɔw sɛ pegs 78:7;
-- dadeɛ a wɔde kɔ fam 57:25;
-- a wogye yaw 4:56;
-- owia no se hann a ehyerɛn na bosome no sɛ hann a ɛdannan 10:5;
-- bosome mu mpaepaemu 54:1;
-- esoro se akataso a woabo ho ban yie 21:32;
-- abɔdeɛ nyinaa a wɔbɔɔ wɔn firi nsuo mu 21:30; 24:45;
-- nwansena di nkitaho 27:17-19;
-- mu asorɔkye 24:40;
+- nnipa a woabo no afiri mmarima ne mmaa gametes mu 76:2
+- a ewo ne nkɔsoɔ fã a ɛwɔ awotwaa mu 22:5; 23:12-14
+- awotwaa a ewo esum mu nsensanee mmiensa 39:6
+- nsuo a ɛyɛ nkyene 25:53-54; 35:12; 55:19-20
+- mframa mu nsuo 15:22
+- nsateaa nkyerɛwee 75:3-4
+- mmepɔw sɛ pegs 78:7
+- dadeɛ a wɔde kɔ fam 57:25
+- a wogye yaw 4:56
+- owia no se hann a ehyerɛn na bosome no sɛ hann a ɛdannan 10:5
+- bosome mu mpaepaemu 54:1
+- esoro se akataso a woabo ho ban yie 21:32
+- abɔdeɛ nyinaa a wɔbɔɔ wɔn firi nsuo mu 21:30; 24:45
+- nwansena di nkitaho 27:17-19
+- mu asorɔkye 24:40
 Abɔde a wɔte ase
 - abɔfoɔ 39:75
 - nnipa (tumidi bi a ewo asaase so) 2:30; 6:165; 16:4
@@ -1986,357 +1986,357 @@ Afifide ne nnuaba 6:99; 13:4; 16:11; 36:33-35
 - granate akutu 55:68, 68 .
 - a woagye atom 37:146
 Gyidie a ɛwɔ Muḥammad mu
-- su, odiyifo nkoaa 3:144; 6:50; 7:188 mu; 18:110;
-- de nokore no ma 2:119; 35:24; 42:48;
-- adiyifoɔ nsɔano 33:40;
-- suban pa 3:159; 68:4;
-- a wode 33:21;
-- se adom ma agyidifoa no 3:164;
-- mmɔborɔhunu ma wiase nyinaa 21:107;
-- amansan somafoa 4:170; 7:157-158; 34:28;
-- ko Kwan Tenenee no so 42:52-53;
-- dwene nnipa ho 9:129;
-- se ɔdanseni wɔ Atemmuo Da 4:42; 16:89;
-- odiyifoa a onnkenkanee 7:157-158; 29:48; 62:2;
-- hyɛɛ nkɔm wɔ Torah ne Asɛmpa 7:157;
+- su, odiyifo nkoaa 3:144; 6:50; 7:188 mu; 18:110
+- de nokore no ma 2:119; 35:24; 42:48
+- adiyifoɔ nsɔano 33:40
+- suban pa 3:159; 68:4
+- a wode 33:21
+- se adom ma agyidifoa no 3:164
+- mmɔborɔhunu ma wiase nyinaa 21:107
+- amansan somafoa 4:170; 7:157-158; 34:28
+- ko Kwan Tenenee no so 42:52-53
+- dwene nnipa ho 9:129
+- se ɔdanseni wɔ Atemmuo Da 4:42; 16:89
+- odiyifoa a onnkenkanee 7:157-158; 29:48; 62:2
+- hyɛɛ nkɔm wɔ Torah ne Asɛmpa 7:157
 - a Yesu ka siei 61:6
 Nsɛnnennen a Ɔkɔmhyɛni ( صلى الله عليه وسلم ) hyia .
-- abosonsomfo ahwehwe a ntease nnim 8:32; 15:7; 17:89-93; 25:7-8;
-- atoro sobo 10:2; 11:13; 21:5; 24:11-26; 25:4-6; 37:36; 38:4; 52:29-30;
-- mmɔdenbɔ wɔ n’asetena mu 8:30; 9:74;
-- kɔkɔbɔ ma wɔn a wɔpira no anaa wɔsɔre tia no 4:115; 8:13; 9:61; 15:95; 33:57; 47:32; 96:9-19;
-- hyɛɛ sɛ wɔmfa boasetɔ mmua pow 20:130; 30:60; 46:35; 70:5;
+- abosonsomfo ahwehwe a ntease nnim 8:32; 15:7; 17:89-93; 25:7-8
+- atoro sobo 10:2; 11:13; 21:5; 24:11-26; 25:4-6; 37:36; 38:4; 52:29-30
+- mmɔdenbɔ wɔ n’asetena mu 8:30; 9:74
+- kɔkɔbɔ ma wɔn a wɔpira no anaa wɔsɔre tia no 4:115; 8:13; 9:61; 15:95; 33:57; 47:32; 96:9-19
+- hyɛɛ sɛ wɔmfa boasetɔ mmua pow 20:130; 30:60; 46:35; 70:5
 - ahyɛdeɛ a Allah awerɛhyem 5:67; 93:1-11; 94:1-8
 Asuadeɛ a ɛfiri Ɔkɔmhyɛni ( صلى الله عليه وسلم ) asetena mu .
-- a efiri ne atutra ( hijrah ) mu ko Badr ko 3:121-129; 8:42-44; 8:65-71;
-- Uhud ko 3:151-180;
-- Ko a wokoe no 33:9-27;
-- Hunain ko 9:25-27;
-- Madina 9:40; Tabuk 9:38-123;
-- Banu An-Naḍîr 59:2-6;
-- Hamra’ Al-Asad 3:172-175, ne nea woagye atom;
+- a efiri ne atutra ( hijrah ) mu ko Badr ko 3:121-129; 8:42-44; 8:65-71
+- Uhud ko 3:151-180
+- Ko a wokoe no 33:9-27
+- Hunain ko 9:25-27
+- Madina 9:40
+- Tabuk 9:38-123
+- Banu An-Naḍîr 59:2-6
+- Hamra’ Al-Asad 3:172-175, ne nea woagye atom
 - asomdwoe a ewo Hudaibiyah 48:1-7; 48:10-29
 Nidi a wɔde ma Ɔkɔmhyɛni ( صلى الله عليه وسلم ) .
-- Allah ne N'abofoo hyira no 33:56;
-- anadwo akwantuo a efiri Mekka ko Yerusalem 17:1;
-- akwantuo a ewo soro 53:1-18;
-- a wodi no animuonyam wo saa asetena yi mu ne nea edi so 17:79; 66:8; 108:1;
-- setie ma no ye setie ma Allah 4:80;
-- akatua a wode ye setie ma Allah ne Ne Somafoa 4:69;
-- n'abusua tew 33:33-34;
-- hunu Gabriel wo ne suban ankasa mu 53:1-18;
-- agyidifoa hyɛɛ sɛ wɔntie no 59:7;
+- Allah ne N'abofoo hyira no 33:56
+- anadwo akwantuo a efiri Mekka ko Yerusalem 17:1
+- akwantuo a ewo soro 53:1-18
+- a wodi no animuonyam wo saa asetena yi mu ne nea edi so 17:79; 66:8; 108:1
+- setie ma no ye setie ma Allah 4:80
+- akatua a wode ye setie ma Allah ne Ne Somafoa 4:69
+- n'abusua tew 33:33-34
+- hunu Gabriel wo ne suban ankasa mu 53:1-18
+- agyidifoa hyɛɛ sɛ wɔntie no 59:7
 - abrabɔ pa a ɛne no kasa 49:1-5
-- abrabɔ pa a wɔde kɔsra no 33:53;
-- abrabɔ pa a ɛfa ne yerenom ho 33:53;
-- Allah ani gye no ne n'ahokafoo ho 9:100; 9:117;
+- abrabɔ pa a wɔde kɔsra no 33:53
+- abrabɔ pa a ɛfa ne yerenom ho 33:53
+- Allah ani gye no ne n'ahokafoo ho 9:100; 9:117
 - a eboro ne gyidie-kuo mu 2:143; 3:110
-Mpaebɔ (salah) 2:45; 9:103; 51:18; 70:22-23; 75:31; 96:10; 108:2;
-- Fida asafo 62:9;
-- kwankyerɛ a ɛfa mpaebɔ ho ( qiblah) 2:144; 2:149-150;
-- ɛsɛ sɛ esiw obi kwan fi nnwuma bɔne ho 29:45;
-- mmere 11:114; 17:78; 17:79; 20:130; 24:36; 24:58; 30:17-18; 32:16; 38:18; 50:39-40; 51:17; 52:48-49; 73:2-4; 76:25-26;
-- bere a woda asiane mu anaase woretu kwan 2:239; 4:101-102;
-- kɔkɔbɔ ma wɔn a wobu wɔn ani gu mpaebɔ so 19:59; 74:38-47; 107:5-7;
+Mpaebɔ (salah) 2:45; 9:103; 51:18; 70:22-23; 75:31; 96:10; 108:2
+- Fida asafo 62:9
+- kwankyerɛ a ɛfa mpaebɔ ho ( qiblah) 2:144; 2:149-150
+- ɛsɛ sɛ esiw obi kwan fi nnwuma bɔne ho 29:45
+- mmere 11:114; 17:78; 17:79; 20:130; 24:36; 24:58; 30:17-18; 32:16; 38:18; 50:39-40; 51:17; 52:48-49; 73:2-4; 76:25-26
+- bere a woda asiane mu anaase woretu kwan 2:239; 4:101-102
+- kɔkɔbɔ ma wɔn a wobu wɔn ani gu mpaebɔ so 19:59; 74:38-47; 107:5-7
 - nyaatwomfo mpaebɔ 4:142; 9:54
-Ahotew, asuguare (wudu) 5:6;
-- aguaree a edi mu (ghusl) 2:222; 4:43;
+Ahotew, asuguare (wudu) 5:6
+- aguaree a edi mu (ghusl) 2:222; 4:43
 - a wode hwe ase (tayammum) 4:43; 5:6
 Nsrɛsrɛ (du'a) .
-- a ɛfa Abraham ho 2:126-129; 2:126-129; 14:35-41; 26:83-89;
-- Adam ne Hawa 7:23;
-- Yesu 5:114;
-- Hiob 21:83; 21:83;
-- Yona 21:87;
-- Yosef 12:33; 12:101;
-- Mose 10:88-89; 20:25-35;
+- a ɛfa Abraham ho 2:126-129; 2:126-129; 14:35-41; 26:83-89
+- Adam ne Hawa 7:23
+- Yesu 5:114
+- Hiob 21:83; 21:83
+- Yona 21:87
+- Yosef 12:33; 12:101
+- Mose 10:88-89; 20:25-35
 - Muhammad 17:80 na ɔkyerɛwee; 20:114
-- Noa 23:26; 26:117-118; 54:9-10; 71:26; 71:28;
-- Salomo 38:35;
-- Shuaib 7:89;
-- Sakaria 3:38; 19:2-6; 21:89-90;
-- abɔfoɔ 40:8-9;
-- Maria maame 3:35-36;
-- Farao yere 66:11;
-- Farao nkonyaayifoɔ 7:126;
-- Ɔhene Saul ne agyidifoɔ a wɔka ne ho 2:250;
-- agyidifoa a wowo Israelmma 10:85-86;
-- nkurofoo a wowo abodan no mu 18:10;
-- ateneneefoo 2:285-286; 3:8-9; 3:16; 3:147; 3:191-194; 25:74; 59:10;
+- Noa 23:26; 26:117-118; 54:9-10; 71:26; 71:28
+- Salomo 38:35
+- Shuaib 7:89
+- Sakaria 3:38; 19:2-6; 21:89-90
+- abɔfoɔ 40:8-9
+- Maria maame 3:35-36
+- Farao yere 66:11
+- Farao nkonyaayifoɔ 7:126
+- Ɔhene Saul ne agyidifoɔ a wɔka ne ho 2:250
+- agyidifoa a wowo Israelmma 10:85-86
+- nkurofoo a wowo abodan no mu 18:10
+- ateneneefoo 2:285-286; 3:8-9; 3:16; 3:147; 3:191-194; 25:74; 59:10
 - a wohyɛ wɔn so 4:75
 Nkyekyem ahorow a wɔde kotow
 - sajadat, dodoɔ kabea a ɛkyerɛ sajdah, 7:206; 13:15; 16:49; 17:109; 19:58; 22:18; 22:77; 25:60; 27:26; 32:15; 38:24; 41:37; 53:62; 84:21; 96:19
-Adɔeɛ-toɔ (zakah), sɛ asɛdeɛ 2:110; 2:177; 2:277; 6:141;
-- su a ewo agyidifoo no mu baako 22:41; 23:4; 51:19;
+Adɔeɛ-toɔ (zakah), sɛ asɛdeɛ 2:110; 2:177; 2:277; 6:141
+- su a ewo agyidifoo no mu baako 22:41; 23:4; 51:19
 - a wogye no 9:60
 - adom (sadaqah) 2:177; 2:261-263; 2:267-274; 3:92; 63:10
 - kɔkɔbɔ ma wɔn a wɔtwe wɔn ho 3:180; 9:34; 47:38
 Mmuadadi (sawm) .
-- wo Ramadan 2:183-185 mu;
-- nnɔnhwerew a wode di mmuadadi 2:187;
-- a woayi afiri mu 2:184-185;
-- abusuabɔ a emu yɛ den wɔ anadwo a edi mmuadadi anim 2:187;
+- wo Ramadan 2:183-185 mu
+- nnɔnhwerew a wode di mmuadadi 2:187
+- a woayi afiri mu 2:184-185
+- abusuabɔ a emu yɛ den wɔ anadwo a edi mmuadadi anim 2:187
 - mmuadadie wo akwantuo mu 2:196
 Akwantuo (hajj), .
-- asɛdeɛ bi a wɔn a wɔbɛtumi atua ho ka 3:97;
-- amanne ne mmara 2:158; 2:189; 2:196-203; 5:2; 22:26-37;
-- afɔrebɔdeɛ 2:196; 22:36-37;
-- a wobara se wobebo abɔmmɔ wɔ asase so bere a wɔrekɔ akwantuo mu 5:1; 5:94-95;
+- asɛdeɛ bi a wɔn a wɔbɛtumi atua ho ka 3:97
+- amanne ne mmara 2:158; 2:189; 2:196-203; 5:2; 22:26-37
+- afɔrebɔdeɛ 2:196; 22:36-37
+- a wobara se wobebo abɔmmɔ wɔ asase so bere a wɔrekɔ akwantuo mu 5:1; 5:94-95
 - a woma ho kwan se wobo abɔmmɔ wɔ ɛpo so 5:96
 - akwantuo ketewa ('umrah) 2:158; 2:196
 Gyidi-mpɔtam ahorow
-- Nkramofo 2:132-136; 3:64; 3:84; 5:111; 22:77-78; 33:35; 41:33; 43:67-70; 72:14-15;
-- a wodi won ho ban 3:28; 9:71;
-- Kristofo 2:62; 2:111-140; 4:171-172; 5:14-19; 5:82-86; 5:116-120; 9:30-31; 22:17;
-- Yudafoɔ 2:62, 111-140; 5:44-45; 6:146; 22:17; 62:6-8;
-- Israel mma 2:40-103, 122-123, 246-251; 3:49; 3:93-94; 5:12-13, 20-26, 32, 70-71, 78-81; 7:137-141, 148-153,159-171; 10:83-93; 14:5-8; 17:2-8, 104; 20:80-98; 26:52-67, 197, ne 197; 27:76; 44:23-33; 45:16-17; 46:10; 61:5-6;
+- Nkramofo 2:132-136; 3:64; 3:84; 5:111; 22:77-78; 33:35; 41:33; 43:67-70; 72:14-15
+- a wodi won ho ban 3:28; 9:71
+- Kristofo 2:62; 2:111-140; 4:171-172; 5:14-19; 5:82-86; 5:116-120; 9:30-31; 22:17
+- Yudafoɔ 2:62, 111-140; 5:44-45; 6:146; 22:17; 62:6-8
+- Israel mma 2:40-103, 122-123, 246-251; 3:49; 3:93-94; 5:12-13, 20-26, 32, 70-71, 78-81; 7:137-141, 148-153,159-171; 10:83-93; 14:5-8; 17:2-8, 104; 20:80-98; 26:52-67, 197, ne 197; 27:76; 44:23-33; 45:16-17; 46:10; 61:5-6
 - Nwoma no mu Nkurofoo (titiriw Yudafoo ne Akristofoo) 2:109; 3:64-115, 199, ne 199; 4:123-172; 5:15-77; 6:20-21; 13:36; 28:52-55; 29:46-47; 57:16, 28-29; 74:31; 98:1-5
 - Nkramofo betumi adi mmoa a wode won afore no na waware won mmaa 5:5
-- nnuane a wabra Yudafo 6:146;
-- Sabifoɔ 2:62; 22:17;
-- Magi 22:17;
-- nyamesomfoo (abosonsomfoo, abosom-somfoo) 3:186; 6:148; 9:6, 17; 10:28; 16:86; 22:17; 53:19-30;
-- abosonsom gyidihunu nneyoee 2:189; 5:103; 6:138-144;
+- nnuane a wabra Yudafo 6:146
+- Sabifoɔ 2:62; 22:17
+- Magi 22:17
+- nyamesomfoo (abosonsomfoo, abosom-somfoo) 3:186; 6:148; 9:6, 17; 10:28; 16:86; 22:17; 53:19-30
+- abosonsom gyidihunu nneyoee 2:189; 5:103; 6:138-144
 - a wonnye nni 52:35-36
 Abosonsomfo nneyɛe a wɔbara
-- a wosie mma mmaa nkwa mu 16:58-59; 81:8-9;
-- a wokum mmofra esiane ohia ho suro nti 6:137; 6:151; 17:31;
-- a worebɔ abɛn na wɔabɔ wɔn nsam atwa Ka'bah ho ahyia 8:35;
-- a wohyira yoma so ma abosom 5:103; 6:136;
-- abɔ afɔre wɔ abosom din mu 6:121;
-- zihar awaregyae 33:4; 58:2-4;
-- ila' (boro bosome nnan) 2:226-227;
-- a wogye ntonto ma gyinaesie 5:3;
-- a wotwa Ka'bah ho hyia bere a woda adagyaw 7:26-28;
+- a wosie mma mmaa nkwa mu 16:58-59; 81:8-9
+- a wokum mmofra esiane ohia ho suro nti 6:137; 6:151; 17:31
+- a worebɔ abɛn na wɔabɔ wɔn nsam atwa Ka'bah ho ahyia 8:35
+- a wohyira yoma so ma abosom 5:103; 6:136
+- abɔ afɔre wɔ abosom din mu 6:121
+- zihar awaregyae 33:4; 58:2-4
+- ila' (boro bosome nnan) 2:226-227
+- a wogye ntonto ma gyinaesie 5:3
+- a wotwa Ka'bah ho hyia bere a woda adagyaw 7:26-28
 - a wofiri akyi apon mu hyɛn afie mu wɔ akwantuo akyi 2:189
 Nneɛma a wɔsom, .
-- abɔfoɔ (wɔ Arabfoɔ abosonsomfoɔ binom mu) 34:40;
-- Al-Aykah (wɔ Shu'aib nkurofoɔ mu) 26:176;
-- Ba'l (wɔ nnipa a wɔwɔ Elia 37:125 mu;
-- Yesu (wɔ Kristosom mu) 5:17;
-- abosom (wo Abraham nkurofoo mu) 21:52-53;
-- abosom a ewo Lat, 'Uzza, ne Manat (wo Arabfo abosonsomfoo mu) 53:19-20;
-- abosom Wadd, Suwa', Yaghuth, Ya'uq, ne Nasr (wo Noa nkurofoo mu) 71:23;
-- awia (Seba nkurofoo) 27:24;
-- Sirius (wɔ Arabfo abosonsomfo binom mu) 53:49;
-- Farao (wɔ tete Misraim) 26:29; 28:38; 79:24;
-- akɔnnɔ 25:43-44; 45:23;
+- abɔfoɔ (wɔ Arabfoɔ abosonsomfoɔ binom mu) 34:40
+- Al-Aykah (wɔ Shu'aib nkurofoɔ mu) 26:176
+- Ba'l (wɔ nnipa a wɔwɔ Elia 37:125 mu
+- Yesu (wɔ Kristosom mu) 5:17
+- abosom (wo Abraham nkurofoo mu) 21:52-53
+- abosom a ewo Lat, 'Uzza, ne Manat (wo Arabfo abosonsomfoo mu) 53:19-20
+- abosom Wadd, Suwa', Yaghuth, Ya'uq, ne Nasr (wo Noa nkurofoo mu) 71:23
+- awia (Seba nkurofoo) 27:24
+- Sirius (wɔ Arabfo abosonsomfo binom mu) 53:49
+- Farao (wɔ tete Misraim) 26:29; 28:38; 79:24
+- akɔnnɔ 25:43-44; 45:23
 - gyidie a ewo anyame bebree mu a woabo agu 17:42-43; 21:21-24; 25:3
-Mmeae a wɔsom, asɔredan ahorow 9:18;
-- asɔredan, hyiadan, ne nkokorafie 22:40;
-- kronkronbea 3:39; 38:21;
+Mmeae a wɔsom, asɔredan ahorow 9:18
+- asɔredan, hyiadan, ne nkokorafie 22:40
+- kronkronbea 3:39; 38:21
 - asɔredan 17:7
 - nyamesom abodin, asɔfo, nkokorafo, ne rabifo 5:44; 5:63; 5:82; 9:31-34
 Abɔfo, .
 - bisa Adam adebɔ ho asɛm 2:30-34
-- mma wonntie Allah da 21:26-27; 66:6;
-- nnye Allah mma mmaa 21:26; 43:16-19;
-- abɔfo a wɔwɛn 13:11;
-- abɔfoɔ mmienu a wɔkyere to hɔ 50:16-18; 82:10-12;
-- awotwe a woso Allah Ahennwa wo Atemmuo Da 69:17;
-- a wɔhwɛ Hell so dunkron 74:26-31;
-- Owuo Abɔfoɔ 6:93; 16:28; 32:11;
-- Gabriel 2:97; 66:4; 26:192-195; 53:1-14;
-- Mikael 2:98;
+- mma wonntie Allah da 21:26-27; 66:6
+- nnye Allah mma mmaa 21:26; 43:16-19
+- abɔfo a wɔwɛn 13:11
+- abɔfoɔ mmienu a wɔkyere to hɔ 50:16-18; 82:10-12
+- awotwe a woso Allah Ahennwa wo Atemmuo Da 69:17
+- a wɔhwɛ Hell so dunkron 74:26-31
+- Owuo Abɔfoɔ 6:93; 16:28; 32:11
+- Gabriel 2:97; 66:4; 26:192-195; 53:1-14
+- Mikael 2:98
 - Malik 43:77
 Abɔfoɔ
-- a efiri soro-abofoo ne nnipa mu 22:75;
+- a efiri soro-abofoo ne nnipa mu 22:75
 - Asomafoa a wobo pintinn (Abraham, Noah, Mose, Yesu, ne Muhammad صلى الله عليه وسلم ) 33:7; 42:13; 46:35
 Kyerɛwnsɛm
-- Kuran, adiyie a efiri Allah ho 12:2-3; 20:2-4; 26:192-195; 32:2-3;
-- nkaekae ma ewiase nyinaa 68:51-52;
-- kyerɛ kwan kɔ asetena kwan a ɛteɛ paa so 17:9;
-- adiyie a efirii ase wo bosome Ramadân 2:185;
-- wo nhyira anadwo 44:3;97:1-5;
-- a woada no adi wo mmere 17:105-106;
-- maa ɛyɛɛ mmerɛw sɛ wɔbɛkae 54:17;
-- si nokore no so dua wo adiyie a atwam 3:3-4;
-- tumi a okorɔn wɔ kyerɛwsɛm a atwam no so 5:48;
-- akyinnye biara nni ho wo mu 2:2; 10:37;
-- abirabɔ biara nni hɔ 4:82;
-- a ennye nsusuie 10:37-39;
-- a wonntwe mfiri Bible mu 25:4-6;
-- a ahonhommɔne nnyi no adi 26:210-212;
+- Kuran, adiyie a efiri Allah ho 12:2-3; 20:2-4; 26:192-195; 32:2-3
+- nkaekae ma ewiase nyinaa 68:51-52
+- kyerɛ kwan kɔ asetena kwan a ɛteɛ paa so 17:9
+- adiyie a efirii ase wo bosome Ramadân 2:185
+- wo nhyira anadwo 44:3;97:1-5
+- a woada no adi wo mmere 17:105-106
+- maa ɛyɛɛ mmerɛw sɛ wɔbɛkae 54:17
+- si nokore no so dua wo adiyie a atwam 3:3-4
+- tumi a okorɔn wɔ kyerɛwsɛm a atwam no so 5:48
+- akyinnye biara nni ho wo mu 2:2; 10:37
+- abirabɔ biara nni hɔ 4:82
+- a ennye nsusuie 10:37-39
+- a wonntwe mfiri Bible mu 25:4-6
+- a ahonhommɔne nnyi no adi 26:210-212
 - obiara ntumi mma biribi te se 17:88; 2:23-24;10:13-14; 11:13
-- abɔ ho ban afiri ɔporɔw ho 15:9;
-- a woabo ho ban wo Abopon a woakora so 56:75-80;
-- ntumi nnye ho adansee se eye atoro 41:42;
-- ka daakye nsɛm a ɛbɛba ho nkɔm 30:1-7; 48:27;
-- kanyan agyidifoa no ma wosu 5:83; 17:107-109;
-- ka akoma 39:23;
-- hann a ɛhyerɛn 4:174; 42:52;
+- abɔ ho ban afiri ɔporɔw ho 15:9
+- a woabo ho ban wo Abopon a woakora so 56:75-80
+- ntumi nnye ho adansee se eye atoro 41:42
+- ka daakye nsɛm a ɛbɛba ho nkɔm 30:1-7; 48:27
+- kanyan agyidifoa no ma wosu 5:83; 17:107-109
+- ka akoma 39:23
+- hann a ɛhyerɛn 4:174; 42:52
 - ayaresa ne mmɔborɔhunu ma agyidifoɔ 17:82
 - Torah 3:3; 3:93; 5:46; 5:66-68, 110; 7:157; 9:111; 48:29; 61:6; 62:5
-- Asɛmpa 3:3; 48; 5:46-47, 66-68, 77, 110; 7:157; 9:111; 48:29; 57:27
+- Asɛmpa 3:3, 48; 5:46-47, 66-68, 77, 110; 7:157; 9:111; 48:29; 57:27
 - Nnwom 4:163; 17:55
 - Nwoma mmobɔwee a Abraham 53:36-44; 87:14-19
-Nkrabea ne nkrabea 3:145; 9:51; 10:107; 11:6; 54:49; 67:30;
+Nkrabea ne nkrabea 3:145; 9:51; 10:107; 11:6; 54:49; 67:30
 - a wopaw no kwa 6:148-150; 11:118-119; 16:93; 33:72-73; 39:41; 76:1-3; 91:1-10
 Atemmu Da, .
-- a ennye ntwenee biara nni ho 2:281; 18:49; 40:17;
-- ahude a ewo adiyie 22:1-2; 27:82-84, 87,; 40:18; 52:11-16; 69:13-18; 70:8-18; 73:17-18; 75:7-15; 77:8-15; 78:17-20; 79:34-36; 80:33-42; 81:1-14; 82:1-5; 84:1-5; 87:17-40; 99:1-8; 101:1-11;
-- ateneneefoo ne adeboneyofoo no saa Da no 11:105-108; 16:27-33, 84-89; 18:52-53; 20:100-111; 25:24-29; 30:12-16; 33:63-68; 39:68-75; 50:20-35; 55:37-41; 83:4-36;
+- a ennye ntwenee biara nni ho 2:281; 18:49; 40:17
+- ahude a ewo adiyie 22:1-2; 27:82-84, 87,; 40:18; 52:11-16; 69:13-18; 70:8-18; 73:17-18; 75:7-15; 77:8-15; 78:17-20; 79:34-36; 80:33-42; 81:1-14; 82:1-5; 84:1-5; 87:17-40; 99:1-8; 101:1-11
+- ateneneefoo ne adeboneyofoo no saa Da no 11:105-108; 16:27-33, 84-89; 18:52-53; 20:100-111; 25:24-29; 30:12-16; 33:63-68; 39:68-75; 50:20-35; 55:37-41; 83:4-36
 - ntamgyinafo (shafa'ah) 2:48, 255; 6:51, 70; 10:3; 21:28; 32:4; 36:23; 39:43-44; 43:86; 53:26;74:48
-Nneyɛe ho kyerɛwtohɔ 17:13; 18:49;
-- agyidifoɔ de wɔn nsa nifa gye wɔn kyerɛwtohɔ 69:19-24; 84:7-9;
-- atiafoa de won nsa benkum gye wan twerɛtohɔ 69:25-37; 84:10-15;
-- biribiara nnhintaw Allah 21:47; 40:16;
-- a wosusuw nnwuma ho 7:8; 23:102-104; 101:1-11;
-- adansedie a efa honam akwaa ho 41:19-24; 24:24;
+Nneyɛe ho kyerɛwtohɔ 17:13; 18:49
+- agyidifoɔ de wɔn nsa nifa gye wɔn kyerɛwtohɔ 69:19-24; 84:7-9
+- atiafoa de won nsa benkum gye wan twerɛtohɔ 69:25-37; 84:10-15
+- biribiara nnhintaw Allah 21:47; 40:16
+- a wosusuw nnwuma ho 7:8; 23:102-104; 101:1-11
+- adansedie a efa honam akwaa ho 41:19-24; 24:24
 - akatua ma nnwuma pa ne nneyoee 6:160; 27:89-90; 28:84
 Nnipa ahorow
-- agyidifoa 18:107-108;
-- atiafoa 4:167-169;
-- nyaatwomfo 4:145; 57:13-15;
-- a wote Paradise, agyidifoa a wodi kan 55:46-61; 56:10-26;
-- a wote Paradise, nnipa a wodi nifa 55:62-78; 56:27-40;
-- a wote Hell, nnipa a wote benkum so 55:31-45; 56:41-56;
+- agyidifoa 18:107-108
+- atiafoa 4:167-169
+- nyaatwomfo 4:145; 57:13-15
+- a wote Paradise, agyidifoa a wodi kan 55:46-61; 56:10-26
+- a wote Paradise, nnipa a wodi nifa 55:62-78; 56:27-40
+- a wote Hell, nnipa a wote benkum so 55:31-45; 56:41-56
 - nnipa a wowo sorosoro 7:46-49
 Sikasɛm
-- Adwumayɛ ho akwankyerɛ 2:188; 2:275; 2:282-283; 4:29; 4:58; 6:152; 17:34-35;
-24:36-37; 26:182; 30:39; 55:7-9; 62:9
-- Agyapadeɛ , agyapadeɛ a wɔpaw ma wɔn a wɔnyɛ adedifoɔ 2:180-183; 4:11-12;
+- Adwumayɛ ho akwankyerɛ 2:188; 2:275; 2:282-283; 4:29; 4:58; 6:152; 17:34-35; 24:36-37; 26:182; 30:39; 55:7-9; 62:9
+- Agyapadeɛ , agyapadeɛ a wɔpaw ma wɔn a wɔnyɛ adedifoɔ 2:180-183; 4:11-12
 ansa na ɔrewu bere a ɔretu kwan 5:106-108
 - Adanmude 2:188
-- ka, ayamye a wogye wo ka 2:280;
-- a wotwerɛ na wodi ɛka ho apam 2:282;
+- ka, ayamye a wogye wo ka 2:280
+- a wotwerɛ na wodi ɛka ho apam 2:282
 - a wogye collateral 2:283
-- agyapadee, akwankyerɛ 4:7; 4:32-33; 8:75;
-- kyɛfa a ɛfa mma ne awofoɔ ho 4:11;
-- ahokafoɔ ne ɛnanom nuanom 4:12;
-- anuanom a wodi mu 4:176;
+- agyapadee, akwankyerɛ 4:7; 4:32-33; 8:75
+- kyɛfa a ɛfa mma ne awofoɔ ho 4:11
+- ahokafoɔ ne ɛnanom nuanom 4:12
+- anuanom a wodi mu 4:176
 - kɔkɔbɔ ma wɔn a wɔnni so 4:13-14
-- anigye, bara ne kɔkɔbɔ 2:275-281; 3:130-132;
+- anigye, bara ne kɔkɔbɔ 2:275-281; 3:130-132
 - a wode ama mfasoo biara 30:39
 Mmara mu
 - atoro mmara (hirabah) 5:33-34
-- atɛntrenee, gyina hɔ ma atɛntrenee 4:135; 5:8; 16:90-91;
-- a egyina ho ma nyisaa ne mmaa hokwan 4:127;
-- atɛntrenee ma Yudani 4:105-112;
-- atɛntrenee ma abosonsomfo 4:58;
+- atɛntrenee, gyina hɔ ma atɛntrenee 4:135; 5:8; 16:90-91
+- a egyina ho ma nyisaa ne mmaa hokwan 4:127
+- atɛntrenee ma Yudani 4:105-112
+- atɛntrenee ma abosonsomfo 4:58
 - atrenee ne won a wonnye Nkramofo 60:8-9
 - a wotua so ka denam mmara kwan so (a wopaw se wode befiri) 2:178-179; 5:45; 16:126; 17:33; 42:37-43
-- ntetewmu a eda okunu ne oyere ntam, khul' 2:229;
+- ntetewmu a eda okunu ne oyere ntam, khul' 2:229
 - lian (a wobo sobo se woagye aware) 24:6-10
 Amammui mu nsɛm
 - a wodi nsem so denam animtiaabuo so (shura) 3:159; 42:38
-- a woko wo ne ho banbo mu (jihad), etiquette 2:190-192; 2:216; 22:38-40;
-- a ennye ntua a wonnye nyiyim 4:94;
-- a wɔko ma mmarima, mmaa, ne mmofra a wɔhyɛ wɔn so 4:75;
-- a wobo won ho ban hye so 22:37;
-- akatua a wode ma agyidifoa 2:154; 3:169-171; 9:111; 57:19;
-- asraafo tumi siw atamfo a wobetumi aba no kwan 8:60;
+- a woko wo ne ho banbo mu (jihad), etiquette 2:190-192; 2:216; 22:38-40
+- a ennye ntua a wonnye nyiyim 4:94
+- a wɔko ma mmarima, mmaa, ne mmofra a wɔhyɛ wɔn so 4:75
+- a wobo won ho ban hye so 22:37
+- akatua a wode ma agyidifoa 2:154; 3:169-171; 9:111; 57:19
+- asraafo tumi siw atamfo a wobetumi aba no kwan 8:60
 - a wopaw asomdwoe 2:192; 8:61
 - a wobma asomdwoe aba afã horow ntam 49:9-10
 - a wodi ako mu nneduafo, ayaresa 8:70; 47:4; 76:8
 Asetenam
 - a wogye tom 33:4-5
 - a wohwɛ nyisaa 2:220; 4:2-10; 4:127; 6:152; 17:34
-- awaregyae, ntamgyinafo ne mpata 4:35; 4:128;
-- abrabɔ pa a ɛfa awaregyae ho 2:229-231; 65:1-2;
-- awaregyae ne bere a wode twɛn 2:226-241; 4:19-21; 33:49; 65:1-7;
-- okunu a onnye awaree no mu biribiara nsan 4:20;
-- yere nnhaw no 65:6;
-- yere a wobeboa no sika mu wo nyinsɛn mu 65:6;
-- wɔ ne twɛn bere mu 65:6;
-- sɛ ɔma ne kunu dedaw no ba nufu a, 65:6;
-- awofoa biara nnye amanehunu enam ne ba no nti 2:233;
+- awaregyae, ntamgyinafo ne mpata 4:35; 4:128
+- abrabɔ pa a ɛfa awaregyae ho 2:229-231; 65:1-2
+- awaregyae ne bere a wode twɛn 2:226-241; 4:19-21; 33:49; 65:1-7
+- okunu a onnye awaree no mu biribiara nsan 4:20
+- yere nnhaw no 65:6
+- yere a wobeboa no sika mu wo nyinsɛn mu 65:6
+- wɔ ne twɛn bere mu 65:6
+- sɛ ɔma ne kunu dedaw no ba nufu a, 65:6
+- awofoa biara nnye amanehunu enam ne ba no nti 2:233
 - a wopaw ma wet-nurse 65:6
 - a wohye papa ho nkuran na wobara bone 3:104; 3:110; 7:157; 9:71-72; 31:17
-- pɛyɛ a ɛwɔ nnipa mu 49:13;
-- mmarima ne mmaa wɔ Allah ne mmara no anim, 3:195; 4:124; 5:38; 16:97; 24:2; 40:40;
+- pɛyɛ a ɛwɔ nnipa mu 49:13
+- mmarima ne mmaa wɔ Allah ne mmara no anim, 3:195; 4:124; 5:38; 16:97; 24:2; 40:40
 - mmarima wɔ asɛdeɛ bi a ɛboro mmaa so 2:228
 - a wode ma ahiafo, nyisaa, ne nnommum 76:8-9
 - Fanefakye ne abufuo so tumi 3:134; 42:40
 - a wobegye nkoa na woaboa won 4:92; 5:89; 9:60; 24:33; 58:3; 90:13
 - a wodi obi ankasa awofo ni 4:36; 17:23-25; 31:14-15
 - Ahobrɛaseɛ 17:37; 31:18-19
-- Nkyerɛaseɛ a ɛfa Abraham daeɛ ho 37:102;
-- Nkyerɛaseɛ a ɛfa Yosef daeɛ ho 12:4; 12:36; 12:43;
+- Nkyerɛaseɛ a ɛfa Abraham daeɛ ho 37:102
+- Nkyerɛaseɛ a ɛfa Yosef daeɛ ho 12:4; 12:36; 12:43
 - Nkyerɛaseɛ a ɛfa Muhammad daeɛ ho 8:43; 48:27
 - adom a woye ma won a wonnye Nkramofo 60:8
-- Awaree 4:3; 4:129; 16:72; 30:21;
-- mmaa a mmara kwan so na wonnye mmara kwan so se wobeware 4:22-24;
-- abrabɔ pa a ɛfa abusuabɔ a emu yɛ den ho 2:222-223;
-- nyinsɛn ne nufusu 2:233; 31:4; 46:15; 65:6;
-- a wosan ware n'ankasa ne yere dedaw 2:230;
-- a woboa asigyafoo ma woware 24:32;
+- Awaree 4:3; 4:129; 16:72; 30:21
+- mmaa a mmara kwan so na wonnye mmara kwan so se wobeware 4:22-24
+- abrabɔ pa a ɛfa abusuabɔ a emu yɛ den ho 2:222-223
+- nyinsɛn ne nufusu 2:233; 31:4; 46:15; 65:6
+- a wosan ware n'ankasa ne yere dedaw 2:230
+- a woboa asigyafoo ma woware 24:32
 - a wode anifere da anigye adi wo bere a woretwɛn no mu 2:235
-- Ntam 2:224-225; 16:91-92; 16:94;
+- Ntam 2:224-225; 16:91-92; 16:94
 - a wode besiesie ntam a woabu so 5:89
 - abotare wo mmere a emu ye den mu 2:45; 2:153-157; 3:186; 12:18; 12:83; 16:127-128; 70:5
-- ho kwan se wobeba wo 24:58-60;
-- a worehyene nnipa afie mu 24:27-28;
+- ho kwan se wobeba wo 24:58-60
+- a worehyene nnipa afie mu 24:27-28
 - a wobɛhyɛn ɔmanfoɔ mmeaeɛ 24:29
-- asetena mu abrabɔ pa, nsɛm a ɛkyerɛ sɛ ɛyɛ nokware 4:83; 49:6;
-- obuo ma obiara 49:11-12;
-- abrabɔ pa a ɛfa nhyiamu ho 58:11;
+- asetena mu abrabɔ pa, nsɛm a ɛkyerɛ sɛ ɛyɛ nokware 4:83; 49:6
+- obuo ma obiara 49:11-12
+- abrabɔ pa a ɛfa nhyiamu ho 58:11
 - kokoam kasa 4:114; 58:9
 - Ntam 2:270; 9:75-77; 22:29; 76:7
 - a wosɛe ade ne ahokeka 7:31; 17:29; 25:67
 Nsɛm afoforo
-- Habel ne Kain 5:27-31;
-- Al-Khadir ne Mose 18:60-82;
-- Asono Asraafoa 105:1-4;
-- agyidifoa a ofi Farao nkurafoa mu 40:28-46;
-- awoo Maria 3:35-36;
-- Nantwi a wofiri Israel mma mu 2:67-74;
-- Esra 2:259;
+- Habel ne Kain 5:27-31
+- Al-Khadir ne Mose 18:60-82
+- Asono Asraafoa 105:1-4
+- agyidifoa a ofi Farao nkurafoa mu 40:28-46
+- awoo Maria 3:35-36
+- Nantwi a wofiri Israel mma mu 2:67-74
+- Esra 2:259
 - turo wuranom 68:17-32
 - Harut ne Marut 2:102
 - Kora 28:76-82
-- Luqman afotuo a wode maa ne ba 31:12-19;
-- a ɔyɛ turo mmienu no wura 18:32-44;
-- nnipa a wofiri Seba 34:15-19;
-- nnipa a wowo abodan mu 18:9-26;
-- nnipa a wofiri amena no mu 85:1-8;
-- Homeda-abusuafo 7:163-165;
-- Samiri ne Sika Nantwi ba 20:83-97;
-- Saul ne Samuel 2:247-251;
+- Luqman afotuo a wode maa ne ba 31:12-19
+- a ɔyɛ turo mmienu no wura 18:32-44
+- nnipa a wofiri Seba 34:15-19
+- nnipa a wowo abodan mu 18:9-26
+- nnipa a wofiri amena no mu 85:1-8
+- Homeda-abusuafo 7:163-165
+- Samiri ne Sika Nantwi ba 20:83-97
+- Saul ne Samuel 2:247-251
 - Zul-Qarnain 18:83-98 na ɔkyerɛwee
-Abonsam 2:102; 6:71; 6:112; 6:121; 7:27; 7:30; 17:27; 19:68; 19:83; 22:3-4; 23:97-98; 26:210; 37:7-10; 38:37-38; 67:5;
-- abonsam nnipa ne jinn 6:112;114:6;
+Abonsam 2:102; 6:71; 6:112; 6:121; 7:27; 7:30; 17:27; 19:68; 19:83; 22:3-4; 23:97-98; 26:210; 37:7-10; 38:37-38; 67:5
+- abonsam nnipa ne jinn 6:112;114:6
 - esoro a woabo ho ban afiri ahonhommɔne ho 15:16-18
 Anuonyam
-- a enni Dkomhyeni no akyi 25:27;
-- a wonnye sotie mma Allah ne Ne Somafoa 4:41-42; 33:64-68;
-- a wogye nnamfo bone 25:28-29; 26:96-102; 43:36-39;
-- a wopo Allah Nsenkyerennee ahoroo 6:27-30;
+- a enni Dkomhyeni no akyi 25:27
+- a wonnye sotie mma Allah ne Ne Somafoa 4:41-42; 33:64-68
+- a wogye nnamfo bone 25:28-29; 26:96-102; 43:36-39
+- a wopo Allah Nsenkyerennee ahoroo 6:27-30
 - a ennye adwuma mma Daankwamma 89:23-24
 Adesrɛ a ɛyɛ hu
-- srɛsrɛ sɛ wɔnsan nkɔ wiase 2:167; 6:27-28; 32:12-14; 42:44;
-- ma hokwan a ɛtɔ so mmienu 35:36-37;
-- a wobeyi afiri Egya no mu 40:10-12;
-- ma aduane ne nsuo 7:51-52;
-- ma ntamgyinafoɔ 7:52-53;
-- a wode begu mfutuma mu 4:41-42; 78:40;
+- srɛsrɛ sɛ wɔnsan nkɔ wiase 2:167; 6:27-28; 32:12-14; 42:44
+- ma hokwan a ɛtɔ so mmienu 35:36-37
+- a wobeyi afiri Egya no mu 40:10-12
+- ma aduane ne nsuo 7:51-52
+- ma ntamgyinafoɔ 7:52-53
+- a wode begu mfutuma mu 4:41-42; 78:40
 - ma owuo 43:74-78
 Atreneefo su ahorow
 - a wodi 3:133-136; 4:36; 4:69-70; 6:151-154; 8:2-4; 13:19-24; 17:23-39;18:107-108; 23:1-11; 25:63-76; 42:36-43
 Abɔnefo su horow
-- a wonni aseda 14:34;
-- a ɔyɛ ɔkwasea 17:100;
-- ahopere 21:37;
-- kae Allah wo mmere a emu ye den mu nkoaa 10:12; 41:51;
-- a wonni abotare 70:19;
+- a wonni aseda 14:34
+- a ɔyɛ ɔkwasea 17:100
+- ahopere 21:37
+- kae Allah wo mmere a emu ye den mu nkoaa 10:12; 41:51
+- a wonni abotare 70:19
 - akyinnyegye 18:54
 Bɔne Ahorow Kɛse
 - a wode afoforɔ bɛka Allah ho wɔ ɔsom mu (shirk) 4:48; 4:116; 5:72; 6:19; 31:13: 1 .
-- a wodi obi ankasa awofoɔ ayayadeɛ 4:36; 6:151; 17:23;
-- a wobebu ani agu so anaase wobegyae mpaebo a ehia 19:59-60;
-- a wontua adom-tow 41:6-7;
-- awudi 6:151; 17:33;
-- a woahyehye akum agyidifoa 4:93;
-- korɔnbɔ 5:38;
-- nsisi 7:85; 11:85; 26:182-183; 83:1-6;
-- atoro 2:10; 9:77; 39:60;
-- a wodi atoro fa Allah ho 6:93; 29:68; 61:7;
+- a wodi obi ankasa awofoɔ ayayadeɛ 4:36; 6:151; 17:23
+- a wobebu ani agu so anaase wobegyae mpaebo a ehia 19:59-60
+- a wontua adom-tow 41:6-7
+- awudi 6:151; 17:33
+- a woahyehye akum agyidifoa 4:93
+- korɔnbɔ 5:38
+- nsisi 7:85; 11:85; 26:182-183; 83:1-6
+- atoro 2:10; 9:77; 39:60
+- a wodi atoro fa Allah ho 6:93; 29:68; 61:7
 - a woabara nna mu 2:222; 17:32; 24:2; 25:68; 29:28-30
-- atoro soboo a efa awaresɛe ho 24:4-5;
-- awaeyaw 2:217; 5:54;
-- a wodi mprako ne nnuan foforo a woabara (carrion, mogya, ne nea ekeka ho) 5:3; 6:145;
-- nsa ne kyakyatow 5:90-91;
-- akyigyina 49:11;
-- atoro adansedie 22:30;
+- atoro soboo a efa awaresɛe ho 24:4-5
+- awaeyaw 2:217; 5:54
+- a wodi mprako ne nnuan foforo a woabara (carrion, mogya, ne nea ekeka ho) 5:3; 6:145
+- nsa ne kyakyatow 5:90-91
+- akyigyina 49:11
+- atoro adansedie 22:30
 - nkonyaayie 2:102; 10:77; 20:69
 """;

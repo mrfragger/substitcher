@@ -5,18 +5,18 @@ Abluzioni (Wudu), 4:43; 5:6
 Abramo (Ibrahim) S.14; 2:135-136, 148; 3:33, 84, 95; 4:54, 125, 163; 6:161; 9:70, 114; 12:6, 38; 16:120; 19:58; 21:51, 60, 62, 69; 22:43, 78; 26:69; 29:31; 33:7; 37:83, 104, 109; 38:45; 42:13; 43:26; 51:24; 53:37; 57:26; 60:4; 87:19
 - né ebreo né cristiano, 3:67-68
 - si fermò nel primo tempio a Bakkah, 3:97; 26:123
-- pone le fondamenta della Ka'bah 2:124-129;
-- chiama il suo popolo all'adorazione dell'Unico Dio Vero 2:130-133; 26:69-89; 29:16; 29:24-27;
-- dibatte con un re arrogante 2:258,
-- chiede informazioni sulla resurrezione 2:260;
-- né ebreo né cristiano 3:65-68;
-- confuta il culto celeste 6:74-87;
-- riceve la notizia della nascita di Isacco 11:69-76; 51:24-30;
-- la sua preghiera alla Ka'bah 14:35-41;
-- visitato dagli angeli 15:51-56;
-- un modello esemplare 16:123;
-- chiama suo padre alla verità 19:41-50;
-- distrugge gli idoli ed è salvato dal fuoco 21:51-73; 37:83-113;
+- pone le fondamenta della Ka'bah 2:124-129
+- chiama il suo popolo all'adorazione dell'Unico Dio Vero 2:130-133; 26:69-89; 29:16; 29:24-27
+- dibatte con un re arrogante 2:258
+- chiede informazioni sulla resurrezione 2:260
+- né ebreo né cristiano 3:65-68
+- confuta il culto celeste 6:74-87
+- riceve la notizia della nascita di Isacco 11:69-76; 51:24-30
+- la sua preghiera alla Ka'bah 14:35-41
+- visitato dagli angeli 15:51-56
+- un modello esemplare 16:123
+- chiama suo padre alla verità 19:41-50
+- distrugge gli idoli ed è salvato dal fuoco 21:51-73; 37:83-113
 - invita tutti al pellegrinaggio 22:26
 Abrar, 3:193, 198; 76:5; 82:13; 83:18-22
 Abrogazione, 2:106, 16:101
@@ -26,11 +26,10 @@ Adamo, 3:33, 59; 5:27; 7:26-27, 31, 35, 172; 17:70; 19:58; 36:60
 - gli angeli devono prostrarsi davanti a lui, 2:34; 7:11
 - albero della conoscenza, 2:35; 7:19-20; 20:120-121
 - cacciata dal Giardino (nessuna colpa su Eva), 2:36; 7:24
-- onorato da Allah, tentato da Satana 2:30-38; 7:11-25; 17:61-65; 18:50; 20:115-123; 38:71-85;
+- onorato da Allah, tentato da Satana 2:30-38; 7:11-25; 17:61-65; 18:50; 20:115-123; 38:71-85
 - perdonato da Allah 2:37; 20:122
 'Adiyat, S.100
-Paradiso di 'Adn, 9:72; 13:23; 16:31; 18:31;
-19:61; 20:76; 35:33; 38:50; 40:8; 61:12; 98:8
+Paradiso di 'Adn, 9:72; 13:23; 16:31; 18:31;19:61; 20:76; 35:33; 38:50; 40:8; 61:12; 98:8
 Avversità
 - non si è gravati dal fardello altrui, 6:164; 17:15; 35:18; 39:7; 53:38
 - non si è gravati oltre la propria capacità di sopportazione, 2:286; 6:152; 7:42; 23:62
@@ -113,7 +112,7 @@ Apostasia, 3:72; 3:86-88; 3:90-91; 3:167; 4:137; 5:54; 9:74; 9:107; 16:106; 33:1
 Apostati, 47:25
 A'raf, S.7; 7:46, 48
 Arafat, 2:198
-Argomentare,
+Argomentare
 - non difendere coloro che ingannano sé stessi, 4:107
 - hai argomentato per loro in questo mondo, ma chi lo farà nel Giorno della Resurrezione, 4:109
 Argomenti/Attacchi
@@ -123,7 +122,7 @@ Armatura, 16:81
 'Asr, S.103
 Ayat Al-Kursi, 2:255
 Maldicente, 49:12; 104:1
-Badr (battaglia di), 3:13,
+Badr (battaglia di), 3:13
 - insegnamenti da, 8:5-19, 42-48
 Al-Bait-ul-Ma'mur, 52:4
 Bakkah (Makkah), 3:96
@@ -133,7 +132,7 @@ Equilibrio, 7:8-9; 17:35; 21:47; 55:7-9; 57:25;101:6-9
 Banu An-Nadir, 59:2-6, 13
 Baqarah, S.2
 Bara'a (Vedi Taubah), S.9
-Barzakh, (Barriera), 23:100; 25:53; 55:20;
+Barzakh, (Barriera), 23:100; 25:53; 55:20
 - vedi anche 18:94-97; 34:54; 36:9
 Baiyinah, S.98
 Bestia (degli Ultimi Giorni), 27:82
@@ -182,7 +181,7 @@ Bibbia, 5:64, 5:65, 5:68
 - distorsione della, 3:78; 5:14-15
 Uccelli, 2:260; 3:49; 5:110; 6:38; 12:36, 41; 16:79; 21:79; 22:31; 24:41; 27:16-17, 20; 34:10; 38:19; 56:21; 67:19; 105:3
 Prezzo del sangue (Diya), 2:178-179; 4:92; 17:33
-Bottino di guerra, 4:94. 8:41; 59:6-8;
+Bottino di guerra, 4:94. 8:41; 59:6-8
 - prendere illegalmente, 3:162
 - vedi bottino di guerra
 Corruzione, 2:188
@@ -220,7 +219,7 @@ Abbigliamento, 7:26; 16:81
 - i sopravvesti delle donne le proteggono dalle molestie degli ipocriti, 33:59-60
 Confederati, 33:9, 22
 - vedi Ahzab Consultazione, reciproca, 42:38
-Creazione,
+Creazione
 - ha inizio e si ripete, 10:4; 21:104; 27:64; 29:19-20
 - una nuova, 17:49, 98; 35:16
 - con verità, 15:85; 16:3; 29:44; 39:5; 44:39;45:22; 46:3
@@ -240,12 +239,12 @@ Corvo, 5:31
 Criterio, 2:53, 185; 3:4; 8:29, 41; 21:48; 25:1
 Dahr, (vedi Insan,) S.76; 45:24
 - tempo, 76:1; 103:1
-Davide, 5:78; 6:84; 17:55; 34:10, 13; 38:17-30;
+Davide, 5:78; 6:84; 17:55; 34:10, 13; 38:17-30
 - riceve i Salmi 4:163
 - combatte e uccide Golia, 2:251
-- emette un giudizio 21:78-80;
-- benedetto con conoscenza e profezia 27:15-16;
-- montagne e uccelli si uniscono a lui nel lodare Allah 34:10; 38:17-20;
+- emette un giudizio 21:78-80
+- benedetto con conoscenza e profezia 27:15-16
+- montagne e uccelli si uniscono a lui nel lodare Allah 34:10; 38:17-20
 - giudica tra due persone 38:21-26
 Dawabb o Dabbah (creatura vivente in movimento, ecc.) 2:164; 6:38; 8:22, 55; 11:6, 56; 16:49, 61; 22:18; 24:45; 27:82; 29:60;31:10; 34:14; 35:28, 45; 42:29; 45:4
 I morti saranno resuscitati, 6:36
@@ -255,17 +254,17 @@ Morte, 3:185; 3:193; 4:78; 6:61; 6:93; 21:35; 23:99-108; 31:34; 32:11; 33:19; 33
 - quelle comunità prive di rivelazione non saranno distrutte, 6:131; 9:115; 10:47; 11:117; 15:4; 16:119; 17:15; 28:59
 - coloro che cadono nella causa di Allah sono vivi, 2:154; 3:169
 - mentre si fugge dal male verso Allah, 4:100
-- non può essere fermata né ritardata 63:10-11;
-- fratello gemello del sonno 6:60; 39:42;
-- credenti e miscredenti al momento della morte 8:50; 16:27-32; 41:30;
+- non può essere fermata né ritardata 63:10-11
+- fratello gemello del sonno 6:60; 39:42
+- credenti e miscredenti al momento della morte 8:50; 16:27-32; 41:30
 - punizione nella tomba 40:46
 Debiti, 2:280, 282; 4:11-12
-Decreto,
+Decreto
 - per ogni questione vi è un, 13:38
 - non abbiamo mai distrutto una città senza che vi fosse un noto, per essa, 15:4
 - ogni questione proviene da Allah, 44:5
 - quando decreta una cosa, dice solo "Sii!" — ed è, 2:117; 36:82; 40:68
-Azioni,
+Azioni
 - le malvagie, abbellite per loro, 47:14
 - a noi le nostre, a voi le vostre, 28:55; 42:15; 45:15
 - le buone e le cattive, sono a favore e contro sé stessi, 41:46
@@ -279,7 +278,7 @@ Dhariyat, S.51
 Dhikr, 7:205; 15:6, 9
 Dhul-Kifi, 21:85; 38:48
 Dhul-Qarain, 18:83-98
-Dhun-Nun (Compagno del Pesce),
+Dhun-Nun (Compagno del Pesce)
 Miscredenti (vedi anche Ipocriti)
 - chiedono a Muhammad (ﷺ) di invocare l'ira di Allah su di loro come prova, 6:57-58; 8:32; 10:49-52
 - sopportare la loro compagnia con gentilezza, 31:15
@@ -304,7 +303,7 @@ Fossato, gente del, 85:4-10
 Diversità
 - degli esseri umani, 30:22, 35:27-28
 - della vita, 35:27-28
-Divorzio, 2:228-232, 236-237, 241; 4:35, 130; 65:1-7;
+Divorzio, 2:228-232, 236-237, 241; 4:35, 130; 65:1-7
 - dopo il periodo di attesa, sciogliere o riconciliarsi, 2:231; 65:2
 - due testimoni, 65:2
 - alimenti, 2:233, 241
@@ -340,7 +339,7 @@ Divorzio, Donna
 - a meno che il matrimonio non sia stato consumato, 33:49
 Cani, 7:176
 Asini, 2:259; 16:8; 31:19; 62:5; 74:50
-Bevanda,
+Bevanda
 - alcolica, 2:219; 5:90
 - pura e bianca deliziosa, 37:45-46; 76:21
 - vino puro sigillato, 83:25
@@ -363,13 +362,13 @@ Male, 4:123; 10:27-30; 19:83; 59:15
 - cambiato in bene, 7:95
 - coloro che seguono i loro, desideri, 47:14, 16
 - azioni abbellite per loro, 47:14
-Eccesso,
+Eccesso
 - vietato nel cibo, 5:87
 - nella religione, 4:171; 5:77-81
 Occhi, orecchie e pelle testimonieranno contro i peccatori, 41:20-23
 Esdra, (Uzair) 9:30
 Volto o Sembiante di Allah, 2:115, 272; 6:52; 13:22; 18:28; 28:88; 30:38-39; 55:27; 76:9; 92:20
-Apparentemente buono,
+Apparentemente buono
 - Allah ha reso, le azioni di ciascun popolo ai propri occhi, 6:108
 Fede (Credenza), 2:108; 3:167, 177, 193; 5:5; 9:23; 16:106; 30:56; 40:10; 42:52; 49:7, 11, 14; 52:21; 58:22; 59:9-10
 - coloro che rifiutano la, 3:116
@@ -379,7 +378,7 @@ Fede (Credenza), 2:108; 3:167, 177, 193; 5:5; 9:23; 16:106; 30:56; 40:10; 42:52;
 Fajr, S.89
 Falaq, S.113
 Falsa conversazione sui Versetti del Corano, 6:68
-Falsi dei,
+Falsi dei
 - oltre ad Allah, idoli e cosiddetti partner 7:194-198; 16:20-21, 72, 86; 21:22, 24; 34:22, 27; 41:47-48; 46:5-6; 53:19-24; 71:23-24
 - non insultare coloro che adorano oltre ad Allah, 6:108
 - vedi anche Taghut
@@ -394,7 +393,7 @@ Fidyah (riscatto), del digiuno, 2:196
 - per la liberazione dei prigionieri, 8:67
 - riscatto offerto dai miscredenti, 3:91; 5:36,37; 10:54; 13:18
 Fico, 95:1
-Combattimento,
+Combattimento
 - nella via di Allah, contro i miscredenti, 2:190-193, 244; 4:84, 95; 8:72, 74, 75; 9:12-16, 20, 24, 36, 123; 47:4; 61:11
 - prescritto, 2:216
 - nei mesi sacri, 2:217; 9:5
@@ -410,7 +409,7 @@ Fil, S.105
 Paradiso di Firdaus, 18:107; 23:11
 Fuoco, 56:71, 100:2
 Mosca, 22:73
-Cibo,
+Cibo
 - lecito e illecito, (Halal e Haram), 2:168, 172, 173; 5:1, 3-5, 88; 6:118-119, 121, 145-146; 16:114-118; 23:51
 - nessun peccato per ciò che si è mangiato in passato, 5:93
 - non trasgredire, 5:87
@@ -432,7 +431,7 @@ Perdono, 2:109; 4:48, 110, 116; 5:74; 7:199; 39:53; 42:5, 40-43; 45:14; 53:32; 5
 - gareggiare nell'affrettarsi verso il, 57:21
 - le azioni malvagie trasformate in buone 25:68-71
 Frode, (vedi Tradire) 83:1-6
-Libero arbitrio,
+Libero arbitrio
 - limitato dalla Volontà di Allah, 6:107; 10:99; 74:56;76:31; 81:28-29
 - chiunque voglia, che: creda o non creda, 18:29
 - prendere un cammino verso il suo Signore, 76:29
@@ -466,14 +465,14 @@ Bene (Giorni), 3:140
 - Allah ricompensa coloro che fanno il bene con ciò che è meglio, 53:31
 - vi è forse altra ricompensa per il bene se non il bene, 55:60
 - fai il bene come Allah è stato buono con te, 28:77
-Bene e Male,
+Bene e Male
 - il bene viene da Allah e il male viene da te stesso, 4:79
 - se fai del bene è per te stesso e se fai del male è contro te stesso, 17:7; 41:46
 - respingere il male con il bene, 23:96; 28:54; 41:34
 - il bene e il male non possono essere uguali, 41:34
 - ogni persona si troverà di fronte a tutto il bene e il male che ha compiuto, 3:30
 - vedi anche Muhsinun
-Buona azione,
+Buona azione
 - renderla nota o tenerla nascosta, 4:149
 - gareggiare nel compierle, 5:48
 Vangelo, 3:3, 48, 65; 5:46-47, 66, 68, 110;7:157; 9:111; 48:29; 57:27
@@ -490,7 +489,7 @@ Difficoltà, con ogni difficoltà vi è sollievo, 94:5-6
 Harun, (Aronne)
 Harut, 2:102
 Hashr, S.59
-Cuori,
+Cuori
 - indurito, 2:74; 22:53; 39:22; 57:16
 - sigillati, 7:100-101; 40:35; 47:16; 63:3
 - coperti, 17:46; 41:5
@@ -498,7 +497,7 @@ Cuori,
 - divisi, 59:14
 - pieni di timore, 22:35
 - in cui vi è una malattia, 2:10; 5:52; 8:49; 9:125; 22:53; 24:50; 33:12, 32, 60; 47:20, 29;74:31
-Cieli,
+Cieli
 - ad Allah appartiene l'invisibile dei, 16:77
 - non creati per gioco, 21:16
 - e la terra erano uniti insieme, 21:30
@@ -528,7 +527,7 @@ Inferno (il fuoco, la fiamma ardente) 2:24, 119, 161, 166, 201; 3:10, 12, 116, 1
 - disperazione bruciante e oscurità gelida in, 38:57
 - catena di 70 cubiti, 69:32
 - permanenza per una durata limitata, 78:23
-Aldilà,
+Aldilà
 - migliore è la dimora nell', 6:32; 7:169
 - quale sarà la fine nell', 6:135
 - gli Zalimun non avranno successo (nell'), 6:135
@@ -545,7 +544,7 @@ Hijr (Zona Rocciosa), 15:80-85
 Hijr, S.15
 Omosessualità 26:165-166; 27:55; 29:28-29
 Cavalli, 16:8
-Ora,
+Ora
 - la sua conoscenza è solo presso Allah, 7:187; 31:34; 33:63; 41:47; 68:26; 79:42-46
 - giunge su di loro all'improvviso, 6:31; 7:187;12:107; 43:66
 - viene su di te, 6:40; 12:107; 20:15; 34:3
@@ -554,9 +553,9 @@ Ora,
 - terremoto dell', 22:1
 - sarà stabilita, nel Giorno, 30:12, 14
 - certamente verrà, non c'è dubbio, 40:59;45:32; 51:5-6
-- segni 21:96; 27:82; 43:61; 47:18; 54:1-2;
-- nomi 1:3; 2:4; 3:55; 19:39; 30:56; 37:21; 40:15; 41:47; 42:7; 50:20; 56:1; 64:9; 69:1; 79:34; 80:33; 88:1; 101:1-3;
-- coglierà le persone di sorpresa 6:31; 7:187;
+- segni 21:96; 27:82; 43:61; 47:18; 54:1-2
+- nomi 1:3; 2:4; 3:55; 19:39; 30:56; 37:21; 40:15; 41:47; 42:7; 50:20; 56:1; 64:9; 69:1; 79:34; 80:33; 88:1; 101:1-3
+- coglierà le persone di sorpresa 6:31; 7:187
 - la Tromba sarà suonata 6:73; 23:101; 39:68
 Case, modi di entrare, 24:27-29
 Hud, 7:65-72; 11:50-60; 26:123-140; 46:21-26
@@ -565,7 +564,7 @@ Hujurat, S.49
 Humazah, S.104
 Hunain (battaglia di), 9:25
 Hur (donne in Paradiso), 44:54; 52:20
-Ipocriti,
+Ipocriti
 - dicono: crediamo in Allah e nell'Ultimo Giorno, ma in realtà non credono, 2:8
 - ingannano sé stessi, 2:9
 - malattia nel loro cuore, 2:10; 8:49; 22:53;33:12; 47:29
@@ -609,8 +608,8 @@ Ilah, uno solo, 2:163; 6:19; 16:22, 51; 23:91; 37:4; 38:65
 Rapporti sessuali illeciti; testimonianza di testimoni, 4:15-18; 24:2, 19
 Illiyyun, 83:18-21
 Impuro (Najas) 9:28
-'Imran,
-- moglie di, 3:35;
+'Imran
+- moglie di, 3:35
 - figlia di, 66:12
 Inevitabile, 69:1-3
 Infitar, S.82
@@ -629,7 +628,7 @@ Ferro, 57:25
 'Isa, vedi Gesù
 Isacco, (Ishaq) 2:133; 4:163; 6:84; 19:49;21:72; 29:27; 37:112-113
 Ismaele (Isma'il), 2:125-129, 133; 4:163;6:86; 19:54-55; 21:85; 38:48
-pone le fondamenta della Ka'bah con suo padre 2:125-140;
+pone le fondamenta della Ka'bah con suo padre 2:125-140
 storia del sacrificio 37:100-113
 Islam, 3:19, 85; 5:3; 6:125; 39:22; 61:7
 - primo tra coloro che si sottomettono come musulmani, 6:14,163; 39:12
@@ -658,8 +657,8 @@ Giacobbe, (Ya'qub) 2:132-133; 4:163; 6:84;12:18; 19:49; 21:72; 29:27
 Jalut, (vedi Golia)
 Jamarat, 2:200
 Jathiyah, S.45
-Gesù, Isa figlio di Maria,
-- sua madre scelta tra tutte le donne del mondo 3:42;
+Gesù, Isa figlio di Maria
+- sua madre scelta tra tutte le donne del mondo 3:42
 - testimonia nel Giorno della Resurrezione, 4:159
 - lieta novella della nascita, 3:45-47; 19:22-23
 - Messaggero ai Figli d'Israele, 3:49-51
@@ -682,9 +681,9 @@ Gesù, Isa figlio di Maria,
 - vedute divergenti su di lui, 43:65
 - non più di un servo e un esempio per i Figli d'Israele, 43:59
 - lieta novella di un Messaggero il cui nome sarà Ahmad, 61:6
-- la sua nascita verginale, il messaggio e i miracoli 3:45-51; 19:16-38;
-- ricordato dei favori di Allah 5:110-115;
-- nega di essere divino 5:116-120;
+- la sua nascita verginale, il messaggio e i miracoli 3:45-51; 19:16-38
+- ricordato dei favori di Allah 5:110-115
+- nega di essere divino 5:116-120
 - compassione e grazia nel cuore dei suoi seguaci 5:82; 57:27
 Ebrei e Cristiani, 2:140; 4:153-161, 171; 5:18
 - ascoltano la falsità, 5:41-42
@@ -694,41 +693,41 @@ Ebrei e Cristiani, 2:140; 4:153-161, 171; 5:18
 Jibril, (vedi Gabriele)
 Jihad, (Combattimento, Lotta) 2:216; 9:24; 22:78; 25:52
 Jinn, S.72
-Jinn, 6:100, 112; 15:27; 34:41; 38:37; 46:18,29; 55:33, 39;
-Jinn, creati dal fuoco 15:25; 55:15;
-- jinn credenti e miscredenti 72:1-15;
+Jinn, 6:100, 112; 15:27; 34:41; 38:37; 46:18,29; 55:33, 39
+Jinn, creati dal fuoco 15:25; 55:15
+- jinn credenti e miscredenti 72:1-15
 - alcuni credettero nel messaggio del Corano 46:29-32
 - esseri umani e jinn creati per uno scopo 51:56-58
 Giobbe, 4:163; 6:84; 21:83-84; 38:41-44
-Giovanni, (Yahya, Giovanni Battista),
+Giovanni, (Yahya, Giovanni Battista)
 - lieta novella di, 3:38-41; 19:7-11; 21:90
 - giusto, 6:85
 - saggio, compassionevole, devoto, 19:12-15
-Giona (Jonas o Yunus), 4:163; 6:86; 10:98;21:87; 37:139-148;
+Giona (Jonas o Yunus), 4:163; 6:86; 10:98;21:87; 37:139-148
 - (Dhu n-Nun) 21:87; 68:48-50
 Giuseppe (Yusuf), 6:84; 12:4-101
-- il migliore dei racconti 12:1-3;
-- il sogno del giovane Yusuf 12:4-6;
-- la cospirazione dei suoi fratelli 12:7-18;
-- venduto come schiavo 12:19-20;
+- il migliore dei racconti 12:1-3
+- il sogno del giovane Yusuf 12:4-6
+- la cospirazione dei suoi fratelli 12:7-18
+- venduto come schiavo 12:19-20
 - cresciuto nella casa del Primo Ministro d'Egitto 12:21-22
-- la moglie del Primo Ministro tenta di sedurlo 12:23-29;
-- l'episodio del banchetto 12:30-32;
-- va in prigione 12:33-35;
-- i due compagni di cella 12:36-42;
-- il sogno del Re 12:43-53;
-- diventa Primo Ministro 12:54-57;
-- i fratelli vengono da lui per rifornimenti 12:58-68;
-- prende con sé il fratello Beniamino 12:69-82;
-- il rinnovato dolore del padre 12:83-87;
-- rivela la sua vera identità 12:88-98;
-- il vecchio sogno si avvera 12:99-100;
+- la moglie del Primo Ministro tenta di sedurlo 12:23-29
+- l'episodio del banchetto 12:30-32
+- va in prigione 12:33-35
+- i due compagni di cella 12:36-42
+- il sogno del Re 12:43-53
+- diventa Primo Ministro 12:54-57
+- i fratelli vengono da lui per rifornimenti 12:58-68
+- prende con sé il fratello Beniamino 12:69-82
+- il rinnovato dolore del padre 12:83-87
+- rivela la sua vera identità 12:88-98
+- il vecchio sogno si avvera 12:99-100
 - preghiera conclusiva 12:101
 Judi, Monte, 11:44
 Jumu'ah, S.62
 Giustizia (Adl), 2:282; 4:58, 135; 7:29; 16:90; 57:25
 - vedi anche 4:65, 105
-Ka'bah,
+Ka'bah
 - costruita da Abramo, 2:125-127
 - vietato uccidere la selvaggina, 5:94-96
 - rifugio di sicurezza, 5:97
@@ -740,17 +739,17 @@ Kahf, S.18
 Kanz, 9:34-35
 Kauthar (fiume in Paradiso), 108:1
 Kauthar, S.108
-Chiavi,
+Chiavi
 - dei cieli e della terra, 39:63; 42:12
 - del Ghaib, 6:59
 Khaulah bint Tha'labah, 58:1
-Uccisione,
+Uccisione
 - se qualcuno uccide una persona, ha ucciso tutta l'umanità, 5:32
 - non uccidere nessuno, 17:33
 Le parole gentili sono migliori della carità, 2:263
 Parenti, diritti dei, 2:83, 177, 215; 4:7-9, 36;8:41; 16:90; 17:26; 24:22; 29:8; 30:38; 42:23
 Kiraman-Katibin, 82:11
-Conoscenza,
+Conoscenza
 - non cade una foglia senza che Egli lo sappia, 6:59
 - perduti coloro che hanno ucciso i propri figli per follia, senza, 6:140
 - di cinque cose, solo presso Allah, 31:34
@@ -760,14 +759,14 @@ Kursi, 2:255
 Lahab (vedi Masad), S.111
 Lail, S.92
 Lampada, 25:61; 67:5; 71:16; 78:13
-Lingue,
+Lingue
 - differenza nelle, e nei colori degli uomini, 30:22
 Lat, 53:19
 Legge, prescritta, 5:48
 Leggi da Allah, 2:219; 98:3
 Bugiardi, 26:221-223
 Vita, se qualcuno ha salvato una persona, ha salvato la vita di tutta l'umanità, 5:32
-Vita di questo mondo,
+Vita di questo mondo
 - comprata al prezzo dell'Aldilà, 2:86
 - non è che godimento dell'inganno, 3:185
 - vendere la, per l'Aldilà, 4:74
@@ -779,7 +778,7 @@ Vita di questo mondo,
 - chiunque desideri la, ne ottiene; ma poi non avrà nulla nell'Aldilà, 11:15-16; 17:18; 42:20
 - coloro che amano il presente e trascurano l'Aldilà, 75:20-21; 76:27
 - preferite la, 87:16
-Luce,
+Luce
 - manifesta, 4:174
 - e tenebre, 6:1
 - parabola della, 24:35
@@ -794,7 +793,7 @@ Limiti stabiliti da Allah, 2:173, 187, 190, 230;9:112; 58:4; 65:1; 78:22
 - quando eccedettero i, (divennero scimmie), 7:166
 - coloro che osservano i, 9:112
 Leone, 74:51
-Prestito,
+Prestito
 - concedere ad Allah un bel prestito, 2:245; 73:20
 - aumentato molte volte, 57:11, 18
 - raddoppiato, 64:17
@@ -812,7 +811,7 @@ Mahr (denaro nuziale), 2:229, 236-237; 4:4,19-21, 24-25; 5:5; 33:50; 60:10-11
 Ma'idah, S.5
 Makkah (Bakkah), 3:96;90:1-2
 - Città Sicura, 95:3
-Uomo,
+Uomo
 - generazioni dopo generazioni sulla terra, 2:30;6:165
 - reso successore, 35:39
 - doveri, 2:83-84, 88, 177; 4:1-36; 8:41; 16:90;17:23-39; 24:22; 29:8-9; 30:38;33:33;42:23; 64:14; 70:22-35
@@ -877,7 +876,7 @@ Uomo,
 - trasgredisce ogni limite, 96:6-7
 Manasik (doveri) del Hajj, 2:128, 200; 22:30
 Manat, 53:20
-Umanità,
+Umanità
 - testimoni su, 2:143
 - una comunità, 2:213; 10:19
 - creata da una singola coppia, 4:1; 39:6; 49:13
@@ -887,7 +886,7 @@ Umanità,
 - il più onorevole tra, 49:13
 - divisa in nazioni e tribù, 49:13
 Manna e le quaglie, 2:57
-Modi,
+Modi
 - di entrare nelle case, 24:27-29
 - in casa, 24:58-61
 - nelle case del Profeta, 33:53
@@ -910,7 +909,7 @@ Matrimonio, 2:232, 234
 - coloro che non hanno i mezzi finanziari per il matrimonio, 24:33
 - mogli rese lecite al Profeta, 33:50-52
 - prima del rapporto sessuale, nessuna Iddah in caso di divorzio, 33:49
-Martiri,
+Martiri
 - non morti, 2:154; 3:169
 - gioiscono per la Grazia e la Generosità di Allah, 3:170-171
 - ricevono perdono e misericordia, 3:157-158
@@ -930,7 +929,7 @@ Masad, S.111
 Maun, S.107
 Paradiso di Ma'wa, 53:15
 Misura e peso, dare per intero, 11:85; 17:35;83:1-5
-Incontro,
+Incontro
 - con Allah, 6:31
 - del Grande Giorno, 19:37
 - dell'Aldilà, 30:16
@@ -960,7 +959,7 @@ Miraj, 17:1; 53:12
 Mesi, numero di, 9:36-37
 Luna, 7:54; 10:5; 16:12; 22:18; 25:61; 36:39-40; 71:16; 91:2
 - spaccatura della; 54:1
-Mosè,
+Mosè
 - e il suo popolo, 2:51-61; 7:138-141,159-162; 14:5-8; 61:5
 - e il Faraone, 2:49-50; 17:101-103; 20:17-53, 56-79;23:45-49; 25:31-42; 40:23-46; 43:46-56; 51:38-40; 73:16;79:15-26
 - guidato da Allah, 6:84
@@ -970,23 +969,23 @@ Mosè,
 - gli viene data la Scrittura, 17:2
 - nove Segni evidenti, 7:133; 17:101
 - alla confluenza dei due mari, 18:60-82
-- fatidico incontro al cespuglio ardente 20:9-36; 27:7-14; 28:29-35;
+- fatidico incontro al cespuglio ardente 20:9-36; 27:7-14; 28:29-35
 - chiamato e investito della Missione, 19:51-53;20:9-56
 - la sua infanzia, la madre e la sorella, 20:38-40;28:7-13
 - i maghi si convertono, 20:70-73; 26:46-52
 - a Madyan, 20:40; 28:22-28
 - gli viene dato il Criterio, 21:48
 - e il fuoco mistico, 27:7-12; 28:29-35
-- uccide un egiziano per errore in città 28:14-21;
+- uccide un egiziano per errore in città 28:14-21
 - venne con chiari Versetti, 29:39
-- storia con il Faraone 7:103-137; 10:75-92; 11:96-99; 26:10-69;
-- nove segni per il Faraone e il suo popolo 7:130-133; 20:17-22; 17:101;
-- sconfigge i maghi del Faraone 20:70-73; 26:46-52;
-- fuga verso Madian e matrimonio 28:22-28;
-- riceve le Tavole 7:142-154,
-- chiede di vedere Allah sul Monte 7:142-145;
-- onorato da Allah 33:69;
-- favori di Allah agli Israeliti 2:47-61;
+- storia con il Faraone 7:103-137; 10:75-92; 11:96-99; 26:10-69
+- nove segni per il Faraone e il suo popolo 7:130-133; 20:17-22; 17:101
+- sconfigge i maghi del Faraone 20:70-73; 26:46-52
+- fuga verso Madian e matrimonio 28:22-28
+- riceve le Tavole 7:142-154
+- chiede di vedere Allah sul Monte 7:142-145
+- onorato da Allah 33:69
+- favori di Allah agli Israeliti 2:47-61
 - gli Israeliti rifiutano di entrare a Gerusalemme 5:20-29
 - guidato al Retto Cammino, 37:114-122
 - Scrittura di, 53:36; 87:19
@@ -1074,7 +1073,7 @@ Mumtahanah, S.60
 Munafigun, S.63
 Omicidio, 2:178-179
 Mursalat, S.77
-Musulmani,
+Musulmani
 - i primi dei, 6:14, 163; 9:100; 39:12
 - chi li ha chiamati con questo nome, 22:78
 - perdono e grande ricompensa per coloro che, 33:35-36
@@ -1086,7 +1085,7 @@ Nahl, S.16
 Najas (impuro) 9:28
 Najm, S.53
 Najwa (vedi Segreto)
-Nomi,
+Nomi
 - a Lui appartengono i Nomi più Belli, 7:180
 - a Lui appartengono i Nomi migliori, 17:110; 20:8; 59:24
 Necessità, se uno è costretto dalla, 2:173; 6:145
@@ -1099,10 +1098,10 @@ Notte, (come simbolo), per il riposo, 10:67
 - per essere di servizio, 14:32
 - Notte di Al-Qadr (Decreto), 44:3-4; 97:1-5
 Nisa', S.4
-Noè, 3:33; 4:163; 6:84; 9:70; 10:71;11:25, 32, 36, 42, 45-46, 48, 89; 17:3; 21:76; 25:37; 26:105; 29:14; 37:75; 51:46;54:9; 69:11;
-- deriso 11:38;
+Noè, 3:33; 4:163; 6:84; 9:70; 10:71;11:25, 32, 36, 42, 45-46, 48, 89; 17:3; 21:76; 25:37; 26:105; 29:14; 37:75; 51:46;54:9; 69:11
+- deriso 11:38
 - il Diluvio (inondazione grave), 29:14
-- l'Arca e il Diluvio 7:59-69, 11:25-48; 23:23-31; 26:105-122; 71:1-28;
+- l'Arca e il Diluvio 7:59-69, 11:25-48; 23:23-31; 26:105-122; 71:1-28
 - il figlio empio non fu salvato, 11:42-48
 - moglie empia, 14:9; 17:3, 17;19:58;21:76; 22:42; 26:105-106, 116; 33:7; 37:75,79; 38:12; 42:13; 40:5, 31; 42:13;50:12;53:52; 57:26; 66:10; 71:1, 21, 26
 Nuh, S.71
@@ -1136,7 +1135,7 @@ Parabole, (similitudini, esempi)
 - pioggia, 10:24
 - raccolto falciato, 10:24
 - cieco e sordo, 11:24
-- Allah contro i falsi dei 13:14; 16:76;
+- Allah contro i falsi dei 13:14; 16:76
 - verità contro falsità 13:17
 - cenere su cui il vento soffia furiosamente, 14:18
 - albero buono, 14:24-25
@@ -1164,7 +1163,7 @@ Parabole, (similitudini, esempi)
 - asino, 62:5
 - se l'acqua fosse inabissata, 67:30
 - gente del giardino, 68:17-33
-Paradiso,
+Paradiso
 - di Dimora, (Paradiso di Ma'wa), 53:15
 - Paradiso di Firdaus, 18:107; 23:11
 - Giardini sotto i quali scorrono fiumi, 3:15, 198;4:57; 5:119; 7:43; 9:72; 18:31; 22:23; 39:20;57:12; 64:9; 98:8
@@ -1187,7 +1186,7 @@ Paradiso,
 - un fiume in Paradiso, Kauthar, 108:1
 - fiumi di vino, latte, miele purificato, 47:15
 - vino puro sigillato, bianco e delizioso, 37:45-46; 56:18; 76:21; 83:25
-- coppa mista con Zanjabil, 76:17; 78:34;
+- coppa mista con Zanjabil, 76:17; 78:34
 - acqua, 76:5
 - vassoi d'oro e coppe, 43:71
 - vasi d'argento e coppe di cristallo, 76:15-16
@@ -1234,21 +1233,21 @@ Paradiso,
 - mogli all'ombra piacevole, adagiate sui troni, 36:55
 - giovani fanciulle prosperose della stessa età, 78:33
 - giovani servitori immortali per servirli, come perle sparse, 52:24; 56:17; 76:19
-- vasta quanto i cieli e la terra 3:133, 57:21;
-- acqua corrente, ombra fresca, delizie e compagne pure 2:25; 4:57; 36:55-58; 37:40-49; 38:50-54; 44:51-57; 52:17-24; 69:19-24; 76:5-22;
-- ricompensa dei credenti 55:46-78; 56:10-40;
-- fiumi di miele, latte, acqua e vino 47:15;
-- preghiere e saluti 10:9-10; 39:73-74;
-- salutati con saluti di pace 13:23-24; 14:32;
-- dimora eterna nella Beatitudine 11:108;
-- mai invitati ad andarsene 15:45-48;
-- luce che risplende davanti a loro e alla loro destra 57:12;
-- né caldo né freddo 76:13;
-- tutti i desideri esauditi 16:30-32; 41:31-32;
-- braccialetti d'oro e vesti di seta fine 18:30-31; 22:23-24; 44:51-53;
-- vassoi di coppe d'oro 43:67-73;
-- vasi d'argento e frutti a portata di mano 76:14-16;
-- adagiati sui troni 15:47; 37:44; 52:20;
+- vasta quanto i cieli e la terra 3:133, 57:21
+- acqua corrente, ombra fresca, delizie e compagne pure 2:25; 4:57; 36:55-58; 37:40-49; 38:50-54; 44:51-57; 52:17-24; 69:19-24; 76:5-22
+- ricompensa dei credenti 55:46-78; 56:10-40
+- fiumi di miele, latte, acqua e vino 47:15
+- preghiere e saluti 10:9-10; 39:73-74
+- salutati con saluti di pace 13:23-24; 14:32
+- dimora eterna nella Beatitudine 11:108
+- mai invitati ad andarsene 15:45-48
+- luce che risplende davanti a loro e alla loro destra 57:12
+- né caldo né freddo 76:13
+- tutti i desideri esauditi 16:30-32; 41:31-32
+- braccialetti d'oro e vesti di seta fine 18:30-31; 22:23-24; 44:51-53
+- vassoi di coppe d'oro 43:67-73
+- vasi d'argento e frutti a portata di mano 76:14-16
+- adagiati sui troni 15:47; 37:44; 52:20
 - i credenti vedranno il loro Signore 75:22-23
 Genitori, gentilezza verso i, 2:83, 215; 4:36; 16:90;17:23; 29:8; 31:14; 46:15-17
 Soci di Allah, una falsità, 4:116;10:34-35, 66; 16:86; 28:62-64, 71-75; 30:40;42:21
@@ -1257,7 +1256,7 @@ Cammino, 5:77; 16:94; 42:52-53; 43:43; 90:11-12
 - vedi anche Via
 Pazienza, 3:186, 200; 10:109; 11:115; 16:126-127; 20:130; 40:55, 77; 42:43; 46:35; 70:5;73:10
 - cercare aiuto nella pazienza e nella preghiera, 2:45, 153; 20:132;50:39
-Paziente,
+Paziente
 - riceverà la ricompensa per intero, 39:10
 - Allah è con coloro che sono, 8:46
 - e sii, 11:115
@@ -1266,7 +1265,7 @@ Paziente,
 Pace, inclinarsi verso la, 8:61
 Perla e corallo, custoditi, 52:24; 55:22; 56:23
 Penna, 68:1; 96:4
-Persona,
+Persona
 - Allah non grava una, oltre le sue capacità, 2:286; 7:42
 - Allah non tassa nessuna, oltre le sue possibilità, 23:62
 - nessuna, sa ciò che guadagnerà domani e in quale terra morirà, 31:34
@@ -1287,7 +1286,7 @@ Faraone, 28:6; 40:24
 - costruzione di una torre, 40:36-37
 - vedi anche Mosè
 Accumulare le cose mondane, 102:1-4
-Patto (Bai'ah),
+Patto (Bai'ah)
 - per l'Islam, 16:91
 - al Messaggero è Bai'ah (patto) ad Allah, 48:10
 - dei Credenti, 48:18; 60:12
@@ -1323,17 +1322,17 @@ Profeti, 3:33-34, 146; 4:163; 5:20; 6:84-90;23:23-50; 57:26
 - illecito per i, 3:161
 - un nemico per ogni, 6:112; 25:31
 - vedi anche Messaggeri
-Prostrazione,
+Prostrazione
 - ad Allah si prostra chiunque sia nei cieli e sulla terra, e così fanno le loro ombre, 13:15
 Provvidenza, 10:59; 13:26; 14:32; 16:73; 34:36,39; 42:12; 51:57; 67:21; 79:33
 Salmi, 4:163
-Punizione,
+Punizione
 - rinvio della, 3:178
 - taglio delle mani o dei piedi, 5:33
 - punirli allo stesso modo in cui siete stati colpiti, 16:126
 - di questa vita e dell'Aldilà, 24:19; 68:33
-Purificazione,
-- corporale, 4:43; 5:6;
+Purificazione
+- corporale, 4:43; 5:6
 - spirituale (dalle impurità), 87:14; 91:9
 Qadar, 5:5; 64:11
 Qadr, S.97
@@ -1345,7 +1344,7 @@ Qarun (Korah), 28:76-82; 29:39
 Qasas, S.28
 Qiblah, 2:142-145, 149
 Qisas (Legge della parità nella punizione), 2:178-179, 194; 5:45; 16:126; 17:33; 22:60;42:40
-Corano,
+Corano
 - descritto, 13:31, 36, 37; 14:1; 56:77-80
 - non è tale da poter essere prodotto da altri che Allah, 2:23; 10:38; 11:13; 17:88
 - se fosse stato da altri che Allah, vi si sarebbero trovate molte contraddizioni, 4:82
@@ -1395,7 +1394,7 @@ Corano,
 - recitare pagine pure, 98:2
 - vedi anche Libro; Rivelazione
 Quraish, S.106
-Quraish,
+Quraish
 - miscredenti dei, 54:43-46, 51
 - addomesticamento dei, 106:1-4
 Rabbini e monaci, 9:31, 34
@@ -1403,26 +1402,26 @@ Gara, lottare come in una, nelle buone azioni, 5:48
 Ra'd, S.13
 Rahman, S.55
 La veste della giustizia è migliore, 7:26
-Pioggia,
+Pioggia
 - dono di Allah, 56:68-70
 - di pietre, 27:58
 Ramadan, 2:185
 Ramy, 2:200
-Riscatto,
+Riscatto
 - nessun, sarà accettato, 57:15
 - offerto dai miscredenti, 3:91; 10:54; 13:18
-Fidyah, del digiuno, 2:196;
+Fidyah, del digiuno, 2:196
 - per la liberazione dei prigionieri, 8:67
 Rass, abitanti del, 25:38; 50:12
-Ricompensa,
+Ricompensa
 - il Giorno della, 1:4; 37:20; 51:12; 56:56; 82:17-18; 96:7
 - coloro che la negano, 107:1-7
 - la ricompensa di un male è un male simile ad esso, 42:40
-Riconciliazione,
+Riconciliazione
 - chiunque perdoni e si riconcili, 42:40
 - tra uomo e moglie, 4:35
 - tra credenti, 49:9-10
-Registro,
+Registro
 - un Registro scritto, 83:7-9, 18-21
 - ogni nazione sarà chiamata al suo, 45:28-29
 - pagine scritte delle azioni di ogni persona, 81:10
@@ -1432,7 +1431,7 @@ Registro,
 - dietro la schiena, 84:10-15
 Angeli registratori, 50:17-18, 23; 85:11
 Sollievo, con la difficoltà, 94:5-6
-Religione,
+Religione
 - nessuna costrizione nella, 2:256
 - è l'Islam, 3:19
 - di Allah, 3:83-84
@@ -1449,7 +1448,7 @@ Religione,
 - religione degli antenati, 43:22-24
 Ricordo di Allah, 63:9
 - nel Suo, i cuori trovano pace, 13:28
-Pentimento,
+Pentimento
 - accettato se il male è stato compiuto nell'ignoranza e ci si pente subito dopo, 4:17; 6:54
 - non ha effetto il, se le azioni malvagie continuano, 4:18
 - Egli accetta il, e perdona i peccati, 4:25
@@ -1457,7 +1456,7 @@ Dilazione per il male, 3:178; 10:11; 12:110; 14:42,44; 29:53-55; 86:15-17
 Resurrezione, 2:28, 7:53; 14:21; 16:38-40; 22:5-7; 23:15-16; 31:28, 41:39, 46:33-34; 50:3,20-29, 41-44; 64:7, 75:1-15; 79:10-12; 86:5-8
 - esempio nella storia di Esdra 2:259
 - Abramo 2:260
-- la gente della caverna 18:9-26;
+- la gente della caverna 18:9-26
 - ammonimento a coloro che negano la resurrezione 17:49-52, 17:97-100, 19:66-72, 37:11-27, 50:1-15, 80:17-42
 Giorno della Resurrezione, 7:89; 20:100-101, 124
 - il Giorno Vero, 78:39
@@ -1548,7 +1547,7 @@ Giorno della Resurrezione, 7:89; 20:100-101, 124
 - l'Inferno sarà avvicinato, 89:23
 - il Fuoco dell'Inferno sarà scoperto, acceso con feroce ardore, 81:11-12
 - la Rappresaglia a titolo di carità sarà un'espiazione, 5:45
-Rivelazione,
+Rivelazione
 - se avete dubbi, 2:23-24
 - Versetto abrogato o dimenticato, 2:106
 - retta guida, 3:73
@@ -1560,13 +1559,13 @@ Rivelazione,
 - il Libro è da Allah, 46:2
 - vedi anche Libro e Corano
 Vendetta per il torto oppressivo subito, 42:39-43
-Ricompensa,
+Ricompensa
 - secondo le migliori azioni, e anche di più, 24:38; 29:7; 39:35
 - come ricompensa 25:15
 - Allah ricompensa coloro che fanno il bene con ciò che è meglio, 53:31
 - per il bene non vi è altra ricompensa che il bene, 55:60
 Riba (vedi usura)
-Giusti,
+Giusti
 - compagnia dei, 4:69
 - erediteranno la terra, 21:105
 - in Paradiso, 51:15-19; 76:5-12
@@ -1585,7 +1584,7 @@ Ruh (anima, spirito), 15:29; 17:85; 58:22
 Rum, S.30
 Saba' (Sheba), 27:22-44; 34:15-21
 Saba', S.34
-Sabato,
+Sabato
 - trasgressori del, 2:65; 4:154; 7:163-166
 - prescritto solo per, 16:124
 Sabei, 5:69; 22:17
@@ -1611,23 +1610,23 @@ Satana, 2:36, 168, 208, 268, 275; 3:36, 155, 175;4:38, 60, 76, 83, 119-120; 5:80
 - non ha potere sui credenti, 16:99-100
 - getta la falsità, 22:52-53
 - è un nemico, 12:5; 35:6; 36:60
-- arroganza 2:34; 7:11-27; 15:26-43; 17:61-65; 38:73-85;
-- un jinn 18:50-51;
-- la tentazione e la caduta di Adamo 7:20-23; 20:116-121;
-- non ha autorità sui credenti 16:98-100;
-- il suo obiettivo 35:6-8;
-- un nemico giurato dell'umanità 12:5; 17:53;
-- la sua schiera 53:14-19;
-- la sua opera 5:90-91;
-- scoraggia le buone azioni 2:268;
-- i credenti cercano rifugio in Allah da lui 7:200-202;
-- i suoi intrighi sono deboli 4:76;
-- abbandona i suoi seguaci 8:48;
+- arroganza 2:34; 7:11-27; 15:26-43; 17:61-65; 38:73-85
+- un jinn 18:50-51
+- la tentazione e la caduta di Adamo 7:20-23; 20:116-121
+- non ha autorità sui credenti 16:98-100
+- il suo obiettivo 35:6-8
+- un nemico giurato dell'umanità 12:5; 17:53
+- la sua schiera 53:14-19
+- la sua opera 5:90-91
+- scoraggia le buone azioni 2:268
+- i credenti cercano rifugio in Allah da lui 7:200-202
+- i suoi intrighi sono deboli 4:76
+- abbandona i suoi seguaci 8:48
 - parla ai suoi seguaci nell'Inferno 14:22
 - vedi anche Iblis
 Bilancia, avrà successo chi avrà la bilancia pesante, 7:8-9
 - vedi anche equilibrio
-Scrittura,
+Scrittura
 - gente della, (Ebrei e Cristiani), 2:109;3:64-65, 69-72, 75, 98-99, 110, 113,199; 4:47, 153-161; 5:59-60, 68; 98:1
 - ciò che nascondevano, 5:61-63
 - tra di loro vi sono coloro che seguono il retto cammino, 5:66
@@ -1635,7 +1634,7 @@ Scrittura,
 Mari, 42:32-33; 45:12
 - i due, 18:60; 25:53; 35:12; 55:19-20
 - quando traboccheranno, 82:3
-Segreto (Najwa),
+Segreto (Najwa)
 - discorsi, 4:114
 - consiglio di tre, 58:7
 - consigli, 58:8, 10
@@ -1644,10 +1643,10 @@ Sette e divisioni nella religione, 6:15; 23:53;30:32; 42:13-14; 43:65; 45:17
 Sicurezza, dopo la tribolazione, Egli fece scendere la, 3:154
 Seme, Chi lo fa crescere, 56:63-67
 Sensi, 23:78
-Sette, creati,
+Sette, creati
 - cieli, 2:29; 23:17; 65:12; 67:3; 71:15
 - e della terra come essi, 65:12
-Ombra,
+Ombra
 - si prostra ad Allah, 13:15; 16:48
 - estensione dell', 25:45
 Shams, S.91
@@ -1679,12 +1678,12 @@ Schiavi, 2:177-178; 4:25, 36, 92; 5:89; 24:33; 58:3; 90:13
 Sonno, una cosa per il riposo, 78:9
 Sodoma, 29:31; 37:136
 Sodomia, 7:80-82; 11:77-83; 15:61-77; 29:28-29
-Salomone, 2:102; 4:163; 6:84;
-- aiuta suo padre Davide a raggiungere un giudizio più equo 21:78-82;
+Salomone, 2:102; 4:163; 6:84
+- aiuta suo padre Davide a raggiungere un giudizio più equo 21:78-82
 - e le formiche, 27:15-19
 - e l'upupa, 27:20-26
 - e la Regina di Saba', 27:22-44; 34:15
-- favori di Allah su di lui 34:12-14, 38:34-40;
+- favori di Allah su di lui 34:12-14, 38:34-40
 - il suo amore per i bei cavalli 38:30-33
 Figlio, adottivo, 33:4-5
 Anima (spirito, Ruh), 15:29; 17:85; 58:22
@@ -1704,8 +1703,8 @@ Bottino di guerra, 8:41, 69; 48:15, 19-20; 48:15
 Spionaggio, 49:12
 Stella, 53:1, 49; 86:1-4
 Stelle, 7:54; 15:16; 16:12, 16; 22:18; 25:61;37:6-10; 56:75; 77:8; 81:2; 82:2
-Retto, Cammino, 1:6,
-- ecc. Sentiero, 6:153,
+Retto, Cammino, 1:6
+- ecc. Sentiero, 6:153
 - ecc. Lotta, 4:95; 8:72, 74, 75; 9:20, 24, 81; 22:78; 25:52; 29:69; 47:3; 60:1; 61:11
 Allattamento, il termine di, madre adottiva, 2:233
 Sofferenza, povertà, perdita di salute e calamità; prosperità e ricchezza, 7:94-96
@@ -1775,7 +1774,7 @@ Usura (Riba), 2:275-276, 278-280; 3:130;4:161; 30:39
 Velo, invisibile, 17:45-46
 Velatura, 24:31; 33:59
 Versetti, Sab' Al-Mathani, 15:87
-Vittoria,
+Vittoria
 - concessa da Allah, 48:1
 - attraverso l'aiuto di Allah, 61:13
 Virtù, (vedi Giustizia; Credenti)
@@ -1792,7 +1791,7 @@ Via, la, 1:6; 42:52-53; 90:10
 - ecc. facile, rendere facile, 87:8
 - vedi anche Cammino
 Viandante, 2:177, 215; 8:41; 17:26; 29:29;30:38; 59:7
-Ricchezza,
+Ricchezza
 - chi ha accumulato, 104:2-4
 - spendere nella Causa di Allah (vedi Spendere)
 Ricchezza e figli, ornamento della vita di questo mondo, 18:46
@@ -1810,7 +1809,7 @@ Vino (in Paradiso)
 - fiumi di, 47:15
 - puro e sigillato, 83:25
 Non desiderare le cose in cui Allah ha fatto eccellere alcuni sugli altri, 4:32
-Testimoni,
+Testimoni
 - al patto dei Profeti, 3:81
 - sull'umanità, 2:143; 22:78
 - per un contratto, 2:282
@@ -1820,7 +1819,7 @@ Testimoni,
 - mani e piedi testimonieranno, 36:65
 - l'uomo contro sé stesso, 75:14
 Giorno Testimoniante e Giorno Testimoniato, 85:3
-Mogli,
+Mogli
 - sono un campo coltivato per voi, 2:223
 - velo per voi, 2:187
 - della vostra stessa specie, 16:72
@@ -1832,7 +1831,7 @@ Donne, 2:222-223; 4:15, 19-22, 34, 127
 - che non si esprime chiaramente nella disputa, 43:17-18
 Bosco, abitanti del, 15:78; 38:13; 50:14
 - vedi anche Aikah; Madyan 26:176-191
-Mondo, vita di questo,
+Mondo, vita di questo
 - non è che gioco e divertimento, 6:32;29:64; 47:36; 57:20
 - inganna gli uomini, 6:130
 - poco è il godimento di questo, rispetto all'Aldilà, 9:38; 13:26; 28:60-61
@@ -1844,7 +1843,7 @@ Malfattori, 11:18-22, 101-104, 116-117;39:47
 - vedi anche Miscredenti
 Wudu' (Abluzioni), 4:43; 5:6
 Yaghuth, 71:23
-Yahya (Giovanni),
+Yahya (Giovanni)
 - lieta novella di, 3:39; 21:90
 - giusto, 6:85
 - saggio; compassionevole; devoto, 19:12-15
@@ -1865,52 +1864,52 @@ Zihar, 33:4; 58:2-4
 Zukhruf, S.43
 Zumar, S.39
 Principi fondamentali
-- Fede perfezionata 5:3;
-- unica Via accettata da Allah 3:19, 85;
-- nessuna costrizione nell'accettare l'Islam 2:256;
-- un'unica religione con diverse fedi e codici di legge 5:48; 22:67-70; 42:13-14;
-- profeti dell'Islam 2:135-136; 3:84; 4:163-165;
-- comandamenti (avere fede in Allah e fare del bene) 4:36; 6:151-154;17:23-39;18:107-108;
-- cinque obiettivi della Sharia: proteggere la fede 5:54;
-- proteggere la vita 5:32;6:151;
-- proteggere la ricchezza 5:38;
-- proteggere l'onore 5:5;24:4;
+- Fede perfezionata 5:3
+- unica Via accettata da Allah 3:19, 85
+- nessuna costrizione nell'accettare l'Islam 2:256
+- un'unica religione con diverse fedi e codici di legge 5:48; 22:67-70; 42:13-14
+- profeti dell'Islam 2:135-136; 3:84; 4:163-165
+- comandamenti (avere fede in Allah e fare del bene) 4:36; 6:151-154;17:23-39;18:107-108
+- cinque obiettivi della Sharia: proteggere la fede 5:54
+- proteggere la vita 5:32;6:151
+- proteggere la ricchezza 5:38
+- proteggere l'onore 5:5;24:4
 - proteggere la capacità di pensare 5:90.
 Fede in Allah 2:255
-- Qualità divine, Nomi Bellissimi 57:1-6; 59:22-24; 85:13-16; 112:1-4;
-- unico dio degno di adorazione 1:1-4; 2:285; 6:3; 43:84;
-- ogni autorità appartiene a Lui 3:26; il Suo Trono ('Arsh) 7:54; 11:7;
-- il Suo Kursi (sgabello o sedia) 2:255;
-- innumerevoli favori verso l'umanità 14:32-34; 2:164; 16:2-93; 31:20; 55:1-25;
-- dà la vita e causa la morte 44:8; 53:44; 57:2; 67:2;
-- provoca gioia e tristezza 53:43;
-- concede provvidenze abbondanti o limitate 13:26; 17:30; 29:62;
-- il Migliore tra tutti i giudici 95:8;
-- il Più Misericordioso tra i misericordiosi 12:92;
-- ama i giusti 85:14;
-- pieno di Perdono e severo nella punizione 13:6, 40:3;
-- il Primo e l'Ultimo 57:3;
-- ogni onore e potere appartiene a Lui 35:10;
-- conosce l'ignoto e vede l'invisibile 6:59,73; 9:94, 105; 13:8-10; 31:34; 32:6; 34:48; 35:38; 39:46; 49:18; 59:22; 62:8; 64:18; 72:26; 74:31; 87:7;
-- conosce meglio ciò che è nascosto nel cuore 5:7; 11:5; 31:23;
-- sa ciò che è avvenuto e ciò che deve ancora accadere 2:255;
-- ha scritto tutto nel Registro (o nella Tavola Custodita) 6:38; 13:39; 36:12;
-- capace di fare qualsiasi cosa 2:117; 3:189; 8:41; 9:116; 11:4; 16:40; 40:68; 41:39; 42:49;57:2;
-- il Suo potere infinito 3:26-27; 24:45; 31:28-30;
-- ha creato i cieli e la terra in sei Giorni senza mai stancarsi 46:33; 50:38;
-- crea con la parola 'Sii!' 36:81-83;
-- non fa mai torto alla Sua creazione 3:108; 4:40; 17:71; 21:47; 22:10; 26:209; 40:31; 41:46; 45:22; 50:29; 64:11; 78:6-16;
-- tutto si sottomette alla Sua Volontà 3:83; 22:18; 30:26;
-- tutti hanno bisogno di Lui 11:6; 35:15; 55:29;
-- fidarsi di Lui 10:84-85; 12:67; 25:58;
-- forme di comunicazione divina 42:51;
-- è degno di essere temuto 2:21; 3:102; 4:1; 33:70-71; 59:18;
-- la saggezza è un dono da Lui 2:269;
-- non ha bisogno di nessuno 3:97; 6:133; 112:2;
-- non è uno in una Trinità 4:171;
-- non ha compagna 6:101;
-- non ha figli 10:68; 19:35; 43:81; 72:3; 112:3;
-- non ha soci o dei associati 6:94; 7:191-195; 46:4-5;
+- Qualità divine, Nomi Bellissimi 57:1-6; 59:22-24; 85:13-16; 112:1-4
+- unico dio degno di adorazione 1:1-4; 2:285; 6:3; 43:84
+- ogni autorità appartiene a Lui 3:26; il Suo Trono ('Arsh) 7:54; 11:7
+- il Suo Kursi (sgabello o sedia) 2:255
+- innumerevoli favori verso l'umanità 14:32-34; 2:164; 16:2-93; 31:20; 55:1-25
+- dà la vita e causa la morte 44:8; 53:44; 57:2; 67:2
+- provoca gioia e tristezza 53:43
+- concede provvidenze abbondanti o limitate 13:26; 17:30; 29:62
+- il Migliore tra tutti i giudici 95:8
+- il Più Misericordioso tra i misericordiosi 12:92
+- ama i giusti 85:14
+- pieno di Perdono e severo nella punizione 13:6, 40:3
+- il Primo e l'Ultimo 57:3
+- ogni onore e potere appartiene a Lui 35:10
+- conosce l'ignoto e vede l'invisibile 6:59,73; 9:94, 105; 13:8-10; 31:34; 32:6; 34:48; 35:38; 39:46; 49:18; 59:22; 62:8; 64:18; 72:26; 74:31; 87:7
+- conosce meglio ciò che è nascosto nel cuore 5:7; 11:5; 31:23
+- sa ciò che è avvenuto e ciò che deve ancora accadere 2:255
+- ha scritto tutto nel Registro (o nella Tavola Custodita) 6:38; 13:39; 36:12
+- capace di fare qualsiasi cosa 2:117; 3:189; 8:41; 9:116; 11:4; 16:40; 40:68; 41:39; 42:49;57:2
+- il Suo potere infinito 3:26-27; 24:45; 31:28-30
+- ha creato i cieli e la terra in sei Giorni senza mai stancarsi 46:33; 50:38
+- crea con la parola 'Sii!' 36:81-83
+- non fa mai torto alla Sua creazione 3:108; 4:40; 17:71; 21:47; 22:10; 26:209; 40:31; 41:46; 45:22; 50:29; 64:11; 78:6-16
+- tutto si sottomette alla Sua Volontà 3:83; 22:18; 30:26
+- tutti hanno bisogno di Lui 11:6; 35:15; 55:29
+- fidarsi di Lui 10:84-85; 12:67; 25:58
+- forme di comunicazione divina 42:51
+- è degno di essere temuto 2:21; 3:102; 4:1; 33:70-71; 59:18
+- la saggezza è un dono da Lui 2:269
+- non ha bisogno di nessuno 3:97; 6:133; 112:2
+- non è uno in una Trinità 4:171
+- non ha compagna 6:101
+- non ha figli 10:68; 19:35; 43:81; 72:3; 112:3
+- non ha soci o dei associati 6:94; 7:191-195; 46:4-5
 - nulla è simile a Lui 42:11; 112:4
 Ordine di riflettere sulle meraviglie della Sua creazione 3:190; 6:99; 10:5-6; 13:3-4; 16:10-16; 88:17-20
 Segni nella creazione 2:164; 6:95-99; 7:57-58; 10:5-6; 13:2-4; 16:10-13, 65-69, 79; 23:27-30; 27:60-65; 30:19-25; 50:6-11
@@ -1931,21 +1930,21 @@ Segni nella creazione 2:164; 6:95-99; 7:57-58; 10:5-6; 13:2-4; 16:10-13, 65-69, 
 - pioggerella, grandine e pioggia 2:265; 6:99; 24:43; 50:9-11
 - tuono e fulmini 13:12-13
 Riferimenti scientifici
-- esseri umani creati da gameti maschili e femminili 76:2;
-- formazione e fasi di sviluppo di un embrione 22:5; 23:12-14;
-- feto in tre strati di oscurità 39:6;
-- acqua salmastra 25:53-54; 35:12; 55:19-20;
-- impollinazione eolica 15:22;
-- impronte digitali 75:3-4;
-- montagne come picchetti 78:7;
-- ferro fatto scendere 57:25;
-- recettori del dolore 4:56;
-- il sole come sorgente radiante e la luna come luce riflessa 10:5;
-- scissione della luna 54:1;
-- cielo come tettoia ben protetta 21:32;
-- tutti gli esseri creati dall'acqua 21:30; 24:45;
-- le formiche comunicano 27:17-19;
-- onde interne 24:40;
+- esseri umani creati da gameti maschili e femminili 76:2
+- formazione e fasi di sviluppo di un embrione 22:5; 23:12-14
+- feto in tre strati di oscurità 39:6
+- acqua salmastra 25:53-54; 35:12; 55:19-20
+- impollinazione eolica 15:22
+- impronte digitali 75:3-4
+- montagne come picchetti 78:7
+- ferro fatto scendere 57:25
+- recettori del dolore 4:56
+- il sole come sorgente radiante e la luna come luce riflessa 10:5
+- scissione della luna 54:1
+- cielo come tettoia ben protetta 21:32
+- tutti gli esseri creati dall'acqua 21:30; 24:45
+- le formiche comunicano 27:17-19
+- onde interne 24:40
 Esseri viventi
 - angeli 39:75
 - esseri umani (un'autorità sulla terra) 2:30; 6:165; 16:4
@@ -1978,365 +1977,366 @@ Esseri viventi
 - ragno 29:41
 - altri a noi sconosciuti 16:8
 Piante e frutti 6:99; 13:4; 16:11; 36:33-35
-- banane 56:29,
-- datteri 19:25,
-- erbe, cetrioli, aglio, lenticchie e cipolle 2:61,
-- uva 80:28,
-- olive 6:99,
-- fico 95:1,
-- melograni 55:68,
+- banane 56:29
+- datteri 19:25
+- erbe, cetrioli, aglio, lenticchie e cipolle 2:61
+- uva 80:28
+- olive 6:99
+- fico 95:1
+- melograni 55:68
 - zucca 37:146
 Fede in Muḥammad
-- Qualità, solo un profeta 3:144; 6:50; 7:188; 18:110;
-- trasmettere la verità 2:119; 35:24; 42:48;
-- sigillo dei profeti 33:40;
-- nobile carattere 3:159; 68:4;
-- un modello esemplare 33:21;
-- un favore per i credenti 3:164;
-- una misericordia per il mondo intero 21:107;
-- un messaggero universale 4:170; 7:157-158; 34:28;
-- conduce al Retto Cammino 42:52-53;
-- si preoccupa per le persone 9:129;
-- come testimone nel Giorno del Giudizio 4:42; 16:89;
-- profeta illetterato 7:157-158; 29:48; 62:2;
-- profetizzato nella Torah e nel Vangelo 7:157;
+- Qualità, solo un profeta 3:144; 6:50; 7:188; 18:110
+- trasmettere la verità 2:119; 35:24; 42:48
+- sigillo dei profeti 33:40
+- nobile carattere 3:159; 68:4
+- un modello esemplare 33:21
+- un favore per i credenti 3:164
+- una misericordia per il mondo intero 21:107
+- un messaggero universale 4:170; 7:157-158; 34:28
+- conduce al Retto Cammino 42:52-53
+- si preoccupa per le persone 9:129
+- come testimone nel Giorno del Giudizio 4:42; 16:89
+- profeta illetterato 7:157-158; 29:48; 62:2
+- profetizzato nella Torah e nel Vangelo 7:157
 - annunciato da Gesù 61:6
 Sfide affrontate dal Profeta (ﷺ)
-- richieste prive di senso dei pagani 8:32; 15:7; 17:89-93; 25:7-8;
-- false accuse 10:2; 11:13; 21:5; 24:11-26; 25:4-6; 37:36; 38:4; 52:29-30;
-- tentativi contro la sua vita 8:30; 9:74;
-- ammonimento a coloro che gli recano danno o si oppongono a lui 4:115; 8:13; 9:61; 15:95; 33:57; 47:32; 96:9-19;
-- ordinato di rispondere alla negazione con pazienza 20:130; 30:60; 46:35; 70:5;
+- richieste prive di senso dei pagani 8:32; 15:7; 17:89-93; 25:7-8
+- false accuse 10:2; 11:13; 21:5; 24:11-26; 25:4-6; 37:36; 38:4; 52:29-30
+- tentativi contro la sua vita 8:30; 9:74
+- ammonimento a coloro che gli recano danno o si oppongono a lui 4:115; 8:13; 9:61; 15:95; 33:57; 47:32; 96:9-19
+- ordinato di rispondere alla negazione con pazienza 20:130; 30:60; 46:35; 70:5
 - rassicurato da Allah 5:67; 93:1-11; 94:1-8
 Insegnamenti dalla vita del Profeta (ﷺ)
-- dalla sua emigrazione (hijrah) alla Battaglia di Badr 3:121-129; 8:42-44; 8:65-71;
-- Battaglia di Uhud 3:151-180;
-- Battaglia del Fossato 33:9-27;
-- Battaglia di Hunain 9:25-27;
-- Medina 9:40; Tabuk 9:38-123;
-- Banu An-Nadir 59:2-6;
-- Hamra' Al-Asad 3:172-175;
+- dalla sua emigrazione (hijrah) alla Battaglia di Badr 3:121-129; 8:42-44; 8:65-71
+- Battaglia di Uhud 3:151-180
+- Battaglia del Fossato 33:9-27
+- Battaglia di Hunain 9:25-27
+- Medina 9:40
+- Tabuk 9:38-123
+- Banu An-Nadir 59:2-6
+- Hamra' Al-Asad 3:172-175
 - Tregua di Hudaibiyah 48:1-7; 48:10-29
 Onori conferiti al Profeta (ﷺ)
-- Allah e i Suoi angeli lo benedicono 33:56;
-- viaggio notturno dalla Mecca a Gerusalemme 17:1;
-- viaggio verso i cieli 53:1-18;
-- onorato in questa vita e nell'altra 17:79; 66:8; 108:1;
-- l'obbedienza a lui è obbedienza ad Allah 4:80;
-- ricompensa dell'obbedienza ad Allah e al Suo Messaggero 4:69;
-- la sua famiglia è purificata 33:33-34;
-- vede Gabriele nella sua vera forma 53:1-18;
-- ai credenti è ordinato di obbedirgli 59:7;
+- Allah e i Suoi angeli lo benedicono 33:56
+- viaggio notturno dalla Mecca a Gerusalemme 17:1
+- viaggio verso i cieli 53:1-18
+- onorato in questa vita e nell'altra 17:79; 66:8; 108:1
+- l'obbedienza a lui è obbedienza ad Allah 4:80
+- ricompensa dell'obbedienza ad Allah e al Suo Messaggero 4:69
+- la sua famiglia è purificata 33:33-34
+- vede Gabriele nella sua vera forma 53:1-18
+- ai credenti è ordinato di obbedirgli 59:7
 - galateo nel parlargli 49:1-5
-- galateo nel visitarlo 33:53;
-- galateo nel trattare con le sue mogli 33:53;
-- Allah è soddisfatto di lui e dei suoi compagni 9:100; 9:117;
+- galateo nel visitarlo 33:53
+- galateo nel trattare con le sue mogli 33:53
+- Allah è soddisfatto di lui e dei suoi compagni 9:100; 9:117
 - eccellenza della sua comunità di fede 2:143; 3:110
-Preghiera (salah) 2:45; 9:103; 51:18; 70:22-23; 75:31; 96:10; 108:2;
-- assemblea del venerdì 62:9;
-- direzione della preghiera (qiblah) 2:144; 2:149-150;
-- dovrebbe distogliere dalle azioni malvagie 29:45;
-- orari 11:114; 17:78; 17:79; 20:130; 24:36; 24:58; 30:17-18; 32:16; 38:18; 50:39-40; 51:17; 52:48-49; 73:2-4; 76:25-26;
-- in caso di pericolo o in viaggio 2:239; 4:101-102;
-- ammonimento a coloro che trascurano le preghiere 19:59; 74:38-47; 107:5-7;
+Preghiera (salah) 2:45; 9:103; 51:18; 70:22-23; 75:31; 96:10; 108:2
+- assemblea del venerdì 62:9
+- direzione della preghiera (qiblah) 2:144; 2:149-150
+- dovrebbe distogliere dalle azioni malvagie 29:45
+- orari 11:114; 17:78; 17:79; 20:130; 24:36; 24:58; 30:17-18; 32:16; 38:18; 50:39-40; 51:17; 52:48-49; 73:2-4; 76:25-26
+- in caso di pericolo o in viaggio 2:239; 4:101-102
+- ammonimento a coloro che trascurano le preghiere 19:59; 74:38-47; 107:5-7
 - preghiere degli ipocriti 4:142; 9:54
-Purificazione, abluzione (wudu) 5:6;
-- bagno completo (ghusl) 2:222; 4:43;
+Purificazione, abluzione (wudu) 5:6
+- bagno completo (ghusl) 2:222; 4:43
 - abluzione a secco (tayammum) 4:43; 5:6
 Suppliche (du'a)
-- di Abramo 2:126-129; 2:126-129; 14:35-41; 26:83-89;
-- Adamo ed Eva 7:23;
-- Gesù 5:114;
-- Giobbe 21:83; 21:83;
-- Giona 21:87;
-- Giuseppe 12:33; 12:101;
-- Mosè 10:88-89; 20:25-35;
+- di Abramo 2:126-129; 2:126-129; 14:35-41; 26:83-89
+- Adamo ed Eva 7:23
+- Gesù 5:114
+- Giobbe 21:83; 21:83
+- Giona 21:87
+- Giuseppe 12:33; 12:101
+- Mosè 10:88-89; 20:25-35
 - Muhammad 17:80; 20:114
-- Noè 23:26; 26:117-118; 54:9-10; 71:26; 71:28;
-- Salomone 38:35;
-- Shu'aib 7:89;
-- Zaccaria 3:38; 19:2-6; 21:89-90;
-- angeli 40:8-9;
-- madre di Maria 3:35-36;
-- moglie del Faraone 66:11;
-- maghi del Faraone 7:126;
-- Re Saul e i credenti con lui 2:250;
-- i credenti dei Figli d'Israele 10:85-86;
-- la gente della caverna 18:10;
-- i giusti 2:285-286; 3:8-9; 3:16; 3:147; 3:191-194; 25:74; 59:10;
+- Noè 23:26; 26:117-118; 54:9-10; 71:26; 71:28
+- Salomone 38:35
+- Shu'aib 7:89
+- Zaccaria 3:38; 19:2-6; 21:89-90
+- angeli 40:8-9
+- madre di Maria 3:35-36
+- moglie del Faraone 66:11
+- maghi del Faraone 7:126
+- Re Saul e i credenti con lui 2:250
+- i credenti dei Figli d'Israele 10:85-86
+- la gente della caverna 18:10
+- i giusti 2:285-286; 3:8-9; 3:16; 3:147; 3:191-194; 25:74; 59:10
 - gli oppressi 4:75
 Versetti della prostrazione
 - sajadat, plurale di sajdah, 7:206; 13:15; 16:49; 17:109; 19:58; 22:18; 22:77; 25:60; 27:26; 32:15; 38:24; 41:37; 53:62; 84:21; 96:19
-Tassa delle elemosine (zakah), come obbligo 2:110; 2:177; 2:277; 6:141;
-- una delle qualità dei credenti 22:41; 23:4; 51:19;
+Tassa delle elemosine (zakah), come obbligo 2:110; 2:177; 2:277; 6:141
+- una delle qualità dei credenti 22:41; 23:4; 51:19
 - destinatari 9:60
 - carità (sadaqah) 2:177; 2:261-263; 2:267-274; 3:92; 63:10
 - ammonimento a coloro che trattengono 3:180; 9:34; 47:38
 Digiuno (sawm)
-- nel Ramadan 2:183-185;
-- ore del digiuno 2:187;
-- esenzioni 2:184-185;
-- rapporti intimi durante la notte che precede il digiuno 2:187;
+- nel Ramadan 2:183-185
+- ore del digiuno 2:187
+- esenzioni 2:184-185
+- rapporti intimi durante la notte che precede il digiuno 2:187
 - digiuno durante il pellegrinaggio 2:196
-Pellegrinaggio (hajj),
-- un obbligo per chi ne ha i mezzi 3:97;
-- rituali e disposizioni 2:158; 2:189; 2:196-203; 5:2; 22:26-37;
-- offerte sacrificali 2:196; 22:36-37;
-- divieto di caccia sulla terra durante il pellegrinaggio 5:1; 5:94-95;
+Pellegrinaggio (hajj)
+- un obbligo per chi ne ha i mezzi 3:97
+- rituali e disposizioni 2:158; 2:189; 2:196-203; 5:2; 22:26-37
+- offerte sacrificali 2:196; 22:36-37
+- divieto di caccia sulla terra durante il pellegrinaggio 5:1; 5:94-95
 - liceità della caccia in mare 5:96
 - Pellegrinaggio minore ('umrah) 2:158; 2:196
 Comunità di fede
-- Musulmani 2:132-136; 3:64; 3:84; 5:111; 22:77-78; 33:35; 41:33; 43:67-70; 72:14-15;
-- guardiani gli uni degli altri 3:28; 9:71;
-- Cristiani 2:62; 2:111-140; 4:171-172; 5:14-19; 5:82-86; 5:116-120; 9:30-31; 22:17;
-- Ebrei 2:62, 111-140; 5:44-45; 6:146; 22:17; 62:6-8;
-- Figli d'Israele 2:40-103, 122-123, 246-251; 3:49; 3:93-94; 5:12-13, 20-26, 32, 70-71, 78-81; 7:137-141, 148-153,159-171; 10:83-93; 14:5-8; 17:2-8, 104; 20:80-98; 26:52-67, 197; 27:76; 44:23-33; 45:16-17; 46:10; 61:5-6;
+- Musulmani 2:132-136; 3:64; 3:84; 5:111; 22:77-78; 33:35; 41:33; 43:67-70; 72:14-15
+- guardiani gli uni degli altri 3:28; 9:71
+- Cristiani 2:62; 2:111-140; 4:171-172; 5:14-19; 5:82-86; 5:116-120; 9:30-31; 22:17
+- Ebrei 2:62, 111-140; 5:44-45; 6:146; 22:17; 62:6-8
+- Figli d'Israele 2:40-103, 122-123, 246-251; 3:49; 3:93-94; 5:12-13, 20-26, 32, 70-71, 78-81; 7:137-141, 148-153,159-171; 10:83-93; 14:5-8; 17:2-8, 104; 20:80-98; 26:52-67, 197; 27:76; 44:23-33; 45:16-17; 46:10; 61:5-6
 - Gente del Libro (principalmente Ebrei e Cristiani) 2:109; 3:64-115, 199; 4:123-172; 5:15-77; 6:20-21; 13:36; 28:52-55; 29:46-47; 57:16, 28-29; 74:31; 98:1-5
 - i Musulmani possono mangiare degli animali sacrificati da loro e sposare le loro donne 5:5
-- cibi vietati agli Ebrei 6:146;
-- Sabei 2:62; 22:17;
-- Magi 22:17;
-- politeisti (pagani, adoratori di idoli) 3:186; 6:148; 9:6, 17; 10:28; 16:86; 22:17; 53:19-30;
-- pratiche superstiziose pagane 2:189; 5:103; 6:138-144;
+- cibi vietati agli Ebrei 6:146
+- Sabei 2:62; 22:17
+- Magi 22:17
+- politeisti (pagani, adoratori di idoli) 3:186; 6:148; 9:6, 17; 10:28; 16:86; 22:17; 53:19-30
+- pratiche superstiziose pagane 2:189; 5:103; 6:138-144
 - atei 52:35-36
 Pratiche pagane vietate
-- seppellire vive le figlie 16:58-59; 81:8-9;
-- uccidere i figli per paura della povertà 6:137; 6:151; 17:31;
-- fischiare e battere le mani intorno alla Ka'bah 8:35;
-- dedicare cammelle agli idoli 5:103; 6:136;
-- sacrificare in nome degli idoli 6:121;
-- divorzio zihar 33:4; 58:2-4;
-- ila' (per più di quattro mesi) 2:226-227;
-- estrazione a sorte per le decisioni 5:3;
-- circumambulare la Ka'bah nudi 7:26-28;
+- seppellire vive le figlie 16:58-59; 81:8-9
+- uccidere i figli per paura della povertà 6:137; 6:151; 17:31
+- fischiare e battere le mani intorno alla Ka'bah 8:35
+- dedicare cammelle agli idoli 5:103; 6:136
+- sacrificare in nome degli idoli 6:121
+- divorzio zihar 33:4; 58:2-4
+- ila' (per più di quattro mesi) 2:226-227
+- estrazione a sorte per le decisioni 5:3
+- circumambulare la Ka'bah nudi 7:26-28
 - entrare nelle case dalla porta sul retro dopo il pellegrinaggio 2:189
-Oggetti di culto,
-- angeli (tra alcuni Arabi pagani) 34:40;
-- Al-Aykah (tra la gente di Shu'aib) 26:176;
-- Ba'l (tra la gente di Elia) 37:125;
-- Gesù (nel Cristianesimo) 5:17;
-- idoli (tra la gente di Abramo) 21:52-53;
-- gli idoli di Lat, 'Uzza e Manat (tra i pagani Arabi) 53:19-20;
-- gli idoli di Wadd, Suwa', Yaghuth, Ya'uq e Nasr (tra la gente di Noè) 71:23;
-- il sole (la gente di Saba') 27:24;
-- Sirio (tra alcuni Arabi pagani) 53:49;
-- il Faraone (nell'antico Egitto) 26:29; 28:38; 79:24;
-- desideri 25:43-44; 45:23;
+Oggetti di culto
+- angeli (tra alcuni Arabi pagani) 34:40
+- Al-Aykah (tra la gente di Shu'aib) 26:176
+- Ba'l (tra la gente di Elia) 37:125
+- Gesù (nel Cristianesimo) 5:17
+- idoli (tra la gente di Abramo) 21:52-53
+- gli idoli di Lat, 'Uzza e Manat (tra i pagani Arabi) 53:19-20
+- gli idoli di Wadd, Suwa', Yaghuth, Ya'uq e Nasr (tra la gente di Noè) 71:23
+- il sole (la gente di Saba') 27:24
+- Sirio (tra alcuni Arabi pagani) 53:49
+- il Faraone (nell'antico Egitto) 26:29; 28:38; 79:24
+- desideri 25:43-44; 45:23
 - la credenza in più dei confutata 17:42-43; 21:21-24; 25:3
-Luoghi di culto, moschee 9:18;
-- chiese, sinagoghe e monasteri 22:40;
-- santuario 3:39; 38:21;
+Luoghi di culto, moschee 9:18
+- chiese, sinagoghe e monasteri 22:40
+- santuario 3:39; 38:21
 - tempio 17:7
 - Titoli religiosi, sacerdoti, monaci e rabbini 5:44; 5:63; 5:82; 9:31-34
-Angeli,
+Angeli
 - chiedono della creazione di Adamo 2:30-34
-- non disobbediscono mai ad Allah 21:26-27; 66:6;
-- non sono le figlie di Allah 21:26; 43:16-19;
-- angeli custodi 13:11;
-- due angeli registratori 50:16-18; 82:10-12;
-- otto portano il Trono di Allah nel Giorno del Giudizio 69:17;
-- diciannove custodi dell'Inferno 74:26-31;
-- Angeli della Morte 6:93; 16:28; 32:11;
-- Gabriele 2:97; 66:4; 26:192-195; 53:1-14;
-- Michele 2:98;
+- non disobbediscono mai ad Allah 21:26-27; 66:6
+- non sono le figlie di Allah 21:26; 43:16-19
+- angeli custodi 13:11
+- due angeli registratori 50:16-18; 82:10-12
+- otto portano il Trono di Allah nel Giorno del Giudizio 69:17
+- diciannove custodi dell'Inferno 74:26-31
+- Angeli della Morte 6:93; 16:28; 32:11
+- Gabriele 2:97; 66:4; 26:192-195; 53:1-14
+- Michele 2:98
 - Malik 43:77
 Messaggeri
-- tra gli angeli e gli esseri umani 22:75;
+- tra gli angeli e gli esseri umani 22:75
 - Messaggeri dalla Ferma Determinazione (Abramo, Noè, Mosè, Gesù e Muhammad ﷺ) 33:7; 42:13; 46:35
 Scritture
-- Corano, una rivelazione da Allah 12:2-3; 20:2-4; 26:192-195; 32:2-3;
-- un monito per il mondo intero 68:51-52;
-- guida verso il modo di vita più retto 17:9;
-- la rivelazione è iniziata nel mese di Ramadan 2:185;
-- in una notte benedetta 44:3;97:1-5;
-- rivelato a tappe 17:105-106;
-- reso facile da ricordare 54:17;
-- conferma la verità nelle rivelazioni precedenti 3:3-4;
-- un'autorità suprema sulle scritture precedenti 5:48;
-- non vi è dubbio in esso 2:2; 10:37;
-- nessuna contraddizione 4:82;
-- non fabbricato 10:37-39;
-- non copiato dalla Bibbia 25:4-6;
-- non rivelato dai diavoli 26:210-212;
+- Corano, una rivelazione da Allah 12:2-3; 20:2-4; 26:192-195; 32:2-3
+- un monito per il mondo intero 68:51-52
+- guida verso il modo di vita più retto 17:9
+- la rivelazione è iniziata nel mese di Ramadan 2:185
+- in una notte benedetta 44:3;97:1-5
+- rivelato a tappe 17:105-106
+- reso facile da ricordare 54:17
+- conferma la verità nelle rivelazioni precedenti 3:3-4
+- un'autorità suprema sulle scritture precedenti 5:48
+- non vi è dubbio in esso 2:2; 10:37
+- nessuna contraddizione 4:82
+- non fabbricato 10:37-39
+- non copiato dalla Bibbia 25:4-6
+- non rivelato dai diavoli 26:210-212
 - nessuno può produrre qualcosa di simile 17:88; 2:23-24;10:13-14; 11:13
-- protetto dalla corruzione 15:9;
-- custodito nella Tavola Custodita 56:75-80;
-- non può essere dimostrato falso 41:42;
-- preannuncia eventi futuri 30:1-7; 48:27;
-- commuove i credenti fino alle lacrime 5:83; 17:107-109;
-- tocca i cuori 39:23;
-- luce brillante 4:174; 42:52;
+- protetto dalla corruzione 15:9
+- custodito nella Tavola Custodita 56:75-80
+- non può essere dimostrato falso 41:42
+- preannuncia eventi futuri 30:1-7; 48:27
+- commuove i credenti fino alle lacrime 5:83; 17:107-109
+- tocca i cuori 39:23
+- luce brillante 4:174; 42:52
 - guarigione e misericordia per i credenti 17:82
 - Torah 3:3; 3:93; 5:46; 5:66-68, 110; 7:157; 9:111; 48:29; 61:6; 62:5
-- Vangelo 3:3; 48; 5:46-47, 66-68, 77, 110; 7:157; 9:111; 48:29; 57:27
+- Vangelo 3:3, 48; 5:46-47, 66-68, 77, 110; 7:157; 9:111; 48:29; 57:27
 - Salmi 4:163; 17:55
 - Rotoli di Abramo 53:36-44; 87:14-19
-Destino e fato 3:145; 9:51; 10:107; 11:6; 54:49; 67:30;
+Destino e fato 3:145; 9:51; 10:107; 11:6; 54:49; 67:30
 - libera scelta 6:148-150; 11:118-119; 16:93; 33:72-73; 39:41; 76:1-3; 91:1-10
-Giorno del Giudizio,
-- nessuna ingiustizia 2:281; 18:49; 40:17;
-- orrori dell'apocalisse 22:1-2; 27:82-84, 87; 40:18; 52:11-16; 69:13-18; 70:8-18; 73:17-18; 75:7-15; 77:8-15; 78:17-20; 79:34-36; 80:33-42; 81:1-14; 82:1-5; 84:1-5; 87:17-40; 99:1-8; 101:1-11;
-- i giusti e gli empi in quel Giorno 11:105-108; 16:27-33, 84-89; 18:52-53; 20:100-111; 25:24-29; 30:12-16; 33:63-68; 39:68-75; 50:20-35; 55:37-41; 83:4-36;
+Giorno del Giudizio
+- nessuna ingiustizia 2:281; 18:49; 40:17
+- orrori dell'apocalisse 22:1-2; 27:82-84, 87; 40:18; 52:11-16; 69:13-18; 70:8-18; 73:17-18; 75:7-15; 77:8-15; 78:17-20; 79:34-36; 80:33-42; 81:1-14; 82:1-5; 84:1-5; 87:17-40; 99:1-8; 101:1-11
+- i giusti e gli empi in quel Giorno 11:105-108; 16:27-33, 84-89; 18:52-53; 20:100-111; 25:24-29; 30:12-16; 33:63-68; 39:68-75; 50:20-35; 55:37-41; 83:4-36
 - intercessione (shafa'ah) 2:48, 255; 6:51, 70; 10:3; 21:28; 32:4; 36:23; 39:43-44; 43:86; 53:26;74:48
-Registri delle azioni 17:13; 18:49;
-- i credenti ricevono il loro registro con la mano destra 69:19-24; 84:7-9;
-- i miscredenti ricevono il loro registro con la mano sinistra 69:25-37; 84:10-15;
-- nulla sarà nascosto ad Allah 21:47; 40:16;
-- pesatura delle azioni 7:8; 23:102-104; 101:1-11;
-- testimonianza degli organi corporei 41:19-24; 24:24;
+Registri delle azioni 17:13; 18:49
+- i credenti ricevono il loro registro con la mano destra 69:19-24; 84:7-9
+- i miscredenti ricevono il loro registro con la mano sinistra 69:25-37; 84:10-15
+- nulla sarà nascosto ad Allah 21:47; 40:16
+- pesatura delle azioni 7:8; 23:102-104; 101:1-11
+- testimonianza degli organi corporei 41:19-24; 24:24
 - ricompensa per le azioni buone e malvagie 6:160; 27:89-90; 28:84
 Tipi di persone
-- credenti 18:107-108;
-- miscredenti 4:167-169;
-- ipocriti 4:145; 57:13-15;
-- abitanti del Paradiso, credenti in prima fila 55:46-61; 56:10-26;
-- abitanti del Paradiso, gente della destra 55:62-78; 56:27-40;
-- abitanti dell'Inferno, gente della sinistra 55:31-45; 56:41-56;
+- credenti 18:107-108
+- miscredenti 4:167-169
+- ipocriti 4:145; 57:13-15
+- abitanti del Paradiso, credenti in prima fila 55:46-61; 56:10-26
+- abitanti del Paradiso, gente della destra 55:62-78; 56:27-40
+- abitanti dell'Inferno, gente della sinistra 55:31-45; 56:41-56
 - gente degli spalti 7:46-49
 Finanziari
 - Linee guida commerciali 2:188; 2:275; 2:282-283; 4:29; 4:58; 6:152; 17:34-35;24:36-37; 26:182; 30:39; 55:7-9; 62:9
-- Lasciti, lasciti facoltativi a non eredi 2:180-183; 4:11-12;
+- Lasciti, lasciti facoltativi a non eredi 2:180-183; 4:11-12
 - prima della morte durante un viaggio 5:106-108
 - Corruzione 2:188
-- Debiti, gentilezza nella riscossione dei debiti 2:280;
-- redazione e testimonianza di un contratto di debito 2:282;
+- Debiti, gentilezza nella riscossione dei debiti 2:280
+- redazione e testimonianza di un contratto di debito 2:282
 - prendere una garanzia 2:283
-- Eredità, linee guida 4:7; 4:32-33; 8:75;
-- quote di discendenti e genitori 4:11;
-- coniugi e fratelli materni 4:12;
-- fratelli e sorelle germani 4:176;
+- Eredità, linee guida 4:7; 4:32-33; 8:75
+- quote di discendenti e genitori 4:11
+- coniugi e fratelli materni 4:12
+- fratelli e sorelle germani 4:176
 - ammonimento a coloro che non si conformano 4:13-14
-- Interessi, divieto e ammonimento 2:275-281; 3:130-132;
+- Interessi, divieto e ammonimento 2:275-281; 3:130-132
 - resi privi di profitto 30:39
 Legali
 - legge sul tradimento (hirabah) 5:33-34
-- Giustizia, difendere la giustizia 4:135; 5:8; 16:90-91;
-- difendere i diritti degli orfani e delle donne 4:127;
-- giustizia verso un Ebreo 4:105-112;
-- giustizia verso un pagano 4:58;
+- Giustizia, difendere la giustizia 4:135; 5:8; 16:90-91
+- difendere i diritti degli orfani e delle donne 4:127
+- giustizia verso un Ebreo 4:105-112
+- giustizia verso un pagano 4:58
 - equità verso i non musulmani 60:8-9
 - Rappresaglia attraverso canali legali (con la possibilità di perdonare) 2:178-179; 5:45; 16:126; 17:33; 42:37-43
-- Separazione tra marito e moglie, khul' 2:229;
+- Separazione tra marito e moglie, khul' 2:229
 - lian (accusa di adulterio) 24:6-10
 Politici
 - Condurre gli affari tramite consultazione (shura) 3:159; 42:38
-- Combattimento in autodifesa (jihad), galateo 2:190-192; 2:216; 22:38-40;
-- non attaccare indiscriminatamente 4:94;
-- combattere per gli uomini, le donne e i bambini oppressi 4:75;
-- proteggere i luoghi di culto 22:37;
-- ricompensa dei martiri 2:154; 3:169-171; 9:111; 57:19;
-- la forza militare scoraggia i potenziali nemici 8:60;
+- Combattimento in autodifesa (jihad), galateo 2:190-192; 2:216; 22:38-40
+- non attaccare indiscriminatamente 4:94
+- combattere per gli uomini, le donne e i bambini oppressi 4:75
+- proteggere i luoghi di culto 22:37
+- ricompensa dei martiri 2:154; 3:169-171; 9:111; 57:19
+- la forza militare scoraggia i potenziali nemici 8:60
 - optare per la pace 2:192; 8:61
 - Fare pace tra le parti 49:9-10
 - Prigionieri di guerra, trattamento 8:70; 47:4; 76:8
 Sociali
 - Adozione 33:4-5
 - Cura degli orfani 2:220; 4:2-10; 4:127; 6:152; 17:34
-- Divorzio, arbitrato e riconciliazione 4:35; 4:128;
-- galateo del divorzio 2:229-231; 65:1-2;
-- dote e periodo di attesa 2:226-241; 4:19-21; 33:49; 65:1-7;
-- il marito non deve riprendere nulla della dote 4:20;
-- la moglie non deve essere molestata 65:6;
-- la moglie deve essere mantenuta finanziariamente durante la gravidanza 65:6;
-- durante il suo periodo di attesa 65:6;
-- se allatta il figlio dell'ex marito, 65:6;
-- nessun genitore deve soffrire a causa del proprio figlio 2:233;
+- Divorzio, arbitrato e riconciliazione 4:35; 4:128
+- galateo del divorzio 2:229-231; 65:1-2
+- dote e periodo di attesa 2:226-241; 4:19-21; 33:49; 65:1-7
+- il marito non deve riprendere nulla della dote 4:20
+- la moglie non deve essere molestata 65:6
+- la moglie deve essere mantenuta finanziariamente durante la gravidanza 65:6
+- durante il suo periodo di attesa 65:6
+- se allatta il figlio dell'ex marito, 65:6
+- nessun genitore deve soffrire a causa del proprio figlio 2:233
 - optare per una balia 65:6
 - Incoraggiare il bene e proibire il male 3:104; 3:110; 7:157; 9:71-72; 31:17
-- Uguaglianza degli esseri umani 49:13;
-- uomini e donne davanti ad Allah e alla legge, 3:195; 4:124; 5:38; 16:97; 24:2; 40:40;
+- Uguaglianza degli esseri umani 49:13
+- uomini e donne davanti ad Allah e alla legge, 3:195; 4:124; 5:38; 16:97; 24:2; 40:40
 - gli uomini hanno un grado di responsabilità superiore alle donne 2:228
 - Nutrire i poveri, gli orfani e i prigionieri 76:8-9
 - Perdono e controllo dell'ira 3:134; 42:40
 - Liberare gli schiavi e aiutarli 4:92; 5:89; 9:60; 24:33; 58:3; 90:13
 - Onorare i propri genitori 4:36; 17:23-25; 31:14-15
 - Umiltà 17:37; 31:18-19
-- Interpretazione dei sogni di Abramo 37:102;
-- Interpretazione dei sogni di Giuseppe 12:4; 12:36; 12:43;
+- Interpretazione dei sogni di Abramo 37:102
+- Interpretazione dei sogni di Giuseppe 12:4; 12:36; 12:43
 - Interpretazione dei sogni di Muhammad 8:43; 48:27
 - Gentilezza verso i non musulmani 60:8
-- Matrimonio 4:3; 4:129; 16:72; 30:21;
-- donne lecite e illecite da sposare 4:22-24;
-- galateo dell'intimità 2:222-223;
-- gravidanza e allattamento 2:233; 31:4; 46:15; 65:6;
-- risposarsi con la propria ex moglie 2:230;
-- aiutare i celibi a sposarsi 24:32;
+- Matrimonio 4:3; 4:129; 16:72; 30:21
+- donne lecite e illecite da sposare 4:22-24
+- galateo dell'intimità 2:222-223
+- gravidanza e allattamento 2:233; 31:4; 46:15; 65:6
+- risposarsi con la propria ex moglie 2:230
+- aiutare i celibi a sposarsi 24:32
 - mostrare interesse in modo discreto durante il periodo di attesa 2:235
-- Giuramenti 2:224-225; 16:91-92; 16:94;
+- Giuramenti 2:224-225; 16:91-92; 16:94
 - riparare a un giuramento infranto 5:89
 - Pazienza nei momenti difficili 2:45; 2:153-157; 3:186; 12:18; 12:83; 16:127-128; 70:5
-- Permesso di entrare 24:58-60;
-- entrare nelle case altrui 24:27-28;
+- Permesso di entrare 24:58-60
+- entrare nelle case altrui 24:27-28
 - entrare in luoghi pubblici 24:29
-- Galateo sociale, verificare le notizie 4:83; 49:6;
-- rispetto per tutti 49:11-12;
-- galateo delle riunioni 58:11;
+- Galateo sociale, verificare le notizie 4:83; 49:6
+- rispetto per tutti 49:11-12
+- galateo delle riunioni 58:11
 - conversazioni private 4:114; 58:9
 - Voti 2:270; 9:75-77; 22:29; 76:7
 - Spreco e avarizia 7:31; 17:29; 25:67
 Altre storie
-- Abele e Caino 5:27-31;
-- Al-Khadir e Mosè 18:60-82;
-- Esercito dell'Elefante 105:1-4;
-- il credente del popolo del Faraone 40:28-46;
-- nascita di Maria 3:35-36;
-- Vacca dei Figli d'Israele 2:67-74;
-- Esdra 2:259;
+- Abele e Caino 5:27-31
+- Al-Khadir e Mosè 18:60-82
+- Esercito dell'Elefante 105:1-4
+- il credente del popolo del Faraone 40:28-46
+- nascita di Maria 3:35-36
+- Vacca dei Figli d'Israele 2:67-74
+- Esdra 2:259
 - proprietari del giardino 68:17-32
 - Harut e Marut 2:102
 - Korah 28:76-82
-- consigli di Luqman a suo figlio 31:12-19;
-- proprietario dei due giardini 18:32-44;
-- gente di Saba' 34:15-19;
-- gente della caverna 18:9-26;
-- gente del fossato 85:1-8;
-- trasgressori del Sabato 7:163-165;
-- Samiri e il Vitello d'Oro 20:83-97;
-- Saul e Samuele 2:247-251;
+- consigli di Luqman a suo figlio 31:12-19
+- proprietario dei due giardini 18:32-44
+- gente di Saba' 34:15-19
+- gente della caverna 18:9-26
+- gente del fossato 85:1-8
+- trasgressori del Sabato 7:163-165
+- Samiri e il Vitello d'Oro 20:83-97
+- Saul e Samuele 2:247-251
 - Dhul-Qarnain 18:83-98
-Diavoli 2:102; 6:71; 6:112; 6:121; 7:27; 7:30; 17:27; 19:68; 19:83; 22:3-4; 23:97-98; 26:210; 37:7-10; 38:37-38; 67:5;
-- esseri umani e jinn diabolici 6:112;114:6;
+Diavoli 2:102; 6:71; 6:112; 6:121; 7:27; 7:30; 17:27; 19:68; 19:83; 22:3-4; 23:97-98; 26:210; 37:7-10; 38:37-38; 67:5
+- esseri umani e jinn diabolici 6:112;114:6
 - il cielo protetto dai diavoli 15:16-18
 Rimpianti
-- non aver seguito il Profeta 25:27;
-- non aver obbedito ad Allah e al Suo Messaggero 4:41-42; 33:64-68;
-- aver preso amici malvagi 25:28-29; 26:96-102; 43:36-39;
-- aver negato i segni di Allah 6:27-30;
+- non aver seguito il Profeta 25:27
+- non aver obbedito ad Allah e al Suo Messaggero 4:41-42; 33:64-68
+- aver preso amici malvagi 25:28-29; 26:96-102; 43:36-39
+- aver negato i segni di Allah 6:27-30
 - non aver lavorato per l'Aldilà 89:23-24
 Suppliche disperate
-- implorare di tornare al mondo 2:167; 6:27-28; 32:12-14; 42:44;
-- per una seconda possibilità 35:36-37;
-- per essere tolti dal Fuoco 40:10-12;
-- per cibo e acqua 7:51-52;
-- per intercessori 7:52-53;
-- per essere ridotti a polvere 4:41-42; 78:40;
+- implorare di tornare al mondo 2:167; 6:27-28; 32:12-14; 42:44
+- per una seconda possibilità 35:36-37
+- per essere tolti dal Fuoco 40:10-12
+- per cibo e acqua 7:51-52
+- per intercessori 7:52-53
+- per essere ridotti a polvere 4:41-42; 78:40
 - per la morte 43:74-78
 Qualità dei giusti
 - osservare i diritti del Creatore e della Sua creazione 3:133-136; 4:36; 4:69-70; 6:151-154; 8:2-4; 13:19-24; 17:23-39;18:107-108; 23:1-11; 25:63-76; 42:36-43
 Qualità degli empi
-- ingrati 14:34;
-- avari 17:100;
-- frettolosi 21:37;
-- ricordano Allah solo nei momenti difficili 10:12; 41:51;
-- impazienti 70:19;
+- ingrati 14:34
+- avari 17:100
+- frettolosi 21:37
+- ricordano Allah solo nei momenti difficili 10:12; 41:51
+- impazienti 70:19
 - polemici 18:54
 Peccati maggiori
-- associare altri ad Allah nel culto (shirk) 4:48; 4:116; 5:72; 6:19; 31:13;
-- abusare dei propri genitori 4:36; 6:151; 17:23;
-- trascurare o abbandonare le preghiere obbligatorie 19:59-60;
-- non pagare la tassa delle elemosine 41:6-7;
-- omicidio 6:151; 17:33;
-- uccidere un credente intenzionalmente 4:93;
-- furto 5:38;
-- frode 7:85; 11:85; 26:182-183; 83:1-6;
-- menzogna 2:10; 9:77; 39:60;
-- mentire su Allah 6:93; 29:68; 61:7;
+- associare altri ad Allah nel culto (shirk) 4:48; 4:116; 5:72; 6:19; 31:13
+- abusare dei propri genitori 4:36; 6:151; 17:23
+- trascurare o abbandonare le preghiere obbligatorie 19:59-60
+- non pagare la tassa delle elemosine 41:6-7
+- omicidio 6:151; 17:33
+- uccidere un credente intenzionalmente 4:93
+- furto 5:38
+- frode 7:85; 11:85; 26:182-183; 83:1-6
+- menzogna 2:10; 9:77; 39:60
+- mentire su Allah 6:93; 29:68; 61:7
 - relazioni sessuali proibite 2:222; 17:32; 24:2; 25:68; 29:28-30
-- false accuse di adulterio 24:4-5;
-- apostasia 2:217; 5:54;
-- consumare carne di maiale e altri cibi vietati (carogne, sangue, ecc.) 5:3; 6:145;
-- alcol e gioco d'azzardo 5:90-91;
-- maldicenza 49:11;
-- falsa testimonianza 22:30;
+- false accuse di adulterio 24:4-5
+- apostasia 2:217; 5:54
+- consumare carne di maiale e altri cibi vietati (carogne, sangue, ecc.) 5:3; 6:145
+- alcol e gioco d'azzardo 5:90-91
+- maldicenza 49:11
+- falsa testimonianza 22:30
 - magia 2:102; 10:77; 20:69
 """;

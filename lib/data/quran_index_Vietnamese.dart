@@ -5,18 +5,18 @@ Ablutions (Wudu) (Nghi thức rửa tay chân), 4:43; 5:6
 Abraham (Ibrahim) S.14; 2:135-136, 148; 3:33, 84, 95; 4:54, 125, 163; 6:161; 9:70, 114; 12:6, 38; 16:120; 19:58; 21:51, 60, 62, 69; 22:43, 78; 26:69; 29:31; 33:7; 37:83, 104, 109; 38:45; 42:13; 43:26; 51:24; 53:37; 57:26; 60:4; 87:19
 - không phải Do Thái cũng không phải Kitô hữu, 3:67-68
 - đứng trong đền thờ đầu tiên tại Bakkah, 3:97; 26:123
-- xây dựng nền móng Ka'bah 2:124-129;
-- kêu gọi dân tộc mình thờ phụng Một Thiên Chúa Thật sự 2:130-133; 26:69-89; 29:16; 29:24-27;
-- tranh luận với vị vua kiêu ngạo 2:258,
-- hỏi về sự phục sinh 2:260;
-- không phải Do Thái cũng không phải Kitô hữu 3:65-68;
-- bác bỏ việc thờ phụng thiên thể 6:74-87;
-- nhận tin về sự ra đời của Isaac 11:69-76; 51:24-30;
-- lời cầu nguyện của ông tại Ka'bah 14:35-41;
-- được các thiên thần viếng thăm 15:51-56;
-- một tấm gương 16:123;
-- kêu gọi cha mình đến với chân lý 19:41-50;
-- phá hủy thần tượng và được cứu khỏi lửa 21:51-73; 37:83-113;
+- xây dựng nền móng Ka'bah 2:124-129
+- kêu gọi dân tộc mình thờ phụng Một Thiên Chúa Thật sự 2:130-133; 26:69-89; 29:16; 29:24-27
+- tranh luận với vị vua kiêu ngạo 2:258
+- hỏi về sự phục sinh 2:260
+- không phải Do Thái cũng không phải Kitô hữu 3:65-68
+- bác bỏ việc thờ phụng thiên thể 6:74-87
+- nhận tin về sự ra đời của Isaac 11:69-76; 51:24-30
+- lời cầu nguyện của ông tại Ka'bah 14:35-41
+- được các thiên thần viếng thăm 15:51-56
+- một tấm gương 16:123
+- kêu gọi cha mình đến với chân lý 19:41-50
+- phá hủy thần tượng và được cứu khỏi lửa 21:51-73; 37:83-113
 - kêu gọi mọi người hành hương 22:26
 Abrar, 3:193, 198; 76:5; 82:13; 83:18-22
 Abrogation (Bãi bỏ), 2:106, 16:101
@@ -26,11 +26,10 @@ Adam, 3:33, 59; 5:27; 7:26-27, 31, 35, 172; 17:70; 19:58; 36:60
 - các thiên thần được lệnh sấp mình trước Adam, 2:34; 7:11
 - cây tri thức, 2:35; 7:19-20; 20:120-121
 - bị đuổi khỏi Vườn (không đổ lỗi cho Eva), 2:36; 7:24
-- được Allah tôn vinh, bị Satan cám dỗ 2:30-38; 7:11-25; 17:61-65; 18:50; 20:115-123; 38:71-85;
+- được Allah tôn vinh, bị Satan cám dỗ 2:30-38; 7:11-25; 17:61-65; 18:50; 20:115-123; 38:71-85
 - được Allah tha thứ 2:37; 20:122
 'Adiyat, S.100
-'Adn Paradise (Thiên đàng 'Adn), 9:72; 13:23; 16:31; 18:31;
-19:61; 20:76; 35:33; 38:50; 40:8; 61:12; 98:8
+'Adn Paradise (Thiên đàng 'Adn), 9:72; 13:23; 16:31; 18:31;19:61; 20:76; 35:33; 38:50; 40:8; 61:12; 98:8
 Adversity (Nghịch cảnh)
 - không phải chịu gánh nặng của người khác, 6:164; 17:15; 35:18; 39:7; 53:38
 - không bị gánh nặng vượt quá khả năng chịu đựng, 2:286; 6:152; 7:42; 23:62
@@ -113,7 +112,7 @@ Apostacy (Bội giáo), 3:72; 3:86-88; 3:90-91; 3:167; 4:137; 5:54; 9:74; 9:107;
 Apostates (Những kẻ bội giáo), 47:25
 A'raf, S.7; 7:46, 48
 Arafat, 2:198
-Argue (Tranh luận),
+Argue (Tranh luận)
 - đừng biện hộ cho những kẻ tự lừa dối mình, 4:107
 - bạn đã biện hộ cho họ ở thế giới này, nhưng ai sẽ làm vậy vào Ngày Phục Sinh, 4:109
 Arguments/Attacks (Tranh luận/Tấn công)
@@ -123,7 +122,7 @@ Armor (Áo giáp), 16:81
 'Asr, S.103
 Ayat Al-Kursi, 2:255
 Backbiter (Kẻ nói xấu sau lưng), 49:12; 104:1
-Badr (battle of) (trận chiến Badr), 3:13,
+Badr (battle of) (trận chiến Badr), 3:13
 - bài học từ, 8:5-19, 42-48
 Al-Bait-ul-Ma'mur, 52:4
 Bakkah (Makkah), 3:96
@@ -133,7 +132,7 @@ Balance (Sự cân bằng), 7:8-9; 17:35; 21:47; 55:7-9; 57:25;101:6-9
 Banu An-Nadir, 59:2-6, 13
 Baqarah, S.2
 Bara'a (Xem Taubah), S.9
-Barzakh (Rào cản), 23:100; 25:53; 55:20;
+Barzakh (Rào cản), 23:100; 25:53; 55:20
 - xem thêm 18:94-97; 34:54; 36:9
 Baiyinah, S.98
 Beast (of the Last Days) (Con thú của Những Ngày Cuối Cùng), 27:82
@@ -182,7 +181,7 @@ Bible (Kinh Thánh), 5:64, 5:65, 5:68
 - sự bóp méo của, 3:78; 5:14-15
 Birds (Chim), 2:260; 3:49; 5:110; 6:38; 12:36, 41; 16:79; 21:79; 22:31; 24:41; 27:16-17, 20; 34:10; 38:19; 56:21; 67:19; 105:3
 Blood-money (Diya) (Tiền chuộc máu), 2:178-179; 4:92; 17:33
-Booty, war (Chiến lợi phẩm), 4:94. 8:41; 59:6-8;
+Booty, war (Chiến lợi phẩm), 4:94. 8:41; 59:6-8
 - lấy trái phép, 3:162
 - xem spoils
 Bribery (Hối lộ), 2:188
@@ -220,7 +219,7 @@ Clothing (Quần áo), 7:26; 16:81
 - quần áo bên ngoài của phụ nữ ngăn chặn sự quấy rối của những kẻ giả dối, 33:59-60
 Confederates (Liên minh), 33:9, 22
 - xem Ahzab Consultation (Tham vấn), mutual, 42:38
-Creation (Sự tạo dựng),
+Creation (Sự tạo dựng)
 - bắt đầu và được lặp lại, 10:4; 21:104; 27:64; 29:19-20
 - một sự tạo dựng mới, 17:49, 98; 35:16
 - với chân lý, 15:85; 16:3; 29:44; 39:5; 44:39;45:22; 46:3
@@ -240,12 +239,12 @@ Crow (Con quạ), 5:31
 Criterion (Tiêu chuẩn), 2:53, 185; 3:4; 8:29, 41; 21:48; 25:1
 Dahr (xem Insan), S.76; 45:24
 - thời gian, 76:1; 103:1
-David (Đavít), 5:78; 6:84; 17:55; 34:10, 13; 38:17-30;
+David (Đavít), 5:78; 6:84; 17:55; 34:10, 13; 38:17-30
 - được ban các Thánh vịnh 4:163
 - chiến đấu và giết Goliath, 2:251
-- đưa ra phán quyết 21:78-80;
-- được ban phước với tri thức và tiên tri 27:15-16;
-- núi non và chim muông cùng ca ngợi Allah với ông 34:10; 38:17-20;
+- đưa ra phán quyết 21:78-80
+- được ban phước với tri thức và tiên tri 27:15-16
+- núi non và chim muông cùng ca ngợi Allah với ông 34:10; 38:17-20
 - phán xét giữa hai người 38:21-26
 Dawabb or Dabbah (sinh vật sống di chuyển) 2:164; 6:38; 8:22, 55; 11:6, 56; 16:49, 61; 22:18; 24:45; 27:82; 29:60;31:10; 34:14; 35:28, 45; 42:29; 45:4
 Dead will be raised up (Người chết sẽ được phục sinh), 6:36
@@ -255,17 +254,17 @@ Death (Cái chết), 3:185; 3:193; 4:78; 6:61; 6:93; 21:35; 23:99-108; 31:34; 32
 - những cộng đồng không có mặc khải sẽ không bị tiêu diệt, 6:131; 9:115; 10:47; 11:117; 15:4; 16:119; 17:15; 28:59
 - những người chết vì lý do của Allah vẫn còn sống, 2:154; 3:169
 - trong khi bỏ trốn khỏi cái ác hướng về Allah, 4:100
-- không thể bị ngăn chặn hay trì hoãn 63:10-11;
-- người anh em sinh đôi của giấc ngủ 6:60; 39:42;
-- những người tin và không tin vào thời điểm chết 8:50; 16:27-32; 41:30;
+- không thể bị ngăn chặn hay trì hoãn 63:10-11
+- người anh em sinh đôi của giấc ngủ 6:60; 39:42
+- những người tin và không tin vào thời điểm chết 8:50; 16:27-32; 41:30
 - hình phạt trong mồ 40:46
 Debts (Nợ nần), 2:280, 282; 4:11-12
-Decree (Sắc lệnh),
+Decree (Sắc lệnh)
 - cho mỗi vấn đề, có một sắc lệnh, 13:38
 - chưa bao giờ chúng ta tiêu diệt một thị trấn mà không có một sắc lệnh đã biết về nó, 15:4
 - mọi vấn đề đều từ Allah, 44:5
 - khi Ngài sắc lệnh một vấn đề, Ngài chỉ nói "Hãy là!" — và nó là, 2:117; 36:82; 40:68
-Deeds (Hành động),
+Deeds (Hành động)
 - điều xấu được tô vẽ đẹp đẽ cho họ, 47:14
 - của chúng ta là của chúng ta, của bạn là của bạn, 28:55; 42:15; 45:15
 - tốt và xấu, đều vì và chống lại bản thân mình, 41:46
@@ -279,7 +278,7 @@ Dhariyat, S.51
 Dhikr, 7:205; 15:6, 9
 Dhul-Kifi, 21:85; 38:48
 Dhul-Qarain, 18:83-98
-Dhun-Nun (Người bạn của con cá),
+Dhun-Nun (Người bạn của con cá)
 Disbelievers (Những kẻ không tin) (xem thêm Hypocrites)
 - yêu cầu Muhammad (ﷺ) khơi gợi cơn thịnh nộ của Allah lên họ như bằng chứng, 6:57-58; 8:32; 10:49-52
 - hãy chịu đựng họ với lòng tốt bụng, 31:15
@@ -304,7 +303,7 @@ Ditch, people of the (Dân của chiến hào), 85:4-10
 Diversity (Sự đa dạng)
 - của con người, 30:22, 35:27-28
 - của cuộc sống, 35:27-28
-Divorce (Ly hôn), 2:228-232, 236-237, 241; 4:35, 130; 65:1-7;
+Divorce (Ly hôn), 2:228-232, 236-237, 241; 4:35, 130; 65:1-7
 - sau thời gian chờ đợi, hủy bỏ hoặc hòa giải, 2:231; 65:2
 - hai nhân chứng, 65:2
 - trợ cấp ly hôn, 2:233, 241
@@ -340,7 +339,7 @@ Divorce, Woman (Ly hôn, người vợ)
 - trừ khi hôn nhân chưa được thực hiện, 33:49
 Dogs (Chó), 7:176
 Donkeys (Ass) (Lừa), 2:259; 16:8; 31:19; 62:5; 74:50
-Drink (Đồ uống),
+Drink (Đồ uống)
 - có cồn, 2:219; 5:90
 - thuần khiết, trắng và ngon ngọt, 37:45-46; 76:21
 - rượu vang được niêm phong tinh khiết, 83:25
@@ -363,13 +362,13 @@ Evil (Điều ác), 4:123; 10:27-30; 19:83; 59:15
 - thay đổi điều xấu thành điều tốt, 7:95
 - những kẻ theo đuổi dục vọng xấu xa của mình, 47:14, 16
 - hành động được tô vẽ đẹp đẽ cho họ, 47:14
-Excess (Thái quá),
+Excess (Thái quá)
 - bị cấm trong thức ăn, 5:87
 - trong tôn giáo, 4:171; 5:77-81
 Eyes, ears and skins will bear witness against sinners (Mắt, tai và da sẽ làm chứng chống lại những kẻ tội lỗi), 41:20-23
 Ezra (Uzair) 9:30
 Face or Countenance of Allah (Khuôn mặt hay Diện mạo của Allah), 2:115, 272; 6:52; 13:22; 18:28; 28:88; 30:38-39; 55:27; 76:9; 92:20
-Fair-seeming (Vẻ đẹp bề ngoài),
+Fair-seeming (Vẻ đẹp bề ngoài)
 - Allah đã làm cho mỗi dân tộc thấy hành động của mình là tốt đẹp, 6:108
 Faith (Belief) (Đức tin), 2:108; 3:167, 177, 193; 5:5; 9:23; 16:106; 30:56; 40:10; 42:52; 49:7, 11, 14; 52:21; 58:22; 59:9-10
 - những kẻ từ chối, 3:116
@@ -379,7 +378,7 @@ Faith (Belief) (Đức tin), 2:108; 3:167, 177, 193; 5:5; 9:23; 16:106; 30:56; 4
 Fajr, S.89
 Falaq, S.113
 False conversation about Verses of Quran (Những cuộc trò chuyện sai lệch về Các câu của Quran), 6:68
-False gods (Các thần giả),
+False gods (Các thần giả)
 - ngoài Allah, thần tượng và các đối tác được gọi là 7:194-198; 16:20-21, 72, 86; 21:22, 24; 34:22, 27; 41:47-48; 46:5-6; 53:19-24; 71:23-24
 - đừng xúc phạm những gì họ thờ phụng ngoài Allah, 6:108
 - xem thêm Taghut
@@ -394,7 +393,7 @@ Fidyah (tiền chuộc), of fast, 2:196
 - để giải phóng tù nhân, 8:67
 - tiền chuộc được những kẻ không tin đề nghị, 3:91; 5:36,37; 10:54; 13:18
 Fig (Quả sung), 95:1
-Fighting (Chiến đấu),
+Fighting (Chiến đấu)
 - trên đường của Allah, chống lại những kẻ không tin, 2:190-193, 244; 4:84, 95; 8:72, 74, 75; 9:12-16, 20, 24, 36, 123; 47:4; 61:11
 - được quy định, 2:216
 - trong các tháng thiêng liêng, 2:217; 9:5
@@ -410,7 +409,7 @@ Fil, S.105
 Firdaus Paradise (Thiên đàng Firdaus), 18:107; 23:11
 Fire (Lửa), 56:71, 100:2
 Fly (Ruồi), 22:73
-Food (Thức ăn),
+Food (Thức ăn)
 - hợp pháp và bất hợp pháp (Halal và Haram), 2:168, 172, 173; 5:1, 3-5, 88; 6:118-119, 121, 145-146; 16:114-118; 23:51
 - không có tội lỗi về những gì đã ăn trong quá khứ, 5:93
 - đừng vượt quá giới hạn, 5:87
@@ -432,7 +431,7 @@ Forgiveness (Sự tha thứ), 2:109; 4:48, 110, 116; 5:74; 7:199; 39:53; 42:5, 4
 - hãy chạy đua với nhau trong việc hướng đến, 57:21
 - những hành động xấu được thay đổi thành những hành động tốt 25:68-71
 Fraud (Gian lận) (xem Betray) 83:1-6
-Free will (Ý chí tự do),
+Free will (Ý chí tự do)
 - bị giới hạn bởi Ý chí của Allah, 6:107; 10:99; 74:56;76:31; 81:28-29
 - bất cứ ai muốn, hãy để họ: tin tưởng và không tin tưởng, 18:29
 - đi theo con đường đến với Chúa của mình, 76:29
@@ -466,14 +465,14 @@ Good (Days) (Những Ngày Tốt Đẹp), 3:140
 - Allah thưởng cho những ai làm điều tốt với điều tốt nhất, 53:31
 - có phần thưởng nào cho điều tốt ngoài điều tốt, 55:60
 - hãy làm điều tốt như Allah đã tốt với bạn, 28:77
-Good and Evil (Điều tốt và Điều ác),
+Good and Evil (Điều tốt và Điều ác)
 - điều tốt đến từ Allah và điều ác đến từ chính bạn, 4:79
 - nếu bạn làm điều tốt, vì chính bạn và nếu bạn làm điều ác, chống lại chính bạn, 17:7;41:46
 - đẩy lùi điều ác bằng điều tốt, 23:96; 28:54; 41:34
 - điều tốt và điều ác không thể bình đẳng, 41:34
 - mỗi người sẽ đối mặt với tất cả điều tốt và ác mà họ đã làm, 3:30
 - xem thêm Muhsinun
-Good deed (Hành động tốt),
+Good deed (Hành động tốt)
 - tiết lộ hoặc che giấu nó, 4:149
 - cố gắng đua nhau trong, 5:48
 Gospel (Phúc âm), 3:3, 48, 65; 5:46-47, 66, 68, 110;7:157; 9:111; 48:29; 57:27
@@ -490,7 +489,7 @@ Hardship (Khó khăn), there is relief with every, 94:5-6
 Harun (Aaron)
 Harut, 2:102
 Hashr, S.59
-Hearts (Trái tim),
+Hearts (Trái tim)
 - cứng lại, 2:74; 22:53; 39:22; 57:16
 - bị niêm phong, 7:100-101; 40:35; 47:16; 63:3
 - bị che phủ, 17:46; 41:5
@@ -498,7 +497,7 @@ Hearts (Trái tim),
 - bị chia rẽ, 59:14
 - tràn đầy sợ hãi, 22:35
 - trong đó có bệnh tật, 2:10; 5:52; 8:49; 9:125; 22:53; 24:50; 33:12, 32, 60; 47:20, 29;74:31
-Heavens (Các tầng trời),
+Heavens (Các tầng trời)
 - thuộc về Allah là những điều ẩn giấu của, 16:77
 - không được tạo ra để vui chơi, 21:16
 - và trái đất đã được nối với nhau, 21:30
@@ -528,7 +527,7 @@ Hell (the fire, the blazing flame) (Địa ngục, lửa, ngọn lửa rực r�
 - tuyệt vọng rực cháy và bóng tối lạnh giá trong, 38:57
 - dây xích dài 70 khuỷu tay, 69:32
 - lưu lại trong một thời gian hạn chế, 78:23
-Hereafter (Kiếp sau),
+Hereafter (Kiếp sau)
 - ngôi nhà trong kiếp sau tốt hơn, 6:32; 7:169
 - điều gì sẽ là kết thúc trong kiếp sau, 6:135
 - những kẻ bất công sẽ không thành công (trong), 6:135
@@ -545,7 +544,7 @@ Hijr (Rocky Tract) (Vùng Đá), 15:80-85
 Hijr, S.15
 Homosexuality (Đồng tính luyến ái) 26:165-166; 27:55; 29:28-29
 Horses (Ngựa), 16:8
-Hour (Giờ Phán Xét),
+Hour (Giờ Phán Xét)
 - tri thức về nó chỉ với Allah, 7:187; 31:34; 33:63; 41:47; 68:26; 79:42-46
 - tất cả đột nhiên ập đến họ, 6:31; 7:187;12:107; 43:66
 - đến với bạn, 6:40; 12:107; 20:15; 34:3
@@ -554,9 +553,9 @@ Hour (Giờ Phán Xét),
 - trận động đất của, 22:1
 - sẽ được xác lập, vào Ngày, 30:12, 14
 - chắc chắn sẽ đến, không có nghi ngờ, 40:59;45:32; 51:5-6
-- những dấu hiệu 21:96; 27:82; 43:61; 47:18; 54:1-2;
-- những tên gọi 1:3; 2:4; 3:55; 19:39; 30:56; 37:21; 40:15; 41:47; 42:7; 50:20; 56:1; 64:9; 69:1; 79:34; 80:33; 88:1; 101:1-3;
-- sẽ đến bất ngờ với mọi người 6:31; 7:187;
+- những dấu hiệu 21:96; 27:82; 43:61; 47:18; 54:1-2
+- những tên gọi 1:3; 2:4; 3:55; 19:39; 30:56; 37:21; 40:15; 41:47; 42:7; 50:20; 56:1; 64:9; 69:1; 79:34; 80:33; 88:1; 101:1-3
+- sẽ đến bất ngờ với mọi người 6:31; 7:187
 - Kèn sẽ được thổi 6:73; 23:101; 39:68
 Houses, manners about entering (Nhà cửa, phép tắc khi vào), 24:27-29
 Hud, 7:65-72; 11:50-60; 26:123-140; 46:21-26
@@ -565,7 +564,7 @@ Hujurat, S.49
 Humazah, S.104
 Hunain (battle) (trận chiến Hunain), 9:25
 Hur (females in Paradise) (Thiếu nữ trong Thiên đàng), 44:54; 52:20
-Hypocrites (Những kẻ giả dối),
+Hypocrites (Những kẻ giả dối)
 - nói: chúng ta tin vào Allah và Ngày Cuối Cùng, nhưng thực ra không tin, 2:8
 - tự lừa dối mình, 2:9
 - bệnh trong lòng họ, 2:10; 8:49; 22:53;33:12; 47:29
@@ -609,8 +608,8 @@ Ilah (chỉ Một), 2:163; 6:19; 16:22, 51; 23:91; 37:4; 38:65
 Illegal sexual intercourse (Quan hệ tình dục bất hợp pháp); evidence of witnesses, 4:15-18; 24:2, 19
 Illiyyun, 83:18-21
 Impure (Najas) (Không trong sạch), 9:28
-'Imran,
-- vợ của, 3:35;
+'Imran
+- vợ của, 3:35
 - con gái của, 66:12
 Inevitable (Điều không thể tránh khỏi), 69:1-3
 Infitar, S.82
@@ -629,7 +628,7 @@ Iron (Sắt), 57:25
 'Isa, xem Jesus
 Isaac (Ishaq) 2:133; 4:163; 6:84; 19:49;21:72; 29:27; 37:112-113
 Ishmael (Isma'il), 2:125-129, 133; 4:163;6:86; 19:54-55; 21:85; 38:48
-- xây dựng nền móng Ka'bah cùng cha mình 2:125-140;
+- xây dựng nền móng Ka'bah cùng cha mình 2:125-140
 - câu chuyện về lễ hiến tế 37:100-113
 Islam, 3:19, 85; 5:3; 6:125; 39:22; 61:7
 - những người đầu tiên phục tùng với tư cách là người Hồi giáo, 6:14,163; 39:12
@@ -658,8 +657,8 @@ Jacob (Ya'qub) 2:132-133; 4:163; 6:84;12:18; 19:49; 21:72; 29:27
 Jalut (xem Goliath)
 Jamarat, 2:200
 Jathiyah, S.45
-Jesus (Isa con trai của Mary),
-- người mẹ được chọn lựa trên tất cả phụ nữ trên thế giới 3:42;
+Jesus (Isa con trai của Mary)
+- người mẹ được chọn lựa trên tất cả phụ nữ trên thế giới 3:42
 - làm chứng vào Ngày Phục Sinh, 4:159
 - tin mừng về sự ra đời, 3:45-47; 19:22-23
 - Sứ giả đến với Con cái của Israel, 3:49-51
@@ -682,9 +681,9 @@ Jesus (Isa con trai của Mary),
 - những quan điểm khác nhau về ông, 43:65
 - không hơn gì một người tôi tớ và một ví dụ cho Con cái của Israel, 43:59
 - tin mừng về một Sứ giả có tên sẽ là Ahmed, 61:6
-- sự ra đời trinh nữ, thông điệp và những phép lạ của ông 3:45-51; 19:16-38;
-- được nhắc nhở về những ân huệ của Allah 5:110-115;
-- phủ nhận việc là thần linh 5:116-120;
+- sự ra đời trinh nữ, thông điệp và những phép lạ của ông 3:45-51; 19:16-38
+- được nhắc nhở về những ân huệ của Allah 5:110-115
+- phủ nhận việc là thần linh 5:116-120
 - lòng từ bi và ân sủng trong lòng những người theo ông 5:82; 57:27
 Jews and Christians (Người Do Thái và Kitô hữu), 2:140; 4:153-161, 171; 5:18
 - lắng nghe điều sai lầm, 5:41-42
@@ -694,41 +693,41 @@ Jews and Christians (Người Do Thái và Kitô hữu), 2:140; 4:153-161, 171; 
 Jibril (xem Gabriel)
 Jihad (Chiến đấu, Phấn đấu) 2:216; 9:24; 22:78; 25:52
 Jinn, S.72
-Jinn, 6:100, 112; 15:27; 34:41; 38:37; 46:18,29; 55:33, 39;
-- được tạo ra từ lửa 15:25; 55:15;
-- jinn tin tưởng và không tin tưởng 72:1-15;
+Jinn, 6:100, 112; 15:27; 34:41; 38:37; 46:18,29; 55:33, 39
+- được tạo ra từ lửa 15:25; 55:15
+- jinn tin tưởng và không tin tưởng 72:1-15
 - một số tin vào thông điệp của Quran 46:29-32
 - con người và jinn được tạo ra vì một mục đích 51:56-58
 Job (Gióp), 4:163; 6:84; 21:83-84; 38:41-44
-John (Yahya, Gioan Tẩy Giả),
+John (Yahya, Gioan Tẩy Giả)
 - tin mừng về, 3:38-41; 19:7-11; 21:90
 - ngay thẳng, 6:85
 - khôn ngoan, cảm thông, có hiếu, 19:12-15
-Jonah (Jonas or Yunus) (Giô-na), 4:163; 6:86; 10:98;21:87; 37:139-148;
+Jonah (Jonas or Yunus) (Giô-na), 4:163; 6:86; 10:98;21:87; 37:139-148
 - (Dhu n-Nun) 21:87; 68:48-50
 Joseph (Yusuf) (Giuse), 6:84; 12:4-101
-- câu chuyện hay nhất 12:1-3;
-- giấc mơ của Yusuf trẻ 12:4-6;
-- âm mưu của các anh trai 12:7-18;
-- bị bán vào chế độ nô lệ 12:19-20;
+- câu chuyện hay nhất 12:1-3
+- giấc mơ của Yusuf trẻ 12:4-6
+- âm mưu của các anh trai 12:7-18
+- bị bán vào chế độ nô lệ 12:19-20
 - được nuôi dưỡng trong nhà của Tể tướng Ai Cập 12:21-22
-- vợ của Tể tướng cố gắng quyến rũ ông 12:23-29;
-- sự kiện tiệc tùng 12:30-32;
-- vào tù 12:33-35;
-- hai người bạn tù 12:36-42;
-- giấc mơ của nhà vua 12:43-53;
-- trở thành Tể tướng 12:54-57;
-- các anh trai đến tìm kiếm lương thực 12:58-68;
-- đưa em trai Benjamin theo 12:69-82;
-- nỗi đau buồn mới của cha 12:83-87;
-- tiết lộ danh tính thật của mình 12:88-98;
-- giấc mơ cũ trở thành sự thật 12:99-100;
+- vợ của Tể tướng cố gắng quyến rũ ông 12:23-29
+- sự kiện tiệc tùng 12:30-32
+- vào tù 12:33-35
+- hai người bạn tù 12:36-42
+- giấc mơ của nhà vua 12:43-53
+- trở thành Tể tướng 12:54-57
+- các anh trai đến tìm kiếm lương thực 12:58-68
+- đưa em trai Benjamin theo 12:69-82
+- nỗi đau buồn mới của cha 12:83-87
+- tiết lộ danh tính thật của mình 12:88-98
+- giấc mơ cũ trở thành sự thật 12:99-100
 - lời cầu nguyện kết thúc 12:101
 Judi, Mount (Núi Judi), 11:44
 Jumu'ah, S.62
 Justice (Adl) (Công lý), 2:282; 4:58, 135; 7:29; 16:90; 57:25
 - xem thêm 4:65, 105
-Ka'bah,
+Ka'bah
 - được xây dựng bởi Abraham, 2:125-127
 - không được săn bắn thú, 5:94-96
 - nơi trú ẩn an toàn, 5:97
@@ -740,17 +739,17 @@ Kahf, S.18
 Kanz, 9:34-35
 Kauthar (river in Paradise) (sông trong Thiên đàng), 108:1
 Kauthar, S.108
-Keys (Chìa khóa),
+Keys (Chìa khóa)
 - của các tầng trời và trái đất, 39:63; 42:12
 - của Ghaib, 6:59
 Khaulah bint Tha'labah, 58:1
-Killing (Giết chóc),
+Killing (Giết chóc)
 - nếu ai giết một người, như thể đã giết toàn thể nhân loại, 5:32
 - đừng giết bất cứ ai, 17:33
 Kind words are better than charity (Lời nói tử tế còn tốt hơn từ thiện), 2:263
 Kindred, rights of (Quyền của người thân), 2:83, 177, 215; 4:7-9, 36;8:41; 16:90; 17:26; 24:22; 29:8; 30:38; 42:23
 Kiraman-Ratibin, 82:11
-Knowledge (Tri thức),
+Knowledge (Tri thức)
 - không một chiếc lá nào rơi mà Ngài không biết, 6:59
 - thua thiệt thay những ai đã giết con cái của mình vì sự thiếu hiểu biết, 6:140
 - về năm điều, chỉ với Allah mà thôi, 31:34
@@ -760,14 +759,14 @@ Kursi, 2:255
 Lahab (Xem Masad), S.111
 Lail, S.92
 Lamp (Đèn), 25:61; 67:5; 71:16; 78:13
-Languages (Ngôn ngữ),
+Languages (Ngôn ngữ)
 - sự khác biệt trong, và màu sắc của con người, 30:22
 Lat, 53:19
 Law, prescribed (Luật được quy định), 5:48
 Laws from Allah (Luật từ Allah), 2:219; 98:3
 Liars (Những kẻ nói dối), 26:221-223
 Life (Sự sống), if anyone saved a person, he saved the life of all mankind, 5:32
-Life of this world (Cuộc sống thế giới này),
+Life of this world (Cuộc sống thế giới này)
 - đã mua lấy cuộc sống thế giới này với cái giá của Kiếp Sau, 2:86
 - chỉ là niềm vui của sự lừa dối, 3:185
 - bán cuộc sống thế giới này để đổi lấy Kiếp Sau, 4:74
@@ -779,7 +778,7 @@ Life of this world (Cuộc sống thế giới này),
 - ai muốn, sẽ nhận được ở đây; nhưng sau đó sẽ không có phần trong Kiếp Sau, 11:15-16; 17:18; 42:20
 - những ai yêu hiện tại và bỏ bê Kiếp Sau, 75:20-21; 76:27
 - bạn thích cuộc sống thế giới này, 87:16
-Light (Ánh sáng),
+Light (Ánh sáng)
 - rõ ràng, 4:174
 - và bóng tối, 6:1
 - ví dụ về, 24:35
@@ -794,7 +793,7 @@ Limits set by Allah (Giới hạn được Allah đặt ra), 2:173, 187, 190, 23
 - khi họ vượt quá giới hạn (bị biến thành khỉ), 7:166
 - những ai tuân thủ các giới hạn, 9:112
 Lion (Sư tử), 74:51
-Loan (Khoản cho vay),
+Loan (Khoản cho vay)
 - cho Allah vay một khoản tốt đẹp, 2:245; 73:20
 - được tăng lên nhiều lần, 57:11, 18
 - được nhân đôi, 64:17
@@ -812,7 +811,7 @@ Mahr (tiền cưới), 2:229, 236-237; 4:4,19-21, 24-25; 5:5; 33:50; 60:10-11
 Ma'idah, S.5
 Makkah (Bakkah), 3:96;90:1-2
 - Thành phố An toàn, 95:3
-Man (Con người),
+Man (Con người)
 - các thế hệ nối tiếp nhau trên trái đất, 2:30;6:165
 - được tạo ra làm người kế thừa, 35:39
 - nghĩa vụ, 2:83-84, 88, 177; 4:1-36; 8:41; 16:90;17:23-39; 24:22; 29:8-9; 30:38;33:33;42:23; 64:14; 70:22-35
@@ -877,7 +876,7 @@ Man (Con người),
 - vượt qua mọi giới hạn, 96:6-7
 Manasik (duties) of Hajj (Nghi lễ của Hajj), 2:128, 200; 22:30
 Manat, 53:20
-Mankind (Nhân loại),
+Mankind (Nhân loại)
 - những nhân chứng về, 2:143
 - một cộng đồng, 2:213; 10:19
 - được tạo ra từ một cặp đôi duy nhất, 4:1; 39:6; 49:13
@@ -887,7 +886,7 @@ Mankind (Nhân loại),
 - danh dự nhất trong số, 49:13
 - được tạo thành các quốc gia và bộ tộc, 49:13
 Manna and the quails (Manna và chim cút), 2:57
-Manners (Phép tắc),
+Manners (Phép tắc)
 - về việc vào nhà, 24:27-29
 - trong nhà, 24:58-61
 - trong nhà của Nhà tiên tri, 33:53
@@ -910,7 +909,7 @@ Marriage (Hôn nhân), 2:232, 234
 - những ai không có đủ tài chính để kết hôn, 24:33
 - những người vợ được phép hợp pháp với Nhà tiên tri, 33:50-52
 - trước khi quan hệ tình dục, không có Iddah khi ly hôn, 33:49
-Martyrs (Những người tử vì đạo),
+Martyrs (Những người tử vì đạo)
 - không chết, 2:154; 3:169
 - vui mừng trong Ân sủng và Phước lành từ Allah, 3:170-171
 - nhận được sự tha thứ và lòng thương xót, 3:157-158
@@ -930,7 +929,7 @@ Masad, S.111
 Maun, S.107
 Ma'wa Paradise (Thiên đàng Ma'wa), 53:15
 Measure and weight, give full (Đo lường và cân nặng, hãy đầy đủ), 11:85; 17:35;83:1-5
-Meeting (Cuộc gặp gỡ),
+Meeting (Cuộc gặp gỡ)
 - với Allah, 6:31
 - của Ngày Trọng Đại, 19:37
 - của Kiếp Sau, 30:16
@@ -960,7 +959,7 @@ Miraj, 17:1; 53:12
 Months, number of (Số tháng), 9:36-37
 Moon (Mặt trăng), 7:54; 10:5; 16:12; 22:18; 25:61; 36:39-40; 71:16; 91:2
 - sự chia cắt của; 54:1
-Moses (Môsê),
+Moses (Môsê)
 - và dân tộc của ông, 2:51-61; 7:138-141,159-162; 14:5-8; 61:5
 - và Pharaoh, 2:49-50; 17:101-103; 20:17-53, 56-79;23:45-49; 25:31-42; 40:23-46; 43:46-56; 51:38-40; 73:16;79:15-26
 - được Allah hướng dẫn, 6:84
@@ -970,23 +969,23 @@ Moses (Môsê),
 - được ban Kinh Thánh, 17:2
 - chín Dấu hiệu Rõ ràng, 7:133; 17:101
 - đến ngã tư của hai vùng biển, 18:60-82
-- cuộc gặp gỡ định mệnh tại bụi gai cháy 20:9-36; 27:7-14; 28:29-35;
+- cuộc gặp gỡ định mệnh tại bụi gai cháy 20:9-36; 27:7-14; 28:29-35
 - được gọi và được trao Sứ mệnh, 19:51-53;20:9-56
 - thời thơ ấu, người mẹ và người chị, 20:38-40;28:7-13
 - những nhà ảo thuật được cải đạo, 20:70-73; 26:46-52
 - ở Madyan, 20:40; 28:22-28
 - được ban Tiêu chuẩn, 21:48
 - và ngọn lửa huyền bí, 27:7-12; 28:29-35
-- giết một người Ai Cập do nhầm lẫn trong thành phố 28:14-21;
+- giết một người Ai Cập do nhầm lẫn trong thành phố 28:14-21
 - đến với những Ayat rõ ràng, 29:39
-- câu chuyện với Pharaoh 7:103-137; 10:75-92; 11:96-99; 26:10-69;
-- chín dấu hiệu cho Pharaoh và dân tộc của ông 7:130-133; 20:17-22; 17:101;
-- đánh bại các nhà ảo thuật của Pharaoh 20:70-73; 26:46-52;
-- trốn thoát đến Midian và kết hôn 28:22-28;
-- nhận các Bảng đá 7:142-154,
-- xin được nhìn thấy Allah trên Núi 7:142-145;
-- được Allah tôn vinh 33:69;
-- những ân huệ của Allah đối với người Israel 2:47-61;
+- câu chuyện với Pharaoh 7:103-137; 10:75-92; 11:96-99; 26:10-69
+- chín dấu hiệu cho Pharaoh và dân tộc của ông 7:130-133; 20:17-22; 17:101
+- đánh bại các nhà ảo thuật của Pharaoh 20:70-73; 26:46-52
+- trốn thoát đến Midian và kết hôn 28:22-28
+- nhận các Bảng đá 7:142-154
+- xin được nhìn thấy Allah trên Núi 7:142-145
+- được Allah tôn vinh 33:69
+- những ân huệ của Allah đối với người Israel 2:47-61
 - người Israel từ chối vào Jerusalem 5:20-29
 - được hướng dẫn đến Con đường Đúng đắn, 37:114-122
 - Kinh Thánh của, 53:36; 87:19
@@ -1074,7 +1073,7 @@ Mumtahanah, S.60
 Munafigun, S.63
 Murder (Giết người), 2:178-179
 Mursalat, S.77
-Muslims (Người Hồi giáo),
+Muslims (Người Hồi giáo)
 - những người đầu tiên trong số, 6:14, 163; 9:100; 39:12
 - Ai đã đặt tên, 22:78
 - sự tha thứ và phần thưởng lớn cho những người, 33:35-36
@@ -1086,7 +1085,7 @@ Nahl, S.16
 Najas (không trong sạch) 9:28
 Najm, S.53
 Najwa (Xem Secret)
-Names (Những tên gọi),
+Names (Những tên gọi)
 - thuộc về Ngài là những Tên Đẹp Nhất, 7:180
 - thuộc về Ngài là những Tên Tốt Nhất, 17:110; 20:8; 59:24
 Necessity (Sự cần thiết), if one is forced by, 2:173; 6:145
@@ -1099,10 +1098,10 @@ Night (Đêm), (as a symbol), for rest, 10:67
 - để phục vụ, 14:32
 - Đêm Al-Qadr (Sắc lệnh), 44:3-4; 97:1-5
 Nisa', S.4
-Noah (Nô-ê), 3:33; 4:163; 6:84; 9:70; 10:71;11:25, 32, 36, 42, 45-46, 48, 89; 17:3; 21:76; 25:37; 26:105; 29:14; 37:75; 51:46;54:9; 69:11;
-- bị chế nhạo 11:38;
+Noah (Nô-ê), 3:33; 4:163; 6:84; 9:70; 10:71;11:25, 32, 36, 42, 45-46, 48, 89; 17:3; 21:76; 25:37; 26:105; 29:14; 37:75; 51:46;54:9; 69:11
+- bị chế nhạo 11:38
 - trận Đại Hồng Thủy, 29:14
-- Chiếc thuyền và trận lụt 7:59-69, 11:25-48; 23:23-31; 26:105-122; 71:1-28;
+- Chiếc thuyền và trận lụt 7:59-69, 11:25-48; 23:23-31; 26:105-122; 71:1-28
 - người con không ngay thẳng không được cứu, 11:42-48
 - người vợ không ngay thẳng, 14:9; 17:3, 17;19:58;21:76; 22:42; 26:105-106, 116; 33:7; 37:75,79; 38:12; 42:13; 40:5, 31; 42:13;50:12;53:52; 57:26; 66:10; 71:1, 21, 26
 Nuh, S.71
@@ -1136,7 +1135,7 @@ Parables (Những ví dụ, hình ảnh, phép so sánh)
 - mưa, 10:24
 - mùa màng bị cắt sạch, 10:24
 - mù và điếc, 11:24
-- Allah so với các thần giả 13:14; 16:76;
+- Allah so với các thần giả 13:14; 16:76
 - sự thật so với điều giả dối 13:17
 - tro bụi mà gió thổi mạnh, 14:18
 - cây tốt lành, 14:24-25
@@ -1164,7 +1163,7 @@ Parables (Những ví dụ, hình ảnh, phép so sánh)
 - con lừa, 62:5
 - nếu nước bị rút xuống, 67:30
 - những người của khu vườn, 68:17-33
-Paradise (Thiên đàng),
+Paradise (Thiên đàng)
 - của Nơi Trú Ngụ (Ma'wa Paradise), 53:15
 - Firdaus Paradise, 18:107; 23:11
 - Những khu vườn có dòng sông chảy bên dưới, 3:15, 198;4:57; 5:119; 7:43; 9:72; 18:31; 22:23; 39:20;57:12; 64:9; 98:8
@@ -1187,7 +1186,7 @@ Paradise (Thiên đàng),
 - một dòng sông trong Thiên đàng, Kauthar, 108:1
 - những dòng sông rượu, sữa, mật ong tinh khiết, 47:15
 - rượu vang được niêm phong tinh khiết, trắng, ngon ngọt, 37:45-46; 56:18; 76:21; 83:25
-- cốc pha với Zanjabil, 76:17; 78:34;
+- cốc pha với Zanjabil, 76:17; 78:34
 - nước, 76:5
 - khay vàng và cốc, 43:71
 - bình bạc và cốc pha lê, 76:15-16
@@ -1234,21 +1233,21 @@ Paradise (Thiên đàng),
 - những người vợ trong bóng mát dễ chịu, nằm tựa trên những ngai vàng, 36:55
 - những trinh nữ trẻ trung đầy đặn ở cùng độ tuổi, 78:33
 - những người hầu trai bất tử để phục vụ họ, như những hạt ngọc trai rải rác, 52:24; 56:17; 76:19
-- rộng lớn như các tầng trời và trái đất 3:133, 57:21;
-- nước chảy, bóng mát mẻ, những món ngon, và những người bạn đời thuần khiết 2:25; 4:57; 36:55-58; 37:40-49; 38:50-54; 44:51-57; 52:17-24; 69:19-24; 76:5-22;
-- phần thưởng của các tín đồ 55:46-78; 56:10-40;
-- những dòng sông mật ong, sữa, nước và rượu vang 47:15;
-- những lời cầu nguyện và lời chào 10:9-10; 39:73-74;
-- được chào hỏi với lời chào bình yên 13:23-24; 14:32;
-- ở lại vĩnh viễn trong Phước lạc 11:108;
-- không bao giờ được yêu cầu rời đi 15:45-48;
-- ánh sáng chiếu sáng phía trước và bên phải họ 57:12;
-- không có nóng hay lạnh 76:13;
-- mọi ước muốn được đáp ứng 16:30-32; 41:31-32;
-- vòng tay vàng và quần áo lụa mỏng 18:30-31; 22:23-24; 44:51-53;
-- những khay cốc vàng 43:67-73;
-- bình bạc và hoa quả trong tầm tay 76:14-16;
-- nằm tựa trên những ngai vàng 15:47; 37:44; 52:20;
+- rộng lớn như các tầng trời và trái đất 3:133, 57:21
+- nước chảy, bóng mát mẻ, những món ngon, và những người bạn đời thuần khiết 2:25; 4:57; 36:55-58; 37:40-49; 38:50-54; 44:51-57; 52:17-24; 69:19-24; 76:5-22
+- phần thưởng của các tín đồ 55:46-78; 56:10-40
+- những dòng sông mật ong, sữa, nước và rượu vang 47:15
+- những lời cầu nguyện và lời chào 10:9-10; 39:73-74
+- được chào hỏi với lời chào bình yên 13:23-24; 14:32
+- ở lại vĩnh viễn trong Phước lạc 11:108
+- không bao giờ được yêu cầu rời đi 15:45-48
+- ánh sáng chiếu sáng phía trước và bên phải họ 57:12
+- không có nóng hay lạnh 76:13
+- mọi ước muốn được đáp ứng 16:30-32; 41:31-32
+- vòng tay vàng và quần áo lụa mỏng 18:30-31; 22:23-24; 44:51-53
+- những khay cốc vàng 43:67-73
+- bình bạc và hoa quả trong tầm tay 76:14-16
+- nằm tựa trên những ngai vàng 15:47; 37:44; 52:20
 - các tín đồ sẽ nhìn thấy Chúa của họ 75:22-23
 Parents, kindness to (Cha mẹ, lòng tốt lành đối với), 2:83, 215; 4:36; 16:90;17:23; 29:8; 31:14; 46:15-17
 Partners of Allah (Những đối tác của Allah), a falsehood, 4:116;10:34-35, 66; 16:86; 28:62-64, 71-75; 30:40;42:21
@@ -1257,7 +1256,7 @@ Path (Con đường), 5:77; 16:94; 42:52-53; 43:43; 90:11-12
 - xem thêm Way
 Patience (Sự kiên nhẫn), 3:186, 200; 10:109; 11:115; 16:126-127; 20:130; 40:55, 77; 42:43; 46:35; 70:5;73:10
 - tìm kiếm sự giúp đỡ trong sự kiên nhẫn và lời cầu nguyện, 2:45, 153; 20:132;50:39
-Patient (Người kiên nhẫn),
+Patient (Người kiên nhẫn)
 - sẽ nhận được phần thưởng đầy đủ, 39:10
 - Allah ở cùng những người kiên nhẫn, 8:46
 - và hãy kiên nhẫn, 11:115
@@ -1266,7 +1265,7 @@ Patient (Người kiên nhẫn),
 Peace (Hòa bình), incline to, 8:61
 Pearl and coral (Ngọc trai và san hô), preserved, 52:24; 55:22; 56:23
 Pen (Cây bút), 68:1; 96:4
-Person (Con người),
+Person (Con người)
 - Allah không đặt gánh nặng cho một người vượt quá khả năng của họ, 2:286; 7:42
 - Allah không đánh thuế bất kỳ người nào ngoài khả năng của họ, 23:62
 - không ai biết mình sẽ kiếm được gì vào ngày mai và ở vùng đất nào mình sẽ chết, 31:34
@@ -1287,7 +1286,7 @@ Pharaoh (Pha-ra-ôn), 28:6; 40:24
 - xây dựng một tòa tháp, 40:36-37
 - xem thêm Moses
 Piling up of the worldly things (Tích lũy những thứ trần thế), 102:1-4
-Pledge (Bai'ah) (Lời thề),
+Pledge (Bai'ah) (Lời thề)
 - cho Islam, 16:91
 - với Sứ giả là Bai'ah (lời thề) với Allah, 48:10
 - của các tín đồ, 48:18; 60:12
@@ -1323,17 +1322,17 @@ Prophets (Các nhà tiên tri), 3:33-34, 146; 4:163; 5:20; 6:84-90;23:23-50; 57:
 - bất hợp pháp đối với, 3:161
 - một kẻ thù cho mỗi, 6:112; 25:31
 - xem thêm Messengers
-Prostration (Sấp mình),
+Prostration (Sấp mình)
 - trước Allah, tất cả những gì trên các tầng trời và trái đất đều sấp mình, cùng với những chiếc bóng của chúng, 13:15
 Provision (Sự chu cấp), 10:59; 13:26; 14:32; 16:73; 34:36,39; 42:12; 51:57; 67:21; 79:33
 Psalms (Các Thánh vịnh), 4:163
-Punishment (Hình phạt),
+Punishment (Hình phạt)
 - trì hoãn, 3:178
 - chặt tay hay chân, 5:33
 - hãy trừng phạt họ tương tự như những gì bạn đã phải chịu, 16:126
 - của cuộc đời này và Kiếp Sau, 24:19; 68:33
-Purifying (Thanh tẩy),
-- thân xác, 4:43; 5:6;
+Purifying (Thanh tẩy)
+- thân xác, 4:43; 5:6
 - tinh thần (khỏi những điều ô uế), 87:14; 91:9
 Qadar, 5:5; 64:11
 Qadr, S.97
@@ -1345,7 +1344,7 @@ Qarun (Korah), 28:76-82; 29:39
 Qasas, S.28
 Qiblah, 2:142-145, 149
 Qisas (Luật bình đẳng trong hình phạt), 2:178-179, 194; 5:45; 16:126; 17:33; 22:60;42:40
-Quran (Kinh Quran),
+Quran (Kinh Quran)
 - được mô tả, 13:31, 36, 37; 14:1; 56:77-80
 - không thể được tạo ra bởi bất kỳ ai khác ngoài Allah, 2:23; 10:38; 11:13; 17:88
 - nếu đến từ ai khác ngoài Allah, sẽ có nhiều mâu thuẫn trong đó, 4:82
@@ -1395,7 +1394,7 @@ Quran (Kinh Quran),
 - đọc những trang thuần khiết, 98:2
 - xem thêm Book; Revelation
 Quraish, S.106
-Quraish,
+Quraish
 - những kẻ không tin của, 54:43-46, 51
 - sự thuần hóa của, 106:1-4
 Rabbis and monks (Các giáo sĩ Do Thái và tu sĩ), 9:31, 34
@@ -1403,26 +1402,26 @@ Race (Cuộc đua), strive as in a, in good deeds, 5:48
 Ra'd, S.13
 Rahman, S.55
 Raiment of righteousness is better (Trang phục của sự ngay thẳng còn tốt hơn), 7:26
-Rain (Mưa),
+Rain (Mưa)
 - Ân huệ của Allah, 56:68-70
 - của đá, 27:58
 Ramadan, 2:185
 Ramy, 2:200
-Ransom (Tiền chuộc),
+Ransom (Tiền chuộc)
 - không có tiền chuộc nào được chấp nhận, 57:15
 - được những kẻ không tin đề nghị, 3:91; 10:54; 13:18
-Fidyah, of fast, 2:196;
+Fidyah, of fast, 2:196
 - để giải phóng tù nhân, 8:67
 Rass, dwellers of the (Cư dân của Rass), 25:38; 50:12
-Recompense (Sự đền bù),
+Recompense (Sự đền bù)
 - Ngày Đền Bù, 1:4; 37:20; 51:12; 56:56; 82:17-18; 96:7
 - những kẻ phủ nhận, 107:1-7
 - sự đền bù cho điều ác là một điều ác tương tự, 42:40
-Reconciliation (Sự hòa giải),
+Reconciliation (Sự hòa giải)
 - bất cứ ai tha thứ và hòa giải, 42:40
 - giữa người đàn ông và vợ, 4:35
 - giữa các tín đồ, 49:9-10
-Record (Hồ sơ),
+Record (Hồ sơ)
 - một Sổ ghi chép được khắc, 83:7-9, 18-21
 - mỗi quốc gia sẽ được gọi đến với hồ sơ của mình, 45:28-29
 - những trang hành động được viết của mỗi người, 81:10
@@ -1432,7 +1431,7 @@ Record (Hồ sơ),
 - sau lưng, 84:10-15
 Recording angels (Các thiên thần ghi chép), 50:17-18, 23; 85:11
 Relief (Sự giảm nhẹ), with the hardship, 94:5-6
-Religion (Tôn giáo),
+Religion (Tôn giáo)
 - không có sự ép buộc trong, 2:256
 - là Islam, 3:19
 - của Allah, 3:83-84
@@ -1449,7 +1448,7 @@ Religion (Tôn giáo),
 - tôn giáo của tổ tiên, 43:22-24
 Remembrance of Allah (Sự nhớ đến Allah), 63:9
 - trong sự nhớ đến Ngài, lòng tìm thấy sự nghỉ ngơi, 13:28
-Repentance (Sự ăn năn),
+Repentance (Sự ăn năn)
 - được chấp nhận nếu điều ác được làm trong sự thiếu hiểu biết và ăn năn ngay sau đó, 4:17; 6:54
 - và không có hiệu quả là sự ăn năn, nếu những hành động xấu tiếp tục, 4:18
 - Ngài chấp nhận và tha thứ tội lỗi, 4:25
@@ -1457,7 +1456,7 @@ Respite for evil (Thời gian ân hạn cho điều ác), 3:178; 10:11; 12:110; 
 Resurrection (Sự phục sinh), 2:28, 7:53; 14:21; 16:38-40; 22:5-7; 23:15-16; 31:28, 41:39, 46:33-34; 50:3,20-29, 41-44; 64:7, 75:1-15; 79:10-12; 86:5-8
 - ví dụ trong câu chuyện về Ezra 2:259
 - Abraham 2:260
-- những người của hang động 18:9-26;
+- những người của hang động 18:9-26
 - cảnh báo cho những kẻ phủ nhận sự phục sinh 17:49-52, 17:97-100, 19:66-72, 37:11-27, 50:1-15, 80:17-42
 Resurrection Day (Ngày Phục Sinh), 7:89; 20:100-101, 124
 - Ngày Thật sự, 78:39
@@ -1548,7 +1547,7 @@ Resurrection Day (Ngày Phục Sinh), 7:89; 20:100-101, 124
 - Địa ngục sẽ được đưa đến gần, 89:23
 - Lửa Địa ngục sẽ được lột trần, được đốt cháy dữ dội, 81:11-12
 - Sự trả thù bằng cách từ thiện sẽ là sự đền tội, 5:45
-Revelation (Sự mặc khải),
+Revelation (Sự mặc khải)
 - nếu bạn nghi ngờ, 2:23-24
 - câu bị bãi bỏ hay bị quên, 2:106
 - sự hướng dẫn đúng đắn, 3:73
@@ -1560,13 +1559,13 @@ Revelation (Sự mặc khải),
 - của Sách là từ Allah, 46:2
 - xem thêm Book và Quran
 Revenge of oppressive wrong done to them (Sự trả thù đối với những bất công áp bức đối với họ), 42:39-43
-Reward (Phần thưởng),
+Reward (Phần thưởng)
 - theo những hành động tốt nhất, và thậm chí nhiều hơn, 24:38; 29:7; 39:35
 - như một phần thưởng 25:15
 - Allah thưởng cho những ai làm điều tốt, với điều tốt nhất, 53:31
 - cho điều tốt, không có phần thưởng nào khác ngoài điều tốt, 55:60
 Riba (Xem usury)
-Righteous (Những người ngay thẳng),
+Righteous (Những người ngay thẳng)
 - hội bạn của những người, 4:69
 - sẽ thừa hưởng vùng đất, 21:105
 - trong Thiên đàng, 51:15-19; 76:5-12
@@ -1585,7 +1584,7 @@ Ruh (linh hồn, tinh thần), 15:29; 17:85; 58:22
 Rum, S.30
 Saba' (Sheba), 27:22-44; 34:15-21
 Saba', S.34
-Sabbath (Ngày Sabbath),
+Sabbath (Ngày Sabbath)
 - những kẻ vi phạm, 2:65; 4:154; 7:163-166
 - chỉ được quy định cho, 16:124
 Sabians (Người Sabian), 5:69; 22:17
@@ -1611,23 +1610,23 @@ Satan (Quỷ dữ), 2:36, 168, 208, 268, 275; 3:36, 155, 175;4:38, 60, 76, 83, 1
 - không có quyền lực đối với các tín đồ, 16:99-100
 - ném điều giả dối, 22:52-53
 - là kẻ thù, 12:5; 35:6; 36:60
-- sự kiêu ngạo 2:34; 7:11-27; 15:26-43; 17:61-65; 38:73-85;
-- một jinn 18:50-51;
-- sự cám dỗ và sa ngã của Adam 7:20-23; 20:116-121;
-- không có quyền lực đối với các tín đồ 16:98-100;
-- mục tiêu của nó 35:6-8;
-- một kẻ thù đã thề với nhân loại 12:5; 17:53;
-- đảng của nó 53:14-19;
-- công trình của nó 5:90-91;
-- ngăn cản những hành động tốt 2:268;
-- các tín đồ tìm nơi nương tựa với Allah khỏi nó 7:200-202;
-- những âm mưu của nó rất yếu 4:76;
-- phụ lòng những kẻ theo nó 8:48;
+- sự kiêu ngạo 2:34; 7:11-27; 15:26-43; 17:61-65; 38:73-85
+- một jinn 18:50-51
+- sự cám dỗ và sa ngã của Adam 7:20-23; 20:116-121
+- không có quyền lực đối với các tín đồ 16:98-100
+- mục tiêu của nó 35:6-8
+- một kẻ thù đã thề với nhân loại 12:5; 17:53
+- đảng của nó 53:14-19
+- công trình của nó 5:90-91
+- ngăn cản những hành động tốt 2:268
+- các tín đồ tìm nơi nương tựa với Allah khỏi nó 7:200-202
+- những âm mưu của nó rất yếu 4:76
+- phụ lòng những kẻ theo nó 8:48
 - nói chuyện với những kẻ theo nó trong Địa ngục 14:22
 - xem thêm Iblis
 Scale (Cân), successful, whose will be heavy, 7:8-9
 - xem thêm balance
-Scripture (Kinh Thánh),
+Scripture (Kinh Thánh)
 - người của, (Do Thái và Kitô hữu), 2:109;3:64-65, 69-72, 75, 98-99, 110, 113,199; 4:47, 153-161; 5:59-60, 68; 98:1
 - những gì họ đang che giấu, 5:61-63
 - trong số họ có những người đi đúng đường, 5:66
@@ -1635,7 +1634,7 @@ Scripture (Kinh Thánh),
 Seas (Biển), 42:32-33; 45:12
 - hai vùng biển, 18:60; 25:53; 35:12; 55:19-20
 - khi biển bùng phát, 82:3
-Secret (Najwa) (Bí mật),
+Secret (Najwa) (Bí mật)
 - những cuộc nói chuyện bí mật, 4:114
 - lời khuyên của ba người, 58:7
 - những lời khuyên bí mật, 58:8, 10
@@ -1644,10 +1643,10 @@ Sects and divisions in religion (Các giáo phái và sự chia rẽ trong tôn 
 Security (Sự an toàn), after the distress, He sent down, 3:154
 Seed (Hạt giống), Who makes it grow, 56:63-67
 Senses (Các giác quan), 23:78
-Seven, created (Bảy, được tạo ra),
+Seven, created (Bảy, được tạo ra)
 - các tầng trời, 2:29; 23:17; 65:12; 67:3; 71:15
 - và của trái đất tương tự như vậy, 65:12
-Shadow (Bóng tối),
+Shadow (Bóng tối)
 - trước Allah sấp mình, 13:15; 16:48
 - sự lan rộng của, 25:45
 Shams, S.91
@@ -1679,12 +1678,12 @@ Slaves (Nô lệ), 2:177-178; 4:25, 36, 92; 5:89; 24:33; 58:3; 90:13
 Sleep (Giấc ngủ), a thing for rest, 78:9
 Sodom (Sô-đôm), 29:31; 37:136
 Sodomy (Tội giao hợp đồng giới), 7:80-82; 11:77-83; 15:61-77; 29:28-29
-Solomon (Salômôn), 2:102; 4:163; 6:84;
-- giúp cha mình David đưa ra phán quyết công bằng hơn 21:78-82;
+Solomon (Salômôn), 2:102; 4:163; 6:84
+- giúp cha mình David đưa ra phán quyết công bằng hơn 21:78-82
 - và những con kiến, 27:15-19
 - và con chim hoopoe, 27:20-26
 - và Nữ hoàng Saba', 27:22-44; 34:15
-- những ân huệ của Allah dành cho ông 34:12-14, 38:34-40;
+- những ân huệ của Allah dành cho ông 34:12-14, 38:34-40
 - tình yêu của ông đối với những con ngựa đẹp 38:30-33
 Son, adopted (Con trai, được nhận nuôi), 33:4-5
 Soul (spirit, Ruh) (Linh hồn, tinh thần), 15:29; 17:85; 58:22
@@ -1704,8 +1703,8 @@ Spoils of war (Chiến lợi phẩm), 8:41, 69; 48:15, 19-20; 48:15
 Spying (Do thám), 49:12
 Star (Ngôi sao), 53:1, 49; 86:1-4
 Stars (Các ngôi sao), 7:54; 15:16; 16:12, 16; 22:18; 25:61;37:6-10; 56:75; 77:8; 81:2; 82:2
-Straight, Way (Con đường Thẳng), 1:6,
-- v.v. Con đường, 6:153,
+Straight, Way (Con đường Thẳng), 1:6
+- v.v. Con đường, 6:153
 - v.v. Phấn đấu, 4:95; 8:72, 74, 75; 9:20, 24, 81; 22:78; 25:52; 29:69; 47:3; 60:1; 61:11
 Suckling (Việc cho bú), the term of, foster mother, 2:233
 Suffering (Đau khổ), poverty, loss of health and calamities; prosperity and wealth, 7:94-96
@@ -1775,7 +1774,7 @@ Usury (Riba) (Cho vay nặng lãi), 2:275-276, 278-280; 3:130;4:161; 30:39
 Veil, an invisible (Màn che vô hình), 17:45-46
 Veiling (Che mặt), 24:31; 33:59
 Verses, Sab' Al-Mathani, 15:87
-Victory (Chiến thắng),
+Victory (Chiến thắng)
 - được Allah ban cho, 48:1
 - qua sự giúp đỡ từ Allah, 61:13
 Virtues (Những đức hạnh), (xem Righteousness; Believers)
@@ -1792,7 +1791,7 @@ Way (Con đường), the, 1:6; 42:52-53; 90:10
 - v.v. dễ dàng, làm cho dễ dàng, 87:8
 - xem thêm Path
 Wayfarer (Người lữ hành), 2:177, 215; 8:41; 17:26; 29:29;30:38; 59:7
-Wealth (Của cải),
+Wealth (Của cải)
 - người đã tích lũy, 104:2-4
 - chi tiêu vì lý do của Allah (xem Spend)
 Wealth and children (Của cải và con cái), adornment of the life of this world, 18:46
@@ -1810,7 +1809,7 @@ Wine (in Paradise) (Rượu vang trong Thiên đàng)
 - những dòng sông rượu vang, 47:15
 - được niêm phong tinh khiết, 83:25
 Wish not for the things in which Allah has made some to excel others (Đừng mong muốn những thứ mà Allah đã khiến một số người vượt trội hơn người khác), 4:32
-Witnesses (Những nhân chứng),
+Witnesses (Những nhân chứng)
 - đối với giao ước của các Nhà tiên tri, 3:81
 - về nhân loại, 2:143; 22:78
 - cho một hợp đồng, 2:282
@@ -1820,7 +1819,7 @@ Witnesses (Những nhân chứng),
 - tay và chân sẽ làm chứng, 36:65
 - con người chống lại chính mình, 75:14
 Witnessing Day and Witnessed Day (Ngày Làm Chứng và Ngày Được Làm Chứng), 85:3
-Wives (Những người vợ),
+Wives (Những người vợ)
 - là một vùng đất canh tác cho bạn, 2:223
 - là tấm màn che cho bạn, 2:187
 - thuộc cùng loại với bạn, 16:72
@@ -1832,7 +1831,7 @@ Women (Phụ nữ), 2:222-223; 4:15, 19-22, 34, 127
 - không làm rõ bản thân trong tranh chấp, 43:17-18
 Wood, dwellers of the (Cư dân của vùng rừng), 15:78; 38:13; 50:14
 - xem thêm Aikah; Madyan 26:176-191
-World, life of this (Thế giới, cuộc sống của thế giới này),
+World, life of this (Thế giới, cuộc sống của thế giới này)
 - không gì khác ngoài sự vui chơi và tiêu khiển, 6:32;29:64; 47:36; 57:20
 - lừa dối con người, 6:130
 - niềm vui của cuộc sống thế giới này ít hơn nhiều so với Kiếp Sau, 9:38; 13:26; 28:60-61
@@ -1844,7 +1843,7 @@ Wrongdoers (Những kẻ bất công), 11:18-22, 101-104, 116-117;39:47
 - xem thêm Disbelievers
 Wudu' (Ablutions) (Nghi thức rửa tay chân), 4:43; 5:6
 Yaghuth, 71:23
-Yahya (John) (Gioan),
+Yahya (John) (Gioan)
 - tin mừng về, 3:39; 21:90
 - ngay thẳng, 6:85
 - khôn ngoan; cảm thông; có hiếu, 19:12-15
@@ -1865,52 +1864,52 @@ Zihar, 33:4; 58:2-4
 Zukhruf, S.43
 Zumar, S.39
 Basic tenets (Những giáo lý căn bản)
-- Đức tin được hoàn thiện 5:3;
-- Con đường duy nhất được Allah chấp nhận 3:19, 85;
-- không có sự ép buộc trong việc chấp nhận Islam 2:256;
-- một tôn giáo với những đức tin và luật lệ khác nhau 5:48; 22:67-70; 42:13-14;
-- các nhà tiên tri của Islam 2:135-136; 3:84; 4:163-165;
-- các điều răn (hãy tin vào Allah và làm điều tốt) 4:36; 6:151-154;17:23-39;18:107-108;
-- năm mục tiêu của Sharia: bảo vệ đức tin 5:54;
-- bảo vệ sự sống 5:32;6:151;
-- bảo vệ của cải 5:38;
-- bảo vệ danh dự 5:5;24:4;
+- Đức tin được hoàn thiện 5:3
+- Con đường duy nhất được Allah chấp nhận 3:19, 85
+- không có sự ép buộc trong việc chấp nhận Islam 2:256
+- một tôn giáo với những đức tin và luật lệ khác nhau 5:48; 22:67-70; 42:13-14
+- các nhà tiên tri của Islam 2:135-136; 3:84; 4:163-165
+- các điều răn (hãy tin vào Allah và làm điều tốt) 4:36; 6:151-154;17:23-39;18:107-108
+- năm mục tiêu của Sharia: bảo vệ đức tin 5:54
+- bảo vệ sự sống 5:32;6:151
+- bảo vệ của cải 5:38
+- bảo vệ danh dự 5:5;24:4
 - bảo vệ khả năng suy nghĩ của một người 5:90.
 Belief in Allah (Niềm tin vào Allah) 2:255
-- Những phẩm chất thần thánh, Những Tên Đẹp 57:1-6; 59:22-24; 85:13-16; 112:1-4;
-- vị thần duy nhất xứng đáng được thờ phụng 1:1-4; 2:285; 6:3; 43:84;
-- tất cả quyền năng thuộc về Ngài 3:26; Ngai vàng của Ngài ('Arsh) 7:54; 11:7;
-- Kursi của Ngài (bệ chân hoặc ghế) 2:255;
-- vô số ân huệ dành cho nhân loại 14:32-34; 2:164; 16:2-93; 31:20; 55:1-25;
-- ban sự sống và gây ra cái chết 44:8; 53:44; 57:2; 67:2;
-- mang lại niềm vui và nỗi buồn 53:43;
-- ban sự chu cấp dồi dào hay hạn chế 13:26; 17:30; 29:62;
-- Người xét xử tốt nhất 95:8;
-- Đấng Thương Xót nhất trong số những người thương xót 12:92;
-- yêu những người ngay thẳng 85:14;
-- đầy lòng Tha Thứ và nghiêm khắc trong hình phạt 13:6, 40:3;
-- Đầu Tiên và Cuối Cùng 57:3;
-- tất cả danh dự và quyền năng thuộc về Ngài 35:10;
-- biết những điều ẩn giấu và thấy những điều vô hình 6:59,73; 9:94, 105; 13:8-10; 31:34; 32:6; 34:48; 35:38; 39:46; 49:18; 59:22; 62:8; 64:18; 72:26; 74:31; 87:7;
-- biết rõ nhất những gì ẩn giấu trong lòng 5:7; 11:5; 31:23;
-- biết những gì đã xảy ra và những gì sẽ xảy ra 2:255;
-- đã ghi chép tất cả mọi thứ trong Hồ sơ (hay Bảng được Bảo tồn) 6:38; 13:39; 36:12;
-- có khả năng làm bất cứ điều gì 2:117; 3:189; 8:41; 9:116; 11:4; 16:40; 40:68; 41:39; 42:49;57:2;
-- quyền năng vô hạn của Ngài 3:26-27; 24:45; 31:28-30;
-- đã tạo ra các tầng trời và trái đất trong sáu Ngày và không bao giờ mệt mỏi 46:33; 50:38;
-- tạo ra bằng lời "Hãy là!" 36:81-83;
-- không bao giờ bất công với tạo vật của Ngài 3:108; 4:40; 17:71; 21:47; 22:10; 26:209; 40:31; 41:46; 45:22; 50:29; 64:11; 78:6-16;
-- tất cả đều phục tùng Ý chí của Ngài 3:83; 22:18; 30:26;
-- tất cả đều cần đến Ngài 11:6; 35:15; 55:29;
-- tin tưởng vào Ngài 10:84-85; 12:67; 25:58;
-- những hình thức truyền thông thần thánh 42:51;
-- xứng đáng để ghi nhớ 2:21; 3:102; 4:1; 33:70-71; 59:18;
-- sự khôn ngoan là một món quà từ Ngài 2:269;
-- Ngài không cần bất kỳ ai 3:97; 6:133; 112:2;
-- không phải là một trong Ba Ngôi 4:171;
-- không có người bạn đời 6:101;
-- không có con cái 10:68; 19:35; 43:81; 72:3; 112:3;
-- không có các đối tác hay thần đồng hành 6:94; 7:191-195; 46:4-5;
+- Những phẩm chất thần thánh, Những Tên Đẹp 57:1-6; 59:22-24; 85:13-16; 112:1-4
+- vị thần duy nhất xứng đáng được thờ phụng 1:1-4; 2:285; 6:3; 43:84
+- tất cả quyền năng thuộc về Ngài 3:26; Ngai vàng của Ngài ('Arsh) 7:54; 11:7
+- Kursi của Ngài (bệ chân hoặc ghế) 2:255
+- vô số ân huệ dành cho nhân loại 14:32-34; 2:164; 16:2-93; 31:20; 55:1-25
+- ban sự sống và gây ra cái chết 44:8; 53:44; 57:2; 67:2
+- mang lại niềm vui và nỗi buồn 53:43
+- ban sự chu cấp dồi dào hay hạn chế 13:26; 17:30; 29:62
+- Người xét xử tốt nhất 95:8
+- Đấng Thương Xót nhất trong số những người thương xót 12:92
+- yêu những người ngay thẳng 85:14
+- đầy lòng Tha Thứ và nghiêm khắc trong hình phạt 13:6, 40:3
+- Đầu Tiên và Cuối Cùng 57:3
+- tất cả danh dự và quyền năng thuộc về Ngài 35:10
+- biết những điều ẩn giấu và thấy những điều vô hình 6:59,73; 9:94, 105; 13:8-10; 31:34; 32:6; 34:48; 35:38; 39:46; 49:18; 59:22; 62:8; 64:18; 72:26; 74:31; 87:7
+- biết rõ nhất những gì ẩn giấu trong lòng 5:7; 11:5; 31:23
+- biết những gì đã xảy ra và những gì sẽ xảy ra 2:255
+- đã ghi chép tất cả mọi thứ trong Hồ sơ (hay Bảng được Bảo tồn) 6:38; 13:39; 36:12
+- có khả năng làm bất cứ điều gì 2:117; 3:189; 8:41; 9:116; 11:4; 16:40; 40:68; 41:39; 42:49;57:2
+- quyền năng vô hạn của Ngài 3:26-27; 24:45; 31:28-30
+- đã tạo ra các tầng trời và trái đất trong sáu Ngày và không bao giờ mệt mỏi 46:33; 50:38
+- tạo ra bằng lời "Hãy là!" 36:81-83
+- không bao giờ bất công với tạo vật của Ngài 3:108; 4:40; 17:71; 21:47; 22:10; 26:209; 40:31; 41:46; 45:22; 50:29; 64:11; 78:6-16
+- tất cả đều phục tùng Ý chí của Ngài 3:83; 22:18; 30:26
+- tất cả đều cần đến Ngài 11:6; 35:15; 55:29
+- tin tưởng vào Ngài 10:84-85; 12:67; 25:58
+- những hình thức truyền thông thần thánh 42:51
+- xứng đáng để ghi nhớ 2:21; 3:102; 4:1; 33:70-71; 59:18
+- sự khôn ngoan là một món quà từ Ngài 2:269
+- Ngài không cần bất kỳ ai 3:97; 6:133; 112:2
+- không phải là một trong Ba Ngôi 4:171
+- không có người bạn đời 6:101
+- không có con cái 10:68; 19:35; 43:81; 72:3; 112:3
+- không có các đối tác hay thần đồng hành 6:94; 7:191-195; 46:4-5
 - không có gì giống như Ngài 42:11; 112:4
 Order to reflect on the marvels of His creation (Lệnh suy ngẫm về những kỳ diệu của sự tạo dựng của Ngài) 3:190; 6:99; 10:5-6; 13:3-4; 16:10-16; 88:17-20
 Signs in creation (Những dấu hiệu trong sự tạo dựng) 2:164; 6:95-99; 7:57-58; 10:5-6; 13:2-4; 16:10-13, 65-69, 79; 23:27-30; 27:60-65; 30:19-25; 50:6-11
@@ -1931,21 +1930,21 @@ Signs in creation (Những dấu hiệu trong sự tạo dựng) 2:164; 6:95-99;
 - mưa phùn, mưa đá và mưa 2:265; 6:99; 24:43; 50:9-11
 - sấm và sét 13:12-13
 Scientific references (Những tham chiếu khoa học)
-- con người được tạo ra từ giao tử nam và nữ 76:2;
-- sự hình thành và các giai đoạn phát triển của phôi thai 22:5; 23:12-14;
-- thai nhi trong ba lớp bóng tối 39:6;
-- nước lợ 25:53-54; 35:12; 55:19-20;
-- sự thụ phấn bởi gió 15:22;
-- dấu vân tay 75:3-4;
-- núi như những cái cọc 78:7;
-- sắt được đưa xuống 57:25;
-- các thụ thể đau 4:56;
-- mặt trời như một nguồn bức xạ và mặt trăng như ánh sáng phản chiếu 10:5;
-- mặt trăng bị chia tách 54:1;
-- bầu trời như một tán che được bảo vệ tốt 21:32;
-- tất cả sinh vật được tạo ra từ nước 21:30; 24:45;
-- kiến giao tiếp 27:17-19;
-- những làn sóng bên trong 24:40;
+- con người được tạo ra từ giao tử nam và nữ 76:2
+- sự hình thành và các giai đoạn phát triển của phôi thai 22:5; 23:12-14
+- thai nhi trong ba lớp bóng tối 39:6
+- nước lợ 25:53-54; 35:12; 55:19-20
+- sự thụ phấn bởi gió 15:22
+- dấu vân tay 75:3-4
+- núi như những cái cọc 78:7
+- sắt được đưa xuống 57:25
+- các thụ thể đau 4:56
+- mặt trời như một nguồn bức xạ và mặt trăng như ánh sáng phản chiếu 10:5
+- mặt trăng bị chia tách 54:1
+- bầu trời như một tán che được bảo vệ tốt 21:32
+- tất cả sinh vật được tạo ra từ nước 21:30; 24:45
+- kiến giao tiếp 27:17-19
+- những làn sóng bên trong 24:40
 Living beings (Những sinh vật sống)
 - các thiên thần 39:75
 - con người (một thẩm quyền trên trái đất) 2:30; 6:165; 16:4
@@ -1978,365 +1977,365 @@ Living beings (Những sinh vật sống)
 - nhện 29:41
 - những loài khác chúng ta không biết 16:8
 Plants and fruits (Cây cối và hoa quả) 6:99; 13:4; 16:11; 36:33-35
-- chuối 56:29,
-- chà là 19:25,
-- rau thơm, dưa chuột, tỏi, đậu lăng và hành tây 2:61,
-- nho 80:28,
-- ô liu 6:99,
-- sung 95:1,
-- lựu 55:68,
+- chuối 56:29
+- chà là 19:25
+- rau thơm, dưa chuột, tỏi, đậu lăng và hành tây 2:61
+- nho 80:28
+- ô liu 6:99
+- sung 95:1
+- lựu 55:68
 - bí ngô 37:146
 Belief in Muhammad (Niềm tin vào Muhammad)
-- Những phẩm chất, chỉ là một nhà tiên tri 3:144; 6:50; 7:188; 18:110;
-- truyền đạt chân lý 2:119; 35:24; 42:48;
-- ấn triện của các nhà tiên tri 33:40;
-- tính cách cao quý 3:159; 68:4;
-- một tấm gương 33:21;
-- như một ân huệ cho các tín đồ 3:164;
-- lòng thương xót cho toàn thế giới 21:107;
-- một sứ giả toàn cầu 4:170; 7:157-158; 34:28;
-- dẫn đến Con đường Thẳng 42:52-53;
-- quan tâm đến mọi người 9:129;
-- như một nhân chứng trong Ngày Phán Xét 4:42; 16:89;
-- nhà tiên tri không biết chữ 7:157-158; 29:48; 62:2;
-- được tiên đoán trong Kinh Torah và Phúc âm 7:157;
+- Những phẩm chất, chỉ là một nhà tiên tri 3:144; 6:50; 7:188; 18:110
+- truyền đạt chân lý 2:119; 35:24; 42:48
+- ấn triện của các nhà tiên tri 33:40
+- tính cách cao quý 3:159; 68:4
+- một tấm gương 33:21
+- như một ân huệ cho các tín đồ 3:164
+- lòng thương xót cho toàn thế giới 21:107
+- một sứ giả toàn cầu 4:170; 7:157-158; 34:28
+- dẫn đến Con đường Thẳng 42:52-53
+- quan tâm đến mọi người 9:129
+- như một nhân chứng trong Ngày Phán Xét 4:42; 16:89
+- nhà tiên tri không biết chữ 7:157-158; 29:48; 62:2
+- được tiên đoán trong Kinh Torah và Phúc âm 7:157
 - được Chúa Giêsu tiên đoán 61:6
 Challenges faced by the Prophet (ﷺ) (Những thử thách mà Nhà tiên tri phải đối mặt)
-- những yêu cầu vô nghĩa của những kẻ ngoại đạo 8:32; 15:7; 17:89-93; 25:7-8;
-- những lời buộc tội sai lầm 10:2; 11:13; 21:5; 24:11-26; 25:4-6; 37:36; 38:4; 52:29-30;
-- những mưu toan ám hại ông 8:30; 9:74;
-- cảnh báo cho những kẻ làm hại hay chống đối ông 4:115; 8:13; 9:61; 15:95; 33:57; 47:32; 96:9-19;
-- được lệnh đáp lại sự phủ nhận bằng sự kiên nhẫn 20:130; 30:60; 46:35; 70:5;
+- những yêu cầu vô nghĩa của những kẻ ngoại đạo 8:32; 15:7; 17:89-93; 25:7-8
+- những lời buộc tội sai lầm 10:2; 11:13; 21:5; 24:11-26; 25:4-6; 37:36; 38:4; 52:29-30
+- những mưu toan ám hại ông 8:30; 9:74
+- cảnh báo cho những kẻ làm hại hay chống đối ông 4:115; 8:13; 9:61; 15:95; 33:57; 47:32; 96:9-19
+- được lệnh đáp lại sự phủ nhận bằng sự kiên nhẫn 20:130; 30:60; 46:35; 70:5
 - được Allah trấn an 5:67; 93:1-11; 94:1-8
 Lessons from the life of the Prophet (ﷺ) (Những bài học từ cuộc đời của Nhà tiên tri)
-- từ cuộc di cư (hijrah) đến Trận chiến Badr 3:121-129; 8:42-44; 8:65-71;
-- Trận chiến Uhud 3:151-180;
-- Trận chiến Hào 33:9-27;
-- Trận chiến Hunain 9:25-27;
-- Medina 9:40; Tabuk 9:38-123;
-- Banu An-Nadir 59:2-6;
-- Hamra' Al-Asad 3:172-175;
+- từ cuộc di cư (hijrah) đến Trận chiến Badr 3:121-129; 8:42-44; 8:65-71
+- Trận chiến Uhud 3:151-180
+- Trận chiến Hào 33:9-27
+- Trận chiến Hunain 9:25-27
+- Medina 9:40; Tabuk 9:38-123
+- Banu An-Nadir 59:2-6
+- Hamra' Al-Asad 3:172-175
 - Hiệp ước Hudaibiyah 48:1-7; 48:10-29
 Honours bestowed on the Prophet (ﷺ) (Những vinh dự được ban cho Nhà tiên tri)
-- Allah và các thiên thần của Ngài chúc phúc cho ông 33:56;
-- cuộc hành trình ban đêm từ Mecca đến Jerusalem 17:1;
-- cuộc hành trình lên các tầng trời 53:1-18;
-- được tôn vinh trong cuộc đời này và cuộc đời sau 17:79; 66:8; 108:1;
-- sự vâng phục ông là sự vâng phục Allah 4:80;
-- phần thưởng của sự vâng phục Allah và Sứ giả của Ngài 4:69;
-- gia đình của ông được thanh tẩy 33:33-34;
-- nhìn thấy Gabriel trong hình dạng thật của ông 53:1-18;
-- các tín đồ được lệnh vâng phục ông 59:7;
+- Allah và các thiên thần của Ngài chúc phúc cho ông 33:56
+- cuộc hành trình ban đêm từ Mecca đến Jerusalem 17:1
+- cuộc hành trình lên các tầng trời 53:1-18
+- được tôn vinh trong cuộc đời này và cuộc đời sau 17:79; 66:8; 108:1
+- sự vâng phục ông là sự vâng phục Allah 4:80
+- phần thưởng của sự vâng phục Allah và Sứ giả của Ngài 4:69
+- gia đình của ông được thanh tẩy 33:33-34
+- nhìn thấy Gabriel trong hình dạng thật của ông 53:1-18
+- các tín đồ được lệnh vâng phục ông 59:7
 - phép tắc khi nói chuyện với ông 49:1-5
-- phép tắc khi thăm viếng ông 33:53;
-- phép tắc khi tiếp xúc với những người vợ của ông 33:53;
-- Allah hài lòng với ông và những người bạn đồng hành của ông 9:100; 9:117;
+- phép tắc khi thăm viếng ông 33:53
+- phép tắc khi tiếp xúc với những người vợ của ông 33:53
+- Allah hài lòng với ông và những người bạn đồng hành của ông 9:100; 9:117
 - sự xuất sắc của cộng đồng đức tin của ông 2:143; 3:110
-Prayer (salah) (Lễ nguyện) 2:45; 9:103; 51:18; 70:22-23; 75:31; 96:10; 108:2;
-- lễ nguyện tập thể ngày thứ Sáu 62:9;
-- hướng lễ nguyện (qiblah) 2:144; 2:149-150;
-- phải ngăn cản khỏi những hành động xấu 29:45;
-- những thời điểm 11:114; 17:78; 17:79; 20:130; 24:36; 24:58; 30:17-18; 32:16; 38:18; 50:39-40; 51:17; 52:48-49; 73:2-4; 76:25-26;
-- khi trong nguy hiểm hay đang di chuyển 2:239; 4:101-102;
-- cảnh báo cho những kẻ bỏ bê lễ nguyện 19:59; 74:38-47; 107:5-7;
+Prayer (salah) (Lễ nguyện) 2:45; 9:103; 51:18; 70:22-23; 75:31; 96:10; 108:2
+- lễ nguyện tập thể ngày thứ Sáu 62:9
+- hướng lễ nguyện (qiblah) 2:144; 2:149-150
+- phải ngăn cản khỏi những hành động xấu 29:45
+- những thời điểm 11:114; 17:78; 17:79; 20:130; 24:36; 24:58; 30:17-18; 32:16; 38:18; 50:39-40; 51:17; 52:48-49; 73:2-4; 76:25-26
+- khi trong nguy hiểm hay đang di chuyển 2:239; 4:101-102
+- cảnh báo cho những kẻ bỏ bê lễ nguyện 19:59; 74:38-47; 107:5-7
 - lễ nguyện của những kẻ giả dối 4:142; 9:54
-Purification, ablution (wudu) (Thanh tẩy, nghi thức rửa tay chân) 5:6;
-- tắm toàn thân (ghusl) 2:222; 4:43;
+Purification, ablution (wudu) (Thanh tẩy, nghi thức rửa tay chân) 5:6
+- tắm toàn thân (ghusl) 2:222; 4:43
 - thanh tẩy bằng đất (tayammum) 4:43; 5:6
 Supplications (du'a) (Những lời cầu xin)
-- của Abraham 2:126-129; 14:35-41; 26:83-89;
-- Adam và Eva 7:23;
-- Chúa Giêsu 5:114;
-- Job 21:83;
-- Giô-na 21:87;
-- Giuse 12:33; 12:101;
-- Moses 10:88-89; 20:25-35;
+- của Abraham 2:126-129; 14:35-41; 26:83-89
+- Adam và Eva 7:23
+- Chúa Giêsu 5:114
+- Job 21:83
+- Giô-na 21:87
+- Giuse 12:33; 12:101
+- Moses 10:88-89; 20:25-35
 - Muhammad 17:80; 20:114
-- Nô-ê 23:26; 26:117-118; 54:9-10; 71:26; 71:28;
-- Salômôn 38:35;
-- Shu'aib 7:89;
-- Dacaria 3:38; 19:2-6; 21:89-90;
-- các thiên thần 40:8-9;
-- mẹ của Mary 3:35-36;
-- vợ của Pharaoh 66:11;
-- các nhà ảo thuật của Pharaoh 7:126;
-- Vua Saul và những tín đồ cùng với ông 2:250;
-- những tín đồ của Con cái Israel 10:85-86;
-- những người của hang động 18:10;
-- những người ngay thẳng 2:285-286; 3:8-9; 3:16; 3:147; 3:191-194; 25:74; 59:10;
+- Nô-ê 23:26; 26:117-118; 54:9-10; 71:26; 71:28
+- Salômôn 38:35
+- Shu'aib 7:89
+- Dacaria 3:38; 19:2-6; 21:89-90
+- các thiên thần 40:8-9
+- mẹ của Mary 3:35-36
+- vợ của Pharaoh 66:11
+- các nhà ảo thuật của Pharaoh 7:126
+- Vua Saul và những tín đồ cùng với ông 2:250
+- những tín đồ của Con cái Israel 10:85-86
+- những người của hang động 18:10
+- những người ngay thẳng 2:285-286; 3:8-9; 3:16; 3:147; 3:191-194; 25:74; 59:10
 - những người bị áp bức 4:75
 Prostration verses (Các câu sấp mình)
 - sajadat, số nhiều của sajdah, 7:206; 13:15; 16:49; 17:109; 19:58; 22:18; 22:77; 25:60; 27:26; 32:15; 38:24; 41:37; 53:62; 84:21; 96:19
-Alms-tax (zakah) (Thuế từ thiện), as an obligation 2:110; 2:177; 2:277; 6:141;
-- một trong những phẩm chất của các tín đồ 22:41; 23:4; 51:19;
+Alms-tax (zakah) (Thuế từ thiện), as an obligation 2:110; 2:177; 2:277; 6:141
+- một trong những phẩm chất của các tín đồ 22:41; 23:4; 51:19
 - những người nhận 9:60
 - từ thiện (sadaqah) 2:177; 2:261-263; 2:267-274; 3:92; 63:10
 - cảnh báo cho những kẻ giữ lại 3:180; 9:34; 47:38
 Fasting (sawm) (Nhịn ăn)
-- trong tháng Ramadan 2:183-185;
-- những giờ nhịn ăn 2:187;
-- những trường hợp miễn trừ 2:184-185;
-- quan hệ thân mật trong đêm trước khi nhịn ăn 2:187;
+- trong tháng Ramadan 2:183-185
+- những giờ nhịn ăn 2:187
+- những trường hợp miễn trừ 2:184-185
+- quan hệ thân mật trong đêm trước khi nhịn ăn 2:187
 - nhịn ăn trong thời gian hành hương 2:196
-Pilgrimage (hajj) (Hành hương),
-- một nghĩa vụ cho những ai có thể thực hiện 3:97;
-- các nghi lễ và quy định 2:158; 2:189; 2:196-203; 5:2; 22:26-37;
-- những lễ vật hiến tế 2:196; 22:36-37;
-- cấm săn bắn trên đất liền trong khi hành hương 5:1; 5:94-95;
+Pilgrimage (hajj) (Hành hương)
+- một nghĩa vụ cho những ai có thể thực hiện 3:97
+- các nghi lễ và quy định 2:158; 2:189; 2:196-203; 5:2; 22:26-37
+- những lễ vật hiến tế 2:196; 22:36-37
+- cấm săn bắn trên đất liền trong khi hành hương 5:1; 5:94-95
 - được phép săn bắt trên biển 5:96
 - Hành hương nhỏ ('umrah) 2:158; 2:196
 Faith-communities (Các cộng đồng đức tin)
-- người Hồi giáo 2:132-136; 3:64; 3:84; 5:111; 22:77-78; 33:35; 41:33; 43:67-70; 72:14-15;
-- người bảo vệ của nhau 3:28; 9:71;
-- Kitô hữu 2:62; 2:111-140; 4:171-172; 5:14-19; 5:82-86; 5:116-120; 9:30-31; 22:17;
-- Do Thái 2:62, 111-140; 5:44-45; 6:146; 22:17; 62:6-8;
-- Con cái của Israel 2:40-103, 122-123, 246-251; 3:49; 3:93-94; 5:12-13, 20-26, 32, 70-71, 78-81; 7:137-141, 148-153,159-171; 10:83-93; 14:5-8; 17:2-8, 104; 20:80-98; 26:52-67, 197; 27:76; 44:23-33; 45:16-17; 46:10; 61:5-6;
+- người Hồi giáo 2:132-136; 3:64; 3:84; 5:111; 22:77-78; 33:35; 41:33; 43:67-70; 72:14-15
+- người bảo vệ của nhau 3:28; 9:71
+- Kitô hữu 2:62; 2:111-140; 4:171-172; 5:14-19; 5:82-86; 5:116-120; 9:30-31; 22:17
+- Do Thái 2:62, 111-140; 5:44-45; 6:146; 22:17; 62:6-8
+- Con cái của Israel 2:40-103, 122-123, 246-251; 3:49; 3:93-94; 5:12-13, 20-26, 32, 70-71, 78-81; 7:137-141, 148-153,159-171; 10:83-93; 14:5-8; 17:2-8, 104; 20:80-98; 26:52-67, 197; 27:76; 44:23-33; 45:16-17; 46:10; 61:5-6
 - Người của Sách (chủ yếu là Do Thái và Kitô hữu) 2:109; 3:64-115, 199; 4:123-172; 5:15-77; 6:20-21; 13:36; 28:52-55; 29:46-47; 57:16, 28-29; 74:31; 98:1-5
 - người Hồi giáo có thể ăn từ những con vật được họ hiến tế và kết hôn với phụ nữ của họ 5:5
-- những thức ăn bị cấm đối với người Do Thái 6:146;
-- người Sabian 2:62; 22:17;
-- người Magi 22:17;
-- những kẻ đa thần (ngoại đạo, thờ thần tượng) 3:186; 6:148; 9:6, 17; 10:28; 16:86; 22:17; 53:19-30;
-- những thực hành mê tín của người ngoại đạo 2:189; 5:103; 6:138-144;
+- những thức ăn bị cấm đối với người Do Thái 6:146
+- người Sabian 2:62; 22:17
+- người Magi 22:17
+- những kẻ đa thần (ngoại đạo, thờ thần tượng) 3:186; 6:148; 9:6, 17; 10:28; 16:86; 22:17; 53:19-30
+- những thực hành mê tín của người ngoại đạo 2:189; 5:103; 6:138-144
 - những kẻ vô thần 52:35-36
 Pagan practices outlawed (Những thực hành ngoại đạo bị cấm)
-- chôn sống con gái 16:58-59; 81:8-9;
-- giết trẻ em vì sợ nghèo đói 6:137; 6:151; 17:31;
-- huýt sáo và vỗ tay quanh Ka'bah 8:35;
-- hiến dâng lạc đà cho thần tượng 5:103; 6:136;
-- hiến tế nhân danh thần tượng 6:121;
-- ly hôn zihar 33:4; 58:2-4;
-- ila' (hơn bốn tháng) 2:226-227;
-- bốc thăm để đưa ra quyết định 5:3;
-- đi vòng quanh Ka'bah trong tình trạng trần truồng 7:26-28;
+- chôn sống con gái 16:58-59; 81:8-9
+- giết trẻ em vì sợ nghèo đói 6:137; 6:151; 17:31
+- huýt sáo và vỗ tay quanh Ka'bah 8:35
+- hiến dâng lạc đà cho thần tượng 5:103; 6:136
+- hiến tế nhân danh thần tượng 6:121
+- ly hôn zihar 33:4; 58:2-4
+- ila' (hơn bốn tháng) 2:226-227
+- bốc thăm để đưa ra quyết định 5:3
+- đi vòng quanh Ka'bah trong tình trạng trần truồng 7:26-28
 - vào nhà từ cửa sau sau khi hành hương 2:189
-Objects of worship (Những đối tượng thờ phụng),
-- các thiên thần (trong số một số người Ả Rập ngoại đạo) 34:40;
-- Al-Aykah (trong số dân tộc của Shu'aib) 26:176;
-- Ba'l (trong số dân tộc của Elias) 37:125;
-- Chúa Giêsu (trong Kitô giáo) 5:17;
-- thần tượng (trong số dân tộc của Abraham) 21:52-53;
-- những thần tượng Lat, 'Uzza và Manat (trong số những người Ả Rập ngoại đạo) 53:19-20;
-- những thần tượng Wadd, Suwa', Yaghuth, Ya'uq và Nasr (trong số dân tộc của Nô-ê) 71:23;
-- mặt trời (dân tộc Sheba) 27:24;
-- Sirius (trong số một số người Ả Rập ngoại đạo) 53:49;
-- Pharaoh (ở Ai Cập cổ đại) 26:29; 28:38; 79:24;
-- dục vọng 25:43-44; 45:23;
+Objects of worship (Những đối tượng thờ phụng)
+- các thiên thần (trong số một số người Ả Rập ngoại đạo) 34:40
+- Al-Aykah (trong số dân tộc của Shu'aib) 26:176
+- Ba'l (trong số dân tộc của Elias) 37:125
+- Chúa Giêsu (trong Kitô giáo) 5:17
+- thần tượng (trong số dân tộc của Abraham) 21:52-53
+- những thần tượng Lat, 'Uzza và Manat (trong số những người Ả Rập ngoại đạo) 53:19-20
+- những thần tượng Wadd, Suwa', Yaghuth, Ya'uq và Nasr (trong số dân tộc của Nô-ê) 71:23
+- mặt trời (dân tộc Sheba) 27:24
+- Sirius (trong số một số người Ả Rập ngoại đạo) 53:49
+- Pharaoh (ở Ai Cập cổ đại) 26:29; 28:38; 79:24
+- dục vọng 25:43-44; 45:23
 - niềm tin vào nhiều thần bị bác bỏ 17:42-43; 21:21-24; 25:3
-Places of worship (Những nơi thờ phụng), mosques 9:18;
-- nhà thờ, giáo đường Do Thái và tu viện 22:40;
-- đền thánh 3:39; 38:21;
+Places of worship (Những nơi thờ phụng), mosques 9:18
+- nhà thờ, giáo đường Do Thái và tu viện 22:40
+- đền thánh 3:39; 38:21
 - đền thờ 17:7
 - Những danh hiệu tôn giáo, linh mục, tu sĩ và giáo sĩ Do Thái 5:44; 5:63; 5:82; 9:31-34
-Angels (Các thiên thần),
+Angels (Các thiên thần)
 - hỏi về sự tạo dựng Adam 2:30-34
-- không bao giờ vi phạm lệnh của Allah 21:26-27; 66:6;
-- không phải là những con gái của Allah 21:26; 43:16-19;
-- những thiên thần hộ mệnh 13:11;
-- hai thiên thần ghi chép 50:16-18; 82:10-12;
-- tám thiên thần mang Ngai vàng của Allah trong Ngày Phán Xét 69:17;
-- mười chín người canh giữ Địa ngục 74:26-31;
-- Các thiên thần của Cái Chết 6:93; 16:28; 32:11;
-- Gabriel 2:97; 66:4; 26:192-195; 53:1-14;
-- Michael 2:98;
+- không bao giờ vi phạm lệnh của Allah 21:26-27; 66:6
+- không phải là những con gái của Allah 21:26; 43:16-19
+- những thiên thần hộ mệnh 13:11
+- hai thiên thần ghi chép 50:16-18; 82:10-12
+- tám thiên thần mang Ngai vàng của Allah trong Ngày Phán Xét 69:17
+- mười chín người canh giữ Địa ngục 74:26-31
+- Các thiên thần của Cái Chết 6:93; 16:28; 32:11
+- Gabriel 2:97; 66:4; 26:192-195; 53:1-14
+- Michael 2:98
 - Malik 43:77
 Messengers (Các Sứ giả)
-- từ trong số các thiên thần và con người 22:75;
+- từ trong số các thiên thần và con người 22:75
 - Những Sứ giả có Quyết Tâm Vững Chắc (Abraham, Nô-ê, Moses, Chúa Giêsu và Muhammad ﷺ) 33:7; 42:13; 46:35
 Scriptures (Các Kinh Thánh)
-- Kinh Quran, một sự mặc khải từ Allah 12:2-3; 20:2-4; 26:192-195; 32:2-3;
-- một lời nhắc nhở cho toàn thế giới 68:51-52;
-- hướng dẫn đến lối sống ngay thẳng nhất 17:9;
-- sự mặc khải bắt đầu vào tháng Ramadan 2:185;
-- vào một đêm phước lành 44:3;97:1-5;
-- được mặc khải theo từng giai đoạn 17:105-106;
-- được làm cho dễ nhớ 54:17;
-- xác nhận chân lý trong những mặc khải trước đó 3:3-4;
-- một thẩm quyền tối cao về những kinh thánh trước đó 5:48;
-- không có nghi ngờ trong đó 2:2; 10:37;
-- không có mâu thuẫn 4:82;
-- không được bịa đặt 10:37-39;
-- không được sao chép từ Kinh Thánh 25:4-6;
-- không được mặc khải bởi những con quỷ 26:210-212;
+- Kinh Quran, một sự mặc khải từ Allah 12:2-3; 20:2-4; 26:192-195; 32:2-3
+- một lời nhắc nhở cho toàn thế giới 68:51-52
+- hướng dẫn đến lối sống ngay thẳng nhất 17:9
+- sự mặc khải bắt đầu vào tháng Ramadan 2:185
+- vào một đêm phước lành 44:3;97:1-5
+- được mặc khải theo từng giai đoạn 17:105-106
+- được làm cho dễ nhớ 54:17
+- xác nhận chân lý trong những mặc khải trước đó 3:3-4
+- một thẩm quyền tối cao về những kinh thánh trước đó 5:48
+- không có nghi ngờ trong đó 2:2; 10:37
+- không có mâu thuẫn 4:82
+- không được bịa đặt 10:37-39
+- không được sao chép từ Kinh Thánh 25:4-6
+- không được mặc khải bởi những con quỷ 26:210-212
 - không ai có thể tạo ra điều gì giống như nó 17:88; 2:23-24;10:13-14; 11:13
-- được bảo vệ khỏi sự tha hóa 15:9;
-- được bảo vệ trong Bảng được Bảo tồn 56:75-80;
-- không thể bị chứng minh là sai 41:42;
-- tiên đoán những sự kiện tương lai 30:1-7; 48:27;
-- khiến các tín đồ rơi nước mắt 5:83; 17:107-109;
-- chạm đến lòng người 39:23;
-- ánh sáng rực rỡ 4:174; 42:52;
+- được bảo vệ khỏi sự tha hóa 15:9
+- được bảo vệ trong Bảng được Bảo tồn 56:75-80
+- không thể bị chứng minh là sai 41:42
+- tiên đoán những sự kiện tương lai 30:1-7; 48:27
+- khiến các tín đồ rơi nước mắt 5:83; 17:107-109
+- chạm đến lòng người 39:23
+- ánh sáng rực rỡ 4:174; 42:52
 - sự chữa lành và lòng thương xót cho các tín đồ 17:82
 - Kinh Torah 3:3; 3:93; 5:46; 5:66-68, 110; 7:157; 9:111; 48:29; 61:6; 62:5
-- Phúc âm 3:3; 48; 5:46-47, 66-68, 77, 110; 7:157; 9:111; 48:29; 57:27
+- Phúc âm 3:3, 48; 5:46-47, 66-68, 77, 110; 7:157; 9:111; 48:29; 57:27
 - Các Thánh vịnh 4:163; 17:55
 - Những Cuộn sách của Abraham 53:36-44; 87:14-19
-Fate and destiny (Số phận và tiền định) 3:145; 9:51; 10:107; 11:6; 54:49; 67:30;
+Fate and destiny (Số phận và tiền định) 3:145; 9:51; 10:107; 11:6; 54:49; 67:30
 - sự lựa chọn tự do 6:148-150; 11:118-119; 16:93; 33:72-73; 39:41; 76:1-3; 91:1-10
-Day of Judgment (Ngày Phán Xét),
-- không có bất công 2:281; 18:49; 40:17;
-- những nỗi kinh hoàng của ngày tận thế 22:1-2; 27:82-84, 87; 40:18; 52:11-16; 69:13-18; 70:8-18; 73:17-18; 75:7-15; 77:8-15; 78:17-20; 79:34-36; 80:33-42; 81:1-14; 82:1-5; 84:1-5; 87:17-40; 99:1-8; 101:1-11;
-- những người ngay thẳng và những kẻ xấu xa trong Ngày đó 11:105-108; 16:27-33, 84-89; 18:52-53; 20:100-111; 25:24-29; 30:12-16; 33:63-68; 39:68-75; 50:20-35; 55:37-41; 83:4-36;
+Day of Judgment (Ngày Phán Xét)
+- không có bất công 2:281; 18:49; 40:17
+- những nỗi kinh hoàng của ngày tận thế 22:1-2; 27:82-84, 87; 40:18; 52:11-16; 69:13-18; 70:8-18; 73:17-18; 75:7-15; 77:8-15; 78:17-20; 79:34-36; 80:33-42; 81:1-14; 82:1-5; 84:1-5; 87:17-40; 99:1-8; 101:1-11
+- những người ngay thẳng và những kẻ xấu xa trong Ngày đó 11:105-108; 16:27-33, 84-89; 18:52-53; 20:100-111; 25:24-29; 30:12-16; 33:63-68; 39:68-75; 50:20-35; 55:37-41; 83:4-36
 - sự cầu thay (shafa'ah) 2:48, 255; 6:51, 70; 10:3; 21:28; 32:4; 36:23; 39:43-44; 43:86; 53:26;74:48
-Records of deeds (Hồ sơ về các hành động) 17:13; 18:49;
-- các tín đồ nhận hồ sơ của mình bằng tay phải 69:19-24; 84:7-9;
-- những kẻ không tin nhận hồ sơ của mình bằng tay trái 69:25-37; 84:10-15;
-- không có gì sẽ bị ẩn giấu với Allah 21:47; 40:16;
-- việc cân bằng các hành động 7:8; 23:102-104; 101:1-11;
-- lời chứng của các cơ quan thân thể 41:19-24; 24:24;
+Records of deeds (Hồ sơ về các hành động) 17:13; 18:49
+- các tín đồ nhận hồ sơ của mình bằng tay phải 69:19-24; 84:7-9
+- những kẻ không tin nhận hồ sơ của mình bằng tay trái 69:25-37; 84:10-15
+- không có gì sẽ bị ẩn giấu với Allah 21:47; 40:16
+- việc cân bằng các hành động 7:8; 23:102-104; 101:1-11
+- lời chứng của các cơ quan thân thể 41:19-24; 24:24
 - phần thưởng cho những hành động tốt và xấu 6:160; 27:89-90; 28:84
 Types of people (Các loại người)
-- những tín đồ 18:107-108;
-- những kẻ không tin 4:167-169;
-- những kẻ giả dối 4:145; 57:13-15;
-- cư dân Thiên đàng, những tín đồ đi đầu 55:46-61; 56:10-26;
-- cư dân Thiên đàng, những người của bàn tay phải 55:62-78; 56:27-40;
-- cư dân Địa ngục, những người của bàn tay trái 55:31-45; 56:41-56;
+- những tín đồ 18:107-108
+- những kẻ không tin 4:167-169
+- những kẻ giả dối 4:145; 57:13-15
+- cư dân Thiên đàng, những tín đồ đi đầu 55:46-61; 56:10-26
+- cư dân Thiên đàng, những người của bàn tay phải 55:62-78; 56:27-40
+- cư dân Địa ngục, những người của bàn tay trái 55:31-45; 56:41-56
 - những người trên những vùng cao 7:46-49
 Financial (Tài chính)
 - Những hướng dẫn kinh doanh 2:188; 2:275; 2:282-283; 4:29; 4:58; 6:152; 17:34-35;24:36-37; 26:182; 30:39; 55:7-9; 62:9
-- Di chúc, những di chúc tùy chọn cho những người không phải là người thừa kế 2:180-183; 4:11-12;
+- Di chúc, những di chúc tùy chọn cho những người không phải là người thừa kế 2:180-183; 4:11-12
 - trước khi chết trong khi đang đi du lịch 5:106-108
 - Hối lộ 2:188
-- Nợ nần, lòng tốt trong việc thu nợ 2:280;
-- viết và làm chứng cho một hợp đồng nợ 2:282;
+- Nợ nần, lòng tốt trong việc thu nợ 2:280
+- viết và làm chứng cho một hợp đồng nợ 2:282
 - nhận tài sản thế chấp 2:283
-- Di sản, những hướng dẫn 4:7; 4:32-33; 8:75;
-- phần của con cái và cha mẹ 4:11;
-- vợ chồng và anh chị em bên mẹ 4:12;
-- anh chị em ruột 4:176;
+- Di sản, những hướng dẫn 4:7; 4:32-33; 8:75
+- phần của con cái và cha mẹ 4:11
+- vợ chồng và anh chị em bên mẹ 4:12
+- anh chị em ruột 4:176
 - cảnh báo cho những kẻ không tuân thủ 4:13-14
-- Lãi suất, sự cấm đoán và cảnh báo 2:275-281; 3:130-132;
+- Lãi suất, sự cấm đoán và cảnh báo 2:275-281; 3:130-132
 - được coi là vô lợi 30:39
 Legal (Pháp lý)
 - luật phản quốc (hirabah) 5:33-34
-- Công lý, đứng lên vì công lý 4:135; 5:8; 16:90-91;
-- đứng lên vì quyền lợi của trẻ mồ côi và phụ nữ 4:127;
-- công lý cho một người Do Thái 4:105-112;
-- công lý cho một người ngoại đạo 4:58;
+- Công lý, đứng lên vì công lý 4:135; 5:8; 16:90-91
+- đứng lên vì quyền lợi của trẻ mồ côi và phụ nữ 4:127
+- công lý cho một người Do Thái 4:105-112
+- công lý cho một người ngoại đạo 4:58
 - công bằng với những người không theo Hồi giáo 60:8-9
 - Sự trả thù qua các kênh pháp lý (với lựa chọn tha thứ) 2:178-179; 5:45; 16:126; 17:33; 42:37-43
-- Sự ly thân giữa vợ và chồng, khul' 2:229;
+- Sự ly thân giữa vợ và chồng, khul' 2:229
 - lian (buộc tội ngoại tình) 24:6-10
 Political (Chính trị)
 - Điều hành công việc bằng tham vấn (shura) 3:159; 42:38
-- Chiến đấu tự vệ (jihad), phép tắc 2:190-192; 2:216; 22:38-40;
-- không tấn công bừa bãi 4:94;
-- chiến đấu vì những người đàn ông, phụ nữ và trẻ em bị áp bức 4:75;
-- bảo vệ những nơi thờ phụng 22:37;
-- phần thưởng của những người tử vì đạo 2:154; 3:169-171; 9:111; 57:19;
-- sức mạnh quân sự ngăn chặn những kẻ thù tiềm năng 8:60;
+- Chiến đấu tự vệ (jihad), phép tắc 2:190-192; 2:216; 22:38-40
+- không tấn công bừa bãi 4:94
+- chiến đấu vì những người đàn ông, phụ nữ và trẻ em bị áp bức 4:75
+- bảo vệ những nơi thờ phụng 22:37
+- phần thưởng của những người tử vì đạo 2:154; 3:169-171; 9:111; 57:19
+- sức mạnh quân sự ngăn chặn những kẻ thù tiềm năng 8:60
 - lựa chọn hòa bình 2:192; 8:61
 - Tạo hòa bình giữa các bên 49:9-10
 - Tù nhân chiến tranh, sự đối xử 8:70; 47:4; 76:8
 Social (Xã hội)
 - Nhận nuôi 33:4-5
 - Chăm sóc trẻ mồ côi 2:220; 4:2-10; 4:127; 6:152; 17:34
-- Ly hôn, trọng tài và hòa giải 4:35; 4:128;
-- phép tắc ly hôn 2:229-231; 65:1-2;
-- của hồi môn và thời gian chờ đợi 2:226-241; 4:19-21; 33:49; 65:1-7;
-- chồng không được lấy lại bất kỳ thứ gì của của hồi môn 4:20;
-- vợ không bị quấy rối 65:6;
-- vợ được hỗ trợ tài chính trong thời gian mang thai 65:6;
-- trong thời gian chờ đợi của cô ấy 65:6;
-- nếu cô ấy cho con của người chồng cũ bú, 65:6;
-- không có cha mẹ nào phải chịu đựng vì đứa con của mình 2:233;
+- Ly hôn, trọng tài và hòa giải 4:35; 4:128
+- phép tắc ly hôn 2:229-231; 65:1-2
+- của hồi môn và thời gian chờ đợi 2:226-241; 4:19-21; 33:49; 65:1-7
+- chồng không được lấy lại bất kỳ thứ gì của của hồi môn 4:20
+- vợ không bị quấy rối 65:6
+- vợ được hỗ trợ tài chính trong thời gian mang thai 65:6
+- trong thời gian chờ đợi của cô ấy 65:6
+- nếu cô ấy cho con của người chồng cũ bú, 65:6
+- không có cha mẹ nào phải chịu đựng vì đứa con của mình 2:233
 - lựa chọn người cho con bú 65:6
 - Khuyến khích điều tốt và ngăn cấm điều ác 3:104; 3:110; 7:157; 9:71-72; 31:17
-- Sự bình đẳng của con người 49:13;
-- nam giới và nữ giới trước Allah và luật pháp, 3:195; 4:124; 5:38; 16:97; 24:2; 40:40;
+- Sự bình đẳng của con người 49:13
+- nam giới và nữ giới trước Allah và luật pháp, 3:195; 4:124; 5:38; 16:97; 24:2; 40:40
 - nam giới có mức độ trách nhiệm cao hơn phụ nữ 2:228
 - Cho người nghèo, trẻ mồ côi và tù nhân ăn 76:8-9
 - Sự tha thứ và kiểm soát sự tức giận 3:134; 42:40
 - Giải phóng nô lệ và giúp đỡ họ 4:92; 5:89; 9:60; 24:33; 58:3; 90:13
 - Tôn trọng cha mẹ của mình 4:36; 17:23-25; 31:14-15
 - Sự khiêm tốn 17:37; 31:18-19
-- Giải thích giấc mơ của Abraham 37:102;
-- Giải thích giấc mơ của Giuse 12:4; 12:36; 12:43;
+- Giải thích giấc mơ của Abraham 37:102
+- Giải thích giấc mơ của Giuse 12:4; 12:36; 12:43
 - Giải thích giấc mơ của Muhammad 8:43; 48:27
 - Lòng tốt với những người không theo Hồi giáo 60:8
-- Hôn nhân 4:3; 4:129; 16:72; 30:21;
-- những phụ nữ hợp pháp và bất hợp pháp để kết hôn 4:22-24;
-- phép tắc thân mật 2:222-223;
-- mang thai và cho con bú 2:233; 31:4; 46:15; 65:6;
-- tái hôn với người vợ cũ của mình 2:230;
-- giúp những người độc thân kết hôn 24:32;
+- Hôn nhân 4:3; 4:129; 16:72; 30:21
+- những phụ nữ hợp pháp và bất hợp pháp để kết hôn 4:22-24
+- phép tắc thân mật 2:222-223
+- mang thai và cho con bú 2:233; 31:4; 46:15; 65:6
+- tái hôn với người vợ cũ của mình 2:230
+- giúp những người độc thân kết hôn 24:32
 - tế nhị thể hiện sự quan tâm trong thời gian chờ đợi 2:235
-- Những lời thề 2:224-225; 16:91-92; 16:94;
+- Những lời thề 2:224-225; 16:91-92; 16:94
 - bù đắp cho một lời thề bị vi phạm 5:89
 - Kiên nhẫn trong những lúc khó khăn 2:45; 2:153-157; 3:186; 12:18; 12:83; 16:127-128; 70:5
-- Xin phép vào nhà 24:58-60;
-- vào nhà của người khác 24:27-28;
+- Xin phép vào nhà 24:58-60
+- vào nhà của người khác 24:27-28
 - vào những nơi công cộng 24:29
-- Phép tắc xã hội, xác minh tin tức 4:83; 49:6;
-- tôn trọng tất cả mọi người 49:11-12;
-- phép tắc trong các buổi họp mặt 58:11;
+- Phép tắc xã hội, xác minh tin tức 4:83; 49:6
+- tôn trọng tất cả mọi người 49:11-12
+- phép tắc trong các buổi họp mặt 58:11
 - những cuộc nói chuyện riêng tư 4:114; 58:9
 - Những lời nguyện 2:270; 9:75-77; 22:29; 76:7
 - Lãng phí và keo kiệt 7:31; 17:29; 25:67
 Other stories (Những câu chuyện khác)
-- Abel và Cain 5:27-31;
-- Al-Khadir và Moses 18:60-82;
-- Quân đội Voi 105:1-4;
-- người tín đồ từ dân tộc của Pharaoh 40:28-46;
-- sự ra đời của Mary 3:35-36;
-- Con bò của Con cái Israel 2:67-74;
-- Ezra 2:259;
+- Abel và Cain 5:27-31
+- Al-Khadir và Moses 18:60-82
+- Quân đội Voi 105:1-4
+- người tín đồ từ dân tộc của Pharaoh 40:28-46
+- sự ra đời của Mary 3:35-36
+- Con bò của Con cái Israel 2:67-74
+- Ezra 2:259
 - những người chủ khu vườn 68:17-32
 - Harut và Marut 2:102
 - Korah 28:76-82
-- Lời khuyên của Luqman cho con trai mình 31:12-19;
-- chủ nhân của hai khu vườn 18:32-44;
-- dân tộc Sheba 34:15-19;
-- những người của hang động 18:9-26;
-- những người của chiến hào 85:1-8;
-- những kẻ vi phạm Ngày Sabbath 7:163-165;
-- Samiri và Con Bê Vàng 20:83-97;
-- Saul và Samuel 2:247-251;
+- Lời khuyên của Luqman cho con trai mình 31:12-19
+- chủ nhân của hai khu vườn 18:32-44
+- dân tộc Sheba 34:15-19
+- những người của hang động 18:9-26
+- những người của chiến hào 85:1-8
+- những kẻ vi phạm Ngày Sabbath 7:163-165
+- Samiri và Con Bê Vàng 20:83-97
+- Saul và Samuel 2:247-251
 - Zul-Qarnain 18:83-98
-Devils (Những con quỷ) 2:102; 6:71; 6:112; 6:121; 7:27; 7:30; 17:27; 19:68; 19:83; 22:3-4; 23:97-98; 26:210; 37:7-10; 38:37-38; 67:5;
-- những con người và jinn như quỷ dữ 6:112;114:6;
+Devils (Những con quỷ) 2:102; 6:71; 6:112; 6:121; 7:27; 7:30; 17:27; 19:68; 19:83; 22:3-4; 23:97-98; 26:210; 37:7-10; 38:37-38; 67:5
+- những con người và jinn như quỷ dữ 6:112;114:6
 - bầu trời được bảo vệ chống lại những con quỷ 15:16-18
 Regrets (Những hối tiếc)
-- không theo Nhà tiên tri 25:27;
-- không vâng phục Allah và Sứ giả của Ngài 4:41-42; 33:64-68;
-- kết bạn với những kẻ xấu xa 25:28-29; 26:96-102; 43:36-39;
-- phủ nhận những dấu hiệu của Allah 6:27-30;
+- không theo Nhà tiên tri 25:27
+- không vâng phục Allah và Sứ giả của Ngài 4:41-42; 33:64-68
+- kết bạn với những kẻ xấu xa 25:28-29; 26:96-102; 43:36-39
+- phủ nhận những dấu hiệu của Allah 6:27-30
 - không làm việc cho Kiếp Sau 89:23-24
 Desperate pleas (Những lời van xin tuyệt vọng)
-- cầu xin được trở lại thế giới 2:167; 6:27-28; 32:12-14; 42:44;
-- xin một cơ hội thứ hai 35:36-37;
-- được đưa ra khỏi Lửa 40:10-12;
-- xin thức ăn và nước 7:51-52;
-- xin những người cầu thay 7:52-53;
-- được san bằng thành bụi 4:41-42; 78:40;
+- cầu xin được trở lại thế giới 2:167; 6:27-28; 32:12-14; 42:44
+- xin một cơ hội thứ hai 35:36-37
+- được đưa ra khỏi Lửa 40:10-12
+- xin thức ăn và nước 7:51-52
+- xin những người cầu thay 7:52-53
+- được san bằng thành bụi 4:41-42; 78:40
 - cầu xin cái chết 43:74-78
 Qualities of the righteous (Những phẩm chất của người ngay thẳng)
 - tuân thủ những quyền của Đấng Tạo Hóa và tạo vật của Ngài 3:133-136; 4:36; 4:69-70; 6:151-154; 8:2-4; 13:19-24; 17:23-39;18:107-108; 23:1-11; 25:63-76; 42:36-43
 Qualities of the wicked (Những phẩm chất của kẻ xấu xa)
-- vô ơn 14:34;
-- keo kiệt 17:100;
-- vội vàng 21:37;
-- chỉ nhớ đến Allah trong những lúc khó khăn 10:12; 41:51;
-- thiếu kiên nhẫn 70:19;
+- vô ơn 14:34
+- keo kiệt 17:100
+- vội vàng 21:37
+- chỉ nhớ đến Allah trong những lúc khó khăn 10:12; 41:51
+- thiếu kiên nhẫn 70:19
 - hay tranh luận 18:54
 Major Sins (Những tội lớn)
-- kết hợp những người khác với Allah trong việc thờ phụng (shirk) 4:48; 4:116; 5:72; 6:19; 31:13;
-- xúc phạm cha mẹ của mình 4:36; 6:151; 17:23;
-- bỏ bê hay từ bỏ những lễ nguyện bắt buộc 19:59-60;
-- không nộp thuế từ thiện 41:6-7;
-- giết người 6:151; 17:33;
-- cố ý giết một tín đồ 4:93;
-- trộm cắp 5:38;
-- gian lận 7:85; 11:85; 26:182-183; 83:1-6;
-- nói dối 2:10; 9:77; 39:60;
-- nói dối về Allah 6:93; 29:68; 61:7;
+- kết hợp những người khác với Allah trong việc thờ phụng (shirk) 4:48; 4:116; 5:72; 6:19; 31:13
+- xúc phạm cha mẹ của mình 4:36; 6:151; 17:23
+- bỏ bê hay từ bỏ những lễ nguyện bắt buộc 19:59-60
+- không nộp thuế từ thiện 41:6-7
+- giết người 6:151; 17:33
+- cố ý giết một tín đồ 4:93
+- trộm cắp 5:38
+- gian lận 7:85; 11:85; 26:182-183; 83:1-6
+- nói dối 2:10; 9:77; 39:60
+- nói dối về Allah 6:93; 29:68; 61:7
 - những quan hệ tình dục bị cấm 2:222; 17:32; 24:2; 25:68; 29:28-30
-- những lời buộc tội sai lầm về ngoại tình 24:4-5;
-- bội giáo 2:217; 5:54;
-- ăn thịt lợn và những thức ăn bị cấm khác (xác chết, máu, v.v.) 5:3; 6:145;
-- rượu và cờ bạc 5:90-91;
-- nói xấu sau lưng 49:11;
-- lời chứng sai 22:30;
+- những lời buộc tội sai lầm về ngoại tình 24:4-5
+- bội giáo 2:217; 5:54
+- ăn thịt lợn và những thức ăn bị cấm khác (xác chết, máu, v.v.) 5:3; 6:145
+- rượu và cờ bạc 5:90-91
+- nói xấu sau lưng 49:11
+- lời chứng sai 22:30
 - phép thuật 2:102; 10:77; 20:69
 """;

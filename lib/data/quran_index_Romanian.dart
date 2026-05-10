@@ -5,18 +5,18 @@ Abluțiuni (Wudu), 4:43; 5:6
 Abraham (Ibrahim) S.14; 2:135-136, 148; 3:33, 84, 95; 4:54, 125, 163; 6:161; 9:70, 114; 12:6, 38; 16:120; 19:58; 21:51, 60, 62, 69; 22:43, 78; 26:69; 29:31; 33:7; 37:83, 104, 109; 38:45; 42:13; 43:26; 51:24; 53:37; 57:26; 60:4; 87:19
 - nici evreu, nici creștin, 3:67-68
 - a stat în primul templu din Bakkah, 3:97; 26:123
-- ridică temeliile Ka'bei 2:124-129;
-- își cheamă poporul la închinarea Unicului Dumnezeu Adevărat 2:130-133; 26:69-89; 29:16; 29:24-27;
-- dezbateri despre regele arogant 2:258,
-- întreabă despre înviere 2:260;
-- nici evreu, nici creștin 3:65-68;
-- respinge închinarea cerească 6:74-87;
-- primește vestea nașterii lui Isaac 11:69-76; 51:24-30;
-- rugăciunea sa la Ka'ba 14:35-41;
-- vizitat de îngeri 15:51-56;
-- un model de urmat 16:123;
-- își cheamă tatăl la adevăr 19:41-50;
-- distruge idolii și este salvat din foc 21:51-73; 37:83-113;
+- ridică temeliile Ka'bei 2:124-129
+- își cheamă poporul la închinarea Unicului Dumnezeu Adevărat 2:130-133; 26:69-89; 29:16; 29:24-27
+- dezbateri despre regele arogant 2:258
+- întreabă despre înviere 2:260
+- nici evreu, nici creștin 3:65-68
+- respinge închinarea cerească 6:74-87
+- primește vestea nașterii lui Isaac 11:69-76; 51:24-30
+- rugăciunea sa la Ka'ba 14:35-41
+- vizitat de îngeri 15:51-56
+- un model de urmat 16:123
+- își cheamă tatăl la adevăr 19:41-50
+- distruge idolii și este salvat din foc 21:51-73; 37:83-113
 - îi cheamă pe toți la pelerinaj 22:26
 Abrar, 3:193, 198; 76:5; 82:13; 83:18-22
 Abrogare, 2:106, 16:101
@@ -26,11 +26,10 @@ Adam, 3:33, 59; 5:27; 7:26-27, 31, 35, 172; 17:70; 19:58; 36:60
 - îngerii să se prosterneze înaintea lui, 2:34; 7:11
 - pomul cunoașterii, 2:35; 7:19-20; 20:120-121
 - alungarea din Grădină (fără vină pentru Eva), 2:36; 7:24
-- onorat de Allah, ispitit de Satana 2:30-38; 7:11-25; 17:61-65; 18:50; 20:115-123; 38:71-85;
+- onorat de Allah, ispitit de Satana 2:30-38; 7:11-25; 17:61-65; 18:50; 20:115-123; 38:71-85
 - iertat de Allah 2:37; 20:122
 Adiyat, S.100
-'Adn Paradise, 9:72; 13:23; 16:31; 18:31;
-19:61; 20:76; 35:33; 38:50; 40:8; 61:12; 98:8
+'Adn Paradise, 9:72; 13:23; 16:31; 18:31;19:61; 20:76; 35:33; 38:50; 40:8; 61:12; 98:8
 Adversitate
 - neîmpovărat cu povara altuia, 6:164; 17:15; 35:18; 39:7; 53:38
 - nu este împovărat dincolo de capacitatea de a rezista, 2:286; 6:152; 7:42; 23:62
@@ -113,7 +112,7 @@ Apostazie, 3:72; 3:86-88; 3:90-91; 3:167; 4:137; 5:54; 9:74; 9:107; 16:106; 33:1
 Apostații, 47:25
 A'raf, S.7; 7:46, 48
 Arafat, 2:198
-Argumentează,
+Argumentează
 - nu în numele celor care se înșală singuri, 4:107
 - ați pledat pentru ei în această lume, dar cine va face asta în Ziua Învierii?, 4:109
 Certuri/Atacuri
@@ -123,7 +122,7 @@ Armură, 16:81
 Asr, S.103
 Versetul Al-Kursi, 2:255
 Defăimător, 49:12; 104:1
-Badr (bătălia de la), 3:13,
+Badr (bătălia de la), 3:13
 - lecții din 8:5-19, 42-48
 Al-Bait-ul-Mamur, 52:4
 Bakkah (Mecca), 3:96
@@ -133,7 +132,7 @@ Echilibru, 7:8-9; 17:35; 21:47; 55:7-9; 57:25; 101:6-9
 Banu An-Nadir, 59:2-6, 13
 Baqarah, S.2
 Bara'a (vezi Taubah), S.9
-Barzakh, (Bariera), 23:100; 25:53; 55:20;
+Barzakh, (Bariera), 23:100; 25:53; 55:20
 - vezi și 18:94-97; 34:54; 36:9
 Baiyinah, S.98
 Fiara (din Zilele de pe Urmă), 27:82
@@ -182,7 +181,7 @@ Biblia, 5:64, 5:65, 5:68
 - distorsionarea, 3:78; 5:14-15
 Păsări, 2:260; 3:49; 5:110; 6:38; 12:36, 41; 16:79; 21:79; 22:31; 24:41; 27:16-17, 20; 34:10; 38:19; 56:21; 67:19; 105:3
 Sânge-bani (Diya), 2:178-179; 4:92; 17:33
-Pradă, război, 4:94. 8:41; 59:6-8;
+Pradă, război, 4:94. 8:41; 59:6-8
 - luare ilegală, 3:162
 - vezi prada
 Mită, 2:188
@@ -220,7 +219,7 @@ Cetatea sigură, 95:3
 - hainele femeilor previn hărțuirea din partea ipocriților, 33:59-60
 Confederații, 33:9, 22
 - vezi Consultația lui Ahzab, reciprocă, 42:38
-Creare,
+Creare
 - începe și se repetă, 10:4; 21:104; 27:64; 29:19-20
 - o nouă, 17:49, 98; 35:16
 - cu adevăr, 15:85; 16:3; 29:44; 39:5; 44:39; 45:22; 46:3
@@ -240,12 +239,12 @@ Corb, 5:31
 Criterion, 2:53, 185; 3:4; 8:29, 41; 21:48; 25:1
 Dahr, (vezi Insan,) S.76; 45:24
 - timp, 76:1; 103:1
-David, 5:78; 6:84; 17:55; 34:10, 13; 38:17-30;
+David, 5:78; 6:84; 17:55; 34:10, 13; 38:17-30
 - dat fiind Psalmul 4:163
 - luptă și îl ucide pe Goliat, 2:251
-- dă o judecată 21:78-80;
-- binecuvântat cu cunoștință și profeție 27:15-16;
-- munții și păsările i se alătură în laudele lui Allah 34:10; 38:17-20;
+- dă o judecată 21:78-80
+- binecuvântat cu cunoștință și profeție 27:15-16
+- munții și păsările i se alătură în laudele lui Allah 34:10; 38:17-20
 - judecă între două persoane 38:21-26
 Dawabb sau Dabbah (creatură vie care se mișcă etc.) 2:164; 6:38; 8:22, 55; 11:6, 56; 16:49, 61; 22:18; 24:45; 27:82; 29:60; 31:10; 34:14; 35:28, 45; 42:29; 45:4
 Morții vor învia, 6:36
@@ -255,17 +254,17 @@ Moarte, 3:185; 3:193; 4:78; 6:61; 6:93; 21:35; 23:99-108; 31:34; 32:11; 33:19; 3
 - acele comunități care nu au revelație nu vor fi distruse, 6:131; 9:115; 10:47; 11:117; 15:4; 16:119; 17:15; 28:59
 - cei uciși pentru calea lui Allah sunt vii, 2:154; 3:169
 - în timp ce fug de răul către Allah, 4:100
-- nu poate fi oprit sau întârziat 63:10-11;
-- fratele geamăn al somnului 6:60; 39:42;
-- credincioși și necredincioși la momentul morții 8:50; 16:27-32; 41:30;
+- nu poate fi oprit sau întârziat 63:10-11
+- fratele geamăn al somnului 6:60; 39:42
+- credincioși și necredincioși la momentul morții 8:50; 16:27-32; 41:30
 - pedeapsă în mormânt 40:46
 Datorii, 2:280, 282; 4:11-12
-Decret,
+Decret
 - pentru fiecare problemă, există un, 13:38
 - N-am nimicit Noi o cetate care să nu fi fost cunoscută pentru ea, 15:4
 - orice lucru este de la Allah, 44:5
 - când El hotărăște o chestiune, El spune doar „Fii!” - și așa este, 2:117; 36:82; 40:68
-Fapte,
+Fapte
 - rău, înfrumusețat pentru ei, 47:14
 - nouă faptele noastre, vouă faptele voastre, 28:55; 42:15; 45:15
 - binele și răul sunt pentru și împotriva lui însuși, 41:46
@@ -279,7 +278,7 @@ Dhariyat, S.51
 Dhikr, 7:205; 15:6, 9
 Dhul-Kifi, 21:85; 38:48
 Dhul-Qarain, 18:83-98
-Dhun-Nun (Tovarășul peștelui),
+Dhun-Nun (Tovarășul peștelui)
 Necredincioși (vezi și Ipocriți)
 - cereți-i lui Muhammad ( ﷺ ) să invoce mânia lui Allah asupra lor ca dovadă, 6:57-58; 8:32; 10:49-52
 - să le iei tovărășia cu bunătate, 31:15
@@ -304,7 +303,7 @@ După necaz, urmează siguranța, 3:154
 Diversitate
 - despre oameni, 30:22, 35:27-28
 - despre viață, 35:27-28
-Divorț, 2:228-232, 236-237, 241; 4:35, 130; 65:1-7;
+Divorț, 2:228-232, 236-237, 241; 4:35, 130; 65:1-7
 - după perioada de așteptare, dizolvare sau reconciliere, 2:231; 65:2
 - doi martori, 65:2
 - pensie alimentară, 2:233, 241
@@ -340,7 +339,7 @@ Divorț, femeie
 - cu excepția cazului în care căsătoria nu este consumată, 33:49
 Câini, 7:176
 Măgari (Ass), 2:259; 16:8; 31:19; 62:5; 74:50
-Bea,
+Bea
 - alcoolic, 2:219; 5:90
 - pur și alb delicios, 37:45-46; 76:21
 - vin pur sigilat, 83:25
@@ -363,13 +362,13 @@ Răul, 4:123; 10:27-30; 19:83; 59:15
 - schimbat, în bine, 7:95
 - cei își urmează dorințele, 47:14, 16
 - fapte înfrumusețate pentru ei, 47:14
-Exces,
+Exces
 - interzis în mâncare, 5:87
 - în religie, 4:171; 5:77-81
 Ochii, urechile și pielea vor mărturisi împotriva păcătoșilor, 41:20-23
 Ezra (Uzair) 9:30
 Chipul sau Înfățișarea lui Allah, 2:115, 272; 6:52; 13:22; 18:28; 28:88; 30:38-39; 55:27; 76:9; 92:20
-Aparent frumos,
+Aparent frumos
 Allah a făcut fiecărui popor faptele sale, 6:108
 Credință (Credință), 2:108; 3:167, 177, 193; 5:5; 9:23; 16:106; 30:56; 40:10; 42:52; 49:7, 11, 14; 52:21; 58:22; 59:9-10
 - respingători ai, 3:116
@@ -379,7 +378,7 @@ Credință (Credință), 2:108; 3:167, 177, 193; 5:5; 9:23; 16:106; 30:56; 40:10
 Fajr, S.89
 Falaq, S.113
 Conversații false despre versetele din Coran, 6:68
-Zei falși,
+Zei falși
 - pe lângă Allah, idoli și așa-numiții parteneri 7:194-198; 16:20-21, 72, 86; 21:22, 24; 34:22, 27; 41:47-48; 46:5-6; 53:19-24; 71:23-24
 - nu-i huliți pe cei pe care îi adorau în afară de Allah, 6:108
 - vezi și Taghut
@@ -394,7 +393,7 @@ Fidyah (răscumpărare), de post, 2:196
 - pentru eliberarea captivilor, 8:67
 - răscumpărare oferită de necredincioși, 3:91; 5:36,37; 10:54; 13:18
 Fig. 95:1
-Luptă,
+Luptă
 - pe calea lui Allah, împotriva necredincioșilor, 2:190-193, 244; 4:84, 95; 8:72, 74, 75; 9:12-16, 20, 24, 36, 123; 47:4; 61:11
 - hirotonit, 2:216
 - în lunile sacre, 2:217; 9:5
@@ -410,7 +409,7 @@ Fil, S.105
 Firdaus Paradise, 18:107; 23:11
 Foc, 56:71, 100:2
 Zbură, 22:73
-Mâncare,
+Mâncare
 - legal și ilegal, (Halal și Haram), 2:168, 172, 173; 5:1, 3-5, 88; 6:118-119, 121, 145-146; 16:114-118; 23:51
 - fără păcat pentru ceea ce am mâncat în trecut, 5:93
 - nu călcați, 5:87
@@ -432,7 +431,7 @@ Iertare, 2:109; 4:48, 110, 116; 5:74; 7:199; 39:53; 42:5, 40-43; 45:14; 53:32; 5
 - se întrec unul cu altul în grabă spre, 57:21
 - faptele rele s-au transformat în fapte bune 25:68-71
 Fraudă (vezi Trădare) 83:1-6
-Liberul arbitru,
+Liberul arbitru
 - limitat de Voința lui Allah, 6:107; 10:99; 74:56; 76:31; 81:28-29
 - cine vrea, să creadă și să nu creadă, 18:29
 - ia o cale către Domnul său, 76:29
@@ -466,14 +465,14 @@ Bună (Zile), 3:140
 - Allah îi răsplătește pe cei care lucrează cu ceea ce este mai bun, 53:31
 - există vreo altă recompensă pentru, în afară de bine, 55:60
 - faceți așa cum Allah v-a fost bine, 28:77
-Binele și Răul,
+Binele și Răul
 - binele este de la Allah și răul este de la tine, 4:79
 - dacă faceți bine, pentru voi înșivă și dacă faceți rău, împotriva voastră, 17:7;41:46
 - respinge răul cu binele, 23:96; 28:54; 41:34
 - fapta bună și cea rea nu pot fi egale, 41:34
 - fiecare persoană se va confrunta cu tot ce a făcut el, 3:30
 - vezi și Muhsinun
-Faptă bună,
+Faptă bună
 - dezvălui sau ascunde, 4:149
 - străduiește-te ca într-o cursă în, 5:48
 Evanghelie, 3:3, 48, 65; 5:46-47, 66, 68, 110; 7:157; 9:111; 48:29; 57:27
@@ -490,7 +489,7 @@ Greutate, există ușurare cu fiecare, 94:5-6
 Harun, (Aaron)
 Harut, 2:102
 Hashr, S.59
-Inimi,
+Inimi
 - întărit, 2:74; 22:53; 39:22; 57:16
 - pecetluit, 7:100-101; 40:35; 47:16; 63:3
 - acoperit, 17:46; 41:5
@@ -498,7 +497,7 @@ Inimi,
 - împărțit, 59:14
 - plin de frică, 22:35
 - în al cărui om există o boală, 2:10; 5:52; 8:49; 9:125; 22:53; 24:50; 33:12, 32, 60; 47:20, 29; 74:31
-Ceruri,
+Ceruri
 - A lui Allah aparține nevăzutul, 16:77
 - creat nu pentru o piesă de teatru, 21:16
 - și pământul a fost unit, 21:30
@@ -528,7 +527,7 @@ Iadul (focul, flacăra arzătoare) 2:24, 119, 161, 166, 201; 3:10, 12, 116, 131,
 - disperare arzătoare și întuneric rece ca gheața în, 38:57
 - lanț de 70 de coți, 69:32
 - ședere pentru o durată limitată, 78:23
-De acum înainte,
+De acum înainte
 - mai bună este casa din, 6:32; 7:169
 - care va fi sfârșitul în, 6:135
 - Zalimun nu va avea succes (în), 6:135
@@ -545,7 +544,7 @@ Hijr (Traiul Stâncos), 15:80-85
 Hijr, S.15
 Homosexualitate 26:165-166; 27:55; 29:28-29
 Cai, 16:8
-Oră,
+Oră
 - știrea acesteia este numai la Allah, 7:187; 31:34; 33:63; 41:47; 68:26; 79:42-46
 - dintr-o dată, cade asupra lor, 6:31; 7:187; 12:107; 43:66
 - vine peste tine, 6:40; 12:107; 20:15; 34:3
@@ -554,9 +553,9 @@ Oră,
 - cutremurul din, 22:1
 - va fi stabilit, în Ziua, 30:12, 14
 - cu siguranță va veni, nu există nicio îndoială, 40:59; 45:32; 51:5-6
-- semne 21:96; 27:82; 43:61; 47:18; 54:1-2;
-- nume 1:3; 2:4; 3:55; 19:39; 30:56; 37:21; 40:15; 41:47; 42:7; 50:20; 56:1; 64:9; 69:1; 79:34; 80:33; 88:1; 101:1-3;
-- îi va lua pe oameni prin surprindere 6:31; 7:187;
+- semne 21:96; 27:82; 43:61; 47:18; 54:1-2
+- nume 1:3; 2:4; 3:55; 19:39; 30:56; 37:21; 40:15; 41:47; 42:7; 50:20; 56:1; 64:9; 69:1; 79:34; 80:33; 88:1; 101:1-3
+- îi va lua pe oameni prin surprindere 6:31; 7:187
 - Se va suna în trâmbiță 6:73; 23:101; 39:68
 Case, obiceiuri privind intrarea, 24:27-29
 Hud, 7:65-72; 11:50-60; 26:123-140; 46:21-26
@@ -565,7 +564,7 @@ Hujurat, S.49
 Humazah, S.104
 Hunain (bătălie), 9:25
 Hur (femei în Paradis), 44:54; 52:20
-Ipocriți,
+Ipocriți
 - spun: Noi credem în Allah și în Ziua de Apoi, dar nu credem, 2:8
 - se înșeală singuri, 2:9
 - boală în inimile lor, 2:10; 8:49; 22:53; 33:12; 47:29
@@ -609,8 +608,8 @@ Ilah, Unul singur, 2:163; 6:19; 16:22, 51; 23:91; 37:4; 38:65
 Relații sexuale ilegale; mărturia martorilor, 4:15-18; 24:2, 19
 Iliyun, 83:18-21
 Impur (Najas) 9:28
-Imran,
-- soția lui, 3:35;
+Imran
+- soția lui, 3:35
 - fiica lui, 66:12
 Inevitabil, 69:1-3
 Infitar, S.82
@@ -629,7 +628,7 @@ Fier, 57:25
 Isuse, vezi pe Isuse
 Isaac, (Isaac) 2:133; 4:163; 6:84; 19:49;21:72; 29:27; 37:112–113
 Ismael (Isma'il), 2:125-129, 133; 4:163;6:86; 19:54-55; 21:85; 38:48
-ridică temeliile Ka'bah împreună cu tatăl său 2:125-140;
+ridică temeliile Ka'bah împreună cu tatăl său 2:125-140
 povestea sacrificiului 37:100-113
 Islam, 3:19, 85; 5:3; 6:125; 39:22; 61:7
 - primul dintre cei care se supun ca musulmani, 6:14,163; 39:12
@@ -658,8 +657,8 @@ Iacov, (Ya'qub) 2:132-133; 4:163; 6:84;12:18; 19:49; 21:72; 29:27
 Jalut (vezi Goliat)
 Jamarat, 2:200
 Jathiyah, S.45
-Isus, fiul Mariei,
-- mamă aleasă dintre toate femeile lumii 3:42;
+Isus, fiul Mariei
+- mamă aleasă dintre toate femeile lumii 3:42
 - mărturisește în Ziua Învierii, 4:159
 - vestea bună a nașterii, 3:45-47; 19:22-23
 - Mesager către copiii lui Israel, 3:49-51
@@ -682,9 +681,9 @@ Isus, fiul Mariei,
 - opinii divergente despre, 43:65
 - nu mai mult decât un rob și un exemplu pentru copiii lui Israel, 43:59
 - vestea bună despre un Mesager al cărui nume va fi Ahmed, 61:6
-- nașterea sa din fecioară, mesajul și miracolele 3:45-51; 19:16-38;
-- a amintit de favorurile lui Allah 5:110-115;
-- neagă că este divin 5:116-120;
+- nașterea sa din fecioară, mesajul și miracolele 3:45-51; 19:16-38
+- a amintit de favorurile lui Allah 5:110-115
+- neagă că este divin 5:116-120
 - compasiune și har în inimile urmașilor săi 5:82; 57:27
 Evrei și creștini, 2:140; 4:153-161, 171; 5:18
 - ascultați minciuna, 5:41-42
@@ -694,41 +693,41 @@ Evrei și creștini, 2:140; 4:153-161, 171; 5:18
 Jibril (vezi Gabriel)
 Jihad (Lupta, Străduința) 2:216; 9:24; 22:78; 25:52
 Djinn, S.72
-Djini, 6:100, 112; 15:27; 34:41; 38:37; 46:18,29; 55:33, 39;
-Djini, creați din foc 15:25; 55:15;
-- djinni credincioși și necredincioși 72:1-15;
+Djini, 6:100, 112; 15:27; 34:41; 38:37; 46:18,29; 55:33, 39
+Djini, creați din foc 15:25; 55:15
+- djinni credincioși și necredincioși 72:1-15
 - unii au crezut în mesajul Coranului 46:29-32
 - oamenii și djinnii creați cu un scop 51:56-58
 Iov, 4:163; 6:84; 21:83-84; 38:41-44
-Ioan (Yahya, Ioan Botezătorul),
+Ioan (Yahya, Ioan Botezătorul)
 - vești bune despre, 3:38-41; 19:7-11; 21:90
 - neprihănit, 6:85
 - înțelept, înțelegător, ascultător, 19:12-15
-Iona (Jonas sau Yunus), 4:163; 6:86; 10:98; 21:87; 37:139-148;
+Iona (Jonas sau Yunus), 4:163; 6:86; 10:98; 21:87; 37:139-148
 - (Dhu n-Nun) 21:87; 68:48-50
 Iosif (Yusuf), 6:84; 12:4-101
-- cele mai bune povestiri 12:1-3;
-- visul tânărului Yusuf 12:4-6;
-- conspirația fraților săi 12:7-18;
-- vândut în sclavie 12:19-20;
+- cele mai bune povestiri 12:1-3
+- visul tânărului Yusuf 12:4-6
+- conspirația fraților săi 12:7-18
+- vândut în sclavie 12:19-20
 - ridicat în casa ministrului șef al Egiptului 12:21-22
-- Soția ministrului șef încearcă să-l seducă 12:23-29;
-- incidentul banchetului 12:30-32;
-- merge la închisoare 12:33-35;
-- cei doi deținuți 12:36-42;
-- Visul regelui 12:43-53;
-- devine Ministru Șef 12:54-57;
-- frații vin la el pentru provizii 12:58-68;
-- îl ia pe fratele său Beniamin 12:69-82;
-- durerea reînnoită a tatălui său 12:83-87;
-- își dezvăluie adevărata identitate 12:88-98;
-- un vis vechi devine realitate 12:99-100;
+- Soția ministrului șef încearcă să-l seducă 12:23-29
+- incidentul banchetului 12:30-32
+- merge la închisoare 12:33-35
+- cei doi deținuți 12:36-42
+- Visul regelui 12:43-53
+- devine Ministru Șef 12:54-57
+- frații vin la el pentru provizii 12:58-68
+- îl ia pe fratele său Beniamin 12:69-82
+- durerea reînnoită a tatălui său 12:83-87
+- își dezvăluie adevărata identitate 12:88-98
+- un vis vechi devine realitate 12:99-100
 - rugăciune de încheiere 12:101
 Judi, Muntele, 11:44
 Jumu'ah, S.62
 Dreptate (Adl), 2:282; 4:58, 135; 7:29; 16:90; 57:25 (
 - vezi și 4:65, 105
-Kaaba,
+Kaaba
 - construită de Avraam, 2:125-127
 - interzicerea uciderii vânatului, 5:94-96
 - azil de siguranță, 5:97
@@ -740,17 +739,17 @@ Kahf, S.18
 Kanz, 9:34-35
 Kauthar (râul în Paradis), 108:1
 Kauthar, S.108
-Chei,
+Chei
 al cerurilor și al pământului, 39:63; 42:12
 din Ghaib, 6:59
 Khaulah bint Tha labah, 58:1
-Ucidere,
+Ucidere
 - dacă cineva a ucis pe un om, a ucis pe toată omenirea, 5:32
 - să nu ucizi pe nimeni, 17:33
 Cuvintele blânde sunt mai bune decât mila, 2:263
 Rudenie, drepturile, 2:83, 177, 215; 4:7-9, 36; 8:41; 16:90; 17:26; 24:22; 29:8; 30:38; 42:23
 Kiraman-Ratibin, 82:11
-Cunoştinţe,
+Cunoştinţe
 - nici o frunză nu cade, fără ca El să știe, 6:59
 - pierduți sunt cei care și-au ucis copiii din nebunie, fără să aibă parte de ele, 6:140
 - dintre cinci lucruri, numai cu Allah, 31:34
@@ -760,14 +759,14 @@ Kursi, 2:255
 Lahab (Vezi Masad), S.111
 Lail, S.92
 Lampă, 25:61; 67:5; 71:16; 78:13
-Limbi,
+Limbi
 - diferența și culoarea bărbaților, 30:22
 Lat, 53:19
 Lege, prescrisă, 5:48
 Legi de la Allah, 2:219; 98:3
 Mincinoșii, 26:221-223
 Viață, dacă cineva a salvat pe un om, a salvat viața întregii omeniri, 5:32
-Viața acestei lumi,
+Viața acestei lumi
 - a cumpărat, la prețul de Hereafter, 2:86
 - este doar plăcerea înșelăciunii, 3:185
 - vinde, pentru Viața de Apoi, 4:74
@@ -779,7 +778,7 @@ Viața acestei lumi,
 - cine dorește, ajunge acolo; dar atunci nu va avea parte în Viața de Apoi, 11:15-16; 17:18; 42:20
 - care iubesc prezentul și neglijează Viața de Apoi, 75:20-21; 76:27
 - preferi, 87:16
-Aprinde,
+Aprinde
 - manifest, 4:174
 - și întuneric, 6:1
 - parabola lui Iehova, 24:35
@@ -794,7 +793,7 @@ Limite stabilite de Allah, 2:173, 187, 190, 230; 9:112; 58:4; 65:1; 78:22
 - când au depășit, (s-au transformat în maimuțe), 7:166
 - care respectă, 9:112
 Leu, 74:51
-Împrumut,
+Împrumut
 - împrumutați-I lui Allah o faptă bună, 2:245; 73:20
 - colector crescut, 57:11, 18
 - dublat, 64:17
@@ -812,7 +811,7 @@ Mahr (bani de mireasă), 2:229, 236-237; 4:4,19-21, 24-25; 5:5; 33:50; 60:10-11
 Ma'idah, S.5
 Mecca (Bakkah), 3:96; 90:1-2
 - Orașul Securității, 95:3
-Om,
+Om
 - generații după generații pe pământ, 2:30; 6:165
 - numit succesor, 35:39
 - datorie, 2:83-84, 88, 177; 4:1-36; 8:41; 16:90; 17:23-39; 24:22; 29:8-9; 30:38; 33:33; 42:23; 64:14; 70:22-35
@@ -877,7 +876,7 @@ Om,
 - depășește toate limitele, 96:6-7
 Manasik (îndatoririle) de Hajj, 2:128, 200; 22:30
 Manat, 53:20
-Omenirea,
+Omenirea
 - martori peste, 2:143
 - o comunitate, 2:213; 10:19
 - creat dintr-o singură pereche, 4:1; 39:6; 49:13
@@ -887,7 +886,7 @@ Omenirea,
 - cel mai onorat dintre, 49:13
 - transformați în națiuni și triburi, 49:13
 Mana și prepelițele, 2:57
-Maniere,
+Maniere
 - despre intrarea în case, 24:27-29
 - acasă, 24:58-61
 - în casele Profetului, 33:53
@@ -910,7 +909,7 @@ Căsătorie, 2:232, 234
 - cei care nu găsesc mijloace financiare pentru căsătorie, 24:33
 - soții permise Profetului, 33:50-52
 - înainte de actul sexual, fără Iddah la divorț, 33:49
-Martiri,
+Martiri
 - nu mort, 2:154; 3:169
 - bucurați-vă de Harul și Bunăstarea lui Allah, 3:170-171
 - primește iertare și milă, 3:157-158
@@ -930,7 +929,7 @@ Masad, S.111
 Maun, S.107
 Ma'wa Paradise, 53:15
 Măsoară și cântărește, dă pe deplin, 11:85; 17:35; 83:1-5
-Întâlnire,
+Întâlnire
 - cu Allah, 6:31
 - din Ziua cea Mare, 19:37
 - despre Viața de Apoi, 30:16
@@ -960,7 +959,7 @@ Miraj, 17:1; 53:12
 Luni, număr de, 9:36-37
 Lună, 7:54; 10:5; 16:12; 22:18; 25:61; 36:39-40; 71:16; 91:2
 - divizarea; 54:1
-Moise,
+Moise
 - și poporul său, 2:51-61; 7:138-141,159-162; 14:5-8; 61:5
 - și Faraon, 2:49-50; 17:101-103; 20:17-53, 56-79; 23:45-49; 25:31-42; 40:23-46; 43:46-56; 51:38-40; 73:16; 79:15-26
 - călăuzit de Allah, 6:84
@@ -970,23 +969,23 @@ Moise,
 - având în vedere Scriptura, 17:2
 - nouă semne clare, 7:133; 17:101
 - la joncțiunea celor două mări, 18:60-82
-- întâlnire fatidică la rugul aprins 20:9-36; 27:7-14; 28:29-35;
+- întâlnire fatidică la rugul aprins 20:9-36; 27:7-14; 28:29-35
 - chemat și primit statutul de Mesager, 19:51-53; 20:9-56
 - copilăria sa, mama și sora sa, 20:38-40; 28:7-13
 - magicieni convertiți, 20:70-73; 26:46-52
 - în Madyan, 20:40; 28:22-28
 - a fost admis criteriul, 21:48
 - și focul mistic, 27:7-12; 28:29-35
-- ucide din greșeală un egiptean în oraș 28:14-21;
+- ucide din greșeală un egiptean în oraș 28:14-21
 - a venit cu Ayat clar, 29:39
-- poveste cu Faraonul 7:103-137; 10:75-92; 11:96-99; 26:10-69;
-- nouă semne pentru Faraon și poporul său 7:130-133; 20:17-22; 17:101;
-- îi învinge pe magicienii faraonului 20:70-73; 26:46-52;
-- fuga la Madian și căsătoria 28:22-28;
-- primește Tabletele 7:142-154,
-- cere să-L vadă pe Allah pe Munte 7:142-145;
-- onorat de Allah 33:69;
-- Favoarea lui Allah față de israeliți 2:47-61;
+- poveste cu Faraonul 7:103-137; 10:75-92; 11:96-99; 26:10-69
+- nouă semne pentru Faraon și poporul său 7:130-133; 20:17-22; 17:101
+- îi învinge pe magicienii faraonului 20:70-73; 26:46-52
+- fuga la Madian și căsătoria 28:22-28
+- primește Tabletele 7:142-154
+- cere să-L vadă pe Allah pe Munte 7:142-145
+- onorat de Allah 33:69
+- Favoarea lui Allah față de israeliți 2:47-61
 Israeliții refuză să intre în Ierusalim 5:20-29
 - îndrumat pe Calea cea Dreaptă, 37:114-122
 - Scriptură din 53:36; 87:19
@@ -1074,7 +1073,7 @@ Mumtahanah, S.60
 Munafigun, S.63
 Crimă, 2:178-179
 Mursalat, S.77
-musulmani,
+musulmani
 - primul dintre, 6:14, 163; 9:100; 39:12
 - Cine a numit, 22:78
 - iertare și o mare răsplată pentru cei care, 33:35-36
@@ -1086,7 +1085,7 @@ Nahl, S.16
 Najas (impur) 9:28
 Najm, S.53
 Najwa (Vezi Secret)
-Nume,
+Nume
 A Lui aparțin Cele Mai Frumose, 7:180
 A Lui Îi aparțin cele mai bune, 17:110; 20:8; 59:24
 Necesitate, dacă cineva este forțat de aceasta, 2:173; 6:145
@@ -1099,10 +1098,10 @@ Noaptea (ca simbol) pentru odihnă, 10:67
 - a fi de folos, 14:32
 - Noaptea lui Al-Qadr (Decret), 44:3-4; 97:1-5
 Nisa', S.4
-Noe, 3:33; 4:163; 6:84; 9:70; 10:71; 11:25, 32, 36, 42, 45-46, 48, 89; 17:3; 21:76; 25:37; 26:105; 29:14; 37:75; 51:46; 54:9; 69:11;
-- a batjocorit 11:38;
+Noe, 3:33; 4:163; 6:84; 9:70; 10:71; 11:25, 32, 36, 42, 45-46, 48, 89; 17:3; 21:76; 25:37; 26:105; 29:14; 37:75; 51:46; 54:9; 69:11
+- a batjocorit 11:38
 - Potopul (inundația severă), 29:14
-- Arca și Potopul 7:59-69, 11:25-48; 23:23-31; 26:105-122; 71:1-28;
+- Arca și Potopul 7:59-69, 11:25-48; 23:23-31; 26:105-122; 71:1-28
 - fiul nelegiuit nu este mântuit, 11:42-48
 - soție nedreaptă, 14:9; 17:3, 17; 19:58; 21:76; 22:42; 26:105-106, 116; 33:7; 37:75,79; 38:12; 42:13; 40:5, 31; 42:13; 50:12; 53:52; 57:26; 66:10; 71:1, 21, 26
 Nuh, S.71
@@ -1136,7 +1135,7 @@ Parabole (asemănări, exemple, comparații)
 - ploaie, 10:24
 - recoltă curată, 10:24
 - orbi și surzi, 11:24
-- Allah vS. zei falși 13:14; 16:76;
+- Allah vS. zei falși 13:14; 16:76
 - adevăr vS. falsitate 13:17
 - cenușă peste care vântul bate furios, 14:18
 - pomul cel frumos, 14:24-25
@@ -1164,7 +1163,7 @@ Parabole (asemănări, exemple, comparații)
 - măgar, 62:5
 - apa urma să fie îndepărtată, 67:30
 - oamenii grădinii, 68:17-33
-Paradis,
+Paradis
 - din Abode, (Paradisul Ma'wa), 53:15
 - Firdaus Paradise, 18:107; 23:11
 - Grădini pe sub care curg râuri, 3:15, 198; 4:57; 5:119; 7:43; 9:72; 18:31; 22:23; 39:20; 57:12; 64:9; 98:8
@@ -1187,7 +1186,7 @@ Paradis,
 - un râu în Paradis, Kauthar, 108:1
 - râuri de vin, lapte, miere clarificată, 47:15
 - vin pur sigilat, alb, delicios, 37:45-46; 56:18; 76:21; 83:25
-- cupă, amestecată cu, Zanjabil, 76:17; 78:34;
+- cupă, amestecată cu, Zanjabil, 76:17; 78:34
 - apă, 76:5
 - tăvi de aur și cupe, 43:71
 - vase de argint și cupe de cristal, 76:15-16
@@ -1234,21 +1233,21 @@ Paradis,
 - soții la umbră plăcută, culcate pe tronuri, 36:55
 - tinere fecioare cu sâni plini de vârste egale, 78:33
 - slujitori nemuritori care să-i slujească, ca niște perle împrăștiate, 52:24; 56:17; 76:19
-- vast precum cerurile și pământul 3:133, 57:21;
-- apă curgătoare, umbră răcoroasă, delicatese și parteneri puri 2:25; 4:57; 36:55-58; 37:40-49; 38:50-54; 44:51-57; 52:17-24; 69:19-24; 76:5-22;
-- răsplata credincioșilor 55:46-78; 56:10-40;
-- râuri de miere, lapte, apă și vin 47:15;
-- rugăciuni și salutări 10:9-10; 39:73-74;
-- salutați cu urări de pace 13:23-24; 14:32;
-- ședere veșnică în Fericire 11:108;
-- nu a fost niciodată rugat să plece 15:45-48;
-- lumină strălucind înaintea lor și la dreapta lor 57:12;
-- fără căldură sau frig 76:13;
-- toate dorințele îndeplinite 16:30-32; 41:31-32;
-- brățări de aur și haine din mătase fină 18:30-31; 22:23-24; 44:51-53;
-- tăvi cu pahare de aur 43:67-73;
-- vase de argint și fructe atârnate la îndemână 76:14-16;
-- șezând pe tronuri 15:47; 37:44; 52:20;
+- vast precum cerurile și pământul 3:133, 57:21
+- apă curgătoare, umbră răcoroasă, delicatese și parteneri puri 2:25; 4:57; 36:55-58; 37:40-49; 38:50-54; 44:51-57; 52:17-24; 69:19-24; 76:5-22
+- răsplata credincioșilor 55:46-78; 56:10-40
+- râuri de miere, lapte, apă și vin 47:15
+- rugăciuni și salutări 10:9-10; 39:73-74
+- salutați cu urări de pace 13:23-24; 14:32
+- ședere veșnică în Fericire 11:108
+- nu a fost niciodată rugat să plece 15:45-48
+- lumină strălucind înaintea lor și la dreapta lor 57:12
+- fără căldură sau frig 76:13
+- toate dorințele îndeplinite 16:30-32; 41:31-32
+- brățări de aur și haine din mătase fină 18:30-31; 22:23-24; 44:51-53
+- tăvi cu pahare de aur 43:67-73
+- vase de argint și fructe atârnate la îndemână 76:14-16
+- șezând pe tronuri 15:47; 37:44; 52:20
 - credincioșii își vor vedea Domnul 75:22-23
 Părinți, bunătate față de, 2:83, 215; 4:36; 16:90; 17:23; 29:8; 31:14; 46:15-17
 Parteneri ai lui Allah, o minciună, 4:116; 10:34-35, 66; 16:86; 28:62-64, 71-75; 30:40; 42:21
@@ -1257,7 +1256,7 @@ Cale, 5:77; 16:94; 42:52-53; 43:43; 90:11-12
 - vezi și Calea
 Răbdare, 3:186, 200; 10:109; 11:115; 16:126-127; 20:130; 40:55, 77; 42:43; 46:35; 70:5; 73:10
 - cere ajutor în rugăciune și în rugăciune, 2:45, 153; 20:132; 50:39
-Pacient,
+Pacient
 - va primi răsplata integrală, 39:10
 - Allah este cu cei care sunt, 8:46
 - și să fie, 11:115
@@ -1266,7 +1265,7 @@ Pacient,
 Pace, înclină-te spre, 8:61
 Perlă și coral, conservate, 52:24; 55:22; 56:23
 Condei, 68:1; 96:4
-Persoană,
+Persoană
 - Allah nu-i pune o povară dincolo de puterea Sa, 2:286; 7:42
 - Allah nu taxează pe nimeni decât după capacitatea sa, 23:62
 - nu, știe ce va câștiga mâine și în ce țară va muri, 31:34
@@ -1287,7 +1286,7 @@ Faraon, 28:6; 40:24
 - construirea unui turn, 40:36-37
 - vezi și Moise
 Adunarea lucrurilor lumești, 102:1-4
-Jurământ (Bai'ah),
+Jurământ (Bai'ah)
 - pentru Islam, 16:91
 - Mesagerului îi este o promisiune (bai'ah) lui Allah, 48:10
 - despre Credincioși, 48:18; 60:12
@@ -1323,17 +1322,17 @@ Profeți, 3:33-34, 146; 4:163; 5:20; 6:84-90; 23:23-50; 57:26
 - ilegal pentru, 3:161
 - câte un dușman pentru fiecare, 6:112; 25:31
 - vezi și Mesageri
-Prostrație,
+Prostrație
 - lui Allah îi cade înăuntru, oricine este în ceruri și pe pământ și la fel și umbrele lor, 13:15
 Prevedere, 10:59; 13:26; 14:32; 16:73; 34:36,39; 42:12; 51:57; 67:21; 79:33
 Psalmii, 4:163
-Pedeapsă,
+Pedeapsă
 - amânarea, 3:178
 - tăierea mâinilor sau picioarelor, 5:33
 - pedepsește-i cu o lovitură asemănătoare cu cea cu care ai fost tu lovit, 16:126
 - despre această viață și de Apoi, 24:19; 68:33
-Purificare,
-- trupește, 4:43; 5:6;
+Purificare
+- trupește, 4:43; 5:6
 - spiritual (din impurități), 87:14; 91:9
 Qadar, 5:5; 64:11
 Qadr, S.97
@@ -1345,7 +1344,7 @@ Qarun (Korah), 28:76-82; 29:39
 Qasas, S.28
 Qiblah, 2:142-145, 149
 Qisas (Legea egalității în pedeapsă), 2:178-179, 194; 5:45; 16:126; 17:33; 22:60; 42:40
-Coranul,
+Coranul
 - descris, 13:31, 36, 37; 14:1; 56:77-80
 - nu este de așa natură încât să poată fi produs vreodată de altul decât de Allah, 2:23; 10:38; 11:13; 17:88
 - dacă ar fi fost de la altul decât de la Allah, ar fi fost multe contradicții în ele, 4:82
@@ -1395,7 +1394,7 @@ Coranul,
 - recitând pagini pure, 98:2
 - vezi și Carte; Apocalipsa
 Quraish, S.106
-Quraish,
+Quraish
 - necredincioșii din, 54:43-46, 51
 - îmblânzirea, 106:1-4
 Rabini și călugări, 9:31, 34
@@ -1403,26 +1402,26 @@ Cursă, străduiește-te ca într-o, în fapte bune, 5:48
 Ra'd, S.13
 Rahman, S.55
 Îmbrăcămintea dreptății este mai bună, 7:26
-Ploaie,
+Ploaie
 - Darul lui Allah, 56:68-70
 - din pietre, 27:58
 Ramadan, 2:185
 Ramy, 2:200
-Răscumpărare,
+Răscumpărare
 - nu, va fi luat, 57:15
 - oferite de necredincioși, 3:91; 10:54; 13:18
-Fidyah, despre post, 2:196;
+Fidyah, despre post, 2:196
 - pentru eliberarea captivilor, 8:67
 Rass, locuitori ai, 25:38; 50:12
-Răsplăti,
+Răsplăti
 - Ziua lui Iehova, 1:4; 37:20; 51:12; 56:56; 82:17-18; 96:7
 - cei care neagă, 107:1-7
 - un rău este un rău asemenea lui, 42:40
-Reconciliere,
+Reconciliere
 - oricine iartă și face, 42:40
 - între soț și soție, 4:35
 - între credincioși, 49:9-10
-Înregistra,
+Înregistra
 - un registru înscris, 83:7-9, 18-21
 - fiecare națiune va fi chemată la slujba sa, 45:28-29
 - pagini scrise cu faptele fiecărei persoane, 81:10
@@ -1432,7 +1431,7 @@ Reconciliere,
 - pe la spate, 84:10-15
 Îngeri care înregistrează, 50:17-18, 23; 85:11
 Alinare, odată cu greutățile, 94:5-6
-Religie,
+Religie
 - fără constrângere în, 2:256
 - este Islamul, 3:19
 - lui Allah, 3:83-84
@@ -1449,7 +1448,7 @@ Religie,
 - ancestrali, 43:22-24
 Pomenirea lui Allah, 63:9
 - în, inimile își găsesc odihnă, 13:28
-Pocăinţă,
+Pocăinţă
 - acceptat dacă răul este făcut din ignoranță și se pocăiește la scurt timp după aceea, 4:17; 6:54
 - și nu are niciun efect, dacă faptele rele continuă, 4:18
 - El acceptă și iartă păcatele, 4:25
@@ -1457,7 +1456,7 @@ Răgaz pentru rău, 3:178; 10:11; 12:110; 14:42,44; 29:53-55; 86:15-17
 Înviere, 2:28, 7:53; 14:21; 16:38-40; 22:5-7; 23:15-16; 31:28, 41:39, 46:33-34; 50:3,20-29, 41-44; 64:7, 75:1-15; 79:10-12; 86:5-8
 - exemplu în povestea din Ezra 2:259
 - Avraam 2:260
-- oamenii peșterii 18:9-26;
+- oamenii peșterii 18:9-26
 - avertisment pentru cei care neagă învierea 17:49-52, 17:97-100, 19:66-72, 37:11-27, 50:1-15, 80:17-42
 Ziua Învierii, 7:89; 20:100-101, 124
 - Ziua Adevărată, 78:39
@@ -1548,7 +1547,7 @@ Ziua Învierii, 7:89; 20:100-101, 124
 - Iadul va fi aproape, 89:23
 - Focul Iadului va fi îndepărtat, aprins într-o flacără aprigă, 81:11-12
 - Răzbunarea prin caritate va fi o ispășire, 5:45
-Revelaţie,
+Revelaţie
 - dacă aveți îndoieli, 2:23-24
 - abrogat sau uitat Verset, 2:106
 - îndrumare corectă, 3:73
@@ -1560,13 +1559,13 @@ Revelaţie,
 - din Carte este de la Allah, 46:2
 - vezi și Carte și Coran
 Răzbunare pentru nedreptatea opresivă care li s-a făcut, 42:39-43
-Răsplată,
+Răsplată
 - conform celor mai bune fapte și chiar mai mult, 24:38; 29:7; 39:35
 - ca recompensă 25:15
 - Allah îi răsplătește pe cei ce fac bine cu ce este mai bun, 53:31
 - pentru bine, nicio altă recompensă decât binele, 55:60
 Riba (vezi camătă)
-Drept,
+Drept
 - compania, 4:69
 - vor moșteni țara, 21:105
 - în Paradis, 51:15-19; 76:5-12
@@ -1585,7 +1584,7 @@ Ruh (suflet, spirit), 15:29; 17:85; 58:22
 Rom, S.30
 Saba' (Șeba), 27:22-44; 34:15-21
 Saba', S.34
-Sabat,
+Sabat
 - călcătorii de lege, 2:65; 4:154; 7:163-166
 - prescris doar pentru, 16:124
 Sabei, 5:69; 22:17
@@ -1611,23 +1610,23 @@ Satan, 2:36, 168, 208, 268, 275; 3:36, 155, 175; 4:38, 60, 76, 83, 119-120; 5:80
 - nu are putere asupra credincioșilor, 16:99-100
 - propovăduiește minciuni, 22:52-53
 - este un dușman, 12:5; 35:6; 36:60
-- aroganță 2:34; 7:11-27; 15:26-43; 17:61-65; 38:73-85;
-- un djinn 18:50-51;
-- Ispita și căderea lui Adam 7:20-23; 20:116-121;
-- nu are autoritate asupra credincioșilor 16:98-100;
-- obiectivul său 35:6-8;
-- un dușman jurat al omenirii 12:5; 17:53;
-- grupul său 53:14-19;
-- lucrarea mâinilor sale 5:90-91;
-- descurajează faptele bune 2:268;
-- credincioșii caută refugiu la Allah de la el 7:200-202;
-- planurile lui sunt slabe 4:76;
-- își dezamăgește adepții 8:48;
+- aroganță 2:34; 7:11-27; 15:26-43; 17:61-65; 38:73-85
+- un djinn 18:50-51
+- Ispita și căderea lui Adam 7:20-23; 20:116-121
+- nu are autoritate asupra credincioșilor 16:98-100
+- obiectivul său 35:6-8
+- un dușman jurat al omenirii 12:5; 17:53
+- grupul său 53:14-19
+- lucrarea mâinilor sale 5:90-91
+- descurajează faptele bune 2:268
+- credincioșii caută refugiu la Allah de la el 7:200-202
+- planurile lui sunt slabe 4:76
+- își dezamăgește adepții 8:48
 - vorbește cu urmașii săi din Iad 14:22
 - vezi și Iblis
 Cântar, de succes, al căruia va fi greu, 7:8-9
 - vezi și echilibru
-Scriptură,
+Scriptură
 - oamenii din, (evrei și creștini), 2:109; 3:64-65, 69-72, 75, 98-99, 110, 113, 199; 4:47, 153-161; 5:59-60, 68; 98:1
 - ce ascundeau, 5:61-63
 - printre cei care sunt pe calea cea bună, 5:66
@@ -1635,7 +1634,7 @@ Scriptură,
 Mări, 42:32-33; 45:12
 - cei doi, 18:60; 25:53; 35:12; 55:19-20
 - când izbucnesc, 82:3
-Secret (Najwa),
+Secret (Najwa)
 - discuții, 4:114
 - sfatul a trei, 58:7
 - sfaturi, 58:8, 10
@@ -1644,10 +1643,10 @@ Secte și diviziuni în religie, 6:15; 23:53; 30:32; 42:13-14; 43:65; 45:17
 El a trimis siguranță după necaz, 3:154
 Sămânța, Cine o face să crească, 56:63-67
 Simțuri, 23:78
-Șapte, create,
+Șapte, create
 - ceruri, 2:29; 23:17; 65:12; 67:3; 71:15
 - și din pământ ca acolo, 65:12
-Umbră,
+Umbră
 - se închină la Allah, 13:15; 16:48
 răspândirea, 25:45
 Shams, S.91
@@ -1679,12 +1678,12 @@ Sclavi, 2:177-178; 4:25, 36, 92; 5:89; 24:33; 58:3; 90:13
 Somnul, un lucru pentru odihnă, 78:9
 Sodoma, 29:31; 37:136
 Sodomie, 7:80-82; 11:77-83; 15:61-77; 29:28-29
-Solomon, 2:102; 4:163; 6:84;
-- îl ajută pe tatăl său, David, să ajungă la o judecată mai dreaptă 21:78-82;
+Solomon, 2:102; 4:163; 6:84
+- îl ajută pe tatăl său, David, să ajungă la o judecată mai dreaptă 21:78-82
 - și furnicile, 27:15-19
 - și pupăza, 27:20-26
 - și regina din Saba', 27:22-44; 34:15
-- Harul lui Allah asupra lui 34:12-14, 38:34-40;
+- Harul lui Allah asupra lui 34:12-14, 38:34-40
 - dragostea lui pentru caii frumoși 38:30-33
 Fiu adoptat, 33:4-5
 Suflet (spirit, Ruh), 15:29; 17:85; 58:22
@@ -1704,8 +1703,8 @@ Pradă de război, 8:41, 69; 48:15, 19-20; 48:15
 Spionaj, 49:12
 Steaua, 53:1, 49; 86:1-4
 Stele, 7:54; 15:16; 16:12, 16; 22:18; 25:61; 37:6-10; 56:75; 77:8; 81:2; 82:2
-Cale dreaptă, 1:6,
-- etc. Calea, 6:153,
+Cale dreaptă, 1:6
+- etc. Calea, 6:153
 - etc. Străduință, 4:95; 8:72, 74, 75; 9:20, 24, 81; 22:78; 25:52; 29:69:69; 47:3; 60:1; 61:11
 Suckling, termenul de, mamă adoptivă, 2:233
 Suferință, sărăcie, pierderea sănătății și calamități; prosperitate și bogăție, 7:94-96
@@ -1775,7 +1774,7 @@ Uza, 53:19
 Văl, un văl invizibil, 17:45-46
 Voal, 24:31; 33:59
 Versuri, Sab' Al-Mathani, 15:87
-Victorie,
+Victorie
 - dat de Allah, 48:1
 - cu ajutorul lui Allah, 61:13
 Virtuți (vezi Dreptate; Credincioși)
@@ -1792,7 +1791,7 @@ Calea, 1:6; 42:52-53; 90:10
 - etc. ușor, a face ușor, 87:8
 - vezi și Calea
 Călătorul, 2:177, 215; 8:41; 17:26; 29:29; 30:38; 59:7
-Avere,
+Avere
 - cine a adunat, 104:2-4
 - cheltuială pentru Cauza lui Allah (vezi Cheltuială)
 Bogăția și copiii, podoaba vieții acesteia, 18:46
@@ -1810,7 +1809,7 @@ Vin (în Paradis)
 - râuri de, 47:15
 - pur sigilat, 83:25
 Nu dori lucrurile în care Allah i-a făcut pe unii să-i întreacă pe alții. 4:32
-Martori,
+Martori
 - la legământul Profeților, 3:81
 - peste omenire, 2:143; 22:78
 - pentru un contract, 2:282
@@ -1820,7 +1819,7 @@ Martori,
 - mâinile și picioarele vor fi martore, 36:65
 - omul împotriva lui însuși, 75:14
 Ziua Martorilor și Ziua Martorilor, 85:3
-Soții,
+Soții
 - sunt o muncă de cultivat pentru tine, 2:223
 - acoperire pentru tine, 2:187
 - de felul tău, 16:72
@@ -1832,7 +1831,7 @@ Femei, 2:222-223; 4:15, 19-22, 34, 127
 - nu se explică clar în dispută, 43:17-18
 Pădurea, locuitori ai, 15:78; 38:13; 50:14
 - vezi si Aikah; Madyan 26:176-191
-Lume, viață a acesteia,
+Lume, viață a acesteia
 - nu este nimic altceva decât joacă și amuzament, 6:32; 29:64; 47:36; 57:20
 - înșală oamenii, 6:130
 - bucuria în Viața de Apoi este mai mică decât bucuria în Viața de Apoi, 9:38; 13:26; 28:60-61
@@ -1844,7 +1843,7 @@ Răufăcătorii, 11:18-22, 101-104, 116-117; 39:47
 - vezi și Necredincioși
 Wudu' (Abluțiuni), 4:43; 5:6
 Yaghuth, 71:23
-Yahya (Ioan),
+Yahya (Ioan)
 - vești bune despre, 3:39; 21:90
 - neprihănit, 6:85
 -înțelept; simpatic; ascultător, 19:12-15
@@ -1865,52 +1864,52 @@ Zaqqum, 17:60; 37:62-66; 44:43-46; 56:52
 Zukhruf, S.43
 Zumar, S.39
 Principii de bază
-- Credință desăvârșită 5:3;
-- singura Cale acceptată de Allah 3:19, 85;
-- nicio constrângere în acceptarea Islamului 2:256;
-- o religie cu credințe și coduri de legi diferite 5:48; 22:67-70; 42:13-14;
-- profeții Islamului 2:135-136; 3:84; 4:163-165;
-- porunci (ai credință în Allah și fă binele) 4:36; 6:151-154; 17:23-39; 18:107-108;
-- cinci obiective ale Sharia: protejarea credinței 5:54;
-- ocrotirea vieții 5:32;6:151;
-- protejarea averii 5:38;
-- protejarea onoarei 5:5;24:4;
+- Credință desăvârșită 5:3
+- singura Cale acceptată de Allah 3:19, 85
+- nicio constrângere în acceptarea Islamului 2:256
+- o religie cu credințe și coduri de legi diferite 5:48; 22:67-70; 42:13-14
+- profeții Islamului 2:135-136; 3:84; 4:163-165
+- porunci (ai credință în Allah și fă binele) 4:36; 6:151-154; 17:23-39; 18:107-108
+- cinci obiective ale Sharia: protejarea credinței 5:54
+- ocrotirea vieții 5:32;6:151
+- protejarea averii 5:38
+- protejarea onoarei 5:5;24:4
 - protejarea capacității cuiva de a gândi 5:90.
 Credința în Allah 2:255
-- Calități divine, Nume frumoase 57:1-6; 59:22-24; 85:13-16; 112:1-4;
-- singurul dumnezeu vrednic de închinare 1:1-4; 2:285; 6:3; 43:84;
-- toată autoritatea Îi aparține 3:26; Tronul Său ('Arsh) 7:54; 11:7;
-- Kursi-ul său (scaunul sau scăunelul) 2:255;
-- nenumărate favoruri asupra omenirii 14:32-34; 2:164; 16:2-93; 31:20; 55:1-25;
-- dă viață și provoacă moartea 44:8; 53:44; 57:2; 67:2;
-- aduce bucurie și tristețe 53:43;
-- oferă provizii abundente sau limitate 13:26; 17:30; 29:62;
-- Cel mai bun dintre toți judecătorii 95:8;
-- Cel mai Milostiv dintre cei milostivi 12:92;
-- iubește pe cel drepți 85:14;
-- plin de Iertare și aspru în pedepse 13:6, 40:3;
-- Primul și Ultimul 57:3;
-- toată cinstea și puterea Îi aparțin 35:10;
-- cunoaște necunoscutul și vede nevăzutul 6:59,73; 9:94, 105; 13:8-10; 31:34; 32:6; 34:48; 35:38; 39:46; 49:18; 59:22; 62:8; 64:18; 72:26; 74:31; 87:7;
-- știe cel mai bine ce este ascuns în inimă 5:7; 11:5; 31:23;
-- știe ce s-a întâmplat și ce va urma 2:255;
-- a scris totul în Cronică (sau Tableta Păstrată) 6:38; 13:39; 36:12;
-- capabil să facă orice 2:117; 3:189; 8:41; 9:116; 11:4; 16:40; 40:68; 41:39; 42:49; 57:2;
-- Puterea Sa infinită 3:26-27; 24:45; 31:28-30;
-- a creat cerurile și pământul în șase zile și nu a obosit niciodată 46:33; 50:38;
-- creează cu cuvântul „Fii!” 36:81-83;
-- niciodată nedrept față de creația Sa 3:108; 4:40; 17:71; 21:47; 22:10; 26:209; 40:31; 41:46; 45:22; 50:29; 64:11; 78:6-16;
-- totul se supune Voinței Sale 3:83; 22:18; 30:26;
-- toți au nevoie de El 11:6; 35:15; 55:29;
-- încrede-te în El 10:84-85; 12:67; 25:58;
-- forme de comunicare divină 42:51;
-- vrednic de amintit de 2:21; 3:102; 4:1; 33:70-71; 59:18;
-- înțelepciunea este un dar de la El 2:269;
-- El nu are nevoie de nimeni 3:97; 6:133; 112:2;
-- nici unul în Trinitate 4:171;
-- nu are partener 6:101;
-- nu are copii 10:68; 19:35; 43:81; 72:3; 112:3;
-- nu are parteneri sau zei asociați 6:94; 7:191-195; 46:4-5;
+- Calități divine, Nume frumoase 57:1-6; 59:22-24; 85:13-16; 112:1-4
+- singurul dumnezeu vrednic de închinare 1:1-4; 2:285; 6:3; 43:84
+- toată autoritatea Îi aparține 3:26; Tronul Său ('Arsh) 7:54; 11:7
+- Kursi-ul său (scaunul sau scăunelul) 2:255
+- nenumărate favoruri asupra omenirii 14:32-34; 2:164; 16:2-93; 31:20; 55:1-25
+- dă viață și provoacă moartea 44:8; 53:44; 57:2; 67:2
+- aduce bucurie și tristețe 53:43
+- oferă provizii abundente sau limitate 13:26; 17:30; 29:62
+- Cel mai bun dintre toți judecătorii 95:8
+- Cel mai Milostiv dintre cei milostivi 12:92
+- iubește pe cel drepți 85:14
+- plin de Iertare și aspru în pedepse 13:6, 40:3
+- Primul și Ultimul 57:3
+- toată cinstea și puterea Îi aparțin 35:10
+- cunoaște necunoscutul și vede nevăzutul 6:59,73; 9:94, 105; 13:8-10; 31:34; 32:6; 34:48; 35:38; 39:46; 49:18; 59:22; 62:8; 64:18; 72:26; 74:31; 87:7
+- știe cel mai bine ce este ascuns în inimă 5:7; 11:5; 31:23
+- știe ce s-a întâmplat și ce va urma 2:255
+- a scris totul în Cronică (sau Tableta Păstrată) 6:38; 13:39; 36:12
+- capabil să facă orice 2:117; 3:189; 8:41; 9:116; 11:4; 16:40; 40:68; 41:39; 42:49; 57:2
+- Puterea Sa infinită 3:26-27; 24:45; 31:28-30
+- a creat cerurile și pământul în șase zile și nu a obosit niciodată 46:33; 50:38
+- creează cu cuvântul „Fii!” 36:81-83
+- niciodată nedrept față de creația Sa 3:108; 4:40; 17:71; 21:47; 22:10; 26:209; 40:31; 41:46; 45:22; 50:29; 64:11; 78:6-16
+- totul se supune Voinței Sale 3:83; 22:18; 30:26
+- toți au nevoie de El 11:6; 35:15; 55:29
+- încrede-te în El 10:84-85; 12:67; 25:58
+- forme de comunicare divină 42:51
+- vrednic de amintit de 2:21; 3:102; 4:1; 33:70-71; 59:18
+- înțelepciunea este un dar de la El 2:269
+- El nu are nevoie de nimeni 3:97; 6:133; 112:2
+- nici unul în Trinitate 4:171
+- nu are partener 6:101
+- nu are copii 10:68; 19:35; 43:81; 72:3; 112:3
+- nu are parteneri sau zei asociați 6:94; 7:191-195; 46:4-5
 - nimic ca El 42:11; 112:4
 Ordin pentru a reflecta asupra minunilor creației Sale 3:190; 6:99; 10:5-6; 13:3-4; 16:10-16; 88:17-20
 Semne în creație 2:164; 6:95-99; 7:57-58; 10:5-6; 13:2-4; 16:10-13, 65-69, 79; 23:27-30; 27:60-65; 30:19-25; 50:6-11
@@ -1931,21 +1930,21 @@ Semne în creație 2:164; 6:95-99; 7:57-58; 10:5-6; 13:2-4; 16:10-13, 65-69, 79;
 - burniță, grindină și ploaie 2:265; 6:99; 24:43; 50:9-11
 - tunete și fulgere 13:12-13
 Referințe științifice
-- oameni creați din gameți masculini și feminini 76:2;
-- fazele de formare și dezvoltare ale unui embrion 22:5; 23:12-14;
-- făt în trei straturi de întuneric 39:6;
-- apă salmastre 25:53-54; 35:12; 55:19-20;
-- polenizare prin vânt 15:22;
-- amprente digitale 75:3-4;
-- munții ca niște țăruși 78:7;
-- fier trimis jos 57:25;
-- receptori ai durerii 4:56;
-- soarele ca sursă radiantă și luna ca lumină reflectată 10:5;
-- divizarea lunii 54:1;
-- cerul ca o cupola bine protejată 21:32;
-- toate ființele create din apă 21:30; 24:45;
-- furnicile comunică 27:17-19;
-- unde interne 24:40;
+- oameni creați din gameți masculini și feminini 76:2
+- fazele de formare și dezvoltare ale unui embrion 22:5; 23:12-14
+- făt în trei straturi de întuneric 39:6
+- apă salmastre 25:53-54; 35:12; 55:19-20
+- polenizare prin vânt 15:22
+- amprente digitale 75:3-4
+- munții ca niște țăruși 78:7
+- fier trimis jos 57:25
+- receptori ai durerii 4:56
+- soarele ca sursă radiantă și luna ca lumină reflectată 10:5
+- divizarea lunii 54:1
+- cerul ca o cupola bine protejată 21:32
+- toate ființele create din apă 21:30; 24:45
+- furnicile comunică 27:17-19
+- unde interne 24:40
 Ființe vii
 - îngeri 39:75
 - oameni (o autoritate pe pământ) 2:30; 6:165; 16:4
@@ -1978,366 +1977,366 @@ Ființe vii
 - păianjen 29:41
 - alții necunoscuți nouă 16:8
 Plante și fructe 6:99; 13:4; 16:11; 36:33-35
-- banane 56:29,
-- datele 19:25,
-- ierburi aromatice, castraveți, usturoi, linte și ceapă 2:61,
-- struguri 80:28,
-- măsline 6:99,
-- fig. 95:1,
-- rodii 55:68,
+- banane 56:29
+- datele 19:25
+- ierburi aromatice, castraveți, usturoi, linte și ceapă 2:61
+- struguri 80:28
+- măsline 6:99
+- fig. 95:1
+- rodii 55:68
 - dovleac 37:146
 Credința în Mahomed
-- Calități, doar un profet 3:144; 6:50; 7:188; 18:110;
-- să vestească adevărul 2:119; 35:24; 42:48;
-- pecetea profeților 33:40;
-- caracter nobil 3:159; 68:4;
-- un model de urmat 33:21;
-- ca o favoare pentru credincioși 3:164;
-- o milă pentru întreaga lume 21:107;
-- un mesager universal 4:170; 7:157-158; 34:28;
-- duce la Calea Cea Dreaptă 42:52-53;
-- îi pasă de oameni 9:129;
-- ca martor în Ziua Judecății 4:42; 16:89;
-- profet neînvățat 7:157-158; 29:48; 62:2;
-- profețit în Tora și Evanghelia 7:157;
+- Calități, doar un profet 3:144; 6:50; 7:188; 18:110
+- să vestească adevărul 2:119; 35:24; 42:48
+- pecetea profeților 33:40
+- caracter nobil 3:159; 68:4
+- un model de urmat 33:21
+- ca o favoare pentru credincioși 3:164
+- o milă pentru întreaga lume 21:107
+- un mesager universal 4:170; 7:157-158; 34:28
+- duce la Calea Cea Dreaptă 42:52-53
+- îi pasă de oameni 9:129
+- ca martor în Ziua Judecății 4:42; 16:89
+- profet neînvățat 7:157-158; 29:48; 62:2
+- profețit în Tora și Evanghelia 7:157
 - prezis de Isus 61:6
 Provocările cu care s-a confruntat Profetul ( Pacea și binecuvântarea lui Allah fie asupra sa )
-- cererile fără sens ale păgânilor 8:32; 15:7; 17:89-93; 25:7-8;
-- acuzații false 10:2; 11:13; 21:5; 24:11-26; 25:4-6; 37:36; 38:4; 52:29-30;
-- atentate la viața sa 8:30; 9:74;
-- avertisment pentru cei care i se opun sau i se fac rău 4:115; 8:13; 9:61; 15:95; 33:57; 47:32; 96:9-19;
-- i s-a ordonat să răspundă cu răbdare la negare 20:130; 30:60; 46:35; 70:5;
+- cererile fără sens ale păgânilor 8:32; 15:7; 17:89-93; 25:7-8
+- acuzații false 10:2; 11:13; 21:5; 24:11-26; 25:4-6; 37:36; 38:4; 52:29-30
+- atentate la viața sa 8:30; 9:74
+- avertisment pentru cei care i se opun sau i se fac rău 4:115; 8:13; 9:61; 15:95; 33:57; 47:32; 96:9-19
+- i s-a ordonat să răspundă cu răbdare la negare 20:130; 30:60; 46:35; 70:5
 - a fost asigurut de Allah 5:67; 93:1-11; 94:1-8
 Lecții din viața Profetului ( ﷺ )
-- de la emigrarea sa (hijrah) până la bătălia de la Badr 3:121-129; 8:42-44; 8:65-71;
-- Bătălia de la Uhud 3:151-180;
-- Bătălia de la Tranșee 33:9-27;
-- Bătălia de la Hunain 9:25-27;
-- Medina 9:40; Tabuk 9:38-123;
-- Banu An-Naḍîr 59:2-6;
-- Hamra' Al-Asad 3:172-175;
+- de la emigrarea sa (hijrah) până la bătălia de la Badr 3:121-129; 8:42-44; 8:65-71
+- Bătălia de la Uhud 3:151-180
+- Bătălia de la Tranșee 33:9-27
+- Bătălia de la Hunain 9:25-27
+- Medina 9:40
+- Tabuk 9:38-123
+- Banu An-Naḍîr 59:2-6
+- Hamra' Al-Asad 3:172-175
 - Armistițiul lui Hudaibiyah 48:1-7; 48:10-29
 Onoruri acordate Profetului ( ﷺ )
-- Allah și îngerii Săi să-l binecuvânteze 33:56;
-- călătorie nocturnă de la Mecca la Ierusalim 17:1;
-- călătorie spre ceruri 53:1-18;
-- onorat în această viață și în cea viitoare 17:79; 66:8; 108:1;
-- ascultarea față de el este ascultare față de Allah 4:80;
-- răsplata ascultării de Allah și de Mesagerul Său 4:69;
-- familia sa purificată 33:33-34;
-- îl vede pe Gabriel în adevărata sa formă 53:1-18;
-- credincioșii cărora li s-a poruncit să-l asculte 59:7;
+- Allah și îngerii Săi să-l binecuvânteze 33:56
+- călătorie nocturnă de la Mecca la Ierusalim 17:1
+- călătorie spre ceruri 53:1-18
+- onorat în această viață și în cea viitoare 17:79; 66:8; 108:1
+- ascultarea față de el este ascultare față de Allah 4:80
+- răsplata ascultării de Allah și de Mesagerul Său 4:69
+- familia sa purificată 33:33-34
+- îl vede pe Gabriel în adevărata sa formă 53:1-18
+- credincioșii cărora li s-a poruncit să-l asculte 59:7
 - eticheta vorbirii cu el 49:1-5
-- eticheta vizitei la el 33:53;
-- eticheta în relațiile cu soțiile sale 33:53;
-- Allah este mulțumit de el și de tovarășii săi 9:100; 9:117;
+- eticheta vizitei la el 33:53
+- eticheta în relațiile cu soțiile sale 33:53
+- Allah este mulțumit de el și de tovarășii săi 9:100; 9:117
 - excelența comunității sale de credință 2:143; 3:110
-Rugăciunea (salah) 2:45; 9:103; 51:18; 70:22-23; 75:31; 96:10; 108:2;
-- Congregația de vineri 62:9;
-- direcția rugăciunii (qiblah) 2:144; 2:149-150;
-- ar trebui să descurajeze pe cineva de la fapte rele 29:45;
-- timpuri 11:114; 17:78; 17:79; 20:130; 24:36; 24:58; 30:17-18; 32:16; 38:18; 50:39-40; 51:17; 52:48-49; 73:2-4; 76:25-26;
-- în timp ce se află în pericol sau într-o călătorie 2:239; 4:101-102;
-- avertisment pentru cei care neglijează rugăciunile 19:59; 74:38-47; 107:5-7;
+Rugăciunea (salah) 2:45; 9:103; 51:18; 70:22-23; 75:31; 96:10; 108:2
+- Congregația de vineri 62:9
+- direcția rugăciunii (qiblah) 2:144; 2:149-150
+- ar trebui să descurajeze pe cineva de la fapte rele 29:45
+- timpuri 11:114; 17:78; 17:79; 20:130; 24:36; 24:58; 30:17-18; 32:16; 38:18; 50:39-40; 51:17; 52:48-49; 73:2-4; 76:25-26
+- în timp ce se află în pericol sau într-o călătorie 2:239; 4:101-102
+- avertisment pentru cei care neglijează rugăciunile 19:59; 74:38-47; 107:5-7
 - rugăciunile ipocriților 4:142; 9:54
-Purificare, abluțiune (wudu) 5:6;
-- baie completă (ghusl) 2:222; 4:43;
+Purificare, abluțiune (wudu) 5:6
+- baie completă (ghusl) 2:222; 4:43
 - abluțiune uscată (tayammum) 4:43; 5:6
 Implorări (du'a)
-- despre Avraam 2:126-129; 2:126-129; 14:35-41; 26:83-89;
-- Adam și Eva 7:23;
-- Isus 5:114;
-- Iov 21:83; 21:83;
-- Iona 21:87;
-- Iosif 12:33; 12:101;
-- Moise 10:88-89; 20:25-35;
+- despre Avraam 2:126-129; 2:126-129; 14:35-41; 26:83-89
+- Adam și Eva 7:23
+- Isus 5:114
+- Iov 21:83; 21:83
+- Iona 21:87
+- Iosif 12:33; 12:101
+- Moise 10:88-89; 20:25-35
 - Mahomed 17:80; 20:114
-- Noe 23:26; 26:117-118; 54:9-10; 71:26; 71:28;
-- Solomon 38:35;
-- Șuaib 7:89;
-- Zaharia 3:38; 19:2-6; 21:89-90;
-- îngeri 40:8-9;
-- Mama Mariei 3:35-36;
-- Soția faraonului 66:11;
-- Magicienii faraonului 7:126;
-- Regele Saul și credincioșii care erau cu el 2:250;
-- credincioșii copiilor lui Israel 10:85-86;
-- oamenii din peșteră 18:10;
-- cei drepți 2:285-286; 3:8-9; 3:16; 3:147; 3:191-194; 25:74; 59:10;
+- Noe 23:26; 26:117-118; 54:9-10; 71:26; 71:28
+- Solomon 38:35
+- Șuaib 7:89
+- Zaharia 3:38; 19:2-6; 21:89-90
+- îngeri 40:8-9
+- Mama Mariei 3:35-36
+- Soția faraonului 66:11
+- Magicienii faraonului 7:126
+- Regele Saul și credincioșii care erau cu el 2:250
+- credincioșii copiilor lui Israel 10:85-86
+- oamenii din peșteră 18:10
+- cei drepți 2:285-286; 3:8-9; 3:16; 3:147; 3:191-194; 25:74; 59:10
 - cei asupriți 4:75
 Versete de prosternare
 - sajadat, pluralul lui sajdah, 7:206; 13:15; 16:49; 17:109; 19:58; 22:18; 22:77; 25:60; 27:26; 32:15; 38:24; 41:37; 53:62; 84:21; 96:19
-Taxa de pomană (zakah), ca obligație 2:110; 2:177; 2:277; 6:141;
-- una dintre calitățile credincioșilor 22:41; 23:4; 51:19;
+Taxa de pomană (zakah), ca obligație 2:110; 2:177; 2:277; 6:141
+- una dintre calitățile credincioșilor 22:41; 23:4; 51:19
 - destinatari 9:60
 - caritate (sadaqah) 2:177; 2:261-263; 2:267-274; 3:92; 63:10
 - avertisment pentru cei care rețin 3:180; 9:34; 47:38
 Postul (sawm)
-- în Ramadan 2:183-185;
-- ore de post 2:187;
-- scutiri 2:184-185;
-- relații intime în noaptea precedentă postului 2:187;
+- în Ramadan 2:183-185
+- ore de post 2:187
+- scutiri 2:184-185
+- relații intime în noaptea precedentă postului 2:187
 - postul în timpul pelerinajului 2:196
-Pelerinaj (hajj),
-- o obligație pentru cei care și-o pot permite 3:97;
-- ritualuri și rânduieli 2:158; 2:189; 2:196-203; 5:2; 22:26-37;
-- ofrande de sacrificiu 2:196; 22:36-37;
-- interzicerea vânătorii pe uscat în timpul pelerinajului 5:1; 5:94-95;
+Pelerinaj (hajj)
+- o obligație pentru cei care și-o pot permite 3:97
+- ritualuri și rânduieli 2:158; 2:189; 2:196-203; 5:2; 22:26-37
+- ofrande de sacrificiu 2:196; 22:36-37
+- interzicerea vânătorii pe uscat în timpul pelerinajului 5:1; 5:94-95
 - permisiunea vânătorii pe mare 5:96
 - Pelerinajul mic ('umrah) 2:158; 2:196
 Comunități de credință
-- Musulmani 2:132-136; 3:64; 3:84; 5:111; 22:77-78; 33:35; 41:33; 43:67-70; 72:14-15;
-- păzitori unii altora 3:28; 9:71;
-- Creștini 2:62; 2:111-140; 4:171-172; 5:14-19; 5:82-86; 5:116-120; 9:30-31; 22:17;
-- Evrei 2:62, 111-140; 5:44-45; 6:146; 22:17; 62:6-8;
-- Copiii lui Israel 2:40-103, 122-123, 246-251; 3:49; 3:93-94; 5:12-13, 20-26, 32, 70-71, 78-81; 7:137-141, 148-153, 159-171; 10:83-93; 14:5-8; 17:2-8, 104; 20:80-98; 26:52-67, 197; 27:76; 44:23-33; 45:16-17; 46:10; 61:5-6;
+- Musulmani 2:132-136; 3:64; 3:84; 5:111; 22:77-78; 33:35; 41:33; 43:67-70; 72:14-15
+- păzitori unii altora 3:28; 9:71
+- Creștini 2:62; 2:111-140; 4:171-172; 5:14-19; 5:82-86; 5:116-120; 9:30-31; 22:17
+- Evrei 2:62, 111-140; 5:44-45; 6:146; 22:17; 62:6-8
+- Copiii lui Israel 2:40-103, 122-123, 246-251; 3:49; 3:93-94; 5:12-13, 20-26, 32, 70-71, 78-81; 7:137-141, 148-153, 159-171; 10:83-93; 14:5-8; 17:2-8, 104; 20:80-98; 26:52-67, 197; 27:76; 44:23-33; 45:16-17; 46:10; 61:5-6
 - Oamenii Cărții (în principal evrei și creștini) 2:109; 3:64-115, 199; 4:123-172; 5:15-77; 6:20-21; 13:36; 28:52-55; 29:46-47; 57:16, 28-29; 74:31; 98:1-5
 - Musulmanii pot mânca din animalele sacrificate de ei și se pot căsători cu femeile lor 5:5
-- alimente interzise evreilor 6:146;
-- Sabei 2:62; 22:17;
-- Magi 22:17;
-- politeiști (păgâni, închinători la idoli) 3:186; 6:148; 9:6, 17; 10:28; 16:86; 22:17; 53:19-30;
-- practici superstițioase păgâne 2:189; 5:103; 6:138-144;
+- alimente interzise evreilor 6:146
+- Sabei 2:62; 22:17
+- Magi 22:17
+- politeiști (păgâni, închinători la idoli) 3:186; 6:148; 9:6, 17; 10:28; 16:86; 22:17; 53:19-30
+- practici superstițioase păgâne 2:189; 5:103; 6:138-144
 - atei 52:35-36
 Practicile păgâne interzise
-- îngroparea fiicelor de vii 16:58-59; 81:8-9;
-- uciderea copiilor de teama sărăciei 6:137; 6:151; 17:31;
-- fluierat și bătut din palme în jurul Ka'bei 8:35;
-- dedicarea cămilelor idolilor 5:103; 6:136;
-- jertfirea în numele idolilor 6:121;
-- divorț de Zihar 33:4; 58:2-4;
-- ila' (timp de mai mult de patru luni) 2:226-227;
-- tragerea la sorți pentru decizii 5:3;
-- înconjurarea Ka'bahului gol 7:26-28;
+- îngroparea fiicelor de vii 16:58-59; 81:8-9
+- uciderea copiilor de teama sărăciei 6:137; 6:151; 17:31
+- fluierat și bătut din palme în jurul Ka'bei 8:35
+- dedicarea cămilelor idolilor 5:103; 6:136
+- jertfirea în numele idolilor 6:121
+- divorț de Zihar 33:4; 58:2-4
+- ila' (timp de mai mult de patru luni) 2:226-227
+- tragerea la sorți pentru decizii 5:3
+- înconjurarea Ka'bahului gol 7:26-28
 - intrarea în case pe ușile din spate după pelerinaj 2:189
-Obiecte de cult,
-- îngeri (printre unii arabi păgâni) 34:40;
-- Al-Aykah (printre oamenii lui Shu'aib) 26:176;
-- Ba'l (printre oamenii lui Elias 37:125;
-- Isus (în creștinism) 5:17;
-- idoli (dintre poporul lui Avraam) 21:52-53;
-- idolii lui Lat, Uzza și Manat (printre păgânii arabi) 53:19-20;
-- idolii lui Wadd, Suwa', Yaghuth, Ya'uq și Nasr (dintre oamenii lui Noe) 71:23;
-- soarele (poporul din Șeba) 27:24;
-- Sirius (printre unii arabi păgâni) 53:49;
-- Faraon (în Egiptul antic) 26:29; 28:38; 79:24;
-- dorințe 25:43-44; 45:23;
+Obiecte de cult
+- îngeri (printre unii arabi păgâni) 34:40
+- Al-Aykah (printre oamenii lui Shu'aib) 26:176
+- Ba'l (printre oamenii lui Elias 37:125
+- Isus (în creștinism) 5:17
+- idoli (dintre poporul lui Avraam) 21:52-53
+- idolii lui Lat, Uzza și Manat (printre păgânii arabi) 53:19-20
+- idolii lui Wadd, Suwa', Yaghuth, Ya'uq și Nasr (dintre oamenii lui Noe) 71:23
+- soarele (poporul din Șeba) 27:24
+- Sirius (printre unii arabi păgâni) 53:49
+- Faraon (în Egiptul antic) 26:29; 28:38; 79:24
+- dorințe 25:43-44; 45:23
 - credința în mai mulți zei este respinsă 17:42-43; 21:21-24; 25:3
-Lăcașuri de cult, moschei 9:18;
-- biserici, sinagogi și mănăstiri 22:40;
-- sanctuar 3:39; 38:21;
+Lăcașuri de cult, moschei 9:18
+- biserici, sinagogi și mănăstiri 22:40
+- sanctuar 3:39; 38:21
 - templu 17:7
 - Titluri religioase, preoți, călugări și rabini 5:44; 5:63; 5:82; 9:31-34
-Îngeri,
+Îngeri
 - întrebați despre crearea lui Adam 2:30-34
-- nu ascultați niciodată de Allah 21:26-27; 66:6;
-- nu sunt fiicele lui Allah 21:26; 43:16-19;
-- îngeri păzitori 13:11;
-- doi îngeri care înregistrează 50:16-18; 82:10-12;
-- opt purtând Tronul lui Allah în Ziua Judecății 69:17;
-- nouăsprezece păzitori ai Iadului 74:26-31;
-- Îngerii morții 6:93; 16:28; 32:11;
-- Gabriel 2:97; 66:4; 26:192-195; 53:1-14;
-- Mihail 2:98;
+- nu ascultați niciodată de Allah 21:26-27; 66:6
+- nu sunt fiicele lui Allah 21:26; 43:16-19
+- îngeri păzitori 13:11
+- doi îngeri care înregistrează 50:16-18; 82:10-12
+- opt purtând Tronul lui Allah în Ziua Judecății 69:17
+- nouăsprezece păzitori ai Iadului 74:26-31
+- Îngerii morții 6:93; 16:28; 32:11
+- Gabriel 2:97; 66:4; 26:192-195; 53:1-14
+- Mihail 2:98
 - Malik 43:77
 Mesageri
-- dintre îngeri și oameni 22:75;
+- dintre îngeri și oameni 22:75
 - Mesageri cu o hotărâre fermă (Avraam, Noe, Moise, Isus și Mahomed ﷺ ) 33:7; 42:13; 46:35
 Scripturi
-- Coranul, o revelație de la Allah 12:2-3; 20:2-4; 26:192-195; 32:2-3;
-- o aducere aminte pentru întreaga lume 68:51-52;
-- îndrumă spre cea mai dreaptă cale de viață 17:9;
-- revelația a început în luna Ramadan 2:185;
-- într-o noapte binecuvântată 44:3;97:1-5;
-- revelat în etapele 17:105-106;
-- ușor de reținut 54:17;
-- confirmă adevărul din revelațiile anterioare 3:3-4;
-- o autoritate supremă asupra versetelor anterioare din versetul 5:48;
-- fără îndoială în 2:2; 10:37;
-- fără contradicții 4:82;
-- nu este inventat 10:37-39;
-- nu este copiat din Biblie 25:4-6;
-- nu este revelat de diavoli 26:210-212;
+- Coranul, o revelație de la Allah 12:2-3; 20:2-4; 26:192-195; 32:2-3
+- o aducere aminte pentru întreaga lume 68:51-52
+- îndrumă spre cea mai dreaptă cale de viață 17:9
+- revelația a început în luna Ramadan 2:185
+- într-o noapte binecuvântată 44:3;97:1-5
+- revelat în etapele 17:105-106
+- ușor de reținut 54:17
+- confirmă adevărul din revelațiile anterioare 3:3-4
+- o autoritate supremă asupra versetelor anterioare din versetul 5:48
+- fără îndoială în 2:2; 10:37
+- fără contradicții 4:82
+- nu este inventat 10:37-39
+- nu este copiat din Biblie 25:4-6
+- nu este revelat de diavoli 26:210-212
 - nimeni nu poate produce așa ceva 17:88; 2:23-24; 10:13-14; 11:13
-- protejat de corupție 15:9;
-- protejat în Tableta Păstrată 56:75-80;
-- nu poate fi dovedit fals 41:42;
-- prezice evenimente viitoare 30:1-7; 48:27;
-- îi mișcă pe credincioși până la lacrimi 5:83; 17:107-109;
-- atinge inimile 39:23;
-- lumină strălucitoare 4:174; 42:52;
+- protejat de corupție 15:9
+- protejat în Tableta Păstrată 56:75-80
+- nu poate fi dovedit fals 41:42
+- prezice evenimente viitoare 30:1-7; 48:27
+- îi mișcă pe credincioși până la lacrimi 5:83; 17:107-109
+- atinge inimile 39:23
+- lumină strălucitoare 4:174; 42:52
 - vindecare și milă pentru credincioși 17:82
 - Tora 3:3; 3:93; 5:46; 5:66-68, 110; 7:157; 9:111; 48:29; 61:6; 62:5
-- Evanghelia 3:3; 48; 5:46-47, 66-68, 77, 110; 7:157; 9:111; 48:29; 57:27
+- Evanghelia 3:3, 48; 5:46-47, 66-68, 77, 110; 7:157; 9:111; 48:29; 57:27
 - Psalmii 4:163; 17:55
 - Sulurile lui Avraam 53:36-44; 87:14-19
-Soartă și destin 3:145; 9:51; 10:107; 11:6; 54:49; 67:30;
+Soartă și destin 3:145; 9:51; 10:107; 11:6; 54:49; 67:30
 - liberă alegere 6:148-150; 11:118-119; 16:93; 33:72-73; 39:41; 76:1-3; 91:1-10
-Ziua Judecății,
-- nicio nedreptate 2:281; 18:49; 40:17;
-- ororile apocalipsei 22:1-2; 27:82-84, 87; 40:18; 52:11-16; 69:13-18; 70:8-18; 73:17-18; 75:7-15; 77:8-15; 78:17-20; 79:34-36; 80:33-42; 81:1-14; 82:1-5; 84:1-5; 87:17-40; 99:1-8; 101:1-11;
-- cei drepți și cei răi în Ziua aceea 11:105-108; 16:27-33, 84-89; 18:52-53; 20:100-111; 25:24-29; 30:12-16; 33:63-68; 39:68-75; 50:20-35; 55:37-41; 83:4-36;
+Ziua Judecății
+- nicio nedreptate 2:281; 18:49; 40:17
+- ororile apocalipsei 22:1-2; 27:82-84, 87; 40:18; 52:11-16; 69:13-18; 70:8-18; 73:17-18; 75:7-15; 77:8-15; 78:17-20; 79:34-36; 80:33-42; 81:1-14; 82:1-5; 84:1-5; 87:17-40; 99:1-8; 101:1-11
+- cei drepți și cei răi în Ziua aceea 11:105-108; 16:27-33, 84-89; 18:52-53; 20:100-111; 25:24-29; 30:12-16; 33:63-68; 39:68-75; 50:20-35; 55:37-41; 83:4-36
 - mijlocire (shafa'ah) 2:48, 255; 6:51, 70; 10:3; 21:28; 32:4; 36:23; 39:43-44; 43:86; 53:26;74:48
-Înregistrări ale faptelor 17:13; 18:49;
-- credincioșii își primesc raportul cu mâna dreaptă 69:19-24; 84:7-9;
-- necredincioșii își primesc raportul cu mâna stângă 69:25-37; 84:10-15;
-- nimic nu va fi ascuns de Allah 21:47; 40:16;
-- cântărirea faptelor 7:8; 23:102-104; 101:1-11;
-- mărturia organelor trupești 41:19-24; 24:24;
+Înregistrări ale faptelor 17:13; 18:49
+- credincioșii își primesc raportul cu mâna dreaptă 69:19-24; 84:7-9
+- necredincioșii își primesc raportul cu mâna stângă 69:25-37; 84:10-15
+- nimic nu va fi ascuns de Allah 21:47; 40:16
+- cântărirea faptelor 7:8; 23:102-104; 101:1-11
+- mărturia organelor trupești 41:19-24; 24:24
 - răsplată pentru fapte bune și rele 6:160; 27:89-90; 28:84
 Tipuri de oameni
-- credincioși 18:107-108;
-- necredincioși 4:167-169;
-- ipocriți 4:145; 57:13-15;
-- locuitori ai Paradisului, credincioșii cei mai de seamă 55:46-61; 56:10-26;
-- locuitori ai Paradisului, oameni ai dreptății 55:62-78; 56:27-40;
-- locuitori ai Iadului, oameni de stânga 55:31-45; 56:41-56;
+- credincioși 18:107-108
+- necredincioși 4:167-169
+- ipocriți 4:145; 57:13-15
+- locuitori ai Paradisului, credincioșii cei mai de seamă 55:46-61; 56:10-26
+- locuitori ai Paradisului, oameni ai dreptății 55:62-78; 56:27-40
+- locuitori ai Iadului, oameni de stânga 55:31-45; 56:41-56
 - oameni pe înălțimi 7:46-49
 Financiar
-- Orientări de afaceri 2:188; 2:275; 2:282-283; 4:29; 4:58; 6:152; 17:34-35;
-24:36-37; 26:182; 30:39; 55:7-9; 62:9
-- Moșteniri, moșteniri opționale către nemoștenitori 2:180-183; 4:11-12;
+- Orientări de afaceri 2:188; 2:275; 2:282-283; 4:29; 4:58; 6:152; 17:34-35; 24:36-37; 26:182; 30:39; 55:7-9; 62:9
+- Moșteniri, moșteniri opționale către nemoștenitori 2:180-183; 4:11-12
 înainte de moarte în timpul unei călătorii 5:106-108
 - Mită 2:188
-- Datorii, bunătate în colectarea datoriilor 2:280;
-- redactarea și asistarea la un contract de datorie 2:282;
+- Datorii, bunătate în colectarea datoriilor 2:280
+- redactarea și asistarea la un contract de datorie 2:282
 - luarea de garanții 2:283
-- Moștenire, îndrumări 4:7; 4:32-33; 8:75;
-- cote de urmași și părinți 4:11;
-- soți/soții și frați/surori pe linie maternă 4:12;
-- frați/surori plini 4:176;
+- Moștenire, îndrumări 4:7; 4:32-33; 8:75
+- cote de urmași și părinți 4:11
+- soți/soții și frați/surori pe linie maternă 4:12
+- frați/surori plini 4:176
 - avertisment pentru cei care nu se conformează 4:13-14
-- Interes, interdicție și avertizare 2:275-281; 3:130-132;
+- Interes, interdicție și avertizare 2:275-281; 3:130-132
 - a devenit fără profit 30:39
 Juridic
 - legea trădării (hiraba) 5:33-34
-- Dreptate, apărarea dreptății 4:135; 5:8; 16:90-91;
-- apărarea drepturilor orfanilor și femeilor 4:127;
-- dreptate față de un evreu 4:105-112;
-- dreptate pentru un păgân 4:58;
+- Dreptate, apărarea dreptății 4:135; 5:8; 16:90-91
+- apărarea drepturilor orfanilor și femeilor 4:127
+- dreptate față de un evreu 4:105-112
+- dreptate pentru un păgân 4:58
 - corectitudine cu nemusulmanii 60:8-9
 - Represalii prin căi legale (cu opțiunea de a ierta) 2:178-179; 5:45; 16:126; 17:33; 42:37-43
-- Separarea dintre soț și soție, khul' 2:229;
+- Separarea dintre soț și soție, khul' 2:229
 - lian (a acuza de adulter) 24:6-10
 Politic
 - Conducerea treburilor prin consultare (shura) 3:159; 42:38
-- Lupta în autoapărare (jihad), etichetă 2:190-192; 2:216; 22:38-40;
-- să nu atace fără discriminare 4:94;
-- lupta pentru bărbații, femeile și copiii asupriți 4:75;
-- protejarea locurilor de cult 22:37;
-- răsplata martirilor 2:154; 3:169-171; 9:111; 57:19;
-- puterea militară descurajează potențialii inamici 8:60;
+- Lupta în autoapărare (jihad), etichetă 2:190-192; 2:216; 22:38-40
+- să nu atace fără discriminare 4:94
+- lupta pentru bărbații, femeile și copiii asupriți 4:75
+- protejarea locurilor de cult 22:37
+- răsplata martirilor 2:154; 3:169-171; 9:111; 57:19
+- puterea militară descurajează potențialii inamici 8:60
 - optând pentru pace 2:192; 8:61
 - Reconcilierea părților 49:9-10
 - Prizonieri de război, tratament 8:70; 47:4; 76:8
 Social
 - Adopție 33:4-5
 - Îngrijirea orfanilor 2:220; 4:2-10; 4:127; 6:152; 17:34
-- Divorț, arbitraj și împăcare 4:35; 4:128;
-- eticheta divorțului 2:229-231; 65:1-2;
-- zestrea și perioada de așteptare 2:226-241; 4:19-21; 33:49; 65:1-7;
-- soțul să nu ia înapoi nimic din zestre 4:20;
-- soția să nu fie hărțuită 65:6;
-- soția trebuie sprijinită financiar în timpul sarcinii 65:6;
-- în perioada ei de așteptare 65:6;
-- dacă alăptează copilul fostului soț, 65:6;
-- niciun părinte nu ar trebui să sufere din cauza copilului său 2:233;
+- Divorț, arbitraj și împăcare 4:35; 4:128
+- eticheta divorțului 2:229-231; 65:1-2
+- zestrea și perioada de așteptare 2:226-241; 4:19-21; 33:49; 65:1-7
+- soțul să nu ia înapoi nimic din zestre 4:20
+- soția să nu fie hărțuită 65:6
+- soția trebuie sprijinită financiar în timpul sarcinii 65:6
+- în perioada ei de așteptare 65:6
+- dacă alăptează copilul fostului soț, 65:6
+- niciun părinte nu ar trebui să sufere din cauza copilului său 2:233
 - optarea pentru doică 65:6
 - Încurajarea binelui și interzicerea răului 3:104; 3:110; 7:157; 9:71-72; 31:17
-- Echitatea ființelor umane 49:13;
-- bărbați și femei în fața lui Allah și a legii, 3:195; 4:124; 5:38; 16:97; 24:2; 40:40;
+- Echitatea ființelor umane 49:13
+- bărbați și femei în fața lui Allah și a legii, 3:195; 4:124; 5:38; 16:97; 24:2; 40:40
 - bărbații au un grad de responsabilitate superior femeilor 2:228
 - Hrănirea săracilor, orfanilor și captivilor 76:8-9
 - Iertarea și stăpânirea furiei 3:134; 42:40
 - Eliberarea sclavilor și ajutorarea lor 4:92; 5:89; 9:60; 24:33; 58:3; 90:13
 - Onorarea propriilor părinți 4:36; 17:23-25; 31:14-15
 - Smerenie 17:37; 31:18-19
-- Interpretarea viselor lui Avraam 37:102;
-- Interpretarea viselor lui Iosif 12:4; 12:36; 12:43;
+- Interpretarea viselor lui Avraam 37:102
+- Interpretarea viselor lui Iosif 12:4; 12:36; 12:43
 - Interpretarea viselor lui Mahomed 8:43; 48:27
 - Bunătate față de nemusulmani 60:8
-- Căsătorie 4:3; 4:129; 16:72; 30:21;
-- căsătoria femeilor legale și ilegale 4:22-24;
-- eticheta intimității 2:222-223;
-- sarcină și alăptare 2:233; 31:4; 46:15; 65:6;
-- recăsătorirea cu propria fostă soție 2:230;
-- ajutând persoanele singure să se căsătorească 24:32;
+- Căsătorie 4:3; 4:129; 16:72; 30:21
+- căsătoria femeilor legale și ilegale 4:22-24
+- eticheta intimității 2:222-223
+- sarcină și alăptare 2:233; 31:4; 46:15; 65:6
+- recăsătorirea cu propria fostă soție 2:230
+- ajutând persoanele singure să se căsătorească 24:32
 - manifestând subtil interes în timpul perioadei de așteptare 2:235
-- Jurăminte 2:224-225; 16:91-92; 16:94;
+- Jurăminte 2:224-225; 16:91-92; 16:94
 - repararea unui jurământ încălcat 5:89
 - Răbdare în vremuri dificile 2:45; 2:153-157; 3:186; 12:18; 12:83; 16:127-128; 70:5
-- Permisiunea de a intra 24:58-60;
-- intrarea în casele oamenilor 24:27-28;
+- Permisiunea de a intra 24:58-60
+- intrarea în casele oamenilor 24:27-28
 - intrarea în locuri publice 24:29
-- Etichetă socială, verificarea știrilor 4:83; 49:6;
-- respect pentru toți 49:11-12;
-- eticheta adunărilor 58:11;
+- Etichetă socială, verificarea știrilor 4:83; 49:6
+- respect pentru toți 49:11-12
+- eticheta adunărilor 58:11
 - discuții private 4:114; 58:9
 - Jurăminte 2:270; 9:75-77; 22:29; 76:7
 - Risipire și zgârcenie 7:31; 17:29; 25:67
 Alte povești
-- Abel și Cain 5:27-31;
-- Al-Khadir și Moise 18:60-82;
-- Armata Elefantului 105:1-4;
-- credinciosul din poporul lui Faraon 40:28-46;
-- nașterea Mariei 3:35-36;
-- Vaca copiilor lui Israel 2:67-74;
-- Ezra 2:259;
+- Abel și Cain 5:27-31
+- Al-Khadir și Moise 18:60-82
+- Armata Elefantului 105:1-4
+- credinciosul din poporul lui Faraon 40:28-46
+- nașterea Mariei 3:35-36
+- Vaca copiilor lui Israel 2:67-74
+- Ezra 2:259
 - proprietari de grădini 68:17-32
 - Harut și Marut 2:102
 - Core 28:76-82
-- Sfatul lui Luqman către fiul său 31:12-19;
-- proprietarul celor două grădini 18:32-44;
-- locuitorii din Șeba 34:15-19;
-- oamenii peșterii 18:9-26;
-- oamenii din tranșee 85:1-8;
-- Cei care încalcă Sabatul 7:163-165;
-- Samiri și vițelul de aur 20:83-97;
-- Saul și Samuel 2:247-251;
+- Sfatul lui Luqman către fiul său 31:12-19
+- proprietarul celor două grădini 18:32-44
+- locuitorii din Șeba 34:15-19
+- oamenii peșterii 18:9-26
+- oamenii din tranșee 85:1-8
+- Cei care încalcă Sabatul 7:163-165
+- Samiri și vițelul de aur 20:83-97
+- Saul și Samuel 2:247-251
 - Zul-Qarnain 18:83-98
-Diavoli 2:102; 6:71; 6:112; 6:121; 7:27; 7:30; 17:27; 19:68; 19:83; 22:3-4; 23:97-98; 26:210; 37:7-10; 38:37-38; 67:5;
-- oameni și djinni diabolici 6:112;114:6;
+Diavoli 2:102; 6:71; 6:112; 6:121; 7:27; 7:30; 17:27; 19:68; 19:83; 22:3-4; 23:97-98; 26:210; 37:7-10; 38:37-38; 67:5
+- oameni și djinni diabolici 6:112;114:6
 - cerul protejat împotriva demonilor 15:16-18
 Regrete
-- nu-l urmează pe Profet 25:27;
-- neascultarea de Allah și de Mesagerul Său 4:41-42; 33:64-68;
-- a lua prieteni răi 25:28-29; 26:96-102; 43:36-39;
-- tăgăduirea semnelor lui Allah 6:27-30;
+- nu-l urmează pe Profet 25:27
+- neascultarea de Allah și de Mesagerul Său 4:41-42; 33:64-68
+- a lua prieteni răi 25:28-29; 26:96-102; 43:36-39
+- tăgăduirea semnelor lui Allah 6:27-30
 - nu lucrează pentru Viața de Apoi 89:23-24
 Rugăciuni disperate
-- implorare pentru întoarcerea în lume 2:167; 6:27-28; 32:12-14; 42:44;
-- pentru o a doua șansă 35:36-37;
-- a fi scos din Foc 40:10-12;
-- pentru hrană și apă 7:51-52;
-- pentru mijlocitori 7:52-53;
-- a fi nivelat în țărână 4:41-42; 78:40;
+- implorare pentru întoarcerea în lume 2:167; 6:27-28; 32:12-14; 42:44
+- pentru o a doua șansă 35:36-37
+- a fi scos din Foc 40:10-12
+- pentru hrană și apă 7:51-52
+- pentru mijlocitori 7:52-53
+- a fi nivelat în țărână 4:41-42; 78:40
 - pentru moarte 43:74-78
 Calitățile celor drepți
 - respectarea drepturilor Creatorului și a creației Sale 3:133-136; 4:36; 4:69-70; 6:151-154; 8:2-4; 13:19-24; 17:23-39; 18:107-108; 23:1-11; 25:63-76; 42:36-43
 Calitățile celor răi
-- nerecunoscător 14:34;
-- zgârcit 17:100;
-- pripit 21:37;
-- pomeniți-L pe Allah doar în vremuri grele 10:12; 41:51;
-- nerăbdător 70:19;
+- nerecunoscător 14:34
+- zgârcit 17:100
+- pripit 21:37
+- pomeniți-L pe Allah doar în vremuri grele 10:12; 41:51
+- nerăbdător 70:19
 - argumentativ 18:54
 Păcate majore
 - asocierea altora cu Allah în închinare (shirk) 4:48; 4:116; 5:72; 6:19; 31:13:
-- abuzarea propriilor părinți 4:36; 6:151; 17:23;
-- neglijarea sau abandonarea rugăciunilor obligatorii 19:59-60;
-- neplata taxei de pomană 41:6-7;
-- crimă 6:151; 17:33;
-- uciderea intenționată a unui credincios 4:93;
-- furt 5:38;
-- fraudă 7:85; 11:85; 26:182-183; 83:1-6;
-- minciună 2:10; 9:77; 39:60;
-- minciuni despre Allah 6:93; 29:68; 61:7;
+- abuzarea propriilor părinți 4:36; 6:151; 17:23
+- neglijarea sau abandonarea rugăciunilor obligatorii 19:59-60
+- neplata taxei de pomană 41:6-7
+- crimă 6:151; 17:33
+- uciderea intenționată a unui credincios 4:93
+- furt 5:38
+- fraudă 7:85; 11:85; 26:182-183; 83:1-6
+- minciună 2:10; 9:77; 39:60
+- minciuni despre Allah 6:93; 29:68; 61:7
 - relații sexuale interzise 2:222; 17:32; 24:2; 25:68; 29:28-30
-- acuzații false de adulter 24:4-5;
-- apostazie 2:217; 5:54;
-- consumul de carne de porc și alte alimente interzise (hoturguri, sânge etc.) 5:3; 6:145;
-- alcoolul și jocurile de noroc 5:90-91;
-- bârfe 49:11;
-- mărturie mincinoasă 22:30;
+- acuzații false de adulter 24:4-5
+- apostazie 2:217; 5:54
+- consumul de carne de porc și alte alimente interzise (hoturguri, sânge etc.) 5:3; 6:145
+- alcoolul și jocurile de noroc 5:90-91
+- bârfe 49:11
+- mărturie mincinoasă 22:30
 - magie 2:102; 10:77; 20:69
 """;

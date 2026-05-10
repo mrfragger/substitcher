@@ -271,6 +271,26 @@ class _QuranPanelState extends State<QuranPanel> {
                   '${filtered.length} topics',
                   style: const TextStyle(color: Colors.white38, fontSize: 12),
                 ),
+                const SizedBox(width: 10),
+                const Text(
+                  '* no vtt subs yet on quranenc.com',
+                  style: TextStyle(color: Colors.white38, fontSize: 12),
+                ),
+                const SizedBox(width: 4),
+                Tooltip(
+                  message: 'csv needs to be complete, check back in 2028 or 2029',
+                  preferBelow: true,
+                  textStyle: const TextStyle(color: Colors.white, fontSize: 12),
+                  decoration: BoxDecoration(
+                    color: const Color(0xFF2A2A2A),
+                    borderRadius: BorderRadius.circular(6),
+                  ),
+                  child: const Icon(
+                    Icons.info_outline,
+                    color: Colors.white38,
+                    size: 14,
+                  ),
+                ),
                 const Spacer(),
                 TextButton(
                   onPressed: () => setState(() {

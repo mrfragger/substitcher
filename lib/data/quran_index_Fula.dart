@@ -5,18 +5,18 @@ Koo-koo Anndugo (Wudu), 4:43; 5:6
 Ibraahiima (Ibrahim) S.14; 2:135-136, 148; 3:33, 84, 95; 4:54, 125, 163; 6:161; 9:70, 114; 12:6, 38; 16:120; 19:58; 21:51, 60, 62, 69; 22:43, 78; 26:69; 29:31; 33:7; 37:83, 104, 109; 38:45; 42:13; 43:26; 51:24; 53:37; 57:26; 60:4; 87:19
 - wonaa Yahuudu wala Nasaara, 3:67-68
 - jooɗii e juulirde adannde e Bakkah, 3:97; 26:123
-- hisni asiise Ka'aba 2:124-129;
-- noddi yimɓe mum e juulde Alla Gooto oo 2:130-133; 26:69-89; 29:16; 29:24-27;
-- haaldii e laamɗo moƴƴaani 2:258,
-- ƴami ko faati e newnugol maayɓe 2:260;
-- wonaa Yahuudu wala Nasaara 3:65-68;
-- daɗni juuldere asamaandu 6:74-87;
-- nani khabar warngo Isiyaaka 11:69-76; 51:24-30;
-- du'aa'u mum e Ka'aba 14:35-41;
-- yehi maleyka 15:51-56;
-- hoore yimaawo 16:123;
-- noddi baaba mum e goonga 19:41-50;
-- halfi jiidaaji o waɗi o faayi e yiite 21:51-73; 37:83-113;
+- hisni asiise Ka'aba 2:124-129
+- noddi yimɓe mum e juulde Alla Gooto oo 2:130-133; 26:69-89; 29:16; 29:24-27
+- haaldii e laamɗo moƴƴaani 2:258
+- ƴami ko faati e newnugol maayɓe 2:260
+- wonaa Yahuudu wala Nasaara 3:65-68
+- daɗni juuldere asamaandu 6:74-87
+- nani khabar warngo Isiyaaka 11:69-76; 51:24-30
+- du'aa'u mum e Ka'aba 14:35-41
+- yehi maleyka 15:51-56
+- hoore yimaawo 16:123
+- noddi baaba mum e goonga 19:41-50
+- halfi jiidaaji o waɗi o faayi e yiite 21:51-73; 37:83-113
 - noddi fof e jippungol 22:26
 Abrar, 3:193, 198; 76:5; 82:13; 83:18-22
 Faayde-lefol, 2:106, 16:101
@@ -26,11 +26,10 @@ Aadama, 3:33, 59; 5:27; 7:26-27, 31, 35, 172; 17:70; 19:58; 36:60
 - maleyka fof faayde e dow mum, 2:34; 7:11
 - lekki miijo, 2:35; 7:19-20; 20:120-121
 - suutaare e Aljannaaji (bandu Hawwaa wonaa ko toɗɗaa), 2:36; 7:24
-- Alla newnii mo, Sheyɗaana haawi mo 2:30-38; 7:11-25; 17:61-65; 18:50; 20:115-123; 38:71-85;
+- Alla newnii mo, Sheyɗaana haawi mo 2:30-38; 7:11-25; 17:61-65; 18:50; 20:115-123; 38:71-85
 - Alla yaafii mo 2:37; 20:122
 'Adiyat, S.100
-Aljannaaji 'Adn, 9:72; 13:23; 16:31; 18:31;
-19:61; 20:76; 35:33; 38:50; 40:8; 61:12; 98:8
+Aljannaaji 'Adn, 9:72; 13:23; 16:31; 18:31;19:61; 20:76; 35:33; 38:50; 40:8; 61:12; 98:8
 Wahre
 - wonaa ko tooñiraa fof e naatirde cuku welnde woɗɗo, 6:164; 17:15; 35:18; 39:7; 53:38
 - wonaa ko tooñiraa fof faa ɓooyi, 2:286; 6:152; 7:42; 23:62
@@ -113,7 +112,7 @@ Riddaaji, 3:72; 3:86-88; 3:90-91; 3:167; 4:137; 5:54; 9:74; 9:107; 16:106; 33:14
 Riddaaɓe, 47:25
 A'raf, S.7; 7:46, 48
 Arafat, 2:198
-Haaldude,
+Haaldude
 - ƴama alaa e dow ɓe njaɓotaako hoɓɓe mum, 4:107
 - a haaldi e mum en e aduna o, kono hol ɗo Ñalnde Kiisaawo, 4:109
 Jaabawuuji/Jaagorɗe
@@ -123,7 +122,7 @@ Jiɓɓe faddiiɗe, 16:81
 'Asr, S.103
 Ayat Al-Kursi, 2:255
 Haaldoowo boneere e ɓee, 49:12; 104:1
-Badru (keeweendi), 3:13,
+Badru (keeweendi), 3:13
 - ko janngireɗen, 8:5-19, 42-48
 Al-Bait-ul-Ma'mur, 52:4
 Bakkah (Makkah), 3:96
@@ -133,7 +132,7 @@ Miizan, 7:8-9; 17:35; 21:47; 55:7-9; 57:25;101:6-9
 Banu An-Nadir, 59:2-6, 13
 Baqarah, S.2
 Bara'a (Hono Taubah), S.9
-Barzakh,(Keerol), 23:100; 25:53; 55:20;
+Barzakh,(Keerol), 23:100; 25:53; 55:20
 - hono 18:94-97; 34:54; 36:9
 Baiyinah, S.98
 Banaaki (e Ñalɗe Ɓaawo), 27:82
@@ -182,7 +181,7 @@ Liinjil, 5:64, 5:65, 5:68
 - waylugol ngol, 3:78; 5:14-15
 Ɓiɓɓe njiirɗe, 2:260; 3:49; 5:110; 6:38; 12:36, 41; 16:79; 21:79; 22:31; 24:41; 27:16-17, 20; 34:10; 38:19; 56:21; 67:19; 105:3
 Jiiddi (ciidii), 2:178-179; 4:92; 17:33
-Gaañaawo, gaygu, 4:94. 8:41; 59:6-8;
+Gaañaawo, gaygu, 4:94. 8:41; 59:6-8
 - ɓamnude e laawol bonɗo, 3:162
 - hono gaañaawo
 Ruswa, 2:188
@@ -200,12 +199,12 @@ Nagge, 3:14; 4:119; 5:1; 6:136, 138, 139, 142; 7:179; 10:24; 16:5-8, 10, 66, 80;
 Luunde Thawru, 9:40
 Luunde, yimɓe 18:9-22, 25-26
 Goonga e tiindol, 56:95; 69:51
-Daawuda, 5:78; 6:84; 17:55; 34:10, 13; 38:17-30;
+Daawuda, 5:78; 6:84; 17:55; 34:10, 13; 38:17-30
 - nanngi Zabuura 4:163
 - haarii o wari Jaluuta, 2:251
-- hukumii 21:78-80;
-- hokkaa miijo e annabiya 27:15-16;
-- tuggi dow ko tuggii e dow Alla 34:10; 38:17-20;
+- hukumii 21:78-80
+- hokkaa miijo e annabiya 27:15-16
+- tuggi dow ko tuggii e dow Alla 34:10; 38:17-20
 - hukumii hakkunde yimɓe ɗiɗo 38:21-26
 Dawabb wala Dabbah (kulle e nguurndam iwdi), 2:164; 6:38; 8:22, 55; 11:6, 56; 16:49, 61; 22:18; 24:45; 27:82; 29:60;31:10; 34:14; 35:28, 45; 42:29; 45:4
 Maayɓe newnugol, 6:36
@@ -215,17 +214,17 @@ Maayde, 3:185; 3:193; 4:78; 6:61; 6:93; 21:35; 23:99-108; 31:34; 32:11; 33:19; 3
 - jama'aaji ɓe njaɓaay tintugol wonaa boni, 6:131; 9:115; 10:47; 11:117; 15:4; 16:119; 17:15; 28:59
 - ɓe pooɗaaɓe e laawol Alla ngoni e nguurndam, 2:154; 3:169
 - tawi o yaha bonnooɓe e Alla, 4:100
-- waawaa haɗaade wala yaajaade 63:10-11;
-- miñiiko ɗiɗaɓo e ŋelaare 6:60; 39:42;
-- muminɓe e kaafiriiko e sahre maayde 8:50; 16:27-32; 41:30;
+- waawaa haɗaade wala yaajaade 63:10-11
+- miñiiko ɗiɗaɓo e ŋelaare 6:60; 39:42
+- muminɓe e kaafiriiko e sahre maayde 8:50; 16:27-32; 41:30
 - ciimtol e kalfinol 40:46
 Jillaaɓe, 2:280, 282; 4:11-12
-Hukumu,
+Hukumu
 - kala ko fof e ko waɗi ko, 13:38
 - wonaa boo ɗo fof ko tooñi o waɗii, e ko anndiraa faa nokkudu mo, 15:4
 - ko fof e ko fof nan Alla, 44:5
 - tawi o hukumi, o wiiat tan, "Woo!" — faa woni, 2:117; 36:82; 40:68
-Golle,
+Golle
 - boneeje njoornii e ɓe, 47:14
 - e min golle amin, e maa golle maa, 28:55; 42:15; 45:15
 - moƴƴere e boneere fof ngoni e hoore mum, 41:46
@@ -239,7 +238,7 @@ Dhariyat, S.51
 Dhikr, 7:205; 15:6, 9
 Dhul-Kifi, 21:85; 38:48
 Dhul-Qarain, 18:83-98
-Dhun-Nun (Tawfannde e Liingu),
+Dhun-Nun (Tawfannde e Liingu)
 Kaafiriiko (hono fof Munaafiɓe)
 - ƴama Muhammad (ﷺ) e haaɗde e ɓe ko hukumu Alla ko e ɓe, 6:57-58; 8:32; 10:49-52
 - daama ɓe e kaɓal, 31:15
@@ -264,7 +263,7 @@ Yimɓe luunde, 85:4-10
 Keeweendi
 - e yimɓe, 30:22, 35:27-28
 - e nguurndam, 35:27-28
-Talaaka, 2:228-232, 236-237, 241; 4:35, 130; 65:1-7;
+Talaaka, 2:228-232, 236-237, 241; 4:35, 130; 65:1-7
 - caggal tawi miijo, yaafoo wala jaɓto, 2:231; 65:2
 - seedaaɓe ɗiɗo, 65:2
 - nafaqa, 2:233, 241
@@ -300,7 +299,7 @@ Talaaka, Debbo
 - si luumo waɗaaka, 33:49
 Rewɓe, 7:176
 Mbabba (Jaawɓe), 2:259; 16:8; 31:19; 62:5; 74:50
-Yarude,
+Yarude
 - haramsundu, 2:219; 5:90
 - ceniingal e jalbere lakɗiingal, 37:45-46; 76:21
 - gaaɗi ceniingal, 83:25
@@ -323,13 +322,13 @@ Boneere, 4:123; 10:27-30; 19:83; 59:15
 - wayli, e moƴƴere, 7:95
 - ɓe ngol ɗon yiɗde boneere mum, 47:14, 16
 - golle njoornii e ɓe, 47:14
-Ɓooyngol,
+Ɓooyngol
 - haramiiji e ñiiɓirde, 5:87
 - e diina, 4:171; 5:77-81
 Gite, henndu e ɓanndi ngondanta e joofɓe, 41:20-23
 Uzayru, (Uzair) 9:30
 Yeeso wala Janano Alla, 2:115, 272; 6:52; 13:22; 18:28; 28:88; 30:38-39; 55:27; 76:9; 92:20
-Njoornii e ɗo,
+Njoornii e ɗo
 - Alla waɗi, e kala leñol ko waɗi golle mum, 6:108
 Tiiɗal (Miilo), 2:108; 3:167, 177, 193; 5:5; 9:23; 16:106; 30:56; 40:10; 42:52; 49:7, 11, 14; 52:21; 58:22; 59:9-10
 - haɗɓe tiiɗal, 3:116
@@ -339,7 +338,7 @@ Tiiɗal (Miilo), 2:108; 3:167, 177, 193; 5:5; 9:23; 16:106; 30:56; 40:10; 42:52;
 Fajr, S.89
 Falaq, S.113
 Haala fenaande e nder Kurani, 6:68
-Jiidaaji bonɗi,
+Jiidaaji bonɗi
 - caggal Alla, jiidaaji e ko miijaama yo tawtoɓe 7:194-198; 16:20-21, 72, 86; 21:22, 24; 34:22, 27; 41:47-48; 46:5-6; 53:19-24; 71:23-24
 - ƴama alaa yooɓaade ko ɓe mbaajotoo caggal Alla, 6:108
 - hono fof Taghut
@@ -354,7 +353,7 @@ Fidyah (diisugol), e roosugol, 2:196
 - e yooltude jiyaaɓe, 8:67
 - diisugol ko kaafiriiko nelata, 3:91; 5:36,37; 10:54; 13:18
 Jate, 95:1
-Keeweendi,
+Keeweendi
 - e laawol Alla, e kaafiriiko, 2:190-193, 244; 4:84, 95; 8:72, 74, 75; 9:12-16, 20, 24, 36, 123; 47:4; 61:11
 - toɗɗaama, 2:216
 - e lewtere seniiɗe, 2:217; 9:5
@@ -370,7 +369,7 @@ Fil, S.105
 Firdausi Aljannaaji, 18:107; 23:11
 Yiite, 56:71, 100:2
 Dammbiniiri, 22:73
-Ñaama,
+Ñaama
 - halal e haram, 2:168, 172, 173; 5:1, 3-5, 88; 6:118-119, 121, 145-146; 16:114-118; 23:51
 - wonaa balde ko nyaamɗen ko adii, 5:93
 - ƴama alaa ɓooyngol, 5:87
@@ -392,7 +391,7 @@ Yaafooye, 2:109; 4:48, 110, 116; 5:74; 7:199; 39:53; 42:5, 40-43; 45:14; 53:32; 
 - pooɗit e goɗɗo e yaafooye, 57:21
 - golle bonɗe ngayli e moƴƴe 25:68-71
 Fenaande, (hono njaɓɓugol) 83:1-6
-Suɓaare,
+Suɓaare
 - ko haɗi e Suɓaare Alla, 6:107; 10:99; 74:56;76:31; 81:28-29
 - ko fof yiɗi, taw o tiiɗa e kaafirde, 18:29
 - nana laawol e Joomi mum, 76:29
@@ -425,14 +424,14 @@ Moƴƴal (Balɗe), 3:140
 - Alla yoɓa ɓe ngaɗa moƴƴere e ko ɓuri, 53:31
 - si ngoni yoɓaari e moƴƴere caggal moƴƴere, 55:60
 - gaa moƴƴere ko Alla moƴƴiri e maa, 28:77
-Moƴƴere e Boneere,
+Moƴƴere e Boneere
 - moƴƴere iwi e Alla e boneere iwi e hoore maa,4:79
 - ko a moƴƴi, e hoore maa e ko a boni, e dow maa, 17:7;41:46
 - jaaboo boneere e moƴƴere, 23:96; 28:54; 41:34
 - moƴƴere e boneere fof ngalaa ko goo,41:34
 - kala yimaawo yeewa e ko waɗi e ko bonii, 3:30
 - hono fof Muhsinun
-Golle moƴƴe,
+Golle moƴƴe
 - feñnude wala suuɗde, 4:149
 - pooɗit e goɗɗo e, 5:48
 Linjiila, 3:3, 48, 65; 5:46-47, 66, 68, 110;7:157; 9:111; 48:29; 57:27
@@ -449,7 +448,7 @@ Wahre, ngoni e moƴƴal e kala, 94:5-6
 Haruuna, (Aarona)
 Haruuta, 2:102
 Hashr, S.59
-Reedu,
+Reedu
 - tiiɗi, 2:74; 22:53; 39:22; 57:16
 - jebbaama, 7:100-101; 40:35; 47:16; 63:3
 - udditaama, 17:46; 41:5
@@ -457,7 +456,7 @@ Reedu,
 - faɗtaama, 59:14
 - joli e kulol, 22:35
 - e reedu mum wondi e ñawu, 2:10; 5:52; 8:49; 9:125; 22:53; 24:50; 33:12, 32, 60; 47:20, 29;74:31
-Kammu,
+Kammu
 - ko suuɗi e kammu tan faa Alla, 16:77
 - ngelooba alaa, 21:16
 - e leydi ngoni gooto, 21:30
@@ -487,7 +486,7 @@ Jahannama (yiite, laabi ɓuleede) 2:24, 119, 161, 166, 201; 3:10, 12, 116, 131, 
 - muñal ɓuleede e gaari keweendi e, 38:57
 - silsila cubbugal e cappanɗe jeɗɗi, 69:32
 - jooɗaade sahre yaajunde, 78:23
-Aakhira,
+Aakhira
 - suudu moƴƴo e, 6:32; 7:169
 - ko woni ngawri e, 6:135
 - Zaalimuɓe ngonataa e moƴƴal (e), 6:135
@@ -504,7 +503,7 @@ Hijr (Lasal Keweendi), 15:80-85
 Hijr, S.15
 Yiɗde worɓe e worɓe 26:165-166; 27:55; 29:28-29
 Sordeeji, 16:8
-Waktu,
+Waktu
 - miijol ngol tan Alla anndi, 7:187; 31:34; 33:63; 41:47; 68:26; 79:42-46
 - yehi e ɓe gaawngal, 6:31; 7:187;12:107; 43:66
 - wari e maa, 6:40; 12:107; 20:15; 34:3
@@ -513,9 +512,9 @@ Waktu,
 - ñalnde, 22:1
 - heɓtiniraa, e Ñalnde, 30:12, 14
 - wii nii tan, alaa karallaagal e mum, 40:59;45:32; 51:5-6
-- calɗiiji 21:96; 27:82; 43:61; 47:18; 54:1-2;
-- innde 1:3; 2:4; 3:55; 19:39; 30:56; 37:21; 40:15; 41:47; 42:7; 50:20; 56:1; 64:9; 69:1; 79:34; 80:33; 88:1; 101:1-3;
-- wari e yimɓe gaawngal 6:31; 7:187;
+- calɗiiji 21:96; 27:82; 43:61; 47:18; 54:1-2
+- innde 1:3; 2:4; 3:55; 19:39; 30:56; 37:21; 40:15; 41:47; 42:7; 50:20; 56:1; 64:9; 69:1; 79:34; 80:33; 88:1; 101:1-3
+- wari e yimɓe gaawngal 6:31; 7:187
 - tuuba ɓamtiraa 6:73; 23:101; 39:68
 Suuɗe, newaare e naatirde, 24:27-29
 Huuda, 7:65-72; 11:50-60; 26:123-140; 46:21-26
@@ -524,7 +523,7 @@ Hujurat, S.49
 Humazah, S.104
 Hunain (keeweendi), 9:25
 Hur (rewɓe e Aljannaaji), 44:54; 52:20
-Munaafiɓe,
+Munaafiɓe
 - mbii: min mooɗii Alla e Ñalnde Ɓaawo, kono tiiɗaay tawi, 2:8
 - njaɓɓii hoɓɓe mum, 2:9
 - ñawu e reedu mum, 2:10; 8:49; 22:53;33:12; 47:29
@@ -568,8 +567,8 @@ Ilah, Gooto tan, 2:163; 6:19; 16:22, 51; 23:91; 37:4; 38:65
 Wooɗaaɗe boowal haram; seedeeji seedaaɓe, 4:15-18; 24:2, 19
 Illiyyun, 83:18-21
 Najas (Penaali) 9:28
-'Imraana,
-- jom suudu, 3:35;
+'Imraana
+- jom suudu, 3:35
 - ɓii debbo, 66:12
 Ko haɗi, 69:1-3
 Infitar, S.82
@@ -588,7 +587,7 @@ Iram, 89:7
 'Iisaa, hono Iisaa
 Isiyaaka, (Ishaq) 2:133; 4:163; 6:84; 19:49;21:72; 29:27; 37:112-113
 Ismaaiila (Isma'il), 2:125-129, 133; 4:163;6:86; 19:54-55; 21:85; 38:48
-hisni asiise Ka'aba e baaba mum 2:125-140;
+hisni asiise Ka'aba e baaba mum 2:125-140
 toon sacrifice 37:100-113
 Islama, 3:19, 85; 5:3; 6:125; 39:22; 61:7
 - aranirɓe e jippugol e Musliminaagu, 6:14,163; 39:12
@@ -617,8 +616,8 @@ Yaaquuba, (Ya'qub) 2:132-133; 4:163; 6:84;12:18; 19:49; 21:72; 29:27
 Jaluuta, (hono Jaluuta)
 Jamarat, 2:200
 Jathiyah, S.45
-Iisaa, Ɓii Maryama,
-- yumma mum suɓaama dow rewɓe aduna fof 3:42;
+Iisaa, Ɓii Maryama
+- yumma mum suɓaama dow rewɓe aduna fof 3:42
 - seedanto e Ñalnde Kiisaawo, 4:159
 - khabar moƴƴo warngo, 3:45-47; 19:22-23
 - Nelaaɗo e Ɓiɓɓe Israiila, 3:49-51
@@ -641,9 +640,9 @@ Iisaa, Ɓii Maryama,
 - miijooji faɗtiiɗi e mum, 43:65
 - wonaa fof ko jiyaado e hoore yimaawo e Ɓiɓɓe Israiila, 43:59
 - khabar moƴƴo e Nelaaɗo innde mum Ahmada, 61:6
-- warngo mum e tintugol e karallaaje 3:45-51; 19:16-38;
-- fiiydini e moƴƴaaɗe Alla 5:110-115;
-- haɗi joomtinde hoore mum 5:116-120;
+- warngo mum e tintugol e karallaaje 3:45-51; 19:16-38
+- fiiydini e moƴƴaaɗe Alla 5:110-115
+- haɗi joomtinde hoore mum 5:116-120
 - kiɗɗo e moƴƴal e reedu rewooɓe mo 5:82; 57:27
 Yahuudu e Nasaara, 2:140; 4:153-161, 171; 5:18
 - nana feere, 5:41-42
@@ -653,41 +652,41 @@ Yahuudu e Nasaara, 2:140; 4:153-161, 171; 5:18
 Jibrila, (hono Jibrila)
 Jihadu, (Keeweendi, Pooɗande) 2:216; 9:24; 22:78; 25:52
 Jinn, S.72
-Jinn, 6:100, 112; 15:27; 34:41; 38:37; 46:18,29; 55:33, 39;
-Jinn, ngelooba e yiite 15:25; 55:15;
-- jinn muminɓe e kaafiriiko 72:1-15;
+Jinn, 6:100, 112; 15:27; 34:41; 38:37; 46:18,29; 55:33, 39
+Jinn, ngelooba e yiite 15:25; 55:15
+- jinn muminɓe e kaafiriiko 72:1-15
 - ɓe njaɓi haala Kurani 46:29-32
 - yimɓe e jinn ngelooba e tiiɗe 51:56-58
 Ayuuba, 4:163; 6:84; 21:83-84; 38:41-44
-Yahyaa, (Yahya, Yahyaa Baptise),
+Yahyaa, (Yahya, Yahyaa Baptise)
 - khabar moƴƴo, 3:38-41; 19:7-11; 21:90
 - moƴƴo, 6:85
 - hakkilanteejo, kiɗɗo, teddungol e dow mawɓe, 19:12-15
-Yuunusa (Jonas wala Yunus), 4:163; 6:86; 10:98;21:87; 37:139-148;
+Yuunusa (Jonas wala Yunus), 4:163; 6:86; 10:98;21:87; 37:139-148
 - (Dhu n-Nun) 21:87; 68:48-50
 Yuusufa (Yusuf), 6:84; 12:4-101
-- toon khabar ɓuri moƴƴi 12:1-3;
-- yenkinaare Yuusufa pamaro 12:4-6;
-- toɗɗanɗe banndiraaɓe mum 12:7-18;
-- soodaama e jiyaagu 12:19-20;
+- toon khabar ɓuri moƴƴi 12:1-3
+- yenkinaare Yuusufa pamaro 12:4-6
+- toɗɗanɗe banndiraaɓe mum 12:7-18
+- soodaama e jiyaagu 12:19-20
 - newniraa e suudu Kaanwirɗo Mawɗo Misira 12:21-22
-- jom suudu Kaanwirɗo Mawɗo ɗaɓɓi mo 12:23-29;
-- banndungal ñaama 12:30-32;
-- yahii e kalfinol 12:33-35;
-- jiyaaɓe ɗiɗo 12:36-42;
-- yeenkinaare laamɗo 12:43-53;
-- heɓii Kaanwirɗo Mawɗo 12:54-57;
-- banndiraaɓe ngarii e makko e nder ñaama 12:58-68;
-- ɓami banndiraaɗo mum Banyamina 12:69-82;
-- muñal baaba mum newnii 12:83-87;
-- feñni ko o wonata 12:88-98;
-- yenkinaare adannde heɓti 12:99-100;
+- jom suudu Kaanwirɗo Mawɗo ɗaɓɓi mo 12:23-29
+- banndungal ñaama 12:30-32
+- yahii e kalfinol 12:33-35
+- jiyaaɓe ɗiɗo 12:36-42
+- yeenkinaare laamɗo 12:43-53
+- heɓii Kaanwirɗo Mawɗo 12:54-57
+- banndiraaɓe ngarii e makko e nder ñaama 12:58-68
+- ɓami banndiraaɗo mum Banyamina 12:69-82
+- muñal baaba mum newnii 12:83-87
+- feñni ko o wonata 12:88-98
+- yenkinaare adannde heɓti 12:99-100
 - du'aa'u pooɗande 12:101
 Juudi, Tugal, 11:44
 Jumu'ah, S.62
 Goonga (Adl), 2:282; 4:58, 135; 7:29; 16:90; 57:25
 - hono fof 4:65, 105
-Ka'aba,
+Ka'aba
 - hisnaama e Ibraahiima, 2:125-127
 - wonaa wari liingu, 5:94-96
 - kaɗtirde jam, 5:97
@@ -699,17 +698,17 @@ Kahf, S.18
 Kanz, 9:34-35
 Kauthar (maayo e Aljannaaji), 108:1
 Kauthar, S.108
-Saambuuje,
+Saambuuje
 e kammu e leydi, 39:63; 42:12
 e Gaibu, 6:59
 Khaawlata Bint Tha'laba, 58:1
-Warngo,
+Warngo
 - ko fof warii yimaawo, o warii yimɓe fof, 5:32
 - ƴama alaa warde yimaawo, 17:33
 Haala moƴƴunde ɓuri sadaaka, 2:263
 Hakke banndiraaɓe, 2:83, 177, 215; 4:7-9, 36;8:41; 16:90; 17:26; 24:22; 29:8; 30:38; 42:23
 Kiraman-Katibin, 82:11
-Miijo,
+Miijo
 - alaa jaasi e leydi, si O anndaa, 6:59
 - bonii ɓe warri ɓiɓɓe mum e gaadaaki, e alaa miijo, 6:140
 - e ko fof joweego, tan Alla, 31:34
@@ -719,14 +718,14 @@ Kursi, 2:255
 Lahab (hono Masad), S.111
 Lail, S.92
 Fanyal, 25:61; 67:5; 71:16; 78:13
-Demɗe,
+Demɗe
 - keeweendi e, e raneeji yimɓe, 30:22
 Lat, 53:19
 Sariya toɗɗaaɗo, 5:48
 Sariyaaji Alla, 2:219; 98:3
 Feenaanɓe, 26:221-223
 Nguurndam, ko fof hisni yimaawo, o hisni yimɓe fof, 5:32
-Nguurndam aduna oo,
+Nguurndam aduna oo
 - soodaama e naange aakhira, 2:86
 - wonaa fof ko tammbaari feere, 3:185
 - sood, e aakhira, 4:74
@@ -738,7 +737,7 @@ Nguurndam aduna oo,
 - ko fof yiɗi, heɓa e mum; kono aakhira wonaa naange mum, 11:15-16; 17:18; 42:20
 - yiɗɓe hannde, naaɗi aakhira, 75:20-21; 76:27
 - a suɓii, 87:16
-Nulngo,
+Nulngo
 - feñnaango, 4:174
 - e keweendi, 6:1
 - hono, 24:35
@@ -753,7 +752,7 @@ Haɗɗe Alla, 2:173, 187, 190, 230;9:112; 58:4; 65:1; 78:22
 - tawa ɓe ɓooyii haɗɗe, (ngayli biyaaɓe), 7:166
 - ɓe ndooŋta haɗɗe, 9:112
 Liingu, 74:51
-Jillaaɗo,
+Jillaaɗo
 - jillaa Alla jillaaɗo moƴƴo, 2:245; 73:20
 - ɓuri ɗuuɗde, 57:11, 18
 - jerɗe ɗiɗi, 64:17
@@ -771,7 +770,7 @@ Mahr (liggaari warngo), 2:229, 236-237; 4:4,19-21, 24-25; 5:5; 33:50; 60:10-11
 Ma'idah, S.5
 Makkah (Bakkah), 3:96;90:1-2
 - Saare Jam, 95:3
-Yimaawo,
+Yimaawo
 - lenñol caggal lenñol e leydi, 2:30;6:165
 - waɗaama jeyaaɗo, 35:39
 - ko haani, 2:83-84, 88, 177; 4:1-36; 8:41; 16:90;17:23-39; 24:22; 29:8-9; 30:38;33:33;42:23; 64:14; 70:22-35
@@ -836,7 +835,7 @@ Yimaawo,
 - ɓooyni haɗɗe fof, 96:6-7
 Manasiku (golle) Hajju, 2:128, 200; 22:30
 Manaata, 53:20
-Yimɓe,
+Yimɓe
 - seedaaɓe e dow, 2:143
 - jama'a gooto, 2:213; 10:19
 - ngelooba e gooto e gooto, 4:1; 39:6; 49:13
@@ -846,7 +845,7 @@ Yimɓe,
 - ɓuri mawnude e, 49:13
 - ngayli e leɗɗe e gonɗe, 49:13
 Manna e ɓiɓɓe njiirɗe, 2:57
-Newaare,
+Newaare
 - e naatirde suuɗe, 24:27-29
 - e nder suudu, 24:58-61
 - e suuɗe annabi, 33:53
@@ -869,7 +868,7 @@ Dewgal, 2:232, 234
 - ɓe ngalataa ngalu e dewgal, 24:33
 - rewɓe halal e annabi, 33:50-52
 - addata boowal, alaa iddah e talaaka, 33:49
-Shahiidaaɓe,
+Shahiidaaɓe
 - maayaay, 2:154; 3:169
 - njamiraade e moƴƴal e Rahmatii Alla,3:170-171
 - heɓa yaafooye e rahama, 3:157-158
@@ -889,7 +888,7 @@ Masad, S.111
 Maun, S.107
 Ma'wa Aljannaaji, 53:15
 Miizana e kogol, hokku fof, 11:85; 17:35;83:1-5
-Yuɓɓanɗe,
+Yuɓɓanɗe
 - e Alla, 6:31
 - e Ñalnde Mawɗe, 19:37
 - e Aakhira, 30:16
@@ -919,7 +918,7 @@ Miraju, 17:1; 53:12
 Lewol, nayo mum, 9:36-37
 Lewru, 7:54; 10:5; 16:12; 22:18; 25:61; 36:39-40; 71:16; 91:2
 - faɗtugol; 54:1
-Muusaa,
+Muusaa
 - e yimɓe mum, 2:51-61; 7:138-141,159-162; 14:5-8; 61:5
 - e Fir'awna, 2:49-50; 17:101-103; 20:17-53, 56-79;23:45-49; 25:31-42; 40:23-46; 43:46-56; 51:38-40; 73:16;79:15-26
 - laawingol e Alla, 6:84
@@ -929,23 +928,23 @@ Muusaa,
 - hokkaa Kitaabe, 17:2
 - calɗiiji jeenayi feñnaanɗi, 7:133; 17:101
 - e ngaluɗe maayo ɗiɗo, 18:60-82
-- yuɓɓanɗe mawɗe e sikkiri yiite ɓuleede 20:9-36; 27:7-14; 28:29-35;
+- yuɓɓanɗe mawɗe e sikkiri yiite ɓuleede 20:9-36; 27:7-14; 28:29-35
 - noddaama e hokkaaɗo Nelaaɗ, 19:51-53;20:9-56
 - pamaragal mum, yumma e ganndiraaɗo mum debbo, 20:38-40;28:7-13
 - siinkaaniiɓe naatii tiiɗal, 20:70-73; 26:46-52
 - e Madyana, 20:40; 28:22-28
 - hokkaa Furqana, 21:48
 - e yiite suuɗunde, 27:7-12; 28:29-35
-- wari Misiranaajo e juumre e saare 28:14-21;
+- wari Misiranaajo e juumre e saare 28:14-21
 - warii e Aayaaje feñnaaje, 29:39
-- toon e Fir'awna 7:103-137; 10:75-92; 11:96-99; 26:10-69;
-- calɗiiji jeenayi e Fir'awna e yimɓe mum 7:130-133; 20:17-22; 17:101;
-- darii siinkaaniiɓe Fir'awna 20:70-73; 26:46-52;
-- geddugol e Madyana e dewgal 28:22-28;
-- heɓi Alwahu 7:142-154,
-- ƴami feewneede Alla e Tugal 7:142-145;
-- mawnindaa e Alla 33:69;
-- moƴƴaaɗe Alla e Ɓiɓɓe Israiila 2:47-61;
+- toon e Fir'awna 7:103-137; 10:75-92; 11:96-99; 26:10-69
+- calɗiiji jeenayi e Fir'awna e yimɓe mum 7:130-133; 20:17-22; 17:101
+- darii siinkaaniiɓe Fir'awna 20:70-73; 26:46-52
+- geddugol e Madyana e dewgal 28:22-28
+- heɓi Alwahu 7:142-154
+- ƴami feewneede Alla e Tugal 7:142-145
+- mawnindaa e Alla 33:69
+- moƴƴaaɗe Alla e Ɓiɓɓe Israiila 2:47-61
 - Ɓiɓɓe Israiila haɗi naatirde Urusaliima 5:20-29
 - laawingol e Laawol Goongo, 37:114-122
 - Kitaabe mum, 53:36; 87:19
@@ -1033,7 +1032,7 @@ Mumtahanah, S.60
 Munafigun, S.63
 Warngo, 2:178-179
 Mursalat, S.77
-Musliminaagu,
+Musliminaagu
 - aranirɓe e, 6:14, 163; 9:100; 39:12
 - Hol ko inniri, 22:78
 - yaafooye e yoɓaari mawnde e ɓe, 33:35-36
@@ -1045,7 +1044,7 @@ Nahl, S.16
 Najas (penaali) 9:28
 Najm, S.53
 Najwa (hono Suuɗaare)
-Innde,
+Innde
 e Mo ngoni Innɗe Moƴƴe, 7:180
 e Mo ngoni Innɗe ɓuri Moƴƴi, 17:110; 20:8; 59:24
 Ko haɗi, tawa ko haɗaa, 2:173; 6:145
@@ -1058,10 +1057,10 @@ Jamma, (ko calɗiinde), e bolɗugol, 10:67
 - ko golle, 14:32
 - Jamma Al-Qadr (Toɗɗande), 44:3-4; 97:1-5
 Nisa', S.4
-Nuuhu, 3:33; 4:163; 6:84; 9:70; 10:71;11:25, 32, 36, 42, 45-46, 48, 89; 17:3; 21:76; 25:37; 26:105; 29:14; 37:75; 51:46;54:9; 69:11;
-- haaɗaa 11:38;
+Nuuhu, 3:33; 4:163; 6:84; 9:70; 10:71;11:25, 32, 36, 42, 45-46, 48, 89; 17:3; 21:76; 25:37; 26:105; 29:14; 37:75; 51:46;54:9; 69:11
+- haaɗaa 11:38
 - yiite mawɗe (aawre mawnde), 29:14
-- laana e aawre 7:59-69, 11:25-48; 23:23-31; 26:105-122; 71:1-28;
+- laana e aawre 7:59-69, 11:25-48; 23:23-31; 26:105-122; 71:1-28
 - ɓii bonɗo faaɗtaaka, 11:42-48
 - jom suudu bonɗo, 14:9; 17:3, 17;19:58;21:76; 22:42; 26:105-106, 116; 33:7; 37:75,79; 38:12; 42:13; 40:5, 31; 42:13;50:12;53:52; 57:26; 66:10; 71:1, 21, 26
 Nuh, S.71
@@ -1095,7 +1094,7 @@ Honondiire, (hono, misal, calɗiiji)
 - ndiyam urndii, 10:24
 - ɓiɓɓe maaro ñemmbuɗi, 10:24
 - ɓooɓo e ɓooɓo, 11:24
-- Alla e jiidaaji bonɗi 13:14; 16:76;
+- Alla e jiidaaji bonɗi 13:14; 16:76
 - goongo e feere 13:17
 - bunde e hennde urndoonde mawnde,14:18
 - lekki moƴƴo, 14:24-25
@@ -1123,7 +1122,7 @@ Honondiire, (hono, misal, calɗiiji)
 - mbabba, 62:5
 - ndiyam nawi, 67:30
 - yimɓe suudu, 68:17-33
-Aljannaaji,
+Aljannaaji
 - Suudu Jooɗirde, (Ma'wa Aljannaaji), 53:15
 - Firdausi Aljannaaji, 18:107; 23:11
 - Suuɗe e ley maayo, 3:15, 198;4:57; 5:119; 7:43; 9:72; 18:31; 22:23; 39:20;57:12; 64:9; 98:8
@@ -1146,7 +1145,7 @@ Aljannaaji,
 - maayo e Aljannaaji, Kauthar, 108:1
 - mayaaɓe gaaɗi, kosam, muram, 47:15
 - gaaɗi ceniingal jalberal lakɗiingal, 37:45-46; 56:18; 76:21; 83:25
-- koole ƴirɗe e Zanjabil, 76:17; 78:34;
+- koole ƴirɗe e Zanjabil, 76:17; 78:34
 - ndiyam, 76:5
 - njaareendi wutte e kooleeje, 43:71
 - doluuji liɓe e kooleeje kiris, 76:15-16
@@ -1193,21 +1192,21 @@ Aljannaaji,
 - rewɓe e haɓɓere moƴƴere, jooɗiiɓe e garsi, 36:55
 - rewɓe pamaro ɗuuɗe e maayo goo,78:33
 - ɓiɓɓe jiyaaɓe timmirɓe ko neliraaɓe, hono leeɓe cuuɗiiɗe, 52:24; 56:17; 76:19
-- yaaja hono kammu e leydi 3:133, 57:21;
-- ndiyam woɗɗowal, haɓɓere keweendi, ñaama moƴƴo, e rewɓe ceniiɓe 2:25; 4:57; 36:55-58; 37:40-49; 38:50-54; 44:51-57; 52:17-24; 69:19-24; 76:5-22;
-- yoɓaari muminɓe 55:46-78; 56:10-40;
-- mayaaɓe kosam, ndiyam, e gaaɗi 47:15;
-- du'aa'u e salaamle 10:9-10; 39:73-74;
-- salaamliraa e jam 13:23-24; 14:32;
-- jooɗaade timmirde e moƴƴal 11:108;
-- mbeddirtaa alaa 15:45-48;
-- nulngo yeeso mum e ɗuuɗe mum 57:12;
-- kaangal alaa wala keweendi alaa 76:13;
-- yiɗaaje fof heɓti 16:30-32; 41:31-32;
-- ɓulaaje wutte e comci moƴƴi 18:30-31; 22:23-24; 44:51-53;
-- njaareendi wutte kooleeje 43:67-73;
-- doluuji liɓe e yiiri yoppaama 76:14-16;
-- jooɗiiɓe e garsi 15:47; 37:44; 52:20;
+- yaaja hono kammu e leydi 3:133, 57:21
+- ndiyam woɗɗowal, haɓɓere keweendi, ñaama moƴƴo, e rewɓe ceniiɓe 2:25; 4:57; 36:55-58; 37:40-49; 38:50-54; 44:51-57; 52:17-24; 69:19-24; 76:5-22
+- yoɓaari muminɓe 55:46-78; 56:10-40
+- mayaaɓe kosam, ndiyam, e gaaɗi 47:15
+- du'aa'u e salaamle 10:9-10; 39:73-74
+- salaamliraa e jam 13:23-24; 14:32
+- jooɗaade timmirde e moƴƴal 11:108
+- mbeddirtaa alaa 15:45-48
+- nulngo yeeso mum e ɗuuɗe mum 57:12
+- kaangal alaa wala keweendi alaa 76:13
+- yiɗaaje fof heɓti 16:30-32; 41:31-32
+- ɓulaaje wutte e comci moƴƴi 18:30-31; 22:23-24; 44:51-53
+- njaareendi wutte kooleeje 43:67-73
+- doluuji liɓe e yiiri yoppaama 76:14-16
+- jooɗiiɓe e garsi 15:47; 37:44; 52:20
 - muminɓe nyi'an Joomi mum 75:22-23
 Mawɓe, moƴƴal e, 2:83, 215; 4:36; 16:90;17:23; 29:8; 31:14; 46:15-17
 Tawtoɓe Alla, feere,4:116;10:34-35, 66; 16:86; 28:62-64, 71-75; 30:40;42:21
@@ -1216,7 +1215,7 @@ Laawol, 5:77; 16:94; 42:52-53; 43:43; 90:11-12
 - hono fof Laawol
 Muñal, 3:186, 200; 10:109; 11:115; 16:126-127; 20:130; 40:55, 77; 42:43; 46:35; 70:5;73:10
 - ƴam e muñal e juulde, 2:45, 153; 20:132;50:39
-Muñuɓe,
+Muñuɓe
 - heɓa yoɓaari timmiinde, 39:10
 - Alla wondi e, 8:46
 - e muñu, 11:115
@@ -1225,7 +1224,7 @@ Muñuɓe,
 Jam, njaɓo mo, 8:61
 Leeɓe e joowel, kaɗaaɗe, 52:24; 55:22; 56:23
 Kalam, 68:1; 96:4
-Yimaawo,
+Yimaawo
 - Alla toɗɗaa yimaawo e ko ɓooyi faa ɓooyi,2:286; 7:42
 - Alla toɗɗaa yimaawo e ko waawi faa waawi, 23:62
 - alaa yimaawo anndan ko o waɗa janngo e ɗo o maaya, 31:34
@@ -1246,7 +1245,7 @@ Fir'awna, 28:6; 40:24
 - hisnaade tugal, 40:36-37
 - hono fof Muusaa
 Ɓoɓɓugol ko aduna hokki, 102:1-4
-Bai'atu (Kuutorɗe),
+Bai'atu (Kuutorɗe)
 - e Islama, 16:91
 - e Nelaaɗo ko Bai'atu (Kuutorɗe) e Alla, 48:10
 - e Muminɓe, 48:18; 60:12
@@ -1282,17 +1281,17 @@ Annabaaɓe, 3:33-34, 146; 4:163; 5:20; 6:84-90;23:23-50; 57:26
 - haramiiji e, 3:161
 - jugiiɗo e kala, 6:112; 25:31
 - hono fof Nelaaɓe
-Faayde,
+Faayde
 - e Alla faayi, ko fof e kammu e leydi e haɓɓe mum, 13:15
 Nafaqa, 10:59; 13:26; 14:32; 16:73; 34:36,39; 42:12; 51:57; 67:21; 79:33
 Zabuura, 4:163
-Ciimtol,
+Ciimtol
 - yaajtaade, 3:178
 - haɓɓude juuɗe wala koyngal, 5:33
 - ciimtu ɓe e hono ko ciimtiraa, 16:126
 - e nguurndam oo e aakhira, 24:19; 68:33
-Cenugol,
-- e ɓanndi,4:43; 5:6;
+Cenugol
+- e ɓanndi,4:43; 5:6
 - e nder miijo (e penaali), 87:14; 91:9
 Qadar, 5:5; 64:11
 Qadr, S.97
@@ -1304,7 +1303,7 @@ Qaruuna (Korah), 28:76-82; 29:39
 Qasas, S.28
 Qiblah, 2:142-145, 149
 Qisas (Sariya goonga e ciimtol), 2:178-179, 194; 5:45; 16:126; 17:33; 22:60;42:40
-Kurani,
+Kurani
 - feeñtinaama, 13:31, 36, 37; 14:1; 56:77-80
 - wonaa ko waawi waɗirde e Alla, 2:23; 10:38; 11:13; 17:88
 - si warii e woɗɗo Alla, ngoni e mum keeweendi, 4:82
@@ -1354,7 +1353,7 @@ Kurani,
 - ndiwnata lahe ceniiɗe, 98:2
 - hono fof Deftere; Tintugol
 Quraish, S.106
-Quraishi,
+Quraishi
 - kaafiriiko, 54:43-46, 51
 - newnugol mum, 106:1-4
 Alimaaɓe e Azzuhaduɓe, 9:31, 34
@@ -1362,26 +1361,26 @@ Pooɗande, e golle moƴƴe, 5:48
 Ra'd, S.13
 Rahman, S.55
 Comci moƴƴi ɓuri moƴƴi, 7:26
-Ndiyam urndoowo,
+Ndiyam urndoowo
 - Moƴƴal Alla, 56:68-70
 - leɗɗe, 27:58
 Ramadan, 2:185
 Ramy, 2:200
-Diisugol,
+Diisugol
 - alaa diisugol heɓtinirɗo, 57:15
 - hokkaaɗo e kaafiriiko, 3:91; 10:54; 13:18
-Fidyah, e roosugol, 2:196;
+Fidyah, e roosugol, 2:196
 - e yooltude jiyaaɓe, 8:67
 Rass, yimɓe, 25:38; 50:12
-Yoɓaari,
+Yoɓaari
 - Ñalnde Yoɓaari, 1:4; 37:20; 51:12; 56:56; 82:17-18; 96:7
 - haɗɓe, 107:1-7
 - yoɓaari boneere ko boneere, 42:40
-Newnugol,
+Newnugol
 - ko fof yaafii e newnii, 42:40
 - hakkunde gorko e jom suudu, 4:35
 - hakkunde muminɓe, 49:9-10
-Deftere,
+Deftere
 - Deftere janngiraaɗe, 83:7-9, 18-21
 - kala leñol noddiraa e, 45:28-29
 - lahe golle kala yimaawo,81:10
@@ -1391,7 +1390,7 @@ Deftere,
 - caggal gite, 84:10-15
 Maleyka ndiwnata golle, 50:17-18, 23; 85:11
 Moƴƴal, e wahre, 94:5-6
-Diina,
+Diina
 - alaa haɗde e, 2:256
 - ko Islama, 3:19
 - e Alla, 3:83-84
@@ -1408,7 +1407,7 @@ Diina,
 - diina mawɓe, 43:22-24
 Hisndaade e Alla, 63:9
 - e hisndaade, reedu heɓa bolɗugol, 13:28
-Towbugol,
+Towbugol
 - jaɓiraa tawa boneere waɗaama e alaa miijo e towbii gaawngal, 4:17; 6:54
 - alaa fayda towbugol, tawa boneeje keewi, 4:18
 - O jaɓa, e yaafooye baleende, 4:25
@@ -1416,7 +1415,7 @@ Yaajtaade e boneeji, 3:178; 10:11; 12:110; 14:42,44; 29:53-55; 86:15-17
 Newnugol, 2:28, 7:53; 14:21; 16:38-40; 22:5-7; 23:15-16; 31:28, 41:39, 46:33-34; 50:3,20-29, 41-44; 64:7, 75:1-15; 79:10-12; 86:5-8
 - hono e toon Uzayru 2:259
 - Ibraahiima 2:260
-- yimɓe luunde 18:9-26;
+- yimɓe luunde 18:9-26
 - kaanwirde e haɗɓe newnugol 17:49-52, 17:97-100, 19:66-72, 37:11-27, 50:1-15, 80:17-42
 Ñalnde Newnugol, 7:89; 20:100-101, 124
 - Ñalnde Goongo, 78:39
@@ -1507,7 +1506,7 @@ Deftere hokkiraande caggal gite, 84:10-15
 - Jahannama ɓuri ɗuuɗaade, 89:23
 - Yiite Jahannama udditiraa, ɓulii mawnude, 81:11-12
 - Yoɓaari e sadaqa ko kafaaratu, 5:45
-Tintugol,
+Tintugol
 - tawa a wondi e karallaagal, 2:23-24
 - Aayaade faayde wala yoppaande, 2:106
 - laawol goongo, 3:73
@@ -1519,13 +1518,13 @@ Tintugol,
 - Deftere iwdi e Alla, 46:2
 - hono fof Deftere e Kurani
 Yoɓaari tooɗaaɗo, 42:39-43
-Yoɓaari,
+Yoɓaari
 - e hono ɓuri moƴƴi e golle, e ɓuri, 24:38; 29:7; 39:35
 - ko yoɓaari 25:15
 - Alla yoɓa ɓe ngaɗa moƴƴere e ko ɓuri, 53:31
 - e moƴƴere, alaa yoɓaari caggal moƴƴere, 55:60
 Ribaa (hono haramsundu ngalu)
-Moƴƴooɓe,
+Moƴƴooɓe
 - renndo, 4:69
 - warfandii leydi, 21:105
 - e Aljannaaji, 51:15-19; 76:5-12
@@ -1544,7 +1543,7 @@ Ruuhu (ruuhi, nguurndam), 15:29; 17:85; 58:22
 Rum, S.30
 Saba'u (Sheba), 27:22-44; 34:15-21
 Saba', S.34
-Sabiti,
+Sabiti
 - ɓooyaniiɓe, 2:65; 4:154; 7:163-166
 - toɗɗaama tan e, 16:124
 Sabiiɓe, 5:69; 22:17
@@ -1570,23 +1569,23 @@ Sheyɗaana, 2:36, 168, 208, 268, 275; 3:36, 155, 175;4:38, 60, 76, 83, 119-120; 
 - alaa doole e dow muminɓe, 16:99-100
 - fottoo feere, 22:52-53
 - ko jugiiɗo, 12:5; 35:6; 36:60
-- ɓuraaɗe 2:34; 7:11-27; 15:26-43; 17:61-65; 38:73-85;
-- jinn 18:50-51;
-- haawi Aadama e bonnugol 7:20-23; 20:116-121;
-- alaa doole e dow muminɓe 16:98-100;
-- tiiɗe mum 35:6-8;
-- jugiiɗo e yimɓe 12:5; 17:53;
-- renndo mum 53:14-19;
-- golle mum 5:90-91;
-- haɗa golle moƴƴe 2:268;
-- muminɓe kaɗtinoo e Alla e mo 7:200-202;
-- toɗɗanɗe mum neeɓi 4:76;
-- yoppoo tawtoɓe mum 8:48;
+- ɓuraaɗe 2:34; 7:11-27; 15:26-43; 17:61-65; 38:73-85
+- jinn 18:50-51
+- haawi Aadama e bonnugol 7:20-23; 20:116-121
+- alaa doole e dow muminɓe 16:98-100
+- tiiɗe mum 35:6-8
+- jugiiɗo e yimɓe 12:5; 17:53
+- renndo mum 53:14-19
+- golle mum 5:90-91
+- haɗa golle moƴƴe 2:268
+- muminɓe kaɗtinoo e Alla e mo 7:200-202
+- toɗɗanɗe mum neeɓi 4:76
+- yoppoo tawtoɓe mum 8:48
 - haaldi e tawtoɓe mum e Jahannama 14:22
 - hono fof Iblisa
 Miizana, moƴƴal ko hol ko mawngo, 7:8-9
 - hono fof Miizan
-Kitaabe,
+Kitaabe
 - yimɓe, (Yahuudu e Nasaara), 2:109;3:64-65, 69-72, 75, 98-99, 110, 113,199; 4:47, 153-161; 5:59-60, 68; 98:1
 - ko ɓe suuɗunoo, 5:61-63
 - e mum en ɓe e laawol goongo,5:66
@@ -1594,7 +1593,7 @@ Kitaabe,
 Mayaaɓe, 42:32-33; 45:12
 - ɗiɗo, 18:60; 25:53; 35:12; 55:19-20
 - tawa faɗtii, 82:3
-Suuɗaare (Najwa),
+Suuɗaare (Najwa)
 - haalaaji, 4:114
 - miiro tataɓo, 58:7
 - miiro, 58:8, 10
@@ -1603,10 +1602,10 @@ Leɗɗe e faɗtugol e diina, 6:15; 23:53;30:32; 42:13-14; 43:65; 45:17
 Jam, caggal wahre, O jippini,3:154
 Deental, Hol ko saaɗi mo, 56:63-67
 Hakkiilo, 23:78
-Jeɗɗi, ngelooba,
+Jeɗɗi, ngelooba
 - kammuuje, 2:29; 23:17; 65:12; 67:3; 71:15
 - e leydi hono ɗuum, 65:12
-Haɓɓere,
+Haɓɓere
 - e Alla faayi e mo, 13:15; 16:48
 yaajugol, 25:45
 Shams, S.91
@@ -1638,12 +1637,12 @@ Jiyaaɓe, 2:177-178; 4:25, 36, 92; 5:89; 24:33; 58:3; 90:13
 Ŋelaare, ko bolɗugol, 78:9
 Saduum, 29:31; 37:136
 Yiɗde gorɗo e gorɗo, 7:80-82; 11:77-83; 15:61-77; 29:28-29
-Sulaymaana, 2:102; 4:163; 6:84;
-- wallii baaba mum Daawuda e hukumu moƴƴo 21:78-82;
+Sulaymaana, 2:102; 4:163; 6:84
+- wallii baaba mum Daawuda e hukumu moƴƴo 21:78-82
 - e ɓiɓɓe njiirɗe, 27:15-19
 - e koroŋkoron, 27:20-26
 - e Laamu Saba'u, 27:22-44; 34:15
-- moƴƴaaɗe Alla e dow mum 34:12-14, 38:34-40;
+- moƴƴaaɗe Alla e dow mum 34:12-14, 38:34-40
 - yiɗde sordeeji moƴƴi 38:30-33
 Ɓii suɓaaɗo, 33:4-5
 Ruuhu (nguurndam, Ruh), 15:29; 17:85; 58:22
@@ -1663,8 +1662,8 @@ Gaañaawo, 8:41, 69; 48:15, 19-20; 48:15
 Suudagol, 49:12
 Hoodere, 53:1, 49; 86:1-4
 Hoodere, 7:54; 15:16; 16:12, 16; 22:18; 25:61;37:6-10; 56:75; 77:8; 81:2; 82:2
-Laawol Goongo, 1:6,
-- iwdi Laawol, 6:153,
+Laawol Goongo, 1:6
+- iwdi Laawol, 6:153
 - iwdi Pooɗande, 4:95; 8:72, 74, 75; 9:20, 24, 81; 22:78; 25:52; 29:69; 47:3; 60:1; 61:11
 Ñiiɓugol, sahre ñiiɓirde, yumma goɗɗo, 2:233
 Wahre, toɗɗo, saraade, e ñawuuji; ngalu e moƴƴal, 7:94-96
@@ -1734,7 +1733,7 @@ Haramsundu ngalu (Ribaa), 2:275-276, 278-280; 3:130;4:161; 30:39
 Pertal suuɗunde, 17:45-46
 Ukkugol, 24:31; 33:59
 Aayaaji, Sab' Al-Mathani, 15:87
-Moƴƴal,
+Moƴƴal
 - hokkaaɗo e Alla, 48:1
 - e wallere Alla, 61:13
 Tiiɗaaɗe, (hono Moƴƴal; Muminɓe)
@@ -1751,7 +1750,7 @@ Laawol, 1:6; 42:52-53; 90:10
 - neeɓugol, saaɗi mo neeɓugol, 87:8
 - hono fof Laawol
 Ɗannooɗo, 2:177, 215; 8:41; 17:26; 29:29;30:38; 59:7
-Ngalu,
+Ngalu
 - ko ɓoɓɓii, 104:2-4
 - fayde e laawol Alla (hono Fayde)
 Ngalu e ɓiɓɓe, ɓesngu nguurndam aduna, 18:46
@@ -1769,7 +1768,7 @@ Gaaɗi (e Aljannaaji)
 - mayaaɓe e, 47:15
 - jalberal ceniingal, 83:25
 Ƴama alaa ƴamirde ko Alla mawnini woɗɓe e mum, 4:32
-Seedaaɓe,
+Seedaaɓe
 - e kuutorɗe annabaaɓe, 3:81
 - e dow yimɓe, 2:143; 22:78
 - e kuutorɗe, 2:282
@@ -1779,7 +1778,7 @@ Seedaaɓe,
 - juuɗe e koyngal seedantoo, 36:65
 - gorko e hoore mum, 75:14
 Ñalnde Seedirde e Ñalnde Seediraande, 85:3
-Rewɓe,
+Rewɓe
 - ko ngesa e maa, 2:223
 - ukkugol e maa, 2:187
 - e mbaadi maa, 16:72
@@ -1791,7 +1790,7 @@ Rewɓe, 2:222-223; 4:15, 19-22, 34, 127
 - wonaa feñnoowo hoore mum e haalde, 43:17-18
 Ladde, yimɓe, 15:78; 38:13; 50:14
 - hono fof Aikah; Madyana 26:176-191
-Nguurndam aduna oo,
+Nguurndam aduna oo
 - wonaa fof ko liiɗeeki e lootondiral, 6:32;29:64; 47:36; 57:20
 - feertoo yimɓe, 6:130
 - wanngo ɓurani e aakhira, 9:38; 13:26; 28:60-61
@@ -1803,7 +1802,7 @@ Tooɗooɓe,11:18-22, 101-104, 116-117;39:47
 - hono fof Kaafiriiko
 Wudu' (Koo-koo), 4:43; 5:6
 Yaaguutha, 71:23
-Yahyaa (Yahyaa),
+Yahyaa (Yahyaa)
 - khabar moƴƴo, 3:39; 21:90
 - moƴƴo, 6:85
 - hakkilanteejo; kiɗɗo; teddungol e dow mawɓe, 19:12-15
@@ -1824,52 +1823,52 @@ Zihar, 33:4; 58:2-4
 Zukhruf, S.43
 Zumar, S.39
 Tiiɗe diina
-- Tiiɗal timmii 5:3;
-- Laawol gooto jaɓiraa e Alla 3:19, 85;
-- alaa haɗde e naatugol Islama 2:256;
-- diina gooto e sariyaaji e laabi nguurndam faɗtiiɗi 5:48; 22:67-70; 42:13-14;
-- annabaaɓe Islama 2:135-136; 3:84; 4:163-165;
-- toɗɗaaɗe (tiiɗa e Alla e waɗe moƴƴere) 4:36; 6:151-154;17:23-39;18:107-108;
-- tiiɗe joweego Sharia: kaɗtinirde tiiɗal 5:54;
-- kaɗtinirde nguurndam 5:32;6:151;
-- kaɗtinirde ngalu 5:38;
-- kaɗtinirde teddindam 5:5;24:4;
+- Tiiɗal timmii 5:3
+- Laawol gooto jaɓiraa e Alla 3:19, 85
+- alaa haɗde e naatugol Islama 2:256
+- diina gooto e sariyaaji e laabi nguurndam faɗtiiɗi 5:48; 22:67-70; 42:13-14
+- annabaaɓe Islama 2:135-136; 3:84; 4:163-165
+- toɗɗaaɗe (tiiɗa e Alla e waɗe moƴƴere) 4:36; 6:151-154;17:23-39;18:107-108
+- tiiɗe joweego Sharia: kaɗtinirde tiiɗal 5:54
+- kaɗtinirde nguurndam 5:32;6:151
+- kaɗtinirde ngalu 5:38
+- kaɗtinirde teddindam 5:5;24:4
 - kaɗtinirde miijo 5:90.
 Tiiɗal e Alla 2:255
-- tiiɗaaɗe Alla, Innɗe Moƴƴe 57:1-6; 59:22-24; 85:13-16; 112:1-4;
-- jom laawol gooto tan ko haani juulde 1:1-4; 2:285; 6:3; 43:84;
-- doole fof jeyaa e Mo 3:26; Garsi Mum ('Arsh) 7:54; 11:7;
-- Kursi Mum 2:255;
-- moƴƴaaɗe keewɗe e dow yimɓe 14:32-34; 2:164; 16:2-93; 31:20; 55:1-25;
-- hokka nguurndam e waɗa maayde 44:8; 53:44; 57:2; 67:2;
-- waɗa weltaare e sorro 53:43;
-- hokka nafaqa keewɗe wala yaajunde 13:26; 17:30; 29:62;
-- ɓuri moƴƴi e hakilanteeje 95:8;
-- ɓuri Rahimnaajo e rahimɓe 12:92;
-- yiɗi moƴƴooɓe 85:14;
-- timmii Yaafooye e tooɗo e ciimtol 13:6, 40:3;
-- Aranirde e Garowirde 57:3;
-- teddindam e doole fof jeyaa e Mo 35:10;
-- anndi suuɗaaɗo e yi'a ko suuɗi 6:59,73; 9:94, 105; 13:8-10; 31:34; 32:6; 34:48; 35:38; 39:46; 49:18; 59:22; 62:8; 64:18; 72:26; 74:31; 87:7;
-- anndi ko suuɗi e reedu ɓuri moƴƴi 5:7; 11:5; 31:23;
-- anndi ko waɗii e ko yehi 2:255;
-- winndii ko fof e Deftere (wala Alwah Kaɗaaɗo) 6:38; 13:39; 36:12;
-- waawi ko fof 2:117; 3:189; 8:41; 9:116; 11:4; 16:40; 40:68; 41:39; 42:49;57:2;
-- doole Mum timmirɗe 3:26-27; 24:45; 31:28-30;
-- ngelooba e kammu e leydi e balɗe jeegom e taamataako 46:33; 50:38;
-- ngelooba e haala 'Woo!' 36:81-83;
-- wonaa tooɗoowo e geɗe ngelooba mum 3:108; 4:40; 17:71; 21:47; 22:10; 26:209; 40:31; 41:46; 45:22; 50:29; 64:11; 78:6-16;
-- ko fof faayi e Suɓaare Mum 3:83; 22:18; 30:26;
-- fof haajii Mo 11:6; 35:15; 55:29;
-- tuugoo e Mo 10:84-85; 12:67; 25:58;
-- ngonɗe tintugol Alla 42:51;
-- ko haani tiiɗingol Mo 2:21; 3:102; 4:1; 33:70-71; 59:18;
-- hakkilal ko moƴƴal e Mo 2:269;
-- alaa haajude Mo e yimaawo 3:97; 6:133; 112:2;
-- wonaa e tataɓo 4:171;
-- alaa jom suudu 6:101;
-- alaa ɓiɓɓe 10:68; 19:35; 43:81; 72:3; 112:3;
-- alaa tawtoɓe wala jom-laawol-tawtoɓe 6:94; 7:191-195; 46:4-5;
+- tiiɗaaɗe Alla, Innɗe Moƴƴe 57:1-6; 59:22-24; 85:13-16; 112:1-4
+- jom laawol gooto tan ko haani juulde 1:1-4; 2:285; 6:3; 43:84
+- doole fof jeyaa e Mo 3:26; Garsi Mum ('Arsh) 7:54; 11:7
+- Kursi Mum 2:255
+- moƴƴaaɗe keewɗe e dow yimɓe 14:32-34; 2:164; 16:2-93; 31:20; 55:1-25
+- hokka nguurndam e waɗa maayde 44:8; 53:44; 57:2; 67:2
+- waɗa weltaare e sorro 53:43
+- hokka nafaqa keewɗe wala yaajunde 13:26; 17:30; 29:62
+- ɓuri moƴƴi e hakilanteeje 95:8
+- ɓuri Rahimnaajo e rahimɓe 12:92
+- yiɗi moƴƴooɓe 85:14
+- timmii Yaafooye e tooɗo e ciimtol 13:6, 40:3
+- Aranirde e Garowirde 57:3
+- teddindam e doole fof jeyaa e Mo 35:10
+- anndi suuɗaaɗo e yi'a ko suuɗi 6:59,73; 9:94, 105; 13:8-10; 31:34; 32:6; 34:48; 35:38; 39:46; 49:18; 59:22; 62:8; 64:18; 72:26; 74:31; 87:7
+- anndi ko suuɗi e reedu ɓuri moƴƴi 5:7; 11:5; 31:23
+- anndi ko waɗii e ko yehi 2:255
+- winndii ko fof e Deftere (wala Alwah Kaɗaaɗo) 6:38; 13:39; 36:12
+- waawi ko fof 2:117; 3:189; 8:41; 9:116; 11:4; 16:40; 40:68; 41:39; 42:49;57:2
+- doole Mum timmirɗe 3:26-27; 24:45; 31:28-30
+- ngelooba e kammu e leydi e balɗe jeegom e taamataako 46:33; 50:38
+- ngelooba e haala 'Woo!' 36:81-83
+- wonaa tooɗoowo e geɗe ngelooba mum 3:108; 4:40; 17:71; 21:47; 22:10; 26:209; 40:31; 41:46; 45:22; 50:29; 64:11; 78:6-16
+- ko fof faayi e Suɓaare Mum 3:83; 22:18; 30:26
+- fof haajii Mo 11:6; 35:15; 55:29
+- tuugoo e Mo 10:84-85; 12:67; 25:58
+- ngonɗe tintugol Alla 42:51
+- ko haani tiiɗingol Mo 2:21; 3:102; 4:1; 33:70-71; 59:18
+- hakkilal ko moƴƴal e Mo 2:269
+- alaa haajude Mo e yimaawo 3:97; 6:133; 112:2
+- wonaa e tataɓo 4:171
+- alaa jom suudu 6:101
+- alaa ɓiɓɓe 10:68; 19:35; 43:81; 72:3; 112:3
+- alaa tawtoɓe wala jom-laawol-tawtoɓe 6:94; 7:191-195; 46:4-5
 - alaa ko hono Mo 42:11; 112:4
 Toɗɗande miijoo e karallaaje ngelooba mum 3:190; 6:99; 10:5-6; 13:3-4; 16:10-16; 88:17-20
 Calɗiiji e ngelooba 2:164; 6:95-99; 7:57-58; 10:5-6; 13:2-4; 16:10-13, 65-69, 79; 23:27-30; 27:60-65; 30:19-25; 50:6-11
@@ -1890,21 +1889,21 @@ Calɗiiji e ngelooba 2:164; 6:95-99; 7:57-58; 10:5-6; 13:2-4; 16:10-13, 65-69, 7
 - ndiyam ɓiiɓɓowal, kaŋŋe e urndoowo 2:265; 6:99; 24:43; 50:9-11
 - gurjere e fanyal 13:12-13
 Haalaaji annde
-- yimɓe ngelooba e ko gorɗo e debbo 76:2;
-- gaaɗe e leɗɗe newnugol janngo 22:5; 23:12-14;
-- janngo e leɗɗe tati keweendi 39:6;
-- ndiyam goɗɗo 25:53-54; 35:12; 55:19-20;
-- hennde pollinta leɗɗe 15:22;
-- calɗiiji juuɗe 75:3-4;
-- tugaali hono kaakaaje 78:7;
-- ƴiiƴam jippii 57:25;
-- hakkiilo ñawu 4:56;
-- naange ko nulngo e lewru ko feere nulngo 10:5;
-- faɗtugol lewru 54:1;
-- kammu ko suuɗo kaɗaaɗo 21:32;
-- ko fof nguurdini ngelooba e ndiyam 21:30; 24:45;
-- ɓiɓɓe njiirɗe nhaaldondira 27:17-19;
-- ɓoolaaji nder ley 24:40;
+- yimɓe ngelooba e ko gorɗo e debbo 76:2
+- gaaɗe e leɗɗe newnugol janngo 22:5; 23:12-14
+- janngo e leɗɗe tati keweendi 39:6
+- ndiyam goɗɗo 25:53-54; 35:12; 55:19-20
+- hennde pollinta leɗɗe 15:22
+- calɗiiji juuɗe 75:3-4
+- tugaali hono kaakaaje 78:7
+- ƴiiƴam jippii 57:25
+- hakkiilo ñawu 4:56
+- naange ko nulngo e lewru ko feere nulngo 10:5
+- faɗtugol lewru 54:1
+- kammu ko suuɗo kaɗaaɗo 21:32
+- ko fof nguurdini ngelooba e ndiyam 21:30; 24:45
+- ɓiɓɓe njiirɗe nhaaldondira 27:17-19
+- ɓoolaaji nder ley 24:40
 Kulle nguurdini
 - maleyka 39:75
 - yimɓe (kaanwirɗo e leydi) 2:30; 6:165; 16:4
@@ -1937,365 +1936,366 @@ Kulle nguurdini
 - keeri 29:41
 - woɗɓe anndaaɓe e min 16:8
 Leɗɗe e yiiri 6:99; 13:4; 16:11; 36:33-35
-- leɗɗe banaana 56:29,
-- dabbeehi 19:25,
-- biyaaɗe, koɓɓe, taali, ñebbe, e albasa 2:61,
-- raaɓe 80:28,
-- liɓe 6:99,
-- jate 95:1,
-- rumman 55:68,
+- leɗɗe banaana 56:29
+- dabbeehi 19:25
+- biyaaɗe, koɓɓe, taali, ñebbe, e albasa 2:61
+- raaɓe 80:28
+- liɓe 6:99
+- jate 95:1
+- rumman 55:68
 - kabara 37:146
 Tiiɗal e Muhammadu
-- Tiiɗaaɗe, tan annabi 3:144; 6:50; 7:188; 18:110;
-- neliraaɗo e goongo 2:119; 35:24; 42:48;
-- garowirɗo annabaaɓe 33:40;
-- newaare mawnde 3:159; 68:4;
-- hoore yimaawo moƴƴo e naatugol 33:21;
-- ko moƴƴal e muminɓe 3:164;
-- rahama e aduna fof 21:107;
-- nelaaɗo e yimɓe fof 4:170; 7:157-158; 34:28;
-- laawingo e Laawol Goongo 42:52-53;
-- yiɗi yimɓe 9:129;
-- seedaado e Ñalnde Kiisaawo 4:42; 16:89;
-- annabi gonɗo alaa janngugol 7:157-158; 29:48; 62:2;
-- khabar mum e Tawraata e Linjiila 7:157;
+- Tiiɗaaɗe, tan annabi 3:144; 6:50; 7:188; 18:110
+- neliraaɗo e goongo 2:119; 35:24; 42:48
+- garowirɗo annabaaɓe 33:40
+- newaare mawnde 3:159; 68:4
+- hoore yimaawo moƴƴo e naatugol 33:21
+- ko moƴƴal e muminɓe 3:164
+- rahama e aduna fof 21:107
+- nelaaɗo e yimɓe fof 4:170; 7:157-158; 34:28
+- laawingo e Laawol Goongo 42:52-53
+- yiɗi yimɓe 9:129
+- seedaado e Ñalnde Kiisaawo 4:42; 16:89
+- annabi gonɗo alaa janngugol 7:157-158; 29:48; 62:2
+- khabar mum e Tawraata e Linjiila 7:157
 - khabar mum e Iisaa 61:6
 Wahreeji heɓi annabi (ﷺ)
-- ƴamiraaɗe paganɓe alaa tiiɗe 8:32; 15:7; 17:89-93; 25:7-8;
-- toɗɗanɗe fenaande 10:2; 11:13; 21:5; 24:11-26; 25:4-6; 37:36; 38:4; 52:29-30;
-- fewjude e nguurndam mum 8:30; 9:74;
-- kaanwirde ɓe tooɗii wala jaɓɓii mo 4:115; 8:13; 9:61; 15:95; 33:57; 47:32; 96:9-19;
-- toɗɗaama jaaboo haɗde e muñal 20:130; 30:60; 46:35; 70:5;
+- ƴamiraaɗe paganɓe alaa tiiɗe 8:32; 15:7; 17:89-93; 25:7-8
+- toɗɗanɗe fenaande 10:2; 11:13; 21:5; 24:11-26; 25:4-6; 37:36; 38:4; 52:29-30
+- fewjude e nguurndam mum 8:30; 9:74
+- kaanwirde ɓe tooɗii wala jaɓɓii mo 4:115; 8:13; 9:61; 15:95; 33:57; 47:32; 96:9-19
+- toɗɗaama jaaboo haɗde e muñal 20:130; 30:60; 46:35; 70:5
 - toɗɗaama e bolɗugol e Alla 5:67; 93:1-11; 94:1-8
 Janngugol e nguurndam annabi (ﷺ)
-- e ɗannde mum (hijra) faa keeweendi Badru 3:121-129; 8:42-44; 8:65-71;
-- Keeweendi Uhudu 3:151-180;
-- Keeweendi Kuɓɓe 33:9-27;
-- Keeweendi Hunain 9:25-27;
-- Madiina 9:40; Tabuuku 9:38-123;
-- Banu An-Nadiir 59:2-6;
-- Hamra' Al-Asad 3:172-175;
+- e ɗannde mum (hijra) faa keeweendi Badru 3:121-129; 8:42-44; 8:65-71
+- Keeweendi Uhudu 3:151-180
+- Keeweendi Kuɓɓe 33:9-27
+- Keeweendi Hunain 9:25-27
+- Madiina 9:40
+- Tabuuku 9:38-123
+- Banu An-Nadiir 59:2-6
+- Hamra' Al-Asad 3:172-175
 - Ndeentari Hudaybiyya 48:1-7; 48:10-29
 Mawnaaɗe hokkaaɗe e annabi (ﷺ)
-- Alla e maleyka mum nelnoo salatu e mo 33:56;
-- ɗannde jamma e Makkah faa Urusaliima 17:1;
-- ɗannde e kammu 53:1-18;
-- mawnindaa e nguurndam oo e ɓaawo 17:79; 66:8; 108:1;
-- tiiɗal mo ko tiiɗal Alla 4:80;
-- yoɓaari tiiɗal Alla e Nelaaɗo Mum 4:69;
-- faamu mum cenintiraa 33:33-34;
-- yi'i Jibrila e mbaadi mum goonga 53:1-18;
-- muminɓe toɗɗaa tiiɗde mo 59:7;
+- Alla e maleyka mum nelnoo salatu e mo 33:56
+- ɗannde jamma e Makkah faa Urusaliima 17:1
+- ɗannde e kammu 53:1-18
+- mawnindaa e nguurndam oo e ɓaawo 17:79; 66:8; 108:1
+- tiiɗal mo ko tiiɗal Alla 4:80
+- yoɓaari tiiɗal Alla e Nelaaɗo Mum 4:69
+- faamu mum cenintiraa 33:33-34
+- yi'i Jibrila e mbaadi mum goonga 53:1-18
+- muminɓe toɗɗaa tiiɗde mo 59:7
 - newaare haaldude e mo 49:1-5
-- newaare yettaade mo 33:53;
-- newaare e dow rewɓe mum 33:53;
-- Alla moƴƴii e mo e tawtoɓe mum 9:100; 9:117;
+- newaare yettaade mo 33:53
+- newaare e dow rewɓe mum 33:53
+- Alla moƴƴii e mo e tawtoɓe mum 9:100; 9:117
 - moƴƴere jama'a mum tiiɗal 2:143; 3:110
-Juulde (salah) 2:45; 9:103; 51:18; 70:22-23; 75:31; 96:10; 108:2;
-- renndo Aljimaare 62:9;
-- feewnugol juulde (qiblah) 2:144; 2:149-150;
-- haani haɗde boneeje 29:45;
-- waktuuji 11:114; 17:78; 17:79; 20:130; 24:36; 24:58; 30:17-18; 32:16; 38:18; 50:39-40; 51:17; 52:48-49; 73:2-4; 76:25-26;
-- e wahre wala e ɗannde 2:239; 4:101-102;
-- kaanwirde ɓe njaɓɓi juulde 19:59; 74:38-47; 107:5-7;
+Juulde (salah) 2:45; 9:103; 51:18; 70:22-23; 75:31; 96:10; 108:2
+- renndo Aljimaare 62:9
+- feewnugol juulde (qiblah) 2:144; 2:149-150
+- haani haɗde boneeje 29:45
+- waktuuji 11:114; 17:78; 17:79; 20:130; 24:36; 24:58; 30:17-18; 32:16; 38:18; 50:39-40; 51:17; 52:48-49; 73:2-4; 76:25-26
+- e wahre wala e ɗannde 2:239; 4:101-102
+- kaanwirde ɓe njaɓɓi juulde 19:59; 74:38-47; 107:5-7
 - juulde munaafiɓe 4:142; 9:54
-Cenugol, koo-koo (wudu) 5:6;
-- ghusl timmiingo 2:222; 4:43;
+Cenugol, koo-koo (wudu) 5:6
+- ghusl timmiingo 2:222; 4:43
 - tayammum 4:43; 5:6
 Du'aa'u
-- e Ibraahiima 2:126-129; 2:126-129; 14:35-41; 26:83-89;
-- Aadama e Hawwaa 7:23;
-- Iisaa 5:114;
-- Ayuuba 21:83; 21:83;
-- Yuunusa 21:87;
-- Yuusufa 12:33; 12:101;
-- Muusaa 10:88-89; 20:25-35;
+- e Ibraahiima 2:126-129; 2:126-129; 14:35-41; 26:83-89
+- Aadama e Hawwaa 7:23
+- Iisaa 5:114
+- Ayuuba 21:83; 21:83
+- Yuunusa 21:87
+- Yuusufa 12:33; 12:101
+- Muusaa 10:88-89; 20:25-35
 - Muhammadu 17:80; 20:114
-- Nuuhu 23:26; 26:117-118; 54:9-10; 71:26; 71:28;
-- Sulaymaana 38:35;
-- Shu'aibu 7:89;
-- Zakariyya 3:38; 19:2-6; 21:89-90;
-- maleyka 40:8-9;
-- yumma Maryama 3:35-36;
-- jom suudu Fir'awna 66:11;
-- siinkaaniiɓe Fir'awna 7:126;
-- Laamɗo Taaluutu e muminɓe e mum 2:250;
-- muminɓe Ɓiɓɓe Israiila 10:85-86;
-- yimɓe luunde 18:10;
-- moƴƴooɓe 2:285-286; 3:8-9; 3:16; 3:147; 3:191-194; 25:74; 59:10;
+- Nuuhu 23:26; 26:117-118; 54:9-10; 71:26; 71:28
+- Sulaymaana 38:35
+- Shu'aibu 7:89
+- Zakariyya 3:38; 19:2-6; 21:89-90
+- maleyka 40:8-9
+- yumma Maryama 3:35-36
+- jom suudu Fir'awna 66:11
+- siinkaaniiɓe Fir'awna 7:126
+- Laamɗo Taaluutu e muminɓe e mum 2:250
+- muminɓe Ɓiɓɓe Israiila 10:85-86
+- yimɓe luunde 18:10
+- moƴƴooɓe 2:285-286; 3:8-9; 3:16; 3:147; 3:191-194; 25:74; 59:10
 - tooɗaaɓe 4:75
 Aayaaje faayde
 - sajadat, ɗuuɗal sajdah, 7:206; 13:15; 16:49; 17:109; 19:58; 22:18; 22:77; 25:60; 27:26; 32:15; 38:24; 41:37; 53:62; 84:21; 96:19
-Zakat, ko toɗɗaaɗo 2:110; 2:177; 2:277; 6:141;
-- e tiiɗaaɗe muminɓe 22:41; 23:4; 51:19;
+Zakat, ko toɗɗaaɗo 2:110; 2:177; 2:277; 6:141
+- e tiiɗaaɗe muminɓe 22:41; 23:4; 51:19
 - heɓooɓe 9:60
 - sadaqa 2:177; 2:261-263; 2:267-274; 3:92; 63:10
 - kaanwirde ɓe mpippi 3:180; 9:34; 47:38
 Roosugol (sawm)
-- e Ramadan 2:183-185;
-- waktuuji roosugol 2:187;
-- faaytooɓe 2:184-185;
-- tawande e jamma adii roosugol 2:187;
+- e Ramadan 2:183-185
+- waktuuji roosugol 2:187
+- faaytooɓe 2:184-185
+- tawande e jamma adii roosugol 2:187
 - roosugol e jippungol 2:196
-Jippungol (hajj),
-- ko toɗɗaaɗo e dow waawnooɓe 3:97;
-- golle e hukumuuji 2:158; 2:189; 2:196-203; 5:2; 22:26-37;
-- sacrifice 2:196; 22:36-37;
-- haramiiji liingu e leydi e jippungol 5:1; 5:94-95;
+Jippungol (hajj)
+- ko toɗɗaaɗo e dow waawnooɓe 3:97
+- golle e hukumuuji 2:158; 2:189; 2:196-203; 5:2; 22:26-37
+- sacrifice 2:196; 22:36-37
+- haramiiji liingu e leydi e jippungol 5:1; 5:94-95
 - hakke liingu e maayo 5:96
 - Jippungol ɓaaɗo ('umrah) 2:158; 2:196
 Jama'aaji tiiɗal
-- Musliminaagu 2:132-136; 3:64; 3:84; 5:111; 22:77-78; 33:35; 41:33; 43:67-70; 72:14-15;
-- kaanwirɓe e mum en 3:28; 9:71;
-- Nasaara 2:62; 2:111-140; 4:171-172; 5:14-19; 5:82-86; 5:116-120; 9:30-31; 22:17;
-- Yahuudu 2:62, 111-140; 5:44-45; 6:146; 22:17; 62:6-8;
-- Ɓiɓɓe Israiila 2:40-103, 122-123, 246-251; 3:49; 3:93-94; 5:12-13, 20-26, 32, 70-71, 78-81; 7:137-141, 148-153,159-171; 10:83-93; 14:5-8; 17:2-8, 104; 20:80-98; 26:52-67, 197; 27:76; 44:23-33; 45:16-17; 46:10; 61:5-6;
+- Musliminaagu 2:132-136; 3:64; 3:84; 5:111; 22:77-78; 33:35; 41:33; 43:67-70; 72:14-15
+- kaanwirɓe e mum en 3:28; 9:71
+- Nasaara 2:62; 2:111-140; 4:171-172; 5:14-19; 5:82-86; 5:116-120; 9:30-31; 22:17
+- Yahuudu 2:62, 111-140; 5:44-45; 6:146; 22:17; 62:6-8
+- Ɓiɓɓe Israiila 2:40-103, 122-123, 246-251; 3:49; 3:93-94; 5:12-13, 20-26, 32, 70-71, 78-81; 7:137-141, 148-153,159-171; 10:83-93; 14:5-8; 17:2-8, 104; 20:80-98; 26:52-67, 197; 27:76; 44:23-33; 45:16-17; 46:10; 61:5-6
 - Yimɓe Kitaabe (Yahuudu e Nasaara) 2:109; 3:64-115, 199; 4:123-172; 5:15-77; 6:20-21; 13:36; 28:52-55; 29:46-47; 57:16, 28-29; 74:31; 98:1-5
 - Musliminaagu waawi nyaamde e kulle mum en e dewgal e rewɓe mum 5:5
-- ñaama haramiiji e Yahuudu 6:146;
-- Sabiiɓe 2:62; 22:17;
-- Majiisiɓe 22:17;
-- Co-jiduɓe (paganɓe, juuldiraaɓe jiidaaji) 3:186; 6:148; 9:6, 17; 10:28; 16:86; 22:17; 53:19-30;
-- golle paganɓe alaa tiiɗe 2:189; 5:103; 6:138-144;
+- ñaama haramiiji e Yahuudu 6:146
+- Sabiiɓe 2:62; 22:17
+- Majiisiɓe 22:17
+- Co-jiduɓe (paganɓe, juuldiraaɓe jiidaaji) 3:186; 6:148; 9:6, 17; 10:28; 16:86; 22:17; 53:19-30
+- golle paganɓe alaa tiiɗe 2:189; 5:103; 6:138-144
 - ɓe njaɓaay Alla 52:35-36
 Golle paganɓe haramiiji
-- ɗamɓaade rewɓe pamaro 16:58-59; 81:8-9;
-- warde ɓiɓɓe e kulol toɗɗo 6:137; 6:151; 17:31;
-- ŋiirde e juulde e Ka'aba 8:35;
-- toɗɗande ñiŋɗe e jiidaaji 5:103; 6:136;
-- sacrifice e innde jiidaaji 6:121;
-- talaaka zihar 33:4; 58:2-4;
-- ila' (faa lewol nayi) 2:226-227;
-- piiɗe lot e hukumuuji 5:3;
-- yawtude Ka'aba e ngonka feere 7:26-28;
+- ɗamɓaade rewɓe pamaro 16:58-59; 81:8-9
+- warde ɓiɓɓe e kulol toɗɗo 6:137; 6:151; 17:31
+- ŋiirde e juulde e Ka'aba 8:35
+- toɗɗande ñiŋɗe e jiidaaji 5:103; 6:136
+- sacrifice e innde jiidaaji 6:121
+- talaaka zihar 33:4; 58:2-4
+- ila' (faa lewol nayi) 2:226-227
+- piiɗe lot e hukumuuji 5:3
+- yawtude Ka'aba e ngonka feere 7:26-28
 - naatirde suuɗe e faggirgel e caggal jippungol 2:189
-Tiiɗe juulirde,
-- maleyka (e ɓe juuldiraa e mum en e paganɓe Larabu) 34:40;
-- Al-Aykah (e yimɓe Shu'aibu) 26:176;
-- Ba'l (e yimɓe Eliyaasa 37:125;
-- Iisaa (e Nasaara) 5:17;
-- jiidaaji (e yimɓe Ibraahiima) 21:52-53;
-- jiidaaji Lat, 'Uzza, e Manat (e paganɓe Larabu) 53:19-20;
-- jiidaaji Wadd, Suwa', Yaaguutha, Ya'uq, e Nasr (e yimɓe Nuuhu) 71:23;
-- naange (yimɓe Saba'u) 27:24;
-- hoodere Shi'raa (e ɓe e paganɓe Larabu) 53:49;
-- Fir'awna (e Misira adunnde) 26:29; 28:38; 79:24;
-- yiɗde 25:43-44; 45:23;
+Tiiɗe juulirde
+- maleyka (e ɓe juuldiraa e mum en e paganɓe Larabu) 34:40
+- Al-Aykah (e yimɓe Shu'aibu) 26:176
+- Ba'l (e yimɓe Eliyaasa 37:125
+- Iisaa (e Nasaara) 5:17
+- jiidaaji (e yimɓe Ibraahiima) 21:52-53
+- jiidaaji Lat, 'Uzza, e Manat (e paganɓe Larabu) 53:19-20
+- jiidaaji Wadd, Suwa', Yaaguutha, Ya'uq, e Nasr (e yimɓe Nuuhu) 71:23
+- naange (yimɓe Saba'u) 27:24
+- hoodere Shi'raa (e ɓe e paganɓe Larabu) 53:49
+- Fir'awna (e Misira adunnde) 26:29; 28:38; 79:24
+- yiɗde 25:43-44; 45:23
 - tiiɗal e jom laawol keewɓe haɗaama 17:42-43; 21:21-24; 25:3
-Nokkuuje juulde, juulirɗe 9:18;
-- kiliisaaji, sunagooguuji, e monasteeruuji 22:40;
-- kaɗtirde 3:39; 38:21;
+Nokkuuje juulde, juulirɗe 9:18
+- kiliisaaji, sunagooguuji, e monasteeruuji 22:40
+- kaɗtirde 3:39; 38:21
 - juulirde mawnde 17:7
 - Innɗe diina, alimaaɓe, azzuhaduɓe e rabbiiɓe 5:44; 5:63; 5:82; 9:31-34
-Maleyka,
+Maleyka
 - ƴami e ngelooba Aadama 2:30-34
-- njaɓɓaay Alla abada 21:26-27; 66:6;
-- wonaa rewɓe Alla 21:26; 43:16-19;
-- maleyka kaanwirɓe 13:11;
-- maleyka ɗiɗo ndiwnooɓe golle 50:16-18; 82:10-12;
-- joweego nduƴa garsi Alla e Ñalnde Kiisaawo 69:17;
-- sappo e jeenayi kaanwirɓe Jahannama 74:26-31;
-- Maleyka Maayde 6:93; 16:28; 32:11;
-- Jibrila 2:97; 66:4; 26:192-195; 53:1-14;
-- Miika'iila 2:98;
+- njaɓɓaay Alla abada 21:26-27; 66:6
+- wonaa rewɓe Alla 21:26; 43:16-19
+- maleyka kaanwirɓe 13:11
+- maleyka ɗiɗo ndiwnooɓe golle 50:16-18; 82:10-12
+- joweego nduƴa garsi Alla e Ñalnde Kiisaawo 69:17
+- sappo e jeenayi kaanwirɓe Jahannama 74:26-31
+- Maleyka Maayde 6:93; 16:28; 32:11
+- Jibrila 2:97; 66:4; 26:192-195; 53:1-14
+- Miika'iila 2:98
 - Maliku 43:77
 Nelaaɓe
-- e maleyka e yimɓe 22:75;
+- e maleyka e yimɓe 22:75
 - Nelaaɓe Doole Mawnde (Ibraahiima, Nuuhu, Muusaa, Iisaa, e Muhammadu ﷺ) 33:7; 42:13; 46:35
 Kitaaɓe
-- Kurani, tintugol e Alla 12:2-3; 20:2-4; 26:192-195; 32:2-3;
-- tintugol e aduna fof 68:51-52;
-- laawingo e nguurndam goonga 17:9;
-- tintugol fuɗɗii e lewol Ramadan 2:185;
-- e jamma ceeniingal 44:3;97:1-5;
-- tintiraa e sahre caggal sahre 17:105-106;
-- neeɓi hisndaade 54:17;
-- tiindina goongo e tintugol adannde 3:3-4;
-- jom laawol ɓurngo e kitaaɓe adannde 5:48;
-- alaa karallaagal e mum 2:2; 10:37;
-- alaa keeweendi 4:82;
-- wonaa ngelooba 10:37-39;
-- wonaa noppaama e Liinjil 25:4-6;
-- wonaa tintiraa e Sheyaaɗe 26:210-212;
+- Kurani, tintugol e Alla 12:2-3; 20:2-4; 26:192-195; 32:2-3
+- tintugol e aduna fof 68:51-52
+- laawingo e nguurndam goonga 17:9
+- tintugol fuɗɗii e lewol Ramadan 2:185
+- e jamma ceeniingal 44:3;97:1-5
+- tintiraa e sahre caggal sahre 17:105-106
+- neeɓi hisndaade 54:17
+- tiindina goongo e tintugol adannde 3:3-4
+- jom laawol ɓurngo e kitaaɓe adannde 5:48
+- alaa karallaagal e mum 2:2; 10:37
+- alaa keeweendi 4:82
+- wonaa ngelooba 10:37-39
+- wonaa noppaama e Liinjil 25:4-6
+- wonaa tintiraa e Sheyaaɗe 26:210-212
 - alaa ko waawi hono ngol 17:88; 2:23-24;10:13-14; 11:13
-- kaɗtiniraa e boneere 15:9;
-- kaɗtiniraa e Alwah Kaɗaaɗo 56:75-80;
-- waawaa haɗaade e feere 41:42;
-- khaabari sahre ɓaawo 30:1-7; 48:27;
-- haaɗa muminɓe haa koƴe 5:83; 17:107-109;
-- haɗa reedu 39:23;
-- nulngo feñnaango 4:174; 42:52;
+- kaɗtiniraa e boneere 15:9
+- kaɗtiniraa e Alwah Kaɗaaɗo 56:75-80
+- waawaa haɗaade e feere 41:42
+- khaabari sahre ɓaawo 30:1-7; 48:27
+- haaɗa muminɓe haa koƴe 5:83; 17:107-109
+- haɗa reedu 39:23
+- nulngo feñnaango 4:174; 42:52
 - hisni e rahama e muminɓe 17:82
 - Tawraata 3:3; 3:93; 5:46; 5:66-68, 110; 7:157; 9:111; 48:29; 61:6; 62:5
-- Linjiila 3:3; 48; 5:46-47, 66-68, 77, 110; 7:157; 9:111; 48:29; 57:27
+- Linjiila 3:3, 48; 5:46-47, 66-68, 77, 110; 7:157; 9:111; 48:29; 57:27
 - Zabuura 4:163; 17:55
 - Lahe Ibraahiima 53:36-44; 87:14-19
-Qadar e toɗɗande 3:145; 9:51; 10:107; 11:6; 54:49; 67:30;
+Qadar e toɗɗande 3:145; 9:51; 10:107; 11:6; 54:49; 67:30
 - suɓaare 6:148-150; 11:118-119; 16:93; 33:72-73; 39:41; 76:1-3; 91:1-10
-Ñalnde Kiisaawo,
-- tooɗaade alaa 2:281; 18:49; 40:17;
-- kuleeji ñalnde ɓaawo 22:1-2; 27:82-84, 87; 40:18; 52:11-16; 69:13-18; 70:8-18; 73:17-18; 75:7-15; 77:8-15; 78:17-20; 79:34-36; 80:33-42; 81:1-14; 82:1-5; 84:1-5; 87:17-40; 99:1-8; 101:1-11;
-- moƴƴooɓe e joofɓe e ñalnde nde 11:105-108; 16:27-33, 84-89; 18:52-53; 20:100-111; 25:24-29; 30:12-16; 33:63-68; 39:68-75; 50:20-35; 55:37-41; 83:4-36;
+Ñalnde Kiisaawo
+- tooɗaade alaa 2:281; 18:49; 40:17
+- kuleeji ñalnde ɓaawo 22:1-2; 27:82-84, 87; 40:18; 52:11-16; 69:13-18; 70:8-18; 73:17-18; 75:7-15; 77:8-15; 78:17-20; 79:34-36; 80:33-42; 81:1-14; 82:1-5; 84:1-5; 87:17-40; 99:1-8; 101:1-11
+- moƴƴooɓe e joofɓe e ñalnde nde 11:105-108; 16:27-33, 84-89; 18:52-53; 20:100-111; 25:24-29; 30:12-16; 33:63-68; 39:68-75; 50:20-35; 55:37-41; 83:4-36
 - sifanteefaari (shafa'ah) 2:48, 255; 6:51, 70; 10:3; 21:28; 32:4; 36:23; 39:43-44; 43:86; 53:26;74:48
-Deftere golle 17:13; 18:49;
-- muminɓe heɓa deftere mum e juuɗe ɗuuɗe 69:19-24; 84:7-9;
-- kaafiriiko heɓa deftere mum e juuɗe nano 69:25-37; 84:10-15;
-- alaa ko suuɗirtoo e Alla 21:47; 40:16;
-- miizana golle 7:8; 23:102-104; 101:1-11;
-- seedeede ɓanndi 41:19-24; 24:24;
+Deftere golle 17:13; 18:49
+- muminɓe heɓa deftere mum e juuɗe ɗuuɗe 69:19-24; 84:7-9
+- kaafiriiko heɓa deftere mum e juuɗe nano 69:25-37; 84:10-15
+- alaa ko suuɗirtoo e Alla 21:47; 40:16
+- miizana golle 7:8; 23:102-104; 101:1-11
+- seedeede ɓanndi 41:19-24; 24:24
 - yoɓaari golle moƴƴe e bonɗe 6:160; 27:89-90; 28:84
 Leɗɗe yimɓe
-- muminɓe 18:107-108;
-- kaafiriiko 4:167-169;
-- munaafiɓe 4:145; 57:13-15;
-- yimɓe Aljannaaji, muminɓe aranirɓe 55:46-61; 56:10-26;
-- yimɓe Aljannaaji, yimɓe juuɗe ɗuuɗe 55:62-78; 56:27-40;
-- yimɓe Jahannama, yimɓe juuɗe nano 55:31-45; 56:41-56;
+- muminɓe 18:107-108
+- kaafiriiko 4:167-169
+- munaafiɓe 4:145; 57:13-15
+- yimɓe Aljannaaji, muminɓe aranirɓe 55:46-61; 56:10-26
+- yimɓe Aljannaaji, yimɓe juuɗe ɗuuɗe 55:62-78; 56:27-40
+- yimɓe Jahannama, yimɓe juuɗe nano 55:31-45; 56:41-56
 - yimɓe A'raf 7:46-49
 Ngalu
 - Laabi liggeende 2:188; 2:275; 2:282-283; 4:29; 4:58; 6:152; 17:34-35;24:36-37; 26:182; 30:39; 55:7-9; 62:9
-- Wasiyya, wasiyya e wonaa warfaandiɓe 2:180-183; 4:11-12;
+- Wasiyya, wasiyya e wonaa warfaandiɓe 2:180-183; 4:11-12
 addata maayde e ɗannde 5:106-108
 - Ruswa 2:188
-- Jillaaɓe, moƴƴal e ɓoɓɓugol jillaaɓe 2:280;
-- winndugol e seedeede kuutorɗe jillol 2:282;
+- Jillaaɓe, moƴƴal e ɓoɓɓugol jillaaɓe 2:280
+- winndugol e seedeede kuutorɗe jillol 2:282
 - nannginirde kaaɗal 2:283
-- Warfaandi, laabi 4:7; 4:32-33; 8:75;
-- naange ɓiɓɓe e mawɓe 4:11;
-- rewɓe e banndiraaɓe e yumma 4:12;
-- banndiraaɓe timmiɓe 4:176;
+- Warfaandi, laabi 4:7; 4:32-33; 8:75
+- naange ɓiɓɓe e mawɓe 4:11
+- rewɓe e banndiraaɓe e yumma 4:12
+- banndiraaɓe timmiɓe 4:176
 - kaanwirde ɓe njaɓɓaa 4:13-14
-- Haramsundu ngalu, haramiiji e kaanwirde 2:275-281; 3:130-132;
+- Haramsundu ngalu, haramiiji e kaanwirde 2:275-281; 3:130-132
 - alaa fayda 30:39
 Sariya
 - sariya njaɓɓugol (hirabah) 5:33-34
-- Goongo, dartinde e goongo 4:135; 5:8; 16:90-91;
-- dartinde e hakke maccuɓe e rewɓe 4:127;
-- goonga e Yahuudu 4:105-112;
-- goonga e paganɗo 4:58;
+- Goongo, dartinde e goongo 4:135; 5:8; 16:90-91
+- dartinde e hakke maccuɓe e rewɓe 4:127
+- goonga e Yahuudu 4:105-112
+- goonga e paganɗo 4:58
 - goonga e kaafiriiko 60:8-9
 - Yoɓaari e laabi sariya (e hakke yaafooye) 2:178-179; 5:45; 16:126; 17:33; 42:37-43
-- Ceertugol hakkunde jom suudu e jom dewel, khul' 2:229;
+- Ceertugol hakkunde jom suudu e jom dewel, khul' 2:229
 - lian (toɗɗande boowal) 24:6-10
 Laamu
 - Hukumu e tawtorirgol (shura) 3:159; 42:38
-- Keeweendi e kaɗtinirde (jihad), newaare 2:190-192; 2:216; 22:38-40;
-- ƴama alaa keeweendi e alaa anniya 4:94;
-- keeweendi e kaɗtinirde gorɗo, debbo e ɓiɓɓe tooɗaaɓe 4:75;
-- kaɗtinirde nokkuuje juulde 22:37;
-- yoɓaari shahiidaaɓe 2:154; 3:169-171; 9:111; 57:19;
-- doole keeweendi haɗa jugiiɗo 8:60;
+- Keeweendi e kaɗtinirde (jihad), newaare 2:190-192; 2:216; 22:38-40
+- ƴama alaa keeweendi e alaa anniya 4:94
+- keeweendi e kaɗtinirde gorɗo, debbo e ɓiɓɓe tooɗaaɓe 4:75
+- kaɗtinirde nokkuuje juulde 22:37
+- yoɓaari shahiidaaɓe 2:154; 3:169-171; 9:111; 57:19
+- doole keeweendi haɗa jugiiɗo 8:60
 - suɓaade jam 2:192; 8:61
 - Newnugol jam hakkunde leɗɗe 49:9-10
 - Jiyaaɓe gaygu, newaare 8:70; 47:4; 76:8
 Ngurndam jama'a
 - Suɓaade ɓii suɓaaɗo 33:4-5
 - Kaɗtinirde maccuɓe 2:220; 4:2-10; 4:127; 6:152; 17:34
-- Talaaka, ceertugol e newnugol 4:35; 4:128;
-- newaare talaaka 2:229-231; 65:1-2;
-- dowri e sahre talaaka 2:226-241; 4:19-21; 33:49; 65:1-7;
-- gorko ƴama alaa ruttude dowri 4:20;
-- ƴama alaa ñaaɗde jom suudu 65:6;
-- ɓamu jom suudu e tawi o ko nde rewel 65:6;
-- e sahre talaaka 65:6;
-- tawa o ñinii ɓii ɓii mum gaa, 65:6;
-- alaa mawɗo ñaaɗde sabaabu ɓii mum 2:233;
+- Talaaka, ceertugol e newnugol 4:35; 4:128
+- newaare talaaka 2:229-231; 65:1-2
+- dowri e sahre talaaka 2:226-241; 4:19-21; 33:49; 65:1-7
+- gorko ƴama alaa ruttude dowri 4:20
+- ƴama alaa ñaaɗde jom suudu 65:6
+- ɓamu jom suudu e tawi o ko nde rewel 65:6
+- e sahre talaaka 65:6
+- tawa o ñinii ɓii ɓii mum gaa, 65:6
+- alaa mawɗo ñaaɗde sabaabu ɓii mum 2:233
 - suɓaade yumma goɗɗo 65:6
 - Nodditande moƴƴere e haɗde boneere 3:104; 3:110; 7:157; 9:71-72; 31:17
-- Goonga yimɓe 49:13;
-- gorɗo e debbo e Alla e sariya, 3:195; 4:124; 5:38; 16:97; 24:2; 40:40;
+- Goonga yimɓe 49:13
+- gorɗo e debbo e Alla e sariya, 3:195; 4:124; 5:38; 16:97; 24:2; 40:40
 - gorɗo jeyaa e doole caggal debbo 2:228
 - Nyaamnude tooɗi, maccuɓe e jiyaaɓe 76:8-9
 - Yaafooye e haɗde ngaari 3:134; 42:40
 - Yooltude jiyaaɓe e wallirde ɓe 4:92; 5:89; 9:60; 24:33; 58:3; 90:13
 - Teddinde mawɓe 4:36; 17:23-25; 31:14-15
 - Neeɓal 17:37; 31:18-19
-- Faamuɗe yeenkinaare Ibraahiima 37:102;
-- Faamuɗe yeenkinaare Yuusufa 12:4; 12:36; 12:43;
+- Faamuɗe yeenkinaare Ibraahiima 37:102
+- Faamuɗe yeenkinaare Yuusufa 12:4; 12:36; 12:43
 - Faamuɗe yeenkinaare Muhammadu 8:43; 48:27
 - Moƴƴal e kaafiriiko 60:8
-- Dewgal 4:3; 4:129; 16:72; 30:21;
-- rewɓe halal e haramiiji e dewgal 4:22-24;
-- newaare tawande 2:222-223;
-- rewel e ñiiɓugol 2:233; 31:4; 46:15; 65:6;
-- ruttirde jom dewel adannde 2:230;
-- wallirde gaannooɓe dewgal 24:32;
+- Dewgal 4:3; 4:129; 16:72; 30:21
+- rewɓe halal e haramiiji e dewgal 4:22-24
+- newaare tawande 2:222-223
+- rewel e ñiiɓugol 2:233; 31:4; 46:15; 65:6
+- ruttirde jom dewel adannde 2:230
+- wallirde gaannooɓe dewgal 24:32
 - feñnude yiɗde e sahre talaaka 2:235
-- Kuutorɗe 2:224-225; 16:91-92; 16:94;
+- Kuutorɗe 2:224-225; 16:91-92; 16:94
 - yoɓde kuutorɗe bonde 5:89
 - Muñal e sahraaji 2:45; 2:153-157; 3:186; 12:18; 12:83; 16:127-128; 70:5
-- Hakke naatirde 24:58-60;
-- naatirde suuɗe yimɓe 24:27-28;
+- Hakke naatirde 24:58-60
+- naatirde suuɗe yimɓe 24:27-28
 - naatirde nokkuuje yimɓe 24:29
-- Newaare jama'a, tiindina khabar 4:83; 49:6;
-- teddinirde fof 49:11-12;
-- newaare renndo 58:11;
+- Newaare jama'a, tiindina khabar 4:83; 49:6
+- teddinirde fof 49:11-12
+- newaare renndo 58:11
 - haalaaji suuɗunde 4:114; 58:9
 - Yettinannde 2:270; 9:75-77; 22:29; 76:7
 - Ɓoɓɓugol e cakicaaɗo 7:31; 17:29; 25:67
 Toontuuji woɗɓe
-- Haabila e Qaabila 5:27-31;
-- Al-Khadir e Muusaa 18:60-82;
-- Sordeeji Fil 105:1-4;
-- muminɗo e yimɓe Fir'awna 40:28-46;
-- warngo Maryama 3:35-36;
-- Nagge Ɓiɓɓe Israiila 2:67-74;
-- Uzayru 2:259;
+- Haabila e Qaabila 5:27-31
+- Al-Khadir e Muusaa 18:60-82
+- Sordeeji Fil 105:1-4
+- muminɗo e yimɓe Fir'awna 40:28-46
+- warngo Maryama 3:35-36
+- Nagge Ɓiɓɓe Israiila 2:67-74
+- Uzayru 2:259
 - yimɓe suudu 68:17-32
 - Haruuta e Maruuta 2:102
 - Qaruuna 28:76-82
-- Miijo Luqmaana e ɓii mum 31:12-19;
-- jom suuɗe ɗiɗi 18:32-44;
-- yimɓe Saba'u 34:15-19;
-- yimɓe luunde 18:9-26;
-- yimɓe kuɓɓe 85:1-8;
-- ɓooyaniiɓe Sabiti 7:163-165;
-- Samiiru e Naange Wutte 20:83-97;
-- Taaluutu e Samuiila 2:247-251;
+- Miijo Luqmaana e ɓii mum 31:12-19
+- jom suuɗe ɗiɗi 18:32-44
+- yimɓe Saba'u 34:15-19
+- yimɓe luunde 18:9-26
+- yimɓe kuɓɓe 85:1-8
+- ɓooyaniiɓe Sabiti 7:163-165
+- Samiiru e Naange Wutte 20:83-97
+- Taaluutu e Samuiila 2:247-251
 - Dhul-Qarain 18:83-98
-Sheyaaɗe 2:102; 6:71; 6:112; 6:121; 7:27; 7:30; 17:27; 19:68; 19:83; 22:3-4; 23:97-98; 26:210; 37:7-10; 38:37-38; 67:5;
-- sheyaaɗe yimɓe e jinn 6:112;114:6;
+Sheyaaɗe 2:102; 6:71; 6:112; 6:121; 7:27; 7:30; 17:27; 19:68; 19:83; 22:3-4; 23:97-98; 26:210; 37:7-10; 38:37-38; 67:5
+- sheyaaɗe yimɓe e jinn 6:112;114:6
 - kammu kaɗtiniraa e sheyaaɗe 15:16-18
 Heɓtaare
-- yopaade naatugol annabi 25:27;
-- tiiɗde Alla e Nelaaɗo Mum 4:41-42; 33:64-68;
-- nannginirde miñaaɓe bonɗo 25:28-29; 26:96-102; 43:36-39;
-- haɗde calɗiiji Alla 6:27-30;
+- yopaade naatugol annabi 25:27
+- tiiɗde Alla e Nelaaɗo Mum 4:41-42; 33:64-68
+- nannginirde miñaaɓe bonɗo 25:28-29; 26:96-102; 43:36-39
+- haɗde calɗiiji Alla 6:27-30
 - alaa golle e aakhira 89:23-24
 Ɗaɓɓirde e toɓɓe
-- ƴamirde ruttugol e aduna 2:167; 6:27-28; 32:12-14; 42:44;
-- ƴamirde sahre ɓaawo 35:36-37;
-- ƴamirde yaltugol e Yiite 40:10-12;
-- ƴamirde ñaama e ndiyam 7:51-52;
-- ƴamirde sifanteefaaɓe 7:52-53;
-- ƴamirde ngayli e bunde 4:41-42; 78:40;
+- ƴamirde ruttugol e aduna 2:167; 6:27-28; 32:12-14; 42:44
+- ƴamirde sahre ɓaawo 35:36-37
+- ƴamirde yaltugol e Yiite 40:10-12
+- ƴamirde ñaama e ndiyam 7:51-52
+- ƴamirde sifanteefaaɓe 7:52-53
+- ƴamirde ngayli e bunde 4:41-42; 78:40
 - ƴamirde maayde 43:74-78
 Tiiɗaaɗe moƴƴooɓe
 - kaɗtinirde hakke Ngeloobiiɗo e ngelooba mum 3:133-136; 4:36; 4:69-70; 6:151-154; 8:2-4; 13:19-24; 17:23-39;18:107-108; 23:1-11; 25:63-76; 42:36-43
 Tiiɗaaɗe joofɓe
-- alaa faannirde 14:34;
-- cakicaaɗo 17:100;
-- gaawi 21:37;
-- hisndaa e Alla tan e sahraaji 10:12; 41:51;
-- muñal alaa 70:19;
+- alaa faannirde 14:34
+- cakicaaɗo 17:100
+- gaawi 21:37
+- hisndaa e Alla tan e sahraaji 10:12; 41:51
+- muñal alaa 70:19
 - haaldoowo 18:54
 Baleende Mawnde
-- co-jidugol e Alla e juulde (shirk) 4:48; 4:116; 5:72; 6:19; 31:13;
-- tooɗade mawɓe mum 4:36; 6:151; 17:23;
-- yopaade wala yoppude juulde toɗɗaaɗe 19:59-60;
-- alaa hokke zakat 41:6-7;
-- warngo 6:151; 17:33;
-- warde muminɗo e anniya 4:93;
-- garowiiɗo 5:38;
-- fenaande 7:85; 11:85; 26:182-183; 83:1-6;
-- feere 2:10; 9:77; 39:60;
-- feere e Alla 6:93; 29:68; 61:7;
+- co-jidugol e Alla e juulde (shirk) 4:48; 4:116; 5:72; 6:19; 31:13
+- tooɗade mawɓe mum 4:36; 6:151; 17:23
+- yopaade wala yoppude juulde toɗɗaaɗe 19:59-60
+- alaa hokke zakat 41:6-7
+- warngo 6:151; 17:33
+- warde muminɗo e anniya 4:93
+- garowiiɗo 5:38
+- fenaande 7:85; 11:85; 26:182-183; 83:1-6
+- feere 2:10; 9:77; 39:60
+- feere e Alla 6:93; 29:68; 61:7
 - tawande haramiiji 2:222; 17:32; 24:2; 25:68; 29:28-30
-- toɗɗande fenaande boowal 24:4-5;
-- riddaaji 2:217; 5:54;
-- nyaamaade mbabba ndiyameeji e ñaama haramiiji woɗɗi (maayre, ƴiiƴam, iwdi) 5:3; 6:145;
-- haramsundu e gambari 5:90-91;
-- haaldude boneere e ɓee 49:11;
-- seedeede fenaande 22:30;
+- toɗɗande fenaande boowal 24:4-5
+- riddaaji 2:217; 5:54
+- nyaamaade mbabba ndiyameeji e ñaama haramiiji woɗɗi (maayre, ƴiiƴam, iwdi) 5:3; 6:145
+- haramsundu e gambari 5:90-91
+- haaldude boneere e ɓee 49:11
+- seedeede fenaande 22:30
 - siinkaari 2:102; 10:77; 20:69
 """;
