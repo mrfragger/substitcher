@@ -2012,7 +2012,8 @@ Zumar, S.39
 - Ogun Uhud 3:151-180
 - Ogun Ìhámọ̀ 33:9-27
 - Ogun Hunain 9:25-27
-- Madinah 9:40; Tabuk 9:38-123
+- Madinah 9:40
+- Tabuk 9:38-123
 - Banu An-Naḍîr 59:2-6
 - Hamra' Al-Asad 3:172-175
 - Àdéhùn Hudaibiyah 48:1-7; 48:10-29

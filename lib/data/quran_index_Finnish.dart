@@ -2012,7 +2012,8 @@ Profeetan ( ﷺ ) kohtaamat haasteet
 - Uhudin taistelu 3:151-180
 - Juoksuhaudan taistelu 33:9-27
 - Hunainin taistelu 9:25-27
-- Medina 9:40; Tabuk 9:38-123
+- Medina 9:40
+- Tabuk 9:38-123
 - Banu An-Naḍîr 59:2-6
 - Hamra' Al-Asad 3:172-175
 - Hudaibiyahin aselepo 48:1-7; 48:10-29

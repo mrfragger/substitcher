@@ -2012,7 +2012,8 @@ Payg'ambarimiz ( ﷺ ) duch kelgan qiyinchiliklar
 - Uhud jangi 3:151-180
 - Xandaq jangi 33:9-27
 - Hunayn jangi 9:25-27
-- Madina 9:40; Tabuk 9:38-123
+- Madina 9:40
+- Tabuk 9:38-123
 - Banu an-Nazîr 59:2-6
 - Hamro' al-Asad 3:172-175
 - Hudaybiya sulhi 48:1-7; 48:10-29

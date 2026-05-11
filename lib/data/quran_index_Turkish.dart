@@ -2623,7 +2623,8 @@ Peygamberin (ﷺ) hayatından dersler
 - Uhud Savaşı, 3:151-180
 - Hendek Savaşı, 33:9-27
 - Huneyn Savaşı, 9:25-27
-- Medine, 9:40; Tebük, 9:38-123
+- Medine, 9:40
+- Tebük, 9:38-123
 - Beni Nadir, 59:2-6
 - Hamraü'l-Esed, 3:172-175
 - Hudeybiye Antlaşması, 48:1-7; 48:10-29

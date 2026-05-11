@@ -2012,7 +2012,8 @@ Izifundo ezivela empilweni yoMprofethi ( ﷺ )
 - Impi yase-Uhud 3:151-180
 - Impi Yomsele 33:9-27
 - Impi yaseHunain 9:25-27
-- Medina 9:40; Thabo 9:38-123
+- Medina 9:40
+- Thabo 9:38-123
 - Banu An-Naḍîr 59:2-6
 - Hamra' Al-Asad 3:172-175
 - Iqiniso likaHudaibiyah 48:1-7; 48:10-29

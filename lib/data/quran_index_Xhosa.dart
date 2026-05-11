@@ -2012,7 +2012,8 @@ Izifundo ezivela kubomi boMprofeti ( ﷺ )
 - Imfazwe yaseUhud 3:151-180
 - Imfazwe yoMsele 33:9-27
 - Imfazwe yaseHunain 9:25-27
-- iMedina 9:40; Tabhuki 9:38-123
+- iMedina 9:40
+- Tabhuki 9:38-123
 - Banu An-Naḍîr 59:2-6
 - Hamra' Al-Asad 3:172-175
 - Inyaniso kaHudaibiyah 48: 1-7; 48:10-29

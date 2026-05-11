@@ -273,12 +273,12 @@ class _QuranPanelState extends State<QuranPanel> {
                 ),
                 const SizedBox(width: 10),
                 const Text(
-                  '* no vtt subs yet on quranenc.com',
+                  '* no vtt subs',
                   style: TextStyle(color: Colors.white38, fontSize: 12),
                 ),
                 const SizedBox(width: 4),
                 Tooltip(
-                  message: 'csv needs to be complete, check back in 2028 or 2029',
+                  message: 'csv needs to be downloadable on quranenc.com, check back in 2028 or 2029',
                   preferBelow: true,
                   textStyle: const TextStyle(color: Colors.white, fontSize: 12),
                   decoration: BoxDecoration(

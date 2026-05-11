@@ -2012,7 +2012,8 @@ Lessons from the life of the Prophet (ﷺ) (Những bài học từ cuộc đờ
 - Trận chiến Uhud 3:151-180
 - Trận chiến Hào 33:9-27
 - Trận chiến Hunain 9:25-27
-- Medina 9:40; Tabuk 9:38-123
+- Medina 9:40
+- Tabuk 9:38-123
 - Banu An-Nadir 59:2-6
 - Hamra' Al-Asad 3:172-175
 - Hiệp ước Hudaibiyah 48:1-7; 48:10-29
