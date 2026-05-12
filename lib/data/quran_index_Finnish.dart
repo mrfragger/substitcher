@@ -2194,8 +2194,7 @@ Ihmistyypit
 - helvetin asukkaat, vasemmistolaiset 55:31-45; 56:41-56
 - kukkuloiden ihmiset 7:46-49
 Taloudellinen
-- Liiketoimintaohjeet 2:188; 2:275; 2:282-283; 4:29; 4:58; 6:152; 17:34-35
-24:36-37; 26:182; 30:39; 55:7-9; 62:9
+- Liiketoimintaohjeet 2:188; 2:275; 2:282-283; 4:29; 4:58; 6:152; 17:34-35; 24:36-37; 26:182; 30:39; 55:7-9; 62:9
 - Testamenttilahjoitukset, valinnaiset testamenttilahjoitukset ei-perillisille 2:180-183; 4:11-12
 ennen kuolemaa matkalla ollessaan 5:106-108
 - Lahjonta 2:188
