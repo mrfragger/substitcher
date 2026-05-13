@@ -1,14 +1,16 @@
 const String quranIndexLingalaRaw = r"""
-redo this one
+Manzil Mabondeli 1:1-7; 2:1-5, 163, 255-257, 284-286; 3:18, 26-27, 7:54-56, 117-122, 17:110-111; 23:115-118; 37:1-11; 55:33-40; 59:21-24; 72:1-4, 109:1-6; 112:1-4, 113:1-5; 114:1-6
+Nkolo na biso Mabondeli 2:127-128, 201, 250, 286; 3:8-9, 16, 53, 147, 191-194; 5:83, 114; 7:23, 47, 89, 126, 155; 10:85-88; 11:47; 12:101; 14:38-41; 17:80; 18:10; 20:114; 23:109, 118; 25:65-66, 74; 28:24; 40:7-9; 59:10; 60:4-7; 66:8
+Nkolo na ngai Mabondeli 3:38; 12:33; 14:35-36; 19:3-6; 20:25-28, 45, 114; 21:83, 87, 89; 23:26, 29, 93-94, 97-98; 26:83-87, 169; 27:19; 28:16-17, 21; 29:30; 37:100; 38:35, 41; 46:15, 71:26-28
 Alona (Harune) 2:248; 4:163 mpe; 6:84; 7:122, 142; 10:75 mpe; 19:28, 53; 20:30, 70, 90, 92, mpe 20:30, 70, 90, 92; 21:48; 23:45; 25:35; 26:13, 48; 28:34; 37:114, 120. Ezali na ntina te.
 ‘Abasa, S.80,; 74:22
 Ba ablutions (Wudu), 4:43; 5:6
-Abalayama (Ibrahim) S.14 mpe azali; 2:135-136, 148,; 3:33, 84, 95; 4:54, 125, 163; 6:161; 9:70, 114; 12:6, 38; 16:120; 19:58; 21:51, 60, 62, 69; 22:43, 78; 26:69; 29:31; 33:7; 37:83, 104, 109,; 38:45, mpe 38:45; 42:13; 43:26; 51:24; 53:37; 57:26; 60:4; 87:19
+Abalayama (Ibrahim) S.14; 2:135-136, 148,; 3:33, 84, 95; 4:54, 125, 163; 6:161; 9:70, 114; 12:6, 38; 16:120; 19:58; 21:51, 60, 62, 69; 22:43, 78; 26:69; 29:31; 33:7; 37:83, 104, 109,; 38:45, mpe 38:45; 42:13; 43:26; 51:24; 53:37; 57:26; 60:4; 87:19
 - ezala Moyuda te to moklisto te, 3:67-68
 - atelemaki na tempelo ya liboso na Bakkah, 3:97; 26:123
 - etomboli miboko ya Ka’bah 2:124-129
-- abengi bato na ye na losambo ya Nzambe Moko ya Solo 2:130-133; 26:69-89, NW; 29:16; 29:24-27
-- azali kotyana ntembe mokonzi ya lolendo 2:258, 259 .
+- abengi bato na ye na losambo ya Nzambe Moko ya Solo 2:130-133; 26:69-89, 29:16; 29:24-27
+- azali kotyana ntembe mokonzi ya lolendo 2:258, 259
 - atuni na ntina ya lisekwa 2:260
 - ezala Moyuda te to moklisto te 3:65-68
 - azali koboya losambo ya lola 6:74-87
@@ -17,7 +19,7 @@ Abalayama (Ibrahim) S.14 mpe azali; 2:135-136, 148,; 3:33, 84, 95; 4:54, 125, 16
 - etalelami na baanzelu 15:51-56
 - ndakisa ya ndakisa 16:123
 - abengi tata na ye na bosolo 19:41-50
-- abebisi bikeko pe abikisami na moto 21:51-73; 37:83-113 mpe oyo
+- abebisi bikeko pe abikisami na moto 21:51-73; 37:83-113
 - abengi banso na pèlerinage 22:26
 Abrar, 3:193, 198, mpe 198; 76:5; 82:13; 83:18-22
 Kolongolama ya mibeko, 2:106, 16:101
@@ -27,14 +29,14 @@ Adama, 3:33, 59; 5:27; 7:26-27, 31, 35, 172; 17:70 mpe; 19:58; 36:60
 - baanzelu mpo na kofukama liboso, 2:34; 7:11
 - nzete ya boyebi, 2:35; 7:19-20; 20:120-121
 - kobengana ye na Elanga (kopesa foti te na Eva), 2:36; 7:24
-- ekumisami na Allah, amekami na Satana 2:30-38; 7:11-25; 17:61-65, mpe 17:61-65; 18:50 mpe; 20:115-123 mpe na 123; 38:71-85 mpe oyo
+- ekumisami na Allah, amekami na Satana 2:30-38; 7:11-25; 17:61-65, 17:61-65; 18:50; 20:115-123; 38:71-85
 - elimbisami na Allah 2:37; 20:122
-‘Adiyat, S.100, oyo ezali na buku yango
+‘Adiyat, S.100
 ‘Adn Paladiso, 9:72; 13:23; 16:31; 18:31
-19:61; 20:76 mpe; 35:33; 38:50 mpe; 40:8; 61:12; 98:8
+19:61; 20:76; 35:33; 38:50; 40:8; 61:12; 98:8
 Mikakatano
 - kozala na kilo ya moto mosusu te, 6:164; 17:15; 35:18; 39:7; 53:38
-- kilo te koleka makoki ya kotelemela, 2:286; 6:152 mpe; 7:42; 23:62
+- kilo te koleka makoki ya kotelemela, 2:286; 6:152; 7:42; 23:62
 - motema molai na tango ya, 2:153; 2:155 mpe; 2:177 mpe; 2:250 mpe; 3:17; 3:125; 3:142 mpe; 3:146; 3:186 mpe; 3:200 mpe; 7:87; 7:126; 7:128; 7:137; 8:46; 8:65; 8:66; 10:109 mpe; 11:11; 11:49; 11:115, mpe 11:115; 12:18; 12:83; 12:90;13:22, mpe 13:22; 16:96; 16:110; 16:126; 21:85 mpe; 22:35; 23:111; 28:54, mpe 28:54; 29:59; 30:60 mpe; 31:17; 31:31;37:102 mpe oyo; 38:44, mpe 38:44; 39:10; 40:55 mpe; 40:77 mpe; 41:35 mpe; 42:33; 46:35 mpe; 47:31; 70:5; 76:12; 90:17; 103:3
 Kokóma mobange, 16:70; 22:5; 30:54 mpe; 36:68
 - bizaleli epai ya baboti oyo bakómi mibange oyo bazali na bobateli na yo, 17:23

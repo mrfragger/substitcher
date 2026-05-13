@@ -596,6 +596,43 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       setState(() => _showPanel = false);
     }
 
+    void _playNextQuranRef() {
+      final active = _activeQuranRef;
+      if (active == null) return;
+
+      QuranIndexEntry? ownerEntry;
+      int refIndexInEntry = -1;
+
+      for (final entry in _quranEntries) {
+        for (int i = 0; i < entry.refs.length; i++) {
+          final r = entry.refs[i];
+          if (r.surah == active.surah &&
+              r.fromAyah == active.fromAyah &&
+              r.toAyah == active.toAyah &&
+              r.isFullSurah == active.isFullSurah) {
+            ownerEntry = entry;
+            refIndexInEntry = i;
+            break;
+          }
+        }
+        if (ownerEntry != null) break;
+      }
+
+      if (ownerEntry == null || refIndexInEntry == -1) return;
+      if (refIndexInEntry >= ownerEntry.refs.length - 1) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            content: Text('End of "${ownerEntry.topic}"'),
+            duration: const Duration(seconds: 1),
+          ),
+        );
+        return;
+      }
+
+      final nextRef = ownerEntry.refs[refIndexInEntry + 1];
+      _navigateToQuranVerse(nextRef, _activeQuranFilteredIndex ?? 0);
+    }
+
   Future<void> _loadQuranVttForFile(String targetOpusPath) async {
     final currentVtt = _subtitleFilePath;
     if (currentVtt == null) return;
@@ -7320,8 +7357,10 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             _setSleepTimer(Duration.zero);
             return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyQ && event is KeyDownEvent) {
-            if (HardwareKeyboard.instance.isShiftPressed) {
+            if (HardwareKeyboard.instance.isControlPressed) {
               _applyDefaultSettings();
+            } else if (HardwareKeyboard.instance.isShiftPressed) {
+              _playNextQuranRef();
             } else {
               setState(() {
                 _showPanel = true;

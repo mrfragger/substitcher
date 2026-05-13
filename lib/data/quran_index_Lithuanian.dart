@@ -1,4 +1,10 @@
 const String quranIndexLithuanianRaw = r"""
+Okusaba kwa Manzil 1:1-7; 2:1-5, 163, 255-257, 284-286; 3:18, 26-27, 7:54-56, 117-122, 17:110-111; 23:115-118; 37:1-11; 55:33-40; 59:21-24; 72:1-4, 109:1-6; 112:1-4, 113:1-5; 114:1-6
+Mukama waffe Okusaba 2:127-128, 201, 250, 286; 3:8-9, 16, 53, 147, 191-194; 5:83, 114; 7:23, 47, 89, 126, 155; 10:85-88; 11:47; 12:101; 14:38-41; 17:80; 18:10; 20:114; 23:109, 118; 25:65-66, 74; 28:24; 40:7-9; 59:10; 60:4-7; 66:8
+Mukama wange Okusaba 3:38; 12:33; 14:35-36; 19:3-6; 20:25-28, 45, 114; 21:83, 87, 89; 23:26, 29, 93-94, 97-98; 26:83-87, 169; 27:19; 28:16-17, 21; 29:30; 37:100; 38:35, 41; 46:15, 71:26-28
+Manzil Maldos 1:1-7; 2:1-5, 163, 255-257, 284-286; 3:18, 26-27, 7:54-56, 117-122, 17:110-111; 23:115-118; 37:1-11; 55:33-40; 59:21-24; 72:1-4, 109:1-6; 112:1-4, 113:1-5; 114:1-6
+Viešpatie mūsų Maldos 2:127-128, 201, 250, 286; 3:8-9, 16, 53, 147, 191-194; 5:83, 114; 7:23, 47, 89, 126, 155; 10:85-88; 11:47; 12:101; 14:38-41; 17:80; 18:10; 20:114; 23:109, 118; 25:65-66, 74; 28:24; 40:7-9; 59:10; 60:4-7; 66:8
+Viešpatie mano Maldos 3:38; 12:33; 14:35-36; 19:3-6; 20:25-28, 45, 114; 21:83, 87, 89; 23:26, 29, 93-94, 97-98; 26:83-87, 169; 27:19; 28:16-17, 21; 29:30; 37:100; 38:35, 41; 46:15, 71:26-28
 Aronas (Harunas) 2:248; 4:163; 6:84; 7:122, 142; 10:75; 19:28, 53; 20:30, 70, 90, 92; 21:48; 23:45; 25:35; 26:13, 48; 28:34; 37:114, 120.
 Abasa, S.80; 74:22
 Apsiplovimai (Vudu), 4:43; 5:6
@@ -16,13 +22,13 @@ Abraomas (Ibrahimas) S.14; 2:135-136, 148; 3:33, 84, 95; 4:54, 125, 163; 6:161; 
 - aplankė angelai 15:51-56
 - pavyzdys 16:123
 - kviečia savo tėvą į tiesą 19:41-50
-- sunaikina stabus ir yra išgelbėjamas nuo ugnies 21:51–73; 37:83–113
+- sunaikina stabus ir yra išgelbėjamas nuo ugnies 21:51-73; 37:83-113
 - kviečia visus į piligriminę kelionę 22:26
 Abrar, 3:193, 198; 76:5; 82:13; 83:18-22
 Panaikinimai, 2:106, 16:101
 Abu Lahabas, 111:1-5
-„Reklamos žmonės“, 7:65–74; 9:70; 11:59; 14:9; 22:42; 25:38; 26:123; 29:38; 38:12; 40:31; 41:13, 15; 46:21; 50:13; 51:41; 53:50; 54:18; 69:4–6; 89:6
-Adomas, 3:33, 59; 5:27; 7:26–27, 31, 35, 172; 17:70; 19:58; 36:60
+„Reklamos žmonės“, 7:65-74; 9:70; 11:59; 14:9; 22:42; 25:38; 26:123; 29:38; 38:12; 40:31; 41:13, 15; 46:21; 50:13; 51:41; 53:50; 54:18; 69:4-6; 89:6
+Adomas, 3:33, 59; 5:27; 7:26-27, 31, 35, 172; 17:70; 19:58; 36:60
 - angelai turi nusilenkti prieš, 2:34; 7:11
 - pažinimo medis, 2:35; 7:19-20; 20:120-121
 - išvarymas iš Rojaus sodo (Ieva nekaltinama), 2:36; 7:24
@@ -32,7 +38,7 @@ Adijatas, S.100
 „Adn Rojus, 9:72; 13:23; 16:31; 18:31;19:61; 20:76; 35:33; 38:50; 40:8; 61:12; 98:8
 Nelaimė
 - neapkrautas kito našta, 6:164; 17:15; 35:18; 39:7; 53:38
-– neapkrautas daugiau, nei pajėgus atlaikyti, 2:286; 6:152; 7:42; 23:62
+- neapkrautas daugiau, nei pajėgus atlaikyti, 2:286; 6:152; 7:42; 23:62
 - kantrybė per, 2:153; 2:155; 2:177; 2:250; 3:17; 3:125; 3:142; 3:146; 3:186; 3:200; 7:87; 7:126; 7:128; 7:137; 8:46; 8:65; 8:66; 10:109; 11:11; 11:49; 11:115; 12:18; 12:83; 12:90;13:22; 16:96; 16:110; 16:126; 21:85; 22:35; 23:111; 28:54; 29:59; 30:60; 31:17; 31:31; 37:102; 38:44; 39:10; 40:55; 40:77; 41:35; 42:33; 46:35; 47:31; 70:5; 76:12; 90:17; 103:3
 Senėjimas, 16:70; 22:5; 30:54; 36:68
 - elgesys su jūsų globojamiais senstančiais tėvais, 17:23
@@ -44,13 +50,13 @@ Pagal S.87; 87:1; 92:20
 Alaq, S.96
 Al-Imran, S.3
 Alachas
-– Jo diena yra penkiasdešimt tūkstančių metų, 70:4
-– viena diena Jam yra tūkstantis žmonių metų, 22:47; 32:5
+- Jo diena yra penkiasdešimt tūkstančių metų, 70:4
+- viena diena Jam yra tūkstantis žmonių metų, 22:47; 32:5
 - gebėjimas daryti bet ką, 2:106; 2:117; 3:165; 3:189; 8:41; 9:116; 11:4; 16:40; 40:68; 41:39; 42:49; 57:2
 - geriausias iš visų teisėjų, 95:8
 - neapibrėžiama, 43:82; 67:12
 - niekais paverčia netikinčiųjų planus, 8:30; 8:36
-– priversti žmones išnykti ir pagimdyti kitas būtybes, 4:133; 14:19; 35:16
+- priversti žmones išnykti ir pagimdyti kitas būtybes, 4:133; 14:19; 35:16
 - sukelia juoką ir verksmą, 53:43
 - privertė vyrą miegoti šimtmetį, 2:259
 - tiesą neigiančių priešas, 2:98
@@ -58,14 +64,14 @@ Alachas
 - netikros dukterys, 16:57; 17:40; 43:16; 52:39; 53:21-22
 - vardu, 53:19-20
 - suteikia žmonėms laisvą valią, 36:67
-- viską dėl jo atiduodamas, 4:66–68; 4:125
+- viską dėl jo atiduodamas, 4:66-68; 4:125
 - gėris ir blogis yra iš Jo, 4:78
 - suteikia gyvybę ir mirtį, 44:8; 53:44; 57:2; 67:2
 - sunkiai dirbantys buvo geriau apdovanojami, 4:95-96; 5:54; 9:120; 49:15; 61:11
 - neturi sutuoktinio, 72:3
 - neturi sūnaus, 43:81; 72:3; 112:3
-– neapleido tavęs sunkiais laikais, 93:3
-– yra visur žinojime, 2:115; 2:142; 2:177; 4:126
+- neapleido tavęs sunkiais laikais, 93:3
+- yra visur žinojime, 2:115; 2:142; 2:177; 4:126
 - yra Pirmasis ir Paskutinis (alfa ir omega), 57:3
 - yra išorinis ir vidinis, 57:3
 - žino, kad nesuvokiamai, 6:59; 6:73; 9:94; 9:105; 13:9; 32:6; 34:48; 35:38-39:46;49:18; 59:22; 62:8; 64:18; 72:26; 74:31; 87:7
@@ -79,7 +85,7 @@ Alachas
 - prisimenant jį stovintį, sėdintį, gulintį, 3:191; 4:103; 10:12; 25:64
 - formuoja tave įsčiose, 3:6
 - sostas stovi ant vandens, 11:7
-– sukurs tai, apie ką jūs nežinote, 16:8
+- sukurs tai, apie ką jūs nežinote, 16:8
 - nenori nieko blogo savo kūrinijai, 3:108; 4:40; 17:71; 21:47; 22:10; 26:209; 40:31; 41:46; 45:22; 50:29; 64:11
 Aljansai, 8:72; 9:7
 - Krikščionys ir žydai, 5:51
@@ -88,33 +94,33 @@ Aljansai, 8:72; 9:7
 Aliasa (žr. Eliziejus)
 Amanah, Pasitikėjimas ir Alacho nustatytos pareigos ir kt., 2:283; 4:58; 8:27
 - žr. Pasitikėjimas
-Angelai, 2:30–34; 2:98; 2:285; 4:97; 8:50; 13:23; 21:108; 22:75; 25:22; 25:25; 32:11; 33:43; 33:56; 34:40; 35:1; 37:150; 38:71; 39:75; 41:14; 41:30; 42:5; 43:53; 43:60; 47:27; 53:26; 66:4; 66:6; 69:17; 70:4; 89:22; 97:4
-– sukurtas iš ugnies, 7:12; 38:76
+Angelai, 2:30-34; 2:98; 2:285; 4:97; 8:50; 13:23; 21:108; 22:75; 25:22; 25:25; 32:11; 33:43; 33:56; 34:40; 35:1; 37:150; 38:71; 39:75; 41:14; 41:30; 42:5; 43:53; 43:60; 47:27; 53:26; 66:4; 66:6; 69:17; 70:4; 89:22; 97:4
+- sukurtas iš ugnies, 7:12; 38:76
 - aštuoni neš Alacho sostą Teismo dieną, 69:17
 - melagingas teiginys, kad jos yra moterys, 43:19; 53:27
 - globėjas 82:10-12; 86:4
 - devyniolika pragaro valdovų, 74:30-31
-– nesiunčiamas tenkinti užgaidų, 15:7–8
+- nesiunčiamas tenkinti užgaidų, 15:7-8
 - išsiųsta įkvėpti, 16:2
 Pyktis, sulaikyti, 3:134
 Ankabutas, S.29
 Skruzdėlės, 27:18
 Beždžionės, 5:60
 - niekingas, 2:65; 7:166
-Atsisakymas, 3:72; 3:86–88; 3:90–91; 3:167; 4:137; 5:54; 9:74; 9:107; 16:106; 33:14
+Atsisakymas, 3:72; 3:86-88; 3:90-91; 3:167; 4:137; 5:54; 9:74; 9:107; 16:106; 33:14
 - neprašykite greitos pražūties atskalūnams, 46:35
 - Tik Alachas juos nubaus, 73:11; 74:11
 - bausmė pomirtiniame gyvenime, 2:217; 9:74
 - kitų atstūmimas, 3:87
 - atgaila, 3:89; 5:34; 9:5; 9:11
-– Teismo dieną jau per vėlu, 40:85
+- Teismo dieną jau per vėlu, 40:85
 - esant prievartai, 16:106
 Atskalūnai, 47:25
 A'raf, S.7; 7:46, 48
 Arafatas, 2:198
 Ginčytis
 - ne tų, kurie apgaudinėja save, vardu, 4:107
-– jūs gynėte juos šiame pasaulyje, bet kas už juos gins Prisikėlimo dieną, 4:109
+- jūs gynėte juos šiame pasaulyje, bet kas už juos gins Prisikėlimo dieną, 4:109
 Ginčai / atakos
 - atsakyti tuo pačiu, 8:58
 - būti kantriam yra daug geriau, 16:126
@@ -128,16 +134,16 @@ Al-Bait-ul-Ma mur, 52:4
 Baka (Meka), 3:96
 B'al, 37:125
 Baladas, S.90
-Balansas, 7:8–9; 17:35; 21:47; 55:7–9; 57:25; 101:6–9
+Balansas, 7:8-9; 17:35; 21:47; 55:7-9; 57:25; 101:6-9
 Banu An-Nadir, 59:2-6, 13
 Bakara, S.2
 Bara'a (žr. Taubah), S.9
 Barzakh, (barjeras), 23:100; 25:53; 55:20
-- taip pat žr. 18:94–97; 34:54; 36:9
+- taip pat žr. 18:94-97; 34:54; 36:9
 Baiyinah, S.98
 Žvėris (Paskutiniųjų Dienų), 27:82
-Beduinai, 9:90, 97–99, 101, 120; 48:11, 16; 49:14
-Bitė, 16:68–69
+Beduinai, 9:90, 97-99, 101, 120; 48:11, 16; 49:14
+Bitė, 16:68-69
 Elgesys
 - maloniai ginčytis su tais, kuriems anksčiau buvo duotas apreiškimas, 16:125, 29:46
 - venkite kištis į reikalus, apie kuriuos nieko nežinote, 17:36
@@ -159,20 +165,20 @@ Elgesys
 - atleisti netikintiesiems, 31:15; 45:14
 - lengvai atleiskite, 42:37
 - valdovai priima sprendimus po konsultacijų, 42:38
-– ir pranašas, 10:47; 16:36
+- ir pranašas, 10:47; 16:36
 - tikinčiųjų šmeižimas yra nuodėmė, 33:58
 - vyrai (moterų atžvilgiu), 24:30
 - taikdariai apdovanoti, 42:40
-– teisingai kalbėkite su tais, kuriems reikia pagalbos, jei nieko kito negalite padaryti, 17:28
+- teisingai kalbėkite su tais, kuriems reikia pagalbos, jei nieko kito negalite padaryti, 17:28
 - jūsų globojamiems senstantiems tėvams, 17:23
 - kitų musulmonų atžvilgiu, 33:6
-- kitų atžvilgiu, 17:26–29; 17:35; 17:53; 60:8
+- kitų atžvilgiu, 17:26-29; 17:35; 17:53; 60:8
 - tėvų atžvilgiu, 46:15
 - vergų atžvilgiu, 4:36; 24:33
 - elgtis su nekariaujančiais netikinčiaisiais lygiai, 60:8
 - pranašo žmonos, 33:28-34
 - moterys (vyrų atžvilgiu), 24:31
-– visuose apreiškimuose, 2:136; 2:285
+- visuose apreiškimuose, 2:136; 2:285
 - prigimtis, 49:14-15
 Tikintieji, 2:2-5; 2:285; 8:2-4; 8:24
 Palikimas, 2:180, 240; 4:7, 12; 36:50
@@ -189,11 +195,11 @@ Budn, 22:36
 Našta
 - kito, joks naštų nešėjas neneš, 35:18; 39:7; 53:38
 - netikintys taip pat neš kitų naštas, 16:25; 29:13
-– iš tiesų blogos yra naštos, kurias jie neš, 6:31, 164
+- iš tiesų blogos yra naštos, kurias jie neš, 6:31, 164
 - Alachas neapkrauna žmogaus viršydamas savo galimybių ribas, 2:286; 7:42; 23:62
 Buruj (Didžiosios žvaigždės), S.85; 85:1; 15:16; 25:61
 Kupranugaris, 6:144; 7:40; 77:33; 88:17
-Belaisviai, 4:25; 8:67, 70, 71; 9:60; 33:26–27; 76:8
+Belaisviai, 4:25; 8:67, 70, 71; 9:60; 33:26-27; 76:8
 - taip pat žr. Karo belaisviai
 Galvijai, 3:14; 4:119; 5:1; 6:136, 138, 139, 142; 7:179; 10:24; 16:5-8, 10, 66, 80; 20:54; 22:28, 30, 34; 23:21; 25:44, 49; 26:133; 32:27; 35:28; 36:71-73; 39:6; 40:79; 42:11; 43:12-13; 47:12; 79:33; 80:32
 Thawr urvas, 9:40
@@ -202,13 +208,13 @@ Tikrumas su tiesa, 56:95; 69:51
 Labdara, (Sadaqah), 2:196, 263, 264, 270, 271, 273; 4:114; 9:58, 75, 76-79, 103, 104; 57:18;58:12-13
 - labdaros ir zakato objektai, 2:273; 9:60
 Vaikai 2:233; 42:49-50
-– pražuvę tie, kurie nužudė savuosius iš kvailumo, neturėdami žinių, 6:140
+- pražuvę tie, kurie nužudė savuosius iš kvailumo, neturėdami žinių, 6:140
 Kristus (žr. Jėzus)
-Krikščionys, 5:14, 19, 64–65, 69; 22:17
+Krikščionys, 5:14, 19, 64-65, 69; 22:17
 - prašoma nesudievinti Jėzaus, 4:171
 - labiausiai priartėti prie meilės jausmo musulmonams, 5:82
-– dauguma pamiršo, ką jiems buvo liepta turėti omenyje, 5:14
-– dabar pas jus ateina pasiuntinys, 5:15, 19
+- dauguma pamiršo, ką jiems buvo liepta turėti omenyje, 5:14
+- dabar pas jus ateina pasiuntinys, 5:15, 19
 - teisieji bus apdovanoti, 2:62; 5:65; 5:69
 - sakyti „Jėzus yra Alacho sūnus“, 9:30
 Sugriauti miestai, 69:9
@@ -230,7 +236,7 @@ Kūryba
 - po šešių dienų, 7:54; 11:7; 32:4; 50:38; 57:4
 - poromis, 13:3; 30:8; 36:36; 42:11; 43:12; 51:9,49; 53:45
 - įvairovė, 35:27-28
-- Alachas įsako „Būk!“ – ir tai įvyksta, 2:117; 16:40; 36:82; 40:68
+- Alachas įsako „Būk!“ - ir tai įvyksta, 2:117; 16:40; 36:82; 40:68
 - kaip akimirksnis, 54:50
 - naktis ir diena, saulė ir mėnulis, 39:5
 - dangaus ir žemės, didesnės už žmoniją, 40:57; 79:27
@@ -239,34 +245,34 @@ Varna, 5:31
 Kriterijus, 2:53, 185; 3:4; 8:29, 41; 21:48; 25:1
 Dahr, (žr. Insan,) S.76; 45:24
 - laikas, 76:1; 103:1
-Dovydas, 5:78; 6:84; 17:55; 34:10, 13; 38:17–30
+Dovydas, 5:78; 6:84; 17:55; 34:10, 13; 38:17-30
 - atsižvelgiant į Psalmių 4:163
 - kovoja ir nužudo Galijotą, 2:251
-- priima sprendimą 21:78–80
+- priima sprendimą 21:78-80
 - palaimintas žiniomis ir pranašyste 27:15-16
 - kalnai ir paukščiai kartu su juo šlovina Alachą 34:10; 38:17-20
 - teisėjai tarp dviejų žmonių 38:21-26
 Dawabb arba Dabbah (judantis gyvas padaras ir kt.) 2:164; 6:38; 8:22, 55; 11:6, 56; 16:49, 61; 22:18; 24:45; 27:82; 29:60; 31:10; 34:14; 35:28, 45; 42:29; 45:4
 Mirusieji bus prikelti, 6:36
-Mirtis, 3:185; 3:193; 4:78; 6:61; 6:93; 21:35; 23:99–108; 31:34; 32:11; 33:19; 33:23; 44:56; 47:27; 50:19–20; 56:60–62; 56:83–96; 75:29; 75:26–35
+Mirtis, 3:185; 3:193; 4:78; 6:61; 6:93; 21:35; 23:99-108; 31:34; 32:11; 33:19; 33:23; 44:56; 47:27; 50:19-20; 56:60-62; 56:83-96; 75:29; 75:26-35
 - ir pabėgimas iš mūšio lauko, 33:16
 - Alacho reikaluose, 3:195; 22:58; 47:4
 - bendruomenės, kurios neturi apreiškimo, nebus sunaikintos, 6:131; 9:115; 10:47; 11:117; 15:4; 16:119; 17:15; 28:59
 - tie, kurie nužudyti Alacho kelyje, yra gyvi, 2:154; 3:169
 - bėgdami nuo blogio pas Allahą, 4:100
-– negalima sustabdyti ar atidėti 63:10–11
+- negalima sustabdyti ar atidėti 63:10-11
 - miego brolis dvynys 6:60; 39:42
 - tikintieji ir netikintieji mirties metu 8:50; 16:27-32; 41:30
 - bausmė kape 40:46
-Skolos, 2:280, 282; 4:11–12
+Skolos, 2:280, 282; 4:11-12
 Dekretas
-– kiekvienam klausimui yra savasis, 13:38
+- kiekvienam klausimui yra savasis, 13:38
 Mes niekada nesunaikinome miestelio, kuris nebūtų žinomas dėl jo, 15:4
 - kiekvienas reikalas yra iš Alacho, 44:5
-– kai Jis nusprendžia ką nors, Jis tik sako: „Būk!“ – ir tai yra, 2:117; 36:82; 40:68
+- kai Jis nusprendžia ką nors, Jis tik sako: „Būk!“ - ir tai yra, 2:117; 36:82; 40:68
 Veiksmai
 - blogis, dėl jų pagražintas, 47:14
-– mums mūsų, jums jūsų darbai, 28:55; 42:15; 45:15
+- mums mūsų, jums jūsų darbai, 28:55; 42:15; 45:15
 - geras ir blogas, yra už ir prieš save patį, 41:46
 - prisisegė vyro, prie savo kaklo, 17:13
 Laipsniai, pagal tai, ką jie padarė, 6:132
@@ -277,7 +283,7 @@ Nenusiminkite dėl Alacho Gailestingumo, 39:53; 21:87-88; 68:48-50
 Dhariyat, S.51
 Dhikr, 7:205; 15:6, 9
 Dhul-Kifi, 21:85; 38:48
-Dhul-Qarain, 18:83–98
+Dhul-Qarain, 18:83-98
 Dhun-Nun (žuvies palydovas)
 Netikintys (taip pat žr. Veidmainiai)
 - paprašykite Muhammado ( ﷺ ) išprovokuoti jiems Alacho rūstybę kaip įrodymą, 6:57-58; 8:32; 10:49-52
@@ -303,7 +309,7 @@ Griovys, žmonės, 85:4-10
 Įvairovė
 - žmonių, 30:22, 35:27-28
 - gyvenimo, 35:27-28
-Skyrybos, 2:228–232, 236–237, 241; 4:35, 130; 65:1–7
+Skyrybos, 2:228-232, 236-237, 241; 4:35, 130; 65:1-7
 - pasibaigus laukimo laikotarpiui, nutraukti santuoką arba susitaikyti, 2:231; 65:2
 - du liudytojai, 65:2
 - alimentai, 2:233, 241
@@ -332,8 +338,8 @@ Skyrybos, moteris
 - turi teisę į išlaikymą, 2:241; 65:1
 - lygios teisės į skyrybas, 2:228
 - baimė dėl vyro netinkamo elgesio, 4:128
-– gali pasilikti tai, ką jai davė vyras, 2:229
-– nebūti išvarytiems iš namų, 65:1
+- gali pasilikti tai, ką jai davė vyras, 2:229
+- nebūti išvarytiems iš namų, 65:1
 - trys menstruacijos laukia, kol bus paneigtas nėštumas, 2:228
 - trijų mėnesių laukimas tiems, kuriems nėra menstruacijų, 65:4
 - nebent santuoka būtų neįvykdyta, 33:49
@@ -350,9 +356,9 @@ Elijas (Elijas; Iljasinas) 6:85; 37:123-132
 Eliziejus (Alyasa) 6:86; 38:48
 Enochas (žr. Idris)
 Įvykis, 56:1; 69:15
-Blogis, 4:123; 10:27–30; 19:83; 59:15
-– neturėtų būti ištariama viešai, 4:148
-– ateina iš mūsų pačių, bet gėris – iš Alacho, 4:79; 42:48
+Blogis, 4:123; 10:27-30; 19:83; 59:15
+- neturėtų būti ištariama viešai, 4:148
+- ateina iš mūsų pačių, bet gėris - iš Alacho, 4:79; 42:48
 - atleisk, 4:149
 - atlyginta, 6:160; 42:40
 - kurie rezga planus, 16:45-47
@@ -384,7 +390,7 @@ Netikri dievai
 - taip pat žr. Taghut
 Melas (Batilas), 2:42; 3:71; 8:8; 9:24; 13:17; 17:81; 21:18; 22:62; 29:52, 67; 31:30; 34:49; 40:5; 41:42; 42:24; 47:3
 Pririšo žmogaus darbus prie savo kaklo, 17:13
-Pasninkas, 2:178, 183, 184–185, 187, 196; 4:92; 5:89, 95; 19:26; 33:35
+Pasninkas, 2:178, 183, 184-185, 187, 196; 4:92; 5:89, 95; 19:26; 33:35
 - valgykite ir gerkite, kol baltas siūlas pradės skirtis nuo juodo, 2:187
 Fath, S.48
 Fatihah, S.1
@@ -414,8 +420,8 @@ Maistas
 - nėra nuodėmės už tai, kas valgė praeityje, 5:93
 - neperžengti ribos, 5:87
 - nedarykite neteisėto to, ką Alachas padarė teisėtu, 5:87; 7:32; 16:116
-Draudžiamas elgesys, 6:151–152; 7:33
-Atleidimas, 2:109; 4:48, 110, 116; 5:74; 7:199; 39:53; 42:5, 40–43; 45:14; 53:32; 57:21
+Draudžiamas elgesys, 6:151-152; 7:33
+Atleidimas, 2:109; 4:48, 110, 116; 5:74; 7:199; 39:53; 42:5, 40-43; 45:14; 53:32; 57:21
 - tikinčiųjų pareiga, 42:37; 45:14
 - tikinčiųjų, Šventojo Rašto žmonėms, 2:109
 - Alachas atleidžia, kam nori, 4:48
@@ -433,18 +439,18 @@ Atleidimas, 2:109; 4:48, 110, 116; 5:74; 7:199; 39:53; 42:5, 40–43; 45:14; 53:
 Sukčiavimas (žr. Išdavystė) 83:1-6
 Laisva valia
 - apribota Alacho valios, 6:107; 10:99; 74:56; 76:31; 81:28-29
-– kas nori, tegul tiki ir netiki, 18:29
+- kas nori, tegul tiki ir netiki, 18:29
 - eik pas savo Viešpatį, 76:29
 - eiti tiesiai, 81:28
-Penktadienio maldos, 62:9–11
+Penktadienio maldos, 62:9-11
 Vaisiai, 6:41; 16:11
 - Rojuje, gausybėje, 43:73
 - visų rūšių, 47:15
 - kaip jie pageidauja, 77:42
-Fudžaras, 82:14–16; 83:7
+Fudžaras, 82:14-16; 83:7
 Furqan, S.25
 Fussilat (žr. Ha Mim), S.41
-Gabrielius (Džibrilas) 2:97–98; 26:193; 66:4; 81:19–21
+Gabrielius (Džibrilas) 2:97-98; 26:193; 66:4; 81:19-21
 - Rūta, 26:193; 67:12; 70:4; 78:38; 97:4
 - Ruh-ul-Qudus, 2:87, 253; 5:110; 16:102
 Azartiniai lošimai, 2:219; 5:90
@@ -453,21 +459,21 @@ Ghafir (žr. Mu'min), S.40
 Ghashiyah, S.88
 Ghusl, 4:43; 5:6
 Dovanos, 30:39
-Galijotas (Džalut) 2:249–251
+Galijotas (Džalut) 2:249-251
 Geros (Dienos), 3:140
-– tau nepatinka tai, kas yra bloga, ir patinka tai, kas yra bloga, 2:216
+- tau nepatinka tai, kas yra bloga, ir patinka tai, kas yra bloga, 2:216
 - būti apdovanotam, 4:85; 28:54
 - apdovanotas dvigubas smūgis, 4:40; 28:54
 - apdovanota dešimt kartų, 6:160
 - padidėjo, 42:23
-– tiems, kurie taip daro, laukia gėris ir Pomirtinio Gyvenimo namai, 16:30
+- tiems, kurie taip daro, laukia gėris ir Pomirtinio Gyvenimo namai, 16:30
 - skirta tiems, kurie daro gera šiame pasaulyje, 39:10
 - Alachas atlygina tiems, kurie daro tai, kas geriausia, 53:31
 - ar yra koks nors atlygis už tai, išskyrus gerą, 55:60
-– darykite taip, kaip jums buvo gera Alachas, 28:77
+- darykite taip, kaip jums buvo gera Alachas, 28:77
 Gėris ir Blogis
 - gėris yra iš Alacho, o blogis - iš tavęs paties, 4:79
-– jei darote gera sau, o jei darote bloga sau, 17:7; 41:46
+- jei darote gera sau, o jei darote bloga sau, 17:7; 41:46
 - atremti blogį gerumu, 23:96; 28:54; 41:34
 - geras ir blogas darbas negali būti lygūs, 41:34
 - kiekvienas žmogus susidurs su viskuo, ką jis yra padaręs, 3:30
@@ -475,12 +481,12 @@ Gėris ir Blogis
 Geras darbas
 - atskleisti arba nuslėpti, 4:149
 - stengtis kaip lenktynėse, 5:48
-Evangelija, 3:3, 48, 65; 5:46–47, 66, 68, 110; 7:157; 9:111; 48:29; 57:27
+Evangelija, 3:3, 48, 65; 5:46-47, 66, 68, 110; 7:157; 9:111; 48:29; 57:27
 Didžioji Naujiena, 78:1-5
 Sveikinimas, 4:86; 10:10; 14:23; 33:44; 25:75; 24:61
 Hadid, S.57
 Hady (aukojamas gyvūnas), 2:196, 200
-Hadžas (Piligrimystė), 2:158, 196–203; 3:97; 5:2; 22:30
+Hadžas (Piligrimystė), 2:158, 196-203; 3:97; 5:2; 22:30
 Hadžas, 22 psl.
 Hamanas, 28:6, 38; 29:39; 40:24, 36, 37
 Rankos ir kojos liudys, 36:65
@@ -500,15 +506,15 @@ Hashr, S.59
 Dangūs
 - Alachui priklauso tai, kas nematoma, 16:77
 - sukurta ne spektakliui, 21:16
-– ir žemė buvo sujungta, 21:30
+- ir žemė buvo sujungta, 21:30
 - ten nieko nėra paslėpta, 27:75
 - sukurtas be jokių ramsčių, 31:10
-– bus suvyniota Jo dešinėje, 39:67
+- bus suvyniota Jo dešinėje, 39:67
 - septynių dangų sukūrimas per dvi dienas, 41:12
 - papuoštas artimiausiu dangumi lempomis, 41:12
 - visa, kas yra, priklauso Alachui, 45:27; 53:31
 - septyni dangūs, vienas virš kito, 67:3
-Pragaras (ugnis, liepsnojanti liepsna) 2:24, 119, 161, 166, 201; 3:10, 12, 116, 131, 151, 162, 192; 4:55-56, 93, 97, 114, 121, 169; 5:10, 37, 72, 86; 6:27, 70, 128; 7:18, 36, 38, 41, 50, 179; 8:16, 36, 50; 9:17, 35, 49, 63, 68, 73, 81, 95, 109, 113; 10:8, 27; 11:16–17, 11:98, 106, 113, 119; 13:5, 18, 35; 14:16, 49; 15:43; 16:29, 62; 17:8, 18, 39, 63, 97, 129; 18:53, 100, 106; 19:68, 70, 86; 20:74, 21:39, 21:98, 22:4, 22:9, 51, 72; 24:57, 25:11–13, 34, 65; 26:91, 94; 27:90, 28:41, 29:25, 54, 68; 31:21; 32:13, 20; 33:64, 66; 34:12, 42; 35:6, 36; 36:63, 37:10, 23, 55, 63, 68, 163; 38:27, 56, 59, 61, 64, 85; 39:8, 16, 19, 32, 60, 71, 72; 40:6–7, 41–43, 46, 47–49, 60, 72, 76; 41:19, 24, 28, 40; 42:7, 44:47, 56; 45:10, 34–35; 46:20, 34; 47:12, 15; 48:6, 13; 50:24, 30; 51:13, 52:13–16, 18; 54:48, 55:43, 56:94, 57:15, 19; 58:8, 17; 59:3, 17, 20; 64:10, 66:9–10, 67:5–10, 69:31, 70:15, 71:25, 72:15, 23; 73:12–13, 74:26–31, 42; 76:4, 77:31, 78:21, 79:36, 39; 81:12; 82:14; 83:16; 84:12; 85:10; 87:12; 88:4; 89:23; 90:20; 92:14; 98:6; 101:9–11; 102:6; 104:6–9; 111:3
+Pragaras (ugnis, liepsnojanti liepsna) 2:24, 119, 161, 166, 201; 3:10, 12, 116, 131, 151, 162, 192; 4:55-56, 93, 97, 114, 121, 169; 5:10, 37, 72, 86; 6:27, 70, 128; 7:18, 36, 38, 41, 50, 179; 8:16, 36, 50; 9:17, 35, 49, 63, 68, 73, 81, 95, 109, 113; 10:8, 27; 11:16-17, 11:98, 106, 113, 119; 13:5, 18, 35; 14:16, 49; 15:43; 16:29, 62; 17:8, 18, 39, 63, 97, 129; 18:53, 100, 106; 19:68, 70, 86; 20:74, 21:39, 21:98, 22:4, 22:9, 51, 72; 24:57, 25:11-13, 34, 65; 26:91, 94; 27:90, 28:41, 29:25, 54, 68; 31:21; 32:13, 20; 33:64, 66; 34:12, 42; 35:6, 36; 36:63, 37:10, 23, 55, 63, 68, 163; 38:27, 56, 59, 61, 64, 85; 39:8, 16, 19, 32, 60, 71, 72; 40:6-7, 41-43, 46, 47-49, 60, 72, 76; 41:19, 24, 28, 40; 42:7, 44:47, 56; 45:10, 34-35; 46:20, 34; 47:12, 15; 48:6, 13; 50:24, 30; 51:13, 52:13-16, 18; 54:48, 55:43, 56:94, 57:15, 19; 58:8, 17; 59:3, 17, 20; 64:10, 66:9-10, 67:5-10, 69:31, 70:15, 71:25, 72:15, 23; 73:12-13, 74:26-31, 42; 76:4, 77:31, 78:21, 79:36, 39; 81:12; 82:14; 83:16; 84:12; 85:10; 87:12; 88:4; 89:23; 90:20; 92:14; 98:6; 101:9-11; 102:6; 104:6-9; 111:3
 - deginantis ir verdantis vanduo 22:19-22; 23:103-104
 - pūliai 14:14-17; 38:55-58; 69:35-37
 - Zakumo medis 37:62-70; 44:43-50; 56:41-56
@@ -534,21 +540,21 @@ Toliau
 - namai, 12:109; 16:30; 28:83; 29:64
 - kurie netiki, 17:10
 - atlygis, 42:20
-– geresnis už sidabrą ir auksą, 43:33–35
+- geresnis už sidabrą ir auksą, 43:33-35
 - tik Muttaqunui, 43:35
 - bausmė, 68:33
 - geresnis ir patvaresnis, 87:17
 - geriau nei dabar, 93:4
 Platūs greitkeliai, 21:31
-Hijr (Uolėtasis takas), 15:80–85
+Hijr (Uolėtasis takas), 15:80-85
 Hijr, 15 straipsnis
-Homoseksualumas 26:165–166; 27:55; 29:28–29
+Homoseksualumas 26:165-166; 27:55; 29:28-29
 Arkliai, 16:8
 Valanda
-– tai žino tik Alachas, 7:187; 31:34; 33:63; 41:47; 68:26; 79:42-46
+- tai žino tik Alachas, 7:187; 31:34; 33:63; 41:47; 68:26; 79:42-46
 - staiga jie puolė, 6:31; 7:187; 12:107; 43:66
 - ateina pas tave, 6:40; 12:107; 20:15; 34:3
-– prisiartino, 54:1-5
+- prisiartino, 54:1-5
 - kaip akies mirksnis ar net arčiau, 16:77
 - žemės drebėjimas, 22:1
 - bus įkurtas Dieną, 30:12, 14
@@ -558,7 +564,7 @@ Valanda
 - nustebins žmones 6:31; 7:187
 - Trimitas bus pučiamas 6:73; 23:101; 39:68
 Namai, įėjimo manieros, 24:27-29
-Hudo 7:65–72; 11:50–60; 26:123–140; 46:21–26
+Hudo 7:65-72; 11:50-60; 26:123-140; 46:21-26
 Hud, S.11
 Hujuratas, S.49
 Humazah, S.104
@@ -573,15 +579,15 @@ Veidmainiai
 - įsigyta klaida, skirta gairėms, 2:16
 - kurtiesiems, nebyliams ir akliesiems, 2:17-18
 - bijodami mirties ir tamsos, 2:19-20
-- maloni kalba, 2:204–206
-- atsisakyti kovoti, 3:167–168
+- maloni kalba, 2:204-206
+- atsisakyti kovoti, 3:167-168
 - Alachas žino, kas yra jų širdyse, 3:167; 4:63
 - eikite teisti pas netikrus teisėjus, nusigręžkite nuo Apreiškimo, ateis, kai įvyks katastrofa, 4:60-62
 - ir nelaimėje, ir didelėje sėkmėje, 4:72-73
 - Alachas juos atstūmė, 4:88
 - nebūti laikomi draugais, 4:89; 58:14-19
-– jei jie atsitrauks, nužudykite juos, kur tik juos rasite, 4:89
-– jie laukia ir stebi tavo pergalę arba netikinčiųjų sėkmę, 4:141
+- jei jie atsitrauks, nužudykite juos, kur tik juos rasite, 4:89
+- jie laukia ir stebi tavo pergalę arba netikinčiųjų sėkmę, 4:141
 - siekia apgauti Allahą, jie meldžiasi tingiai ir norėdami būti matomi žmonių, 4:142
 - nepriklauso nei šiems, nei anie, 4:143
 - žemiausiose Ugnies gelmėse; be pagalbininko, 4:145
@@ -589,7 +595,7 @@ Veidmainiai
 - nereikia melstis, 9:84
 - vyrai ir moterys yra vienas iš kito; nevykėliai; Alacho prakeiksmas, 9:67-69
 - beduinų kalba, 9:101
-– kad ir kur jie būtų rasti, jie bus sulaikyti ir nužudyti, 33:61
+- kad ir kur jie būtų rasti, jie bus sulaikyti ir nužudyti, 33:61
 - Alachas nubaus, 33:73
 melagiai; atsuka nugaras; jų širdys susiskaldžiusios, 59:11-14
 melagiai; savo priesaikas pavertė priedanga; jų širdys užantspauduotos; saugokitės jų, 63:1-4
@@ -600,48 +606,48 @@ Iblis (Šėtonas), 2:34; 7:11-18; 15:31-44; 17:61-65; 18:50; 20:116-120; 34:20-2
 Ibrahimas (žr. Abraomas)
 Ibrahimas, S.14
 Ida (nustatytas moterų skyrybų laikotarpis), 2:228, 231, 232, 234, 235; 33:49; 65:1-7
-Idrisas (Enochas), 19:56–57; 21:85; 96:4
+Idrisas (Enochas), 19:56-57; 21:85; 96:4
 Ihramas, 2:197; 5:2, 95
 Ihsanas, 16:90
 Ikhlas, S.112
 Ila, tik Vienas, 2:163; 6:19; 16:22, 51; 23:91; 37:4; 38:65
-Neteisėti lytiniai santykiai; liudytojų parodymai, 4:15–18; 24:2, 19
-Ilijunas, 83:18–21
+Neteisėti lytiniai santykiai; liudytojų parodymai, 4:15-18; 24:2, 19
+Ilijunas, 83:18-21
 Nešvarus (Najas) 9:28
 Imranas
 - žmona, 3:35
 - dukra, 66:12
 Neišvengiama, 69:1-3
 Infitar, S.82
-Paveldėjimas, 2:180, 240; 4:7–9, 11–12, 19, 33, 176; 5:106–108
+Paveldėjimas, 2:180, 240; 4:7-9, 11-12, 19, 33, 176; 5:106-108
 Neteisybė, kam buvo padaryta, 4:30, 148
 Insan (žr. Dahr), S.76
 Inšikakas, S.84
 Inšira (žr. Šarhą), S.94
-Įkvėpimas, 6:93; 10:2, 109; 12:102; 17:86; 40:15; 42:3, 7, 51–52; 53:4, 10
-Užtarimas/Užtarėjas, 6:51, 70, 93–94; 10:3; 19:87; 20:106, 109; 30:13; 34:23; 39:44; 40:18; 43:86; 53:26; 74:48
+Įkvėpimas, 6:93; 10:2, 109; 12:102; 17:86; 40:15; 42:3, 7, 51-52; 53:4, 10
+Užtarimas/Užtarėjas, 6:51, 70, 93-94; 10:3; 19:87; 20:106, 109; 30:13; 34:23; 39:44; 40:18; 43:86; 53:26; 74:48
 Svaigai, 5:90, 2:219
-Iqamat-as-Salat, 2:3, 43, 83, 110, 177, 277; 4:77, 102–103; 5:12, 55; 6:72; 7:170; 8:3;9:5, 11, 18, 71; 10:87; 11:114; 13:22; 14:31.37; 17:78; 20:14; 22:41, 78; 24:56; 27:3; 29:45; 30:31; 31:4, 17; 33:33; 35:18, 29;42:38; 58:13; 73:20; 98:5
+Iqamat-as-Salat, 2:3, 43, 83, 110, 177, 277; 4:77, 102-103; 5:12, 55; 6:72; 7:170; 8:3;9:5, 11, 18, 71; 10:87; 11:114; 13:22; 14:31.37; 17:78; 20:14; 22:41, 78; 24:56; 27:3; 29:45; 30:31; 31:4, 17; 33:33; 35:18, 29;42:38; 58:13; 73:20; 98:5
 „Skaitymas“ (žr. „Vaikas“), S.96
 Eramas, 89:7
 Geležis, 57:25
 Jėzau, pamatyk Jėzų
-Izaokas, (Izaokas) 2:133; 4:163; 6:84; 19:49;21:72; 29:27; 37:112–113
-Izmaelis (Izmaelis), 2:125–129, 133; 4:163; 6:86; 19:54–55; 21:85; 38:48
-kartu su tėvu stato Ka'bos pamatus 2:125–140
-Aukojimo istorija 37:100–113
+Izaokas, (Izaokas) 2:133; 4:163; 6:84; 19:49;21:72; 29:27; 37:112-113
+Izmaelis (Izmaelis), 2:125-129, 133; 4:163; 6:86; 19:54-55; 21:85; 38:48
+kartu su tėvu stato Ka'bos pamatus 2:125-140
+Aukojimo istorija 37:100-113
 Islamas, 3:19, 85; 5:3; 6:125; 39:22; 61:7
 - pirmieji iš tų, kurie paklūsta kaip musulmonai, 6:14,163; 39:12
 - pirmas apkabina, 9:100
 - krūtis atverta, 39:22
 - kaip paslaugą, 49:17
 Izraelis, S.17
-Izraelis, Dievo vaikai, 2:40–86
-- suteikta malonė, 2:47–53, 60, 122; 45:16–17
+Izraelis, Dievo vaikai, 2:40-86
+- suteikta malonė, 2:47-53, 60, 122; 45:16-17
 - maištavimas prieš Alacho paklusnumą, 2:54-59, 61, 63-74; 5:71; 7:138-141
 - jų santykiai su musulmonais, 2:75-79
-– jų arogancija, 2:80, 88, 91
-- jų sandoros, 2:80, 83–86, 93, 100; 5:12–13, 70
+- jų arogancija, 2:80, 88, 91
+- jų sandoros, 2:80, 83-86, 93, 100; 5:12-13, 70
 - nupirko šio pasaulio gyvenimą už pomirtinio gyvenimo kainą, 2:86
 - godžiausias iš žmonijos visam gyvenimui, 2:96
 - prašyti karaliaus, 2:246-251
@@ -666,15 +672,15 @@ Jėzus, Isa, Marijos sūnus
 - mokiniai kaip Alacho pagalbininkai, 3:52; 61:14
 - prikeltas, 3:55-59; 4:157-159
 - Adomo panašumas, 3:59
-– nei nužudytas, nei nukryžiuotas, 4:157
+- nei nužudytas, nei nukryžiuotas, 4:157
 - įkvėptas, 4:163
 - ne daugiau nei Pasiuntinys (ne tam, kad jį sudievinčiau), 4:171-172; 5:75; 19:30, 43:63-64
-– netiki tie, kurie sako: 5:17, 72; 9:30
+- netiki tie, kurie sako: 5:17, 72; 9:30
 - Mūsų Pasiuntinys (Muhamedas ﷺ ) atėjo, 5:19
 - davė Evangeliją, 5:46
 - mokiniai pasakė: mes esame musulmonai, 5:111
 - Stalas padengtas maistu, 5:114
-- nemokė jokio klaidingo garbinimo, 5:116–118
+- nemokė jokio klaidingo garbinimo, 5:116-118
 - teisusis pranašas, 6:85
 - kaip ženklas, 23:50
 - jo antrasis atėjimas 43:61
@@ -682,10 +688,10 @@ Jėzus, Isa, Marijos sūnus
 - ne daugiau kaip vergas ir pavyzdys Izraelio vaikams, 43:59
 - džiugi žinia apie Pasiuntinį, kurio vardas bus Ahmedas, 61:6
 - jo gimimas iš mergelės, žinia ir stebuklai 3:45-51; 19:16-38
-- primintos Alacho malonės 5:110–115
-- neigia esąs dieviškas 5:116–120
+- primintos Alacho malonės 5:110-115
+- neigia esąs dieviškas 5:116-120
 - užuojauta ir malonė jo pasekėjų širdyse 5:82; 57:27
-Žydai ir krikščionys, 2:140; 4:153–161, 171; 5:18
+Žydai ir krikščionys, 2:140; 4:153-161, 171; 5:18
 - klausykite melo, 5:41-42
 - prakeikti už tai, ką jie ištarė, 5:64
 - priešiškumas tikintiesiems (musulmonams), 5:82
@@ -698,14 +704,14 @@ Džinas, sukurtas iš ugnies 15:25; 55:15
 - tikintys ir netikintys džinai 72:1-15
 - kai kurie tikėjo Korano 46:29-32 žinia
 - žmonės ir džinai sukurti tikslui 51:56-58
-Jobo 4:163; 6:84; 21:83–84; 38:41–44
+Jobo 4:163; 6:84; 21:83-84; 38:41-44
 Jonas (Jahja, Jonas Krikštytojas)
 - geroji naujiena, 3:38-41; 19:7-11; 21:90
 - teisusis, 6:85
 - išmintingas, užjaučiantis, pareigingas, 19:12-15
-Jona (Jonas arba Junus), 4:163; 6:86; 10:98; 21:87; 37:139–148
+Jona (Jonas arba Junus), 4:163; 6:86; 10:98; 21:87; 37:139-148
 - (Dhu n-Nun) 21:87; 68:48-50
-Juozapas (Juozafas), 6:84; 12:4–101
+Juozapas (Juozafas), 6:84; 12:4-101
 - geriausios istorijos 12:1-3
 - jaunojo Jusufo sapnas 12:4-6
 - jo brolių sąmokslas 12:7-18
@@ -720,23 +726,23 @@ Juozapas (Juozafas), 6:84; 12:4–101
 - broliai ateina pas jį reikalauti atsargų 12:58-68
 - pasiima savo brolį Benjaminą 12:69-82
 - atsinaujinęs tėvo sielvartas 12:83-87
-- atskleidžia savo tikrąją tapatybę 12:88–98
+- atskleidžia savo tikrąją tapatybę 12:88-98
 - išsipildo sena svajonė 12:99-100
 - baigiamoji malda 12:101
 Judi, Mount, 11:44
 Džumu'ah, S.62
 Teisingumas (Adl), 2:282; 4:58, 135; 7:29; 16:90; 57:25 (
-– taip pat žr. 4:65, 105
+- taip pat žr. 4:65, 105
 Ka'ba
 - pastatė Abraomas, 2:125-127
-- draudžiama medžioti gyvūnus, 5:94–96
+- draudžiama medžioti gyvūnus, 5:94-96
 - saugumo prieglobstis, 5:97
 - vaikšto nuogas, 7:28
 - melsdamasis ir vaikščiodamas aplinkui, 2:200; 7:29, 31
 Kafirun, S.109
 Kafūras, puodelis sumaišytas su, 76:5
 Kahf, S.18
-Kanzas, 9:34–35
+Kanzas, 9:34-35
 Kauthar (upė rojuje), 108:1
 Kauthar, S.108
 Raktai
@@ -744,14 +750,14 @@ dangaus ir žemės, 39:63; 42:12
 Ghaibo, 6:59
 Khaulah bint Tha labah, 58:1
 Žudymas
-– jei kas nužudė žmogų, tas nužudė visą žmoniją, 5:32
+- jei kas nužudė žmogų, tas nužudė visą žmoniją, 5:32
 - nežudyk nieko, 17:33
 Malonūs žodžiai yra geresni už labdarą, 2:263
-Giminaičiai, teisės, 2:83, 177, 215; 4:7–9, 36; 8:41; 16:90; 17:26; 24:22; 29:8; 30:38; 42:23
+Giminaičiai, teisės, 2:83, 177, 215; 4:7-9, 36; 8:41; 16:90; 17:26; 24:22; 29:8; 30:38; 42:23
 Kiraman-Ratibin, 82:11
 Žinios
 - nė lapas nenukrenta, bet Jis tai žino, 6:59
-– pražuvę tie, kurie nužudė savo vaikus iš kvailumo, be jokios priežasties, 6:140
+- pražuvę tie, kurie nužudė savo vaikus iš kvailumo, be jokios priežasties, 6:140
 - penkių dalykų, tik su Alachu, 31:34
 - su tikrumu, 102:5-7
 Korah (Karūnas), 28:76-82; 29:39; 40:24
@@ -764,19 +770,19 @@ Kalbos
 Lat, 53:19
 Įstatymas, nustatytas, 5:48
 Alacho įstatymai, 2:219; 98:3
-Melagiai, 26:221–223
+Melagiai, 26:221-223
 Gyvybę, jei kas išgelbėjo žmogų, tai išgelbėjo visos žmonijos gyvybę, 5:32
 Šio pasaulio gyvenimas
 - nusipirkau, už „Hereafter“ kainą, 2:86
-– yra tik apgaulės teikiami malonumai, 3:185
+- yra tik apgaulės teikiami malonumai, 3:185
 - parduoti, pomirtiniam gyvenimui, 4:74
-– tėra pramoga ir žaidimas, 6:32; 29:64; 47:36; 57:20
+- tėra pramoga ir žaidimas, 6:32; 29:64; 47:36; 57:20
 - apgaudinėja, 6:130
 - mažiau džiaugsmo yra gyvenime nei pomirtiniame gyvenime, 9:38; 13:26; 28:60
 - panašumas yra kaip lietus, 10:24
 - džiugi žinia, 10:64
-– kas trokšta, tas jį gauna; bet pomirtiniame gyvenime nebus dalies, 11:15–16; 17:18; 42:20
-– kurie myli dabartį ir ignoruoja pomirtinį gyvenimą, 75:20-21; 76:27
+- kas trokšta, tas jį gauna; bet pomirtiniame gyvenime nebus dalies, 11:15-16; 17:18; 42:20
+- kurie myli dabartį ir ignoruoja pomirtinį gyvenimą, 75:20-21; 76:27
 - tau labiau patinka, 87:16
 Šviesa
 - manifestas, 4:174
@@ -800,21 +806,21 @@ Paskola
 Praradimas, akivaizdus, 39:15
 Lotas (Liūta) 6:86; 7:80; 11:70, 74, 77, 81, 89; 15:59, 61; 21:71, 74; 22:43; 26:160-161, 167; 27:54-56; 29:26, 28, 32-33; 37:133; 38:13;50:13; 54:33-34; 66:10
 - jo nepaklusni žmona, 11:81; 15:60; 66:10
-Loto medis, 34:16; 53:14–16; 56:28
-Lukmanas, 31:12–14
+Loto medis, 34:16; 53:14-16; 56:28
+Lukmanas, 31:12-14
 Luqman, S.31
 Ma'arij, S.70
 Medina (Jatribas), 9:120; 33:13, 60; 63:8
 Madianas, 7:85-93; 11:84-95; 20:40; 22:44; 28:22-23; 29:36-37
 - taip pat žr. Aikah Wood
-Mahr (vestuviniai pinigai), 2:229, 236–237; 4:4, 19–21, 24–25; 5:5; 33:50; 60:10–11
+Mahr (vestuviniai pinigai), 2:229, 236-237; 4:4, 19-21, 24-25; 5:5; 33:50; 60:10-11
 Ma'idah, S.5
 Meka (Baka), 3:96; 90:1-2
 - Saugumo miestas, 95:3
 Žmogau
 - kartos po kartos žemėje, 2:30; 6:165
 - paskirtas įpėdiniu, 35:39
-- pareiga, 2:83–84, 88, 177; 4:1–36; 8:41; 16:90; 17:23–39; 24:22; 29:8–9; 30:38; 33:33; 42:23; 64:14; 70:22–35
+- pareiga, 2:83-84, 88, 177; 4:1-36; 8:41; 16:90; 17:23-39; 24:22; 29:8-9; 30:38; 33:33; 42:23; 64:14; 70:22-35
 - išbandytas Alacho, 2:155; 3:186; 47:31; 57:25
 - dalykai, kurių vyrai geidžia, 3:14
 - sukurta iš, 4:1; 6:2; 15:26, 28, 33; 16:4; 21:30; 22:5; 23:12-14; 25:54; 30:20; 32:7-9; 35:11; 36:77-78; 37:11; 39:6; 40:67; 49:13; 55:14; 56:57-59; 75:37-40; 76:1-2; 77:20-23; 80:18-19; 86:5-8; 96:2
@@ -834,7 +840,7 @@ Meka (Baka), 3:96; 90:1-2
 - šaukiasi blogio, 17:11
 - visada skuba, 17:11
 - jo darbai pririšti prie jo kaklo, 17:13
-– kas nuklysta, savo paties nuostoliams, o teisingu keliu eina tik dėl savęs, 17:15
+- kas nuklysta, savo paties nuostoliams, o teisingu keliu eina tik dėl savęs, 17:15
 - su jumis nebūtų elgiamasi neteisingai, 17:71
 - mirtis ir prisikėlimas, 23:15-16
 - suskaldė savo religiją į sektas, kurių kiekviena džiaugiasi savo tikėjimu, 23:53
@@ -865,7 +871,7 @@ Meka (Baka), 3:96; 90:1-2
 - myli dabartinį šio pasaulio gyvenimą, 76:27
 - sunkiau sukurti, ar yra dangus, 79:28
 - nerūpestingas dėl Viešpaties, 82:6-12
-– tobulai suformuotas ir deramai proporcingas, 82:7
+- tobulai suformuotas ir deramai proporcingas, 82:7
 - keliauja iš scenos į sceną, 84:19
 - meilė turtams, 89:20
 - sukurtas sunkiu darbu, 90:4
@@ -881,7 +887,7 @@ Manatas, 53:20
 - viena bendruomenė, 2:213; 10:19
 - sukurta iš vienos poros, 4:1; 39:6; 49:13
 - maištas prieš save pačius, 10:23
-– neatsargus, nors atpildas arti, 21:1-3
+- neatsargus, nors atpildas arti, 21:1-3
 - sukurta Fitrah, 30:30
 - garbingiausias iš, 49:13
 - sukurtos tautomis ir gentimis, 49:13
@@ -896,13 +902,13 @@ Manieros
 - ne tam, kad iš kito tyčiotumėmės, 49:11
 - susirinkimuose, 58:11
 Santuoka, 2:232, 234
-– netikintiesiems ar vergams, 2:221
+- netikintiesiems ar vergams, 2:221
 - kiek daug, teisėta, 4:3
 - Mahr negali būti sugrąžintas (skyrybų atveju), 4:20-21
 - draudžiami yra skirti, 4:22-24
-– jei nėra galimybės vesti laisvų tikinčių moterų, 4:25
-– jei įtariamas pažeidimas, skiriami du arbitrai, 4:35
-– jei žmona bijo žiaurumo ar palikimo, sudarykite taikos sąlygas, 4:128
+- jei nėra galimybės vesti laisvų tikinčių moterų, 4:25
+- jei įtariamas pažeidimas, skiriami du arbitrai, 4:35
+- jei žmona bijo žiaurumo ar palikimo, sudarykite taikos sąlygas, 4:128
 - nebūkite per daug linkę prie vienos žmonos, kad kita liktų be sąmonės, 4:129
 - svetimautojų, 24:3
 - vargšams, 24:32
@@ -933,22 +939,22 @@ Susitikimas
 - su Alachu, 6:31
 - Didžiosios dienos, 19:37
 - apie pomirtinį gyvenimą, 30:16
-Pasiuntiniai, 2:253; 4:164–165; 40:78; 57:27
+Pasiuntiniai, 2:253; 4:164-165; 40:78; 57:27
 - paveldėjimas, 2:87
 - serija, 5:19; 23:44
 - nužudytas, 3:183
 - grasino, 14:13
 - išjuoktas, 6:10; 13:32; 15:11; 21:41
 - atmesta ir atmesta, 3:184; 6:34; 25:37; 34:45; 51:52
-- tikėti kai kuriais ir atmesti kitus, 4:150–152
+- tikėti kai kuriais ir atmesti kitus, 4:150-152
 - susibūrimas, 5:109
-– pasiųsti kaip gerosios naujienos nešėjai ir įspėtojai, 6:48; 14:4–8
-– kaip liudytojas iš kiekvienos tautos, 16:89
-– kiekvienai tautai yra, 10:47; 16:36
+- pasiųsti kaip gerosios naujienos nešėjai ir įspėtojai, 6:48; 14:4-8
+- kaip liudytojas iš kiekvienos tautos, 16:89
+- kiekvienai tautai yra, 10:47; 16:36
 - deklamuojant Alacho eilutes, 7:35-36
 - angelas kaip, 17:95; 25:7
 - ne daugiau nei žmonės, 14:10-12; 17:94; 21:8; 25:7-8, 20
-– ir jų žmonos bei palikuonys, 13:38
+- ir jų žmonos bei palikuonys, 13:38
 - taip pat žr. Pranašai
 Mirajas, 17:1; 53:12
 Šykštumas/Šykštuoliai, 57:24
@@ -957,13 +963,13 @@ Vienuolystė, nenurodyta, 57:27
 Beždžionės, nusižengėliai tapo kaip, 2:65; 5:60; 7:166
 Mirajas, 17:1; 53:12
 Mėnesių skaičius, 9:36-37
-Mėnulis, 7:54; 10:5; 16:12; 22:18; 25:61; 36:39–40; 71:16; 91:2
+Mėnulis, 7:54; 10:5; 16:12; 22:18; 25:61; 36:39-40; 71:16; 91:2
 - padalijimas; 54:1
 Mozė
 - ir jo žmonės, 2:51-61; 7:138-141,159-162; 14:5-8; 61:5
 - ir faraonas, 2:49-50; 17:101-103; 20:17-53, 56-79; 23:45-49; 25:31-42; 40:23-46; 43:46-56; 51:38-40; 73:16; 79:15-26
 - vedamas Alacho, 6:84
-- kalnas ir Viešpaties pasirodymas, 7:142–145
+- kalnas ir Viešpaties pasirodymas, 7:142-145
 - bara savo tautą už veršio garbinimą, 7:148-156; 20:83-99
 - jo Knygoje kilo nesutarimų, 11:110
 - remiantis Šventuoju Raštu, 17:2
@@ -982,7 +988,7 @@ Mozė
 - devyni ženklai faraonui ir jo žmonėms 7:130-133; 20:17-22; 17:101
 - nugali faraono magus 20:70-73; 26:46-52
 - pabėgimas į Midjaną ir santuoka 28:22-28
-- gauna Lenteles 7:142–154
+- gauna Lenteles 7:142-154
 - prašo pamatyti Alachą ant kalno 7:142-145
 - pagerbtas Alacho 33:69
 - Alacho malonės izraelitams 2:47-61
@@ -990,14 +996,14 @@ Mozė
 - nukreipti teisingu keliu, 37:114-122
 - Šventasis Raštas, 53:36; 87:19
 Mečetė (Jeruzalės), 17:7
-Mečetė (Kubos), 9:107–108
-Mečetės, 2:187; 9:17–19
+Mečetė (Kubos), 9:107-108
+Mečetės, 2:187; 9:17-19
 - palaikyti, apie Alachą, 9:17-18
 Uodas, palyginimas, 2:26
-Kalnai, 15:19; 16:15; 20:105–107; 21:31; 22:18; 31:10; 42:32–33; 59:21; 73:14; 77:10,27; 81:3; 101:5
+Kalnai, 15:19; 16:15; 20:105-107; 21:31; 22:18; 31:10; 42:32-33; 59:21; 73:14; 77:10,27; 81:3; 101:5
 Muddaththir, S.74
 Muhajiras (emigrantai), 4:100; 9:100, 107, 117;22:58-59; 24:22; 33:6; 59:8-9
-- moterys, 60:10–12
+- moterys, 60:10-12
 Muhamedas ﷺ
 - išjuoktas, 2:104; 4:46; 25:41-42; 34:78
 - gerbkite Pasiuntinį, 2:104; 4:46; 49:1-5
@@ -1006,7 +1012,7 @@ Muhamedas ﷺ
 - ne daugiau nei Pasiuntinys, 3:144
 - elgiantis švelniai, 3:159
 - jo darbas, 3:164; 7:157; 36:6; 52:29; 74:1-7
-– pasiųsta kaip didelė malonė tikintiesiems, 3:164
+- pasiųsta kaip didelė malonė tikintiesiems, 3:164
 - atsiųstas su tiesa, 4:170
 - nepadarytas stebėtoju, 6:107
 - neraštingas, 7:157; 62:2
@@ -1018,7 +1024,7 @@ Muhamedas ﷺ
 - vadovaukitės tik tuo, kas apreikšta, 10:15-16; 11:12-14; 46:9
 - jo posakiai, 11:2-4; 12:108; 34:46-50
 - Alachas yra jo liudytojas, 13:43; 29:52; 46:8
-– pasiųstas kaip liudytojas, gerosios naujienos nešėjas ir perspėtojas, 11:2; 15:89; 26:194; 33:45; 34:28; 48:8
+- pasiųstas kaip liudytojas, gerosios naujienos nešėjas ir perspėtojas, 11:2; 15:89; 26:194; 33:45; 34:28; 48:8
 - nepatirti sielvarto, 15:97; 16:127; 18:6
 - išsiųstas būti liudytoju, 16:89; 22:78; 73:15
 - kviesti išmintingai ir teisingai pamokslaujant bei argumentuoti geriau, 16:125
@@ -1034,7 +1040,7 @@ Muhamedas ﷺ
 - siųsti Salat, 33:56
 - išsiųsta visai žmonijai, 34:28
 - atlyginimas yra tik iš Alacho, 34:47
-– tik žmogus, 41:6
+- tik žmogus, 41:6
 - išsiųstas kaip gynėjas, 42:48
 - tai nėra naujiena Pasiuntiniuose, 46:9
 - liudytojas iš Izraelio vaikų tarpo, 46:10
@@ -1054,7 +1060,7 @@ Muhamedas ﷺ
 - Ayat dėl šeimos, 24:11-17; 33:28-34,50-53, 55, 59; 66:1, 3-6; 108:3
 - taip pat žr. Pasiuntiniai; Pranašai
 Muhamedas ( ﷺ ), S.47
-Muhsinun (Geradariai), 2:117, 195; 4:125,128; 10:12–16; 16:128
+Muhsinun (Geradariai), 2:117, 195; 4:125,128; 10:12-16; 16:128
 - Alachas myli, 3:134, 148; 5:93
 - Alachas nepraranda atlygio, 5:85; 9:120; 11:115; 18:30
 - Mes apdovanojame, 12:22; 37:80, 105, 110; 39:34; 77:44
@@ -1071,7 +1077,7 @@ Mumin (žr. Ghafir), S.40
 Mu'minun, S.23
 Mumtahanah, S.60
 Munafigunas, S.63
-Žmogžudystė, 2:178–179
+Žmogžudystė, 2:178-179
 Mursalat, S.77
 Musulmonai
 - pirmasis iš, 6:14, 163; 9:100; 39:12
@@ -1094,26 +1100,26 @@ Jaunatis, 2:189
 Naujienos, bus išbandytos 4:83
 Šykštumas 3:180; 4:37; 17:29; 25:67; 47:38; 57:24; 92:8
 Naktis (kaip simbolis), skirta poilsiui, 10:67
-– kaip priedanga, 13:3; 78:10
+- kaip priedanga, 13:3; 78:10
 - būti naudingam, 14:32
 - Al-Kadro naktis (Nutartis), 44:3-4; 97:1-5
 Nisa, S.4
-Nojus, 3:33; 4:163; 6:84; 9:70; 10:71; 11:25, 32, 36, 42, 45–46, 48, 89; 17:3; 21:76; 25:37; 26:105; 29:14; 37:75; 51:46; 54:9; 69:11
+Nojus, 3:33; 4:163; 6:84; 9:70; 10:71; 11:25, 32, 36, 42, 45-46, 48, 89; 17:3; 21:76; 25:37; 26:105; 29:14; 37:75; 51:46; 54:9; 69:11
 - išjuokė 11:38
 - Tvanas (smarkus potvynis), 29:14
-- Arka ir tvanas 7:59–69, 11:25–48; 23:23–31; 26:105–122; 71:1–28
+- Arka ir tvanas 7:59-69, 11:25-48; 23:23-31; 26:105-122; 71:1-28
 - neteisus sūnus neišgelbėtas, 11:42-48
 - nedora žmona, 14:9; 17:3, 17; 19:58; 21:76; 22:42; 26:105-106, 116; 33:7; 37:75,79; 38:12; 42:13; 40:5, 31; 42:13; 50:12; 53:52; 57:26; 66:10; 71:1, 21, 26
 Nuh, S.71
 Nur, S.24
-Priesaika, 2:224–227; 3:77; 5:89; 6:109; 16:38, 91–92, 94; 24:22, 53; 66:2; 68:10, 39; 77:3
-Paklusnumas, 3:132; 4:59, 64, 66, 80–81; 5:95; 18:46; 24:51=52, 54; 47:33; 64:12
+Priesaika, 2:224-227; 3:77; 5:89; 6:109; 16:38, 91-92, 94; 24:22, 53; 66:2; 68:10, 39; 77:3
+Paklusnumas, 3:132; 4:59, 64, 66, 80-81; 5:95; 18:46; 24:51=52, 54; 47:33; 64:12
 Vykdytini įsipareigojimai, 5:1
 Palikuonys, 4:9; 42:49-50
 - Jis suteikia vyrą ir moterį, kam nori, 42:49
 Olive, 6:141; 16:11; 23:20; 24:35; 95:1
 Tik vienas mah, 2:163; 6:19; 16:22, 51; 23:91; 37:4; 38:65
-Našlaičiai, 2:83, 177, 215, 220; 4:2–3, 6, 8, 10, 36, 127; 6:152; 8:41; 17:34; 18:82; 59:7;76:8; 89:17; 90:15; 93:6; 107:2
+Našlaičiai, 2:83, 177, 215, 220; 4:2-3, 6, 8, 10, 36, 127; 6:152; 8:41; 17:34; 18:82; 59:7;76:8; 89:17; 90:15; 93:6; 107:2
 - globėjai, 4:6
 Savo darbus, gražiai atrodančius kiekvienai tautai, 6:108
 Poros visuose kūriniuose, 13:3; 30:8; 36:36; 42:11; 43:12; 51:9, 49; 53:45
@@ -1126,12 +1132,12 @@ Palyginimai (panašumas, pavyzdys, palyginimai)
 - visiškai sugriautas miestas, 2:259
 - kukurūzo grūdas, 2:261
 - lygi uola, 2:264
-- sodas, 2:265–266
+- sodas, 2:265-266
 - virvė, 3:103
 - šaltas vėjas, 3:117
 - prisikėlimas 7:57; 22:5; 41:39
 - šuo, kuris iškiša liežuvį, 7:176
-- ant bedugnės krašto, 9:109–110
+- ant bedugnės krašto, 9:109-110
 - lietus, 10:24
 - švariai nupjautas derlius, 10:24
 - aklieji ir kurtieji, 11:24
@@ -1217,12 +1223,12 @@ Rojus
 - kas daro gerus darbus, tas įeis, 4:124; 42:22; 44:51
 - kurie buvo ištikimi savo Viešpačiui, bus vedami grupėmis, 39:73
 - buvo paveldėtas pagal dokumentus, 43:72
-- Alachas yra patenkintas jais, o jie – Juo. (5:119)
+- Alachas yra patenkintas jais, o jie - Juo. (5:119)
 - Mano rojus, 89:30
 - didžiausia palaima, 9:72
 - didelė sėkmė, 57:12; 64:9
 - didžiausia sėkmė, 9:72; 44:57
-– tikintiesiems sodai yra pramoga, 32:19
+- tikintiesiems sodai yra pramoga, 32:19
 - tą dieną Rojaus gyventojai bus užsiėmę džiaugsmingais dalykais, 36:35
 - bus tarp sodų ir vandens šaltinių, 15:45; 19:63; 44:52; 52:17; 54:54; 55:46
 - pamatyti angelus aplink Sostą, 39:75
@@ -1238,7 +1244,7 @@ Rojus
 - tikinčiųjų atlygis 55:46-78; 56:10-40
 - medaus, pieno, vandens ir vyno upės 47:15
 - maldos ir sveikinimai 10:9-10; 39:73-74
-- pasveikinta taikos linkėjimais 13:23–24; 14:32
+- pasveikinta taikos linkėjimais 13:23-24; 14:32
 - amžinas buvimas palaimoje 11:108
 - niekada neprašė išeiti 15:45-48
 - šviesa, šviečianti priešais juos ir dešinėje 57:12
@@ -1250,11 +1256,11 @@ Rojus
 - atsigulus sostuose 15:47; 37:44; 52:20
 - tikintieji matys savo Viešpatį 75:22-23
 Tėvai, gerumas, 2:83, 215; 4:36; 16:90; 17:23; 29:8; 31:14; 46:15-17
-Alacho partneriai – melas, 4:116; 10:34–35, 66; 16:86; 28:62–64, 71–75; 30:40; 42:21
+Alacho partneriai - melas, 4:116; 10:34-35, 66; 16:86; 28:62-64, 71-75; 30:40; 42:21
 Ganyklos, 87:4-5
-Kelias, 5:77; 16:94; 42:52–53; 43:43; 90:11–12
+Kelias, 5:77; 16:94; 42:52-53; 43:43; 90:11-12
 - taip pat žr. Kelias
-Kantrybė, 3:186, 200; 10:109; 11:115; 16:126–127; 20:130; 40:55, 77; 42:43; 46:35; 70:5; 73:10
+Kantrybė, 3:186, 200; 10:109; 11:115; 16:126-127; 20:130; 40:55, 77; 42:43; 46:35; 70:5; 73:10
 - ieškokite pagalbos ir maldoje, 2:45, 153; 20:132; 50:39
 Kantri
 - gaus visą atlygį, 39:10
@@ -1276,13 +1282,13 @@ Asmuo
 Faraonas, 28:6; 40:24
 - žmonės, 2:49; 3:11; 7:141; 44:17-33
 - nuskendo, 2:50
-- santykiai su Moze, 7:103–137; 10:75–92
+- santykiai su Moze, 7:103-137; 10:75-92
 - lavonas iš jūros, 10:90-92
 - peržengė ribas; padarė nuodėmių ir nepakluso, 20:24; 69:9; 73:16; 85:17-20; 89:10-14
 - teisi žmona, 28:8-9
 - tvirtina esąs dievas, 28:38; 79:24
 - sunaikinta, 29:39
-– tikintis vyras iš faraono šeimos, 40:28–44
+- tikintis vyras iš faraono šeimos, 40:28-44
 - bokšto statyba, 40:36-37
 - taip pat žr. Mozė
 Žemiškų dalykų kaupimas, 102:1-4
@@ -1293,10 +1299,10 @@ Faraonas, 28:6; 40:24
 Įkeitimas (hipoteka), tebūnie, 2:283
 - kiekvienas žmogus yra už tai, ką užsitarnavo, 52:21; 74:38
 Poezija, 36:69
-Poetai, 26:224–227; 69:41
+Poetai, 26:224-227; 69:41
 Granatai, 6:141
 Prastas, 2:88, 177, 215, 273; 4:8, 36; 8:41; 9:60;17:26; 24:22, 32; 30:38; 47:38; 51:19; 59:7-8; 69:34; 74:44; 76:8; 89:18; 90:16; 93:8;107:3
-Malda, 1:1–7; 3:8, 26–27, 147, 191–194; 4:103; 17:80; 23:118
+Malda, 1:1-7; 3:8, 26-27, 147, 191-194; 4:103; 17:80; 23:118
 - nei garsiai, nei tyliai, 17:110
 - maldavimas netikintiesiems, 9:113-114
 - netikinčiųjų maldavimas, 13:14
@@ -1304,7 +1310,7 @@ Malda, 1:1–7; 3:8, 26–27, 147, 191–194; 4:103; 17:80; 23:118
 - ieškoti pagalbos kantrybėje ir, 2:45, 153; 20:132;50:39
 - Atlikite Iqamat-as-Salat, atsisukę į Qiblah, 2:142-145, 149-150
 - griežtai saugoti, 2:238
-- keliaujant ir puolant, 2:239; 4:101–102
+- keliaujant ir puolant, 2:239; 4:101-102
 - nesiartinti, kai esi girtas, 4:43
 - nei Džanabos valstijoje, 4:43
 - apvalymas, 4:43; 5:6
@@ -1313,11 +1319,11 @@ Malda, 1:1–7; 3:8, 26–27, 147, 191–194; 4:103; 17:80; 23:118
 - nusilenkimas tik Alachui, 13:15
 Maldos, penktadienis, 62:9-11
 Atsargumo priemonės pavojaus atveju, 4:71
-Karo belaisviai, 8:67–71
+Karo belaisviai, 8:67-71
 - taip pat žr. Kaliniai
 Tiesos pažadas, 46:16-17
-Nuosavybė, 2:188; 3:186; 4:5, 7, 29; 51:19; 59:7–9; 70:25
-Pranašai, 3:33–34, 146; 4:163; 5:20; 6:84–90; 23:23–50; 57:26
+Nuosavybė, 2:188; 3:186; 4:5, 7, 29; 51:19; 59:7-9; 70:25
+Pranašai, 3:33-34, 146; 4:163; 5:20; 6:84-90; 23:23-50; 57:26
 - sandoros, 3:81; 33:7-8
 - neteisėta, 3:161
 - priešas kiekvienam, 6:112; 25:31
@@ -1342,19 +1348,19 @@ Qamar, S.54
 Qari'ah, S.101
 Karūnas (Korah), 28:76-82; 29:39
 Qasas, S.28
-Kibla, 2:142–145, 149
-Qisas (Lygybės bausmėse įstatymas), 2:178–179, 194; 5:45; 16:126; 17:33; 22:60; 42:40
+Kibla, 2:142-145, 149
+Qisas (Lygybės bausmėse įstatymas), 2:178-179, 194; 5:45; 16:126; 17:33; 22:60; 42:40
 Koranas
 - aprašyta, 13:31, 36, 37; 14:1; 56:77-80
-– nėra toks, kokį galėtų sukurti kas nors kitas, o ne Alachas, 2:23; 10:38; 11:13; 17:88
-– jei tai būtų buvę ne iš Alacho, o iš kito, būtų buvę daug prieštaravimų, 4:82
+- nėra toks, kokį galėtų sukurti kas nors kitas, o ne Alachas, 2:23; 10:38; 11:13; 17:88
+- jei tai būtų buvę ne iš Alacho, o iš kito, būtų buvę daug prieštaravimų, 4:82
 - akivaizdi šviesa, 4:174; 42:52
 - atskleista, 6:19
 - Alachas yra to liudininkas, 6:19
 - aiškus įrodymas, 6:157
 - klaidingas pokalbis apie eilutes, 6:68
 - Priminimas, 7:63; 12:104; 18:101; 20:3, 99, 124; 25:29; 36:11, 69; 43:44; 50:8; 65:10; 72:17
-– kai skaitoma, klausykite ir tylėkite, 7:204
+- kai skaitoma, klausykite ir tylėkite, 7:204
 - Dhikr, 7:205; 15:6, 9
 - Išminties knyga, 10:1; 31:2; 36:2
 - įkvėpta Žinia, 10:2, 109; 42:52
@@ -1376,7 +1382,7 @@ Koranas
 - deklamuoti ir melstis, 29:45
 - Tiesa iš Alacho, 32:3; 35:31
 - palaimingą naktį, 44:3
-– jame yra nuspręsta dėl kiekvieno šventimų reikalo, 44:4
+- jame yra nuspręsta dėl kiekvieno šventimų reikalo, 44:4
 - giliai pagalvokite apie tai, 47:24
 - įspėja, 50:45
 - išmokė Alachas, 55:1
@@ -1429,7 +1435,7 @@ Susitaikymas
 - dešinėje rankoje, 69:19; 84:7-9
 - kairėje rankoje, 69:25
 - už nugaros, 84:10-15
-Įrašinėjantys angelai, 50:17–18, 23; 85:11
+Įrašinėjantys angelai, 50:17-18, 23; 85:11
 Palengvėjimas su sunkumais, 94:5-6
 Religija
 - jokios prievartos, 2:256
@@ -1440,7 +1446,7 @@ Religija
 - ištobulintas, 5:3
 - kurie 6:70 laiko žaidimu ir pramoga
 - kurie skaldo savo ir skyla į sektas, 6:159; 30:32
-– taip pat žr. 42:13–14; 43:65; 45:17
+- taip pat žr. 42:13-14; 43:65; 45:17
 - vyrai suskilo į sektas, kiekviena grupė džiaugiasi savo tikėjimu, 23:53; 30:32
 - neįdėta, jokių sunkumų, 22:78
 - žmonija sukurta, 30:30
@@ -1449,27 +1455,27 @@ Religija
 Alacho atminimas, 63:9
 - širdyse randa ramybę, 13:28
 Atgaila
-– priimtina, jei pikta padaryta dėl nežinojimo ir netrukus atgailaujama, 4:17; 6:54
-– ir tai neturi jokios reikšmės, jei pikti darbai tęsiami, 4:18
+- priimtina, jei pikta padaryta dėl nežinojimo ir netrukus atgailaujama, 4:17; 6:54
+- ir tai neturi jokios reikšmės, jei pikti darbai tęsiami, 4:18
 - Jis priima ir atleidžia nuodėmes, 4:25
 Atokvėpis blogiui, 3:178; 10:11; 12:110; 14:42,44; 29:53-55; 86:15-17
-Prisikėlimas, 2:28, 7:53; 14:21; 16:38–40; 22:5–7; 23:15–16; 31:28, 41:39, 46:33–34; 50:3, 20–29, 41–44; 64:7, 75:1–15; 79:10–12; 86:5–8
+Prisikėlimas, 2:28, 7:53; 14:21; 16:38-40; 22:5-7; 23:15-16; 31:28, 41:39, 46:33-34; 50:3, 20-29, 41-44; 64:7, 75:1-15; 79:10-12; 86:5-8
 - pavyzdys Ezros istorijoje 2:259
 - Abraomo 2:260
 - olos žmonės 18:9-26
 - įspėjimas prisikėlimo neigėjams 17:49-52, 17:97-100, 19:66-72, 37:11-27, 50:1-15, 80:17-42
-Prisikėlimo diena, 7:89; 20:100–101, 124
+Prisikėlimo diena, 7:89; 20:100-101, 124
 - Tikroji diena, 78:39
 - sumokėjo visą jūsų atlyginimą 3:185
 - rašytiniai aktų puslapiai turi būti atversti, 81:11
 - kiekvienas žmogus žinos, ką jis atnešė, 81:14
-– kiekvienas žmogus susidurs su visu savo gerumu ir blogiu, 3:30
+- kiekvienas žmogus susidurs su visu savo gerumu ir blogiu, 3:30
 - žmogus žinos, ką išsiuntė pirmyn ir ką paliko, 82:5
 - nebijoti neteisybės, 20:112
 - teisingumo balansas, 21:47
 - darbų svarstyklės, 23:102-103
-– kas daro gera ar bloga, prilygstantį atomo svoriui, tas tai pamatys, 100:7-8
-– visos paslaptys bus ištirtos, 86:9
+- kas daro gera ar bloga, prilygstantį atomo svoriui, tas tai pamatys, 100:7-8
+- visos paslaptys bus ištirtos, 86:9
 Įrašas, parašytas dešine ranka, 69:19; 84:7-9
 Rezultatas, duotas kaire ranka, 69:25
 Rezultatas pateiktas už nugaros, 84:10-15
@@ -1486,18 +1492,18 @@ Rezultatas pateiktas už nugaros, 84:10-15
 - vienas (šaukimas), 36:29, 49, 53; 38:15; 50:42
 - Zajrah (šaukimas), 37:19; 79:13
 - beveik kankinimas, 78:40
-– dangus sudrebės baisiai, 52:9; 56:4
+- dangus sudrebės baisiai, 52:9; 56:4
 - dangus yra perskeltas į dalis, 84:1-2
 - dangus perskeltas į dvi dalis, 77:9; 82:1
 - dangus bus perplėštas debesų, 25:25
 - dangus bus susuktas Jo dešinėje, 21:104; 39:67
-– visa, kas danguje ir žemėje, alps, 39:68
+- visa, kas danguje ir žemėje, alps, 39:68
 - dangus atsivers, jis taps kaip vartai, 78:19
-– dangus bus kaip verdančio aliejaus purvas, 70:8
+- dangus bus kaip verdančio aliejaus purvas, 70:8
 - žvaigždės kris, 81:2; 82:2
 - žvaigždės praras savo šviesą, 77:8
 - saulė praras savo šviesą, 81:1
-– jūros taps kaip liepsnojanti ugnis, 81:6
+- jūros taps kaip liepsnojanti ugnis, 81:6
 - jūros išsiveržė, 82:3
 - Valandos žemės drebėjimas, 22:1; 99:1
 - kalnai pasitrauks, 18:47; 27:88; 52:10; 77:9; 78:20; 81:3
@@ -1505,10 +1511,10 @@ Rezultatas pateiktas už nugaros, 84:10-15
 - kaip vilnos dribsniai, 70:9;101:5
 - žemė ir kalnai bus smarkiai sudrebinti, 73:14; 79:6
 - žemė sumalama į miltelius, 89:21
-– žemė bus pakeista į kitą žemę, ir taip pat bus pakeisti dangūs, 14:48
+- žemė bus pakeista į kitą žemę, ir taip pat bus pakeisti dangūs, 14:48
 - žemė ištempta, 84:3-5
 - žemė kaip išlyginta lyguma 18:47; 20:106
-– žemė išmeta savo naštas, 84:4; 99:2
+- žemė išmeta savo naštas, 84:4; 99:2
 - apversti kapai aukštyn kojomis, 82:4
 - prisikėlimas iš kapų, 21:97; 70:43
 - gyvas po mirties virš žemės, 79:14
@@ -1526,7 +1532,7 @@ Rezultatas pateiktas už nugaros, 84:10-15
 - Išsirinkimo diena, 77:13-14
 - Sielvarto ir apgailestavimo diena, 19:39
 - neigėjai, 77:15-50
-– žmonija bus kaip išsklaidytos kandys, 101:4
+- žmonija bus kaip išsklaidytos kandys, 101:4
 - žmonija gyvens išsibarsčiusiomis grupėmis, 100:6
 - žmonija tarsi girta, 22:2
 - kiekviena nėščia numes savo naštą, 22:2
@@ -1536,7 +1542,7 @@ Rezultatas pateiktas už nugaros, 84:10-15
 - žmogus bėgs nuo savo giminaičių, 80:34-37
 - joks draugas neklaus draugo, 70:10
 - nebus nei draugo, nei užtarėjo, 40:18
-– niekas neturės galios ką nors daryti už kitą, 82:19
+- niekas neturės galios ką nors daryti už kitą, 82:19
 - neturės nei galios, nei pagalbininko, 87:10
 - nebijokite tikintieji, 43:68
 - tikintieji bus apsupti pavėsio, šaltinių ir vaisių, 77:41-43
@@ -1548,10 +1554,10 @@ Rezultatas pateiktas už nugaros, 84:10-15
 - Pragaro ugnis bus sunaikinta, uždegta iki audringos liepsnos, 81:11-12
 - Atsakomoji išmalda bus išpirkimas, 5:45
 Apreiškimas
-– jei abejojate, 2:23–24
+- jei abejojate, 2:23-24
 - panaikinta arba pamiršta eilutė, 2:106
 - teisingas vadovavimas, 3:73
-– iš Viešpaties, tad nebūk iš tų, kurie abejoja, 6:114
+- iš Viešpaties, tad nebūk iš tų, kurie abejoja, 6:114
 - tiems, kurie supranta, 6:98
 - Vedimas ir Gailestingumas, 7:203; 16:64; 31:3
 - per Ruh-ul-Qudus, 16:102; 26:192-193
@@ -1570,12 +1576,12 @@ Teisusis
 - paveldės žemę, 21:105
 - Rojuje, 51:15-19; 76:5-12
 - taip pat žr. Gerai
-Teisumas, 2:177, 207–208, 212; 3:16–17, 92, 133–135, 191–195; 4:36, 125; 5:93; 7:42–43; 16:97
+Teisumas, 2:177, 207-208, 212; 3:16-17, 92, 133-135, 191-195; 4:36, 125; 5:93; 7:42-43; 16:97
 - status kelias, 90:11-18
 Teisingas vedimas yra Alacho vedimas, 3:73
 Keliai, būdas, 43:10
 Uolėtoji teritorija (Hidžras), gyventojai, 15:80-85
-Romiečiams 30:2–5
+Romiečiams 30:2-5
 Stogas, dangus, 21:32
 Ruh (Gabrielis), 26:193; 67:12; 70:4; 78:38;97:4
 Ruh-ul-Qudus, 2:87, 253; 5:110; 16:102
@@ -1588,10 +1594,10 @@ Saba', S.34
 - nusižengėliai, 2:65; 4:154; 7:163-166
 - skirtas tik, 16:124
 Sabians, 5:69; 22:17
-Auka, 2:196, 200; 22:34–37
+Auka, 2:196, 200; 22:34-37
 Liūdna, S.38
 Sadaqah (labdara), 2:196, 263-264, 270-271, 273; 4:114; 9:60, 75-76, 79, 103-104; 57:18; 58:12-13
-– geriau slėpti nei rodyti, 2:271
+- geriau slėpti nei rodyti, 2:271
 Safa ir Marwah, 2:158
 Saff, S.61
 Saffat, S.37
@@ -1602,17 +1608,17 @@ Salih, 7:73-79; 11:61-68; 26:141-159; 27:45-53; 91:13
 Salsabil (pavasaris rojuje), 76:18
 Samiri, 20:85, 95-97
 Samuelio 2:247
-Šėtonas, 2:36, 168, 208, 268, 275; 3:36, 155, 175; 4:38, 60, 76, 83, 119–120; 5:80, 91; 6:43, 68, 142; 7:20, 22, 27, 175, 200–201; 8:48; 16:63, 98; 20:120; 24:21; 25:29; 27:24; 41:36; 58:10, 19; 82:25
+Šėtonas, 2:36, 168, 208, 268, 275; 3:36, 155, 175; 4:38, 60, 76, 83, 119-120; 5:80, 91; 6:43, 68, 142; 7:20, 22, 27, 175, 200-201; 8:48; 16:63, 98; 20:120; 24:21; 25:29; 27:24; 41:36; 58:10, 19; 82:25
 - žadina priešiškumą ir neapykantą, 5:91
 - pikti šnabždesiai iš, 7:200-201
 - apgaudinėja, 8:48
 - išduotas, 14:22
 - neturi jokios galios tikintiesiems, 16:99-100
 - skleida melą, 22:52-53
-– yra priešas, 12:5; 35:6; 36:60
-- arogancija 2:34; 7:11–27; 15:26–43; 17:61–65; 38:73–85
+- yra priešas, 12:5; 35:6; 36:60
+- arogancija 2:34; 7:11-27; 15:26-43; 17:61-65; 38:73-85
 - džinas 18:50-51
-- Adomo gundymas ir nuopuolis 7:20–23; 20:116–121
+- Adomo gundymas ir nuopuolis 7:20-23; 20:116-121
 - neturi jokios valdžios tikintiesiems 16:98-100
 - jo įvartis 35:6-8
 - prisiekęs žmonijos priešas 12:5; 17:53
@@ -1629,9 +1635,9 @@ Svarstyklės, sėkmingos, kurių bus sunkios, 7:8-9
 Šventasis Raštas
 - žmonės (žydai ir krikščionys), 2:109; 3:64-65, 69-72, 75, 98-99, 110, 113, 199; 4:47, 153-161; 5:59-60, 68; 98:1
 - ką jie slėpė, 5:61-63
-– tarp tų, kurie eina teisingu keliu, 5:66
-– jie atpažįsta, bet netiki, 6:20
-Jūros, 42:32–33; 45:12
+- tarp tų, kurie eina teisingu keliu, 5:66
+- jie atpažįsta, bet netiki, 6:20
+Jūros, 42:32-33; 45:12
 - du, 18:60; 25:53; 35:12; 55:19-20
 - kai, išsiveržia, 82:3
 Paslaptis (Najwa)
@@ -1656,53 +1662,53 @@ Shu'aib, 7:85-93; 11:84-95; 29:36-37
 Shu'ara, S.26
 Šura, S.42
 Sidrat-ul-Muntaha, 53:14
-Medinos apgultis, 33:9–27
-Sidžinas, 88:7–9
+Medinos apgultis, 33:9-27
+Sidžinas, 88:7-9
 Nuodėmė, 7:100; 74:43-6
-- nelegalūs lytiniai santykiai, 4:15–16; 24:2, 19
-– jei didesnės nuodėmės vengiamos, mažos atleidžiamos, 4:31
-– jie gali slėptis nuo žmonių, bet negali pasislėpti nuo Alacho, 4:108
+- nelegalūs lytiniai santykiai, 4:15-16; 24:2, 19
+- jei didesnės nuodėmės vengiamos, mažos atleidžiamos, 4:31
+- jie gali slėptis nuo žmonių, bet negali pasislėpti nuo Alacho, 4:108
 - kas užsidirba, tas užsidirba tik prieš save, 4:111
 - kas užsidirba, o paskui meta nekaltam žmogui, 4:112
 - Alachas atleidžia tuos, kurie nesukuria Jam artimų garbinimo partnerių, bet atleidžia, kam nori, kitas nuodėmes, išskyrus tas, 4:116
 - tie, kurie pasielgė, gaus deramai atlygį, 6:120
-– nusidėjėliai niekada nepasieks sėkmės, 10:17
+- nusidėjėliai niekada nepasieks sėkmės, 10:17
 - Alachas atleidžia viską, 39:53
 - didesnės nuodėmės, 42:37
 Sinajaus kalnas, 19:52; 23:20; 95:2
 Nusidėjėliai, jų ausys, akys ir oda liudys prieš juos, 41:20-23
 Sirato tiltas, 66:8
-Šmeižėjas, 68:11–12; 104:1
-Vergai, 2:177–178; 4:25, 36, 92; 5:89; 24:33; 58:3; 90:13
+Šmeižėjas, 68:11-12; 104:1
+Vergai, 2:177-178; 4:25, 36, 92; 5:89; 24:33; 58:3; 90:13
 - taip pat žr. Karo belaisviai; Belaisviai
-Miegas – poilsio priemonė, 78:9
+Miegas - poilsio priemonė, 78:9
 Sodoma, 29:31; 37:136
-Sodomija, 7:80–82; 11:77–83; 15:61–77; 29:28–29
+Sodomija, 7:80-82; 11:77-83; 15:61-77; 29:28-29
 Saliamonas, 2:102; 4:163; 6:84
 - padeda savo tėvui Dovydui priimti teisingesnį sprendimą 21:78-82
 - ir skruzdėlės, 27:15-19
 - ir kukutis, 27:20-26
-– ir Sabos karalienė“, 27:22–44; 34:15
+- ir Sabos karalienė“, 27:22-44; 34:15
 - Alacho malonės jam 34:12-14, 38:34-40
 - jo meilė puikiems arkliams 38:30-33
 Sūnus, įsūnijimas, 33:4-5
 Siela (dvasia, Ruh), 15:29; 17:85; 58:22
 Aukokite Alacho reikalui, 2:195, 215, 254, 262, 265, 267, 274; 3:92, 134; 8:3; 9:99; 13:22; 14:31; 22:35; 32:16; 35:29; 36:47; 47:38; 57:7; 63:10; 64:16
-– kas viršija tavo poreikius, 2:219
+- kas viršija tavo poreikius, 2:219
 - panašumas į tuos, kurie savo turtus naudoja Alacho kelyje, 2:261
-– būti matomam žmonių, 2:264; 4:38
-– kad ir ką darytumėte Alacho reikaluose, jums bus atlyginta, 2:272; 8:60; 34:39
+- būti matomam žmonių, 2:264; 4:38
+- kad ir ką darytumėte Alacho reikaluose, jums bus atlyginta, 2:272; 8:60; 34:39
 - ne su išlaidavimu ar švaistymu, 6:141;17:26
 - nei ekstravagantiškas, nei šykštus, 25:67
 - kurie užmerkia rankas, kad neeikvotų Alacho reikalui, 9:67
 Dvasia (siela, Ruh), 15:29
-– jos žinojimas yra pas Alachą, 17:85
+- jos žinojimas yra pas Alachą, 17:85
 - Alachas stiprina tikinčiuosius su, 58:22
-Karo grobis, 8:41, 69; 48:15, 19–20; 48:15
+Karo grobis, 8:41, 69; 48:15, 19-20; 48:15
 - taip pat žr. Užpakalis
 Šnipinėjimas, 49:12
-Žvaigždė, 53:1, 49; 86:1–4
-Žvaigždės, 7:54; 15:16; 16:12, 16; 22:18; 25:61; 37:6–10; 56:75; 77:8; 81:2; 82:2
+Žvaigždė, 53:1, 49; 86:1-4
+Žvaigždės, 7:54; 15:16; 16:12, 16; 22:18; 25:61; 37:6-10; 56:75; 77:8; 81:2; 82:2
 Tiesus kelias, 1:6
 - ir kt. Kelias, 6:153
 - ir kt. „Siekimas“, 4:95; 8:72, 74, 75; 9:20, 24, 81; 22:78; 25:52; 29:69:69; 47:3; 60:1; 61:11
@@ -1711,7 +1717,7 @@ Kančia, skurdas, sveikatos praradimas ir nelaimės; klestėjimas ir turtas, 7:9
 Sekmadienis, 7:54; 10:5; 14:32; 16:12; 22:18; 25:61; 36:38, 40; 71:16; 81:1; 91:1
 Aukščiausia sėkmė, 9:72; 44:57
 Sura, 10:38; 11:13; 47:20
-– jo apreiškimas stiprina tikėjimą, 9:124–127
+- jo apreiškimas stiprina tikėjimą, 9:124-127
 Įtarimai, 49:12
 Maistas, 19:62
 - taip pat žr. Aprūpinimas; Apvaizda
@@ -1726,9 +1732,9 @@ Takathur, S.102
 Takwir, S.81
 Talaq, S.65
 Talh (bananų medis), 56:29
-Talutas (Saulius), 2:247–249
+Talutas (Saulius), 2:247-249
 Tarikas, S.86
-Tasnim (šaltinis), 83:27–28
+Tasnim (šaltinis), 83:27-28
 Taubah, S.9
 Tawaf (apvažiuoja Ka'ba), 2:200; 7:29,31
 Tayamum, 4:43; 5:6
@@ -1742,7 +1748,7 @@ Sostas, 7:54, 58; 9:129; 10:3; 13:2; 20:5; 23:86, 116; 32:4; 40:15; 57:4; 85:15
 - aštuoni angelai, nešantys, 39:75; 40:7; 69:17
 Laikas, 45:24; 76:1; 103:1
 Alavas, S.95
-Kančios, 3:188; 6:15–16; 10:50–53; 11:10; 13:34; 16:88; 46:20; 70:1–2
+Kančios, 3:188; 6:15-16; 10:50-53; 11:10; 13:34; 16:88; 46:20; 70:1-2
 Valsčiaus Mes niekada nesunaikinome, bet buvo žinomas jos nutarimas, 15:4
 Prekyba ir nuosavybė, 4:29
 Keliaukite, argi jie nekeliavo po žemę, 6:11; 10:22; 12:109; 22:46; 27:69; 29:20; 30:9, 42; 34:18; 35:44; 40:21, 82; 47:10
@@ -1752,26 +1758,26 @@ Sukauptas lobis, 9:35
 Alacho lobiai, 6:50
 Amžinybės medis, 20:120
 Medžiai, 22:18
-Išbandymai, 2:214–218; 64:15
+Išbandymai, 2:214-218; 64:15
 Trimitas, Prisikėlimo dieną, 6:73; 18:99; 20:102; 23:101; 27:87; 36:51; 39:68; 50:20; 69:13; 74:8; 78:18; 79:7
 Sakhkha, 80:33
 Pasitikėjimas, pasiūlytas dangui, žemei ir kalnams, bet prisiimtas žmogaus, 33:72-73
 Trusts (Amanah), 2:283; 4:58; 8:27; 23:8;33:72; 70:32
-Tiesa, 5:48; 23:70–71, 90; 25:33; 69:51
+Tiesa, 5:48; 23:70-71, 90; 25:33; 69:51
 - nemaišykite su melu ir neslėpkite, 2:42
-– atėjo ir melas išnyko, 17:81
+- atėjo ir melas išnyko, 17:81
 - pažadas, 46:16-17
 Tubba', žmonės, 44:37; 50:14
 Turas (Kalnas), 28:29, 46
 Tur, S.52
 Tuwa slėnis, 20:12; 79:16
-Uhudo mūšis, 3:121–128, 140–180
-Uma (bendruomenė, tauta), 2:143–144; 10:47, 49; 11:118; 16:36, 120
+Uhudo mūšis, 3:121-128, 140-180
+Uma (bendruomenė, tauta), 2:143-144; 10:47, 49; 11:118; 16:36, 120
 Umra, 2:128, 158, 196
 Lupikas (Riba), 2:275-276, 278-280; 3:130;4:161; 30:39
 Uzairas (žr. Ezra)
 Uza, 53:19
-Uždanga, nematoma, 17:45–46
+Uždanga, nematoma, 17:45-46
 Uždanga, 24:31; 33:59
 Eilėraščiai, Sab' Al-Mathani, 15:87
 Pergalė
@@ -1787,20 +1793,20 @@ Vanduo, iš kurio padaryta visa gyva būtybė, 21:30; 24:45; 25:54
 - dvi jūros, 18:60; 25:53; 35:12; 55:19-20
 - Alacho sostas ant, 11:7
 - lietus, 23:18
-Kelias, 1:6; 42:52–53; 90:10
+Kelias, 1:6; 42:52-53; 90:10
 - ir kt. lengva, padaryti lengva, 87:8
 - taip pat žr. Kelias
 Keliautojas, 2:177, 215; 8:41; 17:26; 29:29; 30:38; 59:7
 Turtas
 - kas susirinko, 104:2-4
 - išlaidos Alacho reikalams (žr. Išlaidos)
-Turtas ir vaikai – šio pasaulio gyvenimo puošmena, 18:46
+Turtas ir vaikai - šio pasaulio gyvenimo puošmena, 18:46
 Svoris ir matas, pateikti visą, 11:85; 17:35; 83:1-5
-Našlės, 2:234–235, 240
-Alacho valia, 10:99–100; 30:5; 81:29; 82:8
-Žmogaus valia – eiti tiesiai, nebent Alachas to norėtų, 28:29
+Našlės, 2:234-235, 240
+Alacho valia, 10:99-100; 30:5; 81:29; 82:8
+Žmogaus valia - eiti tiesiai, nebent Alachas to norėtų, 28:29
 Vėjai, 77:1-3
-– kaip gerosios naujienos skelbėjai, 7:57; 30:46
+- kaip gerosios naujienos skelbėjai, 7:57; 30:46
 - debesų kėlimas, vandens atsiradimas, 15:22; 30:48
 - pagelsta, 30:51
 Vynas (rojuje)
@@ -1824,7 +1830,7 @@ Liudytojų diena ir Liudytojų diena, 85:3
 - viršelis tau, 2:187
 - savo rūšies, 16:72
 Moteris, besiginčijanti, 58:1-2
-Moterys, 2:222–223; 4:15, 19–22, 34, 127
+Moterys, 2:222-223; 4:15, 19-22, 34, 127
 - kurie kaltina skaistus, 24:4-5, 11-17, 23-26
 - šydas, 24:31; 33:59
 - tikintieji, kaip emigrantai, 60:10-12
@@ -1832,14 +1838,14 @@ Moterys, 2:222–223; 4:15, 19–22, 34, 127
 Miškas, gyventojai, 15:78; 38:13; 50:14
 - taip pat žiūrėkite Aikah; Madianas 26:176-191
 Pasaulis, šis gyvenimas
-– tėra žaidimas ir pramoga, 6:32; 29:64; 47:36; 57:20
+- tėra žaidimas ir pramoga, 6:32; 29:64; 47:36; 57:20
 - apgaudinėja vyrus, 6:130
 - mažiau džiaugsmo yra pomirtiniame gyvenime nei pomirtiniame gyvenime, 9:38; 13:26; 28:60-61
-– kas trokšta, tas jį gauna, bet pomirtiniame gyvenime jam nebus dalies, 11:15–16; 17:18; 42:20
+- kas trokšta, tas jį gauna, bet pomirtiniame gyvenime jam nebus dalies, 11:15-16; 17:18; 42:20
 - turtas ir vaikai, puošmena, 18:46
-– kurie myli dabartį ir palieka pomirtinį gyvenimą, 75:20-21; 76:27
+- kurie myli dabartį ir palieka pomirtinį gyvenimą, 75:20-21; 76:27
 Rašymas, sutartims, 2:282
-Nedorėliai, 11:18–22, 101–104, 116–117; 39:47
+Nedorėliai, 11:18-22, 101-104, 116-117; 39:47
 - taip pat žr. Netikintys
 Vudu' (Apsiplovimai), 4:43; 5:6
 Yaghuth, 71:23
@@ -1860,7 +1866,7 @@ Zakatas, 2:3, 43, 83, 110, 177, 277; 3:85; 4:77, 162; 5:12, 55; 6:141; 7:156; 9:
 Zandžabilas, 76:17
 Zalzalah, S.99
 Zaqqum, 17:60; 37:62-66; 44:43-46; 56:52
-Ziharas, 33:4; 58:2–4
+Ziharas, 33:4; 58:2-4
 Zuchruf, S.43
 Zumaras, S.39
 Pagrindiniai principai
@@ -1869,7 +1875,7 @@ Pagrindiniai principai
 - jokio spaudimo priimti islamą 2:256
 - viena religija su skirtingais tikėjimais ir įstatymų kodeksais 5:48; 22:67-70; 42:13-14
 - islamo pranašai 2:135-136; 3:84; 4:163-165
-- įsakymai (tikėkite Alachu ir darykite gera) 4:36; 6:151–154; 17:23–39; 18:107–108
+- įsakymai (tikėkite Alachu ir darykite gera) 4:36; 6:151-154; 17:23-39; 18:107-108
 - penki šariato tikslai: tikėjimo apsauga 5:54
 - gyvybės apsauga 5:32; 6:151
 - turto apsauga 5:38
@@ -1897,7 +1903,7 @@ Tikėjimas Alachu 2:255
 - galintis padaryti bet ką 2:117; 3:189; 8:41; 9:116; 11:4; 16:40; 40:68; 41:39; 42:49; 57:2
 - Jo begalinė galia 3:26-27; 24:45; 31:28-30
 - sukūrė dangų ir žemę per šešias dienas ir niekada nepavargo 46:33; 50:38
-– kuria žodžiu „Būk!“ 36:81–83
+- kuria žodžiu „Būk!“ 36:81-83
 - niekada neteisingas Savo kūrinijai 3:108; 4:40; 17:71; 21:47; 22:10; 26:209; 40:31; 41:46; 45:22; 50:29; 64:11; 78:6-16
 - viskas paklūsta Jo Valiai 3:83; 22:18; 30:26
 - visiems Jo reikia 11:6; 35:15; 55:29
@@ -1976,7 +1982,7 @@ Gyvos būtybės
 - utėlės ir skėriai 7:133
 - voras 29:41
 - kiti mums nežinomi 16:8
-Augalai ir vaisiai 6:99; 13:4; 16:11; 36:33–35
+Augalai ir vaisiai 6:99; 13:4; 16:11; 36:33-35
 - bananai 56:29
 - datos 19:25
 - žolelės, agurkai, česnakai, lęšiai ir svogūnai 2:61
@@ -1991,7 +1997,7 @@ Tikėjimas Muhamedu
 - pranašų antspaudas 33:40
 - kilnus charakteris 3:159; 68:4
 - pavyzdys 33:21
-– kaip malonė tikintiesiems 3:164
+- kaip malonė tikintiesiems 3:164
 - gailestingumas visam pasauliui 21:107
 - universalus pasiuntinys 4:170; 7:157-158; 34:28
 - veda į tiesų kelią 42:52-53
@@ -2008,10 +2014,10 @@ Pranašo ( SAW ) iššūkiai
 - įsakyta kantriai reaguoti į neigimą 20:130; 30:60; 46:35; 70:5
 - įsakė nuraminti Alacho 5:67; 93:1-11; 94:1-8
 Pamokos iš pranašo ( SAW ) gyvenimo
-- nuo emigracijos (hidžros) iki Badro mūšio 3:121–129; 8:42–44; 8:65–71
-- Uhudo mūšis 3:151–180
+- nuo emigracijos (hidžros) iki Badro mūšio 3:121-129; 8:42-44; 8:65-71
+- Uhudo mūšis 3:151-180
 - Apkasų mūšis 33:9-27
-- Hunaino mūšis 9:25–27
+- Hunaino mūšis 9:25-27
 - Medina 9:40
 - Tabukas 9:38-123
 - Banu An-Naḍîr 59:2-6
@@ -2022,7 +2028,7 @@ Pranašui ( ﷺ ) suteikti apdovanojimai
 - naktinė kelionė iš Mekos į Jeruzalę 17:1
 - kelionė į dangų 53:1-18
 - pagerbtas šiame ir kitame gyvenime 17:79; 66:8; 108:1
-– paklusnumas jam yra paklusnumas Alachui 4:80
+- paklusnumas jam yra paklusnumas Alachui 4:80
 - paklusnumo Alachui ir Jo Pasiuntiniui atlygis 4:69
 - jo šeima apvalyta 33:33-34
 - mato Gabrielių tikruoju pavidalu 53:1-18
@@ -2037,7 +2043,7 @@ Malda (sala) 2:45; 9:103; 51:18; 70:22-23; 75:31; 96:10; 108:2
 - maldos kryptis (kibla) 2:144; 2:149-150
 - turėtų atgrasyti nuo piktų darbų 29:45
 - laikai 11:114; 17:78; 17:79; 20:130; 24:36; 24:58; 30:17-18; 32:16; 38:18; 50:39-40; 51:17; 52:48-49; 73:2-4; 76:25-26
-- pavojaus atveju arba kelionės metu 2:239; 4:101–102
+- pavojaus atveju arba kelionės metu 2:239; 4:101-102
 - įspėjimas tiems, kurie apleidžia maldas 19:59; 74:38-47; 107:5-7
 - veidmainių maldos 4:142; 9:54
 Apsivalymas, apsiplovimas (wudu) 5:6
@@ -2050,9 +2056,9 @@ Maldavimai (du'a)
 - Jobo 21:83; 21:83
 - Jonos 21:87
 - Juozapo 12:33; 12:101
-- Mozės 10:88–89; 20:25–35
+- Mozės 10:88-89; 20:25-35
 - Muhamedas 17:80; 20:114
-- Nojaus 23:26; 26:117–118; 54:9–10; 71:26; 71:28
+- Nojaus 23:26; 26:117-118; 54:9-10; 71:26; 71:28
 - Saliamono 38:35
 - Šuaibo 7:89
 - Zacharijo 3:38; 19:2-6; 21:89-90
@@ -2075,29 +2081,29 @@ Išmaldos mokestis (zakah), kaip prievolė 2:110; 2:177; 2:277; 6:141
 Pasninkas (saumas)
 - Ramadano 2:183-185
 - pasninko valandos 2:187
-- išimtys 2:184–185
+- išimtys 2:184-185
 - intymūs santykiai naktį prieš pasninką 2:187
 - pasninkas piligriminės kelionės metu 2:196
 Piligriminė kelionė (hadžas)
 - įsipareigojimas tiems, kurie gali tai sau leisti 3:97
 - ritualai ir nutarimai 2:158; 2:189; 2:196-203; 5:2; 22:26-37
 - aukojimo atnašos 2:196; 22:36-37
-- draudimas medžioti sausumoje piligriminės kelionės metu 5:1; 5:94–95
+- draudimas medžioti sausumoje piligriminės kelionės metu 5:1; 5:94-95
 - medžioklės jūroje leistinumas 5:96
 - Mažoji piligriminė kelionė (umra) 2:158; 2:196
 Tikėjimo bendruomenės
-- Musulmonai 2:132–136; 3:64; 3:84; 5:111; 22:77–78; 33:35; 41:33; 43:67–70; 72:14–15
+- Musulmonai 2:132-136; 3:64; 3:84; 5:111; 22:77-78; 33:35; 41:33; 43:67-70; 72:14-15
 - vienas kito sergėtojai 3:28; 9:71
-- Krikščionys 2:62; 2:111–140; 4:171–172; 5:14–19; 5:82–86; 5:116–120; 9:30–31; 22:17
-- Žydams 2:62, 111–140; 5:44–45; 6:146; 22:17; 62:6–8
-- Izraelio vaikai 2:40–103, 122–123, 246–251; 3:49; 3:93–94; 5:12–13, 20–26, 32, 70–71, 78–81; 7:137–141, 148–153, 159–171; 10:83–93; 14:5–8; 17:2–8, 104; 20:80–98; 26:52–67, 197; 27:76; 44:23–33; 45:16–17; 46:10; 61:5–6
-- Knygos žmonės (daugiausia žydai ir krikščionys) 2:109; 3:64–115, 199; 4:123–172; 5:15–77; 6:20–21; 13:36; 28:52–55; 29:46–47; 57:16, 28–29; 74:31; 98:1–5
+- Krikščionys 2:62; 2:111-140; 4:171-172; 5:14-19; 5:82-86; 5:116-120; 9:30-31; 22:17
+- Žydams 2:62, 111-140; 5:44-45; 6:146; 22:17; 62:6-8
+- Izraelio vaikai 2:40-103, 122-123, 246-251; 3:49; 3:93-94; 5:12-13, 20-26, 32, 70-71, 78-81; 7:137-141, 148-153, 159-171; 10:83-93; 14:5-8; 17:2-8, 104; 20:80-98; 26:52-67, 197; 27:76; 44:23-33; 45:16-17; 46:10; 61:5-6
+- Knygos žmonės (daugiausia žydai ir krikščionys) 2:109; 3:64-115, 199; 4:123-172; 5:15-77; 6:20-21; 13:36; 28:52-55; 29:46-47; 57:16, 28-29; 74:31; 98:1-5
 - Musulmonai gali valgyti iš jų paaukotų gyvūnų ir vesti jų moteris 5:5
 - žydams draudžiami maisto produktai 6:146
 - Sabietams 2:62; 22:17
 - Magijos 22:17
 - politeistai (pagonys, stabmeldžiai) 3:186; 6:148; 9:6, 17; 10:28; 16:86; 22:17; 53:19-30
-- pagoniškos prietarų praktikos 2:189; 5:103; 6:138–144
+- pagoniškos prietarų praktikos 2:189; 5:103; 6:138-144
 - ateistai 52:35-36
 Pagoniškos praktikos uždraustos
 - dukterų gyvų laidojimas 16:58-59; 81:8-9
@@ -2106,7 +2112,7 @@ Pagoniškos praktikos uždraustos
 - kupranugarių pašventinimas stabams 5:103; 6:136
 - aukojimas stabų vardu 6:121
 - ziharo skyrybos 33:4; 58:2-4
-- ila' (ilgiau nei keturis mėnesius) 2:226–227
+- ila' (ilgiau nei keturis mėnesius) 2:226-227
 - sprendžiant dėl šaltinio burtų traukimo pagal 5:3 formulę
 - apeiti Kaabą nuogam 7:26-28
 - įėjimas į namus pro užpakalines duris po piligriminės kelionės 2:189
@@ -2149,7 +2155,7 @@ Pasiuntiniai
 - vadovai teisingiausio gyvenimo kelio link 17:9
 - apreiškimas prasidėjo Ramadano mėnesį 2:185
 - palaimingą naktį 44:3;97:1-5
-- atskleista 17 etapuose:105–106
+- atskleista 17 etapuose:105-106
 - lengvai įsimenama 54:17
 - patvirtina tiesą ankstesniuose apreiškimuose 3:3-4
 - aukščiausias autoritetas ankstesniems raštams 5:48
@@ -2158,12 +2164,12 @@ Pasiuntiniai
 - neišgalvota 10:37-39
 - nekopijuota iš Biblijos 25:4-6
 - neapreiškia velniai 26:210-212
-– niekas negali sukurti kažko panašaus 17:88; 2:23–24; 10:13–14; 11:13
+- niekas negali sukurti kažko panašaus 17:88; 2:23-24; 10:13-14; 11:13
 - apsaugotas nuo korupcijos 15:9
 - saugoma Išsaugotoje lentelėje 56:75-80
 - negalima įrodyti, kad yra klaidingas 41:42
 - pranašauja būsimus įvykius 30:1-7; 48:27
-- priverčia tikinčiuosius verkti 5:83; 17:107–109
+- priverčia tikinčiuosius verkti 5:83; 17:107-109
 - paliečia širdis 39:23
 - ryški šviesa 4:174; 42:52
 - išgydymas ir gailestingumas tikintiesiems 17:82
@@ -2182,11 +2188,11 @@ Aktų įrašai 17:13; 18:49
 - tikintieji savo liudijimą gauna dešine ranka 69:19-24; 84:7-9
 - netikintys gauna savo įrašą kaire ranka 69:25-37; 84:10-15
 - niekas nebus paslėpta nuo Alacho 21:47; 40:16
-- aktų svėrimas 7:8; 23:102–104; 101:1–11
+- aktų svėrimas 7:8; 23:102-104; 101:1-11
 - kūno organų liudijimas 41:19-24; 24:24
 - atlygis už gerus ir blogus darbus 6:160; 27:89-90; 28:84
 Žmonių tipai
-- tikintieji 18:107–108
+- tikintieji 18:107-108
 - netikintieji 4:167-169
 - veidmainiai 4:145; 57:13-15
 - Rojaus gyventojai, svarbiausi tikintieji 55:46-61; 56:10-26
@@ -2194,20 +2200,20 @@ Aktų įrašai 17:13; 18:49
 - pragaro gyventojai, kairieji 55:31-45; 56:41-56
 - žmonės aukštumose 7:46-49
 Finansinis
-- Verslo gairės 2:188; 2:275; 2:282–283; 4:29; 4:58; 6:152; 17:34–35
-24:36–37; 26:182; 30:39; 55:7–9; 62:9
+- Verslo gairės 2:188; 2:275; 2:282-283; 4:29; 4:58; 6:152; 17:34-35
+24:36-37; 26:182; 30:39; 55:7-9; 62:9
 - Palikimai, neprivalomi palikimai ne įpėdiniams 2:180-183; 4:11-12
-prieš mirtį kelionės metu 5:106–108
+prieš mirtį kelionės metu 5:106-108
 - Kyšininkavimas 2:188
 - Skolos, gerumas išieškant skolas 2:280
 - skolos sutarties surašymas ir liudijimas 2:282
 - užstato ėmimas 2:283
-- Paveldėjimas, gairės 4:7; 4:32–33; 8:75
+- Paveldėjimas, gairės 4:7; 4:32-33; 8:75
 - palikuonių ir tėvų dalys 4:11
 - sutuoktiniai ir broliai bei seserys iš motinos pusės 4:12
 - pilnaverčiai broliai ir seserys 4:176
 - įspėjimas tiems, kurie nesilaiko 4:13-14
-- Palūkanos, draudimai ir įspėjimai 2:275–281; 3:130–132
+- Palūkanos, draudimai ir įspėjimai 2:275-281; 3:130-132
 - tapo nepelningu 30:39
 Teisinis
 - išdavystės įstatymas (hirabah) 5:33-34
@@ -2216,12 +2222,12 @@ Teisinis
 - teisingumas žydui 4:105-112
 - teisingumas pagoniui 4:58
 - sąžiningumas su nemusulmonais 60:8-9
-- Atsakymas į kaltinimus teisiniais kanalais (su galimybe atleisti) 2:178–179; 5:45; 16:126; 17:33; 42:37–43
+- Atsakymas į kaltinimus teisiniais kanalais (su galimybe atleisti) 2:178-179; 5:45; 16:126; 17:33; 42:37-43
 - Vyro ir žmonos skyrybos, khul' 2:229
 - lian (kaltina neištikimybe) 24:6-10
 Politinis
 - Reikalų tvarkymas konsultuojantis (šura) 3:159; 42:38
-- Kovos savigynai (džihadas), etiketas 2:190–192; 2:216; 22:38–40
+- Kovos savigynai (džihadas), etiketas 2:190-192; 2:216; 22:38-40
 - nepulti beatodairiškai 4:94
 - kova už engiamus vyrus, moteris ir vaikus 4:75
 - garbinimo vietų apsauga 22:37
@@ -2232,10 +2238,10 @@ Politinis
 - Karo belaisviai, elgesys 8:70; 47:4; 76:8
 Socialinis
 - Įvaikinimas 33:4-5
-- Našlaičių priežiūra 2:220; 4:2–10; 4:127; 6:152; 17:34
+- Našlaičių priežiūra 2:220; 4:2-10; 4:127; 6:152; 17:34
 - Skyrybos, arbitražas ir susitaikymas 4:35; 4:128
-- skyrybų etiketas 2:229–231; 65:1–2
-- kraitis ir laukimo laikotarpis 2:226–241; 4:19–21; 33:49; 65:1–7
+- skyrybų etiketas 2:229-231; 65:1-2
+- kraitis ir laukimo laikotarpis 2:226-241; 4:19-21; 33:49; 65:1-7
 - vyras negali atsiimti nieko iš kraičio 4:20
 - žmona negali būti persekiojama 65:6
 - žmona turi būti finansiškai remiama nėštumo metu 65:6
@@ -2258,14 +2264,14 @@ Socialinis
 - Gerumas nemusulmonams 60:8
 - Santuoka 4:3; 4:129; 16:72; 30:21
 - teisėtos ir neteisėtos moterys, kurioms leidžiama ir draudžiama tuoktis 4:22-24
-- intymaus bendravimo etiketas 2:222–223
+- intymaus bendravimo etiketas 2:222-223
 - nėštumas ir žindymas 2:233; 31:4; 46:15; 65:6
 - pakartotinė santuoka su savo buvusia žmona 2:230
 - pagalba vienišiems susituokti 24:32
 - subtiliai rodo susidomėjimą laukimo laikotarpiu 2:235
 - Priesaikos 2:224-225; 16:91-92; 16:94
 - atsigriebimas už sulaužytą priesaiką 5:89
-- Kantrybė sunkiais laikais 2:45; 2:153–157; 3:186; 12:18; 12:83; 16:127–128; 70:5
+- Kantrybė sunkiais laikais 2:45; 2:153-157; 3:186; 12:18; 12:83; 16:127-128; 70:5
 - Leidimas atvykti 24:58-60
 - įėjimas į žmonių namus 24:27-28
 - įėjimas į viešas vietas 24:29
@@ -2291,9 +2297,9 @@ Kitos istorijos
 - Šebos žmonės 34:15-19
 - olos žmonės 18:9-26
 - apkasų žmonės 85:1-8
-- Šabo laužytojai 7:163–165
+- Šabo laužytojai 7:163-165
 - Samiri ir auksinis veršis 20:83-97
-- Sauliaus ir Samuelio 2:247–251
+- Sauliaus ir Samuelio 2:247-251
 - Zul-Karnain 18:83-98
 Velniai 2:102; 6:71; 6:112; 6:121; 7:27; 7:30; 17:27; 19:68; 19:83; 22:3-4; 23:97-98; 26:210; 37:7-10; 38:37-38; 67:5
 - velniški žmonės ir džinai 6:112;114:6
@@ -2310,7 +2316,7 @@ Desperatiški prašymai
 - būti pašalintam iš Ugnies 40:10-12
 - dėl maisto ir vandens 7:51-52
 - užtarėjų 7:52-53
-– būti sulygintam su dulkėmis 4:41–42; 78:40
+- būti sulygintam su dulkėmis 4:41-42; 78:40
 - mirčiai 43:74-78
 Teisiųjų savybės
 - gerbiant Kūrėjo ir Jo kūrinijos teises 3:133-136; 4:36; 4:69-70; 6:151-154; 8:2-4; 13:19-24; 17:23-39; 18:107-108; 23:1-11; 25:63-76; 42:36-43
@@ -2329,7 +2335,7 @@ Didžiosios nuodėmės
 - žmogžudystė 6:151; 17:33
 - tyčia nužudyti tikintįjį 4:93
 - vagystė 5:38
-- sukčiavimas 7:85; 11:85; 26:182–183; 83:1–6
+- sukčiavimas 7:85; 11:85; 26:182-183; 83:1-6
 - gulėjimas 2:10; 9:77; 39:60
 - melas apie Alachą 6:93; 29:68; 61:7
 - draudžiami lytiniai santykiai 2:222; 17:32; 24:2; 25:68; 29:28-30

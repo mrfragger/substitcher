@@ -397,7 +397,7 @@ class _QuranPanelState extends State<QuranPanel> {
                 ),
                 const SizedBox(width: 4),
                 Tooltip(
-                  message: 'csv needs to be downloadable on quranenc.com, check back in 2028 or 2029',
+                  message: 'csv needs to be downloadable on quranenc.com \ncheck back in 2028',
                   preferBelow: true,
                   textStyle: const TextStyle(color: Colors.white, fontSize: 12),
                   decoration: BoxDecoration(
@@ -409,6 +409,11 @@ class _QuranPanelState extends State<QuranPanel> {
                     color: Colors.white38,
                     size: 14,
                   ),
+                ),
+                const SizedBox(width: 16),
+                const Text(
+                  '⇧Q next reference',
+                  style: TextStyle(color: Colors.white38, fontSize: 12),
                 ),
                 const Spacer(),
                 GestureDetector(
@@ -553,9 +558,9 @@ class _QuranPanelState extends State<QuranPanel> {
                             ),
                             const SizedBox(width: 10),
                             Text(
-                              '${entry.refs.length} ref${entry.refs.length == 1 ? '' : 's'}',
-                              style: const TextStyle(color: Colors.white24, fontSize: 11),
-                            ),
+                               '${entry.refs.length} ref${entry.refs.length == 1 ? '' : 's'}',
+                               style: const TextStyle(color: Colors.white24, fontSize: 11),
+                             ),
                           ],
                         ),
                       ),
