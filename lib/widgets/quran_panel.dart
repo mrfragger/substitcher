@@ -110,6 +110,12 @@ class _QuranPanelState extends State<QuranPanel> {
         active.isFullSurah == ref.isFullSurah;
   }
 
+  String _getSurahName(int surahNumber) {
+    final surahs = getSurahsForLanguage(widget.selectedLanguage);
+    final match = surahs.where((s) => s.number == surahNumber).firstOrNull;
+    return match?.name ?? '';
+  }
+
   void _showSurahListPopup(BuildContext context) {
     final surahs = getSurahsForLanguage(widget.selectedLanguage);
     final isRtl = isRtlQuranLanguage(widget.selectedLanguage);
@@ -574,38 +580,48 @@ class _QuranPanelState extends State<QuranPanel> {
                           runSpacing: 6,
                           children: entry.refs.map((ref) {
                             final isActive = _isActiveRef(ref);
-                            return GestureDetector(
-                              onTap: widget.isQuranLoaded
-                                  ? () => widget.onVerseSelected(ref, index)
-                                  : null,
-                              child: Container(
-                                padding: const EdgeInsets.symmetric(
-                                    horizontal: 10, vertical: 5),
-                                decoration: BoxDecoration(
-                                  color: isActive
-                                      ? Colors.deepPurple
-                                      : widget.isQuranLoaded
-                                          ? Colors.blueGrey[900]
-                                          : Colors.deepOrange.withAlpha(40),
-                                  borderRadius: BorderRadius.circular(6),
-                                  border: Border.all(
+                            return Tooltip(
+                              message: _getSurahName(ref.surah),
+                              preferBelow: true,
+                              verticalOffset: 32,
+                              textStyle: const TextStyle(color: Colors.white, fontSize: 13),
+                              decoration: BoxDecoration(
+                                color: Colors.deepPurple,
+                                borderRadius: BorderRadius.circular(6),
+                              ),
+                              child: GestureDetector(
+                                onTap: widget.isQuranLoaded
+                                    ? () => widget.onVerseSelected(ref, index)
+                                    : null,
+                                child: Container(
+                                  padding: const EdgeInsets.symmetric(
+                                      horizontal: 10, vertical: 5),
+                                  decoration: BoxDecoration(
                                     color: isActive
-                                        ? Colors.purple
+                                        ? Colors.deepPurple
                                         : widget.isQuranLoaded
-                                            ? Colors.lightBlue.withAlpha(120)
-                                            : Colors.deepOrange.withAlpha(80),
+                                            ? Colors.blueGrey[900]
+                                            : Colors.deepOrange.withAlpha(40),
+                                    borderRadius: BorderRadius.circular(6),
+                                    border: Border.all(
+                                      color: isActive
+                                          ? Colors.purple
+                                          : widget.isQuranLoaded
+                                              ? Colors.lightBlue.withAlpha(120)
+                                              : Colors.deepOrange.withAlpha(80),
+                                    ),
                                   ),
-                                ),
-                                child: Text(
-                                  ref.displayLabel,
-                                  style: TextStyle(
-                                    color: isActive
-                                        ? Colors.white
-                                        : widget.isQuranLoaded
-                                            ? Colors.lightBlueAccent
-                                            : Colors.yellow,
-                                    fontSize: 13,
-                                    fontWeight: isActive ? FontWeight.bold : FontWeight.normal,
+                                  child: Text(
+                                    ref.displayLabel,
+                                    style: TextStyle(
+                                      color: isActive
+                                          ? Colors.white
+                                          : widget.isQuranLoaded
+                                              ? Colors.lightBlueAccent
+                                              : Colors.yellow,
+                                      fontSize: 13,
+                                      fontWeight: isActive ? FontWeight.bold : FontWeight.normal,
+                                    ),
                                   ),
                                 ),
                               ),
