@@ -3312,6 +3312,8 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     final files = <String>[];
     await for (final entity in dir.list(recursive: true)) {
       if (entity is File && path.extension(entity.path).toLowerCase() == '.opus') {
+        final segments = path.split(entity.path);
+        if (segments.any((s) => s.startsWith('.'))) continue;
         files.add(entity.path);
       }
     }

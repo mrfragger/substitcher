@@ -969,11 +969,8 @@ class SidePanel extends StatelessWidget {
                     final index = entry.key;
                     final dir = entry.value;
                     final isActive = activePlaylistIndex == index;
-                    return Padding(
-                      padding: const EdgeInsets.only(bottom: 4),
-                      child: Tooltip(
-                        message: shortenPath(dir),
-                        waitDuration: const Duration(milliseconds: 500),
+                      return Padding(
+                        padding: const EdgeInsets.only(bottom: 4),
                         child: InkWell(
                           onTap: () => onSetActivePlaylist(index),
                           child: Container(
@@ -987,7 +984,7 @@ class SidePanel extends StatelessWidget {
                               children: [
                                 Expanded(
                                   child: Text(
-                                    path.basename(dir),
+                                    shortenPath(dir),
                                     style: TextStyle(
                                       color: isActive ? Colors.purple[200] : Colors.white70,
                                       fontSize: 12,
@@ -1007,7 +1004,6 @@ class SidePanel extends StatelessWidget {
                               ],
                             ),
                           ),
-                        ),
                       ),
                     );
                   }),
