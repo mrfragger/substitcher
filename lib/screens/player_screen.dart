@@ -8709,7 +8709,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     Future.delayed(const Duration(milliseconds: 300), () => doScroll());
     // Future.delayed(const Duration(milliseconds: 500), () => doScroll());
     // Future.delayed(const Duration(milliseconds: 1000), () => doScroll());
-    Future.delayed(const Duration(milliseconds: 2000), () => doScroll());
+    // Future.delayed(const Duration(milliseconds: 2000), () => doScroll());
   }
 
   Widget _buildPlayer() {

@@ -557,6 +557,95 @@ class _QuranPanelState extends State<QuranPanel> {
                   ),
                 ),
                 ],
+                if (widget.selectedLanguage == 'English') ...[
+                  const SizedBox(width: 8),
+                  GestureDetector(
+                    onTap: () {
+                      if (_searchQuery == 'juz') {
+                        _searchController.clear();
+                        widget.onSearchChanged('');
+                      } else {
+                        _searchController.text = 'juz';
+                        widget.onSearchChanged('juz');
+                      }
+                    },
+                    child: Container(
+                      padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 3),
+                      decoration: BoxDecoration(
+                        color: _searchQuery == 'juz'
+                            ? Colors.deepPurple
+                            : Colors.deepPurple.withAlpha(40),
+                        borderRadius: BorderRadius.circular(4),
+                        border: Border.all(color: Colors.deepPurple.withAlpha(160)),
+                      ),
+                      child: Text(
+                        'Juz',
+                        style: TextStyle(
+                          color: _searchQuery == 'juz' ? Colors.white : Colors.purple[200],
+                          fontSize: 12,
+                        ),
+                      ),
+                    ),
+                  ),
+                  const SizedBox(width: 4),
+                  GestureDetector(
+                    onTap: () {
+                      if (_searchQuery == 'hizb') {
+                        _searchController.clear();
+                        widget.onSearchChanged('');
+                      } else {
+                        _searchController.text = 'hizb';
+                        widget.onSearchChanged('hizb');
+                      }
+                    },
+                    child: Container(
+                      padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 3),
+                      decoration: BoxDecoration(
+                        color: _searchQuery == 'hizb'
+                            ? Colors.deepPurple
+                            : Colors.deepPurple.withAlpha(40),
+                        borderRadius: BorderRadius.circular(4),
+                        border: Border.all(color: Colors.deepPurple.withAlpha(160)),
+                      ),
+                      child: Text(
+                        'Hizb',
+                        style: TextStyle(
+                          color: _searchQuery == 'hizb' ? Colors.white : Colors.purple[200],
+                          fontSize: 12,
+                        ),
+                      ),
+                    ),
+                  ),
+                  const SizedBox(width: 4),
+                  GestureDetector(
+                    onTap: () {
+                      if (_searchQuery == 'rub') {
+                        _searchController.clear();
+                        widget.onSearchChanged('');
+                      } else {
+                        _searchController.text = 'rub';
+                        widget.onSearchChanged('rub');
+                      }
+                    },
+                    child: Container(
+                      padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 3),
+                      decoration: BoxDecoration(
+                        color: _searchQuery == 'rub'
+                            ? Colors.deepPurple
+                            : Colors.deepPurple.withAlpha(40),
+                        borderRadius: BorderRadius.circular(4),
+                        border: Border.all(color: Colors.deepPurple.withAlpha(160)),
+                      ),
+                      child: Text(
+                        'Rub',
+                        style: TextStyle(
+                          color: _searchQuery == 'rub' ? Colors.white : Colors.purple[200],
+                          fontSize: 12,
+                        ),
+                      ),
+                    ),
+                  ),
+                ],
                 const Spacer(),
                 TextButton(
                   onPressed: () => _showSurahListPopup(context),
@@ -568,7 +657,7 @@ class _QuranPanelState extends State<QuranPanel> {
                 const SizedBox(width: 10),
                 TextButton(
                   onPressed: () => setState(() {
-                    if (_expandedIndices.length == filtered.length) {
+                    if (_expandedIndices.length >= widget.entries.length) {
                       _expandedIndices.clear();
                     } else {
                       _expandedIndices.addAll(
