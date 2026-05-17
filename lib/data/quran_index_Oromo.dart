@@ -2,7 +2,7 @@ const String quranIndexOromoRaw = r"""
 Kadhannaa Manzil 1:1-7; 2:1-5, 163, 255-257, 284-286; 3:18, 26-27; 7:54-56, 117-122; 17:110-111; 23:115-118; 37:1-11; 55:33-40; 59:21-24; 72:1-4; 109:1-6; 112:1-4; 113:1-5; 114:1-6
 Gooftaa Keenya Kadhannaa 2:127-128, 201, 250, 286; 3:8-9, 16, 53, 147, 191-194; 5:83, 114; 7:23, 47, 89, 126, 155; 10:85-88; 11:47; 12:101; 14:38-41; 17:80; 18:10; 20:114; 23:109, 118; 25:65-66, 74; 28:24; 40:7-9; 59:10; 60:4-7; 66:8
 Gooftaa Koo Kadhannaa 3:38; 12:33; 14:35-36; 19:3-6; 20:25-28, 45, 114; 21:83, 87, 89; 23:26, 29, 93-94, 97-98; 26:83-87, 169; 27:19; 28:16-17, 21; 29:30; 37:100; 38:35, 41; 46:15, 71:26-28
-Aaron (Haaruun) 2:248; 4:163; 6:84; 7:122, 142; 10:75; 19:28, 53; 20:30, 70, 90, 92; 21:48; 23:45; 25:35; 26:13, 48; 28:34; 37:114, 120.
+Aaron (Haaruun) 2:248; 4:163; 6:84; 7:122, 142; 10:75; 19:28, 53; 20:30, 70, 90, 92; 21:48; 23:45; 25:35; 26:13, 48; 28:34; 37:114, 120
 'Abasaa, S.80; 74:22
 Wuduu’aa (Wudu), 4:43; 5:6
 Abrahaam (Ibrahiim) S.14; 2:135-136, 148; 3:33, 84, 95; 4:54, 125, 163; 6:161; 9:70, 114; 12:6, 38; 16:120; 19:58; 21:51, 60, 62, 69; 22:43, 78; 26:69; 29:31; 33:7; 37:83, 104, 109; 38:45; 42:13; 43:26; 51:24; 53:37; 57:26; 60:4; 87:19
@@ -10,7 +10,7 @@ Abrahaam (Ibrahiim) S.14; 2:135-136, 148; 3:33, 84, 95; 4:54, 125, 163; 6:161; 9
 - mana qulqullummaa jalqabaa Bakkaatti dhaabbate, 3:97; 26:123
 - bu’uura ka’abaa ni kaasa 2:124-129
 - saba isaa waaqeffannaa Waaqa Tokkicha Dhugaa 2:130-133; 26:69-89; 29:16; 29:24-27
-- falmii of tuulummaa mootii 2:258, 259.
+- falmii of tuulummaa mootii 2:258, 259
 - waa’ee du’aa ka’uu ni gaafata 2:260
 - Yihudiis ta’e Kiristaana 3:65-68
 - waaqeffannaa samii ni morma 6:74-87
@@ -89,7 +89,7 @@ Gamtaa, 8:72; 9:7
 - Kiristaanotaa fi Yihudoota, 5:51
 - fira kaafiraa wajjin haraama, 9:23-24
 - fakkeessitoota wajjin dhorkamee, 4:88-89; 4:139; 4:144
-Alyasa', (Elisaa ilaali) .
+Alyasa', (Elisaa ilaali)
 Amaana, Amaanaa fi Rabbiin dirqama murteessee fi kkf, 2:283; 4:58; 8:27
 - Amaanaa ilaali
 Ergamoota, 2:30-34; 2:98; 2:285; 4:97; 8:50; 13:23; 21:108; 22:75; 25:22; 25:25; 32:11; 33:43; 33:56;34:40; 35:1; 37:150; 38:71; 39:75; 41:14; 41:30; 42:5; 43:53; 43:60; 47:27; 53:26; 66:4; 66:6;69:17; 70:4; 89:22; 97:4
@@ -126,7 +126,7 @@ Hidhannoo, 16:81
 'Asr,S.103
 Ayaat Al-Kursii, 2:255
 Duubatti deebi’aa, 49:12; 104:1
-Badrii (lola kan), 3:13, 14.
+Badrii (lola kan), 3:13, 14
 - barnoota irraa, 8:5-19, 42-48
 Al-Bait-ul-Ma mur, 52:4
 Bakka (Makkaa), 3:96
@@ -207,7 +207,7 @@ Sadaqaa, (Sadaqah), 2:196, 263, 264, 270, 271, 273; 4:114; 9:58, 75, 76-79, 103,
 - meeshaalee sadaqaa fi Zakaa, 2:273; 9:60
 Ijoollee 2:233; 42:49-50
 - bade warra isaanii ajjeesan, gowwummaa irraa, beekumsa malee, 6:140
-Kiristoos, (Yesuus ilaali) .
+Kiristoos, (Yesuus ilaali)
 Kiristaanota, 5:14, 19, 64-65, 69; 22:17
 - Yesusiin waaqa akka hin goone gaafate, 4:171
 - Musliimootaaf jaalala itti dhaga’amuutti dhihaachuu, 5:82
@@ -223,7 +223,7 @@ Uffata, 7:26; 16:81
 - uffannaan dubartootaa alaa fakkeessitootaan akka hin rakkisne dhorka, 33:59-60
 Konfedereeshinii, 33:9, 22
 - Marii Ahzaab, wal-faana, 42:38 ilaali
-Uumama, .
+Uumama,
 - jalqaba fi irra deddeebi’a, 10:4; 21:104; 27:64; 29:19-20
 - kan haaraa, 17:49, 98; 35:16
 - dhugaa wajjin, 15:85; 16:3; 29:44; 39:5; 44:39;45:22; 46:3
@@ -263,12 +263,12 @@ Du’a, 3:185; 3:193; 4:78; 6:61; 6:93; 21:35; 23:99-108; 31:34; 32:11; 33:19; 3
 - mu’mintootaa fi kaafiroota yeroo du’aa 8:50; 16:27-32; 41:30
 - qabrii keessatti adabbii 40:46
 Liqii, 2:280, 282; 4:11-12
-Labsii, .
+Labsii,
 - tokkoon tokkoon dhimmaaf, a, 13:38
 - gonkumaa magaalaa hin balleessine garuu kan beekamu ture, isheef, 15:4
 - dhimma hundaa Rabbiin biraati, 44:5
 - yeroo dhimma tokko murteessu,"Ta'aa!" — akkasumas ni jira, 2:117; 36:82; 40:68
-Hojii, .
+Hojii,
 - hamaa, isaaniif miidhagfame, 47:14
 - nuuf keenya, siif hojii kee, 28:55; 42:15; 45:15
 - gaarii fi hamaan, ofii isaatiif kan deggeru fi kan mormu, 41:46
@@ -282,8 +282,8 @@ Dhariyaat, S.51
 Dhikr, 7:205; 15:6, 9
 Dhul-Kiifii, 21:85; 38:48
 Dhul-Qarain, 18:83-98
-Dhun-Nun (Hiriyaa Qurxummii), .
-Kaafiroota (Munaafiktootas ilaali) .
+Dhun-Nun (Hiriyaa Qurxummii),
+Kaafiroota (Munaafiktootas ilaali)
 - Muhammad ( صلى الله عليه وسلم ) dheekkamsa Rabbii akka ragaatti akka isaan irratti waamu kadhachuu, 6:57-58; 8:32; 10:49-52
 - gaarummaadhaan hirmaachuu isaanii, 31:15
 - waan dubbatan obsaan baachuu, 20:130; 50:39
@@ -352,7 +352,7 @@ Dukhaan, S.44
 Waraana saree, 105:1-5
 Eliyaas (Eliyaas; Ilyaasiin) 6:85; 37:123-132
 Elsaa'i, (Alyasaa') 6:86; 38:48
-Henok, (Idriis ilaali) .
+Henok, (Idriis ilaali)
 Taatee, 56:1; 69:15
 Hamtuu, 4:123; 10:27-30; 19:83; 59:15
 - ummata duratti dubbatamuu hin qabu, 4:148
@@ -372,7 +372,7 @@ Darbaa
 Ijji, gurri fi gogaan cubbamoota irratti dhugaa ba’u, 41:20-23
 Izraa, (Uzaayir) 9:30
 Fuula ykn Fuula Rabbii, 2:115, 272; 6:52; 13:22; 18:28; 28:88; 30:38-39; 55:27; 76:9; 92:20
-Haqa qabeessa fakkaatu, .
+Haqa qabeessa fakkaatu,
 - Rabbiin, tokkoon tokkoon ummataaf hojii mataa isaa godheera, 6:108
 Amantii (Amantii), 2:108; 3:167, 177, 193; 5:5; 9:23; 16:106; 30:56; 40:10; 42:52; 49:7, 11, 14; 52:21; 58:22; 59:9-10
 - kan didan, 3:116
@@ -382,7 +382,7 @@ Amantii (Amantii), 2:108; 3:167, 177, 193; 5:5; 9:23; 16:106; 30:56; 40:10; 42:5
 Fajr, S.89
 Falaq, S.113
 Haasaa sobaa waa’ee Aayata Qur’aanaa, 6:68
-Waaqolii sobaa, .
+Waaqolii sobaa,
 - Rabbiin alatti, waaqolii tolfamoo fi sharika jedhaman 7:194-198; 16:20-21, 72, 86; 21:22, 24; 34:22, 27; 41:47-48; 46:5-6; 53:19-24; 71:23-24
 - warra Rabbiin alatti gabbaran hin arrabsin, 6:108
 - Taghut jedhus ilaali
@@ -435,7 +435,7 @@ Dhiifama, 2:109; 4:48, 110, 116; 5:74; 7:199; 39:53; 42:5, 40-43; 45:14; 53:32; 
 - gara tokkotti ariifachuu keessatti tokko waliin fiiguu, 57:21
 - hojiin badaan gara hojii gaariitti jijjiirame 25:68-71
 Hanna, (Gantummaa ilaali) 83:1-6
-Fedhii bilisaa, .
+Fedhii bilisaa,
 - Fedhii Rabbiitiin kan daangeffame, 6:107; 10:99; 74:56;76:31; 81:28-29
 - namni fedhe haa: amanu fi kafari, 18:29
 - gara Gooftaa isaatti karaa fudhachuu, 76:29
@@ -469,14 +469,14 @@ Gaarii (Guyyoota), 3:140
 - Rabbiin warra hojjetan, waan gaarii ta’een badhaasa, 53:31
 - gaarii malee, badhaasni jiraa, 55:60
 - akkuma Rabbiin siif gaarii ta’etti raawwadhu, 28:77
-Gaarii fi Hamaa, .
+Gaarii fi Hamaa,
 - gaariin Rabbiin biraa, hammeenyi immoo ofii keetii,4:79
 - yoo gaarii hojjettan, ofii keessaniif yoo hamaa hojjettan, ofii keessanii irratti, 17:7;41:46
 - hamaa gaariin ofirraa deebisuu, 23:96; 28:54; 41:34
 - gaarii fi hojiin hamaan wal qixa ta’uu hin danda’u,41:34
 - namni hundinuu hundumaa wajjin wal-qunnama, inni godheera, 3:30
 - Muhsinun illee ilaali
-Hojii gaarii, .
+Hojii gaarii,
 - ifa gochuu ykn dhoksuu, 4:149
 - akka fiigicha keessatti carraaquu, 5:48
 Wangeela, 3:3, 48, 65; 5:46-47, 66, 68, 110;7:157; 9:111; 48:29; 57:27
@@ -490,10 +490,10 @@ Hamaan, 28:6, 38; 29:39; 40:24, 36, 37dha
 Harkaa fi miilli dhugaa ba’a, 36:65
 Haggaa, S.69
 Rakkoon, hundumaa wajjin boqonnaan ni jira, 94:5-6
-Haaruun, (Aaron) .
+Haaruun, (Aaron)
 Harut, 2:102
 Hashr, S.59
-Onnee, .
+Onnee,
 - jabaate, 2:74; 22:53; 39:22; 57:16
 - kan cufame, 7:100-101; 40:35; 47:16; 63:3
 - uwwifame, 17:46; 41:5
@@ -501,7 +501,7 @@ Onnee, .
 - qoodamee, 59:14
 - sodaadhaan kan guutame, 22:35
 - kan keessa, dhibeen jira, 2:10; 5:52; 8:49; 9:125; 22:53; 24:50; 33:12, 32, 60; 47:20, 29;74:31dha
-Samii, .
+Samii,
 - kan hin mul’anne kan Rabbiiti, 16:77
 - taphaaf osoo hin taane kan uumame, 21:16
 - laftis walitti makamte, 21:30
@@ -531,7 +531,7 @@ Si’ool (ibidda, abidda boba’aa) 2:24, 119, 161, 166, 201; 3:10, 12, 116, 131
 - abdii kutannaa gubaa fi dukkana qorraa ice keessa, 38:57
 - sansalata dhundhuma 70, 69:32
 - yeroo murtaa'eef turuu, 78:23
-Kana booda, .
+Kana booda,
 - caala manni keessa jiru, 6:32; 7:169
 - innis xumura ta'a, 6:135
 - Zalimun hin milkaa'u (in), 6:135
@@ -568,7 +568,7 @@ Hujurat, S.49
 Humaazaah, S.104
 Hunain (lola), 9:25
 Huur (dubartoota Jannata keessa jiran), 44:54; 52:20
-Fakkeessitoota, .
+Fakkeessitoota,
 - jedhi: Rabbii fi Guyyaa Qiyaamatti ni amanna, dhugaa dubbachuuf garuu hin amannu, 2:8
 - of gowwoomsuu, 2:9
 - dhukkuba garaa isaanii keessatti, 2:10; 8:49; 22:53;33:12; 47:29
@@ -601,7 +601,7 @@ Fakkeessitoota, .
 - cimsee irratti carraaquu, 66:9
 Ibliis (Seexana), 2:34; 7:11-18; 15:31-44; 17:61-65; 18:50; 20:116-120; 34:20-21; 38:71-85
 - Seexanas ilaali
-Ibraahim, (Abrahaam ilaali) .
+Ibraahim, (Abrahaam ilaali)
 Ibraahim, S.14
 'Iddah (yeroo wal hiikuun dubartootaaf murtaa'e), 2:228, 231, 232, 234, 235; 33:49;65:1-7dha
 Idriis (Henok), 19:56-57; 21:85; 96:4
@@ -612,7 +612,7 @@ Ilaah, Tokko qofa, 2:163; 6:19; 16:22, 51; 23:91; 37:4; 38:65
 Walqunnamtii saalaa seeraan alaa; ragaa ragaa, 4:15-18; 24:2, 19
 Illiyyun, 83:18-21
 Xuraa’aa (Najas) 9:28
-'Imraan, .
+'Imraan,
 - haadha manaa kan, 3:35
 - intala kan, 66:12
 Kan hin oolle, 69:1-3
@@ -658,10 +658,10 @@ Istawaa (ka’ee), 2:29; 7:54; 10:3; 13:2;20:5; 32:4; 41:11; 57:4
 I'tikaf, 2:187
 Yaaqoob, (Yaa’qub) 2:132-133; 4:163; 6:84;12:18; 19:49; 21:72; 29:27
 - Asbat (ilmaan Yaaqoob kudha lama), 2:140; 3:84;4:163dha
-Jalut, (Goliyaad ilaali) .
+Jalut, (Goliyaad ilaali)
 Jamarat, 2:200
 Jaatiyaa, S.45
-Yesuus, Isaa ilma Maariyaam, .
+Yesuus, Isaa ilma Maariyaam,
 - haadha dubartoota addunyaa hunda irra filatamte 3:42
 - Guyyaa Qiyaamaa dhugaa ba’a, 4:159
 - oduu gammachiisaa dhalootaa, 3:45-47; 19:22-23
@@ -694,7 +694,7 @@ Yihudootaa fi Kiristaanota, 2:140; 4:153-161, 171; 5:18
 - waan dubbataniif abaaraman, 5:64
 - diinummaa amantoota (Musliimoota), 5:82
 - kan Islaamummaa fudhate, 26:197; 28:53; 29:47
-Jibriil, (Gabri'eel ilaali) .
+Jibriil, (Gabri'eel ilaali)
 Jihaada, (Lola, Carraaqqii) 2:216; 9:24; 22:78; 25:52
 Jinn, S.72
 Jinni, 6:100, 112; 15:27; 34:41; 38:37; 46:18,29; 55:33, 39
@@ -703,7 +703,7 @@ Jinni, ibidda irraa uumame 15:25; 55:15
 - gariin ergaa Qur'aana 46:29-32tti amanan
 - namaa fi jinni kaayyoo tokkoof uumame 51:56-58
 Iyoob, 4:163; 6:84; 21:83-84; 38:41-44
-Yohaannis, (Yahya, Yohaannis cuuphaa), .
+Yohaannis, (Yahya, Yohaannis cuuphaa),
 - oduu gammachiisaa kan, 3:38-41; 19:7-11; 21:90
 - qajeelaa, 6:85
 - ogeessa, mararfataa, dirqama kan qabu, 19:12-15
@@ -731,7 +731,7 @@ Juudii, Tulluu, 11:44
 Jumu'aa, S.62
 Haqaa (Adl), 2:282; 4:58, 135; 7:29; 16:90; 57:25 (
 - 4:65, 105 irrattis ilaali
-Ka'abaa, .
+Ka'abaa,
 - kan ijaarame Abrahaam, 2:125-127
 - ajjeechaa tapha hin qabu, 5:94-96
 - koolu galtummaa nageenyaa, 5:97
@@ -743,11 +743,11 @@ Kahf, S.18
 Kanz, 9:34-35
 Kauthar (laga Jannata keessa jiru), 108:1
 Kauthar, S.108
-Furtuu, .
+Furtuu,
 waa’ee samii fi lafaa, 39:63; 42:12
 kan Ghaib, 6:59
 Khaulah bint Tha labah, 58:1
-Ajjeechaa, .
+Ajjeechaa,
 - namni nama ajjeese yoo jiraate, dhala namaa hunda ajjeese, 5:32
 - nama tokkollee hin ajjeesinaa, 17:33
 Jechoonni gaarummaa tola ooltummaa caala, 2:263
@@ -763,14 +763,14 @@ Kursii, 2:255
 Lahaab (Masad ilaali), S.111
 Laayil, S.92
 Ifa, 25:61; 67:5; 71:16; 78:13
-Afaanota, .
+Afaanota,
 - garaagarummaa, fi halluu dhiirotaa, 30:22
 Lat, 53:19
 Seera, kan tumame, 5:48
 Seerota Rabbiin irraa, 2:219; 98:3
 Sobdoota, 26:221-223
 Jireenya, namni nama tokko yoo oolche lubbuu dhala namaa hundumaa oolche, 5:32
-Jireenya addunyaa kanaa, .
+Jireenya addunyaa kanaa,
 - kan bite, gatii Aakhiraan, 2:86
 - gowwoomsaa qofatti gammaduudha, 3:185
 - gurguruu, Aakhiraaf, 4:74
@@ -880,7 +880,7 @@ Nama
 - daangaa hundumaa ni darba, 96:6-7
 Manasik (dirqama) Hajjii, 2:128, 200; 22:30
 Manaat, 53:20
-Ilmi namaa, .
+Ilmi namaa,
 - dhugaa baatota irra, 2:143
 - hawaasa tokko, 2:213; 10:19
 - lamaan tokko irraa kan uumame, 4:1; 39:6; 49:13
@@ -890,7 +890,7 @@ Ilmi namaa, .
 - hunda caalaa kabajamaa, 49:13
 - sabaa fi gosa godhame, 49:13
 Mannaa fi qamalee, 2:57
-Safuu, .
+Safuu,
 - waa’ee mana seenuu, 24:27-29
 - mana keessatti, 24:58-61
 - mana Nabiyyii keessatti, 33:53
@@ -913,7 +913,7 @@ Gaa’ela, 2:232, 234
 - warra gaa’elaaf humna maallaqaa hin arganne, 24:33
 - haadhotii manaa Nabiyyiif halaal godhame, 33:50-52
 - walqunnamtii saalaa dura, wal hiikuu irratti Iddaan hin jiru, 33:49
-Wareegamtoota, .
+Wareegamtoota,
 - hin duune, 2:154; 3:169
 - Ayyaana fi Arjummaa Rabbiin irraa argamutti gammaduu,3:170-171
 - dhiifamaa fi araara argachuu, 3:157-158
@@ -963,7 +963,7 @@ Miraaj, 17:1; 53:12
 Ji'oota, lakkoofsa, 9:36-37
 Ji’a, 7:54; 10:5; 16:12; 22:18; 25:61; 36:39-40; 71:16; 91:2
 - gargar bahuu; 54:1
-Musee, .
+Musee,
 - fi saba isaa, 2:51-61; 7:138-141,159-162; 14:5-8; 61:5
 - fi Fara’oon, 2:49-50; 17:101-103; 20:17-53, 56-79;23:45-49; 25:31-42; 40:23-46; 43:46-56; 51:38-40; 73:16;79:15-26dha
 - Rabbiin qajeelcha, 6:84
@@ -986,7 +986,7 @@ Musee, .
 - Fara’oonii fi saba isaatiif mallattoo sagal 7:130-133; 20:17-22; 17:101
 - falfaltoota Fara'oon injifate 20:70-73; 26:46-52
 - gara Miidiyaanitti miliquu fi fuudhaa fi heeruma 28:22-28
-- Gabatee 7:142-154, 154 ni fudhata.
+- Gabatee 7:142-154, 154 ni fudhata
 - gaara irratti Rabbiin arguu gaafata 7:142-145
 - Rabbiin kabajame 33:69
 - Tola Rabbiin Israa’elootaaf godhe 2:47-61
@@ -1077,7 +1077,7 @@ Mumtahanah, S.60
 Munaafiigun, S.63
 Ajjeechaa, 2:178-179
 Mursalat, S.77
-Muslimoota, .
+Muslimoota,
 - kan jalqabaa, 6:14, 163; 9:100; 39:12
 - Eenyuutu maqaa dha'e, 22:78
 - dhiifamaa fi mindaa guddaa warra, 33:35-36
@@ -1088,8 +1088,8 @@ Nadir, Banu-an-, (Yihudoota), 59:2, 9, 13
 Nahl, S.16
 Najas (xuraa’aa) 9:28
 Najm, S.53
-Najwaa (Iccitii Ilaali) .
-Maqaawwan, .
+Najwaa (Iccitii Ilaali)
+Maqaawwan,
 kan Irra Bareedoon kan Isaati, 7:180
 kan Isa caalu kan Isaati, 17:110; 20:8; 59:24
 Barbaachisummaa, yoo namni tokko dirqisiifame, 2:173; 6:145
@@ -1109,7 +1109,7 @@ Nohi, 3:33; 4:163; 6:84; 9:70; 10:71;11:25, 32, 36, 42, 45-46, 48, 89; 17:3; 21:
 - ilma qajeelaa hin fayyine, 11:42-48
 - haadha manaa qajeelaa hin taane, 14:9; 17:3, 17;19:58;21:76; 22:42; 26:105-106, 116; 33:7; 37:75,79; 38:12; 42:13; 40:5, 31; 42:13;50:12;53:52; 57:26; 66:10; 71:1, 21, 26
 Nuh, S.71
-Nur,S.24
+Nur, S.24
 Kaka, 2:224-227; 3:77; 5:89; 6:109; 16:38, 91-92, 94; 24:22, 53; 66:2; 68:10, 39; 77:3
 Abboomamuu, 3:132; 4:59, 64, 66, 80-81; 5:95;18:46; 24:51=52, 54; 47:33; 64:12
 Dirqama raawwatamuu qabu, 5:1
@@ -1122,7 +1122,7 @@ Yatiima, 2:83, 177, 215, 220; 4:2-3, 6, 8, 10, 36, 127; 6:152; 8:41; 17:34; 18:8
 Gocha ofii, tokkoon tokkoon ummataaf haqa qabeessa fakkaachuu, 6:108
 Lamaan lama, uumamtoota hundumaa keessatti, 13:3; 30:8; 36:36;42:11; 43:12; 51:9, 49; 53:45
 Muka meexxii, 13:4; 19:25; 20:71; 59:5
-Fakkeenya, (fakkeenya, fakkeenya, walfakkeenya) .
+Fakkeenya, (fakkeenya, fakkeenya, walfakkeenya)
 - kan ibidda qabsiise, 2:17-18
 - obomboleettii rooba samii irraa, 2:19-20
 - hoomaa awwaannisaa, 2:26
@@ -1290,7 +1290,7 @@ Fara’oon, 28:6; 40:24
 - ijaarsa masaraa, 40:36-37
 - Musees ilaali
 Wantoota biyya lafaa tuuluu, 102:1-4
-Waadaa (Bai'ah), .
+Waadaa (Bai'ah),
 - Islaamummaaf, 16:91
 - Ergamaadhaaf Rabbiif Bai'aa (waada) dha, 48:10
 - kan Mu’mintootaa, 48:18; 60:12
@@ -1326,16 +1326,16 @@ Raajota, 3:33-34, 146; 4:163; 5:20; 6:84-90;23:23-50; 57:26
 - seeraan ala ta'eef, 3:161
 - hundaaf diina, 6:112; 25:31
 - Ergamtootas ilaali
-Sujuuduu, .
+Sujuuduu,
 - gara Rabbiitti kufe, nama samii fi dachii keessa jiruu fi akkasuma gaaddidduun isaanii, 13:15
 Qophii, 10:59; 13:26; 14:32; 16:73; 34:36,39; 42:12; 51:57; 67:21; 79:33
 Faarfannaa, 4:163
-Adabbii, .
+Adabbii,
 - yeroo biraatti dabarsuu kan, 3:178
 - harka ykn miila muruu, 5:33
 - waan ittiin dhiphatte sanaan isaan adabi, 16:126
 - kan jireenya fi Aakhiraa, 24:19; 68:33
-Qulqulleessuu, .
+Qulqulleessuu,
 - qaamaan,4:43; 5:6
 - hafuuraan (xurii irraa), 87:14; 91:9
 Qadar, 5:5; 64:11
@@ -1348,7 +1348,7 @@ Qaaruun (Qorah), 28:76-82; 29:39
 Qasas,S.28
 Qiblaa, 2:142-145, 149
 Qisaas (Seera walqixxummaa adabbii keessatti), 2:178-179, 194; 5:45; 16:126; 17:33; 22:60;42:40dha
-Qur'aana, .
+Qur'aana,
 - ibsame, 13:31, 36, 37; 14:1; 56:77-80
 - akka Rabbiin malee kan biraatiin oomishuu danda’u miti, 2:23; 10:38; 11:13; 17:88
 - osoo Rabbiin ala biraa irraa ta’ee, wal faallessuun baay’een keessa jira, 4:82
@@ -1398,7 +1398,7 @@ Qur'aana, .
 - fuula qulqulluu dubbisuu, 98:2
 - akkasumas Kitaaba ilaali; Mul'ata
 Qureesh, S.106
-Qureeshii, .
+Qureeshii,
 - kaafiroota kan, 54:43-46, 51
 - taming of, 106:1-4
 Raabii fi monoksoonni, 9:31, 34
@@ -1411,17 +1411,17 @@ Rooba
 - kan dhagaa, 27:58
 Ramadaana, 2:185
 Raamii, 2:200
-Furii, .
+Furii,
 - lakki, ni fudhatama, 57:15
 - kaafirootaan kan dhihaate, 3:91; 10:54; 13:18
 Fidyah, kan sooma, 2:196
 - booji’amtoota bilisa baasuuf, 8:67
 Raas, jiraattota kan, 25:38; 50:12
-Badhaasa, .
+Badhaasa,
 - Guyyaa kan, 1:4; 37:20; 51:12; 56:56; 82:17-18; 96:7
 - kan ganu, 107:1-7
 - kan hamaa hammeenyi akka isaati, 42:40
-Araara, .
+Araara,
 - nama dhiifama godhee fi tolche, 42:40
 - dhiiraa fi haadha manaa gidduutti, 4:35
 - amantoota gidduutti, 49:9-10
@@ -1452,7 +1452,7 @@ Amantaa
 - abbootii, 43:22-24
 Yaadannoo Rabbii, 63:9
 - keessatti, onneen boqonnaa argatu, 13:28
-Towbaa, .
+Towbaa,
 - fudhatama yoo hammeenya wallaalummaan hojjatamee yeroo muraasa booda tawbachuu, 4:17; 6:54
 - bu’aa tokkollee kan hin qabne, yoo hojiin hamaan itti fufe, 4:18
 - Cubbuu ni fudhata, ni dhiisa, 4:25
@@ -1551,7 +1551,7 @@ Rikardii dugda duubaan kenname, 84:10-15
 - Si'ool ni dhihaata, 89:23
 - Ibiddi Si’oolii ni baafama, ibidda cimaatti ni boba’a, 81:11-12
 - Karaa tola ooltummaatiin haaloo bahuun kaffaara ta'a, 5:45
-Mul’ata, .
+Mul’ata,
 - yoo shakkii qabaatte, 2:23-24
 - haqame ykn dagatame Keeyyata, 2:106
 - qajeelfama sirrii, 3:73
@@ -1568,8 +1568,8 @@ Badhaasa
 - akka badhaasaatti 25:15
 - Rabbiin warra waan gaarii hojjetan, waan gaarii ta’een badhaasa, 53:31
 - gaariidhaaf, gaarii malee mindaan biraa hin jiru, 55:60
-Riba (Riba ilaali) .
-Qajeelaa, .
+Riba (Riba ilaali)
+Qajeelaa,
 - dhaabbata kan, 4:69
 - lafa ni dhaala, 21:105
 - Jannata keessatti, 51:15-19; 76:5-12
@@ -1588,7 +1588,7 @@ Ruh (lubbuu, hafuura), 15:29; 17:85; 58:22
 Rum, S.30 kan jedhu
 Saba' (Sheebaa), 27:22-44; 34:15-21
 Saba', S.34
-Sanbata, .
+Sanbata,
 - irra daddarbanii, 2:65; 4:154; 7:163-166
 - kan ajajame qofaaf, 16:124
 Saabiyaanota, 5:69; 22:17
@@ -1630,7 +1630,7 @@ Seexanni, 2:36, 168, 208, 268, 275; 3:36, 155, 175;4:38, 60, 76, 83, 119-120; 5:
 - Iblis illee ilaali
 Iskeelii, milkaa’aa, kan fedhiin isaa ulfaataa ta’u, 7:8-9
 - madaalliis ilaali
-Caaffata Qulqullaa’oo, .
+Caaffata Qulqullaa’oo,
 - namoota kan, (Yihudootaa fi Kiristaanota), 2:109;3:64-65, 69-72, 75, 98-99, 110, 113,199; 4:47, 153-161; 5:59-60, 68; 98:1
 - waan dhoksaa turan, 5:61-63
 - isaan karaa sirrii irra jiran keessaa,5:66
@@ -1638,7 +1638,7 @@ Caaffata Qulqullaa’oo, .
 Galaana, 42:32-33; 45:12
 - lamaan, 18:60; 25:53; 35:12; 55:19-20
 - yeroo, dhoo'an, 82:3
-Iccitii (Najwaa), .
+Iccitii (Najwaa),
 - haasawa, 4:114
 - gorsa namoota sadii, 58:7
 - gorsa, 58:8, 10
@@ -1647,7 +1647,7 @@ Firqaa fi qoqqoodinsa amantii keessatti, 6:15; 23:53;30:32; 42:13-14; 43:65; 45:
 Nageenya, dhiphina booda, Inni gadi erge,3:154
 Sanyii, Eenyu akka guddisu, 56:63-67
 Miira, 23:78
-Torba, uumame, .
+Torba, uumame,
 - samii, 2:29; 23:17; 65:12; 67:3; 71:15
 - fi kan lafaa akka achi kan, 65:12
 Gaaddidduu
@@ -1707,8 +1707,8 @@ Boojuu waraanaa, 8:41, 69; 48:15, 19-20; 48:15
 Basaasaa, 49:12
 Urjii, 53:1, 49; 86:1-4
 Urjiilee, 7:54; 15:16; 16:12, 16; 22:18; 25:61;37:6-10; 56:75; 77:8; 81:2; 82:2
-Qajeelaa, Karaa, 1:6, 7.
-- fi kkf Daandii, 6:153, 154.
+Qajeelaa, Karaa, 1:6, 7
+- fi kkf Daandii, 6:153, 154
 - fi kkf Carraaqqii, 4:95; 8:72, 74, 75; 9:20, 24, 81; 22:78; 25:52; 29:69:69; 47:3; 60:1; 61:11
 Harma hoosisuu, jecha, haadha guddiftuu, 2:233
 Gidiraa, hiyyummaa, fayyaa dhabuu fi balaa; badhaadhina fi qabeenya, 7:94-96
@@ -1773,15 +1773,15 @@ Uhud, lola kan, 3:121-128, 140-180
 Ummaa (hawaasa, saba), 2:143-144;10:47, 49; 11:118; 16:36, 120
 'Umraa, 2:128, 158, 196
 Ribaa (Riba), 2:275-276, 278-280; 3:130;4:161; 30:39
-Uzaayir, (Izraa ilaali) .
+Uzaayir, (Izraa ilaali)
 'Uzaa, 53:19
 Golgaa, kan hin mul’anne, 17:45-46
 Haguugduu, 24:31; 33:59
 Keeyyata, Sab' Al-Mathani, 15:87
-Injifannoo, .
+Injifannoo,
 - kan Rabbiin kenne, 48:1
 - karaa gargaarsa Rabbiitiin, 61:13
-Safuu, (Qajeelummaa; Amantoota ilaali) .
+Safuu, (Qajeelummaa; Amantoota ilaali)
 Waadd, 71:23
 - "Isin eegaa, nutis eegaa jirra", 7:71; 9:52; 10:102; 11:122; 20:135; 44:59; 52:31
 Waqi'aa, S.56
@@ -1797,7 +1797,7 @@ Karaa, kan, 1:6; 42:52-53; 90:10
 Wayyaanee, 2:177, 215; 8:41; 17:26; 29:29;30:38; 59:7
 Qabeenya
 - kan walitti qabame, 104:2-4
-- Kaayyoo Rabbii keessatti baasii gochuu (Baasii ilaali) .
+- Kaayyoo Rabbii keessatti baasii gochuu (Baasii ilaali)
 Qabeenyaa fi ijoollee, faaya jireenya addunyaa kanaa, 18:46
 Ulfaatinaa fi Safartuu, guutuu kennuu, 11:85; 17:35;83:1-5dha
 Dubartoota abbaan manaa irraa du’e, 2:234-235, 240
@@ -1807,13 +1807,13 @@ Qilleensi, 77:1-3
 - akka labsitoota oduu gammachiisaa, 7:57; 30:46
 - duumessa ol kaasuu, bishaan fiduu, 15:22; 30:48
 - keelloo ta'uu, 30:51
-Wayinii (Jannata keessatti) .
+Wayinii (Jannata keessatti)
 - dhugaatii qulqulluu, 37:45; 76:21
 - adii, mi’aawaa, 37:46
 - lageen kan, 47:15
 - qulqulluu chaappaa, 83:25
 Wantoota Rabbiin namoota tokko tokko akka isaan kaan caalu itti godhe hin hawwiin, 4:32
-Dhugaa baatota, .
+Dhugaa baatota,
 - kakuu Raajotaaf, 3:81
 - dhala namaa irratti, 2:143; 22:78
 - kontiraata tokkoof, 2:282
@@ -1823,7 +1823,7 @@ Dhugaa baatota, .
 - harkaa fi miilli dhugaa ba'a, 36:65
 - namni ofirratti, 75:14
 Guyyaa Dhugaa Ba’uu fi Guyyaa Dhugaa Ba’uu, 85:3
-Haadhotii manaa, .
+Haadhotii manaa,
 - siif tilth dha, 2:223
 - siif haguuggii, 2:187
 - gosa mataa keetii, 16:72
@@ -1835,7 +1835,7 @@ Dubartoota, 2:222-223; 4:15, 19-22, 34, 127dha
 - falmii keessatti of ifa gochuu dhiisuu, 43:17-18
 Wood, jiraattota kan, 15:78; 38:13; 50:14
 - akkasumas Aikah ilaali; Madyan 26:176-191
-Addunyaa, jireenya kana, .
+Addunyaa, jireenya kana,
 - taphaafi bashannana malee homaa miti, 6:32;29:64; 47:36; 57:20
 - namoota gowwoomsa, 6:130
 - gammachuun kan, aakhira caalaa xiqqaadha, 9:38; 13:26; 28:60-61
@@ -1847,7 +1847,7 @@ Yakkamtoota,11:18-22, 101-104, 116-117;39:47
 - Kaafirootas ilaali
 Wuduu' (Wadudha), 4:43; 5:6
 Yaghut, 71:23
-Yahya (Yohaannis), .
+Yahya (Yohaannis),
 - oduu gammachiisaa kan, 3:39; 21:90
 - qajeelaa, 6:85
 - ogeessa; kan namaaf mararfatu; dirqama, 19:12-15
@@ -1878,7 +1878,7 @@ Dudhaalee bu’uuraa
 - lubbuu eeguu 5:32;6:151
 - qabeenya eeguu 5:38
 - kabaja eeguu 5:5;24:4
-- dandeettii yaaduu ofii eeguu 5:90.
+- dandeettii yaaduu ofii eeguu 5:90
 Rabbiitti amanuu 2:255
 - Amaloota Waaqummaa, Maqaawwan Babbareedoo 57:1-6; 59:22-24; 85:13-16; 112:1-4
 - waaqa tokkicha waaqeffannaa malu 1:1-4; 2:285; 6:3; 43:84
@@ -1981,13 +1981,13 @@ Lubbu qabeeyyii
 - saroonni 29:41
 - kanneen biroo nutti hin beekne 16:8
 Biqiltootaa fi firii 6:99; 13:4; 16:11; 36:33-35
-- banaanaa 56:29, 29.
-- guyyoota 19:25, 26.
-- baala mukaa, cucumber, garlic, lentis, fi basaasti 2:61, 61.
-- wayinii 80:28, 29 .
-- zayitii 6:99, 99 .
-- fakk 95:1, 2 .
-- romaanii 55:68, 68.
+- banaanaa 56:29, 29
+- guyyoota 19:25, 26
+- baala mukaa, cucumber, garlic, lentis, fi basaasti 2:61, 61
+- wayinii 80:28, 29
+- zayitii 6:99, 99
+- fakk 95:1, 2
+- romaanii 55:68, 68
 - iskuwaashii 37:146
 Muḥammaditti amanuu
 - Amaloota, raajii qofa 3:144; 6:50; 7:188; 18:110
@@ -2004,14 +2004,14 @@ Muḥammaditti amanuu
 - raajii hin baramne 7:157-158; 29:48; 62:2
 - Toora fi Wangeela 7:157 keessatti raajii dubbate
 - Yesus 61:6 irratti raajii dubbate
-Qormaata Nabiyyiin ( صلى الله عليه وسلم ) mudate .
+Qormaata Nabiyyiin ( صلى الله عليه وسلم ) mudate
 - gaaffii hiika hin qabne warra ormaa 8:32; 15:7; 17:89-93; 25:7-8
 - himannaa sobaa 10:2; 11:13; 21:5; 24:11-26; 25:4-6; 37:36; 38:4; 52:29-30
 - lubbuu isaa irratti yaaliiwwan 8:30; 9:74
 - warra isa miidhaniif ykn mormaniif akeekkachiisa 4:115; 8:13; 9:61; 15:95; 33:57; 47:32; 96:9-19
 - haaluuf obsaan deebii akka kennu ajajame 20:130; 30:60; 46:35; 70:5
 - ajaja Rabbiin mirkaneesse 5:67; 93:1-11; 94:1-8
-Jireenya Rasuulaa ( صلى الله عليه وسلم ) irraa barnoota .
+Jireenya Rasuulaa ( صلى الله عليه وسلم ) irraa barnoota
 - godaansa ( hijraa ) isaa irraa gara Lola Badrii 3:121-129; 8:42-44; 8:65-71 irraa
 - Lola Uhud 3:151-180
 - Lola Boollaa 33:9-27
@@ -2021,7 +2021,7 @@ Jireenya Rasuulaa ( صلى الله عليه وسلم ) irraa barnoota .
 - Baanuu An-Nadîr 59:2-6
 - Hamra' Al-Asad 3:172-175
 - Araaraa Hudaibiyaa 48:1-7; 48:10-29
-Kabaja Rasuula ( صلى الله عليه وسلم ) irratti kenname .
+Kabaja Rasuula ( صلى الله عليه وسلم ) irratti kenname
 - Rabbii fi Malaaykonni Isaa 33:56
 - imala halkanii Makkaa irraa gara Yerusaalem 17:1
 - imala gara samiitti 53:1-18
@@ -2047,7 +2047,7 @@ Salaata (salaa) 2:45; 9:103; 51:18; 70:22-23; 75:31; 96:10; 108:2
 Qulqulleessuu, wuduu’uu (wudu) 5:6
 - dhiqannaa guutuu (ghusl) 2:222; 4:43
 - wuduu’a goggogaa (tayammum) 4:43; 5:6
-Kadhannaa (du'a) .
+Kadhannaa (du'a)
 - kan Abrahaam 2:126-129; 2:126-129; 14:35-41; 26:83-89 irraa
 - Addaamiifi Hewaan 7:23
 - Yesus 5:114
@@ -2076,13 +2076,13 @@ Gibira sadaqaa (zakaa), akka dirqamaatti 2:110; 2:177; 2:277; 6:141
 - fudhattoota 9:60
 - sadaqaa (sadaqah) 2:177; 2:261-263; 2:267-274; 3:92; 63:10
 - akeekkachiisa warra ofirraa ittisaniif 3:180; 9:34; 47:38
-Soomana (sawm) .
+Soomana (sawm)
 - Ramadaanaa keessatti 2:183-185
 - sa'aatii soomaa 2:187
 - bilisa ta’uu 2:184-185
 - hariiroo walitti dhiyeenyaa halkan sooma duraa 2:187
 - sooma yeroo hajjii 2:196
-Hajjii (hajjii), .
+Hajjii (hajjii),
 - dirqama tokko warra danda’an 3:97
 - sirnoota fi murtii 2:158; 2:189; 2:196-203; 5:2; 22:26-37
 - aarsaa aarsaa 2:196; 22:36-37
@@ -2114,7 +2114,7 @@ Gochoonni warra ormaa seeraan ala
 - murtoodhaaf carraa baasuu 5:3
 - qullaa utuu jiruu Ka'abaatti naanna'uu 7:26-28
 - hajjii booda balbala duubaa irraa mana seenuu 2:189
-Meeshaalee waaqeffannaa, .
+Meeshaalee waaqeffannaa,
 - ergamoota (Araboota waaqa tolfamaa tokko tokko biratti) 34:40
 - Al-Aykah (namoota Shu'aib keessaa) 26:176
 - Ba'l (namoota Eliyaas 37:125 keessaa
@@ -2176,7 +2176,7 @@ Caaffata Qulqullaa'oo
 - Macaafa maraa Abrahaam 53:36-44; 87:14-19
 Hiree fi hiree 3:145; 9:51; 10:107; 11:6; 54:49; 67:30
 - filannoo bilisaa 6:148-150; 11:118-119; 16:93; 33:72-73 irraa; 39:41; 76:1-3; 91:1-10
-Guyyaa Qiyaamaa, .
+Guyyaa Qiyaamaa,
 - jal'inni hin jiru 2:281; 18:49; 40:17
 - sodaachisoo apokaaliipsii 22:1-2; 27:82-84, 87; 40:18; 52:11-16; 69:13-18; 70:8-18; 73:17-18; 75:7-15; 77:8-15; 78:17-20; 79:34-36; 80:33-42; 81:1-14; 82:1-5; 84:1-5; 87:17-40; 99:1-8; 101:1-11
 - qajeelota fi jal'oonni Guyyaa san 11:105-108; 16:27-33, 84-89; 18:52-53; 20:100-111; 25:24-29; 30:12-16; 33:63-68 irraa; 39:68-75; 50:20-35; 55:37-41; 83:4-36
