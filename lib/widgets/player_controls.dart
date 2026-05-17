@@ -693,7 +693,7 @@ class PlayerControls extends StatelessWidget {
             PopupMenuItem(
               enabled: false,
               child: PopupMenuButton<PauseMode>(
-                child: const Text('Pause Mode'),
+                child: const Text('Pause Mode >'),
                 onSelected: onPauseModeChanged,
                 itemBuilder: (context) => [
                   PopupMenuItem(

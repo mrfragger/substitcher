@@ -225,6 +225,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   final TextEditingController _quranExcludeController = TextEditingController();
   int? _activeQuranFilteredIndex;
   String _quranIndexLanguage = 'English';
+  final FocusNode _quranRefInputFocusNode = FocusNode();
 
   String _defaultFont = 'System Default';
   String? _defaultColorPalette;
@@ -479,6 +480,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     _excludeFocusNode.dispose();
     _quranSearchFocusNode.dispose();
     _quranExcludeFocusNode.dispose();
+    _quranRefInputFocusNode.dispose();
     _skipChapterController.dispose();
     _skipChapterFocusNode.dispose();
     _subsSearchController.dispose();
@@ -6908,6 +6910,22 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
       }
     }
 
+    bool _isTextFieldFocused() {
+      final focus = FocusManager.instance.primaryFocus;
+      if (focus == null) return false;
+      final context = focus.context;
+      if (context == null) return false;
+      bool found = false;
+      context.visitAncestorElements((element) {
+        if (element.widget is TextField) {
+          found = true;
+          return false;
+        }
+        return true;
+      });
+      return found;
+    }
+
   Future<void> _navigateFonts(int direction, {bool fromCycle = false}) async {
     if (!fromCycle && _fontCycleActive) {
       setState(() {
@@ -7022,7 +7040,8 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             _vttEditLine1FocusNode.hasFocus ||
             _vttEditLine2FocusNode.hasFocus ||
             _quranSearchFocusNode.hasFocus ||
-            _quranExcludeFocusNode.hasFocus) {
+            _quranExcludeFocusNode.hasFocus ||
+            _quranRefInputFocusNode.hasFocus) {
           return KeyEventResult.ignored;
         }
 
@@ -7275,6 +7294,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             }
             return KeyEventResult.handled;
           } else if ((event.logicalKey == LogicalKeyboardKey.digit0 || event.logicalKey == LogicalKeyboardKey.numpad0) && event is KeyDownEvent) {
+            if (_isTextFieldFocused()) return KeyEventResult.ignored;
             _adhanClockService.stopAdhan();
             return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyG && event is KeyDownEvent) {
@@ -7287,7 +7307,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
               if (mounted) {
                 ScaffoldMessenger.of(context).showSnackBar(
                   const SnackBar(
-                    content: Text('Pause Mode: Disabled'),
+                    content: Text('Pause Mode >: Disabled'),
                     duration: Duration(seconds: 1),
                   ),
                 );
@@ -8687,9 +8707,9 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     }
 
     Future.delayed(const Duration(milliseconds: 300), () => doScroll());
-    Future.delayed(const Duration(milliseconds: 500), () => doScroll());
-    Future.delayed(const Duration(milliseconds: 1000), () => doScroll());
-    Future.delayed(const Duration(milliseconds: 3000), () => doScroll());
+    // Future.delayed(const Duration(milliseconds: 500), () => doScroll());
+    // Future.delayed(const Duration(milliseconds: 1000), () => doScroll());
+    Future.delayed(const Duration(milliseconds: 2000), () => doScroll());
   }
 
   Widget _buildPlayer() {
