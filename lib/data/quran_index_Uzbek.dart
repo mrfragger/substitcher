@@ -632,7 +632,7 @@ Iso, Isoga qarang
 Ishoq, (Ishoq) 2:133; 4:163; 6:84; 19:49;21:72; 29:27; 37:112–113
 Ismoil (Ismoil), 2:125-129, 133; 4:163;6:86; 19:54–55; 21:85; 38:48
 otasi bilan Ka'ba poydevorini ko'taradi 2:125-140
-qurbonlik hikoyasi 37: 100-113
+qurbonlik hikoyasi 37:100-113
 Islom, 3:19, 85; 5:3; 6:125; 39:22; 61:7
 - musulmon sifatida itoat etganlarning birinchisi, 6:14,163; 39:12
 - birinchi bo'lib quchoqlagan, 9:100

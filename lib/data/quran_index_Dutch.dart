@@ -629,7 +629,7 @@ Lezen’ (zie ‘Kind’), blz. 96
 Eram, 89:7
 IJzer, 57:25
 Jezus, zie Jezus
-Isaak, (Isaak) 2:133; 4:163; 6:84; 19:49;21:72; 29:27; 37: 112–113
+Isaak, (Isaak) 2:133; 4:163; 6:84; 19:49;21:72; 29:27; 37:112–113
 Ismaël (Ismaël), 2:125-129, 133; 4:163; 6:86; 19:54-55; 21:85; 38:48
 legt samen met zijn vader de fundamenten van de Ka'bah op (2:125-140)
 verhaal van het offer 37:100-113

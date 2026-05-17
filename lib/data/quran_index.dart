@@ -2891,7 +2891,7 @@ Qualities of the wicked
 - impatient 70:19
 - argumentative 18:54
 Major Sins
-- associating others with Allah in worship (shirk) 4:48; 4:116; 5:72; 6:19; 31:13:
+- associating others with Allah in worship (shirk) 4:48; 4:116; 5:72; 6:19; 31:13
 - abusing one's own parents 4:36; 6:151; 17:23
 - neglecting or abandoning obligatory prayers 19:59-60
 - not paying alms-tax 41:6-7

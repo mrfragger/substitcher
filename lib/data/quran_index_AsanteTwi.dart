@@ -2325,7 +2325,7 @@ Abɔnefo su horow
 - a wonni abotare 70:19
 - akyinnyegye 18:54
 Bɔne Ahorow Kɛse
-- a wode afoforɔ bɛka Allah ho wɔ ɔsom mu (shirk) 4:48; 4:116; 5:72; 6:19; 31:13: 1 .
+- a wode afoforɔ bɛka Allah ho wɔ ɔsom mu (shirk) 4:48; 4:116; 5:72; 6:19; 31:13
 - a wodi obi ankasa awofoɔ ayayadeɛ 4:36; 6:151; 17:23
 - a wobebu ani agu so anaase wobegyae mpaebo a ehia 19:59-60
 - a wontua adom-tow 41:6-7

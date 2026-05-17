@@ -1305,7 +1305,7 @@ Umthandazo, 1:1-7; 3:8, 26-27, 147, 191-194; 4:103; 17:80; 23:118
 - ukubizwa kwabangakholwayo, 13:14
 - Uphendula (ukubizwa) kwabo, 42:26
 - funa uncedo ngomonde kwaye, 2:45, 153; 20:132; 50:39
-- yenza i-Iqamat-as-Salat, ejongene neQiblah, 2: 142-145, 149-150
+- yenza i-Iqamat-as-Salat, ejongene neQiblah, 2:142-145, 149-150
 - linda ngokungqongqo, 2:238
 - ekuhambeni nasekuhlaseleni, 2:239; 4:101-102
 - ungasondeli xa unxilile, 4:43
@@ -2019,7 +2019,7 @@ Izifundo ezivela kubomi boMprofeti ( ﷺ )
 - Tabhuki 9:38-123
 - Banu An-Naḍîr 59:2-6
 - Hamra' Al-Asad 3:172-175
-- Inyaniso kaHudaibiyah 48: 1-7; 48:10-29
+- Inyaniso kaHudaibiyah 48:1-7; 48:10-29
 Iimbeko ezinikwa uMprofeti ( ﷺ )
 - UAllah neengelosi zakhe zimsikelela 33:56
 - uhambo lwasebusuku ukusuka eMecca ukuya eJerusalem 17:1

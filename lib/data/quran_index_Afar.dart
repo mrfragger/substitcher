@@ -2325,7 +2325,7 @@ uma marih mexxat
 - sabri sinna 70:19
 - qadaaqada 18:54
 Kaxxa zambitte
-- qibaadat yallat agleyta haanam (shirki) 4:48; 4:116; 5:72; 6:19; 31:13:
+- qibaadat yallat agleyta haanam (shirki) 4:48; 4:116; 5:72; 6:19; 31:13
 - inki num isi xaleyna uncus abaanam 4:36; 6:151; 17:23
 - dirki salaatah hangi yaceenim akkek cabaanam 19:59-60
 - sadaqah qiso meklaanam hinna 41:6-7

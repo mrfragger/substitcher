@@ -1557,7 +1557,7 @@ Otkrivenje
 - od Gospodara, pa ne budi od onih koji sumnjaju, 6:114
 - za ljude koji razumiju, 6:98
 - Uputa i Milost, 7:203; 16:64; 31:3
-- preko Ruhu-l-Kudusa, 16:102; 26: 192-193
+- preko Ruhu-l-Kudusa, 16:102; 26:192-193
 - detaljno objašnjeno, 6:98; 41:2-4
 - dijela Knjige je od Allaha, 46:2
 - vidi također Knjigu i Kuran
