@@ -5,7 +5,6 @@ import 'package:url_launcher/url_launcher.dart';
 import 'package:scrollable_positioned_list/scrollable_positioned_list.dart';
 import '../data/quran_index.dart';
 import '../data/surah_names.dart';
-import '../data/tafsir_sadi_arabic.dart';
 import '../data/tafsir_moyassar_arabic.dart';
 import '../data/tafsir_mokhtasar_arabic.dart';
 import '../data/tafsir_mokhtasar_all.dart';
@@ -58,7 +57,6 @@ class _QuranPanelState extends State<QuranPanel> {
   static bool _tafsirExpanded = false;
   static bool _tafsirMokhtasar = true;
   static bool _tafsirMokhtasarAr = false;
-  static bool _tafsirSadiAr = false;
   static bool _tafsirMoyassarAr = false;
   static String _mokhtasarLanguage = 'English';
   static List<Map<String, dynamic>> _tafsirResults = [];
@@ -278,12 +276,6 @@ class _QuranPanelState extends State<QuranPanel> {
         final text = getTafsirMoyassarArabic(range.surah, ayah);
         if (text != null) {
           results.add({'source': 'Moyassar Ar', 'surah': range.surah, 'ayah': ayah, 'text': text});
-        }
-      }
-      if (_tafsirSadiAr) {
-        final text = getTafsirSadiArabic(range.surah, ayah);
-        if (text != null) {
-          results.add({'source': 'Sadi Ar', 'surah': range.surah, 'ayah': ayah, 'text': text});
         }
       }
     }
@@ -929,10 +921,6 @@ class _QuranPanelState extends State<QuranPanel> {
                 _tafsirCheckbox('Moyassar Ar', _tafsirMoyassarAr, (v) {
                   setState(() => _tafsirMoyassarAr = v ?? false);
                 }),
-                const SizedBox(width: 12),
-                _tafsirCheckbox('Sadi Ar', _tafsirSadiAr, (v) {
-                  setState(() => _tafsirSadiAr = v ?? false);
-                }),
               ],
             ),
             if (_tafsirResults.isNotEmpty) ...[
@@ -1021,7 +1009,7 @@ class _QuranPanelState extends State<QuranPanel> {
           const SizedBox(height: 6),
           SelectableText(
             text,
-            textDirection: (source == 'Sadi Ar' || source == 'Moyassar Ar' || source == 'Mokhtasar Ar')
+            textDirection: (source == 'Moyassar Ar' || source == 'Mokhtasar Ar')
                 ? TextDirection.rtl
                 : TextDirection.ltr,
             style: const TextStyle(color: Colors.white, fontSize: 14, height: 1.55),
