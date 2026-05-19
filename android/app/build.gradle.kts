@@ -37,10 +37,6 @@ android {
         }
     }
 
-    dependencies {
-    implementation("com.github.media-kit:libmpv-android-audio-build:...")
-    }
-
     splits {
         abi {
             isEnable = false
