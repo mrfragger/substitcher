@@ -530,8 +530,8 @@ download and in transcribe screen point it to use this whisper-cli.exe instead o
 <summary>Miscellaneous</summary>
 
 - Substicher is a flutter app so small in size.  It appears big but isn't all that huge.
-- 29MB fonts, 65MB LUTs, 36MB DeepFilterNet3 (denoise), 17MB adhan. 
-- So Mac app size is 232MB  - 147MB (assets) = 85MB real size of flutter app
+- 29MB fonts, 65MB LUTs, 36MB DeepFilterNet3 (denoise), 17MB adhan, 108MB quran index & tafsir 
+- So Mac app size is 354MB  - 255MB (assets) = 99MB real size of flutter app
 - Never will get a light theme nor support music
 - Never will support cover images, choose audiobooks with covers and not to use subtitles, use kid3 app (qt free cross-platform app) for embedding a cover image
 - Reason is most audiobook players don't support subtitles, and ones that do, do so due to video support and having a cover image in background intefers with subtitles in most cases
