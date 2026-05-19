@@ -5,7 +5,6 @@ import 'package:url_launcher/url_launcher.dart';
 import 'package:scrollable_positioned_list/scrollable_positioned_list.dart';
 import '../data/quran_index.dart';
 import '../data/surah_names.dart';
-import '../data/tafsir_moyassar_arabic.dart';
 import '../data/tafsir_mokhtasar_arabic.dart';
 import '../data/tafsir_mokhtasar_all.dart';
 
@@ -57,7 +56,6 @@ class _QuranPanelState extends State<QuranPanel> {
   static bool _tafsirExpanded = false;
   static bool _tafsirMokhtasar = true;
   static bool _tafsirMokhtasarAr = false;
-  static bool _tafsirMoyassarAr = false;
   static String _mokhtasarLanguage = 'English';
   static List<Map<String, dynamic>> _tafsirResults = [];
   static final TextEditingController _tafsirRefController = TextEditingController();
@@ -272,12 +270,6 @@ class _QuranPanelState extends State<QuranPanel> {
           results.add({'source': 'Mokhtasar Ar', 'surah': range.surah, 'ayah': ayah, 'text': text});
         }
       }
-      if (_tafsirMoyassarAr) {
-        final text = getTafsirMoyassarArabic(range.surah, ayah);
-        if (text != null) {
-          results.add({'source': 'Moyassar Ar', 'surah': range.surah, 'ayah': ayah, 'text': text});
-        }
-      }
     }
 
     setState(() => _tafsirResults = results);
@@ -400,6 +392,9 @@ class _QuranPanelState extends State<QuranPanel> {
       },
       child: Column(
         children: [
+
+        _buildTafsirSection(context),
+
           Padding(
             padding: const EdgeInsets.fromLTRB(16, 8, 16, 4),
             child: Row(
@@ -409,7 +404,7 @@ class _QuranPanelState extends State<QuranPanel> {
                   child: TextField(
                     controller: _searchController,
                     focusNode: _searchFocusNode,
-                    style: const TextStyle(color: Colors.white, fontSize: 14),
+                    style: const TextStyle(color: Colors.white, fontSize: 16),
                     decoration: InputDecoration(
                       hintText: '/ Search topics...',
                       hintStyle: const TextStyle(color: Colors.white54),
@@ -484,8 +479,6 @@ class _QuranPanelState extends State<QuranPanel> {
               ],
             ),
           ),
-
-          _buildTafsirSection(context),
 
           if (!widget.isQuranLoaded)
             Container(
@@ -917,10 +910,6 @@ class _QuranPanelState extends State<QuranPanel> {
                 _tafsirCheckbox('Mokhtasar Ar', _tafsirMokhtasarAr, (v) {
                   setState(() => _tafsirMokhtasarAr = v ?? false);
                 }),
-                const SizedBox(width: 12),
-                _tafsirCheckbox('Moyassar Ar', _tafsirMoyassarAr, (v) {
-                  setState(() => _tafsirMoyassarAr = v ?? false);
-                }),
               ],
             ),
             if (_tafsirResults.isNotEmpty) ...[
@@ -1009,7 +998,7 @@ class _QuranPanelState extends State<QuranPanel> {
           const SizedBox(height: 6),
           SelectableText(
             text,
-            textDirection: (source == 'Moyassar Ar' || source == 'Mokhtasar Ar')
+            textDirection: (source == 'Mokhtasar Ar' || isRtlQuranLanguage(_mokhtasarLanguage))
                 ? TextDirection.rtl
                 : TextDirection.ltr,
             style: const TextStyle(color: Colors.white, fontSize: 14, height: 1.55),
