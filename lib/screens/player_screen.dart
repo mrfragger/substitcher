@@ -541,7 +541,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
 
   bool get _isQuranVerseByVerse {
     final p = _currentAudiobook?.path ?? '';
-    return p.contains('Verse by Verse');
+    return p.contains('Verse by Verse') && p.contains('Quran');
   }
 
   Future<void> _navigateToQuranVerse(QuranVerseRef ref, int filteredIndex) async {

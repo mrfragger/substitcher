@@ -397,6 +397,12 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 
 ![](images/quranindex.jpg)
 
+### Tafsir
+- Mokhtasar (Mukhtasar) tafsir is available in the following languages
+- Arabic, Azerbaijani, Bengali, Bosnian, Chinese, French, Indonesian, Italian, Japanese, Khmer, Kurdish, Kyrgyz, Persian, Serbian, Spanish, Tagalog, Thai, Turkish, Uyghur, Uzbek, Vietnamese
+- all are from quranenc.com except English and Bengali from https://github.com/tafsircenter/tafsir-mcp Tafsir Center for Quranic Studies
+- Moyassar (Muyassar) tafsir, English is auto-translated
+
 ### vttshow Slide Presentation
 - open v Subtitle Manager to create New vttshow or Last vttshow or Browse vtt
 - edit vttshow.vtt to show fancy fonts with various color palettes

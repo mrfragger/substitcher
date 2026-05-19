@@ -2909,6 +2909,22 @@ Major Sins
 - backbiting 49:11
 - false testimony 22:30
 - magic 2:102; 10:77; 20:69
+Islamic months
+- 1st Muharram sacred month; fast 9th (Tasu'a) and 10th (Ashura) sunnah 9:36
+- 2nd Safar
+- 3rd Rabi al-Awwal
+- 4th Rabi al-Thani
+- 5th Jumada al-Awwal
+- 6th Jumada al-Thani
+- 7th Rajab sacred month
+- 8th Sha'ban fast most of month (sunnah)
+- 9th Ramadan obligatory fasting; Laylat al-Qadr 2:183-185, 187; 97:1-5
+- 10th Shawwal Eid al-Fitr (1st); six days sunnah fasting
+- 11th Dhul Qa'dah sacred month
+- 12th Dhul Hijjah best ten days of year; fast first 9 days (sunnah); Day of Arafah (9th); Eid al-Adha (10th) forbidden to fast; Ayyam al-Tashriq (11th-13th) forbidden to fast 2:196-203; 22:27-28
+- Fast Mondays and Thursdays (sunnah)
+- Fast white days 13th, 14th, 15th every month (Ayyam al-Bid)
+- Hajj during Shawwal, Dhul Qaa'dah and 10 days of Dhul Hijjah of Dhul Hijjah 2:197
 Juz
 - Juz 1 1:1-7; 2:1-141
 - Juz 2 2:142-252
