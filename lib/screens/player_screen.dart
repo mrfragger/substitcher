@@ -219,6 +219,8 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
   final FocusNode _excludeFocusNode = FocusNode();
   final FocusNode _quranSearchFocusNode = FocusNode();
   final FocusNode _quranExcludeFocusNode = FocusNode();
+  final FocusNode _hadeethSearchFocusNode = FocusNode();
+  final FocusNode _hadeethExcludeFocusNode = FocusNode();
   String _quranSearchQuery = '';
   String _quranExcludeQuery = '';
   final TextEditingController _quranSearchController = TextEditingController();
@@ -480,6 +482,8 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     _excludeFocusNode.dispose();
     _quranSearchFocusNode.dispose();
     _quranExcludeFocusNode.dispose();
+    _hadeethSearchFocusNode.dispose();
+    _hadeethExcludeFocusNode.dispose();
     _quranRefInputFocusNode.dispose();
     _skipChapterController.dispose();
     _skipChapterFocusNode.dispose();
@@ -7041,7 +7045,9 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
             _vttEditLine2FocusNode.hasFocus ||
             _quranSearchFocusNode.hasFocus ||
             _quranExcludeFocusNode.hasFocus ||
-            _quranRefInputFocusNode.hasFocus) {
+            _quranRefInputFocusNode.hasFocus ||
+            _hadeethSearchFocusNode.hasFocus ||
+            _hadeethExcludeFocusNode.hasFocus) {
           return KeyEventResult.ignored;
         }
 
@@ -7936,6 +7942,8 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                   excludeController: _excludeController,
                   searchFocusNode: _searchFocusNode,
                   excludeFocusNode: _excludeFocusNode,
+                  hadeethSearchFocusNode: _hadeethSearchFocusNode,
+                  hadeethExcludeFocusNode: _hadeethExcludeFocusNode,
                   isExportingMarkdown: _isExportingMarkdown,
                   exportStatus: _exportStatus,
                   onExportMarkdown: _exportMarkdownParagraphs,
@@ -7943,6 +7951,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                     setState(() {
                       _showPanel = false;
                     });
+                    _focusNode.requestFocus();
                   },
                   onToggleCollapse: () {
                     setState(() {

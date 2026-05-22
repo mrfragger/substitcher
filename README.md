@@ -392,15 +392,19 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 - (70:24-5) converts to 70:24-25 as well as 38:36-4 converts to 38:36-40
 - Juz, Hizb (1/2 a Juz), Rub (1/4 a Hizb) added to English Quran index only
 - Surah List usually has the verses in its respective language otherwise the English transliteration
-- these are the vtt subs languages:
+- these are the vtt subs languages from quranenc.com:
 - A_English_Saheeh, Afar,  Albanian, Amharic, Arabic, Asante, Assamese, Azerbaijani, Belarusian, Bengali, Bosnian, Bulgarian, Cebuano, Chichewa, Chinese, Croatian, Dari Persian, Dagbani, Dutch, English (Hilali Khan), Fula, French, German, Greek, Gujarati, Hausa, Hebrew, Hindi, Indonesian, Iranun, Italian, Japanese, Kannada, Kazakh, Khmer, Kinyarwanda, Kirundi, Korean, Kurdish, Kurmanji, Kyrgyz, Lingala, Lithuanian, Luganda, Luhya, Macedonian, Maguindanaon, Malayalam, Malagasy, Malay, Marathi, Moore, Nepali, Nko, Oromo, Pashto, Persian, Portuguese, Punjabi, Romanian, Russian, Serbian, Sinhalese, Somali, Spanish, Spanish Latin, Swahili, Swedish, Tagalog, Tajik, Tamil, Telugu, Thai, Turkish, Ukranian, Urdu, Uyghur, Uzbek, Vietnamese, Yao, Yoruba
 
 ![](images/quranindex.jpg)
 
 ### Tafsir (Quran Commentary)
 - Mokhtasar (Mukhtasar) tafsir is available in the following languages:
-- English, Arabic, Assamese, Azerbaijani, Bengali, Bosnian, Chinese, French, Fulani, Hindi, Indonesian, Italian, Japanese, Khmer, Kurdish, Kyrgyz, Malayalam, Pashto, Persian, Serbian, Sinhalese, Spanish, Tagalog, Tamil, Telugu, Thai, Turkish, Uyghur, Uzbek, Vietnamese
+- Arabic, Assamese, Azerbaijani, Bengali, Bosnian, Chinese, English, French, Fulani, Hindi, Indonesian, Italian, Japanese, Khmer, Kurdish, Kyrgyz, Malayalam, Pashto, Persian, Serbian, Sinhalese, Spanish, Tagalog, Tamil, Telugu, Thai, Turkish, Uyghur, Uzbek, Vietnamese
 - all are from quranenc.com except English is from https://github.com/tafsircenter/tafsir-mcp Tafsir Center for Quranic Studies
+
+### Hadith hadethenc.com
+- takes up 180MB but worth it for all the following languages:
+- Amharic, Arabic, Assamese, Bangla, Bosnian, Chinese, Dutch, English, Filipino, French, Georgian, Gujarati, Hausa, Hindi, Hungarian, index, Indonesian, Japanese, Kannada, Khmer, Kurdish, Macedonian, Malayalam, Marathi, panel, Pashto, Persian, PersianAfghan, Portuguese, Punjabi, Romanian, Russian, Sinhala, Spanish, Swahili, Telugu, Thai, Turkish, Urdu, Uyghur, Vietnamese
 
 ### vttshow Slide Presentation
 - open v Subtitle Manager to create New vttshow or Last vttshow or Browse vtt
@@ -530,13 +534,13 @@ download and in transcribe screen point it to use this whisper-cli.exe instead o
 <summary>Miscellaneous</summary>
 
 - Substicher is a flutter app so small in size.  It appears big but isn't all that huge.
-- 29MB fonts, 65MB LUTs, 36MB DeepFilterNet3 (denoise), 17MB adhan, 108MB quran index & tafsir 
-- So Mac app size is 354MB  - 255MB (assets) = 99MB real size of flutter app
+- 29 MB fonts, 65 MB LUTs, 36 MB DeepFilterNet3 (denoise), 17 MB adhan, 108 MB quran index & tafsir, 180 MB hadeeth 
+- So Mac app size is 546 MB - 435 MB (assets) = 111 MB real size of flutter app
 - Never will get a light theme nor support music
 - Never will support cover images, choose audiobooks with covers and not to use subtitles, use kid3 app (qt free cross-platform app) for embedding a cover image
 - Reason is most audiobook players don't support subtitles, and ones that do, do so due to video support and having a cover image in background intefers with subtitles in most cases
-- It just puts a 16x9 black png image with META_BLOCK_PICTURE some info which is conforms to vorbis comment specification
-- encode wma or flv or other old codecs just batch convert them to opus then encode those to an opus chaptered audiobook
+- It just puts a 16x9 black png image with META_BLOCK_PICTURE some info which conforms to vorbis comment specification
+- encode wma or flv or other old codecs by batch converting them to opus then encode those to an opus chaptered audiobook
 - `parallel ffmpeg -i {} -c:a libopus -b:a 32k {.}.opus ::: *.wma` 
 - `parallel ffmpeg -i {} -c:a libopus -b:a 32k {.}.opus ::: *.flv`
 - Developed since 2022 but in Dec 2025 decided to port from mpv front-end lua scripts with uosc ui, LUTs to a flutter / dart app (not just Mac/Linux anymore) and make it purely an audiobook player with some basic video editing

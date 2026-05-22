@@ -7,6 +7,7 @@ import '../data/quran_index.dart';
 import '../data/surah_names.dart';
 import '../data/tafsir_mokhtasar_arabic.dart';
 import '../data/tafsir_mokhtasar_all.dart';
+import '../hadeeth/hadeeth_panel.dart';
 
 class QuranPanel extends StatefulWidget {
   final List<QuranIndexEntry> entries;
@@ -15,6 +16,8 @@ class QuranPanel extends StatefulWidget {
   final Function(QuranVerseRef, int) onVerseSelected;
   final FocusNode searchFocusNode;
   final FocusNode quranExcludeFocusNode;
+  final FocusNode hadeethSearchFocusNode;
+  final FocusNode hadeethExcludeFocusNode;
   final ItemScrollController itemScrollController;
   final String searchQuery;
   final String excludeQuery;
@@ -33,6 +36,8 @@ class QuranPanel extends StatefulWidget {
     required this.onVerseSelected,
     required this.searchFocusNode,
     required this.quranExcludeFocusNode,
+    required this.hadeethSearchFocusNode,
+    required this.hadeethExcludeFocusNode,
     required this.itemScrollController,
     required this.searchQuery,
     required this.excludeQuery,
@@ -53,6 +58,7 @@ class _QuranPanelState extends State<QuranPanel> {
   final TextEditingController _refInputController = TextEditingController();
   final FocusNode _refInputFocusNode = FocusNode();
 
+  static bool _hadeethExpanded = false;
   static bool _tafsirExpanded = false;
   static bool _tafsirMokhtasar = true;
   static bool _tafsirMokhtasarAr = false;
@@ -135,6 +141,70 @@ class _QuranPanelState extends State<QuranPanel> {
     final surahs = getSurahsForLanguage(widget.selectedLanguage);
     final match = surahs.where((s) => s.number == surahNumber).firstOrNull;
     return match?.name ?? '';
+  }
+
+  Widget _buildHadeethSectionWrapper(BuildContext context) {
+    return Container(
+      margin: const EdgeInsets.fromLTRB(16, 4, 16, 0),
+      decoration: BoxDecoration(
+        color: Colors.black26,
+        borderRadius: BorderRadius.circular(8),
+        border: Border.all(color: Colors.white12),
+      ),
+      child: Column(
+        children: [
+          InkWell(
+            onTap: () {
+              if (_hadeethExpanded) {
+                widget.hadeethSearchFocusNode.unfocus();
+                widget.hadeethExcludeFocusNode.unfocus();
+              }
+              setState(() => _hadeethExpanded = !_hadeethExpanded);
+            },
+            borderRadius: BorderRadius.circular(8),
+            child: Padding(
+              padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+              child: Row(
+                children: [
+                  Icon(
+                    _hadeethExpanded ? Icons.expand_less : Icons.expand_more,
+                    color: Colors.amber.withAlpha(180),
+                    size: 16,
+                  ),
+                  const SizedBox(width: 8),
+                  const Text(
+                    'Hadith',
+                    style: TextStyle(
+                      color: Colors.amber,
+                      fontSize: 13,
+                      fontWeight: FontWeight.w600,
+                    ),
+                  ),
+                  const SizedBox(width: 8),
+                  const Text(
+                    'hadeethenc.com',
+                    style: TextStyle(color: Colors.white24, fontSize: 11),
+                  ),
+                ],
+              ),
+            ),
+          ),
+          if (_hadeethExpanded) ...[
+            const Divider(color: Colors.white12, height: 1),
+            ConstrainedBox(
+              constraints: const BoxConstraints(maxHeight: 520),
+              child: SingleChildScrollView(
+                child: HadeethPanel(
+                  initialLanguage: 'English',
+                  searchFocusNode: widget.hadeethSearchFocusNode,
+                  excludeFocusNode: widget.hadeethExcludeFocusNode,
+                ),
+              ),
+            ),
+          ],
+        ],
+      ),
+    );
   }
 
 
@@ -393,6 +463,8 @@ class _QuranPanelState extends State<QuranPanel> {
       child: Column(
         children: [
 
+        _buildHadeethSectionWrapper(context),
+
         _buildTafsirSection(context),
 
           Padding(
@@ -472,7 +544,10 @@ class _QuranPanelState extends State<QuranPanel> {
                         .map((lang) => DropdownMenuItem(value: lang, child: Text(lang)))
                         .toList(),
                     onChanged: (lang) {
-                      if (lang != null) widget.onLanguageChanged(lang);
+                      if (lang != null) {
+                        widget.onLanguageChanged(lang);
+                        widget.onSearchChanged(widget.searchQuery);
+                      }
                     },
                   ),
                 ],
@@ -903,7 +978,13 @@ class _QuranPanelState extends State<QuranPanel> {
                         .map((lang) => DropdownMenuItem(value: lang, child: Text(lang)))
                         .toList(),
                     onChanged: (lang) {
-                      if (lang != null) setState(() => _mokhtasarLanguage = lang);
+                      if (lang != null) {
+                        setState(() => _mokhtasarLanguage = lang);
+                        // re-run lookup with current ref if there is one
+                        if (_tafsirRefController.text.isNotEmpty) {
+                          _lookupTafsir(context);
+                        }
+                      }
                     },
                   ),
                 const SizedBox(width: 12),
