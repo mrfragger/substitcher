@@ -155,6 +155,7 @@ const Set<String> rtlHadeethLanguages = {
   'Kurdish',
   'Pashto',
   'Persian',
+  'PersianAfgan',
   'Urdu',
   'Uyghur',
 };
