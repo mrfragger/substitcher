@@ -403,7 +403,7 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 - all are from quranenc.com except English is from https://github.com/tafsircenter/tafsir-mcp Tafsir Center for Quranic Studies
 
 ### Hadith hadethenc.com
-- takes up 180MB but worth it for all the following languages:
+- takes up 203 MB but worth it for all the following languages:
 - Albanian, Amharic, Arabic, Assamese, Bangla, Bosnian, Burmese, Chinese, Dutch, English, Filipino, French, Georgian, German, Gujarati, Hausa, Hindi, Hungarian, Indonesian, Italian, Japanese, Kannada, Khmer, Kurdish, Macedonian, Malagasy, Malayalam, Marathi, Mossi, Pashto, Persian, PersianAfghan, Portuguese, Punjabi, Romanian, Russian, Serbian, Sinhala, Spanish, Swahili, Swedish, Tamil, Telugu, Thai, Turkish, Ukrainian, Urdu, Uyghur, Vietnamese
 
 ### vttshow Slide Presentation
@@ -534,8 +534,8 @@ download and in transcribe screen point it to use this whisper-cli.exe instead o
 <summary>Miscellaneous</summary>
 
 - Substicher is a flutter app so small in size.  It appears big but isn't all that huge.
-- 29 MB fonts, 65 MB LUTs, 36 MB DeepFilterNet3 (denoise), 17 MB adhan, 108 MB quran index & tafsir, 180 MB hadeeth 
-- So Mac app size is 546 MB - 435 MB (assets) = 111 MB real size of flutter app
+- 29 MB fonts, 65 MB LUTs, 36 MB DeepFilterNet3 (denoise), 17 MB adhan, 108 MB quran index & tafsir, 203 MB hadeeth 
+- So Mac app size is 546 MB - 458 MB (assets) = 88 MB real size of flutter app
 - Never will get a light theme nor support music
 - Never will support cover images, choose audiobooks with covers and not to use subtitles, use kid3 app (qt free cross-platform app) for embedding a cover image
 - Reason is most audiobook players don't support subtitles, and ones that do, do so due to video support and having a cover image in background intefers with subtitles in most cases
