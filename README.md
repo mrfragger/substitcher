@@ -404,7 +404,7 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 
 ### Hadith hadethenc.com
 - takes up 180MB but worth it for all the following languages:
-- Amharic, Arabic, Assamese, Bangla, Bosnian, Chinese, Dutch, English, Filipino, French, Georgian, Gujarati, Hausa, Hindi, Hungarian, index, Indonesian, Japanese, Kannada, Khmer, Kurdish, Macedonian, Malayalam, Marathi, panel, Pashto, Persian, PersianAfghan, Portuguese, Punjabi, Romanian, Russian, Sinhala, Spanish, Swahili, Telugu, Thai, Turkish, Urdu, Uyghur, Vietnamese
+- Albanian, Amharic, Arabic, Assamese, Bangla, Bosnian, Burmese, Chinese, Dutch, English, Filipino, French, Georgian, German, Gujarati, Hausa, Hindi, Hungarian, Indonesian, Italian, Japanese, Kannada, Khmer, Kurdish, Macedonian, Malagasy, Malayalam, Marathi, Mossi, Pashto, Persian, PersianAfghan, Portuguese, Punjabi, Romanian, Russian, Serbian, Sinhala, Spanish, Swahili, Swedish, Tamil, Telugu, Thai, Turkish, Ukrainian, Urdu, Uyghur, Vietnamese
 
 ### vttshow Slide Presentation
 - open v Subtitle Manager to create New vttshow or Last vttshow or Browse vtt
