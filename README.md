@@ -392,17 +392,17 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 - (70:24-5) converts to 70:24-25 as well as 38:36-4 converts to 38:36-40
 - Juz, Hizb (1/2 a Juz), Rub (1/4 a Hizb) added to English Quran index only
 - Surah List usually has the verses in its respective language otherwise the English transliteration
-- these are the vtt subs languages from quranenc.com:
+- these are the vtt subs languages from https://quranenc.com :
 - A_English_Saheeh, Afar,  Albanian, Amharic, Arabic, Asante, Assamese, Azerbaijani, Belarusian, Bengali, Bosnian, Bulgarian, Cebuano, Chichewa, Chinese, Croatian, Dari Persian, Dagbani, Dutch, English (Hilali Khan), Fula, French, German, Greek, Gujarati, Hausa, Hebrew, Hindi, Indonesian, Iranun, Italian, Japanese, Kannada, Kazakh, Khmer, Kinyarwanda, Kirundi, Korean, Kurdish, Kurmanji, Kyrgyz, Lingala, Lithuanian, Luganda, Luhya, Macedonian, Maguindanaon, Malayalam, Malagasy, Malay, Marathi, Moore, Nepali, Nko, Oromo, Pashto, Persian, Portuguese, Punjabi, Romanian, Russian, Serbian, Sinhalese, Somali, Spanish, Spanish Latin, Swahili, Swedish, Tagalog, Tajik, Tamil, Telugu, Thai, Turkish, Ukranian, Urdu, Uyghur, Uzbek, Vietnamese, Yao, Yoruba
 
 ![](images/quranindex.jpg)
 
 ### Tafsir (Quran Commentary)
-- Mokhtasar (Mukhtasar) tafsir is available in the following languages:
+- Mokhtasar (Mukhtasar) tafsir is an simplified commentary that was done around 2015 following the methodology of Ahl-us-Sunnah wal-Jamaa`ah and is available in the following languages:
 - Arabic, Assamese, Azerbaijani, Bengali, Bosnian, Chinese, English, French, Fulani, Hindi, Indonesian, Italian, Japanese, Khmer, Kurdish, Kyrgyz, Malayalam, Russian, Pashto, Persian, Serbian, Sinhalese, Spanish, Tagalog, Tamil, Telugu, Thai, Turkish, Urdu, Uyghur, Uzbek, Vietnamese
-- all are from quranenc.com except English, Russian and Urdu is https://mokhtasr.com/en
+- all are from https://quranenc.com except English, Russian and Urdu is https://mokhtasr.com/en
 
-### Hadith hadethenc.com
+### Hadith https://hadeethenc.com
 - takes up 203 MB but worth it for all the following languages:
 - Albanian, Amharic, Arabic, Assamese, Bangla, Bosnian, Burmese, Chinese, Dutch, English, Filipino, French, Georgian, German, Gujarati, Hausa, Hindi, Hungarian, Indonesian, Italian, Japanese, Kannada, Khmer, Kurdish, Macedonian, Malagasy, Malayalam, Marathi, Mossi, Pashto, Persian, PersianAfghan, Portuguese, Punjabi, Romanian, Russian, Serbian, Sinhala, Spanish, Swahili, Swedish, Tamil, Telugu, Thai, Turkish, Ukrainian, Urdu, Uyghur, Vietnamese
 
@@ -417,6 +417,7 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 ### releases (notes to self)
 - update version numbers in pubspec.yaml scripts/build_appimage.sh scripts/PKGBUILD
 - flutter run -d macos --release
+- --no-pub for offline build
 - git tag v26.xx.xx
 - git push origin v26.xx.xx
 
