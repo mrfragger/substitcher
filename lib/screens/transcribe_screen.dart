@@ -515,6 +515,14 @@ List<String> _availableAudiobooks = [];
 
       vttFiles.sort();
 
+      if (vttFiles.isEmpty) {
+        print('=== MD CONVERSION: No VTT files found - check directory path ===');
+        setState(() {
+          _transcriptionStatus = 'No VTT files found for markdown conversion';
+        });
+        return;
+      }
+
       for (int i = 0; i < vttFiles.length; i++) {
         final vttPath = vttFiles[i];
         final vttFilename = path.basenameWithoutExtension(vttPath);
@@ -524,7 +532,10 @@ List<String> _availableAudiobooks = [];
         await File(vttPath).writeAsString(vttContent + '\n');
         final paragraphs = _createParagraphsFromVtt(vttContent);
 
-        if (paragraphs.isEmpty) continue;
+        if (paragraphs.isEmpty) {
+          print('=== MD CONVERSION: Skipping $vttFilename - no paragraphs parsed ===');
+          continue;
+        }
 
         final mdContent = StringBuffer();
         mdContent.writeln('# $vttFilename\n');
@@ -549,10 +560,27 @@ List<String> _availableAudiobooks = [];
         final mdFilename = '$cleanFilename.md';
         final mdPath = path.join(chaptersDirectory, mdFilename);
 
+        print('=== MD CONVERSION: Writing to $mdPath ===');
+
         await File(mdPath).writeAsString(mdContent.toString());
+
+        print('=== MD CONVERSION: Successfully wrote $mdFilename ===');
       }
-    } catch (e) {
-      print('Error converting VTT to markdown: $e');
+
+      print('=== MD CONVERSION: All done ===');
+
+      setState(() {
+        _transcriptionStatus = 'Markdown conversion complete!';
+      });
+
+    } catch (e, stackTrace) {
+      print('=== MD CONVERSION ERROR: $e ===');
+      print('=== STACK TRACE: $stackTrace ===');
+      if (mounted) {
+        setState(() {
+          _transcriptionStatus = 'MD conversion error: $e';
+        });
+      }
     }
   }
 
