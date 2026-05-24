@@ -399,8 +399,8 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 
 ### Tafsir (Quran Commentary)
 - Mokhtasar (Mukhtasar) tafsir is available in the following languages:
-- Arabic, Assamese, Azerbaijani, Bengali, Bosnian, Chinese, English, French, Fulani, Hindi, Indonesian, Italian, Japanese, Khmer, Kurdish, Kyrgyz, Malayalam, Pashto, Persian, Serbian, Sinhalese, Spanish, Tagalog, Tamil, Telugu, Thai, Turkish, Uyghur, Uzbek, Vietnamese
-- all are from quranenc.com except English is from https://github.com/tafsircenter/tafsir-mcp Tafsir Center for Quranic Studies
+- Arabic, Assamese, Azerbaijani, Bengali, Bosnian, Chinese, English, French, Fulani, Hindi, Indonesian, Italian, Japanese, Khmer, Kurdish, Kyrgyz, Malayalam, Russian, Pashto, Persian, Serbian, Sinhalese, Spanish, Tagalog, Tamil, Telugu, Thai, Turkish, Urdu, Uyghur, Uzbek, Vietnamese
+- all are from quranenc.com except English, Russian and Urdu is https://mokhtasr.com/en
 
 ### Hadith hadethenc.com
 - takes up 203 MB but worth it for all the following languages:
@@ -534,8 +534,8 @@ download and in transcribe screen point it to use this whisper-cli.exe instead o
 <summary>Miscellaneous</summary>
 
 - Substicher is a flutter app so small in size.  It appears big but isn't all that huge.
-- 29 MB fonts, 65 MB LUTs, 36 MB DeepFilterNet3 (denoise), 17 MB adhan, 108 MB quran index & tafsir, 203 MB hadeeth 
-- So Mac app size is 546 MB - 458 MB (assets) = 88 MB real size of flutter app
+- 29 MB fonts, 65 MB LUTs, 36 MB DeepFilterNet3 (denoise), 17 MB adhan, 115 MB quran index & tafsir, 203 MB hadeeth 
+- So Mac app size is 578 MB - 465 MB (assets) = 113 MB real size of flutter app
 - Never will get a light theme nor support music
 - Never will support cover images, choose audiobooks with covers and not to use subtitles, use kid3 app (qt free cross-platform app) for embedding a cover image
 - Reason is most audiobook players don't support subtitles, and ones that do, do so due to video support and having a cover image in background intefers with subtitles in most cases

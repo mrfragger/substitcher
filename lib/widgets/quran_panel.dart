@@ -1038,53 +1038,56 @@ class _QuranPanelState extends State<QuranPanel> {
     final surah = r['surah'] as int;
     final ayah = r['ayah'] as int;
     final text = r['text'] as String;
+    final isRtl = source == 'Mokhtasar Ar' || isMokhtasarRtl(_mokhtasarLanguage);
 
     final sourceColor = source == 'Mokhtasar' ? Colors.lightBlueAccent : Colors.greenAccent;
     final ayahLabel = ayah == 0 ? '$surah:intro' : '$surah:$ayah';
 
-    return Container(
-      padding: const EdgeInsets.all(10),
-      decoration: BoxDecoration(
-        color: Colors.white.withAlpha(6),
-        borderRadius: BorderRadius.circular(6),
-      ),
-      child: Column(
-        crossAxisAlignment: CrossAxisAlignment.start,
-        children: [
-          Row(
-            children: [
-              Container(
-                padding: const EdgeInsets.symmetric(horizontal: 7, vertical: 2),
-                decoration: BoxDecoration(
-                  color: sourceColor.withAlpha(30),
-                  borderRadius: BorderRadius.circular(4),
-                  border: Border.all(color: sourceColor.withAlpha(100)),
+    return Directionality(
+      textDirection: isRtl ? TextDirection.rtl : TextDirection.ltr,
+      child: Container(
+        padding: const EdgeInsets.all(10),
+        decoration: BoxDecoration(
+          color: Colors.white.withAlpha(6),
+          borderRadius: BorderRadius.circular(6),
+        ),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Row(
+              children: [
+                Container(
+                  padding: const EdgeInsets.symmetric(horizontal: 7, vertical: 2),
+                  decoration: BoxDecoration(
+                    color: sourceColor.withAlpha(30),
+                    borderRadius: BorderRadius.circular(4),
+                    border: Border.all(color: sourceColor.withAlpha(100)),
+                  ),
+                  child: Text(source,
+                      style: TextStyle(color: sourceColor, fontSize: 11, fontWeight: FontWeight.w600)),
                 ),
-                child: Text(source,
-                    style: TextStyle(color: sourceColor, fontSize: 11, fontWeight: FontWeight.w600)),
-              ),
-              const SizedBox(width: 8),
-              Text(ayahLabel,
-                  style: const TextStyle(color: Colors.white54, fontSize: 12)),
-              const Spacer(),
-              IconButton(
-                icon: const Icon(Icons.copy, color: Colors.white24, size: 14),
-                padding: EdgeInsets.zero,
-                constraints: const BoxConstraints(),
-                tooltip: 'Copy text',
-                onPressed: () => Clipboard.setData(ClipboardData(text: text)),
-              ),
-            ],
-          ),
-          const SizedBox(height: 6),
-          SelectableText(
-            text,
-            textDirection: (source == 'Mokhtasar Ar' || isRtlQuranLanguage(_mokhtasarLanguage))
-                ? TextDirection.rtl
-                : TextDirection.ltr,
-            style: const TextStyle(color: Colors.white, fontSize: 14, height: 1.55),
-          ),
-        ],
+                const SizedBox(width: 8),
+                Text(ayahLabel,
+                    style: const TextStyle(color: Colors.white54, fontSize: 12)),
+                const Spacer(),
+                IconButton(
+                  icon: const Icon(Icons.copy, color: Colors.white24, size: 14),
+                  padding: EdgeInsets.zero,
+                  constraints: const BoxConstraints(),
+                  tooltip: 'Copy text',
+                  onPressed: () => Clipboard.setData(ClipboardData(text: text)),
+                ),
+              ],
+            ),
+            const SizedBox(height: 6),
+            SelectableText(
+              text,
+              textDirection: isRtl ? TextDirection.rtl : TextDirection.ltr,
+              textAlign: isRtl ? TextAlign.right : TextAlign.left,
+              style: const TextStyle(color: Colors.white, fontSize: 14, height: 1.55),
+            ),
+          ],
+        ),
       ),
     );
   }

@@ -1,4 +1,5 @@
 import 'tafsir_mokhtasar.dart';
+import 'tafsir_mokhtasar_arabic.dart';
 import 'tafsir_mokhtasar_assamese.dart';
 import 'tafsir_mokhtasar_azerbaijani.dart';
 import 'tafsir_mokhtasar_bengali.dart';
@@ -16,6 +17,7 @@ import 'tafsir_mokhtasar_kyrgyz.dart';
 import 'tafsir_mokhtasar_malayalam.dart';
 import 'tafsir_mokhtasar_pashto.dart';
 import 'tafsir_mokhtasar_persian.dart';
+import 'tafsir_mokhtasar_russian.dart';
 import 'tafsir_mokhtasar_serbian.dart';
 import 'tafsir_mokhtasar_sinhalese.dart';
 import 'tafsir_mokhtasar_spanish.dart';
@@ -24,12 +26,14 @@ import 'tafsir_mokhtasar_tamil.dart';
 import 'tafsir_mokhtasar_telugu.dart';
 import 'tafsir_mokhtasar_thai.dart';
 import 'tafsir_mokhtasar_turkish.dart';
+import 'tafsir_mokhtasar_urdu.dart';
 import 'tafsir_mokhtasar_uyghur.dart';
 import 'tafsir_mokhtasar_uzbek.dart';
 import 'tafsir_mokhtasar_vietnamese.dart';
 
 const List<String> mokhtasarLanguages = [
   'English',
+  'Arabic',
   'Assamese',
   'Azerbaijani',
   'Bengali',
@@ -47,6 +51,7 @@ const List<String> mokhtasarLanguages = [
   'Malayalam',
   'Pashto',
   'Persian',
+  'Russian',
   'Serbian',
   'Sinhalese',
   'Spanish',
@@ -55,6 +60,7 @@ const List<String> mokhtasarLanguages = [
   'Telugu',
   'Thai',
   'Turkish',
+  'Urdu',
   'Uyghur',
   'Uzbek',
   'Vietnamese',
@@ -62,6 +68,7 @@ const List<String> mokhtasarLanguages = [
 
 String? getTafsirMokhtasarForLanguage(String language, int surah, int ayah) {
   switch (language) {
+    case 'Arabic':  return getTafsirMokhtasarArabic(surah, ayah);
     case 'Assamese':  return getTafsirMokhtasarAssamese(surah, ayah);
     case 'Azerbaijani':return getTafsirMokhtasarAzerbaijani(surah, ayah);
     case 'Bengali':    return getTafsirMokhtasarBengali(surah, ayah);
@@ -79,6 +86,7 @@ String? getTafsirMokhtasarForLanguage(String language, int surah, int ayah) {
     case 'Malayalam': return getTafsirMokhtasarMalayalam(surah, ayah);
     case 'Pashto':    return getTafsirMokhtasarPashto(surah, ayah);
     case 'Persian':    return getTafsirMokhtasarPersian(surah, ayah);
+    case 'Russian':    return getTafsirMokhtasarRussian(surah, ayah);
     case 'Serbian':    return getTafsirMokhtasarSerbian(surah, ayah);
     case 'Sinhalese': return getTafsirMokhtasarSinhalese(surah, ayah);
     case 'Spanish':    return getTafsirMokhtasarSpanish(surah, ayah);
@@ -87,9 +95,22 @@ String? getTafsirMokhtasarForLanguage(String language, int surah, int ayah) {
     case 'Telugu':    return getTafsirMokhtasarTelugu(surah, ayah);
     case 'Thai':       return getTafsirMokhtasarThai(surah, ayah);
     case 'Turkish':    return getTafsirMokhtasarTurkish(surah, ayah);
+    case 'Urdu':    return getTafsirMokhtasarUrdu(surah, ayah);
     case 'Uyghur':     return getTafsirMokhtasarUyghur(surah, ayah);
     case 'Uzbek':      return getTafsirMokhtasarUzbek(surah, ayah);
     case 'Vietnamese': return getTafsirMokhtasarVietnamese(surah, ayah);
     default:           return getTafsirMokhtasar(surah, ayah); // English
   }
 }
+
+  const Set<String> rtlMokhtasarLanguages = {
+    'Arabic',
+    'Kurdish',
+    'Pashto',
+    'Persian',
+    'Urdu',
+    'Uyghur',
+  };
+
+  bool isMokhtasarRtl(String language) =>
+      rtlMokhtasarLanguages.contains(language);
