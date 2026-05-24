@@ -402,8 +402,8 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 - Arabic, Assamese, Azerbaijani, Bengali, Bosnian, Chinese, English, French, Fulani, Hindi, Indonesian, Italian, Japanese, Khmer, Kurdish, Kyrgyz, Malayalam, Russian, Pashto, Persian, Serbian, Sinhalese, Spanish, Tagalog, Tamil, Telugu, Thai, Turkish, Urdu, Uyghur, Uzbek, Vietnamese
 - all are from https://quranenc.com except English, Russian and Urdu is https://mokhtasr.com/en
 
-### Hadith https://hadeethenc.com
-- takes up 203 MB but worth it for all the following languages:
+### Hadith 
+- from https://hadeethenc.com and takes up 203 MB but worth it for all the following languages:
 - Albanian, Amharic, Arabic, Assamese, Bangla, Bosnian, Burmese, Chinese, Dutch, English, Filipino, French, Georgian, German, Gujarati, Hausa, Hindi, Hungarian, Indonesian, Italian, Japanese, Kannada, Khmer, Kurdish, Macedonian, Malagasy, Malayalam, Marathi, Mossi, Pashto, Persian, PersianAfghan, Portuguese, Punjabi, Romanian, Russian, Serbian, Sinhala, Spanish, Swahili, Swedish, Tamil, Telugu, Thai, Turkish, Ukrainian, Urdu, Uyghur, Vietnamese
 
 ### vttshow Slide Presentation
