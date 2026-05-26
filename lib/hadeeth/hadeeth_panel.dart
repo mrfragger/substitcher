@@ -552,7 +552,7 @@ class _HadeethPanelState extends State<HadeethPanel> {
           children: [
             _detailSection(
               icon: Icons.format_quote,
-              iconColor: Colors.amber,
+              iconColor: Colors.orangeAccent,
               label: 'Hadith',
               text: entry.hadeeth,
               isRtl: isRtl,
@@ -567,6 +567,7 @@ class _HadeethPanelState extends State<HadeethPanel> {
                 label: 'Explanation',
                 text: entry.explanation,
                 isRtl: isRtl,
+                textColor: Colors.amber,
               ),
             ],
             if (entry.hints.isNotEmpty) ...[
@@ -577,12 +578,12 @@ class _HadeethPanelState extends State<HadeethPanel> {
                 textDirection: textDir,
                 children: [
                   const Icon(Icons.tips_and_updates_outlined,
-                      color: Colors.orangeAccent, size: 14),
+                      color: Colors.deepPurpleAccent, size: 14),
                   const SizedBox(width: 6),
                   const Text(
                     'Benefits',
                     style: TextStyle(
-                      color: Colors.orangeAccent,
+                      color: Colors.deepPurpleAccent,
                       fontSize: 12,
                       fontWeight: FontWeight.w600,
                     ),
@@ -599,14 +600,14 @@ class _HadeethPanelState extends State<HadeethPanel> {
                         Text(
                           isRtl ? '• ' : '• ',
                           style: const TextStyle(
-                              color: Colors.orangeAccent, fontSize: 13),
+                              color: Colors.deepPurpleAccent, fontSize: 13),
                         ),
                         Expanded(
                           child: SelectableText(
                             h,
                             textDirection: textDir,
                             style: const TextStyle(
-                              color: Colors.white70,
+                              color: Colors.greenAccent,
                               fontSize: 13,
                               height: 1.5,
                             ),
@@ -650,6 +651,7 @@ class _HadeethPanelState extends State<HadeethPanel> {
     required String label,
     required String text,
     bool isRtl = false,
+    Color textColor = Colors.white,
   }) {
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
@@ -670,8 +672,8 @@ class _HadeethPanelState extends State<HadeethPanel> {
         SelectableText(
           text,
           textDirection: isRtl ? TextDirection.rtl : TextDirection.ltr,
-          style: const TextStyle(
-              color: Colors.white, fontSize: 13, height: 1.6),
+          style: TextStyle(
+              color: textColor, fontSize: 13, height: 1.6),
         ),
       ],
     );

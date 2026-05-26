@@ -7114,13 +7114,17 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                    HardwareKeyboard.instance.isShiftPressed && event is KeyDownEvent) {
             _copyChaptersList();
             return KeyEventResult.handled;
-          } else if (event.logicalKey == LogicalKeyboardKey.keyC && event is KeyDownEvent) {
-            setState(() {
-              _showPanel = true;
-              _panelMode = PanelMode.chapters;
-            });
-            _scrollToCurrentChapter();
-            return KeyEventResult.handled;
+         } else if (event.logicalKey == LogicalKeyboardKey.keyC && event is KeyDownEvent) {
+           if (HardwareKeyboard.instance.isMetaPressed ||
+             HardwareKeyboard.instance.isControlPressed) {
+               return KeyEventResult.ignored;
+             }
+             setState(() {
+               _showPanel = true;
+               _panelMode = PanelMode.chapters;
+             });
+             _scrollToCurrentChapter();
+             return KeyEventResult.handled;
          } else if (event.logicalKey == LogicalKeyboardKey.keyU &&
                           HardwareKeyboard.instance.isControlPressed && event is KeyDownEvent) {
               _copyCurrentSubtitleInMemory();
@@ -7929,7 +7933,8 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                   _panelMode == PanelMode.history ||
                   _panelMode == PanelMode.playlist ||
                   _panelMode == PanelMode.bookmarks ||
-                  _panelMode == PanelMode.stats))
+                  _panelMode == PanelMode.stats ||
+                  _panelMode == PanelMode.quran))
                 SidePanel(
                   panelMode: _panelMode,
                   isCollapsed: _panelCollapsed,
@@ -11494,7 +11499,7 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
     return result;
   }
 
-  Widget _buildNoAudiobook() {
+    Widget _buildNoAudiobook() {
     return GestureDetector(
       behavior: HitTestBehavior.opaque,
       onTap: () {
@@ -11631,6 +11636,21 @@ class _PlayerScreenState extends State<PlayerScreen> with WidgetsBindingObserver
                       },
                       icon: const Icon(Icons.folder_open),
                       label: const Text('Load Audiobook (l)'),
+                      style: ElevatedButton.styleFrom(
+                        padding: const EdgeInsets.symmetric(horizontal: 32, vertical: 16),
+                        textStyle: const TextStyle(fontSize: 18),
+                      ),
+                    ),
+                    const SizedBox(width: 16),
+                    ElevatedButton.icon(
+                      onPressed: () {
+                        setState(() {
+                          _showPanel = true;
+                          _panelMode = PanelMode.quran;
+                        });
+                      },
+                      icon: const Icon(Icons.menu_book),
+                      label: const Text('Quran (q)'),
                       style: ElevatedButton.styleFrom(
                         padding: const EdgeInsets.symmetric(horizontal: 32, vertical: 16),
                         textStyle: const TextStyle(fontSize: 18),

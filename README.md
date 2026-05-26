@@ -401,6 +401,10 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 - Mokhtasar (Mukhtasar) tafsir is an simplified commentary that was done around 2015 following the methodology of Ahl-us-Sunnah wal-Jamaa`ah and is available in the following languages:
 - Arabic, Assamese, Azerbaijani, Bengali, Bosnian, Chinese, English, French, Fulani, Hindi, Indonesian, Italian, Japanese, Khmer, Kurdish, Kyrgyz, Malayalam, Russian, Pashto, Persian, Serbian, Sinhalese, Spanish, Tagalog, Tamil, Telugu, Thai, Turkish, Urdu, Uyghur, Uzbek, Vietnamese
 - all are from https://quranenc.com except English, Russian and Urdu is https://mokhtasr.com/en
+- English Quran translations Hilali-Khan, Rowwad and Abdullah Hasan Yaqoub all from quranenc.com
+- clicking on a verse reference places it into the search input field
+
+![](images/tafsir.jpg)
 
 ### Hadith 
 - from https://hadeethenc.com and takes up 203 MB but worth it for all the following languages:
@@ -535,8 +539,8 @@ download and in transcribe screen point it to use this whisper-cli.exe instead o
 <summary>Miscellaneous</summary>
 
 - Substicher is a flutter app so small in size.  It appears big but isn't all that huge.
-- 29 MB fonts, 65 MB LUTs, 36 MB DeepFilterNet3 (denoise), 17 MB adhan, 115 MB quran index & tafsir, 203 MB hadeeth 
-- So Mac app size is 578 MB - 465 MB (assets) = 113 MB real size of flutter app
+- 29 MB fonts, 65 MB LUTs, 36 MB DeepFilterNet3 (denoise), 17 MB adhan, 120 MB quran index & tafsir, 203 MB hadeeth 
+- So Mac app size is 583 MB - 470 MB (assets) = 113 MB real size of flutter app
 - Never will get a light theme nor support music
 - Never will support cover images, choose audiobooks with covers and not to use subtitles, use kid3 app (qt free cross-platform app) for embedding a cover image
 - Reason is most audiobook players don't support subtitles, and ones that do, do so due to video support and having a cover image in background intefers with subtitles in most cases

@@ -5,8 +5,10 @@ import 'package:url_launcher/url_launcher.dart';
 import 'package:scrollable_positioned_list/scrollable_positioned_list.dart';
 import '../data/quran_index.dart';
 import '../data/surah_names.dart';
-import '../data/tafsir_mokhtasar_arabic.dart';
 import '../data/tafsir_mokhtasar_all.dart';
+import '../data/tafsir_hilali_khan.dart';
+import '../data/tafsir_rowwad_english.dart';
+import '../data/tafsir_yacob_english.dart';
 import '../hadeeth/hadeeth_panel.dart';
 
 class QuranPanel extends StatefulWidget {
@@ -61,10 +63,128 @@ class _QuranPanelState extends State<QuranPanel> {
   static bool _hadeethExpanded = false;
   static bool _tafsirExpanded = false;
   static bool _tafsirMokhtasar = true;
-  static bool _tafsirMokhtasarAr = false;
+  static bool _tafsirHilaliKhan = false;
+  static bool _tafsirRowwadEnglish = false;
+  static bool _tafsirYacobEnglish = false;
   static String _mokhtasarLanguage = 'English';
   static List<Map<String, dynamic>> _tafsirResults = [];
-  static final TextEditingController _tafsirRefController = TextEditingController();
+  static const Map<String, List<String>> _allahByLanguage = {
+    'Arabic': [
+      'بالله', 'تالله', 'والله', 'فالله', 'لله', 'الله',
+      'لربكم', 'لربهم', 'لربنا', 'لربه', 'لربك', 'لربي',
+      'بربكم', 'بربهم', 'بربنا', 'بربه', 'بربك', 'بربي',
+      'ربكم', 'ربهم', 'ربنا', 'ربه', 'ربها', 'ربك', 'ربي',
+    ],
+    'Urdu': [
+      'اللہ', 'اللّٰہ',
+      'پروردگار',
+      'خدا',
+      'ربّ', 'رب',
+    ],
+    'Kurdish': [
+      // Allah
+      'خوای', 'الله',
+      // Lord/God (Sorani Kurdish)
+      'پەروەردگاری', 'پەروەردگار',
+      'خودای', 'خودا',
+      // Compound with possessive
+      'خوداوەند', 'خوداوەندی',
+    ],
+
+    'Pashto': [
+      // Allah (Pashto often uses الله directly)
+      'بالله', 'والله', 'لله', 'الله',
+      // Lord/God
+      'خدایه', 'خدای', 'پالونکی',
+      // Rabb forms (Arabic loanword usage)
+      'ربه', 'ربك', 'رب',
+    ],
+
+    'Persian': [
+      // Allah
+      'بالله', 'والله', 'لله', 'الله',
+      // God (most common Persian terms)
+      'خداوندا', 'خداوندی', 'خداوند',
+      'خدایا', 'خدای', 'خدا',
+      // Lord/Sustainer
+      'پروردگارا', 'پروردگاری', 'پروردگار',
+    ],
+
+    'Uyghur': [
+      // Allah - Uyghur spelling (this is the main form!)
+      'ئاللاھقا', 'ئاللاھنىڭ', 'ئاللاھتىن', 'ئاللاھتا', 'ئاللاھقا', 'ئاللاھنى', 'ئاللاھ',
+      // Lord/Sustainer with suffixes
+      'پەرۋەردىگارىڭلار', 'پەرۋەردىگارىڭنىڭ', 'پەرۋەردىگارىنىڭ',
+      'پەرۋەردىگارىڭ', 'پەرۋەردىگارىم', 'پەرۋەردىگارى', 'پەرۋەردىگار',
+      // Rabb forms
+      'رەببىڭنىڭ', 'رەببىنىڭ', 'رەببىڭ', 'رەببىم', 'رەببى', 'رەبب',
+      // Fallback Arabic forms (in case any verse uses them)
+      'الله', 'اﷲ',
+    ],
+    'English': [
+      'Allah\u2019s', 'Allāh\u2019s', 'Allâh\u2019s',
+      'Allah\'s', 'Allāh\'s', 'Allâh\'s',
+      'Allah', 'Allāh', 'Allâh',
+      'Lord',
+    ],
+    'Assamese':    ['আল্লাহৰ', 'আল্লাহে', 'আল্লাহক', 'আল্লাহ্', 'আল্লাহ', 'প্ৰতিপালকৰ', 'প্ৰতিপালক', 'ৰব'],
+    'Azerbaijani': ['Allahından', 'Allahınıza', 'Allahınız', 'Allahıma', 'Allahından', 'Allahdan', 'Allahına', 'Allahını', 'Allahадır', 'Allahadır', 'Allahım', 'Allahın', 'Allaha', 'Allah'],
+    'Bengali':     ['আল্লাহর', 'আল্লাহ্', 'আল্লাহ', 'রব', 'প্রতিপালক'],
+    'Bosnian':     ['Allahovoj', 'Allahova', 'Allahovog', 'Allahovom', 'Allahovih', 'Allahove', 'Allahovu', 'Allahovi', 'Allahov', 'Allahu', 'Allaha', 'Allah'],
+    'Chinese':     ['安拉', '真主'],
+    'French': ['qu\u2019Allah', 'qu\'Allah', 'd\u2019Allah', 'd\'Allah', 'Allah', 'Seigneur'],
+    'Fulani':      ['Alla', 'Joomi'],
+    'Hindi':       ['अल्लाह', 'रब्ब', 'परवरदिगार'],
+    'Indonesian':  ['Allahlah', 'Allah', 'Rabb', 'Tuhan'],
+    'Italian':     ['Allāh', 'Allah', 'Dio'],
+    'Japanese':    ['アッラー', '主よ', '主に'],
+    'Khmer':       ['អល់ឡោះ', 'ម្ចាស់'],
+    'Kyrgyz':      ['Аллахтын', 'Аллахты', 'Аллахтан', 'Аллахка', 'Алланын', 'Аллага', 'Алладан', 'Аллах', 'Алла'],
+    'Malayalam':   ['അല്ലാഹുവിൻ്റെ', 'അല്ലാഹുവിന്റെ', 'അല്ലാഹുവിനെ', 'അല്ലാഹുവെ', 'അല്ലാഹുവിന്', 'അല്ലാഹു', 'റബ്ബ്'],
+    'Russian': ['Аллахом', 'Аллахе', 'Аллаху', 'Аллаха', 'Аллах', 'Господом', 'Господу', 'Господа', 'Господь'],
+    'Serbian': ['Аллаховим', 'Аллахови', 'Аллахов', 'Аллаховом', 'Аллахових', 'Аллахову', 'Аллахово', 'Аллахове', 'Аллахова', 'Аллаху', 'Аллаха', 'Аллах', 'Господара', 'Господару', 'Алаха', 'Алаху', 'Алах', 'Господар'],
+    'Sinhalese': ['අල්ලාහ්ගෙන්', 'අල්ලාහ්ගේ', 'අල්ලාහ්ට', 'අල්ලාහ්ද', 'අල්ලාහ්', 'රබ්'],
+    'Spanish':     ['Al-lah', 'Allāh', 'Allah', 'Señor'],
+    'Tagalog':     ['Allāh', 'Allah', 'Panginoon'],
+    'Tamil': ['அல்லாஹ்வுக்கும்', 'அல்லாஹ்வுக்கு', 'அல்லாஹ்வின்', 'அல்லாஹ்வை', 'அல்லாஹை', 'அல்லாஹின்', 'அல்லாஹ்', 'ரப்'],
+    'Telugu':      ['అల్లాహ్', 'రబ్బ్'],
+    'Thai': ['พระผู้อภิบาล', 'อัลลอฮ์'],
+    'Turkish': [
+      'Allah\u2019adır', 'Allah\u2019tır', 'Allah\u2019tan',
+      'Allah\u2019ım',  'Allah\u2019ın',  'Allah\u2019ı',  'Allah\u2019a',
+      'Allah\u2018adır','Allah\u2018tır', 'Allah\u2018tan',
+      'Allah\u2018ım',  'Allah\u2018ın',  'Allah\u2018ı',  'Allah\u2018a',
+      "Allah'adır",     "Allah'tır",      "Allah'tan",
+      "Allah'ım",       "Allah'ın",       "Allah'ı",       "Allah'a",
+      'Allah',
+    ],
+    'Uzbek': ['Аллоҳдирки', 'Аллоҳгадир', 'Аллоҳгагина', 'Аллоҳдир', 'Аллоҳнинг', 'Аллоҳдан', 'Аллоҳга', 'Аллоҳни', 'Аллоҳим', 'Аллоҳа', 'Аллоҳ', 'Ибодат'],
+
+    'Vietnamese':  ['Thượng Đế', 'Allah'],
+  };
+  static const Map<String, String> _scriptRanges = {
+    'latin':     r'a-zA-ZÀ-ÿçÇğĞıİöÖşŞüÜ',
+    'cyrillic':  r'а-яёА-ЯЁҳқғўӯ',
+    'arabic':     r'\u0600-\u06FF\u0750-\u077F\uFB50-\uFDFF\uFE70-\uFEFF',
+    'bengali':   r'\u0980-\u09FF',
+    'devanagari':r'\u0900-\u097F',  // Hindi
+    'tamil':     r'\u0B80-\u0BFF',
+    'telugu':    r'\u0C00-\u0C7F',
+    'malayalam': r'\u0D00-\u0D7F',
+    'sinhala':   r'\u0D80-\u0DFF',
+    'thai':      r'\u0E00-\u0E7F',
+    'khmer':     r'\u1780-\u17FF',
+    'cjk':       r'\u4E00-\u9FFF\u3040-\u30FF',  // Chinese + Japanese kana
+  };
+
+  String _detectScript(String word) {
+    for (final entry in _scriptRanges.entries) {
+      if (entry.key == 'latin') continue; // handled separately
+      if (RegExp('[${entry.value}]').hasMatch(word)) return entry.key;
+    }
+    return 'latin';
+  }
+  final TextEditingController _tafsirRefController = TextEditingController();
   final FocusNode _tafsirRefFocusNode = FocusNode();
 
   FocusNode get _searchFocusNode => widget.searchFocusNode;
@@ -91,7 +211,6 @@ class _QuranPanelState extends State<QuranPanel> {
     _tafsirRefFocusNode.dispose();
     super.dispose();
   }
-
 
   List<QuranIndexEntry> get _filtered {
     if (_searchQuery.isEmpty && _excludeQuery.isEmpty) return widget.entries;
@@ -334,10 +453,22 @@ class _QuranPanelState extends State<QuranPanel> {
           results.add({'source': 'Mokhtasar', 'surah': range.surah, 'ayah': ayah, 'text': text});
         }
       }
-      if (_tafsirMokhtasarAr) {
-        final text = getTafsirMokhtasarArabic(range.surah, ayah);
-        if (text != null) {
-          results.add({'source': 'Mokhtasar Ar', 'surah': range.surah, 'ayah': ayah, 'text': text});
+      if (_tafsirHilaliKhan) {
+        final text = getTafsirHilaliKhan(range.surah, ayah);
+        if (text != null && text.isNotEmpty) {
+          results.add({'source': 'Hilali-Khan', 'surah': range.surah, 'ayah': ayah, 'text': text});
+        }
+      }
+      if (_tafsirRowwadEnglish) {
+        final text = getTafsirRowwadEnglish(range.surah, ayah);
+        if (text != null && text.isNotEmpty) {
+          results.add({'source': 'Rowwad-En', 'surah': range.surah, 'ayah': ayah, 'text': text});
+        }
+      }
+      if (_tafsirYacobEnglish) {
+        final text = getTafsirYacobEnglish(range.surah, ayah);
+        if (text != null && text.isNotEmpty) {
+          results.add({'source': 'Yacob-En', 'surah': range.surah, 'ayah': ayah, 'text': text});
         }
       }
     }
@@ -917,44 +1048,46 @@ class _QuranPanelState extends State<QuranPanel> {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            Row(
-              children: [
-                SizedBox(
-                  width: 180,
-                  height: 32,
-                  child: TextField(
-                    controller: _tafsirRefController,
-                    focusNode: _tafsirRefFocusNode,
-                    style: const TextStyle(color: Colors.white, fontSize: 12),
-                    decoration: InputDecoration(
-                      hintText: '2:255 or 2:1-5',
-                      hintStyle: const TextStyle(color: Colors.white24, fontSize: 12),
-                      filled: true,
-                      fillColor: Colors.black26,
-                      border: OutlineInputBorder(
-                        borderRadius: BorderRadius.circular(4),
-                        borderSide: BorderSide(color: Colors.teal.withAlpha(160)),
+            SingleChildScrollView(
+              scrollDirection: Axis.horizontal,
+              child: Row(
+                children: [
+                  SizedBox(
+                    width: 180,
+                    height: 32,
+                    child: TextField(
+                      controller: _tafsirRefController,
+                      focusNode: _tafsirRefFocusNode,
+                      style: const TextStyle(color: Colors.white, fontSize: 12),
+                      decoration: InputDecoration(
+                        hintText: '2:255 or 2:1-5',
+                        hintStyle: const TextStyle(color: Colors.white24, fontSize: 12),
+                        filled: true,
+                        fillColor: Colors.black26,
+                        border: OutlineInputBorder(
+                          borderRadius: BorderRadius.circular(4),
+                          borderSide: BorderSide(color: Colors.teal.withAlpha(160)),
+                        ),
+                        enabledBorder: OutlineInputBorder(
+                          borderRadius: BorderRadius.circular(4),
+                          borderSide: BorderSide(color: Colors.teal.withAlpha(80)),
+                        ),
+                        focusedBorder: OutlineInputBorder(
+                          borderRadius: BorderRadius.circular(4),
+                          borderSide: const BorderSide(color: Colors.teal),
+                        ),
+                        contentPadding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+                        suffixIcon: IconButton(
+                          icon: const Icon(Icons.search, color: Colors.teal, size: 16),
+                          padding: EdgeInsets.zero,
+                          constraints: const BoxConstraints(),
+                          onPressed: () => _lookupTafsir(context),
+                        ),
                       ),
-                      enabledBorder: OutlineInputBorder(
-                        borderRadius: BorderRadius.circular(4),
-                        borderSide: BorderSide(color: Colors.teal.withAlpha(80)),
-                      ),
-                      focusedBorder: OutlineInputBorder(
-                        borderRadius: BorderRadius.circular(4),
-                        borderSide: const BorderSide(color: Colors.teal),
-                      ),
-                      contentPadding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
-                      suffixIcon: IconButton(
-                        icon: const Icon(Icons.search, color: Colors.teal, size: 16),
-                        padding: EdgeInsets.zero,
-                        constraints: const BoxConstraints(),
-                        onPressed: () => _lookupTafsir(context),
-                      ),
+                      onSubmitted: (_) => _lookupTafsir(context),
                     ),
-                    onSubmitted: (_) => _lookupTafsir(context),
                   ),
-                ),
-                const SizedBox(width: 8),
+                  const SizedBox(width: 8),
                   IconButton(
                     icon: const Icon(Icons.clear_all, color: Colors.deepOrange, size: 18),
                     tooltip: 'Clear tafsir',
@@ -962,36 +1095,44 @@ class _QuranPanelState extends State<QuranPanel> {
                     constraints: const BoxConstraints(),
                     onPressed: () => setState(() => _tafsirResults = []),
                   ),
-                const SizedBox(width: 8),
-                _tafsirCheckbox('Mokhtasar', _tafsirMokhtasar, (v) {
-                  setState(() => _tafsirMokhtasar = v ?? false);
-                }),
-                const SizedBox(width: 8),
-                if (_tafsirMokhtasar)
-                  DropdownButton<String>(
-                    value: _mokhtasarLanguage,
-                    dropdownColor: const Color(0xFF2A2A2A),
-                    style: const TextStyle(color: Colors.white70, fontSize: 12),
-                    underline: const SizedBox(),
-                    isDense: true,
-                    items: mokhtasarLanguages
-                        .map((lang) => DropdownMenuItem(value: lang, child: Text(lang)))
-                        .toList(),
-                    onChanged: (lang) {
-                      if (lang != null) {
-                        setState(() => _mokhtasarLanguage = lang);
-                        // re-run lookup with current ref if there is one
-                        if (_tafsirRefController.text.isNotEmpty) {
-                          _lookupTafsir(context);
+                  const SizedBox(width: 8),
+                  _tafsirCheckbox('Mokhtasar', _tafsirMokhtasar, (v) {
+                    setState(() => _tafsirMokhtasar = v ?? false);
+                  }),
+                  const SizedBox(width: 8),
+                  if (_tafsirMokhtasar)
+                    DropdownButton<String>(
+                      value: _mokhtasarLanguage,
+                      dropdownColor: const Color(0xFF2A2A2A),
+                      style: const TextStyle(color: Colors.white70, fontSize: 12),
+                      underline: const SizedBox(),
+                      isDense: true,
+                      items: mokhtasarLanguages
+                          .map((lang) => DropdownMenuItem(value: lang, child: Text(lang)))
+                          .toList(),
+                      onChanged: (lang) {
+                        if (lang != null) {
+                          setState(() => _mokhtasarLanguage = lang);
+                          if (_tafsirRefController.text.isNotEmpty) {
+                            _lookupTafsir(context);
+                          }
                         }
-                      }
-                    },
-                  ),
-                const SizedBox(width: 12),
-                _tafsirCheckbox('Mokhtasar Ar', _tafsirMokhtasarAr, (v) {
-                  setState(() => _tafsirMokhtasarAr = v ?? false);
-                }),
-              ],
+                      },
+                    ),
+                  const SizedBox(width: 12),
+                  _tafsirCheckbox('Hilali-Khan', _tafsirHilaliKhan, (v) {
+                    setState(() => _tafsirHilaliKhan = v ?? false);
+                  }),
+                  const SizedBox(width: 12),
+                  _tafsirCheckbox('Rowwad-En', _tafsirRowwadEnglish, (v) {
+                    setState(() => _tafsirRowwadEnglish = v ?? false);
+                  }),
+                  const SizedBox(width: 12),
+                  _tafsirCheckbox('Yacob-En', _tafsirYacobEnglish, (v) {
+                    setState(() => _tafsirYacobEnglish = v ?? false);
+                  }),
+                ],
+              ),
             ),
             if (_tafsirResults.isNotEmpty) ...[
               const SizedBox(height: 8),
@@ -1033,69 +1174,281 @@ class _QuranPanelState extends State<QuranPanel> {
     );
   }
 
-  Widget _buildTafsirCard(Map<String, dynamic> r) {
-    final source = r['source'] as String;
-    final surah = r['surah'] as int;
-    final ayah = r['ayah'] as int;
-    final text = r['text'] as String;
-    final isRtl = source == 'Mokhtasar Ar' || isMokhtasarRtl(_mokhtasarLanguage);
-
-    final sourceColor = source == 'Mokhtasar' ? Colors.lightBlueAccent : Colors.greenAccent;
-    final ayahLabel = ayah == 0 ? '$surah:intro' : '$surah:$ayah';
-
-    return Directionality(
-      textDirection: isRtl ? TextDirection.rtl : TextDirection.ltr,
-      child: Container(
-        padding: const EdgeInsets.all(10),
-        decoration: BoxDecoration(
-          color: Colors.white.withAlpha(6),
-          borderRadius: BorderRadius.circular(6),
-        ),
-        child: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            Row(
-              children: [
-                Container(
-                  padding: const EdgeInsets.symmetric(horizontal: 7, vertical: 2),
-                  decoration: BoxDecoration(
-                    color: sourceColor.withAlpha(30),
-                    borderRadius: BorderRadius.circular(4),
-                    border: Border.all(color: sourceColor.withAlpha(100)),
-                  ),
-                  child: Text(source,
-                      style: TextStyle(color: sourceColor, fontSize: 11, fontWeight: FontWeight.w600)),
-                ),
-                const SizedBox(width: 8),
-                Text(ayahLabel,
-                    style: const TextStyle(color: Colors.white54, fontSize: 12)),
-                const Spacer(),
-                IconButton(
-                  icon: const Icon(Icons.copy, color: Colors.white24, size: 14),
-                  padding: EdgeInsets.zero,
-                  constraints: const BoxConstraints(),
-                  tooltip: 'Copy text',
-                  onPressed: () => Clipboard.setData(ClipboardData(text: text)),
-                ),
-              ],
-            ),
-            const SizedBox(height: 6),
-            SelectableText(
-              text,
-              textDirection: isRtl ? TextDirection.rtl : TextDirection.ltr,
-              textAlign: isRtl ? TextAlign.right : TextAlign.left,
-              style: const TextStyle(color: Colors.white, fontSize: 14, height: 1.55),
-            ),
-          ],
-        ),
-      ),
-    );
+  void _onTafsirVerseTapped(String ref) {
+    final match = RegExp(r'(\d+):(\d+)').firstMatch(ref);
+    if (match == null) return;
+    final surah = int.parse(match.group(1)!);
+    final ayah = int.parse(match.group(2)!);
+    if (widget.isQuranLoaded) {
+      final verseRef = QuranVerseRef(surah: surah, fromAyah: ayah, isFullSurah: false);
+      widget.onVerseSelected(verseRef, 0);
+    } else {
+      _tafsirRefController.text = '$surah:$ayah';
+      _tafsirRefFocusNode.requestFocus();
+    }
   }
-}
 
-class _TafsirRange {
-  final int surah;
-  final int from;
-  final int to;
-  const _TafsirRange(this.surah, this.from, this.to);
-}
+  Widget _buildTafsirCard(Map<String, dynamic> r) {
+      final source = r['source'] as String;
+      final surah = r['surah'] as int;
+      final ayah = r['ayah'] as int;
+      final text = r['text'] as String;
+      final isRtl = source == 'Mokhtasar Ar' || isMokhtasarRtl(_mokhtasarLanguage);
+      final sourceColor = source == 'Mokhtasar' ? Colors.lightBlueAccent : Colors.greenAccent;
+      final ayahLabel = ayah == 0 ? '$surah:intro' : '$surah:$ayah';
+      return Directionality(
+        textDirection: isRtl ? TextDirection.rtl : TextDirection.ltr,
+        child: Container(
+          padding: const EdgeInsets.all(10),
+          decoration: BoxDecoration(
+            color: Colors.white.withAlpha(6),
+            borderRadius: BorderRadius.circular(6),
+          ),
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Row(
+                children: [
+                  Container(
+                    padding: const EdgeInsets.symmetric(horizontal: 7, vertical: 2),
+                    decoration: BoxDecoration(
+                      color: sourceColor.withAlpha(30),
+                      borderRadius: BorderRadius.circular(4),
+                      border: Border.all(color: sourceColor.withAlpha(100)),
+                    ),
+                    child: Text(source,
+                        style: TextStyle(color: sourceColor, fontSize: 11, fontWeight: FontWeight.w600)),
+                  ),
+                  const SizedBox(width: 8),
+                  Text(ayahLabel,
+                      style: const TextStyle(color: Colors.white54, fontSize: 12)),
+                  const Spacer(),
+                  IconButton(
+                    icon: const Icon(Icons.copy, color: Colors.white24, size: 14),
+                    padding: EdgeInsets.zero,
+                    constraints: const BoxConstraints(),
+                    tooltip: 'Copy text',
+                    onPressed: () => Clipboard.setData(ClipboardData(text: text)),
+                  ),
+                ],
+              ),
+              const SizedBox(height: 6),
+              _buildTafsirText(text, isRtl, isIntro: ayah == 0),
+            ],
+          ),
+        ),
+      );
+    }
+
+    List<TextSpan> _parseMainText(String text, {
+      TextStyle? baseStyleOverride,
+      void Function(String)? onVerseTapped,
+      String language = 'English',
+    }) {
+      final spans = <TextSpan>[];
+      final baseStyle = baseStyleOverride ?? const TextStyle(color: Colors.white, fontSize: 14, height: 1.55);
+      const amber = TextStyle(color: Colors.amber, fontSize: 14, height: 1.55);
+      const purple = TextStyle(color: Color(0xFFCB93F5), fontSize: 14, height: 1.55);
+      const quoteStyle = TextStyle(color: Color(0xFFFFB6C1), fontSize: 14, height: 1.55);
+      const verseStyle = TextStyle(color: Colors.lightBlueAccent, fontSize: 14, height: 1.55);
+
+      final allahWords = (_allahByLanguage[language] ?? _allahByLanguage['English']!)
+          .toList()
+        ..sort((a, b) {
+          final c = b.length.compareTo(a.length);
+          return c != 0 ? c : a.compareTo(b);
+        });
+
+        const noBoundaryScripts = {'cjk', 'thai', 'khmer', 'arabic'};
+
+        final patterns = <String>[];
+        for (final w in allahWords) {
+          final escaped = RegExp.escape(w);
+          if (RegExp(r"^[a-zA-ZÀ-ÿçÇğĞıİöÖşŞüÜ'\u2018\u2019]+$").hasMatch(w)) {
+            final range = _scriptRanges['latin']!;
+            patterns.add('(?<![$range])$escaped(?![$range])');
+          } else {
+            final script = _detectScript(w);
+            if (noBoundaryScripts.contains(script)) {
+              patterns.add(escaped);
+            } else {
+              final range = _scriptRanges[script] ?? _scriptRanges['cyrillic']!;
+              patterns.add('(?<![$range])$escaped(?![$range])');
+            }
+          }
+        }
+        final allahPattern = patterns.join('|');
+      final allahRegex = RegExp(allahPattern);
+      final verseRegex = RegExp(r'\b(\d{1,3}):(\d{1,3})\b');
+
+      List<TextSpan> parseWithAllah(String t, TextStyle base) {
+        final inner = <TextSpan>[];
+        const parenStyle = TextStyle(color: Colors.cyanAccent, fontSize: 14, height: 1.55);
+        final combined = RegExp(
+          '(?:$allahPattern)|\\b\\d{1,3}:\\d{1,3}\\b|\\([^)]*\\)|\\[[^\\]]*\\]'
+        );
+        int c = 0;
+        for (final m in combined.allMatches(t)) {
+          if (m.start > c) inner.add(TextSpan(text: t.substring(c, m.start), style: base));
+          final word = m.group(0)!;
+          if (verseRegex.hasMatch(word)) {
+            inner.add(TextSpan(
+              text: word,
+              style: verseStyle,
+              recognizer: onVerseTapped != null
+                  ? (TapGestureRecognizer()..onTap = () => onVerseTapped(word))
+                  : null,
+            ));
+          } else if (word.startsWith('(')) {
+            inner.add(TextSpan(text: word, style: parenStyle));
+          } else if (word.startsWith('[')) {
+            inner.add(TextSpan(text: word, style: amber));
+          } else {
+            inner.add(TextSpan(text: word, style: purple));
+          }
+          c = m.end;
+        }
+        if (c < t.length) inner.add(TextSpan(text: t.substring(c), style: base));
+        return inner;
+      }
+
+      final pattern = RegExp(
+        r'("(?:[^"\\]|\\.)*"|\u201c(?:[^\u201d])*\u201d|\u2018[^\u2019]*\u2019)'
+        r'|(\[[^\]]*\])'
+        r'|(\([^)]*\))'
+        r'|\b\d{1,3}:\d{1,3}\b',
+      );
+
+      int cursor = 0;
+      for (final match in pattern.allMatches(text)) {
+        if (match.start > cursor) {
+          spans.addAll(parseWithAllah(text.substring(cursor, match.start), baseStyle));
+        }
+        final m = match.group(0) ?? '';
+        if (match.group(1) != null) {
+          spans.addAll(parseWithAllah(m, quoteStyle));
+        } else if (match.group(2) != null) {
+          final parenPattern = RegExp(r'\([^)]*\)');
+          const cyanStyle = TextStyle(color: Colors.cyanAccent, fontSize: 14, height: 1.55);
+          int innerCursor = 0;
+          for (final p in parenPattern.allMatches(m)) {
+            if (p.start > innerCursor) {
+              spans.addAll(parseWithAllah(m.substring(innerCursor, p.start), amber));
+            }
+            spans.addAll(parseWithAllah(p.group(0)!, cyanStyle));
+            innerCursor = p.end;
+          }
+          if (innerCursor < m.length) {
+            spans.addAll(parseWithAllah(m.substring(innerCursor), amber));
+          }
+        } else if (match.group(3) != null) {
+          spans.addAll(parseWithAllah(m, const TextStyle(color:Colors.cyanAccent, fontSize: 14, height: 1.55)));
+        } else if (verseRegex.hasMatch(m)) {
+          spans.add(TextSpan(
+            text: m,
+            style: verseStyle,
+            recognizer: onVerseTapped != null
+                ? (TapGestureRecognizer()..onTap = () => onVerseTapped(m))
+                : null,
+          ));
+        } else {
+          spans.add(TextSpan(text: m, style: purple));
+        }
+        cursor = match.end;
+      }
+      if (cursor < text.length) {
+        spans.addAll(parseWithAllah(text.substring(cursor), baseStyle));
+      }
+      return spans;
+    }
+
+    Widget _buildTafsirText(String text, bool isRtl, {bool isIntro = false}) {
+      if (isIntro) {
+        return SelectableText(
+          text,
+          textDirection: isRtl ? TextDirection.rtl : TextDirection.ltr,
+          textAlign: isRtl ? TextAlign.right : TextAlign.left,
+          style: const TextStyle(color: Colors.amber, fontSize: 14, height: 1.55),
+        );
+      }
+
+      const orangeStyle = TextStyle(color: Colors.orangeAccent, fontSize: 14, height: 1.55);
+      const greenStyle = TextStyle(color: Colors.greenAccent, fontSize: 14, height: 1.55);
+
+      final lowerText = text.toLowerCase();
+      const beneficialMarker = '• beneficial points:';
+      const footnotesMarker = 'footnotes:';
+
+      final beneficialIdx = lowerText.indexOf(beneficialMarker);
+      final footnotesIdx = lowerText.indexOf(footnotesMarker);
+
+      if (beneficialIdx == -1 && footnotesIdx == -1) {
+        return SelectableText.rich(
+          TextSpan(children: _parseMainText(text,
+              onVerseTapped: _onTafsirVerseTapped,
+              language: _mokhtasarLanguage)),
+          textDirection: isRtl ? TextDirection.rtl : TextDirection.ltr,
+          textAlign: isRtl ? TextAlign.right : TextAlign.left,
+        );
+      }
+
+      final spans = <TextSpan>[];
+
+      int mainEnd = text.length;
+      if (beneficialIdx != -1 && beneficialIdx < mainEnd) mainEnd = beneficialIdx;
+      if (footnotesIdx != -1 && footnotesIdx < mainEnd) mainEnd = footnotesIdx;
+
+      if (mainEnd > 0) {
+        String mainText = text.substring(0, mainEnd).trimRight();
+        mainText = mainText.replaceAll(r'\n', '\n').trimRight();
+        spans.addAll(_parseMainText(mainText,
+            onVerseTapped: _onTafsirVerseTapped,
+            language: _mokhtasarLanguage));
+      }
+
+      if (beneficialIdx != -1) {
+        final end = (footnotesIdx != -1 && footnotesIdx > beneficialIdx)
+            ? footnotesIdx
+            : text.length;
+        final markerText = text.substring(beneficialIdx, beneficialIdx + beneficialMarker.length);
+        final afterMarker = text.substring(beneficialIdx + beneficialMarker.length, end);
+        spans.add(TextSpan(text: '\n\n$markerText', style: orangeStyle));
+        spans.addAll(_parseMainText(afterMarker,
+            baseStyleOverride: greenStyle,
+            onVerseTapped: _onTafsirVerseTapped,
+            language: _mokhtasarLanguage));
+      }
+
+      if (footnotesIdx != -1) {
+        final footnotesText = '\n\n' + text.substring(footnotesIdx);
+        for (final match in RegExp(r'(\[[^\]]*\])|([^\[]+)').allMatches(footnotesText)) {
+          final m = match.group(0) ?? '';
+          if (match.group(1) != null) {
+            if (RegExp(r'^\[\d+\]$').hasMatch(m)) {
+              spans.add(TextSpan(text: m, style: const TextStyle(color: Colors.orangeAccent, fontSize: 14, height: 1.55)));
+            } else {
+              spans.add(TextSpan(text: m, style: const TextStyle(color: Colors.amber, fontSize: 14, height: 1.55)));
+            }
+          } else {
+            spans.addAll(_parseMainText(m,
+                baseStyleOverride: const TextStyle(color: Colors.greenAccent, fontSize: 14, height: 1.55),
+                onVerseTapped: _onTafsirVerseTapped,
+                language: _mokhtasarLanguage));
+          }
+        }
+      }
+
+      return SelectableText.rich(
+        TextSpan(children: spans),
+        textDirection: isRtl ? TextDirection.rtl : TextDirection.ltr,
+        textAlign: isRtl ? TextAlign.right : TextAlign.left,
+      );
+    }
+  }
+
+  class _TafsirRange {
+    final int surah;
+    final int from;
+    final int to;
+    const _TafsirRange(this.surah, this.from, this.to);
+  }

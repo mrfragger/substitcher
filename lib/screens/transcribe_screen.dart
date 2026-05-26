@@ -560,14 +560,10 @@ List<String> _availableAudiobooks = [];
         final mdFilename = '$cleanFilename.md';
         final mdPath = path.join(chaptersDirectory, mdFilename);
 
-        print('=== MD CONVERSION: Writing to $mdPath ===');
-
         await File(mdPath).writeAsString(mdContent.toString());
 
-        print('=== MD CONVERSION: Successfully wrote $mdFilename ===');
       }
 
-      print('=== MD CONVERSION: All done ===');
 
       setState(() {
         _transcriptionStatus = 'Markdown conversion complete!';

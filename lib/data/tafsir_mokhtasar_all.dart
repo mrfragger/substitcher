@@ -30,6 +30,9 @@ import 'tafsir_mokhtasar_urdu.dart';
 import 'tafsir_mokhtasar_uyghur.dart';
 import 'tafsir_mokhtasar_uzbek.dart';
 import 'tafsir_mokhtasar_vietnamese.dart';
+import 'tafsir_hilali_khan.dart';
+import '../data/tafsir_rowwad_english.dart';
+import '../data/tafsir_yacob_english.dart';
 
 const List<String> mokhtasarLanguages = [
   'English',
