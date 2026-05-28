@@ -95,17 +95,17 @@ import 'quran_index_Zulu.dart';
 const List<int> quranVerseCounts = [
   0, // placeholder for index 0
   7, 286, 200, 176, 120, 165, 206, 75, 129, 109, // 1-10
-  123, 111, 43, 52, 99, 128, 111, 110, 98, 135,  // 11-20
-  112, 78, 118, 64, 77, 227, 93, 88, 69, 60,     // 21-30
-  34, 30, 73, 54, 45, 83, 182, 88, 75, 85,       // 31-40
-  54, 53, 89, 59, 37, 35, 38, 29, 18, 45,        // 41-50
-  60, 49, 62, 55, 78, 96, 29, 22, 24, 13,        // 51-60
-  14, 11, 11, 18, 12, 12, 30, 52, 52, 44,        // 61-70
-  28, 28, 20, 56, 40, 31, 50, 40, 46, 42,        // 71-80
-  29, 19, 36, 25, 22, 17, 19, 26, 30, 20,        // 81-90
-  15, 21, 11, 8, 8, 19, 5, 8, 8, 11,             // 91-100
-  11, 8, 4, 5, 7, 3, 6, 3, 5, 4,                 // 101-110
-  5, 4, 5, 6,                                     // 111-114
+  123, 111, 43, 52, 99, 128, 111, 110, 98, 135, // 11-20
+  112, 78, 118, 64, 77, 227, 93, 88, 69, 60, // 21-30
+  34, 30, 73, 54, 45, 83, 182, 88, 75, 85, // 31-40
+  54, 53, 89, 59, 37, 35, 38, 29, 18, 45, // 41-50
+  60, 49, 62, 55, 78, 96, 29, 22, 24, 13, // 51-60
+  14, 11, 11, 18, 12, 12, 30, 52, 52, 44, // 61-70
+  28, 28, 20, 56, 40, 31, 50, 40, 46, 42, // 71-80
+  29, 19, 36, 25, 22, 17, 19, 26, 30, 20, // 81-90
+  15, 21, 11, 8, 8, 19, 5, 8, 8, 11, // 91-100
+  11, 8, 4, 5, 7, 3, 6, 3, 5, 4, // 101-110
+  5, 4, 5, 6, // 111-114
 ];
 
 const Map<String, List<int>> quranFileRanges = {
@@ -114,8 +114,75 @@ const Map<String, List<int>> quranFileRanges = {
   '016-024': [16, 17, 18, 19, 20, 21, 22, 23, 24],
   '025-036': [25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36],
   '037-049': [37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49],
-  '050-069': [50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69],
-  '070-114': [70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114],
+  '050-069': [
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69
+  ],
+  '070-114': [
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114
+  ],
 };
 
 String? getRangeKeyForSurah(int surah) {
@@ -199,11 +266,12 @@ List<QuranIndexEntry> parseQuranIndex(String raw) {
     final trimmed = line.trim();
     if (trimmed.isEmpty) continue;
 
-    final startsNewBlock = (RegExp(r"^[A-Za-z'\u2018\u2019\-]").hasMatch(trimmed) ||
-                            RegExp(r'^\p{L}', unicode: true).hasMatch(trimmed)) &&
-                           !RegExp(r'^[\d,;]').hasMatch(trimmed) &&
-                           !trimmed.startsWith('- ') &&
-                           !trimmed.startsWith('-');
+    final startsNewBlock =
+        (RegExp(r"^[A-Za-z'\u2018\u2019\-]").hasMatch(trimmed) ||
+                RegExp(r'^\p{L}', unicode: true).hasMatch(trimmed)) &&
+            !RegExp(r'^[\d,;]').hasMatch(trimmed) &&
+            !trimmed.startsWith('- ') &&
+            !trimmed.startsWith('-');
 
     if (startsNewBlock && buffer.isNotEmpty) {
       blocks.add(buffer.toString().trim());
@@ -242,7 +310,9 @@ List<QuranIndexEntry> parseQuranIndex(String raw) {
           subTopic = cleaned.replaceAll(RegExp(r'[,;]+$'), '');
           subRefs = [];
         } else {
-          subTopic = cleaned.substring(0, refStart.start).trim()
+          subTopic = cleaned
+              .substring(0, refStart.start)
+              .trim()
               .replaceAll(RegExp(r'[,;]+$'), '');
           subRefs = _parseRefs(cleaned.substring(refStart.start));
         }
@@ -264,8 +334,8 @@ List<QuranIndexEntry> parseQuranIndex(String raw) {
 bool _isSubtopicBlock(String block) {
   final trimmed = block.trim();
   return RegExp(r'^[a-z]').hasMatch(trimmed) ||
-         trimmed.startsWith('- ') ||
-         trimmed.startsWith('-');
+      trimmed.startsWith('- ') ||
+      trimmed.startsWith('-');
 }
 
 QuranIndexEntry? _parseBlock(String block) {
@@ -285,7 +355,10 @@ QuranIndexEntry? _parseBlock(String block) {
     if (topic.isEmpty) return null;
     refs = [];
   } else {
-    topic = cleanBlock.substring(0, refStart.start).trim().replaceAll(RegExp(r'[,;]+$'), '');
+    topic = cleanBlock
+        .substring(0, refStart.start)
+        .trim()
+        .replaceAll(RegExp(r'[,;]+$'), '');
     refs = _parseRefs(cleanBlock.substring(refStart.start));
   }
 
@@ -298,10 +371,8 @@ QuranIndexEntry? _parseBlock(String block) {
 
 List<QuranVerseRef> _parseRefs(String text) {
   final refs = <QuranVerseRef>[];
-  final text2 = text
-      .replaceAll('；', ';')
-      .replaceAll('：', ':')
-      .replaceAll('，', ',');
+  final text2 =
+      text.replaceAll('；', ';').replaceAll('：', ':').replaceAll('，', ',');
 
   final normalized = text.replaceAllMapped(
     RegExp(r'S\.(\d+)'),
@@ -359,7 +430,10 @@ void _parseAyahList(int surah, String ayahText, List<QuranVerseRef> refs) {
       final rangeParts = cleaned.split('-');
       final from = int.tryParse(rangeParts[0]);
       final to = int.tryParse(rangeParts[1]);
-      if (from != null && to != null && surah <= 114 && from <= (quranVerseCounts[surah])) {
+      if (from != null &&
+          to != null &&
+          surah <= 114 &&
+          from <= (quranVerseCounts[surah])) {
         refs.add(QuranVerseRef(surah: surah, fromAyah: from, toAyah: to));
       }
     } else {
@@ -469,99 +543,192 @@ const List<String> availableQuranIndexLanguages = [
 
 String getQuranIndexRaw(String language) {
   switch (language) {
-    case 'Afar': return quranIndexAfarRaw;
-    case 'Albanian': return quranIndexAlbanianRaw;
-    case 'Amharic': return quranIndexAmharicRaw;
-    case 'Arabic': return quranIndexArabicRaw;
-    case 'AsanteTwi': return quranIndexAsanteTwiRaw;
-    case 'Assamese': return quranIndexAssameseRaw;
-    case 'Azerbaijani': return quranIndexAzerbaijaniRaw;
-    case 'Belarusian': return quranIndexBelarusianRaw;
-    case 'Bengali': return quranIndexBengaliRaw;
-    case 'Bosnian': return quranIndexBosnianRaw;
-    case 'Bulgarian': return quranIndexBulgarianRaw;
-    case 'Burmese *': return quranIndexBurmeseRaw;
-    case 'Cebuano': return quranIndexCebuanoRaw;
-    case 'Chichewa': return quranIndexChichewaRaw;
-    case 'Chinese': return quranIndexChineseRaw;
-    case 'ChineseTrad *': return quranIndexChineseTradRaw;
-    case 'Circassian *': return quranIndexCircassianRaw;
-    case 'Croatian': return quranIndexCroatianRaw;
-    case 'Czech *': return quranIndexCzechRaw;
-    case 'Dagbani': return quranIndexDagbaniRaw;
-    case 'Danish *': return quranIndexDanishRaw;
-    case 'Dari': return quranIndexDariRaw;
-    case 'Dutch': return quranIndexDutchRaw;
-    case 'Finnish *': return quranIndexFinnishRaw;
-    case 'French': return quranIndexFrenchRaw;
-    case 'Fula': return quranIndexFulaRaw;
-    case 'Georgian *': return quranIndexGeorgianRaw;
-    case 'German': return quranIndexGermanRaw;
-    case 'Greek': return quranIndexGreekRaw;
-    case 'Gujarati': return quranIndexGujaratiRaw;
-    case 'Hausa': return quranIndexHausaRaw;
-    case 'Hebrew': return quranIndexHebrewRaw;
-    case 'Hindi': return quranIndexHindiRaw;
-    case 'Hungarian *': return quranIndexHungarianRaw;
-    case 'Indonesian': return quranIndexIndonesianRaw;
-    case 'Iranun': return quranIndexIranunRaw;
-    case 'Italian': return quranIndexItalianRaw;
-    case 'Japanese': return quranIndexJapaneseRaw;
-    case 'Kannada': return quranIndexKannadaRaw;
-    case 'Kazakh': return quranIndexKazakhRaw;
-    case 'Khmer': return quranIndexKhmerRaw;
-    case 'Kinyarwanda': return quranIndexKinyarwandaRaw;
-    case 'Kirundi': return quranIndexKirundiRaw;
-    case 'Korean': return quranIndexKoreanRaw;
-    case 'Kurdish': return quranIndexKurdishRaw;
-    case 'Kyrgyz': return quranIndexKyrgyzRaw;
-    case 'Lingala': return quranIndexLingalaRaw;
-    case 'Lithuanian': return quranIndexLithuanianRaw;
-    case 'Luganda': return quranIndexLugandaRaw;
-    case 'Luhya': return quranIndexLuhyaRaw;
-    case 'Macedonian': return quranIndexMacedonianRaw;
-    case 'Maguindanaon': return quranIndexMaguindanaonRaw;
-    case 'Malagasy': return quranIndexMalagasyRaw;
-    case 'Malay': return quranIndexMalayRaw;
-    case 'Malayalam': return quranIndexMalayalamRaw;
-    case 'Marathi': return quranIndexMarathiRaw;
-    case 'Moore': return quranIndexMooreRaw;
-    case 'Mongolian *': return quranIndexMongolianRaw;
-    case 'Nepali *': return quranIndexNepaliRaw;
-    case 'Norwegian *': return quranIndexNorwegianRaw;
-    case 'Odia *': return quranIndexOdiaRaw;
-    case 'Oromo': return quranIndexOromoRaw;
-    case 'Pashto': return quranIndexPashtoRaw;
-    case 'Persian': return quranIndexPersianRaw;
-    case 'Polish *': return quranIndexPolishRaw;
-    case 'Portuguese': return quranIndexPortugueseRaw;
-    case 'Punjabi': return quranIndexPunjabiRaw;
-    case 'Romanian': return quranIndexRomanianRaw;
-    case 'Russian': return quranIndexRussianRaw;
-    case 'Serbian': return quranIndexSerbianRaw;
-    case 'Shona *': return quranIndexShonaRaw;
-    case 'Sinhalese': return quranIndexSinhaleseRaw;
-    case 'Slovak *': return quranIndexSlovakRaw;
-    case 'Somali': return quranIndexSomaliRaw;
-    case 'Spanish': return quranIndexSpanishRaw;
-    case 'Swahili': return quranIndexSwahiliRaw;
-    case 'Swedish': return quranIndexSwedishRaw;
-    case 'Tagalog': return quranIndexTagalogRaw;
-    case 'Tajik': return quranIndexTajikRaw;
-    case 'Tamil': return quranIndexTamilRaw;
-    case 'Telugu': return quranIndexTeluguRaw;
-    case 'Thai': return quranIndexThaiRaw;
-    case 'Turkish': return quranIndexTurkishRaw;
-    case 'Ukrainian': return quranIndexUkrainianRaw;
-    case 'Urdu': return quranIndexUrduRaw;
-    case 'Uyghur': return quranIndexUyghurRaw;
-    case 'Uzbek': return quranIndexUzbekRaw;
-    case 'Vietnamese': return quranIndexVietnameseRaw;
-    case 'Xhosa *': return quranIndexXhosaRaw;
-    case 'Yao': return quranIndexYaoRaw;
-    case 'Yoruba': return quranIndexYorubaRaw;
-    case 'Zulu *': return quranIndexZuluRaw;
-    default: return quranIndexRaw;
+    case 'Afar':
+      return quranIndexAfarRaw;
+    case 'Albanian':
+      return quranIndexAlbanianRaw;
+    case 'Amharic':
+      return quranIndexAmharicRaw;
+    case 'Arabic':
+      return quranIndexArabicRaw;
+    case 'AsanteTwi':
+      return quranIndexAsanteTwiRaw;
+    case 'Assamese':
+      return quranIndexAssameseRaw;
+    case 'Azerbaijani':
+      return quranIndexAzerbaijaniRaw;
+    case 'Belarusian':
+      return quranIndexBelarusianRaw;
+    case 'Bengali':
+      return quranIndexBengaliRaw;
+    case 'Bosnian':
+      return quranIndexBosnianRaw;
+    case 'Bulgarian':
+      return quranIndexBulgarianRaw;
+    case 'Burmese *':
+      return quranIndexBurmeseRaw;
+    case 'Cebuano':
+      return quranIndexCebuanoRaw;
+    case 'Chichewa':
+      return quranIndexChichewaRaw;
+    case 'Chinese':
+      return quranIndexChineseRaw;
+    case 'ChineseTrad *':
+      return quranIndexChineseTradRaw;
+    case 'Circassian *':
+      return quranIndexCircassianRaw;
+    case 'Croatian':
+      return quranIndexCroatianRaw;
+    case 'Czech *':
+      return quranIndexCzechRaw;
+    case 'Dagbani':
+      return quranIndexDagbaniRaw;
+    case 'Danish *':
+      return quranIndexDanishRaw;
+    case 'Dari':
+      return quranIndexDariRaw;
+    case 'Dutch':
+      return quranIndexDutchRaw;
+    case 'Finnish *':
+      return quranIndexFinnishRaw;
+    case 'French':
+      return quranIndexFrenchRaw;
+    case 'Fula':
+      return quranIndexFulaRaw;
+    case 'Georgian *':
+      return quranIndexGeorgianRaw;
+    case 'German':
+      return quranIndexGermanRaw;
+    case 'Greek':
+      return quranIndexGreekRaw;
+    case 'Gujarati':
+      return quranIndexGujaratiRaw;
+    case 'Hausa':
+      return quranIndexHausaRaw;
+    case 'Hebrew':
+      return quranIndexHebrewRaw;
+    case 'Hindi':
+      return quranIndexHindiRaw;
+    case 'Hungarian *':
+      return quranIndexHungarianRaw;
+    case 'Indonesian':
+      return quranIndexIndonesianRaw;
+    case 'Iranun':
+      return quranIndexIranunRaw;
+    case 'Italian':
+      return quranIndexItalianRaw;
+    case 'Japanese':
+      return quranIndexJapaneseRaw;
+    case 'Kannada':
+      return quranIndexKannadaRaw;
+    case 'Kazakh':
+      return quranIndexKazakhRaw;
+    case 'Khmer':
+      return quranIndexKhmerRaw;
+    case 'Kinyarwanda':
+      return quranIndexKinyarwandaRaw;
+    case 'Kirundi':
+      return quranIndexKirundiRaw;
+    case 'Korean':
+      return quranIndexKoreanRaw;
+    case 'Kurdish':
+      return quranIndexKurdishRaw;
+    case 'Kyrgyz':
+      return quranIndexKyrgyzRaw;
+    case 'Lingala':
+      return quranIndexLingalaRaw;
+    case 'Lithuanian':
+      return quranIndexLithuanianRaw;
+    case 'Luganda':
+      return quranIndexLugandaRaw;
+    case 'Luhya':
+      return quranIndexLuhyaRaw;
+    case 'Macedonian':
+      return quranIndexMacedonianRaw;
+    case 'Maguindanaon':
+      return quranIndexMaguindanaonRaw;
+    case 'Malagasy':
+      return quranIndexMalagasyRaw;
+    case 'Malay':
+      return quranIndexMalayRaw;
+    case 'Malayalam':
+      return quranIndexMalayalamRaw;
+    case 'Marathi':
+      return quranIndexMarathiRaw;
+    case 'Moore':
+      return quranIndexMooreRaw;
+    case 'Mongolian *':
+      return quranIndexMongolianRaw;
+    case 'Nepali *':
+      return quranIndexNepaliRaw;
+    case 'Norwegian *':
+      return quranIndexNorwegianRaw;
+    case 'Odia *':
+      return quranIndexOdiaRaw;
+    case 'Oromo':
+      return quranIndexOromoRaw;
+    case 'Pashto':
+      return quranIndexPashtoRaw;
+    case 'Persian':
+      return quranIndexPersianRaw;
+    case 'Polish *':
+      return quranIndexPolishRaw;
+    case 'Portuguese':
+      return quranIndexPortugueseRaw;
+    case 'Punjabi':
+      return quranIndexPunjabiRaw;
+    case 'Romanian':
+      return quranIndexRomanianRaw;
+    case 'Russian':
+      return quranIndexRussianRaw;
+    case 'Serbian':
+      return quranIndexSerbianRaw;
+    case 'Shona *':
+      return quranIndexShonaRaw;
+    case 'Sinhalese':
+      return quranIndexSinhaleseRaw;
+    case 'Slovak *':
+      return quranIndexSlovakRaw;
+    case 'Somali':
+      return quranIndexSomaliRaw;
+    case 'Spanish':
+      return quranIndexSpanishRaw;
+    case 'Swahili':
+      return quranIndexSwahiliRaw;
+    case 'Swedish':
+      return quranIndexSwedishRaw;
+    case 'Tagalog':
+      return quranIndexTagalogRaw;
+    case 'Tajik':
+      return quranIndexTajikRaw;
+    case 'Tamil':
+      return quranIndexTamilRaw;
+    case 'Telugu':
+      return quranIndexTeluguRaw;
+    case 'Thai':
+      return quranIndexThaiRaw;
+    case 'Turkish':
+      return quranIndexTurkishRaw;
+    case 'Ukrainian':
+      return quranIndexUkrainianRaw;
+    case 'Urdu':
+      return quranIndexUrduRaw;
+    case 'Uyghur':
+      return quranIndexUyghurRaw;
+    case 'Uzbek':
+      return quranIndexUzbekRaw;
+    case 'Vietnamese':
+      return quranIndexVietnameseRaw;
+    case 'Xhosa *':
+      return quranIndexXhosaRaw;
+    case 'Yao':
+      return quranIndexYaoRaw;
+    case 'Yoruba':
+      return quranIndexYorubaRaw;
+    case 'Zulu *':
+      return quranIndexZuluRaw;
+    default:
+      return quranIndexRaw;
   }
 }
 

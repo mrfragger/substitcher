@@ -14,11 +14,24 @@ import '../models/lut_item.dart';
 import '../services/font_database.dart';
 import '../services/font_loader.dart';
 import '../services/custom_font_metadata.dart';
-import '../data/quran_index.dart';
+import '../quran/quran_index.dart';
 import 'stats_panel.dart';
 import 'quran_panel.dart';
 
-enum PanelMode { chapters, history, playlist, bookmarks, fonts, colors, words, subs, stats, luts, quran}
+enum PanelMode {
+  chapters,
+  history,
+  playlist,
+  bookmarks,
+  fonts,
+  colors,
+  words,
+  subs,
+  stats,
+  luts,
+  quran
+}
+
 enum ColoringMode { words, letters }
 
 class SidePanel extends StatelessWidget {
@@ -53,7 +66,8 @@ class SidePanel extends StatelessWidget {
   final Function(int) onRemoveFromHistory;
   final Function(String) onOpenAudiobook;
   final ScrollController historyScrollController;
-  final Future<Map<String, dynamic>> Function(String, Duration) getHistoryDurationAndProgress;
+  final Future<Map<String, dynamic>> Function(String, Duration)
+      getHistoryDurationAndProgress;
   final List<String> Function() getFilteredPlaylist;
   final ScrollController playlistScrollController;
   final Future<String> Function(String) getAudiobookDuration;
@@ -135,8 +149,10 @@ class SidePanel extends StatelessWidget {
   final VoidCallback onRefreshStats;
   final List<Map<String, dynamic>> Function(DateTime) filterEntriesByDate;
   final List<Map<String, dynamic>> Function(int) filterEntriesByDays;
-  final Map<String, int> Function(List<Map<String, dynamic>>) getFileListenTimes;
-  final List<Map<String, dynamic>> Function(List<Map<String, dynamic>>) groupEntriesByAudiobook;
+  final Map<String, int> Function(List<Map<String, dynamic>>)
+      getFileListenTimes;
+  final List<Map<String, dynamic>> Function(List<Map<String, dynamic>>)
+      groupEntriesByAudiobook;
   final String Function(Duration) formatDurationCompact;
   final String Function(Duration) formatDuration;
   final Function(String, DateTime) deleteAudiobookFromDate;
@@ -425,58 +441,68 @@ class SidePanel extends StatelessWidget {
     );
   }
 
- Widget _buildHeader(BuildContext context) {
-   return Container(
-     padding: const EdgeInsets.all(16),
-     decoration: const BoxDecoration(
-       border: Border(
-         bottom: BorderSide(color: Colors.white24),
-       ),
-     ),
-     child: Row(
-       mainAxisAlignment: MainAxisAlignment.spaceBetween,
-       children: [
-         Tooltip(
-           message: '( ` )',
-           waitDuration: const Duration(milliseconds: 500),
-           child: IconButton(
-             icon: Icon(
-               isCollapsed ? Icons.expand_more : Icons.expand_less,
-               color: Colors.white,
-               size: 20,
-             ),
-             onPressed: onToggleCollapse,
-           ),
-         ),
-         Expanded(
-           child: SingleChildScrollView(
-             scrollDirection: Axis.horizontal,
-             child: Row(
-               children: [
-                 _buildTabButton(context, 'Chapters', PanelMode.chapters, currentAudiobook?.chapters.length ?? 0),
-                 _buildTabButton(context, 'History', PanelMode.history, historyCount),
-                 _buildTabButton(context, 'Playlist', PanelMode.playlist, playlistCount),
-                 _buildTabButton(context, 'Bookmarks', PanelMode.bookmarks, bookmarksCount),
-                 _buildTabButton(context, 'Fonts', PanelMode.fonts, fontsCount),
-                 _buildTabButton(context, 'Colors', PanelMode.colors, ColorPalette.presets.length),
-                 _buildTabButton(context, 'Words', PanelMode.words, frequencyItems.length),
-                 _buildTabButton(context, 'Subs', PanelMode.subs, subsCount),
-                 _buildTabButton(context, 'Stats', PanelMode.stats, statsCount),
-                 _buildTabButton(context, 'LUTs', PanelMode.luts, availableLuts.length),
-                 _buildTabButton(context, 'Quran', PanelMode.quran, quranEntries.length),
-               ],
-             ),
-           ),
-         ),
-         IconButton(
-           icon: const Icon(Icons.close, color: Colors.white),
-           onPressed: onClose,
-           tooltip: 'Close (Esc)',
-         ),
-       ],
-     ),
-   );
- }
+  Widget _buildHeader(BuildContext context) {
+    return Container(
+      padding: const EdgeInsets.all(16),
+      decoration: const BoxDecoration(
+        border: Border(
+          bottom: BorderSide(color: Colors.white24),
+        ),
+      ),
+      child: Row(
+        mainAxisAlignment: MainAxisAlignment.spaceBetween,
+        children: [
+          Tooltip(
+            message: '( ` )',
+            waitDuration: const Duration(milliseconds: 500),
+            child: IconButton(
+              icon: Icon(
+                isCollapsed ? Icons.expand_more : Icons.expand_less,
+                color: Colors.white,
+                size: 20,
+              ),
+              onPressed: onToggleCollapse,
+            ),
+          ),
+          Expanded(
+            child: SingleChildScrollView(
+              scrollDirection: Axis.horizontal,
+              child: Row(
+                children: [
+                  _buildTabButton(context, 'Chapters', PanelMode.chapters,
+                      currentAudiobook?.chapters.length ?? 0),
+                  _buildTabButton(
+                      context, 'History', PanelMode.history, historyCount),
+                  _buildTabButton(
+                      context, 'Playlist', PanelMode.playlist, playlistCount),
+                  _buildTabButton(context, 'Bookmarks', PanelMode.bookmarks,
+                      bookmarksCount),
+                  _buildTabButton(
+                      context, 'Fonts', PanelMode.fonts, fontsCount),
+                  _buildTabButton(context, 'Colors', PanelMode.colors,
+                      ColorPalette.presets.length),
+                  _buildTabButton(
+                      context, 'Words', PanelMode.words, frequencyItems.length),
+                  _buildTabButton(context, 'Subs', PanelMode.subs, subsCount),
+                  _buildTabButton(
+                      context, 'Stats', PanelMode.stats, statsCount),
+                  _buildTabButton(
+                      context, 'LUTs', PanelMode.luts, availableLuts.length),
+                  _buildTabButton(
+                      context, 'Quran', PanelMode.quran, quranEntries.length),
+                ],
+              ),
+            ),
+          ),
+          IconButton(
+            icon: const Icon(Icons.close, color: Colors.white),
+            onPressed: onClose,
+            tooltip: 'Close (Esc)',
+          ),
+        ],
+      ),
+    );
+  }
 
   Widget _buildSearchBar() {
     return Padding(
@@ -492,10 +518,12 @@ class SidePanel extends StatelessWidget {
               decoration: InputDecoration(
                 hintText: '/ Search... (Ctrl/⌘)⌫',
                 hintStyle: const TextStyle(color: Colors.white54),
-                prefixIcon: const Icon(Icons.search, color: Colors.white54, size: 20),
+                prefixIcon:
+                    const Icon(Icons.search, color: Colors.white54, size: 20),
                 suffixIcon: searchQuery.isNotEmpty
                     ? IconButton(
-                        icon: const Icon(Icons.clear, color: Colors.white54, size: 20),
+                        icon: const Icon(Icons.clear,
+                            color: Colors.white54, size: 20),
                         onPressed: () {
                           searchController.clear();
                           onSearchChanged('');
@@ -508,7 +536,8 @@ class SidePanel extends StatelessWidget {
                   borderRadius: BorderRadius.circular(8),
                   borderSide: BorderSide.none,
                 ),
-                contentPadding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                contentPadding:
+                    const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
               ),
               onChanged: onSearchChanged,
             ),
@@ -543,10 +572,12 @@ class SidePanel extends StatelessWidget {
               decoration: InputDecoration(
                 hintText: 'Exclude...',
                 hintStyle: const TextStyle(color: Colors.white54),
-                prefixIcon: const Icon(Icons.block, color: Colors.white54, size: 20),
+                prefixIcon:
+                    const Icon(Icons.block, color: Colors.white54, size: 20),
                 suffixIcon: excludeTerms.isNotEmpty
                     ? IconButton(
-                        icon: const Icon(Icons.clear, color: Colors.white54, size: 20),
+                        icon: const Icon(Icons.clear,
+                            color: Colors.white54, size: 20),
                         onPressed: () {
                           excludeController.clear();
                           onExcludeChanged('');
@@ -559,7 +590,8 @@ class SidePanel extends StatelessWidget {
                   borderRadius: BorderRadius.circular(8),
                   borderSide: BorderSide.none,
                 ),
-                contentPadding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                contentPadding:
+                    const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
               ),
               onChanged: onExcludeChanged,
             ),
@@ -569,11 +601,12 @@ class SidePanel extends StatelessWidget {
     );
   }
 
-  Widget _buildTabButton(BuildContext context, String label, PanelMode mode, int count) {
+  Widget _buildTabButton(
+      BuildContext context, String label, PanelMode mode, int count) {
     final isActive = panelMode == mode;
 
-    final isSpecialCollapsed = isCollapsed &&
-        (mode == PanelMode.fonts || mode == PanelMode.colors);
+    final isSpecialCollapsed =
+        isCollapsed && (mode == PanelMode.fonts || mode == PanelMode.colors);
 
     int? underlineIndex;
     switch (mode) {
@@ -625,7 +658,8 @@ class SidePanel extends StatelessWidget {
           mainAxisSize: MainAxisSize.min,
           children: [
             RichText(
-              text: _buildLabelWithShortcutColor(label, underlineIndex, isSpecialCollapsed),
+              text: _buildLabelWithShortcutColor(
+                  label, underlineIndex, isSpecialCollapsed),
             ),
             const SizedBox(height: 2),
             Text(
@@ -641,7 +675,8 @@ class SidePanel extends StatelessWidget {
     );
   }
 
-  TextSpan _buildLabelWithShortcutColor(String text, int? underlineIndex, bool isSpecialCollapsed) {
+  TextSpan _buildLabelWithShortcutColor(
+      String text, int? underlineIndex, bool isSpecialCollapsed) {
     final children = <TextSpan>[];
     final textColor = isSpecialCollapsed ? Colors.teal : Colors.white;
 
@@ -719,111 +754,122 @@ class SidePanel extends StatelessWidget {
   }
 
   Widget _buildChapterList(BuildContext context) {
-      final filteredChapters = getFilteredChapters();
-      if (filteredChapters.isEmpty) {
-        return const Center(
-          child: Text(
-            'No chapters match search',
-            style: TextStyle(color: Colors.white54),
-          ),
-        );
-      }
-      return Column(
-        children: [
-          Container(
-            padding: const EdgeInsets.all(16),
-            decoration: const BoxDecoration(
-              border: Border(bottom: BorderSide(color: Colors.white24)),
-            ),
-            child: Row(
-              children: [
-                const Text(
-                  'Skip Chapters:',
-                  style: TextStyle(color: Colors.red, fontSize: 12, fontWeight: FontWeight.bold),
-                ),
-                const SizedBox(width: 12),
-                Expanded(
-                  child: TextField(
-                    controller: skipChapterController,
-                    focusNode: skipChapterFocusNode,
-                    style: const TextStyle(color: Colors.white, fontSize: 14),
-                    decoration: InputDecoration(
-                      hintText: 'any of these terms',
-                      hintStyle: const TextStyle(color: Colors.white54),
-                      prefixIcon: const Icon(Icons.skip_next, color: Colors.white54, size: 20),
-                      suffixIcon: skipChapterTerms.isNotEmpty
-                          ? IconButton(
-                              icon: const Icon(Icons.clear, color: Colors.white54, size: 20),
-                              onPressed: () {
-                                skipChapterController.clear();
-                                onSkipChapterChanged('');
-                              },
-                            )
-                          : null,
-                      filled: true,
-                      fillColor: Colors.black26,
-                      border: OutlineInputBorder(
-                        borderRadius: BorderRadius.circular(8),
-                        borderSide: BorderSide.none,
-                      ),
-                      contentPadding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
-                    ),
-                    onChanged: onSkipChapterChanged,
-                  ),
-                ),
-              ],
-            ),
-          ),
-          Expanded(
-            child: ScrollablePositionedList.builder(
-              itemScrollController: chapterScrollController,
-              itemCount: filteredChapters.length,
-              itemBuilder: (context, index) {
-                final chapter = filteredChapters[index];
-                final actualIndex = currentAudiobook!.chapters.indexOf(chapter);
-                final isActive = actualIndex == currentChapterIndex;
-                final shouldSkip = shouldSkipChapter(chapter.title);
-                return ListTile(
-                  leading: CircleAvatar(
-                    backgroundColor: shouldSkip
-                        ? Colors.red.withAlpha(128)
-                        : (isActive ? Colors.deepPurple : const Color(0xFF006064)),
-                    radius: 12,
-                    child: Text(
-                      '${actualIndex + 1}',
-                      style: const TextStyle(fontSize: 10, color: Colors.white),
-                    ),
-                  ),
-                  title: RichText(
-                    text: TextSpan(
-                      style: TextStyle(
-                        color: shouldSkip
-                            ? Colors.red.withAlpha(179)
-                            : (isActive ? Colors.purple[200] : Colors.white),
-                        fontSize: 14,
-                        fontWeight: isActive ? FontWeight.bold : FontWeight.normal,
-                      ),
-                      children: [
-                        TextSpan(text: '$ltr${chapter.title}'),
-                        TextSpan(
-                          text: ' ${chapter.formattedDuration}',
-                          style: TextStyle(
-                            color: shouldSkip ? Colors.red.withAlpha(128) : Colors.lightBlue,
-                            fontWeight: FontWeight.normal,
-                          ),
-                        ),
-                      ],
-                    ),
-                  ),
-                  onTap: () => onJumpToChapter(actualIndex),
-                  tileColor: isActive ? Colors.deepPurple.withAlpha(51) : null,
-                );
-              },
-            ),
-          ),
-        ],
+    final filteredChapters = getFilteredChapters();
+    if (filteredChapters.isEmpty) {
+      return const Center(
+        child: Text(
+          'No chapters match search',
+          style: TextStyle(color: Colors.white54),
+        ),
       );
     }
+    return Column(
+      children: [
+        Container(
+          padding: const EdgeInsets.all(16),
+          decoration: const BoxDecoration(
+            border: Border(bottom: BorderSide(color: Colors.white24)),
+          ),
+          child: Row(
+            children: [
+              const Text(
+                'Skip Chapters:',
+                style: TextStyle(
+                    color: Colors.red,
+                    fontSize: 12,
+                    fontWeight: FontWeight.bold),
+              ),
+              const SizedBox(width: 12),
+              Expanded(
+                child: TextField(
+                  controller: skipChapterController,
+                  focusNode: skipChapterFocusNode,
+                  style: const TextStyle(color: Colors.white, fontSize: 14),
+                  decoration: InputDecoration(
+                    hintText: 'any of these terms',
+                    hintStyle: const TextStyle(color: Colors.white54),
+                    prefixIcon: const Icon(Icons.skip_next,
+                        color: Colors.white54, size: 20),
+                    suffixIcon: skipChapterTerms.isNotEmpty
+                        ? IconButton(
+                            icon: const Icon(Icons.clear,
+                                color: Colors.white54, size: 20),
+                            onPressed: () {
+                              skipChapterController.clear();
+                              onSkipChapterChanged('');
+                            },
+                          )
+                        : null,
+                    filled: true,
+                    fillColor: Colors.black26,
+                    border: OutlineInputBorder(
+                      borderRadius: BorderRadius.circular(8),
+                      borderSide: BorderSide.none,
+                    ),
+                    contentPadding:
+                        const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                  ),
+                  onChanged: onSkipChapterChanged,
+                ),
+              ),
+            ],
+          ),
+        ),
+        Expanded(
+          child: ScrollablePositionedList.builder(
+            itemScrollController: chapterScrollController,
+            itemCount: filteredChapters.length,
+            itemBuilder: (context, index) {
+              final chapter = filteredChapters[index];
+              final actualIndex = currentAudiobook!.chapters.indexOf(chapter);
+              final isActive = actualIndex == currentChapterIndex;
+              final shouldSkip = shouldSkipChapter(chapter.title);
+              return ListTile(
+                leading: CircleAvatar(
+                  backgroundColor: shouldSkip
+                      ? Colors.red.withAlpha(128)
+                      : (isActive
+                          ? Colors.deepPurple
+                          : const Color(0xFF006064)),
+                  radius: 12,
+                  child: Text(
+                    '${actualIndex + 1}',
+                    style: const TextStyle(fontSize: 10, color: Colors.white),
+                  ),
+                ),
+                title: RichText(
+                  text: TextSpan(
+                    style: TextStyle(
+                      color: shouldSkip
+                          ? Colors.red.withAlpha(179)
+                          : (isActive ? Colors.purple[200] : Colors.white),
+                      fontSize: 14,
+                      fontWeight:
+                          isActive ? FontWeight.bold : FontWeight.normal,
+                    ),
+                    children: [
+                      TextSpan(text: '$ltr${chapter.title}'),
+                      TextSpan(
+                        text: ' ${chapter.formattedDuration}',
+                        style: TextStyle(
+                          color: shouldSkip
+                              ? Colors.red.withAlpha(128)
+                              : Colors.lightBlue,
+                          fontWeight: FontWeight.normal,
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+                onTap: () => onJumpToChapter(actualIndex),
+                tileColor: isActive ? Colors.deepPurple.withAlpha(51) : null,
+              );
+            },
+          ),
+        ),
+      ],
+    );
+  }
 
   double _parseProgress(String progressStr) {
     final cleaned = progressStr.replaceAll('%', '').trim();
@@ -846,7 +892,8 @@ class SidePanel extends StatelessWidget {
       itemBuilder: (context, index) {
         final item = filteredHistory[index];
         return FutureBuilder<Map<String, dynamic>>(
-          future: getHistoryDurationAndProgress(item.audiobookPath, item.lastPosition),
+          future: getHistoryDurationAndProgress(
+              item.audiobookPath, item.lastPosition),
           builder: (context, snapshot) {
             return ListTile(
               leading: index < 9
@@ -873,7 +920,8 @@ class SidePanel extends StatelessWidget {
                       radius: 12,
                       child: Text(
                         '${index + 1}',
-                        style: const TextStyle(fontSize: 10, color: Colors.white),
+                        style:
+                            const TextStyle(fontSize: 10, color: Colors.white),
                       ),
                     ),
               title: RichText(
@@ -888,7 +936,9 @@ class SidePanel extends StatelessWidget {
                       ),
                       if (snapshot.data!['progress'] != null &&
                           snapshot.data!['progress'].toString().isNotEmpty &&
-                          _parseProgress(snapshot.data!['progress'].toString()) > 0.9)
+                          _parseProgress(
+                                  snapshot.data!['progress'].toString()) >
+                              0.9)
                         TextSpan(
                           text: ' \u200E${snapshot.data!['progress']}',
                           style: TextStyle(color: Colors.purple[200]),
@@ -927,11 +977,14 @@ class SidePanel extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.stretch,
             children: [
               InkWell(
-                onTap: () => onTogglePlaylistDirectories(!showPlaylistDirectories),
+                onTap: () =>
+                    onTogglePlaylistDirectories(!showPlaylistDirectories),
                 child: Row(
                   children: [
                     Icon(
-                      showPlaylistDirectories ? Icons.expand_less : Icons.expand_more,
+                      showPlaylistDirectories
+                          ? Icons.expand_less
+                          : Icons.expand_more,
                       color: Colors.white70,
                     ),
                     const SizedBox(width: 8),
@@ -945,7 +998,8 @@ class SidePanel extends StatelessWidget {
                     ),
                     const Spacer(),
                     IconButton(
-                      icon: const Icon(Icons.refresh, color: Colors.white70, size: 18),
+                      icon: const Icon(Icons.refresh,
+                          color: Colors.white70, size: 18),
                       onPressed: onRefreshPlaylistDirectory,
                       tooltip: 'Refresh playlist',
                       padding: EdgeInsets.zero,
@@ -954,7 +1008,8 @@ class SidePanel extends StatelessWidget {
                     const SizedBox(width: 8),
                     Text(
                       '${playlistDirectories.length}/10',
-                      style: const TextStyle(color: Colors.white54, fontSize: 12),
+                      style:
+                          const TextStyle(color: Colors.white54, fontSize: 12),
                     ),
                   ],
                 ),
@@ -964,9 +1019,11 @@ class SidePanel extends StatelessWidget {
                 ElevatedButton.icon(
                   onPressed: onAddPlaylistDirectory,
                   icon: const Icon(Icons.add, size: 16),
-                  label: Text('Add Playlist Directory (${playlistDirectories.length}/10)'),
+                  label: Text(
+                      'Add Playlist Directory (${playlistDirectories.length}/10)'),
                   style: ElevatedButton.styleFrom(
-                    padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
+                    padding: const EdgeInsets.symmetric(
+                        horizontal: 16, vertical: 12),
                   ),
                 ),
                 if (playlistDirectories.isNotEmpty) ...[
@@ -975,41 +1032,52 @@ class SidePanel extends StatelessWidget {
                     final index = entry.key;
                     final dir = entry.value;
                     final isActive = activePlaylistIndex == index;
-                      return Padding(
-                        padding: const EdgeInsets.only(bottom: 4),
-                        child: InkWell(
-                          onTap: () => onSetActivePlaylist(index),
-                          child: Container(
-                            padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 6),
-                            decoration: BoxDecoration(
-                              color: isActive ? Colors.deepPurple.withAlpha(102) : Colors.black26,
-                              borderRadius: BorderRadius.circular(4),
-                              border: isActive ? Border.all(color: Colors.deepPurple, width: 2) : null,
-                            ),
-                            child: Row(
-                              children: [
-                                Expanded(
-                                  child: Text(
-                                    shortenPath(dir),
-                                    style: TextStyle(
-                                      color: isActive ? Colors.purple[200] : Colors.white70,
-                                      fontSize: 12,
-                                      fontWeight: isActive ? FontWeight.bold : FontWeight.normal,
-                                    ),
-                                    maxLines: 1,
-                                    overflow: TextOverflow.ellipsis,
-                                  ),
-                                ),
-                                IconButton(
-                                  icon: const Icon(Icons.delete, color: Colors.white54),
-                                  iconSize: 16,
-                                  padding: EdgeInsets.zero,
-                                  constraints: const BoxConstraints(),
-                                  onPressed: () => onRemovePlaylistDirectory(index),
-                                ),
-                              ],
-                            ),
+                    return Padding(
+                      padding: const EdgeInsets.only(bottom: 4),
+                      child: InkWell(
+                        onTap: () => onSetActivePlaylist(index),
+                        child: Container(
+                          padding: const EdgeInsets.symmetric(
+                              horizontal: 8, vertical: 6),
+                          decoration: BoxDecoration(
+                            color: isActive
+                                ? Colors.deepPurple.withAlpha(102)
+                                : Colors.black26,
+                            borderRadius: BorderRadius.circular(4),
+                            border: isActive
+                                ? Border.all(color: Colors.deepPurple, width: 2)
+                                : null,
                           ),
+                          child: Row(
+                            children: [
+                              Expanded(
+                                child: Text(
+                                  shortenPath(dir),
+                                  style: TextStyle(
+                                    color: isActive
+                                        ? Colors.purple[200]
+                                        : Colors.white70,
+                                    fontSize: 12,
+                                    fontWeight: isActive
+                                        ? FontWeight.bold
+                                        : FontWeight.normal,
+                                  ),
+                                  maxLines: 1,
+                                  overflow: TextOverflow.ellipsis,
+                                ),
+                              ),
+                              IconButton(
+                                icon: const Icon(Icons.delete,
+                                    color: Colors.white54),
+                                iconSize: 16,
+                                padding: EdgeInsets.zero,
+                                constraints: const BoxConstraints(),
+                                onPressed: () =>
+                                    onRemovePlaylistDirectory(index),
+                              ),
+                            ],
+                          ),
+                        ),
                       ),
                     );
                   }),
@@ -1057,19 +1125,26 @@ class SidePanel extends StatelessWidget {
                                   ),
                                 )
                               : CircleAvatar(
-                                  backgroundColor: isActive ? Colors.deepPurple : const Color(0xFF006064),
+                                  backgroundColor: isActive
+                                      ? Colors.deepPurple
+                                      : const Color(0xFF006064),
                                   radius: 12,
                                   child: Text(
                                     '${index + 1}',
-                                    style: const TextStyle(fontSize: 10, color: Colors.white),
+                                    style: const TextStyle(
+                                        fontSize: 10, color: Colors.white),
                                   ),
                                 ),
                           title: RichText(
                             text: TextSpan(
                               style: TextStyle(
-                                color: isActive ? Colors.purple[200] : Colors.white,
+                                color: isActive
+                                    ? Colors.purple[200]
+                                    : Colors.white,
                                 fontSize: 14,
-                                fontWeight: isActive ? FontWeight.bold : FontWeight.normal,
+                                fontWeight: isActive
+                                    ? FontWeight.bold
+                                    : FontWeight.normal,
                               ),
                               children: [
                                 TextSpan(text: fileName),
@@ -1085,7 +1160,8 @@ class SidePanel extends StatelessWidget {
                             ),
                           ),
                           onTap: () => onOpenAudiobook(filePath),
-                          tileColor: isActive ? Colors.deepPurple.withAlpha(51) : null,
+                          tileColor:
+                              isActive ? Colors.deepPurple.withAlpha(51) : null,
                         );
                       },
                     );
@@ -1097,191 +1173,205 @@ class SidePanel extends StatelessWidget {
   }
 
   Widget _buildBookmarksList(BuildContext context) {
-      final filteredBookmarks = getFilteredBookmarks();
-      if (filteredBookmarks.isEmpty) {
-        return const Center(
-          child: Text(
-            'No bookmarks yet\nPress n to add',
-            textAlign: TextAlign.center,
-            style: TextStyle(color: Colors.white54),
-          ),
-        );
-      }
+    final filteredBookmarks = getFilteredBookmarks();
+    if (filteredBookmarks.isEmpty) {
+      return const Center(
+        child: Text(
+          'No bookmarks yet\nPress n to add',
+          textAlign: TextAlign.center,
+          style: TextStyle(color: Colors.white54),
+        ),
+      );
+    }
 
-      final pinnedBookmarks = filteredBookmarks.where((b) => b.pinNumber != null).toList()
-        ..sort((a, b) => a.pinNumber!.compareTo(b.pinNumber!));
+    final pinnedBookmarks = filteredBookmarks
+        .where((b) => b.pinNumber != null)
+        .toList()
+      ..sort((a, b) => a.pinNumber!.compareTo(b.pinNumber!));
 
-      final unpinnedBookmarks = filteredBookmarks.where((b) => b.pinNumber == null).toList()
-        ..sort((a, b) {
-          final pathCompare = a.audiobookPath.compareTo(b.audiobookPath);
-          if (pathCompare != 0) return pathCompare;
-          return a.chapterTitle.compareTo(b.chapterTitle);
-        });
+    final unpinnedBookmarks =
+        filteredBookmarks.where((b) => b.pinNumber == null).toList()
+          ..sort((a, b) {
+            final pathCompare = a.audiobookPath.compareTo(b.audiobookPath);
+            if (pathCompare != 0) return pathCompare;
+            return a.chapterTitle.compareTo(b.chapterTitle);
+          });
 
-      final Map<String, List<Bookmark>> groupedUnpinned = {};
-      for (final bookmark in unpinnedBookmarks) {
-        groupedUnpinned.putIfAbsent(bookmark.audiobookPath, () => []).add(bookmark);
-      }
+    final Map<String, List<Bookmark>> groupedUnpinned = {};
+    for (final bookmark in unpinnedBookmarks) {
+      groupedUnpinned
+          .putIfAbsent(bookmark.audiobookPath, () => [])
+          .add(bookmark);
+    }
 
-      final usedPinNumbers = pinnedBookmarks.map((b) => b.pinNumber!).toSet();
-      final availablePinNumbers = [1, 2, 3, 4, 5, 6, 7, 8, 9]
-          .where((num) => !usedPinNumbers.contains(num))
-          .toList();
-      final nextAvailablePin = availablePinNumbers.isNotEmpty ? availablePinNumbers.first : null;
+    final usedPinNumbers = pinnedBookmarks.map((b) => b.pinNumber!).toSet();
+    final availablePinNumbers = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+        .where((num) => !usedPinNumbers.contains(num))
+        .toList();
+    final nextAvailablePin =
+        availablePinNumbers.isNotEmpty ? availablePinNumbers.first : null;
 
-      return ListView(
-        controller: historyScrollController,
-        children: [
-          ...pinnedBookmarks.map((bookmark) {
-            final audiobookName = path.basenameWithoutExtension(bookmark.audiobookPath);
-            final actualIndex = filteredBookmarks.indexOf(bookmark);
+    return ListView(
+      controller: historyScrollController,
+      children: [
+        ...pinnedBookmarks.map((bookmark) {
+          final audiobookName =
+              path.basenameWithoutExtension(bookmark.audiobookPath);
+          final actualIndex = filteredBookmarks.indexOf(bookmark);
 
-            return Container(
-              margin: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
-              decoration: BoxDecoration(
-                color: Colors.grey[850],
-                borderRadius: BorderRadius.circular(8),
-              ),
-              child: ListTile(
-                dense: true,
-                leading: Container(
-                  width: 24,
-                  height: 24,
-                  decoration: BoxDecoration(
-                    color: Colors.deepPurple,
-                    borderRadius: BorderRadius.circular(4),
+          return Container(
+            margin: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+            decoration: BoxDecoration(
+              color: Colors.grey[850],
+              borderRadius: BorderRadius.circular(8),
+            ),
+            child: ListTile(
+              dense: true,
+              leading: Container(
+                width: 24,
+                height: 24,
+                decoration: BoxDecoration(
+                  color: Colors.deepPurple,
+                  borderRadius: BorderRadius.circular(4),
+                ),
+                child: Center(
+                  child: Text(
+                    '${bookmark.pinNumber}',
+                    style: const TextStyle(
+                      color: Colors.white,
+                      fontSize: 12,
+                      fontWeight: FontWeight.bold,
+                    ),
                   ),
-                  child: Center(
-                    child: Text(
-                      '${bookmark.pinNumber}',
-                      style: const TextStyle(
-                        color: Colors.white,
-                        fontSize: 12,
-                        fontWeight: FontWeight.bold,
+                ),
+              ),
+              title: Text(
+                audiobookName,
+                style: const TextStyle(color: Colors.white, fontSize: 13),
+                maxLines: 1,
+                overflow: TextOverflow.ellipsis,
+              ),
+              subtitle: Text(
+                '${bookmark.chapterTitle} • ${_formatDuration(bookmark.position)}',
+                style: const TextStyle(color: Colors.white70, fontSize: 11),
+                maxLines: 1,
+                overflow: TextOverflow.ellipsis,
+              ),
+              trailing: Row(
+                mainAxisSize: MainAxisSize.min,
+                children: [
+                  IconButton(
+                    icon: const Icon(Icons.push_pin,
+                        color: Colors.deepPurple, size: 18),
+                    onPressed: () => onSetPinNumber(actualIndex, null),
+                    tooltip: 'Unpin',
+                  ),
+                  IconButton(
+                    icon: const Icon(Icons.delete,
+                        color: Colors.white54, size: 18),
+                    onPressed: () => onRemoveBookmark(actualIndex),
+                    tooltip: 'Delete',
+                  ),
+                ],
+              ),
+              onTap: () => onJumpToBookmark(bookmark),
+            ),
+          );
+        }),
+        if (pinnedBookmarks.isNotEmpty && unpinnedBookmarks.isNotEmpty)
+          const Divider(color: Colors.white24, thickness: 2, height: 32),
+        ...groupedUnpinned.entries.toList().asMap().entries.map((groupEntry) {
+          final groupIndex = groupEntry.key;
+          final entry = groupEntry.value;
+          final audiobookPath = entry.key;
+          final bookmarks = entry.value;
+          final audiobookName = path.basenameWithoutExtension(audiobookPath);
+
+          return Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Container(
+                padding:
+                    const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
+                color: Colors.grey[850],
+                child: Row(
+                  children: [
+                    CircleAvatar(
+                      backgroundColor: Color(0xFF006064),
+                      radius: 12,
+                      child: Text(
+                        '${groupIndex + 1}',
+                        style:
+                            const TextStyle(fontSize: 10, color: Colors.white),
                       ),
                     ),
-                  ),
-                ),
-                title: Text(
-                  audiobookName,
-                  style: const TextStyle(color: Colors.white, fontSize: 13),
-                  maxLines: 1,
-                  overflow: TextOverflow.ellipsis,
-                ),
-                subtitle: Text(
-                  '${bookmark.chapterTitle} • ${_formatDuration(bookmark.position)}',
-                  style: const TextStyle(color: Colors.white70, fontSize: 11),
-                  maxLines: 1,
-                  overflow: TextOverflow.ellipsis,
-                ),
-                trailing: Row(
-                  mainAxisSize: MainAxisSize.min,
-                  children: [
-                    IconButton(
-                      icon: const Icon(Icons.push_pin, color: Colors.deepPurple, size: 18),
-                      onPressed: () => onSetPinNumber(actualIndex, null),
-                      tooltip: 'Unpin',
-                    ),
-                    IconButton(
-                      icon: const Icon(Icons.delete, color: Colors.white54, size: 18),
-                      onPressed: () => onRemoveBookmark(actualIndex),
-                      tooltip: 'Delete',
+                    const SizedBox(width: 12),
+                    Expanded(
+                      child: Text(
+                        audiobookName,
+                        style: const TextStyle(
+                          color: Colors.white,
+                          fontSize: 13,
+                        ),
+                      ),
                     ),
                   ],
                 ),
-                onTap: () => onJumpToBookmark(bookmark),
               ),
-            );
-          }),
+              ...bookmarks.asMap().entries.map((bookmarkEntry) {
+                final bookmark = bookmarkEntry.value;
+                final actualIndex = filteredBookmarks.indexOf(bookmark);
 
-          if (pinnedBookmarks.isNotEmpty && unpinnedBookmarks.isNotEmpty)
-            const Divider(color: Colors.white24, thickness: 2, height: 32),
-
-          ...groupedUnpinned.entries.toList().asMap().entries.map((groupEntry) {
-            final groupIndex = groupEntry.key;
-            final entry = groupEntry.value;
-            final audiobookPath = entry.key;
-            final bookmarks = entry.value;
-            final audiobookName = path.basenameWithoutExtension(audiobookPath);
-
-            return Column(
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
-                Container(
-                  padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
-                  color: Colors.grey[850],
-                  child: Row(
-                    children: [
-                      CircleAvatar(
-                        backgroundColor: Color(0xFF006064),
-                        radius: 12,
-                        child: Text(
-                          '${groupIndex + 1}',
-                          style: const TextStyle(fontSize: 10, color: Colors.white),
-                        ),
-                      ),
-                      const SizedBox(width: 12),
-                      Expanded(
-                        child: Text(
-                          audiobookName,
-                          style: const TextStyle(
-                            color: Colors.white,
-                            fontSize: 13,
-                          ),
-                        ),
-                      ),
-                    ],
+                return Container(
+                  margin:
+                      const EdgeInsets.symmetric(horizontal: 8, vertical: 2),
+                  decoration: BoxDecoration(
+                    color: Colors.grey[900],
+                    borderRadius: BorderRadius.circular(8),
                   ),
-                ),
-                ...bookmarks.asMap().entries.map((bookmarkEntry) {
-                  final bookmark = bookmarkEntry.value;
-                  final actualIndex = filteredBookmarks.indexOf(bookmark);
-
-                  return Container(
-                    margin: const EdgeInsets.symmetric(horizontal: 8, vertical: 2),
-                    decoration: BoxDecoration(
-                      color: Colors.grey[900],
-                      borderRadius: BorderRadius.circular(8),
+                  child: ListTile(
+                    dense: true,
+                    title: Text(
+                      bookmark.chapterTitle,
+                      style: const TextStyle(color: Colors.white, fontSize: 13),
+                      maxLines: 1,
+                      overflow: TextOverflow.ellipsis,
                     ),
-                    child: ListTile(
-                      dense: true,
-                      title: Text(
-                        bookmark.chapterTitle,
-                        style: const TextStyle(color: Colors.white, fontSize: 13),
-                        maxLines: 1,
-                        overflow: TextOverflow.ellipsis,
-                      ),
-                      subtitle: Text(
-                        _formatDuration(bookmark.position),
-                        style: const TextStyle(color: Colors.white70, fontSize: 11),
-                      ),
-                      trailing: Row(
-                        mainAxisSize: MainAxisSize.min,
-                        children: [
-                          if (nextAvailablePin != null)
-                            IconButton(
-                              icon: const Icon(Icons.push_pin_outlined, color: Colors.white54, size: 18),
-                              onPressed: () => onSetPinNumber(actualIndex, nextAvailablePin),
-                              tooltip: 'Pin to slot $nextAvailablePin',
-                            ),
+                    subtitle: Text(
+                      _formatDuration(bookmark.position),
+                      style:
+                          const TextStyle(color: Colors.white70, fontSize: 11),
+                    ),
+                    trailing: Row(
+                      mainAxisSize: MainAxisSize.min,
+                      children: [
+                        if (nextAvailablePin != null)
                           IconButton(
-                            icon: const Icon(Icons.delete, color: Colors.white54, size: 18),
-                            onPressed: () => onRemoveBookmark(actualIndex),
-                            tooltip: 'Delete',
+                            icon: const Icon(Icons.push_pin_outlined,
+                                color: Colors.white54, size: 18),
+                            onPressed: () =>
+                                onSetPinNumber(actualIndex, nextAvailablePin),
+                            tooltip: 'Pin to slot $nextAvailablePin',
                           ),
-                        ],
-                      ),
-                      onTap: () => onJumpToBookmark(bookmark),
+                        IconButton(
+                          icon: const Icon(Icons.delete,
+                              color: Colors.white54, size: 18),
+                          onPressed: () => onRemoveBookmark(actualIndex),
+                          tooltip: 'Delete',
+                        ),
+                      ],
                     ),
-                  );
-                }),
-                const SizedBox(height: 8),
-              ],
-            );
-          }),
-        ],
-      );
-    }
+                    onTap: () => onJumpToBookmark(bookmark),
+                  ),
+                );
+              }),
+              const SizedBox(height: 8),
+            ],
+          );
+        }),
+      ],
+    );
+  }
 
   String _formatDuration(Duration d) {
     final hours = d.inHours;
@@ -1309,7 +1399,10 @@ class SidePanel extends StatelessWidget {
             children: [
               const Text(
                 'Convert subtitle to:',
-                style: TextStyle(color: Colors.white70, fontSize: 12, fontWeight: FontWeight.bold),
+                style: TextStyle(
+                    color: Colors.white70,
+                    fontSize: 12,
+                    fontWeight: FontWeight.bold),
               ),
               const Spacer(),
               if (conversionType != 'none')
@@ -1365,7 +1458,8 @@ class SidePanel extends StatelessWidget {
                 children: [
                   _buildColoringModeButton(ColoringMode.words, '1 Words', null),
                   const SizedBox(width: 12),
-                  _buildColoringModeButton(ColoringMode.letters, '2 Letters', 'breaks on ligature fonts'),
+                  _buildColoringModeButton(ColoringMode.letters, '2 Letters',
+                      'breaks on ligature fonts'),
                   const SizedBox(width: 24),
                   _buildColorFilterButton('3 All', 'all'),
                   const SizedBox(width: 12),
@@ -1377,15 +1471,18 @@ class SidePanel extends StatelessWidget {
                       child: InkWell(
                         onTap: () => onClearLut(),
                         child: Container(
-                          padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 6),
+                          padding: const EdgeInsets.symmetric(
+                              horizontal: 10, vertical: 6),
                           decoration: BoxDecoration(
                             color: Colors.amber.withAlpha(30),
                             borderRadius: BorderRadius.circular(6),
-                            border: Border.all(color: Colors.amber.withAlpha(100)),
+                            border:
+                                Border.all(color: Colors.amber.withAlpha(100)),
                           ),
                           child: Text(
                             '✦ $selectedLutName',
-                            style: const TextStyle(color: Colors.amber, fontSize: 12),
+                            style: const TextStyle(
+                                color: Colors.amber, fontSize: 12),
                           ),
                         ),
                       ),
@@ -1402,7 +1499,8 @@ class SidePanel extends StatelessWidget {
           color: Colors.black26,
           child: Row(
             children: [
-              const Text('Auto-cycle', style: TextStyle(color: Colors.white54, fontSize: 12)),
+              const Text('Auto-cycle',
+                  style: TextStyle(color: Colors.white54, fontSize: 12)),
               const SizedBox(width: 8),
               DropdownButton<int>(
                 value: colorCycleInterval,
@@ -1410,9 +1508,10 @@ class SidePanel extends StatelessWidget {
                 style: const TextStyle(color: Colors.white70, fontSize: 12),
                 underline: const SizedBox(),
                 isDense: true,
-                items: [2, 3, 4, 6, 8, 10].map((n) =>
-                  DropdownMenuItem(value: n, child: Text('$n cues'))
-                ).toList(),
+                items: [2, 3, 4, 6, 8, 10]
+                    .map((n) =>
+                        DropdownMenuItem(value: n, child: Text('$n cues')))
+                    .toList(),
                 onChanged: (val) {
                   if (val != null) onColorCycleIntervalChanged(val);
                 },
@@ -1421,7 +1520,9 @@ class SidePanel extends StatelessWidget {
               Text(
                 colorCycleActive ? 'Cycling ↓' : 'Off',
                 style: TextStyle(
-                  color: colorCycleActive ? Colors.deepPurple[200] : Colors.white38,
+                  color: colorCycleActive
+                      ? Colors.deepPurple[200]
+                      : Colors.white38,
                   fontSize: 12,
                 ),
               ),
@@ -1433,7 +1534,8 @@ class SidePanel extends StatelessWidget {
                 onChanged: (_) => onColorCycleToggled(),
               ),
               const SizedBox(width: 16),
-              const Text('Filter:', style: TextStyle(color: Colors.white54, fontSize: 12)),
+              const Text('Filter:',
+                  style: TextStyle(color: Colors.white54, fontSize: 12)),
               const SizedBox(width: 8),
               DropdownButton<ColorPaletteFilter>(
                 value: colorCategoryFilter,
@@ -1442,17 +1544,36 @@ class SidePanel extends StatelessWidget {
                 underline: const SizedBox(),
                 isDense: true,
                 items: const [
-                  DropdownMenuItem(value: ColorPaletteFilter.all,          child: Text('All')),
-                  DropdownMenuItem(value: ColorPaletteFilter.twentyColors, child: Text('20 colors')),
-                  DropdownMenuItem(value: ColorPaletteFilter.twelveColors, child: Text('12 colors')),
-                  DropdownMenuItem(value: ColorPaletteFilter.twentyTwelveColors, child: Text('20 + 12 colors')),
-                  DropdownMenuItem(value: ColorPaletteFilter.same,         child: Text('same')),
-                  DropdownMenuItem(value: ColorPaletteFilter.three,        child: Text('three')),
-                  DropdownMenuItem(value: ColorPaletteFilter.samethree,    child: Text('same + three')),
-                  DropdownMenuItem(value: ColorPaletteFilter.fontWhite,    child: Text('font (white)')),
-                  DropdownMenuItem(value: ColorPaletteFilter.fontBlack,    child: Text('font (black)')),
-                  DropdownMenuItem(value: ColorPaletteFilter.borderWhite,  child: Text('border (white)')),
-                  DropdownMenuItem(value: ColorPaletteFilter.borderBlack,  child: Text('border (black)')),
+                  DropdownMenuItem(
+                      value: ColorPaletteFilter.all, child: Text('All')),
+                  DropdownMenuItem(
+                      value: ColorPaletteFilter.twentyColors,
+                      child: Text('20 colors')),
+                  DropdownMenuItem(
+                      value: ColorPaletteFilter.twelveColors,
+                      child: Text('12 colors')),
+                  DropdownMenuItem(
+                      value: ColorPaletteFilter.twentyTwelveColors,
+                      child: Text('20 + 12 colors')),
+                  DropdownMenuItem(
+                      value: ColorPaletteFilter.same, child: Text('same')),
+                  DropdownMenuItem(
+                      value: ColorPaletteFilter.three, child: Text('three')),
+                  DropdownMenuItem(
+                      value: ColorPaletteFilter.samethree,
+                      child: Text('same + three')),
+                  DropdownMenuItem(
+                      value: ColorPaletteFilter.fontWhite,
+                      child: Text('font (white)')),
+                  DropdownMenuItem(
+                      value: ColorPaletteFilter.fontBlack,
+                      child: Text('font (black)')),
+                  DropdownMenuItem(
+                      value: ColorPaletteFilter.borderWhite,
+                      child: Text('border (white)')),
+                  DropdownMenuItem(
+                      value: ColorPaletteFilter.borderBlack,
+                      child: Text('border (black)')),
                 ],
                 onChanged: (filter) {
                   if (filter != null) onColorCategoryFilterChanged(filter);
@@ -1482,7 +1603,8 @@ class SidePanel extends StatelessWidget {
                   final palette = filteredColors[index];
                   final actualIndex = ColorPalette.presets.indexOf(palette);
                   final isSelected = selectedColorIndex == actualIndex;
-                  final isFavorite = favoriteColorPalettes.contains(palette.name);
+                  final isFavorite =
+                      favoriteColorPalettes.contains(palette.name);
                   final showingFavorites = colorFilterMode == 'favorites';
 
                   return InkWell(
@@ -1491,7 +1613,9 @@ class SidePanel extends StatelessWidget {
                       margin: const EdgeInsets.only(bottom: 12),
                       padding: const EdgeInsets.all(12),
                       decoration: BoxDecoration(
-                        color: isSelected ? Colors.deepPurple.withAlpha(51) : Colors.black26,
+                        color: isSelected
+                            ? Colors.deepPurple.withAlpha(51)
+                            : Colors.black26,
                         borderRadius: BorderRadius.circular(8),
                         border: isSelected
                             ? Border.all(color: Colors.deepPurple, width: 2)
@@ -1503,9 +1627,13 @@ class SidePanel extends StatelessWidget {
                             child: Text(
                               palette.name,
                               style: TextStyle(
-                                color: isSelected ? Colors.purple[200] : Colors.white,
+                                color: isSelected
+                                    ? Colors.purple[200]
+                                    : Colors.white,
                                 fontSize: 14,
-                                fontWeight: isSelected ? FontWeight.bold : FontWeight.normal,
+                                fontWeight: isSelected
+                                    ? FontWeight.bold
+                                    : FontWeight.normal,
                               ),
                             ),
                           ),
@@ -1525,15 +1653,15 @@ class SidePanel extends StatelessWidget {
                             )
                           else
                             ...palette.colors.map((color) => Container(
-                              width: 20,
-                              height: 20,
-                              margin: const EdgeInsets.only(left: 4),
-                              decoration: BoxDecoration(
-                                color: parseColor(color),
-                                borderRadius: BorderRadius.circular(4),
-                                border: Border.all(color: Colors.white24),
-                              ),
-                            )),
+                                  width: 20,
+                                  height: 20,
+                                  margin: const EdgeInsets.only(left: 4),
+                                  decoration: BoxDecoration(
+                                    color: parseColor(color),
+                                    borderRadius: BorderRadius.circular(4),
+                                    border: Border.all(color: Colors.white24),
+                                  ),
+                                )),
                           if (palette.strokeColor != null)
                             Container(
                               width: 20,
@@ -1542,7 +1670,8 @@ class SidePanel extends StatelessWidget {
                               decoration: BoxDecoration(
                                 color: parseColor(palette.strokeColor!),
                                 borderRadius: BorderRadius.circular(4),
-                                border: Border.all(color: Colors.white60, width: 1.5),
+                                border: Border.all(
+                                    color: Colors.white60, width: 1.5),
                               ),
                             ),
                           if (palette.shadowColor != null)
@@ -1553,14 +1682,17 @@ class SidePanel extends StatelessWidget {
                               decoration: BoxDecoration(
                                 color: parseColor(palette.shadowColor!),
                                 borderRadius: BorderRadius.circular(4),
-                                border: Border.all(color: Colors.white60, width: 1.5),
+                                border: Border.all(
+                                    color: Colors.white60, width: 1.5),
                               ),
                             ),
                           if (showingFavorites) ...[
                             const SizedBox(width: 12),
                             IconButton(
-                              icon: const Icon(Icons.delete, color: Colors.white54, size: 18),
-                              onPressed: () => onRemoveColorPaletteFavorite(palette.name),
+                              icon: const Icon(Icons.delete,
+                                  color: Colors.white54, size: 18),
+                              onPressed: () =>
+                                  onRemoveColorPaletteFavorite(palette.name),
                               tooltip: 'Remove from favorites',
                               padding: EdgeInsets.zero,
                               constraints: const BoxConstraints(),
@@ -1578,158 +1710,161 @@ class SidePanel extends StatelessWidget {
     );
   }
 
+  Widget _buildLutsList(BuildContext context) {
+    final filteredLuts = getFilteredLuts();
+    final showingFavorites = lutFilterMode == 'favorites';
 
- Widget _buildLutsList(BuildContext context) {
-     final filteredLuts = getFilteredLuts();
-     final showingFavorites = lutFilterMode == 'favorites';
+    return Column(
+      children: [
+        Padding(
+          padding: const EdgeInsets.all(16.0),
+          child: Row(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              _buildLutFilterButton('1 All', 'all'),
+              const SizedBox(width: 12),
+              _buildLutFilterButton('2 Favorites', 'favorites'),
+              const SizedBox(width: 12),
+              ElevatedButton(
+                onPressed: () => onLutSelected(LutItem(name: '', path: ''), -1),
+                style: ElevatedButton.styleFrom(
+                  backgroundColor: Colors.grey[800],
+                  foregroundColor: Colors.white,
+                  padding:
+                      const EdgeInsets.symmetric(horizontal: 20, vertical: 12),
+                ),
+                child: const Text('3 None', style: TextStyle(fontSize: 14)),
+              ),
+              if (selectedLutName != null) ...[
+                const SizedBox(width: 24),
+                Container(
+                  padding:
+                      const EdgeInsets.symmetric(horizontal: 10, vertical: 6),
+                  decoration: BoxDecoration(
+                    color: Colors.amber.withAlpha(30),
+                    borderRadius: BorderRadius.circular(6),
+                    border: Border.all(color: Colors.amber.withAlpha(100)),
+                  ),
+                  child: Text(
+                    '✦ $selectedLutName',
+                    style: const TextStyle(color: Colors.amber, fontSize: 12),
+                  ),
+                ),
+              ],
+            ],
+          ),
+        ),
+        const Divider(color: Colors.white24, height: 1),
+        if (filteredLuts.isEmpty)
+          Expanded(
+            child: Center(
+              child: Text(
+                showingFavorites
+                    ? 'No favorite LUTs yet.\nPress ★ on any LUT to add.'
+                    : 'No LUTs found.',
+                textAlign: TextAlign.center,
+                style: const TextStyle(color: Colors.white54, fontSize: 12),
+              ),
+            ),
+          )
+        else
+          Expanded(
+            child: ScrollablePositionedList.builder(
+              itemScrollController: lutItemScrollController,
+              padding: const EdgeInsets.all(16),
+              itemCount: filteredLuts.length,
+              itemBuilder: (context, index) {
+                final lut = filteredLuts[index];
+                final actualIndex = availableLuts.indexOf(lut);
+                final isSelected = selectedLutIndex == actualIndex;
+                final isFavorite = favoriteLuts.contains(lut.name);
+                return InkWell(
+                  onTap: () => onLutSelected(lut, actualIndex),
+                  child: Container(
+                    margin: const EdgeInsets.only(bottom: 8),
+                    padding: const EdgeInsets.symmetric(
+                        horizontal: 12, vertical: 10),
+                    decoration: BoxDecoration(
+                      color: isSelected
+                          ? Colors.amber.withAlpha(30)
+                          : Colors.black26,
+                      borderRadius: BorderRadius.circular(8),
+                      border: isSelected
+                          ? Border.all(color: Colors.amber, width: 2)
+                          : null,
+                    ),
+                    child: Row(
+                      children: [
+                        Expanded(
+                          child: Text(
+                            lut.name.replaceAll('.cube', ''),
+                            style: TextStyle(
+                              color: isSelected ? Colors.amber : Colors.white,
+                              fontSize: 14,
+                              fontWeight: isSelected
+                                  ? FontWeight.bold
+                                  : FontWeight.normal,
+                            ),
+                          ),
+                        ),
+                        IconButton(
+                          icon: Icon(
+                            isFavorite ? Icons.star : Icons.star_border,
+                            color: isFavorite ? Colors.amber : Colors.white38,
+                            size: 18,
+                          ),
+                          onPressed: () => isFavorite
+                              ? onRemoveLutFavorite(lut.name)
+                              : onAddLutFavorite(lut.name),
+                          padding: EdgeInsets.zero,
+                          constraints: const BoxConstraints(),
+                          tooltip: isFavorite
+                              ? 'Remove from favorites'
+                              : 'Add to favorites',
+                        ),
+                        if (showingFavorites) ...[
+                          const SizedBox(width: 8),
+                          IconButton(
+                            icon: const Icon(Icons.delete,
+                                color: Colors.white54, size: 18),
+                            onPressed: () => onRemoveLutFavorite(lut.name),
+                            padding: EdgeInsets.zero,
+                            constraints: const BoxConstraints(),
+                            tooltip: 'Remove from favorites',
+                          ),
+                        ],
+                      ],
+                    ),
+                  ),
+                );
+              },
+            ),
+          ),
+      ],
+    );
+  }
 
-     return Column(
-       children: [
-         Padding(
-           padding: const EdgeInsets.all(16.0),
-           child: Row(
-             mainAxisAlignment: MainAxisAlignment.center,
-             children: [
-               _buildLutFilterButton('1 All', 'all'),
-               const SizedBox(width: 12),
-               _buildLutFilterButton('2 Favorites', 'favorites'),
-               const SizedBox(width: 12),
-               ElevatedButton(
-                 onPressed: () => onLutSelected(LutItem(name: '', path: ''), -1),
-                 style: ElevatedButton.styleFrom(
-                   backgroundColor: Colors.grey[800],
-                   foregroundColor: Colors.white,
-                   padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 12),
-                 ),
-                 child: const Text('3 None', style: TextStyle(fontSize: 14)),
-               ),
-               if (selectedLutName != null) ...[
-                 const SizedBox(width: 24),
-                 Container(
-                   padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 6),
-                   decoration: BoxDecoration(
-                     color: Colors.amber.withAlpha(30),
-                     borderRadius: BorderRadius.circular(6),
-                     border: Border.all(color: Colors.amber.withAlpha(100)),
-                   ),
-                   child: Text(
-                     '✦ $selectedLutName',
-                     style: const TextStyle(color: Colors.amber, fontSize: 12),
-                   ),
-                 ),
-               ],
-             ],
-           ),
-         ),
-         const Divider(color: Colors.white24, height: 1),
-         if (filteredLuts.isEmpty)
-           Expanded(
-             child: Center(
-               child: Text(
-                 showingFavorites
-                     ? 'No favorite LUTs yet.\nPress ★ on any LUT to add.'
-                     : 'No LUTs found.',
-                 textAlign: TextAlign.center,
-                 style: const TextStyle(color: Colors.white54, fontSize: 12),
-               ),
-             ),
-           )
-         else
-         Expanded(
-           child: ScrollablePositionedList.builder(
-             itemScrollController: lutItemScrollController,
-             padding: const EdgeInsets.all(16),
-             itemCount: filteredLuts.length,
-             itemBuilder: (context, index) {
-               final lut = filteredLuts[index];
-               final actualIndex = availableLuts.indexOf(lut);
-               final isSelected = selectedLutIndex == actualIndex;
-               final isFavorite = favoriteLuts.contains(lut.name);
-               return InkWell(
-                 onTap: () => onLutSelected(lut, actualIndex),
-                 child: Container(
-                   margin: const EdgeInsets.only(bottom: 8),
-                   padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 10),
-                   decoration: BoxDecoration(
-                     color: isSelected
-                         ? Colors.amber.withAlpha(30)
-                         : Colors.black26,
-                     borderRadius: BorderRadius.circular(8),
-                     border: isSelected
-                         ? Border.all(color: Colors.amber, width: 2)
-                         : null,
-                   ),
-                   child: Row(
-                     children: [
-                       Expanded(
-                         child: Text(
-                           lut.name.replaceAll('.cube', ''),
-                           style: TextStyle(
-                             color: isSelected ? Colors.amber : Colors.white,
-                             fontSize: 14,
-                             fontWeight: isSelected
-                                 ? FontWeight.bold
-                                 : FontWeight.normal,
-                           ),
-                         ),
-                       ),
-                       IconButton(
-                         icon: Icon(
-                           isFavorite ? Icons.star : Icons.star_border,
-                           color: isFavorite ? Colors.amber : Colors.white38,
-                           size: 18,
-                         ),
-                         onPressed: () => isFavorite
-                             ? onRemoveLutFavorite(lut.name)
-                             : onAddLutFavorite(lut.name),
-                         padding: EdgeInsets.zero,
-                         constraints: const BoxConstraints(),
-                         tooltip: isFavorite
-                             ? 'Remove from favorites'
-                             : 'Add to favorites',
-                       ),
-                       if (showingFavorites) ...[
-                         const SizedBox(width: 8),
-                         IconButton(
-                           icon: const Icon(Icons.delete,
-                               color: Colors.white54, size: 18),
-                           onPressed: () => onRemoveLutFavorite(lut.name),
-                           padding: EdgeInsets.zero,
-                           constraints: const BoxConstraints(),
-                           tooltip: 'Remove from favorites',
-                         ),
-                       ],
-                     ],
-                   ),
-                 ),
-               );
-             },
-           ),
-         ),
-       ],
-     );
-   }
+  Widget _buildLutFilterButton(String label, String mode) {
+    final isActive = lutFilterMode == mode;
+    return ElevatedButton(
+      onPressed: () => onLutFilterModeChanged(mode),
+      style: ElevatedButton.styleFrom(
+        backgroundColor: isActive ? Colors.amber[800] : Colors.grey[800],
+        foregroundColor: Colors.white,
+        padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 12),
+      ),
+      child: Text(
+        label,
+        style: TextStyle(
+          fontSize: 14,
+          fontWeight: isActive ? FontWeight.bold : FontWeight.normal,
+        ),
+      ),
+    );
+  }
 
-   Widget _buildLutFilterButton(String label, String mode) {
-     final isActive = lutFilterMode == mode;
-     return ElevatedButton(
-       onPressed: () => onLutFilterModeChanged(mode),
-       style: ElevatedButton.styleFrom(
-         backgroundColor: isActive ? Colors.amber[800] : Colors.grey[800],
-         foregroundColor: Colors.white,
-         padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 12),
-       ),
-       child: Text(
-         label,
-         style: TextStyle(
-           fontSize: 14,
-           fontWeight: isActive ? FontWeight.bold : FontWeight.normal,
-         ),
-       ),
-     );
-   }
-
-  Widget _buildColoringModeButton(ColoringMode mode, String label, String? tooltip) {
+  Widget _buildColoringModeButton(
+      ColoringMode mode, String label, String? tooltip) {
     final isActive = coloringMode == mode;
     return ElevatedButton(
       onPressed: () {
@@ -1799,11 +1934,12 @@ class SidePanel extends StatelessWidget {
       groupedByWordCount.putIfAbsent(item.wordCount, () => []).add(item);
     }
 
-    final orderedKeys = groupedByWordCount.keys.toList()..sort((a, b) {
-      if (a == 1) return -1;
-      if (b == 1) return 1;
-      return b.compareTo(a);
-    });
+    final orderedKeys = groupedByWordCount.keys.toList()
+      ..sort((a, b) {
+        if (a == 1) return -1;
+        if (b == 1) return 1;
+        return b.compareTo(a);
+      });
 
     final limitedGroups = <int, List<FrequencyItem>>{};
 
@@ -1857,7 +1993,8 @@ class SidePanel extends StatelessWidget {
                             height: 16,
                             child: CircularProgressIndicator(
                               strokeWidth: 2,
-                              valueColor: AlwaysStoppedAnimation<Color>(Colors.white),
+                              valueColor:
+                                  AlwaysStoppedAnimation<Color>(Colors.white),
                             ),
                           )
                         : const Icon(Icons.file_download),
@@ -1865,7 +2002,8 @@ class SidePanel extends StatelessWidget {
                     style: ElevatedButton.styleFrom(
                       backgroundColor: Colors.blueGrey[700],
                       foregroundColor: Colors.white,
-                      padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 16),
+                      padding: const EdgeInsets.symmetric(
+                          horizontal: 24, vertical: 16),
                     ),
                   ),
                   const SizedBox(width: 8),
@@ -1875,15 +2013,22 @@ class SidePanel extends StatelessWidget {
                           ? 'Chapter index loaded'
                           : 'Index all chapters in current playlist',
                       child: ElevatedButton.icon(
-                        onPressed: isIndexingChapters ? null : (hasChapterIndex ? null : onIndexPlaylistChapters),
+                        onPressed: isIndexingChapters
+                            ? null
+                            : (hasChapterIndex
+                                ? null
+                                : onIndexPlaylistChapters),
                         icon: isIndexingChapters
                             ? const SizedBox(
                                 width: 16,
                                 height: 16,
-                                child: CircularProgressIndicator(strokeWidth: 2, color: Colors.white),
+                                child: CircularProgressIndicator(
+                                    strokeWidth: 2, color: Colors.white),
                               )
                             : Icon(
-                                hasChapterIndex ? Icons.check_circle : Icons.manage_search,
+                                hasChapterIndex
+                                    ? Icons.check_circle
+                                    : Icons.manage_search,
                                 color: Colors.white,
                               ),
                         label: Text(hasChapterIndex
@@ -1919,7 +2064,8 @@ class SidePanel extends StatelessWidget {
                       Expanded(
                         child: Text(
                           exportStatus,
-                          style: const TextStyle(color: Colors.white70, fontSize: 14),
+                          style: const TextStyle(
+                              color: Colors.white70, fontSize: 14),
                         ),
                       ),
                     ],
@@ -1929,7 +2075,9 @@ class SidePanel extends StatelessWidget {
               if (isIndexingChapters) ...[
                 const SizedBox(height: 8),
                 LinearProgressIndicator(
-                  value: totalFilesToIndex > 0 ? indexedFiles / totalFilesToIndex : 0,
+                  value: totalFilesToIndex > 0
+                      ? indexedFiles / totalFilesToIndex
+                      : 0,
                 ),
                 const SizedBox(height: 4),
                 Text(
@@ -1946,14 +2094,17 @@ class SidePanel extends StatelessWidget {
                       child: TextField(
                         controller: chapterSearchController,
                         focusNode: chapterSearchFocusNode,
-                        style: const TextStyle(color: Colors.white, fontSize: 14),
+                        style:
+                            const TextStyle(color: Colors.white, fontSize: 14),
                         decoration: InputDecoration(
                           hintText: 'Search playlist chapters...',
                           hintStyle: const TextStyle(color: Colors.white54),
-                          prefixIcon: const Icon(Icons.search, color: Colors.white54, size: 20),
+                          prefixIcon: const Icon(Icons.search,
+                              color: Colors.white54, size: 20),
                           suffixIcon: chapterSearchQuery.isNotEmpty
                               ? IconButton(
-                                  icon: const Icon(Icons.clear, color: Colors.white54, size: 20),
+                                  icon: const Icon(Icons.clear,
+                                      color: Colors.white54, size: 20),
                                   onPressed: () {
                                     chapterSearchController.clear();
                                     onSearchPlaylistChapters('');
@@ -1966,7 +2117,8 @@ class SidePanel extends StatelessWidget {
                             borderRadius: BorderRadius.circular(8),
                             borderSide: BorderSide.none,
                           ),
-                          contentPadding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                          contentPadding: const EdgeInsets.symmetric(
+                              horizontal: 12, vertical: 8),
                         ),
                         onChanged: onSearchPlaylistChapters,
                       ),
@@ -1978,7 +2130,8 @@ class SidePanel extends StatelessWidget {
                       onSelected: (selected) => onChapterSearchAndSelected(),
                       selectedColor: Colors.lightBlue,
                       labelStyle: TextStyle(
-                        color: chapterSearchUseAnd ? Colors.white : Colors.white54,
+                        color:
+                            chapterSearchUseAnd ? Colors.white : Colors.white54,
                       ),
                     ),
                     const SizedBox(width: 4),
@@ -1988,7 +2141,9 @@ class SidePanel extends StatelessWidget {
                       onSelected: (selected) => onChapterSearchOrSelected(),
                       selectedColor: Colors.lightBlue,
                       labelStyle: TextStyle(
-                        color: !chapterSearchUseAnd ? Colors.white : Colors.white54,
+                        color: !chapterSearchUseAnd
+                            ? Colors.white
+                            : Colors.white54,
                       ),
                     ),
                     const SizedBox(width: 8),
@@ -1997,14 +2152,17 @@ class SidePanel extends StatelessWidget {
                       child: TextField(
                         controller: chapterExcludeController,
                         focusNode: chapterExcludeFocusNode,
-                        style: const TextStyle(color: Colors.white, fontSize: 14),
+                        style:
+                            const TextStyle(color: Colors.white, fontSize: 14),
                         decoration: InputDecoration(
                           hintText: 'Exclude...',
                           hintStyle: const TextStyle(color: Colors.white54),
-                          prefixIcon: const Icon(Icons.block, color: Colors.white54, size: 20),
+                          prefixIcon: const Icon(Icons.block,
+                              color: Colors.white54, size: 20),
                           suffixIcon: chapterExcludeTerms.isNotEmpty
                               ? IconButton(
-                                  icon: const Icon(Icons.clear, color: Colors.white54, size: 20),
+                                  icon: const Icon(Icons.clear,
+                                      color: Colors.white54, size: 20),
                                   onPressed: () {
                                     chapterExcludeController.clear();
                                     onChapterExcludeChanged('');
@@ -2017,7 +2175,8 @@ class SidePanel extends StatelessWidget {
                             borderRadius: BorderRadius.circular(8),
                             borderSide: BorderSide.none,
                           ),
-                          contentPadding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                          contentPadding: const EdgeInsets.symmetric(
+                              horizontal: 12, vertical: 8),
                         ),
                         onChanged: onChapterExcludeChanged,
                       ),
@@ -2036,95 +2195,104 @@ class SidePanel extends StatelessWidget {
   }
 
   Widget _buildFontsList(BuildContext context) {
-      return Row(
-        children: [
-          Expanded(
-            flex: 3,
-            child: Column(
-              children: [
-                if (subsSearchQuery.isEmpty)
-                  Padding(
-                    padding: const EdgeInsets.all(16),
-                    child: Row(
-                      mainAxisAlignment: MainAxisAlignment.center,
-                      children: [
-                        Tooltip(
-                          message: '( = )',
-                          child: TextButton.icon(
-                            onPressed: onShowGlyphViewer,
-                            icon: const Icon(Icons.grid_on, size: 16, color: Colors.deepPurple),
-                            label: const Text(
-                              'View Glyphs',
-                              style: TextStyle(color: Colors.deepPurple, fontSize: 14),
-                            ),
-                            style: TextButton.styleFrom(
-                              padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
-                            ),
+    return Row(
+      children: [
+        Expanded(
+          flex: 3,
+          child: Column(
+            children: [
+              if (subsSearchQuery.isEmpty)
+                Padding(
+                  padding: const EdgeInsets.all(16),
+                  child: Row(
+                    mainAxisAlignment: MainAxisAlignment.center,
+                    children: [
+                      Tooltip(
+                        message: '( = )',
+                        child: TextButton.icon(
+                          onPressed: onShowGlyphViewer,
+                          icon: const Icon(Icons.grid_on,
+                              size: 16, color: Colors.deepPurple),
+                          label: const Text(
+                            'View Glyphs',
+                            style: TextStyle(
+                                color: Colors.deepPurple, fontSize: 14),
+                          ),
+                          style: TextButton.styleFrom(
+                            padding: const EdgeInsets.symmetric(
+                                horizontal: 12, vertical: 8),
                           ),
                         ),
-                        const SizedBox(width: 8),
-                        const Text(
-                          'Use ↑↓ arrow keys, font size ⌥↑/↓',
-                          style: TextStyle(color: Colors.white54, fontSize: 14),
-                        ),
-                      ],
-                    ),
-                  ),
-                Container(
-                  padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 4),
-                  color: Colors.black26,
-                  child: Row(
-                    children: [
-                      const Text('Auto-cycle', style: TextStyle(color: Colors.white54, fontSize: 12)),
-                      const SizedBox(width: 8),
-                      DropdownButton<int>(
-                        value: fontCycleInterval,
-                        dropdownColor: const Color(0xFF2A2A2A),
-                        style: const TextStyle(color: Colors.white70, fontSize: 12),
-                        underline: const SizedBox(),
-                        isDense: true,
-                        items: [2, 3, 4, 6, 8, 10].map((n) =>
-                          DropdownMenuItem(value: n, child: Text('$n cues'))
-                        ).toList(),
-                        onChanged: (val) {
-                          if (val != null) onFontCycleIntervalChanged(val);
-                        },
-                      ),
-                      const Spacer(),
-                      Text(
-                        fontCycleActive ? 'Cycling ↓' : 'Off',
-                        style: TextStyle(
-                          color: fontCycleActive ? Colors.deepPurple[200] : Colors.white38,
-                          fontSize: 12,
-                        ),
                       ),
                       const SizedBox(width: 8),
-                      Switch(
-                        value: fontCycleActive,
-                        activeThumbColor: Colors.deepPurple,
-                        materialTapTargetSize: MaterialTapTargetSize.shrinkWrap,
-                        onChanged: (_) => onFontCycleToggled(),
+                      const Text(
+                        'Use ↑↓ arrow keys, font size ⌥↑/↓',
+                        style: TextStyle(color: Colors.white54, fontSize: 14),
                       ),
                     ],
                   ),
                 ),
-                Expanded(
-                  child: _buildFontListView(context),
+              Container(
+                padding:
+                    const EdgeInsets.symmetric(horizontal: 16, vertical: 4),
+                color: Colors.black26,
+                child: Row(
+                  children: [
+                    const Text('Auto-cycle',
+                        style: TextStyle(color: Colors.white54, fontSize: 12)),
+                    const SizedBox(width: 8),
+                    DropdownButton<int>(
+                      value: fontCycleInterval,
+                      dropdownColor: const Color(0xFF2A2A2A),
+                      style:
+                          const TextStyle(color: Colors.white70, fontSize: 12),
+                      underline: const SizedBox(),
+                      isDense: true,
+                      items: [2, 3, 4, 6, 8, 10]
+                          .map((n) => DropdownMenuItem(
+                              value: n, child: Text('$n cues')))
+                          .toList(),
+                      onChanged: (val) {
+                        if (val != null) onFontCycleIntervalChanged(val);
+                      },
+                    ),
+                    const Spacer(),
+                    Text(
+                      fontCycleActive ? 'Cycling ↓' : 'Off',
+                      style: TextStyle(
+                        color: fontCycleActive
+                            ? Colors.deepPurple[200]
+                            : Colors.white38,
+                        fontSize: 12,
+                      ),
+                    ),
+                    const SizedBox(width: 8),
+                    Switch(
+                      value: fontCycleActive,
+                      activeThumbColor: Colors.deepPurple,
+                      materialTapTargetSize: MaterialTapTargetSize.shrinkWrap,
+                      onChanged: (_) => onFontCycleToggled(),
+                    ),
+                  ],
                 ),
-              ],
-            ),
+              ),
+              Expanded(
+                child: _buildFontListView(context),
+              ),
+            ],
           ),
-          Container(
-            width: 1,
-            color: Colors.white24,
-          ),
-          Expanded(
-            flex: 2,
-            child: _buildCategoryTree(context),
-          ),
-        ],
-      );
-    }
+        ),
+        Container(
+          width: 1,
+          color: Colors.white24,
+        ),
+        Expanded(
+          flex: 2,
+          child: _buildCategoryTree(context),
+        ),
+      ],
+    );
+  }
 
   Widget _buildFontListView(BuildContext context) {
     final filteredFonts = getFilteredFonts();
@@ -2134,7 +2302,8 @@ class SidePanel extends StatelessWidget {
       );
     }
 
-    final bool showingFavorites = selectedMainCategory == FontCategory.favorites;
+    final bool showingFavorites =
+        selectedMainCategory == FontCategory.favorites;
 
     return ListView.builder(
       controller: fontScrollController,
@@ -2146,7 +2315,9 @@ class SidePanel extends StatelessWidget {
         final isSelected = fontName == selectedFont;
         final isCustomFont = CustomFontLoader.customFonts.contains(fontName);
         final isLoaded = CustomFontLoader.loadedFonts.contains(fontName);
-        final customMetadata = isCustomFont ? CustomFontMetadataManager.getMetadata(fontName) : null;
+        final customMetadata = isCustomFont
+            ? CustomFontMetadataManager.getMetadata(fontName)
+            : null;
 
         String? subtitleText;
 
@@ -2193,9 +2364,11 @@ class SidePanel extends StatelessWidget {
                   child: InkWell(
                     onTap: () {
                       final query = Uri.encodeComponent(fontName.toLowerCase());
-                      launchUrl(Uri.parse('https://www.fontspace.com/search?q=$query'));
+                      launchUrl(Uri.parse(
+                          'https://www.fontspace.com/search?q=$query'));
                     },
-                    child: const Icon(Icons.link, color: Colors.yellow, size: 16),
+                    child:
+                        const Icon(Icons.link, color: Colors.yellow, size: 16),
                   ),
                 ),
               if (isCustomFont)
@@ -2206,7 +2379,8 @@ class SidePanel extends StatelessWidget {
                 ),
               if (showingFavorites)
                 IconButton(
-                  icon: const Icon(Icons.delete, color: Colors.white54, size: 18),
+                  icon:
+                      const Icon(Icons.delete, color: Colors.white54, size: 18),
                   onPressed: () => onRemoveFavorite(fontName),
                   tooltip: 'Remove from favorites',
                 ),
@@ -2219,7 +2393,8 @@ class SidePanel extends StatelessWidget {
     );
   }
 
-  Future<void> _showFontMetadataDialog(BuildContext context, String fontName) async {
+  Future<void> _showFontMetadataDialog(
+      BuildContext context, String fontName) async {
     final existing = CustomFontMetadataManager.getMetadata(fontName);
     String baseType = existing?.baseType ?? 'original';
     String caseType = existing?.caseType ?? '';
@@ -2237,7 +2412,8 @@ class SidePanel extends StatelessWidget {
         builder: (context, setDialogState) => Focus(
           autofocus: true,
           onKeyEvent: (node, event) {
-            if (event is KeyDownEvent && event.logicalKey == LogicalKeyboardKey.enter) {
+            if (event is KeyDownEvent &&
+                event.logicalKey == LogicalKeyboardKey.enter) {
               saveAndClose();
               return KeyEventResult.handled;
             }
@@ -2268,7 +2444,8 @@ class SidePanel extends StatelessWidget {
                         selected: baseType == 'original',
                         selectedColor: Colors.deepPurple,
                         onSelected: (selected) {
-                          if (selected) setDialogState(() => baseType = 'original');
+                          if (selected)
+                            setDialogState(() => baseType = 'original');
                         },
                       ),
                       ChoiceChip(
@@ -2276,7 +2453,8 @@ class SidePanel extends StatelessWidget {
                         selected: baseType == 'demo123',
                         selectedColor: Colors.deepPurple,
                         onSelected: (selected) {
-                          if (selected) setDialogState(() => baseType = 'demo123');
+                          if (selected)
+                            setDialogState(() => baseType = 'demo123');
                         },
                       ),
                       ChoiceChip(
@@ -2319,7 +2497,8 @@ class SidePanel extends StatelessWidget {
                         selected: caseType == 'UPPERCASE',
                         selectedColor: Colors.deepPurple,
                         onSelected: (selected) {
-                          if (selected) setDialogState(() => caseType = 'UPPERCASE');
+                          if (selected)
+                            setDialogState(() => caseType = 'UPPERCASE');
                         },
                       ),
                       ChoiceChip(
@@ -2327,7 +2506,8 @@ class SidePanel extends StatelessWidget {
                         selected: caseType == 'MustBeUppercase',
                         selectedColor: Colors.deepPurple,
                         onSelected: (selected) {
-                          if (selected) setDialogState(() => caseType = 'MustBeUppercase');
+                          if (selected)
+                            setDialogState(() => caseType = 'MustBeUppercase');
                         },
                       ),
                     ],
@@ -2365,7 +2545,8 @@ class SidePanel extends StatelessWidget {
                   onPressed: () {
                     Navigator.pop(context, {'action': 'delete'});
                   },
-                  child: const Text('Remove Label', style: TextStyle(color: Colors.red)),
+                  child: const Text('Remove Label',
+                      style: TextStyle(color: Colors.red)),
                 ),
               TextButton(
                 onPressed: () => Navigator.pop(context),
@@ -2373,7 +2554,8 @@ class SidePanel extends StatelessWidget {
               ),
               ElevatedButton(
                 onPressed: saveAndClose,
-                style: ElevatedButton.styleFrom(backgroundColor: Colors.deepPurple),
+                style: ElevatedButton.styleFrom(
+                    backgroundColor: Colors.deepPurple),
                 child: const Text('Save'),
               ),
             ],
@@ -2411,12 +2593,14 @@ class SidePanel extends StatelessWidget {
             _buildStudioButton('177studio', FontCategory.studio177),
             _buildStudioButton('Various', FontCategory.various),
           ],
-          _buildSubCategoryButton('missingligatures', FontCategory.missingLigatures),
+          _buildSubCategoryButton(
+              'missingligatures', FontCategory.missingLigatures),
           if (selectedSubCategory == FontCategory.missingLigatures) ...[
             _buildStudioButton('177studio', FontCategory.studio177),
           ],
           _buildSubCategoryButton('alternates', FontCategory.alternates),
-          _buildSubCategoryButton('MustBeUPPERCASE', FontCategory.mustBeUppercase),
+          _buildSubCategoryButton(
+              'MustBeUPPERCASE', FontCategory.mustBeUppercase),
           if (selectedSubCategory == FontCategory.mustBeUppercase) ...[
             _buildStudioButton('177studio', FontCategory.studio177),
           ],
@@ -2429,12 +2613,14 @@ class SidePanel extends StatelessWidget {
           if (selectedSubCategory == FontCategory.ligatures) ...[
             _buildStudioButton('Gluk', FontCategory.gluk),
           ],
-          _buildSubCategoryButton('Various', null, studio: FontCategory.various),
+          _buildSubCategoryButton('Various', null,
+              studio: FontCategory.various),
           _buildSubCategoryButton('foreign', FontCategory.foreign),
           _buildSubCategoryButton('UPPERCASE', FontCategory.uppercase),
         ],
         const Divider(color: Colors.white24),
-        _buildCategoryButton('favorites (⇧F)', FontCategory.favorites, null, null),
+        _buildCategoryButton(
+            'favorites (⇧F)', FontCategory.favorites, null, null),
         if (selectedMainCategory == FontCategory.favorites) ...[
           ..._buildFavoritesTree(),
         ],
@@ -2453,11 +2639,15 @@ class SidePanel extends StatelessWidget {
             children: [
               const Text(
                 'Automatic Conversion',
-                style: TextStyle(color: Colors.white70, fontSize: 13, fontWeight: FontWeight.bold),
+                style: TextStyle(
+                    color: Colors.white70,
+                    fontSize: 13,
+                    fontWeight: FontWeight.bold),
               ),
               const SizedBox(height: 8),
               CheckboxListTile(
-                title: const Text('alternates', style: TextStyle(color: Colors.white, fontSize: 13)),
+                title: const Text('alternates',
+                    style: TextStyle(color: Colors.white, fontSize: 13)),
                 value: autoConvertAlternates,
                 onChanged: onAutoConvertAlternatesChanged,
                 activeColor: Colors.deepPurple,
@@ -2465,7 +2655,8 @@ class SidePanel extends StatelessWidget {
                 dense: true,
               ),
               CheckboxListTile(
-                title: const Text('missing', style: TextStyle(color: Colors.white, fontSize: 13)),
+                title: const Text('missing',
+                    style: TextStyle(color: Colors.white, fontSize: 13)),
                 value: autoConvertMissing,
                 onChanged: onAutoConvertMissingChanged,
                 activeColor: Colors.deepPurple,
@@ -2482,7 +2673,8 @@ class SidePanel extends StatelessWidget {
                       icon: const Icon(Icons.folder, size: 16),
                       label: const Text('Set Font Dir 1'),
                       style: ElevatedButton.styleFrom(
-                        padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 12),
+                        padding: const EdgeInsets.symmetric(
+                            horizontal: 12, vertical: 12),
                         alignment: Alignment.centerLeft,
                       ),
                     ),
@@ -2490,7 +2682,8 @@ class SidePanel extends StatelessWidget {
                   if (customFontDirectory != null) ...[
                     const SizedBox(width: 8),
                     IconButton(
-                      icon: const Icon(Icons.refresh, color: Colors.white70, size: 16),
+                      icon: const Icon(Icons.refresh,
+                          color: Colors.white70, size: 16),
                       onPressed: onRefreshCustomFonts,
                       tooltip: 'Refresh custom1 fonts',
                       padding: EdgeInsets.zero,
@@ -2508,7 +2701,8 @@ class SidePanel extends StatelessWidget {
                     padding: const EdgeInsets.only(left: 8),
                     child: Text(
                       path.basename(customFontDirectory!),
-                      style: const TextStyle(color: Colors.white54, fontSize: 11),
+                      style:
+                          const TextStyle(color: Colors.white54, fontSize: 11),
                       maxLines: 1,
                       overflow: TextOverflow.ellipsis,
                     ),
@@ -2525,7 +2719,8 @@ class SidePanel extends StatelessWidget {
                       icon: const Icon(Icons.folder, size: 16),
                       label: const Text('Set Font Dir 2'),
                       style: ElevatedButton.styleFrom(
-                        padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 12),
+                        padding: const EdgeInsets.symmetric(
+                            horizontal: 12, vertical: 12),
                         alignment: Alignment.centerLeft,
                       ),
                     ),
@@ -2533,7 +2728,8 @@ class SidePanel extends StatelessWidget {
                   if (customFontDirectory2 != null) ...[
                     const SizedBox(width: 8),
                     IconButton(
-                      icon: const Icon(Icons.refresh, color: Colors.white70, size: 16),
+                      icon: const Icon(Icons.refresh,
+                          color: Colors.white70, size: 16),
                       onPressed: onRefreshCustomFonts2,
                       tooltip: 'Refresh custom2 fonts',
                       padding: EdgeInsets.zero,
@@ -2551,7 +2747,8 @@ class SidePanel extends StatelessWidget {
                     padding: const EdgeInsets.only(left: 8),
                     child: Text(
                       path.basename(customFontDirectory2!),
-                      style: const TextStyle(color: Colors.white54, fontSize: 11),
+                      style:
+                          const TextStyle(color: Colors.white54, fontSize: 11),
                       maxLines: 1,
                       overflow: TextOverflow.ellipsis,
                     ),
@@ -2603,10 +2800,11 @@ class SidePanel extends StatelessWidget {
     );
   }
 
- Widget _buildCategoryButton(String label, String category, String? subCat, String? studio) {
+  Widget _buildCategoryButton(
+      String label, String category, String? subCat, String? studio) {
     final isSelected = selectedMainCategory == category &&
-                       selectedSubCategory == subCat &&
-                       selectedStudio == studio;
+        selectedSubCategory == subCat &&
+        selectedStudio == studio;
     return Padding(
       padding: const EdgeInsets.symmetric(vertical: 2),
       child: TextButton(
@@ -2628,14 +2826,19 @@ class SidePanel extends StatelessWidget {
     );
   }
 
-  Widget _buildSubCategoryButton(String label, String? subCat, {String? studio}) {
-    final isSelected = selectedSubCategory == subCat && selectedStudio == studio;
+  Widget _buildSubCategoryButton(String label, String? subCat,
+      {String? studio}) {
+    final isSelected =
+        selectedSubCategory == subCat && selectedStudio == studio;
     return Padding(
       padding: const EdgeInsets.only(left: 16, top: 2, bottom: 2),
       child: TextButton(
-        onPressed: () => onCategorySelected(selectedMainCategory, subCat, studio),
+        onPressed: () =>
+            onCategorySelected(selectedMainCategory, subCat, studio),
         style: TextButton.styleFrom(
-          backgroundColor: isSelected ? Colors.deepPurple.withAlpha(128) : Colors.transparent,
+          backgroundColor: isSelected
+              ? Colors.deepPurple.withAlpha(128)
+              : Colors.transparent,
           alignment: Alignment.centerLeft,
           padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
         ),
@@ -2655,9 +2858,11 @@ class SidePanel extends StatelessWidget {
     return Padding(
       padding: const EdgeInsets.only(left: 32, top: 2, bottom: 2),
       child: TextButton(
-        onPressed: () => onCategorySelected(selectedMainCategory, selectedSubCategory, studio),
+        onPressed: () => onCategorySelected(
+            selectedMainCategory, selectedSubCategory, studio),
         style: TextButton.styleFrom(
-          backgroundColor: isSelected ? Colors.deepPurple.withAlpha(64) : Colors.transparent,
+          backgroundColor:
+              isSelected ? Colors.deepPurple.withAlpha(64) : Colors.transparent,
           alignment: Alignment.centerLeft,
           padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 4),
         ),
@@ -2697,14 +2902,15 @@ class _WordsPanelState extends State<_WordsPanel> {
   final ScrollController _scrollController = ScrollController();
 
   @override
-   void dispose() {
-     _scrollController.dispose();
-     super.dispose();
-   }
+  void dispose() {
+    _scrollController.dispose();
+    super.dispose();
+  }
 
   @override
   Widget build(BuildContext context) {
-    final showAllCategories = widget.hasSearchQuery || _selectedCategory == null;
+    final showAllCategories =
+        widget.hasSearchQuery || _selectedCategory == null;
     return Column(
       children: [
         Container(
@@ -2721,26 +2927,32 @@ class _WordsPanelState extends State<_WordsPanel> {
                 final count = widget.limitedGroups[wordCount]?.length ?? 0;
                 final isSelected = _selectedCategory == wordCount;
                 return TextButton(
-                  onPressed: widget.hasSearchQuery ? null : () {
-                    setState(() {
-                      _selectedCategory = wordCount;
-                    });
-                    if (_scrollController.hasClients) {
-                      _scrollController.jumpTo(0);
-                    }
-                  },
+                  onPressed: widget.hasSearchQuery
+                      ? null
+                      : () {
+                          setState(() {
+                            _selectedCategory = wordCount;
+                          });
+                          if (_scrollController.hasClients) {
+                            _scrollController.jumpTo(0);
+                          }
+                        },
                   style: TextButton.styleFrom(
                     backgroundColor: widget.hasSearchQuery
                         ? Colors.deepPurple.withAlpha(64)
-                        : (isSelected ? Colors.deepPurple : Colors.deepPurple.withAlpha(64)),
-                    padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
+                        : (isSelected
+                            ? Colors.deepPurple
+                            : Colors.deepPurple.withAlpha(64)),
+                    padding:
+                        const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
                     minimumSize: Size.zero,
                     disabledBackgroundColor: Colors.deepPurple.withAlpha(64),
                   ),
                   child: Text(
                     '$label ($count)',
                     style: TextStyle(
-                      color: widget.hasSearchQuery ? Colors.white54 : Colors.white,
+                      color:
+                          widget.hasSearchQuery ? Colors.white54 : Colors.white,
                       fontSize: 12,
                     ),
                   ),

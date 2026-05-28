@@ -399,8 +399,8 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 
 ### Tafsir (Quran Commentary)
 - Mokhtasar (Mukhtasar) tafsir is an simplified commentary that was done around 2015 following the methodology of Ahl-us-Sunnah wal-Jamaa`ah and is available in the following languages:
-- Arabic, Assamese, Azerbaijani, Bengali, Bosnian, Chinese, English, French, Fulani, Hindi, Indonesian, Italian, Japanese, Khmer, Kurdish, Kyrgyz, Malayalam, Russian, Pashto, Persian, Serbian, Sinhalese, Spanish, Tagalog, Tamil, Telugu, Thai, Turkish, Urdu, Uyghur, Uzbek, Vietnamese
-- all are from https://quranenc.com except English, Russian and Urdu is https://mokhtasr.com/en
+- Akan, Afar, Amharic, Arabic, Assamese, Azerbaijani, Bengali, Bosnian, Chinese, English, French, Fulani, German, Hausa, Hindi, Indonesian, Italian, Japanese, Khmer, Korean, Kurdish, Kyrgyz, Malagasy, Malayalam, Nepali, Oromo, Pashto, Persian, Portuguese, Russian, Serbian, Sinhalese, Spanish, Swahili, Tagalog, Tajik, Tamil, Telugu, Thai, Turkish, Urdu, Uyghur, Uzbek, Vietnamese
+- all are from https://quranenc.com except Afar, Akan, Amharic, English, German, Hausa, Korean (1, 36-114), Malagasy, Nepali, Oromo, Portuguese, Russian, Swahili, Tajik, Urdu are from https://mokhtasr.com/en
 - English Quran translations Hilali-Khan, Rowwad and Abdullah Hasan Yaqoub all from quranenc.com
 - clicking on a verse reference places it into the search input field
 
