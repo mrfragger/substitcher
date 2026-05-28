@@ -2054,7 +2054,6 @@ class _PlayerScreenState extends State<PlayerScreen>
       if (_currentAudiobook == null) return;
       final currentChapter = _currentAudiobook!.chapters[_currentChapterIndex];
       final timeUntilChapterEnd = currentChapter.endTime - _currentPosition;
-
       if (timeUntilChapterEnd < const Duration(seconds: 15)) {
         if (mounted) {
           ScaffoldMessenger.of(context).showSnackBar(
@@ -2067,13 +2066,8 @@ class _PlayerScreenState extends State<PlayerScreen>
         }
         return;
       }
-
       setState(() {
         _sleepDuration = Duration.zero;
-      });
-      _sleepTimer = Timer(timeUntilChapterEnd, () {
-        _sleepTimer = null;
-        _triggerSleepTimerCountdown();
       });
       if (mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
@@ -2092,7 +2086,11 @@ class _PlayerScreenState extends State<PlayerScreen>
       setState(() {
         _sleepDuration = Duration(minutes: -1);
       });
-      _sleepTimer = Timer(timeUntilBookEnd, () {
+      final realTimeUntilBookEnd = Duration(
+        microseconds:
+            (timeUntilBookEnd.inMicroseconds / _playbackSpeed).round(),
+      );
+      _sleepTimer = Timer(realTimeUntilBookEnd, () {
         _sleepTimer = null;
         _triggerSleepTimerCountdown();
       });
