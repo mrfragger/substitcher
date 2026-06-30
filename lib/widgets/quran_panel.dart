@@ -8,6 +8,7 @@ import '../quran/surah_names.dart';
 import '../tafsir/tafsir_mokhtasar_all.dart';
 import '../tafsir/tafsir_hilali_khan.dart';
 import '../tafsir/tafsir_rowwad_english.dart';
+import '../tafsir/tafsir_noor_english.dart';
 import '../tafsir/tafsir_yacob_english.dart';
 import '../hadeeth/hadeeth_panel.dart';
 
@@ -65,6 +66,7 @@ class _QuranPanelState extends State<QuranPanel> {
   static bool _tafsirMokhtasar = true;
   static bool _tafsirHilaliKhan = false;
   static bool _tafsirRowwadEnglish = false;
+  static bool _tafsirNoorEnglish = false;
   static bool _tafsirYacobEnglish = false;
   static String _mokhtasarLanguage = 'English';
   static List<Map<String, dynamic>> _tafsirResults = [];
@@ -693,6 +695,17 @@ class _QuranPanelState extends State<QuranPanel> {
         if (text != null && text.isNotEmpty) {
           results.add({
             'source': 'Rowwad',
+            'surah': range.surah,
+            'ayah': ayah,
+            'text': text
+          });
+        }
+      }
+      if (_tafsirNoorEnglish) {
+        final text = getTafsirNoorEnglish(range.surah, ayah);
+        if (text != null && text.isNotEmpty) {
+          results.add({
+            'source': 'Noor',
             'surah': range.surah,
             'ayah': ayah,
             'text': text
@@ -1438,6 +1451,10 @@ class _QuranPanelState extends State<QuranPanel> {
                   const SizedBox(width: 12),
                   _tafsirCheckbox('Rowwad', _tafsirRowwadEnglish, (v) {
                     setState(() => _tafsirRowwadEnglish = v ?? false);
+                  }),
+                  const SizedBox(width: 12),
+                  _tafsirCheckbox('Noor', _tafsirNoorEnglish, (v) {
+                    setState(() => _tafsirNoorEnglish = v ?? false);
                   }),
                   const SizedBox(width: 12),
                   _tafsirCheckbox('Yacob', _tafsirYacobEnglish, (v) {

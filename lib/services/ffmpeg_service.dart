@@ -1,7 +1,6 @@
 import 'dart:io';
 import 'dart:convert';
 import 'dart:async';
-import 'package:process_run/shell.dart';
 import 'package:path/path.dart' as path;
 import '../models/audio_file.dart';
 import '../models/encoding_config.dart';
@@ -10,7 +9,6 @@ import '../models/audiobook_metadata.dart';
 class FFmpegService {
   String? _ffmpegPath;
   String? _ffprobePath;
-  late Shell _shell;
 
   String? get ffmpegPath => _ffmpegPath;
   String? get ffprobePath => _ffprobePath;
@@ -20,228 +18,238 @@ class FFmpegService {
     await _ensureBinaries();
   }
 
-  FFmpegService() {
-    final environment = Map<String, String>.from(Platform.environment);
-    if (Platform.isMacOS) {
-      environment['PATH'] = '/opt/homebrew/bin:/usr/local/bin:${environment['PATH']}';
-    }
-    _shell = Shell(environment: environment);
-  }
+  FFmpegService();
 
   Future<void> extractChapters({
-      required String audiobookPath,
-      required Function(String) onProgress,
-      bool numbersOnly = false,
-    }) async {
-      await _ensureBinaries();
+    required String audiobookPath,
+    required Function(String) onProgress,
+    bool numbersOnly = false,
+  }) async {
+    await _ensureBinaries();
 
-      final ext = path.extension(audiobookPath).toLowerCase();
-      if (ext != '.opus' && ext != '.m4a' && ext != '.m4b') {
-        throw Exception('Only .opus, .m4a, and .m4b files are supported for chapter extraction');
-      }
-
-      final sourceDir = path.dirname(audiobookPath);
-      final audiobookName = path.basenameWithoutExtension(audiobookPath);
-      final chaptersDir = path.join(sourceDir, '${audiobookName}_chapters');
-
-      final outputDir = Directory(chaptersDir);
-      if (!await outputDir.exists()) {
-        await outputDir.create(recursive: true);
-      }
-
-      onProgress('Reading chapters from audiobook...');
-
-      final result = await Process.run(
-        _ffprobePath!,
-        [
-          '-i', audiobookPath,
-          '-show_chapters',
-          '-print_format', 'json',
-        ],
+    final ext = path.extension(audiobookPath).toLowerCase();
+    if (ext != '.opus' && ext != '.m4a' && ext != '.m4b') {
+      throw Exception(
+        'Only .opus, .m4a, and .m4b files are supported for chapter extraction',
       );
-
-      if (result.exitCode != 0) {
-        throw Exception('Failed to read chapters: ${result.stderr}');
-      }
-
-      final jsonStr = result.stdout.toString();
-      final json = jsonDecode(jsonStr) as Map<String, dynamic>;
-      final chapters = json['chapters'] as List? ?? [];
-
-      if (chapters.isEmpty) {
-        throw Exception('No chapters found in audiobook');
-      }
-
-      onProgress('Found ${chapters.length} chapters. Extracting in parallel...');
-
-      final cpuCount = Platform.numberOfProcessors;
-      final maxConcurrent = (cpuCount * 0.75).round().clamp(1, 8);
-      final semaphore = _Semaphore(maxConcurrent);
-      int completed = 0;
-      final futures = <Future>[];
-
-      for (var i = 0; i < chapters.length; i++) {
-        final chapter = chapters[i] as Map<String, dynamic>;
-        final chapterIndex = i;
-
-        final future = semaphore.acquire().then((_) async {
-          try {
-            final tags = chapter['tags'] as Map<String, dynamic>? ?? {};
-            final startTime = chapter['start_time'].toString();
-            final endTime = chapter['end_time'].toString();
-
-            var title = tags['title'] ?? tags['TITLE'] ?? 'Chapter_${chapterIndex + 1}';
-            title = title.toString();
-
-            String filename;
-            if (numbersOnly) {
-              final numMatch = RegExp(r'^\d+').firstMatch(title.trim());
-              filename = numMatch != null ? numMatch.group(0)! : (chapterIndex + 1).toString().padLeft(4, '0');
-            } else {
-              filename = title
-                  .replaceAll('/', '-')
-                  .replaceAll('\\', '-')
-                  .replaceAll(':', '-')
-                  .replaceAll('*', '')
-                  .replaceAll('?', '')
-                  .replaceAll('"', "'")
-                  .replaceAll('<', '')
-                  .replaceAll('>', '')
-                  .replaceAll('|', '-')
-                  .replaceAll('_', ' ')
-                  .trim();
-            }
-
-            final outputExt = (ext == '.m4b') ? '.m4a' : ext;
-            final outputPath = path.join(chaptersDir, '$filename$outputExt');
-
-            final extractResult = await Process.run(
-              _ffmpegPath!,
-              [
-                '-hide_banner',
-                '-i', audiobookPath,
-                '-ss', startTime,
-                '-to', endTime,
-                '-c:v', 'copy',
-                '-c:a', 'copy',
-                '-avoid_negative_ts', 'make_zero',
-                '-fflags', '+genpts',
-                outputPath,
-                '-y',
-              ],
-            );
-
-            if (extractResult.exitCode != 0) {
-              print('Warning: Failed to extract chapter ${chapterIndex + 1}: ${extractResult.stderr}');
-            }
-
-            completed++;
-            onProgress('Extracting chapter $completed/${chapters.length}: $filename');
-          } finally {
-            semaphore.release();
-          }
-        });
-
-        futures.add(future);
-      }
-
-      await Future.wait(futures);
-      onProgress('All ${chapters.length} chapters extracted to: $chaptersDir');
     }
 
+    final sourceDir = path.dirname(audiobookPath);
+    final audiobookName = path.basenameWithoutExtension(audiobookPath);
+    final chaptersDir = path.join(sourceDir, '${audiobookName}_chapters');
+
+    final outputDir = Directory(chaptersDir);
+    if (!await outputDir.exists()) {
+      await outputDir.create(recursive: true);
+    }
+
+    onProgress('Reading chapters from audiobook...');
+
+    final result = await Process.run(_ffprobePath!, [
+      '-i',
+      audiobookPath,
+      '-show_chapters',
+      '-print_format',
+      'json',
+    ]);
+
+    if (result.exitCode != 0) {
+      throw Exception('Failed to read chapters: ${result.stderr}');
+    }
+
+    final jsonStr = result.stdout.toString();
+    final json = jsonDecode(jsonStr) as Map<String, dynamic>;
+    final chapters = json['chapters'] as List? ?? [];
+
+    if (chapters.isEmpty) {
+      throw Exception('No chapters found in audiobook');
+    }
+
+    onProgress('Found ${chapters.length} chapters. Extracting in parallel...');
+
+    final cpuCount = Platform.numberOfProcessors;
+    final maxConcurrent = (cpuCount * 0.75).round().clamp(1, 8);
+    final semaphore = _Semaphore(maxConcurrent);
+    int completed = 0;
+    final futures = <Future>[];
+
+    for (var i = 0; i < chapters.length; i++) {
+      final chapter = chapters[i] as Map<String, dynamic>;
+      final chapterIndex = i;
+
+      final future = semaphore.acquire().then((_) async {
+        try {
+          final tags = chapter['tags'] as Map<String, dynamic>? ?? {};
+          final startTime = chapter['start_time'].toString();
+          final endTime = chapter['end_time'].toString();
+
+          var title =
+              tags['title'] ?? tags['TITLE'] ?? 'Chapter_${chapterIndex + 1}';
+          title = title.toString();
+
+          String filename;
+          if (numbersOnly) {
+            final numMatch = RegExp(r'^\d+').firstMatch(title.trim());
+            filename = numMatch != null
+                ? numMatch.group(0)!
+                : (chapterIndex + 1).toString().padLeft(4, '0');
+          } else {
+            filename = title
+                .replaceAll('/', '-')
+                .replaceAll('\\', '-')
+                .replaceAll(':', '-')
+                .replaceAll('*', '')
+                .replaceAll('?', '')
+                .replaceAll('"', "'")
+                .replaceAll('<', '')
+                .replaceAll('>', '')
+                .replaceAll('|', '-')
+                .replaceAll('_', ' ')
+                .trim();
+          }
+
+          final outputExt = (ext == '.m4b') ? '.m4a' : ext;
+          final outputPath = path.join(chaptersDir, '$filename$outputExt');
+
+          final extractResult = await Process.run(_ffmpegPath!, [
+            '-hide_banner',
+            '-i',
+            audiobookPath,
+            '-ss',
+            startTime,
+            '-to',
+            endTime,
+            '-c:v',
+            'copy',
+            '-c:a',
+            'copy',
+            '-avoid_negative_ts',
+            'make_zero',
+            '-fflags',
+            '+genpts',
+            outputPath,
+            '-y',
+          ]);
+
+          if (extractResult.exitCode != 0) {
+            print(
+              'Warning: Failed to extract chapter ${chapterIndex + 1}: ${extractResult.stderr}',
+            );
+          }
+
+          completed++;
+          onProgress(
+            'Extracting chapter $completed/${chapters.length}: $filename',
+          );
+        } finally {
+          semaphore.release();
+        }
+      });
+
+      futures.add(future);
+    }
+
+    await Future.wait(futures);
+    onProgress('All ${chapters.length} chapters extracted to: $chaptersDir');
+  }
+
   Future<void> _ensureBinaries() async {
-      if (_ffmpegPath != null && _ffprobePath != null) return;
+    if (_ffmpegPath != null && _ffprobePath != null) return;
 
-      if (Platform.isAndroid) {
-        final appLibDir = '/data/data/com.example.substitcher/lib';
-        _ffmpegPath = '$appLibDir/libffmpeg.so';
-        _ffprobePath = '$appLibDir/libffprobe.so';
+    if (Platform.isAndroid) {
+      final appLibDir = '/data/data/com.example.substitcher/lib';
+      _ffmpegPath = '$appLibDir/libffmpeg.so';
+      _ffprobePath = '$appLibDir/libffprobe.so';
 
-        print('Using Android ffmpeg: $_ffmpegPath');
-        print('Using Android ffprobe: $_ffprobePath');
+      print('Using Android ffmpeg: $_ffmpegPath');
+      print('Using Android ffprobe: $_ffprobePath');
+      return;
+    } else if (Platform.isMacOS) {
+      final executablePath = Platform.resolvedExecutable;
+      final bundleDir = path.dirname(path.dirname(executablePath));
+      final resourcesDir = path.join(bundleDir, 'Resources', 'bin');
+
+      final bundledFfmpeg = path.join(resourcesDir, 'ffmpeg');
+      final bundledFfprobe = path.join(resourcesDir, 'ffprobe');
+
+      if (await File(bundledFfmpeg).exists() &&
+          await File(bundledFfprobe).exists()) {
+        _ffmpegPath = bundledFfmpeg;
+        _ffprobePath = bundledFfprobe;
+        print('Using bundled ffmpeg: $_ffmpegPath');
+        print('Using bundled ffprobe: $_ffprobePath');
         return;
-      } else if (Platform.isMacOS) {
-        final executablePath = Platform.resolvedExecutable;
-        final bundleDir = path.dirname(path.dirname(executablePath));
-        final resourcesDir = path.join(bundleDir, 'Resources', 'bin');
+      }
 
-        final bundledFfmpeg = path.join(resourcesDir, 'ffmpeg');
-        final bundledFfprobe = path.join(resourcesDir, 'ffprobe');
+      _ffmpegPath = '/opt/homebrew/bin/ffmpeg';
+      _ffprobePath = '/opt/homebrew/bin/ffprobe';
+      print('Using system ffmpeg: $_ffmpegPath');
+    } else if (Platform.isLinux) {
+      final executablePath = Platform.resolvedExecutable;
+      final executableDir = path.dirname(executablePath);
+      final bundledBinDir = path.join(executableDir, 'bin');
 
-        if (await File(bundledFfmpeg).exists() && await File(bundledFfprobe).exists()) {
-          _ffmpegPath = bundledFfmpeg;
-          _ffprobePath = bundledFfprobe;
-          print('Using bundled ffmpeg: $_ffmpegPath');
-          print('Using bundled ffprobe: $_ffprobePath');
-          return;
-        }
+      final bundledFfmpeg = path.join(bundledBinDir, 'ffmpeg');
+      final bundledFfprobe = path.join(bundledBinDir, 'ffprobe');
 
-        _ffmpegPath = '/opt/homebrew/bin/ffmpeg';
-        _ffprobePath = '/opt/homebrew/bin/ffprobe';
-        print('Using system ffmpeg: $_ffmpegPath');
-      } else if (Platform.isLinux) {
-        final executablePath = Platform.resolvedExecutable;
-        final executableDir = path.dirname(executablePath);
-        final bundledBinDir = path.join(executableDir, 'bin');
+      if (await File(bundledFfmpeg).exists() &&
+          await File(bundledFfprobe).exists()) {
+        _ffmpegPath = bundledFfmpeg;
+        _ffprobePath = bundledFfprobe;
+        print('Using bundled ffmpeg: $_ffmpegPath');
+        print('Using bundled ffprobe: $_ffprobePath');
+        return;
+      }
 
-        final bundledFfmpeg = path.join(bundledBinDir, 'ffmpeg');
-        final bundledFfprobe = path.join(bundledBinDir, 'ffprobe');
+      _ffmpegPath = 'ffmpeg';
+      _ffprobePath = 'ffprobe';
+      print('Using system ffmpeg');
+    } else if (Platform.isWindows) {
+      final executablePath = Platform.resolvedExecutable;
+      final executableDir = path.dirname(executablePath);
 
-        if (await File(bundledFfmpeg).exists() && await File(bundledFfprobe).exists()) {
-          _ffmpegPath = bundledFfmpeg;
-          _ffprobePath = bundledFfprobe;
-          print('Using bundled ffmpeg: $_ffmpegPath');
-          print('Using bundled ffprobe: $_ffprobePath');
-          return;
-        }
+      final msg = StringBuffer();
+      msg.writeln('Windows executable path: $executablePath');
+      msg.writeln('Windows executable dir: $executableDir');
 
-        _ffmpegPath = 'ffmpeg';
-        _ffprobePath = 'ffprobe';
-        print('Using system ffmpeg');
-      } else if (Platform.isWindows) {
-        final executablePath = Platform.resolvedExecutable;
-        final executableDir = path.dirname(executablePath);
+      final bundledBinDir = path.join(executableDir, 'bin');
+      msg.writeln('Looking for ffmpeg in: $bundledBinDir');
 
-        final msg = StringBuffer();
-        msg.writeln('Windows executable path: $executablePath');
-        msg.writeln('Windows executable dir: $executableDir');
+      final bundledFfmpeg = path.join(bundledBinDir, 'ffmpeg.exe');
+      final bundledFfprobe = path.join(bundledBinDir, 'ffprobe.exe');
 
-        final bundledBinDir = path.join(executableDir, 'bin');
-        msg.writeln('Looking for ffmpeg in: $bundledBinDir');
+      final ffmpegExists = await File(bundledFfmpeg).exists();
+      final ffprobeExists = await File(bundledFfprobe).exists();
 
-        final bundledFfmpeg = path.join(bundledBinDir, 'ffmpeg.exe');
-        final bundledFfprobe = path.join(bundledBinDir, 'ffprobe.exe');
+      msg.writeln('ffmpeg.exe exists: $ffmpegExists at $bundledFfmpeg');
+      msg.writeln('ffprobe.exe exists: $ffprobeExists at $bundledFfprobe');
 
-        final ffmpegExists = await File(bundledFfmpeg).exists();
-        final ffprobeExists = await File(bundledFfprobe).exists();
-
-        msg.writeln('ffmpeg.exe exists: $ffmpegExists at $bundledFfmpeg');
-        msg.writeln('ffprobe.exe exists: $ffprobeExists at $bundledFfprobe');
-
-        if (ffmpegExists && ffprobeExists) {
-          _ffmpegPath = bundledFfmpeg;
-          _ffprobePath = bundledFfprobe;
-          msg.writeln('Using bundled ffmpeg: $_ffmpegPath');
-          msg.writeln('Using bundled ffprobe: $_ffprobePath');
-        } else {
-          _ffmpegPath = 'ffmpeg';
-          _ffprobePath = 'ffprobe';
-          msg.writeln('WARNING: Falling back to system ffmpeg/ffprobe - binaries not found!');
-        }
-
-        await _writeLog(msg.toString());
-        onWindowsDebugMessage?.call(msg.toString());
+      if (ffmpegExists && ffprobeExists) {
+        _ffmpegPath = bundledFfmpeg;
+        _ffprobePath = bundledFfprobe;
+        msg.writeln('Using bundled ffmpeg: $_ffmpegPath');
+        msg.writeln('Using bundled ffprobe: $_ffprobePath');
       } else {
         _ffmpegPath = 'ffmpeg';
         _ffprobePath = 'ffprobe';
+        msg.writeln(
+          'WARNING: Falling back to system ffmpeg/ffprobe - binaries not found!',
+        );
       }
+
+      await _writeLog(msg.toString());
+      onWindowsDebugMessage?.call(msg.toString());
+    } else {
+      _ffmpegPath = 'ffmpeg';
+      _ffprobePath = 'ffprobe';
     }
+  }
 
   Future<bool> checkFFmpegAvailable() async {
     try {
       await _ensureBinaries();
-      await _shell.run('$_ffmpegPath -version');
-      return true;
+      final result = await Process.run(_ffmpegPath!, ['-version']);
+      return result.exitCode == 0;
     } catch (e) {
       print('FFmpeg check failed: $e');
       return false;
@@ -253,7 +261,10 @@ class FFmpegService {
       final logDir = Directory.systemTemp;
       final logFile = File(path.join(logDir.path, 'substitcher_ffmpeg.log'));
       final timestamp = DateTime.now().toIso8601String();
-      await logFile.writeAsString('[$timestamp] $message\n', mode: FileMode.append);
+      await logFile.writeAsString(
+        '[$timestamp] $message\n',
+        mode: FileMode.append,
+      );
     } catch (e) {
       print('Failed to write log: $e');
     }
@@ -262,12 +273,21 @@ class FFmpegService {
   Future<Duration> getAudioDuration(String filePath) async {
     await _ensureBinaries();
     try {
-      final result = await _shell.run(
-        '$_ffprobePath -v error -show_entries format=duration '
-        '-of default=noprint_wrappers=1:nokey=1 "$filePath"'
-      );
+      final result = await Process.run(_ffprobePath!, [
+        '-v',
+        'error',
+        '-show_entries',
+        'format=duration',
+        '-of',
+        'default=noprint_wrappers=1:nokey=1',
+        filePath,
+      ]);
 
-      final durationStr = result.first.stdout.toString().trim();
+      if (result.exitCode != 0) {
+        throw Exception(result.stderr.toString());
+      }
+
+      final durationStr = result.stdout.toString().trim();
       final seconds = double.parse(durationStr);
       return Duration(milliseconds: (seconds * 1000).round());
     } catch (e) {
@@ -278,12 +298,17 @@ class FFmpegService {
   Future<String> getAudioTitle(String filePath) async {
     await _ensureBinaries();
     try {
-      final result = await _shell.run(
-        '$_ffprobePath -v error -show_entries format_tags=title '
-        '-of default=noprint_wrappers=1:nokey=1 "$filePath"'
-      );
+      final result = await Process.run(_ffprobePath!, [
+        '-v',
+        'error',
+        '-show_entries',
+        'format_tags=title',
+        '-of',
+        'default=noprint_wrappers=1:nokey=1',
+        filePath,
+      ]);
 
-      final title = result.first.stdout.toString().trim();
+      final title = result.stdout.toString().trim();
       if (title.isEmpty) {
         return path.basenameWithoutExtension(filePath);
       }
@@ -320,15 +345,21 @@ class FFmpegService {
     }
 
     final args = [
-      '-i', inputPath,
+      '-i',
+      inputPath,
       '-hide_banner',
-      '-loglevel', 'error',
+      '-loglevel',
+      'error',
       '-vn',
-      '-c:a', 'libopus',
-      '-application', config.opusApplication,
-      '-b:a', '${config.bitrate}k',
+      '-c:a',
+      'libopus',
+      '-application',
+      config.opusApplication,
+      '-b:a',
+      '${config.bitrate}k',
       if (config.bitrate <= 16) ...['-frame_duration', '60'],
-      '-af', filterString,
+      '-af',
+      filterString,
       outputPath,
       '-y',
     ];
@@ -340,8 +371,12 @@ class FFmpegService {
     final exitCode = await process.exitCode;
 
     if (exitCode != 0) {
-      final stderr = await process.stderr.transform(const SystemEncoding().decoder).join();
-      final stdout = await process.stdout.transform(const SystemEncoding().decoder).join();
+      final stderr = await process.stderr
+          .transform(const SystemEncoding().decoder)
+          .join();
+      final stdout = await process.stdout
+          .transform(const SystemEncoding().decoder)
+          .join();
       print('DEBUG: Exit code: $exitCode');
       print('DEBUG: Stderr: $stderr');
       print('DEBUG: Stdout: $stdout');
@@ -384,19 +419,41 @@ class FFmpegService {
         await outputDir.create(recursive: true);
       }
 
-      final shell = Shell(workingDirectory: workingDir);
+      final concatResult = await Process.run(_ffmpegPath!, [
+        '-f',
+        'concat',
+        '-safe',
+        '0',
+        '-i',
+        'list.txt',
+        '-map_metadata',
+        '-1',
+        '-c',
+        'copy',
+        'temp.opus',
+        '-y',
+      ], workingDirectory: workingDir);
 
-      await shell.run(
-        '$_ffmpegPath -f concat -safe 0 -i "list.txt" '
-        '-map_metadata -1 '
-        '-c copy "temp.opus" -y'
-      );
+      if (concatResult.exitCode != 0) {
+        throw Exception('FFmpeg concat failed: ${concatResult.stderr}');
+      }
 
       onProgress('Extracting metadata...');
 
-      await shell.run(
-        '$_ffmpegPath -y -i "temp.opus" -f ffmetadata "ffmetadata.txt"'
-      );
+      final metadataResult = await Process.run(_ffmpegPath!, [
+        '-y',
+        '-i',
+        'temp.opus',
+        '-f',
+        'ffmetadata',
+        'ffmetadata.txt',
+      ], workingDirectory: workingDir);
+
+      if (metadataResult.exitCode != 0) {
+        throw Exception(
+          'FFmpeg metadata extraction failed: ${metadataResult.stderr}',
+        );
+      }
 
       onProgress('Adding chapter markers...');
 
@@ -416,17 +473,28 @@ class FFmpegService {
       final encodeResult = await Process.run(
         _ffmpegPath!,
         [
-          '-i', path.join(workingDir, 'temp.opus'),
-          '-i', metadataFile.path,
-          '-map_chapters', '1',
-          '-map', '0:a',
-          '-metadata', 'title=${config.title}',
-          '-metadata', 'album=${config.title}',
-          '-metadata', 'artist=${config.author}',
-          '-metadata', 'album_artist=${config.author}',
-          '-metadata', 'year=${config.year}',
-          '-metadata:s:a', 'METADATA_BLOCK_PICTURE=$coverData',
-          '-c', 'copy',
+          '-i',
+          path.join(workingDir, 'temp.opus'),
+          '-i',
+          metadataFile.path,
+          '-map_chapters',
+          '1',
+          '-map',
+          '0:a',
+          '-metadata',
+          'title=${config.title}',
+          '-metadata',
+          'album=${config.title}',
+          '-metadata',
+          'artist=${config.author}',
+          '-metadata',
+          'album_artist=${config.author}',
+          '-metadata',
+          'year=${config.year}',
+          '-metadata:s:a',
+          'METADATA_BLOCK_PICTURE=$coverData',
+          '-c',
+          'copy',
           outputPath,
           '-y',
         ],
@@ -445,7 +513,6 @@ class FFmpegService {
       if (await listFile.exists()) await listFile.delete();
       if (await metadataFile.exists()) await metadataFile.delete();
       if (await File(tempOutput).exists()) await File(tempOutput).delete();
-
     } catch (e) {
       try {
         if (await listFile.exists()) await listFile.delete();
@@ -459,82 +526,84 @@ class FFmpegService {
   }
 
   Future<void> _addChapterMetadata({
-      required File metadataFile,
-      required List<String> opusFiles,
-      List<Map<String, dynamic>>? chapters,
-      int? startChapterIndex,
-      int? audioRepetitions,
-      bool useFilenameAsChapterName = false,
-    }) async {
-      final metadataBytes = await metadataFile.readAsBytes();
-      String metadataContent;
-      try {
-        metadataContent = utf8.decode(metadataBytes);
-      } catch (_) {
-        metadataContent = latin1.decode(metadataBytes);
-      }
-      final metadata = StringBuffer(metadataContent);
+    required File metadataFile,
+    required List<String> opusFiles,
+    List<Map<String, dynamic>>? chapters,
+    int? startChapterIndex,
+    int? audioRepetitions,
+    bool useFilenameAsChapterName = false,
+  }) async {
+    final metadataBytes = await metadataFile.readAsBytes();
+    String metadataContent;
+    try {
+      metadataContent = utf8.decode(metadataBytes);
+    } catch (_) {
+      metadataContent = latin1.decode(metadataBytes);
+    }
+    final metadata = StringBuffer(metadataContent);
 
-      double totalSeconds = 0;
+    double totalSeconds = 0;
 
-      for (int i = 0; i < opusFiles.length; i++) {
-        final opusFile = opusFiles[i];
-        final duration = await getAudioDuration(opusFile);
-        final durationSecs = duration.inMilliseconds / 1000;
+    for (int i = 0; i < opusFiles.length; i++) {
+      final opusFile = opusFiles[i];
+      final duration = await getAudioDuration(opusFile);
+      final durationSecs = duration.inMilliseconds / 1000;
 
-        String title;
+      String title;
 
-        if (chapters != null && startChapterIndex != null) {
-          final chapterIndex = startChapterIndex + i;
-          final chapter = chapters[chapterIndex];
+      if (chapters != null && startChapterIndex != null) {
+        final chapterIndex = startChapterIndex + i;
+        final chapter = chapters[chapterIndex];
 
-          final textToUse = (audioRepetitions == 1)
-              ? chapter['front'] as String
-              : chapter['back'] as String;
+        final textToUse = (audioRepetitions == 1)
+            ? chapter['front'] as String
+            : chapter['back'] as String;
 
-          final chapterNum = useFilenameAsChapterName && chapter.containsKey('audioFile')
-              ? path.basenameWithoutExtension(chapter['audioFile'] as String)
-              : (chapterIndex + 1).toString().padLeft(4, '0');
-          title = '$chapterNum $textToUse';
-        } else {
-          title = path.basenameWithoutExtension(opusFile);
-        }
-
-        title = title.replaceAll('`', "'");
-
-        title = _escapeFFMetadata(title);
-
-        final hours = duration.inHours;
-        final minutes = duration.inMinutes.remainder(60);
-        final seconds = duration.inSeconds.remainder(60);
-
-        String timeStr;
-        if (hours > 0) {
-          timeStr = '$hours:${minutes.toString().padLeft(2, '0')}:'
-                   '${seconds.toString().padLeft(2, '0')}';
-        } else {
-          timeStr = '$minutes:${seconds.toString().padLeft(2, '0')}';
-        }
-
-        metadata.writeln('[CHAPTER]');
-        metadata.writeln('TIMEBASE=1/1');
-        metadata.writeln('START=${totalSeconds.round()}');
-        totalSeconds += durationSecs;
-        metadata.writeln('END=${totalSeconds.round()}');
-        metadata.writeln('title=$title [$timeStr]');
+        final chapterNum =
+            useFilenameAsChapterName && chapter.containsKey('audioFile')
+            ? path.basenameWithoutExtension(chapter['audioFile'] as String)
+            : (chapterIndex + 1).toString().padLeft(4, '0');
+        title = '$chapterNum $textToUse';
+      } else {
+        title = path.basenameWithoutExtension(opusFile);
       }
 
-      await metadataFile.writeAsBytes(utf8.encode(metadata.toString()));
+      title = title.replaceAll('`', "'");
+
+      title = _escapeFFMetadata(title);
+
+      final hours = duration.inHours;
+      final minutes = duration.inMinutes.remainder(60);
+      final seconds = duration.inSeconds.remainder(60);
+
+      String timeStr;
+      if (hours > 0) {
+        timeStr =
+            '$hours:${minutes.toString().padLeft(2, '0')}:'
+            '${seconds.toString().padLeft(2, '0')}';
+      } else {
+        timeStr = '$minutes:${seconds.toString().padLeft(2, '0')}';
+      }
+
+      metadata.writeln('[CHAPTER]');
+      metadata.writeln('TIMEBASE=1/1');
+      metadata.writeln('START=${totalSeconds.round()}');
+      totalSeconds += durationSecs;
+      metadata.writeln('END=${totalSeconds.round()}');
+      metadata.writeln('title=$title [$timeStr]');
     }
 
-    String _escapeFFMetadata(String value) {
-      return value
-          .replaceAll('\\', '\\\\')
-          .replaceAll('=', '\\=')
-          .replaceAll(';', '\\;')
-          .replaceAll('#', '\\#')
-          .replaceAll('\n', '\\\n');
-    }
+    await metadataFile.writeAsBytes(utf8.encode(metadata.toString()));
+  }
+
+  String _escapeFFMetadata(String value) {
+    return value
+        .replaceAll('\\', '\\\\')
+        .replaceAll('=', '\\=')
+        .replaceAll(';', '\\;')
+        .replaceAll('#', '\\#')
+        .replaceAll('\n', '\\\n');
+  }
 
   String _getBlackCoverPng() {
     return 'AAAAAwAAAAlpbWFnZS9wbmcAAAALRnJvbnQgQ292ZXIAAAAQAAAACQAAACAAAAAAAAAAU4lQTkcNChoKAAAADUlIRFIAAAAQAAAACQgGAAAAOyqsMgAAABpJREFUeJxjZGBg+M9AAWCiRPOoARAwDAwAAFmzARHg40/fAAAAAElFTkSuQmCC';
@@ -542,12 +611,27 @@ class FFmpegService {
 
   Future<List<AudioFile>> listAudioFilesInDirectory(String dirPath) async {
     final dir = Directory(dirPath);
-    final audioExtensions = ['mp3', 'm4a', 'aac', 'opus', 'ogg', 'flac', 'wav', 'wma', 'webm', 'mkv', 'mp4'];
+    final audioExtensions = [
+      'mp3',
+      'm4a',
+      'aac',
+      'opus',
+      'ogg',
+      'flac',
+      'wav',
+      'wma',
+      'webm',
+      'mkv',
+      'mp4',
+    ];
     final audioFiles = <AudioFile>[];
 
     await for (final entity in dir.list()) {
       if (entity is File) {
-        final ext = path.extension(entity.path).toLowerCase().replaceFirst('.', '');
+        final ext = path
+            .extension(entity.path)
+            .toLowerCase()
+            .replaceFirst('.', '');
         if (audioExtensions.contains(ext)) {
           try {
             final audioFile = await getAudioInfo(entity.path);
@@ -564,29 +648,31 @@ class FFmpegService {
   }
 
   Future<AudiobookMetadata> loadAudiobook(String filePath) async {
-      await _ensureBinaries();
-      try {
-        if (_ffprobePath == null) {
-          throw Exception('ffprobe binary not found');
-        }
+    await _ensureBinaries();
+    try {
+      if (_ffprobePath == null) {
+        throw Exception('ffprobe binary not found');
+      }
 
-        final result = await Process.run(
-          _ffprobePath!,
-          [
-            '-v', 'quiet',
-            '-print_format', 'json',
-            '-show_format',
-            '-show_chapters',
-            filePath,
-          ],
-          runInShell: false,
-          stdoutEncoding: utf8,
-          stderrEncoding: utf8,
-        );
+      final result = await Process.run(
+        _ffprobePath!,
+        [
+          '-v',
+          'quiet',
+          '-print_format',
+          'json',
+          '-show_format',
+          '-show_chapters',
+          filePath,
+        ],
+        runInShell: false,
+        stdoutEncoding: utf8,
+        stderrEncoding: utf8,
+      );
 
-        if (result.exitCode != 0) {
-          throw Exception('ffprobe failed: ${result.stderr}');
-        }
+      if (result.exitCode != 0) {
+        throw Exception('ffprobe failed: ${result.stderr}');
+      }
 
       final jsonStr = result.stdout as String;
       final json = jsonDecode(jsonStr) as Map<String, dynamic>;
@@ -594,9 +680,18 @@ class FFmpegService {
       final format = json['format'] as Map<String, dynamic>;
       final tags = format['tags'] as Map<String, dynamic>? ?? {};
 
-      final title = tags['title'] ?? tags['TITLE'] ?? path.basenameWithoutExtension(filePath);
-      final author = tags['artist'] ?? tags['ARTIST'] ?? tags['album_artist'] ?? tags['ALBUM_ARTIST'] ?? 'Unknown Artist';
-      final year = tags['date'] ?? tags['DATE'] ?? tags['year'] ?? tags['YEAR'] ?? '';
+      final title =
+          tags['title'] ??
+          tags['TITLE'] ??
+          path.basenameWithoutExtension(filePath);
+      final author =
+          tags['artist'] ??
+          tags['ARTIST'] ??
+          tags['album_artist'] ??
+          tags['ALBUM_ARTIST'] ??
+          'Unknown Artist';
+      final year =
+          tags['date'] ?? tags['DATE'] ?? tags['year'] ?? tags['YEAR'] ?? '';
       final durationSecs = double.parse(format['duration'] as String);
 
       final chaptersJson = json['chapters'] as List? ?? [];
@@ -609,23 +704,32 @@ class FFmpegService {
         final startSecs = double.parse(chapterJson['start_time'].toString());
         final endSecs = double.parse(chapterJson['end_time'].toString());
 
-        chapters.add(Chapter(
-          index: i,
-          title: chapterTags['title'] ?? chapterTags['TITLE'] ?? 'Chapter ${i + 1}',
-          startTime: Duration(milliseconds: (startSecs * 1000).toInt()),
-          endTime: Duration(milliseconds: (endSecs * 1000).toInt()),
-          duration: Duration(milliseconds: ((endSecs - startSecs) * 1000).toInt()),
-        ));
+        chapters.add(
+          Chapter(
+            index: i,
+            title:
+                chapterTags['title'] ??
+                chapterTags['TITLE'] ??
+                'Chapter ${i + 1}',
+            startTime: Duration(milliseconds: (startSecs * 1000).toInt()),
+            endTime: Duration(milliseconds: (endSecs * 1000).toInt()),
+            duration: Duration(
+              milliseconds: ((endSecs - startSecs) * 1000).toInt(),
+            ),
+          ),
+        );
       }
 
       if (chapters.isEmpty) {
-        chapters.add(Chapter(
-          index: 0,
-          title: 'Full Audiobook',
-          startTime: Duration.zero,
-          endTime: Duration(milliseconds: (durationSecs * 1000).toInt()),
-          duration: Duration(milliseconds: (durationSecs * 1000).toInt()),
-        ));
+        chapters.add(
+          Chapter(
+            index: 0,
+            title: 'Full Audiobook',
+            startTime: Duration.zero,
+            endTime: Duration(milliseconds: (durationSecs * 1000).toInt()),
+            duration: Duration(milliseconds: (durationSecs * 1000).toInt()),
+          ),
+        );
       }
 
       return AudiobookMetadata(
@@ -654,10 +758,23 @@ class FFmpegService {
       await outputDir.create(recursive: true);
     }
 
-    await _shell.run(
-      '$_ffmpegPath -ss $startSeconds -i "$inputPath" '
-      '-t $durationSeconds -c:a copy -vn "$outputPath" -y'
-    );
+    final result = await Process.run(_ffmpegPath!, [
+      '-ss',
+      startSeconds.toString(),
+      '-i',
+      inputPath,
+      '-t',
+      durationSeconds.toString(),
+      '-c:a',
+      'copy',
+      '-vn',
+      outputPath,
+      '-y',
+    ]);
+
+    if (result.exitCode != 0) {
+      throw Exception('Failed to trim audio: ${result.stderr}');
+    }
   }
 
   Future<void> trimAudioPrecise({
@@ -673,10 +790,23 @@ class FFmpegService {
       await outputDir.create(recursive: true);
     }
 
-    await _shell.run(
-      '$_ffmpegPath -ss $startSeconds -i "$inputPath" '
-      '-t $durationSeconds -c:a copy -vn "$outputPath" -y'
-    );
+    final result = await Process.run(_ffmpegPath!, [
+      '-ss',
+      startSeconds.toString(),
+      '-i',
+      inputPath,
+      '-t',
+      durationSeconds.toString(),
+      '-c:a',
+      'copy',
+      '-vn',
+      outputPath,
+      '-y',
+    ]);
+
+    if (result.exitCode != 0) {
+      throw Exception('Failed to trim audio: ${result.stderr}');
+    }
   }
 
   Future<void> concatenateFiles({
@@ -686,12 +816,24 @@ class FFmpegService {
   }) async {
     await _ensureBinaries();
 
-    final shell = Shell(workingDirectory: workingDirectory);
+    final result = await Process.run(_ffmpegPath!, [
+      '-f',
+      'concat',
+      '-safe',
+      '0',
+      '-i',
+      path.basename(listFilePath),
+      '-map_metadata',
+      '-1',
+      '-c',
+      'copy',
+      outputPath,
+      '-y',
+    ], workingDirectory: workingDirectory);
 
-    await shell.run(
-      '$_ffmpegPath -f concat -safe 0 -i "${path.basename(listFilePath)}" '
-      '-map_metadata -1 -c copy "$outputPath" -y'
-    );
+    if (result.exitCode != 0) {
+      throw Exception('Failed to concatenate files: ${result.stderr}');
+    }
   }
 
   Future<void> repeatAudio({
@@ -712,10 +854,14 @@ class FFmpegService {
 
     final result = await Process.run(_ffmpegPath!, [
       '-y',
-      '-stream_loop', '${times - 1}',
-      '-i', inputPath,
-      '-c:a', 'libopus',
-      '-b:a', '${bitrate}k',
+      '-stream_loop',
+      '${times - 1}',
+      '-i',
+      inputPath,
+      '-c:a',
+      'libopus',
+      '-b:a',
+      '${bitrate}k',
       outputPath,
     ]);
 
@@ -733,10 +879,24 @@ class FFmpegService {
   }) async {
     await _ensureBinaries();
 
-    await _shell.run(
-      '$_ffmpegPath -i "$inputPath" -i "$metadataPath" '
-      '-map_chapters 1 -map 0:a -c copy "$outputPath" -y'
-    );
+    final result = await Process.run(_ffmpegPath!, [
+      '-i',
+      inputPath,
+      '-i',
+      metadataPath,
+      '-map_chapters',
+      '1',
+      '-map',
+      '0:a',
+      '-c',
+      'copy',
+      outputPath,
+      '-y',
+    ]);
+
+    if (result.exitCode != 0) {
+      throw Exception('Failed to add metadata: ${result.stderr}');
+    }
   }
 }
 
