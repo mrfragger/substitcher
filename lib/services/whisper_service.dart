@@ -44,7 +44,8 @@ class WhisperService {
 
   int msOffset = 0;
   bool printColors = false;
-  String customPrompt = "The example of those who disbelieve is like that of one who shouts at what hears nothing but calls and cries i.e., cattle or sheep - deaf, dumb and blind, so they do not understand.";
+  String customPrompt =
+      "The example of those who disbelieve is like that of one who shouts at what hears nothing but calls and cries i.e., cattle or sheep - deaf, dumb and blind, so they do not understand.";
 
   List<String> customPromptHistory = [];
 
@@ -90,13 +91,13 @@ class WhisperService {
   }
 
   Future<void> cancelTranscription() async {
-     _shouldCancelTranscription = true;
-     if (_currentWhisperProcess != null) {
-       print('Killing whisper process...');
-       _currentWhisperProcess!.kill();
-       _currentWhisperProcess = null;
-     }
-   }
+    _shouldCancelTranscription = true;
+    if (_currentWhisperProcess != null) {
+      print('Killing whisper process...');
+      _currentWhisperProcess!.kill();
+      _currentWhisperProcess = null;
+    }
+  }
 
   Future<void> _ensureFFmpeg() async {
     if (_ffmpegPath != null) return;
@@ -109,7 +110,8 @@ class WhisperService {
       final bundledFfmpeg = path.join(resourcesDir, 'ffmpeg');
       final bundledFfprobe = path.join(resourcesDir, 'ffprobe');
 
-      if (File(bundledFfmpeg).existsSync() && File(bundledFfprobe).existsSync()) {
+      if (File(bundledFfmpeg).existsSync() &&
+          File(bundledFfprobe).existsSync()) {
         _ffmpegPath = bundledFfmpeg;
         _ffprobePath = bundledFfprobe;
         print('WhisperService using bundled ffmpeg: $_ffmpegPath');
@@ -123,7 +125,8 @@ class WhisperService {
       final bundledFfmpeg = path.join(binDir, 'ffmpeg.exe');
       final bundledFfprobe = path.join(binDir, 'ffprobe.exe');
 
-      if (File(bundledFfmpeg).existsSync() && File(bundledFfprobe).existsSync()) {
+      if (File(bundledFfmpeg).existsSync() &&
+          File(bundledFfprobe).existsSync()) {
         _ffmpegPath = bundledFfmpeg;
         _ffprobePath = bundledFfprobe;
         print('WhisperService using bundled ffmpeg: $_ffmpegPath');
@@ -137,7 +140,8 @@ class WhisperService {
       final bundledFfmpeg = path.join(binDir, 'ffmpeg');
       final bundledFfprobe = path.join(binDir, 'ffprobe');
 
-      if (File(bundledFfmpeg).existsSync() && File(bundledFfprobe).existsSync()) {
+      if (File(bundledFfmpeg).existsSync() &&
+          File(bundledFfprobe).existsSync()) {
         _ffmpegPath = bundledFfmpeg;
         _ffprobePath = bundledFfprobe;
         print('WhisperService using bundled ffmpeg: $_ffmpegPath');
@@ -210,14 +214,15 @@ class WhisperService {
     // just return the original path with no extra env vars.
     if (!Platform.isLinux ||
         (!whisperExecutablePath.contains('/tmp/.mount_') &&
-        !whisperExecutablePath.contains('/tmp/appimage'))) {
+            !whisperExecutablePath.contains('/tmp/appimage'))) {
       return {
         'path': whisperExecutablePath,
         'env': <String, String>{},
       };
     }
 
-    print('Detected Linux AppImage mount; copying whisper-cli and libraries to temp...');
+    print(
+        'Detected Linux AppImage mount; copying whisper-cli and libraries to temp...');
 
     // Locate original file + its directory
     final origFile = File(whisperExecutablePath);
@@ -250,11 +255,15 @@ class WhisperService {
 
     // Pick out the two libraries we care about for LD_PRELOAD
     final libGgml = copiedSoFiles.firstWhere(
-      (s) => path.basename(s).startsWith('libggml') && !path.basename(s).contains('-'),
+      (s) =>
+          path.basename(s).startsWith('libggml') &&
+          !path.basename(s).contains('-'),
       orElse: () => throw Exception('libggml.so not found'),
     );
     final libWhisper = copiedSoFiles.firstWhere(
-      (s) => path.basename(s) == 'libwhisper.so' || path.basename(s).startsWith('libwhisper.so.'),
+      (s) =>
+          path.basename(s) == 'libwhisper.so' ||
+          path.basename(s).startsWith('libwhisper.so.'),
       orElse: () => throw Exception('libwhisper.so not found'),
     );
 
@@ -284,11 +293,11 @@ class WhisperService {
   }
 
   Future<void> transcribeChapters(
-    String chaptersDirectory,
-    Function(String status, double progress, Duration cumulativeDuration) onProgress,
-    Function(String error) onError,
-    {String? targetAudiobookPath}
-  ) async {
+      String chaptersDirectory,
+      Function(String status, double progress, Duration cumulativeDuration)
+          onProgress,
+      Function(String error) onError,
+      {String? targetAudiobookPath}) async {
     _shouldCancelTranscription = false;
     isTranscribing = true;
     onProgressCallback = onProgress;
@@ -333,7 +342,8 @@ class WhisperService {
         return;
       }
 
-      opusFiles.sort((a, b) => path.basename(a.path).compareTo(path.basename(b.path)));
+      opusFiles.sort(
+          (a, b) => path.basename(a.path).compareTo(path.basename(b.path)));
 
       final skippedChapters = <String>[];
       final remainingFiles = <File>[];
@@ -349,7 +359,8 @@ class WhisperService {
       }
 
       if (skippedChapters.isNotEmpty) {
-        transcriptionStatus = 'Skipped ${skippedChapters.length} already transcribed chapters';
+        transcriptionStatus =
+            'Skipped ${skippedChapters.length} already transcribed chapters';
         onProgress(transcriptionStatus, 0.0, Duration.zero);
         await Future.delayed(const Duration(seconds: 1));
       }
@@ -362,7 +373,8 @@ class WhisperService {
         return;
       }
 
-      final tempWorkDir = Directory(path.join(chaptersDirectory, 'temp_transcribe'));
+      final tempWorkDir =
+          Directory(path.join(chaptersDirectory, 'temp_transcribe'));
 
       totalTranscriptionChapters = opusFiles.length;
       final chapterVttFiles = <String>[];
@@ -389,8 +401,10 @@ class WhisperService {
         tempWorkDir.createSync(recursive: true);
 
         currentTranscriptionChapter = actualChapterNumber;
-        transcriptionStatus = 'Processing chapter $actualChapterNumber/$totalTranscriptionChapters: $chapterName';
-        transcriptionProgress = (actualChapterNumber - 1) / totalTranscriptionChapters;
+        transcriptionStatus =
+            'Processing chapter $actualChapterNumber/$totalTranscriptionChapters: $chapterName';
+        transcriptionProgress =
+            (actualChapterNumber - 1) / totalTranscriptionChapters;
 
         onProgress(
           transcriptionStatus,
@@ -403,45 +417,57 @@ class WhisperService {
           tempWorkDir.path,
           modelPath,
           (segmentStatus, segmentProgress) {
-            final overallProgress = (actualChapterNumber - 1 + segmentProgress) / totalTranscriptionChapters;
+            final overallProgress =
+                (actualChapterNumber - 1 + segmentProgress) /
+                    totalTranscriptionChapters;
             transcriptionStatus = segmentStatus;
             transcriptionProgress = overallProgress;
-            onProgress(segmentStatus, overallProgress, cumulativeChapterDuration);
+            onProgress(
+                segmentStatus, overallProgress, cumulativeChapterDuration);
           },
           onError,
         );
 
         if (chapterVttPath != null) {
-          final finalChapterVtt = path.join(chaptersDirectory, '$chapterName.vtt');
+          final finalChapterVtt =
+              path.join(chaptersDirectory, '$chapterName.vtt');
           await File(chapterVttPath).copy(finalChapterVtt);
           chapterVttFiles.add(finalChapterVtt);
         }
 
         final chapterDurationSeconds = await _getOpusDuration(opusFile.path);
-        cumulativeChapterDuration += Duration(seconds: chapterDurationSeconds.toInt());
+        cumulativeChapterDuration +=
+            Duration(seconds: chapterDurationSeconds.toInt());
 
         final chapterElapsed = DateTime.now().difference(chapterStart);
-        final totalElapsedSeconds = DateTime.now().difference(sessionStartTime).inSeconds;
+        final totalElapsedSeconds =
+            DateTime.now().difference(sessionStartTime).inSeconds;
 
         final chapterTime = _formatElapsed(chapterElapsed.inSeconds);
         final totalTime = _formatElapsed(totalElapsedSeconds);
 
         double speedMultiplier = 0.0;
-        if (cumulativeChapterDuration.inSeconds > 0 && totalElapsedSeconds > 0) {
-          speedMultiplier = cumulativeChapterDuration.inSeconds / totalElapsedSeconds;
+        if (cumulativeChapterDuration.inSeconds > 0 &&
+            totalElapsedSeconds > 0) {
+          speedMultiplier =
+              cumulativeChapterDuration.inSeconds / totalElapsedSeconds;
           realtimeSpeed = '${speedMultiplier.toStringAsFixed(1)}x';
         }
 
-        final speedText = speedMultiplier > 0 ? ' (${speedMultiplier.toStringAsFixed(1)}x realtime speed)' : '';
+        final speedText = speedMultiplier > 0
+            ? ' (${speedMultiplier.toStringAsFixed(1)}x realtime speed)'
+            : '';
 
         if (speedMultiplier > 0) {
           Duration remainingAudio = Duration.zero;
           for (int j = actualChapterNumber; j < opusFiles.length; j++) {
-            final futureChapterDuration = await _getOpusDuration(opusFiles[j].path);
+            final futureChapterDuration =
+                await _getOpusDuration(opusFiles[j].path);
             remainingAudio += Duration(seconds: futureChapterDuration.toInt());
           }
 
-          final estimatedSecondsLeft = (remainingAudio.inSeconds / speedMultiplier).round();
+          final estimatedSecondsLeft =
+              (remainingAudio.inSeconds / speedMultiplier).round();
           final estDuration = Duration(seconds: estimatedSecondsLeft);
           final estHours = estDuration.inHours;
           final estMinutes = estDuration.inMinutes.remainder(60);
@@ -456,8 +482,10 @@ class WhisperService {
           totalRemainingDuration = remainingAudio;
         }
 
-        transcriptionStatus = 'Chapter $actualChapterNumber/$totalTranscriptionChapters complete: $chapterName ($chapterTime | Total: $totalTime$speedText)';
-        transcriptionProgress = actualChapterNumber / totalTranscriptionChapters;
+        transcriptionStatus =
+            'Chapter $actualChapterNumber/$totalTranscriptionChapters complete: $chapterName ($chapterTime | Total: $totalTime$speedText)';
+        transcriptionProgress =
+            actualChapterNumber / totalTranscriptionChapters;
 
         onProgress(
           transcriptionStatus,
@@ -476,7 +504,8 @@ class WhisperService {
       }
 
       if (allChapterVtts.length > 1) {
-        transcriptionStatus = 'Merging ${allChapterVtts.length} chapter VTT files...';
+        transcriptionStatus =
+            'Merging ${allChapterVtts.length} chapter VTT files...';
         transcriptionProgress = 0.95;
         onProgress(transcriptionStatus, 0.95, cumulativeChapterDuration);
 
@@ -497,7 +526,6 @@ class WhisperService {
       isTranscribing = false;
 
       onProgress(transcriptionStatus, 1.0, cumulativeChapterDuration);
-
     } catch (e) {
       isTranscribing = false;
       transcriptionStatus = 'Error: $e';
@@ -524,7 +552,6 @@ class WhisperService {
     final chapterName = path.basenameWithoutExtension(opusFilePath);
 
     try {
-
       onProgress('Splitting into $segmentTime segments...', 0.1);
       await _splitIntoSegments(opusFilePath, workingDirectory);
 
@@ -543,19 +570,20 @@ class WhisperService {
       await _organizeVttFiles(workingDirectory);
 
       onProgress('Stitching VTT segments...', 0.8);
-      final stitchedVttPath = await _stitchVttFilesForChapter(opusFilePath, workingDirectory);
+      final stitchedVttPath =
+          await _stitchVttFilesForChapter(opusFilePath, workingDirectory);
 
       onProgress('Chapter complete: $chapterName', 1.0);
 
       return stitchedVttPath;
-
     } catch (e) {
       onError('Error transcribing chapter: $e');
       return null;
     }
   }
 
-  Future<void> _splitIntoSegments(String opusFilePath, String workingDir) async {
+  Future<void> _splitIntoSegments(
+      String opusFilePath, String workingDir) async {
     await _ensureFFmpeg();
 
     final duration = await _getOpusDuration(opusFilePath);
@@ -578,16 +606,21 @@ class WhisperService {
           ? duration - startTime
           : segmentSecs.toDouble();
 
-      final outputPath = path.join(workingDir, '${i.toString().padLeft(4, '0')}.opus');
+      final outputPath =
+          path.join(workingDir, '${i.toString().padLeft(4, '0')}.opus');
 
       final result = await Process.run(
         _ffmpegPath!,
         [
           '-hide_banner',
-          '-ss', startTime.toString(),
-          '-i', opusFilePath,
-          '-t', segmentDuration.toString(),
-          '-c', 'copy',
+          '-ss',
+          startTime.toString(),
+          '-i',
+          opusFilePath,
+          '-t',
+          segmentDuration.toString(),
+          '-c',
+          'copy',
           '-y',
           outputPath,
         ],
@@ -623,18 +656,20 @@ class WhisperService {
           .toList();
       buffer.writeln('Found dylibs: $dylibs');
 
-      final statResult = await Process.run('ls', ['-la', whisperExecutablePath!]);
+      final statResult =
+          await Process.run('ls', ['-la', whisperExecutablePath!]);
       buffer.writeln('File permissions: ${statResult.stdout}');
 
-      final xattrResult = await Process.run('xattr', ['-l', whisperExecutablePath!]);
+      final xattrResult =
+          await Process.run('xattr', ['-l', whisperExecutablePath!]);
       buffer.writeln('Extended attributes: ${xattrResult.stdout}');
       if (xattrResult.stdout.toString().contains('quarantine')) {
         buffer.writeln('WARNING: Quarantine flag is set!');
       }
 
-      final codesignResult = await Process.run('codesign', ['-dv', whisperExecutablePath!]);
+      final codesignResult =
+          await Process.run('codesign', ['-dv', whisperExecutablePath!]);
       buffer.writeln('Code signing: ${codesignResult.stderr}');
-
     } else if (Platform.isLinux) {
       final soFiles = Directory(whisperDir)
           .listSync()
@@ -643,7 +678,8 @@ class WhisperService {
           .toList();
       buffer.writeln('Found .so files: $soFiles');
 
-      final statResult = await Process.run('ls', ['-la', whisperExecutablePath!]);
+      final statResult =
+          await Process.run('ls', ['-la', whisperExecutablePath!]);
       buffer.writeln('File permissions: ${statResult.stdout}');
 
       final lddResult = await Process.run('ldd', [whisperExecutablePath!]);
@@ -653,9 +689,8 @@ class WhisperService {
       try {
         final cpuInfo = await File('/proc/cpuinfo').readAsString();
         final flagsLine = cpuInfo.split('\n').firstWhere(
-          (line) => line.startsWith('flags'),
-          orElse: () => 'flags: not found'
-        );
+            (line) => line.startsWith('flags'),
+            orElse: () => 'flags: not found');
 
         final hasAVX = flagsLine.contains(' avx ');
         final hasAVX2 = flagsLine.contains(' avx2 ');
@@ -665,12 +700,16 @@ class WhisperService {
 
         if (!hasAVX) {
           buffer.writeln('\n=== CPU COMPATIBILITY WARNING ===');
-          buffer.writeln('Your CPU does not support AVX instructions (introduced ~2011-2013).');
-          buffer.writeln('The bundled whisper-cli binary requires AVX support.');
+          buffer.writeln(
+              'Your CPU does not support AVX instructions (introduced ~2011-2013).');
+          buffer
+              .writeln('The bundled whisper-cli binary requires AVX support.');
           buffer.writeln('You are using very old hardware (pre-2014).');
-          buffer.writeln('\nIf whisper fails with exit code -4 (SIGILL), you will need to:');
+          buffer.writeln(
+              '\nIf whisper fails with exit code -4 (SIGILL), you will need to:');
           buffer.writeln('1. Compile whisper.cpp yourself without AVX:');
-          buffer.writeln('   cmake -DGGML_AVX=OFF -DGGML_AVX2=OFF -DGGML_FMA=OFF ..');
+          buffer.writeln(
+              '   cmake -DGGML_AVX=OFF -DGGML_AVX2=OFF -DGGML_FMA=OFF ..');
           buffer.writeln('2. Point SubStitcher to your custom build');
         }
       } catch (e) {
@@ -680,7 +719,6 @@ class WhisperService {
       buffer.writeln('\n=== BINARY INFO ===');
       final fileResult = await Process.run('file', [whisperExecutablePath!]);
       buffer.writeln('Binary type: ${fileResult.stdout}');
-
     } else if (Platform.isWindows) {
       final dllFiles = Directory(whisperDir)
           .listSync()
@@ -688,6 +726,76 @@ class WhisperService {
           .map((e) => path.basename(e.path))
           .toList();
       buffer.writeln('Found DLLs: $dllFiles');
+
+      buffer.writeln('\n=== MARK-OF-THE-WEB CHECK ===');
+      try {
+        // Files downloaded/extracted from an archive on Windows can get a hidden
+        // Zone.Identifier alternate data stream, which triggers SmartScreen/Defender
+        // blocking when Windows tries to execute them.
+        final motwResult = await Process.run(
+          'powershell',
+          [
+            '-NoProfile',
+            '-Command',
+            'Get-Item -Path "$whisperExecutablePath" -Stream Zone.Identifier -ErrorAction SilentlyContinue | Select-Object -ExpandProperty Length',
+          ],
+        ).timeout(const Duration(seconds: 5));
+
+        final motwOutput = motwResult.stdout.toString().trim();
+        if (motwOutput.isNotEmpty) {
+          buffer.writeln(
+              'WARNING: whisper-cli.exe is marked as downloaded from the internet (Zone.Identifier present).');
+          buffer.writeln('Windows may silently block it from running.');
+          buffer.writeln('Fix: run this in PowerShell to unblock it:');
+          buffer.writeln('  Unblock-File -Path "$whisperExecutablePath"');
+        } else {
+          buffer.writeln(
+              'No Mark-of-the-Web found - file is not blocked by that mechanism.');
+        }
+      } catch (e) {
+        buffer.writeln('Could not check Mark-of-the-Web status: $e');
+      }
+
+      buffer.writeln('\n=== DLL DEPENDENCY CHECK ===');
+      try {
+        // No dumpbin/Dependency Walker guarantee on a user's machine, so we approximate
+        // by checking common VC++ runtime DLLs are either bundled or resolvable from System32.
+        final missingCommonRuntimes = <String>[];
+        final commonRuntimeDlls = [
+          'vcruntime140.dll',
+          'vcruntime140_1.dll',
+          'msvcp140.dll',
+        ];
+
+        for (final dll in commonRuntimeDlls) {
+          final foundLocally = dllFiles.any((f) => f.toLowerCase() == dll);
+          if (!foundLocally) {
+            final systemDllPath = path.join(
+              Platform.environment['SystemRoot'] ?? 'C:\\Windows',
+              'System32',
+              dll,
+            );
+            if (!File(systemDllPath).existsSync()) {
+              missingCommonRuntimes.add(dll);
+            }
+          }
+        }
+
+        if (missingCommonRuntimes.isNotEmpty) {
+          buffer.writeln(
+              'WARNING: Possibly missing Visual C++ runtime DLLs: $missingCommonRuntimes');
+          buffer.writeln(
+              'These are not bundled with whisper-cli.exe and were not found in System32.');
+          buffer.writeln(
+              'Fix: install the Visual C++ Redistributable (x64) from Microsoft:');
+          buffer.writeln('  https://aka.ms/vs/17/release/vc_redist.x64.exe');
+        } else {
+          buffer.writeln(
+              'Common VC++ runtime DLLs appear present (bundled or in System32).');
+        }
+      } catch (e) {
+        buffer.writeln('Could not run DLL dependency check: $e');
+      }
     }
 
     try {
@@ -714,15 +822,41 @@ class WhisperService {
       buffer.writeln('Exit code: ${testResult.exitCode}');
 
       if (testResult.exitCode == -4) {
-        buffer.writeln('\n FATAL ERROR: Exit code -4 (SIGILL - Illegal Instruction)');
-        buffer.writeln('Your CPU does not support the instructions required by this binary.');
+        buffer.writeln(
+            '\n FATAL ERROR: Exit code -4 (SIGILL - Illegal Instruction)');
+        buffer.writeln(
+            'Your CPU does not support the instructions required by this binary.');
         buffer.writeln('This confirms your CPU lacks AVX support.');
-        buffer.writeln('\nYou must compile whisper.cpp without AVX for your old CPU.');
+        buffer.writeln(
+            '\nYou must compile whisper.cpp without AVX for your old CPU.');
+      } else if (Platform.isWindows && testResult.exitCode == 3221225781) {
+        // 0xC0000135 as unsigned = STATUS_DLL_NOT_FOUND
+        buffer.writeln(
+            '\nFATAL ERROR: Exit code 3221225781 (0xC0000135 - STATUS_DLL_NOT_FOUND)');
+        buffer.writeln(
+            'A required DLL could not be found. This usually means a missing');
+        buffer.writeln(
+            'Visual C++ Redistributable - see the DLL dependency check above.');
+      } else if (Platform.isWindows && testResult.exitCode == 3221225477) {
+        // 0xC0000005 as unsigned = STATUS_ACCESS_VIOLATION
+        buffer.writeln(
+            '\nFATAL ERROR: Exit code 3221225477 (0xC0000005 - Access Violation)');
+        buffer.writeln(
+            'The process crashed. This can happen if the executable was blocked');
+        buffer.writeln(
+            'or corrupted during extraction - see the Mark-of-the-Web check above,');
+        buffer.writeln('or try re-installing the app.');
+      } else if (Platform.isWindows && testResult.exitCode == 5) {
+        buffer.writeln('\nFATAL ERROR: Exit code 5 (Access Denied)');
+        buffer.writeln(
+            'Windows refused to run this executable - see the Mark-of-the-Web check above.');
       } else if (testResult.exitCode == 0) {
         buffer.writeln('SUCCESS! Whisper executable is working.');
-        buffer.writeln('Stdout: ${testResult.stdout.toString().substring(0, min(500, testResult.stdout.toString().length))}');
+        buffer.writeln(
+            'Stdout: ${testResult.stdout.toString().substring(0, min(500, testResult.stdout.toString().length))}');
       } else {
-        buffer.writeln('Stdout: ${testResult.stdout.toString().substring(0, min(500, testResult.stdout.toString().length))}');
+        buffer.writeln(
+            'Stdout: ${testResult.stdout.toString().substring(0, min(500, testResult.stdout.toString().length))}');
         buffer.writeln('Stderr: ${testResult.stderr}');
       }
     } catch (e) {
@@ -737,11 +871,14 @@ class WhisperService {
     final dir = Directory(workingDir);
     final opusSegments = dir
         .listSync()
-        .where((e) => e is File && path.basename(e.path).startsWith(RegExp(r'^\d{4}\.opus$')))
+        .where((e) =>
+            e is File &&
+            path.basename(e.path).startsWith(RegExp(r'^\d{4}\.opus$')))
         .cast<File>()
         .toList();
 
-    opusSegments.sort((a, b) => path.basename(a.path).compareTo(path.basename(b.path)));
+    opusSegments
+        .sort((a, b) => path.basename(a.path).compareTo(path.basename(b.path)));
 
     final wavFiles = <String>[];
 
@@ -753,10 +890,14 @@ class WhisperService {
         _ffmpegPath!,
         [
           '-hide_banner',
-          '-i', opusFile.path,
-          '-f', 'wav',
-          '-ar', '16000',
-          '-ac', '1',
+          '-i',
+          opusFile.path,
+          '-f',
+          'wav',
+          '-ar',
+          '16000',
+          '-ac',
+          '1',
           wavPath,
         ],
       );
@@ -781,11 +922,14 @@ class WhisperService {
     final environment = whisperInfo['env'] as Map<String, String>;
 
     final args = <String>[
-      '-m', modelPath,
+      '-m',
+      modelPath,
       ...wavFiles,
       '-ovtt',
-      '-t', '8',
-      '-l', language,
+      '-t',
+      '8',
+      '-l',
+      language,
     ];
 
     if (translateToEnglish && selectedModel != 'large-v3-turbo') {
@@ -852,7 +996,8 @@ class WhisperService {
 
       if (exitCode != 0) {
         _currentWhisperProcess = null;
-        throw Exception('Whisper failed (exit $exitCode): ${stderr.toString()}');
+        throw Exception(
+            'Whisper failed (exit $exitCode): ${stderr.toString()}');
       }
 
       _currentWhisperProcess = null;
@@ -879,7 +1024,8 @@ class WhisperService {
         .cast<File>()
         .toList();
 
-    vttFiles.sort((a, b) => path.basename(a.path).compareTo(path.basename(b.path)));
+    vttFiles
+        .sort((a, b) => path.basename(a.path).compareTo(path.basename(b.path)));
 
     int counter = 0;
     for (final vttFile in vttFiles) {
@@ -890,16 +1036,20 @@ class WhisperService {
     }
   }
 
-  Future<String> _stitchVttFilesForChapter(String originalOpusPath, String workingDir) async {
+  Future<String> _stitchVttFilesForChapter(
+      String originalOpusPath, String workingDir) async {
     final vttSubsDir = Directory(path.join(workingDir, 'vttsubs'));
 
     final opusSegments = Directory(workingDir)
         .listSync()
-        .where((e) => e is File && RegExp(r'^\d{4}\.opus$').hasMatch(path.basename(e.path)))
+        .where((e) =>
+            e is File &&
+            RegExp(r'^\d{4}\.opus$').hasMatch(path.basename(e.path)))
         .cast<File>()
         .toList();
 
-    opusSegments.sort((a, b) => path.basename(a.path).compareTo(path.basename(b.path)));
+    opusSegments
+        .sort((a, b) => path.basename(a.path).compareTo(path.basename(b.path)));
 
     double tsum = 0.0;
     final shiftedVttFiles = <String>[];
@@ -956,12 +1106,9 @@ class WhisperService {
     return finalVtt;
   }
 
-  Future<void> mergeChapterVttFiles(
-    List<String> chapterVttFiles,
-    String outputDir,
-    List<String> originalOpusFiles,
-    {String? targetAudiobookPath}
-  ) async {
+  Future<void> mergeChapterVttFiles(List<String> chapterVttFiles,
+      String outputDir, List<String> originalOpusFiles,
+      {String? targetAudiobookPath}) async {
     if (chapterVttFiles.isEmpty) return;
 
     final parentDir = Directory(outputDir).parent.path;
@@ -985,7 +1132,8 @@ class WhisperService {
       }
     }
 
-    final mergedVttOriginal = path.join(outputDir, '${baseFilename}_original_overlaps.vtt');
+    final mergedVttOriginal =
+        path.join(outputDir, '${baseFilename}_original_overlaps.vtt');
     final output = StringBuffer();
     output.writeln('WEBVTT');
     output.writeln();
@@ -1064,7 +1212,8 @@ class WhisperService {
     return 0.0;
   }
 
-  Future<void> _vttShift(String inputPath, double shiftSeconds, String outputPath) async {
+  Future<void> _vttShift(
+      String inputPath, double shiftSeconds, String outputPath) async {
     final content = await File(inputPath).readAsLines();
     final output = StringBuffer();
 
@@ -1073,7 +1222,8 @@ class WhisperService {
         final parts = line.split('-->');
         if (parts.length == 2) {
           final startShifted = _shiftTimecode(parts[0].trim(), shiftSeconds);
-          final endShifted = _shiftTimecode(parts[1].trim().split(' ')[0], shiftSeconds);
+          final endShifted =
+              _shiftTimecode(parts[1].trim().split(' ')[0], shiftSeconds);
           output.writeln('$startShifted --> $endShifted');
         }
       } else {
@@ -1109,7 +1259,9 @@ class WhisperService {
 
   Future<void> _addHourToTimecodes(String inputPath, String outputPath) async {
     final content = await File(inputPath).readAsString();
-    final pattern = RegExp(r'(^[0-9]{2}:[0-9]{2}\.[0-9]{3} --> )([0-9]{2}:[0-9]{2}\.[0-9]{3})', multiLine: true);
+    final pattern = RegExp(
+        r'(^[0-9]{2}:[0-9]{2}\.[0-9]{3} --> )([0-9]{2}:[0-9]{2}\.[0-9]{3})',
+        multiLine: true);
     final modified = content.replaceAllMapped(pattern, (match) {
       return '00:${match.group(1)}00:${match.group(2)}';
     });
@@ -1156,9 +1308,11 @@ class WhisperService {
     return '${h.toString().padLeft(2, '0')}:${m.toString().padLeft(2, '0')}:${s.toString().padLeft(2, '0')}.${msRemainder.toString().padLeft(3, '0')}';
   }
 
-  Future<void> _fixOverlappingTimecodes(String inputPath, String outputPath) async {
+  Future<void> _fixOverlappingTimecodes(
+      String inputPath, String outputPath) async {
     final content = await File(inputPath).readAsString();
-    final blocks = content.split('\n\n').where((b) => b.trim().isNotEmpty).toList();
+    final blocks =
+        content.split('\n\n').where((b) => b.trim().isNotEmpty).toList();
 
     final List<Map<String, dynamic>> subtitleBlocks = [];
 
@@ -1222,7 +1376,8 @@ class WhisperService {
       final endMs = block['endMs'] as int;
       final text = block['text'] as List<String>;
 
-      output.writeln('${_millisecondsToTimecode(startMs)} --> ${_millisecondsToTimecode(endMs)}');
+      output.writeln(
+          '${_millisecondsToTimecode(startMs)} --> ${_millisecondsToTimecode(endMs)}');
       for (final line in text) {
         output.writeln(line);
       }
@@ -1233,7 +1388,8 @@ class WhisperService {
 
     finalOutput = finalOutput.replaceAll('\r\n', '\n').replaceAll('\r', '\n');
     finalOutput = finalOutput.replaceAll(RegExp(r'\n{3,}'), '\n\n');
-    finalOutput = finalOutput.split('\n').map((line) => line.trimRight()).join('\n');
+    finalOutput =
+        finalOutput.split('\n').map((line) => line.trimRight()).join('\n');
     finalOutput = finalOutput.trim() + '\n';
 
     await File(outputPath).writeAsString(finalOutput);
