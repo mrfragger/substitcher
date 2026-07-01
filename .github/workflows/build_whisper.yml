@@ -73,46 +73,23 @@ jobs:
 
       - name: Fix library paths for bundling
         run: |
-          cd whisper.cpp/build-arm64
+          cd whisper.cpp/build-arm64/bin
 
           echo "=== Original library dependencies ==="
-          otool -L bin/whisper-cli
+          otool -L whisper-cli
 
-          install_name_tool -change @rpath/libwhisper.1.dylib @executable_path/libwhisper.1.dylib bin/whisper-cli
-          install_name_tool -change @rpath/libwhisper.dylib @executable_path/libwhisper.dylib bin/whisper-cli
-          install_name_tool -change @rpath/libggml.dylib @executable_path/libggml.dylib bin/whisper-cli
-          install_name_tool -change @rpath/libggml-base.dylib @executable_path/libggml-base.dylib bin/whisper-cli
-          install_name_tool -change @rpath/libggml-cpu.dylib @executable_path/libggml-cpu.dylib bin/whisper-cli
-          install_name_tool -change @rpath/libggml-metal.dylib @executable_path/libggml-metal.dylib bin/whisper-cli
-          install_name_tool -change @rpath/libggml-blas.dylib @executable_path/libggml-blas.dylib bin/whisper-cli
-
-          cd src
-          for lib in libwhisper*.dylib; do
-            if [ -f "$lib" ] && [ ! -L "$lib" ]; then
-              echo "Fixing $lib"
-              install_name_tool -id @loader_path/$lib "$lib"
-              install_name_tool -change @rpath/libggml.dylib @loader_path/libggml.dylib "$lib" 2>/dev/null || true
-              install_name_tool -change @rpath/libggml-base.dylib @loader_path/libggml-base.dylib "$lib" 2>/dev/null || true
-              install_name_tool -change @rpath/libggml-cpu.dylib @loader_path/libggml-cpu.dylib "$lib" 2>/dev/null || true
-              install_name_tool -change @rpath/libggml-metal.dylib @loader_path/libggml-metal.dylib "$lib" 2>/dev/null || true
-              install_name_tool -change @rpath/libggml-blas.dylib @loader_path/libggml-blas.dylib "$lib" 2>/dev/null || true
-            fi
-          done
-
-          cd ../ggml/src
+          # Give every dylib a loader-relative ID (they all live together in bin/)
           for lib in *.dylib; do
-            if [ -f "$lib" ] && [ ! -L "$lib" ]; then
-              echo "Fixing ggml lib: $lib"
-              install_name_tool -id @loader_path/$lib "$lib"
-              install_name_tool -change @rpath/libggml.dylib @loader_path/libggml.dylib "$lib" 2>/dev/null || true
-              install_name_tool -change @rpath/libggml-base.dylib @loader_path/libggml-base.dylib "$lib" 2>/dev/null || true
-              install_name_tool -change @rpath/libggml-cpu.dylib @loader_path/libggml-cpu.dylib "$lib" 2>/dev/null || true
-              install_name_tool -change @rpath/libggml-metal.dylib @loader_path/libggml-metal.dylib "$lib" 2>/dev/null || true
-              install_name_tool -change @rpath/libggml-blas.dylib @loader_path/libggml-blas.dylib "$lib" 2>/dev/null || true
-            fi
+            install_name_tool -id "@executable_path/$lib" "$lib"
           done
 
-          cd ../../bin
+          # Rewrite every @rpath reference, in the exe and in each dylib, to @executable_path
+          for target in whisper-cli *.dylib; do
+            for dep in $(otool -L "$target" | awk '/@rpath\//{print $1}'); do
+              libname=$(basename "$dep")
+              install_name_tool -change "$dep" "@executable_path/$libname" "$target"
+            done
+          done
 
           echo "=== Fixed library dependencies ==="
           otool -L whisper-cli
@@ -121,14 +98,11 @@ jobs:
 
       - name: Collect all libraries
         run: |
-          cd whisper.cpp/build-arm64
-          mkdir -p ../../whisper-binaries/macos
+          cd whisper.cpp/build-arm64/bin
+          mkdir -p ../../../whisper-binaries/macos
+          cp whisper-cli *.dylib ../../../whisper-binaries/macos/
 
-          cp bin/whisper-cli ../../whisper-binaries/macos/
-          cp src/libwhisper*.dylib ../../whisper-binaries/macos/ || true
-          find ggml -name "*.dylib" -type f -exec cp {} ../../whisper-binaries/macos/ \;
-
-          cd ../../whisper-binaries/macos
+          cd ../../../whisper-binaries/macos
           chmod +x whisper-cli *.dylib
 
           echo "=== Final contents ==="
