@@ -66,7 +66,8 @@ jobs:
             -DGGML_METAL=ON \
             -DWHISPER_METAL=ON \
             -DWHISPER_BUILD_TESTS=OFF \
-            -DWHISPER_BUILD_EXAMPLES=ON
+            -DWHISPER_BUILD_EXAMPLES=ON \
+            -DBUILD_SHARED_LIBS=ON
           cmake --build . --config Release -j 4
           strip bin/whisper-cli
 
@@ -209,7 +210,8 @@ jobs:
           cmake -S . -B ./build -A x64 `
             -DCMAKE_BUILD_TYPE=Release `
             -DBUILD_SHARED_LIBS=ON `
-            -DGGML_CUDA=ON
+            -DGGML_CUDA=ON `
+            -DCMAKE_CUDA_ARCHITECTURES="61;70;75;80;86;89"
 
       - name: Build
         run: |
