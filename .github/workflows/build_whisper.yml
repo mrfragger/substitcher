@@ -167,7 +167,7 @@ jobs:
         uses: microsoft/setup-msbuild@v2
 
       - name: Install CUDA Toolkit
-        uses: Jimver/cuda-toolkit@v0.2.27
+        uses: Jimver/cuda-toolkit@v0.2.24
         with:
           cuda: "12.4.0"
           method: "network"
