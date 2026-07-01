@@ -171,6 +171,8 @@ jobs:
         with:
           cuda: "12.4.0"
           method: "network"
+          use-github-cache: false
+          use-local-cache: false
 
       - name: Clone whisper.cpp
         run: |
