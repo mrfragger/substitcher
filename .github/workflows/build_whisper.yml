@@ -23,7 +23,7 @@ jobs:
         run: |
           git clone https://github.com/ggerganov/whisper.cpp.git
           cd whisper.cpp
-          git checkout v1.8.2
+          git checkout v1.9.1
           mkdir build && cd build
           cmake .. -DCMAKE_BUILD_TYPE=Release
           cmake --build . --config Release
@@ -54,7 +54,7 @@ jobs:
         run: |
           git clone https://github.com/ggerganov/whisper.cpp.git
           cd whisper.cpp
-          git checkout v1.8.2
+          git checkout v1.9.1
 
       - name: Build arm64 (with Metal)
         run: |
@@ -156,7 +156,7 @@ jobs:
         run: |
           git clone https://github.com/ggerganov/whisper.cpp.git
           cd whisper.cpp
-          git checkout v1.8.2
+          git checkout v1.9.1
 
       - name: Configure
         run: |
@@ -192,7 +192,7 @@ jobs:
         uses: microsoft/setup-msbuild@v2
 
       - name: Install CUDA Toolkit
-        uses: Jimver/cuda-toolkit@v0.2.16
+        uses: Jimver/cuda-toolkit@v0.2.27
         with:
           cuda: "12.4.0"
           method: "network"
@@ -201,7 +201,7 @@ jobs:
         run: |
           git clone https://github.com/ggerganov/whisper.cpp.git
           cd whisper.cpp
-          git checkout v1.8.2
+          git checkout v1.9.1
 
       - name: Configure with CUDA
         run: |
