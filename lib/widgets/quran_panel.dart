@@ -1097,6 +1097,8 @@ class _QuranPanelState extends State<QuranPanel> {
                     _quickFilterChip('Rub', 'rub'),
                     const SizedBox(width: 4),
                     _quickFilterChip('months', 'islamic months'),
+                    const SizedBox(width: 4),
+                    _quickFilterChip('99names', '#'),
                   ],
                   const Spacer(),
                   TextButton(
@@ -1263,12 +1265,20 @@ class _QuranPanelState extends State<QuranPanel> {
                                   borderRadius: BorderRadius.circular(6),
                                 ),
                                 child: GestureDetector(
-                                  onTap: widget.isQuranLoaded
-                                      ? () {
-                                          widget.onVerseSelected(ref, index);
-                                          _refInputFocusNode.requestFocus();
-                                        }
-                                      : null,
+                                  onTap: () {
+                                    if (widget.isQuranLoaded) {
+                                      widget.onVerseSelected(ref, index);
+                                      _refInputFocusNode.requestFocus();
+                                    } else {
+                                      final refString = (ref.toAyah != null &&
+                                              ref.toAyah != ref.fromAyah)
+                                          ? '${ref.surah}:${ref.fromAyah}-${ref.toAyah}'
+                                          : '${ref.surah}:${ref.fromAyah}';
+                                      _tafsirRefController.text = refString;
+                                      _tafsirRefFocusNode.requestFocus();
+                                      _lookupTafsir(context);
+                                    }
+                                  },
                                   child: Container(
                                     padding: const EdgeInsets.symmetric(
                                         horizontal: 10, vertical: 5),
