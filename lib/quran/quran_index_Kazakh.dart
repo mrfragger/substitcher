@@ -2342,4 +2342,454 @@ const String quranIndexKazakhRaw = r"""
 - өсек айту 49:11
 - жалған куәлік 22:30
 - сиқыр 2:102; 10:77; 20:69
+Islamic months
+- 1st Muharram sacred month; fast 9th (Tasu'a) and 10th (Ashura) sunnah 9:36
+- 2nd Safar
+- 3rd Rabi al-Awwal
+- 4th Rabi al-Thani
+- 5th Jumada al-Awwal
+- 6th Jumada al-Thani
+- 7th Rajab sacred month
+- 8th Sha'ban fast most of month (sunnah)
+- 9th Ramadan obligatory fasting; Laylat al-Qadr 2:183-185, 187; 97:1-5
+- 10th Shawwal Eid al-Fitr (1st); six days sunnah fasting
+- 11th Dhul Qa'dah sacred month
+- 12th Dhul Hijjah best ten days of year; fast first 9 days (sunnah); Day of Arafah (9th); Eid al-Adha (10th) forbidden to fast; Ayyam al-Tashriq (11th-13th) forbidden to fast 2:196-203; 22:27-28
+- Fast Mondays and Thursdays (sunnah)
+- Fast white days 13th, 14th, 15th every month (Ayyam al-Bid)
+- Hajj during Shawwal, Dhul Qaa'dah and 10 days of Dhul Hijjah of Dhul Hijjah 2:197
+Juz
+- Juz 1 1:1-7; 2:1-141
+- Juz 2 2:142-252
+- Juz 3 2:253-286; 3:1-92
+- Juz 4 3:93-200; 4:1-23
+- Juz 5 4:24-147
+- Juz 6 4:148-176; 5:1-81
+- Juz 7 5:82-120; 6:1-110
+- Juz 8 6:111-165; 7:1-87
+- Juz 9 7:88-206; 8:1-40
+- Juz 10 8:41-75; 9:1-92
+- Juz 11 9:93-129; 10:1-109; 11:1-5
+- Juz 12 11:6-123; 12:1-52
+- Juz 13 12:53-111; 13:1-43; 14:1-52
+- Juz 14 15:1-99; 16:1-128
+- Juz 15 17:1-111; 18:1-74
+- Juz 16 18:75-110; 19:1-98; 20:1-135
+- Juz 17 21:1-112; 22:1-78
+- Juz 18 23:1-118; 24:1-64; 25:1-20
+- Juz 19 25:21-77; 26:1-227; 27:1-55
+- Juz 20 27:56-93; 28:1-88; 29:1-45
+- Juz 21 29:46-69; 30:1-60; 31:1-34; 32:1-30; 33:1-30
+- Juz 22 33:31-73; 34:1-54; 35:1-45; 36:1-27
+- Juz 23 36:28-83; 37:1-182; 38:1-88; 39:1-31
+- Juz 24 39:32-75; 40:1-85; 41:1-46
+- Juz 25 41:47-54; 42:1-53; 43:1-89; 44:1-59; 45:1-37
+- Juz 26 46:1-35; 47:1-38; 48:1-29; 49:1-18; 50:1-45; 51:1-30
+- Juz 27 51:31-60; 52:1-49; 53:1-62; 54:1-55; 55:1-78; 56:1-96; 57:1-29
+- Juz 28 58:1-22; 59:1-24; 60:1-13; 61:1-14; 62:1-11; 63:1-11; 64:1-18; 65:1-12; 66:1-12
+- Juz 29 67:1-30; 68:1-52; 69:1-52; 70:1-44; 71:1-28; 72:1-28; 73:1-20; 74:1-56; 75:1-40; 76:1-31; 77:1-50
+- Juz 30 78:1-40; 79:1-46; 80:1-42; 81:1-29; 82:1-19; 83:1-36; 84:1-25; 85:1-22; 86:1-17; 87:1-19; 88:1-26; 89:1-30; 90:1-20; 91:1-15; 92:1-21; 93:1-11; 94:1-8; 95:1-8; 96:1-19; 97:1-5; 98:1-8; 99:1-8; 100:1-11; 101:1-11; 102:1-8; 103:1-3; 104:1-9; 105:1-5; 106:1-4; 107:1-7; 108:1-3; 109:1-6; 110:1-3; 111:1-5; 112:1-4; 113:1-5; 114:1-6
+Hizb (1/2)
+- Hizb 1 1:1-7; 2:1-74
+- Hizb 2 2:75-141
+- Hizb 3 2:142-202
+- Hizb 4 2:203-252
+- Hizb 5 2:253-286; 3:1-14
+- Hizb 6 3:15-92
+- Hizb 7 3:93-170
+- Hizb 8 3:171-200; 4:1-23
+- Hizb 9 4:24-87
+- Hizb 10 4:88-147
+- Hizb 11 4:148-176; 5:1-26
+- Hizb 12 5:27-81
+- Hizb 13 5:82-120; 6:1-35
+- Hizb 14 6:36-110
+- Hizb 15 6:111-165
+- Hizb 16 7:1-87
+- Hizb 17 7:88-170
+- Hizb 18 7:171-206; 8:1-40
+- Hizb 19 8:41-75; 9:1-33
+- Hizb 20 9:34-92
+- Hizb 21 9:93-129; 10:1-25
+- Hizb 22 10:26-109; 11:1-5
+- Hizb 23 11:6-83
+- Hizb 24 11:84-123; 12:1-52
+- Hizb 25 12:53-111; 13:1-18
+- Hizb 26 13:19-43; 14:1-52
+- Hizb 27 15:1-99; 16:1-50
+- Hizb 28 16:51-128
+- Hizb 29 17:1-98
+- Hizb 30 17:99-111; 18:1-74
+- Hizb 31 18:75-110; 19:1-98
+- Hizb 32 20:1-135
+- Hizb 33 21:1-112
+- Hizb 34 22:1-78
+- Hizb 35 23:1-88; 24:1-20
+- Hizb 36 24:21-64; 25:1-20
+- Hizb 37 25:21-77; 26:1-110
+- Hizb 38 26:111-227; 27:1-55
+- Hizb 39 27:56-93; 28:1-50
+- Hizb 40 28:51-88; 29:1-45
+- Hizb 41 29:46-69; 30:1-60; 31:1-21
+- Hizb 42 31:22-34; 32:1-30; 33:1-30
+- Hizb 43 33:31-73; 34:1-23
+- Hizb 44 34:24-54; 35:1-45; 36:1-27
+- Hizb 45 36:28-83; 37:1-144
+- Hizb 46 37:145-182; 38:1-88; 39:1-31
+- Hizb 47 39:32-75; 40:1-40
+- Hizb 48 40:41-85; 41:1-46
+- Hizb 49 41:47-54; 42:1-53; 43:1-23
+- Hizb 50 43:24-89; 44:1-59; 45:1-37
+- Hizb 51 46:1-35; 47:1-38; 48:1-17
+- Hizb 52 48:18-29; 49:1-18; 50:1-30
+- Hizb 53 50:31-45; 51:1-60; 52:1-49; 53:1-62; 54:1-55
+- Hizb 54 55:1-78; 56:1-96; 57:1-29
+- Hizb 55 58:1-22; 59:1-24; 60:1-13; 61:1-14
+- Hizb 56 62:1-11; 63:1-11; 64:1-18; 65:1-12; 66:1-12
+- Hizb 57 67:1-30; 68:1-52; 69:1-52; 70:1-44; 71:1-28
+- Hizb 58 72:1-28; 73:1-20; 74:1-56; 75:1-40; 76:1-31; 77:1-50
+- Hizb 59 78:1-40; 79:1-46; 80:1-42; 81:1-29; 82:1-19; 83:1-36
+- Hizb 60 84:1-25; 85:1-22; 86:1-17; 87:1-19; 88:1-26; 89:1-30; 90:1-20; 91:1-15; 92:1-21; 93:1-11; 94:1-8; 95:1-8; 96:1-19; 97:1-5; 98:1-8; 99:1-8; 100:1-11; 101:1-11; 102:1-8; 103:1-3; 104:1-9; 105:1-5; 106:1-4; 107:1-7; 108:1-3; 109:1-6; 110:1-3; 111:1-5; 112:1-4; 113:1-5; 114:1-6
+Rub (1/8)
+- Rub 1 1:1-7; 2:1-25
+- Rub 2 2:26-43
+- Rub 3 2:44-59
+- Rub 4 2:60-74
+- Rub 5 2:75-91
+- Rub 6 2:92-105
+- Rub 7 2:106-123
+- Rub 8 2:124-141
+- Rub 9 2:142-157
+- Rub 10 2:158-176
+- Rub 11 2:177-188
+- Rub 12 2:189-202
+- Rub 13 2:203-218
+- Rub 14 2:219-232
+- Rub 15 2:233-242
+- Rub 16 2:243-252
+- Rub 17 2:253-262
+- Rub 18 2:263-271
+- Rub 19 2:272-282
+- Rub 20 2:283-286; 3:1-14
+- Rub 21 3:15-32
+- Rub 22 3:33-51
+- Rub 23 3:52-74
+- Rub 24 3:75-92
+- Rub 25 3:93-112
+- Rub 26 3:113-132
+- Rub 27 3:133-152
+- Rub 28 3:153-170
+- Rub 29 3:171-185
+- Rub 30 3:186-200
+- Rub 31 4:1-11
+- Rub 32 4:12-23
+- Rub 33 4:24-35
+- Rub 34 4:36-57
+- Rub 35 4:58-73
+- Rub 36 4:74-87
+- Rub 37 4:88-99
+- Rub 38 4:100-113
+- Rub 39 4:114-134
+- Rub 40 4:135-147
+- Rub 41 4:148-162
+- Rub 42 4:163-176
+- Rub 43 5:1-11
+- Rub 44 5:12-26
+- Rub 45 5:27-40
+- Rub 46 5:41-50
+- Rub 47 5:51-66
+- Rub 48 5:67-81
+- Rub 49 5:82-96
+- Rub 50 5:97-108
+- Rub 51 5:109-120; 6:1-12
+- Rub 52 6:13-35
+- Rub 53 6:36-58
+- Rub 54 6:59-73
+- Rub 55 6:74-94
+- Rub 56 6:95-110
+- Rub 57 6:111-126
+- Rub 58 6:127-140
+- Rub 59 6:141-150
+- Rub 60 6:151-165
+- Rub 61 7:1-30
+- Rub 62 7:31-46
+- Rub 63 7:47-64
+- Rub 64 7:65-87
+- Rub 65 7:88-116
+- Rub 66 7:117-141
+- Rub 67 7:142-155
+- Rub 68 7:156-170
+- Rub 69 7:171-188
+- Rub 70 7:189-206
+- Rub 71 8:1-21
+- Rub 72 8:22-40
+- Rub 73 8:41-60
+- Rub 74 8:61-75
+- Rub 75 9:1-18
+- Rub 76 9:19-33
+- Rub 77 9:34-45
+- Rub 78 9:46-59
+- Rub 79 9:60-74
+- Rub 80 9:75-92
+- Rub 81 9:93-110
+- Rub 82 9:111-121
+- Rub 83 9:122-129; 10:1-10
+- Rub 84 10:11-25
+- Rub 85 10:26-52
+- Rub 86 10:53-70
+- Rub 87 10:71-89
+- Rub 88 10:90-109; 11:1-5
+- Rub 89 11:6-23
+- Rub 90 11:24-40
+- Rub 91 11:41-60
+- Rub 92 11:61-83
+- Rub 93 11:84-107
+- Rub 94 11:108-123; 12:1-6
+- Rub 95 12:7-29
+- Rub 96 12:30-52
+- Rub 97 12:53-76
+- Rub 98 12:77-100
+- Rub 99 12:101-111; 13:1-4
+- Rub 100 13:5-18
+- Rub 101 13:19-34
+- Rub 102 13:35-43; 14:1-9
+- Rub 103 14:10-27
+- Rub 104 14:28-52
+- Rub 105 15:1-48
+- Rub 106 15:49-99
+- Rub 107 16:1-29
+- Rub 108 16:30-50
+- Rub 109 16:51-74
+- Rub 110 16:75-89
+- Rub 111 16:90-110
+- Rub 112 16:111-128
+- Rub 113 17:1-22
+- Rub 114 17:23-49
+- Rub 115 17:50-69
+- Rub 116 17:70-98
+- Rub 117 17:99-111; 18:1-16
+- Rub 118 18:17-31
+- Rub 119 18:32-50
+- Rub 120 18:51-74
+- Rub 121 18:75-98
+- Rub 122 18:99-110; 19:1-21
+- Rub 123 19:22-58
+- Rub 124 19:59-98
+- Rub 125 20:1-54
+- Rub 126 20:55-82
+- Rub 127 20:83-110
+- Rub 128 20:111-135
+- Rub 129 21:1-28
+- Rub 130 21:29-50
+- Rub 131 21:51-82
+- Rub 132 21:83-112
+- Rub 133 22:1-18
+- Rub 134 22:19-37
+- Rub 135 22:38-59
+- Rub 136 22:60-78
+- Rub 137 23:1-35
+- Rub 138 23:36-74
+- Rub 139 23:75-118
+- Rub 140 24:1-20
+- Rub 141 24:21-34
+- Rub 142 24:35-52
+- Rub 143 24:53-64
+- Rub 144 25:1-20
+- Rub 145 25:21-52
+- Rub 146 25:53-77
+- Rub 147 26:1-51
+- Rub 148 26:52-110
+- Rub 149 26:111-180
+- Rub 150 26:181-227
+- Rub 151 27:1-26
+- Rub 152 27:27-55
+- Rub 153 27:56-81
+- Rub 154 27:82-93; 28:1-11
+- Rub 155 28:12-28
+- Rub 156 28:29-50
+- Rub 157 28:51-75
+- Rub 158 28:76-88
+- Rub 159 29:1-25
+- Rub 160 29:26-45
+- Rub 161 29:46-69
+- Rub 162 30:1-30
+- Rub 163 30:31-53
+- Rub 164 30:54-60; 31:1-21
+- Rub 165 31:22-34; 32:1-10
+- Rub 166 32:11-30
+- Rub 167 33:1-17
+- Rub 168 33:18-30
+- Rub 169 33:31-50
+- Rub 170 33:51-59
+- Rub 171 33:60-73; 34:1-9
+- Rub 172 34:10-23
+- Rub 173 34:24-45
+- Rub 174 34:46-54; 35:1-14
+- Rub 175 35:15-40
+- Rub 176 35:41-45; 36:1-27
+- Rub 177 36:28-59
+- Rub 178 36:60-83; 37:1-21
+- Rub 179 37:22-82
+- Rub 180 37:83-144
+- Rub 181 37:145-182; 38:1-20
+- Rub 182 38:21-51
+- Rub 183 38:52-88; 39:1-7
+- Rub 184 39:8-31
+- Rub 185 39:32-52
+- Rub 186 39:53-75
+- Rub 187 40:1-20
+- Rub 188 40:21-40
+- Rub 189 40:41-65
+- Rub 190 40:66-85; 41:1-8
+- Rub 191 41:9-24
+- Rub 192 41:25-46
+- Rub 193 41:47-54; 42:1-12
+- Rub 194 42:13-26
+- Rub 195 42:27-50
+- Rub 196 42:51-53; 43:1-23
+- Rub 197 43:24-56
+- Rub 198 43:57-89; 44:1-16
+- Rub 199 44:17-59; 45:1-11
+- Rub 200 45:12-37
+- Rub 201 46:1-20
+- Rub 202 46:21-35; 47:1-9
+- Rub 203 47:10-32
+- Rub 204 47:33-38; 48:1-17
+- Rub 205 48:18-29
+- Rub 206 49:1-13
+- Rub 207 49:14-18; 50:1-26
+- Rub 208 50:27-45; 51:1-30
+- Rub 209 51:31-60; 52:1-23
+- Rub 210 52:24-49; 53:1-25
+- Rub 211 53:26-62; 54:1-8
+- Rub 212 54:9-55
+- Rub 213 55:1-78
+- Rub 214 56:1-74
+- Rub 215 56:75-96; 57:1-15
+- Rub 216 57:16-29
+- Rub 217 58:1-13
+- Rub 218 58:14-22; 59:1-10
+- Rub 219 59:11-24; 60:1-6
+- Rub 220 60:7-13; 61:1-14
+- Rub 221 62:1-11; 63:1-3
+- Rub 222 63:4-11; 64:1-18
+- Rub 223 65:1-12
+- Rub 224 66:1-12
+- Rub 225 67:1-30
+- Rub 226 68:1-52
+- Rub 227 69:1-52; 70:1-18
+- Rub 228 70:19-44; 71:1-28
+- Rub 229 72:1-28; 73:1-19
+- Rub 230 73:20; 74:1-56
+- Rub 231 75:1-40; 76:1-18
+- Rub 232 76:19-31; 77:1-50
+- Rub 233 78:1-40; 79:1-46
+- Rub 234 80:1-42; 81:1-29
+- Rub 235 82:1-19; 83:1-36
+- Rub 236 84:1-25; 85:1-22; 86:1-17
+- Rub 237 87:1-19; 88:1-26; 89:1-30
+- Rub 238 90:1-20; 91:1-15; 92:1-21; 93:1-11
+- Rub 239 94:1-8; 95:1-8; 96:1-19; 97:1-5; 98:1-8; 99:1-8; 100:1-8
+- Rub 240 100:9-11; 101:1-11; 102:1-8; 103:1-3; 104:1-9; 105:1-5; 106:1-4; 107:1-7; 108:1-3; 109:1-6; 110:1-3; 111:1-5; 112:1-4; 113:1-5; 114:1-6
+The 99 Names of Allah
+- #0 Best of Names 7:180; 20:8; 59:24
+- #1 Ar Rahmaan 	The Most Compassionate 1:3; 17:110
+- #2 Ar Raheem 	The Most Merciful 2:163; 3:31; 4:100; 5:3
+- #3 Al Malik 	The King, The Sovereign 20:114; 23:116; 59:23; 62:1
+- #4 Al Quddus 	The Absolutely Pure 59:23; 62:1
+- #5 As Salaam 	The Source of Peace 59:23
+- #6 Al Mu'min 	The Giver of Faith and Security 59:23
+- #7 Al Muhaymin 	The Guardian, The Protector 59:23
+- #8 Al Azeez 	The Almighty 3:6; 4:158; 9:40; 48:7
+- #9 Al Jabbaar 	The Compeller, The Restorer 59:23
+- #10 Al Mutakabbir 	The Supreme, The Majestic 59:23
+- #11 Al Khaaliq 	The Creator 6:102; 13:16; 39:62; 40:62; 59:24
+- #12 Al Baari 	The Maker from Nothing 59:24
+- #13 Al Musawwir 	The Fashioner 59:24
+- #14 Al Ghaffaar 	The All-Forgiving 20:82; 38:66; 39:5; 40:42; 71:10
+- #15 Al Qahhaar 	The Subduer 13:16; 14:48; 38:65; 39:4; 40:16
+- #16 Al Wahhaab 	The Bestower 3:8; 38:9; 38:35
+- #17 Ar Razzaaq 	The Provider 51:58
+- #18 Al Fattaah 	The Opener 34:26
+- #19 Al 'Aleem 	The All-Knowing 2:158; 3:92; 4:35; 24:41; 33:40
+- #20 Al Qaabid 	The Withholder 2:245
+- #21 Al Baasit   The Expander  2:245
+- #22 Al Khaafid  The Abaser 95:5
+- #23 Ar Raafi'   The Exalter 58:11; 6:83
+- #24 Al Mu'izz   The Honorer  3:26
+- #25 Al Mudhil   The Humbler  3:26
+- #26 As Samee'   The All-Hearing 2:127; 2:256; 8:17; 49:1
+- #27 Al Baseer   The All-Seeing  4:58; 17:1; 42:11; 42:27
+- #28 Al Hakam    The Judge 22:69
+- #29 Al Adl      The Just  6:115
+- #30 Al Lateef   The Subtle, The Gentle 6:103; 22:63; 31:16; 33:34
+- #31 Al Khabeer  The All-Aware 6:18; 17:30; 49:13; 59:18
+- #32 Al Haleem   The Forbearing  2:235; 17:44; 22:59; 35:41
+- #33 Al 'Azeem   The Magnificent 2:255; 42:4; 56:96
+- #34 Al Ghafoor  The Great Forgiver  2:173; 8:69; 16:110; 41:32
+- #35 Ash Shakoor The Appreciative  35:30; 35:34; 42:23; 64:17
+- #36 Al Aliyy    The Most High 4:34; 31:30; 42:4; 42:51
+- #37 Al Kabeer   The Greatest  13:9; 22:62; 31:30
+- #38 Al Hafeez   The Preserver 11:57; 34:21; 42:6
+- #39 Al Muqeet   The Sustainer 4:85
+- #40 Al Haseeb   The Reckoner  4:6; 4:86; 33:39
+- #41 Al Jaleel   The Majestic  55:27; 39:14; 7:143
+- #42 Al Kareem   The Generous  27:40; 82:6
+- #43 Ar Raqeeb   The Watchful  4:1; 5:117
+- #44 Al Mujeeb   The Responsive 11:61
+- #45 Al Waasi'   The All-Encompassing 2:268; 3:73; 5:54
+- #46 Al Hakeem   The All-Wise  31:27; 46:2; 57:1; 66:2
+- #47 Al Wudood   The Most Loving 11:90; 85:14
+- #48 Al Majeed   The Glorious  11:73
+- #49 Al Baa'ith  The Resurrector 22:7
+- #50 Ash Shaheed The Witness 4:166; 22:17; 41:53; 48:28
+- #51 Al Haqq     The Truth 6:62; 22:6; 23:116; 24:25
+- #52 Al Wakeel   The Trustee 3:173; 4:171; 28:28; 73:9
+- #53 Al Qawiyy   The Strong  22:40; 22:74; 42:19; 57:25
+- #54 Al Mateen   The Firm  51:58
+- #55 Al Waliyy   The Protecting Friend 4:45; 7:196; 42:28; 45:19
+- #56 Al Hameed   The Praiseworthy  14:8; 31:12; 31:26; 41:42
+- #57 Al Muhsi    The Counter 72:28; 78:29; 82:10-12
+- #58 Al Mubdi    The Originator 10:34; 27:64; 29:19; 85:13
+- #59 Al Mu'eed   The Restorer  10:34; 27:64; 29:19; 85:13
+- #60 Al Muhiy    The Giver of Life 7:158; 15:23; 30:50; 57:2
+- #61 Al Mumeet   The Bringer of Death  3:156; 7:158; 15:23; 57:2
+- #62 Al Haiyy    The Ever-Living 2:255; 3:2; 25:58; 40:65
+- #63 Al Qayyoom  The Self-Subsisting 2:255; 3:2; 20:111
+- #64 Al Waajid   The Finder 38:44
+- #65 Al Maajid   The Noble 11:73
+- #66 Al Waahid   The One 2:163; 5:73; 9:31; 18:110
+- #67 Al Ahad     The Unique One  112:1
+- #68 As Samad    The Eternal Refuge   112:2
+- #69 Al Qaadir   The Able  6:65; 36:81; 46:33; 75:40
+- #70 Al Muqtadir The Powerful  18:45; 54:42; 54:55
+- #71 Al Muqaddim The Expediter 16:61; 17:34
+- #72 Al Mu’akhir The Delayer  71:4
+- #73 Al Awwal    The First 57:3
+- #74 Al Aakhir   The Last 57:3
+- #75 Az Zaahir   The Manifest  57:3
+- #76 Al Baatin   The Hidden 57:3
+- #77 Al Waali    The Governor  13:11; 22:7
+- #78 Al Muta’ali The Most Exalted 13:9
+- #79 Al Barr     The Source of Goodness 52:28
+- #80 At Tawwaab  The Acceptor of Repentance 2:128; 4:64; 49:12; 110:3
+- #81 Al Muntaqim The Avenger 32:22; 43:41; 44:16
+- #82 Al Afuww    The Pardoner 4:99; 4:149; 22:60
+- #83 Ar Ra’oof   The Most Kind 3:30; 9:117; 57:9; 59:10
+- #84 Maalik Ul Mulk  Master of the Kingdom 3:26
+- #85 Dhu Al Jalaali Wa Al Ikraam,  Lord of Majesty and Honor 55:27; 55:78
+- #86 Al Muqsit   The Just One 3:18; 7:29
+- #87 Al Jaami'   The Gatherer  3:9
+- #88 Al Ghaniyy  The Self-Sufficient 3:97; 39:7; 47:38; 57:24
+- #89 Al Mughni   The Enricher  9:28
+- #90 Al Maani'   The Preventer 67:21
+- #91 Ad Daaarr   The Distresser 6:17
+- #92 An Naafi’   The Benefactor  30:37
+- #93 An Noor     The Light 24:35
+- #94 Al Haadi    The Guide 25:31
+- #95 Al Badi'    The Originator  2:117; 6:101
+- #96 Al Baaqi    The Everlasting 55:27
+- #97 Al Waarith  The Inheritor 15:23
+- #98 Ar Rasheed  The Guide to the Right Path 2:256
+- #99 As Saboor   The Patient 2:153; 3:200; 103:3
 """;

@@ -1088,7 +1088,7 @@ class _QuranPanelState extends State<QuranPanel> {
                       ),
                     ),
                   ],
-                  if (widget.selectedLanguage == 'English') ...[
+                  // if (!isRtlQuranLanguage(widget.selectedLanguage)) ...[
                     const SizedBox(width: 8),
                     _quickFilterChip('Juz', 'juz'),
                     const SizedBox(width: 4),
@@ -1099,7 +1099,7 @@ class _QuranPanelState extends State<QuranPanel> {
                     _quickFilterChip('months', 'islamic months'),
                     const SizedBox(width: 4),
                     _quickFilterChip('99names', '#'),
-                  ],
+                  // ],
                   const Spacer(),
                   TextButton(
                     onPressed: () => _showSurahListPopup(context),
