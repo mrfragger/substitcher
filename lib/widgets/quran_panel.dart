@@ -69,6 +69,8 @@ class _QuranPanelState extends State<QuranPanel> {
   static bool _tafsirNoorEnglish = false;
   static bool _tafsirYacobEnglish = false;
   static String _mokhtasarLanguage = 'English';
+  static QuranVerseRef? _lastTafsirRef;
+  static int? _lastTafsirIndex;
   static List<Map<String, dynamic>> _tafsirResults = [];
   static const Map<String, List<String>> _allahByLanguage = {
     'Arabic': [
@@ -459,6 +461,13 @@ class _QuranPanelState extends State<QuranPanel> {
         active.fromAyah == ref.fromAyah &&
         active.toAyah == ref.toAyah &&
         active.isFullSurah == ref.isFullSurah;
+  }
+
+  bool _isSameRef(QuranVerseRef a, QuranVerseRef b) {
+    return a.surah == b.surah &&
+        a.fromAyah == b.fromAyah &&
+        a.toAyah == b.toAyah &&
+        a.isFullSurah == b.isFullSurah;
   }
 
   String _getSurahName(int surahNumber) {
@@ -1019,12 +1028,12 @@ class _QuranPanelState extends State<QuranPanel> {
                       style:
                           const TextStyle(color: Colors.white38, fontSize: 12)),
                   const SizedBox(width: 10),
-                  const Text('* no vtt subs',
+                  const Text('* no vtt',
                       style: TextStyle(color: Colors.white38, fontSize: 12)),
                   const SizedBox(width: 4),
                   Tooltip(
                     message:
-                        'csv needs to be downloadable on quranenc.com for vtt',
+                        'csv needs to be downloadable on quranenc.com for an available vtt',
                     preferBelow: true,
                     textStyle:
                         const TextStyle(color: Colors.white, fontSize: 12),
@@ -1037,7 +1046,7 @@ class _QuranPanelState extends State<QuranPanel> {
                   ),
                   if (widget.isQuranLoaded) ...[
                     const SizedBox(width: 16),
-                    const Text('⇧Q next reference',
+                    const Text('⇧Q next ayah',
                         style: TextStyle(color: Colors.white38, fontSize: 12)),
                     const SizedBox(width: 10),
                     SizedBox(
@@ -1088,7 +1097,6 @@ class _QuranPanelState extends State<QuranPanel> {
                       ),
                     ),
                   ],
-                  // if (!isRtlQuranLanguage(widget.selectedLanguage)) ...[
                     const SizedBox(width: 8),
                     _quickFilterChip('Juz', 'juz'),
                     const SizedBox(width: 4),
@@ -1099,7 +1107,10 @@ class _QuranPanelState extends State<QuranPanel> {
                     _quickFilterChip('months', 'islamic months'),
                     const SizedBox(width: 4),
                     _quickFilterChip('99names', '#'),
-                  // ],
+                    if (widget.selectedLanguage == 'English') ...[
+                      const SizedBox(width: 4),
+                      _quickFilterChip('=ayah', '\='),
+                    ],
                   const Spacer(),
                   TextButton(
                     onPressed: () => _showSurahListPopup(context),
@@ -1133,7 +1144,11 @@ class _QuranPanelState extends State<QuranPanel> {
                 itemBuilder: (context, index) {
                   final entry = filtered[index];
                   final globalIndex = widget.entries.indexOf(entry);
-                  final hasActiveRef = entry.refs.any(_isActiveRef);
+                  final hasActiveRef = entry.refs.any((r) =>
+                      _isActiveRef(r) ||
+                      (!widget.isQuranLoaded &&
+                          _lastTafsirRef != null &&
+                          _isSameRef(_lastTafsirRef!, r)));
 
                   if (entry.refs.isEmpty && entry.isSubtopic) {
                     return Padding(
@@ -1253,7 +1268,10 @@ class _QuranPanelState extends State<QuranPanel> {
                             spacing: 6,
                             runSpacing: 6,
                             children: entry.refs.map((ref) {
-                              final isActive = _isActiveRef(ref);
+                              final isActive = _isActiveRef(ref) ||
+                                  (!widget.isQuranLoaded &&
+                                      _lastTafsirRef != null &&
+                                      _isSameRef(_lastTafsirRef!, ref));
                               return Tooltip(
                                 message: _getSurahName(ref.surah),
                                 preferBelow: true,
@@ -1274,6 +1292,10 @@ class _QuranPanelState extends State<QuranPanel> {
                                               ref.toAyah != ref.fromAyah)
                                           ? '${ref.surah}:${ref.fromAyah}-${ref.toAyah}'
                                           : '${ref.surah}:${ref.fromAyah}';
+                                      setState(() {
+                                        _lastTafsirRef = ref;
+                                        _lastTafsirIndex = index;
+                                      });
                                       _tafsirRefController.text = refString;
                                       _tafsirRefFocusNode.requestFocus();
                                       _lookupTafsir(context);
@@ -1421,12 +1443,23 @@ class _QuranPanelState extends State<QuranPanel> {
                   ),
                   const SizedBox(width: 8),
                   IconButton(
-                    icon: const Icon(Icons.clear_all,
-                        color: Colors.deepOrange, size: 18),
+                    icon: const Icon(Icons.clear_all, color: Colors.deepOrange, size: 18),
                     tooltip: 'Clear tafsir',
                     padding: EdgeInsets.zero,
                     constraints: const BoxConstraints(),
-                    onPressed: () => setState(() => _tafsirResults = []),
+                    onPressed: () {
+                      setState(() => _tafsirResults = []);
+                      if (_lastTafsirIndex != null) {
+                        WidgetsBinding.instance.addPostFrameCallback((_) {
+                          if (_itemScrollController.isAttached) {
+                            _itemScrollController.scrollTo(
+                              index: _lastTafsirIndex!,
+                              duration: const Duration(milliseconds: 300),
+                            );
+                          }
+                        });
+                      }
+                    },
                   ),
                   const SizedBox(width: 8),
                   _tafsirCheckbox('Mokhtasar', _tafsirMokhtasar, (v) {
