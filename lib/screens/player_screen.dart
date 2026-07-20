@@ -225,8 +225,11 @@ class _PlayerScreenState extends State<PlayerScreen>
   final FocusNode _quranExcludeFocusNode = FocusNode();
   final FocusNode _hadeethSearchFocusNode = FocusNode();
   final FocusNode _hadeethExcludeFocusNode = FocusNode();
+  final FocusNode _tafsirSearchFocusNode = FocusNode();
+
   String _quranSearchQuery = '';
   String _quranExcludeQuery = '';
+  final TextEditingController _tafsirSearchController = TextEditingController();
   final TextEditingController _quranSearchController = TextEditingController();
   final TextEditingController _quranExcludeController = TextEditingController();
   int? _activeQuranFilteredIndex;
@@ -485,6 +488,8 @@ class _PlayerScreenState extends State<PlayerScreen>
     _excludeController.dispose();
     _searchFocusNode.dispose();
     _excludeFocusNode.dispose();
+    _tafsirSearchController.dispose();
+    _tafsirSearchFocusNode.dispose();
     _quranSearchFocusNode.dispose();
     _quranExcludeFocusNode.dispose();
     _hadeethSearchFocusNode.dispose();
@@ -7309,7 +7314,8 @@ class _PlayerScreenState extends State<PlayerScreen>
             _quranExcludeFocusNode.hasFocus ||
             _quranRefInputFocusNode.hasFocus ||
             _hadeethSearchFocusNode.hasFocus ||
-            _hadeethExcludeFocusNode.hasFocus) {
+            _hadeethExcludeFocusNode.hasFocus ||
+            _tafsirSearchFocusNode.hasFocus) {
           return KeyEventResult.ignored;
         }
 
@@ -8324,6 +8330,8 @@ class _PlayerScreenState extends State<PlayerScreen>
                   excludeFocusNode: _excludeFocusNode,
                   hadeethSearchFocusNode: _hadeethSearchFocusNode,
                   hadeethExcludeFocusNode: _hadeethExcludeFocusNode,
+                  tafsirSearchController: _tafsirSearchController,
+                  tafsirSearchFocusNode: _tafsirSearchFocusNode,
                   isExportingMarkdown: _isExportingMarkdown,
                   exportStatus: _exportStatus,
                   onExportMarkdown: _exportMarkdownParagraphs,

@@ -206,6 +206,8 @@ class SidePanel extends StatelessWidget {
   final FocusNode quranExcludeFocusNode;
   final FocusNode hadeethSearchFocusNode;
   final FocusNode hadeethExcludeFocusNode;
+  final TextEditingController tafsirSearchController;
+  final FocusNode tafsirSearchFocusNode;
   final ItemScrollController quranItemScrollController;
   final String quranSearchQuery;
   final String quranExcludeQuery;
@@ -233,6 +235,8 @@ class SidePanel extends StatelessWidget {
     required this.excludeFocusNode,
     required this.hadeethSearchFocusNode,
     required this.hadeethExcludeFocusNode,
+    required this.tafsirSearchController,
+    required this.tafsirSearchFocusNode,
     required this.onClose,
     required this.onToggleCollapse,
     required this.onPanelModeChanged,
@@ -740,6 +744,8 @@ class SidePanel extends StatelessWidget {
           quranExcludeFocusNode: quranExcludeFocusNode,
           hadeethSearchFocusNode: hadeethSearchFocusNode,
           hadeethExcludeFocusNode: hadeethExcludeFocusNode,
+          tafsirSearchController: tafsirSearchController,
+          tafsirSearchFocusNode: tafsirSearchFocusNode,
           itemScrollController: quranItemScrollController,
           searchQuery: quranSearchQuery,
           excludeQuery: quranExcludeQuery,

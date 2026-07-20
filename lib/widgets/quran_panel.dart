@@ -21,6 +21,8 @@ class QuranPanel extends StatefulWidget {
   final FocusNode quranExcludeFocusNode;
   final FocusNode hadeethSearchFocusNode;
   final FocusNode hadeethExcludeFocusNode;
+  final TextEditingController tafsirSearchController;
+  final FocusNode tafsirSearchFocusNode;
   final ItemScrollController itemScrollController;
   final String searchQuery;
   final String excludeQuery;
@@ -41,6 +43,8 @@ class QuranPanel extends StatefulWidget {
     required this.quranExcludeFocusNode,
     required this.hadeethSearchFocusNode,
     required this.hadeethExcludeFocusNode,
+    required this.tafsirSearchController,
+    required this.tafsirSearchFocusNode,
     required this.itemScrollController,
     required this.searchQuery,
     required this.excludeQuery,
@@ -378,6 +382,9 @@ class _QuranPanelState extends State<QuranPanel> {
     return 'latin';
   }
 
+  bool _tafsirSearchMode = false;
+  List<Map<String, dynamic>> _tafsirSearchResults = [];
+
   final TextEditingController _tafsirRefController = TextEditingController();
   final FocusNode _tafsirRefFocusNode = FocusNode();
   final ScrollController _tafsirScrollController = ScrollController();
@@ -389,6 +396,8 @@ class _QuranPanelState extends State<QuranPanel> {
   String get _excludeQuery => widget.excludeQuery;
   TextEditingController get _searchController => widget.searchController;
   TextEditingController get _excludeController => widget.excludeController;
+  FocusNode get _tafsirSearchFocusNode => widget.tafsirSearchFocusNode;
+  TextEditingController get _tafsirSearchController => widget.tafsirSearchController;
 
   @override
   void initState() {
@@ -743,6 +752,111 @@ class _QuranPanelState extends State<QuranPanel> {
     _tafsirRefFocusNode.requestFocus();
   }
 
+  void _searchTafsirText(String query) {
+    final q = query.trim().toLowerCase();
+    if (q.isEmpty) {
+      setState(() => _tafsirSearchResults = []);
+      return;
+    }
+
+    final results = <Map<String, dynamic>>[];
+
+    for (int surah = 1; surah <= 114; surah++) {
+      final maxAyah = quranVerseCounts[surah]!;
+      for (int ayah = 0; ayah <= maxAyah; ayah++) {
+        if (_tafsirMokhtasar) {
+          final text =
+              getTafsirMokhtasarForLanguage(_mokhtasarLanguage, surah, ayah);
+          if (text != null && text.toLowerCase().contains(q)) {
+            results.add({'source': 'Mokhtasar', 'surah': surah, 'ayah': ayah, 'text': text});
+          }
+        }
+        if (ayah == 0) continue;
+        if (_tafsirHilaliKhan) {
+          final text = getTafsirHilaliKhan(surah, ayah);
+          if (text != null && text.toLowerCase().contains(q)) {
+            results.add({'source': 'Hilali-Khan', 'surah': surah, 'ayah': ayah, 'text': text});
+          }
+        }
+        if (_tafsirRowwadEnglish) {
+          final text = getTafsirRowwadEnglish(surah, ayah);
+          if (text != null && text.toLowerCase().contains(q)) {
+            results.add({'source': 'Rowwad', 'surah': surah, 'ayah': ayah, 'text': text});
+          }
+        }
+        if (_tafsirNoorEnglish) {
+          final text = getTafsirNoorEnglish(surah, ayah);
+          if (text != null && text.toLowerCase().contains(q)) {
+            results.add({'source': 'Noor', 'surah': surah, 'ayah': ayah, 'text': text});
+          }
+        }
+        if (_tafsirYacobEnglish) {
+          final text = getTafsirYacobEnglish(surah, ayah);
+          if (text != null && text.toLowerCase().contains(q)) {
+            results.add({'source': 'Yacob', 'surah': surah, 'ayah': ayah, 'text': text});
+          }
+        }
+      }
+      if (results.length >= 200) break;
+    }
+
+    setState(() => _tafsirSearchResults = results);
+  }
+
+  void _jumpToSearchResult(Map<String, dynamic> r) {
+    final surah = r['surah'] as int;
+    final ayah = r['ayah'] as int;
+    final refString = '$surah:${ayah == 0 ? 1 : ayah}';
+    setState(() => _tafsirSearchMode = false);
+    _tafsirRefController.text = refString;
+    _tafsirRefFocusNode.requestFocus();
+    _lookupTafsir(context);
+  }
+
+  List<TextSpan> _highlightQuery(List<TextSpan> spans, String query) {
+    final term = query.trim();
+    if (term.isEmpty) return spans;
+
+    final pattern = RegExp(RegExp.escape(term), caseSensitive: false);
+    final result = <TextSpan>[];
+
+    for (final span in spans) {
+      final text = span.text;
+      if (text == null || text.isEmpty || !pattern.hasMatch(text)) {
+        result.add(span);
+        continue;
+      }
+      int cursor = 0;
+      for (final m in pattern.allMatches(text)) {
+        if (m.start > cursor) {
+          result.add(TextSpan(
+            text: text.substring(cursor, m.start),
+            style: span.style,
+            recognizer: span.recognizer,
+          ));
+        }
+        result.add(TextSpan(
+          text: text.substring(m.start, m.end),
+          style: (span.style ?? const TextStyle()).copyWith(
+            backgroundColor: Colors.yellow,
+            color: Colors.black,
+            fontWeight: FontWeight.bold,
+          ),
+          recognizer: span.recognizer,
+        ));
+        cursor = m.end;
+      }
+      if (cursor < text.length) {
+        result.add(TextSpan(
+          text: text.substring(cursor),
+          style: span.style,
+          recognizer: span.recognizer,
+        ));
+      }
+    }
+    return result;
+  }
+
   void _showSurahListPopup(BuildContext context) {
     final surahs = getSurahsForLanguage(widget.selectedLanguage);
     final isRtl = isRtlQuranLanguage(widget.selectedLanguage);
@@ -859,7 +973,8 @@ class _QuranPanelState extends State<QuranPanel> {
         if (_searchFocusNode.hasFocus ||
             _excludeFocusNode.hasFocus ||
             _refInputFocusNode.hasFocus ||
-            _tafsirRefFocusNode.hasFocus) {
+            _tafsirRefFocusNode.hasFocus ||
+            _tafsirSearchFocusNode.hasFocus) {
           return KeyEventResult.ignored;
         }
         if (event is KeyDownEvent &&
@@ -872,7 +987,8 @@ class _QuranPanelState extends State<QuranPanel> {
       child: Column(
         children: [
           _buildHadeethSectionWrapper(context),
-          if (_tafsirResults.isNotEmpty)
+          if (_tafsirResults.isNotEmpty ||
+          (_tafsirSearchMode && _tafsirSearchResults.isNotEmpty))
             Expanded(child: _buildTafsirSection(context))
           else ...[
             _buildTafsirSection(context),
@@ -1397,58 +1513,106 @@ class _QuranPanelState extends State<QuranPanel> {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
+            // Mode toggle: Browse by reference vs. Search text
+            Row(
+              children: [
+                _modeChip('Browse', !_tafsirSearchMode, () {
+                  setState(() => _tafsirSearchMode = false);
+                  _tafsirRefFocusNode.requestFocus();
+                }),
+                const SizedBox(width: 6),
+                _modeChip('Search', _tafsirSearchMode, () {
+                  setState(() => _tafsirSearchMode = true);
+                  _tafsirSearchFocusNode.requestFocus();
+                }),
+              ],
+            ),
+            const SizedBox(height: 6),
+
             SingleChildScrollView(
               scrollDirection: Axis.horizontal,
               child: Row(
                 children: [
-                  SizedBox(
-                    width: 180,
-                    height: 32,
-                    child: TextField(
-                      controller: _tafsirRefController,
-                      focusNode: _tafsirRefFocusNode,
-                      style: const TextStyle(color: Colors.white, fontSize: 12),
-                      decoration: InputDecoration(
-                        hintText: '2:255 or 2:1-5',
-                        hintStyle: const TextStyle(
-                            color: Colors.white24, fontSize: 12),
-                        filled: true,
-                        fillColor: Colors.black26,
-                        border: OutlineInputBorder(
-                          borderRadius: BorderRadius.circular(4),
-                          borderSide:
-                              BorderSide(color: Colors.teal.withAlpha(160)),
-                        ),
-                        enabledBorder: OutlineInputBorder(
-                          borderRadius: BorderRadius.circular(4),
-                          borderSide:
-                              BorderSide(color: Colors.teal.withAlpha(80)),
-                        ),
-                        focusedBorder: OutlineInputBorder(
-                          borderRadius: BorderRadius.circular(4),
-                          borderSide: const BorderSide(color: Colors.teal),
-                        ),
-                        contentPadding: const EdgeInsets.symmetric(
-                            horizontal: 8, vertical: 4),
-                        suffixIcon: IconButton(
-                          icon: const Icon(Icons.search,
+                  if (_tafsirSearchMode)
+                    SizedBox(
+                      width: 220,
+                      height: 32,
+                      child: TextField(
+                        controller: _tafsirSearchController,
+                        focusNode: _tafsirSearchFocusNode,
+                        style: const TextStyle(color: Colors.white, fontSize: 12),
+                        decoration: InputDecoration(
+                          hintText: 'Search tafsir text…',
+                          hintStyle: const TextStyle(
+                              color: Colors.white24, fontSize: 12),
+                          prefixIcon: const Icon(Icons.search,
                               color: Colors.teal, size: 16),
-                          padding: EdgeInsets.zero,
-                          constraints: const BoxConstraints(),
-                          onPressed: () => _lookupTafsir(context),
+                          filled: true,
+                          fillColor: Colors.black26,
+                          border: OutlineInputBorder(
+                            borderRadius: BorderRadius.circular(4),
+                            borderSide: BorderSide.none,
+                          ),
+                          contentPadding: const EdgeInsets.symmetric(
+                              horizontal: 8, vertical: 4),
                         ),
+                        onSubmitted: _searchTafsirText,
                       ),
-                      onSubmitted: (_) => _lookupTafsir(context),
+                    )
+                  else
+                    SizedBox(
+                      width: 180,
+                      height: 32,
+                      child: TextField(
+                        controller: _tafsirRefController,
+                        focusNode: _tafsirRefFocusNode,
+                        style: const TextStyle(color: Colors.white, fontSize: 12),
+                        decoration: InputDecoration(
+                          hintText: '2:255 or 2:1-5',
+                          hintStyle: const TextStyle(
+                              color: Colors.white24, fontSize: 12),
+                          filled: true,
+                          fillColor: Colors.black26,
+                          border: OutlineInputBorder(
+                            borderRadius: BorderRadius.circular(4),
+                            borderSide:
+                                BorderSide(color: Colors.teal.withAlpha(160)),
+                          ),
+                          enabledBorder: OutlineInputBorder(
+                            borderRadius: BorderRadius.circular(4),
+                            borderSide:
+                                BorderSide(color: Colors.teal.withAlpha(80)),
+                          ),
+                          focusedBorder: OutlineInputBorder(
+                            borderRadius: BorderRadius.circular(4),
+                            borderSide: const BorderSide(color: Colors.teal),
+                          ),
+                          contentPadding: const EdgeInsets.symmetric(
+                              horizontal: 8, vertical: 4),
+                          suffixIcon: IconButton(
+                            icon: const Icon(Icons.search,
+                                color: Colors.teal, size: 16),
+                            padding: EdgeInsets.zero,
+                            constraints: const BoxConstraints(),
+                            onPressed: () => _lookupTafsir(context),
+                          ),
+                        ),
+                        onSubmitted: (_) => _lookupTafsir(context),
+                      ),
                     ),
-                  ),
                   const SizedBox(width: 8),
                   IconButton(
-                    icon: const Icon(Icons.clear_all, color: Colors.deepOrange, size: 18),
+                    icon: const Icon(Icons.clear_all,
+                        color: Colors.deepOrange, size: 18),
                     tooltip: 'Clear tafsir',
                     padding: EdgeInsets.zero,
                     constraints: const BoxConstraints(),
                     onPressed: () {
-                      setState(() => _tafsirResults = []);
+                      setState(() {
+                        _tafsirResults = [];
+                        _tafsirSearchResults = [];
+                        _tafsirSearchController.clear();
+                      });
                       if (_lastTafsirIndex != null) {
                         WidgetsBinding.instance.addPostFrameCallback((_) {
                           if (_itemScrollController.isAttached) {
@@ -1506,7 +1670,31 @@ class _QuranPanelState extends State<QuranPanel> {
                 ],
               ),
             ),
-            if (_tafsirResults.isNotEmpty) ...[
+            if (_tafsirSearchMode) ...[
+              const SizedBox(height: 8),
+              if (_tafsirSearchResults.isEmpty &&
+                  _tafsirSearchController.text.isNotEmpty)
+                const Padding(
+                  padding: EdgeInsets.symmetric(vertical: 12),
+                  child: Text('No matches',
+                      style: TextStyle(color: Colors.white38, fontSize: 12)),
+                )
+              else if (_tafsirSearchResults.isNotEmpty)
+                Expanded(
+                  child: ListView.separated(
+                    itemCount: _tafsirSearchResults.length,
+                    separatorBuilder: (_, __) =>
+                        const Divider(color: Colors.white12, height: 12),
+                    itemBuilder: (_, i) {
+                      final r = _tafsirSearchResults[i];
+                      return InkWell(
+                        onTap: () => _jumpToSearchResult(r),
+                        child: _buildTafsirCard(r, highlightQuery: _tafsirSearchController.text),
+                      );
+                    },
+                  ),
+                ),
+            ] else if (_tafsirResults.isNotEmpty) ...[
               const SizedBox(height: 8),
               Expanded(
                 child: ListView.separated(
@@ -1520,6 +1708,22 @@ class _QuranPanelState extends State<QuranPanel> {
             ],
           ],
         ),
+      ),
+    );
+  }
+
+  Widget _modeChip(String label, bool active, VoidCallback onTap) {
+    return GestureDetector(
+      onTap: onTap,
+      child: Container(
+        padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 4),
+        decoration: BoxDecoration(
+          color: active ? Colors.teal : Colors.teal.withAlpha(30),
+          borderRadius: BorderRadius.circular(4),
+          border: Border.all(color: Colors.teal.withAlpha(160)),
+        ),
+        child: Text(label,
+            style: TextStyle(color: active ? Colors.white : Colors.teal[200], fontSize: 12)),
       ),
     );
   }
@@ -1569,64 +1773,64 @@ class _QuranPanelState extends State<QuranPanel> {
     }
   }
 
-  Widget _buildTafsirCard(Map<String, dynamic> r) {
-    final source = r['source'] as String;
-    final surah = r['surah'] as int;
-    final ayah = r['ayah'] as int;
-    final text = r['text'] as String;
-    final isRtl =
-        source == 'Mokhtasar Ar' || isMokhtasarRtl(_mokhtasarLanguage);
-    final sourceColor =
-        source == 'Mokhtasar' ? Colors.lightBlueAccent : Colors.greenAccent;
-    final ayahLabel = ayah == 0 ? '$surah:intro' : '$surah:$ayah';
-    return Directionality(
-      textDirection: isRtl ? TextDirection.rtl : TextDirection.ltr,
-      child: Container(
-        padding: const EdgeInsets.all(10),
-        decoration: BoxDecoration(
-          color: Colors.white.withAlpha(6),
-          borderRadius: BorderRadius.circular(6),
-        ),
-        child: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            Row(
-              children: [
-                Container(
-                  padding:
-                      const EdgeInsets.symmetric(horizontal: 7, vertical: 2),
-                  decoration: BoxDecoration(
-                    color: sourceColor.withAlpha(30),
-                    borderRadius: BorderRadius.circular(4),
-                    border: Border.all(color: sourceColor.withAlpha(100)),
+  Widget _buildTafsirCard(Map<String, dynamic> r, {String? highlightQuery}) {
+      final source = r['source'] as String;
+      final surah = r['surah'] as int;
+      final ayah = r['ayah'] as int;
+      final text = r['text'] as String;
+      final isRtl =
+          source == 'Mokhtasar Ar' || isMokhtasarRtl(_mokhtasarLanguage);
+      final sourceColor =
+          source == 'Mokhtasar' ? Colors.lightBlueAccent : Colors.greenAccent;
+      final ayahLabel = ayah == 0 ? '$surah:intro' : '$surah:$ayah';
+      return Directionality(
+        textDirection: isRtl ? TextDirection.rtl : TextDirection.ltr,
+        child: Container(
+          padding: const EdgeInsets.all(10),
+          decoration: BoxDecoration(
+            color: Colors.white.withAlpha(6),
+            borderRadius: BorderRadius.circular(6),
+          ),
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Row(
+                children: [
+                  Container(
+                    padding:
+                        const EdgeInsets.symmetric(horizontal: 7, vertical: 2),
+                    decoration: BoxDecoration(
+                      color: sourceColor.withAlpha(30),
+                      borderRadius: BorderRadius.circular(4),
+                      border: Border.all(color: sourceColor.withAlpha(100)),
+                    ),
+                    child: Text(source,
+                        style: TextStyle(
+                            color: sourceColor,
+                            fontSize: 11,
+                            fontWeight: FontWeight.w600)),
                   ),
-                  child: Text(source,
-                      style: TextStyle(
-                          color: sourceColor,
-                          fontSize: 11,
-                          fontWeight: FontWeight.w600)),
-                ),
-                const SizedBox(width: 8),
-                Text(ayahLabel,
-                    style:
-                        const TextStyle(color: Colors.white54, fontSize: 12)),
-                const Spacer(),
-                IconButton(
-                  icon: const Icon(Icons.copy, color: Colors.white24, size: 14),
-                  padding: EdgeInsets.zero,
-                  constraints: const BoxConstraints(),
-                  tooltip: 'Copy text',
-                  onPressed: () => Clipboard.setData(ClipboardData(text: text)),
-                ),
-              ],
-            ),
-            const SizedBox(height: 6),
-            _buildTafsirText(text, isRtl, isIntro: ayah == 0),
-          ],
+                  const SizedBox(width: 8),
+                  Text(ayahLabel,
+                      style:
+                          const TextStyle(color: Colors.white54, fontSize: 12)),
+                  const Spacer(),
+                  IconButton(
+                    icon: const Icon(Icons.copy, color: Colors.white24, size: 14),
+                    padding: EdgeInsets.zero,
+                    constraints: const BoxConstraints(),
+                    tooltip: 'Copy text',
+                    onPressed: () => Clipboard.setData(ClipboardData(text: text)),
+                  ),
+                ],
+              ),
+              const SizedBox(height: 6),
+              _buildTafsirText(text, isRtl, isIntro: ayah == 0, highlightQuery: highlightQuery),
+            ],
+          ),
         ),
-      ),
-    );
-  }
+      );
+    }
 
   List<TextSpan> _parseMainText(
     String text, {
@@ -1782,100 +1986,108 @@ class _QuranPanelState extends State<QuranPanel> {
     return spans;
   }
 
-  Widget _buildTafsirText(String text, bool isRtl, {bool isIntro = false}) {
-    if (isIntro) {
-      return SelectableText(
-        text,
-        textDirection: isRtl ? TextDirection.rtl : TextDirection.ltr,
-        textAlign: isRtl ? TextAlign.right : TextAlign.left,
-        style: const TextStyle(color: Colors.amber, fontSize: 14, height: 1.55),
-      );
-    }
+  Widget _buildTafsirText(String text, bool isRtl, {bool isIntro = false, String? highlightQuery}) {
+      if (isIntro) {
+        return SelectableText(
+          text,
+          textDirection: isRtl ? TextDirection.rtl : TextDirection.ltr,
+          textAlign: isRtl ? TextAlign.right : TextAlign.left,
+          style: const TextStyle(color: Colors.amber, fontSize: 14, height: 1.55),
+        );
+      }
 
-    const orangeStyle =
-        TextStyle(color: Colors.orangeAccent, fontSize: 14, height: 1.55);
-    const greenStyle =
-        TextStyle(color: Colors.greenAccent, fontSize: 14, height: 1.55);
+      const orangeStyle =
+          TextStyle(color: Colors.orangeAccent, fontSize: 14, height: 1.55);
+      const greenStyle =
+          TextStyle(color: Colors.greenAccent, fontSize: 14, height: 1.55);
 
-    final lowerText = text.toLowerCase();
-    const beneficialMarker = '• beneficial points:';
-    const footnotesMarker = 'footnotes:';
+      final lowerText = text.toLowerCase();
+      const beneficialMarker = '• beneficial points:';
+      const footnotesMarker = 'footnotes:';
 
-    final beneficialIdx = lowerText.indexOf(beneficialMarker);
-    final footnotesIdx = lowerText.indexOf(footnotesMarker);
+      final beneficialIdx = lowerText.indexOf(beneficialMarker);
+      final footnotesIdx = lowerText.indexOf(footnotesMarker);
 
-    if (beneficialIdx == -1 && footnotesIdx == -1) {
-      return SelectableText.rich(
-        TextSpan(
-            children: _parseMainText(text,
-                onVerseTapped: _onTafsirVerseTapped,
-                language: _mokhtasarLanguage)),
-        textDirection: isRtl ? TextDirection.rtl : TextDirection.ltr,
-        textAlign: isRtl ? TextAlign.right : TextAlign.left,
-      );
-    }
+      if (beneficialIdx == -1 && footnotesIdx == -1) {
+        var spans = _parseMainText(text,
+            onVerseTapped: _onTafsirVerseTapped,
+            language: _mokhtasarLanguage);
+        if (highlightQuery != null && highlightQuery.isNotEmpty) {
+          spans = _highlightQuery(spans, highlightQuery);
+        }
+        return SelectableText.rich(
+          TextSpan(children: spans),
+          textDirection: isRtl ? TextDirection.rtl : TextDirection.ltr,
+          textAlign: isRtl ? TextAlign.right : TextAlign.left,
+        );
+      }
 
-    final spans = <TextSpan>[];
+      final spans = <TextSpan>[];
 
-    int mainEnd = text.length;
-    if (beneficialIdx != -1 && beneficialIdx < mainEnd) mainEnd = beneficialIdx;
-    if (footnotesIdx != -1 && footnotesIdx < mainEnd) mainEnd = footnotesIdx;
+      int mainEnd = text.length;
+      if (beneficialIdx != -1 && beneficialIdx < mainEnd) mainEnd = beneficialIdx;
+      if (footnotesIdx != -1 && footnotesIdx < mainEnd) mainEnd = footnotesIdx;
 
-    if (mainEnd > 0) {
-      String mainText = text.substring(0, mainEnd).trimRight();
-      mainText = mainText.replaceAll(r'\n', '\n').trimRight();
-      spans.addAll(_parseMainText(mainText,
-          onVerseTapped: _onTafsirVerseTapped, language: _mokhtasarLanguage));
-    }
+      if (mainEnd > 0) {
+        String mainText = text.substring(0, mainEnd).trimRight();
+        mainText = mainText.replaceAll(r'\n', '\n').trimRight();
+        spans.addAll(_parseMainText(mainText,
+            onVerseTapped: _onTafsirVerseTapped, language: _mokhtasarLanguage));
+      }
 
-    if (beneficialIdx != -1) {
-      final end = (footnotesIdx != -1 && footnotesIdx > beneficialIdx)
-          ? footnotesIdx
-          : text.length;
-      final markerText = text.substring(
-          beneficialIdx, beneficialIdx + beneficialMarker.length);
-      final afterMarker =
-          text.substring(beneficialIdx + beneficialMarker.length, end);
-      spans.add(TextSpan(text: '\n\n$markerText', style: orangeStyle));
-      spans.addAll(_parseMainText(afterMarker,
-          baseStyleOverride: greenStyle,
-          onVerseTapped: _onTafsirVerseTapped,
-          language: _mokhtasarLanguage));
-    }
+      if (beneficialIdx != -1) {
+        final end = (footnotesIdx != -1 && footnotesIdx > beneficialIdx)
+            ? footnotesIdx
+            : text.length;
+        final markerText = text.substring(
+            beneficialIdx, beneficialIdx + beneficialMarker.length);
+        final afterMarker =
+            text.substring(beneficialIdx + beneficialMarker.length, end);
+        spans.add(TextSpan(text: '\n\n$markerText', style: orangeStyle));
+        spans.addAll(_parseMainText(afterMarker,
+            baseStyleOverride: greenStyle,
+            onVerseTapped: _onTafsirVerseTapped,
+            language: _mokhtasarLanguage));
+      }
 
-    if (footnotesIdx != -1) {
-      final footnotesText = '\n\n' + text.substring(footnotesIdx);
-      for (final match
-          in RegExp(r'(\[[^\]]*\])|([^\[]+)').allMatches(footnotesText)) {
-        final m = match.group(0) ?? '';
-        if (match.group(1) != null) {
-          if (RegExp(r'^\[\d+\]$').hasMatch(m)) {
-            spans.add(TextSpan(
-                text: m,
-                style: const TextStyle(
-                    color: Colors.orangeAccent, fontSize: 14, height: 1.55)));
+      if (footnotesIdx != -1) {
+        final footnotesText = '\n\n' + text.substring(footnotesIdx);
+        for (final match
+            in RegExp(r'(\[[^\]]*\])|([^\[]+)').allMatches(footnotesText)) {
+          final m = match.group(0) ?? '';
+          if (match.group(1) != null) {
+            if (RegExp(r'^\[\d+\]$').hasMatch(m)) {
+              spans.add(TextSpan(
+                  text: m,
+                  style: const TextStyle(
+                      color: Colors.orangeAccent, fontSize: 14, height: 1.55)));
+            } else {
+              spans.add(TextSpan(
+                  text: m,
+                  style: const TextStyle(
+                      color: Colors.amber, fontSize: 14, height: 1.55)));
+            }
           } else {
-            spans.add(TextSpan(
-                text: m,
-                style: const TextStyle(
-                    color: Colors.amber, fontSize: 14, height: 1.55)));
+            spans.addAll(_parseMainText(m,
+                baseStyleOverride: const TextStyle(
+                    color: Colors.greenAccent, fontSize: 14, height: 1.55),
+                onVerseTapped: _onTafsirVerseTapped,
+                language: _mokhtasarLanguage));
           }
-        } else {
-          spans.addAll(_parseMainText(m,
-              baseStyleOverride: const TextStyle(
-                  color: Colors.greenAccent, fontSize: 14, height: 1.55),
-              onVerseTapped: _onTafsirVerseTapped,
-              language: _mokhtasarLanguage));
         }
       }
-    }
 
-    return SelectableText.rich(
-      TextSpan(children: spans),
-      textDirection: isRtl ? TextDirection.rtl : TextDirection.ltr,
-      textAlign: isRtl ? TextAlign.right : TextAlign.left,
-    );
-  }
+      var finalSpans = spans;
+      if (highlightQuery != null && highlightQuery.isNotEmpty) {
+        finalSpans = _highlightQuery(finalSpans, highlightQuery);
+      }
+
+      return SelectableText.rich(
+        TextSpan(children: finalSpans),
+        textDirection: isRtl ? TextDirection.rtl : TextDirection.ltr,
+        textAlign: isRtl ? TextAlign.right : TextAlign.left,
+      );
+    }
 }
 
 class _TafsirRange {
