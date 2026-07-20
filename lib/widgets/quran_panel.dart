@@ -77,6 +77,7 @@ class _QuranPanelState extends State<QuranPanel> {
   final Set<int> _expandedIndices = {};
   final TextEditingController _refInputController = TextEditingController();
   final FocusNode _refInputFocusNode = FocusNode();
+  final ItemScrollController _quranVerseSearchScrollController = ItemScrollController();
 
   static bool _hadeethExpanded = false;
   static bool _tafsirExpanded = false;
@@ -424,6 +425,7 @@ class _QuranPanelState extends State<QuranPanel> {
         }
       }
     });
+    _scrollToActiveVerseSearchResult();
   }
 
   @override
@@ -496,6 +498,34 @@ class _QuranPanelState extends State<QuranPanel> {
     final surahs = getSurahsForLanguage(widget.selectedLanguage);
     final match = surahs.where((s) => s.number == surahNumber).firstOrNull;
     return match?.name ?? '';
+  }
+
+  void _scrollToActiveVerseSearchResult() {
+    if (widget.activeRef == null || widget.quranVerseSearchResults.isEmpty) {
+      return;
+    }
+    final index = widget.quranVerseSearchResults.indexWhere((hit) =>
+        hit.surah == widget.activeRef!.surah &&
+        hit.ayah == widget.activeRef!.fromAyah);
+    if (index == -1) return;
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      _attemptScrollToVerseSearchIndex(index, attemptsLeft: 10);
+    });
+  }
+
+  void _attemptScrollToVerseSearchIndex(int index, {required int attemptsLeft}) {
+    if (!mounted || attemptsLeft <= 0) return;
+    if (_quranVerseSearchScrollController.isAttached) {
+      _quranVerseSearchScrollController.scrollTo(
+        index: index,
+        duration: const Duration(milliseconds: 300),
+        alignment: 0.3,
+      );
+    } else {
+      Future.delayed(const Duration(milliseconds: 100), () {
+        _attemptScrollToVerseSearchIndex(index, attemptsLeft: attemptsLeft - 1);
+      });
+    }
   }
 
   Widget _buildHadeethSectionWrapper(BuildContext context) {
@@ -1337,47 +1367,61 @@ class _QuranPanelState extends State<QuranPanel> {
                                     child: Text('No matches',
                                         style: TextStyle(color: Colors.white38, fontSize: 12)),
                                   )
-                                : ListView.separated(
-                                    itemCount: widget.quranVerseSearchResults.length,
-                                    separatorBuilder: (_, __) =>
-                                        const Divider(color: Colors.white12, height: 12),
-                                        itemBuilder: (_, i) {
-                                          final hit = widget.quranVerseSearchResults[i];
-                                          const baseStyle = TextStyle(color: Colors.white70, fontSize: 13, height: 1.4);
-                                          final spans = _highlightQuery(
-                                            [TextSpan(text: hit.text, style: baseStyle)],
-                                            widget.quranVerseSearchController.text,
-                                          );
-                                          return InkWell(
-                                            onTap: () => widget.onQuranVerseSearchResultTap(hit),
-                                            child: Padding(
-                                              padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 10),
-                                              child: Column(
-                                                crossAxisAlignment: CrossAxisAlignment.start,
-                                                children: [
-                                                  Row(
-                                                    children: [
-                                                      Text('${hit.surah}:${hit.ayah}',
-                                                          style: const TextStyle(
-                                                              color: Colors.amber,
-                                                              fontSize: 12,
-                                                              fontWeight: FontWeight.w600)),
-                                                      const Spacer(),
-                                                      const Icon(Icons.chevron_right, color: Colors.white24, size: 16),
+                                  : ScrollablePositionedList.separated(
+                                      itemScrollController: _quranVerseSearchScrollController,
+                                      itemCount: widget.quranVerseSearchResults.length,
+                                      separatorBuilder: (_, __) =>
+                                          const Divider(color: Colors.white12, height: 12),
+                                      itemBuilder: (_, i) {
+                                        final hit = widget.quranVerseSearchResults[i];
+                                        final isActive = widget.activeRef != null &&
+                                            widget.activeRef!.surah == hit.surah &&
+                                            widget.activeRef!.fromAyah == hit.ayah;
+                                        const baseStyle =
+                                            TextStyle(color: Colors.white70, fontSize: 13, height: 1.4);
+                                        final spans = _highlightQuery(
+                                          [TextSpan(text: hit.text, style: baseStyle)],
+                                          widget.quranVerseSearchController.text,
+                                        );
+                                        return InkWell(
+                                          onTap: () => widget.onQuranVerseSearchResultTap(hit),
+                                          child: Container(
+                                            color: isActive ? Colors.deepPurple.withAlpha(40) : null,
+                                            padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 10),
+                                            child: Column(
+                                              crossAxisAlignment: CrossAxisAlignment.start,
+                                              children: [
+                                                Row(
+                                                  children: [
+                                                    Text('${hit.surah}:${hit.ayah}',
+                                                        style: TextStyle(
+                                                            color: isActive
+                                                                ? Colors.lightBlueAccent
+                                                                : Colors.amber,
+                                                            fontSize: 12,
+                                                            fontWeight: FontWeight.w600)),
+                                                    if (isActive) ...[
+                                                      const SizedBox(width: 6),
+                                                      const Icon(Icons.play_circle_fill,
+                                                          color: Colors.lightBlueAccent, size: 14),
                                                     ],
-                                                  ),
-                                                  const SizedBox(height: 4),
-                                                  Text.rich(
-                                                    TextSpan(children: spans),
-                                                    maxLines: 3,
-                                                    overflow: TextOverflow.ellipsis,
-                                                  ),
-                                                ],
-                                              ),
+                                                    const Spacer(),
+                                                    const Icon(Icons.chevron_right,
+                                                        color: Colors.white24, size: 16),
+                                                  ],
+                                                ),
+                                                const SizedBox(height: 4),
+                                                Text.rich(
+                                                  TextSpan(children: spans),
+                                                  maxLines: 3,
+                                                  overflow: TextOverflow.ellipsis,
+                                                ),
+                                              ],
                                             ),
-                                          );
-                                        },
-                                  ),
+                                          ),
+                                        );
+                                      },
+                                    ),
                           ),
                         ] else
                           Expanded(
