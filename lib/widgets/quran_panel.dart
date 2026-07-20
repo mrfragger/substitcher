@@ -375,6 +375,8 @@ class _QuranPanelState extends State<QuranPanel> {
     'latin': r'a-zA-ZÀ-ÿçÇğĞıİöÖşŞüÜ',
     'cyrillic': r'а-яёА-ЯЁҳқғўӯ',
     'arabic': r'\u0600-\u06FF\u0750-\u077F\uFB50-\uFDFF\uFE70-\uFEFF',
+    'hebrew': r'\u0590-\u05FF',
+    'nko': r'\u07C0-\u07FF',
     'bengali': r'\u0980-\u09FF',
     'devanagari': r'\u0900-\u097F', // Hindi
     'tamil': r'\u0B80-\u0BFF',
@@ -395,6 +397,10 @@ class _QuranPanelState extends State<QuranPanel> {
     }
     return 'latin';
   }
+
+  static const Set<String> _rtlScripts = {'arabic', 'hebrew', 'nko'};
+
+  bool _isRtlText(String text) => _rtlScripts.contains(_detectScript(text));
 
   bool _tafsirSearchMode = false;
   List<Map<String, dynamic>> _tafsirSearchResults = [];
@@ -1154,6 +1160,9 @@ class _QuranPanelState extends State<QuranPanel> {
                                  child: TextField(
                                    controller: widget.quranVerseSearchController,
                                    focusNode: widget.quranVerseSearchFocusNode,
+                                   textDirection: _isRtlText(widget.quranVerseSearchController.text)
+                                       ? TextDirection.rtl
+                                       : TextDirection.ltr,
                                    style: const TextStyle(color: Colors.white, fontSize: 13),
                                    decoration: InputDecoration(
                                      hintText: 'Search verse text…',
@@ -1372,56 +1381,63 @@ class _QuranPanelState extends State<QuranPanel> {
                                       itemCount: widget.quranVerseSearchResults.length,
                                       separatorBuilder: (_, __) =>
                                           const Divider(color: Colors.white12, height: 12),
-                                      itemBuilder: (_, i) {
-                                        final hit = widget.quranVerseSearchResults[i];
-                                        final isActive = widget.activeRef != null &&
-                                            widget.activeRef!.surah == hit.surah &&
-                                            widget.activeRef!.fromAyah == hit.ayah;
-                                        const baseStyle =
-                                            TextStyle(color: Colors.white70, fontSize: 13, height: 1.4);
-                                        final spans = _highlightQuery(
-                                          [TextSpan(text: hit.text, style: baseStyle)],
-                                          widget.quranVerseSearchController.text,
-                                        );
-                                        return InkWell(
-                                          onTap: () => widget.onQuranVerseSearchResultTap(hit),
-                                          child: Container(
-                                            color: isActive ? Colors.deepPurple.withAlpha(40) : null,
-                                            padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 10),
-                                            child: Column(
-                                              crossAxisAlignment: CrossAxisAlignment.start,
-                                              children: [
-                                                Row(
-                                                  children: [
-                                                    Text('${hit.surah}:${hit.ayah}',
-                                                        style: TextStyle(
-                                                            color: isActive
-                                                                ? Colors.lightBlueAccent
-                                                                : Colors.amber,
-                                                            fontSize: 12,
-                                                            fontWeight: FontWeight.w600)),
-                                                    if (isActive) ...[
-                                                      const SizedBox(width: 6),
-                                                      const Icon(Icons.play_circle_fill,
-                                                          color: Colors.lightBlueAccent, size: 14),
+                                          itemBuilder: (_, i) {
+                                            final hit = widget.quranVerseSearchResults[i];
+                                            final isActive = widget.activeRef != null &&
+                                                widget.activeRef!.surah == hit.surah &&
+                                                widget.activeRef!.fromAyah == hit.ayah;
+                                            final isRtl = _isRtlText(hit.text);
+                                            const baseStyle =
+                                                TextStyle(color: Colors.white70, fontSize: 13, height: 1.4);
+                                            final spans = _highlightQuery(
+                                              [TextSpan(text: hit.text, style: baseStyle)],
+                                              widget.quranVerseSearchController.text,
+                                            );
+                                            return InkWell(
+                                              onTap: () => widget.onQuranVerseSearchResultTap(hit),
+                                              child: Directionality(
+                                                textDirection: isRtl ? TextDirection.rtl : TextDirection.ltr,
+                                                child: Container(
+                                                  color: isActive ? Colors.deepPurple.withAlpha(40) : null,
+                                                  padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 10),
+                                                  child: Column(
+                                                    crossAxisAlignment: CrossAxisAlignment.start,
+                                                    children: [
+                                                      Row(
+                                                        children: [
+                                                          Text('${hit.surah}:${hit.ayah}',
+                                                              style: TextStyle(
+                                                                  color: isActive
+                                                                      ? Colors.lightBlueAccent
+                                                                      : Colors.amber,
+                                                                  fontSize: 12,
+                                                                  fontWeight: FontWeight.w600)),
+                                                          if (isActive) ...[
+                                                            const SizedBox(width: 6),
+                                                            const Icon(Icons.play_circle_fill,
+                                                                color: Colors.lightBlueAccent, size: 14),
+                                                          ],
+                                                          const Spacer(),
+                                                          Icon(
+                                                            isRtl ? Icons.chevron_left : Icons.chevron_right,
+                                                            color: Colors.white24,
+                                                            size: 16,
+                                                          ),
+                                                        ],
+                                                      ),
+                                                      const SizedBox(height: 4),
+                                                      Text.rich(
+                                                        TextSpan(children: spans),
+                                                        maxLines: 3,
+                                                        overflow: TextOverflow.ellipsis,
+                                                      ),
                                                     ],
-                                                    const Spacer(),
-                                                    const Icon(Icons.chevron_right,
-                                                        color: Colors.white24, size: 16),
-                                                  ],
+                                                  ),
                                                 ),
-                                                const SizedBox(height: 4),
-                                                Text.rich(
-                                                  TextSpan(children: spans),
-                                                  maxLines: 3,
-                                                  overflow: TextOverflow.ellipsis,
-                                                ),
-                                              ],
-                                            ),
-                                          ),
-                                        );
-                                      },
-                                    ),
+                                              ),
+                                            );
+                                          },
+                                  ),
                           ),
                         ] else
                           Expanded(
