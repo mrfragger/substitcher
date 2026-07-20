@@ -5,6 +5,7 @@ import 'package:url_launcher/url_launcher.dart';
 import 'package:scrollable_positioned_list/scrollable_positioned_list.dart';
 import '../quran/quran_index.dart';
 import '../quran/surah_names.dart';
+import '../quran/quran_verse_search_index.dart';
 import '../tafsir/tafsir_mokhtasar_all.dart';
 import '../tafsir/tafsir_hilali_khan.dart';
 import '../tafsir/tafsir_rowwad_english.dart';
@@ -23,6 +24,12 @@ class QuranPanel extends StatefulWidget {
   final FocusNode hadeethExcludeFocusNode;
   final TextEditingController tafsirSearchController;
   final FocusNode tafsirSearchFocusNode;
+  final TextEditingController quranVerseSearchController;
+  final FocusNode quranVerseSearchFocusNode;
+  final List<QuranAyahSearchHit> quranVerseSearchResults;
+  final bool quranVerseIndexBuilding;
+  final Function(String) onQuranVerseSearchChanged;
+  final Function(QuranAyahSearchHit) onQuranVerseSearchResultTap;
   final ItemScrollController itemScrollController;
   final String searchQuery;
   final String excludeQuery;
@@ -45,6 +52,12 @@ class QuranPanel extends StatefulWidget {
     required this.hadeethExcludeFocusNode,
     required this.tafsirSearchController,
     required this.tafsirSearchFocusNode,
+    required this.quranVerseSearchController,
+    required this.quranVerseSearchFocusNode,
+    required this.quranVerseSearchResults,
+    required this.quranVerseIndexBuilding,
+    required this.onQuranVerseSearchChanged,
+    required this.onQuranVerseSearchResultTap,
     required this.itemScrollController,
     required this.searchQuery,
     required this.excludeQuery,
@@ -984,7 +997,8 @@ class _QuranPanelState extends State<QuranPanel> {
             _excludeFocusNode.hasFocus ||
             _refInputFocusNode.hasFocus ||
             _tafsirRefFocusNode.hasFocus ||
-            _tafsirSearchFocusNode.hasFocus) {
+            _tafsirSearchFocusNode.hasFocus ||
+            widget.quranVerseSearchFocusNode.hasFocus) {
           return KeyEventResult.ignored;
         }
         if (event is KeyDownEvent &&
@@ -1099,6 +1113,59 @@ class _QuranPanelState extends State<QuranPanel> {
                 ],
               ),
             ),
+            if (widget.isQuranLoaded) ...[
+                       Padding(
+                         padding: const EdgeInsets.fromLTRB(16, 0, 16, 4),
+                         child: Row(
+                           children: [
+                             Expanded(
+                               child: SizedBox(
+                                 height: 32,
+                                 child: TextField(
+                                   controller: widget.quranVerseSearchController,
+                                   focusNode: widget.quranVerseSearchFocusNode,
+                                   style: const TextStyle(color: Colors.white, fontSize: 13),
+                                   decoration: InputDecoration(
+                                     hintText: 'Search verse text…',
+                                     hintStyle: const TextStyle(color: Colors.white24, fontSize: 13),
+                                     prefixIcon: const Icon(Icons.menu_book, color: Colors.amber, size: 16),
+                                     suffixIcon: widget.quranVerseSearchController.text.isNotEmpty
+                                         ? IconButton(
+                                             icon: const Icon(Icons.clear, color: Colors.white38, size: 16),
+                                             padding: EdgeInsets.zero,
+                                             constraints: const BoxConstraints(),
+                                             onPressed: () {
+                                               widget.quranVerseSearchController.clear();
+                                               widget.onQuranVerseSearchChanged('');
+                                             },
+                                           )
+                                         : null,
+                                     filled: true,
+                                     fillColor: Colors.black26,
+                                     border: OutlineInputBorder(
+                                       borderRadius: BorderRadius.circular(4),
+                                       borderSide: BorderSide(color: Colors.amber.withAlpha(100)),
+                                     ),
+                                     contentPadding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+                                   ),
+                                   onSubmitted: widget.onQuranVerseSearchChanged,
+                                 ),
+                               ),
+                             ),
+                             if (widget.quranVerseIndexBuilding) ...[
+                               const SizedBox(width: 8),
+                               const SizedBox(
+                                 width: 12, height: 12,
+                                 child: CircularProgressIndicator(strokeWidth: 2, color: Colors.amber),
+                               ),
+                               const SizedBox(width: 4),
+                               const Text('Indexing…',
+                                   style: TextStyle(color: Colors.white38, fontSize: 11)),
+                             ],
+                           ],
+                         ),
+                       ),
+                     ],
             if (!widget.isQuranLoaded)
               Container(
                 margin: const EdgeInsets.symmetric(horizontal: 16, vertical: 4),
@@ -1263,222 +1330,272 @@ class _QuranPanelState extends State<QuranPanel> {
               ),
             ),
             const Divider(color: Colors.white12, height: 1),
-            Expanded(
-              child: ScrollablePositionedList.builder(
-                itemScrollController: _itemScrollController,
-                itemCount: filtered.length,
-                itemBuilder: (context, index) {
-                  final entry = filtered[index];
-                  final globalIndex = widget.entries.indexOf(entry);
-                  final hasActiveRef = entry.refs.any((r) =>
-                      _isActiveRef(r) ||
-                      (!widget.isQuranLoaded &&
-                          _lastTafsirRef != null &&
-                          _isSameRef(_lastTafsirRef!, r)));
-
-                  if (entry.refs.isEmpty && entry.isSubtopic) {
-                    return Padding(
-                      padding: const EdgeInsets.fromLTRB(48, 2, 16, 2),
-                      child: Directionality(
-                        textDirection:
-                            isRtlQuranLanguage(widget.selectedLanguage)
-                                ? TextDirection.rtl
-                                : TextDirection.ltr,
-                        child: Text(entry.topic,
-                            style: const TextStyle(
-                                color: Colors.white38,
-                                fontSize: 13,
-                                fontStyle: FontStyle.italic)),
-                      ),
-                    );
-                  }
-
-                  final isExpanded = _expandedIndices.contains(globalIndex) ||
-                      _searchQuery.isNotEmpty ||
-                      hasActiveRef;
-
-                  return Column(
-                    crossAxisAlignment: CrossAxisAlignment.start,
-                    children: [
-                      InkWell(
-                        onTap: () => setState(() {
-                          if (_expandedIndices.contains(globalIndex)) {
-                            _expandedIndices.remove(globalIndex);
-                            if (!entry.isSubtopic) {
-                              for (int i = globalIndex + 1;
-                                  i < widget.entries.length;
-                                  i++) {
-                                if (widget.entries[i].isSubtopic &&
-                                    widget.entries[i].parentTopic ==
-                                        entry.topic) {
-                                  _expandedIndices.remove(i);
-                                } else if (!widget.entries[i].isSubtopic) break;
-                              }
-                            }
-                          } else {
-                            _expandedIndices.add(globalIndex);
-                            if (!entry.isSubtopic) {
-                              for (int i = globalIndex + 1;
-                                  i < widget.entries.length;
-                                  i++) {
-                                if (widget.entries[i].isSubtopic &&
-                                    widget.entries[i].parentTopic ==
-                                        entry.topic) {
-                                  _expandedIndices.add(i);
-                                } else if (!widget.entries[i].isSubtopic) break;
-                              }
-                            }
-                          }
-                        }),
-                        child: Container(
-                          padding: EdgeInsets.only(
-                            left: entry.isSubtopic ? 32 : 16,
-                            right: 16,
-                            top: entry.isSubtopic ? 6 : 10,
-                            bottom: entry.isSubtopic ? 6 : 10,
-                          ),
-                          color: hasActiveRef
-                              ? Colors.deepPurple.withAlpha(40)
-                              : entry.isSubtopic
-                                  ? Colors.black12
-                                  : Colors.transparent,
-                          child: Row(
-                            children: [
-                              Icon(
-                                isExpanded
-                                    ? Icons.expand_less
-                                    : Icons.expand_more,
-                                color: Colors.white38,
-                                size: 16,
-                              ),
-                              const SizedBox(width: 8),
-                              Expanded(
-                                child: Directionality(
-                                  textDirection: isRtlQuranLanguage(
-                                          widget.selectedLanguage)
-                                      ? TextDirection.rtl
-                                      : TextDirection.ltr,
-                                  child: Text(
-                                    entry.topic,
-                                    style: TextStyle(
-                                      color: hasActiveRef
-                                          ? Colors.purple[200]
-                                          : entry.isSubtopic
-                                              ? Colors.white70
-                                              : Colors.white,
-                                      fontSize: entry.isSubtopic ? 13 : 14,
-                                      fontWeight: hasActiveRef
-                                          ? FontWeight.bold
-                                          : entry.isSubtopic
-                                              ? FontWeight.normal
-                                              : FontWeight.w600,
-                                    ),
+                        if (widget.quranVerseSearchController.text.isNotEmpty) ...[
+                          Expanded(
+                            child: widget.quranVerseSearchResults.isEmpty
+                                ? const Center(
+                                    child: Text('No matches',
+                                        style: TextStyle(color: Colors.white38, fontSize: 12)),
+                                  )
+                                : ListView.separated(
+                                    itemCount: widget.quranVerseSearchResults.length,
+                                    separatorBuilder: (_, __) =>
+                                        const Divider(color: Colors.white12, height: 12),
+                                        itemBuilder: (_, i) {
+                                          final hit = widget.quranVerseSearchResults[i];
+                                          const baseStyle = TextStyle(color: Colors.white70, fontSize: 13, height: 1.4);
+                                          final spans = _highlightQuery(
+                                            [TextSpan(text: hit.text, style: baseStyle)],
+                                            widget.quranVerseSearchController.text,
+                                          );
+                                          return InkWell(
+                                            onTap: () => widget.onQuranVerseSearchResultTap(hit),
+                                            child: Padding(
+                                              padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 10),
+                                              child: Column(
+                                                crossAxisAlignment: CrossAxisAlignment.start,
+                                                children: [
+                                                  Row(
+                                                    children: [
+                                                      Text('${hit.surah}:${hit.ayah}',
+                                                          style: const TextStyle(
+                                                              color: Colors.amber,
+                                                              fontSize: 12,
+                                                              fontWeight: FontWeight.w600)),
+                                                      const Spacer(),
+                                                      const Icon(Icons.chevron_right, color: Colors.white24, size: 16),
+                                                    ],
+                                                  ),
+                                                  const SizedBox(height: 4),
+                                                  Text.rich(
+                                                    TextSpan(children: spans),
+                                                    maxLines: 3,
+                                                    overflow: TextOverflow.ellipsis,
+                                                  ),
+                                                ],
+                                              ),
+                                            ),
+                                          );
+                                        },
                                   ),
-                                ),
-                              ),
-                              const SizedBox(width: 10),
-                              Text(
-                                '${entry.refs.length} ref${entry.refs.length == 1 ? '' : 's'}',
-                                style: const TextStyle(
-                                    color: Colors.white24, fontSize: 11),
-                              ),
-                            ],
                           ),
-                        ),
-                      ),
-                      if (isExpanded)
-                        Padding(
-                          padding: EdgeInsets.fromLTRB(
-                              entry.isSubtopic ? 56 : 40, 0, 16, 8),
-                          child: Wrap(
-                            spacing: 6,
-                            runSpacing: 6,
-                            children: entry.refs.map((ref) {
-                              final isActive = _isActiveRef(ref) ||
+                        ] else
+                          Expanded(
+                          child: ScrollablePositionedList.builder(
+                            itemScrollController: _itemScrollController,
+                            itemCount: filtered.length,
+                            itemBuilder: (context, index) {
+                              final entry = filtered[index];
+                              final globalIndex = widget.entries.indexOf(entry);
+                              final hasActiveRef = entry.refs.any((r) =>
+                                  _isActiveRef(r) ||
                                   (!widget.isQuranLoaded &&
                                       _lastTafsirRef != null &&
-                                      _isSameRef(_lastTafsirRef!, ref));
-                              return Tooltip(
-                                message: _getSurahName(ref.surah),
-                                preferBelow: true,
-                                verticalOffset: 32,
-                                textStyle: const TextStyle(
-                                    color: Colors.white, fontSize: 13),
-                                decoration: BoxDecoration(
-                                  color: Colors.deepPurple,
-                                  borderRadius: BorderRadius.circular(6),
-                                ),
-                                child: GestureDetector(
-                                  onTap: () {
-                                    if (widget.isQuranLoaded) {
-                                      widget.onVerseSelected(ref, index);
-                                      _refInputFocusNode.requestFocus();
-                                    } else {
-                                      final refString = (ref.toAyah != null &&
-                                              ref.toAyah != ref.fromAyah)
-                                          ? '${ref.surah}:${ref.fromAyah}-${ref.toAyah}'
-                                          : '${ref.surah}:${ref.fromAyah}';
-                                      setState(() {
-                                        _lastTafsirRef = ref;
-                                        _lastTafsirIndex = index;
-                                      });
-                                      _tafsirRefController.text = refString;
-                                      _tafsirRefFocusNode.requestFocus();
-                                      _lookupTafsir(context);
-                                    }
-                                  },
-                                  child: Container(
-                                    padding: const EdgeInsets.symmetric(
-                                        horizontal: 10, vertical: 5),
-                                    decoration: BoxDecoration(
-                                      color: isActive
-                                          ? Colors.deepPurple
-                                          : widget.isQuranLoaded
-                                              ? Colors.blueGrey[900]
-                                              : Colors.deepOrange.withAlpha(40),
-                                      borderRadius: BorderRadius.circular(6),
-                                      border: Border.all(
-                                        color: isActive
-                                            ? Colors.purple
-                                            : widget.isQuranLoaded
-                                                ? Colors.lightBlue
-                                                    .withAlpha(120)
-                                                : Colors.deepOrange
-                                                    .withAlpha(80),
+                                      _isSameRef(_lastTafsirRef!, r)));
+
+                              if (entry.refs.isEmpty && entry.isSubtopic) {
+                                return Padding(
+                                  padding: const EdgeInsets.fromLTRB(48, 2, 16, 2),
+                                  child: Directionality(
+                                    textDirection:
+                                        isRtlQuranLanguage(widget.selectedLanguage)
+                                            ? TextDirection.rtl
+                                            : TextDirection.ltr,
+                                    child: Text(entry.topic,
+                                        style: const TextStyle(
+                                            color: Colors.white38,
+                                            fontSize: 13,
+                                            fontStyle: FontStyle.italic)),
+                                  ),
+                                );
+                              }
+
+                              final isExpanded = _expandedIndices.contains(globalIndex) ||
+                                  _searchQuery.isNotEmpty ||
+                                  hasActiveRef;
+
+                              return Column(
+                                crossAxisAlignment: CrossAxisAlignment.start,
+                                children: [
+                                  InkWell(
+                                    onTap: () => setState(() {
+                                      if (_expandedIndices.contains(globalIndex)) {
+                                        _expandedIndices.remove(globalIndex);
+                                        if (!entry.isSubtopic) {
+                                          for (int i = globalIndex + 1;
+                                              i < widget.entries.length;
+                                              i++) {
+                                            if (widget.entries[i].isSubtopic &&
+                                                widget.entries[i].parentTopic ==
+                                                    entry.topic) {
+                                              _expandedIndices.remove(i);
+                                            } else if (!widget.entries[i].isSubtopic) break;
+                                          }
+                                        }
+                                      } else {
+                                        _expandedIndices.add(globalIndex);
+                                        if (!entry.isSubtopic) {
+                                          for (int i = globalIndex + 1;
+                                              i < widget.entries.length;
+                                              i++) {
+                                            if (widget.entries[i].isSubtopic &&
+                                                widget.entries[i].parentTopic ==
+                                                    entry.topic) {
+                                              _expandedIndices.add(i);
+                                            } else if (!widget.entries[i].isSubtopic) break;
+                                          }
+                                        }
+                                      }
+                                    }),
+                                    child: Container(
+                                      padding: EdgeInsets.only(
+                                        left: entry.isSubtopic ? 32 : 16,
+                                        right: 16,
+                                        top: entry.isSubtopic ? 6 : 10,
+                                        bottom: entry.isSubtopic ? 6 : 10,
                                       ),
-                                    ),
-                                    child: Text(
-                                      ref.displayLabel,
-                                      style: TextStyle(
-                                        color: isActive
-                                            ? Colors.white
-                                            : widget.isQuranLoaded
-                                                ? Colors.lightBlueAccent
-                                                : Colors.yellow,
-                                        fontSize: 13,
-                                        fontWeight: isActive
-                                            ? FontWeight.bold
-                                            : FontWeight.normal,
+                                      color: hasActiveRef
+                                          ? Colors.deepPurple.withAlpha(40)
+                                          : entry.isSubtopic
+                                              ? Colors.black12
+                                              : Colors.transparent,
+                                      child: Row(
+                                        children: [
+                                          Icon(
+                                            isExpanded
+                                                ? Icons.expand_less
+                                                : Icons.expand_more,
+                                            color: Colors.white38,
+                                            size: 16,
+                                          ),
+                                          const SizedBox(width: 8),
+                                          Expanded(
+                                            child: Directionality(
+                                              textDirection: isRtlQuranLanguage(
+                                                      widget.selectedLanguage)
+                                                  ? TextDirection.rtl
+                                                  : TextDirection.ltr,
+                                              child: Text(
+                                                entry.topic,
+                                                style: TextStyle(
+                                                  color: hasActiveRef
+                                                      ? Colors.purple[200]
+                                                      : entry.isSubtopic
+                                                          ? Colors.white70
+                                                          : Colors.white,
+                                                  fontSize: entry.isSubtopic ? 13 : 14,
+                                                  fontWeight: hasActiveRef
+                                                      ? FontWeight.bold
+                                                      : entry.isSubtopic
+                                                          ? FontWeight.normal
+                                                          : FontWeight.w600,
+                                                ),
+                                              ),
+                                            ),
+                                          ),
+                                          const SizedBox(width: 10),
+                                          Text(
+                                            '${entry.refs.length} ref${entry.refs.length == 1 ? '' : 's'}',
+                                            style: const TextStyle(
+                                                color: Colors.white24, fontSize: 11),
+                                          ),
+                                        ],
                                       ),
                                     ),
                                   ),
-                                ),
+                                  if (isExpanded)
+                                    Padding(
+                                      padding: EdgeInsets.fromLTRB(
+                                          entry.isSubtopic ? 56 : 40, 0, 16, 8),
+                                      child: Wrap(
+                                        spacing: 6,
+                                        runSpacing: 6,
+                                        children: entry.refs.map((ref) {
+                                          final isActive = _isActiveRef(ref) ||
+                                              (!widget.isQuranLoaded &&
+                                                  _lastTafsirRef != null &&
+                                                  _isSameRef(_lastTafsirRef!, ref));
+                                          return Tooltip(
+                                            message: _getSurahName(ref.surah),
+                                            preferBelow: true,
+                                            verticalOffset: 32,
+                                            textStyle: const TextStyle(
+                                                color: Colors.white, fontSize: 13),
+                                            decoration: BoxDecoration(
+                                              color: Colors.deepPurple,
+                                              borderRadius: BorderRadius.circular(6),
+                                            ),
+                                            child: GestureDetector(
+                                              onTap: () {
+                                                if (widget.isQuranLoaded) {
+                                                  widget.onVerseSelected(ref, index);
+                                                  _refInputFocusNode.requestFocus();
+                                                } else {
+                                                  final refString = (ref.toAyah != null &&
+                                                          ref.toAyah != ref.fromAyah)
+                                                      ? '${ref.surah}:${ref.fromAyah}-${ref.toAyah}'
+                                                      : '${ref.surah}:${ref.fromAyah}';
+                                                  setState(() {
+                                                    _lastTafsirRef = ref;
+                                                    _lastTafsirIndex = index;
+                                                  });
+                                                  _tafsirRefController.text = refString;
+                                                  _tafsirRefFocusNode.requestFocus();
+                                                  _lookupTafsir(context);
+                                                }
+                                              },
+                                              child: Container(
+                                                padding: const EdgeInsets.symmetric(
+                                                    horizontal: 10, vertical: 5),
+                                                decoration: BoxDecoration(
+                                                  color: isActive
+                                                      ? Colors.deepPurple
+                                                      : widget.isQuranLoaded
+                                                          ? Colors.blueGrey[900]
+                                                          : Colors.deepOrange.withAlpha(40),
+                                                  borderRadius: BorderRadius.circular(6),
+                                                  border: Border.all(
+                                                    color: isActive
+                                                        ? Colors.purple
+                                                        : widget.isQuranLoaded
+                                                            ? Colors.lightBlue
+                                                                .withAlpha(120)
+                                                            : Colors.deepOrange
+                                                                .withAlpha(80),
+                                                  ),
+                                                ),
+                                                child: Text(
+                                                  ref.displayLabel,
+                                                  style: TextStyle(
+                                                    color: isActive
+                                                        ? Colors.white
+                                                        : widget.isQuranLoaded
+                                                            ? Colors.lightBlueAccent
+                                                            : Colors.yellow,
+                                                    fontSize: 13,
+                                                    fontWeight: isActive
+                                                        ? FontWeight.bold
+                                                        : FontWeight.normal,
+                                                  ),
+                                                ),
+                                              ),
+                                            ),
+                                          );
+                                        }).toList(),
+                                      ),
+                                    ),
+                                  if (index < filtered.length - 1)
+                                    const Divider(color: Colors.white10, height: 1),
+                                ],
                               );
-                            }).toList(),
+                            },
                           ),
                         ),
-                      if (index < filtered.length - 1)
-                        const Divider(color: Colors.white10, height: 1),
+                      ],
                     ],
-                  );
-                },
-              ),
-            ),
-          ],
-        ],
-      ),
-    );
-  }
+                  ),
+                );
+              }
 
   Widget _quickFilterChip(String label, String query) {
     final isActive = _searchQuery == query;

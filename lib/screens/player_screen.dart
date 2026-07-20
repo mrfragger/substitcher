@@ -63,6 +63,7 @@ import '../widgets/vtt_show_edit_overlay.dart';
 import '../widgets/youtube_dialog.dart';
 import '../widgets/quran_panel.dart';
 import '../quran/quran_index.dart';
+import '../quran/quran_verse_search_index.dart';
 
 enum FontColorOverride { none, black, white }
 
@@ -235,6 +236,13 @@ class _PlayerScreenState extends State<PlayerScreen>
   int? _activeQuranFilteredIndex;
   String _quranIndexLanguage = 'English';
   final FocusNode _quranRefInputFocusNode = FocusNode();
+
+  final QuranVerseSearchIndex _quranVerseSearchIndex = QuranVerseSearchIndex();
+  bool _quranVerseSearchMode = false;
+  final TextEditingController _quranVerseSearchController = TextEditingController();
+  final FocusNode _quranVerseSearchFocusNode = FocusNode();
+  List<QuranAyahSearchHit> _quranVerseSearchResults = [];
+  bool _quranVerseIndexBuilding = false;
 
   String _defaultFont = 'System Default';
   String? _defaultColorPalette;
@@ -492,6 +500,8 @@ class _PlayerScreenState extends State<PlayerScreen>
     _tafsirSearchFocusNode.dispose();
     _quranSearchFocusNode.dispose();
     _quranExcludeFocusNode.dispose();
+    _quranVerseSearchController.dispose();
+    _quranVerseSearchFocusNode.dispose();
     _hadeethSearchFocusNode.dispose();
     _hadeethExcludeFocusNode.dispose();
     _quranRefInputFocusNode.dispose();
@@ -684,6 +694,41 @@ class _PlayerScreenState extends State<PlayerScreen>
     if (foundVtt != null) {
       await SubtitlePreferences.saveLastUsedVttPath(targetOpusPath, foundVtt);
     }
+  }
+
+  Future<void> _buildQuranVerseSearchIndexIfNeeded() async {
+    if (!_isQuranVerseByVerse) return;
+    final vttPath = _subtitleFilePath;
+    final opusPath = _currentAudiobook?.path;
+    if (vttPath == null || opusPath == null) return;
+
+    setState(() => _quranVerseIndexBuilding = true);
+    await _quranVerseSearchIndex.buildFromCurrentFile(
+      currentVttPath: vttPath,
+      currentOpusPath: opusPath,
+    );
+    if (mounted) {
+      setState(() => _quranVerseIndexBuilding = false);
+    }
+  }
+
+  void _searchQuranVerseText(String query) {
+    final hits = _quranVerseSearchIndex.search(query);
+    setState(() => _quranVerseSearchResults = hits);
+  }
+
+  void _jumpToQuranVerseSearchResult(QuranAyahSearchHit hit) {
+    final ref = QuranVerseRef(
+      surah: hit.surah,
+      fromAyah: hit.ayah,
+      toAyah: hit.ayah,
+      isFullSurah: false,
+    );
+    setState(() {
+      _quranVerseSearchMode = false;
+      _showPanel = false;
+    });
+    _navigateToQuranVerse(ref, 0);
   }
 
   Future<void> _loadFavoriteLuts() async {
@@ -1452,6 +1497,7 @@ class _PlayerScreenState extends State<PlayerScreen>
           } else {
             await _applyConversion();
           }
+          _buildQuranVerseSearchIndexIfNeeded();
         },
         onSecondarySelected: (path) async {
           setState(() {
@@ -1704,6 +1750,7 @@ class _PlayerScreenState extends State<PlayerScreen>
       await _applyConversion();
       _updateWakelock();
       _scheduleFrequencyGeneration();
+      _buildQuranVerseSearchIndexIfNeeded();
     } catch (e) {
       print('Error loading subtitles: $e');
       setState(() {
@@ -7315,7 +7362,8 @@ class _PlayerScreenState extends State<PlayerScreen>
             _quranRefInputFocusNode.hasFocus ||
             _hadeethSearchFocusNode.hasFocus ||
             _hadeethExcludeFocusNode.hasFocus ||
-            _tafsirSearchFocusNode.hasFocus) {
+            _tafsirSearchFocusNode.hasFocus ||
+            _quranVerseSearchFocusNode.hasFocus) {
           return KeyEventResult.ignored;
         }
 
@@ -8332,6 +8380,12 @@ class _PlayerScreenState extends State<PlayerScreen>
                   hadeethExcludeFocusNode: _hadeethExcludeFocusNode,
                   tafsirSearchController: _tafsirSearchController,
                   tafsirSearchFocusNode: _tafsirSearchFocusNode,
+                  quranVerseSearchController: _quranVerseSearchController,
+                  quranVerseSearchFocusNode: _quranVerseSearchFocusNode,
+                  quranVerseSearchResults: _quranVerseSearchResults,
+                  quranVerseIndexBuilding: _quranVerseIndexBuilding,
+                  onQuranVerseSearchChanged: _searchQuranVerseText,
+                  onQuranVerseSearchResultTap: _jumpToQuranVerseSearchResult,
                   isExportingMarkdown: _isExportingMarkdown,
                   exportStatus: _exportStatus,
                   onExportMarkdown: _exportMarkdownParagraphs,

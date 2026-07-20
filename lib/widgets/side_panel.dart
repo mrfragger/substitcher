@@ -15,6 +15,7 @@ import '../services/font_database.dart';
 import '../services/font_loader.dart';
 import '../services/custom_font_metadata.dart';
 import '../quran/quran_index.dart';
+import '../quran/quran_verse_search_index.dart';
 import 'stats_panel.dart';
 import 'quran_panel.dart';
 
@@ -208,6 +209,14 @@ class SidePanel extends StatelessWidget {
   final FocusNode hadeethExcludeFocusNode;
   final TextEditingController tafsirSearchController;
   final FocusNode tafsirSearchFocusNode;
+
+  final TextEditingController quranVerseSearchController;
+  final FocusNode quranVerseSearchFocusNode;
+  final List<QuranAyahSearchHit> quranVerseSearchResults;
+  final bool quranVerseIndexBuilding;
+  final Function(String) onQuranVerseSearchChanged;
+  final Function(QuranAyahSearchHit) onQuranVerseSearchResultTap;
+
   final ItemScrollController quranItemScrollController;
   final String quranSearchQuery;
   final String quranExcludeQuery;
@@ -237,6 +246,12 @@ class SidePanel extends StatelessWidget {
     required this.hadeethExcludeFocusNode,
     required this.tafsirSearchController,
     required this.tafsirSearchFocusNode,
+    required this.quranVerseSearchController,
+    required this.quranVerseSearchFocusNode,
+    required this.quranVerseSearchResults,
+    required this.quranVerseIndexBuilding,
+    required this.onQuranVerseSearchChanged,
+    required this.onQuranVerseSearchResultTap,
     required this.onClose,
     required this.onToggleCollapse,
     required this.onPanelModeChanged,
@@ -746,6 +761,12 @@ class SidePanel extends StatelessWidget {
           hadeethExcludeFocusNode: hadeethExcludeFocusNode,
           tafsirSearchController: tafsirSearchController,
           tafsirSearchFocusNode: tafsirSearchFocusNode,
+          quranVerseSearchController: quranVerseSearchController,
+          quranVerseSearchFocusNode: quranVerseSearchFocusNode,
+          quranVerseSearchResults: quranVerseSearchResults,
+          quranVerseIndexBuilding: quranVerseIndexBuilding,
+          onQuranVerseSearchChanged: onQuranVerseSearchChanged,
+          onQuranVerseSearchResultTap: onQuranVerseSearchResultTap,
           itemScrollController: quranItemScrollController,
           searchQuery: quranSearchQuery,
           excludeQuery: quranExcludeQuery,
