@@ -6491,6 +6491,15 @@ class _PlayerScreenState extends State<PlayerScreen>
         _isAnalyzingFrequencies = false;
       });
 
+
+      if (!_isQuranVerseByVerse) {
+        setState(() {
+          _quranVerseSearchResults = [];
+        });
+        _quranVerseSearchController.clear();
+        _quranVerseSearchIndex.clear();
+      }
+
       await _loadFontSettings(selectedPath);
       await player.open(Media(selectedPath), play: false);
       await player.setRate(_playbackSpeed);
