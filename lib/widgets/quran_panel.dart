@@ -753,10 +753,21 @@ class _QuranPanelState extends State<QuranPanel> {
   }
 
   void _searchTafsirText(String query) {
-    final q = query.trim().toLowerCase();
-    if (q.isEmpty) {
+    final terms = query
+        .trim()
+        .toLowerCase()
+        .split(RegExp(r'\s+'))
+        .where((t) => t.isNotEmpty)
+        .toList();
+    if (terms.isEmpty) {
       setState(() => _tafsirSearchResults = []);
       return;
+    }
+
+    bool matches(String? text) {
+      if (text == null || text.isEmpty) return false;
+      final lower = text.toLowerCase();
+      return terms.every((t) => lower.contains(t));
     }
 
     final results = <Map<String, dynamic>>[];
@@ -767,33 +778,33 @@ class _QuranPanelState extends State<QuranPanel> {
         if (_tafsirMokhtasar) {
           final text =
               getTafsirMokhtasarForLanguage(_mokhtasarLanguage, surah, ayah);
-          if (text != null && text.toLowerCase().contains(q)) {
-            results.add({'source': 'Mokhtasar', 'surah': surah, 'ayah': ayah, 'text': text});
+          if (matches(text)) {
+            results.add({'source': 'Mokhtasar', 'surah': surah, 'ayah': ayah, 'text': text!});
           }
         }
         if (ayah == 0) continue;
         if (_tafsirHilaliKhan) {
           final text = getTafsirHilaliKhan(surah, ayah);
-          if (text != null && text.toLowerCase().contains(q)) {
-            results.add({'source': 'Hilali-Khan', 'surah': surah, 'ayah': ayah, 'text': text});
+          if (matches(text)) {
+            results.add({'source': 'Hilali-Khan', 'surah': surah, 'ayah': ayah, 'text': text!});
           }
         }
         if (_tafsirRowwadEnglish) {
           final text = getTafsirRowwadEnglish(surah, ayah);
-          if (text != null && text.toLowerCase().contains(q)) {
-            results.add({'source': 'Rowwad', 'surah': surah, 'ayah': ayah, 'text': text});
+          if (matches(text)) {
+            results.add({'source': 'Rowwad', 'surah': surah, 'ayah': ayah, 'text': text!});
           }
         }
         if (_tafsirNoorEnglish) {
           final text = getTafsirNoorEnglish(surah, ayah);
-          if (text != null && text.toLowerCase().contains(q)) {
-            results.add({'source': 'Noor', 'surah': surah, 'ayah': ayah, 'text': text});
+          if (matches(text)) {
+            results.add({'source': 'Noor', 'surah': surah, 'ayah': ayah, 'text': text!});
           }
         }
         if (_tafsirYacobEnglish) {
           final text = getTafsirYacobEnglish(surah, ayah);
-          if (text != null && text.toLowerCase().contains(q)) {
-            results.add({'source': 'Yacob', 'surah': surah, 'ayah': ayah, 'text': text});
+          if (matches(text)) {
+            results.add({'source': 'Yacob', 'surah': surah, 'ayah': ayah, 'text': text!});
           }
         }
       }
@@ -814,12 +825,19 @@ class _QuranPanelState extends State<QuranPanel> {
   }
 
   List<TextSpan> _highlightQuery(List<TextSpan> spans, String query) {
-    final term = query.trim();
-    if (term.isEmpty) return spans;
+    final terms = query
+        .trim()
+        .split(RegExp(r'\s+'))
+        .where((t) => t.isNotEmpty)
+        .toList();
+    if (terms.isEmpty) return spans;
 
-    final pattern = RegExp(RegExp.escape(term), caseSensitive: false);
+    final pattern = RegExp(
+      terms.map(RegExp.escape).join('|'),
+      caseSensitive: false,
+    );
+
     final result = <TextSpan>[];
-
     for (final span in spans) {
       final text = span.text;
       if (text == null || text.isEmpty || !pattern.hasMatch(text)) {
@@ -829,11 +847,7 @@ class _QuranPanelState extends State<QuranPanel> {
       int cursor = 0;
       for (final m in pattern.allMatches(text)) {
         if (m.start > cursor) {
-          result.add(TextSpan(
-            text: text.substring(cursor, m.start),
-            style: span.style,
-            recognizer: span.recognizer,
-          ));
+          result.add(TextSpan(text: text.substring(cursor, m.start), style: span.style, recognizer: span.recognizer));
         }
         result.add(TextSpan(
           text: text.substring(m.start, m.end),
@@ -847,11 +861,7 @@ class _QuranPanelState extends State<QuranPanel> {
         cursor = m.end;
       }
       if (cursor < text.length) {
-        result.add(TextSpan(
-          text: text.substring(cursor),
-          style: span.style,
-          recognizer: span.recognizer,
-        ));
+        result.add(TextSpan(text: text.substring(cursor), style: span.style, recognizer: span.recognizer));
       }
     }
     return result;
