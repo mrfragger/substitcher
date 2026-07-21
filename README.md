@@ -37,7 +37,7 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 
 ![](images/fonts.jpg)
 
-- download 43 demo fonts or search for them to download on font websites
+- download 44 demo fonts or search for them to download on font websites
 - custom fonts can all be in one directory within various subdirectories, it recursively loads the fonts
 - ![customfonts.zip 2MB](https://github.com/mrfragger/substitcher/raw/main/images/customfonts.zip)
 - in font panel set custom folder to this one and all fonts will be loaded
@@ -67,6 +67,7 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 │   └── Traditional Civilization demo.otf
 ├── ligaturesVarious
 │   ├── Chocolate Chips.otf
+│   ├── Diglet Sunsin.otf
 │   ├── Pricedown Black.otf
 │   ├── Rocket Raccoon free.otf
 │   ├── Shoese Flower.ttf
@@ -384,7 +385,7 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 
 ### Quran index
 - use with Quran Verse by Verse opus audiobooks to navigate to chapter, verse
-- search topics and subtopics
+- search topics and subtopics as well as Quran Verse by Verse vtt subtitles of whichever translation is loaded.  Each of the 15 Quran audiobooks have 81 translations available.
 - subs are in 80+ languages translations and can be used with English index or any other language, just set vtt subs language once and it'll remember it
 - or just search for topics with physical Quran
 - topic index mostly from Hilali and Muhsin Khan Quran English translation
@@ -399,10 +400,11 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 
 ### Tafsir (Quran Commentary)
 - Mokhtasar (Mukhtasar) tafsir is an simplified commentary that was done around 2015 following the methodology of Ahl-us-Sunnah wal-Jamaa`ah and is available in the following languages:
-- Akan, Afar, Amharic, Arabic, Assamese, Azerbaijani, Bengali, Bosnian, Chinese, English, French, Fulani, German, Hausa, Hindi, Indonesian, Italian, Japanese, Khmer, Korean, Kurdish, Kyrgyz, Malagasy, Malayalam, Nepali, Oromo, Pashto, Persian, Portuguese, Russian, Serbian, Sinhalese, Spanish, Swahili, Tagalog, Tajik, Tamil, Telugu, Thai, Turkish, Urdu, Uyghur, Uzbek, Vietnamese
+- Akan, Afar, Albanian, Amharic, Arabic, Assamese, Azerbaijani, Bengali, Bosnian, Chinese, English, French, Fulani, German, Hausa, Hindi, Indonesian, Italian, Japanese, Khmer, Korean, Kurdish, Kyrgyz, Malagasy, Malayalam, Nepali, Oromo, Pashto, Persian, Portuguese, Russian, Serbian, Sinhalese, Spanish, Swahili, Tagalog, Tajik, Tamil, Telugu, Thai, Turkish, Urdu, Uyghur, Uzbek, Vietnamese
 - all are from https://quranenc.com except Afar, Akan, Amharic, English, German, Hausa, Korean (1, 36-114), Malagasy, Nepali, Oromo, Portuguese, Russian, Swahili, Tajik, Urdu are from https://mokhtasr.com/en
 - English Quran translations Hilali-Khan, Rowwad and Abdullah Hasan Yaqoub all from quranenc.com
 - clicking on a verse reference places it into the search input field
+- search tafsir text
 
 ![](images/tafsir.jpg)
 
