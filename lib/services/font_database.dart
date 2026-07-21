@@ -96,6 +96,7 @@ class FontDatabase {
 
      // ==================== demo/ligatures/Various ====================
      'Chocolate Chips': FontMetadata(fontName: 'Chocolate Chips', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
+     'Diglet Sunsin': FontMetadata(fontName: 'Diglet Sunsin', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
      'Pricedown Black': FontMetadata(fontName: 'Pricedown Black', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
      'Rocket Raccoon free': FontMetadata(fontName: 'Rocket Raccoon free', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
      'Shoese Flower': FontMetadata(fontName: 'Shoese Flower', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
