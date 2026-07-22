@@ -11,6 +11,7 @@ import '../tafsir/tafsir_hilali_khan.dart';
 import '../tafsir/tafsir_rowwad_english.dart';
 import '../tafsir/tafsir_noor_english.dart';
 import '../tafsir/tafsir_yacob_english.dart';
+import '../tafsir/tafisr_ibn_kathir.dart';
 import '../hadeeth/hadeeth_panel.dart';
 
 class QuranPanel extends StatefulWidget {
@@ -86,6 +87,7 @@ class _QuranPanelState extends State<QuranPanel> {
   static bool _tafsirRowwadEnglish = false;
   static bool _tafsirNoorEnglish = false;
   static bool _tafsirYacobEnglish = false;
+  static bool _tafsirIbnKathir = false;
   static String _mokhtasarLanguage = 'English';
   static QuranVerseRef? _lastTafsirRef;
   static int? _lastTafsirIndex;
@@ -790,6 +792,17 @@ class _QuranPanelState extends State<QuranPanel> {
           });
         }
       }
+      if (_tafsirIbnKathir) {
+        final text = getTafsirIbnKathirEnglish(range.surah, ayah);
+        if (text != null && text.isNotEmpty) {
+          results.add({
+            'source': 'IbnKathir',
+            'surah': range.surah,
+            'ayah': ayah,
+            'text': text
+          });
+        }
+      }
     }
 
     setState(() => _tafsirResults = results);
@@ -854,6 +867,12 @@ class _QuranPanelState extends State<QuranPanel> {
           final text = getTafsirYacobEnglish(surah, ayah);
           if (matches(text)) {
             results.add({'source': 'Yacob', 'surah': surah, 'ayah': ayah, 'text': text!});
+          }
+        }
+        if (_tafsirIbnKathir) {
+          final text = getTafsirIbnKathirEnglish(surah, ayah);
+          if (matches(text)) {
+            results.add({'source': 'IbnKathir', 'surah': surah, 'ayah': ayah, 'text': text!});
           }
         }
       }
@@ -1815,7 +1834,7 @@ class _QuranPanelState extends State<QuranPanel> {
                   const SizedBox(width: 8),
                   _tafsirCheckbox('Mokhtasar', _tafsirMokhtasar, (v) {
                     setState(() => _tafsirMokhtasar = v ?? false);
-                  }),
+                  }, Colors.lightBlueAccent),
                   const SizedBox(width: 8),
                   if (_tafsirMokhtasar)
                     DropdownButton<String>(
@@ -1838,22 +1857,26 @@ class _QuranPanelState extends State<QuranPanel> {
                         }
                       },
                     ),
-                  const SizedBox(width: 12),
-                  _tafsirCheckbox('Hilali-Khan', _tafsirHilaliKhan, (v) {
-                    setState(() => _tafsirHilaliKhan = v ?? false);
-                  }),
-                  const SizedBox(width: 12),
-                  _tafsirCheckbox('Rowwad', _tafsirRowwadEnglish, (v) {
-                    setState(() => _tafsirRowwadEnglish = v ?? false);
-                  }),
-                  const SizedBox(width: 12),
-                  _tafsirCheckbox('Noor', _tafsirNoorEnglish, (v) {
-                    setState(() => _tafsirNoorEnglish = v ?? false);
-                  }),
-                  const SizedBox(width: 12),
-                  _tafsirCheckbox('Yacob', _tafsirYacobEnglish, (v) {
-                    setState(() => _tafsirYacobEnglish = v ?? false);
-                  }),
+                    const SizedBox(width: 12),
+                    _tafsirCheckbox('Hilali-Khan', _tafsirHilaliKhan, (v) {
+                      setState(() => _tafsirHilaliKhan = v ?? false);
+                    }, Colors.greenAccent),
+                    const SizedBox(width: 12),
+                    _tafsirCheckbox('Rowwad', _tafsirRowwadEnglish, (v) {
+                      setState(() => _tafsirRowwadEnglish = v ?? false);
+                    }, Colors.orangeAccent),
+                    const SizedBox(width: 12),
+                    _tafsirCheckbox('Noor', _tafsirNoorEnglish, (v) {
+                      setState(() => _tafsirNoorEnglish = v ?? false);
+                    }, Colors.redAccent),
+                    const SizedBox(width: 12),
+                    _tafsirCheckbox('Yacob', _tafsirYacobEnglish, (v) {
+                      setState(() => _tafsirYacobEnglish = v ?? false);
+                    }, Colors.purpleAccent),
+                    const SizedBox(width: 12),
+                    _tafsirCheckbox('IbnKathir', _tafsirIbnKathir, (v) {
+                      setState(() => _tafsirIbnKathir = v ?? false);
+                    }, Colors.brown),
                 ],
               ),
             ),
@@ -1916,7 +1939,7 @@ class _QuranPanelState extends State<QuranPanel> {
   }
 
   Widget _tafsirCheckbox(
-      String label, bool value, ValueChanged<bool?> onChanged) {
+      String label, bool value, ValueChanged<bool?> onChanged, Color color) {
     return Row(
       mainAxisSize: MainAxisSize.min,
       children: [
@@ -1926,14 +1949,14 @@ class _QuranPanelState extends State<QuranPanel> {
           child: Checkbox(
             value: value,
             onChanged: onChanged,
-            activeColor: Colors.teal,
+            activeColor: color,
             side: const BorderSide(color: Colors.white38),
             materialTapTargetSize: MaterialTapTargetSize.shrinkWrap,
           ),
         ),
         const SizedBox(width: 6),
         Text(label,
-            style: const TextStyle(color: Colors.white70, fontSize: 13)),
+            style: TextStyle(color: Colors.white70, fontSize: 13)),
       ],
     );
   }
@@ -1967,8 +1990,14 @@ class _QuranPanelState extends State<QuranPanel> {
       final text = r['text'] as String;
       final isRtl =
           source == 'Mokhtasar Ar' || isMokhtasarRtl(_mokhtasarLanguage);
-      final sourceColor =
-          source == 'Mokhtasar' ? Colors.lightBlueAccent : Colors.greenAccent;
+      final sourceColor = switch (source) {
+        'Mokhtasar' => Colors.lightBlueAccent,
+        'Rowwad' => Colors.orangeAccent,
+        'Noor' => Colors.redAccent,
+        'Yacob' => Colors.purpleAccent,
+        'IbnKathir' => Colors.brown,
+        _ => Colors.greenAccent,
+      };
       final ayahLabel = ayah == 0 ? '$surah:intro' : '$surah:$ayah';
       return Directionality(
         textDirection: isRtl ? TextDirection.rtl : TextDirection.ltr,

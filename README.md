@@ -563,13 +563,7 @@ download and in transcribe screen point it to use this whisper-cli.exe instead o
 - Lulu, free, open-source firewall https://objective-see.org/products/lulu.html
 - Stats, free, menu bar stats monitoring https://github.com/exelban/stats
 - Mole, free, for terminal, cleans up disk space https://github.com/tw93/Mole
-- KeepassXC, free, password manager https://keepassxc.org
 - Screen Kite, free, record screen area with system sound, better than OBS https://www.screenkite.com 
-- MetalVoice, free, Denoise DeepFilterNet3 in realtime on mic input https://github.com/Ghostkwebb/MetalVoice
-- LocalSend, free, flutter app share files, free https://localsend.org
 - Handy, free, local (CPU only) not-realtime dictation, transcription in many languages, no srt, vtt though https://github.com/cjpais/Handy
 - Moonshine Note Taker, free, English only, local realtime transcription, edit mistakes, outputs srt drag audio to app to transcribe https://note-taker.moonshine.ai/
-- Shotcut, free, add images, mutli-track video editor, free, learning curve https://shotcut.org
-- DaVinci resolve, free up to 1080p, but requires 16GB RAM bare minimum and massive learning curve, expensive
-
 </details>
