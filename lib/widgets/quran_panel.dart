@@ -7,11 +7,19 @@ import '../quran/quran_index.dart';
 import '../quran/surah_names.dart';
 import '../quran/quran_verse_search_index.dart';
 import '../tafsir/tafsir_mokhtasar_all.dart';
-import '../tafsir/tafsir_hilali_khan.dart';
-import '../tafsir/tafsir_rowwad_english.dart';
-import '../tafsir/tafsir_noor_english.dart';
-import '../tafsir/tafsir_yacob_english.dart';
-import '../tafsir/tafisr_ibn_kathir.dart';
+import '../tafsir/tafsir_english_hilali_khan.dart';
+import '../tafsir/tafsir_english_rowwad.dart';
+import '../tafsir/tafsir_english_noor.dart';
+import '../tafsir/tafsir_english_yacob.dart';
+import '../tafsir/tafsir_english_ibn_kathir.dart';
+import '../tafsir/tafsir_arabic_saadi.dart';
+import '../tafsir/tafsir_arabic_moyassar.dart';
+import '../tafsir/tafsir_arabic_baghawi.dart';
+import '../tafsir/tafsir_arabic_yaseer.dart';
+import '../tafsir/tafsir_arabic_siraj.dart';
+import '../tafsir/tafsir_arabic_nafahat.dart';
+import '../tafsir/tafsir_arabic_tabari.dart';
+import '../tafsir/tafsir_arabic_katheer.dart';
 import '../hadeeth/hadeeth_panel.dart';
 
 class QuranPanel extends StatefulWidget {
@@ -88,6 +96,14 @@ class _QuranPanelState extends State<QuranPanel> {
   static bool _tafsirNoorEnglish = false;
   static bool _tafsirYacobEnglish = false;
   static bool _tafsirIbnKathir = false;
+  static bool _tafsirSaadi = false;
+  static bool _tafsirMoyassar = false;
+  static bool _tafsirBaghawi = false;
+  static bool _tafsirYaseer = false;
+  static bool _tafsirSiraj = false;
+  static bool _tafsirNafahat = false;
+  static bool _tafsirTabari = false;
+  static bool _tafsirKatheer = false;
   static String _mokhtasarLanguage = 'English';
   static QuranVerseRef? _lastTafsirRef;
   static int? _lastTafsirIndex;
@@ -803,6 +819,94 @@ class _QuranPanelState extends State<QuranPanel> {
           });
         }
       }
+      if (_tafsirMoyassar) {
+        final text = getTafsirMoyassar(range.surah, ayah);
+        if (text != null && text.isNotEmpty) {
+          results.add({
+            'source': 'Moyassar',
+            'surah': range.surah,
+            'ayah': ayah,
+            'text': text
+          });
+        }
+      }
+      if (_tafsirSaadi) {
+        final text = getTafsirSaadi(range.surah, ayah);
+        if (text != null && text.isNotEmpty) {
+          results.add({
+            'source': 'Saadi',
+            'surah': range.surah,
+            'ayah': ayah,
+            'text': text
+          });
+        }
+      }
+      if (_tafsirYaseer) {
+        final text = getTafsirYaseer(range.surah, ayah);
+        if (text != null && text.isNotEmpty) {
+          results.add({
+            'source': 'Yaseer',
+            'surah': range.surah,
+            'ayah': ayah,
+            'text': text
+          });
+        }
+      }
+      if (_tafsirNafahat) {
+        final text = getTafsirNafahat(range.surah, ayah);
+        if (text != null && text.isNotEmpty) {
+          results.add({
+            'source': 'Nafahat',
+            'surah': range.surah,
+            'ayah': ayah,
+            'text': text
+          });
+        }
+      }
+      if (_tafsirSiraj) {
+        final text = getTafsirSiraj(range.surah, ayah);
+        if (text != null && text.isNotEmpty) {
+          results.add({
+            'source': 'Siraj',
+            'surah': range.surah,
+            'ayah': ayah,
+            'text': text
+          });
+        }
+      }
+      if (_tafsirBaghawi) {
+        final text = getTafsirBaghawi(range.surah, ayah);
+        if (text != null && text.isNotEmpty) {
+          results.add({
+            'source': 'Baghawi',
+            'surah': range.surah,
+            'ayah': ayah,
+            'text': text
+          });
+        }
+      }
+      if (_tafsirTabari) {
+        final text = getTafsirTabari(range.surah, ayah);
+        if (text != null && text.isNotEmpty) {
+          results.add({
+            'source': 'Tabari',
+            'surah': range.surah,
+            'ayah': ayah,
+            'text': text
+          });
+        }
+      }
+      if (_tafsirKatheer) {
+        final text = getTafsirKatheer(range.surah, ayah);
+        if (text != null && text.isNotEmpty) {
+          results.add({
+            'source': 'Katheer',
+            'surah': range.surah,
+            'ayah': ayah,
+            'text': text
+          });
+        }
+      }
     }
 
     setState(() => _tafsirResults = results);
@@ -873,6 +977,54 @@ class _QuranPanelState extends State<QuranPanel> {
           final text = getTafsirIbnKathirEnglish(surah, ayah);
           if (matches(text)) {
             results.add({'source': 'IbnKathir', 'surah': surah, 'ayah': ayah, 'text': text!});
+          }
+        }
+        if (_tafsirMoyassar) {
+          final text = getTafsirMoyassar(surah, ayah);
+          if (matches(text)) {
+            results.add({'source': 'Moyassar', 'surah': surah, 'ayah': ayah, 'text': text!});
+          }
+        }
+        if (_tafsirSaadi) {
+          final text = getTafsirSaadi(surah, ayah);
+          if (matches(text)) {
+            results.add({'source': 'Saadi', 'surah': surah, 'ayah': ayah, 'text': text!});
+          }
+        }
+        if (_tafsirYaseer) {
+          final text = getTafsirYaseer(surah, ayah);
+          if (matches(text)) {
+            results.add({'source': 'Yaseer', 'surah': surah, 'ayah': ayah, 'text': text!});
+          }
+        }
+        if (_tafsirNafahat) {
+          final text = getTafsirNafahat(surah, ayah);
+          if (matches(text)) {
+            results.add({'source': 'Nafahat', 'surah': surah, 'ayah': ayah, 'text': text!});
+          }
+        }
+        if (_tafsirSiraj) {
+          final text = getTafsirSiraj(surah, ayah);
+          if (matches(text)) {
+            results.add({'source': 'Siraj', 'surah': surah, 'ayah': ayah, 'text': text!});
+          }
+        }
+        if (_tafsirBaghawi) {
+          final text = getTafsirBaghawi(surah, ayah);
+          if (matches(text)) {
+            results.add({'source': 'Baghawi', 'surah': surah, 'ayah': ayah, 'text': text!});
+          }
+        }
+        if (_tafsirTabari) {
+          final text = getTafsirTabari(surah, ayah);
+          if (matches(text)) {
+            results.add({'source': 'Tabari', 'surah': surah, 'ayah': ayah, 'text': text!});
+          }
+        }
+        if (_tafsirKatheer) {
+          final text = getTafsirKatheer(surah, ayah);
+          if (matches(text)) {
+            results.add({'source': 'Katheer', 'surah': surah, 'ayah': ayah, 'text': text!});
           }
         }
       }
@@ -1719,21 +1871,86 @@ class _QuranPanelState extends State<QuranPanel> {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            // Mode toggle: Browse by reference vs. Search text
-            Row(
-              children: [
-                _modeChip('Browse', !_tafsirSearchMode, () {
-                  setState(() => _tafsirSearchMode = false);
-                  _tafsirRefFocusNode.requestFocus();
-                }),
-                const SizedBox(width: 6),
-                _modeChip('Search', _tafsirSearchMode, () {
-                  setState(() => _tafsirSearchMode = true);
-                  _tafsirSearchFocusNode.requestFocus();
-                }),
-              ],
-            ),
-            const SizedBox(height: 6),
+          // Mode toggle: Browse by reference vs. Search text
+          Row(
+            children: [
+              _modeChip('Browse', !_tafsirSearchMode, () {
+                setState(() => _tafsirSearchMode = false);
+                _tafsirRefFocusNode.requestFocus();
+              }),
+              const SizedBox(width: 6),
+              _modeChip('Search', _tafsirSearchMode, () {
+                setState(() => _tafsirSearchMode = true);
+                _tafsirSearchFocusNode.requestFocus();
+              }),
+              const SizedBox(width: 6),
+              GestureDetector(
+                              onTap: () {
+                                setState(() {
+                                  _tafsirResults = [];
+                                  _tafsirSearchResults = [];
+                                  _tafsirSearchController.clear();
+                                });
+                                if (_lastTafsirIndex != null) {
+                                  WidgetsBinding.instance.addPostFrameCallback((_) {
+                                    if (_itemScrollController.isAttached) {
+                                      _itemScrollController.scrollTo(
+                                        index: _lastTafsirIndex!,
+                                        duration: const Duration(milliseconds: 300),
+                                      );
+                                    }
+                                  });
+                                }
+                              },
+                              child: Container(
+                                padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 4),
+                                decoration: BoxDecoration(
+                                  color: Colors.deepOrange.withAlpha(30),
+                                  borderRadius: BorderRadius.circular(4),
+                                  border: Border.all(color: Colors.deepOrange.withAlpha(160)),
+                                ),
+                                child: const Text('Clear',
+                                    style: TextStyle(color: Colors.deepOrange, fontSize: 12)),
+                              ),
+                            ),
+                            const SizedBox(width: 10),
+                            const Text('Arabic:',
+                                style: TextStyle(color: Colors.white38, fontSize: 12)),
+                            const SizedBox(width: 6),
+                            _tafsirCheckbox('Moyassar', _tafsirMoyassar, (v) {
+                              setState(() => _tafsirMoyassar = v ?? false);
+                            }, Colors.pinkAccent),
+                            const SizedBox(width: 8),
+                            _tafsirCheckbox('Saadi', _tafsirSaadi, (v) {
+                              setState(() => _tafsirSaadi = v ?? false);
+                            }, Colors.amber),
+                            const SizedBox(width: 8),
+                            _tafsirCheckbox('Yaseer', _tafsirYaseer, (v) {
+                              setState(() => _tafsirYaseer = v ?? false);
+                            }, Colors.tealAccent),
+                            const SizedBox(width: 8),
+                            _tafsirCheckbox('Nafahat', _tafsirNafahat, (v) {
+                              setState(() => _tafsirNafahat = v ?? false);
+                            }, Colors.limeAccent),
+                            const SizedBox(width: 8),
+                            _tafsirCheckbox('Siraj', _tafsirSiraj, (v) {
+                              setState(() => _tafsirSiraj = v ?? false);
+                            }, Colors.indigoAccent),
+                            const SizedBox(width: 8),
+                            _tafsirCheckbox('Baghawi', _tafsirBaghawi, (v) {
+                              setState(() => _tafsirBaghawi = v ?? false);
+                            }, Colors.cyanAccent),
+                            const SizedBox(width: 8),
+                            _tafsirCheckbox('Tabari', _tafsirTabari, (v) {
+                              setState(() => _tafsirTabari = v ?? false);
+                            }, Colors.deepOrangeAccent),
+                            const SizedBox(width: 8),
+                            _tafsirCheckbox('Katheer', _tafsirKatheer, (v) {
+                              setState(() => _tafsirKatheer = v ?? false);
+                            }, Colors.yellowAccent),
+                          ],
+                        ),
+          const SizedBox(height: 6),
 
             SingleChildScrollView(
               scrollDirection: Axis.horizontal,
@@ -1806,31 +2023,6 @@ class _QuranPanelState extends State<QuranPanel> {
                         onSubmitted: (_) => _lookupTafsir(context),
                       ),
                     ),
-                  const SizedBox(width: 8),
-                  IconButton(
-                    icon: const Icon(Icons.clear_all,
-                        color: Colors.deepOrange, size: 18),
-                    tooltip: 'Clear tafsir',
-                    padding: EdgeInsets.zero,
-                    constraints: const BoxConstraints(),
-                    onPressed: () {
-                      setState(() {
-                        _tafsirResults = [];
-                        _tafsirSearchResults = [];
-                        _tafsirSearchController.clear();
-                      });
-                      if (_lastTafsirIndex != null) {
-                        WidgetsBinding.instance.addPostFrameCallback((_) {
-                          if (_itemScrollController.isAttached) {
-                            _itemScrollController.scrollTo(
-                              index: _lastTafsirIndex!,
-                              duration: const Duration(milliseconds: 300),
-                            );
-                          }
-                        });
-                      }
-                    },
-                  ),
                   const SizedBox(width: 8),
                   _tafsirCheckbox('Mokhtasar', _tafsirMokhtasar, (v) {
                     setState(() => _tafsirMokhtasar = v ?? false);
@@ -1988,14 +2180,30 @@ class _QuranPanelState extends State<QuranPanel> {
       final surah = r['surah'] as int;
       final ayah = r['ayah'] as int;
       final text = r['text'] as String;
-      final isRtl =
-          source == 'Mokhtasar Ar' || isMokhtasarRtl(_mokhtasarLanguage);
+      final isRtl = source == 'Mokhtasar Ar' ||
+          isMokhtasarRtl(_mokhtasarLanguage) ||
+          source == 'Saadi' ||
+          source == 'Moyassar' ||
+          source == 'Baghawi' ||
+          source == 'Yaseer' ||
+          source == 'Siraj' ||
+          source == 'Nafahat' ||
+          source == 'Tabari' ||
+          source == 'Katheer';
       final sourceColor = switch (source) {
         'Mokhtasar' => Colors.lightBlueAccent,
         'Rowwad' => Colors.orangeAccent,
         'Noor' => Colors.redAccent,
         'Yacob' => Colors.purpleAccent,
         'IbnKathir' => Colors.brown,
+        'Moyassar' => Colors.pinkAccent,
+        'Saadi' => Colors.amber,
+        'Yaseer' => Colors.tealAccent,
+        'Siraj' => Colors.indigoAccent,
+        'Nafahat' => Colors.limeAccent,
+        'Baghawi' => Colors.cyanAccent,
+        'Tabari' => Colors.deepOrangeAccent,
+        'Katheer' => Colors.yellowAccent,
         _ => Colors.greenAccent,
       };
       final ayahLabel = ayah == 0 ? '$surah:intro' : '$surah:$ayah';

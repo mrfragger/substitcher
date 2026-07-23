@@ -1,4 +1,4 @@
-import 'tafsir_mokhtasar.dart';
+import 'tafsir_mokhtasar_english.dart';
 import 'tafsir_mokhtasar_afar.dart';
 import 'tafsir_mokhtasar_akan.dart';
 import 'tafsir_mokhtasar_albanian.dart';
