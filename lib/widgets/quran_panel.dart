@@ -18,7 +18,6 @@ import '../tafsir/tafsir_arabic_baghawi.dart';
 import '../tafsir/tafsir_arabic_yaseer.dart';
 import '../tafsir/tafsir_arabic_siraj.dart';
 import '../tafsir/tafsir_arabic_nafahat.dart';
-import '../tafsir/tafsir_arabic_tabari.dart';
 import '../tafsir/tafsir_arabic_katheer.dart';
 import '../hadeeth/hadeeth_panel.dart';
 
@@ -102,7 +101,6 @@ class _QuranPanelState extends State<QuranPanel> {
   static bool _tafsirYaseer = false;
   static bool _tafsirSiraj = false;
   static bool _tafsirNafahat = false;
-  static bool _tafsirTabari = false;
   static bool _tafsirKatheer = false;
   static String _mokhtasarLanguage = 'English';
   static QuranVerseRef? _lastTafsirRef;
@@ -885,17 +883,6 @@ class _QuranPanelState extends State<QuranPanel> {
           });
         }
       }
-      if (_tafsirTabari) {
-        final text = getTafsirTabari(range.surah, ayah);
-        if (text != null && text.isNotEmpty) {
-          results.add({
-            'source': 'Tabari',
-            'surah': range.surah,
-            'ayah': ayah,
-            'text': text
-          });
-        }
-      }
       if (_tafsirKatheer) {
         final text = getTafsirKatheer(range.surah, ayah);
         if (text != null && text.isNotEmpty) {
@@ -1013,12 +1000,6 @@ class _QuranPanelState extends State<QuranPanel> {
           final text = getTafsirBaghawi(surah, ayah);
           if (matches(text)) {
             results.add({'source': 'Baghawi', 'surah': surah, 'ayah': ayah, 'text': text!});
-          }
-        }
-        if (_tafsirTabari) {
-          final text = getTafsirTabari(surah, ayah);
-          if (matches(text)) {
-            results.add({'source': 'Tabari', 'surah': surah, 'ayah': ayah, 'text': text!});
           }
         }
         if (_tafsirKatheer) {
@@ -1920,31 +1901,27 @@ class _QuranPanelState extends State<QuranPanel> {
                             _tafsirCheckbox('Moyassar', _tafsirMoyassar, (v) {
                               setState(() => _tafsirMoyassar = v ?? false);
                             }, Colors.pinkAccent),
-                            const SizedBox(width: 8),
+                            const SizedBox(width: 10),
                             _tafsirCheckbox('Saadi', _tafsirSaadi, (v) {
                               setState(() => _tafsirSaadi = v ?? false);
                             }, Colors.amber),
-                            const SizedBox(width: 8),
+                            const SizedBox(width: 10),
                             _tafsirCheckbox('Yaseer', _tafsirYaseer, (v) {
                               setState(() => _tafsirYaseer = v ?? false);
                             }, Colors.tealAccent),
-                            const SizedBox(width: 8),
+                            const SizedBox(width: 10),
                             _tafsirCheckbox('Nafahat', _tafsirNafahat, (v) {
                               setState(() => _tafsirNafahat = v ?? false);
                             }, Colors.limeAccent),
-                            const SizedBox(width: 8),
+                            const SizedBox(width: 10),
                             _tafsirCheckbox('Siraj', _tafsirSiraj, (v) {
                               setState(() => _tafsirSiraj = v ?? false);
                             }, Colors.indigoAccent),
-                            const SizedBox(width: 8),
+                            const SizedBox(width: 10),
                             _tafsirCheckbox('Baghawi', _tafsirBaghawi, (v) {
                               setState(() => _tafsirBaghawi = v ?? false);
-                            }, Colors.cyanAccent),
-                            const SizedBox(width: 8),
-                            _tafsirCheckbox('Tabari', _tafsirTabari, (v) {
-                              setState(() => _tafsirTabari = v ?? false);
-                            }, Colors.deepOrangeAccent),
-                            const SizedBox(width: 8),
+                            }, Colors.deepOrangeAccentAccent),
+                            const SizedBox(width: 10),
                             _tafsirCheckbox('Katheer', _tafsirKatheer, (v) {
                               setState(() => _tafsirKatheer = v ?? false);
                             }, Colors.yellowAccent),
@@ -2188,7 +2165,6 @@ class _QuranPanelState extends State<QuranPanel> {
           source == 'Yaseer' ||
           source == 'Siraj' ||
           source == 'Nafahat' ||
-          source == 'Tabari' ||
           source == 'Katheer';
       final sourceColor = switch (source) {
         'Mokhtasar' => Colors.lightBlueAccent,
@@ -2201,8 +2177,7 @@ class _QuranPanelState extends State<QuranPanel> {
         'Yaseer' => Colors.tealAccent,
         'Siraj' => Colors.indigoAccent,
         'Nafahat' => Colors.limeAccent,
-        'Baghawi' => Colors.cyanAccent,
-        'Tabari' => Colors.deepOrangeAccent,
+        'Baghawi' => Colors.deepOrangeAccentAccent,
         'Katheer' => Colors.yellowAccent,
         _ => Colors.greenAccent,
       };
