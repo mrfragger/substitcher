@@ -348,6 +348,10 @@ class _PlayerScreenState extends State<PlayerScreen>
   bool _autoConvertMissing = false;
   Set<String> _favoriteFonts = {};
 
+  String? _pendingCycleFont;
+  String? _pendingCycleConversionType;
+  bool _pendingCycleReady = false;
+
   Set<String> _favoriteColorPalettes = {};
   String _colorFilterMode = 'all';
   ColorPaletteFilter _colorFilter = ColorPaletteFilter.all;
@@ -4735,6 +4739,12 @@ class _PlayerScreenState extends State<PlayerScreen>
 
           if (_fontCycleActive) {
             _fontCycleCueCounter++;
+
+            if (_fontCycleInterval > 1 &&
+                _fontCycleCueCounter == _fontCycleInterval - 1) {
+              unawaited(_preloadNextCycleFont());
+            }
+
             if (_fontCycleCueCounter >= _fontCycleInterval) {
               _fontCycleCueCounter = 0;
               _navigateFonts(1, fromCycle: true);
@@ -4927,6 +4937,31 @@ class _PlayerScreenState extends State<PlayerScreen>
     } catch (e) {
       print('Error applying secondary conversion: $e');
     }
+  }
+
+  Future<void> _preloadNextCycleFont() async {
+    _pendingCycleReady = false;
+    final filteredFonts = _getFilteredFonts();
+    if (filteredFonts.isEmpty) return;
+
+    final nextIndex = (_selectedFontIndex + 1) % filteredFonts.length;
+    final nextFont = filteredFonts[nextIndex];
+
+    await CustomFontLoader.loadFonts();
+
+    String? conversionType;
+    if (_autoConvertAlternates && FontAlternatesData.hasFontAlternates(nextFont)) {
+      conversionType = 'alternates';
+    } else if (_autoConvertMissing) {
+      final metadata = FontDatabase.getMetadata(nextFont);
+      if (metadata != null && metadata.hasMissingLigatures()) {
+        conversionType = 'missing';
+      }
+    }
+
+    _pendingCycleFont = nextFont;
+    _pendingCycleConversionType = conversionType;
+    _pendingCycleReady = true;
   }
 
   double _calculateDynamicFontSize(String text, double baseFontSize) {
@@ -7262,19 +7297,27 @@ class _PlayerScreenState extends State<PlayerScreen>
     });
     _scrollToSelectedFont();
 
-    if (_autoConvertAlternates &&
-        FontAlternatesData.hasFontAlternates(_selectedFont)) {
-      setState(() {
-        _conversionType = 'alternates';
-      });
-      await _applyConversion();
-    } else if (_autoConvertMissing) {
-      final metadata = FontDatabase.getMetadata(_selectedFont);
-      if (metadata != null && metadata.hasMissingLigatures()) {
-        setState(() {
-          _conversionType = 'missing';
-        });
+    final usePending = fromCycle &&
+        _pendingCycleReady &&
+        _pendingCycleFont == _selectedFont;
+
+    if (usePending) {
+      if (_pendingCycleConversionType != null) {
+        setState(() => _conversionType = _pendingCycleConversionType!);
         await _applyConversion();
+      }
+      _pendingCycleReady = false;
+    } else {
+      if (_autoConvertAlternates &&
+          FontAlternatesData.hasFontAlternates(_selectedFont)) {
+        setState(() => _conversionType = 'alternates');
+        await _applyConversion();
+      } else if (_autoConvertMissing) {
+        final metadata = FontDatabase.getMetadata(_selectedFont);
+        if (metadata != null && metadata.hasMissingLigatures()) {
+          setState(() => _conversionType = 'missing');
+          await _applyConversion();
+        }
       }
     }
   }
@@ -10415,6 +10458,10 @@ class _PlayerScreenState extends State<PlayerScreen>
 
       setState(() {
         _subtitles = subtitles;
+        if (_currentSubtitleIndex != null &&
+            _currentSubtitleIndex! < _subtitles.length) {
+          _currentSubtitleText = _subtitles[_currentSubtitleIndex!].text;
+        }
       });
 
       _updateCurrentSubtitle();
