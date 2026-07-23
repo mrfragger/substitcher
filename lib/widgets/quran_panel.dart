@@ -1920,11 +1920,11 @@ class _QuranPanelState extends State<QuranPanel> {
                             const SizedBox(width: 10),
                             _tafsirCheckbox('Baghawi', _tafsirBaghawi, (v) {
                               setState(() => _tafsirBaghawi = v ?? false);
-                            }, Colors.deepOrangeAccentAccent),
+                            }, Colors.deepOrangeAccent),
                             const SizedBox(width: 10),
                             _tafsirCheckbox('Katheer', _tafsirKatheer, (v) {
                               setState(() => _tafsirKatheer = v ?? false);
-                            }, Colors.yellowAccent),
+                            }, Colors.brown),
                           ],
                         ),
           const SizedBox(height: 6),
@@ -2177,8 +2177,8 @@ class _QuranPanelState extends State<QuranPanel> {
         'Yaseer' => Colors.tealAccent,
         'Siraj' => Colors.indigoAccent,
         'Nafahat' => Colors.limeAccent,
-        'Baghawi' => Colors.deepOrangeAccentAccent,
-        'Katheer' => Colors.yellowAccent,
+        'Baghawi' => Colors.deepOrangeAccent,
+        'Katheer' => Colors.brown,
         _ => Colors.greenAccent,
       };
       final ayahLabel = ayah == 0 ? '$surah:intro' : '$surah:$ayah';
