@@ -229,7 +229,7 @@ class PlayerControls extends StatelessWidget {
                         style: const TextStyle(color: Colors.white70, fontSize: 14),
                         children: [
                           TextSpan(text: fileName),
-                          if (!isYouTubeStream && currentChapter != null)
+                          if (currentChapter != null)
                             TextSpan(
                               text: ' -${_formatChapterRemaining(chapterRemaining)}',
                               style: const TextStyle(color: Colors.white54),
@@ -240,7 +240,7 @@ class PlayerControls extends StatelessWidget {
                   ),
                 ],
               ),
-              if (!isYouTubeStream && currentChapter != null)
+              if (currentChapter != null)
                 Row(
                   children: [
                     Flexible(
@@ -440,6 +440,7 @@ class PlayerControls extends StatelessWidget {
                                   painter: ProgressBarPainter(
                                     currentPosition: currentPosition,
                                     totalDuration: totalDuration,
+                                    chapters: audiobook.chapters,
                                   ),
                                   size: Size(sliderWidth, 32),
                                 ),
@@ -857,9 +858,6 @@ class PlayerControls extends StatelessWidget {
         ),
 
         if (!isYouTubeStream)
-          const SizedBox(width: 8),
-
-        if (!isYouTubeStream)
           MouseRegion(
             onEnter: (_) => onNextChapterHover(true),
             onExit: (_) => onNextChapterHover(false),
@@ -924,9 +922,6 @@ class PlayerControls extends StatelessWidget {
             iconSize: 24,
             tooltip: shuffleEnabled ? 'Shuffle ${playedChapters.length}/${audiobook.chapters.length}' : 'Shuffle off',
           ),
-
-        if (!isYouTubeStream)
-          const SizedBox(width: 8),
 
         if (!isYouTubeStream)
           PopupMenuButton<void>(
@@ -1053,9 +1048,6 @@ class PlayerControls extends StatelessWidget {
               iconSize: 24,
             ),
           ),
-
-        if (!isYouTubeStream)
-          const SizedBox(width: 8),
 
         if (!isYouTubeStream)
           Tooltip(
@@ -1303,10 +1295,12 @@ String _getPauseModeText(PauseMode mode) {
 class ProgressBarPainter extends CustomPainter {
   final Duration currentPosition;
   final Duration totalDuration;
+  final List<Chapter> chapters;
 
   ProgressBarPainter({
     required this.currentPosition,
     required this.totalDuration,
+    this.chapters = const [],
   });
 
   @override
@@ -1333,6 +1327,20 @@ class ProgressBarPainter extends CustomPainter {
       Rect.fromLTWH(0, yOffset, progress, barHeight),
       progressPaint,
     );
+
+    if (chapters.length > 1 && chapters.length <= 400) {
+      final markerPaint = Paint()
+        ..color = Colors.pink.shade200
+        ..style = PaintingStyle.fill;
+      for (final chapter in chapters) {
+        if (chapter.startTime.inMilliseconds <= 0) continue;
+        final x = (chapter.startTime.inMilliseconds / totalMillis) * size.width;
+        canvas.drawRect(
+          Rect.fromLTWH(x - 0.5, yOffset, 1, barHeight),
+          markerPaint,
+        );
+      }
+    }
   }
 
   @override

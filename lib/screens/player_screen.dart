@@ -1178,6 +1178,7 @@ class _PlayerScreenState extends State<PlayerScreen>
             return;
           }
           setState(() => _currentChapterIndex = nextIndex);
+          print('YT chapter advanced to $nextIndex: ${_currentAudiobook!.chapters[nextIndex].title}');
           if (_showPanel && _panelMode == PanelMode.chapters)
             _scrollToCurrentChapter();
         }
@@ -2372,29 +2373,32 @@ class _PlayerScreenState extends State<PlayerScreen>
   }
 
   Future<void> _saveToHistory() async {
-    if (_currentAudiobook == null || _isYouTubeStream) return;
+    if (_currentAudiobook == null) return;
 
     _history.removeWhere((h) => h.audiobookPath == _currentAudiobook!.path);
 
     final chapterTitle = _currentAudiobook!.chapters.isEmpty
-        ? 'No chapters'
+        ? (_isYouTubeStream ? 'YouTube Stream' : 'No chapters')
         : _currentAudiobook!.chapters[_currentChapterIndex].title;
 
     final chapterIndex =
         _currentAudiobook!.chapters.isEmpty ? 0 : _currentChapterIndex;
 
     _history.insert(
-        0,
-        HistoryItem(
-          audiobookPath: _currentAudiobook!.path,
-          audiobookTitle: _currentAudiobook!.title,
-          chapterTitle: chapterTitle,
-          lastChapter: chapterIndex,
-          lastPosition: _currentPosition,
-          lastPlayed: DateTime.now(),
-          shuffleEnabled: _shuffleEnabled,
-          playedChapters: _playedChapters,
-        ));
+      0,
+      HistoryItem(
+        audiobookPath: _currentAudiobook!.path,
+        audiobookTitle: _currentAudiobook!.title,
+        chapterTitle: chapterTitle,
+        lastChapter: chapterIndex,
+        lastPosition: _currentPosition,
+        lastPlayed: DateTime.now(),
+        shuffleEnabled: _shuffleEnabled,
+        playedChapters: _playedChapters,
+        isYouTube: _isYouTubeStream,
+      ),
+    );
+
     if (_history.length > 99) {
       _history = _history.sublist(0, 99);
     }
@@ -6401,6 +6405,25 @@ class _PlayerScreenState extends State<PlayerScreen>
         selectedPath = result.files.first.path!;
       }
 
+      if (YouTubeService.isSupportedUrl(selectedPath!)) {
+        final historyItem = _history.firstWhere(
+          (h) => h.audiobookPath == selectedPath,
+          orElse: () => HistoryItem(
+            audiobookPath: selectedPath!,
+            audiobookTitle: 'YouTube Stream',
+            chapterTitle: 'YouTube Stream',
+            lastChapter: 0,
+            lastPosition: Duration.zero,
+            lastPlayed: DateTime.now(),
+            shuffleEnabled: false,
+            playedChapters: [],
+            isYouTube: true,
+          ),
+        );
+        await _handleYouTubeUrl(selectedPath, resumePosition: historyItem.lastPosition);
+        return;
+      }
+
       if (!await File(selectedPath).exists()) {
         print('File no longer exists: $selectedPath');
 
@@ -9418,7 +9441,7 @@ class _PlayerScreenState extends State<PlayerScreen>
                 ),
             youtubePlaylistCurrentIndex: _youtubePlaylistCurrentIndex,
             youtubePlaylistTotal: _youtubePlaylistTotal,
-            currentChapterIndex: _isYouTubeStream ? 0 : _currentChapterIndex,
+            currentChapterIndex: _currentChapterIndex,
             currentPosition: _currentPosition,
             totalDuration: _totalDuration,
             isPlaying: _isPlaying,
@@ -9698,7 +9721,7 @@ class _PlayerScreenState extends State<PlayerScreen>
           ),
       youtubePlaylistCurrentIndex: _youtubePlaylistCurrentIndex,
       youtubePlaylistTotal: _youtubePlaylistTotal,
-      currentChapterIndex: _isYouTubeStream ? 0 : _currentChapterIndex,
+      currentChapterIndex: _currentChapterIndex,
       currentPosition: _currentPosition,
       totalDuration: _totalDuration,
       isPlaying: _isPlaying,
@@ -11551,243 +11574,263 @@ class _PlayerScreenState extends State<PlayerScreen>
   }
 
   Future<void> _handleYouTubeUrl(String url,
-      {int? playlistIndex, int? playlistTotal}) async {
-    if (!YouTubeService.isSupportedUrl(url)) return;
+      {int? playlistIndex, int? playlistTotal, Duration? resumePosition}) async {
+      if (!YouTubeService.isSupportedUrl(url)) return;
 
-    final isLive = await YouTubeService.isActiveLiveStream(url);
+      final isLive = await YouTubeService.isActiveLiveStream(url);
 
-    if (isLive && mounted) {
-      final shouldContinue = await showDialog<bool>(
-        context: context,
-        builder: (context) => AlertDialog(
-          backgroundColor: const Color(0xFF2D2D2D),
-          title: const Text('Active Live Stream',
-              style: TextStyle(color: Colors.white)),
-          content: const Text(
-            'This is currently a live stream. Live streams don\'t have subtitles yet.\n\n'
-            'You can stream without subtitles now, or wait until the stream finishes to download with subtitles.',
-            style: TextStyle(color: Colors.white70),
-          ),
-          actions: [
-            TextButton(
-              onPressed: () => Navigator.pop(context, false),
-              child:
-                  const Text('Cancel', style: TextStyle(color: Colors.white54)),
+      if (isLive && mounted) {
+        final shouldContinue = await showDialog<bool>(
+          context: context,
+          builder: (context) => AlertDialog(
+            backgroundColor: const Color(0xFF2D2D2D),
+            title: const Text('Active Live Stream',
+                style: TextStyle(color: Colors.white)),
+            content: const Text(
+              'This is currently a live stream. Live streams don\'t have subtitles yet.\n\n'
+              'You can stream without subtitles now, or wait until the stream finishes to download with subtitles.',
+              style: TextStyle(color: Colors.white70),
             ),
-            ElevatedButton(
-              onPressed: () => Navigator.pop(context, true),
-              style: ElevatedButton.styleFrom(
-                backgroundColor: Colors.deepPurple,
+            actions: [
+              TextButton(
+                onPressed: () => Navigator.pop(context, false),
+                child:
+                    const Text('Cancel', style: TextStyle(color: Colors.white54)),
               ),
-              child: const Text('Stream Without Subs'),
-            ),
-          ],
-        ),
-      );
+              ElevatedButton(
+                onPressed: () => Navigator.pop(context, true),
+                style: ElevatedButton.styleFrom(
+                  backgroundColor: Colors.deepPurple,
+                ),
+                child: const Text('Stream Without Subs'),
+              ),
+            ],
+          ),
+        );
 
-      if (shouldContinue != true) {
-        return;
+        if (shouldContinue != true) {
+          return;
+        }
       }
-    }
 
-    setState(() {
-      _isLoadingYouTube = true;
-      _currentYouTubeUrl = url;
-    });
+      setState(() {
+        _isLoadingYouTube = true;
+        _currentYouTubeUrl = url;
+      });
 
-    try {
-      final ytSubDir =
-          path.join(Directory.systemTemp.path, 'substitcher_yt_subs');
-      if (await Directory(ytSubDir).exists()) {
-        await Directory(ytSubDir).delete(recursive: true);
-        await Directory(ytSubDir).create();
+      try {
+        final ytSubDir =
+            path.join(Directory.systemTemp.path, 'substitcher_yt_subs');
+        if (await Directory(ytSubDir).exists()) {
+          await Directory(ytSubDir).delete(recursive: true);
+          await Directory(ytSubDir).create();
+        }
+      } catch (e) {
+        print('Error clearing subtitle temp dir: $e');
       }
-    } catch (e) {
-      print('Error clearing subtitle temp dir: $e');
-    }
 
-    try {
-      if (!await YouTubeService.isYtdlpAvailable()) {
+      try {
+        if (!await YouTubeService.isYtdlpAvailable()) {
+          if (mounted) {
+            ScaffoldMessenger.of(context).showSnackBar(
+              const SnackBar(
+                content:
+                    Text('yt-dlp not found. Install with: brew install yt-dlp'),
+                backgroundColor: Colors.red,
+                duration: Duration(seconds: 5),
+              ),
+            );
+          }
+          setState(() {
+            _isLoadingYouTube = false;
+          });
+          return;
+        }
+
+        final title = await YouTubeService.getVideoTitle(url);
+        final channelName = await YouTubeService.getChannelName(url);
+        final chapters = await YouTubeService.getVideoChapters(url);
+
         if (mounted) {
           ScaffoldMessenger.of(context).showSnackBar(
-            const SnackBar(
-              content:
-                  Text('yt-dlp not found. Install with: brew install yt-dlp'),
-              backgroundColor: Colors.red,
-              duration: Duration(seconds: 5),
+            SnackBar(
+              content: Text('Loading: $title'),
+              duration: const Duration(seconds: 2),
             ),
           );
         }
+
+        final audioUrl = await YouTubeService.getAudioStreamUrl(url,
+            formatId:
+                'worstaudio[format_note*=DRC]/worstaudio[acodec=opus]/worstaudio');
+
+        if (audioUrl == null) {
+          throw Exception('Could not get audio stream URL');
+        }
+
+        if (_currentAudiobook != null &&
+            _currentAudiobook!.chapters.isNotEmpty &&
+            _currentChapterIndex < _currentAudiobook!.chapters.length) {
+          final currentChapter =
+              _currentAudiobook!.chapters[_currentChapterIndex];
+          _statsManager.recordChapterEnd(
+            path.basenameWithoutExtension(_currentAudiobook!.path),
+            currentChapter.title,
+            false,
+          );
+          await _statsManager.flushCacheToLog();
+        }
+
+        await player.stop();
+
+        List<Chapter> youtubeChapters = [];
+        if (chapters != null && chapters.isNotEmpty) {
+          for (int i = 0; i < chapters.length; i++) {
+            final chapterData = chapters[i];
+            final startTime =
+                Duration(seconds: (chapterData['start_time'] as num).toInt());
+
+            Duration endTime;
+            if (i < chapters.length - 1) {
+              endTime = Duration(
+                  seconds: (chapters[i + 1]['start_time'] as num).toInt());
+            } else {
+              endTime = const Duration(hours: 24);
+            }
+
+            youtubeChapters.add(Chapter(
+              index: i,
+              title: chapterData['title'] as String? ?? 'Chapter ${i + 1}',
+              startTime: startTime,
+              endTime: endTime,
+              duration: endTime - startTime,
+            ));
+          }
+        }
+
+        setState(() {
+          _currentAudiobook = AudiobookMetadata(
+            path: url,
+            title: title,
+            author: channelName ?? 'Unknown',
+            year: '',
+            duration: Duration.zero,
+            chapters: youtubeChapters,
+          );
+          _currentChapterIndex = 0;
+          _isYouTubeStream = true;
+          _youtubeTitle = title;
+          _youtubeChannelName = channelName;
+          _currentAudioFormat = 'lowest bitrate';
+          _subtitles = [];
+          _originalSubtitles = [];
+          _currentSubtitleText = '';
+          _currentSubtitleIndex = null;
+          _subtitleFilePath = null;
+          _primarySubtitlePath = null;
+          _secondarySubtitlePath = null;
+          _secondarySubtitleFilePath = null;
+          _secondarySubtitles = [];
+          _secondaryOriginalSubtitles = [];
+          _secondarySubtitleText = '';
+          _currentSecondarySubtitleIndex = null;
+          _selectedFont = _defaultFont;
+          _conversionType = _defaultConversionType;
+          if (_defaultColorPalette != null) {
+            final palette = ColorPalette.presets.firstWhere(
+              (p) => p.name == _defaultColorPalette,
+              orElse: () => ColorPalette.presets.first,
+            );
+            _currentColorPalette = palette;
+            _selectedColorIndex = ColorPalette.presets.indexOf(palette);
+          }
+        });
+
+        await player.open(Media(audioUrl), play: false);
+        await player.setRate(_playbackSpeed);
+
+        Duration? loadedDuration;
+        try {
+          loadedDuration = await player.stream.duration
+              .firstWhere((d) => d > Duration.zero)
+              .timeout(const Duration(seconds: 30));
+        } catch (e) {
+          print('Timed out waiting for YouTube stream duration: $e');
+          loadedDuration = null;
+        }
+
+        if (loadedDuration != null && loadedDuration > Duration.zero) {
+          if (_totalDuration != loadedDuration && mounted) {
+            setState(() {
+              _totalDuration = loadedDuration!;
+            });
+          }
+
+          if (youtubeChapters.isNotEmpty) {
+            final lastChapter = youtubeChapters.last;
+            youtubeChapters[youtubeChapters.length - 1] = Chapter(
+              index: lastChapter.index,
+              title: lastChapter.title,
+              startTime: lastChapter.startTime,
+              endTime: loadedDuration,
+              duration: loadedDuration - lastChapter.startTime,
+            );
+            setState(() {
+              _currentAudiobook = AudiobookMetadata(
+                path: url,
+                title: title,
+                author: channelName ?? 'Unknown',
+                year: '',
+                duration: loadedDuration!,
+                chapters: youtubeChapters,
+              );
+            });
+          }
+
+          if (resumePosition != null && resumePosition.inSeconds > 0) {
+            await player.seek(resumePosition);
+            await Future.delayed(const Duration(milliseconds: 50));
+          }
+        }
+
+        setState(() {
+          _isPlaying = true;
+        });
+
+        await player.play();
+
+        _updateWakelock();
+
+        _downloadYouTubeSubtitles(url, title);
+
+        if (mounted) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            SnackBar(
+              content: Text(
+                  'Now playing: $title${youtubeChapters.isNotEmpty ? ' (${youtubeChapters.length} chapters)' : ''}'),
+              backgroundColor: Colors.green,
+              duration: const Duration(seconds: 3),
+            ),
+          );
+        }
+      } catch (e, stackTrace) {
+        print('Error loading YouTube audio: $e');
+        print('Stack trace: $stackTrace');
+        if (mounted) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            SnackBar(
+              content: Text('Failed to load YouTube audio: $e'),
+              backgroundColor: Colors.red,
+              duration: const Duration(seconds: 5),
+            ),
+          );
+        }
+      } finally {
         setState(() {
           _isLoadingYouTube = false;
         });
-        return;
       }
-
-      final title = await YouTubeService.getVideoTitle(url);
-      final channelName = await YouTubeService.getChannelName(url);
-      final chapters = await YouTubeService.getVideoChapters(url);
-
-      if (mounted) {
-        ScaffoldMessenger.of(context).showSnackBar(
-          SnackBar(
-            content: Text('Loading: $title'),
-            duration: const Duration(seconds: 2),
-          ),
-        );
-      }
-
-      final audioUrl = await YouTubeService.getAudioStreamUrl(url,
-          formatId:
-              'worstaudio[format_note*=DRC]/worstaudio[acodec=opus]/worstaudio');
-
-      if (audioUrl == null) {
-        throw Exception('Could not get audio stream URL');
-      }
-
-      if (_currentAudiobook != null &&
-          _currentAudiobook!.chapters.isNotEmpty &&
-          _currentChapterIndex < _currentAudiobook!.chapters.length) {
-        final currentChapter =
-            _currentAudiobook!.chapters[_currentChapterIndex];
-        _statsManager.recordChapterEnd(
-          path.basenameWithoutExtension(_currentAudiobook!.path),
-          currentChapter.title,
-          false,
-        );
-        await _statsManager.flushCacheToLog();
-      }
-
-      await player.stop();
-
-      List<Chapter> youtubeChapters = [];
-      if (chapters != null && chapters.isNotEmpty) {
-        for (int i = 0; i < chapters.length; i++) {
-          final chapterData = chapters[i];
-          final startTime =
-              Duration(seconds: (chapterData['start_time'] as num).toInt());
-
-          Duration endTime;
-          if (i < chapters.length - 1) {
-            endTime = Duration(
-                seconds: (chapters[i + 1]['start_time'] as num).toInt());
-          } else {
-            endTime = const Duration(hours: 24);
-          }
-
-          youtubeChapters.add(Chapter(
-            index: i,
-            title: chapterData['title'] as String? ?? 'Chapter ${i + 1}',
-            startTime: startTime,
-            endTime: endTime,
-            duration: endTime - startTime,
-          ));
-        }
-      }
-
-      setState(() {
-        _currentAudiobook = AudiobookMetadata(
-          path: url,
-          title: title,
-          author: channelName ?? 'Unknown',
-          year: '',
-          duration: Duration.zero,
-          chapters: youtubeChapters,
-        );
-        _currentChapterIndex = 0;
-        _isYouTubeStream = true;
-        _youtubeTitle = title;
-        _youtubeChannelName = channelName;
-        _currentAudioFormat = 'lowest bitrate';
-        _subtitles = [];
-        _originalSubtitles = [];
-        _currentSubtitleText = '';
-        _currentSubtitleIndex = null;
-        _subtitleFilePath = null;
-        _primarySubtitlePath = null;
-        _secondarySubtitlePath = null;
-        _secondarySubtitleFilePath = null;
-        _secondarySubtitles = [];
-        _secondaryOriginalSubtitles = [];
-        _secondarySubtitleText = '';
-        _currentSecondarySubtitleIndex = null;
-        _selectedFont = _defaultFont;
-        _conversionType = _defaultConversionType;
-        if (_defaultColorPalette != null) {
-          final palette = ColorPalette.presets.firstWhere(
-            (p) => p.name == _defaultColorPalette,
-            orElse: () => ColorPalette.presets.first,
-          );
-          _currentColorPalette = palette;
-          _selectedColorIndex = ColorPalette.presets.indexOf(palette);
-        }
-      });
-
-      await player.open(Media(audioUrl));
-      await player.setRate(_playbackSpeed);
-
-      if (youtubeChapters.isNotEmpty) {
-        await player.stream.duration.first;
-        if (_totalDuration > Duration.zero) {
-          final lastChapter = youtubeChapters.last;
-          youtubeChapters[youtubeChapters.length - 1] = Chapter(
-            index: lastChapter.index,
-            title: lastChapter.title,
-            startTime: lastChapter.startTime,
-            endTime: _totalDuration,
-            duration: _totalDuration - lastChapter.startTime,
-          );
-          setState(() {
-            _currentAudiobook = AudiobookMetadata(
-              path: url,
-              title: title,
-              author: channelName ?? 'Unknown',
-              year: '',
-              duration: _totalDuration,
-              chapters: youtubeChapters,
-            );
-          });
-        }
-      }
-
-      setState(() {
-        _isPlaying = true;
-      });
-
-      await player.play();
-
-      _updateWakelock();
-
-      _downloadYouTubeSubtitles(url, title);
-
-      if (mounted) {
-        ScaffoldMessenger.of(context).showSnackBar(
-          SnackBar(
-            content: Text(
-                'Now playing: $title${youtubeChapters.isNotEmpty ? ' (${youtubeChapters.length} chapters)' : ''}'),
-            backgroundColor: Colors.green,
-            duration: const Duration(seconds: 3),
-          ),
-        );
-      }
-    } catch (e, stackTrace) {
-      print('Error loading YouTube audio: $e');
-      print('Stack trace: $stackTrace');
-      if (mounted) {
-        ScaffoldMessenger.of(context).showSnackBar(
-          SnackBar(
-            content: Text('Failed to load YouTube audio: $e'),
-            backgroundColor: Colors.red,
-            duration: const Duration(seconds: 5),
-          ),
-        );
-      }
-    } finally {
-      setState(() {
-        _isLoadingYouTube = false;
-      });
     }
-  }
 
   Future<void> _loadSubtitlePreferences() async {
     final prefs = await SubtitlePreferences.load();

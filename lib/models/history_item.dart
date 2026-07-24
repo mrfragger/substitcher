@@ -7,6 +7,7 @@ class HistoryItem {
   final DateTime lastPlayed;
   final bool shuffleEnabled;
   final List<int> playedChapters;
+  final bool isYouTube;
 
   HistoryItem({
     required this.audiobookPath,
@@ -17,6 +18,7 @@ class HistoryItem {
     required this.lastPlayed,
     required this.shuffleEnabled,
     required this.playedChapters,
+    this.isYouTube = false,
   });
 
   Map<String, dynamic> toJson() {
@@ -29,6 +31,7 @@ class HistoryItem {
       'lastPlayed': lastPlayed.toIso8601String(),
       'shuffleEnabled': shuffleEnabled,
       'playedChapters': playedChapters,
+      'isYouTube': isYouTube,
     };
   }
 
@@ -41,7 +44,9 @@ class HistoryItem {
       lastPosition: Duration(milliseconds: json['lastPosition'] as int),
       lastPlayed: DateTime.parse(json['lastPlayed'] as String),
       shuffleEnabled: json['shuffleEnabled'] as bool? ?? false,
-      playedChapters: (json['playedChapters'] as List<dynamic>?)?.cast<int>() ?? [],
+      playedChapters:
+          (json['playedChapters'] as List<dynamic>?)?.cast<int>() ?? [],
+      isYouTube: json['isYouTube'] as bool? ?? false,
     );
   }
 }
