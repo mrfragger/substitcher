@@ -23,6 +23,7 @@ class FontDatabase {
     'Catwalzhari': FontMetadata(fontName: 'Catwalzhari', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
     'Ceria Lebaran': FontMetadata(fontName: 'Ceria Lebaran', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
     'Chicle': FontMetadata(fontName: 'Chicle', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
+    'Chrisye': FontMetadata(fontName: 'Chrisye', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
     'Cimbrian': FontMetadata(fontName: 'Cimbrian', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
     'Cofenauts': FontMetadata(fontName: 'Cofenauts', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
     'Devinne Swash': FontMetadata(fontName: 'Devinne Swash', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),

@@ -276,6 +276,50 @@ class YouTubeService {
     }
   }
 
+  static Future<Map<String, String>?> getVideoInfo(String youtubeUrl) async {
+    if (_ytdlpPath == null && !await isYtdlpAvailable()) {
+      return null;
+    }
+
+    try {
+      final result = await Process.run(_ytdlpPath!, [
+        '--dump-json',
+        '--no-playlist',
+        youtubeUrl,
+      ]);
+
+      if (result.exitCode != 0) {
+        return null;
+      }
+
+      final data = jsonDecode(result.stdout.toString()) as Map<String, dynamic>;
+
+      final title = data['title']?.toString() ?? 'YouTube Audio';
+      final channel =
+          data['channel']?.toString() ?? data['uploader']?.toString() ?? '';
+
+      String duration = '';
+      final rawDuration = data['duration'];
+      if (rawDuration != null) {
+        final totalSeconds = (rawDuration as num).toInt();
+        final h = totalSeconds ~/ 3600;
+        final m = (totalSeconds % 3600) ~/ 60;
+        final s = totalSeconds % 60;
+        if (h > 0) {
+          duration =
+              '$h:${m.toString().padLeft(2, '0')}:${s.toString().padLeft(2, '0')}';
+        } else {
+          duration = '$m:${s.toString().padLeft(2, '0')}';
+        }
+      }
+
+      return {'title': title, 'channel': channel, 'duration': duration};
+    } catch (e) {
+      print('Error getting video info: $e');
+      return null;
+    }
+  }
+
   static Future<String?> _findWorkingCookieArg(String youtubeUrl) async {
     final browsers = ['firefox'];
 
