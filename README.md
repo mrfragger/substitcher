@@ -198,13 +198,15 @@ only 1-9, basic latin and ligatures
 ![](images/chapters.jpg)
 
 ### History
+- 200 max history items
 - shows audiobook title with chapter title and time position
-- duration of audiobook
+- duration of audiobook and days ago
 - percent progress of total timeline position
 - timeline position of where it'll resume
 - press h 1-9 to quickly open history entries
 - sorted by most recent
 - only shows most recent chapter with a particular audiobook
+- youtube streams also show
 
 ![](images/history.jpg)
 
@@ -333,7 +335,7 @@ try Pause mode 2s, Hide Chapter Title, Shuffle
 ![](images/translatevtt.jpg)
 
 ### Youtube
-- handles videos or audio to stream (ignored for History, Stats), disabled on android/iOS
+- handles videos or audio to stream (ignored for Stats), disabled on android/iOS
 - stream playlists too but must select each item, no skip to next playlist item
 - download video or audio and playlists with option to resume includes soundcloud and spreaker
 - displays subs automatically if avaiable based on default language which can be set

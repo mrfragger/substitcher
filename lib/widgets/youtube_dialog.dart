@@ -166,19 +166,19 @@ Future<Map<String, dynamic>?> showYouTubeDialog(BuildContext context) async {
                         'YouTube Audio',
                         style: TextStyle(
                           color: Colors.white,
-                          fontSize: 28,
+                          fontSize: 20,
                           fontWeight: FontWeight.bold,
                         ),
                       ),
                     ],
                   ),
-                  const SizedBox(height: 24),
+                  const SizedBox(height: 8),
                   const Text(
                     'Paste a YouTube URL or playlist to stream audio only\nSubtitles will be downloaded automatically if available',
-                    style: TextStyle(color: Colors.white70, fontSize: 16),
+                    style: TextStyle(color: Colors.white70, fontSize: 12),
                     textAlign: TextAlign.center,
                   ),
-                  const SizedBox(height: 32),
+                  const SizedBox(height: 10),
 
                   // URL input
                   TextField(
@@ -244,7 +244,7 @@ Future<Map<String, dynamic>?> showYouTubeDialog(BuildContext context) async {
                       ),
                       contentPadding: const EdgeInsets.symmetric(
                         horizontal: 20,
-                        vertical: 16,
+                        vertical: 12,
                       ),
                     ),
                     onChanged: (value) {

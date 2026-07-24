@@ -951,29 +951,33 @@ class SidePanel extends StatelessWidget {
                             const TextStyle(fontSize: 10, color: Colors.white),
                       ),
                     ),
-              title: RichText(
-                text: TextSpan(
-                  style: const TextStyle(color: Colors.white, fontSize: 14),
-                  children: [
-                    TextSpan(text: item.audiobookTitle),
-                    if (snapshot.hasData) ...[
-                      TextSpan(
-                        text: ' \u200E${snapshot.data!['duration']}',
-                        style: const TextStyle(color: Colors.lightBlue),
+                    title: RichText(
+                      text: TextSpan(
+                        style: const TextStyle(color: Colors.white, fontSize: 14),
+                        children: [
+                          TextSpan(text: item.audiobookTitle),
+                          if (snapshot.hasData) ...[
+                            TextSpan(
+                              text: ' \u200E${snapshot.data!['duration']}',
+                              style: const TextStyle(color: Colors.lightBlue),
+                            ),
+                            if (snapshot.data!['progress'] != null &&
+                                snapshot.data!['progress'].toString().isNotEmpty &&
+                                _parseProgress(
+                                        snapshot.data!['progress'].toString()) >
+                                    0.9)
+                              TextSpan(
+                                text: ' \u200E${snapshot.data!['progress']}',
+                                style: TextStyle(color: Colors.purple[200]),
+                              ),
+                          ],
+                          TextSpan(
+                            text: ' \u200E${_daysAgoLabel(item.lastPlayed)}',
+                            style: const TextStyle(color: Colors.white38),
+                          ),
+                        ],
                       ),
-                      if (snapshot.data!['progress'] != null &&
-                          snapshot.data!['progress'].toString().isNotEmpty &&
-                          _parseProgress(
-                                  snapshot.data!['progress'].toString()) >
-                              0.9)
-                        TextSpan(
-                          text: ' \u200E${snapshot.data!['progress']}',
-                          style: TextStyle(color: Colors.purple[200]),
-                        ),
-                    ],
-                  ],
-                ),
-              ),
+                    ),
               subtitle: Text(
                 '$ltr${item.chapterTitle} • ${_formatDuration(item.lastPosition)}',
                 style: const TextStyle(color: Colors.white54, fontSize: 12),
@@ -988,6 +992,18 @@ class SidePanel extends StatelessWidget {
         );
       },
     );
+  }
+
+  String _daysAgoLabel(DateTime lastPlayed) {
+    final now = DateTime.now();
+    final today = DateTime(now.year, now.month, now.day);
+    final playedDay =
+        DateTime(lastPlayed.year, lastPlayed.month, lastPlayed.day);
+    final days = today.difference(playedDay).inDays;
+
+    if (days <= 0) return 'today';
+    if (days == 1) return 'yesterday';
+    return '-${days}d';
   }
 
   Widget _buildPlaylistList(BuildContext context) {
