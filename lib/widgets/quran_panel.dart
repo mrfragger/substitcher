@@ -1613,11 +1613,32 @@ class _QuranPanelState extends State<QuranPanel> {
                                         isRtlQuranLanguage(widget.selectedLanguage)
                                             ? TextDirection.rtl
                                             : TextDirection.ltr,
-                                    child: Text(entry.topic,
-                                        style: const TextStyle(
-                                            color: Colors.white38,
-                                            fontSize: 13,
-                                            fontStyle: FontStyle.italic)),
+                                    child: Text.rich(
+                                      TextSpan(
+                                        children: _searchQuery.isNotEmpty
+                                            ? _highlightQuery(
+                                                [
+                                                  TextSpan(
+                                                    text: entry.topic,
+                                                    style: const TextStyle(
+                                                        color: Colors.white38,
+                                                        fontSize: 13,
+                                                        fontStyle: FontStyle.italic),
+                                                  ),
+                                                ],
+                                                _searchQuery,
+                                              )
+                                            : [
+                                                TextSpan(
+                                                  text: entry.topic,
+                                                  style: const TextStyle(
+                                                      color: Colors.white38,
+                                                      fontSize: 13,
+                                                      fontStyle: FontStyle.italic),
+                                                ),
+                                              ],
+                                      ),
+                                    ),
                                   ),
                                 );
                               }
@@ -1687,20 +1708,48 @@ class _QuranPanelState extends State<QuranPanel> {
                                                       widget.selectedLanguage)
                                                   ? TextDirection.rtl
                                                   : TextDirection.ltr,
-                                              child: Text(
-                                                entry.topic,
-                                                style: TextStyle(
-                                                  color: hasActiveRef
-                                                      ? Colors.purple[200]
-                                                      : entry.isSubtopic
-                                                          ? Colors.white70
-                                                          : Colors.white,
-                                                  fontSize: entry.isSubtopic ? 13 : 14,
-                                                  fontWeight: hasActiveRef
-                                                      ? FontWeight.bold
-                                                      : entry.isSubtopic
-                                                          ? FontWeight.normal
-                                                          : FontWeight.w600,
+                                              child: Text.rich(
+                                                TextSpan(
+                                                  children: _searchQuery.isNotEmpty
+                                                      ? _highlightQuery(
+                                                          [
+                                                            TextSpan(
+                                                              text: entry.topic,
+                                                              style: TextStyle(
+                                                                color: hasActiveRef
+                                                                    ? Colors.purple[200]
+                                                                    : entry.isSubtopic
+                                                                        ? Colors.white70
+                                                                        : Colors.white,
+                                                                fontSize: entry.isSubtopic ? 13 : 14,
+                                                                fontWeight: hasActiveRef
+                                                                    ? FontWeight.bold
+                                                                    : entry.isSubtopic
+                                                                        ? FontWeight.normal
+                                                                        : FontWeight.w600,
+                                                              ),
+                                                            ),
+                                                          ],
+                                                          _searchQuery,
+                                                        )
+                                                      : [
+                                                          TextSpan(
+                                                            text: entry.topic,
+                                                            style: TextStyle(
+                                                              color: hasActiveRef
+                                                                  ? Colors.purple[200]
+                                                                  : entry.isSubtopic
+                                                                      ? Colors.white70
+                                                                      : Colors.white,
+                                                              fontSize: entry.isSubtopic ? 13 : 14,
+                                                              fontWeight: hasActiveRef
+                                                                  ? FontWeight.bold
+                                                                  : entry.isSubtopic
+                                                                      ? FontWeight.normal
+                                                                      : FontWeight.w600,
+                                                            ),
+                                                          ),
+                                                        ],
                                                 ),
                                               ),
                                             ),

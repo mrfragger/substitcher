@@ -105,6 +105,41 @@ class _HadeethPanelState extends State<HadeethPanel> {
     return Colors.white54;
   }
 
+  List<TextSpan> _highlightTerms(List<TextSpan> spans, List<String> terms) {
+    if (terms.isEmpty) return spans;
+
+    final pattern = RegExp(terms.map(RegExp.escape).join('|'), caseSensitive: false);
+
+    final result = <TextSpan>[];
+    for (final span in spans) {
+      final text = span.text;
+      if (text == null || text.isEmpty || !pattern.hasMatch(text)) {
+        result.add(span);
+        continue;
+      }
+      int cursor = 0;
+      for (final m in pattern.allMatches(text)) {
+        if (m.start > cursor) {
+          result.add(TextSpan(text: text.substring(cursor, m.start), style: span.style, recognizer: span.recognizer));
+        }
+        result.add(TextSpan(
+          text: text.substring(m.start, m.end),
+          style: (span.style ?? const TextStyle()).copyWith(
+            backgroundColor: Colors.yellow,
+            color: Colors.black,
+            fontWeight: FontWeight.bold,
+          ),
+          recognizer: span.recognizer,
+        ));
+        cursor = m.end;
+      }
+      if (cursor < text.length) {
+        result.add(TextSpan(text: text.substring(cursor), style: span.style, recognizer: span.recognizer));
+      }
+    }
+    return result;
+  }
+
 
   @override
   Widget build(BuildContext context) {
@@ -455,13 +490,22 @@ class _HadeethPanelState extends State<HadeethPanel> {
                     child: Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
-                        Text(
-                          entry.title,
-                          style: const TextStyle(
-                            color: Colors.white,
-                            fontSize: 13,
-                            fontWeight: FontWeight.w500,
-                            height: 1.4,
+                        Text.rich(
+                          TextSpan(
+                            children: _highlightTerms(
+                              [
+                                TextSpan(
+                                  text: entry.title,
+                                  style: const TextStyle(
+                                    color: Colors.white,
+                                    fontSize: 13,
+                                    fontWeight: FontWeight.w500,
+                                    height: 1.4,
+                                  ),
+                                ),
+                              ],
+                              _searchTerms,
+                            ),
                           ),
                         ),
                         const SizedBox(height: 4),
@@ -603,14 +647,23 @@ class _HadeethPanelState extends State<HadeethPanel> {
                               color: Colors.deepPurpleAccent, fontSize: 13),
                         ),
                         Expanded(
-                          child: SelectableText(
-                            h,
-                            textDirection: textDir,
-                            style: const TextStyle(
-                              color: Colors.greenAccent,
-                              fontSize: 13,
-                              height: 1.5,
+                          child: SelectableText.rich(
+                            TextSpan(
+                              children: _highlightTerms(
+                                [
+                                  TextSpan(
+                                    text: h,
+                                    style: const TextStyle(
+                                      color: Colors.greenAccent,
+                                      fontSize: 13,
+                                      height: 1.5,
+                                    ),
+                                  ),
+                                ],
+                                _searchTerms,
+                              ),
                             ),
+                            textDirection: textDir,
                           ),
                         ),
                       ],
@@ -653,6 +706,11 @@ class _HadeethPanelState extends State<HadeethPanel> {
     bool isRtl = false,
     Color textColor = Colors.white,
   }) {
+    final baseStyle = TextStyle(color: textColor, fontSize: 13, height: 1.6);
+    final spans = _highlightTerms(
+      [TextSpan(text: text, style: baseStyle)],
+      _searchTerms,
+    );
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
@@ -669,11 +727,9 @@ class _HadeethPanelState extends State<HadeethPanel> {
           ],
         ),
         const SizedBox(height: 6),
-        SelectableText(
-          text,
+        SelectableText.rich(
+          TextSpan(children: spans),
           textDirection: isRtl ? TextDirection.rtl : TextDirection.ltr,
-          style: TextStyle(
-              color: textColor, fontSize: 13, height: 1.6),
         ),
       ],
     );
