@@ -462,7 +462,10 @@ class SidePanel extends StatelessWidget {
 
   Widget _buildHeader(BuildContext context) {
     return Container(
-      padding: const EdgeInsets.all(16),
+      padding: EdgeInsets.symmetric(
+        horizontal: 16,
+        vertical: isCollapsed ? 2 : 2,
+      ),
       decoration: const BoxDecoration(
         border: Border(
           bottom: BorderSide(color: Colors.white24),

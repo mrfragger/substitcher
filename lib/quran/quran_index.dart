@@ -3621,4 +3621,69 @@ Matching Ayahs
 - = On adorned couches, observing. 83:23; 83:35
 - = And has listened to its Lord and has been obligated [to do so]. 84:2; 84:5
 - = Nor am I a worshiper of what you worship. 109:3; 109:5
+noblequran.com Schemas
+- The Mushriks of Makkah Affirmed Allah's Ruboobiyyah (Lordship) 10:31; 23:84; 29:61, 63; 31:25; 39:38; 43:9; 43:87
+- The Book and the Wisdom (the Sunnah) 2:129; 2:151; 2:231; 3:164; 4:113; 33:34; 62:2
+- Following the Way of One's (Misguided) Forefathers Condemned 2:170; 31:21; 43:22
+- The Messenger of Allah Was Human 10:2; 16:43; 17:93; 18:110; 21:3; 21:34; 25:7; 25:20; 41:6
+- The Mushriks Called Upon Allah Alone in Times of Hardship 10:22; 17:16; 29:65; 31:32
+- Splitting in the Religion is Forbidden and Censured 3:103, 105; 6:159; 30:31; 42:13-14; 98:4
+- The Attribute of Istiwaa for Allah 2:29; 7:57; 10:3; 13:2; 20:5; 25:59; 32:4; 41:11; 57:4
+- The Increase (and Decrease) of Imaan (Faith) 3:173; 8:2; 9:124; 33:22; 48:4; 74:31
+- The Messenger and None from the Creation Know The Unseen Independently 2:33; 3:44; 3:179; 5:109; 5:116; 6:50, 59; 7:188; 10:20; 11:31, 123; 11:49; 12:102; 18:26; 27:65; 31:34; 34:3, 14, 48; 72:26
+- Allah Enlarges and Restricts Provision for Whom He Wills 17:30; 28:82; 29:62; 30:37; 34:36, 39; 39:52; 42:12, 27
+- The Quran Revealed in Clear Arabic Language 12:2; 13:37; 16:103; 20:113; 26:195; 39:28; 41:3, 44; 43:3; 46:12
+- Allah Does Not Burden a Soul More Than It Can Bear 2:233, 286; 6:152; 7:42; 23:62; 65:7
+- No One Shall Bear the Burden of Another 6:164; 17:15; 35:18; 39:7; 53:38
+- If Allah Inflicts With You With Harm, None Can Remove It But Allah 6:17; 10:107
+- And Who Is More Unjust Than the One Who... 2:114, 140; 6:21, 93, 144, 157; 7:37; 10:17; 11:18; 18:15, 57; 29:68; 32:22; 39:32; 61:7
+- Man Is Ungrateful in Prosperity and Submissive When in Need 10:12, 21; 11:9; 17:83; 30:33, 36; 39:8, 49
+- Establishment (Tathbeet) Is Sought From and Granted by Allah 2:250; 3:147; 8:12, 45; 11:120; 14:27; 16:102; 25:32; 47:7
+- All Differences to Be Referred Back to Allah and His Messenger 4:59, 65, 115; 24:51, 63; 33:36; 42:10
+- The Dispute Between the Inhabitants of Hellfire 26:96-102; 38:58-64; 40:47-50
+- The Obligation of Giving Obedience (Taa'ah) to Allah's Messenger 3:32, 132; 4:13, 59, 64, 69, 80; 5:92; 8:1, 20, 24, 46; 9:71; 24:51-52, 54, 56; 33:33, 66, 71; 47:33; 48:17; 49:14; 64:12
+- The Verses of Prostration in the Quran 7:206; 13:15; 16:49; 19:58; 22:18, 77; 25:60; 27:26; 32:15; 41:38; 53:62; 84:21; 96:19
+- All Calamities in the Ummah Are Due to Disobedience 3:165; 4:79; 22:10; 30:36, 41; 42:30, 48; 16:112
+- Whomsoever Allah Misguides, There Is None to Guide 13:33; 39:23, 26; 40:33; 7:186; 18:17
+- All the Prophets Began Rectification With Tawheed of Ibaadah 5:72, 11:50, 61, 84; 16:36; 21:25; 23:23; 29:16
+- Success and Prosperity Linked to Tazkiyah (Purification) of the Soul 20:76; 35:18; 87:14; 91:9; 92:18;
+- All Honour and Might ('Izzah) Belongs to Allah 4:139; 10:65; 35:10; 63:8
+- The Obligation to Call Upon Allah Alone Purely and Sincerely 2:186; 6:41; 7:29, 55-56, 180; 17:110; 40:14, 60, 65;
+- The Prohibition of Calling Upon Others Alongside Allah 10:106; 23:117; 25:68; 26:213; 28:88; 72:18;
+- All Prophets Ordered Taqwa of Allah and Obedience (to Themselves) 43:63; 71:1-28
+- Concerning Hijrah (Emigration) 2:218; 3:195; 4:97, 100; 8:72, 74-75; 9:20; 16:41, 110; 22:58; 29:26, 56; 39:10
+- There Is No True Protector nor Aider for the Creation Except Allah 2:107, 120; 9:74, 116; 29:22; 42:31
+- Those Whose Hearts Allah Places a Seal Over 4:155; 7:100-101; 9:87, 93; 10:74; 16:108; 30:59; 40:35; 48:16; 63:3
+- Imaan Is Between Fear and Hope 17:57; 32:16; 39:9
+- On the Nullification of All Action by Way of Kufr, Shirk and Nifaaq 2:217; 3:22; 5:5, 53; 6:88; 7:147; 9:17, 69; 11:16; 18:105; 33:19; 39:65; 47:9, 28, 32; 49:2
+- The Revelations and Prophets of Allah Are the Lights of Guidance, Knowledge and Faith 5:44, 46; 6:91, 122; 7:157; 14:1, 5; 21:48; 22:8; 35:25; 39:22; 42:52; 57:9, 12, 19, 28; 64:8; 66:8
+- Those Who Distort the Words Are the Yahood and the People of Ta'weel (Tahreef) 2:75; 4:46; 5:13; 5:41
+- The Life of the World Is Merely a Temporary Pleasure and Enjoyment 3:185; 6:32; 9:38; 10:24; 13:26; 18:45-46; 28:60; 42:36; 47:36; 57:26
+- The Dahriyyah (Atheists) 45:24; 6:29; 23:37
+- Allah Sent Muhammad With the Deen to Prevail Over All Other (Abrogated or False) Religions 9:33; 48:28; 61:9
+- About the Taaghoot and the Necessity of Rejecting of the Taaghoot 2:256-257; 4:51, 60, 76; 5:60; 16:36; 39:17
+- They Plot and Allah Too Plots and He Is the Best of Plotters 3:54; 6:123; 7:99; 8:30; 10:21; 13:42; 16:26, 45, 127; 14:46; 27:50-51; 70; 35:43
+- The Knowledge of the Final Hour Is With Allah 7:187; 33:63; 41:47
+- The Furqaan (Criterion) 2:53, 185; 3:4; 8:29, 41; 21:48; 25:1
+- Repelling the Evil With That Which Is Best 23:96; 28:54; 41:34
+- The Final Hour Is Close at Hand 16:77; 17:51; 21:1; 42:17; 54:1; 70:7
+- And From Amongst His Signs... 20:46; 30:20-25; 41:37, 39; 42:29; 42:32
+- Allah Explains His Signs so That You May... 2:73, 187, 221, 242; 3:103; 5:89
+- Allah Is the Creator of Everything 6:73, 101-102; 13:16; 14:10; 21:33; 24:45; 25:2, 59; 37:96; 39:62; 40:62
+- Allah Did Not Create the Creation in Falsehood or in Jest 21:16; 38:27; 44:38; 46:3
+- Allah Created Mankind That They May Worship Him Alone and to Test Them As to Who Is Best in Deed 11:7; 18:7; 51:56; 67:2;
+- Allah Sent Messengers to Call to His Worship, to Be Obeyed, and As Givers of Glad Tidings and Warners 2:213; 4:64, 165; 6:48; 16:36; 18:56; 21:25
+- The Four Levels of al-Qadr 5:97; 6:59; 10:61; 22:70; 27:75; 30:54; 37:96; 39:62; 57:22; 76:30; 81:29;
+- The Forms and Types of Worship 1:5; 2:150; 3:19, 85, 185; 4:125, 136; 5:23; 6:162; 8:9; 17:110; 18:110; 21:90; 22:34; 23:117; 31:22; 39:54; 40:60; 64:8; 65:3; 76:7; 108:2; 113:1; 114:1
+- Allah Guides and Misguides Whom He Wills 14:4; 16:93; 35:8; 74:31
+- Those Whom Allah Misguides 2:26; 9:115; 14:27; 40:34, 74; 45:23
+- None Can Guide Whomever Allah Misguides 4:88; 7:178; 13:33; 18:17; 30:29; 39:23, 36; 40:33; 42:44, 46
+- Negation of Any Likeness for Allah 2:22; 19:65; 42:11; 112:4
+- Allah Does Not Wrong Anyone, but They Wrong Their Own Souls 3:182; 8:51; 10:44; 16:33, 118; 22:10; 30:9; 41:46; 50:29; 11:101
+- The Obligation of Following the Salaf (the Sahaabah) 2:137; 9:100; 4:115; 48:18, 29
+- The Methodology of Giving Da'wah 12:108; 16:125; 29:46
+- Shirk Is Not Limited to Idols and Includes Seeking Intercession Through Prophets, Angels, Jinns, and the Righteous 5:116; 10:18; 17:57; 26:69; 34:40; 35:14; 39:3;
+- The Factors That Constitute Marriageable Age 4:6; 6:152; 24:59
+- Jibrīl Is the Holy, Trustworthy Spirit Who Brought the Qurʾān From Allah to the Prophet 2:97; 16:102; 26:192
+- Aid, Victory and Domination Is for Allah and His Messengers 30:47; 37:171-173; 40:51; 58:21
 """;

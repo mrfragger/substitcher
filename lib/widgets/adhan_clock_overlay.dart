@@ -13,13 +13,13 @@ import 'dart:async';
 class AdhanClockOverlay extends StatefulWidget {
   final AdhanClockService adhanService;
   final VoidCallback? onToggleVisibility;
-  
+
   const AdhanClockOverlay({
     super.key,
     required this.adhanService,
     this.onToggleVisibility,
   });
-  
+
   @override
   State<AdhanClockOverlay> createState() => _AdhanClockOverlayState();
 }
@@ -38,7 +38,9 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
   WhiteDays? _whiteDays;
   DateTime? _whiteDaysCacheDate;
   DateTime? _ipCacheDate;
-  
+  bool _positionAtBottom = false;
+  static const _positionPrefKey = 'adhan_clock_position_bottom';
+
   final _methods = [
     'ISNA',
     'MWL',
@@ -51,7 +53,7 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
     'Algeria',
     'JAKIM',
   ];
-  
+
   @override
   void initState() {
     super.initState();
@@ -60,6 +62,7 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
     _loadWhiteDays();
     _loadCacheDate();
     _loadIpCacheDate();
+    _loadPosition();
     widget.adhanService.prayerTimesStream.listen((times) {
       if (mounted) {
         setState(() => _prayerTimes = times);
@@ -78,6 +81,29 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
   void dispose() {
     _displayUpdateTimer?.cancel();
     super.dispose();
+  }
+
+  Future<void> _loadPosition() async {
+    final prefs = await SharedPreferences.getInstance();
+    final atBottom = prefs.getBool(_positionPrefKey) ?? false;
+    if (mounted) {
+      setState(() => _positionAtBottom = atBottom);
+    }
+  }
+
+  Future<void> _togglePosition() async {
+    final prefs = await SharedPreferences.getInstance();
+    final newValue = !_positionAtBottom;
+    await prefs.setBool(_positionPrefKey, newValue);
+    if (mounted) {
+      setState(() => _positionAtBottom = newValue);
+    }
+  }
+
+  Widget _positioned({required Widget child}) {
+    return _positionAtBottom
+        ? Positioned(right: 16, bottom: 4, child: child)
+        : Positioned(right: 16, top: 36, child: child);
   }
 
   Future<void> _loadIpCacheDate() async {
@@ -123,19 +149,17 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
      _whiteDays = await WhiteDaysService.getWhiteDays();
      if (mounted) setState(() {});
    }
-  
+
   @override
   Widget build(BuildContext context) {
     if (_showSettings) {
       return _buildSettingsOverlay();
     }
-    
+
     if (_settings?.adhanClockEnabled != true) {
-      return Positioned(
-        right: 16,
-        top: 16,
+      return _positioned(
         child: Container(
-          padding: const EdgeInsets.all(12),
+          padding: const EdgeInsets.all(4),
           decoration: BoxDecoration(
             color: Colors.black87,
             borderRadius: BorderRadius.circular(8),
@@ -170,13 +194,11 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
         ),
       );
     }
-    
+
     if (_prayerTimes == null) {
-      return Positioned(
-        right: 16,
-        top: 16,
+      return _positioned(
         child: Container(
-          padding: const EdgeInsets.all(12),
+          padding: const EdgeInsets.all(4),
           decoration: BoxDecoration(
             color: Colors.black87,
             borderRadius: BorderRadius.circular(8),
@@ -206,12 +228,12 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
         ),
       );
     }
-  
-    
+
+
     final now = DateTime.now();
     String nextPrayer = '';
     DateTime? nextTime;
-    
+
     final prayers = [
       ('Fajr', _prayerTimes!.fajr),
       ('Sunrise', _prayerTimes!.sunrise),
@@ -222,30 +244,30 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
       ('Midnight', _prayerTimes!.midnight),
       ('Tahajjud', _prayerTimes!.tahajjud),
     ];
-    
+
     final sortedPrayers = List<(String, DateTime)>.from(prayers);
     sortedPrayers.sort((a, b) {
       var timeA = a.$2;
       var timeB = b.$2;
-      
+
       if (timeA.isBefore(_prayerTimes!.fajr)) {
         timeA = timeA.add(const Duration(days: 1));
       }
       if (timeB.isBefore(_prayerTimes!.fajr)) {
         timeB = timeB.add(const Duration(days: 1));
       }
-      
+
       return timeA.compareTo(timeB);
     });
-    
+
     bool foundNext = false;
     for (final prayer in sortedPrayers) {
       var prayerTime = prayer.$2;
-      
+
       if (prayerTime.isBefore(_prayerTimes!.fajr)) {
         prayerTime = prayerTime.add(const Duration(days: 1));
       }
-      
+
       if (now.isBefore(prayerTime)) {
         nextPrayer = prayer.$1;
         nextTime = prayerTime;
@@ -253,18 +275,18 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
         break;
       }
     }
-    
+
     if (!foundNext) {
       nextPrayer = 'Fajr';
       nextTime = _prayerTimes!.fajr.add(const Duration(days: 1));
     }
-    
+
     String timeRemaining = '';
     if (nextTime != null) {
       final diff = nextTime.difference(now);
       final hours = diff.inHours;
       final minutes = diff.inMinutes.remainder(60);
-      
+
       if (hours > 0) {
         timeRemaining = minutes > 0 ? '${hours}h ${minutes}m' : '${hours}h';
       } else {
@@ -276,16 +298,14 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
         }
       }
     }
-    
+
     final hijriDate = _getHijriDate();
     final elapsed = _getElapsedTime(now);
     final currentPrayer = _getCurrentPrayerName(now);
-    
-    return Positioned(
-      right: 16,
-      top: 16,
+
+    return _positioned(
       child: Container(
-        padding: const EdgeInsets.all(12),
+        padding: const EdgeInsets.all(4),
         decoration: BoxDecoration(
           color: Colors.black87,
           borderRadius: BorderRadius.circular(8),
@@ -378,6 +398,18 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
             Row(
               mainAxisSize: MainAxisSize.min,
               children: [
+                IconButton(
+                  icon: Icon(
+                    _positionAtBottom ? Icons.keyboard_arrow_up : Icons.keyboard_arrow_down,
+                    size: 16,
+                  ),
+                  onPressed: _togglePosition,
+                  padding: EdgeInsets.zero,
+                  constraints: const BoxConstraints(minWidth: 20, minHeight: 20),
+                  color: Colors.white70,
+                  tooltip: _positionAtBottom ? 'Move to top-right' : 'Move to bottom-right',
+                ),
+                const SizedBox(width: 8),
                 Tooltip(
                   message: 'Hide/Show Adhan Clock (m)',
                   waitDuration: const Duration(milliseconds: 300),
@@ -438,7 +470,7 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
                 Text(
                   timeRemaining,
                   style: TextStyle(
-                    color: _shouldHighlightNext(nextTime) 
+                    color: _shouldHighlightNext(nextTime)
                         ? const Color(0xFFE56243)
                         : const Color(0xFFB287EB),
                     fontSize: 12,
@@ -451,33 +483,31 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
       ),
     );
   }
-  
+
   Widget _buildSettingsOverlay() {
       final qibla = widget.adhanService.latitude != null && widget.adhanService.longitude != null
           ? _calculateQibla(widget.adhanService.latitude!, widget.adhanService.longitude!)
           : null;
-  
+
       String _getGregorianMonth(String formattedDate) {
         final parts = formattedDate.split('-');
         final month = int.parse(parts[1]);
-        const months = ['January', 'February', 'March', 'April', 'May', 'June', 
+        const months = ['January', 'February', 'March', 'April', 'May', 'June',
                         'July', 'August', 'September', 'October', 'November', 'December'];
         return months[month - 1];
       }
-      
+
       String _getDay(String formattedDate) {
         final parts = formattedDate.split('-');
         return int.parse(parts[2]).toString();
       }
-      
+
       String _getYear(String formattedDate) {
         final parts = formattedDate.split('-');
         return parts[0];
       }
-      
-      return Positioned(
-        right: 16,
-        top: 16,
+
+      return _positioned(
         child: Container(
           width: 450,
           constraints: const BoxConstraints(maxHeight: 600),
@@ -512,7 +542,7 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
                 ],
               ),
               const SizedBox(height: 12),
-              
+
               Expanded(
                 child: SingleChildScrollView(
                   child: Column(
@@ -528,7 +558,7 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
                               settings.adhanClockEnabled = value!;
                               await settings.save();
                               await _loadSettings();
-                              
+
                               if (value) {
                                 await widget.adhanService.initialize();
                               }
@@ -540,7 +570,7 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
                           ),
                         ],
                       ),
-                      
+
                       Row(
                         children: [
                           Checkbox(
@@ -558,7 +588,7 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
                           ),
                         ],
                       ),
-                      
+
                       const SizedBox(height: 8),
 
                       ElevatedButton.icon(
@@ -579,9 +609,9 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
                           padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
                         ),
                       ),
-                      
+
                       const SizedBox(height: 8),
-                      
+
                       if (_settings?.showWhiteDays == true && _whiteDays != null) ...[
                         RichText(
                           text: TextSpan(
@@ -645,20 +675,20 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
                           ),
                         const SizedBox(height: 8),
                       ],
-                      
-                      if (_autoDetectEnabled && widget.adhanService.coordinatesSource != null) 
+
+                      if (_autoDetectEnabled && widget.adhanService.coordinatesSource != null)
                         Text('Auto-detect Location (valid for 30 days)', style: const TextStyle(color: Colors.white70, fontSize: 12)),
                       if (_autoDetectEnabled && _ipCacheDate != null)
                         Text(
                           'Cached on ${_ipCacheDate!.year}-${_ipCacheDate!.month.toString().padLeft(2, '0')}-${_ipCacheDate!.day.toString().padLeft(2, '0')}',
                           style: const TextStyle(color: Colors.white54, fontSize: 10),
                         ),
-                      
+
                       if (qibla != null)
                         Text('Qibla: ${qibla.toStringAsFixed(1)}°', style: const TextStyle(color: Colors.white70, fontSize: 12)),
-  
+
                       const SizedBox(height: 8),
-                      
+
                       ElevatedButton.icon(
                         onPressed: () {
                           widget.adhanService.stopAdhan();
@@ -671,7 +701,7 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
                           padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
                         ),
                       ),
-                                                  
+
                       const SizedBox(height: 8),
                       Row(
                         children: [
@@ -689,7 +719,7 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
                           ),
                         ],
                       ),
-                      
+
                       Row(
                         children: [
                           const Text('Asr Calculation: ', style: TextStyle(color: Colors.white70, fontSize: 12)),
@@ -706,12 +736,12 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
                           ),
                         ],
                       ),
-                      
+
                       Text(
                         'Timezone: ${DateTime.now().timeZoneOffset.inHours.toStringAsFixed(1)} hours',
                         style: const TextStyle(color: Colors.white70, fontSize: 12),
                       ),
-                      
+
                       const SizedBox(height: 12),
                       TextButton(
                         onPressed: () {
@@ -726,7 +756,7 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
                           style: const TextStyle(color: Color(0xFF48A868), fontSize: 12),
                         ),
                       ),
-                      
+
                       if (_showLocationDetails && widget.adhanService.cityName != null) ...[
                         const SizedBox(height: 8),
                         Text('City: ${widget.adhanService.cityName}', style: const TextStyle(color: Colors.white70, fontSize: 12)),
@@ -734,14 +764,14 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
                         Text('Latitude: ${widget.adhanService.latitude!.toStringAsFixed(6)}', style: const TextStyle(color: Colors.white70, fontSize: 12)),
                         Text('Longitude: ${widget.adhanService.longitude!.toStringAsFixed(6)}', style: const TextStyle(color: Colors.white70, fontSize: 12)),
                       ],
-                      
+
                       const SizedBox(height: 12),
                       const Divider(color: Colors.white24),
                       const SizedBox(height: 12),
-                      
+
                       const Text('Adhan Files', style: TextStyle(color: Color(0xFFF5D38A), fontSize: 13, fontWeight: FontWeight.bold)),
                       const SizedBox(height: 8),
-                      
+
                       _buildAdhanSelector('Fajr'),
                       _buildAdhanSelector('Sunrise'),
                       _buildAdhanSelector('Dhuhr'),
@@ -750,11 +780,11 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
                       _buildAdhanSelector('Isha'),
                       _buildAdhanSelector('Midnight'),
                       _buildAdhanSelector('Tahajjud'),
-                      
+
                       const SizedBox(height: 12),
                       const Divider(color: Colors.white24),
                       const SizedBox(height: 12),
-                      
+
                       Row(
                         children: [
                           Checkbox(
@@ -769,7 +799,7 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
                           const Text('Auto-detect Location', style: TextStyle(color: Colors.white70, fontSize: 12)),
                         ],
                       ),
-  
+
                       Row(
                         children: [
                           Checkbox(
@@ -784,7 +814,7 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
                           const Text('Show White Days', style: TextStyle(color: Colors.white70, fontSize: 12)),
                         ],
                       ),
-                      
+
                       if (!_autoDetectEnabled) ...[
                         const SizedBox(height: 8),
                         InkWell(
@@ -843,17 +873,17 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
                           onPressed: () async {
                             final lat = double.tryParse(_latController.text);
                             final lon = double.tryParse(_lonController.text);
-                            
+
                             if (lat != null && lon != null) {
                               final settings = await AdhanSettings.load();
                               settings.latitude = lat;
                               settings.longitude = lon;
                               settings.autoIpLookup = false;
                               await settings.save();
-                              
+
                               await widget.adhanService.applyManualCoordinates(lat, lon);
                               await _loadSettings();
-                              
+
                               if (mounted) {
                                 ScaffoldMessenger.of(context).showSnackBar(
                                   const SnackBar(content: Text('Manual coordinates saved and applied')),
@@ -874,7 +904,7 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
                   ),
                 ),
               ),
-              
+
               const SizedBox(height: 12),
               const Divider(color: Colors.white24, height: 1),
               const SizedBox(height: 12),
@@ -902,21 +932,21 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
     String _getGregorianMonth(String formattedDate) {
       final parts = formattedDate.split('-');
       final month = int.parse(parts[1]);
-      const months = ['January', 'February', 'March', 'April', 'May', 'June', 
+      const months = ['January', 'February', 'March', 'April', 'May', 'June',
                       'July', 'August', 'September', 'October', 'November', 'December'];
       return months[month - 1];
     }
-    
+
     String _getDay(String formattedDate) {
       final parts = formattedDate.split('-');
       return int.parse(parts[2]).toString();
     }
-    
+
     String _getYear(String formattedDate) {
       final parts = formattedDate.split('-');
       return parts[0];
     }
-  
+
   Widget _buildAdhanSelector(String prayerName) {
     final availableAdhans = [
       'Azan-Dua.opus',
@@ -939,7 +969,7 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
       'z_silence_1m0s.opus',
       'z_Soft_Beep_Sound_0m01s.opus',
     ];
-    
+
     String getCurrentAdhan(String prayer) {
       switch (prayer) {
         case 'Fajr': return _settings?.fajrAdhan ?? availableAdhans[6];
@@ -953,7 +983,7 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
         default: return availableAdhans[0];
       }
     }
-    
+
     return Padding(
       padding: const EdgeInsets.symmetric(vertical: 4),
       child: Row(
@@ -1015,10 +1045,10 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
       ),
     );
   }
-  
+
   Future<void> _saveAdhanSelection(String prayerName, String adhanFile) async {
     final settings = await AdhanSettings.load();
-    
+
     switch (prayerName) {
       case 'Fajr': settings.fajrAdhan = adhanFile; break;
       case 'Sunrise': settings.sunriseAdhan = adhanFile; break;
@@ -1029,13 +1059,13 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
       case 'Midnight': settings.midnightAdhan = adhanFile; break;
       case 'Tahajjud': settings.tahajjudAdhan = adhanFile; break;
     }
-    
+
     await settings.save();
   }
-  
+
   Widget _buildPrayerTime(String name, DateTime time, bool isCurrent, {bool isSunrise = false, bool small = false}) {
     final timeStr = DateFormat('HH:mm').format(time);
-    
+
     Color timeColor;
     if (isCurrent) {
       timeColor = const Color(0xFF90EE90);
@@ -1044,7 +1074,7 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
     } else {
       timeColor = const Color(0xFF87CEEB);
     }
-    
+
     return Row(
       mainAxisSize: MainAxisSize.min,
       children: [
@@ -1067,7 +1097,7 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
       ],
     );
   }
-  
+
   String _getNextPrayerName(DateTime now) {
     final prayers = [
       ('Fajr', _prayerTimes!.fajr),
@@ -1079,16 +1109,16 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
       ('Midnight', _prayerTimes!.midnight),
       ('Tahajjud', _prayerTimes!.tahajjud),
     ];
-    
+
     for (final prayer in prayers) {
       if (now.isBefore(prayer.$2)) {
         return prayer.$1;
       }
     }
-    
+
     return 'Fajr';
   }
-  
+
   String _getCurrentPrayerName(DateTime now) {
     final prayers = [
       ('Tahajjud', _prayerTimes!.tahajjud),
@@ -1100,9 +1130,9 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
       ('Isha', _prayerTimes!.isha),
       ('Midnight', _prayerTimes!.midnight),
     ];
-    
+
     prayers.sort((a, b) => a.$2.compareTo(b.$2));
-    
+
     String current = prayers.last.$1;
     for (final prayer in prayers) {
       if (now.isBefore(prayer.$2)) {
@@ -1110,31 +1140,31 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
       }
       current = prayer.$1;
     }
-    
+
     return current;
   }
-  
+
   bool _shouldHighlightNext(DateTime? nextTime) {
     if (nextTime == null) return false;
     final diff = nextTime.difference(DateTime.now());
     return diff.inMinutes <= 30;
   }
-  
+
   String _getHijriDate() {
     final now = DateTime.now();
     final refDate = DateTime(2026, 1, 6);
     final refHijriDay = 17;
     final refHijriMonth = 7;
     final refHijriYear = 1447;
-    
+
     final daysDiff = now.difference(refDate).inDays;
-    
+
     int hijriDay = refHijriDay + daysDiff;
     int hijriMonth = refHijriMonth;
     int hijriYear = refHijriYear;
-    
+
     final monthLengths = [30, 29, 30, 29, 30, 29, 30, 29, 30, 29, 30, 29];
-    
+
     while (hijriDay > monthLengths[hijriMonth - 1]) {
       hijriDay -= monthLengths[hijriMonth - 1];
       hijriMonth++;
@@ -1143,7 +1173,7 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
         hijriYear++;
       }
     }
-    
+
     while (hijriDay <= 0) {
       hijriMonth--;
       if (hijriMonth <= 0) {
@@ -1152,19 +1182,19 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
       }
       hijriDay += monthLengths[hijriMonth - 1];
     }
-    
+
     const months = [
       'Muharram', 'Safar', "Rabi' al-Awwal", "Rabi' al-Thani",
       'Jumada al-Awwal', 'Jumada al-Thani', 'Rajab', "Sha'ban",
       'Ramadan', 'Shawwal', 'Dhu al-Qidah', 'Dhu al-Hijjah'
     ];
-    
+
     return '$hijriDay ${months[hijriMonth - 1]} $hijriYear';
   }
-  
+
   String? _getElapsedTime(DateTime now) {
     if (_prayerTimes == null) return null;
-    
+
     final prayers = [
       ('Fajr', _prayerTimes!.fajr),
       ('Sunrise', _prayerTimes!.sunrise),
@@ -1175,7 +1205,7 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
       ('Midnight', _prayerTimes!.midnight),
       ('Tahajjud', _prayerTimes!.tahajjud),
     ];
-    
+
     DateTime? lastPrayer;
     for (final prayer in prayers) {
       if (now.isAfter(prayer.$2)) {
@@ -1184,7 +1214,7 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
         }
       }
     }
-    
+
     if (lastPrayer == null) {
       for (final prayer in prayers.reversed) {
         final yesterdayPrayer = prayer.$2.subtract(const Duration(days: 1));
@@ -1194,31 +1224,31 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
         }
       }
     }
-    
+
     if (lastPrayer == null) return null;
-    
+
     final diff = now.difference(lastPrayer);
-    
+
     if (diff.inHours >= 24) return null;
-    
+
     final hours = diff.inHours;
     final minutes = diff.inMinutes.remainder(60);
-    
+
     return '${hours.toString().padLeft(2, '0')}:${minutes.toString().padLeft(2, '0')}';
   }
-  
+
   double _calculateQibla(double lat, double lon) {
     const meccaLat = 21.4225;
     const meccaLon = 39.8262;
-    
+
     final latRad = lat * math.pi / 180;
     final meccaLatRad = meccaLat * math.pi / 180;
     final deltaLon = (meccaLon - lon) * math.pi / 180;
-    
+
     final y = math.sin(deltaLon) * math.cos(meccaLatRad);
     final x = math.cos(latRad) * math.sin(meccaLatRad) -
               math.sin(latRad) * math.cos(meccaLatRad) * math.cos(deltaLon);
-    
+
     final qibla = math.atan2(y, x) * 180 / math.pi;
     return (qibla + 360) % 360;
   }

@@ -406,13 +406,25 @@ class _QuranPanelState extends State<QuranPanel> {
     'ethiopic': r'\u1200-\u137F',
   };
 
+  static const Set<String> _nonHighlightableQueries = {
+    'schemas',
+    'juz',
+    'hizb',
+    'rub',
+    '#',
+    '=',
+  };
+
   String _detectScript(String word) {
     for (final entry in _scriptRanges.entries) {
-      if (entry.key == 'latin') continue; // handled separately
+      if (entry.key == 'latin') continue;
       if (RegExp('[${entry.value}]').hasMatch(word)) return entry.key;
     }
     return 'latin';
   }
+
+  bool get _shouldHighlightTopicSearch =>
+      _searchQuery.isNotEmpty && !_nonHighlightableQueries.contains(_searchQuery);
 
   static const Set<String> _rtlScripts = {'arabic', 'hebrew', 'nko'};
 
@@ -1482,6 +1494,8 @@ class _QuranPanelState extends State<QuranPanel> {
                     ),
                   ],
                     const SizedBox(width: 8),
+                    _quickFilterChip('Schemas', 'schemas'),
+                    const SizedBox(width: 8),
                     _quickFilterChip('Juz', 'juz'),
                     const SizedBox(width: 4),
                     _quickFilterChip('Hizb', 'hizb'),
@@ -1613,32 +1627,32 @@ class _QuranPanelState extends State<QuranPanel> {
                                         isRtlQuranLanguage(widget.selectedLanguage)
                                             ? TextDirection.rtl
                                             : TextDirection.ltr,
-                                    child: Text.rich(
-                                      TextSpan(
-                                        children: _searchQuery.isNotEmpty
-                                            ? _highlightQuery(
-                                                [
-                                                  TextSpan(
-                                                    text: entry.topic,
-                                                    style: const TextStyle(
-                                                        color: Colors.white38,
-                                                        fontSize: 13,
-                                                        fontStyle: FontStyle.italic),
-                                                  ),
-                                                ],
-                                                _searchQuery,
-                                              )
-                                            : [
-                                                TextSpan(
-                                                  text: entry.topic,
-                                                  style: const TextStyle(
-                                                      color: Colors.white38,
-                                                      fontSize: 13,
-                                                      fontStyle: FontStyle.italic),
-                                                ),
-                                              ],
-                                      ),
-                                    ),
+                                            child: Text.rich(
+                                              TextSpan(
+                                                children: _shouldHighlightTopicSearch
+                                                    ? _highlightQuery(
+                                                        [
+                                                          TextSpan(
+                                                            text: entry.topic,
+                                                            style: const TextStyle(
+                                                                color: Colors.white38,
+                                                                fontSize: 13,
+                                                                fontStyle: FontStyle.italic),
+                                                          ),
+                                                        ],
+                                                        _searchQuery,
+                                                      )
+                                                    : [
+                                                        TextSpan(
+                                                          text: entry.topic,
+                                                          style: const TextStyle(
+                                                              color: Colors.white38,
+                                                              fontSize: 13,
+                                                              fontStyle: FontStyle.italic),
+                                                        ),
+                                                      ],
+                                              ),
+                                            ),
                                   ),
                                 );
                               }
@@ -1708,50 +1722,50 @@ class _QuranPanelState extends State<QuranPanel> {
                                                       widget.selectedLanguage)
                                                   ? TextDirection.rtl
                                                   : TextDirection.ltr,
-                                              child: Text.rich(
-                                                TextSpan(
-                                                  children: _searchQuery.isNotEmpty
-                                                      ? _highlightQuery(
-                                                          [
-                                                            TextSpan(
-                                                              text: entry.topic,
-                                                              style: TextStyle(
-                                                                color: hasActiveRef
-                                                                    ? Colors.purple[200]
-                                                                    : entry.isSubtopic
-                                                                        ? Colors.white70
-                                                                        : Colors.white,
-                                                                fontSize: entry.isSubtopic ? 13 : 14,
-                                                                fontWeight: hasActiveRef
-                                                                    ? FontWeight.bold
-                                                                    : entry.isSubtopic
-                                                                        ? FontWeight.normal
-                                                                        : FontWeight.w600,
+                                                  child: Text.rich(
+                                                    TextSpan(
+                                                      children: _shouldHighlightTopicSearch
+                                                          ? _highlightQuery(
+                                                              [
+                                                                TextSpan(
+                                                                  text: entry.topic,
+                                                                  style: TextStyle(
+                                                                    color: hasActiveRef
+                                                                        ? Colors.purple[200]
+                                                                        : entry.isSubtopic
+                                                                            ? Colors.white70
+                                                                            : Colors.white,
+                                                                    fontSize: entry.isSubtopic ? 13 : 14,
+                                                                    fontWeight: hasActiveRef
+                                                                        ? FontWeight.bold
+                                                                        : entry.isSubtopic
+                                                                            ? FontWeight.normal
+                                                                            : FontWeight.w600,
+                                                                  ),
+                                                                ),
+                                                              ],
+                                                              _searchQuery,
+                                                            )
+                                                          : [
+                                                              TextSpan(
+                                                                text: entry.topic,
+                                                                style: TextStyle(
+                                                                  color: hasActiveRef
+                                                                      ? Colors.purple[200]
+                                                                      : entry.isSubtopic
+                                                                          ? Colors.white70
+                                                                          : Colors.white,
+                                                                  fontSize: entry.isSubtopic ? 13 : 14,
+                                                                  fontWeight: hasActiveRef
+                                                                      ? FontWeight.bold
+                                                                      : entry.isSubtopic
+                                                                          ? FontWeight.normal
+                                                                          : FontWeight.w600,
+                                                                ),
                                                               ),
-                                                            ),
-                                                          ],
-                                                          _searchQuery,
-                                                        )
-                                                      : [
-                                                          TextSpan(
-                                                            text: entry.topic,
-                                                            style: TextStyle(
-                                                              color: hasActiveRef
-                                                                  ? Colors.purple[200]
-                                                                  : entry.isSubtopic
-                                                                      ? Colors.white70
-                                                                      : Colors.white,
-                                                              fontSize: entry.isSubtopic ? 13 : 14,
-                                                              fontWeight: hasActiveRef
-                                                                  ? FontWeight.bold
-                                                                  : entry.isSubtopic
-                                                                      ? FontWeight.normal
-                                                                      : FontWeight.w600,
-                                                            ),
-                                                          ),
-                                                        ],
-                                                ),
-                                              ),
+                                                            ],
+                                                    ),
+                                                  ),
                                             ),
                                           ),
                                           const SizedBox(width: 10),
