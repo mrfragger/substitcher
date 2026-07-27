@@ -2693,105 +2693,105 @@ Rub (1/8)
 - Rub 240 100:9-11; 101:1-11; 102:1-8; 103:1-3; 104:1-9; 105:1-5; 106:1-4; 107:1-7; 108:1-3; 109:1-6; 110:1-3; 111:1-5; 112:1-4; 113:1-5; 114:1-6
 The 99 Names of Allah
 - #0 Best of Names 7:180; 20:8; 59:24
-- #1 Ar Rahmaan 	The Most Compassionate 1:3; 17:110
-- #2 Ar Raheem 	The Most Merciful 2:163; 3:31; 4:100; 5:3
-- #3 Al Malik 	The King, The Sovereign 20:114; 23:116; 59:23; 62:1
-- #4 Al Quddus 	The Absolutely Pure 59:23; 62:1
-- #5 As Salaam 	The Source of Peace 59:23
-- #6 Al Mu'min 	The Giver of Faith and Security 59:23
-- #7 Al Muhaymin 	The Guardian, The Protector 59:23
-- #8 Al Azeez 	The Almighty 3:6; 4:158; 9:40; 48:7
-- #9 Al Jabbaar 	The Compeller, The Restorer 59:23
-- #10 Al Mutakabbir 	The Supreme, The Majestic 59:23
-- #11 Al Khaaliq 	The Creator 6:102; 13:16; 39:62; 40:62; 59:24
-- #12 Al Baari 	The Maker from Nothing 59:24
-- #13 Al Musawwir 	The Fashioner 59:24
-- #14 Al Ghaffaar 	The All-Forgiving 20:82; 38:66; 39:5; 40:42; 71:10
-- #15 Al Qahhaar 	The Subduer 13:16; 14:48; 38:65; 39:4; 40:16
-- #16 Al Wahhaab 	The Bestower 3:8; 38:9; 38:35
-- #17 Ar Razzaaq 	The Provider 51:58
-- #18 Al Fattaah 	The Opener 34:26
-- #19 Al 'Aleem 	The All-Knowing 2:158; 3:92; 4:35; 24:41; 33:40
-- #20 Al Qaabid 	The Withholder 2:245
-- #21 Al Baasit   The Expander  2:245
-- #22 Al Khaafid  The Abaser 95:5
-- #23 Ar Raafi'   The Exalter 58:11; 6:83
-- #24 Al Mu'izz   The Honorer  3:26
-- #25 Al Mudhil   The Humbler  3:26
-- #26 As Samee'   The All-Hearing 2:127; 2:256; 8:17; 49:1
-- #27 Al Baseer   The All-Seeing  4:58; 17:1; 42:11; 42:27
-- #28 Al Hakam    The Judge 22:69
-- #29 Al Adl      The Just  6:115
-- #30 Al Lateef   The Subtle, The Gentle 6:103; 22:63; 31:16; 33:34
-- #31 Al Khabeer  The All-Aware 6:18; 17:30; 49:13; 59:18
-- #32 Al Haleem   The Forbearing  2:235; 17:44; 22:59; 35:41
-- #33 Al 'Azeem   The Magnificent 2:255; 42:4; 56:96
-- #34 Al Ghafoor  The Great Forgiver  2:173; 8:69; 16:110; 41:32
-- #35 Ash Shakoor The Appreciative  35:30; 35:34; 42:23; 64:17
-- #36 Al Aliyy    The Most High 4:34; 31:30; 42:4; 42:51
-- #37 Al Kabeer   The Greatest  13:9; 22:62; 31:30
-- #38 Al Hafeez   The Preserver 11:57; 34:21; 42:6
-- #39 Al Muqeet   The Sustainer 4:85
-- #40 Al Haseeb   The Reckoner  4:6; 4:86; 33:39
-- #41 Al Jaleel   The Majestic  55:27; 39:14; 7:143
-- #42 Al Kareem   The Generous  27:40; 82:6
-- #43 Ar Raqeeb   The Watchful  4:1; 5:117
-- #44 Al Mujeeb   The Responsive 11:61
-- #45 Al Waasi'   The All-Encompassing 2:268; 3:73; 5:54
-- #46 Al Hakeem   The All-Wise  31:27; 46:2; 57:1; 66:2
-- #47 Al Wudood   The Most Loving 11:90; 85:14
-- #48 Al Majeed   The Glorious  11:73
-- #49 Al Baa'ith  The Resurrector 22:7
-- #50 Ash Shaheed The Witness 4:166; 22:17; 41:53; 48:28
-- #51 Al Haqq     The Truth 6:62; 22:6; 23:116; 24:25
-- #52 Al Wakeel   The Trustee 3:173; 4:171; 28:28; 73:9
-- #53 Al Qawiyy   The Strong  22:40; 22:74; 42:19; 57:25
-- #54 Al Mateen   The Firm  51:58
-- #55 Al Waliyy   The Protecting Friend 4:45; 7:196; 42:28; 45:19
-- #56 Al Hameed   The Praiseworthy  14:8; 31:12; 31:26; 41:42
-- #57 Al Muhsi    The Counter 72:28; 78:29; 82:10-12
-- #58 Al Mubdi    The Originator 10:34; 27:64; 29:19; 85:13
-- #59 Al Mu'eed   The Restorer  10:34; 27:64; 29:19; 85:13
-- #60 Al Muhiy    The Giver of Life 7:158; 15:23; 30:50; 57:2
-- #61 Al Mumeet   The Bringer of Death  3:156; 7:158; 15:23; 57:2
-- #62 Al Haiyy    The Ever-Living 2:255; 3:2; 25:58; 40:65
-- #63 Al Qayyoom  The Self-Subsisting 2:255; 3:2; 20:111
-- #64 Al Waajid   The Finder 38:44
-- #65 Al Maajid   The Noble 11:73
-- #66 Al Waahid   The One 2:163; 5:73; 9:31; 18:110
-- #67 Al Ahad     The Unique One  112:1
-- #68 As Samad    The Eternal Refuge   112:2
-- #69 Al Qaadir   The Able  6:65; 36:81; 46:33; 75:40
-- #70 Al Muqtadir The Powerful  18:45; 54:42; 54:55
-- #71 Al Muqaddim The Expediter 16:61; 17:34
-- #72 Al Mu’akhir The Delayer  71:4
-- #73 Al Awwal    The First 57:3
-- #74 Al Aakhir   The Last 57:3
-- #75 Az Zaahir   The Manifest  57:3
-- #76 Al Baatin   The Hidden 57:3
-- #77 Al Waali    The Governor  13:11; 22:7
-- #78 Al Muta’ali The Most Exalted 13:9
-- #79 Al Barr     The Source of Goodness 52:28
-- #80 At Tawwaab  The Acceptor of Repentance 2:128; 4:64; 49:12; 110:3
-- #81 Al Muntaqim The Avenger 32:22; 43:41; 44:16
-- #82 Al Afuww    The Pardoner 4:99; 4:149; 22:60
-- #83 Ar Ra’oof   The Most Kind 3:30; 9:117; 57:9; 59:10
-- #84 Maalik Ul Mulk  Master of the Kingdom 3:26
-- #85 Dhu Al Jalaali Wa Al Ikraam,  Lord of Majesty and Honor 55:27; 55:78
-- #86 Al Muqsit   The Just One 3:18; 7:29
-- #87 Al Jaami'   The Gatherer  3:9
-- #88 Al Ghaniyy  The Self-Sufficient 3:97; 39:7; 47:38; 57:24
-- #89 Al Mughni   The Enricher  9:28
-- #90 Al Maani'   The Preventer 67:21
-- #91 Ad Daaarr   The Distresser 6:17
-- #92 An Naafi’   The Benefactor  30:37
-- #93 An Noor     The Light 24:35
-- #94 Al Haadi    The Guide 25:31
-- #95 Al Badi'    The Originator  2:117; 6:101
-- #96 Al Baaqi    The Everlasting 55:27
-- #97 Al Waarith  The Inheritor 15:23
-- #98 Ar Rasheed  The Guide to the Right Path 2:256
-- #99 As Saboor   The Patient 2:153; 3:200; 103:3
+- #1 Ar Rahmaan 가장 자비로우신 분 1:3; 17:110
+- #2 Ar Raheem 가장 긍휼로우신 분 2:163; 3:31; 4:100; 5:3
+- #3 Al Malik 왕이시며 군주이신 분 20:114; 23:116; 59:23; 62:1
+- #4 Al Quddus 지극히 거룩하신 분 59:23; 62:1
+- #5 As Salaam 평화의 원천이신 분 59:23
+- #6 Al Mu'min 믿음과 안전을 주시는 분 59:23
+- #7 Al Muhaymin 보호자이시며 감찰자이신 분 59:23
+- #8 Al Azeez 전능하신 분 3:6; 4:158; 9:40; 48:7
+- #9 Al Jabbaar 강제자이시며 회복자이신 분 59:23
+- #10 Al Mutakabbir 가장 높으시고 위대하신 분 59:23
+- #11 Al Khaaliq 창조주 6:102; 13:16; 39:62; 40:62; 59:24
+- #12 Al Baari 무에서 만드시는 분 59:24
+- #13 Al Musawwir 형상을 만드시는 분 59:24
+- #14 Al Ghaffaar 가장 관대하신 용서자 20:82; 38:66; 39:5; 40:42; 71:10
+- #15 Al Qahhaar 정복자이시며 지배자이신 분 13:16; 14:48; 38:65; 39:4; 40:16
+- #16 Al Wahhaab 은혜를 베푸시는 분 3:8; 38:9; 38:35
+- #17 Ar Razzaaq 양식을 주시는 분 51:58
+- #18 Al Fattaah 여는 분이시며 재판관이신 분 34:26
+- #19 Al 'Aleem 모든 것을 아시는 분 2:158; 3:92; 4:35; 24:41; 33:40
+- #20 Al Qaabid 움켜쥐시는 분 2:245
+- #21 Al Baasit 펼치시는 분 2:245
+- #22 Al Khaafid 낮추시는 분 95:5
+- #23 Ar Raafi' 높이시는 분 58:11; 6:83
+- #24 Al Mu'izz 영예를 주시는 분 3:26
+- #25 Al Mudhil 굴욕을 주시는 분 3:26
+- #26 As Samee' 모든 것을 들으시는 분 2:127; 2:256; 8:17; 49:1
+- #27 Al Baseer 모든 것을 보시는 분 4:58; 17:1; 42:11; 42:27
+- #28 Al Hakam 재판관이시며 심판자이신 분 22:69
+- #29 Al Adl 공정하신 분 6:115
+- #30 Al Lateef 미묘하시고 자애로우신 분 6:103; 22:63; 31:16; 33:34
+- #31 Al Khabeer 모든 것을 꿰뚫어 아시는 분 6:18; 17:30; 49:13; 59:18
+- #32 Al Haleem 인내로우시고 관용을 베푸시는 분 2:235; 17:44; 22:59; 35:41
+- #33 Al 'Azeem 장엄하신 분 2:255; 42:4; 56:96
+- #34 Al Ghafoor 용서하시는 분 2:173; 8:69; 16:110; 41:32
+- #35 Ash Shakoor 보답하시며 감사하시는 분 35:30; 35:34; 42:23; 64:17
+- #36 Al Aliyy 가장 높으신 분 4:34; 31:30; 42:4; 42:51
+- #37 Al Kabeer 가장 위대하신 분 13:9; 22:62; 31:30
+- #38 Al Hafeez 보존자이시며 보호자이신 분 11:57; 34:21; 42:6
+- #39 Al Muqeet 유지자이시며 보호자이신 분 4:85
+- #40 Al Haseeb 계산자이시며 심판자이신 분 4:6; 4:86; 33:39
+- #41 Al Jaleel 장엄하고 위대하신 분 55:27; 39:14; 7:143
+- #42 Al Kareem 자애롭고 너그러우신 분 27:40; 82:6
+- #43 Ar Raqeeb 감시자이시며 파수꾼이신 분 4:1; 5:117
+- #44 Al Mujeeb 응답하시는 분 11:61
+- #45 Al Waasi' 널리 퍼지시고 모든 것을 포용하시는 분 2:268; 3:73; 5:54
+- #46 Al Hakeem 지혜로우신 분 31:27; 46:2; 57:1; 66:2
+- #47 Al Wudood 가장 사랑이 많으신 분 11:90; 85:14
+- #48 Al Majeed 영광스러우신 분 11:73
+- #49 Al Baa'ith 부활시키시는 분 22:7
+- #50 Ash Shaheed 증인이시며 목격자이신 분 4:166; 22:17; 41:53; 48:28
+- #51 Al Haqq 진리이신 분 6:62; 22:6; 23:116; 24:25
+- #52 Al Wakeel 보호자이시며 대리자이신 분 3:173; 4:171; 28:28; 73:9
+- #53 Al Qawiyy 가장 강하신 분 22:40; 22:74; 42:19; 57:25
+- #54 Al Mateen 확고하시고 굳건하신 분 51:58
+- #55 Al Waliyy 보호자이시며 후원자이신 분 4:45; 7:196; 42:28; 45:19
+- #56 Al Hameed 찬양받으실 분 14:8; 31:12; 31:26; 41:42
+- #57 Al Muhsi 계산자이시며 기록자이신 분 72:28; 78:29; 82:10-12
+- #58 Al Mubdi 창조자이시며 기원자이신 분 10:34; 27:64; 29:19; 85:13
+- #59 Al Mu'eed 부활시키고 회복시키시는 분 10:34; 27:64; 29:19; 85:13
+- #60 Al Muhiy 생명을 주시는 분 7:158; 15:23; 30:50; 57:2
+- #61 Al Mumeet 죽음을 주시는 분 3:156; 7:158; 15:23; 57:2
+- #62 Al Haiyy 영원히 살아 계신 분 2:255; 3:2; 25:58; 40:65
+- #63 Al Qayyoom 스스로 존재하시고 만물을 유지하시는 분 2:255; 3:2; 20:111
+- #64 Al Waajid 발견자이시며 부요하신 분 38:44
+- #65 Al Maajid 숭고하고 영광스러우신 분 11:73
+- #66 Al Waahid 유일하신 분 2:163; 5:73; 9:31; 18:110
+- #67 Al Ahad 절대 유일자이신 분 112:1
+- #68 As Samad 영원한 피난처이신 분 112:2
+- #69 Al Qaadir 전능하시고 능력자이신 분 6:65; 36:81; 46:33; 75:40
+- #70 Al Muqtadir 가장 강력하신 분 18:45; 54:42; 54:55
+- #71 Al Muqaddim 앞서게 하시는 분 16:61; 17:34
+- #72 Al Mu'akhir 뒤로 미루시는 분 71:4
+- #73 Al Awwal 처음이신 분 57:3
+- #74 Al Aakhir 마지막이신 분 57:3
+- #75 Az Zaahir 분명하시고 나타나신 분 57:3
+- #76 Al Baatin 숨겨지시고 내재하신 분 57:3
+- #77 Al Waali 통치자이시며 관리자이신 분 13:11; 22:7
+- #78 Al Muta'ali 가장 높이 계시고 숭고하신 분 13:9
+- #79 Al Barr 선의 원천이신 분 52:28
+- #80 At Tawwaab 회개를 받아주시는 분 2:128; 4:64; 49:12; 110:3
+- #81 Al Muntaqim 복수자이신 분 32:22; 43:41; 44:16
+- #82 Al Afuww 용서하시고 넘겨주시는 분 4:99; 4:149; 22:60
+- #83 Ar Ra'oof 가장 자비로우시고 친절하신 분 3:30; 9:117; 57:9; 59:10
+- #84 Maalik Ul Mulk 왕국의 주인이신 분 3:26
+- #85 Dhu Al Jalaali Wa Al Ikraam 장엄함과 은혜의 주인이신 분 55:27; 55:78
+- #86 Al Muqsit 공정하신 분 3:18; 7:29
+- #87 Al Jaami' 모으시는 분 3:9
+- #88 Al Ghaniyy 부요하시고 자족자급하신 분 3:97; 39:7; 47:38; 57:24
+- #89 Al Mughni 부요하게 하시는 분 9:28
+- #90 Al Maani' 막으시는 분 67:21
+- #91 Ad Daaarr 고통을 주시는 분 6:17
+- #92 An Naafi' 이익을 주시는 분 30:37
+- #93 An Noor 빛이신 분 24:35
+- #94 Al Haadi 인도자이신 분 25:31
+- #95 Al Badi' 독창적 창조자이신 분 2:117; 6:101
+- #96 Al Baaqi 영원하신 분 55:27
+- #97 Al Waarith 상속자이신 분 15:23
+- #98 Ar Rasheed 올바른 길로 인도하시는 분 2:256
+- #99 As Saboor 인내로우신 분 2:153; 3:200; 103:3
 noblequran.com Schemas
 - 메카의 무슈리크들은 알라의 루부비야(주권)를 확증하였다 10:31; 23:84; 29:61, 63; 31:25; 39:38; 43:9; 43:87
 - 성서와 지혜(순나) 2:129; 2:151; 2:231; 3:164; 4:113; 33:34; 62:2

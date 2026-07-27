@@ -2571,105 +2571,105 @@ Rub (1/8)
 - Rub 240 100:9-11; 101:1-11; 102:1-8; 103:1-3; 104:1-9; 105:1-5; 106:1-4; 107:1-7; 108:1-3; 109:1-6; 110:1-3; 111:1-5; 112:1-4; 113:1-5; 114:1-6
 The 99 Names of Allah
 - #0 Best of Names 7:180; 20:8; 59:24
-- #1 Ar Rahmaan 	The Most Compassionate 1:3; 17:110
-- #2 Ar Raheem 	The Most Merciful 2:163; 3:31; 4:100; 5:3
-- #3 Al Malik 	The King, The Sovereign 20:114; 23:116; 59:23; 62:1
-- #4 Al Quddus 	The Absolutely Pure 59:23; 62:1
-- #5 As Salaam 	The Source of Peace 59:23
-- #6 Al Mu'min 	The Giver of Faith and Security 59:23
-- #7 Al Muhaymin 	The Guardian, The Protector 59:23
-- #8 Al Azeez 	The Almighty 3:6; 4:158; 9:40; 48:7
-- #9 Al Jabbaar 	The Compeller, The Restorer 59:23
-- #10 Al Mutakabbir 	The Supreme, The Majestic 59:23
-- #11 Al Khaaliq 	The Creator 6:102; 13:16; 39:62; 40:62; 59:24
-- #12 Al Baari 	The Maker from Nothing 59:24
-- #13 Al Musawwir 	The Fashioner 59:24
-- #14 Al Ghaffaar 	The All-Forgiving 20:82; 38:66; 39:5; 40:42; 71:10
-- #15 Al Qahhaar 	The Subduer 13:16; 14:48; 38:65; 39:4; 40:16
-- #16 Al Wahhaab 	The Bestower 3:8; 38:9; 38:35
-- #17 Ar Razzaaq 	The Provider 51:58
-- #18 Al Fattaah 	The Opener 34:26
-- #19 Al 'Aleem 	The All-Knowing 2:158; 3:92; 4:35; 24:41; 33:40
-- #20 Al Qaabid 	The Withholder 2:245
-- #21 Al Baasit   The Expander  2:245
-- #22 Al Khaafid  The Abaser 95:5
-- #23 Ar Raafi'   The Exalter 58:11; 6:83
-- #24 Al Mu'izz   The Honorer  3:26
-- #25 Al Mudhil   The Humbler  3:26
-- #26 As Samee'   The All-Hearing 2:127; 2:256; 8:17; 49:1
-- #27 Al Baseer   The All-Seeing  4:58; 17:1; 42:11; 42:27
-- #28 Al Hakam    The Judge 22:69
-- #29 Al Adl      The Just  6:115
-- #30 Al Lateef   The Subtle, The Gentle 6:103; 22:63; 31:16; 33:34
-- #31 Al Khabeer  The All-Aware 6:18; 17:30; 49:13; 59:18
-- #32 Al Haleem   The Forbearing  2:235; 17:44; 22:59; 35:41
-- #33 Al 'Azeem   The Magnificent 2:255; 42:4; 56:96
-- #34 Al Ghafoor  The Great Forgiver  2:173; 8:69; 16:110; 41:32
-- #35 Ash Shakoor The Appreciative  35:30; 35:34; 42:23; 64:17
-- #36 Al Aliyy    The Most High 4:34; 31:30; 42:4; 42:51
-- #37 Al Kabeer   The Greatest  13:9; 22:62; 31:30
-- #38 Al Hafeez   The Preserver 11:57; 34:21; 42:6
-- #39 Al Muqeet   The Sustainer 4:85
-- #40 Al Haseeb   The Reckoner  4:6; 4:86; 33:39
-- #41 Al Jaleel   The Majestic  55:27; 39:14; 7:143
-- #42 Al Kareem   The Generous  27:40; 82:6
-- #43 Ar Raqeeb   The Watchful  4:1; 5:117
-- #44 Al Mujeeb   The Responsive 11:61
-- #45 Al Waasi'   The All-Encompassing 2:268; 3:73; 5:54
-- #46 Al Hakeem   The All-Wise  31:27; 46:2; 57:1; 66:2
-- #47 Al Wudood   The Most Loving 11:90; 85:14
-- #48 Al Majeed   The Glorious  11:73
-- #49 Al Baa'ith  The Resurrector 22:7
-- #50 Ash Shaheed The Witness 4:166; 22:17; 41:53; 48:28
-- #51 Al Haqq     The Truth 6:62; 22:6; 23:116; 24:25
-- #52 Al Wakeel   The Trustee 3:173; 4:171; 28:28; 73:9
-- #53 Al Qawiyy   The Strong  22:40; 22:74; 42:19; 57:25
-- #54 Al Mateen   The Firm  51:58
-- #55 Al Waliyy   The Protecting Friend 4:45; 7:196; 42:28; 45:19
-- #56 Al Hameed   The Praiseworthy  14:8; 31:12; 31:26; 41:42
-- #57 Al Muhsi    The Counter 72:28; 78:29; 82:10-12
-- #58 Al Mubdi    The Originator 10:34; 27:64; 29:19; 85:13
-- #59 Al Mu'eed   The Restorer  10:34; 27:64; 29:19; 85:13
-- #60 Al Muhiy    The Giver of Life 7:158; 15:23; 30:50; 57:2
-- #61 Al Mumeet   The Bringer of Death  3:156; 7:158; 15:23; 57:2
-- #62 Al Haiyy    The Ever-Living 2:255; 3:2; 25:58; 40:65
-- #63 Al Qayyoom  The Self-Subsisting 2:255; 3:2; 20:111
-- #64 Al Waajid   The Finder 38:44
-- #65 Al Maajid   The Noble 11:73
-- #66 Al Waahid   The One 2:163; 5:73; 9:31; 18:110
-- #67 Al Ahad     The Unique One  112:1
-- #68 As Samad    The Eternal Refuge   112:2
-- #69 Al Qaadir   The Able  6:65; 36:81; 46:33; 75:40
-- #70 Al Muqtadir The Powerful  18:45; 54:42; 54:55
-- #71 Al Muqaddim The Expediter 16:61; 17:34
-- #72 Al Mu’akhir The Delayer  71:4
-- #73 Al Awwal    The First 57:3
-- #74 Al Aakhir   The Last 57:3
-- #75 Az Zaahir   The Manifest  57:3
-- #76 Al Baatin   The Hidden 57:3
-- #77 Al Waali    The Governor  13:11; 22:7
-- #78 Al Muta’ali The Most Exalted 13:9
-- #79 Al Barr     The Source of Goodness 52:28
-- #80 At Tawwaab  The Acceptor of Repentance 2:128; 4:64; 49:12; 110:3
-- #81 Al Muntaqim The Avenger 32:22; 43:41; 44:16
-- #82 Al Afuww    The Pardoner 4:99; 4:149; 22:60
-- #83 Ar Ra’oof   The Most Kind 3:30; 9:117; 57:9; 59:10
-- #84 Maalik Ul Mulk  Master of the Kingdom 3:26
-- #85 Dhu Al Jalaali Wa Al Ikraam,  Lord of Majesty and Honor 55:27; 55:78
-- #86 Al Muqsit   The Just One 3:18; 7:29
-- #87 Al Jaami'   The Gatherer  3:9
-- #88 Al Ghaniyy  The Self-Sufficient 3:97; 39:7; 47:38; 57:24
-- #89 Al Mughni   The Enricher  9:28
-- #90 Al Maani'   The Preventer 67:21
-- #91 Ad Daaarr   The Distresser 6:17
-- #92 An Naafi’   The Benefactor  30:37
-- #93 An Noor     The Light 24:35
-- #94 Al Haadi    The Guide 25:31
-- #95 Al Badi'    The Originator  2:117; 6:101
-- #96 Al Baaqi    The Everlasting 55:27
-- #97 Al Waarith  The Inheritor 15:23
-- #98 Ar Rasheed  The Guide to the Right Path 2:256
-- #99 As Saboor   The Patient 2:153; 3:200; 103:3
+- #1 Ar Rahmaan     Omusaasizi 1:3; 17:110
+- #2 Ar Raheem      Omusaasizi Ennyo 2:163; 3:31; 4:100; 5:3
+- #3 Al Malik       Kabaka 20:114; 23:116; 59:23; 62:1
+- #4 Al Quddus      Omutukuvu 59:23; 62:1
+- #5 As Salaam      Ensibuko y'Emirembe 59:23
+- #6 Al Mu'min      Omuwuzi w'Okukkiriza n'Obutebenkevu 59:23
+- #7 Al Muhaymin    Omulabirira (oyo alaba buli kimu era n'akikuuma) 59:23
+- #8 Al Azeez       Owa Buyinza (atawangulwa) 3:6; 4:158; 9:40; 48:7
+- #9 Al Jabbaar     Owa Maanyi, Omuzzaawo 59:23
+- #10 Al Mutakabbir Eyeeraga Obukulu (Owekitiibwa mu bukulu bwe yekka) 59:23
+- #11 Al Khaaliq    Omutonzi 6:102; 13:16; 39:62; 40:62; 59:24
+- #12 Al Baari      Omukozi w'ebitonde (oyo abikola nga bituukagana bulungi) 59:24
+- #13 Al Musawwir   Omufaananyi 59:24
+- #14 Al Ghaffaar   Omusonyiyi Ennyo (asonyiwa buli kiseera) 20:82; 38:66; 39:5; 40:42; 71:10
+- #15 Al Qahhaar    Ouwangula 13:16; 14:48; 38:65; 39:4; 40:16
+- #16 Al Wahhaab    Omuwuzi 3:8; 38:9; 38:35
+- #17 Ar Razzaaq    Omuwuzi w'Emiriira 51:58
+- #18 Al Fattaah    Owa Kkubo, Omulamuzi 34:26
+- #19 Al 'Aleem     Omumanyi 2:158; 3:92; 4:35; 24:41; 33:40
+- #20 Al Qaabid     Okuzaanya 2:245
+- #21 Al Baasit     Okuyasa 2:245
+- #22 Al Khaafid    Okuwanga 95:5
+- #23 Ar Raafi'     Okuyimusa 58:11; 6:83
+- #24 Al Mu'izz     Okuwanga Ekitiibwa 3:26
+- #25 Al Mudhil     Okuwanga Obuwanga 3:26
+- #26 As Samee'     Okuwulira 2:127; 2:256; 8:17; 49:1
+- #27 Al Baseer     Okulaba 4:58; 17:1; 42:11; 42:27
+- #28 Al Hakam      Omulamuzi 22:69
+- #29 Al Adl        Omwenkanya 6:115
+- #30 Al Lateef     Ow'Ekisa (omutegeevu era ow'ekisa mu bikubi ebitonobotono) 6:103; 22:63; 31:16; 33:34
+- #31 Al Khabeer    Omumanyi wa Buli Kintu (n'ebyekusifu) 6:18; 17:30; 49:13; 59:18
+- #32 Al Haleem     Omugumiikiriza 2:235; 17:44; 22:59; 35:41
+- #33 Al 'Azeem     Ow'Obukulu Obw'amazima 2:255; 42:4; 56:96
+- #34 Al Ghafoor    Omusonyiyi 2:173; 8:69; 16:110; 41:32
+- #35 Ash Shakoor   Owebaza (asiima obuweereza obutono) 35:30; 35:34; 42:23; 64:17
+- #36 Al Aliyy      Owa Waggulu 4:34; 31:30; 42:4; 42:51
+- #37 Al Kabeer     Omukulu Okusinga Byonna 13:9; 22:62; 31:30
+- #38 Al Hafeez     Omukuumi (akuuma ebintu byonna) 11:57; 34:21; 42:6
+- #39 Al Muqeet     Omulabirizi w'Emiriira 4:85
+- #40 Al Haseeb     Omubazi (abala ebikolwa byonna) 4:6; 4:86; 33:39
+- #41 Al Jaleel     Ow'Ekitiibwa n'Obukulu 55:27; 39:14; 7:143
+- #42 Al Kareem     Omugabi (ow'ekisa n'obugabi obw'amaanyi) 27:40; 82:6
+- #43 Ar Raqeeb     Omwekaliriza (atunuulira byonna bulijjo) 4:1; 5:117
+- #44 Al Mujeeb     Owanukula 11:61
+- #45 Al Waasi'     Ow'Obugazi (obuyinza n'okusaasira kwe bijjuza byonna) 2:268; 3:73; 5:54
+- #46 Al Hakeem     Omugezi 31:27; 46:2; 57:1; 66:2
+- #47 Al Wudood     Ayagala Ennyo (ow'okwagala okusukkirira) 11:90; 85:14
+- #48 Al Majeed     Ow'Ekitiibwa n'Ekisa 11:73
+- #49 Al Baa'ith    Okuzuukiza 22:7
+- #50 Ash Shaheed   Omujulizi 4:166; 22:17; 41:53; 48:28
+- #51 Al Haqq       Amazima 6:62; 22:6; 23:116; 24:25
+- #52 Al Wakeel     Omwesigwa (gwe beesiga mu bintu byonna) 3:173; 4:171; 28:28; 73:9
+- #53 Al Qawiyy     Ow'Amaanyi 22:40; 22:74; 42:19; 57:25
+- #54 Al Mateen     Omugumu (atatetenkanya) 51:58
+- #55 Al Waliyy     Mukwano gwaffe Omukuumi 4:45; 7:196; 42:28; 45:19
+- #56 Al Hameed     Owebazibwa 14:8; 31:12; 31:26; 41:42
+- #57 Al Muhsi      Omubazi w'Ebintu Byonna (n'ebitonotono) 72:28; 78:29; 82:10-12
+- #58 Al Mubdi      Omutandisi 10:34; 27:64; 29:19; 85:13
+- #59 Al Mu'eed     Okuzzaawo 10:34; 27:64; 29:19; 85:13
+- #60 Al Muhiy      Omuwuzi w'Obulamu 7:158; 15:23; 30:50; 57:2
+- #61 Al Mumeet     Omuwuzi w'Okufa 3:156; 7:158; 15:23; 57:2
+- #62 Al Haiyy      Omulamu Ennyo (Omulamu w'Emirembe n'Emirembe) 2:255; 3:2; 25:58; 40:65
+- #63 Al Qayyoom    Eyeemalirira (ali obulamu awatali kwesigama ku muntu) 2:255; 3:2; 20:111
+- #64 Al Waajid     Omuzuula (azuula buli ky'ayagala) 38:44
+- #65 Al Maajid     Ow'Ekitiibwa n'Ekisa Ekingi 11:73
+- #66 Al Waahid     Omu (mu buli kintu — obutonzi, obulamu n'emirimu) 2:163; 5:73; 9:31; 18:110
+- #67 Al Ahad       Omulala (ataliiko mugattibwa) 112:1
+- #68 As Samad      Asinzibwako (buli muntu amwesigamiziza) 112:2
+- #69 Al Qaadir     Ayinza Byonna 6:65; 36:81; 46:33; 75:40
+- #70 Al Muqtadir   Ow'Obuyinza Obukulu (asalawo ku byonna) 18:45; 54:42; 54:55
+- #71 Al Muqaddim   Okukulembera (atikka oyo gw'ayagala) 16:61; 17:34
+- #72 Al Mu'akhir   Okukawummula (alwisa oyo gw'ayagala) 71:4
+- #73 Al Awwal      Owasooka 57:3
+- #74 Al Aakhir     Owasembayo 57:3
+- #75 Az Zaahir     Omweyolefu 57:3
+- #76 Al Baatin     Omukyama (akwekeddwa) 57:3
+- #77 Al Waali      Omufuzi 13:11; 22:7
+- #78 Al Muta'ali   Ow'Waggulu Ennyo (asukkirira byonna) 13:9
+- #79 Al Barr       Ensibuko y'Ebirungi 52:28
+- #80 At Tawwaab    Omunyiri (akkiriza okwenenya) 2:128; 4:64; 49:12; 110:3
+- #81 Al Muntaqim   Omwegalanira 32:22; 43:41; 44:16
+- #82 Al Afuww      Omusonyiyi (asangula ekibi ddala) 4:99; 4:149; 22:60
+- #83 Ar Ra'oof     Ow'Ekisa Ekingi (Omusaasizi w'ekitalo) 3:30; 9:117; 57:9; 59:10
+- #84 Maalik Ul Mulk    Nannyini Bwami 3:26
+- #85 Dhu Al Jalaali Wa Al Ikraam   Nannyini Kitibwa n'Ekisa 55:27; 55:78
+- #86 Al Muqsit     Omwenkanya 3:18; 7:29
+- #87 Al Jaami'     Okuŋŋaanya 3:9
+- #88 Al Ghaniyy    Omugagga (atali na kyetaaga) 3:97; 39:7; 47:38; 57:24
+- #89 Al Mughni     Okugaggawaza 9:28
+- #90 Al Maani'     Okuziyiza 67:21
+- #91 Ad Daaarr     Okuwanga Obunaku 6:17
+- #92 An Naafi'     Okuwanga Omuganyulo 30:37
+- #93 An Noor       Omusana 24:35
+- #94 Al Haadi      Omulungamya 25:31
+- #95 Al Badi'      Omutandisi w'Ebintu Ebiggya (biteekateeka na ngeri ya njawulo) 2:117; 6:101
+- #96 Al Baaqi      Owa Ssekye 55:27
+- #97 Al Waarith    Omusikizi 15:23
+- #98 Ar Rasheed    Omulungamya ku Kkubo 2:256
+- #99 As Saboor     Omugumiikiriza 2:153; 3:200; 103:3
 noblequran.com Schemas
 - Abashiriki ba Makka bakakasa Ruboobiyyah (Obukama) bwa Allah 10:31; 23:84; 29:61, 63; 31:25; 39:38; 43:9; 43:87
 - Ekitabo n'Amagezi (Sunnah) 2:129; 2:151; 2:231; 3:164; 4:113; 33:34; 62:2

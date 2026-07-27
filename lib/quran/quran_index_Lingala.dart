@@ -2694,105 +2694,105 @@ Rub (1/8)
 - Rub 240 100:9-11; 101:1-11; 102:1-8; 103:1-3; 104:1-9; 105:1-5; 106:1-4; 107:1-7; 108:1-3; 109:1-6; 110:1-3; 111:1-5; 112:1-4; 113:1-5; 114:1-6
 The 99 Names of Allah
 - #0 Best of Names 7:180; 20:8; 59:24
-- #1 Ar Rahmaan 	The Most Compassionate 1:3; 17:110
-- #2 Ar Raheem 	The Most Merciful 2:163; 3:31; 4:100; 5:3
-- #3 Al Malik 	The King, The Sovereign 20:114; 23:116; 59:23; 62:1
-- #4 Al Quddus 	The Absolutely Pure 59:23; 62:1
-- #5 As Salaam 	The Source of Peace 59:23
-- #6 Al Mu'min 	The Giver of Faith and Security 59:23
-- #7 Al Muhaymin 	The Guardian, The Protector 59:23
-- #8 Al Azeez 	The Almighty 3:6; 4:158; 9:40; 48:7
-- #9 Al Jabbaar 	The Compeller, The Restorer 59:23
-- #10 Al Mutakabbir 	The Supreme, The Majestic 59:23
-- #11 Al Khaaliq 	The Creator 6:102; 13:16; 39:62; 40:62; 59:24
-- #12 Al Baari 	The Maker from Nothing 59:24
-- #13 Al Musawwir 	The Fashioner 59:24
-- #14 Al Ghaffaar 	The All-Forgiving 20:82; 38:66; 39:5; 40:42; 71:10
-- #15 Al Qahhaar 	The Subduer 13:16; 14:48; 38:65; 39:4; 40:16
-- #16 Al Wahhaab 	The Bestower 3:8; 38:9; 38:35
-- #17 Ar Razzaaq 	The Provider 51:58
-- #18 Al Fattaah 	The Opener 34:26
-- #19 Al 'Aleem 	The All-Knowing 2:158; 3:92; 4:35; 24:41; 33:40
-- #20 Al Qaabid 	The Withholder 2:245
-- #21 Al Baasit   The Expander  2:245
-- #22 Al Khaafid  The Abaser 95:5
-- #23 Ar Raafi'   The Exalter 58:11; 6:83
-- #24 Al Mu'izz   The Honorer  3:26
-- #25 Al Mudhil   The Humbler  3:26
-- #26 As Samee'   The All-Hearing 2:127; 2:256; 8:17; 49:1
-- #27 Al Baseer   The All-Seeing  4:58; 17:1; 42:11; 42:27
-- #28 Al Hakam    The Judge 22:69
-- #29 Al Adl      The Just  6:115
-- #30 Al Lateef   The Subtle, The Gentle 6:103; 22:63; 31:16; 33:34
-- #31 Al Khabeer  The All-Aware 6:18; 17:30; 49:13; 59:18
-- #32 Al Haleem   The Forbearing  2:235; 17:44; 22:59; 35:41
-- #33 Al 'Azeem   The Magnificent 2:255; 42:4; 56:96
-- #34 Al Ghafoor  The Great Forgiver  2:173; 8:69; 16:110; 41:32
-- #35 Ash Shakoor The Appreciative  35:30; 35:34; 42:23; 64:17
-- #36 Al Aliyy    The Most High 4:34; 31:30; 42:4; 42:51
-- #37 Al Kabeer   The Greatest  13:9; 22:62; 31:30
-- #38 Al Hafeez   The Preserver 11:57; 34:21; 42:6
-- #39 Al Muqeet   The Sustainer 4:85
-- #40 Al Haseeb   The Reckoner  4:6; 4:86; 33:39
-- #41 Al Jaleel   The Majestic  55:27; 39:14; 7:143
-- #42 Al Kareem   The Generous  27:40; 82:6
-- #43 Ar Raqeeb   The Watchful  4:1; 5:117
-- #44 Al Mujeeb   The Responsive 11:61
-- #45 Al Waasi'   The All-Encompassing 2:268; 3:73; 5:54
-- #46 Al Hakeem   The All-Wise  31:27; 46:2; 57:1; 66:2
-- #47 Al Wudood   The Most Loving 11:90; 85:14
-- #48 Al Majeed   The Glorious  11:73
-- #49 Al Baa'ith  The Resurrector 22:7
-- #50 Ash Shaheed The Witness 4:166; 22:17; 41:53; 48:28
-- #51 Al Haqq     The Truth 6:62; 22:6; 23:116; 24:25
-- #52 Al Wakeel   The Trustee 3:173; 4:171; 28:28; 73:9
-- #53 Al Qawiyy   The Strong  22:40; 22:74; 42:19; 57:25
-- #54 Al Mateen   The Firm  51:58
-- #55 Al Waliyy   The Protecting Friend 4:45; 7:196; 42:28; 45:19
-- #56 Al Hameed   The Praiseworthy  14:8; 31:12; 31:26; 41:42
-- #57 Al Muhsi    The Counter 72:28; 78:29; 82:10-12
-- #58 Al Mubdi    The Originator 10:34; 27:64; 29:19; 85:13
-- #59 Al Mu'eed   The Restorer  10:34; 27:64; 29:19; 85:13
-- #60 Al Muhiy    The Giver of Life 7:158; 15:23; 30:50; 57:2
-- #61 Al Mumeet   The Bringer of Death  3:156; 7:158; 15:23; 57:2
-- #62 Al Haiyy    The Ever-Living 2:255; 3:2; 25:58; 40:65
-- #63 Al Qayyoom  The Self-Subsisting 2:255; 3:2; 20:111
-- #64 Al Waajid   The Finder 38:44
-- #65 Al Maajid   The Noble 11:73
-- #66 Al Waahid   The One 2:163; 5:73; 9:31; 18:110
-- #67 Al Ahad     The Unique One  112:1
-- #68 As Samad    The Eternal Refuge   112:2
-- #69 Al Qaadir   The Able  6:65; 36:81; 46:33; 75:40
-- #70 Al Muqtadir The Powerful  18:45; 54:42; 54:55
-- #71 Al Muqaddim The Expediter 16:61; 17:34
-- #72 Al Mu’akhir The Delayer  71:4
-- #73 Al Awwal    The First 57:3
-- #74 Al Aakhir   The Last 57:3
-- #75 Az Zaahir   The Manifest  57:3
-- #76 Al Baatin   The Hidden 57:3
-- #77 Al Waali    The Governor  13:11; 22:7
-- #78 Al Muta’ali The Most Exalted 13:9
-- #79 Al Barr     The Source of Goodness 52:28
-- #80 At Tawwaab  The Acceptor of Repentance 2:128; 4:64; 49:12; 110:3
-- #81 Al Muntaqim The Avenger 32:22; 43:41; 44:16
-- #82 Al Afuww    The Pardoner 4:99; 4:149; 22:60
-- #83 Ar Ra’oof   The Most Kind 3:30; 9:117; 57:9; 59:10
-- #84 Maalik Ul Mulk  Master of the Kingdom 3:26
-- #85 Dhu Al Jalaali Wa Al Ikraam,  Lord of Majesty and Honor 55:27; 55:78
-- #86 Al Muqsit   The Just One 3:18; 7:29
-- #87 Al Jaami'   The Gatherer  3:9
-- #88 Al Ghaniyy  The Self-Sufficient 3:97; 39:7; 47:38; 57:24
-- #89 Al Mughni   The Enricher  9:28
-- #90 Al Maani'   The Preventer 67:21
-- #91 Ad Daaarr   The Distresser 6:17
-- #92 An Naafi’   The Benefactor  30:37
-- #93 An Noor     The Light 24:35
-- #94 Al Haadi    The Guide 25:31
-- #95 Al Badi'    The Originator  2:117; 6:101
-- #96 Al Baaqi    The Everlasting 55:27
-- #97 Al Waarith  The Inheritor 15:23
-- #98 Ar Rasheed  The Guide to the Right Path 2:256
-- #99 As Saboor   The Patient 2:153; 3:200; 103:3
+- #1 Ar Rahmaan     Azali na ngolu monene 1:3; 17:110
+- #2 Ar Raheem      Azali na ngolu 2:163; 3:31; 4:100; 5:3
+- #3 Al Malik       Mokonzi 20:114; 23:116; 59:23; 62:1
+- #4 Al Quddus      Molato (Ye oyo azali peto koleka nyonso) 59:23; 62:1
+- #5 As Salaam      Mosisa ya kimia 59:23
+- #6 Al Mu'min      Azali kopesa bondimi na kimia 59:23
+- #7 Al Muhaymin    Mokengeli (Ye oyo akengelaka biloko nyonso) 59:23
+- #8 Al Azeez       Azali na nguya, moto moko te akoki kolonga ye 3:6; 4:158; 9:40; 48:7
+- #9 Al Jabbaar     Mobongisi ya makasi (Ye oyo asembolaka na nguya) 59:23
+- #10 Al Mutakabbir Amilakisi na bonene, ye moko azali na lokumu ya solo 59:23
+- #11 Al Khaaliq    Mokeli (Ye oyo akeli biloko nyonso) 6:102; 13:16; 39:62; 40:62; 59:24
+- #12 Al Baari      Mobimisi (Ye oyo abimisi biloko na ndenge ekoki) 59:24
+- #13 Al Musawwir   Azali kopesa eloko bizaleli 59:24
+- #14 Al Ghaffaar   Molimbisi 20:82; 38:66; 39:5; 40:42; 71:10
+- #15 Al Qahhaar    Azali kobotola 13:16; 14:48; 38:65; 39:4; 40:16
+- #16 Al Wahhaab    Azali kopesa 3:8; 38:9; 38:35
+- #17 Ar Razzaaq    Azali kopesa bilei 51:58
+- #18 Al Fattaah    Azali kofungola 34:26
+- #19 Al 'Aleem     Azali koyeba 2:158; 3:92; 4:35; 24:41; 33:40
+- #20 Al Qaabid     Azali kokangisa 2:245
+- #21 Al Baasit     Azali kopanzana 2:245
+- #22 Al Khaafid    Azali kokitisa 95:5
+- #23 Ar Raafi'     Azali komatisa 58:11; 6:83
+- #24 Al Mu'izz     Azali kopesa lokumu 3:26
+- #25 Al Mudhil     Azali kokitisa lokumu 3:26
+- #26 As Samee'     Azali koyoka 2:127; 2:256; 8:17; 49:1
+- #27 Al Baseer     Azali komona 4:58; 17:1; 42:11; 42:27
+- #28 Al Hakam      Mokatisi 22:69
+- #29 Al Adl        Azali na bosembo 6:115
+- #30 Al Lateef     Azali na motema malamu 6:103; 22:63; 31:16; 33:34
+- #31 Al Khabeer    Azali koyeba makambo nyonso, ata oyo ebombani 6:18; 17:30; 49:13; 59:18
+- #32 Al Haleem     Azali na kikuma 2:235; 17:44; 22:59; 35:41
+- #33 Al 'Azeem     Azali na bonene ya solo 2:255; 42:4; 56:96
+- #34 Al Ghafoor    Molimbisi 2:173; 8:69; 16:110; 41:32
+- #35 Ash Shakoor   Azali kopesa matondi 35:30; 35:34; 42:23; 64:17
+- #36 Al Aliyy      Azali likolo 4:34; 31:30; 42:4; 42:51
+- #37 Al Kabeer     Azali monene koleka nyonso 13:9; 22:62; 31:30
+- #38 Al Hafeez     Mobateli (Ye oyo abombaka mpe abatelaka) 11:57; 34:21; 42:6
+- #39 Al Muqeet     Azali kopesa bokasi (na bilei) 4:85
+- #40 Al Haseeb     Azali kotanga (mokatisi ya milapo) 4:6; 4:86; 33:39
+- #41 Al Jaleel     Azali na lokumu 55:27; 39:14; 7:143
+- #42 Al Kareem     Azali na boboto 27:40; 82:6
+- #43 Ar Raqeeb     Azali kotala 4:1; 5:117
+- #44 Al Mujeeb     Azali koyanola 11:61
+- #45 Al Waasi'     Akokisaka biloko nyonso (bozali na Ye ezali monene mpenza) 2:268; 3:73; 5:54
+- #46 Al Hakeem     Azali na bwanya 31:27; 46:2; 57:1; 66:2
+- #47 Al Wudood     Azali kolinga 11:90; 85:14
+- #48 Al Majeed     Azali na lokumu 11:73
+- #49 Al Baa'ith    Azali kosekwisa (bawa) 22:7
+- #50 Ash Shaheed   Nzeneneke 4:166; 22:17; 41:53; 48:28
+- #51 Al Haqq       Ya solo 6:62; 22:6; 23:116; 24:25
+- #52 Al Wakeel     Mondimami (Ye oyo bakotielaka mitema mpo na makambo) 3:173; 4:171; 28:28; 73:9
+- #53 Al Qawiyy     Azali makasi 22:40; 22:74; 42:19; 57:25
+- #54 Al Mateen     Azali makasi, akoningana te 51:58
+- #55 Al Waliyy     Moninga mobateli 4:45; 7:196; 42:28; 45:19
+- #56 Al Hameed     Akopesamaka matondi 14:8; 31:12; 31:26; 41:42
+- #57 Al Muhsi      Azali kotanga (moto na moto, na milimo mpe misala) 72:28; 78:29; 82:10-12
+- #58 Al Mubdi      Azali kobanda 10:34; 27:64; 29:19; 85:13
+- #59 Al Mu'eed     Azali kozongisa 10:34; 27:64; 29:19; 85:13
+- #60 Al Muhiy      Azali kopesa bomoi 7:158; 15:23; 30:50; 57:2
+- #61 Al Mumeet     Azali kopesa liwa 3:156; 7:158; 15:23; 57:2
+- #62 Al Haiyy      Azali na bomoi 2:255; 3:2; 25:58; 40:65
+- #63 Al Qayyoom    Azali wana uta ntango nyonso, azali ye moko na bomoi 2:255; 3:2; 20:111
+- #64 Al Waajid     Azali kozwa (nyonso oyo alingi) 38:44
+- #65 Al Maajid     Azali na lokumu monene 11:73
+- #66 Al Waahid     Azali se moko (na botiki, na bizaleli, na misala) 2:163; 5:73; 9:31; 18:110
+- #67 Al Ahad       Azali se moko, moko ya solo 112:1
+- #68 As Samad      Azali libateli ya seko (moto nyonso azalaka na mposa na Ye) 112:2
+- #69 Al Qaadir     Akoki kosala nyonso 6:65; 36:81; 46:33; 75:40
+- #70 Al Muqtadir   Azali na nguya ekoki na nyonso, akataka makambo 18:45; 54:42; 54:55
+- #71 Al Muqaddim   Azali koya liboso (kotia makambo liboso) 16:61; 17:34
+- #72 Al Mu'akhir   Azali kokitisa (kotia makambo nsima) 71:4
+- #73 Al Awwal      Ezali ya liboso 57:3
+- #74 Al Aakhir     Ezali ya suka 57:3
+- #75 Az Zaahir     Azali komonana 57:3
+- #76 Al Baatin     Azali kobombana 57:3
+- #77 Al Waali      Azali kokamba 13:11; 22:7
+- #78 Al Muta'ali   Azali likolo koleka nyonso 13:9
+- #79 Al Barr       Azali kopesa bolamu 52:28
+- #80 At Tawwaab    Azali kondima tuba 2:128; 4:64; 49:12; 110:3
+- #81 Al Muntaqim   Azali kopesa etumbu 32:22; 43:41; 44:16
+- #82 Al Afuww      Azali kolimbisa (kolongola masumu nyonso) 4:99; 4:149; 22:60
+- #83 Ar Ra'oof     Azali na ngolu makasi 3:30; 9:117; 57:9; 59:10
+- #84 Maalik Ul Mulk    Mokonzi ya bokonzi nyonso 3:26
+- #85 Dhu Al Jalaali Wa Al Ikraam   Mokonzi ya lokumu mpe ya boboto 55:27; 55:78
+- #86 Al Muqsit     Azali na bosembo 3:18; 7:29
+- #87 Al Jaami'     Azali kosangisa 3:9
+- #88 Al Ghaniyy    Azali na bomengo, azangi eloko te 3:97; 39:7; 47:38; 57:24
+- #89 Al Mughni     Azali kopesa bomengo 9:28
+- #90 Al Maani'     Azali kopekisa 67:21
+- #91 Ad Daaarr     Azali kopesa mpasi (na bwanya na Ye) 6:17
+- #92 An Naafi'     Azali kopesa litomba 30:37
+- #93 An Noor       Mwinda 24:35
+- #94 Al Haadi      Mokambi (na nzela ya semba) 25:31
+- #95 Al Badi'      Mobandi (Ye oyo abandi biloko na ndenge moko te ekutanaki liboso) 2:117; 6:101
+- #96 Al Baaqi      Azali wana seko 55:27
+- #97 Al Waarith    Azali kozwa (biloko nyonso, na suka) 15:23
+- #98 Ar Rasheed    Mokambi ya nzela ya semba 2:256
+- #99 As Saboor     Azali na kikuma 2:153; 3:200; 103:3
 noblequran.com Schemas
 - Baye baza Mushrik ya Makka bandimaki Allah na Ruboobiyyah (Bokonzi) 10:31; 23:84; 29:61, 63; 31:25; 39:38; 43:9; 43:87
 - Buku mpe mayele (Sunnah) 2:129; 2:151; 2:231; 3:164; 4:113; 33:34; 62:2
