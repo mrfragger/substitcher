@@ -2792,4 +2792,69 @@ The 99 Names of Allah
 - #97 Al Waarith  The Inheritor 15:23
 - #98 Ar Rasheed  The Guide to the Right Path 2:256
 - #99 As Saboor   The Patient 2:153; 3:200; 103:3
+noblequran.com Schemas
+- So manga Mushrik sa Makkah na piyanarima iran so Rububiyyah (Kapangulowa) o Allah 10:31; 23:84; 29:61, 63; 31:25; 39:38; 43:9; 43:87
+- So Kitab go so Ikmah (Sunnah) 2:129; 2:151; 2:231; 3:164; 4:113; 33:34; 62:2
+- So Kadonoraya ko lalan o manga lokes iran (a taralbi) na Kiyapasangan 2:170; 31:21; 43:22
+- So Sogo o Allah na Manosiya bo 10:2; 16:43; 17:93; 18:110; 21:3; 21:34; 25:7; 25:20; 41:6
+- So manga Mushrik na sii bo ko Allah gi-i siran Panonongganoy ko masa a marata 10:22; 17:16; 29:65; 31:32
+- So Kapapasang ko Agama na Kiyabaraan go Kiyapasangan 3:103, 105; 6:159; 30:31; 42:13-14; 98:4
+- So Sifat a Istiwaa ko Allah 2:29; 7:57; 10:3; 13:2; 20:5; 25:59; 32:4; 41:11; 57:4
+- So Kapthaudi (go Kapkorang) o Iman 3:173; 8:2; 9:124; 33:22; 48:4; 74:31
+- So Sogo go da a isa bo ko Manga Kaadn a Katawan iran so Migagaib sa di ba Aya 2:33; 3:44; 3:179; 5:109; 5:116; 6:50, 59; 7:188; 10:20; 11:31, 123; 11:49; 12:102; 18:26; 27:65; 31:34; 34:3, 14, 48; 72:26
+- So Allah na Pukhaparakn Iyan go Pukhasimpitn Iyan so Rizki ko taw a kabaya Iyan 17:30; 28:82; 29:62; 30:37; 34:36, 39; 39:52; 42:12, 27
+- So Qur'an na Initoron sa Basa Arab a Mapayag 12:2; 13:37; 16:103; 20:113; 26:195; 39:28; 41:3, 44; 43:3; 46:12
+- So Allah na di Puphangolawla ko Ginawa sa di khagaga niyan 2:233, 286; 6:152; 7:42; 23:62; 65:7
+- Da a Phamawid ko Awid o pud iyan a salakaw 6:164; 17:15; 35:18; 39:7; 53:38
+- Amay ka Sogoon ka o Allah so Morala na da a Phakapokas oto inonta so Allah 6:17; 10:107
+- Antawaa i Lawan a Salimbot ko taw a... 2:114, 140; 6:21, 93, 144, 157; 7:37; 10:17; 11:18; 18:15, 57; 29:68; 32:22; 39:32; 61:7
+- So Manosiya na Da Puthataroa ko Kadaklan a Limo go Puphangalimbaba ko Kailangan 10:12, 21; 11:9; 17:83; 30:33, 36; 39:8, 49
+- So Katatakna (Tathbeet) na Puphangnien ko Allah go Sukanian i Puphagumbal 2:250; 3:147; 8:12, 45; 11:120; 14:27; 16:102; 25:32; 47:7
+- So langon a Kasosoray na Phakandoda ko Allah go so Sogo Iyan 4:59, 65, 115; 24:51, 63; 33:36; 42:10
+- So Kambantaian a pantag ko manga Taw ko Naraka 26:96-102; 38:58-64; 40:47-50
+- So Kapaki-Onot (Taa'ah) ko Sogo o Allah na Kiyapaliyogat 3:32, 132; 4:13, 59, 64, 69, 80; 5:92; 8:1, 20, 24, 46; 9:71; 24:51-52, 54, 56; 33:33, 66, 71; 47:33; 48:17; 49:14; 64:12
+- So manga Ayat a Sujud ko Qur'an 7:206; 13:15; 16:49; 19:58; 22:18, 77; 25:60; 27:26; 32:15; 41:38; 53:62; 84:21; 96:19
+- So langon a Tiyoba a Miyakatana ko Ummah na Phowono ko Kaonotan 3:165; 4:79; 22:10; 30:36, 41; 42:30, 48; 16:112
+- So sadun sa Sasabuti o Allah na Da a Makatoro ron 13:33; 39:23, 26; 40:33; 7:186; 18:17
+- So langon a manga Nabi na Piyanongkaan iran so Kapakammbagowa sa Tawhid ko Ibadat 5:72, 11:50, 61, 84; 16:36; 21:25; 23:23; 29:16
+- So Kambenar go Limo na Miyakasosoray ko Kasoti (Tazkiyah) o Ginawa 20:76; 35:18; 87:14; 91:9; 92:18
+- So langon a Bantogan go Bagur (Izzah) na ruk o Allah 4:139; 10:65; 35:10; 63:8
+- So Kapangni ko Allah bo a Somisota go Mapayag na Kiyapaliyogat 2:186; 6:41; 7:29, 55-56, 180; 17:110; 40:14, 60, 65
+- So Kiyabaraan sa Kapangni ko salakaw a pud ko Allah 10:106; 23:117; 25:68; 26:213; 28:88; 72:18
+- So langon a manga Nabi na Inisogo iran so Ipangongonotan ko Allah (Taqwa) go so Kapaki-Onot (kiran) 43:63; 71:1-28
+- Pantag ko Hijrah (Kaipos) 2:218; 3:195; 4:97, 100; 8:72, 74-75; 9:20; 16:41, 110; 22:58; 29:26, 56; 39:10
+- Da a Bunar a Pumamakalinding odi na Phanabang ko Kaadn inonta so Allah 2:107, 120; 9:74, 116; 29:22; 42:31
+- So siran a Ipuphangatapan o Allah so manga Poso iran 4:155; 7:100-101; 9:87, 93; 10:74; 16:108; 30:59; 40:35; 48:16; 63:3
+- So Iman na Pukhatanto ko Kaan-gaw go so Panginam 17:57; 32:16; 39:9
+- Pantag ko Kagangkag ko langon a Galubuk sabap ko Kufr, Shirk go Nifaq 2:217; 3:22; 5:5, 53; 6:88; 7:147; 9:17, 69; 11:16; 18:105; 33:19; 39:65; 47:9, 28, 32; 49:2
+- So manga Wahi go so manga Nabi o Allah na siran so manga Sindaw a Torowan, Katao go Iman 5:44, 46; 6:91, 122; 7:157; 14:1, 5; 21:48; 22:8; 35:25; 39:22; 42:52; 57:9, 12, 19, 28; 64:8; 66:8
+- So siran a Puphangalinen niran so manga Katharo na siran so manga Yahud go so manga Taw o Ta'weel (Tahreef) 2:75; 4:46; 5:13; 5:41
+- So Kaoyagoyag ko Doniya na matag Kapakaligan a Mapatot bo 3:185; 6:32; 9:38; 10:24; 13:26; 18:45-46; 28:60; 42:36; 47:36; 57:26
+- So Dahriyyah (siran a Di ba-Rimbaran ko Adun a Allah) 45:24; 6:29; 23:37
+- So Allah na Siyogo Iyan so Muhammad rakhus o Agama sa an niyan Kaphagulaw ko langon a Agama a salakaw (a Miyapasang odi na Kabokhagan) 9:33; 48:28; 61:9
+- Pantag ko Taghut go so Kiyapaliyogat sa Kaongkira ron 2:256-257; 4:51, 60, 76; 5:60; 16:36; 39:17
+- Siran na Puphagantangan siran, go so Allah na Puphagantangan Iyan, go Sukanian i Lawan a Mapiya ko manga Puphagantangan 3:54; 6:123; 7:99; 8:30; 10:21; 13:42; 16:26, 45, 127; 14:46; 27:50-51; 70; 35:43
+- So Katao ko Bangkit na sii bo ko Allah 7:187; 33:63; 41:47
+- Furqan (Kambidaan) 2:53, 185; 3:4; 8:29, 41; 21:48; 25:1
+- So Kaphagumbal ko Marata sa so Mapiya 23:96; 28:54; 41:34
+- So Bangkit na Miyakarani a Titho 16:77; 17:51; 21:1; 42:17; 54:1; 70:7
+- Go pud ko manga Tanda Iyan... 20:46; 30:20-25; 41:37, 39; 42:29; 42:32
+- So Allah na Puphagosayan Iyan so manga Tanda Iyan ka an kano... 2:73, 187, 221, 242; 3:103; 5:89
+- So Allah na Miyadun ko langon a Shay' 6:73, 101-102; 13:16; 14:10; 21:33; 24:45; 25:2, 59; 37:96; 39:62; 40:62
+- So Allah na da niyan Pagadna so Kaadn sa ka-oto-otawa odi na Kapapawa 21:16; 38:27; 44:38; 46:3
+- So Allah na Piyadn Iyan so Manosiya ka an Iran Pushowasoba so bo Sukanian go an Iyan Matiyoba so Antawaa i Mapiya ko Galubuk 11:7; 18:7; 51:56; 67:2
+- So Allah na Piyakiya Iyan so manga Sogo ka an Iyan Ipananawagan so Kasowasoba Rukaniyan, go an siran Puphangonotan, go Pumbabantogan go Pumbabaka 2:213; 4:64, 165; 6:48; 16:36; 18:56; 21:25
+- So Pat a Darakat o Qadar 5:97; 6:59; 10:61; 22:70; 27:75; 30:54; 37:96; 39:62; 57:22; 76:30; 81:29
+- So manga Ontol go Bantak o Ibadat 1:5; 2:150; 3:19, 85, 185; 4:125, 136; 5:23; 6:162; 8:9; 17:110; 18:110; 21:90; 22:34; 23:117; 31:22; 39:54; 40:60; 64:8; 65:3; 76:7; 108:2; 113:1; 114:1
+- So Allah na Puthoro go Pukhasabuti sa Taw a kabaya Iyan 14:4; 16:93; 35:8; 74:31
+- So siran a Sasabuti o Allah 2:26; 9:115; 14:27; 40:34, 74; 45:23
+- Da a Makatoro ko Sasabuti o Allah 4:88; 7:178; 13:33; 18:17; 30:29; 39:23, 36; 40:33; 42:44, 46
+- Kiyapagorina ko oman i Kasusunda ko Allah 2:22; 19:65; 42:11; 112:4
+- So Allah na di Phakasalimbot sa isa bo, ogaid na siran i Puphakasalimbot ko manga Ginawa iran 3:182; 8:51; 10:44; 16:33, 118; 22:10; 30:9; 41:46; 50:29; 11:101
+- So Kapangonotan ko Salaf (Sahabah) na Kiyapaliyogat 2:137; 9:100; 4:115; 48:18, 29
+- So Ontol ko Kambogai sa Da'wah 12:108; 16:125; 29:46
+- So Shirk na kena bo matatago ko manga Barhala, ka pud iyan so Kapangni sa Shafa'at pantag ko manga Nabi, manga Malaikat, manga Jinn go manga Taw a Mapiya 5:116; 10:18; 17:57; 26:69; 34:40; 35:14; 39:3
+- So manga Punggula ko Miyakatarotop a Ontol ko Kaphangaromaan 4:6; 6:152; 24:59
+- So Jibril na Sukanian i Ruh a Sanktowan, Kapangowatan a Kiyawitan Iyan ko Qur'an pho-on ko Allah taman ko Sogo 2:97; 16:102; 26:192
+- So Tabang, Kapangalowan go Kapumbaka na ruk o Allah go so manga Sogo Iyan 30:47; 37:171-173; 40:51; 58:21
 """;

@@ -2791,4 +2791,69 @@ The 99 Names of Allah
 - #97 Al-Warith    Ang Tagapagmana ng Lahat  15:23
 - #98 Ar-Rashid    Ang Patnubay sa Tamang Landas  2:256
 - #99 As-Sabur     Ang Matiyaga  2:153; 3:200; 103:3
+noblequran.com Schemas
+- Kinumpirma ng mga Mushrik ng Makkah ang Ruboobiyyah (Pagka-Panginoon) ni Allah 10:31; 23:84; 29:61, 63; 31:25; 39:38; 43:9; 43:87
+- Ang Aklat at ang Karunungan (ang Sunnah) 2:129; 2:151; 2:231; 3:164; 4:113; 33:34; 62:2
+- Ang pagsunod sa landas ng (nagliliwaliw) na mga ninuno ay kinondena 2:170; 31:21; 43:22
+- Ang Sugo ng Allah ay Tao 10:2; 16:43; 17:93; 18:110; 21:3; 21:34; 25:7; 25:20; 41:6
+- Ang mga Mushrik ay Tumatwag Lamang kay Allah sa Panahon ng Kahirapan 10:22; 17:16; 29:65; 31:32
+- Ang paghahati-hati sa Relihiyon ay Ipinagbabawal at Kinondena 3:103, 105; 6:159; 30:31; 42:13-14; 98:4
+- Ang Katangian ng Istiwaa para kay Allah 2:29; 7:57; 10:3; 13:2; 20:5; 25:59; 32:4; 41:11; 57:4
+- Ang Pagtaas (at Pagbaba) ng Imaan (Pananampalataya) 3:173; 8:2; 9:124; 33:22; 48:4; 74:31
+- Ang Sugo at Wala sa mga Nilalang ang Nakakaalam ng Hindi Nakikita nang Nakapag-iisa 2:33; 3:44; 3:179; 5:109; 5:116; 6:50, 59; 7:188; 10:20; 11:31, 123; 11:49; 12:102; 18:26; 27:65; 31:34; 34:3, 14, 48; 72:26
+- Si Allah ay Nagpapalaki at Naglilimita ng Panustos sa Sinumang Kanyang Nais 17:30; 28:82; 29:62; 30:37; 34:36, 39; 39:52; 42:12, 27
+- Ang Quran ay Ibinaba sa Malinaw na Wikang Arabe 12:2; 13:37; 16:103; 20:113; 26:195; 39:28; 41:3, 44; 43:3; 46:12
+- Hindi Nagpapasan si Allah ng Higit sa Kakayahan ng Isang Kaluluwa 2:233, 286; 6:152; 7:42; 23:62; 65:7
+- Walang Magpapasan ng Pasan ng Iba 6:164; 17:15; 35:18; 39:7; 53:38
+- Kung kayo ay Apektuhan ni Allah ng Kapinsalaan, Walang Makapag-aalis Nito Maliban kay Allah 6:17; 10:107
+- At Sino pa ang Higit na Mapang-api kaysa sa Isa na... 2:114, 140; 6:21, 93, 144, 157; 7:37; 10:17; 11:18; 18:15, 57; 29:68; 32:22; 39:32; 61:7
+- Ang Tao ay Walang Utang-na-Loob sa Kaginhawahan at Mapagpakumbaba sa Pangangailangan 10:12, 21; 11:9; 17:83; 30:33, 36; 39:8, 49
+- Ang Katatagan (Tathbeet) ay Hinihingi sa Allah at Ibinibigay ni Allah 2:250; 3:147; 8:12, 45; 11:120; 14:27; 16:102; 25:32; 47:7
+- Ang Lahat ng Pagkakaiba ay Isinusumite sa Allah at sa Kanyang Sugo 4:59, 65, 115; 24:51, 63; 33:36; 42:10
+- Ang Pagtatalo sa Pagitan ng mga Naninirahan sa Apoy ng Impiyerno 26:96-102; 38:58-64; 40:47-50
+- Ang Obligasyon ng Pagbibigay ng Pagsunod (Taa'ah) sa Sugo ng Allah 3:32, 132; 4:13, 59, 64, 69, 80; 5:92; 8:1, 20, 24, 46; 9:71; 24:51-52, 54, 56; 33:33, 66, 71; 47:33; 48:17; 49:14; 64:12
+- Ang mga Talata ng Pagpapatirapa sa Quran 7:206; 13:15; 16:49; 19:58; 22:18, 77; 25:60; 27:26; 32:15; 41:38; 53:62; 84:21; 96:19
+- Lahat ng mga Kapahamakan sa Ummah ay Dahil sa Pagsuway 3:165; 4:79; 22:10; 30:36, 41; 42:30, 48; 16:112
+- Ang Sinumang Ipaglihis ni Allah, Walang Makakapagpatnubay sa Kanya 13:33; 39:23, 26; 40:33; 7:186; 18:17
+- Lahat ng mga Propeta ay Nagsimula ng Pagtutuwid sa Tawheed ng Pagsamba 5:72, 11:50, 61, 84; 16:36; 21:25; 23:23; 29:16
+- Ang Tagumpay at Kaunlaran ay Kaugnay ng Tazkiyah (Pagdalisay) ng Kaluluwa 20:76; 35:18; 87:14; 91:9; 92:18;
+- Lahat ng Karangalan at Kapangyarihan ('Izzah) ay Kay Allah 4:139; 10:65; 35:10; 63:8
+- Ang Obligasyon na Tumawag Lamang kay Allah nang Dalisay at Tapat 2:186; 6:41; 7:29, 55-56, 180; 17:110; 40:14, 60, 65;
+- Ang Pagbabawal sa Pagtawag sa Iba na Kasama ni Allah 10:106; 23:117; 25:68; 26:213; 28:88; 72:18;
+- Lahat ng mga Propeta ay Nag-utos ng Taqwa kay Allah at Pagsunod (sa Kanilang Sarili) 43:63; 71:1-28
+- Tungkol sa Hijrah (Emigrasyon) 2:218; 3:195; 4:97, 100; 8:72, 74-75; 9:20; 16:41, 110; 22:58; 29:26, 56; 39:10
+- Walang Tunay na Tagapangalaga o Katulong para sa mga Nilalang Maliban kay Allah 2:107, 120; 9:74, 116; 29:22; 42:31
+- Yaong mga Puso na Tinatakan ni Allah 4:155; 7:100-101; 9:87, 93; 10:74; 16:108; 30:59; 40:35; 48:16; 63:3
+- Ang Imaan ay Nasa Pagitan ng Takot at Pag-asa 17:57; 32:16; 39:9
+- Tungkol sa Pagpapawalang-bisa ng Lahat ng Gawa sa Pamamagitan ng Kufr, Shirk at Nifaaq 2:217; 3:22; 5:5, 53; 6:88; 7:147; 9:17, 69; 11:16; 18:105; 33:19; 39:65; 47:9, 28, 32; 49:2
+- Ang mga Rebelasyon at mga Propeta ng Allah ay ang Liwanag ng Patnubay, Kaalaman at Pananampalataya 5:44, 46; 6:91, 122; 7:157; 14:1, 5; 21:48; 22:8; 35:25; 39:22; 42:52; 57:9, 12, 19, 28; 64:8; 66:8
+- Yaong mga Nagbaluktot ng mga Salita ay ang mga Yahood at ang mga Tao ng Ta'weel (Tahreef) 2:75; 4:46; 5:13; 5:41
+- Ang Buhay sa Mundo ay Panandaliang Kasiyahan at Libangan Lamang 3:185; 6:32; 9:38; 10:24; 13:26; 18:45-46; 28:60; 42:36; 47:36; 57:26
+- Ang Dahriyyah (Mga Ateista) 45:24; 6:29; 23:37
+- Ipinadala ni Allah si Muhammad na may Deen upang Mananaig sa Lahat ng Iba pang (Binasura o Huwad) na Relihiyon 9:33; 48:28; 61:9
+- Tungkol sa Taaghoot at ang Pangangailangan na Tanggihan ang Taaghoot 2:256-257; 4:51, 60, 76; 5:60; 16:36; 39:17
+- Sila ay Nagbabalak at si Allah ay Nagbabalak din at Siya ang Pinakamahusay sa mga Nagbabalak 3:54; 6:123; 7:99; 8:30; 10:21; 13:42; 16:26, 45, 127; 14:46; 27:50-51; 70; 35:43
+- Ang Kaalaman ng Huling Oras ay Nasa Allah 7:187; 33:63; 41:47
+- Ang Furqaan (Pamantayan) 2:53, 185; 3:4; 8:29, 41; 21:48; 25:1
+- Ang Pagsalungat sa Kasamaan ng Higit na Mabuti 23:96; 28:54; 41:34
+- Ang Huling Oras ay Malapit na 16:77; 17:51; 21:1; 42:17; 54:1; 70:7
+- At Kabilang sa Kanyang mga Tanda... 20:46; 30:20-25; 41:37, 39; 42:29; 42:32
+- Ipinapaliwanag ni Allah ang Kanyang mga Tanda upang Kayo... 2:73, 187, 221, 242; 3:103; 5:89
+- Si Allah ang Manlilikha ng Lahat ng Bagay 6:73, 101-102; 13:16; 14:10; 21:33; 24:45; 25:2, 59; 37:96; 39:62; 40:62
+- Hindi Nilikha ni Allah ang Paglikha sa Kasinungalingan o sa Pagbibiro 21:16; 38:27; 44:38; 46:3
+- Nilikha ni Allah ang Sangkatauhan upang Sambahin Siya Nang Nag-iisa at upang Subukan Sila Kung Sino ang Pinakamabuti sa Gawa 11:7; 18:7; 51:56; 67:2;
+- Nagsugo si Allah ng mga Sugo upang Tumawag sa Kanyang Pagsamba, upang Sundin, at bilang Tagapaghatid ng Magandang Balita at Tagapagbabala 2:213; 4:64, 165; 6:48; 16:36; 18:56; 21:25
+- Ang Apat na Antas ng al-Qadr 5:97; 6:59; 10:61; 22:70; 27:75; 30:54; 37:96; 39:62; 57:22; 76:30; 81:29;
+- Ang mga Anyo at Uri ng Pagsamba 1:5; 2:150; 3:19, 85, 185; 4:125, 136; 5:23; 6:162; 8:9; 17:110; 18:110; 21:90; 22:34; 23:117; 31:22; 39:54; 40:60; 64:8; 65:3; 76:7; 108:2; 113:1; 114:1
+- Si Allah ay Gumagabay at Nagliligaw sa Sinumang Kanyang Nais 14:4; 16:93; 35:8; 74:31
+- Yaong mga Ipinaglihis ni Allah 2:26; 9:115; 14:27; 40:34, 74; 45:23
+- Walang Makapagpapatnubay sa Ipinaglihis ni Allah 4:88; 7:178; 13:33; 18:17; 30:29; 39:23, 36; 40:33; 42:44, 46
+- Pagtanggi sa Anumang Katulad ni Allah 2:22; 19:65; 42:11; 112:4
+- Hindi Gumagawa ng Kawalang-katarungan si Allah sa Kaninuman, ngunit Sila ang Gumagawa ng Kawalang-katarungan sa Kanilang Sariling Kaluluwa 3:182; 8:51; 10:44; 16:33, 118; 22:10; 30:9; 41:46; 50:29; 11:101
+- Ang Obligasyon na Sundin ang Salaf (ang mga Sahaabah) 2:137; 9:100; 4:115; 48:18, 29
+- Ang Metodolohiya ng Pagbibigay ng Da'wah 12:108; 16:125; 29:46
+- Ang Shirk ay Hindi Limitado sa mga Idolo at Kasama ang Paghahanap ng Pamamagitan sa Pamamagitan ng mga Propeta, mga Anghel, mga Jinn, at mga Matuwid 5:116; 10:18; 17:57; 26:69; 34:40; 35:14; 39:3;
+- Ang mga Salik na Bumubuo sa Edad ng Pag-aasawa 4:6; 6:152; 24:59
+- Si Jibrīl ay ang Banal, Mapagkakatiwalaang Espiritu na Nagdala ng Qur'an mula kay Allah sa Propeta 2:97; 16:102; 26:192
+- Ang Tulong, Tagumpay at Pangingibabaw ay para kay Allah at sa Kanyang mga Sugo 30:47; 37:171-173; 40:51; 58:21
 """;

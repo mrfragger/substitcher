@@ -2791,4 +2791,69 @@ The 99 Names of Allah
 - #97 Al Waarith    Arvtagaren, Den som ärver allt 15:23
 - #98 Ar Rasheed    Vägledaren, Den rättfärdige läraren 2:256
 - #99 As Saboor     Den tålmodige, Den tidlöse 2:153; 3:200; 103:3
+noblequran.com Schemas
+- Mushrikerna i Mekka bekräftade Allahs Ruboobiyyah (Herravälde) 10:31; 23:84; 29:61, 63; 31:25; 39:38; 43:9; 43:87
+- Boken och Visdomen (Sunnah) 2:129; 2:151; 2:231; 3:164; 4:113; 33:34; 62:2
+- Att följa (vilseledda) förfäders väg fördöms 2:170; 31:21; 43:22
+- Allahs Sändebud var en människa 10:2; 16:43; 17:93; 18:110; 21:3; 21:34; 25:7; 25:20; 41:6
+- Mushrikerna åkallade endast Allah i tider av svårigheter 10:22; 17:16; 29:65; 31:32
+- Splittring i religionen är förbjudet och fördöms 3:103, 105; 6:159; 30:31; 42:13-14; 98:4
+- Attributet Istiwaa för Allah 2:29; 7:57; 10:3; 13:2; 20:5; 25:59; 32:4; 41:11; 57:4
+- Ökningen (och minskningen) av Imaan (Tro) 3:173; 8:2; 9:124; 33:22; 48:4; 74:31
+- Sändebudet och ingen från skapelsen känner det Osynliga oberoende 2:33; 3:44; 3:179; 5:109; 5:116; 6:50, 59; 7:188; 10:20; 11:31, 123; 11:49; 12:102; 18:26; 27:65; 31:34; 34:3, 14, 48; 72:26
+- Allah utvidgar och inskränker försörjningen för vem Han vill 17:30; 28:82; 29:62; 30:37; 34:36, 39; 39:52; 42:12, 27
+- Koranen uppenbarad på ett tydligt arabiskt språk 12:2; 13:37; 16:103; 20:113; 26:195; 39:28; 41:3, 44; 43:3; 46:12
+- Allah belastar ingen själ utöver dess förmåga 2:233, 286; 6:152; 7:42; 23:62; 65:7
+- Ingen ska bära en annans börda 6:164; 17:15; 35:18; 39:7; 53:38
+- Om Allah drabbar er med skada, kan ingen avlägsna den utom Allah 6:17; 10:107
+- Och vem är mer orättvis än den som... 2:114, 140; 6:21, 93, 144, 157; 7:37; 10:17; 11:18; 18:15, 57; 29:68; 32:22; 39:32; 61:7
+- Människan är otacksam i medgång och undergiven i nöd 10:12, 21; 11:9; 17:83; 30:33, 36; 39:8, 49
+- Befästning (Tathbeet) söks från Allah och beviljas av Allah 2:250; 3:147; 8:12, 45; 11:120; 14:27; 16:102; 25:32; 47:7
+- Alla meningsskiljaktigheter hänvisas till Allah och Hans Sändebud 4:59, 65, 115; 24:51, 63; 33:36; 42:10
+- Tvisten mellan invånarna i Helvetets eld 26:96-102; 38:58-64; 40:47-50
+- Skyldigheten att visa lydnad (Taa'ah) mot Allahs Sändebud 3:32, 132; 4:13, 59, 64, 69, 80; 5:92; 8:1, 20, 24, 46; 9:71; 24:51-52, 54, 56; 33:33, 66, 71; 47:33; 48:17; 49:14; 64:12
+- Verserna om prostration i Koranen 7:206; 13:15; 16:49; 19:58; 22:18, 77; 25:60; 27:26; 32:15; 41:38; 53:62; 84:21; 96:19
+- Alla olyckor i Ummah beror på olydnad 3:165; 4:79; 22:10; 30:36, 41; 42:30, 48; 16:112
+- Den som Allah vilseleder, har ingen vägledare 13:33; 39:23, 26; 40:33; 7:186; 18:17
+- Alla profeter började rättelse med Tawheed av tillbedjan 5:72, 11:50, 61, 84; 16:36; 21:25; 23:23; 29:16
+- Framgång och välstånd kopplat till Tazkiyah (Renelse) av själen 20:76; 35:18; 87:14; 91:9; 92:18;
+- All ära och makt ('Izzah) tillhör Allah 4:139; 10:65; 35:10; 63:8
+- Skyldigheten att åkalla endast Allah rent och uppriktigt 2:186; 6:41; 7:29, 55-56, 180; 17:110; 40:14, 60, 65;
+- Förbudet mot att åkalla andra vid sidan av Allah 10:106; 23:117; 25:68; 26:213; 28:88; 72:18;
+- Alla profeter beordrade Taqwa av Allah och lydnad (mot dem själva) 43:63; 71:1-28
+- Om Hijrah (Utvandring) 2:218; 3:195; 4:97, 100; 8:72, 74-75; 9:20; 16:41, 110; 22:58; 29:26, 56; 39:10
+- Det finns ingen sann Beskyddare eller Hjälpare för skapelsen utom Allah 2:107, 120; 9:74, 116; 29:22; 42:31
+- Dem vars hjärtan Allah förseglar 4:155; 7:100-101; 9:87, 93; 10:74; 16:108; 30:59; 40:35; 48:16; 63:3
+- Imaan är mellan rädsla och hopp 17:57; 32:16; 39:9
+- Om annullering av alla handlingar genom Kufr, Shirk och Nifaaq 2:217; 3:22; 5:5, 53; 6:88; 7:147; 9:17, 69; 11:16; 18:105; 33:19; 39:65; 47:9, 28, 32; 49:2
+- Allahs uppenbarelser och profeter är ljusen för vägledning, kunskap och tro 5:44, 46; 6:91, 122; 7:157; 14:1, 5; 21:48; 22:8; 35:25; 39:22; 42:52; 57:9, 12, 19, 28; 64:8; 66:8
+- De som förvränger orden är judarna och folket av Ta'weel (Tahreef) 2:75; 4:46; 5:13; 5:41
+- Livet i denna värld är endast en tillfällig njutning och nöje 3:185; 6:32; 9:38; 10:24; 13:26; 18:45-46; 28:60; 42:36; 47:36; 57:26
+- Dahriyyah (Ateister) 45:24; 6:29; 23:37
+- Allah sände Muhammad med religionen för att låta den segra över alla andra (avskaffade eller falska) religioner 9:33; 48:28; 61:9
+- Om Taaghoot och nödvändigheten av att förkasta Taaghoot 2:256-257; 4:51, 60, 76; 5:60; 16:36; 39:17
+- De lägger planer och Allah lägger också planer, och Han är den bäste planläggaren 3:54; 6:123; 7:99; 8:30; 10:21; 13:42; 16:26, 45, 127; 14:46; 27:50-51; 70; 35:43
+- Kunskap om den sista stunden är hos Allah 7:187; 33:63; 41:47
+- Furqaan (Kriteriet) 2:53, 185; 3:4; 8:29, 41; 21:48; 25:1
+- Att avvärja det onda med det som är bättre 23:96; 28:54; 41:34
+- Den sista stunden är nära 16:77; 17:51; 21:1; 42:17; 54:1; 70:7
+- Och bland Hans tecken är... 20:46; 30:20-25; 41:37, 39; 42:29; 42:32
+- Allah förklarar Sina tecken så att ni... 2:73, 187, 221, 242; 3:103; 5:89
+- Allah är Skaparen av allt 6:73, 101-102; 13:16; 14:10; 21:33; 24:45; 25:2, 59; 37:96; 39:62; 40:62
+- Allah skapade inte skapelsen i falskhet eller för skojs skull 21:16; 38:27; 44:38; 46:3
+- Allah skapade mänskligheten för att de skulle tillbe Honom ensam och för att pröva dem som till vem som är bäst i handling 11:7; 18:7; 51:56; 67:2;
+- Allah sände sändebud för att kalla till Hans tillbedjan, för att bli åtlydda, och som glädjebudbärare och varnare 2:213; 4:64, 165; 6:48; 16:36; 18:56; 21:25
+- De fyra nivåerna av al-Qadr 5:97; 6:59; 10:61; 22:70; 27:75; 30:54; 37:96; 39:62; 57:22; 76:30; 81:29;
+- Former och typer av tillbedjan 1:5; 2:150; 3:19, 85, 185; 4:125, 136; 5:23; 6:162; 8:9; 17:110; 18:110; 21:90; 22:34; 23:117; 31:22; 39:54; 40:60; 64:8; 65:3; 76:7; 108:2; 113:1; 114:1
+- Allah vägleder och vilseleder vem Han vill 14:4; 16:93; 35:8; 74:31
+- Dem som Allah vilseleder 2:26; 9:115; 14:27; 40:34, 74; 45:23
+- Ingen kan vägleda den som Allah vilseleder 4:88; 7:178; 13:33; 18:17; 30:29; 39:23, 36; 40:33; 42:44, 46
+- Förnekelse av någon likhet med Allah 2:22; 19:65; 42:11; 112:4
+- Allah gör ingen orätt, men de gör orätt mot sina egna själar 3:182; 8:51; 10:44; 16:33, 118; 22:10; 30:9; 41:46; 50:29; 11:101
+- Skyldigheten att följa Salaf (Sahaabah) 2:137; 9:100; 4:115; 48:18, 29
+- Metodologin för att ge Da'wah 12:108; 16:125; 29:46
+- Shirk är inte begränsat till avgudar och inkluderar att söka förbön genom profeter, änglar, jinner och de rättfärdiga 5:116; 10:18; 17:57; 26:69; 34:40; 35:14; 39:3;
+- Faktorerna som utgör äktenskaplig ålder 4:6; 6:152; 24:59
+- Jibrīl är den Helige, Pålitlige Anden som förde Koranen från Allah till Profeten 2:97; 16:102; 26:192
+- Hjälp, seger och herravälde är för Allah och Hans sändebud 30:47; 37:171-173; 40:51; 58:21
 """;

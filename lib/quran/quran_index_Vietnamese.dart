@@ -2792,4 +2792,69 @@ The 99 Names of Allah
 - #97 Al Waarith  The Inheritor 15:23
 - #98 Ar Rasheed  The Guide to the Right Path 2:256
 - #99 As Saboor   The Patient 2:153; 3:200; 103:3
+noblequran.com Schemas
+- Những Người Đa Thần Ở Makkah Khẳng Định Quyền Làm Chủ (Ruboobiyyah) Của Allah 10:31; 23:84; 29:61, 63; 31:25; 39:38; 43:9; 43:87
+- Kinh Sách và Sự Khôn Ngoan (Sunnah) 2:129; 2:151; 2:231; 3:164; 4:113; 33:34; 62:2
+- Việc Đi Theo Con Đường Của (Lầm Lạc) Tổ Tiên Bị Lên Án 2:170; 31:21; 43:22
+- Sứ Giả Của Allah Là Con Người 10:2; 16:43; 17:93; 18:110; 21:3; 21:34; 25:7; 25:20; 41:6
+- Những Người Đa Thần Chỉ Cầu Xin Allah Trong Lúc Khó Khăn 10:22; 17:16; 29:65; 31:32
+- Việc Chia Rẽ Tôn Giáo Bị Cấm Và Bị Lên Án 3:103, 105; 6:159; 30:31; 42:13-14; 98:4
+- Thuộc Tính Istiwaa Của Allah 2:29; 7:57; 10:3; 13:2; 20:5; 25:59; 32:4; 41:11; 57:4
+- Sự Tăng (Và Giảm) Của Imaan (Đức Tin) 3:173; 8:2; 9:124; 33:22; 48:4; 74:31
+- Sứ Giả Và Không Ai Trong Tạo Vật Biết Được Điều Vô Hình Một Cách Độc Lập 2:33; 3:44; 3:179; 5:109; 5:116; 6:50, 59; 7:188; 10:20; 11:31, 123; 11:49; 12:102; 18:26; 27:65; 31:34; 34:3, 14, 48; 72:26
+- Allah Mở Rộng Và Thu Hẹp Lương Thực Cho Người Ngài Muốn 17:30; 28:82; 29:62; 30:37; 34:36, 39; 39:52; 42:12, 27
+- Kinh Qur'an Được Mặc Khải Bằng Ngôn Ngữ Ả Rập Rõ Ràng 12:2; 13:37; 16:103; 20:113; 26:195; 39:28; 41:3, 44; 43:3; 46:12
+- Allah Không Bắt Một Linh Hồn Nào Quá Sức Chịu Đựng Của Nó 2:233, 286; 6:152; 7:42; 23:62; 65:7
+- Không Ai Gánh Vác Gánh Nặng Của Người Khác 6:164; 17:15; 35:18; 39:7; 53:38
+- Nếu Allah Giáng Họa Cho Các Ngươi, Không Ai Có Thể Loại Bỏ Nó Trừ Allah 6:17; 10:107
+- Và Còn Ai Bất Công Hơn Kẻ... 2:114, 140; 6:21, 93, 144, 157; 7:37; 10:17; 11:18; 18:15, 57; 29:68; 32:22; 39:32; 61:7
+- Con Người Vô Ơn Khi Giàu Sang Và Khiêm Tốn Khi Khó Khăn 10:12, 21; 11:9; 17:83; 30:33, 36; 39:8, 49
+- Sự Vững Vàng (Tathbeet) Được Cầu Xin Từ Allah Và Được Allah Ban Cho 2:250; 3:147; 8:12, 45; 11:120; 14:27; 16:102; 25:32; 47:7
+- Mọi Sự Bất Đồng Đều Được Quy Về Allah Và Sứ Giả Của Ngài 4:59, 65, 115; 24:51, 63; 33:36; 42:10
+- Cuộc Tranh Cãi Giữa Những Cư Dân Của Hỏa Ngục 26:96-102; 38:58-64; 40:47-50
+- Nghĩa Vụ Vâng Lời (Taa'ah) Sứ Giả Của Allah 3:32, 132; 4:13, 59, 64, 69, 80; 5:92; 8:1, 20, 24, 46; 9:71; 24:51-52, 54, 56; 33:33, 66, 71; 47:33; 48:17; 49:14; 64:12
+- Những Câu Cúi Lạy Trong Kinh Qur'an 7:206; 13:15; 16:49; 19:58; 22:18, 77; 25:60; 27:26; 32:15; 41:38; 53:62; 84:21; 96:19
+- Mọi Tai Họa Trong Ummah Đều Do Bất Tuân 3:165; 4:79; 22:10; 30:36, 41; 42:30, 48; 16:112
+- Người Mà Allah Đã Làm Cho Lầm Lạc, Thì Không Có Người Dẫn Đường Cho Hắn 13:33; 39:23, 26; 40:33; 7:186; 18:17
+- Tất Cả Các Vị Tiên Tri Bắt Đầu Việc Cải Cách Bằng Tawheed Của Sự Thờ Phượng 5:72, 11:50, 61, 84; 16:36; 21:25; 23:23; 29:16
+- Sự Thành Công Và Thịnh Vượng Gắn Liền Với Tazkiyah (Sự Thanh Lọc) Tâm Hồn 20:76; 35:18; 87:14; 91:9; 92:18;
+- Mọi Vinh Quang Và Quyền Lực ('Izzah) Đều Thuộc Về Allah 4:139; 10:65; 35:10; 63:8
+- Nghĩa Vụ Chỉ Cầu Xin Allah Một Cách Tinh Khiết Và Chân Thành 2:186; 6:41; 7:29, 55-56, 180; 17:110; 40:14, 60, 65;
+- Sự Cấm Đoán Cầu Xin Kẻ Khác Bên Cạnh Allah 10:106; 23:117; 25:68; 26:213; 28:88; 72:18;
+- Tất Cả Các Vị Tiên Tri Đã Ra Lệnh Về Sự Sợ Hãi (Taqwa) Đối Với Allah Và Vâng Lời (Chính Họ) 43:63; 71:1-28
+- Về Hijrah (Di Cư) 2:218; 3:195; 4:97, 100; 8:72, 74-75; 9:20; 16:41, 110; 22:58; 29:26, 56; 39:10
+- Không Có Đấng Bảo Vệ Hay Trợ Giúp Thực Sự Nào Cho Tạo Vật Ngoại Trừ Allah 2:107, 120; 9:74, 116; 29:22; 42:31
+- Những Người Mà Allah Đã Đóng Ấn Trên Trái Tim Họ 4:155; 7:100-101; 9:87, 93; 10:74; 16:108; 30:59; 40:35; 48:16; 63:3
+- Imaan Nằm Giữa Sự Sợ Hãi Và Hy Vọng 17:57; 32:16; 39:9
+- Về Sự Vô Hiệu Hóa Mọi Hành Động Thông Qua Sự Vô Đức Tin (Kufr), Sự Đa Thần (Shirk) Và Sự Giả Dối (Nifaaq) 2:217; 3:22; 5:5, 53; 6:88; 7:147; 9:17, 69; 11:16; 18:105; 33:19; 39:65; 47:9, 28, 32; 49:2
+- Những Mặc Khải Và Các Vị Tiên Tri Của Allah Là Ánh Sáng Của Sự Hướng Dẫn, Tri Thức Và Đức Tin 5:44, 46; 6:91, 122; 7:157; 14:1, 5; 21:48; 22:8; 35:25; 39:22; 42:52; 57:9, 12, 19, 28; 64:8; 66:8
+- Những Kẻ Bóp Méo Lời Là Người Do Thái Và Những Kẻ Thực Hiện Ta'weel (Tahreef) 2:75; 4:46; 5:13; 5:41
+- Cuộc Sống Trên Thế Gian Chỉ Là Thú Vui Và Sự Hưởng Thụ Tạm Thời 3:185; 6:32; 9:38; 10:24; 13:26; 18:45-46; 28:60; 42:36; 47:36; 57:26
+- Những Người Dahriyyah (Những Người Vô Thần) 45:24; 6:29; 23:37
+- Allah Đã Cử Muhammad Đến Cùng Tôn Giáo Để Làm Cho Nó Thắng Thế Trên Tất Cả Các Tôn Giáo (Bị Hủy Bỏ Hoặc Giả Dối) Khác 9:33; 48:28; 61:9
+- Về Taaghoot Và Sự Cần Thiết Của Việc Bác Bỏ Taaghoot 2:256-257; 4:51, 60, 76; 5:60; 16:36; 39:17
+- Họ Mưu Đồ Và Allah Cũng Mưu Đồ, Và Ngài Là Đấng Mưu Đồ Giỏi Nhất 3:54; 6:123; 7:99; 8:30; 10:21; 13:42; 16:26, 45, 127; 14:46; 27:50-51; 70; 35:43
+- Kiến Thức Về Giờ Cuối Cùng Thuộc Về Allah 7:187; 33:63; 41:47
+- Al-Furqaan (Tiêu Chuẩn Phân Biệt) 2:53, 185; 3:4; 8:29, 41; 21:48; 25:1
+- Đẩy Lùi Điều Xấu Bằng Điều Tốt Hơn 23:96; 28:54; 41:34
+- Giờ Cuối Cùng Đã Đến Gần 16:77; 17:51; 21:1; 42:17; 54:1; 70:7
+- Và Trong Số Các Dấu Hiệu Của Ngài... 20:46; 30:20-25; 41:37, 39; 42:29; 42:32
+- Allah Giải Thích Các Dấu Hiệu Của Ngài Để Các Người... 2:73, 187, 221, 242; 3:103; 5:89
+- Allah Là Đấng Tạo Hóa Mọi Sự Vật 6:73, 101-102; 13:16; 14:10; 21:33; 24:45; 25:2, 59; 37:96; 39:62; 40:62
+- Allah Không Tạo Ra Tạo Vật Trong Sự Sai Trái Hay Làm Đùa 21:16; 38:27; 44:38; 46:3
+- Allah Tạo Ra Nhân Loại Để Họ Thờ Phượng Một Mình Ngài Và Để Thử Thách Họ Xem Ai Tốt Nhất Về Hành Động 11:7; 18:7; 51:56; 67:2;
+- Allah Cử Các Sứ Giả Để Kêu Gọi Đến Sự Thờ Phượng Ngài, Để Nghe Lời, Và Những Người Mang Tin Mừng Và Cảnh Báo 2:213; 4:64, 165; 6:48; 16:36; 18:56; 21:25
+- Bốn Cấp Độ Của Al-Qadr 5:97; 6:59; 10:61; 22:70; 27:75; 30:54; 37:96; 39:62; 57:22; 76:30; 81:29;
+- Các Hình Thức Và Loại Hình Thờ Phượng 1:5; 2:150; 3:19, 85, 185; 4:125, 136; 5:23; 6:162; 8:9; 17:110; 18:110; 21:90; 22:34; 23:117; 31:22; 39:54; 40:60; 64:8; 65:3; 76:7; 108:2; 113:1; 114:1
+- Allah Hướng Dẫn Và Làm Cho Lầm Lạc Người Ngài Muốn 14:4; 16:93; 35:8; 74:31
+- Những Người Mà Allah Làm Cho Lầm Lạc 2:26; 9:115; 14:27; 40:34, 74; 45:23
+- Không Ai Có Thể Hướng Dẫn Kẻ Mà Allah Đã Làm Cho Lầm Lạc 4:88; 7:178; 13:33; 18:17; 30:29; 39:23, 36; 40:33; 42:44, 46
+- Phủ Nhận Bất Kỳ Sự Tương Đồng Nào Đối Với Allah 2:22; 19:65; 42:11; 112:4
+- Allah Không Bất Công Với Ai, Nhưng Chính Họ Tự Bất Công Với Chính Mình 3:182; 8:51; 10:44; 16:33, 118; 22:10; 30:9; 41:46; 50:29; 11:101
+- Nghĩa Vụ Đi Theo Salaf (Các Sahaabah) 2:137; 9:100; 4:115; 48:18, 29
+- Phương Pháp Luận Của Việc Kêu Gọi Da'wah 12:108; 16:125; 29:46
+- Shirk Không Chỉ Giới Hạn Ở Thần Tượng Và Bao Gồm Việc Tìm Cầu Sự Can Thiệp Qua Các Vị Tiên Tri, Các Thiên Thần, Jinn, Và Những Người Công Chính 5:116; 10:18; 17:57; 26:69; 34:40; 35:14; 39:3;
+- Các Yếu Tố Cấu Thành Độ Tuổi Kết Hôn 4:6; 6:152; 24:59
+- Jibrīl Là Linh Thiêng Thánh Thiện, Đáng Tin Cậy, Đã Mang Kinh Qur'an Từ Allah Đến Nhà Tiên Tri 2:97; 16:102; 26:192
+- Sự Trợ Giúp, Chiến Thắng Và Quyền Thống Trị Thuộc Về Allah Và Các Sứ Giả Của Ngài 30:47; 37:171-173; 40:51; 58:21
 """;

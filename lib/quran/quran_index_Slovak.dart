@@ -2792,4 +2792,69 @@ The 99 Names of Allah
 - #97 Al Waarith  The Inheritor 15:23
 - #98 Ar Rasheed  The Guide to the Right Path 2:256
 - #99 As Saboor   The Patient 2:153; 3:200; 103:3
+noblequran.com Schemas
+- Mekkanskí mušrikovia potvrdili Alláhovo Ruboobiyyah (Panstvo) 10:31; 23:84; 29:61, 63; 31:25; 39:38; 43:9; 43:87
+- Kniha a Múdrosť (Sunna) 2:129; 2:151; 2:231; 3:164; 4:113; 33:34; 62:2
+- Nasledovanie cesty (zblúdilých) predkov je odsúdeniahodné 2:170; 31:21; 43:22
+- Alláhov posol bol človek 10:2; 16:43; 17:93; 18:110; 21:3; 21:34; 25:7; 25:20; 41:6
+- Mušrikovia vzývali iba Allaha v časoch núdze 10:22; 17:16; 29:65; 31:32
+- Rozdeľovanie v náboženstve je zakázané a odsúdeniahodné 3:103, 105; 6:159; 30:31; 42:13-14; 98:4
+- Atribút Istiwaa pre Allaha 2:29; 7:57; 10:3; 13:2; 20:5; 25:59; 32:4; 41:11; 57:4
+- Zvýšenie (a zníženie) Imaanu (Viery) 3:173; 8:2; 9:124; 33:22; 48:4; 74:31
+- Posol a nikto zo stvorenia nepozná Neviditeľné nezávisle 2:33; 3:44; 3:179; 5:109; 5:116; 6:50, 59; 7:188; 10:20; 11:31, 123; 11:49; 12:102; 18:26; 27:65; 31:34; 34:3, 14, 48; 72:26
+- Allah rozširuje a obmedzuje obživu pre koho chce 17:30; 28:82; 29:62; 30:37; 34:36, 39; 39:52; 42:12, 27
+- Korán zoslaný v jasnom arabskom jazyku 12:2; 13:37; 16:103; 20:113; 26:195; 39:28; 41:3, 44; 43:3; 46:12
+- Allah nezaťažuje dušu nad jej sily 2:233, 286; 6:152; 7:42; 23:62; 65:7
+- Nikto neponesie bremeno druhého 6:164; 17:15; 35:18; 39:7; 53:38
+- Ak vás Allah postihne škodou, nikto ju nemôže odstrániť okrem Allaha 6:17; 10:107
+- A kto je nespravodlivejší ako ten, kto... 2:114, 140; 6:21, 93, 144, 157; 7:37; 10:17; 11:18; 18:15, 57; 29:68; 32:22; 39:32; 61:7
+- Človek je nevďačný v blahobyte a pokorný v núdzi 10:12, 21; 11:9; 17:83; 30:33, 36; 39:8, 49
+- Utvrdenie (Tathbeet) sa žiada od Allaha a je ním dané 2:250; 3:147; 8:12, 45; 11:120; 14:27; 16:102; 25:32; 47:7
+- Všetky spory sa odvolávajú na Allaha a Jeho posla 4:59, 65, 115; 24:51, 63; 33:36; 42:10
+- Spor medzi obyvateľmi pekelného ohňa 26:96-102; 38:58-64; 40:47-50
+- Povinnosť prejavovať poslušnosť (Taa'ah) Alláhovmu poslovi 3:32, 132; 4:13, 59, 64, 69, 80; 5:92; 8:1, 20, 24, 46; 9:71; 24:51-52, 54, 56; 33:33, 66, 71; 47:33; 48:17; 49:14; 64:12
+- Verše o poklone v Koráne 7:206; 13:15; 16:49; 19:58; 22:18, 77; 25:60; 27:26; 32:15; 41:38; 53:62; 84:21; 96:19
+- Všetky pohromy v Umme sú kvôli neposlušnosti 3:165; 4:79; 22:10; 30:36, 41; 42:30, 48; 16:112
+- Koho Allah zvádza, ten nemá žiadneho vodcu 13:33; 39:23, 26; 40:33; 7:186; 18:17
+- Všetci proroci začali nápravu s Tawheedom uctievania 5:72, 11:50, 61, 84; 16:36; 21:25; 23:23; 29:16
+- Úspech a blahobyt spojený s Tazkiyah (Očistením) duše 20:76; 35:18; 87:14; 91:9; 92:18;
+- Všetka česť a moc ('Izzah) patrí Allahovi 4:139; 10:65; 35:10; 63:8
+- Povinnosť vzývať iba Allaha čisto a úprimne 2:186; 6:41; 7:29, 55-56, 180; 17:110; 40:14, 60, 65;
+- Zákaz vzývať iných popri Allahovi 10:106; 23:117; 25:68; 26:213; 28:88; 72:18;
+- Všetci proroci nariadili Taqwu Allaha a poslušnosť (voči nim samým) 43:63; 71:1-28
+- O Hidžre (Emigrácii) 2:218; 3:195; 4:97, 100; 8:72, 74-75; 9:20; 16:41, 110; 22:58; 29:26, 56; 39:10
+- Niet skutočného ochrancu ani pomocníka pre stvorenie okrem Allaha 2:107, 120; 9:74, 116; 29:22; 42:31
+- Tí, ktorých srdcia Allah zapečatil 4:155; 7:100-101; 9:87, 93; 10:74; 16:108; 30:59; 40:35; 48:16; 63:3
+- Imaan je medzi strachom a nádejou 17:57; 32:16; 39:9
+- O zrušení všetkých skutkov prostredníctvom Kufru, Širku a Nifáku 2:217; 3:22; 5:5, 53; 6:88; 7:147; 9:17, 69; 11:16; 18:105; 33:19; 39:65; 47:9, 28, 32; 49:2
+- Zjavenia a proroci Allaha sú svetlami vedenia, poznania a viery 5:44, 46; 6:91, 122; 7:157; 14:1, 5; 21:48; 22:8; 35:25; 39:22; 42:52; 57:9, 12, 19, 28; 64:8; 66:8
+- Tí, ktorí prekrúcajú slová, sú Židia a ľudia Ta'weelu (Tahreefu) 2:75; 4:46; 5:13; 5:41
+- Život na tomto svete je len dočasným pôžitkom a zábavou 3:185; 6:32; 9:38; 10:24; 13:26; 18:45-46; 28:60; 42:36; 47:36; 57:26
+- Dahrijjovia (Ateisti) 45:24; 6:29; 23:37
+- Allah poslal Muhammada s náboženstvom, aby zvíťazil nad všetkými ostatnými (zrušenými alebo falošnými) náboženstvami 9:33; 48:28; 61:9
+- O Tághútovi a nevyhnutnosti odmietnuť Tághúta 2:256-257; 4:51, 60, 76; 5:60; 16:36; 39:17
+- Oni stroja úklady a Allah tiež strojí úklady a On je najlepší z úkladníkov 3:54; 6:123; 7:99; 8:30; 10:21; 13:42; 16:26, 45, 127; 14:46; 27:50-51; 70; 35:43
+- Vedomie o Hodine je u Allaha 7:187; 33:63; 41:47
+- Furqaan (Rozlíšenie) 2:53, 185; 3:4; 8:29, 41; 21:48; 25:1
+- Odplácanie zla tým, čo je lepšie 23:96; 28:54; 41:34
+- Hodina je blízka 16:77; 17:51; 21:1; 42:17; 54:1; 70:7
+- A medzi Jeho znameniami sú... 20:46; 30:20-25; 41:37, 39; 42:29; 42:32
+- Allah vysvetľuje Svoje znamenia, aby ste... 2:73, 187, 221, 242; 3:103; 5:89
+- Allah je Stvoriteľ všetkého 6:73, 101-102; 13:16; 14:10; 21:33; 24:45; 25:2, 59; 37:96; 39:62; 40:62
+- Allah nestvoril stvorenie vo falošnosti alebo zo žartu 21:16; 38:27; 44:38; 46:3
+- Allah stvoril ľudstvo, aby Ho uctievalo samotného a aby ich skúšal, kto z nich je lepší v skutkoch 11:7; 18:7; 51:56; 67:2;
+- Allah poslal poslov, aby volali k Jeho uctievaniu, aby boli poslúchaní, a ako hlásateľov radostných správ a varovateľov 2:213; 4:64, 165; 6:48; 16:36; 18:56; 21:25
+- Štyri úrovne al-Qadru 5:97; 6:59; 10:61; 22:70; 27:75; 30:54; 37:96; 39:62; 57:22; 76:30; 81:29;
+- Formy a druhy uctievania 1:5; 2:150; 3:19, 85, 185; 4:125, 136; 5:23; 6:162; 8:9; 17:110; 18:110; 21:90; 22:34; 23:117; 31:22; 39:54; 40:60; 64:8; 65:3; 76:7; 108:2; 113:1; 114:1
+- Allah vedie a zvádza, koho chce 14:4; 16:93; 35:8; 74:31
+- Tí, ktorých Allah zvádza 2:26; 9:115; 14:27; 40:34, 74; 45:23
+- Nikto nemôže viesť toho, koho Allah zvádza 4:88; 7:178; 13:33; 18:17; 30:29; 39:23, 36; 40:33; 42:44, 46
+- Popieranie akejkoľvek podobnosti s Alláhom 2:22; 19:65; 42:11; 112:4
+- Allah nekrivdí nikomu, ale oni sami sebe krivdia 3:182; 8:51; 10:44; 16:33, 118; 22:10; 30:9; 41:46; 50:29; 11:101
+- Povinnosť nasledovať Salaf (Sahábov) 2:137; 9:100; 4:115; 48:18, 29
+- Metodika dáwania Da'wah 12:108; 16:125; 29:46
+- Širk sa neobmedzuje iba na modly a zahŕňa hľadanie príhovoru prostredníctvom prorokov, anjelov, džinov a spravodlivých 5:116; 10:18; 17:57; 26:69; 34:40; 35:14; 39:3;
+- Faktory, ktoré určujú vek na uzavretie manželstva 4:6; 6:152; 24:59
+- Džibríl je Svätý, Dôveryhodný Duch, ktorý priniesol Korán od Allaha Prorokovi 2:97; 16:102; 26:192
+- Pomoc, víťazstvo a nadvláda patria Allahovi a Jeho poslom 30:47; 37:171-173; 40:51; 58:21
 """;

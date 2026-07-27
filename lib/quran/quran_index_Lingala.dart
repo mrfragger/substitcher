@@ -2793,4 +2793,69 @@ The 99 Names of Allah
 - #97 Al Waarith  The Inheritor 15:23
 - #98 Ar Rasheed  The Guide to the Right Path 2:256
 - #99 As Saboor   The Patient 2:153; 3:200; 103:3
+noblequran.com Schemas
+- Baye baza Mushrik ya Makka bandimaki Allah na Ruboobiyyah (Bokonzi) 10:31; 23:84; 29:61, 63; 31:25; 39:38; 43:9; 43:87
+- Buku mpe mayele (Sunnah) 2:129; 2:151; 2:231; 3:164; 4:113; 33:34; 62:2
+- Kolanda nzela ya bankoko (babungi) ezali na mabe 2:170; 31:21; 43:22
+- Motindami ya Allah azalaki moto 10:2; 16:43; 17:93; 18:110; 21:3; 21:34; 25:7; 25:20; 41:6
+- Baye baza Mushrik babengaki Allah ye moko na tango ya mpasi 10:22; 17:16; 29:65; 31:32
+- Kokabola lingomba ezali mpepe mpe ezali na mabe 3:103, 105; 6:159; 30:31; 42:13-14; 98:4
+- Litanzi ya Istiwaa ya Allah 2:29; 7:57; 10:3; 13:2; 20:5; 25:59; 32:4; 41:11; 57:4
+- Koleka (mpe kokita) ya Imaan (Ndimeli) 3:173; 8:2; 9:124; 33:22; 48:4; 74:31
+- Motindami mpe ata moko ya bikelamu ayebi biloko ya kobombana na ndenge naye moko te 2:33; 3:44; 3:179; 5:109; 5:116; 6:50, 59; 7:188; 10:20; 11:31, 123; 11:49; 12:102; 18:26; 27:65; 31:34; 34:3, 14, 48; 72:26
+- Allah apanzaka mpe akangaka bilei na moto oyo alingi 17:30; 28:82; 29:62; 30:37; 34:36, 39; 39:52; 42:12, 27
+- Kurani ekitamaki na monoko ya Arabe oyo ekomami polele 12:2; 13:37; 16:103; 20:113; 26:195; 39:28; 41:3, 44; 43:3; 46:12
+- Allah atelemelaka molimo moko te koleka oyo ekoki 2:233, 286; 6:152; 7:42; 23:62; 65:7
+- Moto moko akomema mokumba ya mosusu te 6:164; 17:15; 35:18; 39:7; 53:38
+- Soki Allah apesi bino pasi, moto moko akokoka kolongola yango te longola Allah 6:17; 10:107
+- Mpe nani azali mobubi koleka oyo... 2:114, 140; 6:21, 93, 144, 157; 7:37; 10:17; 11:18; 18:15, 57; 29:68; 32:22; 39:32; 61:7
+- Moto azali na botondi te na bomengo mpe azali na komikitisa na molakisi 10:12, 21; 11:9; 17:83; 30:33, 36; 39:8, 49
+- Kolendisa (Tathbeet) esengeli na Allah mpe ekipesamaki na Allah 2:250; 3:147; 8:12, 45; 11:120; 14:27; 16:102; 25:32; 47:7
+- Mangomba nyonso ezongiselami Allah mpe Motindami naye 4:59, 65, 115; 24:51, 63; 33:36; 42:10
+- Palabɛ kati na bato ya moto ya lifelo 26:96-102; 38:58-64; 40:47-50
+- Mposa ya kotosa (Taa'ah) Motindami ya Allah 3:32, 132; 4:13, 59, 64, 69, 80; 5:92; 8:1, 20, 24, 46; 9:71; 24:51-52, 54, 56; 33:33, 66, 71; 47:33; 48:17; 49:14; 64:12
+- Mikapo ya kogumbama na Kurani 7:206; 13:15; 16:49; 19:58; 22:18, 77; 25:60; 27:26; 32:15; 41:38; 53:62; 84:21; 96:19
+- Mbasana nyonso na Ummah euti na botosi te 3:165; 4:79; 22:10; 30:36, 41; 42:30, 48; 16:112
+- Oyo Allah abungisi, azali na molakisi te 13:33; 39:23, 26; 40:33; 7:186; 18:17
+- Baprofeta nyonso babandaki kobongisa na Tawhid ya losambo 5:72, 11:50, 61, 84; 16:36; 21:25; 23:23; 29:16
+- Nkita mpe bomengo etali Tazkiyah (Komipetola) ya molimo 20:76; 35:18; 87:14; 91:9; 92:18;
+- Lokumu mpe nguvu nyonso ('Izzah) ezali ya Allah 4:139; 10:65; 35:10; 63:8
+- Mposa ya kobenga Allah moko na bomoto mpe na bosembo 2:186; 6:41; 7:29, 55-56, 180; 17:110; 40:14, 60, 65;
+- Kopekisa kobenga basusu elongo na Allah 10:106; 23:117; 25:68; 26:213; 28:88; 72:18;
+- Baprofeta nyonso batindaki banguna ya Taqwa ya Allah mpe botosi (epai na bango) 43:63; 71:1-28
+- Mpo na Hijrah (Kozwa boumeli) 2:218; 3:195; 4:97, 100; 8:72, 74-75; 9:20; 16:41, 110; 22:58; 29:26, 56; 39:10
+- Ezali na Mobateli to Mosungi ya solo te mpo na bikelamu longola Allah 2:107, 120; 9:74, 116; 29:22; 42:31
+- Bayo Allah akanga mitema naye 4:155; 7:100-101; 9:87, 93; 10:74; 16:108; 30:59; 40:35; 48:16; 63:3
+- Imaan ezali kati na bobangi mpe elikia 17:57; 32:16; 39:9
+- Mpo na kozongela te misala nyonso na nzela ya Kufr, Shirk mpe Nifaaq 2:217; 3:22; 5:5, 53; 6:88; 7:147; 9:17, 69; 11:16; 18:105; 33:19; 39:65; 47:9, 28, 32; 49:2
+- Makomi ya Allah mpe Baprofeta bazali mwinda ya bokambi, boyebi mpe ndimeli 5:44, 46; 6:91, 122; 7:157; 14:1, 5; 21:48; 22:8; 35:25; 39:22; 42:52; 57:9, 12, 19, 28; 64:8; 66:8
+- Baye bazali kobongola maloba bazali Bayuda mpe bato ya Ta'weel (Tahreef) 2:75; 4:46; 5:13; 5:41
+- Bomoyi ya mokili ezali kaka esengo mpe kaseka ya mwa eleko 3:185; 6:32; 9:38; 10:24; 13:26; 18:45-46; 28:60; 42:36; 47:36; 57:26
+- Dahriyyah (Baye bandimi te) 45:24; 6:29; 23:37
+- Allah atindaki Muhammad na lingomba mpo na kokumisa yango na mangomba (ya kati ya mabe to ya lokuta) nyonso 9:33; 48:28; 61:9
+- Mpo na Taaghoot mpe mposa ya koyamba Taaghoot te 2:256-257; 4:51, 60, 76; 5:60; 16:36; 39:17
+- Bakendeki kosala mayele ya mabe mpe Allah mpe asalaka mayele, mpe ye nde malamu koleka na baye basalaka mayele 3:54; 6:123; 7:99; 8:30; 10:21; 13:42; 16:26, 45, 127; 14:46; 27:50-51; 70; 35:43
+- Boyebi ya Ngonga (nsuka) ezali epai ya Allah 7:187; 33:63; 41:47
+- Furqaan (Mezini) 2:53, 185; 3:4; 8:29, 41; 21:48; 25:1
+- Kobengana mabe na oyo ezali malamu 23:96; 28:54; 41:34
+- Ngonga (nsuka) esili pene 16:77; 17:51; 21:1; 42:17; 54:1; 70:7
+- Mpe kati na bilembo naye... 20:46; 30:20-25; 41:37, 39; 42:29; 42:32
+- Allah alimboli bilembo naye mpo bino... 2:73, 187, 221, 242; 3:103; 5:89
+- Allah nde Mokeli ya biloko nyonso 6:73, 101-102; 13:16; 14:10; 21:33; 24:45; 25:2, 59; 37:96; 39:62; 40:62
+- Allah akela bikelamu te na lokuta to na lisano 21:16; 38:27; 44:38; 46:3
+- Allah akela moto mpo na kobelela ye moko mpe mpo na komeka bango nani azali malamu na misala 11:7; 18:7; 51:56; 67:2;
+- Allah atindaki batindami mpo na kobenga na losambo naye, na botosi epai na bango, mpe lokola banini ya sango malamu mpe bakebisi 2:213; 4:64, 165; 6:48; 16:36; 18:56; 21:25
+- Biteya minei ya al-Qadr 5:97; 6:59; 10:61; 22:70; 27:75; 30:54; 37:96; 39:62; 57:22; 76:30; 81:29;
+- Mika mpe mitindo ya losambo 1:5; 2:150; 3:19, 85, 185; 4:125, 136; 5:23; 6:162; 8:9; 17:110; 18:110; 21:90; 22:34; 23:117; 31:22; 39:54; 40:60; 64:8; 65:3; 76:7; 108:2; 113:1; 114:1
+- Allah akambaka mpe abungisaka oyo alingi 14:4; 16:93; 35:8; 74:31
+- Bayo Allah abungisi 2:26; 9:115; 14:27; 40:34, 74; 45:23
+- Moto moko akoki kokamba oyo Allah abungisi te 4:88; 7:178; 13:33; 18:17; 30:29; 39:23, 36; 40:33; 42:44, 46
+- Koboya ete ezala na eloko inene lokola Allah 2:22; 19:65; 42:11; 112:4
+- Allah abubi moto moko te, kasi bango nde babubi bango moko 3:182; 8:51; 10:44; 16:33, 118; 22:10; 30:9; 41:46; 50:29; 11:101
+- Mposa ya kolanda Salaf (Balandi) 2:137; 9:100; 4:115; 48:18, 29
+- Ndenge ya kopesa Da'wah 12:108; 16:125; 29:46
+- Shirk ekokani na bikeko te, mpe esangisi kosenga lisungi na nzela ya baprofeta, baangele, badjinns, mpe bakitanu 5:116; 10:18; 17:57; 26:69; 34:40; 35:14; 39:3;
+- Makambo oyo esalaka mbula ya libala 4:6; 6:152; 24:59
+- Jibrīl azali Molimo Mosantu, ya pole, oyo amemaki Kurani uta na Allah epai na Profeta 2:97; 16:102; 26:192
+- Lisungi, elonga mpe bokonzi ezali ya Allah mpe batindami naye 30:47; 37:171-173; 40:51; 58:21
 """;
