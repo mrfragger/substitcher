@@ -47,6 +47,7 @@ class QuranPanel extends StatefulWidget {
   final Function(String) onExcludeChanged;
   final String selectedLanguage;
   final Function(String) onLanguageChanged;
+  final Function(List<QuranVerseRef> refs, int filteredIndex)? onPlayAllRequested;
 
   const QuranPanel({
     super.key,
@@ -75,6 +76,7 @@ class QuranPanel extends StatefulWidget {
     required this.onExcludeChanged,
     required this.selectedLanguage,
     required this.onLanguageChanged,
+    this.onPlayAllRequested,
   });
 
   @override
@@ -560,6 +562,35 @@ class _QuranPanelState extends State<QuranPanel> {
         _attemptScrollToVerseSearchIndex(index, attemptsLeft: attemptsLeft - 1);
       });
     }
+  }
+
+  Widget _buildPlayAllChip(List<QuranVerseRef> refs, int index) {
+    return GestureDetector(
+      onTap: () => widget.onPlayAllRequested?.call(refs, index),
+      child: Container(
+        padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 5),
+        decoration: BoxDecoration(
+          color: Colors.green.withAlpha(40),
+          borderRadius: BorderRadius.circular(6),
+          border: Border.all(color: Colors.green.withAlpha(160)),
+        ),
+        child: Row(
+          mainAxisSize: MainAxisSize.min,
+          children: const [
+            Icon(Icons.playlist_play, size: 14, color: Colors.greenAccent),
+            SizedBox(width: 4),
+            Text(
+              'All',
+              style: TextStyle(
+                color: Colors.greenAccent,
+                fontSize: 12,
+                fontWeight: FontWeight.w600,
+              ),
+            ),
+          ],
+        ),
+      ),
+    );
   }
 
   Widget _buildHadeethSectionWrapper(BuildContext context) {
@@ -1785,7 +1816,10 @@ class _QuranPanelState extends State<QuranPanel> {
                                       child: Wrap(
                                         spacing: 6,
                                         runSpacing: 6,
-                                        children: entry.refs.map((ref) {
+                                        children: [
+                                        if (widget.isQuranLoaded && widget.onPlayAllRequested != null && entry.refs.length > 1)
+                                          _buildPlayAllChip(entry.refs, index),
+                                        ...entry.refs.map((ref) {
                                           final isActive = _isActiveRef(ref) ||
                                               (!widget.isQuranLoaded &&
                                                   _lastTafsirRef != null &&
@@ -1857,6 +1891,7 @@ class _QuranPanelState extends State<QuranPanel> {
                                             ),
                                           );
                                         }).toList(),
+                                        ],
                                       ),
                                     ),
                                   if (index < filtered.length - 1)

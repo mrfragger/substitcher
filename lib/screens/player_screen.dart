@@ -402,6 +402,10 @@ class _PlayerScreenState extends State<PlayerScreen>
   QuranVerseRef? _pendingStopRef;
   String? _activeQuranTopic;
 
+  List<QuranVerseRef>? _quranQueue;
+  int _quranQueueFilteredIndex = 0;
+  bool _navigatingFromQueue = false;
+
   bool _fontCycleActive = false;
   int _fontCycleInterval = 4;
   int _fontCycleCueCounter = 0;
@@ -574,6 +578,10 @@ class _PlayerScreenState extends State<PlayerScreen>
 
   Future<void> _navigateToQuranVerse(
       QuranVerseRef ref, int filteredIndex) async {
+    if (!_navigatingFromQueue) {
+      _quranQueue = null;
+    }
+    _navigatingFromQueue = false;
     setState(() {
       _activeQuranRef = ref;
       _activeQuranFilteredIndex = filteredIndex;
@@ -734,6 +742,16 @@ class _PlayerScreenState extends State<PlayerScreen>
     });
     _navigateToQuranVerse(ref, 0);
   }
+
+  void _playAllQuranRefs(List<QuranVerseRef> refs, int filteredIndex) {
+    if (refs.isEmpty) return;
+    _quranQueue = List<QuranVerseRef>.from(refs)..removeAt(0);
+    _quranQueueFilteredIndex = filteredIndex;
+    _navigatingFromQueue = true;
+    _navigateToQuranVerse(refs.first, filteredIndex);
+  }
+
+  void _cancelQuranQueue() => setState(() => _quranQueue = null);
 
   Future<void> _loadFavoriteLuts() async {
     final prefs = await SharedPreferences.getInstance();
@@ -1094,6 +1112,13 @@ class _PlayerScreenState extends State<PlayerScreen>
         if (currentTitle.startsWith(endId)) {
           player.pause();
           setState(() => _pendingStopRef = null);
+          if (_quranQueue != null && _quranQueue!.isNotEmpty) {
+            final next = _quranQueue!.removeAt(0);
+            _navigatingFromQueue = true;
+            _navigateToQuranVerse(next, _quranQueueFilteredIndex);
+          } else {
+            _quranQueue = null;
+          }
           return;
         }
       }
@@ -8736,6 +8761,7 @@ class _PlayerScreenState extends State<PlayerScreen>
                   isQuranLoaded: _isQuranVerseByVerse,
                   activeQuranRef: _activeQuranRef,
                   onQuranVerseSelected: _navigateToQuranVerse,
+                  onQuranPlayAllRequested: _playAllQuranRefs,
                   quranSearchFocusNode: _quranSearchFocusNode,
                   quranExcludeFocusNode: _quranExcludeFocusNode,
                   quranItemScrollController: _quranItemScrollController,
