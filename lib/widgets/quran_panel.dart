@@ -565,8 +565,17 @@ class _QuranPanelState extends State<QuranPanel> {
   }
 
   Widget _buildPlayAllChip(List<QuranVerseRef> refs, int index) {
-    final playableRefs = refs.where((r) => !r.isFullSurah).toList();
-    if (playableRefs.isEmpty) return const SizedBox.shrink();
+    final playableRefs = refs.map((r) {
+      if (r.isFullSurah) {
+        return QuranVerseRef(
+          surah: r.surah,
+          fromAyah: 1,
+          toAyah: quranVerseCounts[r.surah],
+          isFullSurah: false,
+        );
+      }
+      return r;
+    }).toList();
 
     return GestureDetector(
       onTap: () => widget.onPlayAllRequested?.call(playableRefs, index),
@@ -1820,9 +1829,7 @@ class _QuranPanelState extends State<QuranPanel> {
                                         spacing: 6,
                                         runSpacing: 6,
                                         children: [
-                                          if (widget.isQuranLoaded &&
-                                              widget.onPlayAllRequested != null &&
-                                              entry.refs.where((r) => !r.isFullSurah).length > 1)
+                                          if (widget.isQuranLoaded && widget.onPlayAllRequested != null && entry.refs.length > 1)
                                             _buildPlayAllChip(entry.refs, index),
                                           ...entry.refs.map((ref) {
                                           final isActive = _isActiveRef(ref) ||

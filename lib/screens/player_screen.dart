@@ -628,7 +628,14 @@ class _PlayerScreenState extends State<PlayerScreen>
     if (!ref.isFullSurah) {
       setState(() => _pendingStopRef = ref);
     } else {
-      setState(() => _pendingStopRef = null);
+      final lastAyah = quranVerseCounts[ref.surah];
+      final effectiveStopRef = QuranVerseRef(
+        surah: ref.surah,
+        fromAyah: 1,
+        toAyah: lastAyah,
+        isFullSurah: false,
+      );
+      setState(() => _pendingStopRef = effectiveStopRef);
     }
     await _jumpToChapter(chapterIndex);
     await player.play();
