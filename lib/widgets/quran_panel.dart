@@ -565,8 +565,11 @@ class _QuranPanelState extends State<QuranPanel> {
   }
 
   Widget _buildPlayAllChip(List<QuranVerseRef> refs, int index) {
+    final playableRefs = refs.where((r) => !r.isFullSurah).toList();
+    if (playableRefs.isEmpty) return const SizedBox.shrink();
+
     return GestureDetector(
-      onTap: () => widget.onPlayAllRequested?.call(refs, index),
+      onTap: () => widget.onPlayAllRequested?.call(playableRefs, index),
       child: Container(
         padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 5),
         decoration: BoxDecoration(
@@ -1134,7 +1137,7 @@ class _QuranPanelState extends State<QuranPanel> {
                   padding: const EdgeInsets.fromLTRB(16, 14, 8, 10),
                   child: Row(
                     children: [
-                      const Text('Surah List',
+                      const Text('Surahs',
                           style: TextStyle(
                               color: Colors.white,
                               fontSize: 15,
@@ -1543,10 +1546,10 @@ class _QuranPanelState extends State<QuranPanel> {
                   const Spacer(),
                   TextButton(
                     onPressed: () => _showSurahListPopup(context),
-                    child: const Text('Surah List',
+                    child: const Text('Surahs',
                         style: TextStyle(color: Colors.white38, fontSize: 12)),
                   ),
-                  const SizedBox(width: 10),
+                  const SizedBox(width: 4),
                   TextButton(
                     onPressed: () => setState(() {
                       if (_expandedIndices.length >= widget.entries.length) {
@@ -1817,9 +1820,11 @@ class _QuranPanelState extends State<QuranPanel> {
                                         spacing: 6,
                                         runSpacing: 6,
                                         children: [
-                                        if (widget.isQuranLoaded && widget.onPlayAllRequested != null && entry.refs.length > 1)
-                                          _buildPlayAllChip(entry.refs, index),
-                                        ...entry.refs.map((ref) {
+                                          if (widget.isQuranLoaded &&
+                                              widget.onPlayAllRequested != null &&
+                                              entry.refs.where((r) => !r.isFullSurah).length > 1)
+                                            _buildPlayAllChip(entry.refs, index),
+                                          ...entry.refs.map((ref) {
                                           final isActive = _isActiveRef(ref) ||
                                               (!widget.isQuranLoaded &&
                                                   _lastTafsirRef != null &&
