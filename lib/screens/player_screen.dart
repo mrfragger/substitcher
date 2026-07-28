@@ -3301,6 +3301,152 @@ class _PlayerScreenState extends State<PlayerScreen>
     }
   }
 
+  List<MapEntry<String, String>> _extractQuranVerseTexts(
+      List<SubtitleCue> cues) {
+    final result = <MapEntry<String, String>>[];
+    final pattern = RegExp(r'^(\d+)\s*,\s*(\d+)\s+(.*)$', dotAll: true);
+
+    String? currentKey;
+    final currentText = StringBuffer();
+
+    for (final cue in cues) {
+      final raw = cue.text.replaceAll('\n', ' ').trim();
+      if (raw.isEmpty) continue;
+      final match = pattern.firstMatch(raw);
+
+      if (match != null) {
+        final key = '${match.group(1)}:${match.group(2)}';
+        final text = match.group(3)!.trim();
+        if (currentKey != null && currentKey != key) {
+          result.add(MapEntry(currentKey!, currentText.toString().trim()));
+          currentText.clear();
+        }
+        currentKey = key;
+        if (currentText.isNotEmpty) currentText.write(' ');
+        currentText.write(text);
+      } else if (currentKey != null) {
+        // Continuation line for the same verse (no leading "surah,ayah")
+        if (currentText.isNotEmpty) currentText.write(' ');
+        currentText.write(raw);
+      }
+    }
+    if (currentKey != null) {
+      result.add(MapEntry(currentKey!, currentText.toString().trim()));
+    }
+    return result;
+  }
+
+  Future<void> _exportQuranCombinedMarkdown() async {
+    if (_currentAudiobook == null || _subtitleFilePath == null) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(content: Text('No audiobook or subtitles loaded')),
+      );
+      return;
+    }
+
+    setState(() {
+      _isExportingMarkdown = true;
+      _exportStatus = 'Starting Quran export...';
+    });
+
+    try {
+      final currentOpusPath = _currentAudiobook!.path;
+      final opusDir = path.dirname(currentOpusPath);
+      final reciterSuffix = path
+          .basename(currentOpusPath)
+          .replaceFirst(RegExp(r'^.*?\d{3}-\d{3} '), '');
+
+      final currentVttPath = _subtitleFilePath!;
+      final vttDir = path.dirname(currentVttPath);
+      final langSubdir = path.basename(vttDir);
+      final vttParentDir = path.dirname(vttDir);
+
+      final languageName = path.basename(opusDir);
+      final exportPath = path.join(opusDir, '$languageName.md');
+
+      final mdContent = StringBuffer();
+      mdContent.writeln('# $languageName\n');
+
+      final rangeKeys = quranFileRanges.keys.toList();
+
+      for (int i = 0; i < rangeKeys.length; i++) {
+        final rangeKey = rangeKeys[i];
+        setState(() {
+          _exportStatus =
+              'Processing range $rangeKey (${i + 1}/${rangeKeys.length})...';
+        });
+
+        final targetOpusName = 'Quran Arabic - $rangeKey $reciterSuffix';
+        final targetBase = path.basenameWithoutExtension(targetOpusName);
+        final targetVttName = '$targetBase.vtt';
+
+        final candidate1 = path.join(vttParentDir, langSubdir, targetVttName);
+        final candidate2 = path.join(
+          opusDir,
+          '${targetBase}_vtt',
+          langSubdir,
+          targetVttName,
+        );
+        final candidate3 = path.join(opusDir, targetVttName);
+
+        String? foundVtt;
+        for (final candidate in [candidate1, candidate2, candidate3]) {
+          if (await File(candidate).exists()) {
+            foundVtt = candidate;
+            break;
+          }
+        }
+
+        if (foundVtt == null) {
+          mdContent.writeln(
+              '*Missing subtitle file for range $rangeKey: $targetVttName*\n');
+          continue;
+        }
+
+        final vttContent = await File(foundVtt).readAsString();
+        final rangeSubs = _parseVTT(vttContent);
+        final verses = _extractQuranVerseTexts(rangeSubs);
+
+        for (final entry in verses) {
+          mdContent.writeln('## ${entry.key}\n');
+          mdContent.writeln(entry.value);
+          mdContent.writeln();
+        }
+      }
+
+      await File(exportPath).writeAsString(mdContent.toString());
+
+      setState(() {
+        _isExportingMarkdown = false;
+        _exportStatus = '';
+      });
+
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            content: Text(
+                'Exported combined Quran translation to:\n${path.basename(exportPath)}'),
+            duration: const Duration(seconds: 4),
+            backgroundColor: Colors.green,
+          ),
+        );
+      }
+    } catch (e) {
+      setState(() {
+        _isExportingMarkdown = false;
+        _exportStatus = '';
+      });
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            content: Text('Export failed: $e'),
+            backgroundColor: Colors.red,
+          ),
+        );
+      }
+    }
+  }
+
   List<String> _createParagraphsFromSubs(List<SubtitleCue> subs) {
     if (subs.isEmpty) return [];
 
@@ -8488,7 +8634,9 @@ class _PlayerScreenState extends State<PlayerScreen>
                   onQuranVerseSearchResultTap: _jumpToQuranVerseSearchResult,
                   isExportingMarkdown: _isExportingMarkdown,
                   exportStatus: _exportStatus,
-                  onExportMarkdown: _exportMarkdownParagraphs,
+                  onExportMarkdown: _isQuranVerseByVerse
+                      ? _exportQuranCombinedMarkdown
+                      : _exportMarkdownParagraphs,
                   onClose: () {
                     setState(() {
                       _showPanel = false;
