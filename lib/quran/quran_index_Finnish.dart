@@ -2695,7 +2695,7 @@ The 99 Names of Allah
 - #0 Best of Names 7:180; 20:8; 59:24
 - #1 Ar Rahmaan 	Armahtaja 1:3; 17:110
 - #2 Ar Raheem 	Armelias 2:163; 3:31; 4:100; 5:3
-- #3 Al Malik 	al-Malik = Maailman Valtias, Kuningas 20:114; 23:116; 59:23; 62:1
+- #3 Al Malik 	Maailman Valtias, Kuningas 20:114; 23:116; 59:23; 62:1
 - #4 Al Quddus 	Kaikkein pyhin 59:23; 62:1
 - #5 As Salaam 	Rauhan antaja 59:23
 - #6 Al Mu'min 	Suojelija 59:23
@@ -2792,6 +2792,101 @@ The 99 Names of Allah
 - #97 Al Waarith  Kaiken perijä 15:23
 - #98 Ar Rasheed  Oikealle tielle johdattaja 2:256
 - #99 As Saboor   Kärsivällinen, Järkkymätön 2:153; 3:200; 103:3
+Matching Ayahs
+- = Alif, Lam, Mim. 2:1; 3:1; 29:1; 30:1; 31:1; 32:1
+- = He ovat oikealla tiellä Herransa opastuksessa, ja he ovat menestyviä. 2:5; 31:5
+- = Israelin lapset, muistakaa Minun suosioni, jonka olen teille osoittanut, ja että Minä olen suosinut teitä maailmojen (kansojen) edelle. 2:47; 2:122
+- = Tuo kansa on mennyt menojaan. Se saa, minkä ansaitsi, ja te saatte, minkä ansaitsette. Teitä ei kysytä siitä, mitä he tekivät. 2:134; 2:141
+- = Ikuisesti he siellä oleskelevat; heidän rangaistustaan ei lievennetä, eikä heille myönnetä lykkäystä. 2:162; 3:88
+- = Paitsi niitä, jotka sen jälkeen tekevät parannuksen ja korjaavat menettelynsä. Sillä Allah on totisesti Anteeksiantava, Armollinen. 3:89; 24:5
+- = Mutta ne, jotka eivät usko ja kieltävät Meidän tunnusmerkkimme – he ovat Helvetin asukkaita. 5:10; 5:86
+- = Eikä heille tule yksikään merkki Herransa merkeistä, jota he eivät kääntäisi selkänsä sille. 6:4; 36:46
+- = Ja totisesti ennen sinua lähetettyjä pilkattiin, mutta pilkkaajat itse joutuivat sen valtaan, mille nauroivat. 6:10; 21:41
+- = Sano: "Minä pelkään, jos olen tottelematon Herralleni, suuren päivän rangaistusta." 6:15; 39:13
+- = Niin maanjäristys valtasi heidät, ja he jäivät koteliinsa makaamaan kasvoilleen. 7:78; 7:91
+- = Niin hän heitti sauvansa, ja katso, se oli ilmeinen käärme. 7:107; 26:32
+- = Ja hän veti kätensä esiin, ja katso, se oli valkoinen (hohtava) katselijoille. 7:108; 26:33
+- = He sanoivat: "Me uskomme maailmojen Herraan." 7:121; 26:47
+- = Mooseksen ja Aaronin Herraan. 7:122; 26:48
+- = Ja Minä annan heille aikaa. Totisesti, Minun suunnitelmani on luja. 7:183; 68:45
+- = Hän se on, joka lähetti Lähettiläänsä ohjauksen ja totuuden uskonnon kanssa, tehdäkseen sen voittajaksi kaikkien uskontojen yläpuolella, vaikka monijumalaiset inhoavatkin sitä. 9:33; 61:9
+- = Profeetta, taistele uskottomia ja tekopyhiä vastaan ja ole ankara heitä kohtaan! Heidän määränsä on Helvetti, ja mikä kauhea määränpää! 9:73; 66:9
+- = Ja he sanovat: "Milloin tämä lupaus täytetään, jos olette totuudellisia?" 10:48; 21:38; 27:71; 34:29; 36:48; 67:25
+- = Ja Me lähetimme Mooseksen tunnusmerkkimme ja selkeän valtakirjan kanssa. 11:96; 40:23
+- = Ja Me annoimme Moosekselle Kirjan, mutta siitä oli erimielisyyttä. Ja ellei Herrasi sanaa olisi edeltä käynyt, olisi heidän välillään tuomittu. Ja he ovat siitä syvässä epäilyksessä. 11:110; 41:45
+- = Se ei ole vaikeaa Allahille. 14:20; 35:17
+- = Ja kun olen hänet muodostanut ja puhaltanut häneen Henkeäni, kumartukaa häntä kohti." 15:29; 38:72
+- = Niin enkelit kumartuivat kaikki yhdessä. 15:30; 38:73
+- = (Allah) sanoi: "Lähde siis pois täältä, sillä totisesti sinä olet karkoitettu." 15:34; 38:77
+- = (Iblis) sanoi: "Herrani, myönnä minulle lykkäystä siihen päivään asti, jolloin heidät herätetään." 15:36; 38:79
+- = (Allah) sanoi: "Sinä olet totisesti niitä, joille lykkäystä myönnetään." 15:37; 38:80
+- = Määräaikaan, tunnettuun päivään saakka." 15:38; 38:81
+- = Paitsi vilpittömiä palvelijoitasi heidän joukossaan. 15:40; 38:83
+- = Totisesti, jumalaapelkäävät saavat olla puutarhoissa ja lähteiden äärellä. 15:45; 51:15
+- = Hän sanoi: "Mikä on sitten teidän asianne, oi lähettiläät?" 15:57; 51:31
+- = He sanoivat: "Meidät on lähetetty rikollisten kansan luokse." 15:58; 51:32
+- = Ne, jotka uskovat eivätkä sekoita uskoonsa vääryyttä – he saavat olla turvassa, ja heitä johdetaan oikein. 16:42; 29:59
+- = Jotta he kieltäisivät sen, minkä Me olemme heille antaneet. Nauttikaa siis, pian te tulette tietämään. 16:55; 30:34
+- = Sitten hän kulki toista tietä. 18:89; 18:92
+- = Mene faraon luo; totisesti hän on ylittänyt rajat." 20:24; 79:17
+- = Ja ne, jotka suojelevat sukupuolielimiään. 23:5; 70:29
+- = Paitsi vaimojensa tai oikean käden omistamien (orjattarien) suhteen – silloin he eivät ole moitittavia. 23:6; 70:30
+- = Mutta ne, jotka tämän lisäksi tavoittelevat, ovat rajanrikkojia. 23:7; 70:31
+- = Ja ne, jotka pitävät huolen uskotuista tehtävistä ja lupauksistaan. 23:8; 70:32
+- = (Nooa) sanoi: "Herrani, auta minua, sillä he pitävät minua valhettelijana." 23:26; 23:39
+- = Ta, Sin, Mim. 26:1; 28:1
+- = Nämä ovat selkeän Kirjan jakeita. 26:2; 28:2
+- = Totisesti tässä on merkki, mutta useimmat heistä eivät usko. 26:8; 26:67; 26:103; 26:121; 26:174; 26:190
+- = Ja totisesti, Herrasi – Hän on Mahtava, Armollinen. 26:9; 26:68; 26:104; 26:122; 26:140; 26:159; 26:175; 26:191
+- = Ja Me hukutimme muut. 26:66; 37:82
+- = Totisesti, minä olen teille luotettava lähettiläs. 26:107; 26:125; 26:143; 26:162; 26:178
+- = Pelätkää siis Allahia ja totelkaa minua. 26:108; 26:110; 26:126; 26:131; 26:144; 26:150; 26:163; 26:179
+- = Enkä minä pyydä teiltä siitä palkkaa. Minun palkkani on ainoastaan maailmojen Herran huomassa. 26:109; 26:127; 26:145; 26:164; 26:180
+- = Puutarhoissa ja lähteiden äärellä. 26:147; 44:52
+- = He sanoivat: "Sinä olet vain niitä, jotka ovat taikojen valtaamia." 26:153; 26:185
+- = Paitsi hänen vaimonsa – Me määräsimme hänet niiden joukkoon, jotka jäivät jälkeen. 26:171; 37:135
+- = Sitten Me tuhosimme muut. 26:172; 37:136
+- = Ja Me lähetimme heidän päälleen sateen (kivillä), ja kauhea oli se sade varoitetuille! 26:173; 27:58
+- = Haluaisivatko he siis kiirehtiä rangaistusta? 26:204; 37:176
+- = Ne, jotka suorittavat rukouksen, antavat almuveron ja ovat varmoja tulevasta elämästä. 27:3; 31:4
+- = Ja (muista) sitä päivää, jolloin Hän kutsuu heitä ja sanoo: "Missä ovat Minun 'kumppanini', joita te väititte?" 28:62; 28:74
+- = Ja esi-isämme? 37:17; 56:48
+- = Ja he kääntyvät toistensa puoleen kysellen. 37:27; 52:25
+- = Mutta (he ovat) Allahin vilpittömiä palvelijoita. 37:40; 37:74; 37:128; 37:160
+- = Autuuden puutarhoissa. 37:43; 56:12
+- = Ja Me jätimme hänestä (hyvän muiston) myöhempien sukupolvien keskuuteen: 37:78; 37:108; 37:129
+- = Totisesti, Me palkitsemme hyväntekijät näin. 37:80; 37:121; 37:131; 77:44
+- = Totisesti, hän kuului Meidän uskoviin palvelijoihimme. 37:81; 37:111; 37:132
+- = Mikä teitä vaivaa? Kuinka te tuomitsette? 37:154; 68:36
+- = Se ei ole muuta kuin muistutus maailmoille. 38:87; 81:27
+- = Kirjan ilmoittaminen on Allahilta, Mahtavalta, Viisaalta. 39:1; 45:2; 46:2
+- = Ha, Mim. 40:1; 41:1; 42:1; 43:1; 44:1; 45:1; 46:1
+- = Selkeän Kirjan kautta. 43:2; 44:2
+- = Jätä heidät siis turhiin juttuihin ja leikkeihinsä, kunnes he kohtaavat päivänsä, joka heille on luvattu. 43:83; 70:42
+- = (Heille sanotaan): "Syökää ja juokaa tyytyväisinä palkkioksi siitä, mitä teitte." 52:19; 77:43
+- = Vai pyydätkö sinä heiltä palkkiota, niin että he olisivat velkojen rasittamia? 52:40; 68:46
+- = Vai onko heillä tietoa näkymättömistä, niin että he kirjoittavat sen muistiin? 52:41; 68:47
+- = Ja kuinka kauhea olikaan Minun rangaistukseni ja varoitukseni! 54:16; 54:21; 54:30
+- = Ja Me olemme tehneet Koraanin helpoksi muistaa. Onko siis ketään, joka ottaisi opikseen? 54:17; 54:22; 54:32; 54:40
+- = Minkä Herranne armoteoista siis kiellätte? 55:13; 55:16; 55:18; 55:21; 55:23; 55:25; 55:28; 55:30; 55:32; 55:34; 55:36; 55:38; 55:40; 55:42; 55:45; 55:47; 55:49; 55:51; 55:53; 55:55; 55:57; 55:59; 55:61; 55:63; 55:65; 55:67; 55:69; 55:71; 55:73; 55:75; 55:77
+- = Suuri joukko varhaisia. 56:13; 56:39
+- = Ja meitä on riistetty? 56:67; 68:27
+- = Ylistä siis Herrasi, suuren, nimeä. 56:74; 56:96; 69:52
+- = Se on ilmoitus maailmojen Herralta. 56:80; 69:43
+- = Kaikki taivaissa ja maassa ylistää Allahia, ja Hän on Mahtava, Viisas. 59:1; 61:1
+- = Kun hänelle luetaan Meidän jakeitamme, hän sanoo: "Vanhojen taruja!" 68:15; 83:13
+- = Niin hän on miellyttävässä elämässä. 69:21; 101:7
+- = Korkeassa puutarhassa. 69:22; 88:10
+- = Eikä hän kannusta köyhien ruokkimiseen. 69:34; 107:3
+- = (Tämä) on totisesti jalosukuisen Lähettilään (Gabrielin) sana. 69:40; 81:19
+- = Totisesti, tämä on muistutus; kuka tahtoo, valitkoon itselleen tien Herralleen. 73:19; 76:29
+- = Kuka tahtoo, se muistakoon sen. 74:55; 80:12
+- = Voi sinä päivänä niitä, jotka hylkäävät totuuden! 77:15; 77:19; 77:24; 77:28; 77:34; 77:37; 77:40; 77:45; 77:47; 77:49; 83:10
+- = Totisesti, hurskaat saavat olla autuudessa. 82:13; 83:22
+- = Se on kirjoitettu kirja. 83:9; 83:20
+- = Korokkeilla he katsovat. 83:23; 83:35
+- = Ja kuuntelee Herraansa, ja se on velvollinen tekemään niin. 84:2; 84:5
+- = Enkä minä palvele sitä, mitä te palvelette. 109:3; 109:5
 noblequran.com Schemas
 - Mekkalaiset mushrikit vahvistivat Allahin rububiyyahin (herruuden) 10:31; 23:84; 29:61, 63; 31:25; 39:38; 43:9; 43:87
 - Kirja ja Viisaus (sunna) 2:129; 2:151; 2:231; 3:164; 4:113; 33:34; 62:2

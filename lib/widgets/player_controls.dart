@@ -1330,7 +1330,7 @@ class ProgressBarPainter extends CustomPainter {
 
     if (chapters.length > 1 && chapters.length <= 400) {
       final markerPaint = Paint()
-        ..color = Colors.pink.shade200
+        ..color = Colors.teal
         ..style = PaintingStyle.fill;
       for (final chapter in chapters) {
         if (chapter.startTime.inMilliseconds <= 0) continue;

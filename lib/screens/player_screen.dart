@@ -610,7 +610,6 @@ class _PlayerScreenState extends State<PlayerScreen>
     if (needsNewFile) {
       await _loadQuranVttForFile(targetOpusPath);
       await _openAudiobook(targetOpusPath);
-      await Future.delayed(const Duration(milliseconds: 800));
     }
     final startId = ref.chapterIdStart;
     final chapters = _currentAudiobook?.chapters ?? [];
@@ -638,7 +637,12 @@ class _PlayerScreenState extends State<PlayerScreen>
       setState(() => _pendingStopRef = effectiveStopRef);
     }
     await _jumpToChapter(chapterIndex);
+    final originalVolume = player.state.volume;
+    await player.setVolume(0);
     await player.play();
+    Future.delayed(const Duration(milliseconds: 600), () {
+      if (mounted) player.setVolume(originalVolume);
+    });
     setState(() => _showPanel = false);
   }
 

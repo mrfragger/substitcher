@@ -415,6 +415,7 @@ class _QuranPanelState extends State<QuranPanel> {
     'rub',
     '#',
     '=',
+    'phrases',
   };
 
   String _detectScript(String word) {
@@ -1485,9 +1486,13 @@ class _QuranPanelState extends State<QuranPanel> {
                   ),
                   if (widget.isQuranLoaded) ...[
                     const SizedBox(width: 16),
-                    const Text('⇧Q next ayah',
-                        style: TextStyle(color: Colors.white38, fontSize: 12)),
-                    const SizedBox(width: 10),
+                    const Tooltip(
+                      message: 'next ayah',
+                      child: Text('⇧Q',
+                          style:
+                              TextStyle(color: Colors.white38, fontSize: 12)),
+                    ),
+                    const SizedBox(width: 6),
                     SizedBox(
                       width: 120,
                       height: 28,
@@ -1548,9 +1553,11 @@ class _QuranPanelState extends State<QuranPanel> {
                     _quickFilterChip('months', 'islamic months'),
                     const SizedBox(width: 4),
                     _quickFilterChip('99names', '#'),
-                    if (widget.selectedLanguage == 'English') ...[
+                    const SizedBox(width: 4),
+                    _quickFilterChip('=ayah', '\='),
+                    if (widget.selectedLanguage == 'English')
                       const SizedBox(width: 4),
-                      _quickFilterChip('=ayah', '\='),
+                      _quickFilterChip('=phrase', 'phrases'), ...[
                     ],
                   const Spacer(),
                   TextButton(
@@ -1559,19 +1566,29 @@ class _QuranPanelState extends State<QuranPanel> {
                         style: TextStyle(color: Colors.white38, fontSize: 12)),
                   ),
                   const SizedBox(width: 4),
-                  TextButton(
-                    onPressed: () => setState(() {
-                      if (_expandedIndices.length >= widget.entries.length) {
-                        _expandedIndices.clear();
-                      } else {
-                        _expandedIndices.addAll(
-                            List.generate(widget.entries.length, (i) => i));
-                      }
-                    }),
-                    child: Text(
-                      _expandedIndices.isEmpty ? 'Expand all' : 'Collapse all',
-                      style:
-                          const TextStyle(color: Colors.white38, fontSize: 12),
+                  Tooltip(
+                    message: _expandedIndices.isEmpty
+                        ? 'Expand all'
+                        : 'Collapse all',
+                    child: IconButton(
+                      onPressed: () => setState(() {
+                        if (_expandedIndices.length >= widget.entries.length) {
+                          _expandedIndices.clear();
+                        } else {
+                          _expandedIndices.addAll(
+                              List.generate(widget.entries.length, (i) => i));
+                        }
+                      }),
+                      icon: Icon(
+                        _expandedIndices.isEmpty
+                            ? Icons.unfold_more
+                            : Icons.unfold_less,
+                        color: Colors.white38,
+                        size: 18,
+                      ),
+                      padding: EdgeInsets.zero,
+                      constraints: const BoxConstraints(),
+                      visualDensity: VisualDensity.compact,
                     ),
                   ),
                 ],
@@ -2445,10 +2462,8 @@ class _QuranPanelState extends State<QuranPanel> {
       }
       final m = match.group(0) ?? '';
       if (match.group(1) != null) {
-        // Quoted text: pink base, Allah words still highlighted
         spans.addAll(parseWithAllah(m, quoteStyle));
       } else if (match.group(2) != null) {
-        // Bracket: amber base, extract nested parens as cyan
         final parenPattern = RegExp(r'\([^)]*\)');
         int innerCursor = 0;
         for (final p in parenPattern.allMatches(m)) {
@@ -2463,7 +2478,6 @@ class _QuranPanelState extends State<QuranPanel> {
           spans.addAll(parseWithAllah(m.substring(innerCursor), amber));
         }
       } else if (match.group(3) != null) {
-        // Paren: cyan base, extract nested quotes as pink
         int innerCursor = 0;
         for (final q in quotePattern.allMatches(m)) {
           if (q.start > innerCursor) {

@@ -449,7 +449,7 @@ after installing dmg from releases or via homebrew in terminal remove quarantine
 xattr -dr com.apple.quarantine /Applications/SubStitcher.app
 ```
 iOS can use VLC (no subs though for audiobooks)
-or nPlayer or Liquid Player both $5 which handle vtt subs with audiobooks
+or nPlayer $5 which handles vtt subs with opus audiobooks
 </details>
 
 <details>
