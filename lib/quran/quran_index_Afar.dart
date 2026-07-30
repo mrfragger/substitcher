@@ -2953,4 +2953,70 @@ noblequran.com Schemas
 - Gaboh (marriage) waqdih ellecerih taniih factors 4:6; 6:152; 24:59
 - Jibriil Qhuduus, amaanat-le Ruux Yalla-kak Qhuraan Nabih fan yeceh 2:97; 16:102; 26:192
 - Cato, tirtaa kee gaboobi Yalla kee kay Farmoytit le 30:47; 37:171-173; 40:51; 58:21
+Matching Phrases 13 words
+- Nabiyyiin koh kah anukuume marak duma kak anukuume, tokkel keenik abankasak suge maral gaca-leenim ken abankasak sugeem. (وَلَقَدِ اسْتُهْزِئَ بِرُسُلٍ مِّن قَبْلِكَ فَحَاقَ بِالَّذِينَ سَخِرُوا مِنْهُم مَّا كَانُوا بِهِ يَسْتَهْزِئُونَ) 6:10; 21:41
+- Keenih ken toobokoy Shucaayb ambaaxeh, isak: "Isi maraw Yalla uqbudta; Yallak sa heldu leyton matan." (وَإِلَى مَدْيَنَ أَخَاهُمْ شُعَيْبًا قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ) 7:85; 11:84
+- Keenih ken toobokoy Saalic ambaaxeh, isak: "Isi maraw Yalla uqbudta; Yallak sa heldu leyton matan." (وَإِلَى ثَمُودَ أَخَاهُمْ صَالِحًا قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ) 7:73; 11:61
+- Diggah Yalli rizqhi abaadisa waqdi isih faxa marah, qeeda usuk isih faxa marah, diggah tohut kaskooti tan yallinumuh yekkeenih marah. (أَنَّ اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ وَيَقْدِرُ إِنَّ فِي ذَلِكَ لَآيَاتٍ لِّقَوْمٍ يُؤْمِنُونَ) 30:37; 39:52
+- Keenih ken toobokoy Huud ambaaxeh, isak: "Isi maraw Yalla uqbudta; Yallak sa heldu leyton matan." (وَإِلَى عَادٍ أَخَاهُمْ هُودًا قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ) 7:65; 11:50
+- Kaadu yeemeneh maray meqe taamoomi abe, ken culusna Jannootay gaba Aqawah weeqaytá gexxa, waarak ken addal waara waagibdiya. (وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ سَنُدْخِلُهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا) 4:57; 4:122
+- Gaba Aqawah weeqaytá gexxa, waarak ken addal waara waagibdiya, Yalli keenit leedeeh, usun kaa leedeen, toh. (تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا رَّضِيَ اللَّهُ عَنْهُمْ وَرَضُوا عَنْهُ ذَلِكَ) 5:119; 98:8
+- Nabiyow isik: "Anu sin innah tu-gacta seehada kinniyo, wacyi gacsimta yi amol diggah sin Yalla inki Yalla kinni." (قُلْ إِنَّمَا أَنَا بَشَرٌ مِّثْلُكُمْ يُوحَى إِلَيَّ أَنَّمَا إِلَهُكُمْ إِلَهٌ وَاحِدٌ) 18:110; 41:6
+- Kaadu seehadak mari Yallal marih uma mara, ixxig-ak saana akke waytek, kaa kee kitoob ifa gecii mali. (وَمِنَ النَّاسِ مَن يُجَادِلُ فِي اللَّهِ بِغَيْرِ عِلْمٍ وَلَا هُدًى وَلَا كِتَابٍ مُّنِيرٍ) 22:8; 31:20
+- Usuk bar laqôt culsa, kaadu laqo bar culsa, kaadu ayrooy alsa qinaadise, inkittinak gayso waqdi. (يُولِجُ اللَّيْلَ فِي النَّهَارِ وَيُولِجُ النَّهَارَ فِي اللَّيْلِ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ كُلٌّ يَجْرِي) 31:29; 35:13
+- Qaranwak lee oobise, tokkel kaa gexsisis baaxó, is tet rabteek lamma, diggah tohut asta tan marah. (مِنَ السَّمَاءِ مَاءً فَأَحْيَا بِهِ الْأَرْضَ بَعْدَ مَوْتِهَا إِنَّ فِي ذَلِكَ لَآيَةً لِّقَوْمٍ) 16:65; 30:24
+- Diggah koroosite marah, ken maaluy ken baxa Yallal ken maa-qawwisa, woo mari. (إِنَّ الَّذِينَ كَفَرُوا لَن تُغْنِيَ عَنْهُمْ أَمْوَالُهُمْ وَلَا أَوْلَادُهُم مِّنَ اللَّهِ شَيْئًا وَأُولَئِكَ) 3:10; 3:116
+- Yallay qaranwaa kee baaxó kee ken nammayih addal tanim leh yakkaleh, tokkel Qarshul isi amol fayya hee. (الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا فِي سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَى عَلَى الْعَرْشِ) 25:59; 32:4
+
+Matching Phrases 12 words
+- Ma-ginnawon baaxól gexxeenii, tokkel cubbuseenikah duma marak ellecabo sugte, usun. (أَوَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ كَانُوا) 30:9; 35:44; 40:82
+- Diggah Yalli yeemeneh maray meqe taamoomi abe culusa Jannootay gaba Aqawah weeqaytá gexxa. (إِنَّ اللَّهَ يُدْخِلُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 22:14; 22:23; 47:12
+- Diggah Yalli xagnik diggik, toysa addunya manoo sin makaysinnaay, makaysiyya Yallal sin makaysinna. (إِنَّ وَعْدَ اللَّهِ حَقٌّ فَلَا تَغُرَّنَّكُمُ الْحَيَاةُ الدُّنْيَا وَلَا يَغُرَّنَّكُم بِاللَّهِ الْغَرُورُ) 31:33; 35:5
+- Toih tirtô num, toysa tirti isi nafsi cagalah, kaadu makkottem, toysa makko isi nafsi cagalah. (فَمَنِ اهْتَدَى فَإِنَّمَا يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا) 10:108; 17:15
+- Kaadu kaxxa-moodu qambis, tokkel usuk qaxamekkeeh, is kah aydi, wadir gace, kaadu isi wadir ma-cerre, "Ya Muusaa!" (وَأَلْقِ عَصَاكَ فَلَمَّا رَآهَا تَهْتَزُّ كَأَنَّهَا جَانٌّ وَلَّى مُدْبِرًا وَلَمْ يُعَقِّبْ يَامُوسَى) 27:10; 28:31
+- Baaxól gexxa, tokkel cubbusa duma marak ellecabo, maggo mari ken addal. (سِيرُوا فِي الْأَرْضِ فَانظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلُ كَانَ أَكْثَرُهُم) 30:42; 40:82
+- Toysa isi Rabbih fayla saqt, ayro tawqeek dumaay ayro kormaak duma. (فَاصْبِرْ عَلَى مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ غُرُوبِهَا) 20:130; 50:39
+- Kaadu mato-ysiil maalel maxcoppina, wohuk meqe waytá cagalah, qadu irooha geyi keenik, kaadu duudusa. (وَلَا تَقْرَبُوا مَالَ الْيَتِيمِ إِلَّا بِالَّتِي هِيَ أَحْسَنُ حَتَّى يَبْلُغَ أَشُدَّهُ وَأَوْفُوا) 6:152; 17:34
+- Inti-laa numul umaane matan, kaadu raqsí numul umaane matan, kaadu biyaak numul umaane matan. (لَّيْسَ عَلَى الْأَعْمَى حَرَجٌ وَلَا عَلَى الْأَعْرَجِ حَرَجٌ وَلَا عَلَى الْمَرِيضِ حَرَجٌ) 24:61; 48:17
+- "Ah diggik ma-kii?" usun iyyeh: "Yeey, ni Rabbil xiibah." usuk iyyeh: "Toysa digaalá ta$me, isin koroosannuk sugteenimih sabbab." (أَلَيْسَ هَذَا بِالْحَقِّ قَالُوا بَلَى وَرَبِّنَا قَالَ فَذُوقُوا الْعَذَابَ بِمَا كُنتُمْ تَكْفُرُونَ) 6:30; 46:34
+- Toih say-xaylo kah kaxxamarih mara (kaxxa-mari) iyyen: "Diggah nanu sin kataysay, toysa, isin gexsiitaanee nek?" (فَقَالَ الضُّعَفَاءُ لِلَّذِينَ اسْتَكْبَرُوا إِنَّا كُنَّا لَكُمْ تَبَعًا فَهَلْ أَنتُم مُّغْنُونَ عَنَّا) 14:21; 40:47
+- Kinnih taysa migaqwaay, isin kee sin abbobtiy sin tayse, Yalli diggaluk tu-makobise. (إِلَّا أَسْمَاءً سَمَّيْتُمُوهَا أَنتُمْ وَآبَاؤُكُم مَّا أَنزَلَ اللَّهُ بِهَا مِن سُلْطَانٍ إِنِ) 12:40; 53:23
+- Kok duma rubsumte, labha cagalah, wacyi ken amol oobisne, toysa ac-zaabaamit essera, isin ma-taaxigeenik. (قَبْلِكَ إِلَّا رِجَالًا نُّوحِي إِلَيْهِمْ فَاسْأَلُوا أَهْلَ الذِّكْرِ إِن كُنتُمْ لَا تَعْلَمُونَ) 16:43; 21:7
+- Isi iyyeh: "Isin kaat yeemeneenik, yoh idin kaak duma, diggah usuk sin kaxxam, seehada sin barissee baab." (قَالَ آمَنتُمْ لَهُ قَبْلَ أَنْ آذَنَ لَكُمْ إِنَّهُ لَكَبِيرُكُمُ الَّذِي عَلَّمَكُمُ السِّحْرَ) 20:71; 26:49
+- Kaadu dudda-le nafsi aka nafsi dudda ma-kaxxamaysa, tohuk lamma isi Rabbih fan gacsimta, tokkel sin xiqsisa isin abak sugteenimih. (وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَى ثُمَّ إِلَى رَبِّكُم مَّرْجِعُكُمْ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 6:164; 39:7
+- Kaadu nanu inne: "Oobiya, sin taturta catuk, isin fan qadu-uma, kaadu sin fan baaxól daffowsiyyaay, waqdi gide dudda." (وَقُلْنَا اهْبِطُوا بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ وَلَكُمْ فِي الْأَرْضِ مُسْتَقَرٌّ وَمَتَاعٌ إِلَى حِينٍ) 2:36; 7:24
+- Nammay, isik: "Labha nammayá yakkas tii, hinnay agab nammayá, hinnay agab nammayah maxxam xacteem?" (اثْنَيْنِ قُلْ آلذَّكَرَيْنِ حَرَّمَ أَمِ الْأُنثَيَيْنِ أَمَّا اشْتَمَلَتْ عَلَيْهِ أَرْحَامُ الْأُنثَيَيْنِ) 6:143; 6:144
+
+Matching Phrases 11 words
+- Kaadu anu sin essera maca gidoh galtó, yi galtó ginna awlay ginna Rabbih fan cagalah. (وَمَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِنْ أَجْرِيَ إِلَّا عَلَى رَبِّ الْعَالَمِينَ) 26:109; 26:127; 26:145; 26:164; 26:180
+- Baaxól gexxeenii, tokkel cubbuseenikah duma marak ellecabo? (أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ) 12:109; 30:9; 35:44; 40:82; 47:10
+- Gexxa baaxól, tokkel cubbusa duma marak ellecabo sugte, usun. (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ كَانُوا) 30:9; 30:42; 35:44; 40:82
+- Diggah ku Rabbik aaxagih, isi gita watak hayta num, kaadu usuk aaxagih tirri geyte mara. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ مَن يَضِلُّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ) 6:117; 16:125; 68:7
+- Yallay qaranwaa kee baaxó leh yakkaleh, tokkel Qarshul isi amol fayya hee. (الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَى عَلَى الْعَرْشِ) 7:54; 10:3; 57:4
+- Kaadu anuh-dagga num mayan, Yallal dirab ginnahe, hinnay isi aayoota dirah yekke numuk. (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا أَوْ كَذَّبَ بِآيَاتِهِ) 6:21; 7:37; 10:17
+- Usuk Yallay isi farmoyta tiró kee cakki diinil rubsem, is kaa fayya hee deenik amol. (هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَى وَدِينِ الْحَقِّ لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ) 9:33; 48:28; 61:9
+- Diggah koroositeh maray iyye: "Diggah Yalli usuk Maryam baxi Masciic kinni." isik: (لَّقَدْ كَفَرَ الَّذِينَ قَالُوا إِنَّ اللَّهَ هُوَ الْمَسِيحُ ابْنُ مَرْيَمَ قُلْ) 5:17; 5:72
+- Inti-liiteh, ken makkoti, isin ma-taysmaayan, kinnih taysa ni aayoota nummayse mara, usun Muslimiina. (الْعُمْيِ عَن ضَلَالَتِهِمْ إِن تُسْمِعُ إِلَّا مَن يُؤْمِنُ بِآيَاتِنَا فَهُم مُّسْلِمُونَ) 27:81; 30:53
+- Addunya manoo misaal leeh, lee qaranwak oobisne, tokkel baaxó buqsí kaa yektel. (مَثَلُ الْحَيَاةِ الدُّنْيَا كَمَاءٍ أَنزَلْنَاهُ مِنَ السَّمَاءِ فَاخْتَلَطَ بِهِ نَبَاتُ الْأَرْضِ) 10:24; 18:45
+- Tet addal ummaan inkiqimbik nammay nammay, kaadu ku mara, kinnih taysa qangar elle taturte mara. (فِيهَا مِن كُلٍّ زَوْجَيْنِ اثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ الْقَوْلُ) 11:40; 23:27
+- Anu sin kah iyya: "Yi amol Yalli qarwaa kee baxa mali, kaadu anu gaib ma-aaxiga, kaadu anu ma-iyya." (لَّا أَقُولُ لَكُمْ عِندِي خَزَائِنُ اللَّهِ وَلَا أَعْلَمُ الْغَيْبَ وَلَا أَقُولُ) 6:50; 11:31
+- Diggah Yalli seehadal muxxu le, kinnih maggo seehada ma-faytitta. (إِنَّ اللَّهَ لَذُو فَضْلٍ عَلَى النَّاسِ وَلَكِنَّ أَكْثَرَ النَّاسِ لَا يَشْكُرُونَ) 2:243; 40:61
+- Kaadu ken fan ma-tekka asta-koh keenih, ken Rabbih aayootak, kinnih taysa tet wadaranak sugte. (وَمَا تَأْتِيهِم مِّنْ آيَةٍ مِّنْ آيَاتِ رَبِّهِمْ إِلَّا كَانُوا عَنْهَا مُعْرِضِينَ) 6:4; 36:46
+- Kaadu ayró cukta, nafsi aka nafsi maca giddiisa, kaadu kak ma-qabla, kaadu kak ma-kah. (وَاتَّقُوا يَوْمًا لَّا تَجْزِي نَفْسٌ عَن نَّفْسٍ شَيْئًا وَلَا يُقْبَلُ مِنْهَا) 2:48; 2:123
+- Diggah atu rabe mara ma-taysmaysa, kaadu taabuk numma ma-taysmaysa, usun wadir gace mara. (إِنَّكَ لَا تُسْمِعُ الْمَوْتَى وَلَا تُسْمِعُ الصُّمَّ الدُّعَاءَ إِذَا وَلَّوْا مُدْبِرِينَ) 27:80; 30:52
+- Sin amol ceyna, qaboola, dofa-qa, kaadu Yallak sa marah lugeenim, tan ceyna. (حُرِّمَتْ عَلَيْكُمُ الْمَيْتَةُ وَالدَّمُ وَلَحْمُ الْخِنزِيرِ وَمَا أُهِلَّ لِغَيْرِ اللَّهِ بِهِ) 5:3; 16:115
+- Qaranwaa kee baaxól tanim inkih Yalla saytunnoysa, kaadu usuk mayso-le, naggaara. (سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَهُوَ الْعَزِيزُ الْحَكِيمُ) 59:1; 61:1
+- Kinnih taysa tokkel wadir yegullumeh maray meqe taamoomi abe, diggah Yalli dambi-caba, xuwaw-li. (إِلَّا الَّذِينَ تَابُوا مِن بَعْدِ ذَلِكَ وَأَصْلَحُوا فَإِنَّ اللَّهَ غَفُورٌ رَّحِيمٌ) 3:89; 24:5
+- Nabiyyiina ken Rabbih xaquk, nanu ken addal mara magiddiisa, kaadu nanu kaah Muslimiina. (النَّبِيُّونَ مِن رَّبِّهِمْ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّنْهُمْ وَنَحْنُ لَهُ مُسْلِمُونَ) 2:136; 3:84
+- Ku Rabbik, koh duma, meesisiyya macak, kay meesisiyya yamaate, usun takka. (مِّن رَّبِّكَ لِتُنذِرَ قَوْمًا مَّا أَتَاهُم مِّن نَّذِيرٍ مِّن قَبْلِكَ لَعَلَّهُمْ) 28:46; 32:3
+- Nabiyow koroositeh maraa kee munaafiqhiina jihaada, kaadu ken amol kaxxamari, ken orba Jahannam, kaadu is maqe girsi. (يَا أَيُّهَا النَّبِيُّ جَاهِدِ الْكُفَّارَ وَالْمُنَافِقِينَ وَاغْلُظْ عَلَيْهِمْ وَمَأْوَاهُمْ جَهَنَّمُ وَبِئْسَ الْمَصِيرُ) 9:73; 66:9
+- Diggah ku Rabbik ken nammayih fan mekle Qhiyaamah ayró, ken nammayih addal itta-weenemih sabbab. (إِنَّ رَبَّكَ يَقْضِي بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 10:93; 45:17
+- Isi iyyeh: "Yi Rabbi, yoh asta hayis." isi iyyeh: "Ku asta, seehada ma-taysmayta." (قَالَ رَبِّ اجْعَل لِّي آيَةً قَالَ آيَتُكَ أَلَّا تُكَلِّمَ النَّاسَ) 3:41; 19:10
+- Toysa ku fooci Qibla caris, kaadu isin kalah yen mara, toysa sin fooci tet fan carisa. (فَوَلِّ وَجْهَكَ شَطْرَ الْمَسْجِدِ الْحَرَامِ وَحَيْثُ مَا كُنتُمْ فَوَلُّوا وُجُوهَكُمْ شَطْرَهُ) 2:144; 2:150
+- Israil baxaw, yi niqmat casbisa, anu sin amol cine, kaadu anu sin qibaada hee awlayna mara. (يَا بَنِي إِسْرَائِيلَ اذْكُرُوا نِعْمَتِيَ الَّتِي أَنْعَمْتُ عَلَيْكُمْ وَأَنِّي فَضَّلْتُكُمْ عَلَى الْعَالَمِينَ) 2:47; 2:122
+- Malqa sagla qibqaa, yeexe qibqa usun yakmek, kaadu malqa sagla gulub, kaadu akawwaytá raqta. (سَبْعَ بَقَرَاتٍ سِمَانٍ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌ وَسَبْعَ سُنبُلَاتٍ خُضْرٍ وَأُخَرَ يَابِسَاتٍ) 12:43; 12:46
+- Kaadu ummaan marah waqdi tan, tokkel ken waqdi yamaate, waqdi ma-wadira, kaadu ma-tamaate. (وَلِكُلِّ أُمَّةٍ أَجَلٌ فَإِذَا جَاءَ أَجَلُهُمْ لَا يَسْتَأْخِرُونَ سَاعَةً وَلَا يَسْتَقْدِمُونَ) 7:34; 10:49
+- Yallak sa marah lugeenim, tokkel isi kassitak hayta num, dambi-uma, wali, toysa diggah. (أُهِلَّ لِغَيْرِ اللَّهِ بِهِ فَمَنِ اضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ) 6:145; 16:115
+- Kaadu ken kah iyye: "Yalli oobisem kataata." usun iyye: "Fakki, nanu kataata." (وَإِذَا قِيلَ لَهُمُ اتَّبِعُوا مَا أَنزَلَ اللَّهُ قَالُوا بَلْ نَتَّبِعُ مَا) 2:170; 31:21
+- Isi iyyeh: "Isi maraw Yalla uqbudta, Yallak sa heldu leyton matan, toysa Yallak ma-cuktaa?" (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 7:65; 23:23
 """;

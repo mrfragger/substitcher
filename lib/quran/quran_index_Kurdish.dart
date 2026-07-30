@@ -2952,4 +2952,70 @@ noblequran.com Schemas
 - هۆکارەکانی دیاریکردنی تەمەنی هاوسەرگیری 4:6; 6:152; 24:59
 - جبریل ئەو ڕۆحە پیرۆز و ئەمینەیە کە قورئانی لە خوداوە بۆ پێغەمبەر هێنا 2:97; 16:102; 26:192
 - یارمەتی و سەرکەوتن و دەسەڵات هی خودا و پێغەمبەرەکانیەتی 30:47; 37:171-173; 40:51; 58:21
+Matching Phrases 13 words
+- Û bi rastî berî te jî pêxember hatin tinazkirin, lê ên ku bi wan tinazî dikirin, ew tiştê ku pê tinazî dikirin, wan dorpêç kir. (وَلَقَدِ اسْتُهْزِئَ بِرُسُلٍ مِّن قَبْلِكَ فَحَاقَ بِالَّذِينَ سَخِرُوا مِنْهُم مَّا كَانُوا بِهِ يَسْتَهْزِئُونَ) 6:10; 21:41
+- Û bal Madyanê (me şand) birayê wan Şu'eyb. Wî got: 'Gelî miletê min, Xwedê perestî bikin; ji xwe pê ve ji bo we tu xwedê tune.' (وَإِلَى مَدْيَنَ أَخَاهُمْ شُعَيْبًا قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ) 7:85; 11:84
+- Û bal Semûdê (me şand) birayê wan Salih. Wî got: 'Gelî miletê min, Xwedê perestî bikin; ji xwe pê ve ji bo we tu xwedê tune.' (وَإِلَى ثَمُودَ أَخَاهُمْ صَالِحًا قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ) 7:73; 11:61
+- Ku bi rastî Xwedê roziyê ji bo kîjanî bixwaze fireh dike û teng dike. Bi rastî di vê de ji bona miletê ku di bawer dikin, ayet hene. (أَنَّ اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ وَيَقْدِرُ إِنَّ فِي ذَلِكَ لَآيَاتٍ لِّقَوْمٍ يُؤْمِنُونَ) 30:37; 39:52
+- Û bal Adê (me şand) birayê wan Hûd. Wî got: 'Gelî miletê min, Xwedê perestî bikin; ji xwe pê ve ji bo we tu xwedê tune.' (وَإِلَى عَادٍ أَخَاهُمْ هُودًا قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ) 7:65; 11:50
+- Û ên ku bawer kirin û karên qenc kirin, emê wan têxin bihiştên ku ji bin wan çem diherikin, hertimî tê de dimînin. (وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ سَنُدْخِلُهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا) 4:57; 4:122
+- Ji bin wan çem diherikin, hertimî tê de dimînin; Xwedê ji wan razî ye û ew jî ji Xwedê razî ne. Ev... (تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا رَّضِيَ اللَّهُ عَنْهُمْ وَرَضُوا عَنْهُ ذَلِكَ) 5:119; 98:8
+- Bêje: 'Ez tenê mirovekî wekî we me; ji min re tê wehîkirin ku Xwedayê we yê tenê yek Xwedê ye.' (قُلْ إِنَّمَا أَنَا بَشَرٌ مِّثْلُكُمْ يُوحَى إِلَيَّ أَنَّمَا إِلَهُكُمْ إِلَهٌ وَاحِدٌ) 18:110; 41:6
+- Û ji mirovan hin kes hene ku bêyî zanîn, bêyî rêberî û bêyî pirtûkeke ronî, di derbarê Xwedê de bi qayîm dikin. (وَمِنَ النَّاسِ مَن يُجَادِلُ فِي اللَّهِ بِغَيْرِ عِلْمٍ وَلَا هُدًى وَلَا كِتَابٍ مُّنِيرٍ) 22:8; 31:20
+- Ew şevê dikeve rojê û rojê dikeve şevê, û roj û heyv bi kar tîne, her yek di rêya xwe de diherike... (يُولِجُ اللَّيْلَ فِي النَّهَارِ وَيُولِجُ النَّهَارَ فِي اللَّيْلِ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ كُلٌّ يَجْرِي) 31:29; 35:13
+- Ji ezmên av da, bi wê erdê piştî mirina wê vejand. Bi rastî di vê de ji bona miletê (ku dibihîzin) ayetek heye. (مِنَ السَّمَاءِ مَاءً فَأَحْيَا بِهِ الْأَرْضَ بَعْدَ مَوْتِهَا إِنَّ فِي ذَلِكَ لَآيَةً لِّقَوْمٍ) 16:65; 30:24
+- Bi rastî ên ku bûn kafir, ji wan ti mal û zarokên wan li bal Xwedê tu tiştî nayê kêrê. û ew... (إِنَّ الَّذِينَ كَفَرُوا لَن تُغْنِيَ عَنْهُمْ أَمْوَالُهُمْ وَلَا أَوْلَادُهُم مِّنَ اللَّهِ شَيْئًا وَأُولَئِكَ) 3:10; 3:116
+- Ewê ku ezman û erd û tiştên di navbera wan de di şeş rojan de afirand, paşê li ser textê (xwe) bi cih bû. (الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا فِي سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَى عَلَى الْعَرْشِ) 25:59; 32:4
+
+Matching Phrases 12 words
+- Ma ew li erdê negeriyan ku bibînin ka dûmahiya ên beriya wan çawa bû? Wan... (أَوَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ كَانُوا) 30:9; 35:44; 40:82
+- Bi rastî Xwedê ên ku bawer kirin û karên qenc kirin, dike bihiştên ku ji bin wan çem diherikin. (إِنَّ اللَّهَ يُدْخِلُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 22:14; 22:23; 47:12
+- Bi rastî soza Xwedê maf e; vêca jiyana dinyayê nehêle we bixapîne, û ne jî xapîner we bi Xwedê bixapîne. (إِنَّ وَعْدَ اللَّهِ حَقٌّ فَلَا تَغُرَّنَّكُمُ الْحَيَاةُ الدُّنْيَا وَلَا يَغُرَّنَّكُم بِاللَّهِ الْغَرُورُ) 31:33; 35:5
+- Vêca kî rêya rast bibîne, ew ji bona xwe dibîne; û kî ji rêya rast derkeve, ew jî ji bona xwe dikeve. (فَمَنِ اهْتَدَى فَإِنَّمَا يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا) 10:108; 17:15
+- Û gopalê xwe bavêje. Gava dît ku ew diheje wekî ku mar e, paşve zivirî û nepaşve negihîşt. 'Ey Mûsa...' (وَأَلْقِ عَصَاكَ فَلَمَّا رَآهَا تَهْتَزُّ كَأَنَّهَا جَانٌّ وَلَّى مُدْبِرًا وَلَمْ يُعَقِّبْ يَامُوسَى) 27:10; 28:31
+- Li erdê bigerin û bibînin ka dûmahiya ên beriya we çawa bû. Piraniya wan... (سِيرُوا فِي الْأَرْضِ فَانظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلُ كَانَ أَكْثَرُهُم) 30:42; 40:82
+- Vêca li ser tiştên ku ew dibêjin bêhna xwe bigire, û berî hilatina rojê û berî avabûna wê, bi pesnê Xwedayê xwe tesbîh bike. (فَاصْبِرْ عَلَى مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ غُرُوبِهَا) 20:130; 50:39
+- Û nêzîkî malê sêwî nebin, heta ku bigihîje temenê xwe, ji bilî bi tiştê ku baştir e. û peymanê bînin cih... (وَلَا تَقْرَبُوا مَالَ الْيَتِيمِ إِلَّا بِالَّتِي هِيَ أَحْسَنُ حَتَّى يَبْلُغَ أَشُدَّهُ وَأَوْفُوا) 6:152; 17:34
+- Li ser korî tu zor û tengî tune, û li ser kulekî tu zor û tengî tune, û li ser nexweşî tu zor û tengî tune. (لَّيْسَ عَلَى الْأَعْمَى حَرَجٌ وَلَا عَلَى الْأَعْرَجِ حَرَجٌ وَلَا عَلَى الْمَرِيضِ حَرَجٌ) 24:61; 48:17
+- 'Ma ev ne rast e?' Gotin: 'Erê, bi Xwedayê me ve.' Got: 'Vêca ezabê bi sedema ku we kufir dikir, biçêjin.' (أَلَيْسَ هَذَا بِالْحَقِّ قَالُوا بَلَى وَرَبِّنَا قَالَ فَذُوقُوا الْعَذَابَ بِمَا كُنتُمْ تَكْفُرُونَ) 6:30; 46:34
+- Dêwên lawaz ji bo ên ku qubriya dikirin gotin: 'Bi rastî me we da pey xwe. Ma hûn dikarin me ji ezabê Xwedê xilas bikin?' (فَقَالَ الضُّعَفَاءُ لِلَّذِينَ اسْتَكْبَرُوا إِنَّا كُنَّا لَكُمْ تَبَعًا فَهَلْ أَنتُم مُّغْنُونَ عَنَّا) 14:21; 40:47
+- Ji bilî navên ku we û bavên we nav lê kirine, Xwedê ji bona wan tu hêzek dane. Bi rastî... (إِلَّا أَسْمَاءً سَمَّيْتُمُوهَا أَنتُمْ وَآبَاؤُكُم مَّا أَنزَلَ اللَّهُ بِهَا مِن سُلْطَانٍ إِنِ) 12:40; 53:23
+- Berî te ji bilî zilamên ku me ji wan re wehî şandiye, (me şand); vêca eger hûn nizanin, ji zanayên pirtûkan bipirsin. (قَبْلِكَ إِلَّا رِجَالًا نُّوحِي إِلَيْهِمْ فَاسْأَلُوا أَهْلَ الذِّكْرِ إِن كُنتُمْ لَا تَعْلَمُونَ) 16:43; 21:7
+- Got: 'Ma we berî ku ez destûrê bidim we, we bawer pê kir? Bi rastî ew mezinê we ye ku we sihir hîn kiribû.' (قَالَ آمَنتُمْ لَهُ قَبْلَ أَنْ آذَنَ لَكُمْ إِنَّهُ لَكَبِيرُكُمُ الَّذِي عَلَّمَكُمُ السِّحْرَ) 20:71; 26:49
+- Û barhilgir (kes) barê kesekî din hilnagire. Paşê vegeriya we li bal Xwedayê we ye, wê ji we re bibêje ka we çi dikir. (وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَى ثُمَّ إِلَى رَبِّكُم مَّرْجِعُكُمْ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 6:164; 39:7
+- Û me got: 'De hûn bibin xwarê; hûn ji hev re dijmin in. Ji bo we li erdê cih û heta demekê kelûpel hene.' (وَقُلْنَا اهْبِطُوا بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ وَلَكُمْ فِي الْأَرْضِ مُسْتَقَرٌّ وَمَتَاعٌ إِلَى حِينٍ) 2:36; 7:24
+- Dudu: Bêje: 'Ma her du nêr qedexe kirine, an her du mê, an jî tiştê ku malzaroka her du mê ji xwe re digire?' (اثْنَيْنِ قُلْ آلذَّكَرَيْنِ حَرَّمَ أَمِ الْأُنثَيَيْنِ أَمَّا اشْتَمَلَتْ عَلَيْهِ أَرْحَامُ الْأُنثَيَيْنِ) 6:143; 6:144
+
+Matching Phrases 11 words
+- Û ji bona vê ez ji we tu destheq xwastinê nakim; destheqa min tenê li ser Xwedayê gerdûnê ye. (وَمَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِنْ أَجْرِيَ إِلَّا عَلَى رَبِّ الْعَالَمِينَ) 26:109; 26:127; 26:145; 26:164; 26:180
+- Ma ew li erdê negeriyan ku bibînin ka dûmahiya ên beriya wan çawa bû? (أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ) 12:109; 30:9; 35:44; 40:82; 47:10
+- Li erdê bigerin û bibînin ka dûmahiya ên beriya wan çawa bû. Wan... (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ كَانُوا) 30:9; 30:42; 35:44; 40:82
+- Bi rastî Xwedayê te herî baş dizane kî ji rêya wî derdikeve, û ew herî baş dizane ên ku rêya rast girtine. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ مَن يَضِلُّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ) 6:117; 16:125; 68:7
+- Ewê ku ezman û erd di şeş rojan de afirand, paşê li ser textê (xwe) bi cih bû. (الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَى عَلَى الْعَرْشِ) 7:54; 10:3; 57:4
+- Û kîje ji wî zêdetir sitemkar e ku li ser Xwedê derewan çêdike, an berateyên wî derew dike? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا أَوْ كَذَّبَ بِآيَاتِهِ) 6:21; 7:37; 10:17
+- Ew e ku pêxemberê xwe bi rêberî û dîna rast şand, da ku ew bi ser hemû olan de bilind bike. (هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَى وَدِينِ الْحَقِّ لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ) 9:33; 48:28; 61:9
+- Bi rastî ên ku gotin: 'Xwedê bi xwe Mesîhê kurê Meryem e' bûn kafir. Bêje... (لَّقَدْ كَفَرَ الَّذِينَ قَالُوا إِنَّ اللَّهَ هُوَ الْمَسِيحُ ابْنُ مَرْيَمَ قُلْ) 5:17; 5:72
+- Tu nikarî koran ji rêya wan vegerînî. Tu tenê kesên ku bi berateyên me bawer dikin dibihîzî, vêca ew misilman in. (الْعُمْيِ عَن ضَلَالَتِهِمْ إِن تُسْمِعُ إِلَّا مَن يُؤْمِنُ بِآيَاتِنَا فَهُم مُّسْلِمُونَ) 27:81; 30:53
+- Mînaka jiyana dinyayê wekî avekî ye ku me ji ezmên da, paşê bi wê re çêjîyên erdê tevlihev bûn... (مَثَلُ الْحَيَاةِ الدُّنْيَا كَمَاءٍ أَنزَلْنَاهُ مِنَ السَّمَاءِ فَاخْتَلَطَ بِهِ نَبَاتُ الْأَرْضِ) 10:24; 18:45
+- Hilîne tê de ji her cureyî du cot û malbata xwe, ji bilî kesê ku berê biryar li serê hatîye... (فِيهَا مِن كُلٍّ زَوْجَيْنِ اثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ الْقَوْلُ) 11:40; 23:27
+- Ez ji we re nabejim ku xezîneyên Xwedê li ba min in, û ez nezanê nihênî me, û nabejim... (لَّا أَقُولُ لَكُمْ عِندِي خَزَائِنُ اللَّهِ وَلَا أَعْلَمُ الْغَيْبَ وَلَا أَقُولُ) 6:50; 11:31
+- Bi rastî Xwedê ji bona mirovan xwediyê qencîyê ye, lê piraniya mirovan şukir nakin. (إِنَّ اللَّهَ لَذُو فَضْلٍ عَلَى النَّاسِ وَلَكِنَّ أَكْثَرَ النَّاسِ لَا يَشْكُرُونَ) 2:243; 40:61
+- Çi beratek ji berateyên Xwedayê wan ji wan re nehat, ew jê rû zivirandin. (وَمَا تَأْتِيهِم مِّنْ آيَةٍ مِّنْ آيَاتِ رَبِّهِمْ إِلَّا كَانُوا عَنْهَا مُعْرِضِينَ) 6:4; 36:46
+- Û roja ku tu can ji canekî din tiştekî biqedirîne, û ji wê tu fetî qebûl neyê, bitirsin. (وَاتَّقُوا يَوْمًا لَّا تَجْزِي نَفْسٌ عَن نَّفْسٍ شَيْئًا وَلَا يُقْبَلُ مِنْهَا) 2:48; 2:123
+- Bi rastî tu nikarî miriyan (bihîzî), û nikarî bangê bigehînî kesên kerr, gava ku ew paşve dizivirin. (إِنَّكَ لَا تُسْمِعُ الْمَوْتَى وَلَا تُسْمِعُ الصُّمَّ الدُّعَاءَ إِذَا وَلَّوْا مُدْبِرِينَ) 27:80; 30:52
+- Li ser we mirarî, xwîn, goştê beraz û tiştê ku bi navê ne Xwedê hatî serjêkirin, hatiye qedexekirin. (حُرِّمَتْ عَلَيْكُمُ الْمَيْتَةُ وَالدَّمُ وَلَحْمُ الْخِنزِيرِ وَمَا أُهِلَّ لِغَيْرِ اللَّهِ بِهِ) 5:3; 16:115
+- Ji Xwedê re hemî tiştên di ezman û erdê de tesbîh dikin, û ew e serkeftî û bijehk. (سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَهُوَ الْعَزِيزُ الْحَكِيمُ) 59:1; 61:1
+- Ji bilî wan ên ku piştî wê tobe kirin û xwe çêkirin; bi rastî Xwedê axurvan û dilovan e. (إِلَّا الَّذِينَ تَابُوا مِن بَعْدِ ذَلِكَ وَأَصْلَحُوا فَإِنَّ اللَّهَ غَفُورٌ رَّحِيمٌ) 3:89; 24:5
+- Ji Xwedayê xwe da pêxemberan; em di navbera tu yekî ji wan de cuda nakin; û em ji bo wî misilman in. (النَّبِيُّونَ مِن رَّبِّهِمْ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّنْهُمْ وَنَحْنُ لَهُ مُسْلِمُونَ) 2:136; 3:84
+- (Ji bona) ku tu miletekî ku berî te tu hişyarker nehatîye wan hişyar bikî, da ku ew... (مِّن رَّبِّكَ لِتُنذِرَ قَوْمًا مَّا أَتَاهُم مِّن نَّذِيرٍ مِّن قَبْلِكَ لَعَلَّهُمْ) 28:46; 32:3
+- Ey Pêxember, bi kafir û munafiqan re cihad bike û li ser wan hişk be. Hatuya wan dojeh e, û çi qas bedelî cihek e! (يَا أَيُّهَا النَّبِيُّ جَاهِدِ الْكُفَّارَ وَالْمُنَافِقِينَ وَاغْلُظْ عَلَيْهِمْ وَمَأْوَاهُمْ جَهَنَّمُ وَبِئْسَ الْمَصِيرُ) 9:73; 66:9
+- Bi rastî Xwedayê te di roja qiyametê de di nav wan de, di tiştên ku ew tê de bi hev re dişaştin, darazê dike. (إِنَّ رَبَّكَ يَقْضِي بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 10:93; 45:17
+- Got: 'Xwedêyo, ji bona min ayetek çêke.' Got: 'Ayeta te ew e ku tu bi mirovan re nepeyivî.' (قَالَ رَبِّ اجْعَل لِّي آيَةً قَالَ آيَتُكَ أَلَّا تُكَلِّمَ النَّاسَ) 3:41; 19:10
+- Vêca rûyê xwe ber bi Mizgefta Haram ve bizivirîne. Û li ku hûn bin, rûyê xwe ber bi wê ve bizivirin. (فَوَلِّ وَجْهَكَ شَطْرَ الْمَسْجِدِ الْحَرَامِ وَحَيْثُ مَا كُنتُمْ فَوَلُّوا وُجُوهَكُمْ شَطْرَهُ) 2:144; 2:150
+- Ey kurên Îsraîl, qenciya min a ku min li we kir, bînin bîra xwe, û ku min we li ser hemû gerdûniyê bi dest xist. (يَا بَنِي إِسْرَائِيلَ اذْكُرُوا نِعْمَتِيَ الَّتِي أَنْعَمْتُ عَلَيْكُمْ وَأَنِّي فَضَّلْتُكُمْ عَلَى الْعَالَمِينَ) 2:47; 2:122
+- Heft çêlên qelew ku heft çêlên zirav wan dixwin; û heft sêlên kesk û ên din hişk... (سَبْعَ بَقَرَاتٍ سِمَانٍ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌ وَسَبْعَ سُنبُلَاتٍ خُضْرٍ وَأُخَرَ يَابِسَاتٍ) 12:43; 12:46
+- Ji bona her ummetekî demek diyarkirî heye; vêca gava dema wan hat, ne kêmasî dikin û ne jî zêde dikin. (وَلِكُلِّ أُمَّةٍ أَجَلٌ فَإِذَا جَاءَ أَجَلُهُمْ لَا يَسْتَأْخِرُونَ سَاعَةً وَلَا يَسْتَقْدِمُونَ) 7:34; 10:49
+- Tiştê ku ji bona ne Xwedê ve hatiye serjêkirin, lê kê destê wî li tengiyê ket, bêyî ku bixwaze û bêyî ku ji sînor derbas bike, vêca... (أُهِلَّ لِغَيْرِ اللَّهِ بِهِ فَمَنِ اضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ) 6:145; 16:115
+- Û gava ji wan re hate gotin: 'Tiştê ku Xwedê daxistîye bişopînin.' Gotin: 'Erê, emê tiştê ku bavên xwe li ser peyda kirin, bişopînin.' (وَإِذَا قِيلَ لَهُمُ اتَّبِعُوا مَا أَنزَلَ اللَّهُ قَالُوا بَلْ نَتَّبِعُ مَا) 2:170; 31:21
+- Got: 'Gelî miletê min, Xwedê perestî bikin; ji xwe pê ve ji bo we tu xwedê tune. Ma hûn naxwin?' (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 7:65; 23:23
 """;

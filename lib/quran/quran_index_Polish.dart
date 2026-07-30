@@ -2952,4 +2952,71 @@ noblequran.com Schemas
 - Czynniki składające się na wiek dojrzałości małżeńskiej 4:6; 6:152; 24:59
 - Dżibril jest Duchem Świętym i Godnym Zaufania, który przyniósł Koran od Allaha Prorokowi 2:97; 16:102; 26:192
 - Pomoc, zwycięstwo i panowanie należą do Allaha i Jego posłańców 30:47; 37:171-173; 40:51; 58:21
+
+Matching Phrases 13 words
+- I zaprawdę, posłańcy byli wyśmiewani przed tobą, lecz tych, którzy się z nich naśmiewali, otoczyło to, z czego się naśmiewali. (وَلَقَدِ اسْتُهْزِئَ بِرُسُلٍ مِّن قَبْلِكَ فَحَاقَ بِالَّذِينَ سَخِرُوا مِنْهُم مَّا كَانُوا بِهِ يَسْتَهْزِئُونَ) 6:10; 21:41
+- A do Madyjan (posłaliśmy) ich brata Szujajba. Powiedział: O ludu mój, czcijcie Allaha; nie macie żadnego boga oprócz Niego. (وَإِلَى مَدْيَنَ أَخَاهُمْ شُعَيْبًا قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ) 7:85; 11:84
+- A do Samud (posłaliśmy) ich brata Saliha. Powiedział: O ludu mój, czcijcie Allaha; nie macie żadnego boga oprócz Niego. (وَإِلَى ثَمُودَ أَخَاهُمْ صَالِحًا قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ) 7:73; 11:61
+- Że Allah rozdaje zaopatrzenie komu chce, szeroko lub umiarkowanie. Zaprawdę, w tym są znaki dla ludu, który wierzy. (أَنَّ اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ وَيَقْدِرُ إِنَّ فِي ذَلِكَ لَآيَاتٍ لِّقَوْمٍ يُؤْمِنُونَ) 30:37; 39:52
+- A do Ad (posłaliśmy) ich brata Huda. Powiedział: O ludu mój, czcijcie Allaha; nie macie żadnego boga oprócz Niego. (وَإِلَى عَادٍ أَخَاهُمْ هُودًا قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ) 7:65; 11:50
+- A tych, którzy uwierzyli i czynili dobre uczynki, wprowadzimy do ogrodów, w których płyną rzeki, będą w nich przebywać na wieki. (وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ سَنُدْخِلُهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا) 4:57; 4:122
+- W których płyną rzeki, będą w nich przebywać na wieki. Allah jest z nich zadowolony, a oni z Niego zadowoleni. To jest... (تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا رَّضِيَ اللَّهُ عَنْهُمْ وَرَضُوا عَنْهُ ذَلِكَ) 5:119; 98:8
+- Powiedz: Jestem tylko człowiekiem, podobnym do was; objawione mi zostało, że waszym bogiem jest Bóg Jedyny. (قُلْ إِنَّمَا أَنَا بَشَرٌ مِّثْلُكُمْ يُوحَى إِلَيَّ أَنَّمَا إِلَهُكُمْ إِلَهٌ وَاحِدٌ) 18:110; 41:6
+- Wśród ludzi są tacy, którzy spierają się o Allaha bez wiedzy, bez wskazówek i bez oświecającej Księgi. (وَمِنَ النَّاسِ مَن يُجَادِلُ فِي اللَّهِ بِغَيْرِ عِلْمٍ وَلَا هُدًى وَلَا كِتَابٍ مُّنِيرٍ) 22:8; 31:20
+- On wprowadza noc w dzień i dzień w noc, i podporządkował słońce i księżyc – każde z nich zmierza (do wyznaczonego czasu)... (يُولِجُ اللَّيْلَ فِي النَّهَارِ وَيُولِجُ النَّهَارَ فِي اللَّيْلِ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ كُلٌّ يَجْرِي) 31:29; 35:13
+- Z nieba zesłał wodę i ożywił nią ziemię po jej śmierci. Zaprawdę, w tym jest znak dla ludu (który słucha). (مِنَ السَّمَاءِ مَاءً فَأَحْيَا بِهِ الْأَرْضَ بَعْدَ مَوْتِهَا إِنَّ فِي ذَلِكَ لَآيَةً لِّقَوْمٍ) 16:65; 30:24
+- Zaprawdę, tym, którzy nie uwierzyli, ani ich bogactwa, ani ich dzieci nic nie pomogą przed Allahem. I oni... (إِنَّ الَّذِينَ كَفَرُوا لَن تُغْنِيَ عَنْهُمْ أَمْوَالُهُمْ وَلَا أَوْلَادُهُم مِّنَ اللَّهِ شَيْئًا وَأُولَئِكَ) 3:10; 3:116
+- On, który stworzył niebiosa i ziemię oraz to, co jest między nimi, w sześć dni, a potem zasiadł na Tronie (Arszu). (الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا فِي سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَى عَلَى الْعَرْشِ) 25:59; 32:4
+
+Matching Phrases 12 words
+- Czyż nie podróżowali po ziemi i nie widzieli, jaki był koniec tych, którzy byli przed nimi? Oni... (أَوَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ كَانُوا) 30:9; 35:44; 40:82
+- Zaprawdę, Allah wprowadzi tych, którzy uwierzyli i czynili dobre uczynki, do ogrodów, w których płyną rzeki. (إِنَّ اللَّهَ يُدْخِلُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 22:14; 22:23; 47:12
+- Zaprawdę, obietnica Allaha jest prawdą; niech więc nie zwiedzie was życie doczesne i niech nie zwiedzi was zwodziciel co do Allaha. (إِنَّ وَعْدَ اللَّهِ حَقٌّ فَلَا تَغُرَّنَّكُمُ الْحَيَاةُ الدُّنْيَا وَلَا يَغُرَّنَّكُم بِاللَّهِ الْغَرُورُ) 31:33; 35:5
+- Kto idzie prostą drogą, to idzie dla dobra własnej duszy; a kto błądzi, to błądzi na własną szkodę. (فَمَنِ اهْتَدَى فَإِنَّمَا يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا) 10:108; 17:15
+- I rzuć swoją laskę. Gdy zobaczył, jak porusza się jak wąż, odwrócił się i uciekł, nie oglądając się. O Mojżeszu... (وَأَلْقِ عَصَاكَ فَلَمَّا رَآهَا تَهْتَزُّ كَأَنَّهَا جَانٌّ وَلَّى مُدْبِرًا وَلَمْ يُعَقِّبْ يَامُوسَى) 27:10; 28:31
+- Podróżujcie po ziemi i patrzcie, jaki był koniec tych, którzy byli przed wami. Większość z nich... (سِيرُوا فِي الْأَرْضِ فَانظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلُ كَانَ أَكْثَرُهُم) 30:42; 40:82
+- Cierpliwie więc znoś to, co mówią, i wysławiaj Pana swego z chwałą przed wschodem słońca i przed zachodem. (فَاصْبِرْ عَلَى مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ غُرُوبِهَا) 20:130; 50:39
+- I nie zbliżajcie się do majątku sieroty, chyba w sposób najlepszy, dopóki nie osiągnie pełnoletniości. I wypełniajcie umowę... (وَلَا تَقْرَبُوا مَالَ الْيَتِيمِ إِلَّا بِالَّتِي هِيَ أَحْسَنُ حَتَّى يَبْلُغَ أَشُدَّهُ وَأَوْفُوا) 6:152; 17:34
+- Nie ma winy dla ślepego, nie ma winy dla chromego i nie ma winy dla chorego. (لَّيْسَ عَلَى الْأَعْمَى حَرَجٌ وَلَا عَلَى الْأَعْرَجِ حَرَجٌ وَلَا عَلَى الْمَرِيضِ حَرَجٌ) 24:61; 48:17
+- Czy to nie jest prawda? Odpowiedzieli: Tak, na naszego Pana. Powiedział: Zatem zakosztujcie kary za to, że nie wierzyliście. (أَلَيْسَ هَذَا بِالْحَقِّ قَالُوا بَلَى وَرَبِّنَا قَالَ فَذُوقُوا الْعَذَابَ بِمَا كُنتُمْ تَكْفُرُونَ) 6:30; 46:34
+- Słabi powiedzieli do wyniosłych: My byliśmy waszymi zwolennikami. Czy możecie nas uchronić przed karą Allaha? (فَقَالَ الضُّعَفَاءُ لِلَّذِينَ اسْتَكْبَرُوا إِنَّا كُنَّا لَكُمْ تَبَعًا فَهَلْ أَنتُم مُّغْنُونَ عَنَّا) 14:21; 40:47
+- To tylko nazwy, które wy i wasi ojcowie nadaliście; Allah nie zesłał na to żadnego autorytetu. Zaprawdę... (إِلَّا أَسْمَاءً سَمَّيْتُمُوهَا أَنتُمْ وَآبَاؤُكُم مَّا أَنزَلَ اللَّهُ بِهَا مِن سُلْطَانٍ إِنِ) 12:40; 53:23
+- Przed tobą posłaliśmy tylko mężczyzn, którym objawialiśmy; zapytajcie więc ludzi posiadających wiedzę, jeśli nie wiecie. (قَبْلِكَ إِلَّا رِجَالًا نُّوحِي إِلَيْهِمْ فَاسْأَلُوا أَهْلَ الذِّكْرِ إِن كُنتُمْ لَا تَعْلَمُونَ) 16:43; 21:7
+- Powiedział: Czy uwierzyliście mu, zanim wam pozwoliłem? On jest waszym przywódcą, który nauczył was czarów. (قَالَ آمَنتُمْ لَهُ قَبْلَ أَنْ آذَنَ لَكُمْ إِنَّهُ لَكَبِيرُكُمُ الَّذِي عَلَّمَكُمُ السِّحْرَ) 20:71; 26:49
+- I żadna dusza nie poniesie ciężaru innej. Potem do waszego Pana będzie wasz powrót, a On obwieści wam to, w czym się różniliście. (وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَى ثُمَّ إِلَى رَبِّكُم مَّرْجِعُكُمْ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 6:164; 39:7
+- I powiedzieliśmy: Zejdźcie, jedni drugim jesteście wrogami. A na ziemi będziecie mieli miejsce pobytu i używanie do pewnego czasu. (وَقُلْنَا اهْبِطُوا بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ وَلَكُمْ فِي الْأَرْضِ مُسْتَقَرٌّ وَمَتَاعٌ إِلَى حِينٍ) 2:36; 7:24
+- Dwoje: Powiedz: Czy On zakazał dwóch samców, czy dwóch samic, czy to, co zawierają łona dwóch samic? (اثْنَيْنِ قُلْ آلذَّكَرَيْنِ حَرَّمَ أَمِ الْأُنثَيَيْنِ أَمَّا اشْتَمَلَتْ عَلَيْهِ أَرْحَامُ الْأُنثَيَيْنِ) 6:143; 6:144
+
+Matching Phrases 11 words
+- I nie żądam od was za to żadnej zapłaty; moja zapłata jest tylko u Pana światów. (وَمَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِنْ أَجْرِيَ إِلَّا عَلَى رَبِّ الْعَالَمِينَ) 26:109; 26:127; 26:145; 26:164; 26:180
+- Czyż nie podróżowali po ziemi i nie widzieli, jaki był koniec tych, którzy byli przed nimi? (أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ) 12:109; 30:9; 35:44; 40:82; 47:10
+- Podróżujcie po ziemi i patrzcie, jaki był koniec tych, którzy byli przed wami. Oni... (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ كَانُوا) 30:9; 30:42; 35:44; 40:82
+- Zaprawdę, twój Pan wie najlepiej, kto zbacza z Jego drogi, i On wie najlepiej, kto jest właściwie prowadzony. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ مَن يَضِلُّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ) 6:117; 16:125; 68:7
+- On, który stworzył niebiosa i ziemię w sześć dni, a potem zasiadł na Tronie (Arszu). (الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَى عَلَى الْعَرْشِ) 7:54; 10:3; 57:4
+- Kto jest bardziej niesprawiedliwy od tego, kto wymyśla kłamstwo przeciw Allahowi lub zaprzecza Jego znakom? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا أَوْ كَذَّبَ بِآيَاتِهِ) 6:21; 7:37; 10:17
+- On jest Tym, który posłał Swego posłańca z przewodnictwem i religią prawdy, aby ją wywyższyć ponad wszystkie religie. (هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَى وَدِينِ الْحَقِّ لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ) 9:33; 48:28; 61:9
+- Zaprawdę, ci, którzy mówią: Allah to Mesjasz, syn Marii, stali się niewiernymi. Powiedz... (لَّقَدْ كَفَرَ الَّذِينَ قَالُوا إِنَّ اللَّهَ هُوَ الْمَسِيحُ ابْنُ مَرْيَمَ قُلْ) 5:17; 5:72
+- Nie możesz sprawić, by ślepi usłyszeli (prawdę) z ich błędu. Możesz tylko sprawić, by słyszeli ci, którzy wierzą w Nasze znaki, a oni są muzułmanami. (الْعُمْيِ عَن ضَلَالَتِهِمْ إِن تُسْمِعُ إِلَّا مَن يُؤْمِنُ بِآيَاتِنَا فَهُم مُّسْلِمُونَ) 27:81; 30:53
+- Przykładem życia doczesnego jest woda, którą zesłaliśmy z nieba, a rośliny ziemi zmieszały się z nią... (مَثَلُ الْحَيَاةِ الدُّنْيَا كَمَاءٍ أَنزَلْنَاهُ مِنَ السَّمَاءِ فَاخْتَلَطَ بِهِ نَبَاتُ الْأَرْضِ) 10:24; 18:45
+- Zabierz do niego (statku) z każdego rodzaju po parze, i swoją rodzinę, z wyjątkiem tego, wobec którego wcześniej zapadło słowo... (فِيهَا مِن كُلٍّ زَوْجَيْنِ اثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ الْقَوْلُ) 11:40; 23:27
+- Nie mówię wam, że posiadam skarby Allaha, ani nie znam rzeczy ukrytych, ani nie mówię... (لَّا أَقُولُ لَكُمْ عِندِي خَزَائِنُ اللَّهِ وَلَا أَعْلَمُ الْغَيْبَ وَلَا أَقُولُ) 6:50; 11:31
+- Zaprawdę, Allah jest łaskawy dla ludzi, lecz większość ludzi nie jest wdzięczna. (إِنَّ اللَّهَ لَذُو فَضْلٍ عَلَى النَّاسِ وَلَكِنَّ أَكْثَرَ النَّاسِ لَا يَشْكُرُونَ) 2:243; 40:61
+- I żaden znak spośród znaków ich Pana nie przychodził do nich, by nie odwrócili się od niego. (وَمَا تَأْتِيهِم مِّنْ آيَةٍ مِّنْ آيَاتِ رَبِّهِمْ إِلَّا كَانُوا عَنْهَا مُعْرِضِينَ) 6:4; 36:46
+- I bójcie się dnia, w którym żadna dusza nie zastąpi drugiej w niczym i nie zostanie od niej przyjęte wstawiennictwo. (وَاتَّقُوا يَوْمًا لَّا تَجْزِي نَفْسٌ عَن نَّفْسٍ شَيْئًا وَلَا يُقْبَلُ مِنْهَا) 2:48; 2:123
+- Zaprawdę, ty nie możesz sprawić, by umarli usłyszeli, i nie możesz sprawić, by głusi usłyszeli wezwanie, gdy odwrócą się plecami. (إِنَّكَ لَا تُسْمِعُ الْمَوْتَى وَلَا تُسْمِعُ الصُّمَّ الدُّعَاءَ إِذَا وَلَّوْا مُدْبِرِينَ) 27:80; 30:52
+- Zakazane jest wam (spożywanie) padliny, krwi, mięsa wieprzowego i tego, co zostało zabite w imię kogoś innego niż Allah. (حُرِّمَتْ عَلَيْكُمُ الْمَيْتَةُ وَالدَّمُ وَلَحْمُ الْخِنزِيرِ وَمَا أُهِلَّ لِغَيْرِ اللَّهِ بِهِ) 5:3; 16:115
+- To, co jest w niebiosach i na ziemi, głosi chwałę Allaha; a On jest Potężny, Mądry. (سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَهُوَ الْعَزِيزُ الْحَكِيمُ) 59:1; 61:1
+- Z wyjątkiem tych, którzy po tym pokutowali i (swoje czyny) naprawili. Zaprawdę, Allah jest Przebaczający, Litościwy. (إِلَّا الَّذِينَ تَابُوا مِن بَعْدِ ذَلِكَ وَأَصْلَحُوا فَإِنَّ اللَّهَ غَفُورٌ رَّحِيمٌ) 3:89; 24:5
+- (To, co) prorokom od ich Pana (zostało objawione) – nie robimy różnicy między żadnym z nich, a my jesteśmy Jemu poddani (muzułmanami). (النَّبِيُّونَ مِن رَّبِّهِمْ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّنْهُمْ وَنَحْنُ لَهُ مُسْلِمُونَ) 2:136; 3:84
+- Od twego Pana (zostało posłane), abyś ostrzegał lud, do którego przed tobą nie przyszedł żaden ostrzegacz, aby może... (مِّن رَّبِّكَ لِتُنذِرَ قَوْمًا مَّا أَتَاهُم مِّن نَّذِيرٍ مِّن قَبْلِكَ لَعَلَّهُمْ) 28:46; 32:3
+- O Proroku, walcz z niewiernymi i obłudnikami i bądź wobec nich surowy. Ich miejscem pobytu jest piekło – a cóż to za zły los! (يَا أَيُّهَا النَّبِيُّ جَاهِدِ الْكُفَّارَ وَالْمُنَافِقِينَ وَاغْلُظْ عَلَيْهِمْ وَمَأْوَاهُمْ جَهَنَّمُ وَبِئْسَ الْمَصِيرُ) 9:73; 66:9
+- Zaprawdę, twój Pan rozsądzi między nimi w Dniu Zmartwychwstania w sprawie tego, w czym się różnili. (إِنَّ رَبَّكَ يَقْضِي بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 10:93; 45:17
+- Powiedział: Panie, uczyń mi znak. Powiedział: Twoim znakiem jest to, że nie będziesz przemawiał do ludzi. (قَالَ رَبِّ اجْعَل لِّي آيَةً قَالَ آيَتُكَ أَلَّا تُكَلِّمَ النَّاسَ) 3:41; 19:10
+- Odwróć więc twarz w stronę Świętego Meczetu. I gdziekolwiek jesteście, odwracajcie twarze w jego stronę. (فَوَلِّ وَجْهَكَ شَطْرَ الْمَسْجِدِ الْحَرَامِ وَحَيْثُ مَا كُنتُمْ فَوَلُّوا وُجُوهَكُمْ شَطْرَهُ) 2:144; 2:150
+- O synowie Izraela, wspominajcie moją łaskę, którą was obdarzyłem, i że wyniosłem was ponad światy. (يَا بَنِي إِسْرَائِيلَ اذْكُرُوا نِعْمَتِيَ الَّتِي أَنْعَمْتُ عَلَيْكُمْ وَأَنِّي فَضَّلْتُكُمْ عَلَى الْعَالَمِينَ) 2:47; 2:122
+- Siedem tłustych krów, które pożera siedem chudych krów; i siedem zielonych kłosów i inne suche... (سَبْعَ بَقَرَاتٍ سِمَانٍ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌ وَسَبْعَ سُنبُلَاتٍ خُضْرٍ وَأُخَرَ يَابِسَاتٍ) 12:43; 12:46
+- A każda społeczność ma swój wyznaczony czas; gdy nadchodzi ich czas, ani chwili nie zwlekają i nie przyspieszają. (وَلِكُلِّ أُمَّةٍ أَجَلٌ فَإِذَا جَاءَ أَجَلُهُمْ لَا يَسْتَأْخِرُونَ سَاعَةً وَلَا يَسْتَقْدِمُونَ) 7:34; 10:49
+- (To, co) zostało zabite w imię kogoś innego niż Allah, ale kto jest przymuszony (głodem), bez buntu i bez przekraczania granic, to... (أُهِلَّ لِغَيْرِ اللَّهِ بِهِ فَمَنِ اضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ) 6:145; 16:115
+- A gdy się im mówi: Podążajcie za tym, co Allah zesłał, odpowiadają: Nie, pójdziemy za tym, co zastaliśmy u naszych ojców. (وَإِذَا قِيلَ لَهُمُ اتَّبِعُوا مَا أَنزَلَ اللَّهُ قَالُوا بَلْ نَتَّبِعُ مَا) 2:170; 31:21
+- Powiedział: O ludu mój, czcijcie Allaha; nie macie żadnego boga oprócz Niego. Czyż nie będziecie się Go bać? (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 7:65; 23:23
 """;

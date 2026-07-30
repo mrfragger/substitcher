@@ -2952,4 +2952,70 @@ noblequran.com Schemas
 - Čimbenici koji čine dob za brak 4:6; 6:152; 24:59
 - Džibril je Sveti, Pouzdani Duh koji je donio Kur'an od Allaha Vjerovjesniku 2:97; 16:102; 26:192
 - Pomoć, pobjeda i vlast su za Allaha i Njegove poslanike 30:47; 37:171-173; 40:51; 58:21
+Matching Phrases 13 words
+- I doista su se rugali poslanicima prije tebe, pa je one koji su im se rugali stiglo ono čemu su se rugali. (وَلَقَدِ اسْتُهْزِئَ بِرُسُلٍ مِّن قَبْلِكَ فَحَاقَ بِالَّذِينَ سَخِرُوا مِنْهُم مَّا كَانُوا بِهِ يَسْتَهْزِئُونَ) 6:10; 21:41
+- I Medjenu [poslasmo] brata njihova Šuajba. On reče: "O narode moj! Allahu se klanjajte; vi drugog boga osim Njega nemate." (وَإِلَى مَدْيَنَ أَخَاهُمْ شُعَيْبًا قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ) 7:85; 11:84
+- I Semudu [poslasmo] brata njihova Saliha. On reče: "O narode moj! Allahu se klanjajte; vi drugog boga osim Njega nemate." (وَإِلَى ثَمُودَ أَخَاهُمْ صَالِحًا قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ) 7:73; 11:61
+- Allah daje opskrbu u izobilju kome hoće, i uskraćuje kome hoće. U tome su, zaista, znakovi za ljude koji vjeruju. (أَنَّ اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ وَيَقْدِرُ إِنَّ فِي ذَلِكَ لَآيَاتٍ لِّقَوْمٍ يُؤْمِنُونَ) 30:37; 39:52
+- I Adu [poslasmo] brata njihova Huda. On reče: "O narode moj! Allahu se klanjajte; vi drugog boga osim Njega nemate." (وَإِلَى عَادٍ أَخَاهُمْ هُودًا قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ) 7:65; 11:50
+- A one koji vjeruju i dobra djela čine, uvest ćemo u džennetske bašče kroz koje rijeke teku, gdje će vječno boraviti. (وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ سَنُدْخِلُهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا) 4:57; 4:122
+- Kroz koje rijeke teku, gdje će vječno boraviti. Allah je zadovoljan njima, a i oni su zadovoljni Njime. To je... (تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا رَّضِيَ اللَّهُ عَنْهُمْ وَرَضُوا عَنْهُ ذَلِكَ) 5:119; 98:8
+- Reci: "Ja sam samo čovjek kao i vi; meni se objavljuje da je vaš Bog – Jedan Bog." (قُلْ إِنَّمَا أَنَا بَشَرٌ مِّثْلُكُمْ يُوحَى إِلَيَّ أَنَّمَا إِلَهُكُمْ إِلَهٌ وَاحِدٌ) 18:110; 41:6
+- A ima ljudi koji o Allahu raspravljaju bez ikakva znanja, bez ikakva vodstva i bez knjige svjetilje. (وَمِنَ النَّاسِ مَن يُجَادِلُ فِي اللَّهِ بِغَيْرِ عِلْمٍ وَلَا هُدًى وَلَا كِتَابٍ مُّنِيرٍ) 22:8; 31:20
+- On uvodi noć u dan i uvodi dan u noć, i potčinio je Sunce i Mjesec, svaki se kreće do roka određenog. (يُولِجُ اللَّيْلَ فِي النَّهَارِ وَيُولِجُ النَّهَارَ فِي اللَّيْلِ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ كُلٌّ يَجْرِي) 31:29; 35:13
+- S neba vodu spušta, pa njome zemlju poslije mrtvila njezina oživljava. U tome je, zaista, znak za ljude... (مِنَ السَّمَاءِ مَاءً فَأَحْيَا بِهِ الْأَرْضَ بَعْدَ مَوْتِهَا إِنَّ فِي ذَلِكَ لَآيَةً لِّقَوْمٍ) 16:65; 30:24
+- One koji ne vjeruju, ni bogatstva njihova ni djeca njihova neće od Allaha nimalo odbraniti, a oni su... (إِنَّ الَّذِينَ كَفَرُوا لَن تُغْنِيَ عَنْهُمْ أَمْوَالُهُمْ وَلَا أَوْلَادُهُم مِّنَ اللَّهِ شَيْئًا وَأُولَئِكَ) 3:10; 3:116
+- Onaj koji je nebesa i zemlju i ono što je između njih u šest dana stvorio, a zatim se nad Aršom uzvisio. (الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا فِي سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَى عَلَى الْعَرْشِ) 25:59; 32:4
+
+Matching Phrases 12 words
+- Zašto oni ne putuju po Zemlji pa ne vide kakav je bio kraj onih prije njih? Oni su... (أَوَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ كَانُوا) 30:9; 35:44; 40:82
+- Allah će one koji vjeruju i dobra djela čine uvesti u džennetske bašče kroz koje rijeke teku. (إِنَّ اللَّهَ يُدْخِلُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 22:14; 22:23; 47:12
+- Allahovo obećanje je istina, pa neka vas život na ovome svijetu ne zavara, i neka vas u Allahu ne zavara obmanjivač. (إِنَّ وَعْدَ اللَّهِ حَقٌّ فَلَا تَغُرَّنَّكُمُ الْحَيَاةُ الدُّنْيَا وَلَا يَغُرَّنَّكُم بِاللَّهِ الْغَرُورُ) 31:33; 35:5
+- Ko na pravi put upućen bude, upućen je za svoje dobro; a ko zaluta, zaluta na svoju štetu. (فَمَنِ اهْتَدَى فَإِنَّمَا يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا) 10:108; 17:15
+- I baci svoj štap! I kad ga vidje da se kreće, kao da je zmija, on se okrenu natrag bježeći i ne osvrnu se. "O Musa..." (وَأَلْقِ عَصَاكَ فَلَمَّا رَآهَا تَهْتَزُّ كَأَنَّهَا جَانٌّ وَلَّى مُدْبِرًا وَلَمْ يُعَقِّبْ يَامُوسَى) 27:10; 28:31
+- Putujte po Zemlji pa pogledajte kakav je bio kraj onih prije vas; većina njih su... (سِيرُوا فِي الْأَرْضِ فَانظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلُ كَانَ أَكْثَرُهُم) 30:42; 40:82
+- Zato strpljivo podnosi ono što oni govore, i veličaj Gospodara svoga s hvalom prije izlaska Sunca i prije zalaska njegova. (فَاصْبِرْ عَلَى مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ غُرُوبِهَا) 20:130; 50:39
+- I ne približavajte se imetku siročeta, osim na najljepši način, sve dok ne dostigne punoljetstvo. I ispunjavajte... (وَلَا تَقْرَبُوا مَالَ الْيَتِيمِ إِلَّا بِالَّتِي هِيَ أَحْسَنُ حَتَّى يَبْلُغَ أَشُدَّهُ وَأَوْفُوا) 6:152; 17:34
+- Nije grijeh slijepom, niti je grijeh hromom, niti je grijeh bolesnom. (لَّيْسَ عَلَى الْأَعْمَى حَرَجٌ وَلَا عَلَى الْأَعْرَجِ حَرَجٌ وَلَا عَلَى الْمَرِيضِ حَرَجٌ) 24:61; 48:17
+- "Zar ovo nije istina?" Oni će odgovoriti: "Jeste, Gospodara nam našega!" On će reći: "Pa okusite patnju zbog toga što niste vjerovali." (أَلَيْسَ هَذَا بِالْحَقِّ قَالُوا بَلَى وَرَبِّنَا قَالَ فَذُوقُوا الْعَذَابَ بِمَا كُنتُمْ تَكْفُرُونَ) 6:30; 46:34
+- I reći će oni koji su bili potlačeni onima koji su se oholili: "Mi smo bili vaše pristalice, pa možete li nas odbraniti od Allaha?" (فَقَالَ الضُّعَفَاءُ لِلَّذِينَ اسْتَكْبَرُوا إِنَّا كُنَّا لَكُمْ تَبَعًا فَهَلْ أَنتُم مُّغْنُونَ عَنَّا) 14:21; 40:47
+- Osim imena koja ste vi i preci vaši nadjenuli, kojima Allah nikakav dokaz nije objavio. Zaista, (إِلَّا أَسْمَاءً سَمَّيْتُمُوهَا أَنتُمْ وَآبَاؤُكُم مَّا أَنزَلَ اللَّهُ بِهَا مِن سُلْطَانٍ إِنِ) 12:40; 53:23
+- Prije tebe samo ljude smo slali kojima smo objavljivali. Pitajte sljedbenike Knjige, ako ne znate. (قَبْلِكَ إِلَّا رِجَالًا نُّوحِي إِلَيْهِمْ فَاسْأَلُوا أَهْلَ الذِّكْرِ إِن كُنتُمْ لَا تَعْلَمُونَ) 16:43; 21:7
+- On reče: "Zar mu povjerovaste prije nego što vam ja dozvolih? On je vaš glavni učitelj koji vas je vradžbini naučio." (قَالَ آمَنتُمْ لَهُ قَبْلَ أَنْ آذَنَ لَكُمْ إِنَّهُ لَكَبِيرُكُمُ الَّذِي عَلَّمَكُمُ السِّحْرَ) 20:71; 26:49
+- I nijedan grješnik neće nositi tuđe grijehe. Zatim ćete se Gospodaru svome vratiti, pa će vas On o onome što ste radili obavijestiti. (وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَى ثُمَّ إِلَى رَبِّكُم مَّرْجِعُكُمْ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 6:164; 39:7
+- I rekosmo: "Siđite! Jedni drugima neprijatelji! Na Zemlji ćete imati boravište i uživanje do vremena." (وَقُلْنَا اهْبِطُوا بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ وَلَكُمْ فِي الْأَرْضِ مُسْتَقَرٌّ وَمَتَاعٌ إِلَى حِينٍ) 2:36; 7:24
+- Dva – reci: "Da li je On zabranio dva mužjaka ili dvije ženke, ili ono što sadrže utrobe dviju ženki?" (اثْنَيْنِ قُلْ آلذَّكَرَيْنِ حَرَّمَ أَمِ الْأُنثَيَيْنِ أَمَّا اشْتَمَلَتْ عَلَيْهِ أَرْحَامُ الْأُنثَيَيْنِ) 6:143; 6:144
+
+Matching Phrases 11 words
+- I ja od vas ne tražim za ovo nikakvu nagradu; moja nagrada je jedino kod Gospodara svjetova. (وَمَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِنْ أَجْرِيَ إِلَّا عَلَى رَبِّ الْعَالَمِينَ) 26:109; 26:127; 26:145; 26:164; 26:180
+- Zar oni ne putuju po Zemlji pa ne vide kakav je bio kraj onih prije njih? (أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ) 12:109; 30:9; 35:44; 40:82; 47:10
+- Oni putuju po Zemlji i gledaju kakav je bio kraj onih prije njih; oni su... (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ كَانُوا) 30:9; 30:42; 35:44; 40:82
+- Gospodar tvoj najbolje zna ko je s puta Njegova skrenuo, a On najbolje zna i one koji su na Pravome putu. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ مَن يَضِلُّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ) 6:117; 16:125; 68:7
+- Onaj koji je nebesa i zemlju u šest dana stvorio, a zatim se nad Aršom uzvisio. (الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَى عَلَى الْعَرْشِ) 7:54; 10:3; 57:4
+- A ima li većeg zulumćara od onoga koji o Allahu iznosi laži ili Njegove dokaze smatra lažnim? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا أَوْ كَذَّبَ بِآيَاتِهِ) 6:21; 7:37; 10:17
+- On je Taj koji je poslao Svog Poslanika s uputstvom i istinitom vjerom, da bi je uzdigao iznad svih vjera. (هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَى وَدِينِ الْحَقِّ لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ) 9:33; 48:28; 61:9
+- Nevjernici su oni koji govore: "Allah je, doista, Mesih, sin Merjemin." Reci... (لَّقَدْ كَفَرَ الَّذِينَ قَالُوا إِنَّ اللَّهَ هُوَ الْمَسِيحُ ابْنُ مَرْيَمَ قُلْ) 5:17; 5:72
+- Slijepe od njihove zablude; ti možeš dozvom samo one koje u Naše dokaze vjeruju, a oni su Muslimani. (الْعُمْيِ عَن ضَلَالَتِهِمْ إِن تُسْمِعُ إِلَّا مَن يُؤْمِنُ بِآيَاتِنَا فَهُم مُّسْلِمُونَ) 27:81; 30:53
+- Život na ovom svijetu je poput vode koju s neba spuštamo, pa se s njom izmiješa bilje na Zemlji. (مَثَلُ الْحَيَاةِ الدُّنْيَا كَمَاءٍ أَنزَلْنَاهُ مِنَ السَّمَاءِ فَاخْتَلَطَ بِهِ نَبَاتُ الْأَرْضِ) 10:24; 18:45
+- U njemu od svake vrste po par, i porodicu tvoju – osim onoga kome je riječ već izrečena. (فِيهَا مِن كُلٍّ زَوْجَيْنِ اثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ الْقَوْلُ) 11:40; 23:27
+- Ja vam ne kažem: "U mene su Allahove riznice", niti: "Ja nepoznato znam", niti kažem... (لَّا أَقُولُ لَكُمْ عِندِي خَزَائِنُ اللَّهِ وَلَا أَعْلَمُ الْغَيْبَ وَلَا أَقُولُ) 6:50; 11:31
+- Allah je, zaista, dobar prema ljudima, ali većina ljudi ne zahvaljuje. (إِنَّ اللَّهَ لَذُو فَضْلٍ عَلَى النَّاسِ وَلَكِنَّ أَكْثَرَ النَّاسِ لَا يَشْكُرُونَ) 2:243; 40:61
+- I koji god im dokaz od Gospodara njihova dođe, oni se od njega okreću. (وَمَا تَأْتِيهِم مِّنْ آيَةٍ مِّنْ آيَاتِ رَبِّهِمْ إِلَّا كَانُوا عَنْهَا مُعْرِضِينَ) 6:4; 36:46
+- I bojte se Dana kada niko nikome neće moći nimalo na korist biti, i kada se ni od koga otkup neće primiti. (وَاتَّقُوا يَوْمًا لَّا تَجْزِي نَفْسٌ عَن نَّفْسٍ شَيْئًا وَلَا يُقْبَلُ مِنْهَا) 2:48; 2:123
+- Ti ne možeš mrtve dozvati, niti gluhe dozvati kada se okrenuvši udaljuju. (إِنَّكَ لَا تُسْمِعُ الْمَوْتَى وَلَا تُسْمِعُ الصُّمَّ الدُّعَاءَ إِذَا وَلَّوْا مُدْبِرِينَ) 27:80; 30:52
+- Zabranjena vam je strvina, krv, svinjsko meso i ono što je zaklano u nečije drugo ime, a ne u Allahovo. (حُرِّمَتْ عَلَيْكُمُ الْمَيْتَةُ وَالدَّمُ وَلَحْمُ الْخِنزِيرِ وَمَا أُهِلَّ لِغَيْرِ اللَّهِ بِهِ) 5:3; 16:115
+- Allaha veliča sve što je na nebesima i na Zemlji, a On je Silni, Mudri. (سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَهُوَ الْعَزِيزُ الْحَكِيمُ) 59:1; 61:1
+- Osim onih koji se poslije toga pokaju i poprave; Allah je, zaista, Onaj koji prašta i milostiv je. (إِلَّا الَّذِينَ تَابُوا مِن بَعْدِ ذَلِكَ وَأَصْلَحُوا فَإِنَّ اللَّهَ غَفُورٌ رَّحِيمٌ) 3:89; 24:5
+- Vjerovjesnici – od Gospodara njihova; mi ne pravimo razliku ni između jednog od njih, a mi smo Njemu poslušni. (النَّبِيُّونَ مِن رَّبِّهِمْ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّنْهُمْ وَنَحْنُ لَهُ مُسْلِمُونَ) 2:136; 3:84
+- Od Gospodara tvoga, da opomeneš narod kojemu prije tebe nije došao niko ko bi ih opomenuo, da bi se oni... (مِّن رَّبِّكَ لِتُنذِرَ قَوْمًا مَّا أَتَاهُم مِّن نَّذِيرٍ مِّن قَبْلِكَ لَعَلَّهُمْ) 28:46; 32:3
+- O Vjerovjesniče! Bori se protiv nevjernika i licemjera i budi strog prema njima! Prebivalište njihovo biće Džehennem, a grozno je to boravište! (يَا أَيُّهَا النَّبِيُّ جَاهِدِ الْكُفَّارَ وَالْمُنَافِقِينَ وَاغْلُظْ عَلَيْهِمْ وَمَأْوَاهُمْ جَهَنَّمُ وَبِئْسَ الْمَصِيرُ) 9:73; 66:9
+- Gospodar tvoj će im na Sudnjem danu presuditi u onome u čemu su se razilazili. (إِنَّ رَبَّكَ يَقْضِي بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 10:93; 45:17
+- On reče: "Gospodaru moj, daj mi znak!" Odgovori: "Znak tvoj je da nećeš tri dana s ljudima govoriti..." (قَالَ رَبِّ اجْعَل لِّي آيَةً قَالَ آيَتُكَ أَلَّا تُكَلِّمَ النَّاسَ) 3:41; 19:10
+- Zato okreni lice svoje prema Časnom hramu. I gdje god bili, okrenite lica svoja prema njemu. (فَوَلِّ وَجْهَكَ شَطْرَ الْمَسْجِدِ الْحَرَامِ وَحَيْثُ مَا كُنتُمْ فَوَلُّوا وُجُوهَكُمْ شَطْرَهُ) 2:144; 2:150
+- O sinovi Israilovi! Sjetite se blagodati Moje koju sam vam podario i toga što sam vas nad ostalim svjetovima odlikovao. (يَا بَنِي إِسْرَائِيلَ اذْكُرُوا نِعْمَتِيَ الَّتِي أَنْعَمْتُ عَلَيْكُمْ وَأَنِّي فَضَّلْتُكُمْ عَلَى الْعَالَمِينَ) 2:47; 2:122
+- Sedam tovnih krava koje jedu sedam mršavih, i sedam zelenih klasova i drugih suhih. (سَبْعَ بَقَرَاتٍ سِمَانٍ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌ وَسَبْعَ سُنبُلَاتٍ خُضْرٍ وَأُخَرَ يَابِسَاتٍ) 12:43; 12:46
+- I svaki narod ima svoj rok; kad dođe rok njihov, neće ga moći ni za trenutak odložiti niti ubrzati. (وَلِكُلِّ أُمَّةٍ أَجَلٌ فَإِذَا جَاءَ أَجَلُهُمْ لَا يَسْتَأْخِرُونَ سَاعَةً وَلَا يَسْتَقْدِمُونَ) 7:34; 10:49
+- (Ono) što je zaklano u nečije drugo ime. A onaj ko bude primoran, ali ne iz želje, ni prekoračujući granicu, pa... (أُهِلَّ لِغَيْرِ اللَّهِ بِهِ فَمَنِ اضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ) 6:145; 16:115
+- A kada im se kaže: "Slijedite ono što je Allah objavio!" – oni odgovaraju: "Ne, mi slijedimo ono na čemu smo zatekli pretke naše..." (وَإِذَا قِيلَ لَهُمُ اتَّبِعُوا مَا أَنزَلَ اللَّهُ قَالُوا بَلْ نَتَّبِعُ مَا) 2:170; 31:21
+- On reče: "O narode moj! Allahu se klanjajte, vi drugog boga osim Njega nemate; zar se ne bojite?" (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 7:65; 23:23
 """;

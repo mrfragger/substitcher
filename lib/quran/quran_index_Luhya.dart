@@ -2952,4 +2952,71 @@ noblequran.com Schemas
 - Ebindu ebifula emyaka y'obufumbo 4:6; 6:152; 24:59
 - Jibrīl ni Mwoyo Mutakatifu, Omwikhwasi, yareta Kur'ani okhurula khu Allah okhuwila Nabbi 2:97; 16:102; 26:192
 - Obuyambi, obuwangushi n'obufumu ni bya Allah n'Abarumwa be 30:47; 37:171-173; 40:51; 58:21
+Matching Phrases 13 words
+- Ne mwene, abarumwa baaselwa khukhwa nyala, noo balia ababanyolomanga bakonyinjilwa ni yalia babali bayinyoola. (وَلَقَدِ اسْتُهْزِئَ بِرُسُلٍ مِّن قَبْلِكَ فَحَاقَ بِالَّذِينَ سَخِرُوا مِنْهُم مَّا كَانُوا بِهِ يَسْتَهْزِئُونَ) 6:10; 21:41
+- Ne okhu Madyana (khwaruma) omusa khwabu Shu'aibu. Yaboola: 'Abantu bange, musinze Nyasaye; mulieho nende Nyasaye wamala tawe halali Ye.' (وَإِلَى مَدْيَنَ أَخَاهُمْ شُعَيْبًا قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ) 7:85; 11:84
+- Ne okhu Thamuda (khwaruma) omusa khwabu Swaleh. Yaboola: 'Abantu bange, musinze Nyasaye; mulieho nende Nyasaye wamala tawe halali Ye.' (وَإِلَى ثَمُودَ أَخَاهُمْ صَالِحًا قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ) 7:73; 11:61
+- Mwene Nyasaye aranzitsa likolo lia khulia kwe nende shiakhunyala noo ne akharisa. Mwene khubio khulieho amanyikha khubantu abasuubila. (أَنَّ اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ وَيَقْدِرُ إِنَّ فِي ذَلِكَ لَآيَاتٍ لِّقَوْمٍ يُؤْمِنُونَ) 30:37; 39:52
+- Ne okhu Aadi (khwaruma) omusa khwabu Huud. Yaboola: 'Abantu bange, musinze Nyasaye; mulieho nende Nyasaye wamala tawe halali Ye.' (وَإِلَى عَادٍ أَخَاهُمْ هُودًا قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ) 7:65; 11:50
+- Ne balia abasuubila ne bakhola amalayi, khubaretsa mubihulu arimwo chilimi chinyolanga khukhasi, nibakala omwo butswa. (وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ سَنُدْخِلُهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا) 4:57; 4:122
+- Chilimi chinyolanga khukhasi, nibakala omwo butswa. Nyasaye akhasiimile nibaye nende bansimile Ye. Bino... (تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا رَّضِيَ اللَّهُ عَنْهُمْ وَرَضُوا عَنْهُ ذَلِكَ) 5:119; 98:8
+- Booa: 'Mundu tawe, ndi omundu khumanyinyi mbu mbuti; khu njila khu mbushe mbu Nyasaye wanyu ni Nyasaye Omala ye khu yekha.' (قُلْ إِنَّمَا أَنَا بَشَرٌ مِّثْلُكُمْ يُوحَى إِلَيَّ أَنَّمَا إِلَهُكُمْ إِلَهٌ وَاحِدٌ) 18:110; 41:6
+- Ne khubantu baliho balia balomaanga khukhwa Nyasaye tawe nende khu manya, wala khukhukosa, wala khukhitabu ekhimulisa. (وَمِنَ النَّاسِ مَن يُجَادِلُ فِي اللَّهِ بِغَيْرِ عِلْمٍ وَلَا هُدًى وَلَا كِتَابٍ مُّنِيرٍ) 22:8; 31:20
+- Yayingisa eshiloba mwisana nende yayingisa emisana mwiloba, ne yateekha enjuba nende omwesi mubukhasi, buli shindu shinyolanga... (يُولِجُ اللَّيْلَ فِي النَّهَارِ وَيُولِجُ النَّهَارَ فِي اللَّيْلِ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ كُلٌّ يَجْرِي) 31:29; 35:13
+- Khukhuwa akhurulula amatsi, ne nako akakhuha ensi bulamu khukhwasaho olukhanda lwakhwo. Mwene khubio khulieho akamanyikha khubantu (abawulila). (مِنَ السَّمَاءِ مَاءً فَأَحْيَا بِهِ الْأَرْضَ بَعْدَ مَوْتِهَا إِنَّ فِي ذَلِكَ لَآيَةً لِّقَوْمٍ) 16:65; 30:24
+- Mwene balia abakhaya, amaliango kabu nende abana babu shibakhubakhwasa butiti tawe khukhwa Nyasaye. Ne bo... (إِنَّ الَّذِينَ كَفَرُوا لَن تُغْنِيَ عَنْهُمْ أَمْوَالُهُمْ وَلَا أَوْلَادُهُم مِّنَ اللَّهِ شَيْئًا وَأُولَئِكَ) 3:10; 3:116
+- Ye yarema amakulu nende ensi nende bilio bikali khukhati wabio mwisiku sita, mana ne yikala khushiala khwe khubwami. (الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا فِي سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَى عَلَى الْعَرْشِ) 25:59; 32:4
+
+Matching Phrases 12 words
+- Tebatambolakho mu ensi ne balola mbu amakumia k'abalia bali khulola khwabu khwali buti? Bo... (أَوَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ كَانُوا) 30:9; 35:44; 40:82
+- Mwene Nyasaye ayongesa abasuubila ne bakhola amalayi mubihulu arimwo chilimi chinyolanga khukhasi. (إِنَّ اللَّهَ يُدْخِلُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 22:14; 22:23; 47:12
+- Mwene likhuwa lia Nyasaye ni lichaye; mbu bulamu bw'enesi bwibulibwaanganyisa tawe, ne omulimbi alebwaanganyisa tawe khukhwa Nyasaye. (إِنَّ وَعْدَ اللَّهِ حَقٌّ فَلَا تَغُرَّنَّكُمُ الْحَيَاةُ الدُّنْيَا وَلَا يَغُرَّنَّكُم بِاللَّهِ الْغَرُورُ) 31:33; 35:5
+- Omuundu naye yalama, alama khulw'omwoyo kwe; naye yabha, abha khulw'omwoyo kwe. (فَمَنِ اهْتَدَى فَإِنَّمَا يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا) 10:108; 17:15
+- Mwashe omukondo kwo. Naye naluola nibwinyoola nibwinjinjinikha mbu mbwa, yaburukha nende shiakhwiyichilako. 'Eh Musa...' (وَأَلْقِ عَصَاكَ فَلَمَّا رَآهَا تَهْتَزُّ كَأَنَّهَا جَانٌّ وَلَّى مُدْبِرًا وَلَمْ يُعَقِّبْ يَامُوسَى) 27:10; 28:31
+- Tambolakho mu ensi mwole amakumia k'abalia bali khulola khwanyu. Abanji babo... (سِيرُوا فِي الْأَرْضِ فَانظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلُ كَانَ أَكْثَرُهُم) 30:42; 40:82
+- Nywelele khubilio biboolanga, ne orembe Nyasaye wo ng'oremba nasinde enjuba taakha nende nasinde yagwa. (فَاصْبِرْ عَلَى مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ غُرُوبِهَا) 20:130; 50:39
+- Temwesemeshere butiti bwa mulekwa, noo tawe halali mbu yaila, okhuola anafula amaka. Ne mumalile endagaano... (وَلَا تَقْرَبُوا مَالَ الْيَتِيمِ إِلَّا بِالَّتِي هِيَ أَحْسَنُ حَتَّى يَبْلُغَ أَشُدَّهُ وَأَوْفُوا) 6:152; 17:34
+- Khubakhung'afu tekhulio khumusango, ne khukhulema tekhulio khumusango, ne khukhulwala tekhulio khumusango. (لَّيْسَ عَلَى الْأَعْمَى حَرَجٌ وَلَا عَلَى الْأَعْرَجِ حَرَجٌ وَلَا عَلَى الْمَرِيضِ حَرَجٌ) 24:61; 48:17
+- 'Bino si chaye?' Boo: 'Nee, khulira khu Nyasaye witu.' Yaboola: 'Nywelele eshihono khulw'obukhaya bwanyu.' (أَلَيْسَ هَذَا بِالْحَقِّ قَالُوا بَلَى وَرَبِّنَا قَالَ فَذُوقُوا الْعَذَابَ بِمَا كُنتُمْ تَكْفُرُونَ) 6:30; 46:34
+- Abakhung'afu boo khubalia abeemulula: 'Khukhwaba khuli khubakhola. Manya mwanyala khurulula shihono shia Nyasaye?' (فَقَالَ الضُّعَفَاءُ لِلَّذِينَ اسْتَكْبَرُوا إِنَّا كُنَّا لَكُمْ تَبَعًا فَهَلْ أَنتُم مُّغْنُونَ عَنَّا) 14:21; 40:47
+- Khatiye amatsina ga Nyasaye gakhayingilwa nende amatsina ga baaba banyu, tawe khu mbu Nyasaye yaleka hala tawe. Mwene... (إِلَّا أَسْمَاءً سَمَّيْتُمُوهَا أَنتُمْ وَآبَاؤُكُم مَّا أَنزَلَ اللَّهُ بِهَا مِن سُلْطَانٍ إِنِ) 12:40; 53:23
+- Khulola khwo khwaruma khubasacha abakhasi ba Nyasaye, mbu mubole mbu mwanyala okhukhwana. (قَبْلِكَ إِلَّا رِجَالًا نُّوحِي إِلَيْهِمْ فَاسْأَلُوا أَهْلَ الذِّكْرِ إِن كُنتُمْ لَا تَعْلَمُونَ) 16:43; 21:7
+- Yaboola: 'Mwasuubila Ye nakhali tawe ta? Mwene Ye ni Omukulu wanyu eyabayigisa obulosi.' (قَالَ آمَنتُمْ لَهُ قَبْلَ أَنْ آذَنَ لَكُمْ إِنَّهُ لَكَبِيرُكُمُ الَّذِي عَلَّمَكُمُ السِّحْرَ) 20:71; 26:49
+- Ne omuundu tawe alikaka omukulo kwo. Mana khumukhasi wa Nyasaye wanyu mwina, mana yababoola bilio mwakholanga. (وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَى ثُمَّ إِلَى رَبِّكُم مَّرْجِعُكُمْ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 6:164; 39:7
+- Ne khubaboola: 'Mwikhukhe, mwanyu mwiyani ni balabe. Ne munaafuna mu ensi esiamu nende ekhumwo okhukhwaba tawe halali ebbanga.' (وَقُلْنَا اهْبِطُوا بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ وَلَكُمْ فِي الْأَرْضِ مُسْتَقَرٌّ وَمَتَاعٌ إِلَى حِينٍ) 2:36; 7:24
+- Khubili: Boo: 'Ni bakhasi babili abo nibalemwa? Oba abasacha babili? Oba si khubili mbu mulala nende mulala?' (اثْنَيْنِ قُلْ آلذَّكَرَيْنِ حَرَّمَ أَمِ الْأُنثَيَيْنِ أَمَّا اشْتَمَلَتْ عَلَيْهِ أَرْحَامُ الْأُنثَيَيْنِ) 6:143; 6:144
+
+Matching Phrases 11 words
+- Ne shiakhukhusaba mukaasa haali sino; emukaasa yange khatiye Nyasaye wa bantu bonna. (وَمَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِنْ أَجْرِيَ إِلَّا عَلَى رَبِّ الْعَالَمِينَ) 26:109; 26:127; 26:145; 26:164; 26:180
+- Tebatambolakho mu ensi ne balola mbu amakumia k'abalia bali khulola khwabu khwali buti? (أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ) 12:109; 30:9; 35:44; 40:82; 47:10
+- Tambolakho mu ensi mwole amakumia k'abalia bali khulola khwanyu. Bo... (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ كَانُوا) 30:9; 30:42; 35:44; 40:82
+- Mwene Omukasa wo yamanya mulayi yalia abha khukhukosa kwe, ne Ye yamanya nende balia abalama. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ مَن يَضِلُّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ) 6:117; 16:125; 68:7
+- Ye yarema amakulu nende ensi mwisiku sita, mana ne yikala khushiala khwe khubwami. (الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَى عَلَى الْعَرْشِ) 7:54; 10:3; 57:4
+- Ne nani okhukakwa khukhusinga yalia alomanga Nyasaye tawe, oba akhaya amanyikha? Nani? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا أَوْ كَذَّبَ بِآيَاتِهِ) 6:21; 7:37; 10:17
+- Ye yaruma Omurumwa kwe nende obukosa nende idini yaye, okhuyikuluya khukhusinga idiini tsinye. (هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَى وَدِينِ الْحَقِّ لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ) 9:33; 48:28; 61:9
+- Mwenye ababoola mbu Nyasaye ni Masiya mwana wa Maryamu, bakaya. Booa... (لَّقَدْ كَفَرَ الَّذِينَ قَالُوا إِنَّ اللَّهَ هُوَ الْمَسِيحُ ابْنُ مَرْيَمَ قُلْ) 5:17; 5:72
+- Towina khubakung'afu okhubalola khu bwina bwabu; okhuba tolawula tawe halali balia abasuubila amanyikha khu khwitu, ne bo nibalama. (الْعُمْيِ عَن ضَلَالَتِهِمْ إِن تُسْمِعُ إِلَّا مَن يُؤْمِنُ بِآيَاتِنَا فَهُم مُّسْلِمُونَ) 27:81; 30:53
+- Eshifwananyi sh'obulamu bw'enesi nili mbu amatsi khurarula khukhuwa, mana nako kakhong'ong'ana nende bikayi by'ensi... (مَثَلُ الْحَيَاةِ الدُّنْيَا كَمَاءٍ أَنزَلْنَاهُ مِنَ السَّمَاءِ فَاخْتَلَطَ بِهِ نَبَاتُ الْأَرْضِ) 10:24; 18:45
+- Mumwo buli shindu shibili, nende abo abali mu nju yo, noo tawe halali yalia endagaano khwa Nyasaye yashilile... (فِيهَا مِن كُلٍّ زَوْجَيْنِ اثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ الْقَوْلُ) 11:40; 23:27
+- Shindiboola tawe mbu ekhumwo khia Nyasaye khuli khwanje, ne shiakhumanya obwene tawe, ne shindiboola tawe... (لَّا أَقُولُ لَكُمْ عِندِي خَزَائِنُ اللَّهِ وَلَا أَعْلَمُ الْغَيْبَ وَلَا أَقُولُ) 6:50; 11:31
+- Mwene Nyasaye ni mwene bushikhupali khubantu, noo abanji shibamutsiima tawe. (إِنَّ اللَّهَ لَذُو فَضْلٍ عَلَى النَّاسِ وَلَكِنَّ أَكْثَرَ النَّاسِ لَا يَشْكُرُونَ) 2:243; 40:61
+- Ne khamanyikha tawe, kanali kakhurulanga tawe, kakhola tawe. (وَمَا تَأْتِيهِم مِّنْ آيَةٍ مِّنْ آيَاتِ رَبِّهِمْ إِلَّا كَانُوا عَنْهَا مُعْرِضِينَ) 6:4; 36:46
+- Mutiime lisiku elio omundu tawe alinyoola omundu, noo ne arulwa tawe. (وَاتَّقُوا يَوْمًا لَّا تَجْزِي نَفْسٌ عَن نَّفْسٍ شَيْئًا وَلَا يُقْبَلُ مِنْهَا) 2:48; 2:123
+- Mwene tola tawe khubakhung'afu ne khub'ebbiro tawe. (إِنَّكَ لَا تُسْمِعُ الْمَوْتَى وَلَا تُسْمِعُ الصُّمَّ الدُّعَاءَ إِذَا وَلَّوْا مُدْبِرِينَ) 27:80; 30:52
+- Khumusango khwanyu khwalemwa (okhulia) enyama yakhufa, omusaayi, enyama y'engurube, ne shindu shiosi shiakhanjwa khulwa mwene tawe. (حُرِّمَتْ عَلَيْكُمُ الْمَيْتَةُ وَالدَّمُ وَلَحْمُ الْخِنزِيرِ وَمَا أُهِلَّ لِغَيْرِ اللَّهِ بِهِ) 5:3; 16:115
+- Nyasaye akhutenderewa khubilio bili mu makulu nende mu ensi, Ne Ye ni Mwene Bukhosi, Mwene Amagezi. (سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَهُوَ الْعَزِيزُ الْحَكِيمُ) 59:1; 61:1
+- Khuye balia abeemisia olukhanda, mana ne bakhola amalayi. Mwene Nyasaye musonyi, musaasi. (إِلَّا الَّذِينَ تَابُوا مِن بَعْدِ ذَلِكَ وَأَصْلَحُوا فَإِنَّ اللَّهَ غَفُورٌ رَّحِيمٌ) 3:89; 24:5
+- Balia ba Nyasaye khurula khukhuwa, ne khutolekhanira tawe, ne khuli khubakhola. (النَّبِيُّونَ مِن رَّبِّهِمْ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّنْهُمْ وَنَحْنُ لَهُ مُسْلِمُونَ) 2:136; 3:84
+- Khurula khwa Nyasaye wo okhuwusia abantu, abo bali mu nzila, ne mbu bamanye. (مِّن رَّبِّكَ لِتُنذِرَ قَوْمًا مَّا أَتَاهُم مِّن نَّذِيرٍ مِّن قَبْلِكَ لَعَلَّهُمْ) 28:46; 32:3
+- Eh Nabii, khwanana nende abakhaya nende abali mu shifuli, ne obe mukali khubo. Amakhuwa kabu ni omuriro, ne ekhaleo ekhubi muno! (يَا أَيُّهَا النَّبِيُّ جَاهِدِ الْكُفَّارَ وَالْمُنَافِقِينَ وَاغْلُظْ عَلَيْهِمْ وَمَأْوَاهُمْ جَهَنَّمُ وَبِئْسَ الْمَصِيرُ) 9:73; 66:9
+- Mwene Omukasa wo alikania khukhati wabu mulisiku lye inyama mu bilio babali khulomana. (إِنَّ رَبَّكَ يَقْضِي بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 10:93; 45:17
+- Yaboola: 'Omukasa wange, mba akamanyikha.' Yaboola: 'Akamanyikha ko ni tawe okhuboola nende abantu.' (قَالَ رَبِّ اجْعَل لِّي آيَةً قَالَ آيَتُكَ أَلَّا تُكَلِّمَ النَّاسَ) 3:41; 19:10
+- Mana olole mu Masjid al-Haram. Ne wonna muli, mulole mwo. (فَوَلِّ وَجْهَكَ شَطْرَ الْمَسْجِدِ الْحَرَامِ وَحَيْثُ مَا كُنتُمْ فَوَلُّوا وُجُوهَكُمْ شَطْرَهُ) 2:144; 2:150
+- Eh bana ba Isira'ili, kumbukhai busaasi bwange mwabwesa, ne mbu khwabalulila khukhusinga abantu bonna. (يَا بَنِي إِسْرَائِيلَ اذْكُرُوا نِعْمَتِيَ الَّتِي أَنْعَمْتُ عَلَيْكُمْ وَأَنِّي فَضَّلْتُكُمْ عَلَى الْعَالَمِينَ) 2:47; 2:122
+- Tsisinde musaba, tsitotolo tsinye, ne tsisinde tsia kumutoka, ne tsisinde tsia kumukokho... (سَبْعَ بَقَرَاتٍ سِمَانٍ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌ وَسَبْعَ سُنبُلَاتٍ خُضْرٍ وَأُخَرَ يَابِسَاتٍ) 12:43; 12:46
+- Ne buli ndi khubakho ninayo. Naye yakholela, khahoyo. (وَلِكُلِّ أُمَّةٍ أَجَلٌ فَإِذَا جَاءَ أَجَلُهُمْ لَا يَسْتَأْخِرُونَ سَاعَةً وَلَا يَسْتَقْدِمُونَ) 7:34; 10:49
+- Shiosi shiakhanjwa khulwa mwene tawe, noo omundu naye oluola anyala, tawe ayila, tawe ananda... (أُهِلَّ لِغَيْرِ اللَّهِ بِهِ فَمَنِ اضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ) 6:145; 16:115
+- Ne nibaboolwa mbu 'Mugoberere Nyasaye,' baboola mbu 'Khugoberera bila khwakhubakho khwesi khukhwaba ne baaba banyu.' (وَإِذَا قِيلَ لَهُمُ اتَّبِعُوا مَا أَنزَلَ اللَّهُ قَالُوا بَلْ نَتَّبِعُ مَا) 2:170; 31:21
+- Yaboola: 'Abantu bange, musinze Nyasaye; mulieho nende Nyasaye wamala tawe halali Ye. Manya mutiima Nyasaye?' (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 7:65; 23:23
+
 """;

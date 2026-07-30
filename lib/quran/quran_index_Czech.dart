@@ -2953,4 +2953,70 @@ noblequran.com Schemas
 - Faktory určující věk pro uzavření manželství 4:6; 6:152; 24:59
 - Džibríl je Svatý, Důvěryhodný Duch, který přinesl Korán od Allaha Prorokovi 2:97; 16:102; 26:192
 - Pomoc, vítězství a nadvláda náleží Allahovi a Jeho poslům 30:47; 37:171-173; 40:51; 58:21
+Matching Phrases 13 words
+- A věru byli posměchu vystaveni poslové před tebou, takže ty, kdož se jim posmívali, postihlo to, čemu se posmívali. (وَلَقَدِ اسْتُهْزِئَ بِرُسُلٍ مِّن قَبْلِكَ فَحَاقَ بِالَّذِينَ سَخِرُوا مِنْهُم مَّا كَانُوا بِهِ يَسْتَهْزِئُونَ) 6:10; 21:41
+- A k Madjanovcům [jsme vyslali] bratra jejich Šu'ajba. Řekl: "Lide můj, uctívejte Boha; nemáte jiného boha kromě Něho." (وَإِلَى مَدْيَنَ أَخَاهُمْ شُعَيْبًا قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ) 7:85; 11:84
+- A k Thamúdovcům [jsme vyslali] bratra jejich Sáliha. Řekl: "Lide můj, uctívejte Boha; nemáte jiného boha kromě Něho." (وَإِلَى ثَمُودَ أَخَاهُمْ صَالِحًا قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ) 7:73; 11:61
+- Že Bůh rozhojňuje obživu tomu, komu chce, a odměřuje ji. Věru, v tom jsou znamení pro lid, jenž věří. (أَنَّ اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ وَيَقْدِرُ إِنَّ فِي ذَلِكَ لَآيَاتٍ لِّقَوْمٍ يُؤْمِنُونَ) 30:37; 39:52
+- A k Ádovcům [jsme vyslali] bratra jejich Húda. Řekl: "Lide můj, uctívejte Boha; nemáte jiného boha kromě Něho." (وَإِلَى عَادٍ أَخَاهُمْ هُودًا قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ) 7:65; 11:50
+- Ty, kdož uvěřili a zbožné činy konali, uvedeme do zahrad, pod nimiž řeky tekou, v nichž budou přebývat věčně. (وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ سَنُدْخِلُهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا) 4:57; 4:122
+- Pod nimiž řeky tekou, v nichž budou přebývat věčně. Bůh bude s nimi spokojen a oni s Ním spokojeni. To je... (تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا رَّضِيَ اللَّهُ عَنْهُمْ وَرَضُوا عَنْهُ ذَلِكَ) 5:119; 98:8
+- Rci: "Já jsem pouze smrtelník jako vy; je mi vnuknuto, že Bůh váš je Bůh Jediný." (قُلْ إِنَّمَا أَنَا بَشَرٌ مِّثْلُكُمْ يُوحَى إِلَيَّ أَنَّمَا إِلَهُكُمْ إِلَهٌ وَاحِدٌ) 18:110; 41:6
+- A mezi lidmi jest, kdo se hádá o Bohu bez jakéhokoli vědění, bez vedení a bez knihy osvícené. (وَمِنَ النَّاسِ مَن يُجَادِلُ فِي اللَّهِ بِغَيْرِ عِلْمٍ وَلَا هُدًى وَلَا كِتَابٍ مُّنِيرٍ) 22:8; 31:20
+- On vnáší noc do dne a vnáší den do noci; podmanil si slunce a měsíc a každý plyne do lhůty stanovené. (يُولِجُ اللَّيْلَ فِي النَّهَارِ وَيُولِجُ النَّهَارَ فِي اللَّيْلِ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ كُلٌّ يَجْرِي) 31:29; 35:13
+- Z nebe vodu sesílá, jíž oživuje zemi po smrti její. Věru, v tom je znamení pro lid... (مِنَ السَّمَاءِ مَاءً فَأَحْيَا بِهِ الْأَرْضَ بَعْدَ مَوْتِهَا إِنَّ فِي ذَلِكَ لَآيَةً لِّقَوْمٍ) 16:65; 30:24
+- Věru, těm, kdož neuvěřili, nepomohou majetky jejich ani děti jejich u Boha nijak, a tito jsou... (إِنَّ الَّذِينَ كَفَرُوا لَن تُغْنِيَ عَنْهُمْ أَمْوَالُهُمْ وَلَا أَوْلَادُهُم مِّنَ اللَّهِ شَيْئًا وَأُولَئِكَ) 3:10; 3:116
+- Jenž stvořil nebesa a zemi a to, co je mezi nimi, v šesti dnech, a pak se vyvýšil na trůnu. (الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا فِي سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَى عَلَى الْعَرْشِ) 25:59; 32:4
+
+Matching Phrases 12 words
+- Což necestovali po zemi, aby viděli, jaký byl konec těch, kdož před nimi byli? Byli mocnější... (أَوَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ كَانُوا) 30:9; 35:44; 40:82
+- Věru, Bůh uvede ty, kdož uvěřili a zbožné činy konali, do zahrad, pod nimiž řeky tekou. (إِنَّ اللَّهَ يُدْخِلُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 22:14; 22:23; 47:12
+- Slib Boží je pravdivý; nechť vás tedy neoklame život pozemský, a nechť vás neoklame lživý svůdce ohledně Boha. (إِنَّ وَعْدَ اللَّهِ حَقٌّ فَلَا تَغُرَّنَّكُمُ الْحَيَاةُ الدُّنْيَا وَلَا يَغُرَّنَّكُم بِاللَّهِ الْغَرُورُ) 31:33; 35:5
+- A kdožkoliv se ubírá správnou cestou, činí tak pro sebe; a kdožkoliv bloudí, bloudí jen proti sobě. (فَمَنِ اهْتَدَى فَإِنَّمَا يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا) 10:108; 17:15
+- A vrhni hůl svou! A když ji spatřil pohybovat se, jako by byla hadem, otočil se zády a dal se na útěk a neohlédl se. "Mojžíši..." (وَأَلْقِ عَصَاكَ فَلَمَّا رَآهَا تَهْتَزُّ كَأَنَّهَا جَانٌّ وَلَّى مُدْبِرًا وَلَمْ يُعَقِّبْ يَامُوسَى) 27:10; 28:31
+- Cestujte po zemi a pohleďte, jaký byl konec těch, kdož byli před vámi; většina z nich... (سِيرُوا فِي الْأَرْضِ فَانظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلُ كَانَ أَكْثَرُهُم) 30:42; 40:82
+- Buď trpělivý vůči tomu, co říkají, a oslavuj chválou Pána svého před východem slunce a před západem jeho. (فَاصْبِرْ عَلَى مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ غُرُوبِهَا) 20:130; 50:39
+- A nepřibližujte se k majetku sirotka, leda způsobem nejlepším, dokud nedosáhne dospělosti. A plňte... (وَلَا تَقْرَبُوا مَالَ الْيَتِيمِ إِلَّا بِالَّتِي هِيَ أَحْسَنُ حَتَّى يَبْلُغَ أَشُدَّهُ وَأَوْفُوا) 6:152; 17:34
+- Není hříchu pro slepého, ani pro chromého, ani pro nemocného. (لَّيْسَ عَلَى الْأَعْمَى حَرَجٌ وَلَا عَلَى الْأَعْرَجِ حَرَجٌ وَلَا عَلَى الْمَرِيضِ حَرَجٌ) 24:61; 48:17
+- "Což toto není pravda?" Odpovědí: "Ano, při Pánu našem!" A řekne: "Ochutnejte tedy trest za to, že jste nevěřili." (أَلَيْسَ هَذَا بِالْحَقِّ قَالُوا بَلَى وَرَبِّنَا قَالَ فَذُوقُوا الْعَذَابَ بِمَا كُنتُمْ تَكْفُرُونَ) 6:30; 46:34
+- I řeknou ti slabí těm, kdož se pyšnili: "My jsme byli vašimi následovníky, můžete nás zbavit (Božího trestu)?" (فَقَالَ الضُّعَفَاءُ لِلَّذِينَ اسْتَكْبَرُوا إِنَّا كُنَّا لَكُمْ تَبَعًا فَهَلْ أَنتُم مُّغْنُونَ عَنَّا) 14:21; 40:47
+- Kromě jmen, která jste vy a vaši otcové vymyslili, a k nimž Bůh neseslal žádné zmocnění. Věru, (إِلَّا أَسْمَاءً سَمَّيْتُمُوهَا أَنتُمْ وَآبَاؤُكُم مَّا أَنزَلَ اللَّهُ بِهَا مِن سُلْطَانٍ إِنِ) 12:40; 53:23
+- Před tebou pouze muže, jimž jsme vnukli. Ptejte se tedy lidu připomínání, nevíte-li. (قَبْلِكَ إِلَّا رِجَالًا نُّوحِي إِلَيْهِمْ فَاسْأَلُوا أَهْلَ الذِّكْرِ إِن كُنتُمْ لَا تَعْلَمُونَ) 16:43; 21:7
+- Řekl: "Uvěřili jste mu dříve, než jsem vám dovolil? On je váš vůdce, který vás naučil čarování." (قَالَ آمَنتُمْ لَهُ قَبْلَ أَنْ آذَنَ لَكُمْ إِنَّهُ لَكَبِيرُكُمُ الَّذِي عَلَّمَكُمُ السِّحْرَ) 20:71; 26:49
+- A žádný hříšník neponese břímě druhého. Poté k Pánu svému se navrátíte a On vám oznámí, co jste činili. (وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَى ثُمَّ إِلَى رَبِّكُم مَّرْجِعُكُمْ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 6:164; 39:7
+- I řekli jsme: "Sestupte; jedni druhým nepřáteli budete. Na zemi budete mít pobyt a užívání dočasné." (وَقُلْنَا اهْبِطُوا بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ وَلَكُمْ فِي الْأَرْضِ مُسْتَقَرٌّ وَمَتَاعٌ إِلَى حِينٍ) 2:36; 7:24
+- Dva - rci: "Zakázal On dvě mužské, nebo dvě ženské, anebo to, co obsahují lůna dvou ženských?" (اثْنَيْنِ قُلْ آلذَّكَرَيْنِ حَرَّمَ أَمِ الْأُنثَيَيْنِ أَمَّا اشْتَمَلَتْ عَلَيْهِ أَرْحَامُ الْأُنثَيَيْنِ) 6:143; 6:144
+
+Matching Phrases 11 words
+- A nežádám na vás za to odměnu; odměna má je toliko u Pána lidstva veškerého. (وَمَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِنْ أَجْرِيَ إِلَّا عَلَى رَبِّ الْعَالَمِينَ) 26:109; 26:127; 26:145; 26:164; 26:180
+- Což necestovali po zemi, aby viděli, jaký byl konec těch, kdož před nimi byli? (أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ) 12:109; 30:9; 35:44; 40:82; 47:10
+- Cestují po zemi a hledí, jaký byl konec těch, kdož před nimi byli; oni byli... (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ كَانُوا) 30:9; 30:42; 35:44; 40:82
+- Věru, Pán tvůj nejlépe zná toho, kdo zbloudil z cesty Jeho, a On nejlépe zná ty, kdož správnou cestou jdou. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ مَن يَضِلُّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ) 6:117; 16:125; 68:7
+- Jenž stvořil nebesa a zemi v šesti dnech a pak se vyvýšil na trůnu. (الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَى عَلَى الْعَرْشِ) 7:54; 10:3; 57:4
+- A kdo je nespravedlivější než ten, jenž o Bohu lži vymýšlí, či znamení Jeho za lež prohlašuje? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا أَوْ كَذَّبَ بِآيَاتِهِ) 6:21; 7:37; 10:17
+- On je ten, jenž vyslal posla Svého s vedením a náboženstvím pravým, aby je vyvýšil nad náboženství veškerá. (هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَى وَدِينِ الْحَقِّ لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ) 9:33; 48:28; 61:9
+- Věru, neuvěřili ti, kdož tvrdí, že "Bůh je Mesiáš, syn Mariin." Rci... (لَّقَدْ كَفَرَ الَّذِينَ قَالُوا إِنَّ اللَّهَ هُوَ الْمَسِيحُ ابْنُ مَرْيَمَ قُلْ) 5:17; 5:72
+- Slepé od jejich bloudění; ty můžeš slyšet jen ty, kdož věří ve znamení Naše, a oni jsou do vůle Boží odevzdáni. (الْعُمْيِ عَن ضَلَالَتِهِمْ إِن تُسْمِعُ إِلَّا مَن يُؤْمِنُ بِآيَاتِنَا فَهُم مُّسْلِمُونَ) 27:81; 30:53
+- Podobenství o životě pozemském je jako voda, kterou jsme seslali z nebe, a smísilo se s ní rostlinstvo země. (مَثَلُ الْحَيَاةِ الدُّنْيَا كَمَاءٍ أَنزَلْنَاهُ مِنَ السَّمَاءِ فَاخْتَلَطَ بِهِ نَبَاتُ الْأَرْضِ) 10:24; 18:45
+- V něm od každého druhu pár, a rodinu svou, kromě těch, nad nimiž již rozsudek byl vyřčen. (فِيهَا مِن كُلٍّ زَوْجَيْنِ اثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ الْقَوْلُ) 11:40; 23:27
+- Nepravím vám: "U mne jsou pokladnice Boží", aniž pravím: "Znal jsem nepoznatelné", aniž pravím... (لَّا أَقُولُ لَكُمْ عِندِي خَزَائِنُ اللَّهِ وَلَا أَعْلَمُ الْغَيْبَ وَلَا أَقُولُ) 6:50; 11:31
+- Bůh je věru milostivý k lidem, ale většina lidí není vděčná. (إِنَّ اللَّهَ لَذُو فَضْلٍ عَلَى النَّاسِ وَلَكِنَّ أَكْثَرَ النَّاسِ لَا يَشْكُرُونَ) 2:243; 40:61
+- A kterékoliv znamení znamení Pána jejich k nim přijde, odvrátí se od něho. (وَمَا تَأْتِيهِم مِّنْ آيَةٍ مِّنْ آيَاتِ رَبِّهِمْ إِلَّا كَانُوا عَنْهَا مُعْرِضِينَ) 6:4; 36:46
+- A bojte se dne, kdy duše žádná nevykoupí duši druhou nijak, a nebude od ní přijato výkupné. (وَاتَّقُوا يَوْمًا لَّا تَجْزِي نَفْسٌ عَن نَّفْسٍ شَيْئًا وَلَا يُقْبَلُ مِنْهَا) 2:48; 2:123
+- Ty nemůžeš mrtvé slyšet učinit, ani hluché slyšet, když se odvracejí zády. (إِنَّكَ لَا تُسْمِعُ الْمَوْتَى وَلَا تُسْمِعُ الصُّمَّ الدُّعَاءَ إِذَا وَلَّوْا مُدْبِرِينَ) 27:80; 30:52
+- Zakázáno je vám zdechliny, krev, vepřové maso a to, co bylo zabito pro jiného než pro Boha. (حُرِّمَتْ عَلَيْكُمُ الْمَيْتَةُ وَالدَّمُ وَلَحْمُ الْخِنزِيرِ وَمَا أُهِلَّ لِغَيْرِ اللَّهِ بِهِ) 5:3; 16:115
+- Oslavuje Boha vše, co na nebesích je i na zemi, a On je Všemohoucí, Moudrý. (سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَهُوَ الْعَزِيزُ الْحَكِيمُ) 59:1; 61:1
+- Kromě těch, kdož pokání činili a napravili se; v tom Bůh je odpouštějící, slitovný. (إِلَّا الَّذِينَ تَابُوا مِن بَعْدِ ذَلِكَ وَأَصْلَحُوا فَإِنَّ اللَّهَ غَفُورٌ رَّحِيمٌ) 3:89; 24:5
+- Proroci – od Pána jejich; nečiníme rozdílu mezi žádným z nich, a jsme Jemu odevzdáni. (النَّبِيُّونَ مِن رَّبِّهِمْ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّنْهُمْ وَنَحْنُ لَهُ مُسْلِمُونَ) 2:136; 3:84
+- Od Pána tvého, abys varoval lid, k němuž nepřišel varovatel před tebou, aby snad... (مِّن رَّبِّكَ لِتُنذِرَ قَوْمًا مَّا أَتَاهُم مِّن نَّذِيرٍ مِّن قَبْلِكَ لَعَلَّهُمْ) 28:46; 32:3
+- Proroku, bojuj proti nevěřícím a pokrytcům a buď přísný na ně! Jejich útulkem bude peklo, a jak hnusný je to cíl! (يَا أَيُّهَا النَّبِيُّ جَاهِدِ الْكُفَّارَ وَالْمُنَافِقِينَ وَاغْلُظْ عَلَيْهِمْ وَمَأْوَاهُمْ جَهَنَّمُ وَبِئْسَ الْمَصِيرُ) 9:73; 66:9
+- Věru, Pán tvůj rozsoudí mezi nimi v den zmrtvýchvstání to, v čem se rozcházeli. (إِنَّ رَبَّكَ يَقْضِي بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 10:93; 45:17
+- Řekl: "Pane můj, učiň mi znamení." Odpověděl: "Znamením tvým bude, že nepromluvíš k lidem..." (قَالَ رَبِّ اجْعَل لِّي آيَةً قَالَ آيَتُكَ أَلَّا تُكَلِّمَ النَّاسَ) 3:41; 19:10
+- Obrať tvář svou směrem k Posvátné mešitě. A kdekoliv budete, obracejte tváře své směrem k ní. (فَوَلِّ وَجْهَكَ شَطْرَ الْمَسْجِدِ الْحَرَامِ وَحَيْثُ مَا كُنتُمْ فَوَلُّوا وُجُوهَكُمْ شَطْرَهُ) 2:144; 2:150
+- Synové Izraele, pomněte milosti mé, kterou jsem vám prokázal, a že jsem vás vyznamenal nad lidstvo veškeré. (يَا بَنِي إِسْرَائِيلَ اذْكُرُوا نِعْمَتِيَ الَّتِي أَنْعَمْتُ عَلَيْكُمْ وَأَنِّي فَضَّلْتُكُمْ عَلَى الْعَالَمِينَ) 2:47; 2:122
+- Sedm krav tučných, jež požírá sedm hubených, a sedm klasů zelených a jiných suchých. (سَبْعَ بَقَرَاتٍ سِمَانٍ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌ وَسَبْعَ سُنبُلَاتٍ خُضْرٍ وَأُخَرَ يَابِسَاتٍ) 12:43; 12:46
+- A každý národ má svou lhůtu; a když lhůta jejich přijde, nezpozdí se ani o hodinu, ani ji neuspíší. (وَلِكُلِّ أُمَّةٍ أَجَلٌ فَإِذَا جَاءَ أَجَلُهُمْ لَا يَسْتَأْخِرُونَ سَاعَةً وَلَا يَسْتَقْدِمُونَ) 7:34; 10:49
+- Co bylo zabito pro jiného než pro Boha. A kdo bude donucen, aniž by byl vzpurný či přestupující, pak... (أُهِلَّ لِغَيْرِ اللَّهِ بِهِ فَمَنِ اضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ) 6:145; 16:115
+- A když se jim řekne: "Následujte to, co Bůh seslal", odpovídají: "Nikoliv, budeme následovat to, co..." (وَإِذَا قِيلَ لَهُمُ اتَّبِعُوا مَا أَنزَلَ اللَّهُ قَالُوا بَلْ نَتَّبِعُ مَا) 2:170; 31:21
+- Řekl: "Lide můj, uctívejte Boha; nemáte jiného boha kromě Něho. Což nebudete bohabojní?" (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 7:65; 23:23
 """;

@@ -2956,4 +2956,71 @@ noblequran.com Schemas
 - Veiksniai, sudarantys santuokinį amžių 4:6; 6:152; 24:59
 - Džibrilis yra Šventoji, Patikima Dvasia, atnešusi Koraną iš Allaho Pranašui 2:97; 16:102; 26:192
 - Pagalba, pergalė ir viešpatavimas priklauso Allahui ir Jo pasiuntiniams 30:47; 37:171-173; 40:51; 58:21
+Matching Phrases 13 words
+- Ir tikrai pasiuntiniai buvo išjuokti prieš tave, bet tuos, kurie iš jų tyčiojosi, apgaubė tai, iš ko jie tyčiojosi. (وَلَقَدِ اسْتُهْزِئَ بِرُسُلٍ مِّن قَبْلِكَ فَحَاقَ بِالَّذِينَ سَخِرُوا مِنْهُم مَّا كَانُوا بِهِ يَسْتَهْزِئُونَ) 6:10; 21:41
+- Ir į Madjaną (siuntėme) jų brolį Šuaibą. Jis tarė: 'O mano tautiečiai, garbinkite Alachą; jūs neturite kito dievo, tik Jį.' (وَإِلَى مَدْيَنَ أَخَاهُمْ شُعَيْبًا قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ) 7:85; 11:84
+- Ir į Samudą (siuntėme) jų brolį Salihą. Jis tarė: 'O mano tautiečiai, garbinkite Alachą; jūs neturite kito dievo, tik Jį.' (وَإِلَى ثَمُودَ أَخَاهُمْ صَالِحًا قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ) 7:73; 11:61
+- Alachas praplečia išlaikymą kam nori ir jį apriboja. Iš tiesų čia yra ženklų tikintiems žmonėms. (أَنَّ اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ وَيَقْدِرُ إِنَّ فِي ذَلِكَ لَآيَاتٍ لِّقَوْمٍ يُؤْمِنُونَ) 30:37; 39:52
+- Ir į Adą (siuntėme) jų brolį Hudą. Jis tarė: 'O mano tautiečiai, garbinkite Alachą; jūs neturite kito dievo, tik Jį.' (وَإِلَى عَادٍ أَخَاهُمْ هُودًا قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ) 7:65; 11:50
+- O tuos, kurie tikėjo ir darė gerus darbus, mes įvesime į rojus, kuriuose po jais teka upės, amžinai juose pasiliksiančius. (وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ سَنُدْخِلُهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا) 4:57; 4:122
+- Po jais teka upės, amžinai juose pasiliksiančius. Alachas jais patenkintas ir jie Juo patenkinti. Tai... (تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا رَّضِيَ اللَّهُ عَنْهُمْ وَرَضُوا عَنْهُ ذَلِكَ) 5:119; 98:8
+- Sakyk: 'Aš esu tik žmogus, panašus į jus; man apreiškiama, kad jūsų dievas yra tik vienas Dievas.' (قُلْ إِنَّمَا أَنَا بَشَرٌ مِّثْلُكُمْ يُوحَى إِلَيَّ أَنَّمَا إِلَهُكُمْ إِلَهٌ وَاحِدٌ) 18:110; 41:6
+- Ir tarp žmonių yra tokių, kurie ginčijasi dėl Alacho, neturėdami nei žinių, nei vadovavimo, nei šviesios knygos. (وَمِنَ النَّاسِ مَن يُجَادِلُ فِي اللَّهِ بِغَيْرِ عِلْمٍ وَلَا هُدًى وَلَا كِتَابٍ مُّنِيرٍ) 22:8; 31:20
+- Jis įveda naktį į dieną ir įveda dieną į naktį, ir pavergė saulę bei mėnulį – kiekvienas teka (nustatytu laiku)... (يُولِجُ اللَّيْلَ فِي النَّهَارِ وَيُولِجُ النَّهَارَ فِي اللَّيْلِ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ كُلٌّ يَجْرِي) 31:29; 35:13
+- Iš dangaus atsiuntė vandens ir juo atgaivino žemę po jos mirties. Iš tiesų čia yra ženklas žmonėms (kurie girdi). (مِنَ السَّمَاءِ مَاءً فَأَحْيَا بِهِ الْأَرْضَ بَعْدَ مَوْتِهَا إِنَّ فِي ذَلِكَ لَآيَةً لِّقَوْمٍ) 16:65; 30:24
+- Iš tiesų tiems, kurie netikėjo, jų turtai ir jų vaikai niekuo nepadės prieš Alachą. Ir jie... (إِنَّ الَّذِينَ كَفَرُوا لَن تُغْنِيَ عَنْهُمْ أَمْوَالُهُمْ وَلَا أَوْلَادُهُم مِّنَ اللَّهِ شَيْئًا وَأُولَئِكَ) 3:10; 3:116
+- Tas, kuris sukūrė dangus ir žemę bei visa, kas tarp jų, per šešias dienas, o paskui įsikūrė ant Aršo (sosto). (الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا فِي سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَى عَلَى الْعَرْشِ) 25:59; 32:4
+
+Matching Phrases 12 words
+- Argi jie nekeliavo po žemę ir nepamatė, koks buvo tų, kurie buvo prieš juos, galas? Jie... (أَوَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ كَانُوا) 30:9; 35:44; 40:82
+- Iš tiesų Alachas įves tuos, kurie tikėjo ir darė gerus darbus, į rojus, kuriuose po jais teka upės. (إِنَّ اللَّهَ يُدْخِلُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 22:14; 22:23; 47:12
+- Iš tiesų Alacho pažadas yra tiesa; tegul jūsų neapgauna pasaulietinis gyvenimas ir tegul jūsų neapgauna apgavikas dėl Alacho. (إِنَّ وَعْدَ اللَّهِ حَقٌّ فَلَا تَغُرَّنَّكُمُ الْحَيَاةُ الدُّنْيَا وَلَا يَغُرَّنَّكُم بِاللَّهِ الْغَرُورُ) 31:33; 35:5
+- Kas pasirenka teisingą kelią, tas pasirenka jį savo naudai; o kas nuklysta, tas nuklysta savo pačio nenaudai. (فَمَنِ اهْتَدَى فَإِنَّمَا يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا) 10:108; 17:15
+- Ir mesk savo lazdą. Kai jis pamatė ją judant tarsi gyvatė, jis atsuko nugarą ir neatbėgo. 'O, Musa...' (وَأَلْقِ عَصَاكَ فَلَمَّا رَآهَا تَهْتَزُّ كَأَنَّهَا جَانٌّ وَلَّى مُدْبِرًا وَلَمْ يُعَقِّبْ يَامُوسَى) 27:10; 28:31
+- Keliaukite po žemę ir pažiūrėkite, koks buvo tų, kurie buvo prieš jus, galas. Dauguma jų... (سِيرُوا فِي الْأَرْضِ فَانظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلُ كَانَ أَكْثَرُهُم) 30:42; 40:82
+- Taigi būk kantrus dėl to, ką jie sako, ir šlovink savo Viešpatį jam giriant prieš saulėtekį ir prieš saulėlydį. (فَاصْبِرْ عَلَى مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ غُرُوبِهَا) 20:130; 50:39
+- Ir nesiartinkite prie našlaičio turto, išskyrus tuo, kas geriau, kol jis pasieks pilnametystę. Ir vykdykite pažadą... (وَلَا تَقْرَبُوا مَالَ الْيَتِيمِ إِلَّا بِالَّتِي هِيَ أَحْسَنُ حَتَّى يَبْلُغَ أَشُدَّهُ وَأَوْفُوا) 6:152; 17:34
+- Nėra kaltės aklajam, nėra kaltės luošajam ir nėra kaltės sergančiajam. (لَّيْسَ عَلَى الْأَعْمَى حَرَجٌ وَلَا عَلَى الْأَعْرَجِ حَرَجٌ وَلَا عَلَى الْمَرِيضِ حَرَجٌ) 24:61; 48:17
+- 'Argi tai nėra tiesa?' Jie tarė: 'Taip, prisiekę savo Viešpačiu.' Jis tarė: 'Tada ragaukite kančios už tai, kad netikėjote.' (أَلَيْسَ هَذَا بِالْحَقِّ قَالُوا بَلَى وَرَبِّنَا قَالَ فَذُوقُوا الْعَذَابَ بِمَا كُنتُمْ تَكْفُرُونَ) 6:30; 46:34
+- Silpnieji tarė išdidiesiems: 'Mes buvome jūsų pasekėjai. Ar galite mus apsaugoti nuo Alacho kančios?' (فَقَالَ الضُّعَفَاءُ لِلَّذِينَ اسْتَكْبَرُوا إِنَّا كُنَّا لَكُمْ تَبَعًا فَهَلْ أَنتُم مُّغْنُونَ عَنَّا) 14:21; 40:47
+- Tai tik vardai, kuriuos pavadinote jūs ir jūsų tėvai; Alachas dėl jų jokios valdžios nėra atsiuntęs. Iš tiesų... (إِلَّا أَسْمَاءً سَمَّيْتُمُوهَا أَنتُمْ وَآبَاؤُكُم مَّا أَنزَلَ اللَّهُ بِهَا مِن سُلْطَانٍ إِنِ) 12:40; 53:23
+- Prieš tave mes siuntėme tik vyrus, kuriems buvo apreikšta; tad klauskite Žinios žmonių, jei nežinote. (قَبْلِكَ إِلَّا رِجَالًا نُّوحِي إِلَيْهِمْ فَاسْأَلُوا أَهْلَ الذِّكْرِ إِن كُنتُمْ لَا تَعْلَمُونَ) 16:43; 21:7
+- Jis tarė: 'Ar jūs juo patikėjote prieš man leidžiant? Iš tiesų jis yra jūsų didysis, kuris išmokė jus burtų.' (قَالَ آمَنتُمْ لَهُ قَبْلَ أَنْ آذَنَ لَكُمْ إِنَّهُ لَكَبِيرُكُمُ الَّذِي عَلَّمَكُمُ السِّحْرَ) 20:71; 26:49
+- Ir niekas neneš kito naštos. Paskui pas savo Viešpatį jūs sugrįšite, ir Jis jums praneš apie tai, ką darydavote. (وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَى ثُمَّ إِلَى رَبِّكُم مَّرْجِعُكُمْ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 6:164; 39:7
+- Ir Mes tarėme: 'Nusileiskite vieni kitiems priešais. Ir žemėje jūs turėsite buveinę ir naudojimąsi iki tam tikro laiko.' (وَقُلْنَا اهْبِطُوا بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ وَلَكُمْ فِي الْأَرْضِ مُسْتَقَرٌّ وَمَتَاعٌ إِلَى حِينٍ) 2:36; 7:24
+- Dviejų: Sakyk: 'Ar Jis uždraudė du patinus, ar dvi pateles, ar tai, ką apima dviejų patelių įsčiose?' (اثْنَيْنِ قُلْ آلذَّكَرَيْنِ حَرَّمَ أَمِ الْأُنثَيَيْنِ أَمَّا اشْتَمَلَتْ عَلَيْهِ أَرْحَامُ الْأُنثَيَيْنِ) 6:143; 6:144
+
+Matching Phrases 11 words
+- Ir aš neprašau jūsų už tai jokio atlygio; mano atlygis yra tik nuo pasaulių Viešpaties. (وَمَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِنْ أَجْرِيَ إِلَّا عَلَى رَبِّ الْعَالَمِينَ) 26:109; 26:127; 26:145; 26:164; 26:180
+- Argi jie nekeliavo po žemę ir nepamatė, koks buvo tų, kurie buvo prieš juos, galas? (أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ) 12:109; 30:9; 35:44; 40:82; 47:10
+- Keliaukite po žemę ir pažiūrėkite, koks buvo tų, kurie buvo prieš jus, galas. Jie... (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ كَانُوا) 30:9; 30:42; 35:44; 40:82
+- Iš tiesų tavo Viešpats geriausiai žino, kas nuklysta nuo Jo kelio, ir Jis geriausiai žino tuos, kurie eina teisingu keliu. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ مَن يَضِلُّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ) 6:117; 16:125; 68:7
+- Tas, kuris sukūrė dangus ir žemę per šešias dienas, o paskui įsikūrė ant Aršo (sosto). (الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَى عَلَى الْعَرْشِ) 7:54; 10:3; 57:4
+- Ir kas yra blogesnis už tą, kuris sugalvoja melą apie Alachą arba Jo ženklus vadina melu? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا أَوْ كَذَّبَ بِآيَاتِهِ) 6:21; 7:37; 10:17
+- Jis yra Tas, kuris atsiuntė Savo pasiuntinį su vadovavimu ir tikrosios religijos, kad ją išaukštintų virš visų religijų. (هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَى وَدِينِ الْحَقِّ لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ) 9:33; 48:28; 61:9
+- Iš tiesų netikėjo tie, kurie sakė: 'Alachas yra Mesijas, Marijos sūnus.' Sakyk... (لَّقَدْ كَفَرَ الَّذِينَ قَالُوا إِنَّ اللَّهَ هُوَ الْمَسِيحُ ابْنُ مَرْيَمَ قُلْ) 5:17; 5:72
+- Tu negali padaryti, kad aklieji išgirstų (tiesą) iš jų klydimų. Tu girdi tik tuos, kurie tiki Mūsų ženklais, ir jie yra pasidavusieji. (الْعُمْيِ عَن ضَلَالَتِهِمْ إِن تُسْمِعُ إِلَّا مَن يُؤْمِنُ بِآيَاتِنَا فَهُم مُّسْلِمُونَ) 27:81; 30:53
+- Pasaulinio gyvenimo pavyzdys yra tarsi vanduo, kurį Mes siuntėme iš dangaus, ir su juo susimaišė žemės augalai... (مَثَلُ الْحَيَاةِ الدُّنْيَا كَمَاءٍ أَنزَلْنَاهُ مِنَ السَّمَاءِ فَاخْتَلَطَ بِهِ نَبَاتُ الْأَرْضِ) 10:24; 18:45
+- Į jį (laivą) iš kiekvienos rūšies po porą ir savo šeimą, išskyrus tuos, kuriems jau buvo paskelbtas nuosprendis... (فِيهَا مِن كُلٍّ زَوْجَيْنِ اثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ الْقَوْلُ) 11:40; 23:27
+- Aš jums nesakau, kad pas mane yra Alacho lobynai, ir nežinau paslėptojo, ir nesakau... (لَّا أَقُولُ لَكُمْ عِندِي خَزَائِنُ اللَّهِ وَلَا أَعْلَمُ الْغَيْبَ وَلَا أَقُولُ) 6:50; 11:31
+- Iš tiesų Alachas yra maloningas žmonėms, bet dauguma žmonių nėra dėkingi. (إِنَّ اللَّهَ لَذُو فَضْلٍ عَلَى النَّاسِ وَلَكِنَّ أَكْثَرَ النَّاسِ لَا يَشْكُرُونَ) 2:243; 40:61
+- Nebeateidavo pas juos joks ženklas iš jų Viešpaties ženklų, kad jie nuo jo nenusisuktų. (وَمَا تَأْتِيهِم مِّنْ آيَةٍ مِّنْ آيَاتِ رَبِّهِمْ إِلَّا كَانُوا عَنْهَا مُعْرِضِينَ) 6:4; 36:46
+- Ir bijokite Dienos, kai jokia siela už kitą nieko neatsilygins ir iš jos nebus priimta (išpirkos). (وَاتَّقُوا يَوْمًا لَّا تَجْزِي نَفْسٌ عَن نَّفْسٍ شَيْئًا وَلَا يُقْبَلُ مِنْهَا) 2:48; 2:123
+- Iš tiesų tu negali priversti girdėti mirusiųjų ir negali priversti girdėti kvietimo kurčiųjų, kai jie atsuka nugarą. (إِنَّكَ لَا تُسْمِعُ الْمَوْتَى وَلَا تُسْمِعُ الصُّمَّ الدُّعَاءَ إِذَا وَلَّوْا مُدْبِرِينَ) 27:80; 30:52
+- Jums uždrausta (valgyti) kritusią mėsą, kraują, kiaulieną ir tai, kas paskersta ne Alacho vardu. (حُرِّمَتْ عَلَيْكُمُ الْمَيْتَةُ وَالدَّمُ وَلَحْمُ الْخِنزِيرِ وَمَا أُهِلَّ لِغَيْرِ اللَّهِ بِهِ) 5:3; 16:115
+- Alachą šlovina visa, kas yra danguose ir žemėje, ir Jis yra Galingasis, Išmintingasis. (سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَهُوَ الْعَزِيزُ الْحَكِيمُ) 59:1; 61:1
+- Išskyrus tuos, kurie po to atgailavo ir pataisė (savo veiksmus). Iš tiesų Alachas yra Atleidžiantis, Gailestingasis. (إِلَّا الَّذِينَ تَابُوا مِن بَعْدِ ذَلِكَ وَأَصْلَحُوا فَإِنَّ اللَّهَ غَفُورٌ رَّحِيمٌ) 3:89; 24:5
+- (Tą, kas atsiųsta) pranašams iš jų Viešpaties; mes neskiriame nė vieno iš jų ir mes Jam esame pasidavę. (النَّبِيُّونَ مِن رَّبِّهِمْ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّنْهُمْ وَنَحْنُ لَهُ مُسْلِمُونَ) 2:136; 3:84
+- Iš tavo Viešpaties (siųstas), kad įspėtum žmones, kuriems iki tavęs nebuvo atėjęs joks įspėtojas, kad jie... (مِّن رَّبِّكَ لِتُنذِرَ قَوْمًا مَّا أَتَاهُم مِّن نَّذِيرٍ مِّن قَبْلِكَ لَعَلَّهُمْ) 28:46; 32:3
+- O Pranaše, kovok su netikinčiaisiais ir veidmainiais ir būk jiems griežtas. Jų buveinė yra Gehena (pragaras) – ir koks baisus galas! (يَا أَيُّهَا النَّبِيُّ جَاهِدِ الْكُفَّارَ وَالْمُنَافِقِينَ وَاغْلُظْ عَلَيْهِمْ وَمَأْوَاهُمْ جَهَنَّمُ وَبِئْسَ الْمَصِيرُ) 9:73; 66:9
+- Iš tiesų tavo Viešpats teis tarp jų Prisikėlimo dieną dėl to, dėl ko jie nesutarė. (إِنَّ رَبَّكَ يَقْضِي بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 10:93; 45:17
+- Jis tarė: 'Viešpatie, padaryk man ženklą.' Jis tarė: 'Tavo ženklas yra tai, kad tu su žmonėmis nekalbėsi.' (قَالَ رَبِّ اجْعَل لِّي آيَةً قَالَ آيَتُكَ أَلَّا تُكَلِّمَ النَّاسَ) 3:41; 19:10
+- Tad atgręžk savo veidą Šventosios Mečetės pusėn. Ir kad ir kur būtumėte, atgręžkite savo veidus į ją. (فَوَلِّ وَجْهَكَ شَطْرَ الْمَسْجِدِ الْحَرَامِ وَحَيْثُ مَا كُنتُمْ فَوَلُّوا وُجُوهَكُمْ شَطْرَهُ) 2:144; 2:150
+- O Izraelio vaikai, atsiminkite mano malonę, kurią Jums suteikiau, ir kad Aš Jus išaukštinau virš visų pasaulių. (يَا بَنِي إِسْرَائِيلَ اذْكُرُوا نِعْمَتِيَ الَّتِي أَنْعَمْتُ عَلَيْكُمْ وَأَنِّي فَضَّلْتُكُمْ عَلَى الْعَالَمِينَ) 2:47; 2:122
+- Septynias penimas karves, kurias suėda septynios liesos; ir septynias žalias varpas, ir kitas (sausas)... (سَبْعَ بَقَرَاتٍ سِمَانٍ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌ وَسَبْعَ سُنبُلَاتٍ خُضْرٍ وَأُخَرَ يَابِسَاتٍ) 12:43; 12:46
+- Ir kiekviena bendruomenė turi savo terminą; kai ateina jų terminas, jie nei atidėlioja nė valandai, nei paspartina. (وَلِكُلِّ أُمَّةٍ أَجَلٌ فَإِذَا جَاءَ أَجَلُهُمْ لَا يَسْتَأْخِرُونَ سَاعَةً وَلَا يَسْتَقْدِمُونَ) 7:34; 10:49
+- (Kas paskersta) ne Alacho vardu, bet kas yra priverstas (bado), nesidairydamas ir neperžengdamas ribų, tada... (أُهِلَّ لِغَيْرِ اللَّهِ بِهِ فَمَنِ اضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ) 6:145; 16:115
+- Ir kai jiems sakoma: 'Sekite tai, ką Alachas atsiuntė,' jie sako: 'Ne, mes seksime tai, ką radome savo tėvus darančius.' (وَإِذَا قِيلَ لَهُمُ اتَّبِعُوا مَا أَنزَلَ اللَّهُ قَالُوا بَلْ نَتَّبِعُ مَا) 2:170; 31:21
+- Jis tarė: 'O mano tautiečiai, garbinkite Alachą; jūs neturite kito dievo, tik Jį. Argi jūs nebijote?' (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 7:65; 23:23
+
 """;

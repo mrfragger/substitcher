@@ -2953,4 +2953,71 @@ noblequran.com Schemas
 - Faktorene som utgjør ekteskapelig alder 4:6; 6:152; 24:59
 - Jibrīl er den Hellige, Pålitelige Ånd som brakte Koranen fra Allah til Profeten 2:97; 16:102; 26:192
 - Hjelp, seier og herredømme er for Allah og Hans sendebud 30:47; 37:171-173; 40:51; 58:21
+
+Matching Phrases 13 words
+- Og sannelig ble sendebud latterliggjort før deg, men de som hånte dem, ble omringet av det de drev gjøn med. (وَلَقَدِ اسْتُهْزِئَ بِرُسُلٍ مِّن قَبْلِكَ فَحَاقَ بِالَّذِينَ سَخِرُوا مِنْهُم مَّا كَانُوا بِهِ يَسْتَهْزِئُونَ) 6:10; 21:41
+- Og til Madyan (sendte Vi) deres bror Shu'aib. Han sa: Mitt folk, tilbe Allah; dere har ingen annen gud enn Ham. (وَإِلَى مَدْيَنَ أَخَاهُمْ شُعَيْبًا قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ) 7:85; 11:84
+- Og til Thamud (sendte Vi) deres bror Salih. Han sa: Mitt folk, tilbe Allah; dere har ingen annen gud enn Ham. (وَإِلَى ثَمُودَ أَخَاهُمْ صَالِحًا قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ) 7:73; 11:61
+- At Allah utvider levemåten for den Han vil og begrenser den. Sannelig, i dette er det tegn for et folk som tror. (أَنَّ اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ وَيَقْدِرُ إِنَّ فِي ذَلِكَ لَآيَاتٍ لِّقَوْمٍ يُؤْمِنُونَ) 30:37; 39:52
+- Og til Ad (sendte Vi) deres bror Hud. Han sa: Mitt folk, tilbe Allah; dere har ingen annen gud enn Ham. (وَإِلَى عَادٍ أَخَاهُمْ هُودًا قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ) 7:65; 11:50
+- Og de som trodde og gjorde gode gjerninger, dem skal Vi føre inn i hager med bekker som flyter under dem, der skal de forbli evig. (وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ سَنُدْخِلُهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا) 4:57; 4:122
+- Med bekker som flyter under dem, der skal de forbli evig. Allah er tilfreds med dem, og de er tilfredse med Ham. Dette er... (تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا رَّضِيَ اللَّهُ عَنْهُمْ وَرَضُوا عَنْهُ ذَلِكَ) 5:119; 98:8
+- Si: Jeg er bare et menneske som dere; det blir åpenbart for meg at deres Gud er én Gud. (قُلْ إِنَّمَا أَنَا بَشَرٌ مِّثْلُكُمْ يُوحَى إِلَيَّ أَنَّمَا إِلَهُكُمْ إِلَهٌ وَاحِدٌ) 18:110; 41:6
+- Og blant menneskene er det noen som argumenterer om Allah uten kunnskap, uten ledelse og uten en opplysende skrift. (وَمِنَ النَّاسِ مَن يُجَادِلُ فِي اللَّهِ بِغَيْرِ عِلْمٍ وَلَا هُدًى وَلَا كِتَابٍ مُّنِيرٍ) 22:8; 31:20
+- Han lar natten gå inn i dagen og lar dagen gå inn i natten, og Han underla sol og måne – hver av dem løper (mot en fastsatt tid)... (يُولِجُ اللَّيْلَ فِي النَّهَارِ وَيُولِجُ النَّهَارَ فِي اللَّيْلِ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ كُلٌّ يَجْرِي) 31:29; 35:13
+- Fra himmelen sendte Han vann, og med det vekket Han jorden til live etter dens død. Sannelig, i dette er et tegn for et folk (som hører). (مِنَ السَّمَاءِ مَاءً فَأَحْيَا بِهِ الْأَرْضَ بَعْدَ مَوْتِهَا إِنَّ فِي ذَلِكَ لَآيَةً لِّقَوْمٍ) 16:65; 30:24
+- Sannelig, for de som vantrodde, vil verken deres rikdom eller barn gagne dem det minste overfor Allah. Og de... (إِنَّ الَّذِينَ كَفَرُوا لَن تُغْنِيَ عَنْهُمْ أَمْوَالُهُمْ وَلَا أَوْلَادُهُم مِّنَ اللَّهِ شَيْئًا وَأُولَئِكَ) 3:10; 3:116
+- Han som skapte himlene og jorden og alt som er mellom dem på seks dager, og deretter satte seg på tronen (al-'Arsh). (الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا فِي سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَى عَلَى الْعَرْشِ) 25:59; 32:4
+
+Matching Phrases 12 words
+- Har de ikke reist omkring på jorden og sett hvordan enden ble for dem som var før dem? De... (أَوَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ كَانُوا) 30:9; 35:44; 40:82
+- Sannelig, Allah vil føre dem som trodde og gjorde gode gjerninger, inn i hager med bekker som flyter under dem. (إِنَّ اللَّهَ يُدْخِلُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 22:14; 22:23; 47:12
+- Sannelig, Allahs løfte er sant; la ikke det jordiske livet bedra dere, og la ikke bedrageren bedra dere om Allah. (إِنَّ وَعْدَ اللَّهِ حَقٌّ فَلَا تَغُرَّنَّكُمُ الْحَيَاةُ الدُّنْيَا وَلَا يَغُرَّنَّكُم بِاللَّهِ الْغَرُورُ) 31:33; 35:5
+- Den som finner rett ledning, finner den til sitt eget beste; og den som farer vill, farer vill til sitt eget tap. (فَمَنِ اهْتَدَى فَإِنَّمَا يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا) 10:108; 17:15
+- Og kast staven din. Da han så den bevege seg som om den var en slange, snudde han seg og flyktet uten å se seg tilbake. O Musa... (وَأَلْقِ عَصَاكَ فَلَمَّا رَآهَا تَهْتَزُّ كَأَنَّهَا جَانٌّ وَلَّى مُدْبِرًا وَلَمْ يُعَقِّبْ يَامُوسَى) 27:10; 28:31
+- Reis omkring på jorden og se hvordan enden ble for dem som var før dere. De fleste av dem... (سِيرُوا فِي الْأَرْضِ فَانظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلُ كَانَ أَكْثَرُهُم) 30:42; 40:82
+- Så vær tålmodig over det de sier, og pris Herren din med lovprisning før soloppgang og før solnedgang. (فَاصْبِرْ عَلَى مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ غُرُوبِهَا) 20:130; 50:39
+- Og nærm dere ikke den foreldreløses eiendom, unntatt på beste måte, inntil han når sin modenhet. Og oppfyll avtalen... (وَلَا تَقْرَبُوا مَالَ الْيَتِيمِ إِلَّا بِالَّتِي هِيَ أَحْسَنُ حَتَّى يَبْلُغَ أَشُدَّهُ وَأَوْفُوا) 6:152; 17:34
+- Det er ingen synd på den blinde, og det er ingen synd på den halte, og det er ingen synd på den syke. (لَّيْسَ عَلَى الْأَعْمَى حَرَجٌ وَلَا عَلَى الْأَعْرَجِ حَرَجٌ وَلَا عَلَى الْمَرِيضِ حَرَجٌ) 24:61; 48:17
+- Er ikke dette sannheten? De svarte: Jo, ved vår Herre. Han sa: Da smak straffen for deres vantro. (أَلَيْسَ هَذَا بِالْحَقِّ قَالُوا بَلَى وَرَبِّنَا قَالَ فَذُوقُوا الْعَذَابَ بِمَا كُنتُمْ تَكْفُرُونَ) 6:30; 46:34
+- De svake sa til de hovmodige: Vi var deres tilhengere. Kan dere avverge noe av Allahs straff fra oss? (فَقَالَ الضُّعَفَاءُ لِلَّذِينَ اسْتَكْبَرُوا إِنَّا كُنَّا لَكُمْ تَبَعًا فَهَلْ أَنتُم مُّغْنُونَ عَنَّا) 14:21; 40:47
+- Dette er bare navn som dere og deres fedre har gitt; Allah har ikke sendt noen autoritet for dem. Sannelig... (إِلَّا أَسْمَاءً سَمَّيْتُمُوهَا أَنتُمْ وَآبَاؤُكُم مَّا أَنزَلَ اللَّهُ بِهَا مِن سُلْطَانٍ إِنِ) 12:40; 53:23
+- Før deg sendte Vi bare menn som Vi åpenbarte til; spør derfor dem som har kunnskap, hvis dere ikke vet. (قَبْلِكَ إِلَّا رِجَالًا نُّوحِي إِلَيْهِمْ فَاسْأَلُوا أَهْلَ الذِّكْرِ إِن كُنتُمْ لَا تَعْلَمُونَ) 16:43; 21:7
+- Han sa: Tror dere på ham før jeg tillater dere? Han er deres leder som lærte dere trolldom. (قَالَ آمَنتُمْ لَهُ قَبْلَ أَنْ آذَنَ لَكُمْ إِنَّهُ لَكَبِيرُكُمُ الَّذِي عَلَّمَكُمُ السِّحْرَ) 20:71; 26:49
+- Og ingen sjel skal bære en annens byrde. Så til Herren deres skal dere vende tilbake, og Han vil fortelle dere om det dere var uenige om. (وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَى ثُمَّ إِلَى رَبِّكُم مَّرْجِعُكُمْ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 6:164; 39:7
+- Og Vi sa: Stig ned, noen av dere er fiender for andre. Og på jorden skal dere ha oppholdssted og glede inntil en tid. (وَقُلْنَا اهْبِطُوا بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ وَلَكُمْ فِي الْأَرْضِ مُسْتَقَرٌّ وَمَتَاعٌ إِلَى حِينٍ) 2:36; 7:24
+- To: Si: Var det de to hankjønn Han forbød, eller de to hunkjønn, eller det som livmorene til de to hunkjønn omslutter? (اثْنَيْنِ قُلْ آلذَّكَرَيْنِ حَرَّمَ أَمِ الْأُنثَيَيْنِ أَمَّا اشْتَمَلَتْ عَلَيْهِ أَرْحَامُ الْأُنثَيَيْنِ) 6:143; 6:144
+
+Matching Phrases 11 words
+- Og jeg ber dere ikke om noen lønn for det; min lønn er kun hos all verdens Herre. (وَمَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِنْ أَجْرِيَ إِلَّا عَلَى رَبِّ الْعَالَمِينَ) 26:109; 26:127; 26:145; 26:164; 26:180
+- Har de ikke reist omkring på jorden og sett hvordan enden ble for dem som var før dem? (أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ) 12:109; 30:9; 35:44; 40:82; 47:10
+- Reis omkring på jorden og se hvordan enden ble for dem som var før dere. De... (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ كَانُوا) 30:9; 30:42; 35:44; 40:82
+- Sannelig, din Herre vet best hvem som farer vill fra Hans vei, og Han vet best hvem som er på rett vei. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ مَن يَضِلُّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ) 6:117; 16:125; 68:7
+- Han som skapte himlene og jorden på seks dager, og deretter satte seg på tronen (al-'Arsh). (الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَى عَلَى الْعَرْشِ) 7:54; 10:3; 57:4
+- Og hvem er mer urettferdig enn den som finner på en løgn om Allah, eller som forkaster Hans tegn? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا أَوْ كَذَّبَ بِآيَاتِهِ) 6:21; 7:37; 10:17
+- Han er den som sendte sitt sendebud med veiledning og den sanne religion, for å la den seire over alle religioner. (هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَى وَدِينِ الْحَقِّ لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ) 9:33; 48:28; 61:9
+- Sannelig, de som sier at Allah er Messias, Maryams sønn, har vantrodd. Si... (لَّقَدْ كَفَرَ الَّذِينَ قَالُوا إِنَّ اللَّهَ هُوَ الْمَسِيحُ ابْنُ مَرْيَمَ قُلْ) 5:17; 5:72
+- Du kan ikke gjøre de blinde i stand til å høre (sannheten) fra sin villfarelse. Du kan bare få dem til å høre som tror på Våre tegn, og de er overgitte (muslimer). (الْعُمْيِ عَن ضَلَالَتِهِمْ إِن تُسْمِعُ إِلَّا مَن يُؤْمِنُ بِآيَاتِنَا فَهُم مُّسْلِمُونَ) 27:81; 30:53
+- Liknelsen på livet i denne verden er som vann som Vi sendte ned fra himmelen, og jordens planter blandet seg med det... (مَثَلُ الْحَيَاةِ الدُّنْيَا كَمَاءٍ أَنزَلْنَاهُ مِنَ السَّمَاءِ فَاخْتَلَطَ بِهِ نَبَاتُ الْأَرْضِ) 10:24; 18:45
+- Ta om bord i den (båten) av hver art et par, og din familie, unntatt de som det allerede er avsagt dom over... (فِيهَا مِن كُلٍّ زَوْجَيْنِ اثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ الْقَوْلُ) 11:40; 23:27
+- Jeg sier ikke til dere at jeg har Allahs skatter, og jeg kjenner ikke det skjulte, og jeg sier ikke... (لَّا أَقُولُ لَكُمْ عِندِي خَزَائِنُ اللَّهِ وَلَا أَعْلَمُ الْغَيْبَ وَلَا أَقُولُ) 6:50; 11:31
+- Sannelig, Allah er veldig god mot menneskene, men de fleste mennesker er ikke takknemlige. (إِنَّ اللَّهَ لَذُو فَضْلٍ عَلَى النَّاسِ وَلَكِنَّ أَكْثَرَ النَّاسِ لَا يَشْكُرُونَ) 2:243; 40:61
+- Og ikke et tegn av Herrens tegn kom til dem, uten at de vendte seg bort fra det. (وَمَا تَأْتِيهِم مِّنْ آيَةٍ مِّنْ آيَاتِ رَبِّهِمْ إِلَّا كَانُوا عَنْهَا مُعْرِضِينَ) 6:4; 36:46
+- Og frykt den dagen da ingen sjel kan erstatte en annen, og ingen forløsning blir akseptert fra den. (وَاتَّقُوا يَوْمًا لَّا تَجْزِي نَفْسٌ عَن نَّفْسٍ شَيْئًا وَلَا يُقْبَلُ مِنْهَا) 2:48; 2:123
+- Sannelig, du kan ikke gjøre de døde til å høre, og du kan ikke gjøre de døve til å høre kallet når de snur seg bort. (إِنَّكَ لَا تُسْمِعُ الْمَوْتَى وَلَا تُسْمِعُ الصُّمَّ الدُّعَاءَ إِذَا وَلَّوْا مُدْبِرِينَ) 27:80; 30:52
+- Forbudt for dere er (å spise) selvdødt, blod, svinekjøtt, og det som er slaktet i et annet navn enn Allahs. (حُرِّمَتْ عَلَيْكُمُ الْمَيْتَةُ وَالدَّمُ وَلَحْمُ الْخِنزِيرِ وَمَا أُهِلَّ لِغَيْرِ اللَّهِ بِهِ) 5:3; 16:115
+- Allah priser alt i himlene og på jorden, og Han er den Mektige, den Vise. (سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَهُوَ الْعَزِيزُ الْحَكِيمُ) 59:1; 61:1
+- Unntatt de som angrer etter dette og forbedrer (seg). Sannelig, Allah er tilgivende, nådig. (إِلَّا الَّذِينَ تَابُوا مِن بَعْدِ ذَلِكَ وَأَصْلَحُوا فَإِنَّ اللَّهَ غَفُورٌ رَّحِيمٌ) 3:89; 24:5
+- (Det som er åpenbart) for profetene fra deres Herre; vi skiller ikke mellom noen av dem, og vi er Ham overgitt (muslimer). (النَّبِيُّونَ مِن رَّبِّهِمْ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّنْهُمْ وَنَحْنُ لَهُ مُسْلِمُونَ) 2:136; 3:84
+- Fra din Herre, for at du skal advare et folk som ingen advarer har kommet til før deg, så de måtte... (مِّن رَّبِّكَ لِتُنذِرَ قَوْمًا مَّا أَتَاهُم مِّن نَّذِيرٍ مِّن قَبْلِكَ لَعَلَّهُمْ) 28:46; 32:3
+- O profet, kjemp mot vantro og hyklere, og vær streng mot dem. Deres oppholdssted er helvete (Jahannam) – for en grufull skjebne! (يَا أَيُّهَا النَّبِيُّ جَاهِدِ الْكُفَّارَ وَالْمُنَافِقِينَ وَاغْلُظْ عَلَيْهِمْ وَمَأْوَاهُمْ جَهَنَّمُ وَبِئْسَ الْمَصِيرُ) 9:73; 66:9
+- Sannelig, din Herre vil dømme mellom dem på oppstandelsens dag om det de var uenige om. (إِنَّ رَبَّكَ يَقْضِي بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 10:93; 45:17
+- Han sa: Herre, gi meg et tegn. Han sa: Ditt tegn er at du ikke skal tale til folk. (قَالَ رَبِّ اجْعَل لِّي آيَةً قَالَ آيَتُكَ أَلَّا تُكَلِّمَ النَّاسَ) 3:41; 19:10
+- Så vend ditt ansikt mot den hellige moskeen (al-Masjid al-Haram). Og hvor dere enn er, vend ansiktene deres mot den. (فَوَلِّ وَجْهَكَ شَطْرَ الْمَسْجِدِ الْحَرَامِ وَحَيْثُ مَا كُنتُمْ فَوَلُّوا وُجُوهَكُمْ شَطْرَهُ) 2:144; 2:150
+- Dere Israels barn, husk min nåde som Jeg viste dere, og at Jeg foretrakk dere fremfor all verden. (يَا بَنِي إِسْرَائِيلَ اذْكُرُوا نِعْمَتِيَ الَّتِي أَنْعَمْتُ عَلَيْكُمْ وَأَنِّي فَضَّلْتُكُمْ عَلَى الْعَالَمِينَ) 2:47; 2:122
+- Syv fete kyr som syv magre kyr spiser, og syv grønne aks og andre tørre... (سَبْعَ بَقَرَاتٍ سِمَانٍ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌ وَسَبْعَ سُنبُلَاتٍ خُضْرٍ وَأُخَرَ يَابِسَاتٍ) 12:43; 12:46
+- Og hver nasjon har sin fastsatte tid; når deres tid kommer, kan de verken utsette eller framskynde den med et øyeblikk. (وَلِكُلِّ أُمَّةٍ أَجَلٌ فَإِذَا جَاءَ أَجَلُهُمْ لَا يَسْتَأْخِرُونَ سَاعَةً وَلَا يَسْتَقْدِمُونَ) 7:34; 10:49
+- (Det som er slaktet) i et annet navn enn Allahs, men den som er tvunget (av sult), uten å være opprørsk eller overskride grensen, så... (أُهِلَّ لِغَيْرِ اللَّهِ بِهِ فَمَنِ اضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ) 6:145; 16:115
+- Og når det blir sagt til dem: Følg det Allah har åpenbart, sier de: Nei, vi følger det vi fant våre fedre på. (وَإِذَا قِيلَ لَهُمُ اتَّبِعُوا مَا أَنزَلَ اللَّهُ قَالُوا بَلْ نَتَّبِعُ مَا) 2:170; 31:21
+- Han sa: Mitt folk, tilbe Allah; dere har ingen annen gud enn Ham. Vil dere da ikke frykte (Ham)? (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 7:65; 23:23
 """;

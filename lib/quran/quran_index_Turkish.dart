@@ -3549,4 +3549,71 @@ noblequran.com Schemas
 - Evlilik Yaşını Oluşturan Faktörler 4:6; 6:152; 24:59
 - Cibrîl, Kur'an'ı Allah'tan Peygamber'e Getiren Kutsal, Güvenilir Ruh'tur 2:97; 16:102; 26:192
 - Yardım, Zafer ve Hakimiyet Allah ve Resullerine Aittir 30:47; 37:171-173; 40:51; 58:21
+
+Matching Phrases 13 words
+- Andolsun ki senden önceki peygamberlerle de alay edildi, ama onlarla alay edenleri, alay ettikleri şey kuşatıverdi. (وَلَقَدِ اسْتُهْزِئَ بِرُسُلٍ مِّن قَبْلِكَ فَحَاقَ بِالَّذِينَ سَخِرُوا مِنْهُم مَّا كَانُوا بِهِ يَسْتَهْزِئُونَ) 6:10; 21:41
+- Medyen'e de (gönderdik) kardeşleri Şuayb'ı. Dedi ki: Ey kavmim, Allah'a kulluk edin; O'ndan başka tanrınız yoktur. (وَإِلَى مَدْيَنَ أَخَاهُمْ شُعَيْبًا قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ) 7:85; 11:84
+- Semud'a da (gönderdik) kardeşleri Salih'i. Dedi ki: Ey kavmim, Allah'a kulluk edin; O'ndan başka tanrınız yoktur. (وَإِلَى ثَمُودَ أَخَاهُمْ صَالِحًا قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ) 7:73; 11:61
+- Allah'ın, rızkı dilediğine genişlettiği ve daralttığı (anlaşılsın). Şüphesiz bunda iman eden bir kavim için ibretler vardır. (أَنَّ اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ وَيَقْدِرُ إِنَّ فِي ذَلِكَ لَآيَاتٍ لِّقَوْمٍ يُؤْمِنُونَ) 30:37; 39:52
+- Âd'a da (gönderdik) kardeşleri Hud'u. Dedi ki: Ey kavmim, Allah'a kulluk edin; O'ndan başka tanrınız yoktur. (وَإِلَى عَادٍ أَخَاهُمْ هُودًا قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ) 7:65; 11:50
+- İman edip salih ameller işleyenleri, altlarından ırmaklar akan cennetlere sokacağız; orada ebedî kalacaklardır. (وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ سَنُدْخِلُهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا) 4:57; 4:122
+- Altlarından ırmaklar akan, orada ebedî kalacaklardır. Allah onlardan razı olmuştur, onlar da O'ndan razı olmuşlardır. İşte bu... (تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا رَّضِيَ اللَّهُ عَنْهُمْ وَرَضُوا عَنْهُ ذَلِكَ) 5:119; 98:8
+- De ki: Ben ancak sizin gibi bir beşerim; bana ilahınızın tek bir ilah olduğu vahyediliyor. (قُلْ إِنَّمَا أَنَا بَشَرٌ مِّثْلُكُمْ يُوحَى إِلَيَّ أَنَّمَا إِلَهُكُمْ إِلَهٌ وَاحِدٌ) 18:110; 41:6
+- İnsanlardan bazıları, hiçbir ilme, hidayete ve aydınlatıcı bir kitaba dayanmaksızın Allah hakkında tartışırlar. (وَمِنَ النَّاسِ مَن يُجَادِلُ فِي اللَّهِ بِغَيْرِ عِلْمٍ وَلَا هُدًى وَلَا كِتَابٍ مُّنِيرٍ) 22:8; 31:20
+- Geceyi gündüze sokar, gündüzü geceye sokar; güneşi ve ayı emri altına almıştır; her biri belirlenmiş bir vakte kadar akar... (يُولِجُ اللَّيْلَ فِي النَّهَارِ وَيُولِجُ النَّهَارَ فِي اللَّيْلِ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ كُلٌّ يَجْرِي) 31:29; 35:13
+- Gökten su indirdi ve onunla yeryüzünü ölümünden sonra diriltti. Şüphesiz bunda (işiten) bir toplum için ibret vardır. (مِنَ السَّمَاءِ مَاءً فَأَحْيَا بِهِ الْأَرْضَ بَعْدَ مَوْتِهَا إِنَّ فِي ذَلِكَ لَآيَةً لِّقَوْمٍ) 16:65; 30:24
+- Şüphesiz inkâr edenlere, malları ve çocukları Allah katında hiçbir fayda sağlamayacaktır. Onlar... (إِنَّ الَّذِينَ كَفَرُوا لَن تُغْنِيَ عَنْهُمْ أَمْوَالُهُمْ وَلَا أَوْلَادُهُم مِّنَ اللَّهِ شَيْئًا وَأُولَئِكَ) 3:10; 3:116
+- Gökleri, yeri ve ikisi arasındakileri altı günde yaratan, sonra Arş'a istiva eden (kurulan) O'dur. (الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا فِي سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَى عَلَى الْعَرْشِ) 25:59; 32:4
+
+Matching Phrases 12 words
+- Yeryüzünde dolaşıp kendilerinden öncekilerin sonunun nasıl olduğunu görmediler mi? Onlar... (أَوَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ كَانُوا) 30:9; 35:44; 40:82
+- Şüphesiz Allah, iman edip salih ameller işleyenleri, altlarından ırmaklar akan cennetlere sokacaktır. (إِنَّ اللَّهَ يُدْخِلُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 22:14; 22:23; 47:12
+- Şüphesiz Allah'ın vaadi haktır; sakın dünya hayatı sizi aldatmasın ve aldatıcı da Allah hakkında sizi aldatmasın. (إِنَّ وَعْدَ اللَّهِ حَقٌّ فَلَا تَغُرَّنَّكُمُ الْحَيَاةُ الدُّنْيَا وَلَا يَغُرَّنَّكُم بِاللَّهِ الْغَرُورُ) 31:33; 35:5
+- Kim doğru yolu bulursa, kendi iyiliği için bulmuştur; kim de saparsa, kendi aleyhine sapmış olur. (فَمَنِ اهْتَدَى فَإِنَّمَا يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا) 10:108; 17:15
+- Değneğini at. Onu bir yılan gibi kıpırdar görünce, arkasına bakmadan dönüp kaçtı. Ey Musa... (وَأَلْقِ عَصَاكَ فَلَمَّا رَآهَا تَهْتَزُّ كَأَنَّهَا جَانٌّ وَلَّى مُدْبِرًا وَلَمْ يُعَقِّبْ يَامُوسَى) 27:10; 28:31
+- Yeryüzünde gezin de sizden öncekilerin sonunun nasıl olduğuna bir bakın. Onların çoğu... (سِيرُوا فِي الْأَرْضِ فَانظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلُ كَانَ أَكْثَرُهُم) 30:42; 40:82
+- Onların söylediklerine sabret ve güneşin doğmasından önce ve batmasından önce Rabbini hamd ile tesbih et. (فَاصْبِرْ عَلَى مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ غُرُوبِهَا) 20:130; 50:39
+- Yetimin malına, rüşdüne erişinceye kadar, en güzel şekilde yaklaşmaktan başka (bir şekilde) yaklaşmayın. Verdiğiniz sözü de yerine getirin... (وَلَا تَقْرَبُوا مَالَ الْيَتِيمِ إِلَّا بِالَّتِي هِيَ أَحْسَنُ حَتَّى يَبْلُغَ أَشُدَّهُ وَأَوْفُوا) 6:152; 17:34
+- Kör için bir sakınca yoktur, topal için bir sakınca yoktur ve hasta için de bir sakınca yoktur. (لَّيْسَ عَلَى الْأَعْمَى حَرَجٌ وَلَا عَلَى الْأَعْرَجِ حَرَجٌ وَلَا عَلَى الْمَرِيضِ حَرَجٌ) 24:61; 48:17
+- Bu gerçek değil mi? Dediler ki: Evet, Rabbimize andolsun! Dedi ki: Öyleyse inkâr ettiğinizden dolayı azabı tadın. (أَلَيْسَ هَذَا بِالْحَقِّ قَالُوا بَلَى وَرَبِّنَا قَالَ فَذُوقُوا الْعَذَابَ بِمَا كُنتُمْ تَكْفُرُونَ) 6:30; 46:34
+- Zayıflar, büyüklük taslayanlara dediler ki: Biz sizin tâbilerinizdik. Şimdi siz, Allah'ın azabından bir kısmını bizden uzaklaştırabilir misiniz? (فَقَالَ الضُّعَفَاءُ لِلَّذِينَ اسْتَكْبَرُوا إِنَّا كُنَّا لَكُمْ تَبَعًا فَهَلْ أَنتُم مُّغْنُونَ عَنَّا) 14:21; 40:47
+- Bunlar, sizin ve atalarınızın taktığı isimlerden başka bir şey değildir; Allah onlar hakkında hiçbir delil indirmemiştir. Şüphesiz... (إِلَّا أَسْمَاءً سَمَّيْتُمُوهَا أَنتُمْ وَآبَاؤُكُم مَّا أَنزَلَ اللَّهُ بِهَا مِن سُلْطَانٍ إِنِ) 12:40; 53:23
+- Senden önce de, kendilerine vahyettiğimiz erkeklerden başkasını peygamber olarak göndermedik. Eğer bilmiyorsanız, zikir ehline sorun. (قَبْلِكَ إِلَّا رِجَالًا نُّوحِي إِلَيْهِمْ فَاسْأَلُوا أَهْلَ الذِّكْرِ إِن كُنتُمْ لَا تَعْلَمُونَ) 16:43; 21:7
+- Dedi ki: Ben size izin vermeden önce ona iman mı ettiniz? Şüphesiz o, size büyü öğreten büyüğünüzdür. (قَالَ آمَنتُمْ لَهُ قَبْلَ أَنْ آذَنَ لَكُمْ إِنَّهُ لَكَبِيرُكُمُ الَّذِي عَلَّمَكُمُ السِّحْرَ) 20:71; 26:49
+- Hiçbir günahkâr, başka bir günahkârın yükünü taşımaz. Sonra dönüşünüz Rabbinizedir; artık O, ayrılığa düştüğünüz şeyleri size haber verecektir. (وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَى ثُمَّ إِلَى رَبِّكُم مَّرْجِعُكُمْ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 6:164; 39:7
+- Dedik ki: Kiminiz kiminize düşman olarak inin. Yeryüzünde sizin için bir süreye kadar yerleşme ve yararlanma vardır. (وَقُلْنَا اهْبِطُوا بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ وَلَكُمْ فِي الْأَرْضِ مُسْتَقَرٌّ وَمَتَاعٌ إِلَى حِينٍ) 2:36; 7:24
+- İki: De ki: İki erkeği mi, yoksa iki dişiyi mi, yahut iki dişinin rahimlerinde bulunanı mı haram kıldı? (اثْنَيْنِ قُلْ آلذَّكَرَيْنِ حَرَّمَ أَمِ الْأُنثَيَيْنِ أَمَّا اشْتَمَلَتْ عَلَيْهِ أَرْحَامُ الْأُنثَيَيْنِ) 6:143; 6:144
+
+Matching Phrases 11 words
+- Ben buna karşılık sizden bir ücret istemiyorum; benim ücretim ancak âlemlerin Rabbine aittir. (وَمَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِنْ أَجْرِيَ إِلَّا عَلَى رَبِّ الْعَالَمِينَ) 26:109; 26:127; 26:145; 26:164; 26:180
+- Yeryüzünde dolaşıp kendilerinden öncekilerin sonunun nasıl olduğunu görmediler mi? (أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ) 12:109; 30:9; 35:44; 40:82; 47:10
+- Yeryüzünde gezin de sizden öncekilerin sonunun nasıl olduğuna bir bakın. Onlar... (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ كَانُوا) 30:9; 30:42; 35:44; 40:82
+- Şüphesiz Rabbin, yolundan sapanı çok iyi bilir; hidayete erenleri de çok iyi bilir. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ مَن يَضِلُّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ) 6:117; 16:125; 68:7
+- Gökleri ve yeri altı günde yaratan, sonra Arş'a istiva eden (kurulan) O'dur. (الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَى عَلَى الْعَرْشِ) 7:54; 10:3; 57:4
+- Allah'a karşı yalan uyduran veya âyetlerini yalanlayandan daha zalim kim olabilir? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا أَوْ كَذَّبَ بِآيَاتِهِ) 6:21; 7:37; 10:17
+- O, hidayet ve hak din ile peygamberini gönderendir; onu bütün dinlere üstün kılmak için. (هُوَ الَّذِي أَرْسَلَ رَسُولَهُ بِالْهُدَى وَدِينِ الْحَقِّ لِيُظْهِرَهُ عَلَى الدِّينِ كُلِّهِ) 9:33; 48:28; 61:9
+- Andolsun ki, Allah Meryem oğlu Mesih'tir diyenler kâfir olmuşlardır. De ki... (لَّقَدْ كَفَرَ الَّذِينَ قَالُوا إِنَّ اللَّهَ هُوَ الْمَسِيحُ ابْنُ مَرْيَمَ قُلْ) 5:17; 5:72
+- Körleri sapıklıklarından (hakka) çağıramazsın. Ancak âyetlerimize iman edenlere duyurabilirsin; onlar da müslümanlardır. (الْعُمْيِ عَن ضَلَالَتِهِمْ إِن تُسْمِعُ إِلَّا مَن يُؤْمِنُ بِآيَاتِنَا فَهُم مُّسْلِمُونَ) 27:81; 30:53
+- Dünya hayatının örneği, gökten indirdiğimiz su gibidir; yeryüzünün bitkileri onunla karışır... (مَثَلُ الْحَيَاةِ الدُّنْيَا كَمَاءٍ أَنزَلْنَاهُ مِنَ السَّمَاءِ فَاخْتَلَطَ بِهِ نَبَاتُ الْأَرْضِ) 10:24; 18:45
+- Ona (gemiye) her cinsten ikişer çifti ve aileni de (bindir) – ancak aleyhinde söz verilmiş olanları bırak... (فِيهَا مِن كُلٍّ زَوْجَيْنِ اثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ الْقَوْلُ) 11:40; 23:27
+- Ben size, Allah'ın hazineleri yanımdadır demiyorum; gaybı da bilmem; ve demiyorum ki... (لَّا أَقُولُ لَكُمْ عِندِي خَزَائِنُ اللَّهِ وَلَا أَعْلَمُ الْغَيْبَ وَلَا أَقُولُ) 6:50; 11:31
+- Şüphesiz Allah insanlara karşı lütuf sahibidir; ancak insanların çoğu şükretmezler. (إِنَّ اللَّهَ لَذُو فَضْلٍ عَلَى النَّاسِ وَلَكِنَّ أَكْثَرَ النَّاسِ لَا يَشْكُرُونَ) 2:243; 40:61
+- Rablerinin âyetlerinden kendilerine bir âyet gelmiş olmasın ki, ondan yüz çevirmiş olmasınlar. (وَمَا تَأْتِيهِم مِّنْ آيَةٍ مِّنْ آيَاتِ رَبِّهِمْ إِلَّا كَانُوا عَنْهَا مُعْرِضِينَ) 6:4; 36:46
+- Hiçbir kimsenin başkası adına bir şey ödeyemeyeceği, kimseden şefaatin kabul edilmeyeceği o günden sakının. (وَاتَّقُوا يَوْمًا لَّا تَجْزِي نَفْسٌ عَن نَّفْسٍ شَيْئًا وَلَا يُقْبَلُ مِنْهَا) 2:48; 2:123
+- Şüphesiz sen ölülere işittiremezsin; arkalarını dönüp giderlerken sağırlara da daveti işittiremezsin. (إِنَّكَ لَا تُسْمِعُ الْمَوْتَى وَلَا تُسْمِعُ الصُّمَّ الدُّعَاءَ إِذَا وَلَّوْا مُدْبِرِينَ) 27:80; 30:52
+- Size (yenmesi) ölü eti, kan, domuz eti ve Allah'tan başkası adına kesilen hayvanlar haram kılındı. (حُرِّمَتْ عَلَيْكُمُ الْمَيْتَةُ وَالدَّمُ وَلَحْمُ الْخِنزِيرِ وَمَا أُهِلَّ لِغَيْرِ اللَّهِ بِهِ) 5:3; 16:115
+- Göklerde ve yerde ne varsa Allah'ı tesbih eder; O, Azîz'dir, Hakîm'dir. (سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَهُوَ الْعَزِيزُ الْحَكِيمُ) 59:1; 61:1
+- Ancak bundan sonra tevbe edip (kendilerini) düzeltenler başka. Şüphesiz Allah, Gafûr'dur, Rahîm'dir. (إِلَّا الَّذِينَ تَابُوا مِن بَعْدِ ذَلِكَ وَأَصْلَحُوا فَإِنَّ اللَّهَ غَفُورٌ رَّحِيمٌ) 3:89; 24:5
+- (Allah'ın) peygamberlere Rabbinden (verdiği); onlardan hiçbirini ayırmayız ve biz O'na teslim olanlarız (Müslümanlarız). (النَّبِيُّونَ مِن رَّبِّهِمْ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّنْهُمْ وَنَحْنُ لَهُ مُسْلِمُونَ) 2:136; 3:84
+- Rabbinden (gönderilmiştir) – senden önce kendilerine hiçbir uyarıcı gelmemiş olan bir kavmi uyarman için, umulur ki... (مِّن رَّبِّكَ لِتُنذِرَ قَوْمًا مَّا أَتَاهُم مِّن نَّذِيرٍ مِّن قَبْلِكَ لَعَلَّهُمْ) 28:46; 32:3
+- Ey Peygamber! Kâfirlerle ve münafıklarla cihat et ve onlara karşı sert davran. Onların varacağı yer Cehennem'dir; ne kötü bir varış yeridir! (يَا أَيُّهَا النَّبِيُّ جَاهِدِ الْكُفَّارَ وَالْمُنَافِقِينَ وَاغْلُظْ عَلَيْهِمْ وَمَأْوَاهُمْ جَهَنَّمُ وَبِئْسَ الْمَصِيرُ) 9:73; 66:9
+- Şüphesiz Rabbin, kıyamet günü ihtilâfa düştükleri şeyler hakkında aralarında hüküm verecektir. (إِنَّ رَبَّكَ يَقْضِي بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 10:93; 45:17
+- Dedi ki: Rabbim, bana bir işaret ver. Dedi ki: Senin işaretin, insanlarla konuşmamandır. (قَالَ رَبِّ اجْعَل لِّي آيَةً قَالَ آيَتُكَ أَلَّا تُكَلِّمَ النَّاسَ) 3:41; 19:10
+- Öyleyse yüzünü Mescid-i Haram yönüne çevir. Nerede olursanız olun, yüzlerinizi o yöne çevirin. (فَوَلِّ وَجْهَكَ شَطْرَ الْمَسْجِدِ الْحَرَامِ وَحَيْثُ مَا كُنتُمْ فَوَلُّوا وُجُوهَكُمْ شَطْرَهُ) 2:144; 2:150
+- Ey İsrailoğulları! Size verdiğim nimetimi ve sizi âlemlere üstün kıldığımı hatırlayın. (يَا بَنِي إِسْرَائِيلَ اذْكُرُوا نِعْمَتِيَ الَّتِي أَنْعَمْتُ عَلَيْكُمْ وَأَنِّي فَضَّلْتُكُمْ عَلَى الْعَالَمِينَ) 2:47; 2:122
+- Yedi semiz inek, yedi zayıf inek tarafından yeniyor; yedi yeşil başak ve diğerleri kuru... (سَبْعَ بَقَرَاتٍ سِمَانٍ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌ وَسَبْعَ سُنبُلَاتٍ خُضْرٍ وَأُخَرَ يَابِسَاتٍ) 12:43; 12:46
+- Her ümmetin bir eceli vardır; eceli gelince ne bir saat geri kalırlar ne de ileri giderler. (وَلِكُلِّ أُمَّةٍ أَجَلٌ فَإِذَا جَاءَ أَجَلُهُمْ لَا يَسْتَأْخِرُونَ سَاعَةً وَلَا يَسْتَقْدِمُونَ) 7:34; 10:49
+- (Allah'tan başkası adına) kesilen hayvanlar, ancak kim (açlıktan) mecbur kalırsa, saldırmadan ve sınırı aşmadan (yiyebilir) – o zaman... (أُهِلَّ لِغَيْرِ اللَّهِ بِهِ فَمَنِ اضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ) 6:145; 16:115
+- Onlara: Allah'ın indirdiğine uyun, denildiğinde: Hayır, biz atalarımızı üzerinde bulduğumuz şeye uyarız, derler. (وَإِذَا قِيلَ لَهُمُ اتَّبِعُوا مَا أَنزَلَ اللَّهُ قَالُوا بَلْ نَتَّبِعُ مَا) 2:170; 31:21
+- Dedi ki: Ey kavmim, Allah'a kulluk edin; O'ndan başka tanrınız yoktur. Hâlâ sakınmayacak mısınız? (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 7:65; 23:23
 """;
