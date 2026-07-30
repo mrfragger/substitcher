@@ -2901,4 +2901,149 @@ Matching Phrases 11 words
 - Din kɔɣi ti pa Naawuni. Amaa ŋun nyɛ ŋun kɔŋ yo, ka bi nyɛ ŋun kpεri, bee ŋun kpahi yεɣi tarsim, tɔ! Achiika, (أُهِلَّ لِغَيْرِ اللَّهِ بِهِ فَمَنِ اضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ) 6:145; 16:115
 - Yaha bɛ yi yεli ba: “Doli ya Naawuni ni siɣisi shɛli na,” bɛ ni yεli: “Chɛli, ti doli la ti banim ni daa doli shɛli maa...” (وَإِذَا قِيلَ لَهُمُ اتَّبِعُوا مَا أَنزَلَ اللَّهُ قَالُوا بَلْ نَتَّبِعُ مَا) 2:170; 31:21
 - O daa yεli: “Yaa niriba! Jεmmi ya Naawuni, yi ka duuma so naɣila Ŋuna; di ni bɔŋɔ, yi ku zɔɣa?” (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 7:65; 23:23
+Matching Phrases 10 words
+
+- Bɛ chani tiŋgbani ni ka nyɛ zugu ni daa ti ŋun daa kana pɔi ni bɛ. (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ) 12:109; 30:9; 30:42; 35:44; 40:82; 47:10
+- Ŋuni n lee nyɛ zualindira gari ŋun tiri Alahiri ʒiri bee ka o labsi ʒiri? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا أَوْ كَذَّبَ) 6:21; 7:37; 10:17; 29:68
+- A Duuma mi ŋun yɛrigi ka chɛ O soli, ka O nye ŋun mi. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ مَن يَضِلُّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ) 6:117; 16:125; 53:30; 68:7
+- Di ni bɛn daa bi chani tiŋgbani ni ka nya zugu ni daa ti ŋun daa kana pɔi ni bɛ? (أَوَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن) 30:9; 35:44; 40:82; 47:10
+- Bɛ mali bɛ laara sani ni bɛ Duuma, ka dabiɛm ka bɛ zuɣu, ka bɛ ku suhi. (فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ) 2:62; 2:262; 2:274; 2:277
+- Ninvuɣu shɛba ban ti yɛlimaŋli ka tum tuunviɛla, bɛ daa zaŋ bɛ kpe Alizanda shɛŋa kulibɔna ni yɛra di gbini. (وَأُدْخِلَ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 14:23; 22:14; 22:23; 47:12
+- O yεli: "Yɛ niriba! Jεm ya Alahiri, ka duuma so ka yi mali naɣila Ŋuna, di yi niŋ ka yi bi zɔra?" (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا) 7:65; 11:84; 23:23
+- Bɛ liɣiri bee bɛ bihi ti ku tooi sɔŋ bɛ chɛ ka bɛ taɣi Alahiri daazaaba, ka bana n-nyɛ. (لَن تُغْنِيَ عَنْهُمْ أَمْوَالُهُمْ وَلَا أَوْلَادُهُم مِّنَ اللَّهِ شَيْئًا وَأُولَئِكَ) 3:10; 3:116; 58:17
+- Alizanda shɛŋa kulibɔna ni yɛra di gbini, ka bɛ nyɛla ban yɛn ti kpalim di puuni, ka di nyɛ nasara titali. (جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَذَلِكَ الْفَوْزُ الْعَظِيمُ) 4:13; 9:89
+- Di ni bɛ lahibali zaŋ ti ŋun daa kana pɔi ni bɛ, Nuhu niriba, Aadu mini Samuudu niriba, na bi ka ba? (أَلَمْ يَأْتِهِمْ نَبَأُ الَّذِينَ مِن قَبْلِهِمْ قَوْمِ نُوحٍ وَعَادٍ وَثَمُودَ) 9:70; 14:9
+- Ŋuni n-nyɛ n sɔŋdiba polo ni Alahiri? Pɔhim-bilisi yεli: "Ti n-nyɛ Alahiri sɔŋdiba, ti ti yεlimaŋli." (مَنْ أَنصَارِي إِلَى اللَّهِ قَالَ الْحَوَارِيُّونَ نَحْنُ أَنصَارُ اللَّهِ آمَنَّا) 3:52; 61:14
+- A Duuma n-nyɛ ŋun mi ŋun yɛrigi ka chɛ O soli, ka O nye ŋun mi ninvuɣu shɛba ban dolsi. (رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ) 16:125; 68:7
+- Di daliri nyɛla Alahiri n-nyɛ Yεlimaŋli, ka bɛ ni jɛmda shɛli ka pa Ŋuna nyɛ ʒiri. (ذَلِكَ بِأَنَّ اللَّهَ هُوَ الْحَقُّ وَأَنَّ مَا يَدْعُونَ مِن دُونِهِ) 22:62; 31:30
+- Ninvuɣu so ŋun doli Alahiri mini O tuun' so, Alahiri ni zaŋ o kpe Alizanda shɛŋa kulibɔna ni yɛra di gbini. (وَمَن يُطِعِ اللَّهَ وَرَسُولَهُ يُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 4:13; 48:17
+- Achiika, O mɔŋ ya binkobiri kpiim, ʒim, kuruchu nam, ni binkɔbigu so bɛ ni kɔɣi ti pa Alahiri. (إِنَّمَا حَرَّمَ عَلَيْكُمُ الْمَيْتَةَ وَالدَّمَ وَلَحْمَ الْخِنزِيرِ وَمَا أُهِلَّ) 2:173; 16:115
+- Ni yi bi jεm so naɣila Alahiri; achiika n nyɛla ŋun zo tili ya daazaaba zaŋ ti Dabisili titali. (أَن لَّا تَعْبُدُوا إِلَّا اللَّهَ إِنِّي أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ) 11:26; 46:21
+- Di nyɛla lahibali zaŋ ti din sɔɣi, ka Ti siɣisi li n-ti a; a daa bi be bɛ sani saha shɛli bɛ ni daa niŋdi niya. (ذَلِكَ مِنْ أَنبَاءِ الْغَيْبِ نُوحِيهِ إِلَيْكَ وَمَا كُنتَ لَدَيْهِمْ إِذْ) 3:44; 12:102
+- Di ni yi niŋ ka yi lahiʒi ni teebu shɛli yi Duuma sani yi ti kana, n-zaŋ chaŋ doo so yi puuni, ni o valim ya? (أَوَعَجِبْتُمْ أَن جَاءَكُمْ ذِكْرٌ مِّن رَّبِّكُمْ عَلَى رَجُلٍ مِّنكُمْ لِيُنذِرَكُمْ) 7:63; 7:69
+- Yεlima: "Achiika bɛ niŋ ma nɔɣisigu ni m bi jεm bɛ ni jɛmdi shɛba ka pa Alahiri." (قُلْ إِنِّي نُهِيتُ أَنْ أَعْبُدَ الَّذِينَ تَدْعُونَ مِن دُونِ اللَّهِ) 6:56; 40:66
+- Naɣila bɛ paɣaba bee bɛ nudirigu ni su shɛli, achiika bɛ nyɛla ban ku ŋubi. (إِلَّا عَلَى أَزْوَاجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَانُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ) 23:6; 70:30
+- Di daliri nyɛla Alahiri zaa ka yo yiɣi kpεhiri yuŋ puuni, ka yo yiɣi kpεhiri dabisili puuni. (بِأَنَّ اللَّهَ يُولِجُ اللَّيْلَ فِي النَّهَارِ وَيُولِجُ النَّهَارَ فِي اللَّيْلِ) 22:61; 31:29
+- Buɣum, ka o yεli o niriba: "Zin ya, achiika n-nyɛ buɣum, di yi niŋ ka n tahi ya binyɛra shɛli di puuni." (نَارًا فَقَالَ لِأَهْلِهِ امْكُثُوا إِنِّي آنَسْتُ نَارًا لَّعَلِّي آتِيكُم مِّنْهَا) 20:10; 28:29
+- O yεli: "Mani n-nyɛ ŋun gari o; a nam ma la buɣum ni, ka nam o la taŋkpaɣu ni." (قَالَ أَنَا خَيْرٌ مِّنْهُ خَلَقْتَنِي مِن نَّارٍ وَخَلَقْتَهُ مِن طِينٍ) 7:12; 38:76
+- Bɛ yi yεli ba: "Kam ya na n-ti Alahiri ni siɣisi shɛli, ni O tuun' so." (وَإِذَا قِيلَ لَهُمْ تَعَالَوْا إِلَى مَا أَنزَلَ اللَّهُ وَإِلَى الرَّسُولِ) 4:61; 5:104
+- Ka a bi suhi ba, ka a bi kpεma ni bɛri kumsi shɛli bɛ ni mali. (وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُ فِي ضَيْقٍ مِّمَّا يَمْكُرُونَ) 16:127; 27:70
+- Alahiri yi shɛli a, bɛ ni tooi yihi li naɣila Ŋuna, ka O yi ti a alibarika. (وَإِن يَمْسَسْكَ اللَّهُ بِضُرٍّ فَلَا كَاشِفَ لَهُ إِلَّا هُوَ وَإِن) 6:17; 10:107
+- Zaman shɛŋa daa kana pɔi ni bɛ, ka bɛ chani bɛ yiŋsi ni; achiika di puuni mali alaama nima. (قَبْلَهُم مِّنَ الْقُرُونِ يَمْشُونَ فِي مَسَاكِنِهِمْ إِنَّ فِي ذَلِكَ لَآيَاتٍ) 20:128; 32:26
+- Ka Ti zaŋ lumbu n-ti bɛ suhiri, ka chɛ ka bɛ bi tooi fa li, ka zaŋ wumsim n-ti bɛ tiba, ka hali. (وَجَعَلْنَا عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا وَإِن) 6:25; 18:57
+- Bɛ tuumba daa kaba ni daliri shɛŋa din be polo ni, amaa Alahiri daa pala ŋun yɛn niŋ ba zualinsi, amaa bɛ daa nyɛla ban niŋdi bɛ maŋa zualinsi. (رُسُلُهُم بِالْبَيِّنَاتِ فَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ وَلَكِن كَانُوا أَنفُسَهُمْ يَظْلِمُونَ) 9:70; 30:9
+- Ka tiŋgbani ni, ka yi ka sɔŋda bee ladabika naɣila Alahiri. (وَالْأَرْضِ وَمَا لَكُم مِّن دُونِ اللَّهِ مِن وَلِيٍّ وَلَا نَصِيرٍ) 2:107; 42:31
+- Din nyaaŋa, bɛ ni zaŋ yi labsi Ŋun mi din sɔɣi ni din be polo ni, ka O ti yi lahibali zaŋ chaŋ yi ni daa tumdi shɛli. (ثُمَّ تُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ) 9:94; 62:8
+- Yuŋ, ni yi zilim di puuni, ka dabisili, ni yi nya; achiika di puuni mali alaama nima zaŋ ti niriba ban teeri. (اللَّيْلَ لِتَسْكُنُوا فِيهِ وَالنَّهَارَ مُبْصِرًا إِنَّ فِي ذَلِكَ لَآيَاتٍ لِّقَوْمٍ) 10:67; 27:86
+- Ka bɛ pam puuni, bɛ ni siɣisi shɛli n-ti a a Duuma sani, naan tooi pahi ba tue tali mini chεfuritali. (وَلَيَزِيدَنَّ كَثِيرًا مِّنْهُم مَّا أُنزِلَ إِلَيْكَ مِن رَّبِّكَ طُغْيَانًا وَكُفْرًا) 5:64; 5:68
+- O yεli: "Yɛ niriba! Di yi niŋ ka yi nya, ka n-nyɛ ŋun be daliri shɛli din be polo ni ni a Duuma, ka O ti ma." (قَالَ يَاقَوْمِ أَرَأَيْتُمْ إِن كُنتُ عَلَى بَيِّنَةٍ مِّن رَّبِّي وَآتَانِي) 11:28; 11:63
+- Ka bɛ yεra: "Di yi niŋ ka di yi ti niŋ ka bɛ siɣisi alaama shɛli n-ti o o Duuma sani?" Yεlima: "Achiika." (وَيَقُولُونَ لَوْلَا أُنزِلَ عَلَيْهِ آيَةٌ مِّن رَّبِّهِ فَقُلْ إِنَّمَا) 10:20; 29:50
+- Dabisili shɛli din ka labbu Alahiri sani na. (مِن قَبْلِ أَن يَأْتِيَ يَوْمٌ لَّا مَرَدَّ لَهُ مِنَ اللَّهِ) 30:43; 42:47
+- Di nyɛla Alahiri pini, O tiri li n-ti ninvuɣu so O ni bɔra, ka Alahiri n-nyɛ Pini titali lana. (ذَلِكَ فَضْلُ اللَّهِ يُؤْتِيهِ مَن يَشَاءُ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ) 57:21; 62:4
+- Achiika, binkobbi ni mali wumsi zaŋ ti yi; Ti nyɛri ya bɛ puuni bɛ ni su shɛli. (وَإِنَّ لَكُمْ فِي الْأَنْعَامِ لَعِبْرَةً نُّسْقِيكُم مِّمَّا فِي بُطُونِهِ) 16:66; 23:21
+- Di nyɛla yεlimaŋli bɛ Duuma sani, ka Alahiri bi nyɛ ŋun tamdi bɛ ni tumdi shɛli. (أَنَّهُ الْحَقُّ مِن رَّبِّهِمْ وَمَا اللَّهُ بِغَافِلٍ عَمَّا يَعْمَلُونَ) 2:144; 2:149
+- Bɛ tooni ni bɛ nyaaŋa, ni yi bi jεm so naɣila Alahiri. (مِن بَيْنِ أَيْدِيهِمْ وَمِنْ خَلْفِهِمْ أَلَّا تَعْبُدُوا إِلَّا اللَّهَ) 41:14; 46:21
+- Achiika, yi kani dabba ni suhu suɣulo ka chɛ paɣaba; di ni, yi nyɛla niriba ban kpεri tariga. (إِنَّكُمْ لَتَأْتُونَ الرِّجَالَ شَهْوَةً مِّن دُونِ النِّسَاءِ بَلْ أَنتُمْ قَوْمٌ) 7:81; 27:55
+- Ka bɛ nyɛla ban yɛn ti kpalim di puuni, saha shɛli sagbana mini tiŋgbani ni be, naɣila a Duuma ni bɔri shɛli. (خَالِدِينَ فِيهَا مَا دَامَتِ السَّمَاوَاتُ وَالْأَرْضُ إِلَّا مَا شَاءَ رَبُّكَ) 11:107; 11:108
+- Ninvuɣu so ŋun be sagbana ni, ni ninvuɣu so ŋun be tiŋgbani ni, naɣila ninvuɣu so Alahiri ni bɔra. (مَن فِي السَّمَاوَاتِ وَمَن فِي الْأَرْضِ إِلَّا مَن شَاءَ اللَّهُ) 27:87; 39:68
+- Bɛ ni ti chɛ ka bɛ gbargi salima mini lulu, ka bɛ bin-yɛra di puuni nyɛ siliki. (يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِن ذَهَبٍ وَلُؤْلُؤًا وَلِبَاسُهُمْ فِيهَا حَرِيرٌ) 22:23; 35:33
+- Ka O siɣisi kom sagbana ni, ka zaŋ li yihi binwola n-ti yi. (وَأنزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجَ بِهِ مِنَ الثَّمَرَاتِ رِزْقًا لَّكُمْ) 2:22; 14:32
+- Ti yi daa zaŋ yi alikauli, ka ti zaŋ zoya do zuɣusaa yi zuɣu: "Gbaai ya Ti ni ti ya shɛli ni yaa." (وَإِذْ أَخَذْنَا مِيثَاقَكُمْ وَرَفَعْنَا فَوْقَكُمُ الطُّورَ خُذُوا مَا آتَيْنَاكُم بِقُوَّةٍ) 2:63; 2:93
+- Ka o lԑbi biri ka chԑ ba, ka yεli: "Yɛ niriba! Achiika n ti ya n Duuma tuun tɛriga, ka wumsi ya." (فَتَوَلَّى عَنْهُمْ وَقَالَ يَاقَوْمِ لَقَدْ أَبْلَغْتُكُمْ رِسَالَةَ رَبِّي وَنَصَحْتُ لَكُمْ) 7:79; 7:93
+- Kulibɔna ni yɛra bɛ gbini, ka bɛ ni chɛ ka bɛ gbargi salima di puuni. (تَجْرِي مِن تَحْتِهِمُ الْأَنْهَارُ يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِن ذَهَبٍ) 18:31; 22:23
+- Hali di yi niŋ ka bɛ mali din be tiŋgbani ni zaasa, ni di ŋmali, ni di zaŋ li taɣi bɛ maŋa. (لَوْ أَنَّ لَهُم مَّا فِي الْأَرْضِ جَمِيعًا وَمِثْلَهُ مَعَهُ لِيَفْتَدُوا) 5:36; 13:18
+- Binkɔbigu so kani, amaa O ŋmaligi bɛ wakati kpeeni, bɛ saha yi ti paai. (مِن دَابَّةٍ وَلَكِن يُؤَخِّرُهُمْ إِلَى أَجَلٍ مُّسَمًّى فَإِذَا جَاءَ أَجَلُهُمْ) 16:61; 35:45
+- Ti nam ya la taŋkpaɣu, din nyaaŋa maniyim, din nyaaŋa ʒim klɔka, din nyaaŋa. (خَلَقْنَاكُم مِّن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ مِنْ عَلَقَةٍ ثُمَّ) 22:5; 40:67
+- Ka Alahiri ti niŋ bɛ sunsuuni fukumsi Zaadali, zaŋ chaŋ bɛ ni daa niŋdi namgbanhi ni shɛli. (فَاللَّهُ يَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 2:113; 22:69
+- Baŋsim shɛli kan a sani, ka a ka sɔŋda bee ladabika Alahiri sani. (جَاءَكَ مِنَ الْعِلْمِ مَا لَكَ مِنَ اللَّهِ مِن وَلِيٍّ وَلَا) 2:120; 13:37
+- Ti yi ti ninsala alibarika, o lɛbigiri o nyaaŋa ka chani, amaa yiŋa yi shɛli o. (وَإِذَا أَنْعَمْنَا عَلَى الْإِنسَانِ أَعْرَضَ وَنَأَى بِجَانِبِهِ وَإِذَا مَسَّهُ الشَّرُّ) 17:83; 41:51
+- Ka biɛɣu din gari di mini din tɔ pa di, naɣila di be litaafi din be polo ni. (وَلَا أَصْغَرَ مِن ذَلِكَ وَلَا أَكْبَرَ إِلَّا فِي كِتَابٍ مُّبِينٍ) 10:61; 34:3
+
+Matching Phrases 9 words
+
+- Ka o yεli: "Yɛ niriba! Jεm ya Alahiri, ka duuma so ka yi mali naɣila Ŋuna." (فَقَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ) 7:59; 7:65; 7:73; 7:85; 11:50; 11:61; 11:84; 23:23
+- Di ni bɛn daa bi chani tiŋgbani ni ka nya zugu ni daa ti ŋun daa kana pɔi ni bɛ? (أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ) 12:109; 30:9; 35:44; 40:21; 40:82; 47:10
+- Bɛ laara sani ni bɛ Duuma, ka dabiɛm ka bɛ zuɣu, ka bɛ ku suhi. (أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ) 2:62; 2:112; 2:262; 2:274; 2:277
+- Bɛ chani tiŋgbani ni ka nyɛ zugu ni daa ti ŋun daa kana pɔi ni bɛ. (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن) 30:9; 30:42; 35:44; 40:82; 47:10
+- Tiŋgbani ni ka bɛ nya zugu ni daa ti ŋun daa kana pɔi ni bɛ. (فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ) 30:9; 30:42; 35:44; 40:82; 47:10
+- Ŋuni n lee nyɛ zualindira gari ŋun tiri Alahiri ʒiri bee ka o labsi. (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا أَوْ) 6:21; 6:93; 7:37; 10:17; 29:68
+- Alahiri yi niŋ yεlli, O yεri li: "Niŋ!" ka di niŋ. (وَإِذَا قَضَى أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُن فَيَكُونُ) 2:117; 3:47; 19:35; 40:68
+- Ka yi ka sɔŋda bee ladabika naɣila Alahiri. (وَمَا لَكُم مِّن دُونِ اللَّهِ مِن وَلِيٍّ وَلَا نَصِيرٍ) 2:107; 9:116; 29:22; 42:31
+- Achiika, n ni yi bɛ taali nima, ka zaŋ bɛ kpe Alizanda shɛŋa kulibɔna ni yɛra di gbini. (لَأُكَفِّرَنَّ عَنْهُمْ سَيِّئَاتِهِمْ وَلَأُدْخِلَنَّهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 3:195; 5:12; 64:9; 66:8
+- Ti ni zaŋ bɛ kpe Alizanda shɛŋa kulibɔna ni yɛra di gbini, ka bɛ nyɛla ban yɛn ti kpalim di puuni. (سَنُدْخِلُهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا) 4:57; 4:122; 64:9; 65:11
+- A Duuma n-nyɛ ŋun mi ŋun yɛrigi ka chɛ O soli, ka O nye ŋun mi. (رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ) 16:125; 53:30; 68:7
+- Bɛ ni zaŋ yi labsi Ŋun mi din sɔɣi ni din be polo ni, ka O ti yi lahibali zaŋ chaŋ yi ni daa tumdi shɛli. (تُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ) 9:94; 9:105; 62:8
+- Bɛ daa kuri yi bidibsi, ka chɛ yi paɣaba; achiika di puuni daa mali dahimbu titali zaŋ chaŋ yi Duuma sani. (أَبْنَاءَكُمْ وَيَسْتَحْيُونَ نِسَاءَكُمْ وَفِي ذَلِكُم بَلَاءٌ مِّن رَّبِّكُمْ عَظِيمٌ) 2:49; 7:141; 14:6
+- Achiika, a Duuma n-nyɛ ŋun mi ŋun yɛrigi ka chɛ O soli, ka O. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ) 16:125; 53:30; 68:7
+- Alahiri, Ŋuna n-su din be sagbana ni mini din be tiŋgbani ni. (اللَّهِ الَّذِي لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 14:2; 34:1; 42:53
+- Ninsalinim' shɛba ban daa kana pɔi ni yinɛ, yi puuni, ni alizinnim mini ninsalinim. (فِي أُمَمٍ قَدْ خَلَتْ مِن قَبْلِكُم مِّنَ الْجِنِّ وَالْإِنسِ) 7:38; 41:25; 46:18
+- Jεm ya Alahiri, ka duuma so ka yi mali naɣila Ŋuna, di yi niŋ ka yi bi zɔra? (اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 7:65; 23:23; 23:32
+- Ka Ti zaŋ lumbu n-ti bɛ suhiri, ka chɛ ka bɛ bi tooi fa li, ka zaŋ wumsim n-ti bɛ tiba. (وَجَعَلْنَا عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا) 6:25; 17:46; 18:57
+- O ni ti niŋ bɛ sunsuuni fukumsi Zaadali, zaŋ chaŋ bɛ ni daa niŋdi namgbanhi ni shɛli. (يَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 2:113; 16:124; 22:69
+- O yεli: "Yɛ niriba! Di yi niŋ ka yi nya, ka n-nyɛ ŋun be daliri shɛli din be polo ni ni a Duuma." (قَالَ يَاقَوْمِ أَرَأَيْتُمْ إِن كُنتُ عَلَى بَيِّنَةٍ مِّن رَّبِّي) 11:28; 11:63; 11:88
+- Di nyɛla yi nuhi ni daa zaŋ shɛli na, ka Alahiri bi nyɛ zualindira n-ti O dabba. (ذَلِكَ بِمَا قَدَّمَتْ أَيْدِيكُمْ وَأَنَّ اللَّهَ لَيْسَ بِظَلَّامٍ لِّلْعَبِيدِ) 3:182; 8:51; 22:10
+- Bɛ mali filiŋ Dunia puuni, ka mali daazaaba titali Zaadali. (لَهُمْ فِي الدُّنْيَا خِزْيٌ وَلَهُمْ فِي الْآخِرَةِ عَذَابٌ عَظِيمٌ) 2:114; 5:41
+- Din be sagbana ni mini din be tiŋgbani ni, ka Alahiri saɣi n-ti Ŋuna ni O nyɛ Sɔŋda. (مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَكَفَى بِاللَّهِ وَكِيلًا) 4:132; 4:171
+- Naɣila ninvuɣu shɛba ban ti yɛlimaŋli ka tum tuunviɛla; bɛ mali laara din ka gbaŋ. (إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ) 84:25; 95:6
+- A ni zaŋ binyɛra shɛli a ni bi mi, n-ti pahi ma, ka a bi doli ba. (لِتُشْرِكَ بِي مَا لَيْسَ لَكَ بِهِ عِلْمٌ فَلَا تُطِعْهُمَا) 29:8; 31:15
+- Achiika, di nyɛla teebu, dinzuɣu ninvuɣu so ŋun bɔra, ni o gbihi soli n-chaŋ o Duuma sani. (إِنَّ هَذِهِ تَذْكِرَةٌ فَمَن شَاءَ اتَّخَذَ إِلَى رَبِّهِ سَبِيلًا) 73:19; 76:29
+- Ninvuɣu so ŋun paɣi, O paɣiri o maŋa zuɣu; ka ninvuɣu so ŋun niŋ chεfu. (وَمَن شَكَرَ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِ وَمَن كَفَرَ فَإِنَّ) 27:40; 31:12
+- Ninvuɣu shɛba ban zani jiŋli, ka ti zaka, ka bɛ dihitabli Zaadali. (الَّذِينَ يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُم بِالْآخِرَةِ هُمْ يُوقِنُونَ) 27:3; 31:4
+- Annabi Ibrahima, Ismaaila, Ishaaka, Yaaquuba, mini bɛ zuliya, ni Musa mini Issa ni daa ti shɛli. (إِبْرَاهِيمَ وَإِسْمَاعِيلَ وَإِسْحَاقَ وَيَعْقُوبَ وَالْأَسْبَاطِ وَمَا أُوتِيَ مُوسَى وَعِيسَى) 2:136; 3:84
+- Ka bɛ kana ka bɛ buɣisi li, ka yihi li dindoya n-ti ba, ka bɛ vuhiriba yεli ba. (زُمَرًا حَتَّى إِذَا جَاءُوهَا فُتِحَتْ أَبْوَابُهَا وَقَالَ لَهُمْ خَزَنَتُهَا) 39:71; 39:73
+- Alahiri bi kariti ya ka di nyɛla yi poya ni yɛltɔɣa din ka anfaani, amaa O kariti ya di daliri. (لَّا يُؤَاخِذُكُمُ اللَّهُ بِاللَّغْوِ فِي أَيْمَانِكُمْ وَلَكِن يُؤَاخِذُكُم بِمَا) 2:225; 5:89
+- Naawo, ka bɛ suhiri ni di, amaa yiŋa yi shɛli bɛ nuhi ni daa zaŋ shɛli na. (رَحْمَةً فَرِحُوا بِهَا وَإِن تُصِبْهُمْ سَيِّئَةٌ بِمَا قَدَّمَتْ أَيْدِيهِمْ) 30:36; 42:48
+- Alizanda shɛŋa kulibɔna ni yɛra di gbini, ka bɛ nyɛla ban yɛn ti kpalim di puuni, ka tumtumdiba laara viɛla. (تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَنِعْمَ أَجْرُ الْعَامِلِينَ) 3:136; 29:58
+- Alahiri mi din be sagbana ni mini din be tiŋgbani ni, ka Alahiri. (اللَّهُ وَيَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَاللَّهُ) 3:29; 49:16
+- Doli ya Alahiri ka doli O tuun' so; yi yi lɛbi biri, tɔ! O zuɣu. (أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ فَإِن تَوَلَّوْا فَإِنَّمَا عَلَيْهِ) 24:54; 64:12
+- Bɛ mali bɛ laara sani ni bɛ Duuma, ka dabiɛm ka bɛ zuɣu, ka bɛ. (فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ) 2:274; 2:277
+- Ka bɛ yεli: "Ti yi ti leei kpala ni taŋkpaɣu, di ni ti leei bɛn ti yiɣisi ti na ka ti leei binyɛrsili palli?" (وَقَالُوا أَإِذَا كُنَّا عِظَامًا وَرُفَاتًا أَإِنَّا لَمَبْعُوثُونَ خَلْقًا جَدِيدًا) 17:49; 17:98
+- Ka bɛ bi tooi nya bɛ maŋa sɔŋda bee ladabika naɣila Alahiri. (وَلَا يَجِدُونَ لَهُم مِّن دُونِ اللَّهِ وَلِيًّا وَلَا نَصِيرًا) 4:173; 33:17
+- "Di yuŋ maa?" O yεli: "N yuŋ dabisili yini bee dabisili yini vaabu." Ka o yεli. (كَمْ لَبِثْتَ قَالَ لَبِثْتُ يَوْمًا أَوْ بَعْضَ يَوْمٍ قَالَ) 2:259; 18:19
+- Hali ni Zaadali, ŋuni n-nyɛ duuma so pa Alahiri ŋun yɛn ti yi? (سَرْمَدًا إِلَى يَوْمِ الْقِيَامَةِ مَنْ إِلَهٌ غَيْرُ اللَّهِ يَأْتِيكُم) 28:71; 28:72
+- Ninvuɣu so ŋun tum tuunviɛla, doo bee paɣa, ka o nyɛla ŋun ti yεlimaŋli. (مَنْ عَمِلَ صَالِحًا مِّن ذَكَرٍ أَوْ أُنثَى وَهُوَ مُؤْمِنٌ) 16:97; 40:40
+- Ninvuɣu shɛba ban mɔŋdi Alahiri soli, ka bɔri li ni di nyɛ din gbirigi, ka bɛ nyɛla ban bi dihitabli Zaadali. (الَّذِينَ يَصُدُّونَ عَن سَبِيلِ اللَّهِ وَيَبْغُونَهَا عِوَجًا وَهُم بِالْآخِرَةِ) 7:45; 11:19
+- Di ya luɣushɛli yi ni bɔra, amaa di miri tia ŋɔ, din niŋ ka yi leei zualindiriba. (حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَذِهِ الشَّجَرَةَ فَتَكُونَا مِنَ الظَّالِمِينَ) 2:35; 7:19
+- Yεlima: "Yɛ niriba! Tumi ya yi ni be shɛli ni, achiika n gba nyɛla ŋun tumda, ka yi naan tooi baŋ." (قُلْ يَاقَوْمِ اعْمَلُوا عَلَى مَكَانَتِكُمْ إِنِّي عَامِلٌ فَسَوْفَ تَعْلَمُونَ) 6:135; 39:39
+- Achiika, ban leei ashaara n-nyɛ ban daa niŋ bɛ maŋa ni bɛ niriba ashaara Zaadali, wuni. (إِنَّ الْخَاسِرِينَ الَّذِينَ خَسِرُوا أَنفُسَهُمْ وَأَهْلِيهِمْ يَوْمَ الْقِيَامَةِ أَلَا) 39:15; 42:45
+- Ninvuɣu so ŋun dolsi, o dolsila o maŋa zuɣu; ka ninvuɣu so ŋun yɛrigi ka chɛ, o yɛrigi ka chɛ o maŋa zuɣu, ka. (يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا وَمَا) 10:108; 39:41
+- Ka ninvuɣu shɛba ban niŋ chεfuritali yεra: "Di yi niŋ ka bɛ siɣisi alaama shɛli n-ti o o Duuma sani?" (وَيَقُولُ الَّذِينَ كَفَرُوا لَوْلَا أُنزِلَ عَلَيْهِ آيَةٌ مِّن رَّبِّهِ) 13:7; 13:27
+- Ŋun nam ya yuŋ, ni yi zilim di puuni, ka dabisili, ni yi nya, achiika. (الَّذِي جَعَلَ لَكُمُ اللَّيْلَ لِتَسْكُنُوا فِيهِ وَالنَّهَارَ مُبْصِرًا إِنَّ) 10:67; 40:61
+- Dabisili shɛli din ka daabilim ni dɔɣim di puuni na. (مِّن قَبْلِ أَن يَأْتِيَ يَوْمٌ لَّا بَيْعٌ فِيهِ وَلَا) 2:254; 14:31
+- Ka bɛ teei ni bɛ zo kani yɛhim, o nyɛla valimda. (يَتَفَكَّرُوا مَا بِصَاحِبِهِم مِّن جِنَّةٍ إِنْ هُوَ إِلَّا نَذِيرٌ) 7:184; 34:46
+- Ka bɛ nyɛla ban yɛn ti kpalim di puuni, ka daazaaba bi fɔyi bɛ zuɣu, ka bɛ ku deei saha. (خَالِدِينَ فِيهَا لَا يُخَفَّفُ عَنْهُمُ الْعَذَابُ وَلَا هُمْ يُنظَرُونَ) 2:162; 3:88
+- Di zaŋ a nimbihi n-zaŋ chaŋ Ti ni ti bɛ shɛba viɛnyɛla ni. (لَا تَمُدَّنَّ عَيْنَيْكَ إِلَى مَا مَتَّعْنَا بِهِ أَزْوَاجًا مِّنْهُمْ) 15:88; 20:131
+- Ka di kuri niriba bɛ binyɛra, ka di mali barina tiŋgbani ni. (وَلَا تَبْخَسُوا النَّاسَ أَشْيَاءَهُمْ وَلَا تَعْثَوْا فِي الْأَرْضِ مُفْسِدِينَ) 11:85; 26:183
+- Ka suhudoo be o zuɣu dabisili shɛli o ni daa dɔɣi, ni dabisili shɛli o ni ti kpi, ni dabisili shɛli bɛ ni ti yiɣisi o na ni o nyɛvili. (وَسَلَامٌ عَلَيْهِ يَوْمَ وُلِدَ وَيَوْمَ يَمُوتُ وَيَوْمَ يُبْعَثُ حَيًّا) 19:15; 19:33
+- Yɛ niriba! Tumi ya yi ni be shɛli ni, achiika n gba nyɛla ŋun tumda, ka yi naan tooi baŋ ŋun. (يَاقَوْمِ اعْمَلُوا عَلَى مَكَانَتِكُمْ إِنِّي عَامِلٌ فَسَوْفَ تَعْلَمُونَ مَن) 6:135; 11:93
+- Ka di bi niŋ tuun' so ni o tahi alaama shɛli na naɣila Alahiri ni saɣi n-ti li. (وَمَا كَانَ لِرَسُولٍ أَن يَأْتِيَ بِآيَةٍ إِلَّا بِإِذْنِ اللَّهِ) 13:38; 40:78
+- Din nyaaŋa, bɛ ni ti nyɛŋ nyɛvuli kam o ni tum shɛli, ka bɛ ku niŋ ba zualinsi. (ثُمَّ تُوَفَّى كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ) 2:281; 3:161
+- Doo bee paɣa, ka o nyɛla ŋun ti yεlimaŋli, ka bana n-nyɛ ban yɛn ti kpe Alizanda. (مِن ذَكَرٍ أَوْ أُنثَى وَهُوَ مُؤْمِنٌ فَأُولَئِكَ يَدْخُلُونَ الْجَنَّةَ) 4:124; 40:40
+- O bi zaɣisi bia, ka di bi niŋ ka o mali ŋun zani o zaani nam ni. (لَمْ يَتَّخِذْ وَلَدًا وَلَمْ يَكُن لَّهُ شَرِيكٌ فِي الْمُلْكِ) 17:111; 25:2
+- Ninvuɣu so Alahiri ni dolsi, ŋuna n-nyɛ ŋun dolsi; ka ninvuɣu so O ni bɔhi soli, a ku tooi nya. (وَمَن يَهْدِ اللَّهُ فَهُوَ الْمُهْتَدِ وَمَن يُضْلِلْ فَلَن تَجِدَ) 17:97; 18:17
+- Nyam! Bɛ ni mali shɛm n-tiri a nimmohi, ka bɛ yɛrigi ka chɛ, ka bi tooi nya soli. (انظُرْ كَيْفَ ضَرَبُوا لَكَ الْأَمْثَالَ فَضَلُّوا فَلَا يَسْتَطِيعُونَ سَبِيلًا) 17:48; 25:9
+- Yεlima: "Achiika n nyɛla ŋun zɔri, yi yi niŋ ka m bi doli n Duuma, daazaaba zaŋ ti Dabisili titali." (قُلْ إِنِّي أَخَافُ إِنْ عَصَيْتُ رَبِّي عَذَابَ يَوْمٍ عَظِيمٍ) 6:15; 39:13
+- Ka bɛ yihi bɛ yihi bɛ yihi, ka bɛ naan tooi mali Alizanda binshɛɣu ŋmahiŋgbana. (بَدَتْ لَهُمَا سَوْآتُهُمَا وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِن وَرَقِ الْجَنَّةِ) 7:22; 20:121
+- Ka jɛm ya ninvuɣu shɛba yi ni tooi jɛm ka pa Alahiri, yi yi nyɛla yɛrilanima. (وَادْعُوا مَنِ اسْتَطَعْتُم مِّن دُونِ اللَّهِ إِن كُنتُمْ صَادِقِينَ) 10:38; 11:13
+- Din be tiŋgbani ni zaasa, ni di ŋmali, ni bɛ zaŋ li taɣi bɛ maŋa. (مَّا فِي الْأَرْضِ جَمِيعًا وَمِثْلَهُ مَعَهُ لِيَفْتَدُوا بِهِ مِنْ) 5:36; 39:47
+- Gbaai ya Ti ni ti ya shɛli ni yaa, ka teei din be di puuni, achiika yi ni zo Alahiri. (خُذُوا مَا آتَيْنَاكُم بِقُوَّةٍ وَاذْكُرُوا مَا فِيهِ لَعَلَّكُمْ تَتَّقُونَ) 2:63; 7:171
+- Di ni yi kani binyɛrsili shɛli din be, ka so bi daa kana pɔi ni yi di puuni binnamda ni? (أَتَأْتُونَ الْفَاحِشَةَ مَا سَبَقَكُم بِهَا مِنْ أَحَدٍ مِّنَ الْعَالَمِينَ) 7:80; 29:28
+- Ka Alahiri n-su din be sagbana ni mini din be tiŋgbani ni, ka Alahiri daa nyɛla. (وَلِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَكَانَ اللَّهُ) 4:126; 4:131
+- Bɛ ni tum shɛli ka di ka bɛ, ka bɛ ni daa mali shɛli puhiri kpɛhi bɛ zuɣu. (سَيِّئَاتُ مَا عَمِلُوا وَحَاقَ بِهِم مَّا كَانُوا بِهِ يَسْتَهْزِئُونَ) 16:34; 45:33
+- Tuun' so yi puuni, ŋun karindi Ti aayanima n-ti ya, ka niŋ ya kasi, ka wumsi ya litaafi mini yεlimaŋli. (رَسُولًا مِّنكُمْ يَتْلُو عَلَيْكُمْ آيَاتِنَا وَيُزَكِّيكُمْ وَيُعَلِّمُكُمُ الْكِتَابَ وَالْحِكْمَةَ) 2:151; 62:2
+- Di puuni, ka kobilnina ayopɔin ni ayɔbu yina; ka niriba kam daa mi bɛ kom. (مِنْهُ اثْنَتَا عَشْرَةَ عَيْنًا قَدْ عَلِمَ كُلُّ أُنَاسٍ مَّشْرَبَهُمْ) 2:60; 7:160
+- Naɣila zanndi; achiika zanndi ku tooi sɔŋ yεlimaŋli. (إِلَّا ظَنًّا إِنَّ الظَّنَّ لَا يُغْنِي مِنَ الْحَقِّ شَيْئًا) 10:36; 53:28
+- Ti yi ti saɣisi o, ka ti puhi Ti nyɛvuli di puuni, dinzuɣu gbaami ya n-gbi o. (فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ فِيهِ مِن رُّوحِي فَقَعُوا لَهُ سَاجِدِينَ) 15:29; 38:72
+- Ŋuni n-nyɛ ŋun yɛn nya di bahigu viɛnyɛla? Achiika zualindiriba ti ku lahi nyɛ nasara. (مَن تَكُونُ لَهُ عَاقِبَةُ الدَّارِ إِنَّهُ لَا يُفْلِحُ الظَّالِمُونَ) 6:135; 28:37
+- Ŋun nam sagbana mini tiŋgbani, O nyɛla Ŋun tooi nam bɛ ŋmali. (الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ قَادِرٌ عَلَى أَن يَخْلُقَ مِثْلَهُمْ) 17:99; 36:81
+- Ka ti yɛligu n-ti ninvuɣu shɛba ban ti yεlimaŋli, dobba ni paɣaba, Alizanda shɛŋa kulibɔna ni yɛra di gbini, ka bɛ nyɛla ban yɛn ti kpalim di puuni. (الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 9:72; 48:5
+- Di yi niŋ ka a bɔhi ba, ŋuni n-nam sagbana mini tiŋgbani? Achiika bɛ ni yεli: "Alahiri." Yεlima. (وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ لَيَقُولُنَّ اللَّهُ قُلِ) 31:25; 39:38
+- Achiika Ti zaŋ nimmohi kam n-ti ninsalinim' Alkur'aani ŋɔ puuni. (وَلَقَدْ ضَرَبْنَا لِلنَّاسِ فِي هَذَا الْقُرْآنِ مِن كُلِّ مَثَلٍ) 30:58; 39:27
+- Ti tuumba yi ti kana Annabi Lutu sani, o suhi ni di, ka o nyɛ ŋun niŋ kpɛm, ka yεli. (جَاءَتْ رُسُلُنَا لُوطًا سِيءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًا وَقَالَ) 11:77; 29:33
+- Ti yi yεli Malaaika nima: "Gbiŋmi ya Annabi Adam," ka bɛ gbiŋ, naɣila Iblisi, o daa nyɛla ŋun zaɣisi. (وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا إِبْلِيسَ أَبَى) 2:34; 20:116
+- Ka Ti yεrigi tiŋgbani, ka zaŋ zoya di puuni, ka chɛ ka binyɛr'shɛŋa yina di puuni. (وَالْأَرْضَ مَدَدْنَاهَا وَأَلْقَيْنَا فِيهَا رَوَاسِيَ وَأَنبَتْنَا فِيهَا مِن كُلِّ) 15:19; 50:7
+- Bɛ daa jεm Alahiri ka nyɛla ban zaŋdi O jɛma n-ti O, amaa O yi ti tilgi ba n-ti tiŋgbani. (دَعَوُا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ فَلَمَّا نَجَّاهُمْ إِلَى الْبَرِّ) 29:65; 31:32
+- Bɛ mali kom din pia ka mali daazaaba kpeeni, di daliri nyɛla bɛ ni daa niŋdi chεfuritali. (لَهُمْ شَرَابٌ مِّنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْفُرُونَ) 6:70; 10:4
+- Di ni ti leei ti jεm binyɛri shɛŋa ka pa Alahiri, din ku tooi ti anfaani bee din ku tooi niŋ barina? (أَنَدْعُو مِن دُونِ اللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا) 6:71; 10:106
+- Achiika Alahiri mi din be sagbana ni mini din be tiŋgbani ni. (أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 5:97; 58:7
 """;

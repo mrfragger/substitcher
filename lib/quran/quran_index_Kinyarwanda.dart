@@ -3017,4 +3017,149 @@ Matching Phrases 11 words
 - (Iyo) yatambwe ku izina ry'ikindi kitari Allah. Naho uhatirwa, atari umwansi cyangwa urenga, nuko... (أُهِلَّ لِغَيْرِ اللَّهِ بِهِ فَمَنِ اضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ) 6:145; 16:115
 - Iyo babwiwe bati "Nimukurikize ibyo Allah yahishuye," baravuga bati "Oya, tuzakurikiza ibyo..." (وَإِذَا قِيلَ لَهُمُ اتَّبِعُوا مَا أَنزَلَ اللَّهُ قَالُوا بَلْ نَتَّبِعُ مَا) 2:170; 31:21
 - Yavuze ati: "Yemwe bantu banjye! Nimugaramuke Allah; nta yindi mana mufite itari We. Ese ntimutinya (Allah)?" (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 7:65; 23:23
+Matching Phrases 10 words
+
+- Baragenda mu isi, bareba uko iherezo ry'ababanjirije ryari. (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ) 12:109; 30:9; 30:42; 35:44; 40:82; 47:10
+- Ni nde urenga ibike mu guhonyora uwahimba ikinyoma ku Mana cyangwa akayihakana? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا أَوْ كَذَّبَ) 6:21; 7:37; 10:17; 29:68
+- Mu by'ukuri, Umuremyi wawe ni we uzi neza utegetswe mu nzira ye, kandi ni we uzi neza. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ مَن يَضِلُّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ) 6:117; 16:125; 53:30; 68:7
+- Ese ntibagendeye mu isi, bakareba uko iherezo ry'ababanjirije ryari? (أَوَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن) 30:9; 35:44; 40:82; 47:10
+- Bazagira ibihembo byabo hafi y'Umuremyi wabo, kandi nta bwoba buzabaho kuri bo, kandi ntibazababara. (فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ) 2:62; 2:262; 2:274; 2:277
+- Kandi abo bemeye kandi bakora ibikorwa byiza, binjijwe mu busitani bujya amazi atemba munsi yabyo. (وَأُدْخِلَ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 14:23; 22:14; 22:23; 47:12
+- Yavuze ati: "Yemwe bwoko bwanjye! Nimugaragire Allah, nta yindi mana mufite itari we, ese ntimutinya?" (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا) 7:65; 11:84; 23:23
+- Ubutunzi bwabo n'abana babo ntacyo bazabamarira imbere ya Allah, kandi abo ni bo. (لَن تُغْنِيَ عَنْهُمْ أَمْوَالُهُمْ وَلَا أَوْلَادُهُم مِّنَ اللَّهِ شَيْئًا وَأُولَئِكَ) 3:10; 3:116; 58:17
+- Ubusitani bujya amazi atemba munsi yabyo, bazabamo ubuziraherezo, kandi ni byo gutsinda gukomeye. (جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَذَلِكَ الْفَوْزُ الْعَظِيمُ) 4:13; 9:89
+- Ese inkuru y'ababanjirije, ubwoko bwa Nuhu, Adi na Thamudu, ntiyigeze ibagezaho? (أَلَمْ يَأْتِهِمْ نَبَأُ الَّذِينَ مِن قَبْلِهِمْ قَوْمِ نُوحٍ وَعَادٍ وَثَمُودَ) 9:70; 14:9
+- Ni bande bari abambutsi banjye bagana Allah? Abigishwa bavuze bati: "Twe turi abambutsi ba Allah, twemeye." (مَنْ أَنصَارِي إِلَى اللَّهِ قَالَ الْحَوَارِيُّونَ نَحْنُ أَنصَارُ اللَّهِ آمَنَّا) 3:52; 61:14
+- Umuremyi wawe ni we uzi neza utegetswe mu nzira ye, kandi ni we uzi neza abayobowe neza. (رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ) 16:125; 68:7
+- Ibyo ni uko Allah ari we ukuri, kandi ibyo basenga bitari we ari ibinyoma. (ذَلِكَ بِأَنَّ اللَّهَ هُوَ الْحَقُّ وَأَنَّ مَا يَدْعُونَ مِن دُونِهِ) 22:62; 31:30
+- N'umwumvira Allah n'intumwa ye, Allah azamujyana mu busitani bujya amazi atemba munsi yabyo. (وَمَن يُطِعِ اللَّهَ وَرَسُولَهُ يُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 4:13; 48:17
+- Mu by'ukuri, yababujije gusa inyama zikaba, amaraso, inyama z'ingurube, n'ibyabagirirwa ikindi kitari Allah. (إِنَّمَا حَرَّمَ عَلَيْكُمُ الْمَيْتَةَ وَالدَّمَ وَلَحْمَ الْخِنزِيرِ وَمَا أُهِلَّ) 2:173; 16:115
+- Ko nta kindi musenga kitari Allah; mu by'ukuri, ndatinya ko muzahura ibihano by'umunsi ukomeye. (أَن لَّا تَعْبُدُوا إِلَّا اللَّهَ إِنِّي أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ) 11:26; 46:21
+- Ibyo ni bimwe mu nkuru z'ibyihishe, tubihishurira; ntiwari kumwe na bo igihe bagiranaga inama. (ذَلِكَ مِنْ أَنبَاءِ الْغَيْبِ نُوحِيهِ إِلَيْكَ وَمَا كُنتَ لَدَيْهِمْ إِذْ) 3:44; 12:102
+- Ese muratangazwa n'uko urwibutso rwabagezeho ruturuka ku Muremyi wanyu, binyuze ku mugabo ukomoka muri mwe, kugira ngo ababurire? (أَوَعَجِبْتُمْ أَن جَاءَكُمْ ذِكْرٌ مِّن رَّبِّكُمْ عَلَى رَجُلٍ مِّنكُمْ لِيُنذِرَكُمْ) 7:63; 7:69
+- Vuga uti: "Mu by'ukuri, nabujijwe gusenga abo musenga batari Allah." (قُلْ إِنِّي نُهِيتُ أَنْ أَعْبُدَ الَّذِينَ تَدْعُونَ مِن دُونِ اللَّهِ) 6:56; 40:66
+- Usibye ku bagore babo cyangwa abo intoki zabo z'iburyo zitunze, kuko muri ubwo buryo batagirwa n'ikosa. (إِلَّا عَلَى أَزْوَاجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَانُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ) 23:6; 70:30
+- Kubera ko Allah yinjiza ijoro mu manywa, akinjiza n'umunsi mu ijoro. (بِأَنَّ اللَّهَ يُولِجُ اللَّيْلَ فِي النَّهَارِ وَيُولِجُ النَّهَارَ فِي اللَّيْلِ) 22:61; 31:29
+- Umuriro, maze abwira abo mu rugo rwe ati: "Munategereze, nabonye umuriro, birashoboka ko mbazanira ikintu." (نَارًا فَقَالَ لِأَهْلِهِ امْكُثُوا إِنِّي آنَسْتُ نَارًا لَّعَلِّي آتِيكُم مِّنْهَا) 20:10; 28:29
+- Yavuze ati: "Ndi mwiza kurenze we; wanyize ku muriro, ariko we wamuremye ku ibumba." (قَالَ أَنَا خَيْرٌ مِّنْهُ خَلَقْتَنِي مِن نَّارٍ وَخَلَقْتَهُ مِن طِينٍ) 7:12; 38:76
+- Iyo babwiwe ngo: "Nimuze ku byo Allah yahishuye, no ku ntumwa." (وَإِذَا قِيلَ لَهُمْ تَعَالَوْا إِلَى مَا أَنزَلَ اللَّهُ وَإِلَى الرَّسُولِ) 4:61; 5:104
+- Kandi ntugaterwe agahinda n'ibyo bakora, kandi ntugire umubabaro kubera imigambi yabo. (وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُ فِي ضَيْقٍ مِّمَّا يَمْكُرُونَ) 16:127; 27:70
+- Niba Allah aguhesheje ikibi, nta wakibaho ukirenga uretse we, kandi niba. (وَإِن يَمْسَسْكَ اللَّهُ بِضُرٍّ فَلَا كَاشِفَ لَهُ إِلَّا هُوَ وَإِن) 6:17; 10:107
+- Mbere yabo, ibisekuru byatambagiraga mu ngo zabo; mu by'ukuri, muri byo hari ibimenyetso. (قَبْلَهُم مِّنَ الْقُرُونِ يَمْشُونَ فِي مَسَاكِنِهِمْ إِنَّ فِي ذَلِكَ لَآيَاتٍ) 20:128; 32:26
+- Kandi twashyize ibikingi ku mitima yabo, kugira ngo batabyumve, no mu matwi yabo uburemere, kandi niba. (وَجَعَلْنَا عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا وَإِن) 6:25; 18:57
+- Intumwa zabo zabagezeho n'ibimenyetso bigaragara, ariko Allah ntiyari kubahonyora, ahubwo bo ubwabo barihonyora. (رُسُلُهُم بِالْبَيِّنَاتِ فَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ وَلَكِن كَانُوا أَنفُسَهُمْ يَظْلِمُونَ) 9:70; 30:9
+- No ku isi, kandi nta muhuzi cyangwa umutabazi mufite uretse Allah. (وَالْأَرْضِ وَمَا لَكُم مِّن دُونِ اللَّهِ مِن وَلِيٍّ وَلَا نَصِيرٍ) 2:107; 42:31
+- Hanyuma muzasubizwa ku Uzi ibyihishe n'ibigaragara, maze akubwire ibyo mwakoraga. (ثُمَّ تُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ) 9:94; 62:8
+- Ijoro, kugira ngo muruhuke muri ryo, n'umunsi, kugira ngo mubone; mu by'ukuri, muri ibyo hari ibimenyetso ku bantu batekereza. (اللَّيْلَ لِتَسْكُنُوا فِيهِ وَالنَّهَارَ مُبْصِرًا إِنَّ فِي ذَلِكَ لَآيَاتٍ لِّقَوْمٍ) 10:67; 27:86
+- Kandi ibyo wahishuriwe bituruka ku Muremyi wawe, bizakomeza kwiyongera ku benshi muri bo mu kwigomeka no kuzira ukwemera. (وَلَيَزِيدَنَّ كَثِيرًا مِّنْهُم مَّا أُنزِلَ إِلَيْكَ مِن رَّبِّكَ طُغْيَانًا وَكُفْرًا) 5:64; 5:68
+- Yavuze ati: "Yemwe bwoko bwanjye! Mubona bite niba ndi ku gihamya kigaragara giturutse ku Muremyi wanjye, kandi akampa." (قَالَ يَاقَوْمِ أَرَأَيْتُمْ إِن كُنتُ عَلَى بَيِّنَةٍ مِّن رَّبِّي وَآتَانِي) 11:28; 11:63
+- Kandi baravuga bati: "Kuki atazanyweho igitangaza giturutse ku Muremyi we?" Vuga uti: "Mu by'ukuri." (وَيَقُولُونَ لَوْلَا أُنزِلَ عَلَيْهِ آيَةٌ مِّن رَّبِّهِ فَقُلْ إِنَّمَا) 10:20; 29:50
+- Mbere y'uko umunsi udasubirwaho uturutse ku Mana uza. (مِن قَبْلِ أَن يَأْتِيَ يَوْمٌ لَّا مَرَدَّ لَهُ مِنَ اللَّهِ) 30:43; 42:47
+- Ibyo ni ingabire ya Allah, ayiha uwo ashaka, kandi Allah ni we nyir'ingabire nini. (ذَلِكَ فَضْلُ اللَّهِ يُؤْتِيهِ مَن يَشَاءُ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ) 57:21; 62:4
+- Kandi mu by'ukuri, mu matungo hari inyigisho zibagirira; tubanywesha ibiri mu nda zayo. (وَإِنَّ لَكُمْ فِي الْأَنْعَامِ لَعِبْرَةً نُّسْقِيكُم مِّمَّا فِي بُطُونِهِ) 16:66; 23:21
+- Ko ibyo ari ukuri guturutse ku Muremyi wabo, kandi Allah ntaba ari umwibagirwa ku byo bakora. (أَنَّهُ الْحَقُّ مِن رَّبِّهِمْ وَمَا اللَّهُ بِغَافِلٍ عَمَّا يَعْمَلُونَ) 2:144; 2:149
+- Imbere yabo n'inyuma yabo, kugira ngo mutasenga ikindi kitari Allah. (مِن بَيْنِ أَيْدِيهِمْ وَمِنْ خَلْفِهِمْ أَلَّا تَعْبُدُوا إِلَّا اللَّهَ) 41:14; 46:21
+- Mu by'ukuri, mwe murarikira abagabo mu rashwa, mwerekeye abagore; ahubwo mwe muri abantu barenga imbibi. (إِنَّكُمْ لَتَأْتُونَ الرِّجَالَ شَهْوَةً مِّن دُونِ النِّسَاءِ بَلْ أَنتُمْ قَوْمٌ) 7:81; 27:55
+- Bazamubamo ubuziraherezo, igihe cyose ijuru n'isi bikomezaho, uretse icyo Umuremyi wawe ashaka. (خَالِدِينَ فِيهَا مَا دَامَتِ السَّمَاوَاتُ وَالْأَرْضُ إِلَّا مَا شَاءَ رَبُّكَ) 11:107; 11:108
+- Abari mu ijuru no ku isi, uretse uwo Allah ashaka. (مَن فِي السَّمَاوَاتِ وَمَن فِي الْأَرْضِ إِلَّا مَن شَاءَ اللَّهُ) 27:87; 39:68
+- Bazambikwamo ibikomo bya zahabu n'amaraga, kandi imyambaro yabo izaba ari ihoza. (يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِن ذَهَبٍ وَلُؤْلُؤًا وَلِبَاسُهُمْ فِيهَا حَرِيرٌ) 22:23; 35:33
+- Kandi yamanuye amazi mu ijuru, maze ayakoresha asohora imbuto nk'imirire yanyu. (وَأنزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجَ بِهِ مِنَ الثَّمَرَاتِ رِزْقًا لَّكُمْ) 2:22; 14:32
+- Kandi twigeze gufata isezerano ryanyu, tukazamura umusozi hejuru yanyu: "Mufate ibyo twabahaye mu komeza." (وَإِذْ أَخَذْنَا مِيثَاقَكُمْ وَرَفَعْنَا فَوْقَكُمُ الطُّورَ خُذُوا مَا آتَيْنَاكُم بِقُوَّةٍ) 2:63; 2:93
+- Nuko arahindukira, avuga ati: "Yemwe bwoko bwanjye! Mu by'ukuri, nabagejejeho ubutumwa bw'Umuremyi wanjye, kandi nababwiye inama." (فَتَوَلَّى عَنْهُمْ وَقَالَ يَاقَوْمِ لَقَدْ أَبْلَغْتُكُمْ رِسَالَةَ رَبِّي وَنَصَحْتُ لَكُمْ) 7:79; 7:93
+- Amazi atemba munsi yabo, bazambikwamo ibikomo bya zahabu. (تَجْرِي مِن تَحْتِهِمُ الْأَنْهَارُ يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِن ذَهَبٍ) 18:31; 22:23
+- Iyo baba bafite ibyo ku isi byose, n'ikindi kingana na byo, kugira ngo bibacungure. (لَوْ أَنَّ لَهُم مَّا فِي الْأَرْضِ جَمِيعًا وَمِثْلَهُ مَعَهُ لِيَفْتَدُوا) 5:36; 13:18
+- Nta kinyabuzima, ariko abarinda kugeza igihe kitagenwe, maze igihe cyabo kikaza. (مِن دَابَّةٍ وَلَكِن يُؤَخِّرُهُمْ إِلَى أَجَلٍ مُّسَمًّى فَإِذَا جَاءَ أَجَلُهُمْ) 16:61; 35:45
+- Twabaremye mu butaka, hanyuma mu ntanga, hanyuma mu rasashi, hanyuma. (خَلَقْنَاكُم مِّن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ مِنْ عَلَقَةٍ ثُمَّ) 22:5; 40:67
+- Nuko Allah azabakiranura ku Munsi w'Umuzuko ku byo batavugaga rumwe. (فَاللَّهُ يَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 2:113; 22:69
+- Ubumenyi bwagezeho, nta muhuzi ufite uturutse ku Mana. (جَاءَكَ مِنَ الْعِلْمِ مَا لَكَ مِنَ اللَّهِ مِن وَلِيٍّ وَلَا) 2:120; 13:37
+- Iyo tumugiriye neza umuntu, arahindukira akirengagiza, ariko iyo ikibi kimukoreye. (وَإِذَا أَنْعَمْنَا عَلَى الْإِنسَانِ أَعْرَضَ وَنَأَى بِجَانِبِهِ وَإِذَا مَسَّهُ الشَّرُّ) 17:83; 41:51
+- Nta kintu gito cyangwa kinini kirenze icyo, kitari mu gitabo gihamye. (وَلَا أَصْغَرَ مِن ذَلِكَ وَلَا أَكْبَرَ إِلَّا فِي كِتَابٍ مُّبِينٍ) 10:61; 34:3
+
+Matching Phrases 9 words
+
+- Nuko aravuga ati: "Yemwe bwoko bwanjye! Nimugaragire Allah, nta yindi mana mufite itari we." (فَقَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ) 7:59; 7:65; 7:73; 7:85; 11:50; 11:61; 11:84; 23:23
+- Ese ntibagendeye mu isi, bakareba uko iherezo ry'ababanjirije ryari? (أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ) 12:109; 30:9; 35:44; 40:21; 40:82; 47:10
+- Ibihembo byabo biri hafi y'Umuremyi wabo, kandi nta bwoba buzabaho kuri bo, kandi ntibazababara. (أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ) 2:62; 2:112; 2:262; 2:274; 2:277
+- Baragenda mu isi, bareba uko iherezo ry'ababanjirije ryari. (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن) 30:9; 30:42; 35:44; 40:82; 47:10
+- Mu isi, bakareba uko iherezo ry'ababanjirije ryari. (فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ) 30:9; 30:42; 35:44; 40:82; 47:10
+- Ni nde urenga ibike mu guhonyora uwahimba ikinyoma ku Mana cyangwa akayihakana? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا أَوْ) 6:21; 6:93; 7:37; 10:17; 29:68
+- Iyo Allah ashoye ikintu, ibwira ngo "Ba!" maze kikaba. (وَإِذَا قَضَى أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُن فَيَكُونُ) 2:117; 3:47; 19:35; 40:68
+- Kandi nta muhuzi cyangwa umutabazi mufite uretse Allah. (وَمَا لَكُم مِّن دُونِ اللَّهِ مِن وَلِيٍّ وَلَا نَصِيرٍ) 2:107; 9:116; 29:22; 42:31
+- Mu by'ukuri, nzababarira ibyaha byabo, kandi nzabajyana mu busitani bujya amazi atemba munsi yabyo. (لَأُكَفِّرَنَّ عَنْهُمْ سَيِّئَاتِهِمْ وَلَأُدْخِلَنَّهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 3:195; 5:12; 64:9; 66:8
+- Tuzabajyana mu busitani bujya amazi atemba munsi yabyo, bazabamo ubuziraherezo. (سَنُدْخِلُهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا) 4:57; 4:122; 64:9; 65:11
+- Umuremyi wawe ni we uzi neza utegetswe mu nzira ye, kandi ni we uzi neza. (رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ) 16:125; 53:30; 68:7
+- Muzasubizwa ku Uzi ibyihishe n'ibigaragara, maze akubwire ibyo mwakoraga. (تُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ) 9:94; 9:105; 62:8
+- Bacaga abahungu banyu, bakareka abakobwa banyu, kandi muri ibyo harimo ikigeragezo gikomeye giturutse ku Muremyi wanyu. (أَبْنَاءَكُمْ وَيَسْتَحْيُونَ نِسَاءَكُمْ وَفِي ذَلِكُم بَلَاءٌ مِّن رَّبِّكُمْ عَظِيمٌ) 2:49; 7:141; 14:6
+- Mu by'ukuri, Umuremyi wawe ni we uzi neza utegetswe mu nzira ye, kandi we. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ) 16:125; 53:30; 68:7
+- Allah, we ufite ibiri mu ijuru no ku isi. (اللَّهِ الَّذِي لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 14:2; 34:1; 42:53
+- Mu miryango yabanjirije, mu majini n'abantu. (فِي أُمَمٍ قَدْ خَلَتْ مِن قَبْلِكُم مِّنَ الْجِنِّ وَالْإِنسِ) 7:38; 41:25; 46:18
+- Nimugaragire Allah, nta yindi mana mufite itari we, ese ntimutinya? (اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 7:65; 23:23; 23:32
+- Kandi twashyize ibikingi ku mitima yabo, kugira ngo batabyumve, no mu matwi yabo uburemere. (وَجَعَلْنَا عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا) 6:25; 17:46; 18:57
+- Azabakiranura ku Munsi w'Umuzuko ku byo batavugaga rumwe. (يَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 2:113; 16:124; 22:69
+- Yavuze ati: "Yemwe bwoko bwanjye! Mubona bite niba ndi ku gihamya kigaragara giturutse ku Muremyi wanjye?" (قَالَ يَاقَوْمِ أَرَأَيْتُمْ إِن كُنتُ عَلَى بَيِّنَةٍ مِّن رَّبِّي) 11:28; 11:63; 11:88
+- Ibyo ni uko intoki zanyu zabanje gukora, kandi Allah ntaba ari uguhonyora abagaragu be. (ذَلِكَ بِمَا قَدَّمَتْ أَيْدِيكُمْ وَأَنَّ اللَّهَ لَيْسَ بِظَلَّامٍ لِّلْعَبِيدِ) 3:182; 8:51; 22:10
+- Bazagira uko gucirwa isoni ku isi, kandi bazagira ibihano bikomeye ku munsi w'inkuba. (لَهُمْ فِي الدُّنْيَا خِزْيٌ وَلَهُمْ فِي الْآخِرَةِ عَذَابٌ عَظِيمٌ) 2:114; 5:41
+- Ibyo biri mu ijuru no ku isi, kandi Allah arahagije kuba Umurinzi. (مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَكَفَى بِاللَّهِ وَكِيلًا) 4:132; 4:171
+- Usibye abo bemeye kandi bakora ibikorwa byiza; bazagira ibihembo bitagira akagero. (إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ) 84:25; 95:6
+- Kugira ngo umpange ikindi utazi; rero ntuzabumvire. (لِتُشْرِكَ بِي مَا لَيْسَ لَكَ بِهِ عِلْمٌ فَلَا تُطِعْهُمَا) 29:8; 31:15
+- Mu by'ukuri, ibi ni urwibutso; rero ushaka, yakurikire inzira igana ku Muremyi we. (إِنَّ هَذِهِ تَذْكِرَةٌ فَمَن شَاءَ اتَّخَذَ إِلَى رَبِّهِ سَبِيلًا) 73:19; 76:29
+- Ushimiye, ashimira ubwe; n'uzira kwemera. (وَمَن شَكَرَ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِ وَمَن كَفَرَ فَإِنَّ) 27:40; 31:12
+- Abakora amasengesho, batanga amaturo, kandi bemera umunsi w'inkuba. (الَّذِينَ يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُم بِالْآخِرَةِ هُمْ يُوقِنُونَ) 27:3; 31:4
+- Ibrahimu, Isumayili, Isihaqi, Yakubu n'imiryango, n'ibyo Musa na Isa bahawe. (إِبْرَاهِيمَ وَإِسْمَاعِيلَ وَإِسْحَاقَ وَيَعْقُوبَ وَالْأَسْبَاطِ وَمَا أُوتِيَ مُوسَى وَعِيسَى) 2:136; 3:84
+- Mu matsinda, kugeza igihe bagezeyo, maze imiryango yayo igakingurwa, abarinzi bayo bakababwira. (زُمَرًا حَتَّى إِذَا جَاءُوهَا فُتِحَتْ أَبْوَابُهَا وَقَالَ لَهُمْ خَزَنَتُهَا) 39:71; 39:73
+- Allah ntabaza guhana kubera ibitagira akamaro mu birayiro byanyu, ariko azabahana kubera ibyo. (لَّا يُؤَاخِذُكُمُ اللَّهُ بِاللَّغْوِ فِي أَيْمَانِكُمْ وَلَكِن يُؤَاخِذُكُم بِمَا) 2:225; 5:89
+- Imbabazi, barazishimira, kandi iyo ikibi kibakoreye kubera ibyo intoki zabo zabanje gukora. (رَحْمَةً فَرِحُوا بِهَا وَإِن تُصِبْهُمْ سَيِّئَةٌ بِمَا قَدَّمَتْ أَيْدِيهِمْ) 30:36; 42:48
+- Ubusitani bujya amazi atemba munsi yabyo, bazabamo ubuziraherezo, kandi ni byiza ibihembo by'abakozi! (تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَنِعْمَ أَجْرُ الْعَامِلِينَ) 3:136; 29:58
+- Allah azi ibiri mu ijuru no ku isi, kandi Allah. (اللَّهُ وَيَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَاللَّهُ) 3:29; 49:16
+- Nimwumvire Allah, nimwumvire intumwa; niba muhindukira, ni yo iza kuba inshingano yayo. (أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ فَإِن تَوَلَّوْا فَإِنَّمَا عَلَيْهِ) 24:54; 64:12
+- Bazagira ibihembo byabo hafi y'Umuremyi wabo, kandi nta bwoba buzabaho kuri bo, kandi bo. (فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ) 2:274; 2:277
+- Kandi baravuga bati: "Ese iyo tumaze kuba amagufa n'ubutaka, tuzazurwa mu irema rishya?" (وَقَالُوا أَإِذَا كُنَّا عِظَامًا وَرُفَاتًا أَإِنَّا لَمَبْعُوثُونَ خَلْقًا جَدِيدًا) 17:49; 17:98
+- Kandi ntibabona umuhuzi cyangwa umutabazi uretse Allah. (وَلَا يَجِدُونَ لَهُم مِّن دُونِ اللَّهِ وَلِيًّا وَلَا نَصِيرًا) 4:173; 33:17
+- "Ni bangahe wamaze?" Yavuze ati: "Namaze umunsi umwe cyangwa igice cy'umunsi." Yavuze. (كَمْ لَبِثْتَ قَالَ لَبِثْتُ يَوْمًا أَوْ بَعْضَ يَوْمٍ قَالَ) 2:259; 18:19
+- Ubuziraherezo kugeza ku Munsi w'Umuzuko, ni nde mana itari Allah yazabazanira? (سَرْمَدًا إِلَى يَوْمِ الْقِيَامَةِ مَنْ إِلَهٌ غَيْرُ اللَّهِ يَأْتِيكُم) 28:71; 28:72
+- Ukora ibyiza, umugabo cyangwa umugore, akaba yemeye. (مَنْ عَمِلَ صَالِحًا مِّن ذَكَرٍ أَوْ أُنثَى وَهُوَ مُؤْمِنٌ) 16:97; 40:40
+- Ababuza inzira ya Allah, bakayishaka irambuye, kandi ku munsi w'inkuba. (الَّذِينَ يَصُدُّونَ عَن سَبِيلِ اللَّهِ وَيَبْغُونَهَا عِوَجًا وَهُم بِالْآخِرَةِ) 7:45; 11:19
+- Murye aho mushaka, ariko ntimwegereye icyo giti, mutazaba mu bahonyora. (حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَذِهِ الشَّجَرَةَ فَتَكُونَا مِنَ الظَّالِمِينَ) 2:35; 7:19
+- Vuga uti: "Yemwe bwoko bwanjye! Nimukore nk'uko mubishoboye, nanjye ndakora, muzamenya." (قُلْ يَاقَوْمِ اعْمَلُوا عَلَى مَكَانَتِكُمْ إِنِّي عَامِلٌ فَسَوْفَ تَعْلَمُونَ) 6:135; 39:39
+- Mu by'ukuri, abanyamwaku ni bo bazaba baribasiye ubwabo n'abantu babo ku Munsi w'Umuzuko. (إِنَّ الْخَاسِرِينَ الَّذِينَ خَسِرُوا أَنفُسَهُمْ وَأَهْلِيهِمْ يَوْمَ الْقِيَامَةِ أَلَا) 39:15; 42:45
+- Uyobowe, ayoborera ubwe; n'utegetswe, atereranira ubwe; kandi. (يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا وَمَا) 10:108; 39:41
+- Kandi abahakana baravuga bati: "Kuki atazanyweho igitangaza giturutse ku Muremyi we?" (وَيَقُولُ الَّذِينَ كَفَرُوا لَوْلَا أُنزِلَ عَلَيْهِ آيَةٌ مِّن رَّبِّهِ) 13:7; 13:27
+- We wabagiriye ijoro kugira ngo muruhuke muri ryo, n'umunsi kugira ngo mubone, mu by'ukuri. (الَّذِي جَعَلَ لَكُمُ اللَّيْلَ لِتَسْكُنُوا فِيهِ وَالنَّهَارَ مُبْصِرًا إِنَّ) 10:67; 40:61
+- Mbere y'uko umunsi udafite ubucuruzi cyangwa ubucuti uza. (مِّن قَبْلِ أَن يَأْتِيَ يَوْمٌ لَّا بَيْعٌ فِيهِ وَلَا) 2:254; 14:31
+- Kugira ngo batekereze ko mugenzi wabo adafite umusazi; nta kindi atari umuburuzi. (يَتَفَكَّرُوا مَا بِصَاحِبِهِم مِّن جِنَّةٍ إِنْ هُوَ إِلَّا نَذِيرٌ) 7:184; 34:46
+- Bazabamo ubuziraherezo, ibihano ntibizabuharurirwa, kandi ntibazahabwa akanya. (خَالِدِينَ فِيهَا لَا يُخَفَّفُ عَنْهُمُ الْعَذَابُ وَلَا هُمْ يُنظَرُونَ) 2:162; 3:88
+- Ntuzareke amaso yawe yitegereza ibyo twahaye bamwe muri bo ngo bishimire. (لَا تَمُدَّنَّ عَيْنَيْكَ إِلَى مَا مَتَّعْنَا بِهِ أَزْوَاجًا مِّنْهُمْ) 15:88; 20:131
+- Kandi ntugabanye abantu ibyabo, kandi ntugakwirakwize ibidukikije ku isi. (وَلَا تَبْخَسُوا النَّاسَ أَشْيَاءَهُمْ وَلَا تَعْثَوْا فِي الْأَرْضِ مُفْسِدِينَ) 11:85; 26:183
+- Kandi amahoro nabe ku munsi yavukiye, n'umunsi azapfira, n'umunsi azazurwa ari muzima. (وَسَلَامٌ عَلَيْهِ يَوْمَ وُلِدَ وَيَوْمَ يَمُوتُ وَيَوْمَ يُبْعَثُ حَيًّا) 19:15; 19:33
+- Yemwe bwoko bwanjye! Nimukore nk'uko mubishoboye, nanjye ndakora, muzamenya nde. (يَاقَوْمِ اعْمَلُوا عَلَى مَكَانَتِكُمْ إِنِّي عَامِلٌ فَسَوْفَ تَعْلَمُونَ مَن) 6:135; 11:93
+- Nta n'intumwa yigeze izana igitangaza bitari ukubilira Allah. (وَمَا كَانَ لِرَسُولٍ أَن يَأْتِيَ بِآيَةٍ إِلَّا بِإِذْنِ اللَّهِ) 13:38; 40:78
+- Hanyuma buri muntu azahabwa ibyo yakoze byuzuye, kandi ntibazahonyorwa. (ثُمَّ تُوَفَّى كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ) 2:281; 3:161
+- Umugabo cyangwa umugore, akaba yemeye, abo bazinjira mu ijuru. (مِن ذَكَرٍ أَوْ أُنثَى وَهُوَ مُؤْمِنٌ فَأُولَئِكَ يَدْخُلُونَ الْجَنَّةَ) 4:124; 40:40
+- Nta mwana yigeze abyara, kandi nta mufatanyabikorwa afite mu butware. (لَمْ يَتَّخِذْ وَلَدًا وَلَمْ يَكُن لَّهُ شَرِيكٌ فِي الْمُلْكِ) 17:111; 25:2
+- Uwo Allah ayobora, ni we wayobowe; n'uwo arekera, ntabone. (وَمَن يَهْدِ اللَّهُ فَهُوَ الْمُهْتَدِ وَمَن يُضْلِلْ فَلَن تَجِدَ) 17:97; 18:17
+- Reba uko bakugiriye ingero, baratererana, ntibashobora kubona inzira. (انظُرْ كَيْفَ ضَرَبُوا لَكَ الْأَمْثَالَ فَضَلُّوا فَلَا يَسْتَطِيعُونَ سَبِيلًا) 17:48; 25:9
+- Vuga uti: "Ndatinya ibihano by'umunsi ukomeye niba nirengagije Umuremyi wanjye." (قُلْ إِنِّي أَخَافُ إِنْ عَصَيْتُ رَبِّي عَذَابَ يَوْمٍ عَظِيمٍ) 6:15; 39:13
+- Ubusazi bwabo burahishurirwa, batangira kwikingira n'amababi yo mu ijuru. (بَدَتْ لَهُمَا سَوْآتُهُمَا وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِن وَرَقِ الْجَنَّةِ) 7:22; 20:121
+- Kandi nimuhamagare abo mushobora, batari Allah, niba muri abanyakuri. (وَادْعُوا مَنِ اسْتَطَعْتُم مِّن دُونِ اللَّهِ إِن كُنتُمْ صَادِقِينَ) 10:38; 11:13
+- Ibyo ku isi byose, n'ikindi kingana na byo, kugira ngo bibacungure. (مَّا فِي الْأَرْضِ جَمِيعًا وَمِثْلَهُ مَعَهُ لِيَفْتَدُوا بِهِ مِنْ) 5:36; 39:47
+- Mufate ibyo twabahanye mu komeza, kandi mwibuke ibyari muri byo, kugira ngo mwubahwe. (خُذُوا مَا آتَيْنَاكُم بِقُوَّةٍ وَاذْكُرُوا مَا فِيهِ لَعَلَّكُمْ تَتَّقُونَ) 2:63; 7:171
+- Murarikira umugani mubi utigeze ubaho mbere yanyu? (أَتَأْتُونَ الْفَاحِشَةَ مَا سَبَقَكُم بِهَا مِنْ أَحَدٍ مِّنَ الْعَالَمِينَ) 7:80; 29:28
+- Kandi ibiri mu ijuru no ku isi ni iby'Allah, kandi Allah ni we. (وَلِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَكَانَ اللَّهُ) 4:126; 4:131
+- Ibyaha byabo bibageraho, kandi ibyo basekeraga birabazenguruka. (سَيِّئَاتُ مَا عَمِلُوا وَحَاقَ بِهِم مَّا كَانُوا بِهِ يَسْتَهْزِئُونَ) 16:34; 45:33
+- Intumwa ikomoka muri mwe, ibasomera ibimenyetso byacu, ikababogera, ikabigisha igitabo n'ubwenge. (رَسُولًا مِّنكُمْ يَتْلُو عَلَيْكُمْ آيَاتِنَا وَيُزَكِّيكُمْ وَيُعَلِّمُكُمُ الْكِتَابَ وَالْحِكْمَةَ) 2:151; 62:2
+- Haburitsemo amasoko cumi n'abiri; buri bwoko bwamenya aho bwanyweshera. (مِنْهُ اثْنَتَا عَشْرَةَ عَيْنًا قَدْ عَلِمَ كُلُّ أُنَاسٍ مَّشْرَبَهُمْ) 2:60; 7:160
+- Uretse gutekereza; kandi gutekereza ntacyo bimarira mu kuri. (إِلَّا ظَنًّا إِنَّ الظَّنَّ لَا يُغْنِي مِنَ الْحَقِّ شَيْئًا) 10:36; 53:28
+- Iyo mbaye narangije no guhuhamo umwuka wanjye, nimugoramire mu kumuyorama. (فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ فِيهِ مِن رُّوحِي فَقَعُوا لَهُ سَاجِدِينَ) 15:29; 38:72
+- Iherezo ryiza ry'ibi ni nde? Mu by'ukuri, abahonyora ntibazatsinda. (مَن تَكُونُ لَهُ عَاقِبَةُ الدَّارِ إِنَّهُ لَا يُفْلِحُ الظَّالِمُونَ) 6:135; 28:37
+- Uremye ijuru n'isi, ashobora kurema nk'abo. (الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ قَادِرٌ عَلَى أَن يَخْلُقَ مِثْلَهُمْ) 17:99; 36:81
+- Ku bizerwa bagabo n'abizerwa bagore, hari ubusitani bujya amazi atemba munsi yabyo, bazabamo ubuziraherezo. (الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 9:72; 48:5
+- Niba ubabajije ngo ni nde waremye ijuru n'isi, bavuga ngo "Allah." Vuga. (وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ لَيَقُولُنَّ اللَّهُ قُلِ) 31:25; 39:38
+- Mu by'ukuri, twagejeje ku bantu muri Qor'aniyi ngo ngo ibigereranyo by'ubwoko bwose. (وَلَقَدْ ضَرَبْنَا لِلنَّاسِ فِي هَذَا الْقُرْآنِ مِن كُلِّ مَثَلٍ) 30:58; 39:27
+- Intumwa zacu zigeze kwa Lut, arabababarira, agira ubwoba, avuga. (جَاءَتْ رُسُلُنَا لُوطًا سِيءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًا وَقَالَ) 11:77; 29:33
+- Twabwiye abamarayika ngo "Mwiririreho Adamu," baramwiyoramira, uretse Ibilisi, yanga. (وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا إِبْلِيسَ أَبَى) 2:34; 20:116
+- N'isi twarayirambuye, turamushinga imisozi, turamutera buri kintu cyiza. (وَالْأَرْضَ مَدَدْنَاهَا وَأَلْقَيْنَا فِيهَا رَوَاسِيَ وَأَنبَتْنَا فِيهَا مِن كُلِّ) 15:19; 50:7
+- Bahamagara Allah, bamuhaye idini ryabo, ariko iyo arabakiza ku butaka. (دَعَوُا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ فَلَمَّا نَجَّاهُمْ إِلَى الْبَرِّ) 29:65; 31:32
+- Bazagira ibinyobwa by'amazi atwika, n'ibihano bibabaza, kubera ko bahakanye. (لَهُمْ شَرَابٌ مِّنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْفُرُونَ) 6:70; 10:4
+- Ese twahamagara kitari Allah, kitatwungura cyangwa ngo kitwangiza? (أَنَدْعُو مِن دُونِ اللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا) 6:71; 10:106
+- Ko Allah azi ibiri mu ijuru no ku isi. (أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 5:97; 58:7
 """;

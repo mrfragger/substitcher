@@ -3018,4 +3018,149 @@ Matching Phrases 11 words
 - Gisakripisyo alang sa lain gawas kang Allah. Apan bisan kinsa nga mapugos, nga dili molapas ug dili magbuhat ug daotan, nan sa pagkatinuod, (أُهِلَّ لِغَيْرِ اللَّهِ بِهِ فَمَنِ اضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ) 6:145; 16:115
 - Ug sa diha nga giingnan sila: "Sunda ninyo ang gipadayag ni Allah," sila moingon: "Dili, kami mosunod sa among nakit-an sa among mga katigulangan..." (وَإِذَا قِيلَ لَهُمُ اتَّبِعُوا مَا أَنزَلَ اللَّهُ قَالُوا بَلْ نَتَّبِعُ مَا) 2:170; 31:21
 - Siya miingon: "Oh akong katawhan! Simbaha si Allah; kamo walay lain nga diyos gawas Kaniya. Dili ba kamo mahadlok?" (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 7:65; 23:23
+Matching Phrases 10 words
+
+- Sila nagapanaw sa yuta ug nagatan-aw kon unsa ang kaugmaon sa mga tawo sa una nila. (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ) 12:109; 30:9; 30:42; 35:44; 40:82; 47:10
+- Ug kinsa ang labing dautan kay sa nagpamakak batok kang Allah o naglimod? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا أَوْ كَذَّبَ) 6:21; 7:37; 10:17; 29:68
+- Sa pagkatinuod, ang imong Ginoo mao ang Labing Nasayod kon kinsa ang nagpalayo sa Iyang dalan, ug Siya ang Labing Nasayod. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ مَن يَضِلُّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ) 6:117; 16:125; 53:30; 68:7
+- Wala ba sila managpanaw sa yuta ug nakita kon unsa ang kaugmaon sa mga tawo sa una nila? (أَوَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن) 30:9; 35:44; 40:82; 47:10
+- Sila adunay ilang balus diha sa ilang Ginoo, ug walay kahadlok nga modangat kanila, ug sila dili makasubo. (فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ) 2:62; 2:262; 2:274; 2:277
+- Ug kadtong mga mitoo ug nagbuhat ug maayong mga buhat gipasulod sa mga hardin nga may mga suba nga nag-agay ilalom niini. (وَأُدْخِلَ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 14:23; 22:14; 22:23; 47:12
+- Siya miingon: "O akong katawhan! Simbaha si Allah, wala kamo lain nga diyos gawas Kaniya, dili ba kamo mahadlok?" (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا) 7:65; 11:84; 23:23
+- Ang ilang mga bahandi ug ang ilang mga anak dili makapuslan kanila batok kang Allah bisan unsa, ug kadtong mga tawhana. (لَن تُغْنِيَ عَنْهُمْ أَمْوَالُهُمْ وَلَا أَوْلَادُهُم مِّنَ اللَّهِ شَيْئًا وَأُولَئِكَ) 3:10; 3:116; 58:17
+- Mga hardin nga may mga suba nga nag-agay ilalom niini, magpabilin sila didto sa walay katapusan, ug kana mao ang dako nga kalampusan. (جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَذَلِكَ الْفَوْزُ الْعَظِيمُ) 4:13; 9:89
+- Wala ba moabot kanila ang balita sa mga tawo sa una nila, sa katawhan ni Noah, Ad ug Thamud? (أَلَمْ يَأْتِهِمْ نَبَأُ الَّذِينَ مِن قَبْلِهِمْ قَوْمِ نُوحٍ وَعَادٍ وَثَمُودَ) 9:70; 14:9
+- Kinsa ang akong mga magtatabang paingon kang Allah? Ang mga disipulo miingon: "Kami ang mga magtatabang ni Allah, kami mitoo." (مَنْ أَنصَارِي إِلَى اللَّهِ قَالَ الْحَوَارِيُّونَ نَحْنُ أَنصَارُ اللَّهِ آمَنَّا) 3:52; 61:14
+- Ang imong Ginoo mao ang Labing Nasayod kon kinsa ang nagpalayo sa Iyang dalan, ug Siya ang Labing Nasayod sa mga giyahan. (رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ) 16:125; 68:7
+- Kana tungod kay si Allah mao ang Kamatuoran, ug kadtong ilang ginatawag gawas Kaniya mao ang kabakakan. (ذَلِكَ بِأَنَّ اللَّهَ هُوَ الْحَقُّ وَأَنَّ مَا يَدْعُونَ مِن دُونِهِ) 22:62; 31:30
+- Ug bisan kinsa ang motuman kang Allah ug sa Iyang Sugo, si Allah magpasulod kaniya ngadto sa mga hardin nga may mga suba nga nag-agay ilalom niini. (وَمَن يُطِعِ اللَّهَ وَرَسُولَهُ يُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 4:13; 48:17
+- Sa pagkatinuod, Siya nagdili kaninyo sa patay nga mananap, dugo, karne sa baboy, ug kadtong gisakripisyo alang sa uban. (إِنَّمَا حَرَّمَ عَلَيْكُمُ الْمَيْتَةَ وَالدَّمَ وَلَحْمَ الْخِنزِيرِ وَمَا أُهِلَّ) 2:173; 16:115
+- Nga kamo dili mosimba gawas kang Allah; ako nahadlok alang kaninyo sa silot sa Dakong Adlaw. (أَن لَّا تَعْبُدُوا إِلَّا اللَّهَ إِنِّي أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ) 11:26; 46:21
+- Kana mao ang mga balita sa wala makita nga among gipadayag kanimo; ikaw wala didto uban kanila sa dihang sila naghimog desisyon. (ذَلِكَ مِنْ أَنبَاءِ الْغَيْبِ نُوحِيهِ إِلَيْكَ وَمَا كُنتَ لَدَيْهِمْ إِذْ) 3:44; 12:102
+- Natingala ba kamo nga may pahinumdom nga midangat kaninyo gikan sa inyong Ginoo pinaagi sa usa ka tawo gikan kaninyo aron sa pagpasidaan kaninyo? (أَوَعَجِبْتُمْ أَن جَاءَكُمْ ذِكْرٌ مِّن رَّبِّكُمْ عَلَى رَجُلٍ مِّنكُمْ لِيُنذِرَكُمْ) 7:63; 7:69
+- Isulti: "Sa pagkatinuod, ako gidid-an sa pagsimba sa inyong ginatawag gawas kang Allah." (قُلْ إِنِّي نُهِيتُ أَنْ أَعْبُدَ الَّذِينَ تَدْعُونَ مِن دُونِ اللَّهِ) 6:56; 40:66
+- Gawas sa ilang mga asawa o kadtong gipanag-iya sa ilang mga kamot nga tuo, kay sila dili basolon. (إِلَّا عَلَى أَزْوَاجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَانُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ) 23:6; 70:30
+- Tungod kay si Allah nagpasulod sa kagabhion ngadto sa adlaw ug nagpasulod sa adlaw ngadto sa kagabhion. (بِأَنَّ اللَّهَ يُولِجُ اللَّيْلَ فِي النَّهَارِ وَيُولِجُ النَّهَارَ فِي اللَّيْلِ) 22:61; 31:29
+- Kalayo, ug miingon siya sa iyang pamilya: "Paghulat kamo, ako nakakita ug kalayo, basin makadala ako kaninyo ug usa ka butang gikan niini." (نَارًا فَقَالَ لِأَهْلِهِ امْكُثُوا إِنِّي آنَسْتُ نَارًا لَّعَلِّي آتِيكُم مِّنْهَا) 20:10; 28:29
+- Siya miingon: "Ako labaw pa kay kaniya; Gihimo mo ako gikan sa kalayo, ug siya gihimo mo gikan sa yuta." (قَالَ أَنَا خَيْرٌ مِّنْهُ خَلَقْتَنِي مِن نَّارٍ وَخَلَقْتَهُ مِن طِينٍ) 7:12; 38:76
+- Ug sa dihang giingnan sila: "Umari kamo ngadto sa gihatag sa Allah ug ngadto sa Sugo." (وَإِذَا قِيلَ لَهُمْ تَعَالَوْا إِلَى مَا أَنزَلَ اللَّهُ وَإِلَى الرَّسُولِ) 4:61; 5:104
+- Ug ayaw pagsubo tungod kanila, ug ayaw pagkaguol tungod sa ilang mga laraw. (وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُ فِي ضَيْقٍ مِّمَّا يَمْكُرُونَ) 16:127; 27:70
+- Ug kon si Allah maghikap kanimo ug kadaot, walay makapapawala niini gawas Kaniya, ug kon. (وَإِن يَمْسَسْكَ اللَّهُ بِضُرٍّ فَلَا كَاشِفَ لَهُ إِلَّا هُوَ وَإِن) 6:17; 10:107
+- Sa una nila, ang mga kaliwatan nga naglakaw sa ilang mga puloy-anan; sa pagkatinuod, niana mga timaan. (قَبْلَهُم مِّنَ الْقُرُونِ يَمْشُونَ فِي مَسَاكِنِهِمْ إِنَّ فِي ذَلِكَ لَآيَاتٍ) 20:128; 32:26
+- Ug among gibutang ang mga tabon sa ilang mga kasingkasing aron dili nila kini masabtan, ug sa ilang mga dalunggan kabungol, ug kon. (وَجَعَلْنَا عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا وَإِن) 6:25; 18:57
+- Ang ilang mga sugo midangat kanila uban sa mga pamatuod nga tin-aw, apan si Allah dili ang magdaugdaug kanila, kondili sila ang nagdaugdaug sa ilang kaugalingon. (رُسُلُهُم بِالْبَيِّنَاتِ فَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ وَلَكِن كَانُوا أَنفُسَهُمْ يَظْلِمُونَ) 9:70; 30:9
+- Ug sa yuta, ug wala kamo gawas kang Allah bisan tabang o manluluwas. (وَالْأَرْضِ وَمَا لَكُم مِّن دُونِ اللَّهِ مِن وَلِيٍّ وَلَا نَصِيرٍ) 2:107; 42:31
+- Unya kamo pagabalikon ngadto sa Nahibalo sa dili makita ug makita, ug Siya magpahibalo kaninyo sa inyong mga binuhatan. (ثُمَّ تُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ) 9:94; 62:8
+- Ang kagabhion aron kamo magpahulay niini, ug ang adlaw aron kamo makakita; sa pagkatinuod, niana mga timaan alang sa katawhan nga naghunahuna. (اللَّيْلَ لِتَسْكُنُوا فِيهِ وَالنَّهَارَ مُبْصِرًا إِنَّ فِي ذَلِكَ لَآيَاتٍ لِّقَوْمٍ) 10:67; 27:86
+- Ug kadtong gipadayag kanimo gikan sa imong Ginoo makapadaghan sa kadaghanan kanila ug pag-alsa ug pagkadili-magtutuo. (وَلَيَزِيدَنَّ كَثِيرًا مِّنْهُم مَّا أُنزِلَ إِلَيْكَ مِن رَّبِّكَ طُغْيَانًا وَكُفْرًا) 5:64; 5:68
+- Siya miingon: "O akong katawhan! Unsa man ang inyong hunahuna kon ako diha sa tin-aw nga pamatuod gikan sa akong Ginoo ug Siya naghatag kanako." (قَالَ يَاقَوْمِ أَرَأَيْتُمْ إِن كُنتُ عَلَى بَيِّنَةٍ مِّن رَّبِّي وَآتَانِي) 11:28; 11:63
+- Ug sila nagaingon: "Ngano nga walay tilimad-on nga gipadayag kaniya gikan sa iyang Ginoo?" Isulti: "Sa pagkatinuod." (وَيَقُولُونَ لَوْلَا أُنزِلَ عَلَيْهِ آيَةٌ مِّن رَّبِّهِ فَقُلْ إِنَّمَا) 10:20; 29:50
+- Sa wala pa moabot ang Adlaw nga walay pagbalik gikan kang Allah. (مِن قَبْلِ أَن يَأْتِيَ يَوْمٌ لَّا مَرَدَّ لَهُ مِنَ اللَّهِ) 30:43; 42:47
+- Kana mao ang gasa ni Allah, Iyang gihatag kini kang bisan kinsa nga Iyang gusto, ug si Allah mao ang Tag-iya sa dakong gasa. (ذَلِكَ فَضْلُ اللَّهِ يُؤْتِيهِ مَن يَشَاءُ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ) 57:21; 62:4
+- Ug sa pagkatinuod, alang kaninyo sa mga hayop adunay leksyon; among gipainom kaninyo ang unsa ang anaa sa ilang mga tiyan. (وَإِنَّ لَكُمْ فِي الْأَنْعَامِ لَعِبْرَةً نُّسْقِيكُم مِّمَّا فِي بُطُونِهِ) 16:66; 23:21
+- Nga kini mao ang kamatuoran gikan sa ilang Ginoo, ug si Allah dili mahibalo sa ilang mga binuhatan. (أَنَّهُ الْحَقُّ مِن رَّبِّهِمْ وَمَا اللَّهُ بِغَافِلٍ عَمَّا يَعْمَلُونَ) 2:144; 2:149
+- Sa ilang atubangan ug sa ilang likuran, nga kamo dili mosimba gawas kang Allah. (مِن بَيْنِ أَيْدِيهِمْ وَمِنْ خَلْفِهِمْ أَلَّا تَعْبُدُوا إِلَّا اللَّهَ) 41:14; 46:21
+- Sa pagkatinuod, kamo moduol sa mga lalaki uban sa kahayag gawas sa mga babaye; hinuon, kamo mga tawo nga molapas sa utlanan. (إِنَّكُمْ لَتَأْتُونَ الرِّجَالَ شَهْوَةً مِّن دُونِ النِّسَاءِ بَلْ أَنتُمْ قَوْمٌ) 7:81; 27:55
+- Magpabilin sila didto hangtud sa kahangtoran samtang ang mga langit ug yuta magpadayon, gawas kon ang imong Ginoo magbuot. (خَالِدِينَ فِيهَا مَا دَامَتِ السَّمَاوَاتُ وَالْأَرْضُ إِلَّا مَا شَاءَ رَبُّكَ) 11:107; 11:108
+- Kadtong naa sa mga langit ug kadtong naa sa yuta, gawas kang kinsa ang gusto ni Allah. (مَن فِي السَّمَاوَاتِ وَمَن فِي الْأَرْضِ إِلَّا مَن شَاءَ اللَّهُ) 27:87; 39:68
+- Didto sila dayandayanan ug mga pulseras nga bulawan ug mga perlas, ug ang ilang mga bisti didto mga seda. (يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِن ذَهَبٍ وَلُؤْلُؤًا وَلِبَاسُهُمْ فِيهَا حَرِيرٌ) 22:23; 35:33
+- Ug nagpaubos sa langit ug tubig, ug pinaagi niini nagpatubo ug mga prutas ingon nga pagkaon alang kaninyo. (وَأنزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجَ بِهِ مِنَ الثَّمَرَاتِ رِزْقًا لَّكُمْ) 2:22; 14:32
+- Ug sa dihang among gikuha ang inyong kasabotan ug gipataas ang bukid sa Tur sa inyong ibabaw: "Kuhaa ang among gihatag kaninyo uban sa kusog." (وَإِذْ أَخَذْنَا مِيثَاقَكُمْ وَرَفَعْنَا فَوْقَكُمُ الطُّورَ خُذُوا مَا آتَيْنَاكُم بِقُوَّةٍ) 2:63; 2:93
+- Ug siya milikay kanila ug miingon: "O akong katawhan! Ako nagpadayag kaninyo sa mensahe sa akong Ginoo ug mitambag kaninyo." (فَتَوَلَّى عَنْهُمْ وَقَالَ يَاقَوْمِ لَقَدْ أَبْلَغْتُكُمْ رِسَالَةَ رَبِّي وَنَصَحْتُ لَكُمْ) 7:79; 7:93
+- Ubos kanila ang mga suba nga nag-agay, didto sila dayandayanan ug mga pulseras nga bulawan. (تَجْرِي مِن تَحْتِهِمُ الْأَنْهَارُ يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِن ذَهَبٍ) 18:31; 22:23
+- Kon sila adunay tanan nga naa sa yuta ug sama niini uban niini aron sa pagtubos sa ilang kaugalingon. (لَوْ أَنَّ لَهُم مَّا فِي الْأَرْضِ جَمِيعًا وَمِثْلَهُ مَعَهُ لِيَفْتَدُوا) 5:36; 13:18
+- Walay bisan unsa nga buhi nga binuhat, apan Siya naglangan kanila ngadto sa gitakdang panahon, ug kon ang ilang panahon moabot. (مِن دَابَّةٍ وَلَكِن يُؤَخِّرُهُمْ إِلَى أَجَلٍ مُّسَمًّى فَإِذَا جَاءَ أَجَلُهُمْ) 16:61; 35:45
+- Among gibuhat kamo gikan sa yuta, unya gikan sa tulo sa binhi, unya gikan sa dugo nga nagpatig-a, unya. (خَلَقْنَاكُم مِّن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ مِنْ عَلَقَةٍ ثُمَّ) 22:5; 40:67
+- Ug si Allah maghukom tali kanila sa Adlaw sa Pagkabanhaw mahitungod sa ilang mga kalainan. (فَاللَّهُ يَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 2:113; 22:69
+- Midangat kanimo ang kahibalo, ikaw walay bisan tabang o manluluwas gikan kang Allah. (جَاءَكَ مِنَ الْعِلْمِ مَا لَكَ مِنَ اللَّهِ مِن وَلِيٍّ وَلَا) 2:120; 13:37
+- Ug kon among gasahan ang tawo, siya molikay ug mobiya, ug kon ang kadaot moduot kaniya. (وَإِذَا أَنْعَمْنَا عَلَى الْإِنسَانِ أَعْرَضَ وَنَأَى بِجَانِبِهِ وَإِذَا مَسَّهُ الشَّرُّ) 17:83; 41:51
+- Ug walay bisan unsa nga mas gamay o mas dako niana nga wala sa tin-aw nga basahon. (وَلَا أَصْغَرَ مِن ذَلِكَ وَلَا أَكْبَرَ إِلَّا فِي كِتَابٍ مُّبِينٍ) 10:61; 34:3
+
+Matching Phrases 9 words
+
+- Ug siya miingon: "O akong katawhan! Simbaha si Allah, wala kamo lain nga diyos gawas Kaniya." (فَقَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ) 7:59; 7:65; 7:73; 7:85; 11:50; 11:61; 11:84; 23:23
+- Wala ba sila managpanaw sa yuta ug nakita kon unsa ang kaugmaon sa mga tawo sa una nila? (أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ) 12:109; 30:9; 35:44; 40:21; 40:82; 47:10
+- Ang ilang balus anaa sa ilang Ginoo, ug walay kahadlok nga modangat kanila, ug sila dili makasubo. (أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ) 2:62; 2:112; 2:262; 2:274; 2:277
+- Sila nagapanaw sa yuta ug nagatan-aw kon unsa ang kaugmaon sa mga tawo sa una nila. (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن) 30:9; 30:42; 35:44; 40:82; 47:10
+- Sa yuta ug nagatan-aw kon unsa ang kaugmaon sa mga tawo sa una nila. (فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ) 30:9; 30:42; 35:44; 40:82; 47:10
+- Ug kinsa ang labing dautan kay sa nagpamakak batok kang Allah o naglimod? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا أَوْ) 6:21; 6:93; 7:37; 10:17; 29:68
+- Ug kon si Allah magbuot ug usa ka butang, Siya moingon lamang niini: "Mahimo!" ug kini mahimo. (وَإِذَا قَضَى أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُن فَيَكُونُ) 2:117; 3:47; 19:35; 40:68
+- Ug wala kamo gawas kang Allah bisan tabang o manluluwas. (وَمَا لَكُم مِّن دُونِ اللَّهِ مِن وَلِيٍّ وَلَا نَصِيرٍ) 2:107; 9:116; 29:22; 42:31
+- Ako magpasaylo sa ilang mga sala ug magpasulod kanila ngadto sa mga hardin nga may mga suba nga nag-agay ilalom niini. (لَأُكَفِّرَنَّ عَنْهُمْ سَيِّئَاتِهِمْ وَلَأُدْخِلَنَّهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 3:195; 5:12; 64:9; 66:8
+- Kami magpasulod kanila ngadto sa mga hardin nga may mga suba nga nag-agay ilalom niini, magpabilin sila didto sa walay katapusan. (سَنُدْخِلُهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا) 4:57; 4:122; 64:9; 65:11
+- Ang imong Ginoo mao ang Labing Nasayod kon kinsa ang nagpalayo sa Iyang dalan, ug Siya ang Labing Nasayod. (رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ) 16:125; 53:30; 68:7
+- Kamo pagabalikon ngadto sa Nahibalo sa dili makita ug makita, ug Siya magpahibalo kaninyo sa inyong mga binuhatan. (تُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ) 9:94; 9:105; 62:8
+- Inyong mga anak nga lalaki ilang gipatay, ug inyong mga babaye ilang gibilin nga buhi; ug niana usa ka dako nga pagsulay gikan sa inyong Ginoo. (أَبْنَاءَكُمْ وَيَسْتَحْيُونَ نِسَاءَكُمْ وَفِي ذَلِكُم بَلَاءٌ مِّن رَّبِّكُمْ عَظِيمٌ) 2:49; 7:141; 14:6
+- Sa pagkatinuod, ang imong Ginoo mao ang Labing Nasayod kon kinsa ang nagpalayo sa Iyang dalan, ug Siya. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ) 16:125; 53:30; 68:7
+- Kang Allah nga Iya ang anaa sa mga langit ug ang anaa sa yuta. (اللَّهِ الَّذِي لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 14:2; 34:1; 42:53
+- Taliwala sa mga katawhan nga miagi sa una ninyo, gikan sa mga jinn ug mga tawo. (فِي أُمَمٍ قَدْ خَلَتْ مِن قَبْلِكُم مِّنَ الْجِنِّ وَالْإِنسِ) 7:38; 41:25; 46:18
+- Simbaha si Allah, wala kamo lain nga diyos gawas Kaniya, dili ba kamo mahadlok? (اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 7:65; 23:23; 23:32
+- Ug among gibutang ang mga tabon sa ilang mga kasingkasing aron dili nila kini masabtan, ug sa ilang mga dalunggan kabungol. (وَجَعَلْنَا عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا) 6:25; 17:46; 18:57
+- Siya maghukom tali kanila sa Adlaw sa Pagkabanhaw mahitungod sa ilang mga kalainan. (يَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 2:113; 16:124; 22:69
+- Siya miingon: "O akong katawhan! Unsa man ang inyong hunahuna kon ako diha sa tin-aw nga pamatuod gikan sa akong Ginoo?" (قَالَ يَاقَوْمِ أَرَأَيْتُمْ إِن كُنتُ عَلَى بَيِّنَةٍ مِّن رَّبِّي) 11:28; 11:63; 11:88
+- Kana tungod sa gipadala sa inyong mga kamot, ug si Allah dili magdaugdaug sa Iyang mga sulugoon. (ذَلِكَ بِمَا قَدَّمَتْ أَيْدِيكُمْ وَأَنَّ اللَّهَ لَيْسَ بِظَلَّامٍ لِّلْعَبِيدِ) 3:182; 8:51; 22:10
+- Sila adunay kaulawan sa kalibutan ug sila adunay dako nga silot sa Hereafter. (لَهُمْ فِي الدُّنْيَا خِزْيٌ وَلَهُمْ فِي الْآخِرَةِ عَذَابٌ عَظِيمٌ) 2:114; 5:41
+- Ang anaa sa mga langit ug ang anaa sa yuta, ug si Allah igo na ingon nga Tigpanalipod. (مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَكَفَى بِاللَّهِ وَكِيلًا) 4:132; 4:171
+- Gawas niadtong mga mitoo ug nagbuhat ug maayong mga buhat; sila adunay balus nga walay katapusan. (إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ) 84:25; 95:6
+- Nga kamo mag-amba Kanako ug unsa ang wala ninyo kahibaloi; busa ayaw sila pagtuman. (لِتُشْرِكَ بِي مَا لَيْسَ لَكَ بِهِ عِلْمٌ فَلَا تُطِعْهُمَا) 29:8; 31:15
+- Sa pagkatinuod, kini usa ka pahinumdom; busa bisan kinsa ang gusto, maghimo ug dalan paingon sa iyang Ginoo. (إِنَّ هَذِهِ تَذْكِرَةٌ فَمَن شَاءَ اتَّخَذَ إِلَى رَبِّهِ سَبِيلًا) 73:19; 76:29
+- Ug bisan kinsa ang magpasalamat, nagapasalamat alang sa iyang kaugalingon; ug bisan kinsa ang maglimod. (وَمَن شَكَرَ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِ وَمَن كَفَرَ فَإِنَّ) 27:40; 31:12
+- Kadtong mga nagtukod sa pag-ampo ug naghatag sa zakat, ug sila sa Hereafter mao ang mga naniniwala. (الَّذِينَ يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُم بِالْآخِرَةِ هُمْ يُوقِنُونَ) 27:3; 31:4
+- Kang Abraham, Ishmael, Isaac, Jacob ug sa mga tribo, ug unsa ang gihatag kang Moses ug Jesus. (إِبْرَاهِيمَ وَإِسْمَاعِيلَ وَإِسْحَاقَ وَيَعْقُوبَ وَالْأَسْبَاطِ وَمَا أُوتِيَ مُوسَى وَعِيسَى) 2:136; 3:84
+- Pinaagi sa mga grupo, hangtud kon sila moabut niini, ang mga pultahan niini maablihan, ug ang mga tigbantay niini moingon kanila. (زُمَرًا حَتَّى إِذَا جَاءُوهَا فُتِحَتْ أَبْوَابُهَا وَقَالَ لَهُمْ خَزَنَتُهَا) 39:71; 39:73
+- Si Allah dili modakop kaninyo tungod sa walay pulos sa inyong mga panumpa, apan Siya modakop kaninyo tungod sa. (لَّا يُؤَاخِذُكُمُ اللَّهُ بِاللَّغْوِ فِي أَيْمَانِكُمْ وَلَكِن يُؤَاخِذُكُم بِمَا) 2:225; 5:89
+- Kalooy, sila nalipay niini, ug kon ang kadaot moduot kanila tungod sa gipadala sa ilang mga kamot. (رَحْمَةً فَرِحُوا بِهَا وَإِن تُصِبْهُمْ سَيِّئَةٌ بِمَا قَدَّمَتْ أَيْدِيهِمْ) 30:36; 42:48
+- Mga hardin nga may mga suba nga nag-agay ilalom niini, magpabilin sila didto sa walay katapusan, ug unsa ka nindot ang balus sa mga nagbuhat. (تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَنِعْمَ أَجْرُ الْعَامِلِينَ) 3:136; 29:58
+- Si Allah ug Siya nahibalo sa unsa ang naa sa mga langit ug unsa ang naa sa yuta, ug si Allah. (اللَّهُ وَيَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَاللَّهُ) 3:29; 49:16
+- Tumana si Allah ug tumana ang Sugo; apan kon kamo molikay, nan ang iyang katungdanan. (أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ فَإِن تَوَلَّوْا فَإِنَّمَا عَلَيْهِ) 24:54; 64:12
+- Sila adunay ilang balus diha sa ilang Ginoo, ug walay kahadlok nga modangat kanila, ug sila. (فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ) 2:274; 2:277
+- Ug sila miingon: "Kon kami mahimong mga bukog ug mga abog, kami ba pagabanhawon ingon nga bag-ong linalang?" (وَقَالُوا أَإِذَا كُنَّا عِظَامًا وَرُفَاتًا أَإِنَّا لَمَبْعُوثُونَ خَلْقًا جَدِيدًا) 17:49; 17:98
+- Ug sila dili makakaplag alang sa ilang kaugalingon gawas kang Allah bisan tabang o manluluwas. (وَلَا يَجِدُونَ لَهُم مِّن دُونِ اللَّهِ وَلِيًّا وَلَا نَصِيرًا) 4:173; 33:17
+- "Pila ka dugay ka nagpabilin?" Siya miingon: "Nagpabilin ako usa ka adlaw o bahin sa adlaw." Siya miingon. (كَمْ لَبِثْتَ قَالَ لَبِثْتُ يَوْمًا أَوْ بَعْضَ يَوْمٍ قَالَ) 2:259; 18:19
+- Hangtud sa Adlaw sa Pagkabanhaw, kinsa man ang diyos gawas kang Allah nga mohatag kaninyo? (سَرْمَدًا إِلَى يَوْمِ الْقِيَامَةِ مَنْ إِلَهٌ غَيْرُ اللَّهِ يَأْتِيكُم) 28:71; 28:72
+- Bisan kinsa ang nagbuhat ug maayo, lalaki o babaye, ug siya usa ka magtutuo. (مَنْ عَمِلَ صَالِحًا مِّن ذَكَرٍ أَوْ أُنثَى وَهُوَ مُؤْمِنٌ) 16:97; 40:40
+- Kadtong mga nagpugong sa dalan ni Allah ug nagtinguha sa pagtuis niini, ug sila sa Hereafter. (الَّذِينَ يَصُدُّونَ عَن سَبِيلِ اللَّهِ وَيَبْغُونَهَا عِوَجًا وَهُم بِالْآخِرَةِ) 7:45; 11:19
+- Kaon kamo bisan asa ninyo gusto, apan ayaw pagduol niining kahoya, kay kamo mahimong mga dautan. (حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَذِهِ الشَّجَرَةَ فَتَكُونَا مِنَ الظَّالِمِينَ) 2:35; 7:19
+- Isulti: "O akong katawhan! Buhat kamo sumala sa inyong kahimtang, ako nagabuhat, ug sa dili madugay kamo makahibalo." (قُلْ يَاقَوْمِ اعْمَلُوا عَلَى مَكَانَتِكُمْ إِنِّي عَامِلٌ فَسَوْفَ تَعْلَمُونَ) 6:135; 39:39
+- Sa pagkatinuod, ang mga tigkapildi mao kadtong mga nakapildi sa ilang kaugalingon ug sa ilang mga pamilya sa Adlaw sa Pagkabanhaw, oo. (إِنَّ الْخَاسِرِينَ الَّذِينَ خَسِرُوا أَنفُسَهُمْ وَأَهْلِيهِمْ يَوْمَ الْقِيَامَةِ أَلَا) 39:15; 42:45
+- Bisan kinsa ang magiyahan, nagagiya alang sa iyang kaugalingon; ug bisan kinsa ang magpalayo, nagapalayo alang sa iyang kaugalingon, ug. (يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا وَمَا) 10:108; 39:41
+- Ug kadtong mga midumili motuo nagaingon: "Ngano nga walay tilimad-on nga gipadayag kaniya gikan sa iyang Ginoo?" (وَيَقُولُ الَّذِينَ كَفَرُوا لَوْلَا أُنزِلَ عَلَيْهِ آيَةٌ مِّن رَّبِّهِ) 13:7; 13:27
+- Siya nga naghimo kaninyo sa kagabhion aron kamo magpahulay niini ug sa adlaw aron kamo makakita, sa pagkatinuod. (الَّذِي جَعَلَ لَكُمُ اللَّيْلَ لِتَسْكُنُوا فِيهِ وَالنَّهَارَ مُبْصِرًا إِنَّ) 10:67; 40:61
+- Sa wala pa moabot ang Adlaw nga walay pagbaligya ug walay. (مِّن قَبْلِ أَن يَأْتِيَ يَوْمٌ لَّا بَيْعٌ فِيهِ وَلَا) 2:254; 14:31
+- Sila maghunahuna nga ang ilang kauban walay kabuang; siya usa lamang ka tigpasidaan. (يَتَفَكَّرُوا مَا بِصَاحِبِهِم مِّن جِنَّةٍ إِنْ هُوَ إِلَّا نَذِيرٌ) 7:184; 34:46
+- Magpabilin sila didto sa walay katapusan, ang silot dili pagapagaan kanila, ug sila dili hatagan ug palugway. (خَالِدِينَ فِيهَا لَا يُخَفَّفُ عَنْهُمُ الْعَذَابُ وَلَا هُمْ يُنظَرُونَ) 2:162; 3:88
+- Ayaw pagtuyhad ang imong mga mata ngadto sa among gihatag nga kalipay sa pipila kanila. (لَا تَمُدَّنَّ عَيْنَيْكَ إِلَى مَا مَتَّعْنَا بِهِ أَزْوَاجًا مِّنْهُمْ) 15:88; 20:131
+- Ug ayaw pagpakunhod sa mga butang sa mga tawo, ug ayaw paghimo ug kasamok sa yuta. (وَلَا تَبْخَسُوا النَّاسَ أَشْيَاءَهُمْ وَلَا تَعْثَوْا فِي الْأَرْضِ مُفْسِدِينَ) 11:85; 26:183
+- Ug ang kalinawan maanaa kaniya sa adlaw nga siya natawo, ug sa adlaw nga siya mamatay, ug sa adlaw nga siya pagabanhawon nga buhi. (وَسَلَامٌ عَلَيْهِ يَوْمَ وُلِدَ وَيَوْمَ يَمُوتُ وَيَوْمَ يُبْعَثُ حَيًّا) 19:15; 19:33
+- O akong katawhan! Buhat kamo sumala sa inyong kahimtang, ako nagabuhat, ug sa dili madugay kamo makahibalo kon kinsa. (يَاقَوْمِ اعْمَلُوا عَلَى مَكَانَتِكُمْ إِنِّي عَامِلٌ فَسَوْفَ تَعْلَمُونَ مَن) 6:135; 11:93
+- Ug kini dili alang sa usa ka Sugo nga magdala ug tilimad-on gawas uban sa pagtugot ni Allah. (وَمَا كَانَ لِرَسُولٍ أَن يَأْتِيَ بِآيَةٍ إِلَّا بِإِذْنِ اللَّهِ) 13:38; 40:78
+- Unya ang matag kalag pagabayran sa hingpit sa unsa ang iyang nakuha, ug sila dili pagadaugdaugon. (ثُمَّ تُوَفَّى كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ) 2:281; 3:161
+- Lalaki o babaye, ug siya usa ka magtutuo, nan kadtong mga tawhana mosulod sa paraiso. (مِن ذَكَرٍ أَوْ أُنثَى وَهُوَ مُؤْمِنٌ فَأُولَئِكَ يَدْخُلُونَ الْجَنَّةَ) 4:124; 40:40
+- Siya wala makabaton ug anak, ug wala Siya kauban sa paghari. (لَمْ يَتَّخِذْ وَلَدًا وَلَمْ يَكُن لَّهُ شَرِيكٌ فِي الْمُلْكِ) 17:111; 25:2
+- Ug bisan kinsa ang giyahan ni Allah, siya mao ang giyahan; ug bisan kinsa ang Iyang ipapalayo, ikaw dili makakaplag. (وَمَن يَهْدِ اللَّهُ فَهُوَ الْمُهْتَدِ وَمَن يُضْلِلْ فَلَن تَجِدَ) 17:97; 18:17
+- Tan-awa kon unsaon nila paghatag kanimo ug mga panig-ingnan, ug sila nagpalayo, ug sila dili makakaplag ug dalan. (انظُرْ كَيْفَ ضَرَبُوا لَكَ الْأَمْثَالَ فَضَلُّوا فَلَا يَسْتَطِيعُونَ سَبِيلًا) 17:48; 25:9
+- Isulti: "Ako nahadlok kon ako mosupak sa akong Ginoo, sa silot sa Dakong Adlaw." (قُلْ إِنِّي أَخَافُ إِنْ عَصَيْتُ رَبِّي عَذَابَ يَوْمٍ عَظِيمٍ) 6:15; 39:13
+- Ang ilang mga kinatawo nahimong dayag kanila, ug sila misugod sa pagtabon sa ilang kaugalingon sa mga dahon sa paraiso. (بَدَتْ لَهُمَا سَوْآتُهُمَا وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِن وَرَقِ الْجَنَّةِ) 7:22; 20:121
+- Ug tawga kadtong inyong mahimo gawas kang Allah, kon kamo mga matinuoron. (وَادْعُوا مَنِ اسْتَطَعْتُم مِّن دُونِ اللَّهِ إِن كُنتُمْ صَادِقِينَ) 10:38; 11:13
+- Ang tanan nga naa sa yuta ug sama niini uban niini aron sa pagtubos sa ilang kaugalingon. (مَّا فِي الْأَرْضِ جَمِيعًا وَمِثْلَهُ مَعَهُ لِيَفْتَدُوا بِهِ مِنْ) 5:36; 39:47
+- Kuhaa ang among gihatag kaninyo uban sa kusog, ug hinumdomi ang unsa ang naa niini, aron kamo mahadlok. (خُذُوا مَا آتَيْنَاكُم بِقُوَّةٍ وَاذْكُرُوا مَا فِيهِ لَعَلَّكُمْ تَتَّقُونَ) 2:63; 7:171
+- Moanha ba kamo sa mahugaw nga buhat nga walay bisan kinsa sa mga kalibutan ang nag-una kaninyo niini? (أَتَأْتُونَ الْفَاحِشَةَ مَا سَبَقَكُم بِهَا مِنْ أَحَدٍ مِّنَ الْعَالَمِينَ) 7:80; 29:28
+- Ug kang Allah ang anaa sa mga langit ug ang anaa sa yuta, ug si Allah mao ang. (وَلِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَكَانَ اللَّهُ) 4:126; 4:131
+- Ang mga daotan nga ilang gibuhat midangat kanila, ug kadtong ilang gikataw-an midangat kanila. (سَيِّئَاتُ مَا عَمِلُوا وَحَاقَ بِهِم مَّا كَانُوا بِهِ يَسْتَهْزِئُونَ) 16:34; 45:33
+- Usa ka Sugo gikan kaninyo nga nagbasa kaninyo sa among mga bersikulo ug nagputli kaninyo ug nagtudlo kaninyo sa Basahon ug Kaalam. (رَسُولًا مِّنكُمْ يَتْلُو عَلَيْكُمْ آيَاتِنَا وَيُزَكِّيكُمْ وَيُعَلِّمُكُمُ الْكِتَابَ وَالْحِكْمَةَ) 2:151; 62:2
+- Gikan niini napulog duha ka tubod ang nangagay; ang matag grupo nakahibalo sa ilang lugar nga pang-inom. (مِنْهُ اثْنَتَا عَشْرَةَ عَيْنًا قَدْ عَلِمَ كُلُّ أُنَاسٍ مَّشْرَبَهُمْ) 2:60; 7:160
+- Gawas sa pagpanaghap; sa pagkatinuod, ang pagpanaghap dili makatabang batok sa kamatuoran bisan unsa. (إِلَّا ظَنًّا إِنَّ الظَّنَّ لَا يُغْنِي مِنَ الْحَقِّ شَيْئًا) 10:36; 53:28
+- Busa kon ako makahimo kaniya nga hingpit ug mohuyop sa akong espiritu kaniya, mangahulog kamo nga nagasamba kaniya. (فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ فِيهِ مِن رُّوحِي فَقَعُوا لَهُ سَاجِدِينَ) 15:29; 38:72
+- Kang kinsa ang maayong kaugmaon sa kalibutan? Sa pagkatinuod, ang mga dautan dili magmalampuson. (مَن تَكُونُ لَهُ عَاقِبَةُ الدَّارِ إِنَّهُ لَا يُفْلِحُ الظَّالِمُونَ) 6:135; 28:37
+- Siya nga naghimo sa mga langit ug yuta makahimo sa paghimo sa sama kanila. (الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ قَادِرٌ عَلَى أَن يَخْلُقَ مِثْلَهُمْ) 17:99; 36:81
+- Sa mga magtutuo nga lalaki ug mga magtutuo nga babaye, mga hardin nga may mga suba nga nag-agay ilalom niini, magpabilin sila didto sa walay katapusan. (الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 9:72; 48:5
+- Ug kon ikaw mangutana kanila kinsa ang naghimo sa mga langit ug yuta, sila moingon: "Si Allah." Isulti. (وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ لَيَقُولُنَّ اللَّهُ قُلِ) 31:25; 39:38
+- Ug sa pagkatinuod, among gihatag sa mga tawo niini nga Qur'an ang matag matang sa panig-ingnan. (وَلَقَدْ ضَرَبْنَا لِلنَّاسِ فِي هَذَا الْقُرْآنِ مِن كُلِّ مَثَلٍ) 30:58; 39:27
+- Sa dihang ang among mga sugo miduol kang Lot, siya nasubo tungod kanila ug naguol, ug miingon. (جَاءَتْ رُسُلُنَا لُوطًا سِيءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًا وَقَالَ) 11:77; 29:33
+- Ug sa dihang among giingnan ang mga anghel: "Magpatiayon kamo kang Adam," sila nagpatiayon, gawas kang Iblis, nga midumili. (وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا إِبْلِيسَ أَبَى) 2:34; 20:116
+- Ug ang yuta among gipatag, ug among gibutang ang mga bukid niini, ug among gipatubo ang matag matang. (وَالْأَرْضَ مَدَدْنَاهَا وَأَلْقَيْنَا فِيهَا رَوَاسِيَ وَأَنبَتْنَا فِيهَا مِن كُلِّ) 15:19; 50:7
+- Sila nagtawag kang Allah nga putli ang ilang pagtuo Kaniya; apan sa dihang Iyang giluwas sila sa yuta. (دَعَوُا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ فَلَمَّا نَجَّاهُمْ إِلَى الْبَرِّ) 29:65; 31:32
+- Sila adunay ilimnon nga nagabukal nga tubig ug usa ka masakit nga silot tungod sa ilang paglimod. (لَهُمْ شَرَابٌ مِّنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْفُرُونَ) 6:70; 10:4
+- Kita ba mosinggit gawas kang Allah sa wala makapuslan kanato ug wala makadaut kanato? (أَنَدْعُو مِن دُونِ اللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا) 6:71; 10:106
+- Nga si Allah nahibalo sa unsa ang naa sa mga langit ug unsa ang naa sa yuta. (أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 5:97; 58:7
 """;

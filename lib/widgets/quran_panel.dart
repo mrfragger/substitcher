@@ -1124,6 +1124,85 @@ class _QuranPanelState extends State<QuranPanel> {
     return result;
   }
 
+  List<TextSpan> _colorParens(String text, TextStyle baseStyle) {
+    final cyanStyle = baseStyle.copyWith(color: Colors.cyanAccent);
+    final pattern = RegExp(r'\([^)]*\)');
+    final result = <TextSpan>[];
+    int cursor = 0;
+    for (final m in pattern.allMatches(text)) {
+      if (m.start > cursor) {
+        result.add(TextSpan(text: text.substring(cursor, m.start), style: baseStyle));
+      }
+      result.add(TextSpan(text: text.substring(m.start, m.end), style: cyanStyle));
+      cursor = m.end;
+    }
+    if (cursor < text.length) {
+      result.add(TextSpan(text: text.substring(cursor), style: baseStyle));
+    }
+    return result;
+  }
+
+  List<TextSpan> _colorParensAndAllah(String text, TextStyle baseStyle) {
+    final cyanStyle = baseStyle.copyWith(color: Colors.cyanAccent);
+    final purpleStyle = baseStyle.copyWith(color: const Color(0xFFCB93F5));
+
+    final allahWords =
+        (_allahByLanguage[widget.selectedLanguage] ?? _allahByLanguage['English']!)
+            .toList()
+          ..sort((a, b) {
+            final c = b.length.compareTo(a.length);
+            return c != 0 ? c : a.compareTo(b);
+          });
+
+    const noBoundaryScripts = {
+      'cjk', 'thai', 'khmer', 'arabic', 'hangul', 'ethiopic', 'devanagari'
+    };
+
+    final patterns = <String>[];
+    for (final w in allahWords) {
+      final escaped = RegExp.escape(w);
+      if (RegExp(r"^[a-zA-ZÀ-ÿçÇğĞıİöÖşŞüÜ'\u2018\u2019]+$").hasMatch(w)) {
+        final range = _scriptRanges['latin']!;
+        patterns.add('(?<![$range])$escaped(?![$range])');
+      } else {
+        final script = _detectScript(w);
+        if (noBoundaryScripts.contains(script)) {
+          patterns.add(escaped);
+        } else {
+          final range = _scriptRanges[script] ?? _scriptRanges['cyrillic']!;
+          patterns.add('(?<![$range])$escaped(?![$range])');
+        }
+      }
+    }
+    final allahPattern = patterns.join('|');
+    final combined = RegExp('(?:$allahPattern)|(\\([^)]*\\))');
+
+    final result = <TextSpan>[];
+    int cursor = 0;
+    for (final m in combined.allMatches(text)) {
+      if (m.start > cursor) {
+        result.add(TextSpan(text: text.substring(cursor, m.start), style: baseStyle));
+      }
+      final matched = m.group(0)!;
+      result.add(TextSpan(
+        text: matched,
+        style: m.group(1) != null ? cyanStyle : purpleStyle,
+      ));
+      cursor = m.end;
+    }
+    if (cursor < text.length) {
+      result.add(TextSpan(text: text.substring(cursor), style: baseStyle));
+    }
+    return result;
+  }
+
+  List<TextSpan> _styledTopicSpans(String topic, TextStyle style) {
+    final base = _colorParensAndAllah(topic, style);
+    return _shouldHighlightTopicSearch
+        ? _highlightQuery(base, _searchQuery)
+        : base;
+  }
+
   void _showSurahListPopup(BuildContext context) {
     final surahs = getSurahsForLanguage(widget.selectedLanguage);
     final isRtl = isRtlQuranLanguage(widget.selectedLanguage);
@@ -1691,26 +1770,22 @@ class _QuranPanelState extends State<QuranPanel> {
                                               TextSpan(
                                                 children: _shouldHighlightTopicSearch
                                                     ? _highlightQuery(
-                                                        [
-                                                          TextSpan(
-                                                            text: entry.topic,
-                                                            style: const TextStyle(
-                                                                color: Colors.white38,
-                                                                fontSize: 13,
-                                                                fontStyle: FontStyle.italic),
-                                                          ),
-                                                        ],
-                                                        _searchQuery,
-                                                      )
-                                                    : [
-                                                        TextSpan(
-                                                          text: entry.topic,
-                                                          style: const TextStyle(
+                                                        _colorParensAndAllah(
+                                                          entry.topic,
+                                                          const TextStyle(
                                                               color: Colors.white38,
                                                               fontSize: 13,
                                                               fontStyle: FontStyle.italic),
                                                         ),
-                                                      ],
+                                                        _searchQuery,
+                                                      )
+                                                    : _colorParensAndAllah(
+                                                        entry.topic,
+                                                        const TextStyle(
+                                                            color: Colors.white38,
+                                                            fontSize: 13,
+                                                            fontStyle: FontStyle.italic),
+                                                      ),
                                               ),
                                             ),
                                   ),
@@ -1784,46 +1859,22 @@ class _QuranPanelState extends State<QuranPanel> {
                                                   : TextDirection.ltr,
                                                   child: Text.rich(
                                                     TextSpan(
-                                                      children: _shouldHighlightTopicSearch
-                                                          ? _highlightQuery(
-                                                              [
-                                                                TextSpan(
-                                                                  text: entry.topic,
-                                                                  style: TextStyle(
-                                                                    color: hasActiveRef
-                                                                        ? Colors.purple[200]
-                                                                        : entry.isSubtopic
-                                                                            ? Colors.white70
-                                                                            : Colors.white,
-                                                                    fontSize: entry.isSubtopic ? 13 : 14,
-                                                                    fontWeight: hasActiveRef
-                                                                        ? FontWeight.bold
-                                                                        : entry.isSubtopic
-                                                                            ? FontWeight.normal
-                                                                            : FontWeight.w600,
-                                                                  ),
-                                                                ),
-                                                              ],
-                                                              _searchQuery,
-                                                            )
-                                                          : [
-                                                              TextSpan(
-                                                                text: entry.topic,
-                                                                style: TextStyle(
-                                                                  color: hasActiveRef
-                                                                      ? Colors.purple[200]
-                                                                      : entry.isSubtopic
-                                                                          ? Colors.white70
-                                                                          : Colors.white,
-                                                                  fontSize: entry.isSubtopic ? 13 : 14,
-                                                                  fontWeight: hasActiveRef
-                                                                      ? FontWeight.bold
-                                                                      : entry.isSubtopic
-                                                                          ? FontWeight.normal
-                                                                          : FontWeight.w600,
-                                                                ),
-                                                              ),
-                                                            ],
+                                                      children: _styledTopicSpans(
+                                                        entry.topic,
+                                                        TextStyle(
+                                                          color: hasActiveRef
+                                                              ? Colors.purple[200]
+                                                              : entry.isSubtopic
+                                                                  ? Colors.white70
+                                                                  : Colors.white,
+                                                          fontSize: entry.isSubtopic ? 13 : 14,
+                                                          fontWeight: hasActiveRef
+                                                              ? FontWeight.bold
+                                                              : entry.isSubtopic
+                                                                  ? FontWeight.normal
+                                                                  : FontWeight.w600,
+                                                        ),
+                                                      ),
                                                     ),
                                                   ),
                                             ),

@@ -3021,4 +3021,147 @@ Matching Phrases 11 words
 - (Yindu yachiwi) lina lya jwine jwajwangali Allah, nambo jojo akusinjililwa (n sala), nganakola chipanga ni nganakola malembe, njojo... (أُهِلَّ لِغَيْرِ اللَّهِ بِهِ فَمَنِ اضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ) 6:145; 16:115
 - Ni paŵele akubuywa kwaŵao: M'gakwate gaŵala jwam'bisye Allah, ŵakusyaga: Iyayi, tugakwata yindu yatujawene atati ŵetu. (وَإِذَا قِيلَ لَهُمُ اتَّبِعُوا مَا أَنزَلَ اللَّهُ قَالُوا بَلْ نَتَّبِعُ مَا) 2:170; 31:21
 - Jwasile: E mpwani jangu, m'gombela Allah; nganikola nnungu jwine jwakwe jwalakwe jwine. Ana nganam'jogopa? (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 7:65; 23:23
+Matching Phrases 10 words
+- Achijenda mu chilambo ni kuona mwiyakweko mwali wa awo ŵaŵalekwe kumbujo. (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ) 12:109; 30:9; 30:42; 35:44; 40:82; 47:10
+- Ana nduni jwambone pelepele kupunda jwankumba unami kwa Allah ago jwaakana? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا أَوْ كَذَّبَ) 6:21; 7:37; 10:17; 29:68
+- Chisimu, Ambuje ŵenu ni ŵaakumanyilila kusyene ŵakopoka mwitala lyakwe, soni ŵaakumanyilila kusyene. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ مَن يَضِلُّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ) 6:117; 16:125; 53:30; 68:7
+- Ana nganijenda mu chilambo ni kuona mwiyakweko mwali wa awo ŵaŵalekwe kumbujo? (أَوَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن) 30:9; 35:44; 40:82; 47:10
+- Kwakweo mligo wao kwa Ambuje ŵao, soni pangali woga kwakweo, soni nganabha ŵakulaga. (فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ) 2:62; 2:262; 2:274; 2:277
+- Soni awo ŵaakulupilile ni ŵaakongwele masengo gambone achijinjikwa mmbepo sya kumunda syaakusogungwa yisondo. (وَأُدْخِلَ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 14:23; 22:14; 22:23; 47:12
+- Jwenejo ŵaŵele (Nuh) ŵakuti: "Bamtu ŵangu! M'gumbecileni Allah; ŵakamwapele gwangali nnungu jwine jwakwe. Ana nganimwete?" (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا) 7:65; 11:84; 23:23
+- Usima wao amtung'weno akwankwe nganiwaakamuchisya chosope kwa Allah; soni awo ŵaŵele. (لَن تُغْنِيَ عَنْهُمْ أَمْوَالُهُمْ وَلَا أَوْلَادُهُم مِّنَ اللَّهِ شَيْئًا وَأُولَئِكَ) 3:10; 3:116; 58:17
+- Mbepo sya kumunda syaakusogungwa yisondo, akwete kukala kweneko kwa machili, soni kwakweko kukombolela kukulungwa. (جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَذَلِكَ الْفَوْزُ الْعَظِيمُ) 9:89; 4:13
+- Ana nganiisichile kukwao ngani ya awo ŵaŵalekwe kumbujo – bamtu ŵa Nuh, ni Ŵaadi, ni Ŵasamudi? (أَلَمْ يَأْتِهِمْ نَبَأُ الَّذِينَ مِن قَبْلِهِمْ قَوْمِ نُوحٍ وَعَادٍ وَثَمُودَ) 9:70; 14:9
+- Ana ŵakutandabukasi ŵangu kwa Allah ni ŵane? Ŵakulungwa ŵakuti: "Uwe ŵakutandabukasi ŵa Allah, tukulupile." (مَنْ أَنصَارِي إِلَى اللَّهِ قَالَ الْحَوَارِيُّونَ نَحْنُ أَنصَارُ اللَّهِ آمَنَّا) 3:52; 61:14
+- Ambuje ŵenu ni ŵaakumanyilila kusyene ŵakopoka mwitala lyakwe, soni ŵaakumanyilila kusyene ŵakulongolelwa. (رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ) 16:125; 68:7
+- Gala anekwe kuti Allah ni Jwakwete, soni kuti aŵakwaŵilan'ga kwa jwinewakwe ni gaunami. (ذَلِكَ بِأَنَّ اللَّهَ هُوَ الْحَقُّ وَأَنَّ مَا يَدْعُونَ مِن دُونِهِ) 22:62; 31:30
+- Soni jwankwakunda Allah ni Nkukwe Wakwe, akwaajinjika m'mbepo sya kumunda syaakusogungwa yisondo. (وَمَن يُطِعِ اللَّهَ وَرَسُولَهُ يُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 4:13; 48:17
+- Nkali ŵaakukane kukwenu ni chiwamisyi, kawalya, nyama ya nguluwe, soni ŵaakweteswa (kwa jwine). (إِنَّمَا حَرَّمَ عَلَيْكُمُ الْمَيْتَةَ وَالدَّمَ وَلَحْمَ الْخِنزِيرِ وَمَا أُهِلَّ) 2:173; 16:115
+- Kuti mungalijimbilila ngana jwakwe Allah. Chisimu, une n'kujogopa kumbe jwenu chilagasyo cha lyuwa. (أَن لَّا تَعْبُدُوا إِلَّا اللَّهَ إِنِّي أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ) 11:26; 46:21
+- Gala ga mosi sya nganiya syakwete, tukuŵakulichisya kukwenu; ŵakamwapele m'gata jawo akwete. (ذَلِكَ مِنْ أَنبَاءِ الْغَيْبِ نُوحِيهِ إِلَيْكَ وَمَا كُنتَ لَدَيْهِمْ إِذْ) 3:44; 12:102
+- Ana n'kukangana kuti kwaisichile kukwenu kukumbusya kutyocela kwa Ambuje ŵenu kupitila m'ndume m'munda jwenunji kuti aŵakalikanyisye? (أَوَعَجِبْتُمْ أَن جَاءَكُمْ ذِكْرٌ مِّن رَّبِّكُمْ عَلَى رَجُلٍ مِّنكُمْ لِيُنذِرَكُمْ) 7:63; 7:69
+- Jangu: "Chisimu, une n'kutukaniswa kuŵajimbilila ŵakumwaŵilan'ga ngana jwakwe Allah." (قُلْ إِنِّي نُهِيتُ أَنْ أَعْبُدَ الَّذِينَ تَدْعُونَ مِن دُونِ اللَّهِ) 6:56; 40:66
+- Pane atalaka ŵao ago ŵakwete kukamulidwa ni mikono jakwo ja kwinani – chisimu awo ŵangalagalilwa. (إِلَّا عَلَى أَزْوَاجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَانُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ) 23:6; 70:30
+- Pakuŵa kuti Allah akunjisya chilo mu isi ni akunjisya isi mu chilo. (بِأَنَّ اللَّهَ يُولِجُ اللَّيْلَ فِي النَّهَارِ وَيُولِجُ النَّهَارَ فِي اللَّيْلِ) 22:61; 31:29
+- Moto, ŵaŵele (Musa) ŵakuti kwa likaja lyakwe: "Ngimanyilikanje; une n'kuona moto; mwine n'kwalisya kukwenu chindu chakutyocela mwenemo." (نَارًا فَقَالَ لِأَهْلِهِ امْكُثُوا إِنِّي آنَسْتُ نَارًا لَّعَلِّي آتِيكُم مِّنْهَا) 20:10; 28:29
+- Ŵakuti: "Une n'kulungwa kupunda jwenejo; Ŵakumbile une kwa moto, soni Ŵakumbile jwenejo kwa lilongo." (قَالَ أَنَا خَيْرٌ مِّنْهُ خَلَقْتَنِي مِن نَّارٍ وَخَلَقْتَهُ مِن طِينٍ) 7:12; 38:76
+- Soni pakuwa kuti "Mweche kwa aŵakwaŵakunnogoyesye Allah ni kwa Nkukwe," akuti. (وَإِذَا قِيلَ لَهُمْ تَعَالَوْا إِلَى مَا أَنزَلَ اللَّهُ وَإِلَى الرَّسُولِ) 4:61; 5:104
+- Ngakulaga kwaakweo, ni ngakuwendaga mu njakwati kwa ndamo jakweo. (وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُ فِي ضَيْقٍ مِّمَّا يَمْكُرُونَ) 16:127; 27:70
+- Soni ng'amwe Allah akukusichisya chakukuŵa, pangali ŵakukuchinuka panyuma pakwe ila jwenejo; soni ng'ape. (وَإِن يَمْسَسْكَ اللَّهُ بِضُرٍّ فَلَا كَاشِفَ لَهُ إِلَّا هُوَ وَإِن) 6:17; 10:107
+- Kumbujo jawo, yisogo yajendaga m'masengo gawo. Chisimu, m'gala ga kwakweko kukwete ilosyo. (قَبْلَهُم مِّنَ الْقُرُونِ يَمْشُونَ فِي مَسَاكِنِهِمْ إِنَّ فِي ذَلِكَ لَآيَاتٍ) 20:128; 32:26
+- Soni twaŵikaga umutumebwe m'mitima jawo kuti ngaakwete kumanyilila, ni mu makutu gakweo usikitusi, soni m'gakwe. (وَجَعَلْنَا عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا وَإِن) 6:25; 18:57
+- Ŵakutumisywa ŵakweo ŵaisiche kwaakweo ni ilosyo yilusele, nambo Allah ŵangaŵakong'olelanga, nambo ŵaŵele ŵakong'olelanga ŵaŵele. (رُسُلُهُم بِالْبَيِّنَاتِ فَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ وَلَكِن كَانُوا أَنفُسَهُمْ يَظْلِمُونَ) 9:70; 30:9
+- Soni mu chilambo, soni ŵakamwapele nkukamuchisyo jwakwe jwakwe ngana Allah. (وَالْأَرْضِ وَمَا لَكُم مِّن دُونِ اللَّهِ مِن وَلِيٍّ وَلَا نَصِيرٍ) 2:107; 42:31
+- Palombo akuchisichisyagwa kwa Jwakumanyilila yaunemi ni yauneng'ung'u, ni akwaajimbilila gala ŵakwatendangaga. (ثُمَّ تُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ) 9:94; 62:8
+- Chilo kuti m'gakupumulile, ni isi kuti m'gaone. Chisimu, m'gala ga kwakweko kukwete ilosyo kwa bamtu. (اللَّيْلَ لِتَسْكُنُوا فِيهِ وَالنَّهَارَ مُبْصِرًا إِنَّ فِي ذَلِكَ لَآيَاتٍ لِّقَوْمٍ) 10:67; 27:86
+- Soni yaitendeshe kukwenu kutyocela kwa Ambuje ŵenu kwa jajinji mwa jao tichikuliche jikulupilika ni kugakana. (وَلَيَزِيدَنَّ كَثِيرًا مِّنْهُم مَّا أُنزِلَ إِلَيْكَ مِن رَّبِّكَ طُغْيَانًا وَكُفْرًا) 5:64; 5:68
+- Ŵakuti: "Bamtu ŵangu! Ana mwaona, ng'ape m'gata jauneng'ung'u jwakutyocela kwa Ambuje ŵangu ni ŵambele?" (قَالَ يَاقَوْمِ أَرَأَيْتُمْ إِن كُنتُ عَلَى بَيِّنَةٍ مِّن رَّبِّي وَآتَانِي) 11:28; 11:63
+- Soni akuti: "Pakuti nganijitulusyidwa kwa jwenejo ilosyo kutyocela kwa Ambuje ŵakwe?" Jangu: "Chisimu." (وَيَقُولُونَ لَوْلَا أُنزِلَ عَلَيْهِ آيَةٌ مِّن رَّبِّهِ فَقُلْ إِنَّمَا) 10:20; 29:50
+- Kala lyuwa lisichile, lyangali kukombola kuchitigwa na Allah. (مِن قَبْلِ أَن يَأْتِيَ يَوْمٌ لَّا مَرَدَّ لَهُ مِنَ اللَّهِ) 30:43; 42:47
+- Gala ni ukoto wa Allah waakumpa ŵakunsaka; Allah ni jwakukoto kukulungwa. (ذَلِكَ فَضْلُ اللَّهِ يُؤْتِيهِ مَن يَشَاءُ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ) 57:21; 62:4
+- Soni chisimu, m'gakwe ni nyama chikolwe kukwenu; tukuŵakamuchisya kutyocela m'mimba syakweo. (وَإِنَّ لَكُمْ فِي الْأَنْعَامِ لَعِبْرَةً نُّسْقِيكُم مِّمَّا فِي بُطُونِهِ) 16:66; 23:21
+- Kuti gala ni ŵakwete kutyocela kwa Ambuje ŵao; soni Allah nganatenda chiŵaguŵa kwa yaatendekaga. (أَنَّهُ الْحَقُّ مِن رَّبِّهِمْ وَمَا اللَّهُ بِغَافِلٍ عَمَّا يَعْمَلُونَ) 2:144; 2:149
+- Kumbujo jao ni kumbesi jawo, kuti mungajimbilila jwakwe ngana Allah. (مِن بَيْنِ أَيْدِيهِمْ وَمِنْ خَلْفِهِمْ أَلَّا تَعْبُدُوا إِلَّا اللَّهَ) 41:14; 46:21
+- Chisimu, ŵakwete kwagwilana ni ŵachilumendo kwa kwima kwa chalumbo m'malo mwa ŵachisyamwali; nambo ŵakwete kwendaga ni bamtu (ŵagakwisye). (إِنَّكُمْ لَتَأْتُونَ الرِّجَالَ شَهْوَةً مِّن دُونِ النِّسَاءِ بَلْ أَنتُمْ قَوْمٌ) 7:81; 27:55
+- Akwete kukala kweneko kwa machili, mbali ni simbasi syanope sya kwa Ambuje ŵenu. (خَالِدِينَ فِيهَا مَا دَامَتِ السَّمَاوَاتُ وَالْأَرْضُ إِلَّا مَا شَاءَ رَبُّكَ) 11:107; 11:108
+- Jwenejo m'mbepo sya kumunda ni jwenejo, Allah ŵansaka. (مَن فِي السَّمَاوَاتِ وَمَن فِي الْأَرْضِ إِلَّا مَن شَاءَ اللَّهُ) 27:87; 39:68
+- Akwete kujinjikwa mwenemo ni mawambo ga nsongo ni maambi, soni yinago yakwe mwenemo ni nganda. (يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِن ذَهَبٍ وَلُؤْلُؤًا وَلِبَاسُهُمْ فِيهَا حَرِيرٌ) 22:23; 35:33
+- Soni akunogoya mesi kutyocela m'mbepo sya kumunda, soni akwete kunoga mbewu ja kulya kwaakwe. (وَأنزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجَ بِهِ مِنَ الثَّمَرَاتِ رِزْقًا لَّكُمْ) 2:22; 14:32
+- Soni pakatutapile ungana, twakulidyesye mapili kwinani mwakwe: "Mukamulani chandamale chatuŵapele." (وَإِذْ أَخَذْنَا مِيثَاقَكُمْ وَرَفَعْنَا فَوْقَكُمُ الطُّورَ خُذُوا مَا آتَيْنَاكُم بِقُوَّةٍ) 2:63; 2:93
+- Akusimba kumbesi kwao, akuti: "Bamtu ŵangu! Chisimu, nembile nyu kwa ngani sya Ambuje ŵangu, soni nembile nyu kwa kulosya." (فَتَوَلَّى عَنْهُمْ وَقَالَ يَاقَوْمِ لَقَدْ أَبْلَغْتُكُمْ رِسَالَةَ رَبِّي وَنَصَحْتُ لَكُمْ) 7:79; 7:93
+- Yisondo yakusogungwa kunyuma pakwao; akwete kujinjikwa mwenemo ni mawambo ga nsongo. (تَجْرِي مِن تَحْتِهِمُ الْأَنْهَارُ يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِن ذَهَبٍ) 18:31; 22:23
+- Ng'ape paŵele ni yosope yaili m'masengo gakwe, soni yakawonecheche mwakwe, kuti yilipye. (لَوْ أَنَّ لَهُم مَّا فِي الْأَرْضِ جَمِيعًا وَمِثْلَهُ مَعَهُ لِيَفْتَدُوا) 5:36; 13:18
+- M'gakwe ni chachinji chakwete, nambo akwachinikisya kwa yaka yakulungwa; palopo yaka yakwe ikwichesya. (مِن دَابَّةٍ وَلَكِن يُؤَخِّرُهُمْ إِلَى أَجَلٍ مُّسَمًّى فَإِذَا جَاءَ أَجَلُهُمْ) 16:61; 35:45
+- Twakumbile ŵakwete kutyocela mu lilongo, palopo kutyocela mu ndopa, palopo kutyocela mu ndopa jajikulungwa, palopo. (خَلَقْنَاكُم مِّن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ مِنْ عَلَقَةٍ ثُمَّ) 22:5; 40:67
+- Allah akwaagambanya m'gata jawo m'nope m'mpaka lyuwa lya mpaka, m'gala gakwe gala. (فَاللَّهُ يَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 2:113; 22:69
+- Kweche kwa ŵakwete kujimanyilila; ŵakamwapele nkukamuchisyo jwakwe jwakwe kutyocela kwa Allah. (جَاءَكَ مِنَ الْعِلْمِ مَا لَكَ مِنَ اللَّهِ مِن وَلِيٍّ وَلَا) 2:120; 13:37
+- Soni pakuwa Allah akumpa chindu chambone muntundumali, akusimba kumbesi soni akwendaga kwa chitumbi chakwe; nambo pakuwa chakusakala chikumkusichisya. (وَإِذَا أَنْعَمْنَا عَلَى الْإِنسَانِ أَعْرَضَ وَنَأَى بِجَانِبِهِ وَإِذَا مَسَّهُ الشَّرُّ) 17:83; 41:51
+- Nambo chakuchoko cheche, ni chakukulungwa cheche, ŵakamwapele m'gata ja chitabu chakumanyisya. (وَلَا أَصْغَرَ مِن ذَلِكَ وَلَا أَكْبَرَ إِلَّا فِي كِتَابٍ مُّبِينٍ) 10:61; 34:3
+
+Matching Phrases 9 words
+- Ŵakuti: "Bamtu ŵangu! M'gumbecileni Allah; ŵakamwapele gwangali nnungu jwine jwakwe." (فَقَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ) 7:59; 7:65; 7:73; 7:85; 11:50; 11:61; 11:84; 23:23
+- Ana nganijenda mu chilambo ni kuona mwiyakweko mwali wa awo ŵaŵalekwe kumbujo? (أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ) 12:109; 30:9; 35:44; 40:21; 40:82; 47:10
+- Mligo wao uko kwa Ambuje ŵao; pangali woga kwakweo, soni nganabha ŵakulaga. (أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ) 2:62; 2:112; 2:262; 2:274; 2:277
+- Achijenda mu chilambo ni kuona mwiyakweko mwali wa awo ŵaŵalekwe kumbujo. (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن) 30:9; 30:42; 35:44; 40:82; 47:10
+- Mu chilambo ni kuona mwiyakweko mwali wa awo ŵaŵalekwe kumbujo. (فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ) 30:9; 30:42; 35:44; 40:82; 47:10
+- Ana nduni jwambone pelepele kupunda jwankumba unami kwa Allah ago (kakana)? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا أَوْ) 6:21; 6:93; 7:37; 10:17; 29:68
+- Soni pakuwa akwete kugambanya, kuti jwenejo akuti pe: "Ŵe!" ni akukolela. (وَإِذَا قَضَى أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُن فَيَكُونُ) 2:117; 3:47; 19:35; 40:68
+- Soni ŵakamwapele nkukamuchisyo jwakwe jwakwe ngana Allah. (وَمَا لَكُم مِّن دُونِ اللَّهِ مِن وَلِيٍّ وَلَا نَصِيرٍ) 2:107; 9:116; 29:22; 42:31
+- Chisimu, n'chikulichimanyisya yangali yaakweo, ni n'kwajinjika m'mbepo sya kumunda syaakusogungwa yisondo. (لَأُكَفِّرَنَّ عَنْهُمْ سَيِّئَاتِهِمْ وَلَأُدْخِلَنَّهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 3:195; 5:12; 64:9; 66:8
+- Tukwajinjika m'mbepo sya kumunda syaakusogungwa yisondo, akwete kukala kweneko kwa machili. (سَنُدْخِلُهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا) 4:57; 4:122; 64:9; 65:11
+- Ambuje ŵenu ni ŵaakumanyilila kusyene ŵakopoka mwitala lyakwe, soni ŵaakumanyilila kusyene. (رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ) 16:125; 53:30; 68:7
+- Akuchichisygwa kwa Jwakumanyilila yaunemi ni yauneng'ung'u, ni akwaajimbilila gala ŵakwatendangaga. (تُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ) 9:94; 9:105; 62:8
+- Ŵakwapaga ŵanache ŵenunji ŵachilumendo, soni ŵakusichisya ŵanache ŵenunji ŵachisyamwali; soni m'gala ga kwakweko kukwete masesemo ga kukulungwa kutyocela kwa Ambuje ŵenu. (أَبْنَاءَكُمْ وَيَسْتَحْيُونَ نِسَاءَكُمْ وَفِي ذَلِكُم بَلَاءٌ مِّن رَّبِّكُمْ عَظِيمٌ) 2:49; 7:141; 14:6
+- Chisimu, Ambuje ŵenu ni ŵaakumanyilila kusyene ŵakopoka mwitala lyakwe, soni ŵaakwe. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ) 16:125; 53:30; 68:7
+- Allah, jwenejo akwete yosope yaili m'mbepo sya kumunda ni yaili mu chilambo. (اللَّهِ الَّذِي لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 14:2; 34:1; 42:53
+- M'magulu ga bamtu gakwete kulakwe kumbujo kwenu, kutyocela ku ŵajini ni ku bamtu. (فِي أُمَمٍ قَدْ خَلَتْ مِن قَبْلِكُم مِّنَ الْجِنِّ وَالْإِنسِ) 7:38; 41:25; 46:18
+- M'gumbecileni Allah; ŵakamwapele gwangali nnungu jwine jwakwe. Ana nganimwete? (اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 7:65; 23:23; 23:32
+- Soni twaŵikaga umutumebwe m'mitima jawo kuti ngaakwete kumanyilila, ni mu makutu gakweo usikitusi. (وَجَعَلْنَا عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا) 6:25; 17:46; 18:57
+- Akwaagambanya m'nope m'mpaka lyuwa lya mpaka, m'gala gakwe gala. (يَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 2:113; 16:124; 22:69
+- Ŵakuti: "Bamtu ŵangu! Ana mwaona, ng'ape m'gata jauneng'ung'u jwakutyocela kwa Ambuje ŵangu?" (قَالَ يَاقَوْمِ أَرَأَيْتُمْ إِن كُنتُ عَلَى بَيِّنَةٍ مِّن رَّبِّي) 11:28; 11:63; 11:88
+- Gala ni kwa chindu chatuŵambile kumbujo ni mikono jenu, soni Allah nganakong'olelanga aŵakwete. (ذَلِكَ بِمَا قَدَّمَتْ أَيْدِيكُمْ وَأَنَّ اللَّهَ لَيْسَ بِظَلَّامٍ لِّلْعَبِيدِ) 3:182; 8:51; 22:10
+- Kwakweo m'masengo ga pano panyuma pakulaga, soni kwakweo m'mpaka chilagasyo chikulungwa. (لَهُمْ فِي الدُّنْيَا خِزْيٌ وَلَهُمْ فِي الْآخِرَةِ عَذَابٌ عَظِيمٌ) 2:114; 5:41
+- Yaili m'mbepo sya kumunda ni yaili mu chilambo; soni Allah ni jwakukwanila kwiyingila. (مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَكَفَى بِاللَّهِ وَكِيلًا) 4:132; 4:171
+- Pane awo ŵakulupilile ni ŵakongwele masengo gambone; kwakweo mligo gwangali malekelele. (إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ) 84:25; 95:6
+- Kukombesya kwa jangu, yagwangali kumanyilila; nambope, ngakunda kwao. (لِتُشْرِكَ بِي مَا لَيْسَ لَكَ بِهِ عِلْمٌ فَلَا تُطِعْهُمَا) 29:8; 31:15
+- Chisimu, yili kukumbusya; nambo jwansakaga, akukombola kwenda kwa Ambuje ŵakwe. (إِنَّ هَذِهِ تَذْكِرَةٌ فَمَن شَاءَ اتَّخَذَ إِلَى رَبِّهِ سَبِيلًا) 73:19; 76:29
+- Soni jwakulumba, kuti jwalumba kwa chindu chakwe; soni jwakana, chisimu. (وَمَن شَكَرَ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِ وَمَن كَفَرَ فَإِنَّ) 27:40; 31:12
+- Awo ŵaakukololela masalagasyo, ni ŵaakupa nsada, soni ŵaakulupilila m'mpaka wa mpaka. (الَّذِينَ يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُم بِالْآخِرَةِ هُمْ يُوقِنُونَ) 27:3; 31:4
+- Ibrahima, Isimaila, Isihaka, Yaakubu ni makaja gawo; soni yaitendekwe kwa Musa ni Isa. (إِبْرَاهِيمَ وَإِسْمَاعِيلَ وَإِسْحَاقَ يَعْقُوبَ وَالْأَسْبَاطِ وَمَا أُوتِيَ مُوسَى وَعِيسَى) 2:136; 3:84
+- M'magulu m'magulu, m'paka pakusichile kukwakwe, kukukundwa milango jakwe, soni awo ŵaakujing'inika akuti kwaakweo. (زُمَرًا حَتَّى إِذَا جَاءُوهَا فُتِحَتْ أَبْوَابُهَا وَقَالَ لَهُمْ خَزَنَتُهَا) 39:71; 39:73
+- Allah ngakunsambilila kwa kana kana m'malumbilo gakweo, nambo akunsambilila kwa chakwete. (لَّا يُؤَاخِذُكُمُ اللَّهُ بِاللَّغْوِ فِي أَيْمَانِكُمْ وَلَكِن يُؤَاخِذُكُم بِمَا) 2:225; 5:89
+- Chanasa, akusangalala nacho; nambo ng'amwe chakusakala chikusichisya kwaakweo chachinji. (رَحْمَةً فَرِحُوا بِهَا وَإِن تُصِبْهُمْ سَيِّئَةٌ بِمَا قَدَّمَتْ أَيْدِيهِمْ) 30:36; 42:48
+- Yakusogungwa yisondo, akwete kukala kweneko kwa machili; soni mligo gwabone kwa ŵakukongwele masengo! (تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَنِعْمَ أَجْرُ الْعَامِلِينَ) 3:136; 29:58
+- Allah akumanyilila yaili m'mbepo sya kumunda ni yaili mu chilambo; soni Allah. (اللَّهُ وَيَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَاللَّهُ) 3:29; 49:16
+- M'gumbecileni Allah ni m'gumbecileni Nkukwe; nambo ng'ape mwakanaga, mwakwe ni kwa jwenejo. (أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ فَإِن تَوَلَّوْا فَإِنَّمَا عَلَيْهِ) 24:54; 64:12
+- Kwakweo mligo wao kwa Ambuje ŵao; pangali woga kwakweo soni ŵaakwe. (فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ) 2:274; 2:277
+- Soni ŵakuti: "Ana m'paka patuwele maŵi ni lilongo, tuchisichisyagwa chiwumbi cha chambone?" (وَقَالُوا أَإِذَا كُنَّا عِظَامًا وَرُفَاتًا أَإِنَّا لَمَبْعُوثُونَ خَلْقًا جَدِيدًا) 17:49; 17:98
+- Soni ŵangakombola kuona kwaakweo nkukamuchisyo jwakwe jwakwe ngana Allah. (وَلَا يَجِدُونَ لَهُم مِّن دُونِ اللَّهِ وَلِيًّا وَلَا نَصِيرًا) 4:173; 33:17
+- Wakendaga yaka yalilingana? Ŵakuti: "Nakendaga lyuwa limo ago papatiche pati." Ŵakuti: (كَمْ لَبِثْتَ قَالَ لَبِثْتُ يَوْمًا أَوْ بَعْضَ يَوْمٍ قَالَ) 2:259; 18:19
+- Machili m'paka m'paka lyuwa lya mpaka. Ana nduni nnungu jwine jwakwe jwine jwanji m'malo mwa Allah jwaakwe? (سَرْمَدًا إِلَى يَوْمِ الْقِيَامَةِ مَنْ إِلَهٌ غَيْرُ اللَّهِ يَأْتِيكُم) 28:71; 28:72
+- Jwankongwele masengo gambone, jwenejo mwine jwine jwine, soni jwakulupilila. (مَنْ عَمِلَ صَالِحًا مِّن ذَكَرٍ أَوْ أُنثَى وَهُوَ مُؤْمِنٌ) 16:97; 40:40
+- Awo ŵaakukana mwitala lwa Allah ni ŵakusaka kulikopoka, soni ŵangaakulupilila m'mpaka. (الَّذِينَ يَصُدُّونَ عَن سَبِيلِ اللَّهِ وَيَبْغُونَهَا عِوَجًا وَهُم بِالْآخِرَةِ) 7:45; 11:19
+- M'masengo gose, nambo ngajendela mwisuŵa wane, akuno kuti ŵakwete kuŵa ŵakulimba. (حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَذِهِ الشَّجَرَةَ فَتَكُونَا مِنَ الظَّالِمِينَ) 2:35; 7:19
+- Jangu: "Bamtu ŵangu! Tendani m'masengo gakwenunji; une n'kutenda; palopo ŵakwete kumanyilila." (قُلْ يَاقَوْمِ اعْمَلُوا عَلَى مَكَانَتِكُمْ إِنِّي عَامِلٌ فَسَوْفَ تَعْلَمُونَ) 6:135; 39:39
+- Chisimu, ŵakupulikana ni awo ŵakusokolaga ni chindu chakwe, soni ni makaja gakwe m'mpaka lyuwa lya mpaka. Mmalangane! (إِنَّ الْخَاسِرِينَ الَّذِينَ خَسِرُوا أَنفُسَهُمْ وَأَهْلِيهِمْ يَوْمَ الْقِيَامَةِ أَلَا) 39:15; 42:45
+- Jwakulongolelwa, kuti kwa chindu chakwe; soni jwakopoka, kuti kwa chindu chakwe; soni ngakwete. (يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا وَمَا) 10:108; 39:41
+- Soni awo ŵaakana akuti: "Pakuti nganijitulusyidwa kwa jwenejo ilosyo kutyocela kwa Ambuje ŵakwe?" (وَيَقُولُ الَّذِينَ كَفَرُوا لَوْلَا أُنزِلَ عَلَيْهِ آيَةٌ مِّن رَّبِّهِ) 13:7; 13:27
+- Jwenejo ŵaŵele kukumbile chilo kukwenu kuti m'gakupumulile, ni isi kuti m'gaone. Chisimu. (الَّذِي جَعَلَ لَكُمُ اللَّيْلَ لِتَسْكُنُوا فِيهِ وَالنَّهَارَ مُبْصِرًا إِنَّ) 10:67; 40:61
+- Kala lyuwa lisichile, nkati lyakwe lipangali kugulisya wala (ubundu). (مِّن قَبْلِ أَن يَأْتِيَ يَوْمٌ لَّا بَيْعٌ فِيهِ وَلَا) 2:254; 14:31
+- Kuti akwete kuganisya; nkupwiyo wao ngali chiŵaŵa; jwenejo ni jwine cha cheche. (يَتَفَكَّرُوا مَا بِصَاحِبِهِم مِّن جِنَّةٍ إِنْ هُوَ إِلَّا نَذِيرٌ) 7:184; 34:46
+- Akwete kukala kweneko kwa machili; chilagasyo chakusakala ngachipungusyidwa kwaakweo, soni nganachipewa ngesi. (خَالِدِينَ فِيهَا لَا يُخَفَّفُ عَنْهُمُ الْعَذَابُ وَلَا هُمْ يُنظَرُونَ) 2:162; 3:88
+- Ngakunaga kwa meso genu kwa chindu chaakwete kukwetenje kusangalala ni ŵane mwa jao. (لَا تَمُدَّنَّ عَيْنَيْكَ إِلَى مَا مَتَّعْنَا بِهِ أَزْوَاجًا مِّنْهُمْ) 15:88; 20:131
+- Soni ngakupungusyaga bamtu m'indunji syao, soni ngakwendaga m'masengo mwa chilambo. (وَلَا تَبْخَسُوا النَّاسَ أَشْيَاءَهُمْ وَلَا تَعْثَوْا فِي الْأَرْضِ مُفْسِدِينَ) 11:85; 26:183
+- Soni ulemu kwa jwenejo m'mpaka lyuwa lyakwe lyakusichisya, ni m'mpaka lyakwe lyakufwa, ni m'mpaka lyakwe lyakuchisichisyagwa. (وَسَلَامٌ عَلَيْهِ يَوْمَ وُلِدَ وَيَوْمَ يَمُوتُ وَيَوْمَ يُبْعَثُ حَيًّا) 19:15; 19:33
+- Bamtu ŵangu! Tendani m'masengo gakwenunji; une n'kutenda; palopo ŵakwete kumanyilila jwene. (يَاقَوْمِ اعْمَلُوا عَلَى مَكَانَتِكُمْ إِنِّي عَامِلٌ فَسَوْفَ تَعْلَمُونَ مَن) 6:135; 11:93
+- Soni nganiwa kwa Nkukwe kujitulusya ilosyo, pane Allah akwete kukombola. (وَمَا كَانَ لِرَسُولٍ أَن يَأْتِيَ بِآيَةٍ إِلَّا بِإِذْنِ اللَّهِ) 13:38; 40:78
+- Palopo chakwete chakwe chakwe chakwe chakwe chakwe, soni ŵangakong'olelwa. (ثُمَّ تُوَفَّى كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ) 2:281; 3:161
+- Mwine jwine jwine, soni jwakulupilila – awo akwete kujinjika m'mpaka. (مِن ذَكَرٍ أَوْ أُنثَى وَهُوَ مُؤْمِنٌ فَأُولَئِكَ يَدْخُلُونَ الْجَنَّةَ) 4:124; 40:40
+- Jwangali kukwete mwanache, soni jwangali kukwete mwakwe m'masengo ga kwene. (لَمْ يَتَّخِذْ وَلَدًا وَلَمْ يَكُن لَّهُ شَرِيكٌ فِي الْمُلْكِ) 17:111; 25:2
+- Soni jwankulongolelwa Allah, jwenejo ni jwakulongolelwa; nambo jwakopoka, kuti ndi jwane. (وَمَن يَهْدِ اللَّهُ فَهُوَ الْمُهْتَدِ وَمَن يُضْلِلْ فَلَن تَجِدَ) 17:97; 18:17
+- M'gaone mwiyakweko mwali, akuti nduna jakweo; ŵakopokaga, ni nganakombola kwenda. (انظُرْ كَيْفَ ضَرَبُوا لَكَ الْأَمْثَالَ فَضَلُّوا فَلَا يَسْتَطِيعُونَ سَبِيلًا) 17:48; 25:9
+- Jangu: "Chisimu, une n'kujogopa ng'ape ninne kwa Ambuje ŵangu, chilagasyo cha lyuwa likulungwa." (قُلْ إِنِّي أَخَافُ إِنْ عَصَيْتُ رَبِّي عَذَابَ يَوْمٍ عَظِيمٍ) 6:15; 39:13
+- Yakusichisya ŵakweo ni syauneng'ung'u, soni ŵakuti akwete kujing'ing'usya ni makuka ga m'mpaka. (بَدَتْ لَهُمَا سَوْآتُهُمَا وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِن وَرَقِ الْجَنَّةِ) 7:22; 20:121
+- Soni m'ŵilani ŵakombola, ngana Allah, ng'ape ninkulupilila. (وَادْعُوا مَنِ اسْتَطَعْتُم مِّن دُونِ اللَّهِ إِن كُنتُمْ صَادِقِينَ) 10:38; 11:13
+- Yosope yaili m'masengo gakwe, ni yakawonecheche mwakwe, kuti yilipye. (مَّا فِي الْأَرْضِ جَمِيعًا وَمِثْلَهُ مَعَهُ لِيَفْتَدُوا بِهِ مِنْ) 5:36; 39:47
+- Mukamulani chandamale chatuŵapele, ni mkumbusye chaili m'gatamo - mwine m'gakupite woga. (خُذُوا مَا آتَيْنَاكُم بِقُوَّةٍ وَاذْكُرُوا مَا فِيهِ لَعَلَّكُمْ تَتَّقُونَ) 2:63; 7:171
+- Ana m'gakwendaga ni yauneng'ung'u yangali kwendekwaga ni jwane m'masengo gose? (أَتَأْتُونَ الْفَاحِشَةَ مَا سَبَقَكُم بِهَا مِنْ أَحَدٍ مِّنَ الْعَالَمِينَ) 7:80; 29:28
+- Soni yaili m'mbepo sya kumunda ni yaili mu chilambo ni yakwe kwa Allah; soni Allah (jwankulungwa). (وَلِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَكَانَ اللَّهُ) 4:126; 4:131
+- Yakusakala ya aŵatendangaga ŵakusichisyaga, soni yaakwelela ŵakweo. (سَيِّئَاتُ مَا عَمِلُوا وَحَاقَ بِهِم مَّا كَانُوا بِهِ يَسْتَهْزِئُونَ) 16:34; 45:33
+- Nkukwe jwakutyocela m'gata jenunji, jwaakwasomela ilosyo yetu, jwaakwalimbanisya, ni jwaakwalijiganyaga chitabu ni lunda. (رَسُولًا مِّنكُمْ يَتْلُو عَلَيْكُمْ آيَاتِنَا وَيُزَكِّيكُمْ وَيُعَلِّمُكُمُ الْكِتَابَ وَالْحِكْمَةَ) 2:151; 62:2
+- Kutyocela kwakwe kwaŵele makungu likumi ni gawili; likaja likulungwa lyakwe likumanyilila masengelo gakwe. (مِنْهُ اثْنَتَا عَشْرَةَ عَيْنًا قَدْ عَلِمَ كُلُّ أُنَاسٍ مَّشْرَبَهُمْ) 2:60; 7:160
+- Pane liganiso; chisimu, liganiso lyangali chakamuchisya cha kuuneng'ung'u. (إِلَّا ظَنًّا إِنَّ الظَّنَّ لَا يُغْنِي مِنَ الْحَقِّ شَيْئًا) 10:36; 53:28
+- Soni pakuwa n'kumalile, ni n'kumpumulila jwakwe jwa mmbepo jwangu, m'gwaŵile kwa jwenejo. (فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ فِيهِ مِن رُّوحِي فَقَعُوا لَهُ سَاجِدِينَ) 15:29; 38:72
+- Nduni jwakwete mwiyakweko mwali wa pa panyuma? Chisimu, ŵakulimba ŵangakombola. (مَن تَكُونُ لَهُ عَاقِبَةُ الدَّارِ إِنَّهُ لَا يُفْلِحُ الظَّالِمُونَ) 6:135; 28:37
+- Jwenejo jwakumbile simbasi sya kumunda ni chilambo, akombola kukumbila ŵakweo. (الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ قَادِرٌ عَلَى أَن يَخْلُقَ مِثْلَهُمْ) 17:99; 36:81
+- Ŵakulupilila ŵachilumendo ni ŵakulupilila ŵachisyamwali – mbepo sya kumunda syaakusogungwa yisondo, akwete kukala kweneko kwa machili. (الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 9:72; 48:5
+- Soni m'g'akwe mwakwete kwawo: "Ana nduni jwakumbile simbasi sya kumunda ni chilambo?" Chisimu akuti: "Allah." Jangu: (وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ لَيَقُولُنَّ اللَّهُ قُلِ) 31:25; 39:38
+- Soni chisimu twaŵele kwa bamtu m'Qur'an aneji nduna syosope. (وَلَقَدْ ضَرَبْنَا لِلنَّاسِ فِي هَذَا الْقُرْآنِ مِن كُلِّ مَثَلٍ) 30:58; 39:27
+- Pakaŵisiche ŵakutumisywa ŵetu kwa Lutu, akusichilidwa kwa jao, ni akusichilidwa, soni akuti. (جَاءَتْ رُسُلُنَا لُوطًا سِيءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًا وَقَالَ) 11:77; 29:33
+- Soni pakatuti kwa malaika: "M'gwaŵile kwa Adamu." Ŵakwaŵilaga, pane Ibilisi; akana. (وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا إِبْلِيسَ أَبَى) 2:34; 20:116
+- Soni chilambo twachitandichile, ni twaŵikaga mapili ga chandamale, ni twakulisye m'gata jakwe chindu chachinji. (وَالْأَرْضَ مَدَدْنَاهَا وَأَلْقَيْنَا فِيهَا رَوَاسِيَ وَأَنبَتْنَا فِيهَا مِن كُلِّ) 15:19; 50:7
+- Ŵakwaŵilan'ga Allah kwa chimanyisyo cha dini kwaakwe; nambo pakaŵakombolele pa chilambo. (دَعَوُا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ فَلَمَّا نَجَّاهُمْ إِلَى الْبَرِّ) 29:65; 31:32
+- Kwakweo chakumwa cha mesi gakusakala ni chilagasyo chakusakala cha aŵakwananga. (لَهُمْ شَرَابٌ مِّنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْفُرُونَ) 6:70; 10:4
+- Ana tukwete kuŵilan'ga jwakwe jwine m'malo mwa Allah, chindu chakusakala cha chakusakala? (أَنَدْعُو مِن دُونِ اللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا) 6:71; 10:106
+- Kuti Allah akumanyilila yaili m'mbepo sya kumunda ni yaili mu chilambo. (أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 5:97; 58:7
 """;

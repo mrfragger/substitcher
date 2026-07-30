@@ -3019,4 +3019,149 @@ Matching Phrases 11 words
 - (Ceea ce a fost junghiat) în numele altcuiva decât Allah, dar cine este constrâns (de foame), fără să fie ticălos și fără să depășească măsura, atunci... (أُهِلَّ لِغَيْرِ اللَّهِ بِهِ فَمَنِ اضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ) 6:145; 16:115
 - Și când li se spune: Urmați ceea ce Allah a trimis, ei spun: Ba, noi urmăm ceea ce am găsit la părinții noștri. (وَإِذَا قِيلَ لَهُمُ اتَّبِعُوا مَا أَنزَلَ اللَّهُ قَالُوا بَلْ نَتَّبِعُ مَا) 2:170; 31:21
 - El a spus: O, popor al meu, adorați-L pe Allah; nu aveți altă divinitate în afară de El. Nu vă temeți? (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 7:65; 23:23
+Matching Phrases 10 words
+
+- Ei călătoresc pe pământ și privesc cum a fost sfârșitul celor dinaintea lor. (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ) 12:109; 30:9; 30:42; 35:44; 40:82; 47:10
+- Și cine este mai nedrept decât cel care inventează minciuni împotriva lui Allah sau tăgăduiește? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا أَوْ كَذَّبَ) 6:21; 7:37; 10:17; 29:68
+- Cu adevărat, Domnul tău știe mai bine cine se abate de la calea Lui, și El știe mai bine. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ مَن يَضِلُّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ) 6:117; 16:125; 53:30; 68:7
+- Oare nu au călătorit pe pământ și nu au văzut cum a fost sfârșitul celor dinaintea lor? (أَوَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن) 30:9; 35:44; 40:82; 47:10
+- Ei au răsplata lor la Domnul lor, și nu este teamă asupra lor, și nu vor fi întristați. (فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ) 2:62; 2:262; 2:274; 2:277
+- Iar cei care au crezut și au făcut fapte bune au fost introduși în grădini pe sub care curg râuri. (وَأُدْخِلَ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 14:23; 22:14; 22:23; 47:12
+- El a spus: "O, popor al meu! Adorați-L pe Allah, nu aveți alt dumnezeu în afară de El, nu vă temeți?" (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا) 7:65; 11:84; 23:23
+- Nici averile lor, nici copiii lor nu le vor fi de nici un folos în fața lui Allah, și aceștia sunt. (لَن تُغْنِيَ عَنْهُمْ أَمْوَالُهُمْ وَلَا أَوْلَادُهُم مِّنَ اللَّهِ شَيْئًا وَأُولَئِكَ) 3:10; 3:116; 58:17
+- Grădini pe sub care curg râuri, în care vor rămâne veșnic, iar aceasta este marea izbândă. (جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَذَلِكَ الْفَوْزُ الْعَظِيمُ) 4:13; 9:89
+- Oare nu a venit la ei vestea celor dinaintea lor, a poporului lui Noe, a lui 'Ad și a lui Thamud? (أَلَمْ يَأْتِهِمْ نَبَأُ الَّذِينَ مِن قَبْلِهِمْ قَوْمِ نُوحٍ وَعَادٍ وَثَمُودَ) 9:70; 14:9
+- Cine sunt ajutoarele mele pentru calea lui Allah? Ucenicii au spus: "Noi suntem ajutoarele lui Allah, am crezut." (مَنْ أَنصَارِي إِلَى اللَّهِ قَالَ الْحَوَارِيُّونَ نَحْنُ أَنصَارُ اللَّهِ آمَنَّا) 3:52; 61:14
+- Domnul tău știe mai bine cine s-a abătut de la calea Lui, și El știe mai bine pe cei călăuziți. (رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ) 16:125; 68:7
+- Aceasta pentru că Allah este Adevărul, iar ceea ce cheamă ei în afară de El este falsul. (ذَلِكَ بِأَنَّ اللَّهَ هُوَ الْحَقُّ وَأَنَّ مَا يَدْعُونَ مِن دُونِهِ) 22:62; 31:30
+- Iar cine se supune lui Allah și Trimisului Său, Allah îl va introduce în grădini pe sub care curg râuri. (وَمَن يُطِعِ اللَّهَ وَرَسُولَهُ يُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 4:13; 48:17
+- El v-a oprit vouă doar mortăciunea, sângele, carnea de porc și ceea ce a fost junghiat pentru altul. (إِنَّمَا حَرَّمَ عَلَيْكُمُ الْمَيْتَةَ وَالدَّمَ وَلَحْمَ الْخِنزِيرِ وَمَا أُهِلَّ) 2:173; 16:115
+- Să nu adorați pe nimeni în afară de Allah; eu mă tem pentru voi de pedeapsa unei Zile mari. (أَن لَّا تَعْبُدُوا إِلَّا اللَّهَ إِنِّي أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ) 11:26; 46:21
+- Aceasta este din știrile despre necunoscut pe care ți le revelăm; tu nu ai fost printre ei când ei hotărau. (ذَلِكَ مِنْ أَنبَاءِ الْغَيْبِ نُوحِيهِ إِلَيْكَ وَمَا كُنتَ لَدَيْهِمْ إِذْ) 3:44; 12:102
+- Vă mirați că a venit la voi o îndemnare de la Domnul vostru printr-un om dintre voi, pentru a vă preveni? (أَوَعَجِبْتُمْ أَن جَاءَكُمْ ذِكْرٌ مِّن رَّبِّكُمْ عَلَى رَجُلٍ مِّنكُمْ لِيُنذِرَكُمْ) 7:63; 7:69
+- Spune: "Mie mi s-a interzis să-i ador pe cei pe care îi chemați în afară de Allah." (قُلْ إِنِّي نُهِيتُ أَنْ أَعْبُدَ الَّذِينَ تَدْعُونَ مِن دُونِ اللَّهِ) 6:56; 40:66
+- În afară de soțiile lor sau de cele stăpânite de dreptele lor, căci ei nu sunt de blamat. (إِلَّا عَلَى أَزْوَاجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَانُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ) 23:6; 70:30
+- Pentru că Allah face ca noaptea să intre în zi și ca ziua să intre în noapte. (بِأَنَّ اللَّهَ يُولِجُ اللَّيْلَ فِي النَّهَارِ وَيُولِجُ النَّهَارَ فِي اللَّيْلِ) 22:61; 31:29
+- Foc, și a spus familiei sale: "Rămâneți, eu am zărit un foc, poate voi aduce ceva de acolo." (نَارًا فَقَالَ لِأَهْلِهِ امْكُثُوا إِنِّي آنَسْتُ نَارًا لَّعَلِّي آتِيكُم مِّنْهَا) 20:10; 28:29
+- El a spus: "Eu sunt mai bun decât el; pe mine m-ai creat din foc, iar pe el l-ai creat din lut." (قَالَ أَنَا خَيْرٌ مِّنْهُ خَلَقْتَنِي مِن نَّارٍ وَخَلَقْتَهُ مِن طِينٍ) 7:12; 38:76
+- Și când li se spune: "Veniți la ceea ce a pogorât Allah și la Trimis." (وَإِذَا قِيلَ لَهُمْ تَعَالَوْا إِلَى مَا أَنزَلَ اللَّهُ وَإِلَى الرَّسُولِ) 4:61; 5:104
+- Și nu te întrista pentru ei, și nu fi în strâmtoare din cauza vicleniilor lor. (وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُ فِي ضَيْقٍ مِّمَّا يَمْكُرُونَ) 16:127; 27:70
+- Dacă Allah te atinge cu un rău, nimeni nu-l poate îndepărta în afară de El, și dacă. (وَإِن يَمْسَسْكَ اللَّهُ بِضُرٍّ فَلَا كَاشِفَ لَهُ إِلَّا هُوَ وَإِن) 6:17; 10:107
+- Înaintea lor, generații care au umblat prin locuințele lor; întru aceasta sunt semne. (قَبْلَهُم مِّنَ الْقُرُونِ يَمْشُونَ فِي مَسَاكِنِهِمْ إِنَّ فِي ذَلِكَ لَآيَاتٍ) 20:128; 32:26
+- Și Noi am pus acoperitoare peste inimile lor, ca să nu-l înțeleagă, și în urechile lor greutate, și chiar dacă. (وَجَعَلْنَا عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا وَإِن) 6:25; 18:57
+- Trimișii lor au venit cu dovezi limpezi, dar Allah nu era să le facă nedreptate, ci ei înșiși își făceau nedreptate. (رُسُلُهُم بِالْبَيِّنَاتِ فَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ وَلَكِن كَانُوا أَنفُسَهُمْ يَظْلِمُونَ) 9:70; 30:9
+- Și pe pământ, și nu aveți în afară de Allah nici ocrotitor, nici ajutor. (وَالْأَرْضِ وَمَا لَكُم مِّن دُونِ اللَّهِ مِن وَلِيٍّ وَلَا نَصِيرٍ) 2:107; 42:31
+- Apoi veți fi întorși la Cel care știe cele ascunse și cele văzute, și El vă va vesti ceea ce ați făcut. (ثُمَّ تُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ) 9:94; 62:8
+- Noaptea, pentru ca voi să vă odihniți în ea, și ziua, pentru ca voi să vedeți; întru aceasta sunt semne pentru un popor care gândește. (اللَّيْلَ لِتَسْكُنُوا فِيهِ وَالنَّهَارَ مُبْصِرًا إِنَّ فِي ذَلِكَ لَآيَاتٍ لِّقَوْمٍ) 10:67; 27:86
+- Iar ceea ce ți-a fost revelat de la Domnul tău, la mulți dintre ei nu face decât să sporească răzvrătirea și necredința. (وَلَيَزِيدَنَّ كَثِيرًا مِّنْهُم مَّا أُنزِلَ إِلَيْكَ مِن رَّبِّكَ طُغْيَانًا وَكُفْرًا) 5:64; 5:68
+- El a spus: "O, popor al meu! Ce credeți, dacă eu sunt pe o dovadă limpede de la Domnul meu și El mi-a dat." (قَالَ يَاقَوْمِ أَرَأَيْتُمْ إِن كُنتُ عَلَى بَيِّنَةٍ مِّن رَّبِّي وَآتَانِي) 11:28; 11:63
+- Și ei spun: "De ce nu i s-a pogorât un semn de la Domnul său?" Spune: "Cu adevărat." (وَيَقُولُونَ لَوْلَا أُنزِلَ عَلَيْهِ آيَةٌ مِّن رَّبِّهِ فَقُلْ إِنَّمَا) 10:20; 29:50
+- Înainte ca să vină Ziua care nu are întoarcere de la Allah. (مِن قَبْلِ أَن يَأْتِيَ يَوْمٌ لَّا مَرَدَّ لَهُ مِنَ اللَّهِ) 30:43; 42:47
+- Acesta este harul lui Allah, pe care El îl dă cui voiește, iar Allah este Stăpânul harului nemărginit. (ذَلِكَ فَضْلُ اللَّهِ يُؤْتِيهِ مَن يَشَاءُ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ) 57:21; 62:4
+- Și întru adevăr, în dobitoace este pentru voi o învățătură; Noi vă dăm să beți din ceea ce se află în burțile lor. (وَإِنَّ لَكُمْ فِي الْأَنْعَامِ لَعِبْرَةً نُّسْقِيكُم مِّمَّا فِي بُطُونِهِ) 16:66; 23:21
+- Că acesta este Adevărul de la Domnul lor, și că Allah nu este nepăsător față de ceea ce fac ei. (أَنَّهُ الْحَقُّ مِن رَّبِّهِمْ وَمَا اللَّهُ بِغَافِلٍ عَمَّا يَعْمَلُونَ) 2:144; 2:149
+- Înaintea lor și în urma lor, ca să nu adorați pe nimeni în afară de Allah. (مِن بَيْنِ أَيْدِيهِمْ وَمِنْ خَلْفِهِمْ أَلَّا تَعْبُدُوا إِلَّا اللَّهَ) 41:14; 46:21
+- Cu adevărat, voi veniți la bărbați cu poftă, în locul femeilor; voi sunteți un popor care întrece măsura. (إِنَّكُمْ لَتَأْتُونَ الرِّجَالَ شَهْوَةً مِّن دُونِ النِّسَاءِ بَلْ أَنتُمْ قَوْمٌ) 7:81; 27:55
+- Veșnic în ele, cât vor ține cerurile și pământul, în afară de ceea ce voiește Domnul tău. (خَالِدِينَ فِيهَا مَا دَامَتِ السَّمَاوَاتُ وَالْأَرْضُ إِلَّا مَا شَاءَ رَبُّكَ) 11:107; 11:108
+- Cei care sunt în ceruri și cei care sunt pe pământ, în afară de cei care voiește Allah. (مَن فِي السَّمَاوَاتِ وَمَن فِي الْأَرْضِ إِلَّا مَن شَاءَ اللَّهُ) 27:87; 39:68
+- Acolo vor fi împodobiți cu brățări de aur și cu mărgăritare, iar veșmintele lor vor fi de mătase. (يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِن ذَهَبٍ وَلُؤْلُؤًا وَلِبَاسُهُمْ فِيهَا حَرِيرٌ) 22:23; 35:33
+- Și a pogorât apă din cer, și cu ea a scos fructe ca hrană pentru voi. (وَأنزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجَ بِهِ مِنَ الثَّمَرَاتِ رِزْقًا لَّكُمْ) 2:22; 14:32
+- Și când am luat legământul vostru și am ridicat muntele deasupra voastră: "Luați cu tărie ceea ce v-am dat." (وَإِذْ أَخَذْنَا مِيثَاقَكُمْ وَرَفَعْنَا فَوْقَكُمُ الطُّورَ خُذُوا مَا آتَيْنَاكُم بِقُوَّةٍ) 2:63; 2:93
+- Și el s-a întors de la ei și a spus: "O, popor al meu! Eu v-am transmis mesajul Domnului meu și v-am sfătuit." (فَتَوَلَّى عَنْهُمْ وَقَالَ يَاقَوْمِ لَقَدْ أَبْلَغْتُكُمْ رِسَالَةَ رَبِّي وَنَصَحْتُ لَكُمْ) 7:79; 7:93
+- Râuri curg sub ei, acolo vor fi împodobiți cu brățări de aur. (تَجْرِي مِن تَحْتِهِمُ الْأَنْهَارُ يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِن ذَهَبٍ) 18:31; 22:23
+- Chiar dacă ar avea tot ce este pe pământ și încă pe atât, pentru a se răscumpăra. (لَوْ أَنَّ لَهُم مَّا فِي الْأَرْضِ جَمِيعًا وَمِثْلَهُ مَعَهُ لِيَفْتَدُوا) 5:36; 13:18
+- Nici o vietate, dar El îi amână până la un termen hotărât, iar când termenul lor vine. (مِن دَابَّةٍ وَلَكِن يُؤَخِّرُهُمْ إِلَى أَجَلٍ مُّسَمًّى فَإِذَا جَاءَ أَجَلُهُمْ) 16:61; 35:45
+- Noi v-am creat din pământ, apoi dintr-o picătură, apoi dintr-un cheag, apoi. (خَلَقْنَاكُم مِّن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ مِنْ عَلَقَةٍ ثُمَّ) 22:5; 40:67
+- Și Allah va judeca între ei în Ziua Învierii cu privire la ceea ce au fost în neînțelegere. (فَاللَّهُ يَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 2:113; 22:69
+- Ți-a venit cunoștința, nu ai de la Allah nici ocrotitor, nici. (جَاءَكَ مِنَ الْعِلْمِ مَا لَكَ مِنَ اللَّهِ مِن وَلِيٍّ وَلَا) 2:120; 13:37
+- Și când Noi dăruim omului har, el se întoarce și se depărtează, iar când răul îl atinge. (وَإِذَا أَنْعَمْنَا عَلَى الْإِنسَانِ أَعْرَضَ وَنَأَى بِجَانِبِهِ وَإِذَا مَسَّهُ الشَّرُّ) 17:83; 41:51
+- Și nu este nimic mai mic sau mai mare decât aceasta, care să nu fie într-o Carte limpede. (وَلَا أَصْغَرَ مِن ذَلِكَ وَلَا أَكْبَرَ إِلَّا فِي كِتَابٍ مُّبِينٍ) 10:61; 34:3
+
+Matching Phrases 9 words
+
+- Și el a spus: "O, popor al meu! Adorați-L pe Allah, nu aveți alt dumnezeu în afară de El." (فَقَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ) 7:59; 7:65; 7:73; 7:85; 11:50; 11:61; 11:84; 23:23
+- Oare nu au călătorit pe pământ și nu au văzut cum a fost sfârșitul celor dinaintea lor? (أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ) 12:109; 30:9; 35:44; 40:21; 40:82; 47:10
+- Răsplata lor este la Domnul lor, și nu este teamă asupra lor, și nu vor fi întristați. (أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ) 2:62; 2:112; 2:262; 2:274; 2:277
+- Ei călătoresc pe pământ și privesc cum a fost sfârșitul celor dinaintea lor. (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن) 30:9; 30:42; 35:44; 40:82; 47:10
+- Pe pământ, ca să vadă cum a fost sfârșitul celor dinaintea lor. (فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ) 30:9; 30:42; 35:44; 40:82; 47:10
+- Și cine este mai nedrept decât cel care inventează minciuni împotriva lui Allah sau tăgăduiește? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا أَوْ) 6:21; 6:93; 7:37; 10:17; 29:68
+- Și când Allah hotărăște un lucru, El spune doar: "Fii!" și el este. (وَإِذَا قَضَى أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُن فَيَكُونُ) 2:117; 3:47; 19:35; 40:68
+- Și nu aveți în afară de Allah nici ocrotitor, nici ajutor. (وَمَا لَكُم مِّن دُونِ اللَّهِ مِن وَلِيٍّ وَلَا نَصِيرٍ) 2:107; 9:116; 29:22; 42:31
+- Eu le voi șterge greșelile și îi voi introduce în grădini pe sub care curg râuri. (لَأُكَفِّرَنَّ عَنْهُمْ سَيِّئَاتِهِمْ وَلَأُدْخِلَنَّهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 3:195; 5:12; 64:9; 66:8
+- Noi îi vom introduce în grădini pe sub care curg râuri, în care vor rămâne veșnic. (سَنُدْخِلُهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا) 4:57; 4:122; 64:9; 65:11
+- Domnul tău știe mai bine cine s-a abătut de la calea Lui, și El știe mai bine. (رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ) 16:125; 53:30; 68:7
+- Veți fi întorși la Cel care știe cele ascunse și cele văzute, și El vă va vesti ceea ce ați făcut. (تُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ) 9:94; 9:105; 62:8
+- I-au ucis pe fiii voștri și le-au lăsat în viață pe femeile voastre; în aceasta a fost o mare încercare de la Domnul vostru. (أَبْنَاءَكُمْ وَيَسْتَحْيُونَ نِسَاءَكُمْ وَفِي ذَلِكُم بَلَاءٌ مِّن رَّبِّكُمْ عَظِيمٌ) 2:49; 7:141; 14:6
+- Cu adevărat, Domnul tău știe mai bine cine se abate de la calea Lui, și El. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ) 16:125; 53:30; 68:7
+- Allah, Căruia Îi aparține ceea ce este în ceruri și ceea ce este pe pământ. (اللَّهِ الَّذِي لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 14:2; 34:1; 42:53
+- Printre comunitățile care au fost înaintea voastră, dintre djinni și oameni. (فِي أُمَمٍ قَدْ خَلَتْ مِن قَبْلِكُم مِّنَ الْجِنِّ وَالْإِنسِ) 7:38; 41:25; 46:18
+- Adorați-L pe Allah, nu aveți alt dumnezeu în afară de El, nu vă temeți? (اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 7:65; 23:23; 23:32
+- Și Noi am pus acoperitoare peste inimile lor, ca să nu-l înțeleagă, și în urechile lor greutate. (وَجَعَلْنَا عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا) 6:25; 17:46; 18:57
+- El va judeca între ei în Ziua Învierii cu privire la ceea ce au fost în neînțelegere. (يَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 2:113; 16:124; 22:69
+- El a spus: "O, popor al meu! Ce credeți, dacă eu sunt pe o dovadă limpede de la Domnul meu?" (قَالَ يَاقَوْمِ أَرَأَيْتُمْ إِن كُنتُ عَلَى بَيِّنَةٍ مِّن رَّبِّي) 11:28; 11:63; 11:88
+- Aceasta pentru ceea ce au trimis mai înainte mâinile voastre, iar Allah nu este nedrept cu robii. (ذَلِكَ بِمَا قَدَّمَتْ أَيْدِيكُمْ وَأَنَّ اللَّهَ لَيْسَ بِظَلَّامٍ لِّلْعَبِيدِ) 3:182; 8:51; 22:10
+- Pentru ei în această lume este rușine, iar în Lumea de Apoi este osândă mare. (لَهُمْ فِي الدُّنْيَا خِزْيٌ وَلَهُمْ فِي الْآخِرَةِ عَذَابٌ عَظِيمٌ) 2:114; 5:41
+- Ceea ce este în ceruri și ceea ce este pe pământ, și Allah este de ajuns ca Ocrotitor. (مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَكَفَى بِاللَّهِ وَكِيلًا) 4:132; 4:171
+- În afară de cei care au crezut și au făcut fapte bune; aceia vor avea o răsplată neîntreruptă. (إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ) 84:25; 95:6
+- Ca să nu-Mi faci asociați despre care nu ai cunoștință; nu-i asculta pe ei. (لِتُشْرِكَ بِي مَا لَيْسَ لَكَ بِهِ عِلْمٌ فَلَا تُطِعْهُمَا) 29:8; 31:15
+- Cu adevărat, aceasta este o îndemnare; și cine voiește, să ia cale către Domnul său. (إِنَّ هَذِهِ تَذْكِرَةٌ فَمَن شَاءَ اتَّخَذَ إِلَى رَبِّهِ سَبِيلًا) 73:19; 76:29
+- Iar cine este mulțumitor, mulțumește pentru sine; iar cine este nemulțumitor. (وَمَن شَكَرَ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِ وَمَن كَفَرَ فَإِنَّ) 27:40; 31:12
+- Cei care săvârșesc Rugăciunea, dau Dania și care cred în Lumea de Apoi. (الَّذِينَ يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُم بِالْآخِرَةِ هُمْ يُوقِنُونَ) 27:3; 31:4
+- Lui Abraham, lui Ismail, lui Isaac, lui Iacob și semințiilor, și ceea ce i-a fost dat lui Moise și lui Iisus. (إِبْرَاهِيمَ وَإِسْمَاعِيلَ وَإِسْحَاقَ وَيَعْقُوبَ وَالْأَسْبَاطِ وَمَا أُوتِيَ مُوسَى وَعِيسَى) 2:136; 3:84
+- În cete, până când vor veni la ea, și porțile ei se vor deschide, și paznicii ei le vor spune. (زُمَرًا حَتَّى إِذَا جَاءُوهَا فُتِحَتْ أَبْوَابُهَا وَقَالَ لَهُمْ خَزَنَتُهَا) 39:71; 39:73
+- Allah nu vă va pedepsi pentru vorbele nechibzuite din jurămintele voastre, ci vă va pedepsi pentru ceea ce. (لَّا يُؤَاخِذُكُمُ اللَّهُ بِاللَّغْوِ فِي أَيْمَانِكُمْ وَلَكِن يُؤَاخِذُكُم بِمَا) 2:225; 5:89
+- Îndurare, ei se bucură de ea, iar dacă îi lovește un rău pentru ceea ce au făcut mâinile lor. (رَحْمَةً فَرِحُوا بِهَا وَإِن تُصِبْهُمْ سَيِّئَةٌ بِمَا قَدَّمَتْ أَيْدِيهِمْ) 30:36; 42:48
+- Grădini pe sub care curg râuri, în care vor rămâne veșnic, și ce minunată este răsplata celor care muncesc! (تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَنِعْمَ أَجْرُ الْعَامِلِينَ) 3:136; 29:58
+- Allah știe ceea ce este în ceruri și ceea ce este pe pământ, și Allah. (اللَّهُ وَيَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَاللَّهُ) 3:29; 49:16
+- Supuneți-vă lui Allah și supuneți-vă Trimisului; iar dacă vă întoarceți, El este dator. (أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ فَإِن تَوَلَّوْا فَإِنَّمَا عَلَيْهِ) 24:54; 64:12
+- Ei au răsplata lor la Domnul lor, și nu este teamă asupra lor, și ei. (فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ) 2:274; 2:277
+- Și au spus: "Oare când vom fi oase și țărână, vom fi înviați ca o făptură nouă?" (وَقَالُوا أَإِذَا كُنَّا عِظَامًا وَرُفَاتًا أَإِنَّا لَمَبْعُوثُونَ خَلْقًا جَدِيدًا) 17:49; 17:98
+- Și nu găsesc pentru ei în afară de Allah nici ocrotitor, nici ajutor. (وَلَا يَجِدُونَ لَهُم مِّن دُونِ اللَّهِ وَلِيًّا وَلَا نَصِيرًا) 4:173; 33:17
+- "Cât ai rămas?" El a spus: "Am rămas o zi sau o parte dintr-o zi." El a spus. (كَمْ لَبِثْتَ قَالَ لَبِثْتُ يَوْمًا أَوْ بَعْضَ يَوْمٍ قَالَ) 2:259; 18:19
+- Veșnic până în Ziua Învierii, cine este dumnezeu în afară de Allah care să vă aducă? (سَرْمَدًا إِلَى يَوْمِ الْقِيَامَةِ مَنْ إِلَهٌ غَيْرُ اللَّهِ يَأْتِيكُم) 28:71; 28:72
+- Cel care face bine, bărbat sau femeie, și este credincios. (مَنْ عَمِلَ صَالِحًا مِّن ذَكَرٍ أَوْ أُنثَى وَهُوَ مُؤْمِنٌ) 16:97; 40:40
+- Cei care întorc de la calea lui Allah și voiesc să o facă strâmbă, și ei în Lumea de Apoi. (الَّذِينَ يَصُدُّونَ عَن سَبِيلِ اللَّهِ وَيَبْغُونَهَا عِوَجًا وَهُم بِالْآخِرَةِ) 7:45; 11:19
+- Mâncați de unde voiți, dar nu vă apropiați de acest pom, căci veți fi dintre cei nedrepți. (حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَذِهِ الشَّجَرَةَ فَتَكُونَا مِنَ الظَّالِمِينَ) 2:35; 7:19
+- Spune: "O, popor al meu! Lucrați după puterea voastră, și eu voi lucra, și veți ști." (قُلْ يَاقَوْمِ اعْمَلُوا عَلَى مَكَانَتِكُمْ إِنِّي عَامِلٌ فَسَوْفَ تَعْلَمُونَ) 6:135; 39:39
+- Cu adevărat, pierduți sunt cei care se pierd pe ei înșiși și pe familiile lor în Ziua Învierii, nu este așa? (إِنَّ الْخَاسِرِينَ الَّذِينَ خَسِرُوا أَنفُسَهُمْ وَأَهْلِيهِمْ يَوْمَ الْقِيَامَةِ أَلَا) 39:15; 42:45
+- Cel care se călăuzește, se călăuzește pentru sine; iar cel care se abate, se abate în paguba lui; și. (يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا وَمَا) 10:108; 39:41
+- Iar cei care nu cred spun: "De ce nu i s-a pogorât un semn de la Domnul său?" (وَيَقُولُ الَّذِينَ كَفَرُوا لَوْلَا أُنزِلَ عَلَيْهِ آيَةٌ مِّن رَّبِّهِ) 13:7; 13:27
+- Cel care v-a făcut noaptea să vă odihniți în ea, și ziua să vedeți, cu adevărat. (الَّذِي جَعَلَ لَكُمُ اللَّيْلَ لِتَسْكُنُوا فِيهِ وَالنَّهَارَ مُبْصِرًا إِنَّ) 10:67; 40:61
+- Înainte să vină Ziua în care nu va fi nici schimb, nici prietenie. (مِّن قَبْلِ أَن يَأْتِيَ يَوْمٌ لَّا بَيْعٌ فِيهِ وَلَا) 2:254; 14:31
+- Să cugete că tovarășul lor nu este stăpânit de djenună; el este doar un prevenitor. (يَتَفَكَّرُوا مَا بِصَاحِبِهِم مِّن جِنَّةٍ إِنْ هُوَ إِلَّا نَذِيرٌ) 7:184; 34:46
+- Veșnic în ea, osânda nu le va fi ușurată, și nu li se va da răgaz. (خَالِدِينَ فِيهَا لَا يُخَفَّفُ عَنْهُمُ الْعَذَابُ وَلَا هُمْ يُنظَرُونَ) 2:162; 3:88
+- Nu întinde ochii tăi către ceea ce Noi am dăruit unor perechi dintre ei. (لَا تَمُدَّنَّ عَيْنَيْكَ إِلَى مَا مَتَّعْنَا بِهِ أَزْوَاجًا مِّنْهُمْ) 15:88; 20:131
+- Și nu le scădeați oamenilor drepturile, și nu faceți stricăciune pe pământ. (وَلَا تَبْخَسُوا النَّاسَ أَشْيَاءَهُمْ وَلَا تَعْثَوْا فِي الْأَرْضِ مُفْسِدِينَ) 11:85; 26:183
+- Și pacea fie asupra lui în ziua în care s-a născut, și în ziua în care va muri, și în ziua în care va fi înviat. (وَسَلَامٌ عَلَيْهِ يَوْمَ وُلِدَ وَيَوْمَ يَمُوتُ وَيَوْمَ يُبْعَثُ حَيًّا) 19:15; 19:33
+- O, popor al meu! Lucrați după puterea voastră, și eu voi lucra, și veți ști cine. (يَاقَوْمِ اعْمَلُوا عَلَى مَكَانَتِكُمْ إِنِّي عَامِلٌ فَسَوْفَ تَعْلَمُونَ مَن) 6:135; 11:93
+- Și nu se cuvine unui trimis să aducă un semn decât cu îngăduința lui Allah. (وَمَا كَانَ لِرَسُولٍ أَن يَأْتِيَ بِآيَةٍ إِلَّا بِإِذْنِ اللَّهِ) 13:38; 40:78
+- Apoi fiecărui suflet i se va dărui pe deplin ceea ce a agonisit, și nu vor fi nedreptățiți. (ثُمَّ تُوَفَّى كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ) 2:281; 3:161
+- Bărbat sau femeie, și este credincios, aceia vor intra în Rai. (مِن ذَكَرٍ أَوْ أُنثَى وَهُوَ مُؤْمِنٌ فَأُولَئِكَ يَدْخُلُونَ الْجَنَّةَ) 4:124; 40:40
+- El nu a luat fiu și nu are asociat în stăpânire. (لَمْ يَتَّخِذْ وَلَدًا وَلَمْ يَكُن لَّهُ شَرِيكٌ فِي الْمُلْكِ) 17:111; 25:2
+- Iar pe cel pe care Allah îl călăuzește, acela este bine călăuzit; iar pe cel pe care îl duce în rătăcire. (وَمَن يَهْدِ اللَّهُ فَهُوَ الْمُهْتَدِ وَمَن يُضْلِلْ فَلَن تَجِدَ) 17:97; 18:17
+- Privește cum ei îți dau pilde și rătăcesc, și nu pot găsi calea. (انظُرْ كَيْفَ ضَرَبُوا لَكَ الْأَمْثَالَ فَضَلُّوا فَلَا يَسْتَطِيعُونَ سَبِيلًا) 17:48; 25:9
+- Spune: "Mă tem, dacă sunt neascultător față de Domnul meu, de osânda unei Zile mari." (قُلْ إِنِّي أَخَافُ إِنْ عَصَيْتُ رَبِّي عَذَابَ يَوْمٍ عَظِيمٍ) 6:15; 39:13
+- Li s-au arătat goliciunile lor și au început să-și acopere trupurile cu frunze din Rai. (بَدَتْ لَهُمَا سَوْآتُهُمَا وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِن وَرَقِ الْجَنَّةِ) 7:22; 20:121
+- Și chemați-i pe cei pe care îi puteți, în afară de Allah, dacă sunteți sinceri. (وَادْعُوا مَنِ اسْتَطَعْتُم مِّن دُونِ اللَّهِ إِن كُنتُمْ صَادِقِينَ) 10:38; 11:13
+- Tot ceea ce este pe pământ și încă pe atât, ca să se răscumpere cu aceasta. (مَّا فِي الْأَرْضِ جَمِيعًا وَمِثْلَهُ مَعَهُ لِيَفْتَدُوا بِهِ مِنْ) 5:36; 39:47
+- Luați cu tărie ceea ce v-am dat și amintiți-vă ce se află în ea, pentru ca voi să fiți temători. (خُذُوا مَا آتَيْنَاكُم بِقُوَّةٍ وَاذْكُرُوا مَا فِيهِ لَعَلَّكُمْ تَتَّقُونَ) 2:63; 7:171
+- Voi săvârșiți desfrânarea pe care nimeni dintre locuitorii lumilor nu a săvârșit-o înaintea voastră? (أَتَأْتُونَ الْفَاحِشَةَ مَا سَبَقَكُم بِهَا مِنْ أَحَدٍ مِّنَ الْعَالَمِينَ) 7:80; 29:28
+- Și ale lui Allah sunt cele din ceruri și cele de pe pământ, și Allah este. (وَلِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَكَانَ اللَّهُ) 4:126; 4:131
+- Răul pe care l-au făcut i-a ajuns, și ceea ce ei batjocoreau i-a cuprins. (سَيِّئَاتُ مَا عَمِلُوا وَحَاقَ بِهِم مَّا كَانُوا بِهِ يَسْتَهْزِئُونَ) 16:34; 45:33
+- Un trimis dintre voi, care vă citește versetele Noastre, vă curăță și vă învață Cartea și Înțelepciunea. (رَسُولًا مِّنكُمْ يَتْلُو عَلَيْكُمْ آيَاتِنَا وَيُزَكِّيكُمْ وَيُعَلِّمُكُمُ الْكِتَابَ وَالْحِكْمَةَ) 2:151; 62:2
+- Din el au țâșnit douăsprezece izvoare; fiecare neam și-a cunoscut locul de băut. (مِنْهُ اثْنَتَا عَشْرَةَ عَيْنًا قَدْ عَلِمَ كُلُّ أُنَاسٍ مَّشْرَبَهُمْ) 2:60; 7:160
+- Doar presupunere, iar presupunerea nu este de nici un folos împotriva Adevărului. (إِلَّا ظَنًّا إِنَّ الظَّنَّ لَا يُغْنِي مِنَ الْحَقِّ شَيْئًا) 10:36; 53:28
+- Iar când îl voi fi săvârșit și voi fi suflat în el din Duhul Meu, cădeți înaintea lui, prosternându-vă. (فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ فِيهِ مِن رُّوحِي فَقَعُوا لَهُ سَاجِدِينَ) 15:29; 38:72
+- Căruia îi aparține sfârșitul cel bun în această lume? Cu adevărat, cei nedrepți nu vor izbândi. (مَن تَكُونُ لَهُ عَاقِبَةُ الدَّارِ إِنَّهُ لَا يُفْلِحُ الظَّالِمُونَ) 6:135; 28:37
+- Cel care a creat cerurile și pământul este în stare să creeze asemenea lor. (الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ قَادِرٌ عَلَى أَن يَخْلُقَ مِثْلَهُمْ) 17:99; 36:81
+- Credincioșilor și credincioaselor, grădini pe sub care curg râuri, în care vor rămâne veșnic. (الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 9:72; 48:5
+- Și dacă îi întrebi cine a creat cerurile și pământul, vor spune: "Allah." Spune. (وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ لَيَقُولُنَّ اللَّهُ قُلِ) 31:25; 39:38
+- Și Noi am dat oamenilor în acest Coran tot felul de pilde. (وَلَقَدْ ضَرَبْنَا لِلنَّاسِ فِي هَذَا الْقُرْآنِ مِن كُلِّ مَثَلٍ) 30:58; 39:27
+- Când trimișii Noștri au venit la Lot, el s-a întristat pentru ei și s-a simțit îngrijorat, și a spus. (جَاءَتْ رُسُلُنَا لُوطًا سِيءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًا وَقَالَ) 11:77; 29:33
+- Și când Noi le-am spus îngerilor: "Prosternați-vă înaintea lui Adam!" s-au prosternat, afară de Iblis, care a refuzat. (وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا إِبْلِيسَ أَبَى) 2:34; 20:116
+- Și pământul l-am întins, și am aruncat în el munți neclintiți, și am făcut să crească în el din toate. (وَالْأَرْضَ مَدَدْنَاهَا وَأَلْقَيْنَا فِيهَا رَوَاسِيَ وَأَنبَتْنَا فِيهَا مِن كُلِّ) 15:19; 50:7
+- Îl chemau pe Allah, cu credință curată față de El, iar când El i-a scăpat pe uscat. (دَعَوُا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ فَلَمَّا نَجَّاهُمْ إِلَى الْبَرِّ) 29:65; 31:32
+- Pentru ei este o băutură din apă clocotită și o osândă dureroasă, pentru că au fost necredincioși. (لَهُمْ شَرَابٌ مِّنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْفُرُونَ) 6:70; 10:4
+- Oare să chemăm în afară de Allah ceea ce nu ne este de nici un folos și nu ne poate face nici un rău? (أَنَدْعُو مِن دُونِ اللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا) 6:71; 10:106
+- Allah știe ceea ce este în ceruri și ceea ce este pe pământ. (أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 5:97; 58:7
 """;

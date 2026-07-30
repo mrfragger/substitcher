@@ -3018,4 +3018,149 @@ Matching Phrases 11 words
 - Maye babomeli yango na kombo mosusu kasi ya Allah te, kasi moto oyo alelaki (ya nzala) kasi azali na mokano te mpe azali koleka ndelo te, bongo... (أُهِلَّ لِغَيْرِ اللَّهِ بِهِ فَمَنِ اضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ) 6:145; 16:115
 - Mpe tango babengeli bango: 'Bolanda maye Allah akitisi,' balobaki: 'Te, tokolanda maye tokutaki batata na biso na yango.' (وَإِذَا قِيلَ لَهُمُ اتَّبِعُوا مَا أَنزَلَ اللَّهُ قَالُوا بَلْ نَتَّبِعُ مَا) 2:170; 31:21
 - Alobaki: 'Eh bato na ngai, bondima Allah; bozali na nzambe mosusu te kasi ye moko. Boni bozali kobanga te?' (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 7:65; 23:23
+Matching Phrases 10 words
+
+- Bazali kotambola na mokili mpe bazali kotala ndenge esilaki ya baye bazalaki liboso na bango. (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ) 12:109; 30:9; 30:42; 35:44; 40:82; 47:10
+- Mpe nani azali mabe koleka moto oyo akomi lokuta na Allah to azali koboya? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا أَوْ كَذَّبَ) 6:21; 7:37; 10:17; 29:68
+- Ya soló, Nkolo wayo ayebi malamu koleka moto oyo abungi na nzela naye, mpe ye ayebi malamu. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ مَن يَضِلُّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ) 6:117; 16:125; 53:30; 68:7
+- Bazali kokende na mokili te mpe bazali kotala te ndenge esilaki ya baye bazalaki liboso na bango? (أَوَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن) 30:9; 35:44; 40:82; 47:10
+- Bazali na lifuta na bango epai ya Nkolo na bango, mpe bobangi ezali te likolo na bango, mpe bakozala na mawa te. (فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ) 2:62; 2:262; 2:274; 2:277
+- Mpe baye bandimaki mpe basalaki misala milamu, bakotaki na bilanga oyo mingala mikitanaka na nse na yango. (وَأُدْخِلَ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 14:23; 22:14; 22:23; 47:12
+- Alobi: "Eh bato na ngai! Bopakola Allah, bozali na nzambe mosusu te kasi ye, bokobanga te?" (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا) 7:65; 11:84; 23:23
+- Mbongo na bango mpe bana na bango ekosalisa bango te na Allah ata moke, mpe baye nde. (لَن تُغْنِيَ عَنْهُمْ أَمْوَالُهُمْ وَلَا أَوْلَادُهُم مِّنَ اللَّهِ شَيْئًا وَأُولَئِكَ) 3:10; 3:116; 58:17
+- Bilanga oyo mingala mikitanaka na nse na yango, bakovanda kuna libela, mpe yango nde elonga monene. (جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَذَلِكَ الْفَوْزُ الْعَظِيمُ) 4:13; 9:89
+- Boye sango ya baye bazalaki liboso na bango, bato ya Nuhu, Aad, mpe Thamud, eyaki bango te? (أَلَمْ يَأْتِهِمْ نَبَأُ الَّذِينَ مِن قَبْلِهِمْ قَوْمِ نُوحٍ وَعَادٍ وَثَمُودَ) 9:70; 14:9
+- Banani basalisani na ngai na nzela ya Allah? Bayekoli balobi: "Biso nde basalisani ya Allah, bandimeli." (مَنْ أَنصَارِي إِلَى اللَّهِ قَالَ الْحَوَارِيُّونَ نَحْنُ أَنصَارُ اللَّهِ آمَنَّا) 3:52; 61:14
+- Nkolo wayo ayebi malamu koleka moto oyo abungi na nzela naye, mpe ayebi malamu koleka baye bakambami. (رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ) 16:125; 68:7
+- Yango mpo na Allah nde ye azali solo, mpe oyo bazali kobenga na kati ye ezali lokuta. (ذَلِكَ بِأَنَّ اللَّهَ هُوَ الْحَقُّ وَأَنَّ مَا يَدْعُونَ مِن دُونِهِ) 22:62; 31:30
+- Mpe moto nyonso atosi Allah mpe motindami naye, Allah akokotisa ye na bilanga oyo mingala mikitanaka na nse na yango. (وَمَن يُطِعِ اللَّهَ وَرَسُولَهُ يُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 4:13; 48:17
+- Ya soló, ye nde apekisaki bino nyama oyo ekufi, makila, nama ya ngulu, mpe oyo ebombami na nkombo ya moto mosusu. (إِنَّمَا حَرَّمَ عَلَيْكُمُ الْمَيْتَةَ وَالدَّمَ وَلَحْمَ الْخِنزِيرِ وَمَا أُهِلَّ) 2:173; 16:115
+- Ete bopakola moto mosusu te kasi Allah; ya soló, nazali kobanga mpo na bino etumbu ya mokolo monene. (أَن لَّا تَعْبُدُوا إِلَّا اللَّهَ إِنِّي أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ) 11:26; 46:21
+- Yango ezali kati ya sango ya mibombami oyo tozali kokitisa epai nayo; ozalaki te epai na bango ntango bazalaki kozwa mikano. (ذَلِكَ مِنْ أَنبَاءِ الْغَيْبِ نُوحِيهِ إِلَيْكَ وَمَا كُنتَ لَدَيْهِمْ إِذْ) 3:44; 12:102
+- Bozali komona likambo te ete bokebisi eyaki epai na bino kowuta na Nkolo na bino na nzela ya moto moko oyo azali kati na bino, mpo akebisa bino? (أَوَعَجِبْتُمْ أَن جَاءَكُمْ ذِكْرٌ مِّن رَّبِّكُمْ عَلَى رَجُلٍ مِّنكُمْ لِيُنذِرَكُمْ) 7:63; 7:69
+- Loba: "Ya soló, ngai napesamaki etumbu ete napakola baye bozali kobenga na kati Allah." (قُلْ إِنِّي نُهِيتُ أَنْ أَعْبُدَ الَّذِينَ تَدْعُونَ مِن دُونِ اللَّهِ) 6:56; 40:66
+- Longola basi na bango to baye maboko na bango ya mobali ezali na bokonzi na bango, mpo bango bazali na mbeba te. (إِلَّا عَلَى أَزْوَاجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَانُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ) 23:6; 70:30
+- Mpo Allah azali kokotisa butu na moi, mpe kokotisa moi na butu. (بِأَنَّ اللَّهَ يُولِجُ اللَّيْلَ فِي النَّهَارِ وَيُولِجُ النَّهَارَ فِي اللَّيْلِ) 22:61; 31:29
+- Moto, mpe alobi na libota na ye: "Bokanga, ngai namoni moto, tango mosusu nakomemela bino eloko kowuta na yango." (نَارًا فَقَالَ لِأَهْلِهِ امْكُثُوا إِنِّي آنَسْتُ نَارًا لَّعَلِّي آتِيكُم مِّنْهَا) 20:10; 28:29
+- Alobi: "Ngai nazali malamu koleka ye; okeli ngai na moto, mpe okeli ye na mabele." (قَالَ أَنَا خَيْرٌ مِّنْهُ خَلَقْتَنِي مِن نَّارٍ وَخَلَقْتَهُ مِن طِينٍ) 7:12; 38:76
+- Mpe ntango balobi na bango: "Boyá na oyo Allah akitisi, mpe na motindami." (وَإِذَا قِيلَ لَهُمْ تَعَالَوْا إِلَى مَا أَنزَلَ اللَّهُ وَإِلَى الرَّسُولِ) 4:61; 5:104
+- Mpe ozala na mawa te mpo na bango, mpe ozala na mpasi te mpo na likita na bango. (وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُ فِي ضَيْقٍ مِّمَّا يَمْكُرُونَ) 16:127; 27:70
+- Mpe soki Allah asili yo na mabe, moto mosusu te akoki kolongola yango kasi ye, mpe soki. (وَإِن يَمْسَسْكَ اللَّهُ بِضُرٍّ فَلَا كَاشِفَ لَهُ إِلَّا هُوَ وَإِن) 6:17; 10:107
+- Liboso na bango, baponzi oyo bazalaki kotambola na bandako na bango; ya soló, kati na yango bazali na bilembo. (قَبْلَهُم مِّنَ الْقُرُونِ يَمْشُونَ فِي مَسَاكِنِهِمْ إِنَّ فِي ذَلِكَ لَآيَاتٍ) 20:128; 32:26
+- Mpe totiyaki mapapili na mitema na bango, mpo basosola yango te, mpe na matoyi na bango bozito, mpe soki. (وَجَعَلْنَا عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا وَإِن) 6:25; 18:57
+- Batindami na bango bayaki epai na bango na bilembo ya polele, kasi Allah azalaki te moto oyo akosala bango mabe, kasi bango moko nde bazalaki kosala bango moko mabe. (رُسُلُهُم بِالْبَيِّنَاتِ فَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ وَلَكِن كَانُوا أَنفُسَهُمْ يَظْلِمُونَ) 9:70; 30:9
+- Mpe na mokili, mpe bozali na mobateli te, mpe mosungi te kasi Allah. (وَالْأَرْضِ وَمَا لَكُم مِّن دُونِ اللَّهِ مِن وَلِيٍّ وَلَا نَصِيرٍ) 2:107; 42:31
+- Na sima bokozongisama epai ya ye oyo ayebi mabombami mpe makomonama, mpe akoyebisa bino manso oyo bozalaki kosala. (ثُمَّ تُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ) 9:94; 62:8
+- Butu mpo bolala kati na yango, mpe moi mpo botala; ya soló, kati na yango ezali na bilembo mpo na bato oyo bazali kokanisa. (اللَّيْلَ لِتَسْكُنُوا فِيهِ وَالنَّهَارَ مُبْصِرًا إِنَّ فِي ذَلِكَ لَآيَاتٍ لِّقَوْمٍ) 10:67; 27:86
+- Mpe oyo ekitelisami epai nayo kowuta na Nkolo wayo, ekobakisela bango ebele bobele kozanga botosi mpe bopagano. (وَلَيَزِيدَنَّ كَثِيرًا مِّنْهُم مَّا أُنزِلَ إِلَيْكَ مِن رَّبِّكَ طُغْيَانًا وَكُفْرًا) 5:64; 5:68
+- Alobi: "Eh bato na ngai! Bozali kotala ndenge nini soki ngai nazali na elembo ya polele kowuta na Nkolo na ngai, mpe ye apesi ngai." (قَالَ يَاقَوْمِ أَرَأَيْتُمْ إِن كُنتُ عَلَى بَيِّنَةٍ مِّن رَّبِّي وَآتَانِي) 11:28; 11:63
+- Mpe bazali koloba: "Mpo na nini elembo ekitelaki ye te kowuta na Nkolo naye?" Loba: "Ya soló." (وَيَقُولُونَ لَوْلَا أُنزِلَ عَلَيْهِ آيَةٌ مِّن رَّبِّهِ فَقُلْ إِنَّمَا) 10:20; 29:50
+- Liboso ete mokolo eye ezanga kozongisama kowuta na Allah eya. (مِن قَبْلِ أَن يَأْتِيَ يَوْمٌ لَّا مَرَدَّ لَهُ مِنَ اللَّهِ) 30:43; 42:47
+- Yango nde ngolu ya Allah, apesi yango na moto oyo alingi, mpe Allah azali na ngolu monene. (ذَلِكَ فَضْلُ اللَّهِ يُؤْتِيهِ مَن يَشَاءُ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ) 57:21; 62:4
+- Mpe ya soló, kati na bibwele ezali na liteya mpo na bino; tozali kopesa bino komɛla oyo ezali kati na libumu na yango. (وَإِنَّ لَكُمْ فِي الْأَنْعَامِ لَعِبْرَةً نُّسْقِيكُم مِّمَّا فِي بُطُونِهِ) 16:66; 23:21
+- Ete yango ezali solo kowuta na Nkolo na bango, mpe Allah azali na bokebi te mpo na oyo basalaka. (أَنَّهُ الْحَقُّ مِن رَّبِّهِمْ وَمَا اللَّهُ بِغَافِلٍ عَمَّا يَعْمَلُونَ) 2:144; 2:149
+- Liboso na bango mpe sima na bango, ete bopakola moto mosusu te kasi Allah. (مِن بَيْنِ أَيْدِيهِمْ وَمِنْ خَلْفِهِمْ أَلَّا تَعْبُدُوا إِلَّا اللَّهَ) 41:14; 46:21
+- Ya soló, bozali kokende epai ya mibali na mposa na bino, botiki basi; kasi bino bozali bato ya kolutisa ndelo. (إِنَّكُمْ لَتَأْتُونَ الرِّجَالَ شَهْوَةً مِّن دُونِ النِّسَاءِ بَلْ أَنتُمْ قَوْمٌ) 7:81; 27:55
+- Bakovanda kuna libela, ndenge nini mikolo mpe mokili ekokoba, longola oyo Nkolo wayo akolinga. (خَالِدِينَ فِيهَا مَا دَامَتِ السَّمَاوَاتُ وَالْأَرْضُ إِلَّا مَا شَاءَ رَبُّكَ) 11:107; 11:108
+- Oyo ezali na likolo mpe oyo ezali na mabele, longola moto oyo Allah alingi. (مَن فِي السَّمَاوَاتِ وَمَن فِي الْأَرْضِ إِلَّا مَن شَاءَ اللَّهُ) 27:87; 39:68
+- Kuna bakolatama na banganga ya wolo mpe bapelu, mpe bilamba na bango bakozala ya siliki. (يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِن ذَهَبٍ وَلُؤْلُؤًا وَلِبَاسُهُمْ فِيهَا حَرِيرٌ) 22:23; 35:33
+- Mpe akitisaki mai kowuta na likolo, mpe na yango abimisaki mbuma mpo ezala bilei mpo na bino. (وَأنزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجَ بِهِ مِنَ الثَّمَرَاتِ رِزْقًا لَّكُمْ) 2:22; 14:32
+- Mpe tango tozwaki elaka na bino mpe totombolaki ngomba likolo na bino: "Bozwa maye topesi bino na makasi." (وَإِذْ أَخَذْنَا مِيثَاقَكُمْ وَرَفَعْنَا فَوْقَكُمُ الطُّورَ خُذُوا مَا آتَيْنَاكُم بِقُوَّةٍ) 2:63; 2:93
+- Na sima aponi bango, alobi: "Eh bato na ngai! Ya soló, napesaki bino sango ya Nkolo na ngai, mpe napesaki bino toli." (فَتَوَلَّى عَنْهُمْ وَقَالَ يَاقَوْمِ لَقَدْ أَبْلَغْتُكُمْ رِسَالَةَ رَبِّي وَنَصَحْتُ لَكُمْ) 7:79; 7:93
+- Mingala mikitanaka na nse na bango, kuna bakolatama na banganga ya wolo. (تَجْرِي مِن تَحْتِهِمُ الْأَنْهَارُ يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِن ذَهَبٍ) 18:31; 22:23
+- Soki bazalaki na manso maye mazali na mokili, mpe eloko mosusu ndenge moko, mpo bafutaka mbongo mpo na bango. (لَوْ أَنَّ لَهُم مَّا فِي الْأَرْضِ جَمِيعًا وَمِثْلَهُ مَعَهُ لِيَفْتَدُوا) 5:36; 13:18
+- Eloko nyonso ya nzoto ezali te, kasi akotika bango kino na ntango eyebani, mpe soki ntango na bango ekomi. (مِن دَابَّةٍ وَلَكِن يُؤَخِّرُهُمْ إِلَى أَجَلٍ مُّسَمًّى فَإِذَا جَاءَ أَجَلُهُمْ) 16:61; 35:45
+- Tokelaki bino na mabele, na sima na mbuma moko, na sima na makila, na sima. (خَلَقْنَاكُم مِّن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ مِنْ عَلَقَةٍ ثُمَّ) 22:5; 40:67
+- Allah akosala kokata kati na bango na mokolo ya suka na maye bazalaki kokesene. (فَاللَّهُ يَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 2:113; 22:69
+- Boyebi eyaki epai nayo, ozali na mobateli te kowuta na Allah. (جَاءَكَ مِنَ الْعِلْمِ مَا لَكَ مِنَ اللَّهِ مِن وَلِيٍّ وَلَا) 2:120; 13:37
+- Mpe ntango topesi moto bolamu, aponaka mokongo mpe akomaka mosika, mpe soki mabe esili ye. (وَإِذَا أَنْعَمْنَا عَلَى الْإِنسَانِ أَعْرَضَ وَنَأَى بِجَانِبِهِ وَإِذَا مَسَّهُ الشَّرُّ) 17:83; 41:51
+- Mpe ezali na eloko moke te, mpe monene te, oyo ekomama na buku ya polele te. (وَلَا أَصْغَرَ مِن ذَلِكَ وَلَا أَكْبَرَ إِلَّا فِي كِتَابٍ مُّبِينٍ) 10:61; 34:3
+
+Matching Phrases 9 words
+
+- Alobi: "Eh bato na ngai! Bopakola Allah, bozali na nzambe mosusu te kasi ye." (فَقَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ) 7:59; 7:65; 7:73; 7:85; 11:50; 11:61; 11:84; 23:23
+- Bazali kokende na mokili te mpe bazali kotala te ndenge esilaki ya baye bazalaki liboso na bango? (أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ) 12:109; 30:9; 35:44; 40:21; 40:82; 47:10
+- Lifuta na bango ezali epai ya Nkolo na bango, mpe bobangi ezali te likolo na bango, mpe bakozala na mawa te. (أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ) 2:62; 2:112; 2:262; 2:274; 2:277
+- Bazali kotambola na mokili mpe bazali kotala ndenge esilaki ya baye bazalaki liboso na bango. (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن) 30:9; 30:42; 35:44; 40:82; 47:10
+- Na mokili mpe bazali kotala ndenge esilaki ya baye bazalaki liboso na bango. (فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ) 30:9; 30:42; 35:44; 40:82; 47:10
+- Mpe nani azali mabe koleka moto oyo akomi lokuta na Allah to azali koboya? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا أَوْ) 6:21; 6:93; 7:37; 10:17; 29:68
+- Mpe ntango Allah asaleli mokano ya likambo, alobaka na yango nde: "Salama!" mpe esalema. (وَإِذَا قَضَى أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُن فَيَكُونُ) 2:117; 3:47; 19:35; 40:68
+- Mpe bozali na mobateli te, mpe mosungi te kasi Allah. (وَمَا لَكُم مِّن دُونِ اللَّهِ مِن وَلِيٍّ وَلَا نَصِيرٍ) 2:107; 9:116; 29:22; 42:31
+- Ya soló, nakolimbisa bango masumu na bango mpe nakokotisa bango na bilanga oyo mingala mikitanaka na nse na yango. (لَأُكَفِّرَنَّ عَنْهُمْ سَيِّئَاتِهِمْ وَلَأُدْخِلَنَّهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 3:195; 5:12; 64:9; 66:8
+- Tokokotisa bango na bilanga oyo mingala mikitanaka na nse na yango, bakovanda kuna libela. (سَنُدْخِلُهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا) 4:57; 4:122; 64:9; 65:11
+- Nkolo wayo ayebi malamu koleka moto oyo abungi na nzela naye, mpe ayebi malamu. (رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ) 16:125; 53:30; 68:7
+- Bokozongisama epai ya ye oyo ayebi mabombami mpe makomonama, mpe akoyebisa bino manso oyo bozalaki kosala. (تُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ) 9:94; 9:105; 62:8
+- Bazalaki koboma bana na bino mibali mpe kotika basi na bino bazali na bomoyi; kati na yango ezalaki na komekama monene kowuta na Nkolo na bino. (أَبْنَاءَكُمْ وَيَسْتَحْيُونَ نِسَاءَكُمْ وَفِي ذَلِكُم بَلَاءٌ مِّن رَّبِّكُمْ عَظِيمٌ) 2:49; 7:141; 14:6
+- Ya soló, Nkolo wayo ayebi malamu koleka moto oyo abungi na nzela naye, mpe ye. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ) 16:125; 53:30; 68:7
+- Allah, oyo azali na bokonzi na manso maye mazali na likolo mpe na mabele. (اللَّهِ الَّذِي لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 14:2; 34:1; 42:53
+- Kati na bato oyo baleki liboso na bino, kati na biloko mpe bato. (فِي أُمَمٍ قَدْ خَلَتْ مِن قَبْلِكُم مِّنَ الْجِنِّ وَالْإِنسِ) 7:38; 41:25; 46:18
+- Bopakola Allah, bozali na nzambe mosusu te kasi ye, bokobanga te? (اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 7:65; 23:23; 23:32
+- Mpe totiyaki mapapili na mitema na bango, mpo basosola yango te, mpe na matoyi na bango bozito. (وَجَعَلْنَا عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا) 6:25; 17:46; 18:57
+- Akosala kokata kati na bango na mokolo ya suka na maye bazalaki kokesene. (يَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 2:113; 16:124; 22:69
+- Alobi: "Eh bato na ngai! Bozali kotala ndenge nini soki ngai nazali na elembo ya polele kowuta na Nkolo na ngai?" (قَالَ يَاقَوْمِ أَرَأَيْتُمْ إِن كُنتُ عَلَى بَيِّنَةٍ مِّن رَّبِّي) 11:28; 11:63; 11:88
+- Yango mpo na oyo maboko na bino esalaki liboso, mpe Allah azali moto oyo asalaka mabe na bawumbu te. (ذَلِكَ بِمَا قَدَّمَتْ أَيْدِيكُمْ وَأَنَّ اللَّهَ لَيْسَ بِظَلَّامٍ لِّلْعَبِيدِ) 3:182; 8:51; 22:10
+- Bango bakozala na kozanga lokumu na mokili, mpe bakozala na etumbu monene na mokolo ya suka. (لَهُمْ فِي الدُّنْيَا خِزْيٌ وَلَهُمْ فِي الْآخِرَةِ عَذَابٌ عَظِيمٌ) 2:114; 5:41
+- Manso mazali na likolo mpe na mabele, mpe Allah akokani mpo azala Mobateli. (مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَكَفَى بِاللَّهِ وَكِيلًا) 4:132; 4:171
+- Longola baye bandimaki mpe basalaki misala milamu; bango bakozala na lifuta oyo ekokoka te. (إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ) 84:25; 95:6
+- Ete opesa ngai eloko oyo ozali na boyebi na yango te; boye otosa bango te. (لِتُشْرِكَ بِي مَا لَيْسَ لَكَ بِهِ عِلْمٌ فَلَا تُطِعْهُمَا) 29:8; 31:15
+- Ya soló, oyo ezali bokebisi; mpe moto oyo alingi, azwa nzela epai ya Nkolo naye. (إِنَّ هَذِهِ تَذْكِرَةٌ فَمَن شَاءَ اتَّخَذَ إِلَى رَبِّهِ سَبِيلًا) 73:19; 76:29
+- Mpe moto oyo azali kopesa matondo, azali kopesa matondo mpo na ye moko; mpe moto oyo azali kopengwa. (وَمَن شَكَرَ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِ وَمَن كَفَرَ فَإِنَّ) 27:40; 31:12
+- Baye bazali kosala losambo, kopesa zakat, mpe bakondimaka na mokolo ya suka. (الَّذِينَ يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُم بِالْآخِرَةِ هُمْ يُوقِنُونَ) 27:3; 31:4
+- (Tokondimelaki) Ibrahima, Ismaïla, Is'haka, Ya'qouba mpe bana na ye, mpe oyo epesamaki na Mousa mpe Issa. (إِبْرَاهِيمَ وَإِسْمَاعِيلَ وَإِسْحَاقَ وَيَعْقُوبَ وَالْأَسْبَاطِ وَمَا أُوتِيَ مُوسَى وَعِيسَى) 2:136; 3:84
+- Na bibongiseli, kino ntango bakomi kuna, bikuke na yango efungwami, mpe babateli na yango balobi na bango. (زُمَرًا حَتَّى إِذَا جَاءُوهَا فُتِحَتْ أَبْوَابُهَا وَقَالَ لَهُمْ خَزَنَتُهَا) 39:71; 39:73
+- Allah akopekisa bino te mpo na maloba oyo ezali na litomba te na mikano na bino, kasi akopekisa bino mpo na oyo. (لَّا يُؤَاخِذُكُمُ اللَّهُ بِاللَّغْوِ فِي أَيْمَانِكُمْ وَلَكِن يُؤَاخِذُكُم بِمَا) 2:225; 5:89
+- Ngolu, bazali kosepela na yango, mpe soki mabe esili bango mpo na oyo maboko na bango esalaki liboso. (رَحْمَةً فَرِحُوا بِهَا وَإِن تُصِبْهُمْ سَيِّئَةٌ بِمَا قَدَّمَتْ أَيْدِيهِمْ) 30:36; 42:48
+- Bilanga oyo mingala mikitanaka na nse na yango, bakovanda kuna libela, mpe lifuta ya basaleli ya malamu ezali kitoko! (تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَنِعْمَ أَجْرُ الْعَامِلِينَ) 3:136; 29:58
+- Allah ayebi manso maye mazali na likolo mpe na mabele, mpe Allah. (اللَّهُ وَيَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَاللَّهُ) 3:29; 49:16
+- Botosa Allah mpe botosa motindami; soki bobaloli, na ye nde. (أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ فَإِن تَوَلَّوْا فَإِنَّمَا عَلَيْهِ) 24:54; 64:12
+- Bazali na lifuta na bango epai ya Nkolo na bango, mpe bobangi ezali te likolo na bango, mpe bango. (فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ) 2:274; 2:277
+- Mpe balobi: "Soki tokomi mikuwa mpe putulu, boye tokosekwisama lisusu mpo na bokeli ya sika?" (وَقَالُوا أَإِذَا كُنَّا عِظَامًا وَرُفَاتًا أَإِنَّا لَمَبْعُوثُونَ خَلْقًا جَدِيدًا) 17:49; 17:98
+- Mpe bakokuta mobateli te, mpe mosungi te mpo na bango kasi Allah. (وَلَا يَجِدُونَ لَهُم مِّن دُونِ اللَّهِ وَلِيًّا وَلَا نَصِيرًا) 4:173; 33:17
+- "Okendaki ntango molei?" Alobi: "Nakendaki mokolo moko to eteni ya mokolo." Alobi. (كَمْ لَبِثْتَ قَالَ لَبِثْتُ يَوْمًا أَوْ بَعْضَ يَوْمٍ قَالَ) 2:259; 18:19
+- Kino mokolo ya suka, nani azali nzambe kasi Allah oyo akokomela bino? (سَرْمَدًا إِلَى يَوْمِ الْقِيَامَةِ مَنْ إِلَهٌ غَيْرُ اللَّهِ يَأْتِيكُم) 28:71; 28:72
+- Moto oyo asali malamu, mobali to mwasi, mpe azali mondimi. (مَنْ عَمِلَ صَالِحًا مِّن ذَكَرٍ أَوْ أُنثَى وَهُوَ مُؤْمِنٌ) 16:97; 40:40
+- Baye bazali kopekisa nzela ya Allah mpe bazali koluka ete ebongwana, mpe bango na mokolo ya suka. (الَّذِينَ يَصُدُّونَ عَن سَبِيلِ اللَّهِ وَيَبْغُونَهَا عِوَجًا وَهُم بِالْآخِرَةِ) 7:45; 11:19
+- Lya wapi olingi, kasi bopusana na nzete oyo te, noki bokozala kati na babubi. (حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَذِهِ الشَّجَرَةَ فَتَكُونَا مِنَ الظَّالِمِينَ) 2:35; 7:19
+- Loba: "Eh bato na ngai! Bosala ndenge bozali, ngai mpe nazali kosala, mpe bino bokoyeba." (قُلْ يَاقَوْمِ اعْمَلُوا عَلَى مَكَانَتِكُمْ إِنِّي عَامِلٌ فَسَوْفَ تَعْلَمُونَ) 6:135; 39:39
+- Ya soló, baye bazali kobungisa, nde baye bazali kobungisa bango moko mpe libota na bango na mokolo ya suka, tala. (إِنَّ الْخَاسِرِينَ الَّذِينَ خَسِرُوا أَنفُسَهُمْ وَأَهْلِيهِمْ يَوْمَ الْقِيَامَةِ أَلَا) 39:15; 42:45
+- Moto oyo akambami, akambami mpo na ye moko; mpe moto oyo abungi, abungi mpo na ye moko; mpe. (يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا وَمَا) 10:108; 39:41
+- Mpe baye bazali bapagano bazali koloba: "Mpo na nini elembo ekitelaki ye te kowuta na Nkolo naye?" (وَيَقُولُ الَّذِينَ كَفَرُوا لَوْلَا أُنزِلَ عَلَيْهِ آيَةٌ مِّن رَّبِّهِ) 13:7; 13:27
+- Ye oyo asaleli bino butu mpo bolala, mpe moi mpo botala, ya soló. (الَّذِي جَعَلَ لَكُمُ اللَّيْلَ لِتَسْكُنُوا فِيهِ وَالنَّهَارَ مُبْصِرًا إِنَّ) 10:67; 40:61
+- Liboso ete mokolo oyo ezangi koteka mpe bondeko eya. (مِّن قَبْلِ أَن يَأْتِيَ يَوْمٌ لَّا بَيْعٌ فِيهِ وَلَا) 2:254; 14:31
+- Mpo bakanisa ete moninga na bango azali na likambo te; ye nde azali kokebisa. (يَتَفَكَّرُوا مَا بِصَاحِبِهِم مِّن جِنَّةٍ إِنْ هُوَ إِلَّا نَذِيرٌ) 7:184; 34:46
+- Bakovanda kuna libela, etumbu ekokitisama te mpo na bango, mpe bakopekisama te. (خَالِدِينَ فِيهَا لَا يُخَفَّفُ عَنْهُمُ الْعَذَابُ وَلَا هُمْ يُنظَرُونَ) 2:162; 3:88
+- Okotandela miso nayo te na oyo topesaki bango moko kati na bango mpo na esengo. (لَا تَمُدَّنَّ عَيْنَيْكَ إِلَى مَا مَتَّعْنَا بِهِ أَزْوَاجًا مِّنْهُمْ) 15:88; 20:131
+- Mpe bokosila bato te na biloko na bango, mpe bokosala bobe na mokili te. (وَلَا تَبْخَسُوا النَّاسَ أَشْيَاءَهُمْ وَلَا تَعْثَوْا فِي الْأَرْضِ مُفْسِدِينَ) 11:85; 26:183
+- Mpe kimia ezala likolo naye na mokolo abotamaki, mokolo akokufa, mpe mokolo akosekwisama na bomoyi. (وَسَلَامٌ عَلَيْهِ يَوْمَ وُلِدَ وَيَوْمَ يَمُوتُ وَيَوْمَ يُبْعَثُ حَيًّا) 19:15; 19:33
+- Eh bato na ngai! Bosala ndenge bozali, ngai mpe nazali kosala, mpe bokoyeba nani. (يَاقَوْمِ اعْمَلُوا عَلَى مَكَانَتِكُمْ إِنِّي عَامِلٌ فَسَوْفَ تَعْلَمُونَ مَن) 6:135; 11:93
+- Mpe ezalaki te mpo na motindami ete akomisa elembo longola na ndingisa ya Allah. (وَمَا كَانَ لِرَسُولٍ أَن يَأْتِيَ بِآيَةٍ إِلَّا بِإِذْنِ اللَّهِ) 13:38; 40:78
+- Na sima moto nyonso akofutamaka mpo na maye asalaki, mpe bakosala bango mabe te. (ثُمَّ تُوَفَّى كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ) 2:281; 3:161
+- Mobali to mwasi, mpe azali mondimi, baye bakokota na lola. (مِن ذَكَرٍ أَوْ أُنثَى وَهُوَ مُؤْمِنٌ فَأُولَئِكَ يَدْخُلُونَ الْجَنَّةَ) 4:124; 40:40
+- Azalaki na mwana te, mpe azalaki na mosangani te na bokonzi. (لَمْ يَتَّخِذْ وَلَدًا وَلَمْ يَكُن لَّهُ شَرِيكٌ فِي الْمُلْكِ) 17:111; 25:2
+- Mpe moto oyo Allah akambi, ye nde akambami; mpe moto oyo asili. (وَمَن يَهْدِ اللَّهُ فَهُوَ الْمُهْتَدِ وَمَن يُضْلِلْ فَلَن تَجِدَ) 17:97; 18:17
+- Tala ndenge basali yo bandakisa, mpe babungaki, mpe bakoki te kokuta nzela. (انظُرْ كَيْفَ ضَرَبُوا لَكَ الْأَمْثَالَ فَضَلُّوا فَلَا يَسْتَطِيعُونَ سَبِيلًا) 17:48; 25:9
+- Loba: "Nazali kobanga, soki natosi Nkolo na ngai te, etumbu ya mokolo monene." (قُلْ إِنِّي أَخَافُ إِنْ عَصَيْتُ رَبِّي عَذَابَ يَوْمٍ عَظِيمٍ) 6:15; 39:13
+- Bosoto na bango emonanaki, mpe babandaki kozipa bango na nkasa ya lola. (بَدَتْ لَهُمَا سَوْآتُهُمَا وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِن وَرَقِ الْجَنَّةِ) 7:22; 20:121
+- Mpe bobenga baye bokoki, na kati Allah, soki bozali bato ya solo. (وَادْعُوا مَنِ اسْتَطَعْتُم مِّن دُونِ اللَّهِ إِن كُنتُمْ صَادِقِينَ) 10:38; 11:13
+- Manso mazali na mokili, mpe eloko mosusu ndenge moko, mpo bafutaka mbongo mpo na bango. (مَّا فِي الْأَرْضِ جَمِيعًا وَمِثْلَهُ مَعَهُ لِيَفْتَدُوا بِهِ مِنْ) 5:36; 39:47
+- Bozwa maye topesi bino na makasi, mpe bokanisa manso mazali kati na yango, mpo bokobanga. (خُذُوا مَا آتَيْنَاكُم بِقُوَّةٍ وَاذْكُرُوا مَا فِيهِ لَعَلَّكُمْ تَتَّقُونَ) 2:63; 7:171
+- Bozali kosala likambo ya mbindo oyo moto ata moko asalaki yango te liboso na bino na mokili? (أَتَأْتُونَ الْفَاحِشَةَ مَا سَبَقَكُم بِهَا مِنْ أَحَدٍ مِّنَ الْعَالَمِينَ) 7:80; 29:28
+- Mpe manso maye mazali na likolo mpe na mabele ezali ya Allah, mpe Allah azali. (وَلِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَكَانَ اللَّهُ) 4:126; 4:131
+- Mabebe oyo basalaki, ekomelaki bango, mpe oyo bazalaki koseka, ezipaki bango. (سَيِّئَاتُ مَا عَمِلُوا وَحَاقَ بِهِم مَّا كَانُوا بِهِ يَسْتَهْزِئُونَ) 16:34; 45:33
+- Motindami kowuta na bino, azali kotangela bino mikapo na biso, azali kopetola bino, mpe azali koteacha bino buku mpe mayele. (رَسُولًا مِّنكُمْ يَتْلُو عَلَيْكُمْ آيَاتِنَا وَيُزَكِّيكُمْ وَيُعَلِّمُكُمُ الْكِتَابَ وَالْحِكْمَةَ) 2:151; 62:2
+- Kowuta na yango, esika ya mai zomi na mibale ebinaki; ekipa nyonso eyebaki esika na yango ya komela. (مِنْهُ اثْنَتَا عَشْرَةَ عَيْنًا قَدْ عَلِمَ كُلُّ أُنَاسٍ مَّشْرَبَهُمْ) 2:60; 7:160
+- Longola kaka makanisi; ya soló, makanisi ezali na litomba te na esika ya solo. (إِلَّا ظَنًّا إِنَّ الظَّنَّ لَا يُغْنِي مِنَ الْحَقِّ شَيْئًا) 10:36; 53:28
+- Soki nasili ye mpe nafuti molimo na ngai kati na ye, bokwea mpo na ye na mawa. (فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ فِيهِ مِن رُّوحِي فَقَعُوا لَهُ سَاجِدِينَ) 15:29; 38:72
+- Nani akozala na nsuka ya malamu na mokili? Ya soló, babubi bakozua elonga te. (مَن تَكُونُ لَهُ عَاقِبَةُ الدَّارِ إِنَّهُ لَا يُفْلِحُ الظَّالِمُونَ) 6:135; 28:37
+- Ye oyo akelaki likolo mpe mokili, azali na makoki ya kokela ndenge na bango. (الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ قَادِرٌ عَلَى أَن يَخْلُقَ مِثْلَهُمْ) 17:99; 36:81
+- Mpo na bandimi mibali mpe bandimi basi, bilanga oyo mingala mikitanaka na nse na yango, bakovanda kuna libela. (الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 9:72; 48:5
+- Soki otunsi bango: "Nani akelaki likolo mpe mokili?" Bakoloba: "Allah." Loba. (وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ لَيَقُولُنَّ اللَّهُ قُلِ) 31:25; 39:38
+- Mpe ya soló, tosalelaki bato na Kurani oyo bandakisa ya ndenge na ndenge. (وَلَقَدْ ضَرَبْنَا لِلنَّاسِ فِي هَذَا الْقُرْآنِ مِن كُلِّ مَثَلٍ) 30:58; 39:27
+- Ntango batindami na biso bayaki epai ya Louta, ayokaki mpasi mpo na bango mpe azalaki na mawa, mpe alobi. (جَاءَتْ رُسُلُنَا لُوطًا سِيءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًا وَقَالَ) 11:77; 29:33
+- Mpe ntango tolobaki na ba anzelu: "Bogumbama mpo na Adam!" Bagumbamaki, longola Iblis, oyo aboyaki. (وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا إِبْلِيسَ أَبَى) 2:34; 20:116
+- Mpe mokili totandaki yango, mpe totiyaki bangomba na yango, mpe totikaki kati na yango biloko ya kitoko nyonso. (وَالْأَرْضَ مَدَدْنَاهَا وَأَلْقَيْنَا فِيهَا رَوَاسِيَ وَأَنبَتْنَا فِيهَا مِن كُلِّ) 15:19; 50:7
+- Bazalaki kobenga Allah na bokeli bondeko na ye, mpe tango abikisaki bango na mokili. (دَعَوُا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ فَلَمَّا نَجَّاهُمْ إِلَى الْبَرِّ) 29:65; 31:32
+- Bango bakozala na masanga ya mai ya moto, mpe etumbu ya makasi, mpo na bopagano na bango. (لَهُمْ شَرَابٌ مِّنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْفُرُونَ) 6:70; 10:4
+- Boye tokobenga na kati Allah, eloko oyo ekosalisa biso te mpe ekosala biso mabe te? (أَنَدْعُو مِن دُونِ اللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا) 6:71; 10:106
+- Allah ayebi manso maye mazali na likolo mpe na mabele. (أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 5:97; 58:7
 """;

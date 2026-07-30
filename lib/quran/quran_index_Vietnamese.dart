@@ -3019,4 +3019,147 @@ Matching Phrases 11 words
 - (Những gì đã) bị giết mổ nhân danh kẻ khác ngoài Allah, nhưng ai bị bắt buộc (vì đói), không cố tình và không vượt quá giới hạn, thì... (أُهِلَّ لِغَيْرِ اللَّهِ بِهِ فَمَنِ اضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ) 6:145; 16:115
 - Và khi chúng được bảo: Hãy theo điều mà Allah đã ban xuống, chúng nói: Không, chúng tôi sẽ theo những gì chúng tôi thấy cha ông mình đã làm. (وَإِذَا قِيلَ لَهُمُ اتَّبِعُوا مَا أَنزَلَ اللَّهُ قَالُوا بَلْ نَتَّبِعُ مَا) 2:170; 31:21
 - Y nói: Hỡi người dân của ta, hãy thờ phượng Allah; các người không có thần linh nào khác ngoài Ngài. Vậy các người không sợ (Ngài) sao? (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 7:65; 23:23
+Matching Phrases 10 words
+- Họ đi lại trên mặt đất và nhìn xem kết cuộc của những người trước họ đã ra sao. (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ) 12:109; 30:9; 30:42; 35:44; 40:82; 47:10
+- Và ai bất công hơn kẻ bịa đặt điều nói dối cho Allah hoặc phủ nhận (sự thật)? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا أَوْ كَذَّبَ) 6:21; 7:37; 10:17; 29:68
+- Quả thật, Thượng Đế của Ngươi biết rõ nhất ai lạc khỏi con đường của Ngài, và Ngài biết rõ nhất. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ مَن يَضِلُّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ) 6:117; 16:125; 53:30; 68:7
+- Há họ không đi lại trên mặt đất để nhìn xem kết cuộc của những người trước họ đã ra sao? (أَوَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن) 30:9; 35:44; 40:82; 47:10
+- Họ sẽ có phần thưởng của họ nơi Thượng Đế của họ; và sẽ không có sợ hãi trên họ, và họ sẽ không buồn phiền. (فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ) 2:62; 2:262; 2:274; 2:277
+- Và những ai có đức tin và làm việc thiện sẽ được đưa vào những ngôi vườn có các dòng sông chảy bên dưới. (وَأُدْخِلَ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 14:23; 22:14; 22:23; 47:12
+- Ông nói: "Hỡi người dân của ta! Hãy thờ phượng Allah; các người không có thần linh nào khác ngoài Ngài. Há các người không?" (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا) 7:65; 11:84; 23:23
+- Của cải và con cái của họ sẽ chẳng giúp ích gì cho họ trước Allah; và những kẻ đó. (لَن تُغْنِيَ عَنْهُمْ أَمْوَالُهُمْ وَلَا أَوْلَادُهُم مِّنَ اللَّهِ شَيْئًا وَأُولَئِكَ) 3:10; 3:116; 58:17
+- Những ngôi vườn có các dòng sông chảy bên dưới, họ sẽ ở đó vĩnh viễn, và đó là thành công to lớn. (جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَذَلِكَ الْفَوْزُ الْعَظِيمُ) 4:13; 9:89
+- Há chưa đến với họ tin tức của những người trước họ – dân tộc Nuh, và 'Ad, và Thamud? (أَلَمْ يَأْتِهِمْ نَبَأُ الَّذِينَ مِن قَبْلِهِمْ قَوْمِ نُوحٍ وَعَادٍ وَثَمُودَ) 9:70; 14:9
+- Ai là người ủng hộ ta đến với Allah? Các môn đồ nói: "Chúng tôi là những người ủng hộ Allah, chúng tôi đã có đức tin." (مَنْ أَنصَارِي إِلَى اللَّهِ قَالَ الْحَوَارِيُّونَ نَحْنُ أَنصَارُ اللَّهِ آمَنَّا) 3:52; 61:14
+- Thượng Đế của Ngươi biết rõ nhất ai lạc khỏi con đường của Ngài, và Ngài biết rõ nhất những người được hướng dẫn. (رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ) 16:125; 68:7
+- Điều đó là bởi vì Allah là Chân Lý, và những gì họ cầu nguyện ngoài Ngài là hư ngụy. (ذَلِكَ بِأَنَّ اللَّهَ هُوَ الْحَقُّ وَأَنَّ مَا يَدْعُونَ مِن دُونِهِ) 22:62; 31:30
+- Và ai vâng lời Allah và Sứ Giả của Ngài, Ngài sẽ cho người ấy vào những ngôi vườn có các dòng sông chảy bên dưới. (وَمَن يُطِعِ اللَّهَ وَرَسُولَهُ يُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 4:13; 48:17
+- Ngài chỉ cấm các người xác chết, máu, thịt heo, và những gì được dâng cúng. (إِنَّمَا حَرَّمَ عَلَيْكُمُ الْمَيْتَةَ وَالدَّمَ وَلَحْمَ الْخِنزِيرِ وَمَا أُهِلَّ) 2:173; 16:115
+- Rằng các người đừng thờ phượng ai khác ngoài Allah. Quả thật, ta sợ cho các người hình phạt của một ngày. (أَن لَّا تَعْبُدُوا إِلَّا اللَّهَ إِنِّي أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ) 11:26; 46:21
+- Đó là một phần trong những tin tức về điều vô hình mà chúng tôi mặc khải cho ngươi; ngươi đã không ở bên họ khi. (ذَلِكَ مِنْ أَنبَاءِ الْغَيْبِ نُوحِيهِ إِلَيْكَ وَمَا كُنتَ لَدَيْهِمْ إِذْ) 3:44; 12:102
+- Há các người ngạc nhiên rằng lời nhắc nhở từ Thượng Đế của các người đã đến với các người qua một người đàn ông từ các người để cảnh báo các người? (أَوَعَجِبْتُمْ أَن جَاءَكُمْ ذِكْرٌ مِّن رَّبِّكُمْ عَلَى رَجُلٍ مِّنكُمْ لِيُنذِرَكُمْ) 7:63; 7:69
+- Hãy nói: "Quả thật, ta đã bị cấm thờ phượng những kẻ mà các ngươi cầu nguyện ngoài Allah." (قُلْ إِنِّي نُهِيتُ أَنْ أَعْبُدَ الَّذِينَ تَدْعُونَ مِن دُونِ اللَّهِ) 6:56; 40:66
+- Trừ vợ của họ hoặc những gì tay phải của họ sở hữu – quả thật họ không bị khiển trách. (إِلَّا عَلَى أَزْوَاجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَانُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ) 23:6; 70:30
+- Bởi vì Allah nhập ban đêm vào ban ngày và nhập ban ngày vào ban đêm. (بِأَنَّ اللَّهَ يُولِجُ اللَّيْلَ فِي النَّهَارِ وَيُولِجُ النَّهَارَ فِي اللَّيْلِ) 22:61; 31:29
+- Lửa, ông nói với gia đình mình: "Hãy ở lại; ta đã nhìn thấy một ngọn lửa; có lẽ ta sẽ mang lại cho các ngươi một cái gì đó từ nó." (نَارًا فَقَالَ لِأَهْلِهِ امْكُثُوا إِنِّي آنَسْتُ نَارًا لَّعَلِّي آتِيكُم مِّنْهَا) 20:10; 28:29
+- Ông nói: "Ta tốt hơn hắn; Ngài tạo ra ta từ lửa, và tạo ra hắn từ đất sét." (قَالَ أَنَا خَيْرٌ مِّنْهُ خَلَقْتَنِي مِن نَّارٍ وَخَلَقْتَهُ مِن طِينٍ) 7:12; 38:76
+- Và khi bảo họ: "Hãy đến với những gì Allah đã ban xuống và với Sứ Giả," họ nói. (وَإِذَا قِيلَ لَهُمْ تَعَالَوْا إِلَى مَا أَنزَلَ اللَّهُ وَإِلَى الرَّسُولِ) 4:61; 5:104
+- Đừng buồn phiền vì họ và đừng cảm thấy bí bách vì những mưu đồ của họ. (وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُ فِي ضَيْقٍ مِّمَّا يَمْكُرُونَ) 16:127; 27:70
+- Nếu Allah giáng điều tai hại xuống ngươi, thì không ai có thể vén nó đi ngoài Ngài; và nếu. (وَإِن يَمْسَسْكَ اللَّهُ بِضُرٍّ فَلَا كَاشِفَ لَهُ إِلَّا هُوَ وَإِن) 6:17; 10:107
+- Trước họ, các thế hệ đã đi lại trong những nơi ở của họ. Quả thật, trong đó có các dấu hiệu. (قَبْلَهُم مِّنَ الْقُرُونِ يَمْشُونَ فِي مَسَاكِنِهِمْ إِنَّ فِي ذَلِكَ لَآيَاتٍ) 20:128; 32:26
+- Và chúng tôi đã đặt trên trái tim họ những tấm màn che để họ không hiểu nó, và trong tai họ có sự nặng nề, và nếu. (وَجَعَلْنَا عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا وَإِن) 6:25; 18:57
+- Các Sứ Giả của họ đã đến với họ bằng những bằng chứng rõ ràng, nhưng Allah đã không bất công với họ, nhưng chính họ đã tự bất công với bản thân. (رُسُلُهُم بِالْبَيِّنَاتِ فَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ وَلَكِن كَانُوا أَنفُسَهُمْ يَظْلِمُونَ) 9:70; 30:9
+- Và trên trái đất, và các người không có người bảo vệ hay người giúp đỡ nào ngoài Allah. (وَالْأَرْضِ وَمَا لَكُم مِّن دُونِ اللَّهِ مِن وَلِيٍّ وَلَا نَصِيرٍ) 2:107; 42:31
+- Rồi các người sẽ được đưa trở về với Đấng biết điều vô hình và điều hiện hữu, rồi Ngài sẽ cho các người biết những gì các người đã làm. (ثُمَّ تُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ) 9:94; 62:8
+- Ban đêm để các người nghỉ ngơi trong đó, và ban ngày để nhìn rõ. Quả thật, trong đó có các dấu hiệu cho một dân tộc. (اللَّيْلَ لِتَسْكُنُوا فِيهِ وَالنَّهَارَ مُبْصِرًا إِنَّ فِي ذَلِكَ لَآيَاتٍ لِّقَوْمٍ) 10:67; 27:86
+- Và nhiều người trong số họ sẽ chỉ tăng thêm sự ngông cuồng và vô đức tin bởi những gì đã được ban xuống cho ngươi từ Thượng Đế của ngươi. (وَلَيَزِيدَنَّ كَثِيرًا مِّنْهُم مَّا أُنزِلَ إِلَيْكَ مِن رَّبِّكَ طُغْيَانًا وَكُفْرًا) 5:64; 5:68
+- Ông nói: "Hỡi người dân của ta! Các người nghĩ gì nếu ta có bằng chứng rõ ràng từ Thượng Đế của ta và Ngài ban cho ta?" (قَالَ يَاقَوْمِ أَرَأَيْتُمْ إِن كُنتُ عَلَى بَيِّنَةٍ مِّن رَّبِّي وَآتَانِي) 11:28; 11:63
+- Và họ nói: "Tại sao một dấu hiệu từ Thượng Đế của ông ấy không được ban xuống cho ông ấy?" Hãy nói: "Quả thật." (وَيَقُولُونَ لَوْلَا أُنزِلَ عَلَيْهِ آيَةٌ مِّن رَّبِّهِ فَقُلْ إِنَّمَا) 10:20; 29:50
+- Trước khi một ngày đến mà không thể nào ngăn cản được từ Allah. (مِن قَبْلِ أَن يَأْتِيَ يَوْمٌ لَّا مَرَدَّ لَهُ مِنَ اللَّهِ) 30:43; 42:47
+- Đó là ân huệ của Allah mà Ngài ban cho ai Ngài muốn; và Allah là Đấng sở hữu ân huệ vĩ đại. (ذَلِكَ فَضْلُ اللَّهِ يُؤْتِيهِ مَن يَشَاءُ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ) 57:21; 62:4
+- Và quả thật, trong các loài gia súc có một bài học cho các người; chúng tôi cho các người uống từ những gì trong bụng của chúng. (وَإِنَّ لَكُمْ فِي الْأَنْعَامِ لَعِبْرَةً نُّسْقِيكُم مِّمَّا فِي بُطُونِهِ) 16:66; 23:21
+- Rằng đó là sự thật từ Thượng Đế của họ; và Allah không lơ là về những gì họ làm. (أَنَّهُ الْحَقُّ مِن رَّبِّهِمْ وَمَا اللَّهُ بِغَافِلٍ عَمَّا يَعْمَلُونَ) 2:144; 2:149
+- Từ phía trước họ và từ phía sau họ, để các người không thờ phượng ai khác ngoài Allah. (مِن بَيْنِ أَيْدِيهِمْ وَمِنْ خَلْفِهِمْ أَلَّا تَعْبُدُوا إِلَّا اللَّهَ) 41:14; 46:21
+- Quả thật, các người đến với đàn ông vì dục vọng thay vì phụ nữ; đúng hơn, các người là một dân tộc (thái quá). (إِنَّكُمْ لَتَأْتُونَ الرِّجَالَ شَهْوَةً مِّن دُونِ النِّسَاءِ بَلْ أَنتُمْ قَوْمٌ) 7:81; 27:55
+- Họ sẽ ở đó vĩnh viễn, chừng nào các tầng trời và trái đất còn tồn tại, ngoại trừ những gì Thượng Đế của ngươi muốn. (خَالِدِينَ فِيهَا مَا دَامَتِ السَّمَاوَاتُ وَالْأَرْضُ إِلَّا مَا شَاءَ رَبُّكَ) 11:107; 11:108
+- Những ai ở trên các tầng trời và những ai ở trên trái đất, ngoại trừ những ai Allah muốn. (مَن فِي السَّمَاوَاتِ وَمَن فِي الْأَرْضِ إِلَّا مَن شَاءَ اللَّهُ) 27:87; 39:68
+- Họ sẽ được đeo trang sức bằng vòng vàng và ngọc trai trong đó, và y phục của họ trong đó là lụa. (يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِن ذَهَبٍ وَلُؤْلُؤًا وَلِبَاسُهُمْ فِيهَا حَرِيرٌ) 22:23; 35:33
+- Và Ngài ban nước từ trên trời xuống và nhờ đó cho ra trái cây làm lương thực cho các người. (وَأنزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجَ بِهِ مِنَ الثَّمَرَاتِ رِزْقًا لَّكُمْ) 2:22; 14:32
+- Và khi chúng tôi đã nhận lời giao ước của các người và nhấc ngọn núi lên trên các người: "Hãy nắm chặt những gì chúng tôi đã ban cho các người." (وَإِذْ أَخَذْنَا مِيثَاقَكُمْ وَرَفَعْنَا فَوْقَكُمُ الطُّورَ خُذُوا مَا آتَيْنَاكُم بِقُوَّةٍ) 2:63; 2:93
+- Ông quay mặt khỏi họ và nói: "Hỡi người dân của ta! Quả thật, ta đã truyền đạt thông điệp của Thượng Đế ta và ta đã khuyên nhủ các người." (فَتَوَلَّى عَنْهُمْ وَقَالَ يَاقَوْمِ لَقَدْ أَبْلَغْتُكُمْ رِسَالَةَ رَبِّي وَنَصَحْتُ لَكُمْ) 7:79; 7:93
+- Các dòng sông chảy bên dưới họ; họ sẽ được đeo trang sức bằng vòng vàng trong đó. (تَجْرِي مِن تَحْتِهِمُ الْأَنْهَارُ يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِن ذَهَبٍ) 18:31; 22:23
+- Dẫu họ có tất cả những gì trên trái đất và thêm một phần nữa để chuộc tội. (لَوْ أَنَّ لَهُم مَّا فِي الْأَرْضِ جَمِيعًا وَمِثْلَهُ مَعَهُ لِيَفْتَدُوا) 5:36; 13:18
+- Của bất kỳ sinh vật nào, nhưng Ngài trì hoãn chúng đến một thời hạn nhất định; và khi thời hạn của chúng đến. (مِن دَابَّةٍ وَلَكِن يُؤَخِّرُهُمْ إِلَى أَجَلٍ مُّسَمًّى فَإِذَا جَاءَ أَجَلُهُمْ) 16:61; 35:45
+- Chúng tôi đã tạo ra các người từ đất, rồi từ một giọt tinh dịch, rồi từ một cục máu đông, rồi. (خَلَقْنَاكُم مِّن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ مِنْ عَلَقَةٍ ثُمَّ) 22:5; 40:67
+- Allah sẽ phân xử giữa họ vào Ngày Phục Sinh về những điều họ đã tranh cãi. (فَاللَّهُ يَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 2:113; 22:69
+- Một số kiến thức đã đến với ngươi; ngươi không có người bảo vệ nào từ Allah hay. (جَاءَكَ مِنَ الْعِلْمِ مَا لَكَ مِنَ اللَّهِ مِن وَلِيٍّ وَلَا) 2:120; 13:37
+- Và khi chúng tôi ban ân huệ cho con người, hắn quay mặt đi và xa lánh; và khi điều xấu chạm đến hắn. (وَإِذَا أَنْعَمْنَا عَلَى الْإِنسَانِ أَعْرَضَ وَنَأَى بِجَانِبِهِ وَإِذَا مَسَّهُ الشَّرُّ) 17:83; 41:51
+- Không có gì nhỏ hơn hay lớn hơn điều đó mà lại không được ghi trong một Kinh sách rõ ràng. (وَلَا أَصْغَرَ مِن ذَلِكَ وَلَا أَكْبَرَ إِلَّا فِي كِتَابٍ مُّبِينٍ) 10:61; 34:3
+
+Matching Phrases 9 words
+- Và ông nói: "Hỡi người dân của ta! Hãy thờ phượng Allah; các người không có thần linh nào khác ngoài Ngài." (فَقَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ) 7:59; 7:65; 7:73; 7:85; 11:50; 11:61; 11:84; 23:23
+- Há họ không đi lại trên mặt đất để nhìn xem kết cuộc của những người trước họ đã ra sao? (أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ) 12:109; 30:9; 35:44; 40:21; 40:82; 47:10
+- Phần thưởng của họ ở nơi Thượng Đế của họ; sẽ không có sợ hãi trên họ, và họ sẽ không buồn phiền. (أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ) 2:62; 2:112; 2:262; 2:274; 2:277
+- Họ đi lại trên mặt đất và nhìn xem kết cuộc của những người trước họ đã ra sao. (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن) 30:9; 30:42; 35:44; 40:82; 47:10
+- Trên mặt đất và nhìn xem kết cuộc của những người trước họ đã ra sao. (فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ) 30:9; 30:42; 35:44; 40:82; 47:10
+- Và ai bất công hơn kẻ bịa đặt điều nói dối cho Allah hoặc (phủ nhận)? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا أَوْ) 6:21; 6:93; 7:37; 10:17; 29:68
+- Và khi Ngài quyết định một việc, Ngài chỉ phán với nó: "Hãy thành!" và nó thành. (وَإِذَا قَضَى أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُن فَيَكُونُ) 2:117; 3:47; 19:35; 40:68
+- Và các người không có người bảo vệ hay người giúp đỡ nào ngoài Allah. (وَمَا لَكُم مِّن دُونِ اللَّهِ مِن وَلِيٍّ وَلَا نَصِيرٍ) 2:107; 9:116; 29:22; 42:31
+- Quả thật, Ta sẽ xóa bỏ tội lỗi của họ và sẽ cho họ vào những ngôi vườn có các dòng sông chảy bên dưới. (لَأُكَفِّرَنَّ عَنْهُمْ سَيِّئَاتِهِمْ وَلَأُدْخِلَنَّهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 3:195; 5:12; 64:9; 66:8
+- Chúng tôi sẽ cho họ vào những ngôi vườn có các dòng sông chảy bên dưới, họ sẽ ở đó mãi mãi. (سَنُدْخِلُهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا) 4:57; 4:122; 64:9; 65:11
+- Thượng Đế của ngươi biết rõ nhất ai lạc khỏi con đường của Ngài, và Ngài biết rõ nhất. (رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ) 16:125; 53:30; 68:7
+- Các người sẽ được đưa trở về với Đấng biết điều vô hình và điều hiện hữu, rồi Ngài sẽ cho các người biết những gì các người đã làm. (تُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ) 9:94; 9:105; 62:8
+- Giết con trai các người và để sống phụ nữ các người; và trong đó là một thử thách lớn từ Thượng Đế của các người. (أَبْنَاءَكُمْ وَيَسْتَحْيُونَ نِسَاءَكُمْ وَفِي ذَلِكُم بَلَاءٌ مِّن رَّبِّكُمْ عَظِيمٌ) 2:49; 7:141; 14:6
+- Quả thật, Thượng Đế của ngươi biết rõ nhất ai lạc khỏi con đường của Ngài, và Ngài. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ) 16:125; 53:30; 68:7
+- Allah, Đấng sở hữu những gì trên các tầng trời và những gì trên trái đất. (اللَّهِ الَّذِي لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 14:2; 34:1; 42:53
+- Trong các cộng đồng đã qua đời trước các người – từ loài jinn và loài người. (فِي أُمَمٍ قَدْ خَلَتْ مِن قَبْلِكُم مِّنَ الْجِنِّ وَالْإِنسِ) 7:38; 41:25; 46:18
+- Hãy thờ phượng Allah; các người không có thần linh nào khác ngoài Ngài. Các người không sợ sao? (اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 7:65; 23:23; 23:32
+- Và chúng tôi đã đặt trên trái tim họ những tấm màn che để họ không hiểu nó, và trong tai họ có sự nặng nề. (وَجَعَلْنَا عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا) 6:25; 17:46; 18:57
+- Ngài sẽ phân xử giữa họ vào Ngày Phục Sinh về những điều họ đã tranh cãi. (يَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 2:113; 16:124; 22:69
+- Ông nói: "Hỡi người dân của ta! Các người nghĩ gì nếu ta có bằng chứng rõ ràng từ Thượng Đế của ta?" (قَالَ يَاقَوْمِ أَرَأَيْتُمْ إِن كُنتُ عَلَى بَيِّنَةٍ مِّن رَّبِّي) 11:28; 11:63; 11:88
+- Điều đó là bởi những gì tay các người đã gửi trước, và Allah không bất công với những người nô lệ. (ذَلِكَ بِمَا قَدَّمَتْ أَيْدِيكُمْ وَأَنَّ اللَّهَ لَيْسَ بِظَلَّامٍ لِّلْعَبِيدِ) 3:182; 8:51; 22:10
+- Trên thế gian này họ bị sỉ nhục, và ở đời sau họ bị hình phạt khủng khiếp. (لَهُمْ فِي الدُّنْيَا خِزْيٌ وَلَهُمْ فِي الْآخِرَةِ عَذَابٌ عَظِيمٌ) 2:114; 5:41
+- Những gì trên các tầng trời và những gì trên trái đất; và Allah đủ là Đấng Bảo Vệ. (مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَكَفَى بِاللَّهِ وَكِيلًا) 4:132; 4:171
+- Trừ những ai có đức tin và làm việc thiện; họ có phần thưởng không ngừng. (إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ) 84:25; 95:6
+- Để ngươi gán ghép cho Ta điều ngươi không có kiến thức; vì vậy đừng nghe lời họ. (لِتُشْرِكَ بِي مَا لَيْسَ لَكَ بِهِ عِلْمٌ فَلَا تُطِعْهُمَا) 29:8; 31:15
+- Quả thật, đây là một lời nhắc nhở; vì vậy ai muốn, hãy chọn con đường đến với Thượng Đế của mình. (إِنَّ هَذِهِ تَذْكِرَةٌ فَمَن شَاءَ اتَّخَذَ إِلَى رَبِّهِ سَبِيلًا) 73:19; 76:29
+- Ai biết ơn, thì chỉ biết ơn cho lợi ích của bản thân; ai vô ơn, thì quả thật. (وَمَن شَكَرَ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِ وَمَن كَفَرَ فَإِنَّ) 27:40; 31:12
+- Những người dâng lễ nguyện, bố thí, và họ tin chắc vào đời sau. (الَّذِينَ يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُم بِالْآخِرَةِ هُمْ يُوقِنُونَ) 27:3; 31:4
+- Ibrahim, Isma'il, Ishaq, Ya'qub và các chi tộc; và những gì được ban cho Musa và Isa. (إِبْرَاهِيمَ وَإِسْمَاعِيلَ وَإِسْحَاقَ وَيَعْقُوبَ وَالْأَسْبَاطِ وَمَا أُوتِيَ مُوسَى وَعِيسَى) 2:136; 3:84
+- Từng nhóm, cho đến khi họ đến đó, các cánh cổng của nó được mở ra và những người canh giữ nó nói với họ. (زُمَرًا حَتَّى إِذَا جَاءُوهَا فُتِحَتْ أَبْوَابُهَا وَقَالَ لَهُمْ خَزَنَتُهَا) 39:71; 39:73
+- Allah sẽ không bắt các người về những lời thề vô nghĩa, nhưng sẽ bắt các người về những gì. (لَّا يُؤَاخِذُكُمُ اللَّهُ بِاللَّغْوِ فِي أَيْمَانِكُمْ وَلَكِن يُؤَاخِذُكُم بِمَا) 2:225; 5:89
+- (Allah) ban lòng thương xót, họ vui mừng vì nó; nhưng nếu điều xấu giáng xuống họ do những gì tay họ đã gửi trước. (رَحْمَةً فَرِحُوا بِهَا وَإِن تُصِبْهُمْ سَيِّئَةٌ بِمَا قَدَّمَتْ أَيْدِيهِمْ) 30:36; 42:48
+- Các dòng sông chảy bên dưới, họ ở đó vĩnh viễn; và phần thưởng của những người làm việc thật tốt biết bao! (تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَنِعْمَ أَجْرُ الْعَامِلِينَ) 3:136; 29:58
+- Allah biết những gì trên các tầng trời và những gì trên trái đất; và Allah. (اللَّهُ وَيَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَاللَّهُ) 3:29; 49:16
+- Hãy vâng lời Allah và vâng lời Sứ Giả; nếu các người quay mặt đi, thì chỉ có trách nhiệm. (أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ فَإِن تَوَلَّوْا فَإِنَّمَا عَلَيْهِ) 24:54; 64:12
+- Họ có phần thưởng của họ nơi Thượng Đế của họ; sẽ không có sợ hãi trên họ và họ. (فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ) 2:274; 2:277
+- Và họ nói: "Khi chúng tôi đã thành xương cốt và bụi đất, chúng tôi sẽ thực sự được dựng sống lại thành tạo vật mới sao?" (وَقَالُوا أَإِذَا كُنَّا عِظَامًا وَرُفَاتًا أَإِنَّا لَمَبْعُوثُونَ خَلْقًا جَدِيدًا) 17:49; 17:98
+- Và họ sẽ không tìm thấy cho mình bất kỳ người bảo vệ hay người giúp đỡ nào ngoài Allah. (وَلَا يَجِدُونَ لَهُم مِّن دُونِ اللَّهِ وَلِيًّا وَلَا نَصِيرًا) 4:173; 33:17
+- Ngươi đã ở lại bao lâu? Ông nói: "Tôi đã ở lại một ngày hoặc một phần của ngày." Ông nói: (كَمْ لَبِثْتَ قَالَ لَبِثْتُ يَوْمًا أَوْ بَعْضَ يَوْمٍ قَالَ) 2:259; 18:19
+- Vĩnh viễn cho đến Ngày Phục Sinh. Ai là thần linh khác ngoài Allah sẽ mang (điều này) đến cho các người? (سَرْمَدًا إِلَى يَوْمِ الْقِيَامَةِ مَنْ إِلَهٌ غَيْرُ اللَّهِ يَأْتِيكُم) 28:71; 28:72
+- Ai làm việc thiện – dù là nam hay nữ – và có đức tin. (مَنْ عَمِلَ صَالِحًا مِّن ذَكَرٍ أَوْ أُنثَى وَهُوَ مُؤْمِنٌ) 16:97; 40:40
+- Những người ngăn cản khỏi con đường của Allah và muốn làm nó cong vẹo, và họ không tin vào đời sau. (الَّذِينَ يَصُدُّونَ عَن سَبِيلِ اللَّهِ وَيَبْغُونَهَا عِوَجًا وَهُم بِالْآخِرَةِ) 7:45; 11:19
+- Ở nơi nào các ngươi muốn, và đừng đến gần cây này, nếu không các ngươi sẽ trở thành kẻ bất công. (حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَذِهِ الشَّجَرَةَ فَتَكُونَا مِنَ الظَّالِمِينَ) 2:35; 7:19
+- Hãy nói: "Hỡi người dân của ta! Hãy hành động theo vị trí của các người; ta cũng hành động; rồi các người sẽ biết." (قُلْ يَاقَوْمِ اعْمَلُوا عَلَى مَكَانَتِكُمْ إِنِّي عَامِلٌ فَسَوْفَ تَعْلَمُونَ) 6:135; 39:39
+- Quả thật, những kẻ thua thiệt là những kẻ đã thua thiệt bản thân và gia đình họ vào Ngày Phục Sinh. Hãy lưu ý! (إِنَّ الْخَاسِرِينَ الَّذِينَ خَسِرُوا أَنفُسَهُمْ وَأَهْلِيهِمْ يَوْمَ الْقِيَامَةِ أَلَا) 39:15; 42:45
+- Ai được hướng dẫn, thì chỉ được hướng dẫn cho lợi ích của bản thân; ai lạc lối, thì chỉ lạc lối cho chính mình; và không ai. (يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا وَمَا) 10:108; 39:41
+- Và những kẻ vô đức tin nói: "Tại sao một dấu hiệu từ Thượng Đế của ông ấy không được ban xuống cho ông ấy?" (وَيَقُولُ الَّذِينَ كَفَرُوا لَوْلَا أُنزِلَ عَلَيْهِ آيَةٌ مِّن رَّبِّهِ) 13:7; 13:27
+- Đấng đã tạo ra cho các người ban đêm để nghỉ ngơi và ban ngày để nhìn rõ. Quả thật. (الَّذِي جَعَلَ لَكُمُ اللَّيْلَ لِتَسْكُنُوا فِيهِ وَالنَّهَارَ مُبْصِرًا إِنَّ) 10:67; 40:61
+- Trước khi một ngày đến mà trong đó không có sự mua bán hay (tình bạn). (مِّن قَبْلِ أَن يَأْتِيَ يَوْمٌ لَّا بَيْعٌ فِيهِ وَلَا) 2:254; 14:31
+- Để họ suy ngẫm; người bạn đồng hành của họ không bị điên; ông ấy không gì khác ngoài một người cảnh báo. (يَتَفَكَّرُوا مَا بِصَاحِبِهِم مِّن جِنَّةٍ إِنْ هُوَ إِلَّا نَذِيرٌ) 7:184; 34:46
+- Họ sẽ ở đó vĩnh viễn; hình phạt sẽ không được giảm nhẹ cho họ, và họ sẽ không được gia hạn. (خَالِدِينَ فِيهَا لَا يُخَفَّفُ عَنْهُمُ الْعَذَابُ وَلَا هُمْ يُنظَرُونَ) 2:162; 3:88
+- Đừng đưa mắt của ngươi đến những gì chúng tôi đã cho một số người trong họ hưởng thụ. (لَا تَمُدَّنَّ عَيْنَيْكَ إِلَى مَا مَتَّعْنَا بِهِ أَزْوَاجًا مِّنْهُمْ) 15:88; 20:131
+- Và đừng làm giảm của cải của mọi người, và đừng gây rối trên trái đất. (وَلَا تَبْخَسُوا النَّاسَ أَشْيَاءَهُمْ وَلَا تَعْثَوْا فِي الْأَرْضِ مُفْسِدِينَ) 11:85; 26:183
+- Và bình an cho ông ấy vào ngày ông sinh ra, ngày ông chết, và ngày ông được dựng sống. (وَسَلَامٌ عَلَيْهِ يَوْمَ وُلِدَ وَيَوْمَ يَمُوتُ وَيَوْمَ يُبْعَثُ حَيًّا) 19:15; 19:33
+- Hỡi người dân của ta! Hãy hành động theo vị trí của các người; ta cũng hành động; rồi các người sẽ biết – ai. (يَاقَوْمِ اعْمَلُوا عَلَى مَكَانَتِكُمْ إِنِّي عَامِلٌ فَسَوْفَ تَعْلَمُونَ مَن) 6:135; 11:93
+- Và không một Sứ Giả nào có thể mang đến một dấu hiệu trừ khi được Allah cho phép. (وَمَا كَانَ لِرَسُولٍ أَن يَأْتِيَ بِآيَةٍ إِلَّا بِإِذْنِ اللَّهِ) 13:38; 40:78
+- Rồi mỗi linh hồn sẽ được đền đáp đầy đủ những gì mình đã làm, và họ sẽ không bị bất công. (ثُمَّ تُوَفَّى كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ) 2:281; 3:161
+- Nam hay nữ, và có đức tin – những người đó sẽ vào Thiên Đàng. (مِن ذَكَرٍ أَوْ أُنثَى وَهُوَ مُؤْمِنٌ فَأُولَئِكَ يَدْخُلُونَ الْجَنَّةَ) 4:124; 40:40
+- Ngài không có con cái và không có đối tác trong vương quyền. (لَمْ يَتَّخِذْ وَلَدًا وَلَمْ يَكُن لَّهُ شَرِيكٌ فِي الْمُلْكِ) 17:111; 25:2
+- Ai được Allah hướng dẫn, người đó được hướng dẫn; ai bị Ngài làm cho lạc lối, ngươi sẽ không tìm thấy. (وَمَن يَهْدِ اللَّهُ فَهُوَ الْمُهْتَدِ وَمَن يُضْلِلْ فَلَن تَجِدَ) 17:97; 18:17
+- Hãy nhìn cách họ đưa ra những ví dụ về ngươi; họ đã lạc lối và không thể tìm thấy con đường. (انظُرْ كَيْفَ ضَرَبُوا لَكَ الْأَمْثَالَ فَضَلُّوا فَلَا يَسْتَطِيعُونَ سَبِيلًا) 17:48; 25:9
+- Hãy nói: "Quả thật, ta sợ hình phạt của một ngày vĩ đại nếu ta bất tuân Thượng Đế của ta." (قُلْ إِنِّي أَخَافُ إِنْ عَصَيْتُ رَبِّي عَذَابَ يَوْمٍ عَظِيمٍ) 6:15; 39:13
+- Nơi kín của họ phơi bày, và họ bắt đầu dùng lá của Thiên Đàng để che phủ. (بَدَتْ لَهُمَا سَوْآتُهُمَا وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِن وَرَقِ الْجَنَّةِ) 7:22; 20:121
+- Và hãy cầu xin những ai các người có thể, ngoài Allah, nếu các người là người thật thà. (وَادْعُوا مَنِ اسْتَطَعْتُم مِّن دُونِ اللَّهِ إِن كُنتُمْ صَادِقِينَ) 10:38; 11:13
+- Tất cả những gì trên trái đất và thêm một phần nữa, để chuộc tội. (مَّا فِي الْأَرْضِ جَمِيعًا وَمِثْلَهُ مَعَهُ لِيَفْتَدُوا بِهِ مِنْ) 5:36; 39:47
+- Hãy nắm chặt những gì chúng tôi đã ban cho các người và nhớ những gì trong đó – hy vọng các người sẽ sợ. (خُذُوا مَا آتَيْنَاكُم بِقُوَّةٍ وَاذْكُرُوا مَا فِيهِ لَعَلَّكُمْ تَتَّقُونَ) 2:63; 7:171
+- Các người có phạm điều ô uế mà không một người nào trong thế giới đã làm trước các người không? (أَتَأْتُونَ الْفَاحِشَةَ مَا سَبَقَكُم بِهَا مِنْ أَحَدٍ مِّنَ الْعَالَمِينَ) 7:80; 29:28
+- Và Allah sở hữu những gì trên các tầng trời và những gì trên trái đất; và Allah là Đấng (Bao La). (وَلِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَكَانَ اللَّهُ) 4:126; 4:131
+- Hậu quả xấu của những gì họ đã làm đã giáng xuống họ, và những gì họ từng chế nhạo đã vây lấy họ. (سَيِّئَاتُ مَا عَمِلُوا وَحَاقَ بِهِم مَّا كَانُوا بِهِ يَسْتَهْزِئُونَ) 16:34; 45:33
+- Một Sứ Giả từ trong các người, đọc cho các người các câu kinh của Chúng tôi, thanh tẩy các người, và dạy các người Kinh sách và Sự khôn ngoan. (رَسُولًا مِّنكُمْ يَتْلُو عَلَيْكُمْ آيَاتِنَا وَيُزَكِّيكُمْ وَيُعَلِّمُكُمُ الْكِتَابَ وَالْحِكْمَةَ) 2:151; 62:2
+- Từ đó, mười hai dòng suối phun ra; mỗi nhóm người biết nơi uống nước của mình. (مِنْهُ اثْنَتَا عَشْرَةَ عَيْنًا قَدْ عَلِمَ كُلُّ أُنَاسٍ مَّشْرَبَهُمْ) 2:60; 7:160
+- Trừ phỏng đoán; quả thật, phỏng đoán không mang lại lợi ích gì so với sự thật. (إِلَّا ظَنًّا إِنَّ الظَّنَّ لَا يُغْنِي مِنَ الْحَقِّ شَيْئًا) 10:36; 53:28
+- Khi ta uốn nắn hắn và thổi vào hắn từ tinh thần của Ta, hãy quỳ xuống trước hắn. (فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ فِيهِ مِن رُّوحِي فَقَعُوا لَهُ سَاجِدِينَ) 15:29; 38:72
+- Ai sẽ có kết cuộc của nơi cư trú? Quả thật, những kẻ bất công sẽ không thành công. (مَن تَكُونُ لَهُ عَاقِبَةُ الدَّارِ إِنَّهُ لَا يُفْلِحُ الظَّالِمُونَ) 6:135; 28:37
+- Đấng tạo ra các tầng trời và trái đất có khả năng tạo ra những kẻ tương tự. (الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ قَادِرٌ عَلَى أَن يَخْلُقَ مِثْلَهُمْ) 17:99; 36:81
+- Những người đàn ông có đức tin và những người phụ nữ có đức tin – những ngôi vườn có các dòng sông chảy bên dưới, họ ở đó mãi mãi. (الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 9:72; 48:5
+- Nếu ngươi hỏi họ ai tạo ra các tầng trời và trái đất, họ sẽ nói: "Allah." Hãy nói: (وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ لَيَقُولُنَّ اللَّهُ قُلِ) 31:25; 39:38
+- Và chúng tôi đã trình bày cho mọi người trong Qur'an này đủ mọi hình ảnh. (وَلَقَدْ ضَرَبْنَا لِلنَّاسِ فِي هَذَا الْقُرْآنِ مِن كُلِّ مَثَلٍ) 30:58; 39:27
+- Khi các Sứ Giả của Chúng tôi đến với Lut, ông buồn phiền và cảm thấy bất lực, và nói. (جَاءَتْ رُسُلُنَا لُوطًا سِيءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًا وَقَالَ) 11:77; 29:33
+- Và khi Chúng tôi nói với các Thiên Thần: "Hãy quỳ lạy Adam." Họ đã quỳ lạy ngoại trừ Iblis; hắn từ chối. (وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا إِبْلِيسَ أَبَى) 2:34; 20:116
+- Và trái đất chúng tôi đã trải rộng, và đặt trên đó những ngọn núi vững chắc, và cho mọc lên trên đó mọi thứ. (وَالْأَرْضَ مَدَدْنَاهَا وَأَلْقَيْنَا فِيهَا رَوَاسِيَ وَأَنبَتْنَا فِيهَا مِن كُلِّ) 15:19; 50:7
+- Họ đã cầu nguyện Allah, thành tâm với Ngài về tôn giáo; và khi Ngài cứu họ lên đất liền. (دَعَوُا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ فَلَمَّا نَجَّاهُمْ إِلَى الْبَرِّ) 29:65; 31:32
+- Họ có đồ uống từ nước sôi và hình phạt đau đớn vì họ đã vô đức tin. (لَهُمْ شَرَابٌ مِّنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْفُرُونَ) 6:70; 10:4
+- Há chúng ta cầu nguyện ngoài Allah những gì không mang lại lợi ích hay tác hại cho chúng ta? (أَنَدْعُو مِن دُونِ اللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا) 6:71; 10:106
+- Rằng Allah biết những gì trên các tầng trời và những gì trên trái đất. (أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 5:97; 58:7
 """;

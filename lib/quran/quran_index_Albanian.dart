@@ -3019,4 +3019,147 @@ Matching Phrases 11 words
 - Dhe kur u thuhet atyre: "Ndiqni atë që Allahu ka shpallur," ata thonë: "Jo, ne ndjekim atë që..." (وَإِذَا قِيلَ لَهُمُ اتَّبِعُوا مَا أَنزَلَ اللَّهُ قَالُوا بَلْ نَتَّبِعُ مَا) 2:170; 31:21
 - Ai tha: "O populli im, adhuroni Allahun; ju nuk keni zot tjetër pos Tij. A nuk do të frikësoheni?" (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 7:65; 23:23
 
+Matching Phrases 10 words
+- Ata udhëtojnë në tokë dhe shohin si ishte përfundimi i atyre para tyre. (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ) 12:109; 30:9; 30:42; 35:44; 40:82; 47:10
+- Dhe kush është më i padrejtë se ai që shpif gënjeshtër për Allahun ose përgënjeshtron? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا أَوْ كَذَّبَ) 6:21; 7:37; 10:17; 29:68
+- Me të vërtetë, Zoti yt është më i dijshëm se kush humb nga rruga e Tij dhe Ai është më i dijshëm. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ مَن يَضِلُّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ) 6:117; 16:125; 53:30; 68:7
+- A nuk udhëtuan ata në tokë dhe panë si ishte përfundimi i atyre që ishin para tyre? (أَوَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن) 30:9; 35:44; 40:82; 47:10
+- Ata kanë shpërblimin e tyre te Zoti i tyre, nuk ka frikë për ta dhe ata nuk do të pikëllohen. (فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ) 2:62; 2:262; 2:274; 2:277
+- Dhe ata që besuan dhe bënë vepra të mira u futën në xhenete nën të cilët rrjedhin lumenj. (وَأُدْخِلَ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 14:23; 22:14; 22:23; 47:12
+- Ai tha: "O populli im, adhuroni Allahun, ju nuk keni zot tjetër pos Tij, a nuk do të frikësoheni?" (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا) 7:65; 11:84; 23:23
+- Pasuria e tyre dhe fëmijët e tyre nuk do t'u bëjnë dobi aspak para Allahut dhe ata janë ata. (لَن تُغْنِيَ عَنْهُمْ أَمْوَالُهُمْ وَلَا أَوْلَادُهُم مِّنَ اللَّهِ شَيْئًا وَأُولَئِكَ) 3:10; 3:116; 58:17
+- Xhenete nën të cilët rrjedhin lumenj, ku do të jenë përgjithmonë, dhe ai është suksesi i madh. (جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَذَلِكَ الْفَوْزُ الْعَظِيمُ) 4:13; 9:89
+- A nuk u erdhi atyre lajmi i atyre para tyre, i popullit të Nuhut, Adit dhe Themudit? (أَلَمْ يَأْتِهِمْ نَبَأُ الَّذِينَ مِن قَبْلِهِمْ قَوْمِ نُوحٍ وَعَادٍ وَثَمُودَ) 9:70; 14:9
+- Kush janë ndihmësit e mi për Allahun? Thënë dishepujt: "Ne jemi ndihmësit e Allahut, kemi besuar." (مَنْ أَنصَارِي إِلَى اللَّهِ قَالَ الْحَوَارِيُّونَ نَحْنُ أَنصَارُ اللَّهِ آمَنَّا) 3:52; 61:14
+- Zoti yt është më i dijshëm se kush humbi nga rruga e Tij dhe Ai është më i dijshëm për të udhëzuarit. (رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ) 16:125; 68:7
+- Kjo sepse Allahu është i Vërteti dhe se çfarë ata lusin përveç Tij është e kotë. (ذَلِكَ بِأَنَّ اللَّهَ هُوَ الْحَقُّ وَأَنَّ مَا يَدْعُونَ مِن دُونِهِ) 22:62; 31:30
+- Dhe kush i bindet Allahut dhe të Dërguarit të Tij, Ai do ta futë në xhenete nën të cilët rrjedhin lumenj. (وَمَن يُطِعِ اللَّهَ وَرَسُولَهُ يُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 4:13; 48:17
+- Ai ju ka ndaluar vetëm kafshën e ngordhur, gjakun, mishin e derrit dhe atë që është therur për tjetrin. (إِنَّمَا حَرَّمَ عَلَيْكُمُ الْمَيْتَةَ وَالدَّمَ وَلَحْمَ الْخِنزِيرِ وَمَا أُهِلَّ) 2:173; 16:115
+- Që të mos adhuroni tjetër përveç Allahut, unë kam frikë për ju nga dënimi i një dite të madhe. (أَن لَّا تَعْبُدُوا إِلَّا اللَّهَ إِنِّي أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ) 11:26; 46:21
+- Kjo është nga lajmet e padukshme që Ne ta shpallim ty, e ti nuk ishe pranë tyre kur ata po vendosnin. (ذَلِكَ مِنْ أَنبَاءِ الْغَيْبِ نُوحِيهِ إِلَيْكَ وَمَا كُنتَ لَدَيْهِمْ إِذْ) 3:44; 12:102
+- A u çuditët se ju erdhi një këshillë nga Zoti juaj nëpërmjet një njeriu nga mesi juaj për t'ju qortuar? (أَوَعَجِبْتُمْ أَن جَاءَكُمْ ذِكْرٌ مِّن رَّبِّكُمْ عَلَى رَجُلٍ مِّنكُمْ لِيُنذِرَكُمْ) 7:63; 7:69
+- Thuaj: "Unë jam ndaluar të adhuroj ata që ju lusni përveç Allahut." (قُلْ إِنِّي نُهِيتُ أَنْ أَعْبُدَ الَّذِينَ تَدْعُونَ مِن دُونِ اللَّهِ) 6:56; 40:66
+- Përveç me bashkëshortet e tyre ose ato që zotërojnë duart e tyre, ata nuk janë të qortuar. (إِلَّا عَلَى أَزْوَاجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَانُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ) 23:6; 70:30
+- Sepse Allahu e fut natën në ditë dhe e fut ditën në natë. (بِأَنَّ اللَّهَ يُولِجُ اللَّيْلَ فِي النَّهَارِ وَيُولِجُ النَّهَارَ فِي اللَّيْلِ) 22:61; 31:29
+- Një zjarr, dhe i tha familjes së tij: "Prisni, unë kam parë një zjarr, ndoshta do t'ju sjell diçka prej tij." (نَارًا فَقَالَ لِأَهْلِهِ امْكُثُوا إِنِّي آنَسْتُ نَارًا لَّعَلِّي آتِيكُم مِّنْهَا) 20:10; 28:29
+- Ai tha: "Unë jam më i mirë se ai, më krijove nga zjarri dhe atë e krijove nga balta." (قَالَ أَنَا خَيْرٌ مِّنْهُ خَلَقْتَنِي مِن نَّارٍ وَخَلَقْتَهُ مِن طِينٍ) 7:12; 38:76
+- Dhe kur u thuhet atyre: "Ejani te ajo që Allahu ka shpallur dhe te i Dërguari." (وَإِذَا قِيلَ لَهُمْ تَعَالَوْا إِلَى مَا أَنزَلَ اللَّهُ وَإِلَى الرَّسُولِ) 4:61; 5:104
+- Dhe mos u pikëllo për ta dhe mos ki ngushtësi nga dredhitë e tyre. (وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُ فِي ضَيْقٍ مِّمَّا يَمْكُرُونَ) 16:127; 27:70
+- Dhe nëse Allahu të prek me ndonjë të keqe, nuk ka kush ta largojë atë përveç Tij, dhe nëse. (وَإِن يَمْسَسْكَ اللَّهُ بِضُرٍّ فَلَا كَاشِفَ لَهُ إِلَّا هُوَ وَإِن) 6:17; 10:107
+- Para tyre nga breznitë që ecin në vendbanimet e tyre, vërtet në këtë ka shenja. (قَبْلَهُم مِّنَ الْقُرُونِ يَمْشُونَ فِي مَسَاكِنِهِمْ إِنَّ فِي ذَلِكَ لَآيَاتٍ) 20:128; 32:26
+- Dhe Ne vumë mbulesa mbi zemrat e tyre që të mos e kuptojnë dhe në veshët e tyre rëndim, dhe nëse. (وَجَعَلْنَا عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا وَإِن) 6:25; 18:57
+- I erdhën të dërguarit e tyre me argumente të qarta, por Allahu nuk ishte për t'i padrejtësuar, por ata e padrejtësonin veten. (رُسُلُهُم بِالْبَيِّنَاتِ فَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ وَلَكِن كَانُوا أَنفُسَهُمْ يَظْلِمُونَ) 9:70; 30:9
+- Dhe tokën, dhe ju nuk keni përveç Allahut as mbrojtës e as ndihmës. (وَالْأَرْضِ وَمَا لَكُم مِّن دُونِ اللَّهِ مِن وَلِيٍّ وَلَا نَصِيرٍ) 2:107; 42:31
+- Pastaj do të ktheheni te Njohësi i së padukshmes dhe së dukshmes, dhe Ai do t'ju njoftojë për atë që keni bërë. (ثُمَّ تُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ) 9:94; 62:8
+- Natën që të pushoni në të dhe ditën që të shihni, vërtet në këtë ka shenja për njerëzit. (اللَّيْلَ لِتَسْكُنُوا فِيهِ وَالنَّهَارَ مُبْصِرًا إِنَّ فِي ذَلِكَ لَآيَاتٍ لِّقَوْمٍ) 10:67; 27:86
+- Dhe ajo që të është shpallur ty nga Zoti yt do t'u shtojë shumë prej tyre kryelartësi dhe mosbesim. (وَلَيَزِيدَنَّ كَثِيرًا مِّنْهُم مَّا أُنزِلَ إِلَيْكَ مِن رَّبِّكَ طُغْيَانًا وَكُفْرًا) 5:64; 5:68
+- Ai tha: "O populli im, çfarë mendoni nëse unë jam në një argument të qartë nga Zoti im dhe Ai më ka dhënë." (قَالَ يَاقَوْمِ أَرَأَيْتُمْ إِن كُنتُ عَلَى بَيِّنَةٍ مِّن رَّبِّي وَآتَانِي) 11:28; 11:63
+- Dhe ata thonë: "Pse nuk i është shpallur një mrekulli nga Zoti i tij?" Thuaj: "Vetëm." (وَيَقُولُونَ لَوْلَا أُنزِلَ عَلَيْهِ آيَةٌ مِّن رَّبِّهِ فَقُلْ إِنَّمَا) 10:20; 29:50
+- Para se të vijë një ditë që nuk ka kthim prej Allahut. (مِن قَبْلِ أَن يَأْتِيَ يَوْمٌ لَّا مَرَدَّ لَهُ مِنَ اللَّهِ) 30:43; 42:47
+- Ai është dhuntia e Allahut që Ai ia jep kujt të dojë, dhe Allahu është Zoti i dhuntisë së madhe. (ذَلِكَ فَضْلُ اللَّهِ يُؤْتِيهِ مَن يَشَاءُ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ) 57:21; 62:4
+- Dhe në bagëtitë ka për ju një mësim, Ne ju japim të pini nga ajo që gjendet në barqet e tyre. (وَإِنَّ لَكُمْ فِي الْأَنْعَامِ لَعِبْرَةً نُّسْقِيكُم مِّمَّا فِي بُطُونِهِ) 16:66; 23:21
+- Se ajo është e vërteta nga Zoti i tyre, dhe Allahu nuk është i pavëmendshëm ndaj asaj që ata bëjnë. (أَنَّهُ الْحَقُّ مِن رَّبِّهِمْ وَمَا اللَّهُ بِغَافِلٍ عَمَّا يَعْمَلُونَ) 2:144; 2:149
+- Përpara tyre dhe pas tyre, që të mos adhuroni tjetër përveç Allahut. (مِن بَيْنِ أَيْدِيهِمْ وَمِنْ خَلْفِهِمْ أَلَّا تَعْبُدُوا إِلَّا اللَّهَ) 41:14; 46:21
+- Vërtet ju i afroheni burrave me epsh, duke lënë gratë, madje ju jeni një popull i shfrenuar. (إِنَّكُمْ لَتَأْتُونَ الرِّجَالَ شَهْوَةً مِّن دُونِ النِّسَاءِ بَلْ أَنتُمْ قَوْمٌ) 7:81; 27:55
+- Përgjithmonë aty, për sa kohë që ekzistojnë qiejt dhe toka, përveç asaj që do Zoti yt. (خَالِدِينَ فِيهَا مَا دَامَتِ السَّمَاوَاتُ وَالْأَرْضُ إِلَّا مَا شَاءَ رَبُّكَ) 11:107; 11:108
+- Kush është në qiej dhe kush është në tokë, përveç atij që do Allahu. (مَن فِي السَّمَاوَاتِ وَمَن فِي الْأَرْضِ إِلَّا مَن شَاءَ اللَّهُ) 27:87; 39:68
+- Në to ata do të stolisen me byzylykë ari dhe perla, dhe veshja e tyre atje do të jetë mëndafsh. (يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِن ذَهَبٍ وَلُؤْلُؤًا وَلِبَاسُهُمْ فِيهَا حَرِيرٌ) 22:23; 35:33
+- Dhe zbriti nga qielli ujë dhe me të nxori frute si ushqim për ju. (وَأنزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجَ بِهِ مِنَ الثَّمَرَاتِ رِزْقًا لَّكُمْ) 2:22; 14:32
+- Dhe kur Ne morëm besën tuaj dhe ngritëm mbi ju malin Tur: "Merreni atë që ju dhamë me forcë." (وَإِذْ أَخَذْنَا مِيثَاقَكُمْ وَرَفَعْنَا فَوْقَكُمُ الطُّورَ خُذُوا مَا آتَيْنَاكُم بِقُوَّةٍ) 2:63; 2:93
+- Dhe ai u largua prej tyre dhe tha: "O populli im, unë ju kam përcjellë mesazhin e Zotit tim dhe ju kam këshilluar." (فَتَوَلَّى عَنْهُمْ وَقَالَ يَاقَوْمِ لَقَدْ أَبْلَغْتُكُمْ رِسَالَةَ رَبِّي وَنَصَحْتُ لَكُمْ) 7:79; 7:93
+- Nën ta rrjedhin lumenj, ata do të stolisen në to me byzylykë ari. (تَجْرِي مِن تَحْتِهِمُ الْأَنْهَارُ يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِن ذَهَبٍ) 18:31; 22:23
+- Edhe sikur të kishin gjithçka që gjendet në tokë dhe po aq sa ajo për të shpëtuar veten. (لَوْ أَنَّ لَهُم مَّا فِي الْأَرْضِ جَمِيعًا وَمِثْلَهُ مَعَهُ لِيَفْتَدُوا) 5:36; 13:18
+- Nga çdo krijesë, por Ai i shtyn deri në një afat të caktuar dhe kur të vijë afati i tyre. (مِن دَابَّةٍ وَلَكِن يُؤَخِّرُهُمْ إِلَى أَجَلٍ مُّسَمًّى فَإِذَا جَاءَ أَجَلُهُمْ) 16:61; 35:45
+- Ne ju krijuam nga dheu, pastaj nga pika e farës, pastaj nga gjaku i mpiksur, pastaj. (خَلَقْنَاكُم مِّن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ مِنْ عَلَقَةٍ ثُمَّ) 22:5; 40:67
+- Allahu do të gjykojë mes tyre në Ditën e Kiametit për atë që ata kundërshtonin. (فَاللَّهُ يَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 2:113; 22:69
+- Të erdhi nga dituria, ti nuk ke nga Allahu as mbrojtës e as. (جَاءَكَ مِنَ الْعِلْمِ مَا لَكَ مِنَ اللَّهِ مِن وَلِيٍّ وَلَا) 2:120; 13:37
+- Dhe kur Ne i dhurojmë mirësi njeriut, ai kthehet dhe tërhiqet, por kur e prek e keqja. (وَإِذَا أَنْعَمْنَا عَلَى الْإِنسَانِ أَعْرَضَ وَنَأَى بِجَانِبِهِ وَإِذَا مَسَّهُ الشَّرُّ) 17:83; 41:51
+- Dhe as më e vogël se ajo e as më e madhe, përveç se në një libër të qartë. (وَلَا أَصْغَرَ مِن ذَلِكَ وَلَا أَكْبَرَ إِلَّا فِي كِتَابٍ مُّبِينٍ) 10:61; 34:3
+
+Matching Phrases 9 words
+- Dhe ai tha: "O populli im, adhuroni Allahun, nuk keni zot tjetër përveç Tij." (فَقَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ) 7:59; 7:65; 7:73; 7:85; 11:50; 11:61; 11:84; 23:23
+- A nuk udhëtuan në tokë dhe panë si ishte përfundimi i atyre që ishin para tyre? (أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ) 12:109; 30:9; 35:44; 40:21; 40:82; 47:10
+- Ata kanë shpërblimin e tyre te Zoti i tyre, nuk ka frikë për ta dhe ata nuk pikëllohen. (أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ) 2:62; 2:112; 2:262; 2:274; 2:277
+- Të udhëtojnë në tokë dhe të shohin si ishte përfundimi i atyre që ishin para tyre. (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن) 30:9; 30:42; 35:44; 40:82; 47:10
+- Në tokë dhe të shohin si ishte përfundimi i atyre para tyre. (فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ) 30:9; 30:42; 35:44; 40:82; 47:10
+- Dhe kush është më i padrejtë se ai që shpif gënjeshtër për Allahun ose. (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا أَوْ) 6:21; 6:93; 7:37; 10:17; 29:68
+- Dhe kur Ai vendos një çështje, Ai vetëm i thotë: "Bëhu!" dhe ajo bëhet. (وَإِذَا قَضَى أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُن فَيَكُونُ) 2:117; 3:47; 19:35; 40:68
+- Dhe ju nuk keni përveç Allahut as mbrojtës e as ndihmës. (وَمَا لَكُم مِّن دُونِ اللَّهِ مِن وَلِيٍّ وَلَا نَصِيرٍ) 2:107; 9:116; 29:22; 42:31
+- Unë do t'ua fshij të këqijat e tyre dhe do t'i fut në xhenete nën të cilët rrjedhin lumenj. (لَأُكَفِّرَنَّ عَنْهُمْ سَيِّئَاتِهِمْ وَلَأُدْخِلَنَّهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 3:195; 5:12; 64:9; 66:8
+- Ne do t'i futim në xhenete nën të cilët rrjedhin lumenj, ku do të jenë përgjithmonë. (سَنُدْخِلُهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا) 4:57; 4:122; 64:9; 65:11
+- Zoti yt është më i dijshëm se kush humbi nga rruga e Tij dhe Ai është më i dijshëm. (رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ) 16:125; 53:30; 68:7
+- Do të ktheheni te Njohësi i së padukshmes dhe së dukshmes dhe Ai do t'ju njoftojë për atë që keni bërë. (تُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ) 9:94; 9:105; 62:8
+- Djemtë tuaj dhe lënë gjallë gratë tuaja, dhe në këtë ka një sprovë të madhe nga Zoti juaj. (أَبْنَاءَكُمْ وَيَسْتَحْيُونَ نِسَاءَكُمْ وَفِي ذَلِكُم بَلَاءٌ مِّن رَّبِّكُمْ عَظِيمٌ) 2:49; 7:141; 14:6
+- Me të vërtetë Zoti yt është më i dijshëm se kush humbi nga rruga e Tij dhe Ai. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ) 16:125; 53:30; 68:7
+- Allahut, të Cilit i takon çdo gjë në qiej dhe çdo gjë në tokë. (اللَّهِ الَّذِي لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 14:2; 34:1; 42:53
+- Në popuj që kaluan para jush nga xhindët dhe njerëzit. (فِي أُمَمٍ قَدْ خَلَتْ مِن قَبْلِكُم مِّنَ الْجِنِّ وَالْإِنسِ) 7:38; 41:25; 46:18
+- Adhuroni Allahun, nuk keni zot tjetër përveç Tij, a nuk do të frikësoheni? (اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 7:65; 23:23; 23:32
+- Dhe Ne vumë mbulesa mbi zemrat e tyre që të mos e kuptojnë dhe në veshët e tyre rëndim. (وَجَعَلْنَا عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا) 6:25; 17:46; 18:57
+- Ai do të gjykojë mes tyre në Ditën e Kiametit për atë që ata kundërshtonin. (يَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 2:113; 16:124; 22:69
+- Ai tha: "O populli im, çfarë mendoni nëse unë jam në një argument të qartë nga Zoti im." (قَالَ يَاقَوْمِ أَرَأَيْتُمْ إِن كُنتُ عَلَى بَيِّنَةٍ مِّن رَّبِّي) 11:28; 11:63; 11:88
+- Kjo për shkak të asaj që duart tuaja kanë bërë dhe se Allahu nuk është padrejtës për robërit. (ذَلِكَ بِمَا قَدَّمَتْ أَيْدِيكُمْ وَأَنَّ اللَّهَ لَيْسَ بِظَلَّامٍ لِّلْعَبِيدِ) 3:182; 8:51; 22:10
+- Ata kanë në këtë botë turp dhe në botën tjetër dënim të madh. (لَهُمْ فِي الدُّنْيَا خِزْيٌ وَلَهُمْ فِي الْآخِرَةِ عَذَابٌ عَظِيمٌ) 2:114; 5:41
+- Çdo gjë në qiej dhe çdo gjë në tokë, dhe Allahu mjafton si përkujdesës. (مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَكَفَى بِاللَّهِ وَكِيلًا) 4:132; 4:171
+- Përveç atyre që besuan dhe bënë vepra të mira, ata kanë shpërblim të pandërprerë. (إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ) 84:25; 95:6
+- Të më shoqërosh mua me atë për të cilën nuk ke dije, mos iu bind atyre. (لِتُشْرِكَ بِي مَا لَيْسَ لَكَ بِهِ عِلْمٌ فَلَا تُطِعْهُمَا) 29:8; 31:15
+- Vërtet kjo është një këshillë, kush të dojë, merr rrugën drejt Zotit të tij. (إِنَّ هَذِهِ تَذْكِرَةٌ فَمَن شَاءَ اتَّخَذَ إِلَى رَبِّهِ سَبِيلًا) 73:19; 76:29
+- Dhe kush falënderon, falënderon për vete, e kush mohon, ai. (وَمَن شَكَرَ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِ وَمَن كَفَرَ فَإِنَّ) 27:40; 31:12
+- Ata që e kryejnë namazin dhe japin zeqatin dhe që në botën tjetër janë të bindur. (الَّذِينَ يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُم بِالْآخِرَةِ هُمْ يُوقِنُونَ) 27:3; 31:4
+- Ibrahimit, Ismailit, Is-hakut, Jakubit, e fiseve, dhe asaj që iu dha Musait dhe Isait. (إِبْرَاهِيمَ وَإِسْمَاعِيلَ وَإِسْحَاقَ وَيَعْقُوبَ وَالْأَسْبَاطِ وَمَا أُوتِيَ مُوسَى وَعِيسَى) 2:136; 3:84
+- Në grupe derisa të vijnë e t'u hapen dyert dhe rojtarët e saj t'u thonë. (زُمَرًا حَتَّى إِذَا جَاءُوهَا فُتِحَتْ أَبْوَابُهَا وَقَالَ لَهُمْ خَزَنَتُهَا) 39:71; 39:73
+- Allahu nuk ju merr në përgjegjësi për betimet tuaja të kota, por Ai ju merr përgjegjësi për atë që. (لَّا يُؤَاخِذُكُمُ اللَّهُ بِاللَّغْوِ فِي أَيْمَانِكُمْ وَلَكِن يُؤَاخِذُكُم بِمَا) 2:225; 5:89
+- Një mëshirë dhe ata gëzohen për të, por nëse i godet një e keqe për shkak të asaj që kanë bërë duart e tyre. (رَحْمَةً فَرِحُوا بِهَا وَإِن تُصِبْهُمْ سَيِّئَةٌ بِمَا قَدَّمَتْ أَيْدِيهِمْ) 30:36; 42:48
+- Nën të cilët rrjedhin lumenj, ku do të jenë përgjithmonë, dhe sa i mirë është shpërblimi i punëtorëve. (تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَنِعْمَ أَجْرُ الْعَامِلِينَ) 3:136; 29:58
+- Allahu dhe Ai e di çdo gjë në qiej dhe çdo gjë në tokë, dhe Allahu. (اللَّهُ وَيَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَاللَّهُ) 3:29; 49:16
+- Bindjuni Allahut dhe bindjuni të Dërguarit, por nëse ktheheni, atëherë mbi të është. (أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ فَإِن تَوَلَّوْا فَإِنَّمَا عَلَيْهِ) 24:54; 64:12
+- Ata kanë shpërblimin e tyre te Zoti i tyre, nuk ka frikë për ta dhe ata. (فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ) 2:274; 2:277
+- Dhe thanë: "Kur të bëhemi eshtra dhe pluhur, a do të ringjallem në një krijim të ri?" (وَقَالُوا أَإِذَا كُنَّا عِظَامًا وَرُفَاتًا أَإِنَّا لَمَبْعُوثُونَ خَلْقًا جَدِيدًا) 17:49; 17:98
+- Dhe ata nuk gjejnë për vete përveç Allahut as mbrojtës e as ndihmës. (وَلَا يَجِدُونَ لَهُم مِّن دُونِ اللَّهِ وَلِيًّا وَلَا نَصِيرًا) 4:173; 33:17
+- "Sa kohë qëndrove?" Ai tha: "Qëndrova një ditë ose një pjesë të ditës." Tha. (كَمْ لَبِثْتَ قَالَ لَبِثْتُ يَوْمًا أَوْ بَعْضَ يَوْمٍ قَالَ) 2:259; 18:19
+- Përgjithmonë deri në Ditën e Kiametit, kush është zot tjetër përveç Allahut që t'ju sjellë. (سَرْمَدًا إِلَى يَوْمِ الْقِيَامَةِ مَنْ إِلَهٌ غَيْرُ اللَّهِ يَأْتِيكُم) 28:71; 28:72
+- Kush bën vepër të mirë, mashkull apo femër, dhe ai është besimtar. (مَنْ عَمِلَ صَالِحًا مِّن ذَكَرٍ أَوْ أُنثَى وَهُوَ مُؤْمِنٌ) 16:97; 40:40
+- Ata që i largohen rrugës së Allahut dhe kërkojnë ta shtrembërojnë atë, dhe ata në botën tjetër. (الَّذِينَ يَصُدُّونَ عَن سَبِيلِ اللَّهِ وَيَبْغُونَهَا عِوَجًا وَهُم بِالْآخِرَةِ) 7:45; 11:19
+- Kudo që të doni, por mos iu afroni kësaj peme, e të bëheni nga të padrejtët. (حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَذِهِ الشَّجَرَةَ فَتَكُونَا مِنَ الظَّالِمِينَ) 2:35; 7:19
+- Thuaj: "O populli im, veproni sipas vendit tuaj, unë po veproj, e do ta dini." (قُلْ يَاقَوْمِ اعْمَلُوا عَلَى مَكَانَتِكُمْ إِنِّي عَامِلٌ فَسَوْفَ تَعْلَمُونَ) 6:135; 39:39
+- Vërtet humbës janë ata që humbën vetveten dhe familjen e tyre në Ditën e Kiametit, a nuk. (إِنَّ الْخَاسِرِينَ الَّذِينَ خَسِرُوا أَنفُسَهُمْ وَأَهْلِيهِمْ يَوْمَ الْقِيَامَةِ أَلَا) 39:15; 42:45
+- Ai udhëzohet për vete, e kush humb, humb vetëm për vete, dhe. (يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا وَمَا) 10:108; 39:41
+- Dhe ata që mohuan thonë: "Pse nuk i është shpallur një mrekulli nga Zoti i tij?" (وَيَقُولُ الَّذِينَ كَفَرُوا لَوْلَا أُنزِلَ عَلَيْهِ آيَةٌ مِّن رَّبِّهِ) 13:7; 13:27
+- Ai që ua bëri natën që të pushoni në të dhe ditën për të parë, vërtet. (الَّذِي جَعَلَ لَكُمُ اللَّيْلَ لِتَسْكُنُوا فِيهِ وَالنَّهَارَ مُبْصِرًا إِنَّ) 10:67; 40:61
+- Para se të vijë një ditë në të cilën nuk ka shitje dhe as. (مِّن قَبْلِ أَن يَأْتِيَ يَوْمٌ لَّا بَيْعٌ فِيهِ وَلَا) 2:254; 14:31
+- Të mendojnë se shoku i tyre nuk ka çmenduri, ai nuk është veçse qortues. (يَتَفَكَّرُوا مَا بِصَاحِبِهِم مِّن جِنَّةٍ إِنْ هُوَ إِلَّا نَذِيرٌ) 7:184; 34:46
+- Aty përgjithmonë, nuk u lehtësohet dënimi dhe nuk u jepet afat. (خَالِدِينَ فِيهَا لَا يُخَفَّفُ عَنْهُمُ الْعَذَابُ وَلَا هُمْ يُنظَرُونَ) 2:162; 3:88
+- Mos i zgjatsh sytë nga ajo me të cilën Ne i kënaqëm disa prej tyre. (لَا تَمُدَّنَّ عَيْنَيْكَ إِلَى مَا مَتَّعْنَا بِهِ أَزْوَاجًا مِّنْهُمْ) 15:88; 20:131
+- Dhe mos ua pakësoni njerëzve të drejtat e tyre dhe mos bëni çrregullim në tokë duke u shkatërruar. (وَلَا تَبْخَسُوا النَّاسَ أَشْيَاءَهُمْ وَلَا تَعْثَوْا فِي الْأَرْضِ مُفْسِدِينَ) 11:85; 26:183
+- Dhe paqja qoftë mbi të ditën kur lindi, ditën kur vdes dhe ditën kur ringjallet i gjallë. (وَسَلَامٌ عَلَيْهِ يَوْمَ وُلِدَ وَيَوْمَ يَمُوتُ وَيَوْمَ يُبْعَثُ حَيًّا) 19:15; 19:33
+- O populli im, veproni sipas vendit tuaj, unë po veproj, e do ta dini se kush. (يَاقَوْمِ اعْمَلُوا عَلَى مَكَانَتِكُمْ إِنِّي عَامِلٌ فَسَوْفَ تَعْلَمُونَ مَن) 6:135; 11:93
+- Dhe nuk ishte e mundur për një të dërguar të sillte një mrekulli pa lejen e Allahut. (وَمَا كَانَ لِرَسُولٍ أَن يَأْتِيَ بِآيَةٍ إِلَّا بِإِذْنِ اللَّهِ) 13:38; 40:78
+- Pastaj çdo njeriu do t'i jepet e plota ajo që ka fituar dhe ata nuk do të padrejtësohen. (ثُمَّ تُوَفَّى كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ) 2:281; 3:161
+- Nga mashkulli apo femra, dhe ai është besimtar, të tillët do të hyjnë në xhenet. (مِن ذَكَرٍ أَوْ أُنثَى وَهُوَ مُؤْمِنٌ فَأُولَئِكَ يَدْخُلُونَ الْجَنَّةَ) 4:124; 40:40
+- Ai nuk ka marrë fëmijë dhe nuk ka shok në sundim. (لَمْ يَتَّخِذْ وَلَدًا وَلَمْ يَكُن لَّهُ شَرِيكٌ فِي الْمُلْكِ) 17:111; 25:2
+- Kush udhëzohet nga Allahu, ai është i udhëzuar, e kush humb, ti nuk do të gjesh. (وَمَن يَهْدِ اللَّهُ فَهُوَ الْمُهْتَدِ وَمَن يُضْلِلْ فَلَن تَجِدَ) 17:97; 18:17
+- Shih se si të bëjnë shëmbëlltyra dhe humbën, e nuk mund të gjejnë rrugë. (انظُرْ كَيْفَ ضَرَبُوا لَكَ الْأَمْثَالَ فَضَلُّوا فَلَا يَسْتَطِيعُونَ سَبِيلًا) 17:48; 25:9
+- Thuaj: "Unë kam frikë, nëse nuk i bindem Zotit tim, nga dënimi i një dite të madhe." (قُلْ إِنِّي أَخَافُ إِنْ عَصَيْتُ رَبِّي عَذَابَ يَوْمٍ عَظِيمٍ) 6:15; 39:13
+- Atyre iu zbuluan pjesët e turpshme dhe filluan të qepnin mbi vete gjethe xheneti. (بَدَتْ لَهُمَا سَوْآتُهُمَا وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِن وَرَقِ الْجَنَّةِ) 7:22; 20:121
+- Dhe thirrni kë të doni përveç Allahut, nëse jeni të sinqertë. (وَادْعُوا مَنِ اسْتَطَعْتُم مِّن دُونِ اللَّهِ إِن كُنتُمْ صَادِقِينَ) 10:38; 11:13
+- Gjithçka në tokë dhe po aq sa ajo për të shpëtuar veten. (مَّا فِي الْأَرْضِ جَمِيعًا وَمِثْلَهُ مَعَهُ لِيَفْتَدُوا بِهِ مِنْ) 5:36; 39:47
+- Merreni atë që ju dhamë me forcë dhe kujtoni atë që gjendet në të, ndoshta do të frikësoheni. (خُذُوا مَا آتَيْنَاكُم بِقُوَّةٍ وَاذْكُرُوا مَا فِيهِ لَعَلَّكُمْ تَتَّقُونَ) 2:63; 7:171
+- A ju vjen ajo e keqe që askush nga njerëzit e botës nuk e bëri para jush? (أَتَأْتُونَ الْفَاحِشَةَ مَا سَبَقَكُم بِهَا مِنْ أَحَدٍ مِّنَ الْعَالَمِينَ) 7:80; 29:28
+- Dhe të Allahut është çdo gjë në qiej dhe çdo gjë në tokë, dhe Allahu ishte. (وَلِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَكَانَ اللَّهُ) 4:126; 4:131
+- I goditën të këqijat e veprave të tyre dhe ajo për të cilën talleshin i rrethoi. (سَيِّئَاتُ مَا عَمِلُوا وَحَاقَ بِهِم مَّا كَانُوا بِهِ يَسْتَهْزِئُونَ) 16:34; 45:33
+- Një të dërguar nga mesi juaj, që ju lexon ajetet Tona dhe ju pastron dhe ju mëson librin dhe urtësinë. (رَسُولًا مِّنكُمْ يَتْلُو عَلَيْكُمْ آيَاتِنَا وَيُزَكِّيكُمْ وَيُعَلِّمُكُمُ الْكِتَابَ وَالْحِكْمَةَ) 2:151; 62:2
+- Nga ai dymbëdhjetë burime, secili njeri e dinte vendin e tij për të pirë. (مِنْهُ اثْنَتَا عَشْرَةَ عَيْنًا قَدْ عَلِمَ كُلُّ أُنَاسٍ مَّشْرَبَهُمْ) 2:60; 7:160
+- Vetëm hamendje, vërtet hamendja nuk të bën dobi për të vërtetën. (إِلَّا ظَنًّا إِنَّ الظَّنَّ لَا يُغْنِي مِنَ الْحَقِّ شَيْئًا) 10:36; 53:28
+- Dhe kur ta përsos atë dhe të fryj në të nga shpirti Im, bie përmbys duke iu përulur. (فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ فِيهِ مِن رُّوحِي فَقَعُوا لَهُ سَاجِدِينَ) 15:29; 38:72
+- Kush do ta ketë përfundimin e mirë të botës, vërtet të padrejtët nuk shpëtojnë. (مَن تَكُونُ لَهُ عَاقِبَةُ الدَّارِ إِنَّهُ لَا يُفْلِحُ الظَّالِمُونَ) 6:135; 28:37
+- Ai që krijoi qiejt dhe tokën është i Fuqishëm të krijojë të ngjashëm me ta. (الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ قَادِرٌ عَلَى أَن يَخْلُقَ مِثْلَهُمْ) 17:99; 36:81
+- Besimtarëve dhe besimtareve u premtoi xhenete nën të cilët rrjedhin lumenj, ku do të jenë përgjithmonë. (الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 9:72; 48:5
+- Nëse i pyet kush krijoi qiejt dhe tokën, ata do të thonë Allahu, thuaj. (وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ لَيَقُولُنَّ اللَّهُ قُلِ) 31:25; 39:38
+- Ne u kemi sjellë njerëzve në këtë Kur'an çdo lloj shembulli. (وَلَقَدْ ضَرَبْنَا لِلنَّاسِ فِي هَذَا الْقُرْآنِ مِن كُلِّ مَثَلٍ) 30:58; 39:27
+- Kur të dërguarit Tanë erdhën te Luti, ai u ndie keq për ta dhe u ngushtua, dhe tha. (جَاءَتْ رُسُلُنَا لُوطًا سِيءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًا وَقَالَ) 11:77; 29:33
+- Dhe kur u thamë engjëjve: "Përuluni Ademit", ata u përulën, përveç Iblisit, që refuzoi. (وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا إِبْلِيسَ أَبَى) 2:34; 20:116
+- Dhe tokën e shtruam dhe hodhën në të male të palëvizshme dhe rritën në të nga çdo. (وَالْأَرْضَ مَدَدْنَاهَا وَأَلْقَيْنَا فِيهَا رَوَاسِيَ وَأَنبَتْنَا فِيهَا مِن كُلِّ) 15:19; 50:7
+- Ata luteshin Allahun me sinqeritet, e kur i shpëtoi në tokë. (دَعَوُا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ فَلَمَّا نَجَّاهُمْ إِلَى الْبَرِّ) 29:65; 31:32
+- Ata kanë pije nga uji i valë dhe dënim të dhembshëm për shkak se mohonin. (لَهُمْ شَرَابٌ مِّنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْفُرُونَ) 6:70; 10:4
+- A të lusim përveç Allahut atë që nuk na bën dobi dhe nuk na dëmton? (أَنَدْعُو مِن دُونِ اللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا) 6:71; 10:106
+- Se Allahu di çdo gjë në qiej dhe çdo gjë në tokë. (أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 5:97; 58:7
 """;

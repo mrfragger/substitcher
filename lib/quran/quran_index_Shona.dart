@@ -3019,4 +3019,149 @@ Matching Phrases 11 words
 - (Chakauirwa) zita risiri raAllah, asi ani naani anomanikidzwa (nenzara), asiri kuita zvekupanduka uye asingadariki muganho, saka... (أُهِلَّ لِغَيْرِ اللَّهِ بِهِ فَمَنِ اضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ) 6:145; 16:115
 - Uye kana zvikati kwavari: Teerai izvo Allah akaburitsa, vanoti: Kwete, tinotevera izvo zvatawana madzitateguru edu vachiita. (وَإِذَا قِيلَ لَهُمُ اتَّبِعُوا مَا أَنزَلَ اللَّهُ قَالُوا بَلْ نَتَّبِعُ مَا) 2:170; 31:21
 - Akati: Vazhinji vangu, namatirai Allah; hamuna mumwe mwari kunze Kwake. Ko hamutye (Here) here? (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 7:65; 23:23
+Matching Phrases 10 words
+
+- Vanofamba-famba panyika uye vanoona kuti magumo evakanga vari pamberi pavo akanga akaita sei. (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ) 12:109; 30:9; 30:42; 35:44; 40:82; 47:10
+- Uye ndiani ane hutsinye hukuru kupfuura uyo anofungidzira manyepo pamusoro paAllah kana kuramba? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا أَوْ كَذَّبَ) 6:21; 7:37; 10:17; 29:68
+- Zvirokwazvo, Ishe wako ndiye anonyanya kuziva uyo anotsauka kubva munzira Yake, uye Iye ndiye anonyanya kuziva. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ مَن يَضِلُّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ) 6:117; 16:125; 53:30; 68:7
+- Ko havana kufamba-famba panyika uye havana kuona kuti magumo evakanga vari pamberi pavo akanga akaita sei? (أَوَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن) 30:9; 35:44; 40:82; 47:10
+- Vane mubayiro wavo kuna Ishe wavo, uye hakuna kutya pamusoro pavo, uye havazochema. (فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ) 2:62; 2:262; 2:274; 2:277
+- Uye avo vakatenda uye vakaita mabasa akanaka, vakapinzwa muminda inoyerera nzizi pasi payo. (وَأُدْخِلَ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 14:23; 22:14; 22:23; 47:12
+- Akati: "Hai vanhu vangu! Namatayi Allah, hamuna mwari kumwe kunze Kwake, hamutye here?" (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا) 7:65; 11:84; 23:23
+- Hupfumi hwavo kana vana vavo hazvibatsiri pamberi paAllah nechinhu, uye ivavo ndivo. (لَن تُغْنِيَ عَنْهُمْ أَمْوَالُهُمْ وَلَا أَوْلَادُهُم مِّنَ اللَّهِ شَيْئًا وَأُولَئِكَ) 3:10; 3:116; 58:17
+- Minda inoyerera nzizi pasi payo, vachigara mariri nekusingaperi, uye ikoko ndiko kubudirira kukuru. (جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَذَلِكَ الْفَوْزُ الْعَظِيمُ) 4:13; 9:89
+- Ko nhau dzeavo vakanga vari pamberi pavo, verudzi rwaNowa, Aad naSamud, hadzina kusvika kwavari here? (أَلَمْ يَأْتِهِمْ نَبَأُ الَّذِينَ مِن قَبْلِهِمْ قَوْمِ نُوحٍ وَعَادٍ وَثَمُودَ) 9:70; 14:9
+- Ndiani vabatsiri vangu munzira yaAllah? Vadzidzi vakati: "Isu tiri vabatsiri vaAllah, takatenda." (مَنْ أَنصَارِي إِلَى اللَّهِ قَالَ الْحَوَارِيُّونَ نَحْنُ أَنصَارُ اللَّهِ آمَنَّا) 3:52; 61:14
+- Ishe wako ndiye anonyanya kuziva uyo akatsauka kubva munzira Yake, uye Iye ndiye anonyanya kuziva vakatungamirwa. (رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ) 16:125; 68:7
+- Izvi nokuti Allah ndiye Chokwadi, uye izvo zvavanodana kunze Kwake inhema. (ذَلِكَ بِأَنَّ اللَّهَ هُوَ الْحَقُّ وَأَنَّ مَا يَدْعُونَ مِن دُونِهِ) 22:62; 31:30
+- Uye ani nani anoteerera Allah neMutumwa Wake, Allah achamupinza muminda inoyerera nzizi pasi payo. (وَمَن يُطِعِ اللَّهَ وَرَسُولَهُ يُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 4:13; 48:17
+- Zvirokwazvo, Iye akarambidza kwamuri chakafa, ropa, nyama yenguruve, uye izvo zvakabayirwa kune mumwe. (إِنَّمَا حَرَّمَ عَلَيْكُمُ الْمَيْتَةَ وَالدَّمَ وَلَحْمَ الْخِنزِيرِ وَمَا أُهِلَّ) 2:173; 16:115
+- Kuti musanamata kune ani naani kunze kwaAllah; zvirokwazvo, ini ndinotya kwamuri chirango cheZuva guru. (أَن لَّا تَعْبُدُوا إِلَّا اللَّهَ إِنِّي أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ) 11:26; 46:21
+- Izvi zviri munhau dzisina kujeka dzatinozvizivisa kwauri; iwe wanga usiri pamwe navo pavakanga vachiita sarudzo. (ذَلِكَ مِنْ أَنبَاءِ الْغَيْبِ نُوحِيهِ إِلَيْكَ وَمَا كُنتَ لَدَيْهِمْ إِذْ) 3:44; 12:102
+- Munoshamiswa here kuti chiyeuchidzo chakauya kwamuri kubva kuna Ishe wenyu kubudikidza nomurume ari pakati penyu, kuti akunyeverei? (أَوَعَجِبْتُمْ أَن جَاءَكُمْ ذِكْرٌ مِّن رَّبِّكُمْ عَلَى رَجُلٍ مِّنكُمْ لِيُنذِرَكُمْ) 7:63; 7:69
+- Iti: "Zvirokwazvo, ndakarambidzwa kunamata avo vamunodaidza kunze kwaAllah." (قُلْ إِنِّي نُهِيتُ أَنْ أَعْبُدَ الَّذِينَ تَدْعُونَ مِن دُونِ اللَّهِ) 6:56; 40:66
+- Kunze kwevakadzi vavo kana izvo zvinowanikwa nemaoko avo erudyi, nokuti ivo havana mhosva. (إِلَّا عَلَى أَزْوَاجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَانُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ) 23:6; 70:30
+- Nokuti Allah anoisa usiku muchiedza uye anoisa chiedza nousiku. (بِأَنَّ اللَّهَ يُولِجُ اللَّيْلَ فِي النَّهَارِ وَيُولِجُ النَّهَارَ فِي اللَّيْلِ) 22:61; 31:29
+- Moto, akati kumhuri yake: "Garai, ini ndaona moto, pamwe ndinokuunzirai chimwe chinhu chawo." (نَارًا فَقَالَ لِأَهْلِهِ امْكُثُوا إِنِّي آنَسْتُ نَارًا لَّعَلِّي آتِيكُم مِّنْهَا) 20:10; 28:29
+- Akati: "Ini ndiri nani kupfuura iye; Makandisika kubva mumoto, uye iye Makamusika kubva muvhu." (قَالَ أَنَا خَيْرٌ مِّنْهُ خَلَقْتَنِي مِن نَّارٍ وَخَلَقْتَهُ مِن طِينٍ) 7:12; 38:76
+- Uye kana vachinzi: "Huya kune izvo Allah zvakaburitsa uye kune Mutumwa." (وَإِذَا قِيلَ لَهُمْ تَعَالَوْا إِلَى مَا أَنزَلَ اللَّهُ وَإِلَى الرَّسُولِ) 4:61; 5:104
+- Uye usachema pamusoro pavo, uye usave munhamo nekuda kwezvinorangwa navo. (وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُ فِي ضَيْقٍ مِّمَّا يَمْكُرُونَ) 16:127; 27:70
+- Kana Allah akakubata nekukuvadza, hapana anogona kuchibvisa kunze Kwake, uye kana. (وَإِن يَمْسَسْكَ اللَّهُ بِضُرٍّ فَلَا كَاشِفَ لَهُ إِلَّا هُوَ وَإِن) 6:17; 10:107
+- Pamberi pavo, zvizvarwa zvakafamba-famba mudzimba dzavo; zvirokwazvo, mune izvi zviratidzo. (قَبْلَهُم مِّنَ الْقُرُونِ يَمْشُونَ فِي مَسَاكِنِهِمْ إِنَّ فِي ذَلِكَ لَآيَاتٍ) 20:128; 32:26
+- Uye takaisa zvivharo pamoyo yavo kuti vasanzwisise, uye munzeve dzavo huremu, uye kana. (وَجَعَلْنَا عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا وَإِن) 6:25; 18:57
+- Vatumwa vavo vakauya kwavari nehumbowo hwakajeka, asi Allah akanga asiri wekuvaitira hutsinye, asi ivo pachavo vaizviitira hutsinye. (رُسُلُهُم بِالْبَيِّنَاتِ فَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ وَلَكِن كَانُوا أَنفُسَهُمْ يَظْلِمُونَ) 9:70; 30:9
+- Uye panyika, uye hamuna kunze kwaAllah muchengeti kana mubatsiri. (وَالْأَرْضِ وَمَا لَكُم مِّن دُونِ اللَّهِ مِن وَلِيٍّ وَلَا نَصِيرٍ) 2:107; 42:31
+- Zvino muchadzoserwa kune uyo anoziva zvakavanzika nezviri pachena, uye achakuudzai zvamaiita. (ثُمَّ تُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ) 9:94; 62:8
+- Husiku, kuti muzorore mairi, uye masikati, kuti muone; zvirokwazvo, mune izvi zviratidzo kuvanhu vanofunga. (اللَّيْلَ لِتَسْكُنُوا فِيهِ وَالنَّهَارَ مُبْصِرًا إِنَّ فِي ذَلِكَ لَآيَاتٍ لِّقَوْمٍ) 10:67; 27:86
+- Uye izvo zvakaburitswa kwauri kubva kuna Ishe wako, kune vakawanda vazvino wedzera kumukira nekusatenda. (وَلَيَزِيدَنَّ كَثِيرًا مِّنْهُم مَّا أُنزِلَ إِلَيْكَ مِن رَّبِّكَ طُغْيَانًا وَكُفْرًا) 5:64; 5:68
+- Akati: "Hai vanhu vangu! Munoona? Kana ini ndiri pahumbowo hwakajeka kubva kuna Ishe wangu, uye Akandipa." (قَالَ يَاقَوْمِ أَرَأَيْتُمْ إِن كُنتُ عَلَى بَيِّنَةٍ مِّن رَّبِّي وَآتَانِي) 11:28; 11:63
+- Uye vanoti: "Sei chishamiso chisina kuburitswa kwaari kubva kuna Ishe wake?" Iti: "Zvirokwazvo." (وَيَقُولُونَ لَوْلَا أُنزِلَ عَلَيْهِ آيَةٌ مِّن رَّبِّهِ فَقُلْ إِنَّمَا) 10:20; 29:50
+- Zuva risati rasvika risina kudzokerwa kubva kuna Allah. (مِن قَبْلِ أَن يَأْتِيَ يَوْمٌ لَّا مَرَدَّ لَهُ مِنَ اللَّهِ) 30:43; 42:47
+- Iko kunyasha kwaAllah, anozvipa kune waanoda, uye Allah ndiye Mwene wenyasha huru. (ذَلِكَ فَضْلُ اللَّهِ يُؤْتِيهِ مَن يَشَاءُ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ) 57:21; 62:4
+- Uye zvirokwazvo, mumhuka dzinopfuyiwa mune chidzidzo kwamuri; Isu tinokumwai izvo zviri mumatumbu avo. (وَإِنَّ لَكُمْ فِي الْأَنْعَامِ لَعِبْرَةً نُّسْقِيكُم مِّمَّا فِي بُطُونِهِ) 16:66; 23:21
+- Kuti icho ichokwadi kubva kuna Ishe wavo, uye kuti Allah haasi iye anoregeredza zvavanoita. (أَنَّهُ الْحَقُّ مِن رَّبِّهِمْ وَمَا اللَّهُ بِغَافِلٍ عَمَّا يَعْمَلُونَ) 2:144; 2:149
+- Pamberi pavo neshure kwavo, kuti musanamata kune ani naani kunze kwaAllah. (مِن بَيْنِ أَيْدِيهِمْ وَمِنْ خَلْفِهِمْ أَلَّا تَعْبُدُوا إِلَّا اللَّهَ) 41:14; 46:21
+- Zvirokwazvo, imi munosvika kuvarume nechishuwo pachinzvimbo chevakadzi; asi imi muri vanhu vanodarika. (إِنَّكُمْ لَتَأْتُونَ الرِّجَالَ شَهْوَةً مِّن دُونِ النِّسَاءِ بَلْ أَنتُمْ قَوْمٌ) 7:81; 27:55
+- Vachigara mariri nekusingaperi, chero bedzi matenga nenyika zviripo, kunze kwekunge Ishe wako ada. (خَالِدِينَ فِيهَا مَا دَامَتِ السَّمَاوَاتُ وَالْأَرْضُ إِلَّا مَا شَاءَ رَبُّكَ) 11:107; 11:108
+- Vaya vari kumatenga nevaya vari panyika, kunze kwevaya vaAllah anoda. (مَن فِي السَّمَاوَاتِ وَمَن فِي الْأَرْضِ إِلَّا مَن شَاءَ اللَّهُ) 27:87; 39:68
+- Imomo vachashongedzwa nezvishongo zvegoridhe nemaparera, uye zvipfeko zvavo imomo zvichava nesilika. (يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِن ذَهَبٍ وَلُؤْلُؤًا وَلِبَاسُهُمْ فِيهَا حَرِيرٌ) 22:23; 35:33
+- Uye Akaburitsa mvura kubva kumatenga, ndokuibudisa nayo zvibereko sechikafu kwamuri. (وَأنزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجَ بِهِ مِنَ الثَّمَرَاتِ رِزْقًا لَّكُمْ) 2:22; 14:32
+- Uye pataitora chibvumirano chenyu, ndokusimudza gomo pamusoro penyu: "Torai izvo zvatai kupa nesimba." (وَإِذْ أَخَذْنَا مِيثَاقَكُمْ وَرَفَعْنَا فَوْقَكُمُ الطُّورَ خُذُوا مَا آتَيْنَاكُم بِقُوَّةٍ) 2:63; 2:93
+- Akatendeuka kubva kwavari ndokuti: "Hai vanhu vangu! Zvirokwazvo, ndakakuunzirai shoko raIshe wangu uye ndakakupai zano." (فَتَوَلَّى عَنْهُمْ وَقَالَ يَاقَوْمِ لَقَدْ أَبْلَغْتُكُمْ رِسَالَةَ رَبِّي وَنَصَحْتُ لَكُمْ) 7:79; 7:93
+- Nzizi dzinoyerera pasi pavo, imomo vachashongedzwa nezvishongo zvegoridhe. (تَجْرِي مِن تَحْتِهِمُ الْأَنْهَارُ يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِن ذَهَبٍ) 18:31; 22:23
+- Kunyange dai vaive nezvose zviri panyika, nezvimwe zvakafanana nazvo, kuti vazvidzikinure. (لَوْ أَنَّ لَهُم مَّا فِي الْأَرْضِ جَمِيعًا وَمِثْلَهُ مَعَهُ لِيَفْتَدُوا) 5:36; 13:18
+- Hapana chipenyu, asi Anovanonotsa kusvika panguva yakatarwa, uye kana nguva yavo yasvika. (مِن دَابَّةٍ وَلَكِن يُؤَخِّرُهُمْ إِلَى أَجَلٍ مُّسَمًّى فَإِذَا جَاءَ أَجَلُهُمْ) 16:61; 35:45
+- Takakusikai kubva muvhu, zvino kubva mudonhwe, zvino kubva muropa rakaomeswa, zvino. (خَلَقْنَاكُم مِّن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ مِنْ عَلَقَةٍ ثُمَّ) 22:5; 40:67
+- Uye Allah vachatonga pakati pavo paZuva reKumuka pamusoro pezvavakanga vachipokana. (فَاللَّهُ يَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 2:113; 22:69
+- Ruzivo rwakauya kwauri, hauna kubva kuna Allah muchengeti kana. (جَاءَكَ مِنَ الْعِلْمِ مَا لَكَ مِنَ اللَّهِ مِن وَلِيٍّ وَلَا) 2:120; 13:37
+- Uye patinopa munhu nyasha, anotendeuka uye anozvipatura, uye kana zvakaipa zvichimubata. (وَإِذَا أَنْعَمْنَا عَلَى الْإِنسَانِ أَعْرَضَ وَنَأَى بِجَانِبِهِ وَإِذَا مَسَّهُ الشَّرُّ) 17:83; 41:51
+- Uye hapana chinhu chiduku kana chikuru pane icho, chisina kubhainwa mubhuku rakajeka. (وَلَا أَصْغَرَ مِن ذَلِكَ وَلَا أَكْبَرَ إِلَّا فِي كِتَابٍ مُّبِينٍ) 10:61; 34:3
+
+Matching Phrases 9 words
+
+- Akati: "Hai vanhu vangu! Namatayi Allah, hamuna mwari kumwe kunze Kwake." (فَقَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ) 7:59; 7:65; 7:73; 7:85; 11:50; 11:61; 11:84; 23:23
+- Ko havana kufamba-famba panyika uye havana kuona kuti magumo evakanga vari pamberi pavo akanga akaita sei? (أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ) 12:109; 30:9; 35:44; 40:21; 40:82; 47:10
+- Mubayiro wavo uri kuna Ishe wavo, uye hakuna kutya pamusoro pavo, uye havazochema. (أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ) 2:62; 2:112; 2:262; 2:274; 2:277
+- Vanofamba-famba panyika uye vanoona kuti magumo evakanga vari pamberi pavo akanga akaita sei. (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن) 30:9; 30:42; 35:44; 40:82; 47:10
+- Panyika, kuti vaone kuti magumo evakanga vari pamberi pavo akanga akaita sei. (فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ) 30:9; 30:42; 35:44; 40:82; 47:10
+- Uye ndiani ane hutsinye hukuru kupfuura uyo anofungidzira manyepo pamusoro paAllah kana kuramba? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا أَوْ) 6:21; 6:93; 7:37; 10:17; 29:68
+- Uye kana Allah achitonga chinhu, anongozviti: "Iva!" uye chinova. (وَإِذَا قَضَى أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُن فَيَكُونُ) 2:117; 3:47; 19:35; 40:68
+- Uye hamuna kunze kwaAllah muchengeti kana mubatsiri. (وَمَا لَكُم مِّن دُونِ اللَّهِ مِن وَلِيٍّ وَلَا نَصِيرٍ) 2:107; 9:116; 29:22; 42:31
+- Zvirokwazvo, ndichavaregerera zvitadzo zvavo uye ndichavapinza muminda inoyerera nzizi pasi payo. (لَأُكَفِّرَنَّ عَنْهُمْ سَيِّئَاتِهِمْ وَلَأُدْخِلَنَّهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 3:195; 5:12; 64:9; 66:8
+- Tichavapinza muminda inoyerera nzizi pasi payo, vachigara mariri nekusingaperi. (سَنُدْخِلُهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا) 4:57; 4:122; 64:9; 65:11
+- Ishe wako ndiye anonyanya kuziva uyo akatsauka kubva munzira Yake, uye Iye ndiye anonyanya kuziva. (رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ) 16:125; 53:30; 68:7
+- Muchadzoserwa kune uyo anoziva zvakavanzika nezviri pachena, uye achakuudzai zvamaiita. (تُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ) 9:94; 9:105; 62:8
+- Vaiuraya vana venyu vechirume uye vachisiya vakadzi venyu vachirarama; mune izvo kwakanga kuri muedzo mukuru kubva kuna Ishe wenyu. (أَبْنَاءَكُمْ وَيَسْتَحْيُونَ نِسَاءَكُمْ وَفِي ذَلِكُم بَلَاءٌ مِّن رَّبِّكُمْ عَظِيمٌ) 2:49; 7:141; 14:6
+- Zvirokwazvo, Ishe wako ndiye anonyanya kuziva uyo anotsauka kubva munzira Yake, uye Iye. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ) 16:125; 53:30; 68:7
+- Allah, uyo ane zvese zviri kumatenga nezviri panyika. (اللَّهِ الَّذِي لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 14:2; 34:1; 42:53
+- Pakati pemarudzi akakutungamirai, kubva kumajini nevanhu. (فِي أُمَمٍ قَدْ خَلَتْ مِن قَبْلِكُم مِّنَ الْجِنِّ وَالْإِنسِ) 7:38; 41:25; 46:18
+- Namatayi Allah, hamuna mwari kumwe kunze Kwake, hamutye here? (اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 7:65; 23:23; 23:32
+- Uye takaisa zvivharo pamoyo yavo kuti vasanzwisise, uye munzeve dzavo huremu. (وَجَعَلْنَا عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا) 6:25; 17:46; 18:57
+- Iye vachatonga pakati pavo paZuva reKumuka pamusoro pezvavakanga vachipokana. (يَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 2:113; 16:124; 22:69
+- Akati: "Hai vanhu vangu! Munoona? Kana ini ndiri pahumbowo hwakajeka kubva kuna Ishe wangu?" (قَالَ يَاقَوْمِ أَرَأَيْتُمْ إِن كُنتُ عَلَى بَيِّنَةٍ مِّن رَّبِّي) 11:28; 11:63; 11:88
+- Izvi nokuti izvo maoko enyu akatumira kumberi, uye Allah haasi iye anoita hutsinye kuvaranda. (ذَلِكَ بِمَا قَدَّمَتْ أَيْدِيكُمْ وَأَنَّ اللَّهَ لَيْسَ بِظَلَّامٍ لِّلْعَبِيدِ) 3:182; 8:51; 22:10
+- Vane nyadzi panyika ino, uye vane chirango chikuru muhupenyu hwunotevera. (لَهُمْ فِي الدُّنْيَا خِزْيٌ وَلَهُمْ فِي الْآخِرَةِ عَذَابٌ عَظِيمٌ) 2:114; 5:41
+- Zviri kumatenga nezviri panyika, uye Allah akakwana somuchengeti. (مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَكَفَى بِاللَّهِ وَكِيلًا) 4:132; 4:171
+- Kunze kweavo vakatenda uye vakaita mabasa akanaka; ivo vane mubayiro usingaperi. (إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ) 84:25; 95:6
+- Kuti usandibatise nevamwe vausingazive; usvateerere vaviri ava. (لِتُشْرِكَ بِي مَا لَيْسَ لَكَ بِهِ عِلْمٌ فَلَا تُطِعْهُمَا) 29:8; 31:15
+- Zvirokwazvo, ichi chiyeuchidzo; uye ani nani anoda, ngaatore nzira kuna Ishe wake. (إِنَّ هَذِهِ تَذْكِرَةٌ فَمَن شَاءَ اتَّخَذَ إِلَى رَبِّهِ سَبِيلًا) 73:19; 76:29
+- Uye ani nani anotenda, anotenda kune yake mweya; uye ani nani anoramba. (وَمَن شَكَرَ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِ وَمَن كَفَرَ فَإِنَّ) 27:40; 31:12
+- Avo vanoita minamato, vanopa zaka, uye vanotenda muHupenyu hunotevera. (الَّذِينَ يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُم بِالْآخِرَةِ هُمْ يُوقِنُونَ) 27:3; 31:4
+- Abrahama, Ishmaeri, Isaka, Jakobe, nemadzinza, nezvakapihwa Moses naJesu. (إِبْرَاهِيمَ وَإِسْمَاعِيلَ وَإِسْحَاقَ وَيَعْقُوبَ وَالْأَسْبَاطِ وَمَا أُوتِيَ مُوسَى وَعِيسَى) 2:136; 3:84
+- Nemapoka, kusvikira vasvika pairi, uye masuwo ayo achazarurwa, uye varindi vayo vachati kwavari. (زُمَرًا حَتَّى إِذَا جَاءُوهَا فُتِحَتْ أَبْوَابُهَا وَقَالَ لَهُمْ خَزَنَتُهَا) 39:71; 39:73
+- Allah haakutongi nekuda kwemashoko asina maturo mupiko dzenyu, asi anokutongi nekuda kweizvo. (لَّا يُؤَاخِذُكُمُ اللَّهُ بِاللَّغْوِ فِي أَيْمَانِكُمْ وَلَكِن يُؤَاخِذُكُم بِمَا) 2:225; 5:89
+- Tsitsi, vanofara nazvo, uye kana zvakaipa zvichavabata nekuda kwezvakaitwa nemaoko avo. (رَحْمَةً فَرِحُوا بِهَا وَإِن تُصِبْهُمْ سَيِّئَةٌ بِمَا قَدَّمَتْ أَيْدِيهِمْ) 30:36; 42:48
+- Minda inoyerera nzizi pasi payo, vachigara mariri nekusingaperi, uye mubayiro wevashandi wakanaka sei! (تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَنِعْمَ أَجْرُ الْعَامِلِينَ) 3:136; 29:58
+- Allah anoziva zvirikumatenga nezviri panyika, uye Allah. (اللَّهُ وَيَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَاللَّهُ) 3:29; 49:16
+- Teererai Allah uye teererai Mutumwa; kana mukatendeuka, basa riri paari. (أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ فَإِن تَوَلَّوْا فَإِنَّمَا عَلَيْهِ) 24:54; 64:12
+- Vane mubayiro wavo kuna Ishe wavo, uye hakuna kutya pamusoro pavo, uye ivo. (فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ) 2:274; 2:277
+- Uye vakati: "Kana tave mapfupa neguruva, ko zvazvino tichamutswa sechisikwa chitsva here?" (وَقَالُوا أَإِذَا كُنَّا عِظَامًا وَرُفَاتًا أَإِنَّا لَمَبْعُوثُونَ خَلْقًا جَدِيدًا) 17:49; 17:98
+- Uye havawani kwavari, kunze kwaAllah, muchengeti kana mubatsiri. (وَلَا يَجِدُونَ لَهُم مِّن دُونِ اللَّهِ وَلِيًّا وَلَا نَصِيرًا) 4:173; 33:17
+- "Wakagara kwenguva yakareba sei?" Akati: "Ndakagara zuva rimwe kana chikamu chezuva." Akati. (كَمْ لَبِثْتَ قَالَ لَبِثْتُ يَوْمًا أَوْ بَعْضَ يَوْمٍ قَالَ) 2:259; 18:19
+- Nekusingaperi kusvika paZuva reKumuka, ndiani mwari kunze kwaAllah angakuunzirai? (سَرْمَدًا إِلَى يَوْمِ الْقِيَامَةِ مَنْ إِلَهٌ غَيْرُ اللَّهِ يَأْتِيكُم) 28:71; 28:72
+- Uyo anoita basa rakanaka, murume kana mukadzi, uye ari mutendi. (مَنْ عَمِلَ صَالِحًا مِّن ذَكَرٍ أَوْ أُنثَى وَهُوَ مُؤْمِنٌ) 16:97; 40:40
+- Avo vanodzivisa kubva munzira yaAllah uye vanoda kuishandura, uye ivo muhupenyu hunotevera. (الَّذِينَ يَصُدُّونَ عَن سَبِيلِ اللَّهِ وَيَبْغُونَهَا عِوَجًا وَهُم بِالْآخِرَةِ) 7:45; 11:19
+- Idyai kwese kwamunoda, asi musaswedera pedyo nemuti uyu, kuti musave vehutsinye. (حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَذِهِ الشَّجَرَةَ فَتَكُونَا مِنَ الظَّالِمِينَ) 2:35; 7:19
+- Iti: "Hai vanhu vangu! Itai zvamunogona, ini ndichaita, uye muchaziva." (قُلْ يَاقَوْمِ اعْمَلُوا عَلَى مَكَانَتِكُمْ إِنِّي عَامِلٌ فَسَوْفَ تَعْلَمُونَ) 6:135; 39:39
+- Zvirokwazvo, vakarasika ndivo vanozvirasisa pachavo nemhuri dzavo paZuva reKumuka, zvirokwazvo. (إِنَّ الْخَاسِرِينَ الَّذِينَ خَسِرُوا أَنفُسَهُمْ وَأَهْلِيهِمْ يَوْمَ الْقِيَامَةِ أَلَا) 39:15; 42:45
+- Uyo anotungamirwa, anotungamirwa kune yake mweya; uye uyo anotsauka, anotsauka kune yake mweya; uye. (يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا وَمَا) 10:108; 39:41
+- Uye avo vasingatendi vanoti: "Sei chishamiso chisina kuburitswa kwaari kubva kuna Ishe wake?" (وَيَقُولُ الَّذِينَ كَفَرُوا لَوْلَا أُنزِلَ عَلَيْهِ آيَةٌ مِّن رَّبِّهِ) 13:7; 13:27
+- Uyo akakuitirai husiku kuti muzorore mairi, uye masikati kuti muone, zvirokwazvo. (الَّذِي جَعَلَ لَكُمُ اللَّيْلَ لِتَسْكُنُوا فِيهِ وَالنَّهَارَ مُبْصِرًا إِنَّ) 10:67; 40:61
+- Zuva risati rasvika risina kutengeserana kana ushamwari. (مِّن قَبْلِ أَن يَأْتِيَ يَوْمٌ لَّا بَيْعٌ فِيهِ وَلَا) 2:254; 14:31
+- Kuti vafunge kuti shamwari yavo haina hupengo; iye mungoyevera. (يَتَفَكَّرُوا مَا بِصَاحِبِهِم مِّن جِنَّةٍ إِنْ هُوَ إِلَّا نَذِيرٌ) 7:184; 34:46
+- Vachigara mariri, chirango hachizorerukirwi kwavari, uye havazopihwi nguva. (خَالِدِينَ فِيهَا لَا يُخَفَّفُ عَنْهُمُ الْعَذَابُ وَلَا هُمْ يُنظَرُونَ) 2:162; 3:88
+- Usatambanudza maziso ako kune izvo zvatakapa vamwe vavo kuti vanakirwe. (لَا تَمُدَّنَّ عَيْنَيْكَ إِلَى مَا مَتَّعْنَا بِهِ أَزْوَاجًا مِّنْهُمْ) 15:88; 20:131
+- Uye musanyima vanhu zvinhu zvavo, uye musaparadza panyika. (وَلَا تَبْخَسُوا النَّاسَ أَشْيَاءَهُمْ وَلَا تَعْثَوْا فِي الْأَرْضِ مُفْسِدِينَ) 11:85; 26:183
+- Uye rugare ruvake paari pazuva raakaberekwa, uye pazuva rinosvika parufu, uye pazuva raachamutswa kuupenyu. (وَسَلَامٌ عَلَيْهِ يَوْمَ وُلِدَ وَيَوْمَ يَمُوتُ وَيَوْمَ يُبْعَثُ حَيًّا) 19:15; 19:33
+- Hai vanhu vangu! Itai zvamunogona, ini ndichaita, uye muchaziva kuti ndiani. (يَاقَوْمِ اعْمَلُوا عَلَى مَكَانَتِكُمْ إِنِّي عَامِلٌ فَسَوْفَ تَعْلَمُونَ مَن) 6:135; 11:93
+- Uye kwakanga kusiri kweMutumwa kuunza chiratidzo kunze kwemvumo yaAllah. (وَمَا كَانَ لِرَسُولٍ أَن يَأْتِيَ بِآيَةٍ إِلَّا بِإِذْنِ اللَّهِ) 13:38; 40:78
+- Zvino mweya wega wega uchapiwa mubayiro wakazara wezvawakaita, uye havazotambudzwi. (ثُمَّ تُوَفَّى كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ) 2:281; 3:161
+- Murume kana mukadzi, uye ari mutendi, avo ndivo vanopinda muParadhiso. (مِن ذَكَرٍ أَوْ أُنثَى وَهُوَ مُؤْمِنٌ فَأُولَئِكَ يَدْخُلُونَ الْجَنَّةَ) 4:124; 40:40
+- Haana mwana, uye haana mubatsiri muushe. (لَمْ يَتَّخِذْ وَلَدًا وَلَمْ يَكُن لَّهُ شَرِيكٌ فِي الْمُلْكِ) 17:111; 25:2
+- Uye uyo Allah anomutungamira, ndiye anotungamirwa; uye uyo waanotsausa. (وَمَن يَهْدِ اللَّهُ فَهُوَ الْمُهْتَدِ وَمَن يُضْلِلْ فَلَن تَجِدَ) 17:97; 18:17
+- Tarisa kuti vanokuitira sei mienzaniso, uye vakatsauka, uye havakwanisi kuwana nzira. (انظُرْ كَيْفَ ضَرَبُوا لَكَ الْأَمْثَالَ فَضَلُّوا فَلَا يَسْتَطِيعُونَ سَبِيلًا) 17:48; 25:9
+- Iti: "Ini ndinotya, kana ndisingateereri Ishe wangu, chirango cheZuva guru." (قُلْ إِنِّي أَخَافُ إِنْ عَصَيْتُ رَبِّي عَذَابَ يَوْمٍ عَظِيمٍ) 6:15; 39:13
+- Hunhu hwavo hwakabuda pachena kwavari, uye vakatanga kuzvifukidza nemashizha eParadhiso. (بَدَتْ لَهُمَا سَوْآتُهُمَا وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِن وَرَقِ الْجَنَّةِ) 7:22; 20:121
+- Uye danai avo vamunokwanisa, kunze kwaAllah, kana muri vechokwadi. (وَادْعُوا مَنِ اسْتَطَعْتُم مِّن دُونِ اللَّهِ إِن كُنتُمْ صَادِقِينَ) 10:38; 11:13
+- Zvose zviri panyika uye zvimwe zvakafanana nazvo, kuti vazvidzikinure. (مَّا فِي الْأَرْضِ جَمِيعًا وَمِثْلَهُ مَعَهُ لِيَفْتَدُوا بِهِ مِنْ) 5:36; 39:47
+- Torai izvo zvatai kupa nesimba, uye yeukai izvo zviri mazviri, kuti muve vanotya Allah. (خُذُوا مَا آتَيْنَاكُم بِقُوَّةٍ وَاذْكُرُوا مَا فِيهِ لَعَلَّكُمْ تَتَّقُونَ) 2:63; 7:171
+- Munouya here nehunhu hwakashata husina kuitwa nemumwe munhu panyika imi musati mauya? (أَتَأْتُونَ الْفَاحِشَةَ مَا سَبَقَكُم بِهَا مِنْ أَحَدٍ مِّنَ الْعَالَمِينَ) 7:80; 29:28
+- Uye zvese zviri kumatenga nezviri panyika ndezvaAllah, uye Allah. (وَلِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَكَانَ اللَّهُ) 4:126; 4:131
+- Zvakaipa zvavakaita zvakavasvika, uye izvo zvavakaseka zvakavakomba. (سَيِّئَاتُ مَا عَمِلُوا وَحَاقَ بِهِم مَّا كَانُوا بِهِ يَسْتَهْزِئُونَ) 16:34; 45:33
+- Mutumwa kubva pakati penyu, anokuverengerai ndima dzedu, anokuchenesai, uye anokudzidzisai Bhaibheri nehungwaru. (رَسُولًا مِّنكُمْ يَتْلُو عَلَيْكُمْ آيَاتِنَا وَيُزَكِّيكُمْ وَيُعَلِّمُكُمُ الْكِتَابَ وَالْحِكْمَةَ) 2:151; 62:2
+- Mairi pakabuda zvitubu gumi nezviviri; boka rega rega raiziva nzvimbo yaro yekunwa. (مِنْهُ اثْنَتَا عَشْرَةَ عَيْنًا قَدْ عَلِمَ كُلُّ أُنَاسٍ مَّشْرَبَهُمْ) 2:60; 7:160
+- Kunze kwekufungidzira, uye zvirokwazvo kufungidzira hakubatsiri kune chokwadi. (إِلَّا ظَنًّا إِنَّ الظَّنَّ لَا يُغْنِي مِنَ الْحَقِّ شَيْئًا) 10:36; 53:28
+- Kana ndapedza kumuumba uye ndichifemera mweya wangu maari, wirai pasi kuna iye. (فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ فِيهِ مِن رُّوحِي فَقَعُوا لَهُ سَاجِدِينَ) 15:29; 38:72
+- Ndeupi ane magumo akanaka munyika ino? Zvirokwazvo, vehutsinye havazobudiriri. (مَن تَكُونُ لَهُ عَاقِبَةُ الدَّارِ إِنَّهُ لَا يُفْلِحُ الظَّالِمُونَ) 6:135; 28:37
+- Uyo akasika matenga nenyika, anokwanisa kusika zvakafanana nazvo. (الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ قَادِرٌ عَلَى أَن يَخْلُقَ مِثْلَهُمْ) 17:99; 36:81
+- Vatendi vechirume nevechikadzi, minda inoyerera nzizi pasi payo, vachigara mariri nekusingaperi. (الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 9:72; 48:5
+- Uye kana ukavabvunza kuti ndiani akasika matenga nenyika, vachati: "Allah." Iti. (وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ لَيَقُولُنَّ اللَّهُ قُلِ) 31:25; 39:38
+- Uye zvirokwazvo, takapa vanhu muKurani iyi mienzaniso yemarudzi ese. (وَلَقَدْ ضَرَبْنَا لِلنَّاسِ فِي هَذَا الْقُرْآنِ مِن كُلِّ مَثَلٍ) 30:58; 39:27
+- Vatumwa vedu pavakasvika kuna Loti, akasuruvara nekuda kwavo uye akanzwa kushushikana, akati. (جَاءَتْ رُسُلُنَا لُوطًا سِيءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًا وَقَالَ) 11:77; 29:33
+- Uye patakati kungirozi: "Kotamirai kuna Adamu," vakakotama, kunze kwaIbilisi, akaramba. (وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا إِبْلِيسَ أَبَى) 2:34; 20:116
+- Uye nyika takaitambanudza, ndokuisa makomo mairi, uye takamera mairi zvese zvakanaka. (وَالْأَرْضَ مَدَدْنَاهَا وَأَلْقَيْنَا فِيهَا رَوَاسِيَ وَأَنبَتْنَا فِيهَا مِن كُلِّ) 15:19; 50:7
+- Vakadana Allah, vachinyatsovimbika kwaari muchitendero, asi paakavanunura kumahombekombe. (دَعَوُا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ فَلَمَّا نَجَّاهُمْ إِلَى الْبَرِّ) 29:65; 31:32
+- Vane chinwiwa chemvura inopisa uye chirango chinorwadza, nekuda kwekusatenda kwavo. (لَهُمْ شَرَابٌ مِّنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْفُرُونَ) 6:70; 10:4
+- Ko tinodana kunze kwaAllah izvo zvisingatibatsiri uye zvisingatikuvadzi? (أَنَدْعُو مِن دُونِ اللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا) 6:71; 10:106
+- Zvirokwazvo, Allah anoziva zvirikumatenga nezviri panyika. (أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 5:97; 58:7
 """;

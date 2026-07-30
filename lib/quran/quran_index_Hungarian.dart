@@ -3019,4 +3019,149 @@ Matching Phrases 11 words
 - (Ami) más, mint Allah nevében lett levágva. És aki kényszerül, nem lázadóként és nem túllépve, akkor... (أُهِلَّ لِغَيْرِ اللَّهِ بِهِ فَمَنِ اضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ) 6:145; 16:115
 - És amikor azt mondják nekik: "Kövessétek azt, amit Allah kinyilatkoztatott", azt mondják: "Nem, mi azt követjük, amin..." (وَإِذَا قِيلَ لَهُمُ اتَّبِعُوا مَا أَنزَلَ اللَّهُ قَالُوا بَلْ نَتَّبِعُ مَا) 2:170; 31:21
 - Azt mondta: "Ó, én népem, imádjátok Allahot; nincs más istenetek, csak Õ. Nem féltek hát (Allah-tól)?" (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 7:65; 23:23
+Matching Phrases 10 words
+
+- Járnak a földön, és nézik, milyen volt azoknak a vége, akik előttük voltak. (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ) 12:109; 30:9; 30:42; 35:44; 40:82; 47:10
+- És ki igazságtalanabb annál, aki hazugságot költ Allahról, vagy tagad? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا أَوْ كَذَّبَ) 6:21; 7:37; 10:17; 29:68
+- Bizony, a te Urad tudja a legjobban, ki téved el az Ő útjától, és Ő tudja a legjobban. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ مَن يَضِلُّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ) 6:117; 16:125; 53:30; 68:7
+- Nem jártak-e a földön, és nem látták-e, milyen volt azoknak a vége, akik előttük voltak? (أَوَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن) 30:9; 35:44; 40:82; 47:10
+- Nekik az ő jutalmuk az ő Uruknál van, és nincs félelem rajtuk, és nem fognak szomorkodni. (فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ) 2:62; 2:262; 2:274; 2:277
+- És azok, akik hittek és jó cselekedeteket tettek, kertekbe vitettek, amelyek alatt folyók folynak. (وَأُدْخِلَ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 14:23; 22:14; 22:23; 47:12
+- Azt mondta: "Ó, népem! Imádjátok Allahot, nincs más istenség számotokra, csak Ő, hát nem féltek?" (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا) 7:65; 11:84; 23:23
+- Sem az ő vagyonuk, sem a gyermekeik nem használnak nekik semmit Allah előtt, és ők azok. (لَن تُغْنِيَ عَنْهُمْ أَمْوَالُهُمْ وَلَا أَوْلَادُهُم مِّنَ اللَّهِ شَيْئًا وَأُولَئِكَ) 3:10; 3:116; 58:17
+- Kertek, amelyek alatt folyók folynak, amelyekben örökké megmaradnak, és ez a nagy siker. (جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَذَلِكَ الْفَوْزُ الْعَظِيمُ) 4:13; 9:89
+- Nem jutott-e el hozzájuk a híre azoknak, akik előttük voltak, Nóé, Ád és Thamúd népének? (أَلَمْ يَأْتِهِمْ نَبَأُ الَّذِينَ مِن قَبْلِهِمْ قَوْمِ نُوحٍ وَعَادٍ وَثَمُودَ) 9:70; 14:9
+- Kik az én segítőim Allah útján? A tanítványok mondták: "Mi vagyunk Allah segítői, hittünk." (مَنْ أَنصَارِي إِلَى اللَّهِ قَالَ الْحَوَارِيُّونَ نَحْنُ أَنصَارُ اللَّهِ آمَنَّا) 3:52; 61:14
+- A te Urad tudja a legjobban, ki tévedt el az Ő útjától, és Ő tudja a legjobban, kik az igaz-úton haladók. (رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ) 16:125; 68:7
+- Ez azért van, mert Allah az Igazság, és amit Őrajta kívül hívnak, az hamisság. (ذَلِكَ بِأَنَّ اللَّهَ هُوَ الْحَقُّ وَأَنَّ مَا يَدْعُونَ مِن دُونِهِ) 22:62; 31:30
+- És aki engedelmeskedik Allah-nak és az Ő Küldöttének, Allah bevezeti őt kertekbe, amelyek alatt folyók folynak. (وَمَن يُطِعِ اللَّهَ وَرَسُولَهُ يُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 4:13; 48:17
+- Csak a dögöt, a vért, a sertéshúst és azt tiltotta meg nektek, ami másnak lett feláldozva. (إِنَّمَا حَرَّمَ عَلَيْكُمُ الْمَيْتَةَ وَالدَّمَ وَلَحْمَ الْخِنزِيرِ وَمَا أُهِلَّ) 2:173; 16:115
+- Hogy senkit ne imádjatok Allahon kívül; bizony, én félek számotokra a nagy Nap büntetésétől. (أَن لَّا تَعْبُدُوا إِلَّا اللَّهَ إِنِّي أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ) 11:26; 46:21
+- Ez a rejtett dolgok híreiből való, amelyeket Neked sugallunk; nem voltál velük, amikor döntöttek. (ذَلِكَ مِنْ أَنبَاءِ الْغَيْبِ نُوحِيهِ إِلَيْكَ وَمَا كُنتَ لَدَيْهِمْ إِذْ) 3:44; 12:102
+- Csodálkoztok, hogy intés érkezett hozzátok a ti Uratoktól egy ember által, aki közületek való, hogy figyelmeztessen titeket? (أَوَعَجِبْتُمْ أَن جَاءَكُمْ ذِكْرٌ مِّن رَّبِّكُمْ عَلَى رَجُلٍ مِّنكُمْ لِيُنذِرَكُمْ) 7:63; 7:69
+- Mondd: "Bizony, megtiltatott nekem, hogy azokat imádjam, akiket ti Allah helyett hívtok." (قُلْ إِنِّي نُهِيتُ أَنْ أَعْبُدَ الَّذِينَ تَدْعُونَ مِن دُونِ اللَّهِ) 6:56; 40:66
+- Kivéve a feleségeiket vagy azokat, akiket jobb kezük birtokol, mert ők nem rovandók meg. (إِلَّا عَلَى أَزْوَاجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَانُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ) 23:6; 70:30
+- Azért, mert Allah bevezeti az éjszakát a nappalba, és bevezeti a nappalt az éjszakába. (بِأَنَّ اللَّهَ يُولِجُ اللَّيْلَ فِي النَّهَارِ وَيُولِجُ النَّهَارَ فِي اللَّيْلِ) 22:61; 31:29
+- Tűz, és azt mondta családjának: "Maradjatok, tüzet láttam, talán hozok nektek onnan valamit." (نَارًا فَقَالَ لِأَهْلِهِ امْكُثُوا إِنِّي آنَسْتُ نَارًا لَّعَلِّي آتِيكُم مِّنْهَا) 20:10; 28:29
+- Azt mondta: "Én jobb vagyok nála; Tűzből teremtettél engem, őt pedig agyagból teremtetted." (قَالَ أَنَا خَيْرٌ مِّنْهُ خَلَقْتَنِي مِن نَّارٍ وَخَلَقْتَهُ مِن طِينٍ) 7:12; 38:76
+- És amikor azt mondják nekik: "Gyertek ahhoz, amit Allah küldött le, és a Küldötthöz." (وَإِذَا قِيلَ لَهُمْ تَعَالَوْا إِلَى مَا أَنزَلَ اللَّهُ وَإِلَى الرَّسُولِ) 4:61; 5:104
+- És ne szomorkodj miattuk, és ne légy szorongásban az ő áskálódásaik miatt. (وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُ فِي ضَيْقٍ مِّمَّا يَمْكُرُونَ) 16:127; 27:70
+- És ha Allah kárral érint téged, akkor senki sem távolíthatja el azt, csak Ő, és ha. (وَإِن يَمْسَسْكَ اللَّهُ بِضُرٍّ فَلَا كَاشِفَ لَهُ إِلَّا هُوَ وَإِن) 6:17; 10:107
+- Előttük nemzedékek, amelyek lakhelyeiken jártak; bizony, ebben jelek vannak. (قَبْلَهُم مِّنَ الْقُرُونِ يَمْشُونَ فِي مَسَاكِنِهِمْ إِنَّ فِي ذَلِكَ لَآيَاتٍ) 20:128; 32:26
+- És Mi leplet vetettünk szíveikre, hogy ne értsék meg, és füleikbe nehézséget, és ha. (وَجَعَلْنَا عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا وَإِن) 6:25; 18:57
+- Küldötteik eljöttek hozzájuk a világos bizonyítékokkal, de Allah nem volt olyan, hogy igazságtalanul bánjon velük, hanem ők maguk voltak igazságtalanok önmagukkal szemben. (رُسُلُهُم بِالْبَيِّنَاتِ فَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ وَلَكِن كَانُوا أَنفُسَهُمْ يَظْلِمُونَ) 9:70; 30:9
+- És a földön, és nincs nektek Allahon kívül sem pártfogótok, sem segítőtök. (وَالْأَرْضِ وَمَا لَكُم مِّن دُونِ اللَّهِ مِن وَلِيٍّ وَلَا نَصِيرٍ) 2:107; 42:31
+- Azután visszavittettek a Láthatatlan és a Látható Tudójához, és Ő tudtára adja nektek, amit tettetek. (ثُمَّ تُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ) 9:94; 62:8
+- Az éjszakát, hogy nyugodjatok benne, és a nappalt, hogy lássatok; bizony, ebben jelek vannak a gondolkodó nép számára. (اللَّيْلَ لِتَسْكُنُوا فِيهِ وَالنَّهَارَ مُبْصِرًا إِنَّ فِي ذَلِكَ لَآيَاتٍ لِّقَوْمٍ) 10:67; 27:86
+- És ami neked kinyilatkoztatott a te Uradtól, az sokaknál csak növeli a lázadást és a hitetlenséget. (وَلَيَزِيدَنَّ كَثِيرًا مِّنْهُم مَّا أُنزِلَ إِلَيْكَ مِن رَّبِّكَ طُغْيَانًا وَكُفْرًا) 5:64; 5:68
+- Azt mondta: "Ó, népem! Mit gondoltok, ha én világos bizonyítékkal rendelkezem az én Uramtól, és Ő adott nekem." (قَالَ يَاقَوْمِ أَرَأَيْتُمْ إِن كُنتُ عَلَى بَيِّنَةٍ مِّن رَّبِّي وَآتَانِي) 11:28; 11:63
+- És azt mondják: "Miért nem küldetett le rá egy jel az ő Urától?" Mondd: "Bizony." (وَيَقُولُونَ لَوْلَا أُنزِلَ عَلَيْهِ آيَةٌ مِّن رَّبِّهِ فَقُلْ إِنَّمَا) 10:20; 29:50
+- Mielőtt eljön a Nap, amelytől nincs visszatérés Allah-tól. (مِن قَبْلِ أَن يَأْتِيَ يَوْمٌ لَّا مَرَدَّ لَهُ مِنَ اللَّهِ) 30:43; 42:47
+- Ez Allah kegyelme, amit annak ad, akinek akar, és Allah a nagy kegyelem Ura. (ذَلِكَ فَضْلُ اللَّهِ يُؤْتِيهِ مَن يَشَاءُ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ) 57:21; 62:4
+- És bizony, a jószágokban van számotokra tanulság; Mi abból itatunk titeket, ami a belükben van. (وَإِنَّ لَكُمْ فِي الْأَنْعَامِ لَعِبْرَةً نُّسْقِيكُم مِّمَّا فِي بُطُونِهِ) 16:66; 23:21
+- Hogy ez az igazság az ő Uruktól, és Allah nem feledkezik meg arról, amit tesznek. (أَنَّهُ الْحَقُّ مِن رَّبِّهِمْ وَمَا اللَّهُ بِغَافِلٍ عَمَّا يَعْمَلُونَ) 2:144; 2:149
+- Előttük és mögöttük, hogy senkit ne imádjatok Allahon kívül. (مِن بَيْنِ أَيْدِيهِمْ وَمِنْ خَلْفِهِمْ أَلَّا تَعْبُدُوا إِلَّا اللَّهَ) 41:14; 46:21
+- Bizony, ti kéjvággyal mentek a férfiakhoz az asszonyok helyett; sőt, ti vagytok a határokat átlépő nép. (إِنَّكُمْ لَتَأْتُونَ الرِّجَالَ شَهْوَةً مِّن دُونِ النِّسَاءِ بَلْ أَنتُمْ قَوْمٌ) 7:81; 27:55
+- Örökké bennük maradnak, amíg az egek és a föld fennállnak, kivéve, ha a te Urad másként akarja. (خَالِدِينَ فِيهَا مَا دَامَتِ السَّمَاوَاتُ وَالْأَرْضُ إِلَّا مَا شَاءَ رَبُّكَ) 11:107; 11:108
+- Akik az egekben és akik a földön vannak, kivéve, akiket Allah akar. (مَن فِي السَّمَاوَاتِ وَمَن فِي الْأَرْضِ إِلَّا مَن شَاءَ اللَّهُ) 27:87; 39:68
+- Ott arany karkötőkkel és gyöngyökkel lesznek ékesítve, és ruházatuk ott selyem lesz. (يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِن ذَهَبٍ وَلُؤْلُؤًا وَلِبَاسُهُمْ فِيهَا حَرِيرٌ) 22:23; 35:33
+- És vizet eresztett le az égből, és azzal gyümölcsöket hozott ki, mint táplálékot számotokra. (وَأنزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجَ بِهِ مِنَ الثَّمَرَاتِ رِزْقًا لَّكُمْ) 2:22; 14:32
+- És amikor Mi megkötöttük a szövetségeteket, és fölétek emeltük a Túr-hegyet: "Vegyétek erővel, amit adtunk nektek." (وَإِذْ أَخَذْنَا مِيثَاقَكُمْ وَرَفَعْنَا فَوْقَكُمُ الطُّورَ خُذُوا مَا آتَيْنَاكُم بِقُوَّةٍ) 2:63; 2:93
+- És elfordult tőlük, és azt mondta: "Ó, népem! Bizony, közvetítettem nektek az én Uram üzenetét, és jó tanácsot adtam." (فَتَوَلَّى عَنْهُمْ وَقَالَ يَاقَوْمِ لَقَدْ أَبْلَغْتُكُمْ رِسَالَةَ رَبِّي وَنَصَحْتُ لَكُمْ) 7:79; 7:93
+- Alattuk folyók folynak, ott arany karkötőkkel lesznek ékesítve. (تَجْرِي مِن تَحْتِهِمُ الْأَنْهَارُ يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِن ذَهَبٍ) 18:31; 22:23
+- Még ha mindenük meg is lenne, ami a földön van, és még annak a kétszerese, hogy megváltsák magukat. (لَوْ أَنَّ لَهُم مَّا فِي الْأَرْضِ جَمِيعًا وَمِثْلَهُ مَعَهُ لِيَفْتَدُوا) 5:36; 13:18
+- Egyetlen élőlény sem, de Ő elhalasztja őket egy meghatározott időig, és amikor eljön az ő idejük. (مِن دَابَّةٍ وَلَكِن يُؤَخِّرُهُمْ إِلَى أَجَلٍ مُّسَمًّى فَإِذَا جَاءَ أَجَلُهُمْ) 16:61; 35:45
+- Mi teremtettünk titeket porból, azután egy cseppből, azután egy vérrögből, azután. (خَلَقْنَاكُم مِّن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ مِنْ عَلَقَةٍ ثُمَّ) 22:5; 40:67
+- És Allah ítél közöttük a Feltámadás Napján afelől, amiben eltértek. (فَاللَّهُ يَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 2:113; 22:69
+- Tudás jött hozzád, nincs neked Allah-tól sem pártfogód, sem. (جَاءَكَ مِنَ الْعِلْمِ مَا لَكَ مِنَ اللَّهِ مِن وَلِيٍّ وَلَا) 2:120; 13:37
+- És amikor Mi kegyet gyakorlunk az emberen, elfordul és távolodik, és amikor a rossz érinti. (وَإِذَا أَنْعَمْنَا عَلَى الْإِنسَانِ أَعْرَضَ وَنَأَى بِجَانِبِهِ وَإِذَا مَسَّهُ الشَّرُّ) 17:83; 41:51
+- És nincs semmi, ami kisebb vagy nagyobb annál, ami ne lenne egy világos Könyvben. (وَلَا أَصْغَرَ مِن ذَلِكَ وَلَا أَكْبَرَ إِلَّا فِي كِتَابٍ مُّبِينٍ) 10:61; 34:3
+
+Matching Phrases 9 words
+
+- És azt mondta: "Ó, népem! Imádjátok Allahot, nincs más istenetek, csak Ő." (فَقَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ) 7:59; 7:65; 7:73; 7:85; 11:50; 11:61; 11:84; 23:23
+- Nem jártak-e a földön, és nem látták-e, milyen volt azoknak a vége, akik előttük voltak? (أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ) 12:109; 30:9; 35:44; 40:21; 40:82; 47:10
+- Az ő jutalmuk az ő Uruknál van, és nincs félelem rajtuk, és nem fognak szomorkodni. (أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ) 2:62; 2:112; 2:262; 2:274; 2:277
+- Járnak a földön, és nézik, milyen volt azoknak a vége, akik előttük voltak. (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن) 30:9; 30:42; 35:44; 40:82; 47:10
+- A földön, hogy lássák, milyen volt azoknak a vége, akik előttük voltak. (فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ) 30:9; 30:42; 35:44; 40:82; 47:10
+- És ki igazságtalanabb annál, aki hazugságot költ Allahról vagy tagad? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا أَوْ) 6:21; 6:93; 7:37; 10:17; 29:68
+- És amikor Allah elhatároz egy dolgot, csak annyit mond neki: "Légy!" és az lesz. (وَإِذَا قَضَى أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُن فَيَكُونُ) 2:117; 3:47; 19:35; 40:68
+- És nincs nektek Allahon kívül sem pártfogótok, sem segítőtök. (وَمَا لَكُم مِّن دُونِ اللَّهِ مِن وَلِيٍّ وَلَا نَصِيرٍ) 2:107; 9:116; 29:22; 42:31
+- Bizony, megbocsátom bűneiket, és bevezetem őket kertekbe, amelyek alatt folyók folynak. (لَأُكَفِّرَنَّ عَنْهُمْ سَيِّئَاتِهِمْ وَلَأُدْخِلَنَّهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 3:195; 5:12; 64:9; 66:8
+- Mi bevezetjük őket kertekbe, amelyek alatt folyók folynak, örökké ott maradnak. (سَنُدْخِلُهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا) 4:57; 4:122; 64:9; 65:11
+- A te Urad tudja a legjobban, ki tévedt el az Ő útjától, és Ő tudja a legjobban. (رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ) 16:125; 53:30; 68:7
+- Visszavittettek a Láthatatlan és a Látható Tudójához, és Ő tudtára adja nektek, amit tettetek. (تُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ) 9:94; 9:105; 62:8
+- Fiaitokat megölték, asszonyaitokat életben hagyták; ebben nagy próbatétel volt számotokra a ti Uratoktól. (أَبْنَاءَكُمْ وَيَسْتَحْيُونَ نِسَاءَكُمْ وَفِي ذَلِكُم بَلَاءٌ مِّن رَّبِّكُمْ عَظِيمٌ) 2:49; 7:141; 14:6
+- Bizony, a te Urad tudja a legjobban, ki téved el az Ő útjától, és Ő. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ) 16:125; 53:30; 68:7
+- Allah, akité minden, ami az egekben és a földön van. (اللَّهِ الَّذِي لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 14:2; 34:1; 42:53
+- A népek között, amelyek előttetek voltak, a dzsinnek és az emberek között. (فِي أُمَمٍ قَدْ خَلَتْ مِن قَبْلِكُم مِّنَ الْجِنِّ وَالْإِنسِ) 7:38; 41:25; 46:18
+- Imádjátok Allahot, nincs más istenség számotokra, csak Ő, hát nem féltek? (اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 7:65; 23:23; 23:32
+- És Mi leplet vetettünk szíveikre, hogy ne értsék meg, és füleikbe nehézséget. (وَجَعَلْنَا عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا) 6:25; 17:46; 18:57
+- Ő ítél közöttük a Feltámadás Napján afelől, amiben eltértek. (يَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 2:113; 16:124; 22:69
+- Azt mondta: "Ó, népem! Mit gondoltok, ha én világos bizonyítékkal rendelkezem az én Uramtól?" (قَالَ يَاقَوْمِ أَرَأَيْتُمْ إِن كُنتُ عَلَى بَيِّنَةٍ مِّن رَّبِّي) 11:28; 11:63; 11:88
+- Ez azért van, amit a kezeitek elkövettek, és Allah nem igazságtalan a szolgákkal szemben. (ذَلِكَ بِمَا قَدَّمَتْ أَيْدِيكُمْ وَأَنَّ اللَّهَ لَيْسَ بِظَلَّامٍ لِّلْعَبِيدِ) 3:182; 8:51; 22:10
+- Nekik ezen a világon szégyen jár, és a túlvilágon nagy büntetés. (لَهُمْ فِي الدُّنْيَا خِزْيٌ وَلَهُمْ فِي الْآخِرَةِ عَذَابٌ عَظِيمٌ) 2:114; 5:41
+- Ami az egekben és a földön van, és Allah elég, mint Pártfogó. (مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَكَفَى بِاللَّهِ وَكِيلًا) 4:132; 4:171
+- Kivéve azokat, akik hittek és jó cselekedeteket tettek; nekik megszakíthatatlan jutalmuk van. (إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ) 84:25; 95:6
+- Hogy társat adj Nekem abban, amiről nincs tudásod; ne engedelmeskedj nekik. (لِتُشْرِكَ بِي مَا لَيْسَ لَكَ بِهِ عِلْمٌ فَلَا تُطِعْهُمَا) 29:8; 31:15
+- Bizony, ez egy intés; és aki akarja, utat talál az ő Urához. (إِنَّ هَذِهِ تَذْكِرَةٌ فَمَن شَاءَ اتَّخَذَ إِلَى رَبِّهِ سَبِيلًا) 73:19; 76:29
+- És aki hálás, az önmagának hálás; és aki hálátlan. (وَمَن شَكَرَ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِ وَمَن كَفَرَ فَإِنَّ) 27:40; 31:12
+- Akik elvégzik az imát, megadják a zakátot, és a túlvilágban bizonyosan hisznek. (الَّذِينَ يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُم بِالْآخِرَةِ هُمْ يُوقِنُونَ) 27:3; 31:4
+- Ábrahámnak, Ismáelnak, Izsáknak, Jákobnak és a törzseknek, és amit Mózesnek és Jézusnak adtak. (إِبْرَاهِيمَ وَإِسْمَاعِيلَ وَإِسْحَاقَ وَيَعْقُوبَ وَالْأَسْبَاطِ وَمَا أُوتِيَ مُوسَى وَعِيسَى) 2:136; 3:84
+- Csoportokként, amíg oda nem érnek, és kapui kinyílnak, és őrzői azt mondják nekik. (زُمَرًا حَتَّى إِذَا جَاءُوهَا فُتِحَتْ أَبْوَابُهَا وَقَالَ لَهُمْ خَزَنَتُهَا) 39:71; 39:73
+- Allah nem büntet titeket az esküiteketek hiábavaló szavaiért, de büntet titeket azért. (لَّا يُؤَاخِذُكُمُ اللَّهُ بِاللَّغْوِ فِي أَيْمَانِكُمْ وَلَكِن يُؤَاخِذُكُم بِمَا) 2:225; 5:89
+- Kegyelem, örülnek neki; és ha rossz éri őket azért, amit kezeik elkövettek. (رَحْمَةً فَرِحُوا بِهَا وَإِن تُصِبْهُمْ سَيِّئَةٌ بِمَا قَدَّمَتْ أَيْدِيهِمْ) 30:36; 42:48
+- Kertek, amelyek alatt folyók folynak, amelyekben örökké megmaradnak, és milyen szép a cselekvők jutalma! (تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَنِعْمَ أَجْرُ الْعَامِلِينَ) 3:136; 29:58
+- Allah tudja, mi van az egekben és a földön, és Allah. (اللَّهُ وَيَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَاللَّهُ) 3:29; 49:16
+- Engedelmeskedjetek Allah-nak és engedelmeskedjetek a Küldöttnek; de ha elfordultok, akkor az övé. (أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ فَإِن تَوَلَّوْا فَإِنَّمَا عَلَيْهِ) 24:54; 64:12
+- Nekik az ő jutalmuk az ő Uruknál van, és nincs félelem rajtuk, és ők. (فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ) 2:274; 2:277
+- És azt mondták: "Amikor csontokká és porrá válunk, akkor valóban új teremtésként támadunk fel?" (وَقَالُوا أَإِذَا كُنَّا عِظَامًا وَرُفَاتًا أَإِنَّا لَمَبْعُوثُونَ خَلْقًا جَدِيدًا) 17:49; 17:98
+- És nem találnak maguknak Allahon kívül sem pártfogót, sem segítőt. (وَلَا يَجِدُونَ لَهُم مِّن دُونِ اللَّهِ وَلِيًّا وَلَا نَصِيرًا) 4:173; 33:17
+- "Mennyi ideig maradtál?" Azt mondta: "Egy napig vagy egy nap egy részéig maradtam." Azt mondta. (كَمْ لَبِثْتَ قَالَ لَبِثْتُ يَوْمًا أَوْ بَعْضَ يَوْمٍ قَالَ) 2:259; 18:19
+- Örökké a Feltámadás Napjáig, ki az az isten Allahon kívül, aki elhozná nektek? (سَرْمَدًا إِلَى يَوْمِ الْقِيَامَةِ مَنْ إِلَهٌ غَيْرُ اللَّهِ يَأْتِيكُم) 28:71; 28:72
+- Aki jó cselekedetet tesz, férfi vagy nő, és hívő. (مَنْ عَمِلَ صَالِحًا مِّن ذَكَرٍ أَوْ أُنثَى وَهُوَ مُؤْمِنٌ) 16:97; 40:40
+- Akik eltérítenek Allah útjától, és görbének akarják azt, és ők a túlvilágban. (الَّذِينَ يَصُدُّونَ عَن سَبِيلِ اللَّهِ وَيَبْغُونَهَا عِوَجًا وَهُم بِالْآخِرَةِ) 7:45; 11:19
+- Egyetek, ahol akartok, de ne közelítsétek meg ezt a fát, különben igazságtalanok lesztek. (حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَذِهِ الشَّجَرَةَ فَتَكُونَا مِنَ الظَّالِمِينَ) 2:35; 7:19
+- Mondd: "Ó, népem! Cselekedjetek a helyetek szerint, én is cselekszem, és megtudjátok." (قُلْ يَاقَوْمِ اعْمَلُوا عَلَى مَكَانَتِكُمْ إِنِّي عَامِلٌ فَسَوْفَ تَعْلَمُونَ) 6:135; 39:39
+- Bizony, a vesztesek azok, akik elvesztették önmagukat és családjukat a Feltámadás Napján, bizony. (إِنَّ الْخَاسِرِينَ الَّذِينَ خَسِرُوا أَنفُسَهُمْ وَأَهْلِيهِمْ يَوْمَ الْقِيَامَةِ أَلَا) 39:15; 42:45
+- Aki az igaz úton jár, az önmagának jár; és aki tévelyeg, az önmagának tévelyeg; és. (يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا وَمَا) 10:108; 39:41
+- És akik hitetlenek, azt mondják: "Miért nem küldetett le rá egy jel az ő Urától?" (وَيَقُولُ الَّذِينَ كَفَرُوا لَوْلَا أُنزِلَ عَلَيْهِ آيَةٌ مِّن رَّبِّهِ) 13:7; 13:27
+- Aki az éjszakát adta nektek, hogy abban nyugodjatok, és a nappalt, hogy lássatok, bizony. (الَّذِي جَعَلَ لَكُمُ اللَّيْلَ لِتَسْكُنُوا فِيهِ وَالنَّهَارَ مُبْصِرًا إِنَّ) 10:67; 40:61
+- Mielőtt eljön a Nap, amelyen nem lesz sem kereskedelem, sem barátság. (مِّن قَبْلِ أَن يَأْتِيَ يَوْمٌ لَّا بَيْعٌ فِيهِ وَلَا) 2:254; 14:31
+- Hogy elgondolkodjanak, hogy társuk nem bolond; ő csak egy nyilvánvaló figyelmeztető. (يَتَفَكَّرُوا مَا بِصَاحِبِهِم مِّن جِنَّةٍ إِنْ هُوَ إِلَّا نَذِيرٌ) 7:184; 34:46
+- Örökké ott maradnak, a büntetés nem könnyíttetik meg nekik, és nem kapnak haladékot. (خَالِدِينَ فِيهَا لَا يُخَفَّفُ عَنْهُمُ الْعَذَابُ وَلَا هُمْ يُنظَرُونَ) 2:162; 3:88
+- Ne nyújtsd ki a szemeidet arra, amit Mi adtunk élvezetül néhányuknak. (لَا تَمُدَّنَّ عَيْنَيْكَ إِلَى مَا مَتَّعْنَا بِهِ أَزْوَاجًا مِّنْهُمْ) 15:88; 20:131
+- És ne rövidítsétek meg az embereket javaikban, és ne kövessetek el romlást a földön. (وَلَا تَبْخَسُوا النَّاسَ أَشْيَاءَهُمْ وَلَا تَعْثَوْا فِي الْأَرْضِ مُفْسِدِينَ) 11:85; 26:183
+- És békesség legyen rajta a napon, amikor született, és a napon, amikor meghal, és a napon, amikor feltámad életre. (وَسَلَامٌ عَلَيْهِ يَوْمَ وُلِدَ وَيَوْمَ يَمُوتُ وَيَوْمَ يُبْعَثُ حَيًّا) 19:15; 19:33
+- Ó, népem! Cselekedjetek a helyetek szerint, én is cselekszem, és megtudjátok, ki. (يَاقَوْمِ اعْمَلُوا عَلَى مَكَانَتِكُمْ إِنِّي عَامِلٌ فَسَوْفَ تَعْلَمُونَ مَن) 6:135; 11:93
+- És nem volt egyetlen Küldöttnek sem, hogy jelet hozzon, csak Allah engedélyével. (وَمَا كَانَ لِرَسُولٍ أَن يَأْتِيَ بِآيَةٍ إِلَّا بِإِذْنِ اللَّهِ) 13:38; 40:78
+- Ezután minden lélek teljesen megkapja, amit szerzett, és nem esnek igazságtalanság. (ثُمَّ تُوَفَّى كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ) 2:281; 3:161
+- Férfi vagy nő, és hívő, ezek lépnek be a Paradicsomba. (مِن ذَكَرٍ أَوْ أُنثَى وَهُوَ مُؤْمِنٌ فَأُولَئِكَ يَدْخُلُونَ الْجَنَّةَ) 4:124; 40:40
+- Nem vett magának gyermeket, és nincs társa az uralomban. (لَمْ يَتَّخِذْ وَلَدًا وَلَمْ يَكُن لَّهُ شَرِيكٌ فِي الْمُلْكِ) 17:111; 25:2
+- És akit Allah vezérel, az az igaz úton van; és akit tévelygésben hagy. (وَمَن يَهْدِ اللَّهُ فَهُوَ الْمُهْتَدِ وَمَن يُضْلِلْ فَلَن تَجِدَ) 17:97; 18:17
+- Nézd, hogyan hoznak példákat neked, és tévelyegtek, és nem találják az utat. (انظُرْ كَيْفَ ضَرَبُوا لَكَ الْأَمْثَالَ فَضَلُّوا فَلَا يَسْتَطِيعُونَ سَبِيلًا) 17:48; 25:9
+- Mondd: "Félek, ha engedetlen vagyok az én Urammal szemben, a nagy Nap büntetésétől." (قُلْ إِنِّي أَخَافُ إِنْ عَصَيْتُ رَبِّي عَذَابَ يَوْمٍ عَظِيمٍ) 6:15; 39:13
+- Feltárult előttük a szemérmük, és elkezdték leplezni magukat a Paradicsom leveleivel. (بَدَتْ لَهُمَا سَوْآتُهُمَا وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِن وَرَقِ الْجَنَّةِ) 7:22; 20:121
+- És hívjátok azokat, akiket tudtok, Allahon kívül, ha igazak vagytok. (وَادْعُوا مَنِ اسْتَطَعْتُم مِّن دُونِ اللَّهِ إِن كُنتُمْ صَادِقِينَ) 10:38; 11:13
+- Minden, ami a földön van, és még annak a kétszerese, hogy megváltsák magukat. (مَّا فِي الْأَرْضِ جَمِيعًا وَمِثْلَهُ مَعَهُ لِيَفْتَدُوا بِهِ مِنْ) 5:36; 39:47
+- Vegyétek erővel, amit adtunk nektek, és emlékezzetek arra, ami benne van, talán féltek. (خُذُوا مَا آتَيْنَاكُم بِقُوَّةٍ وَاذْكُرُوا مَا فِيهِ لَعَلَّكُمْ تَتَّقُونَ) 2:63; 7:171
+- Vajon azt a förtelmes dolgot követitek el, amelyben egyetlen a világok közül sem előzte meg titeket? (أَتَأْتُونَ الْفَاحِشَةَ مَا سَبَقَكُم بِهَا مِنْ أَحَدٍ مِّنَ الْعَالَمِينَ) 7:80; 29:28
+- És Allahé minden, ami az egekben és a földön van, és Allah volt. (وَلِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَكَانَ اللَّهُ) 4:126; 4:131
+- Rossz cselekedeteik elérték őket, és körülzárta őket az, amit kigúnyoltak. (سَيِّئَاتُ مَا عَمِلُوا وَحَاقَ بِهِم مَّا كَانُوا بِهِ يَسْتَهْزِئُونَ) 16:34; 45:33
+- Egy Küldöttet közületek, aki elolvassa nektek a mi jeleinket, megtisztít titeket, és megtanít a Könyvre és a Bölcsességre. (رَسُولًا مِّنكُمْ يَتْلُو عَلَيْكُمْ آيَاتِنَا وَيُزَكِّيكُمْ وَيُعَلِّمُكُمُ الْكِتَابَ وَالْحِكْمَةَ) 2:151; 62:2
+- Abból tizenkét forrás fakadt; minden nép ismerte az itatóját. (مِنْهُ اثْنَتَا عَشْرَةَ عَيْنًا قَدْ عَلِمَ كُلُّ أُنَاسٍ مَّشْرَبَهُمْ) 2:60; 7:160
+- Csak vélekedés, és a vélekedés nem pótolja az igazságot. (إِلَّا ظَنًّا إِنَّ الظَّنَّ لَا يُغْنِي مِنَ الْحَقِّ شَيْئًا) 10:36; 53:28
+- Amikor tökéletesre formáltam és belefújtam a lelkemből, boruljatok le előtte. (فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ فِيهِ مِن رُّوحِي فَقَعُوا لَهُ سَاجِدِينَ) 15:29; 38:72
+- Kié a jó vég ebben a lakóhelyben? Bizony, az igazságtalanok nem fognak boldogulni. (مَن تَكُونُ لَهُ عَاقِبَةُ الدَّارِ إِنَّهُ لَا يُفْلِحُ الظَّالِمُونَ) 6:135; 28:37
+- Aki megteremtette az egeket és a földet, képes arra, hogy azokhoz hasonlókat teremtsen. (الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ قَادِرٌ عَلَى أَن يَخْلُقَ مِثْلَهُمْ) 17:99; 36:81
+- A hívő férfiaknak és a hívő nőknek kertek járnak, amelyek alatt folyók folynak, örökké ott maradnak. (الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 9:72; 48:5
+- És ha megkérdezed őket, ki teremtette az egeket és a földet, biztosan azt mondják: "Allah." Mondd. (وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ لَيَقُولُنَّ اللَّهُ قُلِ) 31:25; 39:38
+- És Mi példákat hoztunk az embereknek ebben a Koránban mindenfélét. (وَلَقَدْ ضَرَبْنَا لِلنَّاسِ فِي هَذَا الْقُرْآنِ مِن كُلِّ مَثَلٍ) 30:58; 39:27
+- Amikor a Mi küldötteink eljöttek Lóthoz, rosszul érezte magát miattuk, és szorongott, és azt mondta. (جَاءَتْ رُسُلُنَا لُوطًا سِيءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًا وَقَالَ) 11:77; 29:33
+- És amikor Mi azt mondtuk az angyaloknak: "Boruljatok le Ádám előtt!" Lehajoltak, kivéve Iblíszt, aki megtagadta. (وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا إِبْلِيسَ أَبَى) 2:34; 20:116
+- És a földet kiterítettük, és helyezzük rá szilárd hegyeket, és növesztettünk rajta mindenfélét. (وَالْأَرْضَ مَدَدْنَاهَا وَأَلْقَيْنَا فِيهَا رَوَاسِيَ وَأَنبَتْنَا فِيهَا مِن كُلِّ) 15:19; 50:7
+- Hívták Allahot, őszintén fordulva Hozzá, és amikor megmentette őket a szárazföldre. (دَعَوُا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ فَلَمَّا نَجَّاهُمْ إِلَى الْبَرِّ) 29:65; 31:32
+- Nekik forró vízből való ital jár, és fájdalmas büntetés, mert hitetlenek voltak. (لَهُمْ شَرَابٌ مِّنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْفُرُونَ) 6:70; 10:4
+- Híjuk-e Allah helyett azokat, akik nem használnak, és nem ártanak nekünk? (أَنَدْعُو مِن دُونِ اللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا) 6:71; 10:106
+- Hogy Allah tudja, mi van az egekben és a földön. (أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 5:97; 58:7
 """;

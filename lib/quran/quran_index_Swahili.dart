@@ -3018,4 +3018,147 @@ Matching Phrases 11 words
 - (Kilichochinjwa) kwa jina lisilo la Mwenyezi Mungu, lakini anayelazimishwa (na njaa), bila ya kuasi wala kupita kiasi, basi... (أُهِلَّ لِغَيْرِ اللَّهِ بِهِ فَمَنِ اضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ) 6:145; 16:115
 - Na wanapoambiwa: Fuateni yaliyoteremshwa na Mwenyezi Mungu, wanasema: La, tutafuata yale tuliyowakuta baba zetu wakiyafuata. (وَإِذَا قِيلَ لَهُمُ اتَّبِعُوا مَا أَنزَلَ اللَّهُ قَالُوا بَلْ نَتَّبِعُ مَا) 2:170; 31:21
 - Akasema: Ene watu wangu, muabuduni Mwenyezi Mungu; hamna mungu mwingine isipokuwa Yeye. Je, hamtamcha? (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 7:65; 23:23
+Matching Phrases 10 words
+- Wanasafiri katika ardhi na kuangalia jinsi ulivyokuwa mwisho wa wale waliokuwa kabla yao. (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ) 12:109; 30:9; 30:42; 35:44; 40:82; 47:10
+- Na ni nani mbaya kuliko yule anayemzulia Mwenyezi Mungu uwongo au akakadhibisha? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا أَوْ كَذَّبَ) 6:21; 7:37; 10:17; 29:68
+- Hakika, Mola wako Mlezi ndiye anayejua zaidi aliye potoka katika Njia Yake, na Yeye ndiye anayejua zaidi. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ مَن يَضِلُّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ) 6:117; 16:125; 53:30; 68:7
+- Je, hawakusafiri katika ardhi na kuangalia jinsi ulivyokuwa mwisho wa wale waliokuwa kabla yao? (أَوَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن) 30:9; 35:44; 40:82; 47:10
+- Wao watapata ujira wao kwa Mola wao Mlezi, wala hawatakuwa na khofu juu yao wala hawatahuzunika. (فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ) 2:62; 2:262; 2:274; 2:277
+- Na wale walioamini na wakatenda mema wataingizwa katika mabustani yapitayo mito chini yao. (وَأُدْخِلَ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 14:23; 22:14; 22:23; 47:12
+- Akasema: "Enyi watu wangu! Muabuduni Mwenyezi Mungu, hamna mungu mwingine ila Yeye. Je, si?" (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا) 7:65; 11:84; 23:23
+- Hawatawanufaisha mali zao wala watoto wao dhidi ya Mwenyezi Mungu kitu chochote, na hao ni. (لَن تُغْنِيَ عَنْهُمْ أَمْوَالُهُمْ وَلَا أَوْلَادُهُم مِّنَ اللَّهِ شَيْئًا وَأُولَئِكَ) 3:10; 3:116; 58:17
+- Mabustani yapitayo mito chini yao, wadumu humo, na hapo ndio mafanikio makubwa. (جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَذَلِكَ الْفَوْزُ الْعَظِيمُ) 4:13; 9:89
+- Je, haikuwafikia habari za wale waliokuwa kabla yao – watu wa Nuhu, na 'Aad, na Thamud? (أَلَمْ يَأْتِهِمْ نَبَأُ الَّذِينَ مِن قَبْلِهِمْ قَوْمِ نُوحٍ وَعَادٍ وَثَمُودَ) 9:70; 14:9
+- Ni nani wasaidizi wangu kwa Mwenyezi Mungu? Hawawariyo wakasema: "Sisi ni wasaidizi wa Mwenyezi Mungu, tumeamini." (مَنْ أَنصَارِي إِلَى اللَّهِ قَالَ الْحَوَارِيُّونَ نَحْنُ أَنصَارُ اللَّهِ آمَنَّا) 3:52; 61:14
+- Mola wako Mlezi ndiye anayejua zaidi aliye potoka katika Njia Yake, na Yeye ndiye anayejua zaidi walioongoka. (رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ) 16:125; 68:7
+- Hayo ni kwa kuwa Mwenyezi Mungu ndiye Haki, na kwamba wanavyoita wao badala Yake ni batili. (ذَلِكَ بِأَنَّ اللَّهَ هُوَ الْحَقُّ وَأَنَّ مَا يَدْعُونَ مِن دُونِهِ) 22:62; 31:30
+- Na yeyote anayemtii Mwenyezi Mungu na Mtume Wake, atamuingiza katika mabustani yapitayo mito chini yao. (وَمَن يُطِعِ اللَّهَ وَرَسُولَهُ يُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 4:13; 48:17
+- Amekuharamishieni ni maiti, damu, nyama ya nguruwe, na aliyechinjwa kwa ajili ya. (إِنَّمَا حَرَّمَ عَلَيْكُمُ الْمَيْتَةَ وَالدَّمَ وَلَحْمَ الْخِنزِيرِ وَمَا أُهِلَّ) 2:173; 16:115
+- Msimuabudu ila Mwenyezi Mungu. Hakika, mimi nawaogopa adhabu ya siku. (أَن لَّا تَعْبُدُوا إِلَّا اللَّهَ إِنِّي أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ) 11:26; 46:21
+- Hayo ni baadhi ya habari za ghaibu tunazokufunulia; nawe haukuwa pamoja nao wakati. (ذَلِكَ مِنْ أَنبَاءِ الْغَيْبِ نُوحِيهِ إِلَيْكَ وَمَا كُنتَ لَدَيْهِمْ إِذْ) 3:44; 12:102
+- Je, mnaona ajabu kwamba imewajia ukumbusho kutoka kwa Mola wenu Mlezi kupitia mtu miongoni mwenu ili awatahadharishe? (أَوَعَجِبْتُمْ أَن جَاءَكُمْ ذِكْرٌ مِّن رَّبِّكُمْ عَلَى رَجُلٍ مِّنكُمْ لِيُنذِرَكُمْ) 7:63; 7:69
+- Sema: "Hakika, nimekatazwa kumuabudu yule mnayemwita badala ya Mwenyezi Mungu." (قُلْ إِنِّي نُهِيتُ أَنْ أَعْبُدَ الَّذِينَ تَدْعُونَ مِن دُونِ اللَّهِ) 6:56; 40:66
+- Ila kwa wake zao au kile kinachomilikiwa na mikono yao ya kulia; kwa hakika hao hawalaumiwi. (إِلَّا عَلَى أَزْوَاجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَانُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ) 23:6; 70:30
+- Kwa sababu Mwenyezi Mungu huingiza usiku ndani ya mchana na huingiza mchana ndani ya usiku. (بِأَنَّ اللَّهَ يُولِجُ اللَّيْلَ فِي النَّهَارِ وَيُولِجُ النَّهَارَ فِي اللَّيْلِ) 22:61; 31:29
+- Moto, akawaambia watu wake: "Kaa, mimi nimeona moto; labda nitakuleteeni kutoka humo." (نَارًا فَقَالَ لِأَهْلِهِ امْكُثُوا إِنِّي آنَسْتُ نَارًا لَّعَلِّي آتِيكُم مِّنْهَا) 20:10; 28:29
+- Akasema: "Mimi ni bora kuliko yeye; umeniumba kwa moto na umemuumba yeye kwa udongo." (قَالَ أَنَا خَيْرٌ مِّنْهُ خَلَقْتَنِي مِن نَّارٍ وَخَلَقْتَهُ مِن طِينٍ) 7:12; 38:76
+- Na wanapoambiwa: "Njooni kwa yale ambayo Mwenyezi Mungu ameyateremsha na kwa Mtume," wanasema. (وَإِذَا قِيلَ لَهُمْ تَعَالَوْا إِلَى مَا أَنزَلَ اللَّهُ وَإِلَى الرَّسُولِ) 4:61; 5:104
+- Usiwe na huzuni juu yao, wala usiwe katika shida kwa sababu ya kile wanachokipanga. (وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُ فِي ضَيْقٍ مِّمَّا يَمْكُرُونَ) 16:127; 27:70
+- Na Mwenyezi Mungu akikugusa na dhara, basi hakuna anayeiondoa ila Yeye; na kama. (وَإِن يَمْسَسْكَ اللَّهُ بِضُرٍّ فَلَا كَاشِفَ لَهُ إِلَّا هُوَ وَإِن) 6:17; 10:107
+- Kabla yao, vizazi vinavyotembea katika makazi yao. Hakika, katika hayo ipo ishara. (قَبْلَهُم مِّنَ الْقُرُونِ يَمْشُونَ فِي مَسَاكِنِهِمْ إِنَّ فِي ذَلِكَ لَآيَاتٍ) 20:128; 32:26
+- Na tumevijalia nyoyo zao vifuniko wasivyoelewa, na masikioni mwao uziwi, na kama. (وَجَعَلْنَا عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا وَإِن) 6:25; 18:57
+- Mitume wao waliwajia na hoja zilizo wazi; lakini Mwenyezi Mungu hakuwa akiwadhalimu, bali wenyewe walijidhalimu. (رُسُلُهُم بِالْبَيِّنَاتِ فَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ وَلَكِن كَانُوا أَنفُسَهُمْ يَظْلِمُونَ) 9:70; 30:9
+- Na katika ardhi, nanyi hamna badala ya Mwenyezi Mungu wala msaidizi wala msaidizi. (وَالْأَرْضِ وَمَا لَكُم مِّن دُونِ اللَّهِ مِن وَلِيٍّ وَلَا نَصِيرٍ) 2:107; 42:31
+- Kisha mtarudishwa kwa Mwenye kujua ghaibu na dhahiri, naye atawaarifu yale mliyokuwa mkitenda. (ثُمَّ تُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ) 9:94; 62:8
+- Usiku ili mpumzike ndani yake, na mchana wenye kuonekana wazi. Hakika, hayo ni ishara kwa watu. (اللَّيْلَ لِتَسْكُنُوا فِيهِ وَالنَّهَارَ مُبْصِرًا إِنَّ فِي ذَلِكَ لَآيَاتٍ لِّقَوْمٍ) 10:67; 27:86
+- Na bila shaka itawaongezea wengi wao yale yaliyoteremshwa kwako kutoka kwa Mola wako Mlezi ufisadi na ukafiri. (وَلَيَزِيدَنَّ كَثِيرًا مِّنْهُم مَّا أُنزِلَ إِلَيْكَ مِن رَّبِّكَ طُغْيَانًا وَكُفْرًا) 5:64; 5:68
+- Akasema: "Enyi watu wangu! Mwaonaje kama nipo juu ya hoja iliyo wazi kutoka kwa Mola wangu na amenipa?" (قَالَ يَاقَوْمِ أَرَأَيْتُمْ إِن كُنتُ عَلَى بَيِّنَةٍ مِّن رَّبِّي وَآتَانِي) 11:28; 11:63
+- Na wanasema: "Mbona hiyo ishara haikuteremshwa kwake kutoka kwa Mola wake?" Sema: "Hakika." (وَيَقُولُونَ لَوْلَا أُنزِلَ عَلَيْهِ آيَةٌ مِّن رَّبِّهِ فَقُلْ إِنَّمَا) 10:20; 29:50
+- Kabla ya kufika siku ambayo haitarejelewa kutoka kwa Mwenyezi Mungu. (مِن قَبْلِ أَن يَأْتِيَ يَوْمٌ لَّا مَرَدَّ لَهُ مِنَ اللَّهِ) 30:43; 42:47
+- Hiyo ndio fadhila ya Mwenyezi Mungu anayompa amtakaye; na Mwenyezi Mungu ni Mwenye fadhila kuu. (ذَلِكَ فَضْلُ اللَّهِ يُؤْتِيهِ مَن يَشَاءُ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ) 57:21; 62:4
+- Na hakika, katika mifugo ipo mawaidha kwenu; tunakunyweni katika yaliyomo matumboni mwake. (وَإِنَّ لَكُمْ فِي الْأَنْعَامِ لَعِبْرَةً نُّسْقِيكُم مِّمَّا فِي بُطُونِهِ) 16:66; 23:21
+- Kwamba hiyo ndiyo kweli kutoka kwa Mola wao; na Mwenyezi Mungu hajali kile wanachofanya. (أَنَّهُ الْحَقُّ مِن رَّبِّهِمْ وَمَا اللَّهُ بِغَافِلٍ عَمَّا يَعْمَلُونَ) 2:144; 2:149
+- Mbele yao na nyuma yao, msimuabudu ila Mwenyezi Mungu. (مِن بَيْنِ أَيْدِيهِمْ وَمِنْ خَلْفِهِمْ أَلَّا تَعْبُدُوا إِلَّا اللَّهَ) 41:14; 46:21
+- Hakika, nyinyi mnawaendea wanaume kwa tamaa badala ya wanawake; bali nyinyi ni watu. (إِنَّكُمْ لَتَأْتُونَ الرِّجَالَ شَهْوَةً مِّن دُونِ النِّسَاءِ بَلْ أَنتُمْ قَوْمٌ) 7:81; 27:55
+- Wadumu humo, maadamu mbingu na ardhi zinaendelea, isipokuwa kile Mola wako anachotaka. (خَالِدِينَ فِيهَا مَا دَامَتِ السَّمَاوَاتُ وَالْأَرْضُ إِلَّا مَا شَاءَ رَبُّكَ) 11:107; 11:108
+- Aliyeko mbinguni na aliyeko ardhini, isipokuwa yule Mwenyezi Mungu anayemtaka. (مَن فِي السَّمَاوَاتِ وَمَن فِي الْأَرْضِ إِلَّا مَن شَاءَ اللَّهُ) 27:87; 39:68
+- Watavikwa ndani yake mapambo ya vikuku vya dhahabu na lulu, na mavazi yao ndani yake ni hariri. (يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِن ذَهَبٍ وَلُؤْلُؤًا وَلِبَاسُهُمْ فِيهَا حَرِيرٌ) 22:23; 35:33
+- Na kushusha maji kutoka mbinguni na kuyatoa kwa hayo matunda kama riziki kwenu. (وَأنزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجَ بِهِ مِنَ الثَّمَرَاتِ رِزْقًا لَّكُمْ) 2:22; 14:32
+- Na tulisahau mapatano yenu na tukainua juu yenu mlima: "Shikeni tulivyowapa kwa nguvu." (وَإِذْ أَخَذْنَا مِيثَاقَكُمْ وَرَفَعْنَا فَوْقَكُمُ الطُّورَ خُذُوا مَا آتَيْنَاكُم بِقُوَّةٍ) 2:63; 2:93
+- Akawaacha na akasema: "Enyi watu wangu! Hakika niliwafikishia ujumbe wa Mola wangu na kuwashauri." (فَتَوَلَّى عَنْهُمْ وَقَالَ يَاقَوْمِ لَقَدْ أَبْلَغْتُكُمْ رِسَالَةَ رَبِّي وَنَصَحْتُ لَكُمْ) 7:79; 7:93
+- Mito inapita chini yao; watavikwa ndani yake mapambo ya vikuku vya dhahabu. (تَجْرِي مِن تَحْتِهِمُ الْأَنْهَارُ يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِن ذَهَبٍ) 18:31; 22:23
+- Kama wanyao vyote vilivyo ardhini na mfano wake pamoja navyo, ili kujikomboa. (لَوْ أَنَّ لَهُم مَّا فِي الْأَرْضِ جَمِيعًا وَمِثْلَهُ مَعَهُ لِيَفْتَدُوا) 5:36; 13:18
+- Cha kiumbe chochote, lakini anawaahirisha hadi ajali maalumu; na ajali yao ikifika. (مِن دَابَّةٍ وَلَكِن يُؤَخِّرُهُمْ إِلَى أَجَلٍ مُّسَمًّى فَإِذَا جَاءَ أَجَلُهُمْ) 16:61; 35:45
+- Tumekuumbeni kwa udongo, kisha kwa tone la mbegu, kisha kwa damu iliyoganda, kisha. (خَلَقْنَاكُم مِّن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ مِنْ عَلَقَةٍ ثُمَّ) 22:5; 40:67
+- Mwenyezi Mungu ndiye atakayeamua baina yao Siku ya Kiyama katika walichokuwa wakikhitalifiana. (فَاللَّهُ يَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 2:113; 22:69
+- Kumekujia elimu; huna kwa Mwenyezi Mungu wala. (جَاءَكَ مِنَ الْعِلْمِ مَا لَكَ مِنَ اللَّهِ مِن وَلِيٍّ وَلَا) 2:120; 13:37
+- Na tunapomneemesha mwanadamu, anageuka na kujitenga; na anapoguswa na shari. (وَإِذَا أَنْعَمْنَا عَلَى الْإِنسَانِ أَعْرَضَ وَنَأَى بِجَانِبِهِ وَإِذَا مَسَّهُ الشَّرُّ) 17:83; 41:51
+- Wala kidogo kuliko hicho wala kikubwa, ila kimeandikwa katika Kitabu kilicho wazi. (وَلَا أَصْغَرَ مِن ذَلِكَ وَلَا أَكْبَرَ إِلَّا فِي كِتَابٍ مُّبِينٍ) 10:61; 34:3
+
+Matching Phrases 9 words
+- Akasema: "Enyi watu wangu! Muabuduni Mwenyezi Mungu; hamna mungu mwingine ila Yeye." (فَقَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ) 7:59; 7:65; 7:73; 7:85; 11:50; 11:61; 11:84; 23:23
+- Je, hawakusafiri katika ardhi wakaangalia jinsi ulivyokuwa mwisho wa wale waliokuwa kabla? (أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ) 12:109; 30:9; 35:44; 40:21; 40:82; 47:10
+- Ujira wao uko kwa Mola wao Mlezi; hawatakuwa na khofu juu yao wala hawatahuzunika. (أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ) 2:62; 2:112; 2:262; 2:274; 2:277
+- Wanasafiri katika ardhi na kuangalia jinsi ulivyokuwa mwisho wa wale waliokuwa kabla. (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن) 30:9; 30:42; 35:44; 40:82; 47:10
+- Katika ardhi na kuangalia jinsi ulivyokuwa mwisho wa wale waliokuwa kabla yao. (فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ) 30:9; 30:42; 35:44; 40:82; 47:10
+- Na ni nani mbaya kuliko yule anayemzulia Mwenyezi Mungu uwongo au? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا أَوْ) 6:21; 6:93; 7:37; 10:17; 29:68
+- Na anapoamua jambo, basi huwa anakiambia tu: "Kuwa!" na kinakuwa. (وَإِذَا قَضَى أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُن فَيَكُونُ) 2:117; 3:47; 19:35; 40:68
+- Nanyi hamna badala ya Mwenyezi Mungu wala msaidizi wala msaidizi. (وَمَا لَكُم مِّن دُونِ اللَّهِ مِن وَلِيٍّ وَلَا نَصِيرٍ) 2:107; 9:116; 29:22; 42:31
+- Hakika, nitawafutia makosa yao na nitawaingiza katika mabustani yapitayo mito chini yao. (لَأُكَفِّرَنَّ عَنْهُمْ سَيِّئَاتِهِمْ وَلَأُدْخِلَنَّهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 3:195; 5:12; 64:9; 66:8
+- Tutawaingiza katika mabustani yapitayo mito chini yao, wadumu humo milele. (سَنُدْخِلُهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا) 4:57; 4:122; 64:9; 65:11
+- Mola wako Mlezi ndiye anayejua zaidi aliye potoka katika Njia Yake, na Yeye ndiye anayejua zaidi. (رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ) 16:125; 53:30; 68:7
+- Mtaarudishwa kwa Mwenye kujua ghaibu na dhahiri, naye atawaarifu mliyokuwa mkitenda. (تُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ) 9:94; 9:105; 62:8
+- Wana watoto wenu na kuwaacha wanawake wenu hai; na katika hayo ni mtihani mkubwa kutoka kwa Mola wenu Mlezi. (أَبْنَاءَكُمْ وَيَسْتَحْيُونَ نِسَاءَكُمْ وَفِي ذَلِكُم بَلَاءٌ مِّن رَّبِّكُمْ عَظِيمٌ) 2:49; 7:141; 14:6
+- Hakika, Mola wako Mlezi ndiye anayejua zaidi aliye potoka katika Njia Yake, na Yeye. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ) 16:125; 53:30; 68:7
+- Mwenyezi Mungu, ambaye ni wake yaliyomo mbinguni na yaliyomo ardhini. (اللَّهِ الَّذِي لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 14:2; 34:1; 42:53
+- Katika mataifa yaliyopita kabla yenu, kati ya majini na binadamu. (فِي أُمَمٍ قَدْ خَلَتْ مِن قَبْلِكُم مِّنَ الْجِنِّ وَالْإِنسِ) 7:38; 41:25; 46:18
+- Muabuduni Mwenyezi Mungu; hamna mungu mwingine ila Yeye. Je, hamtamcha? (اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 7:65; 23:23; 23:32
+- Na tumevijalia nyoyo zao vifuniko wasivyoelewa, na masikioni mwao uziwi. (وَجَعَلْنَا عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا) 6:25; 17:46; 18:57
+- Ataamua baina yao Siku ya Kiyama katika walichokuwa wakikhitalifiana. (يَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 2:113; 16:124; 22:69
+- Akasema: "Enyi watu wangu! Mwaonaje kama nipo juu ya hoja iliyo wazi kutoka kwa Mola wangu?" (قَالَ يَاقَوْمِ أَرَأَيْتُمْ إِن كُنتُ عَلَى بَيِّنَةٍ مِّن رَّبِّي) 11:28; 11:63; 11:88
+- Hayo ni kwa sababu ya yale mikono yenu ilivyotanguliza, na kwamba Mwenyezi Mungu si mzalimu kwa waja. (ذَلِكَ بِمَا قَدَّمَتْ أَيْدِيكُمْ وَأَنَّ اللَّهَ لَيْسَ بِظَلَّامٍ لِّلْعَبِيدِ) 3:182; 8:51; 22:10
+- Wao katika dunia wana fedha, na wao katika Akhera wana adhabu kuu. (لَهُمْ فِي الدُّنْيَا خِزْيٌ وَلَهُمْ فِي الْآخِرَةِ عَذَابٌ عَظِيمٌ) 2:114; 5:41
+- Yaliyomo mbinguni na yaliyomo ardhini; na Mwenyezi Mungu anatosha kuwa Mtegemewa. (مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَكَفَى بِاللَّهِ وَكِيلًا) 4:132; 4:171
+- Isipokuwa wale walioamini na wakatenda mema; wao wana ujira usiokatika. (إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ) 84:25; 95:6
+- Unanitia mshirika asiyekuwa na elimu juu yake; kwa hiyo usiwatii wawili hao. (لِتُشْرِكَ بِي مَا لَيْسَ لَكَ بِهِ عِلْمٌ فَلَا تُطِعْهُمَا) 29:8; 31:15
+- Hakika, hii ni ukumbusho; na yeyote anayetaka, na aweke njia kwa Mola wake Mlezi. (إِنَّ هَذِهِ تَذْكِرَةٌ فَمَن شَاءَ اتَّخَذَ إِلَى رَبِّهِ سَبِيلًا) 73:19; 76:29
+- Na yeyote ashukuye, basi anashukuru kwa nafsi yake; na yeyote akafuru, basi hakika. (وَمَن شَكَرَ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِ وَمَن كَفَرَ فَإِنَّ) 27:40; 31:12
+- Wale wanaoimisha swala na wanatoa zaka, nao wana yakini ya Akhera. (الَّذِينَ يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُم بِالْآخِرَةِ هُمْ يُوقِنُونَ) 27:3; 31:4
+- Ibrahimu, Ismaeli, Ishaqa, Yakubu na koo, na yale yaliyopewa Musa na Isa. (إِبْرَاهِيمَ وَإِسْمَاعِيلَ وَإِسْحَاقَ وَيَعْقُوبَ وَالْأَسْبَاطِ وَمَا أُوتِيَ مُوسَى وَعِيسَى) 2:136; 3:84
+- Makundi kwa makundi, mpaka wanapofika kwake, hufunguliwa milango yake, na wale walinzi wake wawaambia. (زُمَرًا حَتَّى إِذَا جَاءُوهَا فُتِحَتْ أَبْوَابُهَا وَقَالَ لَهُمْ خَزَنَتُهَا) 39:71; 39:73
+- Mwenyezi Mungu hatawaadhibu kwa ubatili katika viapo vyenu, lakini atawaadhibu kwa yale. (لَّا يُؤَاخِذُكُمُ اللَّهُ بِاللَّغْوِ فِي أَيْمَانِكُمْ وَلَكِن يُؤَاخِذُكُم بِمَا) 2:225; 5:89
+- Rahma, wakafurahia; na ikawajia shari kwa sababu ya yale mikono yao ilivyotanguliza. (رَحْمَةً فَرِحُوا بِهَا وَإِن تُصِبْهُمْ سَيِّئَةٌ بِمَا قَدَّمَتْ أَيْدِيهِمْ) 30:36; 42:48
+- Mito inapita chini yao, wadumu humo; na ni ujira mzuri kwa wafanyao kazi. (تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَنِعْمَ أَجْرُ الْعَامِلِينَ) 3:136; 29:58
+- Mwenyezi Mungu anajua yaliyomo mbinguni na yaliyomo ardhini; na Mwenyezi Mungu. (اللَّهُ وَيَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَاللَّهُ) 3:29; 49:16
+- Mt'iini Mwenyezi Mungu na mt'iini Mtume; lakini mkigeuka, basi juu yake ni. (أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ فَإِن تَوَلَّوْا فَإِنَّمَا عَلَيْهِ) 24:54; 64:12
+- Wao watapata ujira wao kwa Mola wao Mlezi; hawatakuwa na khofu juu yao wala. (فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ) 2:274; 2:277
+- Wakasema: "Je, tukiwa mifupa na uchafu, kweli tutafufuliwa kiumbe kipya?" (وَقَالُوا أَإِذَا كُنَّا عِظَامًا وَرُفَاتًا أَإِنَّا لَمَبْعُوثُونَ خَلْقًا جَدِيدًا) 17:49; 17:98
+- Hawatapata kwao badala ya Mwenyezi Mungu wala msaidizi wala msaidizi. (وَلَا يَجِدُونَ لَهُم مِّن دُونِ اللَّهِ وَلِيًّا وَلَا نَصِيرًا) 4:173; 33:17
+- Ulikaa muda gani? Akasema: "Nimekaa siku moja au sehemu ya siku." Akasema: (كَمْ لَبِثْتَ قَالَ لَبِثْتُ يَوْمًا أَوْ بَعْضَ يَوْمٍ قَالَ) 2:259; 18:19
+- Milele hadi Siku ya Kiyama. Ni nani mungu mwingine isipokuwa Mwenyezi Mungu atakayekujieni? (سَرْمَدًا إِلَى يَوْمِ الْقِيَامَةِ مَنْ إِلَهٌ غَيْرُ اللَّهِ يَأْتِيكُم) 28:71; 28:72
+- Yeyote atendaye mema, mwanaume au mwanamke, naye ni muumini. (مَنْ عَمِلَ صَالِحًا مِّن ذَكَرٍ أَوْ أُنثَى وَهُوَ مُؤْمِنٌ) 16:97; 40:40
+- Wale wanaozuia njia ya Mwenyezi Mungu na wanaitaka igeuke, nao hawaamini Akhera. (الَّذِينَ يَصُدُّونَ عَن سَبِيلِ اللَّهِ وَيَبْغُونَهَا عِوَجًا وَهُم بِالْآخِرَةِ) 7:45; 11:19
+- Popote mnapotaka, wala msikaribie mti huu, msije mkawa mwenye kudhulumu. (حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَذِهِ الشَّجَرَةَ فَتَكُونَا مِنَ الظَّالِمِينَ) 2:35; 7:19
+- Sema: "Enyi watu wangu! Tendani kwa kulingana na hali yenu; mimi natenda; mtajua." (قُلْ يَاقَوْمِ اعْمَلُوا عَلَى مَكَانَتِكُمْ إِنِّي عَامِلٌ فَسَوْفَ تَعْلَمُونَ) 6:135; 39:39
+- Hakika, waliopoteza ni wale waliopoteza nafsi zao na familia zao Siku ya Kiyama. Angalia! (إِنَّ الْخَاسِرِينَ الَّذِينَ خَسِرُوا أَنفُسَهُمْ وَأَهْلِيهِمْ يَوْمَ الْقِيَامَةِ أَلَا) 39:15; 42:45
+- Anayeongoka, anajiongozea nafsi yake; na anayepotoka, anajipotezea nafsi yake; na hakuna. (يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا وَمَا) 10:108; 39:41
+- Na wale waliokufuru wanasema: "Mbona ishara haikuteremshwa kwake kutoka kwa Mola wake?" (وَيَقُولُ الَّذِينَ كَفَرُوا لَوْلَا أُنزِلَ عَلَيْهِ آيَةٌ مِّن رَّبِّهِ) 13:7; 13:27
+- Aliyewafanyieni usiku ili mpumzike ndani yake, na mchana wenye kuonekana wazi. Hakika. (الَّذِي جَعَلَ لَكُمُ اللَّيْلَ لِتَسْكُنُوا فِيهِ وَالنَّهَارَ مُبْصِرًا إِنَّ) 10:67; 40:61
+- Kabla ya kufika siku ambayo ndani yake hakuna biashara wala. (مِّن قَبْلِ أَن يَأْتِيَ يَوْمٌ لَّا بَيْعٌ فِيهِ وَلَا) 2:254; 14:31
+- Wafikirie; mwenzao hana wazimu; yeye si chochote ila mwonyaji. (يَتَفَكَّرُوا مَا بِصَاحِبِهِم مِّن جِنَّةٍ إِنْ هُوَ إِلَّا نَذِيرٌ) 7:184; 34:46
+- Wadumu humo; adhabu haitapunguziwa kwao wala hawatapewa muhula. (خَالِدِينَ فِيهَا لَا يُخَفَّفُ عَنْهُمُ الْعَذَابُ وَلَا هُمْ يُنظَرُونَ) 2:162; 3:88
+- Usiyanuruishe macho yako kwa yale tuliyowapa raha baadhi yao. (لَا تَمُدَّنَّ عَيْنَيْكَ إِلَى مَا مَتَّعْنَا بِهِ أَزْوَاجًا مِّنْهُمْ) 15:88; 20:131
+- Wala msipunguze watu vitu vyao, wala msifanye uharibifu katika ardhi. (وَلَا تَبْخَسُوا النَّاسَ أَشْيَاءَهُمْ وَلَا تَعْثَوْا فِي الْأَرْضِ مُفْسِدِينَ) 11:85; 26:183
+- Na amani iwe juu yake siku alipozaliwa, siku atakapokufa, na siku atakapofufuliwa akiwa hai. (وَسَلَامٌ عَلَيْهِ يَوْمَ وُلِدَ وَيَوْمَ يَمُوتُ وَيَوْمَ يُبْعَثُ حَيًّا) 19:15; 19:33
+- Enyi watu wangu! Tendani kwa kulingana na hali yenu; mimi natenda; mtajua ni nani. (يَاقَوْمِ اعْمَلُوا عَلَى مَكَانَتِكُمْ إِنِّي عَامِلٌ فَسَوْفَ تَعْلَمُونَ مَن) 6:135; 11:93
+- Na haikuwa kwa Mtume kuleta ishara ila kwa idhini ya Mwenyezi Mungu. (وَمَا كَانَ لِرَسُولٍ أَن يَأْتِيَ بِآيَةٍ إِلَّا بِإِذْنِ اللَّهِ) 13:38; 40:78
+- Kisha kila nafsi italipwa kwa walichokichuma, wala hawataonewa. (ثُمَّ تُوَفَّى كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ) 2:281; 3:161
+- Mwanaume au mwanamke, naye ni muumini – hao wataingia Peponi. (مِن ذَكَرٍ أَوْ أُنثَى وَهُوَ مُؤْمِنٌ فَأُولَئِكَ يَدْخُلُونَ الْجَنَّةَ) 4:124; 40:40
+- Hajawa na mtoto wala hana mshirika katika mamlaka. (لَمْ يَتَّخِذْ وَلَدًا وَلَمْ يَكُن لَّهُ شَرِيكٌ فِي الْمُلْكِ) 17:111; 25:2
+- Na yeye Mwenyezi Mungu anayemwongoza, ndiye aliyeongoka; na anayempoteza, hutamkuta. (وَمَن يَهْدِ اللَّهُ فَهُوَ الْمُهْتَدِ وَمَن يُضْلِلْ فَلَن تَجِدَ) 17:97; 18:17
+- Angalia jinsi wanavyokupigia mifano; wamepotea na hawawezi kupata njia. (انظُرْ كَيْفَ ضَرَبُوا لَكَ الْأَمْثَالَ فَضَلُّوا فَلَا يَسْتَطِيعُونَ سَبِيلًا) 17:48; 25:9
+- Sema: "Hakika, mimi naogopa, nikimwasi Mola wangu Mlezi, adhabu ya siku kuu." (قُلْ إِنِّي أَخَافُ إِنْ عَصَيْتُ رَبِّي عَذَابَ يَوْمٍ عَظِيمٍ) 6:15; 39:13
+- Ikawaonekana kwazo sehemu zao za aibu, na zikaanza kujifunika kwa majani ya Peponi. (بَدَتْ لَهُمَا سَوْآتُهُمَا وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِن وَرَقِ الْجَنَّةِ) 7:22; 20:121
+- Na waiteni mnawawezao, badala ya Mwenyezi Mungu, kama mnasema kweli. (وَادْعُوا مَنِ اسْتَطَعْتُم مِّن دُونِ اللَّهِ إِن كُنتُمْ صَادِقِينَ) 10:38; 11:13
+- Vyote vilivyo ardhini na mfano wake pamoja navyo, ili kujikomboa nayo. (مَّا فِي الْأَرْضِ جَمِيعًا وَمِثْلَهُ مَعَهُ لِيَفْتَدُوا بِهِ مِنْ) 5:36; 39:47
+- Shikeni tulivyowapa kwa nguvu, na kumbukeni yaliyomo humo – labda mtamcha Mungu. (خُذُوا مَا آتَيْنَاكُم بِقُوَّةٍ وَاذْكُرُوا مَا فِيهِ لَعَلَّكُمْ تَتَّقُونَ) 2:63; 7:171
+- Je, mnafanya uovu ambao hakuna mtu katika walimwengu aliyewatangulia kuufanya? (أَتَأْتُونَ الْفَاحِشَةَ مَا سَبَقَكُم بِهَا مِنْ أَحَدٍ مِّنَ الْعَالَمِينَ) 7:80; 29:28
+- Na Mwenyezi Mungu anamiliki yaliyomo mbinguni na yaliyomo ardhini; na Mwenyezi Mungu alikuwa. (وَلِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَكَانَ اللَّهُ) 4:126; 4:131
+- Yakawapata mabaya ya walichoyatenda, na yakawazunguka yale waliyokuwa wakiyadhihaki. (سَيِّئَاتُ مَا عَمِلُوا وَحَاقَ بِهِم مَّا كَانُوا بِهِ يَسْتَهْزِئُونَ) 16:34; 45:33
+- Mtume miongoni mwenu anayewasomea Aya zetu, anawatakasa, na kuwafundisha Kitabu na Hekima. (رَسُولًا مِّنكُمْ يَتْلُو عَلَيْكُمْ آيَاتِنَا وَيُزَكِّيكُمْ وَيُعَلِّمُكُمُ الْكِتَابَ وَالْحِكْمَةَ) 2:151; 62:2
+- Kutoka humo vilitokea chemchemi kumi na mbili; kila kikundi kilijua mahali pao pa kunywa. (مِنْهُ اثْنَتَا عَشْرَةَ عَيْنًا قَدْ عَلِمَ كُلُّ أُنَاسٍ مَّشْرَبَهُمْ) 2:60; 7:160
+- Ila dhana; hakika, dhana haifai chochote dhidi ya haki. (إِلَّا ظَنًّا إِنَّ الظَّنَّ لَا يُغْنِي مِنَ الْحَقِّ شَيْئًا) 10:36; 53:28
+- Na nitakapomkamilisha na kumpulizia roho yangu, basi angukeni msisujudu kwake. (فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ فِيهِ مِن رُّوحِي فَقَعُوا لَهُ سَاجِدِينَ) 15:29; 38:72
+- Ni nani atakaye mwisho wa makao? Hakika, wadhalimu hawafanikiwi. (مَن تَكُونُ لَهُ عَاقِبَةُ الدَّارِ إِنَّهُ لَا يُفْلِحُ الظَّالِمُونَ) 6:135; 28:37
+- Aliyeziumba mbingu na ardhi ana uwezo wa kuwakumba kama wao. (الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ قَادِرٌ عَلَى أَن يَخْلُقَ مِثْلَهُمْ) 17:99; 36:81
+- Waumini wanaume na waumini wanawake, mabustani yapitayo mito chini yao, wadumu humo. (الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 9:72; 48:5
+- Na ukiwauliza ni nani aliyeziumba mbingu na ardhi, watasema: "Mwenyezi Mungu." Sema: (وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ لَيَقُولُنَّ اللَّهُ قُلِ) 31:25; 39:38
+- Na hakika tumewapigia watu mifano ya kila aina katika Qur'ani hii. (وَلَقَدْ ضَرَبْنَا لِلنَّاسِ فِي هَذَا الْقُرْآنِ مِن كُلِّ مَثَلٍ) 30:58; 39:27
+- Walipofika Mitume wetu kwa Lutu, alihuzunika kwao na akajisikia dhaifu, akasema. (جَاءَتْ رُسُلُنَا لُوطًا سِيءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًا وَقَالَ) 11:77; 29:33
+- Na tulipowaambia Malaika: "Msujuduuni Adamu." Wakasujudu isipokuwa Iblis; alikataa. (وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا إِبْلِيسَ أَبَى) 2:34; 20:116
+- Na ardhi tumeinyosha, na tukaweka ndani yake milima imara, na tukamea ndani yake kila kitu. (وَالْأَرْضَ مَدَدْنَاهَا وَأَلْقَيْنَا فِيهَا رَوَاسِيَ وَأَنبَتْنَا فِيهَا مِن كُلِّ) 15:19; 50:7
+- Walimwita Mwenyezi Mungu, wakimtakasa Dini yake; na alipowaokoa hadi bara. (دَعَوُا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ فَلَمَّا نَجَّاهُمْ إِلَى الْبَرِّ) 29:65; 31:32
+- Wao watakuwa na kinywaji cha maji ya moto na adhabu chungu kwa sababu walikuwa wakikanusha. (لَهُمْ شَرَابٌ مِّنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْفُرُونَ) 6:70; 10:4
+- Je, tunamuabudu badala ya Mwenyezi Mungu kile kisichotunufaisha wala kudhuru? (أَنَدْعُو مِن دُونِ اللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا) 6:71; 10:106
+- Kwamba Mwenyezi Mungu anajua yaliyomo mbinguni na yaliyomo ardhini. (أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 5:97; 58:7
 """;

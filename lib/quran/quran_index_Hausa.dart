@@ -3018,4 +3018,149 @@ Matching Phrases 11 words
 - (Abin) da aka ambaci sũnan wanin Allah a kansa. To, wanda aka tĩlasta, alhãli kuwa bã mai girman kai ba, kuma bã mai ƙẽtare haddi ba, to, lalle ne... (أُهِلَّ لِغَيْرِ اللَّهِ بِهِ فَمَنِ اضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ) 6:145; 16:115
 - Kuma idan an ce musu: "Ku bi abin da Allah ya saukar," su ce: "Ã'aha, zã mu bi abin da..." (وَإِذَا قِيلَ لَهُمُ اتَّبِعُوا مَا أَنزَلَ اللَّهُ قَالُوا بَلْ نَتَّبِعُ مَا) 2:170; 31:21
 - Yã ce: "Yã mutãnẽna! Ku bauta wa Allah; bã ku da wani abin bautãwa waninsa. Shin, bã zã ku yi taƙawa ba?" (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 7:65; 23:23
+Matching Phrases 10 words
+
+- Suna tafiya a cikin ƙasa, su duba yadda ãƙiba ta waɗanda suka gabace su ta kasance. (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ) 12:109; 30:9; 30:42; 35:44; 40:82; 47:10
+- Kuma wãne ne mafi zãlunci daga wanda ya ƙirƙira ƙarya ga Allah, kõ kuwa ya ƙaryata? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا أَوْ كَذَّبَ) 6:21; 7:37; 10:17; 29:68
+- Lalle ne, Ubangijinka shĩ ne Mafi sanin wanda ya ɓace daga hanyarsa, kuma Shĩ ne Mafi sani. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ مَن يَضِلُّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ) 6:117; 16:125; 53:30; 68:7
+- Shin, ba su yi tafiya a cikin ƙasa ba, dõmin su duba yadda ãƙibar waɗanda suka gabace su ta kasance? (أَوَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن) 30:9; 35:44; 40:82; 47:10
+- Sunã da sakamakonsu a wurin Ubangijinsu, kuma bãbu tsõro a kansu, kuma bã zã su yi baƙin ciki ba. (فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ) 2:62; 2:262; 2:274; 2:277
+- Kuma waɗanda suka yi ĩmãni, suka aikata ayyuka na ƙwarai, an shigar da su gidãjen Aljanna, kõguna sunã gudãna daga ƙarƙashinsu. (وَأُدْخِلَ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 14:23; 22:14; 22:23; 47:12
+- Ya ce: "Ya mutãnena! Ku bauta wa Allah, bã ku da wani abin bautãwa fãce Shi, shin, bã zã ku yi taƙawa ba?" (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا) 7:65; 11:84; 23:23
+- Dukiyõyinsu, kuma ɗiyansu, bã zã su amfãne su ba daga Allah da kõme, kuma waɗannan sũ ne. (لَن تُغْنِيَ عَنْهُمْ أَمْوَالُهُمْ وَلَا أَوْلَادُهُم مِّنَ اللَّهِ شَيْئًا وَأُولَئِكَ) 3:10; 3:116; 58:17
+- Gidãjen Aljanna, kõguna sunã gudãna daga ƙarƙashinsu, sunã madawwama a cikinsu, kuma wannan shĩ ne babban rabo mai girma. (جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَذَلِكَ الْفَوْزُ الْعَظِيمُ) 4:13; 9:89
+- Shin, lãbãrin waɗanda suka gabace su, mutãnen Nũhu, da Ãdãwa, da Samũdãwa, bai je musu ba? (أَلَمْ يَأْتِهِمْ نَبَأُ الَّذِينَ مِن قَبْلِهِمْ قَوْمِ نُوحٍ وَعَادٍ وَثَمُودَ) 9:70; 14:9
+- Su wãne ne mataimaka na zuwa ga Allah? Manzannin suka ce: "Mũne mataimakan Allah, mun yi ĩmãni." (مَنْ أَنصَارِي إِلَى اللَّهِ قَالَ الْحَوَارِيُّونَ نَحْنُ أَنصَارُ اللَّهِ آمَنَّا) 3:52; 61:14
+- Ubangijinka, Shĩ ne Mafi sanin wanda ya ɓace daga hanyarsa, kuma Shĩ ne Mafi sanin waɗanda suka shiryu. (رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ) 16:125; 68:7
+- Wancan, dõmin Allah Shi ne Gaskiya, kuma lalle ne, abin da suke kira, wanin Sa, shi ne ƙarya. (ذَلِكَ بِأَنَّ اللَّهَ هُوَ الْحَقُّ وَأَنَّ مَا يَدْعُونَ مِن دُونِهِ) 22:62; 31:30
+- Kuma wanda ya yi ɗã'a ga Allah da Manzonsa, to, Allah zai shigar da shi gidãjen Aljanna, kõguna sunã gudãna daga ƙarƙashinsu. (وَمَن يُطِعِ اللَّهَ وَرَسُولَهُ يُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 4:13; 48:17
+- Abin da Ya haramta muku shĩ ne mũshe, da jini, da nãman alade, da abin da aka ambaci sunan wanin Allah a kansa. (إِنَّمَا حَرَّمَ عَلَيْكُمُ الْمَيْتَةَ وَالدَّمَ وَلَحْمَ الْخِنزِيرِ وَمَا أُهِلَّ) 2:173; 16:115
+- Kada ku bauta wa kõwa fãce Allah; lalle ne nĩ, Inã jin tsõron azãba a kanku, a wani yini mai girma. (أَن لَّا تَعْبُدُوا إِلَّا اللَّهَ إِنِّي أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ) 11:26; 46:21
+- Wancan, daga lãbãran fake, Munã yin wahayinsa zuwa gare ka, kuma ba ka kasance a wurinsu ba, a lõkacin da suka yi shãwara. (ذَلِكَ مِنْ أَنبَاءِ الْغَيْبِ نُوحِيهِ إِلَيْكَ وَمَا كُنتَ لَدَيْهِمْ إِذْ) 3:44; 12:102
+- Shin, kuna mãmãki ne da cẽwa gargaɗi ya je muku daga Ubangijinku, a kan wani namiji daga cikinku, dõmin ya yi muku gargaɗi? (أَوَعَجِبْتُمْ أَن جَاءَكُمْ ذِكْرٌ مِّن رَّبِّكُمْ عَلَى رَجُلٍ مِّنكُمْ لِيُنذِرَكُمْ) 7:63; 7:69
+- Ka ce: "Lalle ne, an hana ni in bauta wa waɗanda kuke kira, wanin Allah." (قُلْ إِنِّي نُهِيتُ أَنْ أَعْبُدَ الَّذِينَ تَدْعُونَ مِن دُونِ اللَّهِ) 6:56; 40:66
+- Fãce a kan mãtan aurensu, kõ kuwa abin da hannãyensu na dãma suka mallaka, to, lalle ne sũ, bã su da wani zargi. (إِلَّا عَلَى أَزْوَاجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَانُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ) 23:6; 70:30
+- Allah ne Yake shigar da dare a cikin yini, kuma Yana shigar da yini a cikin dare. (بِأَنَّ اللَّهَ يُولِجُ اللَّيْلَ فِي النَّهَارِ وَيُولِجُ النَّهَارَ فِي اللَّيْلِ) 22:61; 31:29
+- Wuta, sai ya ce wa iyãlinsa: "Ku dãkata, lalle ne nĩ, nã hangi wuta, watakila zan iya kãwo muku wani abu daga gare ta." (نَارًا فَقَالَ لِأَهْلِهِ امْكُثُوا إِنِّي آنَسْتُ نَارًا لَّعَلِّي آتِيكُم مِّنْهَا) 20:10; 28:29
+- Ya ce: "Ni ne mafi alheri daga gare shi; Ka halitta ni daga wuta, kuma Ka halitta shi daga lãkã." (قَالَ أَنَا خَيْرٌ مِّنْهُ خَلَقْتَنِي مِن نَّارٍ وَخَلَقْتَهُ مِن طِينٍ) 7:12; 38:76
+- Kuma idan aka ce musu: "Ku zo zuwa ga abin da Allah ya saukar, kuma zuwa ga Manzo." (وَإِذَا قِيلَ لَهُمْ تَعَالَوْا إِلَى مَا أَنزَلَ اللَّهُ وَإِلَى الرَّسُولِ) 4:61; 5:104
+- Kuma kada ka yi baƙin ciki a kansu, kuma kada ka kasance a cikin ƙunci daga abin da suke shiryawa. (وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُ فِي ضَيْقٍ مِّمَّا يَمْكُرُونَ) 16:127; 27:70
+- Kuma idan Allah ya shãfe ka da wata cũta, to, bãbu mai kuranyẽwa fãce Shi, kuma idan. (وَإِن يَمْسَسْكَ اللَّهُ بِضُرٍّ فَلَا كَاشِفَ لَهُ إِلَّا هُوَ وَإِن) 6:17; 10:107
+- Al'ummai, a gabãninsu, sunã tafiya a cikin gidãjensu; lalle ne, a cikin wancan akwai ãyõyi. (قَبْلَهُم مِّنَ الْقُرُونِ يَمْشُونَ فِي مَسَاكِنِهِمْ إِنَّ فِي ذَلِكَ لَآيَاتٍ) 20:128; 32:26
+- Kuma Mun sanya rufuffuka a kan zukãtansu, dõmin kada su fahimce shi, kuma a cikin kunnuwansu, wani nauyi, kuma idan. (وَجَعَلْنَا عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا وَإِن) 6:25; 18:57
+- Manzanninsu sun jẽ musu da hujjõji bayyanannu; amma Allah bai kasance Mai zãluntar su ba, kuma amma sun kasance sunã zãluntar kansu. (رُسُلُهُم بِالْبَيِّنَاتِ فَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ وَلَكِن كَانُوا أَنفُسَهُمْ يَظْلِمُونَ) 9:70; 30:9
+- Kuma a cikin ƙasa, kuma bã ku da wani majiɓinci, kuma wani mataimaki, bãye ga Allah. (وَالْأَرْضِ وَمَا لَكُم مِّن دُونِ اللَّهِ مِن وَلِيٍّ وَلَا نَصِيرٍ) 2:107; 42:31
+- Sa'an nan a mayar da ku zuwa ga Masanin fake da bayyane, sa'an nan Ya bã ku lãbãri game da abin da kuka kasance kunã aikatãwa. (ثُمَّ تُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ) 9:94; 62:8
+- Dare, dõmin ku natsu a cikinsa, da yini, dõmin ku gani; lalle ne, a cikin wancan akwai ãyõyi ga mutãne mãsu tunãni. (اللَّيْلَ لِتَسْكُنُوا فِيهِ وَالنَّهَارَ مُبْصِرًا إِنَّ فِي ذَلِكَ لَآيَاتٍ لِّقَوْمٍ) 10:67; 27:86
+- Kuma lalle ne, abin da aka saukar zuwa gare ka daga Ubangijinka, zai ƙãra wa mãfiyita a cikinsu girman kai da kãfirci. (وَلَيَزِيدَنَّ كَثِيرًا مِّنْهُم مَّا أُنزِلَ إِلَيْكَ مِن رَّبِّكَ طُغْيَانًا وَكُفْرًا) 5:64; 5:68
+- Ya ce: "Yã mutãnẽna! Kuna gani? Idan nã kan hujja bayyananna daga Ubangijina, kuma Ya bã ni." (قَالَ يَاقَوْمِ أَرَأَيْتُمْ إِن كُنتُ عَلَى بَيِّنَةٍ مِّن رَّبِّي وَآتَانِي) 11:28; 11:63
+- Kuma sunã cẽwa: "Don me ba a saukar da wata ãyã zuwa gare shi daga Ubangijinsa ba?" Ka ce: "Abin sani." (وَيَقُولُونَ لَوْلَا أُنزِلَ عَلَيْهِ آيَةٌ مِّن رَّبِّهِ فَقُلْ إِنَّمَا) 10:20; 29:50
+- A gabãnin zuwan wani yini, wanda bãbu mayarwa a gare shi, daga Allah. (مِن قَبْلِ أَن يَأْتِيَ يَوْمٌ لَّا مَرَدَّ لَهُ مِنَ اللَّهِ) 30:43; 42:47
+- Wancan, falalar Allah ce, Yana bã da ita ga wanda Yake so, kuma Allah Ma'abũcin falala mai girma. (ذَلِكَ فَضْلُ اللَّهِ يُؤْتِيهِ مَن يَشَاءُ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ) 57:21; 62:4
+- Kuma lalle ne, a cikin dabbõbi, akwai ibrãta a gare ku; Munã shãyar da ku daga abin da ke cikin cikkunansu. (وَإِنَّ لَكُمْ فِي الْأَنْعَامِ لَعِبْرَةً نُّسْقِيكُم مِّمَّا فِي بُطُونِهِ) 16:66; 23:21
+- Lalle ne, shi ne gaskiya daga Ubangijinsu, kuma Allah bai zama Mai gafala daga abin da suke aikatãwa ba. (أَنَّهُ الْحَقُّ مِن رَّبِّهِمْ وَمَا اللَّهُ بِغَافِلٍ عَمَّا يَعْمَلُونَ) 2:144; 2:149
+- Daga gaban sũ, kuma daga bãyansu, dõmin kada ku bauta wa kõwa fãce Allah. (مِن بَيْنِ أَيْدِيهِمْ وَمِنْ خَلْفِهِمْ أَلَّا تَعْبُدُوا إِلَّا اللَّهَ) 41:14; 46:21
+- Lalle ne, kuna zuwa wurin maza da sha'awa, baicin mãtã; a'a, kũne mutãne mãsu ƙẽtare haddi. (إِنَّكُمْ لَتَأْتُونَ الرِّجَالَ شَهْوَةً مِّن دُونِ النِّسَاءِ بَلْ أَنتُمْ قَوْمٌ) 7:81; 27:55
+- Sunã madawwama a cikinsu, matuƙar sammai da ƙasa sunã wanzuwa, fãce abin da Ubangijinka Ya so. (خَالِدِينَ فِيهَا مَا دَامَتِ السَّمَاوَاتُ وَالْأَرْضُ إِلَّا مَا شَاءَ رَبُّكَ) 11:107; 11:108
+- Wanda ke cikin sammai, kuma wanda ke cikin ƙasa, fãce wanda Allah Ya so. (مَن فِي السَّمَاوَاتِ وَمَن فِي الْأَرْضِ إِلَّا مَن شَاءَ اللَّهُ) 27:87; 39:68
+- Zã a yi musu ƙawã da mundãye na zinãriya da lu'ulu'u, kuma tufãfinsu a cikinsu alharĩni ne. (يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِن ذَهَبٍ وَلُؤْلُؤًا وَلِبَاسُهُمْ فِيهَا حَرِيرٌ) 22:23; 35:33
+- Kuma Ya saukar da ruwa daga sama, sa'an nan Ya fitar, game da shi, daga 'ya'yan itãce, arziki a gare ku. (وَأنزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجَ بِهِ مِنَ الثَّمَرَاتِ رِزْقًا لَّكُمْ) 2:22; 14:32
+- Kuma a lõkacin da Muka riƙi alkawarinku, kuma Muka ɗaukaka Dutsen a bisanku: "Ku riƙa abin da Muka bã ku da ƙarfi." (وَإِذْ أَخَذْنَا مِيثَاقَكُمْ وَرَفَعْنَا فَوْقَكُمُ الطُّورَ خُذُوا مَا آتَيْنَاكُم بِقُوَّةٍ) 2:63; 2:93
+- Sai ya jũya daga gare su, ya ce: "Yã mutãnẽna! Lalle ne, nã iyar muku da sãƙon Ubangijina, kuma nã yi muku gaskiya." (فَتَوَلَّى عَنْهُمْ وَقَالَ يَاقَوْمِ لَقَدْ أَبْلَغْتُكُمْ رِسَالَةَ رَبِّي وَنَصَحْتُ لَكُمْ) 7:79; 7:93
+- Kõguna sunã gudãna daga ƙarƙashinsu, zã a yi musu ƙawã da mundãye na zinãriya. (تَجْرِي مِن تَحْتِهِمُ الْأَنْهَارُ يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِن ذَهَبٍ) 18:31; 22:23
+- Dã dai su mallaki abin da ke cikin ƙasa gabã ɗaya, da misãlinsa tãre da shi, dõmin su yi fansa da shi. (لَوْ أَنَّ لَهُم مَّا فِي الْأَرْضِ جَمِيعًا وَمِثْلَهُ مَعَهُ لِيَفْتَدُوا) 5:36; 13:18
+- Bãbu abin tafiya, kuma amma Allah Yanã jinkirta su zuwa ga wani ajali ambatacce, sa'an nan idan ajalinsu ya jẽ. (مِن دَابَّةٍ وَلَكِن يُؤَخِّرُهُمْ إِلَى أَجَلٍ مُّسَمًّى فَإِذَا جَاءَ أَجَلُهُمْ) 16:61; 35:45
+- Mun halitta ku daga turɓaya, sa'an nan daga ɗigon maniyyi, sa'an nan daga gudan jini, sa'an nan. (خَلَقْنَاكُم مِّن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ مِنْ عَلَقَةٍ ثُمَّ) 22:5; 40:67
+- Sa'an nan Allah zai hukunta a tsakãninsu, a Rãnar ¡iyãma, a cikin abin da suka kasance sunã sãɓãwa a cikinsa. (فَاللَّهُ يَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 2:113; 22:69
+- Wani abu na ilmi ya zo maka, bã ka da wani majiɓinci daga Allah, kuma bã ka da wani mataimaki. (جَاءَكَ مِنَ الْعِلْمِ مَا لَكَ مِنَ اللَّهِ مِن وَلِيٍّ وَلَا) 2:120; 13:37
+- Kuma idan Mun yi wa mutum ni'ima, sai ya jũya bãya, kuma ya yi nĩsa da gefensa, kuma idan sharri ya shãfe shi. (وَإِذَا أَنْعَمْنَا عَلَى الْإِنسَانِ أَعْرَضَ وَنَأَى بِجَانِبِهِ وَإِذَا مَسَّهُ الشَّرُّ) 17:83; 41:51
+- Kuma bãbu abin da yake mafi ƙanƙanta daga wancan, kuma mafi girma, fãce yana cikin wani littãfi bayyananne. (وَلَا أَصْغَرَ مِن ذَلِكَ وَلَا أَكْبَرَ إِلَّا فِي كِتَابٍ مُّبِينٍ) 10:61; 34:3
+
+Matching Phrases 9 words
+
+- Sai ya ce: "Ya mutãnena! Ku bauta wa Allah, bã ku da wani abin bautãwa fãce Shi." (فَقَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ) 7:59; 7:65; 7:73; 7:85; 11:50; 11:61; 11:84; 23:23
+- Shin, ba su yi tafiya a cikin ƙasa ba, dõmin su duba yadda ãƙibar waɗanda suka gabace su ta kasance? (أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ) 12:109; 30:9; 35:44; 40:21; 40:82; 47:10
+- Sakamakonsu yana wurin Ubangijinsu, kuma bãbu tsõro a kansu, kuma bã zã su yi baƙin ciki ba. (أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ) 2:62; 2:112; 2:262; 2:274; 2:277
+- Suna tafiya a cikin ƙasa, su duba yadda ãƙiba ta waɗanda suka gabace su ta kasance. (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن) 30:9; 30:42; 35:44; 40:82; 47:10
+- A cikin ƙasa, su duba yadda ãƙiba ta waɗanda suka gabace su ta kasance. (فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ) 30:9; 30:42; 35:44; 40:82; 47:10
+- Kuma wãne ne mafi zãlunci daga wanda ya ƙirƙira ƙarya ga Allah, kõ kuwa ya ƙaryata? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا أَوْ) 6:21; 6:93; 7:37; 10:17; 29:68
+- Kuma idan Allah Ya yi hukunci ga wani al'amari, to, Yana cẽwa gare shi: "Ka kasance!" Sai yana kasancewa. (وَإِذَا قَضَى أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُن فَيَكُونُ) 2:117; 3:47; 19:35; 40:68
+- Kuma bã ku da wani majiɓinci, kuma wani mataimaki, bãye ga Allah. (وَمَا لَكُم مِّن دُونِ اللَّهِ مِن وَلِيٍّ وَلَا نَصِيرٍ) 2:107; 9:116; 29:22; 42:31
+- Lalle ne, zan kankare musu mũnãnan ayyukansu, kuma lalle ne, zan shigar da su gidãjen Aljanna, kõguna sunã gudãna daga ƙarƙashinsu. (لَأُكَفِّرَنَّ عَنْهُمْ سَيِّئَاتِهِمْ وَلَأُدْخِلَنَّهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 3:195; 5:12; 64:9; 66:8
+- Zã Mu shigar da su gidãjen Aljanna, kõguna sunã gudãna daga ƙarƙashinsu, sunã madawwama a cikinsu. (سَنُدْخِلُهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا) 4:57; 4:122; 64:9; 65:11
+- Ubangijinka, Shĩ ne Mafi sanin wanda ya ɓace daga hanyarsa, kuma Shĩ ne Mafi sani. (رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ) 16:125; 53:30; 68:7
+- A mayar da ku zuwa ga Masanin fake da bayyane, sa'an nan Ya bã ku lãbãri game da abin da kuka kasance kunã aikatãwa. (تُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ) 9:94; 9:105; 62:8
+- Sunã kisan ɗiyanku, kuma sunã rãyar da mãtanku, kuma a cikin wancan akwai jarrabãwa daga Ubangijinku, mai girma. (أَبْنَاءَكُمْ وَيَسْتَحْيُونَ نِسَاءَكُمْ وَفِي ذَلِكُم بَلَاءٌ مِّن رَّبِّكُمْ عَظِيمٌ) 2:49; 7:141; 14:6
+- Lalle ne, Ubangijinka Shĩ ne Mafi sanin wanda ya ɓace daga hanyarsa, kuma Shĩ. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ) 16:125; 53:30; 68:7
+- Allah, wanda Yake da abin da ke cikin sammai, da abin da ke cikin ƙasa. (اللَّهِ الَّذِي لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 14:2; 34:1; 42:53
+- A cikin al'ummai da suka shũɗe daga gabãninku, daga aljannu, da kuma mutãne. (فِي أُمَمٍ قَدْ خَلَتْ مِن قَبْلِكُم مِّنَ الْجِنِّ وَالْإِنسِ) 7:38; 41:25; 46:18
+- Ku bauta wa Allah, bã ku da wani abin bautãwa fãce Shi, shin, bã zã ku yi taƙawa ba? (اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 7:65; 23:23; 23:32
+- Kuma Mun sanya rufuffuka a kan zukãtansu, dõmin kada su fahimce shi, kuma a cikin kunnuwansu, wani nauyi. (وَجَعَلْنَا عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا) 6:25; 17:46; 18:57
+- Yanã yin hukunci a tsakãninsu, a Rãnar ¡iyãma, a cikin abin da suka kasance sunã sãɓãwa a cikinsa. (يَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 2:113; 16:124; 22:69
+- Ya ce: "Yã mutãnẽna! Kuna gani? Idan nã kan hujja bayyananna daga Ubangijina?" (قَالَ يَاقَوْمِ أَرَأَيْتُمْ إِن كُنتُ عَلَى بَيِّنَةٍ مِّن رَّبِّي) 11:28; 11:63; 11:88
+- Wancan, sabõda abin da hannãyayyinku suka gabãtar, kuma lalle ne, Allah bai zama Mai zãlunci ga bãyinsa ba. (ذَلِكَ بِمَا قَدَّمَتْ أَيْدِيكُمْ وَأَنَّ اللَّهَ لَيْسَ بِظَلَّامٍ لِّلْعَبِيدِ) 3:182; 8:51; 22:10
+- Sunã da wulãkanci a dũniya, kuma sunã da wata azãba mai girma a lãhira. (لَهُمْ فِي الدُّنْيَا خِزْيٌ وَلَهُمْ فِي الْآخِرَةِ عَذَابٌ عَظِيمٌ) 2:114; 5:41
+- Abin da ke cikin sammai, da abin da ke cikin ƙasa, kuma Allah Yã isa Ya zama wakĩli. (مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَكَفَى بِاللَّهِ وَكِيلًا) 4:132; 4:171
+- Fãce waɗanda suka yi ĩmãni, kuma suka aikata ayyuka na ƙwarai, sunã da lãda wadda bã ta yankẽwa. (إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ) 84:25; 95:6
+- Dõmin ka yi shirki da Ni, game da abin da bã ka da wani ilmi a kansa; to, kada ka yi musu ɗã'a. (لِتُشْرِكَ بِي مَا لَيْسَ لَكَ بِهِ عِلْمٌ فَلَا تُطِعْهُمَا) 29:8; 31:15
+- Lalle ne, wannan tunãtarwa ce; to, wanda ya so, sai ya riƙa hanyar zuwa ga Ubangijinsa. (إِنَّ هَذِهِ تَذْكِرَةٌ فَمَن شَاءَ اتَّخَذَ إِلَى رَبِّهِ سَبِيلًا) 73:19; 76:29
+- Kuma wanda ya gõde, to, yanã gõdẽwa dõmin kansa, kuma wanda ya kãfirta. (وَمَن شَكَرَ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِ وَمَن كَفَرَ فَإِنَّ) 27:40; 31:12
+- Waɗanda suke tsayar da salla, kuma sunã bãyar da zakka, kuma su, game da lãhira, sunã yin ĩmãni. (الَّذِينَ يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُم بِالْآخِرَةِ هُمْ يُوقِنُونَ) 27:3; 31:4
+- Ibrãhĩma, da Ismã'ĩla, da Is'hãƙa, da Ya'akũba, da jĩkõkinsu, da abin da aka bai wa Mũsã da Ĩsã. (إِبْرَاهِيمَ وَإِسْمَاعِيلَ وَإِسْحَاقَ وَيَعْقُوبَ وَالْأَسْبَاطِ وَمَا أُوتِيَ مُوسَى وَعِيسَى) 2:136; 3:84
+- Rukuni rukuni, har idan sun je mata, sai a buɗe ƙõfõfinta, kuma matsaranta su ce musu. (زُمَرًا حَتَّى إِذَا جَاءُوهَا فُتِحَتْ أَبْوَابُهَا وَقَالَ لَهُمْ خَزَنَتُهَا) 39:71; 39:73
+- Allah bã Ya kãma ku da abin da bã shi da ma'ana a cikin rantsuwõwinku, amma Yanã kãmã ku da abin da. (لَّا يُؤَاخِذُكُمُ اللَّهُ بِاللَّغْوِ فِي أَيْمَانِكُمْ وَلَكِن يُؤَاخِذُكُم بِمَا) 2:225; 5:89
+- Rahama, sunã farin ciki da ita, kuma idan wata masifa ta shãfe su, sabõda abin da hannãyensu suka gabãtar. (رَحْمَةً فَرِحُوا بِهَا وَإِن تُصِبْهُمْ سَيِّئَةٌ بِمَا قَدَّمَتْ أَيْدِيهِمْ) 30:36; 42:48
+- Gidãjen Aljanna, kõguna sunã gudãna daga ƙarƙashinsu, sunã madawwama a cikinsu, kuma kyakkyawan sakamako ne ga mãsu aikin ƙwarai! (تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَنِعْمَ أَجْرُ الْعَامِلِينَ) 3:136; 29:58
+- Allah Yanã sanin abin da ke a cikin sammai, da abin da ke a cikin ƙasa, kuma Allah. (اللَّهُ وَيَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَاللَّهُ) 3:29; 49:16
+- Ku yi ɗã'a ga Allah, kuma ku yi ɗã'a ga Manzo; to, idan kuka jũya bãya, to, abin sani. (أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ فَإِن تَوَلَّوْا فَإِنَّمَا عَلَيْهِ) 24:54; 64:12
+- Sunã da sakamakonsu a wurin Ubangijinsu, kuma bãbu tsõro a kansu, kuma bã zã su. (فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ) 2:274; 2:277
+- Kuma suka ce: "Ashe, idan muka kasance kasũsuwa da turbaya, shin, lalle ne, mu, tabbas, waɗanda ake tãyarwa ne, a matsayin wata halitta sãbuwa?" (وَقَالُوا أَإِذَا كُنَّا عِظَامًا وَرُفَاتًا أَإِنَّا لَمَبْعُوثُونَ خَلْقًا جَدِيدًا) 17:49; 17:98
+- Kuma bã zã su sãmi wani majiɓinci, kuma wani mataimaki, ba, wanin Allah. (وَلَا يَجِدُونَ لَهُم مِّن دُونِ اللَّهِ وَلِيًّا وَلَا نَصِيرًا) 4:173; 33:17
+- "Yaushe ka daɗe?" Ya ce: "Nã daɗe yini ɗaya, kõ kuwa rabin yini." Ya ce. (كَمْ لَبِثْتَ قَالَ لَبِثْتُ يَوْمًا أَوْ بَعْضَ يَوْمٍ قَالَ) 2:259; 18:19
+- Har abada, zuwa ga Rãnar ¡iyãma; wãne ne wanin Allah da zai je muku? (سَرْمَدًا إِلَى يَوْمِ الْقِيَامَةِ مَنْ إِلَهٌ غَيْرُ اللَّهِ يَأْتِيكُم) 28:71; 28:72
+- Wanda ya aikata aiki na ƙwarai, daga namiji, kõ kuwa mace, kuma shi mũmini ne. (مَنْ عَمِلَ صَالِحًا مِّن ذَكَرٍ أَوْ أُنثَى وَهُوَ مُؤْمِنٌ) 16:97; 40:40
+- Waɗanda suke tũra daga hanyar Allah, kuma sunã nẽman ta da karkata, kuma sũ, game da lãhira. (الَّذِينَ يَصُدُّونَ عَن سَبِيلِ اللَّهِ وَيَبْغُونَهَا عِوَجًا وَهُم بِالْآخِرَةِ) 7:45; 11:19
+- Ku ci daga inda kuka so, kuma kada ku kusanci wannan itãciyar, dõmin ku kasance daga azzãlumai. (حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَذِهِ الشَّجَرَةَ فَتَكُونَا مِنَ الظَّالِمِينَ) 2:35; 7:19
+- Ka ce: "Ya mutãnẽna! Ku yi aiki a kan matsayinku, lalle ne nĩ, mai aiki ne, sa'an nan za ku sani." (قُلْ يَاقَوْمِ اعْمَلُوا عَلَى مَكَانَتِكُمْ إِنِّي عَامِلٌ فَسَوْفَ تَعْلَمُونَ) 6:135; 39:39
+- Lalle ne, mãsu hasãra, sũ ne waɗanda suka hasãtar da rãyukansu da iyãlinsu, a Rãnar ¡iyãma, ku sani. (إِنَّ الْخَاسِرِينَ الَّذِينَ خَسِرُوا أَنفُسَهُمْ وَأَهْلِيهِمْ يَوْمَ الْقِيَامَةِ أَلَا) 39:15; 42:45
+- Wanda ya shiryu, to, yanã shiryuwa dõmin kansa, kuma wanda ya ɓace, to, yanã ɓacewa dõmin kansa, kuma. (يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا وَمَا) 10:108; 39:41
+- Kuma waɗanda suka kãfirta, sunã cẽwa: "Don me ba a saukar da wata ãyã zuwa gare shi daga Ubangijinsa ba?" (وَيَقُولُ الَّذِينَ كَفَرُوا لَوْلَا أُنزِلَ عَلَيْهِ آيَةٌ مِّن رَّبِّهِ) 13:7; 13:27
+- Wanda Ya sanya muku dare, dõmin ku natsu a cikinsa, da yini, dõmin ku gani, lalle ne. (الَّذِي جَعَلَ لَكُمُ اللَّيْلَ لِتَسْكُنُوا فِيهِ وَالنَّهَارَ مُبْصِرًا إِنَّ) 10:67; 40:61
+- A gabãnin zuwan wani yini wanda bãbu ciniki a cikinsa, kuma bãbu abõta. (مِّن قَبْلِ أَن يَأْتِيَ يَوْمٌ لَّا بَيْعٌ فِيهِ وَلَا) 2:254; 14:31
+- Dõmin su yi tunãni game da abin da yake a cikin sãhibinsu, bãbu wata alãmar hauka, shi bai zama ba fãce mai gargaɗi. (يَتَفَكَّرُوا مَا بِصَاحِبِهِم مِّن جِنَّةٍ إِنْ هُوَ إِلَّا نَذِيرٌ) 7:184; 34:46
+- Sunã madawwama a cikinsu, bã zã a sauƙaƙa azãba daga gare su ba, kuma bã zã su yi jinkiri ba. (خَالِدِينَ فِيهَا لَا يُخَفَّفُ عَنْهُمُ الْعَذَابُ وَلَا هُمْ يُنظَرُونَ) 2:162; 3:88
+- Kada ka mĩƙa idãnunka zuwa ga abin da Muka jişã da shi wasu ma'aurata daga gare su. (لَا تَمُدَّنَّ عَيْنَيْكَ إِلَى مَا مَتَّعْنَا بِهِ أَزْوَاجًا مِّنْهُمْ) 15:88; 20:131
+- Kuma kada ku rage wa mutãne kãyansu, kuma kada ku yi ɓarna a cikin ƙasa, kũne mãsu ɓarna. (وَلَا تَبْخَسُوا النَّاسَ أَشْيَاءَهُمْ وَلَا تَعْثَوْا فِي الْأَرْضِ مُفْسِدِينَ) 11:85; 26:183
+- Kuma aminci yã tabbata a gare shi, a rãnar da aka haife shi, da rãnar da yake mutuwa, da rãnar da ake tãyar da shi yana rai. (وَسَلَامٌ عَلَيْهِ يَوْمَ وُلِدَ وَيَوْمَ يَمُوتُ وَيَوْمَ يُبْعَثُ حَيًّا) 19:15; 19:33
+- Ya mutãnẽna! Ku yi aiki a kan matsayinku, lalle ne nĩ, mai aiki ne, sa'an nan za ku sani wane. (يَاقَوْمِ اعْمَلُوا عَلَى مَكَانَتِكُمْ إِنِّي عَامِلٌ فَسَوْفَ تَعْلَمُونَ مَن) 6:135; 11:93
+- Kuma bã ya kasancẽwa ga wani Manzo, ya zo da wata ãyã, fãce da iznin Allah. (وَمَا كَانَ لِرَسُولٍ أَن يَأْتِيَ بِآيَةٍ إِلَّا بِإِذْنِ اللَّهِ) 13:38; 40:78
+- Sa'an nan a cika wa kõwane rai (sakamakon) abin da ya tsirfanta, kuma sũ, bã zã a zãlunce su ba. (ثُمَّ تُوَفَّى كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ) 2:281; 3:161
+- Daga namiji, kõ kuwa mace, kuma shi mũmini ne, to, waɗannan zã su shiga Aljanna. (مِن ذَكَرٍ أَوْ أُنثَى وَهُوَ مُؤْمِنٌ فَأُولَئِكَ يَدْخُلُونَ الْجَنَّةَ) 4:124; 40:40
+- Bai riƙi ɗã a ba, kuma bã ya kasancewa da abõkin tãrayya a cikin mulki. (لَمْ يَتَّخِذْ وَلَدًا وَلَمْ يَكُن لَّهُ شَرِيكٌ فِي الْمُلْكِ) 17:111; 25:2
+- Kuma wanda Allah Ya shiryar, to, shĩ ne mai shiryuwa; kuma wanda Ya ɓatar. (وَمَن يَهْدِ اللَّهُ فَهُوَ الْمُهْتَدِ وَمَن يُضْلِلْ فَلَن تَجِدَ) 17:97; 18:17
+- Ka dũba yadda suka buga maka misãlai, sai suka ɓace, sabõda haka, bã zã su iya tafiya ba. (انظُرْ كَيْفَ ضَرَبُوا لَكَ الْأَمْثَالَ فَضَلُّوا فَلَا يَسْتَطِيعُونَ سَبِيلًا) 17:48; 25:9
+- Ka ce: "Lalle ne nĩ, Inã jin tsõron azãbar wani yini mai girma, idan na sãɓa wa Ubangijina." (قُلْ إِنِّي أَخَافُ إِنْ عَصَيْتُ رَبِّي عَذَابَ يَوْمٍ عَظِيمٍ) 6:15; 39:13
+- Al'aurarsu ta bayyana a gare su, kuma suka fãra ɗinka a kansu daga ganyen Aljanna. (بَدَتْ لَهُمَا سَوْآتُهُمَا وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِن وَرَقِ الْجَنَّةِ) 7:22; 20:121
+- Kuma ku kirayi wanda kuke iyãwa, wanin Allah, idan kun kasance mãsu gaskiya. (وَادْعُوا مَنِ اسْتَطَعْتُم مِّن دُونِ اللَّهِ إِن كُنتُمْ صَادِقِينَ) 10:38; 11:13
+- Abin da ke cikin ƙasa gabã ɗaya, da misãlinsa tãre da shi, dõmin su yi fansa da shi. (مَّا فِي الْأَرْضِ جَمِيعًا وَمِثْلَهُ مَعَهُ لِيَفْتَدُوا بِهِ مِنْ) 5:36; 39:47
+- Ku riƙa abin da Muka bã ku da ƙarfi, kuma ku tuna abin da ke cikinsa, tsammãninku, kunã yin taƙawa. (خُذُوا مَا آتَيْنَاكُم بِقُوَّةٍ وَاذْكُرُوا مَا فِيهِ لَعَلَّكُمْ تَتَّقُونَ) 2:63; 7:171
+- Shin, kunã zuwa ga alfãsha, wadda babba ɗaya daga halitta bai riga ku da ita ba? (أَتَأْتُونَ الْفَاحِشَةَ مَا سَبَقَكُم بِهَا مِنْ أَحَدٍ مِّنَ الْعَالَمِينَ) 7:80; 29:28
+- Kuma Allah Yake da abin da ke cikin sammai, da abin da ke cikin ƙasa, kuma Allah Yã kasance. (وَلِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَكَانَ اللَّهُ) 4:126; 4:131
+- Mũnãnan ayyukan da suka aikata, suka shãfe su, kuma abin da suka kasance sunã izgili da shi, ya wajaba a kansu. (سَيِّئَاتُ مَا عَمِلُوا وَحَاقَ بِهِم مَّا كَانُوا بِهِ يَسْتَهْزِئُونَ) 16:34; 45:33
+- Manzo daga gare ku, yanã karanta ãyõyinMu a kanku, kuma yanã tsarkake ku, kuma yanã kõya muku Littafi da hikima. (رَسُولًا مِّنكُمْ يَتْلُو عَلَيْكُمْ آيَاتِنَا وَيُزَكِّيكُمْ وَيُعَلِّمُكُمُ الْكِتَابَ وَالْحِكْمَةَ) 2:151; 62:2
+- Daga gare shi, marmaro gõma shã biyu sunã gudãna; lalle ne, kõwane mutãne, sun san wurin shansu. (مِنْهُ اثْنَتَا عَشْرَةَ عَيْنًا قَدْ عَلِمَ كُلُّ أُنَاسٍ مَّشْرَبَهُمْ) 2:60; 7:160
+- Fãce zato, kuma lalle ne, zato bã ya amfãnar da kõme daga gaskiya. (إِلَّا ظَنًّا إِنَّ الظَّنَّ لَا يُغْنِي مِنَ الْحَقِّ شَيْئًا) 10:36; 53:28
+- Sa'an nan idan Nã daidaita shi, kuma Na hũra a cikinsa daga rũhĩNa, to, ku fãɗi a gare shi, kunã mãsu sujada. (فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ فِيهِ مِن رُّوحِي فَقَعُوا لَهُ سَاجِدِينَ) 15:29; 38:72
+- Wane ne ãƙibar gida yake a gare shi? Lalle ne, azzãlumai bã zã su ci nasara ba. (مَن تَكُونُ لَهُ عَاقِبَةُ الدَّارِ إِنَّهُ لَا يُفْلِحُ الظَّالِمُونَ) 6:135; 28:37
+- Wanda Ya halitta sammai da ƙasa, Mai ĩkon yi, Ya halitta misãlinsu. (الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ قَادِرٌ عَلَى أَن يَخْلُقَ مِثْلَهُمْ) 17:99; 36:81
+- Mũminai maza, da mũminai mãtã, (zã su shiga) gidãjen Aljanna, kõguna sunã gudãna daga ƙarƙashinsu, sunã madawwama a cikinsu. (الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 9:72; 48:5
+- Kuma lalle ne, idan ka tambaye su: "Wãne ne Ya halitta sammai da ƙasa?" Lalle ne, zã su ce: "Allah ne." Ka ce. (وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ لَيَقُولُنَّ اللَّهُ قُلِ) 31:25; 39:38
+- Kuma lalle ne, haƙĩƙa Mun buga wa mutãne a cikin wannan Alƙur'ãni, daga kõwane misãli. (وَلَقَدْ ضَرَبْنَا لِلنَّاسِ فِي هَذَا الْقُرْآنِ مِن كُلِّ مَثَلٍ) 30:58; 39:27
+- Lõkacin da ManzanninMu suka jẽ wa Lũdũ, ya yi baƙin ciki a kansu, kuma ya ƙuncẽ su, kuma ya ce. (جَاءَتْ رُسُلُنَا لُوطًا سِيءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًا وَقَالَ) 11:77; 29:33
+- Kuma a lõkacin da Muka ce wa malã'iku: "Ku yi sujada ga Ãdam." Sai suka yi sujada, fãce Iblĩs, ya ƙi. (وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا إِبْلِيسَ أَبَى) 2:34; 20:116
+- Kuma ƙasa, Mun shimfiɗa ta, kuma Mun jẽfa duwãtsu a cikinta, kuma Mun tsirar, a cikinta, daga kõwane abu. (وَالْأَرْضَ مَدَدْنَاهَا وَأَلْقَيْنَا فِيهَا رَوَاسِيَ وَأَنبَتْنَا فِيهَا مِن كُلِّ) 15:19; 50:7
+- Sunã kiran Allah, sunã tsarkake addini a gare Shi, sa'an nan a lõkacin da Ya tsĩrar da su zuwa ga ƙasa. (دَعَوُا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ فَلَمَّا نَجَّاهُمْ إِلَى الْبَرِّ) 29:65; 31:32
+- Sunã da abin sha daga ruwan zãfi, da azãba mai raɗaɗi, sabõda abin da suka kasance sunã kãfirta. (لَهُمْ شَرَابٌ مِّنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْفُرُونَ) 6:70; 10:4
+- Shin, zã mu yi kira, wanin Allah, ga abin da bã ya amfãninmu, kuma bã ya cũtar da mu? (أَنَدْعُو مِن دُونِ اللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا) 6:71; 10:106
+- Lalle ne, Allah Yanã sanin abin da ke a cikin sammai, da abin da ke a cikin ƙasa. (أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 5:97; 58:7
 """;

@@ -3000,4 +3000,149 @@ Matching Phrases 11 words
 - (Bũmb sẽn) yɩɩ ne yʋʋr sẽn pa yaa Wẽnnaam, la ned sẽn yaa ne wakɩt (kɩɩbri), sã n ka a dat n pa yɩɩg, la a ka tõe n yɩɩg, rẽ poorẽ... (أُهِلَّ لِغَيْرِ اللَّهِ بِهِ فَمَنِ اضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ) 6:145; 16:115
 - La b sẽn yeel bãmb: Tũ-y Wẽnnaam sẽn yikã, b yeel yaa: Ao, tõnd na n tũ tõnd ba-rãmba b sẽn da yaa. (وَإِذَا قِيلَ لَهُمُ اتَّبِعُوا مَا أَنزَلَ اللَّهُ قَالُوا بَلْ نَتَّبِعُ مَا) 2:170; 31:21
 - A yeel yaa: M nin-kãensã, sɩdgd Wẽnnaam; y pa tar yõod soaba sã n ka yẽ. Bɩ y ka zoet ye? (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 7:65; 23:23
+Matching Phrases 10 words
+
+- Bẽed yaaooda tẽnga pʋgẽ, la b gɛs wãn loog sẽn yaa b toɛyã sẽn da yaa a to-to. (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ) 12:109; 30:9; 30:42; 35:44; 40:82; 47:10
+- La ãnda n yaa wẽng n wʋsg paam neb nins sẽn zems ziri ne Wẽnnaam, wall yẽ n yẽesa? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا أَوْ كَذَّبَ) 6:21; 7:37; 10:17; 29:68
+- Sɩd yaa tɩ fo Soaba, Yẽ n mi wãn sẽn kɩrg yĩng n yi Yẽ sorã, la Yẽ n mi. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ مَن يَضِلُّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ) 6:117; 16:125; 53:30; 68:7
+- Yaa b pa yaaood tẽnga pʋgẽ la b pa gɛs wãn loog sẽn yaa b toɛyã sẽn da yaa a to-to? (أَوَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن) 30:9; 35:44; 40:82; 47:10
+- B tar b yɩɩbã b Soabã nengẽ, la yɛɛsa ka be b zugu, b pa yaad ye. (فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ) 2:62; 2:262; 2:274; 2:277
+- La neb nins sẽn kõt sɩd la b tʋm tʋʋma sẽn yaa sõma, b kẽes-b lame ne arzãn tẽns pʋgẽ sẽn yaa tɩ kʋl-koɛɛg yita b tẽnga. (وَأُدْخِلَ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 14:23; 22:14; 22:23; 47:12
+- A yeele: "Yam-biisã! Tũum-y Wẽnnaam tũudum, y tar soaba a to ye, y pa zoe n yɛɛsdẽ?" (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا) 7:65; 11:84; 23:23
+- B arzɛk la b kambã pa na n sõng-b ye ne bũmb fãa Wẽnnaam nengẽ, la b ninsã la. (لَن تُغْنِيَ عَنْهُمْ أَمْوَالُهُمْ وَلَا أَوْلَادُهُم مِّنَ اللَّهِ شَيْئًا وَأُولَئِكَ) 3:10; 3:116; 58:17
+- Arzãn tɛns pʋgẽ sẽn yaa tɩ kʋl-koɛɛg yita b tẽnga, b paam n kell n be bɩngre, la wãnd na n yaa arzãna. (جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَذَلِكَ الْفَوْزُ الْعَظِيمُ) 4:13; 9:89
+- Yaa b taaba b sẽn da yaa toɛyã, Naaf kʋʋm, Aad la Samuud zãms, pa wa b nengẽ? (أَلَمْ يَأْتِهِمْ نَبَأُ الَّذِينَ مِن قَبْلِهِمْ قَوْمِ نُوحٍ وَعَادٍ وَثَمُودَ) 9:70; 14:9
+- Ãnda n yaa m sõngdbã Wẽnnaam sorã zug? A tũndbã yeele: "Tõnd la Wẽnnaam sõngdbã, tõnd kõta sɩd." (مَنْ أَنصَارِي إِلَى اللَّهِ قَالَ الْحَوَارِيُّونَ نَحْنُ أَنصَارُ اللَّهِ آمَنَّا) 3:52; 61:14
+- Fo Soabã, Yẽ n mi wãn sẽn kɩrg yĩng n yi Yẽ sorã, la Yẽ n mi neb nins sẽn tũ n zems sorã. (رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ) 16:125; 68:7
+- Yaa bõe yĩng tɩ Wẽnnaam yẽ la Sɩda, la b sẽn pʋʋsdẽ tɩ pa Yẽ yaa ziri. (ذَلِكَ بِأَنَّ اللَّهَ هُوَ الْحَقُّ وَأَنَّ مَا يَدْعُونَ مِن دُونِهِ) 22:62; 31:30
+- La ned ning sẽn tũ Wẽnnaam la A Tẽnga, Wẽnnaam na n kẽes-a lame ne arzãn tɛns pʋgẽ sẽn yaa tɩ kʋl-koɛɛg yita b tẽnga. (وَمَن يُطِعِ اللَّهَ وَرَسُولَهُ يُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْtِهَا الْأَنْهَارُ) 4:13; 48:17
+- Sɩd yaa tɩ A raag-la bõn-kũum, zɩɩm, la wɛɖɛk nam, la b sẽn kʋ tɩ pa Wẽnnaam yʋʋr yĩng. (إِنَّمَا حَرَّمَ عَلَيْكُمُ الْمَيْتَةَ وَالدَّمَ وَلَحْمَ الْخِنزِيرِ وَمَا أُهِلَّ) 2:173; 16:115
+- Tɩ y ra tũ ne bumb soaba ye, Wẽnnaam, sɩd yaa tɩ mam zoe ya-b-laa ne dũni-kãngã yaoongã. (أَن لَّا تَعْبُدُوا إِلَّا اللَّهَ إِنِّي أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ) 11:26; 46:21
+- Yaa sɩd yaa zĩig sẽn ka bɛɛd gomdã, tɩ tõnd kẽed a fo, la fo pa be b sɛɛ nandẽ wakat b sẽn da ratã. (ذَلِكَ مِنْ أَنبَاءِ الْغَيْبِ نُوحِيهِ إِلَيْكَ وَمَا كُنتَ لَدَيْهِمْ إِذْ) 3:44; 12:102
+- Y vɩɩmã pa neere tɩ yãagre wa yam-biis pʋgẽ wakat ning b sẽn wa a yĩngã? (أَوَعَجِبْتُمْ أَن جَاءَكُمْ ذِكْرٌ مِّن رَّبِّكُمْ عَلَى رَجُلٍ مِّنكُمْ لِيُنذِرَكُمْ) 7:63; 7:69
+- Yeele: "Sɩd yaa tɩ b gɩd maam tɩ m ka tũ ne y sẽn pʋʋsd tɩ pa Wẽnnaamã." (قُلْ إِنِّي نُهِيتُ أَنْ أَعْبُدَ الَّذِينَ تَدْعُونَ مِن دُونِ اللَّهِ) 6:56; 40:66
+- Sã n pa yam-biis b pagbã wall b sẽn tõog ne b nugurã, tɩ bãmb pa na n yaa neb nins b sẽn na n yõog-ba. (إِلَّا عَلَى أَزْوَاجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَانُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ) 23:6; 70:30
+- Yaa bõe yĩng tɩ Wẽnnaam kẽed yʋng ne wĩntoogã, la A kẽed wĩntoog ne yʋngã. (بِأَنَّ اللَّهَ يُولِجُ اللَّيْلَ فِي النَّهَارِ وَيُولِجُ النَّهَارَ فِي اللَّيْلِ) 22:61; 31:29
+- Bugum, la a yeel a yirã: "Gũus-y, sɩd yaa tɩ mam yã bugum, sãmb n yaa tɩ mam na n wa ne yãmb bũmb a ye." (نَارًا فَقَالَ لِأَهْلِهِ امْكُثُوا إِنِّي آنَسْتُ نَارًا لَّعَلِّي آتِيكُم مِّنْهَا) 20:10; 28:29
+- A yeele: "Mam yaa a tɩ yɩɩd-a lame, Fo naan maam ne bugum, la a naan-a ne tẽnga." (قَالَ أَنَا خَيْرٌ مِّنْهُ خَلَقْتَنِي مِن نَّارٍ وَخَلَقْتَهُ مِن طِينٍ) 7:12; 38:76
+- La b sã n yeel-b lame: "Wa-y ne Wẽnnaam sẽn sikã, la ne A Tẽnga." (وَإِذَا قِيلَ لَهُمْ تَعَالَوْا إِلَى مَا أَنزَلَ اللَّهُ وَإِلَى الرَّسُولِ) 4:61; 5:104
+- La y ra yɩɩd yɛɛs ne b yĩnga, la y ra tʋʋm yamã tɩ b raatã. (وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُ فِي ضَيْقٍ مِّمَّا يَمْكُرُونَ) 16:127; 27:70
+- Sã n yaa tɩ Wẽnnaam maand foom ne bẽẽg a ye, baa a ye ka tõe n viise a ye, sã n yaa. (وَإِن يَمْسَسْكَ اللَّهُ بِضُرٍّ فَلَا كَاشِفَ لَهُ إِلَّا هُوَ وَإِن) 6:17; 10:107
+- B toɛyã rãmba sẽn yaa tɩ b zĩnd b zĩigã pʋgẽ, sɩd yaa tɩ yel-bũnna yaa be. (قَبْلَهُم مِّنَ الْقُرُونِ يَمْشُونَ فِي مَسَاكِنِهِمْ إِنَّ فِي ذَلِكَ لَآيَاتٍ) 20:128; 32:26
+- La tõnd naan kãb-biis b sũyã zugu, tɩ b ra tõe n gom-ba, la b tubdã pʋgẽ gũmbi, la sã n yaa. (وَجَعَلْنَا عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا وَإِن) 6:25; 18:57
+- B tẽngdbã wa ne b sẽn yaa a vẽenegã, la Wẽnnaam da pa yaa ned ning sẽn na n maan-b wẽng ye, la bãmb la b sẽn maand b mensẽ wẽnga. (رُسُلُهُم بِالْبَيِّنَاتِ فَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ وَلَكِن كَانُوا أَنفُسَهُمْ يَظْلِمُونَ) 9:70; 30:9
+- La tẽnga zug, la y tar sor-biis a to ye, wall sõngda a to ye, sã n yaa pa Wẽnnaam. (وَالْأَرْضِ وَمَا لَكُم مِّن دُونِ اللَّهِ مِن وَلِيٍّ وَلَا نَصِيرٍ) 2:107; 42:31
+- Rũndã-rũndã b na n lebis yãmb lame ne sẽn mi bõn-sõng la bõn-vẽenegã, la A na n wilg yãmb bũmb ning y sẽn da maandã. (ثُمَّ تُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ) 9:94; 62:8
+- Yʋngã, tɩ y vʋʋsg ne-a, la wĩntoogã, tɩ y ne, sɩd yaa tɩ yel-bũnna bee be, ne neb nins sẽn tẽegdã. (اللَّيْلَ لِتَسْكُنُوا فِيهِ وَالنَّهَارَ مُبْصِرًا إِنَّ فِي ذَلِكَ لَآيَاتٍ لِّقَوْمٍ) 10:67; 27:86
+- La b sẽn sik fo ne fo Soabã, na n yɩɩga neb wʋsg b tẽnga wẽng la b kõn tũ Wẽnnaam ye. (وَلَيَزِيدَنَّ كَثِيرًا مِّنْهُم مَّا أُنزِلَ إِلَيْكَ مِن رَّبِّكَ طُغْيَانًا وَكُفْرًا) 5:64; 5:68
+- A yeele: "Yam-biisã! Y ninga yamã, sã n yaa tɩ mam bee ne vẽenega sẽn yi fo Soabã nengẽ, la A kõ maam." (قَالَ يَاقَوْمِ أَرَأَيْتُمْ إِن كُنتُ عَلَى بَيِّنَةٍ مِّن رَّبِّي وَآتَانِي) 11:28; 11:63
+- La b yeele: "Bõe yĩng tɩ b pa sik yel-soaba a ye ne a Soabã?" Yeele: "Sɩd yaa tɩ." (وَيَقُولُونَ لَوْلَا أُنزِلَ عَلَيْهِ آيَةٌ مِّن رَّبِّهِ فَقُلْ إِنَّمَا) 10:20; 29:50
+- Dũni-kãngã wa n ta paasã, tɩ ka bõe sẽn tõe n kɩɩs a ye, b sẽn yi Wẽnnaam nengẽ. (مِن قَبْلِ أَن يَأْتِيَ يَوْمٌ لَّا مَرَدَّ لَهُ مِنَ اللَّهِ) 30:43; 42:47
+- Yaa Wẽnnaam yɩɩbã yaa a sẽn kõ ned ning a sẽn ratã, la Wẽnnaam yaa yɩɩbã Soab sẽn yaa a sẽn yaa a sẽn yaa a sẽn yaa. (ذَلِكَ فَضْلُ اللَّهِ يُؤْتِيهِ مَن يَشَاءُ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ) 57:21; 62:4
+- La sɩd yaa tɩ bõn-naagsã pʋgẽ yel-willã bee ne yãmb, tõnd sɩd yaa tɩ d kõo y kõom b sẽn be b pʋgẽ. (وَإِنَّ لَكُمْ فِي الْأَنْعَامِ لَعِبْرَةً نُّسْقِيكُم مِّمَّا فِي بُطُونِهِ) 16:66; 23:21
+- Yaa sɩda sẽn yi b Soabã nengẽ, la Wẽnnaam ka yaa ned ning sẽn yĩn b sẽn maandã. (أَنَّهُ الْحَقُّ مِن رَّبِّهِمْ وَمَا اللَّهُ بِغَافِلٍ عَمَّا يَعْمَلُونَ) 2:144; 2:149
+- B taoore la b poorẽ, tɩ y ra tũ ne bumb soaba ye, Wẽnnaam. (مِن بَيْنِ أَيْدِيهِمْ وَمِنْ خَلْفِهِمْ أَلَّا تَعْبُدُوا إِلَّا اللَّهَ) 41:14; 46:21
+- Sɩd yaa tɩ y kolgd raoaba ne rũndã, y base pagba, la yãmb yaa nin-kãens sẽn tɩrg tẽnga. (إِنَّكُمْ لَتَأْتُونَ الرِّجَالَ شَهْوَةً مِّن دُونِ النِّسَاءِ بَلْ أَنتُمْ قَوْمٌ) 7:81; 27:55
+- B na n kell n be bɩngre, tɩ saas la tẽnga kell, sã n yaa pa fo Soabã sẽn ratã. (خَالِدِينَ فِيهَا مَا دَامَتِ السَّمَاوَاتُ وَالْأَرْضُ إِلَّا مَا شَاءَ رَبُّكَ) 11:107; 11:108
+- Nin-kãens sẽn be saasã pʋgẽ la tẽnga zugu, sã n yaa pa ned ning Wẽnnaam sẽn ratã. (مَن فِي السَّمَاوَاتِ وَمَن فِي الْأَرْضِ إِلَّا مَن شَاءَ اللَّهُ) 27:87; 39:68
+- B na n maan-b lame ne wanzɩɩm sẽn yaa zãfa la kug-kãens sẽn yaa a sẽn yaa a sẽn yaa, la b sẽn yaa a sẽn yaa. (يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِن ذَهَبٍ وَلُؤْلُؤًا وَلِبَاسُهُمْ فِيهَا حَرِيرٌ) 22:23; 35:33
+- La A sika koom sẽn yi saasẽ, la A yiis-a ne biisã tɩ y rɩɩg bɩ. (وَأنزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجَ بِهِ مِنَ الثَّمَرَاتِ رِزْقًا لَّكُمْ) 2:22; 14:32
+- La wakat ning tõnd sẽn yiis y ne pʋlengã, la tõnd zẽk tãngã zu-lukã, yãmb zug: "Bãs-y tõnd sẽn kõ yãmbã ne pãnga." (وَإِذْ أَخَذْنَا مِيثَاقَكُمْ وَرَفَعْنَا فَوْقَكُمُ الطُّورَ خُذُوا مَا آتَيْنَاكُم بِقُوَّةٍ) 2:63; 2:93
+- La a leb n yi b nengẽ la a yeele: "Yam-biisã! Sɩd yaa tɩ mam sik yãmb ne m Soabã tẽngrã, la mam sẽn kõ yãmb sẽn yaa sõma." (فَتَوَلَّى عَنْهُمْ وَقَالَ يَاقَوْمِ لَقَدْ أَبْلَغْتُكُمْ رِسَالَةَ رَبِّي وَنَصَحْتُ لَكُمْ) 7:79; 7:93
+- Kʋl-koɛɛg yita b tẽnga, b na n maan-b lame ne wanzɩɩm sẽn yaa zãfa. (تَجْرِي مِن تَحْتِهِمُ الْأَنْهَارُ يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِن ذَهَبٍ) 18:31; 22:23
+- Sã n yaa tɩ b tar bũmb sẽn yaa tẽnga zugu fãa, la a sẽn yaa a sẽn yaa, tɩ b na n kʋd b mens ne-a. (لَوْ أَنَّ لَهُم مَّا فِي الْأَرْضِ جَمِيعًا وَمِثْلَهُ مَعَهُ لِيَفْتَدُوا) 5:36; 13:18
+- Bõn-zaamsã ka ye, la A na n yals-b lame n tɩ tãag wakat ning b sẽn pʋlã, la wakat ning b sẽn tɩ tãagã. (مِن دَابَّةٍ وَلَكِن يُؤَخِّرُهُمْ إِلَى أَجَلٍ مُّسَمًّى فَإِذَا جَاءَ أَجَلُهُمْ) 16:61; 35:45
+- Tõnd naan yãmb ne tẽnga, dẽ, ne koom sẽn yi raoodã, dẽ, ne zɩɩm sẽn yaa zĩiga, dẽ. (خَلَقْنَاكُم مِّن تُرَابٍ ثَّمَّ مِن نُّطْفَةٍ ثَّمَّ مِنْ عَلَقَةٍ ثَّمَّ) 22:5; 40:67
+- Wẽnnaam na n bʋgd b sʋkã ne yikri dũni-kãngã, ne b sẽn da zoodã. (فَاللَّهُ يَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 2:113; 22:69
+- Bãngr wa ne fo, la fo tar sor-biis a to ye, sẽn yi Wẽnnaam nengẽ. (جَاءَكَ مِنَ الْعِلْمِ مَا لَكَ مِنَ اللَّهِ مِن وَلِيٍّ وَلَا) 2:120; 13:37
+- La tõnd sã n maan nin-buiid ne yɩɩbã, a lebd a yaoolem n kẽnga, la bõn-wẽng sã n paam-a. (وَإِذَا أَنْعَمْنَا عَلَى الْإِنسَانِ أَعْرَضَ وَنَأَى بِجَانِبِهِ وَإِذَا مَسَّهُ الشَّرُّ) 17:83; 41:51
+- La bũmb sẽn yaa a sẽn yaa a sẽn yaa, sã n yaa pa b sẽn be Gaf-vẽenega pʋgẽ. (وَلَا أَصْغَرَ مِن ذَلِكَ وَلَا أَكْبَرَ إِلَّا فِي كِتَابٍ مُّبِينٍ) 10:61; 34:3
+
+Matching Phrases 9 words
+
+- La a yeele: "Yam-biisã! Tũum-y Wẽnnaam tũudum, y tar soaba a to ye." (فَقَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ) 7:59; 7:65; 7:73; 7:85; 11:50; 11:61; 11:84; 23:23
+- Yaa b pa yaaood tẽnga pʋgẽ la b pa gɛs wãn loog sẽn yaa b toɛyã sẽn da yaa a to-to? (أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ) 12:109; 30:9; 35:44; 40:21; 40:82; 47:10
+- B yɩɩbã be b Soabã nengẽ, la yɛɛsa ka be b zugu, b pa yaad ye. (أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ) 2:62; 2:112; 2:262; 2:274; 2:277
+- Bẽed yaaooda tẽnga pʋgẽ, la b gɛs wãn loog sẽn yaa b toɛyã sẽn da yaa a to-to. (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن) 30:9; 30:42; 35:44; 40:82; 47:10
+- Tẽnga pʋgẽ, la b gɛs wãn loog sẽn yaa b toɛyã sẽn da yaa a to-to. (فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ) 30:9; 30:42; 35:44; 40:82; 47:10
+- La ãnda n yaa wẽng n wʋsg paam neb nins sẽn zems ziri ne Wẽnnaam, wall yẽ n yẽesa? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا أَوْ) 6:21; 6:93; 7:37; 10:17; 29:68
+- La Wẽnnaam sã n yãk yel-bũmb a ye, A yeel-a lame: "Yɩ!" la a yɩɩta. (وَإِذَا قَضَى أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُن فَيَكُونُ) 2:117; 3:47; 19:35; 40:68
+- La y tar sor-biis a to ye, wall sõngda a to ye, sã n yaa pa Wẽnnaam. (وَمَا لَكُم مِّن دُونِ اللَّهِ مِن وَلِيٍّ وَلَا نَصِيرٍ) 2:107; 9:116; 29:22; 42:31
+- Sɩd yaa tɩ mam na n yabs-b b tʋʋm-beedã, la m na n kẽes-b ne arzãn tɛns pʋgẽ sẽn yaa tɩ kʋl-koɛɛg yita b tẽnga. (لَأُكَفِّرَنَّ عَنْهُمْ سَيِّئَاتِهِمْ وَلَأُدْخِلَنَّهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 3:195; 5:12; 64:9; 66:8
+- D na n kẽes-b lame ne arzãn tɛns pʋgẽ sẽn yaa tɩ kʋl-koɛɛg yita b tẽnga, b na n kell n be bɩngre. (سَنُدْخِلُهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا) 4:57; 4:122; 64:9; 65:11
+- Fo Soabã, Yẽ n mi wãn sẽn kɩrg yĩng n yi Yẽ sorã, la Yẽ n mi. (رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ) 16:125; 53:30; 68:7
+- B na n lebis yãmb lame ne sẽn mi bõn-sõng la bõn-vẽenegã, la A na n wilg yãmb bũmb ning y sẽn da maandã. (تُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ) 9:94; 9:105; 62:8
+- B kʋ y kambã, la b bas y pagbã tɩ b vɩɩm, la yel-bũn-kãngã pʋgẽ yɩɩbã bee, sẽn yi y Soabã nengẽ. (أَبْنَاءَكُمْ وَيَسْتَحْيُونَ نِسَاءَكُمْ وَفِي ذَلِكُم بَلَاءٌ مِّن رَّبِّكُمْ عَظِيمٌ) 2:49; 7:141; 14:6
+- Sɩd yaa tɩ fo Soaba, Yẽ n mi wãn sẽn kɩrg yĩng n yi Yẽ sorã, la Yẽ. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ) 16:125; 53:30; 68:7
+- Wẽnnaam, A sẽn tar bũmb sẽn be saasã pʋgẽ la tẽnga zugu. (اللَّهِ الَّذِي لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 14:2; 34:1; 42:53
+- Zãms wʋsg sẽn yaa toɛyã, b sẽn yi yĩngã, ne yensã la nin-buiidã. (فِي أُمَمٍ قَدْ خَلَتْ مِن قَبْلِكُم مِّنَ الْجِنِّ وَالْإِنسِ) 7:38; 41:25; 46:18
+- Tũum-y Wẽnnaam tũudum, y tar soaba a to ye, y pa zoe n yɛɛsdẽ? (اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 7:65; 23:23; 23:32
+- La tõnd naan kãb-biis b sũyã zugu, tɩ b ra tõe n gom-ba, la b tubdã pʋgẽ gũmbi. (وَجَعَلْنَا عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا) 6:25; 17:46; 18:57
+- A na n bʋgd b sʋkã ne yikri dũni-kãngã, ne b sẽn da zoodã. (يَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 2:113; 16:124; 22:69
+- A yeele: "Yam-biisã! Y ninga yamã, sã n yaa tɩ mam bee ne vẽenega sẽn yi fo Soabã nengẽ?" (قَالَ يَاقَوْمِ أَرَأَيْتُمْ إِن كُنتُ عَلَى بَيِّنَةٍ مِّن رَّبِّي) 11:28; 11:63; 11:88
+- Yaa bũmb sẽn yaa tɩ y nug-rɩsã tʋm taoorã yĩnga, la Wẽnnaam ka yaa ned ning sẽn na n maan tʋm-tʋmdã wẽnga. (ذَلِكَ بِمَا قَدَّمَتْ أَيْدِيكُمْ وَأَنَّ اللَّهَ لَيْسَ بِظَلَّامٍ لِّلْعَبِيدِ) 3:182; 8:51; 22:10
+- B tar yaoolem dũni-paalgã pʋgẽ, la b tar yaoolem a to a soabã pʋgẽ. (لَهُمْ فِي الدُّنْيَا خِزْيٌ وَلَهُمْ فِي الْآخِرَةِ عَذَابٌ عَظِيمٌ) 2:114; 5:41
+- Bũmb sẽn be saasã pʋgẽ la tẽnga zugu, la Wẽnnaam yaa a sẽn yaa a sẽn yaa. (مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَكَفَى بِاللَّهِ وَكِيلًا) 4:132; 4:171
+- Sã n yaa neb nins sẽn kõt sɩd la b tʋm tʋʋma sẽn yaa sõma, b tar yɩɩb sẽn ka sɩngr ye. (إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ) 84:25; 95:6
+- Tɩ y ra maan maam ne bũmb sẽn yaa tɩ y ka bãng ye, bõnd y ra tũ b ye. (لِتُشْرِكَ بِي مَا لَيْسَ لَكَ بِهِ عِلْمٌ فَلَا تُطِعْهُمَا) 29:8; 31:15
+- Sɩd yaa tɩ yaa yãagre, la ned ning sẽn ratã, tõe n tũ sor n kẽng a Soabã nengẽ. (إِنَّ هَذِهِ تَذْكِرَةٌ فَمَن شَاءَ اتَّخَذَ إِلَى رَبِّهِ سَبِيلًا) 73:19; 76:29
+- La ned ning sẽn paoogd, yaa a mens yĩnga la a paooda, la ned ning sẽn yẽesd. (وَمَن شَكَرَ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِ وَمَن كَفَرَ فَإِنَّ) 27:40; 31:12
+- Neb nins sẽn tũud pʋʋsgã, la b kõt zaka, la b sɩd kõta sɩd ne dũni-paalgã. (الَّذِينَ يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُم بِالْآخِرَةِ هُمْ يُوقِنُونَ) 27:3; 31:4
+- Ibrahima, Isma'ila, Is'haka, Ya'kuba, la b buudã, la b sẽn kõ Mousa la Issa. (إِبْرَاهِيمَ وَإِسْمَاعِيلَ وَإِسْحَاقَ وَيَعْقُوبَ وَالْأَسْبَاطِ وَمَا أُوتِيَ مُوسَى وَعِيسَى) 2:136; 3:84
+- B tig-b n tig, tɩ b tɩ tãag-a, tɩ b pak-a, la b gũdbã yeele. (زُمَرًا حَتَّى إِذَا جَاءُوهَا فُتِحَتْ أَبْوَابُهَا وَقَالَ لَهُمْ خَزَنَتُهَا) 39:71; 39:73
+- Wẽnnaam ka na n sɩng yãmb ne y kãsã sẽn yaa yɛl-bũmb sẽn ka, la A na n sɩng yãmb. (لَّا يُؤَاخِذُكُمُ اللَّهُ بِاللَّغْوِ فِي أَيْمَانِكُمْ وَلَكِن يُؤَاخِذُكُم بِمَا) 2:225; 5:89
+- Yɩɩbã, b sũur noom ne-a, la sã n yaa tɩ bõn-wẽng paam-b b sẽn tʋm ne b nug-rɩsã yĩnga. (رَحْمَةً فَرِحُوا بِهَا وَإِن تُصِبْهُمْ سَيِّئَةٌ بِمَا قَدَّمَتْ أَيْدِيهِمْ) 30:36; 42:48
+- Arzãn tɛns pʋgẽ sẽn yaa tɩ kʋl-koɛɛg yita b tẽnga, b na n kell n be bɩngre, la tʋm-tʋmdã yɩɩbã sõma wʋsg. (تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَنِعْمَ أَجْرُ الْعَامِلِينَ) 3:136; 29:58
+- Wẽnnaam mi bũmb sẽn be saasã pʋgẽ la tẽnga zugu, la Wẽnnaam. (اللَّهُ وَيَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَاللَّهُ) 3:29; 49:16
+- Tũum-y Wẽnnaam, la tũum-y A Tẽnga, la sã n yaa tɩ y lebg yaoolem, tɩ yaa ne-a. (أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ فَإِن تَوَلَّوْا فَإِنَّمَا عَلَيْهِ) 24:54; 64:12
+- B tar b yɩɩbã b Soabã nengẽ, la yɛɛsa ka be b zugu, la b. (فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ) 2:274; 2:277
+- La b yeele: "Sã n yaa tɩ d yɩɩ kũbã la tẽng-biigã, d na n yik la d yaa bõn-paals a to?" (وَقَالُوا أَإِذَا كُنَّا عِظَامًا وَرُفَاتًا أَإِنَّا لَمَبْعُوثُونَ خَلْقًا جَدِيدًا) 17:49; 17:98
+- La b ka tõe n yã sor-biis a to ne b mensã, wall sõngda a to, sã n yaa pa Wẽnnaam. (وَلَا يَجِدُونَ لَهُم مِّن دُونِ اللَّهِ وَلِيًّا وَلَا نَصِيرًا) 4:173; 33:17
+- "Y zĩnd zĩig bʋng?" A yeele: "Mam zĩnd dũni a ye wall dũni a ye sigla." A yeele. (كَمْ لَبِثْتَ قَالَ لَبِثْتُ يَوْمًا أَوْ بَعْضَ يَوْمٍ قَالَ) 2:259; 18:19
+- Tɩ paas dũni-kãngã, ãnda n yaa soab sẽn tõe n wa ne yãmb sã n yaa pa Wẽnnaam? (سَرْمَدًا إِلَى يَوْمِ الْقِيَامَةِ مَنْ إِلَهٌ غَيْرُ اللَّهِ يَأْتِيكُم) 28:71; 28:72
+- Ned ning sẽn tʋm tʋʋm sẽn yaa sõma, rao wall paga, tɩ yẽ yaa sɩd-kõtba. (مَنْ عَمِلَ صَالِحًا مِّن ذَكَرٍ أَوْ أُنثَى وَهُوَ مُؤْمِنٌ) 16:97; 40:40
+- Neb nins sẽn gɩsd Wẽnnaam sorã, la b baood tɩ yẽk-a, la bãmb dũni-paalgã. (الَّذِينَ يَصُدُّونَ عَن سَبِيلِ اللَّهِ وَيَبْغُونَهَا عِوَجًا وَهُم بِالْآخِرَةِ) 7:45; 11:19
+- Dɩ-y zĩig ning y sẽn datã, la y ra kẽng tɩɩg-kãngã pʋgẽ ye, tɩ y yɩ wẽnma. (حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَذِهِ الشَّجَرَةَ فَتَكُونَا مِنَ الظَّالِمِينَ) 2:35; 7:19
+- Yeele: "Yam-biisã! Tʋm-y tʋʋm ne y zĩigrã, mam me tʋmda, la y na n bãnga." (قُلْ يَاقَوْمِ اعْمَلُوا عَلَى مَكَانَتِكُمْ إِنِّي عَامِلٌ فَسَوْفَ تَعْلَمُونَ) 6:135; 39:39
+- Sɩd yaa tɩ bõn-sãngdbã la b sẽn sãng b mensã la b yirã, dũni-kãngã yaoongã, bõn-kãng. (إِنَّ الْخَاسِرِينَ الَّذِينَ خَسِرُوا أَنفُسَهُمْ وَأَهْلِيهِمْ يَوْمَ الْقِيَامَةِ أَلَا) 39:15; 42:45
+- Ned ning sẽn tũ sorã, yaa a mens yĩnga, la ned ning sẽn kɩrgã, yaa a mens yĩnga, la. (يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا وَمَا) 10:108; 39:41
+- La neb nins sẽn kõn tũ Wẽnnaam ye yeele: "Bõe yĩng tɩ b pa sik yel-soaba a ye ne a Soabã?" (وَيَقُولُ الَّذِينَ كَفَرُوا لَوْلَا أُنزِلَ عَلَيْهِ آيَةٌ مِّن رَّبِّهِ) 13:7; 13:27
+- Ned ning sẽn maan yʋngã, tɩ y zĩnd ne-a, la wĩntoogã, tɩ y ne, sɩd yaa. (الَّذِي جَعَلَ لَكُمُ اللَّيْلَ لِتَسْكُنُوا فِيهِ وَالنَّهَارَ مُبْصِرًا إِنَّ) 10:67; 40:61
+- Dũni-kãngã wa n ta paasã, tɩ ka koεy wall zood a to be a pʋgẽ. (مِّن قَبْلِ أَن يَأْتِيَ يَوْمٌ لَّا بَيْعٌ فِيهِ وَلَا) 2:254; 14:31
+- Tɩ b tẽeg tɩ b tẽng-nanã yaa ne yãgda, tɩ yaa yãagre. (يَتَفَكَّرُوا مَا بِصَاحِبِهِم مِّن جِنَّةٍ إِنْ هُوَ إِلَّا نَذِيرٌ) 7:184; 34:46
+- B na n kell n be bɩngre, b pa na n zems b zugu, b pa na n gũus b ye. (خَالِدِينَ فِيهَا لَا يُخَفَّفُ عَنْهُمُ الْعَذَابُ وَلَا هُمْ يُنظَرُونَ) 2:162; 3:88
+- Y ra yɩɩg y nimbã n ges ne bũmb ning tõnd sẽn kõ bɛɛb a ye wakat ning b sẽn da bebe. (لَا تَمُدَّنَّ عَيْنَيْكَ إِلَى مَا مَتَّعْنَا بِهِ أَزْوَاجًا مِّنْهُمْ) 15:88; 20:131
+- La y ra yɩɩsd nin-buiid b arzɛkã pʋgẽ ye, la y ra tʋʋmd tẽnga zug wẽng ye. (وَلَا تَبْخَسُوا النَّاسَ أَشْيَاءَهُمْ وَلَا تَعْثَوْا فِي الْأَرْضِ مُفْسِدِينَ) 11:85; 26:183
+- La tẽngr be a zugu dũni a sẽn dogã, la dũni a sẽn kĩigã, la dũni b sẽn na n yik-a n yɩ vɩɩmdã. (وَسَلَامٌ عَلَيْهِ يَوْمَ وُلِدَ وَيَوْمَ يَمُوتُ وَيَوْمَ يُبْعَثُ حَيًّا) 19:15; 19:33
+- Yam-biisã! Tʋm-y tʋʋm ne y zĩigrã, mam me tʋmda, la y na n bãnga ned ning. (يَاقَوْمِ اعْمَلُوا عَلَى مَكَانَتِكُمْ إِنِّي عَامِلٌ فَسَوْفَ تَعْلَمُونَ مَن) 6:135; 11:93
+- La pa yaa tʋm-tʋmd ning fãa tɩ a wa ne yel-soaba, sã n yaa pa ne Wẽnnaam yamã. (وَمَا كَانَ لِرَسُولٍ أَن يَأْتِيَ بِآيَةٍ إِلَّا بِإِذْنِ اللَّهِ) 13:38; 40:78
+- Dẽ, b na n kõ vɩɩm fãa a sẽn tʋmã, la b pa na n maan-b wẽng ye. (ثُمَّ تُوَفَّى كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ) 2:281; 3:161
+- Rao wall paga, tɩ yẽ yaa sɩd-kõtba, b na n kẽes-b lame ne arzãnã. (مِن ذَكَرٍ أَوْ أُنثَى وَهُوَ مُؤْمِنٌ فَأُولَئِكَ يَدْخُلُونَ الْجَنَّةَ) 4:124; 40:40
+- A yi ka bi a ye, la ka sor-bii a ye be ne a soabã pʋgẽ. (لَمْ يَتَّخِذْ وَلَدًا وَلَمْ يَكُن لَّهُ شَرِيكٌ فِي الْمُلْكِ) 17:111; 25:2
+- La ned ning Wẽnnaam sẽn kẽneg-a, yaa yẽ n yaa a sẽn kẽn-gã, la ned ning A sẽn kɩrg-a. (وَمَن يَهْدِ اللَّهُ فَهُوَ الْمُهْتَدِ وَمَن يُضْلِلْ فَلَن تَجِدَ) 17:97; 18:17
+- Ges-y wãn to wãn b sẽn maan yele-bũnna, la b kɩrg, la b ka tõe n yã sorã ye. (انظُرْ كَيْفَ ضَرَبُوا لَكَ الْأَمْثَالَ فَضَلُّوا فَلَا يَسْتَطِيعُونَ سَبِيلًا) 17:48; 25:9
+- Yeele: "Sɩd yaa tɩ mam zoe la a taoorã, sã n yaa tɩ mam kɩɩs m Soabã, ne dũni-kãngã yaoongã." (قُلْ إِنِّي أَخَافُ إِنْ عَصَيْتُ رَبِّي عَذَابَ يَوْمٍ عَظِيمٍ) 6:15; 39:13
+- B yɩtood tõog b yĩnga, la b sɩng n lakd b mens ne arzãn tɩɩsã. (بَدَتْ لَهُمَا سَوْآتُهُمَا وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِن وَرَقِ الْجَنَّةِ) 7:22; 20:121
+- La y bool-y b sẽn tõe, tɩ pa Wẽnnaam, sã n yaa tɩ y yaa bɩɩd tɩ yaa. (وَادْعُوا مَنِ اسْتَطَعْتُم مِّن دُونِ اللَّهِ إِن كُنتُمْ صَادِقِينَ) 10:38; 11:13
+- Bũmb sẽn yaa tẽnga zugu fãa, la a sẽn yaa a sẽn yaa, tɩ b na n kʋd b mens ne-a. (مَّا فِي الْأَرْضِ جَمِيعًا وَمِثْلَهُ مَعَهُ لِيَفْتَدُوا بِهِ مِنْ) 5:36; 39:47
+- Bãs-y tõnd sẽn kõ yãmbã ne pãnga, la y tẽeg bũmb sẽn be a pʋgẽ, sɩd yaa tɩ y zoe. (خُذُوا مَا آتَيْنَاكُم بِقُوَّةٍ وَاذْكُرُوا مَا فِيهِ لَعَلَّكُمْ تَتَّقُونَ) 2:63; 7:171
+- Y kolgd wẽng sẽn yaa a sẽn yaa tɩ baa a ye ka da tʋm taoor ye? (أَتَأْتُونَ الْفَاحِشَةَ مَا سَبَقَكُم بِهَا مِنْ أَحَدٍ مِّنَ الْعَالَمِينَ) 7:80; 29:28
+- La Wẽnnaam tara bũmb sẽn be saasã pʋgẽ la tẽnga zugu, la Wẽnnaam yaa. (وَلِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَكَانَ اللَّهُ) 4:126; 4:131
+- B tʋʋm-beedã sã n wa b zugu, la b sẽn da maandã sẽn yaa a sẽn yaa, b paam. (سَيِّئَاتُ مَا عَمِلُوا وَحَاقَ بِهِم مَّا كَانُوا بِهِ يَسْتَهْزِئُونَ) 16:34; 45:33
+- Tẽng-nan a ye, sẽn yi y sʋka, a karemd tõnd aayã ne yãmb, la a sɩɩgd yãmb, la a wilsd yãmb Gafã la yamã. (رَسُولًا مِّنكُمْ يَتْلُو عَلَيْكُمْ آيَاتِنَا وَيُزَكِّيكُمْ وَيُعَلِّمُكُمُ الْكِتَابَ وَالْحِكْمَةَ) 2:151; 62:2
+- A pʋgẽ kʋl-koɛɛg a piig la a yiib yita, la zãms fãa mi a koom zĩigã. (مِنْهُ اثْنَتَا عَشْرَةَ عَيْنًا قَدْ عَلِمَ كُلُّ أُنَاسٍ مَّشْرَبَهُمْ) 2:60; 7:160
+- Sã n yaa pa sẽn tẽedẽ, la sẽn tẽed ka sõng bũmb a ye. (إِلَّا ظَنًّا إِنَّ الظَّنَّ لَا يُغْنِي مِنَ الْحَقِّ شَيْئًا) 10:36; 53:28
+- Sã n yaa tɩ mam na n tɩ tɩg-a, la m foog-a ne m sũurã, bɩ y kʋd y mens ne-a. (فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ فِيهِ مِن رُّوحِي فَقَعُوا لَهُ سَاجِدِينَ) 15:29; 38:72
+- Ned ning tɩ yaa yẽ n na n paam roogã yikrã? Sɩd yaa tɩ wẽn-mãandbã pa na n yɩɩl ye. (مَن تَكُونُ لَهُ عَاقِبَةُ الدَّارِ إِنَّهُ لَا يُفْلِحُ الظَّالِمُونَ) 6:135; 28:37
+- Ned ning sẽn naan saasã la tẽngã, tõe n maan b sẽn yaa wãna. (الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ قَادِرٌ عَلَى أَن يَخْلُقَ مِثْلَهُمْ) 17:99; 36:81
+- Sɩd-kõtba raba la sɩd-kõtba paga, arzãn tɛns pʋgẽ sẽn yaa tɩ kʋl-koɛɛg yita b tẽnga, b na n kell n be bɩngre. (الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 9:72; 48:5
+- La sã n yaa tɩ y kos-ba, ned ning n naan saasã la tẽngã, b na n yeele: "Wẽnnaam." Yeele. (وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ لَيَقُولُنَّ اللَّهُ قُلِ) 31:25; 39:38
+- La sɩd yaa tɩ tõnd maan yele-bũnna ne nin-buiidã Qorãan-kãngã pʋgẽ. (وَلَقَدْ ضَرَبْنَا لِلنَّاسِ فِي هَذَا الْقُرْآنِ مِن كُلِّ مَثَلٍ) 30:58; 39:27
+- La wakat ning tõnd tẽngdbã sẽn wa Lutu sɛɛ, a sũur yaa wẽng, la a kɩrgs, la a yeele. (جَاءَتْ رُسُلُنَا لُوطًا سِيءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًا وَقَالَ) 11:77; 29:33
+- La wakat ning tõnd sẽn yeel malɛgsã: "Kʋd-y y mens ne Adam," b kʋd b mens, sã n yaa Iblisa, a yẽesa. (وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا إِبْلِيسَ أَبَى) 2:34; 20:116
+- La tẽnga tõnd yell-a, la tõnd lob tãnga a pʋgẽ, la tõnd yiis a pʋgẽ bũmb a to. (وَالْأَرْضَ مَدَدْنَاهَا وَأَلْقَيْنَا فِيهَا رَوَاسِيَ وَأَنبَتْنَا فِيهَا مِن كُلِّ) 15:19; 50:7
+- B bool Wẽnnaam, b sũur yaa a yĩnga, la wakat ning a sẽn fãag-b tɩ b tɩ tẽnga zugã. (دَعَوُا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ فَلَمَّا نَجَّاهُمْ إِلَى الْبَرِّ) 29:65; 31:32
+- B tar koom sẽn yi bugumã, la yaoolem sẽn yaa, b sẽn yẽesã yĩnga. (لَهُمْ شَرَابٌ مِّنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْفُرُونَ) 6:70; 10:4
+- D bool bũmb sẽn pa Wẽnnaam, sẽn pa sõng-d, la pa maan-d wẽng ye? (أَنَدْعُو مِن دُونِ اللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا) 6:71; 10:106
+- Wẽnnaam mi bũmb sẽn be saasã pʋgẽ la tẽnga zugu. (أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 5:97; 58:7
 """;

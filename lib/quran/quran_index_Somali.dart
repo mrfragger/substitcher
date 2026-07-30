@@ -3019,4 +3019,146 @@ Matching Phrases 11 words
 - (Waxa) loo qalay gaar aan Allaah ahayn, laakiin qof lagu qasbo (gaajo awgeed), isagoo aan xadgudbin ama dhaafin, markaas... (أُهِلَّ لِغَيْرِ اللَّهِ بِهِ فَمَنِ اضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ) 6:145; 16:115
 - Marka la yidhaahdo iyaga: Raaca waxa Allaah soo dejiyey, waxay yidhaahdaan: Mayee, waxaan raacaynaa wixii aan ka helnay awowayaasheen. (وَإِذَا قِيلَ لَهُمُ اتَّبِعُوا مَا أَنزَلَ اللَّهُ قَالُوا بَلْ نَتَّبِعُ مَا) 2:170; 31:21
 - Wuxuu yidhi: Dadkaygow, Allaah caabuda; ma jiraan idinkaba ilaah aan Isaga ahayn. Haddaba miyaydaan ka digtoonayn? (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 7:65; 23:23
+Matching Phrases 10 words
+- Waxay ku safraan dhulka oo waxay eegaan siday ahayd cidhibtii kuwii ka horreeyay. (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ) 12:109; 30:9; 30:42; 35:44; 40:82; 47:10
+- Yaa ka dulmi badan kan ku alifta Eebe been ama beeniyey? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا أَوْ كَذَّبَ) 6:21; 7:37; 10:17; 29:68
+- Hubaal, Rabbigaa waa Kan ugu yaqaan cidda ka luntay Jidkiisa, isaguna waa Kan ugu yaqaan. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ مَن يَضِلُّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ) 6:117; 16:125; 53:30; 68:7
+- Miyaysan ku safrin dhulka oo eegin siday ahayd cidhibtii kuwii ka horreeyay? (أَوَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن) 30:9; 35:44; 40:82; 47:10
+- Waxay leeyihiin abaalgudkooda Rabbigood agtiisa, oo iyaga kuma jiri doono cabsida, mana murugoon doonaan. (فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ) 2:62; 2:262; 2:274; 2:277
+- Kuwii rumeeyay oo sameeyay camal wanaagsan waxaa la gelin doonaa Jannado hoostoodu webiyaal ku qulqulaan. (وَأُدْخِلَ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 14:23; 22:14; 22:23; 47:12
+- Wuxuu yidhi: "Dadkaygow, caabuda Eebe, ma lihidin ilaah kale oo aan Isaga ahayn. Miyaydnan?" (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا) 7:65; 11:84; 23:23
+- Harga ii soo xigtay ma tarayaan iyaga maalkoodu iyo carruurtoodu waxba Eebe ka soo horjeeda, kuwaasna waa. (لَن تُغْنِيَ عَنْهُمْ أَمْوَالُهُمْ وَلَا أَوْلَادُهُم مِّنَ اللَّهِ شَيْئًا وَأُولَئِكَ) 3:10; 3:116; 58:17
+- Jannooyin hoostoodu webiyaal ku qulqulaan, iyagoo ku waara dhexdooda, taasuna waa guusha weyn. (جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَذَلِكَ الْفَوْزُ الْعَظِيمُ) 4:13; 9:89
+- Miyaysan u iman warka kuwii ka horreeyay – dadkii Nuux, Caad iyo Samuud? (أَلَمْ يَأْتِهِمْ نَبَأُ الَّذِينَ مِن قَبْلِهِمْ قَوْمِ نُوحٍ وَعَادٍ وَثَمُودَ) 9:70; 14:9
+- Waa kuma kaaliyayaashaydu ku socota Eebe? Xawaariyiintii waxay yidhaahdeen: "Annagu waannu kaaliyayaal Eebe, waannu rumeysanay." (مَنْ أَنصَارِي إِلَى اللَّهِ قَالَ الْحَوَارِيُّونَ نَحْنُ أَنصَارُ اللَّهِ آمَنَّا) 3:52; 61:14
+- Rabbigaa waa Kan ugu yaqaan cidda ka luntay Jidkiisa, isaguna waa Kan ugu yaqaan kuwa hanuunsan. (رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ) 16:125; 68:7
+- Taas waxaa ugu wacan in Eebe uu yahay Xaqa, iyo in waxay u yeedhaan Isaga ka sokow ay yihiin batil. (ذَلِكَ بِأَنَّ اللَّهَ هُوَ الْحَقُّ وَأَنَّ مَا يَدْعُونَ مِن دُونِهِ) 22:62; 31:30
+- Qofkii addeeca Eebe iyo Rasuulkiisa, wuxuu gelin doonaa Jannooyin hoostoodu webiyaal ku qulqulaan. (وَمَن يُطِعِ اللَّهَ وَرَسُولَهُ يُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 4:13; 48:17
+- Wuxuu idiin xaqiray oo keliya bakhtiga, dhiigga, hilibka doofaarka, iyo waxa lagu xukmaday. (إِنَّمَا حَرَّمَ عَلَيْكُمُ الْمَيْتَةَ وَالدَّمَ وَلَحْمَ الْخِنزِيرِ وَمَا أُهِلَّ) 2:173; 16:115
+- Inaydaan caabudin mooyee Eebe. Hubaal, waxaan idinka baqayaa cadaabka maalin. (أَن لَّا تَعْبُدُوا إِلَّا اللَّهَ إِنِّي أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ) 11:26; 46:21
+- Taasi waa qaar ka mid ah warka qaribka ah oo annagu kuu waxyinaynaa; kuma aadan joogin iyaga agtooda markii. (ذَلِكَ مِنْ أَنبَاءِ الْغَيْبِ نُوحِيهِ إِلَيْكَ وَمَا كُنتَ لَدَيْهِمْ إِذْ) 3:44; 12:102
+- Miyaydnan la yaaban in idiinku yimid waano Rabbigiin ah oo ku socota nin idinka mid ah si uu idiin digo? (أَوَعَجِبْتُمْ أَن جَاءَكُمْ ذِكْرٌ مِّن رَّبِّكُمْ عَلَى رَجُلٍ مِّنكُمْ لِيُنذِرَكُمْ) 7:63; 7:69
+- Dheh: "Waxaa la iiga reebay inaan caabudo kuwa aad u yeedhaan Eebe ka sokow." (قُلْ إِنِّي نُهِيتُ أَنْ أَعْبُدَ الَّذِينَ تَدْعُونَ مِن دُونِ اللَّهِ) 6:56; 40:66
+- Marka laga reebo xaasaskooda ama waxay hanatay gacmuhooda (saxiyo) – iyagu maaha kuwo la eedeeyo. (إِلَّا عَلَى أَزْوَاجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَانُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ) 23:6; 70:30
+- Sababtoo ah Eebe wuxuu geliyaa habeenka maalinta oo wuxuu geliyaa maalinta habeenka. (بِأَنَّ اللَّهَ يُولِجُ اللَّيْلَ فِي النَّهَارِ وَيُولِجُ النَّهَارَ فِي اللَّيْلِ) 22:61; 31:29
+- Dab, markaasuu reerkiisii ku yidhi: "Sugaysta, waxaan dareemay dab, waxaa laga yaabaa inaan idiinka keeno." (نَارًا فَقَالَ لِأَهْلِهِ امْكُثُوا إِنِّي آنَسْتُ نَارًا لَّعَلِّي آتِيكُم مِّنْهَا) 20:10; 28:29
+- Wuxuu yidhi: "Anigu waan ka fiicanahay isaga; adigu waxaad iga abuurtay dab, isagana waxaad ka abuurtay dhoobo." (قَالَ أَنَا خَيْرٌ مِّنْهُ خَلَقْتَنِي مِن نَّارٍ وَخَلَقْتَهُ مِن طِينٍ) 7:12; 38:76
+- Markii la yidhaahdo iyaga: "Kalka kaalaya waxa Eebe soo dejiyey iyo Rasuulka," waxay yidhaahdaan. (وَإِذَا قِيلَ لَهُمْ تَعَالَوْا إِلَى مَا أَنزَلَ اللَّهُ وَإِلَى الرَّسُولِ) 4:61; 5:104
+- Ha u murugoon iyaga, hana ku jirin cidhiidhi waxay qorsheeyaan. (وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُ فِي ضَيْقٍ مِّمَّا يَمْكُرُونَ) 16:127; 27:70
+- Haddii Eebe ku taabto dhibaato, ma jiro wax ka fura mooyee Isaga; hadduuse. (وَإِن يَمْسَسْكَ اللَّهُ بِضُرٍّ فَلَا كَاشِفَ لَهُ إِلَّا هُوَ وَإِن) 6:17; 10:107
+- Ka horreeyay qarniyo oo ku socda guryahooda? Hubaal, taas waxaa ku sugan aayaado. (قَبْلَهُم مِّنَ الْقُرُونِ يَمْشُونَ فِي مَسَاكِنِهِمْ إِنَّ فِي ذَلِكَ لَآيَاتٍ) 20:128; 32:26
+- Waxaan ku yeellay quluubtooda dahaadh si ayan u fahmin, iyo dhegahooda culusyaan, hadduuse. (وَجَعَلْنَا عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا وَإِن) 6:25; 18:57
+- Rasuulahoodu waxay ula yimaadeen caddaymo, mana uusan Eebe dulmin iyaga, laakiin waxay iyagu nafahooda dulmi jireen. (رُسُلُهُم بِالْبَيِّنَاتِ فَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ وَلَكِن كَانُوا أَنفُسَهُمْ يَظْلِمُونَ) 9:70; 30:9
+- Iyo dhulka, oo aan idinlahayn Eebe ka sokow wax wali ah ihiyo wax gargaar ah. (وَالْأَرْضِ وَمَا لَكُم مِّن دُونِ اللَّهِ مِن وَلِيٍّ وَلَا نَصِيرٍ) 2:107; 42:31
+- Dabadeedna waxaa laydiin soo celin doonaa Kan waxa qarsoon iyo waxa cad yaqaan, markaas wuxuu idiin sheegi doonaa waxaad camali jirteen. (ثُمَّ تُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ) 9:94; 62:8
+- Habeenka inaad ku nasataan, iyo maalinta oo aad wax ku aragtaan. Hubaal, taas waxaa ku sugan aayaado dad. (اللَّيْلَ لِتَسْكُنُوا فِيهِ وَالنَّهَارَ مُبْصِرًا إِنَّ فِي ذَلِكَ لَآيَاتٍ لِّقَوْمٍ) 10:67; 27:86
+- Waxay sii kordhin doontaa in badankood waxa laguu soo dejiyey Rabbigaa xadgudub iyo gaalnimo. (وَلَيَزِيدَنَّ كَثِيرًا مِّنْهُم مَّا أُنزِلَ إِلَيْكَ مِن رَّبِّكَ طُغْيَانًا وَكُفْرًا) 5:64; 5:68
+- Wuxuu yidhi: "Dadkaygow, ma og tihiin haddii aan ka sugnaaday caddayn Rabbigay iyo wuxuu i siiyey." (قَالَ يَاقَوْمِ أَرَأَيْتُمْ إِن كُنتُ عَلَى بَيِّنَةٍ مِّن رَّبِّي وَآتَانِي) 11:28; 11:63
+- Waxay yidhaahdaan: "Maxaa loo soo dejin waayay calaamo Rabbigiisa?" Dheh: "Hubaal." (وَيَقُولُونَ لَوْلَا أُنزِلَ عَلَيْهِ آيَةٌ مِّن رَّبِّهِ فَقُلْ إِنَّمَا) 10:20; 29:50
+- Kahor inta uusan iman maalin aan Eebe ka lahayn dib-u-celin. (مِن قَبْلِ أَن يَأْتِيَ يَوْمٌ لَّا مَرَدَّ لَهُ مِنَ اللَّهِ) 30:43; 42:47
+- Taasi waa fadliga Eebe ee uu siiyo cidda uu doono; Eebana waa Kan fadliga weyn leh. (ذَلِكَ فَضْلُ اللَّهِ يُؤْتِيهِ مَن يَشَاءُ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ) 57:21; 62:4
+- Waxaan idiinku sugan yahay xoolaha wax cilmi ah; waxaan idinka sicinnaa waxa ku jira calooshooda. (وَإِنَّ لَكُمْ فِي الْأَنْعَامِ لَعِبْرَةً نُّسْقِيكُم مِّمَّا فِي بُطُونِهِ) 16:66; 23:21
+- Inuu yahay xaqa ka yimid Rabbigood; Eebana ma gaafiyo waxay camaliyaan. (أَنَّهُ الْحَقُّ مِن رَّبِّهِمْ وَمَا اللَّهُ بِغَافِلٍ عَمَّا يَعْمَلُونَ) 2:144; 2:149
+- Hortooda iyo gadaashooda, inaydaan caabudin mooyee Eebe. (مِن بَيْنِ أَيْدِيهِمْ وَمِنْ خَلْفِهِمْ أَلَّا تَعْبُدُوا إِلَّا اللَّهَ) 41:14; 46:21
+- Hubaal, waxaad u timaadaan ragga hawskooda (galmada) rabitaan iyagoo ka sokow haweenka; bal waxaad tihiin dad. (إِنَّكُمْ لَتَأْتُونَ الرِّجَالَ شَهْوَةً مِّن دُونِ النِّسَاءِ بَلْ أَنتُمْ قَوْمٌ) 7:81; 27:55
+- Iyagoo ku waara dhexdeeda ilaa inta samada iyo dhulku sii jiraan, marka laga reebo waxa Rabbigaa doono. (خَالِدِينَ فِيهَا مَا دَامَتِ السَّمَاوَاتُ وَالْأَرْضُ إِلَّا مَا شَاءَ رَبُّكَ) 11:107; 11:108
+- Kuwa samada iyo kuwa dhulka, marka laga reebo cidda Eebe doono. (مَن فِي السَّمَاوَاتِ وَمَن فِي الْأَرْضِ إِلَّا مَن شَاءَ اللَّهُ) 27:87; 39:68
+- Waxaa lagu xidhi doonaa dhexdeeda qurxinno dahab ah iyo lu'lu' iyo dharkoodu dhexdeedu waa xariir. (يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِن ذَهَبٍ وَلُؤْلُؤًا وَلِبَاسُهُمْ فِيهَا حَرِيرٌ) 22:23; 35:33
+- Wuxuu ka soo dejiyey samada biyo, markaasuu ku soo saaray midho risiq idiin ah. (وَأنزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجَ بِهِ مِنَ الثَّمَرَاتِ رِزْقًا لَّكُمْ) 2:22; 14:32
+- Xusuusnow markaan idinka qaadannu axdigiina oo kor idiinka qaadnay Buurta Tuur: "Qaata waxaan idin siinay si xoog leh." (وَإِذْ أَخَذْنَا مِيثَاقَكُمْ وَرَفَعْنَا فَوْقَكُمُ الطُّورَ خُذُوا مَا آتَيْنَاكُم بِقُوَّةٍ) 2:63; 2:93
+- Markaasuu ka jeestay iyaga oo yidhi: "Dadkaygow, waxaan idiin gaadhsiiyay risaalada Rabbigay, waanan idiin waaninay." (فَتَوَلَّى عَنْهُمْ وَقَالَ يَاقَوْمِ لَقَدْ أَبْلَغْتُكُمْ رِسَالَةَ رَبِّي وَنَصَحْتُ لَكُمْ) 7:79; 7:93
+- Hoostoodu webiyaal ku qulqulaan; waxaa lagu xidhi doonaa dhexdeeda qurxinno dahab ah. (تَجْرِي مِن تَحْتِهِمُ الْأَنْهَارُ يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِن ذَهَبٍ) 18:31; 22:23
+- Haddii ay leeyihiin waxa dhulka ku yaal dhammaantiis iyo ku la mid ah oo ay la socdaan si ay ugu fidiyaan. (لَوْ أَنَّ لَهُم مَّا فِي الْأَرْضِ جَمِيعًا وَمِثْلَهُ مَعَهُ لِيَفْتَدُوا) 5:36; 13:18
+- Nafta oo ka mid ah waxa ku nool, laakiin wuxuu dib u dhiga ilaa muddo cayiman; marka uu yimaado muddadoodu. (مِن دَابَّةٍ وَلَكِن يُؤَخِّرُهُمْ إِلَى أَجَلٍ مُّسَمًّى فَإِذَا جَاءَ أَجَلُهُمْ) 16:61; 35:45
+- Waxaan idinka abuuray ciid, markaasaa noqotay dhuuni (tifaftir), markaasaa noqotay xinjirog, markaas. (خَلَقْنَاكُم مِّن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ مِنْ عَلَقَةٍ ثُمَّ) 22:5; 40:67
+- Eebe wuxuu u kala xukumi doonaa Maalinta Qiyaamaha waxay ku kala khilaafeen. (فَاللَّهُ يَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 2:113; 22:69
+- Waxaa kuu yimid cilmiga; ma lihid Eebe ka sokow wax wali ihi iyo. (جَاءَكَ مِنَ الْعِلْمِ مَا لَكَ مِنَ اللَّهِ مِن وَلِيٍّ وَلَا) 2:120; 13:37
+- Markaannu u nicayno dadka, way jeestaa oo dhinac isaga baxdaa; marka uu taabtaana xumaantu. (وَإِذَا أَنْعَمْنَا عَلَى الْإِنسَانِ أَعْرَضَ وَنَأَى بِجَانِبِهِ وَإِذَا مَسَّهُ الشَّرُّ) 17:83; 41:51
+- Iyo wax ka yar taas iyo wax ka weynba, mooyee Kitaab cad. (وَلَا أَصْغَرَ مِن ذَلِكَ وَلَا أَكْبَرَ إِلَّا فِي كِتَابٍ مُّبِينٍ) 10:61; 34:3
+
+Matching Phrases 9 words
+- Markaasuu yidhi: "Dadkaygow, caabuda Eebe; ma lihidin ilaah kale oo aan Isaga ahayn." (فَقَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ) 7:59; 7:65; 7:73; 7:85; 11:50; 11:61; 11:84; 23:23
+- Miyaysan ku safrin dhulka oo eegin siday ahayd cidhibtii kuwii ka horreeyay? (أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ) 12:109; 30:9; 35:44; 40:21; 40:82; 47:10
+- Abaalgudkoodu wuxuu ku yaal Rabbigood agtiisa; ma lahaan doonaan cabsida mana murugoon doonaan. (أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ) 2:62; 2:112; 2:262; 2:274; 2:277
+- Ku safraan dhulka oo eegaan siday ahayd cidhibtii kuwii ka horreeyay. (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن) 30:9; 30:42; 35:44; 40:82; 47:10
+- Dhulka oo eegaan siday ahayd cidhibtii kuwii ka horreeyay. (فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ) 30:9; 30:42; 35:44; 40:82; 47:10
+- Yaa ka dulmi badan kan ku alifta Eebe been ama? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا أَوْ) 6:21; 6:93; 7:37; 10:17; 29:68
+- Marka uu go'aan ka gaaro arrin, waxa uu ku yidhaahdaa keliya: "Noqo!" wayna noqotaa. (وَإِذَا قَضَى أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُن فَيَكُونُ) 2:117; 3:47; 19:35; 40:68
+- Oo aydnaan lahayn Eebe ka sokow wali ihi iyo wax gargaar ah. (وَمَا لَكُم مِّن دُونِ اللَّهِ مِن وَلِيٍّ وَلَا نَصِيرٍ) 2:107; 9:116; 29:22; 42:31
+- Hubaal, waan ka dhaafi doonaa xumaatooyinkooda, waxaana gelin doonaa Jannooyin hoostoodu webiyaal ku qulqulaan. (لَأُكَفِّرَنَّ عَنْهُمْ سَيِّئَاتِهِمْ وَلَأُدْخِلَنَّهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 3:195; 5:12; 64:9; 66:8
+- Waxaan gelin doonaa Jannooyin hoostoodu webiyaal ku qulqulaan, iyagoo ku waara dhexdeeda weligood. (سَنُدْخِلُهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا) 4:57; 4:122; 64:9; 65:11
+- Rabbigaa waa Kan ugu yaqaan cidda ka luntay Jidkiisa, isaguna waa Kan ugu yaqaan. (رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ) 16:125; 53:30; 68:7
+- Waxaa laydiin soo celin doonaa Kan waxa qarsoon iyo waxa cad yaqaan, markaas wuxuu idiin sheegi doonaa waxaad camali jirteen. (تُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ) 9:94; 9:105; 62:8
+- Wiilashiinna wayna galaan oo dumar kiinna wayna sii noolaadaan; taasna waxaa idiinku sugan tijaabo Rabbigiin ah oo weyn. (أَبْنَاءَكُمْ وَيَسْتَحْيُونَ نِسَاءَكُمْ وَفِي ذَلِكُم بَلَاءٌ مِّن رَّبِّكُمْ عَظِيمٌ) 2:49; 7:141; 14:6
+- Hubaal, Rabbigaa waa Kan ugu yaqaan cidda ka luntay Jidkiisa, isaguna. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ) 16:125; 53:30; 68:7
+- Eebe, kan iska leh waxa samada iyo waxa dhulka ku yaal. (اللَّهِ الَّذِي لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 14:2; 34:1; 42:53
+- Ummado hore uga tageen idinka ka hor, oo ka mid ah Jinniyada iyo Dadka. (فِي أُمَمٍ قَدْ خَلَتْ مِن قَبْلِكُم مِّنَ الْجِنِّ وَالْإِنسِ) 7:38; 41:25; 46:18
+- Caabuda Eebe; ma lihidin ilaah kale oo aan Isaga ahayn. Miyaydnan ka baqayn? (اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 7:65; 23:23; 23:32
+- Waxaan ku yeellay quluubtooda dahaadh si ayan u fahmin, iyo dhegahooda culusyaan. (وَجَعَلْنَا عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا) 6:25; 17:46; 18:57
+- Wuxuu u kala xukumi doonaa Maalinta Qiyaamaha waxay ku kala khilaafeen. (يَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 2:113; 16:124; 22:69
+- Wuxuu yidhi: "Dadkaygow, ma og tihiin haddii aan ka sugnaaday caddayn Rabbigay." (قَالَ يَاقَوْمِ أَرَأَيْتُمْ إِن كُنتُ عَلَى بَيِّنَةٍ مِّن رَّبِّي) 11:28; 11:63; 11:88
+- Taas waxaa ugu wacan waxay hor marsadeen gacmihiinnu, iyo in Eebe uusan ahayn mid dulmi ku ah addoomaha. (ذَلِكَ بِمَا قَدَّمَتْ أَيْدِيكُمْ وَأَنَّ اللَّهَ لَيْسَ بِظَلَّامٍ لِّلْعَبِيدِ) 3:182; 8:51; 22:10
+- Waxay leeyihiin adduunka ceeb, waxayna leeyihiin Aakhira cadaab weyn. (لَهُمْ فِي الدُّنْيَا خِزْيٌ وَلَهُمْ فِي الْآخِرَةِ عَذَابٌ عَظِيمٌ) 2:114; 5:41
+- Waxa samada iyo waxa dhulka ku yaal; Eebana waa ku filan wakiil. (مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَكَفَى بِاللَّهِ وَكِيلًا) 4:132; 4:171
+- Marka laga reebo kuwa rumeeyay oo sameeyay camal wanaagsan; waxay leeyihiin abaal marin aan la go'in. (إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ) 84:25; 95:6
+- Inaad iga wadaajiso wax aad u lahayn cilmi; hadaba ha addeecin labadooda. (لِتُشْرِكَ بِي مَا لَيْسَ لَكَ بِهِ عِلْمٌ فَلَا تُطِعْهُمَا) 29:8; 31:15
+- Hubaal, tani waa waano; ciddii doontana ha u samaysto Rabbigeed jid. (إِنَّ هَذِهِ تَذْكِرَةٌ فَمَن شَاءَ اتَّخَذَ إِلَى رَبِّهِ سَبِيلًا) 73:19; 76:29
+- Qofkii mahad naqana, wuxuu u mahad naqayaa naftiisa; qofkii gaalowdana, hubaal. (وَمَن شَكَرَ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِ وَمَن كَفَرَ فَإِنَّ) 27:40; 31:12
+- Kuwa ooga salaadda, oo bixiya sakada, oo ay Aakhiro ka yaqiinsan yihiin. (الَّذِينَ يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُم بِالْآخِرَةِ هُمْ يُوقِنُونَ) 27:3; 31:4
+- Ibraahim, Ismaaciil, Isxaaq, Yacquub iyo nabiyada faraceeda, iyo waxa la siiyey Muuse iyo Ciise. (إِبْرَاهِيمَ وَإِسْمَاعِيلَ وَإِسْحَاقَ وَيَعْقُوبَ وَالْأَسْبَاطِ وَمَا أُوتِيَ مُوسَى وَعِيسَى) 2:136; 3:84
+- Kooxo kooxo, ilaa markay u yimaadaan, waxaa loo furay albaabbadeeda, waxayna iyaga ku yidhaahdaan waardiyeheedu. (زُمَرًا حَتَّى إِذَا جَاءُوهَا فُتِحَتْ أَبْوَابُهَا وَقَالَ لَهُمْ خَزَنَتُهَا) 39:71; 39:73- Eebe idinma caddibin dhaarta qosolka ah, laakiin wuxuu idin caddibaa waxa. (لَّا يُؤَاخِذُكُمُ اللَّهُ بِاللَّغْوِ فِي أَيْمَانِكُمْ وَلَكِن يُؤَاخِذُكُم بِمَا) 2:225; 5:89
+- Naxariis, way ku farxeen; hadduuse ku timaaddo xumaano waxay hor marsadeen gacmahoodu. (رَحْمَةً فَرِحُوا بِهَا وَإِن تُصِبْهُمْ سَيِّئَةٌ بِمَا قَدَّمَتْ أَيْدِيهِمْ) 30:36; 42:48
+- Hoostoodu webiyaal ku qulqulaan, iyagoo ku waara dhexdeeda; wanaagsanna waa abaal marintii kuwa camal fala. (تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَنِعْمَ أَجْرُ الْعَامِلِينَ) 3:136; 29:58
+- Eebe wuxuu yaqaan waxa samada iyo waxa dhulka ku yaal; Eebana. (اللَّهُ وَيَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَاللَّهُ) 3:29; 49:16
+- Addeeca Eebe, addeecana Rasuulka; haddaad jeesataan, waxa uu saaran yahay keliya. (أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ فَإِن تَوَلَّوْا فَإِنَّمَا عَلَيْهِ) 24:54; 64:12
+- Waxay leeyihiin abaalgudkooda Rabbigood agtiisa; cabsina kuma jirto iyaga, mana. (فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ) 2:274; 2:277
+- Waxay yidhaahdeen: "Markaynu noqonno lafo iyo boor, miyaynu runti noqon kuwa la soo sarakicin doono abuur cusub?" (وَقَالُوا أَإِذَا كُنَّا عِظَامًا وَرُفَاتًا أَإِنَّا لَمَبْعُوثُونَ خَلْقًا جَدِيدًا) 17:49; 17:98
+- Mana heli doonaan iyagu Eebe ka sokow wali ihi iyo wax gargaar ah. (وَلَا يَجِدُونَ لَهُم مِّن دُونِ اللَّهِ وَلِيًّا وَلَا نَصِيرًا) 4:173; 33:17
+- Intee baad degtay? Wuxuu yidhi: "Waxaan degay maalin ama qayb maalin ah." Wuxuu yidhi: (كَمْ لَبِثْتَ قَالَ لَبِثْتُ يَوْمًا أَوْ بَعْضَ يَوْمٍ قَالَ) 2:259; 18:19
+- Weligood ilaa Maalinta Qiyaamaha. Ayaa ilaah aan Eebe ahayn idinku keena? (سَرْمَدًا إِلَى يَوْمِ الْقِيَامَةِ مَنْ إِلَهٌ غَيْرُ اللَّهِ يَأْتِيكُم) 28:71; 28:72
+- Qofka sameeya camal wanaagsan oo ka mid ah lab ama dhedig, isagoo mu'min ah. (مَنْ عَمِلَ صَالِحًا مِّن ذَكَرٍ أَوْ أُنثَى وَهُوَ مُؤْمِنٌ) 16:97; 40:40
+- Kuwa ka hor joojiya jidka Eebe oo doonaya inay qalloocaan, iyagoo Aakhira ka aaminsanayn. (الَّذِينَ يَصُدُّونَ عَن سَبِيلِ اللَّهِ وَيَبْغُونَهَا عِوَجًا وَهُم بِالْآخِرَةِ) 7:45; 11:19
+- Meel kasta oo aad rabtaan, una dhawaanina geedkan, si aydaan u noqonin kuwa dulmiga ah. (حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَذِهِ الشَّجَرَةَ فَتَكُونَا مِنَ الظَّالِمِينَ) 2:35; 7:19
+- Dheh: "Dadkaygow, camala meeshiinna ku xigta, aniguna waan camal fali; markaas waad ogaan doontaan." (قُلْ يَاقَوْمِ اعْمَلُوا عَلَى مَكَانَتِكُمْ إِنِّي عَامِلٌ فَسَوْفَ تَعْلَمُونَ) 6:135; 39:39
+- Hubaal, khasaarayayaashu waa kuwa khasaareeyay naftooda iyo qoysaskooda Maalinta Qiyaamaha. Hala. (إِنَّ الْخَاسِرِينَ الَّذِينَ خَسِرُوا أَنفُسَهُمْ وَأَهْلِيهِمْ يَوْمَ الْقِيَامَةِ أَلَا) 39:15; 42:45
+- Qofka hanuuna, wuxuu u hanuunayaa naftiisa; qofka lumaana, wuxuu u lumayaa naftiisa; qofna. (يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا وَمَا) 10:108; 39:41
+- Kuwa gaaloobay waxay yidhaahdaan: "Maxaa loo soo dejin waayay calaamo Rabbigiisa?" (وَيَقُولُ الَّذِينَ كَفَرُوا لَوْلَا أُنزِلَ عَلَيْهِ آيَةٌ مِّن رَّبِّهِ) 13:7; 13:27
+- Kan idinka dhigtay habeenka si aad ugu nastaan, iyo maalinta oo wax ku arkaan. Hubaal. (الَّذِي جَعَلَ لَكُمُ اللَّيْلَ لِتَسْكُنُوا فِيهِ وَالنَّهَارَ مُبْصِرًا إِنَّ) 10:67; 40:61
+- Kahor inta uusan iman maalin aan ganacsigu ku jirin iyo. (مِّن قَبْلِ أَن يَأْتِيَ يَوْمٌ لَّا بَيْعٌ فِيهِ وَلَا) 2:254; 14:31
+- Si ay u fekeraan; saaxibkoodu ma jiro waalli; isagu ma aha mooyee dige. (يَتَفَكَّرُوا مَا بِصَاحِبِهِم مِّن جِنَّةٍ إِنْ هُوَ إِلَّا نَذِيرٌ) 7:184; 34:46
+- Iyagoo ku waara dhexdeeda, cadaabka laguma yareyn doono, mana la siin doono rafaad. (خَالِدِينَ فِيهَا لَا يُخَفَّفُ عَنْهُمُ الْعَذَابُ وَلَا هُمْ يُنظَرُونَ) 2:162; 3:88
+- Ha u fiirsan indhahaaga waxaannu ku raaxaysinnay lammaanahooda ka mid ah. (لَا تَمُدَّنَّ عَيْنَيْكَ إِلَى مَا مَتَّعْنَا بِهِ أَزْوَاجًا مِّنْهُمْ) 15:88; 20:131
+- Ha ka yaraydina dadka waxay leeyihiin, hana faliina dhulka fasaaq. (وَلَا تَبْخَسُوا النَّاسَ أَشْيَاءَهُمْ وَلَا تَعْثَوْا فِي الْأَرْضِ مُفْسِدِينَ) 11:85; 26:183
+- Nabadgelyo isaga ku kor ahaatay maalintii uu dhashay, maalintii uu dhinto, iyo maalintii la soo sarakiciyo oo nool. (وَسَلَامٌ عَلَيْهِ يَوْمَ وُلِدَ وَيَوْمَ يَمُوتُ وَيَوْمَ يُبْعَثُ حَيًّا) 19:15; 19:33
+- Dadkaygow, camala meeshiinna ku xigta, aniguna waan camal fali; markaas waad ogaan doontaan cidda. (يَاقَوْمِ اعْمَلُوا عَلَى مَكَانَتِكُمْ إِنِّي عَامِلٌ فَسَوْفَ تَعْلَمُونَ مَن) 6:135; 11:93
+- Mana aha Rasuulka inuu la yimaado calaamo mooyee idinka Eebe. (وَمَا كَانَ لِرَسُولٍ أَن يَأْتِيَ بِآيَةٍ إِلَّا بِإِذْنِ اللَّهِ) 13:38; 40:78
+- Dabadeedna waxaa la siin doonaa qof kasta waxay kasbatay, iyagoon la dulmin. (ثُمَّ تُوَفَّى كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ) 2:281; 3:161
+- Lab ama dhedig, isagoo mu'min ah – kuwaasi waxay geli doonaan Jannada. (مِن ذَكَرٍ أَوْ أُنثَى وَهُوَ مُؤْمِنٌ فَأُولَئِكَ يَدْخُلُونَ الْجَنَّةَ) 4:124; 40:40
+- Ma uusan qaadan ilmo, mana uusan lahayn shariik boqornimada. (لَمْ يَتَّخِذْ وَلَدًا وَلَمْ يَكُن لَّهُ شَرِيكٌ فِي الْمُلْكِ) 17:111; 25:2
+- Qofka Eebe hanuuniyo, kaasi waa hanuunsan; qofka uu baadiyona, waxba ma heli doontid. (وَمَن يَهْدِ اللَّهُ فَهُوَ الْمُهْتَدِ وَمَن يُضْلِلْ فَلَن تَجِدَ) 17:97; 18:17
+- Eeg siday kula tusaale u dhigeen, way lumeen oo ma karaan inay marin helaan. (انظُرْ كَيْفَ ضَرَبُوا لَكَ الْأَمْثَالَ فَضَلُّوا فَلَا يَسْتَطِيعُونَ سَبِيلًا) 17:48; 25:9
+- Dheh: "Hubaal, waxaan ka baqayaa haddaan caasiyo Rabbigay cadaab maalin weyn." (قُلْ إِنِّي أَخَافُ إِنْ عَصَيْتُ رَبِّي عَذَابَ يَوْمٍ عَظِيمٍ) 6:15; 39:13
+- Waxaa u soo baxday iyaga xumaanahoodii, waxayna bilaabeen inay ku suraan caleemo Jannada. (بَدَتْ لَهُمَا سَوْآتُهُمَا وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِن وَرَقِ الْجَنَّةِ) 7:22; 20:121
+- U yeedha ciddii aad kartaan Eebe ka sokow, haddaad run sheegaysaan. (وَادْعُوا مَنِ اسْتَطَعْتُم مِّن دُونِ اللَّهِ إِن كُنتُمْ صَادِقِينَ) 10:38; 11:13
+- Waxa dhulka ku yaal dhammaantiis iyo ku la mid ah oo ay la socdaan si ay ugu fidiyaan. (مَّا فِي الْأَرْضِ جَمِيعًا وَمِثْلَهُ مَعَهُ لِيَفْتَدُوا بِهِ مِنْ) 5:36; 39:47
+- Qaata waxaannu idin siinay si xoog leh, oo xusuusta waxa ku jira – malaha waxaad ka baqan doontaan. (خُذُوا مَا آتَيْنَاكُم بِقُوَّةٍ وَاذْكُرُوا مَا فِيهِ لَعَلَّكُمْ تَتَّقُونَ) 2:63; 7:171
+- Ma waxaad ku timaadaan xumaanta aan cidina idinka horayn ee ka mid ah abidka? (أَتَأْتُونَ الْفَاحِشَةَ مَا سَبَقَكُم بِهَا مِنْ أَحَدٍ مِّنَ الْعَالَمِينَ) 7:80; 29:28
+- Eebe waxaa iska leh waxa samada iyo waxa dhulka ku yaal; Eebana wuxuu ahaa. (وَلِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَكَانَ اللَّهُ) 4:126; 4:131
+- Waxaa ku dhacay xumaano waxay camaliyeen, waxaana ku wareegay waxay ku majaajili jireen. (سَيِّئَاتُ مَا عَمِلُوا وَحَاقَ بِهِم مَّا كَانُوا بِهِ يَسْتَهْزِئُونَ) 16:34; 45:33
+- Rasuul idinka ka mid ah oo idiin akhriya Aayaadkeena, oo idin sifeeya, oo idin bara Kitaabka iyo Xikmadda. (رَسُولًا مِّنكُمْ يَتْلُو عَلَيْكُمْ آيَاتِنَا وَيُزَكِّيكُمْ وَيُعَلِّمُكُمُ الْكِتَابَ وَالْحِكْمَةَ) 2:151; 62:2
+- Waxaa ka soo baxay laba iyo toban il; dad kastaa wuxuu yaqaanay meeshii cabbidooda. (مِنْهُ اثْنَتَا عَشْرَةَ عَيْنًا قَدْ عَلِمَ كُلُّ أُنَاسٍ مَّشْرَبَهُمْ) 2:60; 7:160
+- Mooyee malaha; hubaal, mala'a waxba ka dhici karto xaqa. (إِلَّا ظَنًّا إِنَّ الظَّنَّ لَا يُغْنِي مِنَ الْحَقِّ شَيْئًا) 10:36; 53:28
+- Marka aan sii dhamaystiro oo aan ku afuufo ruuxayga, dhaca isaga sujuudan. (فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ فِيهِ مِن رُّوحِي فَقَعُوا لَهُ سَاجِدِينَ) 15:29; 38:72
+- Ayaa leh cidhibta guriga? Hubaal, kuwa dulmiga ah ma guuleystaan. (مَن تَكُونُ لَهُ عَاقِبَةُ الدَّارِ إِنَّهُ لَا يُفْلِحُ الظَّالِمُونَ) 6:135; 28:37
+- Kan abuuray samada iyo dhulka, wuxuu awoodaa inuu abuuro kuwo la mid ah iyaga. (الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ قَادِرٌ عَلَى أَن يَخْلُقَ مِثْلَهُمْ) 17:99; 36:81
+- Mu'miniinta iyo mu'minada Jannooyin hoostoodu webiyaal ku qulqulaan, iyagoo ku waara dhexdeeda. (الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 9:72; 48:5
+- Haddii aad weydiiso cidda abuuray samada iyo dhulka, waxay dhihi doonaan: "Eebe." Dheh: (وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ لَيَقُولُنَّ اللَّهُ قُلِ) 31:25; 39:38
+- Waxaan dadka uga soo wacnay Qur'aankan tusaalooyin kala duwan. (وَلَقَدْ ضَرَبْنَا لِلنَّاسِ فِي هَذَا الْقُرْآنِ مِن كُلِّ مَثَلٍ) 30:58; 39:27
+- Markay Rasuulayadii u yimaadeen Luud, wuu u xumaaday iyaga, wuxuuna ku adkaaday dhexdooda, wuxuuna yidhi. (جَاءَتْ رُسُلُنَا لُوطًا سِيءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًا وَقَالَ) 11:77; 29:33
+- Xusuusnow markaan ku nidhi malaa'igta: "U sujuuda Aadan!" Wayna u sujuudeen mooyee Iblis; wuu diiday. (وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا إِبْلِيسَ أَبَى) 2:34; 20:116
+- Dhulka waxaannu kala bixinnay, waxaannu ku dhex yeellay buuro sugan, waxaannu ka soo bixinnay wax kasta. (وَالْأَرْضَ مَدَدْنَاهَا وَأَلْقَيْنَا فِيهَا رَوَاسِيَ وَأَنبَتْنَا فِيهَا مِن كُلِّ) 15:19; 50:7
+- Waxay u duba joogeen Eebe, iyagoo u daa'inaya diinta; markii uu badbaadiyey dhulka (bari). (دَعَوُا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ فَلَمَّا نَجَّاهُمْ إِلَى الْبَرِّ) 29:65; 31:32
+- Waxay leeyihiin cabbi biyo kulul ah iyo cadaab xanuun badan, waxay gaaloobeen. (لَهُمْ شَرَابٌ مِّنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْفُرُونَ) 6:70; 10:4
+- Miyaynu u yeedhnaa Eebe ka sokow wax aan ina anfacin ama ina dhibin? (أَنَدْعُو مِن دُونِ اللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا) 6:71; 10:106
+- In Eebe uu yaqaan waxa samada iyo waxa dhulka ku yaal. (أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 5:97; 58:7
 """;

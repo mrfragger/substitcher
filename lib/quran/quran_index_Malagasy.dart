@@ -3018,4 +3018,149 @@ Matching Phrases 11 words
 - Izay novonoina tamin'ny anaran'ny hafa tsy Andriamanitra, fa izay terena (noan'ny hanoanana) nefa tsy maniry sy tsy tafahoatra, dia... (أُهِلَّ لِغَيْرِ اللَّهِ بِهِ فَمَنِ اضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ) 6:145; 16:115
 - Ary rehefa voalaza taminy hoe Araho izay nampidin'Andriamanitra, dia hoy izy ireo: Tsia, fa hanaraka izay nahitantsika ny razantsika. (وَإِذَا قِيلَ لَهُمُ اتَّبِعُوا مَا أَنزَلَ اللَّهُ قَالُوا بَلْ نَتَّبِعُ مَا) 2:170; 31:21
 - Hoy izy: Ry vahoakako, mivavaha amin'Andriamanitra; tsy manana andriamanitra hafa ianareo afa-tsy Izy. Moa tsy matahotra ve ianareo? (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 7:65; 23:23
+Matching Phrases 10 words
+
+- Mandalo eny amin'ny tany izy ireo ka mijery ny fiafaran'ireo talohan'izy ireo. (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ) 12:109; 30:9; 30:42; 35:44; 40:82; 47:10
+- Ary iza no ratsy fanahy noho izay mamorona lainga momba an'Andriamanitra na mandà? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا أَوْ كَذَّبَ) 6:21; 7:37; 10:17; 29:68
+- Tena izy, ny Tomponao no mahalala indrindra izay very lalana amin'ny lalany, ary Izy no mahalala indrindra. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ مَن يَضِلُّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ) 6:117; 16:125; 53:30; 68:7
+- Moa tsy nandeha teny an-tany ve izy ireo ka tsy nahita ny fiafaran'ireo talohan'izy ireo? (أَوَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن) 30:9; 35:44; 40:82; 47:10
+- Manana ny valin-karazany eo amin'ny Tompony izy ireo, ary tsy misy tahotra eo aminy, ary tsy halahelo izy ireo. (فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ) 2:62; 2:262; 2:274; 2:277
+- Ary ireo izay nino sy nanao asa tsara dia nampidirina tao amin'ny valan-javaboary izay misy renirano mikoriana eo ambany. (وَأُدْخِلَ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 14:23; 22:14; 22:23; 47:12
+- Izy niteny hoe: "Ry fireneko! Mivavaha amin'Andriamanitra, tsy manana andriamanitra hafa ianareo afa-tsy Izy, moa tsy matahotra ve ianareo?" (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا) 7:65; 11:84; 23:23
+- Na ny fananany na ny zanany dia tsy hahasoa azy ireo eo anatrehan'Andriamanitra na dia kely aza, ary izy ireo no. (لَن تُغْنِيَ عَنْهُمْ أَمْوَالُهُمْ وَلَا أَوْلَادُهُم مِّنَ اللَّهِ شَيْئًا وَأُولَئِكَ) 3:10; 3:116; 58:17
+- Valan-javaboary izay misy renirano mikoriana eo ambany, hijanona mandrakizay ao izy ireo, ary izany no fahombiazana lehibe. (جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَذَلِكَ الْفَوْزُ الْعَظِيمُ) 4:13; 9:89
+- Moa tsy tonga taminy ve ny vaovao momba ireo talohan'izy ireo, ny vahoakan'i Noa, ny Ady ary ny Tamody? (أَلَمْ يَأْتِهِمْ نَبَأُ الَّذِينَ مِن قَبْلِهِمْ قَوْمِ نُوحٍ وَعَادٍ وَثَمُودَ) 9:70; 14:9
+- Iza no mpanampy ahy ho an'Andriamanitra? Hoy ny mpianatra: "Izahay no mpanampy an'Andriamanitra, nino izahay." (مَنْ أَنصَارِي إِلَى اللَّهِ قَالَ الْحَوَارِيُّونَ نَحْنُ أَنصَارُ اللَّهِ آمَنَّا) 3:52; 61:14
+- Ny Tomponao no mahalala indrindra izay very lalana amin'ny lalany, ary Izy no mahalala indrindra ireo izay voa tari-dalana. (رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ) 16:125; 68:7
+- Izany dia satria Andriamanitra no Fahamarinana, ary izay iantsoany afa-tsy Izy dia lainga. (ذَلِكَ بِأَنَّ اللَّهَ هُوَ الْحَقُّ وَأَنَّ مَا يَدْعُونَ مِن دُونِهِ) 22:62; 31:30
+- Ary izay manaiky an'Andriamanitra sy ny Iraany, Andriamanitra dia hampiditra azy ao amin'ny valan-javaboary izay misy renirano mikoriana eo ambany. (وَمَن يُطِعِ اللَّهَ وَرَسُولَهُ يُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 4:13; 48:17
+- Tena izy, norarany ho anareo ny biby maty, ny ra, ny henan-kisoa ary izay novonoina ho an'ny hafa. (إِنَّمَا حَرَّمَ عَلَيْكُمُ الْمَيْتَةَ وَالدَّمَ وَلَحْمَ الْخِنزِيرِ وَمَا أُهِلَّ) 2:173; 16:115
+- Aza mivavaka amin'iza na iza afa-tsy amin'Andriamanitra; tena izy, matahotra ny sazy amin'ny Andro lehibe aho. (أَن لَّا تَعْبُدُوا إِلَّا اللَّهَ إِنِّي أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ) 11:26; 46:21
+- Izany dia anisan'ny vaovao miafina izay ambaranay aminao; tsy tao anivon'izy ireo ianao rehefa nanapa-kevitra izy ireo. (ذَلِكَ مِنْ أَنبَاءِ الْغَيْبِ نُوحِيهِ إِلَيْكَ وَمَا كُنتَ لَدَيْهِمْ إِذْ) 3:44; 12:102
+- Moa gaga ve ianareo fa tonga taminareo ny fampahatsiahivana avy amin'ny Tomponareo amin'ny alalan'ny lehilahy iray avy eo aminareo, mba hampitandrina anareo? (أَوَعَجِبْتُمْ أَن جَاءَكُمْ ذِكْرٌ مِّن رَّبِّكُمْ عَلَى رَجُلٍ مِّنكُمْ لِيُنذِرَكُمْ) 7:63; 7:69
+- Lazao: "Tena izy, norarana aho tsy hivavaka amin'ireo izay iantsoanareo afa-tsy an'Andriamanitra." (قُلْ إِنِّي نُهِيتُ أَنْ أَعْبُدَ الَّذِينَ تَدْعُونَ مِن دُونِ اللَّهِ) 6:56; 40:66
+- Afa-tsy amin'ny vadiny na izay azon'ny tanany ankavanana, satria izy ireo dia tsy meloka. (إِلَّا عَلَى أَزْوَاجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَانُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ) 23:6; 70:30
+- Satria Andriamanitra mampiditra ny alina ao anatin'ny andro ary mampiditra ny andro ao anatin'ny alina. (بِأَنَّ اللَّهَ يُولِجُ اللَّيْلَ فِي النَّهَارِ وَيُولِجُ النَّهَارَ فِي اللَّيْلِ) 22:61; 31:29
+- Afo, ary hoy izy tamin'ny ankohonany: "Miandrasa kely, nahita aho, mety hitondra zavatra ho anareo avy eo aho." (نَارًا فَقَالَ لِأَهْلِهِ امْكُثُوا إِنِّي آنَسْتُ نَارًا لَّعَلِّي آتِيكُم مِّنْهَا) 20:10; 28:29
+- Izy niteny hoe: "Izaho no tsara noho izy; nahary ahy tamin'ny afo Hianao, ary nahary azy tamin'ny tanimanga Hianao." (قَالَ أَنَا خَيْرٌ مِّنْهُ خَلَقْتَنِي مِن نَّارٍ وَخَلَقْتَهُ مِن طِينٍ) 7:12; 38:76
+- Ary rehefa lazaina aminy hoe: "Mankanesa amin'izay nampidinin'Andriamanitra sy amin'ny Iraka." (وَإِذَا قِيلَ لَهُمْ تَعَالَوْا إِلَى مَا أَنزَلَ اللَّهُ وَإِلَى الرَّسُولِ) 4:61; 5:104
+- Ary aza malahelo noho ny aminy, ary aza tery fo noho ny tetik'ady ataony. (وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُ فِي ضَيْقٍ مِّمَّا يَمْكُرُونَ) 16:127; 27:70
+- Ary raha Andriamanitra mikasika anao amin'ny fahoriana, dia tsy misy afaka manaisotra izany afa-tsy Izy, ary raha. (وَإِن يَمْسَسْكَ اللَّهُ بِضُرٍّ فَلَا كَاشِفَ لَهُ إِلَّا هُوَ وَإِن) 6:17; 10:107
+- Talohan'izy ireo dia nisy fara tampony izay nandeha tamin'ny fonenany; tena izy, ao izany dia misy famantarana. (قَبْلَهُم مِّنَ الْقُرُونِ يَمْشُونَ فِي مَسَاكِنِهِمْ إِنَّ فِي ذَلِكَ لَآيَاتٍ) 20:128; 32:26
+- Ary nametraka manakona ny fony izahay mba tsy hahatakarany izany, ary tao an-tsofiny dia nisy havizanana, ary na dia. (وَجَعَلْنَا عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا وَإِن) 6:25; 18:57
+- Ny iraka nirahin'izy ireo dia tonga taminy niaraka tamin'ny porofo mazava, saingy Andriamanitra tsy nanao ratsy taminy, fa izy ireo no nanao ratsy tamin'ny tenany. (رُسُلُهُم بِالْبَيِّنَاتِ فَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ وَلَكِن كَانُوا أَنفُسَهُمْ يَظْلِمُونَ) 9:70; 30:9
+- Ary ety amin'ny tany, ary tsy manana afa-tsy an'Andriamanitra na mpiaro na mpanampy ianareo. (وَالْأَرْضِ وَمَا لَكُم مِّن دُونِ اللَّهِ مِن وَلِيٍّ وَلَا نَصِيرٍ) 2:107; 42:31
+- Avy eo dia haverina any amin'ilay Mahalala ny miafina sy ny hita maso ianareo, ary Izy dia hampahafantatra anareo izay nataonareo. (ثُمَّ تُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ) 9:94; 62:8
+- Ny alina mba hialan-tsasatra ao, ary ny andro mba hahitana; tena izy, ao izany dia misy famantarana ho an'ny olona misaina. (اللَّيْلَ لِتَسْكُنُوا فِيهِ وَالنَّهَارَ مُبْصِرًا إِنَّ فِي ذَلِكَ لَآيَاتٍ لِّقَوْمٍ) 10:67; 27:86
+- Ary izay nampidina taminao avy amin'ny Tomponao dia hampitombo amin'ny maro amin'izy ireo ny fikomiana sy ny tsy finoana. (وَلَيَزِيدَنَّ كَثِيرًا مِّنْهُم مَّا أُنزِلَ إِلَيْكَ مِن رَّبِّكَ طُغْيَانًا وَكُفْرًا) 5:64; 5:68
+- Izy niteny hoe: "Ry fireneko! Inona no hevitrareo raha izaho eo amin'ny porofo mazava avy amin'ny Tompoko ary Izy nanome ahy." (قَالَ يَاقَوْمِ أَرَأَيْتُمْ إِن كُنتُ عَلَى بَيِّنَةٍ مِّن رَّبِّي وَآتَانِي) 11:28; 11:63
+- Ary hoy izy ireo: "Maninona raha tsy nampidina famantarana taminy avy amin'ny Tompony?" Lazao hoe: "Tena izy." (وَيَقُولُونَ لَوْلَا أُنزِلَ عَلَيْهِ آيَةٌ مِّن رَّبِّهِ فَقُلْ إِنَّمَا) 10:20; 29:50
+- Alohan'ny hahatongavan'ny andro izay tsy misy fiverenana avy amin'Andriamanitra. (مِن قَبْلِ أَن يَأْتِيَ يَوْمٌ لَّا مَرَدَّ لَهُ مِنَ اللَّهِ) 30:43; 42:47
+- Izany no famindram-pon'Andriamanitra, omeny izay tiany, ary Andriamanitra no Tompon'ny famindram-po lehibe. (ذَلِكَ فَضْلُ اللَّهِ يُؤْتِيهِ مَن يَشَاءُ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ) 57:21; 62:4
+- Ary tena izy, ao amin'ny biby fiompy dia misy lesona ho anareo; mampinono anareo izahay amin'izay ao an-kibony. (وَإِنَّ لَكُمْ فِي الْأَنْعَامِ لَعِبْرَةً نُّسْقِيكُم مِّمَّا فِي بُطُونِهِ) 16:66; 23:21
+- Fa izany no fahamarinana avy amin'ny Tompony, ary Andriamanitra tsy mba tsirambina izay ataony. (أَنَّهُ الْحَقُّ مِن رَّبِّهِمْ وَمَا اللَّهُ بِغَافِلٍ عَمَّا يَعْمَلُونَ) 2:144; 2:149
+- Eo anoloany sy ao aoriany, mba tsy hivavahanareo amin'iza na iza afa-tsy amin'Andriamanitra. (مِن بَيْنِ أَيْدِيهِمْ وَمِنْ خَلْفِهِمْ أَلَّا تَعْبُدُوا إِلَّا اللَّهَ) 41:14; 46:21
+- Tena izy, ianareo manatona ny lehilahy amin'ny filan-dratsy fa tsy ny vehivavy; fa ianareo dia vahoaka mihoa-petra. (إِنَّكُمْ لَتَأْتُونَ الرِّجَالَ شَهْوَةً مِّن دُونِ النِّسَاءِ بَلْ أَنتُمْ قَوْمٌ) 7:81; 27:55
+- Hijanona mandrakizay ao izy ireo, raha mbola misy ny lanitra sy ny tany, afa-tsy izay tian'ny Tomponao. (خَالِدِينَ فِيهَا مَا دَامَتِ السَّمَاوَاتُ وَالْأَرْضُ إِلَّا مَا شَاءَ رَبُّكَ) 11:107; 11:108
+- Izay any amin'ny lanitra sy izay any amin'ny tany, afa-tsy izay tian'Andriamanitra. (مَن فِي السَّمَاوَاتِ وَمَن فِي الْأَرْضِ إِلَّا مَن شَاءَ اللَّهُ) 27:87; 39:68
+- Ao izy ireo dia haingotra amin'ny fehin-tanana volamena sy perla, ary ny fitafiany ao dia landy. (يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِن ذَهَبٍ وَلُؤْلُؤًا وَلِبَاسُهُمْ فِيهَا حَرِيرٌ) 22:23; 35:33
+- Ary nampidinina rano avy any an-danitra Izy, ary tamin'izany dia namoaka voankazo ho sakafo ho anareo. (وَأنزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجَ بِهِ مِنَ الثَّمَرَاتِ رِزْقًا لَّكُمْ) 2:22; 14:32
+- Ary rehefa nandray ny fanekena taminareo Izahay ary nanandratra ny tendrombohitra teo amboninareo: "Raiso amin-kery izay nomenay anareo." (وَإِذْ أَخَذْنَا مِيثَاقَكُمْ وَرَفَعْنَا فَوْقَكُمُ الطُّورَ خُذُوا مَا آتَيْنَاكُم بِقُوَّةٍ) 2:63; 2:93
+- Ary nitodika tsy taminy izy ary niteny hoe: "Ry fireneko! Tena izy, nampitako taminareo ny hafatra avy amin'ny Tompoko ary nanoro hevitra anareo aho." (فَتَوَلَّى عَنْهُمْ وَقَالَ يَاقَوْمِ لَقَدْ أَبْلَغْتُكُمْ رِسَالَةَ رَبِّي وَنَصَحْتُ لَكُمْ) 7:79; 7:93
+- Renirano mikoriana eo ambany, ao izy ireo dia haingotra amin'ny fehin-tanana volamena. (تَجْرِي مِن تَحْتِهِمُ الْأَنْهَارُ يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِن ذَهَبٍ) 18:31; 22:23
+- Na dia manana izay rehetra ety an-tany sy mitovy amin'izany aza izy ireo mba hanavotana ny tenany. (لَوْ أَنَّ لَهُم مَّا فِي الْأَرْضِ جَمِيعًا وَمِثْلَهُ مَعَهُ لِيَفْتَدُوا) 5:36; 13:18
+- Tsy misy biby mandady, fa Andriamanitra mampihemotra azy ireo mandra-pahatongan'ny fotoana voatondro, ary rehefa tonga ny fotoany. (مِن دَابَّةٍ وَلَكِن يُؤَخِّرُهُمْ إِلَى أَجَلٍ مُّسَمًّى فَإِذَا جَاءَ أَجَلُهُمْ) 16:61; 35:45
+- Namorona anareo tamin'ny tany Izahay, avy eo tamin'ny rano madinika, avy eo tamin'ny ra mihantona, avy eo. (خَلَقْنَاكُم مِّن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ مِنْ عَلَقَةٍ ثُمَّ) 22:5; 40:67
+- Ary Andriamanitra hitsara eo amin'izy ireo amin'ny Andro Fitsanganana amin'ny maty momba izay niadian-kevitra. (فَاللَّهُ يَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 2:113; 22:69
+- Tonga taminao ny fahalalana, tsy manana afa-tsy an'Andriamanitra na mpiaro na. (جَاءَكَ مِنَ الْعِلْمِ مَا لَكَ مِنَ اللَّهِ مِن وَلِيٍّ وَلَا) 2:120; 13:37
+- Ary rehefa manome fitahiana an'ny olombelona Izahay, dia mivily sy mihalavitra izy, ary rehefa mikasika azy ny faharatsiana. (وَإِذَا أَنْعَمْنَا عَلَى الْإِنسَانِ أَعْرَضَ وَنَأَى بِجَانِبِهِ وَإِذَا مَسَّهُ الشَّرُّ) 17:83; 41:51
+- Ary tsy misy kely na lehibe noho izany, afa-tsy voasoratra ao amin'ny Boky mazava. (وَلَا أَصْغَرَ مِن ذَلِكَ وَلَا أَكْبَرَ إِلَّا فِي كِتَابٍ مُّبِينٍ) 10:61; 34:3
+
+Matching Phrases 9 words
+
+- Ary hoy izy: "Ry fireneko! Mivavaha amin'Andriamanitra, tsy manana andriamanitra hafa ianareo afa-tsy Izy." (فَقَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ) 7:59; 7:65; 7:73; 7:85; 11:50; 11:61; 11:84; 23:23
+- Moa tsy nandeha teny an-tany ve izy ireo ka tsy nahita ny fiafaran'ireo talohan'izy ireo? (أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ) 12:109; 30:9; 35:44; 40:21; 40:82; 47:10
+- Ny valin-karazany misy eo amin'ny Tompony, ary tsy misy tahotra eo aminy, ary tsy halahelo izy ireo. (أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ) 2:62; 2:112; 2:262; 2:274; 2:277
+- Mandalo eny amin'ny tany izy ireo ka mijery ny fiafaran'ireo talohan'izy ireo. (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن) 30:9; 30:42; 35:44; 40:82; 47:10
+- Eny amin'ny tany, ka mijery ny fiafaran'ireo talohan'izy ireo. (فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ) 30:9; 30:42; 35:44; 40:82; 47:10
+- Ary iza no ratsy fanahy noho izay mamorona lainga momba an'Andriamanitra na mandà? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا أَوْ) 6:21; 6:93; 7:37; 10:17; 29:68
+- Ary rehefa manapa-kevitra zavatra Andriamanitra, dia milaza fotsiny Izy hoe: "Maha!" dia tonga izany. (وَإِذَا قَضَى أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُن فَيَكُونُ) 2:117; 3:47; 19:35; 40:68
+- Ary tsy manana afa-tsy an'Andriamanitra na mpiaro na mpanampy ianareo. (وَمَا لَكُم مِّن دُونِ اللَّهِ مِن وَلِيٍّ وَلَا نَصِيرٍ) 2:107; 9:116; 29:22; 42:31
+- Ahoana raha hamafa ny fahotan'izy ireo aho ary hampiditra azy ao amin'ny valan-javaboary izay misy renirano mikoriana eo ambany. (لَأُكَفِّرَنَّ عَنْهُمْ سَيِّئَاتِهِمْ وَلَأُدْخِلَنَّهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 3:195; 5:12; 64:9; 66:8
+- Hampiditra azy ireo ao amin'ny valan-javaboary izay misy renirano mikoriana eo ambany izahay, hijanona mandrakizay ao. (سَنُدْخِلُهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا) 4:57; 4:122; 64:9; 65:11
+- Ny Tomponao no mahalala indrindra izay very lalana amin'ny lalany, ary Izy no mahalala indrindra. (رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ) 16:125; 53:30; 68:7
+- Hiverina any amin'ilay Mahalala ny miafina sy ny hita maso ianareo, ary Izy hampahafantatra anareo izay nataonareo. (تُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ) 9:94; 9:105; 62:8
+- Novonoiny ny zanakareo lahy ary namela ny vehivavy ho velona; tao izany dia nisy fitsapana lehibe avy amin'ny Tomponareo. (أَبْنَاءَكُمْ وَيَسْتَحْيُونَ نِسَاءَكُمْ وَفِي ذَلِكُم بَلَاءٌ مِّن رَّبِّكُمْ عَظِيمٌ) 2:49; 7:141; 14:6
+- Tena izy, ny Tomponao no mahalala indrindra izay very lalana amin'ny lalany, ary Izy. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ) 16:125; 53:30; 68:7
+- Andriamanitra, Izay an'ny zavatra rehetra any amin'ny lanitra sy ny tany. (اللَّهِ الَّذِي لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 14:2; 34:1; 42:53
+- Ao amin'ny firenena izay efa nisy talohanareo, avy amin'ny jiny sy ny olombelona. (فِي أُمَمٍ قَدْ خَلَتْ مِن قَبْلِكُم مِّنَ الْجِنِّ وَالْإِنسِ) 7:38; 41:25; 46:18
+- Mivavaha amin'Andriamanitra, tsy manana andriamanitra hafa ianareo afa-tsy Izy, moa tsy matahotra ve ianareo? (اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 7:65; 23:23; 23:32
+- Ary nametraka manakona ny fony izahay mba tsy hahatakarany izany, ary tao an-tsofiny dia nisy havizanana. (وَجَعَلْنَا عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا) 6:25; 17:46; 18:57
+- Izy hitsara eo amin'izy ireo amin'ny Andro Fitsanganana amin'ny maty momba izay niadian-kevitra. (يَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 2:113; 16:124; 22:69
+- Izy niteny hoe: "Ry fireneko! Inona no hevitrareo raha izaho eo amin'ny porofo mazava avy amin'ny Tompoko?" (قَالَ يَاقَوْمِ أَرَأَيْتُمْ إِن كُنتُ عَلَى بَيِّنَةٍ مِّن رَّبِّي) 11:28; 11:63; 11:88
+- Izany dia noho izay nataon'ny tànanareo, ary Andriamanitra tsy mba mpanao ankeriny amin'ny mpanompo. (ذَلِكَ بِمَا قَدَّمَتْ أَيْدِيكُمْ وَأَنَّ اللَّهَ لَيْسَ بِظَلَّامٍ لِّلْعَبِيدِ) 3:182; 8:51; 22:10
+- Ho azy ireo eto amin'ity tontolo ity dia fahafaham-baraka, ary any amin'ny tontolo ho avy dia sazy lehibe. (لَهُمْ فِي الدُّنْيَا خِزْيٌ وَلَهُمْ فِي الْآخِرَةِ عَذَابٌ عَظِيمٌ) 2:114; 5:41
+- Izay rehetra any amin'ny lanitra sy ny tany, ary Andriamanitra dia ampy ho Mpiaro. (مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَكَفَى بِاللَّهِ وَكِيلًا) 4:132; 4:171
+- Afa-tsy ireo izay nino sy nanao asa tsara; ho azy ireo ny valisoa tsy misy fiafarana. (إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ) 84:25; 95:6
+- Mba hanompoana ahy miaraka amin'izay tsy fantatrao; aza manaraka azy roa. (لِتُشْرِكَ بِي مَا لَيْسَ لَكَ بِهِ عِلْمٌ فَلَا تُطِعْهُمَا) 29:8; 31:15
+- Tena izy, ity dia fampahatsiahivana; izay tia, dia maka lalana mankany amin'ny Tompony. (إِنَّ هَذِهِ تَذْكِرَةٌ فَمَن شَاءَ اتَّخَذَ إِلَى رَبِّهِ سَبِيلًا) 73:19; 76:29
+- Ary izay misaotra, dia misaotra ho an'ny tenany; ary izay mandà. (وَمَن شَكَرَ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِ وَمَن كَفَرَ فَإِنَّ) 27:40; 31:12
+- Ireo izay manao ny vavaka, manome ny fiantrana, ary mino mafy ny tontolo ho avy. (الَّذِينَ يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُم بِالْآخِرَةِ هُمْ يُوقِنُونَ) 27:3; 31:4
+- (Nino) an'i Abrahama, Ismaela, Isaka, Jakoba ary ny foko, ary izay nomena an'i Mosesy sy Jesosy. (إِبْرَاهِيمَ وَإِسْمَاعِيلَ وَإِسْحَاقَ وَيَعْقُوبَ وَالْأَسْبَاطِ وَمَا أُوتِيَ مُوسَى وَعِيسَى) 2:136; 3:84
+- Mivondrona, mandra-pahatongany ao, dia hisokatra ny varavarana, ary hoy ny mpiandry varavarana aminy. (زُمَرًا حَتَّى إِذَا جَاءُوهَا فُتِحَتْ أَبْوَابُهَا وَقَالَ لَهُمْ خَزَنَتُهَا) 39:71; 39:73
+- Andriamanitra tsy mba manasazy anareo noho ny fianianana tsy niniana, fa manasazy anareo noho izay. (لَّا يُؤَاخِذُكُمُ اللَّهُ بِاللَّغْوِ فِي أَيْمَانِكُمْ وَلَكِن يُؤَاخِذُكُم بِمَا) 2:225; 5:89
+- Famindram-po, faly amin'izany izy ireo, ary raha misy faharatsiana mikasika azy noho izay nataon'ny tànan'izy ireo. (رَحْمَةً فَرِحُوا بِهَا وَإِن تُصِبْهُمْ سَيِّئَةٌ بِمَا قَدَّمَتْ أَيْدِيهِمْ) 30:36; 42:48
+- Valan-javaboary izay misy renirano mikoriana eo ambany, hijanona mandrakizay ao, ary tsara ny valin-karazan'ny mpiasa! (تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَنِعْمَ أَجْرُ الْعَامِلِينَ) 3:136; 29:58
+- Andriamanitra mahalala izay rehetra any amin'ny lanitra sy ny tany, ary Andriamanitra. (اللَّهُ وَيَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَاللَّهُ) 3:29; 49:16
+- Ankatoavy an'Andriamanitra ary ankatoavy ny Iraka; fa raha mivily ianareo, dia eo aminy. (أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ فَإِن تَوَلَّوْا فَإِنَّمَا عَلَيْهِ) 24:54; 64:12
+- Manana ny valin-karazany eo amin'ny Tompony izy ireo, ary tsy misy tahotra eo aminy, ary izy ireo. (فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ) 2:274; 2:277
+- Ary hoy izy ireo: "Mo ve raha tonga taolana sy vovoka izahay, dia havelona indray ho zavaboary vaovao?" (وَقَالُوا أَإِذَا كُنَّا عِظَامًا وَرُفَاتًا أَإِنَّا لَمَبْعُوثُونَ خَلْقًا جَدِيدًا) 17:49; 17:98
+- Ary tsy mahita afa-tsy an'Andriamanitra na mpiaro na mpanampy ho an'ny tenany izy ireo. (وَلَا يَجِدُونَ لَهُم مِّن دُونِ اللَّهِ وَلِيًّا وَلَا نَصِيرًا) 4:173; 33:17
+- "Hafiriana no nitohizanao?" Hoy izy: "Nitoetra andro iray na ampahany tamin'ny andro aho." Hoy izy. (كَمْ لَبِثْتَ قَالَ لَبِثْتُ يَوْمًا أَوْ بَعْضَ يَوْمٍ قَالَ) 2:259; 18:19
+- Mandrakizay mandra-pahatongan'ny Andro Fitsanganana amin'ny maty, iza no andriamanitra afa-tsy Andriamanitra izay hitondra anareo? (سَرْمَدًا إِلَى يَوْمِ الْقِيَامَةِ مَنْ إِلَهٌ غَيْرُ اللَّهِ يَأْتِيكُم) 28:71; 28:72
+- Izay manao asa tsara, na lehilahy na vehivavy, ary mino. (مَنْ عَمِلَ صَالِحًا مِّن ذَكَرٍ أَوْ أُنثَى وَهُوَ مُؤْمِنٌ) 16:97; 40:40
+- Ireo izay manakana ny lalan'Andriamanitra ary maniry hiolikolika izany, ary izy ireo amin'ny tontolo ho avy. (الَّذِينَ يَصُدُّونَ عَن سَبِيلِ اللَّهِ وَيَبْغُونَهَا عِوَجًا وَهُم بِالْآخِرَةِ) 7:45; 11:19
+- Mihinana na aiza na aiza tianareo, fa aza manakaiky an'ity hazo ity, fandrao ho mpanao ankeriny ianareo. (حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَذِهِ الشَّجَرَةَ فَتَكُونَا مِنَ الظَّالِمِينَ) 2:35; 7:19
+- Lazao hoe: "Ry fireneko! Miasa araka ny fahafahanareo, fa izaho koa miasa, ary ho fantatrareo." (قُلْ يَاقَوْمِ اعْمَلُوا عَلَى مَكَانَتِكُمْ إِنِّي عَامِلٌ فَسَوْفَ تَعْلَمُونَ) 6:135; 39:39
+- Tena izy, ny very tapa dia ireo izay very ny tenany sy ny ankohonany amin'ny Andro Fitsanganana amin'ny maty, moa. (إِنَّ الْخَاسِرِينَ الَّذِينَ خَسِرُوا أَنفُسَهُمْ وَأَهْلِيهِمْ يَوْمَ الْقِيَامَةِ أَلَا) 39:15; 42:45
+- Izay mitari-dalana, dia mitari-dalana ho an'ny tenany; ary izay very lalana, dia very lalana ho an'ny tenany; ary. (يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا وَمَا) 10:108; 39:41
+- Ary ireo izay tsy mino dia hoy: "Maninona raha tsy nampidina famantarana taminy avy amin'ny Tompony?" (وَيَقُولُ الَّذِينَ كَفَرُوا لَوْلَا أُنزِلَ عَلَيْهِ آيَةٌ مِّن رَّبِّهِ) 13:7; 13:27
+- Ilay nanao ny alina ho anareo mba hialan-tsasatra ao, ary ny andro mba hahitana, tena izy. (الَّذِي جَعَلَ لَكُمُ اللَّيْلَ لِتَسْكُنُوا فِيهِ وَالنَّهَارَ مُبْصِرًا إِنَّ) 10:67; 40:61
+- Alohan'ny hahatongavan'ny andro izay tsy misy varotra sy fisakaizana. (مِّن قَبْلِ أَن يَأْتِيَ يَوْمٌ لَّا بَيْعٌ فِيهِ وَلَا) 2:254; 14:31
+- Mba hisaintsainany fa tsy adala ny namany; izy dia mampitandrina fotsiny. (يَتَفَكَّرُوا مَا بِصَاحِبِهِم مِّن جِنَّةٍ إِنْ هُوَ إِلَّا نَذِيرٌ) 7:184; 34:46
+- Hijanona mandrakizay ao, tsy havoina ny sazy aminy, ary tsy hahazo fiatoana izy ireo. (خَالِدِينَ فِيهَا لَا يُخَفَّفُ عَنْهُمُ الْعَذَابُ وَلَا هُمْ يُنظَرُونَ) 2:162; 3:88
+- Aza maninjitra ny masonao amin'izay nomenay fahafinaretana ny sasany tamin'izy ireo. (لَا تَمُدَّنَّ عَيْنَيْكَ إِلَى مَا مَتَّعْنَا بِهِ أَزْوَاجًا مِّنْهُمْ) 15:88; 20:131
+- Ary aza manisy kely ny zava-manan'ny olona, ary aza manao korontana eto an-tany. (وَلَا تَبْخَسُوا النَّاسَ أَشْيَاءَهُمْ وَلَا تَعْثَوْا فِي الْأَرْضِ مُفْسِدِينَ) 11:85; 26:183
+- Ary fiadanana anie ho eo aminy amin'ny andro nahaterahany, sy ny andro ahafatesany, ary ny andro hahavelomany indray. (وَسَلَامٌ عَلَيْهِ يَوْمَ وُلِدَ وَيَوْمَ يَمُوتُ وَيَوْمَ يُبْعَثُ حَيًّا) 19:15; 19:33
+- Ry fireneko! Miasa araka ny fahafahanareo, fa izaho koa miasa, ary ho fantatrareo hoe iza. (يَاقَوْمِ اعْمَلُوا عَلَى مَكَانَتِكُمْ إِنِّي عَامِلٌ فَسَوْفَ تَعْلَمُونَ مَن) 6:135; 11:93
+- Ary tsy misy iraka afaka mitondra famantarana raha tsy amin'ny alalan'ny fahazoan-dàlana avy amin'Andriamanitra. (وَمَا كَانَ لِرَسُولٍ أَن يَأْتِيَ بِآيَةٍ إِلَّا بِإِذْنِ اللَّهِ) 13:38; 40:78
+- Avy eo dia homena tsara ny fanahy tsirairay izay azony, ary tsy hatao ankeriny izy ireo. (ثُمَّ تُوَفَّى كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ) 2:281; 3:161
+- Lehilahy na vehivavy, ary mino, dia izy ireo no hiditra ao amin'ny Paradisa. (مِن ذَكَرٍ أَوْ أُنثَى وَهُوَ مُؤْمِنٌ فَأُولَئِكَ يَدْخُلُونَ الْجَنَّةَ) 4:124; 40:40
+- Tsy nanana zanaka Izy, ary tsy nanana mpiara-miombona amin'ny fanjakana. (لَمْ يَتَّخِذْ وَلَدًا وَلَمْ يَكُن لَّهُ شَرِيكٌ فِي الْمُلْكِ) 17:111; 25:2
+- Ary izay notarihin'Andriamanitra, dia izy no voa tari-dalana; ary izay navelany hivily. (وَمَن يَهْدِ اللَّهُ فَهُوَ الْمُهْتَدِ وَمَن يُضْلِلْ فَلَن تَجِدَ) 17:97; 18:17
+- Jereo ny fomba nametrahany ohatra ho anao, ka very lalana izy ireo, ary tsy mahita lalana. (انظُرْ كَيْفَ ضَرَبُوا لَكَ الْأَمْثَالَ فَضَلُّوا فَلَا يَسْتَطِيعُونَ سَبِيلًا) 17:48; 25:9
+- Lazao hoe: "Matahotra ny sazy amin'ny Andro lehibe aho raha manota amin'ny Tompoko." (قُلْ إِنِّي أَخَافُ إِنْ عَصَيْتُ رَبِّي عَذَابَ يَوْمٍ عَظِيمٍ) 6:15; 39:13
+- Niseho tamin'izy roa ny henany, ary nanomboka nanarona ny tenany tamin'ny ravin'ny Paradisa izy roa. (بَدَتْ لَهُمَا سَوْآتُهُمَا وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِن وَرَقِ الْجَنَّةِ) 7:22; 20:121
+- Ary miantsoa izay azonareo antsoina, afa-tsy an'Andriamanitra, raha mpanao marina ianareo. (وَادْعُوا مَنِ اسْتَطَعْتُم مِّن دُونِ اللَّهِ إِن كُنتُمْ صَادِقِينَ) 10:38; 11:13
+- Izay rehetra ety an-tany sy mitovy amin'izany, mba hanavotana ny tenany. (مَّا فِي الْأَرْضِ جَمِيعًا وَمِثْلَهُ مَعَهُ لِيَفْتَدُوا بِهِ مِنْ) 5:36; 39:47
+- Raiso amin-kery izay nomenay anareo, ary tsarovy izay ao anatiny, mba ho mpivavaka tsara ianareo. (خُذُوا مَا آتَيْنَاكُم بِقُوَّةٍ وَاذْكُرُوا مَا فِيهِ لَعَلَّكُمْ تَتَّقُونَ) 2:63; 7:171
+- Moa manao fahalotoana izay tsy nisy olona talohanareo nanao ve ianareo? (أَتَأْتُونَ الْفَاحِشَةَ مَا سَبَقَكُم بِهَا مِنْ أَحَدٍ مِّنَ الْعَالَمِينَ) 7:80; 29:28
+- Ary an'Andriamanitra ny zavatra rehetra any amin'ny lanitra sy ny tany, ary Andriamanitra dia. (وَلِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَكَانَ اللَّهُ) 4:126; 4:131
+- Nahazo azy ireo ny faharatsian'ny zavatra nataony, ary nanodidina azy ireo izay nihomehezany. (سَيِّئَاتُ مَا عَمِلُوا وَحَاقَ بِهِم مَّا كَانُوا بِهِ يَسْتَهْزِئُونَ) 16:34; 45:33
+- Iraka avy eo aminareo, mamaky ny famantaranay ho anareo, manadio anareo ary mampianatra anareo ny Soratra sy ny Fahendrena. (رَسُولًا مِّنكُمْ يَتْلُو عَلَيْكُمْ آيَاتِنَا وَيُزَكِّيكُمْ وَيُعَلِّمُكُمُ الْكِتَابَ وَالْحِكْمَةَ) 2:151; 62:2
+- Nipoitra avy tao ny loharano roa ambin'ny folo; samy nahafantatra ny toerana hisotroany ny vahoaka tsirairay. (مِنْهُ اثْنَتَا عَشْرَةَ عَيْنًا قَدْ عَلِمَ كُلُّ أُنَاسٍ مَّشْرَبَهُمْ) 2:60; 7:160
+- Afa-tsy vinavina, ary ny vinavina tsy mahasoa na dia kely aza amin'ny fahamarinana. (إِلَّا ظَنًّا إِنَّ الظَّنَّ لَا يُغْنِي مِنَ الْحَقِّ شَيْئًا) 10:36; 53:28
+- Ary rehefa vitako sy nitsoka rivotra avy amin'ny fanahiko tao aminy aho, dia miankohofa eo anoloany. (فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ فِيهِ مِن رُّوحِي فَقَعُوا لَهُ سَاجِدِينَ) 15:29; 38:72
+- Iza no hanana ny fiafarana tsara eto amin'ity tontolo ity? Tena izy, ny mpanao ankeriny tsy hahomby. (مَن تَكُونُ لَهُ عَاقِبَةُ الدَّارِ إِنَّهُ لَا يُفْلِحُ الظَّالِمُونَ) 6:135; 28:37
+- Ilay namorona ny lanitra sy ny tany dia mahay namorona tahaka azy ireo. (الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ قَادِرٌ عَلَى أَن يَخْلُقَ مِثْلَهُمْ) 17:99; 36:81
+- Ho an'ny lehilahy mpino sy ny vehivavy mpino dia misy valan-javaboary izay misy renirano mikoriana eo ambany, hijanona mandrakizay ao. (الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 9:72; 48:5
+- Ary raha manontany azy ireo ianao hoe iza no namorona ny lanitra sy ny tany, dia ho tonga ny valiny hoe: "Andriamanitra." Lazao. (وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ لَيَقُولُنَّ اللَّهُ قُلِ) 31:25; 39:38
+- Ary tena izy, naneho ohatra isan-karazany ho an'ny olona izahay tao amin'ity CORAN ity. (وَلَقَدْ ضَرَبْنَا لِلنَّاسِ فِي هَذَا الْقُرْآنِ مِن كُلِّ مَثَلٍ) 30:58; 39:27
+- Rehefa tonga tany amin'i Lota ny iraka nirahinay, dia nalahelo sy nanjary tery fo izy, ary niteny. (جَاءَتْ رُسُلُنَا لُوطًا سِيءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًا وَقَالَ) 11:77; 29:33
+- Ary rehefa hoy izahay tamin'ny anjely: "Miankohofa eo anoloan'i Adama," dia niankohofa izy ireo, afa-tsy Iblisy, izay nandà. (وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا إِبْلِيسَ أَبَى) 2:34; 20:116
+- Ary ny tany dia natolotray, ary nametraka tendrombohitra taminy izahay, ary nampitombo zavamaniry isan-karazany taminy. (وَالْأَرْضَ مَدَدْنَاهَا وَأَلْقَيْنَا فِيهَا رَوَاسِيَ وَأَنبَتْنَا فِيهَا مِن كُلِّ) 15:19; 50:7
+- Niantso an'Andriamanitra izy ireo tamin'ny fahadiovan'ny finoana ho Azy, ary rehefa namonjy azy tany an-tanety Izy. (دَعَوُا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ فَلَمَّا نَجَّاهُمْ إِلَى الْبَرِّ) 29:65; 31:32
+- Ho azy ireo ny zava-pisotro rano mangotraka sy sazy maharary, noho ny tsy finoany. (لَهُمْ شَرَابٌ مِّنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْفُرُونَ) 6:70; 10:4
+- Moa hiantso afa-tsy an'Andriamanitra ve izahay, izay tsy mahasoa na manimba antsika? (أَنَدْعُو مِن دُونِ اللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا) 6:71; 10:106
+- Andriamanitra mahalala izay rehetra any amin'ny lanitra sy ny tany. (أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 5:97; 58:7
 """;

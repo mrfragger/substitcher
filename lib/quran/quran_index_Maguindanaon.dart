@@ -3022,5 +3022,149 @@ Matching Phrases 11 words
 - So piyamumug ko salakao o Allah, na sa tao a khadarpa (ko kagutom), a kuna a ba niyan khabaya go di mabaloi a dadag, na... (أُهِلَّ لِغَيْرِ اللَّهِ بِهِ فَمَنِ اضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ) 6:145; 16:115
 - Na igira a pitharo kiran: 'Toniya niyo so tomiyorun o Allah,' na pitharo iran: 'Kuna, na toniya mi so miyatagowan a mi ka so manga lokus nami.' (وَإِذَا قِيلَ لَهُمُ اتَّبِعُوا مَا أَنزَلَ اللَّهُ قَالُوا بَلْ نَتَّبِعُ مَا) 2:170; 31:21
 - Pitharo iyan: 'Hai pagtao aken, showasowata niyo so Allah; da a kiran iyo a Tohan a salakao Rukaniyan. Ino kano di Makapangandam?' (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 7:65; 23:23
+Matching Phrases 10 words
 
+- So kiran na di makapananaw ko layag, go iran miyaigay a giyoto o manga miyangaona-an kiran. (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ) 12:109; 30:9; 30:42; 35:44; 40:82; 47:10
+- Go ba matawan a maalong a di so tao a miyaanggal ko Allah sa kabokhag, odiya na miyakambokhag? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا أَوْ كَذَّبَ) 6:21; 7:37; 10:17; 29:68
+- Mata-an a so Kadnan ka, na Sakaniao i Matao a doon ko tao a midadag ko okit Iyan, go Sakaniao i Matao. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ مَن يَضِلُّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ) 6:117; 16:125; 53:30; 68:7
+- Ba siran di makapananaw ko layag, go di iran miyaigay a giyoto o manga miyangaona-an kiran? (أَوَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن) 30:9; 35:44; 40:82; 47:10
+- Adun a bagiyo iran so balas iran ko Kadnan iran, go da-a kaluk ko siran, go di siran makakasi. (فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ) 2:62; 2:262; 2:274; 2:277
+- Go so miyamaratiyaya go miyakagokor sa manga pipiya, na piyakasoinda siran ko manga surga a puphamangondayog so manga lawasaig ko kababa-an niyan. (وَأُدْخِلَ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 14:23; 22:14; 22:23; 47:12
+- Pitharo iyan: "Hai pagtao aki! Showasowata ni so Allah, da-a Tohan niyo a salakao Rkaniyan, ina di kano makaluk?" (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا) 7:65; 11:84; 23:23
+- Di siran mabanggola o manga tamok iran go manga wata iran ko Allah a sa bo a bantak, go siran na siran na. (لَن تُغْنِيَ عَنْهُمْ أَمْوَالُهُمْ وَلَا أَوْلَادُهُم مِّنَ اللَّهِ شَيْئًا وَأُولَئِكَ) 3:10; 3:116; 58:17
+- Manga surga a puphamangondayog so manga lawasaig ko kababa-an niyan, makakakal siran non, go na so manan a da kapanagowan. (جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَذَلِكَ الْفَوْزُ الْعَظِيمُ) 4:13; 9:89
+- Ba siran di pakataoma o togitogi o miyangaona-an kiran, so pagtao o Nuh, go so A'ad, go so Samud? (أَلَمْ يَأْتِهِمْ نَبَأُ الَّذِينَ مِن قَبْلِهِمْ قَوْمِ نُوحٍ وَعَادٍ وَثَمُودَ) 9:70; 14:9
+- Ba sa matao so manga tabanga aki a phakasongko ko Allah? Pitharo o manga Hawariyun: "Sukaniyan ami so manga tabanga o Allah, miyamaratiyaya ami." (مَنْ أَنصَارِي إِلَى اللَّهِ قَالَ الْحَوَارِيُّونَ نَحْنُ أَنصَارُ اللَّهِ آمَنَّا) 3:52; 61:14
+- So Kadnan ka, na Sakaniao i Matao ko tao a miyadadag ko okit Iyan, go Sakaniao i Matao ko miyanggonanao. (رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ) 16:125; 68:7
+- Manan na, sabap sa Mataan a so Allah na so Bunar, go so puthatawagan niran a salakao Rkaniyan na so kabokhag. (ذَلِكَ بِأَنَّ اللَّهَ هُوَ الْحَقُّ وَأَنَّ مَا يَدْعُونَ مِن دُونِهِ) 22:62; 31:30
+- Go sa tao a pagonotan iyan so Allah go so Sogo Iyan, na phakasoindun o Allah ko manga surga a puphamangondayog so manga lawasaig ko kababa-an niyan. (وَمَن يُطِعِ اللَّهَ وَرَسُولَهُ يُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 4:13; 48:17
+- Mata-an a so ini-pangram iyan rkaniyo na so miyatai, go so rogo, go so sapo o baboy, go so ini-sompa sa salakao ko Allah. (إِنَّمَا حَرَّمَ عَلَيْكُمُ الْمَيْتَةَ وَالدَّمَ وَلَحْمَ الْخِنزِيرِ وَمَا أُهِلَّ) 2:173; 16:115
+- Sa di kano phanowasowat sa salakao ko Allah; mata-an a sakun na ipangandam ako ko bagiyo so siksa ko Alongan a mala. (أَن لَّا تَعْبُدُوا إِلَّا اللَّهَ إِنِّي أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ) 11:26; 46:21
+- Manan na a pud ko togitogi o gaib a Pushowakun mi rka; na da ka bo kiran ko masa a miyanggola iran so pakipagtas. (ذَلِكَ مِنْ أَنبَاءِ الْغَيْبِ نُوحِيهِ إِلَيْكَ وَمَا كُنتَ لَدَيْهِمْ إِذْ) 3:44; 12:102
+- Ba kano puphakamumung a miyakaoma rkaniyo so Pananadum a phoon ko Kadnan niyo, so si-i ko mama a pud iyo, ka phanapiya iyan rkaniyo? (أَوَعَجِبْتُمْ أَن جَاءَكُمْ ذِكْرٌ مِّن رَّبِّكُمْ عَلَى رَجُلٍ مِّنكُمْ لِيُنذِرَكُمْ) 7:63; 7:69
+- Tharowangka: "Mata-an a so sakun na piyangaraman a di ako phanowasowat ko puthatawagan niyo a salakao ko Allah." (قُلْ إِنِّي نُهِيتُ أَنْ أَعْبُدَ الَّذِينَ تَدْعُونَ مِن دُونِ اللَّهِ) 6:56; 40:66
+- Inonta so manga asawa iran, odiya na so miyababa-an o manga lima iran a kawanan, na mata-an a siran na di phakasala. (إِلَّا عَلَى أَزْوَاجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَانُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ) 23:6; 70:30
+- Sabap sa mata-an a so Allah na Puphakasoludun Iyan so gagawi-i ko daondao, go Puphakasoludun Iyan so daondao ko gagawi-i. (بِأَنَّ اللَّهَ يُولِجُ اللَّيْلَ فِي النَّهَارِ وَيُولِجُ النَّهَارَ فِي اللَّيْلِ) 22:61; 31:29
+- Apoi, na Pitharo iyan ko taalok iyan: "Kawasa kano, mata-an a sakun na miyakailo ako sa apoi, masla a makatenga ako rkaniyo sa bo a bantak." (نَارًا فَقَالَ لِأَهْلِهِ امْكُثُوا إِنِّي آنَسْتُ نَارًا لَّعَلِّي آتِيكُم مِّنْهَا) 20:10; 28:29
+- Pitharo iyan: "Sakun na mapiya a di sokaniyan; Inadun akongka ko apoi, go Inadun ongka sokaniyan ko lipa." (قَالَ أَنَا خَيْرٌ مِّنْهُ خَلَقْتَنِي مِن نَّارٍ وَخَلَقْتَهُ مِن طِينٍ) 7:12; 38:76
+- Go igira a pitharo kiran: "Oma kano ko (Kitab) a so ini-pakatoron o Allah, go ko Sogo." (وَإِذَا قِيلَ لَهُمْ تَعَالَوْا إِلَى مَا أَنزَلَ اللَّهُ وَإِلَى الرَّسُولِ) 4:61; 5:104
+- Go di ka makakasi sabap kiran, go di ka mabaloi a miyaigpit sabap ko pupungantangan iran. (وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُ فِي ضَيْقٍ مِّمَّا يَمْكُرُونَ) 16:127; 27:70
+- Go oba ka masogat o Allah sa marat, na da-a makapokas on sa salakao Rkaniyan, go oba. (وَإِن يَمْسَسْكَ اللَّهُ بِضُرٍّ فَلَا كَاشِفَ لَهُ إِلَّا هُوَ وَإِن) 6:17; 10:107
+- Miyaona-an kiran so manga pagtao a puphamakapananaw ko manga darpa iran; mata-an a adun a tanda kiran. (قَبْلَهُم مِّنَ الْقُرُونِ يَمْشُونَ فِي مَسَاكِنِهِمْ إِنَّ فِي ذَلِكَ لَآيَاتٍ) 20:128; 32:26
+- Go biyaloy Ami so manga lilub kiran so manga poso iran, ka di iran kasabota, go si-i ko manga tangila iran so kabagel, go oba. (وَجَعَلْنَا عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا وَإِن) 6:25; 18:57
+- Somiyong kiran so manga Sogo iran a rakhus o manga Karina a mapayag, na da ko Allah a ba Niyan siran ndzalimi, na ogaid na siran na so giyoto siran na ini-ndzalim iran. (رُسُلُهُم بِالْبَيِّنَاتِ فَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ وَلَكِن كَانُوا أَنفُسَهُمْ يَظْلِمُونَ) 9:70; 30:9
+- Go so layag, na da-a bagiyo niyo a salakao ko Allah a wali go da-a tabanga. (وَالْأَرْضِ وَمَا لَكُم مِّن دُونِ اللَّهِ مِن وَلِيٍّ وَلَا نَصِيرٍ) 2:107; 42:31
+- Oriyan niyan na phakandodan kano ko (Allah a) Matao ko gaib go so mapayag, na Phanothol Iyan rkaniyo so pinggogola niyo. (ثُمَّ تُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ) 9:94; 62:8
+- So gagawi-i, ka makapakadukha kano-on, go so daondao, ka makakailao kano; mata-an a adun a tanda kiran ko pagtao a puphamikir. (اللَّيْلَ لِتَسْكُنُوا فِيهِ وَالنَّهَارَ مُبْصِرًا إِنَّ فِي ذَلِكَ لَآيَاتٍ لِّقَوْمٍ) 10:67; 27:86
+- Go so ini-pakatoron rka a phoon ko Kadnan ka, na phakapunggulang ko kadaklan kiran so panganggaw go so kapakambokhag. (وَلَيَزِيدَنَّ كَثِيرًا مِّنْهُم مَّا أُنزِلَ إِلَيْكَ مِن رَّبِّكَ طُغْيَانًا وَكُفْرًا) 5:64; 5:68
+- Pitharo iyan: "Hai pagtao aki! Pamikira niyo, oba ako matag ko Karina a mapayag a phoon ko Kadnan ko, go bigan Ako Niyan." (قَالَ يَاقَوْمِ أَرَأَيْتُمْ إِن كُنتُ عَلَى بَيِّنَةٍ مِّن رَّبِّي وَآتَانِي) 11:28; 11:63
+- Go pitharo iran: "Ina so ini-pakatoron on so Tanda a phoon ko Kadnan on?" Tharowangka: "Mata-an a so." (وَيَقُولُونَ لَوْلَا أُنزِلَ عَلَيْهِ آيَةٌ مِّن رَّبِّهِ فَقُلْ إِنَّمَا) 10:20; 29:50
+- Ko ona-an o kataoma o Alongan a da-a pakandodan on a phoon ko Allah. (مِن قَبْلِ أَن يَأْتِيَ يَوْمٌ لَّا مَرَدَّ لَهُ مِنَ اللَّهِ) 30:43; 42:47
+- Manan na so Limo o Allah, imbaga Niyan ko tao a kabaya Iyan, go so Allah na Khawasa-an o Limo a mala. (ذَلِكَ فَضْلُ اللَّهِ يُؤْتِيهِ مَن يَشَاءُ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ) 57:21; 62:4
+- Go mata-an a adun a bagiyo niyan ko manga ayam a pananadum; Puphakainom Ami rkaniyo so matago ko manga tiyan niyan. (وَإِنَّ لَكُمْ فِي الْأَنْعَامِ لَعِبْرَةً نُّسْقِيكُم مِّمَّا فِي بُطُونِهِ) 16:66; 23:21
+- Mata-an a sokaniyan na so Bunar a phoon ko Kadnan iran, go da ko Allah a ba Niyan kalilipati so pinggogola iran. (أَنَّهُ الْحَقُّ مِن رَّبِّهِمْ وَمَا اللَّهُ بِغَافِلٍ عَمَّا يَعْمَلُونَ) 2:144; 2:149
+- Si-i ko hadapan iran, go si-i ko talikodan iran, sa di kano phanowasowat sa salakao ko Allah. (مِن بَيْنِ أَيْدِيهِمْ وَمِنْ خَلْفِهِمْ أَلَّا تَعْبُدُوا إِلَّا اللَّهَ) 41:14; 46:21
+- Mata-an a sukaniyo na puphakatalingoma kano ko manga mama sa lungun, a ginawa niyo so manga babai; ogaid na sukaniyo na pagtao a phumalawan. (إِنَّكُمْ لَتَأْتُونَ الرِّجَالَ شَهْوَةً مِّن دُونِ النِّسَاءِ بَلْ أَنتُمْ قَوْمٌ) 7:81; 27:55
+- Makakakal siran non, ko masa a kashai o manga langit go so layag, inonta so kabaya o Kadnan ka. (خَالِدِينَ فِيهَا مَا دَامَتِ السَّمَاوَاتُ وَالْأَرْضُ إِلَّا مَا شَاءَ رَبُّكَ) 11:107; 11:108
+- So matago ko manga langit go so matago ko layag, inonta so kabaya o Allah. (مَن فِي السَّمَاوَاتِ وَمَن فِي الْأَرْضِ إِلَّا مَن شَاءَ اللَّهُ) 27:87; 39:68
+- Phakapumbati siran-on sa manga galang a bolawan go sa manga mutiya, go so manga nditarun siran non na manga sutra. (يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِن ذَهَبٍ وَلُؤْلُؤًا وَلِبَاسُهُمْ فِيهَا حَرِيرٌ) 22:23; 35:33
+- Go Initoron Niyan so ig a phoon ko langit, na Inibawa Iyan sa sabab iyan so manga owa a pangabay. (وَأنزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجَ بِهِ مِنَ الثَّمَرَاتِ رِزْقًا لَّكُمْ) 2:22; 14:32
+- Go igira a biyaloy Ami so sandig iyo, go ini-pangkat Ami ko katalobo-an niyo so Palao a Tur: "Bilanga niyo so ini-tao Ami rkaniyo sa kagos." (وَإِذْ أَخَذْنَا مِيثَاقَكُمْ وَرَفَعْنَا فَوْقَكُمُ الطُّورَ خُذُوا مَا آتَيْنَاكُم بِقُوَّةٍ) 2:63; 2:93
+- Na miyaliliy iyan siran, na Pitharo iyan: "Hai pagtao aki! Mata-an a ini-sampai Ako rkaniyo so palakao o Kadnan ko, go miyanggolaw ako rkaniyo." (فَتَوَلَّى عَنْهُمْ وَقَالَ يَاقَوْمِ لَقَدْ أَبْلَغْتُكُمْ رِسَالَةَ رَبِّي وَنَصَحْتُ لَكُمْ) 7:79; 7:93
+- Puphamangondayog so manga lawasaig ko kababa-an iran, phakapumbati siran non sa manga galang a bolawan. (تَجْرِي مِن تَحْتِهِمُ الْأَنْهَارُ يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِن ذَهَبٍ) 18:31; 22:23
+- Oba siran mabaloi a adun a bagiyo iran so langon ko matago ko layag, go so lagid iyan a rakhus iyan, ka makapanebus siran. (لَوْ أَنَّ لَهُم مَّا فِي الْأَرْضِ جَمِيعًا وَمِثْلَهُ مَعَهُ لِيَفْتَدُوا) 5:36; 13:18
+- Da-a bo a papanawun, ogaid na so Allah na puthakalumba Iyan siran ko taman a waktu a miyataidan, na igira a miyakatalingoma so waktu iran. (مِن دَابَّةٍ وَلَكِن يُؤَخِّرُهُمْ إِلَى أَجَلٍ مُّسَمًّى فَإِذَا جَاءَ أَجَلُهُمْ) 16:61; 35:45
+- Inadun Ami sukaniyo a phoon ko botha, oriyan niyan a phoon ko mogan, oriyan niyan a phoon ko rogo a milukut, oriyan niyan. (خَلَقْنَاكُم مِّن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ مِنْ عَلَقَةٍ ثُمَّ) 22:5; 40:67
+- Na so Allah na phakokomun Iyan ko lut iran ko Alongan a Qiyamah, ko piyakasabali iran. (فَاللَّهُ يَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 2:113; 22:69
+- Somiyong rka so ba-ad a katao, na da-a bagiyo ka a phoon ko Allah a wali go da-a. (جَاءَكَ مِنَ الْعِلْمِ مَا لَكَ مِنَ اللَّهِ مِن وَلِيٍّ وَلَا) 2:120; 13:37
+- Go igira a ini-limowan Ami so Manosiya, na tomaliyik ago, go miyawidi ko kilid iyan, go igira a miyasogat o marat. (وَإِذَا أَنْعَمْنَا عَلَى الْإِنسَانِ أَعْرَضَ وَنَأَى بِجَانِبِهِ وَإِذَا مَسَّهُ الشَّرُّ) 17:83; 41:51
+- Go da-a puphakaito on a di so kiyatago ko Kitab a mapayag. (وَلَا أَصْغَرَ مِن ذَلِكَ وَلَا أَكْبَرَ إِلَّا فِي كِتَابٍ مُّبِينٍ) 10:61; 34:3
+
+Matching Phrases 9 words
+
+- Na Pitharo iyan: "Hai pagtao aki! Showasowata niyo so Allah, da-a Tohan niyo a salakao Rkaniyan." (فَقَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ) 7:59; 7:65; 7:73; 7:85; 11:50; 11:61; 11:84; 23:23
+- Ba siran di makapananaw ko layag, go di iran miyaigay a giyoto o miyangaona-an kiran? (أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ) 12:109; 30:9; 35:44; 40:21; 40:82; 47:10
+- So balas iran na si-i ko Kadnan iran, go da-a kaluk ko siran, go di siran makakasi. (أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ) 2:62; 2:112; 2:262; 2:274; 2:277
+- So kiran na di makapananaw ko layag, go iran miyaigay a giyoto o miyangaona-an kiran. (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن) 30:9; 30:42; 35:44; 40:82; 47:10
+- Ko layag, ka iran miyaigay a giyoto o miyangaona-an kiran. (فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ) 30:9; 30:42; 35:44; 40:82; 47:10
+- Go ba matawan a maalong a di so tao a miyaanggal ko Allah sa kabokhag, odiya na so miyakambokhag? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا أَوْ) 6:21; 6:93; 7:37; 10:17; 29:68
+- Go igira a miyanggola o Allah so ola, na so putharo-on Iyan on: "Badi!" na mabaloi. (وَإِذَا قَضَى أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُن فَيَكُونُ) 2:117; 3:47; 19:35; 40:68
+- Go da-a bagiyo niyo a salakao ko Allah a wali go da-a tabanga. (وَمَا لَكُم مِّن دُونِ اللَّهِ مِن وَلِيٍّ وَلَا نَصِيرٍ) 2:107; 9:116; 29:22; 42:31
+- Mata-an a pakasowin Ako siran ko manga dosa iran, go pakasoindun Ako siran ko manga surga a puphamangondayog so manga lawasaig ko kababa-an niyan. (لَأُكَفِّرَنَّ عَنْهُمْ سَيِّئَاتِهِمْ وَلَأُدْخِلَنَّهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 3:195; 5:12; 64:9; 66:8
+- Phakasoindun Ami siran ko manga surga a puphamangondayog so manga lawasaig ko kababa-an niyan, makakakal siran non. (سَنُدْخِلُهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا) 4:57; 4:122; 64:9; 65:11
+- So Kadnan ka, na Sakaniao i Matao ko tao a miyadadag ko okit Iyan, go Sakaniao i Matao. (رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ) 16:125; 53:30; 68:7
+- Phakandodan kano ko (Allah a) Matao ko gaib go so mapayag, na Phanothol Iyan rkaniyo so pinggogola niyo. (تُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ) 9:94; 9:105; 62:8
+- Puphanagopatan iran so manga wata iyo a mama, go pumbiyagun iran so manga babai iyo; go adun a bagiyo kiran a tiyoba a mala a phoon ko Kadnan niyo. (أَبْنَاءَكُمْ وَيَسْتَحْيُونَ نِسَاءَكُمْ وَفِي ذَلِكُم بَلَاءٌ مِّن رَّبِّكُمْ عَظِيمٌ) 2:49; 7:141; 14:6
+- Mata-an a so Kadnan ka na Sakaniao i Matao ko tao a miyadadag ko okit Iyan, go Sakaniao. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ) 16:125; 53:30; 68:7
+- Allah, a so si-i Rkaniyan so kanggowa o matago ko manga langit go so matago ko layag. (اللَّهِ الَّذِي لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 14:2; 34:1; 42:53
+- Ko manga pagtao a miyaona kano, a pud ko manga Jinn go so manga Manosiya. (فِي أُمَمٍ قَدْ خَلَتْ مِن قَبْلِكُم مِّنَ الْجِنِّ وَالْإِنسِ) 7:38; 41:25; 46:18
+- Showasowata niyo so Allah, da-a Tohan niyo a salakao Rkaniyan, ina di kano makaluk? (اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 7:65; 23:23; 23:32
+- Go biyaloy Ami so manga lilub kiran so manga poso iran, ka di iran kasabota, go si-i ko manga tangila iran so kabagel. (وَجَعَلْنَا عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا) 6:25; 17:46; 18:57
+- Phakokomun Iyan ko lut iran ko Alongan a Qiyamah, ko piyakasabali iran. (يَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 2:113; 16:124; 22:69
+- Pitharo iyan: "Hai pagtao aki! Pamikira niyo, oba ako matag ko Karina a mapayag a phoon ko Kadnan ko?" (قَالَ يَاقَوْمِ أَرَأَيْتُمْ إِن كُنتُ عَلَى بَيِّنَةٍ مِّن رَّبِّي) 11:28; 11:63; 11:88
+- Manan na, sabap ko pinggogola o manga lima niyo, go da ko Allah a ba Niyan ndzalimi so manga Oripun Niyan. (ذَلِكَ بِمَا قَدَّمَتْ أَيْدِيكُمْ وَأَنَّ اللَّهَ لَيْسَ بِظَلَّامٍ لِّلْعَبِيدِ) 3:182; 8:51; 22:10
+- Adun a bagiyo iran ko Donya so kaphakarompa, go adun a bagiyo iran ko Akhirat so siksa a mala. (لَهُمْ فِي الدُّنْيَا خِزْيٌ وَلَهُمْ فِي الْآخِرَةِ عَذَابٌ عَظِيمٌ) 2:114; 5:41
+- So matago ko manga langit go so matago ko layag, go so Allah na Makatatarotop a Saksake. (مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَكَفَى بِاللَّهِ وَكِيلًا) 4:132; 4:171
+- Inonta so miyamaratiyaya go miyakagokor sa manga pipiya; bagiyo iran so balas a di puthakapos. (إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ) 84:25; 95:6
+- Sa di ka phakibagiyo Rakun sa bo a bantak a da-a katao ongka on; na di ka pagonot kiran. (لِتُشْرِكَ بِي مَا لَيْسَ لَكَ بِهِ عِلْمٌ فَلَا تُطِعْهُمَا) 29:8; 31:15
+- Mata-an a giya na so Pananadum; na sa tao a khabaya, na makagom sa okit a phakasongko ko Kadnan iyan. (إِنَّ هَذِهِ تَذْكِرَةٌ فَمَن شَاءَ اتَّخَذَ إِلَى رَبِّهِ سَبِيلًا) 73:19; 76:29
+- Go sa tao a panalamat, na so kaphanalamat na si-i bo ko ginawa iyan; go sa tao a makambokhag. (وَمَن شَكَرَ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِ وَمَن كَفَرَ فَإِنَّ) 27:40; 31:12
+- So siran a puphakasambayang, go puphamugay sa zakat, go siran na so Akhirat na mapaparatiyaya iran. (الَّذِينَ يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُم بِالْآخِرَةِ هُمْ يُوقِنُونَ) 27:3; 31:4
+- Ibrahim, go Ismawil, go Ishaq, go Ya'qub, go so manga totol, go so ini-tao ko Musa go so Isa. (إِبْرَاهِيمَ وَإِسْمَاعِيلَ وَإِسْحَاقَ وَيَعْقُوبَ وَالْأَسْبَاطِ وَمَا أُوتِيَ مُوسَى وَعِيسَى) 2:136; 3:84
+- Sa manga along, taman ko masa a miyakatalingoma siran-on, na piyakabuka so manga pinto iyan, go Pitharo o manga sasakup iyan kiran. (زُمَرًا حَتَّى إِذَا جَاءُوهَا فُتِحَتْ أَبْوَابُهَا وَقَالَ لَهُمْ خَزَنَتُهَا) 39:71; 39:73
+- Di kano pakasala-a o Allah sabap ko manga andam iyo a da-a mapayag on, na ogaid na pakasala-an kano Niyan sabap ko. (لَّا يُؤَاخِذُكُمُ اللَّهُ بِاللَّغْوِ فِي أَيْمَانِكُمْ وَلَكِن يُؤَاخِذُكُم بِمَا) 2:225; 5:89
+- Limo, na pukhababaya siran on, go oba siran masogat o marat sabap ko pinggogola o manga lima iran. (رَحْمَةً فَرِحُوا بِهَا وَإِن تُصِبْهُمْ سَيِّئَةٌ بِمَا قَدَّمَتْ أَيْدِيهِمْ) 30:36; 42:48
+- Manga surga a puphamangondayog so manga lawasaig ko kababa-an niyan, makakakal siran non, go mapiya a balas ko manga gagokor! (تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَنِعْمَ أَجْرُ الْعَامِلِينَ) 3:136; 29:58
+- Allah na katao Iyan so matago ko manga langit go so matago ko layag, go so Allah. (اللَّهُ وَيَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَاللَّهُ) 3:29; 49:16
+- Pagonoti niyo so Allah, go pagonoti niyo so Sogo; na oba kano tomaliyik, na mata-an a so pakatonggol on. (أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ فَإِن تَوَلَّوْا فَإِنَّمَا عَلَيْهِ) 24:54; 64:12
+- Adun a bagiyo iran so balas iran ko Kadnan iran, go da-a kaluk ko siran, go di siran. (فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ) 2:274; 2:277
+- Go Pitharo iran: "Oba igira a miyabaloi kami a manga tolan go miyaburok, na mata-an a kami na phangunungun ko lalang a bago?" (وَقَالُوا أَإِذَا كُنَّا عِظَامًا وَرُفَاتًا أَإِنَّا لَمَبْعُوثُونَ خَلْقًا جَدِيدًا) 17:49; 17:98
+- Go da-a khato-on niran a wali iran go da-a tabanga iran a salakao ko Allah. (وَلَا يَجِدُونَ لَهُم مِّن دُونِ اللَّهِ وَلِيًّا وَلَا نَصِيرًا) 4:173; 33:17
+- "Manga pira kano kiyakadukha?" Pitharo iyan: "Kiyakadukha ako sa alongan isa, odiya na sa kalaid o alongan." Pitharo iyan. (كَمْ لَبِثْتَ قَالَ لَبِثْتُ يَوْمًا أَوْ بَعْضَ يَوْمٍ قَالَ) 2:259; 18:19
+- Sa manggagawi-i, taman ko Alongan a Qiyamah, ba sa Tohan a salakao ko Allah a makatenga rkaniyo? (سَرْمَدًا إِلَى يَوْمِ الْقِيَامَةِ مَنْ إِلَهٌ غَيْرُ اللَّهِ يَأْتِيكُم) 28:71; 28:72
+- Sa tao a nggokor sa mapiya, a mama odiya na babai, go so maratiyaya. (مَنْ عَمِلَ صَالِحًا مِّن ذَكَرٍ أَوْ أُنثَى وَهُوَ مُؤْمِنٌ) 16:97; 40:40
+- So siran a pukharun ko okit o Allah, go pukhambabaya iran a kapanangko, go siran na so Akhirat. (الَّذِينَ يَصُدُّونَ عَن سَبِيلِ اللَّهِ وَيَبْغُونَهَا عِوَجًا وَهُم بِالْآخِرَةِ) 7:45; 11:19
+- Kambaya niyo a darpa, go di kano pagani ko kayo ngaya, ka mabaloi kano a pud ko manga zalim. (حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَذِهِ الشَّجَرَةَ فَتَكُونَا مِنَ الظَّالِمِينَ) 2:35; 7:19
+- Tharowangka: "Hai pagtao aki! Gokora niyo so okit iyo, mata-an a sakun na gokorako, na kalaon niyo bo." (قُلْ يَاقَوْمِ اعْمَلُوا عَلَى مَكَانَتِكُمْ إِنِّي عَامِلٌ فَسَوْفَ تَعْلَمُونَ) 6:135; 39:39
+- Mata-an a so miyangalologi na siran so miyanga-logi ko manga ginawa iran go so manga taalok iran ko Alongan a Qiyamah, ba. (إِنَّ الْخَاسِرِينَ الَّذِينَ خَسِرُوا أَنفُسَهُمْ وَأَهْلِيهِمْ يَوْمَ الْقِيَامَةِ أَلَا) 39:15; 42:45
+- Sa tao a komana, na so koman na si-i bo ko ginawa iyan; go sa tao a madadag, na so kidadag na si-i bo ko ginawa iyan; go. (يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا وَمَا) 10:108; 39:41
+- Go so miyamaratiyaya na Pitharo iran: "Ina so ini-pakatoron on Tanda a phoon ko Kadnan on?" (وَيَقُولُ الَّذِينَ كَفَرُوا لَوْلَا أُنزِلَ عَلَيْهِ آيَةٌ مِّن رَّبِّهِ) 13:7; 13:27
+- So biyaloy Niyan rkaniyo so gagawi-i, ka makapakadukha kano-on, go so daondao, ka makakailao kano, mata-an. (الَّذِي جَعَلَ لَكُمُ اللَّيْلَ لِتَسْكُنُوا فِيهِ وَالنَّهَارَ مُبْصِرًا إِنَّ) 10:67; 40:61
+- Ko ona-an o kataoma o Alongan a da-a pamaasa-on go da-a. (مِّن قَبْلِ أَن يَأْتِيَ يَوْمٌ لَّا بَيْعٌ فِيهِ وَلَا) 2:254; 14:31
+- Ka siran makapamikir ko da-a bo a pangangawa si-i ko sogowaan niran; na so bo a Pananadum. (يَتَفَكَّرُوا مَا بِصَاحِبِهِم مِّن جِنَّةٍ إِنْ هُوَ إِلَّا نَذِيرٌ) 7:184; 34:46
+- Makakakal siran non, di siran khapulupugan o siksa, go di siran khatawan. (خَالِدِينَ فِيهَا لَا يُخَفَّفُ عَنْهُمُ الْعَذَابُ وَلَا هُمْ يُنظَرُونَ) 2:162; 3:88
+- Di ka nggoyang so manga mata ka ko ini-limo Ami a miyatagowan o manga asawa a pud kiran. (لَا تَمُدَّنَّ عَيْنَيْكَ إِلَى مَا مَتَّعْنَا بِهِ أَزْوَاجًا مِّنْهُمْ) 15:88; 20:131
+- Go di niyo papangunti so manga tamok o manga Manosiya, go di kano phamangonol ko layag. (وَلَا تَبْخَسُوا النَّاسَ أَشْيَاءَهُمْ وَلَا تَعْثَوْا فِي الْأَرْضِ مُفْسِدِينَ) 11:85; 26:183
+- Go so kalilintad na si-i ko Alongan a miniya-anak iyan, go so Alongan a kiyatai iyan, go so Alongan a kaphangunungun iyan a mangaoyo. (وَسَلَامٌ عَلَيْهِ يَوْمَ وُلِدَ وَيَوْمَ يَمُوتُ وَيَوْمَ يُبْعَثُ حَيًّا) 19:15; 19:33
+- Hai pagtao aki! Gokora niyo so okit iyo, mata-an a sakun na gokorako, na kalaon niyo bo sa. (يَاقَوْمِ اعْمَلُوا عَلَى مَكَانَتِكُمْ إِنِّي عَامِلٌ فَسَوْفَ تَعْلَمُونَ مَن) 6:135; 11:93
+- Go da ko pakatonggol ko Sogo a ba niyan ndateng so Tanda, inonta sabap sa idin o Allah. (وَمَا كَانَ لِرَسُولٍ أَن يَأْتِيَ بِآيَةٍ إِلَّا بِإِذْنِ اللَّهِ) 13:38; 40:78
+- Oriyan niyan na ithoman ko oman i ginawa so pinggalaki iyan, go di siran ndzalimi. (ثُمَّ تُوَفَّى كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ) 2:281; 3:161
+- A mama odiya na babai, go so maratiyaya, na siran na phakasoinda ko Surga. (مِن ذَكَرٍ أَوْ أُنثَى وَهُوَ مُؤْمِنٌ فَأُولَئِكَ يَدْخُلُونَ الْجَنَّةَ) 4:124; 40:40
+- Da ko miyakagom sa wata, go da-a bo a saro iyan ko Kapaar. (لَمْ يَتَّخِذْ وَلَدًا وَلَمْ يَكُن لَّهُ شَرِيكٌ فِي الْمُلْكِ) 17:111; 25:2
+- Go sa tao a tawagun o Allah, na so tao na makakomana; go sa tao a ndadagi Niyan, na da-a khato-on a. (وَمَن يَهْدِ اللَّهُ فَهُوَ الْمُهْتَدِ وَمَن يُضْلِلْ فَلَن تَجِدَ) 17:97; 18:17
+- Ilayangka a giyoto iran a kiyapakipangal iran rka ko manga ibarat, na miyadadag siran, na di siran phakakowa sa okit. (انظُرْ كَيْفَ ضَرَبُوا لَكَ الْأَمْثَالَ فَضَلُّوا فَلَا يَسْتَطِيعُونَ سَبِيلًا) 17:48; 25:9
+- Tharowangka: "Mata-an a sakun na ipangandam ako, oba ako makasangka ko Kadnan ko, so siksa ko Alongan a mala." (قُلْ إِنِّي أَخَافُ إِنْ عَصَيْتُ رَبِّي عَذَابَ يَوْمٍ عَظِيمٍ) 6:15; 39:13
+- Na miyapayag kiran so manga awat iran, na miyakapomowana siran sa kapulid ko manga raon o Surga. (بَدَتْ لَهُمَا سَوْآتُهُمَا وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِن وَرَقِ الْجَنَّةِ) 7:22; 20:121
+- Go tawaga niyo so manga kaphakagoga niyo, a salakao ko Allah, oba kano pud ko manga bunar. (وَادْعُوا مَنِ اسْتَطَعْتُم مِّن دُونِ اللَّهِ إِن كُنتُمْ صَادِقِينَ) 10:38; 11:13
+- So langon ko matago ko layag, go so lagid iyan a rakhus iyan, ka makapanebus siran. (مَّا فِي الْأَرْضِ جَمِيعًا وَمِثْلَهُ مَعَهُ لِيَفْتَدُوا بِهِ مِنْ) 5:36; 39:47
+- Bilanga niyo so ini-tao Ami rkaniyo sa kagos, go tanumi niyo so matag-on, ka kano makaluk. (خُذُوا مَا آتَيْنَاكُم بِقُوَّةٍ وَاذْكُرُوا مَا فِيهِ لَعَلَّكُمْ تَتَّقُونَ) 2:63; 7:171
+- Ba niyo gi-i pakaoma so pakasisinga a da-a bo a miyakao na rkaniyo a pud ko manga kaadun? (أَتَأْتُونَ الْفَاحِشَةَ مَا سَبَقَكُم بِهَا مِنْ أَحَدٍ مِّنَ الْعَالَمِينَ) 7:80; 29:28
+- Go so Allah na kanggowa Iyan so matago ko manga langit go so matago ko layag, go so Allah na. (وَلِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَكَانَ اللَّهُ) 4:126; 4:131
+- Na miyakaoma kiran so manga dosa a pinggalaki iran, go linilingkuban siran o pinggogola iran a pukhakasaw. (سَيِّئَاتُ مَا عَمِلُوا وَحَاقَ بِهِم مَّا كَانُوا بِهِ يَسْتَهْزِئُونَ) 16:34; 45:33
+- So Sogo a pud iyo, a pukhabasaya iyan rkaniyo so manga Ayat Ami, go puthanos iyan rkaniyo, go pukhanademo iyan rkaniyo so Kitab go so Hadapan. (رَسُولًا مِّنكُمْ يَتْلُو عَلَيْكُمْ آيَاتِنَا وَيُزَكِّيكُمْ وَيُعَلِّمُكُمُ الْكِتَابَ وَالْحِكْمَةَ) 2:151; 62:2
+- Na miyapakaliyo-on sa manga bowa a sapolo go dowa; mata-an a so oman i pagtao na katao iran so panginoman niran. (مِنْهُ اثْنَتَا عَشْرَةَ عَيْنًا قَدْ عَلِمَ كُلُّ أُنَاسٍ مَّشْرَبَهُمْ) 2:60; 7:160
+- Inonta so pangangap, go mata-an a so pangangap na di phakanggona ko Bunar a bo. (إِلَّا ظَنًّا إِنَّ الظَّنَّ لَا يُغْنِي مِنَ الْحَقِّ شَيْئًا) 10:36; 53:28
+- Na igira a kiyasamporna Ko, go kiyasakbo Ko on sa pud ko Niyawa Ko, na pogulang kano sa pangangalimbaba-on. (فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ فِيهِ مِن رُّوحِي فَقَعُوا لَهُ سَاجِدِينَ) 15:29; 38:72
+- Sa tao a kanggowa iyan so khabolosan ko Bawing? Mata-an a so manga zalim na di phakada-ag. (مَن تَكُونُ لَهُ عَاقِبَةُ الدَّارِ إِنَّهُ لَا يُفْلِحُ الظَّالِمُونَ) 6:135; 28:37
+- So biyaloy ko manga langit go so layag, na Khakowa Iyan a mba-ad sa lagid iran. (الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ قَادِرٌ عَلَى أَن يَخْلُقَ مِثْلَهُمْ) 17:99; 36:81
+- So miyamaratiyaya a manga mama go so miyamaratiyaya a manga babai, na (bagiyo iran) so manga surga a puphamangondayog so manga lawasaig ko kababa-an niyan, makakakal siran non. (الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 9:72; 48:5
+- Go oba isha isai ka: "Ba matao so miyakadun ko manga langit go so layag?" Tharowon niran ndun: "Allah." Tharowangka. (وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ لَيَقُولُنَّ اللَّهُ قُلِ) 31:25; 39:38
+- Go mata-an a Miyakabugai Ami ko manga Manosiya si-i ko Qar'an ngaya so langon a ibarat. (وَلَقَدْ ضَرَبْنَا لِلنَّاسِ فِي هَذَا الْقُرْآنِ مِن كُلِّ مَثَلٍ) 30:58; 39:27
+- Igira a miyakaoma so manga Sogo Ami ko Luth, na miyakasubo siran, go miyakaigpit, go Pitharo iyan. (جَاءَتْ رُسُلُنَا لُوطًا سِيءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًا وَقَالَ) 11:77; 29:33
+- Go igira a Pitharo Ami ko manga Malaikat: "Pangalimbaba-a kano ko Adam!" Na mangangalimbaba-a siran, inonta so Iblis, na somiyangka. (وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا إِبْلِيسَ أَبَى) 2:34; 20:116
+- Go so layag na Biyalangkat Ami, go Inithinda Ami ro-o so manga Palao a manga mabagel, go Initho Ami ro-o a pud ko oman i mapiya. (وَالْأَرْضَ مَدَدْنَاهَا وَأَلْقَيْنَا فِيهَا رَوَاسِيَ وَأَنبَتْنَا فِيهَا مِن كُلِّ) 15:19; 50:7
+- Puthatawagan iran so Allah, a khiphakilos iran so okit a si-i Rkaniyan, na igira a miyakapakaliyo siran Niyan ko layag. (دَعَوُا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ فَلَمَّا نَجَّاهُمْ إِلَى الْبَرِّ) 29:65; 31:32
+- Bagiyo iran so pangiinom a phoon ko ig a phumalagak, go so siksa a malipat, sabap sa kiyandadag iran. (لَهُمْ شَرَابٌ مِّنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْفُرُونَ) 6:70; 10:4
+- Ina a phanatawagan Ami so salakao ko Allah a di rkami phakanggona, go di rkami phakarugunan? (أَنَدْعُو مِن دُونِ اللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا) 6:71; 10:106
+- Mata-an a so Allah na katao Iyan so matago ko manga langit go so matago ko layag. (أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 5:97; 58:7
 """;

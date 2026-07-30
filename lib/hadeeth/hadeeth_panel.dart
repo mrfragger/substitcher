@@ -105,6 +105,64 @@ class _HadeethPanelState extends State<HadeethPanel> {
     return Colors.white54;
   }
 
+  static const Map<String, List<String>> _allahWords = {
+    'English': [
+      'Allah\u2019s', 'Allāh\u2019s', 'Allâh\u2019s',
+      'Allah\u02BCs', 'Allāh\u02BCs', 'Allâh\u02BCs',
+      "Allah's", "Allāh's", "Allâh's",
+      'Allah', 'Allāh', 'Allâh',
+      'Lord\u2019s', 'Lord\u02BCs', "Lord's", 'Lord',
+    ],
+    'Arabic': [
+      'بالله', 'تالله', 'والله', 'فالله', 'لله', 'الله',
+      'لربكم', 'لربهم', 'لربنا', 'لربه', 'لربك', 'لربي',
+      'بربكم', 'بربهم', 'بربنا', 'بربه', 'بربك', 'بربي',
+      'ربكم', 'ربهم', 'ربنا', 'ربه', 'ربها', 'ربك', 'ربي',
+    ],
+  };
+
+  List<TextSpan> _colorParensAndAllah(String text, TextStyle baseStyle) {
+    final cyanStyle = baseStyle.copyWith(color: Colors.cyanAccent);
+    final purpleStyle = baseStyle.copyWith(color: const Color(0xFFCB93F5));
+
+    final words = (_allahWords[_language] ?? _allahWords['English']!).toList()
+      ..sort((a, b) {
+        final c = b.length.compareTo(a.length);
+        return c != 0 ? c : a.compareTo(b);
+      });
+
+    final patterns = <String>[];
+    for (final w in words) {
+      final escaped = RegExp.escape(w);
+      if (RegExp(r"^[a-zA-ZÀ-ÿçÇğĞıİöÖşŞüÜ'\u2018\u2019]+$").hasMatch(w)) {
+        patterns.add(
+            "(?<![a-zA-ZÀ-ÿçÇğĞıİöÖşŞüÜ])$escaped(?![a-zA-ZÀ-ÿçÇğĞıİöÖşŞüÜ])");
+      } else {
+        patterns.add(escaped);
+      }
+    }
+    final allahPattern = patterns.join('|');
+    final combined = RegExp('(?:$allahPattern)|(\\([^)]*\\))');
+
+    final result = <TextSpan>[];
+    int cursor = 0;
+    for (final m in combined.allMatches(text)) {
+      if (m.start > cursor) {
+        result.add(TextSpan(text: text.substring(cursor, m.start), style: baseStyle));
+      }
+      final matched = m.group(0)!;
+      result.add(TextSpan(
+        text: matched,
+        style: m.group(1) != null ? cyanStyle : purpleStyle,
+      ));
+      cursor = m.end;
+    }
+    if (cursor < text.length) {
+      result.add(TextSpan(text: text.substring(cursor), style: baseStyle));
+    }
+    return result;
+  }
+
   List<TextSpan> _highlightTerms(List<TextSpan> spans, List<String> terms) {
     if (terms.isEmpty) return spans;
 
@@ -493,17 +551,15 @@ class _HadeethPanelState extends State<HadeethPanel> {
                         Text.rich(
                           TextSpan(
                             children: _highlightTerms(
-                              [
-                                TextSpan(
-                                  text: entry.title,
-                                  style: const TextStyle(
-                                    color: Colors.white,
-                                    fontSize: 13,
-                                    fontWeight: FontWeight.w500,
-                                    height: 1.4,
-                                  ),
+                              _colorParensAndAllah(
+                                entry.title,
+                                const TextStyle(
+                                  color: Colors.white,
+                                  fontSize: 13,
+                                  fontWeight: FontWeight.w500,
+                                  height: 1.4,
                                 ),
-                              ],
+                              ),
                               _searchTerms,
                             ),
                           ),
@@ -650,16 +706,14 @@ class _HadeethPanelState extends State<HadeethPanel> {
                           child: SelectableText.rich(
                             TextSpan(
                               children: _highlightTerms(
-                                [
-                                  TextSpan(
-                                    text: h,
-                                    style: const TextStyle(
-                                      color: Colors.greenAccent,
-                                      fontSize: 13,
-                                      height: 1.5,
-                                    ),
+                                _colorParensAndAllah(
+                                  h,
+                                  const TextStyle(
+                                    color: Colors.greenAccent,
+                                    fontSize: 13,
+                                    height: 1.5,
                                   ),
-                                ],
+                                ),
                                 _searchTerms,
                               ),
                             ),
@@ -708,7 +762,7 @@ class _HadeethPanelState extends State<HadeethPanel> {
   }) {
     final baseStyle = TextStyle(color: textColor, fontSize: 13, height: 1.6);
     final spans = _highlightTerms(
-      [TextSpan(text: text, style: baseStyle)],
+      _colorParensAndAllah(text, baseStyle),
       _searchTerms,
     );
     return Column(
