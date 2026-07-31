@@ -3163,4 +3163,158 @@ Matching Phrases 9 words
 - Ular uchun qaynoq suvdan ichimlik va qilgan kufrlari sababli alamli azob bor. (لَهُمْ شَرَابٌ مِّنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْفُرُونَ) 6:70; 10:4
 - Allohdan boshqa, bizga foyda ham-zarar ham keltira olmaydigan narsalarni chaqiramizmi? (أَنَدْعُو مِن دُونِ اللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا) 6:71; 10:106
 - Alloh osmonlardagi va yerdagi narsalarni albatta biladi. (أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 5:97; 58:7
+Matching Phrases 8 words
+- Allohga qarshi yolg'on to'qigandan ko'ra zolimroq kim bor? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا) 6:21; 6:93; 6:144; 7:37; 10:17; 11:18; 18:15; 29:68; 61:7
+- Albatta, bunda bir oyat bor, lekin ularning ko'pchiligi mo'min emas edi. (إِنَّ فِي ذَلِكَ لَآيَةً وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ) 26:8; 26:67; 26:103; 26:121; 26:139; 26:158; 26:174; 26:190
+- Yer yuzida sayohat qilib, o'sha kishilarning oqibati qanday bo'lganini ko'rsinlar. (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ) 12:109; 30:9; 30:42; 35:44; 40:21; 40:82; 47:10
+- U dedi: "Ey qavmim! Allohga ibodat qiling, sizlar uchun Undan boshqa iloh yo'q." (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ) 7:65; 7:73; 7:85; 11:50; 11:61; 11:84; 23:23
+- Uni jannatlarga kiritadi, ularning ostidan daryolar oqadi, ular u yerda abadiy qoladilar. (يُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 4:13; 4:57; 4:122; 58:22; 64:9; 65:11
+- Ularning o'rtasida Qiyomat kuni, ular ixtilof qilib yurgan narsa haqida. (بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 2:113; 10:93; 16:124; 22:69; 32:25; 45:17
+- Ular yer yuzida sayohat qilib, ...ning oqibati qanday bo'lganini ko'rmadilarmi? (أَوَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ) 30:9; 35:44; 40:21; 40:82; 47:10
+- Jannatlar, ularning ostidan daryolar oqadi, ular u yerda abadiy qoladilar. (جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا) 4:57; 4:122; 5:119; 64:9; 65:11
+- Kechani kunduzga kirgizasan, kunduzni kechaga kirgizasan. (تُولِجُ اللَّيْلَ فِي النَّهَارِ وَتُولِجُ النَّهَارَ فِي اللَّيْلِ) 3:27; 22:61; 31:29; 35:13; 57:6
+- Osmonlardagi va yerdagi narsalar Allohga tasbeh aytadi. (سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 59:1; 61:1; 62:1; 64:1
+- Allohga ibodat qiling, sizlarga Undan boshqa iloh yo'q. Hali ham qo'rqmaysizlarmi? (اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا) 7:65; 11:84; 23:23; 23:32
+- Biz farishtalarga: "Odamga sajda qiling" deganimizda, Iblisdan boshqa hammasi sajda qildi. (وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا إِبْلِيسَ) 2:34; 17:61; 18:50; 20:116
+- Alloh osmonlardagi va yerdagi narsalarni biladi. (اللَّهُ وَيَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 3:29; 5:97; 49:16; 58:7
+- Jannatlar, ularning ostidan daryolar oqadi, ular u yerda abadiy qoladilar va bu ... (جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَذَلِكَ) 4:13; 5:85; 9:89; 57:12
+- Uning ajri Parvardigori huzurida va ularga hech qanday qo'rquv yo'q va ular ... (أَجْرُهُ عِندَ رَبِّهِ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ) 2:112; 2:262; 2:274; 2:277
+- Parvardigori huzurida va ularga qo'rquv yo'q va ular g'amgin bo'lmaydilar. (عِندَ رَبِّهِ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ) 2:112; 2:262; 2:274; 2:277
+- Kim hidoyat topsa, o'z manfaati uchun topgan bo'ladi, kim adashsa... (فَمَنِ اهْتَدَى فَإِنَّمَا يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ) 10:108; 17:15; 27:92
+- O'z manfaati uchun topgan bo'ladi, kim adashsa, o'z zarariga adashgan bo'ladi. (يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا) 10:108; 17:15; 39:41
+- Unga Parvardigoridan bir oyat nega tushirilmadi? Ayting: "Albatta..." (لَوْلَا أُنزِلَ عَلَيْهِ آيَةٌ مِّن رَّبِّهِ فَقُلْ إِنَّمَا) 10:20; 13:27; 29:50
+- Iymon keltirgan va yaxshi amallar qilganlarga, ularga bitmas-tuganmas ajr bor. (الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ) 41:8; 84:25; 95:6
+- Tirikni o'likdan chiqarasan, o'likni tirikdan chiqarasan. (وَتُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ وَتُخْرِجُ الْمَيِّتَ مِنَ الْحَيِّ) 3:27; 10:31; 30:19
+- Kim Alloh nozil qilgan narsa bilan hukm qilmasa, o'shalar ... (وَمَن لَّمْ يَحْكُم بِمَا أَنزَلَ اللَّهُ فَأُولَئِكَ هُمُ) 5:44; 5:45; 5:47
+- Osmonlarni, yerni va ular orasidagi narsalarni olti kunda yaratdi. (خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا فِي سِتَّةِ أَيَّامٍ) 25:59; 32:4; 50:38
+- Albatta, Alloh odamlarga fazl egasidir, lekin ko'pchilik... (إِنَّ اللَّهَ لَذُو فَضْلٍ عَلَى النَّاسِ وَلَكِنَّ أَكْثَرَ) 2:243; 10:60; 40:61
+- Alloh ularga zulm qilmadi, balki ular o'zlariga zulm qilib yurdilar. (فَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ وَلَكِن كَانُوا أَنفُسَهُمْ يَظْلِمُونَ) 9:70; 29:40; 30:9
+- Gunohlaringizni kechirib, sizni jannatlarga kiritadi, ularning ostidan daryolar oqadi. (عَنكُمْ سَيِّئَاتِكُمْ وَلَأُدْخِلَنَّكُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 5:12; 64:9; 66:8
+- Sizlarga o'lik, qon, cho'chqa go'shti va Allohdan boshqasining nomi bilan so'yilgan hayvonlarni harom qildi. (حَرَّمَ عَلَيْكُمُ الْمَيْتَةَ وَالدَّمَ وَلَحْمَ الْخِنزِيرِ وَمَا أُهِلَّ) 2:173; 5:3; 16:115
+- Agar Parvardigorimga osiy bo'lsam, ulug' kunning azobidan qo'rqaman. (إِنِّي أَخَافُ إِنْ عَصَيْتُ رَبِّي عَذَابَ يَوْمٍ عَظِيمٍ) 6:15; 10:15; 39:13
+- Faqat ularga ilm kelganidan keyin, o'zaro hasadchilik tufayli. (إِلَّا مِن بَعْدِ مَا جَاءَهُمُ الْعِلْمُ بَغْيًا بَيْنَهُمْ) 3:19; 42:14; 45:17
+- Namozni o'qidilar va Biz ularga bergan rizqdan yashirin va oshkora sarfladilar. (وَأَقَامُوا الصَّلَاةَ وَأَنفَقُوا مِمَّا رَزَقْنَاهُمْ سِرًّا وَعَلَانِيَةً) 13:22; 14:31; 35:29
+- Allohdan boshqa, bizga na foyda va na zarar yetkaza olmaydigan narsalarni (tashlang). (مِن دُونِ اللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا) 6:71; 10:106; 25:55
+- Senga nozil qilingan va sendan oldin nozil qilingan narsalarga iymon keltiradilar. (يُؤْمِنُونَ بِمَا أُنزِلَ إِلَيْكَ وَمَا أُنزِلَ مِن قَبْلِكَ) 2:4; 4:60; 4:162
+- Allohning osmondan suv tushirganini ko'rmadingmi? (أَلَمْ تَرَ أَنَّ اللَّهَ أَنزَلَ مِنَ السَّمَاءِ مَاءً) 22:63; 35:27; 39:21
+- Bir ishni iroda qilsa, unga faqat "Bo'l" deydi va u darhol bo'ladi. (قَضَى أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُن فَيَكُونُ) 3:47; 19:35; 40:68
+- Madyangga ukalari Shu'aybni (yubordik). U dedi: "Ey qavmim! Allohga ibodat qiling." (وَإِلَى مَدْيَنَ أَخَاهُمْ شُعَيْبًا قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ) 7:85; 11:84; 29:36
+- Bu g'ayb xabarlaridandir, biz uni senga vahiy qilamiz. Sen ularning yonida ... emas eding. (ذَلِكَ مِنْ أَنبَاءِ الْغَيْبِ نُوحِيهِ إِلَيْكَ وَمَا كُنتَ) 3:44; 11:49; 12:102
+- Ajallari kelganida, uni bir soat kechiktira olmaydilar va ilgarilata olmaydilar. (فَإِذَا جَاءَ أَجَلُهُمْ لَا يَسْتَأْخِرُونَ سَاعَةً وَلَا يَسْتَقْدِمُونَ) 7:34; 10:49; 16:61
+- Shaytonning izidan bormanglar, albatta u sizlarga ochiq dushmandir. (وَلَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ إِنَّهُ لَكُمْ عَدُوٌّ مُّبِينٌ) 2:168; 2:208; 6:142
+- Odamlar orasida ba'zilari hech qanday ilmsiz Alloh haqida tortishadi. (وَمِنَ النَّاسِ مَن يُجَادِلُ فِي اللَّهِ بِغَيْرِ عِلْمٍ) 22:3; 22:8; 31:20
+- Alloh uni xohlagan kishiga beradi. Alloh keng fazl egasidir. (اللَّهِ يُؤْتِيهِ مَن يَشَاءُ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ) 57:21; 57:29; 62:4
+- Har bir jon o'zi qilgan ishiga to'liq mukofotlanadi va ularga zulm qilinmaydi. (تُوَفَّى كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ) 2:281; 3:25; 3:161
+- Alloh harom qilgan jonni, haq bilan bo'lmasa, o'ldirmang. (وَلَا تَقْتُلُوا النَّفْسَ الَّتِي حَرَّمَ اللَّهُ إِلَّا بِالْحَقِّ) 6:151; 17:33; 25:68
+- Bir ishni iroda qilsa, unga faqat "Bo'l" deydi. (إِذَا قَضَى أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُن) 3:47; 19:35; 40:68
+- Jahannam eshiklaridan kiringlar, u yerda abadiy qolasizlar. Mutakabbirlarning joyi naqadar yomon! (فَادْخُلُوا أَبْوَابَ جَهَنَّمَ خَالِدِينَ فِيهَا فَلَبِئْسَ مَثْوَى الْمُتَكَبِّرِينَ) 16:29; 39:72; 40:76
+- O'zlariga Kitobdan ulush berilgan kishilarni ko'rmadingmi? (أَلَمْ تَرَ إِلَى الَّذِينَ أُوتُوا نَصِيبًا مِّنَ الْكِتَابِ) 3:23; 4:44; 4:51
+- Ular uchun jannatlar bor, ularning ostidan daryolar oqadi, u yerda abadiy qoladilar. (لَهُمْ جَنَّاتٌ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 3:198; 5:119; 9:89
+- Ey qavmim! O'z o'rningizda ishlang, men ham ishlayman, yaqinda bilib olasizlar. (يَاقَوْمِ اعْمَلُوا عَلَى مَكَانَتِكُمْ إِنِّي عَامِلٌ فَسَوْفَ تَعْلَمُونَ) 6:135; 11:93; 39:39
+- Kim Alloh va Uning Rasuliga qarshi chiqsa, unga jahannam oti bor, u yerda abadiy qoladi. (اللَّهَ وَرَسُولَهُ فَأَنَّ لَهُ نَارَ جَهَنَّمَ خَالِدًا فِيهَا) 9:63; 72:23
+- Ularning qalblarida pardalar bor, uni tushunmasliklari uchun, quloqlarida og'irlik bor. (عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا) 17:46; 18:57
+- Qaysi bir qishloqqa bir ogohlantiruvchi kelgan bo'lsa, uning boyavonlari "Biz..." dedilar. (فِي قَرْيَةٍ مِّن نَّذِيرٍ إِلَّا قَالَ مُتْرَفُوهَا إِنَّا) 34:34; 43:23
+- Ular dedilar: "Biz uchun Parvardigoringga duo qil, uning nima ekanligini bizga bayon qilsin." (قَالُوا ادْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِيَ) 2:68; 2:70
+- "Alloh" deydilar. Ayting: "Hamd Allohga bo'lsin!" Lekin ularning ko'pchiligi... (لَيَقُولُنَّ اللَّهُ قُلِ الْحَمْدُ لِلَّهِ بَلْ أَكْثَرُهُمْ لَا) 29:63; 31:25
+- Uning qavmining javobi faqat "Ularni haydab chiqaring..." deganlaridan boshqa narsa emas edi. (وَمَا كَانَ جَوَابَ قَوْمِهِ إِلَّا أَن قَالُوا أَخْرِجُوهُم) 7:82; 27:56
+- Ularning ostidan daryolar oqadi, u yerda abadiy qoladilar. Bu buyuk muvaffaqiyatdir. (تَحْتَهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا ذَلِكَ الْفَوْزُ الْعَظِيمُ) 9:100; 64:9
+- Ana o'shalar Parvardigorining hidoyati ustidadirlar va ular muvaffaqiyat qozonuvchilardir. (أُولَئِكَ عَلَى هُدًى مِّن رَّبِّهِمْ وَأُولَئِكَ هُمُ الْمُفْلِحُونَ) 2:5; 31:5
+- Kimni xor qiluvchi azob keladi va kimning ustiga abadiy azob tushadi. (مَن يَأْتِيهِ عَذَابٌ يُخْزِيهِ وَيَحِلُّ عَلَيْهِ عَذَابٌ مُّقِيمٌ) 11:39; 39:40
+- Yer yuzida sayohat qilib, yolg'onga chiqaruvchilarning oqibati qanday bo'lganini ko'ring. (فَسِيرُوا فِي الْأَرْضِ فَانظُرُوا كَيْفَ كَانَ عَاقِبَةُ الْمُكَذِّبِينَ) 3:137; 16:36
+- Ular qo'llari bilan oldin yuborgan narsalari sababli uni hech qachon orzu qilmaydilar. Alloh zolimlarni yaxshi biladi. (يَتَمَنَّوْهُ أَبَدًا بِمَا قَدَّمَتْ أَيْدِيهِمْ وَاللَّهُ عَلِيمٌ بِالظَّالِمِينَ) 2:95; 62:7
+- O'z yo'lidan kim adashganini eng yaxshi U biladi va eng yaxshi U biladi... (هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ) 53:30; 68:7
+- Albatta, Alloh mening Parvardigorim va sizlarning Parvardigoringizdir, Unga ibodat qiling. Mana bu to'g'ri yo'ldir. (إِنَّ اللَّهَ رَبِّي وَرَبُّكُمْ فَاعْبُدُوهُ هَذَا صِرَاطٌ مُّسْتَقِيمٌ) 3:51; 19:36
+- Odamlarga fazl egasidir, lekin ularning ko'pchiligi shukr qilmaydilar. (لَذُو فَضْلٍ عَلَى النَّاسِ وَلَكِنَّ أَكْثَرَهُمْ لَا يَشْكُرُونَ) 10:60; 27:73
+- Osmonlarni, yerni va ular orasidagi narsalarni, haq va belgilangan muddat bilan (yaratdi). (السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا إِلَّا بِالْحَقِّ وَأَجَلٍ مُّسَمًّى) 30:8; 46:3
+- Ularni qo'yib ber, ular o'zlariga va'da qilingan kunga yetguncha, botib va o'ynab yursinlar. (فَذَرْهُمْ يَخُوضُوا وَيَلْعَبُوا حَتَّى يُلَاقُوا يَوْمَهُمُ الَّذِي يُوعَدُونَ) 43:83; 70:42
+- Iymon keltirganlar bilan uchrashganda "Iymon keltirdik" deydilar, yolg'iz qolganlarida esa... (وَإِذَا لَقُوا الَّذِينَ آمَنُوا قَالُوا آمَنَّا وَإِذَا خَلَوْا) 2:14; 2:76
+- Tavrotni, Injilni va Parvardigoridan o'zlariga nozil qilingan narsalarni barpo qildilar. (أَقَامُوا التَّوْرَاةَ وَالْإِنجِيلَ وَمَا أُنزِلَ إِلَيْهِم مِّن رَّبِّهِمْ) 5:66; 5:68
+- Ularning oldidagi va orqasidagi narsalarni biladi, ular esa buni ihota qila olmaydilar... (يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ) 2:255; 20:110
+- Osmonlarni va yerni olti kunda yaratgan Zotdir. (وَهُوَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ) 11:7; 57:4
+- Albatta, bunda sizlarga bir oyat bor, agar iymon keltirsangiz. (إِنَّ فِي ذَلِكَ لَآيَةً لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ) 2:248; 3:49
+- O'zlariga hidoyat kelganida, odamlarni iymon keltirishdan nima to'xtatdi? (وَمَا مَنَعَ النَّاسَ أَن يُؤْمِنُوا إِذْ جَاءَهُمُ الْهُدَى) 17:94; 18:55
+- Allohga sheriklar qo'shdilar, Uning yo'lidan ozdirish uchun. Ayting: "Rahatlanib qoling..." (وَجَعَلُوا لِلَّهِ أَندَادًا لِّيُضِلُّوا عَن سَبِيلِهِ قُلْ تَمَتَّعُوا) 14:30; 39:8
+- O'zlaridan bir ogohlantiruvchi kelganiga hayron bo'lishdi va kofirlar dedilar: "Bu..." (وَعَجِبُوا أَن جَاءَهُم مُّنذِرٌ مِّنْهُمْ وَقَالَ الْكَافِرُونَ هَذَا) 38:4; 50:2
+- Albatta, Parvardigoring O'z yo'lidan kim adashganini yaxshi biladi. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ) 53:30; 68:7
+- Odamlarga ko'rsatish uchun molini sarflaydigan va Allohga iymon keltirmaydigan kishiga o'xshaydi. (كَالَّذِي يُنفِقُ مَالَهُ رِئَاءَ النَّاسِ وَلَا يُؤْمِنُ بِاللَّهِ) 2:264; 4:38
+- Biz sizlarga bergan rizqdan, (azob) kelishidan oldin sarflang. (أَنفِقُوا مِمَّا رَزَقْنَاكُم مِّن قَبْلِ أَن يَأْتِيَ) 2:254; 63:10
+- Osmonlardagi va yerdagi narsalarni sizlarga bo'ysundirdi. (سَخَّرَ لَكُم مَّا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 31:20; 45:13
+- Biz sizlarning bizni chaqirayotgan narsangizdan shubhadamiz. (وَإِنَّنَا لَفِي شَكٍّ مِّمَّا تَدْعُونَا إِلَيْهِ مُرِيبٍ) 11:62; 14:9
+- Albatta, Parvardigoring rizqni xohlagan kishiga keng qiladi va toraytiradi. Albatta, U... (إِنَّ رَبَّكَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ وَيَقْدِرُ إِنَّهُ) 17:30; 34:36
+- Osmonlarning va yerning va ular orasidagi narsalarning Parvardigori, agar sizlar yaqin ishonchli bo'lsangiz. (رَبُّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا إِن كُنتُم مُّوقِنِينَ) 26:24; 44:7
+- Biz Allohga va bizga nozil qilingan narsaga va ... nozil qilingan narsaga iymon keltirdik. (آمَنَّا بِاللَّهِ وَمَا أُنزِلَ إِلَيْنَا وَمَا أُنزِلَ إِلَى) 2:136; 3:199
+- Zolimlarni qattiq ovoz tutdi va uylarida tiz cho'kib qoldilar. (وَأَخَذَ الَّذِينَ ظَلَمُوا الصَّيْحَةُ فَأَصْبَحُوا فِي دِيَارِهِمْ جَاثِمِينَ) 11:67; 11:94
+- Ayollarning o'zlari haqida qilgan ishlarida sizlarga gunoh yo'q. (فَلَا جُنَاحَ عَلَيْكُمْ فِيمَا فَعَلْنَ فِي أَنفُسِهِنَّ) 2:234; 2:240
+- Parvardigoring O'z yo'lidan kim adashganini yaxshi biladi va U... (رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ) 53:30; 68:7
+- O'z amridan bo'lgan Ruhni bandalaridan xohlaganiga nozil qiladi. (بِالرُّوحِ مِنْ أَمْرِهِ عَلَى مَن يَشَاءُ مِنْ عِبَادِهِ) 16:2; 40:15
+- Maryam o'g'li Isoga aniq mo'jizalar berdik va uni Ruhul-Qudus bilan quvvatladik. (وَآتَيْنَا عِيسَى ابْنَ مَرْيَمَ الْبَيِّنَاتِ وَأَيَّدْنَاهُ بِرُوحِ الْقُدُسِ) 2:87; 2:253
+- Qiyomat kuni ularning o'rtasida, ular ixtilof qilib yurgan narsa haqida hukm qilish uchun. (لَيَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ) 16:124; 22:69
+- Ustini ostini qildik va ularning ustiga pishirilgan loydan toshlar yog'dirdik. (جَعَلْنَا عَالِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةً مِّن سِجِّيلٍ) 11:82; 15:74
+- Ularga ogohlantirishing ham, ogohlantirmasang ham barobar, ular iymon keltirmaydilar. (سَوَاءٌ عَلَيْهِمْ أَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ) 2:6; 36:10
+- Odamlarni qo'yib, agar rostgo'y bo'lsangiz, o'limni orzu qiling. (مِّن دُونِ النَّاسِ فَتَمَنَّوُا الْمَوْتَ إِن كُنتُمْ صَادِقِينَ) 2:94; 62:6
+- Allohga ibodat qiling, Undan boshqa sizlarga iloh yo'q. Hali ham qo'rqmaysizlarmi? (اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 23:23; 23:32
+- Agar ularga va'da qilgan narsalarimizning ba'zisini senga ko'rsatsak yoki seni vafot ettirsak, ularning qaytishi Bizgadir... (وَإِمَّا نُرِيَنَّكَ بَعْضَ الَّذِي نَعِدُهُمْ أَوْ نَتَوَفَّيَنَّكَ فَإِلَيْنَا) 10:46; 40:77
+- Ular dedilar: "O'lib, tuproq va suyak bo'lganimizda, biz qaytadan tiriltirilamizmi?" (قَالُوا أَإِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَامًا أَإِنَّا لَمَبْعُوثُونَ) 23:82; 56:47
+- Albatta, fazl Allohning qo'lida, uni xohlagan kishiga beradi. Alloh... (إِنَّ الْفَضْلَ بِيَدِ اللَّهِ يُؤْتِيهِ مَن يَشَاءُ وَاللَّهُ) 3:73; 57:29
+- Yashirin va oshkora narsalarni biluvchiga (qaytarilasizlar) va qilgan amallaringizni sizlarga xabar qiladi. (إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ) 9:105; 62:8
+- Ey iymon keltirganlar! Allohning sizlarga qilgan ne'matini eslang, o'sha paytda... (يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا نِعْمَتَ اللَّهِ عَلَيْكُمْ إِذْ) 5:11; 33:9
+- Biz sendan oldin faqat erkak kishilarni payg'ambar qilib yubordik, ularga vahiy qilardik. (وَمَا أَرْسَلْنَا مِن قَبْلِكَ إِلَّا رِجَالًا نُّوحِي إِلَيْهِم) 12:109; 16:43
+- Gunohlarini kechirib, uni jannatlarga kiritadi, ularning ostidan daryolar oqadi. (يُكَفِّرْ عَنْهُ سَيِّئَاتِهِ وَيُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا) 64:9; 66:8
+- Kasal yoki safarda bo'lsa, boshqa kunlardan soni (to'ldiradi). (مَّرِيضًا أَوْ عَلَى سَفَرٍ فَعِدَّةٌ مِّنْ أَيَّامٍ أُخَرَ) 2:184; 2:185
+- Ular faqat gumonga ergashadilar va faqat taxmin qiladilar. (إِن يَتَّبِعُونَ إِلَّا الظَّنَّ وَإِنْ هُمْ إِلَّا يَخْرُصُونَ) 6:116; 10:66
+- Alloh va oxirat kuniga umid qilgan kishi uchun go'zal o'rnakdir. (أُسْوَةٌ حَسَنَةٌ لِّمَن كَانَ يَرْجُو اللَّهَ وَالْيَوْمَ الْآخِرَ) 33:21; 60:6
+- Biz osmonlarni, yerni va ular orasidagi narsalarni haq bilan yaratdik. (وَمَا خَلَقْنَا السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا إِلَّا بِالْحَقِّ) 15:85; 46:3
+- Qo'lingni qo'ltig'ingga sol, u aybsiz oppoq bo'lib chiqadi. (يَدَكَ فِي جَيْبِكَ تَخْرُجْ بَيْضَاءَ مِنْ غَيْرِ سُوءٍ) 27:12; 28:32
+- U rahmatini xohlagan kishiga xos qiladi. Alloh keng fazl egasidir. (يَخْتَصُّ بِرَحْمَتِهِ مَن يَشَاءُ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ) 2:105; 3:74
+- Allohning osmonlar va yerning podshohligi ekanligini bilmaysanmi? (أَلَمْ تَعْلَمْ أَنَّ اللَّهَ لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ) 2:107; 5:40
+- O'zlaringiz uchun oldin yuborgan yaxshilikni Allohning huzurida topasiz. (وَمَا تُقَدِّمُوا لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ اللَّهِ) 2:110; 73:20
+- Qayerdan chiqsang ham, yuzingni Masjidul Haromga qarat. (وَمِنْ حَيْثُ خَرَجْتَ فَوَلِّ وَجْهَكَ شَطْرَ الْمَسْجِدِ الْحَرَامِ) 2:149; 2:150
+- Bulardan oldin ham o'tganlar, Allohning sunnatida hech qachon o'zgartirish topa olmaysan. (خَلَوْا مِن قَبْلُ وَلَن تَجِدَ لِسُنَّةِ اللَّهِ تَبْدِيلًا) 33:62; 48:23
+- Osmonlardagi va yerdagi narsalar kimning mulki bo'lsa, o'shaning. (الَّذِي لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 34:1; 42:53
+- Hech bir ayol homilador bo'lmaydi va tug'maydi, magar Uning ilmi bilan. (وَمَا تَحْمِلُ مِنْ أُنثَى وَلَا تَضَعُ إِلَّا بِعِلْمِهِ) 35:11; 41:47
+- Kechani, Quyosh va Oyni bo'ysundirdi, har biri belgilangan muddat bilan yuribdi. (اللَّيْلِ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ كُلٌّ يَجْرِي لِأَجَلٍ مُّسَمًّى) 35:13; 39:5
+- Ularning ostidan daryolar oqadi, ular u yerda abadiy qoladilar va bu ...ning mukofotidir. (تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَذَلِكَ جَزَاءُ) 5:85; 20:76
+- U dedi: "Yo'q, sizlarning nafslaringiz sizga bir ishni ziynatli ko'rsatibdi. Bas, sabr qilish go'zaldir." (قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْرًا فَصَبْرٌ جَمِيلٌ) 12:18; 12:83
+- Osmonlardagi va yerdagi narsalar va Alloh... (مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَأَنَّ اللَّهَ) 5:97; 22:64
+- Ularga qanday payg'ambar kelgan bo'lsa, uni masxara qilar edilar. (وَمَا يَأْتِيهِم مِّن رَّسُولٍ إِلَّا كَانُوا بِهِ يَسْتَهْزِئُونَ) 15:11; 36:30
+- Ular dedilar: "Ey Muso! Yo sen tashla, yoki biz tashlovchi bo'laylikmi?" (قَالُوا يَامُوسَى إِمَّا أَن تُلْقِيَ وَإِمَّا أَن نَّكُونَ) 7:115; 20:65
+- Sizlarni vafot ettiradigan Udir, ba'zilaringiz eng yomon umrga qaytariladi, shunda... (يَتَوَفَّاكُمْ وَمِنكُم مَّن يُرَدُّ إِلَى أَرْذَلِ الْعُمُرِ لِكَيْ) 16:70; 22:5
+- Ular uchun Parvardigorlari huzurida jannatlar bor, ularning ostidan daryolar oqadi, u yerda abadiy qoladilar. (رَبِّهِمْ جَنَّاتٌ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 3:15; 3:136
+- Biz ularning qalblariga pardalar qo'ydik, uni tushunmasliklari uchun, quloqlariga ... (وَجَعَلْنَا عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ) 17:46; 18:57
+- Albatta, Allohning va'dasi haqdir, lekin ularning ko'pchiligi bilmaydilar. (إِنَّ وَعْدَ اللَّهِ حَقٌّ وَلَكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ) 10:55; 28:13
+- Bu ularning Alloh va Uning Rasuliga qarshi chiqqanliklari uchundir. Kim Allohga qarshi chiqsa... (ذَلِكَ بِأَنَّهُمْ شَاقُّوا اللَّهَ وَرَسُولَهُ وَمَن يُشَاقِقِ اللَّهَ) 8:13; 59:4
+- U kun ularni chaqirib: "Mening sheriklarim qayerda, sizlar gumon qilar edingiz?" deydi. (وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ أَيْنَ شُرَكَائِيَ الَّذِينَ كُنتُمْ تَزْعُمُونَ) 28:62; 28:74
+- Osmonlar va yerni yaratgan Allohni ko'rmadilarmi? (أَوَلَمْ يَرَوْا أَنَّ اللَّهَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ) 17:99; 46:33
+- Seni tuproqdan, so'ngra bir nutfadan, so'ngra ... yaratgan Zotni (esla). (بِالَّذِي خَلَقَكَ مِن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ) 18:37; 40:67
+- Ular aytdilar: "Parvardigorimiz! Bizga bir payg'ambar yuborsang edi, Biz Sening oyatlarga ergashgan bo'lardik!" (لَقَالُوا رَبَّنَا لَوْلَا أَرْسَلْتَ إِلَيْنَا رَسُولًا فَنَتَّبِعَ آيَاتِكَ) 20:134; 28:47
+- So'ngra ularning qaytishi Parvardigorlariga bo'ladi va qilgan amallarini ularga xabar qiladi. (ثُمَّ إِلَى رَبِّهِم مَّرْجِعُهُمْ فَيُنَبِّئُهُم بِمَا كَانُوا يَعْمَلُونَ) 6:108; 39:7
+- Ularning bu haqda hech qanday ilmi yo'q, faqat ... (مَّا لَهُم بِذَلِكَ مِنْ عِلْمٍ إِنْ هُمْ إِلَّا) 43:20; 45:24
+- Biz ota-bobolarimizni bir din ustida topdik va biz ularning izidan boryapmiz. (إِنَّا وَجَدْنَا آبَاءَنَا عَلَى أُمَّةٍ وَإِنَّا عَلَى آثَارِهِم) 43:22; 43:23
+- Kitob berilgan kishilar, faqat o'zlariga ilm kelganidan keyin ixtilof qildilar. (الَّذِينَ أُوتُوا الْكِتَابَ إِلَّا مِن بَعْدِ مَا جَاءَهُمُ) 3:19; 98:4
+- Ibrohim: "Parvardigorim! Bu shaharni tinchlik shahri qilgin" degan paytni esla. (وَإِذْ قَالَ إِبْرَاهِيمُ رَبِّ اجْعَلْ هَذَا بَلَدًا آمِنًا) 2:126; 14:35
+- U sizlarga quloq, ko'z va qalb berdi, lekin ozgina shukr qilasizlar. (وَجَعَلَ لَكُمُ السَّمْعَ وَالْأَبْصَارَ وَالْأَفْئِدَةَ قَلِيلًا مَّا تَشْكُرُونَ) 32:9; 67:23
+- Allohning oyatlari haqida, o'zlariga kelgan hech qanday dalilsiz tortishadiganlar. (الَّذِينَ يُجَادِلُونَ فِي آيَاتِ اللَّهِ بِغَيْرِ سُلْطَانٍ أَتَاهُمْ) 40:35; 40:56
+- Ibrohimning diniga ergashing, u hanif edi va mushriklardan emas edi. (فَاتَّبِعُوا مِلَّةَ إِبْرَاهِيمَ حَنِيفًا وَمَا كَانَ مِنَ الْمُشْرِكِينَ) 3:95; 16:123
+- Sizlarni Fir'avn xonadonidan qutqargan paytimizni eslang, ular sizlarga eng yomon azob berar edilar. (وَإِذْ أَنجَيْنَاكُم مِّنْ آلِ فِرْعَوْنَ يَسُومُونَكُمْ سُوءَ الْعَذَابِ) 7:141; 14:6
+- Mana bu to'g'ri dindir, lekin ko'pchilik odamlar bilmaydilar. (ذَلِكَ الدِّينُ الْقَيِّمُ وَلَكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ) 12:40; 30:30
+- Allohning yerdagi narsalarni sizlarga bo'ysundirganini ko'rmaysanmi? (أَلَمْ تَرَ أَنَّ اللَّهَ سَخَّرَ لَكُم مَّا فِي) 22:65; 31:20
+- Kofirlar dedilar: "Bu ochiq sehrdir." (لَقَالَ الَّذِينَ كَفَرُوا إِنْ هَذَا إِلَّا سِحْرٌ مُّبِينٌ) 6:7; 11:7
+- Ularga Bizning aniq oyatlarimiz o'qilganda, kofirlar aytadilar... (وَإِذَا تُتْلَى عَلَيْهِمْ آيَاتُنَا بَيِّنَاتٍ قَالَ الَّذِينَ كَفَرُوا) 19:73; 46:7
+- Ostidan daryolar oqib turadigan Adn jannatlari, ular u yerda abadiy qoladilar. (جَنَّاتُ عَدْنٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 20:76; 98:8
+- Xohlagan narsasini, albatta Alloh hamma narsaga qodirdir. (مَا يَشَاءُ إِنَّ اللَّهَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ) 24:45; 35:1
+- Gunohlaringizni kechirib, sizlarni belgilangan muddatga qoldirish uchun. (لِيَغْفِرَ لَكُم مِّن ذُنُوبِكُمْ وَيُؤَخِّرَكُمْ إِلَى أَجَلٍ مُّسَمًّى) 14:10; 71:4
+- Bizni ota-bobolarimiz ibodat qilgan narsadan to'smoqchimisiz? (تُرِيدُونَ أَن تَصُدُّونَا عَمَّا كَانَ يَعْبُدُ آبَاؤُنَا) 14:10; 34:43
+- Parvardigoring farishtalarga: "Men loydan bir bashar yarataman" degan paytni esla. (وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي خَالِقٌ بَشَرًا مِّن) 15:28; 38:71
+- Uning rahmatidan oldin shamollarni xushxabar qilib yuboruvchi Zotdir. (وَهُوَ الَّذِي يُرْسِلُ الرِّيَاحَ بُشْرًا بَيْنَ يَدَيْ رَحْمَتِهِ) 7:57; 25:48
+- Ayting: "Yer yuzida sayohat qilib, ...ning oqibati qanday bo'lganini ko'ring." (قُلْ سِيرُوا فِي الْأَرْضِ فَانظُرُوا كَيْفَ كَانَ عَاقِبَةُ) 27:69; 30:42
+- Albatta, osmonlar va yerning yaratilishida, kecha va kunduzning almashinishida (oyatlar bor). (إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ) 2:164; 3:190
+- Kim Allohga go'zal qarz beradi, U uni bir necha barobar ko'paytirib beradi? (مَّن ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا فَيُضَاعِفَهُ) 2:245; 57:11
+- Ularning o'rtasida Alloh nozil qilgan narsa bilan hukm qil, ularning nafslariga ergashma. (فَاحْكُم بَيْنَهُم بِمَا أَنزَلَ اللَّهُ وَلَا تَتَّبِعْ أَهْوَاءَهُمْ) 5:48; 5:49
+- Ular farishtalarning kelishidan yoki Parvardigoringning (azobi) kelishidan boshqa narsani kutadilarmi? (هَلْ يَنظُرُونَ إِلَّا أَن تَأْتِيَهُمُ الْمَلَائِكَةُ أَوْ يَأْتِيَ) 6:158; 16:33
+- Albatta, Allohga yolg'on to'qiganlar hech qachon maqsadga erisha olmaydilar. (إِنَّ الَّذِينَ يَفْتَرُونَ عَلَى اللَّهِ الْكَذِبَ لَا يُفْلِحُونَ) 10:69; 16:116
+- Fir'avn xonadoni va ulardan oldingilarning odatiga o'xshash, ular Bizning oyatlarimizni yolg'on deb bildilar. (كَدَأْبِ آلِ فِرْعَوْنَ وَالَّذِينَ مِن قَبْلِهِمْ كَذَّبُوا بِآيَاتِنَا) 3:11; 8:54
+- Yaxshi amallar qilib yurgan mo'minlarga, ular uchun katta mukofat borligini xushxabar qil. (وَيُبَشِّرُ الْمُؤْمِنِينَ الَّذِينَ يَعْمَلُونَ الصَّالِحَاتِ أَنَّ لَهُمْ أَجْرًا) 17:9; 18:2
+- Alloh bandalaridan xohlaganiga rizqni keng qiladi va toraytiradi. (اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ) 28:82; 29:62
+- Yashirin va oshkora narsalarni biluvchiga qaytarilasizlar va qilgan amallaringizni sizlarga xabar qiladi. (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
+- Qarindoshlar, Allohning Kitobida bir-birlariga ko'proq haqliroqdirlar. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
 """;

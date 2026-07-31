@@ -3164,4 +3164,158 @@ Matching Phrases 9 words
 - Onlar üçün qaynar sudan içki və küfr etdiklərinə görə şiddətli bir əzab vardır. (لَهُمْ شَرَابٌ مِّنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْفُرُونَ) 6:70; 10:4
 - Allahdan başqa bizə nə fayda, nə də zərər verə bilməyənəmi ibadət edək? (أَنَدْعُو مِن دُونِ اللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا) 6:71; 10:106
 - Allah göylərdə və yerdə nə varsa, həqiqətən bilir. (أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 5:97; 58:7
+Matching Phrases 8 words
+- Allaha qarşı yalan uydurandan daha zalım kim ola bilər? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا) 6:21; 6:93; 6:144; 7:37; 10:17; 11:18; 18:15; 29:68; 61:7
+- Bunda əlbəttə bir ayət vardır, lakin onların əksəriyyəti mömin deyildi. (إِنَّ فِي ذَلِكَ لَآيَةً وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ) 26:8; 26:67; 26:103; 26:121; 26:139; 26:158; 26:174; 26:190
+- Yer üzündə gəzib dolaşsınlar və görsünlər ki, (keçmiş) insanların aqibəti necə oldu. (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ) 12:109; 30:9; 30:42; 35:44; 40:21; 40:82; 47:10
+- Dedi: Ey qövmüm! Allaha ibadət edin, sizin Ondan başqa heç bir tanrınız yoxdur. (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ) 7:65; 7:73; 7:85; 11:50; 11:61; 11:84; 23:23
+- Onu (Allah) altından çaylar axan cənnətlərə daxil edər, orada əbədi qalarlar. (يُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 4:13; 4:57; 4:122; 58:22; 64:9; 65:11
+- Qiyamət günü onların arasında ixtilafda olduqları məsələlərə dair hökm veriləcəkdir. (بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 2:113; 10:93; 16:124; 22:69; 32:25; 45:17
+- Məgər onlar yer üzündə gəzib dolaşmadılar ki, aqibətin necə olduğunu görsünlər? (أَوَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ) 30:9; 35:44; 40:21; 40:82; 47:10
+- Altından çaylar axan cənnətlər, orada əbədi olaraq qalacaqlar. (جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا) 4:57; 4:122; 5:119; 64:9; 65:11
+- Gecəni gündüzə, gündüzü də gecəyə daxil edərsən. (تُولِجُ اللَّيْلَ فِي النَّهَارِ وَتُولِجُ النَّهَارَ فِي اللَّيْلِ) 3:27; 22:61; 31:29; 35:13; 57:6
+- Göylərdə və yerdə nə varsa, hamısı Allahı təqdis edər. (سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 59:1; 61:1; 62:1; 64:1
+- Allaha ibadət edin, sizin Ondan başqa heç bir tanrınız yoxdur. Məgər qorxmursunuz? (اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا) 7:65; 11:84; 23:23; 23:32
+- Biz mələklərə: Adəmə səcdə edin! – dedikdə, İblisdən başqa hamısı səcdə etdi. (وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا إِبْلِيسَ) 2:34; 17:61; 18:50; 20:116
+- Allah göylərdə və yerdə nə varsa, hamısını bilir. (اللَّهُ وَيَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 3:29; 5:97; 49:16; 58:7
+- Altından çaylar axan cənnətlər, orada əbədi qalacaqlar, və bu. (جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَذَلِكَ) 4:13; 5:85; 9:89; 57:12
+- Onun mükafatı Rəbbinin yanındadır, onlara heç bir qorxu yoxdur və onlar. (أَجْرُهُ عِندَ رَبِّهِ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ) 2:112; 2:262; 2:274; 2:277
+- Rəbbinin yanındadır, onlara heç bir qorxu yoxdur və onlar qəm də çəkməzlər. (عِندَ رَبِّهِ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ) 2:112; 2:262; 2:274; 2:277
+- Kim doğru yola gələrsə, yalnız öz xeyrinə gələr, kim azarsa. (فَمَنِ اهْتَدَى فَإِنَّمَا يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ) 10:108; 17:15; 27:92
+- Doğru yola yalnız öz xeyrinə gələr, kim azarsa, ancaq öz ziyanına azar. (يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا) 10:108; 17:15; 39:41
+- Məgər ona Rəbbindən bir ayət (möcüzə) endirilməli deyildimi? De: Şübhəsiz ki. (لَوْلَا أُنزِلَ عَلَيْهِ آيَةٌ مِّن رَّبِّهِ فَقُلْ إِنَّمَا) 10:20; 13:27; 29:50
+- İman gətirib saleh əməllər edənlər üçün kəsilməz (tükənməz) mükafat vardır. (الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ) 41:8; 84:25; 95:6
+- Dirini ölüdən çıxarırsan, ölünü də diridən çıxarırsan. (وَتُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ وَتُخْرِجُ الْمَيِّتَ مِنَ الْحَيِّ) 3:27; 10:31; 30:19
+- Kim Allahın nazil etdiyi ilə hökm etməzsə, onlardır. (وَمَن لَّمْ يَحْكُم بِمَا أَنزَلَ اللَّهُ فَأُولَئِكَ هُمُ) 5:44; 5:45; 5:47
+- Göyləri, yeri və onların arasında olanları altı gündə yaratdı. (خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا فِي سِتَّةِ أَيَّامٍ) 25:59; 32:4; 50:38
+- Həqiqətən, Allah insanlara qarşı lütf sahibidir, lakin insanların əksəriyyəti. (إِنَّ اللَّهَ لَذُو فَضْلٍ عَلَى النَّاسِ وَلَكِنَّ أَكْثَرَ) 2:243; 10:60; 40:61
+- Allah onlara zülm edən deyildi, lakin onlar öz-özlərinə zülm edirdilər. (فَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ وَلَكِن كَانُوا أَنفُسَهُمْ يَظْلِمُونَ) 9:70; 29:40; 30:9
+- Günahlarınızı bağışlayar və sizi altından çaylar axan cənnətlərə daxil edər. (عَنكُمْ سَيِّئَاتِكُمْ وَلَأُدْخِلَنَّكُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 5:12; 64:9; 66:8
+- Sizə ölü heyvanı, qanı, donuz ətini və Allahdan başqasının adı ilə kəsiləni haram etdi. (حَرَّمَ عَلَيْكُمُ الْمَيْتَةَ وَالدَّمَ وَلَحْمَ الْخِنزِيرِ وَمَا أُهِلَّ) 2:173; 5:3; 16:115
+- Mən, əgər Rəbbimə asi olsam, böyük günün əzabından qorxuram. (إِنِّي أَخَافُ إِنْ عَصَيْتُ رَبِّي عَذَابَ يَوْمٍ عَظِيمٍ) 6:15; 10:15; 39:13
+- Özlərinə elm gəldikdən sonra, aralarında olan həsəd üzündən başqa. (إِلَّا مِن بَعْدِ مَا جَاءَهُمُ الْعِلْمُ بَغْيًا بَيْنَهُمْ) 3:19; 42:14; 45:17
+- Namazı qılarlar və onlara verdiyimiz ruzidən gizli və aşkar xərcləyərlər. (وَأَقَامُوا الصَّلَاةَ وَأَنفَقُوا مِمَّا رَزَقْنَاهُمْ سِرًّا وَعَلَانِيَةً) 13:22; 14:31; 35:29
+- Allahı qoyub bizə nə fayda, nə də ziyan verə bilməyən (bütlərə ibadət) edək? (مِن دُونِ اللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا) 6:71; 10:106; 25:55
+- Onlar sənə nazil olana və səndən əvvəl nazil olana iman gətirirlər. (يُؤْمِنُونَ بِمَا أُنزِلَ إِلَيْكَ وَمَا أُنزِلَ مِن قَبْلِكَ) 2:4; 4:60; 4:162
+- Məgər görmürsən ki, Allah göydən su endirir? (أَلَمْ تَرَ أَنَّ اللَّهَ أَنزَلَ مِنَ السَّمَاءِ مَاءً) 22:63; 35:27; 39:21
+- Bir işi (yaratmağı) qərar verəndə, sadəcə ona: “Ol!” – deyər, o da dərhal olar. (قَضَى أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُن فَيَكُونُ) 3:47; 19:35; 40:68
+- Mədyənə də qardaşları Şüeybi (göndərdik). Dedi: Ey qövmüm, Allaha ibadət edin! (وَإِلَى مَدْيَنَ أَخَاهُمْ شُعَيْبًا قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ) 7:85; 11:84; 29:36
+- Bu, qeyb xəbərlərindəndir ki, sənə vəhy edirik; sən (bunları) bilmirdin. (ذَلِكَ مِنْ أَنْبَاءِ الْغَيْبِ نُوحِيهِ إِلَيْكَ وَمَا كُنتَ) 3:44; 11:49; 12:102
+- Onların əcəli gəldiyi zaman onu nə bir an geri, nə də irəli çəkə bilərlər. (فَإِذَا جَاءَ أَجَلُهُمْ لَا يَسْتَأْخِرُونَ سَاعَةً وَلَا يَسْتَقْدِمُونَ) 7:34; 10:49; 16:61
+- Şeytanın addımlarını izləməyin, həqiqətən o, sizin açıq düşməninizdir. (وَلَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ إِنَّهُ لَكُمْ عَدُوٌّ مُّبِينٌ) 2:168; 2:208; 6:142
+- İnsanlardan eləsi də var ki, heç bir biliyi olmadan Allah barəsində mübahisə edər. (وَمِنَ النَّاسِ مَن يُجَادِلُ فِي اللَّهِ بِغَيْرِ عِلْمٍ) 22:3; 22:8; 31:20
+- Allah onu istədiyinə verər və Allah böyük lütf sahibidir. (اللَّهِ يُؤْتِيهِ مَن يَشَاءُ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ) 57:21; 57:29; 62:4
+- Hər kəsə qazandığının (əməlinin) əvəzi tam verilər və onlara zülm edilməz. (تُوَفَّى كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ) 2:281; 3:25; 3:161
+- Allahın haram etdiyi cana, haqq olaraq (qisas və ya zina cəzası) istisna olmaqla, qəsd etməyin. (وَلَا تَقْتُلُوا النَّفْسَ الَّتِي حَرَّمَ اللَّهُ إِلَّا بِالْحَقِّ) 6:151; 17:33; 25:68
+- Bir işi (yaratmağı) qərar verəndə, sadəcə ona: “Ol!” – deyər. (إِذَا قَضَى أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُن) 3:47; 19:35; 40:68
+- Cəhənnəmin qapılarına daxil olun, orada əbədi qalacaqsınız; təkəbbürlülərin qərar yeri nə pisdir! (فَادْخُلُوا أَبْوَابَ جَهَنَّمَ خَالِدِينَ فِيهَا فَلَبِئْسَ مَثْوَى الْمُتَكَبِّرِينَ) 16:29; 39:72; 40:76
+- Kitabdan (Tövratdan) bir pay verilən kəsləri görmürsənmi? (أَلَمْ تَرَ إِلَى الَّذِينَ أُوتُوا نَصِيبًا مِّنَ الْكِتَابِ) 3:23; 4:44; 4:51
+- Onlar üçün altından çaylar axan cənnətlər vardır, orada əbədi qalacaqlar. (لَهُمْ جَنَّاتٌ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 3:198; 5:119; 9:89
+- Ey qövmüm, öz bildiyiniz kimi işləyin, mən də işləyirəm; tezliklə biləcəksiniz. (يَاقَوْمِ اعْمَلُوا عَلَى مَكَانَتِكُمْ إِنِّي عَامِلٌ فَسَوْفَ تَعْلَمُونَ) 6:135; 11:93; 39:39
+- Allaha və Onun Elçisinə qarşı çıxan – şübhəsiz ki, onun üçün Cəhənnəm odu vardır, orada əbədi qalacaqdır. (اللَّهَ وَرَسُولَهُ فَأَنَّ لَهُ نَارَ جَهَنَّمَ خَالِدًا فِيهَا) 9:63; 72:23
+- Onların qəlblərində (Quranı) anlamamaq üçün pərdələr, qulaqlarında da ağırlıq vardır. (عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا) 17:46; 18:57
+- Bir məmləkətə (cəmiyyətə) xəbərdarlıq edən (peyğəmbər) gəlməmiş olsun ki, onun varlı (küfr edən) adamları: “Biz...” – dedilər. (فِي قَرْيَةٍ مِّن نَّذِيرٍ إِلَّا قَالَ مُتْرَفُوهَا إِنَّا) 34:34; 43:23
+- Dedilər: “Rəbbindən bizim üçün istə ki, onun (o inəyin) necə olduğunu bizə bildirsin.” (قَالُوا ادْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِيَ) 2:68; 2:70
+- Onlar mütləq: “Allah!” – deyəcəklər. De: “Həmd olsun Allaha!” Lakin onların əksəriyyəti (bunu) dərk etməz. (لَيَقُولُنَّ اللَّهُ قُلِ الْحَمْدُ لِلَّهِ بَلْ أَكْثَرُهُمْ لَا) 29:63; 31:25
+- Onun qövmünün cavabı ancaq: “Onları yurdunuzdan çıxarın!” – demələri oldu. (وَمَا كَانَ جَوَابَ قَوْمِهِ إِلَّا أَن قَالُوا أَخْرِجُوهُم) 7:82; 27:56
+- Altından çaylar axar, orada əbədi qalarlar; bu, böyük qurtuluşdur (uğurdur). (تَحْتَهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا ذَلِكَ الْفَوْزُ الْعَظِيمُ) 9:100; 64:9
+- Onlar öz Rəbbindən gələn bir doğru yoldadırlar və onlar nicat tapanlardır. (أُولَئِكَ عَلَى هُدًى مِّن رَّبِّهِمْ وَأُولَئِكَ هُمُ الْمُفْلِحُونَ) 2:5; 31:5
+- Kimə rüsvayedici əzab gələr və onun üzərinə davamlı əzab enər? (مَن يَأْتِيهِ عَذَابٌ يُخْزِيهِ وَيَحِلُّ عَلَيْهِ عَذَابٌ مُّقِيمٌ) 11:39; 39:40
+- Yer üzündə gəzib dolaşın və görün ki, (haqqı) yalan sayanların aqibəti necə oldu. (فَسِيرُوا فِي الْأَرْضِ فَانظُرُوا كَيْفَ كَانَ عَاقِبَةُ الْمُكَذِّبِينَ) 3:137; 16:36
+- Öz əlləri ilə etdikləri əməllərə görə onu heç vaxt arzu etməzlər. Allah zalımları biləndir. (يَتَمَنَّوْهُ أَبَدًا بِمَا قَدَّمَتْ أَيْدِيهِمْ وَاللَّهُ عَلِيمٌ بِالظَّالِمِينَ) 2:95; 62:7
+- O, Öz yolundan azanı ən yaxşı biləndir, O (hər şeyi) ən yaxşı biləndir. (هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ) 53:30; 68:7
+- Həqiqətən, Allah mənim Rəbbimdir və sizin də Rəbbinizdir; buna görə də Ona ibadət edin; bu, düz yoldur. (إِنَّ اللَّهَ رَبِّي وَرَبُّكُمْ فَاعْبُدُوهُ هَذَا صِرَاطٌ مُّسْتَقِيمٌ) 3:51; 19:36
+- O, insanlara qarşı lütf sahibidir, lakin onların əksəriyyəti şükür etməz. (لَذُو فَضْلٍ عَلَى النَّاسِ وَلَكِنَّ أَكْثَرَهُمْ لَا يَشْكُرُونَ) 10:60; 27:73
+- Göyləri, yeri və onların arasında olanları ancaq haqq ilə və müəyyən bir müddətə görə (yaratdıq). (السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا إِلَّا بِالْحَقِّ وَأَجَلٍ مُّسَمًّى) 30:8; 46:3
+- Özlərini batil işlərə və oyuna qoy, nəhayət vəd olunduqları günə qovuşana qədər. (فَذَرْهُمْ يَخُوضُوا وَيَلْعَبُوا حَتَّى يُلَاقُوا يَوْمَهُمُ الَّذِي يُوعَدُونَ) 43:83; 70:42
+- Möminlərə rast gəldikdə: “İman gətirdik!” – deyərlər; bir-birilə tək qaldıqda isə. (وَإِذَا لَقُوا الَّذِينَ آمَنُوا قَالُوا آمَنَّا وَإِذَا خَلَوْا) 2:14; 2:76
+- Tövratı, İncili və Rəbbindən özlərinə nazil olanı (Quranı) tətbiq edərlər. (أَقَامُوا التَّوْرَاةَ وَالْإِنجِيلَ وَمَا أُنزِلَ إِلَيْهِم مِّن رَّبِّهِمْ) 5:66; 5:68
+- O, onların önündə və arxasında nə varsa bilir. Onlar isə Onu (elmlə) qavraya bilməzlər. (يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ) 2:255; 20:110
+- Göyləri və yeri altı gündə xəlq edən Odur. (وَهُوَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ) 11:7; 57:4
+- Bunda sizin üçün bir ayət (ibrət) vardır, əgər möminlərsinizsə. (إِنَّ فِي ذَلِكَ لَآيَةً لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ) 2:248; 3:49
+- İnsanlara doğru yol (Quran) gəldiyi zaman, onların iman gətirməsinə mane olan nədir? (وَمَا مَنَعَ النَّاسَ أَن يُؤْمِنُوا إِذْ جَاءَهُمُ الْهُدَى) 17:94; 18:55
+- Onlar Allahın yolundan sapdırmaq üçün Allaha şəriklər qoşdular. De: “Zövq alın!” (وَجَعَلُوا لِلَّهِ أَندَادًا لِّيُضِلُّوا عَن سَبِيلِهِ قُلْ تَمَتَّعُوا) 14:30; 39:8
+- Öz aralarından bir xəbərdar edən (peyğəmbər) gəldiyinə təəccüb etdilər; kafirlər dedilər: Bu. (وَعَجِبُوا أَن جَاءَهُم مُّنذِرٌ مِّنْهُمْ وَقَالَ الْكَافِرُونَ هَذَا) 38:4; 50:2
+- Həqiqətən, Rəbbin Öz yolundan azanı ən yaxşı biləndir. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ) 53:30; 68:7
+- Malını camaata gözə görünən xərcləyən və Allaha iman gətirməyən şəxs kimi. (كَالَّذِي يُنفِقُ مَالَهُ رِئَاءَ النَّاسِ وَلَا يُؤْمِنُ بِاللَّهِ) 2:264; 4:38
+- Verilən ruzidən, o (axirət) gəlməmişdən əvvəl xərcləyin. (أَنفِقُوا مِمَّا رَزَقْنَاكُم مِّن قَبْلِ أَن يَأْتِيَ) 2:254; 63:10
+- O, göylərdə və yerdə olanları sizin xeyrinizə ram etdi. (سَخَّرَ لَكُم مَّا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 31:20; 45:13
+- Biz sizi çağırdığınız şey haqqında şübhə içindəyik. (وَإِنَّنَا لَفِي شَكٍّ مِّمَّا تَدْعُونَا إِلَيْهِ مُرِيبٍ) 11:62; 14:9
+- Həqiqətən, Rəbbin ruzini istədiyinə geniş edər, istədiyinə də daraldar. Həqiqətən, O. (إِنَّ رَبَّكَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ وَيَقْدِرُ إِنَّهُ) 17:30; 34:36
+- Göylərin, yerin və onların arasında olanların Rəbbi – əgər yəqinliklə inanırsınızsa. (رَبُّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا إِن كُنتُم مُّوقِنِينَ) 26:24; 44:7
+- Biz Allaha, bizə nazil olana və İbrahimə, İsmailə, İshaqa, Yaquba və onun nəslinə nazil olana iman gətirdik. (آمَنَّا بِاللَّهِ وَمَا أُنزِلَ إِلَيْنَا وَمَا أُنزِلَ إِلَى) 2:136; 3:199
+- Zalımları dəhşətli səs (tufan) yaxaladı, onlar öz evlərində yerlərə yıxılmış (diz çökmüş) vəziyyətdə qaldılar. (وَأَخَذَ الَّذِينَ ظَلَمُوا الصَّيْحَةُ فَأَصْبَحُوا فِي دِيَارِهِمْ جَاثِمِينَ) 11:67; 11:94
+- Onların öz barələrində (gözəl geyinib-keçinmək, yas vaxtı evdə qalmaq kimi) etdiyi işlərdə sizə heç bir günah yoxdur. (فَلَا جُنَاحَ عَلَيْكُمْ فِيمَا فَعَلْنَ فِي أَنفُسِهِنَّ) 2:234; 2:240
+- Rəbbin Öz yolundan azanı ən yaxşı biləndir və O. (رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ) 53:30; 68:7
+- Öz əmri ilə ruhu (vəhyi) qullarından istədiyinə endirər. (بِالرُّوحِ مِنْ أَمْرِهِ عَلَى مَن يَشَاءُ مِنْ عِبَادِهِ) 16:2; 40:15
+- Məryəm oğlu İsaya açıq-aydın dəlillər verdik və onu Müqəddəs Ruhla dəstəklədik. (وَآتَيْنَا عِيسَى ابْنَ مَرْيَمَ الْبَيِّنَاتِ وَأَيَّدْنَاهُ بِرُوحِ الْقُدُسِ) 2:87; 2:253
+- Qiyamət günü onların arasında ixtilafda olduqları məsələyə dair hökm verəcəkdir. (لَيَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ) 16:124; 22:69
+- Onun (o şəhərin) üst hissəsini alt-üst etdik və üstünə daş (palçıqdan möhkəm) yağdırdıq. (جَعَلْنَا عَالِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةً مِّن سِجِّيلٍ) 11:82; 15:74
+- Onları qorxutsan da, qorxutmasan da, onlar üçün eynidir, iman gətirməzlər. (سَوَاءٌ عَلَيْهِمْ أَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ) 2:6; 36:10
+- İnsanları qoyub (öz aranızda), əgər doğru danışanlarsınızsa, ölümü arzulayın. (مِّن دُونِ النَّاسِ فَتَمَنَّوُا الْمَوْتَ إِن كُنتُمْ صَادِقِينَ) 2:94; 62:6
+- Allaha (ibadət edin), sizin Ondan başqa heç bir tanrınız yoxdur. Məgər qorxmursunuz? (اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 23:23; 23:32
+- Onlara vəd etdiyimizin bir qismini sənə göstərsək də, səni öldürsək də, sənin (və onların) dönüşü Bizədir. (وَإِمَّا نُرِيَنَّكَ بَعْضَ الَّذِي نَعِدُهُمْ أَوْ نَتَوَفَّيَنَّكَ فَإِلَيْنَا) 10:46; 40:77
+- Dedilər: “Biz ölüb torpaq və sümük olduqdan sonra, məgər həqiqətən dirildiləcəyikmi?” (قَالُوا أَإِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَامًا أَإِنَّا لَمَبْعُوثُونَ) 23:82; 56:47
+- Lütf Allahın əlindədir, onu istədiyinə verər və Allah (hər şeyi) əhatə edəndir. (إِنَّ الْفَضْلَ بِيَدِ اللَّهِ يُؤْتِيهِ مَن يَشَاءُ وَاللَّهُ) 3:73; 57:29
+- Gizlini və aşkarı Bilənə tərəf qaytarılacaqsınız, O sizə etdiyiniz əməlləri xəbər verəcəkdir. (إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ) 9:105; 62:8
+- Ey iman gətirənlər! Allahın sizə verdiyi neməti xatırlayın, o vaxt ki. (يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا نِعْمَتَ اللَّهِ عَلَيْكُمْ إِذْ) 5:11; 33:9
+- Səndən əvvəl də biz yalnız kişilərə – onlara vəhy etdiyimiz kimsələrə – peyğəmbər göndərdik. (وَمَا أَرْسَلْنَا مِن قَبْلِكَ إِلَّا رِجَالًا نُّوحِي إِلَيْهِم) 12:109; 16:43
+- Onun günahlarını bağışlayar və onu altından çaylar axan cənnətlərə daxil edər. (يُكَفِّرْ عَنْهُ سَيِّئَاتِهِ وَيُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا) 64:9; 66:8
+- Xəstə və ya səfərdə olan (oruc tutmaya bilər), başqa günlərdə (orucu) qaza edər. (مَّرِيضًا أَوْ عَلَى سَفَرٍ فَعِدَّةٌ مِّنْ أَيَّامٍ أُخَرَ) 2:184; 2:185
+- Onlar ancaq zənnə qapılarlar və ancaq yalan danışarlar. (إِن يَتَّبِعُونَ إِلَّا الظَّنَّ وَإِنْ هُمْ إِلَّا يَخْرُصُونَ) 6:116; 10:66
+- Allahdan və axirət günündən ümid edənlər üçün gözəl nümunədir. (أُسْوَةٌ حَسَنَةٌ لِّمَن كَانَ يَرْجُو اللَّهَ وَالْيَوْمَ الْآخِرَ) 33:21; 60:6
+- Göyləri, yeri və onların arasında olanları ancaq haqq olaraq yaratdıq. (وَمَا خَلَقْنَا السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا إِلَّا بِالْحَقِّ) 15:85; 46:3
+- Əlini cibinə sox, o heç bir pislik (xəstəlik) olmadan ağappaq çıxacaqdır. (يَدَكَ فِي جَيْبِكَ تَخْرُجْ بَيْضَاءَ مِنْ غَيْرِ سُوءٍ) 27:12; 28:32
+- Öz mərhəməti ilə istədiyini seçər; Allah böyük lütf sahibidir. (يَخْتَصُّ بِرَحْمَتِهِ مَن يَشَاءُ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ) 2:105; 3:74
+- Məgər bilmirsənmi ki, Allah göylərin və yerin hökmranlığına sahibdir? (أَلَمْ تَعْلَمْ أَنَّ اللَّهَ لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ) 2:107; 5:40
+- Özünüz üçün (axirətə) nə xeyir göndərsəniz, onu Allahın yanında taparsınız. (وَمَا تُقَدِّمُوا لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ اللَّهِ) 2:110; 73:20
+- Çıxdığın yerdən üzünü Məscidül-Hərama tərəf çevir. (وَمِنْ حَيْثُ خَرَجْتَ فَوَلِّ وَجْهَكَ شَطْرَ الْمَسْجِدِ الْحَرَامِ) 2:149; 2:150
+- Onlardan əvvəlkilər (keçib getdilər) və sən Allahın qanununda heç vaxt dəyişiklik tapa bilməzsən. (خَلَوْا مِن قَبْلُ وَلَن تَجِدَ لِسُنَّةِ اللَّهِ تَبْدِيلًا) 33:62; 48:23
+- O kəs ki, göylərdə və yerdə nə varsa, Onundur. (الَّذِي لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 34:1; 42:53
+- Heç bir qadın nə hamilə olar, nə də doğar, Onun elmi olmadan. (وَمَا تَحْمِلُ مِنْ أُنثَى وَلَا تَضَعُ إِلَّا بِعِلْمِهِ) 35:11; 41:47
+- Gecəni, gündüzü, günəşi və ayı ram etdi; hamısı müəyyən bir müddətə qədər hərəkət edir. (اللَّيْلِ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ كُلٌّ يَجْرِي لِأَجَلٍ مُّسَمًّى) 35:13; 39:5
+- Altından çaylar axan, orada əbədi qalacaqları, bu, mükafatdır. (تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَذَلِكَ جَزَاءُ) 5:85; 20:76
+- Dedi: “Xeyr, (bəlkə) öz nəfsiniz sizə bir işi yaxşı göstərdi. (Buna qarşı) gözəl səbr!” (قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْرًا فَصَبْرٌ جَمِيلٌ) 12:18; 12:83
+- Göylərdə və yerdə nə varsa (hamısı Onundur) və Allah. (مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَأَنَّ اللَّهَ) 5:97; 22:64
+- Onlara elçi gəldikdə, onu ələ salardılar. (وَمَا يَأْتِيهِم مِّن رَّسُولٍ إِلَّا كَانُوا بِهِ يَسْتَهْزِئُونَ) 15:11; 36:30
+- Dedilər: “Ya Musa! Ya sən (əsanı) at, ya da biz ata bilərik.” (قَالُوا يَامُوسَى إِمَّا أَن تُلْقِيَ وَإِمَّا أَن نَّكُونَ) 7:115; 20:65
+- Sizi öldürən Odur; içinizdən biri də ömrün ən rəzil çağına – bildikdən sonra heç nə bilməyəcəyi çağa – yetişər. (يَتَوَفَّاكُمْ وَمِنكُم مَّن يُرَدُّ إِلَى أَرْذَلِ الْعُمُرِ لِكَيْ) 16:70; 22:5
+- Onlar üçün Rəbbinin yanında altından çaylar axan cənnətlər vardır, orada əbədi qalacaqlar. (رَبِّهِمْ جَنَّاتٌ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 3:15; 3:136
+- Onların qəlblərində (Quranı) anlamamaq üçün pərdələr, qulaqlarında da ağırlıq var. (وَجَعَلْنَا عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ) 17:46; 18:57
+- Həqiqətən, Allahın vədi haqdır, lakin onların əksəriyyəti bilmir. (إِنَّ وَعْدَ اللَّهِ حَقٌّ وَلَكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ) 10:55; 28:13
+- Bu, ona görədir ki, onlar Allaha və Onun Elçisinə qarşı çıxdılar; kim Allaha qarşı çıxsa... (ذَلِكَ بِأَنَّهُمْ شَاقُّوا اللَّهَ وَرَسُولَهُ وَمَن يُشَاقِقِ اللَّهَ) 8:13; 59:4
+- O gün (Allah) onlara nida edib deyər: “Mənə şərik qoşduğunuz (varlıqlar) haradadır?” (وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ أَيْنَ شُرَكَائِيَ الَّذِينَ كُنتُمْ تَزْعُمُونَ) 28:62; 28:74
+- Məgər onlar (Allahın) göyləri və yeri yaradan olduğunu görmürlərmi? (أَوَلَمْ يَرَوْا أَنَّ اللَّهَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ) 17:99; 46:33
+- (O kəs) ki, səni torpaqdan, sonra nütfədən (toxumdan), sonra. (بِالَّذِي خَلَقَكَ مِن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ) 18:37; 40:67
+- (Əgər peyğəmbər göndərilməsəydi) Onlar deyərdilər: “Ey Rəbbimiz, bizə bir peyğəmbər göndərsəydin, ayələrinə uyub iman gətirərdik.” (لَقَالُوا رَبَّنَا لَوْلَا أَرْسَلْتَ إِلَيْنَا رَسُولًا فَنَتَّبِعَ آيَاتِكَ) 20:134; 28:47
+- Sonra onların (ölümdən sonrakı) qayıdışı Rəbbinədir; O, onlara etdikləri əməlləri xəbər verəcəkdir. (ثُمَّ إِلَى رَبِّهِم مَّرْجِعُهُمْ فَيُنَبِّئُهُم بِمَا كَانُوا يَعْمَلُونَ) 6:108; 39:7
+- Onların buna dair heç bir elmləri yoxdur; onlar yalnız zənnə qapılırlar. (مَّا لَهُم بِذَلِكَ مِنْ عِلْمٍ إِنْ هُمْ إِلَّا) 43:20; 45:24
+- Həqiqətən, biz atalarımızı bir din üzərində tapdıq və biz onların izi ilə gedirik. (إِنَّا وَجَدْنَا آبَاءَنَا عَلَى أُمَّةٍ وَإِنَّا عَلَى آثَارِهِم) 43:22; 43:23
+- Kitab verilmiş kəslər, özlərinə (həqiqət) gəldikdən sonra (ixtilafa düşdülər). (الَّذِينَ أُوتُوا الْكِتَابَ إِلَّا مِن بَعْدِ مَا جَاءَهُمُ) 3:19; 98:4
+- İbrahim demişdi: “Ey Rəbbim, bu şəhəri (Məkkəni) təhlükəsiz bir yer et!” (وَإِذْ قَالَ إِبْرَاهِيمُ رَبِّ اجْعَلْ هَذَا بَلَدًا آمِنًا) 2:126; 14:35
+- Sizə qulaq, göz və ürək verdi; siz az şükür edirsiniz. (وَجَعَلَ لَكُمُ السَّمْعَ وَالْأَبْصَارَ وَالْأَفْئِدَةَ قَلِيلًا مَّا تَشْكُرُونَ) 32:9; 67:23
+- Özlərinə heç bir dəlil-sübut gəlmədən Allahın ayələri barədə mübahisə edənlər. (الَّذِينَ يُجَادِلُونَ فِي آيَاتِ اللَّهِ بِغَيْرِ سُلْطَانٍ أَتَاهُمْ) 40:35; 40:56
+- İbrahimin hənif dininə tabe olun; o, müşriklərdən deyildi. (فَاتَّبِعُوا مِلَّةَ إِبْرَاهِيمَ حَنِيفًا وَمَا كَانَ مِنَ الْمُشْرِكِينَ) 3:95; 16:123
+- Sizi Firon ailəsindən xilas etdik; onlar sizə ən ağır əzab verirdilər. (وَإِذْ أَنجَيْنَاكُم مِّنْ آلِ فِرْعَوْنَ يَسُومُونَكُمْ سُوءَ الْعَذَابِ) 7:141; 14:6
+- Bu, düzgün dindir; lakin insanların əksəriyyəti bilmir. (ذَلِكَ الدِّينُ الْقَيِّمُ وَلَكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ) 12:40; 30:30
+- Məgər Allahın göylərdə olanları sizin ixtiyarınıza verdiyini görmürsənmi? (أَلَمْ تَرَ أَنَّ اللَّهَ سَخَّرَ لَكُم مَّا فِي) 22:65; 31:20
+- Kafir olanlar deyərdilər ki, bu, açıq-aydın sehrdən başqa bir şey deyil. (لَقَالَ الَّذِينَ كَفَرُوا إِنْ هَذَا إِلَّا سِحْرٌ مُّبِينٌ) 6:7; 11:7
+- Onlara ayələrimiz aydın oxunduğu zaman, kafirlər (haqqa iman gətirməyib) dedilər. (وَإِذَا تُتْلَى عَلَيْهِمْ آيَاتُنَا بَيِّنَاتٍ قَالَ الَّذِينَ كَفَرُوا) 19:73; 46:7
+- Altından çaylar axan əbədi cənnətlər, orada əbədi qalacaqlar. (جَنَّاتُ عَدْنٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 20:76; 98:8
+- (Allah) dilədiyini yaradır; həqiqətən, Allah hər şeyə qadirdir. (مَا يَشَاءُ إِنَّ اللَّهَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ) 24:45; 35:1
+- Onun (Allah) sizin günahlarınızdan bir qismini bağışlaması və sizi müəyyən bir müddətə qədər təxirə salması üçün. (لِيَغْفِرَ لَكُم مِّن ذُنُوبِكُمْ وَيُؤَخِّرَكُمْ إِلَى أَجَلٍ مُّسَمًّى) 14:10; 71:4
+- Atalarımızın ibadət etdiyi tanrılardan bizi döndərməkmi istəyirsiniz? (تُرِيدُونَ أَن تَصُدُّونَا عَمَّا كَانَ يَعْبُدُ آبَاؤُنَا) 14:10; 34:43
+- Rəbbin mələklərə dediyi zaman: “Mən, həqiqətən, (bir) insanı (Adəmi) palçıqdan xəlq edirəm.” (وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي خَالِقٌ بَشَرًا مِّن) 15:28; 38:71
+- Rüzgarları Öz mərhəmətinin önündə (yağışın) müjdəçisi olaraq göndərən Odur. (وَهُوَ الَّذِي يُرْسِلُ الرِّيَاحَ بُشْرًا بَيْنَ يَدَيْ رَحْمَتِهِ) 7:57; 25:48
+- De: “Yer üzündə gəzib dolaşın və görün ki, (günahkarların) aqibəti necə oldu.” (قُلْ سِيرُوا فِي الْأَرْضِ فَانظُرُوا كَيْفَ كَانَ عَاقِبَةُ) 27:69; 30:42
+- Göylərin və yerin xəlq edilməsində, gecə ilə gündüzün bir-birini əvəz etməsində (ibrətlər vardır). (إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ) 2:164; 3:190
+- Kim Allaha gözəl bir borc verərsə (sədəqə edərsə), Allah onu qat-qat artırar. (مَّن ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا فَيُضَاعِفَهُ) 2:245; 57:11
+- Onların arasında Allahın nazil etdiyi ilə hökm et və onların nəfslərindən gələn arzulara uyma. (فَاحْكُم بَيْنَهُم بِمَا أَنزَلَ اللَّهُ وَلَا تَتَّبِعْ أَهْوَاءَهُمْ) 5:48; 5:49
+- Onlar ancaq (Allahın əzabının) mələklər tərəfindən gəlməsini, yaxud Rəbbinin (əzab) əmrinin gəlməsini gözləyirlər. (هَلْ يَنظُرُونَ إِلَّا أَن تَأْتِيَهُمُ الْمَلَائِكَةُ أَوْ يَأْتِيَ) 6:158; 16:33
+- Allaha qarşı yalan uyduranlar, əlbəttə, nicat tapmazlar. (إِنَّ الَّذِينَ يَفْتَرُونَ عَلَى اللَّهِ الْكَذِبَ لَا يُفْلِحُونَ) 10:69; 16:116
+- Firon əhlindən və onlardan əvvəlkilərdən (dəstələr) kimi, onlar da ayələrimizi yalan saydılar. (كَدَأْبِ آلِ فِرْعَوْنَ وَالَّذِينَ مِن قَبْلِهِمْ كَذَّبُوا بِآيَاتِنَا) 3:11; 8:54
+- İman gətirən və yaxşı işlər görənləri, həqiqətən, onlar üçün (gözəl) bir mükafat olduğu ilə müjdələr. (وَيُبَشِّرُ الْمُؤْمِنِينَ الَّذِينَ يَعْمَلُونَ الصَّالِحَاتِ أَنَّ لَهُمْ أَجْرًا) 17:9; 18:2
+- Allah, qullarından istədiyinin ruzisini geniş edər, istədiyinin də daraldar. (اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ) 28:82; 29:62
+- Siz gizlini və aşkarı Bilənə qaytarılacaqsınız; O da sizə etdiklərinizi xəbər verəcəkdir. (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
+- Qohumlar (yaxın qan qohumları) Allahın Kitabında bir-birinə daha yaxındırlar. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
 """;

@@ -3163,4 +3163,158 @@ Matching Phrases 9 words
 - Babuli ekunywa khukhuma amatsi, nende esakilibwa esiingayi, khulwakhwo bakhola obubii. (لَهُمْ شَرَابٌ مِّنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْفُرُونَ) 6:70; 10:4
 - Lwasi khuboola Nyasaye, ne khuboola ekhwo? (أَنَدْعُو مِن دُونِ اللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا) 6:71; 10:106
 - Nyasaye amanyi tsio mwilulu nende tsio khushialo. (أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 5:97; 58:7
+Matching Phrases 8 words
+- Ni weye omuboobi muno muno khu nali wakhwana akhukhora obutukiibukhi okhurula khu Nyasaye? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا) 6:21; 6:93; 6:144; 7:37; 10:17; 11:18; 18:15; 29:68; 61:7
+- Khukhwatila, mubwo buli Omwimenyo, ne bali bawala si bali abasuubili. (إِنَّ فِي ذَلِكَ لَآيَةً وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ) 26:8; 26:67; 26:103; 26:121; 26:139; 26:158; 26:174; 26:190
+- Khubanyala okhutambula khushialo mana bamanye mbu ebeli yabalala yaba ekhomba. (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ) 12:109; 30:9; 30:42; 35:44; 40:21; 40:82; 47:10
+- Yaboola: Abandu bange, mubuule Nyasaye, mwiliye Mungu asiye halali We. (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ) 7:65; 7:73; 7:85; 11:50; 11:61; 11:84; 23:23
+- Alibakhwo mubikari byomwikhe yi bulamu kwemiluko khukhulukha khubukhasi bwabyo, nibabe okhwo okhubulala. (يُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 4:13; 4:57; 4:122; 58:22; 64:9; 65:11
+- Hakari yabo khulwitsanga khulwesi lwo khukobokha, khulilamibwa khubukari bwabalobolekha. (بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 2:113; 10:93; 16:124; 22:69; 32:25; 45:17
+- Sino nibali khutambula khushialo khulola mbu ebeli yabalala yaba ekhomba? (أَوَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ) 30:9; 35:44; 40:21; 40:82; 47:10
+- Bikari byomwikhe yi bulamu kwemiluko khukhulukha khubukhasi bwabyo, nibabe okhwo okhubulala. (جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا) 4:57; 4:122; 5:119; 64:9; 65:11
+- Walakhwo esiro mwisinyasi, nolakho isinyasi mwisiro. (تُولِجُ اللَّيْلَ فِي النَّهَارِ وَتُولِجُ النَّهَارَ فِي اللَّيْلِ) 3:27; 22:61; 31:29; 35:13; 57:6
+- Bikhone khulenge mwiisinju nokhusiala khukhoswa Nyasaye. (سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 59:1; 61:1; 62:1; 64:1
+- Mubuule Nyasaye, mwiliye Mungu asiye halali We. Sino simuri khuwobia? (اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا) 7:65; 11:84; 23:23; 23:32
+- Lwanyuma lwe khuboolera bamalaika: Mukhwiname mubweni w'Adamu, nebanwinama, halali Iblis. (وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا إِبْلِيسَ) 2:34; 17:61; 18:50; 20:116
+- Nyasaye manyi bikhone khulenge nokhusiala. (اللَّهُ وَيَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 3:29; 5:97; 49:16; 58:7
+- Bikari byomwikhe yi bulamu kwemiluko khukhulukha khubukhasi bwabyo, nibabe okhwo okhubulala, nende ekyo. (جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَذَلِكَ) 4:13; 5:85; 9:89; 57:12
+- Embiiko yeyo yili khu Nyasaye wewe, nekhuboobi khulibo, nebo. (أَجْرُهُ عِندَ رَبِّهِ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ) 2:112; 2:262; 2:274; 2:277
+- Khu Nyasaye wewe, nekhuboobi khulibo, nebo shibakhwinya. (عِندَ رَبِّهِ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ) 2:112; 2:262; 2:274; 2:277
+- Yosiye akhwilila khunjila eyobulayi, akhwililanga khubwene, neyosiye akhukobwa. (فَمَنِ اهْتَدَى فَإِنَّمَا يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ) 10:108; 17:15; 27:92
+- Akhwililanga khubwene, neyosiye akhukobwa, akhukobwanga khubwene. (يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا) 10:108; 17:15; 39:41
+- Lwosiye imenyoni shikhasiyawa khumulala khurula khu Nyasaye wewe? Boola: Khukhwatila. (لَوْلَا أُنزِلَ عَلَيْهِ آيَةٌ مِّن رَّبِّهِ فَقُلْ إِنَّمَا) 10:20; 13:27; 29:50
+- Balia basuubili nebakhola emilimo emilayi, bali nembiiko yitakhatenganga. (الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ) 41:8; 84:25; 95:6
+- Walakho omulamu khurula khumufu, nolakho omufu khurula khumulamu. (وَتُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ وَتُخْرِجُ الْمَيِّتَ مِنَ الْحَيِّ) 3:27; 10:31; 30:19
+- Yosiye atalamilanga khubikho Nyasaye yasya, balia bobo. (وَمَن لَّمْ يَحْكُم بِمَا أَنزَلَ اللَّهُ فَأُولَئِكَ هُمُ) 5:44; 5:45; 5:47
+- Yalonga mwiisinju nokhusiala nende bikhone bili hakari wabyo mwisinyasi mukaaga. (خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا فِي سِتَّةِ أَيَّامٍ) 25:59; 32:4; 50:38
+- Khukhwatila Nyasaye ali nekhwasi khubandu, ne bali bawala. (إِنَّ اللَّهَ لَذُو فَضْلٍ عَلَى النَّاسِ وَلَكِنَّ أَكْثَرَ) 2:243; 10:60; 40:61
+- Nyasaye shiyabakhonya mukhuboobi, nebo bene baba bakhona khubene. (فَمَا كَانَ اللَّهُمْ لِيَظْلِمَهُمْ وَلَكِن كَانُوا أَنفُسَهُمْ يَظْلِمُونَ) 9:70; 29:40; 30:9
+- Alibasonyanga ebibi biabwo nende alibakhwo mubikari byomwikhe yi bulamu kwemiluko khukhulukha khubukhasi bwabyo. (عَنكُمْ سَيِّئَاتِكُمْ وَلَأُدْخِلَنَّكُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 5:12; 64:9; 66:8
+- Yabakhasilila khumufu, omusayi, inyama y'ekhuru nende ekhong'a esiyakholwa mwisinja liye si lye Nyasaye. (حَرَّمَ عَلَيْكُمُ الْمَيْتَةَ وَالدَّمَ وَلَحْمَ الْخِنزِيرِ وَمَا أُهِلَّ) 2:173; 5:3; 16:115
+- Ndobya okhutsiimba, nimba nditsimbile Nyasaye wange, okhukobwa khwolwesi lwolunani. (إِنِّي أَخَافُ إِنْ عَصَيْتُ رَبِّي عَذَابَ يَوْمٍ عَظِيمٍ) 6:15; 10:15; 39:13
+- Halali lwanyuma lwe khumanya khubakhalilila, khulwensio hakari yabo. (إِلَّا مِن بَعْدِ مَا جَاءَهُمُ الْعِلْمُ بَغْيًا بَيْنَهُمْ) 3:19; 42:14; 45:17
+- Bakholanga eswala nebalanga khubikho khwabakhalisye, mwisifwi nende mwibulafu. (وَأَقَامُوا الصَّلَاةَ وَأَنفَقُوا مِمَّا رَزَقْنَاهُمْ سِرًّا وَعَلَانِيَةً) 13:22; 14:31; 35:29
+- Sino khuboola khulala na Nyasaye ekhong'akho yitakhulifwa khubwao? (مِن دُونِ اللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا) 6:71; 10:106; 25:55
+- Basuubila khubikho byasyilwa khuwe nende byasyilwa khwakhale. (يُؤْمِنُونَ بِمَا أُنزِلَ إِلَيْكَ وَمَا أُنزِلَ مِن قَبْلِكَ) 2:4; 4:60; 4:162
+- Sino ulola mbu Nyasaye asya amatsi khurula mwiisinju? (أَلَمْ تَرَ أَنَّ اللَّهَ أَنزَلَ مِنَ السَّمَاءِ مَاءً) 22:63; 35:27; 39:21
+- Yaboola ekhuoya khubulala, nekhuba. (قَضَى أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُن فَيَكُونُ) 3:47; 19:35; 40:68
+- Nende Madyani (twatuma) omwene wabo Shu'aybu. Yaboola: Abandu bange, mubuule Nyasaye. (وَإِلَى مَدْيَنَ أَخَاهُمْ شُعَيْبًا قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ) 7:85; 11:84; 29:36
+- Ekyo khurula khumakhuboni kakhali, khukhusyelayo; shuwamanyile. (ذَلِكَ مِنْ أَنْبَاءِ الْغَيْبِ نُوحِيهِ إِلَيْكَ وَمَا كُنتَ) 3:44; 11:49; 12:102
+- Lwanyuma lwesi lyabo nali lulikhiye, shibakhalyo khu khulwiserera, wala khulwikhongo. (فَإِذَا جَاءَ أَجَلُهُمْ لَا يَسْتَأْخِرُونَ سَاعَةً وَلَا يَسْتَقْدِمُونَ) 7:34; 10:49; 16:61
+- Ne mulekhe okhukhwilila khubikhahale bi Shitani, khukhwatila yeye ni mweeni wanyu mwibulafu. (وَلَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ إِنَّهُ لَكُمْ عَدُوٌّ مُّبِينٌ) 2:168; 2:208; 6:142
+- Hakari yabandu, bali abalia bakobolana khukhulwanga Nyasaye khutahwile khumanya. (وَمِنَ النَّاسِ مَن يُجَادِلُ فِي اللَّهِ بِغَيْرِ عِلْمٍ) 22:3; 22:8; 31:20
+- Nyasaye akhalisanga khubalia ashayile, nende Nyasaye ali nekhwasi khunani. (اللَّهِ يُؤْتِيهِ مَن يَشَاءُ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ) 3:73; 57:29
+- Buli omundu alifuna embiiko yebikhola, ne shibakholwa muboobi. (تُوَفَّى كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ) 2:281; 3:25; 3:161
+- Ne mulekhe okhwiita omundu Nyasaye yakhasiila, halali khubulayi. (وَلَا تَقْتُلُوا النَّفْسَ الَّتِي حَرَّمَ اللَّهُ إِلَّا بِالْحَقِّ) 6:151; 17:33; 25:68
+- Yaboola ekhuoya khubulala, nekhuba. (إِذَا قَضَى أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُن) 3:47; 19:35; 40:68
+- Mweng'ene khwikhingo khwomuliro Jahannama, mubeye okhwo okhubulala; nende ebilonga byabalikha bibi muno! (فَادْخُلُوا أَبْوَابَ جَهَنَّمَ خَالِدِينَ فِيهَا فَلَبِئْسَ مَثْوَى الْمُتَكَبِّرِينَ) 16:29; 39:72; 40:76
+- Sino ulola balia bahawe esilala khurula mubitabu? (أَلَمْ تَرَ إِلَى الَّذِينَ أُوتُوا نَصِيبًا مِّنَ الْكِتَابِ) 3:23; 4:44; 4:51
+- Bali nende bikari byomwikhe yi bulamu kwemiluko khukhulukha khubukhasi bwabyo, nibabe okhwo okhubulala. (لَهُمْ جَنَّاتٌ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 3:198; 5:119; 9:89
+- Abandu bange, mukholehane khubuli mwene, nende ndikholanga, mana mumanye. (يَاقَوْمِ اعْمَلُوا عَلَى مَكَانَتِكُمْ إِنِّي عَامِلٌ فَسَوْفَ تَعْلَمُونَ) 6:135; 11:93; 39:39
+- Yosiye akhukhasana ne Nyasaye nende Omurumiwe, alifuna omuliro Jahannama, alibeye okhwo okhubulala. (اللَّهَ وَرَسُولَهُ فَأَنَّ لَهُ نَارَ جَهَنَّمَ خَالِدًا فِيهَا) 9:63; 72:23
+- Khweshikhila khwemitima yabo, batalubanyakhe, nende mumatwi kabo obusiru. (عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا) 17:46; 18:57
+- Lwosiye twatuma omusiisi mwishialo syosiye, abakima mwasyo baboola: Khwesi. (فِي قَرْيَةٍ مِّن نَّذِيرٍ إِلَّا قَالَ مُتْرَفُوهَا إِنَّا) 34:34; 43:23
+- Baboola: Khulasile Nyasaye wowo, alahe mbu ni shina. (قَالُوا ادْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِيَ) 2:68; 2:70
+- Baliboola: Nyasaye. Boola: Eshifukhu syosiye shili Nyasaye! Ne bali bawala. (لَيَقُولُنَّ اللَّهُ قُلِ الْحَمْدُ لِلَّهِ بَلْ أَكْثَرُهُمْ لَا) 29:63; 31:25
+- Neeyanulo yabandu be yaba ndala halali mbu baboola: Mubasimye. (وَمَا كَانَ جَوَابَ قَوْمِهِ إِلَّا أَن قَالُوا أَخْرِجُوهُم) 7:82; 27:56
+- Khukhulukha khubukhasi bwabyo, nibabe okhwo okhubulala; ekyo nikho okhuhona okhunani. (تَحْتَهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا ذَلِكَ الْفَوْزُ الْعَظِيمُ) 9:100; 64:9
+- Balia bali khunjila eyobulayi khurula khu Nyasaye wabo, nende balia nibo bahonile. (أُولَئِكَ عَلَى هُدًى مِّن رَّبِّهِمْ وَأُولَئِكَ هُمُ الْمُفْلِحُونَ) 2:5; 31:5
+- Yosiye okhukhobwa okhulinyala okhumuswasa nende okhukhobwa okhutahakhoma. (مَن يَأْتِيهِ عَذَابٌ يُخْزِيهِ وَيَحِلُّ عَلَيْهِ عَذَابٌ مُّقِيمٌ) 11:39; 39:40
+- Muthame khushialo, mana mulole mbu ebeli yabalia bakana yaba ekhomba. (فَسِيرُوا فِي الْأَرْضِ فَانظُرُوا كَيْفَ كَانَ عَاقِبَةُ الْمُكَذِّبِينَ) 3:137; 16:36
+- Shibakhalikhobanga okhwo okhubulala, khulwensio yebikholwa nende amakhono kabo, nende Nyasaye manyi abakhola amakosa. (يَتَمَنَّوْهُ أَبَدًا بِمَا قَدَّمَتْ أَيْدِيهِمْ وَاللَّهُ عَلِيمٌ بِالظَّالِمِينَ) 2:95; 62:7
+- Yeye manyi muno yosiye akhukobwa khunjila yeyo, nende yeye manyi muno. (هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ) 53:30; 68:7
+- Khukhwatila Nyasaye ni Nyasaye wange nende Nyasaye wanyu, mana mubuule; injila eyo yobulayi. (إِنَّ اللَّهَ رَبِّي وَرَبُّكُمْ فَاعْبُدُوهُ هَذَا صِرَاطٌ مُّسْتَقِيمٌ) 3:51; 19:36
+- Yeye ali nekhwasi khubandu, ne bali bawala shibakhupa eshifukhu. (لَذُو فَضْلٍ عَلَى النَّاسِ وَلَكِنَّ أَكْثَرَهُمْ لَا يَشْكُرُونَ) 10:60; 27:73
+- Khwalonga mwiisinju nokhusiala nende bikhone bili hakari wabyo, halali khubulayi nende lwesi lulalilwe. (السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا إِلَّا بِالْحَقِّ وَأَجَلٍ مُّسَمًّى) 30:8; 46:3
+- Baleche, bakwerekane nende bakhuche, okhutuula lwe balikhwana nolwesi lwabo khubalalilwa. (فَذَرْهُمْ يَخُوضُوا وَيَلْعَبُوا حَتَّى يُلَاقُوا يَوْمَهُمُ الَّذِي يُوعَدُونَ) 43:83; 70:42
+- Lwanyuma lwe khukhwilana nende balia basuubili, baboola: Khwasiubila, ne lwanyuma lwe khubeye bene. (وَإِذَا لَقُوا الَّذِينَ آمَنُوا قَالُوا آمَنَّا وَإِذَا خَلَوْا) 2:14; 2:76
+- Bakholanga Taurat nende Injil nende bikhale byasyilwa khubabo khurula khu Nyasaye wabo. (أَقَامُوا التَّوْرَاةَ وَالْإِنجِيلَ وَمَا أُنزِلَ إِلَيْهِم مِّن رَّبِّهِمْ) 5:66; 5:68
+- Manyi bikhone bili khumbele yabo nende bili khumeyo yabo, nebo shibakhulinyala khubimanya. (يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ) 2:255; 20:110
+- Nende yeye yalonga mwiisinju nokhusiala mwisinyasi mukaaga. (وَهُوَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ) 11:7; 57:4
+- Khukhwatila mubwo buli Omwimenyo khubanyu, nimuba abasuubili. (إِنَّ فِي ذَلِكَ لَآيَةً لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ) 2:248; 3:49
+- Ni shina eshikhasiilile abandu okhusuubila, lwanyuma lwe khubakhalilila obulongoli? (وَمَا مَنَعَ النَّاسَ أَن يُؤْمِنُوا إِذْ جَاءَهُمُ الْهُدَى) 17:94; 18:55
+- Ne bakhala abaahe mwameni Nyasaye, khubakobya khunjila yeyo. Boola: Mwihoye. (وَجَعَلُوا لِلَّهِ أَندَادًا لِّيُضِلُّوا عَن سَبِيلِهِ قُلْ تَمَتَّعُوا) 14:30; 39:8
+- Ne bakhayoma, mbu omusiisi yabakhalila khurula hakari yabo, ne abakanani baboola: Ono. (وَعَجِبُوا أَن جَاءَهُم مُّنذِرٌ مِّنْهُمْ وَقَالَ الْكَافِرُونَ هَذَا) 38:4; 50:2
+- Khukhwatila Nyasaye wowo niyeye manyi muno yosiye akhukobwa khunjila yeyo. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ) 53:30; 68:7
+- Nge omundu akhola okhukhwisayo ishimali yeyo khubalolela abandu, nende atasuubila Nyasaye. (كَالَّذِي يُنفِقُ مَالَهُ رِئَاءَ النَّاسِ وَلَا يُؤْمِنُ بِاللَّهِ) 2:264; 4:38
+- Muleme khubikho khwabakhalisye, ndi lwesi luli lulikhiye. (أَنفِقُوا مِمَّا رَزَقْنَاكُم مِّن قَبْلِ أَن يَأْتِيَ) 2:254; 63:10
+- Yabakhonya khubikho bili mwiisinju nende bili khushialo. (سَخَّرَ لَكُم مَّا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 31:20; 45:13
+- Nende khukhwatila khwesi khuli mwisilikho khu ekyo khwekhulanga. (وَإِنَّنَا لَفِي شَكٍّ مِّمَّا تَدْعُونَا إِلَيْهِ مُرِيبٍ) 11:62; 14:9
+- Khukhwatila Nyasaye wowo akholanga okhukhwisayo khulupi khubalia ashayile nende akhukhalisanga okhutali. Khukhwatila yeye. (إِنَّ رَبَّكَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ وَيَقْدِرُ إِنَّهُ) 17:30; 34:36
+- Nyasaye womwiisinju nokhusiala nende bikhone bili hakari wabyo, nimuba abasuubili bakhwikali. (رَبُّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا إِن كُنتُم مُّوقِنِينَ) 26:24; 44:7
+- Khwasiubila Nyasaye nende bikhale byasyilwa khubwo nende byasyilwa khu. (آمَنَّا بِاللَّهِ وَمَا أُنزِلَ إِلَيْنَا وَمَا أُنزِلَ إِلَى) 2:136; 3:199
+- Ne balia bakhola amakosa, okhukobwa khwolukulundu khwabakhupa, nebakhalanga mwisialo syabo nga bakhola okhwinama. (وَأَخَذَ الَّذِينَ ظَلَمُوا الصَّيْحَةُ فَأَصْبَحُوا فِي دِيَارِهِمْ جَاثِمِينَ) 11:67; 11:94
+- Nende shikhuboobi khubwo khubikho bikhola khubene. (فَلَا جُنَاحَ عَلَيْكُمْ فِيمَا فَعَلْنَ فِي أَنفُسِهِنَّ) 2:234; 2:240
+- Nyasaye wowo niyeye manyi muno yosiye akhukobwa khunjila yeyo, nende yeye. (رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ) 53:30; 68:7
+- Nende omwoyo (syelayo) khurula khumurungo wewe, khubalia ashayile khurula khubakholi be. (بِالرُّوحِ مِنْ أَمْرِهِ عَلَى مَن يَشَاءُ مِنْ عِبَادِهِ) 16:2; 40:15
+- Ne khwaha Isa omwana wa Maryamu ebimenyo biebulefu, ne khwamuhonya nende Omwoyo Omutakatifu. (وَآتَيْنَا عِيسَى ابْنَ مَرْيَمَ الْبَيِّنَاتِ وَأَيَّدْنَاهُ بِرُوحِ الْقُدُسِ) 2:87; 2:253
+- Khubalamile hakari yabo khulwesi lwo khukobokha, khubikho balebulekhana. (لَيَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ) 16:124; 22:69
+- Khwakhonya ekila kikhe okhuba khukhasi, mana khwakhukasya khubakho amayina ekhale. (جَعَلْنَا عَالِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةً مِّن سِجِّيلٍ) 11:82; 15:74
+- Nikhuba khubulala khubabo, okhuba olamile okhuba tolamile, shibasuubila. (سَوَاءٌ عَلَيْهِمْ أَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ) 2:6; 36:10
+- Hali abandu, mana mwikhoye okhufwa, nimuba ababoola amakhuwa kaye. (مِّن دُونِ النَّاسِ فَتَمَنَّوُا الْمَوْتَ إِن كُنتُمْ صَادِقِينَ) 2:94; 62:6
+- Nyasaye, mwiliye Mungu asiye halali We. Sino simuri khuwobia? (اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 23:23; 23:32
+- Nende nimba khukhwonya esilala khu bikhone khubalalisila, nende nimba khukhwiita, khukhukhwilana kwabo okhukhukhwo. (وَإِمَّا نُرِيَنَّكَ بَعْضَ الَّذِي نَعِدُهُمْ أَوْ نَتَوَفَّيَنَّكَ فَإِلَيْنَا) 10:46; 40:77
+- Baboola: Lwanyuma lwe khufwa nekhuba esifulo nende amakhumba, sino khukhukobokhanga? (قَالُوا أَإِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَامًا أَإِنَّا لَمَبْعُوثُونَ) 23:82; 56:47
+- Khukhwatila, ekhwasi yili mumaboko ga Nyasaye, akhalisanga khubalia ashayile, nende Nyasaye. (إِنَّ الْفَضْلَ بِيَدِ اللَّهِ يُؤْتِيهِ مَن يَشَاءُ وَاللَّهُ) 3:73; 57:29
+- Nende mukhukhalisibwa khurula khu Yesi bikhone bikhali nende bikhone bikhone, mana yaboola khubwo bikhone bwe mukhola. (إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ) 9:105; 62:8
+- Mmwe mwasiubila, mukhulukhanile ekhwasi ya Nyasaye khubwo, lwanyuma. (يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا نِعْمَتَ اللَّهِ عَلَيْكُمْ إِذْ) 5:11; 33:9
+- Nende khwatuma ng'oto nawe, halali abasacha khubakhasyelayo. (وَمَا أَرْسَلْنَا مِن قَبْلِكَ إِلَّا رِجَالًا نُّوحِي إِلَيْهِم) 12:109; 16:43
+- Alibasonya ebibi biye nende alibakho mubikari byomwikhe yi bulamu kwemiluko khukhulukha khubukhasi bwabyo. (يُكَفِّرْ عَنْهُ سَيِّئَاتِهِ وَيُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا) 64:9; 66:8
+- Yosiye ali mulwale nende yosiye ali khulwendo, alikhola esikari esilala. (مَّرِيضًا أَوْ عَلَى سَفَرٍ فَعِدَّةٌ مِّنْ أَيَّامٍ أُخَرَ) 2:184; 2:185
+- Shibakhwililanga khubikho bikhalanga, halali okhulolekha, nende shibakhakholanga, halali okhupimapima. (إِن يَتَّبِعُونَ إِلَّا الظَّنَّ وَإِنْ هُمْ إِلَّا يَخْرُصُونَ) 6:116; 10:66
+- Mubwo buli Omwimenyo khubalia basuubila Nyasaye nende olwesi olusembayo. (أُسْوَةٌ حَسَنَةٌ لِّمَن كَانَ يَرْجُو اللَّهَ وَالْيَوْمَ الْآخِرَ) 33:21; 60:6
+- Nende khwalonga mwiisinju nokhusiala nende bikhone bili hakari wabyo, halali khubulayi. (وَمَا خَلَقْنَا السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا إِلَّا بِالْحَقِّ) 15:85; 46:3
+- Khwikhono khwo khukhwo mwisifwi syo, khilifuma khwobulafu, khutahwile khuboobi. (يَدَكَ فِي جَيْبِكَ تَخْرُجْ بَيْضَاءَ مِنْ غَيْرِ سُوءٍ) 27:12; 28:32
+- Alawulanga khulwesi lwekhwasi khubalia ashayile, nende Nyasaye ali nekhwasi khunani. (يَخْتَصُّ بِرَحْمَتِهِ مَن يَشَاءُ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ) 2:105; 3:74
+- Sino umanyile mbu Nyasaye ali nende obukhome bwiisinju nende bwekhushialo? (أَلَمْ تَعْلَمْ أَنَّ اللَّهَ لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ) 2:107; 5:40
+- Nende buli bikhola ebilayi mukhola, mulibikhwana khulwanga Nyasaye. (وَمَا تُقَدِّمُوا لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ اللَّهِ) 2:110; 73:20
+- Nende khu mwene wemwene mwakhurukha, khweyusye amalole kabo khu Msikiti Mutakatifu. (وَمِنْ حَيْثُ خَرَجْتَ فَوَلِّ وَجْهَكَ شَطْرَ الْمَسْجِدِ الْحَرَامِ) 2:149; 2:150
+- Balia bali khumbele yanyu, nende shimulikhulinyala okhukhwana esinju mubikhola bya Nyasaye. (خَلَوْا مِن قَبْلُ وَلَن تَجِدَ لِسُنَّةِ اللَّهِ تَبْدِيلًا) 33:62; 48:23
+- Yeye ali nende bikhone bili mwiisinju nende bili khushialo. (الَّذِي لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 34:1; 42:53
+- Nende omukhasi yosiye shalola nende shabyala, halali khumanya kwe. (وَمَا تَحْمِلُ مِنْ أُنثَى وَلَا تَضَعُ إِلَّا بِعِلْمِهِ) 35:11; 41:47
+- Yakhonya esiro, enjuba nende omwezi; buli chimu chikhulukha okhutuula lwesi lulalilwe. (اللَّيْلِ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ كُلٌّ يَجْرِي لِأَجَلٍ مُّسَمًّى) 35:13; 39:5
+- Khukhulukha khubukhasi bwabyo, nibabe okhwo okhubulala, nende ekyo nikho embiiko. (تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَذَلِكَ جَزَاءُ) 5:85; 20:76
+- Yaboola: Nedda, halali emitima yanyu eyo yabakhola ekhuoya; okhwikala bulayi. (قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْرًا فَصَبْرٌ جَمِيلٌ) 12:18; 12:83
+- Bikhone bili mwiisinju nende bili khushialo, nende khukhwatila Nyasaye. (مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَأَنَّ اللَّهَ) 5:97; 22:64
+- Nende lwosiye omurumi yabakhalilanga, nebalimukhoyanga. (وَمَا يَأْتِيهِم مِّن رَّسُولٍ إِلَّا كَانُوا بِهِ يَسْتَهْزِئُونَ) 15:11; 36:30
+- Baboola: Ayi Musa, sino wewe alohila, nende khwesi khulohile? (قَالُوا يَامُوسَى إِمَّا أَن تُلْقِيَ وَإِمَّا أَن نَّكُونَ) 7:115; 20:65
+- Yeye niye akhwiitsanga, nende mwenyu yosiye akhukhasibwa khubwene bwobukulu, khubanyala. (يَتَوَفَّاكُمْ وَمِنكُم مَّن يُرَدُّ إِلَى أَرْذَلِ الْعُمُرِ لِكَيْ) 16:70; 22:5
+- Bali nende bikari byomwikhe yi bulamu kwemiluko khukhulukha khubukhasi bwabyo, nibabe okhwo okhubulala. (رَبِّهِمْ جَنَّاتٌ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 3:15; 3:136
+- Nende khweshikhila khwemitima yabo, batalubanyakhe, nende mumatwi kabo obusiru. (وَجَعَلْنَا عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ) 17:46; 18:57
+- Khukhwatila endagaano ya Nyasaye ni yobulayi, ne bali bawala shibamanyile. (إِنَّ وَعْدَ اللَّهِ حَقٌّ وَلَكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ) 10:55; 28:13
+- Ekyo khulwensio yabakhwana nende Nyasaye nende Omurumi we; nende yosiye akhukhwananga nende Nyasaye. (ذَلِكَ بِأَنَّهُمْ شَاقُّوا اللَّهَ وَرَسُولَهُ وَمَن يُشَاقِقِ اللَّهَ) 8:13; 59:4
+- Nende khulwesi lwalibakho owala, nababoola: Bakhoni balia abaahe mwameni khwesi khubalolekhanga? (وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ أَيْنَ شُرَكَائِيَ الَّذِينَ كُنتُمْ تَزْعُمُونَ) 28:62; 28:74
+- Sino balola mbu Nyasaye yalonga mwiisinju nokhusiala, anyala okhulonga abafwanana nabo? (أَوَلَمْ يَرَوْا أَنَّ اللَّهَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ) 17:99; 46:33
+- (Yeye) yalonga khurula khushifu, mana khurula khumatsi, mana. (بِالَّذِي خَلَقَكَ مِن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ) 18:37; 40:67
+- Baboola: Nyasaye wabwe, lwosiye tola Omurumi khubwo, khulikona ebimenyo biao? (لَقَالُوا رَبَّنَا لَوْلَا أَرْسَلْتَ إِلَيْنَا رَسُولًا فَنَتَّبِعَ آيَاتِكَ) 20:134; 28:47
+- Olwanyuma khukhukhwilana kwabo khukhukhwo khu Nyasaye wabo, mana yababoola ebikhola. (ثُمَّ إِلَى رَبِّهِم مَّرْجِعُهُمْ فَيُنَبِّئُهُم بِمَا كَانُوا يَعْمَلُونَ) 6:108; 39:7
+- Shibali nende khumanya khubwone, shibakhwililanga khubikho bikhalanga. (مَّا لَهُم بِذَلِكَ مِنْ عِلْمٍ إِنْ هُمْ إِلَّا) 43:20; 45:24
+- Khukhwatila khwakhwana bakhaba bwefu khulwidiini, nende khwesi khukhukhwilila khubikhahale biabo. (إِنَّا وَجَدْنَا آبَاءَنَا عَلَى أُمَّةٍ وَإِنَّا عَلَى آثَارِهِم) 43:22; 43:23
+- Balia bahawe ebitabu, shibalebulekhana, halali lwanyuma lwekhumanya khubakhalilila. (الَّذِينَ أُوتُوا الْكِتَابَ إِلَّا مِن بَعْدِ مَا جَاءَهُمُ) 3:19; 98:4
+- Nende Ibrahima lwaboola: Nyasaye wange, khokhola esialo ino mbe omubiri. (وَإِذْ قَالَ إِبْرَاهِيمُ رَبِّ اجْعَلْ هَذَا بَلَدًا آمِنًا) 2:126; 14:35
+- Ne yabakhola amatu, amalole nende emitima; shimwesiuba muno. (وَجَعَلَ لَكُمُ السَّمْعَ وَالْأَبْصَارَ وَالْأَفْئِدَةَ قَلِيلًا مَّا تَشْكُرُونَ) 32:9; 67:23
+- Balia bakobolana khubimenyo bya Nyasaye, khutahwile khubukhome khubakhalilila. (الَّذِينَ يُجَادِلُونَ فِي آيَاتِ اللَّهِ بِغَيْرِ سُلْطَانٍ أَتَاهُمْ) 40:35; 40:56
+- Mana mukhukhwilile khubwidinibwa bwa Ibrahima owobulayi, nende yeye shiyaba khubakholi bamashanga. (فَاتَّبِعُوا مِلَّةَ إِبْرَاهِيمَ حَنِيفًا وَمَا كَانَ مِنَ الْمُشْرِكِينَ) 3:95; 16:123
+- Nende lwanyuma lwe khubakunula khurula khubandu ba Firauni, ababakholanga okhukobwa khubi. (وَإِذْ أَنجَيْنَاكُم مِّنْ آلِ فِرْعَوْنَ يَسُومُونَكُمْ سُوءَ الْعَذَابِ) 7:141; 14:6
+- Ekyo nikho obuidinibwa obulayi, ne bali bawala shibamanyile. (ذَلِكَ الدِّينُ الْقَيِّمُ وَلَكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ) 12:40; 30:30
+- Sino ulola mbu Nyasaye yabakhonya khubikho bili mwi. (أَلَمْ تَرَ أَنَّ اللَّهَ سَخَّرَ لَكُم مَّا فِي) 22:65; 31:20
+- Abakanani baboola: Ekyo si halali obulosi bubulafu. (لَقَالَ الَّذِينَ كَفَرُوا إِنْ هَذَا إِلَّا سِحْرٌ مُّبِينٌ) 6:7; 11:7
+- Nende lwanyuma lwe bisoma ebimenyo byefe ebibulafu khubabo, abakanani baboola. (وَإِذَا تُتْلَى عَلَيْهِمْ آيَاتُنَا بَيِّنَاتٍ قَالَ الَّذِينَ كَفَرُوا) 19:73; 46:7
+- Bikari byomwikhe bulamu kwemiluko khukhulukha khubukhasi bwabyo, nibabe okhwo okhubulala. (جَنَّاتُ عَدْنٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 20:76; 98:8
+- Akhola ashayile; khukhwatila Nyasaye ni Omunyali khubikhone byosiye. (مَا يَشَاءُ إِنَّ اللَّهَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ) 24:45; 35:1
+- Khubasonye ebibi biabwo nende akhubeleche okhutuula lwesi lulalilwe. (لِيَغْفِرَ لَكُم مِّن ذُنُوبِكُمْ وَيُؤَخِّرَكُمْ إِلَى أَجَلٍ مُّسَمًّى) 14:10; 71:4
+- Muri okhubanga khubukasia khurula khubikho bakhaba bwefu baasanga? (تُرِيدُونَ أَن تَصُدُّونَا عَمَّا كَانَ يَعْبُدُ آبَاؤُنَا) 14:10; 34:43
+- Nende lwanyuma lwe Nyasaye wowo yaboola khubamalaika: Khukhwatila ndi omulongi womundu khurula khushifu. (وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي خَالِقٌ بَشَرًا مِّن) 15:28; 38:71
+- Nende yeye niye aruma amabebe nga amakhuwa kaye khulayila khumbele yekhwasi yeyo. (وَهُوَ الَّذِي يُرْسِلُ الرِّيَاحَ بُشْرًا بَيْنَ يَدَيْ رَحْمَتِهِ) 7:57; 25:48
+- Boola: Muthame khushialo, mana mulole mbu ebeli yabalala yaba ekhomba. (قُلْ سِيرُوا فِي الْأَرْضِ فَانظُرُوا كَيْفَ كَانَ عَاقِبَةُ) 27:69; 30:42
+- Khukhwatila khubwelongi bwiisinju nokhusiala, nende khubwesyukhisyo syesiro nende isinyasi. (إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ) 2:164; 3:190
+- Ni weye akhwananga okhwoya Nyasaye obwoya obulayi, mana yabubweya muno? (مَّن ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا فَيُضَاعِفَهُ) 2:245; 57:11
+- Mana mubalamile hakari yabo khubikho Nyasaye yasya, ne mulekhe okhukhwilila khubikhayi biabo. (فَاحْكُم بَيْنَهُم بِمَا أَنزَلَ اللَّهُ وَلَا تَتَّبِعْ أَهْوَاءَهُمْ) 5:48; 5:49
+- Sino balindilanga, halali bamalaika okhubakhalila, nende Nyasaye wowo okhubakhalila? (هَلْ يَنظُرُونَ إِلَّا أَن تَأْتِيَهُمُ الْمَلَائِكَةُ أَوْ يَأْتِيَ) 6:158; 16:33
+- Khukhwatila balia bakhola obutukiibukhi khulwanga Nyasaye, shibahona. (إِنَّ الَّذِينَ يَفْتَرُونَ عَلَى اللَّهِ الْكَذِبَ لَا يُفْلِحُونَ) 10:69; 16:116
+- Nge abandu ba Firauni nende balia khumbele yabo, bakana ebimenyo byefe. (كَدَأْبِ آلِ فِرْعَوْنَ وَالَّذِينَ مِن قَبْلِهِمْ كَذَّبُوا بِآيَاتِنَا) 3:11; 8:54
+- Nende yababoola amakhuwa malayi abasuubili bakhola emilimo emilayi, mbu bali nembiiko. (وَيُبَشِّرُ الْمُؤْمِنِينَ الَّذِينَ يَعْمَلُونَ الصَّالِحَاتِ أَنَّ لَهُمْ أَجْرًا) 17:9; 18:2
+- Nyasaye akhola okhukhwisayo khulupi khubalia ashayile khurula khubakholi be, nende akhukhalisanga okhutali. (اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ) 28:82; 29:62
+- Nende mukhukhalisibwa khurula khu Yesi bikhone bikhali nende bikhone bikhone, mana yaboola khubwo bikhone bwe mukhola. (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
+- Nende bakhasi bosiye, abamu babo ni bali hafi khubalala khubitabu bya Nyasaye. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
 """;

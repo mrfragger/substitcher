@@ -3167,4 +3167,158 @@ Matching Phrases 9 words
 - Jiems bus duota gerti verdančio vandens ir skausminga bausmė už tai, kad jie netikėjo. (لَهُمْ شَرَابٌ مِّنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْفُرُونَ) 6:70; 10:4
 - Ar mes šaukimės be Allaho to, kas mums nei naudinga, nei kenkia? (أَنَدْعُو مِن دُونِ اللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا) 6:71; 10:106
 - Kad Allahas žino visa, kas yra danguose ir žemėje. (أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 5:97; 58:7
+Matching Phrases 8 words
+- Kas yra labiau neteisus už tą, kuris sugalvoja melą prieš Allahą? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا) 6:21; 6:93; 6:144; 7:37; 10:17; 11:18; 18:15; 29:68; 61:7
+- Iš tiesų, tame yra ženklas, bet dauguma jų nebuvo tikintys. (إِنَّ فِي ذَلِكَ لَآيَةً وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ) 26:8; 26:67; 26:103; 26:121; 26:139; 26:158; 26:174; 26:190
+- Kad jie vaikščiotų po žemę ir pamatytų, koks buvo tų (senųjų) galas. (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ) 12:109; 30:9; 30:42; 35:44; 40:21; 40:82; 47:10
+- Jis tarė: O mano tautiečiai, garbinkite Allahą, jūs neturite jokios dievybės, išskyrus Jį. (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ) 7:65; 7:73; 7:85; 11:50; 11:61; 11:84; 23:23
+- Jis įves jį į Sodus, kuriuose po jais teka upės, ir jie ten pasiliks amžinai. (يُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 4:13; 4:57; 4:122; 58:22; 64:9; 65:11
+- Tarp jų Prisikėlimo dieną bus nuspręsta dėl to, kuo jie nesutarė. (بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 2:113; 10:93; 16:124; 22:69; 32:25; 45:17
+- Argi jie nevaikščiojo po žemę, kad pamatytų, koks buvo galas? (أَوَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ) 30:9; 35:44; 40:21; 40:82; 47:10
+- Sodai, kuriuose po jais teka upės, juose jie pasiliks amžinai. (جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا) 4:57; 4:122; 5:119; 64:9; 65:11
+- Tu įleidi naktį į dieną ir įleidi dieną į naktį. (تُولِجُ اللَّيْلَ فِي النَّهَارِ وَتُولِجُ النَّهَارَ فِي اللَّيْلِ) 3:27; 22:61; 31:29; 35:13; 57:6
+- Šlovina Allahą visa, kas yra danguose ir žemėje. (سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 59:1; 61:1; 62:1; 64:1
+- Garbinkite Allahą, jūs neturite jokios dievybės, išskyrus Jį. Argi bijosite? (اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا) 7:65; 11:84; 23:23; 23:32
+- Kai Mes tarėme angelams: "Puolkit ant kelių prieš Adomą", jie puolė, išskyrus Iblisą. (وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا إِبْلِيسَ) 2:34; 17:61; 18:50; 20:116
+- Allahas žino, kas yra danguose ir žemėje. (اللَّهُ وَيَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 3:29; 5:97; 49:16; 58:7
+- Sodai, kuriuose po jais teka upės, juose jie pasiliks amžinai, ir tai. (جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَذَلِكَ) 4:13; 5:85; 9:89; 57:12
+- Jo atlygis yra pas jo Viešpatį, ir nėra jiems baimės, nei jie. (أَجْرُهُ عِندَ رَبِّهِ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ) 2:112; 2:262; 2:274; 2:277
+- Pas jo Viešpatį, ir nėra jiems baimės, nei jie liūdės. (عِندَ رَبِّهِ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ) 2:112; 2:262; 2:274; 2:277
+- Kas eina tiesiu keliu, tas eina savo labui, o kas nuklysta. (فَمَنِ اهْتَدَى فَإِنَّمَا يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ) 10:108; 17:15; 27:92
+- Eina savo labui, o kas nuklysta, tas nuklysta savo pačio nenaudai. (يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا) 10:108; 17:15; 39:41
+- Kodėl jam nebuvo atsiųstas ženklas iš jo Viešpaties? Sakyk: Iš tiesų. (لَوْلَا أُنزِلَ عَلَيْهِ آيَةٌ مِّن رَّبِّهِ فَقُلْ إِنَّمَا) 10:20; 13:27; 29:50
+- Tie, kurie tikėjo ir darė gerus darbus, jiems atlygis, kuris nenutrūksta. (الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ) 41:8; 84:25; 95:6
+- Tu išvedi gyvą iš mirusio ir išvedi mirusį iš gyvo. (وَتُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ وَتُخْرِجُ الْمَيِّتَ مِنَ الْحَيِّ) 3:27; 10:31; 30:19
+- Kas neteisia pagal tai, ką Allahas atsiuntė, tie yra. (وَمَن لَّمْ يَحْكُم بِمَا أَنزَلَ اللَّهُ فَأُولَئِكَ هُمُ) 5:44; 5:45; 5:47
+- Jis sukūrė dangus ir žemę bei tai, kas yra tarp jų, per šešias dienas. (خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا فِي سِتَّةِ أَيَّامٍ) 25:59; 32:4; 50:38
+- Iš tiesų, Allahas yra maloningas žmonėms, bet dauguma. (إِنَّ اللَّهَ لَذُو فَضْلٍ عَلَى النَّاسِ وَلَكِنَّ أَكْثَرَ) 2:243; 10:60; 40:61
+- Allahas jiems nebuvo neteisus, bet jie patys save skriaudė. (فَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ وَلَكِن كَانُوا أَنفُسَهُمْ يَظْلِمُونَ) 9:70; 29:40; 30:9
+- Jis atleis jūsų nuodėmes ir įves jus į Sodus, kuriuose po jais teka upės. (عَنكُمْ سَيِّئَاتِكُمْ وَلَأُدْخِلَنَّكُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 5:12; 64:9; 66:8
+- Jis uždraudė jums dvėselieną, kraują, kiaulieną ir tai, kas paskersta ne Allaho vardu. (حَرَّمَ عَلَيْكُمُ الْمَيْتَةَ وَالدَّمَ وَلَحْمَ الْخِنزِيرِ وَمَا أُهِلَّ) 2:173; 5:3; 16:115
+- Aš bijau, jei nepaklusiu savo Viešpačiui, Didžiosios dienos bausmės. (إِنِّي أَخَافُ إِنْ عَصَيْتُ رَبِّي عَذَابَ يَوْمٍ عَظِيمٍ) 6:15; 10:15; 39:13
+- Bet po to, kai jiems atėjo žinojimas, iš pavydo tarpusavyje. (إِلَّا مِن بَعْدِ مَا جَاءَهُمُ الْعِلْمُ بَغْيًا بَيْنَهُمْ) 3:19; 42:14; 45:17
+- Jie laiko maldą ir dalija iš to, ką Mes jiems suteikėme, slaptai ir viešai. (وَأَقَامُوا الصَّلَاةَ وَأَنفَقُوا مِمَّا رَزَقْنَاهُمْ سِرًّا وَعَلَانِيَةً) 13:22; 14:31; 35:29
+- Argi mes šauktumės vietoj Allaho to, kas mums nei naudos, nei žalos neduoda? (مِن دُونِ اللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا) 6:71; 10:106; 25:55
+- Jie tiki tuo, kas buvo atsiųsta tau, ir tuo, kas buvo atsiųsta prieš tave. (يُؤْمِنُونَ بِمَا أُنزِلَ إِلَيْكَ وَمَا أُنزِلَ مِن قَبْلِكَ) 2:4; 4:60; 4:162
+- Argi nematai, kad Allahas siunčia vandenį iš dangaus? (أَلَمْ تَرَ أَنَّ اللَّهَ أَنزَلَ مِنَ السَّمَاءِ مَاءً) 22:63; 35:27; 39:21
+- Kai Jis nusprendžia kokį reikalą, Jis jam taria: "Būk!", ir tai įvyksta. (قَضَى أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُن فَيَكُونُ) 3:47; 19:35; 40:68
+- Ir Madianui (atsiuntėme) jų brolį Šuaibą. Jis tarė: O mano tautiečiai, garbinkite Allahą. (وَإِلَى مَدْيَنَ أَخَاهُمْ شُعَيْبًا قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ) 7:85; 11:84; 29:36
+- Tai yra iš paslėptų žinių, kurias Mes tau apreiškiame; tu to nežinojai. (ذَلِكَ مِنْ أَنْبَاءِ الْغَيْبِ نُوحِيهِ إِلَيْكَ وَمَا كُنتَ) 3:44; 11:49; 12:102
+- Kai ateina jų terminas, jie negali jo nei atidėti, nei paspartinti. (فَإِذَا جَاءَ أَجَلُهُمْ لَا يَسْتَأْخِرُونَ سَاعَةً وَلَا يَسْتَقْدِمُونَ) 7:34; 10:49; 16:61
+- Nesekite šėtono pėdomis, jis yra jums aiškus priešas. (وَلَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ إِنَّهُ لَكُمْ عَدُوٌّ مُّبِينٌ) 2:168; 2:208; 6:142
+- Tarp žmonių yra tokių, kurie ginčijasi apie Allahą be jokio žinojimo. (وَمِنَ النَّاسِ مَن يُجَادِلُ فِي اللَّهِ بِغَيْرِ عِلْمٍ) 22:3; 22:8; 31:20
+- Allahas duoda tai, kam nori, ir Allahas yra dosnus. (اللَّهِ يُؤْتِيهِ مَن يَشَاءُ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ) 57:21; 57:29; 62:4
+- Kiekviena siela bus visiškai atlyginta už tai, ką uždirbo, ir jie nebus skriaudžiami. (تُوَفَّى كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ) 2:281; 3:25; 3:161
+- Nežudykite sielos, kurios Allahas uždraudė, išskyrus teisėtai. (وَلَا تَقْتُلُوا النَّفْسَ الَّتِي حَرَّمَ اللَّهُ إِلَّا بِالْحَقِّ) 6:151; 17:33; 25:68
+- Kai Jis nusprendžia kokį reikalą, Jis jam taria: "Būk!" (إِذَا قَضَى أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُن) 3:47; 19:35; 40:68
+- Įeikite pro pragaro vartus, kuriuose pasilksite amžinai; kokia baisi prieglauda išdidiesiems! (فَادْخُلُوا أَبْوَابَ جَهَنَّمَ خَالِدِينَ فِيهَا فَلَبِئْسَ مَثْوَى الْمُتَكَبِّرِينَ) 16:29; 39:72; 40:76
+- Argi nema tei tuos, kuriems buvo duota dalis Rašto? (أَلَمْ تَرَ إِلَى الَّذِينَ أُوتُوا نَصِيبًا مِّنَ الْكِتَابِ) 3:23; 4:44; 4:51
+- Jiems skirti Sodai, kuriuose po jais teka upės, juose jie pasiliks amžinai. (لَهُمْ جَنَّاتٌ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 3:198; 5:119; 9:89
+- O mano tautiečiai, elkite pagal savo padėtį, aš taip pat elksiuosi, ir jūs sužinosite. (يَاقَوْمِ اعْمَلُوا عَلَى مَكَانَتِكُمْ إِنِّي عَامِلٌ فَسَوْفَ تَعْلَمُونَ) 6:135; 11:93; 39:39
+- Kas priešinasi Allahui ir Jo Pasiuntiniui, tam skirtas pragaro ugnis, kurioje jis pasiliks amžinai. (اللَّهَ وَرَسُولَهُ فَأَنَّ لَهُ نَارَ جَهَنَّمَ خَالِدًا فِيهَا) 9:63; 72:23
+- Mes uždengėme jų širdis, kad jie to nesuprastų, ir jų ausyse kurtumą. (عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا) 17:46; 18:57
+- Į kurį gi miestą Mes nesiuntėme perspėtojo, jo turtingieji sakydavo: Mes. (فِي قَرْيَةٍ مِّن نَّذِيرٍ إِلَّا قَالَ مُتْرَفُوهَا إِنَّا) 34:34; 43:23
+- Jie tarė: "Melsk savo Viešpatį už mus, kad jis mums paaiškintų, kokia ji yra." (قَالُوا ادْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِيَ) 2:68; 2:70
+- Jie sakys: "Allahas." Sakyk: "Šlovė Allahui!" Bet dauguma jų. (لَيَقُولُنَّ اللَّهُ قُلِ الْحَمْدُ لِلَّهِ بَلْ أَكْثَرُهُمْ لَا) 29:63; 31:25
+- Jo tautos atsakymas buvo tik toks, kad jie tarė: "Išvarykite juos." (وَمَا كَانَ جَوَابَ قَوْمِهِ إِلَّا أَن قَالُوا أَخْرِجُوهُم) 7:82; 27:56
+- Po jais teka upės, juose jie pasiliks amžinai; tai yra didis triumfas. (تَحْتَهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا ذَلِكَ الْفَوْزُ الْعَظِيمُ) 9:100; 64:9
+- Jie yra savo Viešpaties tiesiame kelyje, ir jie yra sėkmingieji. (أُولَئِكَ عَلَى هُدًى مِّن رَّبِّهِمْ وَأُولَئِكَ هُمُ الْمُفْلِحُونَ) 2:5; 31:5
+- Tas, kurį ištiks gėdinga bausmė ir kurį ištiks amžina bausmė. (مَن يَأْتِيهِ عَذَابٌ يُخْزِيهِ وَيَحِلُّ عَلَيْهِ عَذَابٌ مُّقِيمٌ) 11:39; 39:40
+- Vaikščiokite po žemę ir pažiūrėkite, koks buvo tų, kurie neigė, galas. (فَسِيرُوا فِي الْأَرْضِ فَانظُرُوا كَيْفَ كَانَ عَاقِبَةُ الْمُكَذِّبِينَ) 3:137; 16:36
+- Jie niekada to nepageidaus dėl to, ką jų rankos išsiuntė į priekį, ir Allahas žino neteisinguosius. (يَتَمَنَّوْهُ أَبَدًا بِمَا قَدَّمَتْ أَيْدِيهِمْ وَاللَّهُ عَلِيمٌ بِالظَّالِمِينَ) 2:95; 62:7
+- Jis geriausiai žino, kas nuklysta nuo Jo kelio, ir Jis geriausiai žino. (هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ) 53:30; 68:7
+- Iš tiesų, Allahas yra mano Viešpats ir jūsų Viešpats, tai garbinkite Jį; tai yra tiesus kelias. (إِنَّ اللَّهَ رَبِّي وَرَبُّكُمْ فَاعْبُدُوهُ هَذَا صِرَاطٌ مُّسْتَقِيمٌ) 3:51; 19:36
+- Jis yra maloningas žmonėms, bet dauguma jų nėra dėkingi. (لَذُو فَضْلٍ عَلَى النَّاسِ وَلَكِنَّ أَكْثَرَهُمْ لَا يَشْكُرُونَ) 10:60; 27:73
+- Dangus ir žemė ir tai, kas yra tarp jų, Mes sukūrėme tik su tiesa ir nustatytam laikui. (السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا إِلَّا بِالْحَقِّ وَأَجَلٍ مُّسَمًّى) 30:8; 46:3
+- Palik juos, kad jie skęstų ir žaistų, kol susitiks savo Dieną, kuri jiems pažadėta. (فَذَرْهُمْ يَخُوضُوا وَيَلْعَبُوا حَتَّى يُلَاقُوا يَوْمَهُمُ الَّذِي يُوعَدُونَ) 43:83; 70:42
+- Kai jie sutinka tuos, kurie tiki, sako: "Mes tikime", o kai lieka vieni. (وَإِذَا لَقُوا الَّذِينَ آمَنُوا قَالُوا آمَنَّا وَإِذَا خَلَوْا) 2:14; 2:76
+- Jie laikosi Toros ir Evangelijos bei to, kas jiems atsiųsta iš jų Viešpaties. (أَقَامُوا التَّوْرَاةَ وَالْإِنجِيلَ وَمَا أُنزِلَ إِلَيْهِم مِّن رَّبِّهِمْ) 5:66; 5:68
+- Jis žino, kas yra prieš juos ir kas po jų, o jie to negali aprėpti savo žinojimu. (يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ) 2:255; 20:110
+- Jis yra Tas, kuris sukūrė dangus ir žemę per šešias dienas. (وَهُوَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ) 11:7; 57:4
+- Iš tiesų, tame yra ženklas jums, jei esate tikintys. (إِنَّ فِي ذَلِكَ لَآيَةً لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ) 2:248; 3:49
+- Kas sutrukdė žmonėms patikėti, kai jiems atėjo tiesos kelias? (وَمَا مَنَعَ النَّاسَ أَن يُؤْمِنُوا إِذْ جَاءَهُمُ الْهُدَى) 17:94; 18:55
+- Jie prilygino Allahui bendrininkus, kad nukreiptų nuo Jo kelio. Sakyk: "Mėgaukitės." (وَجَعَلُوا لِلَّهِ أَندَادًا لِّيُضِلُّوا عَن سَبِيلِهِ قُلْ تَمَتَّعُوا) 14:30; 39:8
+- Jie stebėjosi, kad iš jų pačių atėjo perspėtojas, ir netikintieji sakė: "Tai." (وَعَجِبُوا أَن جَاءَهُم مُّنذِرٌ مِّنْهُمْ وَقَالَ الْكَافِرُونَ هَذَا) 38:4; 50:2
+- Iš tiesų, tavo Viešpats geriausiai žino, kas nuklysta nuo Jo kelio. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ) 53:30; 68:7
+- Kaip tas, kuris leidžia savo turtus dėl žmonių pasirodymo ir netiki Allahu. (كَالَّذِي يُنفِقُ مَالَهُ رِئَاءَ النَّاسِ وَلَا يُؤْمِنُ بِاللَّهِ) 2:264; 4:38
+- Aukokite iš to, ką Mes jums suteikėme, prieš ateinant. (أَنفِقُوا مِمَّا رَزَقْنَاكُم مِّن قَبْلِ أَن يَأْتِيَ) 2:254; 63:10
+- Jis jums pavergė tai, kas yra danguose ir žemėje. (سَخَّرَ لَكُم مَّا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 31:20; 45:13
+- Iš tiesų, mes esame abejojantys dėl to, prie ko mus šaukiate. (وَإِنَّنَا لَفِي شَكٍّ مِّمَّا تَدْعُونَا إِلَيْهِ مُرِيبٍ) 11:62; 14:9
+- Iš tiesų, tavo Viešpats gausiai suteikia kam nori ir nustato (mažiau). Iš tiesų, Jis. (إِنَّ رَبَّكَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ وَيَقْدِرُ إِنَّهُ) 17:30; 34:36
+- Dangų ir žemės Viešpats ir to, kas yra tarp jų, jei esate įsitikinę. (رَبُّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا إِن كُنتُم مُّوقِنِينَ) 26:24; 44:7
+- Mes tikime į Allahą ir į tai, kas mums atsiųsta, ir į tai, kas atsiųsta. (آمَنَّا بِاللَّهِ وَمَا أُنزِلَ إِلَيْنَا وَمَا أُنزِلَ إِلَى) 2:136; 3:199
+- Neteisinguosius ištiko siaubingas šauksmas, ir jie išaušo savo namuose gulintys ant kelių. (وَأَخَذَ الَّذِينَ ظَلَمُوا الصَّيْحَةُ فَأَصْبَحُوا فِي دِيَارِهِمْ جَاثِمِينَ) 11:67; 11:94
+- Jums nėra nuodėmės dėl to, ką jos daro dėl savęs. (فَلَا جُنَاحَ عَلَيْكُمْ فِيمَا فَعَلْنَ فِي أَنفُسِهِنَّ) 2:234; 2:240
+- Tavo Viešpats geriausiai žino, kas nuklysta nuo Jo kelio, ir Jis. (رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ) 53:30; 68:7
+- Su Dvasia (apreiškimu) pagal Jo įsakymą tam, kuriam Jis nori iš savo tarnų. (بِالرُّوحِ مِنْ أَمْرِهِ عَلَى مَن يَشَاءُ مِنْ عِبَادِهِ) 16:2; 40:15
+- Ir Mes davei Jėzui, Marijos sūnui, aiškius ženklus ir jį sustiprinome Šventąja Dvasia. (وَآتَيْنَا عِيسَى ابْنَ مَرْيَمَ الْبَيِّنَاتِ وَأَيَّدْنَاهُ بِرُوحِ الْقُدُسِ) 2:87; 2:253
+- Kad Jis nuspręstų tarp jų Prisikėlimo dieną dėl to, kuo jie nesutarė. (لَيَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ) 16:124; 22:69
+- Mes apvirtėme tą miestą ir užpylėme ant jų akmenis iš kieto molio. (جَعَلْنَا عَالِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةً مِّن سِجِّيلٍ) 11:82; 15:74
+- Jiems vienoda, ar įspėsi, ar neįspėsi, jie netikės. (سَوَاءٌ عَلَيْهِمْ أَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ) 2:6; 36:10
+- Be žmonių, tad pageidaukite mirties, jei esate teisingi. (مِّن دُونِ النَّاسِ فَتَمَنَّوُا الْمَوْتَ إِن كُنتُمْ صَادِقِينَ) 2:94; 62:6
+- Allaho, jūs neturite jokios dievybės, išskyrus Jį. Argi nebijote? (اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 23:23; 23:32
+- Ar Mes parodysime tau dalį to, kuo jiems gresime, ar tave pašalinsime, pas Mus jie sugrįš. (وَإِمَّا نُرِيَنَّكَ بَعْضَ الَّذِي نَعِدُهُمْ أَوْ نَتَوَفَّيَنَّكَ فَإِلَيْنَا) 10:46; 40:77
+- Jie sakė: "Argi kai mirsime ir tapsime dulkėmis bei kaulais, būsime prikelti?" (قَالُوا أَإِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَامًا أَإِنَّا لَمَبْعُوثُونَ) 23:82; 56:47
+- Iš tiesų, malonė yra Allaho rankoje, Jis duoda kam nori, ir Allahas. (إِنَّ الْفَضْلَ بِيَدِ اللَّهِ يُؤْتِيهِ مَن يَشَاءُ وَاللَّهُ) 3:73; 57:29
+- Ir jūs būsite sugrąžinti pas Tą, kuris žino paslėptą ir atvirą, ir Jis jums praneš apie tai, ką darydavote. (إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ) 9:105; 62:8
+- O jūs, kurie tikite, prisiminkite Allaho malonę jums, kai. (يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا نِعْمَتَ اللَّهِ عَلَيْكُمْ إِذْ) 5:11; 33:9
+- Ir prieš tave Mes siųsdavome tik vyrus, kuriems apreikšdavome. (وَمَا أَرْسَلْنَا مِن قَبْلِكَ إِلَّا رِجَالًا نُّوحِي إِلَيْهِم) 12:109; 16:43
+- Jis atleis jo nuodėmes ir įves jį į Sodus, kuriuose po jais teka upės. (يُكَفِّرْ عَنْهُ سَيِّئَاتِهِ وَيُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا) 64:9; 66:8
+- Kas serga ar keliauja, (privalo pasninkauti) kitą dienų skaičių. (مَّرِيضًا أَوْ عَلَى سَفَرٍ فَعِدَّةٌ مِّنْ أَيَّامٍ أُخَرَ) 2:184; 2:185
+- Jie seka tik spėjimais, ir jie tik prasimanymais. (إِن يَتَّبِعُونَ إِلَّا الظَّنَّ وَإِنْ هُمْ إِلَّا يَخْرُصُونَ) 6:116; 10:66
+- Puikus pavyzdys tam, kas tikisi Allaho ir Paskutinės dienos. (أُسْوَةٌ حَسَنَةٌ لِّمَن كَانَ يَرْجُو اللَّهَ وَالْيَوْمَ الْآخِرَ) 33:21; 60:6
+- Ir Mes sukūrėme dangus ir žemę ir tai, kas yra tarp jų, tik su tiesa. (وَمَا خَلَقْنَا السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا إِلَّا بِالْحَقِّ) 15:85; 46:3
+- Įkišk savo ranką į savo priekrūtinę, ji išnirs balta, be jokio negalavimo. (يَدَكَ فِي جَيْبِكَ تَخْرُجْ بَيْضَاءَ مِنْ غَيْرِ سُوءٍ) 27:12; 28:32
+- Jis savo gailestingumu išskiria, ką nori, ir Allahas yra dosnus. (يَخْتَصُّ بِرَحْمَتِهِ مَن يَشَاءُ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ) 2:105; 3:74
+- Argi nežinai, kad Allahui priklauso dangaus ir žemės karalystė? (أَلَمْ تَعْلَمْ أَنَّ اللَّهَ لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ) 2:107; 5:40
+- Ką gero išsiųsite į priekį savo labui, tai rasite pas Allahą. (وَمَا تُقَدِّمُوا لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ اللَّهِ) 2:110; 73:20
+- Ir iš kur išeitum, atsuk savo veidą į Šventąją Mečetę. (وَمِنْ حَيْثُ خَرَجْتَ فَوَلِّ وَجْهَكَ شَطْرَ الْمَسْجِدِ الْحَرَامِ) 2:149; 2:150
+- Tie, kurie buvo prieš jus, ir tu nerasi pakeitimo Allaho įstatyme. (خَلَوْا مِن قَبْلُ وَلَن تَجِدَ لِسُنَّةِ اللَّهِ تَبْدِيلًا) 33:62; 48:23
+- Tas, kuriam priklauso visa, kas yra danguose ir žemėje. (الَّذِي لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 34:1; 42:53
+- Jokia moteris nepastoja ir nepagimdo, išskyrus su Jo žinojimu. (وَمَا تَحْمِلُ مِنْ أُنثَى وَلَا تَضَعُ إِلَّا بِعِلْمِهِ) 35:11; 41:47
+- Jis pavergė naktį, saulę ir mėnulį; kiekvienas plaukia iki nustatyto termino. (اللَّيْلِ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ كُلٌّ يَجْرِي لِأَجَلٍ مُّسَمًّى) 35:13; 39:5
+- Po jais teka upės, juose jie pasiliks amžinai, ir tai yra atlygis. (تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَذَلِكَ جَزَاءُ) 5:85; 20:76
+- Jis tarė: "Ne, jūsų sielos jums pateikė tai kaip gražų; kantrybė yra graži." (قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْرًا فَصَبْرٌ جَمِيلٌ) 12:18; 12:83
+- Tai, kas yra danguose ir žemėje, ir Allahas. (مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَأَنَّ اللَّهَ) 5:97; 22:64
+- Ir koks gi pasiuntinys prie jų neatėjo, jie iš jo tyčiojosi. (وَمَا يَأْتِيهِم مِّن رَّسُولٍ إِلَّا كَانُوا بِهِ يَسْتَهْزِئُونَ) 15:11; 36:30
+- Jie tarė: "O Moze, ar tu mesti, ar mes mesime?" (قَالُوا يَامُوسَى إِمَّا أَن تُلْقِيَ وَإِمَّا أَن نَّكُونَ) 7:115; 20:65
+- Jis jus užmigdo (mirčiai), ir kai kuriuos iš jūsų grąžina į patį menkiausią amžių, kad. (يَتَوَفَّاكُمْ وَمِنكُم مَّن يُرَدُّ إِلَى أَرْذَلِ الْعُمُرِ لِكَيْ) 16:70; 22:5
+- Jiems skirti Sodai, kuriuose po jais teka upės, juose jie pasiliks amžinai. (رَبِّهِمْ جَنَّاتٌ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 3:15; 3:136
+- Ir Mes uždengėme jų širdis, kad jie to nesuprastų, ir jų ausyse kurtumą. (وَجَعَلْنَا عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ) 17:46; 18:57
+- Allaho pažadas yra tiesa, bet dauguma jų nežino. (إِنَّ وَعْدَ اللَّهِ حَقٌّ وَلَكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ) 10:55; 28:13
+- Tai yra todėl, kad jie priešinosi Allahui ir Jo Pasiuntiniui; o kas priešinasi Allahui. (ذَلِكَ بِأَنَّهُمْ شَاقُّوا اللَّهَ وَرَسُولَهُ وَمَن يُشَاقِقِ اللَّهَ) 8:13; 59:4
+- Ir dieną, kai Jis juos šauks, sakys: "Kur yra mano bendrininkai, kuriuos jūs tvirtinote?" (وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ أَيْنَ شُرَكَائِيَ الَّذِينَ كُنتُمْ تَزْعُمُونَ) 28:62; 28:74
+- Argi jie nematė, kad Allahas, kuris sukūrė dangus ir žemę, gali sukurti panašius į juos? (أَوَلَمْ يَرَوْا أَنَّ اللَّهَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ) 17:99; 46:33
+- (Tas) kuris sukūrė jus iš dulkių, paskui iš spermos lašo, paskui. (بِالَّذِي خَلَقَكَ مِن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ) 18:37; 40:67
+- Jie sakytų: "Mūsų Viešpatie, kodėl nesiuntei mums pasiuntinio, kad galėtume sekti Tavo ženklus?" (لَقَالُوا رَبَّنَا لَوْلَا أَرْسَلْتَ إِلَيْنَا رَسُولًا فَنَتَّبِعَ آيَاتِكَ) 20:134; 28:47
+- Tada jie bus sugrąžinti pas savo Viešpatį, ir Jis jiems praneš, ką jie darydavo. (ثُمَّ إِلَى رَبِّهِم مَّرْجِعُهُمْ فَيُنَبِّئُهُم بِمَا كَانُوا يَعْمَلُونَ) 6:108; 39:7
+- Jie neturi jokio žinojimo apie tai; jie seka tik spėjimais. (مَّا لَهُم بِذَلِكَ مِنْ عِلْمٍ إِنْ هُمْ إِلَّا) 43:20; 45:24
+- Mes radome savo protėvius laikančius šio tikėjimo, ir mes sekame jų pėdomis. (إِنَّا وَجَدْنَا آبَاءَنَا عَلَى أُمَّةٍ وَإِنَّا عَلَى آثَارِهِم) 43:22; 43:23
+- Tie, kuriems buvo duotas Raštas, nesusiskaldė, tik po to, kai jiems atėjo žinojimas. (الَّذِينَ أُوتُوا الْكِتَابَ إِلَّا مِن بَعْدِ مَا جَاءَهُمُ) 3:19; 98:4
+- Ir kai Abraomas tarė: "Mano Viešpatie, padaryk šį miestą saugų." (وَإِذْ قَالَ إِبْرَاهِيمُ رَبِّ اجْعَلْ هَذَا بَلَدًا آمِنًا) 2:126; 14:35
+- Jis jums davė klausą, regėjimą ir širdis; mažai esate dėkingi. (وَجَعَلَ لَكُمُ السَّمْعَ وَالْأَبْصَارَ وَالْأَفْئِدَةَ قَلِيلًا مَّا تَشْكُرُونَ) 32:9; 67:23
+- Tie, kurie ginčijasi dėl Allaho ženklų be jokios valdžios, kuri jiems atėjo. (الَّذِينَ يُجَادِلُونَ فِي آيَاتِ اللَّهِ بِغَيْرِ سُلْطَانٍ أَتَاهُمْ) 40:35; 40:56
+- Tad sekite Abraomo tikėjimą, kuris buvo grynas, ir jis nebuvo iš daugiadievių. (فَاتَّبِعُوا مِلَّةَ إِبْرَاهِيمَ حَنِيفًا وَمَا كَانَ مِنَ الْمُشْرِكِينَ) 3:95; 16:123
+- Ir kai Mes išgelbėjome jus nuo Faraono žmonių, kurie jus kankino baisiausiomis kančiomis. (وَإِذْ أَنجَيْنَاكُم مِّنْ آلِ فِرْعَوْنَ يَسُومُونَكُمْ سُوءَ الْعَذَابِ) 7:141; 14:6
+- Tai yra teisingas tikėjimas, bet dauguma žmonių nežino. (ذَلِكَ الدِّينُ الْقَيِّمُ وَلَكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ) 12:40; 30:30
+- Argi nematai, kad Allahas jums pavergė tai, kas yra. (أَلَمْ تَرَ أَنَّ اللَّهَ سَخَّرَ لَكُم مَّا فِي) 22:65; 31:20
+- Netikintys sakytų: "Tai yra tik akivaizdi magija." (لَقَالَ الَّذِينَ كَفَرُوا إِنْ هَذَا إِلَّا سِحْرٌ مُّبِينٌ) 6:7; 11:7
+- Kai jiems skaitomi Mūsų aiškūs ženklai, netikintys sako. (وَإِذَا تُتْلَى عَلَيْهِمْ آيَاتُنَا بَيِّنَاتٍ قَالَ الَّذِينَ كَفَرُوا) 19:73; 46:7
+- Amžinybės Sodai, kuriuose po jais teka upės, juose jie pasiliks amžinai. (جَنَّاتُ عَدْنٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 20:76; 98:8
+- Jis kuria, ką nori; Allahas yra visa ko galintis. (مَا يَشَاءُ إِنَّ اللَّهَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ) 24:45; 35:1
+- Kad Jis atleistų jūsų nuodėmes ir atidėtų jus iki nustatyto termino. (لِيَغْفِرَ لَكُم مِّن ذُنُوبِكُمْ وَيُؤَخِّرَكُمْ إِلَى أَجَلٍ مُّسَمًّى) 14:10; 71:4
+- Ar jūs norite mus atstumti nuo to, ką garbino mūsų protėviai? (تُرِيدُونَ أَن تَصُدُّونَا عَمَّا كَانَ يَعْبُدُ آبَاؤُنَا) 14:10; 34:43
+- Ir kai tavo Viešpats tarė angelams: "Aš sukursiu žmogų iš molio." (وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي خَالِقٌ بَشَرًا مِّن) 15:28; 38:71
+- Jis yra Tas, kuris siunčia vėjus kaip džiugią žinią prieš savo gailestingumą. (وَهُوَ الَّذِي يُرْسِلُ الرِّيَاحَ بُشْرًا بَيْنَ يَدَيْ رَحْمَتِهِ) 7:57; 25:48
+- Sakyk: "Vaikščiokite po žemę ir pažiūrėkite, koks buvo galas." (قُلْ سِيرُوا فِي الْأَرْضِ فَانظُرُوا كَيْفَ كَانَ عَاقِبَةُ) 27:69; 30:42
+- Dangaus ir žemės sutvėrime bei nakties ir dienos kaitoje (yra ženklų). (إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ) 2:164; 3:190
+- Kas gi tas, kuris paskolins Allahui gerą paskolą, kad Jis jam ją padaugintų? (مَّن ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا فَيُضَاعِفَهُ) 2:245; 57:11
+- Tad teisk tarp jų pagal tai, ką Allahas atsiuntė, ir nesek jų geismais. (فَاحْكُم بَيْنَهُم بِمَا أَنزَلَ اللَّهُ وَلَا تَتَّبِعْ أَهْوَاءَهُمْ) 5:48; 5:49
+- Ar jie laukia ko kito, tik kad pas juos ateitų angelai arba ateitų tavo Viešpaties įsakymas? (هَلْ يَنظُرُونَ إِلَّا أَن تَأْتِيَهُمُ الْمَلَائِكَةُ أَوْ يَأْتِيَ) 6:158; 16:33
+- Iš tiesų, tie, kurie sugalvoja melą prieš Allahą, nepasiseks. (إِنَّ الَّذِينَ يَفْتَرُونَ عَلَى اللَّهِ الْكَذِبَ لَا يُفْلِحُونَ) 10:69; 16:116
+- Kaip ir Faraono žmonės bei tie prieš juos, jie neigė Mūsų ženklus. (كَدَأْبِ آلِ فِرْعَوْنَ وَالَّذِينَ مِن قَبْلِهِمْ كَذَّبُوا بِآيَاتِنَا) 3:11; 8:54
+- Ir jis džiugina tuos, kurie tiki ir daro gerus darbus, kad jiems skirtas atlygis. (وَيُبَشِّرُ الْمُؤْمِنِينَ الَّذِينَ يَعْمَلُونَ الصَّالِحَاتِ أَنَّ لَهُمْ أَجْرًا) 17:9; 18:2
+- Allahas gausiai suteikia kam nori iš savo tarnų ir nustato (mažiau). (اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ) 28:82; 29:62
+- Ir jūs būsite sugrąžinti pas Tą, kuris žino paslėptą ir atvirą, ir Jis jums praneš apie tai, ką darydavote. (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
+- Ir kraujo giminės yra arčiau vieni kitų pagal Allaho Raštą. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
 """;

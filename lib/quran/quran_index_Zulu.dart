@@ -3162,4 +3162,158 @@ Matching Phrases 9 words
 - Okwabo isiphuzo samanzi abilayo nesijeziso esibuhlungu ngenxa yokungakholwa kwabo. (لَهُمْ شَرَابٌ مِّنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْفُرُونَ) 6:70; 10:4
 - Ingabe singabiza ngaphandle kuka-Allah lokho okungasizuzisi noma okungasilimazi? (أَنَدْعُو مِن دُونِ اللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا) 6:71; 10:106
 - Ukuthi u-Allah uyakwazi okusezulwini nokusemhlabeni. (أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 5:97; 58:7
+Matching Phrases 8 words
+- Ngubani ongcolileyo kunalowo oqambela uAllah amanga? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا) 6:21; 6:93; 6:144; 7:37; 10:17; 11:18; 18:15; 29:68; 61:7
+- Ngempela, kulokho kukhona isibonakaliso, kodwa iningi labo babengewona amakholwa. (إِنَّ فِي ذَلِكَ لَآيَةً وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ) 26:8; 26:67; 26:103; 26:121; 26:139; 26:158; 26:174; 26:190
+- Ukuze bahambe emhlabeni futhi babone ukuthi isiphetho salabo saba njani. (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ) 12:109; 30:9; 30:42; 35:44; 40:21; 40:82; 47:10
+- Wathi: "Hini na bantu bami! Khonzeni uAllah, aninaye omunye unkulunkulu ngaphandle kwakhe." (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ) 7:65; 7:73; 7:85; 11:50; 11:61; 11:84; 23:23
+- Uyomfaka ezingadini ezigobhoza ngaphansi kwazo imifula, bayohlala khona ingunaphakade. (يُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 4:13; 4:57; 4:122; 58:22; 64:9; 65:11
+- Phakathi kwabo ngosuku loMvuko, ngalokho ababephikisana ngakho. (بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 2:113; 10:93; 16:124; 22:69; 32:25; 45:17
+- Ngabe abazange bahambe emhlabeni ukuze babone ukuthi isiphetho se... saba njani? (أَوَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ) 30:9; 35:44; 40:21; 40:82; 47:10
+- Izivande ezigobhoza ngaphansi kwazo imifula, bayohlala khona ingunaphakade. (جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا) 4:57; 4:122; 5:119; 64:9; 65:11
+- Ufaka ubusuku emini futhi ufaka imini ebusuku. (تُولِجُ اللَّيْلَ فِي النَّهَارِ وَتُولِجُ النَّهَارَ فِي اللَّيْلِ) 3:27; 22:61; 31:29; 35:13; 57:6
+- Konke okusemazulwini nakho konke okusemhlabeni kumdumisa uAllah. (سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 59:1; 61:1; 62:1; 64:1
+- Khonzeni uAllah, aninaye omunye unkulunkulu ngaphandle kwakhe. Ngabe animesabi na? (اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا) 7:65; 11:84; 23:23; 23:32
+- Ngenkathi sithi ezingelosini: "Khothamani ku-Adamu," zakhothama zonke ngaphandle kuka-Iblis. (وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا إِبْلِيسَ) 2:34; 17:61; 18:50; 20:116
+- UAllah uyakwazi okusemazulwini nakho konke okusemhlabeni. (اللَّهُ وَيَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 3:29; 5:97; 49:16; 58:7
+- Izivande ezigobhoza ngaphansi kwazo imifula, bayohlala khona ingunaphakade, futhi lokho... (جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَذَلِكَ) 4:13; 5:85; 9:89; 57:12
+- Umvuzo wakhe useNkosini yakhe, futhi akukho ukwesaba kubo, futhi abayikuba... (أَجْرُهُ عِندَ رَبِّهِ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ) 2:112; 2:262; 2:274; 2:277
+- E Nkosini yakhe, futhi akukho ukwesaba kubo, futhi abayikudabuka. (عِندَ رَبِّهِ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ) 2:112; 2:262; 2:274; 2:277
+- Lowo othola ukuhola, uholela umphefumulo wakhe; futhi lowo odukayo... (فَمَنِ اهْتَدَى فَإِنَّمَا يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ) 10:108; 17:15; 27:92
+- Uholela umphefumulo wakhe; futhi lowo odukayo, uyazilahlekisela. (يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا) 10:108; 17:15; 39:41
+- Kungani kungazange kuthunyelwe kuye isibonakaliso esivela eNkosini yakhe? Yithi: "Ngempela..." (لَوْلَا أُنزِلَ عَلَيْهِ آيَةٌ مِّن رَّبِّهِ فَقُلْ إِنَّمَا) 10:20; 13:27; 29:50
+- Labo abakholwayo futhi benza imisebenzi emihle, bona banomvuzo ongapheli. (الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ) 41:8; 84:25; 95:6
+- Futhi ukhipha ophilayo kwabafileyo, futhi ukhipha ofileyo kwabaphilayo. (وَتُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ وَتُخْرِجُ الْمَيِّتَ مِنَ الْحَيِّ) 3:27; 10:31; 30:19
+- Futhi lowo ongahluleli ngalokho uAllah akwehlisile, labo-ke ngabo... (وَمَن لَّمْ يَحْكُم بِمَا أَنزَلَ اللَّهُ فَأُولَئِكَ هُمُ) 5:44; 5:45; 5:47
+- Wadavula amazulu nomhlaba nakho konke okuphakathi kwakho ngezinsuku eziyisithupha. (خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا فِي سِتَّةِ أَيَّامٍ) 25:59; 32:4; 50:38
+- Ngempela, uAllah ungumnikazi womusa kubantu, kodwa iningi... (إِنَّ اللَّهَ لَذُو فَضْلٍ عَلَى النَّاسِ وَلَكِنَّ أَكْثَرَ) 2:243; 10:60; 40:61
+- UAllah akazange abenze okungalungile, kodwa bona bazenzela okungalungile. (فَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ وَلَكِن كَانُوا أَنفُسَهُمْ يَظْلِمُونَ) 9:70; 29:40; 30:9
+- Uyazithethelela izono zenu futhi anifake ezingadini ezigobhoza ngaphansi kwazo imifula. (عَنكُمْ سَيِّئَاتِكُمْ وَلَأُدْخِلَنَّكُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 5:12; 64:9; 66:8
+- Unenqabelile ukudla okufileyo, igazi, inyama yengulube, nalokho okuhlatshwa ngegama elingelona elika-Allah. (حَرَّمَ عَلَيْكُمُ الْمَيْتَةَ وَالدَّمَ وَلَحْمَ الْخِنزِيرِ وَمَا أُهِلَّ) 2:173; 5:3; 16:115
+- Ngempela, mina ngesaba, uma ngihlubuka eNkosini yami, isijeziso sosuku olukhulu. (إِنِّي أَخَافُ إِنْ عَصَيْتُ رَبِّي عَذَابَ يَوْمٍ عَظِيمٍ) 6:15; 10:15; 39:13
+- Ngaphandle kokuba emva kokuba ulwazi luye lwafika kubo, ngenxa yomona phakathi kwabo. (إِلَّا مِن بَعْدِ مَا جَاءَهُمُ الْعِلْمُ بَغْيًا بَيْنَهُمْ) 3:19; 42:14; 45:17
+- Bamiswa umthandazo futhi banikela ngalokho esabapha khona, ngasese nasesidlangalaleni. (وَأَقَامُوا الصَّلَاةَ وَأَنفَقُوا مِمَّا رَزَقْنَاهُمْ سِرًّا وَعَلَانِيَةً) 13:22; 14:31; 35:29
+- Ngaphandle kuka-Allah, lokho okungasizuzisi futhi okungasilimazi. (مِن دُونِ اللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا) 6:71; 10:106; 25:55
+- Bayakholwa kulokho okwehliselwe kuwe nakulokho okwehliswa ngaphambi kwakho. (يُؤْمِنُونَ بِمَا أُنزِلَ إِلَيْكَ وَمَا أُنزِلَ مِن قَبْلِكَ) 2:4; 4:60; 4:162
+- Ngabe awuboni ukuthi uAllah wehlisa amanzi esibhakabhakeni? (أَلَمْ تَرَ أَنَّ اللَّهَ أَنزَلَ مِنَ السَّمَاءِ مَاءً) 22:63; 35:27; 39:21
+- Uma enquma into, uthi kuyo: "Yiba!" futhi iyaba. (قَضَى أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُن فَيَكُونُ) 3:47; 19:35; 40:68
+- KwaMadiyani, (sathumela) umfowabo uShu'ayb. Wathi: "Hini na bantu bami! Khonzeni uAllah." (وَإِلَى مَدْيَنَ أَخَاهُمْ شُعَيْبًا قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ) 7:85; 11:84; 29:36
+- Lokho kungenye yezindaba ezingabonakali esizembulela zona. Wena wawungekho... (ذَلِكَ مِنْ أَنبَاءِ الْغَيْبِ نُوحِيهِ إِلَيْكَ وَمَا كُنتَ) 3:44; 11:49; 12:102
+- Lapho isikhathi sabo sifika, abakwazi ukulisihlisa noma ukulisithulula ngehora elilodwa. (فَإِذَا جَاءَ أَجَلُهُمْ لَا يَسْتَأْخِرُونَ سَاعَةً وَلَا يَسْتَقْدِمُونَ) 7:34; 10:49; 16:61
+- Futhi ningalandeli izinyathelo zikasathane, ngempela yena uyisitha senu esicacile. (وَلَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ إِنَّهُ لَكُمْ عَدُوٌّ مُّبِينٌ) 2:168; 2:208; 6:142
+- Phakathi kwabantu kukhona abaphikisanayo ngo-Allah ngaphandle kolwazi. (وَمِنَ النَّاسِ مَن يُجَادِلُ فِي اللَّهِ بِغَيْرِ عِلْمٍ) 22:3; 22:8; 31:20
+- UAllah uyinika lowo amthandayo, futhi uAllah unomusa omkhulu. (اللَّهِ يُؤْتِيهِ مَن يَشَاءُ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ) 57:21; 57:29; 62:4
+- Wonke umphefumulo uyokhokhelwa ngokugcwele lokho akwenzile, futhi abayikwenziwa okungalungile. (تُوَفَّى كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ) 2:281; 3:25; 3:161
+- Futhi ningawubulali umphefumulo u-Allah awunqabelile, ngaphandle kwezizathu ezifanele. (وَلَا تَقْتُلُوا النَّفْسَ الَّتِي حَرَّمَ اللَّهُ إِلَّا بِالْحَقِّ) 6:151; 17:33; 25:68
+- Uma enquma into, uthi kuyo: "Yiba!" (إِذَا قَضَى أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُن) 3:47; 19:35; 40:68
+- Ngenani emasangweni esihogo, nihlale khona ingunaphakade; futhi yini embi kangaka indawo yokuhlala yabazigqajayo! (فَادْخُلُوا أَبْوَابَ جَهَنَّمَ خَالِدِينَ فِيهَا فَلَبِئْسَ مَثْوَى الْمُتَكَبِّرِينَ) 16:29; 39:72; 40:76
+- Ngabe awubaboni labo abanikwa ingxenye yeNcwadi? (أَلَمْ تَرَ إِلَى الَّذِينَ أُوتُوا نَصِيبًا مِّنَ الْكِتَابِ) 3:23; 4:44; 4:51
+- Bona banezivande ezigobhoza ngaphansi kwazo imifula, bayohlala khona ingunaphakade. (لَهُمْ جَنَّاتٌ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 3:198; 5:119; 9:89
+- Hini na bantu bami! Yenzani ngokwesimo senu, nami ngiyenza, futhi nizokwazi. (يَاقَوْمِ اعْمَلُوا عَلَى مَكَانَتِكُمْ إِنِّي عَامِلٌ فَسَوْفَ تَعْلَمُونَ) 6:135; 11:93; 39:39
+- Lowo omelana no-Allah noMthunywa wakhe, ngempela unomlilo wesihogo, uyohlala khona ingunaphakade. (اللَّهَ وَرَسُولَهُ فَأَنَّ لَهُ نَارَ جَهَنَّمَ خَالِدًا فِيهَا) 9:63; 72:23
+- Ezinhliziyweni zabo kunezembozo, ukuze bangakuqondi, nasendlebeni zabo kunesithiyo. (عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا) 17:46; 18:57
+- Kunoma yimuphi umuzi okwafika kuwona umxwayisi, abacebile bawo bathi: "Thina..." (فِي قَرْيَةٍ مِّن نَّذِيرٍ إِلَّا قَالَ مُتْرَفُوهَا إِنَّا) 34:34; 43:23
+- Bathi: "Sicela unxusele eNkosini yakho ukuthi isicacisele ukuthi iyini." (قَالُوا ادْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِيَ) 2:68; 2:70
+- Bayothi: "UAllah." Yithi: "Konke ukudumisa kungokuka-Allah!" Kodwa iningi labo... (لَيَقُولُنَّ اللَّهُ قُلِ الْحَمْدُ لِلَّهِ بَلْ أَكْثَرُهُمْ لَا) 29:63; 31:25
+- Impendulo yabantu bakhe yayingeyona enye ngaphandle kokuthi: "Baxosheni..." (وَمَا كَانَ جَوَابَ قَوْمِهِ إِلَّا أَن قَالُوا أَخْرِجُوهُم) 7:82; 27:56
+- Ngaphansi kwazo kugeleza imifula, bayohlala khona ingunaphakade. Lokho ukunqoba okukhulu. (تَحْتَهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا ذَلِكَ الْفَوْزُ الْعَظِيمُ) 9:100; 64:9
+- Labo bakusekuholeni okuvela eNkosini yabo, futhi labo-ke ngabaphumelelayo. (أُولَئِكَ عَلَى هُدًى مِّن رَّبِّهِمْ وَأُولَئِكَ هُمُ الْمُفْلِحُونَ) 2:5; 31:5
+- Lowo ofikelwa isijeziso esimhlazisayo, futhi isijeziso esingapheli siwele kuye. (مَن يَأْتِيهِ عَذَابٌ يُخْزِيهِ وَيَحِلُّ عَلَيْهِ عَذَابٌ مُّقِيمٌ) 11:39; 39:40
+- Hambani emhlabeni nibone ukuthi isiphetho sabaphiki saba njani! (فَسِيرُوا فِي الْأَرْضِ فَانظُرُوا كَيْفَ كَانَ عَاقِبَةُ الْمُكَذِّبِينَ) 3:137; 16:36
+- Abayikuyifisa ingunaphakade, ngenxa yalokho izandla zabo ezikuthumele phambili. Futhi uAllah uyabazi abenzi bokungalungile. (يَتَمَنَّوْهُ أَبَدًا بِمَا قَدَّمَتْ أَيْدِيهِمْ وَاللَّهُ عَلِيمٌ بِالظَّالِمِينَ) 2:95; 62:7
+- Uyazi kabanzi lowo oduka endleleni yakhe, futhi uyazi kabanzi... (هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ) 53:30; 68:7
+- Ngempela, uAllah uyiNkosi yami neNkosi yenu, ngakho-ke khonzeni Yena. Lena indlela eqondile. (إِنَّ اللَّهَ رَبِّي وَرَبُّكُمْ فَاعْبُدُوهُ هَذَا صِرَاطٌ مُّسْتَقِيمٌ) 3:51; 19:36
+- Ungumnikazi womusa kubantu, kodwa iningi labo alibongi. (لَذُو فَضْلٍ عَلَى النَّاسِ وَلَكِنَّ أَكْثَرَهُمْ لَا يَشْكُرُونَ) 10:60; 27:73
+- Amazulu, umhlaba nakho konke okuphakathi kwawo, ngaphandle kweqiniso nesikhathi esinqunyiwe. (السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا إِلَّا بِالْحَقِّ وَأَجَلٍ مُّسَمًّى) 30:8; 46:3
+- Bayeke bazidle, badlale, kuze kube yilapho behlangana nosuku lwabo abathenjiswa lona. (فَذَرْهُمْ يَخُوضُوا وَيَلْعَبُوا حَتَّى يُلَاقُوا يَوْمَهُمُ الَّذِي يُوعَدُونَ) 43:83; 70:42
+- Futhi lapho behlangana nalabo abakholwayo, bathi: "Siyakholwa," kodwa lapho be bodwa... (وَإِذَا لَقُوا الَّذِينَ آمَنُوا قَالُوا آمَنَّا وَإِذَا خَلَوْا) 2:14; 2:76
+- Bamiswa iTorah neVangeli nalokho okwehliselwa kubo okuvela eNkosini yabo. (أَقَامُوا التَّوْرَاةَ وَالْإِنجِيلَ وَمَا أُنزِلَ إِلَيْهِم مِّن رَّبِّهِمْ) 5:66; 5:68
+- Uyakwazi okungaphambi kwabo nokungemva kwabo, futhi abakwazi ukukuhlanga... (يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ) 2:255; 20:110
+- Futhi nguyena owadala amazulu nomhlaba ngezinsuku eziyisithupha. (وَهُوَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ) 11:7; 57:4
+- Ngempela, kulokho kunesibonakaliso kini, uma ningamakholwa. (إِنَّ فِي ذَلِكَ لَآيَةً لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ) 2:248; 3:49
+- Yini eyavimbela abantu ekukholweni lapho ukuhola kufika kubo? (وَمَا مَنَعَ النَّاسَ أَن يُؤْمِنُوا إِذْ جَاءَهُمُ الْهُدَى) 17:94; 18:55
+- Futhi benza abalingani baka-Allah, ukuze badukise endleleni yakhe. Yithi: "Zijabuliseni..." (وَجَعَلُوا لِلَّهِ أَندَادًا لِّيُضِلُّوا عَن سَبِيلِهِ قُلْ تَمَتَّعُوا) 14:30; 39:8
+- Bamangala lapho kufika kubo umxwayisi ovela phakathi kwabo, futhi abangakholwayo bathi: "Lokhu..." (وَعَجِبُوا أَن جَاءَهُم مُّنذِرٌ مِّنْهُمْ وَقَالَ الْكَافِرُونَ هَذَا) 38:4; 50:2
+- Ngempela, iNkosi yakho yazi kabanzi lowo oduka endleleni yayo. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ) 53:30; 68:7
+- Njengalowo ochitha ingcebo yakhe ukuze abonwe ngabantu, futhi engakholwa ku-Allah. (كَالَّذِي يُنفِقُ مَالَهُ رِئَاءَ النَّاسِ وَلَا يُؤْمِنُ بِاللَّهِ) 2:264; 4:38
+- Nikeleni kulokho esiniphe khona, ngaphambi kokuba kufike... (أَنفِقُوا مِمَّا رَزَقْنَاكُم مِّن قَبْلِ أَن يَأْتِيَ) 2:254; 63:10
+- Wenza konke okusemazulwini nakho konke okusemhlabeni kuzithobele nina. (سَخَّرَ لَكُم مَّا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 31:20; 45:13
+- Futhi ngempela, thina sisemibuzweni ngalokhu osibizela kukho. (وَإِنَّنَا لَفِي شَكٍّ مِّمَّا تَدْعُونَا إِلَيْهِ مُرِيبٍ) 11:62; 14:9
+- Ngempela, iNkosi yakho iyandisa isabelo kulowo emthandayo, futhi iyanciphisa. Ngempela, Yona... (إِنَّ رَبَّكَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ وَيَقْدِرُ إِنَّهُ) 17:30; 34:36
+- INkosi yamazulu nomhlaba nakho konke okuphakathi kwawo, uma niqinisekile. (رَبُّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا إِن كُنتُم مُّوقِنِينَ) 26:24; 44:7
+- Siyakholwa ku-Allah nakulokho okwehliselwe kithi nakulokho okwehliselwe ku... (آمَنَّا بِاللَّهِ وَمَا أُنزِلَ إِلَيْنَا وَمَا أُنزِلَ إِلَى) 2:136; 3:199
+- Labo abenza okungalungile babanjwa umsindo omkhulu, bafika ekuseni besaqumbile emizini yabo. (وَأَخَذَ الَّذِينَ ظَلَمُوا الصَّيْحَةُ فَأَصْبَحُوا فِي دِيَارِهِمْ جَاثِمِينَ) 11:67; 11:94
+- Akukho sona kini kulokho abakwenzayo ngemiphefumulo yabo. (فَلَا جُنَاحَ عَلَيْكُمْ فِيمَا فَعَلْنَ فِي أَنفُسِهِنَّ) 2:234; 2:240
+- INkosi yakho yazi kabanzi lowo oduka endleleni yayo, futhi Yona... (رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ) 53:30; 68:7
+- NgoMoya ovela emyalweni wakhe, kulowo amthandayo ezincekwini zakhe. (بِالرُّوحِ مِنْ أَمْرِهِ عَلَى مَن يَشَاءُ مِنْ عِبَادِهِ) 16:2; 40:15
+- Futhi sanika u-Isa, indodana kaMaryam, izibonakaliso ezicacile, futhi samehleza ngoMoya oNgcwele. (وَآتَيْنَا عِيسَى ابْنَ مَرْيَمَ الْبَيِّنَاتِ وَأَيَّدْنَاهُ بِرُوحِ الْقُدُسِ) 2:87; 2:253
+- Ukuze ahlule phakathi kwabo ngosuku loMvuko, ngalokho ababephikisana ngakho. (لَيَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ) 16:124; 22:69
+- Senza okungaphezulu kwaba ngaphansi, futhi sanethisa phezu kwabo ngamatshe obumba oluwisiweyo. (جَعَلْنَا عَالِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةً مِّن سِجِّيلٍ) 11:82; 15:74
+- Kuyefana kubo, noma ngabe ubaxwayisa noma ungabaxwayisi, abakholwa. (سَوَاءٌ عَلَيْهِمْ أَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ) 2:6; 36:10
+- Ngaphandle kwabantu, ngakho-ke fisani ukufa, uma niyiqiniso. (مِّن دُونِ النَّاسِ فَتَمَنَّوُا الْمَوْتَ إِن كُنتُمْ صَادِقِينَ) 2:94; 62:6
+- Khonzeni uAllah, aninaye omunye unkulunkulu ngaphandle kwakhe. Ngabe animesabi na? (اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 23:23; 23:32
+- Uma sikubonisa okunye kwalokho esibathembisa khona, noma sikwenze ukuthi ufe, kithi-ke ukubuya kwabo... (وَإِمَّا نُرِيَنَّكَ بَعْضَ الَّذِي نَعِدُهُمْ أَوْ نَتَوَفَّيَنَّكَ فَإِلَيْنَا) 10:46; 40:77
+- Bathi: "Uma sesifile futhi siwumthulathi namathambo, ngempela siyovuswa?" (قَالُوا أَإِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَامًا أَإِنَّا لَمَبْعُوثُونَ) 23:82; 56:47
+- Ngempela, umusa usesandleni sika-Allah, uwunika lowo amthandayo, futhi uAllah... (إِنَّ الْفَضْلَ بِيَدِ اللَّهِ يُؤْتِيهِ مَن يَشَاءُ وَاللَّهُ) 3:73; 57:29
+- KuLowo owaziyo okungabonakali nokubonakalayo, futhi uyonazisa ngalokho enikwenza. (إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ) 9:105; 62:8
+- Hini na nina enikholwayo! Khumbulani umusa ka-Allah phezu kwenu, ngenkathi... (يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا نِعْمَتَ اللَّهِ عَلَيْكُمْ إِذْ) 5:11; 33:9
+- Futhi asizange sithumele ngaphambi kwakho ngaphandle kwamadoda esiwambulela wona. (وَمَا أَرْسَلْنَا مِن قَبْلِكَ إِلَّا رِجَالًا نُّوحِي إِلَيْهِم) 12:109; 16:43
+- Uyazithethelela izono zakhe futhi amfake ezingadini ezigobhoza ngaphansi kwazo imifula. (يُكَفِّرْ عَنْهُ سَيِّئَاتِهِ وَيُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا) 64:9; 66:8
+- Ogulayo noma osendleleni, inani lezinsuku ezithile. (مَّرِيضًا أَوْ عَلَى سَفَرٍ فَعِدَّةٌ مِّنْ أَيَّامٍ أُخَرَ) 2:184; 2:185
+- Abalandeli lutho ngaphandle kokuqagela, futhi abenzi lutho ngaphandle kokuqagela nje. (إِن يَتَّبِعُونَ إِلَّا الظَّنَّ وَإِنْ هُمْ إِلَّا يَخْرُصُونَ) 6:116; 10:66
+- Ngempela, kusona isibonelo esihle kulowo olindele u-Allah nosuku lokugcina. (أُسْوَةٌ حَسَنَةٌ لِّمَن كَانَ يَرْجُو اللَّهَ وَالْيَوْمَ الْآخِرَ) 33:21; 60:6
+- Futhi asizange siwadale amazulu nomhlaba nakho konke okuphakathi kwawo ngaphandle kweqiniso. (وَمَا خَلَقْنَا السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا إِلَّا بِالْحَقِّ) 15:85; 46:3
+- Faka isandla sakho esifubeni sakho, sizophuma simhlophe ngaphandle kwesiphako. (يَدَكَ فِي جَيْبِكَ تَخْرُجْ بَيْضَاءَ مِنْ غَيْرِ سُوءٍ) 27:12; 28:32
+- Ukhetha ngomusa wakhe lowo amthandayo, futhi uAllah unomusa omkhulu. (يَخْتَصُّ بِرَحْمَتِهِ مَن يَشَاءُ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ) 2:105; 3:74
+- Ngabe awazi ukuthi uAllah ungumnikazi wobukhosi bamazulu nomhlaba? (أَلَمْ تَعْلَمْ أَنَّ اللَّهَ لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ) 2:107; 5:40
+- Noma yikuphi okuhle enikuthumela phambili emiphefumulweni yenu, nizokuthola ku-Allah. (وَمَا تُقَدِّمُوا لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ اللَّهِ) 2:110; 73:20
+- Futhi noma kuphi lapho uphuma khona, phendulela ubuso bakho eMasisidi iNgcwele. (وَمِنْ حَيْثُ خَرَجْتَ فَوَلِّ وَجْهَكَ شَطْرَ الْمَسْجِدِ الْحَرَامِ) 2:149; 2:150
+- Ngaphambili kwabo, futhi awusoze wathola ushintsho emthethweni ka-Allah. (خَلَوْا مِن قَبْلُ وَلَن تَجِدَ لِسُنَّةِ اللَّهِ تَبْدِيلًا) 33:62; 48:23
+- Lowo okungokwakhe konke okusemazulwini nokungokwakhe konke okusemhlabeni. (الَّذِي لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 34:1; 42:53
+- Akukho wesifazane okhulelwayo noma obelekayo ngaphandle kokwazi kwakhe. (وَمَا تَحْمِلُ مِنْ أُنثَى وَلَا تَضَعُ إِلَّا بِعِلْمِهِ) 35:11; 41:47
+- Ubusuku, futhi wenza ilanga nenyanga zithobele, ngamunye ugijima kuze kube yisikhathi esinqunyiwe. (اللَّيْلِ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ كُلٌّ يَجْرِي لِأَجَلٍ مُّسَمًّى) 35:13; 39:5
+- Ngaphansi kwazo kugeleza imifula, bayohlala khona ingunaphakade, futhi lokho ngumvuzo we... (تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَذَلِكَ جَزَاءُ) 5:85; 20:76
+- Wathi: "Cha, imiphefumulo yenu inikhohlisile ngento ethile; ngakho ukubekezela kuhle." (قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْرًا فَصَبْرٌ جَمِيلٌ) 12:18; 12:83
+- Okusemazulwini nokusemhlabeni, nokuthi uAllah... (مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَأَنَّ اللَّهَ) 5:97; 22:64
+- Futhi kwakungafiki kubo umthunywa ngaphandle kokuba bahlekise ngaye. (وَمَا يَأْتِيهِم مِّن رَّسُولٍ إِلَّا كَانُوا بِهِ يَسْتَهْزِئُونَ) 15:11; 36:30
+- Bathi: "Hini na Musa! Ingabe wena uzokuphonsa noma yithi okokuphonsa?" (قَالُوا يَامُوسَى إِمَّا أَن تُلْقِيَ وَإِمَّا أَن نَّكُونَ) 7:115; 20:65
+- Yena uyababulala, futhi phakathi kwenu kukhona lowo obuyiselwa ebuntwaneni, ukuze... (يَتَوَفَّاكُمْ وَمِنكُم مَّن يُرَدُّ إِلَى أَرْذَلِ الْعُمُرِ لِكَيْ) 16:70; 22:5
+- Bona banezivande eNkosini yabo ezigobhoza ngaphansi kwazo imifula, bayohlala khona ingunaphakade. (رَبِّهِمْ جَنَّاتٌ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 3:15; 3:136
+- Futhi sabeka izembozo ezinhliziyweni zabo, ukuze bangakuqondi, nasendlebeni zabo... (وَجَعَلْنَا عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ) 17:46; 18:57
+- Ngempela, isithembiso sika-Allah siyiqiniso, kodwa iningi labo alazi. (إِنَّ وَعْدَ اللَّهِ حَقٌّ وَلَكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ) 10:55; 28:13
+- Lokho kungenxa yokuthi bamela u-Allah noMthunywa wakhe; futhi lowo omelana no-Allah... (ذَلِكَ بِأَنَّهُمْ شَاقُّوا اللَّهَ وَرَسُولَهُ وَمَن يُشَاقِقِ اللَّهَ) 8:13; 59:4
+- Futhi ngosuku lapho ababiza khona, athi: "Baphi abahlanganyeli bami enaningicabangela bona?" (وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ أَيْنَ شُرَكَائِيَ الَّذِينَ كُنتُمْ تَزْعُمُونَ) 28:62; 28:74
+- Ngabe ababoni ukuthi uAllah, owadala amazulu nomhlaba...? (أَوَلَمْ يَرَوْا أَنَّ اللَّهَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ) 17:99; 46:33
+- Owakudala ngothuli, kwase kuba ngegilo, kwase kuba... (بِالَّذِي خَلَقَكَ مِن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ) 18:37; 40:67
+- Babethi: "Nkosi yethu! Ukube wawuthumele umthunywa kithi, ngabe siyalandela izibonakaliso zakho!" (لَقَالُوا رَبَّنَا لَوْلَا أَرْسَلْتَ إِلَيْنَا رَسُولًا فَنَتَّبِعَ آيَاتِكَ) 20:134; 28:47
+- Kwase kuba, eNkosini yabo ukubuya kwabo, uyobazisa ngalokho ababekwenza. (ثُمَّ إِلَى رَبِّهِم مَّرْجِعُهُمْ فَيُنَبِّئُهُم بِمَا كَانُوا يَعْمَلُونَ) 6:108; 39:7
+- Abanalwazi ngalokho, abalandeli lutho ngaphandle... (مَّا لَهُم بِذَلِكَ مِنْ عِلْمٍ إِنْ هُمْ إِلَّا) 43:20; 45:24
+- Ngempela, sithole okhokho bethu benkolo ethile, futhi thina sibalandela ezinyathelweni zabo. (إِنَّا وَجَدْنَا آبَاءَنَا عَلَى أُمَّةٍ وَإِنَّا عَلَى آثَارِهِم) 43:22; 43:23
+- Labo abanikwa iNcwadi, ngaphandle kokuba emva kokufika kolwazi kubo... (الَّذِينَ أُوتُوا الْكِتَابَ إِلَّا مِن بَعْدِ مَا جَاءَهُمُ) 3:19; 98:4
+- Lapho u-Ibrahim ethi: "Nkosi yami! Yenza leli dolobha libe yindawo ephephile." (وَإِذْ قَالَ إِبْرَاهِيمُ رَبِّ اجْعَلْ هَذَا بَلَدًا آمِنًا) 2:126; 14:35
+- Wanika ukuzwa, ukubona nezinhliziyo, kodwa incane kakhulu enibongayo. (وَجَعَلَ لَكُمُ السَّمْعَ وَالْأَبْصَارَ وَالْأَفْئِدَةَ قَلِيلًا مَّا تَشْكُرُونَ) 32:9; 67:23
+- Labo abaphikisanayo ngezibonakaliso zika-Allah ngaphandle kwegunya elifikile kubo. (الَّذِينَ يُجَادِلُونَ فِي آيَاتِ اللَّهِ بِغَيْرِ سُلْطَانٍ أَتَاهُمْ) 40:35; 40:56
+- Ngakho-ke landelani inkolo ka-Ibrahim, owayengumkholwa oqondile, futhi wayengeyena wabakhonzi bezithixo. (فَاتَّبِعُوا مِلَّةَ إِبْرَاهِيمَ حَنِيفًا وَمَا كَانَ مِنَ الْمُشْرِكِينَ) 3:95; 16:123
+- Futhi lapho sikhulula kusapho lukaFir'awni, olwalunibophela ngezinhlupheko. (وَإِذْ أَنجَيْنَاكُم مِّنْ آلِ فِرْعَوْنَ يَسُومُونَكُمْ سُوءَ الْعَذَابِ) 7:141; 14:6
+- Leyo yinkolo eqondile, kodwa iningi labantu alazi. (ذَلِكَ الدِّينُ الْقَيِّمُ وَلَكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ) 12:40; 30:30
+- Ngabe awuboni ukuthi uAllah wenza konke okusemhlabeni kuthobele nina? (أَلَمْ تَرَ أَنَّ اللَّهَ سَخَّرَ لَكُم مَّا فِي) 22:65; 31:20
+- Abangakholwayo bathi: "Lokhu akulutho ngaphandle komlingo ocacile." (لَقَالَ الَّذِينَ كَفَرُوا إِنْ هَذَا إِلَّا سِحْرٌ مُّبِينٌ) 6:7; 11:7
+- Futhi lapho izibonakaliso zethu ezicacile zifundelwa kubo, abangakholwayo bathi... (وَإِذَا تُتْلَى عَلَيْهِمْ آيَاتُنَا بَيِّنَاتٍ قَالَ الَّذِينَ كَفَرُوا) 19:73; 46:7
+- Izivande zase-Edeni ezigobhoza ngaphansi kwazo imifula, bayohlala khona ingunaphakade. (جَنَّاتُ عَدْنٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 20:76; 98:8
+- Noma yini ayifunayo, ngempela uAllah unamandla phezu kwakho konke. (مَا يَشَاءُ إِنَّ اللَّهَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ) 24:45; 35:1
+- Ukuze anithethelele izono zenu futhi anihlehlisele esikhathini esinqunyiwe. (لِيَغْفِرَ لَكُم مِّن ذُنُوبِكُمْ وَيُؤَخِّرَكُمْ إِلَى أَجَلٍ مُّسَمًّى) 14:10; 71:4
+- Nifuna ukusivimbela kulokho okwakukhulekelwa okhokho bethu. (تُرِيدُونَ أَن تَصُدُّونَا عَمَّا كَانَ يَعْبُدُ آبَاؤُنَا) 14:10; 34:43
+- Lapho iNkosi yakho ithi ezingelosini: "Ngizodala umuntu ngodongwe..." (وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي خَالِقٌ بَشَرًا مِّن) 15:28; 38:71
+- Futhi nguyena othumela imimoya njengezindaba ezimnandi ngaphambi komusa wakhe. (وَهُوَ الَّذِي يُرْسِلُ الرِّيَاحَ بُشْرًا بَيْنَ يَدَيْ رَحْمَتِهِ) 7:57; 25:48
+- Yithi: "Hambani emhlabeni nibone ukuthi isiphetho se... saba njani." (قُلْ سِيرُوا فِي الْأَرْضِ فَانظُرُوا كَيْفَ كَانَ عَاقِبَةُ) 27:69; 30:42
+- Ngempela, ekudaleni amazulu nomhlaba, nasekushintshisaneni kobusuku nemini (kunezibonakaliso). (إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ) 2:164; 3:190
+- Ngubani lowo obolekisa u-Allah imboleko enhle, ukuze ayiphindaphinde kuye? (مَّن ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا فَيُضَاعِفَهُ) 2:245; 57:11
+- Ngakho-ke hlulela phakathi kwabo ngalokho u-Allah akwehlisile, futhi ungalandeli izifiso zabo. (فَاحْكُم بَيْنَهُم بِمَا أَنزَلَ اللَّهُ وَلَا تَتَّبِعْ أَهْوَاءَهُمْ) 5:48; 5:49
+- Ngabe balindele okunye ngaphandle kokuthi izingelosi zize kubo, noma iNkosi yakho ifike...? (هَلْ يَنظُرُونَ إِلَّا أَن تَأْتِيَهُمُ الْمَلَائِكَةُ أَوْ يَأْتِيَ) 6:158; 16:33
+- Ngempela, labo abaqambela u-Allah amanga abayikuphumelela. (إِنَّ الَّذِينَ يَفْتَرُونَ عَلَى اللَّهِ الْكَذِبَ لَا يُفْلِحُونَ) 10:69; 16:116
+- Njengesiko likaFir'awni nalabo abangaphambi kwabo, baphika izibonakaliso zethu. (كَدَأْبِ آلِ فِرْعَوْنَ وَالَّذِينَ مِن قَبْلِهِمْ كَذَّبُوا بِآيَاتِنَا) 3:11; 8:54
+- Futhi yazisa ngezindaba ezimnandi amakholwa enza imisebenzi emihle, ukuthi lawa nomvuzo... (وَيُبَشِّرُ الْمُؤْمِنِينَ الَّذِينَ يَعْمَلُونَ الصَّالِحَاتِ أَنَّ لَهُمْ أَجْرًا) 17:9; 18:2
+- U-Allah uyandisa isabelo kulowo amthandayo ezincekwini zakhe, futhi uyanciphisa. (اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ) 28:82; 29:62
+- Futhi nizobuyiselwa kuLowo owaziyo okungabonakali nokubonakalayo, futhi uyonazisa ngalokho enikwenza. (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
+- Futhi izihlobo zisondelelene kunezinye eNcwadini ka-Allah. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
 """;

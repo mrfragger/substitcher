@@ -3042,4 +3042,158 @@ Matching Phrases 9 words
 - Balina eky'okunywa okuva mu mazzi ag'enjawulo, ne bibonerezo ebiyitiridde, olw'okugaana. (لَهُمْ شَرَابٌ مِّنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْفُرُونَ) 6:70; 10:4
 - Tusaba Katonda mu kifo ky'ekyo ekitatugasa wadde okutukola bubi? (أَنَدْعُو مِن دُونِ اللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا) 6:71; 10:106
 - Katonda amanyi ebiri mu ggulu n'ebiri mu nsi. (أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 5:97; 58:7
+Matching Phrases 8 words
+- Ani eyeenyiganya okusinga oyo agunjiira Katonda ebyobulimba? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا) 6:21; 6:93; 6:144; 7:37; 10:17; 11:18; 18:15; 29:68; 61:7
+- Mazima mu ekyo mulimu akabonero, naye abasinga obungi mu bo tebaali bakkiriza. (إِنَّ فِي ذَلِكَ لَآيَةً وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ) 26:8; 26:67; 26:103; 26:121; 26:139; 26:158; 26:174; 26:190
+- Balyoke batambule mu nsi balabe enkomerero y'abo yali etya. (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ) 12:109; 30:9; 30:42; 35:44; 40:21; 40:82; 47:10
+- Yagamba: Abantu bange, musinze Katonda, temulina katonda mulala okugyako Ye. (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ) 7:65; 7:73; 7:85; 11:50; 11:61; 11:84; 23:23
+- Alimuyingiza mu maliba agakulukutamu emigga, nga bwe balibeeramu emirembe gyonna. (يُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 4:13; 4:57; 4:122; 58:22; 64:9; 65:11
+- Wakati waabwe ku lunaku lw'okuzuukira kisalirwawo ekyo gye baali bakyawukana. (بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 2:113; 10:93; 16:124; 22:69; 32:25; 45:17
+- Nga tebaatambula mu nsi balabe enkomerero yali etya? (أَوَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ) 30:9; 35:44; 40:21; 40:82; 47:10
+- Maliba agakulukutamu emigga, nga bwe balibeeramu emirembe gyonna. (جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا) 4:57; 4:122; 5:119; 64:9; 65:11
+- Oyingiza ekiro mu musana, era oyingiza emisana mu kiro. (تُولِجُ اللَّيْلَ فِي النَّهَارِ وَتُولِجُ النَّهَارَ فِي اللَّيْلِ) 3:27; 22:61; 31:29; 35:13; 57:6
+- Ebiri mu ggulu n'ebiri mu nsi byonna bitendereza Katonda. (سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 59:1; 61:1; 62:1; 64:1
+- Musinze Katonda, temulina katonda mulala okugyako Ye. Nti temutya? (اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا) 7:65; 11:84; 23:23; 23:32
+- Bwe twagamba bamalayika: Muvuuname eri Adamu, ne bavunnama, okugyako Iblisi. (وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا إِبْلِيسَ) 2:34; 17:61; 18:50; 20:116
+- Katonda amanyi ebiri mu ggulu n'ebiri mu nsi. (اللَّهُ وَيَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 3:29; 5:97; 49:16; 58:7
+- Maliba agakulukutamu emigga, nga bwe balibeeramu emirembe gyonna, era ekyo. (جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَذَلِكَ) 4:13; 5:85; 9:89; 57:12
+- Empeera ye eri eri Mukama we, era nga tewali kutya ku bo, era bo. (أَجْرُهُ عِندَ رَبِّهِ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ) 2:112; 2:262; 2:274; 2:277
+- Eri Mukama we, era nga tewali kutya ku bo, era bo tebali mwenna. (عِندَ رَبِّهِ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ) 2:112; 2:262; 2:274; 2:277
+- Oyo eyeetereza, yeetereza ku bwewe, n'oyo abula. (فَمَنِ اهْتَدَى فَإِنَّمَا يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ) 10:108; 17:15; 27:92
+- Yeetereza ku bwewe, n'oyo abula, abula ku bwewe. (يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا) 10:108; 17:15; 39:41
+- Lwaki teyakubbwa akabonero okuva eri Mukama we? Gamba: Mazima. (لَوْلَا أُنزِلَ عَلَيْهِ آيَةٌ مِّن رَّبِّهِ فَقُلْ إِنَّمَا) 10:20; 13:27; 29:50
+- Abo abakkiriza ne bakola emirimu emirungi, bafuna empeera etaakoma. (الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ) 41:8; 84:25; 95:6
+- Ofulumya omulamu okuva mu mufu, era ofulumya omufu okuva mu mulamu. (وَتُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ وَتُخْرِجُ الْمَيِّتَ مِنَ الْحَيِّ) 3:27; 10:31; 30:19
+- Oyo atasalirawo kye Katonda yassa, abo be. (وَمَن لَّمْ يَحْكُم بِمَا أَنزَلَ اللَّهُ فَأُولَئِكَ هُمُ) 5:44; 5:45; 5:47
+- Yatonda eggulu n'ensi n'ebiri wakati waabyo mu nnaku mukaaga. (خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا فِي سِتَّةِ أَيَّامٍ) 25:59; 32:4; 50:38
+- Mazima Katonda alina ekisa ku bantu, naye abasinga obungi. (إِنَّ اللَّهَ لَذُو فَضْلٍ عَلَى النَّاسِ وَلَكِنَّ أَكْثَرَ) 2:243; 10:60; 40:61
+- Katonda teyaabakola bikyamaguzi, naye bo bennyini be baakola ebikyamu. (فَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ وَلَكِن كَانُوا أَنفُسَهُمْ يَظْلِمُونَ) 9:70; 29:40; 30:9
+- Alibasonyiwa ebibi byammwe era alibayingiza mu maliba agakulukutamu emigga. (عَنكُمْ سَيِّئَاتِكُمْ وَلَأُدْخِلَنَّكُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 5:12; 64:9; 66:8
+- Yabakozesa ekiziyiza ku kufiirwa, omusaayi, ennyama y'embizzi, n'ekyattirwa erinnya eritali lya Katonda. (حَرَّمَ عَلَيْكُمُ الْمَيْتَةَ وَالدَّمَ وَلَحْمَ الْخِنزِيرِ وَمَا أُهِلَّ) 2:173; 5:3; 16:115
+- Mazima nze ntidde, bwe nneesobiye Mukama wange, okubonerezebwa kw'olunaku olunene. (إِنِّي أَخَافُ إِنْ عَصَيْتُ رَبِّي عَذَابَ يَوْمٍ عَظِيمٍ) 6:15; 10:15; 39:13
+- Naye oluvanyuma lw'okumanya okubatuukako, olw'obuggya wakati waabwe. (إِلَّا مِن بَعْدِ مَا جَاءَهُمُ الْعِلْمُ بَغْيًا بَيْنَهُمْ) 3:19; 42:14; 45:17
+- Bayimiriza okusaala, era bawa okuva ku byo bye twabawa, mu kwekyama ne mu lwatu. (وَأَقَامُوا الصَّلَاةَ وَأَنفَقُوا مِمَّا رَزَقْنَاهُمْ سِرًّا وَعَلَانِيَةً) 13:22; 14:31; 35:29
+- Tunaasinzanga okugyako Katonda, ekitatuwera wadde okutuwa obubi? (مِن دُونِ اللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا) 6:71; 10:106; 25:55
+- Bakkiriza ekibikkulirwa ggwe n'ekibikkulirwa ng'otonnabaawo. (يُؤْمِنُونَ بِمَا أُنزِلَ إِلَيْكَ وَمَا أُنزِلَ مِن قَبْلِكَ) 2:4; 4:60; 4:162
+- Toto laba nti Katonda akkisa amazzi okuva waggulu? (أَلَمْ تَرَ أَنَّ اللَّهَ أَنزَلَ مِنَ السَّمَاءِ مَاءً) 22:63; 35:27; 39:21
+- Bw'asalirawo ekintu, agamba nti: Beera, era kibeera. (قَضَى أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُن فَيَكُونُ) 3:47; 19:35; 40:68
+- Era ewa Madyani (twatuma) muganda waabwe Shu'aybu. Yagamba: Abantu bange, musinze Katonda. (وَإِلَى مَدْيَنَ أَخَاهُمْ شُعَيْبًا قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ) 7:85; 11:84; 29:36
+- Ekyo kye kimu ku by'amakubo agalabika, tubikutuusa; towaamanya. (ذَلِكَ مِنْ أَنْبَاءِ الْغَيْبِ نُوحِيهِ إِلَيْكَ وَمَا كُنتَ) 3:44; 11:49; 12:102
+- Bwe kituuka ekiseera kyabwe, tebakikubya wadde okukikulembeza. (فَإِذَا جَاءَ أَجَلُهُمْ لَا يَسْتَأْخِرُونَ سَاعَةً وَلَا يَسْتَقْدِمُونَ) 7:34; 10:49; 16:61
+- Era temugobereranga ebigere bya Setaane, mazima ye mulabe wammwe alabika. (وَلَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ إِنَّهُ لَكُمْ عَدُوٌّ مُّبِينٌ) 2:168; 2:208; 6:142
+- Mu bantu mulimu abo abawakanya ku bikwata ku Katonda nga tebalina kumanya. (وَمِنَ النَّاسِ مَن يُجَادِلُ فِي اللَّهِ بِغَيْرِ عِلْمٍ) 22:3; 22:8; 31:20
+- Katonda awawa oyo gw'ayagala, era Katonda wa kisa kinene. (اللَّهِ يُؤْتِيهِ مَن يَشَاءُ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ) 57:21; 57:29; 62:4
+- Buli muntu alisasulwa ebikolwa bye, era tebalikolebwa bikyamu. (تُوَفَّى كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ) 2:281; 3:25; 3:161
+- Era temuttanga omuntu Katonda gwe yaziyiza, okugyako nga kisaanidde. (وَلَا تَقْتُلُوا النَّفْسَ الَّتِي حَرَّمَ اللَّهُ إِلَّا بِالْحَقِّ) 6:151; 17:33; 25:68
+- Bw'asalirawo ekintu, agamba nti: Beera. (إِذَا قَضَى أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُن) 3:47; 19:35; 40:68
+- Muyingire mu ziggo za Jahannama, mubeeremu emirembe gyonna; era kifo kya bamalala kibi! (فَادْخُلُوا أَبْوَابَ جَهَنَّمَ خَالِدِينَ فِيهَا فَلَبِئْسَ مَثْوَى الْمُتَكَبِّرِينَ) 16:29; 39:72; 40:76
+- Tolaba abo abaaweebwa omugabo okuva mu Kitabo? (أَلَمْ تَرَ إِلَى الَّذِينَ أُوتُوا نَصِيبًا مِّنَ الْكِتَابِ) 3:23; 4:44; 4:51
+- Bafuna maliba agakulukutamu emigga, nga bwe balibeeramu emirembe gyonna. (لَهُمْ جَنَّاتٌ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 3:198; 5:119; 9:89
+- Abantu bange, mukole nga bwe muli, nange nkola, era mujja kumanya. (يَاقَوْمِ اعْمَلُوا عَلَى مَكَانَتِكُمْ إِنِّي عَامِلٌ فَسَوْفَ تَعْلَمُونَ) 6:135; 11:93; 39:39
+- Oyo ayeetaaga Katonda n'Omubaka we, alifuna omuliro Jahannama, nga bwe alibeeramu emirembe gyonna. (اللَّهَ وَرَسُولَهُ فَأَنَّ لَهُ نَارَ جَهَنَّمَ خَالِدًا فِيهَا) 9:63; 72:23
+- Twabikka ku mitima gyabwe, baleme kukitegeera, ne mu matu gaabwe obuzito. (عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا) 17:46; 18:57
+- Mu kigalo kyonna we twatuma omutiisa, abagagga baakyo baagamba: Ffe. (فِي قَرْيَةٍ مِّن نَّذِيرٍ إِلَّا قَالَ مُتْرَفُوهَا إِنَّا) 34:34; 43:23
+- Baagamba: Tusabire Mukama wo, atunnyonnyole kye kiri. (قَالُوا ادْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِيَ) 2:68; 2:70
+- Baliyogera nti: Katonda. Gamba: Okutenderezebwa kwa Katonda! Naye abasinga obungi. (لَيَقُولُنَّ اللَّهُ قُلِ الْحَمْدُ لِلَّهِ بَلْ أَكْثَرُهُمْ لَا) 29:63; 31:25
+- N'okuddamu kw'abantu be kyali kitundu nti: Bamugobemu. (وَمَا كَانَ جَوَابَ قَوْمِهِ إِلَّا أَن قَالُوا أَخْرِجُوهُم) 7:82; 27:56
+- Emigga gikulukuta wansi waabyo, nga bwe balibeeramu emirembe gyonna; ekyo kwe kuwangula okukulu. (تَحْتَهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا ذَلِكَ الْفَوْزُ الْعَظِيمُ) 9:100; 64:9
+- Abo be bali ku kkubo eggolokofu okuva eri Mukama waabwe, era abo be bawangudde. (أُولَئِكَ عَلَى هُدًى مِّن رَّبِّهِمْ وَأُولَئِكَ هُمُ الْمُفْلِحُونَ) 2:5; 31:5
+- Oyo alituukwangako okubonerezebwa okumuswaza, n'okubonerezebwa okutaggwaako. (مَن يَأْتِيهِ عَذَابٌ يُخْزِيهِ وَيَحِلُّ عَلَيْهِ عَذَابٌ مُّقِيمٌ) 11:39; 39:40
+- Mutambule mu nsi, mulabe enkomerero y'abo abaakannya. (فَسِيرُوا فِي الْأَرْضِ فَانظُرُوا كَيْفَ كَانَ عَاقِبَةُ الْمُكَذِّبِينَ) 3:137; 16:36
+- Tebalikwegomba lubeerera, olw'ebyo emikono gyabwe bye gyakulembeza, era Katonda amanyi abakola ebikyamu. (يَتَمَنَّوْهُ أَبَدًا بِمَا قَدَّمَتْ أَيْدِيهِمْ وَاللَّهُ عَلِيمٌ بِالظَّالِمِينَ) 2:95; 62:7
+- Ye amanyi oyo abula okuva mu kkubo lye, era ye amanyi. (هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ) 53:30; 68:7
+- Mazima Katonda ye Mukama wange era Mukama wammwe, nno mumsinze; kkubo erigolokofu. (إِنَّ اللَّهَ رَبِّي وَرَبُّكُمْ فَاعْبُدُوهُ هَذَا صِرَاطٌ مُّسْتَقِيمٌ) 3:51; 19:36
+- Alina ekisa ku bantu, naye abasinga obungi tebawaanyisa. (لَذُو فَضْلٍ عَلَى النَّاسِ وَلَكِنَّ أَكْثَرَهُمْ لَا يَشْكُرُونَ) 10:60; 27:73
+- Tetwatonda eggulu n'ensi n'ebiri wakati waabyo, okugyako mu mazima n'ekiseera ekiterekeddwa. (السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا إِلَّا بِالْحَقِّ وَأَجَلٍ مُّسَمًّى) 30:8; 46:3
+- Baleekera, bakkiririrenga mu butaliimu, era bazannyenga, okutuusa lwe balisanga olunaku lwe balangirirwa. (فَذَرْهُمْ يَخُوضُوا وَيَلْعَبُوا حَتَّى يُلَاقُوا يَوْمَهُمُ الَّذِي يُوعَدُونَ) 43:83; 70:42
+- Bwe basanga abakkiriza, bagamba nti: Tukkiriza, era bwe baba bokka. (وَإِذَا لَقُوا الَّذِينَ آمَنُوا قَالُوا آمَنَّا وَإِذَا خَلَوْا) 2:14; 2:76
+- Bayimiriza Tawuraati n'Injiiri n'ekibassiddwa okuva eri Mukama waabwe. (أَقَامُوا التَّوْرَاةَ وَالْإِنجِيلَ وَمَا أُنزِلَ إِلَيْهِم مِّن رَّبِّهِمْ) 5:66; 5:68
+- Amanyi ebiri mu maaso gaabwe n'ebiri emabega waabwe, era bo tebakimanyi. (يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ) 2:255; 20:110
+- Era ye yatonda eggulu n'ensi mu nnaku mukaaga. (وَهُوَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ) 11:7; 57:4
+- Mazima mu ekyo mulimu akabonero eri mmwe, bwe muba bakkiriza. (إِنَّ فِي ذَلِكَ لَآيَةً لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ) 2:248; 3:49
+- Kiki ekyabuziyiza abantu okukkiriza, oluvanyuma lw'okubatuukako obulungamya? (وَمَا مَنَعَ النَّاسَ أَن يُؤْمِنُوا إِذْ جَاءَهُمُ الْهُدَى) 17:94; 18:55
+- Ne baateekawo abagabanya mu butongole bwa Katonda, okuboona ku kkubo lye. Gamba: Mweyagaliranga. (وَجَعَلُوا لِلَّهِ أَندَادًا لِّيُضِلُّوا عَن سَبِيلِهِ قُلْ تَمَتَّعُوا) 14:30; 39:8
+- Ne bawuniikirwa nti omutiisa yabajjira okuva mu bo, era abakafiiri baagamba: Ono. (وَعَجِبُوا أَن جَاءَهُم مُّنذِرٌ مِّنْهُمْ وَقَالَ الْكَافِرُونَ هَذَا) 38:4; 50:2
+- Mazima Mukama wo ye amanyi oyo abula okuva mu kkubo lye. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ) 53:30; 68:7
+- Ng'oyo akozesa eby'obugagga bye okwenyigiriza mu bantu, era takkiriza Katonda. (كَالَّذِي يُنفِقُ مَالَهُ رِئَاءَ النَّاسِ وَلَا يُؤْمِنُ بِاللَّهِ) 2:264; 4:38
+- Mugabe okuva ku byo bye twabawa, nga (olunaku) tennabaawo. (أَنفِقُوا مِمَّا رَزَقْنَاكُم مِّن قَبْلِ أَن يَأْتِيَ) 2:254; 63:10
+- Yabagondesa ebiri mu ggulu n'ebiri mu nsi. (سَخَّرَ لَكُم مَّا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 31:20; 45:13
+- Era mazima ffe tuli mu kusosola ku ekyo gye tutuukiriza. (وَإِنَّنَا لَفِي شَكٍّ مِّمَّا تَدْعُونَا إِلَيْهِ مُرِيبٍ) 11:62; 14:9
+- Mazima Mukama wo agaziramu ebiri ku by'obulamu eri oyo gw'ayagala, era agifuula ebitono. Mazima ye. (إِنَّ رَبَّكَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ وَيَقْدِرُ إِنَّهُ) 17:30; 34:36
+- Mukama w'eggulu n'ensi n'ebiri wakati waabyo, bwe muba bakkiriza ddala. (رَبُّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا إِن كُنتُم مُّوقِنِينَ) 26:24; 44:7
+- Tukkiriza Katonda n'ekyabikkulirwa ffe n'ekyabikkulirwa. (آمَنَّا بِاللَّهِ وَمَا أُنزِلَ إِلَيْنَا وَمَا أُنزِلَ إِلَى) 2:136; 3:199
+- Abo abaakola ebikyamu, okubonaabona kwabakwata, ne babeera mu nnyumba zaabwe nga bwenkalamu. (وَأَخَذَ الَّذِينَ ظَلَمُوا الصَّيْحَةُ فَأَصْبَحُوا فِي دِيَارِهِمْ جَاثِمِينَ) 11:67; 11:94
+- Temulina kibi ku ekyo kye bakola ku mibiri gyabwe. (فَلَا جُنَاحَ عَلَيْكُمْ فِيمَا فَعَلْنَ فِي أَنفُسِهِنَّ) 2:234; 2:240
+- Mukama wo ye amanyi oyo abula okuva mu kkubo lye, era ye. (رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ) 53:30; 68:7
+- N'omwoyo (okubikkulirwa) okuva mu lagizo lye, eri oyo gw'ayagala okuva mu baddu be. (بِالرُّوحِ مِنْ أَمْرِهِ عَلَى مَن يَشَاءُ مِنْ عِبَادِهِ) 16:2; 40:15
+- Ne tuwa Isa mutabani wa Maryamu obubonero obulabika, ne tumuwagira n'Omwoyo Omutukuvu. (وَآتَيْنَا عِيسَى ابْنَ مَرْيَمَ الْبَيِّنَاتِ وَأَيَّدْنَاهُ بِرُوحِ الْقُدُسِ) 2:87; 2:253
+- Asalire wakati waabwe ku lunaku lw'okuzuukira, mu ekyo gye baali bakyawukana. (لَيَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ) 16:124; 22:69
+- Ne tukyusa ekigulu kyakyo okuba wansi, ne tubakonkako amayinja ageeyokebwa. (جَعَلْنَا عَالِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةً مِّن سِجِّيلٍ) 11:82; 15:74
+- Kye kimu gye bali, oba obatiisizza oba tobaatiisizza, tebakkiriza. (سَوَاءٌ عَلَيْهِمْ أَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ) 2:6; 36:10
+- Ng'oggyeko abantu, mwegombe okufa, bwe muba ab'amazima. (مِّن دُونِ النَّاسِ فَتَمَنَّوُا الْمَوْتَ إِن كُنتُمْ صَادِقِينَ) 2:94; 62:6
+- Katonda, temulina katonda mulala okugyako Ye. Nti temutya? (اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 23:23; 23:32
+- Bwe tukuza okulaba kitundu ku ekyo kye tubalagaanya, oba ne tukutta, era gyetuli gye bazzibwa. (وَإِمَّا نُرِيَنَّكَ بَعْضَ الَّذِي نَعِدُهُمْ أَوْ نَتَوَفَّيَنَّكَ فَإِلَيْنَا) 10:46; 40:77
+- Baagamba: Bwe tufa ne tufuuka enfuufu n'amagumba, abo tuzuukizibwa? (قَالُوا أَإِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَامًا أَإِنَّا لَمَبْعُوثُونَ) 23:82; 56:47
+- Mazima ekisa kiri mu mikono gya Katonda, akuwa oyo gw'ayagala, era Katonda. (إِنَّ الْفَضْلَ بِيَدِ اللَّهِ يُؤْتِيهِ مَن يَشَاءُ وَاللَّهُ) 3:73; 57:29
+- Era muddayo eri Amanyi ebikweze n'ebirabikira, naye alibategeeza ebyo bye mwakolanga. (إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ) 9:105; 62:8
+- Mmwe abakkiriza, mujjukire ekisa kya Katonda ku mmwe, bwe. (يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا نِعْمَتَ اللَّهِ عَلَيْكُمْ إِذْ) 5:11; 33:9
+- Era twatuma ng'otonnabaawo, okugyako abasajja be twabikkulira. (وَمَا أَرْسَلْنَا مِن قَبْلِكَ إِلَّا رِجَالًا نُّوحِي إِلَيْهِم) 12:109; 16:43
+- Alimusonyiwa ebibi bye, era alimuyingiza mu maliba agakulukutamu emigga. (يُكَفِّرْ عَنْهُ سَيِّئَاتِهِ وَيُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا) 64:9; 66:8
+- Oyo alwala oba ali mu lugendo, abalirira mu nnaku ndala. (مَّرِيضًا أَوْ عَلَى سَفَرٍ فَعِدَّةٌ مِّنْ أَيَّامٍ أُخَرَ) 2:184; 2:185
+- Tegoberera okugyako okukakasa, era tebakola okugyako okulagira. (إِن يَتَّبِعُونَ إِلَّا الظَّنَّ وَإِنْ هُمْ إِلَّا يَخْرُصُونَ) 6:116; 10:66
+- Mu bo mulimu ekyokulabirako eky'omukisa eri oyo asuubira Katonda n'olunaku olusembayo. (أُسْوَةٌ حَسَنَةٌ لِّمَن كَانَ يَرْجُو اللَّهَ وَالْيَوْمَ الْآخِرَ) 33:21; 60:6
+- Era tetwatonda eggulu n'ensi n'ebiri wakati waabyo, okugyako mu mazima. (وَمَا خَلَقْنَا السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا إِلَّا بِالْحَقِّ) 15:85; 46:3
+- Yingiza omukono gwo mu kifuba kyo, gufulume nga guyaka, nga tewali kibi. (يَدَكَ فِي جَيْبِكَ تَخْرُجْ بَيْضَاءَ مِنْ غَيْرِ سُوءٍ) 27:12; 28:32
+- Yeeyawula ku kisa kye oyo gw'ayagala, era Katonda wa kisa kinene. (يَخْتَصُّ بِرَحْمَتِهِ مَن يَشَاءُ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ) 2:105; 3:74
+- Toto manya nti Katonda ye mwine obwakabaka bw'eggulu n'ensi? (أَلَمْ تَعْلَمْ أَنَّ اللَّهَ لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ) 2:107; 5:40
+- Ne kye kimu kya bulungi kye muba mwakulembezza, mulikiraba eri Katonda. (وَمَا تُقَدِّمُوا لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ اللَّهِ) 2:110; 73:20
+- Era okuva mu kifo kyonna gy'ova, kyola amaso go mu buziikizo bw'Omuzikiti Omutukuvu. (وَمِنْ حَيْثُ خَرَجْتَ فَوَلِّ وَجْهَكَ شَطْرَ الْمَسْجِدِ الْحَرَامِ) 2:149; 2:150
+- Abo abaakulembera mmwe baayitawo, era tolifuna nkyukakyuka mu nkola ya Katonda. (خَلَوْا مِن قَبْلُ وَلَن تَجِدَ لِسُنَّةِ اللَّهِ تَبْدِيلًا) 33:62; 48:23
+- Oyo alina ebiri mu ggulu n'ebiri mu nsi. (الَّذِي لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 34:1; 42:53
+- Era omukazi yenna tajjulwa wadde okuzaala, okugyako mu kumanya kwe. (وَمَا تَحْمِلُ مِنْ أُنثَى وَلَا تَضَعُ إِلَّا بِعِلْمِهِ) 35:11; 41:47
+- Yagondesa ekiro, n'enjuba n'omwezi; buli kimu kitambula okutuusa mu kiseera ekiterekeddwa. (اللَّيْلِ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ كُلٌّ يَجْرِي لِأَجَلٍ مُّسَمًّى) 35:13; 39:5
+- Emigga gikulukuta wansi waabyo, nga bwe balibeeramu emirembe gyonna, era ekyo kwe musaala. (تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَذَلِكَ جَزَاءُ) 5:85; 20:76
+- Yagamba: Nedda, emitima gyammwe gye gyabalaga ekyo; okugumiikiriza kwe kuguma. (قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْرًا فَصَبْرٌ جَمِيلٌ) 12:18; 12:83
+- Ebiri mu ggulu n'ebiri mu nsi, era nti Katonda. (مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَأَنَّ اللَّهَ) 5:97; 22:64
+- Era buli mubaka eyabajjiranga, baamusekereranga. (وَمَا يَأْتِيهِم مِّن رَّسُولٍ إِلَّا كَانُوا بِهِ يَسْتَهْزِئُونَ) 15:11; 36:30
+- Baagamba: Ayi Musa, ggwe osuula, oba ffe ffe abasula? (قَالُوا يَامُوسَى إِمَّا أَن تُلْقِيَ وَإِمَّا أَن نَّكُونَ) 7:115; 20:65
+- Ye akuwangira, era mu mmwe mulimu oyo azzibwa mu kiseera ekisinga obunafu, okusobola. (يَتَوَفَّاكُمْ وَمِنكُم مَّن يُرَدُّ إِلَى أَرْذَلِ الْعُمُرِ لِكَيْ) 16:70; 22:5
+- Bafuna maliba agakulukutamu emigga, nga bwe balibeeramu emirembe gyonna. (رَبِّهِمْ جَنَّاتٌ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 3:15; 3:136
+- Era twabikka ku mitima gyabwe, baleme kukitegeera, ne mu matu gaabwe obuzito. (وَجَعَلْنَا عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ) 17:46; 18:57
+- Mazima endagaano ya Katonda ya mazima, naye abasinga obungi tebamanyi. (إِنَّ وَعْدَ اللَّهِ حَقٌّ وَلَكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ) 10:55; 28:13
+- Ekyo kuba baawakananga Katonda n'Omubaka we; era oyo awakana Katonda. (ذَلِكَ بِأَنَّهُمْ شَاقُّوا اللَّهَ وَرَسُولَهُ وَمَن يُشَاقِقِ اللَّهَ) 8:13; 59:4
+- Era ku lunaku lw'alibakoowoola, n'agamba: Abagabanya bange be mwabadde mulowoozako bali ludda wa? (وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ أَيْنَ شُرَكَائِيَ الَّذِينَ كُنتُمْ تَزْعُمُونَ) 28:62; 28:74
+- Nga tebalaba nti Katonda, eyatonda eggulu n'ensi, asobola okutonda abafaananako? (أَوَلَمْ يَرَوْا أَنَّ اللَّهَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ) 17:99; 46:33
+- (Ye) eyabatonda okuva mu ttaka, oluvanyuma okuva mu ntondo y'amazzi, oluvanyuma. (بِالَّذِي خَلَقَكَ مِن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ) 18:37; 40:67
+- Baagamba: Ayi Mukama waffe! Lwaki tewatuma ng'otonnabaawo, tuligobereranga ebiragiro byo? (لَقَالُوا رَبَّنَا لَوْلَا أَرْسَلْتَ إِلَيْنَا رَسُولًا فَنَتَّبِعَ آيَاتِكَ) 20:134; 28:47
+- Oluvanyuma bazzibwa eri Mukama waabwe, n'alibategeeza ebyo bye baakolanga. (ثُمَّ إِلَى رَبِّهِم مَّرْجِعُهُمْ فَيُنَبِّئُهُم بِمَا كَانُوا يَعْمَلُونَ) 6:108; 39:7
+- Tebaalina kumanya ku ekyo; tebagoberera okugyako okukakasa. (مَّا لَهُم بِذَلِكَ مِنْ عِلْمٍ إِنْ هُمْ إِلَّا) 43:20; 45:24
+- Mazima twasanga bakkadde baffe ku ddiini, era ffe twagoberera ebigere byabwe. (إِنَّا وَجَدْنَا آبَاءَنَا عَلَى أُمَّةٍ وَإِنَّا عَلَى آثَارِهِم) 43:22; 43:23
+- Abo abaawebwa ekitabo, tebaayawukana, okugyako oluvanyuma lw'okumanya okubatuukako. (الَّذِينَ أُوتُوا الْكِتَابَ إِلَّا مِن بَعْدِ مَا جَاءَهُمُ) 3:19; 98:4
+- Era Ibrahimu bwe yagamba: Mukama wange, fula ekibuga kino nga kya mirembe. (وَإِذْ قَالَ إِبْرَاهِيمُ رَبِّ اجْعَلْ هَذَا بَلَدًا آمِنًا) 2:126; 14:35
+- Era yabateerawo amatu, amaaso n'emitima; naye mweyongera okutanawaanyisa. (وَجَعَلَ لَكُمُ السَّمْعَ وَالْأَبْصَارَ وَالْأَفْئِدَةَ قَلِيلًا مَّا تَشْكُرُونَ) 32:9; 67:23
+- Abo abawakana ku bikwata ku bibonero bya Katonda, nga tebalina bukakafu obwabatuukako. (الَّذِينَ يُجَادِلُونَ فِي آيَاتِ اللَّهِ بِغَيْرِ سُلْطَانٍ أَتَاهُمْ) 40:35; 40:56
+- Nno mugoberere ddiini ya Ibrahimu ey'omwesimbu, era teyali wa ku bakuumi b'amashanga. (فَاتَّبِعُوا مِلَّةَ إِبْرَاهِيمَ حَنِيفًا وَمَا كَانَ مِنَ الْمُشْرِكِينَ) 3:95; 16:123
+- Era bwe twabakunula okuva eri abantu ba Firawo, abaabakosebanga obubonero obubi. (وَإِذْ أَنجَيْنَاكُم مِّنْ آلِ فِرْعَوْنَ يَسُومُونَكُمْ سُوءَ الْعَذَابِ) 7:141; 14:6
+- Ekyo kye ddiini egolokofu, naye abantu abasinga obungi tebamanyi. (ذَلِكَ الدِّينُ الْقَيِّمُ وَلَكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ) 12:40; 30:30
+- Toto laba nti Katonda yabagondesa ebiri mu. (أَلَمْ تَرَ أَنَّ اللَّهَ سَخَّرَ لَكُم مَّا فِي) 22:65; 31:20
+- Abo abagaana, baagamba: Kino si kyokka obulogo obw'olwatu. (لَقَالَ الَّذِينَ كَفَرُوا إِنْ هَذَا إِلَّا سِحْرٌ مُّبِينٌ) 6:7; 11:7
+- Era bwe basomerwa ebigambo byaffe ebigolokofu, abo abagaana bagamba. (وَإِذَا تُتْلَى عَلَيْهِمْ آيَاتُنَا بَيِّنَاتٍ قَالَ الَّذِينَ كَفَرُوا) 19:73; 46:7
+- Maliba ag'enkomerero, agakulukutamu emigga, nga bwe balibeeramu emirembe gyonna. (جَنَّاتُ عَدْنٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 20:76; 98:8
+- Atonda ky'ayagala; mazima Katonda muyinza ku buli kintu. (مَا يَشَاءُ إِنَّ اللَّهَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ) 24:45; 35:1
+- Asonyiwe ebibi byammwe era abakubye ebbanga okutuuka ku kiseera ekiterekeddwa. (لِيَغْفِرَ لَكُم مِّن ذُنُوبِكُمْ وَيُؤَخِّرَكُمْ إِلَى أَجَلٍ مُّسَمًّى) 14:10; 71:4
+- Mwagala okuziyiza okuva ku ekyo bakkadde baffe gye baasinzanga? (تُرِيدُونَ أَن تَصُدُّونَا عَمَّا كَانَ يَعْبُدُ آبَاؤُنَا) 14:10; 34:43
+- Era Mukama wo bwe yagamba bamalayika: Mazima nze nkola omuntu okuva mu ttaka. (وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي خَالِقٌ بَشَرًا مِّن) 15:28; 38:71
+- Era ye asindika embuyaga ng'okusanyusa, nga ng'okusaasira kwe tekunnatuuka. (وَهُوَ الَّذِي يُرْسِلُ الرِّيَاحَ بُشْرًا بَيْنَ يَدَيْ رَحْمَتِهِ) 7:57; 25:48
+- Gamba: Mutambule mu nsi, mulabe enkomerero yali etya. (قُلْ سِيرُوا فِي الْأَرْضِ فَانظُرُوا كَيْفَ كَانَ عَاقِبَةُ) 27:69; 30:42
+- Mazima mu kutonda eggulu n'ensi, n'okukyukakyuka kw'ekiro n'emisana, (mulimu obubonero). (إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ) 2:164; 3:190
+- Ani ayinza okwola Katonda obwola obulungi, naye n'agubwezzaamu nga bungi? (مَّن ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا فَيُضَاعِفَهُ) 2:245; 57:11
+- Nno salirawo wakati waabwe kye Katonda yassa, era togobereranga kwagala kwabwe. (فَاحْكُم بَيْنَهُم بِمَا أَنزَلَ اللَّهُ وَلَا تَتَّبِعْ أَهْوَاءَهُمْ) 5:48; 5:49
+- Tebaali kulinda kyokka okubajjira bamalayika, oba okubajjira etteeka lya Mukama wo? (هَلْ يَنظُرُونَ إِلَّا أَن تَأْتِيَهُمُ الْمَلَائِكَةُ أَوْ يَأْتِيَ) 6:158; 16:33
+- Mazima abo abagunjiira Katonda ebyobulimba tebalwangula. (إِنَّ الَّذِينَ يَفْتَرُونَ عَلَى اللَّهِ الْكَذِبَ لَا يُفْلِحُونَ) 10:69; 16:116
+- Nga nkola y'abantu ba Firawo n'abo abaabakulembera; baakannya ebigambo byaffe. (كَدَأْبِ آلِ فِرْعَوْنَ وَالَّذِينَ مِن قَبْلِهِمْ كَذَّبُوا بِآيَاتِنَا) 3:11; 8:54
+- Era abagamba eby'essanyu abakkiriza abakola emirimu emirungi, nti balina empeera. (وَيُبَشِّرُ الْمُؤْمِنِينَ الَّذِينَ يَعْمَلُونَ الصَّالِحَاتِ أَنَّ لَهُمْ أَجْرًا) 17:9; 18:2
+- Katonda agaziramu ebiri ku by'obulamu eri oyo gw'ayagala okuva mu baddu be, era agifuula ebitono. (اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ) 28:82; 29:62
+- Era muddayo eri Amanyi ebikweze n'ebirabikira, naye alibategeeza ebyo bye mwakolanga. (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
+- Era ab'ekika, abamu ku bo be basinga abalala okusemberera, mu Kitabo kya Katonda. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
 """;

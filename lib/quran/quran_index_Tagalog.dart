@@ -3161,4 +3161,158 @@ Matching Phrases 9 words
 - Sila ay may inuming tubig na kumukulo at isang masakit na parusa dahil sa kanilang pagtanggi. (لَهُمْ شَرَابٌ مِّنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْفُرُونَ) 6:70; 10:4
 - Tayo ba ay tatawag maliban kay Allah ng hindi tayo nakikinabang o nakakapinsala? (أَنَدْعُو مِن دُونِ اللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا) 6:71; 10:106
 - Na si Allah ay nakakaalam ng kung ano ang nasa mga langit at kung ano ang nasa lupa. (أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 5:97; 58:7
+Matching Phrases 8 words
+- Sino ang higit na mapang-api kaysa sa nag-iimbento ng kasinungalingan laban kay Allah? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا) 6:21; 6:93; 6:144; 7:37; 10:17; 11:18; 18:15; 29:68; 61:7
+- Katotohanan, dito ay may tanda, ngunit ang karamihan sa kanila ay hindi nananampalataya. (إِنَّ فِي ذَلِكَ لَآيَةً وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ) 26:8; 26:67; 26:103; 26:121; 26:139; 26:158; 26:174; 26:190
+- Upang sila ay maglakbay sa lupain at makita kung paano ang naging wakas ng mga iyon. (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ) 12:109; 30:9; 30:42; 35:44; 40:21; 40:82; 47:10
+- Siya ay nagsabi: "O aking mga tao! Sambahin ninyo si Allah, wala kayong ibang diyos." (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ) 7:65; 7:73; 7:85; 11:50; 11:61; 11:84; 23:23
+- Papapasukin niya siya sa mga hardin na may mga ilog na dumadaloy sa ilalim nito, mananatili sila roon magpakailanman. (يُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 4:13; 4:57; 4:122; 58:22; 64:9; 65:11
+- Sa pagitan nila sa Araw ng Paghuhukom, tungkol sa mga bagay na kanilang pinagkaiba-iba. (بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 2:113; 10:93; 16:124; 22:69; 32:25; 45:17
+- Hindi ba sila naglakbay sa lupain at tiningnan kung paano ang naging wakas ng...? (أَوَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ) 30:9; 35:44; 40:21; 40:82; 47:10
+- Mga hardin na may mga ilog na dumadaloy sa ilalim nito, mananatili sila roon magpakailanman. (جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا) 4:57; 4:122; 5:119; 64:9; 65:11
+- Ipinapasok mo ang gabi sa araw at ipinapasok mo ang araw sa gabi. (تُولِجُ اللَّيْلَ فِي النَّهَارِ وَتُولِجُ النَّهَارَ فِي اللَّيْلِ) 3:27; 22:61; 31:29; 35:13; 57:6
+- Nagpupuri kay Allah ang lahat ng nasa kalangitan at lahat ng nasa kalupaan. (سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 59:1; 61:1; 62:1; 64:1
+- Sambahin ninyo si Allah, wala kayong ibang diyos maliban sa Kanya. Hindi ba kayo...? (اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا) 7:65; 11:84; 23:23; 23:32
+- At nang sabihin Namin sa mga anghel: "Magpatirapa kayo kay Adan," at sila ay nagpatirapa maliban kay Iblis. (وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا إِبْلِيسَ) 2:34; 17:61; 18:50; 20:116
+- Si Allah ay nakaaalam ng lahat ng nasa kalangitan at lahat ng nasa kalupaan. (اللَّهُ وَيَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 3:29; 5:97; 49:16; 58:7
+- Mga hardin na may mga ilog na dumadaloy sa ilalim nito, mananatili sila roon magpakailanman, at iyon ay... (جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَذَلِكَ) 4:13; 5:85; 9:89; 57:12
+- Ang kanyang gantimpala ay nasa kanyang Panginoon, at walang takot sa kanila, ni... (أَجْرُهُ عِندَ رَبِّهِ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ) 2:112; 2:262; 2:274; 2:277
+- Nasa kanyang Panginoon, at walang takot sa kanila, ni sila ay malulungkot. (عِندَ رَبِّهِ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ) 2:112; 2:262; 2:274; 2:277
+- Ang sinumang gumagabay, siya ay gumagabay para sa kanyang sarili, at ang sinumang naliligaw... (فَمَنِ اهْتَدَى فَإِنَّمَا يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ) 10:108; 17:15; 27:92
+- Siya ay gumagabay para sa kanyang sarili, at ang sinumang naliligaw, siya ay naliligaw sa kanyang sariling kapahamakan. (يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا) 10:108; 17:15; 39:41
+- Bakit hindi pinababa sa kanya ang isang tanda mula sa kanyang Panginoon? Sabihin: "Katotohanan..." (لَوْلَا أُنزِلَ عَلَيْهِ آيَةٌ مِّن رَّبِّهِ فَقُلْ إِنَّمَا) 10:20; 13:27; 29:50
+- Ang mga sumasampalataya at gumagawa ng mabubuting gawa, sila ay may gantimpalang walang katapusan. (الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ) 41:8; 84:25; 95:6
+- At inilalabas mo ang buhay mula sa patay, at inilalabas mo ang patay mula sa buhay. (وَتُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ وَتُخْرِجُ الْمَيِّتَ مِنَ الْحَيِّ) 3:27; 10:31; 30:19
+- At ang sinumang hindi humahatol ayon sa ipinababa ni Allah, sila ay... (وَمَن لَّمْ يَحْكُم بِمَا أَنزَلَ اللَّهُ فَأُولَئِكَ هُمُ) 5:44; 5:45; 5:47
+- Nilikha Niya ang kalangitan at kalupaan at ang nasa pagitan nito sa anim na araw. (خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا فِي سِتَّةِ أَيَّامٍ) 25:59; 32:4; 50:38
+- Katotohanan, si Allah ay may pagpapala sa sangkatauhan, ngunit ang karamihan... (إِنَّ اللَّهَ لَذُو فَضْلٍ عَلَى النَّاسِ وَلَكِنَّ أَكْثَرَ) 2:243; 10:60; 40:61
+- Hindi si Allah ay upang apihin sila, ngunit sila ang nang-api sa kanilang sariling mga kaluluwa. (فَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ وَلَكِن كَانُوا أَنفُسَهُمْ يَظْلِمُونَ) 9:70; 29:40; 30:9
+- Patatawarin Niya ang inyong mga kasalanan at papapasukin kayo sa mga hardin na may mga ilog na dumadaloy sa ilalim nito. (عَنكُمْ سَيِّئَاتِكُمْ وَلَأُدْخِلَنَّكُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 5:12; 64:9; 66:8
+- Ipinagbawal Niya sa inyo ang patay na hayop, dugo, karne ng baboy, at ang inihandog... (حَرَّمَ عَلَيْكُمُ الْمَيْتَةَ وَالدَّمَ وَلَحْمَ الْخِنزِيرِ وَمَا أُهِلَّ) 2:173; 5:3; 16:115
+- Katotohanan, ako ay natatakot, kung ako ay sumuway sa aking Panginoon, sa kaparusahan ng isang dakilang Araw. (إِنِّي أَخَافُ إِنْ عَصَيْتُ رَبِّي عَذَابَ يَوْمٍ عَظِيمٍ) 6:15; 10:15; 39:13
+- Maliban na lamang matapos dumating sa kanila ang kaalaman, dahil sa pagmamataas sa pagitan nila. (إِلَّا مِن بَعْدِ مَا جَاءَهُمُ الْعِلْمُ بَغْيًا بَيْنَهُمْ) 3:19; 42:14; 45:17
+- Sila ay nagtatag ng pagdarasal at gumastos mula sa aming ipinagkaloob sa kanila, lihim at hayagan. (وَأَقَامُوا الصَّلَاةَ وَأَنفَقُوا مِمَّا رَزَقْنَاهُمْ سِرًّا وَعَلَانِيَةً) 13:22; 14:31; 35:29
+- Bukod kay Allah, ang hindi nakapagpapakinabang at nakapagpapanakit sa atin. (مِن دُونِ اللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا) 6:71; 10:106; 25:55
+- Sila ay sumasampalataya sa ipinababa sa iyo at sa ipinababa bago mo. (يُؤْمِنُونَ بِمَا أُنزِلَ إِلَيْكَ وَمَا أُنزِلَ مِن قَبْلِكَ) 2:4; 4:60; 4:162
+- Hindi mo ba nakita na si Allah ay nagpababa ng tubig mula sa langit? (أَلَمْ تَرَ أَنَّ اللَّهَ أَنزَلَ مِنَ السَّمَاءِ مَاءً) 22:63; 35:27; 39:21
+- Kapag Siya ay nagpasiya ng isang bagay, sasabihin lamang Niya: "Mangyari," at ito ay mangyayari. (قَضَى أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُن فَيَكُونُ) 3:47; 19:35; 40:68
+- At sa Madyan, ang kanilang kapatid na si Shu'ayb, ay nagsabi: "O aking mga tao! Sambahin ninyo si Allah." (وَإِلَى مَدْيَنَ أَخَاهُمْ شُعَيْبًا قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ) 7:85; 11:84; 29:36
+- Iyon ay mula sa balita ng hindi nakikita na aming inihayag sa iyo, at ikaw ay hindi... (ذَلِكَ مِنْ أَنبَاءِ الْغَيْبِ نُوحِيهِ إِلَيْكَ وَمَا كُنتَ) 3:44; 11:49; 12:102
+- At kapag dumating ang kanilang takdang oras, hindi nila maantala ng isang saglit ni mapapaaga. (فَإِذَا جَاءَ أَجَلُهُمْ لَا يَسْتَأْخِرُونَ سَاعَةً وَلَا يَسْتَقْدِمُونَ) 7:34; 10:49; 16:61
+- At huwag ninyong sundin ang mga yapak ni Satanas, katotohanan siya ay isang lantad na kaaway ninyo. (وَلَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ إِنَّهُ لَكُمْ عَدُوٌّ مُّبِينٌ) 2:168; 2:208; 6:142
+- At sa mga tao ay may mga nangangatwiran tungkol kay Allah nang walang kaalaman. (وَمِنَ النَّاسِ مَن يُجَادِلُ فِي اللَّهِ بِغَيْرِ عِلْمٍ) 22:3; 22:8; 31:20
+- Si Allah ay nagbibigay nito sa sinumang Kanyang nais, at si Allah ay May-ari ng dakilang pagpapala. (اللَّهِ يُؤْتِيهِ مَن يَشَاءُ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ) 57:21; 57:29; 62:4
+- Bawat kaluluwa ay babayaran nang buo sa kanyang kinita, at hindi sila aapihin. (تُوَفَّى كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ) 2:281; 3:25; 3:161
+- At huwag ninyong patayin ang kaluluwa na ipinagbawal ni Allah, maliban sa makatarungang dahilan. (وَلَا تَقْتُلُوا النَّفْسَ الَّتِي حَرَّمَ اللَّهُ إِلَّا بِالْحَقِّ) 6:151; 17:33; 25:68
+- Kapag Siya ay nagpasiya ng isang bagay, sasabihin lamang Niya: "Mangyari." (إِذَا قَضَى أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُن) 3:47; 19:35; 40:68
+- Pumasok kayo sa mga pintuan ng Impiyerno, na mananatili kayo roon magpakailanman, at kayong masama ang tirahan ng mga mapagmataas! (فَادْخُلُوا أَبْوَابَ جَهَنَّمَ خَالِدِينَ فِيهَا فَلَبِئْسَ مَثْوَى الْمُتَكَبِّرِينَ) 16:29; 39:72; 40:76
+- Hindi mo ba nakita ang mga binigyan ng bahagi ng Kasulatan? (أَلَمْ تَرَ إِلَى الَّذِينَ أُوتُوا نَصِيبًا مِّنَ الْكِتَابِ) 3:23; 4:44; 4:51
+- Sila ay may mga hardin na may mga ilog na dumadaloy sa ilalim nito, mananatili sila roon magpakailanman. (لَهُمْ جَنَّاتٌ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 3:198; 5:119; 9:89
+- O aking mga tao! Gumawa kayo ayon sa inyong katayuan, ako ay gumagawa, at inyong malalaman. (يَاقَوْمِ اعْمَلُوا عَلَى مَكَانَتِكُمْ إِنِّي عَامِلٌ فَسَوْفَ تَعْلَمُونَ) 6:135; 11:93; 39:39
+- Ang sumusuway kay Allah at sa Kanyang Sugo, katotohanan siya ay may apoy ng Impiyerno, mananatili siya roon magpakailanman. (اللَّهَ وَرَسُولَهُ فَأَنَّ لَهُ نَارَ جَهَنَّمَ خَالِدًا فِيهَا) 9:63; 72:23
+- Sa kanilang mga puso ay may mga takip upang hindi nila ito maunawaan, at sa kanilang mga tainga ay kabingihan. (عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا) 17:46; 18:57
+- Sa alinmang bayan na pinadalhan ng tagapagbabala, ang mga mayayaman nito ay nagsabi: "Kami..." (فِي قَرْيَةٍ مِّن نَّذِيرٍ إِلَّا قَالَ مُتْرَفُوهَا إِنَّا) 34:34; 43:23
+- Sila ay nagsabi: "Manalangin ka sa iyong Panginoon para sa amin upang Kanyang ipaliwanag sa amin kung ano ito." (قَالُوا ادْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِيَ) 2:68; 2:70
+- Sila ay magsasabi: "Allah." Sabihin: "Ang papuri ay kay Allah!" Ngunit ang karamihan sa kanila ay hindi... (لَيَقُولُنَّ اللَّهُ قُلِ الْحَمْدُ لِلَّهِ بَلْ أَكْثَرُهُمْ لَا) 29:63; 31:25
+- At ang sagot ng kanyang mga tao ay walang iba kundi ang kanilang sinabi: "Palayasin ninyo sila..." (وَمَا كَانَ جَوَابَ قَوْمِهِ إِلَّا أَن قَالُوا أَخْرِجُوهُم) 7:82; 27:56
+- Sa ilalim nito ay may mga ilog na dumadaloy, mananatili sila roon magpakailanman. Iyon ang dakilang tagumpay. (تَحْتَهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا ذَلِكَ الْفَوْزُ الْعَظِيمُ) 9:100; 64:9
+- Sila ay nasa tamang patnubay mula sa kanilang Panginoon, at sila ang matagumpay. (أُولَئِكَ عَلَى هُدًى مِّن رَّبِّهِمْ وَأُولَئِكَ هُمُ الْمُفْلِحُونَ) 2:5; 31:5
+- Ang sinumang dumating sa kanya ang kaparusahang nagpapahiya sa kanya at bababa sa kanya ang kaparusahang walang hanggan. (مَن يَأْتِيهِ عَذَابٌ يُخْزِيهِ وَيَحِلُّ عَلَيْهِ عَذَابٌ مُّقِيمٌ) 11:39; 39:40
+- Maglakbay kayo sa lupain at tingnan ninyo kung paano ang naging wakas ng mga nagpabulaan. (فَسِيرُوا فِي الْأَرْضِ فَانظُرُوا كَيْفَ كَانَ عَاقِبَةُ الْمُكَذِّبِينَ) 3:137; 16:36
+- Hindi nila ito hahangarin kailanman dahil sa kanilang ipinadala ng kanilang mga kamay. At si Allah ay nakaaalam sa mga mapang-api. (يَتَمَنَّوْهُ أَبَدًا بِمَا قَدَّمَتْ أَيْدِيهِمْ وَاللَّهُ عَلِيمٌ بِالظَّالِمِينَ) 2:95; 62:7
+- Siya ang higit na nakaaalam kung sino ang naliligaw mula sa Kanyang landas, at Siya ang higit na nakaaalam... (هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ) 53:30; 68:7
+- Katotohanan, si Allah ay aking Panginoon at inyong Panginoon, kaya't sambahin ninyo Siya. Ito ang tuwid na landas. (إِنَّ اللَّهَ رَبِّي وَرَبُّكُمْ فَاعْبُدُوهُ هَذَا صِرَاطٌ مُّسْتَقِيمٌ) 3:51; 19:36
+- Siya ay may pagpapala sa sangkatauhan, ngunit ang karamihan sa kanila ay hindi nagpapasalamat. (لَذُو فَضْلٍ عَلَى النَّاسِ وَلَكِنَّ أَكْثَرَهُمْ لَا يَشْكُرُونَ) 10:60; 27:73
+- Ang kalangitan at kalupaan at ang nasa pagitan nito, maliban sa katotohanan at sa takdang panahon. (السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا إِلَّا بِالْحَقِّ وَأَجَلٍ مُّسَمًّى) 30:8; 46:3
+- Pabayaan mo silang magpakasasa at maglaro hanggang sa kanilang makaharap ang araw na kanilang ipinangako. (فَذَرْهُمْ يَخُوضُوا وَيَلْعَبُوا حَتَّى يُلَاقُوا يَوْمَهُمُ الَّذِي يُوعَدُونَ) 43:83; 70:42
+- At kapag nakikita nila ang mga sumasampalataya, sila ay nagsasabi: "Kami ay sumampalataya," at kapag sila ay nag-iisa... (وَإِذَا لَقُوا الَّذِينَ آمَنُوا قَالُوا آمَنَّا وَإِذَا خَلَوْا) 2:14; 2:76
+- Sila ay nagtatag ng Torah at Ebanghelyo at kung ano ang ipinababa sa kanila mula sa kanilang Panginoon. (أَقَامُوا التَّوْرَاةَ وَالْإِنجِيلَ وَمَا أُنزِلَ إِلَيْهِم مِّن رَّبِّهِمْ) 5:66; 5:68
+- Nakaaalam Siya ng nasa harapan nila at nasa likuran nila, at hindi nila nauunawaan... (يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ) 2:255; 20:110
+- At Siya ang lumikha ng kalangitan at kalupaan sa anim na araw. (وَهُوَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ) 11:7; 57:4
+- Katotohanan, dito ay may tanda para sa inyo, kung kayo ay mga mananampalataya. (إِنَّ فِي ذَلِكَ لَآيَةً لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ) 2:248; 3:49
+- At ano ang pumigil sa mga tao na sumampalataya nang dumating sa kanila ang patnubay? (وَمَا مَنَعَ النَّاسَ أَن يُؤْمِنُوا إِذْ جَاءَهُمُ الْهُدَى) 17:94; 18:55
+- At sila ay naglagay ng mga katambal kay Allah upang iligaw mula sa Kanyang landas. Sabihin: "Magsaya kayo..." (وَجَعَلُوا لِلَّهِ أَندَادًا لِّيُضِلُّوا عَن سَبِيلِهِ قُلْ تَمَتَّعُوا) 14:30; 39:8
+- At sila ay namangha na dumating sa kanila ang isang tagapagbabala mula sa kanila, at ang mga hindi sumampalataya ay nagsabi: "Ito..." (وَعَجِبُوا أَن جَاءَهُم مُّنذِرٌ مِّنْهُمْ وَقَالَ الْكَافِرُونَ هَذَا) 38:4; 50:2
+- Katotohanan, ang iyong Panginoon ang higit na nakaaalam kung sino ang naliligaw mula sa Kanyang landas. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ) 53:30; 68:7
+- Tulad ng gumagastos ng kanyang yaman upang magpakita sa mga tao at hindi sumasampalataya kay Allah. (كَالَّذِي يُنفِقُ مَالَهُ رِئَاءَ النَّاسِ وَلَا يُؤْمِنُ بِاللَّهِ) 2:264; 4:38
+- Gumastos kayo mula sa aming ipinagkaloob sa inyo bago dumating... (أَنفِقُوا مِمَّا رَزَقْنَاكُم مِّن قَبْلِ أَن يَأْتِيَ) 2:254; 63:10
+- Kanyang ipinasakop sa inyo ang nasa kalangitan at nasa kalupaan. (سَخَّرَ لَكُم مَّا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 31:20; 45:13
+- At katotohanan kami ay nasa pag-aalinlangan tungkol sa inyong inaanyayahan sa amin. (وَإِنَّنَا لَفِي شَكٍّ مِّمَّا تَدْعُونَا إِلَيْهِ مُرِيبٍ) 11:62; 14:9
+- Katotohanan, ang iyong Panginoon ay nagpapalawak ng kabuhayan sa sinumang Kanyang nais at nagpipigil. Katotohanan, Siya... (إِنَّ رَبَّكَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ وَيَقْدِرُ إِنَّهُ) 17:30; 34:36
+- Ang Panginoon ng kalangitan at kalupaan at ng nasa pagitan nito, kung kayo ay may tiyak na paniniwala. (رَبُّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا إِن كُنتُم مُّوقِنِينَ) 26:24; 44:7
+- Kami ay sumampalataya kay Allah at sa ipinababa sa amin at sa ipinababa sa... (آمَنَّا بِاللَّهِ وَمَا أُنزِلَ إِلَيْنَا وَمَا أُنزِلَ إِلَى) 2:136; 3:199
+- At ang mga nang-api ay dinakip ng sigaw, at sila ay naging sa kanilang mga tahanan na nakaluhod. (وَأَخَذَ الَّذِينَ ظَلَمُوا الصَّيْحَةُ فَأَصْبَحُوا فِي دِيَارِهِمْ جَاثِمِينَ) 11:67; 11:94
+- Kaya't walang kasalanan sa inyo sa kanilang ginawa tungkol sa kanilang sarili. (فَلَا جُنَاحَ عَلَيْكُمْ فِيمَا فَعَلْنَ فِي أَنفُسِهِنَّ) 2:234; 2:240
+- Ang iyong Panginoon ang higit na nakaaalam kung sino ang naliligaw mula sa Kanyang landas, at Siya... (رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ) 53:30; 68:7
+- Sa pamamagitan ng Espiritu mula sa Kanyang utos sa sinumang Kanyang nais sa Kanyang mga lingkod. (بِالرُّوحِ مِنْ أَمْرِهِ عَلَى مَن يَشَاءُ مِنْ عِبَادِهِ) 16:2; 40:15
+- At ibinigay Namin kay Hesus na anak ni Maria ang mga malinaw na katibayan at pinatatag namin siya sa pamamagitan ng Banal na Espiritu. (وَآتَيْنَا عِيسَى ابْنَ مَرْيَمَ الْبَيِّنَاتِ وَأَيَّدْنَاهُ بِرُوحِ الْقُدُسِ) 2:87; 2:253
+- Upang Siya ay humatol sa pagitan nila sa Araw ng Paghuhukom tungkol sa kanilang mga pinagkaiba-iba. (لَيَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ) 16:124; 22:69
+- Ginawa Namin ang itaas nito na ibaba, at pinag-ulanan Namin sila ng mga batong yari sa putik. (جَعَلْنَا عَالِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةً مِّن سِجِّيلٍ) 11:82; 15:74
+- Ito ay pareho lamang sa kanila kung sila ay binalaan mo o hindi binalaan: sila ay hindi nananampalataya. (سَوَاءٌ عَلَيْهِمْ أَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ) 2:6; 36:10
+- Bukod sa mga tao, kaya't hangarin ninyo ang kamatayan kung kayo ay matatapat. (مِّن دُونِ النَّاسِ فَتَمَنَّوُا الْمَوْتَ إِن كُنتُمْ صَادِقِينَ) 2:94; 62:6
+- Sambahin ninyo si Allah, wala kayong ibang diyos maliban sa Kanya. Hindi ba kayo matatakot? (اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 23:23; 23:32
+- At kung ipakita Namin sa iyo ang ilan sa aming ipinangako sa kanila, o kunin Namin ang iyong buhay, sa Amin ang kanilang pagbabalik... (وَإِمَّا نُرِيَنَّكَ بَعْضَ الَّذِي نَعِدُهُمْ أَوْ نَتَوَفَّيَنَّكَ فَإِلَيْنَا) 10:46; 40:77
+- Sila ay nagsabi: "Kapag kami ay namatay at naging alabok at buto, kami ba ay talagang bubuhayin?" (قَالُوا أَإِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَامًا أَإِنَّا لَمَبْعُوثُونَ) 23:82; 56:47
+- Katotohanan, ang pagpapala ay nasa kamay ni Allah, Kanyang ibinibigay sa sinumang Kanyang nais, at si Allah... (إِنَّ الْفَضْلَ بِيَدِ اللَّهِ يُؤْتِيهِ مَن يَشَاءُ وَاللَّهُ) 3:73; 57:29
+- Sa Nakaaalam ng hindi nakikita at nakikita, at Kanyang ipaalam sa inyo kung ano ang inyong ginagawa. (إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ) 9:105; 62:8
+- O kayong mga sumasampalataya! Alalahanin ninyo ang biyaya ni Allah sa inyo, nang... (يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا نِعْمَتَ اللَّهِ عَلَيْكُمْ إِذْ) 5:11; 33:9
+- At hindi Kami nagsugo bago mo maliban sa mga lalaki na aming binigyan ng inspirasyon. (وَمَا أَرْسَلْنَا مِن قَبْلِكَ إِلَّا رِجَالًا نُّوحِي إِلَيْهِم) 12:109; 16:43
+- Patatawarin Niya ang kanyang mga kasalanan at papapasukin siya sa mga hardin na may mga ilog na dumadaloy sa ilalim nito. (يُكَفِّرْ عَنْهُ سَيِّئَاتِهِ وَيُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا) 64:9; 66:8
+- May sakit o nasa paglalakbay, kaya't bilang ng ibang mga araw. (مَّرِيضًا أَوْ عَلَى سَفَرٍ فَعِدَّةٌ مِّنْ أَيَّامٍ أُخَرَ) 2:184; 2:185
+- Sila ay sumusunod lamang sa haka-haka at sila ay walang ginagawa kundi nanghuhula. (إِن يَتَّبِعُونَ إِلَّا الظَّنَّ وَإِنْ هُمْ إِلَّا يَخْرُصُونَ) 6:116; 10:66
+- Isang magandang halimbawa para sa mga umaasa kay Allah at sa Huling Araw. (أُسْوَةٌ حَسَنَةٌ لِّمَن كَانَ يَرْجُو اللَّهَ وَالْيَوْمَ الْآخِرَ) 33:21; 60:6
+- At hindi Namin nilikha ang kalangitan at kalupaan at ang nasa pagitan nito maliban sa katotohanan. (وَمَا خَلَقْنَا السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا إِلَّا بِالْحَقِّ) 15:85; 46:3
+- Ipasok mo ang iyong kamay sa iyong bulsa, ito ay lalabas na puti na walang kapintasan. (يَدَكَ فِي جَيْبِكَ تَخْرُجْ بَيْضَاءَ مِنْ غَيْرِ سُوءٍ) 27:12; 28:32
+- Siya ay nagtatangi ng Kanyang awa sa sinumang Kanyang nais, at si Allah ay May-ari ng dakilang pagpapala. (يَخْتَصُّ بِرَحْمَتِهِ مَن يَشَاءُ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ) 2:105; 3:74
+- Hindi mo ba alam na si Allah ang nagmamay-ari ng kalangitan at kalupaan? (أَلَمْ تَعْلَمْ أَنَّ اللَّهَ لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ) 2:107; 5:40
+- At anumang ipadala ninyo para sa inyong sarili na mabuti, inyong makikita ito sa piling ni Allah. (وَمَا تُقَدِّمُوا لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ اللَّهِ) 2:110; 73:20
+- At saan ka man lumabas, iharap mo ang iyong mukha sa Banal na Moske. (وَمِنْ حَيْثُ خَرَجْتَ فَوَلِّ وَجْهَكَ شَطْرَ الْمَسْجِدِ الْحَرَامِ) 2:149; 2:150
+- Sila ay nagdaan na noon, at hindi ka makakahanap ng pagbabago sa pamamaraan ni Allah. (خَلَوْا مِن قَبْلُ وَلَن تَجِدَ لِسُنَّةِ اللَّهِ تَبْدِيلًا) 33:62; 48:23
+- Ang nagmamay-ari ng lahat ng nasa kalangitan at lahat ng nasa kalupaan. (الَّذِي لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 34:1; 42:53
+- At walang babaeng nagdadalang-tao o nanganganak maliban sa Kanyang kaalaman. (وَمَا تَحْمِلُ مِنْ أُنثَى وَلَا تَضَعُ إِلَّا بِعِلْمِهِ) 35:11; 41:47
+- Ang gabi, at Kanyang ipinasakop ang araw at buwan, bawat isa ay tumatakbo sa takdang panahon. (اللَّيْلِ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ كُلٌّ يَجْرِي لِأَجَلٍ مُّسَمًّى) 35:13; 39:5
+- Sa ilalim nito ay may mga ilog na dumadaloy, mananatili sila roon magpakailanman, at iyon ang gantimpala ng... (تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَذَلِكَ جَزَاءُ) 5:85; 20:76
+- Siya ay nagsabi: "Hindi, ang inyong mga kaluluwa ang nag-udyok sa inyo ng isang bagay. Ang pagtitiyaga ay maganda." (قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْرًا فَصَبْرٌ جَمِيلٌ) 12:18; 12:83
+- Ang nasa kalangitan at ang nasa kalupaan, at na si Allah... (مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَأَنَّ اللَّهَ) 5:97; 22:64
+- At walang Sugo ang dumating sa kanila maliban sa kanilang tinuya. (وَمَا يَأْتِيهِم مِّن رَّسُولٍ إِلَّا كَانُوا بِهِ يَسْتَهْزِئُونَ) 15:11; 36:30
+- Sila ay nagsabi: "O Moises! Maaaring ikaw ang maghagis, o kami ang maghahagis?" (قَالُوا يَامُوسَى إِمَّا أَن تُلْقِيَ وَإِمَّا أَن نَّكُونَ) 7:115; 20:65
+- Siya ang kumukuha ng inyong buhay, at sa inyo ay may ibinabalik sa pinakamababang yugto ng buhay, upang... (يَتَوَفَّاكُمْ وَمِنكُم مَّن يُرَدُّ إِلَى أَرْذَلِ الْعُمُرِ لِكَيْ) 16:70; 22:5
+- Sila ay may mga hardin na may mga ilog na dumadaloy sa ilalim nito, mananatili sila roon magpakailanman. (رَبِّهِمْ جَنَّاتٌ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 3:15; 3:136
+- At naglagay Kami sa kanilang mga puso ng mga takip upang hindi nila ito maunawaan, at sa kanilang mga tainga... (وَجَعَلْنَا عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ) 17:46; 18:57
+- Katotohanan, ang pangako ni Allah ay totoo, ngunit ang karamihan sa kanila ay hindi nakakaalam. (إِنَّ وَعْدَ اللَّهِ حَقٌّ وَلَكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ) 10:55; 28:13
+- Iyon ay sapagkat sila ay sumalungat kay Allah at sa Kanyang Sugo, at ang sinumang sumalungat kay Allah... (ذَلِكَ بِأَنَّهُمْ شَاقُّوا اللَّهَ وَرَسُولَهُ وَمَن يُشَاقِقِ اللَّهَ) 8:13; 59:4
+- At ang Araw na Sila ay tatawagin Niya at sasabihin: "Nasaan ang aking mga katambal na inyong inaangkin?" (وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ أَيْنَ شُرَكَائِيَ الَّذِينَ كُنتُمْ تَزْعُمُونَ) 28:62; 28:74
+- Hindi ba nila nakita na si Allah na lumikha ng kalangitan at kalupaan...? (أَوَلَمْ يَرَوْا أَنَّ اللَّهَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ) 17:99; 46:33
+- Na lumikha sa iyo mula sa lupa, pagkatapos mula sa isang patak, pagkatapos... (بِالَّذِي خَلَقَكَ مِن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ) 18:37; 40:67
+- Sila ay magsasabi: "Panginoon namin! Bakit hindi Ka nagpadala sa amin ng isang Sugo upang aming sundin ang Iyong mga tanda?" (لَقَالُوا رَبَّنَا لَوْلَا أَرْسَلْتَ إِلَيْنَا رَسُولًا فَنَتَّبِعَ آيَاتِكَ) 20:134; 28:47
+- Pagkatapos, sa kanilang Panginoon ang kanilang pagbabalik, at Kanyang ipaalam sa kanila ang kanilang ginagawa. (ثُمَّ إِلَى رَبِّهِم مَّرْجِعُهُمْ فَيُنَبِّئُهُم بِمَا كَانُوا يَعْمَلُونَ) 6:108; 39:7
+- Wala silang kaalaman tungkol dito, sila ay walang ginagawa kundi... (مَّا لَهُم بِذَلِكَ مِنْ عِلْمٍ إِنْ هُمْ إِلَّا) 43:20; 45:24
+- Katotohanan, aming natagpuan ang aming mga ninuno sa isang relihiyon, at kami ay sumusunod sa kanilang mga yapak. (إِنَّا وَجَدْنَا آبَاءَنَا عَلَى أُمَّةٍ وَإِنَّا عَلَى آثَارِهِم) 43:22; 43:23
+- Ang mga binigyan ng Kasulatan, maliban na lamang matapos dumating sa kanila... (الَّذِينَ أُوتُوا الْكِتَابَ إِلَّا مِن بَعْدِ مَا جَاءَهُمُ) 3:19; 98:4
+- At nang si Abraham ay nagsabi: "Panginoon ko! Gawin Mo ang bayang ito na isang ligtas na lugar." (وَإِذْ قَالَ إِبْرَاهِيمُ رَبِّ اجْعَلْ هَذَا بَلَدًا آمِنًا) 2:126; 14:35
+- At Kanyang ginawa para sa inyo ang pandinig, paningin, at puso, ngunit kakaunti ang inyong pasasalamat. (وَجَعَلَ لَكُمُ السَّمْعَ وَالْأَبْصَارَ وَالْأَفْئِدَةَ قَلِيلًا مَّا تَشْكُرُونَ) 32:9; 67:23
+- Ang mga nangangatwiran tungkol sa mga tanda ni Allah nang walang awtoridad na dumating sa kanila. (الَّذِينَ يُجَادِلُونَ فِي آيَاتِ اللَّهِ بِغَيْرِ سُلْطَانٍ أَتَاهُمْ) 40:35; 40:56
+- Kaya't sundin ninyo ang relihiyon ni Abraham na matuwid, at hindi siya kabilang sa mga sumasamba sa mga diyos-diyosan. (فَاتَّبِعُوا مِلَّةَ إِبْرَاهِيمَ حَنِيفًا وَمَا كَانَ مِنَ الْمُشْرِكِينَ) 3:95; 16:123
+- At nang aming iniligtas kayo mula sa sambahayan ni Paraon, na kayo ay pinahihirapan ng matinding kaparusahan. (وَإِذْ أَنجَيْنَاكُم مِّنْ آلِ فِرْعَوْنَ يَسُومُونَكُمْ سُوءَ الْعَذَابِ) 7:141; 14:6
+- Iyon ang tamang relihiyon, ngunit ang karamihan sa mga tao ay hindi nakakaalam. (ذَلِكَ الدِّينُ الْقَيِّمُ وَلَكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ) 12:40; 30:30
+- Hindi mo ba nakita na si Allah ay nagpasakop sa inyo ng nasa...? (أَلَمْ تَرَ أَنَّ اللَّهَ سَخَّرَ لَكُم مَّا فِي) 22:65; 31:20
+- Ang mga hindi sumampalataya ay nagsabi: "Ito ay walang iba kundi isang hayag na salamangka." (لَقَالَ الَّذِينَ كَفَرُوا إِنْ هَذَا إِلَّا سِحْرٌ مُّبِينٌ) 6:7; 11:7
+- At kapag ang Aming mga malinaw na tanda ay binibigkas sa kanila, ang mga hindi sumampalataya ay nagsasabi... (وَإِذَا تُتْلَى عَلَيْهِمْ آيَاتُنَا بَيِّنَاتٍ قَالَ الَّذِينَ كَفَرُوا) 19:73; 46:7
+- Mga hardin ng Eden na may mga ilog na dumadaloy sa ilalim nito, mananatili sila roon magpakailanman. (جَنَّاتُ عَدْنٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 20:76; 98:8
+- Anuman ang Kanyang nais, katotohanan si Allah ay may kapangyarihan sa lahat ng bagay. (مَا يَشَاءُ إِنَّ اللَّهَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ) 24:45; 35:1
+- Upang patawarin Niya ang inyong mga kasalanan at kayo ay palawigin hanggang sa takdang panahon. (لِيَغْفِرَ لَكُم مِّن ذُنُوبِكُمْ وَيُؤَخِّرَكُمْ إِلَى أَجَلٍ مُّسَمًّى) 14:10; 71:4
+- Nais ninyong hadlangan kami sa aming sinasamba ng aming mga ninuno. (تُرِيدُونَ أَن تَصُدُّونَا عَمَّا كَانَ يَعْبُدُ آبَاؤُنَا) 14:10; 34:43
+- At nang ang iyong Panginoon ay nagsabi sa mga anghel: "Ako ay lilikha ng isang tao mula sa..." (وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي خَالِقٌ بَشَرًا مِّن) 15:28; 38:71
+- At Siya ang nagpapadala ng hangin bilang balita ng kaligayahan bago ang Kanyang awa. (وَهُوَ الَّذِي يُرْسِلُ الرِّيَاحَ بُشْرًا بَيْنَ يَدَيْ رَحْمَتِهِ) 7:57; 25:48
+- Sabihin: "Maglakbay kayo sa lupain at tingnan ninyo kung paano ang naging wakas ng..." (قُلْ سِيرُوا فِي الْأَرْضِ فَانظُرُوا كَيْفَ كَانَ عَاقِبَةُ) 27:69; 30:42
+- Katotohanan, sa paglikha ng kalangitan at kalupaan at sa paghalili ng gabi at araw. (إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ) 2:164; 3:190
+- Sino ang magpapahiram kay Allah ng isang magandang pautang upang Kanyang paramihin ito? (مَّن ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا فَيُضَاعِفَهُ) 2:245; 57:11
+- Kaya't humatol ka sa pagitan nila ayon sa ipinababa ni Allah, at huwag mong sundin ang kanilang mga pagnanasa. (فَاحْكُم بَيْنَهُم بِمَا أَنزَلَ اللَّهُ وَلَا تَتَّبِعْ أَهْوَاءَهُمْ) 5:48; 5:49
+- Naghihintay ba sila ng iba maliban na ang mga anghel ay dumating sa kanila, o ang iyong Panginoon ay dumating...? (هَلْ يَنظُرُونَ إِلَّا أَن تَأْتِيَهُمُ الْمَلَائِكَةُ أَوْ يَأْتِيَ) 6:158; 16:33
+- Katotohanan, ang mga nag-imbento ng kasinungalingan laban kay Allah ay hindi magtatagumpay. (إِنَّ الَّذِينَ يَفْتَرُونَ عَلَى اللَّهِ الْكَذِبَ لَا يُفْلِحُونَ) 10:69; 16:116
+- Tulad ng kalagayan ng sambahayan ni Paraon at ng mga nauna sa kanila, itinakwil nila ang Aming mga tanda. (كَدَأْبِ آلِ فِرْعَوْنَ وَالَّذِينَ مِن قَبْلِهِمْ كَذَّبُوا بِآيَاتِنَا) 3:11; 8:54
+- At magbigay ng magandang balita sa mga mananampalataya na gumagawa ng mabubuting gawa na sila ay may gantimpala... (وَيُبَشِّرُ الْمُؤْمِنِينَ الَّذِينَ يَعْمَلُونَ الصَّالِحَاتِ أَنَّ لَهُمْ أَجْرًا) 17:9; 18:2
+- Si Allah ay nagpapalawak ng kabuhayan sa sinumang Kanyang nais sa Kanyang mga lingkod at nagpipigil. (اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ) 28:82; 29:62
+- At kayo ay ibabalik sa Nakaaalam ng hindi nakikita at nakikita, at Kanyang ipaalam sa inyo kung ano ang inyong... (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
+- At ang mga kamag-anak ay may higit na karapatan sa isa't isa ayon sa Aklat ni Allah. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
 """;

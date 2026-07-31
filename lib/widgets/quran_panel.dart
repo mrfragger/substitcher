@@ -1143,9 +1143,6 @@ class _QuranPanelState extends State<QuranPanel> {
   }
 
   List<TextSpan> _colorParensAndAllah(String text, TextStyle baseStyle) {
-    final cyanStyle = baseStyle.copyWith(color: Colors.cyanAccent);
-    final purpleStyle = baseStyle.copyWith(color: const Color(0xFFCB93F5));
-
     final allahWords =
         (_allahByLanguage[widget.selectedLanguage] ?? _allahByLanguage['English']!)
             .toList()
@@ -1175,7 +1172,32 @@ class _QuranPanelState extends State<QuranPanel> {
       }
     }
     final allahPattern = patterns.join('|');
-    final combined = RegExp('(?:$allahPattern)|(\\([^)]*\\))');
+
+    return _styleRunWithAllahPattern(text, baseStyle, allahPattern);
+  }
+
+  List<TextSpan> _styleRunWithAllahPattern(
+      String text, TextStyle baseStyle, String allahPattern,
+      {int parenDepth = 0}) {
+    final cyanStyle = baseStyle.copyWith(color: Colors.cyanAccent);
+    final greenStyle = baseStyle.copyWith(color: Colors.greenAccent);
+    final purpleStyle = baseStyle.copyWith(color: const Color(0xFFCB93F5));
+    final amberStyle = baseStyle.copyWith(color: Colors.amber);
+    final quoteStyle = baseStyle.copyWith(color: const Color(0xFFFFB6C1));
+
+    // alternate cyan/blue by nesting depth: outer parens cyan, one level in = blue
+    final parenColor = parenDepth.isEven ? cyanStyle : greenStyle;
+
+    final quotePattern = r'"(?:[^"\\]|\\.)*"' r'|\u201c(?:[^\u201d])*\u201d';
+    // supports one level of nested parens: (...(...)...)
+    const parenPattern = r'\((?:[^()]|\([^()]*\))*\)';
+
+    final combined = RegExp(
+      '($quotePattern)' // group 1: quotes
+      '|($parenPattern)' // group 2: parens (with 1 level of nesting)
+      '|(\\[[^\\]]*\\])' // group 3: brackets
+      '|(?:$allahPattern)', // Allah words (unnamed)
+    );
 
     final result = <TextSpan>[];
     int cursor = 0;
@@ -1184,10 +1206,27 @@ class _QuranPanelState extends State<QuranPanel> {
         result.add(TextSpan(text: text.substring(cursor, m.start), style: baseStyle));
       }
       final matched = m.group(0)!;
-      result.add(TextSpan(
-        text: matched,
-        style: m.group(1) != null ? cyanStyle : purpleStyle,
-      ));
+      if (m.group(1) != null) {
+        final inner = matched.substring(1, matched.length - 1);
+        result.add(TextSpan(text: matched[0], style: quoteStyle));
+        result.addAll(_styleRunWithAllahPattern(
+            inner, quoteStyle, allahPattern, parenDepth: parenDepth));
+        result.add(TextSpan(text: matched[matched.length - 1], style: quoteStyle));
+      } else if (m.group(2) != null) {
+        final inner = matched.substring(1, matched.length - 1);
+        result.add(TextSpan(text: '(', style: parenColor));
+        result.addAll(_styleRunWithAllahPattern(
+            inner, parenColor, allahPattern, parenDepth: parenDepth + 1));
+        result.add(TextSpan(text: ')', style: parenColor));
+      } else if (m.group(3) != null) {
+        final inner = matched.substring(1, matched.length - 1);
+        result.add(TextSpan(text: '[', style: amberStyle));
+        result.addAll(_styleRunWithAllahPattern(
+            inner, amberStyle, allahPattern, parenDepth: parenDepth));
+        result.add(TextSpan(text: ']', style: amberStyle));
+      } else {
+        result.add(TextSpan(text: matched, style: purpleStyle));
+      }
       cursor = m.end;
     }
     if (cursor < text.length) {
@@ -2409,156 +2448,151 @@ class _QuranPanelState extends State<QuranPanel> {
       );
     }
 
-  List<TextSpan> _parseMainText(
-    String text, {
-    TextStyle? baseStyleOverride,
-    void Function(String)? onVerseTapped,
-    String language = 'English',
-  }) {
-    final spans = <TextSpan>[];
-    final baseStyle = baseStyleOverride ??
-        const TextStyle(color: Colors.white, fontSize: 14, height: 1.55);
-    const amber = TextStyle(color: Colors.amber, fontSize: 14, height: 1.55);
-    const purple =
-        TextStyle(color: Color(0xFFCB93F5), fontSize: 14, height: 1.55);
-    const quoteStyle =
-        TextStyle(color: Color(0xFFFFB6C1), fontSize: 14, height: 1.55);
-    const verseStyle =
-        TextStyle(color: Colors.lightBlueAccent, fontSize: 14, height: 1.55);
-    const cyanStyle =
-        TextStyle(color: Colors.cyanAccent, fontSize: 14, height: 1.55);
+    List<TextSpan> _parseMainText(
+      String text, {
+      TextStyle? baseStyleOverride,
+      void Function(String)? onVerseTapped,
+      String language = 'English',
+      int parenDepth = 0,
+    }) {
+      final spans = <TextSpan>[];
+      final baseStyle = baseStyleOverride ??
+          const TextStyle(color: Colors.white, fontSize: 14, height: 1.55);
+      const amber = TextStyle(color: Colors.amber, fontSize: 14, height: 1.55);
+      const purple =
+          TextStyle(color: Color(0xFFCB93F5), fontSize: 14, height: 1.55);
+      const quoteStyle =
+          TextStyle(color: Color(0xFFFFB6C1), fontSize: 14, height: 1.55);
+      const verseStyle =
+          TextStyle(color: Colors.lightBlueAccent, fontSize: 14, height: 1.55);
+      const cyanStyle =
+          TextStyle(color: Colors.cyanAccent, fontSize: 14, height: 1.55);
+      const nestedParenStyle =
+          TextStyle(color: Colors.greenAccent, fontSize: 14, height: 1.55);
 
-    final allahWords =
-        (_allahByLanguage[language] ?? _allahByLanguage['English']!).toList()
-          ..sort((a, b) {
-            final c = b.length.compareTo(a.length);
-            return c != 0 ? c : a.compareTo(b);
-          });
+      final parenColor = parenDepth.isEven ? cyanStyle : nestedParenStyle;
 
-    const noBoundaryScripts = {
-      'cjk',
-      'thai',
-      'khmer',
-      'arabic',
-      'hangul',
-      'ethiopic',
-      'devanagari'
-    };
+      final allahWords =
+          (_allahByLanguage[language] ?? _allahByLanguage['English']!).toList()
+            ..sort((a, b) {
+              final c = b.length.compareTo(a.length);
+              return c != 0 ? c : a.compareTo(b);
+            });
 
-    final patterns = <String>[];
-    for (final w in allahWords) {
-      final escaped = RegExp.escape(w);
-      if (RegExp(r"^[a-zA-ZÀ-ÿçÇğĞıİöÖşŞüÜ'\u2018\u2019]+$").hasMatch(w)) {
-        final range = _scriptRanges['latin']!;
-        patterns.add('(?<![$range])$escaped(?![$range])');
-      } else {
-        final script = _detectScript(w);
-        if (noBoundaryScripts.contains(script)) {
-          patterns.add(escaped);
-        } else {
-          final range = _scriptRanges[script] ?? _scriptRanges['cyrillic']!;
+      const noBoundaryScripts = {
+        'cjk',
+        'thai',
+        'khmer',
+        'arabic',
+        'hangul',
+        'ethiopic',
+        'devanagari'
+      };
+
+      final patterns = <String>[];
+      for (final w in allahWords) {
+        final escaped = RegExp.escape(w);
+        if (RegExp(r"^[a-zA-ZÀ-ÿçÇğĞıİöÖşŞüÜ'\u2018\u2019]+$").hasMatch(w)) {
+          final range = _scriptRanges['latin']!;
           patterns.add('(?<![$range])$escaped(?![$range])');
+        } else {
+          final script = _detectScript(w);
+          if (noBoundaryScripts.contains(script)) {
+            patterns.add(escaped);
+          } else {
+            final range = _scriptRanges[script] ?? _scriptRanges['cyrillic']!;
+            patterns.add('(?<![$range])$escaped(?![$range])');
+          }
         }
       }
-    }
-    final allahPattern = patterns.join('|');
-    final verseRegex = RegExp(r'\b\d{1,3}:\d{1,3}(?:-\d{1,3})?\b');
+      final allahPattern = patterns.join('|');
+      final verseRegex = RegExp(r'\b\d{1,3}:\d{1,3}(?:-\d{1,3})?\b');
 
-    final quotePattern = RegExp(r'"(?:[^"\\]|\\.)*"'
-        r'|\u201c(?:[^\u201d])*\u201d');
+      final quotePattern = RegExp(r'"(?:[^"\\]|\\.)*"'
+          r'|\u201c(?:[^\u201d])*\u201d');
 
-    List<TextSpan> parseWithAllah(String t, TextStyle base) {
-      final inner = <TextSpan>[];
-      final combined = RegExp(
-          '(?:$allahPattern)|\\b\\d{1,3}:\\d{1,3}(?:-\\d{1,3})?\\b|\\([^)]*\\)|\\[[^\\]]*\\]');
-      int c = 0;
-      for (final m in combined.allMatches(t)) {
-        if (m.start > c)
-          inner.add(TextSpan(text: t.substring(c, m.start), style: base));
-        final word = m.group(0)!;
-        if (verseRegex.hasMatch(word)) {
-          inner.add(TextSpan(
-            text: word,
+      // supports one level of nested parens: (...(...)...)
+      const nestedParenPattern = r'\((?:[^()]|\([^()]*\))*\)';
+
+      List<TextSpan> parseWithAllah(String t, TextStyle base, {int depth = 0}) {
+        final inner = <TextSpan>[];
+        final combined = RegExp(
+            '(?:$allahPattern)|\\b\\d{1,3}:\\d{1,3}(?:-\\d{1,3})?\\b|($nestedParenPattern)|\\[[^\\]]*\\]');
+        int c = 0;
+        for (final m in combined.allMatches(t)) {
+          if (m.start > c)
+            inner.add(TextSpan(text: t.substring(c, m.start), style: base));
+          final word = m.group(0)!;
+          if (verseRegex.hasMatch(word)) {
+            inner.add(TextSpan(
+              text: word,
+              style: verseStyle,
+              recognizer: onVerseTapped != null
+                  ? (TapGestureRecognizer()..onTap = () => onVerseTapped(word))
+                  : null,
+            ));
+          } else if (m.group(1) != null) {
+            final pColor = depth.isEven ? cyanStyle : nestedParenStyle;
+            final pInner = word.substring(1, word.length - 1);
+            inner.add(TextSpan(text: '(', style: pColor));
+            inner.addAll(parseWithAllah(pInner, pColor, depth: depth + 1));
+            inner.add(TextSpan(text: ')', style: pColor));
+          } else if (word.startsWith('[')) {
+            inner.add(TextSpan(text: word, style: amber));
+          } else {
+            inner.add(TextSpan(text: word, style: purple));
+          }
+          c = m.end;
+        }
+        if (c < t.length) inner.add(TextSpan(text: t.substring(c), style: base));
+        return inner;
+      }
+
+      final pattern = RegExp(
+        r'("(?:[^"\\]|\\.)*"' // "..."
+        r'|\u201c(?:[^\u201d])*\u201d)' // "..."
+        r'|(\[[^\]]*\])' // [...]
+        r'|(' '$nestedParenPattern' r')' // (...) with 1 level nesting
+        r'|\b\d{1,3}:\d{1,3}(?:-\d{1,3})?\b', // verse refs
+      );
+
+      int cursor = 0;
+      for (final match in pattern.allMatches(text)) {
+        if (match.start > cursor) {
+          spans.addAll(
+              parseWithAllah(text.substring(cursor, match.start), baseStyle));
+        }
+        final m = match.group(0) ?? '';
+        if (match.group(1) != null) {
+          spans.addAll(parseWithAllah(m, quoteStyle));
+        } else if (match.group(2) != null) {
+          final bracketInner = m.substring(1, m.length - 1);
+          spans.add(TextSpan(text: '[', style: amber));
+          spans.addAll(parseWithAllah(bracketInner, amber));
+          spans.add(TextSpan(text: ']', style: amber));
+        } else if (match.group(3) != null) {
+          final pInner = m.substring(1, m.length - 1);
+          spans.add(TextSpan(text: '(', style: parenColor));
+          spans.addAll(parseWithAllah(pInner, parenColor, depth: parenDepth + 1));
+          spans.add(TextSpan(text: ')', style: parenColor));
+        } else if (verseRegex.hasMatch(m)) {
+          spans.add(TextSpan(
+            text: m,
             style: verseStyle,
             recognizer: onVerseTapped != null
-                ? (TapGestureRecognizer()..onTap = () => onVerseTapped(word))
+                ? (TapGestureRecognizer()..onTap = () => onVerseTapped(m))
                 : null,
           ));
-        } else if (word.startsWith('(')) {
-          inner.add(TextSpan(text: word, style: cyanStyle));
-        } else if (word.startsWith('[')) {
-          inner.add(TextSpan(text: word, style: amber));
         } else {
-          inner.add(TextSpan(text: word, style: purple));
+          spans.add(TextSpan(text: m, style: purple));
         }
-        c = m.end;
+        cursor = match.end;
       }
-      if (c < t.length) inner.add(TextSpan(text: t.substring(c), style: base));
-      return inner;
-    }
-
-    final pattern = RegExp(
-      r'("(?:[^"\\]|\\.)*"' // "..."
-      r'|\u201c(?:[^\u201d])*\u201d)' // "..."
-      r'|(\[[^\]]*\])' // [...]
-      r'|(\([^)]*\))' // (...)
-      r'|\b\d{1,3}:\d{1,3}(?:-\d{1,3})?\b', // verse refs
-    );
-
-    int cursor = 0;
-    for (final match in pattern.allMatches(text)) {
-      if (match.start > cursor) {
-        spans.addAll(
-            parseWithAllah(text.substring(cursor, match.start), baseStyle));
+      if (cursor < text.length) {
+        spans.addAll(parseWithAllah(text.substring(cursor), baseStyle));
       }
-      final m = match.group(0) ?? '';
-      if (match.group(1) != null) {
-        spans.addAll(parseWithAllah(m, quoteStyle));
-      } else if (match.group(2) != null) {
-        final parenPattern = RegExp(r'\([^)]*\)');
-        int innerCursor = 0;
-        for (final p in parenPattern.allMatches(m)) {
-          if (p.start > innerCursor) {
-            spans.addAll(
-                parseWithAllah(m.substring(innerCursor, p.start), amber));
-          }
-          spans.addAll(parseWithAllah(p.group(0)!, cyanStyle));
-          innerCursor = p.end;
-        }
-        if (innerCursor < m.length) {
-          spans.addAll(parseWithAllah(m.substring(innerCursor), amber));
-        }
-      } else if (match.group(3) != null) {
-        int innerCursor = 0;
-        for (final q in quotePattern.allMatches(m)) {
-          if (q.start > innerCursor) {
-            spans.addAll(
-                parseWithAllah(m.substring(innerCursor, q.start), cyanStyle));
-          }
-          spans.addAll(parseWithAllah(q.group(0)!, quoteStyle));
-          innerCursor = q.end;
-        }
-        if (innerCursor < m.length) {
-          spans.addAll(parseWithAllah(m.substring(innerCursor), cyanStyle));
-        }
-      } else if (verseRegex.hasMatch(m)) {
-        spans.add(TextSpan(
-          text: m,
-          style: verseStyle,
-          recognizer: onVerseTapped != null
-              ? (TapGestureRecognizer()..onTap = () => onVerseTapped(m))
-              : null,
-        ));
-      } else {
-        spans.add(TextSpan(text: m, style: purple));
-      }
-      cursor = match.end;
+      return spans;
     }
-    if (cursor < text.length) {
-      spans.addAll(parseWithAllah(text.substring(cursor), baseStyle));
-    }
-    return spans;
-  }
 
   Widget _buildTafsirText(String text, bool isRtl, {bool isIntro = false, String? highlightQuery}) {
       if (isIntro) {

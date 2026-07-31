@@ -3163,4 +3163,158 @@ Matching Phrases 9 words
 - Voor hen is er een drank van kokend water en een pijnlijke bestraffing, omdat zij ongelovig waren. (لَهُمْ شَرَابٌ مِّنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْفُرُونَ) 6:70; 10:4
 - Zullen wij naast Allah aanroepen wat ons niet baat en niet schaadt? (أَنَدْعُو مِن دُونِ اللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا) 6:71; 10:106
 - Dat Allah weet wat in de hemelen en wat op de aarde is. (أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 5:97; 58:7
+Matching Phrases 8 words
+- Wie is er onrechtvaardiger dan wie leugens verzint over Allah? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا) 6:21; 6:93; 6:144; 7:37; 10:17; 11:18; 18:15; 29:68; 61:7
+- Voorwaar, daarin is een teken, maar de meesten van hen waren geen gelovigen. (إِنَّ فِي ذَلِكَ لَآيَةً وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ) 26:8; 26:67; 26:103; 26:121; 26:139; 26:158; 26:174; 26:190
+- Laten zij over de aarde reizen en zien hoe het einde was van degenen. (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ) 12:109; 30:9; 30:42; 35:44; 40:21; 40:82; 47:10
+- Hij zei: O mijn volk, aanbid Allah, jullie hebben geen andere god dan Hem. (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ) 7:65; 7:73; 7:85; 11:50; 11:61; 11:84; 23:23
+- Hij zal hem binnenleiden in tuinen waar rivieren onderdoor stromen, waarin zij eeuwig zullen verblijven. (يُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 4:13; 4:57; 4:122; 58:22; 64:9; 65:11
+- Op de Dag der Opstanding zal tussen hen worden geoordeeld over dat waarin zij verschilden. (بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 2:113; 10:93; 16:124; 22:69; 32:25; 45:17
+- Zijn zij niet over de aarde gereisd om te zien hoe het einde was? (أَوَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ) 30:9; 35:44; 40:21; 40:82; 47:10
+- Tuinen waar rivieren onderdoor stromen, waarin zij eeuwig zullen verblijven. (جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا) 4:57; 4:122; 5:119; 64:9; 65:11
+- Gij doet de nacht in de dag overgaan en gij doet de dag in de nacht overgaan. (تُولِجُ اللَّيْلَ فِي النَّهَارِ وَتُولِجُ النَّهَارَ فِي اللَّيْلِ) 3:27; 22:61; 31:29; 35:13; 57:6
+- Alles wat in de hemelen en op de aarde is, verheerlijkt Allah. (سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 59:1; 61:1; 62:1; 64:1
+- Aanbid Allah, jullie hebben geen andere god dan Hem. Willen jullie dan niet vrezen? (اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا) 7:65; 11:84; 23:23; 23:32
+- En toen Wij tot de engelen zeiden: Werpt jullie neer voor Adam, toen wierpen zij zich neer, behalve Iblies. (وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا إِبْلِيسَ) 2:34; 17:61; 18:50; 20:116
+- Allah weet wat in de hemelen en op de aarde is. (اللَّهُ وَيَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 3:29; 5:97; 49:16; 58:7
+- Tuinen waar rivieren onderdoor stromen, waarin zij eeuwig zullen verblijven, en dat. (جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَذَلِكَ) 4:13; 5:85; 9:89; 57:12
+- Zijn beloning is bij zijn Heer, en er is geen vrees voor hen, noch zullen zij. (أَجْرُهُ عِندَ رَبِّهِ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ) 2:112; 2:262; 2:274; 2:277
+- Bij zijn Heer, en er is geen vrees voor hen, noch zullen zij bedroefd zijn. (عِندَ رَبِّهِ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ) 2:112; 2:262; 2:274; 2:277
+- Wie de rechte leiding volgt, volgt die voor zichzelf, en wie dwaalt. (فَمَنِ اهْتَدَى فَإِنَّمَا يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ) 10:108; 17:15; 27:92
+- Volgt die voor zichzelf, en wie dwaalt, dwaalt alleen tegen zichzelf. (يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا) 10:108; 17:15; 39:41
+- Waarom is geen teken aan hem geopenbaard van zijn Heer? Zeg: Voorwaar. (لَوْلَا أُنزِلَ عَلَيْهِ آيَةٌ مِّن رَّبِّهِ فَقُلْ إِنَّمَا) 10:20; 13:27; 29:50
+- Degenen die geloven en goede daden verrichten, voor hen is een onverdiende beloning. (الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ) 41:8; 84:25; 95:6
+- Gij brengt het levende uit het dode voort en brengt het dode uit het levende voort. (وَتُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ وَتُخْرِجُ الْمَيِّتَ مِنَ الْحَيِّ) 3:27; 10:31; 30:19
+- Wie niet oordeelt naar wat Allah heeft geopenbaard, dat zijn de. (وَمَن لَّمْ يَحْكُم بِمَا أَنزَلَ اللَّهُ فَأُولَئِكَ هُمُ) 5:44; 5:45; 5:47
+- Hij schiep de hemelen en de aarde en wat daartussen is in zes dagen. (خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا فِي سِتَّةِ أَيَّامٍ) 25:59; 32:4; 50:38
+- Voorwaar, Allah is vol genade voor de mensen, maar de meesten. (إِنَّ اللَّهَ لَذُو فَضْلٍ عَلَى النَّاسِ وَلَكِنَّ أَكْثَرَ) 2:243; 10:60; 40:61
+- Allah deed hen geen onrecht aan, maar zij deden zichzelf onrecht aan. (فَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ وَلَكِن كَانُوا أَنفُسَهُمْ يَظْلِمُونَ) 9:70; 29:40; 30:9
+- Hij zal jullie zonden vergeven en jullie binnenleiden in tuinen waar rivieren onderdoor stromen. (عَنكُمْ سَيِّئَاتِكُمْ وَلَأُدْخِلَنَّكُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 5:12; 64:9; 66:8
+- Hij heeft jullie verboden: het dode dier, bloed, varkensvlees en dat wat geslacht is voor een ander dan Allah. (حَرَّمَ عَلَيْكُمُ الْمَيْتَةَ وَالدَّمَ وَلَحْمَ الْخِنزِيرِ وَمَا أُهِلَّ) 2:173; 5:3; 16:115
+- Ik vrees, als ik mijn Heer ongehoorzaam ben, de straf van een geweldige Dag. (إِنِّي أَخَافُ إِنْ عَصَيْتُ رَبِّي عَذَابَ يَوْمٍ عَظِيمٍ) 6:15; 10:15; 39:13
+- Maar nadat kennis tot hen was gekomen, uit onderlinge afgunst. (إِلَّا مِن بَعْدِ مَا جَاءَهُمُ الْعِلْمُ بَغْيًا بَيْنَهُمْ) 3:19; 42:14; 45:17
+- Zij verrichten het gebed en geven van wat Wij hun geschonken hebben, in het geheim en openlijk. (وَأَقَامُوا الصَّلَاةَ وَأَنفَقُوا مِمَّا رَزَقْنَاهُمْ سِرًّا وَعَلَانِيَةً) 13:22; 14:31; 35:29
+- Zullen wij naast Allah dat aanroepen wat ons niet baat en niet schaadt? (مِن دُونِ اللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا) 6:71; 10:106; 25:55
+- Zij geloven in wat aan jou is geopenbaard en wat voor jou is geopenbaard. (يُؤْمِنُونَ بِمَا أُنزِلَ إِلَيْكَ وَمَا أُنزِلَ مِن قَبْلِكَ) 2:4; 4:60; 4:162
+- Zie je niet dat Allah water uit de hemel neerzendt? (أَلَمْ تَرَ أَنَّ اللَّهَ أَنزَلَ مِنَ السَّمَاءِ مَاءً) 22:63; 35:27; 39:21
+- Wanneer Hij een zaak beslist, zegt Hij er slechts tegen: Wees, en het is. (قَضَى أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُن فَيَكُونُ) 3:47; 19:35; 40:68
+- En naar Madyan (zonden Wij) hun broeder Shu'ayb. Hij zei: O mijn volk, aanbid Allah. (وَإِلَى مَدْيَنَ أَخَاهُمْ شُعَيْبًا قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ) 7:85; 11:84; 29:36
+- Dat zijn van de berichten van het onwaarneembare die Wij aan jou openbaren; jij wist dit niet. (ذَلِكَ مِنْ أَنْبَاءِ الْغَيْبِ نُوحِيهِ إِلَيْكَ وَمَا كُنتَ) 3:44; 11:49; 12:102
+- En wanneer hun termijn komt, kunnen zij geen uur uitstellen of vervroegen. (فَإِذَا جَاءَ أَجَلُهُمْ لَا يَسْتَأْخِرُونَ سَاعَةً وَلَا يَسْتَقْدِمُونَ) 7:34; 10:49; 16:61
+- En volgt niet de voetstappen van de duivel, want hij is voor jullie een duidelijke vijand. (وَلَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ إِنَّهُ لَكُمْ عَدُوٌّ مُّبِينٌ) 2:168; 2:208; 6:142
+- En onder de mensen zijn er die over Allah twisten zonder kennis. (وَمِنَ النَّاسِ مَن يُجَادِلُ فِي اللَّهِ بِغَيْرِ عِلْمٍ) 22:3; 22:8; 31:20
+- Allah geeft het aan wie Hij wil, en Allah is de Bezitter van de grote genade. (اللَّهِ يُؤْتِيهِ مَن يَشَاءُ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ) 57:21; 57:29; 62:4
+- Iedere ziel zal volledig beloond worden voor wat zij verdiend heeft, en zij zullen niet onrechtvaardig behandeld worden. (تُوَفَّى كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ) 2:281; 3:25; 3:161
+- En doodt niet de ziel die Allah verboden heeft, behalve met recht. (وَلَا تَقْتُلُوا النَّفْسَ الَّتِي حَرَّمَ اللَّهُ إِلَّا بِالْحَقِّ) 6:151; 17:33; 25:68
+- Wanneer Hij een zaak beslist, zegt Hij er slechts tegen: Wees. (إِذَا قَضَى أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُن) 3:47; 19:35; 40:68
+- Gaat de poorten van de Hel binnen, daarin zullen jullie eeuwig verblijven; en hoe slecht is de verblijfplaats van de hoogmoedigen! (فَادْخُلُوا أَبْوَابَ جَهَنَّمَ خَالِدِينَ فِيهَا فَلَبِئْسَ مَثْوَى الْمُتَكَبِّرِينَ) 16:29; 39:72; 40:76
+- Heb jij niet gezien degenen aan wie een deel van het Boek is gegeven? (أَلَمْ تَرَ إِلَى الَّذِينَ أُوتُوا نَصِيبًا مِّنَ الْكِتَابِ) 3:23; 4:44; 4:51
+- Voor hen zijn tuinen waar rivieren onderdoor stromen, waarin zij eeuwig zullen verblijven. (لَهُمْ جَنَّاتٌ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 3:198; 5:119; 9:89
+- O mijn volk, handelt naar jullie vermogen, ik handel ook, en jullie zullen het te weten komen. (يَاقَوْمِ اعْمَلُوا عَلَى مَكَانَتِكُمْ إِنِّي عَامِلٌ فَسَوْفَ تَعْلَمُونَ) 6:135; 11:93; 39:39
+- Wie Allah en Zijn Boodschapper weerstaat, voor hem is het vuur van de Hel, waarin hij eeuwig zal verblijven. (اللَّهَ وَرَسُولَهُ فَأَنَّ لَهُ نَارَ جَهَنَّمَ خَالِدًا فِيهَا) 9:63; 72:23
+- Wij hebben sluiers over hun harten gelegd zodat zij het niet begrijpen, en doofheid in hun oren. (عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا) 17:46; 18:57
+- En Wij zonden geen waarschuwer naar een stad, of de welgestelden ervan zeiden: Wij. (فِي قَرْيَةٍ مِّن نَّذِيرٍ إِلَّا قَالَ مُتْرَفُوهَا إِنَّا) 34:34; 43:23
+- Zij zeiden: Roep voor ons uw Heer aan, opdat Hij ons duidelijk maakt wat het is. (قَالُوا ادْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِيَ) 2:68; 2:70
+- Zij zullen zeggen: Allah. Zeg: Alle lof zij Allah! Maar de meesten van hen. (لَيَقُولُنَّ اللَّهُ قُلِ الْحَمْدُ لِلَّهِ بَلْ أَكْثَرُهُمْ لَا) 29:63; 31:25
+- En het antwoord van zijn volk was niet anders dan dat zij zeiden: Verdrijft hen. (وَمَا كَانَ جَوَابَ قَوْمِهِ إِلَّا أَن قَالُوا أَخْرِجُوهُم) 7:82; 27:56
+- Waar rivieren onderdoor stromen, waarin zij eeuwig zullen verblijven; dat is de grote overwinning. (تَحْتَهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا ذَلِكَ الْفَوْزُ الْعَظِيمُ) 9:100; 64:9
+- Zij zijn op de rechte leiding van hun Heer, en zij zijn degenen die slagen. (أُولَئِكَ عَلَى هُدًى مِّن رَّبِّهِمْ وَأُولَئِكَ هُمُ الْمُفْلِحُونَ) 2:5; 31:5
+- Degene die een vernederende straf treft en een blijvende straf over hem komt. (مَن يَأْتِيهِ عَذَابٌ يُخْزِيهِ وَيَحِلُّ عَلَيْهِ عَذَابٌ مُّقِيمٌ) 11:39; 39:40
+- Reist over de aarde en ziet hoe het einde was van degenen die loochenden. (فَسِيرُوا فِي الْأَرْضِ فَانظُرُوا كَيْفَ كَانَ عَاقِبَةُ الْمُكَذِّبِينَ) 3:137; 16:36
+- Zij zullen het nooit wensen vanwege wat hun handen vooruit hebben gestuurd, en Allah kent de onrechtvaardigen. (يَتَمَنَّوْهُ أَبَدًا بِمَا قَدَّمَتْ أَيْدِيهِمْ وَاللَّهُ عَلِيمٌ بِالظَّالِمِينَ) 2:95; 62:7
+- Hij weet het beste wie van Zijn weg afdwaalt, en Hij weet het beste. (هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ) 53:30; 68:7
+- Voorwaar, Allah is mijn Heer en jullie Heer, aanbidt Hem dus; dit is het rechte pad. (إِنَّ اللَّهَ رَبِّي وَرَبُّكُمْ فَاعْبُدُوهُ هَذَا صِرَاطٌ مُّسْتَقِيمٌ) 3:51; 19:36
+- Hij is vol genade voor de mensen, maar de meesten van hen zijn niet dankbaar. (لَذُو فَضْلٍ عَلَى النَّاسِ وَلَكِنَّ أَكْثَرَهُمْ لَا يَشْكُرُونَ) 10:60; 27:73
+- De hemelen en de aarde en wat daartussen is, hebben Wij slechts met waarheid en voor een bepaalde termijn geschapen. (السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا إِلَّا بِالْحَقِّ وَأَجَلٍ مُّسَمًّى) 30:8; 46:3
+- Laat hen maar in hun onzin voortgaan en zich vermaken, totdat zij hun Dag zullen ontmoeten die hen is aangezegd. (فَذَرْهُمْ يَخُوضُوا وَيَلْعَبُوا حَتَّى يُلَاقُوا يَوْمَهُمُ الَّذِي يُوعَدُونَ) 43:83; 70:42
+- En wanneer zij degenen die geloven ontmoeten, zeggen zij: Wij geloven, en wanneer zij alleen zijn. (وَإِذَا لَقُوا الَّذِينَ آمَنُوا قَالُوا آمَنَّا وَإِذَا خَلَوْا) 2:14; 2:76
+- Zij houden de Tora en het Evangelie in stand en wat aan hen is geopenbaard van hun Heer. (أَقَامُوا التَّوْرَاةَ وَالْإِنجِيلَ وَمَا أُنزِلَ إِلَيْهِم مِّن رَّبِّهِمْ) 5:66; 5:68
+- Hij weet wat voor hen is en wat achter hen is, maar zij kunnen dit met hun kennis niet omvatten. (يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ) 2:255; 20:110
+- En Hij is het die de hemelen en de aarde in zes dagen schiep. (وَهُوَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ) 11:7; 57:4
+- Daarin is voorwaar een teken voor jullie, als jullie gelovigen zijn. (إِنَّ فِي ذَلِكَ لَآيَةً لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ) 2:248; 3:49
+- Wat heeft de mensen ervan weerhouden te geloven toen de leiding tot hen kwam? (وَمَا مَنَعَ النَّاسَ أَن يُؤْمِنُوا إِذْ جَاءَهُمُ الْهُدَى) 17:94; 18:55
+- En zij stelden gelijken aan Allah om van Zijn weg af te dwalen. Zeg: Geniet ervan. (وَجَعَلُوا لِلَّهِ أَندَادًا لِّيُضِلُّوا عَن سَبِيلِهِ قُلْ تَمَتَّعُوا) 14:30; 39:8
+- En zij verwonderden zich dat een waarschuwer uit hun midden tot hen kwam, en de ongelovigen zeiden: Dit. (وَعَجِبُوا أَن جَاءَهُم مُّنذِرٌ مِّنْهُمْ وَقَالَ الْكَافِرُونَ هَذَا) 38:4; 50:2
+- Voorwaar, jouw Heer weet het beste wie van Zijn weg afdwaalt. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ) 53:30; 68:7
+- Gelijken degene die zijn bezit uitgeeft om door de mensen gezien te worden en niet in Allah gelooft. (كَالَّذِي يُنفِقُ مَالَهُ رِئَاءَ النَّاسِ وَلَا يُؤْمِنُ بِاللَّهِ) 2:264; 4:38
+- Geeft van wat Wij jullie geschonken hebben, voordat het komt. (أَنفِقُوا مِمَّا رَزَقْنَاكُم مِّن قَبْلِ أَن يَأْتِيَ) 2:254; 63:10
+- Hij heeft voor jullie in dienst gesteld wat in de hemelen en op de aarde is. (سَخَّرَ لَكُم مَّا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 31:20; 45:13
+- En wij zijn voorwaar in twijfel over dat waartoe jullie ons oproepen. (وَإِنَّنَا لَفِي شَكٍّ مِّمَّا تَدْعُونَا إِلَيْهِ مُرِيبٍ) 11:62; 14:9
+- Voorwaar, jouw Heer vergroot de voorziening voor wie Hij wil en beperkt haar. Voorwaar, Hij. (إِنَّ رَبَّكَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ وَيَقْدِرُ إِنَّهُ) 17:30; 34:36
+- De Heer van de hemelen en de aarde en wat daartussen is, als jullie overtuigd zijn. (رَبُّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا إِن كُنتُم مُّوقِنِينَ) 26:24; 44:7
+- Wij geloven in Allah en in wat aan ons is geopenbaard en in wat is geopenbaard aan. (آمَنَّا بِاللَّهِ وَمَا أُنزِلَ إِلَيْنَا وَمَا أُنزِلَ إِلَى) 2:136; 3:199
+- En degenen die onrecht deden, werd de schreeuw getroffen, en zij lagen op hun knieën in hun huizen. (وَأَخَذَ الَّذِينَ ظَلَمُوا الصَّيْحَةُ فَأَصْبَحُوا فِي دِيَارِهِمْ جَاثِمِينَ) 11:67; 11:94
+- Dan is er geen schuld voor jullie in wat zij met zichzelf doen. (فَلَا جُنَاحَ عَلَيْكُمْ فِيمَا فَعَلْنَ فِي أَنفُسِهِنَّ) 2:234; 2:240
+- Jouw Heer weet het beste wie van Zijn weg afdwaalt, en Hij. (رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ) 53:30; 68:7
+- Met de Geest (openbaring) op Zijn bevel aan wie Hij wil van Zijn dienaren. (بِالرُّوحِ مِنْ أَمْرِهِ عَلَى مَن يَشَاءُ مِنْ عِبَادِهِ) 16:2; 40:15
+- En Wij gaven aan Jezus, de zoon van Maria, duidelijke tekenen en versterkten hem met de Heilige Geest. (وَآتَيْنَا عِيسَى ابْنَ مَرْيَمَ الْبَيِّنَاتِ وَأَيَّدْنَاهُ بِرُوحِ الْقُدُسِ) 2:87; 2:253
+- Opdat Hij op de Dag der Opstanding tussen hen zal oordelen over dat waarin zij verschilden. (لَيَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ) 16:124; 22:69
+- En Wij maakten wat boven was ervan tot wat beneden was, en Wij lieten stenen van gebakken klei op hen regenen. (جَعَلْنَا عَالِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةً مِّن سِجِّيلٍ) 11:82; 15:74
+- Het is voor hen hetzelfde, of je hen nu waarschuwt of niet waarschuwt, zij geloven niet. (سَوَاءٌ عَلَيْهِمْ أَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ) 2:6; 36:10
+- Buiten de mensen, wenst dan de dood, als jullie waarachtig zijn. (مِّن دُونِ النَّاسِ فَتَمَنَّوُا الْمَوْتَ إِن كُنتُمْ صَادِقِينَ) 2:94; 62:6
+- Allah, jullie hebben geen andere god dan Hem. Willen jullie dan niet vrezen? (اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 23:23; 23:32
+- Of Wij jou nu een deel tonen van wat Wij hen hebben bedreigd, of Wij jou laten sterven, tot Ons is hun terugkeer. (وَإِمَّا نُرِيَنَّكَ بَعْضَ الَّذِي نَعِدُهُمْ أَوْ نَتَوَفَّيَنَّكَ فَإِلَيْنَا) 10:46; 40:77
+- Zij zeiden: Zullen wij, wanneer wij dood zijn en stof en beenderen zijn geworden, werkelijk worden opgewekt? (قَالُوا أَإِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَامًا أَإِنَّا لَمَبْعُوثُونَ) 23:82; 56:47
+- Voorwaar, de genade is in de hand van Allah; Hij geeft het aan wie Hij wil. En Allah. (إِنَّ الْفَضْلَ بِيَدِ اللَّهِ يُؤْتِيهِ مَن يَشَاءُ وَاللَّهُ) 3:73; 57:29
+- En jullie zullen terugkeren tot de Kenner van het onwaarneembare en het waarneembare, en Hij zal jullie vertellen wat jullie plachten te doen. (إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ) 9:105; 62:8
+- O jullie die geloven, gedenkt Allahs gunst aan jullie, toen. (يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا نِعْمَتَ اللَّهِ عَلَيْكُمْ إِذْ) 5:11; 33:9
+- En Wij zonden vóór jou slechts mannen aan wie Wij openbaarden. (وَمَا أَرْسَلْنَا مِن قَبْلِكَ إِلَّا رِجَالًا نُّوحِي إِلَيْهِم) 12:109; 16:43
+- Hij zal zijn zonden vergeven en hem binnenleiden in tuinen waar rivieren onderdoor stromen. (يُكَفِّرْ عَنْهُ سَيِّئَاتِهِ وَيُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا) 64:9; 66:8
+- Wie ziek is of op reis, dan een aantal andere dagen. (مَّرِيضًا أَوْ عَلَى سَفَرٍ فَعِدَّةٌ مِّنْ أَيَّامٍ أُخَرَ) 2:184; 2:185
+- Zij volgen slechts het vermoeden en zij doen slechts gissingen. (إِن يَتَّبِعُونَ إِلَّا الظَّنَّ وَإِنْ هُمْ إِلَّا يَخْرُصُونَ) 6:116; 10:66
+- Een goed voorbeeld voor wie hoopt op Allah en de Laatste Dag. (أُسْوَةٌ حَسَنَةٌ لِّمَن كَانَ يَرْجُو اللَّهَ وَالْيَوْمَ الْآخِرَ) 33:21; 60:6
+- En Wij schiepen de hemelen en de aarde en wat daartussen is, niet dan met waarheid. (وَمَا خَلَقْنَا السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا إِلَّا بِالْحَقِّ) 15:85; 46:3
+- Steek je hand in je boezem, zij zal er wit uitkomen, zonder kwaad. (يَدَكَ فِي جَيْبِكَ تَخْرُجْ بَيْضَاءَ مِنْ غَيْرِ سُوءٍ) 27:12; 28:32
+- Hij onderscheidt met Zijn genade wie Hij wil, en Allah is de Bezitter van de grote genade. (يَخْتَصُّ بِرَحْمَتِهِ مَن يَشَاءُ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ) 2:105; 3:74
+- Weet jij dan niet dat Allah de heerschappij heeft over de hemelen en de aarde? (أَلَمْ تَعْلَمْ أَنَّ اللَّهَ لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ) 2:107; 5:40
+- En wat jullie ook vooruitsturen voor jullie zelf aan goeds, jullie zullen het bij Allah vinden. (وَمَا تُقَدِّمُوا لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ اللَّهِ) 2:110; 73:20
+- En waar jij ook vandaan komt, keer jouw gezicht naar de Heilige Moskee. (وَمِنْ حَيْثُ خَرَجْتَ فَوَلِّ وَجْهَكَ شَطْرَ الْمَسْجِدِ الْحَرَامِ) 2:149; 2:150
+- Zij die vóór jullie zijn geweest, en jij zult geen verandering vinden in de wet van Allah. (خَلَوْا مِن قَبْلُ وَلَن تَجِدَ لِسُنَّةِ اللَّهِ تَبْدِيلًا) 33:62; 48:23
+- Hij aan wie toebehoort wat in de hemelen en op de aarde is. (الَّذِي لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 34:1; 42:53
+- En geen enkele vrouw is zwanger of bevalt, behalve met Zijn kennis. (وَمَا تَحْمِلُ مِنْ أُنثَى وَلَا تَضَعُ إِلَّا بِعِلْمِهِ) 35:11; 41:47
+- Hij heeft de nacht in dienst gesteld, en de zon en de maan; ieder loopt naar een bepaalde termijn. (اللَّيْلِ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ كُلٌّ يَجْرِي لِأَجَلٍ مُّسَمًّى) 35:13; 39:5
+- Waar rivieren onderdoor stromen, waarin zij eeuwig zullen verblijven, en dat is de beloning. (تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَذَلِكَ جَزَاءُ) 5:85; 20:76
+- Hij zei: Nee, jullie zielen hebben iets voor jullie mooier gemaakt; geduld is schoon. (قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْرًا فَصَبْرٌ جَمِيلٌ) 12:18; 12:83
+- Wat in de hemelen en op de aarde is, en dat Allah. (مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَأَنَّ اللَّهَ) 5:97; 22:64
+- En er kwam geen boodschapper tot hen of zij bespotten hem. (وَمَا يَأْتِيهِم مِّن رَّسُولٍ إِلَّا كَانُوا بِهِ يَسْتَهْزِئُونَ) 15:11; 36:30
+- Zij zeiden: O Mozes, zul jij werpen, of zullen wij werpen? (قَالُوا يَامُوسَى إِمَّا أَن تُلْقِيَ وَإِمَّا أَن نَّكُونَ) 7:115; 20:65
+- Hij is het die jullie laat sterven, en sommigen van jullie worden teruggebracht tot de laagste leeftijd, zodat. (يَتَوَفَّاكُمْ وَمِنكُم مَّن يُرَدُّ إِلَى أَرْذَلِ الْعُمُرِ لِكَيْ) 16:70; 22:5
+- Voor hen zijn tuinen waarin rivieren stromen, waarin zij eeuwig zullen verblijven. (رَبِّهِمْ جَنَّاتٌ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 3:15; 3:136
+- En Wij hebben sluiers over hun harten gelegd zodat zij het niet begrijpen, en doofheid in hun oren. (وَجَعَلْنَا عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ) 17:46; 18:57
+- Voorwaar, de belofte van Allah is waar, maar de meesten van hen weten het niet. (إِنَّ وَعْدَ اللَّهِ حَقٌّ وَلَكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ) 10:55; 28:13
+- Dat is omdat zij Allah en Zijn Boodschapper weerstonden; en wie Allah weerstaat. (ذَلِكَ بِأَنَّهُمْ شَاقُّوا اللَّهَ وَرَسُولَهُ وَمَن يُشَاقِقِ اللَّهَ) 8:13; 59:4
+- En op de Dag dat Hij hen roept en zegt: Waar zijn Mijn deelgenoten die jullie plachten te verzinnen? (وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ أَيْنَ شُرَكَائِيَ الَّذِينَ كُنتُمْ تَزْعُمُونَ) 28:62; 28:74
+- Hebben zij dan niet gezien dat Allah, die de hemelen en de aarde heeft geschapen, in staat is om hun gelijken te scheppen? (أَوَلَمْ يَرَوْا أَنَّ اللَّهَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ) 17:99; 46:33
+- (Hem) die jullie schiep uit stof, daarna uit een druppel, daarna. (بِالَّذِي خَلَقَكَ مِن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ) 18:37; 40:67
+- Zij zouden zeggen: Onze Heer, waarom hebt U geen boodschapper naar ons gezonden, zodat wij Uw tekenen zouden volgen? (لَقَالُوا رَبَّنَا لَوْلَا أَرْسَلْتَ إِلَيْنَا رَسُولًا فَنَتَّبِعَ آيَاتِكَ) 20:134; 28:47
+- Dan is hun terugkeer tot hun Heer, en Hij zal hen vertellen wat zij plachten te doen. (ثُمَّ إِلَى رَبِّهِم مَّرْجِعُهُمْ فَيُنَبِّئُهُم بِمَا كَانُوا يَعْمَلُونَ) 6:108; 39:7
+- Zij hebben daar geen kennis van; zij volgen slechts het vermoeden. (مَّا لَهُم بِذَلِكَ مِنْ عِلْمٍ إِنْ هُمْ إِلَّا) 43:20; 45:24
+- Wij hebben onze vaderen op een godsdienst aangetroffen, en wij volgen hun voetsporen. (إِنَّا وَجَدْنَا آبَاءَنَا عَلَى أُمَّةٍ وَإِنَّا عَلَى آثَارِهِم) 43:22; 43:23
+- Zij aan wie het Boek is gegeven, verschilden pas nadat de kennis tot hen was gekomen. (الَّذِينَ أُوتُوا الْكِتَابَ إِلَّا مِن بَعْدِ مَا جَاءَهُمُ) 3:19; 98:4
+- En toen Abraham zei: Mijn Heer, maak deze stad veilig. (وَإِذْ قَالَ إِبْرَاهِيمُ رَبِّ اجْعَلْ هَذَا بَلَدًا آمِنًا) 2:126; 14:35
+- En Hij gaf jullie gehoor, zicht en harten; jullie zijn maar weinig dankbaar. (وَجَعَلَ لَكُمُ السَّمْعَ وَالْأَبْصَارَ وَالْأَفْئِدَةَ قَلِيلًا مَّا تَشْكُرُونَ) 32:9; 67:23
+- Degenen die twisten over de tekenen van Allah zonder enig gezag dat tot hen is gekomen. (الَّذِينَ يُجَادِلُونَ فِي آيَاتِ اللَّهِ بِغَيْرِ سُلْطَانٍ أَتَاهُمْ) 40:35; 40:56
+- Volgt dan de godsdienst van Abraham, de oprechte, en hij was geen veelgodendienaar. (فَاتَّبِعُوا مِلَّةَ إِبْرَاهِيمَ حَنِيفًا وَمَا كَانَ مِنَ الْمُشْرِكِينَ) 3:95; 16:123
+- En toen Wij jullie verlosten van het volk van Farao, die jullie de verschrikkelijkste straf oplegden. (وَإِذْ أَنجَيْنَاكُم مِّنْ آلِ فِرْعَوْنَ يَسُومُونَكُمْ سُوءَ الْعَذَابِ) 7:141; 14:6
+- Dat is de juiste godsdienst, maar de meeste mensen weten het niet. (ذَلِكَ الدِّينُ الْقَيِّمُ وَلَكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ) 12:40; 30:30
+- Zie je niet dat Allah voor jullie in dienst heeft gesteld wat in de. (أَلَمْ تَرَ أَنَّ اللَّهَ سَخَّرَ لَكُم مَّا فِي) 22:65; 31:20
+- Degenen die ongelovig waren, zouden zeggen: Dit is niets anders dan duidelijke toverij. (لَقَالَ الَّذِينَ كَفَرُوا إِنْ هَذَا إِلَّا سِحْرٌ مُّبِينٌ) 6:7; 11:7
+- En wanneer Onze duidelijke tekenen aan hen worden voorgelezen, zeggen degenen die ongelovig zijn. (وَإِذَا تُتْلَى عَلَيْهِمْ آيَاتُنَا بَيِّنَاتٍ قَالَ الَّذِينَ كَفَرُوا) 19:73; 46:7
+- Tuinen van Eeuwigheid waar rivieren onderdoor stromen, waarin zij eeuwig zullen verblijven. (جَنَّاتُ عَدْنٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 20:76; 98:8
+- Hij schept wat Hij wil; voorwaar, Allah is tot alle zaken in staat. (مَا يَشَاءُ إِنَّ اللَّهَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ) 24:45; 35:1
+- Opdat Hij jullie zonden zal vergeven en jullie uitstel zal verlenen tot een bepaalde termijn. (لِيَغْفِرَ لَكُم مِّن ذُنُوبِكُمْ وَيُؤَخِّرَكُمْ إِلَى أَجَلٍ مُّسَمًّى) 14:10; 71:4
+- Willen jullie ons ervan weerhouden onze voorouders te aanbidden? (تُرِيدُونَ أَن تَصُدُّونَا عَمَّا كَانَ يَعْبُدُ آبَاؤُنَا) 14:10; 34:43
+- En toen jouw Heer tot de engelen zei: Ik ga een mens uit klei scheppen. (وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي خَالِقٌ بَشَرًا مِّن) 15:28; 38:71
+- Hij is het die de winden uitzendt als blijde boodschap voor Zijn genade. (وَهُوَ الَّذِي يُرْسِلُ الرِّيَاحَ بُشْرًا بَيْنَ يَدَيْ رَحْمَتِهِ) 7:57; 25:48
+- Zeg: Reist over de aarde en ziet hoe het einde was. (قُلْ سِيرُوا فِي الْأَرْضِ فَانظُرُوا كَيْفَ كَانَ عَاقِبَةُ) 27:69; 30:42
+- Voorwaar, in de schepping van de hemelen en de aarde en de afwisseling van nacht en dag (zijn tekenen). (إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ) 2:164; 3:190
+- Wie is het die Allah een goede lening wil geven, zodat Hij het voor hem zal vermenigvuldigen? (مَّن ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا فَيُضَاعِفَهُ) 2:245; 57:11
+- Oordeelt dan tussen hen naar wat Allah heeft geopenbaard, en volgt hun begeerten niet. (فَاحْكُم بَيْنَهُم بِمَا أَنزَلَ اللَّهُ وَلَا تَتَّبِعْ أَهْوَاءَهُمْ) 5:48; 5:49
+- Wachten zij dan op iets anders dan dat de engelen tot hen komen, of het bevel van jouw Heer komt? (هَلْ يَنظُرُونَ إِلَّا أَن تَأْتِيَهُمُ الْمَلَائِكَةُ أَوْ يَأْتِيَ) 6:158; 16:33
+- Voorwaar, degenen die leugens verzinnen over Allah, zullen niet slagen. (إِنَّ الَّذِينَ يَفْتَرُونَ عَلَى اللَّهِ الْكَذِبَ لَا يُفْلِحُونَ) 10:69; 16:116
+- Als de gewoonte van het volk van Farao en degenen voor hen; zij loochenden Onze tekenen. (كَدَأْبِ آلِ فِرْعَوْنَ وَالَّذِينَ مِن قَبْلِهِمْ كَذَّبُوا بِآيَاتِنَا) 3:11; 8:54
+- En hij verblijdt de gelovigen die goede daden verrichten, dat voor hen een beloning is. (وَيُبَشِّرُ الْمُؤْمِنِينَ الَّذِينَ يَعْمَلُونَ الصَّالِحَاتِ أَنَّ لَهُمْ أَجْرًا) 17:9; 18:2
+- Allah vergroot de voorziening voor wie Hij wil van Zijn dienaren en beperkt haar. (اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ) 28:82; 29:62
+- En jullie zullen terugkeren tot de Kenner van het onwaarneembare en het waarneembare, en Hij zal jullie vertellen wat jullie plachten te doen. (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
+- En de bloedverwanten zijn nauwer aan elkaar verbonden in het Boek van Allah. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
 """;

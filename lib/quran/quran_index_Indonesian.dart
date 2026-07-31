@@ -3166,4 +3166,158 @@ Matching Phrases 9 words
 - Bagi mereka minuman dari air yang mendidih dan azab yang pedih disebabkan kekafiran mereka. (لَهُمْ شَرَابٌ مِّنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْفُرُونَ) 6:70; 10:4
 - Apakah kita akan menyembah selain Allah sesuatu yang tidak dapat memberi manfaat dan tidak dapat memberi mudarat kepada kita? (أَنَدْعُو مِن دُونِ اللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا) 6:71; 10:106
 - Bahwa Allah mengetahui apa yang ada di langit dan apa yang ada di bumi. (أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 5:97; 58:7
+Matching Phrases 8 words
+- Siapakah yang lebih zalim daripada orang yang mengada-adakan kebohongan terhadap Allah? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا) 6:21; 6:93; 6:144; 7:37; 10:17; 11:18; 18:15; 29:68; 61:7
+- Sesungguhnya pada yang demikian itu terdapat tanda (kekuasaan Allah), tetapi kebanyakan mereka tidak beriman. (إِنَّ فِي ذَلِكَ لَآيَةً وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ) 26:8; 26:67; 26:103; 26:121; 26:139; 26:158; 26:174; 26:190
+- Agar mereka berjalan di muka bumi dan melihat bagaimana kesudahan orang-orang (terdahulu). (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ) 12:109; 30:9; 30:42; 35:44; 40:21; 40:82; 47:10
+- Dia berkata: Wahai kaumku, sembahlah Allah, sekali-kali tidak ada bagimu Tuhan selain Dia. (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ) 7:65; 7:73; 7:85; 11:50; 11:61; 11:84; 23:23
+- Dia akan memasukkannya ke dalam surga-surga yang mengalir di bawahnya sungai-sungai, mereka kekal di dalamnya. (يُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 4:13; 4:57; 4:122; 58:22; 64:9; 65:11
+- Di antara mereka pada hari Kiamat akan diputuskan tentang apa yang mereka perselisihkan. (بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 2:113; 10:93; 16:124; 22:69; 32:25; 45:17
+- Dan apakah mereka tidak berjalan di muka bumi, lalu melihat bagaimana kesudahan (orang-orang dahulu)? (أَوَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ) 30:9; 35:44; 40:21; 40:82; 47:10
+- Surga-surga yang mengalir di bawahnya sungai-sungai, mereka kekal di dalamnya. (جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا) 4:57; 4:122; 5:119; 64:9; 65:11
+- Engkau masukkan malam ke dalam siang dan Engkau masukkan siang ke dalam malam. (تُولِجُ اللَّيْلَ فِي النَّهَارِ وَتُولِجُ النَّهَارَ فِي اللَّيْلِ) 3:27; 22:61; 31:29; 35:13; 57:6
+- Bertasbih kepada Allah apa yang ada di langit dan apa yang ada di bumi. (سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 59:1; 61:1; 62:1; 64:1
+- Sembahlah Allah, sekali-kali tidak ada bagimu Tuhan selain Dia. Apakah kamu tidak bertakwa? (اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا) 7:65; 11:84; 23:23; 23:32
+- Dan (ingatlah) ketika Kami berfirman kepada malaikat: Sujudlah kamu kepada Adam, maka mereka pun sujud kecuali Iblis. (وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا إِبْلِيسَ) 2:34; 17:61; 18:50; 20:116
+- Allah mengetahui apa yang ada di langit dan apa yang ada di bumi. (اللَّهُ وَيَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 3:29; 5:97; 49:16; 58:7
+- Surga-surga yang mengalir di bawahnya sungai-sungai, mereka kekal di dalamnya, dan itu. (جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَذَلِكَ) 4:13; 5:85; 9:89; 57:12
+- Pahalanya di sisi Tuhannya, dan tidak ada rasa takut pada mereka, dan mereka. (أَجْرُهُ عِندَ رَبِّهِ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ) 2:112; 2:262; 2:274; 2:277
+- Di sisi Tuhannya, dan tidak ada rasa takut pada mereka, dan mereka tidak bersedih hati. (عِندَ رَبِّهِ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ) 2:112; 2:262; 2:274; 2:277
+- Barang siapa mendapat petunjuk, maka sesungguhnya ia mendapat petunjuk untuk dirinya sendiri, dan barang siapa sesat. (فَمَنِ اهْتَدَى فَإِنَّمَا يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ) 10:108; 17:15; 27:92
+- Mendapat petunjuk untuk dirinya sendiri, dan barang siapa sesat, maka sesungguhnya ia sesat untuk dirinya sendiri. (يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا) 10:108; 17:15; 39:41
+- Mengapa tidak diturunkan kepadanya suatu ayat dari Tuhannya? Katakanlah: Sesungguhnya. (لَوْلَا أُنزِلَ عَلَيْهِ آيَةٌ مِّن رَّبِّهِ فَقُلْ إِنَّمَا) 10:20; 13:27; 29:50
+- Orang-orang yang beriman dan mengerjakan amal saleh, bagi mereka pahala yang tidak putus-putusnya. (الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ) 41:8; 84:25; 95:6
+- Engkau mengeluarkan yang hidup dari yang mati dan Engkau mengeluarkan yang mati dari yang hidup. (وَتُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ وَتُخْرِجُ الْمَيِّتَ مِنَ الْحَيِّ) 3:27; 10:31; 30:19
+- Barang siapa tidak memutuskan perkara menurut apa yang diturunkan Allah, maka mereka itu adalah orang-orang. (وَمَن لَّمْ يَحْكُم بِمَا أَنزَلَ اللَّهُ فَأُولَئِكَ هُمُ) 5:44; 5:45; 5:47
+- Dia menciptakan langit dan bumi dan apa yang ada di antara keduanya dalam enam masa. (خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا فِي سِتَّةِ أَيَّامٍ) 25:59; 32:4; 50:38
+- Sesungguhnya Allah benar-benar mempunyai karunia atas manusia, tetapi kebanyakan. (إِنَّ اللَّهَ لَذُو فَضْلٍ عَلَى النَّاسِ وَلَكِنَّ أَكْثَرَ) 2:243; 10:60; 40:61
+- Allah tidak menganiaya mereka, tetapi merekalah yang menganiaya diri mereka sendiri. (فَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ وَلَكِن كَانُوا أَنفُسَهُمْ يَظْلِمُونَ) 9:70; 29:40; 30:9
+- Dia akan mengampuni dosa-dosamu dan memasukkanmu ke dalam surga-surga yang mengalir di bawahnya sungai-sungai. (عَنكُمْ سَيِّئَاتِكُمْ وَلَأُدْخِلَنَّكُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 5:12; 64:9; 66:8
+- Dia mengharamkan bagimu bangkai, darah, daging babi, dan (daging) hewan yang disembelih dengan menyebut nama selain Allah. (حَرَّمَ عَلَيْكُمُ الْمَيْتَةَ وَالدَّمَ وَلَحْمَ الْخِنزِيرِ وَمَا أُهِلَّ) 2:173; 5:3; 16:115
+- Sesungguhnya aku takut, jika aku durhaka kepada Tuhanku, (akan mendapat) azab hari yang besar. (إِنِّي أَخَافُ إِنْ عَصَيْتُ رَبِّي عَذَابَ يَوْمٍ عَظِيمٍ) 6:15; 10:15; 39:13
+- Tetapi setelah ilmu datang kepada mereka, karena dengki di antara mereka. (إِلَّا مِن بَعْدِ مَا جَاءَهُمُ الْعِلْمُ بَغْيًا بَيْنَهُمْ) 3:19; 42:14; 45:17
+- Mereka mendirikan salat dan menafkahkan sebagian dari rezeki yang Kami berikan kepada mereka, secara sembunyi-sembunyi dan terang-terangan. (وَأَقَامُوا الصَّلَاةَ وَأَنفَقُوا مِمَّا رَزَقْنَاهُمْ سِرًّا وَعَلَانِيَةً) 13:22; 14:31; 35:29
+- Patutkah kita menyembah selain Allah sesuatu yang tidak dapat memberi manfaat dan tidak (pula) memberi mudarat kepada kita? (مِن دُونِ اللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا) 6:71; 10:106; 25:55
+- Mereka beriman kepada apa yang diturunkan kepadamu dan apa yang diturunkan sebelummu. (يُؤْمِنُونَ بِمَا أُنزِلَ إِلَيْكَ وَمَا أُنزِلَ مِن قَبْلِكَ) 2:4; 4:60; 4:162
+- Tidakkah engkau melihat bahwa Allah menurunkan air dari langit? (أَلَمْ تَرَ أَنَّ اللَّهَ أَنزَلَ مِنَ السَّمَاءِ مَاءً) 22:63; 35:27; 39:21
+- Apabila Dia berkehendak menetapkan sesuatu, maka Dia hanya berkata kepadanya: Jadilah, maka jadilah ia. (قَضَى أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُن فَيَكُونُ) 3:47; 19:35; 40:68
+- Dan kepada (penduduk) Madyan, (Kami utus) saudara mereka Syuaib. Dia berkata: Wahai kaumku, sembahlah Allah. (وَإِلَى مَدْيَنَ أَخَاهُمْ شُعَيْبًا قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ) 7:85; 11:84; 29:36
+- Itu adalah sebagian dari berita-berita gaib yang Kami wahyukan kepadamu; engkau tidak mengetahuinya. (ذَلِكَ مِنْ أَنْبَاءِ الْغَيْبِ نُوحِيهِ إِلَيْكَ وَمَا كُنتَ) 3:44; 11:49; 12:102
+- Apabila telah datang ajal mereka, mereka tidak dapat memundurkannya sesaat pun dan tidak (pula) mendahulukannya. (فَإِذَا جَاءَ أَجَلُهُمْ لَا يَسْتَأْخِرُونَ سَاعَةً وَلَا يَسْتَقْدِمُونَ) 7:34; 10:49; 16:61
+- Dan janganlah kamu mengikuti langkah-langkah setan, karena sesungguhnya setan itu musuh yang nyata bagimu. (وَلَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ إِنَّهُ لَكُمْ عَدُوٌّ مُّبِينٌ) 2:168; 2:208; 6:142
+- Dan di antara manusia ada orang yang membantah tentang Allah tanpa ilmu pengetahuan. (وَمِنَ النَّاسِ مَن يُجَادِلُ فِي اللَّهِ بِغَيْرِ عِلْمٍ) 22:3; 22:8; 31:20
+- Allah memberikan karunia itu kepada siapa yang Dia kehendaki, dan Allah mempunyai karunia yang besar. (اللَّهِ يُؤْتِيهِ مَن يَشَاءُ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ) 57:21; 57:29; 62:4
+- Setiap jiwa akan diberi balasan dengan sempurna sesuai dengan apa yang telah dikerjakannya, dan mereka tidak dianiaya. (تُوَفَّى كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ) 2:281; 3:25; 3:161
+- Dan janganlah kamu membunuh jiwa yang diharamkan Allah (membunuhnya), melainkan dengan suatu (alasan) yang benar. (وَلَا تَقْتُلُوا النَّفْسَ الَّتِي حَرَّمَ اللَّهُ إِلَّا بِالْحَقِّ) 6:151; 17:33; 25:68
+- Apabila Dia berkehendak menetapkan sesuatu, maka Dia hanya berkata kepadanya: Jadilah. (إِذَا قَضَى أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُن) 3:47; 19:35; 40:68
+- Masukilah pintu-pintu neraka Jahanam, kamu kekal di dalamnya; maka itulah seburuk-buruk tempat bagi orang-orang yang menyombongkan diri. (فَادْخُلُوا أَبْوَابَ جَهَنَّمَ خَالِدِينَ فِيهَا فَلَبِئْسَ مَثْوَى الْمُتَكَبِّرِينَ) 16:29; 39:72; 40:76
+- Tidakkah engkau melihat orang-orang yang diberi bagian dari Kitab? (أَلَمْ تَرَ إِلَى الَّذِينَ أُوتُوا نَصِيبًا مِّنَ الْكِتَابِ) 3:23; 4:44; 4:51
+- Bagi mereka surga-surga yang mengalir di bawahnya sungai-sungai, mereka kekal di dalamnya. (لَهُمْ جَنَّاتٌ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 3:198; 5:119; 9:89
+- Wahai kaumku, berbuatlah sesuai dengan kemampuanmu, sesungguhnya akupun berbuat (pula). Kelak kamu akan mengetahui. (يَاقَوْمِ اعْمَلُوا عَلَى مَكَانَتِكُمْ إِنِّي عَامِلٌ فَسَوْفَ تَعْلَمُونَ) 6:135; 11:93; 39:39
+- Barang siapa menentang Allah dan Rasul-Nya, maka sesungguhnya baginya neraka Jahanam, kekal di dalamnya. (اللَّهَ وَرَسُولَهُ فَأَنَّ لَهُ نَارَ جَهَنَّمَ خَالِدًا فِيهَا) 9:63; 72:23
+- Kami telah meletakkan tutupan di atas hati mereka, agar mereka tidak memahaminya, dan di telinga mereka sumbatan. (عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا) 17:46; 18:57
+- Dan tidaklah Kami mengutus seorang pemberi peringatan pun kepada suatu negeri, melainkan orang-orang yang hidup mewah di negeri itu berkata: Sesungguhnya kami. (فِي قَرْيَةٍ مِّن نَّذِيرٍ إِلَّا قَالَ مُتْرَفُوهَا إِنَّا) 34:34; 43:23
+- Mereka berkata: Mohonkanlah kepada Tuhanmu untuk kami, agar Dia menjelaskan kepada kami apa (sapi) itu. (قَالُوا ادْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِيَ) 2:68; 2:70
+- Mereka akan berkata: Allah. Katakanlah: Segala puji bagi Allah! Tetapi kebanyakan mereka. (لَيَقُولُنَّ اللَّهُ قُلِ الْحَمْدُ لِلَّهِ بَلْ أَكْثَرُهُمْ لَا) 29:63; 31:25
+- Dan jawaban kaumnya tidak lain hanya mengatakan: Usirlah mereka. (وَمَا كَانَ جَوَابَ قَوْمِهِ إِلَّا أَن قَالُوا أَخْرِجُوهُم) 7:82; 27:56
+- Mengalir di bawahnya sungai-sungai, mereka kekal di dalamnya; itulah kemenangan yang besar. (تَحْتَهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا ذَلِكَ الْفَوْزُ الْعَظِيمُ) 9:100; 64:9
+- Mereka itulah orang-orang yang tetap mendapat petunjuk dari Tuhan mereka, dan mereka itulah orang-orang yang beruntung. (أُولَئِكَ عَلَى هُدًى مِّن رَّبِّهِمْ وَأُولَئِكَ هُمُ الْمُفْلِحُونَ) 2:5; 31:5
+- Orang yang akan ditimpa azab yang menghinakan dan akan ditimpa azab yang kekal. (مَن يَأْتِيهِ عَذَابٌ يُخْزِيهِ وَيَحِلُّ عَلَيْهِ عَذَابٌ مُّقِيمٌ) 11:39; 39:40
+- Maka berjalanlah kamu di muka bumi dan perhatikanlah bagaimana kesudahan orang-orang yang mendustakan (rasul-rasul). (فَسِيرُوا فِي الْأَرْضِ فَانظُرُوا كَيْفَ كَانَ عَاقِبَةُ الْمُكَذِّبِينَ) 3:137; 16:36
+- Mereka tidak akan pernah menginginkannya, disebabkan apa yang telah dilakukan oleh tangan mereka, dan Allah Maha Mengetahui orang-orang yang zalim. (يَتَمَنَّوْهُ أَبَدًا بِمَا قَدَّمَتْ أَيْدِيهِمْ وَاللَّهُ عَلِيمٌ بِالظَّالِمِينَ) 2:95; 62:7
+- Dialah yang lebih mengetahui siapa yang sesat dari jalan-Nya, dan Dialah yang lebih mengetahui. (هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ) 53:30; 68:7
+- Sesungguhnya Allah adalah Tuhanku dan Tuhanmu, maka sembahlah Dia; inilah jalan yang lurus. (إِنَّ اللَّهَ رَبِّي وَرَبُّكُمْ فَاعْبُدُوهُ هَذَا صِرَاطٌ مُّسْتَقِيمٌ) 3:51; 19:36
+- Dia mempunyai karunia atas manusia, tetapi kebanyakan mereka tidak bersyukur. (لَذُو فَضْلٍ عَلَى النَّاسِ وَلَكِنَّ أَكْثَرَهُمْ لَا يَشْكُرُونَ) 10:60; 27:73
+- Langit dan bumi dan apa yang ada di antara keduanya, tidaklah Kami ciptakan melainkan dengan hak dan dalam waktu yang ditentukan. (السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا إِلَّا بِالْحَقِّ وَأَجَلٍ مُّسَمًّى) 30:8; 46:3
+- Biarkanlah mereka tenggelam (dalam kebatilan) dan bermain-main, sampai mereka menjumpai hari yang diancamkan kepada mereka. (فَذَرْهُمْ يَخُوضُوا وَيَلْعَبُوا حَتَّى يُلَاقُوا يَوْمَهُمُ الَّذِي يُوعَدُونَ) 43:83; 70:42
+- Apabila mereka bertemu dengan orang-orang yang beriman, mereka berkata: Kami telah beriman, dan apabila mereka berkumpul dengan sesama mereka. (وَإِذَا لَقُوا الَّذِينَ آمَنُوا قَالُوا آمَنَّا وَإِذَا خَلَوْا) 2:14; 2:76
+- Mereka menegakkan Taurat dan Injil dan apa yang diturunkan kepada mereka dari Tuhan mereka. (أَقَامُوا التَّوْرَاةَ وَالْإِنجِيلَ وَمَا أُنزِلَ إِلَيْهِم مِّن رَّبِّهِمْ) 5:66; 5:68
+- Dia mengetahui apa yang ada di hadapan mereka dan apa yang ada di belakang mereka, dan mereka tidak mengetahui sesuatu pun dari ilmu Allah melainkan apa yang Dia kehendaki. (يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ) 2:255; 20:110
+- Dan Dialah yang menciptakan langit dan bumi dalam enam masa. (وَهُوَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ) 11:7; 57:4
+- Sesungguhnya pada yang demikian itu terdapat tanda (kekuasaan Allah) bagimu, jika kamu beriman. (إِنَّ فِي ذَلِكَ لَآيَةً لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ) 2:248; 3:49
+- Apakah yang menghalangi manusia untuk beriman, ketika petunjuk telah datang kepada mereka? (وَمَا مَنَعَ النَّاسَ أَن يُؤْمِنُوا إِذْ جَاءَهُمُ الْهُدَى) 17:94; 18:55
+- Dan mereka menjadikan sekutu-sekutu bagi Allah, untuk menyesatkan (manusia) dari jalan-Nya. Katakanlah: Bersukarialah. (وَجَعَلُوا لِلَّهِ أَندَادًا لِّيُضِلُّوا عَن سَبِيلِهِ قُلْ تَمَتَّعُوا) 14:30; 39:8
+- Dan mereka merasa heran, karena telah datang kepada mereka seorang pemberi peringatan dari kalangan mereka sendiri; dan orang-orang kafir berkata: Ini. (وَعَجِبُوا أَن جَاءَهُم مُّنذِرٌ مِّنْهُمْ وَقَالَ الْكَافِرُونَ هَذَا) 38:4; 50:2
+- Sesungguhnya Tuhanmu, Dialah yang lebih mengetahui siapa yang sesat dari jalan-Nya. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ) 53:30; 68:7
+- Seperti orang yang menginfakkan hartanya karena riya (pamer) kepada manusia dan tidak beriman kepada Allah. (كَالَّذِي يُنفِقُ مَالَهُ رِئَاءَ النَّاسِ وَلَا يُؤْمِنُ بِاللَّهِ) 2:264; 4:38
+- Infakkanlah sebagian dari apa yang telah Kami berikan kepadamu sebelum datang. (أَنفِقُوا مِمَّا رَزَقْنَاكُم مِّن قَبْلِ أَن يَأْتِيَ) 2:254; 63:10
+- Dia menundukkan bagimu apa yang ada di langit dan apa yang ada di bumi. (سَخَّرَ لَكُم مَّا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 31:20; 45:13
+- Dan sesungguhnya kami benar-benar berada dalam keraguan terhadap apa yang kamu serukan kepada kami. (وَإِنَّنَا لَفِي شَكٍّ مِّمَّا تَدْعُونَا إِلَيْهِ مُرِيبٍ) 11:62; 14:9
+- Sesungguhnya Tuhanmu melapangkan rezeki kepada siapa yang Dia kehendaki dan menyempitkannya. Sesungguhnya Dia. (إِنَّ رَبَّكَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ وَيَقْدِرُ إِنَّهُ) 17:30; 34:36
+- Tuhan langit dan bumi dan apa yang ada di antara keduanya, jika kamu orang-orang yang meyakini. (رَبُّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا إِن كُنتُم مُّوقِنِينَ) 26:24; 44:7
+- Kami beriman kepada Allah dan kepada apa yang diturunkan kepada kami dan yang diturunkan kepada. (آمَنَّا بِاللَّهِ وَمَا أُنزِلَ إِلَيْنَا وَمَا أُنزِلَ إِلَى) 2:136; 3:199
+- Dan orang-orang yang zalim itu ditimpa oleh suara keras yang mengguncangkan, lalu mereka mati bergelimpangan di tempat-tempat tinggal mereka. (وَأَخَذَ الَّذِينَ ظَلَمُوا الصَّيْحَةُ فَأَصْبَحُوا فِي دِيَارِهِمْ جَاثِمِينَ) 11:67; 11:94
+- Maka tidak ada dosa bagimu terhadap apa yang mereka perbuat terhadap diri mereka sendiri. (فَلَا جُنَاحَ عَلَيْكُمْ فِيمَا فَعَلْنَ فِي أَنفُسِهِنَّ) 2:234; 2:240
+- Tuhanmu lebih mengetahui siapa yang sesat dari jalan-Nya, dan Dia. (رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ) 53:30; 68:7
+- Dengan roh (wahyu) dari perintah-Nya, kepada siapa yang Dia kehendaki di antara hamba-hamba-Nya. (بِالرُّوحِ مِنْ أَمْرِهِ عَلَى مَن يَشَاءُ مِنْ عِبَادِهِ) 16:2; 40:15
+- Dan Kami berikan kepada Isa putra Maryam keterangan-keterangan yang nyata, dan Kami perkuat dia dengan Rohul Qudus (Roh Suci). (وَآتَيْنَا عِيسَى ابْنَ مَرْيَمَ الْبَيِّنَاتِ وَأَيَّدْنَاهُ بِرُوحِ الْقُدُسِ) 2:87; 2:253
+- Agar Dia memberi keputusan di antara mereka pada hari Kiamat tentang apa yang mereka perselisihkan. (لَيَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ) 16:124; 22:69
+- Kami menjungkirbalikkan negeri itu dan kami hujani mereka dengan batu dari tanah yang terbakar. (جَعَلْنَا عَالِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةً مِّن سِجِّيلٍ) 11:82; 15:74
+- Sama saja bagi mereka, apakah kamu memberi peringatan kepada mereka atau tidak, mereka tidak akan beriman. (سَوَاءٌ عَلَيْهِمْ أَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ) 2:6; 36:10
+- Selain manusia, maka inginkanlah kematian, jika kamu orang-orang yang benar. (مِّن دُونِ النَّاسِ فَتَمَنَّوُا الْمَوْتَ إِن كُنتُمْ صَادِقِينَ) 2:94; 62:6
+- Allah, sekali-kali tidak ada bagimu Tuhan selain Dia. Apakah kamu tidak bertakwa? (اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 23:23; 23:32
+- Atau Kami perlihatkan kepadamu sebagian (dari azab) yang Kami ancamkan kepada mereka, atau Kami wafatkan kamu, maka hanya kepada Kamilah mereka kembali. (وَإِمَّا نُرِيَنَّكَ بَعْضَ الَّذِي نَعِدُهُمْ أَوْ نَتَوَفَّيَنَّكَ فَإِلَيْنَا) 10:46; 40:77
+- Mereka berkata: Apakah apabila kami telah mati dan menjadi tanah dan tulang belulang, apakah kami akan benar-benar dibangkitkan? (قَالُوا أَإِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَامًا أَإِنَّا لَمَبْعُوثُونَ) 23:82; 56:47
+- Sesungguhnya karunia itu di tangan Allah, Dia memberikannya kepada siapa yang Dia kehendaki, dan Allah. (إِنَّ الْفَضْلَ بِيَدِ اللَّهِ يُؤْتِيهِ مَن يَشَاءُ وَاللَّهُ) 3:73; 57:29
+- Dan kamu akan dikembalikan kepada (Allah) Yang Maha Mengetahui yang gaib dan yang nyata, lalu Dia memberitakan kepadamu apa yang telah kamu kerjakan. (إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ) 9:105; 62:8
+- Wahai orang-orang yang beriman, ingatlah nikmat Allah kepadamu, ketika. (يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا نِعْمَتَ اللَّهِ عَلَيْكُمْ إِذْ) 5:11; 33:9
+- Dan Kami tidak mengutus sebelum kamu, melainkan orang-orang laki-laki yang Kami beri wahyu. (وَمَا أَرْسَلْنَا مِن قَبْلِكَ إِلَّا رِجَالًا نُّوحِي إِلَيْهِم) 12:109; 16:43
+- Dia akan mengampuni dosa-dosanya dan memasukkannya ke dalam surga-surga yang mengalir di bawahnya sungai-sungai. (يُكَفِّرْ عَنْهُ سَيِّئَاتِهِ وَيُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا) 64:9; 66:8
+- Barang siapa sakit atau dalam perjalanan, maka (wajib mengganti) sebanyak hari yang ditinggalkan itu pada hari-hari yang lain. (مَّرِيضًا أَوْ عَلَى سَفَرٍ فَعِدَّةٌ مِّنْ أَيَّامٍ أُخَرَ) 2:184; 2:185
+- Mereka tidak mengikuti kecuali sangkaan, dan mereka tidak lain hanyalah menduga-duga. (إِن يَتَّبِعُونَ إِلَّا الظَّنَّ وَإِنْ هُمْ إِلَّا يَخْرُصُونَ) 6:116; 10:66
+- Sungguh, pada (diri) Rasulullah itu terdapat suri teladan yang baik bagimu, (yaitu) bagi orang yang mengharap (rahmat) Allah dan (kedatangan) hari Kiamat. (أُسْوَةٌ حَسَنَةٌ لِّمَن كَانَ يَرْجُو اللَّهَ وَالْيَوْمَ الْآخِرَ) 33:21; 60:6
+- Dan Kami tidak menciptakan langit dan bumi dan apa yang ada di antara keduanya, melainkan dengan benar. (وَمَا خَلَقْنَا السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا إِلَّا بِالْحَقِّ) 15:85; 46:3
+- Masukkanlah tanganmu ke dalam saku bajumu, niscaya ia akan keluar putih (bercahaya) tanpa cacat. (يَدَكَ فِي جَيْبِكَ تَخْرُجْ بَيْضَاءَ مِنْ غَيْرِ سُوءٍ) 27:12; 28:32
+- Dia mengkhususkan rahmat-Nya kepada siapa yang Dia kehendaki, dan Allah memiliki karunia yang besar. (يَخْتَصُّ بِرَحْمَتِهِ مَن يَشَاءُ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ) 2:105; 3:74
+- Tidakkah kamu mengetahui bahwa Allah memiliki kerajaan langit dan bumi? (أَلَمْ تَعْلَمْ أَنَّ اللَّهَ لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ) 2:107; 5:40
+- Dan apa saja yang kamu usahakan dari kebaikan untuk dirimu, niscaya kamu akan mendapatkannya di sisi Allah. (وَمَا تُقَدِّمُوا لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ اللَّهِ) 2:110; 73:20
+- Dan dari mana pun engkau keluar, hadapkanlah wajahmu ke arah Masjidil Haram. (وَمِنْ حَيْثُ خَرَجْتَ فَوَلِّ وَجْهَكَ شَطْرَ الْمَسْجِدِ الْحَرَامِ) 2:149; 2:150
+- Orang-orang sebelum kamu telah berlalu, dan kamu sekali-kali tidak akan mendapatkan perubahan pada sunnah Allah. (خَلَوْا مِن قَبْلُ وَلَن تَجِدَ لِسُنَّةِ اللَّهِ تَبْدِيلًا) 33:62; 48:23
+- Yang memiliki apa yang ada di langit dan apa yang ada di bumi. (الَّذِي لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 34:1; 42:53
+- Dan tidak ada seorang perempuan pun yang mengandung dan tidak pula melahirkan, melainkan dengan sepengetahuan-Nya. (وَمَا تَحْمِلُ مِنْ أُنثَى وَلَا تَضَعُ إِلَّا بِعِلْمِهِ) 35:11; 41:47
+- Dia menundukkan malam, matahari, dan bulan; masing-masing beredar sampai waktu yang ditentukan. (اللَّيْلِ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ كُلٌّ يَجْرِي لِأَجَلٍ مُّسَمًّى) 35:13; 39:5
+- Mengalir di bawahnya sungai-sungai, mereka kekal di dalamnya; dan itulah balasan. (تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَذَلِكَ جَزَاءُ) 5:85; 20:76
+- Dia berkata: Sebenarnya, nafsu (kalian) telah membujuk kalian untuk melakukan sesuatu; maka sabar itu lebih baik. (قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْرًا فَصَبْرٌ جَمِيلٌ) 12:18; 12:83
+- Apa yang ada di langit dan apa yang ada di bumi, dan sesungguhnya Allah. (مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَأَنَّ اللَّهَ) 5:97; 22:64
+- Dan tidaklah seorang rasul pun datang kepada mereka, melainkan mereka selalu memperolok-olokkannya. (وَمَا يَأْتِيهِم مِّن رَّسُولٍ إِلَّا كَانُوا بِهِ يَسْتَهْزِئُونَ) 15:11; 36:30
+- Mereka berkata: Wahai Musa, apakah engkau yang akan melemparkan (tongkatmu) atau kami yang akan melemparkan? (قَالُوا يَامُوسَى إِمَّا أَن تُلْقِيَ وَإِمَّا أَن نَّكُونَ) 7:115; 20:65
+- Dialah yang mematikan kamu, dan di antara kamu ada yang dikembalikan kepada usia yang paling lemah, agar. (يَتَوَفَّاكُمْ وَمِنكُم مَّن يُرَدُّ إِلَى أَرْذَلِ الْعُمُرِ لِكَيْ) 16:70; 22:5
+- Bagi mereka (disediakan) surga-surga yang mengalir di bawahnya sungai-sungai, mereka kekal di dalamnya. (رَبِّهِمْ جَنَّاتٌ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 3:15; 3:136
+- Dan Kami telah meletakkan tutupan di atas hati mereka, agar mereka tidak memahaminya, dan di telinga mereka sumbatan. (وَجَعَلْنَا عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ) 17:46; 18:57
+- Sesungguhnya janji Allah itu benar, tetapi kebanyakan mereka tidak mengetahui. (إِنَّ وَعْدَ اللَّهِ حَقٌّ وَلَكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ) 10:55; 28:13
+- Yang demikian itu, karena mereka menentang Allah dan Rasul-Nya; dan barang siapa menentang Allah. (ذَلِكَ بِأَنَّهُمْ شَاقُّوا اللَّهَ وَرَسُولَهُ وَمَن يُشَاقِقِ اللَّهَ) 8:13; 59:4
+- Dan (ingatlah) hari (ketika) Dia memanggil mereka seraya berkata: Di manakah sekutu-sekutu-Ku yang dahulu kamu persekutukan? (وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ أَيْنَ شُرَكَائِيَ الَّذِينَ كُنتُمْ تَزْعُمُونَ) 28:62; 28:74
+- Dan apakah mereka tidak memperhatikan bahwa Allah, yang menciptakan langit dan bumi, mampu menciptakan yang serupa dengan mereka? (أَوَلَمْ يَرَوْا أَنَّ اللَّهَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ) 17:99; 46:33
+- (Tuhan) yang menciptakanmu dari tanah, kemudian dari setetes mani, kemudian. (بِالَّذِي خَلَقَكَ مِن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ) 18:37; 40:67
+- Mereka pasti berkata: Ya Tuhan kami, mengapa Engkau tidak mengutus seorang rasul kepada kami, sehingga kami mengikuti ayat-ayat-Mu? (لَقَالُوا رَبَّنَا لَوْلَا أَرْسَلْتَ إِلَيْنَا رَسُولًا فَنَتَّبِعَ آيَاتِكَ) 20:134; 28:47
+- Kemudian kepada Tuhanmulah kembali mereka, lalu Dia memberitakan kepada mereka apa yang telah mereka kerjakan. (ثُمَّ إِلَى رَبِّهِم مَّرْجِعُهُمْ فَيُنَبِّئُهُم بِمَا كَانُوا يَعْمَلُونَ) 6:108; 39:7
+- Mereka tidak mempunyai pengetahuan tentang itu; mereka tidak lain hanyalah mengikuti sangkaan. (مَّا لَهُم بِذَلِكَ مِنْ عِلْمٍ إِنْ هُمْ إِلَّا) 43:20; 45:24
+- Sesungguhnya kami mendapati nenek moyang kami menganut suatu agama, dan sesungguhnya kami orang-orang yang mengikuti jejak mereka. (إِنَّا وَجَدْنَا آبَاءَنَا عَلَى أُمَّةٍ وَإِنَّا عَلَى آثَارِهِم) 43:22; 43:23
+- Orang-orang yang diberi Kitab, tidaklah mereka berselisih, kecuali setelah datang kepada mereka pengetahuan. (الَّذِينَ أُوتُوا الْكِتَابَ إِلَّا مِن بَعْدِ مَا جَاءَهُمُ) 3:19; 98:4
+- Dan (ingatlah) ketika Ibrahim berkata: Ya Tuhanku, jadikanlah negeri ini (Mekah) negeri yang aman. (وَإِذْ قَالَ إِبْرَاهِيمُ رَبِّ اجْعَلْ هَذَا بَلَدًا آمِنًا) 2:126; 14:35
+- Dan Dia memberikan kepadamu pendengaran, penglihatan, dan hati; tetapi sedikit sekali kamu bersyukur. (وَجَعَلَ لَكُمُ السَّمْعَ وَالْأَبْصَارَ وَالْأَفْئِدَةَ قَلِيلًا مَّا تَشْكُرُونَ) 32:9; 67:23
+- Orang-orang yang membantah ayat-ayat Allah tanpa alasan yang sampai kepada mereka. (الَّذِينَ يُجَادِلُونَ فِي آيَاتِ اللَّهِ بِغَيْرِ سُلْطَانٍ أَتَاهُمْ) 40:35; 40:56
+- Maka ikutilah agama Ibrahim yang lurus, dan dia tidak termasuk orang-orang yang mempersekutukan Allah. (فَاتَّبِعُوا مِلَّةَ إِبْرَاهِيمَ حَنِيفًا وَمَا كَانَ مِنَ الْمُشْرِكِينَ) 3:95; 16:123
+- Dan (ingatlah) ketika Kami menyelamatkan kamu dari (Fir'aun dan) pengikut-pengikutnya, mereka menyiksa kamu dengan siksaan yang pedih. (وَإِذْ أَنجَيْنَاكُم مِّنْ آلِ فِرْعَوْنَ يَسُومُونَكُمْ سُوءَ الْعَذَابِ) 7:141; 14:6
+- Itulah agama yang lurus, tetapi kebanyakan manusia tidak mengetahui. (ذَلِكَ الدِّينُ الْقَيِّمُ وَلَكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ) 12:40; 30:30
+- Tidakkah engkau melihat bahwa Allah telah menundukkan bagimu apa yang ada di. (أَلَمْ تَرَ أَنَّ اللَّهَ سَخَّرَ لَكُم مَّا فِي) 22:65; 31:20
+- Orang-orang yang kafir berkata: Ini tidak lain hanyalah sihir yang nyata. (لَقَالَ الَّذِينَ كَفَرُوا إِنْ هَذَا إِلَّا سِحْرٌ مُّبِينٌ) 6:7; 11:7
+- Dan apabila dibacakan kepada mereka ayat-ayat Kami yang nyata, orang-orang yang kafir berkata. (وَإِذَا تُتْلَى عَلَيْهِمْ آيَاتُنَا بَيِّنَاتٍ قَالَ الَّذِينَ كَفَرُوا) 19:73; 46:7
+- Surga 'Adn yang mengalir di bawahnya sungai-sungai, mereka kekal di dalamnya. (جَنَّاتُ عَدْنٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 20:76; 98:8
+- Dia menciptakan apa yang Dia kehendaki; sesungguhnya Allah Maha Kuasa atas segala sesuatu. (مَا يَشَاءُ إِنَّ اللَّهَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ) 24:45; 35:1
+- Agar Dia mengampuni dosa-dosamu dan menangguhkanmu sampai waktu yang ditentukan. (لِيَغْفِرَ لَكُم مِّن ذُنُوبِكُمْ وَيُؤَخِّرَكُمْ إِلَى أَجَلٍ مُّسَمًّى) 14:10; 71:4
+- Apakah kamu ingin menghalangi kami dari (menyembah) apa yang disembah oleh nenek moyang kami? (تُرِيدُونَ أَن تَصُدُّونَا عَمَّا كَانَ يَعْبُدُ آبَاؤُنَا) 14:10; 34:43
+- Dan (ingatlah) ketika Tuhanmu berfirman kepada malaikat: Sesungguhnya Aku akan menciptakan manusia dari tanah liat kering. (وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي خَالِقٌ بَشَرًا مِّن) 15:28; 38:71
+- Dan Dialah yang meniupkan angin sebagai pembawa kabar gembira sebelum kedatangan rahmat-Nya. (وَهُوَ الَّذِي يُرْسِلُ الرِّيَاحَ بُشْرًا بَيْنَ يَدَيْ رَحْمَتِهِ) 7:57; 25:48
+- Katakanlah: Berjalanlah di muka bumi, lalu perhatikanlah bagaimana kesudahan (orang-orang dahulu). (قُلْ سِيرُوا فِي الْأَرْضِ فَانظُرُوا كَيْفَ كَانَ عَاقِبَةُ) 27:69; 30:42
+- Sesungguhnya pada penciptaan langit dan bumi, dan silih bergantinya malam dan siang (terdapat tanda-tanda). (إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ) 2:164; 3:190
+- Siapakah yang mau memberi pinjaman kepada Allah, pinjaman yang baik, agar Allah melipatgandakannya? (مَّن ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا فَيُضَاعِفَهُ) 2:245; 57:11
+- Maka putuskanlah perkara di antara mereka menurut apa yang diturunkan Allah, dan janganlah kamu mengikuti hawa nafsu mereka. (فَاحْكُم بَيْنَهُم بِمَا أَنزَلَ اللَّهُ وَلَا تَتَّبِعْ أَهْوَاءَهُمْ) 5:48; 5:49
+- Apakah mereka tidak menunggu kecuali datangnya malaikat kepada mereka atau datangnya perintah Tuhanmu? (هَلْ يَنظُرُونَ إِلَّا أَن تَأْتِيَهُمُ الْمَلَائِكَةُ أَوْ يَأْتِيَ) 6:158; 16:33
+- Sesungguhnya orang-orang yang mengada-adakan kebohongan terhadap Allah tidak akan beruntung. (إِنَّ الَّذِينَ يَفْتَرُونَ عَلَى اللَّهِ الْكَذِبَ لَا يُفْلِحُونَ) 10:69; 16:116
+- Seperti kebiasaan Fir'aun dan orang-orang sebelum mereka; mereka mendustakan ayat-ayat Kami. (كَدَأْبِ آلِ فِرْعَوْنَ وَالَّذِينَ مِن قَبْلِهِمْ كَذَّبُوا بِآيَاتِنَا) 3:11; 8:54
+- Dan dia memberi kabar gembira kepada orang-orang yang beriman dan beramal saleh, bahwa bagi mereka ada pahala yang besar. (وَيُبَشِّرُ الْمُؤْمِنِينَ الَّذِينَ يَعْمَلُونَ الصَّالِحَاتِ أَنَّ لَهُمْ أَجْرًا) 17:9; 18:2
+- Allah melapangkan rezeki bagi siapa yang Dia kehendaki di antara hamba-hamba-Nya dan menyempitkannya. (اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ) 28:82; 29:62
+- Dan kamu akan dikembalikan kepada (Allah) Yang Maha Mengetahui yang gaib dan yang nyata, lalu Dia memberitakan kepadamu apa yang telah kamu kerjakan. (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
+- Dan orang-orang yang mempunyai hubungan darah, sebagian mereka lebih utama (mendapat warisan) dari sebagian yang lain dalam Kitab Allah. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
 """;

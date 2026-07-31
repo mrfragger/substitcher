@@ -3163,4 +3163,158 @@ Matching Phrases 9 words
 - Heille on juomaa kiehuvasta vedestä ja tuskallinen rangaistus, koska he olivat uskottomia. (لَهُمْ شَرَابٌ مِّنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْفُرُونَ) 6:70; 10:4
 - Kutsuisimmeko Jumalan ohella sellaista, joka ei hyödytä eikä vahingoita meitä? (أَنَدْعُو مِن دُونِ اللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا) 6:71; 10:106
 - Että Jumala tietää, mitä taivaissa ja maan päällä on. (أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 5:97; 58:7
+Matching Phrases 8 words
+- Kuka on väärämielisempi kuin se, joka keksii valheita Jumalaa vastaan? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا) 6:21; 6:93; 6:144; 7:37; 10:17; 11:18; 18:15; 29:68; 61:7
+- Totisesti, tässä on merkki, mutta useimmat heistä eivät olleet uskovaisia. (إِنَّ فِي ذَلِكَ لَآيَةً وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ) 26:8; 26:67; 26:103; 26:121; 26:139; 26:158; 26:174; 26:190
+- Jotta he kulkisivat maan päällä ja näkisivät, millainen oli niiden loppu. (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ) 12:109; 30:9; 30:42; 35:44; 40:21; 40:82; 47:10
+- Hän sanoi: Oi kansani, palvelkaa Jumalaa, teillä ei ole muuta jumalaa kuin Hän. (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ) 7:65; 7:73; 7:85; 11:50; 11:61; 11:84; 23:23
+- Hän sallii hänen astua puutarhoihin, joiden alla virrat virtaavat, ja he saavat asua siellä ikuisesti. (يُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 4:13; 4:57; 4:122; 58:22; 64:9; 65:11
+- Heidän välillään ylösnousemuspäivänä ratkaistaan se, mistä he olivat erimielisiä. (بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 2:113; 10:93; 16:124; 22:69; 32:25; 45:17
+- Eivätkö he kulkeneet maan päällä nähdäkseen, millainen loppu oli? (أَوَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ) 30:9; 35:44; 40:21; 40:82; 47:10
+- Puutarhat, joiden alla virrat virtaavat, ja he saavat asua siellä ikuisesti. (جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا) 4:57; 4:122; 5:119; 64:9; 65:11
+- Sinä saat yön menemään päivään ja saat päivän menemään yöhön. (تُولِجُ اللَّيْلَ فِي النَّهَارِ وَتُولِجُ النَّهَارَ فِي اللَّيْلِ) 3:27; 22:61; 31:29; 35:13; 57:6
+- Kaikki, mitä taivaissa ja maan päällä on, ylistää Jumalaa. (سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 59:1; 61:1; 62:1; 64:1
+- Palvelkaa Jumalaa, teillä ei ole muuta jumalaa kuin Hän. Ettekö siis pelkää? (اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا) 7:65; 11:84; 23:23; 23:32
+- Kun sanoimme enkeleille: Kumartukaa Aadamille, he kumartuivat, paitsi Iblis. (وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا إِبْلِيسَ) 2:34; 17:61; 18:50; 20:116
+- Jumala tietää, mitä taivaissa ja maan päällä on. (اللَّهُ وَيَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 3:29; 5:97; 49:16; 58:7
+- Puutarhat, joiden alla virrat virtaavat, ja he saavat asua siellä ikuisesti, ja se. (جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَذَلِكَ) 4:13; 5:85; 9:89; 57:12
+- Hänen palkkansa on hänen Herransa luona, eikä heillä ole pelkoa, eivätkä he. (أَجْرُهُ عِندَ رَبِّهِ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ) 2:112; 2:262; 2:274; 2:277
+- Hänen Herransa luona, eikä heillä ole pelkoa, eivätkä he tule suremaan. (عِندَ رَبِّهِ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ) 2:112; 2:262; 2:274; 2:277
+- Joka seuraa oikeata tietä, seuraa sitä oman sielunsa hyväksi, ja joka eksyy. (فَمَنِ اهْتَدَى فَإِنَّمَا يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ) 10:108; 17:15; 27:92
+- Seuraa sitä oman sielunsa hyväksi, ja joka eksyy, eksyy vain omaa vahinkoaan. (يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا) 10:108; 17:15; 39:41
+- Miksi hänelle ei lähetetty merkkiä hänen Herraltaan? Sano: Totisesti. (لَوْلَا أُنزِلَ عَلَيْهِ آيَةٌ مِّن رَّبِّهِ فَقُلْ إِنَّمَا) 10:20; 13:27; 29:50
+- Ne, jotka uskovat ja tekevät hyviä tekoja, saavat palkan, joka ei ehdy. (الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ) 41:8; 84:25; 95:6
+- Sinä saat elävän tulemaan kuolleesta ja kuolleen tulemaan elävästä. (وَتُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ وَتُخْرِجُ الْمَيِّتَ مِنَ الْحَيِّ) 3:27; 10:31; 30:19
+- Joka ei tuomitse sen mukaan, mitä Jumala on lähettänyt, he ovat. (وَمَن لَّمْ يَحْكُم بِمَا أَنزَلَ اللَّهُ فَأُولَئِكَ هُمُ) 5:44; 5:45; 5:47
+- Hän loi taivaat ja maan ja kaiken niiden välillä kuudessa päivässä. (خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا فِي سِتَّةِ أَيَّامٍ) 25:59; 32:4; 50:38
+- Totisesti, Jumala on armollinen ihmisille, mutta useimmat. (إِنَّ اللَّهَ لَذُو فَضْلٍ عَلَى النَّاسِ وَلَكِنَّ أَكْثَرَ) 2:243; 10:60; 40:61
+- Jumala ei tehnyt heille vääryyttä, mutta he tekivät vääryyttä itselleen. (فَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ وَلَكِن كَانُوا أَنفُسَهُمْ يَظْلِمُونَ) 9:70; 29:40; 30:9
+- Hän antaa anteeksi teidän syntinne ja sallii teidän astua puutarhoihin, joiden alla virrat virtaavat. (عَنكُمْ سَيِّئَاتِكُمْ وَلَأُدْخِلَنَّكُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 5:12; 64:9; 66:8
+- Hän on kieltänyt teiltä raadon, veren, sianlihan ja sen, mikä on teurastettu muulle kuin Jumalalle. (حَرَّمَ عَلَيْكُمُ الْمَيْتَةَ وَالدَّمَ وَلَحْمَ الْخِنزِيرِ وَمَا أُهِلَّ) 2:173; 5:3; 16:115
+- Minä pelkään, jos olen tottelematon Herralleni, suuren päivän rangaistusta. (إِنِّي أَخَافُ إِنْ عَصَيْتُ رَبِّي عَذَابَ يَوْمٍ عَظِيمٍ) 6:15; 10:15; 39:13
+- Mutta sen jälkeen, kun tieto tuli heille, keskinäisen kateutensa vuoksi. (إِلَّا مِن بَعْدِ مَا جَاءَهُمُ الْعِلْمُ بَغْيًا بَيْنَهُمْ) 3:19; 42:14; 45:17
+- He suorittavat rukouksen ja antavat siitä, mitä olemme heille antaneet, salaa ja julkisesti. (وَأَقَامُوا الصَّلَاةَ وَأَنفَقُوا مِمَّا رَزَقْنَاهُمْ سِرًّا وَعَلَانِيَةً) 13:22; 14:31; 35:29
+- Palvelisimmeko Jumalan sijasta sitä, mikä ei hyödytä eikä vahingoita meitä? (مِن دُونِ اللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا) 6:71; 10:106; 25:55
+- He uskovat siihen, mikä on lähetetty sinulle, ja siihen, mikä on lähetetty ennen sinua. (يُؤْمِنُونَ بِمَا أُنزِلَ إِلَيْكَ وَمَا أُنزِلَ مِن قَبْلِكَ) 2:4; 4:60; 4:162
+- Etkö näe, että Jumala lähettää vettä taivaasta? (أَلَمْ تَرَ أَنَّ اللَّهَ أَنزَلَ مِنَ السَّمَاءِ مَاءً) 22:63; 35:27; 39:21
+- Kun Hän päättää jonkin asian, Hän vain sanoo sille: "Tule!" ja se tulee. (قَضَى أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُن فَيَكُونُ) 3:47; 19:35; 40:68
+- Ja Midianiin (lähetimme) heidän veljensä Shu'aybin. Hän sanoi: Oi kansani, palvelkaa Jumalaa. (وَإِلَى مَدْيَنَ أَخَاهُمْ شُعَيْبًا قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ) 7:85; 11:84; 29:36
+- Tämä on salattua tietoa, jonka Me sinulle ilmoitamme; sinä et tiennyt tätä. (ذَلِكَ مِنْ أَنْبَاءِ الْغَيْبِ نُوحِيهِ إِلَيْكَ وَمَا كُنتَ) 3:44; 11:49; 12:102
+- Ja kun heidän määräaikansa tulee, he eivät voi viivyttää sitä hetkeäkään eivätkä aikaistaa. (فَإِذَا جَاءَ أَجَلُهُمْ لَا يَسْتَأْخِرُونَ سَاعَةً وَلَا يَسْتَقْدِمُونَ) 7:34; 10:49; 16:61
+- Älkääkä seuratko saatanan askeleita, sillä hän on teille ilmeinen vihollinen. (وَلَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ إِنَّهُ لَكُمْ عَدُوٌّ مُّبِينٌ) 2:168; 2:208; 6:142
+- Ja ihmisten joukossa on niitä, jotka kiistelevät Jumalasta ilman tietoa. (وَمِنَ النَّاسِ مَن يُجَادِلُ فِي اللَّهِ بِغَيْرِ عِلْمٍ) 22:3; 22:8; 31:20
+- Jumala antaa sen kenelle tahtoo, ja Jumala on runsaan armon haltija. (اللَّهِ يُؤْتِيهِ مَن يَشَاءُ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ) 57:21; 57:29; 62:4
+- Jokainen sielu palkitaan täysin sen ansaitsemalla tavalla, eikä heille tehdä vääryyttä. (تُوَفَّى كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ) 2:281; 3:25; 3:161
+- Älkää tappako sielua, jonka Jumala on kieltänyt, paitsi oikeudella. (وَلَا تَقْتُلُوا النَّفْسَ الَّتِي حَرَّمَ اللَّهُ إِلَّا بِالْحَقِّ) 6:151; 17:33; 25:68
+- Kun Hän päättää jonkin asian, Hän vain sanoo sille: "Tule!" (إِذَا قَضَى أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُن) 3:47; 19:35; 40:68
+- Menkää Helvetin porteista sisään, siellä te saatte asua ikuisesti; kuinka kauhea onkaan ylpeiden asuinsija! (فَادْخُلُوا أَبْوَابَ جَهَنَّمَ خَالِدِينَ فِيهَا فَلَبِئْسَ مَثْوَى الْمُتَكَبِّرِينَ) 16:29; 39:72; 40:76
+- Etkö nähnyt niitä, joille annettiin osa Kirjasta? (أَلَمْ تَرَ إِلَى الَّذِينَ أُوتُوا نَصِيبًا مِّنَ الْكِتَابِ) 3:23; 4:44; 4:51
+- He saavat puutarhat, joiden alla virrat virtaavat, ja he saavat asua siellä ikuisesti. (لَهُمْ جَنَّاتٌ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 3:198; 5:119; 9:89
+- Oi kansani, tehkää parhaanne, minäkin teen työtä, ja pian saatte tietää. (يَاقَوْمِ اعْمَلُوا عَلَى مَكَانَتِكُمْ إِنِّي عَامِلٌ فَسَوْفَ تَعْلَمُونَ) 6:135; 11:93; 39:39
+- Joka vastustaa Jumalaa ja Hänen lähettilästään, hänelle on Helvetin tuli, jossa hän saa asua ikuisesti. (اللَّهَ وَرَسُولَهُ فَأَنَّ لَهُ نَارَ جَهَنَّمَ خَالِدًا فِيهَا) 9:63; 72:23
+- Me olemme asettaneet heidän sydämilleen verhot, jotta he eivät ymmärtäisi sitä, ja heidän korviinsa raskauden. (عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا) 17:46; 18:57
+- Jokaiseen kaupunkiin, johon lähetimme varoittajan, sen varakkaat sanoivat: Me. (فِي قَرْيَةٍ مِّن نَّذِيرٍ إِلَّا قَالَ مُتْرَفُوهَا إِنَّا) 34:34; 43:23
+- He sanoivat: Rukoile Herraasi puolestamme, jotta Hän selittäisi meille, millainen se on. (قَالُوا ادْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِيَ) 2:68; 2:70
+- He sanovat varmasti: Jumala. Sano: Ylistys kuuluu Jumalalle! Mutta useimmat heistä. (لَيَقُولُنَّ اللَّهُ قُلِ الْحَمْدُ لِلَّهِ بَلْ أَكْثَرُهُمْ لَا) 29:63; 31:25
+- Ja hänen kansansa vastaus oli vain se, että he sanoivat: Ajakaa heidät pois. (وَمَا كَانَ جَوَابَ قَوْمِهِ إِلَّا أَن قَالُوا أَخْرِجُوهُم) 7:82; 27:56
+- Joiden alla virrat virtaavat, ja he saavat asua siellä ikuisesti; se on suuri voitto. (تَحْتَهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا ذَلِكَ الْفَوْزُ الْعَظِيمُ) 9:100; 64:9
+- Nämä ovat Herransa oikealla tiellä, ja nämä ovat menestyjiä. (أُولَئِكَ عَلَى هُدًى مِّن رَّبِّهِمْ وَأُولَئِكَ هُمُ الْمُفْلِحُونَ) 2:5; 31:5
+- Sitä, jota kohtaa nöyryyttävä rangaistus ja jota kohtaa ikuinen rangaistus. (مَن يَأْتِيهِ عَذَابٌ يُخْزِيهِ وَيَحِلُّ عَلَيْهِ عَذَابٌ مُّقِيمٌ) 11:39; 39:40
+- Vaeltakaa maan päällä ja katsokaa, millainen oli niiden loppu, jotka hylkäsivät (totuuden). (فَسِيرُوا فِي الْأَرْضِ فَانظُرُوا كَيْفَ كَانَ عَاقِبَةُ الْمُكَذِّبِينَ) 3:137; 16:36
+- He eivät koskaan toivo sitä sen tähden, mitä heidän kätensä ovat lähettäneet edeltä, ja Jumala tietää väärintekijät. (يَتَمَنَّوْهُ أَبَدًا بِمَا قَدَّمَتْ أَيْدِيهِمْ وَاللَّهُ عَلِيمٌ بِالظَّالِمِينَ) 2:95; 62:7
+- Hän tietää parhaiten, kuka eksyy Hänen tieltään, ja Hän tietää parhaiten. (هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ) 53:30; 68:7
+- Totisesti, Jumala on minun Herrani ja teidän Herranne, joten palvelkaa Häntä; tämä on oikea tie. (إِنَّ اللَّهَ رَبِّي وَرَبُّكُمْ فَاعْبُدُوهُ هَذَا صِرَاطٌ مُّسْتَقِيمٌ) 3:51; 19:36
+- Hän on armollinen ihmisille, mutta useimmat heistä eivät ole kiitollisia. (لَذُو فَضْلٍ عَلَى النَّاسِ وَلَكِنَّ أَكْثَرَهُمْ لَا يَشْكُرُونَ) 10:60; 27:73
+- Me loimme taivaat ja maan ja kaiken niiden välillä vain totuudessa ja määrätyksi ajaksi. (السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا إِلَّا بِالْحَقِّ وَأَجَلٍ مُّسَمًّى) 30:8; 46:3
+- Anna heidän syventyä turhuuteensa ja leikkiä, kunnes he kohtaavat päivän, jota heille on uhattu. (فَذَرْهُمْ يَخُوضُوا وَيَلْعَبُوا حَتَّى يُلَاقُوا يَوْمَهُمُ الَّذِي يُوعَدُونَ) 43:83; 70:42
+- Kun he kohtaavat uskovaiset, he sanovat: "Me uskomme", ja kun he ovat keskenään. (وَإِذَا لَقُوا الَّذِينَ آمَنُوا قَالُوا آمَنَّا وَإِذَا خَلَوْا) 2:14; 2:76
+- He noudattavat Tooraa ja Evankeliumia ja sitä, mikä heidän Herraltaan on heille lähetetty. (أَقَامُوا التَّوْرَاةَ وَالْإِنجِيلَ وَمَا أُنزِلَ إِلَيْهِم مِّن رَّبِّهِمْ) 5:66; 5:68
+- Hän tietää, mitä on heidän edessään ja mitä heidän takanaan, mutta he eivät voi sitä tiedossaan käsittää. (يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ) 2:255; 20:110
+- Ja Hän on se, joka loi taivaat ja maan kuudessa päivässä. (وَهُوَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ) 11:7; 57:4
+- Tässä on totisesti merkki teille, jos olette uskovaisia. (إِنَّ فِي ذَلِكَ لَآيَةً لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ) 2:248; 3:49
+- Mikä esti ihmisiä uskomasta, kun ohjaus tuli heille? (وَمَا مَنَعَ النَّاسَ أَن يُؤْمِنُوا إِذْ جَاءَهُمُ الْهُدَى) 17:94; 18:55
+- Ja he asettivat Jumalalle vertaisia johtaakseen harhaan Hänen tieltään. Sano: Nauttikaa. (وَجَعَلُوا لِلَّهِ أَندَادًا لِّيُضِلُّوا عَن سَبِيلِهِ قُلْ تَمَتَّعُوا) 14:30; 39:8
+- Ja he ihmettelivät, että varoittaja tuli heidän keskuudestaan, ja uskottomat sanoivat: Tämä. (وَعَجِبُوا أَن جَاءَهُم مُّنذِرٌ مِّنْهُمْ وَقَالَ الْكَافِرُونَ هَذَا) 38:4; 50:2
+- Totisesti, sinun Herrasi tietää parhaiten, kuka eksyy Hänen tieltään. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ) 53:30; 68:7
+- Kuin se, joka kuluttaa omaisuutensa tehdäkseen vaikutuksen ihmisiin eikä usko Jumalaan. (كَالَّذِي يُنفِقُ مَالَهُ رِئَاءَ النَّاسِ وَلَا يُؤْمِنُ بِاللَّهِ) 2:264; 4:38
+- Antakaa siitä, mitä Me olemme teille antaneet, ennen kuin se tulee. (أَنفِقُوا مِمَّا رَزَقْنَاكُم مِّن قَبْلِ أَن يَأْتِيَ) 2:254; 63:10
+- Hän asetti palvelukseenne kaiken, mitä taivaissa ja maan päällä on. (سَخَّرَ لَكُم مَّا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 31:20; 45:13
+- Ja me olemme totisesti epäileväisiä sen suhteen, mihin meitä kutsutte. (وَإِنَّنَا لَفِي شَكٍّ مِّمَّا تَدْعُونَا إِلَيْهِ مُرِيبٍ) 11:62; 14:9
+- Totisesti, sinun Herrasi antaa runsaan osuuden kenelle tahtoo ja mittaa sen. Totisesti, Hän. (إِنَّ رَبَّكَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ وَيَقْدِرُ إِنَّهُ) 17:30; 34:36
+- Taivaiden ja maan Herra ja kaiken niiden välillä, jos olette vakuuttuneita. (رَبُّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا إِن كُنتُم مُّوقِنِينَ) 26:24; 44:7
+- Me uskomme Jumalaan ja siihen, mikä on meille lähetetty, ja siihen, mikä on lähetetty. (آمَنَّا بِاللَّهِ وَمَا أُنزِلَ إِلَيْنَا وَمَا أُنزِلَ إِلَى) 2:136; 3:199
+- Ja väärintekijät valtasi hirvittävä huuto, ja he makasivat kasvoillaan kodeissaan. (وَأَخَذَ الَّذِينَ ظَلَمُوا الصَّيْحَةُ فَأَصْبَحُوا فِي دِيَارِهِمْ جَاثِمِينَ) 11:67; 11:94
+- Teille ei ole syntiä siinä, mitä he tekevät itsensä suhteen. (فَلَا جُنَاحَ عَلَيْكُمْ فِيمَا فَعَلْنَ فِي أَنفُسِهِنَّ) 2:234; 2:240
+- Sinun Herrasi tietää parhaiten, kuka eksyy Hänen tieltään, ja Hän. (رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ) 53:30; 68:7
+- Henkeen (ilmestykseen) Hänen käskystään sille, kenelle Hän tahtoo palvelijoistaan. (بِالرُّوحِ مِنْ أَمْرِهِ عَلَى مَن يَشَاءُ مِنْ عِبَادِهِ) 16:2; 40:15
+- Ja Me annoimme Jeesukselle, Marian pojalle, selvät merkit ja vahvistimme hänet Pyhällä Hengellä. (وَآتَيْنَا عِيسَى ابْنَ مَرْيَمَ الْبَيِّنَاتِ وَأَيَّدْنَاهُ بِرُوحِ الْقُدُسِ) 2:87; 2:253
+- Jotta Hän ylösnousemuspäivänä ratkaisisi heidän välillään sen, mistä he olivat erimielisiä. (لَيَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ) 16:124; 22:69
+- Ja Me käänsimme sen ylösalaisin ja annoimme sataa heidän päälleen kivisadetta poltettua savea. (جَعَلْنَا عَالِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةً مِّن سِجِّيلٍ) 11:82; 15:74
+- Heille on samantekevää, varoitatko heitä vai et, he eivät usko. (سَوَاءٌ عَلَيْهِمْ أَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ) 2:6; 36:10
+- Ihmisten ohella, toivokaa siis kuolemaa, jos olette todenpuhujia. (مِّن دُونِ النَّاسِ فَتَمَنَّوُا الْمَوْتَ إِن كُنتُمْ صَادِقِينَ) 2:94; 62:6
+- Jumalaa, teillä ei ole muuta jumalaa kuin Hän. Ettekö siis pelkää? (اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 23:23; 23:32
+- Joko Me näytämme sinulle osan siitä, millä uhkaamme heitä, tai Me annamme sinun kuolla, on heidän palattava Meidän luoksemme. (وَإِمَّا نُرِيَنَّكَ بَعْضَ الَّذِي نَعِدُهُمْ أَوْ نَتَوَفَّيَنَّكَ فَإِلَيْنَا) 10:46; 40:77
+- He sanoivat: Kun me kuolemme ja tulemme tomuksi ja luiksi, herätetäänkö meidät todella? (قَالُوا أَإِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَامًا أَإِنَّا لَمَبْعُوثُونَ) 23:82; 56:47
+- Totisesti, armo on Jumalan kädessä, Hän antaa sen kenelle tahtoo, ja Jumala. (إِنَّ الْفَضْلَ بِيَدِ اللَّهِ يُؤْتِيهِ مَن يَشَاءُ وَاللَّهُ) 3:73; 57:29
+- Ja teidät palautetaan Hänen luokseen, joka tietää näkymättömän ja näkyvän, ja Hän kertoo teille, mitä teitte. (إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ) 9:105; 62:8
+- Te, jotka uskotte, muistakaa Jumalan armo teitä kohtaan, silloin kun. (يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا نِعْمَتَ اللَّهِ عَلَيْكُمْ إِذْ) 5:11; 33:9
+- Ja ennen sinua Me lähetimme vain miehiä, joille Me annoimme ilmestyksen. (وَمَا أَرْسَلْنَا مِن قَبْلِكَ إِلَّا رِجَالًا نُّوحِي إِلَيْهِم) 12:109; 16:43
+- Hän antaa anteeksi hänen syntinsä ja sallii hänen astua puutarhoihin, joiden alla virrat virtaavat. (يُكَفِّرْ عَنْهُ سَيِّئَاتِهِ وَيُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا) 64:9; 66:8
+- Joka on sairas tai matkalla, noudattakoon saman määrän muita päiviä. (مَّرِيضًا أَوْ عَلَى سَفَرٍ فَعِدَّةٌ مِّنْ أَيَّامٍ أُخَرَ) 2:184; 2:185
+- He seuraavat vain arvailuja, eivätkä he tee muuta kuin olettavat. (إِن يَتَّبِعُونَ إِلَّا الظَّنَّ وَإِنْ هُمْ إِلَّا يَخْرُصُونَ) 6:116; 10:66
+- Hyvä esimerkki sille, joka toivoo Jumalaa ja viimeistä päivää. (أُسْوَةٌ حَسَنَةٌ لِّمَن كَانَ يَرْجُو اللَّهَ وَالْيَوْمَ الْآخِرَ) 33:21; 60:6
+- Emmekä Me luonut taivaita ja maata ja kaikkea niiden välillä, paitsi totuudessa. (وَمَا خَلَقْنَا السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا إِلَّا بِالْحَقِّ) 15:85; 46:3
+- Pane kätesi povellesi, se tulee esiin valkoisena ilman vikaa. (يَدَكَ فِي جَيْبِكَ تَخْرُجْ بَيْضَاءَ مِنْ غَيْرِ سُوءٍ) 27:12; 28:32
+- Hän erottaa armostaan kenet tahtoo, ja Jumala on runsaan armon haltija. (يَخْتَصُّ بِرَحْمَتِهِ مَن يَشَاءُ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ) 2:105; 3:74
+- Etkö tiedä, että Jumalalla on taivasten ja maan valtakunta? (أَلَمْ تَعْلَمْ أَنَّ اللَّهَ لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ) 2:107; 5:40
+- Ja minkä hyvän tekin itsellenne edeltä lähetätte, sen te löydätte Jumalan luota. (وَمَا تُقَدِّمُوا لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ اللَّهِ) 2:110; 73:20
+- Ja mistä ikinä lähdetkin, käännä kasvosi pyhän moskeijan suuntaan. (وَمِنْ حَيْثُ خَرَجْتَ فَوَلِّ وَجْهَكَ شَطْرَ الْمَسْجِدِ الْحَرَامِ) 2:149; 2:150
+- Ne, jotka olivat ennen teitä, etkä tule löytämään muutosta Jumalan tavoissa. (خَلَوْا مِن قَبْلُ وَلَن تَجِدَ لِسُنَّةِ اللَّهِ تَبْدِيلًا) 33:62; 48:23
+- Hänen, jonka on kaikki, mitä taivaissa ja maan päällä on. (الَّذِي لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 34:1; 42:53
+- Eikä yksikään nainen kanna tai synnytä ilman Hänen tietoaan. (وَمَا تَحْمِلُ مِنْ أُنثَى وَلَا تَضَعُ إِلَّا بِعِلْمِهِ) 35:11; 41:47
+- Hän asetti yön, auringon ja kuun palvelukseenne, kaikki kulkevat määrättyyn aikaan. (اللَّيْلِ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ كُلٌّ يَجْرِي لِأَجَلٍ مُّسَمًّى) 35:13; 39:5
+- Joiden alla virrat virtaavat, ja he saavat asua siellä ikuisesti, ja se on palkka. (تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَذَلِكَ جَزَاءُ) 5:85; 20:76
+- Hän sanoi: Ei, vaan sielunne ovat saattaneet teidät tekemään jotakin; kaunis kärsivällisyys. (قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْرًا فَصَبْرٌ جَمِيلٌ) 12:18; 12:83
+- Mitä taivaissa ja maan päällä on, ja että Jumala. (مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَأَنَّ اللَّهَ) 5:97; 22:64
+- Ja ei tullut heille yhtäkään lähettilästä, jota he eivät olisi pilkanneet. (وَمَا يَأْتِيهِم مِّن رَّسُولٍ إِلَّا كَانُوا بِهِ يَسْتَهْزِئُونَ) 15:11; 36:30
+- He sanoivat: Oi Mooses, heitätkö sinä, vai heitämmekö me? (قَالُوا يَامُوسَى إِمَّا أَن تُلْقِيَ وَإِمَّا أَن نَّكُونَ) 7:115; 20:65
+- Hän on se, joka antaa teidän kuolla, ja jotkut teistä palautetaan alimmalle iälle, jotta. (يَتَوَفَّاكُمْ وَمِنكُم مَّن يُرَدُّ إِلَى أَرْذَلِ الْعُمُرِ لِكَيْ) 16:70; 22:5
+- He saavat Herraltaan puutarhat, joiden alla virrat virtaavat, ja he saavat asua siellä ikuisesti. (رَبِّهِمْ جَنَّاتٌ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 3:15; 3:136
+- Ja Me asetimme heidän sydämilleen verhot, jotta he eivät ymmärtäisi sitä, ja heidän korviinsa raskauden. (وَجَعَلْنَا عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ) 17:46; 18:57
+- Totisesti, Jumalan lupaus on tosi, mutta useimmat heistä eivät tiedä. (إِنَّ وَعْدَ اللَّهِ حَقٌّ وَلَكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ) 10:55; 28:13
+- Tämä siksi, että he vastustivat Jumalaa ja Hänen lähettilästään; ja joka vastustaa Jumalaa. (ذَلِكَ بِأَنَّهُمْ شَاقُّوا اللَّهَ وَرَسُولَهُ وَمَن يُشَاقِقِ اللَّهَ) 8:13; 59:4
+- Ja päivänä, jona Hän kutsuu heitä ja sanoo: Missä ovat ne, jotka asetitte Minun vertaisikseni? (وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ أَيْنَ شُرَكَائِيَ الَّذِينَ كُنتُمْ تَزْعُمُونَ) 28:62; 28:74
+- Eivätkö he nähneet, että Jumala, joka loi taivaat ja maan, kykenee luomaan heidän kaltaisiaan? (أَوَلَمْ يَرَوْا أَنَّ اللَّهَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ) 17:99; 46:33
+- (Hän) joka loi teidät tomusta, sitten siemenpisarasta, sitten. (بِالَّذِي خَلَقَكَ مِن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ) 18:37; 40:67
+- He sanoisivat: Herramme, miksi et lähettänyt meille lähettilästä, jotta olisimme seuranneet sinun merkkejäsi? (لَقَالُوا رَبَّنَا لَوْلَا أَرْسَلْتَ إِلَيْنَا رَسُولًا فَنَتَّبِعَ آيَاتِكَ) 20:134; 28:47
+- Sitten heidät palautetaan Herransa luo, ja Hän kertoo heille, mitä he tekivät. (ثُمَّ إِلَى رَبِّهِم مَّرْجِعُهُمْ فَيُنَبِّئُهُم بِمَا كَانُوا يَعْمَلُونَ) 6:108; 39:7
+- Heillä ei ole siitä tietoa; he seuraavat vain arvailuja. (مَّا لَهُم بِذَلِكَ مِنْ عِلْمٍ إِنْ هُمْ إِلَّا) 43:20; 45:24
+- Me löysimme isiemme olevan uskossa, ja me seuraamme heidän jälkiään. (إِنَّا وَجَدْنَا آبَاءَنَا عَلَى أُمَّةٍ وَإِنَّا عَلَى آثَارِهِم) 43:22; 43:23
+- Ne, joille Kirja annettiin, eivät eronneet, ennen kuin tieto tuli heille. (الَّذِينَ أُوتُوا الْكِتَابَ إِلَّا مِن بَعْدِ مَا جَاءَهُمُ) 3:19; 98:4
+- Ja kun Abraham sanoi: Herrani, tee tästä kaupungista turvallinen. (وَإِذْ قَالَ إِبْرَاهِيمُ رَبِّ اجْعَلْ هَذَا بَلَدًا آمِنًا) 2:126; 14:35
+- Ja Hän antoi teille kuulon, näön ja sydämet; vähän olette kiitollisia. (وَجَعَلَ لَكُمُ السَّمْعَ وَالْأَبْصَارَ وَالْأَفْئِدَةَ قَلِيلًا مَّا تَشْكُرُونَ) 32:9; 67:23
+- Ne, jotka kiistelevät Jumalan merkeistä ilman valtuutta, joka heille olisi tullut. (الَّذِينَ يُجَادِلُونَ فِي آيَاتِ اللَّهِ بِغَيْرِ سُلْطَانٍ أَتَاهُمْ) 40:35; 40:56
+- Seuratkaa siis Abrahamin uskoa, joka oli vilpitön, eikä hän ollut monijumalainen. (فَاتَّبِعُوا مِلَّةَ إِبْرَاهِيمَ حَنِيفًا وَمَا كَانَ مِنَ الْمُشْرِكِينَ) 3:95; 16:123
+- Ja kun Me pelastimme teidät faraon kansasta, joka kohteli teitä pahimmalla rangaistuksella. (وَإِذْ أَنجَيْنَاكُم مِّنْ آلِ فِرْعَوْنَ يَسُومُونَكُمْ سُوءَ الْعَذَابِ) 7:141; 14:6
+- Tämä on oikea uskonto, mutta useimmat ihmiset eivät tiedä. (ذَلِكَ الدِّينُ الْقَيِّمُ وَلَكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ) 12:40; 30:30
+- Etkö näe, että Jumala on asettanut palvelukseenne kaiken, mitä on. (أَلَمْ تَرَ أَنَّ اللَّهَ سَخَّرَ لَكُم مَّا فِي) 22:65; 31:20
+- Uskottomat sanoisivat: Tämä on vain ilmeistä taikuutta. (لَقَالَ الَّذِينَ كَفَرُوا إِنْ هَذَا إِلَّا سِحْرٌ مُّبِينٌ) 6:7; 11:7
+- Ja kun Meidän selvät merkit luetaan heille, uskottomat sanovat. (وَإِذَا تُتْلَى عَلَيْهِمْ آيَاتُنَا بَيِّنَاتٍ قَالَ الَّذِينَ كَفَرُوا) 19:73; 46:7
+- Ikuiset puutarhat, joiden alla virrat virtaavat, ja he saavat asua siellä ikuisesti. (جَنَّاتُ عَدْنٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 20:76; 98:8
+- Hän luo, mitä tahtoo; totisesti, Jumala on kaikkivoipa. (مَا يَشَاءُ إِنَّ اللَّهَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ) 24:45; 35:1
+- Jotta Hän antaisi anteeksi teidän syntinne ja lykkäisi teitä määrättyyn aikaan. (لِيَغْفِرَ لَكُم مِّن ذُنُوبِكُمْ وَيُؤَخِّرَكُمْ إِلَى أَجَلٍ مُّسَمًّى) 14:10; 71:4
+- Haluatteko estää meitä palvomasta sitä, mitä isämme palvelivat? (تُرِيدُونَ أَن تَصُدُّونَا عَمَّا كَانَ يَعْبُدُ آبَاؤُنَا) 14:10; 34:43
+- Ja kun Herrasi sanoi enkeleille: Minä luon ihmisen savesta. (وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي خَالِقٌ بَشَرًا مِّن) 15:28; 38:71
+- Hän on se, joka lähettää tuulet ilon sanansaattajina ennen armoaan. (وَهُوَ الَّذِي يُرْسِلُ الرِّيَاحَ بُشْرًا بَيْنَ يَدَيْ رَحْمَتِهِ) 7:57; 25:48
+- Sano: Vaeltakaa maan päällä ja katsokaa, millainen loppu oli. (قُلْ سِيرُوا فِي الْأَرْضِ فَانظُرُوا كَيْفَ كَانَ عَاقِبَةُ) 27:69; 30:42
+- Taivaiden ja maan luomisessa sekä yön ja päivän vaihtelussa (on merkkejä). (إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ) 2:164; 3:190
+- Kuka antaa Jumalalle hyvän lainan, jotta Hän moninkertaistaa sen? (مَّن ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا فَيُضَاعِفَهُ) 2:245; 57:11
+- Tuomitkaa siis heidän välillään sen mukaan, mitä Jumala on lähettänyt, älkääkä seuratko heidän himojaan. (فَاحْكُم بَيْنَهُم بِمَا أَنزَلَ اللَّهُ وَلَا تَتَّبِعْ أَهْوَاءَهُمْ) 5:48; 5:49
+- Odottavatko he muuta kuin että enkelit tulevat heidän luokseen tai Herrasi käsky tulee? (هَلْ يَنظُرُونَ إِلَّا أَن تَأْتِيَهُمُ الْمَلَائِكَةُ أَوْ يَأْتِيَ) 6:158; 16:33
+- Totisesti, ne, jotka keksivät valheita Jumalaa vastaan, eivät menesty. (إِنَّ الَّذِينَ يَفْتَرُونَ عَلَى اللَّهِ الْكَذِبَ لَا يُفْلِحُونَ) 10:69; 16:116
+- Kuten faraon kansa ja ne ennen heitä; he hylkäsivät Meidän merkkimme. (كَدَأْبِ آلِ فِرْعَوْنَ وَالَّذِينَ مِن قَبْلِهِمْ كَذَّبُوا بِآيَاتِنَا) 3:11; 8:54
+- Ja hän iloituttaa uskovaisia, jotka tekevät hyviä tekoja, että he saavat palkan. (وَيُبَشِّرُ الْمُؤْمِنِينَ الَّذِينَ يَعْمَلُونَ الصَّالِحَاتِ أَنَّ لَهُمْ أَجْرًا) 17:9; 18:2
+- Jumala antaa runsaan osuuden kenelle tahtoo palvelijoistaan ja mittaa sen. (اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ) 28:82; 29:62
+- Ja teidät palautetaan Hänen luokseen, joka tietää näkymättömän ja näkyvän, ja Hän kertoo teille, mitä teitte. (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
+- Ja verisukulaiset ovat läheisimpiä toisilleen Jumalan kirjassa. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
 """;

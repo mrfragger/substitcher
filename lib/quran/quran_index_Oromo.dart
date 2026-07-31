@@ -3164,4 +3164,158 @@ Matching Phrases 9 words
 - Isaaniif dhugaatii bishaan danfaa fi adabbii laaleessaa, waan isaan kufristaniif jira. (لَهُمْ شَرَابٌ مِّنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْفُرُونَ) 6:70; 10:4
 - Sila Rabbiin ala waan nu hin fayyadnee fi hin miineessine kadhattaa? (أَنَدْعُو مِن دُونِ اللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا) 6:71; 10:106
 - Rabbiin waan samii keessa fi lafa keessa jiru beeka. (أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 5:97; 58:7
+Matching Phrases 8 words
+- Nama Rabbi irratti kijiba uume caalaa nama miidhaa hojjatu eenyu? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا) 6:21; 6:93; 6:144; 7:37; 10:17; 11:18; 18:15; 29:68; 61:7
+- Dhugumatti, kana keessa mallattoon jira, garuu irra hedduun isaanii mu’uminoota hin taane. (إِنَّ فِي ذَلِكَ لَآيَةً وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ) 26:8; 26:67; 26:103; 26:121; 26:139; 26:158; 26:174; 26:190
+- Akka isaan dachii irra deddeebi'anii fi booddeen warra (durii) akkam akka ta'e ilaaluuf. (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ) 12:109; 30:9; 30:42; 35:44; 40:21; 40:82; 47:10
+- Inni jedhe: Yaa ummata koo! Rabbatti gabbaraa; Isa malee gabbaramaan biraa isiniif hin jiru. (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ) 7:65; 7:73; 7:85; 11:50; 11:61; 11:84; 23:23
+- Inni jannatoota laggeen isaan jala yaatu keessa isa seensisa; isaan ishee keessa yeroo hunda turu. (يُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 4:13; 4:57; 4:122; 58:22; 64:9; 65:11
+- Guyyaa Qiyaamaa gidduu isaanii waan isaan itti wal morman keessatti murteeffama. (بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 2:113; 10:93; 16:124; 22:69; 32:25; 45:17
+- Sila isaan dachii irra hin deddeebiinii akka booddeen (warra durii) akkam ta’e ilaaluuf? (أَوَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ) 30:9; 35:44; 40:21; 40:82; 47:10
+- Jannatoota laggeen isaan jala yaatu, isaan ishee keessa yeroo hunda turu. (جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا) 4:57; 4:122; 5:119; 64:9; 65:11
+- Ati halkan guyyaatti galchita; guyyaa halkaniittis galchita. (تُولِجُ اللَّيْلَ فِي النَّهَارِ وَتُولِجُ النَّهَارَ فِي اللَّيْلِ) 3:27; 22:61; 31:29; 35:13; 57:6
+- Wanti samiiwwan keessaafi dachii keessa jiru hundinuu Rabbiin qulqulleessa. (سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 59:1; 61:1; 62:1; 64:1
+- Rabbiin gabbaraa; Isa malee gabbaramaan biraa isiniif hin jiru. Sila hin sodaattanii? (اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا) 7:65; 11:84; 23:23; 23:32
+- Yeroo Nuti malaa’ikalatti: Aadamif sujuuda godhaa jenne, isaan sujuuda godhan; Iblis malee. (وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا إِبْلِيسَ) 2:34; 17:61; 18:50; 20:116
+- Rabbiin waan samiiwwan keessaafi dachii keessa jiru hunda beeka. (اللَّهُ وَيَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 3:29; 5:97; 49:16; 58:7
+- Jannatoota laggeen isaan jala yaatu, isaan ishee keessa yeroo hunda turu, kana. (جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَذَلِكَ) 4:13; 5:85; 9:89; 57:12
+- Mindaan isaa Gooftaa isaa bira jira; sodaas isaan irra hin jiru; isaanis. (أَجْرُهُ عِندَ رَبِّهِ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ) 2:112; 2:262; 2:274; 2:277
+- Gooftaa isaa bira; sodaas isaan irra hin jiru; isaanis hin gaddaanu. (عِندَ رَبِّهِ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ) 2:112; 2:262; 2:274; 2:277
+- Namni qajeelaan deeme, inni lubbuu isaatiif qajeela; namni jallates. (فَمَنِ اهْتَدَى فَإِنَّمَا يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ) 10:108; 17:15; 27:92
+- Lubbuu isaatiif qajeela; namni jallates, inni lubbuu isaatiif jallata. (يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا) 10:108; 17:15; 39:41
+- Maaliif mallattoon Gooftaa isaa biraa isatti hin buufamne? Jedhi: Dhugumatti. (لَوْلَا أُنزِلَ عَلَيْهِ آيَةٌ مِّن رَّبِّهِ فَقُلْ إِنَّمَا) 10:20; 13:27; 29:50
+- Warri amananii fi dalagaa gaggaarii hojjatan, isaaniif mindaan addaan hin cinneetu jira. (الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ) 41:8; 84:25; 95:6
+- Ati lubbuu qabeessaa du’aa keessaa baasa; du’aa lubbuu qabeessaa keessaas baasa. (وَتُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ وَتُخْرِجُ الْمَيِّتَ مِنَ الْحَيِّ) 3:27; 10:31; 30:19
+- Namni waan Rabbi buuseen murtii hin kennine, isaan sun. (وَمَن لَّمْ يَحْكُم بِمَا أَنزَلَ اللَّهُ فَأُولَئِكَ هُمُ) 5:44; 5:45; 5:47
+- Inni samiiwwanii fi dachii fi waan gidduu isaanii jiru guyyoota ja’a keessatti uume. (خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا فِي سِتَّةِ أَيَّامٍ) 25:59; 32:4; 50:38
+- Dhugumatti, Rabbiin namoota irratti tola ooma; garuu irra hedduun. (إِنَّ اللَّهَ لَذُو فَضْلٍ عَلَى النَّاسِ وَلَكِنَّ أَكْثَرَ) 2:243; 10:60; 40:61
+- Rabbiin isaan miiduu hin taane; garuu isaan lubbuu isaanii miiduu turan. (فَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ وَلَكِن كَانُوا أَنفُسَهُمْ يَظْلِمُونَ) 9:70; 29:40; 30:9
+- Inni badii keessan isiniif araarama; jannatoota laggeen isaan jala yaatu keessas isin seensa. (عَنكُمْ سَيِّئَاتِكُمْ وَلَأُدْخِلَنَّكُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 5:12; 64:9; 66:8
+- Inni isin irratti warra du’an, dhiiga, foon booyyee fi waan maqaa Rabbiin alaatiif qalamame dhorga. (حَرَّمَ عَلَيْكُمُ الْمَيْتَةَ وَالدَّمَ وَلَحْمَ الْخِنزِيرِ وَمَا أُهِلَّ) 2:173; 5:3; 16:115
+- Dhugumatti, ani yoo Gooftaa kiyyatti ajajamuu baadhe, adabbii guyyaa guddaa nan soda. (إِنِّي أَخَافُ إِنْ عَصَيْتُ رَبِّي عَذَابَ يَوْمٍ عَظِيمٍ) 6:15; 10:15; 39:13
+- Garuu erga beekumsi isaanitti dhufe booda, hinaaffaa gidduu isaanii ta’eef. (إِلَّا مِن بَعْدِ مَا جَاءَهُمُ الْعِلْمُ بَغْيًا بَيْنَهُمْ) 3:19; 42:14; 45:17
+- Isaan salaata dhaabanii fi waan Nuti isaaniif kennine irraa iccitiifi ifattis arjoomu. (وَأَقَامُوا الصَّلَاةَ وَأَنفَقُوا مِمَّا رَزَقْنَاهُمْ سِرًّا وَعَلَانِيَةً) 13:22; 14:31; 35:29
+- Sila nuti Rabbiin alatti waan nu hin fayyadneefi nu hin miine gabbarraa? (مِن دُونِ اللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا) 6:71; 10:106; 25:55
+- Isaan waan siif buufameefi waan si dura buufameetti amanu. (يُؤْمِنُونَ بِمَا أُنزِلَ إِلَيْكَ وَمَا أُنزِلَ مِن قَبْلِكَ) 2:4; 4:60; 4:162
+- Sila Rabbiin samii irraa bishaan buusuu hin arginee? (أَلَمْ تَرَ أَنَّ اللَّهَ أَنزَلَ مِنَ السَّمَاءِ مَاءً) 22:63; 35:27; 39:21
+- Yeroo Inni waan tokko murteessu, isatti jedha: Ta’i, achumattis ni ta’a. (قَضَى أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُن فَيَكُونُ) 3:47; 19:35; 40:68
+- Madyaniittis obboleessa isaanii Shu’ayb (ergine). Inni jedhe: Yaa ummata koo! Rabbatti gabbaraa. (وَإِلَى مَدْيَنَ أَخَاهُمْ شُعَيْبًا قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ) 7:85; 11:84; 29:36
+- Sun oduu fagoo irraa kan Nuti siif wahyu goonuudha; ati (kana) beekuu hin turre. (ذَلِكَ مِنْ أَنْبَاءِ الْغَيْبِ نُوحِيهِ إِلَيْكَ وَمَا كُنتَ) 3:44; 11:49; 12:102
+- Yeroo yeroon isaanii dhufu, sa'aatii tokkoof hin tursiisanu; hin duratinis. (فَإِذَا جَاءَ أَجَلُهُمْ لَا يَسْتَأْخِرُونَ سَاعَةً وَلَا يَسْتَقْدِمُونَ) 7:34; 10:49; 16:61
+- Bu’uura sheyxaanaa hin bu’inaa; inni diina isinif ifa ta’eedha. (وَلَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ إِنَّهُ لَكُمْ عَدُوٌّ مُّبِينٌ) 2:168; 2:208; 6:142
+- Namoota keessaa namni beekumsa malee waa’ee Rabbiiti falmu jira. (وَمِنَ النَّاسِ مَن يُجَادِلُ فِي اللَّهِ بِغَيْرِ عِلْمٍ) 22:3; 22:8; 31:20
+- Rabbiin waan fedheef kenna; Rabbiin tola guddaa qabaa. (اللَّهِ يُؤْتِيهِ مَن يَشَاءُ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ) 57:21; 57:29; 62:4
+- Lubbuun hundi waan hojjatte galata guutuu argatti; isaanis hin miidhaman. (تُوَفَّى كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ) 2:281; 3:25; 3:161
+- Lubbuu Rabbiin dhorgu haala mirgaatiin ala hin ajjeesinaa. (وَلَا تَقْتُلُوا النَّفْسَ الَّتِي حَرَّمَ اللَّهُ إِلَّا بِالْحَقِّ) 6:151; 17:33; 25:68
+- Yeroo Inni waan tokko murteessu, isatti jedha: Ta’i. (إِذَا قَضَى أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُن) 3:47; 19:35; 40:68
+- Balballa Jahannam seensaa; isa keessa yeroo hunda turu; iddoon warra boonan akkam hamaa! (فَادْخُلُوا أَبْوَابَ جَهَنَّمَ خَالِدِينَ فِيهَا فَلَبِئْسَ مَثْوَى الْمُتَكَبِّرِينَ) 16:29; 39:72; 40:76
+- Sila warra kitaaba irraa qooda isaaniif kenname hin arginee? (أَلَمْ تَرَ إِلَى الَّذِينَ أُوتُوا نَصِيبًا مِّنَ الْكِتَابِ) 3:23; 4:44; 4:51
+- Isaaniif jannatoota laggeen isaan jala yaatu, isaan ishee keessa yeroo hunda turu. (لَهُمْ جَنَّاتٌ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 3:198; 5:119; 9:89
+- Yaa ummata koo! Haala keessan irratti hojjadhaa; ani hojjataa; fuulduratti beektu. (يَاقَوْمِ اعْمَلُوا عَلَى مَكَانَتِكُمْ إِنِّي عَامِلٌ فَسَوْفَ تَعْلَمُونَ) 6:135; 11:93; 39:39
+- Namni Rabbiifi ergamaa Isaa morman, isaaf ibidda Jahannamitu jira; inni isa keessa yeroo hunda tura. (اللَّهَ وَرَسُولَهُ فَأَنَّ لَهُ نَارَ جَهَنَّمَ خَالِدًا فِيهَا) 9:63; 72:23
+- Nuti onneewwan isaanii irra qaboo goone, akka isaan hubachuu hin dandeenyeef; gurra isaanii keessas duudaa. (عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا) 17:46; 18:57
+- Ganda kamiyyuu Nuti akeekkachiisaa isheetti erre, warri ishee keessa qabeeyyii ta'an jedhan: Dhugumatti, nu. (فِي قَرْيَةٍ مِّن نَّذِيرٍ إِلَّا قَالَ مُتْرَفُوهَا إِنَّا) 34:34; 43:23
+- Isaan jedhan: Gooftaa kee nuuf kadhau; akka waan isheen taate nuuf ifa baase. (قَالُوا ادْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِيَ) 2:68; 2:70
+- Isaan ni jedhu: Rabbi. Jedhi: Faaruun Rabbiif! Garuu irra hedduun isaanii. (لَيَقُولُنَّ اللَّهُ قُلِ الْحَمْdُ لِلَّهِ بَلْ أَكْثَرُهُمْ لَا) 29:63; 31:25
+- Deebiin ummata isaas waan isaan jedhan: Isaan baasaa, malee hin taane. (وَمَا كَانَ جَوَابَ قَوْمِهِ إِلَّا أَن قَالُوا أَخْرِجُوهُم) 7:82; 27:56
+- Laggeen isaan jala yaatu, isaan ishee keessa yeroo hunda turu; sun mo'ummaa guddaadha. (تَحْتَهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا ذَلِكَ الْفَوْزُ الْعَظِيمُ) 9:100; 64:9
+- Isaan warri Gooftaa isaanii biraa qajeelaa irra jiran; isaanis warri milkaa'oodha. (أُولَئِكَ عَلَى هُدًى مِّن رَّبِّهِمْ وَأُولَئِكَ هُمُ الْمُفْلِحُونَ) 2:5; 31:5
+- Namni adabbii isa salphisuu isa irra ga'ee fi adabbii turuu isa irra ga'u. (مَن يَأْتِيهِ عَذَابٌ يُخْزِيهِ وَيَحِلُّ عَلَيْهِ عَذَابٌ مُّقِيمٌ) 11:39; 39:40
+- Dachii irra deddeebi'aa; booddeen warra sobanii akkam akka ta'e ilaalaa. (فَسِيرُوا فِي الْأَرْضِ فَانظُرُوا كَيْفَ كَانَ عَاقِبَةُ الْمُكَذِّبِينَ) 3:137; 16:36
+- Waan harki isaanii dabarsan (hojjatan) sababiin isaan yeroo hunduu ishee hin hawwanu; Rabbiin miidhaa raawwattoota beekaa. (يَتَمَنَّوْهُ أَبَدًا بِمَا قَدَّمَتْ أَيْدِيهِمْ وَاللَّهُ عَلِيمٌ بِالظَّالِمِينَ) 2:95; 62:7
+- Inni nama karaa Isaa irraa jallate beekaa; Inni (hunda) beekaa. (هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ) 53:30; 68:7
+- Dhugumatti, Rabbiin Gooftaa kiyyaafi Gooftaa keessani; kanaaf Isa gabbaraa; kuni karaa qajeelaadha. (إِنَّ اللَّهَ رَبِّي وَرَبُّكُمْ فَاعْبُدُوهُ هَذَا صِرَاطٌ مُّسْتَقِيمٌ) 3:51; 19:36
+- Inni namoota irratti tola ooma; garuu irra hedduun isaanii hin galateeffatan. (لَذُو فَضْلٍ عَلَى النَّاسِ وَلَكِنَّ أَكْثَرَهُمْ لَا يَشْكُرُونَ) 10:60; 27:73
+- Samiiwwanii fi dachii fi waan gidduu isaanii jiru, dhugaanii fi yeroo murteessaadhaan malee hin uumne. (السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا إِلَّا بِالْحَقِّ وَأَجَلٍ مُّسَمًّى) 30:8; 46:3
+- Hanga guyyaa isaanii kan sodaachifamanitti, isaan dheekkamsuu fi tapha isaanii irratti dhiisi. (فَذَرْهُمْ يَخُوضُوا وَيَلْعَبُوا حَتَّى يُلَاقُوا يَوْمَهُمُ الَّذِي يُوعَدُونَ) 43:83; 70:42
+- Yeroo isaan mu’uminoota waliin qunnaman: Amanne jenne, jedhu; yeroo isaan dheedan. (وَإِذَا لَقُوا الَّذِينَ آمَنُوا قَالُوا آمَنَّا وَإِذَا خَلَوْا) 2:14; 2:76
+- Isaan Tawraatiifi Injiilii fi waan Gooftaa isaanii biraa isaaniif buufame dhaabu. (أَقَامُوا التَّوْرَاةَ وَالْإِنجِيلَ وَمَا أُنزِلَ إِلَيْهِم مِّن رَّبِّهِمْ) 5:66; 5:68
+- Inni waan fuuldura isaanii fi waan duuba isaanii jiru beeka; isaan immoo beekumsaan isa marsuu hin danda’an. (يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ) 2:255; 20:110
+- Inni samiiwwanii fi dachii guyyoota ja’a keessatti uumeedha. (وَهُوَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ) 11:7; 57:4
+- Dhugumatti, kana keessa mallattoon isiniif jira; yoo mu’uminoota taatan. (إِنَّ فِي ذَلِكَ لَآيَةً لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ) 2:248; 3:49
+- Maaltu namoota qajeelni isaanitti dhufe yeroo amanuu irraa isaan didde? (وَمَا مَنَعَ النَّاسَ أَن يُؤْمِنُوا إِذْ جَاءَهُمُ الْهُدَى) 17:94; 18:55
+- Isaan karaa Isaa irraa jallisuuf Rabbiif shariikota uuman. Jedhi: Gammaddaa. (وَجَعَلُوا لِلَّهِ أَندَادًا لِّيُضِلُّوا عَن سَبِيلِهِ قُلْ تَمَتَّعُوا) 14:30; 39:8
+- Isaan akeekkachiisaan isaan irraa ta’e isaanitti dhufeef dinqisiifatan; kaafiroonnis jedhan: Kuni. (وَعَجِبُوا أَن جَاءَهُم مُّنذِرٌ مِّنْهُمْ وَقَالَ الْكَافِرُونَ هَذَا) 38:4; 50:2
+- Dhugumatti, Gooftaan kee Inni nama karaa Isaa irraa jallate beekaa. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ) 53:30; 68:7
+- Akka nama qabeenya isaa namoota argisiisuuf arjoomu, Rabbiittis hin amanne. (كَالَّذِي يُنفِقُ مَالَهُ رِئَاءَ النَّاسِ وَلَا يُؤْمِنُ بِاللَّهِ) 2:264; 4:38
+- Waan Nuti isiniif kennine irraa, odoo (isheen) hin dhufin dura arjoomaa. (أَنفِقُوا مِمَّا رَزَقْنَاكُم مِّن قَبْلِ أَن يَأْتِيَ) 2:254; 63:10
+- Inni waan samiiwwan keessaafi dachii keessa jiru hunda isiniif laaffise. (سَخَّرَ لَكُم مَّا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 31:20; 45:13
+- Dhugumatti, nuti waan ati nu itti waamtu keessa shakkaa jirra. (وَإِنَّنَا لَفِي شَكٍّ مِّمَّا تَدْعُونَا إِلَيْهِ مُرِيبٍ) 11:62; 14:9
+- Dhugumatti, Gooftaan kee nama fedheef soorata bal’isa; (nama fedheefis) dhiphisa. Dhugumatti, Inni. (إِنَّ رَبَّكَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ وَيَقْدِرُ إِنَّهُ) 17:30; 34:36
+- Gooftaa samiiwwanii fi dachii fi waan gidduu isaanii jiru, yoo dhugoomsitoota taatan. (رَبُّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا إِن كُنتُم مُّوقِنِينَ) 26:24; 44:7
+- Nuti Rabbiittii fi waan nuuf buufameefi waan Ibraahiim, Ismaa'iil, Isxaaq, Ya'quubii fi sanyiiwwan isaaniif buufametti amanne. (آمَنَّا بِاللَّهِ وَمَا أُنزِلَ إِلَيْنَا وَمَا أُنزِلَ إِلَى) 2:136; 3:199
+- Warra miidhaa raawwattoo waciitiin qabaman; manneen isaanii keessatti jilbeenfatanii (du'anii) bariifatan. (وَأَخَذَ الَّذِينَ ظَلَمُوا الصَّيْحَةُ فَأَصْبَحُوا فِي دِيَارِهِمْ جَاثِمِينَ) 11:67; 11:94
+- Waan isaan lubbuu isaanii keessatti hojjataniif isin irratti badiin hin jiru. (فَلَا جُنَاحَ عَلَيْكُمْ فِيمَا فَعَلْنَ فِي أَنفُسِهِنَّ) 2:234; 2:240
+- Gooftaan kee Inni nama karaa Isaa irraa jallate beekaa; Innis. (رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ) 53:30; 68:7
+- Hafuura (wahyii) ajaja Isaa irraa, gabroota Isaa keessaa nama fedheetti buusa. (بِالرُّوحِ مِنْ أَمْرِهِ عَلَى مَن يَشَاءُ مِنْ عِبَادِهِ) 16:2; 40:15
+- Nuti Iisaa ilma Maryamitti mallattoo ifa ta'an kennine; Hafuura Qulqulluunis isa jabeessine. (وَآتَيْنَا عِيسَى ابْنَ مَرْيَمَ الْبَيِّنَاتِ وَأَيَّدْنَاهُ بِرُوحِ الْقُدُسِ) 2:87; 2:253
+- Akka Inni waan isaan itti wal morman keessatti guyyaa Qiyaamaa gidduu isaanii murteessuuf. (لَيَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ) 16:124; 22:69
+- Nuti ishee (gandicha) ol ishee gad goone; dhagaa suphee keessaa ta'e isaan irrattis roobsine. (جَعَلْنَا عَالِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةً مِّن سِجِّيلٍ) 11:82; 15:74
+- Isaan irratti walqixa; akeekkachiiste iyyuu akeekkachiisuu baatte iyyuu, isaan hin amananu. (سَوَاءٌ عَلَيْهِمْ أَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ) 2:6; 36:10
+- Namoota ala, yoo dhugaa dubbattoota taatan du'a hawwadhaa. (مِّن دُونِ النَّاسِ فَتَمَنَّوُا الْمَوْتَ إِن كُنتُمْ صَادِقِينَ) 2:94; 62:6
+- Rabbiin, Isa malee gabbaramaan biraa isiniif hin jiru. Sila hin sodaattanii? (اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 23:23; 23:32
+- Nuti yoo waan isaan sodaachifnu keessaa tokko si argisiifne yookiin yoo si ajjefne, deebiinsa isaanii garuma Nuyyiti. (وَإِمَّا نُرِيَنَّكَ بَعْضَ الَّذِي نَعِدُهُمْ أَوْ نَتَوَفَّيَنَّكَ فَإِلَيْنَا) 10:46; 40:77
+- Isaan jedhan: Sila yeroo nuti duunee biyyoo fi lafee taane, nuti dhugumatti kaafnaa? (قَالُوا أَإِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَامًا أَإِنَّا لَمَبْعُوثُونَ) 23:82; 56:47
+- Dhugumatti, tolon Rabbiin harka Isaa keessa jira; Inni nama fedheef kenna; Rabbiin. (إِنَّ الْفَضْلَ بِيَدِ اللَّهِ يُؤْتِيهِ مَن يَشَاءُ وَاللَّهُ) 3:73; 57:29
+- gara Beekaa fagoofi ifaatti deebifamtu; waan hojjachaa turtanis isin beeksisa. (إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ) 9:105; 62:8
+- Yaa warri amantan! Tola Rabbiin isin irratti hojjate yaadadhaa; yeroo. (يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا نِعْمَتَ اللَّهِ عَلَيْكُمْ إِذْ) 5:11; 33:9
+- Nuti si dura namoota wahyii itti goone malee hin ergine. (وَمَا أَرْسَلْنَا مِن قَبْلِكَ إِلَّا رِجَالًا نُّوحِي إِلَيْهِم) 12:109; 16:43
+- Inni badii isaa isaaf araara; jannatoota laggeen isaan jala yaatu keessas isa seensa. (يُكَفِّرْ عَنْهُ سَيِّئَاتِهِ وَيُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا) 64:9; 66:8
+- Namni dhukkubsatu yookiin kara deemuu irra jiru, guyyoota biraa irraa lakkoofsa (guutuu qaba). (مَّرِيضًا أَوْ عَلَى سَفَرٍ فَعِدَّةٌ مِّنْ أَيَّامٍ أُخَرَ) 2:184; 2:185
+- Isaan shakkii malee hin bu’an; isaanis tilmaama malee hin hojjan. (إِن يَتَّبِعُونَ إِلَّا الظَّنَّ وَإِنْ هُمْ إِلَّا يَخْرُصُونَ) 6:116; 10:66
+- Namni Rabbiifi Guyyaa Dhumaa abdatuuf fakkeenya gaariitu jira. (أُسْوَةٌ حَسَنَةٌ لِّمَن كَانَ يَرْجُو اللَّهَ وَالْيَوْمَ الْآخِرَ) 33:21; 60:6
+- Nuti samiiwwanii fi dachii fi waan gidduu isaanii jiru dhugaan malee hin uumne. (وَمَا خَلَقْنَا السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا إِلَّا بِالْحَقِّ) 15:85; 46:3
+- Harka kee uffata kee keessa galchi; inni dhibee malee adii ta’ee ba’a. (يَدَكَ فِي جَيْبِكَ تَخْرُجْ بَيْضَاءَ مِنْ غَيْرِ سُوءٍ) 27:12; 28:32
+- Inni rahmata Isaa keessaa nama fedhe adda baasa; Rabbiin tola guddaa qabaa. (يَخْتَصُّ بِرَحْمَتِهِ مَن يَشَاءُ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ) 2:105; 3:74
+- Sila Rabbiin samiiwwanii fi dachii mootummaan kan Isaa ta’uu hin beektuu? (أَلَمْ تَعْلَمْ أَنَّ اللَّهَ لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ) 2:107; 5:40
+- Waan gaarii lubbuu keessaniif dabarsitan Rabbiin bira isa argattu. (وَمَا تُقَدِّمُوا لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ اللَّهِ) 2:110; 73:20
+- Bakka itti baate hundumaa, fuula kee Masjiidil Haraamitti garagalchi. (وَمِنْ حَيْثُ خَرَجْتَ فَوَلِّ وَجْهَكَ شَطْرَ الْمَسْجِدِ الْحَرَامِ) 2:149; 2:150
+- Warri duri isin dura turan (darbaniiru); seenni Rabbii keessatti jijjiirama hin argitu. (خَلَوْا مِن قَبْلُ وَلَن تَجِدَ لِسُنَّةِ اللَّهِ تَبْدِيلًا) 33:62; 48:23
+- (Rabbiin) Inni waan samiiwwan keessaafi dachii keessa jiru hundumtu kan Isaati. (الَّذِي لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 34:1; 42:53
+- Dubartiin kamiyyuu beekumsa Isaa malee hin ulfooftu; hin deessitus. (وَمَا تَحْمِلُ مِنْ أُنثَى وَلَا تَضَعُ إِلَّا بِعِلْمِهِ) 35:11; 41:47
+- Inni halkana, ifa, aduufi baatiif laaffise; tokkoon tokkoon isaanii hanga yeroo murteessaatti deema. (اللَّيْلِ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ كُلٌّ يَجْرِي لِأَجَلٍ مُّسَمًّى) 35:13; 39:5
+- Laggeen isaan jala yaatu, isaan ishee keessa yeroo hunda turu; kuni mindaana. (تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَذَلِكَ جَزَاءُ) 5:85; 20:76
+- Inni jedhe: Dubbiin warra kana isinif tolche kanneen biraati; obsa gaariitu. (قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْرًا فَصَبْرٌ جَمِيلٌ) 12:18; 12:83
+- Wanti samiiwwan keessaafi dachii keessa jiru, Rabbiinis. (مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَأَنَّ اللَّهَ) 5:97; 22:64
+- Ergamaan kamiyyuu isaanitti dhufe, isaan isa qishinuu turan. (وَمَا يَأْتِيهِم مِّن رَّسُولٍ إِلَّا كَانُوا بِهِ يَسْتَهْزِئُونَ) 15:11; 36:30
+- Isaan jedhan: Yaa Muusaa! Sila ati (ulee kee) darbita iyyuu, moo nuti darbin? (قَالُوا يَامُوسَى إِمَّا أَن تُلْقِيَ وَإِمَّا أَن نَّكُونَ) 7:115; 20:65
+- Inni isin ajjeesa; isin keessaas namni hanga umurii dadhabaa deebifamu jira; (kunis) akka. (يَتَوَفَّاكُمْ وَمِنكُم مَّن يُرَدُّ إِلَى أَرْذَلِ الْعُمُرِ لِكَيْ) 16:70; 22:5
+- Isaaniif Gooftaa isaanii bira jannatoota laggeen isaan jala yaatu, isaan ishee keessa yeroo hunda turu. (رَبِّهِمْ جَنَّاتٌ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 3:15; 3:136
+- Nuti onneewwan isaanii irra qaboo goone, akka isaan hubachuu hin dandeenyeef; gurra isaanii keessas duudaa. (وَجَعَلْنَا عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ) 17:46; 18:57
+- Dhugumatti, waadaa Rabbii dhugaa dha; garuu irra hedduun isaanii hin beekan. (إِنَّ وَعْدَ اللَّهِ حَقٌّ وَلَكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ) 10:55; 28:13
+- Kun waan isaan Rabbiifi ergamaa Isaa mormanifi; namni Rabbiin mormu. (ذَلِكَ بِأَنَّهُمْ شَاقُّوا اللَّهَ وَرَسُولَهُ وَمَن يُشَاقِقِ اللَّهَ) 8:13; 59:4
+- Guyyaa Inni isaan waamu, jedhu: Shiirikoonni kiyya kanneen isin tattaafattan eessa? (وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ أَيْنَ شُرَكَائِيَ الَّذِينَ كُنتُمْ تَزْعُمُونَ) 28:62; 28:74
+- Sila Rabbiin samiiwwanii fi dachii uume akka wanta isaan fakkaatu uumuu danda’u hin arginee? (أَوَلَمْ يَرَوْا أَنَّ اللَّهَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ) 17:99; 46:33
+- (Rabbiin) Isa biyyoo irraa, ergasii dhibee (sperma) irraa, ergasii. (بِالَّذِي خَلَقَكَ مِن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ) 18:37; 40:67
+- Isaan ni jedhan: Gooftaa keenya! Maaliif ergamaa nuuf hin ergine, akka Nuti keeyyattoota kee hordofnu? (لَقَالُوا رَبَّنَا لَوْلَا أَرْسَلْتَ إِلَيْنَا رَسُولًا فَنَتَّبِعَ آيَاتِكَ) 20:134; 28:47
+- Ergasii deebiinsa isaanii gara Gooftaa isaanii ti; waan hojjachaa turanis isaan beeksisa. (ثُمَّ إِلَى رَبِّهِم مَّرْجِعُهُمْ فَيُنَبِّئُهُم بِمَا كَانُوا يَعْمَلُونَ) 6:108; 39:7
+- Isaan waan kana irratti beekumsa hin qaban; isaan shakkii malee hin bu’an. (مَّا لَهُم بِذَلِكَ مِنْ عِلْمٍ إِنْ هُمْ إِلَّا) 43:20; 45:24
+- Nuti abbootii keenya amantaa tokko irratti argine; nutis tarkaanfii isaanii hordofna. (إِنَّا وَجَدْنَا آبَاءَنَا عَلَى أُمَّةٍ وَإِنَّا عَلَى آثَارِهِم) 43:22; 43:23
+- Warri kitaaba isaaniif kenname, erga beekumsi isaanitti dhufe booda malee (hin wal morman). (الَّذِينَ أُوتُوا الْكِتَابَ إِلَّا مِن بَعْدِ مَا جَاءَهُمُ) 3:19; 98:4
+- Yeroo Ibraahiim jedhe: Gooftaa kiyya! Magaalaa kana nagaa taasi. (وَإِذْ قَالَ إِبْرَاهِيمُ رَبِّ اجْعَلْ هَذَا بَلَدًا آمِنًا) 2:126; 14:35
+- Inni isiniif dhageettii, argitii fi onneewwan uume; isin xiqqoo galateeffattu. (وَجَعَلَ لَكُمُ السَّمْعَ وَالْأَبْصَارَ وَالْأَفْئِدَةَ قَلِيلًا مَّا تَشْكُرُونَ) 32:9; 67:23
+- Warri keeyyattoota Rabbiitiin, odoo raajin isaanitti hin dhufin, falman. (الَّذِينَ يُجَادِلُونَ فِي آيَاتِ اللَّهِ بِغَيْرِ سُلْطَانٍ أَتَاهُمْ) 40:35; 40:56
+- Kanaaf amantaa Ibraahiim kan qajeelaa hordofaa; inni mushrikoota irraa hin taane. (فَاتَّبِعُوا مِلَّةَ إِبْرَاهِيمَ حَنِيفًا وَمَا كَانَ مِنَ الْمُشْرِكِينَ) 3:95; 16:123
+- Yeroo Nuti warra Fir’awniirraa isin baraarne; isaan adabbii hamaa isin dhandhamsiisuu turan. (وَإِذْ أَنجَيْنَاكُم مِّنْ آلِ فِرْعَوْنَ يَسُومُونَكُمْ سُوءَ الْعَذَابِ) 7:141; 14:6
+- Kun amantaa qajeelaadha; garuu namoota irra hedduun hin beekan. (ذَلِكَ الدِّينُ الْقَيِّمُ وَلَكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ) 12:40; 30:30
+- Sila Rabbiin waan samiiwwan keessa jiru isiniif laaffise hin arginee? (أَلَمْ تَرَ أَنَّ اللَّهَ سَخَّرَ لَكُم مَّا فِي) 22:65; 31:20
+- Warri kafaran ni jedhu: Kun silkii ifa ta’e malee hin taane. (لَقَالَ الَّذِينَ كَفَرُوا إِنْ هَذَا إِلَّا سِحْرٌ مُّبِينٌ) 6:7; 11:7
+- Yeroo keeyyattoonni keenya ifa ta’an isaan irratti dubbifaman, warri kafaran ni jedhu. (وَإِذَا تُتْلَى عَلَيْهِمْ آيَاتُنَا بَيِّنَاتٍ قَالَ الَّذِينَ كَفَرُوا) 19:73; 46:7
+- Jannatoota qubsumaa laggeen isaan jala yaatu, isaan ishee keessa yeroo hunda turu. (جَنَّاتُ عَدْنٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 20:76; 98:8
+- Inni waan fedhe uuma; dhugumatti, Rabbiin waan hunda irratti danda’aadha. (مَا يَشَاءُ إِنَّ اللَّهَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ) 24:45; 35:1
+- Akka Inni badii keessan isiniif araaruufi hanga yeroo murteessaatti isin tursiisuuf. (لِيَغْفِرَ لَكُم مِّن ذُنُوبِكُمْ وَيُؤَخِّرَكُمْ إِلَى أَجَلٍ مُّسَمًّى) 14:10; 71:4
+- Sila isin waan abbootiin keenya gabbaranii irraa nu dhisuu barbaadduu? (تُرِيدُونَ أَن تَصُدُّونَا عَمَّا كَانَ يَعْبُدُ آبَاؤُنَا) 14:10; 34:43
+- Yeroo Gooftaan kee malaa’ikalatti jedhe: Dhugumatti, Ani nama dhoqqee irraa uumaa. (وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي خَالِقٌ بَشَرًا مِّن) 15:28; 38:71
+- Inni bubbeewwan rahmata Isaa dura oduu gammachuu fiduu ergedha. (وَهُوَ الَّذِي يُرْسِلُ الرِّيَاحَ بُشْرًا بَيْنَ يَدَيْ رَحْمَتِهِ) 7:57; 25:48
+- Jedhi: Dachii irra deddeebi’aa; booddeen (warra durii) akkam ta’e ilaalaa. (قُلْ سِيرُوا فِي الْأَرْضِ فَانظُرُوا كَيْفَ كَانَ عَاقِبَةُ) 27:69; 30:42
+- Dhugumatti, samiiwwanii fi dachii uumuu keessaa fi halkanii fi guyyaa jijjiiruu keessaa (mallattooleetu jira). (إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ) 2:164; 3:190
+- Namni Rabbiif liqaa gaarii (kenne), Inni isaaf dachaa (isa) baasa eenyu? (مَّن ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا فَيُضَاعِفَهُ) 2:245; 57:11
+- Gidduu isaanii waan Rabbi buuseen murtii kenni; fedhii isaanii hin bu’in. (فَاحْكُم بَيْنَهُم بِمَا أَنزَلَ اللَّهُ وَلَا تَتَّبِعْ أَهْوَاءَهُمْ) 5:48; 5:49
+- Sila isaan malaa’ikoonni isaanitti dhufuu yookiin Gooftaa kee dhufuu malee (waan biraa) egaa? (هَلْ يَنظُرُونَ إِلَّا أَن تَأْتِيَهُمُ الْمَلَائِكَةُ أَوْ يَأْتِيَ) 6:158; 16:33
+- Dhugumatti, warri Rabbi irratti kijiba uuman hin milkaa’anu. (إِنَّ الَّذِينَ يَفْتَرُونَ عَلَى اللَّهِ الْكَذِبَ لَا يُفْلِحُونَ) 10:69; 16:116
+- Akka warra Fir’awnii fi warra isaan dura turan, isaan keeyyattoota keenya soban. (كَدَأْبِ آلِ فِرْعَوْنَ وَالَّذِينَ مِن قَبْلِهِمْ كَذَّبُوا بِآيَاتِنَا) 3:11; 8:54
+- Inni warra amananii fi dalagaa gaggaarii hojjatan, isaaniif mindaan jiraachuu isaatiin gammachiisa. (وَيُبَشِّرُ الْمُؤْمِنِينَ الَّذِينَ يَعْمَلُونَ الصَّالِحَاتِ أَنَّ لَهُمْ أَجْرًا) 17:9; 18:2
+- Rabbiin gabroota Isaa keessaa nama fedheef soorata bal’isa; (nama fedheefis) dhiphisa. (اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ) 28:82; 29:62
+- Gara Beekaa fagoofi ifaatti deebifamtu; waan hojjachaa turtanis isin beeksisa. (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
+- Firoonni (sanyii) tokkoon tokkoon isaanii kitaaba Rabbiitti warra biraa caalaa walitti dhihaata. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
 """;

@@ -3164,4 +3164,158 @@ Matching Phrases 9 words
 - Wɔn wɔ nsuo hyeɛ ne asotwe a ɛyɛ ya efiri wɔn gyedie a nni mu nti. (لَهُمْ شَرَابٌ مِّنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْفُرُونَ) 6:70; 10:4
 - Yɛnsom Nyankopɔn akyi deɛ ɛnyɛ mfaso ma yɛn na ɛnyɛ ya ma yɛn? (أَنَدْعُو مِن دُونِ اللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا) 6:71; 10:106
 - Sɛ Nyankopɔn nim deɛ ɛwɔ ɔsoro ne deɛ ɛwɔ asase so. (أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 5:97; 58:7
+Matching Phrases 8 words
+- Hena ne ɔbɔnefoɔ a ɔbɔ atoro wɔ Nyankopɔn ho? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا) 6:21; 6:93; 6:144; 7:37; 10:17; 11:18; 18:15; 29:68; 61:7
+- Saa mu no adansedeɛ wɔ, nanso wɔn mu dodow noara nnye nni. (إِنَّ فِي ذَلِكَ لَآيَةً وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ) 26:8; 26:67; 26:103; 26:121; 26:139; 26:158; 26:174; 26:190
+- Wɔnkɔnantew wɔ asaase so na wɔnhwɛ sɛ wɔn a wɔdi wɔn akyi no awieeɛ yɛ dɛn. (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ) 12:109; 30:9; 30:42; 35:44; 40:21; 40:82; 47:10
+- Ɔkaa sɛ: Me nkurɔfoɔ, som Nyankopɔn, moanya nyame foforo biara. (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ) 7:65; 7:73; 7:85; 11:50; 11:61; 11:84; 23:23
+- Ɔde no kɔ Aheman a nsubɔnten renane wɔ ase hɔ, wɔbɛtena mu daa. (يُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 4:13; 4:57; 4:122; 58:22; 64:9; 65:11
+- Wɔbɛbu atɛn wɔ wɔn ntam wɔ Sɔre da no, wɔ deɛ wɔn ani ntam no. (بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 2:113; 10:93; 16:124; 22:69; 32:25; 45:17
+- Wɔankɔnantew wɔ asaase so ana? na wɔnhwɛ sɛ awieeɛ no yɛ dɛn. (أَوَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ) 30:9; 35:44; 40:21; 40:82; 47:10
+- Aheman a nsubɔnten renane wɔ ase, wɔbɛtena mu daa nyinaa. (جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا) 4:57; 4:122; 5:119; 64:9; 65:11
+- Wode anadwo kɔda awia mu, na wode awia kɔda anadwo mu. (تُولِجُ اللَّيْلَ فِي النَّهَارِ وَتُولِجُ النَّهَارَ فِي اللَّيْلِ) 3:27; 22:61; 31:29; 35:13; 57:6
+- Deɛ ɛwɔ soro ne deɛ ɛwɔ asaase nyinaa kamfo Nyankopɔn. (سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 59:1; 61:1; 62:1; 64:1
+- Som Nyankopɔn, moanya nyame foforo biara nka ɔno. Enti monn. (اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا) 7:65; 11:84; 23:23; 23:32
+- Yɛka kyerɛɛ abɔfoɔ sɛ: Kotow mma Adam, na wɔkotow, gye Iblis. (وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا إِبْلِيسَ) 2:34; 17:61; 18:50; 20:116
+- Nyankopɔn nim deɛ ɛwɔ soro ne deɛ ɛwɔ asaase. (اللَّهُ وَيَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 3:29; 5:97; 49:16; 58:7
+- Aheman a nsubɔnten renane wɔ ase, wɔbɛtena mu daa, na saa. (جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَذَلِكَ) 4:13; 5:85; 9:89; 57:12
+- Ne akatua wɔ ne Wura hɔ, na ehusuo nni wɔn so, na wɔn. (أَجْرُهُ عِندَ رَبِّهِ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ) 2:112; 2:262; 2:274; 2:277
+- Wɔ ne Wura hɔ, na ehusuo nni wɔn so, na wɔn nso nsu. (عِندَ رَبِّهِ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ) 2:112; 2:262; 2:274; 2:277
+- Obi a ɔnya kwan, ɛyɛ ne ho na ɔnya, na obi a ɔfir. (فَمَنِ اهْتَدَى فَإِنَّمَا يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ) 10:108; 17:15; 27:92
+- Ɔnya kwan ma ne ho, na obi a ɔfir, ɛyɛ ne ho na ɔfir. (يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا) 10:108; 17:15; 39:41
+- Adɛn nti wɔansum adansedeɛ bi ama no afiri ne Wura hɔ? Ka sɛ: Nokorɛ. (لَوْلَا أُنزِلَ عَلَيْهِ آيَةٌ مِّن رَّبِّهِ فَقُلْ إِنَّمَا) 10:20; 13:27; 29:50
+- Wɔn a wɔagye adie na wɔayɛ papa no, wɔn na wɔanya akatua a ɛnni awieeɛ. (الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ) 41:8; 84:25; 95:6
+- Woyi anifrafra foɔ fi awufoɔ mu, na woyi awufoɔ fi anifrafra foɔ mu. (وَتُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ وَتُخْرِجُ الْمَيِّتَ مِنَ الْحَيِّ) 3:27; 10:31; 30:19
+- Obi a ɔmfa deɛ Nyankopɔn asiane no nni atɛn, saa nkurɔfoɔ no wɔn. (وَمَن لَّمْ يَحْكُم بِمَا أَنزَلَ اللَّهُ فَأُولَئِكَ هُمُ) 5:44; 5:45; 5:47
+- Ɔbɔɔ soro ne asaase ne deɛ ɛwɔ wɔn ntam wɔ nnanson mu. (خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا فِي سِتَّةِ أَيَّامٍ) 25:59; 32:4; 50:38
+- Nyankopɔn wɔ adom so wɔ nnipa so, nanso pii. (إِنَّ اللَّهَ لَذُو فَضْلٍ عَلَى النَّاسِ وَلَكِنَّ أَكْثَرَ) 2:243; 10:60; 40:61
+- Na Nyankopɔn nyɛɛ wɔn ntia, na mmom wɔn ara wɔn ani bɔɔ wɔn ho. (فَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ وَلَكِن كَانُوا أَنفُسَهُمْ يَظْلِمُونَ) 9:70; 29:40; 30:9
+- Ɔbɛpopa mo bɔne afiri mo so na ɔde mo akɔ Aheman a nsubɔnten renane wɔ ase. (عَنكُمْ سَيِّئَاتِكُمْ وَلَأُدْخِلَنَّكُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 5:12; 64:9; 66:8
+- Ɔde aboo mo so wuram nnamma, mogya, prama nam ne deɛ wɔasane. (حَرَّمَ عَلَيْكُمُ الْمَيْتَةَ وَالدَّمَ وَلَحْمَ الْخِنزِيرِ وَمَا أُهِلَّ) 2:173; 5:3; 16:115
+- Me suro sɛ me nye me Wura, ɛda kɛseɛ no so asotwe. (إِنِّي أَخَافُ إِنْ عَصَيْتُ رَبِّي عَذَابَ يَوْمٍ عَظِيمٍ) 6:15; 10:15; 39:13
+- Gye sɛ nimdeɛ ba wɔn so akyi, nantew wɔ wɔn ntam. (إِلَّا مِن بَعْدِ مَا جَاءَهُمُ الْعِلْمُ بَغْيًا بَيْنَهُمْ) 3:19; 42:14; 45:17
+- Wɔsisie mpaeboɔ na wɔfiri deɛ yɛmaa wɔn mu sɛnea ɛfata. (وَأَقَامُوا الصَّلَاةَ وَأَنفَقُوا مِمَّا رَزَقْنَاهُمْ سِرًّا وَعَلَانِيَةً) 13:22; 14:31; 35:29
+- Asɛ Nyankopɔn, deɛ ɛnnye yɛn nso ɛnhyɛ yɛn. (مِن دُونِ اللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا) 6:71; 10:106; 25:55
+- Wɔagye adie wɔ deɛ wɔasiane ama wo ne deɛ wɔasiane ansa na woaba. (يُؤْمِنُونَ بِمَا أُنزِلَ إِلَيْكَ وَمَا أُنزِلَ مِن قَبْلِكَ) 2:4; 4:60; 4:162
+- Wunhu sɛ Nyankopɔn siane nsuo fi soro? (أَلَمْ تَرَ أَنَّ اللَّهَ أَنزَلَ مِنَ السَّمَاءِ مَاءً) 22:63; 35:27; 39:21
+- Sɛ ɔpɛ birɛ yɛ, na ɔka kyerɛ no sɛ: Yɛ, na ɛyɛ. (قَضَى أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُن فَيَكُونُ) 3:47; 19:35; 40:68
+- Na wɔde wɔn nua Shuayib kɔɔ Madyan, ɔkaa sɛ: Me nkurɔfoɔ, som Nyankopɔn. (وَإِلَى مَدْيَنَ أَخَاهُمْ شُعَيْبًا قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ) 7:85; 11:84; 29:36
+- Saa yi yɛ ahintasɛm bi a yɛda no adi ama wo, na wunnyɛɛ. (ذَلِكَ مِنْ أَنْبَاءِ الْغَيْبِ نُوحِيهِ إِلَيْكَ وَمَا كُنتَ) 3:44; 11:49; 12:102
+- Sɛ wɔn berɛ duru a, wɔnkyɛ, wɔntwitwa nso. (فَإِذَا جَاءَ أَجَلُهُمْ لَا يَسْتَأْخِرُونَ سَاعَةً وَلَا يَسْتَقْدِمُونَ) 7:34; 10:49; 16:61
+- Monnni ɔbonsam anammɔn, ɔyɛ mo tamfoɔ pefee. (وَلَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ إِنَّهُ لَكُمْ عَدُوٌّ مُّبِينٌ) 2:168; 2:208; 6:142
+- Nnipa bi wɔ hɔ a wɔne Nyankopɔn di nkyinnyeɛ a wɔnni nimdeɛ. (وَمِنَ النَّاسِ مَن يُجَادِلُ فِي اللَّهِ بِغَيْرِ عِلْمٍ) 22:3; 22:8; 31:20
+- Nyankopɔn ma deɛ ɔpɛ, na Nyankopɔn wɔ adom kɛseɛ. (اللَّهِ يُؤْتِيهِ مَن يَشَاءُ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ) 57:21; 57:29; 62:4
+- Wɔbɛtua okra biara deɛ ɛfata, na wɔnni wɔn ntia. (تُوَفَّى كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ) 2:281; 3:25; 3:161
+- Monnku okra a Nyankopɔn abara, gye sɛ ɛfata. (وَلَا تَقْتُلُوا النَّفْسَ الَّتِي حَرَّمَ اللَّهُ إِلَّا بِالْحَقِّ) 6:151; 17:33; 25:68
+- Sɛ ɔpɛ birɛ yɛ a, na ɔka kyerɛ no sɛ: Yɛ. (إِذَا قَضَى أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُن) 3:47; 19:35; 40:68
+- Monkɔ Jahannam apon mu, montena mu daa; na ɛyɛ ahantanfoɔ atenaeɛ bɔne. (فَادْخُلُوا أَبْوَابَ جَهَنَّمَ خَالِدِينَ فِيهَا فَلَبِئْسَ مَثْوَى الْمُتَكَبِّرِينَ) 16:29; 39:72; 40:76
+- Wunhu wɔn a wɔmaa wɔn kyɛfa fi Nwoma no mu? (أَلَمْ تَرَ إِلَى الَّذِينَ أُوتُوا نَصِيبًا مِّنَ الْكِتَابِ) 3:23; 4:44; 4:51
+- Wɔn na wɔwɔ Aheman a nsubɔnten renane wɔ ase, wɔbɛtena mu daa. (لَهُمْ جَنَّاتٌ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 3:198; 5:119; 9:89
+- Me nkurɔfoɔ, monyɛ adwuma wɔ mo gyinabea, me nso meyɛ, na morehu. (يَاقَوْمِ اعْمَلُوا عَلَى مَكَانَتِكُمْ إِنِّي عَامِلٌ فَسَوْفَ تَعْلَمُونَ) 6:135; 11:93; 39:39
+- Nyankopɔn ne ne Somafoɔ (a ɔne wɔn di atia), nokorɛ ɔwɔ Jahannam ogya, ɔbɛtena mu daa. (اللَّهَ وَرَسُولَهُ فَأَنَّ لَهُ نَارَ جَهَنَّمَ خَالِدًا فِيهَا) 9:63; 72:23
+- Yɛde nkatanim agu wɔn koma so na wɔnte ase, na wɔn aso mu nso nnu. (عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا) 17:46; 18:57
+- Nkuro biara a ɔbɔfoɔ ba mu no, wɔn nnwomasoɔfoɔ ka sɛ: Yɛn. (فِي قَرْيَةٍ مِّن نَّذِيرٍ إِلَّا قَالَ مُتْرَفُوهَا إِنَّا) 34:34; 43:23
+- Wɔkaa sɛ: Frɛ wo Wura ma ɔnkyerɛ yɛn sɛ ɛyɛ dɛn. (قَالُوا ادْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِيَ) 2:68; 2:70
+- Wɔbɛka sɛ: Nyankopɔn. Ka sɛ: Ayeyi nka Nyankopɔn, nanso wɔn pii. (لَيَقُولُنَّ اللَّهُ قُلِ الْحَمْدُ لِلَّهِ بَلْ أَكْثَرُهُمْ لَا) 29:63; 31:25
+- Ne nkurɔfoɔ mmua ne sɛ: Munyiyɛ wɔn. (وَمَا كَانَ جَوَابَ قَوْمِهِ إِلَّا أَن قَالُوا أَخْرِجُوهُم) 7:82; 27:56
+- Nsubɔnten renane wɔ ase, wɔbɛtena mu daa nyinaa, ɛno ne nkonimdi kɛseɛ. (تَحْتَهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا ذَلِكَ الْفَوْزُ الْعَظِيمُ) 9:100; 64:9
+- Saa nkurɔfoɔ no wɔ kwan so fi wɔn Wura hɔ, na wɔn ara na wɔadi nkonim. (أُولَئِكَ عَلَى هُدًى مِّن رَّبِّهِمْ وَأُولَئِكَ هُمُ الْمُفْلِحُونَ) 2:5; 31:5
+- Obi a asotwe a ɛyɛ animguaseɛ no bɛba ne so, na asotwe a ɛtra hɔ daa bɛba ne so. (مَن يَأْتِيهِ عَذَابٌ يُخْزِيهِ وَيَحِلُّ عَلَيْهِ عَذَابٌ مُّقِيمٌ) 11:39; 39:40
+- Monkɔnantew wɔ asaase so na monhwɛ sɛ wɔn a wɔbuaa atoro no awieeɛ yɛ dɛn. (فَسِيرُوا فِي الْأَرْضِ فَانظُرُوا كَيْفَ كَانَ عَاقِبَةُ الْمُكَذِّبِينَ) 3:137; 16:36
+- Wɔnko wɔn apɛ daa ɛnam deɛ wɔn nsa diiɛ no, na Nyankopɔn nim abɔnefoɔ. (يَتَمَنَّوْهُ أَبَدًا بِمَا قَدَّمَتْ أَيْدِيهِمْ وَاللَّهُ عَلِيمٌ بِالظَّالِمِينَ) 2:95; 62:7
+- Ɔno na ɔnim deɛ ɔfir ne kwan so, na ɔno na ɔnim. (هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ) 53:30; 68:7
+- Nyankopɔn ne me Wura ne mo Wura, enti monsom no, yiye kwan. (إِنَّ اللَّهَ رَبِّي وَرَبُّكُمْ فَاعْبُدُوهُ هَذَا صِرَاطٌ مُّسْتَقِيمٌ) 3:51; 19:36
+- Ɔwɔ adom so wɔ nnipa so, nanso wɔn pii nna ase. (لَذُو فَضْلٍ عَلَى النَّاسِ وَلَكِنَّ أَكْثَرَهُمْ لَا يَشْكُرُونَ) 10:60; 27:73
+- Soro ne asaase ne deɛ ɛwɔ wɔn ntam, gye sɛ ɛyɛ nokorɛ ne berɛ a wɔahyɛ. (السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا إِلَّا بِالْحَقِّ وَأَجَلٍ مُّسَمًّى) 30:8; 46:3
+- Gyae wɔn ma wɔnka wɔn ho wɔ agodie mu, kosii sɛ wɔbɛhyia wɔn da a wɔahyehyɛ ama wɔn. (فَذَرْهُمْ يَخُوضُوا وَيَلْعَبُوا حَتَّى يُلَاقُوا يَوْمَهُمُ الَّذِي يُوعَدُونَ) 43:83; 70:42
+- Sɛ wɔhyia wɔn a wɔagye adie no, wɔka sɛ: Yɛagye, na sɛ wɔnko wɔn ho. (وَإِذَا لَقُوا الَّذِينَ آمَنُوا قَالُوا آمَنَّا وَإِذَا خَلَوْا) 2:14; 2:76
+- Wɔsi Tawrait ne Injil ne deɛ wɔasiane ama wɔn fi wɔn Wura hɔ. (أَقَامُوا التَّوْرَاةَ وَالْإِنجِيلَ وَمَا أُنزِلَ إِلَيْهِم مِّن رَّبِّهِمْ) 5:66; 5:68
+- Ɔnim deɛ ɛda wɔn anim ne deɛ ɛda wɔn akyi, na wɔn. (يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ) 2:255; 20:110
+- Ɔno na ɔbɔɔ soro ne asaase wɔ nnanson mu. (وَهُوَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ) 11:7; 57:4
+- Saa mu no adansedeɛ wɔ ama mo, sɛ moyɛ agyidiefoɔ. (إِنَّ فِي ذَلِكَ لَآيَةً لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ) 2:248; 3:49
+- Deɛ ɛmaa nnipa ammfa nni ansa na kwan no reba wɔn. (وَمَا مَنَعَ النَّاسَ أَن يُؤْمِنُوا إِذْ جَاءَهُمُ الْهُدَى) 17:94; 18:55
+- Wɔde kyɛfa a wɔfrɛ no Nyankopɔn deɛ, sɛ wɔntwe wɔn fi ne kwan so. Ka sɛ: Monna. (وَجَعَلُوا لِلَّهِ أَندَادًا لِّيُضِلُّوا عَن سَبِيلِهِ قُلْ تَمَتَّعُوا) 14:30; 39:8
+- Wɔn ho yɛ wɔn nwanwa sɛ ɔbɔfoɔ fi wɔn mu ba, na wɔn a wɔmfa nni no ka sɛ: Saa. (وَعَجِبُوا أَن جَاءَهُم مُّنذِرٌ مِّنْهُمْ وَقَالَ الْكَافِرُونَ هَذَا) 38:4; 50:2
+- Wo Wura ne ɔnim deɛ ɔfir ne kwan so. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ) 53:30; 68:7
+- Te sɛ deɛ ɔbɔ ne sika wɔ nkurɔfoɔ anim a ɔnnye nni. (كَالَّذِي يُنفِقُ مَالَهُ رِئَاءَ النَّاسِ وَلَا يُؤْمِنُ بِاللَّهِ) 2:264; 4:38
+- Monfi deɛ yɛmaa mo mu na monbɔ ansa na ɛreba. (أَنفِقُوا مِمَّا رَزَقْنَاكُم مِّن قَبْلِ أَن يَأْتِيَ) 2:254; 63:10
+- Ɔde deɛ ɛwɔ soro ne deɛ ɛwɔ asaase nyinaa ma mo. (سَخَّرَ لَكُم مَّا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 31:20; 45:13
+- Yɛn nso yɛwɔ abɛbɔ mu wɔ deɛ wofrɛ yɛn kɔ no ho. (وَإِنَّنَا لَفِي شَكٍّ مِّمَّا تَدْعُونَا إِلَيْهِ مُرِيبٍ) 11:62; 14:9
+- Wo Wura na ɔtrɛw akwamma ma deɛ ɔpɛ, na ɔsɔ so, nokorɛ ɔno. (إِنَّ رَبَّكَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ وَيَقْدِرُ إِنَّهُ) 17:30; 34:36
+- Soro ne asaase Wura ne deɛ ɛwɔ wɔn ntam, sɛ moyɛ nokorɛ. (رَبُّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا إِن كُنتُم مُّوقِنِينَ) 26:24; 44:7
+- Yɛagye adie wɔ Nyankopɔn mu ne deɛ wɔasiane ama yɛn ne deɛ wɔasiane ama. (آمَنَّا بِاللَّهِ وَمَا أُنزِلَ إِلَيْنَا وَمَا أُنزِلَ إِلَى) 2:136; 3:199
+- Na wɔn a wɔyɛɛ bɔne no, wɔn ho yɛɛ wɔn, na wɔbɛyɛɛ wɔn atenaeɛ mu wɔn. (وَأَخَذَ الَّذِينَ ظَلَمُوا الصَّيْحَةُ فَأَصْبَحُوا فِي دِيَارِهِمْ جَاثِمِينَ) 11:67; 11:94
+- Enti bɔne nni mo so wɔ deɛ wɔyɛ wɔ wɔn ho. (فَلَا جُنَاحَ عَلَيْكُمْ فِيمَا فَعَلْنَ فِي أَنفُسِهِنَّ) 2:234; 2:240
+- Wo Wura ne ɔnim deɛ ɔfir ne kwan so, na ɔno. (رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ) 53:30; 68:7
+- Honhom no fi ne ahyɛdeɛ mu, wɔde ma deɛ ɔpɛ fi ne mma. (بِالرُّوحِ مِنْ أَمْرِهِ عَلَى مَن يَشَاءُ مِنْ عِبَادِهِ) 16:2; 40:15
+- Yɛmaa Yesu Maryam ba adansedeɛ a ɛda hɔ, na yɛde Honhom Kronkron no hyɛɛ no den. (وَآتَيْنَا عِيسَى ابْنَ مَرْيَمَ الْبَيِّنَاتِ وَأَيَّدْنَاهُ بِرُوحِ الْقُدُسِ) 2:87; 2:253
+- Ɔbɛbu atɛn wɔ wɔn ntam wɔ Sɔre da no, wɔ deɛ wɔn ani ntam. (لَيَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ) 16:124; 22:69
+- Yɛmaa ne sor so bɛyɛɛ ase, na yɛtɔɔ nwiriwa bɔne so. (جَعَلْنَا عَالِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةً مِّن سِجِّيلٍ) 11:82; 15:74
+- Ɛyɛ pɛ ama wɔn, wubɔɔ wɔn kɔkɔ anaa woammɔ, wɔnnye nni. (سَوَاءٌ عَلَيْهِمْ أَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ) 2:6; 36:10
+- Asɛ nnipa, monko owuo so, sɛ moyɛ nokwafoɔ. (مِّن دُونِ النَّاسِ فَتَمَنَّوُا الْمَوْتَ إِن كُنتُمْ صَادِقِينَ) 2:94; 62:6
+- Nyankopɔn, moanya nyame foforo biara nka ɔno. Enti monsuro no? (اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 23:23; 23:32
+- Sɛ yɛma wuhu deɛ yɛahyɛ wɔn akyiri pii, anaa yɛfa wo nkwa, ɛna yɛn nkyɛn na wɔsan ba. (وَإِمَّا نُرِيَنَّكَ بَعْضَ الَّذِي نَعِدُهُمْ أَوْ نَتَوَفَّيَنَّكَ فَإِلَيْنَا) 10:46; 40:77
+- Wɔkaa sɛ: Sɛ yɛwu na yɛyɛ mfuturo ne nnompe a, yɛbɛsɔre ama nkwa? (قَالُوا أَإِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَامًا أَإِنَّا لَمَبْعُوثُونَ) 23:82; 56:47
+- Adom wɔ Nyankopɔn nsam, ɔma deɛ ɔpɛ, na Nyankopɔn. (إِنَّ الْفَضْلَ بِيَدِ اللَّهِ يُؤْتِيهِ مَن يَشَاءُ وَاللَّهُ) 3:73; 57:29
+- Kɔ deɛ ɔnim ahintasɛm ne deɛ ɛda hɔ no, na ɔbɛka ama mo deɛ moadi. (إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ) 9:105; 62:8
+- Mo a moagye adie, monkae Nyankopɔn adom wɔ mo so, sɛ. (يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا نِعْمَتَ اللَّهِ عَلَيْكُمْ إِذْ) 5:11; 33:9
+- Yɛansoma obiara ansa na woaba, gye sɛ mmarima a yɛda adi kyerɛ wɔn. (وَمَا أَرْسَلْنَا مِن قَبْلِكَ إِلَّا رِجَالًا نُّوحِي إِلَيْهِم) 12:109; 16:43
+- Ɔbɛpopa ne bɔne afiri ne so na ɔde no akɔ Aheman a nsubɔnten renane wɔ ase. (يُكَفِّرْ عَنْهُ سَيِّئَاتِهِ وَيُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا) 64:9; 66:8
+- Ɛyarefoɔ anaa ɔkwankyerɛfoɔ, na ɛda foforo bi. (مَّرِيضًا أَوْ عَلَى سَفَرٍ فَعِدَّةٌ مِّنْ أَيَّامٍ أُخَرَ) 2:184; 2:185
+- Wɔnni suro na wɔfa, na wɔn nso wɔnni nokorɛ. (إِن يَتَّبِعُونَ إِلَّا الظَّنَّ وَإِنْ هُمْ إِلَّا يَخْرُصُونَ) 6:116; 10:66
+- Nhwanisɛm pa ma deɛ ɔhwɛ Nyankopɔn ne Da a Ɛtwa To. (أُسْوَةٌ حَسَنَةٌ لِّمَن كَانَ يَرْجُو اللَّهَ وَالْيَوْمَ الْآخِرَ) 33:21; 60:6
+- Yɛammɔ soro ne asaase ne deɛ ɛwɔ wɔn ntam, gye sɛ ɛyɛ nokorɛ. (وَمَا خَلَقْنَا السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا إِلَّا بِالْحَقِّ) 15:85; 46:3
+- Fa wo nsa hyɛ wo patuo mu, na ɛbɛfi abɛyɛ fitaa a ɛnni bɔne. (يَدَكَ فِي جَيْبِكَ تَخْرُجْ بَيْضَاءَ مِنْ غَيْرِ سُوءٍ) 27:12; 28:32
+- Ɔnam ne adom so paw deɛ ɔpɛ, na Nyankopɔn wɔ adom kɛseɛ. (يَخْتَصُّ بِرَحْمَتِهِ مَن يَشَاءُ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ) 2:105; 3:74
+- Wunnim sɛ Nyankopɔn wɔ soro ne asaase ahennie? (أَلَمْ تَعْلَمْ أَنَّ اللَّهَ لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ) 2:107; 5:40
+- Deɛ papa biara moadi wɔ mo ho, mubehu wɔ Nyankopɔn hɔ. (وَمَا تُقَدِّمُوا لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ اللَّهِ) 2:110; 73:20
+- Nea wufi mu pue, fa wo anim kyerɛ Masjid Al-Haram no. (وَمِنْ حَيْثُ خَرَجْتَ فَوَلِّ وَجْهَكَ شَطْرَ الْمَسْجِدِ الْحَرَامِ) 2:149; 2:150
+- Wɔn a wɔadi wɔn anim no, na wonhu Nyankopɔn mmara nsakaeɛ. (خَلَوْا مِن قَبْلُ وَلَن تَجِدَ لِسُنَّةِ اللَّهِ تَبْدِيلًا) 33:62; 48:23
+- Deɛ ɔwɔ soro ne asaase nyinaa ne deɛ. (الَّذِي لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 34:1; 42:53
+- Ɔbea biara nnyinsɛn na ɔnwo, gye sɛ ɛnam ne nimdeɛ so. (وَمَا تَحْمِلُ مِنْ أُنثَى وَلَا تَضَعُ إِلَّا بِعِلْمِهِ) 35:11; 41:47
+- Anadwo, na ɔde owia ne bosome ma wɔn, biribiara di n'akwan ma berɛ a wɔahyɛ. (اللَّيْلِ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ كُلٌّ يَجْرِي لِأَجَلٍ مُّسَمًّى) 35:13; 39:5
+- Nsubɔnten renane wɔ ase, wɔbɛtena mu daa, na ɛno ne akatua. (تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَذَلِكَ جَزَاءُ) 5:85; 20:76
+- Ɔkaa sɛ: Daabi, mo akoma na ɛsii birɛ yɛ, enti montwɛn. (قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْرًا فَصَبْرٌ جَمِيلٌ) 12:18; 12:83
+- Deɛ ɛwɔ soro ne deɛ ɛwɔ asaase, na Nyankopɔn. (مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَأَنَّ اللَّهَ) 5:97; 22:64
+- Ɔsomafoɔ biara nkɔ wɔn hɔ a wɔnnye nni, gye sɛ wɔserew no. (وَمَا يَأْتِيهِم مِّن رَّسُولٍ إِلَّا كَانُوا بِهِ يَسْتَهْزِئُونَ) 15:11; 36:30
+- Wɔkaa sɛ: Mose, enti wo na wobɛtow, anaasɛ yɛn. (قَالُوا يَامُوسَى إِمَّا أَن تُلْقِيَ وَإِمَّا أَن نَّكُونَ) 7:115; 20:65
+- Ɔno na ɔde owuo ba mo so, na mo mu bi kɔ mmerɛw so, sɛnea. (يَتَوَفَّاكُمْ وَمِنكُم مَّن يُرَدُّ إِلَى أَرْذَلِ الْعُمُرِ لِكَيْ) 16:70; 22:5
+- Wɔn na wɔwɔ Aheman a nsubɔnten renane wɔ ase, wɔbɛtena mu daa. (رَبِّهِمْ جَنَّاتٌ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 3:15; 3:136
+- Yɛde nkatanim agu wɔn koma so na wɔnte ase, na wɔn aso mu nso nnu. (وَجَعَلْنَا عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ) 17:46; 18:57
+- Nyankopɔn bɔhyɛ yɛ nokorɛ, nanso wɔn pii nnim. (إِنَّ وَعْدَ اللَّهِ حَقٌّ وَلَكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ) 10:55; 28:13
+- Saa no ɛnam sɛ wɔne Nyankopɔn ne ne Somafoɔ no di atia, na obi a ɔne Nyankopɔn di atia. (ذَلِكَ بِأَنَّهُمْ شَاقُّوا اللَّهَ وَرَسُولَهُ وَمَن يُشَاقِقِ اللَّهَ) 8:13; 59:4
+- Na da a ɔbɛfrɛ wɔn, na ɔbɛka sɛ: Me nkurɔfoɔ a mofrɛɛ wɔn no wɔ he? (وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ أَيْنَ شُرَكَائِيَ الَّذِينَ كُنتُمْ تَزْعُمُونَ) 28:62; 28:74
+- Wunhu sɛ Nyankopɔn ne ɔbɔɔ soro ne asaase? (أَوَلَمْ يَرَوْا أَنَّ اللَّهَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ) 17:99; 46:33
+- Wɔde deɛ ɔbɔɔ wo fi mfuturo, na afiri nnu ahyɛ, na. (بِالَّذِي خَلَقَكَ مِن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ) 18:37; 40:67
+- Wɔbɛka sɛ: Yɛn Wura, na wamma Somafoɔ biamma yɛn, na yɛadi wo nsɛnkyerɛnne akyi. (لَقَالُوا رَبَّنَا لَوْلَا أَرْسَلْتَ إِلَيْنَا رَسُولًا فَنَتَّبِعَ آيَاتِكَ) 20:134; 28:47
+- Afei wɔn kɔ wɔn Wura hɔ, na ɔbɛka ama wɔn deɛ wɔadi. (ثُمَّ إِلَى رَبِّهِم مَّرْجِعُهُمْ فَيُنَبِّئُهُم بِمَا كَانُوا يَعْمَلُونَ) 6:108; 39:7
+- Wɔnni nimdeɛ wɔ saa ho, wɔn nso wɔnni. (مَّا لَهُم بِذَلِكَ مِنْ عِلْمٍ إِنْ هُمْ إِلَّا) 43:20; 45:24
+- Yɛhuu yɛn agyanom wɔ ɔsom bi so, na yɛn nso yɛkɔ wɔn anammɔn so. (إِنَّا وَجَدْنَا آبَاءَنَا عَلَى أُمَّةٍ وَإِنَّا عَلَى آثَارِهِم) 43:22; 43:23
+- Wɔn a wɔmaa wɔn Nwoma no, gye sɛ akyi a ɛbaa wɔn. (الَّذِينَ أُوتُوا الْكِتَابَ إِلَّا مِن بَعْدِ مَا جَاءَهُمُ) 3:19; 98:4
+- Na Abraham kaa sɛ: Me Wura, yɛ saa kurow yi adwane. (وَإِذْ قَالَ إِبْرَاهِيمُ رَبِّ اجْعَلْ هَذَا بَلَدًا آمِنًا) 2:126; 14:35
+- Ɔmaa mo asomtire, aniwa ne koma; na mo nna ase kakraa. (وَجَعَلَ لَكُمُ السَّمْعَ وَالْأَبْصَارَ وَالْأَفْئِدَةَ قَلِيلًا مَّا تَشْكُرُونَ) 32:9; 67:23
+- Wɔn a wɔne Nyankopɔn nsɛnkyerɛnne di nkyinnyeɛ a wɔnni tumi a ɛbaa wɔn. (الَّذِينَ يُجَادِلُونَ فِي آيَاتِ اللَّهِ بِغَيْرِ سُلْطَانٍ أَتَاهُمْ) 40:35; 40:56
+- Nidi Abraham som, na na ɔnyɛ abosonsomfoɔ. (فَاتَّبِعُوا مِلَّةَ إِبْرَاهِيمَ حَنِيفًا وَمَا كَانَ مِنَ الْمُشْرِكِينَ) 3:95; 16:123
+- Na yɛgyee mo fi Farao efie, na wɔde asotwe bɔne no ma mo. (وَإِذْ أَنجَيْنَاكُم مِّنْ آلِ فِرْعَوْنَ يَسُومُونَكُمْ سُوءَ الْعَذَابِ) 7:141; 14:6
+- Saa na ɔsom a ɛyɛ papa, nanso nnipa pii nnim. (ذَلِكَ الدِّينُ الْقَيِّمُ وَلَكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ) 12:40; 30:30
+- Wunhu sɛ Nyankopɔn de deɛ ɛwɔ. (أَلَمْ تَرَ أَنَّ اللَّهَ سَخَّرَ لَكُم مَّا فِي) 22:65; 31:20
+- Wɔn a wɔammfa nni no bɛka sɛ: Saa yi nnyɛ nkɔmhyɛ biara, gye sɛ ɔbayifoɔ. (لَقَالَ الَّذِينَ كَفَرُوا إِنْ هَذَا إِلَّا سِحْرٌ مُّبِينٌ) 6:7; 11:7
+- Sɛ wɔkenkan yɛn nsɛnkyerɛnne a ɛda hɔ wɔ wɔn so a, wɔn a wɔnnye nni no ka. (وَإِذَا تُتْلَى عَلَيْهِمْ آيَاتُنَا بَيِّنَاتٍ قَالَ الَّذِينَ كَفَرُوا) 19:73; 46:7
+- Aheman a ɛtra hɔ daa, nsubɔnten renane wɔ ase, wɔbɛtena mu daa. (جَنَّاتُ عَدْنٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 20:76; 98:8
+- Deɛ ɔpɛ, Nyankopɔn wɔ biribiara so tumi. (مَا يَشَاءُ إِنَّ اللَّهَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ) 24:45; 35:1
+- Sɛ ɔbɛfa mo bɔne akyɛ mo na ɔde mo akɔsi berɛ a wɔahyɛ. (لِيَغْفِرَ لَكُم مِّن ذُنُوبِكُمْ وَيُؤَخِّرَكُمْ إِلَى أَجَلٍ مُّسَمًّى) 14:10; 71:4
+- Mopɛ sɛ mosi yɛn kwan fi deɛ yɛn agyanom som no? (تُرِيدُونَ أَن تَصُدُّونَا عَمَّا كَانَ يَعْبُدُ آبَاؤُنَا) 14:10; 34:43
+- Na wo Wura kaa kyerɛɛ abɔfoɔ sɛ: Merekɔbɔ onipa fi. (وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي خَالِقٌ بَشَرًا مِّن) 15:28; 38:71
+- Ɔno na ɔsoma mframa sɛ ɔkɔ, na ɛma. (وَهُوَ الَّذِي يُرْسِلُ الرِّيَاحَ بُشْرًا بَيْنَ يَدَيْ رَحْمَتِهِ) 7:57; 25:48
+- Ka sɛ: Monkɔnantew wɔ asaase so na monhwɛ sɛ awieeɛ yɛ dɛn. (قُلْ سِيرُوا فِي الْأَرْضِ فَانظُرُوا كَيْفَ كَانَ عَاقِبَةُ) 27:69; 30:42
+- Soro ne asaase bɔbea ne anadwo ne awia nsakraeɛ mu no. (إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ) 2:164; 3:190
+- Hena na ɔbɛbɔ Nyankopɔn bosea pa, na ɔmfa nsi ne so? (مَّن ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا فَيُضَاعِفَهُ) 2:245; 57:11
+- Enti bu atɛn wɔ wɔn ntam wɔ deɛ Nyankopɔn asiane mu, na mmfa wɔn akɔnnɔ. (فَاحْكُم بَيْنَهُم بِمَا أَنزَلَ اللَّهُ وَلَا تَتَّبِعْ أَهْوَاءَهُمْ) 5:48; 5:49
+- Wɔnko wɔn apɛ gye sɛ abɔfoɔ bɛba, anaasɛ wo Wura ahyɛdeɛ bɛba. (هَلْ يَنظُرُونَ إِلَّا أَن تَأْتِيَهُمُ الْمَلَائِكَةُ أَوْ يَأْتِيَ) 6:158; 16:33
+- Wɔn a wɔbɔ atoro wɔ Nyankopɔn ho no, wɔrenhu. (إِنَّ الَّذِينَ يَفْتَرُونَ عَلَى اللَّهِ الْكَذِبَ لَا يُفْلِحُونَ) 10:69; 16:116
+- Sɛ Farao efie ne wɔn a wɔdi wɔn anim no, wɔbuaa yɛn nsɛnkyerɛnne no atoro. (كَدَأْبِ آلِ فِرْعَوْنَ وَالَّذِينَ مِن قَبْلِهِمْ كَذَّبُوا بِآيَاتِنَا) 3:11; 8:54
+- Ɔma agyidiefoɔ a wɔyɛ papa no anigyeɛ sɛ wɔn akatua wɔ hɔ. (وَيُبَشِّرُ الْمُؤْمِنِينَ الَّذِينَ يَعْمَلُونَ الصَّالِحَاتِ أَنَّ لَهُمْ أَجْرًا) 17:9; 18:2
+- Nyankopɔn trɛw akwamma ma deɛ ɔpɛ fi ne mma, na ɔsɔ so. (اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ) 28:82; 29:62
+- Na monsan kɔ deɛ ɔnim ahintasɛm ne deɛ ɛda hɔ no, na ɔbɛka ama mo deɛ moadi. (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
+- Na abusua nteaseɛfoɔ na wɔn mu bi wɔ ho wɔ Nyankopɔn Nwoma mu. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
 """;

@@ -3163,4 +3163,158 @@ Matching Phrases 9 words
 - Iwo ali ndi chakumwa chamadzi otentha ndi chilango chowawa chifukwa cha kusakhulupirira kwawo. (لَهُمْ شَرَابٌ مِّنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْفُرُونَ) 6:70; 10:4
 - Kodi ife tipembedze wina kusiyapo Allah amene sangatithandize kapena kutivulaza? (أَنَدْعُو مِن دُونِ اللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا) 6:71; 10:106
 - Kuti Allah amadziwa zonse zimene zili m'thambo ndi m'nthaka. (أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 5:97; 58:7
+Matching Phrases 8 words
+- Ndani wopanda chilungamo kuposa amene akumpekera Allah bodza? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا) 6:21; 6:93; 6:144; 7:37; 10:17; 11:18; 18:15; 29:68; 61:7
+- Ndithudi m'zimenezo muli chizindikiro, koma ambiri a iwo sanali okhulupirira. (إِنَّ فِي ذَلِكَ لَآيَةً وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ) 26:8; 26:67; 26:103; 26:121; 26:139; 26:158; 26:174; 26:190
+- Kuti ayende m'dziko lapansi ndipo aone mmene mathero a anthu (akale) analili. (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ) 12:109; 30:9; 30:42; 35:44; 40:21; 40:82; 47:10
+- Iye anati: Anthu anga, pembedzani Allah, mulibe mulungu wina koma Iye yekha. (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ) 7:65; 7:73; 7:85; 11:50; 11:61; 11:84; 23:23
+- Iye adzamulowetsa m'minda yamaluwa yomwe mitsinje ikuyenda pansi pake, adzakhala mmenemo mpaka muyaya. (يُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 4:13; 4:57; 4:122; 58:22; 64:9; 65:11
+- Pakati pawo pa Tsiku la Chimaliziro padzaweruzidwa pa zomwe amatsutsana. (بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 2:113; 10:93; 16:124; 22:69; 32:25; 45:17
+- Kodi sanayende m'dziko lapansi kuti aone mmene mathero analili? (أَوَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ) 30:9; 35:44; 40:21; 40:82; 47:10
+- Minda yamaluwa yomwe mitsinje ikuyenda pansi pake, adzakhala mmenemo mpaka muyaya. (جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا) 4:57; 4:122; 5:119; 64:9; 65:11
+- Mumalowetsa usiku mu usana ndipo mumalowetsa usana mu usiku. (تُولِجُ اللَّيْلَ فِي النَّهَارِ وَتُولِجُ النَّهَارَ فِي اللَّيْلِ) 3:27; 22:61; 31:29; 35:13; 57:6
+- Chilichonse chomwe chili m'mwamba ndi m'dziko lapansi chimamlemekeza Allah. (سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 59:1; 61:1; 62:1; 64:1
+- Pembedzani Allah, mulibe mulungu wina koma Iye. Kodi simuopa? (اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا) 7:65; 11:84; 23:23; 23:32
+- Nthawi imene tinauza angelo kuti: Gundani pansi kwa Adamu, onse anagwada koma Iblis. (وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا إِبْلِيسَ) 2:34; 17:61; 18:50; 20:116
+- Allah amadziwa zomwe zili m'mwamba ndi zomwe zili m'dziko lapansi. (اللَّهُ وَيَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 3:29; 5:97; 49:16; 58:7
+- Minda yamaluwa yomwe mitsinje ikuyenda pansi pake, adzakhala mmenemo mpaka muyaya, ndipo zimenezo. (جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَذَلِكَ) 4:13; 5:85; 9:89; 57:12
+- Mphotho yake ili kwa Mbuye wake, ndipo palibe mantha pa iwo, ndipo iwo. (أَجْرُهُ عِندَ رَبِّهِ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ) 2:112; 2:262; 2:274; 2:277
+- Kwa Mbuye wake, ndipo palibe mantha pa iwo, ndipo iwo sadzachita chisoni. (عِندَ رَبِّهِ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ) 2:112; 2:262; 2:274; 2:277
+- Aliyense amene watsogozedwa, akudzitsogozera yekha, ndipo aliyense amene wasochera. (فَمَنِ اهْتَدَى فَإِنَّمَا يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ) 10:108; 17:15; 27:92
+- Akudzitsogozera yekha, ndipo aliyense amene wasochera, akudzisocheretsa yekha. (يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا) 10:108; 17:15; 39:41
+- Bwanji sichinatsitsidwe kwa iye chizindikiro chochokera kwa Mbuye wake? Nena: Ndithudi. (لَوْلَا أُنزِلَ عَلَيْهِ آيَةٌ مِّن رَّبِّهِ فَقُلْ إِنَّمَا) 10:20; 13:27; 29:50
+- Iwo amene akhulupirira ndi kuchita zabwino, mphotho yawo ndi yosatha. (الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ) 41:8; 84:25; 95:6
+- Mumatulutsa chamoyo kuchokera m'chakufa ndipo mumatulutsa chakufa kuchokera m'chamoyo. (وَتُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ وَتُخْرِجُ الْمَيِّتَ مِنَ الْحَيِّ) 3:27; 10:31; 30:19
+- Aliyense amene sakuweruza ndi zimene Allah wavumbulutsa, ameneyo ndiye. (وَمَن لَّمْ يَحْكُم بِمَا أَنزَلَ اللَّهُ فَأُولَئِكَ هُمُ) 5:44; 5:45; 5:47
+- Iye analenga mlengalenga ndi dziko lapansi ndi zomwe zili pakati pake m'masiku asanu ndi limodzi. (خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا فِي سِتَّةِ أَيَّامٍ) 25:59; 32:4; 50:38
+- Ndithudi Allah ndi wachifundo pa anthu, koma ambiri. (إِنَّ اللَّهَ لَذُو فَضْلٍ عَلَى النَّاسِ وَلَكِنَّ أَكْثَرَ) 2:243; 10:60; 40:61
+- Allah sanawachitire zopanda chilungamo, koma iwo anadzipweteka okha. (فَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ وَلَكِن كَانُوا أَنفُسَهُمْ يَظْلِمُونَ) 9:70; 29:40; 30:9
+- Adzakukhululukirani machimo anu ndikukulowetsani m'minda yamaluwa yomwe mitsinje ikuyenda pansi pake. (عَنكُمْ سَيِّئَاتِكُمْ وَلَأُدْخِلَنَّكُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 5:12; 64:9; 66:8
+- Iye wakuletsani nyama yakufa, magazi, nyama ya nkhumba, ndi zomwe zaphedwa m'dzina lina osati Allah. (حَرَّمَ عَلَيْكُمُ الْمَيْتَةَ وَالدَّمَ وَلَحْمَ الْخِنزِيرِ وَمَا أُهِلَّ) 2:173; 5:3; 16:115
+- Ndithudi ine ndikuopa, ngati ndipandukira Mbuye wanga, chilango cha Tsiku Lalikulu. (إِنِّي أَخَافُ إِنْ عَصَيْتُ رَبِّي عَذَابَ يَوْمٍ عَظِيمٍ) 6:15; 10:15; 39:13
+- Koma pambuyo poti chidziwitso chawafikira, chifukwa cha nsanje pakati pawo. (إِلَّا مِن بَعْدِ مَا جَاءَهُمُ الْعِلْمُ بَغْيًا بَيْنَهُمْ) 3:19; 42:14; 45:17
+- Iwo amaima mapemphero ndi kupereka zina mwa zomwe tawapatsa, mobisa ndi poonekera. (وَأَقَامُوا الصَّلَاةَ وَأَنفَقُوا مِمَّا رَزَقْنَاهُمْ سِرًّا وَعَلَانِيَةً) 13:22; 14:31; 35:29
+- Kodi tipembedze m'malo mwa Allah zomwe sizingatithandze kapena kutivulaza? (مِن دُونِ اللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا) 6:71; 10:106; 25:55
+- Iwo amakhulupirira zimene zavumbulutsidwa kwa iwe ndi zimene zavumbulutsidwa iwe usanabwere. (يُؤْمِنُونَ بِمَا أُنزِلَ إِلَيْكَ وَمَا أُنزِلَ مِن قَبْلِكَ) 2:4; 4:60; 4:162
+- Kodi sukuona kuti Allah amatsitsa madzi kumwamba? (أَلَمْ تَرَ أَنَّ اللَّهَ أَنزَلَ مِنَ السَّمَاءِ مَاءً) 22:63; 35:27; 39:21
+- Akamalamula chinthu, amangochinena kuti: Khala, ndipo chimakha. (قَضَى أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُن فَيَكُونُ) 3:47; 19:35; 40:68
+- Ndipo kwa Madyani (tinatumiza) m'bale wawo Shu'ayb. Iye anati: Anthu anga, pembedzani Allah. (وَإِلَى مَدْيَنَ أَخَاهُمْ شُعَيْبًا قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ) 7:85; 11:84; 29:36
+- Izi ndi nkhani zobisika zomwe tikukuvumbulutsira iwe; iwe sunali kuzidziwa. (ذَلِكَ مِنْ أَنْبَاءِ الْغَيْبِ نُوحِيهِ إِلَيْكَ وَمَا كُنتَ) 3:44; 11:49; 12:102
+- Ndipo pamene nthawi yawo yafika, sangaichedwetse kapena kuifulumizitsa. (فَإِذَا جَاءَ أَجَلُهُمْ لَا يَسْتَأْخِرُونَ سَاعَةً وَلَا يَسْتَقْدِمُونَ) 7:34; 10:49; 16:61
+- Ndipo musatsatire mapazi a satana, pakuti iye ndi mdani wanu weniweni. (وَلَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ إِنَّهُ لَكُمْ عَدُوٌّ مُّبِينٌ) 2:168; 2:208; 6:142
+- Pakati pa anthu pali amene amatsutsana za Allah popanda chidziwitso. (وَمِنَ النَّاسِ مَن يُجَادِلُ فِي اللَّهِ بِغَيْرِ عِلْمٍ) 22:3; 22:8; 31:20
+- Allah amapereka kwa amene wamfuna, ndipo Allah ndi mwini chifundo chachikulu. (اللَّهِ يُؤْتِيهِ مَن يَشَاءُ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ) 57:21; 57:29; 62:4
+- Moyo uliwonse udzalipidwa mokwanira zimene unachita, ndipo iwo sadzaponderezedwa. (تُوَفَّى كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ) 2:281; 3:25; 3:161
+- Ndipo musaphe moyo umene Allah waletsa, pokhapokha mwachilungamo. (وَلَا تَقْتُلُوا النَّفْسَ الَّتِي حَرَّمَ اللَّهُ إِلَّا بِالْحَقِّ) 6:151; 17:33; 25:68
+- Akamalamula chinthu, amangochinena kuti: Khala. (إِذَا قَضَى أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُن) 3:47; 19:35; 40:68
+- Lowani m'zipata za Jahannam, mukhale mmenemo mpaka muyaya; ndipo ndi malo oipa a anthu onyada! (فَادْخُلُوا أَبْوَابَ جَهَنَّمَ خَالِدِينَ فِيهَا فَلَبِئْسَ مَثْوَى الْمُتَكَبِّرِينَ) 16:29; 39:72; 40:76
+- Kodi sukuona amene apatsidwa gawo la Buku? (أَلَمْ تَرَ إِلَى الَّذِينَ أُوتُوا نَصِيبًا مِّنَ الْكِتَابِ) 3:23; 4:44; 4:51
+- Iwo adzakhala ndi minda yamaluwa yomwe mitsinje ikuyenda pansi pake, adzakhala mmenemo mpaka muyaya. (لَهُمْ جَنَّاتٌ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 3:198; 5:119; 9:89
+- Anthu anga, chitani monga momwe mungathere, inenso ndichita; ndipo mudzadziwa. (يَاقَوْمِ اعْمَلُوا عَلَى مَكَانَتِكُمْ إِنِّي عَامِلٌ فَسَوْفَ تَعْلَمُونَ) 6:135; 11:93; 39:39
+- Aliyense amene akutsutsa Allah ndi Mtumiki wake, iye adzakhala ndi moto wa Jahannam, adzakhala mmenemo mpaka muyaya. (اللَّهَ وَرَسُولَهُ فَأَنَّ لَهُ نَارَ جَهَنَّمَ خَالِدًا فِيهَا) 9:63; 72:23
+- Taika zophimba pa mitima yawo kuti asazimvetse, ndi kulemera m'makutu mwawo. (عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا) 17:46; 18:57
+- Palibe mudzi umene tidatumizapo wochenjeza koma anthu ake olemera anati: Ife. (فِي قَرْيَةٍ مِّن نَّذِيرٍ إِلَّا قَالَ مُتْرَفُوهَا إِنَّا) 34:34; 43:23
+- Iwo anati: Tipemphere kwa Mbuye wako kuti atilongosolere ife za mmene ilili. (قَالُوا ادْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِيَ) 2:68; 2:70
+- Iwo adzati: Allah. Nena: Kutamanda konse kwa Allah, koma ambiri a iwo. (لَيَقُولُنَّ اللَّهُ قُلِ الْحَمْدُ لِلَّهِ بَلْ أَكْثَرُهُمْ لَا) 29:63; 31:25
+- Ndipo yankho la anthu ake silinakhale lina koma kuti: Atulutseni iwo. (وَمَا كَانَ جَوَابَ قَوْمِهِ إِلَّا أَن قَالُوا أَخْرِجُوهُم) 7:82; 27:56
+- Mitsinje ikuyenda pansi pake, adzakhala mmenemo mpaka muyaya; kumeneko ndiko kupambana kwakukulu. (تَحْتَهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا ذَلِكَ الْفَوْزُ الْعَظِيمُ) 9:100; 64:9
+- Iwo ali pa njira yowongoka kuchokera kwa Mbuye wawo, ndipo iwo ndi opambana. (أُولَئِكَ عَلَى هُدًى مِّن رَّبِّهِمْ وَأُولَئِكَ هُمُ الْمُفْلِحُونَ) 2:5; 31:5
+- Aliyense amene chidzamufikire chilango chochititsa manyazi ndipo chidzamufikire chilango chosatha. (مَن يَأْتِيهِ عَذَابٌ يُخْزِيهِ وَيَحِلُّ عَلَيْهِ عَذَابٌ مُّقِيمٌ) 11:39; 39:40
+- Yendani m'dziko lapansi ndipo muone mmene mathero a okana (choonadi) analili. (فَسِيرُوا فِي الْأَرْضِ فَانظُرُوا كَيْفَ كَانَ عَاقِبَةُ الْمُكَذِّبِينَ) 3:137; 16:36
+- Iwo sadzalakalaka imeneyo mpaka muyaya chifukwa cha zimene manja awo adatsogoza, ndipo Allah amadziwa opondereza. (يَتَمَنَّوْهُ أَبَدًا بِمَا قَدَّمَتْ أَيْدِيهِمْ وَاللَّهُ عَلِيمٌ بِالظَّالِمِينَ) 2:95; 62:7
+- Iye ndiye amene amadziwa bwino amene wasochera m'njira Yake, ndipo Iye ndiye amene amadziwa bwino. (هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ) 53:30; 68:7
+- Ndithudi Allah ndi Mbuye wanga ndi Mbuye wanu, choncho mpembedzeni Iye; umenewu ndi njira yowongoka. (إِنَّ اللَّهَ رَبِّي وَرَبُّكُمْ فَاعْبُدُوهُ هَذَا صِرَاطٌ مُّسْتَقِيمٌ) 3:51; 19:36
+- Iye ndi wachifundo pa anthu, koma ambiri a iwo sakhala othokoza. (لَذُو فَضْلٍ عَلَى النَّاسِ وَلَكِنَّ أَكْثَرَهُمْ لَا يَشْكُرُونَ) 10:60; 27:73
+- Mlengalenga ndi dziko lapansi ndi zomwe zili pakati pake, koma mwachoonadi ndi nthawi yokhazikika. (السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا إِلَّا بِالْحَقِّ وَأَجَلٍ مُّسَمًّى) 30:8; 46:3
+- Asiye iwo akamangokangana ndi kusewera mpaka akakumana ndi Tsiku lawo limene akulonjezedwa. (فَذَرْهُمْ يَخُوضُوا وَيَلْعَبُوا حَتَّى يُلَاقُوا يَوْمَهُمُ الَّذِي يُوعَدُونَ) 43:83; 70:42
+- Ndipo akakumana ndi amene akhulupirira, amati: Takukhulupirirani, koma akakhala paokha. (وَإِذَا لَقُوا الَّذِينَ آمَنُوا قَالُوا آمَنَّا وَإِذَا خَلَوْا) 2:14; 2:76
+- Iwo amakhazikitsa Taurat ndi Injil ndi zomwe zavumbulutsidwa kwa iwo kuchokera kwa Mbuye wawo. (أَقَامُوا التَّوْرَاةَ وَالْإِنجِيلَ وَمَا أُنزِلَ إِلَيْهِم مِّن رَّبِّهِمْ) 5:66; 5:68
+- Iye amadziwa zomwe zili pamaso pawo ndi zomwe zili kumbuyo kwawo, ndipo iwo sangathe kuzidziwa zonse. (يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ) 2:255; 20:110
+- Ndipo Iye ndiye amene adalenga mlengalenga ndi dziko lapansi m'masiku asanu ndi limodzi. (وَهُوَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ) 11:7; 57:4
+- Ndithudi m'zimenezo muli chizindikiro kwa inu, ngati muli okhulupirira. (إِنَّ فِي ذَلِكَ لَآيَةً لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ) 2:248; 3:49
+- Kodi chinaletsa chiyani anthu kuti asakhulupirire pamene chitsogozo chawafikira? (وَمَا مَنَعَ النَّاسَ أَن يُؤْمِنُوا إِذْ جَاءَهُمُ الْهُدَى) 17:94; 18:55
+- Iwo adapanga anzake a Allah kuti asocheretse anthu m'njira Yake. Nena: Sangalalani. (وَجَعَلُوا لِلَّهِ أَندَادًا لِّيُضِلُّوا عَن سَبِيلِهِ قُلْ تَمَتَّعُوا) 14:30; 39:8
+- Ndipo adadabwa kuti wochenjeza adawafikira kuchokera pakati pawo, ndipo osakhulupirira adati: Uyu. (وَعَجِبُوا أَن جَاءَهُم مُّنذِرٌ مِّنْهُمْ وَقَالَ الْكَافِرُونَ هَذَا) 38:4; 50:2
+- Ndithudi Mbuye wako ndiye amene amadziwa bwino amene wasochera m'njira Yake. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ) 53:30; 68:7
+- Mofanana ndi amene amawononga chuma chake kuti awonekere kwa anthu, ndipo sakhulupirira Allah. (كَالَّذِي يُنفِقُ مَالَهُ رِئَاءَ النَّاسِ وَلَا يُؤْمِنُ بِاللَّهِ) 2:264; 4:38
+- Perekani zina mwa zomwe takupatsani, lisanadze. (أَنفِقُوا مِمَّا رَزَقْنَاكُم مِّن قَبْلِ أَن يَأْتِيَ) 2:254; 63:10
+- Iye wakugonjetserani zomwe zili m'mwamba ndi zomwe zili m'dziko lapansi. (سَخَّرَ لَكُم مَّا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 31:20; 45:13
+- Ndipo ife, ndithudi, tili mu kukaikira zimene mukutiitanira. (وَإِنَّنَا لَفِي شَكٍّ مِّمَّا تَدْعُونَا إِلَيْهِ مُرِيبٍ) 11:62; 14:9
+- Ndithudi Mbuye wako amakulitsa rizq kwa amene wamfuna ndipo amamufinyitsa. Ndithudi Iye. (إِنَّ رَبَّكَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ وَيَقْدِرُ إِنَّهُ) 17:30; 34:36
+- Mbuye wa mlengalenga ndi dziko lapansi ndi zomwe zili pakati pake, ngati inu ndinu okhazikika pa chikhulupiriro. (رَبُّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا إِن كُنتُم مُّوقِنِينَ) 26:24; 44:7
+- Takukhulupirira Allah ndi zimene zavumbulutsidwa kwa ife ndi zimene zavumbulutsidwa kwa. (آمَنَّا بِاللَّهِ وَمَا أُنزِلَ إِلَيْنَا وَمَا أُنزِلَ إِلَى) 2:136; 3:199
+- Ndipo amene adachita zopanda chilungamo, mkokomo udawagwera, ndipo m'mawa adapezeka agwada m'nyumba zawo. (وَأَخَذَ الَّذِينَ ظَلَمُوا الصَّيْحَةُ فَأَصْبَحُوا فِي دِيَارِهِمْ جَاثِمِينَ) 11:67; 11:94
+- Palibe mlandu pa inu pa zimene iwo achita pokhudza iwo eni. (فَلَا جُنَاحَ عَلَيْكُمْ فِيمَا فَعَلْنَ فِي أَنفُسِهِنَّ) 2:234; 2:240
+- Mbuye wako ndiye amene amadziwa bwino amene wasochera m'njira Yake, ndipo Iye. (رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ) 53:30; 68:7
+- Ndi Mzimu (chivumbulutso) mwa lamulo Lake, kwa amene wamfuna mwa akapolo Ake. (بِالرُّوحِ مِنْ أَمْرِهِ عَلَى مَن يَشَاءُ مِنْ عِبَادِهِ) 16:2; 40:15
+- Ndipo tidampatsa Yesu mwana wa Mariya zizindikiro zowonekera ndipo tidamulimbikitsa ndi Mzimu Woyera. (وَآتَيْنَا عِيسَى ابْنَ مَرْيَمَ الْبَيِّنَاتِ وَأَيَّدْنَاهُ بِرُوحِ الْقُدُسِ) 2:87; 2:253
+- Kuti aweruze pakati pawo pa Tsiku la Chimaliziro pa zimene amatsutsana. (لَيَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ) 16:124; 22:69
+- Tinasandutsa pamwamba pake pansi, ndipo tidagwetsa mvula ya miyala yadongo pa iwo. (جَعَلْنَا عَالِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةً مِّن سِجِّيلٍ) 11:82; 15:74
+- Ndi chimodzimodzi kwa iwo, ngati uwachenjeza kapena usawachenjeze, iwo sakhulupirira. (سَوَاءٌ عَلَيْهِمْ أَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ) 2:6; 36:10
+- Kupatula anthu, choncho lakalakani imfa ngati inu ndinu owona. (مِّن دُونِ النَّاسِ فَتَمَنَّوُا الْمَوْتَ إِن كُنتُمْ صَادِقِينَ) 2:94; 62:6
+- Allah, mulibe mulungu wina koma Iye. Kodi simungamuope? (اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 23:23; 23:32
+- Ngati tikukuwonetsa zina mwa zomwe tikuwalonjeza, kapena ngati tikukufa iwe, kwa Ife ndiko kubwerera kwawo. (وَإِمَّا نُرِيَنَّكَ بَعْضَ الَّذِي نَعِدُهُمْ أَوْ نَتَوَفَّيَنَّكَ فَإِلَيْنَا) 10:46; 40:77
+- Iwo anati: Kodi pamene tafa ndi kukhala fumbi ndi mafupa, ife tidzaukitsidwanso? (قَالُوا أَإِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَامًا أَإِنَّا لَمَبْعُوثُونَ) 23:82; 56:47
+- Chifundo chili m'manja mwa Allah, Iye amapereka kwa amene wamfuna, ndipo Allah. (إِنَّ الْفَضْلَ بِيَدِ اللَّهِ يُؤْتِيهِ مَن يَشَاءُ وَاللَّهُ) 3:73; 57:29
+- Kubwerera kwa inu nkwa Wodziwa zobisika ndi zoonekera, ndipo Iye adzakudziwitsani zimene munali kuchita. (إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ) 9:105; 62:8
+- O inu amene mwakhulupirira, kumbukirani chifundo cha Allah pa inu, pamene. (يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا نِعْمَتَ اللَّهِ عَلَيْكُمْ إِذْ) 5:11; 33:9
+- Ndipo sitinatumize iwe usanabwere, koma amuna amene tinkavumbulutsira. (وَمَا أَرْسَلْنَا مِن قَبْلِكَ إِلَّا رِجَالًا نُّوحِي إِلَيْهِم) 12:109; 16:43
+- Iye adzamukhululukira machimo ake ndi kumulowetsa m'minda yamaluwa yomwe mitsinje ikuyenda pansi pake. (يُكَفِّرْ عَنْهُ سَيِّئَاتِهِ وَيُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا) 64:9; 66:8
+- Ngati ali wodwala kapena paulendo, ndiye chiwerengero cha masiku ena. (مَّرِيضًا أَوْ عَلَى سَفَرٍ فَعِدَّةٌ مِّنْ أَيَّامٍ أُخَرَ) 2:184; 2:185
+- Iwo samatsatira koma kungoganiza, ndipo iwo samachita koma kungoyerekeza. (إِن يَتَّبِعُونَ إِلَّا الظَّنَّ وَإِنْ هُمْ إِلَّا يَخْرُصُونَ) 6:116; 10:66
+- Chitsanzo chabwino kwa aliyense amene akuyembekezera Allah ndi Tsiku lomaliza. (أُسْوَةٌ حَسَنَةٌ لِّمَن كَانَ يَرْجُو اللَّهَ وَالْيَوْمَ الْآخِرَ) 33:21; 60:6
+- Ndipo sitinalenge mlengalenga ndi dziko lapansi ndi zomwe zili pakati pake, koma mwachoonadi. (وَمَا خَلَقْنَا السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا إِلَّا بِالْحَقِّ) 15:85; 46:3
+- Ika dzanja lako m'thumba mwako, lituluke loyera popanda matenda. (يَدَكَ فِي جَيْبِكَ تَخْرُجْ بَيْضَاءَ مِنْ غَيْرِ سُوءٍ) 27:12; 28:32
+- Iye amasankha amene wamfuna ndi chifundo Chake, ndipo Allah ndi mwini chifundo chachikulu. (يَخْتَصُّ بِرَحْمَتِهِ مَن يَشَاءُ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ) 2:105; 3:74
+- Kodi sukudziwa kuti Allah ndiye Mwini ufumu wa mlengalenga ndi dziko lapansi? (أَلَمْ تَعْلَمْ أَنَّ اللَّهَ لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ) 2:107; 5:40
+- Ndipo chilichonse chabwino chimene mwatsogoza kwa inu eni, mudzachipeza kwa Allah. (وَمَا تُقَدِّمُوا لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ اللَّهِ) 2:110; 73:20
+- Ndipo kulikonse kumene watuluka, tembenuzira nkhope yako ku Mzikiti Woyera. (وَمِنْ حَيْثُ خَرَجْتَ فَوَلِّ وَجْهَكَ شَطْرَ الْمَسْجِدِ الْحَرَامِ) 2:149; 2:150
+- Iwo amene adalipo patsogolo panu, ndipo sudzapeza kusintha mu dongosolo la Allah. (خَلَوْا مِن قَبْلُ وَلَن تَجِدَ لِسُنَّةِ اللَّهِ تَبْدِيلًا) 33:62; 48:23
+- Iye amene ali ndi zonse zomwe zili m'mwamba ndi m'dziko lapansi. (الَّذِي لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 34:1; 42:53
+- Ndipo mkazi aliyense satenga pakati kapena kubereka, koma mwa chidziwitso Chake. (وَمَا تَحْمِلُ مِنْ أُنثَى وَلَا تَضَعُ إِلَّا بِعِلْمِهِ) 35:11; 41:47
+- Usiku, ndipo adagonjetsa dzuwa ndi mwezi; chilichonse chikuyenda mpaka nthawi yokhazikika. (اللَّيْلِ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ كُلٌّ يَجْرِي لِأَجَلٍ مُّسَمًّى) 35:13; 39:5
+- Mitsinje ikuyenda pansi pake, adzakhala mmenemo mpaka muyaya, ndipo zimenezo ndi mphotho. (تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَذَلِكَ جَزَاءُ) 5:85; 20:76
+- Iye anati: Iyayi, koma mizimu yanu yakukongoletserani chinthu; koma kupirira kwabwino. (قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْرًا فَصَبْرٌ جَمِيلٌ) 12:18; 12:83
+- Zomwe zili m'mwamba ndi m'dziko lapansi, ndipo kuti Allah. (مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَأَنَّ اللَّهَ) 5:97; 22:64
+- Ndipo palibe mtumiki amene amawadzera koma iwo amamunyoza. (وَمَا يَأْتِيهِم مِّن رَّسُولٍ إِلَّا كَانُوا بِهِ يَسْتَهْزِئُونَ) 15:11; 36:30
+- Iwo anati: Eya Mose, kodi iwe udzaponya kapena ife tidzaponya? (قَالُوا يَامُوسَى إِمَّا أَن تُلْقِيَ وَإِمَّا أَن نَّكُونَ) 7:115; 20:65
+- Iye ndiye amene amakufasani, ndipo pakati panu pali amene amabwezeredwa ku moyo wapansi, kuti. (يَتَوَفَّاكُمْ وَمِنكُم مَّن يُرَدُّ إِلَى أَرْذَلِ الْعُمُرِ لِكَيْ) 16:70; 22:5
+- Iwo adzakhala ndi minda yamaluwa kuchokera kwa Mbuye wawo yomwe mitsinje ikuyenda pansi pake, adzakhala mmenemo mpaka muyaya. (رَبِّهِمْ جَنَّاتٌ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 3:15; 3:136
+- Ndipo taika zophimba pa mitima yawo kuti asazimvetse, ndi kulemera m'makutu mwawo. (وَجَعَلْنَا عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ) 17:46; 18:57
+- Ndithudi lonjezo la Allah ndi loona, koma ambiri a iwo sadziwa. (إِنَّ وَعْدَ اللَّهِ حَقٌّ وَلَكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ) 10:55; 28:13
+- Izi ndi chifukwa chakuti iwo adatsutsa Allah ndi Mtumiki Wake; ndipo aliyense amene atsutsa Allah. (ذَلِكَ بِأَنَّهُمْ شَاقُّوا اللَّهَ وَرَسُولَهُ وَمَن يُشَاقِقِ اللَّهَ) 8:13; 59:4
+- Ndipo pa Tsiku limene Iye adzawaitana ndipo adzati: Zili kuti anzanga amene munkadziti? (وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ أَيْنَ شُرَكَائِيَ الَّذِينَ كُنتُمْ تَزْعُمُونَ) 28:62; 28:74
+- Kodi iwo saona kuti Allah, amene adalenga mlengalenga ndi dziko lapansi, ali ndi mphamvu yolenga zofanana? (أَوَلَمْ يَرَوْا أَنَّ اللَّهَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ) 17:99; 46:33
+- Amene adakulengani iwe kuchokera ku fumbi, kenako kuchokera ku dontho la umuna, kenako. (بِالَّذِي خَلَقَكَ مِن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ) 18:37; 40:67
+- Iwo akanati: Mbuye wathu, bwanji sunatitumizire mtumiki kuti titsatire mavesi anu? (لَقَالُوا رَبَّنَا لَوْلَا أَرْسَلْتَ إِلَيْنَا رَسُولًا فَنَتَّبِعَ آيَاتِكَ) 20:134; 28:47
+- Kenako kubwerera kwawo nkwa Mbuye wawo, ndipo Iye adzawauza zimene anali kuchita. (ثُمَّ إِلَى رَبِّهِم مَّرْجِعُهُمْ فَيُنَبِّئُهُم بِمَا كَانُوا يَعْمَلُونَ) 6:108; 39:7
+- Iwo alibe chidziwitso pa zimenezo, iwo samangotsatira zongoganiza. (مَّا لَهُم بِذَلِكَ مِنْ عِلْمٍ إِنْ هُمْ إِلَّا) 43:20; 45:24
+- Ife tinapeza makolo athu pa chipembedzo chimenechi, ndipo ife titsatira mapazi awo. (إِنَّا وَجَدْنَا آبَاءَنَا عَلَى أُمَّةٍ وَإِنَّا عَلَى آثَارِهِم) 43:22; 43:23
+- Iwo amene apatsidwa Buku, sanasembane koma pambuyo poti chidziwitso chawafikira. (الَّذِينَ أُوتُوا الْكِتَابَ إِلَّا مِن بَعْدِ مَا جَاءَهُمُ) 3:19; 98:4
+- Ndipo pamene Ibrahim anati: Mbuye wanga, upangeni mudzi uno kukhala wamtendere. (وَإِذْ قَالَ إِبْرَاهِيمُ رَبِّ اجْعَلْ هَذَا بَلَدًا آمِنًا) 2:126; 14:35
+- Iye wakupatsani makutu, maso, ndi mitima; ndiye kuti inu simuthokoza. (وَجَعَلَ لَكُمُ السَّمْعَ وَالْأَبْصَارَ وَالْأَفْئِدَةَ قَلِيلًا مَّا تَشْكُرُونَ) 32:9; 67:23
+- Iwo amene amatsutsana za mavesi a Allah popanda ulamuliro umene wawafikira. (الَّذِينَ يُجَادِلُونَ فِي آيَاتِ اللَّهِ بِغَيْرِ سُلْطَانٍ أَتَاهُمْ) 40:35; 40:56
+- Choncho tsatirani chipembedzo cha Ibrahim chowongoka, ndipo iye sanali m'gulu la opembedza mafano. (فَاتَّبِعُوا مِلَّةَ إِبْرَاهِيمَ حَنِيفًا وَمَا كَانَ مِنَ الْمُشْرِكِينَ) 3:95; 16:123
+- Ndipo pamene tidakupulumutsani inu kuchokera kwa anthu a Farawo, amene amakuzunzani ndi chilango choipa. (وَإِذْ أَنجَيْنَاكُم مِّنْ آلِ فِرْعَوْنَ يَسُومُونَكُمْ سُوءَ الْعَذَابِ) 7:141; 14:6
+- Umenewo ndi chipembedzo chowongoka, koma anthu ambiri sadziwa. (ذَلِكَ الدِّينُ الْقَيِّمُ وَلَكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ) 12:40; 30:30
+- Kodi sukuona kuti Allah wakugonjetserani zomwe zili m'. (أَلَمْ تَرَ أَنَّ اللَّهَ سَخَّرَ لَكُم مَّا فِي) 22:65; 31:20
+- Iwo amene sanakhulupirire akanati: Izi si zina koma matsenga owonekera. (لَقَالَ الَّذِينَ كَفَرُوا إِنْ هَذَا إِلَّا سِحْرٌ مُّبِينٌ) 6:7; 11:7
+- Ndipo pamene mavesi Athu omveka akuwerengedwa kwa iwo, osakhulupirira amati. (وَإِذَا تُتْلَى عَلَيْهِمْ آيَاتُنَا بَيِّنَاتٍ قَالَ الَّذِينَ كَفَرُوا) 19:73; 46:7
+- Minda ya Edeni yomwe mitsinje ikuyenda pansi pake, adzakhala mmenemo mpaka muyaya. (جَنَّاتُ عَدْنٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 20:76; 98:8
+- Iye amachita zimene wafuna; ndithudi Allah ndi wamphamvu pa chinthu chilichonse. (مَا يَشَاءُ إِنَّ اللَّهَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ) 24:45; 35:1
+- Kuti akukhululukireni machimo anu ndi kukulengedzerani mpaka nthawi yokhazikika. (لِيَغْفِرَ لَكُم مِّن ذُنُوبِكُمْ وَيُؤَخِّرَكُمْ إِلَى أَجَلٍ مُّسَمًّى) 14:10; 71:4
+- Kodi mukufuna kutiletsa ife pazimene makolo athu anali kupembedza? (تُرِيدُونَ أَن تَصُدُّونَا عَمَّا كَانَ يَعْبُدُ آبَاؤُنَا) 14:10; 34:43
+- Ndipo pamene Mbuye wako anauza angelo kuti: Ine ndidzalenga munthu kuchokera ku. (وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي خَالِقٌ بَشَرًا مِّن) 15:28; 38:71
+- Iye ndiye amene amatumiza mphepo ngati uthenga wabwino pamaso pa chifundo Chake. (وَهُوَ الَّذِي يُرْسِلُ الرِّيَاحَ بُشْرًا بَيْنَ يَدَيْ رَحْمَتِهِ) 7:57; 25:48
+- Nena: Yendani m'dziko lapansi ndipo muone mmene mathero analili. (قُلْ سِيرُوا فِي الْأَرْضِ فَانظُرُوا كَيْفَ كَانَ عَاقِبَةُ) 27:69; 30:42
+- Mu kulenga mlengalenga ndi dziko lapansi, ndi kusinthana kwa usiku ndi usana (muli zizindikiro). (إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ) 2:164; 3:190
+- Ndani amene angabwereke Allah ngongole yabwino kuti Iye amuchulukitse? (مَّن ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا فَيُضَاعِفَهُ) 2:245; 57:11
+- Choncho weruza pakati pawo ndi zimene Allah wavumbulutsa, ndipo usatsatire zilakolako zawo. (فَاحْكُم بَيْنَهُم بِمَا أَنزَلَ اللَّهُ وَلَا تَتَّبِعْ أَهْوَاءَهُمْ) 5:48; 5:49
+- Kodi iwo akuyembekeza china koma kuwafikira angelo kapena kufikira lamulo la Mbuye wako? (هَلْ يَنظُرُونَ إِلَّا أَن تَأْتِيَهُمُ الْمَلَائِكَةُ أَوْ يَأْتِيَ) 6:158; 16:33
+- Ndithudi iwo amene ampekera Allah bodza, sadzapambana. (إِنَّ الَّذِينَ يَفْتَرُونَ عَلَى اللَّهِ الْكَذِبَ لَا يُفْلِحُونَ) 10:69; 16:116
+- Mofanana ndi machitidwe a anthu a Farawo ndi amene adalipo patsogolo pawo, iwo adakana zizindikiro Zathu. (كَدَأْبِ آلِ فِرْعَوْنَ وَالَّذِينَ مِن قَبْلِهِمْ كَذَّبُوا بِآيَاتِنَا) 3:11; 8:54
+- Ndipo amalengeza uthenga wabwino kwa okhulupirira amene amachita zabwino, kuti iwo adzakhala ndi mphotho. (وَيُبَشِّرُ الْمُؤْمِنِينَ الَّذِينَ يَعْمَلُونَ الصَّالِحَاتِ أَنَّ لَهُمْ أَجْرًا) 17:9; 18:2
+- Allah amakulitsa rizq kwa amene wamfuna mwa akapolo Ake ndipo amamufinyitsa. (اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ) 28:82; 29:62
+- Ndipo inu mudzabwezedwa kwa Wodziwa zobisika ndi zoonekera, ndipo Iye adzakudziwitsani zimene munali kuchita. (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
+- Ndipo abale a magazi, ena a iwo ali ndi ufulu woposa ena pa ena m'buku la Allah. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
 """;

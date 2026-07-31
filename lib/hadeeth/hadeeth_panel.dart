@@ -122,9 +122,6 @@ class _HadeethPanelState extends State<HadeethPanel> {
   };
 
   List<TextSpan> _colorParensAndAllah(String text, TextStyle baseStyle) {
-    final cyanStyle = baseStyle.copyWith(color: Colors.cyanAccent);
-    final purpleStyle = baseStyle.copyWith(color: const Color(0xFFCB93F5));
-
     final words = (_allahWords[_language] ?? _allahWords['English']!).toList()
       ..sort((a, b) {
         final c = b.length.compareTo(a.length);
@@ -142,7 +139,31 @@ class _HadeethPanelState extends State<HadeethPanel> {
       }
     }
     final allahPattern = patterns.join('|');
-    final combined = RegExp('(?:$allahPattern)|(\\([^)]*\\))');
+
+    return _styleRunWithAllahPattern(text, baseStyle, allahPattern);
+  }
+
+  List<TextSpan> _styleRunWithAllahPattern(
+      String text, TextStyle baseStyle, String allahPattern,
+      {int parenDepth = 0}) {
+    final cyanStyle = baseStyle.copyWith(color: Colors.cyanAccent);
+    final greenStyle = baseStyle.copyWith(color: Colors.greenAccent);
+    final purpleStyle = baseStyle.copyWith(color: const Color(0xFFCB93F5));
+    final amberStyle = baseStyle.copyWith(color: Colors.amber);
+    final quoteStyle = baseStyle.copyWith(color: const Color(0xFFFFB6C1));
+
+    final parenColor = parenDepth.isEven ? cyanStyle : greenStyle;
+
+    final quotePattern = r'"(?:[^"\\]|\\.)*"' r'|\u201c(?:[^\u201d])*\u201d';
+    // supports one level of nested parens: (...(...)...)
+    const parenPattern = r'\((?:[^()]|\([^()]*\))*\)';
+
+    final combined = RegExp(
+      '($quotePattern)' // group 1: quotes
+      '|($parenPattern)' // group 2: parens (with 1 level of nesting)
+      '|(\\[[^\\]]*\\])' // group 3: brackets
+      '|(?:$allahPattern)', // Allah words (unnamed)
+    );
 
     final result = <TextSpan>[];
     int cursor = 0;
@@ -151,10 +172,27 @@ class _HadeethPanelState extends State<HadeethPanel> {
         result.add(TextSpan(text: text.substring(cursor, m.start), style: baseStyle));
       }
       final matched = m.group(0)!;
-      result.add(TextSpan(
-        text: matched,
-        style: m.group(1) != null ? cyanStyle : purpleStyle,
-      ));
+      if (m.group(1) != null) {
+        final inner = matched.substring(1, matched.length - 1);
+        result.add(TextSpan(text: matched[0], style: quoteStyle));
+        result.addAll(_styleRunWithAllahPattern(
+            inner, quoteStyle, allahPattern, parenDepth: parenDepth));
+        result.add(TextSpan(text: matched[matched.length - 1], style: quoteStyle));
+      } else if (m.group(2) != null) {
+        final inner = matched.substring(1, matched.length - 1);
+        result.add(TextSpan(text: '(', style: parenColor));
+        result.addAll(_styleRunWithAllahPattern(
+            inner, parenColor, allahPattern, parenDepth: parenDepth + 1));
+        result.add(TextSpan(text: ')', style: parenColor));
+      } else if (m.group(3) != null) {
+        final inner = matched.substring(1, matched.length - 1);
+        result.add(TextSpan(text: '[', style: amberStyle));
+        result.addAll(_styleRunWithAllahPattern(
+            inner, amberStyle, allahPattern, parenDepth: parenDepth));
+        result.add(TextSpan(text: ']', style: amberStyle));
+      } else {
+        result.add(TextSpan(text: matched, style: purpleStyle));
+      }
       cursor = m.end;
     }
     if (cursor < text.length) {

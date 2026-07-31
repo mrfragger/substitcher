@@ -3122,4 +3122,158 @@ Matching Phrases 9 words
 - Ɓe mari ndiyan lisde e kisiyee mawɗo, e ko ɓe kefiri. (لَهُمْ شَرَابٌ مِّنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْفُرُونَ) 6:70; 10:4
 - Ko men nodda, so wonaa Alla, ko nafataa men, ko bonnataa men? (أَنَدْعُو مِن دُونِ اللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا) 6:71; 10:106
 - Alla anndi ko woni ka kammuuli e ka leydi. (أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 5:97; 58:7
+Matching Phrases 8 words
+- Ko hombo ɓuri bonooŋgol e ɗun e on moɓooni Allah fenaande? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا) 6:21; 6:93; 6:144; 7:37; 10:17; 11:18; 18:15; 29:68; 61:7
+- Hono haqiiqa, e ɗum ɗoon aaya woodi, kono ɓurɓe heewde e maɓɓe tawraa ko gomɗimɓe. (إِنَّ فِي ذَلِكَ لَآيَةً وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ) 26:8; 26:67; 26:103; 26:121; 26:139; 26:158; 26:174; 26:190
+- Ɓe laawoo e leydi ndin, ɓe ndaara no sagata ɓennuɓe ɓen woniri. (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ) 12:109; 30:9; 30:42; 35:44; 40:21; 40:82; 47:10
+- O wi'i: Yaa yimɓe am, peree Alla, on alaa gomɗal goɗɗal so wonaa Kanko. (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ) 7:65; 7:73; 7:85; 11:50; 11:61; 11:84; 23:23
+- O naatina mo e Aljannaaji ɗi maayooji ɗooyata les maɓɓe, ɓe ngonaa pamaro'en e ɗum. (يُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 4:13; 4:57; 4:122; 58:22; 64:9; 65:11
+- Hakkunde maɓɓe, ɲalaande darngal, ko o ñaaway e ko ɓe ceertunoo. (بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 2:113; 10:93; 16:124; 22:69; 32:25; 45:17
+- Eɓe njaalaa e leydi ndin, ɓe ndaara no sagata ɓen woniri? (أَوَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ) 30:9; 35:44; 40:21; 40:82; 47:10
+- Aljannaaji ɗi maayooji ɗooyata les maɓɓe, ɓe ngonaa pamaro'en e ɗum. (جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا) 4:57; 4:122; 5:119; 64:9; 65:11
+- A naatina jemma e ɲalaande, a naatina ɲalaande e jemma. (تُولِجُ اللَّيْلَ فِي النَّهَارِ وَتُولِجُ النَّهَارَ فِي اللَّيْلِ) 3:27; 22:61; 31:29; 35:13; 57:6
+- Ko woni kala e kammuuli ɗin e leydi ndin, no laɓɓinana Alla. (سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 59:1; 61:1; 62:1; 64:1
+- Peree Alla, on alaa gomɗal goɗɗal so wonaa Kanko. Eɗon hulaa? (اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا) 7:65; 11:84; 23:23; 23:32
+- Nde Min wi'unoo Malaa'ika: Sujooɗon Aadama, ɓe sujaa, siwano Iblis. (وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا إِبْلِيسَ) 2:34; 17:61; 18:50; 20:116
+- Alla anndi ko woni kala e kammuuli ɗin e leydi ndin. (اللَّهُ وَيَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 3:29; 5:97; 49:16; 58:7
+- Aljannaaji ɗi maayooji ɗooyata les maɓɓe, ɓe ngonaa pamaro'en e ɗum, e ɗum. (جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَذَلِكَ) 4:13; 5:85; 9:89; 57:12
+- Njoddi makko ko e Joomi makko, e hulal woodaa e maɓɓe, e ɓe. (أَجْرُهُ عِندَ رَبِّهِ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ) 2:112; 2:262; 2:274; 2:277
+- E Joomi makko, e hulal woodaa e maɓɓe, e ɓe nganjaa. (عِندَ رَبِّهِ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ) 2:112; 2:262; 2:274; 2:277
+- On mo ardi, ardi ngam hoore makko, on mo majji. (فَمَنِ اهْتَدَى فَإِنَّمَا يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ) 10:108; 17:15; 27:92
+- Ardi ngam hoore makko, on mo majji, majjii ngam hoore makko. (يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا) 10:108; 17:15; 39:41
+- Ko waɗi nde aaya jippinaaka makko iwrunde e Joomi makko? Wiye: Hono haqiiqa. (لَوْلَا أُنزِلَ عَلَيْهِ آيَةٌ مِّن رَّبِّهِ فَقُلْ إِنَّمَا) 10:20; 13:27; 29:50
+- Ɓen gomɗimɓe ɓen e ɓen waɗuɓe golle moƴƴe, ɓe ndaɗi njoddi ngaynaande. (الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ) 41:8; 84:25; 95:6
+- A yaltina wuurɗo e mayɗo, a yaltina mayɗo e wuurɗo. (وَتُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ وَتُخْرِجُ الْمَيِّتَ مِنَ الْحَيِّ) 3:27; 10:31; 30:19
+- On mo o ñaawaaki e ko Alla jippini, ɓen ɗon ko. (وَمَن لَّمْ يَحْكُم بِمَا أَنزَلَ اللَّهُ فَأُولَئِكَ هُمُ) 5:44; 5:45; 5:47
+- O tigi kammuuli ɗin e leydi ndin e ko woni hakkunde majji, e balɗe joweego. (خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا فِي سِتَّةِ أَيَّامٍ) 25:59; 32:4; 50:38
+- Hono haqiiqa, Alla ko Jom ngalu e yimɓe, kono ɓurɓe heewde. (إِنَّ اللَّهَ لَذُو فَضْلٍ عَلَى النَّاسِ وَلَكِنَّ أَكْثَرَ) 2:243; 10:60; 40:61
+- Alla wonaano bonooɗo e maɓɓe, kono ɓe ngoni ko bonooɓe hoore maɓɓe. (فَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ وَلَكِن كَانُوا أَنفُسَهُمْ يَظْلِمُونَ) 9:70; 29:40; 30:9
+- O yattana on junuubaaji mon, o naatina on e Aljannaaji ɗi maayooji ɗooyata les maɓɓe. (عَنكُمْ سَيِّئَاتِكُمْ وَلَأُدْخِلَنَّكُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 5:12; 64:9; 66:8
+- O haraama on mbaygu, ƴiiƴam, ɓiire ngiiɓa, e ko sobbaama ngam goɗɗo so wonaa Alla. (حَرَّمَ عَلَيْكُمُ الْمَيْتَةَ وَالدَّمَ وَلَحْمَ الْخِنزِيرِ وَمَا أُهِلَّ) 2:173; 5:3; 16:115
+- Hono haqiiqa, mi huli, si mi yani e Joomi am, bi leydi mawndi. (إِنِّي أَخَافُ إِنْ عَصَيْتُ رَبِّي عَذَابَ يَوْمٍ عَظِيمٍ) 6:15; 10:15; 39:13
+- Siwano nde anndal aruno maɓɓe, e nawliigu hakkunde maɓɓe. (إِلَّا مِن بَعْدِ مَا جَاءَهُمُ الْعِلْمُ بَغْيًا بَيْنَهُمْ) 3:19; 42:14; 45:17
+- Ɓe tawata juulde, ɓe okkata ko Min okkiri ɓe, e gundoo e kumpital. (وَأَقَامُوا الصَّلَاةَ وَأَنفَقُوا مِمَّا رَزَقْنَاهُمْ سِرًّا وَعَلَانِيَةً) 13:22; 14:31; 35:29
+- Eɗen nodda so wonaa Alla, ko nelaa en e hulaa en? (مِن دُونِ اللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا) 6:71; 10:106; 25:55
+- Ɓe gomɗini ko jippinaa maaɗa, e ko jippinaa yeeso maaɗa. (يُؤْمِنُونَ بِمَا أُنزِلَ إِلَيْكَ وَمَا أُنزِلَ مِن قَبْلِكَ) 2:4; 4:60; 4:162
+- E a yi'aali Alla no jippina ndiyan iwrunde e kammu? (أَلَمْ تَرَ أَنَّ اللَّهَ أَنزَلَ مِنَ السَّمَاءِ مَاءً) 22:63; 35:27; 39:21
+- Si O waɗi haala, O wi'a: Wonu, ɗum wona. (قَضَى أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُن فَيَكُونُ) 3:47; 19:35; 40:68
+- E Madiyana, (Min nulu) miñɗo maɓɓe Cu'ayb. O wi'i: Yaa yimɓe am, peree Alla. (وَإِلَى مَدْيَنَ أَخَاهُمْ شُعَيْبًا قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ) 7:85; 11:84; 29:36
+- Ɗum ko e kabaaru gaañannde, Min njippinani maa ɗum; a anndaano. (ذَلِكَ مِنْ أَنْبَاءِ الْغَيْبِ نُوحِيهِ إِلَيْكَ وَمَا كُنتَ) 3:44; 11:49; 12:102
+- Si sahaa maɓɓe arii, ɓe njippinaa waktu, ɓe ndaataaka. (فَإِذَا جَاءَ أَجَلُهُمْ لَا يَسْتَأْخِرُونَ سَاعَةً وَلَا يَسْتَقْدِمُونَ) 7:34; 10:49; 16:61
+- E tuppeeɗon cuppe Iblis, ko o gaɗo moƴƴaani on. (وَلَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ إِنَّهُ لَكُمْ عَدُوٌّ مُّبِينٌ) 2:168; 2:208; 6:142
+- E yimɓe ɓen, no woodi on mo yeddota e Alla, e anndal. (وَمِنَ النَّاسِ مَن يُجَادِلُ فِي اللَّهِ بِغَيْرِ عِلْمٍ) 22:3; 22:8; 31:20
+- Alla okkata mo o yiɗi, Alla ko Jom ngalu mawngu. (اللَّهِ يُؤْتِيهِ مَن يَشَاءُ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ) 57:21; 57:29; 62:4
+- Kala wondunde, ndokketee ko waɗi, ɓe bonnaake. (تُوَفَّى كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ) 2:281; 3:25; 3:161
+- E hara waraɗon wondunde nde Alla haraami, siwano e goonga. (وَلَا تَقْتُلُوا النَّفْسَ الَّتِي حَرَّمَ اللَّهُ إِلَّا بِالْحَقِّ) 6:151; 17:33; 25:68
+- Si O waɗi haala, O wi'a: Wonu. (إِذَا قَضَى أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُن) 3:47; 19:35; 40:68
+- Naatee e dame Jahannama, pamare'en e ɗum; ko nokku bonɗo hooreeɓe ɓen! (فَادْخُلُوا أَبْوَابَ جَهَنَّمَ خَالِدِينَ فِيهَا فَلَبِئْسَ مَثْوَى الْمُتَكَبِّرِينَ) 16:29; 39:72; 40:76
+- E a yi'aali ɓen okkaaɓe feccere e Defte? (أَلَمْ تَرَ إِلَى الَّذِينَ أُوتُوا نَصِيبًا مِّنَ الْكِتَابِ) 3:23; 4:44; 4:51
+- Ɓe ndaɗi Aljannaaji ɗi maayooji ɗooyata les maɓɓe, ɓe ngonaa pamaro'en e ɗum. (لَهُمْ جَنَّاتٌ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 3:198; 5:119; 9:89
+- Yaa yimɓe am, waɗee ko nguuri mon, min noon mi waɗa, ko yaawi on andet. (يَاقَوْمِ اعْمَلُوا عَلَى مَكَانَتِكُمْ إِنِّي عَامِلٌ فَسَوْفَ تَعْلَمُونَ) 6:135; 11:93; 39:39
+- Mo yeddidi Alla e Nulaaɗo makko, o woodani yiite Jahannama, o pamara e ɗum. (اللَّهَ وَرَسُولَهُ فَأَنَّ لَهُ نَارَ جَهَنَّمَ خَالِدًا فِيهَا) 9:63; 72:23
+- Min waɗii e ɓerɗe maɓɓe fof, woto ɓe faame ɗum, e noppi maɓɓe tiiɗe. (عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا) 17:46; 18:57
+- Nokku kala nde Min nuli nelaaɗo, mawɓe ɗon wi'i: Enen. (فِي قَرْيَةٍ مِّن نَّذِيرٍ إِلَّا قَالَ مُتْرَفُوهَا إِنَّا) 34:34; 43:23
+- Ɓe wi'i: Toran en Joomi maa, o feɗɗana en ko ɗum woni. (قَالُوا ادْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِيَ) 2:68; 2:70
+- Ɓe mbiya: Alla. Wiye: Yettoore wonannde Alla, kono ɓurɓe heewde maɓɓe. (لَيَقُولُنَّ اللَّهُ قُلِ الْحَمْدُ لِلَّهِ بَلْ أَكْثَرُهُمْ لَا) 29:63; 31:25
+- E jaabawol yimɓe makko wonaano siwano wi'ugol: Naltiree ɓe. (وَمَا كَانَ جَوَابَ قَوْمِهِ إِلَّا أَن قَالُوا أَخْرِجُوهُم) 7:82; 27:56
+- Ɗooyata les maɓɓe maayooji, ɓe pamara e ɗum; ɗum ko hecci mawngu. (تَحْتَهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا ذَلِكَ الْفَوْزُ الْعَظِيمُ) 9:100; 64:9
+- Ɓen ɗon e peewal iwrunde e Joomi maɓɓe, ɓen ɗon ko hecciɓe. (أُولَئِكَ عَلَى هُدًى مِّن رَّبِّهِمْ وَأُولَئِكَ هُمُ الْمُفْلِحُونَ) 2:5; 31:5
+- Mo aryan leydi himpunde, e leydi duumunde yanee e makko. (مَن يَأْتِيهِ عَذَابٌ يُخْزِيهِ وَيَحِلُّ عَلَيْهِ عَذَابٌ مُّقِيمٌ) 11:39; 39:40
+- Lawee e leydi ndin, ndaree no sagata felluɓe ɓen woniri. (فَسِيرُوا فِي الْأَرْضِ فَانظُرُوا كَيْفَ كَانَ عَاقِبَةُ الْمُكَذِّبِينَ) 3:137; 16:36
+- Ɓe ngiɗaa ɗum haa abada, ngam ko juuɗe maɓɓe ngaddi, Alla anndi bonooɓe. (يَتَمَنَّوْهُ أَبَدًا بِمَا قَدَّمَتْ أَيْدِيهِمْ وَاللَّهُ عَلِيمٌ بِالظَّالِمِينَ) 2:95; 62:7
+- Ko Kanko ɓuri anndude on mo majjii e laawol Makko, e Kanko ɓuri anndude. (هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ) 53:30; 68:7
+- Hono haqiiqa, Alla ko Joomi am e Joomi mon, peree mo, ɗum ko laawol goonga. (إِنَّ اللَّهَ رَبِّي وَرَبُّكُمْ فَاعْبُدُوهُ هَذَا صِرَاطٌ مُّسْتَقِيمٌ) 3:51; 19:36
+- Ko Kanko Jom ngalu e yimɓe, kono ɓurɓe heewde maɓɓe ɓe jarnataa. (لَذُو فَضْلٍ عَلَى النَّاسِ وَلَكِنَّ أَكْثَرَهُمْ لَا يَشْكُرُونَ) 10:60; 27:73
+- Kammuuli ɗin e leydi ndin e ko woni hakkunde majji, siwano e goonga e waktu toɗɗaaɗo. (السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا إِلَّا بِالْحَقِّ وَأَجَلٍ مُّسَمًّى) 30:8; 46:3
+- Accu ɓe, ɓe ngilla e ɓe mbaɗa pijirlooji, haa ɓe taw ɲalaande maɓɓe nde ɓe fodaano. (فَذَرْهُمْ يَخُوضُوا وَيَلْعَبُوا حَتَّى يُلَاقُوا يَوْمَهُمُ الَّذِي يُوعَدُونَ) 43:83; 70:42
+- Si ɓe tawi gomɗimɓe ɓen, ɓe mbi'a: En gomɗinii, si ɓe ceertii. (وَإِذَا لَقُوا الَّذِينَ آمَنُوا قَالُوا آمَنَّا وَإِذَا خَلَوْا) 2:14; 2:76
+- Ɓe tawata Tawreeta e Injiila e ko jippinaa maɓɓe iwrunde e Joomi maɓɓe. (أَقَامُوا التَّوْرَاةَ وَالْإِنجِيلَ وَمَا أُنزِلَ إِلَيْهِم مِّن رَّبِّهِمْ) 5:66; 5:68
+- O anndi ko woni yeeso maɓɓe e ko woni ɓaawo maɓɓe, ɓe njaawataa ɗum e anndal. (يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ) 2:255; 20:110
+- Ko Kanko tiggi kammuuli ɗin e leydi ndin e balɗe joweego. (وَهُوَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ) 11:7; 57:4
+- Hono haqiiqa, e ɗum ɗoon aaya woodanii on, si on ko gomɗimɓe. (إِنَّ فِي ذَلِكَ لَآيَةً لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ) 2:248; 3:49
+- Ko waɗi yimɓe ɓen gomɗinaani, nde ardiiri arii maɓɓe? (وَمَا مَنَعَ النَّاسَ أَن يُؤْمِنُوا إِذْ جَاءَهُمُ الْهُدَى) 17:94; 18:55
+- Ɓe waɗani Alla kiriɗe, ngam ɓe majjina e laawol Makko. Wiye: Njooɗee. (وَجَعَلُوا لِلَّهِ أَندَادًا لِّيُضِلُّوا عَن سَبِيلِهِ قُلْ تَمَتَّعُوا) 14:30; 39:8
+- Ɓe ŋaɗi, nelaaɗo iwrunde e maɓɓe arii maɓɓe, kefeeruɓe ɓen wi'i: Ndee. (وَعَجِبُوا أَن جَاءَهُم مُّنذِرٌ مِّنْهُمْ وَقَالَ الْكَافِرُونَ هَذَا) 38:4; 50:2
+- Hono haqiiqa, Joomi maa ko Kanko ɓuri anndude on mo majjii e laawol Makko. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ) 53:30; 68:7
+- Nde ɗun on mo njaltina kaalis makko ngam yiyde yimɓe, o gomɗinaaki Alla. (كَالَّذِي يُنفِقُ مَالَهُ رِئَاءَ النَّاسِ وَلَا يُؤْمِنُ بِاللَّهِ) 2:264; 4:38
+- Okkee ko Min okkiri on, hade ɗum aru. (أَنفِقُوا مِمَّا رَزَقْنَاكُم مِّن قَبْلِ أَن يَأْتِيَ) 2:254; 63:10
+- O laɓɓani on ko woni kala e kammuuli ɗin e leydi ndin. (سَخَّرَ لَكُم مَّا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 31:20; 45:13
+- Enen, hono haqiiqa, en e sikke e ko ngoŋŋotoo en. (وَإِنَّنَا لَفِي شَكٍّ مِّمَّا تَدْعُونَا إِلَيْهِ مُرِيبٍ) 11:62; 14:9
+- Hono haqiiqa, Joomi maa yaajnirta arzika mo o yiɗi, o fampana. Hono haqiiqa, Kanko. (إِنَّ رَبَّكَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ وَيَقْدِرُ إِنَّهُ) 17:30; 34:36
+- Joomi kammuuli ɗin e leydi ndin e ko woni hakkunde majji, si on ko gomɗimɓe haqiiqankooɓe. (رَبُّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا إِن كُنتُم مُّوقِنِينَ) 26:24; 44:7
+- En gomɗinii Alla, e ko jippinaa men, e ko jippinaa. (آمَنَّا بِاللَّهِ وَمَا أُنزِلَ إِلَيْنَا وَمَا أُنزِلَ إِلَى) 2:136; 3:199
+- Bonooɓe ɓen, hawtorde nden nangi ɓe, ɓe waɗaama e wurooji maɓɓe ɗiƴƴinɓe. (وَأَخَذَ الَّذِينَ ظَلَمُوا الصَّيْحَةُ فَأَصْبَحُوا فِي دِيَارِهِمْ جَاثِمِينَ) 11:67; 11:94
+- Junuubu woodaa on, e ko ɓe waɗi e hoore maɓɓe. (فَلَا جُنَاحَ عَلَيْكُمْ فِيمَا فَعَلْنَ فِي أَنفُسِهِنَّ) 2:234; 2:240
+- Joomi maa ko Kanko ɓuri anndude on mo majjii e laawol Makko, e Kanko. (رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ) 53:30; 68:7
+- E Ruhu (wahyu) iwrunde e yamiroore Makko, e on mo O yiɗi e maccuɓe Makko. (بِالرُّوحِ مِنْ أَمْرِهِ عَلَى مَن يَشَاءُ مِنْ عِبَادِهِ) 16:2; 40:15
+- Min okkii Iisaa ɓiɗɗo Maryama, aayaaji kumpitaaɗi, Min walli mo e Ruhu Qudus. (وَآتَيْنَا عِيسَى ابْنَ مَرْيَمَ الْبَيِّنَاتِ وَأَيَّدْنَاهُ بِرُوحِ الْقُدُسِ) 2:87; 2:253
+- Ngam o ñaawa hakkunde maɓɓe, ɲalaande darngal, e ko ɓe ceertunoo. (لَيَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ) 16:124; 22:69
+- Min waɗii tooweeki mayri les, Min njippini e mayri haayre ndema. (جَعَلْنَا عَالِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةً مِّن سِجِّيلٍ) 11:82; 15:74
+- Ko wooto e maɓɓe, a neli ɓe, maa a nelaa, ɓe gomɗinataa. (سَوَاءٌ عَلَيْهِمْ أَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ) 2:6; 36:10
+- Siwano yimɓe, toraa mayde, si on ko goongaɓe. (مِّن دُونِ النَّاسِ فَتَمَنَّوُا الْمَوْتَ إِن كُنتُمْ صَادِقِينَ) 2:94; 62:6
+- Alla, on alaa gomɗal goɗɗal so wonaa Kanko. Eɗon hulaa? (اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 23:23; 23:32
+- Si Min hollu maa e goɗɗum ko Min fodi ɓe, maa Min maaynu maa, ko faade e Men ngoɗɗitorde maɓɓe. (وَإِمَّا نُرِيَنَّكَ بَعْضَ الَّذِي نَعِدُهُمْ أَوْ نَتَوَفَّيَنَّكَ فَإِلَيْنَا) 10:46; 40:77
+- Ɓe wi'i: Enee, si en maayii, en laaɓi, en ngoodi ƴiiƴam, e njimtete en? (قَالُوا أَإِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَامًا أَإِنَّا لَمَبْعُوثُونَ) 23:82; 56:47
+- Hono haqiiqa, ngalu ko e juuɗe Alla, O okkata mo O yiɗi, Alla. (إِنَّ الْفَضْلَ بِيَدِ اللَّهِ يُؤْتِيهِ مَن يَشَاءُ وَاللَّهُ) 3:73; 57:29
+- E faade e Annduɗo gaañannde e kumpital, O andinirta on ko ngonnoo waɗude. (إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ) 9:105; 62:8
+- Yaa on gomɗimɓe, anditee neema Alla wonannde on, nde. (يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا نِعْمَتَ اللَّهِ عَلَيْكُمْ إِذْ) 5:11; 33:9
+- Min nulaaki yeeso maaɗa, siwano worɓe, ɓe Min njippinana wahyu. (وَمَا أَرْسَلْنَا مِن قَبْلِكَ إِلَّا رِجَالًا نُّوحِي إِلَيْهِم) 12:109; 16:43
+- O yattana mo junuubaaji makko, o naatina mo e Aljannaaji ɗi maayooji ɗooyata les maɓɓe. (يُكَفِّرْ عَنْهُ سَيِّئَاتِهِ وَيُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا) 64:9; 66:8
+- On mo rawnaa, maa on mo e laawol, ko fota balɗe goɗɗe. (مَّرِيضًا أَوْ عَلَى سَفَرٍ فَعِدَّةٌ مِّنْ أَيَّامٍ أُخَرَ) 2:184; 2:185
+- Ɓe njoɗɗataa siwano miijo, ɓe woni ko e ƴatto. (إِن يَتَّبِعُونَ إِلَّا الظَّنَّ وَإِنْ هُمْ إِلَّا يَخْرُصُونَ) 6:116; 10:66
+- Ko nate moƴƴe, ngam on mo tanƴinii Alla e ɲalaande sakkitiinde. (أُسْوَةٌ حَسَنَةٌ لِّمَن كَانَ يَرْجُو اللَّهَ وَالْيَوْمَ الْآخِرَ) 33:21; 60:6
+- Min tiggaaki kammuuli ɗin e leydi ndin e ko woni hakkunde majji, siwano e goonga. (وَمَا خَلَقْنَا السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا إِلَّا بِالْحَقِّ) 15:85; 46:3
+- Naatnu juuɗe maa e kunndal maa, ɗum yaltana danjum, e rawnaaki. (يَدَكَ فِي جَيْبِكَ تَخْرُجْ بَيْضَاءَ مِنْ غَيْرِ سُوءٍ) 27:12; 28:32
+- O ṭaƴa e yurmeende Makko, mo O yiɗi, Alla ko Jom ngalu mawngu. (يَخْتَصُّ بِرَحْمَتِهِ مَن يَشَاءُ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ) 2:105; 3:74
+- E a anndaaki Alla ko Kanko jogii laamu kammuuli ɗin e leydi ndin? (أَلَمْ تَعْلَمْ أَنَّ اللَّهَ لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ) 2:107; 5:40
+- Ko moƴƴi kala ngaddoɗon ngam hoore mon, tawaye ɗum e Alla. (وَمَا تُقَدِّمُوا لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ اللَّهِ) 2:110; 73:20
+- E nokku kala nde a yalti, tuugi yeeso maa e Juulirde Hormaandi. (وَمِنْ حَيْثُ خَرَجْتَ فَوَلِّ وَجْهَكَ شَطْرَ الْمَسْجِدِ الْحَرَامِ) 2:149; 2:150
+- Ɓennuɓe yeeso mon, e a tawaytaa waylo e sunna Alla. (خَلَوْا مِن قَبْلُ وَلَن تَجِدَ لِسُنَّةِ اللَّهِ تَبْدِيلًا) 33:62; 48:23
+- On mo jogii ko woni kala e kammuuli ɗin e leydi ndin. (الَّذِي لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 34:1; 42:53
+- Debo kala rattaaki, ne ɗaɗaaki, siwano e anndal Makko. (وَمَا تَحْمِلُ مِنْ أُنثَى وَلَا تَضَعُ إِلَّا بِعِلْمِهِ) 35:11; 41:47
+- O laɓɓani jemma, naange e lewru, kala no doga haa e waktu toɗɗaaɗo. (اللَّيْلِ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ كُلٌّ يَجْرِي لِأَجَلٍ مُّسَمًّى) 35:13; 39:5
+- Ɗooyata les maɓɓe maayooji, ɓe pamara e ɗum, e ɗum ko njoddi. (تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَذَلِكَ جَزَاءُ) 5:85; 20:76
+- O wi'i: Ooh, kono ɓerɗe mon ɗe ngaddani on haala; muuyo ko moƴƴum. (قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْرًا فَصَبْرٌ جَمِيلٌ) 12:18; 12:83
+- Ko woni kala e kammuuli ɗin e leydi ndin, e Alla. (مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَأَنَّ اللَّهَ) 5:97; 22:64
+- Nulaaɗo kala araa maɓɓe, siwano ɓe nǧiŋa mo. (وَمَا يَأْتِيهِم مِّن رَّسُولٍ إِلَّا كَانُوا بِهِ يَسْتَهْزِئُونَ) 15:11; 36:30
+- Ɓe wi'i: Yaa Muusaa, maa a buga, maa enen ko en buge? (قَالُوا يَامُوسَى إِمَّا أَن تُلْقِيَ وَإِمَّا أَن نَّكُونَ) 7:115; 20:65
+- Ko Kanko waray on, e goɗɗum e mon, nartee e ɓurɓe nguurka, ngam. (يَتَوَفَّاكُمْ وَمِنكُم مَّن يُرَدُّ إِلَى أَرْذَلِ الْعُمُرِ لِكَيْ) 16:70; 22:5
+- Ɓe ndaɗi, e Joomi maɓɓe, Aljannaaji ɗi maayooji ɗooyata les maɓɓe, ɓe ngonaa pamaro'en e ɗum. (رَبِّهِمْ جَنَّاتٌ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 3:15; 3:136
+- Min waɗii e ɓerɗe maɓɓe fof, woto ɓe faame ɗum, e noppi maɓɓe tiiɗe. (وَجَعَلْنَا عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ) 17:46; 18:57
+- Hono haqiiqa, fodaari Alla ko goonga, kono ɓurɓe heewde maɓɓe ɓe anndaa. (إِنَّ وَعْدَ اللَّهِ حَقٌّ وَلَكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ) 10:55; 28:13
+- Nde ɗun ko ɓe yeddidi Alla e Nulaaɗo Makko; on mo yeddidi Alla. (ذَلِكَ بِأَنَّهُمْ شَاقُّوا اللَّهَ وَرَسُولَهُ وَمَن يُشَاقِقِ اللَّهَ) 8:13; 59:4
+- E ɲalaande O nodda ɓe, O wi'a: No kiriɗe am ɗen, ɗe ngonnoo wi'ude? (وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ أَيْنَ شُرَكَائِيَ الَّذِينَ كُنتُمْ تَزْعُمُونَ) 28:62; 28:74
+- E ɓe yi'aali Alla, on mo tiggi kammuuli ɗin e leydi ndin, ko Kanko waawu waɗude ɓe? (أَوَلَمْ يَرَوْا أَنَّ اللَّهَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ) 17:99; 46:33
+- On mo tiggi on iwrunde e leydi, ɓawto ɗum, iwrunde e ndiyan, ɓawto ɗum. (بِالَّذِي خَلَقَكَ مِن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ) 18:37; 40:67
+- Ɓe mbi'ano: Joomi men, hade a nulaano men Nulaaɗo, en njokki aayaaji maa. (لَقَالُوا رَبَّنَا لَوْلَا أَرْسَلْتَ إِلَيْنَا رَسُولًا فَنَتَّبِعَ آيَاتِكَ) 20:134; 28:47
+- Ɓawto ɗum, ngoɗɗitorde maɓɓe ko faade e Joomi maɓɓe, O andinirta ɓe ko ɓe ngonnoo waɗude. (ثُمَّ إِلَى رَبِّهِم مَّرْجِعُهُمْ فَيُنَبِّئُهُم بِمَا كَانُوا يَعْمَلُونَ) 6:108; 39:7
+- Anndal woodaa maɓɓe e ɗum, ɓe njoɗɗataa siwano miijo. (مَّا لَهُم بِذَلِكَ مِنْ عِلْمٍ إِنْ هُمْ إِلَّا) 43:20; 45:24
+- En tawii baabiraaɓe amen e diina, enen noon en ngoni e tuppi maɓɓe. (إِنَّا وَجَدْنَا آبَاءَنَا عَلَى أُمَّةٍ وَإِنَّا عَلَى آثَارِهِم) 43:22; 43:23
+- Ɓen okkaaɓe Defte, ceertake siwano nde anndal arii maɓɓe. (الَّذِينَ أُوتُوا الْكِتَابَ إِلَّا مِن بَعْدِ مَا جَاءَهُمُ) 3:19; 98:4
+- Nde Ibraahiima wi'i: Joomi am, waɗirta ndee saare nooko jawɗo. (وَإِذْ قَالَ إِبْرَاهِيمُ رَبِّ اجْعَلْ هَذَا بَلَدًا آمِنًا) 2:126; 14:35
+- O waɗani on naniwol, yi'ite e ɓerɗe; ko seeɗa jarnon. (وَجَعَلَ لَكُمُ السَّمْعَ وَالْأَبْصَارَ وَالْأَفْئِدَةَ قَلِيلًا مَّا تَشْكُرُونَ) 32:9; 67:23
+- Ɓen yeddotooɓe e aayaaji Alla, e bawɗe, ɗe aruaa maɓɓe. (الَّذِينَ يُجَادِلُونَ فِي آيَاتِ اللَّهِ بِغَيْرِ سُلْطَانٍ أَتَاهُمْ) 40:35; 40:56
+- Nden jokkee diina Ibraahiima, moƴƴo, o wonaano e firaawna'en. (فَاتَّبِعُوا مِلَّةَ إِبْرَاهِيمَ حَنِيفًا وَمَا كَانَ مِنَ الْمُشْرِكِينَ) 3:95; 16:123
+- Nde Min dandini on iwrunde e Fir'awna'en, ɓe ngonnoo fannude on leydi bonnde. (وَإِذْ أَنجَيْنَاكُم مِّنْ آلِ فِرْعَوْنَ يَسُومُونَكُمْ سُوءَ الْعَذَابِ) 7:141; 14:6
+- Ndee ko diina peewu, kono ɓurɓe heewde yimɓe ɓe anndaa. (ذَلِكَ الدِّينُ الْقَيِّمُ وَلَكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ) 12:40; 30:30
+- E a yi'aali Alla no laɓɓani on ko woni e. (أَلَمْ تَرَ أَنَّ اللَّهَ سَخَّرَ لَكُم مَّا فِي) 22:65; 31:20
+- Kefeeruɓe ɓen mbi'ano: Ndee wonaano siwano sihiri kumpitaaɗo. (لَقَالَ الَّذِينَ كَفَرُوا إِنْ هَذَا إِلَّا سِحْرٌ مُّبِينٌ) 6:7; 11:7
+- Si aayaaji Men kumpitaaɗi njangaama maɓɓe, kefeeruɓe ɓen mbi'a. (وَإِذَا تُتْلَى عَلَيْهِمْ آيَاتُنَا بَيِّنَاتٍ قَالَ الَّذِينَ كَفَرُوا) 19:73; 46:7
+- Aljannaaji dahuya, ɗi maayooji ɗooyata les maɓɓe, ɓe ngonaa pamaro'en e ɗum. (جَنَّاتُ عَدْنٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 20:76; 98:8
+- O waɗa ko O yiɗi; Alla ko Kanko waawi kala huunde. (مَا يَشَاءُ إِنَّ اللَّهَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ) 24:45; 35:1
+- Ngam O yatta on junuubaaji mon, O nawta on haa e waktu toɗɗaaɗo. (لِيَغْفِرَ لَكُم مِّن ذُنُوبِكُمْ وَيُؤَخِّرَكُمْ إِلَى أَجَلٍ مُّسَمًّى) 14:10; 71:4
+- Eɗon ngiɗi haɗude en e ko baabiraaɓe amen ngonnoo perde? (تُرِيدُونَ أَن تَصُدُّونَا عَمَّا كَانَ يَعْبُدُ آبَاؤُنَا) 14:10; 34:43
+- Nde Joomi maa wi'i Malaa'ika: Hono haqiiqa, Min tigi neɗɗo iwrunde e leydi. (وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي خَالِقٌ بَشَرًا مِّن) 15:28; 38:71
+- Ko Kanko nulay henndu, ngam ko o kibaruuji moƴƴi yeeso yurmeende Makko. (وَهُوَ الَّذِي يُرْسِلُ الرِّيَاحَ بُشْرًا بَيْنَ يَدَيْ رَحْمَتِهِ) 7:57; 25:48
+- Wiye: Lawee e leydi ndin, ndaree no sagata ɓen woniri. (قُلْ سِيرُوا فِي الْأَرْضِ فَانظُرُوا كَيْفَ كَانَ عَاقِبَةُ) 27:69; 30:42
+- Hono haqiiqa, e tiggu kammuuli ɗin e leydi ndin, e waylude jemma e ɲalaande, (aayaaji woodi). (إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ) 2:164; 3:190
+- Ko hombo okkitan Alla ngalu moƴƴu, O ɓeyda ɗum? (مَّن ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا فَيُضَاعِفَهُ) 2:245; 57:11
+- Ñaawa hakkunde maɓɓe e ko Alla jippini, e tuppeeɗon kulle maɓɓe. (فَاحْكُم بَيْنَهُم بِمَا أَنزَلَ اللَّهُ وَلَا تَتَّبِعْ أَهْوَاءَهُمْ) 5:48; 5:49
+- Ɓe ndarndii siwano Malaa'ika aroo maɓɓe, maa yamiroore Joomi maa aroo? (هَلْ يَنظُرُونَ إِلَّا أَن تَأْتِيَهُمُ الْمَلَائِكَةُ أَوْ يَأْتِيَ) 6:158; 16:33
+- Hono haqiiqa, ɓen moɓooɓe Alla fenaande, ɓe heccataa. (إِنَّ الَّذِينَ يَفْتَرُونَ عَلَى اللَّهِ الْكَذِبَ لَا يُفْلِحُونَ) 10:69; 16:116
+- Nde ɗun fere Fir'awna'en e ɓennuɓe yeeso maɓɓe, ɓe felli aayaaji Men. (كَدَأْبِ آلِ فِرْعَوْنَ وَالَّذِينَ مِن قَبْلِهِمْ كَذَّبُوا بِآيَاتِنَا) 3:11; 8:54
+- O kibina gomɗimɓe ɓen waɗuɓe golle moƴƴe, ɓe ndaɗi njoddi. (وَيُبَشِّرُ الْمُؤْمِنِينَ الَّذِينَ يَعْمَلُونَ الصَّالِحَاتِ أَنَّ لَهُمْ أَجْرًا) 17:9; 18:2
+- Alla yaajnirta arzika mo O yiɗi e maccuɓe Makko, O fampana. (اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ) 28:82; 29:62
+- E faade e Annduɗo gaañannde e kumpital, O andinirta on ko ngonnoo waɗude. (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
+- E ɓandu, goɗɗum maɓɓe ɓuri goɗɗum e ɓandu, e Defte Alla. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
 """;

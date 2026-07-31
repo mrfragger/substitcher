@@ -3120,4 +3120,158 @@ Matching Phrases 9 words
 - Für sie ist ein Trank aus siedendem Wasser und eine schmerzhafte Strafe dafür, dass sie ungläubig waren. (لَهُمْ شَرَابٌ مِّنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْفُرُونَ) 6:70; 10:4
 - Sollen wir statt Allah das anrufen, was uns weder nützt noch schadet? (أَنَدْعُو مِن دُونِ اللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا) 6:71; 10:106
 - Dass Allah weiß, was in den Himmeln und was auf der Erde ist. (أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 5:97; 58:7
+Matching Phrases 8 words
+- Wer ist ungerechter als derjenige, der gegen Allah Lügen erdichtet? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا) 6:21; 6:93; 6:144; 7:37; 10:17; 11:18; 18:15; 29:68; 61:7
+- Wahrlich, darin ist ein Zeichen, doch die meisten von ihnen waren nicht gläubig. (إِنَّ فِي ذَلِكَ لَآيَةً وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ) 26:8; 26:67; 26:103; 26:121; 26:139; 26:158; 26:174; 26:190
+- Dass sie auf der Erde umhergehen und schauen, wie das Ende derjenigen war. (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ) 12:109; 30:9; 30:42; 35:44; 40:21; 40:82; 47:10
+- Er sagte: O mein Volk, dient Allah, ihr habt keinen anderen Gott außer Ihm. (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ) 7:65; 7:73; 7:85; 11:50; 11:61; 11:84; 23:23
+- Er wird ihn in Gärten führen, unter denen Flüsse strömen, darin werden sie ewig weilen. (يُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 4:13; 4:57; 4:122; 58:22; 64:9; 65:11
+- Zwischen ihnen wird am Tag der Auferstehung über das gerichtet, worüber sie uneinig waren. (بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ) 2:113; 10:93; 16:124; 22:69; 32:25; 45:17
+- Sind sie nicht auf der Erde umhergegangen, um zu sehen, wie das Ende war? (أَوَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ) 30:9; 35:44; 40:21; 40:82; 47:10
+- Gärten, unter denen Flüsse strömen, darin werden sie ewig weilen. (جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا) 4:57; 4:122; 5:119; 64:9; 65:11
+- Du lässt die Nacht in den Tag eindringen und lässt den Tag in die Nacht eindringen. (تُولِجُ اللَّيْلَ فِي النَّهَارِ وَتُولِجُ النَّهَارَ فِي اللَّيْلِ) 3:27; 22:61; 31:29; 35:13; 57:6
+- Alles, was in den Himmeln und auf der Erde ist, preist Allah. (سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 59:1; 61:1; 62:1; 64:1
+- Dient Allah, ihr habt keinen anderen Gott außer Ihm. Wollt ihr denn nicht fürchten? (اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا) 7:65; 11:84; 23:23; 23:32
+- Und als Wir zu den Engeln sprachen: Werft euch vor Adam nieder, da warfen sie sich nieder, außer Iblis. (وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا إِبْلِيسَ) 2:34; 17:61; 18:50; 20:116
+- Allah weiß, was in den Himmeln und auf der Erde ist. (اللَّهُ وَيَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 3:29; 5:97; 49:16; 58:7
+- Gärten, unter denen Flüsse strömen, darin werden sie ewig weilen, und das. (جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَذَلِكَ) 4:13; 5:85; 9:89; 57:12
+- Sein Lohn ist bei seinem Herrn, und es gibt keine Furcht vor ihnen, noch werden sie. (أَجْرُهُ عِندَ رَبِّهِ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ) 2:112; 2:262; 2:274; 2:277
+- Bei seinem Herrn, und es gibt keine Furcht vor ihnen, noch werden sie traurig sein. (عِندَ رَبِّهِ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ) 2:112; 2:262; 2:274; 2:277
+- Wer der Rechtleitung folgt, der folgt ihr zu seinem eigenen Vorteil, und wer in die Irre geht. (فَمَنِ اهْتَدَى فَإِنَّمَا يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ) 10:108; 17:15; 27:92
+- Folgt ihr zu seinem eigenen Vorteil, und wer in die Irre geht, der geht zu seinem eigenen Nachteil in die Irre. (يَهْتَدِي لِنَفْسِهِ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا) 10:108; 17:15; 39:41
+- Warum wurde ihm nicht ein Zeichen von seinem Herrn herabgesandt? Sag: Wahrlich. (لَوْلَا أُنزِلَ عَلَيْهِ آيَةٌ مِّن رَّبِّهِ فَقُلْ إِنَّمَا) 10:20; 13:27; 29:50
+- Diejenigen, die glauben und gute Werke tun, für sie ist ein Lohn, der nicht aufhört. (الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ) 41:8; 84:25; 95:6
+- Du bringst das Lebendige aus dem Toten hervor und bringst das Tote aus dem Lebendigen hervor. (وَتُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ وَتُخْرِجُ الْمَيِّتَ مِنَ الْحَيِّ) 3:27; 10:31; 30:19
+- Wer nicht nach dem richtet, was Allah herabgesandt hat, das sind die. (وَمَن لَّمْ يَحْكُم بِمَا أَنزَلَ اللَّهُ فَأُولَئِكَ هُمُ) 5:44; 5:45; 5:47
+- Er erschuf die Himmel und die Erde und was dazwischen ist, in sechs Tagen. (خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا فِي سِتَّةِ أَيَّامٍ) 25:59; 32:4; 50:38
+- Wahrlich, Allah ist voller Huld gegenüber den Menschen, aber die meisten. (إِنَّ اللَّهَ لَذُو فَضْلٍ عَلَى النَّاسِ وَلَكِنَّ أَكْثَرَ) 2:243; 10:60; 40:61
+- Allah tat ihnen kein Unrecht, sondern sie taten sich selbst Unrecht. (فَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ وَلَكِن كَانُوا أَنفُسَهُمْ يَظْلِمُونَ) 9:70; 29:40; 30:9
+- Er wird euch eure Sünden vergeben und euch in Gärten führen, unter denen Flüsse strömen. (عَنكُمْ سَيِّئَاتِكُمْ وَلَأُدْخِلَنَّكُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ) 5:12; 64:9; 66:8
+- Verboten hat Er euch das Verendete, das Blut, das Schweinefleisch und das, was für einen anderen als Allah geschlachtet wurde. (حَرَّمَ عَلَيْكُمُ الْمَيْتَةَ وَالدَّمَ وَلَحْمَ الْخِنزِيرِ وَمَا أُهِلَّ) 2:173; 5:3; 16:115
+- Ich fürchte, wenn ich meinem Herrn ungehorsam bin, die Strafe eines gewaltigen Tages. (إِنِّي أَخَافُ إِنْ عَصَيْتُ رَبِّي عَذَابَ يَوْمٍ عَظِيمٍ) 6:15; 10:15; 39:13
+- Aber nachdem das Wissen zu ihnen gekommen war, aus Neid untereinander. (إِلَّا مِن بَعْدِ مَا جَاءَهُمُ الْعِلْمُ بَغْيًا بَيْنَهُمْ) 3:19; 42:14; 45:17
+- Sie verrichten das Gebet und geben von dem, was Wir ihnen beschert haben, heimlich und öffentlich. (وَأَقَامُوا الصَّلَاةَ وَأَنفَقُوا مِمَّا رَزَقْنَاهُمْ سِرًّا وَعَلَانِيَةً) 13:22; 14:31; 35:29
+- Sollen wir statt Allah das anrufen, was uns weder nützt noch schadet? (مِن دُونِ اللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا) 6:71; 10:106; 25:55
+- Sie glauben an das, was dir herabgesandt wurde, und an das, was vor dir herabgesandt wurde. (يُؤْمِنُونَ بِمَا أُنزِلَ إِلَيْكَ وَمَا أُنزِلَ مِن قَبْلِكَ) 2:4; 4:60; 4:162
+- Siehst du nicht, dass Allah Wasser vom Himmel herabkommen lässt? (أَلَمْ تَرَ أَنَّ اللَّهَ أَنزَلَ مِنَ السَّمَاءِ مَاءً) 22:63; 35:27; 39:21
+- Wenn Er eine Sache beschließt, sagt Er zu ihr nur: Sei! und sie ist. (قَضَى أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُن فَيَكُونُ) 3:47; 19:35; 40:68
+- Und zu Madyan (sandten Wir) ihren Bruder Shu'ayb. Er sagte: O mein Volk, dient Allah. (وَإِلَى مَدْيَنَ أَخَاهُمْ شُعَيْبًا قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ) 7:85; 11:84; 29:36
+- Das sind von den Nachrichten des Verborgenen, die Wir dir offenbaren; du wusstest es nicht. (ذَلِكَ مِنْ أَنْبَاءِ الْغَيْبِ نُوحِيهِ إِلَيْكَ وَمَا كُنتَ) 3:44; 11:49; 12:102
+- Und wenn ihre Frist kommt, können sie keine Stunde aufschieben noch vorverlegen. (فَإِذَا جَاءَ أَجَلُهُمْ لَا يَسْتَأْخِرُونَ سَاعَةً وَلَا يَسْتَقْدِمُونَ) 7:34; 10:49; 16:61
+- Und folgt nicht den Fußstapfen des Satans, denn er ist euch ein offenkundiger Feind. (وَلَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ إِنَّهُ لَكُمْ عَدُوٌّ مُّبِينٌ) 2:168; 2:208; 6:142
+- Unter den Menschen gibt es manchen, der über Allah streitet, ohne Wissen. (وَمِنَ النَّاسِ مَن يُجَادِلُ فِي اللَّهِ بِغَيْرِ عِلْمٍ) 22:3; 22:8; 31:20
+- Allah gibt es, wem Er will, und Allah ist der Besitzer der großen Huld. (اللَّهِ يُؤْتِيهِ مَن يَشَاءُ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ) 57:21; 57:29; 62:4
+- Jede Seele wird vollständig für das, was sie verdient hat, entschädigt, und ihnen wird kein Unrecht getan. (تُوَفَّى كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ) 2:281; 3:25; 3:161
+- Tötet nicht die Seele, die Allah verboten hat, es sei denn mit Recht. (وَلَا تَقْتُلُوا النَّفْسَ الَّتِي حَرَّمَ اللَّهُ إِلَّا بِالْحَقِّ) 6:151; 17:33; 25:68
+- Wenn Er eine Sache beschließt, sagt Er zu ihr nur: Sei! (إِذَا قَضَى أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُن) 3:47; 19:35; 40:68
+- Tretet durch die Tore der Hölle ein, darin werdet ihr ewig weilen; und wie schlimm ist die Bleibe der Hochmütigen! (فَادْخُلُوا أَبْوَابَ جَهَنَّمَ خَالِدِينَ فِيهَا فَلَبِئْسَ مَثْوَى الْمُتَكَبِّرِينَ) 16:29; 39:72; 40:76
+- Hast du nicht diejenigen gesehen, denen ein Teil der Schrift gegeben wurde? (أَلَمْ تَرَ إِلَى الَّذِينَ أُوتُوا نَصِيبًا مِّنَ الْكِتَابِ) 3:23; 4:44; 4:51
+- Für sie sind Gärten, unter denen Flüsse strömen, darin werden sie ewig weilen. (لَهُمْ جَنَّاتٌ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 3:198; 5:119; 9:89
+- O mein Volk, handelt nach eurem Vermögen, ich werde auch handeln, und ihr werdet erfahren. (يَاقَوْمِ اعْمَلُوا عَلَى مَكَانَتِكُمْ إِنِّي عَامِلٌ فَسَوْفَ تَعْلَمُونَ) 6:135; 11:93; 39:39
+- Wer sich Allah und Seinem Gesandten widersetzt, für den ist das Feuer der Hölle, darin wird er ewig weilen. (اللَّهَ وَرَسُولَهُ فَأَنَّ لَهُ نَارَ جَهَنَّمَ خَالِدًا فِيهَا) 9:63; 72:23
+- Wir haben über ihre Herzen Hüllen gelegt, damit sie es nicht verstehen, und in ihre Ohren Schwerhörigkeit. (عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا) 17:46; 18:57
+- In keine Stadt sandten Wir einen Warner, ohne dass ihre Wohlhabenden sagten: Wir. (فِي قَرْيَةٍ مِّن نَّذِيرٍ إِلَّا قَالَ مُتْرَفُوهَا إِنَّا) 34:34; 43:23
+- Sie sagten: Bitte für uns deinen Herrn, dass Er uns klarmache, was sie ist. (قَالُوا ادْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِيَ) 2:68; 2:70
+- Sie werden sagen: Allah. Sag: Lob sei Allah! Aber die meisten von ihnen. (لَيَقُولُنَّ اللَّهُ قُلِ الْحَمْدُ لِلَّهِ بَلْ أَكْثَرُهُمْ لَا) 29:63; 31:25
+- Und die Antwort seines Volkes war nur, dass sie sagten: Vertreibt sie. (وَمَا كَانَ جَوَابَ قَوْمِهِ إِلَّا أَن قَالُوا أَخْرِجُوهُم) 7:82; 27:56
+- Unter denen Flüsse strömen, darin werden sie ewig weilen; das ist der große Erfolg. (تَحْتَهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا ذَلِكَ الْفَوْزُ الْعَظِيمُ) 9:100; 64:9
+- Diese sind auf der Rechtleitung von ihrem Herrn, und diese sind die Erfolgreichen. (أُولَئِكَ عَلَى هُدًى مِّن رَّبِّهِمْ وَأُولَئِكَ هُمُ الْمُفْلِحُونَ) 2:5; 31:5
+- Denjenigen, den eine demütigende Strafe trifft und den eine ewige Strafe trifft. (مَن يَأْتِيهِ عَذَابٌ يُخْزِيهِ وَيَحِلُّ عَلَيْهِ عَذَابٌ مُّقِيمٌ) 11:39; 39:40
+- Wandert auf der Erde und schaut, wie das Ende der Leugner war. (فَسِيرُوا فِي الْأَرْضِ فَانظُرُوا كَيْفَ كَانَ عَاقِبَةُ الْمُكَذِّبِينَ) 3:137; 16:36
+- Sie werden es nie wünschen wegen dem, was ihre Hände vorausgeschickt haben, und Allah kennt die Ungerechten. (يَتَمَنَّوْهُ أَبَدًا بِمَا قَدَّمَتْ أَيْدِيهِمْ وَاللَّهُ عَلِيمٌ بِالظَّالِمِينَ) 2:95; 62:7
+- Er weiß am besten, wer von Seinem Weg abirrt, und Er weiß am besten. (هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ) 53:30; 68:7
+- Wahrlich, Allah ist mein Herr und euer Herr, so dient Ihm; das ist der gerade Weg. (إِنَّ اللَّهَ رَبِّي وَرَبُّكُمْ فَاعْبُدُوهُ هَذَا صِرَاطٌ مُّسْتَقِيمٌ) 3:51; 19:36
+- Er ist voller Huld gegenüber den Menschen, aber die meisten von ihnen sind nicht dankbar. (لَذُو فَضْلٍ عَلَى النَّاسِ وَلَكِنَّ أَكْثَرَهُمْ لَا يَشْكُرُونَ) 10:60; 27:73
+- Die Himmel und die Erde und was dazwischen ist, haben Wir nur in Wahrheit und für eine bestimmte Frist erschaffen. (السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا إِلَّا بِالْحَقِّ وَأَجَلٍ مُّسَمًّى) 30:8; 46:3
+- Lass sie in ihrem (Treiben) versinken und spielen, bis sie ihren Tag, der ihnen angedroht wird, treffen. (فَذَرْهُمْ يَخُوضُوا وَيَلْعَبُوا حَتَّى يُلَاقُوا يَوْمَهُمُ الَّذِي يُوعَدُونَ) 43:83; 70:42
+- Wenn sie diejenigen treffen, die glauben, sagen sie: Wir glauben, und wenn sie unter sich allein sind. (وَإِذَا لَقُوا الَّذِينَ آمَنُوا قَالُوا آمَنَّا وَإِذَا خَلَوْا) 2:14; 2:76
+- Sie halten die Tora und das Evangelium ein und das, was von ihrem Herrn zu ihnen herabgesandt wurde. (أَقَامُوا التَّوْرَاةَ وَالْإِنجِيلَ وَمَا أُنزِلَ إِلَيْهِم مِّن رَّبِّهِمْ) 5:66; 5:68
+- Er weiß, was vor ihnen und was hinter ihnen ist, und sie umfassen es nicht mit ihrem Wissen. (يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ) 2:255; 20:110
+- Und Er ist es, der die Himmel und die Erde in sechs Tagen erschuf. (وَهُوَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ) 11:7; 57:4
+- Wahrlich, darin ist ein Zeichen für euch, wenn ihr gläubig seid. (إِنَّ فِي ذَلِكَ لَآيَةً لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ) 2:248; 3:49
+- Was hinderte die Menschen daran zu glauben, als die Rechtleitung zu ihnen kam? (وَمَا مَنَعَ النَّاسَ أَن يُؤْمِنُوا إِذْ جَاءَهُمُ الْهُدَى) 17:94; 18:55
+- Und sie stellten Allah Teilhaber zur Seite, um von Seinem Weg abzuleiten. Sag: Genießt. (وَجَعَلُوا لِلَّهِ أَندَادًا لِّيُضِلُّوا عَن سَبِيلِهِ قُلْ تَمَتَّعُوا) 14:30; 39:8
+- Und sie wunderten sich, dass ein Warner aus ihrer Mitte zu ihnen kam, und die Ungläubigen sagten: Dies. (وَعَجِبُوا أَن جَاءَهُم مُّنذِرٌ مِّنْهُمْ وَقَالَ الْكَافِرُونَ هَذَا) 38:4; 50:2
+- Wahrlich, dein Herr weiß am besten, wer von Seinem Weg abirrt. (إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ) 53:30; 68:7
+- Gleich demjenigen, der sein Vermögen ausgibt, um von den Menschen gesehen zu werden, und nicht an Allah glaubt. (كَالَّذِي يُنفِقُ مَالَهُ رِئَاءَ النَّاسِ وَلَا يُؤْمِنُ بِاللَّهِ) 2:264; 4:38
+- Gebt von dem, was Wir euch beschert haben, bevor es kommt. (أَنفِقُوا مِمَّا رَزَقْنَاكُم مِّن قَبْلِ أَن يَأْتِيَ) 2:254; 63:10
+- Er hat euch dienstbar gemacht, was in den Himmeln und auf der Erde ist. (سَخَّرَ لَكُم مَّا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 31:20; 45:13
+- Und wir sind wahrlich im Zweifel über das, wozu ihr uns aufruft. (وَإِنَّنَا لَفِي شَكٍّ مِّمَّا تَدْعُونَا إِلَيْهِ مُرِيبٍ) 11:62; 14:9
+- Wahrlich, dein Herr gewährt den Lebensunterhalt großzügig, wem Er will, und bemisst ihn. Wahrlich, Er. (إِنَّ رَبَّكَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ وَيَقْدِرُ إِنَّهُ) 17:30; 34:36
+- Der Herr der Himmel und der Erde und dessen, was dazwischen ist, wenn ihr überzeugt seid. (رَبُّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا إِن كُنتُم مُّوقِنِينَ) 26:24; 44:7
+- Wir glauben an Allah und an das, was zu uns herabgesandt wurde, und an das, was herabgesandt wurde zu. (آمَنَّا بِاللَّهِ وَمَا أُنزِلَ إِلَيْنَا وَمَا أُنزِلَ إِلَى) 2:136; 3:199
+- Und diejenigen, die Unrecht taten, erfasste der Schrei, und sie lagen in ihren Häusern auf ihren Knien. (وَأَخَذَ الَّذِينَ ظَلَمُوا الصَّيْحَةُ فَأَصْبَحُوا فِي دِيَارِهِمْ جَاثِمِينَ) 11:67; 11:94
+- Es ist keine Sünde für euch in dem, was sie in Bezug auf sich selbst tun. (فَلَا جُنَاحَ عَلَيْكُمْ فِيمَا فَعَلْنَ فِي أَنفُسِهِنَّ) 2:234; 2:240
+- Dein Herr weiß am besten, wer von Seinem Weg abirrt, und Er. (رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ) 53:30; 68:7
+- Mit dem Geist (der Offenbarung) auf Seinen Befehl, wem Er will von Seinen Dienern. (بِالرُّوحِ مِنْ أَمْرِهِ عَلَى مَن يَشَاءُ مِنْ عِبَادِهِ) 16:2; 40:15
+- Und Wir gaben Jesus, dem Sohn der Maria, die klaren Zeichen und stärkten ihn mit dem Heiligen Geist. (وَآتَيْنَا عِيسَى ابْنَ مَرْيَمَ الْبَيِّنَاتِ وَأَيَّدْنَاهُ بِرُوحِ الْقُدُسِ) 2:87; 2:253
+- Damit Er am Tag der Auferstehung zwischen ihnen über das urteile, worüber sie uneinig waren. (لَيَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ) 16:124; 22:69
+- Und Wir kehrten das Oberste zuunterst und ließen Steine von gebranntem Ton auf sie regnen. (جَعَلْنَا عَالِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةً مِّن سِجِّيلٍ) 11:82; 15:74
+- Es ist ihnen gleich, ob du sie warnst oder nicht warnst; sie glauben nicht. (سَوَاءٌ عَلَيْهِمْ أَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ) 2:6; 36:10
+- Außer den Menschen, so wünscht den Tod, wenn ihr wahrhaftig seid. (مِّن دُونِ النَّاسِ فَتَمَنَّوُا الْمَوْتَ إِن كُنتُمْ صَادِقِينَ) 2:94; 62:6
+- Allah, ihr habt keinen anderen Gott außer Ihm. Wollt ihr denn nicht fürchten? (اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 23:23; 23:32
+- Ob Wir dich einen Teil dessen sehen lassen, womit Wir sie bedrohen, oder ob Wir dich abberufen, zu Uns ist ihre Rückkehr. (وَإِمَّا نُرِيَنَّكَ بَعْضَ الَّذِي نَعِدُهُمْ أَوْ نَتَوَفَّيَنَّكَ فَإِلَيْنَا) 10:46; 40:77
+- Sie sagten: Wenn wir gestorben und zu Staub und Knochen geworden sind, sollen wir dann wirklich auferweckt werden? (قَالُوا أَإِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَامًا أَإِنَّا لَمَبْعُوثُونَ) 23:82; 56:47
+- Die Huld liegt in der Hand Allahs; Er gibt sie, wem Er will. Und Allah. (إِنَّ الْفَضْلَ بِيَدِ اللَّهِ يُؤْتِيهِ مَن يَشَاءُ وَاللَّهُ) 3:73; 57:29
+- Und ihr werdet zu dem zurückgebracht, der das Verborgene und das Offenbare weiß, und Er wird euch kundtun, was ihr zu tun pflegtet. (إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ) 9:105; 62:8
+- O ihr, die ihr glaubt, gedenkt der Huld Allahs zu euch, als. (يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا نِعْمَتَ اللَّهِ عَلَيْكُمْ إِذْ) 5:11; 33:9
+- Und Wir sandten vor dir nur Männer, denen Wir Offenbarung gaben. (وَمَا أَرْسَلْنَا مِن قَبْلِكَ إِلَّا رِجَالًا نُّوحِي إِلَيْهِم) 12:109; 16:43
+- Er wird ihm seine Sünden vergeben und ihn in Gärten führen, unter denen Flüsse strömen. (يُكَفِّرْ عَنْهُ سَيِّئَاتِهِ وَيُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا) 64:9; 66:8
+- Wer krank ist oder sich auf Reisen befindet, der soll eine Anzahl anderer Tage (fasten). (مَّرِيضًا أَوْ عَلَى سَفَرٍ فَعِدَّةٌ مِّنْ أَيَّامٍ أُخَرَ) 2:184; 2:185
+- Sie folgen nur Mutmaßungen, und sie stellen nur Schätzungen an. (إِن يَتَّبِعُونَ إِلَّا الظَّنَّ وَإِنْ هُمْ إِلَّا يَخْرُصُونَ) 6:116; 10:66
+- Ein schönes Vorbild für denjenigen, der auf Allah und den Jüngsten Tag hofft. (أُسْوَةٌ حَسَنَةٌ لِّمَن كَانَ يَرْجُو اللَّهَ وَالْيَوْمَ الْآخِرَ) 33:21; 60:6
+- Und Wir erschufen die Himmel und die Erde und was dazwischen ist, nicht anders als in Wahrheit. (وَمَا خَلَقْنَا السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا إِلَّا بِالْحَقِّ) 15:85; 46:3
+- Stecke deine Hand in deinen Kragen, sie wird weiß hervorkommen, ohne Übel. (يَدَكَ فِي جَيْبِكَ تَخْرُجْ بَيْضَاءَ مِنْ غَيْرِ سُوءٍ) 27:12; 28:32
+- Er zeichnet mit Seiner Barmherzigkeit aus, wen Er will, und Allah ist der Besitzer der großen Huld. (يَخْتَصُّ بِرَحْمَتِهِ مَن يَشَاءُ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ) 2:105; 3:74
+- Weißt du nicht, dass Allah die Herrschaft über die Himmel und die Erde besitzt? (أَلَمْ تَعْلَمْ أَنَّ اللَّهَ لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ) 2:107; 5:40
+- Was immer ihr an Gutem für euch selbst vorausschickt, ihr werdet es bei Allah finden. (وَمَا تُقَدِّمُوا لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ اللَّهِ) 2:110; 73:20
+- Und von wo du auch ausgehst, richte dein Gesicht zur heiligen Moschee. (وَمِنْ حَيْثُ خَرَجْتَ فَوَلِّ وَجْهَكَ شَطْرَ الْمَسْجِدِ الْحَرَامِ) 2:149; 2:150
+- Sie, die vor euch waren, und du wirst keine Veränderung in Allahs Gesetz finden. (خَلَوْا مِن قَبْلُ وَلَن تَجِدَ لِسُنَّةِ اللَّهِ تَبْدِيلًا) 33:62; 48:23
+- Dem gehört, was in den Himmeln und auf der Erde ist. (الَّذِي لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ) 34:1; 42:53
+- Und keine Frau wird schwanger oder gebiert, außer mit Seinem Wissen. (وَمَا تَحْمِلُ مِنْ أُنثَى وَلَا تَضَعُ إِلَّا بِعِلْمِهِ) 35:11; 41:47
+- Er hat die Nacht dienstbar gemacht und die Sonne und den Mond; ein jedes läuft auf eine bestimmte Frist. (اللَّيْلِ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ كُلٌّ يَجْرِي لِأَجَلٍ مُّسَمًّى) 35:13; 39:5
+- Unter denen Flüsse strömen, darin werden sie ewig weilen, und das ist der Lohn. (تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَذَلِكَ جَزَاءُ) 5:85; 20:76
+- Er sagte: Nein, eure Seelen haben euch eine Sache verlockend gemacht; aber schöne Geduld. (قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْرًا فَصَبْرٌ جَمِيلٌ) 12:18; 12:83
+- Was in den Himmeln und auf der Erde ist, und dass Allah. (مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَأَنَّ اللَّهَ) 5:97; 22:64
+- Und kein Gesandter kam zu ihnen, ohne dass sie ihn verspotteten. (وَمَا يَأْتِيهِم مِّن رَّسُولٍ إِلَّا كَانُوا بِهِ يَسْتَهْزِئُونَ) 15:11; 36:30
+- Sie sagten: O Mose, entweder wirfst du, oder wir sind diejenigen, die werfen? (قَالُوا يَامُوسَى إِمَّا أَن تُلْقِيَ وَإِمَّا أَن نَّكُونَ) 7:115; 20:65
+- Er ist es, der euch sterben lässt, und mancher von euch wird zum niedrigsten Lebensalter zurückgebracht, damit. (يَتَوَفَّاكُمْ وَمِنكُم مَّن يُرَدُّ إِلَى أَرْذَلِ الْعُمُرِ لِكَيْ) 16:70; 22:5
+- Für sie sind bei ihrem Herrn Gärten, unter denen Flüsse strömen, darin werden sie ewig weilen. (رَبِّهِمْ جَنَّاتٌ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 3:15; 3:136
+- Und Wir haben über ihre Herzen Hüllen gelegt, damit sie es nicht verstehen, und in ihre Ohren Schwerhörigkeit. (وَجَعَلْنَا عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي آذَانِهِمْ) 17:46; 18:57
+- Wahrlich, das Versprechen Allahs ist wahr, aber die meisten von ihnen wissen nicht. (إِنَّ وَعْدَ اللَّهِ حَقٌّ وَلَكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ) 10:55; 28:13
+- Dies, weil sie sich Allah und Seinem Gesandten widersetzten; und wer sich Allah widersetzt. (ذَلِكَ بِأَنَّهُمْ شَاقُّوا اللَّهَ وَرَسُولَهُ وَمَن يُشَاقِقِ اللَّهَ) 8:13; 59:4
+- Und am Tag, da Er sie ruft und spricht: Wo sind Meine Teilhaber, die ihr (euch) eingebildet habt? (وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ أَيْنَ شُرَكَائِيَ الَّذِينَ كُنتُمْ تَزْعُمُونَ) 28:62; 28:74
+- Haben sie denn nicht gesehen, dass Allah, der die Himmel und die Erde erschaffen hat, fähig ist, ihresgleichen zu erschaffen? (أَوَلَمْ يَرَوْا أَنَّ اللَّهَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ) 17:99; 46:33
+- (Der) euch aus Erde erschuf, dann aus einem Tropfen, dann. (بِالَّذِي خَلَقَكَ مِن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ) 18:37; 40:67
+- Sie würden sagen: Unser Herr, warum hast du uns keinen Gesandten geschickt, damit wir deinen Zeichen folgen? (لَقَالُوا رَبَّنَا لَوْلَا أَرْسَلْتَ إِلَيْنَا رَسُولًا فَنَتَّبِعَ آيَاتِكَ) 20:134; 28:47
+- Dann wird ihre Rückkehr zu ihrem Herrn sein, und Er wird ihnen kundtun, was sie zu tun pflegten. (ثُمَّ إِلَى رَبِّهِم مَّرْجِعُهُمْ فَيُنَبِّئُهُم بِمَا كَانُوا يَعْمَلُونَ) 6:108; 39:7
+- Sie haben kein Wissen darüber; sie folgen nur Mutmaßungen. (مَّا لَهُم بِذَلِكَ مِنْ عِلْمٍ إِنْ هُمْ إِلَّا) 43:20; 45:24
+- Wir haben unsere Väter auf einer Religion vorgefunden, und wir folgen ihren Spuren. (إِنَّا وَجَدْنَا آبَاءَنَا عَلَى أُمَّةٍ وَإِنَّا عَلَى آثَارِهِم) 43:22; 43:23
+- Diejenigen, denen die Schrift gegeben wurde, wurden erst uneinig, nachdem das Wissen zu ihnen gekommen war. (الَّذِينَ أُوتُوا الْكِتَابَ إِلَّا مِن بَعْدِ مَا جَاءَهُمُ) 3:19; 98:4
+- Und als Abraham sagte: Mein Herr, mache diese Stadt sicher. (وَإِذْ قَالَ إِبْرَاهِيمُ رَبِّ اجْعَلْ هَذَا بَلَدًا آمِنًا) 2:126; 14:35
+- Und Er gab euch Gehör, Augenlicht und Herzen; wenig seid ihr dankbar. (وَجَعَلَ لَكُمُ السَّمْعَ وَالْأَبْصَارَ وَالْأَفْئِدَةَ قَلِيلًا مَّا تَشْكُرُونَ) 32:9; 67:23
+- Diejenigen, die über die Zeichen Allahs streiten, ohne eine Ermächtigung, die zu ihnen gekommen ist. (الَّذِينَ يُجَادِلُونَ فِي آيَاتِ اللَّهِ بِغَيْرِ سُلْطَانٍ أَتَاهُمْ) 40:35; 40:56
+- Folgt der Religion Abrahams, als Anhänger des reinen Glaubens, und er war nicht unter den Götzendienern. (فَاتَّبِعُوا مِلَّةَ إِبْرَاهِيمَ حَنِيفًا وَمَا كَانَ مِنَ الْمُشْرِكِينَ) 3:95; 16:123
+- Und als Wir euch vom Volk des Pharao erretteten, die euch die schlimmste Pein zufügten. (وَإِذْ أَنجَيْنَاكُم مِّنْ آلِ فِرْعَوْنَ يَسُومُونَكُمْ سُوءَ الْعَذَابِ) 7:141; 14:6
+- Das ist die richtige Religion, aber die meisten Menschen wissen nicht. (ذَلِكَ الدِّينُ الْقَيِّمُ وَلَكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ) 12:40; 30:30
+- Siehst du nicht, dass Allah euch dienstbar gemacht hat, was in den. (أَلَمْ تَرَ أَنَّ اللَّهَ سَخَّرَ لَكُم مَّا فِي) 22:65; 31:20
+- Diejenigen, die ungläubig waren, würden sagen: Das ist nichts als offenkundige Zauberei. (لَقَالَ الَّذِينَ كَفَرُوا إِنْ هَذَا إِلَّا سِحْرٌ مُّبِينٌ) 6:7; 11:7
+- Und wenn Unsere klaren Zeichen ihnen verlesen werden, sagen diejenigen, die ungläubig sind. (وَإِذَا تُتْلَى عَلَيْهِمْ آيَاتُنَا بَيِّنَاتٍ قَالَ الَّذِينَ كَفَرُوا) 19:73; 46:7
+- Die Gärten von Eden, unter denen Flüsse strömen, darin werden sie ewig weilen. (جَنَّاتُ عَدْنٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا) 20:76; 98:8
+- Er erschafft, was Er will; Allah hat Macht über alle Dinge. (مَا يَشَاءُ إِنَّ اللَّهَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ) 24:45; 35:1
+- Damit Er euch eure Sünden vergebe und euch bis zu einer bestimmten Frist aufschiebe. (لِيَغْفِرَ لَكُم مِّن ذُنُوبِكُمْ وَيُؤَخِّرَكُمْ إِلَى أَجَلٍ مُّسَمًّى) 14:10; 71:4
+- Wollt ihr uns davon abbringen, was unsere Väter verehrten? (تُرِيدُونَ أَن تَصُدُّونَا عَمَّا كَانَ يَعْبُدُ آبَاؤُنَا) 14:10; 34:43
+- Und als dein Herr zu den Engeln sprach: Ich werde einen Menschen aus Lehm erschaffen. (وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي خَالِقٌ بَشَرًا مِّن) 15:28; 38:71
+- Und Er ist es, der die Winde als Frohbotschaft vor Seiner Barmherzigkeit her sendet. (وَهُوَ الَّذِي يُرْسِلُ الرِّيَاحَ بُشْرًا بَيْنَ يَدَيْ رَحْمَتِهِ) 7:57; 25:48
+- Sag: Wandert auf der Erde und schaut, wie das Ende war. (قُلْ سِيرُوا فِي الْأَرْضِ فَانظُرُوا كَيْفَ كَانَ عَاقِبَةُ) 27:69; 30:42
+- In der Erschaffung der Himmel und der Erde und im Wechsel von Nacht und Tag (sind Zeichen). (إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ) 2:164; 3:190
+- Wer ist es, der Allah ein schönes Darlehen leiht, damit Er es ihm vervielfache? (مَّن ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا فَيُضَاعِفَهُ) 2:245; 57:11
+- Richte zwischen ihnen nach dem, was Allah herabgesandt hat, und folge nicht ihren Neigungen. (فَاحْكُم بَيْنَهُم بِمَا أَنزَلَ اللَّهُ وَلَا تَتَّبِعْ أَهْوَاءَهُمْ) 5:48; 5:49
+- Erwarten sie denn etwas anderes, als dass die Engel zu ihnen kommen oder dass der Befehl deines Herrn kommt? (هَلْ يَنظُرُونَ إِلَّا أَن تَأْتِيَهُمُ الْمَلَائِكَةُ أَوْ يَأْتِيَ) 6:158; 16:33
+- Wahrlich, diejenigen, die gegen Allah Lügen erdichten, werden nicht erfolgreich sein. (إِنَّ الَّذِينَ يَفْتَرُونَ عَلَى اللَّهِ الْكَذِبَ لَا يُفْلِحُونَ) 10:69; 16:116
+- Wie die Art des Volkes des Pharao und derer, die vor ihnen waren – sie verleugneten Unsere Zeichen. (كَدَأْبِ آلِ فِرْعَوْنَ وَالَّذِينَ مِن قَبْلِهِمْ كَذَّبُوا بِآيَاتِنَا) 3:11; 8:54
+- Und er verkündet den Gläubigen, die gute Werke tun, eine frohe Botschaft, dass ihnen ein Lohn zusteht. (وَيُبَشِّرُ الْمُؤْمِنِينَ الَّذِينَ يَعْمَلُونَ الصَّالِحَاتِ أَنَّ لَهُمْ أَجْرًا) 17:9; 18:2
+- Allah gewährt den Lebensunterhalt großzügig, wem Er will von Seinen Dienern, und bemisst ihn. (اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ) 28:82; 29:62
+- Und ihr werdet zu dem zurückgebracht, der das Verborgene und das Offenbare weiß, und Er wird euch kundtun, was ihr zu tun pflegtet. (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
+- Und die Blutsverwandten sind einander näher gemäß dem Buch Allahs. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
 """;
