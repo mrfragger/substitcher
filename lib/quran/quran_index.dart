@@ -54,8 +54,8 @@ import 'quran_index_Malagasy.dart';
 import 'quran_index_Malay.dart';
 import 'quran_index_Malayalam.dart';
 import 'quran_index_Marathi.dart';
-import 'quran_index_Moore.dart';
 import 'quran_index_Mongolian.dart';
+import 'quran_index_Moore.dart';
 import 'quran_index_Nepali.dart';
 import 'quran_index_Norwegian.dart';
 import 'quran_index_Odia.dart';
@@ -503,8 +503,8 @@ const List<String> availableQuranIndexLanguages = [
   'Malay',
   'Malayalam',
   'Marathi',
-  'Moore',
   'Mongolian *',
+  'Moore',
   'Nepali *',
   'Norwegian *',
   'Odia *',
@@ -655,10 +655,10 @@ String getQuranIndexRaw(String language) {
       return quranIndexMalayalamRaw;
     case 'Marathi':
       return quranIndexMarathiRaw;
-    case 'Moore':
-      return quranIndexMooreRaw;
     case 'Mongolian *':
       return quranIndexMongolianRaw;
+    case 'Moore':
+      return quranIndexMooreRaw;
     case 'Nepali *':
       return quranIndexNepaliRaw;
     case 'Norwegian *':

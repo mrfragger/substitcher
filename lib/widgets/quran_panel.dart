@@ -145,13 +145,13 @@ class _QuranPanelState extends State<QuranPanel> {
       'رب',
     ],
     'Kurdish': [
-      // Allah
+      // Sorani (Arabic script)
       'خوای', 'الله',
-      // Lord/God (Sorani Kurdish)
       'پەروەردگاری', 'پەروەردگار',
       'خودای', 'خودا',
-      // Compound with possessive
       'خوداوەند', 'خوداوەندی',
+      // Kurmanji (Latin script)
+      'Xwedayê', 'Xwedê',
     ],
     'Pashto': [
       // Allah (Pashto often uses الله directly)
@@ -182,6 +182,25 @@ class _QuranPanelState extends State<QuranPanel> {
       // Fallback Arabic forms (in case any verse uses them)
       'الله', 'اﷲ',
     ],
+    'Hebrew': [
+      // Allah
+      'אללה',
+      // Lord/Rabb variations
+      'ריבוני', 'ריבונך', 'ריבונו', 'ריבון',
+      'ריבי', 'ריבם', 'ריבך', 'ריבנו', 'ריבכם',
+      'אלוהי', 'אלוהיו', 'אלוהינו', 'אלוהיך', 'אלוהיכם',
+      'אלוה', 'אלוהים',
+      'אדוני', 'אדונינו', 'אדוניך', 'אדוניכם',
+      'אדון',
+      'א-להים', 'א-להיך',
+      'השם',
+    ],
+    'Dari': [
+      'بالله', 'والله', 'لله', 'الله',
+      'خداوندا', 'خداوندی', 'خداوند',
+      'خدایا', 'خدای', 'خدا',
+      'پروردگارا', 'پروردگاری', 'پروردگار',
+    ],
     'English': [
       'Allah\u2019s',
       'Allāh\u2019s',
@@ -200,6 +219,12 @@ class _QuranPanelState extends State<QuranPanel> {
       'Lord\'s',
       'Lord',
     ],
+    'Albanian': [
+      'All-llahun', 'All-llahut', 'All-llahu',
+      'Allahun', 'Allahut', 'Allahu',
+      'Zotin', 'Zotit', 'Zoti',
+    ],
+    'AsanteTwi': ['Nyankopɔn', 'Awurade', 'Wura Nyankopɔn'],
     'Assamese': [
       'আল্লাহৰ',
       'আল্লাহে',
@@ -226,7 +251,13 @@ class _QuranPanelState extends State<QuranPanel> {
       'Allaha',
       'Allah'
     ],
+    'Belarusian': [
+      'Аллаха', 'Аллах',
+      'Госпада', 'Госпаду', 'Госпадам', 'Госпадзе', 'Госпад',
+    ],
     'Bengali': ['আল্লাহর', 'আল্লাহ্', 'আল্লাহ', 'রব', 'প্রতিপালক'],
+    'Bulgarian': ['Аллах', 'Господа', 'Господи', 'Господ', 'Бог'],
+    'Burmese *': ['အလ္လာဟ်အရှင်မြတ်', 'အလ္လာဟ်', 'အရှင်မြတ်', 'အရှင်'],
     'Bosnian': [
       'Allahovoj',
       'Allahova',
@@ -241,7 +272,27 @@ class _QuranPanelState extends State<QuranPanel> {
       'Allaha',
       'Allah'
     ],
+    'Chichewa': ['Allah', 'Mulungu', 'Mbuye'],
     'Chinese': ['安拉', '真主'],
+    'ChineseTrad *': ['安拉', '真主'],
+    'Circassian *': [
+      'Аллахым', 'Аллах',
+      'Аллаhыр', 'Аллаhым', 'Аллаhми', 'Аллаhм',
+      'Тхьэм', 'Тхьэр', 'Тхьэ',
+    ],
+    'Czech *': [
+      'Alláhovo', 'Alláhův', 'Alláhovu', 'Alláhovi', 'Alláhem', 'Alláha', 'Alláh',
+      'Allahovi', 'Allaha',
+      'Bůh', 'Boha', 'Bohu',
+      'Pána', 'Pánu', 'Pane', 'Pán',
+    ],
+    'Dagbani': ['Naawuni', 'Duuma'],
+    'Finnish *': [
+      'Allahkin', 'Allahilta', 'Allahille', 'Allahia', 'Allahin', 'Allah',
+      'Jumalanne', 'Jumalasta', 'Jumalaa', 'Jumalan', 'Jumala',
+      'Herralleni', 'Herraansa', 'Herralleen', 'Herranne', 'Herralta',
+      'Herraan', 'Herrani', 'Herrasi', 'Herran', 'Herra',
+    ],
     'French': [
       'qu\u2019Allah',
       'qu\'Allah',
@@ -250,11 +301,140 @@ class _QuranPanelState extends State<QuranPanel> {
       'Allah',
       'Seigneur'
     ],
+    'Fula': ['Alla', 'Joomi'],
     'Fulani': ['Alla', 'Joomi'],
+    'Georgian *': [
+      'ალაჰისათვის', 'ალაჰისგან', 'ალაჰზე', 'ალაჰმა', 'ალაჰსა', 'ალაჰის', 'ალაჰთან', 'ალაჰს', 'ალაჰი', 'ალაჰისა',
+      'უფლისაგან', 'უფლის', 'უფალო', 'უფალს', 'უფალი',
+    ],
+    'Gujarati': [
+      // Primary term for Allah
+      'અલ્લાહ',
+      // Terms for Lord/Rabb with various suffixes (my, your, our, etc.)
+      'પાલનહાર',          // Base form (Lord/Sustainer)
+      'પાલનહારનો',        // Of the Lord
+      'પાલનહારની',        // Of the Lord (feminine)
+      'પાલનહારનું',       // Of the Lord (neuter)
+      'પાલનહારે',         // Lord (ergative)
+      'પાલનહારથી',        // From the Lord
+      'પાલનહાર તરફથી',   // From the Lord
+      'પાલનહાર પર',       // Upon the Lord
+      'મારા પાલનહાર',    // My Lord
+      'તમારા પાલનહાર',   // Your Lord (plural/formal)
+      'તારા પાલનહાર',    // Your Lord (singular/informal)
+      'તેના પાલનહાર',    // His Lord
+      'અમારા પાલનહાર',   // Our Lord
+      // Other terms
+      'રબ્બ',             // Rabb (Arabic loanword)
+      'ઇલાહ',             // Ilaah (God)
+      'ખુદા',             // Khuda (God/Lord)
+    ],
+    'Greek': ['Αλλάχ', 'Θεός', 'Κύριός', 'Κύριος', 'Κυρίου', 'Κύριό', 'Κύριε', 'Κύριέ', 'Κύριο'],
     'Hindi': ['अल्लाह', 'रब्ब', 'परवरदिगार'],
     'Indonesian': ['Allahlah', 'Allah', 'Rabb', 'Tuhan'],
     'Italian': ['Allāh', 'Allah', 'Dio'],
     'Japanese': ['アッラー', '主よ', '主に'],
+    'Kannada': [
+      // ===== ALLAH (ಅಲ್ಲಾಹ) with all suffixes =====
+      // Base forms
+      'ಅಲ್ಲಾಹ',           // Base form
+      'ಅಲ್ಲಾಹ್',          // With halant
+
+      // Allah with case endings
+      'ಅಲ್ಲಾಹನು',         // Allah (nominative) - "ಅಲ್ಲಾಹನು ಹೇಳಿದನು"
+      'ಅಲ್ಲಾಹನ',          // Allah's (genitive)
+      'ಅಲ್ಲಾಹನಿಗೆ',       // To Allah (dative)
+      'ಅಲ್ಲಾಹನನ್ನು',      // Allah (accusative)
+      'ಅಲ್ಲಾಹನಿಂದ',       // From Allah (ablative)
+      'ಅಲ್ಲಾಹನಲ್ಲಿ',      // In/on Allah
+
+      // ===== LORD (ಒಡೆಯ - Odeya) with all suffixes =====
+      // Base forms
+      'ಒಡೆಯ',              // Lord (base form)
+
+      // Lord with case endings
+      'ಒಡೆಯನ',            // Lord's / of the Lord (genitive)
+      'ಒಡೆಯನು',            // Lord (nominative)
+      'ಒಡೆಯನಿಗೆ',          // To the Lord (dative)
+      'ಒಡೆಯನನ್ನು',         // Lord (accusative)
+      'ಒಡೆಯನಿಂದ',          // From the Lord (ablative)
+      'ಒಡೆಯನಲ್ಲಿ',         // In/on the Lord
+
+      // Lord with possessive pronouns
+      'ಅವರ ಒಡೆಯನ',        // Their Lord
+      'ತನ್ನ ಒಡೆಯನ',        // His/Her Lord
+      'ನನ್ನ ಒಡೆಯನ',        // My Lord
+      'ನಿಮ್ಮ ಒಡೆಯನ',       // Your Lord (formal/plural)
+      'ನಮ್ಮ ಒಡೆಯನ',        // Our Lord
+      'ತಮ್ಮ ಒಡೆಯನ',        // Their Lord (reflexive)
+      'ಅವರ ಒಡೆಯ',          // Their Lord (without suffix)
+      'ತನ್ನ ಒಡೆಯ',          // His/Her Lord (without suffix)
+      'ನನ್ನ ಒಡೆಯ',          // My Lord (without suffix)
+      'ನಿಮ್ಮ ಒಡೆಯ',         // Your Lord (without suffix)
+      'ನಮ್ಮ ಒಡೆಯ',          // Our Lord (without suffix)
+
+      // ===== GOD (ದೇವರು - Devaru) with all suffixes =====
+      'ದೇವರು',             // God (nominative)
+      'ದೇವರ',              // God's (genitive)
+      'ದೇವರಿಗೆ',            // To God (dative)
+      'ದೇವರನ್ನು',           // God (accusative)
+      'ದೇವರಿಂದ',           // From God (ablative)
+
+      // ===== OTHER TERMS =====
+      'ಪ್ರಭು',              // Lord (Prabhu)
+      'ರುಬೂಬಿಯ್ಯಾಹ್',      // Rububiyyah (Lordship)
+      'ರುಬೂಬಿಯ್ಯಾಹ',       // Rububiyyah (without visarga)
+    ],
+    'Kazakh': [
+      // ===== ALLAH (Аллаһ) with all suffixes =====
+      // Base forms
+      'Аллаһ',           // Base form
+      'Аллаһқа',         // To Allah (dative)
+      'Аллаһты',          // Allah (accusative)
+      'Аллаһтан',         // From Allah (ablative)
+      'Аллаһтың',         // Allah's (genitive)
+      'Аллаһта',          // In/on Allah (locative)
+
+      // ===== LORD (Раббы - Rabb) with possessive suffixes =====
+      // Base forms
+      'Раббы',            // Lord (base/nominative)
+      'Раббысы',          // His/Her Lord (3rd person)
+      'Раббысына',        // To his/her Lord (dative)
+      'Раббысынан',       // From his/her Lord (ablative)
+      'Раббысының',       // His/her Lord's (genitive)
+
+      // Possessive forms (from your samples!)
+      'Раббым',           // My Lord
+      'Раббың',           // Your Lord (singular)
+      'Раббыңа',          // To your Lord (dative)
+      'Раббыңнан',        // From your Lord (ablative)
+      'Раббыңның',        // Your Lord's (genitive)
+      'Раббыңыз',         // Your Lord (plural/formal)
+      'Раббымыз',         // Our Lord
+      'Раббылары',        // Their Lord
+      'Раббыларына',      // To their Lord (dative)
+      'Раббыларынан',     // From their Lord (ablative)
+      'Раббыларың',       // Your (plural) Lord
+      'Раббыларыңа',      // To your (plural) Lord
+
+      // ===== LORD with other forms =====
+      'Раббыларының',     // Their Lord's (genitive)
+      'Раббымызға',       // To our Lord (dative)
+      'Раббымыздан',      // From our Lord (ablative)
+      'Раббымыздың',      // Our Lord's (genitive)
+
+      // ===== GOD (Құдай) variations =====
+      'Құдай',            // God
+      'Құдайға',          // To God (dative)
+      'Құдайды',          // God (accusative)
+      'Құдайдан',         // From God (ablative)
+      'Құдайдың',         // God's (genitive)
+
+      // ===== OTHER TERMS =====
+      'Рубұбияһ',         // Rububiyyah (Lordship)
+      'Рубұбияһын',       // Rububiyyah (with possessive)
+      'Иелік',            // Lordship/dominion
+    ],
     'Khmer': ['អល់ឡោះ', 'ម្ចាស់'],
     'Kyrgyz': [
       'Аллахтын',
@@ -267,6 +447,146 @@ class _QuranPanelState extends State<QuranPanel> {
       'Аллах',
       'Алла'
     ],
+    'Lithuanian': [
+      // ===== ALLAH (Alachas / Allahas) with all cases =====
+      // Nominative (subject)
+      'Alachas',          // Allah (nominative)
+      'Allahas',          // Allah (nominative - alternative spelling)
+      // Genitive (possessive - "of Allah")
+      'Alacho',           // Allah's / of Allah (genitive)
+      'Allaho',           // Allah's / of Allah (genitive - alternative)
+      // Dative (indirect object - "to Allah")
+      'Alachui',          // To Allah (dative)
+      'Allahui',          // To Allah (dative - alternative)
+      // Accusative (direct object)
+      'Alachą',           // Allah (accusative)
+      'Allahą',           // Allah (accusative - alternative)
+      // Instrumental (with/by Allah)
+      'Alachu',           // With/by Allah (instrumental)
+      'Allahu',           // With/by Allah (instrumental - alternative)
+      // Locative (in/on Allah)
+      'Alache',           // In/on Allah (locative)
+      'Allahe',           // In/on Allah (locative - alternative)
+      // Vocative (calling)
+      'Alache',           // O Allah! (vocative)
+      'Allahe',           // O Allah! (vocative - alternative)
+
+      // ===== LORD (Viešpats) with all cases =====
+      // Nominative (subject)
+      'Viešpats',         // Lord (nominative)
+      // Genitive (possessive - "of the Lord")
+      'Viešpaties',       // Lord's / of the Lord (genitive)
+      // Dative (indirect object - "to the Lord")
+      'Viešpačiui',       // To the Lord (dative)
+      // Accusative (direct object)
+      'Viešpatį',         // Lord (accusative)
+      // Instrumental (with/by the Lord)
+      'Viešpačiu',        // With/by the Lord (instrumental)
+      // Locative (in/on the Lord)
+      'Viešpatyje',       // In/on the Lord (locative)
+      // Vocative (calling)
+      'Viešpatie',        // O Lord! (vocative)
+
+      // ===== LORD with possessive pronouns (my, your, etc.) =====
+      'mano Viešpats',    // My Lord
+      'mano Viešpatie',   // My Lord (vocative)
+      'tavo Viešpats',    // Your Lord (singular)
+      'tavo Viešpatie',   // Your Lord (vocative)
+      'jūsų Viešpats',    // Your Lord (plural/formal)
+      'mūsų Viešpats',    // Our Lord
+      'savo Viešpats',    // His/Her/Their Lord (reflexive)
+      'savo Viešpatie',   // His/Her/Their Lord (vocative)
+
+      // ===== GOD (Dievas) with all cases =====
+      // Nominative (subject)
+      'Dievas',           // God (nominative)
+      // Genitive (possessive - "of God")
+      'Dievo',            // God's / of God (genitive)
+      // Dative (indirect object - "to God")
+      'Dievui',           // To God (dative)
+      // Accusative (direct object)
+      'Dievą',            // God (accusative)
+      // Instrumental (with/by God)
+      'Dievu',            // With/by God (instrumental)
+      // Locative (in/on God)
+      'Dieve',            // In/on God (locative)
+      // Vocative (calling)
+      'Dieve',            // O God! (vocative)
+
+      // ===== OTHER TERMS =====
+      'Ruboobiyyah',      // Rububiyyah (Lordship)
+      'Viešpatystę',      // Lordship/dominion (accusative)
+    ],
+    'Luganda': [
+      'Mukama wammwe',
+      'Mukama wange',
+      'Mukama waffe',
+      'Mukama wabwe',
+      'Ruboobiyyah',
+      'Mukama',
+      'Katonda',
+      "Allah'",
+      'Allah',
+      'Obukama',
+    ],
+    'Luhya': [
+      // Longest first - possessive phrases
+      'Nyasaye wabwene',
+      'Nyasaye wabandu',
+      'Nyasaye wabwo',
+      'Nyasaye wafwe',
+      'Nyasaye wabwe',
+      'Nyasaye wanyu',
+      // Possessive with linking vowels
+      'Nyasaye Wase',
+      'Nyasaye Wowo',
+      // Base form
+      'Nyasaye',
+      "Allah'",
+      'Allah',
+      // Other terms
+      'Ruboobiyyah',
+      'Obukama',
+      'Omukali',
+      'Omukhasi',
+    ],
+    'Macedonian': [
+      // Longest first - Allah forms
+      'Аллаховото',
+      'Аллахови',
+      'Аллахова',
+      'Аллахово',
+      'Аллахов',
+      'Аллахот',
+      'Аллаха',
+      'Аллаху',
+      'Аллах',
+      // Lord forms with definite article and cases
+      'Господарот',
+      'Господаро',
+      'Господару',
+      'Господаров',
+      'Господа',
+      'Господ',
+      // Господар variations
+      'Господарот',
+      'Господару',
+      'Господар',
+      // Lord with possessives (multi-word)
+      'Господару мој',
+      'Господ мој',
+      'својот Господ',
+      'мојот Господ',
+      'твојот Господ',
+      'неговиот Господ',
+      'нејзиниот Господ',
+      'нашиот Господ',
+      'вашиот Господ',
+      'нивниот Господ',
+      // Other terms
+      'Рубобијјата',
+      'Рубобијја',
+    ],
     'Malayalam': [
       'അല്ലാഹുവിൻ്റെ',
       'അല്ലാഹുവിന്റെ',
@@ -275,6 +595,231 @@ class _QuranPanelState extends State<QuranPanel> {
       'അല്ലാഹുവിന്',
       'അല്ലാഹു',
       'റബ്ബ്'
+    ],
+    'Marathi': [
+      // Longest first - Lord (पालनहर्ता) forms
+      'पालनहर्त्याकडून',
+      'पालनहर्त्याकडे',
+      'पालनहर्त्याचा',
+      'पालनहर्त्याची',
+      'पालनहर्त्याचे',
+      'पालनहर्त्यास',
+      'पालनहर्त्या',
+      'पालनहर्ता',
+      // Lord with possessives
+      'माझ्या पालनहर्त्या',
+      'माझा पालनहर्ता',
+      'तुमचा पालनहर्ता',
+      'आपला पालनहर्ता',
+      'त्यांचा पालनहर्ता',
+      'त्याचा पालनहर्ता',
+      'तिचा पालनहर्ता',
+      // Allah with postpositions (longest first)
+      'अल्लाहकडून',
+      'अल्लाहबद्दल',
+      'अल्लाहकडे',
+      'अल्लाहसाठी',
+      'अल्लाहच्या',
+      'अल्लाहचा',
+      'अल्लाहची',
+      'अल्लाहचे',
+      'अल्लाहने',
+      'अल्लाहला',
+      'अल्लाहवर',
+      'अल्लाहशी',
+      'अल्लाह',
+      // Other terms
+      'रुबूबिय्याह',
+      'प्रभु',
+      'प्रभू',
+    ],
+    'Mongolian *': [
+      // Primary term for Allah
+      'Аллах',
+      'Аллахын',      // Allah's (genitive)
+      'Аллахийн',     // Allah's (alternative genitive)
+      'Аллахад',      // To Allah (dative)
+      'Аллахыг',      // Allah (accusative)
+      'Аллахаас',     // From Allah (ablative)
+      // Terms for Lord (Эзэн) with various suffixes
+      'Эзэн',          // Lord (base form)
+      'Эзэнийхээ',     // His/Her Lord's
+      'Эзэндээ',       // To his/her Lord
+      'Эзнийхээ',      // Of his Lord
+      'Эзэнд',         // To the Lord
+      'Эзэнээс',       // From the Lord
+      'Эзний',         // Of the Lord
+      'Эзэний',        // Of the Lord (alternative)
+      'Эзэн минь',     // My Lord
+      'Эзэн маань',    // Our Lord
+      'Таны Эзэн',     // Your Lord (formal)
+      'Та нарын Эзэн', // Your (plural) Lord
+      'түүний Эзэн',   // His Lord
+      // Terms for God (Бурхан)
+      'Бурхан',        // God
+      'Бурхны',        // God's (genitive)
+      'Бурханд',       // To God (dative)
+      'Бурханыг',      // God (accusative)
+      'Бурханаас',     // From God (ablative)
+      // Arabic loanword
+      'Рубүбийях',     // Rububiyyah (Lordship)
+    ],
+    'Moore': [
+      // Longest first
+      'Wẽnnaam',
+      'Rububiyya',
+      // Allah forms with concords
+      'Allah',
+      'Alla',
+      'Wẽnd',
+      // Lord with possessives
+      'M Dũnni',
+      'fo Dũnni',
+      'a Dũnni',
+      'tõnd Dũnni',
+      'yãmb Dũnni',
+      'b Dũnni',
+      'Dũnia',
+      'Dũnni',
+      'Naam',
+    ],
+    'Nepali *': [
+      // ===== ALLAH (अल्लाह) with all suffixes =====
+      'अल्लाहबाट',         // From Allah (ablative) - length: 7
+      'अल्लाहलाई',          // To Allah (dative) - length: 7
+      'अल्लाहमा',           // In/on Allah (locative) - length: 6
+      'अल्लाहको',           // Allah's / of Allah (genitive) - length: 6
+      'अल्लाहले',           // Allah (ergative) - length: 6
+      'अल्लाह',             // Base form - length: 5
+
+      // ===== LORD (पालनकर्ता) with all suffixes =====
+      'उनीहरूको पालनकर्ता', // Their Lord - length: 17
+      'तपाईंको पालनकर्ता',  // Your Lord (plural/formal) - length: 16
+      'पालनकर्ताबाट',       // From the Lord (ablative) - length: 11
+      'पालनकर्तालाई',       // To the Lord (dative) - length: 11
+      'पालनकर्ताको',        // Lord's / of the Lord (genitive) - length: 10
+      'पालनकर्ताले',        // Lord (ergative) - length: 10
+      'पालनकर्तामा',         // In/on the Lord (locative) - length: 10
+
+      // Lord with possessive pronouns
+      'हाम्रो पालनकर्ता',    // Our Lord - length: 14
+      'तिम्रो पालनकर्ता',    // Your Lord (singular/informal) - length: 14
+      'मेरो पालनकर्ता',      // My Lord - length: 12
+      'उसको पालनकर्ता',      // His/Her Lord - length: 13
+      'पालनकर्ता',           // Lord (base form) - length: 8
+
+      // ===== OTHER TERMS =====
+      'सर्वशक्तिमान',        // Almighty - length: 10
+      'प्रभु',               // Lord (alternative) - length: 4
+      'रब्ब',                // Rabb (Arabic loanword) - length: 3
+    ],
+    'Odia *': [
+      // ===== ALLAH (ଆଲ୍ଲାହ) with all suffixes =====
+      // Longest first - Allah with full phrases
+      'ଆଲ୍ଲାହଙ୍କଠାରୁ',     // From Allah (ablative) - length: 11
+      'ଆଲ୍ଲାହଙ୍କଠାରେ',     // In/on Allah (locative) - length: 11
+      'ଆଲ୍ଲାହଙ୍କଦ୍ୱାରା',    // By Allah (instrumental) - length: 12
+      'ଆଲ୍ଲାହଙ୍କ ପ୍ରତି',    // Towards Allah - length: 10
+      'ଆଲ୍ଲାହଙ୍କ ନିକଟରେ',  // Near Allah - length: 14
+      'ଆଲ୍ଲାହଙ୍କ ପାଇଁ',     // For Allah - length: 9
+      'ଆଲ୍ଲାହଙ୍କ ସହିତ',    // With Allah - length: 10
+      'ଆଲ୍ଲାହଙ୍କ ବିଷୟରେ',  // About Allah - length: 13
+
+      // Allah with case suffixes
+      'ଆଲ୍ଲାହଙ୍କ',          // Allah's / of Allah (genitive) - length: 7
+      'ଆଲ୍ଲାହଙ୍କୁ',         // To Allah (dative) - length: 7
+      'ଆଲ୍ଲାହଙ୍କର',         // Allah's (alternative genitive) - length: 7
+      'ଆଲ୍ଲାହ',             // Base form - length: 4
+
+      // ===== LORD (ପ୍ରଭୁ) with all suffixes =====
+      // Longest first - Lord with full phrases
+      'ସମଗ୍ର ବିଶ୍ୱର ପ୍ରଭୁଙ୍କ', // Lord of all the worlds (genitive) - length: 18
+      'ସମଗ୍ର ବିଶ୍ୱର ପ୍ରଭୁ',   // Lord of all the worlds - length: 16
+      'ତୁମ୍ଭମାନଙ୍କର ପ୍ରଭୁ',    // Your Lord (plural) - length: 15
+      'ସେମାନଙ୍କର ପ୍ରଭୁ',       // Their Lord - length: 13
+      'ଆପଣଙ୍କର ପ୍ରଭୁ',        // Your Lord (formal) - length: 12
+
+      // Lord with possessive pronouns
+      'ପ୍ରଭୁଙ୍କଠାରୁ',         // From the Lord (ablative) - length: 10
+      'ପ୍ରଭୁଙ୍କଠାରେ',         // In/on the Lord (locative) - length: 10
+      'ପ୍ରଭୁଙ୍କଦ୍ୱାରା',        // By the Lord (instrumental) - length: 11
+      'ମୋର ପ୍ରଭୁଙ୍କ',          // My Lord's - length: 9
+      'ଆମର ପ୍ରଭୁ',            // Our Lord - length: 8
+      'ନିଜର ପ୍ରଭୁ',            // His/Her/Their own Lord - length: 9
+      'ତୁମ୍ଭର ପ୍ରଭୁ',          // Your Lord (singular) - length: 9
+      'ମୋର ପ୍ରଭୁ',             // My Lord - length: 7
+
+      // Lord with case suffixes
+      'ପ୍ରଭୁଙ୍କ',             // Lord's / of the Lord (genitive) - length: 6
+      'ପ୍ରଭୁଙ୍କୁ',            // To the Lord (dative) - length: 6
+      'ପ୍ରଭୁଙ୍କର',            // Lord's (alternative genitive) - length: 6
+      'ପ୍ରଭୁ',                // Lord (base form) - length: 3
+
+      // ===== OTHER TERMS =====
+      'ମହାନ୍ ପ୍ରଭୁ',          // Great Lord - length: 8
+      'ପରାକ୍ରମଶାଳୀ',          // Almighty - length: 8
+      'ରୁବୂବିଯ୍ୟା',           // Rububiyyah (Lordship) - length: 8
+      'ଦେବତା',               // God/Deity - length: 4
+    ],
+    'Punjabi': [
+      // ===== ALLAH (ਅੱਲਾਹ / اللہ) with all suffixes =====
+      // Longest first - Allah with full phrases
+      'ਅੱਲਾਹ',           // Base form - length: 5
+      'ਅੱਲਾਹ ਦੀ',         // Allah's (feminine) - length: 7
+      'ਅੱਲਾਹ ਦਾ',         // Allah's (masculine) - length: 7
+      'ਅੱਲਾਹ ਦੇ',         // Allah's (oblique) - length: 7
+      'ਅੱਲਾਹ ਨੂੰ',         // To Allah (dative) - length: 7
+      'ਅੱਲਾਹ ਤੋਂ',         // From Allah (ablative) - length: 7
+      'ਅੱਲਾਹ ਵੱਲ',         // Towards Allah - length: 7
+      'ਅੱਲਾਹ ਉੱਤੇ',        // Upon Allah - length: 8
+      'ਅੱਲਾਹ ਕੋਲ',         // Near Allah - length: 7
+      'ਅੱਲਾਹ ਲਈ',          // For Allah - length: 6
+      'ਅੱਲਾਹ ਨਾਲ',         // With Allah - length: 7
+      'ਅੱਲਾਹ ਬਾਰੇ',        // About Allah - length: 7
+
+      // Also in Shahmukhi script (used in Punjabi)
+      'اللہ',              // Allah (Shahmukhi) - length: 3
+      'اللہ دا',           // Allah's (Shahmukhi) - length: 5
+      'اللہ دی',           // Allah's (Shahmukhi) - length: 5
+      'اللہ دے',           // Allah's (Shahmukhi) - length: 5
+      'اللہ نوں',          // To Allah (Shahmukhi) - length: 5
+      'اللہ توں',          // From Allah (Shahmukhi) - length: 5
+      'اللہ ولوں',         // From Allah (Shahmukhi) - length: 6
+
+      // ===== LORD (ਰੱਬ) with all suffixes =====
+      // Longest first - Lord with full phrases
+      'ਸਾਰੇ ਸੰਸਾਰ ਦਾ ਰੱਬ', // Lord of all the worlds - length: 16
+      'ਸਾਰੇ ਸੰਸਾਰ ਦੇ ਰੱਬ', // Lord of all the worlds (oblique) - length: 16
+      'ਸਾਰੇ ਸੰਸਾਰ ਦੇ ਰੱਬ ਵੱਲੋਂ', // From the Lord of all worlds - length: 21
+      'ਤੁਹਾਡੇ ਰੱਬ',       // Your Lord (plural/formal) - length: 9
+      'ਆਪਣੇ ਰੱਬ',         // Your own Lord - length: 7
+      'ਉਹਨਾਂ ਦਾ ਰੱਬ',      // Their Lord - length: 10
+      'ਉਹਨਾਂ ਦੇ ਰੱਬ',      // Their Lord (oblique) - length: 10
+
+      // Lord with possessive pronouns
+      'ਮੇਰੇ ਰੱਬ',          // My Lord - length: 7
+      'ਮੇਰਾ ਰੱਬ',          // My Lord (alternative) - length: 7
+      'ਤੇਰੇ ਰੱਬ',          // Your Lord (singular) - length: 7
+      'ਤੇਰਾ ਰੱਬ',          // Your Lord (singular) - length: 7
+      'ਸਾਡੇ ਰੱਬ',          // Our Lord - length: 7
+      'ਸਾਡਾ ਰੱਬ',          // Our Lord - length: 7
+
+      // Lord with case suffixes
+      'ਰੱਬ ਵੱਲੋਂ',         // From the Lord - length: 7
+      'ਰੱਬ ਦਾ',            // Lord's / of the Lord (masculine) - length: 5
+      'ਰੱਬ ਦੀ',            // Lord's / of the Lord (feminine) - length: 5
+      'ਰੱਬ ਦੇ',            // Lord's / of the Lord (oblique) - length: 5
+      'ਰੱਬ ਨੂੰ',            // To the Lord (dative) - length: 5
+      'ਰੱਬ ਤੋਂ',            // From the Lord (ablative) - length: 5
+      'ਰੱਬ',               // Lord (base form) - length: 3
+
+      // ===== OTHER TERMS =====
+      'ਮਹਾਨ ਰੱਬ',          // Great Lord - length: 7
+      'ਰੁਬੂਬੀਅਤ',          // Rububiyyah (Lordship) - length: 8
+      'ਪ੍ਰਭੂ',             // Lord (alternative) - length: 4
+      'ਪਾਲਣਹਾਰ',           // Sustainer/Cherisher - length: 6
+      'ਖੁਦਾ',              // God/Khuda - length: 3
+      'ਇੱਕ ਰੱਬ',           // One Lord - length: 5
     ],
     'Russian': [
       'Аллахом',
@@ -375,13 +920,19 @@ class _QuranPanelState extends State<QuranPanel> {
     'Hausa': ['Allahu', 'Allah', 'Ubangiji'],
     'Korean': ['알라', '하나님', '주님'],
     'Malagasy': ['Tompo', 'Allah', 'Andriamanitra'],
-    'Nepali': ['अल्लाह', 'पालनकर्ता'],
     'Oromo': [
       'Rabbiitiin',
+      'Rabbiitiif',
+      'Rabbiinis',
+      'Rabbiiti',
       'Rabbiin',
       'Rabbiif',
       'Rabbitti',
+      'Rabbii',
       'Rabbi',
+      'Allaahi',
+      'Allaahn',
+      'Allahi',
       'Allah',
       'Waaqayyo'
     ],
@@ -390,19 +941,24 @@ class _QuranPanelState extends State<QuranPanel> {
     'Tajik': ['Аллоҳ', 'Худо', 'Парвардигор'],
   };
   static const Map<String, String> _scriptRanges = {
-    'latin': r'a-zA-ZÀ-ÿçÇğĞıİöÖşŞüÜ',
-    'cyrillic': r'а-яёА-ЯЁҳқғўӯ',
+    'latin': r'a-zA-ZÀ-ÿçÇğĞıİöÖşŞüÜɔɛƆƐɣŋʒƔŊƷɩƖʋƲ',
+    'cyrillic': r'а-яёА-ЯЁҳқғўЎіӯӀәӘғҒқҚңҢөӨұҰүҮһҺіІ',
+    'georgian': r'\u10A0-\u10FF',
+    'greek': r'\u0370-\u03FF',
     'arabic': r'\u0600-\u06FF\u0750-\u077F\uFB50-\uFDFF\uFE70-\uFEFF',
     'hebrew': r'\u0590-\u05FF',
     'nko': r'\u07C0-\u07FF',
     'bengali': r'\u0980-\u09FF',
     'devanagari': r'\u0900-\u097F', // Hindi
+    'gujarati': r'\u0A80-\u0AFF',
+    'kannada': r'\u0C80-\u0CFF',
     'tamil': r'\u0B80-\u0BFF',
     'telugu': r'\u0C00-\u0C7F',
     'malayalam': r'\u0D00-\u0D7F',
     'sinhala': r'\u0D80-\u0DFF',
     'thai': r'\u0E00-\u0E7F',
     'khmer': r'\u1780-\u17FF',
+    'myanmar': r'\u1000-\u109F',
     'cjk': r'\u4E00-\u9FFF\u3040-\u30FF', // Chinese + Japanese kana
     'hangul': r'\uAC00-\uD7AF\u1100-\u11FF',
     'ethiopic': r'\u1200-\u137F',
@@ -604,6 +1160,47 @@ class _QuranPanelState extends State<QuranPanel> {
         ),
       ),
     );
+  }
+
+  // Matches Arabic diacritics (tashkeel/harakat) so Quranic text — which is
+  // conventionally fully vocalized — can still be matched against plain,
+  // undiacritized dictionary entries like 'الله' or 'ربكم'.
+  static final RegExp _arabicDiacriticsPattern = RegExp(
+    r'[\u0610-\u061A\u064B-\u065F\u0670\u06D6-\u06DC\u06DF-\u06E8\u06EA-\u06ED\u08D3-\u08E1\u08E3-\u08FF]',
+  );
+
+  /// Strips Arabic diacritics from [text], returning the stripped string
+  /// plus a map from each index in the stripped string back to its
+  /// original index in [text] (needed so highlighted spans still cover the
+  /// original diacritic-containing text, not the stripped copy).
+  (String, List<int>) _stripArabicDiacritics(String text) {
+    final buffer = StringBuffer();
+    final indexMap = <int>[];
+    for (int i = 0; i < text.length; i++) {
+      if (!_arabicDiacriticsPattern.hasMatch(text[i])) {
+        buffer.write(text[i]);
+        indexMap.add(i);
+      }
+    }
+    return (buffer.toString(), indexMap);
+  }
+
+  /// Finds Allah/Rabb matches in [text] ignoring Arabic diacritics.
+  /// Returns (start, end) ranges in ORIGINAL [text] coordinates (end
+  /// exclusive), sorted by start position.
+  List<(int, int)> _findDiacriticInsensitiveAllahRanges(
+      String text, String arabicAllahPattern) {
+    if (arabicAllahPattern.isEmpty) return [];
+    final (stripped, indexMap) = _stripArabicDiacritics(text);
+    final pattern = RegExp(arabicAllahPattern);
+    final ranges = <(int, int)>[];
+    for (final m in pattern.allMatches(stripped)) {
+      if (m.start >= m.end) continue;
+      final origStart = indexMap[m.start];
+      final origEnd = indexMap[m.end - 1] + 1;
+      ranges.add((origStart, origEnd));
+    }
+    return ranges;
   }
 
   Widget _buildHadeethSectionWrapper(BuildContext context) {
@@ -1152,10 +1749,12 @@ class _QuranPanelState extends State<QuranPanel> {
           });
 
     const noBoundaryScripts = {
-      'cjk', 'thai', 'khmer', 'arabic', 'hangul', 'ethiopic', 'devanagari'
+      'cjk', 'thai', 'khmer', 'arabic', 'hangul', 'ethiopic', 'devanagari',
+      'gujarati', 'kannada', 'myanmar', 'georgian'
     };
 
     final patterns = <String>[];
+    final arabicPatterns = <String>[];
     for (final w in allahWords) {
       final escaped = RegExp.escape(w);
       if (RegExp(r"^[a-zA-ZÀ-ÿçÇğĞıİöÖşŞüÜ'\u2018\u2019]+$").hasMatch(w)) {
@@ -1163,7 +1762,10 @@ class _QuranPanelState extends State<QuranPanel> {
         patterns.add('(?<![$range])$escaped(?![$range])');
       } else {
         final script = _detectScript(w);
-        if (noBoundaryScripts.contains(script)) {
+        if (script == 'arabic') {
+          // Matched diacritic-insensitively in a separate pass below.
+          arabicPatterns.add(escaped);
+        } else if (noBoundaryScripts.contains(script)) {
           patterns.add(escaped);
         } else {
           final range = _scriptRanges[script] ?? _scriptRanges['cyrillic']!;
@@ -1172,62 +1774,97 @@ class _QuranPanelState extends State<QuranPanel> {
       }
     }
     final allahPattern = patterns.join('|');
+    final arabicAllahPattern = arabicPatterns.join('|');
 
-    return _styleRunWithAllahPattern(text, baseStyle, allahPattern);
+    return _styleRunWithAllahPattern(text, baseStyle, allahPattern,
+        arabicAllahPattern: arabicAllahPattern);
   }
 
   List<TextSpan> _styleRunWithAllahPattern(
       String text, TextStyle baseStyle, String allahPattern,
-      {int parenDepth = 0}) {
+      {int parenDepth = 0, String arabicAllahPattern = ''}) {
     final cyanStyle = baseStyle.copyWith(color: Colors.cyanAccent);
     final greenStyle = baseStyle.copyWith(color: Colors.greenAccent);
     final purpleStyle = baseStyle.copyWith(color: const Color(0xFFCB93F5));
     final amberStyle = baseStyle.copyWith(color: Colors.amber);
     final quoteStyle = baseStyle.copyWith(color: const Color(0xFFFFB6C1));
 
-    // alternate cyan/blue by nesting depth: outer parens cyan, one level in = blue
     final parenColor = parenDepth.isEven ? cyanStyle : greenStyle;
 
     final quotePattern = r'"(?:[^"\\]|\\.)*"' r'|\u201c(?:[^\u201d])*\u201d';
-    // supports one level of nested parens: (...(...)...)
     const parenPattern = r'\((?:[^()]|\([^()]*\))*\)';
 
     final combined = RegExp(
-      '($quotePattern)' // group 1: quotes
-      '|($parenPattern)' // group 2: parens (with 1 level of nesting)
-      '|(\\[[^\\]]*\\])' // group 3: brackets
-      '|(?:$allahPattern)', // Allah words (unnamed)
+      '($quotePattern)'
+      '|($parenPattern)'
+      '|(\\[[^\\]]*\\])'
+      '${allahPattern.isNotEmpty ? '|(?:$allahPattern)' : ''}',
     );
+
+    // kind: 0 = quote, 1 = paren, 2 = bracket, 3 = allah word (non-Arabic)
+    final ranges = <(int, int, int)>[];
+    for (final m in combined.allMatches(text)) {
+      if (m.group(1) != null) {
+        ranges.add((m.start, m.end, 0));
+      } else if (m.group(2) != null) {
+        ranges.add((m.start, m.end, 1));
+      } else if (m.group(3) != null) {
+        ranges.add((m.start, m.end, 2));
+      } else {
+        ranges.add((m.start, m.end, 3));
+      }
+    }
+
+    if (arabicAllahPattern.isNotEmpty) {
+      final arabicRanges =
+          _findDiacriticInsensitiveAllahRanges(text, arabicAllahPattern);
+      for (final r in arabicRanges) {
+        final overlaps =
+            ranges.any((e) => r.$1 < e.$2 && e.$1 < r.$2);
+        if (!overlaps) ranges.add((r.$1, r.$2, 3));
+      }
+    }
+
+    ranges.sort((a, b) => a.$1.compareTo(b.$1));
 
     final result = <TextSpan>[];
     int cursor = 0;
-    for (final m in combined.allMatches(text)) {
-      if (m.start > cursor) {
-        result.add(TextSpan(text: text.substring(cursor, m.start), style: baseStyle));
+    for (final r in ranges) {
+      final start = r.$1, end = r.$2, kind = r.$3;
+      if (start < cursor) continue;
+      if (start > cursor) {
+        result.add(TextSpan(text: text.substring(cursor, start), style: baseStyle));
       }
-      final matched = m.group(0)!;
-      if (m.group(1) != null) {
-        final inner = matched.substring(1, matched.length - 1);
-        result.add(TextSpan(text: matched[0], style: quoteStyle));
-        result.addAll(_styleRunWithAllahPattern(
-            inner, quoteStyle, allahPattern, parenDepth: parenDepth));
-        result.add(TextSpan(text: matched[matched.length - 1], style: quoteStyle));
-      } else if (m.group(2) != null) {
-        final inner = matched.substring(1, matched.length - 1);
-        result.add(TextSpan(text: '(', style: parenColor));
-        result.addAll(_styleRunWithAllahPattern(
-            inner, parenColor, allahPattern, parenDepth: parenDepth + 1));
-        result.add(TextSpan(text: ')', style: parenColor));
-      } else if (m.group(3) != null) {
-        final inner = matched.substring(1, matched.length - 1);
-        result.add(TextSpan(text: '[', style: amberStyle));
-        result.addAll(_styleRunWithAllahPattern(
-            inner, amberStyle, allahPattern, parenDepth: parenDepth));
-        result.add(TextSpan(text: ']', style: amberStyle));
-      } else {
-        result.add(TextSpan(text: matched, style: purpleStyle));
+      final matched = text.substring(start, end);
+      switch (kind) {
+        case 0:
+          final inner = matched.substring(1, matched.length - 1);
+          result.add(TextSpan(text: matched[0], style: quoteStyle));
+          result.addAll(_styleRunWithAllahPattern(
+              inner, quoteStyle, allahPattern,
+              parenDepth: parenDepth, arabicAllahPattern: arabicAllahPattern));
+          result.add(TextSpan(text: matched[matched.length - 1], style: quoteStyle));
+          break;
+        case 1:
+          final inner = matched.substring(1, matched.length - 1);
+          result.add(TextSpan(text: '(', style: parenColor));
+          result.addAll(_styleRunWithAllahPattern(
+              inner, parenColor, allahPattern,
+              parenDepth: parenDepth + 1, arabicAllahPattern: arabicAllahPattern));
+          result.add(TextSpan(text: ')', style: parenColor));
+          break;
+        case 2:
+          final inner = matched.substring(1, matched.length - 1);
+          result.add(TextSpan(text: '[', style: amberStyle));
+          result.addAll(_styleRunWithAllahPattern(
+              inner, amberStyle, allahPattern,
+              parenDepth: parenDepth, arabicAllahPattern: arabicAllahPattern));
+          result.add(TextSpan(text: ']', style: amberStyle));
+          break;
+        default:
+          result.add(TextSpan(text: matched, style: purpleStyle));
       }
-      cursor = m.end;
+      cursor = end;
     }
     if (cursor < text.length) {
       result.add(TextSpan(text: text.substring(cursor), style: baseStyle));
@@ -2486,10 +3123,15 @@ class _QuranPanelState extends State<QuranPanel> {
         'arabic',
         'hangul',
         'ethiopic',
-        'devanagari'
+        'devanagari',
+        'gujarati',
+        'kannada',
+        'myanmar',
+        'georgian'
       };
 
       final patterns = <String>[];
+      final arabicPatterns = <String>[];
       for (final w in allahWords) {
         final escaped = RegExp.escape(w);
         if (RegExp(r"^[a-zA-ZÀ-ÿçÇğĞıİöÖşŞüÜ'\u2018\u2019]+$").hasMatch(w)) {
@@ -2497,7 +3139,9 @@ class _QuranPanelState extends State<QuranPanel> {
           patterns.add('(?<![$range])$escaped(?![$range])');
         } else {
           final script = _detectScript(w);
-          if (noBoundaryScripts.contains(script)) {
+          if (script == 'arabic') {
+            arabicPatterns.add(escaped);
+          } else if (noBoundaryScripts.contains(script)) {
             patterns.add(escaped);
           } else {
             final range = _scriptRanges[script] ?? _scriptRanges['cyrillic']!;
@@ -2506,6 +3150,7 @@ class _QuranPanelState extends State<QuranPanel> {
         }
       }
       final allahPattern = patterns.join('|');
+      final arabicAllahPattern = arabicPatterns.join('|');
       final verseRegex = RegExp(r'\b\d{1,3}:\d{1,3}(?:-\d{1,3})?\b');
 
       final quotePattern = RegExp(r'"(?:[^"\\]|\\.)*"'
@@ -2517,32 +3162,66 @@ class _QuranPanelState extends State<QuranPanel> {
       List<TextSpan> parseWithAllah(String t, TextStyle base, {int depth = 0}) {
         final inner = <TextSpan>[];
         final combined = RegExp(
-            '(?:$allahPattern)|\\b\\d{1,3}:\\d{1,3}(?:-\\d{1,3})?\\b|($nestedParenPattern)|\\[[^\\]]*\\]');
-        int c = 0;
+            '${allahPattern.isNotEmpty ? '(?:$allahPattern)|' : ''}\\b\\d{1,3}:\\d{1,3}(?:-\\d{1,3})?\\b|($nestedParenPattern)|\\[[^\\]]*\\]');
+
+        // kind: 0 = paren, 1 = bracket, 2 = verse ref, 3 = allah word (non-Arabic)
+        final ranges = <(int, int, int)>[];
         for (final m in combined.allMatches(t)) {
-          if (m.start > c)
-            inner.add(TextSpan(text: t.substring(c, m.start), style: base));
           final word = m.group(0)!;
           if (verseRegex.hasMatch(word)) {
-            inner.add(TextSpan(
-              text: word,
-              style: verseStyle,
-              recognizer: onVerseTapped != null
-                  ? (TapGestureRecognizer()..onTap = () => onVerseTapped(word))
-                  : null,
-            ));
+            ranges.add((m.start, m.end, 2));
           } else if (m.group(1) != null) {
-            final pColor = depth.isEven ? cyanStyle : nestedParenStyle;
-            final pInner = word.substring(1, word.length - 1);
-            inner.add(TextSpan(text: '(', style: pColor));
-            inner.addAll(parseWithAllah(pInner, pColor, depth: depth + 1));
-            inner.add(TextSpan(text: ')', style: pColor));
+            ranges.add((m.start, m.end, 0));
           } else if (word.startsWith('[')) {
-            inner.add(TextSpan(text: word, style: amber));
+            ranges.add((m.start, m.end, 1));
           } else {
-            inner.add(TextSpan(text: word, style: purple));
+            ranges.add((m.start, m.end, 3));
           }
-          c = m.end;
+        }
+
+        if (arabicAllahPattern.isNotEmpty) {
+          final arabicRanges =
+              _findDiacriticInsensitiveAllahRanges(t, arabicAllahPattern);
+          for (final r in arabicRanges) {
+            final overlaps = ranges.any((e) => r.$1 < e.$2 && e.$1 < r.$2);
+            if (!overlaps) ranges.add((r.$1, r.$2, 3));
+          }
+        }
+
+        ranges.sort((a, b) => a.$1.compareTo(b.$1));
+
+        int c = 0;
+        for (final r in ranges) {
+          final start = r.$1, end = r.$2, kind = r.$3;
+          if (start < c) continue;
+          if (start > c) {
+            inner.add(TextSpan(text: t.substring(c, start), style: base));
+          }
+          final word = t.substring(start, end);
+          switch (kind) {
+            case 2:
+              inner.add(TextSpan(
+                text: word,
+                style: verseStyle,
+                recognizer: onVerseTapped != null
+                    ? (TapGestureRecognizer()..onTap = () => onVerseTapped(word))
+                    : null,
+              ));
+              break;
+            case 0:
+              final pColor = depth.isEven ? cyanStyle : nestedParenStyle;
+              final pInner = word.substring(1, word.length - 1);
+              inner.add(TextSpan(text: '(', style: pColor));
+              inner.addAll(parseWithAllah(pInner, pColor, depth: depth + 1));
+              inner.add(TextSpan(text: ')', style: pColor));
+              break;
+            case 1:
+              inner.add(TextSpan(text: word, style: amber));
+              break;
+            default:
+              inner.add(TextSpan(text: word, style: purple));
+          }
+          c = end;
         }
         if (c < t.length) inner.add(TextSpan(text: t.substring(c), style: base));
         return inner;
