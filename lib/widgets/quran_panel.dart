@@ -307,84 +307,13 @@ class _QuranPanelState extends State<QuranPanel> {
       'ალაჰისათვის', 'ალაჰისგან', 'ალაჰზე', 'ალაჰმა', 'ალაჰსა', 'ალაჰის', 'ალაჰთან', 'ალაჰს', 'ალაჰი', 'ალაჰისა',
       'უფლისაგან', 'უფლის', 'უფალო', 'უფალს', 'უფალი',
     ],
-    'Gujarati': [
-      // Primary term for Allah
-      'અલ્લાહ',
-      // Terms for Lord/Rabb with various suffixes (my, your, our, etc.)
-      'પાલનહાર',          // Base form (Lord/Sustainer)
-      'પાલનહારનો',        // Of the Lord
-      'પાલનહારની',        // Of the Lord (feminine)
-      'પાલનહારનું',       // Of the Lord (neuter)
-      'પાલનહારે',         // Lord (ergative)
-      'પાલનહારથી',        // From the Lord
-      'પાલનહાર તરફથી',   // From the Lord
-      'પાલનહાર પર',       // Upon the Lord
-      'મારા પાલનહાર',    // My Lord
-      'તમારા પાલનહાર',   // Your Lord (plural/formal)
-      'તારા પાલનહાર',    // Your Lord (singular/informal)
-      'તેના પાલનહાર',    // His Lord
-      'અમારા પાલનહાર',   // Our Lord
-      // Other terms
-      'રબ્બ',             // Rabb (Arabic loanword)
-      'ઇલાહ',             // Ilaah (God)
-      'ખુદા',             // Khuda (God/Lord)
-    ],
+    'Gujarati': ['અલ્લાહ', 'પાલનહાર', 'પાલનહારનો', 'પાલનહારની', 'પાલનહારનું', 'રબ્બ'],
     'Greek': ['Αλλάχ', 'Θεός', 'Κύριός', 'Κύριος', 'Κυρίου', 'Κύριό', 'Κύριε', 'Κύριέ', 'Κύριο'],
     'Hindi': ['अल्लाह', 'रब्ब', 'परवरदिगार'],
     'Indonesian': ['Allahlah', 'Allah', 'Rabb', 'Tuhan'],
     'Italian': ['Allāh', 'Allah', 'Dio'],
-    'Japanese': ['アッラー', '主よ', '主に'],
-    'Kannada': [
-      // ===== ALLAH (ಅಲ್ಲಾಹ) with all suffixes =====
-      // Base forms
-      'ಅಲ್ಲಾಹ',           // Base form
-      'ಅಲ್ಲಾಹ್',          // With halant
-
-      // Allah with case endings
-      'ಅಲ್ಲಾಹನು',         // Allah (nominative) - "ಅಲ್ಲಾಹನು ಹೇಳಿದನು"
-      'ಅಲ್ಲಾಹನ',          // Allah's (genitive)
-      'ಅಲ್ಲಾಹನಿಗೆ',       // To Allah (dative)
-      'ಅಲ್ಲಾಹನನ್ನು',      // Allah (accusative)
-      'ಅಲ್ಲಾಹನಿಂದ',       // From Allah (ablative)
-      'ಅಲ್ಲಾಹನಲ್ಲಿ',      // In/on Allah
-
-      // ===== LORD (ಒಡೆಯ - Odeya) with all suffixes =====
-      // Base forms
-      'ಒಡೆಯ',              // Lord (base form)
-
-      // Lord with case endings
-      'ಒಡೆಯನ',            // Lord's / of the Lord (genitive)
-      'ಒಡೆಯನು',            // Lord (nominative)
-      'ಒಡೆಯನಿಗೆ',          // To the Lord (dative)
-      'ಒಡೆಯನನ್ನು',         // Lord (accusative)
-      'ಒಡೆಯನಿಂದ',          // From the Lord (ablative)
-      'ಒಡೆಯನಲ್ಲಿ',         // In/on the Lord
-
-      // Lord with possessive pronouns
-      'ಅವರ ಒಡೆಯನ',        // Their Lord
-      'ತನ್ನ ಒಡೆಯನ',        // His/Her Lord
-      'ನನ್ನ ಒಡೆಯನ',        // My Lord
-      'ನಿಮ್ಮ ಒಡೆಯನ',       // Your Lord (formal/plural)
-      'ನಮ್ಮ ಒಡೆಯನ',        // Our Lord
-      'ತಮ್ಮ ಒಡೆಯನ',        // Their Lord (reflexive)
-      'ಅವರ ಒಡೆಯ',          // Their Lord (without suffix)
-      'ತನ್ನ ಒಡೆಯ',          // His/Her Lord (without suffix)
-      'ನನ್ನ ಒಡೆಯ',          // My Lord (without suffix)
-      'ನಿಮ್ಮ ಒಡೆಯ',         // Your Lord (without suffix)
-      'ನಮ್ಮ ಒಡೆಯ',          // Our Lord (without suffix)
-
-      // ===== GOD (ದೇವರು - Devaru) with all suffixes =====
-      'ದೇವರು',             // God (nominative)
-      'ದೇವರ',              // God's (genitive)
-      'ದೇವರಿಗೆ',            // To God (dative)
-      'ದೇವರನ್ನು',           // God (accusative)
-      'ದೇವರಿಂದ',           // From God (ablative)
-
-      // ===== OTHER TERMS =====
-      'ಪ್ರಭು',              // Lord (Prabhu)
-      'ರುಬೂಬಿಯ್ಯಾಹ್',      // Rububiyyah (Lordship)
-      'ರುಬೂಬಿಯ್ಯಾಹ',       // Rububiyyah (without visarga)
-    ],
+    'Japanese': ['アッラー', '主'],
+    'Kannada': ['ಅಲ್ಲಾಹ', 'ಅಲ್ಲಾಹನ', 'ಒಡೆಯ', 'ಒಡೆಯನ', 'ಪ್ರಭು'],
     'Kazakh': [
       // ===== ALLAH (Аллаһ) with all suffixes =====
       // Base forms
@@ -447,76 +376,7 @@ class _QuranPanelState extends State<QuranPanel> {
       'Аллах',
       'Алла'
     ],
-    'Lithuanian': [
-      // ===== ALLAH (Alachas / Allahas) with all cases =====
-      // Nominative (subject)
-      'Alachas',          // Allah (nominative)
-      'Allahas',          // Allah (nominative - alternative spelling)
-      // Genitive (possessive - "of Allah")
-      'Alacho',           // Allah's / of Allah (genitive)
-      'Allaho',           // Allah's / of Allah (genitive - alternative)
-      // Dative (indirect object - "to Allah")
-      'Alachui',          // To Allah (dative)
-      'Allahui',          // To Allah (dative - alternative)
-      // Accusative (direct object)
-      'Alachą',           // Allah (accusative)
-      'Allahą',           // Allah (accusative - alternative)
-      // Instrumental (with/by Allah)
-      'Alachu',           // With/by Allah (instrumental)
-      'Allahu',           // With/by Allah (instrumental - alternative)
-      // Locative (in/on Allah)
-      'Alache',           // In/on Allah (locative)
-      'Allahe',           // In/on Allah (locative - alternative)
-      // Vocative (calling)
-      'Alache',           // O Allah! (vocative)
-      'Allahe',           // O Allah! (vocative - alternative)
-
-      // ===== LORD (Viešpats) with all cases =====
-      // Nominative (subject)
-      'Viešpats',         // Lord (nominative)
-      // Genitive (possessive - "of the Lord")
-      'Viešpaties',       // Lord's / of the Lord (genitive)
-      // Dative (indirect object - "to the Lord")
-      'Viešpačiui',       // To the Lord (dative)
-      // Accusative (direct object)
-      'Viešpatį',         // Lord (accusative)
-      // Instrumental (with/by the Lord)
-      'Viešpačiu',        // With/by the Lord (instrumental)
-      // Locative (in/on the Lord)
-      'Viešpatyje',       // In/on the Lord (locative)
-      // Vocative (calling)
-      'Viešpatie',        // O Lord! (vocative)
-
-      // ===== LORD with possessive pronouns (my, your, etc.) =====
-      'mano Viešpats',    // My Lord
-      'mano Viešpatie',   // My Lord (vocative)
-      'tavo Viešpats',    // Your Lord (singular)
-      'tavo Viešpatie',   // Your Lord (vocative)
-      'jūsų Viešpats',    // Your Lord (plural/formal)
-      'mūsų Viešpats',    // Our Lord
-      'savo Viešpats',    // His/Her/Their Lord (reflexive)
-      'savo Viešpatie',   // His/Her/Their Lord (vocative)
-
-      // ===== GOD (Dievas) with all cases =====
-      // Nominative (subject)
-      'Dievas',           // God (nominative)
-      // Genitive (possessive - "of God")
-      'Dievo',            // God's / of God (genitive)
-      // Dative (indirect object - "to God")
-      'Dievui',           // To God (dative)
-      // Accusative (direct object)
-      'Dievą',            // God (accusative)
-      // Instrumental (with/by God)
-      'Dievu',            // With/by God (instrumental)
-      // Locative (in/on God)
-      'Dieve',            // In/on God (locative)
-      // Vocative (calling)
-      'Dieve',            // O God! (vocative)
-
-      // ===== OTHER TERMS =====
-      'Ruboobiyyah',      // Rububiyyah (Lordship)
-      'Viešpatystę',      // Lordship/dominion (accusative)
-    ],
+    'Lithuanian': ['Alachas', 'Allahas', 'Alacho', 'Allaho', 'Viešpats', 'Viešpaties'],
     'Luganda': [
       'Mukama wammwe',
       'Mukama wange',
@@ -777,15 +637,6 @@ class _QuranPanelState extends State<QuranPanel> {
       'ਅੱਲਾਹ ਨਾਲ',         // With Allah - length: 7
       'ਅੱਲਾਹ ਬਾਰੇ',        // About Allah - length: 7
 
-      // Also in Shahmukhi script (used in Punjabi)
-      'اللہ',              // Allah (Shahmukhi) - length: 3
-      'اللہ دا',           // Allah's (Shahmukhi) - length: 5
-      'اللہ دی',           // Allah's (Shahmukhi) - length: 5
-      'اللہ دے',           // Allah's (Shahmukhi) - length: 5
-      'اللہ نوں',          // To Allah (Shahmukhi) - length: 5
-      'اللہ توں',          // From Allah (Shahmukhi) - length: 5
-      'اللہ ولوں',         // From Allah (Shahmukhi) - length: 6
-
       // ===== LORD (ਰੱਬ) with all suffixes =====
       // Longest first - Lord with full phrases
       'ਸਾਰੇ ਸੰਸਾਰ ਦਾ ਰੱਬ', // Lord of all the worlds - length: 16
@@ -812,14 +663,88 @@ class _QuranPanelState extends State<QuranPanel> {
       'ਰੱਬ ਨੂੰ',            // To the Lord (dative) - length: 5
       'ਰੱਬ ਤੋਂ',            // From the Lord (ablative) - length: 5
       'ਰੱਬ',               // Lord (base form) - length: 3
+    ],
+    'Somali': [
+      // ===== ALLAH (Allaah) with all suffixes =====
+      // Longest first - Allah with full phrases
+      'Allaah ka',          // From Allah - length: 8
+      'Allaah ku',          // In/on Allah - length: 8
+      'Allaah u',           // To/for Allah - length: 7
+      'Allaah la',          // With Allah - length: 8
+      'Allaah ha',          // By Allah - length: 7
+      'Allaahna',           // Allah (with emphasis) - length: 7
+      'Allaah',             // Base form - length: 6
 
-      // ===== OTHER TERMS =====
-      'ਮਹਾਨ ਰੱਬ',          // Great Lord - length: 7
-      'ਰੁਬੂਬੀਅਤ',          // Rububiyyah (Lordship) - length: 8
-      'ਪ੍ਰਭੂ',             // Lord (alternative) - length: 4
-      'ਪਾਲਣਹਾਰ',           // Sustainer/Cherisher - length: 6
-      'ਖੁਦਾ',              // God/Khuda - length: 3
-      'ਇੱਕ ਰੱਬ',           // One Lord - length: 5
+      // Also with article/demonstrative
+      'Ilaahaygu',          // My God/Allah - length: 9
+      'Ilaahaygunu',        // My God (with emphasis) - length: 10
+
+      // ===== LORD (Rabbi) with all suffixes =====
+      // Longest first - Lord with full phrases
+      'Rabbiga adduunyada',  // Lord of the worlds - length: 19
+      'Rabbiga adduunka',    // Lord of the world - length: 17
+      'Rabbigaygu',          // My Lord (with emphasis) - length: 10
+      'Rabbigood',           // Their Lord - length: 9
+      'Rabbigiisa',
+      'Rabbigaa',            // Your Lord (singular) - length: 8
+      'Rabbigiinna',         // Your Lord (plural/formal) - length: 11
+      'Rabbigay',            // My Lord - length: 8
+      'Rabbigiis',           // His Lord - length: 9
+      'Rabbigayada',         // Our Lord - length: 10
+
+      // Lord with case suffixes
+      'Rabbigiisa',          // Lord's / of His Lord - length: 10
+      'Rabbigeed',           // Her Lord - length: 9
+      'Rabbigiina',          // Your Lord (plural) - length: 10
+      'Rabbigi',             // Lord (base with suffix) - length: 7
+      'Rabbigu',             // Lord (nominative) - length: 7
+      'Rabbaha',             // Lord (definite) - length: 7
+
+      // Base form - keep at end
+      'Rabbi',               // Lord (base form) - length: 5
+      'Rabb',                // Lord (short form) - length: 4
+    ],
+    'Slovak *': [
+      // ===== ALLAH (Allah / Boh) with all suffixes =====
+      // Longest first - Allah with full phrases
+      'Allaha',             // Allah (genitive/accusative) - length: 6
+      'Allahovi',           // To/for Allah (dative) - length: 8
+      'Allahom',            // With/by Allah (instrumental) - length: 7
+      'Alahom',
+      'Allahu',             // Allah (vocative/nominative) - length: 6
+      'Alláha',             // Allah (genitive/accusative with diacritic) - length: 6
+      'Alláhovmu',          // Allah's / of Allah (genitive) - length: 9
+      'Alláhovi',           // To/for Allah (dative) - length: 8
+      'Alláhom',            // With/by Allah (instrumental) - length: 7
+      'Alláhu',             // Allah (vocative/nominative) - length: 6
+      'Allah',              // Base form - length: 5
+      'Alláh',              // Base form with diacritic - length: 5
+
+      // ===== GOD (Boh) with all suffixes =====
+      // Longest first - God with full phrases
+      'Boha',               // God (genitive/accusative) - length: 4
+      'Bohovi',             // To/for God (dative) - length: 6
+      'Bohom',              // With/by God (instrumental) - length: 5
+      'Bohu',               // God (dative/locative) - length: 4
+      'Boží',               // God's / of God (possessive) - length: 4
+      'Božích',             // God's / of God (possessive plural) - length: 6
+      'Boh',                // Base form - length: 3
+
+      // ===== LORD (Pán) with all suffixes =====
+      // Longest first - Lord with full phrases
+      'Pána svetov',        // Lord of the worlds - length: 11
+      'Pánovi',             // To/for the Lord (dative) - length: 6
+      'Pánom',              // With/by the Lord (instrumental) - length: 5
+      'Pána',               // Lord (genitive/accusative) - length: 4
+      'Pane',               // Lord (vocative) - length: 4
+      'Pánu',               // Lord (dative/locative) - length: 4
+      'Pán',                // Base form - length: 3
+
+      // ===== LORD with possessive pronouns =====
+      // Longest first
+      'svojho Pána',        // His/Her/Their own Lord - length: 10
+      'svojmu Pánovi',      // To his/her own Lord - length: 13
+      'svojho Pána Veľkého', // His Great Lord - length: 18
     ],
     'Russian': [
       'Аллахом',
@@ -861,6 +786,18 @@ class _QuranPanelState extends State<QuranPanel> {
       'රබ්'
     ],
     'Spanish': ['Al\u2011lah', 'Al-lah', 'Allāh', 'Allah', 'Señor'],
+    'Swedish': [
+      'världarnas Herres',
+      'världarnas Herre',
+      'Herrens',
+      'Herren',
+      'Allahs',
+      'Herres',
+      'Allah',
+      'Herre',
+      'Guds',
+      'Gud',
+    ],
     'Tagalog': ['Allāh', 'Allah', 'Panginoon'],
     'Tamil': [
       'அல்லாஹ்வுக்கும்',
@@ -898,19 +835,44 @@ class _QuranPanelState extends State<QuranPanel> {
       "Allah'a",
       'Allah',
     ],
+    'Ukrainian': [
+      'Господа світів',
+      'Господь',
+      'Господа',
+      'Господи',
+      'Аллахом',
+      'Аллаха',
+      'Аллах',
+    ],
     'Uzbek': [
-      'Аллоҳдирки',
-      'Аллоҳгадир',
-      'Аллоҳгагина',
-      'Аллоҳдир',
-      'Аллоҳнинг',
-      'Аллоҳдан',
-      'Аллоҳга',
-      'Аллоҳни',
-      'Аллоҳим',
-      'Аллоҳа',
-      'Аллоҳ',
-      'Ибодат'
+      'Alloh',
+      'Allohning',
+      'Rabb',
+      'Robb',
+      'Robbisi',      // His Lord / Lord of (fused)
+      'Robbing',      // your Lord (fused)
+      'Robbim',       // my Lord (fused)
+      'Rabbisiga',    // to His Lord (fused, dative)
+    ],
+    'Xhosa *': [
+      'Allah', 'uAllah', 'u-Allah',   // subject-class prefix, fused
+      'kuAllah',                       // "to/at Allah" (locative concord, fused)
+      'ngoAllah',                      // "about/through Allah" (fused)
+      'nguAllah',
+      'kaAllah', 'ka-Allah',           // "of Allah" (genitive concord, fused) — e.g. "abakhonzi bakaAllah"
+      'Nkosi', 'iNkosi',               // Lord, base + class prefix
+      'kwiNkosi',                      // "to/at the Lord" (locative concord, fused)
+      'yeNkosi',                       // "of the Lord" (genitive concord, fused) — e.g. "iNkosi yamahlabathi"
+      'eNkosini',                      // "from/in the Lord" (locative, fused) — e.g. "evela eNkosini yabo"
+    ],
+    'Yoruba': ['Allāhu', 'Allah', 'Allàh','Olúwa'],
+    'Zulu *': [
+      'Allah', 'uAllah', 'u-Allah',   // subject-class prefix, fused
+      'kuAllah',                       // "to/at Allah" (locative concord, fused)
+      'kaAllah', 'ka-Allah',           // "of Allah" (genitive concord, fused) — e.g. "izinceku zikaAllah"
+      'Nkosi', 'iNkosi',               // Lord, base + class prefix
+      'eNkosini',                      // "from/at the Lord" (locative, fused) — e.g. "evela eNkosini yabo"
+      'yeNkosi',                       // "of the Lord" (genitive concord, fused) — e.g. "iNkosi yemihlaba"
     ],
     'Vietnamese': ['Thượng Đế', 'Allah'],
     'Afar': ['Yalli', 'Alla', 'Allah'],
@@ -2779,6 +2741,9 @@ class _QuranPanelState extends State<QuranPanel> {
                             _tafsirCheckbox('Katheer', _tafsirKatheer, (v) {
                               setState(() => _tafsirKatheer = v ?? false);
                             }, Colors.brown),
+                            const SizedBox(width: 6),
+                            _selectAllCheckbox(
+                              _allArabicTafsirsSelected, _toggleAllArabicTafsirs),
                           ],
                         ),
           const SizedBox(height: 6),
@@ -2900,6 +2865,9 @@ class _QuranPanelState extends State<QuranPanel> {
                     _tafsirCheckbox('IbnKathir', _tafsirIbnKathir, (v) {
                       setState(() => _tafsirIbnKathir = v ?? false);
                     }, Colors.brown),
+                    const SizedBox(width: 6),
+                    _selectAllCheckbox(
+                        _allEnglishTafsirsSelected, _toggleAllEnglishTafsirs),
                 ],
               ),
             ),
@@ -2983,6 +2951,60 @@ class _QuranPanelState extends State<QuranPanel> {
       ],
     );
   }
+
+  bool get _allArabicTafsirsSelected =>
+        _tafsirMoyassar &&
+        _tafsirSaadi &&
+        _tafsirYaseer &&
+        _tafsirNafahat &&
+        _tafsirSiraj &&
+        _tafsirBaghawi &&
+        _tafsirKatheer;
+
+    bool get _allEnglishTafsirsSelected =>
+        _tafsirHilaliKhan &&
+        _tafsirRowwadEnglish &&
+        _tafsirNoorEnglish &&
+        _tafsirYacobEnglish &&
+        _tafsirIbnKathir;
+
+    void _toggleAllArabicTafsirs(bool? value) {
+      final v = value ?? false;
+      setState(() {
+        _tafsirMoyassar = v;
+        _tafsirSaadi = v;
+        _tafsirYaseer = v;
+        _tafsirNafahat = v;
+        _tafsirSiraj = v;
+        _tafsirBaghawi = v;
+        _tafsirKatheer = v;
+      });
+    }
+
+    void _toggleAllEnglishTafsirs(bool? value) {
+      final v = value ?? false;
+      setState(() {
+        _tafsirHilaliKhan = v;
+        _tafsirRowwadEnglish = v;
+        _tafsirNoorEnglish = v;
+        _tafsirYacobEnglish = v;
+        _tafsirIbnKathir = v;
+      });
+    }
+
+    Widget _selectAllCheckbox(bool value, ValueChanged<bool?> onChanged) {
+        return SizedBox(
+          width: 20,
+          height: 20,
+          child: Checkbox(
+            value: value,
+            onChanged: onChanged,
+            activeColor: Colors.blueGrey,
+            side: const BorderSide(color: Colors.blueGrey, width: 1.0),
+            materialTapTargetSize: MaterialTapTargetSize.shrinkWrap,
+          ),
+        );
+      }
 
   void _onTafsirVerseTapped(String ref) {
     final match = RegExp(r'(\d+):(\d+)(?:-(\d+))?').firstMatch(ref);
