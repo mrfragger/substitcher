@@ -37,7 +37,7 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 
 ![](images/fonts.jpg)
 
-- download 44 demo fonts or search for them to download on font websites
+- download 45 demo fonts or search for them to download on font websites
 - custom fonts can all be in one directory within various subdirectories, it recursively loads the fonts
 - ![customfonts.zip 2MB](https://github.com/mrfragger/substitcher/raw/main/images/customfonts.zip)
 - in font panel set custom folder to this one and all fonts will be loaded
@@ -74,6 +74,7 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 │   ├── Sophia Melanie.otf
 │   ├── Souther Daleska demo version.otf
 │   └── Sparkster One.otf
+│   └── Zentaro.ttf
 ├── missingligatures177
 │   ├── Abstract Settings demo.otf
 │   ├── Classical Aesthetics demo.otf

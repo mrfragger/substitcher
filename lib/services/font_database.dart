@@ -74,6 +74,7 @@ class FontDatabase {
      'Sophia Melanie': FontMetadata(fontName: 'Sophia Melanie', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
      'Souther Daleska demo version': FontMetadata(fontName: 'Souther Daleska demo version', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
      'Sparkster One': FontMetadata(fontName: 'Sparkster One', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
+     'Zentaro': FontMetadata(fontName: 'Zentaro', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
 
      // ==================== demo/missingligatures/177studio ====================
      'Abstract Settings demo': FontMetadata(fontName: 'Abstract Settings demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.missingLigatures], studio: FontCategory.studio177, ligaturePairs: ["as", "be", "de", "es", "ha", "le", "ly", "ne", "of", "op", "pr", "rt", "so", "ur", "ic", "is"]),
