@@ -7,9 +7,6 @@ APP_VERSION="26.08.03"
 BUILD_DIR="build/linux/x64/release/bundle"
 APPDIR="AppDir"
 
-echo "Building Flutter app..."
-flutter build linux --release
-
 echo "Creating AppDir structure..."
 rm -rf $APPDIR
 mkdir -p $APPDIR/usr/{bin,lib,share/applications,share/icons/hicolor/256x256/apps}
