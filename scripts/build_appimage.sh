@@ -29,25 +29,16 @@ fi
 echo "Copying FFmpeg binaries..."
 mkdir -p $APPDIR/usr/bin/bin
 
-if [ -f "bin/ffmpeg" ] && [ -f "bin/ffprobe" ]; then
-    echo "Using pre-built FFmpeg from artifact..."
-    cp bin/ffmpeg $APPDIR/usr/bin/bin/
-    cp bin/ffprobe $APPDIR/usr/bin/bin/
+if [ -f "$BUILD_DIR/bin/ffmpeg" ] && [ -f "$BUILD_DIR/bin/ffprobe" ]; then
+    echo "Using pre-built LGPL FFmpeg from artifact..."
+    cp $BUILD_DIR/bin/ffmpeg $APPDIR/usr/bin/bin/
+    cp $BUILD_DIR/bin/ffprobe $APPDIR/usr/bin/bin/
     chmod +x $APPDIR/usr/bin/bin/ffmpeg
     chmod +x $APPDIR/usr/bin/bin/ffprobe
 else
-    echo "Downloading FFmpeg static binaries..."
-    cd $APPDIR/usr/bin/bin
-
-    wget -q https://johnvansickle.com/ffmpeg/releases/ffmpeg-release-amd64-static.tar.xz
-    tar -xf ffmpeg-release-amd64-static.tar.xz --strip-components=1
-    rm ffmpeg-release-amd64-static.tar.xz
-    chmod +x ffmpeg ffprobe
-    find . -type f ! -name 'ffmpeg' ! -name 'ffprobe' -delete
-    find . -type d -empty -delete
-    rm -rf model GPLv3.txt readme.txt manpages 2>/dev/null || true
-
-    cd ../../../..
+    echo "ERROR: LGPL FFmpeg binaries not found at $BUILD_DIR/bin/ffmpeg and $BUILD_DIR/bin/ffprobe."
+    echo "This build requires the LGPL FFmpeg artifact from build_ffmpeg.yml — check the 'Download Linux FFmpeg' step."
+    exit 1
 fi
 
 echo "Copying Whisper binaries..."

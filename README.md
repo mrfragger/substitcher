@@ -73,7 +73,7 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 │   ├── Shoese Flower.ttf
 │   ├── Sophia Melanie.otf
 │   ├── Souther Daleska demo version.otf
-│   └── Sparkster One.otf
+│   ├── Sparkster One.otf
 │   └── Zentaro.ttf
 ├── missingligatures177
 │   ├── Abstract Settings demo.otf
