@@ -3360,31 +3360,59 @@ class _QuranPanelState extends State<QuranPanel> {
       }
 
       if (footnotesIdx != -1) {
-        final footnotesText = '\n\n' + text.substring(footnotesIdx);
-        for (final match
-            in RegExp(r'(\[[^\]]*\])|([^\[]+)').allMatches(footnotesText)) {
-          final m = match.group(0) ?? '';
-          if (match.group(1) != null) {
-            if (RegExp(r'^\[\d+\]$').hasMatch(m)) {
-              spans.add(TextSpan(
-                  text: m,
+              final labelEnd = footnotesIdx + footnotesMarker.length;
+              final label = text.substring(footnotesIdx, labelEnd);
+              spans.add(
+                TextSpan(
+                  text: '\n\n$label',
                   style: const TextStyle(
-                      color: Colors.orangeAccent, fontSize: 14, height: 1.55)));
-            } else {
-              spans.add(TextSpan(
-                  text: m,
-                  style: const TextStyle(
-                      color: Colors.amber, fontSize: 14, height: 1.55)));
+                    color: Colors.greenAccent,
+                    fontSize: 14,
+                    height: 1.55,
+                    fontWeight: FontWeight.w600,
+                  ),
+                ),
+              );
+
+              final footnotesText = text.substring(labelEnd);
+              for (final match
+                  in RegExp(r'(\[[^\]]*\])|([^\[]+)').allMatches(footnotesText)) {
+                final m = match.group(0) ?? '';
+                if (match.group(1) != null) {
+                  if (RegExp(r'^\[\d+\]$').hasMatch(m)) {
+                    spans.add(
+                      TextSpan(
+                        text: m,
+                        style: const TextStyle(
+                          color: Colors.orangeAccent,
+                          fontSize: 14,
+                          height: 1.55,
+                        ),
+                      ),
+                    );
+                  } else {
+                    spans.add(
+                      TextSpan(
+                        text: m,
+                        style: const TextStyle(
+                          color: Colors.amber,
+                          fontSize: 14,
+                          height: 1.55,
+                        ),
+                      ),
+                    );
+                  }
+                } else {
+                  spans.addAll(
+                    _parseMainText(
+                      m,
+                      onVerseTapped: _onTafsirVerseTapped,
+                      language: _mokhtasarLanguage,
+                    ),
+                  );
+                }
+              }
             }
-          } else {
-            spans.addAll(_parseMainText(m,
-                baseStyleOverride: const TextStyle(
-                    color: Colors.greenAccent, fontSize: 14, height: 1.55),
-                onVerseTapped: _onTafsirVerseTapped,
-                language: _mokhtasarLanguage));
-          }
-        }
-      }
 
       var finalSpans = spans;
       if (highlightQuery != null && highlightQuery.isNotEmpty) {

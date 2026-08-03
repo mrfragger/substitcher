@@ -267,62 +267,71 @@ class _HadeethPanelState extends State<HadeethPanel> {
   }
 
   List<TextSpan> _styleRunWithAllahPattern(
-      String text, TextStyle baseStyle, String allahPattern,
-      {int parenDepth = 0}) {
-    final cyanStyle = baseStyle.copyWith(color: Colors.cyanAccent);
-    final greenStyle = baseStyle.copyWith(color: Colors.greenAccent);
-    final purpleStyle = baseStyle.copyWith(color: const Color(0xFFCB93F5));
-    final amberStyle = baseStyle.copyWith(color: Colors.amber);
-    final quoteStyle = baseStyle.copyWith(color: const Color(0xFFFFB6C1));
+        String text, TextStyle baseStyle, String allahPattern,
+        {int parenDepth = 0}) {
+      final cyanStyle = baseStyle.copyWith(color: Colors.cyanAccent);
+      final greenStyle = baseStyle.copyWith(color: Colors.greenAccent);
+      final purpleStyle = baseStyle.copyWith(color: const Color(0xFFCB93F5));
+      final amberStyle = baseStyle.copyWith(color: Colors.amber);
+      final quoteStyle = baseStyle.copyWith(color: const Color(0xFFFFB6C1));
 
-    final parenColor = parenDepth.isEven ? cyanStyle : greenStyle;
+      final parenColor = parenDepth.isEven ? cyanStyle : greenStyle;
 
-    final quotePattern = r'"(?:[^"\\]|\\.)*"' r'|\u201c(?:[^\u201d])*\u201d';
-    // supports one level of nested parens: (...(...)...)
-    const parenPattern = r'\((?:[^()]|\([^()]*\))*\)';
+      final quotePattern = r'"(?:[^"\\]|\\.)*"' r'|\u201c(?:[^\u201d])*\u201d';
+      // supports one level of nested parens: (...(...)...)
+      const parenPattern = r'\((?:[^()]|\([^()]*\))*\)';
+      // supports one level of nested curly braces: {...{...}...}
+      const curlyPattern = r'\{(?:[^{}]|\{[^{}]*\})*\}';
 
-    final combined = RegExp(
-      '($quotePattern)' // group 1: quotes
-      '|($parenPattern)' // group 2: parens (with 1 level of nesting)
-      '|(\\[[^\\]]*\\])' // group 3: brackets
-      '|(?:$allahPattern)', // Allah words (unnamed)
-    );
+      final combined = RegExp(
+        '($quotePattern)' // group 1: quotes
+        '|($parenPattern)' // group 2: parens (with 1 level of nesting)
+        '|($curlyPattern)' // group 3: curly braces (with 1 level of nesting)
+        '|(\\[[^\\]]*\\])' // group 4: brackets
+        '|(?:$allahPattern)', // Allah words (unnamed)
+      );
 
-    final result = <TextSpan>[];
-    int cursor = 0;
-    for (final m in combined.allMatches(text)) {
-      if (m.start > cursor) {
-        result.add(TextSpan(text: text.substring(cursor, m.start), style: baseStyle));
+      final result = <TextSpan>[];
+      int cursor = 0;
+      for (final m in combined.allMatches(text)) {
+        if (m.start > cursor) {
+          result.add(TextSpan(text: text.substring(cursor, m.start), style: baseStyle));
+        }
+        final matched = m.group(0)!;
+        if (m.group(1) != null) {
+          final inner = matched.substring(1, matched.length - 1);
+          result.add(TextSpan(text: matched[0], style: quoteStyle));
+          result.addAll(_styleRunWithAllahPattern(
+              inner, quoteStyle, allahPattern, parenDepth: parenDepth));
+          result.add(TextSpan(text: matched[matched.length - 1], style: quoteStyle));
+        } else if (m.group(2) != null) {
+          final inner = matched.substring(1, matched.length - 1);
+          result.add(TextSpan(text: '(', style: parenColor));
+          result.addAll(_styleRunWithAllahPattern(
+              inner, parenColor, allahPattern, parenDepth: parenDepth + 1));
+          result.add(TextSpan(text: ')', style: parenColor));
+        } else if (m.group(3) != null) {
+          final inner = matched.substring(1, matched.length - 1);
+          result.add(TextSpan(text: '{', style: parenColor));
+          result.addAll(_styleRunWithAllahPattern(
+              inner, parenColor, allahPattern, parenDepth: parenDepth + 1));
+          result.add(TextSpan(text: '}', style: parenColor));
+        } else if (m.group(4) != null) {
+          final inner = matched.substring(1, matched.length - 1);
+          result.add(TextSpan(text: '[', style: amberStyle));
+          result.addAll(_styleRunWithAllahPattern(
+              inner, amberStyle, allahPattern, parenDepth: parenDepth));
+          result.add(TextSpan(text: ']', style: amberStyle));
+        } else {
+          result.add(TextSpan(text: matched, style: purpleStyle));
+        }
+        cursor = m.end;
       }
-      final matched = m.group(0)!;
-      if (m.group(1) != null) {
-        final inner = matched.substring(1, matched.length - 1);
-        result.add(TextSpan(text: matched[0], style: quoteStyle));
-        result.addAll(_styleRunWithAllahPattern(
-            inner, quoteStyle, allahPattern, parenDepth: parenDepth));
-        result.add(TextSpan(text: matched[matched.length - 1], style: quoteStyle));
-      } else if (m.group(2) != null) {
-        final inner = matched.substring(1, matched.length - 1);
-        result.add(TextSpan(text: '(', style: parenColor));
-        result.addAll(_styleRunWithAllahPattern(
-            inner, parenColor, allahPattern, parenDepth: parenDepth + 1));
-        result.add(TextSpan(text: ')', style: parenColor));
-      } else if (m.group(3) != null) {
-        final inner = matched.substring(1, matched.length - 1);
-        result.add(TextSpan(text: '[', style: amberStyle));
-        result.addAll(_styleRunWithAllahPattern(
-            inner, amberStyle, allahPattern, parenDepth: parenDepth));
-        result.add(TextSpan(text: ']', style: amberStyle));
-      } else {
-        result.add(TextSpan(text: matched, style: purpleStyle));
+      if (cursor < text.length) {
+        result.add(TextSpan(text: text.substring(cursor), style: baseStyle));
       }
-      cursor = m.end;
+      return result;
     }
-    if (cursor < text.length) {
-      result.add(TextSpan(text: text.substring(cursor), style: baseStyle));
-    }
-    return result;
-  }
 
   List<TextSpan> _highlightTerms(List<TextSpan> spans, List<String> terms) {
     if (terms.isEmpty) return spans;
@@ -828,7 +837,7 @@ class _HadeethPanelState extends State<HadeethPanel> {
                 label: 'Explanation',
                 text: entry.explanation,
                 isRtl: isRtl,
-                textColor: Colors.amber,
+                // textColor: Colors.amber,
               ),
             ],
             if (entry.hints.isNotEmpty) ...[
@@ -870,7 +879,7 @@ class _HadeethPanelState extends State<HadeethPanel> {
                                 _colorParensAndAllah(
                                   h,
                                   const TextStyle(
-                                    color: Colors.greenAccent,
+                                    // color: Colors.greenAccent,
                                     fontSize: 13,
                                     height: 1.5,
                                   ),
