@@ -42,6 +42,7 @@ class PlayerControls extends StatelessWidget {
   final Function(bool) onPrevChapterHover;
   final Function(bool) onNextChapterHover;
   final Function(BuildContext, String) onEditingMenuSelected;
+  final String? surahName;
 
   final VoidCallback onTogglePlayPause;
   final VoidCallback onPreviousChapter;
@@ -161,6 +162,7 @@ class PlayerControls extends StatelessWidget {
     this.defaultColorPalette,
     this.onShowAudioStreams,
     this.currentAudioFormat,
+    this.surahName,
   });
 
   @override
@@ -542,6 +544,18 @@ class PlayerControls extends StatelessWidget {
                               style: const TextStyle(color: Colors.orange),
                             ),
                             TextSpan(text: ' ${subtitleLineSpacing.toStringAsFixed(2)}'),
+                            if (surahName != null && surahName!.isNotEmpty) ...[
+                              TextSpan(
+                                text: '  ',
+                              ),
+                              TextSpan(
+                                text: ' $surahName',
+                                style: const TextStyle(
+                                  color: Colors.orange,
+                                  fontWeight: FontWeight.w600,
+                                ),
+                              ),
+                            ],
                           ],
                         ),
                       ),

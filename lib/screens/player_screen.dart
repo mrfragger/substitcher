@@ -64,6 +64,7 @@ import '../widgets/youtube_dialog.dart';
 import '../widgets/quran_panel.dart';
 import '../quran/quran_index.dart';
 import '../quran/quran_verse_search_index.dart';
+import '../quran/surah_names.dart';
 
 enum FontColorOverride { none, black, white }
 
@@ -548,6 +549,36 @@ class _PlayerScreenState extends State<PlayerScreen>
         _showAdhanOverlay = true;
       });
     }
+  }
+
+  String _getActiveSurahName() {
+    if (_activeQuranRef == null) return '';
+    return _getSurahName(_activeQuranRef!.surah);
+  }
+
+  String _getSurahNameFromCurrentChapter() {
+    if (_currentAudiobook == null || _currentAudiobook!.chapters.isEmpty) {
+      return '';
+    }
+
+    final currentChapter = _currentAudiobook!.chapters[_currentChapterIndex];
+    final title = currentChapter.title;
+
+    final match = RegExp(r'^(\d{2,3})\d{3}').firstMatch(title);
+    if (match != null) {
+      final surahNumber = int.parse(match.group(1)!);
+      if (surahNumber >= 1 && surahNumber <= 114) {
+        return _getSurahName(surahNumber);
+      }
+    }
+
+    return '';
+  }
+
+  String _getSurahName(int surahNumber) {
+    final surahs = getSurahsForLanguage(_quranIndexLanguage);
+    final match = surahs.where((s) => s.number == surahNumber).firstOrNull;
+    return match?.name ?? '';
   }
 
   Future<void> _loadQuranLanguage() async {
@@ -9658,6 +9689,9 @@ class _PlayerScreenState extends State<PlayerScreen>
             secondarySubtitleFont: _secondarySubtitleFont,
             secondaryColorPalette: _secondaryColorPalette,
             secondarySubtitleLineSpacing: _secondarySubtitleLineSpacing,
+            surahName: _isQuranVerseByVerse && _currentAudiobook != null && _currentAudiobook!.chapters.isNotEmpty
+                  ? _getSurahNameFromCurrentChapter()
+                  : null,
             sleepDuration: _sleepDuration,
             sleepTimerAction: _sleepTimerAction,
             onSetSleepTimerAction: (action) {
@@ -9938,6 +9972,9 @@ class _PlayerScreenState extends State<PlayerScreen>
       secondarySubtitleFont: _secondarySubtitleFont,
       secondaryColorPalette: _secondaryColorPalette,
       secondarySubtitleLineSpacing: _secondarySubtitleLineSpacing,
+      surahName: _isQuranVerseByVerse && _currentAudiobook != null && _currentAudiobook!.chapters.isNotEmpty
+            ? _getSurahNameFromCurrentChapter()
+            : null,
       sleepDuration: _sleepDuration,
       sleepTimerAction: _sleepTimerAction,
       onSetSleepTimerAction: (action) {
