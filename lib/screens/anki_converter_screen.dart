@@ -1679,7 +1679,7 @@ print('DONE', flush=True)
                                   decoration: const InputDecoration(filled: true, fillColor: Colors.black26, border: OutlineInputBorder()),
                                   dropdownColor: const Color(0xFF1E1E1E),
                                   style: const TextStyle(color: Colors.white),
-                                  items: [12, 24].map((bitrate) {
+                                  items: [12, 32].map((bitrate) {
                                     return DropdownMenuItem(value: bitrate, child: Text('$bitrate kbps'));
                                   }).toList(),
                                   onChanged: (value) => setState(() => _bitrate = value!),

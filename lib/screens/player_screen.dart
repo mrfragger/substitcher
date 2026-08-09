@@ -627,7 +627,12 @@ class _PlayerScreenState extends State<PlayerScreen>
       RegExp(r'^.*?\d{3}-\d{3} '),
       '',
     );
-    final targetOpusName = 'Quran Arabic - $rangeKey $reciterSuffix';
+    final languageMatch = RegExp(
+      r'^Quran (\S+) - \d{3}-\d{3} ',
+    ).firstMatch(currentBase);
+    final language = languageMatch?.group(1) ?? 'Arabic';
+    final targetOpusName = 'Quran $language - $rangeKey $reciterSuffix';
+    // final targetOpusName = 'Quran Arabic - $rangeKey $reciterSuffix';
     final targetOpusPath = path.join(parentDir, targetOpusName);
     if (!await File(targetOpusPath).exists()) {
       if (mounted) {
@@ -3394,9 +3399,16 @@ class _PlayerScreenState extends State<PlayerScreen>
     try {
       final currentOpusPath = _currentAudiobook!.path;
       final opusDir = path.dirname(currentOpusPath);
-      final reciterSuffix = path
-          .basename(currentOpusPath)
-          .replaceFirst(RegExp(r'^.*?\d{3}-\d{3} '), '');
+      final currentOpusBase = path.basename(currentOpusPath);
+      final reciterSuffix = currentOpusBase.replaceFirst(
+        RegExp(r'^.*?\d{3}-\d{3} '),
+        '',
+      );
+
+      final languageMatch = RegExp(
+        r'^Quran (\S+) - \d{3}-\d{3} ',
+      ).firstMatch(currentOpusBase);
+      final language = languageMatch?.group(1) ?? 'Arabic';
 
       final currentVttPath = _subtitleFilePath!;
       final vttDir = path.dirname(currentVttPath);
@@ -3417,8 +3429,14 @@ class _PlayerScreenState extends State<PlayerScreen>
           _exportStatus =
               'Processing range $rangeKey (${i + 1}/${rangeKeys.length})...';
         });
-
-        final targetOpusName = 'Quran Arabic - $rangeKey $reciterSuffix';
+        final languageMatch = RegExp(
+          r'^Quran (\S+) - \d{3}-\d{3} ',
+        ).firstMatch(currentOpusBase);
+        final language = languageMatch?.group(1) ?? 'Arabic';
+        final targetOpusName = 'Quran $language - $rangeKey $reciterSuffix';
+        final targetOpusPath = path.join(opusDir, targetOpusName);
+        // final targetOpusPath = path.join(parentDir, targetOpusName);
+        // final targetOpusName = 'Quran Arabic - $rangeKey $reciterSuffix';
         final targetBase = path.basenameWithoutExtension(targetOpusName);
         final targetVttName = '$targetBase.vtt';
 

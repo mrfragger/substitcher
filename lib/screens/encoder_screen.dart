@@ -2672,10 +2672,10 @@ class _EncoderScreenState extends State<EncoderScreen> {
               ),
               const SizedBox(width: 8),
               ChoiceChip(
-                label: const Text('24 kbps'),
-                selected: _bitrate == 24,
+                label: const Text('32 kbps'),
+                selected: _bitrate == 32,
                 onSelected: (selected) {
-                  if (selected) setState(() => _bitrate = 24);
+                  if (selected) setState(() => _bitrate = 32);
                 },
               ),
               const SizedBox(width: 24),
