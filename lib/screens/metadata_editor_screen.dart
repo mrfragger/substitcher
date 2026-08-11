@@ -945,59 +945,74 @@ class _MetadataEditorScreenState extends State<MetadataEditorScreen> {
   }
 
   Future<void> _saveMetadata() async {
-      if (_currentFilePath == null || _metadata == null) return;
+    if (_currentFilePath == null || _metadata == null) return;
 
-      setState(() => _saving = true);
+    setState(() => _saving = true);
 
-      try {
-        await _ffmpeg.ensureBinaries();
+    try {
+      await _ffmpeg.ensureBinaries();
 
-        final metadataContent = _createFFMetadataContent();
-        final tempMetadataFile = path.join(Directory.systemTemp.path, 'editing_metadata.txt');
+      final metadataContent = _createFFMetadataContent();
+      final tempMetadataFile = path.join(Directory.systemTemp.path, 'editing_metadata.txt');
 
-        await File(tempMetadataFile).writeAsBytes(
-          utf8.encode(metadataContent),
-          flush: true,
-        );
+      await File(tempMetadataFile).writeAsBytes(
+        utf8.encode(metadataContent),
+        flush: true,
+      );
 
-        final ext = path.extension(_currentFilePath!).toLowerCase();
-        final dir = path.dirname(_currentFilePath!);
-        final baseName = path.basenameWithoutExtension(_currentFilePath!);
-        final tempOutputFile = path.join(dir, '${baseName}_temp_meta$ext');
+      final ext = path.extension(_currentFilePath!).toLowerCase();
+      final dir = path.dirname(_currentFilePath!);
+      final baseName = path.basenameWithoutExtension(_currentFilePath!);
+      final tempOutputFile = path.join(dir, '${baseName}_temp_meta$ext');
 
-        final result = await Process.run(
-          _ffmpeg.ffmpegPath ?? 'ffmpeg',
-          [
-            '-i', _currentFilePath!,
-            '-i', tempMetadataFile,
-            '-map', '0:a',
-            '-map_chapters', '1',
-            '-map_metadata', '1',
-            '-c', 'copy',
-            '-v', 'warning',
-            '-y',
-            tempOutputFile,
-          ],
-        );
+      final isOpus = ext == '.opus';
 
-        if (result.exitCode != 0) {
-          try { await File(tempOutputFile).delete(); } catch (_) {}
-          try { await File(tempMetadataFile).delete(); } catch (_) {}
-          throw Exception('Failed to apply metadata: ${result.stderr}');
-        }
+      final args = <String>[
+        '-i', _currentFilePath!,
+        '-i', tempMetadataFile,
+        '-map', '0:a',
+        '-map_chapters', '1',
+        '-map_metadata', '1',
+        '-c', 'copy',
+        '-v', 'warning',
+      ];
 
-        await File(_currentFilePath!).delete();
-        await File(tempOutputFile).rename(_currentFilePath!);
-        await File(tempMetadataFile).delete();
-
-        setState(() => _saving = false);
-        _showSuccess('Metadata saved successfully!');
-
-      } catch (e) {
-        setState(() => _saving = false);
-        _showError('Failed to save metadata: $e');
+      if (isOpus) {
+        args.addAll([
+          '-metadata:s:a:0', 'title=${_titleController.text}',
+          '-metadata:s:a:0', 'album=${_titleController.text}',
+          '-metadata:s:a:0', 'artist=${_authorController.text}',
+          '-metadata:s:a:0', 'album_artist=${_authorController.text}',
+          if (_yearController.text.isNotEmpty)
+            '-metadata:s:a:0', 'date=${_yearController.text}',
+        ]);
       }
+
+      args.addAll(['-y', tempOutputFile]);
+
+      final result = await Process.run(
+        _ffmpeg.ffmpegPath ?? 'ffmpeg',
+        args,
+      );
+
+      if (result.exitCode != 0) {
+        try { await File(tempOutputFile).delete(); } catch (_) {}
+        try { await File(tempMetadataFile).delete(); } catch (_) {}
+        throw Exception('Failed to apply metadata: ${result.stderr}');
+      }
+
+      await File(_currentFilePath!).delete();
+      await File(tempOutputFile).rename(_currentFilePath!);
+      await File(tempMetadataFile).delete();
+
+      setState(() => _saving = false);
+      _showSuccess('Metadata saved successfully!');
+
+    } catch (e) {
+      setState(() => _saving = false);
+      _showError('Failed to save metadata: $e');
     }
+  }
 
     String _createFFMetadataContent() {
         final buffer = StringBuffer();

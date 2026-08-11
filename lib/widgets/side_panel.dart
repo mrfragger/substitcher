@@ -2641,6 +2641,7 @@ class SidePanel extends StatelessWidget {
           if (selectedSubCategory == FontCategory.ligatures) ...[
             _buildStudioButton('177studio', FontCategory.studio177),
             _buildStudioButton('Various', FontCategory.various),
+            _buildStudioButton('Various123', FontCategory.various123),
           ],
           _buildSubCategoryButton(
               'missingligatures', FontCategory.missingLigatures),

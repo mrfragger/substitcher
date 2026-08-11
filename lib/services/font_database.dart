@@ -65,16 +65,18 @@ class FontDatabase {
      'Salvador Abstract demo': FontMetadata(fontName: 'Salvador Abstract demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.studio177),
      'Traditional Civilization demo': FontMetadata(fontName: 'Traditional Civilization demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.studio177),
 
+     // ==================== demo/ligatures/Various123 ====================
+     'Chocolate Chips': FontMetadata(fontName: 'Chocolate Chips', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various123),
+     'Pricedown Black': FontMetadata(fontName: 'Pricedown Black', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various123),
+     'Shoese Flower': FontMetadata(fontName: 'Shoese Flower', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various123),
+     'Sophia Melanie': FontMetadata(fontName: 'Sophia Melanie', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various123),
+     'Sparkster One': FontMetadata(fontName: 'Sparkster One', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various123),
+     'Zentaro': FontMetadata(fontName: 'Zentaro', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various123),
+
      // ==================== demo/ligatures/Various ====================
-     'Chocolate Chips': FontMetadata(fontName: 'Chocolate Chips', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
      'Diglet Sunsin': FontMetadata(fontName: 'Diglet Sunsin', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
-     'Pricedown Black': FontMetadata(fontName: 'Pricedown Black', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
      'Rocket Raccoon free': FontMetadata(fontName: 'Rocket Raccoon free', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
-     'Shoese Flower': FontMetadata(fontName: 'Shoese Flower', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
-     'Sophia Melanie': FontMetadata(fontName: 'Sophia Melanie', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
      'Souther Daleska demo version': FontMetadata(fontName: 'Souther Daleska demo version', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
-     'Sparkster One': FontMetadata(fontName: 'Sparkster One', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
-     'Zentaro': FontMetadata(fontName: 'Zentaro', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
 
      // ==================== demo/missingligatures/177studio ====================
      'Abstract Settings demo': FontMetadata(fontName: 'Abstract Settings demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.missingLigatures], studio: FontCategory.studio177, ligaturePairs: ["as", "be", "de", "es", "ha", "le", "ly", "ne", "of", "op", "pr", "rt", "so", "ur", "ic", "is"]),

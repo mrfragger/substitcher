@@ -3057,7 +3057,7 @@ class _EncoderScreenState extends State<EncoderScreen> {
                   );
                 },
                 icon: const Icon(Icons.school),
-                label: const Text('Anki Convert to Audiobook'),
+                label: const Text('Anki Convert to Audiobook csv'),
                 style: ElevatedButton.styleFrom(
                   padding: const EdgeInsets.all(16),
                 ),

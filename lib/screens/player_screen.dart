@@ -8057,7 +8057,7 @@ class _PlayerScreenState extends State<PlayerScreen>
           } else if (event.logicalKey == LogicalKeyboardKey.keyQ &&
               event is KeyDownEvent) {
             if (HardwareKeyboard.instance.isControlPressed) {
-              _applyDefaultSettings();
+              _setCurrentAsDefault();
             } else if (HardwareKeyboard.instance.isShiftPressed) {
               _playNextQuranRef();
             } else {

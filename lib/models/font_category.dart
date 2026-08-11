@@ -6,7 +6,7 @@ class FontCategory {
   static const String favorites = 'favorites';
   static const String custom = 'custom';
   static const String custom2 = 'custom2';
-  
+
   // Sub-categories
   static const String ligatures = 'ligatures';
   static const String missingLigatures = 'missingligatures';
@@ -15,7 +15,7 @@ class FontCategory {
   static const String seesawcase = 'seesawcase';
   static const String foreign = 'foreign';
   static const String alternates = 'alternates';
-  
+
   // Studios/Collections
   static const String studio177 = '177studio';
   static const String putracetol = 'Putracetol';
@@ -26,6 +26,7 @@ class FontCategory {
   static const String putracetol123 = 'Putracetol123';
   static const String gluk = 'Gluk';
   static const String various = 'various';
+  static const String various123 = 'various123';
 }
 
 class FontMetadata {
@@ -34,7 +35,7 @@ class FontMetadata {
   final List<String> subCategories; // ligatures, uppercase, etc.
   final String? studio; // 177studio, putracetol, etc.
   final List<String>? ligaturePairs; // For missing ligature fixes
-  
+
   FontMetadata({
     required this.fontName,
     required this.mainCategory,
@@ -42,17 +43,17 @@ class FontMetadata {
     this.studio,
     this.ligaturePairs,
   });
-  
+
   bool isDemo() => mainCategory == FontCategory.demo;
   bool isDemo123() => mainCategory == FontCategory.demo123;
   bool isFree() => mainCategory == FontCategory.free;
-  
+
   bool hasLigatures() => subCategories.contains(FontCategory.ligatures);
   bool hasMissingLigatures() => subCategories.contains(FontCategory.missingLigatures);
   bool mustBeUppercase() => subCategories.contains(FontCategory.mustBeUppercase);
   bool isSeesawCase() => subCategories.contains(FontCategory.seesawcase);
   bool hasAlternates() => subCategories.contains(FontCategory.alternates);
-  
+
   String get displayPath {
     final parts = <String>[mainCategory];
     if (subCategories.isNotEmpty) parts.addAll(subCategories);
