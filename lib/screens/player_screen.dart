@@ -677,10 +677,16 @@ class _PlayerScreenState extends State<PlayerScreen>
     await player.setVolume(0);
     await player.play();
     Future.delayed(const Duration(milliseconds: 600), () {
-      if (mounted) player.setVolume(originalVolume);
-    });
-    setState(() => _showPanel = false);
-  }
+          if (mounted) player.setVolume(originalVolume);
+        });
+        setState(() => _showPanel = false);
+
+        WidgetsBinding.instance.addPostFrameCallback((_) {
+          if (mounted) {
+            FocusScope.of(context).requestFocus(_focusNode);
+          }
+        });
+      }
 
   void _playNextQuranRef() {
     final active = _activeQuranRef;

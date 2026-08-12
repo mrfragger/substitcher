@@ -4102,8 +4102,7 @@ cmds - Commands, Exhortations, Prohibitions, Instructions
 - Do not follow anyone blindly 2:170
 - Keep and fulfil all trusts. Perform your prescribed religious duties with sincerity. Fulfill your oaths and covenants. Keep promises, especially those made to Allah. Support those in need and relieve hardship. Avoid committing sins that lead to loss of divine favor. Do not let pride lead you to injustice 2:177
 - There is (a saving of) life for you in Al-Qisas (the Law of Equality in punishment). 2:179
-- Fast during the month of Ramadan 2:183
-- Observe the prescribed fasting to become Al-Muttaqun (the pious). 2:183
+- Fast during the month of Ramadan. Observe the prescribed fasting to become Al-Muttaqun (the pious). 2:183
 - Respect the Quran as the ultimate source of guidance 2:185
 - Eat not up one another's property unjustly, nor give bribery to the rulers (judges before presenting your cases). 2:188
 - Do not oppress others, whether in word or deed. Never engage in fighting as an aggressor but only in defense 2:190
