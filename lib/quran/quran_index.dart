@@ -4078,4 +4078,285 @@ Matching Phrases 8 words
 - Allah extends provision for whom He wills of His servants and restricts [it]. (اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ) 28:82; 29:62
 - And you will be returned to the Knower of the unseen and the seen, and He will inform you of what you used to... (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
 - And those of [blood] relationship are more entitled [to inheritance] in the decree of Allah. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
+cmds - Commands, Exhortations, Prohibitions, Instructions
+- fard / wajib (فرض / واجب) — obligatory (must do; sin to omit)
+- mustahabb / mandub (مستحب / مندوب) — recommended (rewarded if done, not sinful if omitted)
+- mubah (مباح) — neutral / permissible (no reward or sin either way)
+- makruh (مكروه) — disliked (discouraged, but not sinful if done)
+- haram (حرام) — forbidden (sin to do)
+- halal (حلال, permitted / lawful) covers both mubah and mustahabb — anything not forbidden
+- To worship Allah alone and seek His help/aid. 1:5
+- Worship Allah alone 2:21
+- Do not associate any partners with Allah 2:22
+- Allah is the One who forgives (accepts repentance), He accepted repentance of Adam (عَلَيْهِ ٱلسَّلَامُ). 2:37
+- Mix not truth with falsehood, nor conceal the truth. 2:42
+- Perform As-Salat (daily prayers), and give Zakat (charity). 2:43
+- Enjoin virtue to others only after practicing it yourself 2:44
+- Seek Allah's help in all your affairs 2:45
+- Do not engage in or spread corruption 2:60
+- Do not prevent people from going to houses of worship 2:114
+- Respect the sanctity of the mosque. Keep your prayer spaces clean and pure 2:125
+- Remember Allah (by praying, glorifying, etc.) and He will remember you, and be grateful to Him. 2:152
+- Practice patience in adversity 2:153
+- Follow not the footsteps of Shaitan (Satan) who is an open enemy. 2:168
+- Do not follow anyone blindly 2:170
+- Keep and fulfil all trusts. Perform your prescribed religious duties with sincerity. Fulfill your oaths and covenants. Keep promises, especially those made to Allah. Support those in need and relieve hardship. Avoid committing sins that lead to loss of divine favor. Do not let pride lead you to injustice 2:177
+- There is (a saving of) life for you in Al-Qisas (the Law of Equality in punishment). 2:179
+- Fast during the month of Ramadan 2:183
+- Observe the prescribed fasting to become Al-Muttaqun (the pious). 2:183
+- Respect the Quran as the ultimate source of guidance 2:185
+- Eat not up one another's property unjustly, nor give bribery to the rulers (judges before presenting your cases). 2:188
+- Do not oppress others, whether in word or deed. Never engage in fighting as an aggressor but only in defense 2:190
+- Protect orphans. Concerning orphans, to work honestly in their property and not swallow their property. 2:220
+- Repent and seek Allah's forgiveness. Do not have sexual intercourse during the menstrual period. Maintain cleanliness and purity (both physically and spiritually) 2:222
+- Fulfill your responsibilities toward your family 2:233
+- Choose leaders based on their merit 2:247
+- Do not engage in compulsion regarding religion 2:256
+- Spend wealth in charity. Be charitable in both wealth and time 2:261
+- Do not invalidate charity by bragging about your generosity 2:264
+- Shaytan (Satan) threatens you with poverty and orders you to commit Fahsha' (evil deeds, illegal sexual intercourse, sins). 2:268
+- Seek out the needy and help them 2:273
+- Don't be involved with usury or interest. Do not consume interest-bearing wealth. Eat not Riba (usury). 2:275
+- Grant more time to repay if the debtor is in hard times 2:280
+- Keep your word in business transactions. Be truthful in your financial dealings. Act with integrity in all your commitments. When you contract a debt for a fixed period, write it down. Take witnesses whenever you make a commercial contract. 2:282
+- Keep and fulfil all trusts 2:283
+- Believe in the revealed Books and all the Prophets 2:285
+- Allah burdens not a person beyond his scope. They get reward for that (good) which they have earned, and punished for that (evil) which they have earned. God does not burden a person beyond his capacity; nor should we. Trust in Allah's plan even in hardship 2:286
+- Whoever fulfils pledges and fears Allah much, then Allah loves those who are pious. 3:76
+- Perform Hajj (pilgrimage) if you are able 3:97
+- Do not become divided 3:103
+- Enjoin what is right and forbid what is wrong. Encourage righteousness in your community. Call others to the remembrance of Allah 3:104
+- In Allah should the believers put their trust. 3:122
+- Eat not Riba (usury). 3:130
+- Obey Allah and His Messenger to obtain mercy. 3:132
+- Allah loves those who spend (in Allah's Cause – deeds of charity, alms, etc.) in prosperity and in adversity, who repress anger, and who pardon men. 3:134
+- Restrain anger. Control your anger. 3:134
+- Pardon and forgive the mistakes of others 3:135
+- Do not be rude in speech. Be patient with those who differ from you 3:159
+- If Allah helps you, none can overcome you; and if He forsakes you, who is there after Him that can help you? 3:160
+- Everyone shall taste death. And only on the Day of Resurrection shall you be paid your wages in full. 3:185
+- Think deeply about the wonders of nature and the creation of this universe. Know that God created the universe with meaning and purpose 3:191
+- Men and women have equal rewards for their deeds 3:195
+- For those who fear their Lord, are Gardens under which rivers flow (in Paradise); therein are they to dwell (for ever), an entertainment from Allah. 3:198
+- Strive always for the pleasure of Allah in every action. 3:200
+- Be dutiful to your Lord, fear Him and (do not cut the relations of) the wombs (kinship). 4:1
+- Give unto orphans their property and do not exchange (your) bad things for (their) good ones; and devour not their substance (by adding it) to your substance. 4:2
+- Give to women (whom you marry) their Mahr (obligatory bridal money given by the husband to his wife at the time of marriage) with a good heart. 4:4
+- Guard the rights of orphans 4:6
+- Wealth of the dead should be distributed among his family members. Women have the right of inheritance 4:7
+- Do not consume the property of orphans unjustly 4:10
+- Obey the commands regarding inheritance 4:11
+- Forbidden to inherit women against their will, and you should not treat them with harshness. To live with them (wives) honourably. Respect and observe the rights of women. Treat your spouse with kindness and compassion. Treat women with honor and justice 4:19
+- Do not marry those related to you by blood 4:23
+- Do not kill yourselves (nor kill one another). Surely, Allah is Most Merciful to you. Do not consume one another's wealth unjustly 4:29
+- If avoid the great sins which forbidden to do, Allah shall remit from you your (small) sins, and admit you to a Noble Entrance (i.e. Paradise). 4:31
+- Wish not for the things in which Allah has made some of you to excel others. Avoid envy and jealousy 4:32
+- Men are the protectors and maintainers of women, because Allah has made one of them to excel the other, and because they spend (to support them) from their means. The man is the protector and supporter of the family 4:34
+- Worship Allah and join none with Him in worship, do good to parents, kinsfolk, orphans, Al-Masakin (the poor), the neighbour, the companion by your side, the wayfarer (you meet), and those (slaves) whom your right hands possess. Allah does not like those who are proud and boastful. Be good to others. Show mercy to those who are weak. Keep family ties and honor relatives. 4:36
+- Do not be miserly 4:37
+- Allah forgives not that partners should be set up with him in worship, but He forgives except that (anything else) to whom He pleases. 4:48
+- Do not envy others 4:54
+- Allah commands that you should render back the trusts to those, to whom they are due. When you judge between men, you judge with justice. 4:58
+- Obey Allah and His Messenger. Give due respect to those in authority among you 4:59
+- Do not oppress the weak or vulnerable 4:75
+- Whatever of good reaches you, is from Allah, but whatever of evil befalls you, is from yourself. 4:79
+- He who obeys the Messenger (Muhammad ﷺ), has indeed obeyed Allah. 4:80
+- Whosoever intercedes for a good cause will have the reward thereof, and whosoever intercedes for an evil cause will have a share in its burden. 4:85
+- Not for a believer to kill a believer except (that it be) by mistake. 4:92
+- Whoever kills a believer intentionally, his recompense is Hell to abide therein. The Wrath and the Curse of Allah are upon him, and a great punishment is prepared for him. 4:93
+- He who emigrates (from his home) in the cause of Allah, will find on earth many dwelling places and plenty to live by. 4:100
+- Be punctual in your prayers 4:103
+- Do not support or be an advocate for those who betray their trusts 4:105
+- Seek the Forgiveness of Allah, certainly, Allah is Ever Oft-Forgiving, Most Merciful. 4:106
+- O you who believe! Stand out firmly for justice, as witnesses to Allah, even though it be against yourselves, or your parents, or your kin, be he rich or poor. Do not delay justice; act promptly in righting wrongs 4:135
+- Hypocrites seek to deceive Allah, but it is He Who deceives them. 4:142
+- The hyprocrites will be in the lowest depths (grade) of the Fire; no helper will you find for them. 4:145
+- Allah does not like that the evil should be uttered in public except by him who has been wronged. 4:148
+- Messengers as bearers of good news as well as of warning in order that mankind should have no plea against Allah after the Messengers. 4:165
+- Fulfill your contracts and promises 5:1
+- Support one another in virtue and piety, not in sin or enmity 5:2
+- Do not consume dead animals, the blood of animals, or pork 5:3
+- Be just, let not the enmity and hatred of others make you avoid justice. Be just and fair in your dealings. Know that being just is next to piety. Do not delay justice; act promptly in righting wrongs 5:8
+- Seek the means of approach to Allah, and strive hard in His Cause as much as you can. So that you may be successful. 5:35
+- Fulfill your oaths and covenants 5:89
+- Avoid intoxicants and alcohol. Strictly avoid Intoxicants (all kinds of alcoholic drinks), gambling, Al-Ansab (stone altars), and Al-Azlam (arrows for seeking luck or decision) which are all an abomination of Shaitan's (Satan) handiwork. 5:90
+- Kill not game while you are in a state of Ihram for Hajj or 'Umrah (pilgrimage). 5:95
+- Ask not about things which, if made plain to you, may cause you trouble. 5:101
+- Do not insult other people's deities. Insult not those whom they (disbelievers) worship besides Allah, lest they insult Allah wrongfully without knowledge. 6:108
+- If you obey most of those on earth, they will mislead you far away from Allah's Path. They follow nothing but conjectures, and they do nothing but lie. 6:116
+- Leave (O mankind, all kinds of) sin, open and secret. 6:120
+- Eat not (O believers) of that (meat) on which Allah's Name has not been pronounced (at the time of the slaughtering of the animal). 6:121
+- Whomsoever Allah wills to guide, He opens his breast to Islam, and whomsoever He wills to send astray, He makes his breast closed and constricted. 6:125
+- Be moderate in spending and avoid extravagance. Preserve the rights of all creatures 6:141
+- Join not anything in worship with Allah, be good and dutiful to parents, kill not your children because of poverty, come not near Al-Fawahish (shameful deeds), kill not anyone whom Allah has forbidden, except for a just cause. 6:151
+- Be honest; don't cheat in any of your dealings. Come not near to the orphan's property, except to improve it, give full measure and full weight with justice, whenever you give your word, say the truth even if a near relative is concerned, and fulfill the Covenant of Allah. 6:152
+- Follow Straight Path and follow not (other) paths, for they will separate you away from His Path. 6:153
+- Say (O Muhammad (ﷺ)): "Verily, my Salat (prayer), my sacrifice, my living, and my dying are for Allah, the Lord of the 'Alamin. 6:162
+- Do not be arrogant 7:13
+- Let not Shaitan (Satan) deceive you. 7:27
+- Say (O Muhammad (ﷺ)): My Lord has commanded justice… 7:29
+- Adhere to the limits set by Allah in all matters. Avoid transgression in speech and actions. Eat and drink but be not excessive. Wear good clothing during prayer times 7:31
+- Allah created the heavens and the earth in Six Days, and then He Istawa (rose over) the Throne (really in a manner that suits His Majesty). 7:54
+- Invoke your Lord with humility and in secret. He likes not the aggressors. 7:55
+- And do not do mischief on the earth, after it has been set in order, and invoke Him with fear and hope. 7:56
+- But those who committed evil deeds and then repented afterwards and believed, verily, your Lord after (all) that is indeed Oft-Forgiving, Most Merciful. 7:153
+- Say (O Muhammad (ﷺ)): "O mankind! Verily, I am sent to you all as the Messenger of Allah… 7:158
+- And (all) the Most Beautiful Names belong to Allah, so call on Him by them, and leave the company of those who belie or deny (or utter impious speech against) His Names… 7:180
+- Whomsoever Allah sends astray, none can guide him; and He lets them wander blindly in their transgressions. 7:186
+- Show forgiveness, enjoin what is good, and turn away from the foolish (i.e. don't punish them). 7:199
+- Forgive others for their mistakes 7:199
+- And if an evil whisper comes to you from Shaitan (Satan) then seek refuge with Allah. Verily, He is All-Hearer, All-Knower. 7:200
+- Believers are only those who, when Allah is mentioned, feel a fear in their hearts and when His Verses are recited unto them, they (i.e. the Verses) increase their Faith… 8:2
+- Betray not Allah and His Messenger, nor betray knowingly your Amanat (things entrusted to you, and all the duties which Allah has ordained for you). 8:27
+- If you obey and fear Allah, He will grant you Furqan a criterion ((to judge between right and wrong), or (Makhraj, i.e. making a way for you to get out from every difficulty)). 8:29
+- Those who disbelieve spend their wealth to hinder (men) from the Path of Allah, and so will they continue to spend it; but in the end it will become an anguish for them. 8:36
+- Say to those who have disbelieved, if they cease (from disbelief) their past will be forgiven. But if they return (thereto), then the examples of those (punished) before them have already preceded (as a warning). 8:38
+- When you meet (an enemy) force, take a firm stand against them and remember the Name of Allah much (both with tongue and mind), so that you may be successful. 8:45
+- Be not like those who come out of their homes boastfully and to be seen of men, and hinder (men) from the Path of Allah. 8:47
+- Allah will never change a grace which He has bestowed on a people until they change what is in their ownselves. 8:53
+- The worst of moving (living) creatures before Allah are those who disbelieve. 8:55
+- God puts love and affection between the hearts of those who believe in Him 8:63
+- Protect and help those who seek protection 9:6
+- It is not for the Mushrikun, to maintain the Mosques of Allah. 9:17
+- They (the disbelievers, the Jews and the Christians) want to extinguish Allah's Light (with which Muhammad ﷺ has been sent – Islamic Monotheism) with their mouths, but Allah will not allow except that His Light should be perfected even though the Kafirun hate it. 9:32
+- As-Sadaqat (i.e. Zakat) are only for 1) Fuqara' (poor), 2) Al-Masakin (poor), 3) those employed to collect the funds, 4) to attract the hearts of those who've been inclined towards Islam, 5) to free captives, 6) for those in debt, 7) for Allah's cause (i.e. for Mujahidun), and 8) for the wayfarer. 9:60
+- Whoever opposes and shows hostility to Allah and His Messenger (ﷺ), certainly for him will be the Fire of Hell to abide therein. That is extreme disgrace. 9:63
+- The hypocrites, men and women, are from one another. They have forgotten Allah, so He has forgotten them. 9:67
+- Strive for purity. Respect the sanctity of the mosque 9:108
+- It is not (proper) for the Prophet and those who believe to ask Allah's Forgiveness for the Mushrikun even though they be of kin, after it has become clear to them that they are the dwellers of the Fire (because they died in a state of disbelief). 9:113
+- Who does more wrong than he who forges a lie against Allah or denies His Ayat? Surely, the Mujrimun will never be successful! 10:17
+- They worship besides Allah things that hurt them not, nor profit them, and they say: "These are our intercessors with Allah." Say: "Do you inform Allah of that which He knows not in the heavens and on the earth?" Glorified and Exalted be He above all that which they associate as partners with Him! 10:18
+- The recompense of an evil deed is the like thereof. 10:27
+- Such is Allah, your Lord in truth. So after the truth, what else can there be, save error? How then are you turned away? 10:32
+- Most of them follow nothing but conjecture. Certainly, conjecture can be of no avail against the truth. 10:36
+- Truly! Allah wrongs not mankind in aught; but mankind wrong themselves. 10:44
+- Know that the bounty of God is better than anything man can amass or hoard 10:58
+- Be not one of those who belie the Ayat of Allah, for then you shall be one of the losers. 10:95
+- If Allah touches you with hurt, there is none who can remove it but He; and if He intends any good for you, there is none who can repel His Favour which He causes it to reach whomsoever of His slaves He will. 10:107
+- No (moving) living creature is there on earth but its provision is due from Allah. And He knows its dwelling place and its deposit (in the uterous, grave, etc.). 11:6
+- If We give man a taste of Mercy from Us, and then withdraw it from him, verily! He is despairing, ungrateful. 11:9
+- Whosoever desires the life of the world and its glitter; to them We shall pay in full (the wages of) their deeds therein, and they will have no diminution therein. 11:15
+- We wronged them not, but they wronged themselves. So their aliha (gods), other than Allah, whom they invoked, profited them naught when there came the Command of your Lord, nor did they add aught (to their lot) but destruction. 11:101
+- On the Day when it comes, no person shall speak except by His (Allah's) Leave. Some among them will be wretched and (others) blessed. 11:105
+- As for those who are wretched, they will be in the Fire, sighing in a high and low tone. 11:106
+- They will dwell therein for all the time that the heavens and the earth endure, except as your Lord wills. Verily, your Lord is the doer of what He wills. 11:107
+- And those who are blessed, they will be in Paradise, abiding therein for all the time that the heavens and the earth endure, except as your Lord will, a gift without an end. 11:108
+- Incline not toward those who do wrong, lest the Fire should touch you, and you have no protectors other than Allah, nor you would then be helped. 11:113
+- Perform As-Salat at the two ends of the day and in some hours of the night (i.e. 5 daily prayers). The good deeds remove the evil deeds (i.e. small sins). 11:114
+- To Allah belongs the Ghaib (unseen) of the heavens and the earth, and to Him return all affairs (for decision). 11:123
+- The command (or the judgement) is for none but Allah. He has commanded that you worship none but Him (i.e. His Monotheism), that is the (true) straight religion, but most men know not. 12:40
+- Never give up hope of Allah's Mercy 12:87
+- And most of mankind will not believe even if you desire it eagerly. 12:103
+- And most of them believe not in Allah except that they attribute partners unto Him (i.e. they are Mushrikun). 12:106
+- It (the Qur'an) is not a forged statement but a confirmation of the Allah's existing Books (the Taurat (Torah), the Injeel (Gospel) and other Scriptures of Allah) and a detailed explanation of everything and a guide and a Mercy for the people who believe. 12:111
+- Allah increases the provision for whom He wills, and straitens (it for whom He wills). 13:26
+- Remember Allah often through dhikr. Those who believe in God find satisfaction in remembering Him 13:28
+- Those who believe and do good are given joy and peace of mind 13:29
+- Those who prefer the life of this world instead of the Hereafter, and hinder (men) from the Path of Allah (i.e.Islam) and seek crookedness therein – They are far astray. 14:3
+- Practice humility and gratitude in worship 14:7
+- The parable of those who disbelieve in their Lord is that their works are as ashes, on which the wind blows furiously on a stormy day, they shall not be able to get aught of what they have earned. 14:18
+- Allah will keep firm those who believe, with the word that stands firm in this world (i.e. they will keep on worshipping Allah Alone and none else), and in the Hereafter. 14:27
+- Consider not that Allah is unaware of that which the Zalimun (polytheists, wrong-doers, etc.) do, but He gives them respite up to a Day when the eyes will stare in horror. 14:42
+- That Allah may requite each person according to what he has earned. Truly, Allah is Swift at reckoning. 14:51
+- And indeed, We created man from sounding clay of altered black smooth mud. 15:26
+- And the jinn, We created aforetime from the smokeless flame of fire. 15:27
+- It (Hell) has seven gates, for each of those gates is a (special) class (of sinners) assigned. 15:44
+- He has created man from Nutfah (mixed drops of male and female sexual discharge), then behold, this same (man) becomes an open opponent. 16:4
+- And the cattle, He has created them for you; in them there is warmth (warm clothing), and numerous benefits, and of them you eat. 16:5
+- And (He has created) horses, mules and donkeys, for you to ride and as an adornment. And He creates (other) things of which you have no knowledge. 16:8
+- He it is Who sends down water (rain) from the sky; from it you drink and from it (grows) the vegetation on which you send your cattle to pasture. 16:10
+- He it is Who has subjected the sea (to you), that you eat thereof fresh tender meat (i.e. fish), and that you bring forth out of it ornaments to wear. 16:14
+- He has affixed into the earth mountains standing firm, lest it should shake with you, and rivers and roads, that you may guide yourselves. 16:15
+- Is then He, Who creates as one who creates not? Will you not then remember? 16:17
+- If you would count the graces of Allah, never could you be able to count them. 16:18
+- Allah knows what you conceal and what you reveal. 16:19
+- Those whom they (Al-Mushrikun) invoke besides Allah have not created anything, but are themselves created. 16:20
+- (They are) dead, lifeless, and they know not when they will be raised up. 16:21
+- Our Word unto a thing when We intend it, is only that We say unto it: "Be!" and it is. 16:40
+- Do then those who devise evil plots feel secure that Allah will not sink them into the earth, or that the torment will not seize them from directions they perceive not? 16:45
+- Whatever of blessings and good things you have, it is from Allah. Then, when harm touches you, unto Him you cry aloud for help. 16:53
+- Then, when He has removed the harm from you, behold! Some of you associate others in worship with their Lord (Allah). 16:54
+- In the cattle, there is a lesson for you. We give you to drink of that which is in their bellies, from between excretions and blood, pure milk; palatable to the drinkers. 16:66
+- So put not forward similitudes for Allah (as there is nothing similar to Him, nor He resembles anything). Truly! Allah knows and you know not. 16:74
+- Know that God gave humans hearing, sight, intelligence, and affections so that they might be grateful 16:78
+- Avoid greed and covetousness 16:97
+- When you want to recite the Qur'an, seek refuge with Allah from Shaitan (Satan), the outcast (the cursed one). 16:98
+- Know that a wrong done out of ignorance is forgiven if the person repents and corrects himself 16:119
+- Invite (mankind, O Muhammad ﷺ) to the Way of your Lord (i.e. Islam) with wisdom and fair preaching, and argue with them in a way that is better. Inviting others to the way of God should be done with wisdom and graciousness 16:125
+- Allah is with those who fear Him (keep their duty unto Him), and those who are Muhsinun (good doers). 16:128
+- This Qur'an guides to that which is most just and right. 17:9
+- No one can bear another person's sins 17:15
+- Whoever desires the Hereafter and strives for it, with the necessary effort due for it while he is a believer, then such are the ones whose striving shall be appreciated, thanked and rewarded (by Allah). 17:19
+- And your Lord has decreed that you worship none but Him. And that you be dutiful to your parents. If one of them or both of them attain old age in your life, say not to them a word of disrespect, nor shout at them but address them in terms of honour. 17:23
+- Honor your parents and treat them with kindness. Be dutiful to parents. Do not say a word of disrespect to parents. 17:23
+- And lower unto them the wing of submission and humility through mercy, and say: "My Lord! Bestow on them Your Mercy as they did bring me up when I was small." 17:24
+- Verily, spendthrifts are brothers of the Shayatin (devils), and the Shaitan (Devil – Satan) is ever ungrateful to his Lord. 17:27
+- Do not spend money extravagantly 17:29
+- Do not kill your children for fear of poverty 17:31
+- Do not commit adultery. Keep the sanctity of marriage and avoid adultery 17:32
+- Give full measure when you measure, and weigh with a balance that is straight. That is good (advantageous) and better in the end. 17:35
+- Follow not (O man i.e., say not, or do not or witness not, etc.) that of which you have no knowledge (e.g. one's saying: "I have seen," while in fact he has not seen, or "I have heard," while he has not heard). 17:36
+- Be humble and do not be arrogant. Walk not on the earth with conceit and arrogance. Verily, you can neither rend nor penetrate the earth, nor can you attain a stature like the mountains in height. 17:37
+- Your Lord knows you best, if He will, He will have mercy on you, or if He will, He will punish you. 17:54
+- Whoever is blind in this world (i.e., does not see Allah's Signs and believes not in Him), will be blind in the Hereafter, and more astray from the Path. 17:72
+- Observe the prescribed times for prayer 17:78
+- Indeed We have fully explained to mankind, in this Qur'an, every kind of similitude, but most mankind refuse (the truth and accept nothing) but disbelief. 17:89
+- We have put forth every kind of example in this Qur'an, for mankind. But, man is ever more quarrelsome than anything. 18:54
+- That shall be their recompense, Hell; because they disbelieved and took My Ayat and My Messengers by way of jest and mockery. 18:106
+- It befits not (the Majesty of) Allah that He should beget a son (this refers to the slander of Christians against Allah, by saying that 'Iesa (Jesus) is the son of Allah). Glorified (and Exalted be He above all that they associate with Him). 19:35
+- Speak to people mildly 20:44
+- Compete with one another in doing good 21:90
+- Avoid vain talk 23:3
+- Guard your modesty 23:5
+- Guard your heart against sinful inclinations 23:97
+- Forgive others and pardon their faults 24:22
+- Respect other people's privacy, especially in their own homes 24:27
+- Fulfill the rights of neighbors 24:27
+- Lower your gaze (for both men and women) 24:30
+- Guard your modesty and chastity. Observe modesty in dress and behavior 24:30–31
+- Know that God provides security and peace to those who worship Him and act virtuously 24:55
+- Do not enter parents' private room without asking permission 24:58
+- Be modest and humble 25:63
+- Avoid false witness and deceit 25:72
+- Strive for reward in the Hereafter but do not neglect your affairs in this world 28:77
+- Invoke not any other deity along with God 28:88
+- Do not engage in homosexuality 29:29
+- Strive for excellence in all your endeavors 29:69
+- Establish prayer and give in charity 31:4
+- Enjoin the right and forbid the wrong 31:17
+- Avoid arrogance in your behavior. Refrain from wasting time in idle talk 31:18
+- Be moderate in your bearing and the volume of your speech 31:19
+- Follow the example of the Prophet Muhammad 33:21
+- Women should not display or flaunt their beauty and charms 33:33
+- Speak the truth in all circumstances 33:70
+- Seek wisdom and understanding through reflection 38:29
+- Obey the dictates of the Qur'an 39:23
+- God forgives all sins when the sinner repents and turns to Him 39:53
+- Make sincere duʿā (supplication) to Allah 40:60
+- Repel evil by something that is better 41:34
+- Decide affairs by consultation 42:38
+- Do not raise your voice above that of the Prophet 49:2
+- Keep secrets and avoid betrayal 49:6
+- Facilitate peace between those in conflict. Seek reconciliation in conflicts 49:9
+- Do not ridicule others 49:11
+- Avoid being suspicious. Avoid spying and backbiting. Do not slander or defame others. Refrain from all forms of backbiting and slander. Do not let pride lead you to injustice. 49:12
+- Know that it is only righteousness that makes a person noble. Respect the differences among people and cultures 49:13
+- Honor guests 51:26
+- Be mindful of your duties toward Allah 51:56
+- Know that there should be no monasticism (abandoned marriage and comforts such as monks, nuns, or others living under religious vows, or the buildings in which they live) in religion 57:27
+- Spend wealth in charity 57:7
+- Do not let wealth distract you from Allah's remembrance 58:11
+- Those who have knowledge will be given a higher rank by God 58:11
+- Treat non-Muslims in a kind and fair manner 60:8
+- Avoid hypocrisy in your beliefs and actions 63:9
+- Stay away from greed and stinginess 64:16
+- Guard the revelations entrusted to you 73:15
+- Be mindful of the Day of Judgment 75:36
+- Enjoin patience and compassion 90:17
+- Those who purify their souls succeed, and those who corrupt their souls fail 91:10
+- Do not ignore or push away the needy 93:10
+- Seek knowledge and understanding 96:1
+- Read and reflect upon the Quran 96:1–5
+- Encourage feeding of the poor 107:3
+- sources: islamtees.uk by Abu Yahya Imran Rafiq article entitled A List of (Some) Instructions, Exhortations, Commands and Prohibitions in the Qur’an, beingmuslimah.org, messageinternational.org
 """;

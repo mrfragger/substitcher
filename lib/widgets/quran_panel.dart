@@ -934,6 +934,7 @@ class _QuranPanelState extends State<QuranPanel> {
     '#',
     '=',
     'phrases',
+    'cmds',
   };
 
   String _detectScript(String word) {
@@ -2177,39 +2178,27 @@ class _QuranPanelState extends State<QuranPanel> {
                   ],
                 ),
               ),
-            Padding(
-              padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 4),
-              child: Row(
-                children: [
-                  Text('${filtered.length} topics',
-                      style:
-                          const TextStyle(color: Colors.white38, fontSize: 12)),
-                  const SizedBox(width: 10),
-                  const Text('* no vtt',
-                      style: TextStyle(color: Colors.white38, fontSize: 12)),
-                  const SizedBox(width: 4),
-                  Tooltip(
-                    message:
-                        'csv needs to be downloadable on quranenc.com for an available vtt',
-                    preferBelow: true,
-                    textStyle:
-                        const TextStyle(color: Colors.white, fontSize: 12),
-                    decoration: BoxDecoration(
-                      color: const Color(0xFF2A2A2A),
-                      borderRadius: BorderRadius.circular(6),
+              Padding(
+                padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 4),
+                child: Row(
+                  children: [
+                    Text('${filtered.length} topics',
+                        style: const TextStyle(color: Colors.white38, fontSize: 12)),
+                    const SizedBox(width: 10),
+                    const Text('*vtt',
+                        style: TextStyle(color: Colors.white38, fontSize: 12)),
+                    const SizedBox(width: 4),
+                    Tooltip(
+                      message: '* no vtt - csv needs to be downloadable on quranenc.com for an available vtt'
+                          '${widget.isQuranLoaded ? '\n⇧Q = next ayah' : ''}',
+                      preferBelow: true,
+                      textStyle: const TextStyle(color: Colors.white, fontSize: 12),
+                      decoration: BoxDecoration(
+                        color: const Color(0xFF2A2A2A),
+                        borderRadius: BorderRadius.circular(6),
+                      ),
+                      child: const Icon(Icons.info_outline, color: Colors.white38, size: 14),
                     ),
-                    child: const Icon(Icons.info_outline,
-                        color: Colors.white38, size: 14),
-                  ),
-                  if (widget.isQuranLoaded) ...[
-                    const SizedBox(width: 16),
-                    const Tooltip(
-                      message: 'next ayah',
-                      child: Text('⇧Q',
-                          style:
-                              TextStyle(color: Colors.white38, fontSize: 12)),
-                    ),
-                    const SizedBox(width: 6),
                     SizedBox(
                       width: 120,
                       height: 28,
@@ -2217,47 +2206,38 @@ class _QuranPanelState extends State<QuranPanel> {
                         controller: _refInputController,
                         focusNode: _refInputFocusNode,
                         autofocus: true,
-                        style:
-                            const TextStyle(color: Colors.white, fontSize: 12),
+                        style: const TextStyle(color: Colors.white, fontSize: 12),
                         decoration: InputDecoration(
                           hintText: '38:36-40',
-                          hintStyle: const TextStyle(
-                              color: Colors.white24, fontSize: 12),
+                          hintStyle: const TextStyle(color: Colors.white24, fontSize: 12),
                           filled: true,
                           fillColor: Colors.black26,
                           border: OutlineInputBorder(
                             borderRadius: BorderRadius.circular(4),
-                            borderSide: BorderSide(
-                                color: Colors.deepPurple.withAlpha(160)),
+                            borderSide: BorderSide(color: Colors.deepPurple.withAlpha(160)),
                           ),
                           enabledBorder: OutlineInputBorder(
                             borderRadius: BorderRadius.circular(4),
-                            borderSide: BorderSide(
-                                color: Colors.deepPurple.withAlpha(100)),
+                            borderSide: BorderSide(color: Colors.deepPurple.withAlpha(100)),
                           ),
                           focusedBorder: OutlineInputBorder(
                             borderRadius: BorderRadius.circular(4),
-                            borderSide:
-                                const BorderSide(color: Colors.deepPurple),
+                            borderSide: const BorderSide(color: Colors.deepPurple),
                           ),
-                          contentPadding: const EdgeInsets.symmetric(
-                              horizontal: 8, vertical: 4),
+                          contentPadding:
+                              const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
                           suffixIcon: IconButton(
-                            icon: const Icon(Icons.search,
-                                color: Colors.deepPurple, size: 16),
+                            icon: const Icon(Icons.search, color: Colors.deepPurple, size: 16),
                             padding: EdgeInsets.zero,
                             constraints: const BoxConstraints(),
-                            onPressed: widget.isQuranLoaded
-                                ? () => _playRefFromInput(context)
-                                : null,
+                            onPressed:
+                                widget.isQuranLoaded ? () => _playRefFromInput(context) : null,
                           ),
                         ),
-                        onSubmitted: widget.isQuranLoaded
-                            ? (_) => _playRefFromInput(context)
-                            : null,
+                        onSubmitted:
+                            widget.isQuranLoaded ? (_) => _playRefFromInput(context) : null,
                       ),
                     ),
-                  ],
                     const SizedBox(width: 8),
                     _quickFilterChip('Schemas', 'schemas'),
                     const SizedBox(width: 8),
@@ -2272,45 +2252,43 @@ class _QuranPanelState extends State<QuranPanel> {
                     _quickFilterChip('99names', '#'),
                     const SizedBox(width: 4),
                     _quickFilterChip('=ayah', '\='),
-                    if (widget.selectedLanguage == 'English')
+                    const SizedBox(width: 4),
+                    _quickFilterChip('=phrase', 'phrases'),
+                    if (widget.selectedLanguage == 'English') ...[
                       const SizedBox(width: 4),
-                      _quickFilterChip('=phrase', 'phrases'), ...[
+                      _quickFilterChip('cmds', 'cmds'),
                     ],
-                  const Spacer(),
-                  TextButton(
-                    onPressed: () => _showSurahListPopup(context),
-                    child: const Text('Surahs',
-                        style: TextStyle(color: Colors.white38, fontSize: 12)),
-                  ),
-                  const SizedBox(width: 4),
-                  Tooltip(
-                    message: _expandedIndices.isEmpty
-                        ? 'Expand all'
-                        : 'Collapse all',
-                    child: IconButton(
-                      onPressed: () => setState(() {
-                        if (_expandedIndices.length >= widget.entries.length) {
-                          _expandedIndices.clear();
-                        } else {
-                          _expandedIndices.addAll(
-                              List.generate(widget.entries.length, (i) => i));
-                        }
-                      }),
-                      icon: Icon(
-                        _expandedIndices.isEmpty
-                            ? Icons.unfold_more
-                            : Icons.unfold_less,
-                        color: Colors.white38,
-                        size: 18,
-                      ),
-                      padding: EdgeInsets.zero,
-                      constraints: const BoxConstraints(),
-                      visualDensity: VisualDensity.compact,
+                    const Spacer(),
+                    TextButton(
+                      onPressed: () => _showSurahListPopup(context),
+                      child: const Text('Surahs',
+                          style: TextStyle(color: Colors.white38, fontSize: 12)),
                     ),
-                  ),
-                ],
+                    const SizedBox(width: 4),
+                    Tooltip(
+                      message: _expandedIndices.isEmpty ? 'Expand all' : 'Collapse all',
+                      child: IconButton(
+                        onPressed: () => setState(() {
+                          if (_expandedIndices.length >= widget.entries.length) {
+                            _expandedIndices.clear();
+                          } else {
+                            _expandedIndices
+                                .addAll(List.generate(widget.entries.length, (i) => i));
+                          }
+                        }),
+                        icon: Icon(
+                          _expandedIndices.isEmpty ? Icons.unfold_more : Icons.unfold_less,
+                          color: Colors.white38,
+                          size: 18,
+                        ),
+                        padding: EdgeInsets.zero,
+                        constraints: const BoxConstraints(),
+                        visualDensity: VisualDensity.compact,
+                      ),
+                    ),
+                  ],
+                ),
               ),
-            ),
             const Divider(color: Colors.white12, height: 1),
                         if (widget.quranVerseSearchController.text.isNotEmpty) ...[
                           Expanded(
