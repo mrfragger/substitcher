@@ -3318,4 +3318,280 @@ Matching Phrases 8 words
 - Allah bőven adja a gondviselést annak, akinek akarja szolgái közül, és megszorítja. (اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ) 28:82; 29:62
 - És visszatértek a Láthatatlan és a Látható Tudójához, és Ő hírül adja nektek, mit tettetek. (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
 - És a vérrokonok, egyesek közelebb állnak a másokhoz Allah Írásában. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
+cmds - Commands, Exhortations, Prohibitions, Instructions
+- fard / wajib (فرض / واجب) — kötelező (meg kell tenni; bűn elhagyni)
+- mustahabb / mandub (مستحب / مندوب) — ajánlott (jutalom jár érte, ha elvégzik; nem bűn, ha elhagyják)
+- mubah (مباح) — semleges / megengedett (sem jutalom, sem bűn)
+- makruh (مكروه) — megvetendő / nem ajánlott (elriasztott, de nem bűn, ha elvégzik)
+- haram (حرام) — tiltott (bűn elkövetni)
+- halal (حلال, megengedett / törvényes) — magában foglalja a mubah-ot és a mustahabb-ot is — minden, ami nem tiltott
+- Csak Allahot imádd, és tőle kérd segítséget/támogatást. 1:5
+- Csak Allahot imádd. 2:21
+- Ne társíts senkit Allahhoz. 2:22
+- Allah az, aki megbocsát (elfogadja a bűnbánatot), elfogadta Ádám (béke legyen vele) bűnbánatát. 2:37
+- Ne keverd az igazságot a hazugsággal, és ne rejtsd el az igazságot. 2:42
+- Végezd el az imákat (a napi imákat), és add meg a zakát-ot (alamizsnát). 2:43
+- Csak azután parancsold másoknak a jót, miután magad is gyakorlod. 2:44
+- Kérd Allah segítségét minden ügyedben. 2:45
+- Ne kövess el és ne terjessz romlást. 2:60
+- Ne akadályozd meg az embereket, hogy az imádat helyeire menjenek. 2:114
+- Tiszteld a mecset szentségét. Tartsd tisztán és tisztán az imahelyeidet. 2:125
+- Emlékezz Allahra (imával, dicsőítéssel stb.), és Ő is emlékezni fog rád, és légy hálás Neki. 2:152
+- Gyakorold a türelmet a megpróbáltatásokban. 2:153
+- Ne kövesd a Sátán nyomdokait, aki nyilvánvaló ellenség. 2:168
+- Ne kövess senkit vakon. 2:170
+- Őrizd meg és teljesítsd minden rád bízott feladatot. Végezd el vallási kötelességeidet őszintén. Teljesítsd esküidet és szövetségeidet. Tartsd be ígéreteidet, különösen azokat, amelyeket Allahnak tettél. Támogasd a rászorulókat, és könnyíts a nehézségeken. Kerüld el azon bűnök elkövetését, amelyek az isteni kegyelem elvesztéséhez vezetnek. Ne engedd, hogy a büszkeség igazságtalanságra vezessen. 2:177
+- A qisas-ban (a büntetés egyenlőségének törvényében) élet van a számotokra. 2:179
+- Böjtölj Ramadán hónapjában. Tartsd be az előírt böjtöt, hogy a muttakún (az istenfélők) közé tartozz. 2:183
+- Tiszteld a Koránt, mint a végső útmutatás forrását. 2:185
+- Ne edd egymás vagyonát igazságtalanul, és ne adj kenőpénzt a bíráknak (mielőtt bemutatnád az ügyeidet). 2:188
+- Ne nyomj el másokat, szóban vagy tettben. Soha ne harcolj agresszorként, csak védekezés céljából. 2:190
+- Védd meg az árvákat. Ami az árvákat illeti, becsületesen bánj a vagyonukkal, és ne edd fel azt. 2:220
+- Térj meg, és kérd Allah bocsánatát. Ne létesíts nemi kapcsolatot menstruáció idején. Tartsd fenn a tisztaságot (fizikailag és szellemileg is). 2:222
+- Teljesítsd a családoddal szembeni kötelességeidet. 2:233
+- Vezetőket érdemeik alapján válassz. 2:247
+- Nincs kényszer a vallásban. 2:256
+- Költs vagyonodból jótékonykodásra. Légy nagylelkű mind vagyonban, mind időben. 2:261
+- Ne tedd semmissé adományodat azzal, hogy a nagylelkűségeddel kérkedsz. 2:264
+- A Sátán szegénységgel fenyeget titeket, és fajtalanságra (rossz cselekedetekre, törvénytelen nemi kapcsolatra, bűnökre) parancsol. 2:268
+- Keresd a rászorulókat, és segíts rajtuk. 2:273
+- Ne foglalkozz uzsorával és kamattal. Ne egyél kamatozó vagyont. Ne egyél ribá-t (uzsorát). 2:275
+- Adj az adósnak több időt a törlesztésre, ha nehéz helyzetben van. 2:280
+- Tartsd a szavadat az üzleti tranzakciókban. Légy őszinte pénzügyi ügyeidben. Járj el feddhetetlenül minden kötelezettségedben. Amikor adósságot kötsz meghatározott időre, írd le. Hozz tanúkat, amikor kereskedelmi szerződést kötsz. 2:282
+- Őrizd meg és teljesítsd minden rád bízott feladatot. 2:283
+- Higgy a kinyilatkoztatott Könyvekben és minden Prófétában. 2:285
+- Allah nem ró senkire tehert a képességein felül. Azt a jutalmat kapja, amit jótettként szerzett, és azt a büntetést, amit bűnként szerzett. Isten nem ró az emberre a képességein felüli terhet; nekünk sem szabad ezt tennünk. Bízz Allah tervében még a nehézségek idején is. 2:286
+- Aki betartja szövetségeit és fél Allahot, Allah szereti az istenfélőket. 3:76
+- Végezd el a zarándoklatot (hadzs-ot), ha teheted. 3:97
+- Ne váljatok szét. 3:103
+- Parancsold a jót és tiltsd a rosszat. Ösztönözd az igazságosságot a közösségedben. Hívd másokat Allah emlékezésére. 3:104
+- A hívők bízzanak Allahban. 3:122
+- Ne egyél ribá-t (uzsorát). 3:130
+- Engedelmeskedj Allahnak és Küldöttének, hogy elnyerd az irgalmat. 3:132
+- Allah szereti azokat, akik (Allah ügyében – jótékonykodás, alamizsna stb.) költenek jóléiben és nélkülözésben, akik elnyomják haragjukat, és akik megbocsátanak az embereknek. 3:134
+- Nyomd el haragodat. Ird meg haragodat. 3:134
+- Bocsáss meg és engedj el mások hibáit. 3:135
+- Ne légy durva a beszédben. Légy türelmes azokkal, akik különböznek tőled. 3:159
+- Ha Allah segít titeket, senki sem győzhet le titeket; és ha elhagy titeket, ki az, aki Őutána segíthet rajtatok? 3:160
+- Minden lélek megízleli a halált. Csak a Feltámadás Napján kapjátok meg teljes jutalmatokat. 3:185
+- Gondolkodj el mélyen a természet csodáin és ezen univerzum teremtésén. Tudd, hogy Isten értelemmel és céllal teremtette az univerzumot. 3:191
+- A férfiak és a nők egyenlő jutalmat kapnak tetteikért. 3:195
+- Azoknak, akik félik Urukat, kertek (a Paradicsomban) járnak, amelyek alatt folyók folynak; ott örökké lakozni fognak, Allah vendéglátásaként. 3:198
+- Minden tetteddel törekedj Allah elégedettségére. 3:200
+- Féld Uradat, és (ne szakítsd meg) a rokoni kapcsolatokat. 4:1
+- Add oda az árváknak vagyonukat, és ne cseréld el (a saját rosszadat) a (jó) vagyonukra; és ne edd fel vagyonukat (a sajátodhoz adva). 4:2
+- Add oda a nőknek (akiket elveszel) a házassági ajándékukat (mahr) jó szívvel. 4:4
+- Védd meg az árvák jogait. 4:6
+- Az elhunyt vagyonát a családtagjai között kell felosztani. A nőknek joguk van az örökséghez. 4:7
+- Ne edd fel az árvák vagyonát igazságtalanul. 4:10
+- Engedelmeskedj az öröklésre vonatkozó parancsoknak. 4:11
+- Tilos a nőket akaratuk ellenére örökölni, és nem szabad durván bánni velük. Élj velük (a feleségekkel) tisztességesen. Tiszteld és tartsd tiszteletben a nők jogait. Bánj házastársaddal kedvesen és együttérzően. Bánj a nőkkel tisztelettel és igazságosan. 4:19
+- Ne vedd feleségül azokat, akik vérrokonai. 4:23
+- Ne öld meg magadat (vagy egymást). Allah bizony irgalmas hozzátok. Ne edd fel egymás vagyonát igazságtalanul. 4:29
+- Ha elkerülitek a nagy bűnöket, amelyek tiltva vannak, Allah eltörli (kis) bűneiteket, és méltó bejáratot (a Paradicsomba) biztosít számotokra. 4:31
+- Ne kívánd azt, ami által Allah egyeseket mások fölé emelt. Kerüld az irigységet és a féltékenységet. 4:32
+- A férfiak a nők védelmezői és gondozói, mivel Allah egyeseket mások fölé emelt, és mivel költenek vagyonukból (a nők eltartására). A férfi a család védelmezője és támasza. 4:34
+- Imádd Allahot, és ne társíts senkit Hozzá, légy jó a szülőkhöz, rokonokhoz, árvákhoz, szegényekhez, szomszédhoz, a melletted lévő társadhoz, az utazóhoz (akit találsz), és azokhoz (rabszolgákhoz), akiket jobb kezed birtokol. Allah nem szereti a büszkéket és a kérkedőket. Légy jó másokhoz. Könyörülj a gyengéken. Tartsd fenn a családi kötelékeket, és tiszteld a rokonokat. 4:36
+- Ne légy fukar. 4:37
+- Allah nem bocsátja meg, hogy társat adjanak Hozzá, de azon kívül bármit megbocsát, akinek akar. 4:48
+- Ne irigyeld másokat. 4:54
+- Allah megparancsolja, hogy add vissza a rád bízottakat tulajdonosaiknak. Amikor ítélkezel az emberek között, ítélj igazságosan. 4:58
+- Engedelmeskedj Allahnak és Küldöttének. Tiszteld azokat, akik hatalommal bírnak közöttetek. 4:59
+- Ne nyomd el a gyengéket és a kiszolgáltatottakat. 4:75
+- Bármi jó is ér titeket, Allah-tól van; és bármi rossz is ér titeket, magatoktól van. 4:79
+- Aki engedelmeskedik a Küldöttnek (Muhammadnak ﷺ), az Allahnak engedelmeskedett. 4:80
+- Aki jó ügyben közbenjár, részesül annak jutalmából; aki pedig rossz ügyben közbenjár, részesül annak terhéből. 4:85
+- Nem illik, hogy egy hívő megöljön egy hívőt, kivéve tévedésből. 4:92
+- Aki szándékosan megöl egy hívőt, jutalma a Pokol, ahol örökké lakozik. Allah haragja és átka száll rá, és nagy büntetés készült számára. 4:93
+- Aki kivándorol (otthonából) Allah útján, sok menedéket és bőséget talál a földön. 4:100
+- Pontosan tartsd az imaidőket. 4:103
+- Ne támogasd és ne légy az ügyvédje azoknak, akik elárulják a rájuk bízottakat. 4:105
+- Kérd Allah bocsánatát, Allah bizony Megbocsátó, Irgalmas. 4:106
+- Ti, akik hisztek! Álljatok szilárdan az igazságosság mellett, tanúskodva Allahért, még akkor is, ha az ellenetek, vagy szüleitek, vagy rokonaitok ellen van, legyen gazdag vagy szegény. Ne halogasd az igazságosságot; azonnal cselekedj a tévedések helyrehozataláért. 4:135
+- A képmutatók meg akarják csalni Allahot, de Ő csalja meg őket. 4:142
+- A képmutatók a Tűz legalacsonyabb szintjén lesznek; és nem találsz számukra segítőt. 4:145
+- Allah nem szereti, ha a rosszat nyilvánosan hangoztatják, kivéve azt, akit igazságtalanság ért. 4:148
+- A Küldötteket, mint örömhírvivőket és intőket küldtük, hogy az embereknek ne legyen kifogásuk Allah ellen a Küldöttek után. 4:165
+- Tartsd be szerződéseidet és ígéreteidet. 5:1
+- Segítsétek egymást a jámborságban és az istenfélelemben, ne pedig a bűnben és az ellenségeskedésben. 5:2
+- Ne egyél dögöt, vért és sertéshúst. 5:3
+- Légy igazságos, ne hagyd, hogy mások iránti ellenségeskedés és gyűlölet eltántorítson az igazságosságtól. Légy igazságos. Tudd, hogy az igazságosság közelebb van az istenfélelemhez. Ne halogasd az igazságosságot; azonnal cselekedj a tévedések helyrehozataláért. 5:8
+- Keresd az Allahhoz való közeledés eszközeit, és küzdj az Ő útján, amennyire csak tudsz. Hogy sikeres légy. 5:35
+- Tartsd be esküidet és szövetségeidet. 5:89
+- Kerüld a részegítő italokat és az alkoholt. Szigorúan kerüld a részegítő szereket (mindenfajta alkoholos italt), a szerencsejátékot, a bálványokat (kőoltárokat) és a jósló nyilakat, amelyek mind a Sátán művének utálatosságai. 5:90
+- Ne ölj vadat, amíg a zarándoklat (hadzs vagy umra) ihram állapotában vagy. 5:95
+- Ne kérdezz olyan dolgokról, amelyek, ha kiderülnének számodra, kellemetlenséget okozhatnának. 5:101
+- Ne szidd mások isteneit. Ne szidd azokat, akiket (a hitetlenek) Allah helyett imádnak, nehogy ők is tudatlanságból szidják Allahot. 6:108
+- Ha engedelmeskedsz a földön élők többségének, eltántorítanak Allah útjától. Csak feltételezéseket követnek, és csak hazudnak. 6:116
+- Hagyj el (ó emberek) mindenféle bűnt, nyíltat és titkosat. 6:120
+- Ne egyetek (ó hívők) abból a húsból, amelyen nem említették Allah nevét (az állat levágásakor). 6:121
+- Akit Allah vezetni akar, annak a keblét megnyitja az Iszlám előtt; és akit tévelygésben akar hagyni, annak a keblét szűknek és szorongatottnak teszi. 6:125
+- Légy mértékletes a kiadásokban, és kerüld a pazarlást. Védd meg minden teremtmény jogait. 6:141
+- Ne társíts senkit Allahhoz, légy jó a szülőkhöz, ne öld meg gyermekeidet szegénységtől való félelmében, ne közelíts a szemérmetlen cselekedetekhez, ne ölj meg senkit, akit Allah megtiltott, kivéve jogos okból. 6:151
+- Légy becsületes; ne csalj egyetlen üzletedben sem. Ne közelíts az árva vagyonához, csak annak javítása céljából, adj teljes mértéket és teljes súlyt igazságosan, amikor beszélsz, mondj igazat, még akkor is, ha közeli hozzátartozóról van szó, és tartsd be Allah szövetségét. 6:152
+- Kövesd az egyenes utat, és ne kövess (más) utakat, mert azok elválasztanak az Ő útjától. 6:153
+- Mondd (Muhammad): "Bizony, az én imám, az én áldozatom, az én életem és az én halálom Allahé, a világok Uráé." 6:162
+- Ne légy gőgös. 7:13
+- Ne hagyd, hogy a Sátán becsapjon. 7:27
+- Mondd (Muhammad): "Uram az igazságosságot parancsolta…" 7:29
+- Tartsd be Allah által felállított határokat mindenben. Kerüld a túlzásokat szóban és tettben. Egyél és igyál, de ne légy mértéktelen. Viselj szép ruhát az ima idején. 7:31
+- Allah hat nap alatt teremtette az egeket és a földet, majd felállt a Trónusra (az Ő Felségéhez méltó módon). 7:54
+- Hívd Uradat alázattal és titokban. Ő nem szereti a határokat áthágókat. 7:55
+- Ne okozz romlást a földön, miután az rendbe hozatott, és Hívd Őt félelemmel és reménnyel. 7:56
+- De azok, akik rossz cselekedeteket követtek el, majd megbánták és hittek, Urad ezek után bizony Megbocsátó, Irgalmas. 7:153
+- Mondd (Muhammad): "Ó emberek! Bizony, én Allah Küldötte vagyok mindnyájatokhoz…" 7:158
+- És (mind) a Legszebb Nevek Allahot illetik, szólítsd Őt általuk, és hagyd el azokat, akik meghamisítják az Ő Neveit… 7:180
+- Akit Allah tévelygésre hagy, annak nincs vezetője; és hagyja őket, hogy vakon bolyongjanak a túlkapásaikban. 7:186
+- Bocsáss meg, parancsold a jót, és fordulj el a tudatlanoktól (azaz ne büntesd őket). 7:199
+- Bocsáss meg másoknak a hibáiért. 7:199
+- És ha a Sátán sugallata ér, kérj menedéket Allahhoz. Ő bizony Halló, Mindentudó. 7:200
+- A hívők csak azok, akiknek szíve megretten, amikor Allahot említik, és amikor az Ő verseit felolvassák nekik, azok növelik a hitüket… 8:2
+- Ne áruld el Allahot és Küldöttét, és ne áruld el tudatosan a rád bízottakat (és minden kötelességedet, amelyet Allah parancsolt neked). 8:27
+- Ha engedelmeskedsz és féled Allahot, Ő ad neked Furqán-t (kritériumot az igaz és a hamis megkülönböztetésére, vagy kiutat minden nehézségből). 8:29
+- Azok, akik nem hisznek, vagyonukat költik arra, hogy eltántorítsanak (embereket) Allah útjától, és folytatni fogják ezt a költést; de végül ez keserűség lesz számukra. 8:36
+- Mondd azoknak, akik hitetlenkedtek, ha abbahagyják (a hitetlenséget), megbocsáttatik a múltbéli bűnük. De ha visszatérnek (a hitetlenséghez), akkor a korábbiak (megbüntetettek) példája már elhangzott (figyelmeztetésként). 8:38
+- Amikor (ellenséges) erővel találkoztok, álljatok megállóan, és gyakran emlékezzetek Allah nevére (nyelvvel és elmével), hogy sikeresek legyetek. 8:45
+- Ne legyetek olyanok, mint akik kérkedve és az emberek előtt feltűnni vágyva hagyták el otthonaikat, és (elvonták az embereket) Allah útjától. 8:47
+- Allah sohasem változtatja meg a kegyelmet, amelyet egy népnek adott, amíg azok meg nem változtatják, ami önmagukban van. 8:53
+- A legrosszabb élőlények Allah előtt azok, akik nem hisznek. 8:55
+- Isten szeretetet és vonzalmat helyez azok szívei közé, akik hisznek Benne. 8:63
+- Védd és segítsd azokat, akik menedéket kérnek. 9:6
+- Nem illik a többistenhívőknek, hogy Allah mecseteit gondozzák. 9:17
+- Ők (a hitetlenek, a zsidók és a keresztények) el akarják oltani Allah világosságát (amellyel Muhammad ﷺ küldetett – az iszlám egyistenhit) a szájukkal, de Allah nem engedi, hogy az Ő Világossága ne teljesedjék be, még ha a hitetlenek utálják is. 9:32
+- Az alamizsnák (zakát) csak a következőkre szolgálnak: 1) szegények, 2) rászorulók, 3) azok, akik beszedik őket, 4) azok szívének megnyerésére, akik az Iszlám felé hajlanak, 5) foglyok kiváltására, 6) adósoknak, 7) Allah ügyéért (harcosoknak), és 8) az utazónak. 9:60
+- Aki ellenszegül és ellenségeskedik Allahhal és Küldöttével (ﷺ), annak a Pokol Tüze jár, ahol örökké lakozik. Ez hatalmas gyalázat. 9:63
+- A képmutatók, férfiak és nők, egymásból valók. Elfelejtették Allahot, Ő is elfelejtette őket. 9:67
+- Törekedj a tisztaságra. Tiszteld a mecset szentségét. 9:108
+- Nem illik (a Prófétának és a hívőknek), hogy bocsánatot kérjenek a többistenhívőkért, még ha rokonok is, miután világossá vált számukra, hogy a Pokol lakói (mert hitetlen állapotban haltak meg). 9:113
+- Ki igazságtalanabb annál, aki hazugságot kohol Allah ellen, vagy megtagadja Jeleit? Bizony, a bűnösök soha nem fognak boldogulni! 10:17
+- Ők Allah helyett olyanokat imádnak, akik nem ártanak és nem is használnak nekik, és azt mondják: "Ők a mi közbenjáróink Allahnál." Mondd: "Allahnak akartok hírt adni arról, amit Ő nem tud az egekben és a földön?" Dicsőség Neki, és Magasztos Ő afölött, amit társítanak Hozzá! 10:18
+- A rossz cselekedet jutalma egy ahhoz hasonló rossz. 10:27
+- Ilyen Allah, az igazi Uratok. Mi van az igazságon kívül, ha nem a tévelygés? Hogyan fordulhattok el? 10:32
+- A legtöbbjük csak feltételezéseket követ. Bizony, a feltételezés nem helyettesíti az igazságot. 10:36
+- Bizony! Allah nem igazságtalan az emberekkel szemben; de az emberek önmagukkal szemben igazságtalanok. 10:44
+- Tudd, hogy Isten kegyelme jobb mindennél, amit az ember felhalmozhat vagy tárolhat. 10:58
+- Ne légy azok közé, akik tagadják Allah jeleit, különben a vesztesek közé tartozol. 10:95
+- Ha Allah károsít téged, senki sem távolíthatja el azt, csak Ő; és ha jót akar neked, senki sem fordíthatja vissza az Ő kegyelmét, amelyet szolgái közül annak ad, akinek akar. 10:107
+- Nincs egyetlen élőlény a földön sem, amelynek tápláléka ne Allahon múlna. És Ő tudja annak tartózkodási helyét és letéti helyét (az anyaméhben, a sírban stb.). 11:6
+- Ha megkóstoltatjuk az emberrel az Irgalmasságunkat, majd elvesszük tőle, bizony kétségbeesik és hálátlan lesz. 11:9
+- Aki a világi életet és annak ékességét kívánja, megadjuk nekik tetteik jutalmát teljesen, és semmit sem csorbítunk abból. 11:15
+- Nem igazságtalanok voltunk velük, de ők igazságtalanok voltak önmagukkal szemben. És nem használtak nekik semmit isteneik, amelyeket Allah helyett hívtak, amikor Urad parancsa eljött, és csak a pusztulásukat növelték. 11:101
+- Azon a napon, amikor eljön, senki sem szól Allah engedélye nélkül. Némelyek közülük boldogtalanok, (mások) boldogok lesznek. 11:105
+- A boldogtalanok a Tűzben lesznek, ahol zihálásuk és zokogásuk lesz. 11:106
+- Örökké lakoznak benne, amíg az egek és a föld fennállnak, kivéve ha Urad másként akarja. Urad bizony azt cselekszi, amit akar. 11:107
+- És a boldogok, ők a Paradicsomban lesznek, örökké lakoznak benne, amíg az egek és a föld fennállnak, kivéve ha Urad másként akarja, mint megszakítás nélküli ajándékot. 11:108
+- Ne hajolj az igazságtalanok felé, nehogy a Tűz elérjen titeket, és ne legyen más védelmezőtök Allahon kívül, és ne kaptok segítséget. 11:113
+- Végezd az imát a nap két szélén és az éjszaka óráiban (azaz az 5 napi imát). A jó cselekedetek eltörlik a rosszakat (azaz a kis bűnöket). 11:114
+- Allahé az egek és a föld rejtett dolgai, és Hozzá térnek vissza minden ügyek (döntésre). 11:123
+- A parancs (vagy döntés) csak Allahé. Ő megparancsolta, hogy csak Őt imádd (az egyistenhit), ez az egyenes vallás, de a legtöbb ember nem tudja. 12:40
+- Soha ne veszítsd el a reményt Allah irgalmában. 12:87
+- És a legtöbb ember nem fog hinni, még ha te nagyon is szeretnéd. 12:103
+- És a legtöbben nem hisznek Allahban anélkül, hogy társakat ne társítanának Hozzá (azaz ők többistenhívők). 12:106
+- Ez (a Korán) nem koholt beszéd, hanem megerősítése az előtte lévő Könyveknek (a Tórának, az Evangéliumnak és más Írásoknak), és minden részletes magyarázata, és útmutatás és irgalom a hívő emberek számára. 12:111
+- Allah bőségessé teszi a megélhetést annak, akinek akarja, és megszorítja (annak, akinek akarja). 13:26
+- Gyakran emlékezz Allahra a dhikr által. Azok, akik hisznek Istenben, megelégedettséget találnak az Ő emlegetésében. 13:28
+- Azok, akik hisznek és jó cselekedeteket tesznek, örömöt és lelki békét kapnak. 13:29
+- Azok, akik az evilági életet részesítik előnyben a túlvilággal szemben, és eltántorítják (az embereket) Allah útjától (az Iszlámtól), és görbeséget keresnek benne – ők messze tévelyedtek. 14:3
+- Gyakorold az alázatosságot és a hálát az imádatban. 14:7
+- Azoknak a példája, akik hitetlenek Urukkal szemben, hogy tetteik olyanok, mint a hamu, amelyen erősen fúj a szél viharos napon; semmit sem fognak elérni abból, amit szereztek. 14:18
+- Allah megerősíti azokat, akik hisznek, szilárd szóval az evilági életben (azaz folytatni fogják Allah egyedüli imádatát) és a túlvilágon. 14:27
+- Ne gondold, hogy Allah figyelmetlen az igazságtalanok (többistenhívők, elnyomók stb.) tettei iránt, de haladékot ad nekik arra a Napra, amikor a szemek rémülten meredeznek. 14:42
+- Hogy Allah minden lelket megfizessen aszerint, amit szerzett. Allah bizony gyors az elszámolásban. 14:51
+- És bizony, Mi teremtettük az embert csengő agyagból, fekete, átalakított sárból. 15:26
+- És a dzsinneket, azokat előtte teremtettük a lobogó tűz lángjából. 15:27
+- Annak (a Pokol) hét kapuja van; minden kapuhoz (külön) osztálya van a bűnösöknek. 15:44
+- Ő teremtette az embert egy cseppből (férfi és női ivarváladék keverékéből), és íme, ő (az ember) nyilvánvaló ellenséggé válik. 16:4
+- És a jószágot, Ő teremtette azt számotokra; abban meleget (meleg ruházatot) és sok hasznot találtok, és abból esztek. 16:5
+- És (teremtette) a lovakat, az öszvéreket és a szamarakat, hogy lovagoljatok rajtuk, és díszeül. És (más) dolgokat is teremt, amelyeket nem ismertek. 16:8
+- Ő az, aki vizet (esőt) bocsát le az égből; abból isztok, és abból sarjad a növényzet, amelyen legeltetitek jószágotokat. 16:10
+- Ő az, aki a tengert (a szolgálatotokba) adta, hogy abból friss húst (halat) egyetek, és hogy onnan ékszereket hozzatok ki, amelyeket viseltek. 16:14
+- Hegyeket helyezett a földre, hogy az ne inogjon veletek, és folyókat, és utakat, hogy igazodjatok. 16:15
+- Aki teremt, az olyan, mint aki nem teremt? Nem gondolkodtok el? 16:17
+- Ha számolni próbálnátok Allah kegyelmeit, sosem tudnátok felsorolni azokat. 16:18
+- Allah tudja, mit rejtegettek és mit hoztok nyilvánosságra. 16:19
+- Akiket (a többistenhívők) Allah helyett segítségül hívnak, azok semmit sem teremtettek, de ők maguk is teremtmények. 16:20
+- (Ők) halottak, élettelenek, és azt sem tudják, mikor támadnak fel. 16:21
+- A mi szavunk egy dologhoz, ha azt akarjuk, csupán annyi, hogy azt mondjuk neki: "Legyen!" és az lesz. 16:40
+- Akik gonosz cseleket szőnek, vajon biztonságban érzik magukat attól, hogy Allah a földbe süllyeszti őket, vagy hogy a büntetés onnan éri őket, ahonnan nem is sejtik? 16:45
+- Bármilyen áldás és jó dolog van nálatok, az Allahtól származik. Amikor pedig baj ér titeket, Hozzá fohászkodtok. 16:53
+- Amikor pedig elhárítja rólatok a bajt, íme, néhányan közületek társakat társítanak az Urukhöz (Allahhoz). 16:54
+- A jószágokban tanulság van számotokra. Itatunk benneteket abból, ami a belükben van, az ürülék és a vér között, tiszta tejjel, amely kellemes az ivók számára. 16:66
+- Ne adj Allahhoz hasonlóakat (mert semmi sem hasonló Hozzá, és Ő sem hasonlít semmihez). Allah tudja, ti pedig nem tudjátok. 16:74
+- Tudd, hogy Isten hallást, látást, intelligenciát és érzelmeket adott az embereknek, hogy hálásak legyenek. 16:78
+- Kerüld a kapzsiságot és a fösvénységet. 16:97
+- Amikor a Koránt akarod olvasni, kérj oltalmat Allahhoz a megkövezett Sátán ellen. 16:98
+- Tudd, hogy a tudatlanságból elkövetett bűn megbocsáttatik, ha az illető megbánja és megjavul. 16:119
+- Hívd (Muhammad) Urad útjára (az Iszlámra) bölcsességgel és szép intéssel, és vitatkozz velük a legszebb módon. Másokat Isten útjára hívni bölcsességgel és kedvességgel kell történnie. 16:125
+- Allah azokkal van, akik félik Őt (akik teljesítik kötelességüket Iránta), és azokkal, akik jót tesznek. 16:128
+- Ez a Korán arra vezet, ami a legigazságosabb és leghelyesebb. 17:9
+- Senki sem viselheti más bűnét. 17:15
+- Aki a túlvilágot kívánja, és küzd érte, a neki járó erőfeszítéssel, és közben hívő, azoknak az erőfeszítése elismerésben és jutalomban részesül (Allah által). 17:19
+- Tiszteld szüleidet, és bánj velük kedvesen. Légy jámbor a szüleidhez. Ne mondj nekik tiszteletlen szót. Urad elrendelte, hogy csak Őt imádd. És hogy szüleidhez jó légy. Ha egyikük vagy mindketten elérik az öregséget nálad, ne mondd nekik, hogy "Pfuj!", és ne kiabálj rájuk, hanem beszélj velük tisztelettel. 17:23
+- És ereszd le hozzájuk az alázatosság és az irgalom szárnyát, és mondd: "Uram, könyörülj rajtuk, ahogyan ők neveltek engem, amikor kicsi voltam." 17:24
+- Bizony, a pazarlók a Sátán testvérei, a Sátán pedig hálaadatlan az Urához. 17:27
+- Ne pazarold a pénzt. 17:29
+- Ne öld meg gyermekeidet a szegénységtől való félelemben. 17:31
+- Ne közelíts a paráznasághoz. Őrizd a házasság szentségét, és kerüld el a paráznaságot. 17:32
+- Adj teljes mértéket, amikor mérsz, és igazságos mérleggel mérj. Ez jobb (előnyösebb), és végeredményben jobb. 17:35
+- Ne kövesd (ó ember, azaz ne mondd, ne tedd, vagy ne tanúskodj stb.) azt, amiről nincs tudomásod (például azt mondani: "Láttam", bár nem látta, vagy "Hallottam", bár nem hallotta). 17:36
+- Légy alázatos, és ne légy gőgös. Ne járj a földön hencegve és arroganciával. Nemhasíthatod szét a földet, és nem érheted el a hegyek magasságát. 17:37
+- Uratok a legjobban ismer titeket; ha akarja, megkönyörül rajtatok, vagy ha akarja, megbüntet titeket. 17:54
+- Aki ezen a világon vak (azaz nem látja Allah jeleit, és nem hisz Benne), az a túlvilágon is vak lesz, és még inkább eltéved az útról. 17:72
+- Tartsd be az előírt imaidőket. 17:78
+- Bizony, Mi mindenféle példát magyarázóan előadtunk az embereknek ebben a Koránban, de a legtöbb ember elutasítja (az igazságot), és nem fogad el mást, csak a hitetlenséget. 17:89
+- Mindenféle példát felhoztunk ebben a Koránban az emberek számára. De az ember mindenkinél hajlamosabb a vitatkozásra. 18:54
+- Ez lesz a büntetésük, a Pokol; mert hitetlenek voltak, és kinevették és kigúnyolták az Én Jeleimet és a Küldötteimet. 18:106
+- Nem illik (Allah Felségéhez), hogy gyermeket tartson (ez a keresztények Allah elleni rágalmazására utal, miszerint Jézus Isten fia). Dicsőség Neki (és Magasztos Ő afölött, amit társítanak Hozzá). 19:35
+- Beszélj az emberekhez szelíden. 20:44
+- Versenyezzetek a jó cselekedetekben. 21:90
+- Kerüld a hiábavaló beszédet. 23:3
+- Őrizd meg a szemérmességed. 23:5
+- Őrizd meg a szíved a bűnös hajlamoktól. 23:97
+- Bocsáss meg másoknak, és tekints el a hibáiktól. 24:22
+- Tiszteld mások magánéletét, különösen a saját otthonukban. Tartsd be a szomszédok jogait. 24:27
+- Süsd le a tekinteted (férfiaknak és nőknek egyaránt). Őrizd meg a szemérmességed és tisztaságod. 24:30
+- Gyakorold a szerénységet az öltözködésben és a viselkedésben. 24:31
+- Tudd, hogy Isten biztonságot és békét ad azoknak, akik imádják Őt és erényesen cselekszenek. 24:55
+- Ne lépj be a szülők magánszobájába engedély nélkül. 24:58
+- Légy szerény és alázatos. 25:63
+- Kerüld a hamis tanúzást és a csalást. 25:72
+- Törekedj a túlvilági jutalomra, de ne hanyagold el az evilági ügyeidet. 28:77
+- Ne hívj Allah mellé más istent. 28:88
+- Ne légy homoszexuális kapcsolatban. 29:29
+- Törekedj a kiválóságra minden erőfeszítésedben. 29:69
+- Végezd az imát, és add a zakát-ot. 31:4
+- Parancsold a jót, és tiltsd a rosszat. 31:17
+- Kerüld az arroganciát a viselkedésedben. Ne vesztegesd az időt hiábavaló beszéddel. 31:18
+- Légy mértékletes a járásodban és a hangod hangerősségében. 31:19
+- Kövesd Mohamed próféta példáját. 33:21
+- A nők ne mutogassák és ne kérkedjenek szépségükkel és ékszereikkel. 33:33
+- Minden körülmények között mondj igazat. 33:70
+- Keresd a bölcsességet és a megértést elmélkedés által. 38:29
+- Kövesd a Korán parancsait. 39:23
+- Isten minden bűnt megbocsát, amikor a bűnös megbánja és Hozzá fordul. 39:53
+- Tiszta szívű du'ā-t (könyörgést) intézz Allahhoz. 40:60
+- Távolítsd el a rosszat azzal, ami jobb. 41:34
+- Dönts az ügyekben tanácskozás útján. 42:38
+- Ne emeld hangodat a Próféta hangja fölé. 49:2
+- Őrizd meg a titkokat, és kerüld el az árulást. 49:6
+- Segítsd elő a békét a konfliktusban álló felek között. Keress megbékélést a konfliktusokban. 49:9
+- Ne gúnyolj másokat. 49:11
+- Kerüld a gyanakvást. Kerüld a kémkedést és a rágalmazást. Ne rágalmazz és ne beszélj másokról rosszat. Tartózkodj a rágalmazás és a pletyka minden formájától. Ne engedd, hogy a büszkeség igazságtalanságra vezessen. 49:12
+- Tudd, hogy csak az istenfélelem teszi az embert nemessé. Tiszteld az emberek és a kultúrák közötti különbségeket. 49:13
+- Tiszteld a vendégeket. 51:26
+- Légy tudatában Allah iránti kötelességeidnek. 51:56
+- Költs vagyonodból jótékonykodásra. 57:7
+- Tudd, hogy a vallásban nincs szerzetesség (a házasságról és a kényelemről való lemondás, mint a szerzetesek, apácák vagy mások, akik vallási fogadalmak alatt élnek, vagy az épületek, amelyekben laknak). 57:27
+- Ne hagyd, hogy a vagyon elvonja a figyelmedet Allah emlegetésétől. 58:11
+- Azok, akiknek tudásuk van, magasabb rangot kapnak Istentől. 58:11
+- Bánj a nem muszlimokkal kedvesen és igazságosan. 60:8
+- Kerüld a képmutatást a hitedben és a tetteidben. 63:9
+- Tartózkodj a kapzsiságtól és a fösvénységtől. 64:16
+- Őrizd meg a rád bízott kinyilatkoztatásokat. 73:15
+- Emlékezz az Ítélet Napjára. 75:36
+- Parancsold a türelmet és az együttérzést. 90:17
+- Azok, akik megtisztítják lelküket, boldogulnak; és akik megrontják, azok kudarcot vallanak. 91:10
+- Ne hagyd figyelmen kívül a rászorulókat, és ne űzd el őket. 93:10
+- Keresd a tudást és a megértést. Olvasd a Koránt, és elmélkedj felette. 96:1–5
+- Ösztönözd a szegények étkeztetését. 107:3
 """;

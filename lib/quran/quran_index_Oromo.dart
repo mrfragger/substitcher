@@ -3318,4 +3318,280 @@ Matching Phrases 8 words
 - Rabbiin gabroota Isaa keessaa nama fedheef soorata bal’isa; (nama fedheefis) dhiphisa. (اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ) 28:82; 29:62
 - Gara Beekaa fagoofi ifaatti deebifamtu; waan hojjachaa turtanis isin beeksisa. (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
 - Firoonni (sanyii) tokkoon tokkoon isaanii kitaaba Rabbiitti warra biraa caalaa walitti dhihaata. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
+cmds - Commands, Exhortations, Prohibitions, Instructions
+- fard / wajib (فرض / واجب) — dirqama (raawtaa; dhiisuun badii)
+- mustahabb / mandub (مستحب / مندوب) — gorfama (raawtaniif mindaan qaba; dhiisaniif badiin hin jiru)
+- mubah (مباح) — hayyamama / giddu galeessa (mindaan hin jiru, badiin hin jiru)
+- makruh (مكروه) — jibbaama (hin jajjabamne, garuu raawtaniif badiin hin jiru)
+- haram (حرام) — dhorka’e (raawtaan badii)
+- halal (حلال, hayyamama / seera qabeessa) — mubah fi mustahabb lachuu ni hammata — waan dhorka’e hin taane hunda
+- Allaah qofa gabbaraa fi gargaarsa/degarsa Isa barbaadaa. 1:5
+- Allaah qofa gabbaraa. 2:21
+- Allaahitti wanta tokkoyyuu hin faankessinaa. 2:22
+- Allaahn isa dhiifama (tawbaha qeebalu) yoo ta’u, Inni tawbaha Aadam (alaihissalaam) qeebale. 2:37
+- Dhugaa sobaan hin makinaa; dhugaas hin dhoksinaa. 2:42
+- Salaata (galgala galgalaa) dhaabaa, zakaa (sadaqaa) kennaa. 2:43
+- Warra biroo toltuu ajajaan dura ofiin raawwadhaa. 2:44
+- Dhimma keessan hunda keessatti Allaah gargaarsa gaafadhaa. 2:45
+- Badii hin hojjatin; isas hin babbalinaa. 2:60
+- Namoota mana gabbarichatti akka hin deeman hin dhorginaa. 2:114
+- Kabaja masjiida eegaa. Bakkeewwan salaata keessan qulqulluu fi qulqulluu taasisaa. 2:125
+- Allaah (salaataan, faarsaadhaan, kkf) yaadadhaa; Inni isin yaadata; Isaaf galateeffadhaa. 2:152
+- Rakkoo keessatti obsa raawwadhaa. 2:153
+- Tarkaanfii Shayaana (Shat’aana) rakkinaa; inni diina ifa bahaadha. 2:168
+- Namoota tokkollee jaafummaan hin hordofinaa. 2:170
+- Amaanaawwan hunda eegaa fi guutaa. Hojiilee amantii keessan ofitti dhugaadhaan raawwadhaa. Kakkaawwanii fi waadaawwan keessan raawwadhaa. Waadaawwan, keessattuu waan Allaahif kakanfachiisan, raawwadhaa. Warra barbaachisaniif gargaaraa; rakkoos isaaniif salphisaa. Badiiwwan isa gaarummaa Rabbii dhabamsiisaniin fagaadhaa. Of tuulumaan akka isin gara jal’inaatti hin geessin isa dhiisaa. 2:177
+- Qisaasa (adabbii keessatti walqixxummaa seera) keessatti lubbuun isiniif jira. 2:179
+- Ji’a Ramadaanaatti soona. Akka Muttaaqiin (warra Waaqa sodaatan) taatanuf soona murteeffame eegaa. 2:183
+- Qur’aana akka qajeelfama dhumaa kabajaa. 2:185
+- Qabeenya walii keessanii haqaan hin nyaatinaa; abbootii seeraatiifis (dhimma keessan dhiheessuun dura) mattaa hin keninaa. 2:188
+- Namoota biroo dubbii yookiin hojii ta’een hin miidhinaa. Lola tokkollee akka balleessaa taatanii hin seynaa; garuu ofirratti eeggannoon. 2:190
+- Yatimaalee eegaa. Yatimaalee ilaalchise, qabeenya isaanii keessatti amanamummaadhan hojjadhaa; qabeenya isaaniis hin nyaatinaa. 2:220
+- Tawbaha raawwadhaa; Allaah irraa dhiifama gaafadhaa. Yeroo dhanga’aa saalquunnamti hin raawwatinaa. Qulqullina (dhagnaan fi lubbuudhaan) eegaa. 2:222
+- Maatii keessan irratti dirqama keessan raawwadhaa. 2:233
+- Hoggannoo dandeettii isaanii irratti hundaa’uun filadhaa. 2:247
+- Amantii keessatti dirqisiisuun hin jiru. 2:256
+- Qabeenya sadaqaatti kennaa. Qabeenyaan fi yeroomaan arjoomaa ta’aa. 2:261
+- Sadaqaa keessan arjooma keessaniin faarsuun hin balleessinaa. 2:264
+- Shayaanni (Shat’aani) hiyyummaan isin sodaachisa; wantoota fokkatoo (faahsha’aa — hojii badii, saalquunnamti seeraan alaa, badiiwwan) raawwachuunis isin ajaja. 2:268
+- Warra barbaachisaniin barbaadaa; gargaaraa isaanis. 2:273
+- Ribaatti hin seeninaa. Qabeenya riba qabu hin nyaatinaa. Riba (dhala) hin nyaatinaa. 2:275
+- Yoo liqeeffataan rakkina keessa ta’e, ofiif yeroo dabalataa kennaa. 2:280
+- Daldala keessatti waadaa keessan raawwadhaa. Dhimma maallaqaa keessattuu dhugaa dubbadhaa. Waadaawwan keessan hunda keessatti amanamummaadhan dalagaa. Yeroo liqeessitan yeroo beekameetti barreessaa. Yeroo waliigaltaa daldalaa raawwattan hunda ragaa baasaa. 2:282
+- Amaanaawwan hunda eegaa fi guutaa. 2:283
+- Kitaaboota buufamanii fi Nabiyyota hunda amanaa. 2:285
+- Allaahn nama tokko illee dandeettii isaa ol hin baasuu. Waan gaarii hojjate mindaan isaaf jira; waan hamtuu hojjate adabbiinis isaaf jira. Rabbii nama tokko illee dandeettii isaa ol hin baasuu; nutis akkas hin gochuu qabnu. Yeroo rakkinaattis karoora Allaahiitti amanaa. 2:286
+- Namni waadaawwan raawwatee fi Allaah sodaate, Allaahn warra Waaqa sodaatan jaallata. 3:76
+- Yoo dandeessan Hajji (xumura) raawwadhaa. 3:97
+- Hin gargar baasinaa. 3:103
+- Toltutti ajajaa; hamtuus dhorgaa. Ummata keessan keessatti qajeelummaa jajjabeessaa. Namoota biroo gara yaadannoo Allaahitti waamaa. 3:104
+- Mu’uminoonni Allaah irratti of eeggatanuu qabu. 3:122
+- Riba (dhala) hin nyaatinaa. 3:130
+- Akka rahmatu argattaniif Allaahii fi Ergamaa isaa ajajamaa. 3:132
+- Allaahn (karaa Allaah keessatti — sadaqa, arjooma, kkf) badhaadhummaa fi rakkina keessatti kennan, aarsaa ofirraa ittisaniif namootaaf dhiifama kennan ni jaallata. 3:134
+- Aarsaa ofirraa ittisaa. Aarsaa keessan to’achaa. 3:134
+- Dogoggora namoota biroo niif dhiifamaa; isaanis niif dhiifamaa. 3:135
+- Dubbii keessatti hamtuu hin ta’inaa. Warra isin irraa garagara ta’aniif obsa qabaadhaa. 3:159
+- Yoo Allaahn isin gargaare, namni tokkollee isin mo’achuu hin danda’u; yoo Inni isin dhiise, erga Isaa booda eenyutu isin gargaaraa? 3:160
+- Lubbuun hundi du’a dhandhamtee beekamti. Odoo guyyaa Qiyaamaa qofa mindaan keessan guutuu isiniif kenname. 3:185
+- Dinqii uumamaa fi uumama aduunaa kanaa ilaalcha gadi fagoodhaan raawwadhaa. Waan Rabbiin aduunaa kana hiikaa fi kaayyoodhaan uume hubadhaa. 3:191
+- Dhiiraanii fi dubartiin hojii isaanii mindaa wal-qixa qabu. 3:195
+- Warra Gooftaa isaanii sodaataniif, (Jannata) jirdaroota ishee jala yaa’an qabu; ishee keessatti bara baraan turu; kennuu Allaah irraa ta’eedha. 3:198
+- Hojii hundatti yeroo hunda barbaachisummaa Allaah barbaadaa. 3:200
+- Gooftaa keessan sodaadhaa; (firoomsummaa) hidhannaa gad dhiisinaa. 4:1
+- Qabeenya yatimaaleef kennaa; (waan isinii fokkataa) isaanii (waan isaaniif gaarii) wajjin hin jijjiirinaa; qabeenya isaaniis (qabeenya keessaniif dabaluun) hin nyaatinaa. 4:2
+- Dubartoota (kan isin fuudhan) mahrii isaanii (arsiisa fuudhaa yeroo fuudhaatti abbaan warraatti niidhumaaf kennuu qabu) fedhii garaanii isaaniiif kennaa. 4:4
+- Mirga yatimaalee eegaa. 4:6
+- Qabeenya nama du’ee maatii isaa gidduutti qoodamuu qaba. Dubartoonni mirga dhaalchaa qabu. 4:7
+- Qabeenya yatimaalee haqaan ala hin nyaatinaa. 4:10
+- Ajaja dhaalchaa ilaalchise ajajamaa. 4:11
+- Dubartoota fedhii isaanii irratti dhaaluun dhorka’e; isaanis hin miidhinaa. Isaan (niitota) wajjin gaariidhan jiraadhaa. Mirga dubartootaa kabajaa fi eegaa. Niiticha keessan gara laafinaa fi mararfannaan walitti dhihaadhaa. Dubartoota ulfinaanii fi qajeelummaan walitti dhihaadhaa. 4:19
+- Warra isin wajjin dhiiga walqabatan hin fuudhinaa. 4:23
+- Lubbuu of keessan hin ajjeefatinaa. Allaahn isiniif rahmata haaraadha. Qabeenya walii keessanii haqaan ala hin nyaatinaa. 4:29
+- Yoo badiiwwan gurguddoo dhorka’e irraa fagaattan, Allaahn badiiwwan (xinnoo) keessan isinirraa haqa; naasuu kabajamaa (Jannata) keessattis isin seensisa. 4:31
+- Waan Allaahn tokko tokko keessan biraa tokko tokko irratti caalchise hin hawwinaa. Hinaaffaa fi hoggansa irraa fagaadhaa. 4:32
+- Dhiiroonni dubartoota irratti tikseefi bulchiinsa isaanii fudhataniiru; sababii Allaahn tokko isaanii tokko irratti caalchiseefi, sababii isaan qabeenya isaanii irraa (isaniif) kennaniif. Dhiiraan maatii tiksee fi deggera. 4:34
+- Allaah gabbarraa; Isatti wanta tokkoyyuu hin faankessinaa; abbaa fi haadhatti, firaatti, yatimaaleetti, hiyyeeyyiitti, ollaa irratti, hiriyyaa isin biraatiif, imalaatti (isa isin qaqqabdanif), fi isaan (golboyyii) mirga keessan qabdu (qabatan) toltuu raawwadhaa. Allaahn nama of tuuluu fi of jajju hin jaallatu. Namoota biroof toltuu raawwadhaa. Dadhabeyyiif mararfanna. Hidhaa maatii eegaa; firoos kabajaa. 4:36
+- Innis hin ta’inaa. 4:37
+- Allaahn waan Isaaf faankessan hin dhiifu; garuu waan kanaa gadii nama fedheef dhiifama. 4:48
+- Namoota biroo hin hinaaffatinaa. 4:54
+- Allaahn akka amaanawwan warra isaanii ta’anitti deebistaniu isin ajaja. Yeroo namoota gidduutti murtistuu qajeelummaadhan murtisaa. 4:58
+- Allaahii fi Ergamaa isaa ajajamaa. Warra isin gidduutti aangoo qabaniif kabaja kennuu qabu kennaa. 4:59
+- Dadhabeyyii fi warra dadhaban hin miidhinaa. 4:75
+- Toltuu isin bira ga’u kam iyyuu Allaah biraa; hamtuu isin bira ga’u kam iyyuu of keessan biraa. 4:79
+- Namni Ergamaa (Muhammad ﷺ) ajajame, dhugumatti Allaah ajajameera. 4:80
+- Namni toltuutti safee (araara) godhe, isaaf ishee irraa qoodatu jira; namni hamtuuttis safee godhe, isaaf ishee irraa ba’aa qaba. 4:85
+- Mu’uminiin mu’umina tokko tokko illee akka ajjeefatu hin ta’u, dogoggoraan ala ta’e. 4:92
+- Namni mu’umina fedhiidhaan ajjeefe, mindaan isaa Jahannam ishee keessatti bara baraan turu. Dallansuu Allaahii fi abaarsaan Isaa isa irra jira; adabbii gurguddoonis isaaf qopheeffamee jira. 4:93
+- Namni karaa Allaah keessatti (mana isaa irraa) godaane, dachii irratti iddoo baay’ee fi badhaadhumma argata. 4:100
+- Salaata keessan yeroo isaatti eegaa. 4:103
+- Namoota amaanawwan isaanii kufan hin deggerinaa; isaaniif abukatoo hin ta’inaa. 4:105
+- Dhiifama Allaah gaafadhaa; Allaahn dhugumatti dhiifamaa, rahmata haaraadha. 4:106
+- Yaa warra amantan! Qajeelummaatti dhaabbadhaa; Allaahif ragaa ba’aa; odoo lubbuu keessan irratti, yookiin abbaa fi haadha keessan irratti, yookiin fira keessan irratti ta’e iyyuu, sooressa ta’u yookiin hiyyeessa ta’u isa irraa hin deebinaa. Qajeelumma hin tursiisinaa; dogoggora qajeelchuuf achumaan tarkaanfadhaa. 4:135
+- Munaafiqoonni Allaah gowwoomsuu fedhu; Inni isaan gowwoomsa. 4:142
+- Munaafiqoonni ibidda keessatti naannoo gad aantuu ta’an keessa turu; isaaniif gargaaraa tokkollee hin argitan. 4:145
+- Allaahn hamtuu ifatti dubbatamuu hin jaallatu; namni miidhameef garuu (haa ta’u). 4:148
+- Ergamoonni akka warra oduu gaarii geessaniifi akeekkachiistoota ta’anii ergaman; akka namoonni erga Ergamoonnii booda Allaah irratti sababa qabaniif. 4:165
+- Waadaawwanii fi kakuuwwan keessan raawwadhaa. 5:1
+- Toltuu fi Waaqa sodaachuu keessatti wal gargaaraa; badii fi diinummaa keessatti garuu hin wal gargaarinaa. 5:2
+- Waan of du’e, dhiiga, foon booyyee hin nyaatinaa. 5:3
+- Qajeelumma qabaadhaa; diinummaa fi jibbaan namoota biroo isin irraa akka qajeelummaa hin qabne hin godhatinaa. Qajeelumma qabaadhaa. Qajeelumma qabuun Waaqa sodaachuutti dhihoo ta’uu isaa hubadhaa. Qajeelumma hin tursiisinaa; dogoggora qajeelchuuf achumaan tarkaanfadhaa. 5:8
+- Karaawwan gara Allaahitti dhihoo ta’aan barbaadaa; karaa Isaa keessattis akkuma dandeessanitti qabsaa’aa. Akka milkaa’attaniif. 5:35
+- Kakuuwwanii fi waadaawwan keessan raawwadhaa. 5:89
+- Dhugaatii machoosiitii fi alkoolii irraa fagaadhaa. Dhugaatii machoosiitii (dhugaatii alkoolii qaban hunda), kubbisa, Al-Ansaab (kayyoolii dhaga’aa), fi Al-Azlaam (xiyyoo haala ittiin gaarii yookiin murtoo barbaadan) irraa cimsitanii fagaadhaa; isaan kun hundi hojii Shayaana irraa ta’ee fokkinaadha. 5:90
+- Yeroo isin Hajjiif yookiin ‘Umraaf (xumuraaf) Ihram keessa taatan uwwaamtoota hin ajjeefatinaa. 5:95
+- Waa’ee wantoota yoo isiniif ibsamani rakkisuu danda’an hin gaafatinaa. 5:101
+- Waaqota namoota biroo hin arrabsinaa. Waan isaan (warra kufran) Allaah gaditti gabbaran hin arrabsinaa; utuu hin taane isaanis wallaalaan Allaah arrabsuu danda’u. 6:108
+- Yoo isin warra dachii irraa baay’ee ta’an ajajamtan, isaan karaa Allaah irraa isin jallisu. Isaan odoo tilmaama qofa hordofaniiru; soba qofaas dubbatu. 6:116
+- (Namoota) badiiwwan hunda, ifa ta’aniifi dhoksaa ta’anis dhiisaa. 6:120
+- (Yaa warra amantan!) Waan (foon) maqaan Allaah irratti hin dubbatamne (yeroo qalutti) hin nyaatinaa. 6:121
+- Namni Allaahn qajeelchuu fedhe, qoma isaa Islaamaaf banee; namni Innis jallisuu fedhe, qoma isaa dhiphoo fi cufamaa godha. 6:125
+- Kenaa keessatti giddu galeessa ta’aa; foolattuu irraas fagaadhaa. Mirga uumama hundaaf eegaa. 6:141
+- Allaahitti wanta tokkoyyuu hin faankessinaa; warra abbaa fi haadhatiif toltuu raawwadhaa; ijoollee keessan hiyyummaan sodaachuun hin ajjeefatinaa; wantoota fokkatoo bira hin dhi’aatinaa; lubbuu Allaahn dhorka’e haqaan ala hin ajjeefatinaa. 6:151
+- Amanamaa ta’aa; daldala keessan tokkollee keessatti hin gowwoomsinaa. Qabeenya yatimaatti hin dhi’aatinaa; garuu isa gaariif gochuuf; safara guutuu fi madaala qajeelaa kennuu qabaattu; yeroo dubbattanuu, odoo fira dhihoo ta’e iyyuu, dhugaa dubbadhaa; waadaa Allaahis raawwadhaa. 6:152
+- Karaa qajeelaa hordofaa; karaawwan (biroo) hin hordofinaa; isaan isin karaa Isaa irraa gargar baasu. 6:153
+- (Muhammad) jedhi: "Dhugumatti, salaanni koo, sadagaannoo koo, jireenyi koo, duuti koos Allaah, Gooftaa aalama hundaaf." 6:162
+- Of tuuluu hin ta’inaa. 7:13
+- Shayaanni isin hin gowwoomsin. 7:27
+- (Muhammad) jedhi: "Gooftaan koo qajeelumma ajajee jira…" 7:29
+- Daangawwan Allaah waan hundatti eegaa. Dubbii fi hojii keessatti daangaawwan hin cabsinaa. Khaadhaa; dhugaa; garuu hin foolattinaa. Yeroo salaataatti uffata gaarii uffadhaa. 7:31
+- Allaahn samiile fi dachii guyyoota ja’a keessatti uume; ergasiis Arshi irratti (haala ulfina Isaa wajjin wal qabateen) ol ta’e. 7:54
+- Gooftaa keessan gad of deebisuunii fi dhoksaan kadhadhaa. Inni warra daanga cabsan hin jaallatu. 7:55
+- Dachii haala gaariitti qajeelfamee booda ishee keessatti badii hin raawwatinaa; sodaafii fi abdumaadhaanis Isa kadhadhaa. 7:56
+- Garuu warra hojii hamtuu raawwatanii booda tawbaha raawwataniif amanan, dhugumatti Gooftaan kee ergasii dhiifamaa, rahmata haaraadha. 7:153
+- (Muhammad) jedhi: "Yaa namootaa! Dhugumatti, ani Ergamaa Allaah ta’ee gara isin hundaatti ergameera…" 7:158
+- Maqaawwan (hundi) gaariin Allaah kanof; isaaniin kadhadhaa; warra maqaa Isaa keessatti jal’atan dhiisaa… 7:180
+- Namni Allaahn jallise, isaaf qajeelchiin hin jiru; jallina isaanii keessattis isaan dhangaggaraa jala dhiisa. 7:186
+- Dhiifama raawwadhaa; toltuutti ajajaa; warra wallaalanirraa gara galchaa (isaan hin adabinaa). 7:199
+- Dogoggora namoota biroo irraa dhiifama raawwadhaa. 7:199
+- Yoo shayaana irraa qaanxisni hamtuu isin bira ga’e, Allaahittisabaadhaa. Dhugumatti, Inni dhaga’aa, beekaa. 7:200
+- Mu’uminoonni isaanuma yeroo Allaah yaadatamee onneen isaanii sodaatanii, yeroo keeyyattoonni Isaa isaan irratti dubbifamanii amanti isaanii dabalu… 8:2
+- Allaahii fi Ergamaa isaatti hin kufinaa; amaanawwan keessanittis (hojiiwwan Allaah isin ajajee hunda keessatti) odoo beektanuu hin kufinaa. 8:27
+- Yoo isin Allaah sodaattanii fi ajajamtan, Inni Furqaan (mirkana dhugaafi soba gidduutti gargar baasu, yookiin rakkina hunda irraa ba’uuf karaa) isiniif kenna. 8:29
+- Warri kufran qabeenya isaanii karaa Allaah irraa (namoota) deebisuuf kennu; isaan kennuu isaanii itti fufu; dhuma irratti garuu isheenis isaaniif gaabbii taati. 8:36
+- Warra kufranii jedhi: yoo isaan (kufraa) dhaaban, waan darbe isaaniif dhiifama; garuu yoo isaan (itti) deebi’an, dhugumatti, warra isaan duraa (adabame) fakkeenyaan darbeera (akeekkachiisa ta’ee). 8:38
+- Yeroo isin (loltoota diina) qunnamtan, dhaabbadhaa; baay’inaan maqaa Allaah (arrabaanii fi lubbuudhaan) yaadadhaa; akka milkaa’attaniif. 8:45
+- Akka warra of tuuluunii fi namoota argisiisuuf manneen isaanii irraa bahaniifi (namoota) karaa Allaah irraa deebisan hin ta’inaa. 8:47
+- Allaahn eessayyuu ni’imaa waan namoota tokkoof kenne, hamma isaan waan lubbuun isaanii keessa jiru jijjiiran hin jijjiiru. 8:53
+- Uumamawwan lubbuu qabeeyyii irraa waan Allaah bira caalaa hamtuu ta’an warri kufran. 8:55
+- Rabbiin onneewwan warra Isatti amanan gidduutti jaalala fi tolfamta buusa. 8:63
+- Warra eegumsa gaafatan eegaa; gargaaraa isaanis. 9:6
+- Mushriiqoonni masjiidawwan Allaah eeguuf hin ta’anu. 9:17
+- Isaan (warri kufran, Yahuudonnii fi Kiristiyaanonni) afaan isaanitiin ifa Allaah (Muhammad ﷺ ittiin ergame — Tawhiida Islaamaa) dhaamsuu fedhu; Allaahn garuu odoo kufraan jibban iyyuu ifa Isaa guutuu malee wanta biraa hin fedhu. 9:32
+- Sadaqoonni (Zakaan) kan warra (1) hiyyeeyyii, (2) warra rakkoo qaban, (3) warra ishee walitti qaburratti hojjataniif, (4) warra onneen isaanii gara Islaamitti hawwachuu, (5) golboyyii bilisoomsuuf, (6) warra liqaa qabaniif, (7) karaa Allaah keessatti (Mujaahidootaaf), fi (8) imalaaf. 9:60
+- Namni Allaahii fi Ergamaa isaa (ﷺ) mormee fi diina ta’e, isaaf ibidda Jahannam ishee keessatti bara baraan turu jira. Kun salphina guddaadha. 9:63
+- Munaafiqoonni dhiiraanii fi dubartiin tokko isaanii tokko. Isaan Allaah dagatan; Innis isaan dagate. 9:67
+- Qulqullinaaf qabsaa’aa. Kabaja masjiidaa eegaa. 9:108
+- (Nabiyyii fi mu’uminooniif) Mushriiqootaaf — odoo fira isaanii ta’an iyyuu — erga isaan warra ibiddaa ta’uu isaaniif ifa ta’ee booda (isaan kufraan du’aniif) dhiifama gaafachuun hin ta’u. 9:113
+- Namni Allaah irratti soba uumee yookiin keeyyattoota Isaa kijibsiise irraa nama miidhaa guddaa eenyu? Dhugumatti, badii raawwattoonni hin milkaa’anu! 10:17
+- Isaan Allaah gaditti wantoota isaan hin miineefi hin fayyadne gabbaru; "Isaan kun warra Allaah bira nuuf safee godhanidha" jedhu. Jedhi: "Samiilee fi dachii keessatti Allaahn hin beekne isatti beeksiftuu?" Inni waan isaan faankessan irraa qulqulluu fi ol ta’e! 10:18
+- Mindaan hamtuu hamtuun fakkaata ishee. 10:27
+- Kun Allaah, Gooftaa keessan dhugaa. Ergii dhugaa booda, jallinaan ala maaltu jira? Akkamitti isin garagalchamtan? 10:32
+- Baay’een isaanii tilmaama qofa hordofu. Dhugumatti, tilmaamni dhugaa irratti homaa hin fayyadu. 10:36
+- Dhugumatti! Allaahn namoota tokkollee hin miidhu; garuu namooti of isaanii miidhu. 10:44
+- Ni’imni Allaah waan namni walitti qabuu yookiin kuusuu danda’u hunda irra caalaa akka ta’e hubadhaa. 10:58
+- Warra keeyyattoota Allaah sobsiisaniin hin ta’inaa; utuu hin taane isin warra hoonga’an keessaa taatu. 10:95
+- Yoo Allaahn rakkoo tokko isin tuqe, Inni malee eenyutu isa deebisuu danda’a? Yoo Inni isiniif toltuu fedhe, eenyutu ni’ima Isaa deebisuu danda’a? Inni isa gabroota Isaa irraa nama fedheef kenna. 10:107
+- Dachii irratti uumama lubbuu qabeenya tokkollee sooranni isaa Allaah irratti ta’e malee hin jiru. Innis iddoo isaa jireenyaafi iddoo isaa kuusaa (garba keessatti, awwaala keessatti, kkf) beeka. 11:6
+- Yoo namicha rahmata Nu biraa dhandhamsiifnee, ergasii isa irraa fuunne, dhugumatti inni abdii kutataa, galateeffataa dhabaa. 11:9
+- Namni jireenya addunyaa fi faaya isaa fedhe, nuti isaaniif hojii isaanii ishee keessatti guutumaan guutuu kennina; isheenis isaaniif hin hir’atu. 11:15
+- Nuti isaan hin miidhne; garuu isaan of isaanii miidhan. Waaqayyoon isaanii isaan Allaah gaditti kadhachaa turan, yeroo ajajni Gooftaa keetii dhufe, isaanitti homaa hin fayyanne; badii isaanii malee wanta biraa hin daballe. 11:101
+- Guyyaa isheen (adabbiin) dhufu, namni tokko iyyuu eeyyama Isaa (Allaah) malee hin dubbatu. Isaan irraa namoonni tokko tokko gaabbanaa’aa, (namoonni biroo) nama gaarii ta’u. 11:105
+- Warri gaabbanaa’an, isaan ibidda keessa; isaan keessatti iyyii fi hoyii isaaniif jira. 11:106
+- Isaan yeroo samiileen fi dachiin turan hunda ishee keessa bara baraan turu; garuu waan Gooftaan kee fedhe malee. Dhugumatti, Gooftaan kee waan fedhe hojjechuu danda’a. 11:107
+- Warri gaarii ta’an immoo, isaan Jannata keessa; yeroo samiileen fi dachiin turan hunda ishee keessa bara baraan turu; garuu waan Gooftaan kee fedhe malee; kennuu hin cinnedu ta’eedha. 11:108
+- Gara warra miidhaa raawwataniitti hin dhi’aatinaa; utuu hin taane ibiddi isin tuqa; Allaahn malee gargaaraa biraa isiniif hin jiru; ergasiis isin hin gargaaramtan. 11:113
+- Salaata akeekaa guyyaa lamaanii fi sa’aatiiwwan halkanii (kunis salaata 5 guyyaa) qabadhaa. Hojiiwwan gaariin hamtuuwwan (badiiwwan xixiqqoo) balleessu. 11:114
+- Samiilee fi dachii keessa wanni dhokatee argamu hundi Allaah kanof; dhimma hundis gara Isaatti deebi’a (murtiif). 11:123
+- Ajajni (yookiin murtoon) Allaah kanof. Inni akka isin Isa malee wanta tokkollee gabbaramuu dandeessan hin gabbaranne (Tawhiid) isin ajaja; kun amantii qajeelaadha; garuu namoonni baay’een hin beekan. 12:40
+- Rahmata Allaah irraa abdii hin kutinaa. 12:87
+- Namoonni baay’een odoo isin fedhatanuu hin amanan. 12:103
+- Baay’een isaanii Allaahitti hin amanan; garuu isaan faankessu (isaan Mushriiqoon). 12:106
+- Kun (Qur’aanni) hima uumamee hin taane; garuu waan isa duraa (Tawraat, Injiil, fi kitaaboota Allaah biroo) mirkaneessuufi waan hunda ibsa ifa ta’e, akkasumas warra amananiif qajeelfamaa fi rahmata. 12:111
+- Allaahn soorata nama fedheef babal’isa; (nama fedheefis) dhiphisa. 13:26
+- Allaah baay’inaan zikriidhaan yaadadhaa. Warri Allaahitti amanan, onneen isaanii yaadannoo Isaa wajjin tasgabbaa’a. 13:28
+- Warri amananii fi hojii gaarii hojjatan, isaaniif gammachuu fi tasgabbii lubbuu jira. 13:29
+- Warri jireenya addunyaa Aakhiraa irraa filatan, (namootas) karaa Allaah (Islaam) irraa deebisu, ishee keessattis jallina barbaadu — isaan jallina fagoo keessa jiru. 14:3
+- Gabbaricha keessatti gad of deebisuu fi galateeffachuu raawwadhaa. 14:7
+- Warri Gooftaa isaanii kufan, hojiiwwan isaanii akka daaraa kan guyyaa bubbee jabessaatti bubbeen isa irratti bobbe, fakkaata; isaan waan hojjataniirraa homaa hin argatan. 14:18
+- Allaahn warra amanan jireenya addunyaa keessatti (isaan Allaah qofa gabbaruu itti fufu) fi Aakhiraa keessattis dubbii jabaan jabeeffata. 14:27
+- Allaahn waan miidhagdoonni (Mushriiqoon, miidhagdoonni, kkf) hojjatan irraa dagataa ta’uu isaa hin yaadinaa; garuu Inni isaan guyyaa ijaawwan isaanii sodaadhaan banamaa ta’utti tursiisa. 14:42
+- Akka Allaahn lubbuu tokko tokkoof waan isheen hojjatteef mindaa kennuuf. Allaahn herrega keessatti saffisaa dha. 14:51
+- Dhugumatti, nuti nama dhoqqee sagaleessa qabu, dhoqqee gurraacha jijjirame irraa uume. 15:26
+- Jinnoos isaan dura ibidda bobaa’aa (aara hin qabne) irraa uume. 15:44
+- Isheetti (Jahannam) balbala torba qabdi; balbala tokkoo tokkoof (addaa) gareen badii raawwattoo jira. 15:44
+- Inni nama bishaan saalaa (makaa dhangala’aa dhiiraa fi dubaraa) irraa uume; ergasiis inni (namichi) diina ifa bahaadha. 16:4
+- Horiiwwanis, Inni isinif uume; isaan keessatti ho’ina (wayyaa ho’aa) fi bu’aa baay’ee qabdu; isaaniirraas nyaattuu. 16:5
+- (Inni uume) fardeen, gaangoo, fi harree, isin itti yaabbatanii fi faaya; wantoota isin hin beeknis uuma. 16:8
+- Inni samii irraa bishaan (rooba) buuse; isa irraa isin dhugdu; isa irraa biqiltuu isin horii keessan itti horsiiftan ni biqilta. 16:10
+- Inni galaana isinif laaffise; akka isa irraa foon haaraa (qurxummii) nyaattaniif; isa irraas faaya isin uffattan baafattaniif. 16:14
+- Inni dachii keessatti tulluuwwan cimoo buuse; akka isheen isin wajjin hin sochoone; lageenii fi karaalee (isiniif uume); akka isin qajeeltaniif. 16:15
+- Sila Inni uumu, akka waan hin uumneetti? Sila isin hin yaadattanuu? 16:17
+- Yoo isin ni’imaa Allaah herregattan, ishee herreggachuu hin dandeessanu. 16:18
+- Allaahn waan isin dhoksitanii fi waan isin ifa baastan beeka. 16:19
+- Waan isaan (Mushriiqoon) Allaah gaditti kadhatan, homaa hin uumne; garuu isaan of uumamaniiru. 16:20
+- (Isaan) du’aa, lubbuu hin qabne; yeroo isaan kaafamanuus hin beekan. 16:21
+- Yeroo nuti wanta tokko fedhinu, jechi keenya isaaf: "Ta’i!" jedhuu qofa; isaatis ta’a. 16:40
+- Warri tooftaa hamtuu tottolan, Allaahn isaan dachii keessatti hin darbamsiisu, yookiin adabbiin isaanitti hin dhufu? 16:45
+- Ni’imaa fi wanti gaarii isin qabdan hundi Allaah biraa. Yeroo rakkinni isin tuqe, isa qofaaf iyyitu. 16:53
+- Ergasii yeroo Inni rakkoo isin irraa deebise, isin irraa gareen tokko tokko Gooftaa isaanii (Allaah) faankessa. 16:54
+- Horiiwwan keessatti isiniif barsiisa jira. Nuti waan garaacha isaanii keessa jiru, xurii fi dhiiga gidduu jiru, aannan qulqulluu isin obaasa; inni warra dhuganiif mi’aawaa dha. 16:66
+- Allaahif fakkeenya hin kaasinaa (waan Isaa wajjin wal qabatu tokko iyyuu hin jiruuf; Innis waan tokkoo wajjin wal qabataa dha). Dhugumatti, Allaahn beeka; isin hin beektan. 16:74
+- Rabbiin namootaaf dhageettii, arguu, sammuu, fi miira akka galateeffataniif kenne beekaa. 16:78
+- Hadhaa fi sarbummaa irraa fagaadhaa. 16:97
+- Yeroo isin Qur’aana dubbisuu fedhitan, Shayaana (Shat’aana) abaarsamaa irraa Allaahittisabaadhaa. 16:98
+- Dogoggora wallaalaan raawwatame, yoo namichi tawbaha raawwatee fi of qajeelche, dhiifama isaaf ta’uu isaa beekaa. 16:119
+- (Muhammad) gara karaa Gooftaa keetii (Islaam) ogummaanii fi gorsa gaariidhaan waami; isaan wajjinis karaa isaanii caalaa gaariidhan falmi. Warra biroo gara karaa Rabbitti waamuu ogummaanii fi laafinaan raawwatamuu qaba. 16:125
+- Allaahn warra Isa sodaatanii fi warra toltuu hojjatan wajjin jira. 16:128
+- Qur’aanni kun gara waan caalaa qajeelaafi qajeelummaatti qajeelcha. 17:9
+- Namni tokko iyyuu ba’aa namoota biroo hin baachisu. 17:15
+- Namni Aakhiraa fedhee, isheef dadhabsiisa ishee wajjin wal qabatu qabaatee, mu’umina ta’ee hojjate, isaan kun dadhabsiisi isaanii galateeffamaa fi mindeessamaa (Allaahn biraa) ta’a. 17:19
+- Abbaa fi haadha keessan kabajaa; isaaniif laafina raawwadhaa. Abbaa fi haadhaaf amanaa ta’aa. Isaaniif jecha kabajaa hin qabne hin dubbatinaa. Gooftaan keessan akka isin Isa malee wanta tokkollee gabbaramuu dandeessan hin gabbaranne isin ajaja. Abbaa fi haadha keessanittis toltuu raawwachuu (ajaja). Yoo isaan irraa tokko yookiin lamaanuu jireenya keessan keessatti dulloomina ga’an, isaaniif "uf" hin jedhinaa; isaan hin kolfinaa; garuu isaaniif jecha ulfina qabu dubbadhaa. 17:23
+- Gara isaaniitti laafinaa fi mararfannaan baatii gad deebisaa; "Gooftaa koo! Akkuma isaan yeroo ani xinnaa ta’ee na leellisan, isaanis rahmata raawwadi" jedhi. 17:24
+- Dhugumatti, foolattoonni obboloota Shayaana; Shayaannis Gooftaa isaatiif galateeffataa dhabaa. 17:27
+- Maallaqa foolattuu hin taasisinaa. 17:29
+- Ijoollee keessan hiyyummaan sodaachuun hin ajjeefatinaa. 17:31
+- Zinaa bira hin dhi’aatinaa. Kabaja fuudhaa eegaa; zinaas irraa fagaadhaa. 17:32
+- Yeroo safartan safara guutuu kennuu; madaala qajeelaadhaanis madaalaa. Kun waan gaarii (bu’a qabeessaa) fi dhuma irrattis waan caalaa gaarii ta’eedha. 17:35
+- (Namoota) waan isin beekumtaa hin qabne hin hordofinaa (fakkeenyaaf: "Ani arge" jechuu, odoo hin argine; yookiin "Ani dhaga'e" jechuu, odoo hin dhaga'ine). 17:36
+- Gad of deebisaa; of tuuluus hin ta’inaa. Dachii irratti of tuulun hin deemin. Dhugumatti, isin dachii hin caccabsuu; tulluuwwan irraas ol’aantummaatti hin ga’u. 17:37
+- Gooftaan keessan isin beeka; yoo fedhe, isin rahmata; yookiin yoo fedhe, isin adaba. 17:54
+- Namni addunyaa keessatti jaamaa ta’e (keeyyattoota Allaah hin argine, Isatti hin amanne), Inni Aakhiraa keessattis jaamaa dha; karaa irraas caalaatti jallateera. 17:72
+- Yeroowwan murtaa’oo salaataa eegaa. 17:78
+- Dhugumatti, nuti Qur’aana kana keessatti namootaaf fakkeenya gosa hundaa ibsineerra; garuu namoonni baay’een (dhugaa) kijibsiisuu malee wanta biraa hin fudhatani. 17:89
+- Nuti Qur’aana kana keessatti namootaaf fakkeenya gosa hundaa kennineerra. Garuu namichi waan hunda caalaa falmaa dha. 18:54
+- Mindaan isaanii Jahannam; waan isaan kufaniif, keeyyattoota Kiyyafi Ergamoota Kiyyas qishinaafii fi qoosatti fudhataniif. 18:106
+- Allaah (Ulfina Isaa) ilma qabaachuuf hin ta’u (kun waan Kiristiyaanonni Allaah irratti Iisa ilma Allaah jedhanii kufaniidha). Inni qulqulluu dha. 19:35
+- Namoota wajjin laafinaan dubbadhaa. 20:44
+- Toltuuwwan keessatti wal dorgomaa. 21:90
+- Waan faayidaa hin qabne (dubbii bule) irraa fagaadhaa. 23:3
+- Of isaanii eegaa. 23:5
+- Onneewwan keessan badii irraa eegaa. 23:97
+- Namoota biroo irraa dhiifama raawwadhaa; dogoggora isaaniis niif dhiifamaa. 24:22
+- Iccitiin namoota biroo, keessattuu manneen isaanii keessatti kabajaa. Mirga ollaa raawwadhaa. 24:27
+- (Dhiiraanii fi dubartiin) ija keessan gad deebisaa. Of isaanii fi qulqullina isaanii eegaa. 24:30
+- Uffataafi amala keessatti of qabuu eegaa. 24:31
+- Rabbiin warra Isa gabbaranii fi toltuu hojjatan jireenya nageenyaafi tasgabbiin isiniif kenna. 24:55
+- Eeyyama malee kutaa iccitii abbaa fi haadhaa hin seeninaa. 24:58
+- Gad of deebisaa. 25:63
+- Ragaa sobaa fi gowwoomsaa irraa fagaadhaa. 25:72
+- Mindaa Aakhiraaf qabsaa’aa; garuu dhimma addunyaa keessan hin dagatinaa. 28:77
+- Allaah wajjin gabbaramaa biroo tokkollee hin kadhatinaa. 28:88
+- Wal fakkaattii (homoseksiyalummaa) hin raawwatinaa. 29:29
+- Qabsoo keessan hundatti gaarummaaf qabsaa’aa. 29:69
+- Salaata dhaabaa; zakaa kennaa. 31:4
+- Toltutti ajajaa; hamtuus dhorgaa. 31:17
+- Amala keessan keessatti of tuuluu irraa fagaadhaa. Yeroo dubbii faayidaa hin qabnetiin hin balleessinaa. 31:18
+- Deemsa keessanii fi sagalee keessan keessatti giddu galeessa ta’aa. 31:19
+- Akkataa Nabiyyii Muhammad hordofaa. 33:21
+- Dubartoonni bareedinaa fi faaya isaanii hin argisiisan; hin of jajjufanis. 33:33
+- Yeroo hunda keessatti dhugaa dubbadhaa. 33:70
+- Ogummaa fi hubannoo yaada qabuun barbaadaa. 38:29
+- Ajaja Qur’aanaa ajajamaa. 39:23
+- Rabbiin yeroo badii raawwataan tawbaha raawwatee gara Isaatti deebi’u badiiwwan hunda dhiifama. 39:53
+- Allaahitti du’aa (kadhaa) ofii keessan isaaniif raawwadhaa. 40:60
+- Hamtuu waan ishee caalaa gaariidhaan deebisaa. 41:34
+- Dhimma mari’aadhaan murteessaa. 42:38
+- Sagalee keessan sagalee Nabiyyii ol hin baasinaa. 49:2
+- Iccitii eegaa; kufaatii irraas fagaadhaa. 49:6
+- Warra wal lolan gidduutti nagaan walitti dhiheessaa. Waan wal lolu keessatti araara barbaadaa. 49:9
+- Namoota biroo hin qishinaatinaa. 49:11
+- Shakkii irraa fagaadhaa. Basaasaa fi hasaasa duuba irraa fagaadhaa. Namoota duuba hasaasaa; maqaa isaanii dabarsaa. Duuba hasaasaa fi maqaa dabarsuu irraa gosa hundaan fagaadhaa. Of tuuluu isin irraa akka jal’ina isin hin geessin isa dhiisaa. 49:12
+- Waan namni ulfina argatu Waaqa sodaachuu qofa ta’uu isaa beekaa. Garaagarummaan namootaa fi aadaa gidduu jiru kabajaa. 49:13
+- Keessummoolee kabajaa. 51:26
+- Dirqama keessan Allaah irratti qabdan qalbeeffadhaa. 51:56
+- Qabeenya sadaqaatti kennaa. 57:7
+- Amantii keessatti raahibummaan (fuudhaa fi jireenya qananii dhiisuu, akka raahibootaa fi raahiboota dubaraa, yookiin namoota kakuu amantii jalatti jiraatan, yookiin mana isaan jiraatan) akka hin jirre beekaa. 57:27
+- Qabeenyi isin yaadannoo Allaah irraa hin deebisin. 58:11
+- Warri beekumsi qaban Rabbiin sadarkaa ol’aan ol kaasa. 58:11
+- Namoota Muslimoota hin taaneef laafinaa fi qajeelummaan haa ta’u. 60:8
+- Amantaa fi hojii keessan keessatti munaafiqummaa irraa fagaadhaa. 63:9
+- Hadhaa fi sarbummaa irraa fagaadhaa. 64:16
+- Wahiin isinirratti kennames eegaa. 73:15
+- Guyyaa murtii yaadadhaa. 75:36
+- Obsaa fi mararfannaatti ajajaa. 90:17
+- Warri lubbuu isaanii qulqulleeffatan milkaa’u; warri ishee fokkanatan immoo hoonga’u. 91:10
+- Warra barbaachisaniin hin tuffatinaa; isaanis hin ariarinaa. 93:10
+- Beekumsaafi hubannoo barbaadaa. Qur’aana dubbisaa; isa irrattis xiinxalaa. 96:1–5
+- Hiyyeeyyii nyaachisuu jajjabeessaa. 107:3
 """;

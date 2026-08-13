@@ -3318,4 +3318,280 @@ Matching Phrases 8 words
 - Allah, qullarından istədiyinin ruzisini geniş edər, istədiyinin də daraldar. (اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ) 28:82; 29:62
 - Siz gizlini və aşkarı Bilənə qaytarılacaqsınız; O da sizə etdiklərinizi xəbər verəcəkdir. (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
 - Qohumlar (yaxın qan qohumları) Allahın Kitabında bir-birinə daha yaxındırlar. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
+cmds - Commands, Exhortations, Prohibitions, Instructions
+- fard / wajib (فرض / واجب) — vacib (görülməlidir; tərk etmək günahdır)
+- mustahabb / mandub (مستحب / مندوب) — müstəhəb / məndub (tövsiyə olunur; görülərsə mükafat var, tərk edilərsə günah yoxdur)
+- mubah (مباح) — mübah / icazə verilən (nə savab var, nə günah)
+- makruh (مكروه) — məkruh (bəyənilməz, lakin görülərsə günah deyil)
+- haram (حرام) — haram (görülməsi günahdır)
+- halal (حلال, icazəli / qanuni) — həm mübah, həm də müstəhəbi əhatə edir — haram olmayan hər şey
+- Yalnız Allaha ibadət edin və Ondan yardım/kömək diləyin. 1:5
+- Yalnız Allaha ibadət edin. 2:21
+- Allaha heç bir şərik qoşmayın. 2:22
+- Allah bağışlayandır (tövbə qəbul edəndir), O, Adəmin (əleyhissəlam) tövbəsini qəbul etdi. 2:37
+- Haqqı batil ilə qarışdırmayın və haqqı gizlətməyin. 2:42
+- Namazı qılın və zəkatı verin. 2:43
+- Özünüz tətbiq etdikdən sonra başqalarına yaxşı iş görməyi əmr edin. 2:44
+- Bütün işlərinizdə Allahdan kömək diləyin. 2:45
+- Fitnə-fəsada girməyin və yaymayın. 2:60
+- İnsanları ibadət evlərinə getməyə mane olmayın. 2:114
+- Məscidin müqəddəsliyinə hörmət edin. Namaz yerlərinizi təmiz və pak saxlayın. 2:125
+- Allahı (namaz qılmaq, təsbih etmək və s. ilə) xatırlayın, O da sizi xatırlayar və Ona şükür edin. 2:152
+- Çətinliklərdə səbir edin. 2:153
+- Aşkar düşmən olan Şeytanın addımlarını izləməyin. 2:168
+- Heç kəsi kor-koranə izləməyin. 2:170
+- Bütün əmanətləri qoruyun və yerinə yetirin. Dini vəzifələrinizi səmimiyyətlə yerinə yetirin. Andlarınızı və əhdlərinizi yerinə yetirin. Vədələrinizi, xüsusən Allaha verdiyiniz vədləri qoruyun. Ehtiyacı olanlara dəstək olun və çətinlikləri aradan qaldırın. İlahi lütfün itməsinə səbəb olan günahlardan çəkinin. Qürurun sizi haqsızlığa aparmasına imkan verməyin. 2:177
+- Qisasda (cəzada bərabərlik qanununda) sizin üçün həyat vardır. 2:179
+- Ramazan ayında oruc tutun. Müttəqilər (təqvalılar) olmaq üçün təyin olunmuş orucu tutun. 2:183
+- Qurana son rəhbərlik mənbəyi kimi hörmət edin. 2:185
+- Bir-birinizin malını haqsız yerə yeməyin və hakimlərə (işlərinizi təqdim etməzdən əvvəl) rüşvət verməyin. 2:188
+- Başqalarına söz və ya əməllə zülm etməyin. Heç vaxt təcavüzkar kimi döyüşməyin, ancaq müdafiə üçün döyüşün. 2:190
+- Yetimləri qoruyun. Yetimlərə gəldikdə, onların malında dürüst işləyin və onların malını yeməyin. 2:220
+- Tövbə edin və Allahın bağışlamasını diləyin. Heyz dövründə cinsi əlaqədə olmayın. (Həm fiziki, həm də mənəvi) təmizliyi qoruyun. 2:222
+- Ailənizə qarşı vəzifələrinizi yerinə yetirin. 2:233
+- Rəhbərləri layiqliyinə görə seçin. 2:247
+- Dində məcburiyyət yoxdur. 2:256
+- Malınızı sədəqədə (xeyriyyəçilikdə) xərcləyin. Həm malda, həm də vaxtda xeyirxah olun. 2:261
+- Xeyriyyəçiliyinizi məntəqlə (öz kərəminizlə öyünərək) batil etməyin. 2:264
+- Şeytan sizi yoxsulluqla qorxudur və sizə fahşa (pis işlər, qeyri-qanuni cinsi əlaqə, günahlar) etməyi əmr edir. 2:268
+- Ehtiyacı olanları axtarın və onlara kömək edin. 2:273
+- Sələm və faizlə məşğul olmayın. Faizli mal yeməyin. Riba (sələm) yeməyin. 2:275
+- Borclu çətin vəziyyətdədirsə, ödəmə üçün ona əlavə vaxt verin. 2:280
+- Ticarət əməliyyatlarında sözünüzün arxasında durun. Maliyyə işlərində doğruçul olun. Bütün öhdəliklərinizdə vicdanlı olun. Müəyyən müddətə borc aldığınız zaman onu yazın. Ticarət müqaviləsi bağladığınız hər dəfə şahid tutun. 2:282
+- Bütün əmanətləri qoruyun və yerinə yetirin. 2:283
+- Nazil olmuş Kitablara və bütün Peyğəmbərlərə inanın. 2:285
+- Allah heç kəsi gücü çatmayan şeylə mükəlləf tutmaz. Qazandıqları yaxşılığa görə mükafat, qazandıqları pisliyə görə isə cəza alarlar. Allah heç kəsi gücündən artıq yükləməz; biz də elə etməməliyik. Çətinlikdə belə Allahın planına güvənin. 2:286
+- Kim əhdi yerinə yetirərsə və Allahdan qorxarsa, şübhəsiz ki, Allah müttəqiləri (təqvalıları) sevər. 3:76
+- Əgər gücünüz çatırsa, Həcc (ziyarət) edin. 3:97
+- Parçalanmayın (bölünüb ayrılmayın). 3:103
+- Yaxşılığı əmr edin və pislikdən çəkindirin. Cəmiyyətinizdə ədaləti təşviq edin. Başqalarını Allaha zikr etməyə çağırın. 3:104
+- Möminlər yalnız Allaha təvəkkül etməlidirlər. 3:122
+- Riba (sələm) yeməyin. 3:130
+- Rəhmətə nail olmaq üçün Allaha və Onun Peyğəmbərinə itaət edin. 3:132
+- Allah (Allah yolunda - xeyriyyə, sədəqə və s.) bolluqda və çətinlikdə xərcləyənləri, qəzəblərini udanları və insanları bağışlayanları sevir. 3:134
+- Qəzəbinizi udun. Qəzəbinizi idarə edin. 3:134
+- Başqalarının səhv və xətalarını bağışlayın. 3:135
+- Danışıqda kobud olmayın. Sizdən fərqli düşünənlərə qarşı səbirli olun. 3:159
+- Əgər Allah sizə kömək edərsə, heç kim sizə qalib gələ bilməz; əgər O, sizi xar etsə (köməksiz qoysa), Ondan sonra kim sizə kömək edə bilər? 3:160
+- Hər kəs ölümü dadacaq. Və yalnız Qiyamət günü mükafatlarınız tam olaraq veriləcəkdir. 3:185
+- Təbiətin möcüzələri və bu kainatın yaradılışı barədə dərindən düşünün. Allahın kainatı məna və məqsədlə yaratdığını bilin. 3:191
+- Kişi və qadın əməllərinə görə bərabər mükafat alarlar. 3:195
+- Rəbbindən qorxanlar üçün (Cənnətdə) ağacları altından çaylar axan bağlar vardır; onlar orada əbədi qalacaqlar, bu Allah tərəfindən bir qonaqlıq (neşə) dır. 3:198
+- Hər bir əməldə daim Allahın razılığını qazanmağa çalışın. 3:200
+- Rəbbinizdən qorxun, (qohumluq) bağlarını (qohum-əqrəba ilə əlaqələri) kəsməyin. 4:1
+- Yetimlərə mallarını verin və (öz) pisinizi (onların) yaxşısı ilə dəyişməyin; onların malını öz malınıza qatıb yeməyin. 4:2
+- (Evləndiyiniz) qadınlara mehrlərini (ərlər tərəfindən evlilik zamanı qadına verilməsi vacib olan toy haqqını) könül xoşluğu ilə verin. 4:4
+- Yetimlərin hüquqlarını qoruyun. 4:6
+- Ölənin malı onun ailə üzvləri arasında bölüşdürülməlidir. Qadınların da miras hüququ vardır. 4:7
+- Yetimlərin malını haqsız yerə yeməyin. 4:10
+- Miras haqqındakı əmrlərə əməl edin. 4:11
+- Qadınları istəklərinin əksinə miras almaq qadağandır, onlara qarşı sərt rəftar etməyin. Onlarla (arvadlarla) gözəl rəftar edin. Qadınların hüquqlarına hörmət edin və onları qoruyun. Həyat yoldaşınıza qarşı mehriban və rəhmli olun. Qadınlara hörmət və ədalətlə rəftar edin. 4:19
+- Qan qohumlarınızla evlənməyin. 4:23
+- Bir-birinizi öldürməyin. Şübhəsiz ki, Allah sizə qarşı çox rəhmlidir. Bir-birinizin malını haqsız yerə yeməyin. 4:29
+- Əgər siz qadağan edilmiş böyük günahlardan çəkinsəniz, Allah kiçik günahlarınızı bağışlayar və sizi uca bir məqama (Cənnətə) daxil edər. 4:31
+- Allahın birinizi digərindən üstün etdiyi şeylərə tamah etməyin. Həsəd və paxıllıqdan çəkinin. 4:32
+- Kişilər qadınların qoruyucusu və başçısıdırlar, çünki Allah onların birini digərindən üstün etmişdir və (qadınlar üçün) mallarından xərclədikləri üçündür. Kişi ailənin qoruyucusu və dayaqçısıdır. 4:34
+- Allaha ibadət edin və Ona heç nəyi şərik qoşmayın, valideynlərə, qohum-əqrəbaya, yetimlərə, yoxsullara, qonşuya, yanınızdakı yoldaşa, yolda qalana (qarşılaşdığınız səyyaha) və sağ əlinizin sahib olduqlarına (qullarınıza) yaxşılıq edin. Allah təkəbbürlü və öyünənləri sevməz. Başqalarına yaxşılıq edin. Zəiflərə rəhm edin. Qohumluq əlaqələrini qoruyun və qohumları hörmətlə yad edin. 4:36
+- Xəsis olmayın. 4:37
+- Allah Ona şərik qoşulmasını bağışlamaz, bundan başqa (günahları) istədiyi kimsəyə bağışlayar. 4:48
+- Başqalarına həsəd aparmayın. 4:54
+- Allah sizə əmanətləri sahiblərinə qaytarmağı əmr edir. İnsanlar arasında hökm edəndə ədalətlə hökm edin. 4:58
+- Allaha və Onun Peyğəmbərinə itaət edin. Aranızdakı əmr sahiblərinə (hakimiyyət başçılarına) lazımi hörməti göstərin. 4:59
+- Zəiflərə və müdafiəsizlərə zülm etməyin. 4:75
+- Sizə nə yaxşılıq gəlsə, Allahdandır, sizə nə pislik gəlsə, özünüzdəndir. 4:79
+- Peyğəmbərə (Muhəmmədə ﷺ) itaət edən, şübhəsiz ki, Allaha itaət etmişdir. 4:80
+- Kim yaxşı bir işə şəfaət edərsə, ondan (o yaxşı işin mükafatından) bir pay alar, kim pis bir işə şəfaət edərsə, onun (o pis işin) yükündən bir pay daşıyar. 4:85
+- Bir möminin digər bir mömini səhvən (xətən) olmayınca öldürməsi düzgün deyildir. 4:92
+- Kim bir mömini qəsdən öldürərsə, onun cəzası içində əbədi qalacağı Cəhənnəmdir. Allahın qəzəbi və lənəti onun üzərinə düşər və onun üçün böyük əzab hazırlanmışdır. 4:93
+- Allah yolunda (öz evindən-yurdundan) köç edən (hicrət edən) kəs yerdə çox yerlər və bolluq tapar. 4:100
+- Namazlarınızı vaxtında qılın. 4:103
+- Əmanətlərinə xəyanət edənlərin tərəfində olmayın və onların müdafiəçisi olmayın. 4:105
+- Allahın bağışlamasını diləyin, şübhəsiz ki, Allah bağışlayandır, rəhmlidir. 4:106
+- Ey iman gətirənlər! Allah üçün şahidlər olaraq ədalətlə şahidlik edin, bu, özünüzün, ya valideynlərin, ya da qohumların əleyhinə olsa belə, (o kəs) varlı və ya kasıb olsa da (ədalətdən dönməyin). Ədaləti təxirə salmayın; haqsızlıqları dərhal düzəltməyə çalışın. 4:135
+- Münfiqlər (İkiüzlülər) Allahı aldatmaq istəyirlər, lakin Allah onları aldadandır. 4:142
+- Münfiqlər (ikiüzlülər) Cəhənnəmin ən alt (dərəcə) qatında olacaqlar; onlara əsla bir köməkçi tapa bilməyəcəksiniz. 4:145
+- Allah pis sözün ucadan deyilməsini sevməz, ancaq zülmə məruz qalan şəxs (bunu edə bilər). 4:148
+- Peyğəmbərləri müjdəçi və xəbərdar edici olaraq göndərdi ki, peyğəmbərlərdən sonra insanların Allaha qarşı bir bəhanələri olmasın. 4:165
+- Əhdlərinizə və vədlərinizə sadiq olun. 5:1
+- Yaxşılıq və təqvada (Allah qorxusunda) bir-birinizə kömək edin, günah və düşmənçilikdə bir-birinizə kömək etməyin. 5:2
+- Leş (diri ikən kəsilməyib ölmüş heyvan), axar qan və donuz əti yeməyin. 5:3
+- Ədalətli olun, başqalarına olan düşmənçilik və kin-küdurət sizi ədalətdən döndərməsin. Ədalətli olun. Bilin ki, ədalətli olmaq təqvaya daha yaxındır. Ədaləti təxirə salmayın; haqsızlıqları dərhal düzəltməyə çalışın. 5:8
+- Allaha (Onun razılığına) yaxınlaşmağa vasitə axtarın və Onun yolunda bacardığınız qədər cihad edin. Ki, uğur qazanasınız. 5:35
+- Andlarınıza və əhdlərinizə sadiq olun. 5:89
+- İçki (spirtli içkilər) və qumar oyunlarından, daş butlərdən (səcdə daşlarından) və fal oxlarından çəkinin. Bunlar şeytan əməlinin murdarlıqlarındandır. 5:90
+- Həcc və ya ümrə (ziyarət) üçün ehramda (xüsusi geyimdə) olduğunuz halda ov heyvanı öldürməyin. 5:95
+- Sizə aydınlaşdırıldığı təqdirdə sizi narahat edə biləcək şeyləri soruşmayın. 5:101
+- Başqalarının tanrılarına söyüş deməyin. Onların (müşriklərin) Allahdan qeyri ibadət etdiklərinə söyüş deməyin, yoxsa onlar da cəhalətlə Allaha söyüş deyərlər. 6:108
+- Əgər yerdə olanların çoxuna itaət etsəniz, onlar səni Allahın yolundan azdırar. Onlar yalnız zənnə qapılır və yalnız yalan deyərlər. 6:116
+- (Bəşər övladı!) Günahları (açıq və gizli) tərk edin. 6:120
+- (Ey iman gətirənlər!) Üstündə Allahın adı çəkilməyən (kəsilən zaman üstünə "Bismillah" deyilməyən) ətdən yeməyin. 6:121
+- Allah kimi doğru yola çatdırmaq istəsə, onun köksünü İslama açar; kimi də azdırmaq istəsə, onun köksünü dar və sıxılmış edər. 6:125
+- Xərcləməkdə mülayim olun və israfçılıqdan çəkinin. Bütün məxluqatın (canlıların) hüquqlarını qoruyun. 6:141
+- Allaha heç nəyi şərik qoşmayın, valideynlərə yaxşılıq edin, yoxsulluq qorxusundan övladlarınızı öldürməyin, aşkar və gizli iyrənc işlərə yaxınlaşmayın, Allahın haram buyurduğu cana haqsız olaraq qıymayın. 6:151
+- Dürüst olun; heç bir əməlinizdə aldatmayın. Yetimin malına, onu yaxşılaşdırmaq məqsədi ilə olmayan halda yaxınlaşmayın, ölçü-çəkidə ədalətlə tam verin, danışdığınız zaman qohum olsa belə, doğru danışın, Allahın əhdinə (əhd-peymanına) vəfalı olun. 6:152
+- Doğru yolla (Sıratul-Müstəqim) gedin və (başqa) yollara uymayın, çünki onlar sizi Onun (Allahın) yolundan ayırar. 6:153
+- (Ya Muhəmməd ﷺ) De: "Həqiqətən, mənim namazım, qurbanım, həyatım və ölümüm aləmlərin Rəbbi Allah üçündür." 6:162
+- Təkəbbürlü olmayın. 7:13
+- Qoy Şeytan sizi aldatmasın. 7:27
+- (Ya Muhəmməd ﷺ) De: "Rəbbim ədaləti əmr etdi…" 7:29
+- Bütün işlərdə Allahın qoyduğu həddlərə (qanunlarına) riayət edin. Söz və əməldə həddi aşmayın. Yeyin için, lakin israf etməyin. Namaz vaxtlarınızda gözəl geyimlər geyinin. 7:31
+- Allah göyləri və yeri altı gündə yaratdı, sonra Ərşə (taxta) ucaldı (Öz zatına layiq olan şəkildə). 7:54
+- Rəbbinizə yalvararaq və gizlicə dua edin. O, həddi aşanları sevməz. 7:55
+- Yer üzü islah olunduqdan sonra orada fəsad törətməyin, Ona qorxu və ümidlə dua edin. 7:56
+- Lakin pis işlər görüb sonra tövbə edən və iman gətirən kəslərə gəldikdə, şübhəsiz ki, Rəbbin bütün bunlardan sonra (tövbələrindən) sonra çox bağışlayandır, rəhmlidir. 7:153
+- (Ya Muhəmməd ﷺ) De: "Ey insanlar! Həqiqətən, mən Allahın elçisi olaraq hamınıza göndərilmişəm…" 7:158
+- (Bütün) ən gözəl adlar Allaha məxsusdur, buna görə Onu (bunlarla) çağırın və Onun adları barədə (haqsız) danışanları tərk edin… 7:180
+- Allah kimi azdırsa, ona bir daha heç bir yol göstərən olmaz; və onları öz azğınlıqları içində çaş-baş qoyar. 7:186
+- Bağışla, yaxşılığı əmr et, cahillərdən üz döndər (yəni onları cəzalandırma). 7:199
+- Başqalarının səhvlərini bağışlayın. 7:199
+- Əgər şeytandan (Şeytandan) sənə bir təhrik (vəsvəsə) gəlsə, Allaha pənah apar. Həqiqətən, O, Eşidəndir, Biləndir. 7:200
+- Möminlər yalnız o kəslərdir ki, Allah xatırlandıqda qəlbləri qorxuya düşər və Onun ayələri oxunduqda onların imanını artırar… 8:2
+- Allaha və Onun Peyğəmbərinə xəyanət etməyin, (Allahın sizə əmanət buyurduğu işlərdə) bilə-bilə xəyanət etməyin. 8:27
+- Əgər Allaha (itaət edib) qorxsanız, O sizə Furqan (haqqı batildən ayıran bir meyar, ya da hər çətinlikdən çıxış yolu) verər. 8:29
+- Kafir olanlar (möminləri) Allahın yolundan döndərmək üçün mallarını sərf edirlər; onlar bunu sərf edəcək, sonra isə bu (xərc) onlara qəm (həsrət) olacaqdır. 8:36
+- Kafirlərə de: "Əgər (küfr etməkdən) əl çəksələr, əvvəlkeçmiş (günahları) bağışlanar. Yox, əgər (təkrar küfrə) qayıtsalar, əvvəlkilərin (cəzaya düçar olan ümmətlərin) qayda-qanunu (cəza nümunəsi) artıq göz önündədir (xəbərdarlıq olaraq)." 8:38
+- (Düşmən) qüvvəsi ilə qarşılaşdığınız zaman möhkəm olun və Allahı çox zikr edin (həm dillə, həm də qəlblə), bəlkə uğur qazanasınız. 8:45
+- (Özlərini) öyünərək və insanlara gözə dəyərək yurdlarından çıxan və (insanları) Allahın yolundan döndərən kəslər kimi olmayın. 8:47
+- Allah bir qövmə verdiyi neməti onlar özlərində olanı dəyişməyincə dəyişməz. 8:53
+- Allah yanında canlıların ən pisi o kafirlərdir. 8:55
+- Allah Özünə iman gətirənlərin qəlbləri arasına məhəbbət və ülfət salar. 8:63
+- Sığınacaq istəyənləri qoruyun və onlara kömək edin. 9:6
+- Müşriklərin Allahın məscidlərini təmir etmək (və idarə etmək) ixtiyarı yoxdur. 9:17
+- Onlar (kafirlər, yəhudilər və xristianlar) ağızları ilə Allahın nurunu (Muhəmmədlə ﷺ göndərilmiş Tövhid dinini) söndürmək istəyirlər, Allah isə, kafirlər xoşlamasa da, Öz nurunu tamamlamaqdan başqa bir şeyə razı olmaz. 9:32
+- Sədəqələr (zəkat) yalnız: 1) yoxsullar, 2) kasıblar, 3) (zəkat) yığan məmurlar, 4) qəlbləri İslama meylləndiriləcək kəslər, 5) əsirləri azad etmək, 6) borclular, 7) Allah yolunda (mücahidler) və 8) yolda qalanlar üçündür. 9:60
+- Kim Allaha və Onun Peyğəmbərinə (ﷺ) qarşı çıxıb düşmənçilik edərsə, şübhəsiz ki, onun üçün orada əbədi qalacağı Cəhənnəm odu vardır. Bu, böyük bir rüsvayçılıqdır. 9:63
+- Münfiq kişilər və münfiq qadınlar bir-birilərindən (eyni cərgədən) dirlər. Onlar Allahı unutdular, O da onları unutdu. 9:67
+- Təmizliyə (paklığa) doğru çalışın. Məscidin müqəddəsliyinə hörmət edin. 9:108
+- (Peyğəmbərə və möminlərə) müşriklər üçün - hətta qohum olsalar belə - cəhənnəm əhli olduqları aydınlaşdıqdan sonra (küfr halında öldükləri üçün) Allahdan bağışlanma diləmək yaraşmaz. 9:113
+- Allaha qarşı yalan uydurandan, yaxud Onun ayələrini yalan sayandan daha zalım kimdir? Şübhəsiz ki, mücrimlər (günahkarlar) heç vaxt nicat tapmazlar! 10:17
+- Onlar Allahı qoyub özlərinə nə zərər, nə də xeyir verən şeylərə ibadət edir və deyirlər: "Bunlar Allah yanında bizim şəfaətçilərimizdir." De: "Allaha göylərdə və yerdə bilmədiyi bir şeymi xəbər verirsiniz?" Onların Ona şərik qoşduqları şeylərdən (Allah) Uca və Pakdır! 10:18
+- Pis əməlin cəzası buna bənzəridir. 10:27
+- Budur Allah, həqiqi Rəbbiniz. Haqdan sonra zəlalətdən başqa nə ola bilər? Bəs necə (haqdan) döndərilirsiniz? 10:32
+- Onların əksəriyyəti ancaq zənnə qapılır. Həqiqətən, zənn haqqın (yerini) heç bir şeylə əvəz edə bilməz. 10:36
+- Həqiqətən! Allah insanlara heç bir zülm etməz, amma insanlar özləri özlərinə zülm edərlər. 10:44
+- Bilin ki, Allahın lütfü (neməti) insanın toplayıb yığa biləcəyi hər şeydən daha xeyirlidir. 10:58
+- Allahın ayələrini yalan sayanlardan olmayın, yoxsa ziyana uğrayanlardan olarsınız. 10:95
+- Əgər Allah sənə bir zərər toxundursa, onu Özündən başqa heç kəs aradan qaldıra bilməz; əgər sənə bir xeyir (yaxşılıq) istəsə, Onun lütfünü heç kəs geri çevirə bilməz. Onu bəndələrindən istədiyinə yetirər. 10:107
+- Yer üzündə elə bir canlı yoxdur ki, onun ruzisi Allahın öhdəsində olmasın. Allah onun qərar tutduğu yeri və əmanət olaraq qoyulduğu (düşdüyü) yeri (qəbir, ana bətnində qaldığı yer və s.) bilir. 11:6
+- Əgər insana Özümüzdən bir mərhəmət daddırsaq, sonra onu ondan çəksək (geri alsaq), o, şübhəsiz ki, ümidsiz, nankor olar. 11:9
+- Kim dünya həyatını və onun bər-bəzəyini istərsə, onların (dünyadakı) əməllərinin haqqını öz yerində (dünyada) tam verərik və orada onlara heç bir əskiklik (nöqsan) olmaz. 11:15
+- Biz onlara zülm etmədik, lakin onlar öz-özlərinə zülm etdilər. Rəbbinin əmri (əzabı) gəldiyi zaman, Allahı qoyub ibadət etdikləri tanrıları onlara heç bir fayda vermədi və onların yalnız ziyanlarını artırdı. 11:101
+- O (əzab) gələcəyi gün, Onun (Allahın) izni olmayınca heç kəs danışa bilməz. Onlardan bəziləri bədbəxt, (bəziləri də) xoşbəxt olacaqdır. 11:105
+- Bədbəxt olanlara gəldikdə, onlar Cəhənnəmdə (alov içində) inləyib fəryad edəcəklər. 11:106
+- Göylər və yer durduqca, orada əbədi qalacaqlar, lakin Rəbbinin istədiyi vaxt istisna olmaqla. Həqiqətən, Rəbbin istədiyini edəndir. 11:107
+- Xoşbəxt olanlara gəldikdə, onlar Cənnətdə (olanlar) göylər və yer durduqca, orada əbədi qalacaqlar, lakin Rəbbinin istədiyi vaxt istisna olmaqla. (Bu) kəsilməz bir bəxşişdir. 11:108
+- Zalımlara tərəf meyl etməyin (tərəfkeşlik göstərməyin), yoxsa sizə də od (Cəhənnəm əzabı) toxunar; Allahdan başqa sizin heç bir dostunuz yoxdur, sonra sizə yardım edilməz. 11:113
+- Gündüzün iki başında və gecənin bəzi saatlarında namaz qıl (yəni 5 vaxt namaz). Yaxşı işlər pislikləri (yəni kiçik günahları) yox edər. 11:114
+- Göylərin və yerin qeyb (gizli) işləri yalnız Allaha məxsusdur və bütün işlər (hər şey) Ona qayıdar. 11:123
+- Hökm (və ya qərar) yalnız Allahındır. O, yalnız Özünə ibadət etməyi əmr etmişdir, o doğru din budur, lakin insanların əksəriyyəti bilməz. 12:40
+- Allahın mərhəmətindən ümidinizi üzməyin. 12:87
+- Sən nə qədər (çox) istəsən də, insanların əksəriyyəti iman gətirməyəcək. 12:103
+- Onların əksəriyyəti Allaha yalnız şirk qoşmaqla (Ona başqa tanrıları qatmaqla) iman gətirərlər (yəni onlar müşrikdirlər). 12:106
+- Bu (Quran) uydurma bir söz deyil, əksinə, əvvəlki (Allahın göndərdiyi) kitabların (Tövrat, İncil və digər kitabların) təsdiqidir və hər şeyin ətraflı izahıdır, iman gətirən bir camaat üçün rəhbər və mərhəmətdir. 12:111
+- Allah istədiyi kimsəyə ruzini (neməti) geniş edər, (istədiyinə də) daraldar. 13:26
+- Allahı çox zikr edin (yad edin). Allaha iman gətirənlər Onu zikr etməklə (qəlb) rahatlığı taparlar. 13:28
+- İman gətirən və yaxşı işlər görən kəslərə (dünyada) xoş həyat (sevinc) və gözəl qayıdış (Cənnət) verilər. 13:29
+- O kəslər ki, axirəti qoyub dünya həyatını üstün tutar, (insanları) Allahın yolundan (İslamdan) döndərər və onu əymək (əyriyə çevirmək) istəyərlər – məhz onlar (haqdan) uzaq bir zəlalətdədirlər. 14:3
+- İbadətdə təvazökarlıq və şükür edin. 14:7
+- Rəbbini inkar edənlərin (məcazi) məsəli (misalı) odur ki, onların (yaxşı) əməlləri, üzərinə qasırğalı bir gündə küləyin şiddətlə əsib dağıtdığı küldür. Onlar (dünyada) qazandıqlarından heç bir şey əldə edə bilməzlər. 14:18
+- Allah iman gətirənləri dünyada (yəni onlar yalnız Allaha ibadət edəcəklər) və axirətdə möhkəm sözlə (həqiqi imanla) möhkəmləndirər. 14:27
+- Zalımların (müşriklərin, haqsızların) etdiklərindən Allahın qafil (xəbərsiz) olduğunu zənn etməyin, əksinə, O, onları elə bir günə (Qiyamətə) saxlayır ki, o gün gözlər (dəhşətdən) açılıb qalacaqdır. 14:42
+- Allah hər kəsi qazandığına görə cəzalandırsın deyə. Həqiqətən, Allah tez haqq-hesab çəkəndir. 14:51
+- Həqiqətən, biz insanı qara, dəyişilmiş (bişmiş) palçıqdan (səslənən gildən) yaratdıq. 15:26
+- Cini (cinləri) isə bundan qabaq yandırıcı (tüstüsüz) oddan yaratdıq. 15:27
+- Onun (Cəhənnəmin) yeddi qapısı vardır; hər qapı üçün (xüsusi) bir günahkar dəstə ayrılmışdır. 15:44
+- O, insanı nütfədən (kişi və qadının cinsi mayelərinin qarışığından) yaratdı, sonra bu (insan) açıq-aydın bir düşmən oldu. 16:4
+- Heyvanları da (davarları) O yaratdı; onlarda sizin üçün istilik (yün, geyim) və müxtəlif mənfəətlər vardır; həm də onlardan yeyirsiniz. 16:5
+- (O həm də yaratdı) atları, qatırları və uşaqları (eşşəkləri) minmək və (göz) bəzəyi (zinət) üçün. (O) bilmədiyiniz şeyləri də yaradır. 16:8
+- Göydən su (yağış) endirən Odur; ondan içirsiniz və ondan (yağıntıdan) heyvanlarınızı otlatdığınız (yaşıl) bitkilər yetişir. 16:10
+- Dənizi sizin ixtiyarınıza verən də Odur ki, ondan təzə ət (balıq) yeyəsiniz və ondan geyinəcəyiniz zinət əşyaları (mirvari, mərcan və s.) çıxarasınız. 16:14
+- O, yer üzərində (sizinlə birlikdə) sarsılmayasınız deyə möhkəm dağlar yerləşdirdi, çaylar və yollar (yaratdı) ki, doğru yolu tapasınız. 16:15
+- Yaradan, yaratmayan kimi olarmı? Məgər düşünüb öyüd-nəsihət qəbul etməyəcəksiniz? 16:17
+- Əgər Allahın nemətlərini saymaq istəsəniz, onları saya bilməzsiniz. 16:18
+- Allah gizlətdiklərinizi və aşkarladıqlarınızı bilir. 16:19
+- Müşriklərin Allahdan başqa ibadət etdikləri (tanrılar) heç bir şey yaratmırlar, əksinə, özləri yaradılmışdırlar. 16:20
+- (Onlar) ölüdür, dirilik (həyat) yoxdur və nə vaxt (yenidən) diriləcəklərini də bilməzlər. 16:21
+- Bir şeyin (varlığının) olmasını istədikdə, ona söylədiyimiz söz yalnız: "Ol!" deməkdir və o da (dərhal) olar. 16:40
+- Məgər pis (şər) planlar quranlar, Allahın onları yerə batırmayacağından, yaxud əzabın onlara hiss etmədikləri bir yöndən gəlməyəcəyindən (xatircəmliklə) əmindirlərmi? 16:45
+- (Ey insanlar!) Sizdə olan hər bir nemət (yaxşılıq) Allahdandır. Sonra sizə bir zərər toxunduqda (yalnız) Ona yalvarıb kömək istəyərsiniz. 16:53
+- Sonra O, zərəri sizdən uzaqlaşdırdıqda, dərhal sizin bir qisminiz Rəbbinə şərik qoşar. 16:54
+- Həqiqətən, heyvanlarda sizin üçün (ibret) dərsi (bərəkət və ibrət) var. Biz sizə onların qarınlarındakı (bələnmiş) nəcislə qan arasından - içənlər üçün xoş (ləzzətli) təmiz (süd) içiririk. 16:66
+- Belə isə, Allaha tay-bənzərlər (bənzərlər) uydurmayın (çünki heç bir şey Ona bənzəmir, nə də O, heç bir şeyə bənzəyir). Həqiqətən, Allah bilir, siz (isə) bilmirsiniz. 16:74
+- Bilin ki, Allah insanlara (qulaq) eşitmə, (göz) görüş, (ürək) anlayış və (hiss) mehribanlıq bəxş etmişdir ki, şükür edəsiniz. 16:78
+- Tamahdan (acgözlükdən) və xəsislikdən çəkinin. 16:97
+- Qur'an oxumaq istədiyin zaman (əvvəlcə) qovulmuş (lənətlənmiş) Şeytandan Allaha sığın. 16:98
+- Bilin ki, cahillik üzündən işlənmiş bir günah, əgər (sahibi) tövbə edib özünü düzəltsə, bağışlanar. 16:119
+- (Ya Muhəmməd ﷺ) Rəbbinin yoluna (İslama) hikmət və gözəl öyüd-nəsihətlə dəvət et və onlarla ən gözəl tərzdə mübahisə et. (Başqalarını) Allahın yoluna dəvət etmək hikmət və xoşrəftarla olmalıdır. 16:125
+- Allah, şübhəsiz ki, Onun qorxusu ilə yaşayan (təqva sahibləri) və yaxşı işlər görən (muhsin) kəslərlədir. 16:128
+- Bu Quran ən doğru (düzgün) və ən gözəl olana yönəldir. 17:9
+- Heç bir günahkar başqasının günah yükünü daşımaz. 17:15
+- Kim axirəti istəyər və mömin olaraq ona layiqincə (çalışıb) səy göstərərsə, məhz bunların (bu cür) səyləri təqdir olunar (qəbul və mükafatlandırılar). 17:19
+- Valideynlərinizə hörmət edin və onlarla mehriban olun. Valideynlərinizə qarşı (onlara) xidmətçi olun. Valideynlərinizə əsla (onlara qarşı) "üf" (narahatçılıq) sözü belə deməyin. Rəbbiniz yalnız Ona ibadət etməyi və valideynlərə yaxşılıq etməyi əmr etmişdir. Əgər onlardan biri və ya hər ikisi sənin yanında (sağlığında) qocalıq dövrünə çatarsa, onlara "üf" belə demə, onları (səsini qaldırıb) azarlama, əksinə, onlarla hörmətli sözlər danış. 17:23
+- Mərhəmətlə təvazökarlıq (şəfqət) qanadını onlar üçün aşağı sal və de: "Ey Rəbbim! Onlar məni kiçik (uşaq) vaxtımda (tərbiyə edib) böyütdükləri kimi, Sən də onlara rəhm et." 17:24
+- Həqiqətən, israfçılar (sərvətini boş yerə xərcləyənlər) şeytanların qardaşlarıdır; Şeytan isə öz Rəbbinə qarşı nankordur. 17:27
+- (Malını) israfçılıqla (səpələyib) xərcləmə. 17:29
+- (Yoxsulluq) qorxusundan övladlarınızı öldürməyin. 17:31
+- Zinaya (zina etməyə) yaxınlaşmayın. Evlilik müqəddəsliyini qoruyun və zinadan çəkinin. 17:32
+- Ölçdükdə (ölçünü) tam verin və doğru tərəzi ilə çəkin. Bu, (sizin üçün) xeyirli (mənfəətli) və nəticə (axirət) baxımından daha yaxşıdır. 17:35
+- (Ey insan!) Bilmədiyin şeyin dalınca düşmə (yəni, görmədim deyə "gördüm", eşitmədim deyə "eşitdim", şahid olmadığına şahidlik etmə kimi sözlər söyləmə). 17:36
+- Təvazökar olun və təkəbbürlü (məğrur) olmayın. Yer üzündə təkəbbürlə (öyünərək) gəzib-dolanma. Həqiqətən, sən yeri deşib (yarıb) keçə bilməzsən və boyca dağlara çata bilməzsən. 17:37
+- Rəbbin (halınızı) ən yaxşı biləndir; istəsə, sizə rəhm edər, istəsə, sizi əzablandırar. 17:54
+- Bu dünyada (Allahın əlamətlərini görməyib, Ona iman gətirməyən) kor olan kəs axirətdə də kor olar və (haqq) yoldan daha çox azar. 17:72
+- Namaz (vaxtlarını) qoruyun. 17:78
+- Həqiqətən, insanlar üçün bu Quranda hər cür məsəl (misal) çəkdik (izah etdik), lakin insanların əksəriyyəti (haqqı) qəbul etməyib, küfr etməkdən (inkardan) başqa bir şeyə razı olmadılar. 17:89
+- Bu Quranda insanlar üçün hər cür məsəl çəkdik (misal gətirdik). Lakin insan hər şeydən (hər kəsdən) daha çox mübahisəçidir. 18:54
+- Onların cəzası Cəhənnəmdir; çünki onlar (haqqı) inkar etdilər və Mənim ayələrimə və elçilərimə lağ edib onları ələ saldılar. 18:106
+- Allaha övlad (övlad sahibi olmaq) yaraşmaz (bu, xristianların Allaha qarşı iftirasına işarədir ki, İsa Allahın oğludur). O, (müşriklərin Ona şərik qoşduqlarından) ucadır. 19:35
+- İnsanlarla yumşaq (xeyirxah) danışın. 20:44
+- Yaxşı işlər (xeyirlər) etməkdə bir-birinizlə yarışın. 21:90
+- Bəs (boş, yararsız, əhəmiyyətsiz) sözdən (lağ-lakaydan) üz döndərin. 23:3
+- Öz (iffət) namusunuzu (ərdövrünüzü) qoruyun. 23:5
+- Qəlbinizi (ürəyinizi) günah meyllərindən (çirkin fikirlərdən) qoruyun. 23:97
+- Başqalarının (səhv) xətalarını bağışlayın və onları (günahlarını) əfv edin. 24:22
+- Başqalarının şəxsi həyatına (məxfilik) hörmət edin, xüsusən də öz evlərində. Qonşuların hüquqlarını yerinə yetirin. 24:27
+- (Həm kişi, həm də qadının) gözlərini aşağı dikin. (Öz) iffətinizi (namusunuzu) və həyanızı qoruyun. 24:30
+- Geyim və davranışda (ər-dövr) təvazökar (həyalı) olun. 24:31
+- Bilin ki, Allah (Özünə) ibadət edən və yaxşı işlər görən kəslərə əmin-amanlıq (təhlükəsizlik) və rahatlıq (sülh) verər. 24:55
+- Valideynlərin (xüsusi) otağına icazəsiz girməyin. 24:58
+- Təvazökar (həyalı) və təbəzülkar (mütəvazi) olun. 25:63
+- Yalan şahidlikdən (saxtakarlıqdan) və aldatmaqdan (xəyanətdən) çəkinin. 25:72
+- Axirət mükafatı üçün çalışın, lakin dünya işlərinizi də (öz yerində) laqeyd qoymayın. 28:77
+- Allahla yanaşı başqa bir (səhv) tanrıya yalvarmayın. 28:88
+- (Kişi-kişi arasında) homoseksual (cinsi) münasibətə girməyin. 29:29
+- Bütün cəhdlərinizdə (işlər) kamil (mükəmməl) olmağa çalışın (yəni əməlinizi gözəl edin). 29:69
+- Namaz qılın və zəkat verin. 31:4
+- Yaxşılığı əmr edin və pislikdən çəkindirin. 31:17
+- Davranışınızda (xasiyyətinizdə) təkəbbürdən (qürurdan) çəkinin. (Dəyərsiz) boş sözlərlə vaxt itirməyin. 31:18
+- Yeriyərkən (hərəkətdə) mülayim (orta, ölçülü) olun və səsinizi (danışıq tərzinizi) aşağı salın (çox ucadan danışmayın). 31:19
+- Peyğəmbər Muhəmmədə (sallallahu aleyhi və səlləm) uyub (onu nümunə) götürün. 33:21
+- Qadınlar (öz) gözəlliklərini və bər-bəzəklərini (zinətlərini) (naməhrəmlərə) nümayiş etdirməsinlər (və ya onlarla öyünməsinlər). 33:33
+- Bütün hallarda (vəziyyətlərdə) doğru danışın. 33:70
+- Düşünərək (fikir yürütməklə) hikmət (danışıq) və dərrakə (anlayış) axtarın. 38:29
+- Quranda verilən əmrlərə (təlimatlara) əməl edin. 39:23
+- Allah günahkar tövbə edib Ona tərəf (Rəbbinə) döndükdə bütün günahları bağışlayar. 39:53
+- Allaha (məxsusi) məxsusi dua (səmimi) edin. 40:60
+- (Başqasının) pisliyini ən gözəl (tərzdə) yaxşılıqla dəf edin. 41:34
+- İşləri məsləhət (şura) ilə yerinə yetirin. 42:38
+- Səsinizi (heç vaxt) Peyğəmbərin səsindən uca qaldırmayın. 49:2
+- Sirr saxlamağı (gizlinlikləri) qoruyun və xəyanətdən çəkinin. 49:6
+- Münaqişədə olanlar arasında sülhü (barışığı) asanlaşdırın. Çəkişmələrdə (dava-dalaşlarda) barışıq (və vasitəçilik) axtarın. 49:9
+- Başqalarına istehza (ələ salma) etməyin. 49:11
+- Şübhədən (zənn və hövəlalıqdan) çəkinin. Casusluqdan və qeybətdən (bir-birinizin ağzına baxmaqdan) çəkinin. Başqalarına qarşı böhtan atmayın. Qeybət və böhtanın bütün növlərindən (dəfələrlə) uzaq olun. Qoy qürur (təkəbbür) sizi haqsızlığa (zülmə) sövq etməsin. 49:12
+- Bilin ki, insanı (Allah yanında) yalnız təqva (Allah qorxusu) şərəfli edər. İnsanlar və mədəniyyətlər arasındakı fərqlərə hörmət edin. 49:13
+- Qonaqlara (öz) hörmətini göstərin. 51:26
+- Allaha qarşı (vəzifə) borclarınıza (qarşı) diqqətli olun. 51:56
+- Malınızı (Allah yolunda) sərf (xərclə) edin. 57:7
+- Bilin ki, dində rahiblik (evlənmək və dünya malına sahib olmaqdan imtina, rahib və rahibələr kimi, yaxud onların yaşadıqları binalar) yoxdur. 57:27
+- (Dünya) malı sizi Allahı xatırlamaqdan (zikr) yayındırmasın. 58:11
+- Elm (bilik) sahiblərinə Allah (Qiyamətdə) yüksək dərəcə (məqam) verəcəkdir. 58:11
+- (Müsəlman olmayan) qeyri-müsəlmanlarla (ədalətli və) xoş rəftar edin. 60:8
+- (Öz) inanclarınızda (iman) və əməllərinizdə ikiüzlülükdən (münafiqli) çəkinin. 63:9
+- Xəsislikdən (paxıllıqdan) və acgözlükdən (tamahdan) uzaq durun. 64:16
+- Özünüzə əmanət buyurulmuş (vəhy) vəhyi qoruyun. 73:15
+- Qiyamət (Haqq-hesab) gününü xatırlayın. 75:36
+- Səbir və şəfqət əmr edin. 90:17
+- Nəfsini (özünü) günahlardan təmizləyən (tərbiyə edən) şəxs, həqiqətən, nicat tapar, nəfsini korlayan (batıran) şəxs isə ziyana uğrayar. 91:10
+- Yoxsulu (ehtiyac sahibini) incitməyin (və) onu qovmayın. 93:10
+- Elm (bilik) və anlayış (dərrakə) axtarın. Quranı oxuyun və (onun üzərində) dərindən düşünün. 96:1–5
+- Yoxsulları (kasıbları) yedirtməyə (onlara yemək verməyə) təşviq edin. 107:3
 """;

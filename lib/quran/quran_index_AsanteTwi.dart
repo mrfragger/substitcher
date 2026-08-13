@@ -3318,4 +3318,280 @@ Matching Phrases 8 words
 - Nyankopɔn trɛw akwamma ma deɛ ɔpɛ fi ne mma, na ɔsɔ so. (اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ) 28:82; 29:62
 - Na monsan kɔ deɛ ɔnim ahintasɛm ne deɛ ɛda hɔ no, na ɔbɛka ama mo deɛ moadi. (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
 - Na abusua nteaseɛfoɔ na wɔn mu bi wɔ ho wɔ Nyankopɔn Nwoma mu. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
+cmds - Commands, Exhortations, Prohibitions, Instructions
+- fard / wajib (فرض / واجب) — ɛyɛ ade a ɛsɛ sɛ woyɛ (ɛsɛ sɛ woyɛ; sɛ wogyae a, ɛyɛ bɔne)
+- mustahabb / mandub (مستحب / مندوب) — wɔhyɛ ho nkuran (sɛ woyɛ a, wonya akatua; sɛ wogyae a, ɛnyɛ bɔne)
+- mubah (مباح) — ɛyɛ nea wɔagye atom / ɛyɛ kwan (akatua biara nni ho, bɔne biara nni ho)
+- makruh (مكروه) — wɔmpɛ (wɔhyɛ ho nkuran sɛ mma wɔnyɛ, nanso sɛ woyɛ a, ɛnyɛ bɔne)
+- haram (حرام) — wɔabara (sɛ woyɛ a, ɛyɛ bɔne)
+- halal (حلال, wɔagye atom / ɛyɛ mmara) — ɛka mubah ne mustahabb nyinaa — biribiara a wɔambara no
+- Nyame (Allah) nko ara som na hwehwɛ nʼabadie/mmoa. 1:5
+- Nyame (Allah) nko ara som. 2:21
+- Mfa biribiara nhyɛ Nyame (Allah) ho. 2:22
+- Nyame (Allah) ne dea ɔde kyɛ (gye nsesa), Wagye Adam (عَلَيْهِ ٱلسَّلَامُ) nsesa. 2:37
+- Nkra (nokware) nfra nkontompo, na mfa nokware no nkata. 2:22
+- Nyinaa monsi mpae (Salat), na momma zakat (ayɛyɛde). 2:43
+- Monhyɛ afoforo nkuran wɔ papadwuma ho sɛ moankyɛ yɛɛ no ansa. 2:44
+- Hwehwɛ Nyame (Allah) mmoa wɔ wo nsɛm nyinaa mu. 2:45
+- Mommfa mo ho mfa ammɛyɛ basabasa, na mmpa nka mfra hɔ. 2:60
+- Mma nnipa nkwan mma wɔnkɔ som adan mu. 2:114
+- Moni adwadie mu kyɛ. Monnya mo mpae mpae hɔ ntease. 2:125
+- Monkae Nyame (Allah) (nam mpae, ayɛyɛde, ne nea ɛkeka ho so) na ɔbɛkae mo, na monna no ase. 2:152
+- Monya aboterɛ wɔ amanehunu mu. 2:153
+- Monnfa ɔbonsam (Shaitan) anammɔn, na ɔyɛ ɔtamfo pefee. 2:168
+- Monnfa obi akyi nyinaa nni nʼanim ankyɛ. 2:170
+- Monfa nsedie nyinaa nni dwuma na munni ho nokware. Monni mo Nyame som a wɔahyɛ mo no pɛ. Monni mo ntam ne apam. Monni bɔhyɛ, titiriw wɔn a moayɛ ama Nyame. Mmoa wɔn a wɔhia na mma wɔn amane no nnyɛ den. Munguan mfomso a ɛde Onyankopɔn adom a wɔbɛhwere no. Mma ahantan mmfa mo mma nhyɛ so. 2:177
+- Qisas (mmara a ɛyɛ pɛ wɔ asotwe mu) mu ɛwɔ nkwa ma mo. 2:179
+- Monni Ramadan bosome no mu mmuadadie. Monni mmuadadie a wɔahyɛ no sɛ monni no ma monyɛ Muttaqun (Nyame-surofo). 2:183
+- Moni Qur'an ni sɛ ɔkwankyerɛ ne nyinaa. 2:185
+- Mma mfa akwammɔne nnidi mo ho biara agyapadeɛ, na mma mfa ntoboa nhyɛ atemmufo (ansa na mode mo nsɛm reba wɔn anim). 2:188
+- Mma monhyɛ afoforo so, sɛ ɛyɛ asɛmfua mu anaa nneyɛe mu. Mo ne obi nko akodi sɛ monyɛ nkontim, na mmom sɛ mobɔ mo ho ban. 2:190
+- Monhwɛ nkwagyeefo. Wɔ nkwagyeefo ho, monni wɔn agyapadeɛ mu pɛ, na munnwe wɔn agyapadeɛ. 2:220
+- Monsan nkɔ Nyame (Allah) nkyɛn na monhwehwɛ ne bɔnefakyɛ. Mma monni nna mu bɔne wɔ berɛ a ɔbaa wɔ nʼawotwa mu no. Monnya ahodwo (honam fam ne sunsum fam). 2:222
+- Monni mo abusua ho adwuma. 2:233
+- Monpaw akannifo sɛnea wɔfata. 2:247
+- Mma monnhyehyɛ Nyame som mu. 2:256
+- Monfa mo ahonya ndi ayɛyɛde. Monyɛ ayɛyɛfo wɔ ahonya ne bere nyinaa mu. 2:261
+- Mma monnpa mo ayɛyɛde nkwa sɛ moahantann. 2:264
+- Ɔbonsam de ohia kyekyere mo na ɔhyɛ mo sɛ monyɛ nneyɛe bɔne (Fahsha' — nneyɛe bɔne, mmaratwa mu nna bɔne, ne bɔne). 2:268
+- Monhwehwɛ ahiafo na momboa wɔn. 2:273
+- Mma monnhyɛ riba (nsono). Munnwe ahonya a ɛwɔ nsono mu. Munnwe riba (nsono). 2:275
+- Momma wɔn a wɔsika no kwan sɛ wɔn a wɔn nsɛm yɛ den no nyae bere. 2:280
+- Monni mo nsɛm wɔ adwadie mu. Monka nokware wɔ mo sikasɛm mu. Monni nokware wɔ mo bɔhyɛ nyinaa mu. Sɛ motwa ka ma bere a wɔahyɛ no, monkyerɛw. Monfa adansefo berɛ biara a modi adwadie apam. 2:282
+- Monni nsedie nyinaa na munni ho nokware. 2:283
+- Monnye nwoma a wɔasiane no ne ananmusifo nyinaa nni. 2:285
+- Nyame (Allah) mma obiara so dua a ɔrentumi. Wonya wɔn (papadwuma) a wɔayɛ no akatua, na wɔnya wɔn (bɔne) a wɔayɛ no asotwe. Onyankopɔn mma obiara so dua a ɔrentumi; yɛn nso ɛnsɛ sɛ yɛyɛ saa. Monnye Nyame nhyehyɛe nni wɔ amanehunu mu. 2:286
+- Obiara a ɔbɛdi apam na ɔsuro Nyame (Allah) no, na Nyame (Allah) dɔ atreneefo. 3:76
+- Monni Hajj (akwantu) sɛ mowɔ tumi a. 3:97
+- Mma monnkyekye mo ho mma mmu. 3:103
+- Monhyɛ papa na monkyi bɔne. Monhyɛ mo mpɔtam hɔ nnipa nkuran ma wɔnyɛ papa. Monfrɛ afoforo ma wɔnkae Nyame (Allah). 3:104
+- Agyidifo nyinaa nyɛ wɔn adehyeɛ wɔ Nyame (Allah) so. 3:122
+- Munnwe riba (nsono). 3:130
+- Monyɛ osetie ma Nyame (Allah) ne ne Somafo na monnya ne mmɔborɔhunu. 3:132
+- Nyame (Allah) dɔ wɔn a wɔbɔ ahonya (wɔ Nyame kwan so — ayɛyɛde, sika pa, ne nea ɛkeka ho) wɔ ahenne ne amanehunu mu, wɔn a wɔhyɛ wɔn abufuw so, ne wɔn a wɔde kyɛ nnipa. 3:134
+- Monhyɛ mo abufuw so. Monhyɛ mo abufuw no so. 3:134
+- Monyi afoforo mfomso kyɛ na monkye wɔn. 3:135
+- Mma monnyɛ nneyɛe bɔne wɔ kasa mu. Monnyɛ aboterɛ wɔ wɔn a wɔne mo nhyia no mu. 3:159
+- Sɛ Nyame (Allah) boa mo a, obiara rentumi ndi mo nkonim; na sɛ ɔgyae mo a, ɛne hwan na ɛwɔ hɔ a obetumi aboa mo? 3:160
+- Obiara bɛka owuo. Na wɔsore da no nkutoo na wɔde mo akatua nyinaa bɛma mo. 3:185
+- Monwen wɔ abɔde mu anwonwadeɛ ne wiase nyinaa bɔ ho. Monim sɛ Onyankopɔn bɔɔ wiase wɔ nkyerɛase ne botae. 3:191
+- Mmarima ne mmaa nya wɔn nneyɛe ho akatua pɛ. 3:195
+- Wɔn a wosuro wɔn Wura no, Paradise (Aheman) a nsubɔnten fa ne ase; wɔbɛtena hɔ daa, ɛyɛ nsa ano ahyia firi Nyame (Allah) nkyɛn. 3:198
+- Monyɛ adwuma ma Nyame (Allah) ani gye wɔ nneyɛe biara mu. 3:200
+- Monsuro mo Wura, na (mminw) abusua (mogya abusuabɔ). 4:1
+- Momma nkwagyeefo wɔn agyapadeɛ na mfa mo (bɔne) nnsesa wɔn (papa) ho; na munnwe wɔn agyapadeɛ (nam mo deɛ ho so). 4:2
+- Momma mma (a moware wɔn) wɔn Mahr (awaregu so sika a ɛyɛ barima sɛ ɔde ma ɔbaa wɔ awaregu berɛ mu) pɛ. 4:4
+- Monhwɛ nkwagyeefo kyɛfa so. 4:6
+- Owufo agyapadeɛ ɛsɛ sɛ wɔkyɛ wɔ ne busua mu. Mmaa wɔ agyapadeɛ kyɛfa. 4:7
+- Munnwe nkwagyeefo agyapadeɛ nkakrankakra. 4:10
+- Monyɛ osetie ma agyapadeɛ ho mmara. 4:11
+- Wɔabara sɛ monnya mmaa bɛyɛ mo agyapadeɛ wɔ wɔn pɛ so, na ɛnsɛ sɛ mohyɛ wɔn so den. Montena wɔn (mmaa) mu pɛ. Monni mma kyɛfa na monni wɔn ni. Monni mo yere ho mmɔborɔhunu ne ayamuyie. Monni mmaa ni ne pɛ. 4:19
+- Mmmware mo mogoa a wɔbɛn mo. 4:23
+- Mmmunkum mo ho (anaa monnkum mo ho). Nokware, Nyame (Allah) ne Adomfo ma mo. Munnwe mo ho biara ahonya nyinaa. 4:29
+- Sɛ moguan bɔne a ɛso a wɔabara no a, Nyame (Allah) bɛkyɛ mo bɔne akɛse, na ɔde mo bɛkɔ Ahyɛnsode pa (Paradise) mu. 4:31
+- Mma monnnyere mo akɔnnɔ wɔ biribi a Nyame (Allah) de boa mo mu. Munguan anibere ne nyɛ. 4:32
+- Mmarima ne mmaa sohwɛfo, efisɛ Nyame (Allah) ama wɔn mu bi so, na esiane sɛ wɔbɔ ahonya (na wɔhwɛ wɔn) nti. Ɔbarima ne abusua akwankyerɛfo ne obadwamfo. 4:34
+- Monsom Nyame (Allah) na mfa biribiara nhyɛ nʼho, monyɛ papa mma awofo, abusua, nkwagyeefo, ahiafo, ɔfɛfɛ, mo yɔnko a ɔbɛn mo, ɔkwantuni (a mo hyia no), ne wɔn a mo nsa nifa di wɔn. Nyame (Allah) mpɛ ahantanfo ne ahohoahoa. Monyɛ papa mma afoforo. Monni mmɔborɔhunu ma wɔn a wɔyɛ mmerɛ. Monni abusua abusuabɔ na monni abusuafo ni. 4:36
+- Mma monnyɛ papafo nanso monnhwɛ. 4:37
+- Nyame (Allah) de kyɛ wɔn a wɔde ne ho hyɛ nʼanim; na ɔde kyɛ nea ɔpɛ. 4:48
+- Munnni afoforo ahonya ho anya. 4:54
+- Nyame (Allah) hyɛ mo sɛ monnsan nsedie nkɔma wɔn a wɔfata. Sɛ mudi atɛntenenee a, monnyɛ atɛntenenee. 4:58
+- Monyɛ osetie ma Nyame (Allah) ne ne Somafo. Monni wɔn a wɔwɔ tumi wɔ mo mu no ni. 4:59
+- Mma monnhye mmerɛfo ne wɔn a wɔayɛ mmerɛ no so. 4:75
+- Papa a ɛbɛba mo nkyɛn nyinaa fi Nyame (Allah) nkyɛn, nanso bɔne a ɛbɛba mo nkyɛn fi mo ho. 4:79
+- Obiara a ɔyɛ osetie ma Somafo (Muhammad ﷺ) no, wayɛ osetie ma Nyame (Allah). 4:80
+- Obiara a ɔbɛsra papa ho no, ɔbɛnya ne kyɛfa, na obiara a ɔbɛsra bɔne ho no, ɔbɛnya ne kyɛfa. 4:85
+- Ɛnsɛ sɛ agyidifo kum agyidifo, gye sɛ ɛyɛ mfomso. 4:92
+- Obiara a ɔkum agyidifo meda mu no, ne akatua ne Jahannam (Amamere) a ɔbɛtena hɔ daa. Nyame (Allah) abufuw ne nʼadwane wɔ ne so, na wɔasie asotwe kɛse ama no. 4:93
+- Obiara a ɔfiri ne fie (ɔman) wɔ Nyame (Allah) kwan so no, ɔbɛhunu asase so adan pii ne nneɛma pii. 4:100
+- Monni mo mpae bere. 4:103
+- Mma monnhyehyɛ nsediefo ne wɔn a wɔredi wɔn nsedie ho amammuo no. 4:105
+- Monhwehwɛ Nyame (Allah) bɔnefakyɛ, nokware, Nyame (Allah) ne Bɔnefakyɛfo, Mmɔborɔhunufo. 4:106
+- Mo a moagye adie! Monnyina pintinn ma atɛntenenee, monyɛ Nyame (Allah) adansefo, sɛ ɛbɛba mo ho, mo awofo, anaa mo abusua so, sɛ ɔyɛ ɔdefo anaa ohiani. Mma monnhwe atɛntenenee; monyɛ ntɛm ma monni pɛ. 4:135
+- Nnaadaafo pɛ sɛ wɔdi Nyame (Allah) nnaadaa, nanso ɔno na ɔdi wɔn nnaadaa. 4:142
+- Nnaadaafo bɛba ɛyɛ mu wɔ ɔsoro fam (ɔhaw) mu wɔ Ɔkra mu (Nar); wɔrenya aboafo wɔn. 4:145
+- Nyame (Allah) mpɛ sɛ wɔka bɔne a ɛyɛ nkitahodie, gye sɛ wɔyɛ nea wɔayɛ no bɔne. 4:148
+- Ananmusifo sɛ asɛmpatrɛfo ne bɔkɔfo, sɛnea nnipa no nnya Nyame (Allah) so ntia wɔ ananmusifo no (ba) akyi. 4:165
+- Monni mo apam ne bɔhyɛ. 5:1
+- Monboa mo ho wɔ papa ne Nyame-suro mu, na mma monnboa mo ho wɔ bɔne ne atamfo. 5:2
+- Munnwe afunumu, mmoa mogya, anaa prako nam. 5:3
+- Monyɛ atɛntenenee, mma atamfobu ne atan mmra mo so mma monnnyɛ atɛntenenee. Monyɛ pɛ wɔ mo nneyɛe mu. Monim sɛ atɛntenenee yɛ Nyame-suro ho. Mma monnhwe atɛntenenee; monyɛ ntɛm ma monni pɛ. 5:8
+- Monhwehwɛ Nyame (Allah) ho kwan, na monyɛ adwuma wɔ ne kwan so ɔkwan a mote a. Sɛnea moanya nkonim. 5:35
+- Monni mo ntam ne apam. 5:89
+- Munguan nsã ne nsa a ɛboro so. Munguan biribiara a ɛboro so (nsa a ɛboro so nyinaa), agyadwom, Al-Ansab (abotan afɔremuka), ne Al-Azlam (mma a wɔde hwehwɛ nkwankyerɛ) a ɛyɛ ɔbonsam (Shaitan) adwuma a ɛyɛ ɛfi. 5:90
+- Mmmunkum abɔde wɔ berɛ a mowɔ Ihram (Hajj anaa 'Umrah) mu. 5:95
+- Munnnisa biribi a sɛ wɔda no adi a ɛbɛhaw mo. 5:101
+- Munnni afoforo anyame ho awetiam. Munnni wɔn a wɔsom (nyinapɔnfo) wɔ Nyame (Allah) ho no ho awetiam, na wɔbɛdi Nyame (Allah) ho awetiam wɔ ntease a ɛnni hɔ. 6:108
+- Sɛ moyɛ osetie ma wɔn a wɔwɔ asase so dodow no a, wɔbɛfa mo afiri Nyame (Allah) kwan so. Wɔn nkutoo na wodi wɔn adwene so, na wɔredi nkontompo. 6:116
+- Mongo bɔne biara, dea ɛda adi ne dea ɛyɛ sum. 6:120
+- Munnwe (mo agyidifo) nam a Nyame (Allah) din anka wɔ so (wɔ mmoa kum berɛ mu). 6:121
+- Nyame (Allah) de ɔpɛ sɛ ɔkyerɛ obi kwan a, ɔbue ne koma ma Islam; na dea ɔpɛ sɛ ɔma ɔyera no, ɔma ne koma yɛ den na ɛho hia. 6:125
+- Monni nneɛma ho mpɔ, na mmmɔ mmɔden ho. Monni abɔde nyinaa kyɛfa. 6:141
+- Mfa biribiara nhyɛ Nyame (Allah) ho wɔ som mu, monyɛ papa mma awofo, mma monnkum mo mma esiane ohia nti, mma monnka nneyɛe a ɛyɛ ɛfɛi ho, mma monnkum obiara a Nyame (Allah) abara no, gye sɛ ɛyɛ pɛ. 6:151
+- Monnyɛ nokware; munnsisi wɔ mo nneyɛe biara mu. Mma monnka nkwagyeefo agyapadeɛ ho, gye sɛ moma ɛnyɛ papa, monni susupiwa ne nsania pɛ, berɛ biara a mokasa a, monka nokware sɛ ɛbɛba abusua a ɛbɛn mo so, na monni Nyame (Allah) apam. 6:152
+- Monkɔ Kwan Tenten no so, na mmmfa nkwan (afoforo) mfa, na wɔbɛbɔ mo afiri Ne kwan so. 6:153
+- Se: "Nokware, me mpae, me bɔne, me nkwa, ne me wuo nyinaa yɛ Nyame (Allah), wiase nyinaa Wura." 6:162
+- Mma monnyɛ ahantan. 7:13
+- Mma ɔbonsam (Shaitan) nni mo. 7:27
+- Se: "Me Wura ahyɛ atɛntenenee." 7:29
+- Monni Nyame (Allah) ahye so wɔ biribiara mu. Mma monnkyɛ ho wɔ kasa ne nneyɛe mu. Monnidi na monnom na mmmɔ mpo. Monhyɛ atade pa wɔ mpae berɛ. 7:31
+- Nyame (Allah) bɔɔ ɔsoro ne asase wɔ Da Sia mu, na ɔtenaa Ahennwa no so (ɔkwan a ɛyɛ Ne pɛ). 7:54
+- Monfrɛ mo Wura wɔ ahobrɛase ne sum mu. Nʼani nnye wɔn a wɔkyɛ ho. 7:55
+- Na mmmɔ asase ho basabasa, akyiri sɛ wɔasiesie no, na monfrɛ no wɔ ehu ne anidaso mu. 7:56
+- Nanso wɔn a wɔyɛɛ bɔne na wɔsane nsesaa, na wɔgyee dii no, nokware, mo Wura akyiri no ne Bɔnefakyɛfo, Mmɔborɔhunufo. 7:153
+- Se: "Nnipa! Nokware, meyɛ Nyame (Allah) Somafo, mama mo nyinaa." 7:158
+- Nyame (Allah) din a ɛyɛ fɛ no nyinaa yɛ Ne deɛ, enti monfrɛ no de, na munguan wɔn a wɔbɔ Ne din ho ɛden no. 7:180
+- Obiara a Nyame (Allah) bɛma wayera no, obiara rentumi nkyerɛ no kwan; na ɔma wɔn yera wɔ wɔn pɛ mu. 7:186
+- Moni bɔnefakyɛ, monhyɛ papa, na mumfi anantefo (saa ara nkyekye wɔn). 7:199
+- Moni afoforo mfomso kyɛ. 7:199
+- Sɛ ɔbonsam (Shaitan) bɔne bi bɛba wo nkyɛn a, hwehwɛ Nyame (Allah) ho ban. Nokware, Ɔne Tiefo, Nimdefo. 7:200
+- Agyidifo nkutoo ne wɔn a sɛ wɔkae Nyame (Allah) a, wɔn koma (adesoa) ho suro, na sɛ wɔkenkan Ne Nsɛm (Ayat) a, ɛma wɔn gyidi (Iman) kɔ soro. 8:2
+- Munnsiane Nyame (Allah) ne ne Somafo, na munnsiane mo nsedie (ne Nyame (Allah) nneyɛe a wɔahyɛ mo). 8:27
+- Sɛ mosuro Nyame (Allah) a, ɔbɛma mo Furqan (nea ɛdi papa ne bɔne ntam, anaasɛ ɔkwan a mutumi firi amanehunu mu ba). 8:29
+- Wɔn a wɔnni gyidi no de wɔn ahonya bɔ sɛ wobesi wiasefo kwan wɔ Nyame (Allah) kwan so; wɔbɛto so abɔ no, nanso akyiri no ɛbɛyɛ wɔn agyanan. 8:36
+- Se wɔn a wɔnni gyidi no sɛ wogyae a (wɔn gyidi a ɛnni mu no), wɔn a wɔadiwuo no bɛkyɛ wɔn. Nanso sɛ wɔsane ba a, na wɔn a wɔdii wɔn anim no nhwɛso no atwam (sɛ bɔkɔ). 8:38
+- Sɛ muhyia (ɔtamfo) dɔm a, munnyina pintinn na monkae Nyame (Allah) din pii (kasa ne adwene mu), sɛnea moanya nkonim. 8:45
+- Mmmɔ wɔn a wofiri wɔn fie wɔ ahantan mu ne sɛ nnipa behunu wɔn, na wɔsi wiasefo kwan wɔ Nyame (Allah) kwan so. 8:47
+- Nyame (Allah) nsesa adom a ɔde ama nnipa kuw bi, gye sɛ wɔn ho wɔn nsakra. 8:53
+- Nneɛma a ɛwɔ nkwa mu a ɛyɛ bɔne wɔ Nyame (Allah) anim ne wɔn a wɔnni gyidi. 8:55
+- Onyankopɔn de ɔdɔ ne ayɔnkofa si wɔn a wɔgye di wɔ Ne mu no koma ntam. 8:63
+- Monhwɛ wɔn a wɔhwehwɛ banbɔ no so na momboa wɔn. 9:6
+- Ɛnsɛ sɛ Mushrikfo (abosomfo) di Nyame (Allah) mɔse (masjid) dwuma. 9:17
+- Wɔn (nyinapɔnfo, Yudafo ne Kristofo) pɛ sɛ wɔde wɔn ano num Nyame (Allah) hyerɛn (nea Muhammad ﷺ wɔ — Islam monotheism), nanso Nyame (Allah) mfi sɛ Ne hyerɛn bɛba mu, sɛ korofo mpɛ a. 9:32
+- Sadaqat (Zakat) yɛ dea ma: 1) ahiafo, 2) mmɔborɔfo, 3) wɔn a wɔbɔ mmɔden, 4) wɔn a wɔde wɔn koma ato Islam so, 5) wɔn a wɔyɛ nnompe, 6) wɔn a wɔda ka mu, 7) Nyame (Allah) kwan so (Mujahidun), 8) ɔkwantuni. 9:60
+- Obiara a ɔne Nyame (Allah) ne ne Somafo (ﷺ) yɛ tamfo no, nokware, ɔkra mu gya wɔ hɔ, ɔbɛtena hɔ daa. Ɛyɛ animguase kɛse. 9:63
+- Nnaadaafo, mmarima ne mmaa, wɔn ho wɔn ho. Wɔnkae Nyame (Allah) enti Nanka wɔn. 9:67
+- Monyɛ mmɔden ma ahodwo. Monni mɔse (masjid) kyɛ. 9:108
+- Ɛnsɛ (ma Odiyifo no ne wɔn a wɔagye adie) sɛ wɔhwehwɛ Nyame (Allah) bɔnefakyɛ ma Mushrikfo, sɛ wɔyɛ wɔn abusua a, akyiri sɛ ɛda adi ma wɔn sɛ wɔyɛ Ɔkra mu (Nar) tenafo (efisɛ wɔn wui wɔ gyidi a ɛnni mu). 9:113
+- Hwan na ɔyɛ bɔne sen dea ɔyɛɛ atoro tia Nyame (Allah), anaasɛ ɔtwaa Ne Nsɛm (Ayat) ho? Nokware, bɔnefo nnya nkonim da! 10:17
+- Wɔsom Nyame (Allah) ho biribi a ɛnni wɔn yaw, na ɛnni wɔn mfaso, na wɔse: "Yeinom ne yɛn apemfo wɔ Nyame (Allah) anim." Se: "So morebɔ Nyame (Allah) nka biribi a ɔnni ho nimdeɛ wɔ ɔsoro ne asase so?" Ayeyi Ne ma, Ɔso wɔ biribi a wɔde ne ho hyɛ no ho. 10:18
+- Bɔne so bɔne ne ne pɛ. 10:27
+- Saa Nyame (Allah) ne mo Wura a ɔyɛ nokware. Enti akyiri sɛ nokware, bɛn na ɛwɔ hɔ gye sɛ ɛyera? Enti ɛbɛ yɛ den ma mo? 10:32
+- Wɔn dodow no ara di wɔn adwene so. Nokware, adwene nni nokware ho. 10:36
+- Nokware! Nyame (Allah) nyɛ biribi tia nnipa; na mmom nnipa na wɔyɛ wɔn ho bɔne. 10:44
+- Monim sɛ Nyame (Allah) adom no yɛ papa sen biribi a nnipa betumi aboaboa, anaasɛ atwa. 10:58
+- Mma monnyɛ wɔn a wɔbɔ Nyame (Allah) Nsɛm no atoro no, na moayɛ wɔn a wɔbɔ wɔn ho. 10:95
+- Sɛ Nyame (Allah) de ɔhaw aka mo a, obiara nni hɔ a obetumi ayi no gye Ne; na sɛ ɔpɛ papa ama mo a, obiara nni hɔ a obetumi asan Ne adom, ɔde ma dea ɔpɛ wɔ Ne nkoa mu. 10:107
+- Asase so abɔde a ɛwɔ nkwa mu no, Nyame (Allah) na ɔma no nnuane. Na Ɔyɛ ne tenabea ne ne da (ɔyaw, ɔda, ne nea ɛkeka ho). 11:6
+- Sɛ yɛma onipa ne yɛn Mmɔborɔhunu yɛ, na yɛsan yi no firi ne so a, nokware, ɔyɛ obi a nʼani aba ne ho so, ɔyɛ ayɛda. 11:9
+- Obiara a ɔpɛ wiase nkwa ne ne fɛfɛ no, yɛde nʼadwuma no bɛma no wɔ mu, na wɔrenyi biribi nso. 11:15
+- Yɛnyɛɛ wɔn bɔne, na mmom wɔn ho wɔn na wɔyɛɛ wɔn ho bɔne. Na wɔn anyame a wɔsom wɔ Nyame (Allah) ho no mma wɔn hwee, sɛ wo Wura amanbɔ bae a; na wɔn bɔne ne ɔsɛe. 11:101
+- Da a ɛbɛba no, obiara reka asɛm gye sɛ ɔwɔ Ne (Nyame (Allah)) kwan. Wɔn mu bi bɛyɛ ahiafo (bɔnefo) na (afoforo) bɛyɛ nkonimdifo. 11:105
+- Wɔn a wɔyɛ ahiafo no, wɔbɛkɔ Ɔkra (Nar) mu; wɔn ani bere ne wɔn so atiriri. 11:106
+- Wɔbɛtena hɔ daa, ɔsoro ne asase a wɔtra so, gye sɛ wo Wura pɛ; nokware, wo Wura dea ɔpɛ na ɔyɛ. 11:107
+- Wɔn a wɔyɛ nkonimdifo no, wɔbɛkɔ Paradise (Aheman) mu, wɔbɛtena hɔ daa, ɔsoro ne asase a wɔtra so, gye sɛ wo Wura pɛ, sɛ akyɛde a ɛnni awie. 11:108
+- Mma monnni bɔnefo akyi, na Ɔkra (Nar) no bɛka mo, na mo nni Nyame (Allah) ho aboafo, na wɔrennye mo. 11:113
+- Monni mpae (Salat) wɔ da no nkyɛn abien ne anadwo bere bi (sɛ mpae anum a wɔhyɛ). Papa dwuma yi bɔne nketewa. 11:114
+- Nyame (Allah) na ɔwɔ ɔsoro ne asase sum mu, na Ne nkyɛn na nsɛm nyinaa san kɔ. 11:123
+- Amr (nyamesom) yɛ Nyame (Allah) dea. Wapɛ sɛ monyɛ osetie ma No nko (monotheism), eyi ne ɔkwan tenen no, nanso nnipa dodow no ara nte. 12:40
+- Mma monnhwere Nyame (Allah) Mmɔborɔhunu mu anidaso. 12:87
+- Na nnipa dodow no ara rennye, sɛ wopɛ pɛ a. 12:103
+- Na wɔn dodow no ara nnye Nyame (Allah) nni, gye sɛ wɔde wɔn ho hyɛ Ne ho (wɔyɛ Mushrik). 12:106
+- Ɛnyɛ asɛm a wɔasisi (forged), na mmom ɛyɛ Nwoma a ɛwɔ hɔ no (Tawrat, Injil, ne Nyame (Allah) nwoma afoforo) ho nokware, ne biribiara ho nkyerɛase a ɛyɛ pɛ, ɔkwankyerɛ ne mmɔborɔhunu ma wɔn a wɔgye di. 12:111
+- Nyame (Allah) ma nea ɔpɛ no so, na ɔma nea ɔpɛ no yɛ ketewa. 13:26
+- Monkae Nyame (Allah) pii nam dhikr so. Wɔn a wɔgye Nyame (Allah) di no, wɔn koma (adesoa) nya ahotɔ wɔ Ne ho. 13:28
+- Wɔn a wɔgye di na wɔyɛ papa no, wɔma wɔn anigye ne komabatow. 13:29
+- Wɔn a wɔpɛ wiase nkwa Akyiri (Akhirah) so, na wɔsi wiasefo kwan wɔ Nyame (Allah) kwan (Islam) so, na wɔhwehwɛ kwan a ɛntene — wɔn a wɔyɛ saa no, wɔn yera no wɔ kwan akyiri. 14:3
+- Monyɛ ahobrɛase ne ayeyi wɔ som mu. 14:7
+- Wɔn a wɔnni gyidi wɔ wɔn Wura mu no, wɔn nneyɛe te sɛ nsõ, a mframa bɔ no wɔ awia a ɛyɛ mframa no; wɔrenya biribi wɔ wɔn nneyɛe a wɔayɛ no mu. 14:18
+- Nyame (Allah) bɛma wɔn a wɔagye adie no atena pintinn wɔ asɛm a ɛyɛ pintinn mu wɔ wiase (saa ara wɔbɛto so asom No nko, na obiara nso), ne Akyiri. 14:27
+- Mma monnsusuw sɛ Nyame (Allah) nni wɔn a wɔyɛ bɔne (Mushrik, bɔnefo, ne nea ɛkeka ho) ho nimdeɛ; na mmom ɔma wɔn bere kɔsi Da a ani bɛba ho no. 14:42
+- Sɛnea Nyame (Allah) betumi atua obiara pɛ. Nokware, Nyame (Allah) yɛ Nkontabudeefo. 14:51
+- Nokware, yɛbɔɔ onipa firi apidipidi (nhye) a ɛyɛ esum a yɛasesa no mu. 15:26
+- Na jinn (adwirifo), yɛbɔɔ wɔn kan firi ogya a ɛnni wusiw no mu. 15:27
+- Ɛwɔ (Amamere (Jahannam)) ɛpono nsɔn; ɛpono biara wɔ (sononko) bɔnefo kuw. 15:44
+- Ɔbɔɔ onipa firi nnuadewa (barima ne ɔbaa nnua nsuo), afei, saa onipa no bɛyɛ ɔtamfo pefee. 16:4
+- Na mmoadom no, ɔbɔɔ wɔn ma mo; wɔn mu ɛwɔ ahyew (tade a ɛyɛ hyew), ne mfaso pii, na firi wɔn mu na modidi. 16:5
+- (Na ɔbɔɔ) apɔnkɔ, mfurum ne mfurum, sɛ morde wɔn nante, ne sɛ ahyɛnsode. Na ɔbɔ (biribi) a monnim. 16:8
+- Ɔno na ɔde nsuo (osuo) firi ɔsoro fa ba; firi mu na monnom, na firi mu (nsuo) na dua a mode mo mmoadom didi no nyin. 16:10
+- Ɔno na ɔde po (po) ma mo, sɛ modidi nam foforo a ɛyɛ fɛ, na mufiri mu mma ahyɛnsode. 16:14
+- Wato mmepo atɛntene wɔ asase so, sɛnea ɛrennyiyi mo, na nsubɔnten ne akwan, sɛnea muhunu kwan. 16:15
+- So dea ɔbɔ no te dea ɔnni bɔ no? So merenkae? 16:17
+- Sɛ mukan Nyame (Allah) adom a, morentumi nkan. 16:18
+- Nyame (Allah) nim dea mokata ne dea mubue. 16:19
+- Wɔn a wɔsom wɔ Nyame (Allah) ho no, wɔnni bɔ, na mmom wɔn wɔbɔ. 16:20
+- (Wɔn) awufo, ntease nni wɔn, na wɔnni nimdeɛ sɛ bere bɛn na wobɛsɔre. 16:21
+- Yɛ asɛm ma biribi a yɛpɛ no, ɛyɛ sɛ yɛse: "Yɛ!" na ɛyɛ. 16:40
+- Wɔn a wɔyɛ amammerɛ bɔne no, so wɔn ho yɛ den sɛ Nyame (Allah) remfa asase nhyɛ wɔn, anaasɛ asotwe renfiri baabi a wɔnni ho ntease? 16:45
+- Adom a mowɔ nyinaa fi Nyame (Allah) nkyɛn. Afei, sɛ ɔhaw ka mo a, mufrɛ no ma mmoa. 16:53
+- Afei, sɛ ɔyi ɔhaw firi mo so a, hwɛ, mo mu bi de ne ho hyɛ wɔn Wura (Nyame (Allah)) ho. 16:54
+- Mmoadom mu ɛwɔ adesua ma mo. Yɛma monnom biribi a ɛwɔ wɔn yafunu mu, firi nsuo ne mogya ntam, nufusuo a ɛyɛ fitaa, a ɛyɛ dɛ ma wɔn a wɔnom. 16:66
+- Enti mma monnnfa Nyame (Allah) ntosɛm (biribiara nte Ne ho, na ɔnte biribiara ho). Nokware, Nyame (Allah) nim, na monnim. 16:74
+- Monim sɛ Nyame (Allah) de asotwe, ani, adwene, ne ɔdɔ ama nnipa, sɛnea wɔbɛda no ase. 16:78
+- Munguan anibere ne papa. 16:97
+- Sɛ mopɛ sɛ mokenkan Qur'an a, monhwehwɛ Nyame (Allah) ho ban firi ɔbonsam (Shaitan) a wɔapo no (abɔnefo) no nkyɛn. 16:98
+- Monim sɛ, bɔne a wɔyɛ wɔ ntease a ɛnni hɔ mu no, sɛ onipa no san nsesa na ɔyɛ papa a, wɔde kyɛ no. 16:119
+- (Muhammad ﷺ) monfrɛ wiasefo (Islam) kwan so nam nyansa ne ahyɛde pa so, na monni wɔn ho nkɔmmɔ nam ɔkwan pa so. Frɛ afoforo wɔ Nyame (Allah) kwan so no, ɛsɛ sɛ ɛyɛ nyansa ne ayamuyie. 16:125
+- Nyame (Allah) ne wɔn a wosuro No (wɔn a wodi wɔn adwuma ma No) ne wɔn a wɔyɛ papa no. 16:128
+- Saa Qur'an yi kyerɛ kwan ma nea ɛyɛ tenene ne papa. 17:9
+- Obiara nni obi bɔne. 17:15
+- Obiara a ɔpɛ Akyiri (Akhirah) na ɔyɛ adwuma wɔ ho sɛnea ɛfata, na ɔyɛ agyidifo no, saa nkutoo, wɔn adwuma bɛnya akatua. 17:19
+- Monni mo awofo ni na monni wɔn ayamuyie. Monni awofo adwuma. Mma monnka asɛmfua a ɛyɛ animguase mma wɔn. Na mo Wura apɛ sɛ monnye Ne nko ara na monni Ne adwuma. Na monni mo awofo dwuma. Sɛ wɔn mu baako anaa wɔn baanu nyin panyin wɔ wo nkwa mu a, mma monnka "hwe" wɔn, na mma monnhu wɔn, na mmom monkasa wɔn akwan a ɛyɛ fɛ. 17:23
+- Na monyi mo bammɔ ne mmɔborɔhunu mma wɔn, na mose: "Me Wura! Hu wɔn mmɔborɔhunu sɛnea wɔhwɛɛ me bere a na meyɛ akwadaa no." 17:24
+- Nokware, wɔn a wɔbɔ ho mmɔden no yɛ ɔbonsam (Shaitan) nuanom, na ɔbonsam (Satan) yɛ ayɛda wɔ ne Wura ho. 17:27
+- Mma monnnhye sika wɔ ɔkwan a ɛboro so. 17:29
+- Mma monnkum mo mma esiane ohia nti. 17:31
+- Mma monnye nna bɔne. Monni awaregu ho kyɛ na munguan nna bɔne. 17:32
+- Monni susupiwa pɛ sɛ mopetee, na monni nsania a ɛte. Ɛyɛ papa (mfaso) na ɛyɛ papa wɔ awie. 17:35
+- Mmmfa ho (onipa, sɛ mose, monnyɛ, anaa monni ho adanse, ne nea ɛkeka ho) nea monni ho nimdeɛ (sɛ obi se: "Mahu," nanso onhu, anaa "Mate," nanso ɔnte). 17:36
+- Monyɛ ahobrɛase na mma monnyɛ ahantan. Mma monnnantew asase so wɔ ahantan mu. Nokware, morentumi ntwa asase, na morentumi nnya mmepo tenten. 17:37
+- Mo Wura nim mo, sɛ ɔpɛ a, ɔbɛhu mo mmɔborɔhunu, anaasɛ sɛ ɔpɛ a, ɔbɛtwe mo aso. 17:54
+- Obiara a ɔyɛ anifuraefo wɔ wiase (saa ara, onhu Nyame (Allah) Nsɛm na ɔnnye Ne nni) no, ɔbɛyɛ anifuraefo wɔ Akyiri (Akhirah), na ɔbɛyera kwan. 17:72
+- Monni mpae bere a wɔahyɛ. 17:78
+- Nokware, yɛabɔ nnipa kyerɛ wɔ saa Qur'an yi mu biribiara, nanso nnipa dodow no ara fi (nokware a wɔnni gyidi) gye koro. 17:89
+- Yɛde biribiara nkyerɛ nnipa wɔ saa Qur'an yi mu. Nanso, onipa yɛ nea ɔyɛ akasakasa sen biribiara. 18:54
+- Saa na wɔn akatua bɛyɛ, Amamere (Jahannam); efisɛ wɔnni gyidi na wɔfa Me Nsɛm ne Me Ananmusifo sɛ aseresere ne awetiam. 18:106
+- Ɛnsɛ (Nyame (Allah) Kɛseyɛ) sɛ ɔbɛfa ɔba (eyi kyerɛ Kristofo nkontompo wɔ Nyame (Allah) ho, sɛ Yesu (Yeesu) yɛ Nyame (Allah) ba). Ɔyɛ fɛ. 19:35
+- Monkasa nnipa akwan a ɛyɛ mmerɛ. 20:44
+- Monnyɛ papa ho mmɔden. 21:90
+- Munguan nsɛm a ɛnni mfaso. 23:3
+- Monhwɛ mo ho. 23:5
+- Monhwɛ mo koma so mma bɔne. 23:97
+- Moni afoforo mfomso kyɛ. 24:22
+- Monni afoforo ho ban, titiriw wɔn fie. Monni ɔfɛfɛ ho kyɛfa. 24:27
+- Monyi mo ani ase (mmarima ne mmaa). Monhwɛ mo ho ne mo anyame. 24:30
+- Monni ahobrɛase wɔ ntade ne nneyɛe mu. 24:31
+- Monim sɛ Nyame (Allah) ma ahotɔ ne asomdwoe ma wɔn a wɔsom No na wɔyɛ papa. 24:55
+- Mmmfa mo awofo ban mu mma wɔn kwan a ɛnni hɔ. 24:58
+- Monyɛ ahobrɛase. 25:63
+- Munguan atoro adanse ne nnaadaa. 25:72
+- Monyɛ adwuma ma Akyiri (Akhirah) akatua, nanso mma monnngye mo wiase nsɛm. 28:77
+- Mmmfrɛ Nyame (Allah) ho anyame. 28:88
+- Mmmɔ ɔbarima ne ɔbarima (homosexuality). 29:29
+- Monyɛ adwuma ma pɛ wɔ mo nneyɛe nyinaa mu. 29:69
+- Mosi mpae na momma zakat. 31:4
+- Monhyɛ papa na monkyi bɔne. 31:17
+- Munguan ahantan wɔ mo nneyɛe mu. Mma monnngye mo bere nkɔ nkwammoaa mu. 31:18
+- Monni mo nante mu pɛ, na monte mo nne ase. 31:19
+- Monkɔ Odiyifo Muhammad ﷺ nhwɛso so. 33:21
+- Mmaa mma wɔn ho nnye wɔn ho ani, na wɔn ho mmɔ wɔn. 33:33
+- Monka nokware wɔ nsɛm nyinaa mu. 33:70
+- Monhwehwɛ nyansa ne ntease nam adwene so. 38:29
+- Monni Qur'an mmara. 39:23
+- Nyame (Allah) de bɔne nyinaa kyɛ sɛ bɔnefo no san nsesa. 39:53
+- Monyɛ du'a (mpae) kɔ Nyame (Allah) nkyɛn. 40:60
+- Monyi bɔne nam nea ɛyɛ papa so. 41:34
+- Monni nsɛm wɔ abusuafo mu. 42:38
+- Mma monnma mo nne nsɔ Odiyifo nne so. 49:2
+- Monhwɛ nneɛma a ɛyɛ sum so na munguan nnaadaa. 49:6
+- Monhyɛ asomdwoe ntam wɔ wɔn a wɔdi ntawntaw no mu. Monhwehwɛ ayɔnkofa wɔ ntawntaw mu. 49:9
+- Mma monnnni afoforo ho awetiam. 49:11
+- Munguan sisi. Munguan nneɛma a ɛyɛ sum ho ahwehwɛ ne ɔkasatia akyi. Mma monnnni afoforo ho awetiam. Munguan ɔkasatia ne nnaadaa. Mma ahantan mmfa mo mma nhyɛ so. 49:12
+- Monim sɛ, papa na ɛyɛ onipa fɛ. Monni nnipa ne amammerɛ mu nsonsonoe. 49:13
+- Monni ahoho. 51:26
+- Monni mo Nyame (Allah) ho adwuma. 51:56
+- Monfa mo ahonya ndi ayɛyɛde. 57:7
+- Monim sɛ, mma monnye mma mma wiase (awaregu ne nneɛma a ɛyɛ dɛ sɛ mmarima, mmaa, anaa wɔn a wɔsua som, anaa wɔn adan) wɔ som mu. 57:27
+- Mma ahonya mmpa mo mfi Nyame (Allah) ho. 58:11
+- Wɔn a wɔwɔ nimdeɛ no, wɔbɛnya dibea a ɛsoro wɔ Nyame (Allah) nkyɛn. 58:11
+- Monyɛ papa ne pɛ wɔ wɔn a wɔnni gyidi no mu. 60:8
+- Munguan nnaadaa wɔ mo gyidi ne nneyɛe mu. 63:9
+- Munguan anibere ne papa. 64:16
+- Monhwɛ adeyɛ a wɔde ahyɛ mo nsa so no. 73:15
+- Monkae Atemmuda. 75:36
+- Monhyɛ aboterɛ ne mmɔborɔhunu. 90:17
+- Wɔn a wɔyɛ wɔn ho adwuma no, wonya nkonim; na wɔn a wɔsɛe wɔn ho no, wɔdi nkogu. 91:10
+- Mma monnkasa ahiafo akyi, na mma monnsɔ wɔn. 93:10
+- Monhwehwɛ nimdeɛ ne ntease. Monkenkan Qur'an na monwen ho. 96:1–5
+- Monhyɛ wɔn nkuran sɛ wɔmma ahiafo nnuane. 107:3
 """;

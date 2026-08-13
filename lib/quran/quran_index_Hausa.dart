@@ -3317,4 +3317,280 @@ Matching Phrases 8 words
 - Allah Yanã shimfiɗa arziki ga wanda Yake so daga bãyinSa, kuma Yanã ƙuntatãwa. (اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ) 28:82; 29:62
 - Kuma zã a mayar da ku zuwa ga Masanin ɓõye da bayyane, sa'an nan Ya bã ku lãbãri da abin da kuka kasance kunã aikatãwa. (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
 - Kuma ma'abũta zumunta, sãshensu ne mafi kusantar sãshe, a cikin Littãfin Allah. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
+cmds - Commands, Exhortations, Prohibitions, Instructions
+- fard / wajib (فرض / واجب) — wajibi (dole a yi; zunubi a bari)
+- mustahabb / mandub (مستحب / مندوب) — abin da ake so (ana samun lada idan aka yi, ba zunubi ba idan aka bari)
+- mubah (مباح) — halal / halal (babu lada babu zunubi)
+- makruh (مكروه) — abin ƙyama (ba a so, amma ba zunubi ba idan aka yi)
+- haram (حرام) — haram (zunubi a yi)
+- halal (حلال, halal / halatta) — ya ƙunshi mubah da mustahabb — duk abin da ba haram ba
+- Ku bauta wa Allah Shi kaɗai, ku nemi taimakonsa/agajinsa. 1:5
+- Ku bauta wa Allah Shi kaɗai. 2:21
+- Kada ku sanya wa Allah abokan tarayya. 2:22
+- Allah Shi ne Mai gafartawa (Mai karɓar tuba), Ya karɓi tubar Adamu (السلام عليه). 2:37
+- Kada ku cuɗanya gaskiya da ƙarya, kuma kada ku ɓoye gaskiya. 2:42
+- Ku tsai da salla (addu'o'in yau da kullum), ku bayar da zakka (sadaka). 2:43
+- Ku umurci wasu da alheri bayan kun aikata shi da kanku. 2:44
+- Ku nemi taimakon Allah a cikin dukan al'amuranku. 2:45
+- Kada ku shiga cikin ɓarna kuma kada ku yada ta. 2:60
+- Kada ku hana mutane zuwa gidajen ibada. 2:114
+- Ku girmama tsarkin masallaci. Ku tsaftace wuraren sallarku da tsarki. 2:125
+- Ku tuna da Allah (ta wurin salla, tasbihi, da sauransu) zai tuna da ku, kuma ku yi masa godiya. 2:152
+- Ku yi haƙuri a cikin wahala. 2:153
+- Kada ku bi sawun Shaiɗan wanda yake maƙiyi bayyane. 2:168
+- Kada ku bi kowa da makanta. 2:170
+- Ku kiyaye kuma ku cika dukan amana. Ku cika ayyukanku na addini da gaskiya. Ku cika rantsuwarku da alkawarinku. Ku kiyaye alkawuran, musamman waɗanda kuka yi wa Allah. Ku taimaki mabukata ku sauƙaƙa wahalhalu. Ku guji aikata zunubai da ke kai ga asarar tagomashin Allah. Kada ku bari girman kai ya kai ku ga zalunci. 2:177
+- Akwai (ceto) rai a gare ku a cikin kisa (Dokar daidaito a cikin ukuba). 2:179
+- Ku yi azumi a cikin watan Ramadan. Ku kiyaye azumin da aka wajabta domin ku zama Muttaƙai (masu taƙawa). 2:183
+- Ku girmama Alƙur'ani a matsayin tushen shiriya ta ƙarshe. 2:185
+- Kada ku ci dukiyar juna da zalunci, kuma kada ku ba da cin hanci ga masu shari'a (kafin ku gabatar da karar ku). 2:188
+- Kada ku zalunci wasu, da magana ko aiki. Kada ku taɓa yin yaƙi a matsayin mai zalunci, sai dai don tsaro. 2:190
+- Ku kare marayu. Game da marayu, ku yi aiki da gaskiya a cikin dukiyarsu kuma kada ku ci dukiyarsu. 2:220
+- Ku tuba ku nemi gafarar Allah. Kada ku yi jima'i a lokacin haila. Ku kiyaye tsarki (na jiki da na ruhi). 2:222
+- Ku cika hakkin ku ga iyalanku. 2:233
+- Ku zaɓi shugabanni bisa cancantarsu. 2:247
+- Babu tilas a addini. 2:256
+- Ku ciyar da dukiya a cikin sadaka. Ku kasance masu bayar da sadaka a cikin dukiya da lokaci. 2:261
+- Kada ku ɓata sadakarku ta wurin yin alfahari da karimcinku. 2:264
+- Shaiɗan yana yi muku barazana da talauci kuma yana umurtar ku da aikata alfasha (mugayen ayyuka, haramun jima'i, zunubai). 2:268
+- Ku nemo mabukata ku taimake su. 2:273
+- Kada ku shiga cikin riba. Kada ku ci dukiyar da ke da riba. Kada ku ci riba. 2:275
+- Ku ba wa mai bi bashi ƙarin lokaci idan ya kasance cikin wahala. 2:280
+- Ku cika alkawarinku a cikin kasuwanci. Ku kasance masu gaskiya a cikin al'amuran kuɗinku. Ku yi aiki da aminci a dukkan alkawuranku. Idan kun yi yarjejeniyar bashi na ɗan lokaci, ku rubuta shi. Ku kawo shaidu duk lokacin da kuke yin yarjejeniyar kasuwanci. 2:282
+- Ku kiyaye kuma ku cika dukan amana. 2:283
+- Ku yi imani da Littattafan da aka saukar da dukan Annabawa. 2:285
+- Allah ba ya yi wa rai nauyi sama da ƙarfinsa. Zai sami ladan abin da ya tara na alheri, kuma zai sami azabar abin da ya tara na sharri. Allah ba ya yi wa mutum nauyi sama da ƙarfinsa; mu ma bai kamata mu yi haka ba. Ku dogara ga shirin Allah ko da a cikin wahala. 2:286
+- Duk wanda ya cika alkawuransa kuma ya ji tsoron Allah, to Allah yana ƙaunar masu taƙawa. 3:76
+- Ku yi aikin haji idan kun sami dama. 3:97
+- Kada ku rabu. 3:103
+- Ku yi umurni da alheri, ku hana mugunta. Ku ƙarfafa adalci a cikin al'ummarku. Ku kira wasu zuwa tunawa da Allah. 3:104
+- Muminai su dogara ga Allah. 3:122
+- Kada ku ci riba. 3:130
+- Ku yi biyayya ga Allah da ManzonSa domin ku sami rahama. 3:132
+- Allah yana ƙaunar waɗanda suke ciyarwa (a cikin hanyar Allah — ayyukan sadaka, zakka, da sauransu) a cikin wadata da wahala, waɗanda suke danne fushi, da waɗanda suke gafartawa mutane. 3:134
+- Ku danne fushi. Ku sarrafa fushinku. 3:134
+- Ku gafarta wa wasu kuma ku yafe musu kurakurai. 3:135
+- Kada ku kasance masu ƙazafi a magana. Ku yi haƙuri da waɗanda suka saba muku. 3:159
+- Idan Allah ya taimake ku, babu wanda zai iya rinjayar ku; kuma idan Ya yashe ku, wa ne bayanSa zai iya taimakonku? 3:160
+- Kowane rai zai ɗanɗana mutuwa. Kuma a Ranar Ƙiyama ne kawai za ku sami cikakken ladan ku. 3:185
+- Ku yi zurfafa tunani a kan abubuwan al'ajabi na halitta da halittar wannan duniya. Ku sani cewa Allah Ya halicci duniya da ma'ana da manufa. 3:191
+- Maza da mata suna da lada daidai da ayyukansu. 3:195
+- Ga waɗanda suke tsoron Ubangijinsu, akwai gidajen Aljanna da koguna ke gudana a ƙarƙashinsu; za su dawwama a cikinsu har abada, a matsayin karɓar baƙo daga Allah. 3:198
+- Ku yi ƙoƙari don samun yardar Allah a kowane aiki. 3:200
+- Ku ji tsoron Ubangijinku, ku ji tsoronsa kuma (kada ku yanke) zumunta. 4:1
+- Ku ba marayu dukiyarsu, kuma kada ku musanya (mugayen ku) da (na su masu kyau); kuma kada ku ci dukiyarsu (ta wurin haɗa ta da dukiyarku). 4:2
+- Ku ba matan (da kuke aura) sadakinsu (kyautar aure ta wajibi da miji ke ba matarsa a lokacin aure) da zuciya mai kyau. 4:4
+- Ku kiyaye haƙƙin marayu. 4:6
+- Dukiyar mamaci ya kamata a raba tsakanin danginsa. Mata suna da hakkin gado. 4:7
+- Kada ku ci dukiyar marayu da zalunci. 4:10
+- Ku yi biyayya ga umarnin da suka shafi gado. 4:11
+- An haramta ku gaji mata ba da son ransu ba, kuma kada ku zalunce su. Ku zauna da su (matan) cikin alheri. Ku girmama kuma ku kiyaye haƙƙin mata. Ku yi wa matarka alheri da tausayi. Ku yi wa mata mutunci da adalci. 4:19
+- Kada ku auri waɗanda suke dangi na jini da ku. 4:23
+- Kada ku kashe kanku (ko juna). Lalle Allah Mai jin ƙai ne gare ku. Kada ku ci dukiyar juna da zalunci. 4:29
+- Idan kun guje wa manyan zunubai da aka haramta, Allah zai kankare muku (ƙananan) zunubanku, kuma zai shigar da ku a cikin shiga mai daraja (Aljanna). 4:31
+- Kada ku yi kwadayin abin da Allah ya fifita wasunku da wasu. Ku guji hassada da kishi. 4:32
+- Maza su ne masu kula da mata, domin Allah Ya fifita wasu a kan wasu, kuma saboda suna ciyarwa daga dukiyoyinsu (don tallafa musu). Namiji shi ne mai kula da tallafin iyali. 4:34
+- Ku bauta wa Allah, kada ku yi shirki da shi, ku yi kyautatawa ga iyaye, dangi, marayu, matalauta, maƙwabci, abokin tafiya, matafiyi (da kuka haɗu da shi), da waɗanda (bayi) hannayenku na dama suka mallaka. Allah baya son masu girman kai da alfahari. Ku yi kyautatawa ga wasu. Ku ji tausayin raunana. Ku kiyaye dangantakar iyali kuma ku girmama dangi. 4:36
+- Kada ku kasance masu rowa. 4:37
+- Allah baya gafarta a yi shirki da shi, amma Yana gafarta abin da ke ƙasa da hakan ga wanda Yake so. 4:48
+- Kada ku yi hassada ga wasu. 4:54
+- Allah yana umurtar ku da ku mayar da amana ga ma'abutansu. Kuma idan kuna yin hukunci tsakanin mutane, ku yi hukunci da adalci. 4:58
+- Ku yi biyayya ga Allah da ManzonSa. Ku girmama masu mulki a cikinku. 4:59
+- Kada ku zalunci marasa ƙarfi da masu rauni. 4:75
+- Duk alherin da ya same ku, daga Allah ne; kuma duk sharri da ya same ku, daga kanku ne. 4:79
+- Duk wanda ya yi biyayya ga Manzo (Muhammad ﷺ), to ya yi biyayya ga Allah. 4:80
+- Duk wanda ya yi ceto ga wani alheri, zai sami rabinsa na lada; kuma duk wanda ya yi ceto ga wani sharri, zai sami nauyinsa. 4:85
+- Bai kamata Mumini ya kashe Mumini ba, sai dai bisa kuskure. 4:92
+- Duk wanda ya kashe Mumini da gangan, sakamakonsa Jahannama ne, yana dawwama a cikinta. Fushin Allah da la'anarsa suna kansa, kuma an yi masa shirye-shiryen azaba mai girma. 4:93
+- Duk wanda ya yi hijira (daga gidansa) a cikin hanyar Allah, zai sami a duniya wuri da yawa da wadata. 4:100
+- Ku kiyaye lokutan sallarku. 4:103
+- Kada ku goyi bayan waɗanda suka ci amana. 4:105
+- Ku nemi gafarar Allah, lalle Allah Mai gafartawa ne, Mai jin ƙai. 4:106
+- Ya ku waɗanda kuka yi imani! Ku tsaya tsayin daka ga adalci, ku zama shaidu ga Allah, ko da ya kasance a kan kanku, ko iyayenku, ko danginku, ya kasance mai arziki ko matalauci. Kada ku jinkirta adalci; ku yi gaggawar gyara kuskure. 4:135
+- Munafukai suna neman yaudarar Allah, amma Shi ne Yake yaudarar su. 4:142
+- Munafukai za su kasance a cikin mafi ƙasƙancin mataki na Wuta; kuma ba za ku sami mataimaki gare su ba. 4:145
+- Allah baya son a faɗi mugunta a bayyane, sai dai daga wanda aka zalunta. 4:148
+- Manzanni a matsayin masu isar da bushara da masu gargaɗi, domin mutane su kasance ba su da hujja a kan Allah bayan Manzanni. 4:165
+- Ku cika alkawuranku da alƙawuranku. 5:1
+- Ku taimaki juna a kan alheri da taƙawa, kuma kada ku taimaki juna a kan zunubi da zalunci. 5:2
+- Kada ku ci matacce, jini, da naman alade. 5:3
+- Ku yi adalci, kada ƙiyayya da ƙaunar wasu su hana ku yin adalci. Ku yi adalci. Ku sani cewa adalci yana kusa da taƙawa. Kada ku jinkirta adalci; ku yi gaggawar gyara kuskure. 5:8
+- Ku nemi hanyar kusanci ga Allah, kuma ku yi ƙoƙari a kan hanyarsa gwargwadon iyawarku. Domin ku sami nasara. 5:35
+- Ku cika rantsuwarku da alkawuranku. 5:89
+- Ku nisanci giya da barasa. Ku nisanci tsananin giya (dukkan nau'ikan abubuwan sha), caca, Al-Ansab (gumaka), da Al-Azlam (kibau don neman sa'a ko shawara) waɗanda duk suke ƙazantar aikin Shaiɗan. 5:90
+- Kada ku kashe farauta yayin da kuke cikin halin ihrami don Hajji ko Umra (hajji). 5:95
+- Kada ku yi tambaya game da abubuwan da, idan an bayyana muku, za su iya cutar da ku. 5:101
+- Kada ku zagi gumakan wasu. Kada ku zagi abin da suke (kafirai) bautawa baicin Allah, don kada su zagi Allah da jahilci. 6:108
+- Idan kun yi biyayya ga mafi yawan waɗanda suke a duniya, za su ɓatar da ku daga hanyar Allah. Ba su bi komai sai zato, kuma ba su yi komai sai ƙarya. 6:116
+- Ku bar (ya ku mutane) dukan zunubi, bayyane da ɓoye. 6:120
+- Kada ku ci (ya ku muminai) daga (naman) da ba a ambaci sunan Allah a kansa ba (a lokacin yanka). 6:121
+- Duk wanda Allah Yake so Ya shiryar da shi, Yana buɗe ƙirjinsa ga Musulunci; kuma duk wanda Yake so Ya ɓatar da shi, Yana sanya ƙirjinsa maƙuntaka kuma mai tsanani. 6:125
+- Ku kasance masu matsakaici a cikin ciyarwa, ku guji almubazzaranci. Ku kiyaye haƙƙin dukan halittu. 6:141
+- Kada ku yi shirki da Allah, ku kyautata wa iyaye, kada ku kashe 'ya'yanku saboda tsoron talauci, kada ku kusanci alfasha, kada ku kashe wanda Allah Ya haramta, sai da gaskiya. 6:151
+- Ku kasance masu gaskiya; kada ku yi ha'inci a cikin dukan mu'amalarku. Kada ku kusanci dukiyar maraya, sai don inganta ta, ku cika ma'auni da sikeli da adalci, duk lokacin da kuke magana, ku faɗi gaskiya ko da yana shafar dangi na kusa, kuma ku cika alkawarin Allah. 6:152
+- Ku bi hanya madaidaiciya kuma kada ku bi (wasu) hanyoyi, domin za su raba ku daga hanyarSa. 6:153
+- Ka ce (Ya Muhammadu ﷺ): "Lalle, sallata, ibadata, raina, da mutuwata duk ga Allah ne, Ubangijin talikai." 6:162
+- Kada ku kasance masu girman kai. 7:13
+- Kada Shaiɗan ya yaudare ku. 7:27
+- Ka ce (Ya Muhammadu ﷺ): "Ubangijina Ya yi umurni da adalci…" 7:29
+- Ku kiyaye iyakokin da Allah Ya sanya a cikin dukan abubuwa. Ku guji wuce gona da iri a magana da aiki. Ku ci ku sha, amma kada ku yi almubazzaranci. Ku sa tufafi masu kyau a lokacin salla. 7:31
+- Allah Ya halicci sammai da ƙasa a cikin kwana shida, sannan Ya daidaita a kan Al'arshi (a yanayin da ya dace da GirmanSa). 7:54
+- Ku kira Ubangijinku da tawali'u da ɓoye. Shi baya son masu wuce gona da iri. 7:55
+- Kada ku yi ɓarna a cikin ƙasa bayan an gyara ta, kuma ku kira Shi da tsoro da fata. 7:56
+- Amma waɗanda suka aikata mugayen ayyuka, sannan suka tuba daga baya suka yi imani, lalle Ubangijinka daga baya Mai gafartawa ne, Mai jin ƙai. 7:153
+- Ka ce (Ya Muhammadu ﷺ): "Ya ku mutane! Lalle ni Manzon Allah ne zuwa gare ku duka…" 7:158
+- Kuma dukan Sunaye mafi kyau na Allah ne, don haka ku kira Shi da su, kuma ku bar waɗanda suke karkatar da SunayenSa… 7:180
+- Duk wanda Allah Ya ɓatar, babu mai shiryar da shi; kuma Yana barin su a cikin ɓatarsu suna yawo a ruɗe. 7:186
+- Ka yi gafara, ka yi umurni da alheri, kuma ka kau da kai daga jahilai (wato kada ka azabtar da su). 7:199
+- Ku gafarta wa wasu kurakurainsu. 7:199
+- Kuma idan wata iska ta Shaiɗan ta zo maka, to ka nemi tsari ga Allah. Lalle Shi Mai ji ne, Mai sani. 7:200
+- Muminai su ne kawai waɗanda, idan aka ambaci Allah, zukatansu suke rawar jiki, kuma idan aka karanta musu ayoyinSa, sukan ƙara musu imani… 8:2
+- Kada ku yaudari Allah da ManzonSa, kuma kada ku yaudari amanarku da kuka sani. 8:27
+- Idan kun yi biyayya da taƙawa ga Allah, zai ba ku Furqan (ma'auni don rarrabe gaskiya da ƙarya, ko mafita daga kowane wahala). 8:29
+- Waɗanda suka kafirta suna ciyar da dukiyoyinsu don su hana (mutane) daga hanyar Allah, kuma za su ci gaba da ciyar da su; amma a ƙarshe za ta zama baƙin ciki a gare su. 8:36
+- Ka ce wa waɗanda suka kafirta, idan suka daina (kafirta), za a gafarta musu abin da ya gabata. Amma idan suka koma, to misalan waɗanda (aka azabtar) a gabansu sun rigaya sun wuce (a matsayin gargaɗi). 8:38
+- Idan kun haɗu da (maƙiyan) runduna, ku tsaya tsayin daka, ku tuna da sunan Allah da yawa (da harshe da zuciya), domin ku sami nasara. 8:45
+- Kada ku kasance kamar waɗanda suka fita daga gidajensu da girman kai da don a gani ga mutane, kuma (suna hana mutane) daga hanyar Allah. 8:47
+- Allah baya canza wata ni'ima da Ya yi wa wata al'umma, sai sun canza abin da ke a cikin zukatansu. 8:53
+- Mafi sharrin dabbobi a wurin Allah su ne waɗanda suka kafirta. 8:55
+- Allah Yana sanya soyayya da zumunci tsakanin zukatan waɗanda suka yi imani da shi. 8:63
+- Ku kare kuma ku taimaki waɗanda suke neman tsari. 9:6
+- Bai kamata Mushirikai su kula da masallatan Allah ba. 9:17
+- Su (kafirai, Yahudawa da Kiristoci) suna son su kashe hasken Allah (da aka aiko da Muhammadu ﷺ — tauhidi na Musulunci) da bakunansu, amma Allah baya yarda sai Ya cika haskenSa, ko da kafirai sun ƙi. 9:32
+- Sadakokin (zakka) su ne kawai ga: 1) matalauta, 2) mabukata, 3) ma'aikatan da ke tattara su, 4) don sulhunta zukatan waɗanda suka karkata ga Musulunci, 5) don 'yantar da bayi, 6) ga masu bashi, 7) a cikin hanyar Allah (ga Mujahidai), da 8) ga matafiyi. 9:60
+- Duk wanda ya sāɓa wa Allah da ManzonSa (ﷺ) kuma ya yi gāba da su, to lalle akwai Wutar Jahannama a gare shi, yana dawwama a cikinta. Wannan wulakanci ne mai girma. 9:63
+- Munafukai maza da mata, wasunsu daga wasu ne. Sun manta da Allah, shi kuma Ya manta da su. 9:67
+- Ku yi ƙoƙari ga tsarki. Ku girmama tsarkin masallaci. 9:108
+- Bai kamata (Annabi da muminai) su nemi gafarar Allah ga Mushirikai ba, ko da su dangi ne, bayan ya bayyana musu cewa su ma'abuta Wuta ne (saboda sun mutu a kan kafirci). 9:113
+- Wane ne mafi zalunci fiye da wanda ya ƙirƙira ƙarya a kan Allah, ko ya ƙaryata ayoyinSa? Lalle masu laifi ba za su taɓa samun nasara ba! 10:17
+- Suna bauta wa, baicin Allah, abin da ba ya cutar da su, kuma ba ya amfanin su, kuma suna cewa: "Waɗannan su ne masu ceton mu a wurin Allah." Ka ce: "Shin kuna sanar da Allah abin da bai sani ba a cikin sammai da ƙasa?" Tsarki ya tabbata ga Allah, kuma Ya ɗaukaka daga abin da suke yi na shirki! 10:18
+- Sakamakon mugun aiki shi ne irinsa. 10:27
+- Wannan shi ne Allah, Ubangijinku na gaskiya. To bayan gaskiya, me ke akwai sai ɓata? To yaya ake jujjuya ku? 10:32
+- Mafi yawansu ba su bi komai sai zato. Lalle zato ba ya amfanin gaskiya da kome. 10:36
+- Lalle! Allah baya zaluntar mutane da kome; amma mutane ne suke zaluntar kansu. 10:44
+- Ku sani cewa falalar Allah tafi duk abin da mutum zai iya tarawa ko tara. 10:58
+- Kada ku kasance daga waɗanda suka ƙaryata ayoyin Allah, domin ku zama daga masu hasara. 10:95
+- Idan Allah Ya shafe ku da wata cuta, babu mai iya kawar da ita sai Shi; kuma idan Ya yi nufin alheri gare ku, babu mai iya mayar da falalarSa, Yana sanar da ita ga wanda Yake so daga bayinSa. 10:107
+- Babu wata dabba a duniya sai abincinta yana kan Allah. Kuma Ya san wurin zamanta da wurin ajiyarta (a cikin mahaifa, kabari, da sauransu). 11:6
+- Idan Muka ɗanɗana wa mutum wata rahama daga gare Mu, sannan Muka ƙwace ta daga gare shi, lalle yana yanke ƙauna, mai yawan kafirta. 11:9
+- Duk wanda yake nufin rai na duniya da ƙawarta, za Mu cika musu ladan ayyukansu a cikinta, kuma ba za a rage musu kome ba. 11:15
+- Ba Mu zalunce su ba, amma sun zalunci kansu. Gumakansu da suke kira baicin Allah, ba su amfane su da kome a lokacin da umurnin Ubangijinka ya zo, kuma ba su ƙara musu kome sai halaka. 11:101
+- A ranar da za ta zo, babu wani rai da zai yi magana sai da izninSa (Allah). Wasunsu za su kasance masu shaƙa, wasu kuma masu farin ciki. 11:105
+- Amma waɗanda suka yi shaƙa, za su kasance a cikin Wuta, suna da nishi da kuka. 11:106
+- Za su dawwama a cikinta muddin sammai da ƙasa suka dawwama, sai dai abin da Ubangijinka Yake so. Lalle Ubangijinka Mai aikata abin da Yake so ne. 11:107
+- Kuma waɗanda suka yi farin ciki, za su kasance a cikin Aljanna, suna dawwama a cikinta muddin sammai da ƙasa suka dawwama, sai dai abin da Ubangijinka Yake so, kyauta marar yankewa. 11:108
+- Kada ku karkata ga waɗanda suka yi zalunci, don Wuta ta taɓa ku, kuma ba ku da masu tsaro baicin Allah, sannan ba za a taimake ku ba. 11:113
+- Ku tsai da salla a gefen yini biyu da wasu sa'o'i na dare (wato salloli biyar na yau da kullum). Ayyukan alheri suna kawar da miyagun ayyuka (wato ƙananan zunubai). 11:114
+- Ga Allah yake gaibin sammai da ƙasa, kuma zuwa gare Shi ake mayar da dukan al'amura (don yanke hukunci). 11:123
+- Umurni (ko hukunci) na Allah ne kawai. Ya yi umurni da kada ku bauta wa kowa sai Shi (tauhidi), wannan shi ne addini madaidaici, amma mafi yawan mutane ba su sani ba. 12:40
+- Kada ku yanke ƙauna daga rahamar Allah. 12:87
+- Kuma mafi yawan mutane ba za su yi imani ba, ko da kuna marmari sosai. 12:103
+- Kuma mafi yawansu ba su yi imani da Allah ba, sai suna shirki da shi (wato su Mushirikai ne). 12:106
+- Shi (Alƙur'ani) ba maganar ƙirƙira ba ce, amma tabbatar da Littattafan da suka gabata (Attaura, Injila, da sauran Littattafan Allah) da cikakken bayanin kowane abu, da shiriya da rahama ga mutane masu imani. 12:111
+- Allah Yana yalwata arziki ga wanda Yake so, kuma Yana ƙuntatawa (ga wanda Yake so). 13:26
+- Ku tuna da Allah da yawa ta wurin zikiri. Waɗanda suka yi imani da Allah, zukatansu sukan natsu da ambatonSa. 13:28
+- Waɗanda suka yi imani kuma suka aikata ayyukan ƙwarai, suna samun farin ciki da kwanciyar hankali. 13:29
+- Waɗanda suka fifita rayuwar duniya a kan Lãhira, kuma suka hana (mutane) daga hanyar Allah (Musulunci) kuma suka nema ta karkata — waɗannan suna cikin ɓata mai nisa. 14:3
+- Ku yi tawali'u da godiya a cikin ibada. 14:7
+- Misalin waɗanda suka kafirta ga Ubangijinsu, ayyukansu kamar toka ne, wadda iska ke busa da ƙarfi a rana mai guguwa; ba za su iya samun kome daga abin da suka tara ba. 14:18
+- Allah zai tsayar da waɗanda suka yi imani da magana tabbatacciya a duniya (wato za su ci gaba da bauta wa Allah Shi kaɗai) da kuma a Lãhira. 14:27
+- Kada ku yi tunanin cewa Allah bai san abin da azzalumai (Mushirikai, masu zalunci, da sauransu) suke aikatawa ba, amma Yana jinkirta musu har zuwa Rãnar da idanu za su zura. 14:42
+- Domin Allah Ya saka wa kowane rai bisa ga abin da ya tara. Lalle Allah Mai saurin hisabi ne. 14:51
+- Kuma lalle Mun halicci mutum daga ƙera mai ƙara, daga laka baƙar da aka canza. 15:26
+- Kuma Aljanu, Mun halicce su daga baya daga wutar ƙura. 15:27
+- Tana (Jahannama) da ƙofofi bakwai, ga kowace ƙofa akwai (wani) rukuni na masu laifi. 15:44
+- Ya halicci mutum daga ɗigon maniyyi (cakuɗen ruwan namiji da mace), sai ga shi (mutum) ya zama maƙiyi bayyane. 16:4
+- Kuma dabbobi, Ya halicce su dominku; a cikinsu akwai ɗumi (tufafi masu ɗumi), da amfani da yawa, kuma daga cikinsu kuke ci. 16:5
+- Kuma (Ya halicci) dawakai, alfadarai, da jakuna, don ku hau su da kuma ado. Kuma Yana haliccar (wasu) abubuwa waɗanda ba ku sani ba. 16:8
+- Shi ne wanda Ya saukar da ruwa (ruwan sama) daga sama; daga gare shi kuke sha, kuma daga gare shi tsiro yake fitowa wanda kuke kiwon dabbobinku a kansa. 16:10
+- Shi ne wanda Ya hore muku teku, domin ku ci daga gare shi nama mai daɗi (kifi), kuma ku fitar da kayan ado daga gare shi da kuke sawa. 16:14
+- Kuma Ya sanya duwatsu masu tsayi a cikin ƙasa don kada ta karkata da ku, da koguna da hanyoyi, domin ku shiryu. 16:15
+- Shin wanda Yake halitta yana kama da wanda baya halitta? To, ba za ku tuna ba? 16:17
+- Idan kun ƙididdige ni'imomin Allah, ba za ku taɓa iya ƙididdige su ba. 16:18
+- Allah Yana sanin abin da kuke ɓoyewa da abin da kuke bayyanawa. 16:19
+- Waɗanda suke (Mushirikai) kira baicin Allah, ba su halicci kome ba, kuma su kansu an halicce su. 16:20
+- (Su) matattu ne, marasa rai, kuma ba su san yaushe za a tãyar da su ba. 16:21
+- MaganarMu ga wani abu, idan Muka nufa shi, Mu ce masa: "Ka kasance!" sai ya kasance. 16:40
+- Shin waɗanda suke shirya mugayen makirci sun tsira daga Allah Ya shafe su a cikin ƙasa, ko azaba ta zo musu daga inda ba su sani ba? 16:45
+- Dukkan albarka da abin alheri da kuke da su, daga Allah ne. Sa'an nan idan wahala ta shafe ku, zuwa gare Shi kuke kuka da neman taimako. 16:53
+- Sa'an nan idan Ya kawar da wahala daga gare ku, sai ga wasunku suna shirki da Ubangijinsu (Allah). 16:54
+- Lalle a cikin dabbobi akwai darussa gare ku. Muna shayar da ku daga abin da ke cikin cikkunansu, tsakanin najasa da jini, madara tsantsa, mai daɗi ga masu sha. 16:66
+- Don haka kada ku yi misãli ga Allah (domin bãbu abin da yake kama da Shi, kuma Shi bã ya kama da kome). Lalle Allah Ya sani, kuma ku ba ku sani ba. 16:74
+- Ku sani cewa Allah Ya bai wa mutane ji, gani, hankali, da motsin rai, domin su yi godiya. 16:78
+- Ku guji kwadayi da rowa. 16:97
+- Idan kuna son karatun Alƙur'ani, ku nemi tsari ga Allah daga Shaiɗan, wanda aka la'ana. 16:98
+- Ku sani cewa zunubin da aka yi da jahilci ana gafartawa idan mutum ya tuba ya gyara kansa. 16:119
+- Ku yi kira (Ya Muhammadu ﷺ) zuwa ga hanyar Ubangijinka (Musulunci) da hikima da wa'azi mai kyau, kuma ku yi musu muhawara da mafi kyawun hanya. Kira ga hanyar Allah ya kamata a yi shi da hikima da kyautatawa. 16:125
+- Lalle Allah Yana tare da waɗanda suka yi taƙawa (waɗanda suka kiyaye hakkinsa) da waɗanda suke kyautatawa. 16:128
+- Wannan Alƙur'ani yana shiryarwa zuwa ga abin da yake mafi daidai da mafi kyau. 17:9
+- Babu mai ɗaukar nauyin wani. 17:15
+- Duk wanda ya yi nufin Lãhira kuma ya yi ƙoƙari a cikinta, da ƙoƙarin da ya dace da ita, alhali yana Mumini, to waɗannan su ne ƙoƙarinsu zai zama abin gode da sakamako (daga Allah). 17:19
+- Ku girmama iyayenku, ku kyautata musu. Ku yi biyayya ga iyaye. Kada ku ce musu uffan. Kuma Ubangijinka Ya yi umurni da kada ku bauta wa kowa sai Shi. Kuma ku kyautata wa iyayenku. Idan ɗayansu ko dukansu suka kai ga tsufa a wurinka, kada ka ce musu "Kash!" kuma kada ka tsawata musu, ka yi musu magana mai daraja. 17:23
+- Kuma ka runtse musu fikafikan tawali'u da rahama, ka ce: "Ubangijina! Ka ji tausayinsu kamar yadda suka rene ni sa'ad da nake ƙarami." 17:24
+- Lalle masu almubazzaranci 'yan'uwan Shaiɗanu ne, kuma Shaiɗan ya kasance mai kafirta ga Ubangijinsa. 17:27
+- Kada ku yi almubazzaranci da kuɗi. 17:29
+- Kada ku kashe 'ya'yanku saboda tsoron talauci. 17:31
+- Kada ku kusanci zina. Ku kiyaye tsarkin aure, ku guji zina. 17:32
+- Ku cika ma'auni idan kuna auna, kuma ku auna da sikeli madaidaici. Wannan shi ne mafi kyau (mafi amfani) kuma mafi kyau a ƙarshe. 17:35
+- Kada ka bi (ya mutum, wato kada ka faɗi, ko ka yi, ko ka shaida, da sauransu) abin da ba ka da masaniya a kansa (misali mutum ya ce: "Na gani," alhali bai gani ba, ko "Na ji," alhali bai ji ba). 17:36
+- Ku kasance masu tawali'u, kada ku kasance masu girman kai. Kada ku yi tafiya a duniya da girman kai. Lalle ba za ku iya huda ƙasa ba, kuma ba za ku iya kai ga tsayin duwatsu ba. 17:37
+- Ubangijinka Ya fi sanin ku; idan Ya so, zai ji tausayinku, ko kuma idan Ya so, zai azabtar da ku. 17:54
+- Duk wanda ya kasance makaho a duniya (wato bai ga ayoyin Allah ba kuma bai yi imani da Shi ba), zai kasance makaho a Lãhira, kuma mafi ɓata daga hanya. 17:72
+- Ku kiyaye lokutan salla da aka wajabta. 17:78
+- Lalle Mun bayyana wa mutane a cikin wannan Alƙur'ani kowane irin misali, amma mafi yawan mutane sun ƙi (gaskiya) sai kafirci. 17:89
+- Mun gabatar da kowane irin misali a cikin wannan Alƙur'ani ga mutane. Amma mutum ya fi kowane abu yawan jayayya. 18:54
+- Wannan shi ne sakamakonsu, Jahannama; saboda sun kafirta kuma suka ɗauki ayoyiNa da ManzanniNa a matsayin abin ba'a da izgili. 18:106
+- Bai dace da (Girman) Allah ba Ya ɗauki ɗa (wannan yana nuni ga zargin Kiristoci a kan Allah, da cewa Yesu ɗan Allah ne). Tsarki ya tabbata ga Allah (kuma Ya ɗaukaka daga abin da suke yi na shirki). 19:35
+- Ku yi magana da mutane cikin sauki. 20:44
+- Ku yi tsere a cikin ayyukan alheri. 21:90
+- Ku guji maganganun banza. 23:3
+- Ku kiyaye kunyanku. 23:5
+- Ku kiyaye zukatanku daga karkata zuwa zunubi. 23:97
+- Ku gafarta wa wasu, ku yafe musu laifinsu. 24:22
+- Ku girmama sirrin wasu, musamman a cikin gidajensu. Ku cika haƙƙin maƙwabta. 24:27
+- Ku runtse idanunku (ga maza da mata). Ku kiyaye kunyanku da tsarkinku. 24:30
+- Ku kasance masu kunya a cikin sutura da ɗabi'a. 24:31
+- Ku sani cewa Allah Yana ba da tsaro da kwanciyar hankali ga waɗanda suke bauta masa kuma suna aikata alheri. 24:55
+- Kada ku shiga ɗakin iyayenku ba tare da izini ba. 24:58
+- Ku kasance masu tawali'u da ƙanƙan da kai. 25:63
+- Ku guji shaidar ƙarya da yaudara. 25:72
+- Ku yi ƙoƙari don samun lada a Lãhira, amma kada ku yi watsi da al'amuranku na duniya. 28:77
+- Kada ku kira wani abin bautãwa tare da Allah. 28:88
+- Kada ku shiga cikin luwadi. 29:29
+- Ku yi ƙoƙari don kyautatawa a dukkan ƙoƙarinku. 29:69
+- Ku tsai da salla, ku bayar da zakka. 31:4
+- Ku yi umurni da alheri, ku hana mugunta. 31:17
+- Ku guji girman kai a cikin ɗabi'arku. Kada ku ɓata lokaci a cikin maganganun banza. 31:18
+- Ku kasance masu matsakaici a cikin tafiyarku da ƙarfin muryarku. 31:19
+- Ku bi misalin Annabi Muhammadu. 33:21
+- Mata kada su nuna ko su yi alfahari da kyansu da ƙawansu. 33:33
+- Ku faɗi gaskiya a kowane yanayi. 33:70
+- Ku nemi hikima da fahimta ta wurin tunani. 38:29
+- Ku yi biyayya ga umarnin Alƙur'ani. 39:23
+- Allah Yana gafartawa dukan zunubai idan mai zunubi ya tuba kuma ya koma gare Shi. 39:53
+- Ku yi addu'a ta gaskiya (du'a) ga Allah. 40:60
+- Ku kawar da mugunta da abin da yake mafi kyau. 41:34
+- Ku yanke shawara a cikin al'amura ta wurin shawara. 42:38
+- Kada ku ɗaga muryoyinku sama da muryar Annabi. 49:2
+- Ku kiyaye asirin, ku guji cin amana. 49:6
+- Ku sauƙaƙe zaman lafiya tsakanin masu rikici. Ku nemi sulhu a cikin rigingimu. 49:9
+- Kada ku yi izgili da wasu. 49:11
+- Ku guji zato. Ku guji leƙen asiri da gulma. Kada ku yi gulma ko kazafi ga wasu. Ku nisanci dukan nau'ikan gulma da kazafi. Kada ku bari girman kai ya kai ku ga zalunci. 49:12
+- Ku sani cewa mafi darajanku a wurin Allah shi ne mafi taƙawarku. Ku girmama bambance-bambancen da ke tsakanin mutane da al'adu. 49:13
+- Ku girmama baƙi. 51:26
+- Ku kasance masu kula da hakkin ku ga Allah. 51:56
+- Ku ciyar da dukiya a cikin sadaka. 57:7
+- Ku sani cewa babu ruhubaniyya (barin aure da jin daɗi kamar sufaye, mata masu ibada, ko wasu da suke rayuwa a ƙarƙashin alkawuran addini, ko gine-ginen da suke rayuwa a ciki) a cikin addini. 57:27
+- Kada ku bari dukiya ta shagaltar da ku daga tunawa da Allah. 58:11
+- Waɗanda suka sami ilimi, Allah zai ɗaukaka su da darajoji. 58:11
+- Ku yi kyautatawa da adalci ga waɗanda ba Musulmai ba. 60:8
+- Ku guji munafunci a cikin imaninku da ayyukanku. 63:9
+- Ku nisanci kwadayi da rowa. 64:16
+- Ku kiyaye wahayin da aka ba ku amana. 73:15
+- Ku tuna da Rãnar Ƙiyama. 75:36
+- Ku yi umurni da haƙuri da tausayi. 90:17
+- Waɗanda suka tsarkake ransu sun sami nasara, kuma waɗanda suka ɓata shi sun yi hasara. 91:10
+- Kada ku yi watsi da ko ku kore mabukata. 93:10
+- Ku nemi ilimi da fahimta. Ku karanta Alƙur'ani ku yi tunani a kansa. 96:1–5
+- Ku ƙarfafa ciyar da matalauta. 107:3
 """;

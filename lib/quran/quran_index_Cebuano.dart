@@ -3317,4 +3317,280 @@ Matching Phrases 8 words
 - Si Allah nagapahalapad sa panustos kang bisan kinsa nga Iyang gusto sa Iyang mga ulipon ug nagapig-ot. (اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ) 28:82; 29:62
 - Ug kamo pagabalik ngadto sa Nahibalo sa dili makita ug sa makita, ug Siya magpahibalo kaninyo sa inyong mga gibuhat. (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
 - Ug ang mga paryente, ang uban kanila mas duol sa uban diha sa Kasulatan sa Allah. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
+cmds - Commands, Exhortations, Prohibitions, Instructions
+- fard / wajib (فرض / واجب) — obligado (kinahanglan buhaton; sala kung biyaan)
+- mustahabb / mandub (مستحب / مندوب) — girekomenda (ganti-an kung buhaton, dili sala kung biyaan)
+- mubah (مباح) — neyutral / gitugotan (walay ganti o sala)
+- makruh (مكروه) — dili ganahan (wala giawhag, apan dili sala kung buhaton)
+- haram (حرام) — gidili (sala kung buhaton)
+- halal (حلال, gitugotan / legal) — naglakip sa mubah ug mustahabb — bisan unsa nga dili gidili
+- Simbaha lamang si Allah ug pangayo og tabang/kaayohan Kaniya. 1:5
+- Simbaha lamang si Allah. 2:21
+- Ayaw pagpakig-uban og mga kauban kang Allah. 2:22
+- Si Allah mao ang Magpapasaylo (modawat sa paghinulsol), Gihatagan Niya og pagdawat ang paghinulsol ni Adan (عَلَيْهِ ٱلسَّلَامُ). 2:37
+- Ayaw isagol ang kamatuoran sa bakak, ni itago ang kamatuoran. 2:42
+- Tumani ang As-Salat (adlaw-adlaw nga mga pag-ampo), ug ihatag ang Zakat (limos). 2:43
+- Sugoa ang uban sa pagbuhat og maayo human ninyo kini praktisa. 2:44
+- Pangayo og tabang kang Allah sa tanan ninyong mga butang. 2:45
+- Ayaw pag-apil o pagpakaylap sa korapsyon. 2:60
+- Ayaw pugngi ang mga tawo sa pag-adto sa mga balay-ampoan. 2:114
+- Tahura ang pagkabalaan sa mosque. Hupita nga limpyo ug putli ang inyong mga dapit-ampoan. 2:125
+- Hinumdumi si Allah (pinaagi sa pag-ampo, pagdayeg, ug uban pa) ug Siya magahinumdom kaninyo, ug magpasalamat Kaniya. 2:152
+- Pagmapailubon sa mga kasakitan. 2:153
+- Ayaw sunda ang mga tunob ni Satanas nga bukas nga kaaway. 2:168
+- Ayaw sunda bisan kinsa nga buta-buta. 2:170
+- Bantayi ug tumani ang tanang pagsalig. Tumani ang inyong relihiyosong mga katungdanan uban sa pagkamatinud-anon. Tumani ang inyong mga panumpa ug mga kasabotan. Tumana ang mga saad, labi na kadtong gihimo kang Allah. Tabangi ang mga nanginahanglan ug pahupaya ang mga kalisdanan. Likayi ang paghimo og mga sala nga mosangpot sa pagkawala sa pabor sa Diyos. Ayaw itugot nga ang garbo magdala kaninyo sa inhustisya. 2:177
+- Adunay kinabuhi alang kaninyo sa Al-Qisas (Balaod sa Pagkaparehas sa silot). 2:179
+- Pagpuasa panahon sa Ramadan. Tumana ang gimando nga pagpuasa aron mahimong Al-Muttaqun (ang mga diosnon). 2:183
+- Tahura ang Quran isip katapusang gigikanan sa giya. 2:185
+- Ayaw kan-a ang kabtangan sa usag usa nga dili matarong, ni paghatag og suborno sa mga maghuhukom (sa wala pa ninyo ipresentar ang inyong mga kaso). 2:188
+- Ayaw daugdauga ang uban, pinaagi sa pulong o buhat. Ayaw gayud pag-apil sa gubat isip tig-atake, apan para lamang sa depensa. 2:190
+- Panalipdi ang mga ilo. Bahin sa mga ilo, pagtrabaho og matinud-anon sa ilang kabtangan ug ayaw lamyon ang ilang kabtangan. 2:220
+- Paghinulsol ug pangayo og pasaylo kang Allah. Ayaw pagpakighilawas panahon sa pagregla. Hupti ang kahinlo (pisikal ug espiritwal). 2:222
+- Tumana ang inyong mga responsibilidad sa inyong pamilya. 2:233
+- Pilia ang mga lider base sa ilang katakus. 2:247
+- Ayaw pagpamugos sa relihiyon. 2:256
+- Gasto-a ang bahandi sa paglimos. Pagkamanggihatagon sa bahandi ug oras. 2:261
+- Ayaw pakyasa ang paglimos pinaagi sa pagbugalbugal sa inyong pagka-manggihatagon. 2:264
+- Si Satanas naghulga kaninyo sa kakabus ug nagmando kaninyo sa paghimo og mga dautan (mga dautan nga buhat, ilegal nga pakighilawas, mga sala). 2:268
+- Pangitaa ang mga nanginahanglan ug tabangi sila. 2:273
+- Ayaw pag-apil sa usury o interes. Ayaw kan-a ang kabtangan nga adunay interes. Ayaw kan-a ang Riba (usury). 2:275
+- Hatagi og dugang panahon sa pagbayad kung ang may utang anaa sa kalisod. 2:280
+- Tumana ang inyong pulong sa mga negosyo. Pagmatinud-anon sa inyong pinansyal nga mga transaksyon. Paglihok uban ang integridad sa tanan ninyong mga pasalig. Kung magkontrata og utang alang sa usa ka tinakdang panahon, isulat kini. Pagdala og mga saksi sa matag higayon nga maghimo kamo og kontrata. 2:282
+- Bantayi ug tumani ang tanang pagsalig. 2:283
+- Pagtuo sa gipadayag nga mga Libro ug sa tanang mga Propeta. 2:285
+- Si Allah dili magpabug-at sa usa ka tawo nga labaw sa iyang makaya. Sila makadawat og ganti sa ilang maayong binuhatan, ug silotan sa ilang dautang binuhatan. Ang Diyos dili magpabug-at sa tawo nga labaw sa iyang makaya; kita usab kinahanglan dili mobuhat niini. Salig sa plano ni Allah bisan sa kalisdanan. 2:286
+- Bisan kinsa nga motuman sa mga saad ug mahadlok kang Allah pag-ayo, nan si Allah nahigugma sa mga matarong. 3:76
+- Paghimo sa Hajj (panaw) kung makahimo. 3:97
+- Ayaw pagbulag-bulag. 3:103
+- Sugoa ang maayo ug idili ang dautan. Awhaga ang pagkamatarong sa inyong komunidad. Tawga ang uban sa paghinumdom kang Allah. 3:104
+- Ang mga magtotoo kinahanglan mosalig kang Allah. 3:122
+- Ayaw kan-a ang Riba (usury). 3:130
+- Suguta si Allah ug ang Iyang Mensahero aron makadawat og kalooy. 3:132
+- Gihigugma ni Allah kadtong mga naggasto (sa hinungdan ni Allah – mga buhat sa paglimos, ug uban pa) sa kalamboan ug sa kalisdanan, kadtong nagpugong sa kasuko, ug kadtong nagpasaylo sa mga tawo. 3:134
+- Pugngi ang kasuko. Kontrolaha ang inyong kasuko. 3:134
+- Pasayloa ug pasagdi ang mga sayop sa uban. 3:135
+- Ayaw pagpakabastos sa sinultihan. Pagmapailubon sa mga nagkalahi kaninyo. 3:159
+- Kung tabangan kamo ni Allah, walay makapildi kaninyo; ug kung biyaan kamo Niya, kinsa man ang makatabang kaninyo human Niya? 3:160
+- Ang matag usa makatilaw og kamatayon. Ug sa Adlaw sa Pagkabanhaw lamang kamo makadawat sa inyong bug-os nga bayad. 3:185
+- Hunahunaa pag-ayo ang mga katingalahan sa kinaiyahan ug ang paglalang niining uniberso. Hibaloi nga ang Diyos naglalang sa uniberso nga adunay kahulugan ug katuyoan. 3:191
+- Ang mga lalaki ug babaye adunay managsamang ganti alang sa ilang mga buhat. 3:195
+- Alang sa mga mahadlok sa ilang Ginoo, adunay mga Hardin nga may mga suba nga nag-agay ilalom niini (sa Paraiso); didto sila magpabilin sa kahangtoran, usa ka pag-abiabi gikan kang Allah. 3:198
+- Paningkamoti kanunay ang kalipay ni Allah sa matag lihok. 3:200
+- Magmatinahuron sa inyong Ginoo, kahadloki Siya ug (ayaw putla ang mga relasyon sa) mga paryente (pagkakamag-anak). 4:1
+- Ihatag sa mga ilo ang ilang kabtangan ug ayaw ilisdan (ang inyong dautan) sa ilang (maayo); ug ayaw kan-a ang ilang kabtangan (pinaagi sa pagdugang niini sa inyoha). 4:2
+- Ihatag sa mga babaye (nga inyong pakaslan) ang ilang Mahr (obligatoryong regalo sa kasal nga gihatag sa bana sa iyang asawa sa panahon sa kasal) uban ang maayong kasingkasing. 4:4
+- Bantayi ang mga katungod sa mga ilo. 4:6
+- Ang kabtangan sa namatay kinahanglan ipang-apod-apod sa iyang mga membro sa pamilya. Ang mga babaye adunay katungod sa kabilin. 4:7
+- Ayaw kan-a ang kabtangan sa mga ilo nga dili matarong. 4:10
+- Suguta ang mga sugo bahin sa kabilin. 4:11
+- Gidili ang pagpanunod sa mga babaye batok sa ilang gusto, ug ayaw sila pagtratar og bastos. Pakigsabut sa ila (mga asawa) sa maayong paagi. Tahura ug bantayi ang mga katungod sa mga babaye. Tratara ang imong kapikas uban ang pagkamabination ug kalooy. Tratara ang mga babaye uban ang kadungganan ug katarungan. 4:19
+- Ayaw pakasal sa mga kadugo ninyo. 4:23
+- Ayaw patya ang inyong kaugalingon (ni ang usag usa). Si Allah mao ang Labing Maluluy-on kaninyo. Ayaw kan-a ang kabtangan sa usag usa nga dili matarong. 4:29
+- Kung likayan ninyo ang dagkong mga sala nga gidili, pasayloon ni Allah ang inyong (gagmay) nga mga sala, ug dad-on kamo sa usa ka Halangdon nga Pultahan (Paraiso). 4:31
+- Ayaw pangandoy sa mga butang nga gihatag ni Allah kaninyo nga labaw sa uban. Likayi ang pagpang-imbot ug pagkahilawon. 4:32
+- Ang mga lalaki mao ang mga manalipod ug tag-atiman sa mga babaye, tungod kay gihatagan ni Allah ang uban kanila og labaw kay sa uban, ug tungod kay sila naggasto (sa ilang pagpadayon) gikan sa ilang bahandi. Ang lalaki mao ang manalipod ug tigpaluyo sa pamilya. 4:34
+- Simbaha si Allah ug ayaw pagpakig-uban Kaniya og bisan unsa, pagbuhat og maayo sa mga ginikanan, mga paryente, mga ilo, mga kabus, ang silingan, ang kauban sa inyong kiliran, ang magpapanaw (nga inyong makit-an), ug kadtong (mga ulipon) nga gipanag-iyahan sa inyong tuo nga kamot. Si Allah dili ganahan sa mga mapahitas-on ug mga bugalbugalon. Pagbuhat og maayo sa uban. Pakita og kalooy sa mga mahuyang. Hupti ang mga bugkos sa pamilya ug pasidunggi ang mga paryente. 4:36
+- Ayaw pagkahakog. 4:37
+- Si Allah dili magpasaylo sa pagpakig-uban Kaniya og mga kauban, apan Siya nagpasaylo sa bisan unsa gawas niana ngadto kang kinsa Iyang gusto. 4:48
+- Ayaw pang-imbot sa uban. 4:54
+- Si Allah nagsugo kaninyo sa pagbalik sa mga pagsalig ngadto sa ilang mga tag-iya. Kung maghukom kamo tali sa mga tawo, paghukom uban ang katarungan. 4:58
+- Suguta si Allah ug ang Iyang Mensahero. Hatagi og saktong pagtahud kadtong mga awtoridad sa inyong taliwala. 4:59
+- Ayaw daugdauga ang mga mahuyang ug daling madaugdaug. 4:75
+- Bisan unsang kaayohan nga moabot kaninyo, gikan kini kang Allah; apan bisan unsang dautan nga moabot kaninyo, gikan kini sa inyong kaugalingon. 4:79
+- Siya nga mituman sa Mensahero (Muhammad ﷺ), mituman na kang Allah. 4:80
+- Bisan kinsa nga mopataliwala alang sa usa ka maayong hinungdan makadawat og ganti niini, ug bisan kinsa nga mopataliwala alang sa usa ka dautan nga hinungdan makadawat og bahin sa iyang sala. 4:85
+- Dili angay alang sa usa ka magtotoo nga mopatay sa usa ka magtotoo gawas kon kini sayop. 4:92
+- Bisan kinsa nga mopatay sa usa ka magtotoo sa tinuyo, ang iyang balos mao ang Impiyerno nga iyang puy-an sa kahangtoran. Ang Kasuko ug ang Tunglo ni Allah naa kaniya, ug usa ka dako nga silot ang giandam alang kaniya. 4:93
+- Siya nga molalin (gikan sa iyang balay) sa dalan ni Allah, makakaplag sa yuta og daghang mga puy-anan ug daghan nga ikabuhi. 4:100
+- Pagtukma sa inyong mga pag-ampo. 4:103
+- Ayaw pagsuporta o pagka-abogado sa mga nagbudhi sa ilang mga pagsalig. 4:105
+- Pangayo og Pasaylo kang Allah, si Allah mao ang Labing Mapasayloon, Labing Maluluy-on. 4:106
+- O kamo nga mga nagatuo! Pagbarug og lig-on alang sa katarungan, isip mga saksi kang Allah, bisan batok sa inyong kaugalingon, o sa inyong mga ginikanan, o sa inyong mga paryente, siya adunahan man o kabus. Ayaw paglangan sa katarungan; lihok dayon sa pagtul-id sa mga sayop. 4:135
+- Ang mga tigpakaaron-ingnon naningkamot sa paglimbong kang Allah, apan Siya mao ang naglimbong kanila. 4:142
+- Ang mga tigpakaaron-ingnon anaa sa kinahiladman nga (ang-ang) sa Kalayo; ug makakaplag kamo og walay magtatabang alang kanila. 4:145
+- Si Allah dili ganahan nga ang dautan isulti sa publiko gawas sa usa ka tawo nga giinjustisya. 4:148
+- Ang mga Mensahero ingon nga tigdala sa maayong balita ingon man mga tigpasidaan aron ang mga tawo walay rason batok kang Allah human sa mga Mensahero. 4:165
+- Tumana ang inyong mga kontrata ug mga saad. 5:1
+- Suportahi ang usag usa sa pagkamaayo ug pagka-diyosnon, dili sa sala ug panag-away. 5:2
+- Ayaw kan-a ang patay nga hayop, ang dugo sa mga hayop, o ang karne sa baboy. 5:3
+- Pagmakiangayon, ayaw itugot nga ang panag-away ug pagdumot sa uban makapalikay kaninyo sa katarungan. Pagmakiangayon. Hibaloi nga ang pagkamakiangayon haduol sa pagka-diyosnon. Ayaw paglangan sa katarungan; lihok dayon sa pagtul-id sa mga sayop. 5:8
+- Pangitaa ang mga paagi sa pagduol kang Allah, ug paningkamuti ang Iyang Dalan sa tibuok ninyong makaya. Aron kamo magmalampuson. 5:35
+- Tumana ang inyong mga panumpa ug mga kasabotan. 5:89
+- Likayi ang makahubog ug alkohol. Likayi pag-ayo ang mga makahubog (tanang klase sa mga ilimnon nga alkohol), ang pagsugal, ang Al-Ansab (mga halaran nga bato), ug ang Al-Azlam (mga udyong sa pagpangita og swerte o desisyon) nga tanan mga dulumtanan nga buhat ni Satanas. 5:90
+- Ayaw pagpatay og ihalas nga hayop samtang kamo anaa sa estado sa Ihram alang sa Hajj o 'Umrah (panaw). 5:95
+- Ayaw pagpangutana mahitungod sa mga butang nga, kung ipatin-aw kaninyo, makapasamok kaninyo. 5:101
+- Ayaw pagpasipala sa mga diyos sa uban. Ayaw pagpasipala sa ilang (mga dili magtotoo) gisimba gawas kang Allah, kay basin pasipalaan nila si Allah sa sayop nga walay kahibalo. 6:108
+- Kung kamo mosugot sa kadaghanan sa mga naa sa yuta, ila kamo nga ipahisalaag gikan sa Dalan ni Allah. Sila nagsunod lamang sa mga pangagpas, ug sila nagbuhat lamang og bakak. 6:116
+- Biyai (O katawhan) ang tanang matang sa sala, dayag ug tinago. 6:120
+- Ayaw kan-a (O mga magtotoo) kadtong (karne) nga wala ginganli si Allah (sa panahon sa pag-ihaw sa hayop). 6:121
+- Bisan kinsa nga gusto ni Allah nga giyahan, Iyang giablihan ang iyang dughan alang sa Islam, ug bisan kinsa nga gusto Niyang ipahisalaag, Iyang gihimo ang iyang dughan nga hugot ug hiktin. 6:125
+- Pagmapaubsanon sa paggasto ug likayi ang pag-usik. Panalipdi ang mga katungod sa tanang mga linalang. 6:141
+- Ayaw pagpakig-uban kang Allah og bisan unsa sa pagsimba, pagbuhat og maayo sa mga ginikanan, ayaw patya ang inyong mga anak tungod sa kakabus, ayaw pagduol sa mga makauulaw nga buhat, ayaw patya ang bisan kinsa nga gidili ni Allah, gawas sa makatarunganong rason. 6:151
+- Pagmatinud-anon; ayaw pagpanglimbong sa bisan unsa sa inyong mga transaksyon. Ayaw pagduol sa kabtangan sa ilo, gawas aron kini mapauswag, ihatag ang bug-os nga sukod ug bug-os nga timbang uban ang katarungan, sa matag higayon nga kamo mosulti, isulti ang kamatuoran bisan ang paryente ang maapektuhan, ug tumana ang Kasabotan ni Allah. 6:152
+- Sunda ang Tul-id nga Dalan ug ayaw pagsunod sa (uban) nga mga dalan, kay kini magbulag kaninyo gikan sa Iyang Dalan. 6:153
+- Iingon (O Muhammad ﷺ): "Sa pagkatinuod, ang akong pag-ampo, ang akong paghalad, ang akong kinabuhi, ug ang akong kamatayon alang kang Allah, ang Ginoo sa tanang kalibutan." 6:162
+- Ayaw pagkahambog. 7:13
+- Ayaw itugot nga limbongan kamo ni Satanas. 7:27
+- Iingon (O Muhammad ﷺ): "Ang akong Ginoo nagsugo sa katarungan…" 7:29
+- Sunda ang mga utlanan nga gisakop ni Allah sa tanang butang. Likayi ang paglapas sa pagsulti ug lihok. Kaon ug inom apan ayaw pagpalabi. Pagsul-ob og maayong mga bisti sa panahon sa pag-ampo. 7:31
+- Si Allah naglalang sa mga langit ug sa yuta sa unom ka Adlaw, ug dayon Siya milingkod sa Truno (sa paagi nga angay sa Iyang Kaharuhay). 7:54
+- Pag-ampo sa inyong Ginoo uban ang pagpaubos ug sa tago. Siya dili ganahan sa mga tiglapas. 7:55
+- Ug ayaw pagpatuyang sa kadautan sa yuta, human kini naayo, ug pag-ampo Kaniya uban ang kahadlok ug paglaum. 7:56
+- Apan kadtong mga naghimo og mga dautan nga buhat ug unya naghinulsol human niana ug mitoo, sa pagkatinuod, ang inyong Ginoo human niana Labing Mapasayloon, Labing Maluluy-on. 7:153
+- Iingon (O Muhammad ﷺ): "O katawhan! Sa pagkatinuod, ako gipadala kaninyong tanan isip Mensahero ni Allah…" 7:158
+- Ug (tanan) ang Labing Matahum nga mga Ngalan iya kang Allah, busa tawga Siya pinaagi niini, ug biyai ang mga naglimod (o nagpasipala) sa Iyang mga Ngalan… 7:180
+- Bisan kinsa nga ipahisalaag ni Allah, walay makagiya kaniya; ug Iyang sila gitugotan nga maglatagaw nga buta sa ilang mga paglapas. 7:186
+- Pakita og pasaylo, sugoa ang maayo, ug palayo sa mga buang (ie ayaw sila siloti). 7:199
+- Pasayloa ang uban sa ilang mga sayop. 7:199
+- Ug kung ang usa ka dautan nga pag-aghat moabot kanimo gikan kang Satanas, nan pagpangayo og dangpanan kang Allah. Siya mao ang Labing Mamati, Labing Maalamon. 7:200
+- Ang mga magtotoo mao lamang kadtong, kung gihisgutan si Allah, ang ilang mga kasingkasing mobati og kahadlok, ug kung ang Iyang mga Bersikulo irecitahan kanila, kini makadugang sa ilang Pagtuo… 8:2
+- Ayaw pagbudhi kang Allah ug sa Iyang Mensahero, ug ayaw pagbudhi sa inyong mga pagsalig (ug sa tanang mga katungdanan nga gimando ni Allah kaninyo). 8:27
+- Kung kamo motuman ug mahadlok kang Allah, Ihatag Niya kaninyo ang Furqan (usa ka sumbanan aron mahibal-an ang kamatuoran ug sayop, o usa ka paagi sa pag-ikyas gikan sa tanang kalisdanan). 8:29
+- Kadtong mga dili motoo naggasto sa ilang bahandi aron makapugong (sa mga tawo) gikan sa Dalan ni Allah, ug sila magpadayon sa paggasto niini; apan sa katapusan kini mahimong usa ka kasubo alang kanila. 8:36
+- Ingna kadtong mga midili sa pagtuo, kung sila mohunong (sa ilang pagka-dili motoo) ang ilang nangagi mapasaylo. Apan kung sila mobalik (niana), nan ang mga sumbanan sa mga (nasilotan) sa ilang una nangagi na (ingon nga pasidaan). 8:38
+- Kung kamo makigkita sa (usa ka kaaway) nga pwersa, pagbarug og lig-on ug hinumdumi pag-ayo ang Ngalan ni Allah (pinaagi sa dila ug hunahuna), aron kamo magmalampuson. 8:45
+- Ayaw pagpakasama sa mga milakaw sa ilang mga balay uban ang pagpanghambog ug aron makita sa mga tawo, ug (nagpugong sa mga tawo) gikan sa Dalan ni Allah. 8:47
+- Si Allah dili gayud mag-usab sa usa ka grasya nga Iyang gihatag sa usa ka katawhan hangtud nga sila mag-usab sa naa sa ilang kaugalingon. 8:53
+- Ang labing dautan nga mga linalang sa atubangan ni Allah mao kadtong mga dili motoo. 8:55
+- Ang Diyos nagbutang og gugma ug pagmahal tali sa mga kasingkasing sa mga mitoo Kaniya. 8:63
+- Panalipdi ug tabangi kadtong mga nangayo og proteksyon. 9:6
+- Dili angay alang sa mga Mushrikun, ang pagpadayon sa mga Mosque ni Allah. 9:17
+- Sila (ang mga dili motoo, ang mga Hudiyo ug ang mga Kristiyano) gusto nga palongon ang Kahayag ni Allah (nga gihatag kang Muhammad ﷺ — Islamikong Monotheism) pinaagi sa ilang mga baba, apan si Allah dili motugot gawas sa Iyang Kahayag nga mahingpit, bisan og ang mga Kafirun nagdumot niini. 9:32
+- Ang As-Sadaqat (ie Zakat) alang lamang sa: 1) mga kabus, 2) mga nanginahanglan, 3) kadtong gitrabaho sa pagkolekta niini, 4) sa pagdani sa mga kasingkasing sa mga nahilig sa Islam, 5) sa pagpahigawas sa mga binilanggo, 6) sa mga may utang, 7) alang sa hinungdan ni Allah (ie alang sa mga Mujahidun), ug 8) alang sa magpapanaw. 9:60
+- Bisan kinsa nga mosupak ug mahimong kaaway kang Allah ug sa Iyang Mensahero (ﷺ), sa pagkatinuod alang kaniya ang Kalayo sa Impiyerno nga iyang puy-an sa kahangtoran. Kana usa ka dako nga kaulawan. 9:63
+- Ang mga tigpakaaron-ingnon, mga lalaki ug mga babaye, managsama. Sila nakalimot kang Allah, busa Iya silang nakalimtan. 9:67
+- Paningkamoti ang kahinlo. Tahura ang pagkabalaan sa mosque. 9:108
+- Dili angay (alang sa Propeta ug kadtong mga nagatuo) sa pagpangayo og Pasaylo kang Allah alang sa mga Mushrikun bisan sila mga paryente, human kini klaro na kanila nga sila mga pumuyo sa Kalayo (tungod kay sila namatay sa kahimtang sa pagka-dili motoo). 9:113
+- Kinsa may mas dautan kay sa naghimo og bakak batok kang Allah o naglimod sa Iyang mga Bersikulo? Sa pagkatinuod, ang mga kriminal dili gayud magmalampuson! 10:17
+- Sila nagsimba gawas kang Allah sa mga butang nga dili makadaut kanila, ni makapulos kanila, ug sila nag-ingon: "Kini sila ang among mga tigpataliwala kang Allah." Iingon: "Nagpahibalo ba kamo kang Allah sa wala Niya mahibalo-i sa mga langit ug sa yuta?" Himaya Kaniya ug Labaw Siya sa ilang gipakig-uban Kaniya! 10:18
+- Ang balos sa usa ka dautan nga buhat mao ang sama niini. 10:27
+- Mao kana si Allah, ang inyong Ginoo sa kamatuoran. Busa human sa kamatuoran, unsa pa man ang nahabilin gawas sa sayop? Unsa man ang inyong pagtalikod? 10:32
+- Kadaghanan kanila nagsunod lamang sa mga pangagpas. Sa pagkatinuod, ang pangagpas walay pulos batok sa kamatuoran. 10:36
+- Sa pagkatinuod! Si Allah dili nagdaugdaug sa mga tawo sa bisan unsa; apan ang mga tawo nagdaugdaug sa ilang kaugalingon. 10:44
+- Hibaloi nga ang gasa sa Diyos mas maayo kay sa bisan unsa nga matigum o matipon sa tawo. 10:58
+- Ayaw pagpakabahin niadtong mga naglimod sa mga Bersikulo ni Allah, kay nan kamo mahiuban niadtong mga napildi. 10:95
+- Kung si Allah makahikap kanimo og kadaut, walay makakuha niini gawas Kaniya; ug kung Siya nagtinguha og kaayohan alang kanimo, walay makapugong sa Iyang Grasya nga Iyang gihatag kang kinsa Iyang gusto sa Iyang mga ulipon. 10:107
+- Walay buhing linalang sa yuta nga ang pagkaon dili gikan kang Allah. Ug nahibalo Siya sa iyang puy-anan ug sa iyang tipiganan (sa tagoangkan, lubnganan, ug uban pa). 11:6
+- Kung kita maghatag sa tawo og tilaw sa Kalooy Gikan Kanato, ug dayon kuhaon kini kaniya, sa pagkatinuod! Siya nawad-an og paglaum, ug dili mapasalamaton. 11:9
+- Bisan kinsa nga nangandoy sa kinabuhi sa kalibutan ug sa iyang kahayag; sila atong hatagan sa bug-os (nga bayad) sa ilang mga buhat niini, ug sila walay pagkunhod niini. 11:15
+- Wala namo sila daugdauga, apan sila ang nagdaugdaug sa ilang kaugalingon. Busa ang ilang mga diyos, gawas kang Allah, nga ilang gipangayoan, walay pulos kanila sa pag-abot sa Sugo sa inyong Ginoo, ug wala sila makadugang (sa ilang bahin) gawas sa kalaglagan. 11:101
+- Sa Adlaw nga moabut kini, walay tawo nga mosulti gawas pinaagi sa Iyang (Allah) Pagtugot. Ang uban kanila mga alaut ug (ang uban) mga bulahan. 11:105
+- Bahin sa mga alaut, sila naa sa Kalayo, nag-agulo sa taas ug ubos nga tingog. 11:106
+- Sila magpabilin didto sa tanang panahon nga ang mga langit ug ang yuta magpadayon, gawas kon ang inyong Ginoo magtinguha. Sa pagkatinuod, ang inyong Ginoo mao ang Tigbuhat sa Iyang gusto. 11:107
+- Ug kadtong mga bulahan, sila naa sa Paraiso, magpabilin didto sa tanang panahon nga ang mga langit ug ang yuta magpadayon, gawas kon ang inyong Ginoo magtinguha, usa ka gasa nga walay katapusan. 11:108
+- Ayaw pagpabor sa mga naghimo og inhustisya, aron ang Kalayo dili makahikap kaninyo, ug kamo walay mga magtatabang gawas kang Allah, ni kamo matabangan. 11:113
+- Tumani ang As-Salat sa duha ka tumoy sa adlaw ug sa pipila ka mga oras sa kagabhion (ie 5 ka adlaw-adlaw nga pag-ampo). Ang maayong mga buhat makapapahawa sa mga dautan (ie gagmay nga mga sala). 11:114
+- Kang Allah nahisakop ang Ghaib (dili makita) sa mga langit ug sa yuta, ug Kaniya mobalik ang tanang mga butang (alang sa desisyon). 11:123
+- Ang sugo (o paghukom) alang lamang kang Allah. Siya nagsugo nga kamo magsimba Kaniya lamang (Iyang Monotheism), kana mao ang (tinuod) nga tul-id nga relihiyon, apan ang kadaghanan sa mga tawo wala kahibalo. 12:40
+- Ayaw gayud pagwad-i ang paglaum sa Kalooy ni Allah. 12:87
+- Ug ang kadaghanan sa mga tawo dili motuo bisan og kamo naningkamot pag-ayo. 12:103
+- Ug ang kadaghanan kanila dili motuo kang Allah gawas nga sila nagpakig-uban Kaniya (ie sila mga Mushrikun). 12:106
+- Kini (ang Quran) dili usa ka tinumotumo nga pulong apan usa ka pagmatuod sa mga Libro ni Allah (ang Taurat, ang Injeel ug uban pang mga Kasulatan) ug usa ka detalyadong pagpasabut sa tanan ug usa ka giya ug usa ka Kalooy alang sa mga tawo nga nagatuo. 12:111
+- Si Allah nagpadaghan sa panginabuhi kang kinsa Iyang gusto, ug nagpahiktin (kang kinsa Iyang gusto). 13:26
+- Hinumdumi kanunay si Allah pinaagi sa dhikr. Kadtong mga mitoo sa Diyos makakaplag og kalipay sa paghinumdom Kaniya. 13:28
+- Kadtong mga mitoo ug nagbuhat og maayo gihatagan og kalipay ug kalinaw sa hunahuna. 13:29
+- Kadtong mga nagpalabi sa kinabuhi niining kalibutan kay sa Kinabuhi sa Umaabot, ug nagpugong (sa mga tawo) gikan sa Dalan ni Allah (ie Islam) ug nagtinguha og pagkabaldado niini – Sila hataas ang pagkasayop. 14:3
+- Pagmapaubsanon ug mapasalamaton sa pagsimba. 14:7
+- Ang sambingay sa mga wala motoo sa ilang Ginoo mao nga ang ilang mga buhat sama sa abo, nga kusog nga gihuyop sa hangin sa usa ka bagyo nga adlaw; sila dili makakuha og bisan unsa sa ilang naangkon. 14:18
+- Pahamutangon ni Allah kadtong mga nagatuo, pinaagi sa lig-on nga pulong niining kalibutana (ie sila magpadayon sa pagsimba kang Allah lamang ug wala nay lain), ug sa Kinabuhi sa Umaabot. 14:27
+- Ayaw hunahunaa nga si Allah wala mahibalo sa gibuhat sa mga Zalimun (mga Mushrik, mga tigdaugdaug, ug uban pa), apan Iya silang gihatagan og palugit hangtud sa Adlaw nga ang mga mata maglantaw sa kalisang. 14:42
+- Aron si Allah magbalus sa matag tawo sumala sa iyang naangkon. Si Allah mao ang Kusog sa pag-ihap. 14:51
+- Ug sa pagkatinuod, kami naglalang sa tawo gikan sa yutang-kulonon nga may tingog, gikan sa itom nga lapok nga nausab. 15:26
+- Ug sa mga jinn, kami naglalang kanila kaniadto gikan sa siga nga kalayo nga walay aso. 15:27
+- Kini (Impiyerno) adunay pito ka mga pultahan, alang sa matag pultahan adunay (espesyal) nga klase sa mga makasasala. 15:44
+- Siya naglalang sa tawo gikan sa Nutfah (sinagol nga tulo sa lalaki ug babaye nga sekswal nga pluwido), nan tan-awa, kining (tawo) nahimong usa ka bukas nga kaatbang. 16:4
+- Ug ang mga kahayupan, Siya naglalang kanila alang kaninyo; sa ila naay kainit (mga mainit nga bisti), ug daghang mga kaayohan, ug gikan kanila kamo mokaon. 16:5
+- Ug (Siya naglalang) sa mga kabayo, mga mula ug mga asno, alang kaninyo sa pagsakay ug ingon nga dayandayan. Ug Siya naglalang (sa uban) nga mga butang nga wala ninyo mahibaloi. 16:8
+- Siya ang nagpaubos sa tubig (ulan) gikan sa langit; gikan niini kamo moinom ug gikan niini motubo ang mga tanom nga inyong gipakaon sa inyong mga kahayupan. 16:10
+- Siya ang nagpaubos sa dagat (kaninyo), aron kamo mokaon gikan niini og presko nga malumong karne (isda), ug nga kamo makakuha gikan niini og mga dayandayan nga inyong isul-ob. 16:14
+- Siya nagbutang sa yuta og mga bukid nga lig-on, aron kini dili makurog uban kaninyo, ug mga suba ug mga dalan, aron kamo makagiya sa inyong kaugalingon. 16:15
+- Siya ba nga Naglalang sama kaniya nga dili makalang? Dili ba kamo mahinumdom? 16:17
+- Kung kamo mag-ihap sa mga grasya ni Allah, dili gayud ninyo kini maihap. 16:18
+- Nahibalo si Allah sa inyong gitago ug sa inyong gipadayag. 16:19
+- Kadtong ilang (mga Mushrikun) gipangayoan gawas kang Allah wala maglalang og bisan unsa, apan sila mismo mga linalang. 16:20
+- (Sila) mga patay, walay kinabuhi, ug sila wala kahibalo kanus-a sila pagabanhawon. 16:21
+- Ang among Pulong ngadto sa usa ka butang kon among gusto kini, mao lamang ang among pag-ingon niini: "Mahimo!" ug kini mahimo. 16:40
+- Nan kadtong mga nagplano og mga dautan nga laraw mobati ba nga luwas nga si Allah dili magpaunlod kanila sa yuta, o nga ang silot dili moabot kanila gikan sa mga direksyon nga wala nila mahibaloi? 16:45
+- Bisan unsang mga panalangin ug maayong mga butang nga inyong nabatonan, kini gikan kang Allah. Unya, kon ang kadaut moduol kaninyo, Kaniya kamo mangayo og tabang. 16:53
+- Unya, kon Iya nang gitangtang ang kadaut gikan kaninyo, tan-awa! Ang uban kaninyo nagpakig-uban sa ilang Ginoo (Allah) sa pagsimba. 16:54
+- Sa mga kahayupan, adunay leksyon alang kaninyo. Kami naghatag kaninyo og ilimnon gikan sa naa sa ilang mga tiyan, tali sa mga hugaw ug dugo, puti nga gatas; makapalipay sa mga nag-inom. 16:66
+- Busa ayaw paghatag og mga sambingay kang Allah (kay walay sama Kaniya, ni Siya nahisama sa bisan unsa). Si Allah nahibalo ug kamo wala kahibalo. 16:74
+- Hibaloi nga ang Diyos naghatag sa tawo og pandungog, panan-aw, salabutan, ug mga pagbati aron sila magmapasalamaton. 16:78
+- Likayi ang pagkahakog ug pagkaimad. 16:97
+- Kon kamo gusto mobasa sa Quran, pangayo og dangpanan kang Allah gikan kang Satanas, ang isinumpa. 16:98
+- Hibaloi nga ang sayop nga nahimo sa pagkawalay alamag mapasaylo kon ang tawo maghinulsol ug magtul-id sa iyang kaugalingon. 16:119
+- Tawga (O Muhammad ﷺ) ang mga tawo sa Dalan sa inyong Ginoo (ie Islam) uban ang kaalam ug maayong pagtudlo, ug lalisa sila sa paagi nga mas maayo. Ang pagtawag sa uban sa dalan sa Diyos kinahanglan buhaton uban ang kaalam ug pagkamabination. 16:125
+- Si Allah kauban sa mga nahadlok Kaniya (nagtuman sa ilang katungdanan Kaniya), ug kadtong mga Muhsinun (mga tigbuhat og maayo). 16:128
+- Kining Qurana naggiya ngadto sa labing matarong ug husto. 17:9
+- Walay tawo nga makapas-an sa sala sa laing tawo. 17:15
+- Bisan kinsa nga nangandoy sa Kinabuhi sa Umaabot ug naningkamot alang niini, uban sa gikinahanglang paningkamot alang niini samtang siya usa ka magtotoo, nan kadtong mga tawhana ang ilang paningkamot pabilhan ug paga gantihan (ni Allah). 17:19
+- Pasidunggi ang inyong mga ginikanan ug tratara sila uban ang pagkamabination. Magmatinahuron sa mga ginikanan. Ayaw pagsulti og bisan unsang pulong nga walay pagtahud sa mga ginikanan. Ug ang inyong Ginoo nagmando nga kamo magsimba Kaniya lamang. Ug nga kamo magmatinahuron sa inyong mga ginikanan. Kon ang usa kanila o ang duha moabot sa pagkatigulang sa inyong kinabuhi, ayaw pagsulti kanila og bisan unsang pulong nga walay pagtahud, ni pagsinggit kanila, apan sultihi sila uban ang mga pulong sa pagtahud. 17:23
+- Ug ipaubos kanila ang pako sa pagpaubos ug kalooy, ug ingna: "Ginoo ko! Hatagi sila sa Imong Kalooy sama sa ilang pagpadako kanako sa diha ako bata pa." 17:24
+- Sa pagkatinuod, ang mga gastador mga igsoon sa mga Shayatin (mga yawa), ug si Satanas kanunay nga dili mapasalamaton sa iyang Ginoo. 17:27
+- Ayaw pag-usik-usik og kwarta. 17:29
+- Ayaw patya ang inyong mga anak tungod sa kahadlok sa kakabus. 17:31
+- Ayaw pagpanapaw. Bantayi ang pagkabalaan sa kaminyoon ug likayi ang panapaw. 17:32
+- Ihatag ang bug-os nga sukod kon kamo magsukod, ug timbanga uban ang tul-id nga timbangan. Kana maayo (mapuslanon) ug mas maayo sa katapusan. 17:35
+- Ayaw pagsunod (O tawo, ie ayaw pag-ingon, o pagbuhat, o pagsaksi, ug uban pa) sa wala ninyo kahibaloi (pananglitan ang pag-ingon sa usa ka tawo: "Akong nakita," samtang wala siya nakakita, o "Akong nadungog," samtang wala siya nakadungog). 17:36
+- Pagmapaubsanon ug ayaw pagkahambog. Ayaw paglakaw sa yuta uban ang pagkahambog ug pagkatagbaw. Sa pagkatinuod, kamo dili makabuak sa yuta, ni makab-ot ang gihabogon sa mga bukid. 17:37
+- Ang inyong Ginoo nahibalo pag-ayo kaninyo; kon Iyang gusto, Siya maluoy kaninyo, o kon Iyang gusto, Siya mosilot kaninyo. 17:54
+- Bisan kinsa nga buta niining kalibutana (ie wala makakita sa mga Timailhan ni Allah ug wala motuo Kaniya), mabuta sa Kinabuhi sa Umaabot, ug mas hataas pa ang pagkasayop gikan sa Dalan. 17:72
+- Bantayi ang gitakdang mga oras sa pag-ampo. 17:78
+- Sa pagkatinuod, kami nagpatin-aw pag-ayo sa katawhan, niining Qurana, sa matag matang sa sambingay, apan ang kadaghanan sa katawhan midumili (sa kamatuoran ug wala modawat) gawas sa pagka-dili motoo. 17:89
+- Kami nagpresentar sa tanang matang sa mga pananglitan niining Qurana, alang sa katawhan. Apan, ang tawo labaw pa nga hilig sa pag-away kay sa bisan unsa. 18:54
+- Kana maoy ilang balos, Impiyerno; tungod kay sila midili sa pagtuo ug naghimo sa Akong mga Bersikulo ug Akong mga Mensahero nga butang nga kataw-anan ug pagbugalbugal. 18:106
+- Dili angay (sa Kaharuhay ni Allah) nga Siya magkaanak (kini nagtumong sa pasipala sa mga Kristiyano batok kang Allah, pinaagi sa pag-ingon nga si Hesus mao ang anak sa Diyos). Himaya Kaniya (ug Labaw Siya sa ilang gipakig-uban Kaniya). 19:35
+- Pagpakigsulti sa mga tawo uban ang kalumo. 20:44
+- Pag-indigay sa pagbuhat og maayo. 21:90
+- Likayi ang walay pulos nga mga pulong. 23:3
+- Bantayi ang inyong pagkapainubsanon. 23:5
+- Bantayi ang inyong kasingkasing batok sa mga hilig sa sala. 23:97
+- Pasayloa ang uban ug pasagdi ang ilang mga sayop. 24:22
+- Tahura ang pribasiya sa uban, labi na sa ilang kaugalingong mga balay. Tumana ang mga katungod sa mga silingan. 24:27
+- Ipaubos ang inyong panan-aw (alang sa mga lalaki ug mga babaye). Bantayi ang inyong pagkapainubsanon ug kaputli. 24:30
+- Bantayi ang pagkapainubsanon sa bisti ug kinaiya. 24:31
+- Hibaloi nga ang Diyos naghatag og seguridad ug kalinaw sa mga nagasimba Kaniya ug naglihok uban ang pagkamaayo. 24:55
+- Ayaw pagsulod sa pribadong kwarto sa mga ginikanan nga walay pagpangayo og permiso. 24:58
+- Pagmapaubsanon ug mahilumon. 25:63
+- Likayi ang bakak nga pagsaksi ug paglimbong. 25:72
+- Paningkamoti ang ganti sa Kinabuhi sa Umaabot apan ayaw pasagdi ang inyong mga butang niini nga kalibutan. 28:77
+- Ayaw pag-ampo sa bisan unsang laing diyos uban kang Allah. 28:88
+- Ayaw pag-apil sa homosekswalidad. 29:29
+- Paningkamoti ang kahingpitan sa tanan ninyong mga paningkamot. 29:69
+- Tumani ang pag-ampo ug ihatag ang limos. 31:4
+- Sugoa ang maayo ug idili ang dautan. 31:17
+- Likayi ang pagkahambog sa inyong kinaiya. Likayi ang pag-usik sa oras sa walay pulos nga istorya. 31:18
+- Pagmapaubsanon sa inyong paglakaw ug sa kusog sa inyong tingog. 31:19
+- Sunda ang panig-ingnan sa Propeta Muhammad. 33:21
+- Ang mga babaye dili angay magpakita o magpabugal sa ilang katahum ug mga dayandayan. 33:33
+- Isulti ang kamatuoran sa tanang kahimtang. 33:70
+- Pangita og kaalam ug pagsabot pinaagi sa pamalandong. 38:29
+- Suguta ang mga sugo sa Quran. 39:23
+- Ang Diyos nagpasaylo sa tanang sala kon ang makasasala maghinulsol ug moduol Kaniya. 39:53
+- Paghimo og matinud-anon nga duʿā (pag-ampo) kang Allah. 40:60
+- Bawsan ang dautan pinaagi sa butang nga mas maayo. 41:34
+- Desisyunan ang mga butang pinaagi sa konsultasyon. 42:38
+- Ayaw ipataas ang inyong tingog labaw sa tingog sa Propeta. 49:2
+- Tipigi ang mga sekreto ug likayi ang pagluib. 49:6
+- Pasayona ang kalinaw tali sa mga naa sa panagbangi. Pangita og pagpasig-uli sa mga panagbangi. 49:9
+- Ayaw pagbiaybiay sa uban. 49:11
+- Likayi ang pagkahibudngan. Likayi ang pag-espiya ug pagtabi-tabi. Ayaw pagbutangbutang o pagdaot sa uban. Likayi ang tanang matang sa pagtabi-tabi ug pagbutangbutang. Ayaw itugot nga ang garbo magdala kaninyo sa inhustisya. 49:12
+- Hibaloi nga ang pagkamaayo lamang ang naghimo sa usa ka tawo nga halangdon. Tahura ang mga kalainan tali sa mga tawo ug mga kultura. 49:13
+- Pasidunggi ang mga bisita. 51:26
+- Pagmatngon sa inyong mga katungdanan ngadto kang Allah. 51:56
+- Gasto-a ang bahandi sa paglimos. 57:7
+- Hibaloi nga walay monastisismo (pagsalikway sa kaminyoon ug mga kahupayan sama sa mga monghe, madre, o uban pa nga nagpuyo ubos sa relihiyosong mga panumpa, o ang mga bilding nga ilang gipuy-an) sa relihiyon. 57:27
+- Ayaw itugot nga ang bahandi makapalayo kaninyo sa paghinumdom kang Allah. 58:11
+- Kadtong adunay kahibalo hatagan og mas taas nga ranggo sa Diyos. 58:11
+- Tratara ang mga dili Muslim sa maayo ug makatarunganong paagi. 60:8
+- Likayi ang pagpakaaron-ingnon sa inyong mga pagtuo ug mga buhat. 63:9
+- Palayo sa pagkahakog ug pagkaimad. 64:16
+- Bantayi ang mga pagpadayag nga gisalig kaninyo. 73:15
+- Pagmatngon sa Adlaw sa Paghukom. 75:36
+- Sugoa ang pagpailub ug kalooy. 90:17
+- Kadtong nagputli sa ilang mga kalag molampos, ug kadtong nagdaot niini mapakyas. 91:10
+- Ayaw pasagdi o aboga ang mga kabus. 93:10
+- Pangita og kahibalo ug pagsabot. Basaha ug pamalandungi ang Quran. 96:1–5
+- Awhaga ang pagpakaon sa mga kabus. 107:3
 """;

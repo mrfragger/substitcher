@@ -3316,4 +3316,280 @@ Matching Phrases 8 words
 - Zoti e zgjeron furnizimin kujt do nga robërit e Tij dhe e ngushton. (اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ) 28:82; 29:62
 - Dhe do të ktheheni te Njohësi i të padukshmes dhe të dukshmes, e do t'ju lajmërojë për atë që keni bërë. (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
 - Dhe të afërmit e gjakut janë më të afërt me njëri-tjetrin në Librin e Zotit. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
+cmds - Commands, Exhortations, Prohibitions, Instructions
+- fard / wajib (فرض / واجب) — i detyrueshëm (duhet bërë; mëkat nëse lihet)
+- mustahabb / mandub (مستحب / مندوب) — i rekomanduar (shpërblehet nëse bëhet, nuk është mëkat nëse lihet)
+- mubah (مباح) — neutral / i lejuar (as shpërblim as mëkat)
+- makruh (مكروه) — i urryer (i dekurajuar, por jo mëkat nëse bëhet)
+- haram (حرام) — i ndaluar (mëkat të bëhet)
+- halal (حلال, i lejuar / i ligjshëm) — përfshin edhe mubah edhe mustahabb — çdo gjë që nuk është e ndaluar
+- Adhuro vetëm Allahun dhe kërko ndihmën/assistencën e Tij. 1:5
+- Adhuro vetëm Allahun. 2:21
+- Mos i shoqëro Allahut asnjë shok. 2:22
+- Allahu është Ai që fal (pranon pendimin), Ai e pranoi pendimin e Ademit (paqja qoftë mbi të). 2:37
+- Mos e përzieni të vërtetën me gënjeshtrën, dhe mos e fshihni të vërtetën. 2:42
+- Kryeni namazin (faljen e përditshme), dhe jepni zeqatin (lëmoshën). 2:43
+- Urdhëroni të tjerët për virtyt vetëm pasi ta praktikoni vetë. 2:44
+- Kërko ndihmën e Allahut në të gjitha çështjet e tua. 2:45
+- Mos u angazhoni në korrupsion dhe mos e përhapni atë. 2:60
+- Mos i pengoni njerëzit të shkojnë në shtëpitë e adhurimit. 2:114
+- Respektoni shenjtërinë e xhamisë. Mbani vendet tuaja të lutjes të pastra dhe të pastërta. 2:125
+- Kujtoni Allahun (duke falur, lavdëruar, etj.) dhe Ai do t'ju kujtojë juve, dhe jini mirënjohës ndaj Tij. 2:152
+- Praktikoni durimin në vështirësi. 2:153
+- Mos ndiqni gjurmët e Shejtanit (Djallit) i cili është armik i hapur. 2:168
+- Mos ndiqni askënd në mënyrë të verbër. 2:170
+- Ruani dhe përmbushni të gjitha besimet. Kryeni detyrat tuaja fetare me sinqeritet. Përmbushni betimet dhe marrëveshjet tuaja. Mbani premtimet, veçanërisht ato që i bëni Allahut. Mbështetni ata në nevojë dhe lehtësoni vështirësitë. Shmangni kryerjen e mëkateve që çojnë në humbjen e favors hyjnore. Mos lejoni që krenaria t'ju çojë në padrejtësi. 2:177
+- Në kisas (Ligji i Barazisë në ndëshkim) ka jetë për ju. 2:179
+- Agjëroni gjatë muajit të Ramazanit. Respektoni agjërimin e caktuar për t'u bërë Muttekun (të devotshmit). 2:183
+- Respektoni Kuranin si burimin përfundimtar të udhëzimit. 2:185
+- Mos e hani pasurinë e njëri-tjetrit në mënyrë të padrejtë, dhe mos u jepni ryshfet gjyqtarëve (përpara se të paraqisni çështjet tuaja). 2:188
+- Mos shtypni të tjerët, qoftë me fjalë apo me vepra. Kurrë mos luftoni si agresor, por vetëm në mbrojtje. 2:190
+- Mbroni jetimët. Sa u përket jetimëve, punoni me ndershmëri në pasurinë e tyre dhe mos e përvetësoni pasurinë e tyre. 2:220
+- Pendohuni dhe kërkoni faljen e Allahut. Mos kryeni marrëdhënie seksuale gjatë periudhës së menstruacioneve. Ruani pastërtinë dhe pastërtinë (si fizikisht ashtu edhe shpirtërisht). 2:222
+- Përmbushni përgjegjësitë tuaja ndaj familjes suaj. 2:233
+- Zgjidhni udhëheqësit bazuar në meritat e tyre. 2:247
+- Mos ushtroni detyrim në fe. 2:256
+- Shpenzoni pasurinë në bamirësi. Jini bamirës si në pasuri ashtu edhe në kohë. 2:261
+- Mos e prishni bamirësinë duke u mburrur për bujarinë tuaj. 2:264
+- Shejtani (Djalli) ju kërcënon me varfëri dhe ju urdhëron të kryeni vepra të ndyra (vepra të këqija, marrëdhënie seksuale të paligjshme, mëkate). 2:268
+- Kërkoni nevojtarët dhe ndihmoni ata. 2:273
+- Mos u përfshini me kamatë ose interes. Mos e konsumoni pasurinë me interes. Mos e hani ribanë (kamatën). 2:275
+- Jepni më shumë kohë për të shlyer nëse debitori është në vështirësi. 2:280
+- Mbani fjalën tuaj në transaksionet tregtare. Jini të sinqertë në çështjet tuaja financiare. Veproni me integritet në të gjitha angazhimet tuaja. Kur të lidhni një borxh për një periudhë të caktuar, shkruajeni atë. Merrni dëshmitarë sa herë që lidhni një kontratë tregtare. 2:282
+- Ruani dhe përmbushni të gjitha besimet. 2:283
+- Besoni në Librat e zbritur dhe në të gjithë Profetët. 2:285
+- Allahu nuk e ngarkon një person përtej aftësisë së tij. Ata marrin shpërblim për të mirat që kanë fituar, dhe ndëshkohen për të këqijat që kanë fituar. Zoti nuk e ngarkon njeriun përtej kapacitetit të tij; as ne nuk duhet ta bëjmë këtë. Besoni në planin e Allahut edhe në vështirësi. 2:286
+- Kush i përmbush premtimet dhe i frikësohet shumë Allahut, atëherë Allahu i do ata që janë të devotshëm. 3:76
+- Kryeni haxhin (pelegrinazhin) nëse jeni në gjendje. 3:97
+- Mos u përçani. 3:103
+- Urdhëroni të mirën dhe ndaloni të keqen. Nxitni drejtësinë në komunitetin tuaj. Thirrini të tjerët në përkujtimin e Allahut. 3:104
+- Te Allahu duhet të mbështeten besimtarët. 3:122
+- Mos e hani ribanë (kamatën). 3:130
+- Bindjuni Allahut dhe të Dërguarit të Tij për të marrë mëshirë. 3:132
+- Allahu i do ata që shpenzojnë (në çështjen e Allahut – vepra bamirësie, lëmoshë, etj.) në begati dhe në vështirësi, ata që frenojnë zemërimin dhe ata që ua falin njerëzve. 3:134
+- Frenoni zemërimin. Kontrolloni zemërimin tuaj. 3:134
+- Falni dhe ndjeni gabimet e të tjerëve. 3:135
+- Mos u bëni të vrazhdë në fjalim. Jini të durueshëm me ata që ndryshojnë nga ju. 3:159
+- Nëse Allahu ju ndihmon, askush nuk mund t'ju mposhtë; dhe nëse Ai ju braktis, kush është pas Tij që mund t'ju ndihmojë? 3:160
+- Secili do të shijojë vdekjen. Dhe vetëm në Ditën e Ringjalljes do t'ju paguhet shpërblimi i plotë. 3:185
+- Mendoni thellësisht për mrekullitë e natyrës dhe krijimin e këtij universi. Dijeni se Zoti e krijoi universin me kuptim dhe qëllim. 3:191
+- Burrat dhe gratë kanë shpërblim të barabartë për veprat e tyre. 3:195
+- Për ata që i frikësohen Zotit të tyre, ka kopshte nën të cilët rrjedhin lumenj (në Xhenet); aty do të banojnë përgjithmonë, si mikpritje nga Allahu. 3:198
+- Përpiquni gjithmonë për kënaqësinë e Allahut në çdo veprim. 3:200
+- Jini të devotshëm ndaj Zotit tuaj, frikësohuni Atij dhe (mos i prisni lidhjet) e farefisnisë (të afërmve). 4:1
+- Jepuni jetimëve pasurinë e tyre dhe mos e shkëmbeni (të keqen tuaj) me të mirën e tyre; dhe mos e hani pasurinë e tyre (duke ia shtuar pasurisë tuaj). 4:2
+- Jepuni grave (që martoheni) mehrin e tyre (dhuratën e detyrueshme të martesës që burri i jep gruas në kohën e martesës) me zemër të mirë. 4:4
+- Ruani të drejtat e jetimëve. 4:6
+- Pasuria e të vdekurit duhet të shpërndahet midis anëtarëve të familjes së tij. Gratë kanë të drejtë trashëgimie. 4:7
+- Mos e hani pasurinë e jetimëve në mënyrë të padrejtë. 4:10
+- Bindjuni urdhërimeve në lidhje me trashëgiminë. 4:11
+- Është e ndaluar të trashëgoni gratë kundër vullnetit të tyre, dhe nuk duhet t'i trajtoni ato me ashpërsi. Jetoni me to (gratë) në mënyrë të ndershme. Respektoni dhe respektoni të drejtat e grave. Trajtoni bashkëshortin tuaj me mirësi dhe dhembshuri. Trajtoni gratë me nder dhe drejtësi. 4:19
+- Mos martohuni me ata që janë të afërm të gjakut me ju. 4:23
+- Mos e vrisni veten (as njëri-tjetrin). Sigurisht, Allahu është Mëshirues ndaj jush. Mos e hani pasurinë e njëri-tjetrit në mënyrë të padrejtë. 4:29
+- Nëse shmangni mëkatet e mëdha që janë të ndaluara të bëhen, Allahu do t'ju falë mëkatet (e vogla) tuaja dhe do t'ju futë në një hyrje fisnike (d.m.th. Xhenet). 4:31
+- Mos lakmoni ato gjëra me të cilat Allahu ka bërë që disa prej jush t'i kalojnë të tjerët. Shmangni zilinë dhe xhelozinë. 4:32
+- Burrat janë mbrojtës dhe mbajtës të grave, sepse Allahu i ka bërë ata të shquar njëri ndaj tjetrit, dhe sepse ata shpenzojnë (për t'i mbajtur ato) nga pasuria e tyre. Burri është mbrojtës dhe mbështetës i familjes. 4:34
+- Adhuroni Allahun dhe mos i shoqëroni Atij asnjë shok në adhurim, bëju mirë prindërve, të afërmve, jetimëve, të varfërve, fqinjit, shokut pranë jush, udhëtarit (që takoni) dhe atyre (skllevërve) që zotëroni. Allahut nuk i pëlqejnë ata që janë krenarë dhe mburravecë. Bëju mirë të tjerëve. Trego mëshirë për ata që janë të dobët. Ruani lidhjet familjare dhe nderoni të afërmit. 4:36
+- Mos u bëni koprracë. 4:37
+- Allahu nuk fal që t'i shoqërohet Atij shok në adhurim, por fal çdo gjë tjetër përveç kësaj, kujt të dojë Ai. 4:48
+- Mos i keni zili të tjerët. 4:54
+- Allahu ju urdhëron që t'ua ktheni besimet atyre që u përkasin. Kur të gjykoni midis njerëzve, gjykoni me drejtësi. 4:58
+- Bindjuni Allahut dhe të Dërguarit të Tij. Respektoni ata që janë në autoritet midis jush. 4:59
+- Mos shtypni të dobëtit dhe të prekshmit. 4:75
+- Çdo e mirë që ju vjen, është nga Allahu, por çdo e keqe që ju godet, është nga vetvetja juaj. 4:79
+- Ai që i bindet të Dërguarit (Muhammedit ﷺ), i është bindur Allahut. 4:80
+- Kushdo që ndërmjetëson për një qëllim të mirë, do të ketë shpërblimin e tij, dhe kushdo që ndërmjetëson për një qëllim të keq, do të ketë pjesën e tij në barrën e tij. 4:85
+- Nuk është e drejtë për një besimtar të vrasë një besimtar, përveçse gabimisht. 4:92
+- Kush vret një besimtar me qëllim, shpërblimi i tij është Xhehennemi, ku do të banojë përgjithmonë. Zemërimi dhe Mallkimi i Allahut janë mbi të, dhe një ndëshkim i madh është përgatitur për të. 4:93
+- Ai që emigron (nga shtëpia e tij) në rrugën e Allahut, do të gjejë në tokë shumë vendbanime dhe shumë për të jetuar. 4:100
+- Jini të përpiktë në faljet tuaja. 4:103
+- Mos mbështetni dhe mos jini avokat për ata që tradhtojnë besimet e tyre. 4:105
+- Kërkoni Faljen e Allahut, sigurisht, Allahu është Falës dhe Mëshirues. 4:106
+- O ju që besoni! Qëndroni me vendosmëri për drejtësinë, si dëshmitarë të Allahut, edhe nëse është kundër vetvetes suaj, ose prindërve tuaj, ose të afërmve tuaj, qoftë ai i pasur apo i varfër. Mos e vononi drejtësinë; veproni menjëherë për të korrigjuar të gabuarat. 4:135
+- Hipokritët kërkojnë të mashtrojnë Allahun, por Ai i mashtron ata. 4:142
+- Hipokritët do të jenë në fundin më të ulët (e shkallës) të Zjarrit; dhe nuk do të gjeni ndihmës për ta. 4:145
+- Allahut nuk i pëlqen që e keqja të shprehet publikisht, përveç atij që është dëmtuar. 4:148
+- Të Dërguarit si përcjellës të lajmit të mirë dhe si paralajmërues, në mënyrë që njerëzit të mos kenë arsye kundër Allahut pas (ardhjes së) të Dërguarve. 4:165
+- Përmbushni kontratat dhe premtimet tuaja. 5:1
+- Mbështetni njëri-tjetrin në virtyt dhe devotshmëri, jo në mëkat dhe armiqësi. 5:2
+- Mos konsumoni kafshë të ngordhura, gjakun e kafshëve ose mish derri. 5:3
+- Bëni drejtësi, dhe mos lejoni që armiqësia dhe urrejtja ndaj të tjerëve t'ju bëjë të shmangni drejtësinë. Jini të drejtë dhe të ndershëm në marrëdhëniet tuaja. Dijeni se të qenit i drejtë është afër devotshmërisë. Mos e vononi drejtësinë; veproni menjëherë për të korrigjuar të gabuarat. 5:8
+- Kërkoni mjetet për t'iu afruar Allahut dhe përpiquni në rrugën e Tij sa më shumë që të mundeni. Në mënyrë që të jeni të suksesshëm. 5:35
+- Përmbushni betimet dhe premtimet tuaja. 5:89
+- Shmangni pijet dehëse dhe alkoolin. Shmangni rreptësisht dehëset (të gjitha llojet e pijeve alkoolike), bixhozin, gurët e altarëve (Al-Ansab) dhe shigjetat (për kërkim të fatit) të cilat janë të gjitha vepra të ndyra të Shejtanit. 5:90
+- Mos vritni gjah ndërsa jeni në gjendje ihrami për haxh ose umre. 5:95
+- Mos pyetni për gjëra që, nëse do t'ju bëheshin të qarta, mund t'ju shkaktonin vështirësi. 5:101
+- Mos i fyesni zotat e të tjerëve. Mos i fyesni ata që (jobesimtarët) adhurojnë përveç Allahut, sepse ata do të fyejnë Allahun pa dije. 6:108
+- Nëse i bindeni shumicës së atyre që janë në tokë, ata do t'ju devijojnë larg rrugës së Allahut. Ata ndjekin vetëm hamendje dhe ata vetëm gënjejnë. 6:116
+- Largohuni (o njerëz, nga të gjitha llojet e) mëkateve, të hapura dhe të fshehta. 6:120
+- Mos hani (o besimtarë) nga ajo (mish) mbi të cilën nuk është përmendur emri i Allahut (në kohën e therjes së kafshës). 6:121
+- Këdo që Allahu do ta udhëzojë, ia hap gjoksin për Islam, dhe këdo që do ta lërë të humbur, ia bën gjoksin të ngushtë dhe të shtrënguar. 6:125
+- Jini të matur në shpenzime dhe shmangni ekstravagancën. Ruani të drejtat e të gjitha krijesave. 6:141
+- Mos i shoqëroni asgjë në adhurim Allahut, bëju mirë dhe të devotshëm prindërve, mos i vrisni fëmijët tuaj nga frika e varfërisë, mos iu afroni veprave të turpshme, mos vrisni askënd që Allahu e ka ndaluar, përveçse për një shkak të drejtë. 6:151
+- Jini të ndershëm; mos mashtroni në asnjë nga marrëveshjet tuaja. Mos iu afroni pasurisë së jetimit, përveçse për ta përmirësuar atë, jepni masën dhe peshën e plotë me drejtësi, sa herë që jepni fjalën tuaj, thoni të vërtetën edhe nëse ka të bëjë me një të afërm, dhe përmbushni Besëlidhjen e Allahut. 6:152
+- Ndiqni Rrugën e Drejtë dhe mos ndiqni rrugë të tjera, sepse ato do t'ju ndajnë nga Rruga e Tij. 6:153
+- Thuaj (o Muhamed ﷺ): "Vërtet, falja ime, kurbanimi im, jeta ime dhe vdekja ime janë për Allahun, Zot të gjithësisë." 6:162
+- Mos u bëni mendjemëdhenj. 7:13
+- Mos lejoni që Shejtani (Djalli) t'ju mashtrojë. 7:27
+- Thuaj (o Muhamed ﷺ): Zoti im ka urdhëruar drejtësinë… 7:29
+- Qëndroni brenda kufijve të vendosur nga Allahu në të gjitha çështjet. Shmangni tejkalimin e kufirit në fjalim dhe vepra. Hani dhe pini por mos e teproni. Vishni rroba të mira gjatë kohës së faljes. 7:31
+- Allahu krijoi qiejt dhe tokën në gjashtë Ditë, dhe më pas u vendos mbi Fron (në mënyrën që i përshtatet Madhërisë së Tij). 7:54
+- Thirreni Zotin tuaj me përulësi dhe fshehtas. Ai nuk i do ata që tejkalojnë kufirin. 7:55
+- Dhe mos bëni çrregullim në tokë, pasi ajo është vënë në rregull, dhe thirreni Atë me frikë dhe shpresë. 7:56
+- Por ata që bënë vepra të këqija dhe më pas u penduan dhe besuan, vërtet, Zoti juaj pas (gjithë) kësaj është Falës dhe Mëshirues. 7:153
+- Thuaj (o Muhamed ﷺ): "O njerëz! Unë jam dërguar te të gjithë ju si i Dërguar i Allahut…" 7:158
+- Dhe (të gjithë) Emrat më të Bukur i përkasin Allahut, prandaj thirreni Atë me to, dhe lini ata që i mohojnë Emrat e Tij… 7:180
+- Këdo që Allahu e lë të humbur, askush nuk mund ta udhëzojë; dhe Ai i lë ata të enden verbërisht në tejkalimet e tyre. 7:186
+- Trego falje, urdhëro të mirën dhe largohu nga të paditurit (d.m.th. mos i ndëshko ata). 7:199
+- Falni të tjerët për gabimet e tyre. 7:199
+- Dhe nëse ndonjë nxitje e keqe të vjen nga Shejtani (Djalli), atëherë kërko strehim te Allahu. Vërtet, Ai është Gjithëdëgjues, Gjithëdijshëm. 7:200
+- Besimtarët janë vetëm ata që, kur përmendet Allahu, ndiejnë frikë në zemrat e tyre dhe kur u lexohen ajetet e Tij, ato (ajetet) ua shtojnë besimin… 8:2
+- Mos e tradhtoni Allahun dhe të Dërguarin e Tij, dhe mos e tradhtoni me dije besimin tuaj (dhe gjithë detyrat që Allahu ju ka urdhëruar). 8:27
+- Nëse i bindeni dhe i frikësoheni Allahut, Ai do t'ju japë një Furkan (masë për të gjykuar midis së vërtetës dhe gënjeshtrës, ose një rrugëdalje nga çdo vështirësi). 8:29
+- Ata që nuk besojnë e shpenzojnë pasurinë e tyre për të penguar (njerëzit) nga rruga e Allahut, dhe kështu do të vazhdojnë ta shpenzojnë; por në fund ajo do të bëhet pikëllim për ta. 8:36
+- Thuaju atyre që nuk besuan, nëse pushojnë (nga mosbesimi), do t'u falet e kaluara. Por nëse kthehen (përsëri), atëherë shembujt e atyre (të ndëshkuarve) para tyre tashmë kanë kaluar (si paralajmërim). 8:38
+- Kur të përballeni me (një forcë armike), qëndroni të vendosur dhe përmendeni shumë emrin e Allahut (me gjuhë dhe mendje), në mënyrë që të jeni të suksesshëm. 8:45
+- Mos u bëni si ata që dolën nga shtëpitë e tyre me mendjemadhësi dhe për t'u parë nga njerëzit, dhe që pengojnë (njerëzit) nga rruga e Allahut. 8:47
+- Allahu nuk e ndryshon kurrë një dhunti që i ka dhënë një populli, derisa ata të ndryshojnë atë që është në vetveten e tyre. 8:53
+- Krijesat më të këqija para Allahut janë ata që nuk besojnë. 8:55
+- Zoti vendos dashuri dhe afeksion midis zemrave të atyre që besojnë në Të. 8:63
+- Mbroni dhe ndihmoni ata që kërkojnë mbrojtje. 9:6
+- Nuk është e drejtë për idhujtarët të mirëmbajnë xhamitë e Allahut. 9:17
+- Ata (jobesimtarët, çifutët dhe të krishterët) duan ta shuajnë dritën e Allahut (me të cilën u dërgua Muhamedi ﷺ – Teuhidi Islamik) me gojët e tyre, por Allahu nuk do të lejojë përveçse të përsosë dritën e Tij, edhe pse jobesimtarët e urrejnë atë. 9:32
+- Sadakatë (d.m.th. Zekati) janë vetëm për: 1) të varfërit, 2) nevojtarët, 3) ata që janë punësuar për të mbledhur fondet, 4) për të tërhequr zemrat e atyre që janë prirë drejt Islamit, 5) për të liruar të burgosurit, 6) për ata që janë në borxh, 7) për çështjen e Allahut (d.m.th. për luftëtarët), dhe 8) për udhëtarin. 9:60
+- Kushdo që kundërshton dhe tregon armiqësi ndaj Allahut dhe të Dërguarit të Tij (ﷺ), sigurisht që për të do të jetë Zjarri i Xhehennemit ku do të banojë përgjithmonë. Ai është poshtërim i skajshëm. 9:63
+- Hipokritët, burra dhe gra, janë njësoj. Ata e kanë harruar Allahun, kështu që Ai i ka harruar ata. 9:67
+- Përpiquni për pastërti. Respektoni shenjtërinë e xhamisë. 9:108
+- Nuk është e drejtë (për Profetin dhe ata që besojnë) të kërkojnë falje nga Allahu për idhujtarët, edhe nëse janë të afërm, pasi u bë e qartë se ata janë banorë të Zjarrit (sepse vdiqën në gjendje mosbesimi). 9:113
+- Kush është më i padrejtë se ai që shpif gënjeshtër kundër Allahut ose i mohon ajetet e Tij? Sigurisht, mëkatarët nuk do të kenë kurrë sukses! 10:17
+- Ata adhurojnë përveç Allahut gjëra që nuk i dëmtojnë dhe as nuk u bëjnë dobi, dhe thonë: "Këta janë ndërmjetësuesit tanë te Allahu." Thuaju: "A po i tregoni Allahut diçka që Ai nuk e di në qiej dhe në tokë?" Qoftë lavdëruar dhe lartësuar Ai mbi gjithçka që ata i shoqërojnë si shokë! 10:18
+- Shpërblimi i një vepre të keqe është i ngjashëm me të. 10:27
+- I tillë është Allahu, Zoti juaj i vërtetë. Pra, pas së vërtetës, çfarë tjetër mund të ketë përveç humbjes? Si pra po largoheni? 10:32
+- Shumica e tyre ndjekin vetëm hamendje. Sigurisht, hamendja nuk mund të zëvendësojë të vërtetën. 10:36
+- Vërtet! Allahu nuk u bën padrejtësi njerëzve në asgjë; por njerëzit i bëjnë padrejtësi vetes së tyre. 10:44
+- Dijeni se dhuntia e Allahut është më e mirë se çdo gjë që njeriu mund të grumbullojë ose të grumbullojë. 10:58
+- Mos u bëni nga ata që i mohojnë ajetet e Allahut, sepse atëherë do të jeni nga të humburit. 10:95
+- Nëse Allahu ju prek me dëm, nuk ka kush mund ta largojë atë përveç Tij; dhe nëse Ai dëshiron ndonjë të mirë për ju, nuk ka kush mund ta kthejë dhuntinë e Tij që Ai ia jep kujt të dojë nga robërit e Tij. 10:107
+- Nuk ka asnjë qenie të gjallë në tokë pa e pasur ushqimin nga Allahu. Dhe Ai e di vendbanimin e saj dhe vendin e saj të fundit (në mitër, varr, etj.). 11:6
+- Nëse i japim njeriut një shije të Mëshirës Sonë dhe më pas ia tërheqim atë, vërtet! Ai bëhet i dëshpëruar, mosmirënjohës. 11:9
+- Kushdo që dëshiron jetën e kësaj bote dhe shkëlqimin e saj; atyre do t'u paguajmë plotësisht (shpërblimin e) veprave të tyre në të, dhe nuk do të kenë asnjë pakësim në të. 11:15
+- Ne nuk u bëmë padrejtësi atyre, por ata i bënë padrejtësi vetes së tyre. Dhe zotat e tyre, përveç Allahut, të cilët ata i lutën, nuk u bënë dobi aspak kur erdhi urdhri i Zotit tënd, dhe nuk u shtuan atyre asgjë përveç shkatërrimit. 11:101
+- Në Ditën kur të vijë ajo, askush nuk do të flasë pa lejen e Tij. Disa prej tyre do të jenë të mjerë dhe (të tjerë) të lumtur. 11:105
+- Sa u përket atyre që janë të mjerë, ata do të jenë në Zjarr, duke qarë me zë të lartë dhe të ulët. 11:106
+- Ata do të qëndrojnë atje për sa kohë që qiejt dhe toka të zgjasin, përveçse si të dojë Zoti yt. Vërtet, Zoti yt është bërës i asaj që do. 11:107
+- Dhe ata që janë të lumtur, ata do të jenë në Xhenet, duke qëndruar atje për sa kohë që qiejt dhe toka të zgjasin, përveçse si të dojë Zoti yt, si dhuratë pa fund. 11:108
+- Mos anoni nga ata që bëjnë padrejtësi, që Zjarri të mos ju prekë, dhe të mos keni mbrojtës tjetër përveç Allahut, e as të mos ndihmoheni. 11:113
+- Kryeni faljen në dy skajet e ditës dhe në disa orë të natës (d.m.th. 5 faljet e përditshme). Veprat e mira i largojnë veprat e këqija (d.m.th. mëkatet e vogla). 11:114
+- Allahut i përket e Padukshmja e qiejve dhe e tokës, dhe te Ai kthehen të gjitha çështjet (për vendim). 11:123
+- Urdhëri (ose gjykimi) nuk i përket askujt përveç Allahut. Ai ka urdhëruar që të adhuroni vetëm Atë (Teuhidin), kjo është feja e drejtë, por shumica e njerëzve nuk e dinë. 12:40
+- Kurrë mos e humbni shpresën në Mëshirën e Allahut. 12:87
+- Dhe shumica e njerëzve nuk do të besojnë, edhe nëse ju e dëshironi me të madhe. 12:103
+- Dhe shumica e tyre nuk besojnë në Allahun, përveçse duke i shoqëruar Atij shokë (d.m.th. ata janë idhujtarë). 12:106
+- Ai (Kurani) nuk është një thënie e shpifur, por një vërtetim i librave ekzistues të Allahut (Teuratit, Injilit dhe shkrimeve të tjera të Allahut) dhe një shpjegim i detajuar i gjithçkaje, dhe një udhërrëfyes dhe mëshirë për njerëzit që besojnë. 12:111
+- Allahu e shton furnizimin për kë të dojë dhe e pakëson (për kë të dojë). 13:26
+- Përmendeni Allahun shpesh përmes dhikrit. Ata që besojnë në Zotin gjejnë kënaqësi në përkujtimin e Tij. 13:28
+- Ata që besojnë dhe bëjnë mirë u jepen gëzim dhe qetësi shpirtërore. 13:29
+- Ata që preferojnë jetën e kësaj bote në vend të botës tjetër, dhe pengojnë (njerëzit) nga rruga e Allahut (d.m.th. Islami) dhe kërkojnë shtrembërim në të – ata janë larg humbur. 14:3
+- Praktikoni përulësinë dhe mirënjohjen në adhurim. 14:7
+- Shembulli i atyre që nuk besojnë në Zotin e tyre është se veprat e tyre janë si hiri, mbi të cilin fryn era fort në një ditë stuhie; ata nuk do të jenë në gjendje të marrin asgjë nga ajo që kanë fituar. 14:18
+- Allahu do t'i forcojë ata që besojnë me fjalën e qëndrueshme në këtë botë (d.m.th. ata do të vazhdojnë të adhurojnë vetëm Allahun dhe asnjë tjetër), dhe në botën tjetër. 14:27
+- Mos mendoni se Allahu është i pavetëdijshëm për atë që bëjnë mëkatarët (idhujtarët, të padrejtët, etj.), por Ai u jep afat deri në Ditën kur sytë do të hapen nga tmerri. 14:42
+- Që Allahu ta shpërblejë secilin person sipas asaj që ka fituar. Vërtet, Allahu është i shpejtë në llogari. 14:51
+- Dhe vërtet, Ne e krijuam njeriun nga balta e fortë e zezë e ndryshuar. 15:26
+- Dhe xhindët, Ne i krijuam më parë nga zjarri pa tym. 15:27
+- Ai (Xhehennemi) ka shtatë dyer, për secilën prej atyre dyerve është caktuar një klasë (e veçantë) mëkatarësh. 15:44
+- Ai e krijoi njeriun nga një pikë uji (përzierje e sekrecioneve mashkullore dhe femërore), dhe ja, ai (njeriu) bëhet kundërshtar i hapur. 16:4
+- Dhe bagëtinë, Ai e krijoi për ju; në to keni ngrohtësi (rroba të ngrohta), dhe dobi të shumta, dhe prej tyre hani. 16:5
+- Dhe (Ai krijoi) kuajt, mushkat dhe gomarët, për t'i hipur dhe si stoli. Dhe Ai krijon (gjëra) të tjera që ju nuk i dini. 16:8
+- Ai është Ai që dërgon ujin (shiu) nga qielli; prej tij pini dhe prej tij rritet bima me të cilën ushqeni bagëtinë tuaj. 16:10
+- Ai është Ai që e nënshtroi detin (për ju), që të hani prej tij mish të freskët (peshk), dhe të nxirrni prej tij stoli për t'i veshur. 16:14
+- Ai ka vendosur në tokë male të qëndrueshme, që ajo të mos lëkundet me ju, dhe lumenj dhe rrugë, që të udhëzoheni. 16:15
+- A është Ai që krijon, si ai që nuk krijon? A nuk do të mendoni? 16:17
+- Nëse do të numëronit dhuntitë e Allahut, nuk do të mund t'i numëronit kurrë. 16:18
+- Allahu e di çfarë fshihni dhe çfarë zbuloni. 16:19
+- Ata që ata (idhujtarët) i lusin përveç Allahut nuk kanë krijuar asgjë, por janë vetë të krijuar. 16:20
+- (Ata janë) të vdekur, pa jetë, dhe nuk e dinë se kur do të ringjallen. 16:21
+- Fjala Jonë për një gjë, kur e dëshirojmë, është vetëm të themi: "Bëhu!" dhe ajo bëhet. 16:40
+- Ata që kurdisin plane të këqija, a ndihen të sigurt se Allahu nuk do t'i fundosë në tokë, ose se dënimi nuk do t'i godasë nga drejtime që nuk e perceptojnë? 16:45
+- Çdo e mirë dhe çdo dhunti që keni, është nga Allahu. Pastaj, kur ju prek dëmi, Atij i luteni me zë të lartë për ndihmë. 16:53
+- Pastaj, kur Ai e largon dëmin prej jush, ja, disa prej jush i shoqërojnë të tjerë në adhurim me Zotin e tyre (Allahun). 16:54
+- Në bagëti, ka një mësim për ju. Ne ju japim të pini nga ajo që është në barkun e tyre, nga midis jashtëqitjeve dhe gjakut, qumësht të pastër; të këndshëm për ata që e pinë. 16:66
+- Pra, mos i vendosni Allahut shembuj (sepse nuk ka asgjë të ngjashme me Të, as Ai nuk i ngjan asgjëje). Vërtet, Allahu di dhe ju nuk dini. 16:74
+- Dijeni se Allahu u ka dhënë njerëzve dëgjimin, shikimin, inteligjencën dhe ndjenjat, në mënyrë që të jenë mirënjohës. 16:78
+- Shmangni lakminë dhe koprracinë. 16:97
+- Kur të doni të lexoni Kuranin, kërkoni strehim te Allahu nga Shejtani (Djalli), i dëbuari (i mallkuari). 16:98
+- Dijeni se një e keqe e bërë nga padituria falet nëse personi pendohet dhe korrigjohet. 16:119
+- Thirri (o Muhamed ﷺ) njerëzit në rrugën e Zotit tënd (d.m.th. Islami) me urtësi dhe këshillë të mirë, dhe diskuto me ta në mënyrën më të mirë. Thirrja e të tjerëve në rrugën e Allahut duhet bërë me urtësi dhe dashamirësi. 16:125
+- Allahu është me ata që i frikësohen Atij (që e ruajnë detyrën ndaj Tij), dhe me ata që janë bamirës. 16:128
+- Ky Kuran udhëzon në atë që është më e drejtë dhe më e mirë. 17:9
+- Askush nuk mund të bartë mëkatet e një tjetri. 17:15
+- Kushdo që dëshiron botën tjetër dhe përpiqet për të, me përpjekjen e duhur që i takon, duke qenë besimtar, atëherë të tillëve, përpjekja e tyre do të vlerësohet, falënderohet dhe shpërblehet (nga Allahu). 17:19
+- Nderoni prindërit tuaj dhe trajtojini me mirësi. Jini të devotshëm ndaj prindërve. Mos u thoni asnjë fjalë mosrespekti prindërve. Dhe Zoti juaj ka vendosur që të adhuroni vetëm Atë. Dhe që të jeni të mirë me prindërit tuaj. Nëse njëri prej tyre ose të dy arrijnë pleqërinë në jetën tuaj, mos u thoni atyre fjalë mosrespekti, as mos i bërtisni, por drejtojuni atyre me fjalë nderi. 17:23
+- Dhe uli para tyre krahun e përulësisë dhe të dhembshurisë, dhe thuaju: "O Zoti im! Shpërbleji ata me mëshirë, ashtu siç më rritën mua kur isha i vogël." 17:24
+- Vërtet, shpenzuesit e tepruar janë vëllezër të djajve, dhe Djalli është gjithnjë mosmirënjohës ndaj Zotit të tij. 17:27
+- Mos shpenzoni para në mënyrë të tepruar. 17:29
+- Mos i vrisni fëmijët tuaj nga frika e varfërisë. 17:31
+- Mos kryeni kurorëshkelje. Ruani shenjtërinë e martesës dhe shmangni kurorëshkeljen. 17:32
+- Jepni masën e plotë kur matni, dhe peshoni me peshore të drejtë. Kjo është e mirë (e dobishme) dhe më e mirë në fund. 17:35
+- Mos ndiqni (o njeri, d.m.th. mos thoni, mos bëni ose mos dëshmoni, etj.) atë për të cilën nuk keni njohuri (p.sh., dikush që thotë: "E kam parë," ndërsa në fakt nuk e ka parë, ose "E kam dëgjuar," ndërsa nuk e ka dëgjuar). 17:36
+- Jini të përulur dhe mos u bëni mendjemëdhenj. Mos ecni në tokë me mendjemadhësi dhe arrogancë. Vërtet, ju nuk mund ta çani tokën, as të arrini lartësinë e maleve. 17:37
+- Zoti juaj ju njeh më së miri, nëse do, Ai do të ketë mëshirë për ju, ose nëse do, Ai do t'ju ndëshkojë. 17:54
+- Kushdo që është i verbër në këtë botë (d.m.th., nuk i sheh shenjat e Allahut dhe nuk beson në Të), do të jetë i verbër në botën tjetër, dhe më i humbur nga rruga. 17:72
+- Respektoni kohët e caktuara të faljes. 17:78
+- Vërtet, Ne u kemi shpjeguar njerëzve në këtë Kuran çdo lloj shembulli, por shumica e njerëzve refuzojnë (të vërtetën dhe nuk pranojnë) përveç mosbesimit. 17:89
+- Ne kemi sjellë çdo lloj shembulli në këtë Kuran, për njerëzit. Por, njeriu është më grindavec se çdo gjë. 18:54
+- Ai do të jetë shpërblimi i tyre, Xhehennemi; sepse ata nuk besuan dhe i morën ajetet e Mia dhe të Dërguarit e Mi me tallje dhe përqeshje. 18:106
+- Nuk i përshtatet (Madhërisë së) Allahut që Ai të ketë një djalë (kjo i referohet shpifjes së të krishterëve kundër Allahut, duke thënë se Jezusi është bir i Allahut). Qoftë lavdëruar (dhe lartësuar Ai mbi gjithçka që ata i shoqërojnë Atij). 19:35
+- Flisni me njerëzit butësisht. 20:44
+- Konkurroni me njëri-tjetrin në bërjen e të mirës. 21:90
+- Shmangni fjalët e kota. 23:3
+- Ruani modestinë tuaj. 23:5
+- Ruani zemrën tuaj nga prirjet mëkatare. 23:97
+- Falni të tjerët dhe ndjeni gabimet e tyre. 24:22
+- Respektoni privatësinë e të tjerëve, veçanërisht në shtëpitë e tyre. Përmbushni të drejtat e fqinjëve. 24:27
+- Ulni shikimin (si për burrat ashtu edhe për gratë). Ruani modestinë dhe dëlirësinë tuaj. 24:30
+- Ruani modestinë në veshje dhe sjellje. 24:31
+- Dijeni se Allahu u siguron siguri dhe paqe atyre që e adhurojnë dhe veprojnë me virtyt. 24:55
+- Mos hyni në dhomën private të prindërve pa kërkuar leje. 24:58
+- Jini modest dhe të përulur. 25:63
+- Shmangni dëshminë e rreme dhe mashtrimin. 25:72
+- Përpiquni për shpërblim në botën tjetër, por mos neglizhoni çështjet tuaja në këtë botë. 28:77
+- Mos iu lutni asnjë zoti tjetër përveç Allahut. 28:88
+- Mos kryeni homoseksualitet. 29:29
+- Përpiquni për përsosmëri në të gjitha përpjekjet tuaja. 29:69
+- Kryeni faljen dhe jepni lëmoshë. 31:4
+- Urdhëroni të mirën dhe ndaloni të keqen. 31:17
+- Shmangni mendjemadhësinë në sjelljen tuaj. Mos e humbni kohën me fjalë të kota. 31:18
+- Jini të matur në ecjen tuaj dhe në vëllimin e zërit tuaj. 31:19
+- Ndiqni shembullin e Profetit Muhamed. 33:21
+- Gratë nuk duhet të shfaqin ose të mburren me bukurinë dhe stolitë e tyre. 33:33
+- Thoni të vërtetën në të gjitha rrethanat. 33:70
+- Kërkoni urtësi dhe kuptim përmes reflektimit. 38:29
+- Bindjuni urdhërimeve të Kuranit. 39:23
+- Allahu i fal të gjitha mëkatet kur mëkatari pendohet dhe kthehet tek Ai. 39:53
+- Bëni lutje të sinqertë (dua) drejtuar Allahut. 40:60
+- Largojeni të keqen me atë që është më e mirë. 41:34
+- Vendosni çështjet me konsultim. 42:38
+- Mos e ngrini zërin tuaj mbi zërin e Profetit. 49:2
+- Ruani sekretet dhe shmangni tradhtinë. 49:6
+- Lehtësoni paqen midis atyre që janë në konflikt. Kërkoni pajtim në konflikte. 49:9
+- Mos i tallni të tjerët. 49:11
+- Shmangni dyshimin. Shmangni spiunimin dhe fjalët e këqija prapa shpine. Mos shpifni dhe mos i përgojoni të tjerët. Shmangni të gjitha format e fjalëve të këqija prapa shpine dhe shpifjes. Mos lejoni që krenaria t'ju çojë në padrejtësi. 49:12
+- Dijeni se vetëm devotshmëria e bën një person fisnik. Respektoni ndryshimet midis njerëzve dhe kulturave. 49:13
+- Nderoni mysafirët. 51:26
+- Jini të vëmendshëm ndaj detyrimeve tuaja ndaj Allahut. 51:56
+- Shpenzoni pasurinë në bamirësi. 57:7
+- Dijeni se nuk duhet të ketë monastizëm (braktisje e martesës dhe kënaqësive si murgjit, murgeshat ose të tjerë që jetojnë nën zotime fetare, ose ndërtesat ku ata jetojnë) në fe. 57:27
+- Mos lejoni që pasuria t'ju shpërqendrojë nga përkujtimi i Allahut. 58:11
+- Ata që kanë dituri do të kenë gradë më të lartë nga Allahu. 58:11
+- Trajtoni jobesimtarët në mënyrë të mirë dhe të drejtë. 60:8
+- Shmangni hipokrizinë në besimet dhe veprimet tuaja. 63:9
+- Largohuni nga lakmia dhe koprracia. 64:16
+- Ruani shpalljet që ju janë besuar. 73:15
+- Jini të vetëdijshëm për Ditën e Gjykimit. 75:36
+- Urdhëroni durim dhe dhembshuri. 90:17
+- Ata që pastrojnë shpirtrat e tyre shpëtojnë, dhe ata që i korruptojnë ata dështojnë. 91:10
+- Mos i injoroni dhe mos i shtyni nevojtarët. 93:10
+- Kërkoni dituri dhe kuptim. Lexoni dhe reflektoni mbi Kuranin. 96:1–5
+- Nxitni ushqimin e të varfërve. 107:3
 """;

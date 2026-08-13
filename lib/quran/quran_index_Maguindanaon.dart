@@ -3321,4 +3321,280 @@ Matching Phrases 8 words
 - So Allah na phakalowagun Niyan so Pagupur ko tao a kabaya Iyan ko manga Oripun Niyan, go phakasimpitun Niyan. (اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ) 28:82; 29:62
 - Go phakandodun kano ko Mata-o ko Gaib go so Mapayag, na Phanotholun Niyan rkaniyo so pinggalubuk iyo. (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
 - Go so manga tonganay, so saba-ad kiran na i phaka-o a ron ko saba-ad, si-i ko Kitab o Allah. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
+cmds - Commands, Exhortations, Prohibitions, Instructions
+- fard / wajib (فرض / واجب) — fardu / wajib (inggol nggolalanun; dosa amay kaganatan)
+- mustahabb / mandub (مستحب / مندوب) — iranun / mastahap (gagao pahala amay nggolalanun, da a dosa amay kaganatan)
+- mubah (مباح) — mubah / halal (da a pahala ago da a dosa)
+- makruh (مكروه) — makruh (di karatan, na' a dosa amay nggolalanun)
+- haram (حرام) — haram (dosa amay nggolalanun)
+- halal (حلال, halal / pata) — mipamaguna both mubah ago mustahabb — langun a da a haram
+- Simba kano sa Allah, ago pangayu tabang/bolong Iyan. 1:5
+- Simba kano sa Allah. 2:21
+- Di kano phakipag-iinta sa Allah. 2:22
+- Allah so Phakamboat (phakatanggap ko taobat), Iniyawat Iyan so taobat o Adam (alayhis salam). 2:37
+- Di kano pagulayn so bunar ago so kabokhag, ago di nio paguma so bunar. 2:42
+- Pamayandug kano so salat (sambayang a gawi-i), ago tonay kano so zakat (sadaqah). 2:43
+- Pagonai niyo so manga taw sa mapia a ginawa, oriyan niyo na nggolalanun niyo. 2:44
+- Pangayu tabang ko Allah ko langun a galen niyo. 2:45
+- Di kano somalap sa kakhalaan, ago di kano phakayag sa kakhalaan. 2:60
+- Di kano phakasaguna sa manga taw sa pagsongko ko manga simbaan. 2:114
+- Phagadatan niyo so kasosoti o masjid. Phagotapi niyo so manga sambayangan niyo a malinis ago masoti. 2:125
+- Tadumi niyo so Allah (sa sambayang, pagphuruna, ago paman), ago Tadumun kano Niyan, ago phanalamat kano kaniyan. 2:152
+- Phakasabar kano ko manga kasusahan. 2:153
+- Di kano phakasunod ko manga lakad o Shaytan a rowar a lawan. 2:168
+- Di kano phakasunod sa taw a da a kinatawan. 2:170
+- Phagotapi niyo ago tumanana niyo so langun a amanat. Tumanana niyo so manga ipalimuut ko agama niyo sa tulus. Tumanana niyo so manga sapata ago manga sandi niyo. Tumanana niyo so janji, ilubi na so janji ko Allah. Tabangi niyo so manga taw a mapiya kapagondos, ago payagani niyo so manga kasusahan. Likawi niyo so manga dosa a phakawada ko limo o Allah. Di niyo payagan so kababowag a phakapanglawani niyo. 2:177
+- Aya tao a (pakatagoy) a kawasa ko Qisas (Balao o Kapantag ko siksa) aya aya pagtao niyo. 2:179
+- Powasa kano ko bolan o Ramadan. Tumanana niyo so powasa a iniwajib, angkan kano mabaloi a Muttaqun (so manga tatakwa). 2:183
+- Phagadatan niyo so Qur'an a sabap a torowan a talibona. 2:185
+- Di niyo kakan ko manga kabotangan o isa isa sa kadiyandatan, ago di niyo tonay sa sogot ko mga hakim (gonsa nio payagiya so manga kaso niyo). 2:188
+- Di kano mangarasi sa manga taw, sa katharo ago sa galen. Da kano dun makipag-away a salakaw, kawasan na lang a panagbantay. 2:190
+- Panaliman niyo so manga wata a ilo. Mapantag ko manga wata a ilo, galbi kano sa ontol ko manga kabotangan niran, ago di nio kana so manga kabotangan niran. 2:220
+- Thowbat kano ago pangayu kano sa maap o Allah. Di kano makipagkama ko gawii a hayd. Phagotapi niyo so kasotian (sa badan ago sa roh). 2:222
+- Tumanana niyo so manga ipalimuut niyo ko pagtao niyo. 2:233
+- Pili kano sa manga pamuno sa sabap ko manga katutungan niran. 2:247
+- Da a panggipit ko agama. 2:256
+- Pamanoy kano ko manga kabotangan niyo sa sadaqah. Mabaloi kano a manga palimo sa kabotangan ago sa oras. 2:261
+- Di niyo batala so manga sadaqah niyo sa sabap ko pamagbanog ko kapalimo niyo. 2:264
+- So Shaytan na pangangalow kano sa kakamiskinan ago iniogo niyo so paggola ko Fahsha' (manga galen a marata, panakaw a di pata, manga dosa). 2:268
+- Sapagana niyo so manga taw a mapiya kapagondos ago tabangi niyo siran. 2:273
+- Di kano somalap ko riba. Di niyo kana so kabotangan a may riba. Di niyo kana so Riba. 2:275
+- Payagani niyo so gatawan sa oras gonsa mapiya kapagondos. 2:280
+- Tumanana niyo so katharo niyo ko manga bindakalan. Mabaloi kano a manga bunar ko manga galen niyo a sapata. Galbi kano sa ontol ko langun a sandi niyo. Amay iyan manggol kano sa utang sa tima-a a oras, isorat niyo. Pakaala kano sa manga saksi amay iyan manggol kano sa sandi a dagang. 2:282
+- Phagotapi niyo ago tumanana niyo so langun a amanat. 2:283
+- Paratiyaya niyo so manga Kitab a initoron ago so langun a manga Nabi. 2:285
+- Allah na di Niyan phaboboatun so isa ka tao a di katangkalan. Aya gatawan na may pahala ko mapia a inogalalanan niran, ago may siksa ko marata a inogalalanan niran. Allah na di Niyan phaboboatun so isa ka tao a di katangkalan; ago tayo na di tayo magalin a paboboat. Sarig kano ko pinalaw o Allah gonsa ko kasusahan. 2:286
+- Sa taw a tumanana ko manga sandi ago somasangit ko Allah, na so Allah na kabaya Iyan so manga tatakwa. 3:76
+- Ggalana niyo so Hajj (pagongoyan) amay iyan katangkalan niyo. 3:97
+- Di kano phakabowa-bowa. 3:103
+- Pagonai niyo so mapia ago parawani niyo so marata. Palomarini niyo so kapagontol ko pagtao niyo. Tawagi niyo so manga taw sa kapanadum ko Allah. 3:104
+- So manga Paratiyaya na si Allah aya angay siran manarig. 3:122
+- Di niyo kana so Riba. 3:130
+- Manurut kano ko Allah ago ko Sogo Iyan, angan makawatan kano sa limo. 3:132
+- Kabaya o Allah so manga taw a phamanoy (ko galen o Allah — manga galen a sadaqah, limo, ago paman) ko kaya ago ko kakulangan, so manga taw a phakagongon so kaongotan, ago so manga taw a phakamboat sa manga taw. 3:134
+- Gongona niyo so kaongotan. Kontola niyo so kaongotan niyo. 3:134
+- Maap niyo ago bayaan niyo so manga kasala o manga taw. 3:135
+- Di kano magalib a mabidal ko katharo. Phakasabar kano sa manga taw a di phakayo. 3:159
+- Amay iyan tabangan kano o Allah, na da a taw a gomogop sa inyo; ago amay iyan bayaan kano Niyan, na antawa-a aya gogop sa inyo gawii Niyan? 3:160
+- Langun a tao na ikatam so kapatai. Go si-i ko Alongan a Qiyamah na langun a tao na mabayadan so pahala niran a tarotop. 3:185
+- Pamikir kano sa madalum ko manga kalawagan o alamago ago ko kipangadun ko sangkai a alam. Tangkep niyo a so Allah na Inadun Iyan so alam a may ontol ago may maksod. 3:191
+- So manga mama ago so manga babai na may pahala a pantag ko manga galen niran. 3:195
+- Aya tao ko manga taw a somasangit ko Kadnan niran, na aya bagay niran so manga Sorga a phakarasog so manga lawasaig ko lalim; si-i siran non makakal, a saguna a phakabanday a phakapoon ko Allah. 3:198
+- Pakagalam kami a mipagala so kasosoat o Allah ko langun a galen. 3:200
+- Takwa kano ko Kadnan niyo, ago (di niyo pothongon so manga) pphagotodan (ko manga pagtood). 4:1
+- Tonaya niyo so manga ilo ko manga kabotangan niran, ago di niyo sambalan so (manga madosa niyo) ko (manga mapia niran); ago di niyo kana so manga kabotangan niran (sa pagsambal ko kabotangan niyo). 4:2
+- Tonaya niyo so manga babai (a pakasawen niyo) ko manga Mahar niran (so pamasa a pilak a ipamasa o mama ko babai gawii ko kasawi) sa malapag a gona. 4:4
+- Panaliman niyo so manga hak o manga ilo. 4:6
+- So kabotangan o patai na ipamagobag sa manga tatood o pagtao niran. So manga babai na may hak ko panagobat. 4:7
+- Di niyo kana so manga kabotangan o manga ilo sa kabalas. 4:10
+- Manurut kano ko manga sogo mapantag ko panagobat. 4:11
+- Haram so panagobat ko manga babai a di siran kaya, ago di niyo siran phangarasi. Pagonana niyo siran (so manga asawa) sa mapia. Phagadatan niyo ago otapi niyo so manga hak o manga babai. Ggalani niyo so asawa niyo sa limo ago sa kasisin. Ggalani niyo so manga babai sa kapagadatan ago sa kapagontol. 4:19
+- Di kano manga-asawa sa manga taw a manga pagtood niyo. 4:23
+- Di kano mamatai sa ginawa niyo (ago di kano mamag-ipatay). Mata-an a so Allah na Makalimo-on Niyan rukano. Di niyo kana so manga kabotangan o isa isa sa kadiyandatan. 4:29
+- Amay iyan likayan niyo so manga dosa a manga mawaw a ipharam, na so Allah na phakamboataNiyan rukano so (manga saday) a manga dosa niyo, ago phakasolud kano Niyan ko Phamakasolud a mapagadatan (so Sorga). 4:31
+- Di niyo pangabaya so manga taw a inilubi o Allah so manga taw niyo sa kapamagowai. Likawi niyo so kadungog ago so kasoroi. 4:32
+- So manga mama iyan so manga phagotapi ago phakagagama ko manga babai, sa sabap ko Allah a inilubi Iyan so manga taw sa kapamagowai, ago sa sabap ko pamanoy niran (sa pagsapol ko manga babai) a phakapoon ko manga kabotangan niran. So mama iyan so phagotapi ago gogop ko pagtao. 4:34
+- Simba kano ko Allah ago di kano phakipag-iinta on, galbi kano sa mapia ko manga ginawa, manga pagtood, manga ilo, manga miskin, so kapaginta, so kapaginta a somanay rukano, so pphagadalan (a masugat niyo), ago so (manga oripon) a manga tatagowan o manga tangan niyo a kawanan. Allah na di Niyan kabaya so manga taw a mapabor ago phanogat. Galbi kano sa mapia ko manga taw. Kalimo-i niyo so manga lolobay. Otapi niyo so manga pphagotodan ko pagtao, ago phagadatan niyo so manga pagtood. 4:36
+- Di kano phakapalimo. 4:37
+- Allah na di Niyan phakamboat so kipag-iinta on, na phakamboataNiyan so salakao sa mano-on sa sasaw iyan. 4:48
+- Di kano manibala ko manga taw. 4:54
+- Allah na iiphamando Iyan rukano so panagoli ko manga amanat ko manga taw a bagay non. Amay iyan omboto kano ko manga taw, na omboto kano sa ontol. 4:58
+- Manurut kano ko Allah ago ko Sogo Iyan. Phagadatan niyo so manga taw a may kawaroman ko kaptan. 4:59
+- Di kano mangarasi ko manga lolobay ago so manga taw a mapiya karasi-an. 4:75
+- Aya makaoma rukano a mapia a phakapoon ko Allah; ago aya makaoma rukano a marata a phakapoon ko ginawa niyo. 4:79
+- Sa taw a manurut ko Sogo (Muhammad ﷺ), na manurut sa Allah. 4:80
+- Sa taw a phakasapala sa mapia a galen, na adun a bagiyan iyan a pahala on; ago sa taw a phakasapala sa marata a galen, na adun a bagiyan iyan a dosa on. 4:85
+- Di patot sa isa ka Paratiyaya a mamatai sa isa ka Paratiyaya, kawasan na lang a kadipogan. 4:92
+- Sa taw a mamatai sa isa ka Paratiyaya sa tiyaga, na aya balas iyan so Naraka Jahannam, kakal si-i non. Kaongotan ago kaporotan o Allah na si-i on, ago iniandam a bagiyan iyan so siksa a mala. 4:93
+- Sa taw a magogoy (poon ko waw) sa galen o Allah, na makakowa si-i ko lopa a manga darpa ago kalawagan. 4:100
+- Phagotapi niyo so manga sambayang niyo. 4:103
+- Di kano phakasabot ago di kano mabaloi a mananawal sa manga taw a phakasalia ko manga amanat. 4:105
+- Pangayu kano sa maap o Allah; mata-an a so Allah na Tatap a Phakamboat, Makalimo-on. 4:106
+- Hai so manga Paratiyaya! Pagonana kano sa kapagontol, a manga saksi ko Allah, gonsa ko ginawa niyo, gawiya ko manga ginawa niyo, gawiya ko manga pagtood niyo, gawiya maysalapata gawiya miskin. Di niyo payagiya so kapagontol; galbi kano sa magalib angkan niyo makasawit so manga kasala. 4:135
+- So manga Monapik na pangangawa siran sa paglilima ko Allah, na so Allah iyan so lumilima kiran. 4:142
+- So manga Monapik na si-i ko kadalumdaluman ko Naraka; ago da a phakasogat ka a gogop kiran. 4:145
+- Allah na di Niyan kabaya so marata a ikatharo sa makasagala, kawasan na lang a sasaw a bininta. 4:148
+- (Sogowan o Allah) so manga Sogo a manga pphamogowat sa mapia a tombal ago manga pphamakaikot, angkan so manga taw na da a dalil niran ko Allah oriyan o manga Sogo. 4:165
+- Tumanana niyo so manga sandi ago manga janji niyo. 5:1
+- Tabangi niyo so isa isa ko kapamagola sa mapia ago sa takwa, ago di kano magtabang ko dosa ago ko kapamagontol. 5:2
+- Di niyo kana so mayat, so rogo, ago so sapo o baboy. 5:3
+- Magontol kano; di niyo payagan so kadungog ago kasisin ko manga taw a phakangarasi sa kapagontol. Magontol kano. Tangkep niyo a so kapagontol na makapagina ko takwa. Di niyo payagiya so kapagontol; galbi kano sa magalib angkan niyo makasawit so manga kasala. 5:8
+- Sapagana niyo so manga dalan a phakapagina niyo ko Allah, ago pakagalam kano sa galen Iyan a matatangkalan niyo. Angkan kano makasampay sa kadalagasan. 5:35
+- Tumanana niyo so manga sapata ago manga sandi niyo. 5:89
+- Likawi niyo so manga pakahabog ago so alkohol. Likawi niyo a matatangkas so manga pakahabog (langun a klase o alak), so pagsugal, so Al-Ansab (manga bato a pagonsoran), ago so Al-Azlam (manga pana sa pagsapal sa phipanggalaw o desisyon) a langun na manga nandog o galen o Shaytan. 5:90
+- Di kano mamono sa pongoyan ko oras a si-i kano ko Ihram mapantag ko Hajj o 'Umrah (pagongoyan). 5:95
+- Di kano mamag-insa ko manga taw a, amay iyan payagiya rukano, na makapakasosog rukano. 5:101
+- Di niyo phangaraw-i so manga taw a simbahan o manga taw. Di niyo phangaraw-i so (manga kapir) a pushimba iran a salakao ko Allah, angkan siran man di phangaraw sa Allah a da a katawan. 6:108
+- Amay iyan manurut kano ko kadaklan o manga taw a si-i ko lopa, na ilangun kano niran a phakapoon ko lalan o Allah. Aya phakasunod iran na so pagaganap, ago aya phakagalin iran na so kabokhag. 6:116
+- Bayai niyo (hai manga taw) so langun a dosa, so makasagala ago so makakhalum. 6:120
+- Di niyo kana (hai manga Paratiyaya) so (sapo) a da a Pananngalan o Allah a ikatharo on (ko oras o pamatay ko ayam). 6:121
+- Sa taw a kabaya o Allah a torowan Niyan, na lalongana Niyan so rarub Iyan ko Islam; ago sa taw a kabaya Iyan a ilangun, na pigotana Niyan so rarub Iyan a masikit ago makokogot. 6:125
+- Magontol kano ko pamanoy, ago likawi niyo so kapamalang. Otapi niyo so manga hak o langun a manga inadun. 6:141
+- Di kano phakipag-iinta ko Allah, galbi kano sa mapia ko manga ginawa, di niyo pamono so manga wata niyo sa sabap ko kakamiskinan, di kano pagina ko manga pphamakasisinga, di niyo pamono so taw a ipharam o Allah, kawasan na lang a kadiyandatan. 6:151
+- Mabaloi kano a manga taw a ontol; di kano manggola sa kabokhag ko langun a bindakalan niyo. Di kano pagina ko kabotangan o ilo, kawasan na lang a pakapiya on, tarotopa niyo so sukol ago so timbang sa ontol, amay iyan makatharo kano, tharowa niyo so bunar gonsa ko pagtood a madopag, ago tumanana niyo so Sandi o Allah. 6:152
+- Sunoda niyo so lalan a makalilintad, ago di niyo sunoda so (manga salakao a) lalan, ka phakabowa kano niran a phakapoon ko lalan Iyan. 6:153
+- Tharowangka (Ya Muhammad ﷺ): "Mata-an a so sambayang ko, so pagsambayang ko, so kawasa ko, ago so kapatai ko na ruk o Allah, a Kadnan o manga Adun." 6:162
+- Di kano phakabor. 7:13
+- Di kano pagalina o Shaytan. 7:27
+- Tharowangka (Ya Muhammad ﷺ): "So Kadnan ko na iniogo Iyan so kapagontol…" 7:29
+- Tumanana niyo so manga taman o Allah ko langun a galen. Likawi niyo so kapamagurang ko katharo ago ko galen. Kangkan kano ago inom kano, na di kano phakalabaw. Sombo kano sa mapia a manga badju ko oras o sambayang. 7:31
+- Allah na Inadun Iyan so manga langit ago so lopa ko nom a Alongan, oriyan niyo na iniisto Iyan so Damsa (sa dalan a patot ko Kabowagan Iyan). 7:54
+- Pangayu kano ko Kadnan niyo sa kapakapakasasakob ago sa makakhalum. Iyan na di Niyan kabaya so manga phakalabaw. 7:55
+- Ago di kano phakayag sa karata-a ko lopa oriyan o kapipiyapiya on, ago pangayu kano on sa kaluk ago sa kawasa. 7:56
+- Ama so manga taw a nggolalanun niran so manga galen a marata, oriyan niyo na thowbat siran ago paratiyaya, na mata-an a so Kadnan ka, oriyan oto, na Phakamboat, Makalimo-on. 7:153
+- Tharowangka (Ya Muhammad ﷺ): "Hai manga taw! Mata-an a ako na Sogo o Allah rukano langun…" 7:158
+- Ago (langun) so manga Ngaran a Maphia na ruk o Allah; na pangayu kano on sa sabap ko manga ngaran non, ago bayai niyo so manga taw a phagoro ko manga ngaran Iyan… 7:180
+- Sa taw a ilangun o Allah, na da a torowan; ago bayaan Niyan siran ko kailang niran a mammagalib. 7:186
+- Panalo-i ka, pagonayangka so mapia, ago talikodangka so manga da a katawan (a ba ka di siran siksa). 7:199
+- Maap niyo so manga taw ko manga kasala niran. 7:199
+- Ago amay iyan omoma ruka so biyatik a phakapoon ko Shaytan, na somangkap ka ko Allah. Mata-an a so Allah na Makakanug, Mata-o. 7:200
+- So manga Paratiyaya na aya so manga taw a, amay iyan Taduman so Allah, na makakaluk so manga poso iran; ago amay iyan Batiya-an kiran so manga Ayat Iyan, na phakapagoman so Paratiyaya iran… 8:2
+- Di kano phakasalia ko Allah ago ko Sogo Iyan, ago di niyo panalia so manga amanat niyo (ago so langun a ipalimuut o Allah rukano) a katawan niyo. 8:27
+- Amay iyan manurut kano ago somasangit kano ko Allah, na bagayan kano Niyan sa Furqan (a dalan a phakabowa ko bunar ago so kabokhag, o dalan a phakaliyo niyo ko langun a kasosog). 8:29
+- So manga taw a da a Paratiyaya, na ipamanoy iran so manga kabotangan iran sa pakapagurang ko (manga taw) phakapoon ko lalan o Allah; na phamanoy siran non; na akhira na mabaloi a kasosob a bagiyan niran. 8:36
+- Tharowangka ko manga taw a da a Paratiyaya: amay iyan undang siran (poon ko kadasur), na maap kiran so miyagala; na amay iyan man balik siran (on), na miyagala so manga halimbawa o (manga taw a siniksa) ko miyagala kiran a tombal (a pakatanog). 8:38
+- Amay iyan sobat kano ko (sogow a) gala-gala, na magontol kano ago Taduma niyo so Ngaran o Allah sa madakul (sa lila ago sa poso), angkan kano makasampay sa kadalagasan. 8:45
+- Di kano mabaloi a lagid o manga taw a mimba siran ko manga waw niran sa kapabor ago sa pamakasagala ko manga taw, ago (phakasaguna siran ko manga taw) phakapoon ko lalan o Allah. 8:47
+- Allah na di Niyan sambalan so limo a ini bagay Iyan ko isa ka pagtao, taman sa di iran sambalan so si-i ko ginawa iran. 8:53
+- So phakamarata ko manga binatang si-i ko Allah na so manga kapir. 8:55
+- Allah na Tomongo Iyan so kabaya ago so kasisin ko manga poso o manga taw a Paratiyaya on. 8:63
+- Panaliman niyo ago tabangi niyo so manga taw a phangayu sa panangkap. 9:6
+- Di patot ko manga Mushrik so pama-in ko manga Masjid o Allah. 9:17
+- Siran (so manga kapir, so manga Yahodi ago so manga Nasrani) na kabaya iran a phapadung so Lanti o Allah (a inibowat ko Muhammad ﷺ — Tauhid o Islam) sa manga nganga iran; na Allah na di Niyan kabaya a salakaw sa tarotopa so Lanti Iyan, gonsa ko manga kapir na di siran kaya. 9:32
+- So manga Sadaqah (Zakat) na aya bo-on: 1) ko manga fukara (manga miskin), 2) ko manga masakin (manga miskin), 3) ko manga taw a somosogo-on sa pomogowat on, 4) sa pakasoma ko manga poso o manga taw a piyagoma ko Islam, 5) sa pakambayar ko manga biyag, 6) sa manga gatawan, 7) sa galen o Allah (sa manga Mujahidun), ago 8) sa pphagadalan. 9:60
+- Sa taw a somosongay ago somosompong ko Allah ago ko Sogo Iyan (ﷺ), na mata-an a bagiyan iyan so Naraka Jahannam, kakal si-i on. Aya na a kahiya a mala. 9:63
+- So manga Monapik a mama ago so manga Monapik a babai, na so isa na phakapoon ko isa. Kiyalipatan iran so Allah, na Inilipat Iyan siran. 9:67
+- Pakagalam kano ko kasotian. Phagadatan niyo so kasosoti o masjid. 9:108
+- Di patot (ko Nabi ago so manga Paratiyaya) so pangayu sa maap ko Allah sa kapakamboat ko manga Mushrik, gonsa ko manga pagtood niran, oriyan o kiyapayag kiran a siran na manga taw ko Naraka (sa sabap ko kiyatai iran a da a Paratiyaya). 9:113
+- Antawaa aya mala a salakaw sa taw a pimangangkat sa kabokhag mapantag ko Allah o ingarod Iyan so manga Ayat Iyan? Mata-an a so manga Baradosa na di siran phakasampay sa kadalagasan! 10:17
+- Pushimba iran so salakao ko Allah a da a karata-an ago da a phakaopiya kiran, ago tharowon niran: "Siran na manga saksi ami si-i ko Allah." Tharowangka: "Ba niyo ipamakata-o ko Allah so di Niyan katawani si-i ko manga langit ago si-i ko lopa?" Soti so Allah, ago Mala so Allah a phakapoon ko ipakipag-iinta iran! 10:18
+- So balas o marata na marata a lagid iyan. 10:27
+- Aya man so Allah, a Kadnan niyo a bunar. Na oriyan o bunar, na antawa-a a salakao sa kadadag? Na anda kano phakaampowang? 10:32
+- So kadaklan kiran na da a phakasunod iran a salakao ko pagaganap. Mata-an a so pagaganap na di phakagona ko bunar. 10:36
+- Mata-an! A Allah na di Niyan pangarasi so manga taw sa kasanina; na so manga taw na isan niran so ginawa iran. 10:44
+- Tangkep niyo a so kapakalimo o Allah na mapia a phakapoon ko kanggogona o taw sa pammagot ago pappago. 10:58
+- Di kano mabaloi a lagid o manga taw a ongarod ko manga Ayat o Allah, ka mabaloi kano a lagid o manga taw a miyagalang. 10:95
+- Amay iyan so Allah na somogow Ruka sa karata-an, na da a taw a makapokas sa kawasa Ruka; ago amay iyan kabaya Iyan ruka sa mapia, na da a taw a makapokas sa Kapakalimo Iyan, na Isabot Iyan oto sa sasaw iyan ko manga Oripun Iyan. 10:107
+- Da a binatang si-i ko lopa a di si-i ko Allah so pagayonon on. Ago katawan Iyan so darpa iyan ago so kappitagan iyan (ko tiyan, ko kobor, ago paman). 11:6
+- Amay iyan pakataaman Nami so taw sa limo a phakapoon ko Ami, oriyan niyo na pondoyan Nami on, na mata-an a so taw na phakawada sa panginam ago phakadasur. 11:9
+- Sa taw a kabaya so kawasa ko doniya ago so borlaka iyan, na bagayan Nami siran si-i on ko (balas o) galen niran a tarotop, ago di siran kanan on sa kabangaan. 11:15
+- Da Ami siran pangarasi, na kiran isan siran so ginawa iran. Na da a miyagona kiran so manga simbahan niran a pushimba iran a salakao ko Allah, ko oras a makaoma so sogo o Kadnan ka, na da a iniragad niran kiran a salakao sa kabinasa. 11:101
+- Si-i ko Alongan a makaoma on, na da a taw a makatharo a salakao sa Ida Iyan (o Allah). Na so isa kiran na taw a masiyala, ago (so isa) na taw a mababaya. 11:105
+- Na so manga taw a masiyala, na si-i ko Naraka, a bagiyan niran si-i on so pamagal a makakabowag ago pagsangit. 11:106
+- Kakal siran non, taman sa kakal so manga langit ago so lopa, kawasan na lang so kabaya o Kadnan ka. Mata-an a so Kadnan ka na Punggola Iyan so kabaya Iyan. 11:107
+- Na so manga taw a mababaya, na si-i ko Sorga, kakal siran non, taman sa kakal so manga langit ago so lopa, kawasan na lang so kabaya o Kadnan ka, a pamasa a di phakapotpot. 11:108
+- Di kano phakasayod ko manga taw a manga darowaka, angkan kano masogow o Naraka, ago da a kaphaginda niyo a salakao ko Allah, oriyan niyo na di kano katabangan. 11:113
+- Pamayandug niyo so sambayang ko domba a alongan ago ko sasangkot a oras ko gagawi-i (iyan na so 5 a sambayang a gawi-i). So manga mapia a galen na phakawada ko manga marata (iyan na so manga saday a dosa). 11:114
+- So Ghaib (di makasagala) ko manga langit ago ko lopa na ruk o Allah, ago ron na phakakasoi so langun a galen (sa kaputol). 11:123
+- So sogo (o kaputol) na ruk o Allah bo-on. Iniogo Iyan a da a pagsimbai niyo a salakao on (Tauhid Iyan), aya na a agama a ontol, na so kadaklan o manga taw na di siran katawan. 12:40
+- Di kano phakawada sa panginam ko Limo o Allah. 12:87
+- Na so kadaklan o manga taw na di siran pharatiyaya, gonsa ko kakhakal ka. 12:103
+- Na so kadaklan kiran na di siran pharatiyaya ko Allah a di siran phakipag-iinta (iyan na siran na manga Mushrik). 12:106
+- Aya (Qur'an) na di a katharo a imbaba-ba, na aya na kiyabunar ko manga Kitab a miyaga (so Taurat, so Injeel, ago so manga Kitab o Allah a salakao) ago so kapatot a kapanagowan ko langun a bagay, ago so torowan ago limo ko pagtao a manga Paratiyaya. 12:111
+- Allah na lalongana Niyan so pagayonon sa sasaw Iyan, ago pigotana Niyan (sa sasaw Iyan). 13:26
+- Taduma niyo so Allah sa madakul sa sabap ko dhikr. So manga taw a Paratiyaya ko Allah, na makapagayon so manga poso iran sa panadum on. 13:28
+- So manga taw a Paratiyaya ago nggolalanun niran so manga mapia, aya bagiyan niran so kapagayaga ago so kaphakataid o poso. 13:29
+- So manga taw a inilubi iran so kawasa ko doniya a di so Akhirat, ago phakasaguna siran ko (manga taw) phakapoon ko lalan o Allah (Islam) ago pangangawa siran sa kaborboran on — na siran na si-i ko kadadag a mawatan. 14:3
+- Ggalani niyo so kapakapakasasakob ago so panalamat ko pagsimba. 14:7
+- Aya ibarat o manga taw a da a Paratiyaya ko Kadnan niran, na so manga galen niran na lagid o omboh a iyop o ndo ko Alongan a mabalos; da a gogowat niran ko pinggalalanan niran. 14:18
+- Allah na phakatibas Iyan so manga Paratiyaya sa Katharo a matibas si-i ko doniya (iyan na phakasiloy siran sa pagsimba sa Allah bo-on) ago si-i ko Akhirat. 14:27
+- Di niyo tharowa a so Allah na di Niyan katawan so punggolalan o manga Darowaka (manga Mushrik, manga Darowaka, ago paman), na iya bo-on na pakalayat Iyan siran taman ko Alongan a makakasagala so manga mata sa kaluk. 14:42
+- Angkan so Allah na mbalasan Niyan so isa ka ginawa sa sabap ko pinggalalanan iyan. Mata-an a so Allah na Magalib so pagsabot Iyan. 14:51
+- Ago mata-an a Inadun Nami so taw phakapoon ko Lomba a makatagor, phakapoon ko Loto a maitom a binago. 15:26
+- Ago so Jinn, Inadun Nami siran ko miyaga phakapoon ko apoy a may kadug. 15:27
+- Aya bagiyan (Naraka) na pito a pinto; sa isa isa a pinto na adun a (sasaw a) bagian o manga baradosa. 15:44
+- Inadun Iyan so taw phakapoon ko Nutfah (so iyag a lnalun o mama ago o babai), na sa maoto na so (taw) na mabaloi a rowar a suppot. 16:4
+- Ago so manga ayam a kkandungan, Inadun Iyan siran rukano; si-i kiran na may kalamig (manga badju a mabobog) ago manga gona a madakul, ago phakapoon kiran na pushakan niyo. 16:5
+- Ago (Inadun Iyan) so manga koda, so manga bigal, ago so manga keledai, a pangontodan niyo ago pagindaan. Ago Inadun Iyan so (manga salakao a) manga bagay a di niyo katawan. 16:8
+- Aya bo-on so (Allah a) Somogow sa ig (oran) phakapoon ko langit; phakapoon on na pushimniyo, ago phakapoon on na thotobo so manga rogot a phagakanan niyo ko manga ayam niyo. 16:10
+- Aya bo-on so (Allah a) Miyanggal Iyan rukano so kalodan, angkan niyo makakan phakapoon on sa sapo a mabagong (seda), ago angkan niyo makapakasowa phakapoon on sa mga palamuti a isombo niyo. 16:14
+- Ago Inisab Iyan ko lopa so manga pablay a manga katibas, angan di kano phakayog, ago so manga lawasaig ago so manga lalan, angan kano makatoro. 16:15
+- Ino so Phagadun a lagid o di Phagadun? Ino di kano phanadum? 16:17
+- Amay iyan bilang niyo so manga limo o Allah, na di niyo madadalap. 16:18
+- Allah na katawan Iyan so ipangongoma niyo ago so ipanganggawang niyo. 16:19
+- So (manga simbahan) a (manga Mushrik) pushimba iran a salakao ko Allah, na da a inadun niran a kasanina, a siran na inadun. 16:20
+- (Siran) na manga patai, da a kawasa, ago di iran katawan o anday kiran kagoyangon. 16:21
+- Aya Katharo Ami sa isa ka bagay, amay iyan kabaya Ami, na iya bo-on na Tharowon Ami on: "Mbaloi ka!" na mbaloi. 16:40
+- Ino so manga taw a panggagalanan niran so marata, na masiguro siran a di siran palodun o Allah ko lopa, o makaoma kiran so siksa phakapoon ko da iran katawan? 16:45
+- Na aya bo-on rukano a limo ago mapia a bagay, na phakapoon ko Allah. Na amay iyan masogow kano o karata-an, na Ron kano phangangalow. 16:53
+- Na oriyan o kiyapokas Iyan ko karata-an phakapoon rukano, na sa maoto na so isa kano na phakipag-iinta ko Kadnan niran (Allah). 16:54
+- Mata-an a si-i ko manga ayam a kkandungan na adun a bagiyan niyo a thoma. Pushimniyo Nami rukano so si-i ko manga tiyan niran, a phakapoon ko pagi ago rogo, a gatas a masoti, a mabobog sa phanginom. 16:66
+- Na di kano phagoro sa Allah (ka da a lagid Iyan, ago di Iyan pagilayan a kasanina). Mata-an a so Allah na Katawan Iyan, na sukano na di niyo katawan. 16:74
+- Tangkep niyo a so Allah na Inibagay Iyan ko manga taw so kanug, so kailay, so pamin, ago so manga kasasana, angan siran manalamat. 16:78
+- Likawi niyo so katamah ago so kadangkok. 16:97
+- Amay iyan kabaya niyo a mbatiya so Qur'an, na somangkap kano ko Allah phakapoon ko Shaytan a radiman. 16:98
+- Tangkep niyo a so sala a nggolalanun sa da a katawan, na mata-an a pphakambo-on amay iyan so taw na thowbat ago pito. 16:119
+- Tawaga (Ya Muhammad ﷺ) (so manga taw) ko lalan o Kadnan ka (Islam) sa hadapan ago sa thoma a mapia, ago balakala i siran sa dalan a mapia. So panawag ko manga taw ko lalan o Allah na inggolalanun sa hadapan ago sa kapamagina. 16:125
+- Mata-an a so Allah na somasogow ko manga taw a somasangit on (so manga taw a phtotomanan niran so ipalimuut niran on), ago so manga taw a manga Muhsinun (manga taw a punggolalan niran so mapia). 16:128
+- Aya Qur'an na puthoro niyan so dalan a makalilintad. 17:9
+- Da a isa ka taw a makapagawid sa dosa o salakao. 17:15
+- Sa taw a kabaya so Akhirat ago pakagalam sa galen on, sa kapakagalam a patot on, ago so taw na Paratiyaya, na siran man na so kapakagalam iran na pphakatanggap ago pphakapahala (o Allah). 17:19
+- Phagadatan niyo so manga ginawa niyo ago ggalani niyo siran sa mapia. Mabaloi kano a manga tatakwa ko manga ginawa. Di kano tharo sa katharo a di mapagadatan. Ago so Kadnan ka na iniogo Iyan a da a pagsimbai niyo a salakao on. Ago so kapamagina niyo ko manga ginawa niyo. Amay iyan so isa kiran o so kadua niran na makasampay ko kabolan si-i ko kawasa ka, na di kano tharo kiran sa "Uf" ago di kano phakabor kiran, na tharowi kiran so katharo a mapagadatan. 17:23
+- Ago pakasakoba ka kiran sa kawing o kapakapakasakob ago limo, ago tharowangka: "Kadnan ko! Kalimo-i siran, lagid o kiyapanalima iran rakun ko oras a saday pa ako." 17:24
+- Mata-an a so manga taw a pphamalang na manga pagtood o Shaytan, ago so Shaytan na da a panalamat iyan ko Kadnan iyan. 17:27
+- Di kano phamalang ko pirak. 17:29
+- Di niyo pamono so manga wata niyo sa sabap ko kaluk ko kakamiskinan. 17:31
+- Di kano pagina ko zina. Otapi niyo so kasosoti o kasawi ago likawi niyo so zina. 17:32
+- Tarotopa niyo so sukol amay iyan magsukol kano, ago timbanga niyo sa timbang a ontol. Aya na a mapia (gona) ago mapia ko akhira. 17:35
+- Di kano phakasunod (hai taw, a ba kano di makatharo, o makagalin, o makasaksi, ago paman) ko da a katawan niyo on (lagid o tharo o taw: "Miya-ilay ako," a da man a miya-ilay iyan, o "Miyakanug ako," a da man a miyakanug iyan). 17:36
+- Mabaloi kano a manga taw a makasasakob ago di kano phakabor. Di kano lalakao ko lopa sa kapabor. Mata-an a sukano na di niyo makasobat so lopa, ago di niyo makasampay so kapangaroray o manga pablay. 17:37
+- So Kadnan ka na katawan Iyan so manga ginawa niyo; amay iyan kabaya Iyan, na kalimo-i kano Niyan; o amay iyan kabaya Iyan, na siksa-an kano Niyan. 17:54
+- Sa taw a bota si-i ko (doniya) a (di makailay ko manga Tanda o Allah ago di Paratiyaya on), na bota si-i ko Akhirat, ago madakul a kadadag. 17:72
+- Otapi niyo so manga oras o sambayang a itindag. 17:78
+- Mata-an a Kiyapayag Ami ko manga taw, si-i ko Qur'an a, so langun a ibarat, na so kadaklan o manga taw na inongkir iran (so bunar) a da a paratiyaya. 17:89
+- Mata-an a Iniibarat Ami ko manga taw, si-i ko Qur'an a, so langun a ibarat. Na so taw na mala a pphakasosompong a di so langun a bagay. 18:54
+- Aya na a balas iran na Naraka Jahannam; sa sabap ko kiyadasur iran ago so kiyakowa iran ko manga Ayat Ak ago ko manga Sogo Ak a kakawatan ago karomayan. 18:106
+- Di patot (ko Kabowagan o) Allah a mbaloi Iyan a Wata Iyan (aya na a thoma ko manga Nasrani a linombat iran ko Allah, sa tharo niran a so Isa na Wata o Allah). Soti so Allah (ago Mala a phakapoon ko ipakipag-iinta iran). 19:35
+- Tharowi niyo so manga taw sa katharo a malinong. 20:44
+- Pakagalam kano sa kapamagowai ko manga mapia. 21:90
+- Likawi niyo so katharo a awan a gona. 23:3
+- Otapi niyo so ginawa niyo. 23:5
+- Otapi niyo so manga poso niyo phakapoon ko manga kasasana a dosa. 23:97
+- Maap niyo so manga taw ago bayaan niyo so manga kasala iran. 24:22
+- Phagadatan niyo so kinakhaluman o manga taw, ilubi na ko manga waw niran. Tumanana niyo so manga hak o manga kapaginta. 24:27
+- Pakasakoba niyo so manga kailay niyo (sa mama ago sa babai). Otapi niyo so ginawa niyo ago so kasotian niyo. 24:30
+- Otapi niyo so kasosoti ko kambadju ago ko galen. 24:31
+- Tangkep niyo a so Allah na phakabagay Iyan sa kasigoroan ago sa kadatdatag ko manga taw a pushimba on ago punggolalan niran so mapia. 24:55
+- Di kano somolud ko darpa o manga ginawa niyo a di kano idana. 24:58
+- Mabaloi kano a manga taw a makasasakob ago makapakumbaba. 25:63
+- Likawi niyo so kasaksi a kabokhag ago so pangilima. 25:72
+- Pakagalam kano sa pahala ko Akhirat, na di niyo bayaan so manga galen niyo ko doniya. 28:77
+- Di kano pangayu ko salakao o Allah. 28:88
+- Di kano gola ko kabagahan. 29:29
+- Pakagalam kano sa kapipiya ko langun a pakagalam niyo. 29:69
+- Pamayandug niyo so sambayang ago tonay kano so zakat. 31:4
+- Pagonai niyo so mapia ago parawani niyo so marata. 31:17
+- Likawi niyo so kapabor ko galen niyo. Di niyo ilang so oras niyo ko katharo a awan a gona. 31:18
+- Magontol kano ko lalakao niyo ago so katharo niyo. 31:19
+- Sunoda niyo so ibarat o Nabi Muhammad. 33:21
+- So manga babai na di kiran pakatandag o pakapabog so kagandahan niran ago so manga palamuti niran. 33:33
+- Tharowa niyo so bunar ko langun a khaomatan. 33:70
+- Sapagana niyo so hadapan ago so kapanabot sa sabap ko pamikir. 38:29
+- Sunoda niyo so manga sogo o Qur'an. 39:23
+- Allah na phakamboat Iyan so langun a dosa, amay iyan so taw na thowbat ago somangondayo on. 39:53
+- Pangayu kano sa du'a (sambayang) a tulus ko Allah. 40:60
+- Bala-i niyo so marata sa mapia. 41:34
+- Putola niyo so manga galen sa sabap ko pamagadat. 42:38
+- Di niyo ipakalangit so manga sogo niyo a di so Sogo. 49:2
+- Otapi niyo so manga sirongo ago likawi niyo so panalia. 49:6
+- Payagani niyo so kadatdatag ko manga taw a mampakasosompong. Sapagana niyo so kapaginda ko manga pakasosompong. 49:9
+- Di kano phakasodi ko manga taw. 49:11
+- Likawi niyo so kadungog. Likawi niyo so pamag-ipit ago so pagsasab. Di kano pagsasab ago di kano phakasodi ko manga taw. Likawi niyo so langun a pagsasab ago phakasodi. Di niyo payagan so kababowag a phakapanglawani niyo. 49:12
+- Tangkep niyo a so takwa bo-on a phakapagadatan ko taw. Phagadatan niyo so kambabala ko manga taw ago ko manga adat. 49:13
+- Phagadatan niyo so manga pphamamasa. 51:26
+- Tatap a katawan niyo so manga ipalimuut niyo ko Allah. 51:56
+- Pamanoy kano ko manga kabotangan niyo sa sadaqah. 57:7
+- Tangkep niyo a da a pamongka (so panagbayao ko kasawi ago ko kagowaan a lagid o manga monghe, madre, o salakao a pphamamasa sa sabap ko manga sapa, o so manga darpa a paga-inan niran) ko agama. 57:27
+- Di niyo payagan so manga kabotangan niyo a makapagilang rukano ko kapanadum ko Allah. 58:11
+- So manga taw a may katawan, na pphakalangitan siran o Allah sa manga daraja. 58:11
+- Ggalani niyo so manga Salakao ko Islam sa mapia ago sa ontol. 60:8
+- Likawi niyo so kapamonapik ko manga Paratiyaya niyo ago ko manga galen niyo. 63:9
+- Mawatani kano ko katamah ago ko kadangkok. 64:16
+- Otapi niyo so manga Wahyu a iniinda rukano. 73:15
+- Tadumi niyo so Alongan a Qiyamah. 75:36
+- Pagonai niyo so kapakasabar ago so kasisin. 90:17
+- So manga taw a pphakasoti so ginawa iran, na siran so phakasampay sa kadalagasan; ago so manga taw a phakamarata on, na siran so miyagalang. 91:10
+- Di niyo pakasagala o pakasombong so manga miskin. 93:10
+- Sapagana niyo so katawan ago so kapanabot. Batiya-a niyo so Qur'an ago romingka kano on. 96:1–5
+- Palomarini niyo so kapakakana ko manga miskin. 107:3
 """;

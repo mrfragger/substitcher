@@ -979,7 +979,7 @@ class SidePanel extends StatelessWidget {
                           ],
                           TextSpan(
                             text: ' \u200E${_daysAgoLabel(item.lastPlayed)}',
-                            style: const TextStyle(color: Colors.white38),
+                            style: TextStyle(color: Colors.purple),
                           ),
                         ],
                       ),

@@ -3496,4 +3496,280 @@ Matching Phrases 8 words
 - Muzosubizwa ku Mana Allah Rumenyi w'ibinyegeje n'ibiboneka, maze Abamenyeshe ivyo mwakoze. (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
 
 - Abavandimwe basangiye amaraso, bamwe muri bo ni bo bakwiye gutorana, nk'uko byanditswe n'Imana Allah. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
+cmds - Commands, Exhortations, Prohibitions, Instructions
+- fard / wajib (فرض / واجب) — ni ngombwa (bigomba gukorwa; ukureka ni icaha)
+- mustahabb / mandub (مستحب / مندوب) — biravyeywe (urahabwa ingororano nukora, nta caha nurekura)
+- mubah (مباح) — biremewe / nta kibazo (nta ngororano canke icaha)
+- makruh (مكروه) — birababaza (ntibihimbazwa, ariko nta caha nubikora)
+- haram (حرام) — birabujijwe (ikora ni icaha)
+- halal (حلال, biremewe / ku bwemewe) — bikubiyemo mubah na mustahabb — ibintu vyose bitabujijwe
+- Ramya Allah wenyene, uze unsheko/inkunga yiwe. 1:5
+- Ramya Allah wenyene. 2:21
+- Ntugire abafatanyabwami b' Allah. 2:22
+- Allah niwe ubabarira (akira icaha), yakiriye icaha ca Adamu (amahoro yibereko). 2:37
+- Ntimuvange ukuri n'ikinyoma, kandi ntihishe ukuri. 2:42
+- Nimukore amasengesho (amasengesho ya buri musi) kandi mutange amaturo (Zakat). 2:43
+- Nimubwire abandi gukora ibyiza nyuma yo kubikora ubwanyu. 2:44
+- Usabe ubufasha bwa Allah mu bintu vyose. 2:45
+- Ntimugire ubwangizi kandi ntimubwirakwize. 2:60
+- Ntimubuze abantu guja mu nzu z'amasengero. 2:114
+- Mwubahane umutagatifu w'umusigiti. Nimukomeze ahantu hanyu ho gusengera hasukuye kandi heza. 2:125
+- Nimwibuke Allah (mu masengesho, gusingiza, n'ibindi) na we azibuka, kandi mumushimire. 2:152
+- Nimwihangane mu bihe bigoye. 2:153
+- Ntimukurikize inzira za Shetani (Satani) uri umwanzi uhishuye. 2:168
+- Ntimukurikize umuntu uwo ari we wese ubwira. 2:170
+- Nimurinde kandi musohoze amasezerano yose. Musohoze imirimo yanyu y'idini mu bwizerane. Musohoze indahiro n'amasezerano yanyu. Nimurinde amasezerano, cyane cyane ayagiriye Allah. Mujye mushigikira abakennye kandi mugabanye imbogamizi. Ntimukore ibyaha bihesha agaciro Imana. Ntimwemere ubwibone kubageza mu karengane. 2:177
+- Mu gihango (amategeko agenga igihano) hari ubuzima bwa mwe. 2:179
+- Nimwihingire mu kwezi kwa Ramadhani. Nimuhore mu kwihinga kutegekwa kugira ngo mube Abatagatifu. 2:183
+- Mwubahane Qur'an nk'isoko nyamukuru y'ubuyobozi. 2:185
+- Ntimukarye umutungo w'umuntu wundi ku nzira mbi, kandi ntimuhe ruswa abacamanza (mbere yo gutanga ibibazo byanyu). 2:188
+- Ntimukandamize abandi, mu magambo canke mu bikorwa. Ntimurwane nk'abagizi ba nabi, ahubwo murwane kugira ngo mwirinde. 2:190
+- Nimurinde impfubyi. Kubijyanye n'impfubyi, mukore by'ukuri mu mutungo wazo kandi ntimukarye umutungo wazo. 2:220
+- Nimwicuze kandi musabe imbabazi za Allah. Ntimugirane imibonano mpuzabitsina mu gihe cy'ukwezi. Nimukomeze kuba maso (mu mubiri no mu mwuka). 2:222
+- Musohoze inshingano zanyu ku muryango wanyu. 2:233
+- Nimutoranye abayobozi bakurikije ibyo bakwiriye. 2:247
+- Nta guhatirwa mu idini. 2:256
+- Nimutange amafaranga mu但它abagiraneza. Mube abagiraneza mu mutungo n'igihe. 2:261
+- Ntimukuremo agaciro amaturo anyu mwiyitaza kugira neza kwanyu. 2:264
+- Shetani (Satani) abahanira ubukene kandi abategeka gukora ibiteye isoni (ibikorwa bibi, imibonano mpuzabitsina itemewe, ibyaha). 2:268
+- Nimushakire abakene kandi mubafashe. 2:273
+- Ntimujye mu mezi y'inyongera. Ntimukarye umutungo ufite inyongera. Ntimukarye Riba (inyongera). 2:275
+- Nimuhe umwenda igihe cyinshi cyo kwishyura niba ari mu ngorane. 2:280
+- Nimuhore ku magambo yanyu mu bucuruzi. Mube abanyabyaha mu by'ama faranga yanyu. Mukore mu budahemuka mu masezerano yanyu yose. Iyo mufite umwenda ku gihe kigenwe, nimuwandike. Nimufashe abatangabuhamya igihe cyose mushaka amasezerano y'ubucuruzi. 2:282
+- Nimurinde kandi musohoze amasezerano yose. 2:283
+- Nimwemere ibitabo byahishuwe n'Abahanuzi bose. 2:285
+- Allah ntashyira umuntu ku ngufu zirenze ubushobozi bwe. Azahabwa ibihembo ku byiza yakoze, kandi azahanirwa ibibi yakoze. Imana ntishyira umuntu ku ngufu zirenze ubushobozi bwe; natwe ntitugomba gukora ibyo. Nimwiringire gahunda ya Allah n'igihe cy'amakuba. 2:286
+- Uzohoza amasezerano kandi akitinya Allah, rero Allah akunda abatinya Imana. 3:76
+- Nimukore Hajji (urugendo rw'i Meka) niba mushoboye. 3:97
+- Ntimucikane. 3:103
+- Nimutegeke ibyiza kandi mubuze ibibi. Nimushishikarize gukiranuka mu muryango wanyu. Nimuhamagare abandi kwibuka Allah. 3:104
+- Abemera bagombye kwiringira Allah. 3:122
+- Ntimukarye Riba (inyongera). 3:130
+- Nimwumvire Allah n'Intumwa ye kugira ngo mugirirwe impuhwe. 3:132
+- Allah akunda abatanga (mu nzira ya Allah — ibikorwa by'itangazamakuru, amaturo, n'ibindi) mu byiza no mu ngorane, abahana uburakari, n'abababarira abantu. 3:134
+- Nimuhane uburakari. Nimugenzure uburakari bwanyu. 3:134
+- Nimubabarire kandi mubihoreze ibyaha by'abandi. 3:135
+- Ntimube inkazi mu magambo. Nimwihangane ku batumvikana na mwe. 3:159
+- Niba Allah abafashije, nta wundi watsinda; niba akibagirana, ni nde wundi wabafasha? 3:160
+- Buri muntu azerwa urupfu. Ku munsi w'izuka ni ho muzahabwa ibihembo byanyu byuzuye. 3:185
+- Nimutekereze cyane ku bitangaza bya kamere no ku irema ry'isi. Mumenye ko Imana yaremye isi ifite ubusobanuro n'intego. 3:191
+- Abagabo n'abagore bafite ibihembo bingana ku bikorwa byabo. 3:195
+- Abatinya Nyagasani wabo, bazagira ubusitani (mu Ijuru) butembamo imigezi; bazabamo ubuziraherezo, nk'ikirori gitangwa na Allah. 3:198
+- Muhore mushishikariza kwishimisha Allah mu bikorwa byose. 3:200
+- Mwubashye Nyagasani wanyu, mumutinye kandi (ntimukemure) umuryango. 4:1
+- Nimuhe impfubyi umutungo wazo kandi ntimuhinduranye (ibibi byanyu) n'ibyiza byazo; kandi ntimukarye umutungo wazo (mu kuwongeraho). 4:2
+- Nimuhe abagore (mubashyingira) inkwano zabo (amafaranga y'ubukwe agomba gutangwa n'umugabo ku mugore we igihe cy'ubukwe) n'umutima mwiza. 4:4
+- Nimurinde uburenganzira bw'impfubyi. 4:6
+- Umutungo w'umupfuye ugomba kugabanywa mu bagize umuryango we. Abagore bafite uburenganzira bwo kuzungura. 4:7
+- Ntimukarye umutungo w'impfubyi mu buryo bukiranirwa. 4:10
+- Nimwumvire amabwiriza yerekeye izungura. 4:11
+- Birabujijwe kuzungura abagore batabishaka, kandi ntimubafashe nabi. Nimubane (abagore) mu bwubahane. Mwubashye kandi mubungabunge uburenganzira bw'abagore. Nimufashe umugore wanyu ubuntu n'impuhwe. Nimufashe abagore mu icubahiro n'ubutabera. 4:19
+- Ntimurongore abo mufitanye isano rya maraso. 4:23
+- Ntimwice (canko mwice mwe ubwanyu). Allah ni nyirimbabazi kuri mwe. Ntimukarye umutungo w'umuntu wundi mu buryo bukiranirwa. 4:29
+- Nimwirinda ibyaha bikomeye bibujijwe, Allah azababarira (ibitoya) ibyaha byanyu, kandi azabinjiza mu nzira nziza (Ijuru). 4:31
+- Ntimwifurize ibyo Allah yahaye bamwe muri mwe kurusha abandi. Nimwirinde ishyari n'umugongo. 4:32
+- Abagabo ni abarezi n'abarinzi b'abagore, kubera ko Allah yarushijeho bamwe kurusha abandi, ndetse no kubera ko batanga (mu kubungabunga) umutungo wabo. Umugabo ni umurinzi n'umutabazi w'umuryango. 4:34
+- Ramya Allah kandi ntugire umufatanya na we, ube neza kubabyeyi, abavandimwe, impfubyi, abakene, abaturanyi, mugenzi wawe, umurinyacyaha (uhura na we), ndetse n'aba mufite mu maboko yanyu (imbata). Allah ntakunda abibone n'abarimbura. Mwubane neza n'abandi. Mugirire impuhwe abanyantege nke. Muhore mu muryango kandi mwubashye abavandimwe. 4:36
+- Ntimube amagagaragu. 4:37
+- Allah ntababarira gufatanya na we, ariko ababarira ibitari ibyo ku wundi ashaka. 4:48
+- Ntimushushanye abandi. 4:54
+- Allah abategeka gusubiza amasezerano abo ari abo. Iyo mucamanza hagati y'abantu, mucamanze mu butabera. 4:58
+- Nimwumvire Allah n'Intumwa ye. Nimuhe icyubahiro abafite ubutegetsi muri mwe. 4:59
+- Ntimukandamize abanyantege nke n'abakene. 4:75
+- Icyiza cyose kibagera ni ibyo Allah; n'ikibi cyose kibagera ni ibyo mwe ubwanyu. 4:79
+- Uwumvira Intumwa (Muhammad ﷺ), yumviye Allah. 4:80
+- Ushyigikira ikibi mu rukundo, azahabwa igihembo; n'ushyigikira ikibi, azahabwa umutwaro. 4:85
+- Ntibikwiriye ko umwemera yica undi wemera, keretse bitajijwe. 4:92
+- Umuntu ica umwemera abishakisha, igihano cye ni ikuzimu, aramo ubuziraherezo. Allah aramurakarira kandi amuvumira, kandi yaramuteguriye ibihano bikomeye. 4:93
+- Uwimukira (mu rugo rwe) mu nzira ya Allah, azabona mu isi ibibanza byinshi n'ubukungu. 4:100
+- Nimuhore mu masengesho yanyu. 4:103
+- Ntimushyigikire canke ngo mube abavocatshiriye abatwika amasezerano. 4:105
+- Musabe imbabazi za Allah, Allah ni nyirimbabazi, nyirimpuhwe. 4:106
+- Yemwe bemeye! Muhagarare ku butabera, mube abatangabuhamya ba Allah, kabone nihaba ibihabwe canke ku babyeyi banyu canke ku bavandimwe banyu, yaba umukire canke umukene. Ntimukarinde ubutabera; nimukore vuba kugira ngo mukosore amakosa. 4:135
+- Abanyabwenge bagerageza gushuka Allah, ariko ni we ubashuka. 4:142
+- Abanyabwenge bazaba mu ntango y'umuriro; kandi ntabwo uzababonera umutabazi. 4:145
+- Allah ntakunda ko ikibi kivugwa mu ruhame, keretse n'uwakorewe nabi. 4:148
+- Intumwa zoherejwe nk'abagezabutumwa bwiza ndetse n'abahanuzi, kugira ngo abantu ntibagire impamvu yo guhakana Allah nyuma y'Intumwa. 4:165
+- Musohoze amasezerano n'indahiro zanyu. 5:1
+- Mujye mufashanya mu byiza no mu gutinya Allah, kandi ntitumufashanye mu byaha n'ubugome. 5:2
+- Ntimukarye ibyamaze gupfa, amaraso, n'inyama y'ingurube. 5:3
+- Mube abatabera, ntimwemere ubugome n'urwango rw'abandi kubahinduranya n'ubutabera. Mube abatabera. Mumenye ko ubutabera bugari hafi y'ubutinya Allah. Ntimukarinde ubutabera; nimukore vuba kugira ngo mukosore amakosa. 5:8
+- Nimushake inzira zo kwiyegereza Allah, kandi muhate mu nzira ye uko mushoboye. Kugira ngo mubatsinde. 5:35
+- Musohoze indahiro n'amasezerano yanyu. 5:89
+- Nimwirinde ibinyobwa bibi. Nimwirinde by'umwihariko ibinyobwa bibi (ibinyobwa byose birimo uburozi), amashaneli, ibigirwamana, n'amarimwe (yo gusarura), ni ibikorwa bibi bya Shetani. 5:90
+- Ntimuhige inyamaswa zishobora guhingwa mugihe muri Ihram rya Hajji canke Umrah. 5:95
+- Ntimubaze ibintu, niba byabagaragariwe, byabababaza. 5:101
+- Ntimutuke imana z'abandi. Ntimutuke ibyo (abahakanyi) basengera uretse Allah, kugira ngo ntibanature Allah mu ubumenyi. 6:108
+- Nimvira benshi mu bari ku isi, bazabayobya. Ntibakurikiza keretse ibyo bagirango, kandi ntibakora ikindi kitari ikinyoma. 6:116
+- Nimureka (abantu) ibyaha byose, ibigambiranye n'ibihishwe. 6:120
+- Ntimukarye (mwe abemera) iyo (nyama) itavugwaho izina rya Allah (igihe cyo gikubwa). 6:121
+- Uwo Allah ashaka kuyobora, aramurangura; n'uwo ashaka kuyobya, aramuragiza. 6:125
+- Mube abarimbuka mu gutanga kandi mwirinde ubuyobe. Nimurinde uburenganzira bw'ibiremwa byose. 6:141
+- Ntugire umufatanya Allah, be neza kubabyeyi, ntuge imana abana bawe ubwoba, ntwegere ibiteye isoni, ntuge umuntu Allah yabujije, keretse kubwimpamvu zihamye. 6:151
+- Mube indahemuka; ntimuhendere mu bucuruzi bwanyu. Ntimwegere umutungo w'impfubyi, keretse ngo ubutunganye, mutange bipimo bihagije n'ibipimo byuzuye mu butabera, nimuvuga, muvuge ukuri kabone nubwo bijyanye n'umuvandimwe wa hafi, kandi musohoze amasezerano ya Allah. 6:152
+- Nimukurikize inzira igororotse, kandi ntimukurikize (izindi) nzira, zibakura mu nzira ye. 6:153
+- Vuga (Muhammad): "Mu by'ukuri, amasengesho yanjye, ibitambo byanjye, ubuzima bwanjye, n'urupfu rwanjye byose ni ibya Allah, Nyagasani w'abiremwa." 6:162
+- Ntimwibone. 7:13
+- Shetani ntabayobya. 7:27
+- Vuga (Muhammad): "Nyagasani wanjye yategetse ubutabera…" 7:29
+- Nimushikamire ku mbibi za Allah mu bintu byose. Nimwirinde kwica imbibi mu magambo n'ibikorwa. Nimurye kandi mukunywe, ariko ntimukabaye. Nimwambare imyenda myiza mugihe cy'amasengesho. 7:31
+- Allah yaremye ijuru n'isi mu minsi itandatu, hanyuma atera ku Ntebe y'Ubwami (mu buryo bukwiye ubukuru bwe). 7:54
+- Nimuhamagare Nyagasani wanyu mu icishwa n'ubwira. Ntakunda abagizi ba nabi. 7:55
+- Kandi ntimugire ubwangiza ku isi, nyuma yo gutunganywa, kandi mumuhamagare mu bwoba n'ikizere. 7:56
+- Naho abakoze ibyaha, hanyuma bicuza kandi bakemera, rero Nyagasani wanyu nyuma y'ibyo ni nyirimbabazi, nyirimpuhwe. 7:153
+- Vuga (Muhammad): "Yemwe bantu! Mu by'ukuri, njye ndi Intumwa ya Allah ihererewe muri mwe bose…" 7:158
+- Kandi (amazina) yose meza ni iya Allah, rero nimumuhamagare nayo, kandi nimureka abayahinyura… 7:180
+- Uwo Allah ayobya, nta wumuyobora; kandi abareka bayobagurika mu buzirabwoba. 7:186
+- Niba ushaka kugaragaza ikinyabupfura, kandi ugaragaze ibyiza, kandi uhindukire kuri injiji. 7:199
+- Nimubabarire abandi ku makosa yabo. 7:199
+- Kandi igihe Shetani akugira inyigisho mbi, usabe ubuhungiro mu Mana. Mu by'ukuri, ni we wumva, umenyi. 7:200
+- Abemera ni bo babona gukuka mu mitima yabo igihe bavuga Allah, no mu gihe amagambo ye asomwa, akongerera imana… 8:2
+- Ntimuhindure Allah n'Intumwa ye, kandi ntimuhindure amasezerano yanyu (n'imirimo yose Allah yabategetse) kandi mubizi. 8:27
+- Nimutinya Allah akabategeka, azabagaburira gutandukanya (ikintu) canke ngo abashe kurangiza ingorane. 8:29
+- Abahakanyi batanga amafaranga yabo kugira ngo babuze (abantu) inzira ya Allah, kandi bazakomeza kubitanga; ariko mperuka bizababera umubabaro. 8:36
+- Babwire abahakanye: nimureka (ubuhakanyi), bazababarirwa ibyabanjirije. Ariko niba basubira, uburenganzira bw'abanjirije bwaherutse (nk'ikibazo). 8:38
+- Igihe muhura n'ingabo (z'umwanzi), muhagarare, kandi mwibuke izina rya Allah byinshi (ku rurimi no mu mutwe), kugira ngo mutsinde. 8:45
+- Ntimube nk'abasohotse mu ngo zabo binezerwa kandi bagaragara imbere y'abantu, kandi (babuza abantu) inzira ya Allah. 8:47
+- Allah ntihindura ingabire yaha abantu, keretse bahinduye ibiri muri bo ubwabo. 8:53
+- Ibinyabuzima bibi cyane imbere ya Allah ni abahakanyi. 8:55
+- Allah ashira urukundo hagati y'abemera. 8:63
+- Nimurinde kandi mufashe abashaka ubuhungiro. 9:6
+- Ntibikwiriye Abashyigikira Imana gutunga imisigiti ya Allah. 9:17
+- (Abahakanyi, Abayahudi n'Abakirisitu) bashaka kuzimya umucyo wa Allah (Muhammad yatumwe na we) n'imirwa yabo, ariko Allah ntacyo aretse keretse kuzuza umucyo we, kabone nubwo abahakanyi babangana. 9:32
+- Amaturo ni ay' (1) abakene, (2) abatishoboye, (3) abayakusanyiriza, (4) bashishikarizwa, (5) kubohora imbata, (6) abafite imihendo, (7) mu nzira ya Allah (ku rugamba), (8) n'umunyacyaha. 9:60
+- Uwo ari we wese uhakana Allah n'Intumwa ye (ﷺ) kandi akabahakanya, azaba mu muriro wa Jahanamu ubuziraherezo. Icyo ni igihano gikomeye. 9:63
+- Abanyabwenge, abagabo n'abagore, bose ni kimwe. Bibagiwe Allah, n'abo bibagiwe. 9:67
+- Muhate ubugome. Mwubashye umutagatifu wa musigiti. 9:108
+- Ntibikwiriye (umuhanuzi n'abemera) gusaba imbabazi z'abahakanyi, kabone nubwo baba bavandimwe, nyuma yo kubamenyesha ko ari abo mu muriro (kubera ko bapfiriye mu buhakanyi). 9:113
+- Ni nde ukiranirwa kurusha uhakana Allah canke uhinyura amagambo ye? Mu by'ukuri, inkozi z'ibyaha ntizatsinda! 10:17
+- Basenga ibitari Allah bitabagira n'ikibi canke n'ikiza, bakavuga: "Izo ni zo zitubwirira imbabazi imbere ya Allah." Vuga: "Mubwira Allah ibyo atazi mu ijuru no ku isi?" Asingizwe, kandi ari hejuru y'ibyo bamwiyita. 10:18
+- Igihano cy'ikibi ni kimwe. 10:27
+- Ni yo Allah, Nyagasani wanyu nyir'ukuri. Nyuma y'ukuri, ni iki kitari ukwirirwa? None ni iki kibahindukiza? 10:32
+- Benshi muri bo bakurikiza ibitekerezo byabo gusa. Mu by'ukuri, ibitekerezo ntibigira icyo bihaza mu kuri. 10:36
+- Mu by'ukuri! Allah ntakiranirira abantu na gato; ariko abantu ni bo bakarwanira ubwabo. 10:44
+- Mumenye ko ingabire ya Allah ari nziza kuruta ibintu byose umuntu yegeranya. 10:58
+- Ntimube mu bahakana ibimenyetso vya Allah, kuko muzaba mu batazatsinda. 10:95
+- Niba Allah akubwiye ikibi, nta wukivura uretse we; niba akubwiye ikiza, nta wukumvira. Atanga ibyo ashaka ku bagaragu be. 10:107
+- Nta kinyabuzima kiri mu isi kitagira amafunguro ya Allah. Kandi azi aho kiba n'aho kizahambwa. 11:6
+- Iyo tumaze kugira umuntu impuhwe, hanyuma tukayimwambura, aba amaze kubura ibyiringiro kandi aba ashishikaye. 11:9
+- Ushaka ubuzima bw'isi n'uburumbuke bwayo, tuzabagaburira ibihembo byabo byuzuye, kandi ntibazabura umugisha. 11:15
+- Ntibakiranirijwe, ahubwo bakiranirira ubwabo. Imana yabo yabahakanye, igihe itegeko ry'umwami wanyu ribagezeho, nta kintu cyabafashije, ahubwo yabongereye ibyago. 11:101
+- Ku munsi w'izuka, nta muntu uzavuga keretse uburenganzira bwa Allah. Bamwe bazaba babi, abandi beza. 11:105
+- Ababi bazaba mu muriro, aho bazagira imirira n'ibyago. 11:106
+- Bazaba mu muriro ubuziraherezo, igihe ijuru n'isi bizamara, keretse Nyagasani wawe abishaka. Mu by'ukuri, Nyagasani wawe ni we ukora ibyo ashaka. 11:107
+- Naho ababeza, bazaba mu Ijuru, aho bazaba ubuziraherezo, igihe ijuru n'isi bizamara, keretse Nyagasani wawe abishaka, impano itagira ingano. 11:108
+- Ntimwegeranye n'abakiranirwa, kugira ngo umuriro ntibabagere, kandi mutagira umurinzi usibye Allah, kandi ntibazafashwa. 11:113
+- Musenge mu gitondo, nimugoroba, ndetse n'ijoro. Mu by'ukuri, ibikorwa byiza byica ibibi. 11:114
+- Ibyo batabona no ku isi ni ibya Allah, kandi ibintu byose bisubira iwe. 11:123
+- Itegeko (canke urubanza) ni ibya Allah. Yategetse ko mutagira undi musengera usibye we (ubumwe), ibyo ni idini ritunganye, ariko abantu benshi ntibabizi. 12:40
+- Ntimukirimbuke impuhwe za Allah. 12:87
+- Kandi abantu benshi ntibazemera, kabone nubwo ubishaka cyane. 12:103
+- Kandi benshi muri bo ntibemera Allah, ahubwo baramuhakanye. 12:106
+- Iyo (Quran) si amagambo y'ubwenge, ahubwo ni ukwemeza ibyabanjirije (Tawrat, Injili, n'ibindi) ndetse n'ibisobanuro birambuye by'ibintu byose, ndetse n'ubuyobozi n'impuhwe ku bantu bemera. 12:111
+- Allah aha uwo ashaka umutungo, kandi akabuza uwo ashaka. 13:26
+- Mumwibuke Allah cyane. Abemera Allah, imitima yabo iruhukira iyo bamwibutse. 13:28
+- Abemera kandi bagakora ibyiza, bazagira ibyishimo n'umutekano. 13:29
+- Abahitamo ubuzima bw'isi kurusha ubuzima bw'ijuru, kandi bakabuza (abantu) inzira ya Allah (Islam) ndetse bakayitandukanya — abo bari mu makosa makuru. 14:3
+- Mwihangane kandi mushimire mu gusenga. 14:7
+- Igishushanyo cy'abahakanye Nyagasani wabo, ibikorwa byabo ni nk'ivu, rihuhurwa n'umuyaga mu munsi w'inkubi; ntibashobora kugera ku cyo bakoze. 14:18
+- Allah azashikamisha abemera ku magambo meza mu buzima bw'isi (bazakomeza gusenga Allah wenyine) ndetse no mu ijuru. 14:27
+- Ntimugire ngo Allah atazi ibyo abakiranirwa (abashyigikira Imana, abakandamiza, n'ibindi) bakora, ariko arabatinda ku munsi amaso azahagarara. 14:42
+- Kugira ngo Allah ahe umuntu wese ibikwiye ibikorwa bye. Allah ni wihuta mu kubara. 14:51
+- Kandi mu by'ukuri, twaremye umuntu akoresheje ibumba ryumvise, ibumba ryijimye. 15:26
+- N'abajini, twabaremye mbere y'ibyo, mu muriro w'umurabyo. 15:27
+- Uru rufite ibirego birindwi; buri irego rifite icyiciro cy'ibyaha. 15:44
+- Yaremye umuntu mu ntanga (amazi y'umugabo n'umugore), hanyuma aba umwanzi uhishuye. 16:4
+- N'amatungo, yabaremye; mu byo mubona ubushyuhe (imyenda ishyushye) n'ibyiza byinshi, kandi mu byo murya. 16:5
+- N'ifarashi, n'imyumbu, n'amatungo, kugira ngo mubice no kugira ngo mube abakire. Kandi arema ibintu bitazwi. 16:8
+- Ni we umanura amazi (imvura) mu ijuru; munywa, kandi mubona ibimera kugira ngo muhore. 16:10
+- Ni we wabategetse inyanja kugira ngo murye inyama nziza (amafi), kandi musohore imbuto zawe. 16:14
+- Yashyize imisozi ku isi itanyeganyega, n'inzuzi n'inzira, kugira ngo muyoboke. 16:15
+- Ese uwaremye ari nk'utaremye? None ntimwibuka? 16:17
+- Niba mubara ingabire za Allah, ntibazishobora kubara. 16:18
+- Allah azi ibyo muhisha n'ibyo mugaragaza. 16:19
+- Abo basenga batari Allah ntacyo baremye, ahubwo ni bo baremwe. 16:20
+- Bapfuye, nta bugingo; kandi ntibazi igihe bazazurwa. 16:21
+- Ijambo ryacu ku kintu, iyo turi bugiye, ni ukuvuga: "Haba!" kikaba. 16:40
+- Ese abakora imigambi mibi bumva ko Allah atazabibya mu butaka, canke ko ibihano bitazabageraho? 16:45
+- Ibyiza byose mufite ni ibya Allah. Igihe cy'ikibi kibagezeho, ni we mwiyamamariza. 16:53
+- Iyo amaze kubakuraho ikibi, bamwe muri mwe bagira ibyo bafitanye na Nyagasani wabo. 16:54
+- Mu matungo hari inyigisho. Tubaha amata meza ava mu nda z'amatungo, hagati y'umusaruro n'amaraso, meza ku munywera. 16:66
+- Ntimugire ibifite ishusho na Allah (kuko nta kintu gisa na we). Mu by'ukuri, Allah azi, ariko mwe ntibumva. 16:74
+- Mumenye ko Allah yaha abantu amatwi, amaso, n'imitima, kugira ngo bashime. 16:78
+- Nimwirinde ubucuruzi bw'urugomo n'ubw'ubwishingizi. 16:97
+- Igihe usoma Quran, ugaragaze ubuhungiro kwa Allah, kugira ngo Shetani ntakugirire nabi. 16:98
+- Mumenye ko ikosa rizababarira niba umuntu yicuza kandi agakosora. 16:119
+- Hamagara (Muhammad) abantu bose kugira ngo batahereke mu nzira ya Nyagasani wawe (Islam), ukoresheje ubwenge n'impuhwe, kandi ujye ubabwira mu nyigisho nziza. 16:125
+- Allah ari kumwe n'abamutinya (abakurikiza amategeko ye) n'abagira ibyiza. 16:128
+- Iyi Quran iyobora mu kintu cyiza cyane. 17:9
+- Nta muntu uzatwara icyaha cy'undi. 17:15
+- Ushaka ubuzima bw'ijuru kandi akabukorera ibikorwa, n'umwemera, rero ibikorwa byabo n'ibyiza. 17:19
+- Nimwubashye ababyeyi, kandi mubafashe neza. Nimukurikize amategeko yabo. Ntimubabwire n'ijambo ribabaza. Nyagasani wawe yategetse ko mutasenga keretse we. Kandi ko mugomba kubafata neza. Niba umwe muri bo canke bombi bageze mu za bukuru, ntibabwire ngo "bwa", kandi ntibababaze, ahubwo mubabwire amagambo meza. 17:23
+- Kandi ubaha ubwira, uvuge: "Nyagasani wanjye! Ubagirire impuhwe nk'uko bandereye nkiri muto." 17:24
+- Mu by'ukuri, abanyabwiyongera ni abavandimwe ba Shetani, kandi Shetani ni umuhakanyi wa Nyagasani we. 17:27
+- Ntimukarimbure amafaranga. 17:29
+- Ntimuge imana zanyu bitewe n'ubwoba bw'ubukene. 17:31
+- Ntimwegere ubusambanyi. Nimurinde ubusambanyi. 17:32
+- Muge ikigereranyo cyuzuye igihe mupima, kandi mupime ibipimo byuzuye. Ibyo ni byiza kandi byiza mu mperuka. 17:35
+- Ntimukurikize ibyo utazi (nko kuvuga: "nabonye," naho utabonye, canke "numvise," naho utumvise). 17:36
+- Mube abicisha bugufi, kandi ntimube abigira nk'abatagatifu. Ntimugende ku isi mwibone. Mu by'ukuri, nta wushobora kurenga isi canke kugera ku misozi. 17:37
+- Nyagasani wawe azi neza ibyanyu. Niba ashaka, azabagirira impuhwe; niba ashaka, azabahana. 17:54
+- Uwari impumyi ku isi (utabonye ibimenyetso bya Allah kandi utemera), azaba impumyi ku ijyuru, kandi azaba ayobye cyane. 17:72
+- Nimurinde amasengesho ku bihe bishoboye. 17:78
+- Mu by'ukuri, twasobanuye mu muntu muri iyi Qur'an amateka yose, ariko abantu benshi barahakana. 17:89
+- Twatanze ingero zose mu Qur'an kubantu. Ariko umuntu ni uwibaza cyane. 18:54
+- Ibihano byabo ni ikuzimu; kubera ko bahakanye kandi bakanyoza ibintu bya Allah n'intumwa ze. 18:106
+- Ntibikwiriye (ikinyabupfura cya) Allah kugira umwana (ibyo bivuga abakirisitu babivumbura). Asingizwe. 19:35
+- Muvugane nabantu neza. 20:44
+- Nimwirukane mu bikorwa byiza. 21:90
+- Nimwirinde amagambo atagira umumaro. 23:3
+- Nimurinde ibyaha by'imibonano. 23:5
+- Nimurinde imitima yanyu kugira ibintu bibi. 23:97
+- Nimubabarire abandi kandi mubihoreze. 24:22
+- Mwubashye ubwihisho bw'abandi, cyane cyane mu ngo zabo. Musohoze uburenganzira bw'abaturanyi. 24:27
+- Nimubone amaso (abagabo n'abagore). Nimurinde ibyaha. 24:30
+- Mwambare neza kandi mujye mu myifatire myiza. 24:31
+- Mumenye ko Allah aha umutekano n'ubutabera abamusenga kandi bagakora ibyiza. 24:55
+- Ntimwinjire mu nzu z'ababyeyi batababwiye. 24:58
+- Mube abicisha bugufi. 25:63
+- Nimwirinde ubuhamya bw'ibinyoma n'ubujura. 25:72
+- Mushishikarize ibihembo byo mu ijuru, ariko ntimwirengagize ibyo mu isi. 28:77
+- Ntimusenge ikindi kintu kitari Allah. 28:88
+- Ntimugirane imibonano mpuzabitsina n'abagabo. 29:29
+- Muhate umwete mu bikorwa byose. 29:69
+- Nimukore amasengesho kandi mutange amaturo. 31:4
+- Nimutegeke ibyiza kandi mubuze ibibi. 31:17
+- Nimwirinde ubwibone mu myifatire yanyu. Ntimukarimbure igihe mu magambo adafite umumaro. 31:18
+- Mube abanyamwete mu kugenda no mu ijwi ryanyu. 31:19
+- Nimukurikize urugero rw'Intumwa Muhammad. 33:21
+- Abagore ntibagaragaze canke ntibanezerwe n'ubwiza bwabo. 33:33
+- Mujye muvuga ukuri mu bihe byose. 33:70
+- Mushakire ubwenge n'ubumenyi binyuze mu gusuzuma. 38:29
+- Nimukurikize amategeko ya Qur'an. 39:23
+- Allah ababarira ibyaha byose igihe umuntu yicuza kandi agaruka. 39:53
+- Musenge Allah mu bwitonzi. 40:60
+- Nimukurikire ibibi n'ibyiza. 41:34
+- Nimuhe amasezerano mu gushaka. 42:38
+- Ntimuzamure amajwi anyu hejuru y'Intumwa. 49:2
+- Nimurinde ibibazo kandi mwirinde ubujura. 49:6
+- Nimushyigikire amahoro hagati y'abahakanye. Mushakire amahoro mu ntambara. 49:9
+- Ntimuseke abandi. 49:11
+- Nimwirinde gutekereza nabi. Nimwirinde gushishoza. Ntimuvuge ibibi iby'umuntu wundi. Nimwirinde ibyaha n'ibikorwa bibi. Ntimwemere ubwibone kubageza mu karengane. 49:12
+- Mumenye ko nyir'icyubahiro cyane imbere ya Allah ari we wabatinye cyane. Mwubashye amahoro n'ubwoko. 49:13
+- Mwubashye abashyitsi. 51:26
+- Musohoze inshingano zanyu kuri Allah. 51:56
+- Mutange amafaranga mu butabera. 57:7
+- Mumenye ko nta bumoni mu idini. 57:27
+- Ntimwemere umutungo kubabuza kwibuka Allah. 58:11
+- Abafite ubumenyi bazakuzwa mu nzego. 58:11
+- Mujye mufata abatarI Islam neza. 60:8
+- Nimwirinde ubugome mu myemerere n'ibikorwa byanyu. 63:9
+- Nimwirinde ubwicuzi n'ubwishingizi. 64:16
+- Nimurinde amasezerano yanyu. 73:15
+- Nimwibuke umunsi w'izuka. 75:36
+- Nimutegeke kwihangana n'impuhwe. 90:17
+- Abazeza imitima yabo, abatsindira; n'abayonona, baratsindwa. 91:10
+- Ntimwirengagize abakene canke ngo mubabuze. 93:10
+- Mushakire ubumenyi n'ubushishozi. Musome Quran kandi muyisuzume. 96:1–5
+- Nimushishikarize kugaburira abakene. 107:3
 """;

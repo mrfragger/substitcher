@@ -3317,4 +3317,280 @@ Matching Phrases 8 words
 - Allah manitatra ny fivelomana ho an'izay tiany amin'ny mpanompony ary mampihena izany. (اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ) 28:82; 29:62
 - Ary hiverina any amin'ilay Mahalala ny zavatra miafina sy hita maso ianareo, dia holazainy aminareo izay nataonareo. (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
 - Ary ny havana akaiky dia samy manan-jo kokoa noho ny hafa, araka ny Soratr'i Allah. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
+cmds - Commands, Exhortations, Prohibitions, Instructions
+- fard / wajib (فرض / واجب) — fard / wajib (tsy maintsy atao; fahotana ny mandao azy)
+- mustahabb / mandub (مستحب / مندوب) — atolotra / aroso (valisoa raha atao, tsy fahotana raha avela)
+- mubah (مباح) — avela / tsy misy fiantraikany (tsy valisoa na fahotana)
+- makruh (مكروه) — tsy tiana (tsy ampirisihina, fa tsy fahotana raha atao)
+- haram (حرام) — voarara (fahotana ny manao azy)
+- halal (حلال, avela / ara-dalàna) — ahitana ny mubah sy ny mustahabb — izay rehetra tsy voarara
+- Mivavaha amin'i Allah irery ary angataho ny fanampiana/ny vonjiny. 1:5
+- Mivavaha amin'i Allah irery. 2:21
+- Aza manao mpiara-mivavaka amin'i Allah. 2:22
+- Allah no Mpamela heloka (Manaiky ny fibebahana), Nanaiky ny fibebahan'i Adama (ny fiadanana anie ho eo aminy) Izy. 2:37
+- Aza afangaro ny fahamarinana sy ny lainga, ary azo afenina ny fahamarinana. 2:42
+- Tandremo ny vavaka (ny vavaka isan'andro) ary omeo ny zakat (fiantrana). 2:43
+- Didio ny hafa hanao soa rehefa avy nanao azy ianareo. 2:44
+- Angataho ny fanampian'i Allah amin'ny raharahanao rehetra. 2:45
+- Aza miditra amin'ny fahalovana ary aza mampiely azy. 2:60
+- Aza manakana ny olona tsy handeha any amin'ny toeram-pivavahana. 2:114
+- Manaja ny fahamasinan'ny moske. Tazony hadio sy madio ny toeram-pivavahanao. 2:125
+- Tsarovy i Allah (amin'ny alalan'ny vavaka, ny fiderana, sns.) ary Izy dia hahatsiaro anareo, ary asaivo veloma Izy. 2:152
+- Manàna faharetana amin'ny fahoriana. 2:153
+- Aza manaraka ny dian'i Satana izay fahavalo miharihary. 2:168
+- Aza manaraka olona amin'ny fahajambana. 2:170
+- Tandremo sy tanteraho ny fitokisana rehetra. Tanteraho ny adidinao ara-pivavahana amim-pahatsorana. Tanteraho ny fianiananao sy ny fanekenao. Tandremo ny fampanantenanao, indrindra fa ireo nataonao tamin'i Allah. Hanohana ny sahirana ary hanamaivana ny fahasahirana. Halaviro ny fanaovana fahotana mitarika ho amin'ny fahaverezan'ny sitrapon'Andriamanitra. Aza avela hitondra anareo ho amin'ny tsy rariny ny avonavona. 2:177
+- Amin'ny kisas (ny lalàn'ny fitoviana amin'ny famaliana) dia misy aina ho anareo. 2:179
+- Hifady hanina amin'ny volana Ramadany. Tandremo ny fifadian-kanina voatendry mba ho tonga Muttaqun (ny mpivavaka). 2:183
+- Manaja ny CORAN ho loharano faratampony amin'ny fitarihana. 2:185
+- Aza mihinana ny fananan'olon-kafa amin'ny tsy rariny ary aza manome kolikoly ny mpitsara (alohan'ny hametrahanao ny raharahanao). 2:188
+- Aza manjakazaka amin'ny hafa, na amin'ny teny na amin'ny asa. Aza miady toy ny mpanafika velively, fa ho fiarovana ihany. 2:190
+- Arovy ny kamboty. Mikasika ny kamboty, miasa amim-pahatsorana amin'ny fananany ary aza mihinana ny fananany. 2:220
+- Mibebaha ary mangataha famelan-keloka amin'i Allah. Aza manao firaisana ara-nofo mandritra ny fadimbolana. Tandremo ny fahadiovana (ara-batana sy ara-panahy). 2:222
+- Tanteraho ny adidinao amin'ny fianakavianao. 2:233
+- Mifidiana mpitondra araka ny fahaizany. 2:247
+- Tsy misy fanerena amin'ny fivavahana. 2:256
+- Ampiasao amin'ny fiantrana ny harena. Màna fiantrana amin'ny harena sy ny fotoana. 2:261
+- Aza manafoana ny fiantranao amin'ny fireharehana amin'ny fahalalahan-tananao. 2:264
+- I Satana dia mampitahotra anareo amin'ny fahantrana ary mandidy anareo hanao fahalotoana (hetsika ratsy, firaisana ara-nofo tsy ara-dalàna, fahotana). 2:268
+- Tadiavo ny sahirana ary vonjeo izy ireo. 2:273
+- Aza miditra amin'ny riba (zana-bola). Aza mihinana fananana misy zana-bola. Aza mihinana riba (zana-bola). 2:275
+- Omeo fotoana bebe kokoa ny trosam-bola raha sarotra aminy ny mandoa. 2:280
+- Tandremo ny teninao amin'ny raharaham-barotra. Màna marina amin'ny raharaham-bolanao. Miaina amim-pahamarinana amin'ny fanekenao rehetra. Rehefa manao fifanekena trosa amin'ny fe-potoana voafaritra ianareo dia soraty izany. Makà vavolombelona isaky ny manao fifanekena ara-barotra ianareo. 2:282
+- Tandremo sy tanteraho ny fitokisana rehetra. 2:283
+- Minoa ny Bokin'ny Navoaka sy ny Mpaminany rehetra. 2:285
+- Tsy mampavesatra olona mihoatra ny fahafahany i Allah. Hahazo valisoa izy noho ny tsara nataony ary hahazo sazy noho ny ratsy nataony. Tsy mampavesatra olona mihoatra ny fahafahany Andriamanitra; tsy tokony hanao an'izany isika. Matokia ny drafi-panahin'i Allah na dia amin'ny fahoriana aza. 2:286
+- Izay manatanteraka ny fanekena sy matahotra an'i Allah, dia tian'i Allah ny mpivavaka. 3:76
+- Manàna Hajj (fivahiniana masina) raha mahavita. 3:97
+- Aza mizarazara. 3:103
+- Didio ny tsara ary rarano ny ratsy. Sendraso ny fahamarinana ao amin'ny fiaraha-moninao. Antsoy ny hafa hankatò an'i Allah. 3:104
+- Ny mpino dia tsy maintsy matoky an'i Allah. 3:122
+- Aza mihinana riba (zana-bola). 3:130
+- Ankatoavy i Allah sy ny Mpaminany mba hahazoana famindram-po. 3:132
+- Tian'i Allah izay mandany (amin'ny lalan'i Allah — asa soa, fiantrana, sns.) amin'ny fanambinana sy ny fahoriana, izay mamehy ny fahatezerany, ary izay mamela ny olona. 3:134
+- Fehezo ny fahatezeranao. Fehezo ny hatezeranao. 3:134
+- Mamela heloka sy avelao ny hadisoan'ny hafa. 3:135
+- Aza masiaka amin'ny teny. Màna faharetana amin'izay tsy mitovy hevitra aminao. 3:159
+- Raha manampy anareo i Allah dia tsy misy maharesy anareo; fa raha mandao anareo Izy, iza moa no afaka manampy anareo aorian'Izy? 3:160
+- Ny tsirairay dia hahatsapa fahafatesana. Ary amin'ny andro fitsanganana amin'ny maty ihany no hahazoanareo ny valisoanareo feno. 3:185
+- Saintsaino lalina ny zava-mahagagan'ny zavaboary sy ny famoronana ity tontolo ity. Fantaro fa namorona ity tontolo ity tamin'ny dikany sy tanjona Andriamanitra. 3:191
+- Ny lehilahy sy ny vehivavy dia manana valisoa mitovy amin'ny asany. 3:195
+- Ho an'izay matahotra an'i Tompony, dia misy zaridaina (any amin'ny Paradisa) izay misy renirano mikoriana eo ambaniny; honina ao mandrakizay izy ireo, ho fandraisana vahiny avy amin'i Allah. 3:198
+- Miezaha hatrany hahazo ny fankasitrahani'i Allah amin'ny asa rehetra. 3:200
+- Màna mpivavaka amin'i Tomponao, matahora Azy ary (aza manapaka) ny fifandraisana (amin'ny havana). 4:1
+- Omeo ny kamboty ny fananany ary aza soloina (ny ratsy anananao) amin'ny (tsara ananan'izy ireo); ary aza hanina ny fananany (ampiana amin'ny anao). 4:2
+- Omeo amin'ny fo malalaka ny vehivavy (izay hanambadianao) ny mahrany (ilay fanomezam-bady tsy maintsy ataon'ny lehilahy amin'ny vadiny amin'ny fotoam-panambadiana). 4:4
+- Arovy ny zon'ny kamboty. 4:6
+- Ny fananan'ny maty dia tsy maintsy zaraina amin'ny mpianakaviny. Manan-jo amin'ny lova ny vehivavy. 4:7
+- Aza mihinana ny fananan'ny kamboty amin'ny tsy rariny. 4:10
+- Ankatoavy ny didy momba ny lova. 4:11
+- Voarara ny handova vehivavy raha tsy sitrapony, ary azo treated azy mafy. Miàna amin'izy ireo (ny vadinao) amim-pahamendrehana. Manaja sy tandremo ny zon'ny vehivavy. Mitàna ny vadianao amin'ny hatsaram-panahy sy ny famindram-po. Mitàna ny vehivavy amin'ny voninahitra sy ny rariny. 4:19
+- Aza manambady izay ao aminao ra sy nofo. 4:23
+- Aza mamono tena (na mamono samy hafa). Tena mamindra fo aminareo i Allah. Aza mihinana ny fananan'olon-kafa amin'ny tsy rariny. 4:29
+- Raha misoroka ny fahotana lehibe izay voarara ianareo, dia hofafan'i Allah ny fahotanareo (kelikely) ary hampidirina ao amin'ny fidirana mendrika (ny Paradisa) ianareo. 4:31
+- Aza maniry izay nampitambinin'i Allah ny sasany aminareo noho ny hafa. Halaviro ny fialonana sy ny fitsiriritana. 4:32
+- Ny lehilahy no mpiambina sy mpikarakara ny vehivavy, satria efa nasandratrin'i Allah ny sasany noho ny hafa, ary satria mandany ny fananany (hahazoany azy) izy ireo. Ny lehilahy no mpiaro sy mpanohana ny fianakaviana. 4:34
+- Mivavaha amin'i Allah ary aza manao mpiara-mivavaka aminy, màna tsara amin'ny ray aman-dreny, ny havana, ny kamboty, ny mahantra, ny mpifanolobodirindrina, ny namana akaiky, ny mpandeha (izay hitanao), ary ireo (andevo) izay ananan'ny tananao havanana. Tsy tian'i Allah ny mpiavonavona sy mpirehareha. Màna tsara amin'ny hafa. Mamindra fo amin'ny malemy. Tandremo ny fifandraisam-pianakaviana ary manaja ny havana. 4:36
+- Aza matahirizana. 4:37
+- Tsy mamela ny fanaovana mpiara-mivavaka aminy i Allah, fa mamela izay hafa noho izany ho an'izay tiany. 4:48
+- Aza manao fialonana amin'ny hafa. 4:54
+- Didin'i Allah anareo ny famerenana ny fitokisana any amin'ny tompony. Rehefa mitsara eo amin'ny olona ianareo dia mitsara amin'ny rariny. 4:58
+- Ankatoavy i Allah sy ny Mpaminany. Manaja ireo manana fahefana eo aminareo. 4:59
+- Aza manjakazaka amin'ny malemy sy ny marefo. 4:75
+- Izay tsara tonga aminao dia avy amin'i Allah; ary izay ratsy tonga aminao dia avy aminao. 4:79
+- Izay mankatò ny Mpaminany (Muhammad ﷺ) dia efa nankatò an'i Allah. 4:80
+- Izay manao fanelanelanana amin'ny raharaha tsara dia hahazo valisoa; ary izay manao fanelanelanana amin'ny raharaha ratsy dia hahazo ampahany amin'ny vesany. 4:85
+- Tsy mety amin'ny mpino ny mamono mpino, afa-tsy amin'ny hadisoana. 4:92
+- Izay mamono mpino an-tsitrapo, ny valisoany dia ny Afo (Jahannam), honina ao mandrakizay. Ny fahatezeran'i Allah sy ny ozony dia eo aminy, ary efa voaomana ho azy ny sazy lehibe. 4:93
+- Izay nifindra monina (avy ao an-tranony) tamin'ny lalan'i Allah dia hahita any an-tany toeram-ponenana maro sy fahafaham-po. 4:100
+- Màna ara-potoana amin'ny vavakao. 4:103
+- Aza manohana na miaro ireo mamitaka ny fitokisana. 4:105
+- Mangataha famelan-keloka amin'i Allah, tokoa i Allah dia Mpamela heloka, Mamindra fo. 4:106
+- Ry mpino! Mijoroa ho an'ny rariny, ho vavolombelon'i Allah, na dia manohitra ny tenanareo aza, na ny ray aman-dreninareo, na ny havanao, na manan-karena na mahantra izy. Aza manemotra ny rariny; mihetsika haingana mba hanitsy ny hadisoana. 4:135
+- Ny mpihatsaravelatsihy dia manandrana hamitaka an'i Allah, fa Izy no mamitaka azy ireo. 4:142
+- Ny mpihatsaravelatsihy dia ho any amin'ny farany ambany indrindra amin'ny afo; ary tsy hahita mpanampy azy ianao. 4:145
+- Tsy tian'i Allah ny famoahana ny ratsy amin'ny rehetra, afa-tsy izay nampijalina. 4:148
+- Ny Mpaminany dia nirahina ho mpitondra vaovao mahafaly sy mpanaitra, mba tsy hanan'ny olona hanohitra an'i Allah aorian'ny Mpaminany. 4:165
+- Tanteraho ny fanekenao sy ny fampanantenanao. 5:1
+- Mifampiankohofa amin'ny fanaovana soa sy ny fahalalahan-tahotra an'Andriamanitra, fa aza mifampiankohofa amin'ny fanaovana fahotana sy fahavalo. 5:2
+- Aza mihinana ny maty, ny ra, ary ny henan-kisoa. 5:3
+- Màna rariny, aza avelan'ny fahavalon'ny hafa sy ny fankahalana hanalavirana anareo amin'ny rariny. Màna rariny. Fantaro fa ny fanaovana rariny dia akaiky ny fahalalahan-tahotra an'Andriamanitra. Aza manemotra ny rariny; mihetsika haingana mba hanitsy ny hadisoana. 5:8
+- Tadiavo ny fomba hanatonana an'i Allah ary miezaha amin'ny lalany araka izay vitanao. Mba hahomby ianareo. 5:35
+- Tanteraho ny fianiananao sy ny fanekenao. 5:89
+- Halaviro ny zava-pisotro mamo sy ny toaka. Halaviro tanteraka ny zava-pisotro mamo (karazana toaka rehetra), ny filokana, ny Al-Ansab (alitara vato), ary ny Al-Azlam (zana-tsipìka hikatsaka vintana na fanapahan-kevitra), izay fahalotoan'ny asan'i Satana. 5:90
+- Aza mamono bibidia raha mbola ao amin'ny toetry ny ihram ianareo ho an'ny Hajj na ny Umrah (fivahiniana masina). 5:95
+- Aza manontany zavatra izay, raha ampahafantarina anareo, dia mety hanahirana anareo. 5:101
+- Aza manevateva ny andriamanitry ny hafa. Aza manevateva izay ivavahan'izy ireo (ny tsy mpino) ankoatra an'i Allah, fandrao hanevateva an'i Allah izy ireo noho ny tsy fahalalan-dry. 6:108
+- Raha mankatò ny maro an'isa eto an-tany ianareo, dia hampiala anareo amin'ny lalan'i Allah izy ireo. Manaraka vinavina fotsiny izy ireo, ary tsy manao afa-tsy lainga. 6:116
+- (Ry olombelona!) Avelao ny fahotana rehetra, na miafina na miharihary. 6:120
+- (Ry mpino!) Aza mihinana (hena) izay tsy nampilazana ny anaran'i Allah taminy (tamin'ny fotoam-pamonoana). 6:121
+- Izay tian'i Allah hotarihina dia hanokafany ny tratrany ho an'ny finoana silamo; ary izay tiany hofoanana dia hataony tery sy miraikitra ny tratrany. 6:125
+- Màna antonony amin'ny fandaniana ary halaviro ny fahalosana. Tandremo ny zon'ny zavaboary rehetra. 6:141
+- Aza manao mpiara-mivavaka amin'i Allah, màna tsara amin'ny ray aman-dreny, aza mamono ny zanakao noho ny tahotra ny fahantrana, aza manakaiky ny fahalotoana, aza mamono izay noraran'i Allah, afa-tsy amin'ny rariny. 6:151
+- Màna marina; aza mamitaka amin'ny raharahanao rehetra. Aza manakaiky ny fananan'ny kamboty, afa-tsy mba hanatsarana azy, omeo ny feno sy ny lanja marina amin'ny rariny, rehefa miteny ianareo dia milazà ny marina na dia ny havana akaiky aza no tafiditra, ary tanteraho ny fanekena tamin'i Allah. 6:152
+- Araho ny lalana mahitsy ary aza manaraka lalana (hafa), fa hanalavitra anareo amin'ny lalany izany. 6:153
+- (Muhammad) Lazao: "Toa marina, ny vavako, ny fombako, ny fiainako ary ny fahafatesako dia ho an'i Allah, Tompon'ny tontolo rehetra." 6:162
+- Aza mirehareha. 7:13
+- Aza avelan'i Satana hamitaka anareo. 7:27
+- (Muhammad) Lazao: "Nandidy ny rariny ny Tompo…" 7:29
+- Tandremo ny fetra napetraky ny Allah amin'ny zavatra rehetra. Halaviro ny fahalana amin'ny teny sy ny asa. Màno sy misotroa fa aza mihoapampana. Màna akanjo tsara amin'ny fotoam-pivavahana. 7:31
+- Namorona ny lanitra sy ny tany ao anatin'ny enina andro i Allah, ary teo Izy no niorina teo ambonin'ny Seza fiandrianana (tamin'ny fomba mendrika ny Fahalehibiazany). 7:54
+- Miangavy amin'ny Tomponao am-panetren-tena sy amin'ny fiafenana. Tsy tiany ny mpandika lalàna. 7:55
+- Ary aza manao fahalovana ety an-tany aorian'ny namerenana azy ho tsara, ary miangavy Azy amin'ny tahotra sy fanantenana. 7:56
+- Fa izay nanao ratsy, ary nibebaka taorian'izay ary nino, tokoa ny Tompoanao aorian'izany dia Mpamela heloka, Mamindra fo. 7:153
+- (Muhammad) Lazao: "Ry olombelona! Tena iraky ny Allah mankaty aminareo rehetra aho…" 7:158
+- Ary ny anarana tsara indrindra rehetra dia an'i Allah, koa miangavy Azy amin'izany, ary avelao izay manambany ny anarany… 7:180
+- Izay avelan'i Allah ho diso lalana dia tsy misy mpitari-dalana azy; ary avelany hivezivezy ao anatin'ny fahadisoany izy ireo. 7:186
+- Màna famelan-keloka, didio ny tsara, ary mialà amin'ny tsisy saina (izany hoe aza mamaly azy). 7:199
+- Mamela ny hadisoan'ny hafa. 7:199
+- Ary raha tojo anao ny fanelingelenana avy amin'i Satana, dia miangavy fiarovana amin'i Allah. Tena Mpihaino sy Mpahalala Izy. 7:200
+- Ny mpino dia ireo izay, rehefa tononina i Allah, dia mangovitra ny fony, ary rehefa vakiana aminy ny andininy, dia mihamaro ny finoany… 8:2
+- Aza mamitaka an'i Allah sy ny Mpaminany, ary aza mamitaka ny fitokisana (sy ny adidy rehetra nampanaovin'i Allah anareo) ianareo raha mbola mahalala. 8:27
+- Raha matahotra an'i Allah sy mankatò Azy ianareo, dia homefony ny Furqan (famaritana hanavahana ny marina sy ny lainga, na fivoahana amin'ny fahasahirana rehetra). 8:29
+- Ny tsy mpino dia mandany ny hareny mba hanakana (ny olona) amin'ny lalan'i Allah, ary hanohy handany izany izy ireo; fa amin'ny farany dia ho alahelo ho azy izany. 8:36
+- Lazao amin'ny tsy mpino fa raha mijanona (tsy hino) izy ireo dia havela ny taloha. Fa raha miverina (amin'izany) izy ireo, dia efa nisy ny ohatry ny (voasazy) talohany (ho fampitandremana). 8:38
+- Rehefa mihaona amin'ny hery (fahavalo) ianareo dia màna faharetana, ary tsarovy be ny anaran'i Allah (amin'ny lela sy ny saina) mba hahomby. 8:45
+- Aza àà tahaka izay nivoaka ny tranony tamin'ny fiavonavonana sy mba haseho amin'ny olona, ary (nanakana olona) tamin'ny lalan'i Allah. 8:47
+- Tsy manova ny fitahiana nomeny ny olona i Allah, raha tsy manova ny ao aminy izy ireo. 8:53
+- Ny zavaboary ratsy indrindra eo imason'i Allah dia ny tsy mpino. 8:55
+- Mametraka fitiavana sy fifankatiavan'i Allah eo amin'ny fon'ny mpino Izy. 8:63
+- Arovy sy vonjeo ireo mangataka fiarovana. 9:6
+- Tsy mety amin'ny mpiara-mivavaka (Mushrikun) ny mitantana ny moske an'i Allah. 9:17
+- Izy ireo (tsy mpino, Jiosy ary Kristiana) dia te hanao izay hamonoana ny hazavan'i Allah (izay nirahin'i Muhammad �ee — ny finoana tokana silamo) amin'ny vavany, fa i Allah dia tsy manaiky afa-tsy ny hameno ny hazavany, na dia halan'ny tsy mpino aza izany. 9:32
+- Ny fiantrana (Zakat) dia ho an'ireto: 1) ny mahantra, 2) ny sahirana, 3) ireo miasa amin'ny fanangonany, 4) handresy lahatra ny fon'izay mirona ho amin'ny Silamo, 5) hanafahana andevo, 6) ho an'ny trosam-bola, 7) ho an'ny lalan'i Allah (ho an'ny Mpitia ady), ary 8) ho an'ny mpandeha. 9:60
+- Izay manohitra sy fahavalo an'i Allah sy ny Mpaminany (ﷺ), dia ho azy ny afo any amin'ny Jahannam, honina ao mandrakizay. Izany dia fahafaham-baraka lehibe. 9:63
+- Ny mpihatsaravelatsihy, lahy sy vavy, dia mitovy. Nanadino an'i Allah izy ireo, ka Izy koa nanadino azy. 9:67
+- Miezaha ho amin'ny fahadiovana. Manaja ny fahamasinan'ny moske. 9:108
+- Tsy mety (amin'ny Mpaminany sy ny mpino) ny mangataka famelan-keloka ho an'ny mpiara-mivavaka, na dia havany aza, rehefa nanjelatra taminy fa izy ireo dia honina any amin'ny afo (satria maty tamin'ny tsy finoana). 9:113
+- Iza moa no meloka kokoa noho ilay manamboatra lainga momba an'i Allah na mandà ny andininy? Tena tsy hahomby mihitsy ny mpanota! 10:17
+- Izy ireo dia mivavaka amin'ny zavatra hafa ankoatra an'i Allah izay tsy mety hanisy ratsy azy na hahasoa azy, ary manao hoe: "Ireo no mpanelanelana ho anay eo amin'i Allah." Lazao: "Mo va ny mampahafantatra an'i Allah zavatra tsy fantany any amin'ny lanitra sy ny tany?" Voninahitra ho Azy, ary Ambony lavitra noho izay atao mpiara-mivavaka aminy Izy! 10:18
+- Ny valin'ny ratsy dia ratsy mitovy aminy. 10:27
+- Izany i Allah, ny Tompo marina anareo. Inona moa no aorian'ny fahamarinana, afa-tsy ny fahadisoana? Ahoana no ahodinanareo? 10:32
+- Ny maro taminy dia manaraka vinavina fotsiny. Tena tsy misy ilana ny vinavina amin'ny fahamarinana. 10:36
+- Tena marina! Tsy manao tsy rariny amin'ny olona i Allah; fa ny olona no manao tsy rariny amin'ny tenany. 10:44
+- Fantaro fa ny fitahian'i Allah dia tsara lavitra noho izay rehetra azon'ny olona angonina na voatahiry. 10:58
+- Aza àà isan'izay mandà ny andinini'i Allah, fa ho tonga amin'ny mpandresy ianareo. 10:95
+- Raha mikasika anao amin'ny loza i Allah, dia tsy misy afaka manaisotra izany afa-tsy Izy; ary raha sitrapony ny hahasoa anao, dia tsy misy afaka manohitra ny fitahiany, omeny izay tiany amin'ny mpanompony izany. 10:107
+- Tsy misy zavaboary mandady etỳ an-tany fa amin'ny Allah ny fivelomany. Ary Fantany ny fonenany sy ny toeram-pitehirizana azy (ao am-bohoka, ao am-pasana, sns.). 11:6
+- Raha mampahafantatra ny olona ny fahalian'ny famindram-ponay isika, ary avy eo esointsika aminy, dia very hevitra sy tsy mankasitraka izy. 11:9
+- Izay irina fiainana eto an-tany sy ny famirapiratany dia homeko azy ny valin'ny asany feno ao, ary tsy hahena ho azy izany. 11:15
+- Tsy nanao ratsy taminy izahay, fa izy ireo no nanao ratsy tamin'ny tenany. Ary ny andriamaniny izay nangatahany ankoatra an'i Allah dia tsy nanampy azy tamin'ny zavatra, rehefa tonga ny baikon'ny Tompoanao, ary tsy nampitombo afa-tsy fahaverezan-kevitra ho azy ireo. 11:101
+- Amin'ny andro (ny sazy) izay ho avy, dia tsy hisy olona hiteny afa-tsy amin'ny alalan'ny fahazoan-dàlana (i Allah). Ny sasany aminy dia ho mahantra ary (ny sasany) ho sambatra. 11:105
+- Fa ny mahantra dia ho any anaty afo, izay hisentoany sy hitomany. 11:106
+- Honina ao mandrakizay izy ireo, nandritra ny fitoeran'ny lanitra sy ny tany, afa-tsy izay tian'ny Tompoanao. Tena izy ny Tompoanao no manao izay tiany. 11:107
+- Fa ny sambatra dia ho any amin'ny Paradisa, honina ao mandrakizay, nandritra ny fitoeran'ny lanitra sy ny tany, afa-tsy izay tian'ny Tompoanao, ho fanomezana tsy misy fiafarana. 11:108
+- Aza mitanila amin'ireo manao tsy rariny, fandrao hangalatra anareo ny afo, ary tsy hanana mpiaro ankoatra an'i Allah ianareo, ary tsy hovonjena. 11:113
+- Mivavaha amin'ny faran'ny andro roa sy amin'ny ora sasany amin'ny alina (izany hoe ny vavaka dimy). Ny asa soa dia manala ny ratsy (izany hoe ny fahotana kely). 11:114
+- Ny zavatra miafina any amin'ny lanitra sy ny tany dia an'i Allah, ary aminy no ahodinan'ny raharaha rehetra. 11:123
+- Ny didy (na ny fitsarana) dia an'i Allah ihany. Nandidy Izy mba tsy hivavahana afa-tsy aminy (ny finoana tokana), izany no fivavahana marina, fa ny ankamaroan'ny olona tsy mahalala. 12:40
+- Aza very fanantenana amin'ny famindram-pon'i Allah mihitsy. 12:87
+- Ary ny ankamaroan'ny olona dia tsy ho mpino, na dia maniry mafy aza ianao. 12:103
+- Ary ny ankamaroany dia tsy mino an'i Allah raha tsy manao mpiara-mivavaka aminy (izany hoe izy ireo dia mpiara-mivavaka). 12:106
+- (Ity CORAN ity) dia tsy teny noforonina, fa fanamarinana ny Bokin'ny Allah teo aloha (ny Tawrat, ny Injil ary ny Soratra Masina hafa), ary fanazavana amin'ny antsipiriany ny zava-drehetra, ary fitarihana sy famindram-po ho an'ny olona mpino. 12:111
+- Mampitombo ny fivelomana ho an'izay tiany i Allah ary mampihena (ho an'izay tiany). 13:26
+- Tsarovy matetika an'i Allah amin'ny alalan'ny dhikr. Izay mino an'i Allah dia mahita fampiononana ny fony amin'ny fahatsiarovana Azy. 13:28
+- Izay mino sy manao asa soa dia omena fifaliana sy fiadanan-tsaina. 13:29
+- Izay manao ny fiainana eto an-tany ho tiana noho ny fiainana any ankoatra, ary manakana (ny olona) amin'ny lalan'i Allah (ny finoana silamo) ary mitady hanao azy ho diso — izy ireo dia ao anatin'ny fahadisoana lavitra. 14:3
+- Màna fanetren-tena sy fisaorana amin'ny fivavahana. 14:7
+- Ny ohatry ny tsy mino ny Tompony dia ny asany toy ny lavenona, izay tafaporitsaka amin'ny tafio-drivotra amin'ny andro mahery vaika; tsy hahita na inona na inona amin'izay nataony izy ireo. 14:18
+- Hampiorin'i Allah ny mpino amin'ny teny mafy orina amin'ity fiainana ity (izany hoe hanohy hivavaka aminy irery ihany izy ireo) sy amin'ny fiainana any ankoatra. 14:27
+- Aza mihevitra fa tsy mahalala izay ataon'ny mpanao ratsy (mpiara-mivavaka, mpanao an-keriny, sns.) i Allah, fa manemotra azy ireo ho amin'ny andro izay hijery maso noho ny horohoro. 14:42
+- Mba hamalian'i Allah ny olona tsirairay araka izay nataony. Tena haingana amin'ny fanaovana kajy i Allah. 14:51
+- Ary tokoa, namorona ny olombelona tamin'ny tanimanga, tamin'ny tanimanga mainty niova isika. 15:26
+- Ary ny jiny, dia namorona azy isika talohan'izany tamin'ny afo mirehitra. 15:27
+- Manana vavahady fito (ny Afo); isaky ny vavahady dia misy (karazana manokana) ny mpanota. 15:44
+- Namorona ny olombelona tamin'ny ranon-jaza (fifangaroan'ny tsirinain'ny lahy sy ny vavy) Izy, ary indro, (ilay olombelona) lasa fahavalo miharihary. 16:4
+- Ary ny biby fiompy, noforoniny ho anareo; ao aminy misy hafanana (akanjo mafana) sy tombontsoa maro, ary avy amin'izany no ihinananareo. 16:5
+- Ary (namorona) soavaly, ampondra ary boriky, mba hitainginareo sy ho firavaka. Ary mamorona zavatra (hafa) tsy fantatrareo Izy. 16:8
+- Izy no nampidina rano (avy) tamin'ny lanitra; ny sasany amin'izany no sininao, ary ny sasany no mampiloha ny zava-maniry izay ahidianareo biby fiompy. 16:10
+- Izy no nampanaiky ny ranomasina (ho anareo), mba hihinanareo hena vaovao (trondro) avy amin'izany, ary mba hivoahanareo firavaka entinareo. 16:14
+- Ary nametraka tendrombohitra orina etỳ an-tany Izy mba tsy hihetsiketsika aminareo, ary (namorona) ony sy lalana, mba hotarihinareo. 16:15
+- Moa ve ny Mpamorona dia tahaka ny tsy mpamorona? Moa ve tsy misaintsaina ianareo? 16:17
+- Raha manisa ny fitahian'i Allah ianareo dia tsy hainareo isaina. 16:18
+- Fantatr'i Allah izay afeninareo sy izay avoakanareo. 16:19
+- Ireo izay iantsoan'izy ireo (mpiara-mivavaka) ankoatra an'i Allah dia tsy namorona na inona na inona, fa izy ireo no noforonina. 16:20
+- (Ireo) dia maty, tsy manana aina, ary tsy mahalala oviana no hahatongavany. 16:21
+- Ny teny enti-mamoronantsika zavatra, rehefa tianay izy, dia ny filazantsika aminy hoe: "Maha!" dia tonga izy. 16:40
+- Ireo izay manao tetika ratsy, moa ve mahatsiaro ho voaro amin'ny fahalavoan'ny tany ataon'i Allah, na ny fahatongavan'ny sazy aminy avy amin'ny lalana tsy fantany? 16:45
+- Izay rehetra misy tombontsoa sy soa anananao dia avy amin'i Allah. Rehefa mahazo fahoriana ianareo dia aminy no iangavianareo. 16:53
+- Rehefa nesoriny aminao ny fahoriana, indro, ny sasany aminareo dia manao mpiara-mivavaka amin'ny Tompony (Allah). 16:54
+- Ao amin'ny biby fiompy dia misy lesona ho anareo. Mampisotro anareo izahay amin'izay ao an-kibony, eo anelanelan'ny tay sy ny ra, ronono madio, mahafinaritra ho an'ny mpisotro. 16:66
+- Aza àtao modely ho an'i Allah (satria tsy misy tahaka Azy, ary tsy mitovy amin'ny zavatra Izy). Tena mahalala i Allah, fa ianareo tsy mahalala. 16:74
+- Fantaro fa i Allah dia nanome sofina, maso, saina ary fahatsapana ho an'ny olona, mba hisaoranany. 16:78
+- Halaviro ny fieremana sy ny fifarantsana. 16:97
+- Rehefa tianao ny hamaky ny CORAN dia miangavy fiarovana amin'i Allah amin'i Satana, ilay voaozona. 16:98
+- Fantaro fa ny hadisoana natao tamin'ny tsy fahalalana dia avela raha mibebaka sy manitsy ny tenany ilay olona. 16:119
+- (Muhammad) Miantsoa ho amin'ny lalan'ny Tompoanao (ny finoana silamo) amin'ny fahendrena sy ny torohevitra tsara, ary miady hevitra amin'izy ireo amin'ny fomba tsara indrindra. Ny fiantsoana ny hafa ho amin'ny lalan'Andriamanitra dia tsy maintsy atao amin'ny fahendrena sy hatsaram-panahy. 16:125
+- Tena miaraka amin'izay matahotra Azy (izay manatanteraka ny adidiny aminy) sy izay manao soa i Allah. 16:128
+- Ity CORAN ity dia mitarika mankany amin'ny zavatra mahitsy sy marina. 17:9
+- Tsy misy mitondra ny vesatry ny hafa. 17:15
+- Izay maniry ny fiainana any ankoatra ary miezaka azy, amin'ny ezaka mendrika azy, raha mbola mpino izy, dia ireo no hankasitrahana sy hahazo valisoa (avy amin'i Allah). 17:19
+- Manaja ny ray aman-dreninao ary mitàna azy amin'ny hatsaram-panahy. Màna mpankatò ny ray aman-dreninao. Aza miteny ratsy aminy. Ary ny Tompoanao dia nandidy mba tsy hivavahana afa-tsy aminy. Ary mba màna tsara amin'ny ray aman-dreninao. Raha efa zokinjokina eo aminao ny iray amin'izy ireo na ny samy izy, dia aza miteny hoe "Of!" aminy ary aza mananatra azy, fa mitenena aminy amin'ny haja. 17:23
+- Ary ampieto aminy ny elatry ny fahalalahan-tanana sy ny famindram-po ary lazao: "Ry Tompoko! Mamindra fo aminy, tahaka ny nitondran'izy ireo ahy tamin'ny fahazazako." 17:24
+- Tena ny mpandany harena no rahalahin'i Satana, ary i Satana dia tsy mankasitraka ny Tompony. 17:27
+- Aza mandany harena. 17:29
+- Aza mamono ny zanakao noho ny tahotra ny fahantrana. 17:31
+- Aza manao fijangajangana. Tandremo ny fahamasinan'ny fanambadiana ary halaviro ny fijangajangana. 17:32
+- Omeo ny feno rehefa mandanja, ary lanjo amin'ny mizana mahitsy. Izany no tsara (mahasoa) ary tsara amin'ny farany. 17:35
+- (Raha olombelona) Aza manaraka zavatra tsy fantatrao (ohatra ny filazanao hoe: "Nahita aho," raha tsy nahita, na "Nandre aho," raha tsy nandre). 17:36
+- Màna fanetren-tena ary aza mirehareha. Aza mandeha etỳ an-tany amin'ny fiavonavonana. Tena tsy mahavaky ny tany ianao, ary tsy mahatratra ny haavon'ny tendrombohitra. 17:37
+- Ny Tompoanao no mahalala anareo indrindra; raha tiany dia hiantra anareo Izy, na raha tiany dia hanasazy anareo. 17:54
+- Izay jamba eto amin'ity tontolo ity (izany hoe tsy mahita ny famantaran'i Allah sy tsy mino Azy) dia ho jamba any ankoatra, ary diso lalana lavitra kokoa. 17:72
+- Tandremo ny fotoam-pivavahana voatendry. 17:78
+- Tena efa nanazava tamin'ny olona tao amin'ity CORAN ity isika tamin'ny ohatra rehetra, fa ny ankamaroan'ny olona dia mandà (ny fahamarinana) ary tsy manaiky afa-tsy ny tsy finoana. 17:89
+- Efa nametraka ohatra rehetra tao amin'ity CORAN ity ho an'ny olona isika. Fa ny olona dia tia ady hevitra mihoatra noho ny zavatra rehetra. 18:54
+- Ny valisoany dia ny afo any amin'ny Jahannam; satria tsy nino izy ireo ary nanao ny andiniko sy ny mpaminaniko ho fihomehezana sy fanesoana. 18:106
+- Tsy mety (amin'ny voninahitry) i Allah ny hanan-janaka (ity dia manondro ny fanendrikendrehan'ny Kristiana an'i Allah, amin'ny filazany fa Jesosy dia zanak'Andriamanitra). Voninahitra ho Azy (ary ambony lavitra noho izay atao mpiara-mivavaka aminy). 19:35
+- Mitenena amin'ny olona amin'ny fahalemem-panahy. 20:44
+- Mifaninana amin'ny fanaovana soa. 21:90
+- Halaviro ny teny tsy misy dikany. 23:3
+- Tandremo ny fahalalan-tananao. 23:5
+- Tandremo ny fonao amin'ny fironana mankany amin'ny fahotana. 23:97
+- Mamela heloka amin'ny hafa ary avelao ny hadisoany. 24:22
+- Manaja ny fiainan'ny hafa, indrindra fa ao an-tranony. Tanteraho ny zon'ny mpifanolobodirindrina. 24:27
+- Ampieto ny masonao (ho an'ny lehilahy sy ny vehivavy). Tandremo ny fahalalan-tananao sy ny fahadiovanao. 24:30
+- Màna fahalalan-tanana amin'ny fitafyana sy ny fitondran-tena. 24:31
+- Fantaro fa i Allah dia manome fiarovana sy fiadanana ho an'izay mivavaka aminy sy manao soa. 24:55
+- Aza miditra amin'ny efitranon'ny ray aman-dreninao raha tsy nahazo alalana. 24:58
+- Màna fanetren-tena. 25:63
+- Halaviro ny fijoroana ho vavolombelona sandoka sy ny fitaka. 25:72
+- Miezaha hahazo valisoa any ankoatra, fa aza tsinontsinoavina ny raharahanao eto an-tany. 28:77
+- Aza miantso andriamanitra hafa miaraka amin'i Allah. 28:88
+- Aza manao firaisana ara-nofo mitovy fananahana. 29:29
+- Miezaha hahatratra ny fahalavorariana amin'ny ezakao rehetra. 29:69
+- Mivavaha ary omeo ny zakat. 31:4
+- Didio ny tsara ary rarano ny ratsy. 31:17
+- Halaviro ny fiavonavonana amin'ny fitondran-tenanao. Aza mandany fotoana amin'ny resaka tsy misy dikany. 31:18
+- Màna antonony amin'ny fandehananao sy ny feonao. 31:19
+- Araho ny ohatr'ilay Mpaminany Muhammad. 33:21
+- Ny vehivavy dia tsy tokony haneho na hirehareha amin'ny hatsarany sy ny firavany. 33:33
+- Milazà ny marina amin'ny toe-javatra rehetra. 33:70
+- Tadiavo ny fahendrena sy ny fahalalana amin'ny alalan'ny fisaintsainana. 38:29
+- Araho ny didin'ny CORAN. 39:23
+- Mamela ny fahotana rehetra i Allah rehefa mibebaka sy miverina aminy ny mpanota. 39:53
+- Màna vavaka (du'a) amim-pahatsorana ho an'i Allah. 40:60
+- Valio ny ratsy amin'ny zavatra tsara kokoa. 41:34
+- Manapaha hevitra amin'ny alalan'ny fifampidinihana. 42:38
+- Aza manandratra ny feonao mihoatra ny feon'ilay Mpaminany. 49:2
+- Tandremo ny tsiambaratelo ary halaviro ny famadihana. 49:6
+- Ampihorana ny fandriampahalemana eo amin'izay miady. Tadiavo ny fampihavanana amin'ny ady. 49:9
+- Aza maneso olona. 49:11
+- Halaviro ny ahiahy. Halaviro ny fitsikilovana sy ny fanendrikendrehana. Aza manendrikendrehana na manaratsy olona. Halaviro ny karazana fanendrikendrehana sy fanaratsiana rehetra. Aza avelan'ny avonavona hitondra anao ho amin'ny tsy rariny. 49:12
+- Fantaro fa ny fahalalahan-tahotra an'Andriamanitra ihany no mahasoa olona. Manaja ny fahasamihafana eo amin'ny olona sy ny kolontsaina. 49:13
+- Manaja ny vahiny. 51:26
+- Màna mitandrina amin'ny adidinao amin'i Allah. 51:56
+- Ampiasao amin'ny fiantrana ny harena. 57:7
+- Fantaro fa tsy misy ny monasitery (fandavana ny fanambadiana sy ny fahafaham-po toy ny moanina, masera, na ny hafa miaina ambanin'ny fianianana ara-pivavahana, na ny tranon'izy ireo) ao amin'ny fivavahana. 57:27
+- Aza avelan'ny harena hanelingelina anareo amin'ny fahatsiarovana an'i Allah. 58:11
+- Izay manana fahalalana dia homen'i Allah toerana ambony kokoa. 58:11
+- Mitàna amin'ny fahalalahan-tanana sy ny rariny ny tsy silamo. 60:8
+- Halaviro ny fihatsarambelatsihy amin'ny finoanao sy ny asanao. 63:9
+- Mialà amin'ny fieremana sy ny fifarantsana. 64:16
+- Tandremo ny fampitana (ny fanambarana) natolotra anao. 73:15
+- Tsarovy ny andro fitsarana. 75:36
+- Didio ny faharetana sy ny famindram-po. 90:17
+- Izay manadio ny fanahiny dia hahomby; ary izay mandoto azy dia havela. 91:10
+- Aza manao tsinontsinona na mandroaka ny sahirana. 93:10
+- Tadiavo ny fahalalana sy ny fahazavan-tsaina. Vakio ny CORAN ary saintsaino izany. 96:1–5
+- Sendraso ny famahanana ny mahantra. 107:3
 """;

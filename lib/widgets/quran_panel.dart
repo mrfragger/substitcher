@@ -2254,10 +2254,8 @@ class _QuranPanelState extends State<QuranPanel> {
                     _quickFilterChip('=ayah', '\='),
                     const SizedBox(width: 4),
                     _quickFilterChip('=phrase', 'phrases'),
-                    if (widget.selectedLanguage == 'English') ...[
                       const SizedBox(width: 4),
                       _quickFilterChip('cmds', 'cmds'),
-                    ],
                     const Spacer(),
                     TextButton(
                       onPressed: () => _showSurahListPopup(context),

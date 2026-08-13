@@ -3317,4 +3317,280 @@ Matching Phrases 8 words
 - Allah asalisaka bomoi mpo na moto oyo akolinga kati na basali na ye, mpe akangisaka yango. (اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ) 28:82; 29:62
 - Mpe bokozongisama epai na ye oyo ayebi maye mabombami mpe maye emonanaka, mpe akosakola bino maye bozalaki kosala. (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
 - Mpe bato ya libota, bamosusu bazali na likoki koleka baninga na buku ya Allah. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
+cmds - Commands, Exhortations, Prohibitions, Instructions
+- fard / wajib (فرض / واجب) — esɛngɛlɛ (esɛngɛ kozala; kolya ezali mbeba)
+- mustahabb / mandub (مستحب / مندوب) — esɛngemeli (efutaka soki esalemi, ezali mbeba te soki etikali)
+- mubah (مباح) — ekonzami / ndimisami (mbano te mpe mbeba te)
+- makruh (مكروه) — ezali mabe (ekangami te, kasi ezali mbeba te soki esalemi)
+- haram (حرام) — epekisami (kosala ezali mbeba)
+- halal (حلال, ndimisami / na mobeko) — ezali na mubah mpe mustahabb nyonso — makambo manso oyo epekisami te
+- Sambela Allah moko mpe luka lisalisi/eyano ya Ye. 1:5
+- Sambela Allah moko. 2:21
+- Kosangisa Allah na eloko te. 2:22
+- Allah azali Ye asombolaka (andimaka tubela), andimaki tubela ya Adamu (kimia ezala na ye). 2:37
+- Bosangisa bosembo na lokuta te, mpe bobomba bosembo te. 2:42
+- Bosala losambo (masambo ya mokolo na mokolo) mpe bopesa zakat (mabonza). 2:43
+- Botinda bato na kosala malambo sé nsima ya bosala yango moko. 2:44
+- Luka lisalisi ya Allah na makambo nyonso na yo. 2:45
+- Bokota na mbeba te mpe bokabolaka yango te. 2:60
+- Kopekisa bato te kokende na bisika ya losambo. 2:114
+- Yokumisa bosantu ya masjid. Batika bisika na bino ya losambo pɛto mpe pɛto. 2:125
+- Bokanisa Allah (na losambo, na lokumu, ndimbola) mpe akokanisa bino, mpe bopesa ye matɔndi. 2:152
+- Bokoka na mpiko na mikakatano. 2:153
+- Bolanda biyelo ya satana te, ye azali monguna ya polele. 2:168
+- Bolanda moto te na bozombo. 2:170
+- Bobatela mpe kosalisa nyonso ya motema. Bosala misala na bino ya lingomba na bosembo. Bosala balapi na bino mpe bapromesi na bino. Bobatela malapi, mingimingi oyo bopesaki Allah. Bosunga bato oyo balingi lisalisi mpe kokitisa mikakatano. Komona makambo oyo ekoki komema na kozanga ngolu ya Nzambe. Kopema lolendo ekokoma bino na mobulu. 2:177
+- Na kisas (Mobeko ya sembo na etumbu) ezali na bomoi ya bino. 2:179
+- Bokila mbala na sanza ya Ramadani. Bokila mbala oyo etindami mpo na kokoma bato ya kobanga Nzambe. 2:183
+- Yokumisa Kurani lokola mosolo ya nsuka ya bokambi. 2:185
+- Bolya bokasi ya bato mosusu te na mabe, mpe bopesa mbongo te na bakambi ya mbulu (liboso ya komema makambo na bino). 2:188
+- Botinyaka bato mosusu te, na maloba to na misala. Bobundaka te lokola bato oyo basali mobulu, kasi na ndenge ya kolamusa. 2:190
+- Bobatela bana-ekombo. Mpo na bana-ekombo, bosala na bosembo na biloko na bango mpe bolya biloko na bango te. 2:220
+- Botuba mpe boluka bolimbisi ya Allah. Bokosala bondeko ya nzoto te na tango ya sanza ya basi. Bobatela bosoto (na nzoto mpe na elimo). 2:222
+- Bosala misala na bino epai ya libota na bino. 2:233
+- Bopona bakambi na ndenge ya mayele na bango. 2:247
+- Kozanga na bokasi na lingomba. 2:256
+- Bosalela mbongo na bino na bolingo. Bozala bato ya bolingo na mbongo mpe na tango. 2:261
+- Bobebisa bolingo na bino te na komikumisa. 2:264
+- Satana abangisaka bino na kozanga mbongo mpe atindaka bino na kosala mbeba (misala mibébe, bondeko ya nzoto oyo epekisami, masumu). 2:268
+- Boluka bato oyo balingi lisalisi mpe bosunga bango. 2:273
+- Bokota na riba te. Bolya mbongo ya riba te. Bolya riba te. 2:275
+- Bopesa moto oyo azali na nyongo tango ya kokobisa soki azali na mikakatano. 2:280
+- Bobatela maloba na bino na makambo ya mombongo. Bozala na bosembo na makambo na bino ya mbongo. Bosala na bosembo na balapi nyonso na bino. Soki bosali nyongo na tango eye, bokoma yango. Boperna batemoni tango nyonso soki bosali boyokani ya mombongo. 2:282
+- Bobatela mpe kosalisa nyonso ya motema. 2:283
+- Bondima na Mikanda oyo ekitamaki mpe na baprofete nyonso. 2:285
+- Allah apesaka moto te kilo koleka mayele na ye. Akobonga mbano ya malamu oyo asalaki, mpe akokoma etumbu ya mabe oyo asalaki. Nzambe apesaka moto te kilo koleka mayele na ye; biso mpe tosengeli kosala bongo te. Batela mipango ya Allah ata na mikakatano. 2:286
+- Moto nyonso oyo akosala balapi mpe akobanga Allah, Allah akolinga bato oyo bazali na bobangi. 3:76
+- Bosala hajj (bokambi) soki bokoki. 3:97
+- Bokabwana te. 3:103
+- Botinda na malamu mpe bopekisa mabe. Bolendisela bosembo na boyokani na bino. Bobenga bato mosusu na kokanisa Allah. 3:104
+- Bandimi basengeli kotia motema na Allah. 3:122
+- Bolya riba te. 3:130
+- Botosa Allah mpe Motindami na ye mpo na kozwa ngolu. 3:132
+- Allah alingaka bato oyo basalelaka (na nzela ya Allah — misala ya bolingo, mabonza, ndimbola) na bomengo mpe na mikakatano, bato oyo bakangaka kanda, mpe bato oyo balimbisaka bato. 3:134
+- Bokanga kanda. Bokoka na kanda na bino. 3:134
+- Bolimbisa mpe kolimbisa mabeba ya bato mosusu. 3:135
+- Bozala na mabe te na maloba. Bokoka na bato oyo bakabwani na bino. 3:159
+- Soki Allah asungi bino, moto moko te akoki kokumisa bino; mpe soki akotiki bino, nani akosunga bino sima na ye? 3:160
+- Moto nyonso akomeka liwa. Mpe na Mokolo ya Lisekwa nde bokobonga mbano na bino mobimba. 3:185
+- Bokanisa makasi na makambo ya kokamwa ya kala mpe na bokeli ya mokili wana. Boyeba ete Nzambe akelaki mokili na ntina mpe na likanisi. 3:191
+- Mibali mpe basi bazali na mbano moko na misala na bango. 3:195
+- Mpo na bato oyo bazali kobanga Nkolo na bango, ezali na bilanga (na Lola) oyo mingala ekotama na nsé na yango; bakozala kuna libela, lokola bobandi ya Allah. 3:198
+- Boleka ndenge nyonso na koluka kosepelisa Allah na misala nyonso. 3:200
+- Bobanga Nkolo na bino, mpe (bokatisa te) libota. 4:1
+- Bopesa bana-ekombo mbongo na bango mpe boswappola (mabe na bino) na (malamu na bango) te; mpe bolya mbongo na bango te (na kosangisa na mbongo na bino). 4:2
+- Bopesa basi (oyo bokobanda) mbongo ya libala na bango (mbongo oyo mobali apesi mwasi na tango ya libala) na motema malamu. 4:4
+- Bobatela makoki ya bana-ekombo. 4:6
+- Mbongo ya moto oyo akufi esengeli kokabuana na libota na ye. Basi bazali na makoki ya bokabo. 4:7
+- Bolya mbongo ya bana-ekombo te na mabe. 4:10
+- Botosa mitindo oyo etali bokabo. 4:11
+- Epekisami kokaba basi na ndenge ya kasi te, mpe bosala bango mabe te. Bofanda na bango (basi) na ndenge ya malamu. Yokumisa mpe bobatela makoki ya basi. Sala mwasi na yo na bolingo mpe na ngolu. Sala basi na lokumu mpe na bosembo. 4:19
+- Bobandaka te baye bazali na makila na bino. 4:23
+- Bomiboma te (to bomiboma bino). Ya sólo, Allah azali na ngolu mpo na bino. Bolya mbongo ya bato mosusu te na mabe. 4:29
+- Soki bokimi masumu minene oyo epekisami, Allah akolimbisa bino (minene) masumu na bino, mpe akokotisa bino na esika ya lokumu (Lola). 4:31
+- Bolukela te makambo oyo Allah apesaki bato mosusu koleka bato mosusu. Bomona likambo ya kozanga bosembo mpe ya nkanda. 4:32
+- Mibali nde bakambi ya basi, mpo Allah apesi bato mosusu koleka bato mosusu, mpe mpo na kosalela mbongo na bango (mpo na kobatela bango). Mobali nde mobateli mpe mosungi ya libota. 4:34
+- Sambela Allah mpe kosangisa Ye na eloko te, sala malamu epai ya baboti, bandeko, bana-ekombo, babola, moninga, moninga oyo azali pembeni na yo, moto ya nzela (oyo okutana na ye), mpe (bampumbu) oyo loboko na yo ya mobali ezali na yango. Allah alingaka te bato ya lolendo mpe ya komikumisa. Sala malamu epai ya bato mosusu. Zala na ngolu epai ya bato ya malembe. Batela libota mpe yokumisa bandeko. 4:36
+- Bozala na mokakatano te. 4:37
+- Allah alimbisaka te kosangisa Ye na eloko, kasi alimbisaka makambo mosusu mpo na moto oyo alingi. 4:48
+- Bolukela bato mosusu likambo te. 4:54
+- Allah atindaka bino na kozongisa biloko oyo etiyamaki na maboko na bino epai ya bato oyo ezali na bango. Soki bokata makambo kati na bato, bokata na bosembo. 4:58
+- Botosa Allah mpe Motindami na ye. Yokumisa bato oyo bazali na bokonzi kati na bino. 4:59
+- Botinyaka bato ya malembe te. 4:75
+- Malamu nyonso oyo ekoyela bino ezali na Allah; mabe nyonso oyo ekoyela bino ezali na bino moko. 4:79
+- Moto oyo atosaka Motindami (Muhammad ﷺ), asili kotosa Allah. 4:80
+- Moto oyo akotindana mpo na likambo ya malamu, akobonga mbano na yango; mpe moto oyo akotindana mpo na likambo ya mabe, akobonga etumbu na yango. 4:85
+- Mondimi moko asengeli koboma mondimi mosusu te, sé soki ezali na mbebe. 4:92
+- Moto oyo akoboma mondimi na mboya, etumbu na ye ezali lifelo, akozala kuna libela. Nkanda mpe botutu ya Allah ezali na ye, mpe etumbu monene ebongisami mpo na ye. 4:93
+- Moto oyo akokende na nzela ya Allah, akokuta na mokili bisika mingi mpe bomengo. 4:100
+- Bosala masambo na tango na bango. 4:103
+- Bosunga te mpe bozala bato ya kotombola te baye bazali na kokosa biloko oyo etiyamaki na maboko na bango. 4:105
+- Boluka bolimbisi ya Allah, ya sólo Allah azali wa bolimbisi, wa ngolu. 4:106
+- Bino bandimi! Bozala makasi na bosembo, batemoni ya Allah, ata soki ezali na bino moko, to na baboti na bino, to na bandeko na bino, azali na bozwi to azali mobali. Kokanga bosembo te; sala noki mpo na kobongisa mabe. 4:135
+- Baye bazali na bobangi bakosala Allah na mabe, kasi ye nde akosala bango na mabe. 4:142
+- Baye bazali na bobangi bakozala na eteni ya nsé ya Moto; mpe okokuta mosungi te mpo na bango. 4:145
+- Allah alingaka te ete moto atanga mabe na polele, sé soki azali na moto oyo asalelami mabe. 4:148
+- Batindami lokola bato oyo bazali na sango malamu mpe bato oyo bazali na bokebisi, mpo bato bazala na ntembe te na Allah sima ya Batindami. 4:165
+- Bosala balapi na bino. 5:1
+- Bosungana na malamu mpe na bobangi, kasi bosungana te na masumu mpe na koyina. 5:2
+- Bolya nyama oyo ekufi, makila, mpe nyama ya ngulu. 5:3
+- Bozala na bosembo, koyina mpe kanda epai ya bato mosusu mikotika bino te na bosembo. Bozala na bosembo. Boyeba ete bosembo ezali pembeni ya bobangi Nzambe. Kokanga bosembo te; sala noki mpo na kobongisa mabe. 5:8
+- Boluka nzela ya komata epai ya Allah, mpe boleka na nzela na ye ndenge bokoki. Mpo ete bopanga. 5:35
+- Bosala balapi na bino. 5:89
+- Bomona masanga mpe masanga ya makila. Bomona makasi na masanga (masanga nyonso ya makila), masano ya mbongo, (makambo ya masumu), mpe (makambo ya kosakola) oyo nyonso ezali mbeba ya misala ya satana. 5:90
+- Boboma nyama ya zamba te soki bozali na lolenge ya ihram mpo na hajj to umrah (bokambi). 5:95
+- Botuna te makambo oyo, soki emonisami epai na bino, ekoki kotikisa bino. 5:101
+- Botukana te na banzambe ya bato mosusu. Botukana te na baye (bapagano) basambelaka epai ya Allah te, noki bakotukana Allah na bozoba. 6:108
+- Soki botosi bato mingi oyo bazali na mokili, bakobungisa bino na nzela ya Allah. Bazali kolanda makanisi moko, mpe bazali koloba lokuta. 6:116
+- Botika (bato) masumu nyonso, oyo ezali na polele mpe oyo ezali na molili. 6:120
+- Bolya (bandimi) nyama oyo kombo ya Allah etongamaki te na yango (na tango ya koboma). 6:121
+- Moto oyo Allah alingi kokamba, akofungola motema na ye mpo na Islam; mpe moto oyo alingi kobungisa, akosala motema na ye mikongo mpe makasi. 6:125
+- Bozala na ndenge ya kati na bokaboli, mpe bomona ndenge ya kozanga bokaboli. Bobatela makoki ya bikelamu nyonso. 6:141
+- Kosangisa Allah na eloko te, sala malamu epai ya baboti, boboma bana na bino te mpo na bobangi ya kozanga mbongo, bosala makambo ya mbeba te, boboma moto oyo Allah epekisaki te, sé soki ezali na bosembo. 6:151
+- Bozala na bosembo; kosala lokuta te na makambo na bino. Bopemba te na mbongo ya bana-ekombo, sé soki mpo na kobongisa yango, bopesa kilo ya makasi mpe kilo ya bosembo, soki bolobi, boloba solo ata soki ezali na moninga ya pembeni, mpe bosala balapi ya Allah. 6:152
+- Bolanda nzela ya sembo, mpe bolanda nzela (mosusu) te, mpo ekokabola bino na nzela na ye. 6:153
+- Loba (Muhammad): "Ya sólo, losambo na ngai, mbeka na ngai, bomoi na ngai, mpe liwa na ngai ezali ya Allah, Nkolo ya mokili mobimba." 6:162
+- Bozala na lolendo te. 7:13
+- Satana akobungisa bino te. 7:27
+- Loba (Muhammad): "Nkolo na ngai atindi na bosembo…" 7:29
+- Bobatela ndelo ya Allah na makambo nyonso. Bomona ndenge ya kolekisa na maloba mpe na misala. Bolia mpe bonomba, kasi bokolekisa te. Bolata bilamba ya malamu na tango ya losambo. 7:31
+- Allah akelaki likolo mpe mokili na mikolo motoba, sima akotaki na kiti ya bokonzi (na ndenge oyo ebongi na bokonzi na ye). 7:54
+- Bobenga Nkolo na bino na kozanga lokumu mpe na nzela ya nzoto. Alingaka te bato oyo balekisaka ndelo. 7:55
+- Mpe bosala mabe na mokili te, nsima ya kobongisa yango, mpe bobenga ye na bobangi mpe na elikya. 7:56
+- Kasi baye basalaki mabe, sima batubaki mpe bandimaki, ya sólo Nkolo na yo sima na yango azali wa bolimbisi, wa ngolu. 7:153
+- Loba (Muhammad): "Bino bato! Ya sólo, ngai nazali Motindami ya Allah epai na bino nyonso…" 7:158
+- Mpe (kombo) nyonso ya kitoko ezali ya Allah, bobenga ye na yango, mpe botika baye bazali na koloba mabe na kombo na ye… 7:180
+- Moto oyo Allah akobungisa, azali na moyambi te; mpe akotika bango babunga na nzela na bango. 7:186
+- Limbisa, tinda na malamu, mpe zala mosika na bazoba (tika etumbu te). 7:199
+- Limbisa bato mosusu na mabeba na bango. 7:199
+- Mpe soki satana asali yo likambo ya mabe, luka ndako epai ya Allah. Ya sólo Ye azali moyoki, moyebi. 7:200
+- Bandimi nde baye soki bakanisi Allah, mitema na bango ezali na bobangi, mpe soki batangi yango na bango, ekobakisa bango bondimi… 8:2
+- Kokosa Allah mpe Motindami na ye te, mpe kokosa biloko oyo etiyamaki na maboko na bino te (mpe nyonso oyo Allah atindaki bino) mpe boyebi. 8:27
+- Soki bokangi Allah mpe botosi ye, akopesa bino ekeseni (kati ya bosembo mpe lokuta, to nzela ya kobima na mikakatano nyonso). 8:29
+- Baye bazali na kozanga bondimi, basalelaka mbongo na bango mpo na kopekisa (bato) nzela ya Allah, mpe bakolanda kosalela yango; kasi na nsuka ekokoma mawa mpo na bango. 8:36
+- Loba epai ya bapagano: soki bakangi, bakolimbisama mpo na makambo oyo eleki; kasi soki bavandi, ndakisa ya baye oyo eleki liboso ezali (lokola bokebisi). 8:38
+- Soki bokutani na (etumba ya) banguna, bokanga makasi, mpe bokanisa kombo ya Allah mingi (na monoko mpe na motema), mpo ete bopanga. 8:45
+- Bozala te lokola baye babimaki na bandako na bango na lolendo mpe mpo na komonisa bato, mpe (kopesa bato) nzela ya Allah te. 8:47
+- Allah akobongola te ngolu oyo apesaki bato, kino bakobongola makambo oyo ezali na bango. 8:53
+- Bikelamu mabe na miso ya Allah nde bapagano. 8:55
+- Nzambe atyaka bolingo mpe bondeko kati na mitema ya bandimi. 8:63
+- Bobatela mpe bosunga baye balukaka ndako. 9:6
+- Basangisi (Mushrik) basengeli te kobatela bandako ya Allah. 9:17
+- Bango (bapagano, Bayuda mpe Bakristo) balingi kozimisa nzela ya Allah (eye Motindami Muhammad ﷺ ayei na yango — bondeko ya Nzambe moko) na monoko na bango, kasi Allah akondima te sé ete nzela na ye esila, ata soki bapagano balingi te. 9:32
+- Mabonza (Zakat) ezali mpo na: 1) bato ya kozanga, 2) bato ya mikakatano, 3) bato oyo bazali na bokebisi, 4) mpo na kopema mitema ya bato oyo bapusanaka na Islam, 5) mpo na kokangola bampumbu, 6) mpo na bato oyo bazali na nyongo, 7) mpo na nzela ya Allah (mpo na bapakoyi), mpe 8) mpo na moto ya nzela. 9:60
+- Moto oyo akoyina Allah mpe Motindami na ye (ﷺ), ya sólo lifelo ezali mpo na ye, akozala kuna libela. Wana ezali kosambisama monene. 9:63
+- Baye bazali na bobangi, mibali mpe basi, bazali ndenge moko. Babosani Allah, mpe ye abosani bango. 9:67
+- Boleka na bosoto. Yokumisa bosantu ya masjid. 9:108
+- (Mpo na Profeta mpe bandimi) basengeli te koluka bolimbisi ya basangisi (Mushrik), ata soki bazali bandeko, nsima ya koyeba ete bango nde bato ya Moto (mpo bakufi na kozanga bondimi). 9:113
+- Nani azali mabe koleka moto oyo azali na kosala lokuta na Allah to kozanga kondima na mikapo na ye? Ya sólo, bato ya masumu bakopanga te! 10:17
+- Basambelaka epai ya Allah te na makambo oyo ekosala bango mabe te mpe ekopesa bango malamu te, mpe balobaka: "Bayo nde bakokomela biso epai ya Allah." Loba: "Bozali koyebisa Allah makambo oyo ayebi te na likolo mpe na mokili?" Lokumu na ye, mpe azali likolo koleka makambo oyo basangisaka! 10:18
+- Lifuta ya mabe ezali mabe lokola yango. 10:27
+- Wana nde Allah, Nkolo na bino ya solo. Nsima ya solo, nini mosusu ezali sé kozanga? Mpo na nini bozali kobongola? 10:32
+- Mingi na bango bazali kolanda makanisi moko. Ya sólo, makanisi ekosalisa te na solo. 10:36
+- Ya sólo! Allah asalaka bato mobulu te; kasi bato nde basalaka bango moko mobulu. 10:44
+- Boyeba ete ngolu ya Allah eleki makambo nyonso oyo moto akoki kosangisa to kobomba. 10:58
+- Bozala te kati na baye bazali na koboya kondima na mikapo ya Allah, mpo ete bokokoma na bato ya kozanga. 10:95
+- Soki Allah asali yo mabe, moto moko te akoki kolongola yango sé ye; mpe soki alingi mpo na yo malamu, moto moko te akoki kokatisa ngolu na ye, apesaka yango na moto oyo alingi kati na bawumbu na ye. 10:107
+- Nyama moko te na mokili oyo bilei na yango ezali te na Allah. Mpe ayebi esika na yango ya kofanda mpe esika na yango ya kobomba (na libumu, na mabulu, ndimbola). 11:6
+- Soki topesi moto ndambo ya ngolu na biso, sima tolongoli yango, ya sólo akokoma na kozanga elikya mpe na kozanga matɔndi. 11:9
+- Moto oyo alingi bomoi ya mokili mpe bokasi na yango, tokopesa bango lifuta ya misala na bango na yango, mpe bakozanga te. 11:15
+- Tosali bango mabe te, kasi bango nde basalaki bango moko mabe. Banzambe na bango oyo basambelaki na esika ya Allah, basalaki bango malamu te tango mitindo ya Nkolo na yo eyaki, mpe bakobakisa bango sé mbeba. 11:101
+- Na mokolo oyo ekokoma, moto moko akoloba te sé na ndingisa na ye (Allah). Bamosusu kati na bango bakozala na mpasi, mpe (bamosusu) na esengo. 11:105
+- Baye bazali na mpasi, bakozala na Moto, na kati bakozala na kolela mpe na koganga. 11:106
+- Bakozala kuna libela, tango nyonso oyo likolo mpe mokili ezali, sé soki Nkolo na yo alingi. Ya sólo Nkolo na yo azali kosala oyo alingi. 11:107
+- Mpe baye bazali na esengo, bakozala na Lola, bakozala kuna libela, tango nyonso oyo likolo mpe mokili ezali, sé soki Nkolo na yo alingi, likabo oyo ekotika te. 11:108
+- Bopemba te epai ya bato ya mabe, mpo Moto ekobeta bino, mpe bokozala na babateli te sé Allah, mpe bokosungama te. 11:113
+- Bosala losambo na suka ya mokolo mibale mpe na ndambo ya butu (losambo 5 ya mokolo na mokolo). Misala malamu elimisaka misala mabe (masumu minene). 11:114
+- Ya Allah ezali mayele ya likolo mpe ya mokili, mpe epai na ye makambo nyonso ekosukana. 11:123
+- Mibeko (to etumbu) ezali ya Allah. Atindaki ete bosambela sé ye (bondeko ya Nzambe moko), wana nde lingomba ya sembo, kasi bato mingi bayebi te. 12:40
+- Kozanga elikya te na ngolu ya Allah. 12:87
+- Mpe bato mingi bakondima te, ata soki olikia makasi. 12:103
+- Mpe mingi na bango bandimaka Allah te, sé na kosangisa (bango nde basangisi). 12:106
+- (Kurani) ezali liloba ya lokuta te, kasi ezali kondimisa ya Mikanda oyo eleki (Taurat, Injil mpe Mikanda misusu), mpe elimboli makambo nyonso, mpe bokambi mpe ngolu mpo na bato oyo bandimaka. 12:111
+- Allah apesaka bozwi epai na moto oyo alingi, mpe akitisaka (moto oyo alingi). 13:26
+- Bokanisa Allah mingi na nzela ya zikiri. Baye bandimaka Allah, mitema na bango ezalaka na kimia na bokanisi na ye. 13:28
+- Baye bandimi mpe basalaka misala malamu, bakozala na esengo mpe na kimia. 13:29
+- Baye balingaka bomoi ya mokili koleka bomoi ya nsima, mpe bapekisaka (bato) nzela ya Allah (Islam) mpe balingaka kobongisa yango — wana nde baye bazali na kozanga. 14:3
+- Zala na kozanga lokumu mpe na botondi na losambo. 14:7
+- Ndakisa ya baye bazali na kozanga kondima na Nkolo na bango, misala na bango ezali lokola putulu, oyo mupepe ekopanza na mokolo ya mbonge; bakozua eloko te na maye basalaki. 14:18
+- Allah akokangisa bandimi na liloba makasi na bomoi ya mokili (bakolanda losambo ya Allah moko) mpe na bomoi ya nsima. 14:27
+- Bokanisa te ete Allah ayebi te makambo oyo bato ya mabe (basangisi, babebisi, ndimbola) basalaka, kasi azali kozela bango kino na mokolo oyo miso ekotikala na bobangi. 14:42
+- Mpo Allah afuta moto nyonso na ndenge ya misala na ye. Ya sólo Allah azali noki na kofuta. 14:51
+- Mpe ya sólo tokeli moto na mabele oyo ezali na lokito, na mabele ya moindo oyo ebongwani. 15:26
+- Mpe zini, tokelaki yango liboso na moto ya malili te. 15:27
+- Ezali na bikuke sambo; mpo na bikuke nyonso ezali na eteni (ya bato ya masumu). 15:44
+- Akeli moto na litanga ya mayi (monoko ya mobali mpe ya mwasi), mpe na tango wana (moto) azali na koyina. 16:4
+- Mpe nyama, akeli yango mpo na bino; na kati na yango ezali na moto (bilamba ya moto) mpe na makambo mingi ya malamu, mpe na kati na yango bolia. 16:5
+- Mpe (akeli) mpunda, bulé, mpe ane, mpo na kokwela mpe lokola biloko ya kitoko. Mpe akeli (makambo mosusu) oyo boyebi te. 16:8
+- Ye nde akitisaka mayi (mbula) na likolo; na yango bonomba, mpe na yango bitete bikolaka oyo bobalisaka nyama na bino. 16:10
+- Ye nde akotiyaki mbu na maboko na bino, mpo ete bolya mbisi ya sika, mpe bobimisa biloko ya kitoko oyo bokolata. 16:14
+- Mpe atiyaki bangomba na mokili mpo ete etikala te na bino, mpe mingala mpe banzela, mpo ete bokambama. 16:15
+- Ezali ye oyo akeli azali ndenge na ye oyo akeli te? Boye bozali na kanisa te? 16:17
+- Soki botali bwa ngolu ya Allah, bokokoka te. 16:18
+- Allah ayebi maye bobombaka mpe maye bomonisaka. 16:19
+- Baye balingaka (basangisi) na esika ya Allah basali eloko te, kasi bango nde bakelami. 16:20
+- (Bazali) bakufi, bazali na bomoi te, mpe bayebi te tango bakosekwama. 16:21
+- Liloba na biso mpo na eloko, soki tolingi, ezali sé koloba: "Zala!" mpe ezali. 16:40
+- Baye bazali na kosala likambo ya mabe, bazali na kimia ete Allah akoboma bango na mokili to etumbu ekoyela bango na esika oyo bayebi te? 16:45
+- Bwa ngolu mpe bwa malamu nyonso oyo bozali na yango ezali na Allah. Mpe soki mabe ekwei na bino, epai na ye nde bokobenga. 16:53
+- Mpe soki alongoli mabe na bino, bamosusu na bino bazali kosangisa Nkolo na bango. 16:54
+- Na nyama ezali na malako mpo na bino. Topesaka bino komela mayi oyo ezali na kati na bango, kati na mbuma mpe makila, míliki ya pɛto, oyo esepelisaka baye bameli yango. 16:66
+- Boye bosangisa Allah na eloko te (mpo ezali na eloko moko te oyo ekokani na ye, mpe ye akokani na eloko te). Ya sólo Allah ayebi, kasi bino boyebi te. 16:74
+- Boyeba ete Allah apesaki bato koyoka, komona, mayele, mpe boposa, mpo ete bapesa matɔndi. 16:78
+- Bomona lokuta mpe kozanga. 16:97
+- Soki bolingi kotanga Kurani, luka ndako epai ya Allah na satana, oyo abwakami. 16:98
+- Boyeba ete mabe oyo esalemi na bozoba, soki moto atubi mpe abongisi, ekolimbisama. 16:119
+- Benga (Muhammad) bato na nzela ya Nkolo na yo (Islam) na bwanya mpe na malako malamu, mpe kokatisa na bango na ndenge ya malamu. Benga bato mosusu na nzela ya Allah esengeli kosalama na bwanya mpe na bolingo. 16:125
+- Ya sólo Allah azali na baye balingaka ye (baye basalaka mposa na bango epai na ye) mpe na baye bazali kosala malamu. 16:128
+- Kurani oyo ekambaka na makambo oyo ezali ya sembo mpe ya malamu. 17:9
+- Moto moko te akomema libumu ya masumu ya moto mosusu. 17:15
+- Moto oyo alingi bomoi ya nsima mpe asalaka mpo na yango na ndenge ya makasi, mpe azali mondimi, bango nde misala na bango ekoyambama mpe ekofutama (epai ya Allah). 17:19
+- Yokumisa baboti na bino mpe sala bango malamu. Zala na botosi epai ya baboti. Loba na bango liloba ya kozanga lokumu te. Mpe Nkolo na yo atindi ete bosambela sé ye. Mpe ete bosala malamu epai ya baboti. Soki moko kati na bango to bango mibale bakoli na yo, loba na bango "Sala te!" mpe bokweisa bango te, kasi loba na bango na ndenge ya lokumu. 17:23
+- Mpe kitola bango lipapu ya kozanga lokumu mpe ya ngolu, mpe loba: "Nkolo na ngai! Sala bango ngolu lokola baye balekisaki ngai na bolenge." 17:24
+- Ya sólo bato ya kozanga bokaboli bazali bandeko ya satana, mpe satana azali na kozanga matɔndi epai ya Nkolo na ye. 17:27
+- Kobebisa mbongo na ndenge ya libala te. 17:29
+- Boboma bana na bino te mpo na bobangi ya kozanga mbongo. 17:31
+- Bosala bondeko ya nzoto te. Bobatela bosantu ya libala mpe bomona bondeko ya nzoto. 17:32
+- Bopesa kilo ya bosembo soki bokali, mpe bomeka na kilo ya bosembo. Wana ezali malamu (mpo na bino) mpe malamu na suka. 17:35
+- Bolanda te (moto) makambo oyo oyebi te (lokola koloba: "namoni," kasi amonaki te, to "nayoki," kasi ayokaki te). 17:36
+- Zala na kozanga lokumu mpe kozanga lolendo. Kotambola na mokili na lolendo te. Ya sólo okoki kokatisa mokili te, mpe okoki kozala na molai ya ngomba te. 17:37
+- Nkolo na yo ayebi bino malamu; soki alingi, akosala bino ngolu; to soki alingi, akopesa bino etumbu. 17:54
+- Moto oyo azali na kozanga komona na mokili (azali komona bilembo ya Allah te mpe andimaka ye te), akozala na kozanga komona na bomoi ya nsima, mpe akobunga koleka. 17:72
+- Bobatela tango ya losambo oyo eponami. 17:78
+- Ya sólo tolimboli bato na Kurani oyo ndakisa nyonso, kasi bato mingi bazali na kozanga kondima. 17:89
+- Topesaki ndakisa nyonso na Kurani oyo mpo na bato. Kasi moto azali moto ya kokabwana koleka makambo nyonso. 18:54
+- Lifuta na bango ezali lifelo; mpo bazalaki na kozanga kondima mpe basalaki bikapo na ngai mpe batindami na ngai lokola masano. 18:106
+- (Lokumu ya) Allah esengeli te azala na mwana (oyo ezali koloba ya bato ya Boklisto na Allah, ete Yesu azali mwana ya Nzambe). Lokumu na ye (mpe azali likolo koleka makambo oyo basangisaka). 19:35
+- Loba na bato na ndenge ya malamu. 20:44
+- Bopusa na misala malamu. 21:90
+- Bomona maloba oyo ezali na ntina te. 23:3
+- Bobatela nsoni na bino. 23:5
+- Bobatela mitema na bino na makambo ya mabe. 23:97
+- Limbisa bato mosusu mpe limbisa mabeba na bango. 24:22
+- Yokumisa makambo ya nzoto ya bato mosusu, mingimingi na bandako na bango. Salisa makoki ya baninga. 24:27
+- Kitola miso na bino (mibali mpe basi). Bobatela nsoni na bino mpe bosoto. 24:30
+- Batela nsoni na bilamba mpe na bizaleli. 24:31
+- Boyeba ete Allah apesaka kimia mpe boboto epai ya baye basambelaka ye mpe basalaka malamu. 24:55
+- Bokota te na chambre ya baboti na bino sé na ndingisa. 24:58
+- Zala na kozanga lokumu. 25:63
+- Bomona kotanga lokuta mpe lokuta. 25:72
+- Boleka mpo na lifuta na nsima, kasi bosala makambo na bino na mokili te. 28:77
+- Bosambela te nzambe mosusu na esika ya Allah. 28:88
+- Bosala bondeko ya nzoto ya mibali te. 29:29
+- Boleka na ndenge ya malamu na misala nyonso na bino. 29:69
+- Bosala losambo mpe bopesa zakat. 31:4
+- Tinda na malamu mpe pekisa mabe. 31:17
+- Bomona lolendo na bizaleli na bino. Kobebisa tango na maloba te. 31:18
+- Zala na ndenge ya kati na kotambola mpe na lolenge ya mongongo. 31:19
+- Landa ndakisa ya Profeta Muhammad. 33:21
+- Basi basengeli te komonisa to komikumisa kitoko na bango. 33:33
+- Loba solo na makambo nyonso. 33:70
+- Luka bwanya mpe mayele na nzela ya kanisa. 38:29
+- Landa mitindo ya Kurani. 39:23
+- Allah alimbisaka masumu nyonso soki moto ya masumu atubi mpe azongi epai na ye. 39:53
+- Sala losambo ya solo epai ya Allah. 40:60
+- Longola mabe na makambo oyo ezali malamu. 41:34
+- Kata makambo na nzela ya kokatisa. 42:38
+- Komata mongongo na bino te koleka ya Profeta. 49:2
+- Batela makambo ya nzoto mpe bomona lokuta. 49:6
+- Sala kimia kati na bato oyo bazali na kowelana. Luka boyokani na makambo. 49:9
+- Kosala bato mosusu te. 49:11
+- Bomona makanisi mabe. Bomona koyekola mpe koloba na nsima. Koloba mabe na bato mosusu te. Bomona ndenge nyonso ya koloba mabe. Lolendo ekokoma bino na mobulu te. 49:12
+- Boyeba ete sé bosembo nde ekokomisa moto motuya. Yokumisa bokeseni kati na bato mpe na bikolo. 49:13
+- Yokumisa bapaya. 51:26
+- Zala na bokebisi epai ya mibeko na bino epai ya Allah. 51:56
+- Salela mbongo na bino na bolingo. 57:7
+- Boyeba ete kozanga na mombongo na lingomba (kotika libala mpe malamu lokola bamonge, basoeur to bato mosusu oyo bazali na malapi ya lingomba, to bandako oyo bafandaka) ezali te. 57:27
+- Mbongo ekobungisa bino na bokanisi ya Allah te. 58:11
+- Baye bazali na mayele, Allah akopesa bango lokumu. 58:11
+- Sala bato oyo bazali te na Islam na ndenge malamu mpe na bosembo. 60:8
+- Bomona lokuta na bondimi na bino mpe na misala na bino. 63:9
+- Zala mosika na lokuta mpe kozanga. 64:16
+- Batela makambo oyo epesami epai na bino. 73:15
+- Bokanisa Mokolo ya Kosambisama. 75:36
+- Tinda na mpiko mpe na ngolu. 90:17
+- Baye bapetolaka milimo na bango bakopanga; mpe baye babebisaka yango bakozanga. 91:10
+- Koboya te mpe kobundisa te baye balingi lisalisi. 93:10
+- Luka mayele mpe mayele. Tanga Kurani mpe kanisa yango. 96:1–5
+- Lendisa bato na koleisa bato ya kozanga. 107:3
 """;

@@ -3317,4 +3317,280 @@ Matching Phrases 8 words
 - Xwedê rozî ji kê ji xulamên xwe bixwaze, fireh dike û ji kê re bixwaze, teng dike. (اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ) 28:82; 29:62
 - Û hûnê li ba wî yê ku bi nehênî û aşkereyî dizane, bêne vegirtin, vêca ewê tiştê ku we dikir, ji we re bêje. (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
 - Û xizmên nêzîk, di pirtûka Xwedê de, hinekan ji hinekên din re mafdar e. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
+cmds - Commands, Exhortations, Prohibitions, Instructions
+- fard / wajib (فرض / واجب) — فرض / واجب (divê were kirin; terkkirin guneh e)
+- mustahabb / mandub (مستحب / مندوب) — musteheb / mendûb (tê pêşniyarkirin; heke were kirin xelat heye, heke neyê kirin guneh nîne)
+- mubah (مباح) — mubah / destûrdar (ne xelat heye ne jî guneh)
+- makruh (مكروه) — mekrûh (ne tê xwestin, lê heke were kirin guneh nîne)
+- haram (حرام) — heram (kirina wê guneh e)
+- halal (حلال, destûrdar / qanûnî) — hem mubah û hem jî mustehebb dihewîne — her tiştê ku ne heram e
+- Tenê îbadeta Xwedê (Allah) bikin û alîkariya Wî bixwazin. 1:5
+- Tenê îbadeta Xwedê bikin. 2:21
+- Ji Xwedê re hevkar û şirîkan nekin. 2:22
+- Xwedê yê ku efû dike (tobeyê qebûl dike) ye, Wî tobeta Adem (aleyhîselam) qebûl kir. 2:37
+- Rastiyê bi derewê re tevlihev nekin û rastiyê veşêrin. 2:42
+- Nimêjê (nimêjên rojane) bikin û zekatê (sedeqeyê) bidin. 2:43
+- Wekî ku hûn bi xwe tevdigerin, paşê bi xêra fermanê bidin kesên din. 2:44
+- Di hemû karên xwe de ji Xwedê alîkariyê bixwazin. 2:45
+- Bikevin nav gendeliyê û belav nekin. 2:60
+- Mirovan ji çûna cihên îbadetê nehêlin. 2:114
+- Pîroziya mizgeftê rêz bikin. Cihên nivêja xwe paqij û pak bihêlin. 2:125
+- Xwedê bînin bîra xwe (bi nimêj, tesbîh û hwd.) û ew jî we bi bîr tîne, û spasdarê Wî bin. 2:152
+- Di tengasiyan de bîhnfireh bin. 2:153
+- Li pey gavên şeytan nekevin, ku ew dijminê diyarkirî ye. 2:168
+- Ji kesî re bi korî neşopînin. 2:170
+- Hemû emanetan biparêzin û bicîh bînin. Erkedarîyên xwe yên olî bi dilsozî bicîh bînin. Sond û peymanên xwe bicîh bînin. Sozên xwe, nemaze yên ku ji Xwedê re dane, biparêzin. Piştgirîya hewcedaran bikin û dijwarîyan sivik bikin. Dûrî gunehên ku dibin sedema windabûna qenciya Xwedê bixin. Bihêlin ku quretî we bibe sedema neheqiyê. 2:177
+- Di kisasê de (qanûna wekheviyê di cezayê de) ji we re jî heye. 2:179
+- Di meha Remezanê de rojî bigirin. Rojiya ku hatiye fermankirin bicîh bînin da ku bibin xwedîtirsa. 2:183
+- Qur'anê wekî çavkaniya dawî ya rêberiyê rêz bikin. 2:185
+- Malê hev bi neheqî nexwin û ji dadgeran re (berî ku dozên xwe pêşkêş bikin) rişwetê nedin. 2:188
+- Kesên din bi gotin an jî bi kirinê nekin bin çewisandinê. Tu carî wekî êrîşkar şer nekin, lê tenê ji bo berevaniyê. 2:190
+- Sêwiyan biparêzin. Di derbarê sêwiyan de, di malê wan de bi dilsozî bixebitin û malê wan nexwin. 2:220
+- Tobe bikin û ji Xwedê lêborînê bixwazin. Di dema heyizê de têkiliyên zayendî nekin. Paqijiyê biparêzin (hem laşî û hem jî giyanî). 2:222
+- Erkê xwe yê li hemberî malbata xwe bicîh bînin. 2:233
+- Serok li gorî jêhatîbûna xwe hilbijêrin. 2:247
+- Di olê de neçarî tine ye. 2:256
+- Malê xwe li xêratê bixercînin. Di mal û wext de jî comerd bin. 2:261
+- Bi pozbilindî û pesnê xwe xêratê nehêlin. 2:264
+- Şeytan we bi xizaniyê ditirsîne û we ferman dide ku hûn fihşê (kiryarên xirab, têkiliyên zayendî yên neqanûnî, guneh) bikin. 2:268
+- Hewcedaran bigerin û alîkariya wan bikin. 2:273
+- Bikevin nav riba (faîzê) û faîzê. Malê bi faîz nexwin. Riba (faîz) nexwin. 2:275
+- Eger deyndar di tengasiyê de be, ji bo vegerandinê wextê zêdetir bidin wî. 2:280
+- Di kiryarên bazirganiyê de soza xwe bicîh bînin. Di karên darayî yên xwe de rastgo bin. Di hemû peymanên xwe de bi rastdilî tevbigerin. Dema ku hûn deynê wextê diyar dikin, binivîsînin. Dema ku hûn peymana bazirganiyê dikin, şahîdan bînin. 2:282
+- Hemû emanetan biparêzin û bicîh bînin. 2:283
+- Bi pirtûkên hatine daxistin û hemû pêxemberan bawer bikin. 2:285
+- Xwedê li kesî zêdetirî şiyana wî bar nake. Xelata tiştê qenc ê ku wî bi dest xistiye dide wî, û cezayê tiştê xirab ê ku wî bi dest xistiye dide wî. Xwedê li mirovî zêdetirî şiyana wî bar nake; em jî nebe wisa bikin. Di tengasiyê de jî xwe bispêrin plana Xwedê. 2:286
+- Kî peymanan bicîh tîne û ji Xwedê ditirse, wê demê Xwedê xwedîtirsan hez dike. 3:76
+- Heke hûn karibin, Hecê (ziyareta) bikin. 3:97
+- Nebin parçe. 3:103
+- Bi qenciyê ferman bikin û ji xirabiyê qedexe bikin. Di civaka xwe de dadperweriyê teşwîq bikin. Kesên din ji bîrkirina Xwedê re bang bikin. 3:104
+- Divê bawermendan xwe bispêrin Xwedê. 3:122
+- Riba (faîz) nexwin. 3:130
+- Ji bo ku hûn dilovaniyê bistînin, guhdarîya Xwedê û Pêxemberê wî bikin. 3:132
+- Xwedê hez dike ji wan kesên ku (di rêya Xwedê de — kiryarên qenciyê, sedeqe û hwd.) di dewlemendî û tengasiyê de mesref dikin, hêrsa xwe vedişêrin, û ji mirovan lêborînê dixwazin. 3:134
+- Hêrsa xwe veşêrin. Hêrsa xwe kontrol bikin. 3:134
+- Şaşîyên kesên din biborin û efû bikin. 3:135
+- Di axaftinê de nekin zivir. Ji yên ku ji we cuda ne, re bîhnfireh bin. 3:159
+- Heke Xwedê we bi alîkariya xwe bike, tu kes nikare we têk bibe; û eger Wî we berneda, kî ye ku piştî Wî alîkariya we bike? 3:160
+- Her kes tama mirinê tam dike. Û tenê di roja qiyametê de hûn ê xelata xwe ya tije bistînin. 3:185
+- Bi kûrahî li ser ecêbên xwezayê û afirandina vê gerdûnê bifikirin. Bizanin ku Xwedê gerdûnê bi wate û mebest afirandiye. 3:191
+- Mêr û jin ji bo kirinên xwe xelata wekhev digirin. 3:195
+- Ji bo yên ku ji Xwedayê xwe ditirsin, (di biheştê de) baxçeyên ku di bin wan de çem diherikin hene; ew ê hertimî lê bimînin, wekî mazûvaniya Xwedê. 3:198
+- Her tim di her kirinê de ji bo razîbûna Xwedê hewl bidin. 3:200
+- Ji Xwedayê xwe re xwedîtirs bin, ji wî bitirsin û (pêwendiyên) xizmatiyê (bi xizmên xwe) nebin. 4:1
+- Malê sêwiyan bidin wan û (tiştê xwe yê pîs) bi (wan tiştê wan yê qenc) re neguherînin; û malê wan (bi tevî malê xwe) nexwin. 4:2
+- Jinan (ku hûn dizewicin) mahrê wan (diyariya zewacê ya mecbûrî ku mêr di dema zewacê de dide jina xwe) bi dilxweşî bidin wan. 4:4
+- Mafên sêwiyan biparêzin. 4:6
+- Malê mirî divê di nav malbata wî de were parve kirin. Jin xwedî mafê mîratê ne. 4:7
+- Malê sêwiyan bi neheqî nexwin. 4:10
+- Guhdarîyê fermanên derbarê mîratê bikin. 4:11
+- Mîratgirtina jinan a li dijî dilê wan qedexe ye, û divê hûn bi wan re hişk nebin. Bi wan (jinan re) bi qenciyê bijîn. Mafên jinan rêz bikin û biparêzin. Bi hevjîna xwe re bi qenciyê û dilovaniyê tevbigerin. Bi jinan re bi rûmet û dadperweriyê tevbigerin. 4:19
+- Bi kesên ku xizmên xweyên xwînê ne re bizewicin. 4:23
+- Hûn nekin kuştina hev. Bêguman Xwedê li we dilovan e. Malê hev bi neheqî nexwin. 4:29
+- Heke hûn xwe ji gunehên mezin yên qedexekirî dûr bixin, Xwedê gunehên we yên (biçûk) radike û we dikeve cihê rûmetdar (biheştê). 4:31
+- Tişta ku Xwedê bi wê hinekan ji we li ser hinekan qedirgirtî kiriye, xwe nekin dilxwazê wî. Dûrî çavnebarî û hesûdiyê bixin. 4:32
+- Mêr parêzvan û piştgirê jinan in, ji ber ku Xwedê hinek ji wan li ser hinekan qedirgirtî kiriye, û ji ber ku ew ji malê xwe (ji bo wan) mesref dikin. Mêr parêzvan û piştgirê malbatê ye. 4:34
+- Xwedê bi îbadetê bikin û tu şirîkî Wî nekin, bi dêûbav, xizm, sêwî, hewcedar, cîran, hevalê kêleka xwe, rêwî (yê ku hûn rastî wî tên), û (xulamên) ku destê rastê we lê xwedî dibe, başiyê bikin. Xwedê kesên qure û pesnok hez nake. Ji kesên din re başiyê bikin. Ji qelsan re dilovan bin. Pêwendiyên malbatê biparêzin û xizman rêz bikin. 4:36
+- Neçelakî nekin. 4:37
+- Xwedê efû nake ku şirîkî Wî bê kirin, lê ji vê derve ji kê re bixwaze efû dike. 4:48
+- Ji kesên din re çavnebarî nekin. 4:54
+- Xwedê ferman dide we ku hûn emanetan bistînin xwediyên wan. Dema ku hûn di nav mirovan de dadbarî dikin, bi dadperwerî dadbarî bikin. 4:58
+- Guhdarîyê Xwedê û Pêxemberê wî bikin. Ji yên ku di nav we de xwedî desthilat in, re rêz bigirin. 4:59
+- Qels û bêhêz nekin bin çewisandinê. 4:75
+- Her qenciya ku ji we re tê, ji Xwedê ye; û her xirabiya ku dikeve we, ji xwe ye. 4:79
+- Kî guhdarîyê Pêxember (Muhemmed ﷺ) bike, bi rastî guhdarîyê Xwedê kiriye. 4:80
+- Kî ji bo qenciyê navbeynkarî bike, ji wê re beşek xelat heye; û kî ji bo xirabiyê navbeynkarî bike, jê re beşek bar heye. 4:85
+- Ne ji bawermendî re ku bawermendekî bikuje, ji bilî ku xeletî be. 4:92
+- Kî bi qestî bawermendekî bikuje, wê cezayê wî dojeh be, hertimî lê dimîne. Hêrsa Xwedê û nifir Wî li ser wî ye, û ji wî re cezayekî mezin hatiye amadekirin. 4:93
+- Kî koçberî (ji mala xwe) di rêya Xwedê de dike, dê li erdê gelek cih û firehiyê bibîne. 4:100
+- Di nimêjên xwe de rast bin. 4:103
+- Ji yên ku emaneta xwe vedişêrin, re piştgirî nekin û nebin parêzvanê wan. 4:105
+- Ji Xwedê lêborînê bixwazin, bêguman Xwedê efûker e, dilovan e. 4:106
+- Ey kesên ku bawer kirine! Ji bo dadperweriyê rawestin, bi qasî ku ji bo Xwedê şahid bin, her çend li dijî xwe, dêûbavên xwe, an jî xizmên xwe be jî, ew dewlemend be an jî xizan be. Dadperweriyê nekin paşxistin; ji bo rastkirina xeletiyan lez bikin. 4:135
+- Durû dixwazin Xwedê bixapînin, lê ew e ku wan dixapîne. 4:142
+- Durû dê di asta herî nizm a agir de bin; û hûn ê ji wan re tu alîkar neyînin. 4:145
+- Xwedê hez nake ku xirabî bi eşkere bê gotin, ji bilî yê ku hatiye zordestî kirin. 4:148
+- Pêxemberan wekî mizgînvan û hişyarker şandin, da ku piştî Pêxemberan ji bo mirovan li dijî Xwedê delîl nebe. 4:165
+- Peyman û sozên xwe bicîh bînin. 5:1
+- Di qenciyê û xwedîtirsê de alîkariya hev bikin, û di guneh û dijminatiyê de alîkariya hev nekin. 5:2
+- Mirî, xwîn û goştê beraz nexwin. 5:3
+- Dadperwer bin, nehêlin ku dijminatî û nefreta li dijî kesên din we ji dadperweriyê dûr bixe. Dadperwer bin. Bizanin ku dadperwerî nêzîkê xwedîtirsiyê ye. Dadperweriyê nekin paşxistin; ji bo rastkirina xeletiyan lez bikin. 5:8
+- Rêyên nêzîkbûna Xwedê bigerin, û di rêya Wî de heta ku hûn karibin hewl bidin. Da ku hûn biserkevin. 5:35
+- Sond û peymanên xwe bicîh bînin. 5:89
+- Dûrî tiştên serxweşker û alkolê bixin. Bi tundî dûrî tiştên serxweşker (hemû cureyên vexwarinên alkolî), qumar, pût û tîrên falê (ji bo dîtina bext an biryarê) bixin, ku ev hemû ji karê şeytan pîs in. 5:90
+- Di dema ku hûn ji bo Hec an jî Umreyê di ihramê de ne, nêçîrê nekin. 5:95
+- Li ser tiştên ku heke ji we re bêne diyarkirin, dibe ku we aciz bikin, pirs nekin. 5:101
+- Xwedayên kesên din heqaret nekin. Kesên ku ew (kafir) ji Xwedê xwe ve diperizin, heqaret nekin, da ku ew jî bi nezanî Xwedê heqaret nekin. 6:108
+- Heke hûn guhdarîyê piraniya kesên li ser erdê bikin, ewê we ji rêya Xwedê derxînin. Ew tenê li pey gumana xwe ne, û ew tenê derew dikin. 6:116
+- (Mirovano!) Hemû gunehan, eşkere û veşartî, bihêlin. 6:120
+- (Bawermendan!) Tiştê (goşt) ku navê Xwedê lê nehatiye gotin (di dema serjêkirinê de) nexwin. 6:121
+- Kî ku Xwedê bixwaze rêberî bike, sîngê wî ji bo îslamê vedike; û kî bixwaze wî ji rê derxe, sîngê wî teng û zor dike. 6:125
+- Di xercê de nerm bin û ji berfirehiyê dûr bixin. Mafê hemû afirîdan biparêzin. 6:141
+- Ji Xwedê re tu şirîkî nekin, bi dêûbavan re başiyê bikin, zarokên xwe ji tirsa xizaniyê nekuştin, nêzîkî fihşê (tiştên şermokî) nebin, kesê ku Xwedê qedexe kiriye nekuştin, ji bilî bi mafê rast. 6:151
+- Rastgo bin; di tu kiryarên xwe de xapandin nekin. Nêzikî malê sêwiyan nebin, ji bilî ku wê baştir bikin, pîvandin û terazûyê bi dadperwerî bikin, dema ku hûn axaftinê dikin, rastiyê bêjin her çend li ser xizmekî nêzîk be jî, û peymana Xwedê bicîh bînin. 6:152
+- Li pey rêya rast rêve bibin û li pey rêyên (din) nekevin, ji ber ku ew we ji rêya Wî dûr dixin. 6:153
+- (Muhemmed ﷺ) bêje: "Bêguman, nimêja min, qurbaniya min, jiyana min û mirina min ji bo Xwedê, Xwedayê hemû cîhanan e." 6:162
+- Quretî nekin. 7:13
+- Bila şeytan we nehêle. 7:27
+- (Muhemmed ﷺ) bêje: "Xwedayê min bi dadperweriyê ferman kiriye…" 7:29
+- Li hemû tiştan sînorên ku Xwedê danîne bi cih bînin. Di gotin û kirinê de sînorê xwe derbas nekin. Bixwin û vexwin, lê zêde nekin. Di dema nimêjê de cilên xweşik li xwe bikin. 7:31
+- Xwedê ezman û erd di şeş rojan de afirand, paşê li ser Eerşê rûnişt (bi awayekî ku ji Rûmeta Wî re lazim e). 7:54
+- Bi dilnizmî û veşarî ji Xwedayê xwe lava bikin. Wî ji sînor derbazkeran hez nake. 7:55
+- Û piştî ku erd hatiye rastkirin, tê de xerabî nekin, û bi tirs û hêviyê lava Wî bikin. 7:56
+- Lê yên ku kiryarên xirab kirine, paşê tobe kirine û bawer kirine, bêguman Xwedayê we piştî vê efûker e, dilovan e. 7:153
+- (Muhemmed ﷺ) bêje: "Ey mirovan! Bêguman ez ji we re hemûyan Pêxemberê Xwedê me…" 7:158
+- Û (hemû) navên herî xweş ji Xwedê re ne, ji ber vê yekê bi wan navan lava Wî bikin, û yên ku di navên Wî de çewtî dikin, bihêlin… 7:180
+- Kî ku Xwedê wî ji rê derxe, ji wî re tu rêber nîne; û Wî wan di serhildana xwe de koroyî dihêle. 7:186
+- Biborin, bi qenciyê ferman bikin, û ji nezan bihûrin (wateyê wan ceza nekin). 7:199
+- Ji kesên din re şaşîyên wan biborin. 7:199
+- Heke ji şeytan ve teşwîqek xirab were te, ji Xwedê re xwe bispêre. Bêguman ew bihîstekar e, zanayê. 7:200
+- Bawermend ew in ku dema navê Xwedê tê bîranîn, dilên wan ditirse, û dema ayetên Wî li wan têne xwendin, baweriya wan zêde dibe… 8:2
+- Xwedê û Pêxemberê Wî nexapînin û emanetên xwe (û hemû erkên ku Xwedê ferman kiriye) bi zanebûn nexapînin. 8:27
+- Heke hûn guhdarîyê Xwedê bikin û ji Wî bitirsin, Wî ê ji we re Furqanê (pîvana cudakirina rast û derewê, an jî riya derketina ji her tengasiyê) bide. 8:29
+- Kafir malê xwe dikevin da ku (mirovan) ji rêya Xwedê dûr bixin, û ewê bi vî awayî bixercînin; lê di dawiyê de ewê bibe poşmaniya wan. 8:36
+- Ji kafiran re bêje: heke ew dev jê berdin (ji kufrê), ê tiştên berê yên wan bêne efûkirin. Lê heke ew vegerin (wê), wê demê mînakên yên (cezakirî) berê derbas bûne (wekî hişyarî). 8:38
+- Dema ku hûn bi (leşkerê) dijmin re rû bi rû dimînin, xwe xurt bikin û navê Xwedê pir bînin bîra xwe (bi ziman û hiş), da ku hûn biserkevin. 8:45
+- Wekî yên ku bi quretî û ji bo ku ji mirovan re bêne dîtin, ji mala xwe derketin, û (mirovan) ji rêya Xwedê dûr xistin, nebin. 8:47
+- Xwedê qet qenciya ku daye gelê xwe naguhêre, heta ku ew tiştê di xwe de biguherînin. 8:53
+- Xirabtirîn ajelan li cem Xwedê ew kafir in. 8:55
+- Xwedê di nav dilên bawermendên xwe de hezkirin û dostaniyê datîne. 8:63
+- Yên ku li parastinê digerin, biparêzin û alîkariya wan bikin. 9:6
+- Ne ji bona muşrîkan re ye ku mizgeftên Xwedê ava bikin. 9:17
+- Ew (kafir, cihû û fileh) dixwazin ronahiya Xwedê (bi wê Muhemmed ﷺ hatiye şandin — tewhîda îslamî) bi devê xwe vemirînin, lê Xwedê ji bilî temamkirina ronahiya xwe, destûr nade, her çend kafir nefret jî bikin. 9:32
+- Sedeqe (zekat) tenê ji bo: 1) xizanan, 2) hewcedaran, 3) yên ku li ser berhevkirina wê dixebitin, 4) ji bo dilxweşkirina dilên kesên ku berê xwe dan îslamê, 5) ji bo azadkirina koleyan, 6) ji bo deyndaran, 7) di rêya Xwedê de (ji bo mujahîdan), û 8) ji bo rêwîyan e. 9:60
+- Kî dijberî û dijminatî bi Xwedê û Pêxemberê Wî (ﷺ) re bike, wê ji bo wî agirê dojehê hebe, ku hertimî tê de dimîne. Ew rûreşîyeke mezin e. 9:63
+- Durû, mêr û jin, hemû yek in. Ew Xwedê ji bîr kirine, ji ber vê yekê Wî jî wan ji bîr kiriye. 9:67
+- Ji paqijiyê re hewl bidin. Pîroziya mizgeftê rêz bikin. 9:108
+- Ji bo (Pêxember û bawermendan) ne lazim e ku ji bo muşrîkan, her çend xizmê wan bin jî, piştî ku ji wan re diyar bûye ku ew di dojehê de ne (ji ber ku ew di kufrê de mirine), lêborînê bixwazin. 9:113
+- Kî ji wî ku li ser Xwedê derewan bike, an jî ayetên Wî derew bike, zordesttir e? Bêguman gunehkar qet nafilin! 10:17
+- Ew ji Xwedê xwe ve tiştên ku ne ziyanê didin wan û ne jî kar didin wan, diperizin, û dibêjin: "Evên me li cem Xwedê şefî'ên me ne." Bêje: "Ma hûn Xwedê bi tişta ku Wî di ezman û erdî de nizane, agahdar dikin?" Pîrozî ji Wî re, û Wî ji wan tiştên ku ew şirîk dikin, bilindtir e! 10:18
+- Cezayê xirabiyê xirabiyeke wekî wê ye. 10:27
+- Ev Xwedê ye, Xwedayê we yê rast. Piştî rastiyê, ji xeynî şaşiyê çi heye? Vêca hûn bi kû ve têne zivirandin? 10:32
+- Piraniya wan tenê li pey gumana xwe ne. Bêguman guman ji bo rastiyê tu bikêr nîne. 10:36
+- Bêguman! Xwedê qet li mirovan zordestî nake; lê mirov li xwe zordestî dikin. 10:44
+- Bizanin ku qenciya Xwedê ji her tiştê ku mirov dikare kom bike an jî hêlîn bike, çêtir e. 10:58
+- Nebin ji yên ku ayetên Xwedê derew dikin, ji ber ku wê demê hûn ê bibin ji ziyankar. 10:95
+- Heke Xwedê zirarê bide we, tu kes ji xeynî Wî nikare wê rake; û heke Wî ji we re qenciyê bixwaze, tu kes nikare qenciya Wî vegerîne, Wî dide kê ku bixwaze ji bendeyên xwe. 10:107
+- Li ser erdê tu ajelek nîne ku roziya wî ne li ser Xwedê be. Û Wî cihê mayîna wî û cihê veşartina wî (di malzarok, gor û hwd.) dizane. 11:6
+- Heke em ji mirovî re tama dilovaniya xwe bidin, paşê em wê ji wî bistînin, bêguman ew bêhêvî û nankor dibe. 11:9
+- Kî jiyana dinyayê û xemla wê bixwaze, emê xelata kirinên wan di wê de tije bidin wan, û tê de tu kêmasî li wan neyê kirin. 11:15
+- Me li wan zordestî nekir, lê ew li xwe zordestî kirin. Xwedayên wan yên ku ji Xwedê xwe ve digazî, dema ku fermana Xwedayê te hat, tu kêrî wan nehatin, û ji xeynî têkçûnê tiştek ji wan re zêde nekir. 11:101
+- Di roja ku tê de, tu kes ji xeynî destûra Wî (Xwedê) naxive. Hinek ji wan êdî reben, û (hinek jî) bextewar in. 11:105
+- Lê yên reben, dê di agir de bin, ji wan re li wir axîn û feryad heye. 11:106
+- Ewê hertimî tê de bimînin, heta ku ezman û erd bimînin, ji bilî tiştê ku Xwedayê te bixwaze. Bêguman Xwedayê te karkerê tiştê ku bixwaze ye. 11:107
+- Û yên bextewar, dê di biheştê de bin, hertimî tê de bimînin, heta ku ezman û erd bimînin, ji bilî tiştê ku Xwedayê te bixwaze, wekî diyariyeke bêdawî. 11:108
+- Nêzîkî zordestan nebin, da ku agir nekeve we, û ji xeynî Xwedê tu parêzgarên we nebin, paşê hûn ê neyên alîkarîkirin. 11:113
+- Di her du aliyên rojê de û di hin saetên şevê de nimêj bikin (wateyê 5 nimêjên rojane). Kiryarên qenc gunehan (wateyê gunehên biçûk) radikin. 11:114
+- Veşartîya ezman û erdê ji Xwedê re ye, û hemû kar vedigerin ba Wî (ji bo biryarê). 11:123
+- Ferma (an jî dad) tenê ji Xwedê re ye. Wî ferman kiriye ku hûn tenê Wî bi îbadetê bînin (tewhîd), ev ola rast e, lê piraniya mirovan nizanin. 12:40
+- Qet ji dilovaniya Xwedê bêhêvî nebin. 12:87
+- Û piraniya mirovan, her çend tu jî pir bixwazî jî, nabin bawermend. 12:103
+- Û piraniya wan bi Xwedê bawer nakin, lê ew şirîkê Wî dikin (wateyê ew muşrîk in). 12:106
+- Ev (Qur'an) gotineke derewîn nîne, lê rastdariya pirtûkên berê (Tewrat, Încîl û pirtûkên din ên Xwedê) û ravekirina berfireh a her tiştî, û rêberî û dilovaniyek e ji bona gelê bawermend re. 12:111
+- Xwedê roziyê ji bona kê bixwaze fireh dike, û (ji bona kê bixwaze) teng dike. 13:26
+- Xwedê bi zikrê pir bînin bîra xwe. Yên bi Xwedê bawer dikin, dilên wan bi bîrkirina Wî rehet dibe. 13:28
+- Yên ku bawer dikin û karên qenc dikin, ji wan re şahî û aramî heye. 13:29
+- Yên ku jiyana dinyayê li ser axretê tercîh dikin, û (mirovan) ji rêya Xwedê (Îslamê) dûr dixin, û dixwazin wê xwar bikin — ew di şaşiyeke dûr de ne. 14:3
+- Di îbadetê de dilnizmî û spasdarî bikin. 14:7
+- Mînaka yên ku bi Xwedayê xwe kafir dibin, kirinên wan wekî xwelî ye, ku bayê bi tundî di roja bahozê de pê dikeve; ew nikarin tiştê ku bi dest xistine, bi dest bixin. 14:18
+- Xwedê bawermendan bi gotina xurt, di vê dinyayê de (wateyê ew ê bidomînin ku tenê Xwedê bi îbadetê bînin) û di axretê de xurt dike. 14:27
+- Ne bawer bikin ku Xwedê ji tiştê ku zordest (muşrîk, zalim û hwd.) dikin, bêxeber e, lê Wî wan heta roja ku çav jê ditirsin, paşde dihêle. 14:42
+- Da ku Xwedê ji her kesî re li gorî tiştê ku bi dest xistiye, bi cih bîne. Bêguman Xwedê zû hesab e. 14:51
+- Û bêguman me mirov ji gilê dengdar, ji heriyê reş ê hatiye guhertin, afirand. 15:26
+- Û cinan, me berê wan ji agirê bêdûman afirand. 15:27
+- Wî (dojehê) heft derî hene; ji bo her deriyekî (taybet) komek gunehkar heye. 15:44
+- Wî mirov ji dilopekê (tevlîhevbûna ava mêr û jinê) afirand, vêca ev (mirov) dijminê diyar dibe. 16:4
+- Û heywan, Wî ew ji we re afirandin; di wan de ji we re germahî (cilên germ) û sûdên mezin hene, û ji wan hûn dixwin. 16:5
+- Û (Wî afirand) hesp, hêstir û ker, ji bona siwarbûn û xemilandinê. Û Wî tiştên (din) ku hûn nizanin, diafirîne. 16:8
+- Ew e ku ji ezman av (baran) dadixe; hûn jê vedixwin û jê dar û giya şîn dibe, ku hûn heywanên xwe lê diçêrin. 16:10
+- Ew e ku deryayê ji we re bi ser kir, da ku hûn jê goştê teze (masî) bixwin, û jê xemilandinên ku hûn dilixwe derxînin. 16:14
+- Wî li erdê çiyayên saxlem danîn, da ku ew bi we re neheje, û çem û rê (afirandin), da ku hûn rêya rast bibînin. 16:15
+- Ma ê ku diafirîne, wekî ê ku naafirîne ye? Ma hûn nafikirin? 16:17
+- Heke hûn qenciyên Xwedê bijmêrin, hûn nikarin wan bijmêrin. 16:18
+- Xwedê tiştê ku hûn vedişêrin û tiştê ku hûn eşkere dikin, dizane. 16:19
+- Yên ku ew (muşrîk) ji Xwedê xwe ve digazînin, tişt neafirandine, lê ew bi xwe hatine afirandin. 16:20
+- (Ew) mirî ne, jîndar nînin, û nizanin kengê têne şiyandin. 16:21
+- Gotina me ji tiştekî re, dema ku em bixwazin, ew e ku em jê re bêjin: "Bibe!" wê demê ew dibe. 16:40
+- Ma yên ku planên xirab dikin, xwe ewle dikin ku Xwedê wan di erdê de nexe, an jî ku ceza ji aliyê ku ew nizanin, werê wan? 16:45
+- Her qenciya ku we heye, ji Xwedê ye. Paşê dema ku zirarê dikeve we, hûn gazî Wî dikin. 16:53
+- Paşê dema ku Wî zirarê ji we rakir, vêca hinek ji we ji Xwedayê xwe re şirîkan çêdikin. 16:54
+- Di heywanan de ji we re dersek heye. Em ji we re vedixwin tiştê ku di nav zikê wan de ye, di navbera gewrî û xwînê de, şîrê pak, ji bo vexweran xweş. 16:66
+- Vêca ji Xwedê re mînak nekin (ji ber ku tiştekî wekî Wî nîne, û Wî jî wekî tiştekî nîne). Bêguman Xwedê dizane, lê hûn nizanin. 16:74
+- Bizanin ku Xwedê ji mirovan re guh, çav, hiş û hest daniye, da ku bibin spasdar. 16:78
+- Dûrî tama' û çelakîyê bixin. 16:97
+- Dema ku hûn dixwazin Qur'anê bixwînin, ji şeytanê recîm (mefrûr) xwe bispêrin Xwedê. 16:98
+- Bizanin ku şaşîyeke bi nezanî hatî kirin, heke kes tobe bike û xwe rast bike, tê efûkirin. 16:119
+- (Muhemmed ﷺ) bi aqil û şîreta qenc, bangî rêya Xwedayê xwe (Îslamê) bikin, û bi awayê herî xweş bi wan re nîqaş bikin. Bangkirina kesên din ji rêya Xwedê re divê bi aqil û qenciyê be. 16:125
+- Bêguman Xwedê bi yên ku ji Wî ditirsin (yên ku erkê xwe yê li hemberî Wî bicîh tînin) û bi yên qencîkar re ye. 16:128
+- Ev Qur'an rêberî dike ber bi tiştê herî rast û dadperwer. 17:9
+- Tu kes nikare barê gunehê yekî din hilgire. 17:15
+- Kî axretê bixwaze û ji bo wê hewl bide, bi hewlê ku ji wê re lazim e, û ew bawermend be, wê demê hewla wan tê qedirgirtin û xelatkirin (ji aliyê Xwedê ve). 17:19
+- Dêûbavên xwe rêz bikin û bi wan re qencî bikin. Ji dêûbavên xwe re guhdar bin. Ji wan re tu gotina bêrûmetî nekin. Û Xwedayê we ferman kiriye ku hûn tenê Wî bi îbadetê bînin. Û ku hûn bi dêûbavên xwe re qencî bikin. Heke yek ji wan an jî herdu jî li cem we pîr bûn, ji wan re "uf" nekin û wan heqaret nekin, lê bi wan re gotinên rêzdar bikin. 17:23
+- Û ji bona wan re bi dilnizmî û dilovaniyê baskê xwe rakin, û bêjin: "Xwedayê min! Wekî ku ew min di biçûkî de perwerde kirine, Tu jî li wan dilovan be." 17:24
+- Bêguman bêserûberan (mesrefker) bira yên şeytan in, û şeytan ji Xwedayê xwe re nankor e. 17:27
+- Pere bi bêserûberî nexercînin. 17:29
+- Zarokên xwe ji tirsa xizaniyê nekuştin. 17:31
+- Nêzîkî zina nebin. Pîroziya zewacê biparêzin û dûrî zina bixin. 17:32
+- Dema ku hûn pîvandinê dikin, pîvanê tije bikin, û bi terazûya rast bikin. Ev çêtir e (sûdmendtir e) û di dawiyê de çêtir e. 17:35
+- (Mirovo!) Li pey tiştê ku tu jê nizanî, nekeve (mînak gotina: "Min dît", lê ew ne dîtiye, an jî "Min bihîst", lê ew nebihîstiye). 17:36
+- Dilnizm bin û quretî nekin. Li ser erdê bi quretî negerin. Bêguman tu nikarî erdê biqelêşî, û tu nikarî bigihîjî bilindahiya çiyan. 17:37
+- Xwedayê we we baş dizane; heke bixwaze, li we dilovan e, an jî heke bixwaze, we ceza dike. 17:54
+- Kî di vê dinyayê de kor be (wateyê ayetên Xwedê nebîne û bi Wî bawer neke), ewê di axretê de jî kor be, û ji rêya rast jî wêdetir be. 17:72
+- Nimêjên bi wextê xwe bikin. 17:78
+- Bêguman me di vê Qur'anê de ji bo mirovan her cure mînakên xistin, lê piraniya mirovan (rastiyê) red dikin û ji bilî kufrê tiştekî din qebûl nakin. 17:89
+- Me di vê Qur'anê de ji bona mirovan re her cure mînak anîn. Lê mirov ji her tiştî bêhtir devjen e. 18:54
+- Cezayê wan dojeh e; ji ber ku ew kafir bûne û ayetên min û Pêxemberên min bi tinaz û qerfê girtine. 18:106
+- Ne ji (rûmeta) Xwedê re ye ku Wî xwedî zarok be (ev îşaret e li ser buxtana filehan li dijî Xwedê, ku dibêjin Îsa kurê Xwedê ye). Pîrozî ji Wî re (û Wî ji tiştê ku ew şirîk dikin, bilindtir e). 19:35
+- Bi mirovan re bi nermî bipeyivin. 20:44
+- Di qenciyê de pêşbazî bikin. 21:90
+- Dûrî gotinên bêkêr bixin. 23:3
+- Navê xwe biparêzin. 23:5
+- Dilê xwe ji meyilên gunehkar biparêzin. 23:97
+- Ji kesên din re biborin û şaşîyên wan biborin. 24:22
+- Mahremiyeta kesên din rêz bikin, nemaze di mala wan de. Mafên cîranan bicîh bînin. 24:27
+- (Ji bo mêr û jinan) Çavên xwe nizm bikin. Navê xwe û namûsa xwe biparêzin. 24:30
+- Di cil û berg û tevgerê de navê xwe biparêzin. 24:31
+- Bizanin ku Xwedê ji bona yên ku Wî bi îbadetê tînin û karên qenc dikin, ewlehî û aramiyê dide. 24:55
+- Bê destûr nekevin odeya taybet ya dêûbavên xwe. 24:58
+- Dilnizm û nefsbiçûk bin. 25:63
+- Dûrî şahidiya derewîn û xapînokiyê bixin. 25:72
+- Ji bona xelata axretê hewl bidin, lê karên xwe yên dinyayê jî ji bîr nekin. 28:77
+- Ji Xwedê xwe ve tu îlahekî din nekin gazî. 28:88
+- Bikevin nav hevzayendîtiyê. 29:29
+- Di hemû hewildanên xwe de ji bona biserketinê hewl bidin. 29:69
+- Nimêj bikin û zekatê bidin. 31:4
+- Bi qenciyê ferman bikin û ji xirabiyê qedexe bikin. 31:17
+- Di tevgera xwe de quretî nekin. Wextê xwe bi gotinên bêkêr winda nekin. 31:18
+- Di rêçûn û dengê xwe de nerm bin. 31:19
+- Li pey mînaka Pêxember Muhemmed bikin. 33:21
+- Jin divê xeml û zêra xwe eşkere nekin û pesnê xwe nedin. 33:33
+- Di hemû rewşan de rastiyê bêjin. 33:70
+- Bi ramanê ve aqil û têgihiştinê bigerin. 38:29
+- Guhdarîyê fermanên Qur'anê bikin. 39:23
+- Xwedê hemû gunehan efû dike, dema ku gunehkar tobe bike û vegere ba Wî. 39:53
+- Ji Xwedê re duayê dilpakî bikin. 40:60
+- Xirabiyê bi tiştê çêtir ve bidin alî. 41:34
+- Kar bi şêwirandinê biryar bidin. 42:38
+- Dengê xwe ji dengê Pêxember bilind nekin. 49:2
+- Sirran biparêzin û dûrî xiyanetê bixin. 49:6
+- Di navbera yên ku di şer de ne de aştiyê pêk bînin. Di nakokiyan de li aştiyê bigerin. 49:9
+- Ji kesên din re heqaret nekin. 49:11
+- Dûrî gumanê bixin. Dûrî sîxurî û xeybê (paşbêjî) bixin. Xeyb û buxtana kesên din nekin. Dûrî hemû cureyên xeybê û buxtanê bixin. Bihêlin ku quretî we bibe sedema neheqiyê. 49:12
+- Bizanin ku tenê xwedîtirsî ye ku mirov dike rûmetdar. Cudahiyên di navbera mirovan û çandan de rêz bikin. 49:13
+- Mêvanan rêz bikin. 51:26
+- Balê bidin erkên xwe yên li hemberî Xwedê. 51:56
+- Malê xwe li xêratê bixercînin. 57:7
+- Bizanin ku di olê de rahîbî (berdana zewacê û rehetiyê, wek rahîb, rahîbe, an jî yên din ên ku di bin sozên olî de dijîn, an jî avahiyên ku tê de dijîn) tune ye. 57:27
+- Bila mal we ji bîrkirina Xwedê dûr nexe. 58:11
+- Yên ku zanîn heye, Xwedê wan bi pileyan bilind dike. 58:11
+- Bi misilmanên ne re qencî û dadperweriyê bikin. 60:8
+- Di bawerî û kirinên xwe de dûrî durûtiyê bixin. 63:9
+- Dûrî tima' û çelakîyê bixin. 64:16
+- Wehîyên ku hatine spartin we, biparêzin. 73:15
+- Roja qiyametê bînin bîra xwe. 75:36
+- Bi bîhnfirehî û dilovaniyê ferman bikin. 90:17
+- Yên ku nefsa xwe paqij dikin, biserkevin; û yên ku wê gemarî dikin, têk biçin. 91:10
+- Hewcedaran paşguh nekin û nekin dûr. 93:10
+- Zanîn û têgihiştinê bigerin. Qur'anê bixwînin û li ser bifikirin. 96:1–5
+- Ji bona xwarina xizanan teşwîq bikin. 107:3
 """;

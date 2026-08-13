@@ -3318,4 +3318,281 @@ Matching Phrases 8 words
 - Allah melapangkan rezeki bagi sesiapa yang Dia kehendaki di antara hamba-hamba-Nya dan menyempitkannya. (اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ) 28:82; 29:62
 - Dan kamu akan dikembalikan kepada (Allah) Yang Maha Mengetahui yang ghaib dan yang nyata, lalu Dia memberitakan kepadamu apa yang telah kamu kerjakan. (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
 - Dan orang-orang yang mempunyai hubungan darah, sebahagian mereka lebih utama (mendapat warisan) daripada sebahagian yang lain dalam Kitab Allah. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
+cmds - Commands, Exhortations, Prohibitions, Instructions
+- fard / wajib (فرض / واجب) — fardu / wajib (wajib dilakukan; dosa jika ditinggalkan)
+- mustahabb / mandub (مستحب / مندوب) — sunat / mustahab (digalakkan; diberi pahala jika dilakukan, tidak berdosa jika ditinggalkan)
+- mubah (مباح) — mubah / harus (neutral / dibenarkan; tiada pahala atau dosa)
+- makruh (مكروه) — makruh (tidak disukai / tidak digalakkan, tetapi tidak berdosa jika dilakukan)
+- haram (حرام) — haram (dosa jika dilakukan)
+- halal (حلال, halal / dibenarkan) — merangkumi kedua-dua mubah dan mustahabb — semua yang tidak haram
+- Sembahlah Allah semata-mata dan mohonlah pertolongan/bantuan-Nya. 1:5
+- Sembahlah Allah semata-mata. 2:21
+- Jangan mempersekutukan Allah dengan sesuatu apa pun. 2:22
+- Allah lah Yang Maha Pengampun (menerima taubat), Dia menerima taubat Adam (a.s.). 2:37
+- Jangan campur adukkan kebenaran dengan kebatilan dan jangan sembunyikan kebenaran. 2:42
+- Dirikanlah solat (solat fardu sehari-hari) dan tunaikanlah zakat. 2:43
+- Suruhlah orang lain berbuat baik setelah kamu sendiri mengamalkannya. 2:44
+- Mohonlah pertolongan Allah dalam semua urusan kamu. 2:45
+- Jangan terlibat dalam kerosakan dan jangan menyebarkannya. 2:60
+- Jangan halang orang daripada pergi ke tempat ibadah. 2:114
+- Hormatilah kesucian masjid. Jagalah tempat solat kamu bersih dan suci. 2:125
+- Ingatlah Allah (dengan solat, tasbih, dll.) dan Dia akan mengingati kamu, dan bersyukurlah kepada-Nya. 2:152
+- Bersabarlah dalam kesusahan. 2:153
+- Jangan ikut jejak langkah syaitan yang merupakan musuh yang nyata. 2:168
+- Jangan ikut sesiapa secara membabi buta. 2:170
+- Peliharalah dan tunaikanlah semua amanah. Tunaikanlah kewajipan agama kamu dengan ikhlas. Tunaikanlah sumpah dan janji kamu. Tepati janji, terutamanya janji kepada Allah. Bantulah mereka yang memerlukan dan ringankan kesusahan. Hindarilah dosa yang membawa kepada kehilangan kurnia Allah. Jangan biarkan kesombongan membawa kamu kepada kezaliman. 2:177
+- Dalam qisas (hukum balas yang setimpal) ada kehidupan untuk kamu. 2:179
+- Berpuasalah pada bulan Ramadan. Tunaikanlah puasa yang diwajibkan untuk menjadi orang yang bertakwa. 2:183
+- Hormatilah Al-Quran sebagai sumber petunjuk yang muktamad. 2:185
+- Jangan makan harta sesama kamu dengan cara yang batil, dan jangan beri rasuah kepada hakim (sebelum mengemukakan kes kamu). 2:188
+- Jangan menzalimi orang lain, sama ada dengan perkataan atau perbuatan. Jangan sekali-kali berperang sebagai penceroboh, tetapi hanya untuk mempertahankan diri. 2:190
+- Lindungilah anak yatim. Mengenai anak yatim, uruskanlah harta mereka dengan amanah dan jangan makan harta mereka. 2:220
+- Bertaubatlah dan mohon ampun daripada Allah. Jangan melakukan hubungan seksual semasa haid. Jagalah kebersihan (kedua-dua fizikal dan rohani). 2:222
+- Tunaikanlah tanggungjawab kamu terhadap keluarga. 2:233
+- Pilihlah pemimpin berdasarkan kelebihan mereka. 2:247
+- Tiada paksaan dalam agama. 2:256
+- Belanjakanlah harta untuk kebajikan. Jadilah dermawan dalam harta dan masa. 2:261
+- Jangan batalkan sedekah kamu dengan membangkit-bangkit dan menyakiti hati. 2:264
+- Syaitan mengancam kamu dengan kemiskinan dan menyuruh kamu melakukan perbuatan keji (perbuatan jahat, zina, dosa). 2:268
+- Carilah orang yang memerlukan dan bantulah mereka. 2:273
+- Jangan terlibat dalam riba. Jangan makan harta riba. Jangan makan riba. 2:275
+- Berilah tangguh kepada penghutang jika dia dalam kesempitan. 2:280
+- Tepatilah janji dalam urusan perniagaan. Jadilah jujur dalam urusan kewangan. Bertindaklah dengan integriti dalam semua komitmen. Apabila kamu berhutang untuk tempoh tertentu, tulislah. Ambillah saksi apabila kamu membuat kontrak perniagaan. 2:282
+- Peliharalah dan tunaikanlah semua amanah. 2:283
+- Berimanlah kepada Kitab-kitab yang diturunkan dan semua Nabi. 2:285
+- Allah tidak membebani seseorang melampaui kemampuannya. Dia mendapat pahala daripada kebaikan yang diusahakan dan mendapat azab daripada kejahatan yang diusahakan. Allah tidak membebani seseorang melampaui kemampuannya; kita juga tidak sepatutnya berbuat demikian. Bertawakallah kepada rancangan Allah walaupun dalam kesusahan. 2:286
+- Sesiapa yang menepati janji dan bertakwa kepada Allah, maka Allah mengasihi orang yang bertakwa. 3:76
+- Tunaikanlah ibadat haji jika kamu mampu. 3:97
+- Jangan berpecah-belah. 3:103
+- Suruhlah berbuat kebaikan dan cegahlah kemungkaran. Galakkanlah keadilan dalam masyarakat kamu. Serulah orang lain untuk mengingati Allah. 3:104
+- Orang yang beriman hendaklah bertawakal kepada Allah. 3:122
+- Jangan makan riba. 3:130
+- Taatilah Allah dan Rasul-Nya supaya kamu diberi rahmat. 3:132
+- Allah mengasihi orang yang membelanjakan (harta pada jalan Allah — sedekah, amal, dll.) dalam kesenangan dan kesusahan, orang yang menahan kemarahan, dan orang yang memaafkan kesalahan orang lain. 3:134
+- Tahanlah kemarahan. Kawal kemarahan kamu. 3:134
+- Maafkan dan ampunilah kesalahan orang lain. 3:135
+- Jangan bersikap kasar dalam percakapan. Bersabarlah dengan orang yang berbeza pendapat dengan kamu. 3:159
+- Jika Allah menolong kamu, tiada siapa yang dapat mengalahkan kamu; dan jika Dia meninggalkan kamu, siapa lagi yang dapat menolong kamu selepas Dia? 3:160
+- Setiap yang bernyawa akan merasai kematian. Dan hanya pada hari Kiamat sahaja kamu akan menerima balasan dengan sempurna. 3:185
+- Fikirkanlah dengan mendalam tentang keajaiban alam dan penciptaan alam semesta ini. Ketahuilah bahawa Allah mencipta alam semesta dengan makna dan tujuan. 3:191
+- Lelaki dan perempuan mendapat pahala yang sama atas amalan mereka. 3:195
+- Bagi orang yang bertakwa kepada Tuhan mereka, disediakan taman-taman (di Syurga) yang mengalir di bawahnya sungai-sungai; mereka kekal di dalamnya, sebagai hidangan daripada Allah. 3:198
+- Sentiasalah berusaha untuk mendapat keredhaan Allah dalam setiap perbuatan. 3:200
+- Bertakwalah kepada Tuhan kamu, takutilah Dia dan (jangan putuskan) hubungan silaturahim. 4:1
+- Berikanlah harta kepada anak yatim dan janganlah kamu menukar (yang baik) dengan yang buruk; dan jangan makan harta mereka (dengan mencampurkan) dengan harta kamu. 4:2
+- Berikanlah kepada isteri (yang kamu kahwini) mas kahwin mereka (mahar) dengan hati yang ikhlas. 4:4
+- Jagalah hak-hak anak yatim. 4:6
+- Harta orang yang meninggal hendaklah dibahagikan kepada ahli keluarganya. Wanita berhak mewarisi. 4:7
+- Jangan makan harta anak yatim secara zalim. 4:10
+- Patuhilah perintah-perintah mengenai pusaka. 4:11
+- Diharamkan mewarisi wanita secara paksa, dan janganlah kamu berlaku kasar terhadap mereka. Pergaulilah mereka (isteri) dengan cara yang baik. Hormatilah dan jagalah hak-hak wanita. Perlakukanlah isteri kamu dengan kebaikan dan belas kasihan. Perlakukanlah wanita dengan hormat dan keadilan. 4:19
+- Jangan kahwini orang yang mempunyai hubungan darah dengan kamu. 4:23
+- Jangan bunuh diri (atau saling membunuh). Sesungguhnya Allah Maha Penyayang kepada kamu. Jangan makan harta sesama kamu secara batil. 4:29
+- Jika kamu menjauhi dosa-dosa besar yang dilarang, nescaya Allah akan menghapuskan kesalahan-kesalahan (kecil) kamu dan memasukkan kamu ke tempat yang mulia (Syurga). 4:31
+- Janganlah iri hati terhadap apa yang Allah kurniakan kepada sebahagian kamu lebih daripada yang lain. Hindarilah hasad dengki. 4:32
+- Lelaki adalah pemimpin dan pelindung bagi wanita, kerana Allah telah melebihkan sebahagian mereka (lelaki) atas sebahagian yang lain (wanita), dan kerana mereka (lelaki) telah membelanjakan harta mereka (untuk menafkahi wanita). Lelaki adalah pelindung dan penyokong keluarga. 4:34
+- Sembahlah Allah dan jangan mempersekutukan-Nya dengan sesuatu apa pun, berbuat baiklah kepada ibu bapa, kaum kerabat, anak yatim, orang miskin, jiran tetangga, sahabat yang berada di sisi, musafir (yang kamu temui), dan hamba yang kamu miliki. Sesungguhnya Allah tidak suka orang yang sombong dan membanggakan diri. Berbuat baiklah kepada orang lain. Kasihanilah orang yang lemah. Peliharalah hubungan kekeluargaan dan hormatilah kaum kerabat. 4:36
+- Janganlah bakhil. 4:37
+- Allah tidak mengampunkan dosa mempersekutukan-Nya, tetapi Dia mengampunkan dosa selain daripada itu bagi sesiapa yang Dia kehendaki. 4:48
+- Janganlah hasad dengki kepada orang lain. 4:54
+- Allah menyuruh kamu menunaikan amanah kepada pemiliknya. Apabila kamu menghukum antara manusia, hendaklah kamu menghukum dengan adil. 4:58
+- Taatilah Allah dan taatilah Rasul-Nya. Hormatilah mereka yang berkuasa di kalangan kamu. 4:59
+- Jangan menzalimi orang yang lemah dan terdedah. 4:75
+- Apa sahaja kebaikan yang sampai kepada kamu, ia adalah daripada Allah; dan apa sahaja kejahatan yang menimpa kamu, ia adalah daripada diri kamu sendiri. 4:79
+- Sesiapa yang mentaati Rasul (Muhammad ﷺ), sesungguhnya dia telah mentaati Allah. 4:80
+- Sesiapa yang memberikan syafaat untuk kebaikan, nescaya dia mendapat bahagian pahalanya; dan sesiapa yang memberikan syafaat untuk kejahatan, nescaya dia mendapat bahagian dosanya. 4:85
+- Tidak layak bagi seorang mukmin membunuh mukmin yang lain, kecuali secara tersalah. 4:92
+- Sesiapa yang membunuh seorang mukmin dengan sengaja, balasannya ialah Neraka Jahanam, kekal di dalamnya. Allah murka kepadanya dan melaknatnya, serta menyediakan azab yang besar baginya. 4:93
+- Sesiapa yang berhijrah (dari rumahnya) di jalan Allah, nescaya dia akan mendapat di bumi ini banyak tempat perlindungan dan keluasan rezeki. 4:100
+- Jagalah solat kamu tepat pada waktunya. 4:103
+- Janganlah menyokong atau menjadi pembela bagi orang-orang yang mengkhianati amanah. 4:105
+- Mohonlah ampun daripada Allah, sesungguhnya Allah Maha Pengampun, Maha Penyayang. 4:106
+- Wahai orang yang beriman! Hendaklah kamu menjadi penegak keadilan, menjadi saksi kerana Allah, walaupun terhadap diri kamu sendiri, atau ibu bapa, atau kaum kerabat, sama ada kaya atau miskin. Janganlah melambat-lambatkan keadilan; bertindaklah segera untuk membetulkan kesalahan. 4:135
+- Orang-orang munafik hendak menipu Allah, tetapi Allah-lah yang menipu mereka. 4:142
+- Orang-orang munafik itu berada di tingkatan yang paling bawah sekali di dalam Neraka; dan kamu tidak akan mendapati seorang penolong pun bagi mereka. 4:145
+- Allah tidak suka perkataan keji diucapkan dengan nyaring, kecuali oleh orang yang dizalimi. 4:148
+- Rasul-rasul Kami utus sebagai pembawa berita gembira dan pemberi amaran, supaya manusia tidak mempunyai alasan terhadap Allah selepas kedatangan Rasul-rasul itu. 4:165
+- Tunaikanlah janji dan perjanjian kamu. 5:1
+- Tolong-menolonglah dalam perkara kebajikan dan takwa, dan jangan tolong-menolong dalam perkara dosa dan permusuhan. 5:2
+- Jangan makan bangkai, darah, dan daging babi. 5:3
+- Hendaklah kamu berlaku adil, jangan biarkan permusuhan dan kebencian terhadap sesuatu kaum itu mendorong kamu berlaku tidak adil. Berlakulah adil. Ketahuilah bahawa keadilan itu lebih dekat kepada takwa. Janganlah melambat-lambatkan keadilan; bertindaklah segera untuk membetulkan kesalahan. 5:8
+- Carilah jalan untuk mendekatkan diri kepada Allah, dan berjihadlah di jalan-Nya dengan bersungguh-sungguh. Mudah-mudahan kamu berjaya. 5:35
+- Tunaikanlah sumpah dan janji kamu. 5:89
+- Jauhilah arak dan perjudian. Jauhilah dengan tegas arak (semua minuman yang memabukkan), perjudian, berhala, dan mengundi nasib, yang semuanya adalah perbuatan keji daripada perbuatan syaitan. 5:90
+- Janganlah memburu binatang buruan ketika kamu sedang berihram untuk haji atau umrah. 5:95
+- Janganlah bertanya tentang perkara-perkara yang jika diterangkan kepada kamu, akan menyusahkan kamu. 5:101
+- Janganlah mencela tuhan-tuhan yang disembah oleh orang lain. Janganlah mencela apa yang mereka (orang kafir) sembah selain Allah, kerana mereka akan mencela Allah tanpa pengetahuan. 6:108
+- Jika kamu mentaati kebanyakan orang di muka bumi ini, nescaya mereka akan menyesatkan kamu dari jalan Allah. Mereka hanya mengikuti sangkaan dan mereka hanya berdusta. 6:116
+- Tinggalkanlah (wahai manusia) segala dosa, yang terang mahupun yang tersembunyi. 6:120
+- Janganlah kamu (wahai orang yang beriman) makan (daging binatang) yang tidak disebut nama Allah ketika menyembelihnya. 6:121
+- Sesiapa yang Allah kehendaki untuk diberi petunjuk, nescaya Dia melapangkan dadanya untuk menerima Islam; dan sesiapa yang Dia kehendaki untuk disesatkan, nescaya Dia menjadikan dadanya sempit dan sesak. 6:125
+- Bersederhanalah dalam perbelanjaan dan jauhilah pembaziran. Jagalah hak-hak semua makhluk. 6:141
+- Jangan mempersekutukan Allah dengan sesuatu apa pun, berbuat baiklah kepada ibu bapa, jangan bunuh anak-anak kamu kerana takut miskin, jangan dekati perbuatan keji, jangan bunuh jiwa yang diharamkan Allah melainkan dengan hak. 6:151
+- Hendaklah kamu berlaku jujur; jangan menipu dalam sebarang urusan. Jangan dekati harta anak yatim, kecuali untuk memperbaikinya, sempurnakanlah sukatan dan timbangan dengan adil, apabila kamu berkata, katakanlah yang benar walaupun terhadap kaum kerabat, dan tunaikanlah janji dengan Allah. 6:152
+- Ikutilah jalan yang lurus dan jangan ikuti jalan-jalan (yang lain), kerana jalan-jalan itu akan mencerai-beraikan kamu dari jalan-Nya. 6:153
+- Katakanlah (Muhammad ﷺ): "Sesungguhnya solatku, ibadatku, hidupku dan matiku hanyalah untuk Allah, Tuhan sekalian alam." 6:162
+- Janganlah sombong. 7:13
+- Janganlah syaitan memperdayakan kamu. 7:27
+- Katakanlah (Muhammad ﷺ): "Tuhanku menyuruh berlaku adil…" 7:29
+- Patuhilah batasan-batasan yang ditetapkan oleh Allah dalam segala hal. Hindarilah pelanggaran dalam percakapan dan perbuatan. Makan dan minumlah, tetapi jangan berlebihan. Pakailah pakaian yang cantik ketika solat. 7:31
+- Allah menciptakan langit dan bumi dalam enam masa, kemudian Dia bersemayam di atas Arasy (dengan cara yang layak bagi keagungan-Nya). 7:54
+- Berdoalah kepada Tuhan kamu dengan merendah diri dan secara sembunyi. Sesungguhnya Dia tidak suka kepada orang-orang yang melampaui batas. 7:55
+- Dan janganlah kamu membuat kerosakan di muka bumi sesudah ia diperbaiki, dan berdoalah kepada-Nya dengan perasaan takut dan harap. 7:56
+- Dan orang-orang yang mengerjakan kejahatan, kemudian bertaubat sesudah itu dan beriman, sesungguhnya Tuhan kamu sesudah itu Maha Pengampun, Maha Penyayang. 7:153
+- Katakanlah (Muhammad ﷺ): "Wahai manusia! Sesungguhnya aku adalah Rasul Allah kepada kamu semua…" 7:158
+- Dan (hanya) bagi Allah nama-nama yang terbaik (al-asma' al-husna), maka serulah Dia dengan nama-nama itu, dan tinggalkanlah orang-orang yang menyimpang dari kebenaran dalam (menyebut) nama-nama-Nya… 7:180
+- Sesiapa yang disesatkan oleh Allah, maka tiada seorang pun yang dapat memberinya petunjuk; dan Dia membiarkan mereka terumbang-ambing dalam kesesatan. 7:186
+- Jadilah pemaaf, suruhlah orang berbuat kebaikan, dan berpalinglah daripada orang-orang yang jahil (iaitu janganlah membalas kejahilan mereka). 7:199
+- Maafkanlah kesalahan orang lain. 7:199
+- Dan jika syaitan mengganggumu dengan suatu godaan, maka mohonlah perlindungan kepada Allah. Sesungguhnya Dia Maha Mendengar, Maha Mengetahui. 7:200
+- Sesungguhnya orang-orang yang beriman hanyalah mereka yang apabila disebut nama Allah, gemetar hati mereka, dan apabila dibacakan ayat-ayat-Nya, bertambahlah iman mereka… 8:2
+- Janganlah mengkhianati Allah dan Rasul-Nya, dan janganlah kamu mengkhianati amanat-amanat kamu (dan segala kewajipan yang Allah perintahkan kepada kamu) sedangkan kamu mengetahui. 8:27
+- Jika kamu bertakwa kepada Allah, nescaya Dia akan memberikan kepada kamu Furqan (pembeza antara yang benar dan yang batil, atau jalan keluar dari setiap kesulitan). 8:29
+- Orang-orang kafir membelanjakan harta mereka untuk menghalangi (manusia) dari jalan Allah, dan mereka akan terus membelanjakannya; tetapi akhirnya hal itu akan menjadi penyesalan bagi mereka. 8:36
+- Katakanlah kepada orang-orang kafir: jika mereka berhenti (dari kekafiran), nescaya dosa-dosa mereka yang lalu akan diampuni. Tetapi jika mereka kembali (kepada kekafiran), maka sesungguhnya telah berlaku (ketetapan Allah terhadap) umat-umat terdahulu (sebagai peringatan). 8:38
+- Jika kamu bertemu dengan (pasukan) musuh, maka berteguh hatilah dan sebutlah (nama) Allah sebanyak-banyaknya (dengan lidah dan hati), supaya kamu berjaya. 8:45
+- Janganlah kamu menjadi seperti orang-orang yang keluar dari rumah mereka dengan megah dan riak kepada manusia, serta menghalangi (manusia) dari jalan Allah. 8:47
+- Sesungguhnya Allah tidak mengubah apa yang ada pada sesuatu kaum sehingga mereka mengubah apa yang ada pada diri mereka sendiri. 8:53
+- Seburuk-buruk makhluk yang melata di sisi Allah ialah orang-orang yang kafir. 8:55
+- Allah menanamkan kasih sayang di antara hati orang-orang yang beriman kepada-Nya. 8:63
+- Lindungilah dan bantulah orang-orang yang meminta perlindungan. 9:6
+- Tidak layak bagi orang-orang musyrik memakmurkan masjid-masjid Allah. 9:17
+- Mereka (orang-orang kafir, Yahudi, dan Nasrani) hendak memadamkan cahaya Allah (yang dengannya Muhammad ﷺ diutus — tauhid) dengan mulut mereka, tetapi Allah tetap menyempurnakan cahaya-Nya, walaupun orang-orang kafir membencinya. 9:32
+- Sedekah (zakat) itu hanyalah untuk: 1) orang fakir, 2) orang miskin, 3) amil zakat, 4) orang yang dilunakkan hatinya (untuk cenderung kepada Islam), 5) untuk (memerdekakan) hamba, 6) untuk orang yang berhutang, 7) untuk jalan Allah (para mujahid), dan 8) untuk orang yang sedang dalam perjalanan. 9:60
+- Sesiapa yang menentang Allah dan Rasul-Nya (ﷺ), maka sesungguhnya baginya neraka Jahanam, kekal di dalamnya. Itulah kehinaan yang besar. 9:63
+- Orang-orang munafik, lelaki dan perempuan, setengahnya daripada setengah yang lain. Mereka lupa kepada Allah, maka Allah melupakan mereka. 9:67
+- Berusahalah ke arah kesucian. Hormatilah kesucian masjid. 9:108
+- Tidak patut (bagi Nabi dan orang-orang yang beriman) memohonkan ampun bagi orang-orang musyrik, sekalipun mereka kaum kerabat, setelah jelas bagi mereka bahawa mereka adalah penghuni neraka (kerana mereka mati dalam keadaan kafir). 9:113
+- Siapakah yang lebih zalim daripada orang yang mengada-adakan dusta terhadap Allah atau mendustakan ayat-ayat-Nya? Sesungguhnya orang-orang yang berdosa tidak akan berjaya! 10:17
+- Mereka menyembah selain Allah apa yang tidak dapat mendatangkan bahaya kepada mereka dan tidak (pula) memberi manfaat, dan mereka berkata: "Mereka itulah pemberi syafaat bagi kami di sisi Allah." Katakanlah: "Apakah kamu hendak memberitahu Allah tentang sesuatu yang tidak diketahui-Nya di langit dan di bumi?" Maha Suci Allah dan Maha Tinggi Dia daripada apa yang mereka sekutukan! 10:18
+- Balasan bagi suatu kejahatan ialah kejahatan yang sebanding. 10:27
+- Itulah Allah, Tuhan kamu yang sebenar. Maka apakah sesudah kebenaran selain kesesatan? Maka bagaimana kamu dipalingkan? 10:32
+- Kebanyakan mereka tidak mengikuti melainkan sangkaan. Sesungguhnya sangkaan itu tidak berfaedah sedikit pun terhadap kebenaran. 10:36
+- Sesungguhnya Allah tidak menzalimi manusia sedikit pun; tetapi manusia itulah yang menzalimi dirinya sendiri. 10:44
+- Ketahuilah bahawa kurnia Allah itu lebih baik daripada segala yang dapat dikumpulkan atau disimpan oleh manusia. 10:58
+- Janganlah kamu termasuk orang-orang yang mendustakan ayat-ayat Allah, kerana kamu akan termasuk orang-orang yang rugi. 10:95
+- Jika Allah menimpakan sesuatu bahaya kepadamu, maka tiada yang dapat menghilangkannya kecuali Dia; dan jika Dia menghendaki kebaikan kepadamu, maka tiada yang dapat menolak kurnia-Nya. Dia memberikan kurnia itu kepada sesiapa yang dikehendaki-Nya di antara hamba-hamba-Nya. 10:107
+- Tiada suatu makhluk bergerak di bumi melainkan rezekinya ditanggung oleh Allah. Dan Dia mengetahui tempat kediamannya dan tempat penyimpanannya (di dalam rahim, kubur, dll.). 11:6
+- Dan jika Kami merasakan kepada manusia sesuatu rahmat daripada Kami, kemudian Kami menarik balik rahmat itu daripadanya, sesungguhnya dia menjadi berputus asa lagi tidak bersyukur. 11:9
+- Sesiapa yang menghendaki kehidupan dunia dan perhiasannya, nescaya Kami berikan kepada mereka balasan amal mereka di dunia dengan sempurna, dan mereka tidak akan dirugikan sedikit pun di dalamnya. 11:15
+- Kami tidak menzalimi mereka, tetapi merekalah yang menzalimi diri mereka sendiri. Maka tidak berguna sedikit pun bagi mereka tuhan-tuhan yang mereka sembah selain Allah, ketika datang ketetapan Tuhanmu, dan mereka tidak menambah (bagi mereka) melainkan kebinasaan. 11:101
+- Pada hari datangnya (azab) itu, tiada seorang pun yang berbicara melainkan dengan izin-Nya (Allah). Maka sebahagian daripada mereka adalah celaka dan sebahagian lagi berbahagia. 11:105
+- Adapun orang-orang yang celaka, maka (tempat) mereka di dalam Neraka, di dalamnya mereka mengeluarkan suara yang keras dan terengah-engah. 11:106
+- Mereka kekal di dalamnya selama ada langit dan bumi, kecuali jika Tuhanmu menghendaki (yang lain). Sesungguhnya Tuhanmu Maha Melaksanakan apa yang Dia kehendaki. 11:107
+- Dan adapun orang-orang yang berbahagia, maka (tempat) mereka di dalam Syurga, mereka kekal di dalamnya selama ada langit dan bumi, kecuali jika Tuhanmu menghendaki (yang lain), sebagai kurnia yang tiada putus-putusnya. 11:108
+- Maka janganlah kamu cenderung kepada orang-orang yang zalim, nanti kamu akan disentuh api Neraka, dan kamu tidak mempunyai pelindung selain Allah, kemudian kamu tidak akan ditolong. 11:113
+- Dirikanlah solat pada dua hujung siang dan pada bahagian-bahagian awal malam (iaitu solat lima waktu). Sesungguhnya perbuatan-perbuatan yang baik itu menghapuskan (dosa) perbuatan-perbuatan yang buruk. 11:114
+- Dan kepunyaan Allah-lah segala yang ghaib di langit dan di bumi, dan hanya kepada-Nya-lah dikembalikan segala urusan (untuk diputuskan). 11:123
+- Perintah (atau ketetapan) hanyalah milik Allah. Dia memerintahkan supaya kamu tidak menyembah melainkan Dia (tauhid), itulah agama yang lurus, tetapi kebanyakan manusia tidak mengetahui. 12:40
+- Janganlah kamu berputus asa daripada rahmat Allah. 12:87
+- Dan kebanyakan manusia tidak akan beriman, walaupun kamu sangat menginginkannya. 12:103
+- Dan kebanyakan mereka tidak beriman kepada Allah, melainkan mereka mempersekutukan-Nya (iaitu mereka adalah orang musyrik). 12:106
+- Al-Quran ini bukanlah perkataan yang dibuat-buat, tetapi membenarkan kitab-kitab yang sebelumnya (Taurat, Injil, dan kitab-kitab Allah yang lain) dan menjelaskan segala sesuatu secara terperinci, serta menjadi petunjuk dan rahmat bagi orang-orang yang beriman. 12:111
+- Allah melapangkan rezeki bagi sesiapa yang dikehendaki-Nya dan menyempitkan (bagi sesiapa yang dikehendaki-Nya). 13:26
+- Ingatlah Allah sebanyak-banyaknya melalui zikir. Orang-orang yang beriman kepada Allah, hati mereka menjadi tenteram dengan mengingati-Nya. 13:28
+- Orang-orang yang beriman dan beramal soleh, bagi mereka kebahagiaan dan tempat kembali yang baik. 13:29
+- Orang-orang yang lebih mengutamakan kehidupan dunia daripada kehidupan akhirat, dan menghalangi (manusia) dari jalan Allah (Islam), serta menginginkan (jalan itu) bengkok — mereka itu berada dalam kesesatan yang jauh. 14:3
+- Laksanakanlah ibadah dengan rendah hati dan penuh kesyukuran. 14:7
+- Perumpamaan orang-orang yang kafir kepada Tuhan mereka, amalan-amalan mereka adalah seperti abu yang ditiup angin dengan keras pada hari yang berangin kencang; mereka tidak dapat memperoleh apa-apa daripada apa yang telah mereka usahakan. 14:18
+- Allah akan meneguhkan orang-orang yang beriman dengan ucapan yang teguh dalam kehidupan di dunia (iaitu mereka akan terus beribadah kepada Allah semata-mata) dan di akhirat. 14:27
+- Janganlah sekali-kali kamu menyangka bahawa Allah lalai terhadap apa yang diperbuat oleh orang-orang yang zalim (musyrik, penganiaya, dll.), tetapi Dia memberi tangguh kepada mereka sampai kepada hari yang pada waktu itu mata (mereka) terbeliak. 14:42
+- Agar Allah membalas setiap orang menurut apa yang telah diusahakannya. Sesungguhnya Allah Maha Cepat perhitungan-Nya. 14:51
+- Dan sesungguhnya Kami telah menciptakan manusia daripada tanah liat kering (yang berasal) daripada lumpur hitam yang diberi bentuk. 15:26
+- Dan jin Kami ciptakan sebelum itu daripada api yang sangat panas. 15:27
+- Neraka itu mempunyai tujuh pintu; setiap pintu (disediakan) untuk golongan tertentu daripada mereka (orang-orang berdosa). 15:44
+- Dia menciptakan manusia daripada setitis mani (campuran air mani lelaki dan perempuan), tiba-tiba ia (manusia) menjadi pembantah yang terang-terangan. 16:4
+- Dan binatang ternak, Dia ciptakan untuk kamu; padanya ada kehangatan (pakaian hangat) dan berbagai-bagai manfaat, dan sebahagian daripadanya kamu makan. 16:5
+- Dan (Dia menciptakan) kuda, baghal dan keldai, untuk kamu tunggangi dan sebagai perhiasan. Dan Dia menciptakan (benda-benda) lain yang tidak kamu ketahui. 16:8
+- Dialah yang menurunkan air (hujan) dari langit; sebahagian daripadanya kamu minum dan sebahagian daripadanya (tumbuh) tumbuh-tumbuhan, yang padanya kamu menggembalakan ternak. 16:10
+- Dialah yang menundukkan lautan (untuk kamu), supaya kamu dapat memakan daripadanya daging yang segar (ikan), dan mengeluarkan daripadanya perhiasan yang kamu pakai. 16:14
+- Dan Dia menegakkan gunung-ganang di bumi supaya bumi itu tidak bergoncang bersama kamu, dan (Dia menciptakan) sungai-sungai dan jalan-jalan, supaya kamu mendapat petunjuk. 16:15
+- Maka adakah (Allah) yang menciptakan itu sama dengan yang tidak menciptakan (sembahan kamu)? Maka mengapa kamu tidak mengambil pelajaran? 16:17
+- Jika kamu menghitung nikmat Allah, nescaya kamu tidak dapat menghitungnya. 16:18
+- Dan Allah mengetahui apa yang kamu rahsiakan dan apa yang kamu lahirkan. 16:19
+- Dan berhala-berhala yang mereka (orang musyrik) seru selain Allah, tidak dapat menciptakan sesuatu apa pun, bahkan mereka sendiri diciptakan. 16:20
+- (Mereka) benda mati, tidak hidup, dan mereka tidak mengetahui bila akan dibangkitkan. 16:21
+- Perkataan Kami terhadap sesuatu apabila Kami menghendakinya, hanyalah Kami katakan kepadanya: "Jadilah!" Maka jadilah ia. 16:40
+- Maka adakah orang-orang yang membuat tipu daya (kejahatan) itu merasa aman daripada (azab) Allah yang akan membenamkan mereka ke dalam bumi, atau (bahawa) azab itu tidak akan menimpa mereka dari arah yang tidak mereka sedari? 16:45
+- Dan apa sahaja nikmat dan kebaikan yang kamu miliki, maka semuanya daripada Allah. Kemudian apabila kamu ditimpa kesusahan, maka kepada-Nyalah kamu meminta pertolongan. 16:53
+- Kemudian apabila Dia telah menghilangkan kesusahan daripada kamu, tiba-tiba sebahagian daripada kamu mempersekutukan Tuhan mereka (Allah). 16:54
+- Dan sesungguhnya pada binatang ternak itu terdapat pelajaran bagi kamu. Kami memberi kamu minum daripada apa yang ada dalam perutnya, antara kotoran dan darah, (iaitu) susu yang murni, yang menyegarkan bagi orang yang meminumnya. 16:66
+- Maka janganlah kamu membuat perumpamaan-perumpamaan bagi Allah (kerana tiada sesuatu pun yang serupa dengan Dia, dan Dia tidak serupa dengan sesuatu pun). Sesungguhnya Allah mengetahui, sedangkan kamu tidak mengetahui. 16:74
+- Ketahuilah bahawa Allah telah memberikan kepada manusia pendengaran, penglihatan, akal, dan perasaan, supaya mereka bersyukur. 16:78
+- Hindarilah ketamakan dan kedekut. 16:97
+- Apabila kamu hendak membaca Al-Quran, maka mohonlah perlindungan kepada Allah daripada syaitan yang terkutuk. 16:98
+- Ketahuilah bahawa kesalahan yang dilakukan kerana kejahilan, maka sesungguhnya diampuni apabila orang itu bertaubat dan memperbaiki diri. 16:119
+- Serulah (Muhammad ﷺ) kepada jalan Tuhanmu (Islam) dengan hikmah dan pengajaran yang baik, dan berbahaslah dengan mereka dengan cara yang lebih baik. Sesungguhnya Tuhanmu Dialah yang lebih mengetahui tentang sesiapa yang tersesat dari jalan-Nya dan Dialah yang lebih mengetahui orang-orang yang mendapat petunjuk. 16:125
+- Sesungguhnya Allah bersama orang-orang yang bertakwa dan orang-orang yang berbuat kebaikan. 16:128
+- Al-Quran ini menunjukkan ke jalan yang paling lurus. 17:9
+- Tiada seorang pun yang akan memikul dosa orang lain. 17:15
+- Sesiapa yang menghendaki kehidupan akhirat dan berusaha untuk itu dengan bersungguh-sungguh, sedangkan dia adalah mukmin, maka mereka itulah orang-orang yang usahanya diterima dan diberi pahala (oleh Allah). 17:19
+- Hormatilah kedua ibu bapa kamu dan perlakukanlah mereka dengan baik. Berbaktilah kepada ibu bapa. Janganlah engkau mengucapkan kepada mereka perkataan "ah" dan janganlah membentak mereka, tetapi ucapkanlah kepada mereka perkataan yang mulia. 17:23
+- Dan rendahkanlah dirimu terhadap mereka berdua dengan penuh kasih sayang, dan ucapkanlah: "Wahai Tuhanku, sayangilah mereka kedua-duanya, sebagaimana mereka berdua telah mendidik aku pada waktu kecil." 17:24
+- Sesungguhnya orang-orang yang membazir itu adalah saudara-saudara syaitan, dan syaitan itu sangat ingkar kepada Tuhannya. 17:27
+- Janganlah kamu membazirkan harta secara boros. 17:29
+- Dan janganlah kamu membunuh anak-anak kamu kerana takut kemiskinan. 17:31
+- Janganlah kamu mendekati zina. Jagalah kesucian perkahwinan dan jauhilah zina. 17:32
+- Dan sempurnakanlah sukatan apabila kamu menakar, dan timbanglah dengan timbangan yang benar. Itulah yang lebih utama (bagi kamu) dan lebih baik akibatnya. 17:35
+- Dan janganlah kamu mengikuti apa yang kamu tidak mempunyai pengetahuan mengenainya (misalnya mengatakan: "Aku melihat," padahal tidak melihat, atau "Aku mendengar," padahal tidak mendengar). 17:36
+- Dan janganlah kamu berjalan di muka bumi dengan sombong. Sesungguhnya kamu tidak akan dapat menembusi bumi dan tidak akan dapat mencapai setinggi gunung. 17:37
+- Tuhan kamu lebih mengetahui tentang kamu; jika Dia menghendaki, nescaya Dia memberi rahmat kepadamu, dan jika Dia menghendaki, nescaya Dia mengazabmu. 17:54
+- Dan sesiapa yang buta (hatinya) di dunia ini, maka dia akan buta (pula) di akhirat, dan lebih sesat lagi jalannya. 17:72
+- Jagalah solat pada waktu-waktu yang telah ditentukan. 17:78
+- Dan sesungguhnya telah Kami jelaskan berulang-ulang kepada manusia dalam Al-Quran ini bermacam-macam perumpamaan, tetapi kebanyakan manusia tidak mahu menerima (kebenaran), kecuali (dengan) kekafiran. 17:89
+- Dan sesungguhnya telah Kami kemukakan dalam Al-Quran ini segala macam perumpamaan bagi manusia. Dan manusia adalah makhluk yang paling banyak membantah. 18:54
+- Itulah balasan mereka, (iaitu) Neraka Jahanam, kerana kekafiran mereka dan kerana mereka menjadikan ayat-ayat-Ku dan rasul-rasul-Ku sebagai ejekan dan bahan tertawaan. 18:106
+- Tidak layak bagi Allah mempunyai anak (ini merujuk kepada tuduhan orang Nasrani terhadap Allah, bahawa Isa adalah anak Allah). Maha Suci Allah (dan Maha Tinggi daripada apa yang mereka sekutukan). 19:35
+- Dan berkatalah kepada manusia dengan perkataan yang baik (lemah lembut). 20:44
+- Dan berlumba-lumbalah kamu dalam (mengerjakan) kebaikan. 21:90
+- Dan orang-orang yang menjauhkan diri daripada (perbuatan dan perkataan) yang tidak berguna. 23:3
+- Dan orang-orang yang menjaga kemaluannya. 23:5
+- Jagalah hati kamu daripada kecenderungan yang berdosa. 23:97
+- Dan hendaklah mereka memaafkan dan berlapang dada terhadap (kesalahan) orang lain. 24:22
+- Hormatilah privasi orang lain, terutamanya di rumah mereka. Tunaikanlah hak-hak jiran tetangga. 24:27
+- Katakanlah kepada orang lelaki yang beriman, hendaklah mereka menundukkan pandangan mereka, dan memelihara kemaluan mereka; dan katakanlah kepada wanita yang beriman, hendaklah mereka menundukkan pandangan mereka, dan memelihara kemaluan mereka. 24:30
+- Jagalah kesopanan dalam berpakaian dan bertingkah laku. 24:31
+- Ketahuilah bahawa Allah memberikan keamanan dan ketenteraman kepada orang-orang yang beribadah kepada-Nya dan berbuat kebajikan. 24:55
+- Janganlah kamu masuk ke bilik ibu bapa kamu tanpa meminta izin. 24:58
+- Dan janganlah berjalan di muka bumi dengan sombong. 25:63
+- Dan orang-orang yang tidak memberikan kesaksian palsu. 25:72
+- Berusahalah untuk meraih pahala di akhirat, tetapi janganlah melalaikan bahagian kamu di dunia. 28:77
+- Jangan menyembah tuhan yang lain selain Allah. 28:88
+- Jangan melakukan perbuatan homoseksual. 29:29
+- Berusahalah dengan bersungguh-sungguh untuk mencapai kecemerlangan dalam segala hal. 29:69
+- Dirikanlah solat dan tunaikanlah zakat. 31:4
+- Dan suruhlah (manusia) berbuat yang makruf dan cegahlah daripada yang mungkar. 31:17
+- Dan janganlah kamu memalingkan muka daripada manusia (kerana sombong) dan janganlah berjalan di muka bumi dengan angkuh. 31:18
+- Dan sederhanalah dalam berjalan dan lunakkanlah suaramu. 31:19
+- Teladanilah Rasulullah Muhammad ﷺ. 33:21
+- Dan hendaklah kamu tetap di rumah kamu dan janganlah kamu berhias dan bertingkah laku seperti orang-orang Jahiliah dahulu. 33:33
+- Dan bertakwalah kepada Allah. Sesungguhnya Allah Maha Menyaksikan segala sesuatu. 33:33
+- Dan ucapkanlah perkataan yang benar. 33:70
+- Carilah hikmah dan pemahaman melalui perenungan. 38:29
+- Ikutilah ajaran-ajaran Al-Quran. 39:23
+- Sesungguhnya Allah mengampuni dosa-dosa semuanya. Sesungguhnya Dia-lah Yang Maha Pengampun lagi Maha Penyayang. 39:53
+- Berdoalah kepada Allah dengan khusyuk. 40:60
+- Tolaklah (kejahatan) dengan cara yang lebih baik. 41:34
+- Dan urusan mereka (diputuskan) dengan musyawarah di antara mereka. 42:38
+- Janganlah kamu mengangkat suara kamu lebih tinggi daripada suara Nabi. 49:2
+- Jagalah rahsia dan jauhilah pengkhianatan. 49:6
+- Dan jika ada dua golongan orang-orang mukmin berperang, maka damaikanlah antara kedua-duanya. Dan bertakwalah kepada Allah agar kamu diberi rahmat. 49:9
+- Janganlah suatu kaum mengolok-olok kaum yang lain. 49:11
+- Jauhilah kebanyakan daripada prasangka, sesungguhnya sebahagian prasangka itu adalah dosa, dan janganlah kamu saling mencari-cari kesalahan orang lain dan janganlah menggunjingkan sebahagian kamu terhadap sebahagian yang lain. 49:12
+- Sesungguhnya orang yang paling mulia di antara kamu di sisi Allah ialah orang yang paling bertakwa. Hormatilah perbezaan antara manusia dan budaya. 49:13
+- Dan muliakanlah tetamu. 51:26
+- Dan bertakwalah kepada Allah. 51:56
+- Dan nafkahkanlah sebahagian daripada rezeki yang telah Kami berikan kepada kamu. 57:7
+- Ketahuilah bahawa tiada rahib dalam Islam (tidak ada larangan berkahwin dan meninggalkan kesenangan dunia seperti rahib, biarawati, atau orang yang hidup di bawah sumpah agama). 57:27
+- Janganlah harta dan anak-anak kamu melalaikan kamu daripada mengingati Allah. 58:11
+- Allah akan meninggikan orang-orang yang beriman di antara kamu dan orang-orang yang diberi ilmu pengetahuan beberapa darjat. 58:11
+- Dan Allah tidak melarang kamu berbuat baik dan berlaku adil terhadap orang-orang yang tidak memerangi kamu kerana agama dan tidak mengusir kamu dari negeri kamu. Sesungguhnya Allah menyukai orang-orang yang berlaku adil. 60:8
+- Jauhilah sifat munafik dalam keyakinan dan perbuatan kamu. 63:9
+- Jauhilah ketamakan dan kedekut. 64:16
+- Peliharalah wahyu yang telah diturunkan kepadamu. 73:15
+- Dan bertakwalah kamu kepada Allah. 75:36
+- Dan bertakwalah kepada Allah. 90:17
+- Sesungguhnya berjayalah orang yang menyucikan jiwa itu. 91:10
+- Janganlah engkau menghardik orang yang meminta-minta. 93:10
+- Carilah ilmu dan pemahaman. Bacalah Al-Quran dan renungkanlah. 96:1–5
+- Dan mendorong (orang lain) untuk memberi makan orang miskin. 107:3
 """;

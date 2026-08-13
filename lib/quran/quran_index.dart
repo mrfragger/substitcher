@@ -4286,8 +4286,7 @@ cmds - Commands, Exhortations, Prohibitions, Instructions
 - This Qur'an guides to that which is most just and right. 17:9
 - No one can bear another person's sins 17:15
 - Whoever desires the Hereafter and strives for it, with the necessary effort due for it while he is a believer, then such are the ones whose striving shall be appreciated, thanked and rewarded (by Allah). 17:19
-- And your Lord has decreed that you worship none but Him. And that you be dutiful to your parents. If one of them or both of them attain old age in your life, say not to them a word of disrespect, nor shout at them but address them in terms of honour. 17:23
-- Honor your parents and treat them with kindness. Be dutiful to parents. Do not say a word of disrespect to parents. 17:23
+- Honor your parents and treat them with kindness. Be dutiful to parents. Do not say a word of disrespect to parents. And your Lord has decreed that you worship none but Him. And that you be dutiful to your parents. If one of them or both of them attain old age in your life, say not to them a word of disrespect, nor shout at them but address them in terms of honour. 17:23
 - And lower unto them the wing of submission and humility through mercy, and say: "My Lord! Bestow on them Your Mercy as they did bring me up when I was small." 17:24
 - Verily, spendthrifts are brothers of the Shayatin (devils), and the Shaitan (Devil – Satan) is ever ungrateful to his Lord. 17:27
 - Do not spend money extravagantly 17:29
@@ -4309,10 +4308,9 @@ cmds - Commands, Exhortations, Prohibitions, Instructions
 - Guard your modesty 23:5
 - Guard your heart against sinful inclinations 23:97
 - Forgive others and pardon their faults 24:22
-- Respect other people's privacy, especially in their own homes 24:27
-- Fulfill the rights of neighbors 24:27
-- Lower your gaze (for both men and women) 24:30
-- Guard your modesty and chastity. Observe modesty in dress and behavior 24:30–31
+- Respect other people's privacy, especially in their own homes. Fulfill the rights of neighbors 24:27
+- Lower your gaze (for both men and women). Guard your modesty and chastity. 24:30
+- Observe modesty in dress and behavior 24:31
 - Know that God provides security and peace to those who worship Him and act virtuously 24:55
 - Do not enter parents' private room without asking permission 24:58
 - Be modest and humble 25:63
@@ -4342,8 +4340,8 @@ cmds - Commands, Exhortations, Prohibitions, Instructions
 - Know that it is only righteousness that makes a person noble. Respect the differences among people and cultures 49:13
 - Honor guests 51:26
 - Be mindful of your duties toward Allah 51:56
-- Know that there should be no monasticism (abandoned marriage and comforts such as monks, nuns, or others living under religious vows, or the buildings in which they live) in religion 57:27
 - Spend wealth in charity 57:7
+- Know that there should be no monasticism (abandoned marriage and comforts such as monks, nuns, or others living under religious vows, or the buildings in which they live) in religion 57:27
 - Do not let wealth distract you from Allah's remembrance 58:11
 - Those who have knowledge will be given a higher rank by God 58:11
 - Treat non-Muslims in a kind and fair manner 60:8
@@ -4354,8 +4352,7 @@ cmds - Commands, Exhortations, Prohibitions, Instructions
 - Enjoin patience and compassion 90:17
 - Those who purify their souls succeed, and those who corrupt their souls fail 91:10
 - Do not ignore or push away the needy 93:10
-- Seek knowledge and understanding 96:1
-- Read and reflect upon the Quran 96:1–5
+- Seek knowledge and understanding. Read and reflect upon the Quran 96:1–5
 - Encourage feeding of the poor 107:3
 - sources: islamtees.uk by Abu Yahya Imran Rafiq article entitled A List of (Some) Instructions, Exhortations, Commands and Prohibitions in the Qur’an, beingmuslimah.org, messageinternational.org
 """;

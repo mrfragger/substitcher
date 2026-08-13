@@ -3317,4 +3317,279 @@ Matching Phrases 8 words
 - Jumala antaa runsaan osuuden kenelle tahtoo palvelijoistaan ja mittaa sen. (اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ) 28:82; 29:62
 - Ja teidät palautetaan Hänen luokseen, joka tietää näkymättömän ja näkyvän, ja Hän kertoo teille, mitä teitte. (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
 - Ja verisukulaiset ovat läheisimpiä toisilleen Jumalan kirjassa. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
+cmds - Commands, Exhortations, Prohibitions, Instructions
+- fard / wajib (فرض / واجب) — pakollinen (on tehtävä; synti jättää tekemättä)
+- mustahabb / mandub (مستحب / مندوب) — suositeltava (palkitaan, jos tekee; ei syntiä, jos jättää)
+- mubah (مباح) — neutraali / sallittu (ei palkkiota eikä syntiä)
+- makruh (مكروه) — paheksuttava (ei suositella, mutta ei syntiä, jos tekee)
+- haram (حرام) — kielletty (synti tehdä)
+- halal (حلال, sallittu / laillinen) — kattaa sekä mubahin että mustahabbin — kaikki, mikä ei ole kiellettyä
+- Palvokaa vain Jumalaa (Allahia) ja pyytäkää Hänen apuaan/tukeaan. 1:5
+- Palvokaa vain Jumalaa. 2:21
+- Älkää asettako Jumalalle kumppaneita. 2:22
+- Jumala on se, joka antaa anteeksi (hyväksyy katumuksen), Hän hyväksyi Aadamin (rauha hänelle) katumuksen. 2:37
+- Älkää sekoittako totuutta valheeseen älkääkä peitelkö totuutta. 2:42
+- Suorittakaa rukoukset (päivittäiset rukoukset) ja antakaa zakât (hyväntekeväisyys). 2:43
+- Kehottakaa muita hyvään vasta, kun itse harjoitatte sitä. 2:44
+- Pyytäkää Jumalan apua kaikissa asioissanne. 2:45
+- Älkää osallistuko turmeltuneisuuteen älkääkä levittäkö sitä. 2:60
+- Älkää estäkö ihmisiä menemästä palvontapaikkoihin. 2:114
+- Kunnioittakaa moskeijan pyhyyttä. Pitäkää rukouspaikkanne puhtaina ja puhtaina. 2:125
+- Muistakaa Jumala (rukoilemalla, ylistämällä jne.) ja Hän muistaa teidät, ja olkaa Hänelle kiitollisia. 2:152
+- Harjoittakaa kärsivällisyyttä vastoinkäymisissä. 2:153
+- Älkää seuratko Saatanan askeleita, joka on avoin vihollinen. 2:168
+- Älkää seuratko ketään sokeasti. 2:170
+- Pitäkää ja täyttäkää kaikki uskotut tehtävät. Suorittakaa uskonnolliset velvollisuutenne vilpittömästi. Täyttäkää valanne ja liittonne. Pitäkää lupaukset, erityisesti ne, jotka olette tehneet Jumalalle. Tukekaa apua tarvitsevia ja helpottakaa vaikeuksia. Välttäkää syntejä, jotka johtavat jumalallisen suosion menettämiseen. Älkää antako ylpeyden johtaa teitä vääryyteen. 2:177
+- Kisaassa (rangaistuksen tasa-arvolaki) on teille (hengen) pelastus. 2:179
+- Paastotkaa ramadan-kuussa. Noudattakaa säädettyä paastoa tullaksenne hurskaiksi (muttaqun). 2:183
+- Kunnioittakaa Koraania lopullisena ohjauksen lähteenä. 2:185
+- Älkää syykö toistenne omaisuutta väärin älkääkä antako lahjuksia tuomareille (ennen kuin esitätte asianne). 2:188
+- Älkää sortako muita, sanalla tai teolla. Älkää koskaan taistelko hyökkääjinä, vaan ainoastaan puolustuksessa. 2:190
+- Suojelkaa orpoja. Mitä tulee orpoihin, toimikaa rehellisesti heidän omaisuutensa kanssa älkääkä syykö heidän omaisuuttaan. 2:220
+- Katukaa ja pyytäkää Jumalalta anteeksiantoa. Älkää harrastako sukupuoliyhteyttä kuukautisten aikana. Pitäkää puhtaus (sekä fyysisesti että henkisesti). 2:222
+- Täyttäkää velvollisuutenne perhettänne kohtaan. 2:233
+- Valitkaa johtajat heidän ansioidensa perusteella. 2:247
+- Uskonnossa ei ole pakkoa. 2:256
+- Käyttäkää varallisuuttanne hyväntekeväisyyteen. Olkaa anteliaita sekä varallisuudella että ajalla. 2:261
+- Älkää mitätöikö hyväntekeväisyyttänne kerskumalla anteliaisuudellanne. 2:264
+- Saatana uhkaa teitä köyhyydellä ja käskee teitä tekemään siveettömyyksiä (pahoja tekoja, laitonta sukupuoliyhteyttä, syntejä). 2:268
+- Etsikää apua tarvitsevat ja auttakaa heitä. 2:273
+- Älkää sekaantuko koronkiskontaan. Älkää nauttiko korkoa tuottavaa omaisuutta. Älkää syökö ribaa (korkoa). 2:275
+- Antakaa velalliselle enemmän aikaa maksaa, jos hän on vaikeuksissa. 2:280
+- Pitäkää sananne liiketoimissa. Olkaa totuudenmukaisia taloudellisissa asioissanne. Toimikaa rehellisesti kaikissa sitoumuksissanne. Kun teet velkasopimuksen määräajaksi, kirjoita se ylös. Ottakaa todistajia aina kun teette kaupallisen sopimuksen. 2:282
+- Pitäkää ja täyttäkää kaikki uskotut tehtävät. 2:283
+- Uskokaa lähetettyihin Kirjoihin ja kaikkiin Profeettoihin. 2:285
+- Jumala ei velvoita ketään yli tämän kykyjen. Hän saa palkinnon hyvästä, minkä on ansainnut, ja rangaistuksen pahasta, minkä on ansainnut. Jumala ei rasita ihmistä yli tämän kykyjen; meidänkään ei pidä tehdä niin. Luottakaa Jumalan suunnitelmaan myös vaikeuksissa. 2:286
+- Joka täyttää liittonsa ja pelkää Jumalaa, Jumala rakastaa hurskaita. 3:76
+- Suorittakaa pyhiinvaellus (hadž), jos siihen pystytte. 3:97
+- Älkää jakautuko. 3:103
+- Käskekää hyvää ja kieltäkää paha. Kannustakaa vanhurskauteen yhteisössänne. Kutsukaa muita muistamaan Jumalaa. 3:104
+- Uskovien tulee luottaa Jumalaan. 3:122
+- Älkää syökö ribaa (korkoa). 3:130
+- Totelkaa Jumalaa ja Hänen lähettilästään saadaksenne armoa. 3:132
+- Jumala rakastaa niitä, jotka kuluttavat (Jumalan asialla – hyväntekeväisyys, almut jne.) menestyksessä ja vastoinkäymisissä, jotka hillitsevät vihaansa ja jotka antavat anteeksi ihmisille. 3:134
+- Hillitkää vihanne. Hallitkaa vihanne. 3:134
+- Antakaa anteeksi ja suokaa anteeksi muiden virheet. 3:135
+- Älkää olko karkeita puheissanne. Olkaa kärsivällisiä niitä kohtaan, jotka ovat eri mieltä kanssanne. 3:159
+- Jos Jumala auttaa teitä, kukaan ei voi voittaa teitä; ja jos Hän hylkää teidät, kuka sitten Hänen jälkeensä voi auttaa teitä? 3:160
+- Jokainen saa maistaa kuolemaa. Ja vain ylösnousemuksen päivänä saatte täyden palkkanne. 3:185
+- Ajatelkaa syvällisesti luonnon ihmeitä ja tämän maailmankaikkeuden luomista. Tietäkää, että Jumala loi maailmankaikkeuden tarkoituksella ja päämäärällä. 3:191
+- Miehet ja naiset saavat yhtäläisen palkinnon teoistaan. 3:195
+- Niille, jotka pelkäävät Herraansa, on puutarhat (Paratiisissa), joiden alla virtaavat joet; siellä he saavat asua ikuisesti, Jumalan vieraanvaraisuutena. 3:198
+- Pyrkikää aina Jumalan mielihyvään jokaisessa teossa. 3:200
+- Pelätkää Herraanne, kunnioittakaa Häntä ja (älkää katkoko) sukulaisuussuhteita. 4:1
+- Antakaa orvoille heidän omaisuutensa älkääkä vaihtako (omanne pahaa) heidän (hyväänsä); älkääkä syökö heidän omaisuuttaan (lisäämällä sitä omaanne). 4:2
+- Antakaa naisille (joihin menette naimisiin) heidän mahrinsa (pakollinen avioliittolahja, jonka aviomies antaa vaimolleen avioliiton solmimisen yhteydessä) hyvällä sydämellä. 4:4
+- Suojelkaa orpojen oikeuksia. 4:6
+- Vainajan omaisuus on jaettava hänen perheenjäsentensä kesken. Naisilla on oikeus perintöön. 4:7
+- Älkää syökö orpojen omaisuutta väärin. 4:10
+- Noudattakaa perintöä koskevia määräyksiä. 4:11
+- On kiellettyä periä naisia heidän tahtoaan vastaan, eikä teidän pidä kohdella heitä ankarasti. Eläkää heidän (vaimojensa) kanssa kunniallisesti. Kunnioittakaa ja noudattakaa naisten oikeuksia. Kohtele puolisoasi ystävällisesti ja myötätuntoisesti. Kohtele naisia kunnialla ja oikeudenmukaisuudella. 4:19
+- Älkää menkö naimisiin verisukulaistenne kanssa. 4:23
+- Älkää tappako toisianne. Jumala on totisesti armahtavainen teitä kohtaan. Älkää syökö toistenne omaisuutta väärin. 4:29
+- Jos vältätte suuria syntejä, jotka on kielletty, Jumala antaa teille anteeksi (pienet) syntinne ja sallii teidän päästä kunniakkaaseen sisäänkäyntiin (Paratiisiin). 4:31
+- Älkää himoitko sitä, millä Jumala on suosinut joitakuita teistä toisten ylitse. Välttäkää kateutta ja mustasukkaisuutta. 4:32
+- Miehet ovat naisten huoltajia ja suojelijoita, koska Jumala on asettanut toiset toistensa yläpuolelle ja koska he kuluttavat varojaan (heidän elättämisekseen). Mies on perheen huoltaja ja tukija. 4:34
+- Palvokaa Jumalaa älkääkä asettako Hänelle kumppaneita, olkaa hyviä vanhempia, sukulaisia, orpoja, köyhiä, naapuria, rinnallanne kulkijaa, matkalaista (jota tapaatte) ja niitä (orjia), jotka oikeat kätenne omistavat, kohtaan. Jumala ei pidä ylpeistä ja kerskuvista. Olkaa hyviä toisillenne. Osoittakaa armoa heikoille. Pitäkää yllä perhesiteitä ja kunnioittakaa sukulaisia. 4:36
+- Älkää olko kitsaita. 4:37
+- Jumala ei anna anteeksi, että Hänelle asetetaan kumppaneita, mutta antaa anteeksi kaiken muun sille, kenelle tahtoo. 4:48
+- Älkää kadehtiko toisia. 4:54
+- Jumala käskee teitä palauttamaan uskotut tehtävät niille, joille ne kuuluvat. Kun tuomitsette ihmisten välillä, tuomitkaa oikeudenmukaisesti. 4:58
+- Totelkaa Jumalaa ja Hänen lähettilästään. Kunnioittakaa niitä, joilla on valtaa keskuudessanne. 4:59
+- Älkää sortako heikkoja ja haavoittuvia. 4:75
+- Kaikki hyvä, mitä teille tulee, on Jumalalta; mutta kaikki paha, mikä teitä kohtaa, on teistä itsestänne. 4:79
+- Joka tottelee Lähettilästä (Muhammadia ﷺ), on totellut Jumalaa. 4:80
+- Joka puuttuu asiaan hyvän puolesta, saa osan sen palkkiosta; ja joka puuttuu asiaan pahan puolesta, saa osan sen taakasta. 4:85
+- Uskovaisen ei sovi tappaa toista uskovaista, paitsi vahingossa. 4:92
+- Joka tappaa uskovaisen tahallaan, hänen palkkansa on Helvetti, jossa hän saa asua ikuisesti. Jumalan viha ja kirous ovat häntä vastaan, ja hänelle on valmistettu suuri rangaistus. 4:93
+- Joka lähtee maastamuuttoon (kodistaan) Jumalan tiellä, löytää maasta monta turvapaikkaa ja runsauden. 4:100
+- Olkaa täsmällisiä rukouksissanne. 4:103
+- Älkää tukeko älkääkä olko puolustajina niille, jotka pettävät uskottuja tehtäviään. 4:105
+- Pyytäkää Jumalalta anteeksiantoa, Jumala on totisesti anteeksiantava, armahtavainen. 4:106
+- Te, jotka uskotte! Seisokaa lujasti oikeudenmukaisuudessa, Jumalan todistajina, vaikka se olisi teitä itseänne, vanhempianne tai sukulaisianne vastaan, olkoon hän rikas tai köyhä. Älkää viivyttäkö oikeutta; toimikaa nopeasti vääryyksien korjaamiseksi. 4:135
+- Tekopyhät yrittävät pettää Jumalaa, mutta Hän pettää heidät. 4:142
+- Tekopyhät ovat Tulen alimmissa kerroksissa; etkä löydä heille auttajaa. 4:145
+- Jumala ei pidä siitä, että pahasta puhutaan julkisesti, paitsi jos joku on kärsinyt vääryyttä. 4:148
+- Lähettiläät ilosanoman tuojina ja varoittajina, jotta ihmisillä ei olisi Jumalaa vastaan mitään tekosyytä Lähettiläiden (tulon) jälkeen. 4:165
+- Täyttäkää sopimuksenne ja lupauksenne. 5:1
+- Auttakaa toisianne hyvyydessä ja hurskaudessa, älkää synnissä ja vihamielisyydessä. 5:2
+- Älkää syökö raatoa, verta tai sianlihaa. 5:3
+- Olkaa oikeudenmukaisia, älkää antako vihamielisyyden ja vihan toisia kohtaan estää teitä oikeudenmukaisuudesta. Olkaa oikeudenmukaisia. Tietäkää, että oikeudenmukaisuus on lähellä hurskautta. Älkää viivyttäkö oikeutta; toimikaa nopeasti vääryyksien korjaamiseksi. 5:8
+- Etsikää keinoja lähestyä Jumalaa ja pyrkikää Hänen tiellään niin paljon kuin voitte. Jotta menestyisitte. 5:35
+- Täyttäkää valanne ja liittonne. 5:89
+- Välttäkää päihdyttäviä juomia ja alkoholia. Välttäkää ehdottomasti päihdyttäviä aineita (kaikenlaiset alkoholijuomat), uhkapeliä, al-ansabia (kivialttarit) ja al-azlamia (nuolet onnen tai päätösten etsimiseksi), jotka kaikki ovat Saatanan työn iljettävyyksiä. 5:90
+- Älkää tappako riistaa ollessanne ihram-tilassa hadžia tai 'umraa (pyhiinvaellusta) varten. 5:95
+- Älkää kysykö sellaisista asioista, jotka, jos ne teille selitettäisiin, voisivat aiheuttaa teille ongelmia. 5:101
+- Älkää herjatko toisten jumalia. Älkää herjatko niitä, joita he (epäuskoiset) palvovat Jumalan sijasta, jotta he eivät herjaisi Jumalaa tietämättömyydessään. 6:108
+- Jos tottelette enemmistöä maan päällä, he johtavat teidät harhaan Jumalan tieltä. He noudattavat vain oletuksia, eivätkä tee muuta kuin valehtelevat. 6:116
+- Luopukaa (ihmiset) kaikenlaisista synneistä, sekä julkisista että salaisista. 6:120
+- Älkää syökö (uskovaiset) siitä (lihasta), jonka päällä ei ole lausuttu Jumalan nimeä (eläimen teurastuksen aikana). 6:121
+- Kenet Jumala tahtoo ohjata, Hän avaa hänen rintansa Islammille; ja kenet Hän tahtoo eksyttää, Hän tekee hänen rintansa ahtaaksi ja ahdistuneeksi. 6:125
+- Olkaa maltillisia kulutuksessanne ja välttäkää tuhlausta. Suojelkaa kaikkien luotujen oikeuksia. 6:141
+- Älkää asettako kumppaneita Jumalalle, olkaa hyviä vanhempia kohtaan, älkää tappako lapsianne köyhyyden pelosta, älkää lähestykö siveettömyyksiä, älkää tappako ketään, jonka Jumala on kieltänyt, paitsi oikeudenmukaisesti. 6:151
+- Olkaa rehellisiä; älkää pettäkö missään kaupanteossa. Älkää lähestykö orvon omaisuutta, paitsi parantaaksenne sitä, antakaa täysi mitta ja täysi paino oikeudenmukaisesti, aina kun puhutte, puhukaa totta, vaikka se koskisi läheistä sukulaista, ja täyttäkää Jumalan liitto. 6:152
+- Seuratkaa Suoraa tietä älkääkä seuratko (muita) teitä, sillä ne erottavat teidät Hänen tieltään. 6:153
+- Sano (Muhammed ﷺ): "Totisesti, rukoukseni, uhritoimitukseni, elämäni ja kuolemani ovat Jumalalle, maailmojen Herralle." 6:162
+- Älkää olko ylpeitä. 7:13
+- Älkää antako Saatanan pettää teitä. 7:27
+- Sano (Muhammed ﷺ): "Herrani on käskenyt oikeudenmukaisuutta…" 7:29
+- Pysykää Jumalan asettamissa rajoissa kaikissa asioissa. Välttäkää ylilyöntejä puheessa ja teoissa. Syökää ja juokaa, mutta älkää liioitelko. Pukekaa kauniit vaatteet rukouksen ajaksi. 7:31
+- Jumala loi taivaat ja maan kuudessa päivässä ja asettui sitten Valtaistuimelle (tavalla, joka sopii Hänen Majesteettisuudelleen). 7:54
+- Rukoilkaa Herraanne nöyryydellä ja salassa. Hän ei pidä ylittäjistä. 7:55
+- Älkää aiheuttako turmelusta maan päällä, sen jälkeen kun se on saatettu kuntoon, ja rukoilkaa Häntä pelossa ja toivossa. 7:56
+- Mutta ne, jotka tekivät pahoja tekoja ja sitten katuivat ja uskoivat, totisesti, Herrasi on sen (kaiken) jälkeen anteeksiantava, armollinen. 7:153
+- Sano (Muhammed ﷺ): "Ihmiset! Totisesti, minut on lähetetty teille kaikille Jumalan lähettiläänä…" 7:158
+- Ja (kaikki) kauneimmat Nimet kuuluvat Jumalalle, joten rukoilkaa Häntä niillä, ja jättäkää ne, jotka häpäisevät Hänen Nimiään… 7:180
+- Kenet Jumala eksyttää, sille ei ole ohjaajaa; ja Hän antaa heidän vaellella sokeasti harhassaan. 7:186
+- Osoita anteeksiantoa, käske hyvää ja käänny pois tietämättömistä (eli älä rankaise heitä). 7:199
+- Antakaa anteeksi toisille heidän virheensä. 7:199
+- Ja jos Saatanan houkutus sinua kohtaa, niin etsi suojaa Jumalasta. Totisesti, Hän on Kuuleva, Tietävä. 7:200
+- Uskovia ovat vain ne, joiden sydämet pelkäävät, kun Jumalaa muistetaan, ja kun Heidän säkeistönsä luetaan heille, ne lisäävät heidän uskoaan… 8:2
+- Älkää pettäkö Jumalaa ja Hänen Lähettilästään älkääkä pettäkö tietoisesti uskottuja tehtäviänne (ja kaikkia velvollisuuksia, jotka Jumala on teille asettanut). 8:27
+- Jos tottelette ja pelkäätte Jumalaa, Hän antaa teille erottelukyvyn (kriteerin erottaa oikea väärästä, tai keinon päästä ulos jokaisesta vaikeudesta). 8:29
+- Ne, jotka eivät usko, kuluttavat varojaan estääkseen (ihmisiä) Jumalan tieltä, ja he jatkavat kuluttamistaan; mutta lopulta se on heille surun aihe. 8:36
+- Sano niille, jotka ovat kieltäytyneet uskomasta, jos he lopettavat (epäuskonsa), heidän menneisyytensä annetaan anteeksi. Mutta jos he palaavat (siihen), niin esimerkit niistä (rangaistuista) ennen heitä ovat jo käyneet (varoituksena). 8:38
+- Kun kohtaatte (vihollisen) joukot, pysykää lujina ja muistakaa Jumalan nimeä usein (sekä kielellä että mielellä), jotta menestyisitte. 8:45
+- Älkää olko kuin ne, jotka lähtivät kodeistaan kerskaillen ja näyttäytyäkseen ihmisille, ja (estäen ihmisiä) Jumalan tieltä. 8:47
+- Jumala ei koskaan muuta armoa, jonka Hän on antanut kansalle, ennen kuin he muuttavat sen, mikä on heissä itsessään. 8:53
+- Pahimmat liikkuvat olennot Jumalan edessä ovat ne, jotka eivät usko. 8:55
+- Jumala laskee rakkauden ja kiintymyksen niiden sydämiin, jotka uskovat Häneen. 8:63
+- Suojelkaa ja auttakaa niitä, jotka pyytävät suojaa. 9:6
+- Monijumalaisten ei sovi ylläpitää Jumalan moskeijoita. 9:17
+- He (epäuskoiset, juutalaiset ja kristityt) haluavat sammuttaa Jumalan valon (jolla Muhammed ﷺ lähetettiin – islamilainen monoteismi) suillaan, mutta Jumala ei salli muuta kuin että Hänen Valonsa täydellistyy, vaikka epäuskoiset sitä vihaisivatkin. 9:32
+- Almut (zakât) ovat vain: 1) köyhille, 2) tarvitseville, 3) niille, jotka on palkattu keräämään niitä, 4) niiden sydänten houkuttelemiseksi, jotka ovat taipuvaisia islamiin, 5) vankien vapauttamiseksi, 6) velallisille, 7) Jumalan asialle (mujahideenille) ja 8) matkalaiselle. 9:60
+- Joka vastustaa ja osoittaa vihamielisyyttä Jumalaa ja Hänen Lähettilästään (ﷺ) kohtaan, hänelle on Helvetin tuli, jossa hän saa asua ikuisesti. Se on suuri häpeä. 9:63
+- Tekopyhät, miehet ja naiset, ovat toistensa kaltaisia. He ovat unohtaneet Jumalan, joten Hän on unohtanut heidät. 9:67
+- Pyrkikää puhtauteen. Kunnioittakaa moskeijan pyhyyttä. 9:108
+- Profeetan ja uskovien ei sovi pyytää anteeksiantoa monijumalaisille, vaikka he olisivat sukulaisia, sen jälkeen, kun heille on selvinnyt, että he ovat Tulen asukkaita (koska he kuolivat epäuskossa). 9:113
+- Kuka onkaan pahempi väärintekijä kuin se, joka sepittää valheita Jumalasta tai kieltää Hänen merkkinsä? Totisesti, rikolliset eivät koskaan tule menestymään! 10:17
+- He palvovat Jumalan ohella sellaista, mikä ei heitä vahingoita eikä hyödytä, ja he sanovat: "Nämä ovat meidän puolustajiamme Jumalan luona." Sano: "Ilmoitatteko Jumalalle jotain, mitä Hän ei tiedä taivaissa eikä maan päällä?" Ylistys Hänelle, ja Hän on korkealla sen yläpuolella, mitä he Hänelle asettavat! 10:18
+- Pahan teon palkka on samanlainen paha. 10:27
+- Sellainen on Jumala, teidän todellinen Herranne. Mitä on siis totuuden jälkeen, ellei eksymys? Miten siis voitte kääntyä pois? 10:32
+- Useimmat heistä noudattavat vain oletuksia. Totisesti, oletukset eivät voi korvata totuutta. 10:36
+- Totisesti! Jumala ei tee ihmisille vääryyttä millään tavalla; mutta ihmiset tekevät vääryyttä itselleen. 10:44
+- Tietäkää, että Jumalan lahja on parempi kuin kaikki, mitä ihminen voi kerätä tai varastoida. 10:58
+- Älkää olko niitä, jotka kieltävät Jumalan merkit, sillä silloin te olette niiden joukossa, jotka kärsivät tappiota. 10:95
+- Jos Jumala kohtaa teitä vahingolla, kukaan ei voi sitä poistaa paitsi Hän; ja jos Hän tahtoo teille hyvää, kukaan ei voi kääntää pois Hänen armoaan, jonka Hän antaa kelle tahtoo palvelijoistaan. 10:107
+- Maan päällä ei ole ainuttakaan liikkuvaa olentoa, jonka ravinto ei olisi Jumalalta. Ja Hän tietää sen olinpaikan ja säilytyspaikan (kohdussa, haudassa jne.). 11:6
+- Jos annamme ihmisen maistaa armoamme ja sitten otamme sen häneltä pois, totisesti! Hän joutuu epätoivoon ja on kiittämätön. 11:9
+- Joka haluaa maailman elämää ja sen loistetta, Me annamme heille täyden palkan heidän teoistaan siinä, eikä heiltä vähennetä mitään. 11:15
+- Emme tehneet heille vääryyttä, mutta he tekivät vääryyttä itselleen. Heidän jumalansa, joita he rukoilivat Jumalan ohella, eivät hyödyttäneet heitä mitään, kun Herrasi käsky tuli, eivätkä he lisänneet heille muuta kuin tuhoa. 11:101
+- Sinä päivänä, kun se tulee, kukaan ei puhu ilman Hänen (Jumalan) lupaansa. Heistä jotkut ovat onnettomia ja (toiset) onnellisia. 11:105
+- Mitä tulee onnettomiin, he ovat Tulessa, jossa he saavat huokailla ja vaikeroida. 11:106
+- He saavat asua siinä ikuisesti, niin kauan kuin taivaat ja maa kestävät, paitsi jos Herrasi toisin tahtoo. Totisesti, Herrasi tekee, mitä tahtoo. 11:107
+- Ja onnelliset, he ovat Paratiisissa, asuen siellä ikuisesti, niin kauan kuin taivaat ja maa kestävät, paitsi jos Herrasi toisin tahtoo, loputtomana lahjana. 11:108
+- Älkää kallistuko vääryydentekijöiden puoleen, jotta Tuli ei koskisi teihin, eikä teillä olisi suojelijoita Jumalan ohella, eikä teitä autettaisi. 11:113
+- Suorittakaa rukous päivän kahdessa päässä ja yön tunteina (eli 5 päivittäistä rukousta). Hyvät teot poistavat pahat (eli pienet synnit). 11:114
+- Jumalalle kuuluu taivaiden ja maan näkymätön, ja Hänen luokseen kaikki asiat palaavat (päätettäväksi). 11:123
+- Käsky (eli tuomio) on yksin Jumalan. Hän on käskenyt, että palvotte vain Häntä (monoteismi), se on oikea uskonto, mutta useimmat ihmiset eivät tiedä. 12:40
+- Älkää koskaan menettäkö toivoa Jumalan armoon. 12:87
+- Eivätkä useimmat ihmiset usko, vaikka kuinka sitä toivoisitte. 12:103
+- Useimmat heistä eivät usko Jumalaan asettamatta Häntä kumppaneita (eli he ovat monijumalaisia). 12:106
+- Se (Koraani) ei ole sepitetty puhe, vaan vahvistus aikaisemmille (Tuoralle, Evankeliumille ja muille Kirjoituksille) ja yksityiskohtainen selitys kaikesta, sekä ohjaus että armo uskoville ihmisille. 12:111- Jumala runsastaa elatuksen kenelle tahtoo ja supistaa (kenelle tahtoo). 13:26
+- Muistakaa Jumalaa usein dhikrin kautta. Ne, jotka uskovat Jumalaan, löytävät tyydytyksen Hänet muistamalla. 13:28
+- Ne, jotka uskovat ja tekevät hyviä tekoja, saavat iloa ja mielenrauhaa. 13:29
+- Ne, jotka asettavat maailman elämän tulevan elämän edelle, ja estävät (ihmisiä) Jumalan tieltä (Islamista) ja etsivät siihen mutkaa – he ovat kaukana harhassa. 14:3
+- Harjoittakaa nöyryyttä ja kiitollisuutta palvonnassa. 14:7
+- Vertaus niistä, jotka eivät usko Herraansa, on, että heidän tekonsa ovat kuin tuhka, jota tuuli puhaltaa voimalla myrskyisenä päivänä; he eivät saa mitään siitä, mitä ovat ansainneet. 14:18
+- Jumala vahvistaa ne, jotka uskovat, lujalla sanalla tässä maailmassa (eli he jatkavat Jumalan palvontaa yksin) ja tulevassa elämässä. 14:27
+- Älkää luulko, että Jumala olisi tietämätön siitä, mitä väärintekijät (monijumalaiset, sortajat jne.) tekevät, mutta Hän antaa heille lykkäystä Päivään, jolloin silmät tuijottavat kauhusta. 14:42
+- Jotta Jumala palkitsisi jokaisen sielun sen mukaan, mitä se on ansainnut. Jumala on totisesti nopea tilinteossa. 14:51
+- Ja totisesti, Me loimme ihmisen kuuluvasta savesta, muunnetusta mustasta liejusta. 15:26
+- Ja džinnit loimme ennen sitä savuttomasta tulen liekistä. 15:27
+- Sillä (Helvetillä) on seitsemän porttia, ja kullekin portille on oma (erityinen) ryhmänsä syntisiä. 15:44
+- Hän loi ihmisen siemenpisarasta (miehen ja naisen siemennesteen sekoituksesta), ja katso, tämä (ihminen) tulee avoimeksi vastustajaksi. 16:4
+- Ja karjaeläimet, Hän loi ne teitä varten; niissä on teille lämpöä (lämpimiä vaatteita) ja monia hyötyjä, ja niistä te syötte. 16:5
+- Ja (Hän loi) hevoset, muulit ja aasit, ratsastaksenne niillä ja koristukseksi. Ja Hän luo (muita) asioita, joita ette tiedä. 16:8
+- Hän on se, joka lähettää taivaasta vettä (sadetta); siitä te juotte, ja siitä kasvaa kasvillisuus, jolla te paimentatte karjanne. 16:10
+- Hän on se, joka alisti meren (palvelukseenne), jotta voisitte syödä siitä tuoretta lihaa (kalaa) ja ottaa sieltä koristeita, joita kannatte. 16:14
+- Hän on asettanut maahan vakaat vuoret, jottei se tärähtelisi teidän kanssanne, ja joet ja tiet, jotta osaisitte kulkea oikein. 16:15
+- Onko Luoja kuin se, joka ei luo? Ettekö siis muistaisi? 16:17
+- Jos yrittäisitte laskea Jumalan armotekoja, ette koskaan pystyisi niitä laskemaan. 16:18
+- Jumala tietää, mitä salaatte ja mitä ilmaisette. 16:19
+- Ne, joita he (monijumalaiset) rukoilevat Jumalan ohella, eivät ole luoneet mitään, vaan heidät on itse luotu. 16:20
+- (He ovat) kuolleita, elottomia, eivätkä he tiedä, milloin heidät herätetään. 16:21
+- Sanamme asialle, kun tahdomme sen, on vain sanoa sille: "Tule!" ja se tulee. 16:40
+- Tuntevatko ne, jotka tekevät pahoja juonia, olevansa turvassa siitä, että Jumala ei vajottaisi heitä maahan, tai että rangaistus ei tulisi heidän luokseen suunnilta, joita he eivät aavista? 16:45
+- Kaikki siunaukset ja hyvät asiat, jotka teillä on, ovat Jumalalta. Sitten, kun teitä kohtaa vahinko, te huudatte Häntä avuksi. 16:53
+- Sitten, kun Hän on poistanut vahingon teistä, katso, jotkut teistä asettavat kumppaneita Herralleen (Jumalalle). 16:54
+- Karjassa on teille opetus. Me annamme teille juotavaa siitä, mikä on heidän mahassaan, ulosteiden ja veren väliltä, puhdasta maitoa, miellyttävää juojille. 16:66
+- Älkää siis asettako Jumalalle vertaisia (sillä mikään ei ole Hänet kaltainen, eikä Hän ole minkään kaltainen). Totisesti, Jumala tietää, mutta te ette tiedä. 16:74
+- Tietäkää, että Jumala antoi ihmisille kuulon, näön, älyn ja tunteet, jotta he olisivat kiitollisia. 16:78
+- Välttäkää ahneutta ja kitsautta. 16:97
+- Kun haluatte lukea Koraania, etsikää suojaa Jumalasta Saatanaa, kirottua vastaan. 16:98
+- Tietäkää, että tietämättömyydestä tehty väärinkäytös annetaan anteeksi, jos henkilö katuu ja korjaa itsensä. 16:119
+- Kutsukaa (Muhammed ﷺ) Herranne tielle (Islamin tielle) viisaudella ja hyvällä neuvolla ja väitelkää heidän kanssaan parhaalla mahdollisella tavalla. Toisten kutsuminen Jumalan tielle tulee tehdä viisaudella ja ystävällisyydellä. 16:125
+- Jumala on niiden kanssa, jotka pelkäävät Häntä (täyttävät velvollisuutensa Häntä kohtaan), ja niiden kanssa, jotka tekevät hyvää. 16:128
+- Tämä Koraani ohjaa siihen, mikä on oikeinta ja vanhurskainta. 17:9
+- Kukaan ei voi kantaa toisen taakkaa. 17:15
+- Joka haluaa tulevaa elämää ja ponnistelee sen eteen, ponnistellen sen vaatimalla tavalla, samalla kun on uskovainen, niin näiden ponnistus tulee arvostetuksi ja palkituksi (Jumalan toimesta). 17:19
+- Kunnioittakaa vanhempianne ja kohdelkaa heitä ystävällisesti. Olkaa kuuliaisia vanhemmille. Älkää sanoko heille yhtään epäkunnioittavaa sanaa. Ja Herranne on määrännyt, että palvotte vain Häntä. Ja että olette hyviä vanhemmillenne. Jos toinen heistä tai molemmat saavuttavat vanhuuden elämässänne, älkää sanoko heille "Hyi!" älkääkä huutako heille, vaan puhukaa heille kunnioittavasti. 17:23
+- Ja laskekaa nöyryyden ja armon siipi heidän ylitseen ja sanokaa: "Herrani! Armahda heitä, niin kuin he kasvattivat minua, kun olin pieni." 17:24
+- Totisesti, tuhlaajat ovat saatanoiden veljiä, ja Saatana on kiittämätön Herralleen. 17:27
+- Älkää tuhlatko rahaa. 17:29
+- Älkää tappako lapsianne köyhyyden pelosta. 17:31
+- Älkää harjoittako aviorikosta. Kunnioittakaa avioliiton pyhyyttä ja välttäkää aviorikosta. 17:32
+- Antakaa täysi mitta, kun mittaatte, ja punnitkaa oikealla vaa'alla. Se on parempi (hyödyllisempi) ja lopputulokseltaan parempi. 17:35
+- Älä seuraa (ihminen, eli älä sano, tee tai todista jne.) sellaista, mistä sinulla ei ole tietoa (esim. joku sanoo: "Minä näin", vaikkei ole nähnyt, tai "Minä kuulin", vaikkei ole kuullut). 17:36
+- Olkaa nöyriä älkääkä ylpeitä. Älkää kulkeko maassa omahyväisesti ja ylimielisesti. Totisesti, ette voi rikkoa maata ettekä saavuttaa vuorten korkeutta. 17:37
+- Herranne tuntee teidät parhaiten; jos Hän tahtoo, Hän armahtaa teitä, tai jos Hän tahtoo, Hän rankaisee teitä. 17:54
+- Joka on sokea tässä maailmassa (eli ei näe Jumalan merkkejä eikä usko Häneen), on sokea tulevassa elämässä, ja vielä enemmän harhassa tieltä. 17:72
+- Noudattakaa määrättyjä rukousaikoja. 17:78
+- Totisesti, Me olemme selittäneet ihmisille tässä Koraanissa kaikenlaisia vertauksia, mutta useimmat ihmiset hylkäävät (totuuden) ja uskovat vain epäuskoon. 17:89
+- Me olemme esittäneet tässä Koraanissa kaikenlaisia esimerkkejä ihmisille. Mutta ihminen on riitaisampi kuin mikään. 18:54
+- Se on heidän palkkansa, Helvetti; koska he eivät uskoneet ja pitivät Minun merkkejäni ja Lähettiläitäni pilkan ja naurun kohteena. 18:106
+- Ei sovi (Jumalan Majesteetille), että Hän ottaisi lapsen (tämä viittaa kristittyjen panetteluun Jumalaa vastaan, kun he sanovat, että Jeesus on Jumalan poika). Ylistys Hänelle (ja Hän on korkealla sen yläpuolella, mitä he asettavat Hänelle). 19:35
+- Puhukaa ihmisille lempeästi. 20:44
+- Kilpailkaa toistenne kanssa hyvissä teoissa. 21:90
+- Välttäkää turhaa puhetta. 23:3
+- Suojelkaa siveyttänne. 23:5
+- Suojelkaa sydäntänne synnillisiltä taipumuksilta. 23:97
+- Antakaa anteeksi toisille ja anteeksi heidän virheensä. 24:22
+- Kunnioittakaa toisten yksityisyyttä, erityisesti heidän kodeissaan. Täyttäkää naapureiden oikeudet. 24:27
+- Laskekaa katseenne (sekä miehet että naiset). Suojelkaa siveyttänne ja vaatimattomuuttanne. 24:30
+- Harjoittakaa vaatimattomuutta pukeutumisessa ja käytöksessä. 24:31
+- Tietäkää, että Jumala antaa turvallisuutta ja rauhaa niille, jotka palvovat Häntä ja toimivat hyveellisesti. 24:55
+- Älkää astuko vanhempienne yksityishuoneisiin ilman lupaa. 24:58
+- Olkaa nöyriä ja vaatimattomia. 25:63
+- Välttäkää väärää todistusta ja petosta. 25:72
+- Pyrkikää palkintoon tulevassa elämässä, mutta älkää laiminlyökö asioitanne tässä maailmassa. 28:77
+- Älkää rukoilko Jumalan rinnalla mitään muuta jumalaa. 28:88
+- Älkää harjoittako homoseksuaalisuutta. 29:29
+- Pyrkikää huippuosaamiseen kaikissa pyrkimyksissänne. 29:69
+- Suorittakaa rukous ja antakaa almut. 31:4
+- Käskekää hyvää ja kieltäkää paha. 31:17
+- Välttäkää ylimielisyyttä käytöksessänne. Välttäkää ajan tuhlaamista turhaan puheeseen. 31:18
+- Olkaa maltillisia kävelyssänne ja äänenne voimakkuudessa. 31:19
+- Seuratkaa Profeetta Muhammadin esimerkkiä. 33:21
+- Naisten ei pidä näytellä tai kerskua kauneudellaan ja koruillaan. 33:33
+- Puhukaa totuus kaikissa olosuhteissa. 33:70
+- Etsikää viisautta ja ymmärrystä pohdinnan kautta. 38:29
+- Noudattakaa Koraanin käskyjä. 39:23
+- Jumala antaa anteeksi kaikki synnit, kun syntinen katuu ja kääntyy Hänen puoleensa. 39:53
+- Esittäkää vilpitön du'ā (rukoukset) Jumalalle. 40:60
+- Torjukaa paha sillä, mikä on parempaa. 41:34
+- Päättäkää asioista neuvottelemalla. 42:38
+- Älkää korottako ääntänne Profeetan äänen yläpuolelle. 49:2
+- Pitäkää salaisuudet ja välttäkää petosta. 49:6
+- Edistäkää rauhaa niiden välillä, jotka ovat konfliktissa. Etsikää sovintoa konflikteissa. 49:9
+- Älkää pilkatko toisia. 49:11
+- Välttäkää epäilyksiä. Välttäkää vakoilua ja panettelua. Älkää panetelko tai herjatko toisia. Kavahtakaa kaikenlaista panettelua ja herjausta. Älkää antako ylpeyden johtaa teitä vääryyteen. 49:12
+- Tietäkää, että vain vanhurskaus tekee ihmisestä jalon. Kunnioittakaa ihmisten ja kulttuurien välisiä eroja. 49:13
+- Kunnioittakaa vieraita. 51:26
+- Olkaa tietoisia velvollisuuksistanne Jumalaa kohtaan. 51:56
+- Käyttäkää varoja hyväntekeväisyyteen. 57:7
+- Tietäkää, että uskonnossa ei tule olla munkkilaitosta (avioliitosta ja mukavuuksista luopumista, kuten munkit, nunnat tai muut, jotka elävät uskonnollisten lupausten alaisina, tai rakennukset, joissa he asuvat). 57:27
+- Älkää antako varallisuuden viedä huomiotanne Jumalan muistamisesta. 58:11
+- Ne, joilla on tietoa, saavat Jumalalta korkeamman aseman. 58:11
+- Kohdelkaa ei-muslimeja ystävällisesti ja oikeudenmukaisesti. 60:8
+- Välttäkää tekopyhyyttä uskomuksissanne ja teoissanne. 63:9
+- Pysykää kaukana ahneudesta ja kitsaudesta. 64:16
+- Suojelkaa teille uskottuja ilmestyksiä. 73:15
+- Muistakaa Tuomion päivää. 75:36
+- Käskekää kärsivällisyyttä ja myötätuntoa. 90:17
+- Ne, jotka puhdistavat sielunsa, onnistuvat, ja ne, jotka turmelevat sen, epäonnistuvat. 91:10
+- Älkää sivuuttako tai hylkiökö tarvitsevia. 93:10
+- Etsikää tietoa ja ymmärrystä. Lukekaa ja pohtikaa Koraania. 96:1–5
+- Kannustakaa köyhien ruokkimiseen. 107:3
 """;

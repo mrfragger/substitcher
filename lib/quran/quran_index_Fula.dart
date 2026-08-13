@@ -3276,4 +3276,279 @@ Matching Phrases 8 words
 - Alla yaajnirta arzika mo O yiɗi e maccuɓe Makko, O fampana. (اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ) 28:82; 29:62
 - E faade e Annduɗo gaañannde e kumpital, O andinirta on ko ngonnoo waɗude. (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
 - E ɓandu, goɗɗum maɓɓe ɓuri goɗɗum e ɓandu, e Defte Alla. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
+cmds - Commands, Exhortations, Prohibitions, Instructions
+- fard / wajib (فرض / واجب) — doole (eɓɓinaande; accude ko junuub)
+- mustahabb / mandub (مستحب / مندوب) — wagginiraaɗo (jokkere nden heɓoyta, accude junuub alaa)
+- mubah (مباح) — hakkunde / hawraande (alaa njeenaari, alaa junuub)
+- makruh (مكروه) — aɲɲaande (reentaaki, amma waɗde junuub alaa)
+- haram (حرام) — haraama (waɗde ko junuub)
+- halal (حلال, hawraande / laawɗunde) — heewi mubah e mustahabb — kala huunde haraama
+- Rewee Alla tan, ɗaɓɓu ballal/faabagol Makko. 1:5
+- Rewee Alla tan. 2:21
+- Pawtan Alla goɗɗun. 2:22
+- Alla ko Wuyoowo (jaɓoowo tuubu), O jaɓii tuubu Aadama (عَلَيْهِ ٱلسَّلَامُ). 2:37
+- Tawtu goonga e faal, maa suuɗu goonga. 2:42
+- Tindee juulde (juulde kala ɲalaande), okku Zakaat (sadaqa). 2:43
+- Aamiru yimɓe e ko moƴƴi caggal nde on mbaɗi ɗum. 2:44
+- Ɗaɓɓu ballal Alla e golle mon ɗen fow. 2:45
+- Woto on naata e bonannde maa njaltin ɗum. 2:60
+- Woto on haɗu yimɓe yahde juulirɗe. 2:114
+- Teddino horma masjid. Ndisnu nokkuuji juulde mon laaɓuɗi e laaɓuɗi. 2:125
+- Andite Alla (juulde, subhaanalla, njim), O anditay on, e woodanee Mo yo welta. 2:152
+- Wakkilee e caɗeele. 2:153
+- Woto on jokku dattuuji Cibriila (Ibliis) on, ko o gaɗo mo feeñi. 2:168
+- Woto on jokku hay gooto e meeɗe. 2:170
+- Reenu e timminu amaanaaji ɗin fow. Timminu golle diine mon ɗen e ɓernde laaɓunde. Timminu koolondiral mon e manndooji mon. Reenu yewte mon, tentinii ɗe waɗɗunoo Alla. Wallu tawɓe caɗeele, newnu caɗeele. Reenu junuubuuji addata bonnugol neema Alla. Woto teddungal addu on e junuub. 2:177
+- E ɗawdi (Qisaas, ko laawol potal e banndinaango) heɓaton ngurndan. 2:179
+- Weeyu e lewru Ramadaan. Reenu weeyu winndaaɗu ngam heɓugol Muttaqun (wurɓe Alla). 2:183
+- Teddinu Al-Qur'aan bana tawaaɗo dowru pamare. 2:185
+- Woto on ɲaamu jawdi goɗɗo e ngonka bonka, maa okku ñamoowo ñaamo (ko adii nde on ardotoo ñaawirde). 2:188
+- Woto on bonnu woɓɓe, e konngol maa kuugal. Woto on tawu e hare bana ɲaawotooɗo, kono tan e dambugol. 2:190
+- Reenu leppi-yatimɓe. Ko fayti e leppi-yatimɓe, golliraa e jawdi maɓɓe e ɓernde laaɓunde, woto on ɲaamu jawdi maɓɓe. 2:220
+- Tuba, ɗaɓɓu yaafuya Alla. Woto on jokkondir e ɓulli e saa'i jille. Reenu laaɓal (pelle e ruuhu). 2:222
+- Timminu toɗɗeeji mon e galle mon. 2:233
+- Suɓu ardiiɓe e piingu maɓɓe. 2:247
+- Woto on ɗoƴƴina e diina. 2:256
+- Njoqqu jawdi mon e sadaqa. Wondu e neema e waktu. 2:261
+- Woto on luppa sadaqa mon e hollitagol neema mon. 2:264
+- Cibriila (Ibliis) hulɗini on kasanka, yamir on juulde Fahsha' (kuuɗe bonɗe, jokkondiral laawɗungaa, junuubuuji). 2:268
+- Ɗaɓɓu ɗuuɗuɓe, wallu ɓe. 2:273
+- Woto on naata e riba (ñamndi). Woto on ɲaamu jawdi riba. Woto on ɲaamu Riba (ñamndi). 2:275
+- Nebbina on mo mari ñamaande, si o woni e caɗeele. 2:280
+- Reenu kongol mon e njulaagu. Wondu e goonga e ko fayti e jawdi mon. Gom e ɓernde laaɓunde e kala koolondiral mon. Nde on waɗi ñamaande e saa'i mo anndaa, windu ɗum. Ƴiiƴu seedeewo nde on waɗi koolondiral njulaagu. 2:282
+- Reenu e timminu amaanaaji ɗin fow. 2:283
+- Geeɗu Defte ɗe Ndeewaa ɗen e Annabaajo'en ɓen fow. 2:285
+- Alla ruttintaa muɲɲe ɓurɗe ngonka mum. Heɓanay njeenaari ko o heɓi, soto kadi ko o heɓi. Alla ruttintaa muɲɲe ɓurɗe ngonka; min ɗum waɗa. Hoolu pinaaŋge Alla hay e caɗeele. 2:286
+- Kala on mo timmini yewte, hulɗi Alla, haray Alla yiɗi wurɓe Alla. 3:76
+- Tindee Hajj (njillu) si on waawi. 3:97
+- Woto on ceerndor. 3:103
+- Aamiru ko moƴƴi, haɗu ko bonɗi. Kankinir moƴƴere e renndo mon. Ndunngu woɓɓe e anditagol Alla. 3:104
+- Gomiɗɓe ɓen poti hoolude Alla. 3:122
+- Woto on ɲaamu Riba (ñamndi). 3:130
+- ɗemngal Alla e Nulaaɗo Makko ngam heɓugol yurmeende. 3:132
+- Alla yiɗi ɓe njoqqata (e laawol Alla — sadaqa, neema, njim) e neema e caɗeele, ɓe torrora ɓernde, ɓe yaafora yimɓe. 3:134
+- Torror ɓernde. Gom ɓernde mon. 3:134
+- Yaaforu woɓɓe, fewnu ɓe. 3:135
+- Woto on wondu e noppi e kongol. Wakkilu e ɓe ceertani on. 3:159
+- Si Alla wallii on, hay gooto foolata on; si O yoppii on, kone woni caggal Makko wallayta on? 3:160
+- Kala muɲɲe seedtoo maayde. E Nyannde Wuurtugol tan heɓoyte njeenaari mon timmundi. 3:185
+- Miijo ɗuuɗngo e ko woni e maayɓe, e tagagol winndere ndee. Andu Alla tagi winndere ndee e faamu e anniya. 3:191
+- Gorko e debbo heɓay njeenaari ceertundi e kuuɗe maɓɓe. 3:195
+- Kala on hulɗi Joomi mum, heɓay Aljanna (Aljanna) maayɗe ndiyam ina ɗaɓɓa les maɓɓe; ɓe ngurday e maɓɓe pooma, ko neema Alla. 3:198
+- Geeɗu e fajiri Alla e kala golle. 3:200
+- Hulɗu Joomi on, woto on ceerndu jokkondiral (ɓesngu). 4:1
+- Okku leppi-yatimɓe jawdi maɓɓe, woto on luffu (bonɗum mon) e (moƴƴum maɓɓe); woto on ɲaamu jawdi maɓɓe (e nder ruddagol ngam mawnude mon). 4:2
+- Okku rewɓe (ɓe on resata) Mahr (njeenaari resndo) maɓɓe e ɓernde laaɓunde. 4:4
+- Reenu hakkeeji leppi-yatimɓe. 4:6
+- Jawdi mayɗo poti feccirde e nder galle mum. Rewɓe mari hakke ronu. 4:7
+- Woto on ɲaamu jawdi leppi-yatimɓe e ngonka bonka. 4:10
+- ɗemngal yamirooje fayti e ronu. 4:11
+- Ronaagol rewɓe e ko ɓe njiɗaa ko haɗaa, woto on ɗakku ɓe. Ngurda e maɓɓe (rewɓe ɓen) e moƴƴere. Teddino e reenu hakkeeji rewɓe. Jokkondir e debbo maa e neema e yurmeende. Gom e rewɓe e teddungal e potal. 4:19
+- Woto on resu ɓiɓɓe mawniiko. 4:23
+- Woto on hara hoore mon (maa hara goɗɗo). Alla ko Yurmeteeɗo e mon. Woto on ɲaamu jawdi goɗɗo e ngonka bonka. 4:29
+- Si on reeni junuubuuji mawɗi haɗaaɗi, Alla yaaforay on junuubuuji (toɗɗii) ɗin, naɓoy on e naatirde teddungal (Aljanna). 4:31
+- Woto on njiɗu ko Alla teddiniri woɓɓe e dow woɓɓe. Reenu nyaamde e ɲamnde. 4:32
+- Gorko ko reenoowo rewɓe, sabu Alla teddiniri woɓɓe e dow woɓɓe, e sabu ɓe njoqqi (e jawdi maɓɓe). Gorko ko reenoowo e wallitoro galle. 4:34
+- Rewee Alla, woto on pawtan Mo hay huunde, waɗan moƴƴere Jibinaaɓe, ɓesngu, leppi-yatimɓe, baaso, terɗo, wondiiɓe, njillotooɗo (mo on hawri), e ɓe ɲaalu ɗo nanngi (jeyaaɓe). Alla yiɗaa ko teddintooɓe, mawnintooɓe. Waɗan moƴƴere woɓɓe. Yurminee looɓe. Reenu jokkondiral ɓesngu, teddinu ɓesngu. 4:36
+- Woto on wondu e hakkille. 4:37
+- Alla yaaforataa pawtangol Mo, kono O yaaforata ko jippii ɗum, e kala mo O yiɗi. 4:48
+- Woto on ɲamdu woɓɓe. 4:54
+- Alla yamir on ruddude amaanaaji ɗin e ɓe ngoni ɗum. Nde on ñaawata hakkunde yimɓe, ñaawu e potal. 4:58
+- ɗemngal Alla e Nulaaɗo Makko. Teddinu ardiiɓe e mon. 4:59
+- Woto on bonnu looɓe e ɓe ngalaa sembe. 4:75
+- Kala ko moƴƴi heɓay on, ko Alla; kala ko bonɗi heɓay on, ko mon. 4:79
+- Kala on ɗemngi Nulaaɗo (Muhammad ﷺ), haray o ɗemngi Alla. 4:80
+- Kala on sekti e ko moƴƴi, heɓoyta njeenaari mum; kala on sekti e ko bonɗi, heɓoyta felo mum. 4:85
+- Gomiɗɗo haraata gomiɗɗo, si hinaa e goofa. 4:92
+- Kala on waro gomiɗɗo e hoore makko, njeenaari mum ko Jahannam, o ngurday e mum pooma. Huunde Alla e fenaande Makko dow makko, e heɓani makko lepte mawɗe. 4:93
+- Kala on eggina (e galle mum) e laawol Alla, heɓay e leydi ndi nokkuuji keewɗi e neema. 4:100
+- Wondu e saa'iiji juulde. 4:103
+- Woto on wallu maa wonu awokaaji ɓe bonnata amaanaaji maɓɓe. 4:105
+- Ɗaɓɓu yaafuya Alla, Alla ko Wuyoowo, Yurmeteeɗo. 4:106
+- Onon ɓe gomɗini! Daror e potal, wonu seedeeɓe Alla, hay si ko ngonki mon, maa jibinaaɓe mon, maa ɓesngu mon, o woni alɗuɗo maa baaso. Woto on rutta potal; gollu dognol ngam feewnugol bonnere. 4:135
+- Munaaftooɓe ɓen ngiɗi faalde Alla, kono Ko Kanko faaldata ɓe. 4:142
+- Munaaftooɓe ɓen ɗon e les les Liy’a (Jahannam); e oo heɓaana ɓe ballo. 4:145
+- Alla yiɗaa ko bonɗi yewtee e pinal, si hinaa on mo o bonniraa. 4:148
+- Nulaaɓe ɓen bana heeddinirɓe e kulhinooɓe, ngam yimɓe ɓen woto heɓu hujja e Alla caggal Nulaaɓe ɓen. 4:165
+- Timminu koolondiral mon e yewte mon. 5:1
+- Walliton e moƴƴere e hulɓinaare, woto on wallit e junuub e ɲeyngu. 5:2
+- Woto on ɲaamu mayɗo, ƴiiƴam, e ɓiɗɗum boof. 5:3
+- Wondu e potal, woto ɲeyngu e nyaamde woɓɓe addu on e yoppugol potal. Wondu e potal. Andu potal ko ɓadii hulɓinaare. Woto on rutta potal; gollu dognol ngam feewnugol bonnere. 5:8
+- Ɗaɓɓu laawol ɓadde Alla, pijtan e laawol Makko ko waawi. Ngam heɓugol faatu. 5:35
+- Timminu manndooji mon e koolondiral mon. 5:89
+- Reenu njaram e njaram. Reenu kattin njaram (njaram fow), pijirde, Al-Ansab (hayɗe), e Al-Azlam (kalle ɗaɓɓugol ngalu maa hakke), ɗum fow ko ɗum bonɗum golle Cibriila (Ibliis). 5:90
+- Woto on hara ladde, nde on woni e Ihram ngam Hajj maa 'Umrah (njillu). 5:95
+- Woto on ƴami ko si mbiyat ee on, ɓay on. 5:101
+- Woto on tuumu Alla woɓɓe. Woto on tuumu ɓe (wurlaaɓe) ɓen rewata ko ɓe rewaani Alla, ngam ɓe tuuma Alla e ngonka. 6:108
+- Si on ɗemngi ɗuuɗuɓe e dow leydi ndi, ɓe antay on e laawol Alla. Ɓe ngonki miijo tan, ɓe ngonki hay huunde wutta. 6:116
+- Accu (yimɓe) junuub fow, feeɗuɗo e suuɗuɗo. 6:120
+- Woto on ɲaamu (onon ɓe gomɗini) ɓiɗɗum (teemedde) mo inniraaka Alla (e saa'i warde). 6:121
+- Kala mo Alla yiɗi hawrude, O udditana mo ɓernde mum e Islam; kala mo O yiɗi ɗaynude, O tata ɓernde mum, ɗum hiɓa. 6:125
+- Wondu e hakkunde e njoɗi, reenu hakkille. Reenu hakkeeji kala feccere. 6:141
+- Woto on pawtan Alla hay huunde, waɗan moƴƴere jibinaaɓe, woto on hara ɓiɓɓe mon e hulɓinaare kasanka, woto on ɓaddu fahsha, woto on hara kala mo Alla haɗi, si hinaa e potal. 6:151
+- Wondu e goonga; woto on faal e njulaagu mon. Woto on ɓaddu jawdi leppe-yatim, si hinaa ngam ɓurde, okku ṭaƴe timmuɗe e miija timmunde e potal, nde on yewtata, yewtu goonga hay si ko ɓadndo, timminu koolondiral Alla. 6:152
+- Jokku laawol tiiɗngol, woto on jokku laawoli (goɗɗi), sabu ɗi ceernday on e laawol Makko. 6:153
+- Wi' (Muhammad ﷺ): "Goonga, juulde am, sadaka am, ngurndam am, maayde am, ɗum fow ko Alla, Joomi winndere." 6:162
+- Woto on wondu e teddungal. 7:13
+- Woto Cibriila (Ibliis) faldii on. 7:27
+- Wi' (Muhammad ﷺ): "Joomi am yamiri potal…" 7:29
+- Reenu keɓe Alla e kala huunde. Reenu waɗugol e kongol e kuugal. Ɗaɓɓu, namun, woto on ɓeydu. ɓoornu nate moƴƴe e saa'i juulde. 7:31
+- Alla tagi kammuuli e leydi e balɗe jeegom, o toɗɗii dow Arsi (e nder ko haani Joomi Makko). 7:54
+- Ɗaɓɓu Joomi on e teddungal e suuɗde. O yiɗaa ɓeyduɓe. 7:55
+- Woto on bonnu leydi ndi, caggal nde feewnaa, e ƴami Mo e kulol e tamɗude. 7:56
+- Kono ɓe mbaɗi ko bonɗi, caggal ɗum tubi, gomɗini, goonga Joomi maa caggal ɗum ko Wuyoowo, Yurmeteeɗo. 7:153
+- Wi' (Muhammad ﷺ): "Yimɓe! Goonga, min ko Nulaaɗo Alla haa e mon fow…" 7:158
+- Inndi (fow) ɓurɗi moƴƴude ko Alla, ndunngu Mo e ɗi, accu ɓe nawrata inɗe Makko… 7:180
+- Kala mo Alla ɗayni, o alaa ardiiɗo; O acca ɓe e ɓayngol maɓɓe. 7:186
+- Ƴiiƴu yaafuya, aamir moƴƴere, ooppu ɗaaɗɓe (woto on leppu ɓe). 7:199
+- Yaaforu woɓɓe bonnere maɓɓe. 7:199
+- Si cukalel Cibriila (Ibliis) meemi ma, ɗaɓɓu heɓde Alla. Goonga, Ko Wumɗo, Annduɗo. 7:200
+- Gomiɗɓe ɓen ko ɓe nde Alla anditaa, ɓerɗe maɓɓe kulata, nde Aayeeje Makko janngane ɓe, ɓe ɓeydoto gomɗinal… 8:2
+- Woto on faal Alla e Nulaaɗo Makko, woto on faal amaanaaji mon (e kala golle Alla yamiri on) e hoore mon. 8:27
+- Si on hulɗii Alla, o wallay on Furqaan (certa ko hakkunde goonga e faal, maa yaltorde e kala caɗeele). 8:29
+- Wurlaaɓe ɓen njoqqa jawdi maɓɓe ngam reenagol (yimɓe) e laawol Alla, ɓe njoqqa ɗum, amma caggal ɗum ɗum wontan ɓe kulol. 8:36
+- Wi' wurlaaɓe ɓen, si ɓe ceetti (wurlaagol), ɓe yaaforoyta ko dogi. Si ɓe lirti, haray laawol ɓe (mbaɗaaɓe) ko adii ɓe ko feƴƴi (bana ko yurma). 8:38
+- Nde on hawri e (nguurndam) keeringam, daror, anditire Alla (e ɗemngal e ɓernde), ngam heɓugol faatu. 8:45
+- Woto on wonu bana ɓe nalti galleeji maɓɓe e mawnugol e hollitagol yimɓe, (reenu) yimɓe e laawol Alla. 8:47
+- Alla luttaa neema o okki yimɓe, haa ɓe luttu ko woni e maɓɓe. 8:53
+- Ɓurɓe bonde e binuwaaɓe e Alla ko wurlaaɓe ɓen. 8:55
+- Alla waɗa giggol e yurmeende hakkunde ɓerɗe gomɗiniɓe ɓen. 8:63
+- Reenu e wallu ɓe ɗaɓɓa dambugol. 9:6
+- Mushrikun'en potaa reende juulirɗe Alla. 9:17
+- Ɓe (wurlaaɓe, Yahuudiyankooɓe e Nasara) ngiɗi paƴƴugol maande Alla (nde Muhammad ﷺ neldaa – Tawhiid lislaam) e kundule maɓɓe, kono Alla faalaa hay huunde si hinaa timminde maande Makko, hay si wurlaaɓe ɓen njiɗaa. 9:32
+- Sadaqaat (Zakaat) ko tan wonande: 1) baaso'en (Fuqara'), 2) ɗuuɗuɓe (Al-Masakin), 3) ɓe gollanaa ɗum, 4) ɓe ɓerɗe maɓɓe njiɗaa Lislaam, 5) ngam accugol maccuɓe, 6) ɓe mari ñamaande, 7) e laawol Alla (Mujaahiduun), e 8) njillotooɗo. 9:60
+- Kala on muñi e teddungal Alla e Nulaaɗo Makko (ﷺ), haray Jahannam wonanii mo, o ngurday e mum pooma. Ko ɗum hersa mawnde. 9:63
+- Munaaftooɓe gorko e debbo, ɓe ɗon e terɗe. Ɓe yejjiti Alla, o yejjiti ɓe. 9:67
+- Geeɗu laaɓal. Teddino horma masjid. 9:108
+- Annabi e gomɗiniɓe ɓen potaa ɗaɓɓude yaafuya Alla ngam Mushrikun'en, hay si ko ɓesngu, caggal nde yanii ɓe goonga ko ɓe yimɓe Liy’a (sabu ɓe maayiri e wurlaagol). 9:113
+- Kone ɓuri bonde e on mo ƴetti goonga e Alla, maa fennu Aayeeje Makko? Goonga, waɗooɓe junuub ɓen heɓaay faatu! 10:17
+- Ɓe rewata ko wonaa Alla, huunde nde bonnataa ɓe, nde neemataa ɓe, ɓe mbi'a: "Ɗum ko sekeeɓe men e Alla." Wi': "On andinay Alla ko O andaani e kammuuli e leydi?" Subhaanalla, O toowii e ko ɓe pawtani Mo! 10:18
+- Njeenaari bonnere ko bonnere nanndunde. 10:27
+- Ndee ko Alla, Joomi mon goonga. Caggal goonga, ko bone woni? Wano ɓe ngartira on? 10:32
+- Ɓuri maɓɓe ko miijo. Goonga, miijo hokkaa goonga. 10:36
+- Goonga! Alla bonnataa yimɓe; kono yimɓe ɓen bonnata hoore maɓɓe. 10:44
+- Andu neema Alla ko ɓuri kala huunde neɗɗo waawi mooɓde maa reende. 10:58
+- Woto on wonu e ɓe fennuɓe Aayeeje Alla, sabu on wonay e ɓe mboori. 10:95
+- Si Alla meemii ma e bone, hay gooto ittataa mo si hinaa Ko Kanko; si O faalii ma e ko moƴƴi, hay gooto ruttataa neema Makko, O ruttina ɗum kala mo O yiɗi e maccuɓe Makko. 10:107
+- Hay binuwaa gooto e leydi ndi, si hinaa Alla jigiri ɗum. O anndi nokku mum e nder mum (e nder ɓernde, nder maande, njim). 11:6
+- Si Men nebnii neɗɗo neema Men, caggal ɗum Men ittii ɗum, goonga o yalta e tama', o wona neema. 11:9
+- Kala on jiɗɗo ngurndan aduna e mawnugol mum, Men okkoyta ɓe njeenaari kuuɗe maɓɓe e mum, ɓe ruttaa. 11:15
+- Men bonnaa ɓe, kono ɓe bonni hoore maɓɓe. Allaaji maɓɓe ɗi ɓe ndunngi ko wonaa Alla, ɗi wallaa ɓe hay huunde, nde yamiroore Joomi maa arii, ɗi ɓeydi ɓe hay huunde si hinaa bonnugol. 11:101
+- Nyannde nde arii, hay muɲɲe yewtataa si hinaa e yamiroore Makko (Alla). Woɓɓe maɓɓe wonay e bone, woɓɓe e neema. 11:105
+- Ɓe ngoni e bone, ɓe ɗon e Liy’a, ɓe ngari e doggol e kullugol. 11:106
+- Ɓe ngurday e mum haa kammuuli e leydi ngurday, si hinaa Joomi maa faalaa. Goonga, Joomi maa ko O waɗata ko O yiɗi. 11:107
+- Ɓe ngoni e neema, ɓe ɗon e Aljanna, ɓe ngurday e mum haa kammuuli e leydi ngurday, si hinaa Joomi maa faalaa, neema anndaa. 11:108
+- Woto on suylu bonooɓe ɓen, ngam Liy’a meema on, on alaa gardiiɗo si hinaa Alla, caggal ɗum on wallataa. 11:113
+- Tindee juulde e ɗiɗi daande ɲalaande, e wakkatiiji jemma (ko juulde 5). Kuuɗe moƴƴe itta kuuɗe bonɗe (junuubuuji tokoosi). 11:114
+- Ko Alla jeyi ko suuɗi e kammuuli e leydi, haa Makko ngartirta kala huunde. 11:123
+- Yamiroore (maa ñaawirde) ko Alla. O yamiri on rewe Mo tan (Tawhiid), ɗum ko diina tiiɗngo, kono ɓuri yimɓe ɓen andaani. 12:40
+- Woto on yoppu tama' e yurmeende Alla. 12:87
+- Ɓuri yimɓe ɓen gomɗinataa, hay si on tammi. 12:103- Ɓuri maɓɓe ɓen gomɗinataa Alla si hinaa e pawtagol (ɓe ko Mushrikun). 12:106
+- Ko (Al-Qur'aan) hinaa konngol feƴƴinaangol, kono ko goonga Defte ɗe Alla (Tawreeta, Injiila e Defte goɗɗe) e feewnugol kala huunde, e ardorde e yurmeende wonande yimɓe ɓe gomɗini. 12:111
+- Alla yaajanta neema kala mo O yiɗi, tata kadi (kala mo O yiɗi). 13:26
+- Anditire Alla e dhikr. Gomiɗɓe Alla ɓen heɓa ɓernde e anditagol Makko. 13:28
+- Gomiɗɓe ɓen, waɗuɓe ko moƴƴi, heɓanay ɓe weltaare e ɓernde. 13:29
+- Ɓe cuɓii ngurndan aduna e dow Aakhira, reenu (yimɓe) e laawol Alla (Lislaam), ɗaɓɓa bonnugol mum – ɓe ɗon e ɗayngol woɗngo. 14:3
+- Wondu e teddungal e welta e rewugol. 14:7
+- Misal wurlaaɓe Joomi maɓɓe, ko kuuɗe maɓɓe ɗen nanditaa e ɓuuri, henndu uɓɓitni ɗum e nder nyannde henndu; ɓe waawataa hay huunde e ko ɓe heɓi. 14:18
+- Alla ruttinoyta gomɗiniɓe ɓen e daande tiiɗnde e aduna (ɓe ngurday e rewugol Alla tan), e Aakhira. 14:27
+- Woto on miiju Alla ko yaha e ko bonooɓe (Mushrikun, bonooɓe, njim) ɓen waɗata, kono O rutta ɓe haa Nyannde gite ɗen ƴiwoya. 14:42
+- Ngam Alla yoɓa kala muɲɲe ko o waɗi. Alla ko dawroowo limngal. 14:51
+- Goonga, Men tagi neɗɗo e leydi neldi, e leydi ɓaleeri luttaandii. 15:26
+- Jinn, Men tagi ɓe ko adii ɗum e yiite wutta. 15:27
+- (Jahannam) mari dame jeeɗiɗi, dammugal kala mari (feccere) junuubooɓe. 15:44
+- O tagi neɗɗo e ndiyam (ɓuuɓri worbe e debbo), ɗum, o (neɗɗo) woni gaɗo feeɗuɗo. 16:4
+- Biraali, O tagani ɗum on; e nder mum woodi wewtu (layyinol), e neema keewɗo, e mum on ɲaama. 16:5
+- (O tagi) puccu, mbulaari e fontan, ngam ronkugol e hoore, e mawnugol. O tagi kadi ko on andaani. 16:8
+- Ko Kanko neldata ndiyam (toɓo) e kammu; e mum on yara, e mum puɗi ɗi on usta biraali mon. 16:10
+- Ko Kanko ronkiniri maayo ngam on ɲaama ɓiɗɗum daneejum (liyyi), e ngam on yaltina ɗum nate ɗe on ɓoornotoo. 16:14
+- O waɗi e leydi ndi fellooye tiiɗe, ngam nde yirbitaa, e maayɗe e laawoli, ngam on hawrondira. 16:15
+- E O Tagirɗo, ko wano On mo tagataa? E on andita? 16:17
+- Si on limmiti neema Alla, on waawataa limmude ɗum. 16:18
+- Alla anndi ko on suuɗata e ko on kollata. 16:19
+- Ɓe (Mushrikun) ndunngata ko wonaa Alla, ɓe tagaali hay huunde, kono ɓe tagaama. 16:20
+- (Ɓe) mayɓe, ngurndan alaa, ɓe andaani nde ɓe wuurtirta. 16:21
+- Kongol Men ngol, nde Men faali huunde, ko Men wi'a nde: "Wuur!" ndee wuurata. 16:40
+- Ɓe peewnii ko bonɗi, ɓe ngonaa e kulol Alla naɓa ɓe e leydi, maa lepte ngaran ɓe to ɓe njaaraani? 16:45
+- Kala ko neema e ko moƴƴi heɓon, ko Alla. Nde bonɗum meemi on, haa Makko on dunngoo. 16:53
+- Caggal nde O itti bonɗum on, ɗum, woɓɓe mon pawtana Joomi maɓɓe (Alla). 16:54
+- E biraali, woodi jannde wonande on. Men yarni on ko woni e nder reedu maɓɓe, hakkunde geec e ƴiiƴam, ɓiɗɗum laaɓuɗum, heewuɗo weltaade yarnooɓe. 16:66
+- Woto on waɗan Alla misal (sabu hay huunde nanditaa Mo, O nanditaa kadi hay huunde). Alla anndi, kono on andaani. 16:74
+- Andu Alla okki yimɓe nanngugol, yiytugol, hakkille, e giggol, ngam ɓe mboowu. 16:78
+- Reenu nyaamde e hakkille. 16:97
+- Nde on faalaa janngude Al-Qur'aan, ɗaɓɓu heɓde Alla e dow Cibriila (Ibliis) on, riinaaɗo on. 16:98
+- Andu bonnere waɗaande e ngonka, si neɗɗo tubi, feewni, ko yaaforoyta. 16:119
+- Ndunngu (Muhammad ﷺ) yimɓe e laawol Joomi maa (Lislaam) e hakkeejo e wagginoore moƴƴere, fennu ɓe e ko ɓuri moƴƴude. Ndunngugol woɓɓe e laawol Alla, poti waɗeede e hakkeejo e neema. 16:125
+- Alla woni e hulɗuɓe Mo (timminuɓe golle Makko), e waɗuɓe ko moƴƴi. 16:128
+- Al-Qur'aan oo ardii e ko ɓuri tiiɗde e ko ɓuri moƴƴude. 17:9
+- Hay muɲɲe ruttintaa felo goɗɗo. 17:15
+- Kala on jiɗɗo Aakhira, pijtan ngam heɓugol mum pijtugol haanungol, o woni gomɗiɗo, haray ko ɓe pijtugol maɓɓe weltoyta, heɓoyta njeenaari (Alla). 17:19
+- Teddinu jibinaaɓe mon, waɗan ɓe neema. Wondu e jibinaaɓe. Woto on wi'a ɓe konngol bonngol. Joomi maa yamiri on rewe Mo tan, e wonde neema e jibinaaɓe. Si goɗɗo maɓɓe maa ɓe ɗiɗo fow heɓii mawnugol e mon, woto on wi'a ɓe "Uff!", woto on huuwu ɓe, kono yewtu ɓe e teddungal. 17:23
+- Sabbina ngonka maa e maɓɓe, e yurmeende, wi': "Joomi am! Yurmee ɓe, bana ɓe yurmimmi min mi woni tokooso." 17:24
+- Goonga, njoqqotooɓe ɓen ko ɓikkoy Cibriila (Ibliis), Cibriila (Ibliis) ko neema e Joomi mum. 17:27
+- Woto on njoqqu njoqqugol. 17:29
+- Woto on hara ɓiɓɓe mon e hulɓinaare kasanka. 17:31
+- Woto on ɓaddu zina. Reenu horma resndo, reenu zina. 17:32
+- Okku ṭaƴe timmuɗe, nde on ṭaƴata, miijane miija tiiɗa. Ko ɗum ɓuri moƴƴude (e neema), ɓuri moƴƴude e joofnirde. 17:35
+- Woto on jokku (neɗɗo, woto on wi'a, maa waɗa, maa seeda, njim) ko o andaani (wano o wi'i: "Mi yi'ii," o yi'aani, maa "Mi nanii," o nanaani). 17:36
+- Wondu e teddungal, woto on wondu e mawnugol. Woto on yahdu e leydi e mawnugol. Goonga, a waawataa tawtude leydi, maa heɓude fello. 17:37
+- Joomi maa anndi on ɓuri; si O faalaa, O yurmay on; si O faalaa, O leppay on. 17:54
+- Kala on ɗayɗo e aduna (o yi'aani Aayeeje Alla, o gomɗinaani Mo), o ɗayay e Aakhira, o ɓeydoy e ɗayngol. 17:72
+- Reenu juulde saa'iiji. 17:78
+- Goonga, Men feewnii yimɓe, e Al-Qur'aan oo, misal kala, kono ɓuri yimɓe ɓen ko wurlaagol. 17:89
+- Men hollii e Al-Qur'aan oo, ngam yimɓe, misal kala. Kono neɗɗo ko ɓuri kala huunde e haasde. 18:54
+- Ndee ko njeenaari maɓɓe, Jahannam; sabu ɓe wurli, ƴetti Aayeeje Am e Nulaaɓe Am ngam joolnagol e hersagol. 18:106
+- Alla (toowgol Makko) taanaa jibinde ɓiɗɗo (ko ɗum tuumeere Nasaara e Alla, wi'ugol Iisaa ko ɓiɗɗo Alla). Subhaanalla (Toowii O e ko ɓe pawtani Mo). 19:35
+- Yewtu yimɓe e neema. 20:44
+- Dogo e ko moƴƴi. 21:90
+- Reenu konngol mehi. 23:3
+- Reenu gite mon. 23:5
+- Reenu ɓerɗe mon e junuubu. 23:97
+- Yaaforu woɓɓe, fewnu ɓe. 24:22
+- Teddinu suuɗe woɓɓe, tentinii e galleeji maɓɓe. Timminu hakkeeji terɗe. 24:27
+- Jippinu gite mon (gorko e debbo). Reenu gite mon e laaɓal mon. 24:30
+- Wondu e teddungal e ɓoornugol e kuugal. 24:31
+- Andu Alla okki kisal e ɓuttu wonande ɓe rewata Mo, ɓe mbaɗata ko moƴƴi. 24:55
+- Woto on naatu suudu jibinaaɓe mon si on jaɓaa. 24:58
+- Wondu e teddungal e ɓernde. 25:63
+- Reenu seedagol faal e faal. 25:72
+- Pijtan ngam njeenaari Aakhira, kono woto on yejjitu golle aduna. 28:77
+- Woto on ndunngu ko wonaa Alla. 28:88
+- Woto on waɗu jokkondiral worbe (homoseksualité). 29:29
+- Geeɗu e moƴƴugol e golle mon. 29:69
+- Tindee juulde, okku Zakaat. 31:4
+- Aamiru ko moƴƴi, haɗu ko bonɗi. 31:17
+- Reenu teddungal e kuugal mon. Woto on njoqqu waktu e konngol mehi. 31:18
+- Wondu e hakkunde e yahdu, e toowgol kongol mon. 31:19
+- Jokku misal Annabi Muhammad. 33:21
+- Rewɓe ɓen woto hollu maa mawnu nate maɓɓe. 33:33
+- Yewtu goonga e kala sahaa. 33:70
+- Ɗaɓɓu hakkeejo e faamu e miijo. 38:29
+- ɗemngal yamirooje Al-Qur'aan. 39:23
+- Alla yaaforata junuubu fow, nde waɗɗo junuub tubi, arti haa Makko. 39:53
+- Waɗu du'a (dunngu) Alla e ɓernde laaɓunde. 40:60
+- Ruttu bone e ko ɓuri moƴƴude. 41:34
+- Feewnu kuuɗe e njootagol. 42:38
+- Woto on toownu kongol mon dow Annabi. 49:2
+- Reenu suuɗe, reenu faal. 49:6
+- Newnu ɓuttu hakkunde haayɓe. Ɗaɓɓu ɓuttu e haayɓe. 49:9
+- Woto on joolnu woɓɓe. 49:11
+- Reenu miijo. Reenu jiylugol e heyfugol. Woto on heyfu maa tuumu woɓɓe. Reenu heyfugol e tuumugol fow. Woto teddungal addu on e bonnere. 49:12
+- Andu ko hulɓinaare tan ɓornata neɗɗo. Teddinu ceertugol hakkunde yimɓe e pinal. 49:13
+- Teddinu saabooɓe. 51:26
+- Wakkilu e toɗɗeeji mon e Alla. 51:56
+- Njoqqu jawdi mon e sadaqa. 57:7
+- Andu diina alaa rahbaniyya (accugol resndo e neema, wano rahmaanankooɓe, waɗooɓe koolondiral, maa galleeji maɓɓe). 57:27
+- Woto jawdi mon reenu on e anditagol Alla. 58:11
+- Ɓe mari anndal, Alla toowanta ɓe darje. 58:11
+- Gom e ɓe wonaa Lislaam e neema e potal. 60:8
+- Reenu munaafiq e gomɗinal mon e kuuɗe mon. 63:9
+- Reenu nyaamde e hakkille. 64:16
+- Reenu ko Ndewaa ɗum e mon. 73:15
+- Andito Nyannde Ñaawirde. 75:36
+- Aamiru wakkilo e yurmeende. 90:17
+- Ɓe laaɓniri hoore maɓɓe, ɓe faatu; ɓe bonni hoore maɓɓe, ɓe holi. 91:10
+- Woto on ruttu ɗuuɗuɓe, maa on huuwu ɓe. 93:10
+- Ɗaɓɓu anndal e faamu. Janngu Al-Qur'aan, miijo e mum. 96:1–5
+- Kankinir okkugol ɗuuɗuɓe. 107:3
 """;

@@ -3274,4 +3274,280 @@ Matching Phrases 8 words
 - Allah gewährt den Lebensunterhalt großzügig, wem Er will von Seinen Dienern, und bemisst ihn. (اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ) 28:82; 29:62
 - Und ihr werdet zu dem zurückgebracht, der das Verborgene und das Offenbare weiß, und Er wird euch kundtun, was ihr zu tun pflegtet. (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
 - Und die Blutsverwandten sind einander näher gemäß dem Buch Allahs. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
+cmds - Commands, Exhortations, Prohibitions, Instructions
+- fard / wajib (فرض / واجب) — verpflichtend (muss getan werden; Sünde, es zu unterlassen)
+- mustahabb / mandub (مستحب / مندوب) — empfohlen (wird belohnt, wenn getan; keine Sünde, wenn unterlassen)
+- mubah (مباح) — neutral / erlaubt (weder Belohnung noch Sünde)
+- makruh (مكروه) — verpönt / missbilligt (wird nicht empfohlen, aber keine Sünde, wenn getan)
+- haram (حرام) — verboten (Sünde, es zu tun)
+- halal (حلال, erlaubt / rechtmäßig) — umfasst sowohl mubah als auch mustahabb — alles, was nicht verboten ist
+- Betet nur Allah an und sucht Seine Hilfe/Unterstützung. 1:5
+- Betet nur Allah an. 2:21
+- Gebt Allah keine Partner zur Seite. 2:22
+- Allah ist Derjenige, der vergibt (Reue annimmt), Er nahm die Reue Adams (Friede sei mit ihm) an. 2:37
+- Vermischt die Wahrheit nicht mit der Lüge und verheimlicht nicht die Wahrheit. 2:42
+- Verrichtet das Gebet (die täglichen Gebete) und gebt die Zakat (Almosen). 2:43
+- Gebietet anderen das Gute erst, nachdem ihr es selbst praktiziert. 2:44
+- Sucht Allahs Hilfe in allen euren Angelegenheiten. 2:45
+- Begeht keine Korruption und verbreitet sie nicht. 2:60
+- Haltet die Menschen nicht davon ab, zu den Gebetsstätten zu gehen. 2:114
+- Respektiert die Heiligkeit der Moschee. Haltet eure Gebetsstätten sauber und rein. 2:125
+- Gedenkt Allahs (durch Gebet, Lobpreis usw.) und Er wird euer gedenken, und seid Ihm dankbar. 2:152
+- Übt Geduld in Widrigkeiten. 2:153
+- Folgt nicht den Fußstapfen Satans, der ein offensichtlicher Feind ist. 2:168
+- Folgt niemandem blindlings. 2:170
+- Bewahrt und erfüllt alle anvertrauten Pflichten. Erfüllt eure religiösen Pflichten aufrichtig. Erfüllt eure Eide und Bündnisse. Haltet Versprechen ein, insbesondere die, die ihr Allah gegeben habt. Unterstützt die Bedürftigen und erleichtert Schwierigkeiten. Vermeidet es, Sünden zu begehen, die zum Verlust der göttlichen Gunst führen. Lasst nicht zu, dass Stolz euch zur Ungerechtigkeit führt. 2:177
+- In der Wiedervergeltung (dem Gesetz der Gleichheit in der Bestrafung) liegt für euch Leben. 2:179
+- Fastet im Monat Ramadan. Haltet das vorgeschriebene Fasten ein, um Muttaqun (die Gottesfürchtigen) zu werden. 2:183
+- Respektiert den Koran als die ultimative Quelle der Rechtleitung. 2:185
+- Verzehrt nicht gegenseitig euer Vermögen auf unrechte Weise und bestecht nicht die Richter (bevor ihr eure Fälle vorbringt). 2:188
+- Unterdrückt andere nicht, weder mit Worten noch mit Taten. Führt niemals Krieg als Angreifer, sondern nur zur Verteidigung. 2:190
+- Beschützt die Waisen. Was die Waisen betrifft, geht ehrlich mit ihrem Vermögen um und verzehrt es nicht. 2:220
+- Bereut und bittet Allah um Vergebung. Habt während der Menstruationsperiode keinen Geschlechtsverkehr. Wahrt die Reinheit (sowohl körperlich als auch geistig). 2:222
+- Erfüllt eure Verantwortlichkeiten gegenüber eurer Familie. 2:233
+- Wählt Führer aufgrund ihrer Verdienste. 2:247
+- Es gibt keinen Zwang in der Religion. 2:256
+- Gebt Vermögen für wohltätige Zwecke aus. Seid großzügig sowohl mit Vermögen als auch mit Zeit. 2:261
+- Macht eure Wohltätigkeit nicht durch Prahlerei mit eurer Großzügigkeit zunichte. 2:264
+- Satan droht euch mit Armut und befiehlt euch, Unzucht zu begehen (schlechte Taten, unerlaubten Geschlechtsverkehr, Sünden). 2:268
+- Sucht die Bedürftigen auf und helft ihnen. 2:273
+- Lasst euch nicht auf Wucher ein. Verzehrt kein zinsbringendes Vermögen. Esst keinen Riba (Wucher). 2:275
+- Gebt dem Schuldner mehr Zeit zum Zurückzahlen, wenn er in Schwierigkeiten ist. 2:280
+- Haltet euer Wort bei Geschäftstransaktionen. Seid wahrheitsgemäß in euren finanziellen Angelegenheiten. Handelt mit Integrität in all euren Verpflichtungen. Wenn ihr eine Schuld auf eine bestimmte Zeit eingeht, schreibt sie auf. Nehmt Zeugen, wenn ihr einen Handelsvertrag abschließt. 2:282
+- Bewahrt und erfüllt alle anvertrauten Pflichten. 2:283
+- Glaubt an die offenbarten Bücher und alle Propheten. 2:285
+- Allah fordert von keiner Seele mehr, als sie leisten kann. Sie erhält die Belohnung für das Gute, das sie erworben hat, und die Strafe für das Böse, das sie erworben hat. Gott belastet keinen Menschen über seine Fähigkeiten hinaus; wir sollten das auch nicht tun. Vertraut auf Allahs Plan, selbst in der Not. 2:286
+- Wer seine Bündnisse erfüllt und Allah fürchtet, wahrlich, Allah liebt die Gottesfürchtigen. 3:76
+- Verrichtet die Hadsch (Pilgerfahrt), wenn ihr dazu in der Lage seid. 3:97
+- Spaltet euch nicht. 3:103
+- Gebietet das Rechte und verbietet das Verwerfliche. Fördert die Rechtschaffenheit in eurer Gemeinschaft. Ruft andere zur Erinnerung an Allah auf. 3:104
+- Die Gläubigen sollen ihr Vertrauen auf Allah setzen. 3:122
+- Esst keinen Riba (Wucher). 3:130
+- Gehorcht Allah und Seinem Gesandten, um Barmherzigkeit zu erlangen. 3:132
+- Allah liebt diejenigen, die (auf Allahs Weg – für wohltätige Zwecke, Almosen usw.) in Wohlstand und Not ausgeben, die ihren Zorn unterdrücken und die den Menschen vergeben. 3:134
+- Unterdrückt den Zorn. Kontrolliert euren Zorn. 3:134
+- Vergebt und verzeiht die Fehler anderer. 3:135
+- Seid nicht grob im Reden. Seid geduldig mit denen, die anderer Meinung sind als ihr. 3:159
+- Wenn Allah euch hilft, kann euch niemand besiegen; und wenn Er euch im Stich lässt, wer ist dann nach Ihm, der euch helfen kann? 3:160
+- Jeder wird den Tod schmecken. Und nur am Tag der Auferstehung werdet ihr euren vollen Lohn erhalten. 3:185
+- Denkt tief über die Wunder der Natur und die Erschaffung dieses Universums nach. Wisst, dass Gott das Universum mit Sinn und Zweck erschaffen hat. 3:191
+- Männer und Frauen haben den gleichen Lohn für ihre Taten. 3:195
+- Für diejenigen, die ihren Herrn fürchten, gibt es Gärten (im Paradies), unter denen Bäche fließen; darin werden sie ewig weilen, als eine Bewirtung von Allah. 3:198
+- Strebt immer nach dem Wohlgefallen Allahs in jeder Handlung. 3:200
+- Fürchtet euren Herrn, und (zerschneidet nicht) die Bande der Verwandtschaft. 4:1
+- Gebt den Waisen ihr Vermögen und tauscht nicht (euer Schlechtes) gegen ihr (Gutes) aus; und verzehrt nicht ihr Vermögen (indem ihr es zu eurem hinzufügt). 4:2
+- Gebt den Frauen (die ihr heiratet) ihre Mahr (die obligatorische Brautgabe, die der Ehemann seiner Frau zur Zeit der Hochzeit gibt) mit gutem Herzen. 4:4
+- Wahrt die Rechte der Waisen. 4:6
+- Das Vermögen des Verstorbenen soll unter seinen Familienmitgliedern verteilt werden. Frauen haben das Recht auf Erbschaft. 4:7
+- Verzehrt nicht das Vermögen der Waisen auf unrechte Weise. 4:10
+- Befolgt die Gebote bezüglich der Erbschaft. 4:11
+- Es ist verboten, Frauen gegen ihren Willen zu beerben, und ihr sollt sie nicht hart behandeln. Lebt mit ihnen (den Ehefrauen) auf anständige Weise. Respektiert und wahrt die Rechte der Frauen. Behandelt euren Ehepartner mit Freundlichkeit und Mitgefühl. Behandelt Frauen mit Ehre und Gerechtigkeit. 4:19
+- Heiratet nicht diejenigen, die mit euch blutsverwandt sind. 4:23
+- Tötet euch nicht gegenseitig. Allah ist wahrlich barmherzig zu euch. Verzehrt nicht gegenseitig euer Vermögen auf unrechte Weise. 4:29
+- Wenn ihr die großen Sünden vermeidet, die verboten sind, wird Allah euch (kleine) Sünden vergeben und euch in einen edlen Eingang (das Paradies) eintreten lassen. 4:31
+- Begehrt nicht das, wodurch Allah einige von euch vor anderen bevorzugt hat. Vermeidet Neid und Eifersucht. 4:32
+- Die Männer sind die Beschützer und Versorger der Frauen, weil Allah einige vor anderen bevorzugt hat und weil sie von ihrem Vermögen (für sie) ausgeben. Der Mann ist der Beschützer und Stütze der Familie. 4:34
+- Betet Allah an und gebt Ihm keine Partner zur Seite, seid gut zu den Eltern, Verwandten, Waisen, Bedürftigen, dem Nachbarn, dem Gefährten an eurer Seite, dem Reisenden (dem ihr begegnet) und denen (Sklaven), die eure rechte Hand besitzt. Allah liebt nicht die Hochmütigen und Prahler. Seid gut zu anderen. Erbarmt euch der Schwachen. Wahrt die familiären Bande und ehrt die Verwandten. 4:36
+- Seid nicht geizig. 4:37
+- Allah vergibt nicht, dass Ihm Partner zur Seite gestellt werden, aber Er vergibt, was darunter liegt, wem Er will. 4:48
+- Beneidet andere nicht. 4:54
+- Allah befiehlt euch, die anvertrauten Güter ihren Eigentümern zurückzugeben. Wenn ihr zwischen Menschen richtet, dann richtet mit Gerechtigkeit. 4:58
+- Gehorcht Allah und Seinem Gesandten. Erweist denen, die unter euch Autorität haben, den gebührenden Respekt. 4:59
+- Unterdrückt nicht die Schwachen und Verletzlichen. 4:75
+- Was immer euch an Gutem trifft, ist von Allah; und was immer euch an Bösem trifft, ist von euch selbst. 4:79
+- Wer dem Gesandten (Muhammad ﷺ) gehorcht, hat Allah gehorcht. 4:80
+- Wer für eine gute Sache Fürsprache einlegt, wird einen Teil ihrer Belohnung erhalten; und wer für eine schlechte Sache Fürsprache einlegt, wird einen Teil ihrer Last tragen. 4:85
+- Es steht einem Gläubigen nicht zu, einen Gläubigen zu töten, außer aus Versehen. 4:92
+- Wer vorsätzlich einen Gläubigen tötet, dessen Vergeltung ist die Hölle, darin wird er ewig weilen. Allahs Zorn und Fluch sind auf ihm, und eine gewaltige Strafe ist für ihn bereitet. 4:93
+- Wer (von seiner Heimat) auf Allahs Weg auswandert, wird auf der Erde viele Zufluchtsstätten und Überfluss finden. 4:100
+- Seid pünktlich bei euren Gebeten. 4:103
+- Unterstützt nicht und seid keine Anwälte für diejenigen, die ihre anvertrauten Güter verraten. 4:105
+- Bittet Allah um Vergebung, wahrlich, Allah ist Allvergebend, Barmherzig. 4:106
+- O ihr, die ihr glaubt! Steht fest für die Gerechtigkeit, als Zeugen für Allah, auch wenn es gegen euch selbst oder eure Eltern oder eure Verwandten ist, ob reich oder arm. Verzögert nicht die Gerechtigkeit; handelt sofort, um Unrecht zu korrigieren. 4:135
+- Die Heuchler versuchen, Allah zu betrügen, aber Er betrügt sie. 4:142
+- Die Heuchler werden in der untersten Stufe des Feuers sein; und ihr werdet für sie keinen Helfer finden. 4:145
+- Allah liebt es nicht, dass über das Böse öffentlich gesprochen wird, außer von dem, dem Unrecht widerfahren ist. 4:148
+- Die Gesandten als Überbringer froher Botschaft und als Warner, damit die Menschen nach den Gesandten keinen Beweis gegen Allah haben. 4:165
+- Erfüllt eure Verträge und Versprechen. 5:1
+- Helft einander in Frömmigkeit und Gottesfurcht, und nicht in Sünde und Feindschaft. 5:2
+- Esst nicht verendete Tiere, Blut und Schweinefleisch. 5:3
+- Seid gerecht, lasst euch nicht durch Feindschaft und Hass gegen andere von der Gerechtigkeit abbringen. Seid gerecht. Wisst, dass Gerechtigkeit der Gottesfurcht näher ist. Verzögert nicht die Gerechtigkeit; handelt sofort, um Unrecht zu korrigieren. 5:8
+- Sucht die Mittel, euch Allah zu nähern, und kämpft auf Seinem Weg, so viel ihr könnt. Damit ihr Erfolg habt. 5:35
+- Erfüllt eure Eide und Bündnisse. 5:89
+- Meidet berauschende Getränke und Alkohol. Meidet strikt berauschende Getränke (alle Arten von alkoholischen Getränken), Glücksspiel, Götzen (Steinaltäre) und Pfeile (zum Wahrsagen), die alle ein Gräuel von Satans Werk sind. 5:90
+- Tötet kein Wild, während ihr euch im Zustand der Ihram für die Hadsch oder 'Umra (Pilgerfahrt) befindet. 5:95
+- Fragt nicht nach Dingen, die, wenn sie euch offenbart würden, euch Kummer bereiten könnten. 5:101
+- Beschimpft nicht die Götter der anderen. Beschimpft nicht diejenigen, die sie (die Ungläubigen) anstelle Allahs anbeten, damit sie nicht aus Unwissenheit Allah beschimpfen. 6:108
+- Wenn ihr der Mehrheit derer auf der Erde gehorcht, werden sie euch vom Weg Allahs wegführen. Sie folgen nur Vermutungen, und sie lügen nur. 6:116
+- Lasst (o Menschen) alle Arten von Sünden, offene und geheime. 6:120
+- Esst nicht (o Gläubige) von dem (Fleisch), über dem nicht der Name Allahs ausgesprochen wurde (zum Zeitpunkt des Schlachtens). 6:121
+- Wen Allah leiten will, dem öffnet Er seine Brust für den Islam; und wen Er in die Irre gehen lassen will, dem macht Er seine Brust eng und bedrängt. 6:125
+- Seid maßvoll im Ausgeben und vermeidet Verschwendung. Wahrt die Rechte aller Geschöpfe. 6:141
+- Gebt Allah nichts zur Seite, seid gut zu den Eltern, tötet nicht eure Kinder aus Angst vor Armut, nähert euch nicht den Schandtaten, tötet niemanden, den Allah verboten hat, außer aus gerechtem Grund. 6:151
+- Seid ehrlich; betrügt nicht in euren Geschäften. Nähert euch nicht dem Vermögen der Waise, außer um es zu verbessern, gebt volles Maß und volles Gewicht mit Gerechtigkeit, wenn ihr sprecht, sagt die Wahrheit, auch wenn es einen nahen Verwandten betrifft, und erfüllt den Bund Allahs. 6:152
+- Folgt dem geraden Weg und folgt nicht (anderen) Wegen, denn sie werden euch von Seinem Weg wegführen. 6:153
+- Sag (o Muhammad): "Wahrlich, mein Gebet, mein Opfer, mein Leben und mein Sterben sind für Allah, den Herrn der Welten." 6:162
+- Seid nicht arrogant. 7:13
+- Lasst euch nicht von Satan täuschen. 7:27
+- Sag (o Muhammad): "Mein Herr hat Gerechtigkeit geboten…" 7:29
+- Haltet die von Allah gesetzten Grenzen in allen Dingen ein. Vermeidet Übertretungen in Wort und Tat. Esst und trinkt, aber seid nicht maßlos. Tragt schöne Kleidung während des Gebets. 7:31
+- Allah schuf die Himmel und die Erde in sechs Tagen und setzte Sich dann auf dem Thron fest (auf eine Weise, die Seiner Majestät entspricht). 7:54
+- Ruft euren Herrn in Demut und im Verborgenen an. Er liebt die Übertreter nicht. 7:55
+- Und stiftet kein Unheil auf der Erde, nachdem sie in Ordnung gebracht wurde, und ruft Ihn mit Furcht und Hoffnung an. 7:56
+- Aber diejenigen, die böse Taten begangen und danach bereut und geglaubt haben, wahrlich, dein Herr ist danach Allvergebend und Barmherzig. 7:153
+- Sag (o Muhammad): "O Menschen! Wahrlich, ich bin zu euch allen als Gesandter Allahs geschickt…" 7:158
+- Und (alle) die schönsten Namen gehören Allah, also ruft Ihn damit an, und lasst diejenigen, die Seine Namen verkehrt gebrauchen… 7:180
+- Wen Allah in die Irre gehen lässt, der hat keinen Führer; und Er lässt sie in ihrer Übertretung blind umherirren. 7:186
+- Übe Vergebung, gebiete das Gute und wende dich von den Toren ab (d.h. bestrafe sie nicht). 7:199
+- Vergebt anderen ihre Fehler. 7:199
+- Und wenn dich eine Eingebung von Satan heimsucht, dann suche Zuflucht bei Allah. Er ist wahrlich Allhörend, Allwissend. 7:200
+- Die Gläubigen sind nur diejenigen, deren Herzen sich mit Furcht erfüllen, wenn Allah erwähnt wird, und wenn ihnen Seine Zeichen verlesen werden, vermehren sie ihren Glauben… 8:2
+- Verratet nicht Allah und Seinen Gesandten und verratet nicht wissentlich eure anvertrauten Pflichten (und alle Pflichten, die Allah euch auferlegt hat). 8:27
+- Wenn ihr Allah fürchtet und Ihm gehorcht, wird Er euch eine Unterscheidungsgabe geben (ein Kriterium, um zwischen Wahrheit und Falschheit zu unterscheiden, oder einen Ausweg aus jeder Schwierigkeit). 8:29
+- Diejenigen, die nicht glauben, geben ihr Vermögen aus, um (die Menschen) vom Weg Allahs abzuhalten, und sie werden es weiterhin ausgeben; aber am Ende wird es für sie ein Grund zum Bedauern sein. 8:36
+- Sag denjenigen, die nicht geglaubt haben, wenn sie aufhören (mit ihrem Unglauben), wird ihnen ihre Vergangenheit vergeben. Aber wenn sie (dazu) zurückkehren, dann sind die Beispiele derer (die bestraft wurden) vor ihnen bereits vorausgegangen (als Warnung). 8:38
+- Wenn ihr auf (eine feindliche) Streitmacht trefft, steht standhaft und gedenkt Allahs Namens häufig (mit Zunge und Verstand), damit ihr Erfolg habt. 8:45
+- Seid nicht wie diejenigen, die aus ihren Häusern mit Überheblichkeit und um von den Menschen gesehen zu werden, hinauszogen, und (die Menschen) vom Weg Allahs abhielten. 8:47
+- Allah wird eine Gnade, die Er einem Volk gewährt hat, niemals ändern, bis sie das ändern, was in ihnen selbst ist. 8:53
+- Die schlimmsten Lebewesen bei Allah sind diejenigen, die nicht glauben. 8:55
+- Gott legt Liebe und Zuneigung zwischen die Herzen derer, die an Ihn glauben. 8:63
+- Beschützt und helft denen, die Schutz suchen. 9:6
+- Es steht den Götzendienern nicht zu, Allahs Moscheen zu unterhalten. 9:17
+- Sie (die Ungläubigen, die Juden und die Christen) wollen das Licht Allahs (mit dem Muhammad ﷺ gesandt wurde – islamischer Monotheismus) mit ihrem Mund auslöschen, aber Allah will nichts anderes, als Sein Licht zu vollenden, auch wenn es den Ungläubigen zuwider ist. 9:32
+- Die Almosen (Zakat) sind nur für: 1) die Armen, 2) die Bedürftigen, 3) diejenigen, die sie einziehen, 4) diejenigen, deren Herzen (für den Islam) gewonnen werden sollen, 5) für den Loskauf von Gefangenen, 6) für die Verschuldeten, 7) für den Weg Allahs (für die Kämpfer) und 8) für den Reisenden. 9:60
+- Wer sich Allah und Seinem Gesandten (ﷺ) widersetzt und Feindseligkeit zeigt, für den wird es das Feuer der Hölle geben, darin wird er ewig weilen. Das ist eine große Schmach. 9:63
+- Die Heuchler, Männer und Frauen, sind einer wie der andere. Sie haben Allah vergessen, so hat Er sie vergessen. 9:67
+- Strebt nach Reinheit. Respektiert die Heiligkeit der Moschee. 9:108
+- Es ziemt sich nicht (für den Propheten und die Gläubigen), für die Götzendiener um Vergebung zu bitten, selbst wenn sie Verwandte sind, nachdem ihnen klar geworden ist, dass sie Bewohner der Hölle sind (weil sie im Zustand des Unglaubens gestorben sind). 9:113
+- Wer ist ungerechter als der, der eine Lüge gegen Allah erdichtet oder Seine Zeichen leugnet? Wahrlich, die Übeltäter werden niemals Erfolg haben! 10:17
+- Sie beten anstelle Allahs das an, was ihnen weder schaden noch nützen kann, und sagen: "Diese sind unsere Fürsprecher bei Allah." Sag: "Wollt ihr Allah etwas kundtun, was Er in den Himmeln und auf der Erde nicht weiß?" Gepriesen sei Er, und Er ist erhaben über das, was sie Ihm zur Seite stellen! 10:18
+- Die Vergeltung für eine böse Tat ist eine ihr gleiche böse Tat. 10:27
+- Das ist Allah, euer wahrer Herr. Was gibt es denn nach der Wahrheit außer dem Irrtum? Wie könnt ihr euch also abwenden? 10:32
+- Die meisten von ihnen folgen nur Vermutungen. Wahrlich, Vermutungen können die Wahrheit nicht ersetzen. 10:36
+- Wahrlich! Allah tut den Menschen kein Unrecht; aber die Menschen tun sich selbst Unrecht. 10:44
+- Wisst, dass die Gnade Gottes besser ist als alles, was der Mensch anhäufen oder horten kann. 10:58
+- Seid nicht von denen, die Allahs Zeichen leugnen, denn dann werdet ihr zu den Verlierern gehören. 10:95
+- Wenn Allah euch mit einem Schaden trifft, kann ihn niemand außer Ihm beseitigen; und wenn Er euch Gutes will, kann niemand Seine Gnade zurückweisen, die Er zukommen lässt, wem Er will von Seinen Dienern. 10:107
+- Es gibt kein Lebewesen auf der Erde, dessen Lebensunterhalt nicht von Allah wäre. Und Er kennt seinen Aufenthaltsort und seinen Aufbewahrungsort (im Mutterleib, im Grab usw.). 11:6
+- Wenn Wir den Menschen Barmherzigkeit von Uns kosten lassen und sie ihm dann wieder entziehen, wird er verzweifelt und undankbar. 11:9
+- Wer das irdische Leben und seinen Schmuck begehrt, dem werden Wir ihre Taten darin voll vergelten, und ihnen wird nichts davon gekürzt. 11:15
+- Wir haben ihnen kein Unrecht getan, aber sie haben sich selbst Unrecht getan. Ihre Götter, die sie anstelle Allahs anriefen, nützten ihnen nichts, als der Befehl deines Herrn kam, und sie brachten ihnen nur Verderben. 11:101
+- An dem Tag, an dem es kommt, wird niemand ohne Seine (Allahs) Erlaubnis sprechen. Einige von ihnen werden unglücklich und (andere) glücklich sein. 11:105
+- Was die Unglücklichen betrifft, sie werden im Feuer sein, wo sie seufzen und stöhnen werden. 11:106
+- Sie werden darin ewig weilen, solange die Himmel und die Erde bestehen, außer was dein Herr will. Wahrlich, dein Herr tut, was Er will. 11:107
+- Und die Glücklichen, sie werden im Paradies sein, darin ewig weilen, solange die Himmel und die Erde bestehen, außer was dein Herr will, als eine Gabe ohne Ende. 11:108
+- Neigt nicht zu den Ungerechten, damit euch das Feuer nicht berührt, und ihr keine Beschützer außer Allah habt, und dann werdet ihr nicht unterstützt. 11:113
+- Verrichtet das Gebet zu beiden Enden des Tages und in den Stunden der Nacht (d.h. die 5 täglichen Gebete). Die guten Taten tilgen die schlechten (d.h. kleine Sünden). 11:114
+- Allah gehört das Verborgene der Himmel und der Erde, und zu Ihm kehren alle Angelegenheiten zurück (zur Entscheidung). 11:123
+- Der Befehl (oder das Urteil) gehört nur Allah. Er hat befohlen, dass ihr nur Ihn anbetet (Seinen Monotheismus), das ist die rechte Religion, aber die meisten Menschen wissen es nicht. 12:40
+- Gebt niemals die Hoffnung auf Allahs Barmherzigkeit auf. 12:87
+- Und die meisten Menschen werden nicht glauben, selbst wenn ihr es eifrig wünscht. 12:103
+- Und die meisten von ihnen glauben nicht an Allah, ohne Ihm Partner zur Seite zu stellen (d.h. sie sind Götzendiener). 12:106
+- Es (der Koran) ist keine erdichtete Rede, sondern eine Bestätigung dessen, was vor ihm war (die Thora, das Evangelium und andere Schriften) und eine ausführliche Erklärung von allem und eine Rechtleitung und Barmherzigkeit für Leute, die glauben. 12:111
+- Allah gewährt den Lebensunterhalt im Überfluss, wem Er will, und bemisst ihn (wem Er will). 13:26
+- Gedenkt Allahs oft durch Dhikr. Diejenigen, die an Gott glauben, finden Zufriedenheit im Gedenken an Ihn. 13:28
+- Diejenigen, die glauben und gute Taten tun, erhalten Freude und Seelenfrieden. 13:29
+- Diejenigen, die das irdische Leben dem jenseitigen vorziehen und (die Menschen) vom Weg Allahs (des Islam) abhalten und darin Krummheit suchen – sie sind weit in die Irre gegangen. 14:3
+- Übt Demut und Dankbarkeit im Gebet. 14:7
+- Das Gleichnis derer, die ihren Herrn verleugnen, ist, dass ihre Werke wie Asche sind, über die der Wind an einem stürmischen Tag heftig weht; sie werden nichts von dem, was sie erworben haben, erreichen können. 14:18
+- Allah wird diejenigen, die glauben, mit dem festen Wort im diesseitigen Leben (d.h. sie werden fortfahren, nur Allah anzubeten) und im Jenseits festigen. 14:27
+- Denkt nicht, dass Allah unachtsam ist gegenüber dem, was die Ungerechten (Götzendiener, Unterdrücker usw.) tun, sondern Er gewährt ihnen Aufschub bis zu einem Tag, an dem die Augen vor Entsetzen starren werden. 14:42
+- Damit Allah jeder Seele vergelte, was sie verdient hat. Wahrlich, Allah ist schnell im Abrechnen. 14:51
+- Und wahrlich, Wir schufen den Menschen aus tönendem Ton, aus schwarzem Schlamm, der geformt ist. 15:26
+- Und die Dschinnen schufen Wir zuvor aus dem Feuer des glühenden Windes. 15:27
+- Es (die Hölle) hat sieben Tore; für jedes Tor ist eine (besondere) Klasse von Sündern bestimmt. 15:44
+- Er schuf den Menschen aus einem Tropfen Samen (Gemisch aus männlichem und weiblichem Sekret), und siehe, dieser (Mensch) wird zu einem offenkundigen Widersacher. 16:4
+- Und das Vieh, Er schuf es für euch; in ihm habt ihr Wärme (warme Kleidung) und vielen Nutzen, und davon esst ihr. 16:5
+- Und (Er schuf) Pferde, Maultiere und Esel, damit ihr auf ihnen reitet und als Zierde. Und Er schafft (andere) Dinge, die ihr nicht kennt. 16:8
+- Er ist es, Der vom Himmel Wasser (Regen) herabsendet; davon trinkt ihr, und davon wächst die Vegetation, mit der ihr euer Vieh weidet. 16:10
+- Er ist es, Der euch das Meer dienstbar gemacht hat, damit ihr daraus frisches Fleisch (Fisch) esst und daraus Schmuck hervorbringt, den ihr tragt. 16:14
+- Er hat auf der Erde feste Berge gesetzt, damit sie nicht mit euch wankt, und Flüsse und Wege, damit ihr euch rechtleiten lässt. 16:15
+- Ist denn Der, Der erschafft, gleich dem, der nicht erschafft? Wollt ihr es denn nicht bedenken? 16:17
+- Wenn ihr die Gnaden Allahs aufzählen wolltet, könntet ihr sie nicht zählen. 16:18
+- Allah weiß, was ihr verbergt und was ihr offenlegt. 16:19
+- Diejenigen, die sie (die Götzendiener) anstelle Allahs anrufen, haben nichts erschaffen, sondern sind selbst erschaffen. 16:20
+- (Sie sind) tot, leblos, und sie wissen nicht, wann sie auferweckt werden. 16:21
+- Unser Wort zu einer Sache, wenn Wir sie wollen, ist nur, dass Wir zu ihr sagen: "Sei!" und sie ist. 16:40
+- Fühlen sich diejenigen, die böse Ränke schmieden, sicher davor, dass Allah sie in die Erde versinken lässt, oder dass die Strafe sie von dort her trifft, wo sie es nicht erwarten? 16:45
+- Was immer ihr an Segnungen und guten Dingen habt, es ist von Allah. Wenn euch dann ein Schaden trifft, so schreit ihr zu Ihm um Hilfe. 16:53
+- Wenn Er dann den Schaden von euch genommen hat, siehe, da geben einige von euch ihrem Herrn (Allah) Partner zur Seite. 16:54
+- Im Vieh ist für euch eine Lehre. Wir geben euch von dem zu trinken, was in ihren Mägen ist, zwischen Kot und Blut, reine Milch, bekömmlich für die Trinkenden. 16:66
+- So macht Allah keine Gleichnisse (denn nichts ist Ihm gleich, noch gleicht Er irgendetwas). Wahrlich, Allah weiß, ihr aber wisst nicht. 16:74
+- Wisst, dass Gott den Menschen Gehör, Sehen, Verstand und Gefühle gegeben hat, damit sie dankbar sind. 16:78
+- Vermeidet Gier und Geiz. 16:97
+- Wenn ihr den Koran rezitieren wollt, sucht Zuflucht bei Allah vor Satan, dem Verfluchten. 16:98
+- Wisst, dass ein aus Unwissenheit begangenes Unrecht vergeben wird, wenn die Person bereut und sich bessert. 16:119
+- Ruft (o Muhammad) zum Weg deines Herrn (des Islam) mit Weisheit und schöner Ermahnung auf, und streitet mit ihnen auf die beste Art und Weise. Andere zum Weg Gottes aufzurufen, sollte mit Weisheit und Freundlichkeit geschehen. 16:125
+- Allah ist mit denen, die Ihn fürchten (die ihre Pflicht Ihm gegenüber erfüllen), und mit denen, die Gutes tun. 16:128
+- Dieser Koran leitet zu dem, was am gerechtesten und richtigsten ist. 17:9
+- Niemand wird die Last eines anderen tragen. 17:15
+- Wer das Jenseits begehrt und sich dafür bemüht, mit der ihm gebührenden Mühe, während er gläubig ist, dann werden diese deren Bemühung gewürdigt und belohnt werden (von Allah). 17:19
+- Ehrt eure Eltern und behandelt sie mit Freundlichkeit. Seid fromm gegenüber den Eltern. Sagt kein respektloses Wort zu den Eltern. Und euer Herr hat verfügt, dass ihr nur Ihn anbetet. Und dass ihr zu euren Eltern gütig seid. Wenn einer von ihnen oder beide bei dir das hohe Alter erreichen, so sag nicht zu ihnen "Pfui!" und fahre sie nicht an, sondern sprich ehrerbietig mit ihnen. 17:23
+- Und senke für sie den Flügel der Demut und Barmherzigkeit und sprich: "Mein Herr, erbarme Dich ihrer, wie sie mich aufgezogen haben, als ich klein war." 17:24
+- Wahrlich, die Verschwender sind die Brüder der Satane, und der Satan ist gegenüber seinem Herrn sehr undankbar. 17:27
+- Verschwendet nicht das Geld. 17:29
+- Tötet nicht eure Kinder aus Angst vor Armut. 17:31
+- Begeht keinen Ehebruch. Wahrt die Heiligkeit der Ehe und meidet den Ehebruch. 17:32
+- Gebt volles Maß, wenn ihr messt, und wiegt mit rechter Waage. Das ist besser (vorteilhafter) und besser im Ergebnis. 17:35
+- Folge nicht (o Mensch, d.h. sage nicht, tue nicht oder bezeuge nicht usw.) dem, wovon du kein Wissen hast (z.B. zu sagen: "Ich habe gesehen", obwohl man es nicht gesehen hat, oder "Ich habe gehört", obwohl man es nicht gehört hat). 17:36
+- Seid demütig und seid nicht arrogant. Geht nicht überheblich und eingebildet auf der Erde. Wahrlich, du kannst weder die Erde durchbohren noch die Höhe der Berge erreichen. 17:37
+- Euer Herr kennt euch am besten; wenn Er will, erbarmt Er sich euer, oder wenn Er will, bestraft Er euch. 17:54
+- Wer in dieser Welt blind ist (d.h. Allahs Zeichen nicht sieht und nicht an Ihn glaubt), wird im Jenseits blind sein und noch weiter vom Weg abgeirrt. 17:72
+- Haltet die vorgeschriebenen Gebetszeiten ein. 17:78
+- Wahrlich, Wir haben den Menschen in diesem Koran alle Arten von Gleichnissen dargelegt, aber die meisten Menschen weisen (die Wahrheit) zurück und nehmen nichts an außer dem Unglauben. 17:89
+- Wir haben in diesem Koran für die Menschen alle Arten von Beispielen angeführt. Aber der Mensch ist streitsüchtiger als alles andere. 18:54
+- Ihre Vergeltung wird die Hölle sein; weil sie ungläubig waren und Meine Zeichen und Meine Gesandten zum Spott und Gelächter nahmen. 18:106
+- Es ziemt sich nicht (für Allahs Majestät), dass Er sich ein Kind nimmt (dies bezieht sich auf die Verleumdung der Christen gegen Allah, indem sie sagen, dass Jesus der Sohn Gottes ist). Gepriesen sei Er (und Erhaben ist Er über das, was sie Ihm zur Seite stellen). 19:35
+- Sprecht mit den Menschen mild. 20:44
+- Wetteifert miteinander im Guten. 21:90
+- Meidet unnütze Rede. 23:3
+- Wahrt eure Scham. 23:5
+- Bewahrt euer Herz vor sündhaften Neigungen. 23:97
+- Vergebt anderen und verzeiht ihre Fehler. 24:22
+- Respektiert die Privatsphäre anderer, insbesondere in ihren eigenen Häusern. Erfüllt die Rechte der Nachbarn. 24:27
+- Senkt eure Blicke (sowohl für Männer als auch für Frauen). Wahrt eure Scham und Keuschheit. 24:30
+- Wahrt Bescheidenheit in Kleidung und Verhalten. 24:31
+- Wisst, dass Gott Sicherheit und Frieden denen gewährt, die Ihn anbeten und tugendhaft handeln. 24:55
+- Betretet nicht das Privatzimmer der Eltern ohne Erlaubnis. 24:58
+- Seid bescheiden und demütig. 25:63
+- Vermeidet falsches Zeugnis und Betrug. 25:72
+- Strebt nach der Belohnung im Jenseits, aber vernachlässigt nicht eure Angelegenheiten im Diesseits. 28:77
+- Ruft neben Allah keine andere Gottheit an. 28:88
+- Begeht keine Homosexualität. 29:29
+- Strebt nach Vortrefflichkeit in all euren Bemühungen. 29:69
+- Verrichtet das Gebet und gebt Almosen. 31:4
+- Gebietet das Rechte und verbietet das Verwerfliche. 31:17
+- Vermeidet Arroganz in eurem Verhalten. Verschwendet keine Zeit mit leerem Gerede. 31:18
+- Seid maßvoll in eurem Gang und in der Lautstärke eurer Stimme. 31:19
+- Folgt dem Vorbild des Propheten Muhammad. 33:21
+- Frauen sollten ihre Schönheit und ihren Schmuck nicht zur Schau stellen oder damit prahlen. 33:33
+- Sagt unter allen Umständen die Wahrheit. 33:70
+- Sucht Weisheit und Verständnis durch Nachdenken. 38:29
+- Befolgt die Gebote des Korans. 39:23
+- Gott vergibt alle Sünden, wenn der Sünder bereut und sich Ihm zuwendet. 39:53
+- Verrichtet aufrichtige Du'ā (Bittgebete) zu Allah. 40:60
+- Wehrt das Böse mit dem ab, was besser ist. 41:34
+- Entscheidet Angelegenheiten durch Beratung. 42:38
+- Erhebt eure Stimme nicht über die Stimme des Propheten. 49:2
+- Bewahrt Geheimnisse und vermeidet Verrat. 49:6
+- Fördert den Frieden zwischen den Konfliktparteien. Sucht Versöhnung in Konflikten. 49:9
+- Verspottet andere nicht. 49:11
+- Vermeidet Misstrauen. Vermeidet Spionage und üble Nachrede. Verleumdet und verunglimpft andere nicht. Enthaltet euch aller Formen von übler Nachrede und Verleumdung. Lasst nicht zu, dass Stolz euch zur Ungerechtigkeit führt. 49:12
+- Wisst, dass nur die Gottesfurcht den Menschen edel macht. Respektiert die Unterschiede zwischen Menschen und Kulturen. 49:13
+- Ehrt die Gäste. 51:26
+- Seid euch eurer Pflichten gegenüber Allah bewusst. 51:56
+- Gebt Vermögen für wohltätige Zwecke aus. 57:7
+- Wisst, dass es im Islam kein Mönchtum gibt (Verzicht auf Ehe und Annehmlichkeiten wie Mönche, Nonnen oder andere, die unter religiösen Gelübden leben, oder die Gebäude, in denen sie leben). 57:27
+- Lasst euch nicht von Reichtum von der Erinnerung an Allah ablenken. 58:11
+- Diejenigen, die Wissen haben, werden von Gott einen höheren Rang erhalten. 58:11
+- Behandelt Nicht-Muslime auf freundliche und gerechte Weise. 60:8
+- Vermeidet Heuchelei in euren Überzeugungen und Taten. 63:9
+- Haltet euch fern von Gier und Geiz. 64:16
+- Bewahrt die Offenbarungen, die euch anvertraut wurden. 73:15
+- Gedenkt des Tages des Gerichts. 75:36
+- Gebietet Geduld und Mitgefühl. 90:17
+- Diejenigen, die ihre Seelen läutern, werden Erfolg haben; und diejenigen, die sie verderben, werden scheitern. 91:10
+- Ignoriert und weist die Bedürftigen nicht ab. 93:10
+- Sucht Wissen und Verständnis. Lest den Koran und denkt über ihn nach. 96:1–5
+- Ermutigt dazu, die Armen zu speisen. 107:3
 """;

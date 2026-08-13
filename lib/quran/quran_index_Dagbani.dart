@@ -3200,4 +3200,280 @@ Matching Phrases 8 words
 - Naawuni yεrgirila arzichi n-ti ŋun O bɔra O dabba puuni, ka bɔbri li. (اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ) 28:82; 29:62
 - Yaha! Yi labbu shee n-nyɛ Ŋun mi sɔɣisinli ni din be polo ni, din ni ka O ti tin ya lahibali yi ni daa tumdi shɛli. (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
 - Yaha! Ʒilmadabba, bɛ puuni shɛba n-nyɛ ban mali tarli n-gari taba Naawuni litaafi puuni. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
+cmds - Commands, Exhortations, Prohibitions, Instructions
+- fard / wajib (فرض / واجب) — talahi (di tuya ni bɛ niŋ li; yi di bi niŋ li, di nyɛla taali)
+- mustahabb / mandub (مستحب / مندوب) — bɛ ni piɛli shɛli (di yi niŋ, bɛ ti laara; di yi bi niŋ, taali bi beni)
+- mubah (مباح) — di ni tooi niŋ / bɛ ni saɣi ti shɛli (laara bi beni, taali bi beni)
+- makruh (مكروه) — bɛ ni bi bɔri shɛli (bɛ bi saɣi ti li, amaa di yi niŋ, taali bi beni)
+- haram (حرام) — bɛ ni mɔŋ shɛli (di yi niŋ, di nyɛla taali)
+- halal (حلال, bɛ ni saɣi ti shɛli / di ni tooi niŋ) — di mali mubah mini mustahabb zaa — binshɛɣu kam bɛ ni bi mɔŋ
+- Jεm Naawuni (Allah) ko, ka bɔ O sɔŋsim/hemli. 1:5
+- Jεm Naawuni (Allah) ko. 2:21
+- Di zaŋ Naawuni (Allah) n-ti yini. 2:22
+- Naawuni (Allah) n-nyɛ Chɛmpaŋlana (O deeri tuuba), O deei Adam (عَلَيْهِ ٱلسَّلَامُ) tuuba. 2:37
+- Di zaŋ yεlimaŋli n-gabi ʒiri, bee di sɔɣi yεlimaŋli. 2:42
+- Puhimi jiŋli (adumaa jiŋa), ka ti zaka (sara). 2:43
+- Puhi ninsalinima tuunviεla niŋbu, di yi niŋ ka yi gba niŋ li. 2:44
+- Bɔ Naawuni (Allah) sɔŋsim n-ti yi yεllikam ni. 2:45
+- Di kpuɣi lahiʒibusi tuma, ka di di yoogi. 2:60
+- Di ta yino ninsalinima kpe jεma duu ni. 2:114
+- Wuhiya jεma duu (mɔsiri) maligu. Guli yi jiŋli shee ka di kpe, ka lahi be maligu ni. 2:125
+- Teemi Naawuni (Allah) (ni jiŋli, ni O paɣibu, ni din pahi) ka O yɛn teei ya, ka yi lahi paɣi O. 2:152
+- Niŋ suɣulo ni nambɔɣu. 2:153
+- Di doli Sheetan (Bugulana) napɔna, dama o nyɛla dima din be polo ni. 2:168
+- Di doli ninvuɣu so m-piɛri. 2:170
+- Gu, ka pali daantali kam. Palimi yi adiini tuma ni achiika. Pali yi pɔhi mini yi daam. Pali alikauli, di bahi bahindi Naawuni (Allah) ni yi niŋ shɛli. Sɔŋ ninvuɣu shɛba ban mali haŋkali, ka balgi ʒilɛli. Zomi ni taali shɛŋa din chɛ ka Naawuni niŋda yiri chɛ. Di zaŋ yi aŋa n-ti yi maŋa din nyɛ zualinsi. 2:177
+- Di (Qisaas (aʒabia ni yεlginsim)) puuni mali nyɛvuli n-ti ya. 2:179
+- Noli noli Ramadan suŋ ni. Guli noli noli shɛli bɛ ni zali, domin yi ti leei Muttaqun (wuntizɔriba). 2:183
+- Wuhiya Alkur'aani jilima, ka di nyɛ dolsigu buɣim. 2:185
+- Di di yino daa niya (aalizanda) ni zualinsi, ka di zaŋ shaara n-ti atalia (pɔi ka yi zaŋ yi yɛltɔɣa na). 2:188
+- Di zualinsi ninsalinima zuɣu, yεltɔɣa ni bee tuma ni. Di yi tuya, di kpe tɔbu ni amaa ka di nyɛ zɔri nam ti. 2:190
+- Gu kpibisi. Hali ni kpibisi, tummi ni achiika bɛ daa niya ni, ka di di bɛ daa niya. 2:220
+- Tuubi, ka bɔ Naawuni (Allah) chɛmpaŋ. Di mali paɣaba saɣim ni. Guli kasi (ni dunia mini alizanahi). 2:222
+- Pali yi daŋ ni tuma. 2:233
+- Piimi toondannima ni bɛ ni su shɛli. 2:247
+- Di niŋ timsim adiini ni. 2:256
+- Zaŋ laɣiri zaŋ ti sara. Leemi sara kpeenima, ni laɣiri, ni saha. 2:261
+- Di saɣim yi sara ni yi maŋa ŋmɛhi. 2:264
+- Sheetan (Bugulana) niŋdi ya dima dɛɣu, ka puhiri ya lahiʒibusi tuma (Fahsha' — tuma din be, paɣa mini doo sunsuuni zina, taali). 2:268
+- Bɔ ninvuɣu shɛba ban mali haŋkali, ka sɔŋ ba. 2:273
+- Di kpuɣi anashaara daabilim ni. Di di aalizanda shɛli anashaara ni. Di di Riba (anashaara). 2:275
+- Ti dari lahibali maa saha pam, yi di niŋ ka o bela nambɔɣu ni. 2:280
+- Guli yi yεltɔɣa daabilim ni. Leemi yεlimaŋtali ni yi laɣiri yɛltɔɣa ni. Niŋ achiika yi daam ni yino. Yi yi niŋ daam daabilim ni di saha, sabimi li. Zaŋmi shɛhiranima, yi yi niŋ daabilim daam. 2:282
+- Gu, ka pali daantali kam. 2:283
+- Ti yεlimaŋli ni litaafi shɛŋa bɛ ni siɣisi, ni Annabiyinim zaa. 2:285
+- Naawuni (Allah) bi niŋdi ninvuɣu so talahi ni binshɛɣu din gari o yiko. O yɛn nya o tuunviɛla laara, ka nya o tuunbe talahi. Naawuni bi niŋdi ninvuɣu so talahi ni binshɛɣu din gari o yiko; ka ti gba bi tuya ni ti niŋ li. Zahim Naawuni niya hali ni nambɔɣu ni. 2:286
+- Ninvuɣu so ŋun pali daam, ka zɔri Naawuni (Allah), tɔ! Naawuni (Allah) bɔri wuntizɔriba. 3:76
+- Niŋ Hajji (jiŋli) yi yi ni tooi. 3:97
+- Di woli woli. 3:103
+- Puhi tuunviɛla, ka mɔŋ tuunbe. Sɔŋ yεlimaŋli ni yi tiŋgbani ni. Boli ninsalinima Naawuni (Allah) teebu. 3:104
+- Ninvuɣu shɛba ban ti Naawuni (Allah) yεlimaŋli, tuya ni bɛ zaŋ bɛ maŋa zaŋ ti Naawuni (Allah). 3:122
+- Di di Riba (anashaara). 3:130
+- Doli Naawuni (Allah) mini O tumo, domin bɛ niŋ ya nambɔɣu. 3:132
+- Naawuni (Allah) bɔri ninvuɣu shɛba ban dihiri (Naawuni soli ni — tuunviɛla, sara, ni din pahi) ni yolsigu ni, ni nambɔɣu ni, ninvuɣu shɛba ban zoondi yiɣiri, ka chɛri ninsalinima da. 3:134
+- Zomi yi yiɣiri. Guli yi yiɣiri. 3:134
+- Chɛm, ka chɛ m-paŋ ninsalinima biɛrim. 3:135
+- Di niŋ bɛrim yεltɔɣa ni. Niŋ suɣulo ni ninvuɣu shɛba ban yi yi maŋa. 3:159
+- Yi di niŋ ka Naawuni (Allah) sɔŋ ya, so n-kani ni tooi di ya; ka O yi chɛn ya, so n-leei lala nyaaŋa ni tooi sɔŋ ya? 3:160
+- Ninvuɣu kam yɛn lam kpibu. Ka Zaandaali (Qiyaamah) zuɣu, bɛ yɛn ti ya yi laara zaa. 3:185
+- Tɛhimi niŋ yεlimaŋli ni dunia yaɣa ni, ni bɔbu ŋɔ. Baŋmi ni Naawuni (Allah) nam dunia ŋɔ ni daliri ni nia. 3:191
+- Doo mini paɣa mali laara yim bɛ tuma zuɣu. 3:195
+- Ninvuɣu shɛba ban zɔri bɛ Duuma, bɛ mali Alizanda yili shɛŋa kulibona ni zori gari di gbinni; bɛ nyɛla ban yɛn ti kpalim di puuni, ka di nyɛ Naawuni (Allah) sani na. 3:198
+- Niŋmi kpaŋ maŋa wumsi Naawuni (Allah) ni yɛdda tuma kam ni. 3:200
+- Zɔmi yi Duuma, ka (di kati) dahimba (dɔɣiriba) biɛɣu. 4:1
+- Zaŋmi kpibisi bɛ arizichi n-ti ba, ka di zaŋ (yi biɛri) n-taɣi bɛ (viɛnyɛla); ka di di bɛ arizichi (ni yi dini). 4:2
+- Zaŋmi paɣaba (yi yi niŋ ba amiliya) bɛ Mahar (amiliya daa shɛli doo ni zaŋ ti paɣa o amiliya saha) ni suhupɛlli. 4:4
+- Gu kpibisi talahi. 4:6
+- Kpiba arizichi ʒɛya ni di kpuɣi ʒi o daŋ ni. Paɣaba mali tarli di puuni. 4:7
+- Di di kpibisi arizichi ni zualinsi. 4:10
+- Doli talahi shɛŋa bɛ ni zali zaŋ chaŋ fali. 4:11
+- Di ni tooi niŋ ka yi di paɣaba bɛ ni bɔri shɛli, ka di niŋ ba barina. ʒini ba (paɣaba) ni viɛnyɛla. Wuhiya, ka guli paɣaba talahi. Niŋmi yi paɣa viɛnyɛla ni nambɔɣu. Niŋmi paɣaba viɛnyɛla ni yεlimaŋli. 4:19
+- Di niŋ amiliya ni yi dɔɣiriba. 4:23
+- Di kuri yino (bee yi kuri yi maŋa). Achiika! Naawuni (Allah) nyɛla Nambɔzɔrikpeeni n-ti ya. Di di yino arizichi ni zualinsi. 4:29
+- Yi yi zomi taali kara din mɔŋ, Naawuni (Allah) yɛn chɛ yi (bihi) taali, ka zaŋ ya kpe Duuma shee (Alizanda). 4:31
+- Di kura Naawuni (Allah) ni tibigi yi shɛba zuɣu. Zomi niŋgbana din nyɛ diɛha. 4:32
+- Doo n-nyɛ paɣaba gbibi, dama Naawuni (Allah) tibigi ba shɛba zuɣu, ka bɛ lahi dihiri (bɛ) ni bɛ arizichi. Doo n-nyɛ daŋ gbibi. 4:34
+- Jεm Naawuni (Allah), ka di zaŋ O n-ti yini, ka niŋ viɛnyɛla n-ti laamba, dɔɣiriba, kpibisi, nandamba, tiŋgbani so ŋun be n-yo, yi zo so ŋun be yi yɔɣu, sochandiba (yi ni kuli shɛba), ni yi nuzaa ni su shɛba (jambannima). Achiika! Naawuni (Allah) bi bɔri ninvuɣu shɛba ban nyɛ aŋanima, ka nyɛ yurimdiba. Niŋmi viɛnyɛla n-ti ninsalinima. Zaŋmi nambɔɣu n-ti dalirinima. Guli dahimba biɛɣu, ka wuhi dɔɣiriba jilima. 4:36
+- Di niŋ biɛm. 4:37
+- Naawuni (Allah) bi chɛri di niŋ ka bɛ zaŋ O n-ti yini, amaa O chɛri din pa di zuɣu n-ti ninvuɣu so O ni bɔra. 4:48
+- Di niŋ diɛha ni ninsalinima. 4:54
+- Naawuni (Allah) puhiri ya ni yi zaŋ daantali n-ti di kpamba. Yi yi niŋ aʒia ninsalinima sunsuuni, niŋmi ni yεlimaŋli. 4:58
+- Doli Naawuni (Allah) mini O tumo. Wuhiya jilima n-ti ninvuɣu shɛba ban su nam yi puuni. 4:59
+- Di zualinsi dalirinima mini ninsalinima shɛba ban mali haŋkali. 4:75
+- Din viɛla kam yi ni nya, di yila Naawuni (Allah) sani na; din be kam yi ni nya, di yila yi maŋa sani na. 4:79
+- Ninvuɣu so ŋun doli Tumo (Muhammad ﷺ), o di Naawuni (Allah). 4:80
+- Ninvuɣu so ŋun niŋ suhi tiɛri ni tuunviɛla, o yɛn nya di laara; ninvuɣu so ŋun niŋ suhi tiɛri ni tuunbe, o yɛn nya di taali. 4:85
+- Di ni tooi niŋ ka ninvuɣu so ŋun ti Naawuni (Allah) yεlimaŋli ku o nyini, naɣila di niŋ la ka o birigi. 4:92
+- Ninvuɣu so ŋun ku ninvuɣu so ŋun ti Naawuni (Allah) yεlimaŋli ni di niya, o sanyoo n-nyɛ buɣum (Jahannam), ka o yɛn kpalim di puuni. Naawuni (Allah) nyɛla Ŋun niŋ o sujee, ka narim o, ka mali aʒaba din galsi n-ti o. 4:93
+- Ninvuɣu so ŋun yi yi o yili (daŋ) Naawuni (Allah) soli ni, o yɛn nya tiŋgbani yini shee pam, ni yolsigu. 4:100
+- Niŋmi jiŋa saha. 4:103
+- Di sɔŋ, ka di leei tiba n-ti ninvuɣu shɛba ban zaŋ bɛ daantali n-niŋ ninvuɣu. 4:105
+- Bɔmi Naawuni (Allah) chɛmpaŋ, achiika! Naawuni (Allah) nyɛla Chɛmpaŋlana, Nambɔzɔrikpeeni. 4:106
+- Yaa yini ninvuɣu shɛba ban ti Naawuni (Allah) yεlimaŋli! Zahimmi yεlimaŋli, ka leei shɛhiranima n-ti Naawuni (Allah), di yi ti niŋ ka di nyɛ yi maŋa zuɣu, bee yi laamba zuɣu, bee yi dɔɣiriba zuɣu, o yi nyɛla bundana bee nandana. Di tiɛhi yεlimaŋli; niŋmi viɛnyɛla yi yi niŋ zaɣisi. 4:135
+- Munaafichinima bɔri ni bɛ niŋ Naawuni (Allah) yɛŋ, ka O gba niŋdi ba yɛŋ. 4:142
+- Munaafichinima nyɛla ban yɛn be buɣum gbinni (dari) puuni; ka di yɛn nya sɔŋda n-ti ba. 4:145
+- Naawuni (Allah) bi bɔri ni bɛ zaŋ tuunbe yɛli polo ni, naɣila ninvuɣu so bɛ ni di o. 4:148
+- (Ti) daa timla Tumo n-ti leei suhupiɛlli tibo, ni valsili, domin ninsalinima di mali daliri shɛli n-ti Naawuni (Allah), Tumo (kandini) nyaaŋa. 4:165
+- Pali yi daam mini yi alikauli. 5:1
+- Sɔŋmi yino ni tuunviɛla mini wuntizɔri, ka di sɔŋ yino ni taali mini dima. 5:2
+- Di di binkɔbiri shɛli din kpi, binkɔbiri ʒim, bee kuruchu nam. 5:3
+- Niŋmi yεlimaŋli, di chɛ ka dima mini sujee zaŋ chaŋ ninsalinima zuɣu chɛ ka yi niŋ yεlimaŋli. Niŋmi yεlimaŋli. Baŋmi ni yεlimaŋli nyɛla din miri wuntizɔri. Di tiɛhi yεlimaŋli; niŋmi viɛnyɛla yi yi niŋ zaɣisi. 5:8
+- Bɔmi soli shɛli din zaŋ ya miri Naawuni (Allah), ka niŋ kpaŋ maŋa O soli ni yi ni tooi shɛm. Domin yi ti di anabi. 5:35
+- Pali yi pɔhi mini yi daam. 5:89
+- Zomi dɔɣiti mini daakɔhim. Zomi ni yεlimaŋli dɔɣiti (daakɔhim balibu kam), paba (laɣibu), Al-Ansab (kuɣa maligu shee), ni Al-Azlam (bɛ ni zaŋ shɛli bɔ anabi) din zaa nyɛ Sheetan (Bugulana) tuma, ka di biɛɣu. 5:90
+- Di kuri binkɔbiri, yi yi bela Ihram ni zaŋ chaŋ Hajji bee 'Umrah (jiŋli). 5:95
+- Di bɔhi binshɛɣu din yi ti yεli ya, di ni tooi niŋ ya nambɔɣu. 5:101
+- Di yɔri ninsalinima buɣa. Di yɔri bɛ (chεfurinim) ni jεmdi shɛŋa ka di pa Naawuni (Allah), domin bɛ ti yɔr Naawuni (Allah) ni ʒilɛli. 6:108
+- Yi yi doli ninsalinima pam ban be tiŋgbani ni, bɛ yɛn sɔŋ ya ka yi yi Naawuni (Allah) soli. Bɛ bi doli shɛli naɣila zahim, ka bɛ bi niŋ shɛli naɣila ʒiri. 6:116
+- Chɛmi (ninsalinima) taali kam, din be polo ni, ni din sɔɣi. 6:120
+- Di di (yi ninvuɣu shɛba ban ti Naawuni (Allah) yεlimaŋli) binkɔbiri shɛli bɛ ni bi zaŋ Naawuni (Allah) yuli na (di kubu saha). 6:121
+- Ninvuɣu so Naawuni (Allah) ni bɔra ni O dolsi o, O yɛn yo o nyɔɣu n-ti Islam; ninvuɣu so O ni bɔra ni O bɔrgi o, O yɛn ti o nyɔɣu bɛlim, ka di niŋ o haŋkali. 6:125
+- Niŋmi diɛma ni yi dihibu, ka zomi barina. Guli binkɔbiri kam talahi. 6:141
+- Di zaŋ Naawuni (Allah) n-ti yini jεma ni, ka niŋ viɛnyɛla n-ti laamba, ka di ku yi bihi ni dima dɛɣu, ka di miri tuunbiɛri, ka di ku ninvuɣu so Naawuni (Allah) ni mɔŋ, naɣila ni yεlimaŋli. 6:151
+- Leemi yεlimaŋtali; di niŋ yino yɛŋ yi daabilim ni. Di miri kpibisi arizichi, naɣila ni din yɛn che ka di viɛli, zaŋmi pia mini siɣili ni yεlimaŋli, yi yi yɛli yεltɔɣa, yεlimi yεlimaŋli, di yi ti niŋ ka o nyɛla dɔɣiriba, ka pali Naawuni (Allah) daam. 6:152
+- Doli soli shɛli din tuhi, ka di doli soli (shɛŋa), dama di yɛn woli ya ka chɛ O soli. 6:153
+- Yεlima (Muhammad ﷺ): "Achiika! N jiŋli, n niɛma, n nyɛvuli, ni n kpibu, di zaa nyɛla Naawuni (Allah) zuɣu, Dunia Duuma." 6:162
+- Di niŋ aŋa. 7:13
+- Di chɛ ka Sheetan (Bugulana) niŋ ya yɛŋ. 7:27
+- Yεlima (Muhammad ﷺ): "N Duuma puhi yεlimaŋli…" 7:29
+- Guli Naawuni (Allah) doli shɛli ni yεllikam. Di kpahi yεli, ni yεltɔɣa, ni tuma. Dimi, ka nyu, amaa di niŋ barina. Zaŋmi yi viɛnyɛla dɔɣiti, yi yi niŋ jiŋli. 7:31
+- Naawuni (Allah) namla sagbana mini tiŋgbani ni dabsa ayopɔin, ka ti nam yoli, O ti du Ahrish (O nam kuɣili) zuɣu (ni soli shɛli din niŋ O jilima). 7:54
+- Boli yi Duuma ni maŋa tibigili, ni sɔɣisinli. O bi bɔri ninvuɣu shɛba ban kpahi. 7:55
+- Ka di saɣim tiŋgbani ni, di yi niŋ ka bɛ niŋ li viɛnyɛla nyaaŋa, ka boli O ni dɛɣu mini tama. 7:56
+- Amaa ninvuɣu shɛba ban niŋ tuunbiɛri, ka tuubi di nyaaŋa, ka ti Naawuni (Allah) yεlimaŋli, achiika! Yi Duuma di nyaaŋa nyɛla Chɛmpaŋlana, Nambɔzɔrikpeeni. 7:153
+- Yεlima (Muhammad ﷺ): "Yaa yini ninsalinima! Achiika! N nyɛla Naawuni (Allah) tumo n-ti ya zaa…" 7:158
+- Naawuni (Allah) mali yuli shɛŋa din viɛli; boli O ni di, ka chɛ ninvuɣu shɛba ban yɛrigiri O yuli… 7:180
+- Ninvuɣu so Naawuni (Allah) ni bɔrgi, so n-kani ni tooi dolsi o; ka O chɛri ba ka bɛ bɔrgi bɛ maŋa ni. 7:186
+- Niŋmi chɛmpaŋ, puhi tuunviɛla, ka sɔŋ ninsalinima shɛba ban bi mi (di niŋ ba aʒaba). 7:199
+- Chɛm, ka chɛ m-paŋ ninsalinima biɛrim. 7:199
+- Yi di niŋ ka Sheetan (Bugulana) yɛli shɛli din niŋ di n-yiɣisi, tɔ! Bɔmi Naawuni (Allah) gbibi. Achiika! O nyɛla Wumda, Baŋda. 7:200
+- Ninvuɣu shɛba ban ti Naawuni (Allah) yεlimaŋli, nyɛla ninvuɣu shɛba ban nyɛvuli ni zɔrisi, bɛ yi ti teei Naawuni (Allah), ka bɛ yi ti karim O aayanima n-ti ba, di pahiri ba di yi ti yεlimaŋli… 8:2
+- Di zaŋ Naawuni (Allah) mini O tumo n-niŋ yɛŋ, ka di lahi zaŋ yi daantali (ni Naawuni (Allah) ni puhi ya shɛli zaa) n-niŋ yɛŋ, ka yi mi. 8:27
+- Yi yi doli, ka zɔri Naawuni (Allah), O yɛn ti ya Furqan (din yɛn ti ya yεlimaŋli mini ʒiri sunsuuni soli, bee yibu shee nambɔɣu kam ni). 8:29
+- Ninvuɣu shɛba ban niŋ chεfuritali, zaŋdi bɛ arizichi, domin bɛ ta ninsalinima chɛ Naawuni (Allah) soli, ka bɛ yɛn ti yiɣisi di dihibu; amaa bahigu, di yɛn ti leei biɛɣu n-ti ba. 8:36
+- Yεlima n-ti ninvuɣu shɛba ban niŋ chεfuritali, yi di niŋ ka bɛ chɛ (bɛ chεfuritali), bɛ yɛn chɛ bɛ din daa pun niŋ. Amaa yi di niŋ ka bɛ labina (di ni), tɔ! Ninvuɣu shɛba ban daa kana pɔi ni ba (bɛ ni niŋ ba aʒaba) shɛhira pun gari. 8:38
+- Yi yi tooi laɣim (dima) toondi, tɔ! Zahimmi yi maligu, ka teemi Naawuni (Allah) yuli pam (ni yi zilima mini yi nyaŋa), domin yi ti di anabi. 8:45
+- Di leemi ninvuɣu shɛba ban yi bɛ yili ni ni aŋa, ka bɛ bohi ninsalinima, ka ta ninsalinima chɛ Naawuni (Allah) soli. 8:47
+- Achiika! Naawuni (Allah) bi taɣiri niɣima shɛli O ni ti ninvuɣu shɛba, hali bɛ ti taɣi bɛ maŋa ni shɛli. 8:53
+- Binkɔbiri din be niŋchi n-nyɛ ninvuɣu shɛba ban niŋ chεfuritali, Naawuni (Allah) sani. 8:55
+- Naawuni (Allah) zaŋdi bɔ, ka lahi mali nyɛli ni yurilim, ninvuɣu shɛba ban ti O yεlimaŋli suhiri sunsuuni. 8:63
+- Gu, ka sɔŋ ninvuɣu shɛba ban bɔ gaŋsibu. 9:6
+- Di tuya ni Mushrikunima (jɛmdiba pam) gu Naawuni (Allah) mɔsiri. 9:17
+- Bɛ (chεfurinim, Yuhuunim mini Kiritabihinima) bɔri ni bɛ zaŋ bɛ noliniŋaya, di Naawuni (Allah) neesim (ni Muhammad ﷺ bɛ ni tim shɛli — Islam Jεma Ko) amaa Naawuni (Allah) bi saɣi ti shɛli naɣila O neesim ti pali, di yi ti niŋ ka chεfurinim je li. 9:32
+- As-Sadaqat (Zaka) nyɛla n-ti: 1) nandamba (Fuqara'), 2) dalirinima (Al-Masakin), 3) ninvuɣu shɛba bɛ ni pi n-ti laɣim li, 4) ninvuɣu shɛba bɛ ni bɔra ni bɛ suhiri zaŋ kpe Islam ni, 5) zaŋ ti jambanima, 6) ninvuɣu shɛba ban mali daam, 7) Naawuni soli ni (Mujahidun), ni 8) sochandiba. 9:60
+- Ninvuɣu so ŋun kuhi Naawuni (Allah) mini O tumo (ﷺ), tɔ! Achiika! Buɣum (Jahannam) bela o zuɣu, ka o yɛn kpalim di puuni. Di nyɛla filiŋ din galsi. 9:63
+- Munaafichinima doo mini paɣa, bɛ nyɛla ban yoli taba. Bɛ tam Naawuni (Allah) yɛla, ka O gba tam ba yɛla. 9:67
+- Niŋmi kpaŋ maŋa ni kasi. Wuhiya mɔsiri jilima. 9:108
+- Di ni tooi niŋ ka Annabi mini ninvuɣu shɛba ban ti Naawuni (Allah) yεlimaŋli, bɔ Naawuni (Allah) chɛmpaŋ n-ti Mushrikunima, di yi ti niŋ ka bɛ nyɛla dɔɣiriba, di yi niŋ ka di ti yi polo ni bɛ nyɛla buɣum (Jahannam) bihi (dama bɛ kpila chεfuritali ni). 9:113
+- Ŋuni n-leei zualindira pa ninvuɣu so ŋun niŋ ʒiri m-pahi Naawuni (Allah) zuɣu, bee ŋun labsi O aayanima ʒiri? Achiika! Ninvuɣu shɛba ban niŋ taali, di yɛn ti nyɛla ban yɛn di nasara! 10:17
+- Bɛ jɛmdi binshɛɣu din pa Naawuni (Allah), ka di bi niŋdi ba barina, ka di bi niŋdi ba anfaani, ka bɛ yɛra: "Ŋɔ nyɛla ti suhitiɛriba Naawuni (Allah) sani." Yεlima: "Di ni bɔŋɔ, yi niŋdi Naawuni (Allah) baŋsim ni binshɛɣu O ni bi mi, sagbana mini tiŋgbani ni?" O nam niŋ kasi, ka O du, ni binshɛɣu kam bɛ ni zaŋ O m-pahi." 10:18
+- Tuunbe sanyoo nyɛla di yi bala. 10:27
+- Lala ka Naawuni (Allah), yi Duuma yεlimaŋli nyɛ. Din nyaaŋa, din pa yεlimaŋli, di ni bɔŋɔ di pa bɔrginsim? Wula ka bɛ ŋmalgi ya? 10:32
+- Bɛ pam bi doli shɛli naɣila zahim. Achiika! Zahim bi tooi zaŋ yεlimaŋli ni shɛli. 10:36
+- Achiika! Naawuni (Allah) bi niŋdi ninsalinima zualinsi shɛli; amaa ninsalinima n-niŋdi bɛ maŋa zualinsi. 10:44
+- Baŋmi ni Naawuni (Allah) pini nyɛla din gari binshɛɣu kam ninvuɣu so ni tooi laɣim. 10:58
+- Di leei ninvuɣu shɛba ban labsi Naawuni (Allah) aayanima ʒiri, dama di yi niŋ lala, yi ti leei ban kɔhi bɛ maŋa. 10:95
+- Yi di niŋ ka Naawuni (Allah) shihi ya ni barina, so n-kani ni tooi yi li naɣila O; yi di niŋ ka O bɔra viɛnyɛla n-ti ya, so n-kani ni tooi ta O pini, O ni zaŋ shɛli n-ti O dabba shɛba O ni bɔra. 10:107
+- Binkɔbiri so n-be tiŋgbani ni, naɣila O (Naawuni (Allah)) su di bindirigu. Ka O mi di yila shee, ni di laɣimbu shee (ni pua ni, ni gbala ni, ni din pahi). 11:6
+- Ti yi ti ninvuɣu so nambɔɣu din yi Ti sani na, ka ti yi li, tɔ! Achiika! O nyɛla ŋun mali tamaha, ka nyɛla ŋun bi paɣiri. 11:9
+- Ninvuɣu so ŋun bɔra Dunia nyɛvuli mini di nachinsi, ti yɛn ti ba bɛ tuma sanyoo di puuni, ka di yɛn ti ba pala. 11:15
+- Ti bi niŋ ba zualinsi, amaa bɛ n-niŋ bɛ maŋa zualinsi. Dinzuɣu, bɛ buɣa shɛŋa bɛ ni daa jɛmdi ka di pa Naawuni (Allah), di bi tooi sɔŋ ba shɛli, yi Duuma zaligu yi ti kana; ka di bi pahi ba shɛli naɣila kɔbiginsim. 11:101
+- Dali shɛli di ni yɛn ti kana, ninvuɣu so di ni tooi yɛli yεltɔɣa, naɣila O (Naawuni (Allah)) ni saɣi ti shɛli. Bɛ shɛba yɛn ti leei niriba (ban mali suhupiɛlli), ka shɛba mi leei ninvuɣu shɛba ban mali suhusiŋ. 11:105
+- Amaa ninvuɣu shɛba ban mali suhusiŋ, bɛ yɛn bela buɣum (Jahannam) ni, ka bɛ mali kum, ni din zuɣu. 11:106
+- Bɛ yɛn kpalim di puuni, sagbana mini tiŋgbani yi ti kpalim, naɣila yi Duuma ni bɔri shɛli. Achiika! Yi Duuma nyɛla Ŋun niŋdi O ni bɔri shɛli. 11:107
+- Amaa ninvuɣu shɛba ban mali suhupiɛlli, bɛ yɛn bela Alizanda ni, ka bɛ yɛn kpalim di puuni, sagbana mini tiŋgbani yi ti kpalim, naɣila yi Duuma ni bɔri shɛli, pini shɛli din bi ŋmaara. 11:108
+- Di sɔŋ zualindiriba, domin buɣum (Jahannam) ti shihi ya, ka yi ka yɛn nya sɔŋda din pa Naawuni (Allah), ka bɛ ti bi lahi sɔŋ ya. 11:113
+- Puhimi jiŋli, dali yɔɣa ayi, ni yuŋ saha shɛŋa (di nyɛla jiŋa anu). Tuunviɛla chɛri tuunbiɛri (bihi taali). 11:114
+- Naawuni (Allah) n-su sagbana mini tiŋgbani din sɔɣi, ka di zaa labina O sani (ni ti niŋ aʒia). 11:123
+- Zaligu (bee aʒia) bi beni naɣila Naawuni (Allah) sani. O puhi ni yi jεm O ko (Jεma Ko), di n-nyɛ adiini shɛli din tuhi, amaa ninsalinima pam bi mi. 12:40
+- Di niŋ tamaha Naawuni (Allah) nambɔɣu ni. 12:87
+- Ka ninsalinima pam bi yɛn ti Naawuni (Allah) yεlimaŋli, di yi ti niŋ ka yi bɔra li pam. 12:103
+- Ka bɛ pam bi ti Naawuni (Allah) yεlimaŋli, naɣila bɛ zaŋdi O m-pahi (di nyɛla bɛ nyɛla Mushrikunima). 12:106
+- Di (Alkur'aani) nyɛla yεltɔɣa din bi niŋ yɛŋ, amaa di nyɛla din ti litaafi shɛŋa din pun be (Attaura, Injiila ni Naawuni (Allah) litaafi shɛŋa) yεlimaŋli, ka di nyɛ binshɛɣu kam kahigibu, ka nyɛ dolsigu, ka nyɛ nambɔɣu n-ti ninvuɣu shɛba ban ti yεlimaŋli. 12:111
+- Naawuni (Allah) yεlgiri bindirigu n-ti ninvuɣu so O ni bɔra, ka chɛri li (n-ti ninvuɣu so O ni bɔra). 13:26
+- Teemi Naawuni (Allah) pam, ni zikiri. Ninvuɣu shɛba ban ti Naawuni (Allah) yεlimaŋli, bɛ nyɛvuli ni tooi zahim ni O teebu. 13:28
+- Ninvuɣu shɛba ban ti Naawuni (Allah) yεlimaŋli, ka niŋ tuunviɛla, bɛ nyɛla ban yɛn ti nya suhupiɛlli, ni nyɛvuli yiɣisim. 13:29
+- Ninvuɣu shɛba ban gahim Dunia nyɛvuli ka zaŋ li n-gari Chiyaama (Akhirah), ka ta ninsalinima chɛ Naawuni (Allah) soli (Islam), ka bɔri li ni din kpɛma — bɛ nyɛla ban be bɔrginsim din niŋ kati. 14:3
+- Niŋmi maŋa tibigili, ka niŋ paɣibu, yi jεma ni. 14:7
+- Ninvuɣu shɛba ban niŋ chεfuritali ni bɛ Duuma, bɛ tuma ŋmanila tɔbu, ka piɛɣu yi mi li ni yεlimaŋli, zaandali shɛli din mali piɛɣu; bɛ di ni tooi nya bɛ ni tum shɛli puuni shɛli. 14:18
+- Naawuni (Allah) yɛn tibigi ninvuɣu shɛba ban ti O yεlimaŋli, ni yεltɔɣa shɛli din tibigi, Dunia (di zuɣu bɛ yɛn ti yiɣisi jɛm O ko), ni Chiyaama (Akhirah). 14:27
+- Di tɛhimi ni Naawuni (Allah) bi mi ninvuɣu shɛba ban niŋ zualinsi (Mushrikunima, zualindiriba, ni din pahi) ni tumdi shɛli, amaa O chɛri ba, hali ti kana Dali shɛli bɛ nimbihi ni yɛn tibigi. 14:42
+- Domin Naawuni (Allah) ti yo ninvuɣu kam o ni tum shɛli sanyoo. Achiika! Naawuni (Allah) nyɛla Ŋun yiriɣisiri laasabu. 14:51
+- Achiika! Ti namla ninsala ni tampiɛɣu din yiri, ni alizali din ziligi. 15:26
+- Ka Alizinnim, Ti daa nam ba pɔi ni, ni buɣum din ka nyuri. 15:27
+- Di (Jahannam) mali dindoli ayopɔin, dindoli kam mali (di balibu) taalinima. 15:44
+- O namla ninsala ni ʒim biŋkum (doo mini paɣa da ni yiri shɛli), ka o (ninsala) ti leei dima din be polo ni. 16:4
+- Ka binkɔbiri, O nam li n-ti ya; di puuni mali neesim (dɔɣiti din mali vuhim), ka lahi mali anfaani pam, ka yi lahi di di puuni. 16:5
+- Ka (O nam) pɔbisi, buŋsi, ni bɛŋsi, domin yi ŋme li, ka di lahi nyɛ nachinsi. Ka O nam din yi yi baŋsim ni. 16:8
+- O n-nyɛ Ŋun siɣisiri kom (sakuli) zuɣusaa; yi nyurdi li, ka di puuni mali tihi, yi ni kuri yi binkɔbiri di zuɣu. 16:10
+- O n-nyɛ Ŋun zaŋ teeku n-ti ya, domin yi di liɛri (zahim) di puuni, ka yi yihi nachinsi shɛŋa din yi ni yi mali. 16:14
+- Ka O zaŋ zoya din tiɣi tiŋgbani ni, di niŋ ka di kpihim ya, ni kulibona, ka lahi mali soli, domin yi ti dolsigu. 16:15
+- Di ni bɔŋɔ, Ŋun namdi, ŋmanila ŋun bi namdi? Di ni bɔŋɔ, yi bi teeri? 16:17
+- Yi yi niŋ niya ni yi kali Naawuni (Allah) niɣima, yi di ni tooi kali li. 16:18
+- Naawuni (Allah) mi yi ni sɔɣi shɛli, ni yi ni yihiri shɛli polo ni. 16:19
+- Ninvuɣu shɛba bɛ (Mushrikunima) ni jɛmdi ka di pa Naawuni (Allah), bɛ bi nam shɛli, amaa bɛ namdila bɛ maŋa. 16:20
+- (Bɛ nyɛla) kpimba, ka bi nyɛ vuhim, ka bi mi saha shɛli bɛ ni yɛn ti yiɣisi ba. 16:21
+- Ti yεltɔɣa n-ti binshɛɣu, Ti yi niŋ niya ni di niŋ, di nyɛla Ti yεli li: "Niŋ!" ka di niŋ. 16:40
+- Di ni bɔŋɔ, ninvuɣu shɛba ban niŋ naa ni zaɣisi, bɛ nyɛla ban yɛn ti niŋ suhusaɣiŋgu, ni Naawuni (Allah) di zaŋ ba n-lubi tiŋgbani ni, bee aʒaba di kaba ni soli shɛli bɛ ni bi mi? 16:45
+- Yi ni mali pini kam, ka di nyɛla Naawuni (Allah) sani na. Di yi niŋ ka barina shihi ya, tɔ! Yi kpa O sani, ka boli O. 16:53
+- Di yi niŋ ka O yi barina maa n-yi yi sani, tɔ! Yi shɛba zaŋdi bɛ Duuma (Naawuni (Allah)) n-ti yini. 16:54
+- Achiika! Binkɔbiri ni mali wumsi n-ti ya. Ti nyurdi ya binshɛɣu din be bɛ puuni, di yi laɣim ni ʒim, ka di nyɛ bihim din niŋ kasi, ka nyɛ din niŋ haŋkali n-ti nyuriba. 16:66
+- Dinzuɣu, di zaŋ Naawuni (Allah) n-tahi binshɛɣu (dama binshɛɣu bi ŋmani O, ka O gba bi ŋmani binshɛɣu). Achiika! Naawuni (Allah) mi, amaa yi bi mi. 16:74
+- Baŋmi ni Naawuni (Allah) ti ninsalinima wumbu, ni nyabu, ni haŋkali, ni nambɔɣu, domin bɛ ti paɣi O. 16:78
+- Zomi niŋgbana din nyɛ diɛha, ni biɛm. 16:97
+- Yi yi bɔra ni yi karim Alkur'aani, tɔ! Bɔmi Naawuni (Allah) gbibi, ka chɛ Sheetan (Bugulana) bɛ ni narim so. 16:98
+- Baŋmi ni tuunbe shɛli bɛ ni niŋ ni ʒilɛli, di yi niŋ ka o tuubi, ka niŋ viɛnyɛla, tɔ! Achiika! Di nyɛla bɛ ni chɛri shɛli. 16:119
+- Boli (Muhammad ﷺ) n-ti yi Duuma soli (Islam) ni yɛm, ni wumbu din viɛli, ka ŋmɛ tɔ ni bɛ ni soli shɛli din gari. Ninsalinima boli Naawuni (Allah) soli, di tuya ni di niŋ ni yɛm, ni maŋa tibigili. 16:125
+- Achiika! Naawuni (Allah) bela ninvuɣu shɛba ban zɔri O (ban guli bɛ talahi n-ti O), ni ninvuɣu shɛba ban nyɛ viɛnylana (Muhsinun). 16:128
+- Alkur'aani ŋɔ dolsi mi ni soli shɛli din tuhi, ka viɛli. 17:9
+- Ninvuɣu so di ni tooi ʒi o nyini taali. 17:15
+- Ninvuɣu so ŋun bɔra Chiyaama (Akhirah), ka niŋ kpaŋ maŋa di zuɣu, ka di nyɛla din niŋ di tu ni o niŋ shɛli, ka o nyɛla ŋun ti Naawuni (Allah) yεlimaŋli, tɔ! Lala ninvuɣu shɛba, bɛ kpaŋ maŋa nyɛla bɛ ni yɛn paɣi shɛli, ka ti ba laara (Naawuni (Allah) sani). 17:19
+- Wuhiya yi laamba jilima, ka niŋ ba viɛnyɛla. Niŋmi yi laamba talahi. Di yɛli ba yεltɔɣa din bi viɛli. Ka yi Duuma zalisi, ni yi jεm O ko. Ka yi niŋ viɛnyɛla n-ti yi laamba. Yi di niŋ ka bɛ yino bee bɛ ayi zaa ti pa yi, di yɛli ba "Bɛ!", ka di kpiɣi ba, amaa yεlimi ba yεltɔɣa shɛli din mali jilima. 17:23
+- Ka tibi yi maŋa n-ti ba, ni nambɔɣu, ka yεli: "N Duuma! Zaŋmi nambɔɣu n-ti ba, kamani bɛ ni daa wumsi ma ni maŋa tibigili, n yi daa nyɛla bil' bila." 17:24
+- Achiika! Ninvuɣu shɛba ban barindi, nyɛla Sheetan (Bugulana) tuzodaba, ka Sheetan (Bugulana) gba nyɛla ŋun bi paɣiri O Duuma. 17:27
+- Di barindi laɣiri. 17:29
+- Di kuri yi bihi ni dima dɛɣu. 17:31
+- Di miri zina. Guli amiliya jilima, ka zomi zina. 17:32
+- Zaŋmi pia (siɣili) pali, yi yi pia, ka zaŋ siɣili din tuhi. Di nyɛla din viɛli (ka mali anfaani), ka di bahigu gba nyɛla din viɛli. 17:35
+- Di doli (ninsala) binshɛɣu din ka baŋsim (kamani ninvuɣu so ŋun yɛra: "N nyala," ka o bi nya, bee "N wuma," ka o bi wum). 17:36
+- Niŋmi maŋa tibigili, ka di niŋ aŋa. Di chani tiŋgbani ni ni aŋa. Achiika! Di ni tooi niŋ ka a ŋmaai tiŋgbani, bee a ti paai zoya zuɣu. 17:37
+- Yi Duuma n-nyɛ Ŋun mi ya; O yi bɔra, O yɛn niŋ ya nambɔɣu; bee O yi bɔra, O yɛn ti ya aʒaba. 17:54
+- Ninvuɣu so ŋun nyɛ ŋun bi nya (Dunia) (di zuɣu o bi nya Naawuni (Allah) aayanima, ka bi ti O yεlimaŋli), o yɛn nyɛla ŋun bi nya Chiyaama (Akhirah), ka lahi bɔrgi soli ni. 17:72
+- Guli jiŋa saha shɛŋa bɛ ni zali. 17:78
+- Achiika! Ti kahigila ninsalinima, Alkur'aani ŋɔ ni, ŋmahinli kam, amaa ninsalinima pam bi saɣi ti (yεlimaŋli) naɣila bɛ niŋ chεfuritali. 17:89
+- Ti zaŋla ŋmahinli kam n-ti ninsalinima, Alkur'aani ŋɔ ni. Amaa! Ninsala nyɛla ŋun kpɛri yεltɔɣa ni gari binshɛɣu kam. 18:54
+- Di (Jahannam) n-nyɛ bɛ sanyoo; dama bɛ niŋ chεfuritali, ka zaŋ N aayanima, ni N tuma leei asara, ka nyɛ din kpɛhi. 18:106
+- Di ni tooi niŋ Naawuni (Allah) (jilima) ni O mali bihi (di nyɛla Kiritabihinima ni yɛri shɛli, ka bɛ yɛra ni Yeesu (Issa) nyɛla Naawuni (Allah) bihi). O nam niŋ kasi (ka du, ni binshɛɣu kam bɛ ni zaŋ O m-pahi). 19:35
+- Yεlima ninsalinima yεltɔɣa din biɛɣu. 20:44
+- Zahimmi yino tuunviɛla niŋbu. 21:90
+- Zomi yεltɔɣa din ka anfaani. 23:3
+- Guli yi maŋa. 23:5
+- Guli yi suhiri, di niŋ ka bɛ mali bɔri shɛli (din nyɛ taali). 23:97
+- Chɛm, ka chɛ m-paŋ ninsalinima biɛrim. 24:22
+- Wuhiya ninsalinima ni sɔɣi shɛli jilima, di bahi bahindi bɛ yiŋsi ni. Pali tiŋgbani so ŋun be n-yo talahi. 24:27
+- Tibigi yi nimbihi (doo mini paɣa). Guli yi maŋa ni yi kasi. 24:30
+- Niŋmi maŋa tibigili, yi dɔɣiti ni, ni yi chani shee. 24:31
+- Baŋmi ni Naawuni (Allah) ti laɣinsim, ka lahi ti suhudoo, n-ti ninvuɣu shɛba ban jεmdi O, ka tumdi tuunviɛla. 24:55
+- Di kpe yi laamba yili, naɣila yi bɔhi ba soli. 24:58
+- Niŋmi maŋa tibigili, ka di niŋ aŋa. 25:63
+- Zomi shɛhira din nyɛ ʒiri, ni yɛŋ. 25:72
+- Niŋmi kpaŋ maŋa n-ti Chiyaama (Akhirah) laara, amaa di tam yi Dunia yɛla. 28:77
+- Di jεm binshɛɣu din pa Naawuni (Allah). 28:88
+- Di miri doo mini doo sunsuuni (lɔɔtabili). 29:29
+- Niŋmi kpaŋ maŋa ni viɛnyɛla, yi kpaŋ maŋa kam ni. 29:69
+- Puhimi jiŋli, ka ti zaka. 31:4
+- Puhi tuunviɛla, ka mɔŋ tuunbe. 31:17
+- Zomi aŋa yi chani ni. Di zaŋ yi saha zaŋ ti yεltɔɣa din ka anfaani. 31:18
+- Niŋmi diɛma yi chani ni, ka balgi yi yεltɔɣa. 31:19
+- Doli Annabi Muhammad ŋmahinli. 33:21
+- Paɣaba di yihiri bɛ nachinsi, ka di lahi niŋdi bɛ maŋa ŋmɛhi. 33:33
+- Yεlimi yεlimaŋli, yi shee kam. 33:70
+- Bɔmi yɛm, ni baŋsim, ni tɛha. 38:29
+- Doli Alkur'aani zaligu. 39:23
+- Achiika! Naawuni (Allah) chɛri taali kam, yi di niŋ ka taalinima tuubi, ka zaŋ bɛ maŋa zaŋ ti O. 39:53
+- Niŋmi du'a (suŋsuŋ) n-ti Naawuni (Allah). 40:60
+- Zaŋmi tuunbe n-ti tuunviɛla. 41:34
+- Niŋmi yɛla ni suhitiɛri. 42:38
+- Di zaŋ yi kukoli n-gari Annabi kukoli. 49:2
+- Guli asharɛ, ka zomi yɛŋ. 49:6
+- Niŋmi laɣinsim n-ti ninvuɣu shɛba ban be biɛɣu ni. Bɔmi maligu, yi yi niŋ biɛɣu ni. 49:9
+- Di kpɛhi ninsalinima. 49:11
+- Zomi zahim (din bi viɛli). Zomi niŋkuna (kpalanzuɣu), ni suhudɔɣibu. Di kpɛhi ninsalinima, ka di lahi yɛri bɛ yɛltɔɣa. Zomi suhudɔɣibu, ni kpɛhigibu balibu kam. Di chɛ ka yi aŋa chɛ ka yi niŋ zualinsi. 49:12
+- Baŋmi ni wuntizɔri n-nyɛ din niŋdi ninvuɣu so jilima. Wuhiya ninsalinima mini bɛ kaya ni taɣada sunsuuni. 49:13
+- Wuhiya saamba jilima. 51:26
+- Niŋmi yi haŋkali ni yi talahi n-ti Naawuni (Allah). 51:56
+- Zaŋmi laɣiri n-ti sara. 57:7
+- Baŋmi ni adiini ni, monks (amiliya chɛbu, ni Dunia viɛnyɛla chɛbu, kamani mɔnknima, nuns, bee ninvuɣu shɛba ban be adiini ni, bee bɛ yiɣisi shɛŋa) bi beni. 57:27
+- Di chɛ ka laɣiri ta yi chɛ Naawuni (Allah) teebu. 58:11
+- Ninvuɣu shɛba ban mali baŋsim, bɛ yɛn ti ba darja din du, Naawuni (Allah) sani. 58:11
+- Niŋmi ninvuɣu shɛba ban pa Musulinnima viɛnyɛla, ka niŋ ba yεlimaŋli. 60:8
+- Zomi munaafichitali yi diini ni, ni yi tuma ni. 63:9
+- Zomi niŋgbana din nyɛ diɛha, ni biɛm. 64:16
+- Guli din siɣisi na, bɛ ni zaŋ shɛli n-ti ya. 73:15
+- Teemi Zaandaali (Qiyaamah). 75:36
+- Puhi suɣulo, ni nambɔɣu. 90:17
+- Ninvuɣu shɛba ban niŋ bɛ maŋa kasi, bɛ nyɛla ban yɛn ti di nasara; ka ninvuɣu shɛba ban saɣim bɛ maŋa, bɛ nyɛla ban yɛn ti kɔhi bɛ maŋa. 91:10
+- Di tam nandamba, ka di zaɣisi ba. 93:10
+- Bɔmi baŋsim, ni haŋkali. Karimmi Alkur'aani, ka tɛhi li. 96:1–5
+- Sɔŋ nandamba dihibu. 107:3
 """;

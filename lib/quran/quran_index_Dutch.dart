@@ -3317,4 +3317,280 @@ Matching Phrases 8 words
 - Allah vergroot de voorziening voor wie Hij wil van Zijn dienaren en beperkt haar. (اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ) 28:82; 29:62
 - En jullie zullen terugkeren tot de Kenner van het onwaarneembare en het waarneembare, en Hij zal jullie vertellen wat jullie plachten te doen. (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
 - En de bloedverwanten zijn nauwer aan elkaar verbonden in het Boek van Allah. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
+cmds - Commands, Exhortations, Prohibitions, Instructions
+- fard / wajib (فرض / واجب) — verplicht (moet gedaan worden; zonde om na te laten)
+- mustahabb / mandub (مستحب / مندوب) — aanbevolen (beloond als gedaan, geen zonde als nagelaten)
+- mubah (مباح) — neutraal / toegestaan (geen beloning of zonde)
+- makruh (مكروه) — afkeurenswaardig (ontmoedigd, maar geen zonde als gedaan)
+- haram (حرام) — verboden (zonde om te doen)
+- halal (حلال, toegestaan / wettig) — omvat zowel mubah als mustahabb — alles wat niet verboden is
+- Aanbid alleen Allah en zoek Zijn hulp/bijstand. 1:5
+- Aanbid alleen Allah. 2:21
+- Ken geen deelgenoten toe aan Allah. 2:22
+- Allah is Degene die vergeeft (berouw aanneemt), Hij aanvaardde het berouw van Adam (vrede zij met hem). 2:37
+- Vermeng de waarheid niet met de leugen en verberg de waarheid niet. 2:42
+- Verricht het gebed (de dagelijkse gebeden) en geef de zakaat (liefdadigheid). 2:43
+- Beveel anderen het goede pas nadat jullie het zelf beoefenen. 2:44
+- Zoek Allahs hulp in al jullie zaken. 2:45
+- Raak niet betrokken bij corruptie en verspreid het niet. 2:60
+- Belet mensen niet om naar plaatsen van aanbidding te gaan. 2:114
+- Eerbiedig de heiligheid van de moskee. Houd jullie gebedsplaatsen schoon en rein. 2:125
+- Gedenk Allah (door te bidden, te loven, enz.) en Hij zal jullie gedenken, en wees dankbaar jegens Hem. 2:152
+- Oefen geduld in tegenspoed. 2:153
+- Volg niet de voetstappen van Satan, die een openlijke vijand is. 2:168
+- Volg niemand blindelings. 2:170
+- Houd alle toevertrouwde zaken na en kom ze na. Vervul jullie religieuze plichten met oprechtheid. Kom jullie eden en verbintenissen na. Houd beloften, vooral die aan Allah gedaan. Steun de behoeftigen en verlicht moeilijkheden. Vermijd het begaan van zonden die tot verlies van goddelijke gunst leiden. Laat trots jullie niet tot onrechtvaardigheid leiden. 2:177
+- In vergelding (de wet van gelijkheid in straf) is er leven voor jullie. 2:179
+- Vast tijdens de maand Ramadan. Onderhoud het voorgeschreven vasten om muttaqun (de godvrezenden) te worden. 2:183
+- Eerbiedig de Koran als de ultieme bron van leiding. 2:185
+- Verteer niet elkaars bezit op onrechtmatige wijze en geef geen steekpenningen aan de rechters (voordat jullie jullie zaken voorleggen). 2:188
+- Onderdruk anderen niet, in woord of daad. Voer nooit oorlog als agressor, maar alleen ter verdediging. 2:190
+- Bescherm de wezen. Wat betreft de wezen, ga eerlijk om met hun bezit en verteer hun bezit niet. 2:220
+- Bekeer je en vraag Allah om vergeving. Heb geen geslachtsgemeenschap tijdens de menstruatieperiode. Houd reinheid (zowel fysiek als spiritueel). 2:222
+- Vervul jullie verantwoordelijkheden jegens jullie familie. 2:233
+- Kies leiders op basis van hun verdiensten. 2:247
+- Er is geen dwang in de religie. 2:256
+- Spendeer rijkdom aan liefdadigheid. Wees vrijgevig in zowel rijkdom als tijd. 2:261
+- Maak jullie liefdadigheid niet ongedaan door te pochen op jullie vrijgevigheid. 2:264
+- Satan dreigt jullie met armoede en beveelt jullie om ontucht te plegen (slechte daden, onwettige geslachtsgemeenschap, zonden). 2:268
+- Zoek de behoeftigen op en help hen. 2:273
+- Houd je niet bezig met woekerrente. Verteer geen rentegevend bezit. Eet geen riba (woekerrente). 2:275
+- Geef de schuldenaar meer tijd om te betalen als hij in moeilijkheden verkeert. 2:280
+- Houd jullie woord in zakelijke transacties. Wees waarheidsgetrouw in jullie financiële zaken. Handel met integriteit in al jullie verbintenissen. Wanneer jullie een schuld voor een bepaalde periode aangaan, schrijf het op. Neem getuigen wanneer jullie een handelscontract sluiten. 2:282
+- Houd alle toevertrouwde zaken na en kom ze na. 2:283
+- Geloof in de geopenbaarde Boeken en alle Profeten. 2:285
+- Allah belast geen persoon boven zijn vermogen. Hij krijgt beloning voor het goede dat hij heeft verdiend, en straf voor het kwade dat hij heeft verdiend. God belast geen mens boven zijn capaciteit; wij moeten dat ook niet doen. Vertrouw op Allahs plan, zelfs in moeilijkheden. 2:286
+- Wie verbintenissen nakomt en Allah vreest, Allah houdt van de godvrezenden. 3:76
+- Verricht de hadj (bedevaart) als jullie daartoe in staat zijn. 3:97
+- Raak niet verdeeld. 3:103
+- Beveel het goede en verbied het kwade. Moedig gerechtigheid aan in jullie gemeenschap. Roep anderen op tot de gedachtenis aan Allah. 3:104
+- De gelovigen moeten hun vertrouwen op Allah stellen. 3:122
+- Eet geen riba (woekerrente). 3:130
+- Gehoorzaam Allah en Zijn Boodschapper opdat jullie genade ontvangen. 3:132
+- Allah houdt van degenen die uitgeven (in de zaak van Allah – liefdadigheid, aalmoezen, enz.) in voorspoed en tegenspoed, die hun woede beheersen en die mensen vergeven. 3:134
+- Beheers jullie woede. Beheers jullie woede. 3:134
+- Vergeef en schenk vergeving voor de fouten van anderen. 3:135
+- Wees niet grof in jullie taal. Wees geduldig met degenen die van jullie verschillen. 3:159
+- Als Allah jullie helpt, kan niemand jullie overwinnen; en als Hij jullie in de steek laat, wie is er dan na Hem die jullie kan helpen? 3:160
+- Iedereen zal de dood proeven. En alleen op de Dag der Opstanding zullen jullie jullie volledige beloning ontvangen. 3:185
+- Denk diep na over de wonderen van de natuur en de schepping van dit universum. Weet dat God het universum met betekenis en doel heeft geschapen. 3:191
+- Mannen en vrouwen hebben gelijke beloning voor hun daden. 3:195
+- Voor degenen die hun Heer vrezen, zijn er tuinen (in het Paradijs) waar rivieren onderdoor stromen; daarin zullen zij eeuwig verblijven, als een onthaal van Allah. 3:198
+- Streef altijd naar het welbehagen van Allah in elke handeling. 3:200
+- Wees godvruchtig jegens jullie Heer, vrees Hem en (verbreek de) familiebanden niet. 4:1
+- Geef de wezen hun bezit en verwissel (het slechte van jullie) niet met (het goede van) hen; en verteer hun bezit niet (door het aan het jouwe toe te voegen). 4:2
+- Geef de vrouwen (met wie jullie trouwen) hun mahr (de verplichte bruidsschat die de man aan zijn vrouw geeft ten tijde van het huwelijk) met een goed hart. 4:4
+- Bescherm de rechten van de wezen. 4:6
+- Het bezit van de overledene moet onder zijn familieleden worden verdeeld. Vrouwen hebben recht op erfenis. 4:7
+- Verteer het bezit van de wezen niet onrechtmatig. 4:10
+- Gehoorzaam de bevelen met betrekking tot de erfenis. 4:11
+- Het is verboden om vrouwen tegen hun wil te erven en jullie mogen hen niet hard behandelen. Leef met hen (de echtgenotes) op een eerbare manier. Respecteer en eerbiedig de rechten van vrouwen. Behandel jullie echtgenote met vriendelijkheid en mededogen. Behandel vrouwen met eer en rechtvaardigheid. 4:19
+- Trouw niet met degenen die bloedverwanten van jullie zijn. 4:23
+- Dood niet elkaar (of jezelf). Allah is waarlijk Barmhartig voor jullie. Verteer niet elkaars bezit op onrechtmatige wijze. 4:29
+- Als jullie de grote zonden vermijden die verboden zijn, dan zal Allah jullie (kleine) zonden vergeven en jullie een eervolle ingang (het Paradijs) doen binnengaan. 4:31
+- Begeer niet datgene waarmee Allah sommigen van jullie boven anderen heeft bevoorrecht. Vermijd afgunst en jaloezie. 4:32
+- Mannen zijn de beschermers en verzorgers van vrouwen, omdat Allah sommigen boven anderen heeft bevoorrecht, en omdat zij van hun middelen (voor hen) besteden. De man is de beschermer en ondersteuner van het gezin. 4:34
+- Aanbid Allah en ken geen deelgenoten aan Hem toe, wees goed voor ouders, familieleden, wezen, behoeftigen, de buurman, de metgezel naast jullie, de reiziger (die jullie ontmoeten), en degenen (slaven) die jullie rechterhand bezit. Allah houdt niet van degenen die trots en opschepperig zijn. Wees goed voor anderen. Toon barmhartigheid aan de zwakken. Onderhoud familiebanden en eer familieleden. 4:36
+- Wees niet gierig. 4:37
+- Allah vergeeft niet dat er deelgenoten aan Hem worden toegekend, maar Hij vergeeft daarnaast wat Hij wil aan wie Hij wil. 4:48
+- Benijd anderen niet. 4:54
+- Allah beveelt jullie om toevertrouwde zaken terug te geven aan hun eigenaars. Wanneer jullie oordelen tussen mensen, oordeel dan met rechtvaardigheid. 4:58
+- Gehoorzaam Allah en Zijn Boodschapper. Toon het verschuldigde respect aan degenen die onder jullie gezag hebben. 4:59
+- Onderdruk de zwakken en kwetsbaren niet. 4:75
+- Wat jullie ook aan goeds overkomt, het is van Allah; en wat jullie aan kwaads overkomt, is van julliezelf. 4:79
+- Wie de Boodschapper (Mohammed ﷺ) gehoorzaamt, heeft Allah gehoorzaamd. 4:80
+- Wie voor een goede zaak bemiddelt, zal een deel van de beloning ervan ontvangen; en wie voor een slechte zaak bemiddelt, zal een deel van de last ervan dragen. 4:85
+- Het is een gelovige niet toegestaan een gelovige te doden, behalve bij vergissing. 4:92
+- Wie opzettelijk een gelovige doodt, zijn vergoeding is de Hel, waarin hij eeuwig zal verblijven. De toorn en vloek van Allah rusten op hem, en een zware straf is voor hem bereid. 4:93
+- Wie (van zijn huis) emigreert op de weg van Allah, zal op aarde vele toevluchtsoorden en overvloed vinden. 4:100
+- Wees stipt in jullie gebeden. 4:103
+- Steun of wees geen pleitbezorger voor degenen die hun toevertrouwde zaken verraden. 4:105
+- Vraag Allah om vergeving, Allah is waarlijk Vergevensgezind, Meest Barmhartig. 4:106
+- O jullie die geloven! Sta stevig voor gerechtigheid, als getuigen van Allah, ook al is het tegen julliezelf, of jullie ouders, of jullie familieleden, of hij rijk of arm is. Stel gerechtigheid niet uit; handel onmiddellijk om onrecht te herstellen. 4:135
+- De huichelaars proberen Allah te bedriegen, maar het is Hij Die hen bedriegt. 4:142
+- De huichelaars zullen in de laagste verdieping van het Vuur zijn; en jullie zullen voor hen geen helper vinden. 4:145
+- Allah houdt er niet van dat er in het openbaar over het kwade wordt gesproken, behalve door degene die onrecht is aangedaan. 4:148
+- De Boodschappers als brengers van goed nieuws en als waarschuwers, opdat de mensheid na de Boodschappers geen argument tegen Allah zou hebben. 4:165
+- Kom jullie contracten en beloften na. 5:1
+- Help elkaar in deugdzaamheid en godsvrucht, en niet in zonde en vijandschap. 5:2
+- Eet geen dood dier, bloed van dieren en varkensvlees. 5:3
+- Wees rechtvaardig, laat vijandschap en haat tegen anderen jullie er niet van weerhouden om rechtvaardig te zijn. Wees rechtvaardig. Weet dat rechtvaardigheid dicht bij godsvrucht is. Stel gerechtigheid niet uit; handel onmiddellijk om onrecht te herstellen. 5:8
+- Zoek de middelen om Allah te naderen en streef op Zijn weg zoveel jullie kunnen. Opdat jullie slagen. 5:35
+- Kom jullie eden en verbintenissen na. 5:89
+- Vermijd bedwelmende middelen en alcohol. Vermijd strikt bedwelmende middelen (alle soorten alcoholische dranken), gokken, afgodsbeelden (stenen altaren) en pijlen (voor het zoeken naar geluk of beslissing), die allemaal een gruwel zijn van Satans handwerk. 5:90
+- Dood geen wild terwijl jullie in de staat van ihram voor de hadj of 'umrah (bedevaart) verkeren. 5:95
+- Vraag niet naar dingen die, als ze jullie duidelijk zouden worden gemaakt, jullie problemen zouden kunnen bezorgen. 5:101
+- Beledig de goden van anderen niet. Beledig niet degenen die zij (de ongelovigen) aanbidden naast Allah, anders zouden zij Allah onwetend kunnen beledigen. 6:108
+- Als jullie de meerderheid van degenen op aarde gehoorzamen, zullen zij jullie van de weg van Allah afleiden. Zij volgen alleen maar vermoedens en zij doen niets anders dan liegen. 6:116
+- Verlaat (o mensheid) alle zonden, openlijk en in het geheim. 6:120
+- Eet niet (o gelovigen) van dat (vlees) waarover de naam van Allah niet is uitgesproken (ten tijde van het slachten). 6:121
+- Wie Allah wil leiden, opent Hij zijn borst voor de Islam; en wie Hij wil doen dwalen, maakt Hij zijn borst benauwd en beklemd. 6:125
+- Wees gematigd in uitgaven en vermijd buitensporigheid. Bescherm de rechten van alle schepselen. 6:141
+- Ken niets in aanbidding toe aan Allah, wees goed en plichtsgetrouw jegens ouders, dood jullie kinderen niet uit angst voor armoede, benader geen schandelijke daden, dood niemand die Allah heeft verboden, behalve om een rechtmatige reden. 6:151
+- Wees eerlijk; bedrieg niet in jullie transacties. Benader het bezit van de wees niet, behalve om het te verbeteren, geef volle maat en vol gewicht met rechtvaardigheid, wanneer jullie spreken, spreek dan de waarheid, zelfs als het een naaste familielid betreft, en kom de Verbintenis met Allah na. 6:152
+- Volg het Rechte Pad en volg geen (andere) wegen, want die zullen jullie van Zijn Weg afscheiden. 6:153
+- Zeg (O Mohammed ﷺ): "Waarlijk, mijn gebed, mijn offer, mijn leven en mijn dood zijn voor Allah, de Heer der werelden." 6:162
+- Wees niet arrogant. 7:13
+- Laat Satan jullie niet misleiden. 7:27
+- Zeg (O Mohammed ﷺ): "Mijn Heer heeft gerechtigheid bevolen…" 7:29
+- Houd de grenzen die Allah heeft gesteld in alle zaken. Vermijd overtreding in woord en daad. Eet en drink, maar wees niet buitensporig. Draag mooie kleding tijdens het gebed. 7:31
+- Allah schiep de hemelen en de aarde in zes dagen, en daarna vestigde Hij Zich op de Troon (op een wijze die Zijn Majesteit betaamt). 7:54
+- Roept jullie Heer aan met nederigheid en in het geheim. Hij houdt niet van de overtreders. 7:55
+- En veroorzaak geen onrust op aarde nadat deze in orde is gebracht, en roep Hem aan met vrees en hoop. 7:56
+- Maar degenen die slechte daden hebben begaan en daarna berouw hebben getoond en geloofden, waarlijk, jullie Heer is daarna Vergevensgezind, Meest Barmhartig. 7:153
+- Zeg (O Mohammed ﷺ): "O mensheid! Waarlijk, ik ben tot jullie allen gezonden als de Boodschapper van Allah…" 7:158
+- En (alle) de Schoonste Namen behoren aan Allah, dus roep Hem daarbij aan, en verlaat degenen die Zijn Namen ontwijden… 7:180
+- Wie Allah laat dwalen, heeft geen leider; en Hij laat hen blindelings ronddwalen in hun overtredingen. 7:186
+- Toon vergeving, beveel het goede en wend je af van de onwetenden (d.w.z. straf hen niet). 7:199
+- Vergeef anderen voor hun fouten. 7:199
+- En als een kwade ingeving van Satan je bereikt, zoek dan toevlucht bij Allah. Hij is waarlijk Alhorend, Alwetend. 7:200
+- De gelovigen zijn alleen degenen die, wanneer Allah wordt genoemd, hun harten met vrees vervuld raken, en wanneer Zijn verzen aan hen worden voorgelezen, hun geloof doen toenemen… 8:2
+- Verraad Allah en Zijn Boodschapper niet, en verraad niet bewust jullie toevertrouwde zaken (en alle plichten die Allah jullie heeft opgedragen). 8:27
+- Als jullie Allah vrezen en gehoorzamen, zal Hij jullie een onderscheidingsvermogen geven (een criterium om onderscheid te maken tussen waarheid en onwaarheid, of een uitweg uit elke moeilijkheid). 8:29
+- Degenen die niet geloven, besteden hun rijkdom om (mensen) van de weg van Allah af te houden, en zij zullen het blijven besteden; maar uiteindelijk zal het voor hen een bron van spijt worden. 8:36
+- Zeg tegen degenen die niet geloven, als zij ophouden (met ongeloof), zullen hun vroegere (zonden) worden vergeven. Maar als zij (daar) toe terugkeren, dan zijn de voorbeelden van degenen (die gestraft werden) vóór hen reeds voorafgegaan (als waarschuwing). 8:38
+- Wanneer jullie een (vijandelijke) macht ontmoeten, sta dan standvastig en gedenk Allah veelvuldig (zowel met de tong als met de geest), opdat jullie succesvol zijn. 8:45
+- Wees niet zoals degenen die met praalzucht en om door de mensen gezien te worden hun huizen verlieten, en (mensen) van de weg van Allah afhielden. 8:47
+- Allah zal een genade die Hij een volk heeft geschonken nooit veranderen, tenzij zij veranderen wat in henzelf is. 8:53
+- De slechtste levende schepselen bij Allah zijn degenen die niet geloven. 8:55
+- God legt liefde en genegenheid tussen de harten van degenen die in Hem geloven. 8:63
+- Bescherm en help degenen die bescherming zoeken. 9:6
+- Het is niet aan de veelgodenaanbidders om de moskeeën van Allah te onderhouden. 9:17
+- Zij (de ongelovigen, de Joden en de Christenen) willen het Licht van Allah (waarmee Mohammed ﷺ is gezonden – Islamitisch monotheïsme) met hun monden uitblussen, maar Allah wil niets anders dan Zijn Licht te voltooien, ook al haten de ongelovigen het. 9:32
+- De liefdadigheidsgaven (zakaat) zijn alleen voor: 1) de armen, 2) de behoeftigen, 3) degenen die zijn aangesteld om ze te innen, 4) degenen wier harten tot de Islam zijn aangetrokken, 5) voor het vrijkopen van gevangenen, 6) voor degenen die in schulden zitten, 7) voor de zaak van Allah (voor de strijders), en 8) voor de reiziger. 9:60
+- Wie zich verzet en vijandigheid toont jegens Allah en Zijn Boodschapper (ﷺ), voor hem is er het Vuur van de Hel, waarin hij eeuwig zal verblijven. Dat is een grote schande. 9:63
+- De huichelaars, mannen en vrouwen, zijn van elkaar. Zij zijn Allah vergeten, dus heeft Hij hen vergeten. 9:67
+- Streef naar zuiverheid. Eerbiedig de heiligheid van de moskee. 9:108
+- Het is niet (voor de Profeet en de gelovigen) om vergeving te vragen voor de veelgodenaanbidders, ook al zijn het familieleden, nadat het hun duidelijk is geworden dat zij bewoners van het Vuur zijn (omdat zij in een staat van ongeloof zijn gestorven). 9:113
+- Wie is er onrechtvaardiger dan degene die een leugen tegen Allah verzint of Zijn tekenen ontkent? Waarlijk, de misdadigers zullen nooit slagen! 10:17
+- Zij aanbidden naast Allah wat hen geen schade kan berokkenen en geen nut kan brengen, en zij zeggen: "Dezen zijn onze bemiddelaars bij Allah." Zeg: "Willen jullie Allah iets vertellen wat Hij niet weet in de hemelen en op de aarde?" Glorie zij Hem en Verheven is Hij boven wat zij aan Hem toekennen! 10:18
+- De vergelding van een kwade daad is een daaraan gelijke kwade daad. 10:27
+- Dat is Allah, jullie ware Heer. Wat is er dan na de waarheid, behalve dwaling? Hoe kunnen jullie je dan afkeren? 10:32
+- De meesten van hen volgen slechts vermoedens. Waarlijk, vermoedens kunnen de waarheid niet vervangen. 10:36
+- Waarlijk! Allah doet de mensen geen onrecht; maar de mensen doen zichzelf onrecht aan. 10:44
+- Weet dat de gunst van God beter is dan alles wat de mens kan vergaren of opslaan. 10:58
+- Wees niet een van degenen die de tekenen van Allah ontkennen, want dan behoor je tot de verliezers. 10:95
+- Als Allah jullie met schade treft, is er niemand die het kan wegnemen behalve Hij; en als Hij jullie iets goeds wil geven, is er niemand die Zijn gunst kan tegenhouden, die Hij laat bereiken wie Hij wil van Zijn dienaren. 10:107
+- Er is geen levend wezen op aarde of zijn onderhoud is van Allah. En Hij kent zijn verblijfplaats en zijn opslagplaats (in de baarmoeder, het graf, enz.). 11:6
+- Als Wij de mens genade van Ons laten proeven en die hem vervolgens ontnemen, waarlijk, dan raakt hij wanhopig en ondankbaar. 11:9
+- Wie het leven van deze wereld en haar pracht wenst, aan hen zullen Wij de volle beloning voor hun daden daarin geven, en er zal hen niets worden verminderd. 11:15
+- Wij hebben hen geen onrecht aangedaan, maar zij hebben zichzelf onrecht aangedaan. Hun goden, die zij naast Allah aanriepen, baatten hen niets toen het bevel van jullie Heer kwam, en zij voegden hen niets toe dan verderf. 11:101
+- Op de Dag dat het komt, zal niemand spreken behalve met Zijn (Allahs) toestemming. Sommigen van hen zullen ongelukkig en (anderen) gelukkig zijn. 11:105
+- Wat de ongelukkigen betreft, zij zullen in het Vuur zijn, waarin zij zuchten en steunen. 11:106
+- Zij zullen er eeuwig in verblijven, zolang de hemelen en de aarde bestaan, behalve zoals jullie Heer wil. Waarlijk, jullie Heer doet wat Hij wil. 11:107
+- En de gelukkigen, zij zullen in het Paradijs zijn, er eeuwig in verblijven, zolang de hemelen en de aarde bestaan, behalve zoals jullie Heer wil, een geschenk zonder einde. 11:108
+- Neig niet naar de onrechtvaardigen, opdat het Vuur jullie niet raakt, en jullie geen beschermers hebben buiten Allah, en jullie dan niet geholpen worden. 11:113
+- Verricht het gebed aan de twee uiteinden van de dag en in de uren van de nacht (d.w.z. de 5 dagelijkse gebeden). De goede daden verdrijven de slechte (d.w.z. kleine zonden). 11:114
+- Aan Allah behoort het Onwaarneembare van de hemelen en de aarde, en tot Hem keren alle zaken terug (voor beslissing). 11:123
+- Het bevel (of oordeel) is alleen aan Allah. Hij heeft bevolen dat jullie alleen Hem aanbidden (Zijn Monotheïsme), dat is de rechte religie, maar de meeste mensen weten het niet. 12:40
+- Geef nooit de hoop op Allahs genade op. 12:87
+- En de meeste mensen zullen niet geloven, ook al verlangen jullie er vurig naar. 12:103
+- En de meesten van hen geloven niet in Allah zonder Hem deelgenoten toe te kennen (d.w.z. zij zijn veelgodenaanbidders). 12:106
+- Het (de Koran) is geen verzinsel, maar een bevestiging van de eerdere Schrift (de Thora, het Evangelie en andere Schriften) en een gedetailleerde uitleg van alles, en een leiding en een genade voor de mensen die geloven. 12:111
+- Allah vergroot het onderhoud voor wie Hij wil, en beperkt het (voor wie Hij wil). 13:26
+- Gedenk Allah vaak door dhikr. Degenen die in God geloven, vinden voldoening in het gedenken van Hem. 13:28
+- Degenen die geloven en goede daden verrichten, krijgen vreugde en gemoedsrust. 13:29
+- Degenen die het leven van deze wereld verkiezen boven het Hiernamaals, en (mensen) van de weg van Allah (de Islam) afhouden en er bochten in zoeken – zij zijn ver afgedwaald. 14:3
+- Oefen nederigheid en dankbaarheid in de aanbidding. 14:7
+- De gelijkenis van degenen die niet in hun Heer geloven, is dat hun werken als as zijn, waar de wind krachtig over blaast op een stormachtige dag; zij zullen niets kunnen bereiken van wat zij hebben verdiend. 14:18
+- Allah zal degenen die geloven bevestigen met het vaste woord in dit leven (d.w.z. zij zullen alleen Allah blijven aanbidden) en in het Hiernamaals. 14:27
+- Denk niet dat Allah onwetend is van wat de onrechtplegers (veelgodenaanbidders, onderdrukkers, enz.) doen, maar Hij geeft hen uitstel tot een Dag waarop de ogen zullen staren van afschuw. 14:42
+- Opdat Allah ieder mens vergeldt naar wat hij heeft verdiend. Allah is waarlijk snel in de afrekening. 14:51
+- En waarlijk, Wij schiepen de mens van klinkende klei, van zwarte modder, veranderd. 15:26
+- En de djinn schiepen Wij daarvoor van de gloed van vuur. 15:27
+- Het (de Hel) heeft zeven poorten, voor elke poort is een (bijzondere) klasse van zondaars bestemd. 15:44
+- Hij schiep de mens uit een druppel zaad (mengsel van mannelijke en vrouwelijke afscheiding), en zie, deze (mens) wordt een openlijke tegenstander. 16:4
+- En het vee, Hij schiep het voor jullie; daarin hebben jullie warmte (warme kleding) en talrijke voordelen, en ervan eten jullie. 16:5
+- En (Hij schiep) paarden, muilezels en ezels, om erop te rijden en als versiering. En Hij schept (andere) dingen die jullie niet kennen. 16:8
+- Hij is het Die water (regen) uit de hemel laat neerdalen; ervan drinken jullie en erdoor groeit de plantengroei waarmee jullie het vee laten grazen. 16:10
+- Hij is het Die de zee (voor jullie) heeft onderworpen, zodat jullie er vers vlees (vis) uit kunnen eten en er sieraden uit kunnen halen om te dragen. 16:14
+- Hij heeft op aarde stevige bergen geplaatst, opdat zij niet met jullie zou schudden, en rivieren en wegen, opdat jullie je laten leiden. 16:15
+- Is Degene Die schept dan als degene die niet schept? Willen jullie dan niet nadenken? 16:17
+- Als jullie de gunsten van Allah zouden tellen, zouden jullie ze nooit kunnen tellen. 16:18
+- Allah weet wat jullie verbergen en wat jullie openbaren. 16:19
+- Degenen die zij (de veelgodenaanbidders) naast Allah aanroepen, hebben niets geschapen, maar zijn zelf geschapen. 16:20
+- (Zij zijn) dood, levenloos, en zij weten niet wanneer zij zullen worden opgewekt. 16:21
+- Ons woord tot een ding, wanneer Wij het willen, is slechts dat Wij ertegen zeggen: "Wees!" en het is. 16:40
+- Voelen degenen die kwade plannen smeden zich veilig dat Allah hen niet in de aarde zal doen wegzinken, of dat de bestraffing hen niet zal treffen van waar zij het niet verwachten? 16:45
+- Wat jullie ook aan zegeningen en goede dingen hebben, het is van Allah. Wanneer jullie dan door tegenspoed worden getroffen, roepen jullie tot Hem om hulp. 16:53
+- Wanneer Hij de tegenspoed van jullie heeft weggenomen, zie, dan kennen sommigen van jullie deelgenoten toe aan hun Heer (Allah). 16:54
+- In het vee is er een les voor jullie. Wij geven jullie te drinken van wat zich in hun buiken bevindt, tussen uitwerpselen en bloed, zuivere melk, aangenaam voor de drinkers. 16:66
+- Dus stel geen gelijkenissen voor Allah (want er is niets aan Hem gelijk, noch lijkt Hij op iets). Waarlijk, Allah weet en jullie weten niet. 16:74
+- Weet dat God de mensheid gehoor, zicht, intelligentie en gevoelens heeft gegeven, opdat zij dankbaar zouden zijn. 16:78
+- Vermijd hebzucht en gierigheid. 16:97
+- Wanneer jullie de Koran willen reciteren, zoek dan toevlucht bij Allah tegen Satan, de verworpene. 16:98
+- Weet dat een onrecht begaan uit onwetendheid wordt vergeven als de persoon berouw toont en zich verbetert. 16:119
+- Roep (O Mohammed ﷺ) op tot de weg van jullie Heer (de Islam) met wijsheid en goede raad, en voer het gesprek met hen op de beste manier. Het uitnodigen van anderen tot de weg van God moet met wijsheid en vriendelijkheid gebeuren. 16:125
+- Allah is met degenen die Hem vrezen (die hun plicht jegens Hem nakomen) en met degenen die goed doen. 16:128
+- Deze Koran leidt naar wat het meest rechtvaardig is. 17:9
+- Niemand kan de last van een ander dragen. 17:15
+- Wie het Hiernamaals wenst en ervoor streeft, met de daarvoor vereiste inspanning, terwijl hij een gelovige is, dan zijn degenen wiens streven zal worden gewaardeerd en beloond (door Allah). 17:19
+- Eer jullie ouders en behandel hen met vriendelijkheid. Wees plichtsgetrouw jegens ouders. Zeg geen enkel respectloos woord tegen ouders. En jullie Heer heeft bevolen dat jullie alleen Hem aanbidden. En dat jullie goed zijn voor jullie ouders. Als een van hen of beiden de ouderdom bereiken in jullie leven, zeg dan niet tegen hen een woord van minachting, en scheld hen niet uit, maar spreek tegen hen met eerbied. 17:23
+- En sla de vleugel van nederigheid en barmhartigheid over hen en zeg: "Mijn Heer! Schenk hun Barmhartigheid, zoals zij mij hebben grootgebracht toen ik klein was." 17:24
+- Waarlijk, verkwisters zijn broeders van de duivels, en de Duivel is ondankbaar jegens zijn Heer. 17:27
+- Geef niet buitensporig geld uit. 17:29
+- Dood jullie kinderen niet uit angst voor armoede. 17:31
+- Pleeg geen overspel. Houd de heiligheid van het huwelijk in ere en vermijd overspel. 17:32
+- Geef volle maat wanneer jullie meten, en weeg met een rechte weegschaal. Dat is beter (voordeliger) en beter in het einde. 17:35
+- Volg niet (o mens, d.w.z. zeg niet, doe niet of getuig niet, enz.) datgene waarvan je geen kennis hebt (bijv. zeggen: "Ik heb gezien," terwijl je het niet hebt gezien, of "Ik heb gehoord," terwijl je het niet hebt gehoord). 17:36
+- Wees nederig en wees niet arrogant. Loop niet op aarde met verwaandheid en arrogatie. Waarlijk, jullie kunnen de aarde niet doordringen en de bergen in hoogte niet evenaren. 17:37
+- Jullie Heer kent jullie het beste; als Hij wil, zal Hij Zich over jullie ontfermen, of als Hij wil, zal Hij jullie straffen. 17:54
+- Wie blind is in deze wereld (d.w.z. Gods tekenen niet ziet en niet in Hem gelooft), zal blind zijn in het Hiernamaals, en nog meer afgedwaald van de Weg. 17:72
+- Houd de voorgeschreven tijden voor het gebed in acht. 17:78
+- Waarlijk, Wij hebben in deze Koran voor de mensheid allerlei gelijkenissen uiteengezet, maar de meeste mensen weigeren (de waarheid te aanvaarden) behalve ongeloof. 17:89
+- Wij hebben in deze Koran allerlei voorbeelden voor de mensheid gegeven. Maar de mens is meer twistziek dan wat ook. 18:54
+- Dat zal hun vergelding zijn, de Hel; omdat zij niet geloofden en Mijn tekenen en Mijn boodschappers met spot en hoon behandelden. 18:106
+- Het betaamt niet (de Majesteit van) Allah dat Hij een kind zou nemen (dit verwijst naar de laster van de christenen tegen Allah, door te zeggen dat Jezus de zoon van God is). Glorie zij Hem (en Verheven is Hij boven wat zij aan Hem toekennen). 19:35
+- Spreek zachtmoedig tot de mensen. 20:44
+- Wedijver met elkaar in het doen van het goede. 21:90
+- Vermijd ijdele praat. 23:3
+- Bewaak jullie kuisheid. 23:5
+- Bescherm jullie hart tegen zondige neigingen. 23:97
+- Vergeef anderen en vergeef hun fouten. 24:22
+- Eerbiedig de privacy van anderen, vooral in hun eigen huizen. Kom de rechten van de buren na. 24:27
+- Houd jullie ogen neergeslagen (zowel voor mannen als voor vrouwen). Bewaak jullie kuisheid en fatsoen. 24:30
+- Betracht bescheidenheid in kleding en gedrag. 24:31
+- Weet dat God veiligheid en vrede schenkt aan degenen die Hem aanbidden en deugdzaam handelen. 24:55
+- Betreed de privévertrekken van jullie ouders niet zonder toestemming. 24:58
+- Wees bescheiden en nederig. 25:63
+- Vermijd valse getuigenis en bedrog. 25:72
+- Streef naar beloning in het Hiernamaals, maar verwaarloos jullie zaken in deze wereld niet. 28:77
+- Roep naast Allah geen andere godheid aan. 28:88
+- Beoefen geen homoseksualiteit. 29:29
+- Streef naar uitmuntendheid in al jullie inspanningen. 29:69
+- Verricht het gebed en geef liefdadigheid. 31:4
+- Beveel het goede en verbied het kwade. 31:17
+- Vermijd arrogantie in jullie gedrag. Verspil geen tijd aan zinloos gepraat. 31:18
+- Wees gematigd in jullie gang en in de luister van jullie stem. 31:19
+- Volg het voorbeeld van de Profeet Mohammed. 33:21
+- Vrouwen mogen hun schoonheid en sieraden niet tentoonstellen of pronken. 33:33
+- Spreek de waarheid onder alle omstandigheden. 33:70
+- Zoek wijsheid en begrip door reflectie. 38:29
+- Gehoorzaam de geboden van de Koran. 39:23
+- God vergeeft alle zonden wanneer de zondaar berouw toont en zich tot Hem wendt. 39:53
+- Verricht oprechte du'ā (smeekbede) tot Allah. 40:60
+- Weer het kwade af met hetgeen beter is. 41:34
+- Beslis zaken door overleg. 42:38
+- Verhef jullie stem niet boven die van de Profeet. 49:2
+- Bewaar geheimen en vermijd verraad. 49:6
+- Bevorder de vrede tussen degenen die in conflict zijn. Zoek verzoening in conflicten. 49:9
+- Bespot anderen niet. 49:11
+- Vermijd wantrouwen. Vermijd spionage en achterklap. Belaster en roddel niet over anderen. Onthoud je van alle vormen van achterklap en laster. Laat trots jullie niet tot onrechtvaardigheid leiden. 49:12
+- Weet dat alleen vroomheid een mens edel maakt. Eerbiedig de verschillen tussen mensen en culturen. 49:13
+- Eer gasten. 51:26
+- Wees je bewust van jullie plichten jegens Allah. 51:56
+- Spendeer rijkdom aan liefdadigheid. 57:7
+- Weet dat er geen monasticisme (afstand doen van het huwelijk en gemakken zoals monniken, nonnen of anderen die onder religieuze geloften leven, of de gebouwen waarin zij wonen) in de religie is. 57:27
+- Laat rijkdom jullie niet afleiden van de gedachtenis aan Allah. 58:11
+- Degenen die kennis hebben, zullen door God een hogere rang krijgen. 58:11
+- Behandel niet-moslims op een vriendelijke en rechtvaardige manier. 60:8
+- Vermijd hypocrisie in jullie overtuigingen en daden. 63:9
+- Blijf weg van hebzucht en gierigheid. 64:16
+- Bewaar de openbaringen die aan jullie zijn toevertrouwd. 73:15
+- Houd de Dag des Oordeels in gedachten. 75:36
+- Beveel geduld en mededogen. 90:17
+- Degenen die hun ziel zuiveren, slagen; en degenen die haar bederven, falen. 91:10
+- Negeer of verstoot de behoeftigen niet. 93:10
+- Zoek kennis en begrip. Lees en reflecteer over de Koran. 96:1–5
+- Moedig aan om de armen te voeden. 107:3
 """;

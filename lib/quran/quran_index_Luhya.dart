@@ -3317,4 +3317,280 @@ Matching Phrases 8 words
 - Nyasaye akhola okhukhwisayo khulupi khubalia ashayile khurula khubakholi be, nende akhukhalisanga okhutali. (اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ) 28:82; 29:62
 - Nende mukhukhalisibwa khurula khu Yesi bikhone bikhali nende bikhone bikhone, mana yaboola khubwo bikhone bwe mukhola. (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
 - Nende bakhasi bosiye, abamu babo ni bali hafi khubalala khubitabu bya Nyasaye. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
+cmds - Commands, Exhortations, Prohibitions, Instructions
+- fard / wajib (فرض / واجب) — nikakhasa (khukhwalwa; okhulekha nikhusambi)
+- mustahabb / mandub (مستحب / مندوب) — nikhuhendebwa (khufwanwa nikhukhola, si sambi okhulekha)
+- mubah (مباح) — neyutirali / okhulekhwa (ta khufwanwa no ta sambi)
+- makruh (مكروه) — okhusuubwa (ta khubakhasa, butsi ni sambi okhukhola)
+- haram (حرام) — okhukhaywa (okhukhola ni sambi)
+- halal (حلال, okhulekhwa / okhukhasa) — khukhwikhalira mubah ne mustahabb — buli shitundu esitakhaywe
+- Sinza Nyasaye (Allah) okhayila, ne okhusaba obuyambi/obusiosi Bwenyene. 1:5
+- Sinza Nyasaye okhayila. 2:21
+- Nao mukhalele Nyasaye Omukhocha. 2:22
+- Nyasaye (Allah) niye Omulekelesi (akhayila okhwenya), Yakhayila okhwenya khwa Adam (عَلَيْهِ ٱلسَّلَامُ). 2:37
+- Nao musangisye omukali nende obukali, ne nao musile omukali. 2:42
+- Mwene Sala (khotela khwa buli ndu), ne mwene Zakat (okhufwana). 2:43
+- Mwakhaye abandi okhukhala obulayi mbutsi mwakhola mwene. 2:44
+- Saba obuyambi bwa Nyasaye (Allah) mubikolwa bioni. 2:45
+- Nao mwikhalenga mububii ne nao mububunyisie. 2:60
+- Nao mubakhaye Abandu okhutsia khushinza. 2:114
+- Muwanyise okhutakasa khwa musikiti. Mukhole ebikhalo byenyu ebyo khotela bitakatifu. 2:125
+- Mukhwibuke Nyasaye (Allah) (ne khotela, ne okhushinza, nende tsimbaba) naye alibakhwibukha, ne mukhwimukhe. 2:152
+- Mwihile inyanga musie. 2:153
+- Nao mulole Shetani (Satani) omuloli wabweene. 2:168
+- Nao mulole munda wa mundu okhayila. 2:170
+- Mukhwele amaani ni okhukhola amani. Khola emikhoyo khenywe khwokhusinza nende omwoyo omulayi. Khola ebyokhulapa ni tsindakano. Khola tsindakano, nanyala tsia Nyasaye (Allah). Wasa Abandu abakhwaba obuyambi ne okhukhalisya obubii. Wila ebyo byosi ebikhulisa okhukhaliswa khwokhukholwa ni Nyasaye. Nao muleke omwene okhubatsia mubutabera. 2:177
+- Khukisaasira (Amalako khe okhukhwana khukhukhana) muli obulamu. 2:179
+- Mwena okhwasia khu mwezi khwa Ramadhan. Khola okhwasia okhulondakho okhuba Abatakwa (abakhali). 2:183
+- Muwanyise Kurani nga buli shina shia okhukhonga. 2:185
+- Nao mubile emili khia bandu ta, ne nao muhe ebindu abalemi. 2:188
+- Nao mubakhaye abandi, ne mubibono ne mubikhola. Nao mulwa ta nga mubasa, halali nga mwikhwinya. 2:190
+- Mwene Abana abakhali. Khubwene Abana abakhali, khola obulayi khu mili kiawe ne nao mubile. 2:220
+- Mwenye ne mwene okhulekelesia khwa Nyasaye. Nao mukhole esikhupo ndi tsiebe. Mukhole okhutakatifu (khumubili no khumu mwoyo). 2:222
+- Khola emikhoyo khenywe khumunzila. 2:233
+- Londa abalemi khubwene obulayi bwabwe. 2:247
+- Ta khukhobwa khushinza. 2:256
+- Mwone emili mukhufwana. Mube Abafwani mubili no mumwila. 2:261
+- Nao mukaye okhufwana kwenyu khwokhweyona. 2:264
+- Shetani (Satani) akhubekha nende obwavu ne akhubahayira okhukhola ebisambiso (ebikolwa bibi, esikhupo esitakhasa, ebisambi). 2:268
+- Soma Abandu abakhwaba obuyambi ne obasie. 2:273
+- Nao mwikhalenga mubakinya. Nao mubile emili ekhubakinya. Nao mubile Riba (okhubakinya). 2:275
+- Mwene omukhwikasia obukhwasi obwokhuliha inyanga yaba ali mubulamu. 2:280
+- Khola emilaka yenyu mubikolwa byomubwene. Mube abamuli mubikolwa byenyu byamafuta. Khola obulayi mubisianyi bioni. Nga mwakhola obukhwasi bwakhe inyanga eyilondakho, mwandike. Londa Abasakasi nga mwakhola endakano yomubwene. 2:282
+- Mukhwele amaani ni okhukhola amani. 2:283
+- Mwisubile tsibuka tsia Nyasaye ni Abandu Abalemi bosi. 2:285
+- Nyasaye (Allah) ta khu mwene mundu omukhwikulu khukhushila amaani kaye. Alifwanwa ebyalayi byakhola, ni akhuhanwa ebyabii byakhola. Nyasaye ta khu mwene mundu omukhwikulu khukhushila amaani kaye; nafwe shikhukhwala okhukhola ta. Mwisubile tsyendo tsia Nyasaye (Allah) nende mububii. 2:286
+- Mundu wosi okhukhola endakano ni okhwiba Nyasaye (Allah), Nyasaye (Allah) ayeba Abatawi. 3:76
+- Khola Hajji (okhutambula) nga muli namanyi. 3:97
+- Nao mwabukhanie. 3:103
+- Khayila obulayi ne mukhaye obubii. Khumie obulayi mubunzila bwenyu. Yita Abandu abandi okhwibuka Nyasaye (Allah). 3:104
+- Abasubili bakhwala okhwesiga Nyasaye (Allah). 3:122
+- Nao mubile Riba (okhubakinya). 3:130
+- Muwulile Nyasaye (Allah) ne Omurumwa wa Nyasaye okhufwanwa okhukhaba. 3:132
+- Nyasaye (Allah) ayeba abo abakhola (khunjila ya Nyasaye (Allah) — ebikolwa byobufwani, ebifwanwa, nende tsimbaba) mubulayi ne mububii, abo abakhoba obusungu, ni abo abalekelela Abandu. 3:134
+- Khoba obusungu. Khola obusungu bwenyu. 3:134
+- Lekelela Abandu ebibi byabwe. 3:135
+- Nao mube abakakali mubibono. Mwihile Abandu abo abakhwanyanyisia nanyu. 3:159
+- Nyasaye (Allah) nga yabasia, ta mundu wosi okhubawanangila; ne nga yabalekha, ni wosi akhanyala okhubasia? 3:160
+- Mundu wosi akhanyanga okhufwa. Ne mubulosi bwa khwinukha mwene mukhufwanwa empeera yenyu yosi. 3:185
+- Mwibule mubiasi byobulayi bia Nyasaye ni okhutondwa khwomubili kuno. Mumenye Nyasaye yatonda omubili kuno nende endowo ye. 3:191
+- Abasatsa ni abakhasi bafwanwa empeera khubikolwa byabwe. 3:195
+- Abo ababa Nyasaye waabwe, bali nende tsimbasa (mumwalo) tsia mitsi khukhukhila hasi; balikhalamo mulembe, nga obufwani bwa Nyasaye (Allah). 3:198
+- Mwikale mukhunoonya okhusanyisa Nyasaye (Allah) mubikolwa byosi. 3:200
+- Mwibe Nyasaye wa nyu, mube nende okhwiba (ne nao mukhatie) enzilakho. 4:1
+- Mwene Abana abakhali emili yabwe ne nao mwabukhanie (ebibii byenyu) ne (ebilayi byabwe); ne nao mubile emili yabwe (nga mukhwongera khumili yenyu). 4:2
+- Mwene Abakhasi (abo mubalana) okhwepwa khwabwe (okhulondakho khwokhukhobwa khwokhukhola) nende omwoyo omulayi. 4:4
+- Mukhwele amani kha Abana abakhali. 4:6
+- Emili yomundu wakhufwa yikhwala okhukabwa khubandu bomunzila. Abakhasi bali nende obulayi bwo khwikhala. 4:7
+- Nao mubile emili ya Abana abakhali ta. 4:10
+- Muwulile ebikholwa ebikhwama khwikhala. 4:11
+- Nikhukhaya okhukhala Abakhasi nga tabakhola ta, ne nao mubakhole ta. Mwikale nabo (Abakhasi) mubulayi. Muwanyise ne mukhola amani kha Abakhasi. Khola omukhasi wo nende obulayi ne okhukhaba. Khola Abakhasi nende ekinyalwa ne obutabera. 4:19
+- Nao mulane Abo Abandu abali mumsaayi kwanyu. 4:23
+- Nao mwibulane (ne mwibule mwekha). Nyasaye (Allah) ni Omukhasi kumunywe. Nao mubile emili ya bandu ta. 4:29
+- Nga mwikhayila ebisambi ebikali ebyo ebikhaywe, Nyasaye (Allah) alibalekelela (ebitakatifu) ebisambi byenyu, ne abatsia mubwinjiriro obulayi (mumwalo). 4:31
+- Nao muye ebindu ebyo Nyasaye (Allah) yabakhola abandi khukhushila abandi. Muwe obubii nende okhusubwa. 4:32
+- Abasatsa be bakholi b'abakhasi, khubwene Nyasaye (Allah) yabakhola abandi khukhushila abandi, ne khubwene bakhola (okhubafwanyisa) khumili yabwe. Omusatsa niye omukholi womunzila. 4:34
+- Sinza Nyasaye (Allah) ne nao mukhole Omukhocha nawe, khola obulayi khubasani, khubekha, khubana abakhali, khubakhasi, khubakhasi, khubandu abenyu, khubandu abakhali (abo mubasana), ne khubo (Abandu) abamuli mumaboko kanyu. Nyasaye (Allah) tayeba Abandu abeene nende abeene. Khola obulayi khubandu. Khaba abakhasi. Khola enzilakho zomunzila ne muwanyise Abandu. 4:36
+- Nao mube abeene. 4:37
+- Nyasaye (Allah) ta lekela okhukholwa Omukhocha nawe, halali alekela ebindi khubo ayele. 4:48
+- Nao musubile Abandu. 4:54
+- Nyasaye (Allah) akhubahayira okhukhalisa ebikho mumaboko kanyu khubandu. Nga mubatsie Abandu, batsie nende obutabera. 4:58
+- Muwulile Nyasaye (Allah) ne Omurumwa wa Nyasaye. Muwanyise abo abali nende amani munywe. 4:59
+- Nao mubakhaye abakhasi. 4:75
+- Bulayi bwosi bukhutsia munywe khubwa Nyasaye (Allah); ne bubii bwosi bukhutsia munywe khubwenyu. 4:79
+- Mundu wosi awulila Omurumwa (Muhammad ﷺ), naye awulile Nyasaye (Allah). 4:80
+- Mundu wosi okhukhola obulayi khubwene, alifwanwa; ne mundu wosi okhukhola obubii, alihanwa. 4:85
+- Ta khukhasa Omusubili okhubulala Omusubili, halali nga ni okhuba. 4:92
+- Mundu wosi okhublala Omusubili nende okhuba, okhuhanwa khwabwe ni Omuriro (Jahannam), balikhalo mulembe. Obusungu bwa Nyasaye (Allah) ne okhukhawa khuwe, ne bakhabwaho ebihanwa bikali. 4:93
+- Mundu wosi okhutsia (khumunzila ye) khunjila ya Nyasaye (Allah), alisanga khulwe inzila tsinyingi ne emili. 4:100
+- Khola esala musa. 4:103
+- Nao mubakhaye abo abakhayila ebikho mumaboko kabwe. 4:105
+- Saba okhulekelesia khwa Nyasaye (Allah), Nyasaye (Allah) ni Omulekelesi, Omukhasi. 4:106
+- Nywe Abasubili! Khola obutabera, mube Abasakasi bwa Nyasaye (Allah), nga buli khwenyu, khubasani benyu, khubekha benyu, ali omukali to omwakhasi. Nao mukaluse obutabera; khola mangu okhukhola obulayi. 4:135
+- Abafuki bakhoonya okhukhola Nyasaye (Allah), halali Nyasaye (Allah) niye akhola. 4:142
+- Abafuki baliba mubusi bwa Mwalo; ne ta mundu akhanyala okhubasiasia. 4:145
+- Nyasaye (Allah) tayeba okhukhola obubii mubululu, halali khubwene mundu wakholebwa obubii. 4:148
+- Abarumiwa nga Abakholi bamakhuwa amalayi ne nga Abahonyi, mbulosi Abandu babe ta nende okhukhana khubwene Nyasaye (Allah) mbutsi Abarumiwa. 4:165
+- Khola endakano ni tsindakano. 5:1
+- Wasianie mubulayi ne okhuba Nyasaye, ne nao mwasianie mubisambi ne obulabe. 5:2
+- Nao mubile ebyakhufwa, omusaayi, ne inyama yomukhasi. 5:3
+- Khola obutabera, ne nao muleke obulabe ne okhukhana khubandu abandi okhubakhosa ta. Khola obutabera. Mumenye obutabera buli khubwene okhuba Nyasaye. Nao mukaluse obutabera; khola mangu okhukhola obulayi. 5:8
+- Soma amakhuwa kho okhutsia khubwene Nyasaye (Allah), ne mukhole khunjila ye nga muli namanyi. Mbulosi mube abafuni. 5:35
+- Khola tsindakano ni endakano. 5:89
+- Muwe ebyokhunywa ebyokhunywa ebyokhunywa ebyokhunywa ebyokhunywa. Muwe muno ebyokhunywa ebyokhunywa (tsimbaba tsiosi tsia ebyokhunywa), okhukina, Al-Ansab (tsimbasa tsia mabawe), ne Al-Azlam (tsimbasa tsia okhusoma obulayi to okhuba) ebyo byosi bibili bya Shetani (Satani). 5:90
+- Nao mubule amasumba nga muli mubulamu bwa Ihram khwokhutambula Hajji to Umrah (okhutambula). 5:95
+- Nao mubule ebindu ebyo, nga mubikhola, bikhanyala okhubakhola obubii. 5:101
+- Nao mubakhaye Abandu abandi ta. Nao mubakhaye Abo Abandu (abatasubili) abasinza ta, mbulosi bata okhukhola Nyasaye (Allah) ta. 6:108
+- Nga mubawulila Abandu abangi khulwe isi, balibabwosisia khunjila ya Nyasaye (Allah). Bo bakhola ebindu ebibisi, ne bo ta bakhola ta. 6:116
+- (Abandu) Muleke ebisambi byosi, ebyobululu ne ebyomumwoyo. 6:120
+- (Nywe Abasubili) Nao mubile (inyama) eyo Nyasaye (Allah) niyatakhwo (mumbasa ya okhublala). 6:121
+- Mundu wosi Nyasaye (Allah) ayele okhukhoya, akhoyela omwoyo khwa Islam; ne mundu wosi ayele okhubwosisia, akhola omwoyo khwabwe okhuba khufinyu. 6:125
+- Mube abakhasi mubikolwa, ne mukaye okhubya. Khola amani kha ebisolo byosi. 6:141
+- Nao mukhalele Nyasaye (Allah), khola obulayi khubasani, nao mubule Abana benyu ta khubwene obwavu, nao mubule ebisambiso, nao mubule mundu wosi Nyasaye (Allah) ya khaya, halali nga khubwene obutabera. 6:151
+- Mube abalayi; nao mukhole obulimbi mubikolwa byenyu byosi. Nao mubule emili ya Abana abakhali, halali nga mubikhola bulayi, khola ekipimo ekhasa ne okhupima okhukhasa nende obutabera, nga muboola, boola omukali nga buli khubandu bosi, ne khola endakano ya Nyasaye (Allah). 6:152
+- Mule endakano, ne nao mulole endakano (indi), mbulosi tsibakhola mubukhanie khunjila ye. 6:153
+- (Muhammad) Boola: "Mazima, esala yanje, okhufwana khwanje, obulamu bwange, ne okhufwa khwanje byosi bia Nyasaye (Allah), Nyasaye w'abandu bosi." 6:162
+- Nao mube abeene. 7:13
+- Shetani ta mubwosisie. 7:27
+- (Muhammad) Boola: "Nyasaye wange yahayira obutabera…" 7:29
+- Khola amani ka Nyasaye (Allah) mubindu byosi. Muke ebikolwa ebyokhukhana mubibono ne mubikolwa. Mwile ne munywe, halali nao mubye. Mwale tsingubo tsilayi mumbasa ya esala. 7:31
+- Nyasaye (Allah) yatonda ebikulungu ne isi mumbasi tsiosi, ne yalikha khushikhongo (khubwene obulayi bwaye). 7:54
+- Saba Nyasaye wa nyu nende obulayi ne omumwoyo. Tayeba abo abakhola ebikolwa ebyokhukhana. 7:55
+- Ne nao mukhole obubii khulwe isi, mbutsi yakholwa obulayi, ne mube nende okhuba ne okhusubila. 7:56
+- Halali Abo Abandu abakhola ebisambi, ne beenya mbutsi, ne basubila, mazima Nyasaye wa nyu mbutsi wabwo ni Omulekelesi, Omukhasi. 7:153
+- (Muhammad) Boola: "Abandu! Mazima ndi Omurumwa wa Nyasaye (Allah) khumunywe mwenna…" 7:158
+- (Tsimbaba) tsiosi tsilayi tsia Nyasaye (Allah), kho muyite natsio, ne muleke Abo Abandu abakhola ebibii khumatsina kaye… 7:180
+- Mundu wosi Nyasaye (Allah) ayi bwosisia, ta mundu wosi okhukhoya; ne abaleka mubwene ebikalilo. 7:186
+- Lekelela, hayira obulayi, ne mwibukhe Abandu abatamanyi (nao mubakhaye ta). 7:199
+- Lekelela Abandu ebibi byabwe. 7:199
+- Ne Shetani (Satani) nga yakhola okhukhwesaba, saba Nyasaye (Allah) akhukhwine. Mazima niye Owulila, Omanyi. 7:200
+- Abasubili bebo abo, Nyasaye (Allah) nga yaboolwa, emioyo yabwe yikhoba, ne nibasomelwa amakhuwa kaye, yongera obusubili… 8:2
+- Nao mukhole Nyasaye (Allah) ne Omurumwa wa Nyasaye obulimbi, ne nao mukhole ebikho mumaboko kanyu obulimbi (ne emikhoyo yosi Nyasaye (Allah) yabahayira) nga mumenye. 8:27
+- Nga mwiba Nyasaye (Allah) ne mwikhala nende okhuba, akhubaha okhuhala (okhukhana obulayi ne obubii, to okhubwokha mubulamu bwosi). 8:29
+- Abatasubili bakhola emili yabwe okhukhaya (Abandu) khunjila ya Nyasaye (Allah), ne balikhola; halali khumakhuwa kali babe nende okhukhana. 8:36
+- Boola khubo Abo Abatasubili, nga bakhalisa, balekelelwa ebikolwa byabwe ebyakale; halali nga badayo, tsindakano tsia Abo abakale tsipita (nga okhwihonya). 8:38
+- Nga mwakwanana nende (Abaloli) amani, khala khukhwikala, ne mukhwibuke Nyasaye (Allah) muno (nende endimi ne emioyo), mbulosi mube abafuni. 8:45
+- Nao mube nga Abo Abandu abakhotsa mung'anda yabwe nende amani ne okhulolekhwa khubandu, ne (Abandu) khunjila ya Nyasaye (Allah). 8:47
+- Nyasaye (Allah) ta kenyia ebindu ebilayi ebyo yabaha Abandu, halali nibakenyia ebibiri mumioyo yabwe. 8:53
+- Ebisolo ebibii khubwene Nyasaye (Allah) ni Abo Abatasubili. 8:55
+- Nyasaye (Allah) ateeka obulayi ne okhukhabana mubandu abasubili. 8:63
+- Mukhwele ni mubasie Abo Abandu abasaba okhukhwa. 9:6
+- Ta khukhasa Abandu abakhasi (Mushrikun) okhukhola emisikiti ya Nyasaye (Allah). 9:17
+- Bo (Abatasubili, Abayudaaya ne Abakilisitu) bakhoonya okhuzimia omulili khwa Nyasaye (Allah) (kwo Muhammad ﷺ yakhotsa — okhusubila Nyasaye (Allah) omu) nende eminwa yabwe, halali Nyasaye (Allah) tayeyi ta halali okhukhola omulili khwaye khukhala, nga Abatasubili bakhalala. 9:32
+- Ebifwanwa (Zakat) ni bia: 1) Abakhasi (Fuqara'), 2) Abakhasi (Al-Masakin), 3) Abo Abandu abakhola khubwene, 4) okhukhoyela emioyo ya Abo Abandu abeebi khunjila ya Islam, 5) okhulekha Abandu abakhali, 6) khubandu abakhola, 7) khunjila ya Nyasaye (Allah) (khubandu abalwi), ne 8) khubandu abatambula. 9:60
+- Mundu wosi okhukhana Nyasaye (Allah) ne Omurumwa wa Nyasaye (ﷺ), mazima ali nende Omuriro (Jahannam) gwe alikhalo mulembe. Ekyo ni ekinyalwa ekhukali. 9:63
+- Abafuki, abasatsa ne abakhasi, bali nga bwe bari. Bakhwibwa Nyasaye (Allah), naye nabo abakhwibwa. 9:67
+- Khola obulayi. Wanyisa okhutakasa khwa misikiti. 9:108
+- Ta khukhasa (Omurumwa ne Abasubili) okhusaba okhulekelesia khwa Nyasaye (Allah) khubandu abakhasi, nga bali abekha, mbutsi babamenya mubulayi bwawe, mbulosi babe Abandu b'omuriro (khubwene okhufwa khwabo mubutasubili). 9:113
+- Ni wosi okhukhola obubii okhushila oyo okhukhola obulimbi khubwene Nyasaye (Allah) to okhukhana amakhuwa kaye? Mazima Abakholi b'ebisambi tabafuna! 10:17
+- Basinza ebindu ebindi khushila Nyasaye (Allah) ebitabakholela obubii no obulayi, ne baboola: "Bano be basiokho bwa Nyasaye (Allah)." Boola: "Muboola Nyasaye (Allah) ebindu ebyo atamanyi mubikulungu ne khulwe isi?" Nyasaye (Allah) niye Omulayi, niye Omukali khukhushila ebyo babikhola! 10:18
+- Okhuhanwa khw'obubii ni obubii bw'omubo. 10:27
+- Oyo niye Nyasaye (Allah), Nyasaye wa nyu owamazima. Ne mbutsi wamazima, ni shina shia okhushila okhuba? Kho mwanyala okhuba? 10:32
+- Abasinga obungi khubo bakhola ebindu ebibisi. Mazima ebibisi ta bikhola ta khubwene amakhuwa. 10:36
+- Mazima! Nyasaye (Allah) ta khu mwene Abandu obubii; halali Abandu bebo benyini babakhola. 10:44
+- Mumenye obulayi bwa Nyasaye (Allah) buli bulayi khukhushila ebindu byosi mundu wosi okhunyala okhulonda to okhukhala. 10:58
+- Nao mube nga Abo Abandu abakhana amakhuwa ka Nyasaye (Allah), mbulosi mube Abandu abafwa. 10:95
+- Nyasaye (Allah) nga yakhola obubii khumunywe, ta mundu wosi okhunyala okhukhula ta halali ye; ne nga yayela okhukhola obulayi khumunywe, ta mundu wosi okhunyala okhukhaya obulayi bwaye, akhuha khuwo ayele khubandu baye. 10:107
+- Ta shisolo shiosi khulwe isi shitali nga okhwikhala khwashe khuli khubwene Nyasaye (Allah). Ne ameni obwene obukhali ne obwo okhwikhalirwa (mubulamu, mumbasi, nende tsimbaba). 11:6
+- Nga twaha mundu okhunywa okhukhasa khwaffe, ne twakhula, mazima aba nende okhukhana ne okhukhana. 11:9
+- Mundu wosi ayele obulamu bwomubili kuno ne ebibilayi byabwo, tulimuha empeera yebikolwa byabwe mubwo, ne ta bakhanyalwa. 11:15
+- Tata bakhola ta, halali bebo benyini. Bakatonda babo abo basinza khushila Nyasaye (Allah), ta babasie ta, nga endakano ya Nyasaye wa nyo yakhotsa, ne ta babongera ta halali okhukhalwa. 11:101
+- Khulwobulosi obwo, ta mundu wosi akhoola ta halali nende okhulekha khwa Nyasaye (Allah). Abandi khubo baliba nibakali, ne (abandi) nibalayi. 11:105
+- Halali Abo Abandu abakali, baliba mubwalo, balikhola ebiyubyu. 11:106
+- Balikhalo mulembe, nga ebikulungu ne isi bibili, halali nga Nyasaye wa nyo ayele. Mazima Nyasaye wa nyo akhola eyo ayele. 11:107
+- Ne Abo Abandu abalayi, baliba mumwalo, balikhalo mulembe, nga ebikulungu ne isi bibili, halali nga Nyasaye wa nyo ayele, ebifwanwa ebitakhala. 11:108
+- Nao mwikale khubwene Abo Abandu abakhola obubii, omuriro gubakhwase, ne ta mube nende abakholi halali Nyasaye (Allah), ne ta mubasibwa. 11:113
+- Khola esala khumakhuwa k'omunsi ne mumbasa tsia mwikha (esala 5). Ebikolwa ebirungi bikulula ebibii (ebisambi ebitakatifu). 11:114
+- Ebindu ebyomumwoyo ebiri mubikulungu ne khulwe isi bia Nyasaye (Allah), ne khubwene ebindu byosi bikhalisibwa. 11:123
+- Amalako (to okhuba) ni kwa Nyasaye (Allah). Yahayira nao musinza ta halali ye (okhusubila Nyasaye omu), eyo ni dini eyilayi, halali Abandu abangi tabamanya. 12:40
+- Nao muleke okhunyala okhukhasa khwa Nyasaye (Allah). 12:87
+- Ne Abandu abangi tabasubila, nga mukhonya muno. 12:103
+- Ne abasinga obungi khubo tabasubila Nyasaye (Allah), halali nga bakhola (abo be Mushrikun). 12:106
+- Ekyo (Kurani) si biboola ta, halali ni okhukakasa tsibuka tsia Nyasaye (Allah) (Tawrat, Injil ne tsibuka tsindi) ne okhunyoola ebindu byosi, ne okhukhoya ne okhukhasa khubandu abasubila. 12:111
+- Nyasaye (Allah) awongera emili khuwo ayele, ne akhaya (khuwo ayele). 13:26
+- Mwibuke Nyasaye (Allah) muno nende dhikri. Abo abasubila Nyasaye (Allah), emioyo yabwe ikhala mubutabera nga bamwibuka. 13:28
+- Abo abasubila ne abakhola ebirungi, bali nende esanyu ne obutabera bwomwoyo. 13:29
+- Abo abalonda obulamu bwomubili kuno khukhushila obwa Lunakhu lw'omumwoyo, ne abakhaya (Abandu) khunjila ya Nyasaye (Allah) (Islam) ne bakhoonya okhukhola ebibii — abo bali mubwene obubii. 14:3
+- Khola okhuba nende obulayi ne okhwebaza mubwene. 14:7
+- Ekyokulolekhwa khubandu abakhana Nyasaye waabwe, ebikolwa byabwe bili nga evu, eryo omuyela okhurera khulwolunaku lwomuyela; tabanyala okhufuna shindu khubyo bye bakhola. 14:18
+- Nyasaye (Allah) alikhasa Abasubili nende omubono omulayi mubulamu bwomubili kuno (balikhola okhusinza Nyasaye (Allah) okhayila) ne mubulamu bwomumwoyo. 14:27
+- Nao mulole nga Nyasaye (Allah) atamanyi ebikolwa by'Abandu abakhola obubii (Mushrikun, Abakhasi, nende tsimbaba), halali abalinda okhutsia khulunaku amasio kakhona. 14:42
+- Mbulosi Nyasaye (Allah) ahe mundu wosi empeera khubikolwa byabwe. Mazima Nyasaye (Allah) ni Omwangu okhubala. 14:51
+- Ne mazima twatonda omundu khumusenyi, khumusenyi omuyi. 15:26
+- Ne Jini, twabatonda khukale khumuliro. 15:27
+- (Omuriro) gwali nende enyango musaba; buli nyango ili nende (eshina) khu bakholi b'ebisambi. 15:44
+- Yatonda omundu khumatsi (okhukhwikanikha khw'omusaayi gw'omusatsa ne gw'omukhasi), ne (omundu) aba omuloli. 16:4
+- Ne ebisolo, yabitonda khumunywe; mubyo muli nende okhweya (tsingubo tsia okhweya) ne ebindu bingi bilayi, ne mubyo mulya. 16:5
+- Ne (yatonda) embalaasi, nyumbu, ne endogoyi, okhutsimbako ne okhweyambisa. Ne atonda (ebindi) ebinywe bitamanyi. 16:8
+- Niye okhurera amatsi (embula) khukhulwe; mubinywako, ne mubifulumisia ebimera ebyo mwitsangila ebisolo byenyu. 16:10
+- Niye yabaha enyanja, mwile inyama (amafi) mubyo, ne mubifulumisie ebikwangala ebyo mwambala. 16:14
+- Yateeka khulwe isi tsingomba okhukhwikala, nao tsitambule nanyu, ne emilambo ne tsingila, mbulosi mube nende okhukhoya. 16:15
+- Niye Otondi nga niye otatondi? Nao mukhwibuka? 16:17
+- Nga mubala ebindu ebilayi bia Nyasaye (Allah), ta mubala. 16:18
+- Nyasaye (Allah) amanyi ebinywe ebikhala ne ebinywe ebikhala. 16:19
+- Ebyo (Abandu) basinza khushila Nyasaye (Allah), ta byatonda ta, halali byo byatondwa. 16:20
+- (Byo) bifikha, ta bili nende obulamu, ne byo bibe ta. 16:21
+- Ekiboolo kyaffe khushindu, nga twakhola, ni khuboola: "Khole!" ne khukhola. 16:40
+- Abo abakhola ebibii, mba babona okhuba nga Nyasaye (Allah) tabatsia khulwe isi, to omuriro gubakwase? 16:45
+- Ebindu bilayi byosi ebili munywe khubwa Nyasaye (Allah). Ne nga muli mububii, mukhwikhalira khubwene. 16:53
+- Ne nga yabakhulula mububii, abandi munywe bakhola Omukhocha wa Nyasaye (Allah). 16:54
+- Mubisolo muli nende okhwiyichila. Tuwanyisanga ebinywe ebiri mumbiri yabwe, wakati wetsia ne omusaayi, amata amalayi, amasanyusa abanywa. 16:66
+- Kho nao mukhalele Nyasaye (Allah) (khubwene ta shindu shikhwanyala okhukhala nga shiye, no shiye shikhwanyala okhukhala nga shindu). Mazima Nyasaye (Allah) amanyi, ne nywe tamanyi. 16:74
+- Mumenye Nyasaye (Allah) yaha Abandu okhwulila, okhulola, amagezi, ne ebikhola, mbulosi babe nende okhwebaza. 16:78
+- Mwile obulayi ne okhuba. 16:97
+- Nga mwakhoma Kurani, saba Nyasaye (Allah) akhukhwine khubwene Shetani (Satani) omukali. 16:98
+- Mumenye ebibi ebyo ebikholwa mubutamanyi, nga mundu weenya ne akhola obulayi, bilekelesibwa. 16:119
+- (Muhammad) Yita Abandu khunjila ya Nyasaye (Allah) (Islam) nende amagezi ne okhuhayira obulayi, ne muboolane nabo khunjila enayi. Okhuyita abandi khunjila ya Nyasaye (Allah) khwakhwala okhukholwa nende amagezi ne okhuba. 16:125
+- Mazima Nyasaye (Allah) ali nende Abo Abandu abamwiba (abo abakhola emikhoyo yabwe khubwene) ne Abo Abandu abakhola obulayi. 16:128
+- Kurani eno yihongesa khushindu eshilayi muno. 17:9
+- Ta mundu wosi okhunyala okhwiramira ebibi bia mundu munji. 17:15
+- Mundu wosi ayele obulamu bwomumwoyo ne akhola khubwene, nga ali Omusubili, abo beba khufwanwa empeera (khubwene Nyasaye (Allah)). 17:19
+- Wanyisa abasani be ne abakhola obulayi. Khola obulayi khubasani. Nao mubakhola ta. Nyasaye wa nyo yahayira nao musinza ta halali ye. Ne mukhola obulayi khubasani. Nga omu ku bo to bombi bakhula, nao muboola "Aa!" ta, ne nao mubakha ta, halali muboola nende ekinyalwa. 17:23
+- Ne mwikale nende okhuba ne okhukhasa, ne muboola: "Nyasaye wange! Abakwatire ekisa nga bwe bakwatira, nga ndi mwana." 17:24
+- Mazima Abandu abakhala emili be bandu ba Shetani (Satani), ne Shetani (Satani) niye omukhayi khubwene Nyasaye (Allah). 17:27
+- Nao mwone emili ta. 17:29
+- Nao mubule Abana benyu ta khubwene obwavu. 17:31
+- Nao mubule ta. Khola obulayi bwa bwenzi. 17:32
+- Khola ekipimo ekhasa nga mupima, ne mupime nende ekipimo ekhasa. Ekyo ni ekilayi (ekikhasa) ne khumakhuwa. 17:35
+- (Omundu) Nao mulole ebinywe bitamanyi (nga okhoola: "Nalolile," nga tolola, to "Nawulile," nga towulila). 17:36
+- Mube abakhasi ne nao mube abeene ta. Nao mutambule khulwe isi nende amani. Mazima ta mundu wosi okhunyala okhulola isi, to okhunyala okhuba nga tsingomba. 17:37
+- Nyasaye (Allah) wa nyo amanyi muno; nga ayele, abakwatira ekisa; to nga ayele, abahanwa. 17:54
+- Mundu wosi omufumfu khumubili kuno (atabona ebikolwa bia Nyasaye (Allah) ne atasubila), aliba omufumfu ne khumubili, ne aliba mububii. 17:72
+- Khola esala mumbasa tsia. 17:78
+- Mazima twanyoola mubandu muli Kurani eno ebikolwa byosi, halali Abandu abangi bakana (amazima) ne tabasubila. 17:89
+- Twaleeta mubandu muli Kurani eno ebikolwa byosi. Halali omundu niye omukali muno. 18:54
+- Okhuhanwa khwabwe ni Omuriro (Jahannam); khubwene tabasubila ne bakhola amakhuwa kange ne Abarumiwa bange nga okhusekha. 18:106
+- Ta khukhasa (Obulayi bwa) Nyasaye (Allah) okhuba nende omwana (ekyo kikhulolekha khubwene Abakilisitu okhukhola Nyasaye (Allah) obubii, nga baboola Yesu ni mwana wa Nyasaye (Allah)). Nyasaye (Allah) niye Omulayi (ne ali khukhushila ebyo babikhola). 19:35
+- Boola nende Abandu obulayi. 20:44
+- Mwikale mubulayi. 21:90
+- Mwile ebiboola ebitali. 23:3
+- Khola obulayi. 23:5
+- Khola emioyo yenyu mubibii. 23:97
+- Lekelela Abandu ne mubasonyiwe. 24:22
+- Wanyisa ebikho mumaboko k'abandu, nanyala mung'anda yabwe. Khola amani kha Abakhasi. 24:27
+- Sua amasio (abasatsa ne abakhasi). Khola obulayi bwenyu. 24:30
+- Khola obulayi mubwambala ne mubikolwa. 24:31
+- Mumenye Nyasaye (Allah) aha obutabera ne okhukhwala Abo Abandu abamusinza ne abakhola ebirungi. 24:55
+- Nao mwingile mung'anda ya Abasani benyu ta nga mubasaba. 24:58
+- Mube abakhasi. 25:63
+- Mwile ebiboola ebyobulimbi ne ebibii. 25:72
+- Khola okhufwanwa empeera mubulamu bwomumwoyo, halali nao muleke ebindu byomubili kuno. 28:77
+- Nao musabe Nyasaye (Allah) ta. 28:88
+- Nao mukhole esikhupo esitakhasa ta. 29:29
+- Khola obulayi mubikolwa byenyu byosi. 29:69
+- Khola esala ne mwone zaka. 31:4
+- Hayira obulayi ne mukhaye obubii. 31:17
+- Mwile amani mubikolwa byenyu. Nao mukhole inyanga mubiboola ebitali. 31:18
+- Mube abakhasi mubitambulo ne mubiboola. 31:19
+- Lole ekyokulolekhwa khwa Muhammad. 33:21
+- Abakhasi ta bakhola ta okhweyolesa to okhweyona khubwene obulayi bwabwe ne ebikwangala byabwe. 33:33
+- Boola amakhuwa amalayi mubimbe byosi. 33:70
+- Soma amagezi ne okhumenya khubwene okhwibula. 38:29
+- Khola ebikho mumaboko ka Kurani. 39:23
+- Nyasaye (Allah) alekela ebisambi byosi, nga mundu w'ebisambi weenya ne akhala. 39:53
+- Khola dua (okhusaba) khwa Nyasaye (Allah) nende omwoyo omulayi. 40:60
+- Khula obubii nende ebirungi. 41:34
+- Khola ebindu nende okhukhwikanikha. 42:38
+- Nao muhaye omubono muno khukhushila omubono khwa Omurumwa. 49:2
+- Khola ebikho mumaboko k'abandu ne mwile obulimbi. 49:6
+- Khola obutabera wakati w'Abandu abali mubwatabazi. Soma okhukhwikanikha mubwatabazi. 49:9
+- Nao mubakhaye Abandu. 49:11
+- Mwile okhuba. Mwile okhukhwikhalira ne okhulomaloma. Nao mubakhola Abandu ta. Mwile ebikolwa byosi byokhulomaloma ne ebibii. Amalani ta mubatsie mubutabera. 49:12
+- Mumenye okhuba Nyasaye (Allah) niye okhukhola omundu omulayi. Wanyisa ebikolwa by'abandu ne tsinyanga. 49:13
+- Wanyisa Abakhasi. 51:26
+- Khola amani kha Nyasaye (Allah). 51:56
+- Mwone emili mukhufwana. 57:7
+- Mumenye ta khukhasa okhukhola (okhulekha obulamu bwa bwenzi ne ebirungi nga Abakhasi, Abakhasi, to abandi abakhola ebikolwa ebya dini, to tsing'anda tsibakhalo) mubwene. 57:27
+- Emili ta mubakhatie okhwibuka Nyasaye (Allah). 58:11
+- Abo abali nende amagezi, Nyasaye (Allah) alibakhola abakulu. 58:11
+- Khola Abandu abatasubili obulayi ne obutabera. 60:8
+- Mwile okhuba mubusubili bwenyu ne mubikolwa byenyu. 63:9
+- Mwikale muno mubulayi ne okhuba. 64:16
+- Khola ebikho mumaboko kanyu. 73:15
+- Mwibuke Olunaku lw'okhutsia. 75:36
+- Hayira okhuba ne okhukhabana. 90:17
+- Abo abakhola emioyo yabwe obulayi bafuna; ne abo abakhayila bafwa. 91:10
+- Nao mukaye Abandu abakhasi, ne nao mubakha ta. 93:10
+- Soma amagezi ne okhumenya. Soma Kurani ne mwibule. 96:1–5
+- Hayira okhulya Abandu abakhasi. 107:3
 """;

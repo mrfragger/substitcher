@@ -3318,4 +3318,280 @@ Matching Phrases 8 words
 - Allah rozděluje obživu, komu chce ze Svých služebníků, a odměřuje ji. (اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ) 28:82; 29:62
 - A budete navráceni k Tomu, jenž zná nepoznatelné i zjevné, a On vám oznámí, co jste činili. (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
 - A pokrevní příbuzní jsou si v Knize Allaha vzájemně bližší. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
+cmds - Commands, Exhortations, Prohibitions, Instructions
+- fard / wajib (فرض / واجب) — povinné (musí se udělat; hřích vynechat)
+- mustahabb / mandub (مستحب / مندوب) — doporučené (odměněno, pokud uděláno; není hříchem, pokud vynecháno)
+- mubah (مباح) — neutrální / dovolené (ani odměna, ani hřích)
+- makruh (مكروه) — zavrženíhodné (nedoporučuje se, ale není hříchem, pokud uděláno)
+- haram (حرام) — zakázané (hřích udělat)
+- halal (حلال, dovolené / zákonné) — zahrnuje jak mubah, tak mustahabb — vše, co není zakázáno
+- Uctívejte pouze Allaha a proste Jej o pomoc/podporu. 1:5
+- Uctívejte pouze Allaha. 2:21
+- Nepřidávejte Allahovi žádné společníky. 2:22
+- Allah je Ten, kdo odpouští (přijímá pokání), On přijal pokání Adama (mír s ním). 2:37
+- Nesmíte zahalovat pravdu lží a skrývat pravdu. 2:42
+- Dodržujte modlitby (salát) a dávejte almužnu (zakát). 2:43
+- Přikazujte druhým dobré skutky teprve poté, co je sami praktikujete. 2:44
+- Ve všech svých záležitostech pros o pomoc Allaha. 2:45
+- Nedopouštějte se korupce a nešiřte ji. 2:60
+- Nezabraňujte lidem chodit do míst uctívání. 2:114
+- Respektujte posvátnost mešity. Udržujte svá modlitební místa čistá a čistá. 2:125
+- Vzpomínejte na Allaha (modlitbou, chválou atd.) a On si vás připomene, a buďte Mu vděční. 2:152
+- Buďte trpěliví v protivenství. 2:153
+- Nenásledujte kroky Satana, který je zjevným nepřítelem. 2:168
+- Nenásledujte nikoho slepě. 2:170
+- Dodržujte a plňte všechny svěřené závazky. Plňte své náboženské povinnosti upřímně. Plňte své přísahy a smlouvy. Dodržujte sliby, zejména ty dané Allahovi. Podporujte potřebné a ulehčujte strasti. Vyhýbejte se hříchům, které vedou ke ztrátě božské přízně. Nedovolte, aby vás pýcha vedla k nespravedlnosti. 2:177
+- V zákonu kisas (zákon rovnosti v trestu) je pro vás život. 2:179
+- Postěte se v měsíci ramadánu. Dodržujte předepsaný půst, abyste se stali bohabojnými. 2:183
+- Respektujte Korán jako konečný zdroj vedení. 2:185
+- Nejezte vzájemně svůj majetek neprávem a nedávejte úplatky soudcům (před předložením svých případů). 2:188
+- Neutlačujte druhé, slovem ani skutkem. Nikdy nebojujte jako agresor, ale pouze na obranu. 2:190
+- Chraňte sirotky. Pokud jde o sirotky, nakládejte s jejich majetkem poctivě a nepřivlastňujte si jej. 2:220
+- Čiňte pokání a proste Allaha o odpuštění. Během menstruace nemějte pohlavní styk. Dodržujte čistotu (fyzickou i duchovní). 2:222
+- Plňte své povinnosti vůči své rodině. 2:233
+- Vybírejte vůdce na základě jejich zásluh. 2:247
+- V náboženství není donucení. 2:256
+- Vynakládejte majetek na dobročinnost. Buďte štědří v majetku i v čase. 2:261
+- Neznehodnocujte svou dobročinnost tím, že se budete chlubit svou štědrostí. 2:264
+- Satan vám vyhrožuje chudobou a přikazuje vám páchat nemravnosti (špatné skutky, nezákonný pohlavní styk, hříchy). 2:268
+- Hledejte potřebné a pomáhejte jim. 2:273
+- Nezapojujte se do lichvy a úroků. Nepoživejte majetek založený na úrocích. Nejezte ribá (lichvu). 2:275
+- Poskytněte dlužníkovi více času na splacení, pokud je v tísni. 2:280
+- Dodržujte slovo v obchodních transakcích. Buďte pravdiví ve svých finančních záležitostech. Jednejte s integritou ve všech svých závazcích. Když uzavíráte dluh na určitou dobu, zapište jej. Berte svědky, kdykoli uzavíráte obchodní smlouvu. 2:282
+- Dodržujte a plňte všechny svěřené závazky. 2:283
+- Věřte v seslané Knihy a všechny Proroky. 2:285
+- Allah neklade na žádnou duši více, než unese. Dostane odměnu za to, co si zasloužila dobra, a trest za to, co si zasloužila zla. Bůh nezatěžuje člověka nad jeho síly; ani my bychom to neměli dělat. Důvěřujte Allahovu plánu i v těžkostech. 2:286
+- Kdo plní smlouvy a bojí se Allaha, toho Allah miluje. 3:76
+- Vykonejte pouť (hadždž), pokud jste schopni. 3:97
+- Neoddělujte se. 3:103
+- Přikazujte dobré a zakazujte špatné. Podporujte spravedlnost ve své komunitě. Vyzývejte ostatní ke vzpomínce na Allaha. 3:104
+- Věřící se mají spoléhat na Allaha. 3:122
+- Nejezte ribá (lichvu). 3:130
+- Poslouchejte Allaha a Jeho Posla, abyste dosáhli slitování. 3:132
+- Allah miluje ty, kdo rozdávají (na Allahově cestě – dobročinnost, almužny atd.) v blahobytu i v nouzi, kdo tlumí hněv a kdo odpouštějí lidem. 3:134
+- Tlumte hněv. Ovládejte svůj hněv. 3:134
+- Odpouštějte a promíjejte chyby druhých. 3:135
+- Nebuďte hrubí v řeči. Buďte trpěliví s těmi, kdo se od vás liší. 3:159
+- Pokud vám Allah pomůže, nikdo vás nemůže porazit; a pokud vás opustí, kdo po Něm vám může pomoci? 3:160
+- Každý okusí smrt. A pouze v Den zmrtvýchvstání dostanete svou odměnu v plné výši. 3:185
+- Hluboce přemýšlejte o divech přírody a stvoření tohoto vesmíru. Vězte, že Bůh stvořil vesmír se smyslem a účelem. 3:191
+- Muži a ženy mají stejnou odměnu za své skutky. 3:195
+- Pro ty, kdo se bojí svého Pána, jsou připraveny zahrady (v ráji), pod nimiž protékají řeky; budou tam věčně přebývat, jako pohoštění od Allaha. 3:198
+- Ve všech činech se vždy snažte o získání zalíbení Allaha. 3:200
+- Bojte se svého Pána a (nepřetrhejte) rodinné svazky. 4:1
+- Dejte sirotkům jejich majetek a nezaměňujte (své špatné) za jejich (dobré); a nepohlcujte jejich majetek (přidávajíce jej k svému). 4:2
+- Dávejte ženám (které si berete) jejich věno (mahr) s dobrým srdcem. 4:4
+- Chraňte práva sirotků. 4:6
+- Majetek zemřelého má být rozdělen mezi členy jeho rodiny. Ženy mají právo na dědictví. 4:7
+- Nepohlcujte majetek sirotků neprávem. 4:10
+- Dodržujte příkazy ohledně dědictví. 4:11
+- Je zakázáno dědit ženy proti jejich vůli a hrubě s nimi zacházet. Žijte s nimi (manželkami) čestně. Respektujte a dodržujte práva žen. Zacházejte se svou manželkou laskavě a soucitně. Zacházejte se ženami se ctí a spravedlností. 4:19
+- Nežeňte se s těmi, kdo jsou s vámi pokrevně spřízněni. 4:23
+- Nezabíjejte se (ani jeden druhého). Věru, Allah je k vám milosrdný. Nepohlcujte vzájemně svůj majetek neprávem. 4:29
+- Pokud se vyhýbáte velkým hříchům, které jsou zakázány, Allah vám promine (malé) hříchy a uvede vás do vznešeného vchodu (ráje). 4:31
+- Neprahnout po tom, v čem vás Allah nad ostatními zvýhodnil. Vyhýbejte se závisti a žárlivosti. 4:32
+- Muži jsou ochránci a správci žen, protože Allah dal některým z nich přednost před druhými, a protože z nich utrácejí (na jejich výživu). Muž je ochránce a podpora rodiny. 4:34
+- Uctívejte Allaha a nepřidávejte Mu žádné společníky, buďte dobří k rodičům, příbuzným, sirotkům, chudým, sousedovi, společníkovi, pocestnému (kterého potkáte) a těm (otrokům), které vlastní vaše pravice. Allah nemiluje pyšné a vychloubačné. Buďte dobří k druhým. Projevujte soucit slabým. Udržujte rodinné svazky a cti příbuzné. 4:36
+- Nebuďte lakomí. 4:37
+- Allah neodpouští, že je Mu přidělován společník, ale odpouští cokoli jiného, komu chce. 4:48
+- Nezávidět druhým. 4:54
+- Allah vám přikazuje vracet svěřené záležitosti jejich majitelům. Když soudíte mezi lidmi, suďte spravedlivě. 4:58
+- Poslouchejte Allaha a Jeho Posla. Prokazujte náležitou úctu těm, kdo mají mezi vámi autoritu. 4:59
+- Neutlačujte slabé a zranitelné. 4:75
+- Cokoli dobrého vás potká, je od Allaha; a cokoli zlého vás potká, je od vás samých. 4:79
+- Kdo poslouchá Posla (Muhammada ﷺ), ten poslouchá Allaha. 4:80
+- Kdo se přimluví za dobrý skutek, dostane z něj podíl; a kdo se přimluví za špatný skutek, dostane z něj podíl břemene. 4:85
+- Věřící nemá zabíjet věřícího, leda omylem. 4:92
+- Kdo úmyslně zabije věřícího, jeho trestem je peklo, v němž bude věčně přebývat. Hněv a prokletí Allaha jsou na něm a je pro něj připraven trest veliký. 4:93
+- Kdo se vystěhuje (ze svého domova) na cestě Allaha, nalezne na zemi mnoho útočišť a hojnost. 4:100
+- Buďte dochvilní ve svých modlitbách. 4:103
+- Nepodporujte a nebuďte obhájci těch, kdo zrazují své závazky. 4:105
+- Proste Allaha o odpuštění, vždyť Allah je odpouštějící, milosrdný. 4:106
+- Vy, kteří věříte! Stůjte pevně za spravedlnost, jako svědkové Boží, i kdyby to mělo být proti vám samotným, nebo proti rodičům, nebo proti příbuzným, ať už je bohatý nebo chudý. Neodkládejte spravedlnost; jednejte rychle, abyste napravili křivdy. 4:135
+- Pokrytci se snaží oklamat Allaha, ale On je oklamává. 4:142
+- Pokrytci budou v nejnižším stupni ohně; a nenajdete pro ně pomocníka. 4:145
+- Allah nemiluje, aby se zlo veřejně šířilo, leda od toho, komu bylo ukřivděno. 4:148
+- Posly jsme poslali jako hlasatele radostných zpráv a jako varovatele, aby lidé neměli po příchodu poslů žádnou výmluvu proti Allahovi. 4:165
+- Plňte své smlouvy a sliby. 5:1
+- Pomáhejte si navzájem v dobrotivosti a bohabojnosti, nikoli v hříchu a nepřátelství. 5:2
+- Nejezte mršinu, krev a vepřové maso. 5:3
+- Buďte spravedliví, nenechte se nepřátelstvím a nenávistí k druhým odvrátit od spravedlnosti. Buďte spravedliví. Vězte, že spravedlnost je blíže bohabojnosti. Neodkládejte spravedlnost; jednejte rychle, abyste napravili křivdy. 5:8
+- Hledejte prostředky přiblížení se k Allahovi a usilujte na Jeho cestě, jak jen můžete. Aby se vám dařilo. 5:35
+- Plňte své přísahy a smlouvy. 5:89
+- Vyhýbejte se opojným nápojům a alkoholu. Důsledně se vyhýbejte opojným nápojům (všem druhům alkoholu), hazardním hrám, modlám (kamenným oltářům) a losům (šípům pro hledání štěstí či rozhodnutí), což všechno jsou díla Satana. 5:90
+- Nezabíjejte zvěř, pokud jste ve stavu ihramu pro pouť (hadždž nebo umra). 5:95
+- Neptejte se na věci, které by vás, kdyby vám byly objasněny, mohly zarmoutit. 5:101
+- Neurážejte božstva jiných. Neurážejte ty, které (nevěřící) uctívají vedle Allaha, aby oni z nevědomosti neuráželi Allaha. 6:108
+- Pokud byste poslouchali většinu těch na zemi, zavedli by vás od cesty Allaha. Řídí se pouze domněnkami a jen lžou. 6:116
+- Zanechte hříchu, ať už je zjevný nebo skrytý. 6:120
+- Nejezte z masa, nad nímž nebylo vysloveno jméno Allaha (při zabíjení zvířete). 6:121
+- Koho chce Allah vést, tomu otevře hruď pro islám; a koho chce nechat zbloudit, tomu učiní hruď úzkou a stísněnou. 6:125
+- Buďte uměření ve vydávání a vyhýbejte se plýtvání. Chraňte práva všech tvorů. 6:141
+- Nepřidávejte Allahovi žádné společníky, buďte dobří k rodičům, nezabíjejte své děti ze strachu z chudoby, nepřibližujte se nemravnostem, nezabíjejte nikoho, koho Allah zakázal, leda právem. 6:151
+- Buďte čestní; nepodvádějte v žádných svých obchodech. Nepřibližujte se k majetku sirotka, leda s cílem jej zlepšit, dávejte plnou míru a spravedlivou váhu, když mluvíte, mluvte pravdu, i kdyby šlo o blízkého příbuzného, a plňte smlouvu Allaha. 6:152
+- Následujte přímou cestu a nenásledujte jiné cesty, neboť vás oddělí od Jeho cesty. 6:153
+- Rci (Muhammade): "Vpravdě, má modlitba, mé oběti, můj život a má smrt náleží Allahovi, Pánu světů." 6:162
+- Nebuďte pyšní. 7:13
+- Nenechte se Satanem oklamat. 7:27
+- Rci (Muhammade): "Můj Pán přikázal spravedlnost…" 7:29
+- Držte se mezí stanovených Allahem ve všech věcech. Vyhýbejte se přestupkům v řeči i jednání. Jezte a pijte, ale nepřehánějte. Noste hezké oblečení během modliteb. 7:31
+- Allah stvořil nebesa a zemi v šesti dnech a poté se usadil na Trůně (způsobem, který odpovídá Jeho vznešenosti). 7:54
+- Volejte ke svému Pánu s pokorou a v skrytu. On nemiluje přestupníky. 7:55
+- Nepůsobte na zemi zmatek poté, co byla uvedena do pořádku, a volejte Jej s bázní a nadějí. 7:56
+- Ale ti, kdo páchali špatnosti a poté se pokáli a uvěřili, tvůj Pán je poté věru odpouštějící, milosrdný. 7:153
+- Rci (Muhammade): "Lidé! Jsem věru poslem Allaha k vám všem…" 7:158
+- Alláhova jsou jména nejkrásnější; vzývejte Je jimi a nechte těch, kdo se rouhají Jeho jménům… 7:180
+- Koho Allah nechá bloudit, ten nemá průvodce; a nechává je bloudit v jejich přestupcích. 7:186
+- Odpouštěj, přikazuj dobro a odvracej se od nevědomců (tj. netrestej je). 7:199
+- Odpouštějte druhým jejich chyby. 7:199
+- A když tě Satana popudí ke zlému, hledej útočiště u Allaha. On věru je slyšící, vědoucí. 7:200
+- Věřící jsou jen ti, jejichž srdce se naplní bázní, když je zmíněn Allah, a když jsou jim předčítány Jeho verše, rozmnoží jim víru… 8:2
+- Nezrazujte Allaha a Jeho Posla a nevědomky nezrazujte své závazky (a všechny povinnosti, které vám Allah uložil). 8:27
+- Pokud se budete bát Allaha a poslouchat Ho, On vám dá rozlišení (kritérium pro rozlišení pravdy od lži, nebo východisko z každé těžkosti). 8:29
+- Ti, kdo nevěří, utrácejí svůj majetek, aby odvraceli (lidi) od cesty Allaha, a budou jej tak utrácet; ale nakonec to pro ně bude zdrojem lítosti. 8:36
+- Řekni těm, kdo neuvěřili, že pokud přestanou (s nevěrou), bude jim odpuštěno, co bylo předtím. Pokud se však vrátí (k nevíře), pak už příklady těch (potrestaných) před nimi byly dány (jako varování). 8:38
+- Když se střetnete s (nepřátelskými) silami, stůjte pevně a často vzývejte jméno Allaha (jazykem i myslí), abyste dosáhli úspěchu. 8:45
+- Nebuďte jako ti, kdo vyšli ze svých domovů s chloubou a před očima lidí, a odvraceli (lidi) od cesty Allaha. 8:47
+- Allah nemění požehnání, které dal lidem, dokud oni nezmění to, co je v nich samotných. 8:53
+- Nejhoršími tvory u Allaha jsou ti, kdo nevěří. 8:55
+- Bůh vkládá lásku a náklonnost mezi srdce těch, kdo v Něj věří. 8:63
+- Chraňte a pomáhejte těm, kdo hledají ochranu. 9:6
+- Není vhodné, aby modloslužebníci udržovali Alláhovy mešity. 9:17
+- Oni (nevěřící, Židé a křesťané) chtějí uhasit Alláhovo světlo (jímž byl Muhammad ﷺ poslán – islámský monoteismus) svými ústy, ale Alláh nedovolí nic jiného, než aby Jeho světlo bylo dokonalé, i když se to nevěřícím nelíbí. 9:32
+- Almužny (zakát) jsou určeny pouze pro: 1) chudé, 2) potřebné, 3) ty, kdo je vybírají, 4) pro ty, jejichž srdce je třeba naklonit k islámu, 5) pro vykoupení zajatců, 6) pro dlužníky, 7) pro cestu Alláha (pro bojovníky) a 8) pro cestující. 9:60
+- Kdo se staví proti Allahovi a Jeho Poslu (ﷺ) a nepřátelí se s nimi, pro toho bude oheň pekelný, v němž bude přebývat věčně. To je velká potupa. 9:63
+- Pokrytci, muži i ženy, jsou si navzájem podobní. Zapomněli na Allaha, a On zapomněl na ně. 9:67
+- Usilujte o čistotu. Respektujte posvátnost mešity. 9:108
+- Není vhodné (pro Proroka a věřící), aby prosili o odpuštění pro modloslužebníky, i kdyby byli příbuzní, poté, co jim bylo jasné, že jsou obyvateli pekla (protože zemřeli v nevíře). 9:113
+- Kdo je nespravedlivější než ten, kdo vymýšlí lež o Allahovi nebo popírá Jeho znamení? Věru, hříšníci nebudou nikdy úspěšní! 10:17
+- Oni uctívají vedle Allaha to, co jim nemůže ani uškodit, ani prospět, a říkají: "Toto jsou naši přímluvci u Allaha." Rci: "Chcete Allahovi oznamovat něco, co On nezná na nebesích a na zemi?" On je slaven a povýšen nade vše, co Mu přidružují! 10:18
+- Odplatou za zlo je zlo podobné. 10:27
+- Takový je Allah, váš pravý Pán. Co po pravdě, než bloudění? Jak můžete být odvráceni? 10:32
+- Většina z nich následuje pouze domněnky. Domněnky však pravdě nic neprospívají. 10:36
+- Věru! Allah nijak neukřivďuje lidem; ale lidé sami sobě ukřivďují. 10:44
+- Vězte, že přízeň Boží je lepší než vše, co člověk může nashromáždit nebo nahromadit. 10:58
+- Nebuďte z těch, kdo popírají Alláhova znamení, neboť se stanete ztracenými. 10:95
+- Jestliže se tě Allah dotkne nějakým neštěstím, nikdo je neodvrátí kromě Něho; a jestliže ti chce dobro, nikdo neodvrátí Jeho přízeň, kterou On dává tomu, komu chce ze Svých služebníků. 10:107
+- Není na zemi žádného tvora, jehož obživa by nebyla od Allaha. On zná jeho obydlí i místo jeho uložení (v lůně, hrobě atd.). 11:6
+- Když dáme člověku okusit milosrdenství od Nás a poté mu je odejmeme, tu ztrácí naději a je nevděčný. 11:9
+- Kdokoli touží po životě pozemském a jeho ozdobách, dáme jim plně odměnu za jejich skutky na něm a nic jim nebude zkráceno. 11:15
+- Neučinili jsme jim křivdu, ale oni sami sobě křivdu učinili. A nic jim nebyli platni jejich božstva, která vzývali vedle Allaha, když přišel rozkaz tvého Pána, a nezískali tak nic než zkázu. 11:101
+- V den, kdy ona přijde, nikdo nepromluví bez Jeho (Allahova) dovolení. Někteří z nich budou nešťastní a (jiní) šťastní. 11:105
+- Ti, kdo jsou nešťastní, budou v ohni, kde budou těžce vzdychat a naříkat. 11:106
+- Budou v něm přebývat věčně, dokud budou nebesa a země, ledaže by tvůj Pán chtěl jinak. Tvůj Pán věru činí, co chce. 11:107
+- A ti, kdo jsou šťastní, budou v ráji, přebývat v něm věčně, dokud budou nebesa a země, ledaže by tvůj Pán chtěl jinak, jako dar neustálý. 11:108
+- Nepřiklánějte se k nespravedlivým, aby vás oheň nezasáhl, a nebudete mít kromě Allaha žádné ochránce a nebudete pak ani pomoženi. 11:113
+- Dodržujte modlitby na obou koncích dne a v nočních hodinách (tj. 5 denních modliteb). Dobré skutky smývají špatné (tj. malé hříchy). 11:114
+- Allahovi náleží neviditelné na nebesích a na zemi, a k Němu se všechny záležitosti vracejí (k rozhodnutí). 11:123
+- Rozhodnutí (nebo soud) náleží pouze Allahovi. On přikázal, abyste uctívali pouze Jeho (monoteismus), to je pravé náboženství, ale většina lidí to neví. 12:40
+- Nikdy neztrácejte naději v Allahovo milosrdenství. 12:87
+- A většina lidí neuvěří, i když si to budeš velmi přát. 12:103
+- Většina z nich nevěří v Allaha, aniž by Mu přidružovala (tj. jsou modloslužebníci). 12:106
+- On (Korán) není vymyšlená řeč, ale potvrzení toho, co bylo před ním (Tóra, Evangelium a jiná Písma), a podrobné vysvětlení všeho, a vedení a milosrdenství pro lid, který věří. 12:111
+- Allah rozmnožuje obživu tomu, komu chce, a omezuje (komu chce). 13:26
+- Často vzpomínejte Allaha skrze dhikr. Ti, kdo věří v Boha, nacházejí uspokojení ve vzpomínce na Něj. 13:28
+- Ti, kdo věří a konají dobro, jsou obdarováni radostí a klidem mysli. 13:29
+- Ti, kdo dávají přednost pozemskému životu před životem budoucím, a odvracejí (lidi) od cesty Allaha (Islámu) a hledají v ní křivolakost – ti jsou v dalekém bloudění. 14:3
+- V uctívání projevujte pokoru a vděčnost. 14:7
+- Podobenství o těch, kdo nevěří ve svého Pána, je, že jejich skutky jsou jako popel, nad nímž silně zavane vítr v bouřlivý den; nebudou schopni získat nic z toho, co si vysloužili. 14:18
+- Allah utvrdí ty, kdo uvěřili, pevným slovem v pozemském životě (tj. budou pokračovat v uctívání Allaha jediného) i v životě budoucím. 14:27
+- Nemyslete si, že Allah neví, co nespravedliví (modloslužebníci, utlačovatelé atd.) činí, ale dává jim odklad do Dne, kdy oči zůstanou hrůzou vytřeštěny. 14:42
+- Aby Allah odměnil každou duši tím, co si zasloužila. Věru, Allah je rychlý v účtování. 14:51
+- Věru, stvořili jsme člověka z hlíny, z černého bahna. 15:26
+- Džiny jsme stvořili již dříve z ohnivého plamene. 15:27
+- Má (peklo) sedm bran; pro každou bránu je určena (zvláštní) skupina hříšníků. 15:44
+- Stvořil člověka z kapky semene (směsi mužského a ženského výměšku), a hle, on se stává otevřeným odpůrcem. 16:4
+- Dobytčata, ta stvořil pro vás; je v nich teplo (teplé oblečení) a mnoho užitku, a z nich jíte. 16:5
+- (A stvořil) koně, muly a osly, abyste na nich jezdili a jako ozdobu. A stvořil i jiné věci, které neznáte. 16:8
+- On je ten, kdo sesílá z nebe vodu (déšť); z ní pijete a z ní roste rostlinstvo, jímž pasete svá stáda. 16:10
+- On je ten, kdo podrobil moře (pro vás), abyste z něj jedli čerstvé maso (ryby) a abyste z něj dostávali ozdoby, které nosíte. 16:14
+- On na zemi umístil hory, aby s vámi neklesala, a řeky a cesty, abyste se správně vedli. 16:15
+- Je Ten, kdo tvoří, jako ten, kdo netvoří? Což si to nepřipomenete? 16:17
+- Kdybyste chtěli spočítat Alláhova požehnání, nedokázali byste je spočítat. 16:18
+- Allah zná, co skrýváte a co zjevujete. 16:19
+- Ti, které (modloslužebníci) vzývají vedle Allaha, nic nestvořili, ale sami jsou stvořeni. 16:20
+- (Jsou) mrtví, bez života, a nevědí, kdy budou vzkříšeni. 16:21
+- Naše slovo k věci, když ji chceme, je jen to, že řekneme: "Staň se!" a ona se stane. 16:40
+- Ti, kdo vymýšlejí špatné úklady, jsou si jisti, že je Alláh neponoří do země, nebo že je trest nezastihne z místa, odkud to nečekají? 16:45
+- Jakékoliv dobro a milosti, které máte, jsou od Allaha. Poté, když vás postihne neštěstí, k Němu hlasitě voláte o pomoc. 16:53
+- Když od vás neštěstí odvrátí, hle, někteří z vás přidružují k svému Pánu (Allahovi) společníky. 16:54
+- V dobytčatech je pro vás poučení. Dáváme vám pít z toho, co je v jejich břichách, mezi výkaly a krví, mléko čisté, chutné pro pijící. 16:66
+- Nepřirovnávejte Allaha k ničemu (neboť nic není podobné Jemu, ani On se nepodobá ničemu). Věru, Allah ví, zatímco vy nevíte. 16:74
+- Vězte, že Bůh dal lidem sluch, zrak, rozum a city, aby byli vděční. 16:78
+- Vyhýbejte se chamtivosti a lakotě. 16:97
+- Když chceš předčítat Korán, hledej útočiště u Allaha před Satanem, ukamenovaným. 16:98
+- Vězte, že přestupek spáchaný z nevědomosti je odpuštěn, pokud se člověk kaje a napraví. 16:119
+- Vyzývej (Muhammade) k cestě svého Pána (Islámu) moudrostí a dobrým napomenutím, a veď s nimi diskusi způsobem nejlepším. Vyzývání druhých k cestě Boží má být s moudrostí a laskavostí. 16:125
+- Allah je s těmi, kdo se ho bojí (plní svou povinnost vůči Němu), a s těmi, kdo konají dobro. 16:128
+- Tento Korán vede k tomu, co je nejspravedlivější. 17:9
+- Žádný hříšník nebude nést břemeno hříchů druhého. 17:15
+- Kdo touží po životě budoucím a usiluje o něj náležitým úsilím, a je věřící – těm bude jejich úsilí oceněno a odměněno (Allahem). 17:19
+- Cti své rodiče a zacházej s nimi laskavě. Buďte k rodičům poslušní. Neříkejte jim ani slovo neúcty. Tvůj Pán přikázal, abyste uctívali pouze Jeho. A abyste byli dobří k rodičům. Jestliže jeden z nich nebo oba dosáhnou ve tvém životě stáří, neříkej jim "Fuj!" a neodbývej je, ale mluv s nimi slovy úcty. 17:23
+- A skloň před nimi křídlo pokory a milosrdenství a řekni: "Pane můj, smiluj se nad nimi, jako oni se smilovali nade mnou, když jsem byl malý." 17:24
+- Rozmarní utrácejí jsou bratři satanů; a satan je vůči svému Pánu nevděčný. 17:27
+- Neplytvejte penězi. 17:29
+- Nezabíjejte své děti ze strachu z chudoby. 17:31
+- Nedopouštějte se cizoložství. Chraňte svatost manželství a vyhýbejte se cizoložství. 17:32
+- Dávejte plnou míru, když měříte, a važte spravedlivou váhou. To je lepší (prospěšnější) a konečný výsledek je lepší. 17:35
+- Nenásleduj (člověče) to, o čem nemáš žádné vědění (např. říkat: "Viděl jsem", ačkoli jsem neviděl, nebo "Slyšel jsem", ačkoli jsem neslyšel). 17:36
+- Buďte pokorní a nebuďte pyšní. Nechoďte po zemi s domýšlivostí. Zemi nemůžeš rozpoltit a nedosáhneš výšky hor. 17:37
+- Váš Pán vás nejlépe zná; chce-li, smiluje se nad vámi, nebo chce-li, potrestá vás. 17:54
+- Kdo je slepý v tomto světě (tj. nevidí Alláhova znamení a nevěří v Něj), bude slepý i v životě budoucím, a ještě více zbloudilý z cesty. 17:72
+- Dodržujte stanovené časy modliteb. 17:78
+- V tomto Koránu jsme lidem všestranně vysvětlili každý druh podobenství, ale většina lidí odmítá (pravdu) a nevěří. 17:89
+- Uvedli jsme v tomto Koránu pro lidi každý druh příkladu. Ale člověk je nejhašteřivější ze všeho. 18:54
+- Jejich odměnou bude peklo; za to, že nevěřili a že si z mých znamení a mých poslů dělali posměch. 18:106
+- Nepřísluší (Veličenstvu) Allaha, aby si vzal dítě (to se vztahuje na pomluvu křesťanů proti Allahovi, že Ježíš je syn Boží). On je slaven (a povýšen nade vše, co Mu přidružují). 19:35
+- Mluvte s lidmi mírně. 20:44
+- Předhánějte se v dobrých skutcích. 21:90
+- Vyhýbejte se planým řečem. 23:3
+- Střežte svou cudnost. 23:5
+- Chraňte své srdce před hříšnými sklony. 23:97
+- Odpouštějte druhým a promíjejte jejich přestupky. 24:22
+- Respektujte soukromí druhých, zejména v jejich domovech. Plňte práva sousedů. 24:27
+- Sklánějte zrak (muži i ženy). Střežte svou cudnost a skromnost. 24:30
+- Zachovávejte skromnost v oblékání a chování. 24:31
+- Vězte, že Bůh dává bezpečí a mír těm, kdo Jej uctívají a konají dobro. 24:55
+- Nevcházejte do soukromého pokoje rodičů bez dovolení. 24:58
+- Buďte skromní a pokorní. 25:63
+- Vyhýbejte se křivému svědectví a podvodu. 25:72
+- Usilujte o odměnu v budoucím životě, ale nezanedbávejte své záležitosti v tomto světě. 28:77
+- Nevzývejte kromě Allaha žádné jiné božstvo. 28:88
+- Nedopouštějte se homosexuality. 29:29
+- Usilujte o dokonalost ve všem svém snažení. 29:69
+- Dodržujte modlitbu a dávejte almužnu. 31:4
+- Přikazujte dobré a zakazujte špatné. 31:17
+- Vyhýbejte se pýše v chování. Neztrácejte čas planými řečmi. 31:18
+- Buďte uměření v chůzi a v hlasitosti svého hlasu. 31:19
+- Následujte příklad Proroka Muhammada. 33:21
+- Ženy by neměly vystavovat a vychloubat se svou krásou a ozdobami. 33:33
+- Mluvte pravdu za všech okolností. 33:70
+- Hledejte moudrost a porozumění skrze rozjímání. 38:29
+- Dodržujte příkazy Koránu. 39:23
+- Bůh odpouští všechny hříchy, když se hříšník kaje a obrací se k Němu. 39:53
+- Konejte upřímnou du'a (modlitbu) k Allahovi. 40:60
+- Odplácejte zlo tím, co je lepší. 41:34
+- Rozhodujte věci poradou. 42:38
+- Nepozdvihujte svůj hlas nad hlas Proroka. 49:2
+- Chraňte tajemství a vyhýbejte se zradě. 49:6
+- Usnadňujte mír mezi těmi, kdo jsou v konfliktu. Hledejte smíření v konfliktech. 49:9
+- Nevysmívejte se druhým. 49:11
+- Vyhýbejte se podezírání. Vyhýbejte se špehování a pomluvám. Nepomlouvejte a nenařizujte druhé. Vyhýbejte se všem formám pomluv a nařčení. Nedovolte, aby vás pýcha vedla k nespravedlnosti. 49:12
+- Vězte, že pouze zbožnost činí člověka urozeným. Respektujte rozdíly mezi lidmi a kulturami. 49:13
+- Cti hosty. 51:26
+- Dbejte na své povinnosti vůči Allahovi. 51:56
+- Vynakládejte majetek na dobročinnost. 57:7
+- Vězte, že v náboženství není mnišství (zřeknutí se manželství a pohodlí jako mniši, jeptišky nebo jiní žijící pod řeholními sliby, nebo budovy, ve kterých žijí). 57:27
+- Nenechte se majetkem odvracet od vzpomínky na Allaha. 58:11
+- Ti, kdo mají vědění, dostanou od Boha vyšší postavení. 58:11
+- Chovejte se k nemuslimům laskavě a spravedlivě. 60:8
+- Vyhýbejte se pokrytectví ve svém přesvědčení a jednání. 63:9
+- Stůjte stranou chamtivosti a lakoty. 64:16
+- Chraňte zjevení, která vám byla svěřena. 73:15
+- Pamatujte na Den soudu. 75:36
+- Přikazujte trpělivost a soucit. 90:17
+- Ti, kdo očišťují své duše, uspějí; a ti, kdo je kazí, ztroskotají. 91:10
+- Neodhánějte od sebe chudé. 93:10
+- Hledejte vědění a porozumění. Čtěte Korán a rozjímejte nad ním. 96:1–5
+- Podporujte krmení chudých. 107:3
 """;

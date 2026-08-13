@@ -3317,4 +3317,280 @@ Matching Phrases 8 words
 - Allah amakulitsa rizq kwa amene wamfuna mwa akapolo Ake ndipo amamufinyitsa. (اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ) 28:82; 29:62
 - Ndipo inu mudzabwezedwa kwa Wodziwa zobisika ndi zoonekera, ndipo Iye adzakudziwitsani zimene munali kuchita. (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
 - Ndipo abale a magazi, ena a iwo ali ndi ufulu woposa ena pa ena m'buku la Allah. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
+cmds - Commands, Exhortations, Prohibitions, Instructions
+- fard / wajib (فرض / واجب) — choyenera (kuyenera kuchita; uchimo kusiya)
+- mustahabb / mandub (مستحب / مندوب) — cholimbikitsidwa (mphotho ngati wachita, si uchimo ngati wasiya)
+- mubah (مباح) — chosalowerera ndale / chololedwa (palibe mphotho kapena uchimo)
+- makruh (مكروه) — chosakondedwa (chosalimbikitsidwa, koma si uchimo ngati wachita)
+- haram (حرام) — choletsedwa (uchimo kuchita)
+- halal (حلال, chololedwa / chovomerezeka) — chimaphatikizapo mubah ndi mustahabb — chilichonse chomwe sichinaletsedwe
+- Lembani Mulungu yekha ndipo funsani chithandizo/chithandizo chake. 1:5
+- Lembani Mulungu yekha. 2:21
+- Musaphatikize Mulungu ndi ena. 2:22
+- Mulungu ndi amene amakhululuka (amavomereza kulapa), Iye anavomereza kulapa kwa Adamu (عَلَيْهِ ٱلسَّلَامُ). 2:37
+- Musasakanize choonadi ndi chabodza, kapena kubisa choonadi. 2:42
+- Pangani Salat (mapemphero a tsiku ndi tsiku), ndipo perekani Zakat (chithandizo). 2:43
+- Lamulirani ena kuchita zabwino mutazichita nokha. 2:44
+- Funsani chithandizo cha Mulungu mu zochita zanu zonse. 2:45
+- Musachite kapena kufalitsa chionongeko. 2:60
+- Musalepheretse anthu kupita kunyumba zopempherera. 2:114
+- Lemekezani chiyero cha mzikiti. Sungani malo anu opempherera aukhondo ndi oyera. 2:125
+- Kumbukirani Mulungu (mwa kupemphera, kulemekeza, ndi zina) ndipo Iye adzakukumbukirani, ndipo khalani othokoza Kwa Iye. 2:152
+- Khalani opirira pamavuto. 2:153
+- Musatsatire mapazi a Satana yemwe ndi mdani woonekera. 2:168
+- Musatsatire wina aliyense mopanda kudziwa. 2:170
+- Sungani ndi kukwaniritsa zidindo zonse. Kwaniritsani ntchito zanu zachipembedzo ndi mtima wonse. Kwaniritsani malumbiro ndi mapangano anu. Sungani malonjezo, makamaka omwe mwapanga kwa Mulungu. Thandizani omwe akusowa ndi kuchepetsa mavuto. Pewani kuchita machimo omwe amabweretsa kutaya chisomo cha Mulungu. Musalole kuti kunyada kukubweretsani ku kupanda chilungamo. 2:177
+- Pali (chipulumutso cha) moyo kwa inu mu Al-Qisas (Lamulo la Kufanana pa chilango). 2:179
+- Siyani kudya m'mwezi wa Ramadan. Sungani kusiya kudya komwe kwalamulidwa kuti mukhale Al-Muttaqun (opembedza). 2:183
+- Lemekezani Qur'an ngati gwero lomaliza la chitsogozo. 2:185
+- Musadye chuma cha wina mopanda chilungamo, kapena kupereka ziphuphu kwa oweruza (musanakaike milandu yanu). 2:188
+- Musazunze ena, mwa mawu kapena zochita. Musachite nawo nkhondo ngati woukira koma ngati wodziteteza. 2:190
+- Tetezani ana amasiye. Ponena za ana amasiye, gwirani ntchito mwachilungamo pa chuma chawo ndipo musadye chuma chawo. 2:220
+- Lapani ndi kupempha chikhululuko kwa Mulungu. Musagonane pa nthawi ya kusamba. Sungani chiyero (mwathupi ndi mwauzimu). 2:222
+- Kwaniritsani maudindo anu pa banja lanu. 2:233
+- Sankhani atsogoleri potengera kuyenerera kwawo. 2:247
+- Musakakamize pa chipembedzo. 2:256
+- Perekani chuma chanu mu chithandizo. Khalani othandiza mu chuma ndi nthawi. 2:261
+- Musasokoneze chithandizo chanu poyanika za kukoma mtima kwanu. 2:264
+- Satana amakuyopsezani ndi umphawi ndipo amakulamulani kuchita zoyipa (zochita zoipa, kugonana kosaloledwa, machimo). 2:268
+- Sakani osowa ndi kuwathandiza. 2:273
+- Musachite nawo zandalama kapena chiwongoladzanja. Musadye chuma cha chiwongoladzanja. Musadye Riba (chiwongoladzanja). 2:275
+- Perekani nthawi yowonjezera kuti abweze ngati wobwerekayo ali pamavuto. 2:280
+- Khalani omvera mawu anu mu malonda. Khalani ochoka mu zochita zanu zachuma. Chitani zinthu mwachilungamo pa mapangano anu onse. Mukangobwereka ndalama kwa nthawi yotsimikizika, lembani. Tengani mboni nthawi iliyonse yomwe mungapange mgwirizano wamalonda. 2:282
+- Sungani ndi kukwaniritsa zidindo zonse. 2:283
+- Khulupirirani m'Mabuku ovumbulutsidwa ndi Aneneri onse. 2:285
+- Mulungu sakhazikitsa munthu choposa mphamvu zake. Adzalandira mphotho ya zabwino zomwe adachita, ndipo adzalangidwa chifukwa cha zoipa zomwe adachita. Mulungu sakhazikitsa munthu choposa mphamvu zake; ifenso sitiyenera kutero. Khulupirirani mu dongosolo la Mulungu ngakhale pamavuto. 2:286
+- Aliyense amene akwaniritsa malonjezo ndipo amaopa Mulungu kwambiri, ndiye Mulungu amakonda anthu olungama. 3:76
+- Pitani Hajj (ulendo wopembedza) ngati mungathe. 3:97
+- Musagawikane. 3:103
+- Lamulirani zabwino ndi kuletsa zoyipa. Limbikitsani chilungamo m'mudzi wanu. Itanani ena kuti akumbukire Mulungu. 3:104
+- Okhulupirira ayenera kudalira Mulungu. 3:122
+- Musadye Riba (chiwongoladzanja). 3:130
+- Mverani Mulungu ndi Mtumiki Wake kuti mulandire chifundo. 3:132
+- Mulungu amakonda omwe amapereka (mu ntchito ya Mulungu - zochita zachifundo, zopereka, ndi zina) mu kulemera ndi m'mavuto, omwe amadziletsa mkwiyo, ndi omwe amakhululukira anthu. 3:134
+- Dziletseni mkwiyo. Lamulirani mkwiyo wanu. 3:134
+- Khululukirani ndi kukhululukira zolakwa za ena. 3:135
+- Musakhale aukali m'mawu. Khalani opirira ndi omwe amasiyana ndi inu. 3:159
+- Ngati Mulungu akuthandizani, palibe amene angakugonjetseni; ndipo ngati Iye akukusiyani, ndi ndani pambuyo Pake amene angakuthandizeni? 3:160
+- Aliyense adzalawa imfa. Ndipo pa Tsiku la Chiukiriro mokha mudzalandira mphotho yanu yonse. 3:185
+- Ganizirani mozama za zodabwitsa za chilengedwe ndi kulengedwa kwa chilengedwe ichi. Dziwani kuti Mulungu adalenga chilengedwe ndi tanthauzo ndi cholinga. 3:191
+- Amuna ndi akazi ali ndi mphotho yofanana pa zochita zawo. 3:195
+- Kwa iwo amene amaopa Mbuye wawo, pali Minda yomwe mitsinje ikuyenda pansi pake (mu Paradaiso); adzakhala momwemo nthawi zonse, monga kusangalala kuchokera kwa Mulungu. 3:198
+- Yesetsani nthawi zonse kukondweretsa Mulungu mu zochita zonse. 3:200
+- Khalani omvera kwa Mbuye wanu, muopeni Iye ndipo (musadule ubale wa) mabanja (achibale). 4:1
+- Patsani ana amasiye chuma chawo ndipo musasinthane (zoyipa zanu) ndi zabwino zawo; ndipo musadye chuma chawo (powonjezera ku chuma chanu). 4:2
+- Patsani akazi (amene mwakwatira) Mahr yawo (ndalama zaukwati zomwe mwamuna amapereka kwa mkazi wake panthawi yaukwati) ndi mtima wabwino. 4:4
+- Tetezani ufulu wa ana amasiye. 4:6
+- Chuma cha wakufa chiyenera kugawidwa pakati pa abale ake a m'banja. Akazi ali ndi ufulu wa cholowa. 4:7
+- Musadye chuma cha ana amasiye mopanda chilungamo. 4:10
+- Mverani malamulo okhudza cholowa. 4:11
+- Nkololedwa kulowa cholowa cha akazi mosagwirizana ndi mafunso awo, ndipo musawachitire nkhanza. Khalani nawo (akazi) mwaulemu. Lemekezerani ndi kusunga ufulu wa akazi. Chitirani mkazi wanu mwachifundo ndi chikondi. Chitirani akazi ndi ulemu ndi chilungamo. 4:19
+- Musakwatire omwe ali pachibale ndi inu mwa magazi. 4:23
+- Musadziphe (kapena kuphana wina ndi mzake). Ndithudi, Mulungu ndi Wachifundo kwa inu. Musadye chuma cha wina mopanda chilungamo. 4:29
+- Ngati mupewa machimo akulu omwe adaletsedwa, Mulungu adzakukhululukirani machimo (ang'ono) anu, ndipo adzakulowetsani mu Khomo Lolemekezeka (Paradaiso). 4:31
+- Musalakalake zinthu zimene Mulungu wawapatsa ena kuti apambane ena. Pewani nsanje ndi kaduka. 4:32
+- Amuna ndi oyang'anira ndi osamalira akazi, chifukwa Mulungu wapatsa ena mwa iwo kukhala apamwamba kuposa ena, ndiponso chifukwa amapereka (kuti awasamalire) kuchokera m'chuma chawo. Mwamuna ndiye mlengi ndi wothandizira wa banja. 4:34
+- Lembani Mulungu ndipo musaphatikize Iye ndi china chilichonse, chitirani zabwino makolo, achibale, ana amasiye, osauka, woyandikana nawo, mnzake yemwe ali pambali panu, wapaulendo (amene mumakumana naye), ndi iwo (akapolo) amene dzanja lanu lamanja lili nawo. Mulungu sakonda anthu odzitukumula ndi onyada. Chitirani zabwino ena. Sondezani chifundo kwa ofooka. Sungani ubale wa m'banja ndi kulemekeza achibale. 4:36
+- Musakhale achidwi. 4:37
+- Mulungu sakhululukira kuti ena aziphatikizidwa naye mu kupembedza, koma amakhululukira china chilichonse kupatula icho kwa amene Iye wamufuna. 4:48
+- Musachite nsanje ndi ena. 4:54
+- Mulungu akulamulani kuti mubweze zidindo kwa eni ake. Mukamaweruza pakati pa anthu, weruzani mwachilungamo. 4:58
+- Mverani Mulungu ndi Mtumiki Wake. Perekani ulemu woyenera kwa iwo amene ali ndi ulamuliro pakati panu. 4:59
+- Musazunze ofooka ndi opanda mphamvu. 4:75
+- Chilichonse chabwino chimene chikufikani, sichochokera kwa Mulungu; koma chilichonse choipa chimene chikugwerani, sichochokera kwa inu nokha. 4:79
+- Aliyense amene amamvera Mtumiki (Muhammad ﷺ), wamvera Mulungu. 4:80
+- Aliyense amene achita upemphero pa ntchito yabwino, adzalandira mphotho yake; ndipo aliyense amene achita upemphero pa ntchito yoipa, adzanyamula gawo la mlandu wake. 4:85
+- Sikoyenera kwa wokhulupirira kupha wokhulupirira wina kupatula mwangozi. 4:92
+- Aliyense amene amapha wokhulupirira mwadala, malipiro ake ndi Gahena, adzakhala momwemo nthawi zonse. Mkwiyo ndi Temberero la Mulungu zili pa iye, ndipo chilango chachikulu chakonzedwa kwa iye. 4:93
+- Aliyense amene asamuka (kuchokera kwawo) mu njira ya Mulungu, adzapeza pa dziko malo ambiri okhala ndi zambiri zoti akhale. 4:100
+- Khalani omasuka panthawi ya mapemphero anu. 4:103
+- Musathandize kapena kukhala loya wa iwo amene amaipitsa zidindo zawo. 4:105
+- Pemphani Chikhululuko cha Mulungu, ndithudi Mulungu ndi Wokhululukira, Wachifundo. 4:106
+- O inu amene mwakhulupirira! Khalani olimba pa chilungamo, monga mboni za Mulungu, ngakhale zili pa inu nokha, kapena makolo anu, kapena achibale anu, kaya ndi wolemera kapena wosauka. Musachedwetse chilungamo; chitani mwamsanga kuti mukonze zolakwika. 4:135
+- Anthu achinyengo amafuna kunyenga Mulungu, koma Iye ndiye amawanyenga. 4:142
+- Anthu achinyengo adzakhala m'kuya kwambiri (m'munsi) kwa Moto; simudzawapezera omuthandiza. 4:145
+- Mulungu sakonda kuti choipa chizilankhulidwa poyera kupatula ndi amene wachitiridwa nkhanza. 4:148
+- Atumiki monga onyamula uthenga wabwino komanso opatsa chenjezo kuti anthu asakhale ndi chifukwa chotsutsa Mulungu pambuyo pa Atumiki. 4:165
+- Kwaniritsani mapangano ndi malonjezo anu. 5:1
+- Thandizani wina ndi mnzake mu zabwino ndi kumvera Mulungu, osati mu machimo ndi udani. 5:2
+- Musadye nyama yakufa, magazi a nyama, kapena nyama ya nkhumba. 5:3
+- Khalani olungama, musalole kuti udani ndi chidani cha ena zikulepheretseni ku chilungamo. Khalani olungama. Dziwani kuti kukhala olungama ndi pafupi ndi kumvera Mulungu. Musachedwetse chilungamo; chitani mwamsanga kuti mukonze zolakwika. 5:8
+- Sakani njira zoyandikira Mulungu, ndipo yesetsani mwa njira Yake momwe mungathere. Kuti mupambane. 5:35
+- Kwaniritsani malumbiro ndi mapangano anu. 5:89
+- Pewani zoledzeretsa ndi mowa. Pewani kwambiri zoledzeretsa (mitundu yonse ya zakumwa zoledzeretsa), kutchova juga, Al-Ansab (miyala yopempherera), ndi Al-Azlam (mivi yofunafuna mwayi kapena chisankho) zomwe zonse ndi zodetsa za ntchito ya Satana. 5:90
+- Musaphe nyama zakuthengo pamene muli m'malo a Ihram a Hajj kapena 'Umrah (ulendo wopembedza). 5:95
+- Musafunse za zinthu zomwe, ngati zingafotokozeredwe kwa inu, zingakuvutitseni. 5:101
+- Musanyoze milungu ya ena. Musanyoze zomwe iwo (osakhulupirira) amapembedza kupatula Mulungu, kuti asanyoze Mulungu mopanda nzeru. 6:108
+- Ngati mumvera ambiri a iwo amene ali pa dziko lapansi, adzakusokonezani kutali ndi njira ya Mulungu. Iwo amatsatira zongoganizira kokha, ndipo sali koma kunama. 6:116
+- Siyani (anthu) machimo onse, oonekera ndi obisika. 6:120
+- Musadye (okhulupirira) za (nyama) yomwe Dzina la Mulungu silinanenedwe pa iyo (pa nthawi yakupha nyama). 6:121
+- Aliyense amene Mulungu afuna kumutsogolera, amatsekula chifuwa chake ku Islam, ndipo aliyense amene afuna kumsokoneza, amachita chifuwa chake chopapatiza ndi chothina. 6:125
+- Khalani olera mu ndalama ndipo pewani kuwononga. Sungani ufulu wa zolengedwa zonse. 6:141
+- Musaphatikize china chilichonse ndi Mulungu mu kupembedza, chitirani zabwino makolo, musaphe ana anu chifukwa cha umphawi, musayandikire zonyansa, musaphe wina aliyense amene Mulungu waletsa, kupatula pa chifukwa choyenera. 6:151
+- Khalani akuononga; musanyenge pa zochita zanu zilizonse. Musayandikire chuma cha mwana wamasiye, kupatula kuti mukonze, perekani muyeso wathunthu ndi kulemera kwathunthu mwachilungamo, nthawi iliyonse mukamalankhula, lankhulani choonadi ngakhale kwa wachibale wapafupi, ndipo kwaniritsani Mapangano a Mulungu. 6:152
+- Tsatirani Njira Yolunjika ndipo musatsatire njira (zina), chifukwa zidzakulekanitsani ndi Njira Yake. 6:153
+- Nena (O Muhammad ﷺ): "Ndithudi, mapemphero anga, nsembe zanga, moyo wanga, ndi imfa yanga zonse ndi za Mulungu, Mbuye wa zolengedwa." 6:162
+- Musadzitukumule. 7:13
+- Musalole Satana kukunyengani. 7:27
+- Nena (O Muhammad ﷺ): "Mbuye wanga walamula chilungamo…" 7:29
+- Kwaniritsani malire amene Mulungu waika pa zinthu zonse. Pewani kuphwanya m'mawu ndi zochita. Idyani ndi kumwa koma musapyole muyeso. Valani zovala zabwino pa nthawi yopemphera. 7:31
+- Mulungu adalenga mlengalenga ndi dziko lapansi mu Masiku asanu ndi limodzi, ndipo kenaka adakhazikika pa Mpando (Wachifumu) (m'njira yoyenera Ulemu Wake). 7:54
+- Pemphani Mbuye wanu modzichepetsa ndi mwachinsinsi. Iye sakonda olakwa. 7:55
+- Ndipo musawononge pa dziko, pambuyo poti likonzedwa, ndipo mumupemphe Iye ndi mantha ndi chiyembekezo. 7:56
+- Koma iwo amene adachita zoipa ndipo adalapa pambuyo pake ndipo adakhulupirira, ndithudi, Mbuye wanu pambuyo pa (zonse) zimenezi ndi Wokhululukira, Wachifundo. 7:153
+- Nena (O Muhammad ﷺ): "O anthu! Ndithudi, ine ndatumizidwa kwa inu nonse monga Mtumiki wa Mulungu…" 7:158
+- Ndipo (Mazina) Onse Abwino kwambiri ndi a Mulungu, choncho mpempheni Iye ndi iwo, ndipo siyani iwo amene amakana (kapena kunyoza) Mayina Ake… 7:180
+- Aliyense amene Mulungu amusokoneza, alibe womutsogolera; ndipo Iye amawasiya kuti ayeseye mopusa mu zolakwa zawo. 7:186
+- Sondezani chikhululukiro, lamulani zabwino, ndipo chokani mbali zopusa (mwachitsanzo, musawalange). 7:199
+- Khululukirani ena zolakwa zawo. 7:199
+- Ndipo ngati kunyengezera koipa kuchokera kwa Satana kukufikirani, ndiye funsani chitetezo kwa Mulungu. Iye ndi Womva, Wodziwa. 7:200
+- Okhulupirira ndi amene okha, pamene Mulungu atchulidwa, mitima yawo imachita mantha, ndipo pamene mavesi Ake awerengedwa kwa iwo, amawonjezera Chikhulupiriro chawo… 8:2
+- Musanyengerere Mulungu ndi Mtumiki Wake, ndipo musanyengerere zidindo zanu (ndi ntchito zonse zimene Mulungu wakulamulani) pamene mukudziwa. 8:27
+- Ngati mumvera ndi kuopa Mulungu, Iye adzakupatsani Furqan (chisankho choti musiyanitse pakati pa choonadi ndi chabodza, kapena njira yotulukira m'mavuto onse). 8:29
+- Iwo amene sakhulupirira amawononga chuma chawo pofuna kulepheretsa (anthu) ku njira ya Mulungu, ndipo adzapitiliza kuwononga; koma pamapeto pake zidzakhala chisoni kwa iwo. 8:36
+- Nena kwa iwo amene sadakhulupirire, ngati asiye (kusakhulupirira) zolakwa zawo zakale zidzakhululukidwa. Koma ngati abwerera (pamenepo), ndiye zitsanzo za iwo (omwe adalangidwa) kale zidaperekedwa (monga chenjezo). 8:38
+- Pamene mukukumana ndi (gulu lankhondo la mdani) khalani olimba ndipo kumbukirani Dzina la Mulungu pafupipafupi (ndi lilime ndi malingaliro), kuti mupambane. 8:45
+- Musakhale ngati iwo amene adatuluka m'nyumba zawo monyada ndi kuti awonekere ndi anthu, ndipo (amalepheretsa) anthu ku njira ya Mulungu. 8:47
+- Mulungu sasintha chisomo chimene wapatsa anthu mpaka pamene asintha zomwe zili mwa iwo eni. 8:53
+- Zolengedwa zoipa kwambiri pamaso pa Mulungu ndi iwo amene sakhulupirira. 8:55
+- Mulungu amaika chikondi ndi chimvano pakati pa mitima ya iwo amene amakhulupirira Mwa Iye. 8:63
+- Tetezani ndi kuthandiza iwo amene akufuna chitetezo. 9:6
+- Sikoyenera kwa Mushrikun, kusamalira Mzikiti wa Mulungu. 9:17
+- Iwo (osakhulupirira, Ayuda ndi Akhristu) akufuna kuzimitsa Kuwala kwa Mulungu (komwe Muhammad ﷺ adatumizidwa nawo - Chikhulupiriro cha Mulungu Mmodzi) ndi pakamwa pawo, koma Mulungu salola koma Kuwala Kwake kukwaniritsidwe, ngakhale osakhulupirira akudana nazo. 9:32
+- As-Sadaqat (mwachitsanzo Zakat) ndi za: 1) osauka, 2) osowa, 3) omwe agwiritsidwa ntchito kusonkhanitsa ndalama, 4) kukopa mitima ya omwe ayandikira Islam, 5) kumasula akaidi, 6) aomwe ali ndi ngongole, 7) pa ntchito ya Mulungu (mwachitsanzo a Mujahidun), ndi 8) kwa wapaulendo. 9:60
+- Aliyense amene akutsutsa ndi kudana ndi Mulungu ndi Mtumiki Wake (ﷺ), ndithudi kwa iye ndi Moto wa Gahena momwe adzakhale nthawi zonse. Ichi ndi manyazi akulu. 9:63
+- Anthu achinyengo, amuna ndi akazi, ndi ochokera kwa wina ndi mnzake. Iwo adaiwala Mulungu, kotero Iye adawaiwala. 9:67
+- Yesetsani kuyera. Lemekezani chiyero cha mzikiti. 9:108
+- Sikoyenera (kwa Mneneri ndi iwo amene akhulupirira) kupempha Chikhululuko kwa Mulungu kwa Mushrikun ngakhale ali pachibale, pambuyo poveka kwa iwo kuti iwo ndi anthu a Moto (chifukwa adamwalira ali m'kusakhulupirira). 9:113
+- Ndani wochita kupanda chilungamo kuposa amene amapeka bodza pa Mulungu kapena kukana Mavesi Ake? Ndithudi, ochimwa sadzapambana! 10:17
+- Iwo amapembedza, kupatula Mulungu, zinthu zimene sizikuwavulaza, kapena kuwapindulitsa, ndipo amati: "Ichi ndiye akupembedza athu kwa Mulungu." Nena: "Kodi mukudziwitsa Mulungu zomwe Iye sadziwa kumwamba ndi padziko lapansi?" Walemekezeka ndipo Wapamwamba kuposa zonse zimene amamuphatikiza nazo! 10:18
+- Malipiro a choipa ndi choipa chofanana nacho. 10:27
+- Uyo ndi Mulungu, Mbuye wanu wa choonadi. Ndiye pambuyo pa choonadi, ndi chiyani china kupatula chosokoneza? Nanga mukutembenuzidwa bwanji? 10:32
+- Ambiri a iwo amatsatira zongoganizira. Ndithudi, kungoganizira sikungathandize chilichonse pa choonadi. 10:36
+- Ndithudi! Mulungu sawachitira kupanda chilungamo anthu mwa chilichonse; koma anthu amadzichitira okha kupanda chilungamo. 10:44
+- Dziwani kuti chisomo cha Mulungu ndi chabwino kuposa chilichonse chimene munthu angasonkhanitse kapena kusunga. 10:58
+- Musakhale m'modzi mwa iwo amene amakana Mavesi a Mulungu, chifukwa ndiye mudzakhala mwa otaya. 10:95
+- Ngati Mulungu akukhudzani ndi mavuto, palibe amene angachotse kupatula Iye; ndipo ngati Iye akufunirani zabwino, palibe amene angabweze Chifundo Chake chimene Iye amachipereka kwa amene Iye wamufuna mwa akapolo Ake. 10:107
+- Palibe cholengedwa chilichonse pa dziko lapansi koma chakudya chake chimachokera kwa Mulungu. Ndipo Iye amadziwa malo ake okhala ndi malo ake osungirako (m'chiberekero, m'manda, ndi zina). 11:6
+- Ngati timupatsa munthu kulawa Chifundo Chathu, ndipo kuchichotsa kwa iye, ndithudi! Iye amakhala wotaya mtima, wosathokoza. 11:9
+- Aliyense amene amafuna moyo wa padziko lapansi ndi zokongola zake; iwo tidzawapatsa mokwanira (malipiro a) ntchito zawo m'menemo, ndipo sadzachedwetsedwa chilichonse. 11:15
+- Sitidawachitire kupanda chilungamo, koma iwo adadzichitira okha kupanda chilungamo. Kotero milungu yawo, kupatula Mulungu, yomwe amapembedza, sinawapindulitse kalikonse pamene lamulo la Mbuye wanu lidadza, ndipo sizinawonjezere china koma chionongeko. 11:101
+- Pa Tsiku limene lidzadza, munthu aliyense sadzalankhula kupatula ndi Chilolezo Chake (Mulungu). Ena mwa iwo adzakhala omvetsa chisoni ndi (ena) odala. 11:105
+- Kwa iwo amene ali omvetsa chisoni, adzakhala mu Moto, momwe akulira mokweza ndi motsitsa. 11:106
+- Adzakhala momwemo nthawi yonse yomwe mlengalenga ndi dziko lapansi zidzakhalapo, pokhapokha ngati Mbuye wanu angafune. Ndithudi, Mbuye wanu ndi wochita zomwe Iye afuna. 11:107
+- Ndipo iwo amene ali odala, adzakhala mu Paradaiso, okhala momwemo nthawi yonse yomwe mlengalenga ndi dziko lapansi zidzakhalapo, pokhapokha ngati Mbuye wanu angafune, mphatso yosatha. 11:108
+- Musakondelere iwo amene amachita kupanda chilungamo, kuti Moto usakukhudzeni, ndipo inu musakhale ndi atetezi ena kupatula Mulungu, kapenanso kuthandizidwa. 11:113
+- Pangani Salat pa mapeto awiri a tsiku ndi maola ena a usiku (mwachitsanzo mapemphero 5 a tsiku ndi tsiku). Zochita zabwino zimachotsa zochita zoipa (mwachitsanzo machimo ang'ono). 11:114
+- Nda Mulungu zili zobisika za mlengalenga ndi dziko lapansi, ndipo kwa Iye zibwerera zinthu zonse (pachisankho). 11:123
+- Lamulo (kapena chiweruzo) ndi cha Mulungu. Iye walamula kuti musapembedze wina koma Iye (Chikhulupiriro cha Mulungu Mmodzi), ndicho chipembedzo cholunjika, koma anthu ambiri sadziwa. 12:40
+- Musataye mtima pa Chifundo cha Mulungu. 12:87
+- Ndipo anthu ambiri sadzakhulupirira ngakhale mutafunitsitsa. 12:103
+- Ndipo ambiri a iwo sakhulupirira Mulungu popanda kumuphatikiza ndi ena (mwachitsanzo iwo ndi Mushrikun). 12:106
+- Izi (Qur'an) si mawu opangidwa koma ndi chitsimikizo cha Mabuku omwe alipo kale a Mulungu (Taurat, Injeel ndi Zolemba zina za Mulungu) ndi kufotokoza mwatsatanetsatane za chilichonse ndi chitsogozo ndi Chifundo kwa anthu amene akhulupirira. 12:111
+- Mulungu amakulitsa chakudya kwa amene Iye wamufuna, ndipo amachepetsa (kwa amene Iye wamufuna). 13:26
+- Kumbukirani Mulungu nthawi zonse kudzera mu dhikr. Iwo amene amakhulupirira Mulungu amapeza chisangalalo pokumbukira Iye. 13:28
+- Iwo amene amakhulupirira ndi kuchita zabwino amapatsidwa chisangalalo ndi mtendere wamumtima. 13:29
+- Iwo amene amakonda moyo wapadziko lapansi m'malo mwa moyo wamtsogolo, ndipo amalepheretsa (anthu) ku njira ya Mulungu (mwachitsanzo Islam) ndipo amafunafuna kupotoka m'menemo – Iwo ali kutali kwambiri ndi njira. 14:3
+- Khalani odzichepetsa ndi othokoza pa kupembedza. 14:7
+- Fanizo la iwo amene sakhulupirira Mbuye wawo ndi lofanana ndi phulusa, limene mphepo imawulutsa mwamphamvu pa tsiku lachimphepo; sadzatha kupeza chilichonse mwa zomwe adapeza. 14:18
+- Mulungu adzalimbitsa iwo amene akhulupirira, ndi mawu olimba padziko lapansi (mwachitsanzo adzapitiriza kupembedza Mulungu Yekha ndi wina aliyense), ndi m'moyo wamtsogolo. 14:27
+- Musaganize kuti Mulungu sadziwa zomwe Zalimun (mushrikun, olakwa, ndi zina) akuchita, koma Iye amawapatsa nthawi mpaka Tsiku limene maso adzayang'anitsitsa ndi mantha. 14:42
+- Kuti Mulungu adzawapatsa munthu aliyense malinga ndi zimene adachita. Ndithudi, Mulungu ndi wofulumira pachiwerengero. 14:51
+- Ndipo ndithudi, ife tidalenga munthu kuchokera ku dongo lomveka, kuchokera ku matope akuda osinthika. 15:26
+- Ndipo jinn, ife tidawalenga kale kuchokera ku moto wopanda utsi. 15:27
+- Iwo (Gahena) ili ndi zipata zisanu ndi ziwiri, pa chipata chilichonse pali (gulu lapadera) la ochimwa. 15:44
+- Iye adalenga munthu kuchokera ku madzi amwamuna ndi akazi, ndipo tawonani, uyu (munthu) amakhala wotsutsana. 16:4
+- Ndipo ziweto, Iye adazilenga kwa inu; m'menemo muli kutentha (zovala zotentha), ndi mapindu ambiri, ndipo zina mwa izo mumadya. 16:5
+- Ndipo (Iye adalenga) akavalo, abulu ndi abulu, kuti mukwere ndi kukongoletsa. Ndipo Iye amalenga (zinthu) zina zomwe simukuzidziwa. 16:8
+- Iye ndi amene amatsitsa madzi (mvula) kuchokera kumwamba; kuchokera kumeneko mumamwa ndipo kuchokera kumeneko mumamera zomera zomwe mumadyetsa ziweto zanu. 16:10
+- Iye ndi amene adagonjetsa nyanja (kwa inu), kuti mudye nyama yofewa (nsomba) kuchokera mmenemo, ndi kuti mutulutse zodzikongoletsera kuchokera mmenemo kuti muzivala. 16:14
+- Iye adaika mapiri olimba pa dziko lapansi, kuti lisasunthike ndi inu, ndi mitsinje ndi misewu, kuti muzitsogozedwa. 16:15
+- Kodi Iye amene amalenga ali ngati amene salenga? Kodi simudzakumbukira? 16:17
+- Ngati mungawerenge zisomo za Mulungu, simungazithe. 16:18
+- Mulungu amadziwa zimene mumabisa ndi zimene mumavumbula. 16:19
+- Iwo amene iwo (Mushrikun) amapembedza kupatula Mulungu sanalenge chilichonse, koma iwo eni ndi olengedwa. 16:20
+- (Iwo) ndi akufa, opanda moyo, ndipo sadziwa pamene adzaukitsidwe. 16:21
+- Mawu Athu pa chinthu pamene tichifuna, ndi kungonena kwa icho: "Khala!" ndipo chimakhala. 16:40
+- Kodi iwo amene amakonza chiwembu choipa akudziona kuti ndi otetezeka kuti Mulungu sangawamize m'nthaka, kapena kuti chilango sichidzawafikira kuchokera kumbali zomwe sakuzindikira? 16:45
+- Chilichonse cha madalitso ndi zinthu zabwino zimene muli nazo, zimachokera kwa Mulungu. Ndiye pamene mavuto akukugwerani, kwa Iye mumapempha mokweza. 16:53
+- Ndiye, pamene Iye wachotsa mavuto kwa inu, taonani! Ena mwa inu amamuphatikiza Mbuye wawo (Mulungu) ndi ena. 16:54
+- Mu ziweto, pali phunziro kwa inu. Ife timakupatsani zakumwa kuchokera m'mimba mwake, kuchokera pakati pa ndowe ndi magazi, mkaka woyera; wokoma kwa omwe akumwa. 16:66
+- Kotero musapange fanizo la Mulungu (chifukwa palibe chofanana Naye, kapena Iye kufanana ndi china chilichonse). Ndithudi, Mulungu amadziwa ndipo inu simukudziwa. 16:74
+- Dziwani kuti Mulungu adapatsa anthu makutu, maso, nzeru, ndi chikondi kuti akhale othokoza. 16:78
+- Pewani umbombo ndi umbombo. 16:97
+- Pamene mukufuna kuwerenga Qur'an, funsani chitetezo kwa Mulungu kuchokera kwa Satana, wothamangitsidwayo. 16:98
+- Dziwani kuti cholakwika chochitidwa mwaumbuli chimakhululukidwa ngati munthu alapa ndi kudzikonza. 16:119
+- Itanani (O Muhammad ﷺ) anthu ku Njira ya Mbuye wanu (mwachitsanzo Islam) ndi nzeru ndi ulaliki wabwino, ndipo tsutsanani nawo m'njira yabwino. Kuitana ena ku njira ya Mulungu kuyenera kuchitidwa ndi nzeru ndi chikondi. 16:125
+- Mulungu ali ndi iwo amene amamuopa Iye (amasunga udindo wawo kwa Iye), ndi iwo amene ndi abwino. 16:128
+- Qur'an iyi ikutsogolera ku zinthu zolungama kwambiri ndi zabwino. 17:9
+- Palibe amene adzanyamule machimo a wina. 17:15
+- Aliyense amene afuna Moyo Wamtsogolo ndi kuyesetsa pa izo, ndi kuyesetsa koyenera pa izo pamene iye ali wokhulupirira, ndiye iwo otere ndi amene kuyesetsa kwawo kudzayamikiridwa ndi kulandira mphotho (kuchokera kwa Mulungu). 17:19
+- Lemekezani makolo anu ndipo awachitireni zabwino. Khalani omvera kwa makolo. Musawanene mawu achipongwe. Ndipo Mbuye wanu walamula kuti musapembedze wina aliyense koma Iye. Ndi kuti muzichitira zabwino makolo anu. Ngati mmodzi wa iwo kapena onse awiri afika pa ukalamba m'moyo wanu, musawanene mawu achipongwe, kapena kuwakalipira, koma alankhuleni mwaulemu. 17:23
+- Ndipo kwa iwo, tsitsani phiko la kudzichepetsa ndi chifundo, ndipo nena: "Mbuye wanga! Awapatse Chifundo Chanu monga momwe andilera ine ndili mwana." 17:24
+- Ndithudi, owononga ndi abale a satana, ndipo Satana ndi wosathokoza kwa Mbuye wake. 17:27
+- Musawononge ndalama. 17:29
+- Musaphe ana anu chifukwa cha mantha a umphawi. 17:31
+- Musachite chigololo. Sungani chiyero cha ukwati ndi kupewa chigololo. 17:32
+- Perekani muyeso wathunthu pamene mukuyeza, ndipo yesani ndi sikelo yolunjika. Icho ndi chabwino (chopindulitsa) ndipo ndi chabwino kumapeto. 17:35
+- Musatsatire (O munthu, mwachitsanzo musanene, kapena kuchita, kapena kuchitira umboni, ndi zina) zimene mulibe nzeru pa izo (mwachitsanzo munthu kunena: "Ndinaona," pamene sanawaone, kapena "Ndinamva," pamene sanamve). 17:36
+- Khalani odzichepetsa ndipo musadzitukumule. Musayende pa dziko monyada. Ndithudi, inu simungadutse dziko lapansi, kapena kufika kutalika kwa mapiri. 17:37
+- Mbuye wanu amakudziwani bwino; ngati Iye afuna, adzakuonezerani chifundo, kapena ngati Iye afuna, adzakulangani. 17:54
+- Aliyense amene ali wakhungu pa dziko lapansi (mwachitsanzo saona Zizindikiro za Mulungu ndipo sakhulupirira Mwa Iye), adzakhala wakhungu ku Moyo Wamtsogolo, ndipo wopotera kwambiri ku Njira. 17:72
+- Sungani nthawi yopemphera yomwe yakhazikitsidwa. 17:78
+- Ndithudi ife tafotokoza mwatsatanetsatane kwa anthu, mu Qur'an iyi, fanizo lililonse, koma anthu ambiri akana (choonadi ndipo savomereza) koma kusakhulupirira. 17:89
+- Tapereka fanizo lililonse mu Qur'an iyi, kwa anthu. Koma, munthu ndi wokonda kutsutsa kuposa china chilichonse. 18:54
+- Chimenecho ndiye malipiro awo, Gahena; chifukwa iwo sanakhulupirire ndipo adatenga Mavesi Anga ndi Atumiki Anga ngati nthabwala ndi kunyozedwa. 18:106
+- Sikoyenera (Ulemu wa) Mulungu kuti Iye akhale ndi mwana (izi zikunena za mwano wa Akhristu pa Mulungu, ponena kuti Yesu ndi mwana wa Mulungu). Walemekezeka (ndi Wapamwamba kuposa zonse zimene amamuphatikiza nazo). 19:35
+- Lankhulani ndi anthu mofatsa. 20:44
+- Limbikirani wina ndi mnzake pochita zabwino. 21:90
+- Pewani mawu opanda pake. 23:3
+- Sungani manyazi anu. 23:5
+- Sungani mtima wanu ku zilakolako zoipa. 23:97
+- Khululukirani ena ndi kukhululukira zolakwa zawo. 24:22
+- Lemekezani chinsinsi cha ena, makamaka m'nyumba zawo. Kwaniritsani ufulu wa oyandikana nawo. 24:27
+- Tsitsani maso anu (kwa amuna ndi akazi). Sungani manyazi ndi chiyero chanu. 24:30
+- Khalani odzichepetsa mu kavalidwe ndi khalidwe. 24:31
+- Dziwani kuti Mulungu amapereka chitetezo ndi mtendere kwa iwo amene amamupembedza Iye ndi kuchita zabwino. 24:55
+- Musalowe m'chipinda cha makolo anu popanda kupempha chilolezo. 24:58
+- Khalani odzichepetsa ndi aulesi. 25:63
+- Pewani umboni wabodza ndi chinyengo. 25:72
+- Yesetsani kulandira mphotho ku Moyo Wamtsogolo koma musanyalanyaze zochita zanu padziko lapansi. 28:77
+- Musapemphere wina aliyense kupatula Mulungu. 28:88
+- Musachite zogonana zosagwirizana ndi chilengedwe. 29:29
+- Yesetsani kukhala abwino kwambiri pa zoyesayesa zanu zonse. 29:69
+- Khazikitsani mapemphero ndi kupereka zothandiza. 31:4
+- Lamulirani zabwino ndi kuletsa zoyipa. 31:17
+- Pewani kunyada mu khalidwe lanu. Pewani kuwononga nthawi mu zopanda pake. 31:18
+- Khalani olera m'mayendedwe anu ndi kukweza mawu anu. 31:19
+- Tsatirani chitsanzo cha Mneneri Muhammad. 33:21
+- Akazi asavumbule kapena kunyada kukongola kwawo ndi zodzikongoletsera zawo. 33:33
+- Lankhulani choonadi nthawi zonse. 33:70
+- Funani nzeru ndi kumvetsetsa kudzera mukuganiza. 38:29
+- Mverani malamulo a Qur'an. 39:23
+- Mulungu amakhululukira machimo onse pamene wochimwa alapa ndi kutembenukira Kwa Iye. 39:53
+- Pempherani duʿā (pemphero) moona mtima kwa Mulungu. 40:60
+- Bwezani zoipa ndi zabwino. 41:34
+- Konzani zinthu mwa kukambirana. 42:38
+- Musakweze mawu anu pamwamba pa mawu a Mneneri. 49:2
+- Sungani zinsinsi ndi kupewa chinyengo. 49:6
+- Thandizani mtendere pakati pa omwe ali mkangano. Funani kuyanjanitsa mikangano. 49:9
+- Musanyoze ena. 49:11
+- Pewani kukayikira. Pewani kuzonda ndi kumuneneza. Musanene za ena kapena kuwaipitsa. Pewani mitundu yonse ya kumuneneza ndi kuwaipitsa. Musalole kuti kunyada kukubweretsani ku kupanda chilungamo. 49:12
+- Dziwani kuti ndi chilungamo chokha chimene chimamupanga munthu kukhala wolemekezeka. Lemekezani kusiyana pakati pa anthu ndi zikhalidwe. 49:13
+- Lemekezani alendo. 51:26
+- Kumbukirani maudindo anu kwa Mulungu. 51:56
+- Perekani chuma chanu mu chithandizo. 57:7
+- Dziwani kuti palibe chikhulupiriro cha amonke (kusiya ukwati ndi zinthu zotonthoza monga amonke, masisitere, kapena ena omwe amakhala ndi malonjezo achipembedzo, kapena nyumba zomwe amakhala) mu chipembedzo. 57:27
+- Musalole chuma kukusokonezani pakukumbukira Mulungu. 58:11
+- Iwo amene ali ndi nzeru adzapatsidwa udindo wapamwamba ndi Mulungu. 58:11
+- Chitirani zabwino ndi mwachilungamo kwa omwe si Asilamu. 60:8
+- Pewani chinyengo mu zikhulupiriro ndi zochita zanu. 63:9
+- Khalani kutali ndi umbombo ndi umbombo. 64:16
+- Sungani mavumbulutso omwe adaperekedwa kwa inu. 73:15
+- Kumbukirani Tsiku la Chiweruzo. 75:36
+- Lamulirani kupirira ndi chifundo. 90:17
+- Iwo amene amayeretsa miyoyo yawo amapambana, ndipo iwo amene amawononga amalephera. 91:10
+- Musanyalanyaze kapena kuthamangitsa osowa. 93:10
+- Funani nzeru ndi kumvetsetsa. Werengani ndi kusinkhasinkha Qur'an. 96:1–5
+- Limbikitsani kudyetsa osauka. 107:3
 """;

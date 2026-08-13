@@ -3299,4 +3299,274 @@ Matching Phrases 8 words
 - Wẽnnaam yɩɩda arzɛk ned ning a sẽn datã, a dãmbã sʋka, la a kɩt tɩ ka wʋs. (اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ) 28:82; 29:62
 - La y na n lebg n dɩk bũmb sẽn ka vẽeneg la sẽn vẽenegã, t'a vẽneg y sẽn da maanã. (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
 - La b sẽn zems ne b zĩigã, b sʋka, Wẽnnaam Gʋlsʋmã pʋgẽ. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
+cmds - Commands, Exhortations, Prohibitions, Instructions
+- fard / wajib (فرض / واجب) — yɛlg-mooneg / tõod (tɩ yaa tɩlε, b raag-a, yaa yel-wẽnde)
+- mustahabb / mandub (مستحب / مندوب) — b sẽn tagsd tɩ yaa sõnga (sɩd yɩla a maand tɩ yaa kibar, a raag-a, pa yel-wẽnde)
+- mubah (مباح) — yaa ne tẽnga / b koos-a (kibar baa a ye, yel-wẽnd baa a ye)
+- makruh (مكروه) — b yiis-a (b pa rɩk-a sõng ye, la a maand tɩ pa yel-wẽnde)
+- haram (حرام) — b gɩd-a (a maand yaa yel-wẽnde)
+- halal (حلال, b koos-a / tõe) — rɩkda mubah ne mustahabb — bũmb ning fãa b sẽn pa gɩd ye
+- Yɩl Wẽnnaam yell, la bõos Sorgo/Sõngre. 1:5
+- Yɩl Wẽnnaam yell. 2:21
+- Ra yɩl Wẽnnaam yell ne yel-kɛng ye. 2:22
+- Wẽnnaam la Yãmb n miid (rɩkd taabr), A rɩka Adm (Aleyhis-Salaam) taabr. 2:37
+- Ra zẽk sɩda ne zãng ye, la ra sõog sɩda ye. 2:42
+- Tũnug yũ-noogo (yu-noog buud fãa), la yik zaka (sɩd-beoogo). 2:43
+- Tũnug b ninsaalbã tɩ b maan sõnga, sɩd yɩla yãmb meng sẽn da maan-a. 2:44
+- Kos Wẽnnaam sõngre yĩngr fãa pʋgẽ. 2:45
+- Ra tũ ninsaal fãa ye, la ra bɩng-y ye. 2:170
+- Gũus ne tẽnga, la bɩng-y sẽn da yɩl yãmb fãa. Bɩng-y tũudum sẽn yaa tɩlε, la yãmb sẽn yãk tɩlε. Bɩng-y yel-wẽnd sẽn na n kɩt tɩ Wẽnnaam yolsg yɩ, la b raag a tũudum. Ra bas tɩ yaa-poãn na n kɩt tɩ yãmb maan wẽng ye. 2:177
+- Kisaas pʋgẽ (tõod sẽn yaa kẽer ne taab) yãmb tara vɩɩm. 2:179
+- Sũum Rammadan kiuugã pʋgẽ. Bɩng-y sũum b sẽn yãk, tɩ yãmb yɩl Wẽnnaam zoeesdb. 2:183
+- Yɩl Aalkʋrãan n yaa togs-n-kãsenga. 2:185
+- Ra rɩg y taab arzɛka wẽng-yɛng ye, la ra kõ tʋʋmdba m-bɩɩs ye. 2:188
+- Ra maan ninsaalb wẽng ye, bɩ yaa goam pʋgẽ bɩ yaa tʋʋm pʋgẽ. Ra kẽng tɔb-biig ye, rɩk tẽnga tɩ yaa gũus. 2:190
+- Gũus kɩɩb-biisã. Wala kɩɩb-biisã, tʋm ne b arzɛkã tẽnga, la ra rɩg b arzɛkã ye. 2:220
+- Taabr la kos Wẽnnaam yel-wẽn yiisg. Ra maan sɩɩdẽ wã wakatẽ ye. Gũus kâadgã (ninsaal sẽn vɩɩm ne a yam zĩig). 2:222
+- Bɩng-y tʋʋm sẽn yaa yãmb zakã pʋgẽ. 2:233
+- Yiil zʋʋm-nedba b sẽn tar bɩɩm zugu. 2:247
+- Tũudum pʋgẽ pa tɩlε ye. 2:256
+- Dɩk-y arzɛka, la maneg-y ne wakat. 2:261
+- Ra sãam y sɩd-beoog ne yãmb mengã yɩlgr ye. 2:264
+- Pʋʋd ne yãmb tɩ b na n wa paam, la A tagsd yãmb tɩ y maan wẽnsa. 2:268
+- Bao ninsaalb sẽn tar tʋlε, la sõng-ba. 2:273
+- Ra kẽng n naan rɩba (arza-bũmb) ye. Ra rɩg arza-bũmb sẽn tar rɩba ye. Ra rɩg rɩba ye. 2:275
+- Kos sẽn paam-b tɩ b lebg bõe, sɩd yɩla b sẽn be tõndo. 2:280
+- Bɩng-y yãmb goamã tʋm-sɛbã pʋgẽ. Yɩl-y tẽnga yãmb arzɛk gomdã pʋgẽ. Tʋm-y tẽnga yãmb sẽn yãk fãa. Sɩd yɩla yãmb sẽn maan arzɛk gomd wakat ningã, bɩng-y tɩ b sɩb. Pʋk-y zʋz-kẽerda, sɩd yɩla yãmb sẽn maan tʋm-sɛb gomd. 2:282
+- Gũus ne tẽnga, la bɩng-y yãmb sẽn yɩl yãmb fãa. 2:283
+- Kõt-y sɩda ne Gaf-rãmbã, la ne nin-kãnga fãa. 2:285
+- Wẽnnaam pa dɩkd nin-kãng tʋm tɩ a pa tõe ye. A paama a sẽn tʋm sõngbã kibar, la a paama a sẽn tʋm wẽngã yel-bẽem. Wẽnnaam pa dɩkd nin-kãng tʋm tɩ a pa tõe ye; tõnd me ra pa tõe d maan woto ye. Bɩng-y Wẽnnaam sẽn tags tɩ a na n maanã, sɩd yɩla tõndo wakat pʋgẽ. 2:286
+- Ned fãa sẽn bɩng a sẽn zemsã, la a zoe Wẽnnaam, Wẽnnaam nongda Wẽnnaam zoeesdbã. 3:76
+- Maan-y Haaj (tʋm-sɛbã), sɩd yɩla yãmb sẽn tar pãng. 3:97
+- Ra kẽng tẽng-n-tẽng ye. 3:103
+- Tũnug-y sõnga, la gɩd-y wẽnga. Sõng-y sɩd-manegtã yãmb sasa pʋgẽ. Yiil-y ninsaalbã tɩ b teeg Wẽnnaam. 3:104
+- Sɩd-rɩkbã tara tɩlε tɩ b kõt Wẽnnaam bũmb. 3:122
+- Ra rɩg rɩba ye. 3:130
+- Kɩt-y tɩ yãmb saka Wẽnnaam ne a Tʋmtã, tɩ b yols yãmba. 3:132
+- Wẽnnaam nongda ninsaalb sẽn dɩkd (Wẽnnaam sorã pʋgẽ — sɩd-beoog, arzɛk kogre, wala woto) sɩd yɩla b sẽn tar bũmb, la b sẽn tar tʋlɛ wakatẽ, ninsaalb sẽn kiis b sũurã, la ninsaalb sẽn yafa ninsaalbã. 3:134
+- Kiis-y sũur. Gɩd-y sũur. 3:134
+- Yaf-y, la gãag-y ninsaalb rãmbã yel-wẽndã. 3:135
+- Ra yɩl-y goam sẽn pa sõng ye. Maan-y sugre ne ninsaalb sẽn yit yãmb nengẽ. 3:159
+- Sɩd yɩla Wẽnnaam sõng yãmba, ned baa a ye pa tõe n zɩɩ yãmba; la A bas yãmba, yãmb pa tara sõngd baa a ye, sɩd yɩla A poorẽ. 3:160
+- Nin-kãng fãa na n yɩ kiuudã. La yãmb pa na n paam yãmb kibar fãa, rɩk tɩ yaa Yikri daarã. 3:185
+- Tags-y bũmb sẽn yaa kãsenga, wala dũniyã naanegã, la bũmb sẽn be a pʋgẽ. Bãng-y tɩ Wẽnnaam naana dũniyã ne yɛl sẽn tar yĩng, la b sẽn dat. 3:191
+- Rɩbã ne paga tar kibar kẽer taab, b sẽn tʋm bũmbã zugu. 3:195
+- Ninsaalb sẽn zoe b Soabã, tara Arzãn-naandbã, n pa bubd bũmb tɩ tõe. B na n yɩl n zĩnd b pʋgẽ wakat sẽn kõn sa, wala Wẽnnaam sẽn dat. 3:198
+- Maan-y pʋʋd wakat fãa, tɩ yãmb paam Wẽnnaam sũ-noogo. 3:200
+- Zoe-y yãmb Soabã, la ra kẽng yel-wẽnd ye. 4:1
+- Kõ-y kɩɩb-biisã b arzɛkã, la ra taale yãmb (bũmb sẽn pa sõng) ne b (bũmb sẽn sõng) ye; la ra rɩg b arzɛkã (ne yãmb mengã) ye. 4:2
+- Kõ-y pagb (yãmb sẽn na n zɩ) b sɩd-pʋg-bɩɩgã (arzɛk sẽn yaa tɩlε tɩ rɩbã kõ a paga, sɩd yɩla b sẽn maan sɩd-pʋgã wakatẽ) ne sũur sẽn yaa sõnga. 4:4
+- Gũus kɩɩb-biisã tɩlε. 4:6
+- Kũumã arzɛkã tara tɩlε tɩ b pʋʋs a zakã nebã sʋka. Pagb me tara arzɛk tɩlε. 4:7
+- Ra rɩg kɩɩb-biisã arzɛkã wẽng-yɛng ye. 4:10
+- Kɩt-y tɩ yãmb saka b sẽn yeel tɩ yaa arzɛk ye. 4:11
+- B gɩd tɩ b pa tõe n dɩk pagb arzɛk sɩd yɩla b sẽn datã, la ra maan-b wẽng ye. Zĩnd-y ne b (pagb) sõng-yɛnga. Yɩl-y pagb tɩlε, la gũus-ba. Maan-y yãmb pagã ne yolsg, la ne yel-gũusga. Maan-y pagb ne tɛɛr, la ne tẽnga. 4:19
+- Ra zɩ-y ninsaalb sẽn yaa yãmb zʋɩfã ye. 4:23
+- Ra kʋ-y yãmb meng ye. Ad Wẽnnaam yaa yolsdb yãmba. Ra rɩg y taab arzɛkã wẽng-yɛng ye. 4:29
+- Sɩd yɩla yãmb sẽn zoe yel-wẽnd sẽn yaa kãsengã, Wẽnnaam na n yafa yãmb yel-wẽnd (b sẽn tar tʋlɛ) la A na n kẽes yãmb ne sõng-yɩnga (Arzãna). 4:31
+- Ra tags yãmb meng tɩ y yɩ Wẽnnaam sẽn paam ne tẽnga ye. Zoe-y yũ-sõnga, la yũud-wẽnga. 4:32
+- Rɩbã la pagb gũusdb, Wẽnnaam sẽn kɩt tɩ b yɩ kẽer n zẽk b taaba, la b sẽn dɩkd b arzɛkã (tɩ b kõ b). Rɩb la zakã gũusd. 4:34
+- Yɩl-y Wẽnnaam, la ra zems ne A baa a ye, maan-y sõnga ne yãmb rãmba, la y zʋɩf-rãmbã, la kɩɩb-biisã, la pɛɛmba, la y zak-kãenbã, la y zo-rãmbã, la sor-kẽndba (yãmb sẽn mikd-ba), la yãmb sẽn tar yãmb nug-pɩgẽ wã (yemb-yãmba). Wẽnnaam pa nongd ninsaalb sẽn yaa yãklem-nedba, la sẽn yaa yãklem-tʋmba. Maan-y sõnga ne ninsaal fãa. Yols-y nin-kãsemsã. Gũus-y zakã yel-wẽndã, la yɩl-y y zʋɩf-rãmbã. 4:36
+- Ra yɩl yãmb meng tɩ y yaa sũur-kɛlgd ye. 4:37
+- Wẽnnaam pa yafd tɩ b zems ne A ye, la A yafda bũmb sẽn yaa a poorẽ wã ne b sẽn dat. 4:48
+- Ra yũd ninsaal ye. 4:54
+- Wẽnnaam tagsd yãmb tɩ y lebg bũmb sẽn da yɩl yãmb, n kõ a soaba. Sɩd yɩla yãmb sẽn maan tẽnga, yãmb maan-a ne tẽnga. 4:58
+- Saka-y Wẽnnaam, la saka-y a Tʋmtã. Yɩl-y ninsaalb sẽn tar pãnga yãmb sʋka. 4:59
+- Ra maan ninsaalb sẽn tar tʋlɛ, la sẽn yaa bãas ye. 4:75
+- Sõng sẽn wat yãmb nengẽ, yaa Wẽnnaam; la wẽng sẽn wat yãmb nengẽ, yaa yãmb meng n yita. 4:79
+- Ned fãa sẽn saka Tʋmtã (Muhammad, salaam be ne a), ad a saka Wẽnnaam. 4:80
+- Ned fãa sẽn tʋm sõnga, a paama a kibar; la ned fãa sẽn tʋm wẽnga, a paama a yel-wẽndã. 4:85
+- Pa tõe tɩ sɩd-rɩkbã kʋ sɩd-rɩkb, rɩk tɩ yaa tɩlɛ sẽn kẽm. 4:92
+- Ned fãa sẽn kʋ sɩd-rɩkb tɩ a mi, a yel-bẽem yaa Jahannam, a na n zĩnd a pʋgẽ. Wẽnnaam sũurã ne a dãmbo be a zugu, la b maan-a ne yel-bẽem sẽn yaa kãsenga. 4:93
+- Ned fãa sẽn yi a zakẽ (a tẽngã) Wẽnnaam sorã pʋgẽ, a na n yã dũniyã zugu zĩig bɩɩm, la arzɛk sẽn yaa bʋdo. 4:100
+- Bɩng-y yũ-noogã wakatã. 4:103
+- Ra sõng ninsaalb sẽn yɩl b tẽnga, la ra yɩl b tʋmt ye. 4:105
+- Kos-y Wẽnnaam yel-wẽn yiisg. Wẽnnaam yaa Yaf-ned, Yolsdb. 4:106
+- Yãmb nin-kãng sẽn kõt sɩda! Yɩl-y tẽnga, yɩl-y Wẽnnaam kaset rãmba, sɩd yɩla b sẽn yɩl yãmb meng, bɩ yãmb rãmba, bɩ y zʋɩf-rãmbã, sɩd yɩla a sẽn yaa arzɛk soab, bɩ a sẽn yaa pɛɛm soab. Ra bas tɩ tẽnga yãmb paam ye. Maan-y tʋm-tʋmde, tɩ yãmb tʋm tẽnga. 4:135
+- Munaafikdbã rat n bãas Wẽnnaam, la A n bãas-ba. 4:142
+- Munaafikdbã na n yɩ Bugum pʋgẽ. La yãmb pa na n yã b sõngd baa a ye. 4:145
+- Wẽnnaam pa nongd tɩ b gom wẽnga, rɩk tɩ yaa ned sẽn paam wẽnga. 4:148
+- Tʋmtã tʋma, tɩ b na n kõ noogo, la b na n zoe-ba, tɩ ninsaalbã pa tõe n yɩ Wẽnnaam yɛl tɩ b paam, sɩd yɩla Tʋmtã. 4:165
+- Bɩng-y yãmb sẽn yãkã, la yãmb sẽn yãk tɩlε. 5:1
+- Sõng-y taab ne sõnga, la ne Wẽnnaam zoeesgã, la ra sõng-y taab ne yel-wẽndã, la ne wẽnga. 5:2
+- Ra rɩg kũumã, la zɩɩmã, la kurugum namã ye. 5:3
+- Yɩl-y tẽnga, la ra bas tɩ wẽngã la yãmb tagsdgã kɩt tɩ yãmb maan tẽnga ye. Yɩl-y tẽnga. Bãng-y tɩ tẽngã yaa kẽer ne Wẽnnaam zoeesgã. Ra bas tɩ tẽnga yãmb paam ye. Maan-y tʋm-tʋmde, tɩ yãmb tʋm tẽnga. 5:8
+- Bao-y sor sẽn na n kɩt tɩ yãmb kolg Wẽnnaam, la tʋm-y ne pãnga a sorã pʋgẽ. Tɩ yãmb paam. 5:35
+- Bɩng-y yãmb sẽn yãk tɩlε, la yãmb sẽn yãkã. 5:89
+- Zoe-y bũmb sẽn dɩkd ninsaal, la b sẽn dɩkd tɩ b mi. Zoe-y bũmb sẽn dɩkd ninsaal (bũmb sẽn dɩkd ninsaal fãa), la pʋʋdã, la Al-Ansab (kuy-rãmbã), la Al-Azlam (tɩm sẽn yaa tɩlε, bɩ yel-wẽn), wala woto, ad yaa bũmb sẽn yaa wẽnga, la yaa Pʋʋd tʋmã. 5:90
+- Ra kʋ bõn-naandã, sɩd yɩla yãmb sẽn be Ihram pʋgẽ, tɩ y maan Hajj bɩ Umrah (tʋm-sɛbã). 5:95
+- Ra sok-y bũmb sẽn pa tar yĩng ye, sɩd yɩla b sẽn na n yɛl yãmba, tʋlε na n paam yãmba. 5:101
+- Ra yɩl ninsaalb b soaba bũmb ye. Ra yɩl bũmb sẽn yɩl ninsaalb, tɩ b maan Wẽnnaam wẽnga. 6:108
+- Sɩd yɩla yãmb sẽn saka bũmb sẽn yɩl Wẽnnaam, b na n bãas yãmba. B pa tũud bũmb ye, rɩk tɩ yaa tags-goama. 6:116
+- (Ninsaal rãmba) Bas-y yel-wẽnd fãa, tɩ yaa sẽn be yɩnga, bɩ sẽn be sõnga. 6:120
+- (Sɩd-rɩkbã) Ra rɩg bũmb sẽn pa yɩl Wẽnnaam yʋɩr ye. 6:121
+- Ned fãa Wẽnnaam sẽn dat tɩ A kẽes a sorã, A na n pak a sũurã ne Islam; la ned fãa A sẽn dat tɩ A bãas-a, A na n maan a sũurã kɛlgã, la A sẽn yaa tʋlε. 6:125
+- Yɩl-y tẽnga yãmb sẽn dɩkd bũmbã pʋgẽ, la ra yɩl bũmb sẽn yaa wẽnga ye. Gũus-y bũmb sẽn yaa nin-kãng fãa. 6:141
+- Ra zems ne Wẽnnaam baa a ye; maan-y sõnga ne yãmb rãmba; ra kʋ-y yãmb bi-biisã tɩ yɛsa; ra kẽng yel-wẽndã nengẽ; ra kʋ ned Wẽnnaam sẽn gɩd, rɩk tɩ yaa tẽnga. 6:151
+- Yɩl-y tẽnga; ra maan zãnga yãmb tʋm-sɛbã pʋgẽ. Ra kẽng kɩɩb-biig arzɛkã nengẽ, rɩk tɩ yaa tɩlε tɩ b paam-a; kõ-y sɩd-kẽerã, la sɩd-kẽerã, ne tẽnga; sɩd yɩla yãmb sẽn gomd wakat ningã, gom-y sɩda, sɩd yɩla a sẽn yaa y zʋɩf soab, la bɩng-y Wẽnnaam sẽn yãkã. 6:152
+- Tũud-y sor sẽn yaa tɩrga, la ra tũud sor (a taabã) ye. B na n kɩt tɩ yãmb yɩ A sorã. 6:153
+- (Muhammad) yeele: "Ad m yũ-noogã, m sɩd-beoogã, m vɩɩmã, la m kiuugã, yaa Wẽnnaam, dũniyã Soabã." 6:162
+- Ra yɩl-y yãmb meng tɩ yaa kãseng ye. 7:13
+- Pʋʋd ra bãas yãmba. 7:27
+- (Muhammad) yeele: "M Soabã yeelame tɩ yaa tẽnga…" 7:29
+- Bɩng-y Wẽnnaam sẽn gɩd yãmb fãa. Ra kẽng yel-wẽndã pʋgẽ, bɩ yaa goam pʋgẽ, bɩ yaa tʋʋm pʋgẽ. Rɩ-y, la yũ-y, la ra yɩl yãmb meng tɩ yaa wẽng ye. Yɩl-y yãmb sẽn yaa sõnga, sɩd yɩla yũ-noogã wakatẽ. 7:31
+- Wẽnnaam naana saasã, la tẽngã, daar a yopoe; la A kẽnga a Kʋdgu zugu (ne a sẽn tar namsgã). 7:54
+- Kos-y yãmb Soabã, ne sũur sẽn yaa sõnga, la ne sõnga. A pa nongd ninsaalb sẽn kẽng yel-wẽndã ye. 7:55
+- La ra maan wẽng dũniyã zugu, sɩd yɩla b sẽn maan-a tɩ yaa sõnga, la kos-y A ne zoeesg, la ne tẽebga. 7:56
+- La ninsaalb sẽn tʋm wẽnga, la b taaba, la b kõta sɩda, ad yãmb Soabã, yaa Yaf-ned, Yolsdb. 7:153
+- (Muhammad) yeele: "Ninsaal rãmba! Ad mam yaa Wẽnnaam Tʋmt, ne yãmb fãa…" 7:158
+- La yʋy-rãmbã sẽn yaa sõnga fãa, yaa Wẽnnaam. Bɩng-y yãmb tɩ y kos-a ne b, la bas-y ninsaalb sẽn maan yel-wẽnd ne a yʋyã… 7:180
+- Ned Wẽnnaam sẽn bãas, a pa tara sor-kɛngd baa a ye; la A bas-ba tɩ b kẽng yel-wẽndã pʋgẽ. 7:186
+- Yaf-y, tũnug-y sõnga, la bas-y ninsaalb sẽn pa bãng ye (ra yik-b ye). 7:199
+- Yaf-y ninsaalb rãmbã yel-wẽndã. 7:199
+- La sɩd yɩla Pʋʋd sẽn kɩt tɩ yãmb tags yel-wẽnda, kos-y Wẽnnaam gũusg. A yaa Wʋmd, Bãngd. 7:200
+- Sɩd-rɩkbã, Wẽnnaam sẽn yɩl, b sũurã sũur kiisd, la b sẽn karmd a Aayaaã, b sɩdã paama pãnga. 8:2
+- Ra yɩl Wẽnnaam, la a Tʋmtã yel-wẽnd ye; la ra yɩl yãmb sẽn yɩl yãmb (la Wẽnnaam sẽn yeel yãmb fãa) tɩ yãmb mi ye. 8:27
+- Sɩd yɩla yãmb sẽn zoe Wẽnnaam, la yãmb saka-a, A na n kõ yãmb tɩ yãmb tõe n zĩnd tẽnga. 8:29
+- Sɩd-rɩkbã, b sẽn pa kõt sɩda, b dɩkd b arzɛkã, tɩ b kɩt tɩ ninsaalbã kẽng Wẽnnaam sorã; b na n dɩk-a, la b na n paam. 8:36
+- Yeele ninsaalb sẽn pa kõt sɩda: sɩd yɩla b sẽn bas (b sɩd-rɩkdbã), b na n yafa b sẽn maan poorẽ wã. La sɩd yɩla b sẽn lebg n wa, ad bũmb sẽn yit ninsaalb sẽn yɩl bã, b sẽn paam. 8:38
+- Sɩd yɩla yãmb sẽn mik ninsaalb sẽn tar pãnga, yɩl-y yãmb meng tɩ yaa kãseng, la tags-y Wẽnnaam yʋɩrã (ne yãmb zĩndbã, la yãmb sũurã), tɩ yãmb paam. 8:45
+- Ra yɩl-y ninsaalb sẽn yi b zakẽ, ne yaa-poãn, la b sẽn dat tɩ ninsaalbã yã-b ye. 8:47
+- Wẽnnaam pa maan tɛkegr sẽn yit a nengẽ, tɩ b zĩnd a pʋgẽ, rɩk tɩ yaa b sẽn maan tɛkegr b mensẽ. 8:53
+- Bõn-naandã sẽn yaa wẽnga, Wẽnnaam nengẽ, yaa ninsaalb sẽn pa kõt sɩda. 8:55
+- Wẽnnaam maan bũmb n na n kɩt tɩ sɩd-rɩkbã sũurã yɩ kẽer. 8:63
+- Gũus-y, la sõng-y ninsaalb sẽn kos gũusg. 9:6
+- Mushrik-rãmbã pa tar tɩlε tɩ b gũus Wẽnnaam masgidã ye. 9:17
+- B (sɩd-rɩkbã, Yʋʋd-rãmbã, la Kiris-tãmbã) rat n kiis Wẽnnaam vẽenemgã, (ne b sẽn tʋm Muhammad, salaam be ne a — Tawheed) ne b no-rãmbã, la Wẽnnaam pa dat ye, rɩk tɩ yaa tɩlε tɩ A vẽenemgã paam, sɩd yɩla b sẽn pa nong ye. 9:32
+- Sɩd-beoogã (Zaka) yaa: 1) pɛɛmba, 2) ninsaalb sẽn tar tʋlε, 3) ninsaalb sẽn tʋm b zugu, 4) tɩ b paam ninsaalb sẽn dat tɩ b wa ne Islam, 5) tɩ b yiis yemb-yãmba, 6) ninsaalb sẽn tar dĩn-dãmb, 7) Wẽnnaam sorã pʋgẽ (Mujaahid-rãmba), 8) la sor-kẽndba. 9:60
+- Ned fãa sẽn kɩd Wẽnnaam, la a Tʋmtã (salaam be ne a), ad a paama Bugum, a na n zĩnd a pʋgẽ. Yaa yel-wẽn sẽn yaa kãsenga. 9:63
+- Munaafik-rãmbã, rɩbã la pagbã, b yaa kẽer taab. B yĩmda Wẽnnaam, la A me yĩm-ba. 9:67
+- Maan-y pʋʋd tɩ yãmb paam kâadgã. Yɩl-y masgidã tɩ yaa sõnga. 9:108
+- Pa tõe tɩ (Nabi, la sɩd-rɩkbã) kos Wẽnnaam yel-wẽn yiisg, tɩ b maan Mushrik-rãmbã, sɩd yɩla b sẽn yaa b zʋɩf-rãmba, sɩd yɩla b sẽn bãng tɩ b na n yɩ Bugum neb ye. 9:113
+- Ñoad fãa sẽn maan Wẽnnaam zãnga, bɩ A Aayaa zãnga, n pa tɩrg? Ad yel-wẽnd tʋmdbã pa na n paam ye! 10:17
+- B yɩlda Wẽnnaam bũmb sẽn pa tõe n maan-b bũmb, la bũmb sẽn pa tõe n sõng-b, la b yeele: "Ad yaa tõnd ninsaalb sẽn tar tɩlε, ne Wẽnnaam." Yeele: "Yãmb na n tɩ paam Wẽnnaam bũmb sẽn pa be saasẽ, la dũniyã zugu?" Yɩl-y Wẽnnaam yʋɩrã, la A yaa kãseng, ne bũmb sẽn yaa wẽnga. 10:18
+- Wẽng tʋmã yel-bẽem yaa wẽng sẽn yaa kẽer. 10:27
+- Woto la Wẽnnaam, yãmb Soabã sẽn yaa sɩda. Sɩda poorẽ, bũmb baa a ye sẽn yit b taab? Bɩ yãmb paam. 10:32
+- B faa rɩkd tags-goama. Tags-goamã pa sõngd bũmb ye. 10:36
+- Ad Wẽnnaam pa maand ninsaal wẽng ye; la ninsaal n maand a meng wẽnga. 10:44
+- Bãng-y tɩ Wẽnnaam neerã yaa sõnga, n pa tɩrg bũmb ninsaal sẽn tõe n malg, bɩ a dɩk. 10:58
+- Ra yɩl-y ninsaalb sẽn zãng Wẽnnaam Aayaa ye, tɩ yãmb paam. 10:95
+- Sɩd yɩla Wẽnnaam sẽn maan yãmb wẽnga, ned baa a ye pa tõe n yiis-a, rɩk tɩ yaa A; la sɩd yɩla A sẽn dat tɩ yãmb paam sõnga, ned baa a ye pa tõe n kɩt tɩ A neerã yi ye. A kõt-a ne ned fãa A sẽn dat, ne A yemb-yãmbã. 10:107
+- Bõn-naand baa a ye pa be dũniyã zugu, rɩk tɩ yaa Wẽnnaam sẽn tar a rɩɩbã. La A mi a zĩigã, la b sẽn na n dɩk-a. 11:6
+- Sɩd yɩla tõnd sẽn na n yãk ninsaal tɩ a yɩ yolsg, la tõnd yiis-a, a paam namsgã, la a yɩla ned sẽn pa yɩl Wẽnnaam yell. 11:9
+- Ned fãa sẽn dat dũniyã vɩɩm, la a sẽn tar neerã, tõnd na n kõ-b bũmb fãa, la b paam. 11:15
+- Tõnd pa maan-b wẽng ye; la b maan b meng wẽnga. B soaba bũmb sẽn yɩl b, b sẽn da yɩl Wẽnnaam, pa maan-b bũmb, sɩd yɩla yãmb Soabã sẽn wa wakatẽ; la b pa paam bũmb, rɩk tɩ yaa sãam-ba. 11:101
+- Raar ningã, ned baa a ye pa na n gom ye, rɩk tɩ yaa Wẽnnaam sẽn dat. B faa rɩkd bũmb sẽn yaa sõnga, la bũmb sẽn yaa wẽnga. 11:105
+- Ninsaalb sẽn yaa sõnga, na n yɩ Bugum pʋgẽ, b na n yɩ-ba. 11:106
+- B na n zĩnd a pʋgẽ, saasã la tẽngã sẽn paam wakat fãa, rɩk tɩ yaa yãmb Soabã sẽn dat. Ad yãmb Soabã maanda a sẽn dat. 11:107
+- La ninsaalb sẽn yaa sõnga, na n yɩ Arzãn pʋgẽ, b na n zĩnd a pʋgẽ, saasã la tẽngã sẽn paam wakat fãa, rɩk tɩ yaa yãmb Soabã sẽn dat, wala arzɛk sẽn pa sa. 11:108
+- Ra kẽng ninsaalb sẽn maand wẽngã nengẽ ye, tɩ Bugum paam yãmba, la yãmb pa tar sõngd baa a ye, rɩk tɩ yaa Wẽnnaam; la yãmb pa na n paam sõngre ye. 11:113
+- Bɩng-y yũ-noogã, sɩd yɩla daarã sɛɛgã, la yʋngã wakatã (ad yũ-noog a nu). Sõng tʋʋmdã maanda tɩ wẽng tʋʋmdã yi. 11:114
+- Wẽnnaam tara saasã, la dũniyã sẽn be sõngã, la bũmb fãa lebgd a nengẽ. 11:123
+- Tõodã (bɩ yel-wẽnã) yaa Wẽnnaam. A yeelame tɩ yãmb yɩl A yell, rɩk tɩ yaa A (Tawheed). Woto la tũudum sẽn yaa tɩrga, la ninsaalb faa pa bãngd ye. 12:40
+- Ra bas tɩ Wẽnnaam yolsgã yɩ yãmb ye. 12:87
+- La ninsaalb faa pa na n kõt sɩda ye, sɩd yɩla yãmb sẽn dat. 12:103
+- La b faa pa kõt sɩda, Wẽnnaam, rɩk tɩ yaa b sẽn zems ne A (b yaa Mushrik-rãmba). 12:106
+- Ad a (Aalkʋrãan) pa yaa gomd sẽn yaa wẽng ye; la yaa tɩlε tɩ b kõt sɩda ne Gaf-rãmbã sẽn da be (Taurat, Injiil, la Wẽnnaam Gaf-rãmb a taabã), la b sẽn paam bũmb fãa, la sor-kɛnga, la yolsga, ne ninsaalb sẽn kõt sɩda. 12:111
+- Wẽnnaam yɩlgda arzɛk ne ned fãa A sẽn dat, la A kɛlga (ne ned fãa A sẽn dat). 13:26
+- Tags-y Wẽnnaam, ne yãmb sẽn yɩl a yʋɩrã. Ninsaalb sẽn kõt sɩda, b sũurã paam tɩ b kõt a yʋɩrã. 13:28
+- Ninsaalb sẽn kõt sɩda, la b tʋm sõnga, b tara noogo, la b sũurã yaa sõnga. 13:29
+- Ninsaalb sẽn dat dũniyã vɩɩm, n pa dat Arzãnã, la b kɩtd ninsaalb tɩ b kẽng Wẽnnaam sorã (Islam), la b bao tɩ b kẽng wẽnga, ad b be yel-wẽndã pʋgẽ. 14:3
+- Maan-y yũ-noogã, ne sũur sẽn yaa sõnga, la ne yãmb sẽn dat Wẽnnaam. 14:7
+- Ninsaalb sẽn pa kõt sɩda, ne b Soabã, b tʋmã yaa wala bõn-bɩɩg sẽn yaa wẽnga, sẽn kɩt tɩ noogã paam-ba; b pa na n yã bũmb b sẽn tʋmã pʋgẽ. 14:18
+- Wẽnnaam na n kɩt tɩ sɩd-rɩkbã zĩnd, ne goam sẽn yaa sõnga, dũniyã pʋgẽ (b na n maan Wẽnnaam yell), la Arzãnã pʋgẽ. 14:27
+- Ra tags tɩ Wẽnnaam pa mi ninsaalb sẽn maand wẽngã (Mushrik-rãmba, wẽng-tʋmba, wala woto) ye; la A bas-ba, tɩ b paam daar ningã, ninsaalbã nina sẽn yɩ. 14:42
+- Tɩ Wẽnnaam kõ ned fãa a sẽn tʋmã. Ad Wẽnnaam yaa sõnga, ne b sẽn na n kɩt a yel-bẽemã. 14:51
+- Ad tõnd naana ninsaal ne bũmb sẽn yaa sõnga, ne bũmb sẽn yaa wẽnga. 15:26
+- La Jinn-rãmbã, tõnd naana b, rɩk tɩ yaa bugum sẽn pa tar yɩɩmã. 15:27
+- A (Bugumã) tara kɩs-do-rãmb a yopoe; kɩs-do fãa tara ned sẽn be a pʋgẽ. 15:44
+- A naana ninsaal ne bũmb sẽn yaa sõnga, la a yaa wẽnga. 16:4
+- La bõn-naandã, A naana b ne yãmba; b pʋgẽ yãmb tara bũmb sẽn yaa sõnga (sɩɩs sẽn yaa sõnga), la bũmb sẽn yaa bʋdo, la yãmb rɩgd b pʋgẽ. 16:5
+- La A naana wɛɛgã, la bũmb sẽn yaa kẽer taab, la bũmb sẽn yaa sõnga, tɩ yãmb kẽng b zugu, la b sẽn yaa sõnga. La A naana bũmb sẽn pa be yãmb bãngrẽ. 16:8
+- A yaa ned sẽn naan kom (sa-kom) n yit saasẽ; yãmb yũuda, la yãmb tara tɩɩmã. 16:10
+- A yaa ned sẽn naan koom-tẽngã, tɩ yãmb rɩg a pʋgẽ, la yãmb yit a pʋgẽ. 16:14
+- A yãka tãng-rãmbã dũniyã zugu, tɩ b pa kẽng ye; la koom-tãmbã, la sor-rãmbã, tɩ yãmb paam. 16:15
+- Yãmb sẽn yaa naandã, wala yãmb sẽn pa naand ye? Yãmb pa tagsd ye? 16:17
+- Sɩd yɩla yãmb sẽn na n paam Wẽnnaam yolsgã, yãmb pa tõe n paam-a ye. 16:18
+- Wẽnnaam mi yãmb sẽn sõogã, la yãmb sẽn yɩlga. 16:19
+- Bũmb (Mushrik-rãmba) sẽn yɩl Wẽnnaam bũmb a taabã, pa naan bũmb baa a ye; la b meng la b naana. 16:20
+- (B) yaa kʋ-rãmba, pa tar vɩɩm ye; la b pa mi wakat sẽn na n yiis-ba. 16:21
+- Tõnd goamã, tɩ yaa bũmb, sɩd yɩla tõnd sẽn dat, tõnd yeele: "Yɩ!" la a yɩla. 16:40
+- Yãmb sẽn maand yel-wẽnã, pa yãmb n bãng tɩ Wẽnnaam na n yɩɩ-b tẽngã? Bɩ bũmb na n wa b nengẽ, ne sor sẽn pa be yãmb bãngrẽ? 16:45
+- Yolsg fãa, la bũmb sẽn yaa sõnga, yaa Wẽnnaam n yita. Sɩd yɩla tʋlε sẽn wa yãmb nengẽ, yãmb kosa A. 16:53
+- Sɩd yɩla A sẽn yiis tʋlε yãmb zugu, yãmb faa rɩkda A taab. 16:54
+- Ad bõn-naandã pʋgẽ, yãmb tara kãsenga. Tõnd yũuda yãmb, ne bũmb sẽn be b pʋgẽ, ne bũmb sẽn yaa wẽnga, la b sẽn yaa sõnga, wala bĩig sẽn yaa sõnga, sẽn yaa noogo, ne ninsaalb sẽn yũuda. 16:66
+- Ra maan Wẽnnaam wala bũmb baa a ye (tɩ a pa tar yĩng ye). Ad Wẽnnaam mi, la yãmb pa mi. 16:74
+- Bãng-y tɩ Wẽnnaam kõta ninsaal kʋbga, la ninsaal me tara, tɩ b tagsd. 16:78
+- Zoe-y bũmb sẽn yaa wẽnga, la bũmb sẽn yaa sõnga. 16:97
+- Sɩd yɩla yãmb sẽn na n karm Aalkʋrãanã, kos-y Wẽnnaam gũusg, ne Pʋʋd sẽn yaa wẽnga. 16:98
+- Bãng-y tɩ ned fãa sẽn maan wẽnga, la a pa bãng, la a taaba, la a maan tɛkegr, ad Wẽnnaam yafa-a. 16:119
+- (Muhammad) yiil-y ninsaalbã, ne yãmb Soabã sorã (Islam) ne yamã, la ne goam sẽn yaa sõnga, la yãmb gom ne b ne sõnga. Yiil-y ninsaalbã Wẽnnaam sorã, ne yamã, la ne yolsgã. 16:125
+- Ad Wẽnnaam be ne ninsaalb sẽn zoe-a, la ninsaalb sẽn tʋm sõnga. 16:128
+- Aalkʋrãan kɩtgda ne sor sẽn yaa sõnga. 17:9
+- Ned baa a ye pa na n dɩk a taab yel-wẽndã. 17:15
+- Ned fãa sẽn dat Arzãnã, la a maan ne pãnga, tɩ a kõta sɩda, b na n paam. 17:19
+- Yɩl-y yãmb rãmba, la maan-y sõnga ne b. Maan-y yãmb rãmba tɩlε. Ra gom-y ne b goam sẽn pa sõng ye. Yãmb Soabã yeelame tɩ yãmb yɩl a yell, la yãmb maan sõnga ne yãmb rãmba. Sɩd yɩla b sẽn paam kãsengã, ra yeele: "Uh!" la ra kɩd-b ye; la gom-y ne b sõnga. 17:23
+- La maan-y yãmb meng ne sũur sẽn yaa sõnga, ne yolsgã, la yeele: "M Soabã! Yols-b wala b sẽn yols maam, sɩd yɩla mam sẽn da yaa bɩɩga." 17:24
+- Ad ninsaalb sẽn dɩkd bũmb sẽn yaa wẽnga, yaa Pʋʋd-rãmba, la Pʋʋd yaa bũmb sẽn pa tar yĩng, ne a Soabã. 17:27
+- Ra dɩk arzɛk sẽn yaa wẽnga ye. 17:29
+- Ra kʋ-y yãmb bi-biisã, tɩ yɛsa. 17:31
+- Ra kẽng yel-wẽndã nengẽ ye. Gũus-y sɩd-pʋgã, la ra kẽng yel-wẽndã nengẽ ye. 17:32
+- Kõ-y sɩd-kẽerã, sɩd yɩla yãmb sẽn pidsdã, la pids-y ne sɩd-kẽer sẽn yaa sõnga. Woto yaa sõnga, la yaa sõnga, ne b sẽn na n paam. 17:35
+- (Ninsaal) Ra tũ bũmb sẽn pa be yãmb bãngrẽ ye (wala yãmb sẽn yeele: "M yã-a," la yãmb pa yã-a ye, bɩ "M wʋma," la yãmb pa wʋm ye). 17:36
+- Yɩl-y yãmb meng tɩ yaa sõnga, la ra yɩl-y yãmb meng tɩ yaa kãseng ye. Ra kẽng dũniyã zugu, ne yaa-poãn ye. Ad yãmb pa tõe n tɩ yã a pʋgẽ, la yãmb pa tõe n tɩ paam a zugu ye. 17:37
+- Yãmb Soabã mi yãmba; sɩd yɩla A sẽn dat, A na n yols yãmba; la sɩd yɩla A sẽn dat, A na n yãk yãmba. 17:54
+- Ned fãa sẽn yaa zug-tʋmda, dũniyã pʋgẽ (a sẽn pa yã Wẽnnaam Aayaa, la a pa kõt sɩda), a na n yaa zug-tʋmda, Arzãnã pʋgẽ, la a kẽnga yel-wẽndã pʋgẽ. 17:72
+- Bɩng-y yũ-noogã wakatã. 17:78
+- Ad tõnd yãka Aalkʋrãanã pʋgẽ, ninsaalbã fãa, wala bũmb fãa, la ninsaalb faa paam. 17:89
+- Tõnd yãka Aalkʋrãanã pʋgẽ, ninsaalbã fãa, wala bũmb fãa. La ninsaal yaa bũmb sẽn maand yel-wẽn wʋsgo. 18:54
+- B yel-bẽem yaa Bugum, tɩ b pa kõt sɩda, la b yɩl Aayaa, la b Tʋmtã, wala b sẽn maan wẽnga. 18:106
+- Pa tõe tɩ Wẽnnaam (a sẽn yaa kãsengã) tara bi-riba ye (ad yaa Kiris-tãmbã sẽn yɩl Wẽnnaam zãnga, tɩ b yeel tɱ Iisaa yaa Wẽnnaam bi-riba). Yɩl-y a yʋɩrã (la a yaa kãseng, ne bũmb sẽn yaa wẽnga). 19:35
+- Gom-y ne ninsaalb ne yolsga. 20:44
+- Maan-y pʋʋd ne sõnga. 21:90
+- Zoe-y goam sẽn pa tar yĩng ye. 23:3
+- Gũus-y yãmb mengã. 23:5
+- Gũus-y yãmb sũurã, ne bũmb sẽn yaa wẽnga. 23:97
+- Yaf-y ninsaalb, la bas-ba. 24:22
+- Yɩl-y ninsaalb sẽn be sõngã, wala b zakã pʋgẽ. Gũus-y zak-kãenbã tɩlε. 24:27
+- (Rɩbã la pagbã) Dɩk-y yãmb ninsã, la gũus-y yãmb mengã. 24:30
+- Gũus-y yãmb sẽn yaa sõnga, ne yãmb sẽn yaa sõnga. 24:31
+- Bãng-y tɩ Wẽnnaam kõta sõnga, la b sẽn dat, ne ninsaalb sẽn yɩl a yell, la b tʋm sõnga. 24:55
+- Ra kẽng yãmb rãmba zakã pʋgẽ, rɩk tɩ yaa b sẽn dat. 24:58
+- Yɩl-y yãmb meng tɩ yaa sõnga. 25:63
+- Zoe-y kaset sẽn yaa zãnga, la bũmb sẽn yaa wẽnga. 25:72
+- Maan-y pʋʋd, tɩ yãmb paam Arzãnã kibar, la ra bas dũniyã yɛl ye. 28:77
+- Ra kos bũmb baa a ye, ne Wẽnnaam. 28:88
+- Ra maan yel-wẽnd ne rɩb a taab ye. 29:29
+- Maan-y pʋʋd, tɩ yãmb paam sõnga. 29:69
+- Bɩng-y yũ-noogã, la yik-y zaka. 31:4
+- Tũnug-y sõnga, la gɩd-y wẽnga. 31:17
+- Zoe-y yãmb meng ne bũmb sẽn yaa wẽnga. Ra dɩk yãmb wakatã, ne goam sẽn pa tar yĩng ye. 31:18
+- Yɩl-y yãmb meng ne sõnga, ne yãmb sẽn gomdã. 31:19
+- Tũud-y Nabi Muhammad soaba. 33:21
+- Pagb ra yɩl b meng ne b sẽn tar neerã ye. 33:33
+- Gom-y sɩda, wakat fãa. 33:70
+- Bao-y yamã, ne yãmb sẽn tagsdã. 38:29
+- Saka-y Aalkʋrãanã sẽn yeelã. 39:23
+- Wẽnnaam yafda yel-wẽnd fãa, sɩd yɩla ned sẽn taaba, la a lebg a nengẽ. 39:53
+- Maan-y du'a (yũ-noog) Wẽnnaam, ne sũur sẽn yaa sõnga. 40:60
+- Zɩɩ-y wẽnga ne sõnga. 41:34
+- Maan-y yel-wẽndã, ne yãmb sẽn maand tɩlε. 42:38
+- Ra dɩk yãmb goamã, n pa Nabi goamã ye. 49:2
+- Gũus-y bũmb sẽn be sõngã, la ra yɩl yel-wẽnd ye. 49:6
+- Maan-y tɩ yãmb paam, ne ninsaalb sẽn be yel-wẽndã pʋgẽ. Bao-y sõnga, ne ninsaalb sẽn be yel-wẽndã pʋgẽ. 49:9
+- Ra yɩl ninsaalb wẽnga. 49:11
+- Zoe-y yãmb meng ne bũmb sẽn yaa wẽnga. Zoe-y yãmb meng ne bũmb sẽn yaa wẽnga, la bũmb sẽn yaa wẽnga. Ra gom ninsaalb wẽnga. Zoe-y bũmb fãa sẽn yaa wẽnga. Ra bas tɩ yaa-poãn kɩt tɩ yãmb maan wẽnga. 49:12
+- Bãng-y tɩ Wẽnnaam zoeesgã la sẽn kɩt tɩ ninsaal paam. Yɩl-y ninsaalbã, la b sẽn paam. 49:13
+- Yɩl-y sãambã. 51:26
+- Maan-y yãmb tɩlε, ne Wẽnnaam. 51:56
+- Dɩk-y yãmb arzɛkã, tɩ y maan sõnga. 57:7
+- Bãng-y tɩ tũudum pʋgẽ, pa be bũmb sẽn yaa wẽnga ye. 57:27
+- Ra bas tɩ arzɛkã kɩt tɩ yãmb yĩm Wẽnnaam ye. 58:11
+- Ninsaalb sẽn tar bãngrã, Wẽnnaam na n kɩt tɩ b yɩ kãseng. 58:11
+- Maan-y sõnga, la tẽnga, ne ninsaalb sẽn pa yaa Muslim-rãmba. 60:8
+- Zoe-y yãmb meng ne bũmb sẽn yaa wẽnga, ne yãmb sɩdã, la yãmb tʋʋmã. 63:9
+- Zoe-y bũmb sẽn yaa wẽnga, la bũmb sẽn yaa sõnga. 64:16
+- Gũus-y bũmb sẽn yɩl yãmba. 73:15
+- Teeg-y Bɩngr daarã. 75:36
+- Tũnug-y sugrã, la yolsgã. 90:17
+- Ninsaalb sẽn kâd b mensã, b na n paam; la ninsaalb sẽn sãam b mensã, b na n sãam. 91:10
+- Ra bas ninsaalb sẽn tar tʋlε ye, la ra bas-b ye. 93:10
+- Bao-y bãngrã, la yamã. Karm-y Aalkʋrãanã, la tags-y. 96:1–5
+- Sõng-y ninsaalb sẽn tar tʋlε, tɩ b rɩ. 107:3
 """;

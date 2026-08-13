@@ -3196,4 +3196,279 @@ Matching Phrases 8 words
 - Katonda agaziramu ebiri ku by'obulamu eri oyo gw'ayagala okuva mu baddu be, era agifuula ebitono. (اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ) 28:82; 29:62
 - Era muddayo eri Amanyi ebikweze n'ebirabikira, naye alibategeeza ebyo bye mwakolanga. (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
 - Era ab'ekika, abamu ku bo be basinga abalala okusemberera, mu Kitabo kya Katonda. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
+cmds - Commands, Exhortations, Prohibitions, Instructions
+- fard / wajib (فرض / واجب) — kyetaagisa (kikwetaagisa okukola; okukulekera awo kibi)
+- mustahabb / mandub (مستحب / مندوب) — kikubirizibwa (kibonerezebwa singa kikolebwa, si kibi singa kikulekerwa awo)
+- mubah (مباح) — kyakkirizibwa / kyakukkanya (tewali mpeera wadde kibi)
+- makruh (مكروه) — kikyayibwa (tekikubirizibwa, naye si kibi singa kikolebwa)
+- haram (حرام) — ekiziyizibwa (kibi okukikola)
+- halal (حلال, ekikkirizibwa / eky'amateeka) — kikwatamu mubah ne mustahabb — buli kintu ekitaziyizibwa
+- Musinze Katonda (Allah) yekka era mumwegayirire okumuyamba/okumuwagira. 1:5
+- Musinze Katonda (Allah) yekka. 2:21
+- Temugattanga waddeyo ku Katonda (Allah). 2:22
+- Katonda (Allah) ye Musonyiyi (akkiriza okwenenya), Yakkiriza okwenenya kwa Adam (عَلَيْهِ ٱلسَّلَامُ). 2:37
+- Tewagattanga mazima na bulimba, era temukweka mazima. 2:42
+- Mukolenga e sala (essaala za buli lunaku) era muwaage zaka (obuyambi). 2:43
+- Mulagire abalala okukola ebirungi nga bwe mubikola mmwe kennyini. 2:44
+- Mwegayirire Katonda (Allah) okubayamba mu nsonga zammwe zonna. 2:45
+- Temweyingizanga mu kukolera obubi wadde okukusaanya. 2:60
+- Temuziyizanga bantu okugenda mu nnyumba zokusinza. 2:114
+- Muwangulenga obutukuvu bwa misikiti. Mukuumenga ebyalo byammwe eby'essaala birongoofu era bitukuvu. 2:125
+- Mujjukiranga Katonda (Allah) (nga musinza, nga mumutendereza, n'ebirala) era ajja kubajjukira, era mumwebazenga. 2:152
+- Mugumenga mu kuyigganyizibwa. 2:153
+- Temugobereranga bigere bya Setaane (Shetani) alina ddoboozi erikyayibwa. 2:168
+- Temugobereranga muntu yenna mu butamufu. 2:170
+- Mukuumenga era mutuukirize amaka gammwe gonna. Mukolenga emirimu gyammwe egy'edini n'obwesigwa. Mutuukirize ebirayiro byammwe n'endagaano zammwe. Mukuumenga ebyasuubizibwa, naddala ebyo bye mwasuubiza Katonda (Allah). Muwagire abetaaga era mubenyegereze obuzibu. Mwekwase okukola ebibi ebireeta okufiirwa ekisa kya Katonda. Temukkiriza amalala okubaleetera obutali bwenkanya. 2:177
+- Mu kisaasira (mu mateeka g'obwenkanya mu kubonereza) mulimu obulamu. 2:179
+- Musiibenga mu mwezi gwa Ramadaani. Mukwate okusiiba okulagiddwa okufuuka Abattaaka (abamutima). 2:183
+- Muwangulenga Kur'ani nga bwe busuubuzi bw'obuvunanirizi. 2:185
+- Temulyanga emigabo gy'enzira yammwe mu butali bwenkanya, era temuwanga kasooto abalamuzi (nga temunnyeze misango gyammwe). 2:188
+- Temuyigganyizanga balala, mu bigambo oba mu bikolwa. Temulwanyanga nga muli balumbi, wabula nga muli bakuumi. 2:190
+- Mukuumenga bamulekwa. Ku bamulekwa, mukolenga mu bwesigwa ku byabwe era temulyanga byabwe. 2:220
+- Mwenenye era mwegayirire Katonda (Allah) okubasonyiwako. Temukola kigambo ky'obugwenyufu mu biro by'okulwala. Mukuumenga obulongoofu (mu mubiri ne mu mwoyo). 2:222
+- Mutuukirize obuvunaanyizibwa bwammwe eri amaka gammwe. 2:233
+- Mulonde abakulembeze ng'ateesa ekiwandiikwa kyabwe. 2:247
+- Tewali kuwagira mu ddiini. 2:256
+- Muwangaye ebyobugagga mu kuyamba. Mube abagabiridde mu byobugagga n'obudde. 2:261
+- Temulekera awo okuyamba kwammwe nga mweyawaana. 2:264
+- Setaane (Shetani) abatiisiza obwavu era abalagira okukola ebikyayibwa (ebikolwa ebibi, okukola kigambo ky'obugwenyufu okutaliiko mateeka, ebibi). 2:268
+- Munoonye abetaaga era mubayambe. 2:273
+- Temweyingizanga mu riba (omugulanso). Temulyanga byobugagga eby'obugulanso. Temulyanga Riba (omugulanso). 2:275
+- Muwenga omuntu ow'omugulansa ekiseera eky'okuddiza singa ali mu buzibu. 2:280
+- Mukuumenga ebirayiro byammwe mu byobusuubuzi. Mube abamazima mu nsonga zammwe z'ebyenfuna. Mukolenga mu bwesigwa mu ndagaano zammwe zonna. Bwe muba mukola ekiragiro ky'omugulansa ku kiseera ekiragiddwa, mukiwandike. Muleete abajulizi buli lwe muba mukola endagaano y'obusuubuzi. 2:282
+- Mukuumenga era mutuukirize amaka gammwe gonna. 2:283
+- Mukkirize ebitabo ebyassibwa wansi ne bannabbi bonna. 2:285
+- Katonda (Allah) tateeka muntu ku nsonga ensibwe ey'okusinga amaanyi ge. Ajja kufuna empeera ku birungi by'akola, era ajja kubonerezebwa ku bibi by'akola. Katonda tateeka muntu ku nsonga ey'okusinga amaanyi ge; naffe tetusaanidde kukola bwe tutyo. Mwesige enteekateeka ya Katonda (Allah) ne mu buzibu. 2:286
+- Buli muntu akwaniriza endagaano era atya Katonda (Allah), Katonda (Allah) ayagala abamutya. 3:76
+- Mukolenga Hajji (okutambula) bwe musobola. 3:97
+- Temwawukananga. 3:103
+- Mulagire ebirungi era mugaane ebibi. Mukubirizenga obutuukirivu mu kitundu kyammwe. Muyite abalala okujjukira Katonda (Allah). 3:104
+- Abakkiriza basaanidde okwesiga Katonda (Allah). 3:122
+- Temulyanga Riba (omugulanso). 3:130
+- Mugondere Katonda (Allah) ne Mutume we okufuna ekisa. 3:132
+- Katonda (Allah) ayagala abo abawaayo (mu kkubo lya Katonda (Allah) — ebikolwa eby'obuyambi, obuyambi, n'ebirala) mu byobugagga ne mu buzibu, abo abakwata obusungu, n'abo abasonyiwa abantu. 3:134
+- Mukwate obusungu. Mukulembere obusungu bwammwe. 3:134
+- Musonyiwe era mulekere awo ensobi z'abalala. 3:135
+- Temube bakatale mu bigambo. Mugumenga abo abataba nga mmwe. 3:159
+- Bwe Katonda (Allah) bw'abayamba, tewali ayinza kubawangula; era bw'abaleka, ani ow'okumuyingira ayinza okubayamba? 3:160
+- Buli muntu ajja kuwa omusana gw'okufa. Era ku lunaku lw'okuzuukira bwe munaafuna empeera yammwe ey'omujjuzi. 3:185
+- Mukubirenge mu birowoozo ku ebyamagero eby'obutonde n'okutonda kw'ensi eno. Mumanye nti Katonda yatonda ensi eno n'ekigendererwa era n'omugaso. 3:191
+- Abasajja n'abakazi bafuna empeera y'emu ku bikolwa byabwe. 3:195
+- Abo abatya Mukama waabwe, balina ennimiro (mu Jannati) ezirimu emigga egikulukuta wansi wazo; baakubeeramu emirembe gyonna, nga bwe kubeera ku bw'akasiro bwa Katonda (Allah). 3:198
+- Buli kiseera munoonye okusanyusa Katonda (Allah) mu bikolwa byonna. 3:200
+- Mutye Mukama wa mmwe, mumutye era (temukomanga) enkolagana (ez'obuganda). 4:1
+- Muwa abamulekwa emigabo gyabwe era temugattanga (ebibi byammwe) ku (birungi byabwe); era temulyanga emigabo gyabwe (nga mugatta ku migabo gyammwe). 4:2
+- Muwa abakazi (be mubawasa) obugabirizi bwabwe (okuwa omukazi nga bwe kwetaagisa) n'omutima omulungi. 4:4
+- Mukuumenga ebitongole by'abamulekwa. 4:6
+- Emigabo gy'omufu egyetaagisa okugabanyizibwa mu maka ge. Abakazi balina eddembe ly'okusika. 4:7
+- Temulyanga emigabo gy'abamulekwa mu butali bwenkanya. 4:10
+- Mugondere ebiragiro eby'okusika. 4:11
+- Kikugira okusikira abakazi nga tebaagala, era temubakolanga bubi. Mubeere nabo (abakazi) mu nkola nungi. Muwa abakazi ekitiibwa era mubakuume. Mukolere mukazi wo mu nkola nungi n'ekisa. Mukolere abakazi mu kitiibwa n'obwenkanya. 4:19
+- Temuwasanga abo be muli mu mugati mu bya musaayi. 4:23
+- Temwettananga (wadde okutta omuntu). Mazima Katonda (Allah) mulina ekisa ku mmwe. Temulyanga emigabo gy'omuntu mu butali bwenkanya. 4:29
+- Bwe mwekwasa ebibi ebinene ebiziyizibwa, Katonda (Allah) ajja kubasonyiwa (ebitono) ebibi byammwe, era ajja kubayingiza mu kuyingira okukwata ekitiibwa (mu Jannati). 4:31
+- Temwewuliranga ebintu Katonda (Allah) by'abasinzeseeko abamu mmwe ku balala. Mwekwase obuggya n'okwatira. 4:32
+- Abasajja be bawongozi abakazi, kubanga Katonda (Allah) yawa abamu okusinga abalala, era kubanga bawaayo (okubawa) ku migabo gyabwe. Omusajja ye mukuumi w'amaka. 4:34
+- Musinze Katonda (Allah) era temugattanga ku kintu kyonna, mukolenga ebirungi eri abazadde, ab'ekika, bamulekwa, abanaku, omuliraanwa, mukwano gwammwe ali kumpi, omutambuze (gwemusanga), n'abo (abaddu) be mukwatiriza. Katonda (Allah) tayagala bwenkanya n'abo abeegulumiza. Mukolenga ebirungi eri abalala. Musonyiwe abanafu. Mukuumenga enkolagana ez'amaka era muwe ekitiibwa ab'ekika. 4:36
+- Temubanga bannaku. 4:37
+- Katonda (Allah) tasonyiwa kumugattangako, naye asonyiwa ekirala kyonna ku gw'ayagala. 4:48
+- Temukwatiranga bantu. 4:54
+- Katonda (Allah) abalagira okuzza ebyobwekwase eri abenabyo. Bwe mubasambira mu bantu, musalenga mu bwenkanya. 4:58
+- Mugondere Katonda (Allah) ne Mutume we. Muwa ekitibwa abo abalina obuyinza mu mmwe. 4:59
+- Temuyigganyizanga abanafu n'abeetaaga. 4:75
+- Ekirungi kyonna ekibatuukako kiva eri Katonda (Allah); n'ekibi kyonna ekibatuukako kiva eri mmwe kennyini. 4:79
+- Buli muntu agondera Mutume (Muhammad ﷺ), amaze okugondera Katonda (Allah). 4:80
+- Buli muntu awaayo omukisa ku kintu ekirungi, alifuna omugabane gwakyo; n'oyo awaayo omukisa ku kintu ekibi, alifuna omugabane gw'obuzito bwakyo. 4:85
+- Tekisaanira muntu mukkiriza okutta mukkiriza munnage, okugyako nga bwe kikolebwa mu butamufu. 4:92
+- Buli muntu atta mukkiriza mu bugenderevu, empeera ye Omuliro ogw'omuyaga (Jahannamu), gye yalibamu emirembe gyonna. Obusungu bwa Katonda (Allah) n'okukolimira biri ku ye, era bateekerwako e bibonerezo ebinene. 4:93
+- Buli muntu atambula (okuva mu nnyumba ye) mu kkubo lya Katonda (Allah), ajja kusanga ku nsi ebyalo ebingi n'ebintu bingi. 4:100
+- Mukolenga essaala mu budde bwazo. 4:103
+- Temuwagiranga wadde okubeera ab'omu kkooti ku bo abakyusa ebyabwekwase. 4:105
+- Mwegayirire Katonda (Allah) okubasonyiwako, mazima Katonda (Allah) musonyizi, musaasizi. 4:106
+- Abakkiriza! Muyimirire mu bwenkanya, mube abajulizi ba Katonda (Allah), ne bw'eba ng'ebikwata ku mmwe kennyini, oba ku bazadde bammwe, oba ku b'ekika kyammwe, omugagga oba omunaku. Temulengeranga bwenkanya; mukole mangu okukola obwenkanya. 4:135
+- Abantu ab'empya banoonya okukwasa Katonda (Allah), naye ye yaakwasa. 4:142
+- Abantu ab'empya baliba mu mutendera gwa wansi ennyo mu Mulyango (omuliro); era temuli banaabafunira mubeezi. 4:145
+- Katonda (Allah) tayagala kukyayibwa kyonna okuyimbibwa, okugyako oyo aliko ekibi. 4:148
+- Abatume nga bawa amawulire amalungi era nga balabula, leero abantu babe nga tebalina kye bavunaana eri Katonda (Allah) ng'abatume bamaze okujja. 4:165
+- Mutuukirize endagaano zammwe n'ebisuubizo byammwe. 5:1
+- Muyambe mu kukola ebirungi n'okutya Katonda (Allah), era temuyambanga mu kibi n'obulabe. 5:2
+- Temulyanga byokufa, omusaayi, n'enyama y'embizzi. 5:3
+- Mube abenkanankana, obutali bwenkanya n'obukyayi eri abalala tebibaleetera kulekera awo okukola obwenkanya. Mube abenkanankana. Mumanye nti okukola obwenkanya kuli okumpi n'okutya Katonda (Allah). Temulengeranga bwenkanya; mukole mangu okukola obwenkanya. 5:8
+- Munoonye ekkubo ery'okutuuka eri Katonda (Allah), era mutambe mu kkubo lye nga bwe musobola. Mube abawanguzi. 5:35
+- Mutuukirize ebirayiro byammwe n'endagaano zammwe. 5:89
+- Mwekwase enkumbi ezitamiiza n'omwenge. Mwekwase nnyo enkumbi ezitamiiza (enkumbi zonna ezitamiiza), okukuba ebigambo, ebiyambi, n'okubalirira ekizibu, byonna bya kibi ebya Setaane. 5:90
+- Temuttanga nyama y'omu nsiko nga muli mu nkola ya Ihram eri Hajji oba Umrah (okutambula). 5:95
+- Temubuuza ku bintu ebinayinza okubaleetera obuzibu singa bibannyonnyolwa. 5:101
+- Temuvvoolanga bakatonda b'abalala. Temuvvoolanga kye basinza (abatali bakkiriza) okugyako Katonda (Allah), baleme okumuvoola Katonda (Allah) mu butamufu. 6:108
+- Bwe mugondera abantu bangi ku nsi, bajja kubakabya okuva mu kkubo lya Katonda (Allah). Bo bakwataganya ebirowoozo n'ebyo bwe biri, naye tebalina kye bakola okugyako okulimba. 6:116
+- (Abantu) Mulekere awo ebibi byonna, eby'okumatogazi n'eby'okwekwama. 6:120
+- (Abakkiriza) Temulyanga (nyama) eyo kye tasinjiddwako linnya lya Katonda (Allah) (mu kiseera ky'okuttibwa). 6:121
+- Buli muntu Katonda (Allah) bw'ayagala okumulongoosa, agenda kuyasa ekifuba kye eri Islam; era buli gw'ayagala okumulekera mu kabi, agenda kufuula ekifuba kye kikye n'okukakubwako. 6:125
+- Mube ba wakati mu kuwaayo, era mwekwase okwonoona. Mukuumenga ebitongole by'obutonde bwonna. 6:141
+- Temugattanga waddeyo ku Katonda (Allah), mukolere ebirungi eri abazadde, temuttanga baana bammwe olw'okutya obwavu, temusembereranga ebibi, temuttanga omuntu Katonda (Allah) gwe yaziyiza, okugyako mu bwenkanya. 6:151
+- Mube abesigwa; temukozi bubi mu by'obusuubuzi byammwe. Temusembereranga by'abamulekwa, okugyako okubikola birungi, muwa ekipimo eky'omuuyi n'okupima okutaliiko kuteezi, bwe mwogera, mwogere mazima ne bw'ekikwata ku ow'ekika eky'oku lusegere, era mutuukirize endagaano ya Katonda (Allah). 6:152
+- Mugoberere ekkubo erigolokofu era temugobereranga ekkubo (erirala), kubanga biribawuzaayo okuva mu kkubo lye. 6:153
+- (Muhammad) Gamba: "Mazima ssaala yange, okutambuza kwange, obulamu bwange, n'okufa kwange byonna bya Katonda (Allah), Mukama w'abalonda." 6:162
+- Temweyawulanga. 7:13
+- Setaane tabaleetera butamufu. 7:27
+- (Muhammad) Gamba: "Mukama wange alagidde okukola obwenkanya…" 7:29
+- Mukwate ebigere bya Katonda (Allah) mu bintu byonna. Mwekwase okusukka mu bigambo n'ebikolwa. Mulye era munye, naye temumala. Mwambale engoye ennungi mu kiseera ky'essaala. 7:31
+- Katonda (Allah) yatonda eggulu n'ensi mu nnaku mukaaga, n'adda waggulu ku ntebe ye (mu ngeri ya kitiibwa kye). 7:54
+- Mwegayirire Mukama wammwe mu bwetoowaze n'okwekwama. Teyagala abo abasuka. 7:55
+- Era temukolanga kabi ku nsi, oluvannyuma lw'okuteekebwa mu ntambula, era mumwegayirire mu kutya n'okusuubira. 7:56
+- Naye abo abaakola ebibi, ne beenenya oluvannyuma lw'ebyo ne bakkiriza, mazima Mukama wo oluvannyuma lw'ebyo musonyizi, musaasizi. 7:153
+- (Muhammad) Gamba: "Abantu! Mazima nze Mutume wa Katonda (Allah) gye muli mwenna…" 7:158
+- Amannya gonna agalungi ga Katonda (Allah), kale mumuyite nago, era mulekere awo abo abalekera awo okukyusa amannya ge… 7:180
+- Buli muntu Katonda (Allah) gw'aleeta mu kabi, tewali amulongoosa; era abaleka batambule mu kabi kwabwe. 7:186
+- Sonyiwa, lagira ebirungi, era wewale abatamanyi (tobasonyiwa). 7:199
+- Musonyiwe abalala ebibi byabwe. 7:199
+- Era bw'eba nga Setaane akutwala mu kibi, saba Katonda (Allah) akukwate. Mazima ye awulira, amanyi. 7:200
+- Abakkiriza bebo ab'emitima gyabwe nga gitya, nga Katonda (Allah) bw'ajjukirwa, era nga Essuula ze bwe zisomerwa, zongera obukkiriza… 8:2
+- Temukozesa Katonda (Allah) ne Mutume we obulimba, era temukozesa ebyabwekwase byammwe (n'emirimu gyonna gy'abalagidde) nga bwe mumanyi. 8:27
+- Bwe mutya Katonda (Allah) ne mumugondera, ajja kubawa ekyekennenya (okwawula wakati w'amazima n'ebitali bya mazima, oba ekkubo eri okuva mu buzibu bwonna). 8:29
+- Abatali bakkiriza bakozesa emigabo gyabwe okuziyiza (abantu) okuva mu kkubo lya Katonda (Allah), era baliba bakozesa; naye ku nkomerero kiriba ky'akabonero gyali. 8:36
+- Gamba eri abo abakola obubi, bwe baba baleese, basonyiwe ebyabaddewo; naye bwe baddayo, ekyokulabirako ky'abo abaabadewo (ababonerezebwa) kimaze okusembera (nga kikabonero). 8:38
+- Bwe muba mutuuse ku (lutalo lw'omulabe) muyimirire mweke, era mujjukiranga linnya lya Katonda (Allah) myingi (mu nnimi n'emitima), mube bawanguzi. 8:45
+- Temuba nga abo abava mu nnyumba zaabwe nga beegulumiza era nga beelagira eri abantu, era (beekumira bantu) okuva mu kkubo lya Katonda (Allah). 8:47
+- Katonda (Allah) tajja kukyusa ekisa kye yawa abantu okugyako nga bakyusa ekyali mu bo. 8:53
+- Ebisolo ebibi ennyo mu maaso ga Katonda (Allah) be bo abatali bakkiriza. 8:55
+- Katonda (Allah) ateeka omukwano n'ekisa mu mitima gy'abakkiriza. 8:63
+- Mukuumenga era muwa abo abanoonya obukuumi. 9:6
+- Tekisaanira bannamaddiina bangi (Mushrikun) okukuuma misikiti ya Katonda (Allah). 9:17
+- Bo (abatali bakkiriza, Abayudaaya n'Abakirisitu) baagala okuzimya ekitangaala kya Katonda (Allah) (ekye Muhammad ﷺ ky'ajjira — okukkiriza Katonda (Allah) omu) n'akamwa k'abantu, naye Katonda (Allah) tayagala wabula okukituukiriza ekitangaala kye, newaakubadde abatali bakkiriza bakyawa. 9:32
+- Obuyambi (Zaka) bwa bano bokka: 1) abanaku, 2) abo abali mu buzibu, 3) abo abakola ku kukuŋŋaanya, 4) okussaawo emitima gy'abo abakyukakyuka eri Islam, 5) okusumulula abasibe, 6) abo abalina ebisale, 7) mu kkubo lya Katonda (Allah) (eri abalwanirizi), ne 8) omutambuze. 9:60
+- Buli muntu awakanya Katonda (Allah) ne Mutume we (ﷺ), mazima alina Omuliro gw'omuyaga (Jahannamu), gye waliba emirembe gyonna. Ekyo kya kuswaza nnyo. 9:63
+- Abantu ab'empya, abasajja n'abakazi, balingana. Beerabidde Katonda (Allah), naye n'ababerabira. 9:67
+- Munoonye okulongoofu. Muwa ekitiibwa eky'obutukuvu bwa misikiti. 9:108
+- Tekisaanira (Nnabbi n'abakkiriza) okusaba ekisa eri bannamaddiina bangi, newaakubadde nga b'ekika, oluvannyuma lw'okumanya nga bwe biri nti bo b'omu Muliro (kubanga bafudde mu bukiriza bubi). 9:113
+- Ani aliko ekibi ekinene okusinga oyo ayogera obulimba ku Katonda (Allah) oba alemesa okukkiriza ebigambo bye? Mazima ababi tebajja kuwangula! 10:17
+- Basinza ebintu ebirala okugyako Katonda (Allah) ebitabaleetera kabi wadde okubagasa, era bagamba: "Bano be batabazi baffe eri Katonda (Allah)." Gamba: "Mubwira Katonda (Allah) ekyo ky'atamanyi mu ggulu n'ensi?" Asingiziddwa, era ali waggulu ku ebyo bye bamugattako! 10:18
+- Empeera y'ekibi kye kimu. 10:27
+- Oyo ye Katonda (Allah), Mukama wammwe ow'amazima. Kale oluvannyuma lw'amazima, kiki ekitali kitalo? Kale lwaki mukyusibwa? 10:32
+- Abasinga obungi mu bo bagoberera eby'okulowooza. Mazima eby'okulowooza tebikola kyonna eri amazima. 10:36
+- Mazima! Katonda (Allah) tayisa bantu bubi; naye abantu be bennyini bee bayisa bubi. 10:44
+- Mumanye nti ekisa kya Katonda (Allah) kisinga buli kintu kyonna omuntu ky'ayinza okukuŋŋaanya oba okukuumira. 10:58
+- Temubanga mu bo abalimba ebigambo bya Katonda (Allah), kubanga kale mufuuka abo abafirwa. 10:95
+- Bwe Katonda (Allah) bw'akukwata ku eky'akabi, tewali ayinza okukiwonya okugyako ye; era bw'ayagala ekirungi gy'oli, tewali ayinza okuziyiza ekisa kye, ky'awa buli gw'ayagala mu baddu be. 10:107
+- Tewali kitonde kyonna eky'oku nsi ekitali nga emmere yakyo eri Katonda (Allah). Era amanyi eky'okubeeramu n'ekiterekebwamu (mu lubuto, mu ntaana, n'ebirala). 11:6
+- Bwe twawa omuntu okulaba ekitangaala ky'ekisa kyaffe, oluvannyuma ne tukyimwako, mazima afuuka ow'okukyawa n'okugaana. 11:9
+- Buli muntu ayagala obulamu bw'ensi n'okwenyumiriza kwabwo, tujja kuwanga empeera y'ebikolwa byabwe mu byo, era tebalina kye baba bali mu kulimba. 11:15
+- Tetubakolera bubi, naye be bennyini be be bakolera bubi. Bakatonda baabwe be baasaba okugyako Katonda (Allah), tebaabagasa kintu kyonna ku kiseera ekiragiro kya Mukama wo bwe kyajja, era tebaabongerako okugyako okuzikiriza. 11:101
+- Ku lunaku lwe lunaajja, tewali muntu aliyogera okugyako nga Katonda (Allah) akkirizza. Abamu ku bo baliba mu kabi, n'abalala mu ssanyu. 11:105
+- Naye abo abaliba mu kabi, baliba mu Muliro, gye baliba nga bakwangula n'okukung'ang'ana. 11:106
+- Baliba mu gwo emirembe gyonna, nga eggulu n'ensi bwe biriba, okugyako nga Mukama wo bw'ayagala. Mazima Mukama wo akola ky'ayagala. 11:107
+- Naye abo abaliba mu ssanyu, baliba mu Jannati, gye baliba emirembe gyonna, nga eggulu n'ensi bwe biriba, okugyako nga Mukama wo bw'ayagala, ng'ekiweebwa ekitaggwaawo. 11:108
+- Temwekutanga eri abakola ebibi, omuliro gube gumukwata, era temubeera na bakuumi okugyako Katonda (Allah), era temuba basobodde kuyambibwa. 11:113
+- Mukolenga essaala ku nkomerero z'omunsi na ku kiseera eky'ekiro (essaala 5 za buli lunaku). Ebikolwa ebirungi bikuggyawo ebigambo ebibi (ebibi ebitono). 11:114
+- Ebintu eby'ekyama ebiri mu ggulu n'ensi bya Katonda (Allah), era gy'ali ebintu byonna by'eddira (okusalirawo). 11:123
+- Amateeka (oba okusala) ga Katonda (Allah) yekka. Alagidde okusinza ye yekka (okukkiriza ye omu), ggo ddiini erigolokofu, naye abantu abasinga obungi tebamanyi. 12:40
+- Temukyawanga mu kisa kya Katonda (Allah). 12:87
+- Abantu abasinga obungi tebakkiriza, newaakubadde nga bw'ogenda okubasaba. 12:103- Abasinga obungi mu bo tebakkiriza Katonda (Allah) okugyako nga bamugattako (abo be bannamaddiina bangi). 12:106
+- Ekyo (Kur'ani) si kigambo ky'okulimba, wabula kukakasa ebitabo ebyakulembera (Tawrat, Injil n'ebitabo ebirala) n'okunnyonnyola ebintu byonna, era kkubo n'ekisa eri abantu abakkiriza. 12:111
+- Katonda (Allah) awa oyo gw'ayagala okubuna eby'obulamu, era akendeeza (owo gw'ayagala). 13:26
+- Mujjukire Katonda (Allah) myingi nga mukozesa zikiri. Abo abakkiriza Katonda (Allah), emitima gyabwe giffuna obutebenkevu nga bamujjukira. 13:28
+- Abo abakkiriza era abakola ebirungi, bafuna essanyu n'obutebenkevu bw'omutima. 13:29
+- Abo abalonda obulamu bw'ensi okusinga obwa Lunaku lw'Oluvanyuma, era abaziyiza (abantu) okuva mu kkubo lya Katonda (Allah) (Islam), era abanoonya okulikyusa — abo baba mu kabi eri wala ennyo. 14:3
+- Mukolenga mu bwetoowaze n'okwebaza mu kusinza. 14:7
+- Ekyokulabirako ky'abo abagaana Mukama waabwe kiringa evvu, eryo empewo eriwumbika mu lunaku lw'omuyaga omunene; tebalifuna kintu kyonna ku ebyo bye baakola. 14:18
+- Katonda (Allah) ajja kukakasa abakkiriza n'ekigambo eky'enkakafu mu bulamu bw'ensi (bw'ebakola ng'abasinza ye yekka) ne mu Lunaku lw'Oluvanyuma. 14:27
+- Temulowooza nti Katonda (Allah) tamanyi ebikolwa by'abo abakola obubi (bannamaddiina bangi, abayisa bubi, n'ebirala), wabula abalindirira okutuuka ku lunaku amaso lwe lunaatya. 14:42
+- Leero Katonda (Allah) awanga empeera ya buli muntu ng'ekigendererwa kye bwe kiri. Mazima Katonda (Allah) mwangu mu kubala. 14:51
+- Era mazima twatonda omuntu okuva mu ttaka ery'omuwendo, okuva mu ttaka edddugavu. 15:26
+- Era bajinni, twabatonda okuva mu byakulembera mu muliro ogutaliimu nkungu. 15:27
+- (Omuliro) guli n'enzigi musanvu; buli nzigi eri n'ekitundu (eky'enjawulo) ky'abakola ebibi. 15:44
+- Yatonda omuntu okuva mu mazzi (okugattika kw'omusaayi gw'omusajja n'omukazi), naye (omuntu) afuuka omulabe omunene. 16:4
+- Era ente, yazitonda ku lwammwe; mu zo mufuna eby'okwewala (engoye ez'okwewala) n'omugaso munene, era mu zo mulya. 16:5
+- Era (yatonda) embalaasi, nnyumbu, n'endogoyi, okuzigendako n'okweyambisa. Era atonda (ebintu ebirala) bye mutamanyi. 16:8
+- Ye eyeetikka amazzi (enkuba) okuva waggulu; mubinywako, era mubifulumira ebimera bye musaka. 16:10
+- Ye eyawula enyanja (erimukolera), mulye mu nnyama yaayo empya (ebyenyanja), era mufulumye eby'okwewala bye mwambala. 16:14
+- Yateeka ku nsi ensozi okuginyweza, tezinyiikirira nga muli, n'emigga n'ebikkubo, musobole okulongolebwa. 16:15
+- Oyo atonda, atuuka ku oyo atatonda? Temukijjukira? 16:17
+- Bwe mwabalanga ebisa ebya Katonda (Allah), temubalira ku ttaka. 16:18
+- Katonda (Allah) amanyi bye mukweka n'ebyemukwatira. 16:19
+- Ebyo (abannamaddiina bangi) bye basaba okugyako Katonda (Allah), tebyatonda kintu kyonna, wabula byo byatondebwa. 16:20
+- (Byo) bifu, tebiri na bulamu, era tebimanyi bwe binaazuukizibwa. 16:21
+- Ekigambo kyaffe ku kintu, bwe tukyagala, kwe kugamba: "Beera!" era kibaawo. 16:40
+- Abo abakola eby'okubwatukira, abeewala Katonda (Allah) oba nga tabagwa mu ttaka, oba nga e bibonerezo tebiba tubatuuseeko? 16:45
+- Bulamu bwammwe bwonna n'ebirungi byonna biva eri Katonda (Allah). Oluvannyuma bwe muba muli mu buzibu, gye muli mugenda okusaba. 16:53
+- Oluvannyuma bwe babaggyaawo eky'akabi, abamu ku mmwe bagatta ku Mukama waabwe (Katonda (Allah)). 16:54
+- Mu bisolo mulimu eky'okuyigiriza. Tubawa okunywa okuva mu byo ebiri mu mubiri gwabyo, wakati w'ebirowoozo n'omusaayi, amata galongoofu, agasanyusa abanywa. 16:66
+- Kale temugattanga Katonda (Allah) ku kintu kyonna (kubanga tewali kintu kye kiringa, era naye talinga kintu). Mazima Katonda (Allah) amanyi, naye mmwe temumanyi. 16:74
+- Mumanye nti Katonda (Allah) yawa abantu okulaba, okulaba, okutegeera, n'okwetaaga, babe nga beebaza. 16:78
+- Mwekwase okwegomba n'okwewala okugabana. 16:97
+- Bwe mwaba munaasoma Kur'ani, saba Katonda (Allah) akukwate ku Setaane, aliko ekikolimiro. 16:98
+- Mumanye nti ekibi ekikolebwa mu butamufu, omuntu bw'eenenya n'akola ekirungi, kisonyibwa. 16:119
+- (Muhammad) Yita ku kkubo lya Mukama wo (Islam) n'amagezi n'okubuulira okulungi, era bawakane nabo mu ngeri ennungi. Okukabula abalala ku kkubo lya Katonda (Allah) kusaanidde okukolebwa n'amagezi n'ekisa. 16:125
+- Mazima Katonda (Allah) ali n'abo abamutya (abo abatuukiriza omulimu gwabwe eri ye) n'abo abakola ebirungi. 16:128
+- Kur'ani eno etambuza ku kintu ekisooka obulungi. 17:9
+- Tewali muntu alitwala omugugu gw'omulala. 17:15
+- Buli muntu ayagala Lunaku lw'Oluvanyuma n'akolera ku lwo, ng'akola nga bw'etaagisa, era ng'ali mu kukkiriza, abo be baakuwanga empeera (eri Katonda (Allah)). 17:19
+- Muwa ekitiibwa abazadde bo era bakolere mu nkola nungi. Beerere abawulize eri abazadde. Temubagambanga kigambo kyonna eky'obuvune. Mukama wo alagidde nga temusinzanga wabula ye. Era nga mukolera abazadde bo ebirungi. Bwe baba nga omu ku bo oba bombi batuuse mu bukadde, temubagambanga "Ayi!" era temubayombangako, wabula mubagambanga ebigambo eby'ekitiibwa. 17:23
+- Era weeyongere okuba ab'omuwendo n'okusaasira, era yogera: "Mukama wange! Bakwatirwe ekisa nga bwe bakwatira nze eky'okumbeera nga nkyali muto." 17:24
+- Mazima abo abasaanyaawo emigabo be baganda ba Setaane, era Setaane ye mugobanso eri Mukama we. 17:27
+- Temusaanyaawo ssente. 17:29
+- Temuttanga baana bammwe olw'okutya obwavu. 17:31
+- Temusembereranga bwenzi. Mukuumenga obutukuvu bwa bwenzi. 17:32
+- Muwa ekipimo ekituufu bwe mupima, era mupime n'ekipimo ekituufu. Ekyo kye kirungi (ekigasa) era kirungi ku nkomerero. 17:35
+- (Omuntu) Togobereranga kye tomanyi (nga okugamba: "Nalabye," kyokka tolabye, oba "Nawulira," kyokka towulira). 17:36
+- Mube abeetoowaze era temwegulumiza. Temutambulanga ku nsi nga mweyawula. Mazima tosobola kwetobya nsi, era tosobola kutuuka ku buwanvu bwa nsozi. 17:37
+- Mukama wo abamanyi ennyo; bw'ayagala, abakwatirwa ekisa, oba bw'ayagala, ababonereza. 17:54
+- Buli muntu abeera muzibe ku nsi (atabye eby'okulabirako bya Katonda (Allah) era atakkiriza), aba muzibe ne ku Lunaku lw'Oluvanyuma, era nga yatambula ennyo mu kabi. 17:72
+- Mukwate ebiro eby'essaala ebigere. 17:78
+- Mazima twannyonnyola mu Kur'ani eno eby'okulabirako byonna, naye abantu abasinga obungi bagaana (amazima) era tebakkiriza. 17:89
+- Twaleeta mu Kur'ani eno eby'okulabirako byonna eri abantu. Naye omuntu ye mulwanyi ennyo. 18:54
+- Empeera yaabwe Omuliro (Jahannamu); kubanga baagaana era baatwala ebigambo byange n'Abatume bange ng'okwesekerera. 18:106
+- Tekisaanira (ekitiibwa kya) Katonda (Allah) okubeera n'omwana (ekyo kijulira ku kugamba kw'Abakirisitu okutaliiko kituufu, nga bagamba nti Yesu mwana wa Katonda (Allah)). Yatukuzibwa (era ali waggulu ku ebyo bye bamugattako). 19:35
+- Mwogere abantu mu ngeri nungi. 20:44
+- Muyite mu kukola ebirungi. 21:90
+- Mwekwase ebigambo eby'omulalu. 23:3
+- Mukuumenga obwereere bwammwe. 23:5
+- Mukuumenga emitima gyammwe okukola ebibi. 23:97
+- Musonyiwe abalala era mubasonyiwe. 24:22
+- Muwa ekitiibwa eky'obwengeke bw'abalala, naddala mu nnyumba zaabwe. Mutuukirize eby'obuyambi eri baliraanwa. 24:27
+- Musuule amaaso (abasajja n'abakazi). Mukuumenga obwereere bwammwe n'okwenkanya. 24:30
+- Mukolenga mu kwambala n'okutambula mu nkola nungi. 24:31
+- Mumanye nti Katonda (Allah) awa obutebenkevu n'emirembe eri abo abamusinza era abakola ebirungi. 24:55
+- Temuyingiranga mu kisenge ky'abazadde bo nga temusaba kukkirizibwa. 24:58
+- Mube abeetoowaze. 25:63
+- Mwekwase okuwa obujulizi obw'obulimba n'obulimba. 25:72
+- Munoonye empeera mu Lunaku lw'Oluvanyuma, naye temulwa okukola eby'ensi zino. 28:77
+- Temusenganga waddeyo eri Katonda (Allah). 28:88
+- Temukolanga kigambo ky'obugwenyufu okugyako mu kugenda mu butuufu. 29:29
+- Munoonye okugenda mu maaso mu bikolwa byonna. 29:69
+- Mukolenga essaala era muwe zaka. 31:4
+- Mulagire ebirungi era mugaane ebibi. 31:17
+- Mwekwase okwegulumiza mu nkola yammwe. Temukozesa budde mu bigambo eby'omulalu. 31:18
+- Mube ba wakati mu kutambula n'okwogera. 31:19
+- Mugoberere ekyokulabirako kya Nnabbi Muhammad. 33:21
+- Abakazi tebasaanidde kweyoleka oba okweyawaana olw'obulungi bwabwe n'eby'okwewala. 33:33
+- Mwogere amazima mu mbeera zonna. 33:70
+- Munoonye amagezi n'okutegeera mu birowoozo. 38:29
+- Mugondere ebiragiro bya Kur'ani. 39:23
+- Katonda (Allah) asonyiwa ebibi byonna bwe waba omuntu akoze ekibi n'eenenya n'addayo eri ye. 39:53
+- Mukole dua (okwegayirira) kwa Katonda (Allah) mu bwesigwa. 40:60
+- Muwonye obubi n'ekirungi eky'okusingawo. 41:34
+- Musalewo ebintu mu kwebuuza. 42:38
+- Temugulumiza eddoboozi lyammwe okusinga erya Nnabbi. 49:2
+- Mukuumenga ebikwese era mwekwase okukyusa. 49:6
+- Muteebeerewo emirembe wakati w'abo abali mu bwatabazi. Munoonye okuttaanya mu bwatabazi. 49:9
+- Temusekereranga bantu. 49:11
+- Mwekwase okulowooza ebibi. Mwekwase okwekalirira n'okuyita. Temuyitanga wadde okwogera bibi ku bantu. Mwekwase ebikolwa byonna eby'okuyita n'okwogera bibi. Amalala tegaleeta mmwe mu kukola bubi. 49:12
+- Mumanye nti ekisinga obulungi mu mmwe eri Katonda (Allah) ye asinga okumutya. Muwa ekitiibwa eby'enjawulo wakati w'abantu n'obuwangwa. 49:13
+- Muwa ekitiibwa abagenyi. 51:26
+- Mube abeegenderera eri obuvunaanyizibwa bwammwe eri Katonda (Allah). 51:56
+- Muwa eby'obugagga mu kuyamba. 57:7
+- Mumanye nti tewali kusibibwa mu ddiini (okukyusa obukulembeze n'okwenjawulo nga bwe kiri mu bbaasani, n'obukulembeze bwe bwe butyo). 57:27
+- Eby'obugagga tebibakwatanga mu kujjukira Katonda (Allah). 58:11
+- Abo abalina okumanya, Katonda (Allah) agenda kubagulumiza mu madaala. 58:11
+- Mukolere abatali Bakkiriza mu ngeri ennungi n'obwenkanya. 60:8
+- Mwekwase okugwa mu bwenzi mu kukkiriza kwammwe n'ebikolwa byammwe. 63:9
+- Mbeerenga ewala n'obwegumba n'okugabana. 64:16
+- Mukuumenga ebyawandiikibwa ebyaweebwa. 73:15
+- Mujjukire Olunaku lw'Okusala. 75:36
+- Mulagire okugumira n'okusaasira. 90:17
+- Abo abalongoosa emitima gyabwe bawangula; n'abo abagyonoona bafunwa. 91:10
+- Temuleka awo wadde okukyawa abetaaga. 93:10
+- Munoonye okumanya n'okutegeera. Musome Kur'ani era mubikubiremu ebirowoozo. 96:1–5
+- Mukubirize okuliisa abanaku. 107:3
 """;

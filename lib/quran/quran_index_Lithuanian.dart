@@ -3321,4 +3321,280 @@ Matching Phrases 8 words
 - Allahas gausiai suteikia kam nori iš savo tarnų ir nustato (mažiau). (اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ) 28:82; 29:62
 - Ir jūs būsite sugrąžinti pas Tą, kuris žino paslėptą ir atvirą, ir Jis jums praneš apie tai, ką darydavote. (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
 - Ir kraujo giminės yra arčiau vieni kitų pagal Allaho Raštą. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
+cmds - Commands, Exhortations, Prohibitions, Instructions
+- fard / wajib (فرض / واجب) — privaloma (turi būti padaryta; nuodėmė praleisti)
+- mustahabb / mandub (مستحب / مندوب) — rekomenduojama (bus atlyginta, jei padaryta; nėra nuodėmė, jei praleista)
+- mubah (مباح) — neutralu / leistina (nei atlygio, nei nuodėmės)
+- makruh (مكروه) — smerktina / nepageidautina (nerekomenduojama, bet nėra nuodėmė, jei padaryta)
+- haram (حرام) — draudžiama (nuodėmė padaryti)
+- halal (حلال, leistina / teisėta) — apima ir mubah, ir mustahabb — viskas, kas nėra uždrausta
+- Garbinkite tik Allahą ir prašykite Jo pagalbos/paramos. 1:5
+- Garbinkite tik Allahą. 2:21
+- Nedarykite Allahui jokių bendrininkų. 2:22
+- Allahas yra Tas, kuris atleidžia (priima atgailą), Jis priėmė Adomo (ramybė jam) atgailą. 2:37
+- Nemaišykite tiesos su melu ir neslėpkite tiesos. 2:42
+- Atlikinėkite maldą (kasdienes maldas) ir duokite zakatą (išmaldą). 2:43
+- Įsakykite kitiems daryti gera tik po to, kai patys jį praktikuojate. 2:44
+- Ieškokite Allaho pagalbos visuose savo reikaluose. 2:45
+- Nesivelkite į korupciją ir jos neplatinkite. 2:60
+- Netrukdykite žmonėms eiti į garbinimo vietas. 2:114
+- Gerbkite mečetės šventumą. Laikykite savo maldos vietas švarias ir tyr as. 2:125
+- Prisiminkite Allahą (maldavimu, šlovinimu ir kt.) ir Jis prisimins jus, ir būkite Jam dėkingi. 2:152
+- Būkite kantrūs negandose. 2:153
+- Nesekite velnio pėdomis, kuris yra aiškus priešas. 2:168
+- Niekam neaklai nesekite. 2:170
+- Saugokite ir vykdykite visus pavedimus. Vykdykite savo religines pareigas nuoširdžiai. Vykdykite savo priesaikas ir sutartis. Laikykitės pažadų, ypač tų, kuriuos davėte Allahui. Remkite vargstančius ir mažinkite sunkumus. Venkite daryti nuodėmių, kurios praranda dieviškąją malonę. Neleiskite, kad išdidumas vestų jus prie neteisybės. 2:177
+- Kise (lygybės įstatyme baudžiant) jums yra gyvybė. 2:179
+- Pasninkaukite Ramadano mėnesį. Laikykitės nustatyto pasninko, kad taptumėte Mutakunais (dievobaimingaisiais). 2:183
+- Gerbkite Koraną kaip galutinį vadovavimo šaltinį. 2:185
+- Nevalgykite vieni kitų turto neteisingai ir neduokite kyšių teisėjams (prieš pateikdami savo bylas). 2:188
+- Neslėbkite kitų, žodžiu ar veiksmu. Niekada nekovokite kaip agresoriai, o tik gindamiesi. 2:190
+- Saugokite našlaičius. Kalbant apie našlaičius, sąžiningai tvarkykite jų turtą ir nevalgykite jų turto. 2:220
+- Atgailaukite ir prašykite Allaho atleidimo. Neturėkite lytinių santykių menstruacijų metu. Laikykitės švaros (tiek fizinės, tiek dvasinės). 2:222
+- Vykdykite savo pareigas šeimai. 2:233
+- Rinkitės lyderius pagal jų nuopelnus. 2:247
+- Religijoje nėra prievartos. 2:256
+- Leiskite turtą labdarai. Būkite dosnūs tiek turtu, tiek laiku. 2:261
+- Negadinkite labdaros girsdamiesi savo dosnumu. 2:264
+- Šėtonas grasina jums skurdu ir liepia daryti ištvirkavimus (blogus darbus, neteisėtus lytinius santykius, nuodėmes). 2:268
+- Ieškokite vargstančių ir padėkite jiems. 2:273
+- Nesivelkite į lupikavimą ar palūkanas. Nevartokite palūkaninio turto. Nevalgykite ribos (lupikavimo). 2:275
+- Suteikite skolininkui daugiau laiko atsiskaityti, jei jis sunkioje padėtyje. 2:280
+- Laikykitės savo žodžio verslo sandoriuose. Būkite teisingi savo finansiniuose reikaluose. Veikite sąžiningai visuose savo įsipareigojimuose. Kai sudarote skolos sutartį tam tikram laikotarpiui, užrašykite ją. Pasiimkite liudytojus, kai sudarote komercinę sutartį. 2:282
+- Saugokite ir vykdykite visus pavedimus. 2:283
+- Tikėkite atsiųstomis Knygomis ir visais Pranašais. 2:285
+- Allahas neapkrauna žmogaus daugiau, nei jis gali pakelti. Jis gaus atlygį už gerus darbus ir bausmę už blogus darbus. Dievas neapkrauna žmogaus daugiau, nei jis gali pakelti; mes irgi neturėtume to daryti. Pasitikėkite Allaho planu net ir sunkumuose. 2:286
+- Kas vykdo sutartis ir bijo Allaho, tai Allahas myli dievobaiminguosius. 3:76
+- Atlikite hadžą (piligriminę kelionę), jei galite. 3:97
+- Neskilite. 3:103
+- Įsakykite gera ir drauskite bloga. Skatinkite teisumą savo bendruomenėje. Kvieskite kitus prisiminti Allahą. 3:104
+- Tikintieji turi pasitikėti Allahu. 3:122
+- Nevalgykite ribos (lupikavimo). 3:130
+- Pakluskite Allahui ir Jo Pasiuntiniui, kad gautumėte gailestingumą. 3:132
+- Allahas myli tuos, kurie leidžia (Allaho labui — labdaros darbams, išmaldai ir kt.) tiek gerovėje, tiek nepritekliuje, kurie tramdo pyktį ir kurie atleidžia žmonėms. 3:134
+- Tramdykite pyktį. Valdykite savo pyktį. 3:134
+- Atleiskite ir dovanokite kitų klaidas. 3:135
+- Nebūkite šiurkštūs kalboje. Būkite kantrūs tiems, kurie su jumis nesutinka. 3:159
+- Jei Allahas jums padeda, niekas jūsų negali nugalėti; o jei Jis jus apleidžia, kas po Jo gali jums padėti? 3:160
+- Kiekvienas paragaus mirties. Ir tik Prikėlimo dieną gausite visą savo atlygį. 3:185
+- Giliai pamąstykite apie gamtos stebuklus ir šios visatos sukūrimą. Žinokite, kad Dievas sukūrė visatą su prasme ir tikslu. 3:191
+- Vyrai ir moterys turi vienodą atlygį už savo darbus. 3:195
+- Tiems, kurie bijo savo Viešpaties, yra sodai (Rojuje), po kuriais teka upės; juose jie amžinai gyvens, kaip Allaho svetingumas. 3:198
+- Visada stenkitės įtikti Allahui kiekvienu veiksmu. 3:200
+- Bijokite savo Viešpaties, Jį gerbkite ir (nenutraukite) giminystės ryšių. 4:1
+- Atiduokite našlaičiams jų turtą ir nekeiskite (savo blogų) į jų (gerus); ir nevalgykite jų turto (pridėdami prie savo). 4:2
+- Moterims (kuriomis vedate) atiduokite jų mahr (privalomą vestuvių dovaną, kurią vyras duoda žmonai vestuvių metu) geros širdies. 4:4
+- Saugokite našlaičių teises. 4:6
+- Mirusiojo turtas turi būti padalintas jo šeimos nariams. Moterys turi teisę į paveldėjimą. 4:7
+- Nevalgykite našlaičių turto neteisingai. 4:10
+- Vykdykite įsakymus dėl paveldėjimo. 4:11
+- Draudžiama paveldėti moteris prieš jų valią ir su jomis elgtis šiurkščiai. Gyvenkite su jomis (žmonomis) garbingai. Gerbkite ir saugokite moterų teises. Elkitės su sutuoktine gerumu ir užuojauta. Elkitės su moterimis su garbe ir teisingumu. 4:19
+- Neveskite tų, kurie yra jūsų kraujo giminaičiai. 4:23
+- Nežudykite vienas kito. Allahas tikrai yra gailestingas jums. Nevalgykite vieni kitų turto neteisingai. 4:29
+- Jei vengiate didelių nuodėmių, kurios yra uždraustos, Allahas atleis jums (mažas) nuodėmes ir įves jus į kilnų įėjimą (Rojų). 4:31
+- Netrokškkite to, kuo Allahas vienus iš jūsų iškėlė virš kitų. Venkite pavydo ir pavyduolystės. 4:32
+- Vyrai yra moterų globėjai ir rūpintojai, nes Allahas vienus iškėlė virš kitų ir nes jie leidžia savo turtą (joms išlaikyti). Vyras yra šeimos globėjas ir rėmėjas. 4:34
+- Garbinkite Allahą ir nedarykite Jam nieko bendrininku, būkite geri tėvams, giminaičiams, našlaičiams, vargšams, kaimynui, šalia esančiam draugui, keliautojui (kurį sutinkate) ir tiems (vergams), kuriuos valdo jūsų dešinės rankos. Allahas nemėgsta išdidžiųjų ir gyrūnų. Būkite geri kitiems. Gailestaukite silpnųjų. Palaikykite šeimos ryšius ir gerbkite giminaičius. 4:36
+- Nebūkite šykštūs. 4:37
+- Allahas neatleidžia, kad Jam būtų priskiriami bendrininkai, bet atleidžia visa kita, kam nori. 4:48
+- Nepavydėkite kitiems. 4:54
+- Allahas įsako jums grąžinti pavedimus jų savininkams. Kai teisiate tarp žmonių, teiskite teisingai. 4:58
+- Pakluskite Allahui ir Jo Pasiuntiniui. Gerbkite tuos, kurie turi valdžią tarp jūsų. 4:59
+- Neengti silpnųjų ir pažeidžiamųjų. 4:75
+- Gera, kas jus pasiekia, yra iš Allaho; o bloga, kas jus ištinka, yra iš jūsų pačių. 4:79
+- Kas paklūsta Pasiuntiniui (Muhammadui ﷺ), tas pakluso Allahui. 4:80
+- Kas užtaria dėl gero darbo, gaus jo dalį; o kas užtaria dėl blogo darbo, gaus jo dalį naštos. 4:85
+- Tikintysis neturi žudyti kito tikinčiojo, išskyrus per klaidą. 4:92
+- Kas tyčia nužudo tikintįjį, jo atpildas yra Pragaras, kuriame jis amžinai gyvens. Allaho rūstybė ir prakeiksmas krinta ant jo, ir jam paruošta didžiulė bausmė. 4:93
+- Kas emigruoja (iš savo namų) Allaho keliu, ras žemėje daug prieglaudų ir gausybės. 4:100
+- Būkite punktualūs savo maldose. 4:103
+- Neremkite ir nebūkite advokatais tiems, kurie išduoda pavedimus. 4:105
+- Prašykite Allaho atleidimo, Allahas tikrai yra Atleidėjas, Gailestingiausiasis. 4:106
+- O jūs, tikintieji! Būkite tvirti teisingume, liudytojai dėl Allaho, net jei tai prieš jus pačius, ar tėvus, ar giminaičius, turtingą ar vargšą. Nedelsdami atkurkite teisingumą; nedelsdami spręskite neteisybes. 4:135
+- Veidmainiai bando apgauti Allahą, bet Jis juos apgauna. 4:142
+- Veidmainiai bus pačioje Ugnies dugne; ir jūs nerasite jiems pagalbininko. 4:145
+- Allahas nemėgsta, kad blogis būtų skelbiamas viešai, išskyrus tą, kuris buvo nuskriaustas. 4:148
+- Pasiuntiniai kaip gerųjų naujienų skelbėjai ir kaip įspėtojai, kad žmonės po Pasiuntinių neturėtų preteksto prieš Allahą. 4:165
+- Vykdykite savo sutartis ir pažadus. 5:1
+- Padėkite vieni kitiems gerume ir dievobaimingume, o ne nuodėmėje ir priešiškume. 5:2
+- Nevalgykite dvėselienos, kraujo ir kiaulienos. 5:3
+- Būkite teisingi, neleiskite priešiškumo ir neapykantos kitiems atitraukti jūsų nuo teisingumo. Būkite teisingi. Žinokite, kad teisingumas yra arti dievobaimingumo. Nedelsdami atkurkite teisingumą; nedelsdami spręskite neteisybes. 5:8
+- Ieškokite būdų priartėti prie Allaho ir kovokite Jo keliu, kiek galite. Kad jums pasisektų. 5:35
+- Vykdykite savo priesaikas ir sutartis. 5:89
+- Venkite girtuoklinių gėrimų ir alkoholio. Griežtai venkite girtuoklinių gėrimų (visų rūšių alkoholio), azartinių lošimų, stabų (akmeninių aukurų) ir burtų strėlių, kurios yra šėtono darbo bjaurastys. 5:90
+- Nežudykite medžiojamųjų gyvūnų, kai esate ihramo būsenoje hadžo ar umros (piligriminės kelionės) metu. 5:95
+- Neklauskite apie dalykus, kurie, jei jums būtų atskleisti, galėtų jus nuliūdinti. 5:101
+- Neįžeidinėkite kitų dievybių. Neįžeidinėkite tų, kuriuos (netikintieji) garbina vietoj Allaho, kad jie neįžeistų Allaho iš nežinojimo. 6:108
+- Jei paklūstate daugumai žmonių žemėje, jie nuves jus iš Allaho kelio. Jie vadovaujasi tik spėlionėmis ir tik meluoja. 6:116
+- Atsisakykite (žmonės) visų nuodėmių, atvirų ir slaptų. 6:120
+- Nevalgykite (tikintieji) tos (mėsos), ant kurios nebuvo paminėtas Allaho vardas (skerdimo metu). 6:121
+- Ką Allahas nori vesti teisingu keliu, tam Jis atveria krūtinę Islamui; o ką Jis nori palikti klaidoje, tam Jis padaro krūtinę siaurą ir suspaustą. 6:125
+- Būkite saikingi išlaidose ir venkite švaistymo. Saugokite visų būtybių teises. 6:141
+- Nedarykite Allahui nieko bendrininku, būkite geri tėvams, nežudykite savo vaikų dėl skurdo baimės, neikite prie ištvirkavimų, nežudykite to, ką Allahas uždraudė, išskyrus teisingu pagrindu. 6:151
+- Būkite sąžiningi; neapgaudinėkite jokiuose savo sandoriuose. Nelieskite našlaičio turto, išskyrus norėdami jį pagerinti, pilnai atsverkite ir sverkite teisingai, kai kalbate, sakykite tiesą, net jei tai liečia artimą giminaitį, ir vykdykite Allaho sandorą. 6:152
+- Sekite tiesiu keliu ir nesekite (kitais) keliais, nes jie atskirs jus nuo Jo kelio. 6:153
+- Sakyk (Muhammadai): "Iš tiesų, mano malda, mano auka, mano gyvenimas ir mano mirtis yra skirta Allahui, pasaulių Viešpačiui." 6:162
+- Nebūkite išdidūs. 7:13
+- Tegul šėtonas jūsų neapgauna. 7:27
+- Sakyk (Muhammadai): "Mano Viešpats įsakė teisingumą…" 7:29
+- Laikykitės Allaho nustatytų ribų visuose reikaluose. Venkite peržengimo žodžiais ir veiksmais. Valgykite ir gerkite, bet nepersistenkite. Dėvėkite gražius drabužius maldos metu. 7:31
+- Allahas sukūrė dangus ir žemę per šešias dienas, o paskui įsikūrė Soste (taip, kaip pridera Jo Didenybei). 7:54
+- Šaukkitės savo Viešpaties nuolankiai ir slaptai. Jis nemėgsta peržengėjų. 7:55
+- Nedarykite netvarkos žemėje po to, kai ji sutvarkyta, ir šaukkitės Jo su baime ir viltimi. 7:56
+- Tie, kurie padarė blogus darbus, o paskui atgailavo ir patikėjo, iš tiesų, tavo Viešpats po to yra Atleidžiantis, Gailestingas. 7:153
+- Sakyk (Muhammadai): "O žmonės! Iš tiesų, aš esu Allaho Pasiuntinys jums visiems…" 7:158
+- Ir (visi) gražiausi Vardai priklauso Allahui, todėl šaukitės Jo jais, ir palikite tuos, kurie iškraipo Jo Vardus… 7:180
+- Ką Allahas nuveda klaidon, tam nėra vedlio; ir Jis palieka juos klaidžioti aklai jų peržengimuose. 7:186
+- Rodyk atlaidumą, liepk daryti gera ir venk nežinolių (t.y. jų nebaudink). 7:199
+- Atleiskite kitiems jų klaidas. 7:199
+- Ir jei šėtono paskatinimas tave paliečia, tada ieškok prieglobsčio pas Allahą. Iš tiesų, Jis yra Girdintis, Žinantis. 7:200
+- Tikintieji yra tik tie, kurių širdys sudreba, kai paminimas Allahas, ir kuriems perskaitomi Jo eilutės, jų tikėjimas sustiprėja… 8:2
+- Neišduokite Allaho ir Jo Pasiuntinio ir neišduokite sąmoningai savo pavedimų (ir visų pareigų, kurias Allahas jums pavedė). 8:27
+- Jei bijosite Allaho ir Jam paklusite, Jis duos jums skyrimą (kriterijų atskirti tiesą nuo melo, arba išeitį iš kiekvieno sunkumo). 8:29
+- Netikintieji leidžia savo turtą, kad atitrauktų (žmones) nuo Allaho kelio, ir jie toliau jį leidžia; bet galiausiai tai jiems taps apgailestavimu. 8:36
+- Sakyk netikintiesiems, jei jie nustos (netikėjimo), jiems bus atleista tai, kas buvo praeityje. Bet jei jie grįš (prie netikėjimo), tai prieš ju buvusių (nubaustųjų) pavyzdžiai jau praėjo (kaip įspėjimas). 8:38
+- Kai susiduriate su (priešo) jėga, stovėkite tvirtai ir dažnai prisiminkite Allaho vardą (liežuviu ir protu), kad jums pasisektų. 8:45
+- Nebūkite kaip tie, kurie išėjo iš savo namų išdidžiai ir kad žmonės juos matytų, ir (atitraukė žmones) nuo Allaho kelio. 8:47
+- Allahas niekada nekeičia malonės, kurią suteikė žmonėms, kol jie nepasikeičia patys. 8:53
+- Blogiausi gyvieji padarai prieš Allahą yra tie, kurie netiki. 8:55
+- Dievas įdeda meilę ir prieraišumą tarp tų, kurie tiki Juo, širdžių. 8:63
+- Saugokite ir padeda tiems, kurie prašo prieglobsčio. 9:6
+- Netinkama politeistams prižiūrėti Allaho mečetes. 9:17
+- Jie (netikintieji, žydai ir krikščionys) nori užgesinti Allaho šviesą (kuria buvo pasiųstas Muhammadas ﷺ — islamo monoteizmas) savo burnomis, bet Allahas neleis, kad Jo šviesa nebūtų tobula, net jei netikintieji to nekenčia. 9:32
+- Labdaros (zakatas) yra tik: 1) vargšams, 2) nepriteklių kenčiantiems, 3) tiems, kurie juos renka, 4) tiems, kurių širdys yra linkusios į Islamą, 5) nelaisvės išpirkimui, 6) skolininkams, 7) Allaho labui (kariaujantiems) ir 8) keliautojams. 9:60
+- Kas priešinasi ir priešaujasi Allahui ir Jo Pasiuntiniui (ﷺ), tam bus Pragaro ugnis, kurioje jis amžinai gyvens. Tai didžiulė gėda. 9:63
+- Veidmainiai, vyrai ir moterys, yra vieni kaip kiti. Jie pamiršo Allahą, todėl Jis juos pamiršo. 9:67
+- Stenkitės siekti tyrumo. Gerbkite mečetės šventumą. 9:108
+- Netinka (Pranašui ir tikintiesiems) prašyti atleidimo politeistams, net jei jie giminaičiai, po to, kai jiems tapo aišku, kad jie yra Ugnies gyventojai (nes jie mirė netikėjimo būsenoje). 9:113
+- Kas yra blogesnis už tą, kuris sugalvoja melą prieš Allahą arba neigia Jo eilutes? Iš tiesų, nusidėjėliai niekada neišgelbės! 10:17
+- Jie garbina vietoj Allaho tai, kas jiems negali pakenkti ar būti naudinga, ir sako: "Tai yra mūsų užtarėjai pas Allahą." Sakyk: "Ar jūs informuojate Allahą apie tai, ko Jis nežino danguose ir žemėje?" Jis šlovinamas ir aukščiau už tai, ką jie Jam priskiria! 10:18
+- Už blogą darbą atlyginama panašiu blogu. 10:27
+- Toks yra Allahas, jūsų tikrasis Viešpats. Kas gi po tiesos, jei ne klaida? Kaip gi jūs nusisukate? 10:32
+- Dauguma jų vadovaujasi tik spėlionėmis. Iš tiesų, spėlionės negali pakeisti tiesos. 10:36
+- Iš tiesų! Allahas niekaip nesielgia neteisingai su žmonėmis; bet žmonės patys save skriaudžia. 10:44
+- Žinokite, kad Allaho malonė yra geresnė už visa, ką žmogus gali sukaupti ar susikrauti. 10:58
+- Nebūkite tarp tų, kurie neigia Allaho eilutes, nes tuomet būsite tarp pralaimėjusiųjų. 10:95
+- Jei Allahas paliečia tave žala, niekas negali jos pašalinti, išskyrus Jį; o jei Jis tau nori gero, niekas negali atstumti Jo malonės, kurią Jis suteikia tam, kuriam nori iš savo tarnų. 10:107
+- Nėra žemėje jokios gyvos būtybės, kurios maistas nebūtų nuo Allaho. Ir Jis žino jos buveinę ir saugyklą (įsčiose, kape ir kt.). 11:6
+- Jei leidžiame žmogui paragauti mūsų gailestingumo, o paskui jį iš jo atimame, jis praranda viltį ir tampa nedėkingas. 11:9
+- Kas trokšta pasaulietinio gyvenimo ir jo puošmenų, mes jiems pilnai atlyginsime už jų darbus jame ir jie nebus nieko nuskriausti. 11:15
+- Mes jiems nebuvo neteisingi, bet jie patys save nuskriaudė. Jų dievybės, kuriomis jie šaukėsi vietoj Allaho, jiems niekuo nepadėjo, kai atėjo tavo Viešpaties įsakymas, ir jos jiems nieko nepridėjo, tik pražūtį. 11:101
+- Tą dieną, kai ji ateis, niekas nekalbės be Jo (Allaho) leidimo. Vieni iš jų bus nelaimingi, (kiti) laimingi. 11:105
+- Kalbant apie nelaiminguosius, jie bus Ugnies, kurioje jie stenasi ir dejuoja. 11:106
+- Jie amžinai gyvens joje, kol dangūs ir žemė gyvuos, išskyrus tai, ko tavo Viešpats nori. Iš tiesų, tavo Viešpats daro, ką nori. 11:107
+- O laimingieji, jie bus Rojuje, amžinai gyvens jame, kol dangūs ir žemė gyvuos, išskyrus tai, ko tavo Viešpats nori, kaip dovaną be galo. 11:108
+- Nesilenkite prie neteisingųjų, kad Ugnis jūsų nepalytėtų, ir jūs neturėsite jokių globėjų, išskyrus Allahą, ir jums nebus padėta. 11:113
+- Atlikinėkite maldą dviejuose dienos galuose ir nakties valandomis (t. y. 5 kasdienės maldos). Geri darbai panaikina blogus (t. y. mažas nuodėmes). 11:114
+- Allahui priklauso dangų ir žemės paslaptis, ir pas Jį visi reikalai grįžta (sprendimui). 11:123
+- Įsakymas (arba sprendimas) priklauso tik Allahui. Jis įsakė, kad garbintumėte tik Jį (monoteizmą), tai yra teisinga religija, bet dauguma žmonių to nežino. 12:40
+- Niekada nepraraskite vilties dėl Allaho gailestingumo. 12:87
+- Ir dauguma žmonių netikės, net jei to labai trokštate. 12:103
+- Ir dauguma jų netiki Allahu, nepriskirdami Jam bendrininkų (t. y. jie yra politeistai). 12:106
+- Tai (Koranas) nėra išgalvotas žodis, bet patvirtinimas to, kas buvo prieš tai (Toros, Evangelijos ir kitų Raštų), ir išsamus visko paaiškinimas, bei vadovas ir gailestingumas tikintiems žmonėms. 12:111
+- Allahas padidina išlaikymą tam, kam nori, ir apriboja (tam, kam nori). 13:26
+- Dažnai prisiminkite Allahą per dhikr. Tie, kurie tiki Dievą, ramybę randa Jį prisimindami. 13:28
+- Tie, kurie tiki ir daro gera, jiems suteikiama džiaugsmo ir širdies ramybės. 13:29
+- Tie, kurie teikia pirmenybę pasaulietiniam gyvenimui, o ne Anapusiniam, ir atitraukia (žmones) nuo Allaho kelio (Islamo), ir siekia jį iškreipti — tie yra toli paklydę. 14:3
+- Būkite nuolankūs ir dėkingi garbindami. 14:7
+- Tų, kurie netiki savo Viešpačiu, palyginimas yra tas, kad jų darbai yra kaip pelenai, ant kurių smarkiai pučia vėjas audringą dieną; jie negalės gauti nieko iš to, ką uždirbo. 14:18
+- Allahas sustiprins tuos, kurie tikėjo, tvirtu žodžiu šiame gyvenime (t. y. jie toliau garbins tik Allahą) ir Anapusiniame. 14:27
+- Nemanykite, kad Allahas nežino, ką daro neteisingieji (politeistai, engėjai ir kt.), bet Jis atideda juos iki Dienos, kai akys iš siaubo išplės. 14:42
+- Kad Allahas atlygintų kiekvienai sielai už tai, ką ji uždirbo. Iš tiesų, Allahas greitas atsiskaityti. 14:51
+- Iš tiesų, mes sukūrėme žmogų iš skambaus molio, iš juodo dumblo, kuris buvo pakeistas. 15:26
+- O džinus mes sukūrėme dar anksčiau iš liepsnojančios ugnies. 15:27
+- Jis (Pragaras) turi septynis vartus; kiekvieniems vartams skirta (ypatinga) nusidėjėlių klasė. 15:44
+- Jis sukūrė žmogų iš spermos lašo (vyro ir moters išskyrų mišinio), ir štai, jis (žmogus) tampa atviru priešininku. 16:4
+- Ir gyvulius, Jis sukūrė juos jums; juose jūs turite šilumos (šiltų drabužių) ir daug naudos, ir iš jų valgote. 16:5
+- Ir (Jis sukūrė) arklius, mulus ir asilus, kad jais jojtumėte ir kaip puošmeną. Ir Jis sukuria (kitus) dalykus, kurių jūs nežinote. 16:8
+- Jis yra Tas, kuris siunčia vandenį (lietų) iš dangaus; iš jo jūs geriate ir iš jo auga augmenija, kuria jūs ganote savo gyvulius. 16:10
+- Jis yra Tas, kuris pajungė jūrą (jums), kad valgytumėte iš jos šviežios mėsos (žuvies) ir kad iš jos išgautumėte papuošalų, kuriuos dėvite. 16:14
+- Jis padėjo žemėje tvirtus kalnus, kad ji nesvyruotų su jumis, ir upes, ir kelius, kad rastumėte teisingą kelią. 16:15
+- Ar Tas, kuris kuria, yra kaip tas, kuris nekuria? Argi jūs neprisiminsite? 16:17
+- Jei bandytumėte suskaičiuoti Allaho malones, niekada negalėtumėte jų suskaičiuoti. 16:18
+- Allahas žino, ką slepiate ir ką atskleidžiate. 16:19
+- Tie, kurių (politeistai) šaukiasi vietoj Allaho, nieko nesukūrė, bet patys yra sukurti. 16:20
+- (Jie) mirę, negyvi, ir nežino, kada bus prikelti. 16:21
+- Mūsų žodis daiktui, kai Jo norime, yra tik pasakyti jam: "Būk!" ir jis būna. 16:40
+- Ar tie, kurie kuria pikti planus, jaučiasi saugūs, kad Allahas jų neprarys į žemę, ar kad bausmė jų nepasieks iš ten, iš kur jie nesitiki? 16:45
+- Visi palaiminimai ir geri dalykai, kuriuos turite, yra iš Allaho. Tada, kai jus ištinka nelaimė, jūs Jo šaukiatės pagalbos. 16:53
+- Tada, kai Jis pašalina nelaimę nuo jūsų, štai, kai kurie iš jūsų priskiria savo Viešpačiui (Allahui) bendrininkus. 16:54
+- Gyvuliuose jums yra pamoka. Mes duodame jums gerti iš to, kas yra jų pilvuose, tarp išmatų ir kraujo, tyro pieno, malonaus geriantiems. 16:66
+- Nedarykite Allahui panašumų (nes nieko nėra panašaus į Jį, nei Jis į nieką panašus). Iš tiesų, Allahas žino, o jūs nežinote. 16:74
+- Žinokite, kad Dievas davė žmonėms klausą, regą, protą ir jausmus, kad jie būtų dėkingi. 16:78
+- Venkite godumo ir šykštumo. 16:97
+- Kai norite skaityti Koraną, ieškokite prieglobsčio pas Allahą nuo šėtono, prakeiktojo. 16:98
+- Žinokite, kad nuodėmė, padaryta iš nežinojimo, yra atleidžiama, jei žmogus atgailauja ir pasitaiso. 16:119
+- Kviesk (Muhammadai) į savo Viešpaties kelią (Islamą) išmintimi ir geru pamokslavimu, ir diskutuok su jais geriausiu būdu. Kitų kvietimas į Allaho kelią turi būti daromas išmintingai ir geranoriškai. 16:125
+- Allahas yra su tais, kurie Jo bijo (kurie vykdo savo pareigą Jam), ir su tais, kurie daro gera. 16:128
+- Šis Koranas veda prie to, kas yra teisingiausia ir geriausia. 17:9
+- Niekas neneš kitos naštos. 17:15
+- Kas trokšta Anapusinio gyvenimo ir dėl jo stengiasi, deramu stengimu, būdamas tikintis, tai jų pastangos bus įvertintos ir atlygintos (Allaho). 17:19
+- Gerbkite savo tėvus ir elkitės su jais maloniai. Būkite klusnūs tėvams. Nesakykite jiems nė vieno nepagarbaus žodžio. Ir tavo Viešpats įsakė, kad garbintumėte tik Jį. Ir kad būtumėte geri savo tėvams. Jei vienas iš jų arba abu pasiekia senatvę tavo gyvenime, nesakyk jiems "Fu!" ir jų nerėk, bet kalbėk su jais pagarbiai. 17:23
+- Ir nuleisk jiems nuolankumo ir gailestingumo sparną, ir sakyk: "Viešpatie, būk jiems gailestingas, kaip jie mane augino, kai buvau mažas." 17:24
+- Iš tiesų, švaistūnai yra šėtonų broliai, o šėtonas yra nedėkingas savo Viešpačiui. 17:27
+- Nešvaistykite pinigų. 17:29
+- Nežudykite savo vaikų dėl skurdo baimės. 17:31
+- Nedarykite svetimavimo. Saugokite santuokos šventumą ir venkite svetimavimo. 17:32
+- Visiškai atsverkite, kai sveriate, ir sverkite teisingais svarsčiais. Tai yra geriau (naudingiau) ir geriau pabaigoje. 17:35
+- Nesek (žmogau) to, apie ką neturi žinių (pvz., sakyti: "Mačiau", nors nemačiau, arba "Girdėjau", nors negirdėjau). 17:36
+- Būkite nuolankūs ir nebūkite išdidūs. Nevaikščiokite žeme išpuikę. Iš tiesų, tu negali pralaužti žemės ir negali pasiekti kalnų aukščio. 17:37
+- Jūsų Viešpats geriausiai jus pažįsta; jei Jis nori, Jis jūsų pasigailės, arba jei nori, Jis jus nubaus. 17:54
+- Kas yra aklas šiame pasaulyje (t. y. nemato Allaho ženklų ir netiki Juo), tas bus aklas Anapusiniame, ir dar labiau paklydęs nuo kelio. 17:72
+- Laikykitės nustatytų maldos laikų. 17:78
+- Iš tiesų, mes išsamiai paaiškinome žmonėms šiame Korane visus palyginimus, bet dauguma žmonių atmeta (tiesą) ir nepriima nieko, tik netikėjimą. 17:89
+- Mes pateikėme šiame Korane žmonėms visus pavyzdžius. Bet žmogus yra ginčytinesnis už viską. 18:54
+- Jų atpildas bus Pragaras; nes jie netikėjo ir tyčiojosi iš Mano eilučių ir Mano Pasiuntinių. 18:106
+- Allahui (Jo Didenybei) nepridera turėti vaiko (tai nurodo į krikščionių šmeižtą prieš Allahą, sakant, kad Jėzus yra Dievo sūnus). Jis šlovinamas (ir aukščiau už tai, ką jie Jam priskiria). 19:35
+- Kalbėkite su žmonėmis švelniai. 20:44
+- Varžykitės vieni su kitais darydami gera. 21:90
+- Venkite tuščių kalbų. 23:3
+- Saugokite savo kuklumą. 23:5
+- Saugokite savo širdį nuo nuodėmingų polinkių. 23:97
+- Atleiskite kitiems ir dovanokite jų klaidas. 24:22
+- Gerbkite kitų privatumą, ypač jų namuose. Vykdykite kaimynų teises. 24:27
+- Nuleiskite akis (tiek vyrams, tiek moterims). Saugokite savo kuklumą ir skaistybę. 24:30
+- Laikykitės kuklumo drabužiuose ir elgesyje. 24:31
+- Žinokite, kad Dievas suteikia saugumą ir ramybę tiems, kurie Jį garbina ir elgiasi dorai. 24:55
+- Neikite į tėvų privatų kambarį be leidimo. 24:58
+- Būkite kuklūs ir nuolankūs. 25:63
+- Venkite melagingo liudijimo ir apgaulės. 25:72
+- Siekite atlygio Anapusiniame, bet neapleiskite savo reikalų šiame pasaulyje. 28:77
+- Nesišaukkite jokios kitos dievybės kartu su Allahu. 28:88
+- Nedarykite homoseksualumo. 29:29
+- Siekite tobulumo visose savo pastangose. 29:69
+- Atlikinėkite maldą ir duokite zakatą. 31:4
+- Įsakykite gera ir drauskite bloga. 31:17
+- Venkite išdidumo savo elgesyje. Negaiškite laiko tuščioms kalboms. 31:18
+- Būkite saikingi savo eisenoje ir balso garsume. 31:19
+- Sekite Pranašo Muhammado pavyzdžiu. 33:21
+- Moterys neturėtų rodyti ar girtis savo grožiu ir papuošalais. 33:33
+- Sakykite tiesą visomis aplinkybėmis. 33:70
+- Siekite išminties ir supratimo per apmąstymus. 38:29
+- Vykdykite Korano įsakymus. 39:23
+- Dievas atleidžia visas nuodėmes, kai nusidėjėlis atgailauja ir atsigręžia į Jį. 39:53
+- Melskite nuoširdžią dua (maldą) Allahui. 40:60
+- Atstumkite blogį tuo, kas yra geriau. 41:34
+- Spręskite reikalus pasitarimu. 42:38
+- Nekelkite savo balso virš Pranašo balso. 49:2
+- Saugokite paslaptis ir venkite išdavystės. 49:6
+- Skatinkite taiką tarp konfliktuojančiųjų. Siekite susitaikymo konfliktuose. 49:9
+- Nesityčiokite iš kitų. 49:11
+- Venkite įtarumo. Venkite šnipinėjimo ir apkalbų. Neapkalbinėkite ir nešmeižkite kitų. Venkite visų formų apkalbų ir šmeižimo. Neleiskite, kad išdidumas vestų jus prie neteisybės. 49:12
+- Žinokite, kad tik dievobaimingumas daro žmogų kilnų. Gerbkite skirtumus tarp žmonių ir kultūrų. 49:13
+- Gerbkite svečius. 51:26
+- Būkite atidūs savo pareigoms Allahui. 51:56
+- Leiskite turtą labdarai. 57:7
+- Žinokite, kad religijoje nėra vienuolystės (atsisakymo santuokos ir patogumų, kaip vienuoliai, vienuolės ar kiti, gyvenantys pagal religinius įžadus, ar pastatai, kuriuose jie gyvena). 57:27
+- Neleiskite turtui atitraukti jūsų nuo Allaho prisiminimo. 58:11
+- Tie, kurie turi žinių, Dievo bus pakelti aukštesniu laipsniu. 58:11
+- Elkitės su nemusulmonais gerai ir teisingai. 60:8
+- Venkite veidmainystės savo įsitikinimuose ir veiksmuose. 63:9
+- Laikykitės atokiai nuo godumo ir šykštumo. 64:16
+- Saugokite jums patikėtus apreiškimus. 73:15
+- Prisiminkite Teismo dieną. 75:36
+- Įsakykite kantrybę ir užuojautą. 90:17
+- Tie, kurie apvalo savo sielas, pasiseka; o tie, kurie jas sugadina, žlunga. 91:10
+- Neignoruokite ir neatstumkite vargstančiųjų. 93:10
+- Siekite žinių ir supratimo. Skaitykite Koraną ir mąstykite apie jį. 96:1–5
+- Skatinkite maitinti vargšus. 107:3
 """;

@@ -3315,4 +3315,280 @@ Matching Phrases 8 words
 - Yalli isih naqoosak isih fooca marah rizqi faraknaay, qandeessa. (اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ) 28:82; 29:62
 - Qellit kee baxxaqqa leem yaaxigi fan gacsimtan, tokkel isin abak sugeenimih sin warrisa. (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
 - Qandaxxuk mari, ken marak tu-kaah mara, Yallih kitabal. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
+cmds - Commands, Exhortations, Prohibitions, Instructions
+- fard / wajib (فرض / واجب) — farriita (absiisa; abinna waajib; kah abe waytek dambi)
+- mustahabb / mandub (مستحب / مندوب) — farmaan le (galtó tiyak, abe waytek dambi mayan)
+- mubah (مباح) — xalaal / qadaam (galtó mayan, dambi mayan)
+- makruh (مكروه) — abaanih tan (iyya tayse, dambi mayan)
+- haram (حرام) — caraam (abeek dambi)
+- halal (حلال, xalaal / kalaal) — mubah kee mustahabb inkih buusa — caraam wayta inkih xalaal
+- Yallih kataatay, kaa kallacaay kaat cato essera. 1:5
+- Yallih kataataay, kaa inkittu uqbuda. 2:21
+- Yallih luk agleyta haytaay, kaa luk agleyta magarina. 2:22
+- Yalli dambi cabe (toobaa keenih oggola) usuk Aadam (عَلَيْهِ ٱلسَّلَامُ) toobaa oggole. 2:37
+- Cakkii kee deedala magaristaay, cakki maqarisa. 2:42
+- Salaat soolisaay, zaka (sadaqa) ace. 2:43
+- Isin maggo maqaane sinam amrisak, kaa isin maggo amrika, tokkel isin maggo maqaane abbisak amrisa. 2:44
+- Yallih katot cato essera isin taamoomik. 2:45
+- Baaxól umaane makattinaay, uma maysaay widdiina. 2:60
+- Sinaamá masaajidá culak wayeesina. 2:114
+- Masjidá maggo qadr kaat kaah soolisa. Salaat tiyak mariic ceelatay, massa tiyak soolisa. 2:125
+- Yalla kaah abta salaatah, xuskiih, galtok kaa cusa. Yalli isin cusa, isin kaa faatita, usuk sin faatisa. 2:152
+- Fillit sabri abisa. 2:153
+- Shaytaan (Sheetwaan) kata maafaka, diggah usuk sin qadow baxa. 2:168
+- Numuk tu-malay maafaka. 2:170
+- Amaanat qumusa. Diini taamoomi qumusa. Xeebbi kee caagid qumusa. Yallih xaqul abte xagna qumusa. Tu gidik ixxigiltaamak cato essera. Dambittek addat dambitteh sin baxa waytaamak dagga. Kaxxa-mariinit yimixxigee qadaaleena. 2:177
+- Qisaas (cakki caddo) addat siinih nafsi (dafirah) tan. 2:179
+- Ramadaan alsal sooma. Yallih amrih soomaay, Yallih xaquk meqeta mari (Al-Muttaqun) tekkeenimkeh. 2:183
+- Qur'aán fayya qadr kaa kaah soolisaay, kaa inkih katali-kinnim faxa. 2:185
+- Sinaamá maalu cakki sinni fanal makarriqinaay, kaak abba haytaanam madqooqil (kitaabak tu-kaah haysaanaamal) makanna. 2:188
+- Sinaamá maybudina, maxalki kee abal-ul maybudina. Naba mari maggo qaxxaqe wayta cagalah, waqdi cato abaana waytek, qaxxaqe mara magirsin. 2:190
+- Qaysoonuwa sugey qokolitak sagla, sinnim ken maaluy addal tanil massakaxxa le mara gexisaay, ken maaluh lamma. 2:220
+- Yallih xaqul toobaa esseraay, kaa kaah abta dambittek dagga. Xalál waqdi (hayd) xolé luk magidina. Massaayiy (xasaanuu kee nafsih massaa) inkih dabisa. 2:222
+- Bukcu buxah tanim qumusa. 2:233
+- Kiiloomá ken ixxigil aqalli, yalli kah yaawe qaadil. 2:247
+- Diinil maqaana cagalah suge waytaamak dagga. 2:256
+- Maaluh sadaqa (zakah) ace. Maalu kee wakti sadaqal yece. 2:261
+- Sadaqa kee akriyya kaxxa aba, sadaqá makassaay (mangaysina). 2:264
+- Shaytaan (Sheetwaan) tumalul tango (tu-giddi) sin xaagisaay, dambitte (Fahsha' - umaane, xalál dambi) sin amrisa. 2:268
+- Tu-gidik ixxigiltaama qellisaay, ken cato essera. 2:273
+- Riba (usura) makanna, maalu ribal makanna, Riba (usur) makanna. 2:275
+- Maalu-le num tumalek, waqdi siinih wakti eserisa (gide waytek). 2:280
+- Macaamal xiqah massakaxxa le mara. Maal macaamal xiqah cakki loh. Amaanat qumusa. Maalu-le caagid xaynu yan waqdi, kitaabá kutba. Macaamo caagid abta waqdi, mara yanalleh soolisa. 2:282
+- Amaanat qumusa. 2:283
+- Quroo kee Nabiyyi inkih nummayeesa. 2:285
+- Yalli nafsi dafirak dagge wayta mari, ken maqaanel galtó tiyak, ken umaanel dambi tiyak. Yalli nafsi dafirak dagge wayta. Yallih caagidil nafsi tu-kaah maqadna. 2:286
+- Xagna qumusaay, Yallih xaquk meqe mari (muttaqiin) tekke, diggah Yalli meqe mari kicni. 3:76
+- Hajji abic (dudda tayse waqdi). 3:97
+- Sini amol gexsana mara magarina (baxsimaay, gexsitina). 3:103
+- Maqaane amrisaay, umaane cakka. Sini amol maqaane fayya hayisa. Yallih xusi loh sinaamá sidiqa. 3:104
+- Yallal moominiin katoya soolisa. 3:122
+- Riba (usura) makanna. 3:130
+- Yalla kee kay farmoyta oggolaay, cinta rahmah galtó tana. 3:132
+- Yalli maaluh sadaqa (zakah) hayta mara kicni, fillit kee tangal, xageyyá culusa mara, xagoyti culusa mara, sinaamáh dambi cabe mara. 3:134
+- Xageyyá culusa. Isin xogul abtan xageyyá culusa. 3:134
+- Sinaamáh dambi cabe, ken dambi kaak qoos. 3:135
+- Maxalkal mayqoodinaay, siinik baxa marat sabri abisa. 3:159
+- Yalli sin cate, num sin xaagisa wayta. Yalli sin cabe, usuk wadirik num sin cata wayta. 3:160
+- Nuum inkih raba aba. Qhiyaamah ayró cagalah isin galtó dibuk tana. 3:185
+- Qaran kee baaxól tan yaqaaril yalli faxah kaa gexsa. Yalli qaran kee baaxó maqaanel kee cakkil gine. 3:191
+- Labha kee sayyá ken taamoomik galtó inkitti. 3:195
+- Ken Rabbi xaquk meqe marah, Jannatay weeqayt itta addat gexsa, ken addat daame (waa) usuk Yallih xaquk qada, addat waara. 3:198
+- Yallih fanah taamoomih addat kulli taamal gexsa. 3:200
+- Sin Rabbi aqisaay, kaa xaqiisaay, (qaraabah taamoomi makattina). 4:1
+- Qaysoonuwa maalu ken kah yece, ken maaluu (sin maalu teetik) makanna, ken maalu sin maalul makanna. 4:2
+- Agabu (isin nikah taana) Mahr (nikah waqdi baqol kah taceem) aayise wayta, kaa aayise. 4:4
+- Qaysoonuwa cakki qayse. 4:6
+- Rabte num maalu, buxah maral baxa. Sayyá maaluk qadaaleena. 4:7
+- Qaysoonu maalu cakki makanna. 4:10
+- Ramaadát Yallih amri oggola. 4:11
+- Sayyá sin qibaadik magarina, qibaadik sina maybuddina. Ken (agabu) maqaanel xolé. Sayyá cakki qayse, qibaadi cakki qayse. Baqol maqaanel kee rahmat qadaaleen. Sayyá maqaanel kee cakkil qadaaleen. 4:19
+- Isin xolé luk tan marih xolé (dammah tan) magarina. 4:23
+- Isin nafsihin (marak) makattina, diggah Yalli siinih rahmah yan. Siinih maalu cakki makanna. 4:29
+- Dambittek kaxxa dambittek daggekkee, Yalli isin kaxxa dambittek daggekkee, isin qaxxa dambitte siinik qoos, Jannatul fayya arac sin haa. 4:31
+- Yalli isin inkih luk maacisem fayya haytaamak maqeggina, umaane (qibe) dagga. 4:32
+- Labha sayyáh qongol (xisaab) kee dabqá le, Yalli labha sayyál fayya haytaamal, ken maaluh galtó haytaamal (ken maalu sayyáh cata). Labha buxah qongol kee dabqá le. 4:34
+- Yallih kataataay, kaa luk agleyta magarina, xaleyti maqaanel aba, qaraabah mari, qaysoonuwa, tumal (miskiin), der atu luk yan num, gexxa num (qibaada), saytunna hayta mara. Yalli kaxxa-mariinik, sinnih fayya hayta mari kicni wayta. Sinaamáh maqaane aba. Sayyuu xasaasaw qadaalee. Qaraabah taamoomi dabisa, qaraabah mari qadaalee. 4:36
+- Tumal (manga) makkina. 4:37
+- Yalli kaa luk agleyta hayta mari caba wayta, kaa luk agleyta hayta mari caba wayta, usuk isih faxa mara kaak sa mari caba (toobaa oggolaa). 4:48
+- Sinaamák maqeggina (qibe makkina). 4:54
+- Yalli amaantii ken marah kuuloosaanih amrisa. Sinaamá fanal cakki abta waqdi, cakkil abta. 4:58
+- Yalla kee kay farmoyta oggola. Sin amol marak amri le mará qadaaleesa (amri oggola). 4:59
+- Xasaasaw qayb mara (xaylo, agabu, qaysoonuwa) maybudina. 4:75
+- Maqaanek sinam xaaga, Yallih xaquk, umaanek sinam xaaga, isin nafsih xaquk. 4:79
+- Farmoyta (Nabiyyi Muħammad ﷺ) oggole num, diggah Yalla oggole. 4:80
+- Maqaanel cato (safi) abe num, usuk teetik qadaale, umaanel cato (safi) abe num, usuk teetik dambi (qaxxa) le. 4:85
+- Mu'minih, mu'min maybuda, cagalah galtii (kaxxa dambi) wayta. 4:92
+- Num mu'minih kaxxa dambii (kaxxa umaanii) yabbixe, usuk Jahim, Yallih naqab kee Qibaada kaal yan, kaxxa digaalá kaah massasa. 4:93
+- Yallih gitah buxák gexe (hijra) num, baaxól maggo arac kee maggo maalu geya. 4:100
+- Salat waqdi dabisa. 4:103
+- Amaanat makassaa (maqarisa) marat cato (safi) makkina. 4:105
+- Yallih xaqul dambi caba, diggah Yalli dambi caba, rahmah yan. 4:106
+- Yallih kataata! Cakkih loowat soola, Yallah markat soola, isin nafsih qibaadil, ama xaleyti qibaadil, qaraabah mari qibaadil, tumal nee, gaddo nee. Cakki culusa, cakki qaxxa kee culusa. 4:135
+- Munaafiqiin Yalla cakki taanak, usuk (Yalli) ken cakki taa. 4:142
+- Munaafiqiin Naray addat qaxxaqa mara, ken cato abta num mageta. 4:145
+- Yalli uma maxalki fayya haytaamak kicni wayta, cagalah yudlume num. 4:148
+- Farmoyti aduu kee digaaláh xiqaanaah, sinaamá Yallih qibaadil qadaale mari haytaamal. 4:165
+- Xagna kee caagid qumusa. 5:1
+- Maqaane kee Yallih xaquk xayyó luk cato aba, dambi kee qadó luk cato makkina. 5:2
+- Rabta lac, lacih dacayra, dofaannay maybuda. 5:3
+- Cakki aba, qadow kee naqab sin cakki aba wayta haytaay, qadaalik dayak maculina. Cakki aba. Cakki abim Yallih xaquk xayyó. Cakki culusa, cakki qaxxa kee culusa. 5:8
+- Yallih fanah tu-xayyo (wasila) qellisaay, kay gital gexsa, isin tafsiq (galtó) tana. 5:35
+- Xeebbi kee xagna qumusa. 5:89
+- Khamr (daraab), maysira (qumár), sanamá (Ansab) kee fal (Azlam) makanna, diggah ken inkih Shaytaan (Sheetwaan) taamoomik umaane. 5:90
+- Hajji kee 'Umrah waqdi (ihram addat) uwa (xaylo) makattina. 5:95
+- Tu-makil maggada (makessina), isin xiqaanaay, sin dolla. 5:101
+- Yallih sa, ken (koros) uqbuda tu-makil mayqoodina, Yallih luk agleyta haytaamak dagge wayta, ken Yalla cakki wayta mayqooda. 6:108
+- Baaxól yan marak maggó oggolekkee, Yallih gitak sin makossa. Ken aqil (conjecture) kata, ken cagalah deedala. 6:116
+- Dambi (umaane) caba, qellittam kee fayya tan. 6:120
+- Yallih migaaqil maybude lac maybukta. 6:121
+- Yalli isih faxa mara tirri haa, usuk nafsi (qalbi) Yallih xaqul (Islaam) fayya haa, Yalli isih faxa mara makossa, usuk nafsi (qalbi) culusaay, yimixxiga. 6:125
+- Maaluh kuusuk cakki dabisaay, kaxxa kuusa (extravagance) makanna. Inki qadaaleena cakki qayse. 6:141
+- Yallih luk agleyta magarina, xaleyti maqaanel aba, tumaluk xaylo makattina, dambitte (Fawahish) maqelinna, Yalli caraam abe nafsi maybuda, cagalah cakki (qisaas) yan waytek. 6:151
+- Macaamal cakki lo, cakki maqelina. Qaysoonu maaluh maqelina, cagalah maqaaneh (fayya) abe waytek, cakki kee qadaalih míidaa kee miidaan qumusa, maxalki abta waqdi cakki taba, qaraabah num yan waytek, Yallih xagna qumusa. 6:152
+- Gita massakaxxá kata (Sirat al-Mustaqim), gita sa makata, Yallih gitak sin baxsa. 6:153
+- Nabiyyi (Muħammad ﷺ): "Diggah, yi salaata, yi sadqaa, yi nafsi, yi raba Yallih, ginó Rabbi, inkih." 6:162
+- Kaxxa-mariina (takabbur) makkina. 7:13
+- Shaytaan (Sheetwaan) sin makossina. 7:27
+- Nabiyyi (Muħammad ﷺ): "Yi Rabbi cakkil amrise." 7:29
+- Yallih caddo dabisa, maxalki kee abal-ul caddo maydowa. Abaay, iba, cagalah kuusuk cakki dabisa. Salaat waqdi maqaanel sarwaala (libaas) gabisa. 7:31
+- Yalli qaranwa kee baaxó lamma ayró (6) addat gine, tokkel arsh (kursiy) fayya haa (usuk isih faxah, kay xayyoh cakki). 7:54
+- Sin Rabbi qunxa kee qellittamal dua (cato) essera, diggah usuk caddo tata mari kicni wayta. 7:55
+- Baaxól umaane makattina, is baaxó massakaxxá tekke wadir, kaa xaqiisak kee umaane raqtaamak essera. 7:56
+- Dambi abe mari, tokkel toobaa abe, nummaye, diggah sin Rabbi, toobaa wadir, dambi caba, rahmah yan. 7:153
+- Nabiyyi (Muħammad ﷺ): "Sinaamá! Diggah anu Yallih farmoyta, sin inkih fanah." 7:158
+- Yallih migaaq maqaanel fayya tan (Asma'ul-Husna), teetik kaa essera, kay migaaq yokkor (deeda) mara makaata. 7:180
+- Yalli makosse num, usuk tirri geyta wayta, Yalli ken umaane addat gexsisak. 7:186
+- Dambi caba, maqaane amrisa, jaahiliinik (mayadallin) makata. 7:199
+- Sinaamáh dambi cabe, ken dambi kaak qoos. 7:199
+- Shaytaan (Sheetwaan) uma cuwá siinih yaawe, tokkel Yallih xaquk cato essera, diggah usuk maqba, yaaxigi. 7:200
+- Moominiin, Yalli xusuke waqdi, ken qalbi xaqiqta, kay Aayaat (Qur'aán) akriime waqdi, ken nummayo (imaan) osse. 8:2
+- Yalla kee kay farmoyta makassina, amaantii kee Yallih sin amol tan diini caagid makassina. 8:27
+- Yalla aqisekkee, kaa xaqiisekkee, usuk siinih Furqaan (cakki kee deedal baxsa) yece, (cakki gita siinih yasbike). 8:29
+- Koroosite mara ken maaluh Yallih gitak mari culsaana, usun gide wayta, cagalah teetik umaane (xagga) ken tan. 8:36
+- Koroosite marak (yabbixe) ixxic, ken (koroosinnik) dagenee, ken dambi caban. Ken (koroosannih) wadir gexeenee, ken cabe marah xayyo (digaalá) tekke. 8:38
+- Qadow (madow) tangoome waqdi, soola (qaxxa), Yallih migaaq maggo xusa, isin tafsiq (galtó) tana. 8:45
+- Ken (munaafiqiin) marah makkina, isin ken buxák fayya loowak sinnih (riyaa) fayya hayta, Yallih gitak mari culsaana. 8:47
+- Yalli marah yece niqmat (gift) maacisa wayta, usun ken nafsi maacise waytek. 8:53
+- Yallih xaqul manik (nafis) uma mara, koroosite mara. 8:55
+- Yalli isih nummaye marah nafsi (qalbi) addat kicni (maqaanel) yaawe. 8:63
+- Cato essera mara cataay, ken cato aba. 9:6
+- Mushrik marah, Yallih masaajid (mosque) dabba haytam cakki mayan. 9:17
+- Ken (koroosite, Yahuud kee Nasaara) Yallih nura (Nabiyyi Muħammad ﷺ) ken afal nuyussaana, Yalli cagalah kay nur fayya hayam dirkisa, koros (kafiruun) qibda waytek. 9:32
+- Sadaqaat (Zakat) cagalah: 1) tumal (fuqara'), 2) miskiin (tumal), 3) sadaqa kob xissa mara, 4) Islaamih fanah nafka (qalbi) qaxxa mara, 5) qaysoona xaylo qadaale mara, 6) maalu-le mara (tumal), 7) Yallih gitih addat (Mujaahiduun) yan mara, 8) gexxa num (wayfarer). 9:60
+- Yalla kee kay farmoyta qadó abe num, diggah usuk Jahim Naray addat waara, teetik uma xayyo (digaalá) le. 9:63
+- Munaafiqiin (labha kee sayyá) sinni fanal (umaaneh) xayyo le. Yalla teetak qacak kaa (xusuk) wakti, usuk ken xusuwa. 9:67
+- Massa (safa) fanah gexsa. Masaajid maggo qadr kaat kaah soolisa. 9:108
+- Nabiyyi kee moominiin, Mushrik marah Yallih xaqul dambi caba esseram cakki mayan, qaraabah mari yan waytek, ken (Mushrik mara) Naral yan mara tekkek (koroosinnih rabe waqdi). 9:113
+- Yallal deedala (firce) massase num, ama kay Aayaat (signs) diide num, usuk dagge wayta num? Diggah dambi-le mari tafsiq (galtó) geya wayta. 10:17
+- Yallak sa mara uqbuda, ken mayudluma, ken maqaanel mayaaga, "Ken Yallih xaqul cato (intercessor) nee." iyya. Ixxic: "Isin Yallih xaqul qaranwa kee baaxól tanim, usuk yaaxige wayta, kaa essera?" Yalli, ken kaa luk agleyta haytaamak fayya, qada. 10:18
+- Uma taamih galtó, usuk uma taami cakki. 10:27
+- Yalli, sin Rabbi cakki. Cakkih wadir, deedal akke waytek? Isin (cakkik) dagge wayta mannal? 10:32
+- Ken (maga) aqil (conjecture) kata, diggah aqil cakki makaa (mayaaqa). 10:36
+- Diggah Yalli sinaamá mayudluma, cagalah sinaamá nafsih yudluma. 10:44
+- Yallih niqmat (bounty) num kob xissa maaluk aydi (fayya) la. 10:58
+- Yallih Aayaat diide marah makkina, tokkel isin dagge mara (khasara) tekkeen. 10:95
+- Yalli sin yudlume, usuk sa num sin cafa (mayadda) wayta. Yalli sin maqaaneh faxe, usuk sa num kay niqmat sin waxa (celpa) wayta, usuk isih faxa marah kay niqmat yaage. 10:107
+- Baaxól gexsa nafsi (manik) tu-kaah maalu tan, Yallih xaquk. Usuk ken orob kee ken magaalá (qabri, qar) yaaxigi. 11:6
+- Nummah sinam (qaxxa) Yallih xaquk rahmah (niqmat) tayse, tokkel teetik kaa (rahmah) celipse, diggah usuk yabbixe (yasa), faatite wayta. 11:9
+- Addunyâ nafsi (duniya) kee kay bilqis (glitter) faxa num, teetik ken taamoomih galtó dibuk tana, teetik tu-kaah dagge wayta. 11:15
+- Ken mayudlume, cagalah ken nafsih yudlume. Ken Yallak sa uqbuda tu-makil, Yallih amri (digaalá) teeme waqdi, ken tu-kaah maaqe, cagalah umaane (khasara) ken. 11:101
+- Ayró (Qhiyaamah) teeme waqdi, nafsi (manik) maxalka mayaaga, cagalah Yallih idnih (amrih). Ken addat uma mara (ashqiya) kee meqe mara (su'ada) tana. 11:105
+- Uma mara (ashqiya), Naral tana, teetik saqal (cuy) kee fayya (xux) xaaga. 11:106
+- Qaranwa kee baaxó waagak, ken addat waara, cagalah sin Rabbi faxah (waqdi) akke waytek, diggah sin Rabbi isih faxa abe. 11:107
+- Meqe mara (su'ada), Jannatal tana, addat waara, qaranwa kee baaxó waagak, cagalah sin Rabbi faxah (waqdi) akke waytek, galtó (niqmat) dagge wayta. 11:108
+- Dambi-le maral (qibaadil) maqelina, Nar (digaalá) sin xaga, Yallih sa cato abta num sin mayan, sin cato mayan. 11:113
+- Salaat soolisa ayró (qibaada) niina (subhi) kee qibaada (magrib) addat, barak sa'aat (wakti) addat (salat 5). Maqaane umaane (qaxxa dambi) qadosa. 11:114
+- Qaranwa kee baaxól Qayb (unseen) Yallih, kaah inkih caagid (amri) waddu. 11:123
+- Amri (xukun) cagalah Yallih, usuk kaa inkittu uqbudaanaah amrise, too diini cakki (massakaxxa) usuk, cagalah sinaamá maggó yaaxigen wayta. 12:40
+- Yallih rahmah (xagittaal) qaba naqabinna (yibbike wayta). 12:87
+- Sinaamák maggó nummaye wayta, isin faxeeh kaa xayi waytek. 12:103
+- Sinaamák maggó Yalla nummaya, cagalah Yallih luk agleyta hayta (mushrik) mara. 12:106
+- Usuk (Qur'aán) maxalki firce (forged) mayan, cagalah Yallih qambih kitaab (Tawraat, Injiil, sa kitaab) toobokoyna, kulli tu-makil qadosa (xayyo) bayan, tirri kee rahmah nummaye marah. 12:111
+- Yalli isih faxa marah maalu (riziq) osse, isih faxa marah culusa (dagga). 13:26
+- Yalla maggo xusa (dhikr). Yalla nummaye mara, Yallih xusu (xusuk) qalbi satta (satisfaction) geya. 13:28
+- Yalla nummaye, maqaane abe mara, qalbi satta kee farah le. 13:29
+- Addunyâ nafsi (duniya) Akeera (Akhirah) fayya hayta, Yallih gitak (Islaam) mari culsaana, kaa qongole (crookedness) gexsa, too mari gexsi (dalla) xooqi. 14:3
+- Qibaadih addat qunxa (tawadu) kee faatih (shukri) soolisa. 14:7
+- Ken Rabbi koroosite mara, ken taamoomi rassa (ash) cagalah, ayó cayax (qaxxa) fayxa, ken taamoomik tu-kaah geya wayta (duniya kee akeera). 14:18
+- Yalli moominiin, maxalki (kalima) fayya luk addunyâ (duniya) kee Akeerah (Akhirah) addat xabbisa. 14:27
+- Yalli, zalim (dambi-le, koros) mara maaqa (tamaaten) wayta, cagalah ken wakti eserisa, ayró (Qhiyaamah) inti labha (warri) fillite. 14:42
+- Yalli, nafsi (manik) inkih isih tabte taamih galtó tace. Diggah Yalli cisab (reckoning) qaxxa. 14:51
+- Diggah num (Aadam) qarwá (sounding clay) qaxxa xayyo (black mud) gine. 15:26
+- Jinn (jinni) takke, wadat (smokeless fire) gine. 15:27
+- Jahim (Jahannam) malá (7) teetá le, teetá inkih qaxxa (class) dambi-le marah. 15:44
+- Num, xayi (nutfah - seed) gine, tokkel usuk (num) qadó (enemy) baxa. 16:4
+- Lac (cattle), isinih gine, teetik xagga (warm clothing) tan, maggo maqaane tan, teetik tabtana. 16:5
+- Faras, baqil kee dumaal (horses, mules, donkeys), isin riddaanaah, qadr (adornment) tan. Yalli isin yaaxige wayta tu-maki gine. 16:8
+- Usuk, qaranak lee (rooba) oobisa, teetik tabtana, teetik (lee) lac tabtana (cattel). 16:10
+- Usuk, bad (sea) sin amol qongole, teetik (bad) qaxxa cadó (fish) tabtana, teetik bilqis (ornaments) takkana. 16:14
+- Baaxól qaleelá (mountains) xabise, sin (baaxó) makaxxaqa wayta, weeqayti kee gita gine, isin tirri gexsitoonuh. 16:15
+- Gine Yalli, giné wayta (sanam) yaan? Isin maka qunxa? 16:17
+- Yallih niqmat (grace) cisabteenee, isin teetik qadaana wayta. 16:18
+- Yalli isin qellisaana kee fayya haytaana yaaxigi. 16:19
+- Ken (Mushrik) Yallak sa uqbuda tu-makil, tu-kaah gine wayta, cagalah ken giné. 16:20
+- Ken (tu-makil) rabe (lifeless), yanin wayta, ken Qhiyaamah ayró aban waqdi yaaxige wayta. 16:21
+- Xayyi (thing) faxne waqdi, "Abe!" nee iyyi, usuk aabe. 16:40
+- Uma makoo (plots) cakki (abta) mara, Yalli ken baaxól (arad) yimbic (sink) wayta (diggah), walla digaalá ken maaqe wayta gitiik. 16:45
+- Niqmat (blessings) kee maqaane tan, Yallih xaquk. Toonna (harm) sin xage waqdi, kaa fanah saqal (cry) taana. 16:53
+- Toonna (harm) sin xage wadir, tawalle, isin sin Rabbi luk agleyta hayta. 16:54
+- Lac addat, isinih kaskas (lesson) tan. Ken (lac) dacayra (excrements) kee dacayri (blood) fanal, nacaas (pure milk) siinih yaawe, xaafeeh tana. 16:66
+- Yallih cakki cagalah massakaxxa, kaa cakki maasgeena. Diggah Yalli yaaxigi, isin yaaxige wayta. 16:74
+- Yalli sinaamah maqba (hearing), inti (sight), aqil (intelligence), kee nafsi (affections) yece, isin kaa faatitaanaah. 16:78
+- Tumal (manga) kee qibe (covetousness) dagga. 16:97
+- Qur'aán akriyya faxteenee, Shaytaan (Sheetwaan) qibdak Yallih xaquk cato essera. 16:98
+- Jaahiliinik dambi abe, tokkel toobaa abe, nafsi massakaxxá (corrects) abe, diggah dambi caba. 16:119
+- Sin Rabbi gital (Islaam) mara sidiqa, ixxiga (wisdom) kee maqaane (fair preaching) luk, ken luk toobokoyna (argue) maqaanel. Yallih gitah mara sidiqaanam, ixxiga kee rahmat luk aba. 16:125
+- Yalli Yallih xaquk meqe mari (Muttaqiin), kee maqaane abe mari (Muhsinun) luk yan. 16:128
+- Qur'aán, cakki (most just) kee maqaane fanah tirri haa. 17:9
+- Nafsi (manik) dambi, nafsi sa maybuda. 17:15
+- Akeera (Akhirah) faxa, kay gital gexsa (strives), moomin, too marah galtó (appreciation) tana. 17:19
+- Xaleyti qadaalee, ken luk maqaane aba. Xaleyti maqaanel aba. Qaxxa maxalki (word of disrespect) ken maqelina. Sin Rabbi qadaale, kaa inkittu uqbuda, xaleyti maqaanel aba. Ken (xaleyti) labha, sayyá, isin luk yan waqdi, ken ilil qaxxa maxalki maqelina, ken xaaqa makkina, cagalah ken maqaanel maxalka. 17:23
+- Ken (xaleyti) fanah qunxa (submission) kee rahmat (humility) soolisa, ixxic: "Yi Rabbi! Ken rahmata, ken yi qunxá (small) yi xassose." 17:24
+- Diggah, maalu mangaysa (spendthrifts) Shaytaan (devils) toobokoyna, Shaytaan (Satan) kay Rabbi faatite wayta. 17:27
+- Maalu mangaysa (extravagantly) makanna. 17:29
+- Tumaluk (fear of poverty) xaylo makattina. 17:31
+- Zina (adultery) makanna. Nikah (marriage) qadaalee, zina dagga. 17:32
+- Míidaa (measure) qumusa waqdi, miidaan (balance) cakkil meeka. Too maqaane (advantageous) kee wadir maqaanel. 17:35
+- Isin yaaxige wayta tu-makil maafaka (maqelina, maweqa, etc.) cagalah: "Yi inti ubulle," usuk ubulle waytek, walla "Yi arsi maqbe," usuk maqbe waytek. 17:36
+- Qunxa (humble) aba, kaxxa-mariina (arrogance) makkina. Baaxól kaxxa-mariinik (conceit) maateka. Diggah isin baaxó (arad) qari (rend) mayan, qaleelá (mountains) fayya mayan. 17:37
+- Sin Rabbi isin inkih yaaxigi, isih faxek, siinih rahmata, isih faxek, sin digaala. 17:54
+- Addunyâ (duniya) addat inti mayan (Yallih Aayaat maabina, kaa nummaya), Akeerah (Akhirah) addat inti mayan, gital xooqi. 17:72
+- Salaat waqdi (prescribed times) dabisa. 17:78
+- Diggah Qur'aán addat, sinaamáh kulli tungal (example) bayanne, cagalah sinaamák maggó koroosinnik (disbelief) dagge wayta. 17:89
+- Qur'aán addat, sinaamáh kulli tungal (example) bayanne. Cagalah, num kulli tu-makil (quarrelsome) fayya. 18:54
+- Too ken galtó, Jahim (Hell), ken koroosite, Yi Aayaat kee Yi Farmoyti digaala (mockery) haytaamal. 18:106
+- Yallih qadr (Majesty) kaa luk, xayli (son) tanam cakki mayan (Nasaara, Yeesuus (Jesus) Yallih baxa iyyaamal, Yalli fayya, ken kaa luk agleyta haytaamak). 19:35
+- Sinaamáh maxalki xabbisa (mildly). 20:44
+- Maqaane abal (good deeds) gexsa. 21:90
+- Yallih xusuk duma (idle talk) dagga. 23:3
+- Nafsi (modesty) qayse (guard). 23:5
+- Nafsi (qalbi) dambik (sinful inclinations) qayse. 23:97
+- Sinaamáh dambi cabe, ken dambi kaak qoos. 24:22
+- Sinaamáh qibaada qadaalee, buxál addat. Qibaada (neighbors) cakki qumusa. 24:27
+- Inti rama (lower gaze), labha kee sayyá. Nafsi (modesty) kee xasaa (chastity) qayse. 24:30
+- Sarwaala (dress) kee abal-ul qunxa (modesty) dabisa. 24:31
+- Yalli, kaa uqbuda, maqaane aba marah satta (security) kee amaan (peace) yaawe. 24:55
+- Xaleyti qibaadil (private room) ken idnih (permission) yan waytek maculina. 24:58
+- Qunxa kee qunxa-mariina (humble) aba. 25:63
+- Deedal (false witness) kee cakki wayta maxalki dagga. 25:72
+- Akeerah (Akhirah) galtó fanah gexsa, addunyâ (duniya) caagid dagge wayta. 28:77
+- Yallih sa deity (god) maqelina. 28:88
+- Labha-luk xolé (homosexuality) makanna. 29:29
+- Kulli taamih addat fayya (excellence) fanah gexsa. 29:69
+- Salaat soolisa, sadaqa (zakah) ace. 31:4
+- Maqaane amrisa, umaane cakka. 31:17
+- Abal-ul kaxxa-mariina (arrogance) dagga. Yallih xusuk duma (idle talk) makanna. 31:18
+- Gexsit (bearing) kee maxalki (volume of speech) addat cakki lo. 31:19
+- Nabiyyi Muħammad ﷺ tungal (example) kata. 33:21
+- Sayyá ken bilqis (beauty) kee qadri fayya mayaysina. 33:33
+- Kulli caagidil cakki taba. 33:70
+- Ixxiga (wisdom) kee fahmi (understanding) kata, kas (reflection) luk. 38:29
+- Qur'aán amri oggola. 39:23
+- Yalli dambi inkih caba, dambi-le num toobaa abe, kaa fanah wadde waqdi. 39:53
+- Yallah du'a (supplication) qumusa (sincere). 40:60
+- Umaane maqaanel (something better) xaaqa (repel). 41:34
+- Caagid (affairs) amol (consultation) culusa. 42:38
+- Sin xongol (voice) Nabiyyi ﷺ xongol fayya makanna. 49:2
+- Qellittam (secrets) qayse, amaana (betrayal) dagga. 49:6
+- Qadaalo (conflict) addat sula (peace) abisa. Qadaalóh addat sula essera. 49:9
+- Sinaamá maydiqa (ridicule). 49:11
+- Qiba (suspicion) dagga. Qibaada (spying) kee gaba (backbiting) dagga. Sinaamá mayqoodina, ken mayxaqqisa. Gaba (backbiting) kee xaqqisa (slander) inkih dagga. Kaxxa-mariina (pride) sin cakki aba wayta hayta. 49:12
+- Cagalah maqaane (righteousness) num fayya hayta. Sinaamá kee qadaaleena (cultures) cakki qayse. 49:13
+- Qibaada (guests) qadaalee. 51:26
+- Yallih xaqul sin taamoomih (duties) kas (mindful) abisa. 51:56
+- Maaluh sadaqa (zakah) ace. 57:7
+- Diinih addat rahbaniyya (monasticism, nikah kee satta caba, rahbaan, kinniisa) mayan. 57:27
+- Maalu Yallih xusuk (remembrance) sin makossina. 58:11
+- Ixxiga (knowledge) le marah Yalli fayya daraja (rank) yaawe. 58:11
+- Muslimiin sa (non-Muslims) luk maqaanel kee cakkil aba. 60:8
+- Nummaysi (belief) kee taamoomi addat munaafiq (hypocrisy) dagga. 63:9
+- Tumal (greed) kee mangaysa (stinginess) dagga. 64:16
+- Yallih kitaab (revelations) siinih amaanat yan qayse. 73:15
+- Qhiyaamah ayró (Day of Judgment) kas (mindful) abisa. 75:36
+- Sabri (patience) kee rahmat (compassion) amrisa. 90:17
+- Nafsi (soul) massakaxxá (purify) abe num tafsiq (success) geya, nafsi uma (corrupt) abe num dagge (fail) geya. 91:10
+- Tumal (needy) maqelina, kaak makata. 93:10
+- Ixxiga (knowledge) kee fahmi (understanding) essera. Qur'aán akriyaay, kaal kas (reflect) aba. 96:1–5
+- Tumal (poor) maaqe (feed) amrisa. 107:3
 """;
