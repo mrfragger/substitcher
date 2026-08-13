@@ -3315,4 +3315,280 @@ Matching Phrases 8 words
 - Allaah wuxuu sii ballaadhiyaa risaqda ciddii uu doono addoommadiisa, wuxuuna cidhiidhiyaa. (اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ) 28:82; 29:62
 - Waxaad loo celin doonaa Aqoon u leh qaranka iyo cadeenta, markaas wuxuu idiin sheegi doonaa waxaad camali jirteen. (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
 - Qaraabada dhow, qaarkood waxay ka mudan yihiin kuwa kale Kitaabka Allaah. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
+cmds - Commands, Exhortations, Prohibitions, Instructions
+- fard / wajib (فرض / واجب) — waajib (waa in la sameeyaa; dembi haddii laga tago)
+- mustahabb / mandub (مستحب / مندوب) — lagu talinayo (ajir haddii la sameeyo, ma aha dembi haddii laga tago)
+- mubah (مباح) — dhexdhexaad / la oggol yahay (ma jiraan ajir ama dembi)
+- makruh (مكروه) — la neceb yahay (laga niyad jabiyo, laakiin ma aha dembi haddii la sameeyo)
+- haram (حرام) — xaaraan (dembi in la sameeyo)
+- halal (حلال, la oggol yahay / sharci ah) — waxay koobtaa mubah iyo mustahabb labadaba — wax kasta oo aan xaaraan ahayn
+- Ilaah kaligiis ku caabuda oo kaalmo weydiiso Isaga. 1:5
+- Ilaah kaligiis ku caabuda 2:21
+- Ha u shirkeeynin Ilaah wax kale 2:22
+- Ilaah waa Kan dembi dhaafa (tobanka aqbala), wuxuu aqbalay toobadka Aadam (عَلَيْهِ ٱلسَّلَامُ). 2:37
+- Ha ku qasin xaqa been, oo xaqa ha qarinina. 2:42
+- Salaadda (tukooyinka maalinlaha ah) tukada, oo Sakada (sadaqada) bixiya. 2:43
+- Dadka ku amra wanaagga ka dib markaad idinku dhaqmaan 2:44
+- Kaalmo Ilaah ka weydiista arrimahiinna oo dhan 2:45
+- Ha ku dhaqmamin ama ha faafin fasax 2:60
+- Ha ka hor joogsanina dadka inay aadaan masaajidka 2:114
+- Ixtiraam xurmada masjidka. Meelahiinna salaadda ka dhigaa nadiif ah oo daahir ah 2:125
+- Ilaah xusuusta (salaadda, tasbiixda iwm.) oo Isna wuu idin xusuusan doonaa, oo Isaga u mahadceliya. 2:152
+- Dulqaad yeela dhibaatooyinka 2:153
+- Ha raacina tillaabooyinka Shaydaanka oo ah cadaw cad. 2:168
+- Ha raacina cidna si indho la'aan ah 2:170
+- Dhammaan amaanaadaha dhawra oo oofiya. Farriimihiinna diineed ku oofiya daacadnimo. Dhaarradiinna iyo axdiyiinna oofiya. Ballamaha, gaar ahaan kuwii Ilaah laysku ballamay, oofiya. Taageera kuwa baahan oo dhibaatooyinka ka fududeeya. Ka fogaada dembiyada keena luminta nimcada Ilaah. Ha u oggolaan kibirkii inuu kuu geeyo dulmi 2:177
+- Waxaa idiinku jira (badbaadin) nolol Qisaas (Xeerka Sinaanta ee ciqaabta). 2:179
+- Soonayaa bisha Ramadaan. U sooma sidii loogu amray si aad u noqotaan kuwa dhawrsan. 2:183
+- Ixtiraam Qur'aanka oo ah isha ugu dambeysa ee hanuunka 2:185
+- Ha isku cunin hantida dhinaca kale si xaq darro ah, mana bixinina laaluush garsoorayaasha (ka hor intaadan arrimihiinnu soo bandhigin). 2:188
+- Dadka ha dulmina, hadday tahay hadal ama fal. Waligaba ha la galeen dagaal sidii kuwa xadgudba, laakiin uun difaac ahaan 2:190
+- Agoomaha dhawra. Marka ay timaaddo agoomaha, si daacad ah uga shageeya hantidooda oo ha liqina hantidooda. 2:222
+- Toobad keena oo Ilaah dembi dhaaf weydiista. Ha ku dhowaadan galmada xilliga caadada. Nadiifnaanta (jireed iyo ruuxi labadaba) ilaaliya 2:222
+- Masuuliyadihiinna qoyskiinna ku aaddan oofiya 2:233
+- Hogaamiyeyaal ku doorta tayo iyo karti 2:247
+- Ha ku qasbina cidna diinta 2:256
+- Hantida u bixiya sadaqo. Ku noqo deeqsi hanti iyo waqti labadaba 2:261
+- Sadaqadiinna ha burinina isla weyneyn haddii aad deeqsi tihiin 2:264
+- Shaydaanku wuxuu idinku hanjabayaa faqrinimo wuxuunna idinku amrayaa Fahsha' (falo xun, xumaan). 2:268
+- Baahiya raadiya oo caawiya 2:273
+- Ha ku lug yeelan riba ama dulsaarka. Ha cunin hanta dulsaarka leh. Ha cunina Riba (dulsaarka). 2:275
+- Siiso deyn bixiyaha waqti dheeri ah haddii uu dhibaato ku jiro 2:280
+- Eraygiinna ku dhawra ganacsiga. Runta ku dhawra macaamilladiinna dhaqaale. Ku dhaqma daacadnimo ballamihiinna oo dhan. Markaad deyn ku heshaan waqti go'an, qora. Goob joogayaal geeya markasta oo aad heshiis ganacsi sameyneysaan. 2:282
+- Amaanaadaha oo dhan dhawra oo oofiya 2:283
+- Rumeeya Buugaagta la soo dejiyay iyo Nabiyada oo dhan 2:285
+- Ilaah qofna kuma culays daadiyo karaankiisa dhaafsiis. Waxay helaan abaalmarinta (waxa wanaagsan) ee ay kasbadeen, waxaana lagu ciqaabaa (xumaanta) ay kasbadeen. Ilaah qofna kuma culays daadiyo karaankiisa dhaafsiis; mana aannaan sidaa yeelin. Ku kalsoonaada qorshaha Ilaah xataa dhibaatooyinka 2:286
+- Qofka oofiya ballamahiisa oo Ilaah ka cabsada, Ilaah wuxuu jecel yahay kuwa dhawrsan. 3:76
+- Xajka (socdaalka xaqa) u taga haddaad awoodaysaan 3:97
+- Ha kala qaybsamina 3:103
+- Kuwa amra wanaagga oo ka reeba xumaanta. Ku dhiirrigeliya wanaagga jaaliyaddiinna. Dadka ugu yeedha xuska Ilaah 3:104
+- Ilaah ha ku tiirsadaan dadka rumeysan. 3:122
+- Ha cunina Riba (dulsaarka). 3:130
+- Ilaah iyo Rasuulkiisa u adeeca si aad u heshaan naxariis. 3:132
+- Ilaah wuxuu jecel yahay kuwa ku bixiya (Jidka Ilaah - sadaqo, deeq iwm.) barwaaqada iyo dhibaatada, kuwa cadhada xakameeya, iyo kuwa dadka u dembi dhaafa. 3:134
+- Cadhada xakameeya. 3:134
+- Cimriga dadka u dembi dhaafa 3:135
+- Ha ku hadlin hadal qallafsan. U dulqaata kuwa idin khilaafa 3:159
+- Haddii Ilaah idin caawiyo, cidna idinka adkaan maayso; hadduuse idinkaga tago, yaa idin caawin kara isaga kaddib? 3:160
+- Qof walba wuxuu dhadhamin doonaa dhimasho. Oo maalinta Qiyaamaha oo keliya ayaad heli doontaan abaalgudkiinna oo dhan. 3:185
+- Si qoto dheer uga fikira waxyaabaha lala yaabo ee dabiiciga ah iyo abuurista caalamkan. Ogaada in Ilaah uu caalamka ku abuuray macno iyo ujeeddo 3:191
+- Ragga iyo dumarku waxay leeyihiin abaalmarin isku mid ah falalkooda 3:195
+- Kuwa Rabbigood ka cabsada, waxaa u sugnaaday Jannooyin hoostoodu webiyo ka socdaan (Jannada); way ku waari doonaan, waa martiqaad Ilaah ka yimid. 3:198
+- Ku dadaal had iyo jeer inaad Ilaah ka raalli geliso fal kasta. 3:200
+- Rabbigiinna u adeeca, ka cabsada oo (ha gooynina xiriirka) qaraabada. 4:1
+- Agoomaha siiya hantidooda oo ha u beddelina (waxaad leedihiin) kuwa xun (waxay leeyihiin) kuwa wanaagsan; oo ha liqina hantidooda (adigoo ku daraya) hantiidiinna. 4:2
+- Haweenka (aad guursataa) siiya Mehrkooda (lacagta guurka oo uu ninku naagta siiyo marka la guursanayo) si qalbi furan. 4:4
+- Xuquuqda agoomaha dhawra 4:6
+- Hantida qofka dhintay waa in loo qaybiyaa xubnaha qoyskiisa. Haweenku waxay leeyihiin xuquuq dhaxal 4:7
+- Ha cunina hantida agoomaha si xaq darro ah 4:10
+- U adeeca amarrada ku saabsan dhaxalka 4:11
+- Waa xaaraan in haweenka lagu dhaxlo iyagoo aan rabin, oo aadna u dhibtaan. La noolaada (xaasaska) si sharaf leh. Ixtiraama oo dhawra xuquuqda haweenka. U dhex-dhaqma xaasaska si naxariis iyo qalbi jilicsan leh. Haweenka u dhex-dhaqma sharaf iyo caddaalad 4:19
+- Ha guursanina kuwa dhiig ku idinka dhow 4:23
+- Ha isdilina (ama ha isdilina). Ilaah waa idiin naxariis badan yahay. Ha isku cunina hantida dhinaca kale si xaq darro ah 4:29
+- Haddaad ka fogaataan dembiyada waaweyn ee la reebay, Ilaah waa idinka tirtiri doonaa dembiyadiinna (yaryar), wuxuunna idin gelin doonaa Gelitaan Sharaf leh (oo ah Janno). 4:31
+- Ha u hanqaltaagin waxa Ilaah uu kaga door biday qaar idinka mid ah qaar kale. Ka fogaada xaasidnimo iyo masayr 4:32
+- Nimanku waxay yihiin ilaaliyayaal iyo masuuliyiin haweenka, maxaa yeelay Ilaah wuxuu kaga door biday qaar qaar kale, iyo sidoo kale waxay u bixiyaan hantidooda (si ay ugu noolaadaan). Ninku waa ilaaliyaha iyo taageeraha qoyska 4:34
+- Ilaah caabuda oo ha u shirkeeynin wax kale, u wanaajiya waalidka, qaraabada, agoomaha, masaakiinta, deriska, saaxiibka idinla jooga, musaafirka (aad la kulanta), iyo kuwa (addoomada) ay gacmihiinnu midig hantaan. Ilaah ma jecla kuwa isla weyn oo faani. Dadka u wanaajiya. U naxariista kuwa itaalka yar. Xiriirka qoyska dhawra oo qaraabada ixtiraama. 4:36
+- Ha noqonin kuwa bakhayl ah 4:37
+- Ilaah ma dembi dhaafo in lala shirkeeyo, laakiin wuxuu dembi dhaafaa waxa aan ka ahayn taas qofkii uu doono. 4:48
+- Ha u xaasidina dadka kale 4:54
+- Ilaah wuxuu idinku amrayaa inaad amaanaadaha ku celisaan kuwa leh. Markaad dadka u dhex garsooreysaan, caddaalad ku garsoora. 4:58
+- Ilaah iyo Rasuulkiisa u adeeca. Siyaadad xaq u siiya kuwa idinka dhex ah ee amar haysa 4:59
+- Dadka daciifka ah ama nugul ha dulmina 4:75
+- Wax kasta oo wanaagsan oo idinka soo gaadha waxay ka yimaadeen Ilaah, wax kasta oo xun oo idinka soo gaadhana waxay ka yimaadeen nafahiinna. 4:79
+- Qofka Rasuulka (Muhammad ﷺ) u adeeca, wuxuu u adeecay Ilaah. 4:80
+- Qofka u shafaaca qayrka (wanaagga), wuxuu ka heli doonaa abaalgudkeeda, qofka u shafaaca sharka (xumaanta)na wuxuu ka heli doonaa culaysteeda. 4:85
+- Ma aha mid rumeysan inuu dilo mid kale oo rumeysan, marka laga reebo qalad. 4:92
+- Qofka si ula kac ah u dilo mu'min, abaalgudkiisu waa Jahanamo, oo uu ku waarayo. Cadhada Ilaah iyo nacladkiisa way saaran yihiin, waxaana loo diyaariyey ciqaab weyn. 4:93
+- Qofka u haajira (gurigiisa) Jidka Ilaah, wuxuu ka heli doonaa dhulka meelo badan oo hoy ah iyo barwaaqo. 4:100
+- Uun ku qabta salaadahiinna 4:103
+- Ha taageerin ama ha u doodeen kuwa amaanaadahooda khiyaameeya 4:105
+- Ilaah dembi dhaaf weydiista, Ilaah waa Dembi Dhaaf Badane, Naxariis Badan yahay. 4:106
+- Kuwa rumeysanow! U istaaga si adag caddaalad, oo Ilaah uga dhawaatiya, xataa haddii ay idinku soo noqoto, ama waalidkiin ama qaraabadiin, ha ahaado qof hodan ama faqiir. Caddaaladda ha daayinina; sida degdega ah uga shaqeeya hagaajinta dulmiga 4:135
+- Munafiquunnu waxay rabaan inay Ilaah khiyaameeyaan, laakiin Isaga ayaa iyaga khiyaameeya. 4:142
+- Munafiquunnu waxay ku jiri doonaan xagga ugu hoose ee Naarta; ma heli doontid gargaar iyaga u ah. 4:145
+- Ilaah ma jecla in xumaanta hadal ahaan loo sheego, marka laga reebo qofka la dulmay. 4:148
+- Rususha oo ah kuwa bishaarayn iyo kuwa digtooniya, si dadku u helaan cudur daar la'aan Ilaah kaddib (imaatinka) Rususha. 4:165
+- Axdiyiinnada iyo ballamaha oofiya 5:1
+- Isku kaalmeeya wanaagga iyo dhawrsanaanta, ha isku kaalmeyneena dembiga iyo colaadda 5:2
+- Ha cunina wax bakhti ah, dhiigga, ama hilibka doofaarka 5:3
+- Caddaalad yeela, ha u oggolaanina colaadda iyo cadaawadda dadka kale inay idinka celiyaan caddaalad. U dhex-dhaqma caddaalad iyo qummanaan. Ogaada in caddaaladdu ay dhowdahay dhawrsanaanta. Caddaaladda ha daayinina; sida degdega ah uga shaqeeya hagaajinta dulmiga 5:8
+- U soo dhawaada Ilaah xagga iyo dhinacyada, kuna dadaala Jidkiisa intaad awooddaan, si aad u liibaan tagaan. 5:35
+- Dhaarradiinna iyo ballamahiinna oofiya 5:89
+- Ka fogaada khamriga iyo waxyaabaha la rumaysta. Si adag uga fogaada khamriga (dhammaan noocyada cabitaanka khamriga ah), khamaarka, sanamyada, iyo fallaadhaha wax sheega, kuwaas oo dhammaantood yihiin wax xun oo ka mid ah shuqullada Shaydaanka. 5:90
+- Ha u dhaysanina ugaadhsiga markaad xaaladda ihraam ku jirtaan Xajka ama Cumrada. 5:95
+- Ha su'aalinina waxyaabo haddii laydin sheego ay dhib idin ku yeelan karto. 5:101
+- Ha caayina waxyaabaha dadka kale ay caabudaan. Ha caayina kuwa ay (gaalada) caabudaan Ilaah kaddib, si ayan iyaguna u caayin Ilaah si jaahilnimo ah. 6:108
+- Haddaad adeecdaan dadka badankiis, waxay idinka dhigi doonaan inaad ka adlaataan Jidka Ilaah. Waxay raacaan uun malo, waxayna uun been sheegaan. 6:116
+- Ka taga (dadkanow!) dembiyada oo dhan, kuwa cad iyo kuwa qarsoon. 6:120
+- Ha cunina (kuwa rumeysanow!) hilibka (xayawaanka) aan Magaca Ilaah lagu sheegin (marka la gowracayo). 6:121
+- Qofka Ilaah doono inuu hanuuniyo, wuxuu u furaa laabtiisa Islaamka, qofkii uu doono inuu adlaadiyona, wuxuu ka dhigaa laabtiisa ciriiri ah oo dhuuban. 6:125
+- Ku dhaqma dhexdhexaad kharashka oo ka fogaada xad-dhaaf. Xuquuqda dhammaan abuurada dhawra 6:141
+- Ha u shirkeeynin Ilaah wax caabudid, waalidiin u wanaajiya, ha dilina carruurtiinnaba sababta ah faqrinimo, ha u dhowaanina xumaanta, ha dilina qof Ilaah reebay, marka laga reebo mid xaq ah. 6:151
+- Ahow daacad; ha khiyaameyn ganacsigaaga. Ha u dhowaanina hantida agoonta, waxaan ahayn si aad u hagaajiso, siiya miisaan buuxa oo caddaalad ku miisaana, markasta oo aad hadasho run sheeg, xataa haddii ay tahay qaraabo dhow, oo Axdiga Ilaah oofiya. 6:152
+- Raaca Jidka Toosan hana raacina (waddooyin) kale, waayo waxay idinka soo kala bixiyaan Jidkiisa. 6:153
+- Dheh (Muhammad ﷺ): "Salaaddayda, gowracayga, noloshayda, iyo dhimashadayda waxay u dhan yihiin Ilaah, Rabbiga Caalamka." 6:162
+- Ha noqonin kuwa isla weyn 7:13
+- Shaydaanku ha idin khiyaameeyin. 7:27
+- Dheh (Muhammad ﷺ): "Rabbigay wuxuu ku amray caddaaladda..." 7:29
+- U adeeca xuduudaha Ilaah u dejiyey arrimaha oo dhan. Ka fogaada xad-gudubka hadalka iyo ficillada. Cuna oo caba, laakiin ha xad-dhaafsana. Xidho dharka wanaagsan waqtiga salaadda 7:31
+- Ilaah wuxuu abuuray samooyinka iyo dhulka lix maalmood, kaddibna wuxuu ku karaamay Carshiga (Arshiga) (si ku habboon Sharaftiisa). 7:54
+- Rabbigiinna uga baryada si hoose iyo qarsoodi. Isagu ma jecla kuwa xad-gudba. 7:55
+- Dhulka ha ku fasalina kaddib markii la hagaajiyay, oo uga baryada Isaga cabsi iyo rajo leh. 7:56
+- Laakiin kuwa sameeyay xumaato kaddibna toobad keenay oo rumeeyay, Rabbigaa kaddib (taas) waa Dembi Dhaaf Badane, Naxariis Badan. 7:153
+- Dheh (Muhammad ﷺ): "Dadkanow! Waxaan ahay Rasuulka Ilaah idiinku yimid dhammaantiin..." 7:158
+- Magacyada ugu wanaagsan waxaa leh Ilaah, ee ku baryada Isaga iyaga, oo ka taga kuwa beddela ama diida ama kuwa ku hadla (hadal xun) Magacyadiisa... 7:180
+- Qofka Ilaah u adlaadiyo, cidna ma hanuunin karto; oo wuxuu u daayaa inay ku sii weylaadaan xad-gudubkooda. 7:186
+- Dambi dhaaf muuji, ku amr wanaag, oo ka jeeso kuwa jaahiliinta ah (ee ha ciqaabin). 7:199
+- Dadka kale u dembi dhaafa qaladaadkooda 7:199
+- Haddii uu kuula yimaado waswaas ka yimid Shaydaan, ka magangal Ilaah. Isagu waa Maqlaha, Ogyahay. 7:200
+- Mu'miniinta waa kuwa, marka Ilaah la sheego, ay qalbigoodu cabsi dareemaan, oo marka Aayadahiisa loo akhriyo, ay kordhiyaan iimaankooda... 8:2
+- Ha khiyaameynina Ilaah iyo Rasuulkiisa, mana khiyaameynina si ula kac ah amaanaadahiinna (waxyaabaha laydiin amaanay, iyo dhammaan waajibaadka Ilaah idinku amray). 8:27
+- Haddaad Ilaah adeecdaan oo ka cabsataan, wuxuu idin siin doonaa Furqaan (garasho) (oo ah kala soocidda xaqa iyo baadilka). 8:29
+- Kuwa gaaloobay waxay u bixiyaan hantidooda si ay (dadka) uga hor joojiyaan Jidka Ilaah, waana sii bixin doonaan; laakiin aakhirkii waxay u noqon doontaa qoomamo iyaga u ah. 8:36
+- Kuwa gaaloobay dheh, hadday joojiyaan (gaalnimada), waxay soo dhaafeen waa loo dembi dhaafi doonaa. Laakiin hadday ku noqdaan (taas), markaa waxaa soo maray tusaalooyin (ciqaab) kuwii ka horreeyay (oo digniin ah). 8:38
+- Markaad la kulmaan (ciidan cadaawayaal ah), adkaysta oo xusuusta Magaca Ilaah (carrab iyo qalbiba) si aad u liibaan tagaan. 8:45
+- Ha noqonina sida kuwa ka soo baxa guryahooda si isla weyn iyo dadka isu tusa, kana hor joojiya (dadka) Jidka Ilaah. 8:47
+- Ilaah ma beddeli doono nimco uu dadka siiyey ilaa ay iyagu beddelaan waxa nafahooda ku jira. 8:53
+- Ugu xun xayawaannada Eebbe agtiisa waa kuwa gaaloobay. 8:55
+- Ilaah wuxuu jacayl iyo kalgacal ka dhex abuuraa qulubka kuwa Isaga rumeysan 8:63
+- Ilaali oo caawi kuwa magangal doonka 9:6
+- Ma aha kuwa Mushrikiinta ah inay dayactiraan Masaajidka Ilaah. 9:17
+- Waxay (gaalada, Yuhuudda iyo Nasraanta) doonayaan inay demiyaan Nuurka Ilaah (ee uu Muhammad ﷺ ku yimid - Tawxiidka Islaamka) afafkooda, laakiin Ilaah ma ogolaan doono waxaan ahayn in Nuurkiisa la dhammeeyo, inkastoo ay gaaladu neceb tahay. 9:32
+- Sadaqada (Sakada) waxay u tahay uun: 1) Fuqara' (masaakiin), 2) Masaakiin (faqiirro), 3) kuwa u qaabilsan soo ururinta, 4) si loo soo jiito qalbiga kuwa u janjeera Islaamka, 5) si maxaabiis loo xoreeyo, 6) kuwa deynta leh, 7) Jidka Ilaah (oo ah Mujahidiin), iyo 8) musaafirka. 9:60
+- Qofka Ilaah iyo Rasuulkiisa (ﷺ) ka soo horjeeda oo dagaal kula yimaadda, waxaa isaga u sugnaaday Naarta Jahanamo, oo uu ku waarayo. Taasi waa dulli weyn. 9:63
+- Munafiquunka, ragga iyo dumarka, qaarkood waxay ka yimaadeen qaar kale. Waxay ilaabeen Ilaah, sidaas awgeed isna wuu ilaabay iyaga. 9:67
+- U dadaal daahirnimo. Ixtiraam xurmada masjidka 9:108
+- Uma baahna Nebiga iyo kuwa rumeysan inay Ilaah dembi dhaaf uga weydiistaan Mushrikiinta, xataa hadday qaraabo yihiin, kadib markii ay iyaga u caddaatay inay yihiin Naarta (maxaa yeelay waxay ku dhintaan gaalnimo). 9:113
+- Yaa ka sii dulmi badan qofka ku been abuura Ilaah ama diida Aayadahiisa? Hubaal, dembilayaashu ma liibaani doonaan! 10:17
+- Waxay caabudaan Ilaah kaddib waxyaabo aan dhaamin ama anfacayn, waxayna dhahaan: "Kuwanu waa shafaacayayaashayada Ilaah agtiisa." Dheh: "Ma u sheegaysaan Ilaah wax uusan ka aqoonin samooyinka iyo dhulka?" Waxaa ka nadiifsan oo ka sarreeya waxay la shirkeeyaan! 10:18
+- Abaalgudka xumaantu waa uun la mid ah. 10:27
+- Kaasi waa Ilaah, Rabbigiinna runta ah. Runtu kaddib ma jirtaa wax kale oo aan ahayn baadi? Sidee baa laydiin leexiyaa? 10:32
+- Badankood waxay raacaan uun malo. Maligu runta meeshiisa kama taagna karo. 10:36
+- Hubaal, Ilaah dadka kuma dulma waxba; laakiin dadka baa nafahooda dulma. 10:44
+- Ogaada in nimcada Ilaah ay ka wanaagsan tahay wax kasta oo dadku soo ururin karo ama kaydin karo 10:58
+- Ha noqonin kuwa beeniya Aayadaha Ilaah, waayo markaas waxaad ahaan doontaa kuwa khasaaray. 10:95
+- Haddii Ilaah ku taabto dhib, cidna kama saari karto Isaga mooyee; hadduu doonona inuu kuu sameeyo khayr, cidna ma diidi karto Fadligiisa uu gaarsiiyo cidduu doono oo addoomahiisa ka mid ah. 10:107
+- Ma jirto noole dhulka jooga oo risqeedu ka iman Ilaah. Oo wuxuu yaqaan hoygeeda iyo meesha lagu keydiyo (ilmaha gudhiisa, qabriga, iwm.). 11:6
+- Haddaannu siinno dadka dhadhamin Naxariis Naaga ka timid, kaddibna kala bixino, isagu wuxuu noqdaa quusay, mahadcelin darro ah. 11:9
+- Qofka raba nolosha adduunka iyo quruxdeeda; waxaan siin doonnaa si buuxda (abaalgudka) shuqulladooda ku dhex jira, oo lagama dhimi doonin. 11:15
+- Dulkuma aanaan iyaga, laakiin iyagu baa nafahooda dulmay. Ilaahyadoodii, oo ahaa kuwa ay Ilaah kaddib baryi jireen, waxba uma anfacayn markuu yimid Amarkii Rabbigaa, oo wax kale uma aysan ku darin waxaan ahayn khasaare. 11:101
+- Maalinta ay timaaddo, qofna kuma hadli doono Ilaah idankiis mooyee. Qaarkood waxay noqon doonaan kuwa nasiib darro ah iyo (qaar) kuwa barwaaqo ah. 11:105
+- Kuwa nasiib darrada ah, waxay ku jiri doonaan Naarta, oo ay ku hoobi doonaan oo ku ooyi doonaan. 11:106
+- Way ku waari doonaan ilaa inta ay samada iyo dhulku jiraan, ilaa Rabbigaa doono. Hubaal, Rabbigaa wuxuu sameeyaa wuxuu doono. 11:107
+- Kuwa barwaaqo ahna, waxay ku jiri doonaan Jannada, oo ay ku waari doonaan ilaa inta ay samada iyo dhulku jiraan, ilaa Rabbigaa doono, oo ah deeq aan dhammaad lahayn. 11:108
+- Ha u janjeerina kuwa xumaata, si ay Naartu idiin taabato, oo aydaan yeelan wax ka ah Ilaah ilaaliyayaal, ama aydaan gargaaransanayn. 11:113
+- Salaadda ugu tukada labada dhinac ee maalinta iyo saqyada habeenka (oo ah 5 salaadood). Wanaagyadu way tirtiraan xumaalaha (dembiyada yaryar). 11:114
+- Ilaah waxaa iska leh waxa qarsoon ee samooyinka iyo dhulka, oo wax walba Isagaa loo celiyaa (go'aan ahaan). 11:123
+- Amarku isagaa iska leh, Ilaah mooyee. Wuxuu ku amray inaad caabuddaan Isaga mooyee (Tawxiid), taasi waa diinta toosan, laakiin dadka badankood ma oga. 12:40
+- Waligaba ha quusaynina Naxariista Ilaah 12:87
+- Dadka badankoodna ma rumayn doonaan xataa haddaad si xowli leh u dooneyso. 12:103
+- Badankoodna Ilaah ma rumaynayaan waxaan ahayn iyagoo la shirkeeya (iyagu waa Mushrikiin). 12:106
+- Qur'aanku ma aha hadal been abuur ah, laakiin waa xaqiijinta buugaagta Ilaah ee hore (Tawreed, Injiil iyo kutubta kale ee Ilaah) iyo faahfaahin dhamaystiran oo wax walba ah iyo hanuun iyo naxariis dadka rumeysan. 12:111
+- Ilaah wuxuu ku sii badiyaa risqiga cidduu doono, wuxuuna ku cidhiidhiyaa (cidduu doono). 13:26
+- Ilaah xusuusta si badan (dhikr). Kuwa Ilaah rumeysan waxay ka helaan qalbi raaxo xuskiisa. 13:28
+- Kuwa rumeysan oo wanaag fala waxaa loo siinayaa farxad iyo qalbi xasiloon 13:29
+- Kuwa door bida nolosha adduunka Aakhira, kana hor joojiya (dadka) Jidka Ilaah (Islaamka) oo doonaya inay ka baxaan, kuwaasi waa kuwa baadi fog. 14:3
+- U dhaqma is-hoosaysiin iyo mahadnaqasho caabudidda 14:7
+- Tusaalaha kuwa Rabbigood gaaloobay waa sida dambas, oo dabayl ku soo dhacdo maalin dabaylo ah, ma heli karaan waxay kasbadeen. 14:18
+- Ilaah wuxuu ku adkayn doonaa kuwa rumeysan hadalka adag adduunkan (iyaga oo Ilaah keliya caabudi doona) iyo Aakhirada. 14:27
+- Ha u maleynina in Ilaah uu ka gaafilo waxa ay sameeyaan kuwa dulmiga ah, laakiin wuxuu siinayaa dib u dhig ilaa maalin ay indhuhu argagax ku yiraahdaan. 14:42
+- Si Ilaah ugu abaalgudo qof kasta waxa uu kasbaday. Hubaal Ilaah waa dhaqsaha xisaabta. 14:51
+- Hubaal waxaan dadka ka abuuray dhoobo qallalan oo sanqadh leh, oo ah dhoobo madoow oo beddelan. 15:26
+- Jinnaha waxaan ka abuuray ka hor olol dab ah oo aan qiiq lahayn. 15:27
+- Waxay (Jahannamo) leedahay toddoba irrid; irrid kastaa waxay u leedahay koox (dembilayaal) u gaar ah. 15:44
+- Wuxuu dadka ka abuuray Nutfah (dhibco isku jira oo lab iyo dheddig), markaas ka dib wuxuu noqdaa mucaarid cad. 16:4
+- Xoolaha na, wuxuu idiin abuuray; waxay idiinku leeyihiin diirimaad (dharka diiran), iyo faa'iidooyin badan, oo iyaga ka cuntaan. 16:5
+- Iyo (wuxuu abuuray) fardo, baqlo iyo dameero, si aad ugu raacdaan iyo qurxin. Wuxuuna abuuraa waxyaabo kale oo aydaan aqoonin. 16:8
+- Isaga ayaa ka soo dejiya biyo (roob) cirka; waxaad ka cabtaan oo waxaad ka soo saartaan doog aad xoolaha ku daajisaan. 16:10
+- Isaga ayaa idiin hoos geeyey badda, si aad uga cuntaan hilib macaan (kalluun), iyo inaad ka soo saartaan qurxin aad xidhataan. 16:14
+- Dhulka wuxuu ku riday buuro adag, si ayan idinkula ruxmin, iyo webiyo iyo jidad, si aad u hanuuntaan. 16:15
+- Abuurayaasha ma uu la mid yahay kan aan abuurineyn? Ma garan maysaan? 16:17
+- Haddaad tiriin lahayd nimcadaha Ilaah, marna kama awoodi lahaydeen inaad tiriisaan. 16:18
+- Ilaah waa yaqaan waxaad qarisaan iyo waxaad caddeysaan. 16:19
+- Kuwa ay u bari jireen (Mushrikiintu) Ilaah kaddib, ma abuurin waxba, laakiin iyaga baa la abuuray. 16:20
+- (Waa) mayyid, aan nolol lahayn, oo ma garanayaan goorma la soo saari doono. 16:21
+- Hadalkayagu markaannu doonno shay, waxaan ku odhanaynaa: "Noqo!" markaas wuu noqdaa. 16:40
+- Ma waxay kuwa shirqoola dareemaan ammaan inaan Ilaah dhulka ku liqin, ama uusan ciqaab uga iman xag aan garanayn? 16:45
+- Wax kasta oo niman ah oo idin soo gaadha, waxay ka yimaadeen Ilaah. Markaas oo dhib idinku soo dhowaato, Isaga baad u qaylisaa. 16:53
+- Kadib markuu dhibaato idinka fogeeyo, markaas qaar idinka mid ah ayaa Rabbigood la shirkeeya. 16:54
+- Xooluhu waxay idinku leeyihiin ibro. Waxaan idin siinnaa caano saafi ah, oo ka dhex baxa calooshodooda, inta u dhexeysa saxarada iyo dhiigga, oo ku macaan kuwa cabba. 16:66
+- Ee ha u ekeysaan Ilaah wax (maaddaama aanay jirin wax la mid ah, ama uusan wax la mid ahayn). Hubaal Ilaah waa yaqaan, idinkuna ma garanaysaan. 16:74
+- Ogaada in Ilaah dadka siiyey maqal, aragga, caqliga, iyo dareenka si ay u mahadceliyaan 16:78
+- Iska ilaali damac iyo hunguri 16:97
+- Markaad dooneyso inaad akhrido Qur'aanka, Ilaah uga magangal Shaydaanka, kan la nacliyey (la habaariyey). 16:98
+- Ogaada in dulmi jaahilnimo lagu sameeyay laga dembi dhaafo haddii qofku toobad keeno oo isu hagaajiyo 16:119
+- (Muhammad ﷺ) ugu yeedh Jidka Rabbigaa (Islaamka) xigmad iyo waano wanaagsan, kuna dooda si ugu wanaagsan. Dadka Jidka Ilaah loogu yeedho waa inay ku noqotaa xigmad iyo edeb 16:125
+- Hubaal Ilaah wuxuu la jiraa kuwa Isaga ka dhawrsada, iyo kuwa wanaagsan (Muxsiniin). 16:128
+- Qur'aankani wuxuu hanuuniyaa waxa ugu caddaaladsan uguna qumman. 17:9
+- Qofna ma sidaysto culayska (dembiyada) qof kale. 17:15
+- Qofka doona Aakhiro oo u dadaala si ay u qalanto isagoo rumeysan, kuwaasi waa kuwa ay dadaalkoodu la mahadcelin doono, oo la abaalgudin doono (Ilaah). 17:19
+- Waalidiinna ixtiraam oo u naxariiso. U wanaajiya waalidin. Ha ku odhan wax xun. Rabbigaa wuxuu ku amray inaydaan caabudin Isaga mooyee. Iyo inaad waalidiin u wanaajisaan. Haddii midkood ama labadoodu ku gaadhaan gabowga nolol ka mid ah, ha ku odhan waligaa "Uff" hana ku qaylin, laakiin kula hadal si sharaf leh. 17:23
+- U suuxi si hoose oo naxariis leh, oo dheh: "Rabbigay! U naxariiso sida ay i koreeyeen anigoo yar." 17:24
+- Hubaal, kuwa wax iska dhigga waxay yihiin walaalo Shaydaanno, oo Shaydaanku waa mahadcelin darro Rabbigiisa. 17:27
+- Ha ku xad-dhaafnina kharashka lacagta 17:29
+- Carruurtiinna ha dilina cabsi daro ah 17:31
+- Ha zina falina. Xurmada guurka dhawra oo zina ka fogaada 17:32
+- Siya miisaan buuxa markaad miisaameysaan, oo ku miisaana miisaan toosan. Taasi waa wanaag iyo aakhirkii ugu wanaagsan. 17:35
+- Ha raacin (dadkanow, ha dhahin, ha falin, ha marag kacina) wax aanad aqoon u lahayn (tusaale: qof dhaha: "Waan arkay," isagoo aan arkin, ama "Waan maqlay," isagoo aan maqlin). 17:36
+- Ahoo is-hoosaysiin oo ha noqonin mid isla weyn. Dhulka ha ku socon isla weyni. Hubaal, ma awoodid inaad dhulka jeexdid ama buuraha dheerato. 17:37
+- Rabbigaa ayaa idin yaqaan, hadduu doono wuu idin naxariisan doonaa, ama hadduu doono wuu idin ciqaabi doonaa. 17:54
+- Qofka ahaa indha la' adduunkan (oo aan arag Aayadaha Ilaah oo aan rumeysneyn), wuxuu ku indha la'aannaan doonaa Aakhirada, waana ka sii baadi ah. 17:72
+- Uun u tuka salaadaha 17:78
+- Hubaal waxaan dadka Qur'aankan ugu faahfaahinnay tusaale kasta, laakiin dadka badankood waxay diidaan (runta mana aqbalaan wax) aan ahayn gaalnimo. 17:89
+- Waxaan dadka Qur'aankan ugu soo bandhignay tusaale kasta. Laakiin dadku waa muran badan yahay wax kasta. 18:54
+- Taasi waa abaalgudkooda, Jahannamo; maxaa yeelay way gaaloobeen oo Aayadahaygii iyo Rusushaydaygii ku qosleen oo ku majaajiloodeen. 18:106
+- Mana aha (sharafta) Ilaah inuu wiil dhalo (tani waxaa loola jeedaa been-abuurka Masiixiyiinta, oo sheega in Ciise uu yahay wiilka Ilaah). Waa ka nadiifsan yahay oo ka sarreeyaa waxay la shirkeeyaan. 19:35
+- Dadka kula hadal si edeb leh 20:44
+- Isugu tartama wanaagga 21:90
+- Ka fogaada hadalka aan wax ku oolnayn 23:3
+- Ilaali xishoodkaaga 23:5
+- Ilaali qalbigu inuu u janjeero dembiyada 23:97
+- Dadka kale u dembi dhaafa oo u saamax qaladaadkooda 24:22
+- Ixtiraam asturnaanta dadka kale, gaar ahaan guryahooda. Xuquuqda deriska oofiya 24:27
+- Indhaha hoos u dhig (rag iyo dumarba). Ilaali xishoodkaaga iyo daahirnimadaada. 24:30
+- U dhaqma xishood leh dharka iyo dhaqanka 24:31
+- Ogaada in Ilaah uu ammaan iyo nabad siinayo kuwa Isaga caabuda oo wanaagga ku dhaqma 24:55
+- Ha soo galina qolka waalidiin iyadoon lays idmin 24:58
+- Ahoo is-hoosaysiin oo qunyar socod ah 25:63
+- Ka fogaada marag furka iyo khiyaanada 25:72
+- U dadaal abaalmarinta Aakhiro laakiin ha dayacin arrimaha adduunka 28:77
+- Ha ugu yeerin Ilaah kaddib wax kale 28:88
+- Ha ku dhaqmina khaniisnimada 29:29
+- U dadaal cimri dheer shuqul kasta 29:69
+- Salaadda tuka oo sadaqo bixi 31:4
+- Ku amr wanaag oo ka reeb xumaan 31:17
+- Ka fogaada isla weyni dhaqankaaga. Iska ilaali waqti luminta hadal aan wax tarayn 31:18
+- U soco si dhexdhexaad ah oo codkaaga hoos u dhig 31:19
+- Raacee tusaalaha Nebiga Muhammad 33:21
+- Dumarku ha soo bandhigine oo ha isku qurxine quruxdooda iyo xirhooda 33:33
+- Runta sheeg xaalad kasta 33:70
+- Xigmad iyo faham raadi feker iyo tafakur 38:29
+- U adeeca amarrooyinka Qur'aanka 39:23
+- Ilaah wuxuu dembi dhaafaa dembiyada oo dhan marka dembiluhu toobad keeno oo u soo laabto 39:53
+- U ducee Ilaah si daacad ah (duco) 40:60
+- Xumaanta kaga jawab wax ka wanaagsan 41:34
+- Arrimaha ku go'aamiya wadatashi 42:38
+- Codkiinna ha ka kor qaadina Nebiga 49:2
+- Sirta ilaali oo ka fogaada khiyaanada 49:6
+- Dadka isku haya heshiisii. Raadi heshiisinta khilaafaadka 49:9
+- Ha ku qoslin dadka kale 49:11
+- Ka fogaada tuhun. Ka fogaada basaasnimo iyo xan. Ha wax ka sheegina ama ha wax ka qabtina dadka. Iska ilaali dhammaan noocyada xan iyo been-abuur. Ha u oggolaan kibirkii inuu kuu geeyo dulmi 49:12
+- Ogaada in wanaagga kaliya uu dadka sharaf leh ka dhigo. Ixtiraama kala duwanaanta dadka iyo dhaqamada 49:13
+- Martida ixtiraam 51:26
+- U dheeri ahaada waajibaadkiinna Ilaah 51:56
+- Hantida ugu bixi sadaqo 57:7
+- Ogaada inaan diinta ku jirin raahibnimo (ka taga guurka iyo raaxada sida raahibiinta, bikradaha, ama kuwa ku nool nidaam diin, ama dhismayaasha ay ku nool yihiin) 57:27
+- Ha u oggolaanina maalku inuu idinka qurxiyo xuska Ilaah 58:11
+- Kuwa aqoonta leh waxaa Ilaah siin doonaa darajo sare 58:11
+- U dhex-dhaqma dadka aan Muslimka ahayn si naxariis iyo caddaalad ah 60:8
+- Ka fogaada munaafaqnimo iimaankiinna iyo ficilladiinna 63:9
+- Iska fogaada hunguri weyn iyo bakhaylnimo 64:16
+- Ilaali waxyiga laydiin amaanay 73:15
+- U dheeri ahaada Maalinta Qiyaamaha 75:36
+- Ku amra dulqaadka iyo naxariista 90:17
+- Kuwa nafahooda daahiriya way liibaan tagaan, kuwa nafahooda xumeeyana way fashilmaan 91:10
+- Ha iska indhatirin ama ha iska tuurin kan baahan 93:10
+- Raadi aqoon iyo faham. Akhri oo ka fikir Qur'aanka 96:1–5
+- Ku dhiirrigeli quudinta masaakiinta 107:3
 """;

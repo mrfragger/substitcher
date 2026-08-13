@@ -3316,4 +3316,280 @@ Matching Phrases 8 words
 - Allah mở rộng phần bổng lộc cho người Ngài muốn trong số bề tôi của Ngài và thu hẹp lại. (اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ) 28:82; 29:62
 - Và các người sẽ được đưa trở lại Đấng biết những điều vô hình và hiện hữu, và Ngài sẽ báo cho các người những gì các người đã... (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
 - Và những người thân thích có quyền gần gũi hơn với nhau trong Kinh Sách của Allah. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
+cmds - Commands, Exhortations, Prohibitions, Instructions
+- fard / wajib (فرض / واجب) — bắt buộc (phải làm; tội nếu bỏ qua)
+- mustahabb / mandub (مستحب / مندوب) — được khuyến khích (có thưởng nếu làm, không tội nếu bỏ qua)
+- mubah (مباح) — trung lập / được phép (không thưởng cũng không tội)
+- makruh (مكروه) — không được ưa thích (không khuyến khích, nhưng không tội nếu làm)
+- haram (حرام) — bị cấm (tội nếu làm)
+- halal (حلال, được phép / hợp pháp) — bao gồm cả mubah và mustahabb — bất cứ điều gì không bị cấm
+- Chỉ thờ phượng một mình Allah và cầu xin sự giúp đỡ của Ngài. 1:5
+- Chỉ thờ phượng một mình Allah 2:21
+- Chớ đặt các đối tác ngang hàng với Allah 2:22
+- Allah là Đấng tha thứ (chấp nhận sự ăn năn), Ngài đã chấp nhận sự ăn năn của Adam (عَلَيْهِ ٱلسَّلَامُ). 2:37
+- Chớ trộn lẫn chân lý với giả dối và chớ che giấu chân lý. 2:42
+- Hãy dâng lễ nguyện Salah (các lễ nguyện hàng ngày) và bố thí Zakat. 2:43
+- Hãy ra lệnh điều thiện cho người khác chỉ sau khi chính mình đã thực hành nó 2:44
+- Hãy cầu xin sự giúp đỡ của Allah trong mọi công việc của các ngươi 2:45
+- Chớ dính líu vào hay lan truyền sự tham nhũng 2:60
+- Chớ ngăn cản mọi người đến các nơi thờ phượng 2:114
+- Hãy tôn trọng sự thiêng liêng của thánh đường Hồi giáo. Hãy giữ cho nơi cầu nguyện của các ngươi được sạch sẽ và tinh khiết 2:125
+- Hãy tưởng nhớ Allah (bằng lời cầu nguyện, tán dương, v.v.) và Ngài sẽ nhớ đến các ngươi, và hãy biết ơn Ngài. 2:152
+- Hãy kiên nhẫn trong nghịch cảnh 2:153
+- Chớ đi theo bước chân của Shaytan (Satan), kẻ thù công khai. 2:168
+- Chớ mù quáng đi theo bất kỳ ai 2:170
+- Hãy giữ gìn và thực hiện tất cả các nghĩa vụ. Thực hiện các bổn phận tôn giáo của các ngươi một cách chân thành. Hãy thực hiện các lời thề và giao ước của các ngươi. Hãy giữ lời hứa, đặc biệt là những lời hứa với Allah. Hãy ủng hộ những người túng thiếu và xoa dịu nỗi khó khăn. Tránh xa những tội lỗi dẫn đến mất đi ân huệ của Allah. Đừng để sự kiêu ngạo dẫn các ngươi đến bất công 2:177
+- Trong luật Qisas (luật trả đũa công bằng) có sự sống cho các ngươi. 2:179
+- Hãy nhịn chay trong tháng Ramadan. Hãy thực hiện việc nhịn chay được quy định để trở nên ngoan đạo. 2:183
+- Hãy tôn kính Qur'an như nguồn hướng dẫn tối thượng 2:185
+- Chớ ăn tài sản của nhau một cách bất công và chớ đút lót cho các quan tòa (trước khi trình bày các vụ kiện của mình). 2:188
+- Chớ áp bức người khác, dù bằng lời nói hay hành động. Đừng bao giờ chiến đấu với tư cách kẻ xâm lược, mà chỉ để phòng vệ 2:190
+- Hãy bảo vệ trẻ mồ côi. Về trẻ mồ côi, hãy làm việc trung thực với tài sản của chúng và đừng ăn tài sản của chúng. 2:220
+- Hãy ăn năn và cầu xin sự tha thứ của Allah. Đừng quan hệ tình dục trong thời kỳ kinh nguyệt. Hãy giữ gìn sự sạch sẽ và tinh khiết (cả về thể chất lẫn tinh thần) 2:222
+- Hãy thực hiện trách nhiệm của các ngươi đối với gia đình 2:233
+- Hãy chọn lãnh đạo dựa trên năng lực của họ 2:247
+- Không cưỡng bức trong tôn giáo 2:256
+- Hãy chi tiêu tài sản vào việc từ thiện. Hãy rộng rãi cả về tài sản và thời gian 2:261
+- Chớ làm mất hiệu quả của việc bố thí bằng cách khoe khoang về sự rộng lượng của mình 2:264
+- Shaytan (Satan) đe dọa các ngươi bằng nghèo đói và ra lệnh cho các ngươi làm điều xấu xa (tội lỗi). 2:268
+- Hãy tìm kiếm người túng thiếu và giúp đỡ họ 2:273
+- Đừng dính líu đến cho vay nặng lãi hoặc lãi suất. Chớ ăn tài sản có lãi suất. Chớ ăn Riba (cho vay nặng lãi). 2:275
+- Hãy cho con nợ thêm thời gian để trả nếu họ đang gặp khó khăn 2:280
+- Hãy giữ lời trong các giao dịch thương mại. Hãy trung thực trong các vấn đề tài chính của các ngươi. Hãy hành động với sự chính trực trong mọi cam kết. Khi các ngươi ký một hợp đồng vay nợ có thời hạn cố định, hãy viết nó ra. Hãy có người làm chứng mỗi khi các ngươi thực hiện một hợp đồng thương mại. 2:282
+- Hãy giữ gìn và thực hiện tất cả các nghĩa vụ 2:283
+- Hãy tin vào các Kinh sách đã được ban xuống và tất cả các vị Nabi 2:285
+- Allah không bắt một ai quá sức chịu đựng của họ. Họ sẽ nhận phần thưởng cho những (điều tốt) mà họ đã làm, và bị trừng phạt vì những (điều xấu) mà họ đã làm. Allah không bắt một ai quá sức chịu đựng của họ; và chúng ta cũng không nên làm vậy. Hãy tin tưởng vào kế hoạch của Allah ngay cả trong hoạn nạn 2:286
+- Ai thực hiện lời hứa và sợ Allah, thì Allah yêu thương những người ngoan đạo. 3:76
+- Hãy thực hiện Hajj (cuộc hành hương) nếu các ngươi có khả năng 3:97
+- Đừng chia rẽ 3:103
+- Hãy ra lệnh điều phải và cấm điều sai. Hãy khuyến khích sự công chính trong cộng đồng của các ngươi. Hãy mời gọi người khác tưởng nhớ Allah 3:104
+- Những người có đức tin phải phó thác nơi Allah. 3:122
+- Chớ ăn Riba (cho vay nặng lãi). 3:130
+- Hãy vâng lời Allah và Sứ giả của Ngài để nhận được lòng thương xót. 3:132
+- Allah yêu thương những người chi tiêu (cho con đường của Allah – việc từ thiện, bố thí, v.v.) trong lúc giàu có lẫn lúc khó khăn, những người kiềm chế cơn giận và những người tha thứ cho người khác. 3:134
+- Hãy kiềm chế cơn giận. 3:134
+- Hãy tha thứ cho những sai lầm của người khác 3:135
+- Đừng thô lỗ trong lời nói. Hãy kiên nhẫn với những người bất đồng quan điểm với các ngươi 3:159
+- Nếu Allah giúp đỡ các ngươi, không ai thắng nổi các ngươi; nếu Ngài ruồng bỏ các ngươi, thì ai sau Ngài có thể giúp đỡ các ngươi? 3:160
+- Mọi người đều sẽ nếm trải cái chết. Và chỉ đến Ngày Phục Sinh, các ngươi mới nhận được phần thưởng trọn vẹn. 3:185
+- Hãy suy nghĩ sâu sắc về những điều kỳ diệu của thiên nhiên và sự sáng tạo của vũ trụ này. Hãy biết rằng Allah đã tạo ra vũ trụ với ý nghĩa và mục đích 3:191
+- Đàn ông và phụ nữ có phần thưởng ngang nhau cho những việc làm của họ 3:195
+- Dành cho những người sợ Chúa của họ, là những khu vườn có dòng sông chảy bên dưới (trên Thiên Đàng); họ sẽ ở đó mãi mãi, như sự tiếp đãi từ Allah. 3:198
+- Hãy luôn luôn phấn đấu vì sự hài lòng của Allah trong mọi hành động. 3:200
+- Hãy trung thành với Chúa của các ngươi, hãy sợ Ngài và đừng cắt đứt mối quan hệ với bà con. 4:1
+- Hãy trả tài sản cho trẻ mồ côi và đừng lấy đồ xấu của các ngươi để đổi lấy đồ tốt của chúng; và đừng ăn tài sản của chúng (bằng cách thêm nó) vào tài sản của các ngươi. 4:2
+- Hãy vui vẻ trao cho những người phụ nữ (các ngươi cưới) Mahr của họ (của hồi môn bắt buộc mà người chồng trao cho vợ vào lúc kết hôn). 4:4
+- Hãy bảo vệ quyền lợi của trẻ mồ côi 4:6
+- Tài sản của người đã khuất phải được phân chia cho các thành viên trong gia đình. Phụ nữ có quyền thừa kế 4:7
+- Chớ ăn tài sản của trẻ mồ côi một cách bất công 4:10
+- Hãy tuân theo các mệnh lệnh về thừa kế 4:11
+- Cấm thừa kế phụ nữ trái ý họ, và các ngươi không nên đối xử tàn tệ với họ. Hãy chung sống với họ (những người vợ) một cách danh dự. Hãy tôn trọng và thực hiện các quyền của phụ nữ. Hãy đối xử với vợ/chồng của các ngươi bằng lòng tốt và sự thương cảm. Hãy đối xử với phụ nữ bằng danh dự và công bằng 4:19
+- Đừng kết hôn với những người có quan hệ huyết thống với các ngươi 4:23
+- Chớ tự sát (hoặc giết lẫn nhau). Quả thật, Allah là Đấng Rất Mực Thương Xót đối với các ngươi. Chớ ăn tài sản của nhau một cách bất công 4:29
+- Nếu các ngươi tránh được những tội lớn đã bị cấm, Allah sẽ xóa bỏ những tội (nhỏ) của các ngươi và đưa các ngươi vào một lối vào cao quý (tức Thiên Đàng). 4:31
+- Chớ thèm muốn những thứ mà Allah đã ưu đãi một số người trong các ngươi hơn những người khác. Hãy tránh đố kỵ và ghen ghét 4:32
+- Đàn ông là người bảo vệ và chu cấp cho phụ nữ, vì Allah đã ban cho một số người ưu thế hơn những người khác, và vì họ chi tiêu tài sản của mình (để chăm sóc họ). Người đàn ông là người bảo vệ và trụ cột của gia đình 4:34
+- Hãy thờ phượng Allah và đừng kết hợp bất cứ điều gì với Ngài, hãy làm điều tốt cho cha mẹ, bà con, trẻ mồ côi, người nghèo, hàng xóm, người bạn đồng hành bên cạnh các ngươi, người lữ hành (các ngươi gặp) và những (nô lệ) mà tay phải các ngươi nắm giữ. Allah không yêu thương những kẻ kiêu ngạo và khoe khoang. Hãy làm điều tốt cho người khác. Hãy thương xót những người yếu đuối. Hãy duy trì mối quan hệ gia đình và tôn vinh bà con. 4:36
+- Đừng keo kiệt 4:37
+- Allah không tha thứ việc kết hợp các đối tác với Ngài, nhưng Ngài tha thứ bất cứ điều gì khác ngoài điều đó cho bất cứ ai Ngài muốn. 4:48
+- Chớ ghen tị với người khác 4:54
+- Allah ra lệnh cho các ngươi phải trả lại những gì được ủy thác cho chủ nhân của chúng. Khi các ngươi phân xử giữa mọi người, hãy phân xử bằng công lý. 4:58
+- Hãy vâng lời Allah và Sứ giả của Ngài. Hãy tôn trọng những người có thẩm quyền trong số các ngươi 4:59
+- Chớ áp bức kẻ yếu và dễ bị tổn thương 4:75
+- Bất cứ điều tốt lành nào đến với các ngươi đều từ Allah, còn bất cứ điều xấu xa nào xảy ra với các ngươi đều từ chính các ngươi. 4:79
+- Ai vâng lời Sứ giả (Muhammad ﷺ) thì thực chất đã vâng lời Allah. 4:80
+- Ai can thiệp cho một việc tốt sẽ nhận được phần thưởng của nó, và ai can thiệp cho một việc xấu sẽ nhận được một phần gánh nặng của nó. 4:85
+- Một người có đức tin không được giết một người có đức tin khác, trừ khi nhầm lẫn. 4:92
+- Ai cố ý giết một người có đức tin, phần thưởng của hắn là Hỏa Ngục, nơi hắn sẽ ở đó mãi mãi. Cơn thịnh nộ và sự nguyền rủa của Allah đổ lên hắn, và một hình phạt lớn đã được chuẩn bị cho hắn. 4:93
+- Ai di cư (khỏi nhà mình) trên con đường của Allah, sẽ tìm thấy trên mặt đất nhiều nơi trú ẩn và dồi dào. 4:100
+- Hãy đúng giờ trong các lời cầu nguyện của các ngươi 4:103
+- Đừng ủng hộ hoặc làm luật sư cho những kẻ phản bội các nghĩa vụ được ủy thác 4:105
+- Hãy cầu xin sự tha thứ của Allah, quả thật Allah là Đấng Tha Thứ, Đấng Nhân Từ. 4:106
+- Hỡi những người có đức tin! Hãy đứng vững vì công lý, làm chứng cho Allah, dù điều đó chống lại chính các ngươi, hoặc cha mẹ, hoặc bà con, dù người đó giàu hay nghèo. Đừng trì hoãn công lý; hãy hành động ngay lập tức để sửa chữa sự bất công 4:135
+- Những kẻ giả hình muốn lừa dối Allah, nhưng chính Ngài mới là Đấng lừa dối họ. 4:142
+- Những kẻ giả hình sẽ ở tầng sâu thấp nhất của Hỏa Ngục; các ngươi sẽ không tìm thấy bất kỳ người giúp đỡ nào cho họ. 4:145
+- Allah không thích điều xấu được nói ra một cách công khai, ngoại trừ những người bị áp bức. 4:148
+- Các Sứ giả được cử đến như những người mang tin mừng và những người cảnh báo, để loài người không có lý do gì để biện minh trước Allah sau khi (các) Sứ giả (đến). 4:165
+- Hãy thực hiện các hợp đồng và lời hứa của các ngươi 5:1
+- Hãy giúp đỡ lẫn nhau trong đức hạnh và lòng mộ đạo, chứ không phải trong tội lỗi và sự thù địch 5:2
+- Chớ ăn xác chết, máu và thịt heo 5:3
+- Hãy công bằng; đừng để sự thù địch và căm ghét của người khác khiến các ngươi xa rời công lý. Hãy công bằng và chính trực trong các giao dịch của các ngươi. Hãy biết rằng công bằng gần với lòng mộ đạo. Đừng trì hoãn công lý; hãy hành động ngay lập tức để sửa chữa sự bất công 5:8
+- Hãy tìm kiếm phương tiện để đến gần Allah và hãy nỗ lực hết sức trên con đường của Ngài, để các ngươi thành công. 5:35
+- Hãy thực hiện các lời thề và giao ước của các ngươi 5:89
+- Hãy tránh xa đồ uống có cồn và rượu. Nghiêm cấm sử dụng đồ uống có cồn (tất cả các loại rượu), cờ bạc, bàn thờ đá và tên để xin xăm, tất cả đều là những điều ô uế từ tác phẩm của Shaytan. 5:90
+- Đừng giết thú rừng khi các ngươi đang trong tình trạng Ihram cho Hajj hoặc 'Umrah. 5:95
+- Đừng hỏi về những điều mà nếu được giải thích cho các ngươi, có thể gây rắc rối cho các ngươi. 5:101
+- Đừng xúc phạm các vị thần của người khác. Đừng xúc phạm những gì họ (những người không tin) tôn thờ ngoài Allah, kẻo họ vô tình xúc phạm đến Allah. 6:108
+- Nếu các ngươi tuân theo số đông trên trái đất, họ sẽ đánh lừa các ngươi khỏi con đường của Allah. Họ chỉ tuân theo những phỏng đoán và họ chỉ nói dối. 6:116
+- Hãy từ bỏ (hỡi nhân loại!) mọi loại tội lỗi, cả công khai lẫn bí mật. 6:120
+- (Hỡi những người có đức tin!) Đừng ăn thịt mà không nhân danh Allah lúc giết mổ. 6:121
+- Người mà Allah muốn hướng dẫn, Ngài mở rộng lồng ngực của người đó cho Islam; còn người mà Ngài muốn để lạc lối, Ngài làm cho lồng ngực của người đó trở nên chật hẹp và bó buộc. 6:125
+- Hãy tiêu xài điều độ và tránh hoang phí. Hãy bảo vệ quyền của mọi sinh vật 6:141
+- Đừng kết hợp bất cứ điều gì trong việc thờ phượng với Allah, hãy làm điều tốt với cha mẹ, đừng giết con cái của các ngươi vì sợ nghèo đói, đừng đến gần những điều ô nhục, đừng giết bất kỳ ai mà Allah đã cấm, trừ khi vì lý do chính đáng. 6:151
+- Hãy trung thực; đừng gian lận trong bất kỳ giao dịch nào của các ngươi. Đừng đến gần tài sản của trẻ mồ côi, ngoại trừ để cải thiện nó, hãy đong đủ và cân đúng, khi các ngươi nói, hãy nói sự thật, ngay cả khi đó là người thân, và hãy thực hiện giao ước của Allah. 6:152
+- Hãy đi theo con đường chính trực và đừng đi theo những con đường khác, vì chúng sẽ chia rẽ các ngươi khỏi con đường của Ngài. 6:153
+- (Hỡi Muhammad ﷺ) Hãy nói: "Quả thật, lễ nguyện của tôi, sự tế lễ của tôi, sự sống của tôi và cái chết của tôi đều vì Allah, Chúa của vạn vật." 6:162
+- Đừng kiêu ngạo 7:13
+- Chớ để Shaytan (Satan) lừa dối các ngươi. 7:27
+- (Hỡi Muhammad ﷺ) Hãy nói: "Chúa của ta đã ra lệnh về công lý..." 7:29
+- Hãy tuân thủ các giới hạn do Allah đặt ra trong mọi vấn đề. Tránh vi phạm trong lời nói và hành động. Hãy ăn uống nhưng đừng quá độ. Hãy mặc quần áo đẹp trong thời gian cầu nguyện 7:31
+- Allah đã tạo ra các tầng trời và trái đất trong Sáu Ngày, rồi Ngài ngự trên Ngai Vương (theo cách xứng đáng với uy nghiêm của Ngài). 7:54
+- Hãy cầu nguyện Chúa của các ngươi một cách khiêm nhường và thầm kín. Ngài không yêu thương những kẻ vượt quá giới hạn. 7:55
+- Đừng gây rối trên trái đất sau khi nó đã được sắp xếp ổn thỏa, và hãy cầu xin Ngài với sự sợ hãi và hy vọng. 7:56
+- Nhưng những người đã làm điều xấu, rồi sau đó ăn năn và có đức tin, quả thật Chúa của các ngươi sau (tất cả) đó là Đấng Tha Thứ, Đấng Nhân Từ. 7:153
+- (Hỡi Muhammad ﷺ) Hãy nói: "Hỡi nhân loại! Quả thật, ta là Sứ giả của Allah gửi đến tất cả các ngươi..." 7:158
+- Và (tất cả) những cái tên đẹp nhất đều thuộc về Allah, vì vậy hãy cầu xin Ngài bằng những tên đó, và hãy rời bỏ những kẻ phủ nhận hoặc xúc phạm đến các tên của Ngài... 7:180
+- Người mà Allah làm cho lạc lối, thì không ai có thể hướng dẫn người đó; và Ngài để họ lang thang mù quáng trong sự vi phạm của họ. 7:186
+- Hãy thể hiện sự khoan dung, ra lệnh điều lành và quay lưng lại với những kẻ ngu dốt (tức đừng trừng phạt họ). 7:199
+- Hãy tha thứ cho những sai lầm của người khác 7:199
+- Nếu có một lời xúi giục xấu xa từ Shaytan (Satan) đến với các ngươi, hãy tìm nơi ẩn náu với Allah. Quả thật, Ngài là Đấng Thấu Đáo, Đấng Sáng Suốt. 7:200
+- Những người có đức tin thực sự là những người, khi Allah được nhắc đến, trái tim họ run sợ, và khi các câu Kinh của Ngài được đọc cho họ, đức tin của họ được tăng thêm... 8:2
+- Chớ phản bội Allah và Sứ giả của Ngài, và chớ cố ý phản bội những gì được ủy thác cho các ngươi (những thứ được giao phó và mọi bổn phận mà Allah đã truyền lệnh cho các ngươi). 8:27
+- Nếu các ngươi tuân theo và sợ Allah, Ngài sẽ ban cho các ngươi Furqan (khả năng phân biệt phải trái). 8:29
+- Những kẻ không tin tiêu tài sản của chúng để ngăn cản (mọi người) khỏi con đường của Allah, và chúng sẽ tiếp tục tiêu xài nó; nhưng cuối cùng nó sẽ trở thành nỗi ân hận cho chúng. 8:36
+- Hãy nói với những kẻ không tin, nếu chúng ngừng lại (không tin), quá khứ của chúng sẽ được tha thứ. Nhưng nếu chúng quay trở lại, thì những hình phạt của những người đi trước đã là một bài học. 8:38
+- Khi các ngươi đối mặt với (lực lượng) kẻ thù, hãy đứng vững và thường xuyên tưởng nhớ đến Allah (bằng cả lời nói và tâm trí), để các ngươi thành công. 8:45
+- Đừng giống như những kẻ rời khỏi nhà của mình một cách khoe khoang và để được người ta thấy, và ngăn cản (mọi người) khỏi con đường của Allah. 8:47
+- Allah sẽ không thay đổi ân huệ mà Ngài đã ban cho một dân tộc cho đến khi họ thay đổi những gì trong tâm hồn họ. 8:53
+- Những sinh vật xấu xa nhất trước Allah là những kẻ không tin. 8:55
+- Allah đặt tình yêu và sự gắn bó vào trái tim của những người có đức tin nơi Ngài 8:63
+- Hãy bảo vệ và giúp đỡ những người tìm kiếm sự bảo vệ 9:6
+- Những kẻ đa thần không xứng đáng để quản lý các thánh đường của Allah. 9:17
+- Chúng (những kẻ không tin, người Do Thái và Cơ Đốc giáo) muốn dập tắt ánh sáng của Allah (cùng với Muhammad ﷺ được cử đến – thuyết độc thần Hồi giáo) bằng miệng của chúng, nhưng Allah sẽ không cho phép ngoài việc ánh sáng của Ngài được hoàn thiện, dù những kẻ không tin có ghét bỏ điều đó. 9:32
+- Zakat (bố thí) chỉ dành cho: 1) người nghèo, 2) người túng thiếu, 3) những người làm công thu gom nó, 4) để thu hút trái tim của những người thiên về Islam, 5) để giải phóng nô lệ, 6) cho những người mắc nợ, 7) cho con đường của Allah (tức là cho Mujahidun), và 8) cho người lữ hành. 9:60
+- Ai chống đối và thù địch với Allah và Sứ giả của Ngài (ﷺ), thì chắc chắn sẽ bị lửa Địa Ngục, nơi mà hắn sẽ ở đó mãi mãi. Đó là sự sỉ nhục lớn. 9:63
+- Những kẻ giả hình, nam và nữ, đều giống nhau. Chúng quên Allah, nên Ngài cũng quên chúng. 9:67
+- Hãy phấn đấu vì sự trong sạch. Hãy tôn trọng sự thiêng liêng của thánh đường 9:108
+- Nabi và những người có đức tin không được phép cầu xin sự tha thứ của Allah cho những kẻ đa thần, ngay cả khi chúng là bà con, sau khi đã rõ ràng với họ rằng chúng là cư dân của Hỏa Ngục (vì chúng đã chết trong tình trạng không tin). 9:113
+- Ai bất công hơn kẻ bịa đặt lời nói dối chống lại Allah hoặc phủ nhận các câu Kinh của Ngài? Quả thật, những kẻ phạm tội sẽ không bao giờ thành công! 10:17
+- Chúng thờ phượng ngoài Allah những thứ không thể gây hại hay mang lại lợi ích cho chúng, và chúng nói: "Đây là những người can thiệp của chúng tôi trước Allah." Hãy nói: "Phải chăng các ngươi báo cho Allah biết điều mà Ngài không biết trên các tầng trời và dưới đất?" Vinh danh và tôn cao Ngài vượt trên những gì chúng kết hợp với Ngài! 10:18
+- Phần thưởng cho một điều xấu là một điều xấu tương tự. 10:27
+- Đó là Allah, Chúa thực sự của các ngươi. Vậy sau lẽ phải, còn gì ngoài sự lầm lạc? Vậy làm thế nào các ngươi lại bị đánh lừa? 10:32
+- Hầu hết chúng chỉ tuân theo những phỏng đoán. Quả thật, phỏng đoán không thể thay thế được sự thật. 10:36
+- Quả thật, Allah không hề bất công với loài người, nhưng loài người tự bất công với chính mình. 10:44
+- Hãy biết rằng ân huệ của Allah tốt hơn bất cứ thứ gì con người có thể tích lũy hay thu gom 10:58
+- Đừng trở thành một trong những kẻ phủ nhận các câu Kinh của Allah, vì khi đó các ngươi sẽ thuộc về những kẻ thất bại. 10:95
+- Nếu Allah làm hại các ngươi, không ai có thể loại bỏ nó ngoại trừ Ngài; và nếu Ngài muốn điều tốt cho các ngươi, không ai có thể đẩy lùi ân huệ của Ngài mà Ngài ban cho bất cứ ai Ngài muốn trong số các tôi tớ của Ngài. 10:107
+- Không có bất kỳ sinh vật nào trên trái đất mà nguồn sống của nó không phụ thuộc vào Allah. Ngài biết nơi ở và nơi cất giấu (trong tử cung, mộ, v.v.) của nó. 11:6
+- Nếu chúng ta cho con người nếm trải lòng thương xót từ nơi chúng ta, rồi lấy nó đi khỏi họ, họ trở nên tuyệt vọng và vô ơn. 11:9
+- Ai mong muốn cuộc sống trần thế và sự huy hoàng của nó, chúng ta sẽ trả cho họ đầy đủ (phần thưởng) cho những việc làm của họ trong đó, và họ sẽ không bị thiếu thốn. 11:15
+- Chúng tôi đã không bất công với họ, nhưng họ tự bất công với chính mình. Vì vậy, những thần linh mà họ cầu nguyện ngoài Allah đã chẳng giúp ích gì cho họ khi mệnh lệnh của Chúa các ngươi đến, và chúng chẳng thêm gì cho họ ngoài sự hủy diệt. 11:101
+- Vào Ngày mà nó (Ngày Phán Xét) đến, không ai được nói ngoại trừ với sự cho phép của Ngài. Trong số họ, có kẻ bất hạnh và có người may mắn. 11:105
+- Những kẻ bất hạnh sẽ ở trong Hỏa Ngục, họ sẽ rên rỉ và khóc than. 11:106
+- Họ sẽ ở đó mãi mãi chừng nào các tầng trời và trái đất còn tồn tại, trừ khi Chúa của các ngươi muốn khác. Quả thật, Chúa của các ngươi là Đấng làm bất cứ điều gì Ngài muốn. 11:107
+- Còn những người may mắn sẽ ở trong Thiên Đàng, họ sẽ ở đó mãi mãi chừng nào các tầng trời và trái đất còn tồn tại, trừ khi Chúa của các ngươi muốn khác, như một món quà vô tận. 11:108
+- Đừng nghiêng về những kẻ làm điều sai trái, kẻo Hỏa Ngục sẽ chạm đến các ngươi, và các ngươi sẽ không có người bảo vệ nào ngoài Allah, và các ngươi sẽ không được giúp đỡ. 11:113
+- Hãy dâng lễ nguyện Salah vào hai đầu của ban ngày và trong một số giờ của ban đêm (tức là 5 lễ nguyện hàng ngày). Những việc tốt sẽ xóa đi những việc xấu (tức là những tội nhỏ). 11:114
+- Mọi điều bí ẩn của các tầng trời và trái đất đều thuộc về Allah, và mọi công việc đều được trở về với Ngài (để quyết định). 11:123
+- Mọi phán quyết đều thuộc về một mình Allah. Ngài đã ra lệnh rằng các ngươi chỉ thờ phượng một mình Ngài (thuyết độc thần của Ngài), đó là tôn giáo đúng đắn, nhưng hầu hết mọi người không biết. 12:40
+- Đừng bao giờ đánh mất hy vọng vào lòng thương xót của Allah 12:87
+- Và hầu hết mọi người sẽ không có đức tin, ngay cả khi các ngươi tha thiết mong muốn điều đó. 12:103
+- Và hầu hết họ không có đức tin nơi Allah ngoại trừ việc họ kết hợp các đối tác với Ngài (tức là họ là những kẻ đa thần). 12:106
+- (Kinh Qur'an) không phải là lời bịa đặt mà là sự xác nhận các Kinh sách trước đó (Tawrat, Injil và các Kinh thánh khác của Allah) và là lời giải thích chi tiết về mọi thứ, và là sự hướng dẫn và lòng thương xót cho những người có đức tin. 12:111
+- Allah gia tăng nguồn sống cho bất cứ ai Ngài muốn và thu hẹp nó lại (cho bất cứ ai Ngài muốn). 13:26
+- Hãy thường xuyên tưởng nhớ Allah bằng dhikr. Những người có đức tin nơi Allah tìm thấy sự thanh thản trong việc tưởng nhớ Ngài. 13:28
+- Những người có đức tin và làm việc thiện được ban cho niềm vui và sự an tâm. 13:29
+- Những người ưa thích cuộc sống trần thế hơn Đời Sau, và cản trở (mọi người) khỏi con đường của Allah (Islam) và tìm kiếm sự quanh co trong đó – họ đang lầm lạc rất xa. 14:3
+- Hãy thực hành sự khiêm tốn và lòng biết ơn trong việc thờ phượng 14:7
+- Hình ảnh của những kẻ không tin vào Chúa của họ là những việc làm của chúng như tro bụi, bị gió thổi mạnh vào một ngày bão tố; chúng sẽ không thể thu được gì từ những gì chúng đã làm. 14:18
+- Allah sẽ củng cố những người có đức tin bằng lời vững chắc ở đời này (tức là họ sẽ tiếp tục chỉ thờ phượng một mình Allah) và ở Đời Sau. 14:27
+- Đừng nghĩ rằng Allah không biết đến những gì những kẻ sai trái (những kẻ đa thần, những kẻ làm điều ác, v.v.) đang làm, nhưng Ngài trì hoãn chúng đến một Ngày mà mắt sẽ mở to vì kinh hoàng. 14:42
+- Để Allah trả công cho mỗi linh hồn theo những gì nó đã làm. Quả thật, Allah là Đấng Thanh Toán Nhanh Chóng. 14:51
+- Quả thật, chúng tôi đã tạo ra con người từ đất sét khô, từ bùn đen đã được nặn hình. 15:26
+- Và loài jinn, chúng tôi đã tạo ra trước đó từ ngọn lửa rực cháy không khói. 15:27
+- Nó (Hỏa Ngục) có bảy cánh cửa; mỗi cánh cửa được chỉ định cho một nhóm tội nhân cụ thể. 15:44
+- Ngài đã tạo ra con người từ Nutfah (một giọt tinh dịch hỗn hợp của nam và nữ), rồi kìa, con người đó trở thành một kẻ thù công khai. 16:4
+- Và gia súc, Ngài đã tạo ra chúng cho các ngươi; trong chúng có sự ấm áp (quần áo ấm) và nhiều lợi ích, và từ chúng các ngươi ăn. 16:5
+- Và (Ngài đã tạo ra) ngựa, la và lừa để các ngươi cưỡi và làm đồ trang trí. Và Ngài tạo ra những thứ khác mà các ngươi không biết. 16:8
+- Ngài là Đấng đã ban nước (mưa) từ trên trời xuống; các ngươi uống từ nó và từ nó mọc lên cây cối mà các ngươi cho gia súc ăn. 16:10
+- Ngài là Đấng đã chế ngự biển cả (cho các ngươi), để các ngươi ăn thịt tươi (cá) từ đó và để các ngươi lấy ra từ đó đồ trang sức mà các ngươi đeo. 16:14
+- Ngài đã gắn những quả núi vững chắc trên trái đất để nó không rung chuyển với các ngươi, và những dòng sông và con đường, để các ngươi tìm được đường đi. 16:15
+- Vậy Ngài là Đấng Tạo Hóa có giống với kẻ không tạo ra gì không? Các ngươi không chịu suy ngẫm sao? 16:17
+- Nếu các ngươi đếm những ân huệ của Allah, các ngươi sẽ không thể nào đếm xuể. 16:18
+- Allah biết những gì các ngươi che giấu và những gì các ngươi bộc lộ. 16:19
+- Những thứ mà họ (những kẻ đa thần) cầu nguyện ngoài Allah không tạo ra gì cả, nhưng chính chúng lại được tạo ra. 16:20
+- (Chúng) là những vật chết, không có sự sống, và chúng không biết khi nào chúng sẽ được sống lại. 16:21
+- Khi chúng tôi muốn một điều gì, lời của chúng tôi là chỉ nói với nó: "Hãy thành!" và nó thành. 16:40
+- Những kẻ đưa ra những âm mưu xấu xa có cảm thấy an toàn rằng Allah sẽ không làm cho đất sụp xuống dưới chân chúng, hoặc hình phạt sẽ không đến với chúng từ những hướng mà chúng không ngờ tới? 16:45
+- Bất cứ phúc lành và điều tốt lành nào các ngươi có đều từ Allah. Sau đó, khi tai họa chạm đến các ngươi, các ngươi kêu cầu Ngài. 16:53
+- Sau đó, khi Ngài đã loại bỏ tai họa khỏi các ngươi, thì kìa, một số các ngươi lại kết hợp các đối tác với Chúa của họ (Allah). 16:54
+- Trong gia súc có một bài học cho các ngươi. Chúng tôi cho các ngươi uống thứ trong bụng của chúng, từ giữa phân và máu, sữa nguyên chất, dễ chịu cho người uống. 16:66
+- Vì vậy, đừng đưa ra sự tương tự cho Allah (vì không gì giống Ngài, và Ngài không giống bất cứ điều gì). Quả thật! Allah biết và các ngươi không biết. 16:74
+- Hãy biết rằng Allah đã ban cho con người thính giác, thị giác, trí thông minh và tình cảm để họ biết ơn 16:78
+- Hãy tránh xa lòng tham và sự thèm muốn 16:97
+- Khi các ngươi muốn đọc Qur'an, hãy tìm nơi ẩn náu với Allah khỏi Shaytan (Satan), kẻ bị trục xuất (kẻ bị nguyền rủa). 16:98
+- Hãy biết rằng một sự bất công xuất phát từ sự thiếu hiểu biết sẽ được tha thứ nếu người đó ăn năn và sửa chữa bản thân 16:119
+- (Hỡi Muhammad ﷺ) Hãy mời gọi (nhân loại) đến con đường của Chúa các ngươi (Islam) bằng sự khôn ngoan và lời khuyên tốt đẹp, và hãy tranh luận với họ bằng cách tốt nhất. Mời gọi người khác đến con đường của Allah phải được thực hiện bằng sự khôn ngoan và nhân từ 16:125
+- Allah ở cùng những người sợ Ngài (làm bổn phận của họ đối với Ngài) và những người làm điều tốt. 16:128
+- Qur'an này hướng dẫn đến điều công bằng và đúng đắn nhất. 17:9
+- Không ai mang gánh nặng tội lỗi của người khác. 17:15
+- Ai mong muốn Đời Sau và phấn đấu vì nó một cách xứng đáng, trong khi họ có đức tin, thì những người đó là những người mà sự phấn đấu của họ sẽ được ghi nhận, biết ơn và đền đáp (bởi Allah). 17:19
+- Hãy tôn kính cha mẹ và đối xử với họ bằng lòng tốt. Hãy hiếu thảo với cha mẹ. Đừng nói lời bất kính với họ. Và Chúa của các ngươi đã ra lệnh rằng các ngươi chỉ thờ phượng một mình Ngài. Và hãy hiếu thảo với cha mẹ. Nếu một trong hai người hoặc cả hai người sống đến tuổi già bên cạnh các ngươi, đừng nói với họ một lời xúc phạm, cũng đừng quát nạt họ, mà hãy nói với họ bằng lời lẽ tôn kính. 17:23
+- Và hãy hạ thấp cánh khiêm tốn và lòng thương xót đối với họ, và hãy nói: "Lạy Chúa của con! Xin hãy thương xót họ như họ đã nuôi dưỡng con khi con còn thơ ấu." 17:24
+- Quả thật, những kẻ hoang phí là anh em của những tên Shaytan, và Shaytan là kẻ vô ơn đối với Chúa của hắn. 17:27
+- Đừng tiêu xài phung phí tiền bạc 17:29
+- Đừng giết con cái của các ngươi vì sợ nghèo đói 17:31
+- Đừng ngoại tình. Hãy bảo vệ sự thiêng liêng của hôn nhân và tránh xa ngoại tình 17:32
+- Hãy đong đầy đủ khi các ngươi đong, và hãy cân với chiếc cân thẳng. Điều đó là tốt và tốt hơn về cuối cùng. 17:35
+- (Hỡi con người!) Đừng đi theo những điều mà ngươi không có kiến thức (ví dụ như việc nói: "Tôi đã thấy," trong khi thực tế chưa thấy, hoặc "Tôi đã nghe," trong khi chưa nghe). 17:36
+- Hãy khiêm tốn và đừng kiêu ngạo. Đừng bước đi trên trái đất một cách kiêu căng. Quả thật, các ngươi không thể xé toạc trái đất, cũng không thể đạt tới chiều cao của những ngọn núi. 17:37
+- Chúa của các ngươi biết rõ các ngươi nhất; nếu Ngài muốn, Ngài sẽ thương xót các ngươi, hoặc nếu Ngài muốn, Ngài sẽ trừng phạt các ngươi. 17:54
+- Ai bị mù ở thế gian này (tức là không nhìn thấy các dấu hiệu của Allah và không tin vào Ngài), thì sẽ bị mù ở Đời Sau và còn lạc lối hơn trên con đường. 17:72
+- Hãy tuân thủ thời gian cầu nguyện đã được quy định 17:78
+- Quả thật, chúng tôi đã giải thích rõ ràng cho nhân loại trong Qur'an này mọi loại hình ảnh, nhưng hầu hết nhân loại từ chối (sự thật và không chấp nhận gì) ngoài sự vô tín. 17:89
+- Chúng tôi đã đưa ra mọi loại ví dụ trong Qur'an này cho nhân loại. Nhưng con người là kẻ thích tranh cãi hơn bất cứ điều gì. 18:54
+- Đó sẽ là phần thưởng của chúng, Hỏa Ngục; bởi vì chúng đã không tin và coi các câu Kinh của Ta và các Sứ giả của Ta là trò cười và nhạo báng. 18:106
+- Allah không có con (điều này ám chỉ lời vu khống của những người Cơ Đốc giáo chống lại Allah, khi họ nói rằng Jesus là con của Allah). Tôn vinh và tôn cao Ngài vượt trên tất cả những gì họ kết hợp với Ngài. 19:35
+- Hãy nói với mọi người bằng sự nhẹ nhàng 20:44
+- Hãy thi đua với nhau trong việc làm điều tốt 21:90
+- Tránh xa lời nói vô nghĩa 23:3
+- Hãy giữ gìn sự khiêm nhường của các ngươi 23:5
+- Hãy bảo vệ trái tim của các ngươi khỏi những khuynh hướng tội lỗi 23:97
+- Hãy tha thứ cho người khác và bỏ qua lỗi lầm của họ 24:22
+- Hãy tôn trọng quyền riêng tư của người khác, đặc biệt là trong nhà riêng của họ. Hãy thực hiện các quyền của hàng xóm 24:27
+- (Cả nam và nữ) hãy hạ thấp ánh mắt. Hãy giữ gìn sự khiêm nhường và sự trong trắng của các ngươi. 24:30
+- Hãy giữ gìn sự kín đáo trong trang phục và hành vi 24:31
+- Hãy biết rằng Allah ban sự an toàn và bình yên cho những người thờ phượng Ngài và hành động đức hạnh 24:55
+- Đừng vào phòng riêng của cha mẹ mà không xin phép 24:58
+- Hãy khiêm nhường và giản dị 25:63
+- Tránh xa lời khai man và sự lừa dối 25:72
+- Hãy phấn đấu vì phần thưởng ở Đời Sau nhưng đừng lơ là các công việc trần thế của các ngươi 28:77
+- Đừng cầu xin bất kỳ vị thần nào khác cùng với Allah 28:88
+- Đừng thực hành đồng tính luyến ái 29:29
+- Hãy phấn đấu vì sự xuất sắc trong mọi nỗ lực của các ngươi 29:69
+- Hãy dâng lễ nguyện Salah và bố thí Zakat 31:4
+- Hãy ra lệnh điều phải và cấm điều sai 31:17
+- Tránh kiêu ngạo trong hành vi của các ngươi. Tránh lãng phí thời gian vào những lời nói vô bổ 31:18
+- Hãy điều độ trong dáng đi và âm lượng giọng nói của các ngươi 31:19
+- Hãy noi theo gương của Nabi Muhammad 33:21
+- Phụ nữ không nên phô trương hoặc khoe khoang vẻ đẹp và trang sức của họ 33:33
+- Hãy nói sự thật trong mọi hoàn cảnh 33:70
+- Hãy tìm kiếm sự khôn ngoan và thấu hiểu qua sự suy ngẫm 38:29
+- Hãy tuân theo mệnh lệnh của Qur'an 39:23
+- Allah tha thứ mọi tội lỗi khi tội nhân ăn năn và quay về với Ngài 39:53
+- Hãy cầu nguyện một cách thành tâm với Allah 40:60
+- Hãy đẩy lùi điều xấu bằng điều tốt hơn 41:34
+- Hãy quyết định các công việc bằng sự tham vấn 42:38
+- Đừng nâng giọng của các ngươi cao hơn giọng của Nabi 49:2
+- Hãy giữ bí mật và tránh xa sự phản bội 49:6
+- Hãy hòa giải những người đang xung đột. Hãy tìm kiếm sự hòa giải trong các cuộc tranh chấp 49:9
+- Đừng nhạo báng người khác 49:11
+- Tránh xa sự nghi ngờ. Tránh xa việc do thám và nói xấu sau lưng. Đừng vu khống hoặc nói xấu người khác. Hãy tránh xa mọi hình thức nói xấu và vu khống. Đừng để sự kiêu ngạo dẫn các ngươi đến bất công 49:12
+- Hãy biết rằng chính sự ngay thẳng mới làm cho một người trở nên cao quý. Hãy tôn trọng sự khác biệt giữa các dân tộc và các nền văn hóa 49:13
+- Hãy tôn kính khách 51:26
+- Hãy ý thức về bổn phận của các ngươi đối với Allah 51:56
+- Hãy chi tiêu tài sản vào việc từ thiện 57:7
+- Hãy biết rằng không có chủ nghĩa tu hành (khổ hạnh – từ bỏ hôn nhân và tiện nghi như các tu sĩ, nữ tu hoặc những người sống dưới lời thề tôn giáo) trong tôn giáo 57:27
+- Đừng để của cải làm các ngươi xao lãng việc tưởng nhớ Allah 58:11
+- Những người có kiến thức sẽ được Allah nâng cao phẩm cấp 58:11
+- Hãy đối xử với người không theo Hồi giáo một cách tử tế và công bằng 60:8
+- Tránh xa sự giả hình trong niềm tin và hành động của các ngươi 63:9
+- Hãy tránh xa lòng tham và sự keo kiệt 64:16
+- Hãy bảo vệ những điều mặc khải được giao phó cho các ngươi 73:15
+- Hãy ý thức về Ngày Phán Xét 75:36
+- Hãy ra lệnh về sự kiên nhẫn và lòng trắc ẩn 90:17
+- Những ai thanh lọc tâm hồn mình sẽ thành công, và những ai làm ô uế nó sẽ thất bại 91:10
+- Đừng phớt lờ hoặc xua đuổi người túng thiếu 93:10
+- Hãy tìm kiếm kiến thức và sự hiểu biết. Hãy đọc và suy ngẫm về Qur'an 96:1–5
+- Hãy khuyến khích việc cho người nghèo ăn 107:3
 """;

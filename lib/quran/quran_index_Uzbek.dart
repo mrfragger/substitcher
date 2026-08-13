@@ -3317,4 +3317,280 @@ Matching Phrases 8 words
 - Alloh bandalaridan xohlaganiga rizqni keng qiladi va toraytiradi. (اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ) 28:82; 29:62
 - Yashirin va oshkora narsalarni biluvchiga qaytarilasizlar va qilgan amallaringizni sizlarga xabar qiladi. (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
 - Qarindoshlar, Allohning Kitobida bir-birlariga ko'proq haqliroqdirlar. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
+cmds - Commands, Exhortations, Prohibitions, Instructions
+- fard / wajib (فرض / واجب) — farz / vojib (bajarish shart; tashlash gunoh)
+- mustahabb / mandub (مستحب / مندوب) — mustahab / mandub (qilsa savob, tashlasa gunoh emas)
+- mubah (مباح) — muboh (na savob, na gunoh)
+- makruh (مكروه) — makruh (ko'ngilsiz, qilish tavsiya etilmaydi, lekin qilsa gunoh emas)
+- haram (حرام) — harom (qilish gunoh)
+- halal (حلال, halol / joiz) — muboh va mustahabni o'z ichiga oladi — harom bo'lmagan hamma narsa
+- Faqat Allohga ibodat qiling va Undan yordam so'rang. 1:5
+- Faqat Allohga ibodat qiling 2:21
+- Allohga hech kimni sherik keltirmang 2:22
+- Alloh kechiruvchidir (tavbani qabul qiluvchidir), U Odam (عَلَيْهِ ٱلسَّلَامُ) ning tavbasini qabul qildi. 2:37
+- Haqni botil bilan aralashtirmang va haqni yashirmang. 2:42
+- Namozni o'qing va zakotni bering. 2:43
+- Boshqalarga yaxshilikni buyurishdan oldin o'zingiz uni amal qiling 2:44
+- Barcha ishlaringizda Allohdan yordam so'rang 2:45
+- Buzg'unchilikka qo'shilmang va uni tarqatmang 2:60
+- Odamlarni ibodatxonalarga borishdan to'smang 2:114
+- Masjidning muqaddasligiga hurmat qiling. Namoz o'qiydigan joylaringizni pok va toza tuting 2:125
+- Allohni (namoz, tasbeh va boshqalar bilan) eslang, U sizni eslaydi va Unga shukr qiling. 2:152
+- Qiyinchilikda sabr qiling 2:153
+- Shaytonning (iblisning) izidan yurmang, u ochiq dushmandir. 2:168
+- Hech kimga ko'r-ko'rona ergashmang 2:170
+- Barcha omonatlarni ado qiling va saqlang. Diniy vazifalaringizni ixlos bilan ado qiling. Qasamlaringiz va ahdlaringizni bajaring. Va'dalaringizni, ayniqsa Allohga bergan va'dalaringizni bajo keltiring. Muhtojlarga yordam bering va qiyinchiliklarni yengillashtiring. Allohning inoyatini yo'qotadigan gunohlardan saqlaning. Kibr sizni zulmga olib borishiga yo'l qo'ymang 2:177
+- Qasosda (jazoda tenglik qonunida) siz uchun hayot bor. 2:179
+- Ramazon oyida ro'za tuting. Taqvodor bo'lish uchun belgilangan ro'zani tuting. 2:183
+- Qur'onga hidoyatning eng yuqori manbai sifatida hurmat qiling 2:185
+- Bir-biringizning molini nohaq yemang va (da'volaringizni taqdim qilishdan oldin) hokimlarga pora bermang. 2:188
+- Boshqalarga, so'z yoki harakat bilan, zulm qilmang. Hech qachon tajovuzkor bo'lib urushmang, faqat himoya uchun urushing 2:190
+- Yetimlarni himoya qiling. Yetimlar haqida, ularning molida ishonch bilan ish tuting va ularning molini yemang. 2:220
+- Tavba qiling va Allohdan mag'firat so'rang. Hayz vaqtida jinsiy aloqada bo'lmang. Poklikni (jismoniy va ruhiy) saqlang 2:222
+- Oilangiz oldidagi majburiyatlaringizni bajo keltiring 2:233
+- Rahbarlarni ularning layoqatiga qarab tanlang 2:247
+- Dinda hech qanday majburlash yo'q 2:256
+- Mollarini xayr-ehson qiling. Mol va vaqtda saxovatli bo'ling 2:261
+- Saxovatingiz bilan maqtanib, sadaqani bekor qilmang 2:264
+- Shayton sizni qashshoqlik bilan qo'rqitadi va sizga buzuq ishlarni (gunohlarni) buyuradi. 2:268
+- Muhtojlarni qidirib toping va ularga yordam bering 2:273
+- Sudxo'rlik yoki foiz bilan shug'ullanmang. Foizli molni yemang. Ribo (foiz) ni yemang. 2:275
+- Qarzdor qiyin ahvolda bo'lsa, unga to'lash uchun ko'proq vaqt bering 2:280
+- Savdo ishlarida so'zingizga vafo qiling. Moliyaviy ishlaringizda rostgo'y bo'ling. Barcha va'dalaringizda halol bo'ling. Muayyan muddatga qarz olganingizda, uni yozib qo'ying. Har qanday tijorat shartnomasi tuzganingizda guvoh tuting. 2:282
+- Barcha omonatlarni ado qiling va saqlang 2:283
+- Nozil qilingan Kitoblarga va barcha payg'ambarlarga imon keltiring 2:285
+- Alloh hech bir jonga uning toqati yetmaydigan narsani yuklamaydi. U qilgan (yaxshi) ishlarining savobini oladi va qilgan (yomon) ishlarining jazosini tortadi. Alloh hech bir jonga uning toqati yetmaydigan narsani yuklamaydi; biz ham bunday qilmasligimiz kerak. Qiyinchilikda ham Allohning rejasiga ishoning 2:286
+- Kim va'dasiga vafo qilib, Allohdan qo'rsaqsa, albatta Alloh taqvodorlarni sevadi. 3:76
+- Hajni qila olsangiz, haj qiling 3:97
+- Bo'linib ketmang 3:103
+- Yaxshilikka buyuring va yomonlikdan qaytaring. Jamiyatingizda yaxshilikni rag'batlantiring. Boshqalarni Allohni eslashga da'vat qiling 3:104
+- Mo'minlar Allohga tavakkal qilsinlar. 3:122
+- Ribo (foiz) ni yemang. 3:130
+- Rahmatga erishish uchun Allohga va Uning Payg'ambariga itoat qiling. 3:132
+- Alloh boylikda va qashshoqlikda (Alloh yo'lida) xayr-ehson qiladiganlarni, g'azabini yutadiganlarni va odamlarni kechiradiganlarni sevadi. 3:134
+- G'azabingizni bosib turing. 3:134
+- Boshqalarning xatolarini kechiring 3:135
+- So'zda qo'pol bo'lmang. Sizga qarshi bo'lganlarga sabr qiling 3:159
+- Agar Alloh sizga yordam bersa, hech kim sizni yengolmaydi; agar U sizni qo'yib yuborsa, Undan keyin kim sizga yordam bera oladi? 3:160
+- Har bir jon o'limni totadi. Va faqat qiyomat kunida sizga ajrlaringiz to'liq beriladi. 3:185
+- Tabiat mo'jizalari va bu koinotning yaratilishi haqida chuqur o'ylang. Alloh koinotni ma'no va maqsad bilan yaratganini biling 3:191
+- Erkaklar va ayollar qilgan ishlari uchun teng savob oladilar 3:195
+- Robbilaridan qo'rqqanlar uchun, ostidan daryolar oqadigan bog'lar (jannatda) bor; ular u yerda abadiy qoladilar, bu Allohdan kelgan mehmondir. 3:198
+- Har bir ishda Allohning roziligini ko'zda tuting. 3:200
+- Robbingizga itoat qiling, Undan qo'rqing va qarindoshlik aloqalarini (uzmang). 4:1
+- Yetimlarga mol-larini bering va (o'zingizning) yomon mollaringizni (ularning) yaxshi mollari bilan almashtirmang; va ularning molini o'z molingizga qo'shib yemang. 4:2
+- O'zingiz uylanayotgan ayollarga mahrlarini (nikoh vaqtida erning ayolga berishi shart bo'lgan to'y hadyasi) ko'ngil bilan bering. 4:4
+- Yetimlarning huquqlarini himoya qiling 4:6
+- O'lgan kishining moli oila a'zolari o'rtasida taqsimlanishi kerak. Ayollarning meros huquqi bor 4:7
+- Yetimlarning molini nohaq yemang 4:10
+- Meros haqidagi amrlarga itoat qiling 4:11
+- Ayollarni ularning xohishiga qarshi meros qilib olish harom qilindi va siz ularga qattiq muomala qilmang. Ular (xotinlar) bilan yaxshi munosabatda bo'ling. Ayollarning huquqlariga hurmat qiling va rioya qiling. Turmush o'rtog'ingizga mehr va muruvvat bilan muomala qiling. Ayollarga hurmat va adolat bilan muomala qiling 4:19
+- Qon qarindoshlaringiz bilan turmush qurmang 4:23
+- O'zingizni (yoki bir-biringizni) o'ldirmang. Albatta Alloh sizga mehribondir. Bir-biringizning molini nohaq yemang 4:29
+- Agar siz katta gunohlardan saqlansangiz, Alloh sizning (kichik) gunohlaringizni o'chiradi va sizni ulug' darajaga (jannatga) kiritadi. 4:31
+- Alloh ba'zingizni ba'zingizdan ustun qilgan narsalarga qo'ziquvchi bo'lmang. Hasad va qizg'anishdan saqlaning 4:32
+- Erkaklar ayollarning himoyachilari va boquvchilaridir, chunki Alloh ba'zilarini ba'zilaridan ustun qildi va ular (ayollarni boqish uchun) o'z mollaridan sarflaydi. Erkak oilaning himoyachisi va tayanchidir 4:34
+- Allohga ibodat qiling va Unga hech narsani sherik keltirmang, ota-onaga, qarindoshlarga, yetimlarga, miskinlarga, qo'shnilarga, yoningizdagi hamsohbaga, yo'lovchiga va qo'l ostingizdagi qullarga yaxshilik qiling. Alloh kibrlanuvchi va maqtanchoq kishilarni sevmaydi. Boshqalarga yaxshilik qiling. Zaiflarni rahm qiling. Qarindoshlik aloqalarini saqlang va qarindoshlarni hurmat qiling. 4:36
+- Buxil bo'lmang 4:37
+- Alloh o'ziga sherik keltirilishini kechirmaydi, ammo bundan boshqa narsani o'zi xohlagan kishiga kechiradi. 4:48
+- Boshqalarga hasad qilmang 4:54
+- Alloh sizga omonatlarni egalariga topshirishni va odamlar o'rtasida hukm chiqarganingizda adolat bilan hukm qilishni buyuradi. 4:58
+- Allohga va Uning Payg'ambarga itoat qiling. O'z orangizdagi amirlarga hurmat qiling 4:59
+- Kuchsiz va zaiflarga zulm qilmang 4:75
+- Sizga kelgan har bir yaxshilik Allohdandir, sizga kelgan har bir yomonlik esa o'zingizdandir. 4:79
+- Kim Payg'ambarga (Muhammad ﷺ) itoat qilsa, Allohga itoat qilgan bo'ladi. 4:80
+- Kim yaxshi ishga shafoat qilsa, unga uning savobidan ulush bor; kim yomon ishga shafoat qilsa, unga uning gunohidan ulush bor. 4:85
+- Bir mo'minning o'zidan boshqa bir mo'minni xatolikdan boshqa o'ldirishi joiz emas. 4:92
+- Kim bir mo'minni qasddan o'ldirib qo'ysa, uning jazosi do'zax bo'lib, u yerda abadiy qoladi. Unga Allohning g'azabi va la'nati bor va unga katta azob tayyorlangan. 4:93
+- Kim Alloh yo'lida (o'z uyidan) hijrat qilsa, u er yuzida ko'plab boshpana va kenglik topadi. 4:100
+- Namozlarga rioya qiling 4:103
+- Omonatga xiyonat qiladiganlarni qo'llamang yoki ularning vakili bo'lmang 4:105
+- Allohdan mag'firat so'rang, albatta Alloh juda mag'firatli, juda mehribondir. 4:106
+- Ey imon keltirganlar! Alloh uchun guvoh bo'lib, o'zingizning yoki ota-onangizning yoki qarindoshlaringizning ziyoniga bo'lsa ham, u boy yoki kambag'al bo'lsa ham, adolat bilan tik turing. Adolatni kechiktirmang; zulmni tuzatish uchun darhol harakat qiling 4:135
+- Munofiqlar Allohni aldamoqchi bo'ladilar, aslida U ularni aldaydi. 4:142
+- Munofiqlar do'zaxning eng tubida bo'ladilar, sen ularga hech qachon yordamchi topolmaysan. 4:145
+- Alloh zulmga uchragan kishidan boshqa, yomonlikni oshkora aytishni sevmaydi. 4:148
+- Payg'ambarlarni xush xabar beruvchilar va ogohlantiruvchilar qilib (yubordik), toki payg'ambarlardan keyin odamlarning Allohga qarshi hech qanday dalillari bo'lmasin. 4:165
+- Ahdlaringiz va va'dalaringizga vafo qiling 5:1
+- Yaxshilik va taqvoda bir-biringizga yordam bering, gunoh va dushmanlikda yordam bermang 5:2
+- O'lik, qon va cho'chqa go'shtini yemang 5:3
+- Adolatli bo'ling; boshqalarning dushmanligi va adovati sizni adolatdan qaytarmasin. Ishlaringizda adolatli va to'g'ri bo'ling. Adolatning taqvoga yaqin ekanligini biling. Adolatni kechiktirmang; zulmni tuzatish uchun darhol harakat qiling 5:8
+- Allohga yaqinlashish uchun vosita izlang va muvaffaqiyat qozonish uchun Uning yo'lida qo'lingizdan kelganicha harakat qiling. 5:35
+- Qasamlaringiz va ahdlaringizga vafo qiling 5:89
+- Ichkilik va alkogoldan saqlaning. Ichkilikdan (barcha turdagi spirtli ichimliklar), qimordan, butlardan va fol o'qlaridan qattiq saqlaning, bularning barchasi shayton ishlaridan nopoklikdir. 5:90
+- Siz haj yoki umra uchun ehrom holatida bo'lganingizda, ov qilmang. 5:95
+- Agar sizga tushuntirilsa, sizga qiyinchilik keltirishi mumkin bo'lgan narsalarni so'ramang. 5:101
+- Boshqalarning butlariga so'kmang. Ular (kofirlar) Allohdan boshqa sig'inadigan narsalarga so'kmang, aks holda ular johillik bilan Allohga so'kadilar. 6:108
+- Agar siz er yuzidagi ko'pchilikka itoat qilsangiz, ular sizni Allohning yo'lidan ozdiradilar. Ular faqat gumonga ergashadilar va faqat yolg'on gapiradilar. 6:116
+- (Ey insonlar!) Barcha gunohlarni, oshkora va yashirin, tashlang. 6:120
+- (Ey imon keltirganlar!) Ustiga (so'yish vaqtida) Allohning nomi aytilmagan go'shtni ymang. 6:121
+- Alloh kimni hidoyat qilishni xohlasa, uning ko'ksini Islomga ochadi, kimni ozdirishni xohlasa, uning ko'ksini tor va qisilgan qilib qo'yadi. 6:125
+- Xarajatda o'rtacha bo'ling va isrof qilmang. Barcha maxluqotlarning huquqlarini himoya qiling 6:141
+- Allohga hech narsani sherik keltirmang, ota-onaga yaxshilik qiling, qashshoqlikdan qo'rqib bolalaringizni o'ldirmang, yomon ishlarga yaqinlashmang, Alloh harom qilgan hech qanday jonni nohaq o'ldirmang. 6:151
+- Ishonchli bo'ling; hech qanday savdoda aldqilik qilmang. Yetimning moliga yaqinlashmang, faqat uni yaxshilash uchun, o'lchovni to'liq va tarozini adolatli tuting, so'zlaganingizda rost so'zlang, hatto yaqin qarindosh bo'lsa ham, va Allohning ahdiga vafo qiling. 6:152
+- To'g'ri yo'lga erishing va (boshqa) yo'llarga ergashmang, chunki ular sizni Uning yo'lidan ajratib qo'yadi. 6:153
+- (Ey Muhammad ﷺ) Ayting: "Namozim, ibodatlarim, hayotim va o'limim olamlarning Robbi Alloh uchundir." 6:162
+- Kibrlanmang 7:13
+- Shayton sizni aldamasin. 7:27
+- (Ey Muhammad ﷺ) Ayting: "Robbim adolatni buyurdi..." 7:29
+- Barcha ishlarda Alloh belgilagan chegaralarga rioya qiling. So'z va harakatda chegaradan oshishdan saqlaning. Yeng va iching, lekin isrof qilmang. Namoz vaqtida yaxshi kiyimlarni kiying 7:31
+- Alloh osmonlar va erni olti kunda yaratdi, so'ng Arshga qaror topdi (Uning ulug'vorligiga munosib tarzda). 7:54
+- Robbingizga tavozu va yashirincha iltijo qiling. U chegaradan oshuvchilarni sevmaydi. 7:55
+- Er isloh qilinganidan keyin unda buzuqchilik qilmang va unga qo'rqinch va umid bilan iltijo qiling. 7:56
+- Ammo yomon ishlar qilib, keyin tavba qilib, imon keltirganlar, albatta Robbing shundan keyin juda mag'firatli, juda mehribondir. 7:153
+- (Ey Muhammad ﷺ) Ayting: "Ey insonlar! Men sizlarning barchangizga Allohning Payg'ambari bo'ldim..." 7:158
+- Eng go'zal ismlar Allohningdir, bas, uni shu ismlar bilan chaqiring va Uning ismlarini buzadiganlarni tashlab qo'ying... 7:180
+- Alloh kimni ozdirsa, unga hech qanday hidoyat qiluvchi yo'q va ularni gumrohliklarida sarson qilib qo'yadi. 7:186
+- Kechirimni odat qiling, yaxshilikka buyuring va nodonlardan yuz o'giring (ya'ni ularni jazolamang). 7:199
+- Boshqalarning xatolarini kechiring 7:199
+- Agar senga shaytondan bir vasvasa kelsa, Allohdan panoh so'ra. Albatta U eshituvchi va biluvchidir. 7:200
+- Mo'minlar faqat Alloh eslanganda qalblari qo'rqinchga to'ladigan, Uning oyatlari tilovat qilinganda imonlari kuchayadigan kishilardir... 8:2
+- Allohga va Uning Payg'ambariga xiyonat qilmang va bila turib omonatlaringizga (sizga topshirilgan narsalar va Alloh sizga yuklagan barcha vazifalarga) xiyonat qilmang. 8:27
+- Agar siz Allohga itoat qilsangiz va Undan qo'rsaqsangiz, U sizga Furqonni (haq-botilni ajratish qobiliyatini) beradi. 8:29
+- Kofirlar o'z mollarini (odamlarni) Allohning yo'lidan to'sish uchun sarflaydilar va sarflaydilar; ammo oxirida bu ularga hasrat bo'ladi. 8:36
+- Kofirlarga aytingki, agar ular (kufrlaridan) qaytsalar, o'tgan (gunohlari) kechiriladi. Agar ular yana (kufrga) qaytsalar, unda oldingilarning odati (o'xshash jazo) o'tgan. 8:38
+- Sizlar (dushman) qo'shini bilan to'qnashganingizda, ularga qarshi matonatli bo'ling va muvaffaqiyat qozonish uchun Allohning ismini ko'p zikr qiling (til va qalb bilan). 8:45
+- O'z uylaridan kibr bilan va odamlarga ko'rinish uchun chiqqan va (odamlarni) Allohning yo'lidan to'sganlarga o'xshamang. 8:47
+- Alloh bir qavmga bergan ne'matini, ular o'zlarini o'zgartirmagunlaricha o'zgartirmaydi. 8:53
+- Allohning nazarida jonzotlarning eng yomoni kofirlardir. 8:55
+- Alloh Unga imon keltirganlarning qalblari orasiga muhabbat va mehrni soladi 8:63
+- Panoh so'raganlarni himoya qiling va ularga yordam bering 9:6
+- Mushriklarning Allohning masjidlarini obod qilishlari munosib emas. 9:17
+- Ular (kofirlar, yahudiy va nasroniylar) Allohning nurini (Muhammad ﷺ yuborilgan Islom tavhidini) og'izlari bilan o'chirmoqchi bo'ladilar, ammo kofirlar yomon ko'rsalar ham, Alloh o'z nurini mukammal qilishdan boshqasiga yo'l qo'ymaydi. 9:32
+- Sadaqa (zakot) faqat: 1) faqirlar, 2) miskinlar, 3) uni yig'ish bilan vazifalanganlar, 4) qalblari Islomga moyil qilinganlar, 5) qullarni ozod qilish, 6) qarzdorlar, 7) Alloh yo'lida (mujohidlar) va 8) yo'lovchilar uchundir. 9:60
+- Kim Allohga va Uning Payg'ambariga (ﷺ) qarshi chiqsa va dushmanlik qilsa, unga do'zax o'ti bo'lib, u yerda abadiy qoladi. Bu katta xordir. 9:63
+- Munofiqlar, erkak va ayol, bir-biridandir. Ular Allohni unutdilar, Alloh ham ularni unutdi. 9:67
+- Poklik uchun harakat qiling. Masjidning muqaddasligiga hurmat qiling 9:108
+- Mushriklarning do'zaxlik ekanligi aniq bo'lgandan keyin, Payg'ambar va mo'minlarga ular qarindosh bo'lsa ham (kufrda o'lganlari uchun) ular uchun mag'firat so'rashlari munosib emas. 9:113
+- Allohga yolg'on to'qigan yoki Uning oyatlarini yolg'onga chiqargan kishidan zolimroq kim bor? Albatta jinoyatchilar hech qachon muvaffaqiyat qozonmaydilar! 10:17
+- Ular Allohni qo'yib, o'zlariga zarar yoki foyda keltira olmaydigan narsalarga ibodat qiladilar va: "Bular Allohning huzuridagi bizning shafoatchilarimizdir" deydilar. Ayting: "Sizlar Allohga osmonlar va erda bilmaydigan narsani xabar qilyapsizlarmi?" Ular sherik keltirayotgan narsalardan Alloh pok va yuksakdir! 10:18
+- Yomonlikning jazosi o'xshash yomonlikdir. 10:27
+- Alloh, sizlarning haqiqiy Robbingizdir. Haqdan so'ng gumrohlikdan boshqa nima bor? Qanday og'irilib ketmoqdasizlar? 10:32
+- Ularning ko'pchiligi faqat gumonga ergashadi, gumon haqning o'rnini boss olmaydi. 10:36
+- Alloh odamlarga hech qachon zulm qilmaydi, lekin odamlar o'zlariga zulm qiladilar. 10:44
+- Allohning ne'mati insonning to'plashi mumkin bo'lgan hamma narsadan yaxshiroq ekanligini biling 10:58
+- Allohning oyatlarini yolg'onga chiqaruvchilardan bo'lmang, aks holda ziyon ko'ruvchilardan bo'lib qolasiz. 10:95
+- Agar Alloh senga bir zarar yetsa, uni Undan boshqa hech kim ketkira olmaydi; agar U senga yaxshilikni xohlasa, Uning fazlini hech kim rad eta olmaydi, U uni bandalaridan xohlagan kishiga yetkazadi. 10:107
+- Er yuzida hech qanday jonli mavjud emaski, uning rizqi Allohga tegishli bo'lmasin. Uning turgan joyini va saqlanadigan joyini (qarin, qabr va boshqalarni) biladi. 11:6
+- Agar Biz insonga bir ne'mat totib ko'rsatsak, so'ng uni undan tortib olsak, u umidsiz va noshukr bo'lib qoladi. 11:9
+- Kim dunyo hayoti va uning ziynatini xohlasa, Biz ularga unda ishlarining mukofotini to'liq beramiz va ularga hech qanday kamchilik bo'lmaydi. 11:15
+- Biz ularga zulm qilmadik, lekin ular o'zlariga zulm qildilar. Robbingning amri kelganda, ularning Allohdan boshqa iltijo qilgan xudolari ularga hech foyda bermadi va ularga halokatdan boshqa narsani ko'paytirmadi. 11:101
+- U (qiyomat) kelgan kunda, hech kim Allohning iznisiz gapira olmaydi. Ularning ba'zilari baxtsiz, (ba'zilari) baxtlidir. 11:105
+- Baxtsizlarga kelsak, ular do'zaxda bo'lib, u yerda o'krib yig'laydilar. 11:106
+- Ular u yerda Robbing xohlagan vaqtdan boshqa, osmonlar va er turgan muddatcha abadiy qoladilar. Robbing xohlagan ishni qiluvchidir. 11:107
+- Baxtli bo'lganlarga kelsak, ular jannatda bo'lib, Robbing xohlagan vaqtdan boshqa, osmonlar va er turgan muddatcha u yerda abadiy qoladilar, bu tugamas ne'matdir. 11:108
+- Zolimlarga moyil bo'lmang, aks holda do'zax sizga tegib qoladi va Allohdan boshqa sizga hech qanday do'st bo'lmaydi va yordamga erisha olmaysiz. 11:113
+- Kunduzning ikki tomonida va kechaning ba'zi soatlarida namozni o'qing (ya'ni besh vaqt namoz). Yaxshi amallar yomon amallarni (kichik gunohlarni) yo'qotadi. 11:114
+- Osmonlar va erning g'aybi Allohga tegishli va barcha ishlar Unga (hukm chiqarish uchun) qaytariladi. 11:123
+- Hukm Allohdan boshqa hech kimning emas. U sizlarga Undan boshqa hech kimga ibodat qilmang (tavhid) deb buyurdi, bu to'g'ri dindir, lekin odamlarning ko'pi bilmaydi. 12:40
+- Allohning rahmatidan hech qachon umidsizlikka tushmang 12:87
+- Sen qancha xohlasang ham, odamlarning ko'pi imon keltirmaydi. 12:103
+- Ularning ko'pi Allohga faqat sherik keltirgan holda (ya'ni mushrik bo'lib) imon keltiradi. 12:106
+- Bu (Qur'on) uydirma so'z emas, balki undan oldingi Kitoblarni (Tavrot, Injil va boshqa kitoblarni) tasdiqlovchi va hamma narsaning batafsil bayoni, shuningdek imon keltirgan qavm uchun hidoyat va rahmatdir. 12:111
+- Alloh rizqni xohlagan kishiga keng qiladi va (xohlagan kishiga) tor qiladi. 13:26
+- Allohni zikr orqali ko'p eslang. Allohga imon keltirganlarning qalblari Uning zikri bilan xotirjam bo'ladi. 13:28
+- Imon keltirgan va yaxshi ishlar qilganlarga xushnudlik va ko'ngil ravonligi bor. 13:29
+- Odamlar oxiratdan qolib, dunyo hayotini orzu qiladigan, (odamlarni) Allohning yo'lidan (Islomdan) to'sadigan va uni buzmakchi bo'ladiganlar, ular uzoq gumrohlikdadirlar. 14:3
+- Ibodatda tavozu va shukrni odat qiling 14:7
+- Robbini inkor qilganlarning misoli: ularning qilgan amallari kulga o'xshaydi, bo'ronli kunda shamol unga qattiq ursa, ular kasb qilgan narsalaridan hech narsaga qo'l yetkaza olmaydilar. 14:18
+- Alloh imon keltirganlarni dunyoda (ya'ni faqat Allohga ibodat qilish) va oxiratda mustahkam so'z bilan sobit qiladi. 14:27
+- Alloh zolimlarning (mushriklarning, zulm qiluvchilarning) qilayotgan ishlaridan g'ofil deb o'ylamang, ularni ko'zlar qo'rquvdan tikilib qoladigan kunga qoldiradi. 14:42
+- Alloh har bir jonga kasb qilganiga yarasha jazo berishi uchun. Albatta Alloh hisob-kitobda tezdir. 14:51
+- Biz insonni jaranglaydigan quruq loydan, o'zgartirilgan qora loydan yaratdik. 15:26
+- Jinnlarni esa undan oldin tunsiz olovdan yaratdik. 15:27
+- Uning (do'zaxning) yetti eshigi bor; har bir eshik uchun (gunohkorlarning) alohida bir guruhi tayinlangan. 15:44
+- U insonni nutfadan (erkak-ayol jinsiy suyuqliklarining aralash tomchisidan) yaratdi, so'ng u ochiq dushmanga aylanib qoladi. 16:4
+- Hayvonlarni, U sizlar uchun yaratdi; ularda sizga issiqlik (issiq kiyimlar) va ko'plab foydalar bor va ulardan yeyasizlar. 16:5
+- (U yaratdi) otlarni, xachirlarni va eshaklarni minishingiz va ziyorat uchun. Va siz bilmagan narsalarni yaratadi. 16:8
+- U osmondan suv (yomg'ir) tushirgan Zotdir; undan ichasizlar va undan o'simliklar o'sadi, unda hayvonlaringizni o'tlaysizlar. 16:10
+- U sizlarga dengizni bo'ysundirib bergan Zotdir, siz undan yangi go'sht (baliq) yeyasizlar va undan kiyadigan ziynat buyumlarini chiqarasizlar. 16:14
+- U erda tog'larni mustahkam qildi, sizni tebratmasligi uchun, va daryolar va yo'llarni (qildi), to'g'ri yo'l topishingiz uchun. 16:15
+- Yaratgan Zot hech narsani yarata olmaydigan Zot bilan o'xshashmi? Siz o'ylab ko'rmaysizlarmi? 16:17
+- Agar siz Allohning ne'matlarini sanasangiz, ularni sanay olmaysiz. 16:18
+- Alloh sizning yashirganingizni va oshkora qilganingizni biladi. 16:19
+- Ular (mushriklar) Allohdan boshqa iltijo qiladigan butlar hech narsani yaratmagan, balki ular o'zlari yaratilgan. 16:20
+- (Ular) o'lik, jonsiz va qachon tiriltirilishini bilmaydi. 16:21
+- Biz biror narsani xohlagan vaqtda, unga so'zimiz faqat "Bo'l!" deyishdir va u darhol bo'lib qoladi. 16:40
+- Yomon makr qilayotganlar, Alloh ularni yerga botirib yubormaydimi yoki ular tasavvur ham qila olmaydigan tomondan azob kelmaydimi, deb o'zlarini xavfsiz his qiladilarmi? 16:45
+- Sizda bor bo'lgan har qanday ne'mat va yaxshilik Allohdandir. So'ngra sizga bir zarar kelganda, faqat Unga iltijo qilasiz. 16:53
+- So'ngra U zararni sizdan ketkazganda, sizdan bir toifa Robbiga sherik keltirib qo'yadi. 16:54
+- Hayvonlarda sizga bir iborat bor. Biz sizni ularning qornidagi narsadan, tezak va qon orasidan, sof sut bilan sug'oramiz, u ichuvchilarga yoqimli bo'ladi. 16:66
+- Shuning uchun Allohga o'xshashliklarni keltirmang (chunki Unga o'xshaydigan hech narsa yo'q va U hech narsaga o'xshamaydi). Albatta Alloh biladi, sizlar bilmaysizlar. 16:74
+- Bilingki, Alloh insonga eshitish, ko'rish, aql va his-tuyg'ularni berdi, shukr qilishlari uchun 16:78
+- Ochko'zlik va hirisdan saqlaning 16:97
+- Qur'on o'qimoqchi bo'lganingizda, quvilgan shaytondan Allohga panoh so'rang. 16:98
+- Bilingki, bilmasdan qilingan bir zulm, agar kishi tavba qilib o'zini tuzatib qo'ysa, kechiriladi 16:119
+- (Ey Muhammad ﷺ) Robbingning yo'liga (Islomga) hikmat va go'zal nasihat bilan da'vat qiling va ular bilan eng go'zal usulda munozara qiling. Boshqalarni Allohning yo'liga da'vat qilish hikmat va mehr bilan bo'lishi kerak 16:125
+- Alloh taqvodorlar va yaxshilik qiluvchilar bilan birgadir. 16:128
+- Bu Qur'on eng to'g'ri va adolatli narsaga hidoyat qiladi. 17:9
+- Hech kim boshqaning gunohini ko'tara olmaydi. 17:15
+- Kim oxiratni xohlasa va mo'min bo'lgan holda unga munosib tirishchilik ko'rsatsa, ularning tirishchiligi maqbul, shukrga sazovor va (Alloh tomonidan) mukofotlanadi. 17:19
+- Ota-onangizga hurmat qiling va ularga mehribon bo'ling. Ota-onangizga yaxshilik qiling. Ularga qo'pol so'z demang. Robbingiz sizga faqat Unga ibodat qilishni va ota-onaga yaxshilik qilishni buyurdi. Agar ularning biri yoki har ikkisi sizning yoningizda qariganda, ularga "uf" demang, ularni qarg'angi va ularga hurmatli so'z ayting. 17:23
+- Ularga mehr bilan bog'chilik qanotini qo'ying va: "Robbim! Ular meni kichkina vaqtimda qanday tarbiyalagan bo'lsalar, Sen ularga rahm qilgin" deb ayt. 17:24
+- Albatta isrofchilar shaytonlarning birodarlaridir va shayton Robbiga noshukrdir. 17:27
+- Pulni isrof qilmang 17:29
+- Qashshoqlikdan qo'rqib bolalaringizni o'ldirmang 17:31
+- Zino qilmang. Nikohning muqaddasligini saqlang va zinodan saqlaning 17:32
+- O'lchaganingizda to'liq o'lchang va to'g'ri tarozida torting. Bu yaxshidir va oqibatda ham yaxshidir. 17:35
+- (Ey inson!) O'zing bilmagan narsaning ortidan ergashma (masalan, ko'rmagan narsani "ko'rdim" dema, eshitmagan narsani "eshitdim" dema). 17:36
+- Tavozu qiling va kibrlanmang. Yerda kibrlanib yurma. Sen yerni yorib yuborolmaysan va tog'larga yetolmaydigan balandlikka erisha olmaysan. 17:37
+- Robbing seni juda yaxshi biladi; xohlasa senga rahm qiladi, yoki xohlasa seni azoblaydi. 17:54
+- Kim bu dunyoda ko'r bo'lsa (Allohning oyatlarini ko'rmay va Unga imon keltirmasa), u oxiratda ham ko'r va yo'ldan ozganroqdir. 17:72
+- Namozning belgilangan vaqtlariga rioya qiling 17:78
+- Biz bu Qur'onda odamlarga har xil misollarni bayon qildik, ammo odamlarning ko'pi faqat kufrni (qabul qiladi) va (haqdan) boshqa narsani qabul qilishdan bosh tortadi. 17:89
+- Biz odamlarga bu Qur'onda har xil misollar berdik, lekin inson hamma narsadan ko'ra ko'proq jadallashuvchidir. 18:54
+- Ularning jazosi do'zaxdir, chunki ular kufr qildilar va Mening oyatlarim va Payg'ambarlarimni mazax va o'yin qilib oldilar. 18:106
+- Allohning (Zotiga) farzand bo'lishi munosib emas (bu nasroniylarning Allohga qilgan tuhmatiga ishora, ular Isoni Allohning o'g'li deydilar). Ular sherik keltirayotgan narsalardan Alloh pok va yuksakdir. 19:35
+- Odamlar bilan muloyim so'zlashing 20:44
+- Yaxshilik qilishda bir-biringiz bilan raqobatlashing 21:90
+- Bekor so'zlardan saqlaning 23:3
+- Ifratingizni saqlang 23:5
+- Qalbingizni gunohga moyillikdan saqlang 23:97
+- Boshqalarni kechiring va ularning xatolarini afv qiling 24:22
+- Boshqalarning shaxsiy hayotiga, ayniqsa o'z uylarida, hurmat qiling. Qo'shnilarning huquqlarini ado qiling 24:27
+- (Erkaklar va ayollar) ko'zlaringizni past tushing. Ifratingiz va iffatingizni saqlang. 24:30
+- Kiyim-kechak va harakatda tavozuni saqlang 24:31
+- Bilingki, Alloh Unga ibodat qilib, yaxshilik qiladiganlarga xavfsizlik va tinchlik beradi 24:55
+- Ota-onaning shaxsiy xonasiga izinsiz kirmang 24:58
+- Tavozu va kamtarin bo'ling 25:63
+- Yolg'on guvohlik va aldovdan saqlaning 25:72
+- Oxirat savobi uchun harakat qiling, ammo dunyo ishlarini tark qilmang 28:77
+- Alloh bilan birga boshqa hech qanday ilohga iltijo qilmang 28:88
+- Geylik (gomoseksuallik) qilmang 29:29
+- Barcha harakatlaringizda mukammallikka harakat qiling 29:69
+- Namozni o'qing va zakot bering 31:4
+- Yaxshilikka buyuring va yomonlikdan qaytaring 31:17
+- Harakatingizda kibrlanishdan saqlaning. Bekor so'z bilan vaqt o'tkazishdan saqlaning 31:18
+- Yurishingizda va ovozingizda mo''tadil bo'ling 31:19
+- Payg'ambar Muhammadning o'rnagiga ergashing 33:21
+- Ayollar o'z go'zalligi va ziynatlarini namoyish qilmasliklari kerak 33:33
+- Har holatda rost gapiring 33:70
+- Tafakkur orqali hikmat va tushuncha izlang 38:29
+- Qur'onning amrlariga itoat qiling 39:23
+- Gunohkor tavba qilib, Unga yuzlansa, Alloh barcha gunohlarni kechiradi 39:53
+- Allohga samimiy duo (il 39:53
+- Yomonlikni yaxshilik bilan daf qiling 41:34
+- Ishlarni mashvarat bilan hal qiling 42:38
+- Ovozingizni Payg'ambarning ovozidan baland ko'tarmang 49:2
+- Sirlarni saqlang va xiyonatdan saqlaning 49:6
+- Jangayotganlar o'rtasida sulh o'rnating. Nizolarda yarashuv izlang 49:9
+- Boshqalarni masxara qilmang 49:11
+- Gumondan saqlaning. G'iybat va josuslikdan saqlaning. Boshqalarni g'iybat qilmang va yomonlamang. Har xil g'iybat va tuhmatdan saqlaning. Kibr sizni zulmga olib borishiga yo'l qo'ymang 49:12
+- Bilingki, faqat taqvo insonni ulug' qiladi. Odamlar va madaniyatlar orasidagi farqlarga hurmat qiling 49:13
+- Mehmonlarga hurmat qiling 51:26
+- Allohga bo'lgan mas'uliyatlaringizdan xabardor bo'ling 51:56
+- Mollarni sadaqada sarflang 57:7
+- Dinda rohiblik (nikoh va rohat-farog'atni tark qilish, rohiblar, rohibalar yoki diniy nazr ostida yashaydiganlar yoki ular yashaydigan binolar) yo'qligini biling 57:27
+- Boylik sizni Allohni eslashdan og'dirib qo'ymasin 58:11
+- Ilm egalariga Alloh yuqori daraja beradi 58:11
+- Musulmon bo'lmaganlar bilan mehribonlik va adolat bilan muomala qiling 60:8
+- E'tiqod va harakatlaringizda munofiqlikdan saqlaning 63:9
+- Ochko'zlik va buxillikdan uzoq turing 64:16
+- Sizga topshirilgan vahiylarni himoya qiling 73:15
+- Qiyomat kunidan xabardor bo'ling 75:36
+- Sabr va rahmatga buyuring 90:17
+- Nafsini poklagan kishi muvaffaqiyat qozonadi, uni buzgan kishi esa ziyon qiladi 91:10
+- Muhtojni xo'rlamang yoki haydamang 93:10
+- Bilim va tushuncha izlang. Qur'onni o'qing va uning ustida tafakkur qiling 96:1–5
+- Miskinlarni ovqatlantirishni rag'batlantiring 107:3
 """;

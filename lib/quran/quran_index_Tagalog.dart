@@ -3315,4 +3315,280 @@ Matching Phrases 8 words
 - Si Allah ay nagpapalawak ng kabuhayan sa sinumang Kanyang nais sa Kanyang mga lingkod at nagpipigil. (اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ) 28:82; 29:62
 - At kayo ay ibabalik sa Nakaaalam ng hindi nakikita at nakikita, at Kanyang ipaalam sa inyo kung ano ang inyong... (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
 - At ang mga kamag-anak ay may higit na karapatan sa isa't isa ayon sa Aklat ni Allah. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
+cmds - Commands, Exhortations, Prohibitions, Instructions
+- fard / wajib (فرض / واجب) — obligado (dapat gawin; kasalanan ang laktawan)
+- mustahabb / mandub (مستحب / مندوب) — inirerekomenda (may gantimpala kung gagawin, hindi kasalanan kung laktawan)
+- mubah (مباح) — neutral / pinahihintulutan (walang gantimpala o kasalanan)
+- makruh (مكروه) — hindi kanais-nais (hindi hinihikayat, ngunit hindi kasalanan kung gawin)
+- haram (حرام) — ipinagbabawal (kasalanang gawin)
+- halal (حلال, pinahihintulutan / ayon sa batas) — sumasaklaw sa parehong mubah at mustahabb — anumang hindi ipinagbabawal
+- Sambahin lamang si Allah at humingi ng tulong sa Kanya. 1:5
+- Sambahin lamang si Allah 2:21
+- Huwag magtambal ng anuman kay Allah 2:22
+- Si Allah ang Nagpapatawad (tumatanggap ng pagsisisi), Tinanggap Niya ang pagsisisi ni Adan (عَلَيْهِ ٱلسَّلَامُ). 2:37
+- Huwag paghaluin ang katotohanan sa kasinungalingan, at huwag itago ang katotohanan. 2:42
+- Isagawa ang Salah (pang-araw-araw na pagdarasal), at magbigay ng Zakat (kawanggawa). 2:43
+- Utusan ang iba ng kabutihan pagkatapos mong ito ay isagawa mismo 2:44
+- Humingi ng tulong kay Allah sa lahat ng iyong mga gawain 2:45
+- Huwag makisali o magpakalat ng katiwalian 2:60
+- Huwag hadlangan ang mga tao na pumunta sa mga bahay-dalanginan 2:114
+- Igalang ang kabanalan ng moske. Panatilihing malinis at dalisay ang inyong mga lugar ng pagdarasal 2:125
+- Alalahanin si Allah (sa pamamagitan ng pagdarasal, pagpupuri, atbp.) at aalalahanin Niya kayo, at magpasalamat kayo sa Kanya. 2:152
+- Magsagawa ng pagtitiis sa kahirapan 2:153
+- Huwag sundin ang mga yapak ni Shaitan (Satanas) na isang lantad na kaaway. 2:168
+- Huwag sundin ang sinuman nang bulag 2:170
+- Tuparin at gampanan ang lahat ng mga ipinagkatiwala. Isagawa ang inyong mga tungkuling panrelihiyon nang tapat. Tuparin ang inyong mga sumpa at kasunduan. Tuparin ang mga pangako, lalo na ang mga ginawa kay Allah. Suportahan ang mga nangangailangan at pagaanin ang mga paghihirap. Iwasan ang paggawa ng mga kasalanang nagdudulot ng pagkawala ng pabor ng Diyos. Huwag hayaang ang pagmamataas ay magtulak sa inyo sa kawalang-katarungan 2:177
+- Mayroong (kaligtasan ng) buhay para sa inyo sa Al-Qisas (Batas ng Pagkakapantay-pantay sa parusa). 2:179
+- Mag-ayuno sa buwan ng Ramadan. Sundin ang itinakdang pag-aayuno upang maging Al-Muttaqun (mga banal). 2:183
+- Igalang ang Quran bilang ang panghuling pinagmumulan ng patnubay 2:185
+- Huwag kainin ang ari-arian ng bawat isa nang may kawalang-katarungan, ni huwag magbigay ng suhol sa mga pinuno (mga hukom bago ipresenta ang inyong mga kaso). 2:188
+- Huwag apiin ang iba, sa salita man o sa gawa. Huwag kailanman makipaglaban bilang mananalakay kundi bilang pagtatanggol lamang 2:190
+- Protektahan ang mga ulila. Tungkol sa mga ulila, magtrabaho nang tapat sa kanilang ari-arian at huwag lamunin ang kanilang ari-arian. 2:220
+- Magsisi at humingi ng tawad kay Allah. Huwag makipagtalik sa panahon ng regla. Panatilihin ang kalinisan (kapwa pisikal at espiritwal) 2:222
+- Tuparin ang inyong mga responsibilidad sa inyong pamilya 2:233
+- Pumili ng mga lider batay sa kanilang kakayahan 2:247
+- Walang pamimilit sa relihiyon 2:256
+- Gumastos ng kayamanan sa kawanggawa. Maging mapagkawanggawa sa kayamanan at oras 2:261
+- Huwag ipawalang-bisa ang kawanggawa sa pamamagitan ng pagyayabang sa inyong pagkabukas-palad 2:264
+- Si Shaitan (Satanas) ay nagbabanta sa inyo ng kahirapan at nag-uutos sa inyo na gumawa ng Fahsha' (masasamang gawa, ipinagbabawal na pakikipagtalik, mga kasalanan). 2:268
+- Hanapin ang mga nangangailangan at tulungan sila 2:273
+- Huwag makialam sa usura o interes. Huwag kainin ang kayamanang nakabatay sa interes. Huwag kumain ng Riba (usura). 2:275
+- Magbigay ng mas maraming oras upang magbayad kung ang nangungutang ay nasa kahirapan 2:280
+- Tuparin ang inyong salita sa mga transaksyon sa negosyo. Maging tapat sa inyong mga pinansyal na gawain. Kumilos nang may integridad sa lahat ng inyong mga pangako. Kapag kayo ay pumirma ng utang para sa isang takdang panahon, isulat ito. Kumuha ng mga saksi sa tuwing kayo ay gagawa ng isang komersyal na kontrata. 2:282
+- Tuparin at gampanan ang lahat ng mga ipinagkatiwala 2:283
+- Maniwala sa mga ipinahayag na Aklat at sa lahat ng mga Propeta 2:285
+- Si Allah ay hindi nagpapapasan sa sinuman nang higit sa kanyang kakayahan. Sila ay tatanggap ng gantimpala para sa (mabuting) kanilang kinita, at parurusahan para sa (masamang) kanilang kinita. Ang Diyos ay hindi nagpapapasan sa sinuman nang higit sa kanyang kakayahan; ni hindi natin dapat gawin. Magtiwala sa plano ni Allah kahit sa kahirapan 2:286
+- Sinumang tumutupad ng mga pangako at labis na natatakot kay Allah, kung gayon si Allah ay umiibig sa mga banal. 3:76
+- Magsagawa ng Hajj (peregrinasyon) kung may kakayahan kayo 3:97
+- Huwag magkabaha-bahagi 3:103
+- Utusan ang tama at ipagbawal ang mali. Hikayatin ang katuwiran sa inyong komunidad. Tawagan ang iba sa pag-alaala kay Allah 3:104
+- Kay Allah dapat magtiwala ang mga mananampalataya. 3:122
+- Huwag kumain ng Riba (usura). 3:130
+- Sundin si Allah at ang Kanyang Sugo upang magkamit ng awa. 3:132
+- Si Allah ay nagmamahal sa mga gumagasta (sa Kapakanan ni Allah – mga gawa ng kawanggawa, limos, atbp.) sa kasaganaan at sa kahirapan, na nagpipigil ng galit, at nagpapatawad sa mga tao. 3:134
+- Pigilin ang galit. 3:134
+- Patawarin ang mga pagkakamali ng iba 3:135
+- Huwag maging bastos sa pananalita. Maging matiyaga sa mga sumasalungat sa inyo 3:159
+- Kung kayo ay tulungan ni Allah, walang makakatalo sa inyo; at kung kayo ay Kanyang pababayaan, sino ba ang makakatulong sa inyo pagkatapos Niya? 3:160
+- Bawat isa ay makakatikim ng kamatayan. At sa Araw ng Pagkabuhay lamang kayo bibigyan ng inyong ganap na gantimpala. 3:185
+- Mag-isip nang malalim tungkol sa mga kababalaghan ng kalikasan at sa paglikha ng sansinukob na ito. Malaman na nilikha ng Diyos ang sansinukob nang may kahulugan at layunin 3:191
+- Ang kalalakihan at kababaihan ay may pantay na gantimpala para sa kanilang mga gawa 3:195
+- Para sa mga natatakot sa kanilang Panginoon, may mga Hardin na may mga ilog na dumadaloy sa ilalim (sa Paraiso); doon sila maninirahan magpakailanman, bilang panauhin mula kay Allah. 3:198
+- Magsikap palagi para sa kaluguran ni Allah sa bawat kilos. 3:200
+- Maging tapat sa inyong Panginoon, katakutan Siya at (huwag putulin ang ugnayan) ng mga kamag-anak. 4:1
+- Ibigay sa mga ulila ang kanilang ari-arian at huwag palitan (ang inyong) masasamang bagay ng (kanilang) mabubuti; at huwag lamunin ang kanilang ari-arian (sa pamamagitan ng pagdaragdag nito) sa inyong ari-arian. 4:2
+- Ibigay sa mga kababaihan (na inyong pakakasalan) ang kanilang Mahr (obligadong bigay-pangkasal na ibinibigay ng asawang lalaki sa kanyang asawang babae sa oras ng kasal) nang may mabuting kalooban. 4:4
+- Protektahan ang mga karapatan ng mga ulila 4:6
+- Ang ari-arian ng namatay ay dapat ipamahagi sa mga miyembro ng kanyang pamilya. Ang mga kababaihan ay may karapatan sa mana 4:7
+- Huwag lamunin ang ari-arian ng mga ulila nang may kawalang-katarungan 4:10
+- Sundin ang mga utos tungkol sa mana 4:11
+- Ipinagbabawal na manahin ang mga kababaihan laban sa kanilang kalooban, at huwag silang tratuhin nang may kalupitan. Mamuhay kasama nila (mga asawa) nang may karangalan. Igalang at sundin ang mga karapatan ng kababaihan. Tratuhin ang inyong asawa nang may kabaitan at habag. Tratuhin ang mga kababaihan nang may karangalan at katarungan 4:19
+- Huwag magpakasal sa mga kadugo ninyo sa dugo 4:23
+- Huwag patayin ang inyong sarili (ni ang isa't isa). Tunay nga, si Allah ay Mahabagin sa inyo. Huwag kainin ang ari-arian ng bawat isa nang may kawalang-katarungan 4:29
+- Kung iiwasan ninyo ang malalaking kasalanan na ipinagbabawal, ipatatawad ni Allah sa inyo ang inyong (maliit) na mga kasalanan, at kayo ay ipapasok sa Marangal na Pasukan (i.e. Paraiso). 4:31
+- Huwag maghangad ng mga bagay na pinag-ibutihan ni Allah ang ilan sa inyo kaysa sa iba. Iwasan ang inggit at panibugho 4:32
+- Ang kalalakihan ay mga tagapangalaga at tagapagtaguyod ng kababaihan, sapagkat ginawang nakahihigit ni Allah ang ilan sa iba, at sapagkat sila ay gumagasta (upang suportahan sila) mula sa kanilang kayamanan. Ang lalaki ang tagapangalaga at tagasuporta ng pamilya 4:34
+- Sambahin si Allah at huwag magtambal ng anuman sa Kanya sa pagsamba, gumawa ng mabuti sa mga magulang, kamag-anak, ulila, sa mga mahihirap, sa kapwa, sa kasama sa inyong tabi, sa manlalakbay (na inyong nakikilala), at sa mga (alipin) na nasa inyong kanang kamay. Hindi minamahal ni Allah ang mga mapagmataas at mayayabang. Maging mabuti sa iba. Maawa sa mga mahihina. Panatilihin ang ugnayan ng pamilya at parangalan ang mga kamag-anak. 4:36
+- Huwag maging kuripot 4:37
+- Si Allah ay hindi nagpapatawad na ang mga katambal ay iuugnay sa Kanya sa pagsamba, ngunit Siya ay nagpapatawad maliban doon sa sinumang Kanyang kasiyahan. 4:48
+- Huwag mainggit sa iba 4:54
+- Iniutos ni Allah na ibalik ninyo ang mga ipinagkatiwala sa mga nararapat na may-ari nito. Kapag kayo ay humahatol sa pagitan ng mga tao, humatol kayo nang may katarungan. 4:58
+- Sundin si Allah at ang Kanyang Sugo. Igalang ang mga may awtoridad sa inyo 4:59
+- Huwag apiin ang mahihina o mahina 4:75
+- Anumang mabuting bagay na dumating sa inyo ay mula kay Allah, ngunit anumang masamang bagay na dumating sa inyo ay mula sa inyong sarili. 4:79
+- Ang sumunod sa Sugo (Muhammad ﷺ), ay tunay na sumunod kay Allah. 4:80
+- Sinumang mamagitan para sa isang mabuting layunin ay magkakaroon ng gantimpala nito, at sinumang mamagitan para sa isang masamang layunin ay magkakaroon ng bahagi ng pasanin nito. 4:85
+- Hindi nararapat sa isang mananampalataya na pumatay ng isang mananampalataya, maliban kung nagkakamali. 4:92
+- Sinumang pumatay ng isang mananampalataya nang sinasadya, ang kanyang gantimpala ay Impiyerno, kung saan siya ay mananatili magpakailanman. Ang Poot at Sumpa ni Allah ay nasa kanya, at isang malaking parusa ang inihanda para sa kanya. 4:93
+- Sinumang mangibang-bayan (mula sa kanyang tahanan) sa kapakanan ni Allah ay makakatagpo sa lupa ng maraming matitirhan at kasaganaan. 4:100
+- Maging punctual sa inyong mga pagdarasal 4:103
+- Huwag suportahan o maging tagapagtanggol ng mga nagtataksil sa kanilang mga ipinagkatiwala 4:105
+- Humingi ng kapatawaran kay Allah, tunay na si Allah ay Mapagpatawad, Mahabagin. 4:106
+- O kayong mga sumasampalataya! Manindigan nang matatag para sa katarungan, bilang mga saksi para kay Allah, kahit na ito ay laban sa inyong sarili, o sa inyong mga magulang, o sa inyong mga kamag-anak, siya man ay mayaman o mahirap. Huwag ipagpaliban ang katarungan; kumilos kaagad sa pagtutuwid ng mga kawalang-katarungan 4:135
+- Ang mga mapagkunwari ay nagnanais na dayain si Allah, ngunit Siya ang dumadaya sa kanila. 4:142
+- Ang mga mapagkunwari ay nasa pinakamababang (antas) ng Apoy; kayo ay hindi makakatagpo ng anumang katulong para sa kanila. 4:145
+- Hindi gusto ni Allah na ang kasamaan ay ihayag sa publiko, maliban sa mga inapi. 4:148
+- Ang mga Sugo bilang mga tagapagdala ng mabuting balita at bilang mga tagapagbabala, upang ang mga tao ay walang dahilan laban kay Allah pagkatapos ng (pagdating) ng mga Sugo. 4:165
+- Tuparin ang inyong mga kontrata at mga pangako 5:1
+- Suportahan ang isa't isa sa kabutihan at kabanalan, hindi sa kasalanan at poot 5:2
+- Huwag kumain ng mga patay na hayop, dugo ng mga hayop, o karne ng baboy 5:3
+- Maging makatarungan; huwag hayaang ang poot at pagkamuhi ng iba ay makapagpaalis sa inyo sa katarungan. Maging makatarungan at patas sa inyong mga gawain. Malaman na ang pagiging makatarungan ay malapit sa kabanalan. Huwag ipagpaliban ang katarungan; kumilos kaagad sa pagtutuwid ng mga kawalang-katarungan 5:8
+- Hanapin ang mga paraan ng paglapit kay Allah, at magsikap nang husto sa Kanyang Kapakanan hangga't maaari ninyo, upang kayo ay magtagumpay. 5:35
+- Tuparin ang inyong mga sumpa at mga tipan 5:89
+- Iwasan ang nakalalasing na inumin at alak. Mahigpit na iwasan ang nakalalasing na inumin (lahat ng uri ng mga inuming may alkohol), sugal, mga rebulto, at mga palaso para sa paghanap ng suwerte o desisyon, na pawang mga karumihan ng gawa ni Shaitan (Satanas). 5:90
+- Huwag pumatay ng hayop habang kayo ay nasa kalagayan ng Ihram para sa Hajj o 'Umrah (peregrinasyon). 5:95
+- Huwag magtanong tungkol sa mga bagay na, kung ipaliwanag sa inyo, ay maaaring magdulot sa inyo ng problema. 5:101
+- Huwag hamakin ang mga diyos ng ibang tao. Huwag hamakin ang mga sinasamba nila (mga hindi sumasampalataya) bukod kay Allah, upang hindi nila hamakin si Allah nang walang kaalaman. 6:108
+- Kung susundin ninyo ang karamihan ng mga nasa lupa, ililigaw nila kayo palayo sa Daan ni Allah. Sila ay sumusunod lamang sa mga haka-haka, at sila ay nagsasalita lamang ng kasinungalingan. 6:116
+- Iwanan (O mga tao!) ang lahat ng uri ng kasalanan, lantad man o lihim. 6:120
+- Huwag kainin (O kayong mga sumasampalataya!) ang (karne) na hindi binanggit ang Pangalan ni Allah (sa oras ng pagpatay). 6:121
+- Ang sinumang nais ni Allah na patnubayan, Kanyang binubuksan ang kanyang dibdib sa Islam, at ang sinumang nais Niyang iligaw, Kanyang ginagawang masikip at makipot ang kanyang dibdib. 6:125
+- Maging katamtaman sa paggasta at iwasan ang pagmamalabis. Pangalagaan ang mga karapatan ng lahat ng nilalang 6:141
+- Huwag magtambal ng anuman sa pagsamba kay Allah, maging mabuti sa mga magulang, huwag patayin ang inyong mga anak dahil sa takot sa kahirapan, huwag lumapit sa mga kahalayan, huwag patayin ang sinumang ipinagbawal ni Allah, maliban sa makatarungang dahilan. 6:151
+- Maging tapat; huwag manloko sa alinman sa inyong mga pakikipagkalakalan. Huwag lumapit sa ari-arian ng ulila, maliban upang mapabuti ito, magbigay ng buong sukat at timbang nang may katarungan, sa tuwing kayo ay magsasalita, sabihin ang katotohanan kahit na ito ay tungkol sa malapit na kamag-anak, at tuparin ang Tipan ni Allah. 6:152
+- Sundin ang Tuwid na Daan at huwag sundin ang (iba pang) mga daan, sapagkat ililihis kayo ng mga ito palayo sa Kanyang Daan. 6:153
+- Sabihin (O Muhammad ﷺ): "Tunay nga, ang aking pagdarasal, ang aking pag-aalay, ang aking pamumuhay at ang aking pagkamatay ay para kay Allah, ang Panginoon ng mga nilalang." 6:162
+- Huwag maging mayabang 7:13
+- Huwag kayong padaya ni Shaitan (Satanas). 7:27
+- Sabihin (O Muhammad ﷺ): "Ang aking Panginoon ay nag-utos ng katarungan..." 7:29
+- Sundin ang mga hangganan na itinakda ni Allah sa lahat ng bagay. Iwasan ang paglabag sa pananalita at pagkilos. Kumain at uminom ngunit huwag mag-ekseso. Magsuot ng magandang damit sa oras ng pagdarasal 7:31
+- Nilikha ni Allah ang kalangitan at lupa sa anim na Araw, at pagkatapos ay umupo Siya sa Trono (sa paraang angkop sa Kanyang Kamahalan). 7:54
+- Manalangin sa inyong Panginoon nang may pagpapakumbaba at lihim. Hindi Niya gusto ang mga lumalabag. 7:55
+- At huwag gumawa ng kaguluhan sa lupa, pagkatapos nito ay naayos na, at manalangin sa Kanya nang may takot at pag-asa. 7:56
+- Ngunit ang mga gumawa ng masasamang gawa at pagkatapos ay nagsisi at naniwala, tunay nga, ang inyong Panginoon pagkatapos niyan ay Mapagpatawad, Mahabagin. 7:153
+- Sabihin (O Muhammad ﷺ): "O mga tao! Tunay nga, ako ay Sugo ni Allah sa inyong lahat..." 7:158
+- At ang (lahat) ng Pinakamagagandang Pangalan ay kay Allah, kaya tawagin Siya sa mga ito, at iwanan ang mga tumatanggi o nagkakaila (o nagsasalita ng lapastangan laban) sa Kanyang mga Pangalan... 7:180
+- Ang sinumang iligaw ni Allah, walang makakapatnubay sa kanya; at sila'y Kanyang hinahayaang gumala nang bulag sa kanilang pagsalangsang. 7:186
+- Magpakita ng kapatawaran, utusan ang mabuti, at lumayo sa mga mangmang (i.e. huwag silang parusahan). 7:199
+- Patawarin ang iba sa kanilang mga pagkakamali 7:199
+- At kung may masamang bulong na dumating sa inyo mula kay Shaitan (Satanas), humanap ng kanlungan kay Allah. Tunay nga, Siya ang Ganap na Nakakarinig, Ganap na Nakakaalam. 7:200
+- Ang mga mananampalataya ay yaon lamang, kapag nabanggit si Allah, ay nakararamdam ng takot sa kanilang mga puso at kapag ang Kanyang mga Talata ay binibigkas sa kanila, ay nadaragdagan ang kanilang Pananampalataya... 8:2
+- Huwag ipagkanulo si Allah at ang Kanyang Sugo, at huwag ipagkanulo nang may kamalayan ang inyong mga ipinagkatiwala (ang mga bagay na ipinagkatiwala sa inyo, at lahat ng tungkulin na iniutos ni Allah sa inyo). 8:27
+- Kung kayo ay susunod at matatakot kay Allah, kayo ay bibigyan Niya ng Furqan (isang pamantayan upang makilala ang tama sa mali). 8:29
+- Ang mga hindi sumasampalataya ay gumagasta ng kanilang kayamanan upang hadlangan (ang mga tao) mula sa Daan ni Allah, at sila ay patuloy na gumagasta nito; ngunit sa huli ito ay magiging isang pighati para sa kanila. 8:36
+- Sabihin sa mga hindi sumampalataya, kung sila ay tumigil (sa hindi paniniwala), ang kanilang nakaraan ay patatawarin. Ngunit kung sila ay bumalik (dito), ang mga halimbawa ng (mga pinarusahan) bago nila ay naibigay na (bilang babala). 8:38
+- Kapag kayo ay nakatagpo ng (puwersa ng) kaaway, manindigan nang matatag laban sa kanila at alalahanin ang Pangalan ni Allah nang madalas (kapwa sa dila at sa isip), upang kayo ay magtagumpay. 8:45
+- Huwag kayong maging katulad ng mga lumalabas sa kanilang mga tahanan nang may pagmamayabang at upang ipakita sa mga tao, at humahadlang (sa mga tao) mula sa Daan ni Allah. 8:47
+- Hindi babaguhin ni Allah ang isang biyaya na Kanyang ipinagkaloob sa isang tao hanggang sa sila mismo ang magbago ng kanilang nasa kanilang sarili. 8:53
+- Ang pinakamasamang nilalang sa paningin ni Allah ay ang mga hindi sumasampalataya. 8:55
+- Ang Diyos ay naglalagay ng pag-ibig at pagmamahal sa pagitan ng mga puso ng mga sumasampalataya sa Kanya 8:63
+- Protektahan at tulungan ang mga humihingi ng proteksyon 9:6
+- Hindi nararapat sa mga Mushrikun (mga tagapagtambal) na panatilihin ang mga Moske ni Allah. 9:17
+- Sila (mga hindi sumasampalataya, mga Hudyo at mga Kristiyano) ay nagnanais na patayin ang Liwanag ni Allah (na ipinadala si Muhammad ﷺ - ang Islamikong Monoteismo) sa kanilang mga bibig, ngunit hindi papayag si Allah maliban na ang Kanyang Liwanag ay ganapin, kahit na ito ay kinamumuhian ng mga hindi sumasampalataya. 9:32
+- Ang Zakat (mga limos) ay para lamang sa: 1) mga mahihirap, 2) mga nangangailangan, 3) mga nagtatrabaho upang mangolekta nito, 4) upang mapalapit ang mga puso ng mga naaakit sa Islam, 5) upang palayain ang mga bihag, 6) para sa mga may utang, 7) para sa Kapakanan ni Allah (i.e. para sa mga Mujahidun), at 8) para sa mga manlalakbay. 9:60
+- Sinumang sumasalungat at nagpapakita ng poot kay Allah at sa Kanyang Sugo (ﷺ), tiyak na para sa kanya ang Apoy ng Impiyerno, kung saan siya mananatili magpakailanman. Iyon ay isang malaking kahihiyan. 9:63
+- Ang mga mapagkunwari, kalalakihan at kababaihan, ay magkakapareho. Nakalimutan nila si Allah, kaya't Kanyang nakalimutan sila. 9:67
+- Magsikap para sa kadalisayan. Igalang ang kabanalan ng moske 9:108
+- Hindi nararapat sa Propeta at sa mga sumasampalataya na humingi ng kapatawaran kay Allah para sa mga Mushrikun kahit na sila ay kamag-anak, pagkatapos na maging malinaw sa kanila na sila ay mga naninirahan sa Apoy (dahil sila ay namatay sa kalagayan ng hindi paniniwala). 9:113
+- Sino pa ba ang mas higit na gumagawa ng kawalang-katarungan kaysa sa gumagawa ng kasinungalingan laban kay Allah o tumatanggi sa Kanyang mga Talata? Tiyak na ang mga makasalanan ay hindi kailanman magtatagumpay! 10:17
+- Sila ay sumasamba bukod kay Allah sa mga bagay na hindi nakakapinsala sa kanila, ni nakakabuti sa kanila, at sila ay nagsasabi: "Ang mga ito ay aming mga tagapamagitan sa Allah." Sabihin: "Sinasabi ba ninyo sa Allah ang hindi Niya nalalaman sa kalangitan at sa lupa?" Purihin at itaas Siya sa lahat ng kanilang itinatambal sa Kanya! 10:18
+- Ang gantimpala ng isang masamang gawa ay katulad nito. 10:27
+- Iyan si Allah, ang inyong tunay na Panginoon. Kaya pagkatapos ng katotohanan, ano pa ba ang natitira kundi ang kamalian? Paano kayo naliligaw? 10:32
+- Karamihan sa kanila ay sumusunod lamang sa mga haka-haka. Tiyak na ang mga haka-haka ay walang bisa laban sa katotohanan. 10:36
+- Tunay na si Allah ay hindi gumagawa ng kawalang-katarungan sa mga tao sa anuman; ngunit ang mga tao ang gumagawa ng kawalang-katarungan sa kanilang sarili. 10:44
+- Malaman na ang biyaya ng Diyos ay higit na mabuti kaysa sa anumang kayang tipunin o ipunin ng tao 10:58
+- Huwag maging kabilang sa mga tumatanggi sa mga Talata ni Allah, sapagkat kayo ay magiging kabilang sa mga talunan. 10:95
+- Kung kayo ay pahirapan ni Allah ng kapinsalaan, walang sinuman ang makapag-aalis nito maliban sa Kanya; at kung kayo ay Nais Niyang bigyan ng kabutihan, walang sinuman ang makapagpapawalang-bisa sa Kanyang Biyaya na Kanyang ipinagkakaloob sa sinumang Kanyang nais sa Kanyang mga alipin. 10:107
+- Walang nilalang na nabubuhay sa lupa na ang ikabubuhay ay hindi mula kay Allah. At Kanyang nalalaman ang kanyang tirahan at ang kanyang imbakan (sa sinapupunan, libingan, atbp.). 11:6
+- Kung Aming ipapatikim sa tao ang Awa mula sa Amin, at pagkatapos ay Aming aalisin ito sa kanya, tunay nga! Siya ay nawawalan ng pag-asa, walang utang na loob. 11:9
+- Sinumang naghahangad ng buhay sa daigdig at ng kanyang karangyaan, sila ay Aming bibigyan ng ganap (na gantimpala) ng kanilang mga gawa dito, at sila ay hindi kukulangan. 11:15
+- Hindi Kami gumawa ng kawalang-katarungan sa kanila, ngunit sila ang gumawa ng kawalang-katarungan sa kanilang sarili. Kaya ang kanilang mga diyos, na kanilang tinawag bukod kay Allah, ay walang naitulong sa kanila nang dumating ang Utos ng inyong Panginoon, at walang idinagdag sa kanila maliban sa pagkawasak. 11:101
+- Sa Araw na ito ay dumating, walang sinuman ang magsasalita maliban sa Kanyang Pahintulot. Ang ilan sa kanila ay magiging kapus-palad at (iba) ay mapalad. 11:105
+- Tungkol sa mga kapus-palad, sila ay nasa Apoy, na dumaing at humahagulgol. 11:106
+- Sila ay mananatili doon habang ang kalangitan at lupa ay nananatili, maliban kung naisin ng inyong Panginoon. Tunay na ang inyong Panginoon ay gumagawa ng anumang Kanyang naisin. 11:107
+- At ang mga mapalad, sila ay nasa Paraiso, na mananatili doon habang ang kalangitan at lupa ay nananatili, maliban kung naisin ng inyong Panginoon, bilang isang kaloob na walang hanggan. 11:108
+- Huwag sumandal sa mga gumagawa ng kawalang-katarungan, baka ang Apoy ay sumaling sa inyo, at kayo ay walang mga tagapangalaga maliban kay Allah, at kayo ay hindi matutulungan. 11:113
+- Isagawa ang Salah sa dalawang dulo ng araw at sa ilang oras ng gabi (i.e. ang 5 araw-araw na pagdarasal). Ang mabubuting gawa ay nag-aalis ng masasamang gawa (i.e. maliliit na kasalanan). 11:114
+- Kay Allah ang Ghaib (hindi nakikita) ng kalangitan at lupa, at sa Kanya ang lahat ng bagay ay ibinabalik (para sa pasya). 11:123
+- Ang pasya (o hatol) ay kay Allah lamang. Kanyang iniutos na kayo ay sumamba sa Kanya lamang (ang Kanyang Monoteismo), iyon ang (tunay) na tuwid na relihiyon, ngunit karamihan sa mga tao ay hindi nakakaalam. 12:40
+- Huwag kailanman mawalan ng pag-asa sa Awa ni Allah 12:87
+- At karamihan sa mga tao ay hindi maniniwala kahit na kayo ay sabik na sabik na gawin ito. 12:103
+- At karamihan sa kanila ay hindi sumasampalataya kay Allah maliban sa pagtatambal nila ng mga katambal sa Kanya (i.e. sila ay mga Mushrikun). 12:106
+- Ito (ang Quran) ay hindi isang kathang-isip na pahayag kundi isang pagpapatunay sa mga naunang Aklat ni Allah (ang Taurat, ang Injeel at iba pang mga Kasulatan) at isang detalyadong paliwanag ng lahat ng bagay at isang patnubay at isang Awa para sa mga taong sumasampalataya. 12:111
+- Si Allah ay nagpapadami ng kabuhayan para sa sinumang Kanyang naisin, at naghihigpit (nito para sa sinumang Kanyang naisin). 13:26
+- Alalahanin si Allah nang madalas sa pamamagitan ng dhikr. Ang mga sumasampalataya sa Diyos ay nakakatagpo ng kasiyahan sa pag-alaala sa Kanya. 13:28
+- Ang mga sumasampalataya at gumagawa ng mabuti ay binibigyan ng kagalakan at kapayapaan ng isip. 13:29
+- Ang mga mas pinipili ang buhay sa daigdig kaysa sa Kabilang Buhay, at humahadlang (sa mga tao) mula sa Daan ni Allah (Islam) at naghahanap ng pagliko dito – Sila ay malayo nang naliligaw. 14:3
+- Magsagawa ng pagpapakumbaba at pasasalamat sa pagsamba 14:7
+- Ang talinghaga ng mga hindi sumasampalataya sa kanilang Panginoon ay ang kanilang mga gawa ay tulad ng abo, na pinapaypayan ng hangin nang malakas sa isang mabagyo na araw; hindi sila makakakuha ng anuman mula sa kanilang kinita. 14:18
+- Patatatagin ni Allah ang mga sumasampalataya, sa pamamagitan ng salitang matatag sa mundong ito (i.e. sila ay patuloy na sasamba kay Allah lamang), at sa Kabilang Buhay. 14:27
+- Huwag isipin na si Allah ay walang kamalayan sa ginagawa ng mga Zalimun (mga tagapagtambal, mga mapaggawa ng kawalang-katarungan, atbp.), ngunit sila ay binibigyan Niya ng palugit hanggang sa isang Araw na ang mga mata ay nakatitig sa sindak. 14:42
+- Upang gantimpalaan ni Allah ang bawat tao ayon sa kanyang kinita. Tunay na si Allah ay Mabilis sa pagtutuos. 14:51
+- At katotohanang nilikha Namin ang tao mula sa tuyong malagkit na putik, mula sa itim na binagong putik. 15:26
+- At ang mga jinn, Nilikha Namin sila bago pa man mula sa apoy na walang usok. 15:27
+- Ito (Impiyerno) ay may pitong pintuan; para sa bawat pintuan ay may isang (espesyal) na uri ng mga makasalanan na nakatakda. 15:44
+- Nilikha Niya ang tao mula sa Nutfah (pinaghalong patak ng lalaki at babae), pagkatapos ay narito, ang parehong (tao) ay nagiging isang lantad na kalaban. 16:4
+- At ang mga hayop, Nilikha Niya ang mga ito para sa inyo; sa mga ito ay mayroong init (maiinit na damit), at maraming pakinabang, at sa mga ito kayo ay kumakain. 16:5
+- At (Nilikha Niya) ang mga kabayo, mula at asno, upang inyong sakyan at bilang adornment. At Siya ay lumilikha (ng iba) pang mga bagay na hindi ninyo alam. 16:8
+- Siya ang nagpapababa ng tubig (ulan) mula sa langit; mula rito kayo ay umiinom at mula rito ay tumutubo ang mga halaman na inyong ipinapakain sa inyong mga hayop. 16:10
+- Siya ang nagpasakop sa dagat (sa inyo), upang kayo ay kumain mula rito ng sariwang karne (isda), at upang kayo ay makakuha mula rito ng mga palamuti na inyong isinusuot. 16:14
+- Siya ay naglagay sa lupa ng mga nakatayong bundok, upang huwag itong yumanig kasama ninyo, at mga ilog at mga daan, upang kayo ay mapatnubayan. 16:15
+- Ang Lumilikha ba ay tulad ng hindi lumilikha? Hindi ba ninyo maaalala? 16:17
+- Kung inyong bibilangin ang mga biyaya ni Allah, hindi ninyo kailanman mabibilang ang mga ito. 16:18
+- Alam ni Allah ang inyong itinatago at ang inyong inilalantad. 16:19
+- Ang mga (diyos) na kanilang (mga Mushrikun) tinatawag bukod kay Allah ay walang nilikha, ngunit sila mismo ay nilikha. 16:20
+- (Sila ay) patay, walang buhay, at hindi nila alam kung kailan sila bubuhayin. 16:21
+- Ang Aming Salita sa isang bagay kapag Aming nais ito, ay Aming sinasabi rito: "Mangyari!" at ito ay nangyayari. 16:40
+- Ang mga gumagawa ng masasamang pakana ba ay nakadarama ng kaligtasan na hindi sila lulunurin ni Allah sa lupa, o ang pagdurusa ay hindi sasakanila mula sa mga direksyon na hindi nila napapansin? 16:45
+- Anumang mga biyaya at mabubuting bagay na mayroon kayo ay mula kay Allah. Pagkatapos, kapag ang kapinsalaan ay sumapit sa inyo, sa Kanya kayo dumaing ng malakas para sa tulong. 16:53
+- Pagkatapos, kapag inalis na Niya ang kapinsalaan sa inyo, narito! Ang ilan sa inyo ay nagtatambal ng iba sa pagsamba sa kanilang Panginoon (Allah). 16:54
+- Sa mga hayop ay may aral para sa inyo. Aming pinapainom kayo ng kung ano ang nasa kanilang tiyan, mula sa pagitan ng dumi at dugo, purong gatas; masarap sa mga umiinom. 16:66
+- Kaya huwag magbigay ng mga talinghaga kay Allah (sapagkat walang katulad Niya, ni Siya ay katulad ng anuman). Tunay na si Allah ay nakakaalam at kayo ay hindi nakakaalam. 16:74
+- Malaman na ang Diyos ay nagbigay sa tao ng pandinig, paningin, katalinuhan, at damdamin upang sila ay magpasalamat 16:78
+- Iwasan ang kasakiman at pagnanasa 16:97
+- Kapag nais ninyong bigkasin ang Quran, humanap ng kanlungan kay Allah mula kay Shaitan (Satanas), ang itinapon (ang isinumpa). 16:98
+- Malaman na ang isang kawalang-katarungan na nagawa dahil sa kamangmangan ay pinatatawad kung ang tao ay nagsisi at itinama ang kanyang sarili 16:119
+- Anyayahan (O Muhammad ﷺ) sa Daan ng inyong Panginoon (Islam) nang may karunungan at mabuting pangangaral, at makipagtalo sa kanila sa paraang mas mainam. Ang pag-anyaya sa iba sa Daan ng Diyos ay dapat gawin nang may karunungan at kabaitan 16:125
+- Si Allah ay sumasama sa mga natatakot sa Kanya (tumutupad ng kanilang tungkulin sa Kanya), at sa mga gumagawa ng mabuti. 16:128
+- Ang Quran na ito ay patungo sa pinakamakatarungan at pinakatama. 17:9
+- Walang sinuman ang pasan ng kasalanan ng iba. 17:15
+- Sinumang naghahangad ng Kabilang Buhay at nagsisikap para dito, nang may nararapat na pagsisikap habang siya ay isang mananampalataya, kung gayon ang mga ito ay ang kanilang pagsisikap ay pahahalagahan, pasasalamatan at gagantimpalaan (ni Allah). 17:19
+- Parangalan ang inyong mga magulang at tratuhin sila nang may kabaitan. Maging masunurin sa mga magulang. Huwag magsalita ng walang galang sa kanila. At ang inyong Panginoon ay nag-utos na kayo ay sumamba sa Kanya lamang. At kayo ay maging mabuti sa inyong mga magulang. Kung ang isa sa kanila o ang dalawa ay umabot sa katandaan sa inyong buhay, huwag ninyo silang sabihan ng salitang walang galang, ni huwag sigawan, kundi magsalita kayo sa kanila nang may karangalan. 17:23
+- At ibaba ninyo sa kanila ang pakpak ng pagpapakumbaba at awa, at inyong sabihin: "Panginoon ko! Kaawaan Ninyo sila tulad ng kanilang pag-aaruga sa akin noong ako ay musmos." 17:24
+- Katotohanang ang mga gastador ay mga kapatid ng mga demonyo, at ang demonyo ay walang utang na loob sa kanyang Panginoon. 17:27
+- Huwag mag-aksaya ng pera 17:29
+- Huwag patayin ang inyong mga anak dahil sa takot sa kahirapan 17:31
+- Huwag mangalunya. Panatilihin ang kabanalan ng kasal at iwasan ang pangangalunya 17:32
+- Magbigay ng buong sukat kapag kayo ay sumusukat, at timbangin nang may tuwid na timbangan. Iyan ay mabuti at higit na mabuti sa huli. 17:35
+- Huwag sundin (O tao, i.e. huwag sabihin, o gawin, o saksihan) ang bagay na wala kang kaalaman (hal. ang pagsasabi ng isang tao: "Nakita ko," samantalang hindi niya nakita, o "Narinig ko," samantalang hindi niya narinig). 17:36
+- Maging mapagpakumbaba at huwag maging mayabang. Huwag maglakad sa lupa nang may pagmamataas. Katotohanang hindi ninyo kayang punitin ang lupa, ni hindi ninyo kayang abutin ang tangkad ng mga bundok. 17:37
+- Higit na nakikilala kayo ng inyong Panginoon; kung Kanyang naisin, Kayo ay Kanyang kaawaan, o kung Kanyang naisin, Kayo ay Kanyang parurusahan. 17:54
+- Ang bulag sa mundong ito (i.e. hindi nakakakita ng mga Tanda ni Allah at hindi naniniwala sa Kanya), ay magiging bulag sa Kabilang Buhay, at higit na naliligaw sa Daan. 17:72
+- Sundin ang itinakdang oras para sa pagdarasal 17:78
+- Katotohanang Aming ipinaliwanag sa mga tao sa Quran na ito ang bawat uri ng talinghaga, ngunit karamihan sa mga tao ay tumatanggi (sa katotohanan at hindi tumatanggap ng anuman) maliban sa kawalan ng pananampalataya. 17:89
+- Aming inilatag ang bawat uri ng halimbawa sa Quran na ito, para sa sangkatauhan. Ngunit ang tao ay higit na palaaway kaysa sa anumang bagay. 18:54
+- Iyan ang kanilang gantimpala, Impiyerno; sapagkat sila ay hindi sumampalataya at ginawa nilang katatawanan at libangan ang Aking mga Talata at ang Aking mga Sugo. 18:106
+- Hindi nararapat (sa Kamahalan) ni Allah na Siya ay magkaroon ng isang anak (ito ay tumutukoy sa paninirang-puri ng mga Kristiyano laban kay Allah, sa pagsasabing si Hesus ay anak ng Diyos). Purihin at itaas Siya sa lahat ng kanilang itinatambal sa Kanya. 19:35
+- Magsalita sa mga tao nang may kahinahunan 20:44
+- Makipagkumpetensya sa isa't isa sa paggawa ng mabuti 21:90
+- Iwasan ang walang kabuluhang usapan 23:3
+- Pangalagaan ang inyong kahinhinan 23:5
+- Pangalagaan ang inyong puso laban sa makasalanang hilig 23:97
+- Patawarin ang iba at patawarin ang kanilang mga pagkakamali 24:22
+- Igalang ang privacy ng iba, lalo na sa kanilang sariling mga tahanan. Tuparin ang mga karapatan ng mga kapitbahay 24:27
+- Ibaba ang inyong tingin (kapwa lalaki at babae). Pangalagaan ang inyong kahinhinan at kalinisan. 24:30
+- Maging mahinhin sa pananamit at pag-uugali 24:31
+- Malaman na ang Diyos ay nagbibigay ng seguridad at kapayapaan sa mga sumasamba sa Kanya at kumikilos nang may kabutihan 24:55
+- Huwag pumasok sa pribadong silid ng mga magulang nang walang pahintulot 24:58
+- Maging mapagpakumbaba at mahinhin 25:63
+- Iwasan ang huwad na pagsaksi at pandaraya 25:72
+- Magsikap para sa gantimpala sa Kabilang Buhay ngunit huwag pabayaan ang inyong mga gawain sa daigdig 28:77
+- Huwag tumawag sa anumang iba pang diyos na kasama ng Diyos 28:88
+- Huwag makisali sa homoseksuwalidad 29:29
+- Magsikap para sa kahusayan sa lahat ng inyong mga pagsisikap 29:69
+- Magtatag ng pagdarasal at magbigay ng limos 31:4
+- Utusan ang tama at ipagbawal ang mali 31:17
+- Iwasan ang pagmamataas sa inyong pag-uugali. Umiwas sa pag-aaksaya ng oras sa walang kabuluhang usapan 31:18
+- Maging katamtaman sa inyong paglakad at sa lakas ng inyong boses 31:19
+- Sundin ang halimbawa ng Propeta Muhammad 33:21
+- Ang mga kababaihan ay hindi dapat magpakita o mag-flaunt ng kanilang kagandahan at mga palamuti 33:33
+- Magsalita ng katotohanan sa lahat ng pagkakataon 33:70
+- Hanapin ang karunungan at pag-unawa sa pamamagitan ng pagninilay 38:29
+- Sundin ang mga utos ng Quran 39:23
+- Pinatatawad ng Diyos ang lahat ng kasalanan kapag ang makasalanan ay nagsisi at bumaling sa Kanya 39:53
+- Gumawa ng taimtim na duʿā (panalangin) kay Allah 40:60
+- Itaboy ang masama sa pamamagitan ng isang bagay na mas mabuti 41:34
+- Magpasya sa mga bagay-bagay sa pamamagitan ng konsultasyon 42:38
+- Huwag itaas ang inyong boses nang higit sa boses ng Propeta 49:2
+- Magtago ng mga lihim at iwasan ang pagtataksil 49:6
+- Mamagitan para sa kapayapaan sa pagitan ng mga may alitan. Hanapin ang pagkakasundo sa mga alitan 49:9
+- Huwag kutyain ang iba 49:11
+- Iwasan ang paghihinala. Iwasan ang pag-espiya at paninira. Huwag manira o manirang-puri sa iba. Umiwas sa lahat ng uri ng tsismis at paninirang-puri. Huwag hayaang ang pagmamataas ay magtulak sa inyo sa kawalang-katarungan 49:12
+- Malaman na ang katuwiran lamang ang nagpapakabanal sa isang tao. Igalang ang mga pagkakaiba sa pagitan ng mga tao at kultura 49:13
+- Parangalan ang mga bisita 51:26
+- Maging mulat sa inyong mga tungkulin kay Allah 51:56
+- Gumastos ng yaman sa kawanggawa 57:7
+- Malaman na walang monasticism (pag-iwan sa pag-aasawa at mga aliw tulad ng mga monghe, madre, o iba pang nabubuhay sa ilalim ng mga panata, o ang mga gusaling kanilang tinitirhan) sa relihiyon 57:27
+- Huwag hayaang makagambala sa inyo ang kayamanan mula sa pag-alaala kay Allah 58:11
+- Ang mga may kaalaman ay bibigyan ng mas mataas na antas ng Diyos 58:11
+- Tratuhin ang mga hindi Muslim nang may kabaitan at pagiging patas 60:8
+- Iwasan ang pagpapaimbabaw sa inyong mga paniniwala at kilos 63:9
+- Lumayo sa kasakiman at pagiging kuripot 64:16
+- Pangalagaan ang mga kapahayagang ipinagkatiwala sa inyo 73:15
+- Maging mulat sa Araw ng Paghuhukom 75:36
+- Utusan ang pagtitiis at pagkamahabagin 90:17
+- Ang mga nagpapadalisay sa kanilang mga kaluluwa ay nagtatagumpay, at ang mga sumisira sa kanilang mga kaluluwa ay nabibigo 91:10
+- Huwag balewalain o itaboy ang nangangailangan 93:10
+- Hanapin ang kaalaman at pag-unawa. Basahin at pagnilayan ang Quran 96:1–5
+- Hikayatin ang pagpapakain sa mga mahihirap 107:3
 """;

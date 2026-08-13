@@ -3316,4 +3316,280 @@ Matching Phrases 8 words
 - Allah ń mú oúnjẹ pọ̀ sí i fún ẹni tí Ó bá fẹ́ lára àwọn ẹrú Rẹ̀, Ó sì ń dín kù. (اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ) 28:82; 29:62
 - Ẹ ó sì padà sí Ọ̀dọ̀ Ẹni tí ó mọ ìkọ̀kọ̀ àti ìgbangba, Yóò sì sọ ohun tí ẹ̀ ń ṣe fún yín. (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
 - Àwọn ìbátan jẹ́ aláṣẹ jù fún ara wọn nínú Tìwà Allah. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
+cmds - Commands, Exhortations, Prohibitions, Instructions
+- fard / wajib (فرض / واجب) — dandan (a gbọdọ ṣe; ẹ̀ṣẹ̀ ni láti yọ̀ǹda)
+- mustahabb / mandub (مستحب / مندوب) — tí a ṣe ìyànjú (ẹ̀san fún ṣíṣe, kì í ṣe ẹ̀ṣẹ̀ láti yọ̀ǹda)
+- mubah (مباح) — ààrín / tí a gbà (kò sí ẹ̀san tàbí ẹ̀ṣẹ̀)
+- makruh (مكروه) — tí a kò fẹ́ràn (a kò gbani níyànjú, ṣùgbọ́n kì í ṣe ẹ̀ṣẹ̀ láti ṣe)
+- haram (حرام) — èèwọ̀ (ẹ̀ṣẹ̀ ni láti ṣe)
+- halal (حلال, tí a gbà / tí ó bófin mu) — ó ní nkan ti mubah àti mustahabb — ohunkóhun tí a kò fòfindè
+- Ẹ jọ́sìn Allah nìkan kí ẹ sì máa wá ìrànwọ́ lọ́dọ̀ Rẹ̀. 1:5
+- Ẹ jọ́sìn Allah nìkan 2:21
+- Ẹ má ṣe fi ohun kankan ṣe alábàápín fún Allah 2:22
+- Allah ni Ẹni tí ó ń dáríjì (tí ń gba ìrònúpìwàdà), Ó gba ìrònúpìwàdà Ádámù (عَلَيْهِ ٱلسَّلَامُ). 2:37
+- Ẹ má ṣe dapọ̀ òtítọ́ pẹ̀lú èké, bẹ́ẹ̀ ni ẹ má ṣe fi òtítọ́ pamọ́. 2:42
+- Ẹ máa ṣe àdúrà (àwọn àdúrà ojoojúmọ́), kí ẹ sì máa fúnni ní Zakat (ọrẹ́). 2:43
+- Ẹ pa a láṣẹ fún àwọn ẹlòmíràn nípa ìwà rere lẹ́yìn tí ẹ̀yin fúnra yín bá ti ń ṣe é 2:44
+- Ẹ máa wá ìrànwọ́ Allah nínú gbogbo àwọn ọ̀ràn yín 2:45
+- Ẹ má ṣe lọ́wọ́ nínú tàbí kí ẹ máa tànkálẹ̀ ìbàjẹ́ 2:60
+- Ẹ má ṣe dá àwọn ènìyàn lẹ́kun láti lọ sí àwọn ibi ìjọsìn 2:114
+- Ẹ máa bọ̀wọ̀ fún mímọ́ ilé mọ́sálásí. Ẹ máa pa àwọn ibi àdúrà yín mọ́ pátápátá 2:125
+- Ẹ máa rántí Allah (nípa àdúrà, yin, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ) Ẹyin náà yóò rántí yín, kí ẹ sì máa dúpẹ́ lọ́wọ́ Rẹ̀. 2:152
+- Ẹ máa fi sùúrù nínú ìpọ́njú 2:153
+- Ẹ má ṣe tẹ̀lé àwọn ipasẹ̀ Ẹ̀ṣù (Sátánì) tí í ṣe ọ̀tá gbangba. 2:168
+- Ẹ má ṣe tẹ̀lé ẹnikẹ́ni lójú afọ́jú 2:170
+- Ẹ máa pa gbogbo àwọn ohun tí a fi sílẹ̀ mọ́ kí ẹ sì ṣe wọn. Ẹ máa ṣe àwọn ojúṣe ẹ̀sìn yín pẹ̀lú òótọ́. Ẹ máa pa àwọn ìbúra àti àwọn májẹ̀mú yín mọ́. Ẹ máa pa àwọn ìlérí yín mọ́, ní pàtàkì àwọn tí a ṣe fún Allah. Ẹ máa ṣe àtìlẹ́yìn fún àwọn aláìní kí ẹ sì máa dín ìnira kù. Ẹ máa yàgò fún ṣíṣe àwọn ẹ̀ṣẹ̀ tí ń mú kí ènìyàn pàdánù ojú rere Ọlọ́run. Ẹ má ṣe jẹ́ kí ìgbéraga gbé yín lọ síwájú nínú àìṣe òdodo 2:177
+- (Ìgbàlà) wà fún yín nínú Qisas (Òfin ìdógba nínú ìjìyà). 2:179
+- Ẹ máa gbààwẹ̀ ní oṣù Ramadan. Ẹ máa pa àwẹ̀ tí a pa láṣẹ mọ́ kí ẹ̀yin kí ó lè di àwọn Al-Muttaqun (àwọn Ọlọ́runfẹ́). 2:183
+- Ẹ máa bọ̀wọ̀ fún Al-Ƙur’ān gẹ́gẹ́ bí orísun ìmọ̀ tí ó ga jùlọ 2:185
+- Ẹ má ṣe jẹ ohun ìní ara yín lọ́nà àìṣe òdodo, bẹ́ẹ̀ ni ẹ má ṣe fún àwọn adájọ́ ní ẹ̀bùn (kí ẹ tó ṣe àwọn ẹjọ́ yín síwájú wọn). 2:188
+- Ẹ má ṣe fi àwọn ẹlòmíràn ni ipá, yálà nípa ọ̀rọ̀ tàbí nípa ìṣe. Ẹ má ṣe jagun rí gẹ́gẹ́ bí alágbèrè, bí kò ṣe fún ààbò nìkan 2:190
+- Ẹ máa dáàbò bo àwọn ọmọ ọ̀tá. Ní ti àwọn ọmọ ọ̀tá, ẹ máa fi òótọ́ ṣiṣẹ́ nínú ohun ìní wọn kí ẹ má sì jẹ ohun ìní wọn. 2:220
+- Ẹ máa ronúpìwàdà kí ẹ sì máa bẹ̀bẹ̀ fún ìdáríjì lọ́dọ̀ Allah. Ẹ má ṣe ní ìbálòpọ̀ ní àsìkò oṣù. Ẹ máa pa mímọ́ (ní ti ara àti ní ti ẹ̀mí) mọ́ 2:222
+- Ẹ máa ṣe ojúṣe yín sí ẹbí yín 2:233
+- Ẹ máa yan àwọn aṣáájú lórí ipò wọn 2:247
+- Ẹ má ṣe fi ipá mú ènìyàn nínú ẹ̀sìn 2:256
+- Ẹ máa ná ohun ìní yín nínú iṣẹ́ ọ̀rẹ́. Ẹ máa jẹ́ aláàánú nípa ohun ìní àti àkókò 2:261
+- Ẹ má ṣe sọ iṣẹ́ ọ̀rẹ́ di asán nípa fífi àánú yín ṣe ìgbéraga 2:264
+- Ẹ̀ṣù (Sátánì) ń halẹ̀ mọ́ yín pẹ̀lú òṣì, ó sì ń pa yín láṣẹ láti ṣe iṣẹ́ ẹ̀gbin (àwọn ẹ̀ṣẹ̀). 2:268
+- Ẹ máa wá àwọn aláìní kí ẹ sì máa ran wọn lọ́wọ́ 2:273
+- Ẹ má ṣe lọ́wọ́ nínú èlé. Ẹ má ṣe jẹ ohun ìní tí ó ní èlé. Ẹ má ṣe jẹ Riba (èlé). 2:275
+- Ẹ fi àkókò sílẹ̀ fún onígbèsè tí ó bá wà nínú ìṣòro 2:280
+- Ẹ máa pa ọ̀rọ̀ yín mọ́ nínú àwọn òwò. Ẹ máa jẹ́ olóòótọ́ nínú àwọn ọ̀ràn owó yín. Ẹ máa ṣe pẹ̀lú òótọ́ nínú gbogbo àwọn ìlérí yín. Nígbà tí ẹ bá ṣe adehun gbèsè fún àkókò pípẹ́, ẹ kọ ọ́ sílẹ̀. Ẹ máa mú ẹlẹ́rìí ní gbogbo ìgbà tí ẹ bá ń ṣe adehun òwò. 2:282
+- Ẹ máa pa gbogbo àwọn ohun tí a fi sílẹ̀ mọ́ kí ẹ sì ṣe wọn 2:283
+- Ẹ máa gba àwọn Ìwé Mímọ́ tí a fi ránṣẹ́ àti gbogbo àwọn Ànábì gbọ́ 2:285
+- Ọlọ́run kì í fi ẹrù tí ó kọjá agbára ẹ̀yà ara ẹ̀dá. Wọn ó gba ẹ̀san fún ohun (tí ó dára) tí wọ́n ṣiṣẹ́, wọn yóò sì jẹ́ ìjìyà fún ohun (tí ó burú) tí wọ́n ṣiṣẹ́. Ọlọ́run kì í fi ẹrù tí ó kọjá agbára ẹ̀yà ara ẹ̀dá; bẹ́ẹ̀ ni àwa kò sì gbọ́dọ̀ ṣe bẹ́ẹ̀. Ẹ máa gbọ́kànlé ètò Allah láàárín ìpọ́njú 2:286
+- Ẹnikẹ́ni tí ó bá pa àwọn májẹ̀mú mọ́ tí ó sì ń bẹ̀rù Allah, nígbà náà Allah nífẹ̀ẹ́ àwọn Ọlọ́runfẹ́. 3:76
+- Ẹ máa ṣe Hajj (ìrìn àjò mímọ́) bí ẹ bá lè ṣe é 3:97
+- Ẹ má ṣe yapa 3:103
+- Ẹ máa pa àṣẹ fún ohun tí ó tọ́ kí ẹ sì máa kọ̀ ohun tí ó burú. Ẹ máa fúnni níṣìírí fún òdodo nínú àwùjọ yín. Ẹ máa pe àwọn ẹlòmíràn sí ìrántí Allah 3:104
+- Lórí Allah ni àwọn onígbàgbọ́ gbọ́dọ̀ gbára lé. 3:122
+- Ẹ má ṣe jẹ Riba (èlé). 3:130
+- Ẹ máa ṣe ìgbọràn sí Allah àti Ojúṣe Rẹ̀ kí ẹ lè rí àánú. 3:132
+- Allah nífẹ̀ẹ́ àwọn tí ń ná (ní Ọ̀nà Allah – iṣẹ́ ọ̀rẹ́, àjẹ́, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ) ní àkókò àásìkí àti àkókò ìpọ́njú, tí ń fa ìbínú sẹ́yìn, tí ń sì dáríjì fún àwọn ènìyàn. 3:134
+- Ẹ máa fa ìbínú sẹ́yìn. 3:134
+- Ẹ máa dáríjì fún àwọn àṣìṣe ẹlòmíràn 3:135
+- Ẹ má ṣe jẹ́ aláìnítìjú nínú ọ̀rọ̀. Ẹ máa fi sùúrù pẹ̀lú àwọn tí ó yàtọ̀ sí yín 3:159
+- Bí Allah bá ràn yín lọ́wọ́, kò sí ẹni tí lè ṣẹ́gun yín; bí ó bá sì kọ̀ yín sílẹ̀, ta ni lẹ́yìn Rẹ̀ tí yóò ràn yín lọ́wọ́? 3:160
+- Gbogbo ẹ̀dá yóò dánu ikú. Kì yóò sì jẹ́ bí kò ṣe ní Ọjọ́ Àjíǹde ni ẹ ó gba ẹ̀san yín ní kíkún. 3:185
+- Ẹ máa ronú jínjìn nípa àwọn ìyanu ẹ̀dá àti ìṣẹ̀dá àgbáyé yìí. Ẹ mọ̀ pé Ọlọ́run dá àgbáyé pẹ̀lú ìtumọ̀ àti ète 3:191
+- Ọkùnrin àti obìnrin ní ẹ̀san kanna fún àwọn iṣẹ́ wọn 3:195
+- Fún àwọn tí ó bẹ̀rù Olúwa wọn, ni àwọn Ọgbà tí àwọn odò ń sàn ní abẹ́ wọn (nínú Ọ̀run); wọn ó máa gbé ibẹ̀ láé, gẹ́gẹ́ bí oúnjẹ láti ọ̀dọ̀ Allah. 3:198
+- Ẹ máa sapá fún ìtẹ́lọ́rùn Allah nínú gbogbo ìṣe. 3:200
+- Ẹ máa jẹ́ olóòótọ́ sí Olúwa yín, ẹ máa bẹ̀rù Rẹ̀ kí ẹ má sì (gé àwọn ìdè) ti ìbátan. 4:1
+- Ẹ máa fún àwọn ọmọ ọ̀tá ní ohun ìní wọn, ẹ má sì fi (ohun) búburú yín pààrọ̀ pẹ̀lú (ohun) dídára wọn; ẹ má sì jẹ ohun ìní wọn (nípa fífi kún) ohun ìní yín. 4:2
+- Ẹ máa fún àwọn obìnrin (tí ẹ ń ṣègbéyàwó) ní Mahr wọn (ọrẹ́ ìgbéyàwó tí ó jẹ́ dandan tí ọkọ yóò fún aya nígbà ìgbéyàwó) pẹ̀lú ọkàn tí ó dára. 4:4
+- Ẹ máa da àwọn ẹ̀tọ́ àwọn ọmọ ọ̀tá ààbò 4:6
+- Ohun ìní ẹni tí ó kú gbọ́dọ̀ pín fún àwọn ọmọ ẹbí rẹ̀. Àwọn obìnrin ní ẹ̀tọ́ ogún 4:7
+- Ẹ má ṣe jẹ ohun ìní àwọn ọmọ ọ̀tá lọ́nà àìṣòdodo 4:10
+- Ẹ máa tẹ̀lé àwọn àṣẹ nípa ogún 4:11
+- A ti kọ̀ láti jogún àwọn obìnrin lọ́nà tí kò bá ìfẹ́ wọn mu, kí ẹ má sì ṣe fi ìkà bá wọn lò. Ẹ máa gbé pẹ̀lú wọn (àwọn aya) pẹ̀lú ọlá. Ẹ máa bọ̀wọ̀ kí ẹ sì máa pa àwọn ẹ̀tọ́ obìnrin mọ́. Ẹ máa fi ọ̀wọ̀ àti ìdájọ́ òdodo bá ọkọ tàbí aya yín lò. Ẹ máa fi ọ̀wọ̀ àti ìdájọ́ òdodo bá àwọn obìnrin lò 4:19
+- Ẹ má ṣe fẹ́ àwọn tí ẹ̀jẹ̀ ẹ ní pẹ̀lú wọn 4:23
+- Ẹ má ṣe pa ara yín (tàbí kí ẹ pa ara yín). Dájúdájú, Allah Ọlọ́run Àánú ni sí yín. Ẹ má ṣe jẹ ohun ìní ara yín lọ́nà àìṣòdodo 4:29
+- Bí ẹ bá yàgò fún àwọn ẹ̀ṣẹ̀ ńlá tí a kà wọ́n lèèwọ̀, Allah yóò pa àwọn ẹ̀ṣẹ̀ yín (kékèké) mọ́, yóò sì mú yín wọ Ọ̀nà Ọlọ́lá (ìyẹn Ọ̀run). 4:31
+- Ẹ má ṣe fẹ́ ohun tí Allah fi ṣe àkànṣe fún àwọn kan nínú yín ju àwọn ẹlòmíràn lọ. Ẹ máa yàgò fún ẹ̀tán àti ojúṣe 4:32
+- Àwọn ọkùnrin ni àwọn alábojútó àti alábòójútó àwọn obìnrin, nítorí pé Allah ti fún àwọn kan ní àkànṣe ju àwọn ẹlòmíràn lọ, àti nítorí pé wọ́n ń ná láti inú ohun ìní wọn (láti bójútó wọn). Ọkùnrin ni alábojútó àti alátìlẹ́yìn ẹbí 4:34
+- Ẹ máa jọ́sìn Allah, ẹ má sì máa ṣe alábàápín fún un, ẹ máa ṣe rere sí àwọn òbí, àwọn ìbátan, àwọn ọmọ ọ̀tá, àwọn òtòṣì, aládùúgbò, alábàákẹ́gbẹ́ tí ń bẹ lẹ́gbẹ̀ẹ́ yín, arìnrìn-àjò (tí ẹ bá pàdé), àti àwọn tí ọwọ́ ọ̀tún yín ń mú (àwọn ẹrú). Allah kì í fẹ́ àwọn onígbéraga àti ológo. Ẹ máa ṣe rere sí àwọn ẹlòmíràn. Ẹ máa ṣe àánú fún àwọn aláìlára. Ẹ máa pa ìdè ìbátan mọ́ kí ẹ sì máa bọ̀wọ̀ fún àwọn ìbátan. 4:36
+- Ẹ má ṣe jẹ́ oníwọ́ra 4:37
+- Allah kì í dáríjì pé kí a ṣe alábàápín fún un, ṣùgbọ́n Ó ń dáríjì ohun mìíràn yàtọ̀ sí i fún ẹni tí Ó bá fẹ́. 4:48
+- Ẹ má ṣe máa ṣe ẹ̀tán sí àwọn ẹlòmíràn 4:54
+- Allah ń pa yín láṣẹ pé kí ẹ máa fi ohun tí a fi sílẹ̀ fún yín padà sí àwọn oníwọn. Nígbà tí ẹ bá ń ṣe ìdájọ́ láàrín àwọn ènìyàn, ẹ máa fi òdodo ṣe ìdájọ́. 4:58
+- Ẹ máa ṣe ìgbọràn sí Allah àti Ojúṣe Rẹ̀. Ẹ máa fi ọ̀wọ̀ tí ó yẹ fún àwọn tí ó ní ọlá àṣẹ láàrín yín 4:59
+- Ẹ má ṣe fi àwọn aláìlágbára àti aláìlera ní ipá 4:75
+- Ohunkóhun tí ó dára tí ó bá dé bá yín, ó ti ọ̀dọ̀ Allah wá, ṣùgbọ́n ohunkóhun tí ó burú tí ó bá dé bá yín, ó ti ọ̀dọ̀ ara yín wá. 4:79
+- Ẹni tí ó bá tẹríba fún Ojúṣe (Muhammad ﷺ), ti tẹríba fún Allah. 4:80
+- Ẹnikẹ́ni tí bá ṣe ìlàjù fún ohun rere, yóò rí èso rẹ̀, ẹnikẹ́ni tí ó bá sì ṣe ìlàjù fún ohun búburú, yóò ní apá kan nínú ẹrù rẹ̀. 4:85
+- Kò tọ́ fún onígbàgbọ́ láti pa onígbàgbọ́ mìíràn, àyàfi nípa àìnímọ̀ọ́mọ̀. 4:92
+- Ẹnikẹ́ni tí ó bá pa onígbàgbọ́ mọ̀ọ́mọ̀, èrè rẹ̀ ni ọ̀run àpáàdì, yóò sì máa gbé ibẹ̀ láé. Ìbínú àti ègún Allah wà lórí rẹ̀, a sì ti pèsè ìyà ńlá fún un. 4:93
+- Ẹnikẹ́ni tí ó bá ṣe ìṣíkiri (lati ilé rẹ̀) ní ọ̀nà Allah, yóò rí ọ̀pọ̀lọpọ̀ ibi ìgbé àti ọ̀pọ̀lọpọ̀ oúnjẹ lórí ilẹ̀. 4:100
+- Ẹ máa pa àkókò àwọn àdúrà yín mọ́ 4:103
+- Ẹ má ṣe ṣe àtìlẹ́yìn fún tàbí kí ẹ jẹ́ agbẹjọ́rò fún àwọn tí ń da àwọn ohun tí a fi sílẹ̀ fún wọn pààrọ̀ 4:105
+- Ẹ máa bẹ̀bẹ̀ fún ìdáríjì lọ́dọ̀ Allah; dájúdájú, Allah ń dáríjì, Ọlọ́run Àánú. 4:106
+- Ẹ̀yin tí ẹ gbàgbọ́! Ẹ máa dúró ṣinṣin fún òdodo, gẹ́gẹ́ bí ẹlẹ́rìí fún Allah, bí ó tilẹ̀ jẹ́ pé ó lòdì sí ara yín, tàbí àwọn òbí yín, tàbí àwọn ìbátan yín, yálà ó jẹ́ ọlọ́rò tàbí òtòṣì. Ẹ má ṣe dá òdodo dúró; ẹ máa ṣe pẹ̀lú ìyára láti ṣàtúnṣe àwọn àìṣe òdodo 4:135
+- Àwọn agàbàgebè ń gbìyànjú láti tan Allah jẹ, ṣùgbọ́n Òun ni Ó ń tan wọn jẹ. 4:142
+- Àwọn agàbàgebè yóò wà ní ìsàlẹ̀ jùlọ Iná; kò sì ní sí olùrànlọ́wọ́ fún wọn. 4:145
+- Allah kì í fẹ́ kí a sọ ohun búburú sókè ní gbangba, àyàfi láti ọ̀dọ̀ ẹni tí a ṣe àìṣòdodo sí. 4:148
+- Àwọn Ojúṣe gẹ́gẹ́ bí olùgbéròyìn rere àti olùkìlọ̀, kí àwọn ènìyàn má bá a ní ìdáláre sí lọ́dọ̀ Allah lẹ́yìn (wíwá) àwọn Ojúṣe. 4:165
+- Ẹ máa pa àwọn májẹ̀mú àti àwọn ìlérí yín mọ́ 5:1
+- Ẹ máa ṣe ìrànwọ́ ara yín nínú iṣẹ́ rere àti ẹ̀rù Ọlọ́run, kí ẹ má sì ṣe ìrànwọ́ ara yín nínú ẹ̀ṣẹ̀ àti ìjà 5:2
+- Ẹ má ṣe jẹ ẹran tí ó ti kú, ẹ̀jẹ̀, tàbí ẹran ẹlẹ́dẹ̀ 5:3
+- Ẹ máa ṣe òdodo; ẹ má ṣe jẹ́ kí ọ̀tá àti ìkórìíra àwọn ẹlòmíràn mú yín yàgò fún òdodo. Ẹ máa jẹ́ olóòdodo ní àwọn ọ̀ràn yín. Ẹ mọ̀ pé òdodo sún mọ́ ẹ̀rù Ọlọ́run. Ẹ má ṣe dá òdodo dúró; ẹ máa ṣe pẹ̀lú ìyára láti ṣàtúnṣe àwọn àìṣe òdodo 5:8
+- Ẹ máa wá àwọn ọ̀nà sí Allah, kí ẹ sì máa sapá nínú Ọ̀nà Rẹ̀ bí ó bá ṣeé ṣe fún yín, kí ẹ lè ṣàṣeyọrí. 5:35
+- Ẹ máa pa àwọn ìbúra àti àwọn májẹ̀mú yín mọ́ 5:89
+- Ẹ máa yàgò fún ohun mímu tí ń mu ọti àti ọtí. Ẹ máa yàgò fún ohun mímu tí ń mu ọti (gbogbo irú ohun mímu tí ó ní ọtí), ìṣeré ayò, òkúta, àti ọfà ìṣeré ayò, tí gbogbo rẹ̀ jẹ́ ẹ̀gbin iṣẹ́ Ẹ̀ṣù. 5:90
+- Ẹ má ṣe pa ẹranko ìgbẹ́ nígbà tí ẹ bá wà nínú ìhram fún Hajj tàbí 'Umrah. 5:95
+- Ẹ má ṣe béèrè nípa àwọn ohun tí, bí a bá ṣàlàyé wọn fún yín, lè mú wàhálà bá yín. 5:101
+- Ẹ má ṣe bú àwọn òrìṣà àwọn ẹlòmíràn. Ẹ má ṣe bú àwọn tí wọ́n ń jọ́sìn (àwọn aláìgbàgbọ́) yàtọ̀ sí Allah, kí wọn má bá à bú Allah láìní ìmọ̀. 6:108
+- Bí ẹ bá ń tẹ̀lé ọ̀pọ̀ àwọn tí ń bẹ lórí ilẹ̀, wọn yóò mú yín ṣínà kúrò ní Ọ̀nà Allah. Wọn kò tẹ̀lé ohunkóhun bí kò ṣe ìrò, wọn kò sì ṣe ohunkóhun bí kò ṣe irọ́. 6:116
+- Ẹ fi gbogbo irú ẹ̀ṣẹ̀, tí ó hàn tàbí tí ó farasin, sílẹ̀ (ẹ̀yin ènìyàn!). 6:120
+- Ẹ má ṣe jẹ (ẹ̀yin onígbàgbọ́!) láti ara ẹran tí a kò dárúkọ Allah lé lórí (nígbà tí wọ́n ń pa á). 6:121
+- Ẹni tí Allah bá fẹ́ fi ọ̀nà hàn, Ó ń ṣí àyà rẹ̀ fún Islam, ẹni tí Ó bá sì fẹ́ fi ṣínà, Ó ń sọ àyà rẹ̀ di dín kù tí ó sì ń di dín mọ́. 6:125
+- Ẹ máa jẹ́ alágbàtọ́ nínú ìnáwó, kí ẹ sì máa yàgò fún ìnáwó pípa jù. Ẹ máa pa àwọn ẹ̀tọ́ gbogbo ohun tí a dá mọ́ 6:141
+- Ẹ má ṣe fi ohunkóhun ṣe alábàápín fún Allah nínú ìjọsìn, ẹ máa ṣe rere sí àwọn òbí, ẹ má ṣe pa àwọn ọmọ yín nítorí ìbẹ̀rù òṣì, ẹ má ṣe sún mọ́ àwọn ohun àbùkù, ẹ má ṣe pa ẹnikẹ́ni tí Allah kò gbà láyè, àyàfi pẹ̀lú ẹ̀tọ́. 6:151
+- Ẹ máa jẹ́ olóòótọ́; ẹ má ṣe tan àwọn ẹlòmíràn jẹ nínú àwọn òwò yín. Ẹ má ṣe sún mọ́ ohun ìní ọmọ ọ̀tá, àyàfi láti mú un dára, ẹ máa fún ní kíkún odiwọn àti wíwọ̀n pẹ̀lú òdodo, nígbà tí ẹ bá ń sọ̀rọ̀, ẹ máa sọ òtítọ́, bí ó tilẹ̀ jẹ́ pé ó jẹ́ ìbátan tí ó sún mọ́ ara, kí ẹ sì máa pa májẹ̀mú Allah mọ́. 6:152
+- Ẹ máa tẹ̀lé Ọ̀nà Tààrà, ẹ má sì máa tẹ̀lé àwọn ọ̀nà mìíràn, nítorí wọn yóò yín ya kúrò ní Ọ̀nà Rẹ̀. 6:153
+- Ẹ sọ (Muhammad ﷺ): "Dájúdájú, àdúrà mi, ẹbọ mi, ìgbé ayé mi àti ikú mi jẹ́ ti Allah, Olúwa gbogbo ẹ̀dá." 6:162
+- Ẹ má ṣe jẹ́ onígbéraga 7:13
+- Ẹ má ṣe jẹ́ kí Ẹ̀ṣù (Sátánì) tan yín jẹ. 7:27
+- Ẹ sọ (Muhammad ﷺ): "Olúwa mi pa òdodo láṣẹ..." 7:29
+- Ẹ máa pa àwọn ààlà tí Allah gbé kalẹ̀ nínú gbogbo ọ̀ràn mọ́. Ẹ máa yàgò fún ìrékọjá nínú ọ̀rọ̀ àti ìṣe. Ẹ máa jẹ kí ẹ sì máa mu, ṣùgbọ́n ẹ má ṣe jẹ́ aláṣejù. Ẹ máa wọ aṣọ tí ó dára ní àkókò àdúrà 7:31
+- Allah dá àwọn ọ̀run àti ilẹ̀ ní Ọjọ́ mẹ́fà, lẹ́yìn náà Ó fi ara rẹ̀ kalẹ̀ lórí Ibi-Ọba (ní ọ̀nà tí ó yẹ fún Ọ̀lá Rẹ̀). 7:54
+- Ẹ máa képè Olúwa yín pẹ̀lú ìrẹ̀lẹ̀ àti ní ìkọ̀kọ̀. Kò fẹ́ àwọn aláṣejù. 7:55
+- Ẹ má ṣe ṣe ìbàjẹ́ lórí ilẹ̀, lẹ́yìn tí a ti ṣe àtúntò rẹ̀, kí ẹ sì máa képè Rẹ̀ pẹ̀lú ìbẹ̀rù àti ìrètí. 7:56
+- Ṣùgbọ́n àwọn tí wọ́n ṣe àwọn iṣẹ́ búburú, tí wọ́n sì ronúpìwàdà lẹ́yìn náà tí wọ́n sì gbàgbọ́, dájúdájú, Olúwa yín lẹ́yìn gbogbo náà ni Ọlọ́run Àánú, Ọlọ́run Aláàánú. 7:153
+- Ẹ sọ (Muhammad ﷺ): "Ẹ̀yin ènìyàn! Dájúdájú, èmi ni Ojúṣe Allah sí gbogbo yín..." 7:158
+- Gbogbo orúkọ rírẹwà jẹ́ ti Allah, nítorí náà ẹ máa képè Rẹ̀ pẹ̀lú wọn, kí ẹ sì máa fi àwọn tí ń yí orúkọ Rẹ̀ padà tàbí tí ń kọ̀ wọ́n sílẹ̀... 7:180
+- Ẹni tí Allah bá fi ṣínà, kò sí aṣáájú fún un; Ó sì ń jẹ́ kí wọn máa rìn kiri nínú ìrékọjá wọn lójú afọ́jú. 7:186
+- Ẹ máa fi ìdáríjì hàn, ẹ máa pa àṣẹ fún ohun tí ó dára, kí ẹ sì máa yípadà kúrò lọ́dọ̀ àwọn òmùgọ̀ (ìyẹn ẹ má ṣe jẹ wọn níyà). 7:199
+- Ẹ máa dáríjì fún àwọn ẹlòmíràn nínú àwọn àṣìṣe wọn 7:199
+- Bí ẹ̀rùn bá bá ẹ láti ọ̀dọ̀ Ẹ̀ṣù (Sátánì), ẹ máa wá ibi ààbò lọ́dọ̀ Allah. Dájúdájú, Òun ni Olùgbọ́, Olùmọ̀. 7:200
+- Àwọn onígbàgbọ́ jẹ́ àwọn tí, nígbà tí a bá mẹ́nu bà Allah, ọkàn wọn yóò gbọ̀n, tí a bá sì ń ka àwọn Ẹsẹ Rẹ̀ wọn fún wọn, wọn yóò fi ìgbàgbọ́ pọ̀ sí i... 8:2
+- Ẹ má ṣe da Allah àti Ojúṣe Rẹ̀ lẹ́bi, kí ẹ má sì mọ̀ọ́mọ̀ da àwọn ohun tí a fi sílẹ̀ fún yín (àwọn ohun tí a fi lé yín lọ́wọ́ àti gbogbo àwọn ojúṣe tí Allah pa láṣẹ fún yín) lẹ́bi. 8:27
+- Bí ẹ bá tẹríba fún Allah kí ẹ sì bẹ̀rù Rẹ̀, Yóò fún yín ni Furqan (agbára láti mọ ìyàtọ̀ láàrín rere àti búburú). 8:29
+- Àwọn aláìgbàgbọ́ ń ná ohun ìní wọn láti dènà (àwọn ènìyàn) kúrò ní Ọ̀nà Allah, wọn yóò sì máa ná an, ṹ̀gbọ́n nígbẹ̀yìngbẹ́yín yóò di ọ̀fọ̀ fún wọn. 8:36
+- Ẹ sọ fún àwọn aláìgbàgbọ́, bí wọ́n bá dáwọ́ dúró (nínú àìgbàgbọ́), ohun tí ó ti kọjá yóò yí wọ́n dáríjì. ṹ̀gbọ́n bí wọ́n bá (sí i) padà, nígbà náà àwọn àpẹẹrẹ ti àwọn tí ó ṣáájú wọn ti kọjá (gẹ́gẹ́ bí ìkìlọ̀). 8:38
+- Nígbà tí ẹ bá pàdé (agbára ọ̀tá), ẹ máa dúró ṣinṣin níwájú wọn, kí ẹ sì máa rántí orúkọ Allah púpọ̀ (pẹ̀lú ahọ́n àti pẹ̀lú ọkàn), kí ẹ lè ṣàṣeyọrí. 8:45
+- Ẹ má ṣe dàbí àwọn tí ó jáde kúrò nílé wọn pẹ̀lú ìgbéraga àti fífi ara hàn fún àwọn ènìyàn, tí wọn sì ń dènà (àwọn ènìyàn) kúrò ní Ọ̀nà Allah. 8:47
+- Allah kì í yí ọ̀pẹ tí Ó ti fi fún àwọn ènìyàn padà títí wọn yóò fi yí ohun tí ó wà nínú ara wọn padà. 8:53
+- Àwọn ẹ̀dá tí ó burú jù lọ ní ọ̀dọ̀ Allah ni àwọn aláìgbàgbọ́. 8:55
+- Ọlọ́run ń fi ìfẹ́ àti ìfọkànsí sí àwọn ọkàn tí ó bá gbàgbọ́ nínú Rẹ̀ 8:63
+- Ẹ máa dáàbò bo àwọn tí ó ń wá ààbò, kí ẹ sì máa ràn wọn lọ́wọ́ 9:6
+- Kò tọ́ fún àwọn alápọ̀wé (Mushrikun) láti máa bójútó àwọn ilé mọ́sálásí Allah. 9:17
+- Àwọn (aláìgbàgbọ́, àwọn Júù àti àwọn Kristian) fẹ́ pa Ìmọ́lẹ̀ Allah (tí a fi rán Muhammad ﷺ – Ẹ̀sìn ìbọ̀kan-ṣoṣo Islam) pẹ̀lú ẹnu wọn, ṹ̀gbọ́n Allah kò gbà àyàfi pé kí Ìmọ́lẹ̀ Rẹ̀ parí, bí ó tilẹ̀ jẹ́ pé àwọn aláìgbàgbọ́ kórìíra rẹ̀. 9:32
+- Sadaqah (ìyẹn Zakat) jẹ́ ti àwọn wọ̀nyí nìkan: 1) àwọn òtòṣì, 2) àwọn aláìní, 3) àwọn tí a gbàwé láti ṣàjọpín rẹ̀, 4) láti fàwọn tí wọ́n rọ̀ mọ́ Islam, 5) láti dá àwọn ẹrú sílẹ̀, 6) fún àwọn onígbèsè, 7) ní Ọ̀nà Allah (ìyẹn fún àwọn Mujahidun), àti 8) fún arìnrìn-àjò. 9:60
+- Ẹnikẹ́ni tí ó bá tako tí ó sì ń ṣe ọ̀tá sí Allah àti Ojúṣe Rẹ̀ (ﷺ), dájúdájú iná ọ̀run àpáàdì ni tìrẹ̀, yóò sì máa gbé ibẹ̀ láé. Ìyẹn ni ìtìjú ńlá. 9:63
+- Àwọn agàbàgebè, ọkùnrin àti obìnrin, wọn jọra wọn. Wọn ti gbàgbé Allah, nítorí náà Òun sì ti gbàgbé wọn. 9:67
+- Ẹ máa sapá fún mímọ́. Ẹ máa bọ̀wọ̀ fún mímọ́ ilé mọ́sálásí 9:108
+- Kò tọ́ fún Ànábì àti àwọn onígbàgbọ́ láti máa bẹ̀bẹ̀ fún ìdáríjì lọ́dọ̀ Allah fún àwọn alápọ̀wé, bí ó tilẹ̀ jẹ́ pé wọ́n jẹ́ ìbátan, lẹ́yìn tí ó ti kédè fún wọn pé wọn jẹ́ àwọn ará Iná (nítorí wọ́n kú nígbà tí wọn kò gbàgbọ́). 9:113
+- Ta ni ó ṣe búburú ju ẹni tí ó dake èké sí Allah, tàbí ẹni tí ó kọ àwọn Ẹsẹ Rẹ̀? Dájúdájú, àwọn ẹlẹ́ṣẹ̀ kò ní ṣàṣeyọrí! 10:17
+- Wọ́n ń jọ́sìn lẹ́yìn Allah àwọn ohun tí kò lè ṣe wọn láàánú tàbí kí wọn ṣe wọn lánfààní, wọ́n sì ń sọ pé: "Àwọn wọ̀nyí ni àwọn alágbèjáwọ wa ní ọ̀dọ̀ Allah." Sọ: "Ṣé ẹ̀yin ń sọ fún Allah ohun tí Kò mọ̀ ní àwọn ọ̀run àti ní ilẹ̀?" Ògo ni fún Un, Ó sì ga jù ohun tí wọn ń fi ṣe alábàápín fún Un lọ! 10:18
+- Ẹ̀san iṣẹ́ búburú ni irú rẹ̀. 10:27
+- Ọlọ́hun náà ni Allah, Olúwa yín tí ó jẹ́ òtítọ́. Nítorí náà, lẹ́yìn òtítọ́, ohun mìíràn àfi àṣìṣe ni kù? Nígbà náà, báwo ni a ṣe ń yí yín padà? 10:32
+- Ọ̀pọ̀ wọn kò tẹ̀lé ohunkóhun bí kò ṣe ìrò. Dájúdájú, ìrò kò lè rópo òtítọ́. 10:36
+- Dájúdájú, Allah kò ṣe àìṣòdodo sí àwọn ènìyàn ní ohunkóhun, ṹ̀gbọ́n àwọn ènìyàn ń ṣe àìṣòdodo sí ara wọn. 10:44
+- Ẹ mọ̀ pé ǹkan jẹ́ tí Ọlọ́run tó dára ju ohunkóhun tí ènìyàn lè kó jọ tàbí tí ó lè ṣàǹfààní lọ 10:58
+- Ẹ má ṣe jẹ́ ọ̀kan nínú àwọn tí ń kọ àwọn Ẹsẹ Allah, nítorí nígbà náà ẹ yóò jẹ́ ọ̀kan nínú àwọn olùdánù. 10:95
+- Bí Allah bá fi ìpọ́njú kàn yín, kò sí ẹni tí lè yọ́ ọn kúrò bí kò ṣe Òun; bí Ó bá sì fẹ́ ohun rere fún yín, kò sí ẹni tí lè tan Ojú-rere Rẹ̀ padà, tí Ó ń jẹ́ kí ó dé bá ẹni tí Ó fẹ́ nínú àwọn iranṣẹ́ Rẹ̀. 10:107
+- Kò sí ẹ̀dá tí ń la lórí ilẹ̀ tí oúnjẹ rẹ̀ kò bá jẹ́ ti Allah. Òun sì mọ ibi tí ó ń gbé àti ibi tí a ó gbé palẹ̀ (nínú rẹ̀) (nínú ilẹ̀). 11:6
+- Bí a bá fi àánú kan láti ọ̀dọ̀ Wa tọ́ ọ wá, a sì yọ́ ọn kúrò lọ́dọ̀ rẹ̀, dájúdájú! Ó máa sọ̀rẹ̀, ó sì ń ṣe aláìmoore. 11:9
+- Ẹnikẹ́ni tí ó bá fẹ́ ayé yi àti ọ̀ṣọ́ rẹ̀, A ó fún wọn ní kíkún ẹ̀san iṣẹ́ wọn nínú rẹ̀, wọn kò sì ní dín kù. 11:15
+- A kò ṣe àìṣòdodo sí wọn, ṹ̀gbọ́n wọn ló ṣe àìṣòdodo sí ara wọn. Nítorí náà, àwọn òrìṣà wọn tí wọn ń pe lẹ́yìn Allah, kò ṣe wọn lánfààní ní ohunkóhun nígbà tí àṣẹ Olúwa yín dé, wọn kò sì fi ohunkóhun kún wọn bí kò ṣe ìparun. 11:101
+- Ní Ọjọ́ tí yóò dé, kò sí ẹni tí yóò sọ̀rọ̀ àyàfi pẹ̀lú ìyọ̀nda Rẹ̀. Àwọn kan nínú wọn yóò jẹ́ aláìníláárí àti (àwọn kan) Ọlọ́lá. 11:105
+- Fún àwọn aláìníláárí, wọn yóò wà nínú Iná, wọn yóò máa kígbe àti máa kù ín. 11:106
+- Wọn yóò máa gbé ibẹ̀ ní gbogbo ìgbà tí àwọn ọ̀run àti ilẹ̀ bá ń bẹ, àyàfi bí Olúwa yín bá fẹ́. Dájúdájú, Olúwa yín ń ṣe ohun tí Ó bá fẹ́. 11:107
+- Àwọn Ọlọ́lá yóò wà nínú Ọ̀run, wọn yóò máa gbé ibẹ̀ ní gbogbo ìgbà tí àwọn ọ̀run àti ilẹ̀ bá ń bẹ, àyàfi bí Olúwa yín bá fẹ́, gẹ́gẹ́ bí ẹ̀bùn tí kò lópin. 11:108
+- Ẹ má ṣe tọ̀ sí àwọn tí ń ṣe àìṣòdodo, kí Iná má bá à fọwọ́ kan yín, kí ẹ sì má ní àwọn alábojútó yàtọ̀ sí Allah, bẹ́ẹ̀ ni ẹ kì yóò ní ìrànlọ́wọ́. 11:113
+- Ẹ máa ṣe àdúrà ní àwọn òpin méjèèjì ọjọ́ àti ní àwọn wákàtí alẹ́ (ìyẹn àdúrà márùn-ún ojoojúmọ́). Àwọn iṣẹ́ rere ń pa àwọn iṣẹ́ búburú (àwọn ẹ̀ṣẹ̀ kéékèké) kúrò. 11:114
+- Ti Allah ni ohun ìkọ̀kọ̀ àwọn ọ̀run àti ilẹ̀, sí Òun ni a ó sì dá gbogbo ọ̀ràn padà (fún ìpinnu). 11:123
+- Àṣẹ (tàbí ìpinnu) jẹ́ ti Allah nìkan. Ó ti pa láṣẹ pé kí ẹ má ṣe jọ́sìn ẹnikẹ́ni bí kò ṣe Òun (ìbọ̀kan-ṣoṣo Rẹ̀), ìyẹn ni ẹ̀sìn tààrà, ṹ̀gbọ́n ọ̀pọ̀ ènìyàn kò mọ̀. 12:40
+- Ẹ má ṣe pàdánù ìrètí nínú Àánú Allah 12:87
+- Ọ̀pọ̀ ènìyàn kò ní gbàgbọ́, bí ó tilẹ̀ jẹ́ pé ẹ ń fẹ́ rẹ̀. 12:103
+- Ọ̀pọ̀ wọn kò gbàgbọ́ nínú Allah àyàfi pé wọn ń ṣe alábàápín fún Un (ìyẹn wọn jẹ́ alápọ̀wé). 12:106
+- (Al-Ƙur’ān) kì í ṣe ọ̀rọ̀ àròsọ, ṹ̀gbọ́n ó jẹ́ ìdúróṣánṣán fún àwọn Ìwé Mímọ́ tí ó ti wà tẹ́lẹ̀ (Tawrat, Injil àti àwọn Ìwé Mímọ́ mìíràn) àti àlàyé kúlẹ̀kúlẹ̀ ohun gbogbo, àti ìtọ́sọ́nà àti àánú fún àwọn ènìyàn tí ó gbàgbọ́. 12:111
+- Allah ń pọ̀ṣe oúnjẹ fún ẹni tí Ó bá fẹ́, Ó sì ń dín kù (fún ẹni tí Ó bá fẹ́). 13:26
+- Ẹ máa rántí Allah ní gbogbo ìgbà nípa dhikr. Àwọn tí ó gbàgbọ́ nínú Ọlọ́run ń rí ìtẹ́lọ́rùn nínú rírántí Rẹ̀. 13:28
+- Àwọn tí ó gbàgbọ́ tí wọ́n sì ń ṣe iṣẹ́ rere, wọn yóò jẹ́ onídùnnú àti ọkàn-ọ̀fẹ́. 13:29
+- Àwọn tí ó fẹ́ ayé yìí ju Ọ̀run lọ, tí wọn sì ń dènà (àwọn ènìyàn) kúrò ní Ọ̀nà Allah (Islam), tí wọn sì ń wá ìwọ̀n-ọ̀nà nínú rẹ̀ – àwọn wọ̀nyí wà nínú àṣìṣe tí ó jìnnà. 14:3
+- Ẹ máa fi ìrẹ̀lẹ̀ àti ìmoore hàn nínú ìjọsìn 14:7
+- Àpẹẹrẹ àwọn tí kò gbàgbọ́ nínú Olúwa wọn ni pé àwọn iṣẹ́ wọn dàbí eérú, tí ẹ̀fúùfù ń fẹ́ lórí rẹ̀ ní ọjọ́ ìjì, wọn kò ní lè gba ohunkóhun nínú ohun tí wọ́n ṣiṣẹ́. 14:18
+- Allah yóò fẹsẹ̀ múlẹ̀ fún àwọn tí ó gbàgbọ́, pẹ̀lú ọ̀rọ̀ tí ó dúró ṣinṣin nínú ayé yìí (ìyẹn wọn yóò máa jọ́sìn Allah nìkan) àti ní Ọ̀run. 14:27
+- Ẹ má ṣe rò pé Allah kò mọ ohun tí àwọn aláìṣòdodo (àwọn alápọ̀wé, àwọn oníwà búburú, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ) ń ṣe, ṹ̀gbọ́n Ó ń gbà wọn ní àkókò sí Ọjọ́ tí àwọn ojú yóò máa tẹ̀jú mọ́. 14:42
+- Kí Allah lè san ẹ̀san fún ẹ̀mí kọ̀ọ̀kan gẹ́gẹ́ bí ohun tí ó ṣiṣẹ́. Dájúdájú, Allah ń yára ṣe ìṣirò. 14:51
+- Dájúdájú, A dá ènìyàn láti inú amọ̀ tí ń dún, láti inú ẹrẹ̀ dúdú tí a ṣe bí àwo. 15:26
+- Àwọn jinn, A dá wọn ṣáájú láti inú iná tí kò ní ẹ̀fin. 15:27
+- Ó ní ẹnu-ọ̀nà méje, ẹnu-ọ̀nà kọ̀ọ̀kan ni a ti pín sí (pàtàkì) ẹ̀ka (àwọn ẹlẹ́ṣẹ̀). 15:44
+- Ó dá ènìyàn láti inú Nutfah (ìṣu omi tí a dàpọ̀), lẹ́yìn náà, kíyèsi i, ènìyàn yìí di ọ̀tá gbangba. 16:4
+- Àwọn ẹran ọ̀sìn, Ó dá wọn fún yín; nínú wọn ni ẹ̀wù gbígbóná, àti ọ̀pọ̀lọpọ̀ àǹfààní, látinú wọn ni ẹ sì ń jẹ. 16:5
+- (Ó sì dá) ẹṣin, ìbàkà àti kẹ́tẹ́kẹ́tẹ́, fún gígun àti fún ọ̀ṣọ́. Ó sì ń dá àwọn ohun mìíràn tí ẹ kò mọ̀. 16:8
+- Òun ni Ẹni tí ń rọ̀ omi (òjò) láti ọ̀run wá; nínú rẹ̀ ni ẹ ń mu, láti inú rẹ̀ ni ewéko tí ẹ ń jẹ àwọn ẹran ọ̀sìn yín. 16:10
+- Òun ni Ẹni tí ó tẹ́ okun lọ́wọ́ fún yín, kí ẹ lè jẹ ẹran tuntun (ẹja) láti inú rẹ̀, kí ẹ sì lè mú àwọn ohun ọ̀ṣọ́ tí ẹ ń wọ̀ jáde láti inú rẹ̀. 16:14
+- Ó fi àwọn òkè ńlá gbọn-in gbọn-in sí ilẹ̀, kí ilẹ̀ má bá à gbọn pẹ̀lú yín, àti àwọn odò àti àwọn ọ̀nà, kí ẹ lè rí ọ̀nà. 16:15
+- Ṣé Ẹni tí Ó ń dá dàbí ẹni tí kò dá? Ẹ̀yin kò ní rántí bí? 16:17
+- Bí ẹ bá gbìyànjú láti ka àwọn ore-ọ̀fẹ́ Allah, ẹ kì yóò lè kà wọ́n. 16:18
+- Allah mọ ohun tí ẹ ń fi pamọ́ àti ohun tí ẹ ń ṣàfihàn. 16:19
+- Àwọn tí wọ́n ń pe (àwọn alápọ̀wé) lẹ́yìn Allah kò dá ohunkóhun, wọn ni wọ́n ń dá a. 16:20
+- (Wọn) ti kú, wọn kò sì ni ìyè, wọn kò sì mọ̀ nígbà tí wọn yóò jí. 16:21
+- Ọ̀rọ̀ Wa sí ohun kan nígbà tí A bá fẹ́ rẹ̀ ni pé A wí fún un: "Jẹ́!" tí ó sì jẹ́. 16:40
+- Ṣé àwọn tí ń gbìmọ̀ búburú kò rójú lé e pé Allah kì yóò jẹ́ kí ilẹ̀ gbé wọn mì, tàbí pé ìyà kì yóò bá wọn láti àwọn ọ̀nà tí wọn kò retí? 16:45
+- Ohunkóhun tí ó dára tí ó bá wà lọ́wọ́ yín, ó ti ọ̀dọ̀ Allah wá. Nígbà tí ìpọ́njú bá sì kàn yín, sí Òun ni ẹ ń pariwo. 16:53
+- Lẹ́yìn náà, nígbà tí ó bá yọ ìpọ́njú kúrò lọ́dọ̀ yín, kíyèsi i! Àwọn kan nínú yín ń fi àwọn ẹlòmíràn ṣe alábàápín fún Olúwa wọn. 16:54
+- Nínú àwọn ẹran ọ̀sìn, ẹ̀kọ́ wà fún yín. A ń fún yín ní ohun tí ó wà nínú ikùn wọn, láàárín ìgbẹ́ àti ẹ̀jẹ̀, wàrà mímọ́; tí ó dùn mọ́ àwọn tí ó ń mu ún. 16:66
+- Nítorí náà, ẹ má ṣe fi àwọn àkàwé fún Allah (nítorí kò sí ohun tí ó dàbí Rẹ̀, bẹ́ẹ̀ ni Òun kò dàbí ohunkóhun). Dájúdájú! Allah mọ̀, kí ẹ sì mọ̀. 16:74
+- Ẹ mọ̀ pé Ọlọ́run fún ènìyàn ní etí, ojú, ọgbọ́n, àti ìmọ̀lára kí wọn lè máa dúpẹ́ 16:78
+- Ẹ máa yàgò fún ojúkòkòrò àti ìfẹ́kúfẹ̀ẹ́ 16:97
+- Nígbà tí ẹ bá fẹ́ kà Al-Ƙur’ān, ẹ máa wá ààbò lọ́dọ̀ Allah lọ́wọ́ Ẹ̀ṣù (Sátánì), ẹni tí a lé (tí a bú). 16:98
+- Ẹ mọ̀ pé àìṣòdodo tí a ṣe láìní ìmọ̀ ni a dáríjì fún bí ẹni náà bá ronúpìwàdà tí ó sì ṣàtúnṣe ara rẹ̀ 16:119
+- (Muhammad ﷺ) Ẹ máa pe ènìyàn sí Ọ̀nà Olúwa yín (Islam) pẹ̀lú ọgbọ́n àti ìwàásù rere, kí ẹ sì máa bá wọn jiyàn ní ọ̀nà tí ó dára jù lọ. Pípe àwọn ẹlòmíràn sí Ọ̀nà Ọlọ́run gbọ́dọ̀ jẹ́ pẹ̀lú ọgbọ́n àti oore 16:125
+- Allah wà pẹ̀lú àwọn tí ó bẹ̀rù Rẹ̀ (tí ń ṣe ojúṣe wọn sí i), àti àwọn tí ń ṣe oore. 16:128
+- Al-Ƙur’ān yìí ń tọ́ni sí ohun tí ó jẹ́ òdodo jù àti tààrà jù. 17:9
+- Kò sí ẹni tí yóò ru ẹrù (ẹ̀ṣẹ̀) ẹlòmíràn. 17:15
+- Ẹnikẹ́ni tí ó bá fẹ́ Ọ̀run tí ó sì sapá fún un, pẹ̀lú ìsapá tí ó yẹ fún un, nígbà tí òun jẹ́ onígbàgbọ́, àwọn wọ̀nyí ni àwọn tí ìsapá wọn yóò di a mọyì, a sì yóò san ẹ̀san fún (láti ọ̀dọ̀ Allah). 17:19
+- Ẹ máa bọ̀wọ̀ fún àwọn òbí yín, kí ẹ sì máa ṣe pẹ̀lú oore sí wọn. Ẹ máa ṣègbọràn sí àwọn òbí. Ẹ má ṣe sọ ọ̀rọ̀ àìbọ̀wọ̀ fún wọn. Olúwa yín ti pa á láṣẹ pé kí ẹ má ṣe jọ́sìn ẹnikẹ́ni bí kò ṣe Òun. Àti pé kí ẹ máa ṣe rere sí àwọn òbí yín. Bí ọ̀kan nínú wọn tàbí àwọn méjèèjì bá dé ọjọ́ ogbó lọ́dọ̀ yín, ẹ má ṣe sọ ọ̀rọ̀ àìbọ̀wọ̀ fún wọn, bẹ́ẹ̀ ni ẹ má ṣe kígbe sí wọn, ṹ̀gbọ́n ẹ máa bá wọn sọ̀rọ̀ pẹ̀lú ọ̀wọ̀. 17:23
+- Ẹ máa tẹríba fún wọn pẹ̀lú ìyọ̀nù, kí ẹ sì wí pé: "Olúwa mi! Ṣe àánú fún wọn gẹ́gẹ́ bí wọ́n ṣe tọ́ mi nígbà tí mo wà lọ́mọdé." 17:24
+- Dájúdájú, àwọn onínáwó pípa jù jẹ́ ará àwọn Ẹ̀ṣù, Ẹ̀ṣù sì ń ṣe aláìmoore sí Olúwa rẹ̀. 17:27
+- Ẹ má ṣe ná owó púpọ̀ 17:29
+- Ẹ má ṣe pa àwọn ọmọ yín nítorí ìbẹ̀rù òṣì 17:31
+- Ẹ má ṣe ṣe panṣágà. Ẹ máa pa mímọ́ ìgbéyàwó mọ́, kí ẹ sì máa yàgò fún panṣágà 17:32
+- Ẹ máa fún ní odiwọn tí ó pé nígbà tí ẹ bá ń wọ́n, kí ẹ sì máa wọ́n pẹ̀lú òṣùwọ̀n tààrà. Ìyẹn sàn, ó sì sàn jù ní ọ̀pẹ̀. 17:35
+- (Ẹ̀yin ènìyàn!) Ẹ má ṣe tẹ̀lé ohun tí ẹ kò mọ̀ (fún àpẹẹrẹ, ẹni tí ó sọ pé: "Mo rí i," bí ó tilẹ̀ jẹ́ pé kò rí i, tàbí "Mo gbọ́," bí ó tilẹ̀ jẹ́ pé kò gbọ́). 17:36
+- Ẹ máa jẹ́ onírẹ̀lẹ̀, ẹ má sì ṣe jẹ́ onígbéraga. Ẹ má ṣe máa rìn lórí ilẹ̀ pẹ̀lú ìkùn. Dájúdájú, ẹ kò lè ya ilẹ̀, bẹ́ẹ̀ ni ẹ kò sì lè dé ibi gíga àwọn òkè. 17:37
+- Olúwa yín mọ̀ yín dáa; bí Ó bá fẹ́, Yóò ṣe àánú fún yín, tàbí bí Ó bá fẹ́, Yóò jẹ yín níyà. 17:54
+- Ẹni tí ó bá jẹ́ afọ́jú nínú ayé yìí (ìyẹn ẹni tí kò rí àwọn Àmì Allah tí kò sì gbàgbọ́ nínú Rẹ̀), yóò jẹ́ afọ́jú ní Ọ̀run, yóò sì ṣìnà jù. 17:72
+- Ẹ máa pa àwọn àkókò àdúrà tí a yàn mọ́ 17:78
+- Dájúdájú, A ti ṣàlàyé fún àwọn ènìyàn nínú Al-Ƙur’ān yìí gbogbo irú àkàwé, ṹ̀gbọ́n ọ̀pọ̀ ènìyàn kò (gbàgbọ́) bí kò ṣe pé wọ́n kọ̀. 17:89
+- A ti fi gbogbo irú àpẹẹrẹ kalẹ̀ nínú Al-Ƙur’ān yìí, fún àwọn ènìyàn. ṹ̀gbọ́n ènìyàn jẹ́ oníjàpáta ju ohunkóhun lọ. 18:54
+- Ìyẹn ni ẹ̀san wọn, Ọ̀run Àpáàdì; nítorí wọn kò gbàgbọ́, wọ́n sì ń fi àwọn Ẹsẹ Mi àti àwọn Ojúṣe Mi ṣe ẹlẹ́yà. 18:106
+- Kò tọ́ (fún Ọ̀lá) Allah láti ní ọmọ (èyí ń tọ́ka sí èèkàn àwọn Kristian sí Allah, tí wọ́n ń sọ pé Jésù ni ọmọ Ọlọ́run). Ògo ni fún Un (ó sì ga jù ohun tí wọn ń fi ṣe alábàápín fún Un lọ). 19:35
+- Ẹ máa bá àwọn ènìyàn sọ̀rọ̀ pẹ̀lú ìrọ́lẹ̀ 20:44
+- Ẹ máa díje nínú ṣíṣe rere 21:90
+- Ẹ máa yàgò fún ọ̀rọ̀ asán 23:3
+- Ẹ máa pa ìwà tìjú yín mọ́ 23:5
+- Ẹ máa pa ọkàn yín mọ́ kúrò nínú àwọn ìtẹ̀sí ẹ̀ṣẹ̀ 23:97
+- Ẹ máa dáríjì fún àwọn ẹlòmíràn, kí ẹ sì máa gbà wọn lẹ́bi nínú àwọn àṣìṣe wọn 24:22
+- Ẹ máa bọ̀wọ̀ fún àṣírí àwọn ẹlòmíràn, ní pàtàkì ní ilé wọn. Ẹ máa pa àwọn ẹ̀tọ́ aládùúgbò mọ́ 24:27
+- (Fún àwọn ọkùnrin àti obìnrin) Ẹ máa rẹ ojú yín sílẹ̀. Ẹ máa pa ìwà tìjú àti ìwà mímọ́ yín mọ́. 24:30
+- Ẹ máa fi ìwà tìjú hàn nínú ìmúra àti ìwà hù 24:31
+- Ẹ mọ̀ pé Ọlọ́run ń fún àwọn tí ń jọ́sìn Rẹ̀ tí wọ́n sì ń hùwà rere lọ́wọ́ ààbò àti àlàáfíà 24:55
+- Ẹ má ṣe wọ yàrá àwọn òbí láìní ìyọ̀nda 24:58
+- Ẹ máa jẹ́ onírẹ̀lẹ̀ àti oníwà tìjú 25:63
+- Ẹ máa yàgò fún jẹ́rìí èké àti ẹ̀tàn 25:72
+- Ẹ máa sapá fún ẹ̀san ní Ọ̀run ṹ̀gbọ́n ẹ má ṣe fi àwọn ọ̀ràn yín sílẹ̀ 28:77
+- Ẹ má ṣe pe ọ̀rìṣà mìíràn pẹ̀lú Ọlọ́run 28:88
+- Ẹ má ṣe lọ́wọ́ nínú ìbálòpọ̀ ẹ̀yà kan 29:29
+- Ẹ máa sapá fún didara jù nínú gbogbo ìsapá yín 29:69
+- Ẹ máa ṣe àdúrà, kí ẹ sì máa fúnni ní ọ̀rẹ́ 31:4
+- Ẹ máa pa àṣẹ fún ohun tí ó tọ́, kí ẹ sì kọ̀ ohun tí ó burú 31:17
+- Ẹ máa yàgò fún ìgbéraga nínú ìwà yín. Ẹ máa yàgò fún pípa àkókò jù nínú ọ̀rọ̀ asán 31:18
+- Ẹ máa jẹ́ alágbàtọ́ nínú rírìn àti nínú bí ẹ ṣe ń pariwo. 31:19
+- Ẹ máa tẹ̀lé àpẹẹrẹ Ànábì Muhammad 33:21
+- Àwọn obìnrin kò gbọ́dọ̀ fi ẹwà àti ọ̀ṣọ́ wọn hàn tàbí fi wọn ṣe ìgbéraga 33:33
+- Ẹ máa sọ òtítọ́ ní gbogbo ipò 33:70
+- Ẹ máa wá ọgbọ́n àti òye nípa ìrònú jinjìn 38:29
+- Ẹ máa tẹ̀lé àwọn àṣẹ Al-Ƙur’ān 39:23
+- Ọlọ́run ń dáríjì gbogbo ẹ̀ṣẹ̀ nígbà tí ẹlẹ́ṣẹ̀ bá ronúpìwàdà tí ó sì yípadà sí Òun 39:53
+- Ẹ máa ṣe du'ā (àdúrà) tí ó jẹ́ ti òótọ́ sí Allah 40:60
+- Ẹ máa fi ohun tí ó dára jù kọ ohun búburú 41:34
+- Ẹ máa pinnu àwọn ọ̀ràn nípa ìmọ̀ràn 42:38
+- Ẹ má ṣe gbé ohùn yín sókè ju ohùn Ànábì lọ 49:2
+- Ẹ máa pa àwọn àṣírí mọ́, kí ẹ sì máa yàgò fún ìwà ọ̀dàlẹ̀ 49:6
+- Ẹ máa ṣe àtúnṣe láàrín àwọn tí ń jà. Ẹ máa wá ojútùú nínú àwọn ìforígbárí 49:9
+- Ẹ má ṣe fi àwọn ẹlòmíràn ṣe yẹ̀yẹ́ 49:11
+- Ẹ máa yàgò fún ìfura. Ẹ máa yàgò fún ṣíṣe amí àti sísọ ohun tí kò sí ní ẹ̀yìn. Ẹ má ṣe sọ̀rọ̀ ẹ̀gàn tàbí ṣe àbùkù sí àwọn ẹlòmíràn. Ẹ máa yàgò fún gbogbo irú ẹ̀gàn àti ọ̀rọ̀ tí kò ní ẹ̀yìn. Ẹ má ṣe jẹ́ kí ìgbéraga gbé yín lọ sí àìṣe òdodo 49:12
+- Ẹ mọ̀ pé òdodo nìkan ni ó ń sọ ènìyàn di Ọlọ́lá. Ẹ máa bọ̀wọ̀ fún àwọn ìyàtọ̀ láàrín àwọn ènìyàn àti àwọn àṣà 49:13
+- Ẹ máa bọ̀wọ̀ fún àlejò 51:26
+- Ẹ máa kíyèsi àwọn ojúṣe yín sí Allah 51:56
+- Ẹ máa ná ohun ìní nínú iṣẹ́ ọ̀rẹ́ 57:7
+- Ẹ mọ̀ pé kò sí àwọn ajẹ̀sọ (fífi ìgbéyàwó àti ìtura sílẹ̀ gẹ́gẹ́ bí àwọn ajẹ̀sọ tí wọn ń gbé ní àwọn ilé ajẹ̀sọ, tàbí àwọn tí ń ṣe ẹ̀mí ajẹ̀sọ) nínú ẹ̀sìn 57:27
+- Ẹ má ṣe jẹ́ kí ọrọ̀ gbà yín lọ́wọ́ ìrántí Allah 58:11
+- Àwọn tí ó ní ìmọ̀ yóò gba ipò gíga láti ọ̀dọ̀ Allah 58:11
+- Ẹ máa fi oore àti òdodo bá àwọn tí kì í ṣe Musulumi lò 60:8
+- Ẹ máa yàgò fún ìnàgàbàgebè nínú àwọn ìgbàgbọ́ àti ìṣe yín 63:9
+- Ẹ máa yàgò fún ojúkòkòrò àti ìwọ́ra 64:16
+- Ẹ máa pa àwọn ohun tí a fi sílẹ̀ fún yín mọ́ 73:15
+- Ẹ máa kíyèsi Ọjọ́ Ìdájọ́ 75:36
+- Ẹ máa pa àṣẹ fún sùúrù àti ìyọ̀nù 90:17
+- Àwọn tí ó ń sọ ẹ̀mí wọn mọ́ ni yóò ṣàṣeyọrí, àwọn tí ó bá sì ń bà á jẹ́ ni yóò kùnà 91:10
+- Ẹ má ṣe kọjá tàbí kí ẹ yà fún aláìní 93:10
+- Ẹ máa wá ìmọ̀ àti òye. Ẹ máa kà Al-Ƙur’ān, kí ẹ sì máa ronú lórí rẹ̀ 96:1–5
+- Ẹ máa gbani níyànjú láti máa bọ́ àwọn òtòṣì 107:3
 """;

@@ -3318,4 +3318,280 @@ Matching Phrases 8 words
 - Allah jwaakunnyangulila upile kwa jwaakuntogolela mwa akapolo Gwakwe, ni jwaakunyolela. (اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ) 28:82; 29:62
 - Ni n’takujilisyangwa kwa Jwakwimanyilila gasilo ni gapikanisyili, tajasimanyisye yaleyo m’n’kuikola. (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
 - Ni achakwate lusyono, jine jao jili jakongali nnope kwa jine, m’Chitabu cha Allah. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
+cmds - Commands, Exhortations, Prohibitions, Instructions
+- fard / wajib (فرض / واجب) — jakwele (akusagwa; kuleka ni masala)
+- mustahabb / mandub (مستحب / مندوب) — jakusyungulwa (malipilo akakamanyika, kuleka ngani masala)
+- mubah (مباح) — jakupilikana / jajakwe (pali malipilo kapena masala)
+- makruh (مكروه) — jangakukondwa (jikana, kase kuti jakamanyika ngani masala)
+- haram (حرام) — jasalaswe (kukamanyika ni masala)
+- halal (حلال, jakupilikana / jamanyikwa ni chilamusi) — jakumbwanika mubah ni mustahabb — chilichose chime chasalaswe
+- Munjeje Allah jikape ni musose ngachindedi chaKwe. 1:5
+- Munjeje Allah jikape 2:21
+- Musamkwanjisye Allah mwakwisa osyongene najo 2:22
+- Allah ni Jwakulekana (jwakupochela kuwa kwiilumbo), Jwakupochele kuwa kwa Adam (عَلَيْهِ ٱلسَّلَامُ). 2:37
+- Musang'anaganye yachakwili ni yachilumbi, wala musiyise yachakwili. 2:42
+- Panganyani Swala (mapwapwate ga kila lisu) ni mbe Sonde (yakusyao). 2:43
+- Mwaamulisye asywene ngani yakwimilile pakaliji pe mwekanyite mwalisyene 2:44
+- Musose chindedi cha Allah muinambo syenwe syosope 2:45
+- Musijikite kapena musyagulanye utau 2:60
+- Musakatomole asandu kusyendela kunyumba syakunjeja 2:114
+- Muchisanyichisye uswelo wa Msikiti. Usije mamalo genu ga mapwapwate kugamba ni gachiswe ni gachikongwe 2:125
+- Muchikumbusye Allah (kwa mapwapwate, kusyukuru, nk.) ni Jwalakwe chakunkumbusyeni, ni mbe mwakwimanya kwa Jwe. 2:128
+- Mpililani pakuchitika syakusakala 2:153
+- Musakagulile nyende sya Citan (Setane) jwankulumbana jwachakwili. 2:168
+- Musamkagulile mundu jwalijose chikajimakana 2:170
+- Usijile ni ukwambosye indu syosope syakusyungwa. Panganyani imisyigo yenu ja dini kwa uchikakuli. Kambosyani ilapo syenu ni malagano. Kambosyani malagano, ngakukulungwa syakumalagana ni Allah. Mbachindikile akwete usyani ni mbasawisye ukosele. Mbelekani kukamanya ileko syakulekasya kwanonya kwa Allah. Musajeka lipelapelya kunkongolela kuwa kwa chilanga 2:177
+- Pali (ukujokola kwa) umi kwenu munnagwasyo gwa Qisas (Chilamusi cha Kulinanya muukang'wike). 2:179
+- Musyale kusala mwe usi wa Ramadan. Kusyale kusala kwakulamwiswe kuti mbe Akunyogopa Allah. 2:183
+- Muchisanyichisye Qur'an ni m'buchwe jwakulongosya jopegwede 2:185
+- Musajilye mali ga jwine jwine chakulauya, wala musape sonje kwa achimakwani (kajiliji pakwiyanga yamang'wenu). 2:188
+- Musakanyasye asywene, kwa lilobe kapena kwa chitendo. Nkali lelo nganimusomene ku ngondo mwanti mwakushimanya ndende, kase kuti kujikombola 2:190
+- Musichinjile ni ana maatate. Kwana maatate, mpanganye masengo kwa uchikakuli mmali gao ni musajile mali gao. 2:220
+- Mba kwiilumbo ni musose kulekwa kwa Allah. Musaganile lisiku lya kuchila. Usije kukongweka (kwa chiilu ni kwa kashukulu) 2:222
+- Panganyani masengo genu kwamba mbumba jenu 2:233
+- Mwasagule alongosi mwa kuchilimisyika kwao 2:247
+- Musakong'echisye mundu mu dini 2:256
+- Mutambe mali mu sonde. Mbe mwakusyunga mmali ni mu wakati 2:261
+- Musafumye sonde kwa kwiitapa kwa usyunga wenu 2:262
+- Citan (Setana) akunkomisyanga ni usyani ni akunlamulanga kukamanya yakusakala (ileko). 2:268
+- Mbaasole akwete usyani ni mbachindike 2:273
+- Musijikite mu riba (malipilo ga mali). Musajile mali ga lipungo. Musajile Riba. 2:275
+- Mpe wakuwetwa wakati uwakongwe wa kulipa igawa ali mukosele 2:280
+- Kambosyani lilobe lyenu m'maunusiye ga cimali. Mbe ya chakwili m'masyo genu ga mali. Mpanganye kwa uchinjilichi mmalagano genu gosope. Pamunyaga malagano ga mali kwa wakati wakolanjika, kusalani. Mutole akachilole (akaboni) palisope pamukwete malagano ga cimali. 2:282
+- Usijile ni ukwambosye indu syosope syakusyungwa 2:283
+- Nkuwani ni Itabu syakugwisya ni nkuwani ni Achisalame (Achinkulungwa) wosope 2:285
+- Allah akakamula mundu jwalijose, kase kuti kwakombwela, malipilo gakwe. Jwalakwe apata malipilo ga (yakwimilile) gayakamwile, ni achanganyika kwa (yakusakala) gayakamwile. Allah akakamula mundu kase kuti kwakombwela; ni wamose, tukajakamula. Nkumanyili mu mipango ja Allah, nkali mu makosele 2:286
+- Jwalakwe jwaakukwanichisya malagano ni kwejuga Allah, Allah akwasikana akunjogopa. 3:76
+- Panganyani Hajji (ulendo wa chisalame) kangi kukombwela 3:97
+- Musapagwane 3:103
+- Lamulani yachinonyelo ni mkalasisye yakusakala. Ngong'olecasyani yakwinonyela mu chikungulu chenu. Mwaasye asywene ku kukumbuka kwa Allah 3:104
+- Kwa Allah mwene akulupila mba kulupilile. 3:122
+- Musajile Riba 3:130
+- Mumpililani Allah ni Nkulungwa Jwakwe mpaka mpate chindedi. 3:132
+- Allah akwasikana, akwete chisungu (m'njila ja Allah – sonde, yowela, nk.) m'makongwe ni m'matengu, akunjimicisya chilamwiso, ni akuwalekana asandu. 3:134
+- Njimicisyani chilamwiso. 3:134
+- Lekani ileko ya asywene 3:135
+- Musakwe kunala m'malombo. Mbe mwakupilila ni awala akuchanganya namwe 3:159
+- Kangi Allah ankuchindikanga, pangali jwaakombwe kunkombola; ni kangi akunneka, nduni jwalakwe ja kunkombola? 3:160
+- Jwajwosope chakachipa kuwa. Ni pepala lisiku lya Kukabuka mpe malipilo genu gosope. 3:185
+- Muswila m'nchili yadambi ja chengo ni usyengwe wa chilumba echi. Manyilani kuti Allah jwalamwile chilumba echi kwa ungwana ni kwa nchinga. 3:191
+- Sose ni jwankongwe, malipilo gakwe ganandila mwa chitendo chao. 3:195
+- Kwawala akunjogopa Mbuyawao, mali mapuku gakwete iminambo jinakukita pasi pakwe (ku Mbepo); chakuchilala mwenemo yaka yaka. Chilichose ni chakusyungwa kutyochela kwa Allah. 3:198
+- Ngasakagole kusyungwa kwa Allah m'machitendo genu gosope. 3:200
+- Mpililani kwa Mbuyawenu, munjogopani ni (musakata anang'ando) ya achalongo. 4:1
+- Mbe ana maatate mali gao ni musaganisye (yakusakala) kwa (yakwinonyela); ni musajile mali gao (kwa kuunganika ni mali genu). 4:2
+- Mbe akongwe (akwankulumbana nawo) mahali gao (mali ga unkulumbane gakusungwa kupelwa kwa akongwe papatandubile) kwa mwojo unwelo. 4:4
+- Usijile ni kulisawisya lisyano lya ana maatate 4:6
+- Mali ga jwawele nkudamwaga gawambagwane kati ja mbumba jakwe. Akongwe akwete lisyano lya ng'andamo 4:7
+- Musajile mali ga ana maatate kwa chilanga 4:10
+- Mumpililani ilamulisyano yakwamba ng'andamo 4:11
+- Kusalaswe kujokola akongwe pakuswa kwao, ni nganimkwanikwa kwa kujikwata kwa ukali. Munjile pamo ni wo (akongwe) kwa uswelo. Muchisanyichisye ni mukwambosye lilambo lya akongwe. Mwatendelane ni awekwe kwa chindedi ni kwa kwaumana. Mwatendelane akongwe kwa uswelo ni kwa kwinonyela. 4:19
+- Musankulumbane ni awala akwete uloodo ni mmwe 4:23
+- Musajiulaje (kapena kujiulajisyana). Yowisyoni Allah akunkomelesyanga. Musajile mali ga chajini kwa chilanga. 4:29
+- Kangi mwalekanga ileko yikulu ikusalaswe, Allah chakulekani yakunyanya ni chakunjisani mu Mlyango Wakuchimbichika (ni Mbepo). 4:31
+- Musamsywile yakwanonywelele Allah kwa mmwe mwakupunda asywene. Mbelekani kwa lwaju ni luswelo. 4:32
+- Sose akwete ukulongosya akongwe, kunani Allah jawombwesye mmwe kupunda asywene, ni kwa kusungwa kwawo kutyochela m'mali gawo. Sose ni jwakulongosya ni jwakung'anamya mbumba. 4:34
+- Munjeje Allah ni musamkwanjisye chochose mmwabwakwe, mwatendelane chambone kwa apapi, achalongo, ana maatate, akwete usyani, mjendakwako, muakulutana, mjenda (kunkomana najo), ni awala (akapolo) ga maoko genu ga kwanja. Allah akakwasikana akwete lipelapelya ni akwete kulitapa. Mwatendelane chambone kwa asywene. Mwawonelanje chisungu kwa angakongwe. Usijile ni unang'ando ja mbumba ni muchisanyichisye achalongo. 4:36
+- Musakapelewe kusyunga 4:37
+- Allah akakulekana kukwanjisywa kwa kwakwe, kase kuti akulekana kwakwe mwene jwaakusaka. 4:48
+- Musalusile asywene 4:54
+- Allah akunkulamulanga kukambosya indu syakusyungwa kwa awala akwete lisyano lyakwe. Pamunkwalula kati ja asandu, munkwalule kwa kwinonyela. 4:58
+- Mumpililani Allah ni Nkulungwa Jwakwe. Mwamuchisanyichisye awala akwete ulamusi. 4:59
+- Musakanyasye awala angakongwe kapena akwete usyani. 4:75
+- Chambone chilichose chakunkomelanga, chityochela kwa Allah, ni chakusakala chilichose chakunkomelanga, chityochela kwa mwasyene. 4:79
+- Jwalakwe jwaakumpilila Nkulungwa (Muhammad ﷺ), jwaampilile Allah. 4:80
+- Jwalakwe jwaakuwombela yachinonyelo, apata chijilo, ni jwalakwe jwaakuwombela yakusakala, apata chijilo chakwe. 4:85
+- Ngandende kwa nkulupila kujiulaja nkulupila jwine, mwala kwa chimbo. 4:92
+- Jwalakwe jwaakujiulaja nkulupila kwa mwene, malipilo gakwe ni Jahannamu, kusile mwenemo yaka yaka. Chilamwiso ni lwemu lwa Allah pammwe jakwe, ni akwete ilangasyo yikulu. 4:93
+- Jwalakwe jwaakukwawa (kutyochela mmbumba jakwe) m'njila ja Allah, chakupata pa ulumbi wakusimana maoto gakupochela ni kukongwa. 4:100
+- Mbe mwakunaka wakati mu mapwapwate genu 4:103
+- Musakombange kapena kukamila mwamuna kwa akwakusimba syakusyungwa. 4:105
+- Musose kulekwa kwa Allah; yowisyoni Allah jwaakuleka, jwakwete chisungu. 4:106
+- Mmwe mwakulupila! Mjimice kwa kwinonyela, mbe akulolela Allah, nkali pakuwa kwa mwasyene, kapena apapi awenu, kapena achalongo awenu, kangi jwele jwakuchimbichika kapena jwakusakala. Musaneche kwinonyela; mpanganye manyika kukotola chilanga. 4:135
+- Achimbepo akwasaka kumhuka Allah, kase kuti Jwele akwihuka. 4:142
+- Achimbepo chakutyochela kutali m'Moto; nganimpatila munakombwele. 4:145
+- Allah akakusakana kusyasalwa yakusakala pa umanyilo, mwala jwaakuchilwa. 4:148
+- Achinkulungwa mbe aloleli a Ngani syakwinonyela ni akomya, mpaka asandu ngakolanje makakala kwa Allah panyuma pa (kuwona) Achinkulungwa. 4:165
+- Kambosyani malagano genu ni malagano 5:1
+- Mbachindikane mu yachinonyelo ni kunjogopa, ngani mu luleko ni mu uta. 5:2
+- Musajile yakujipulusya, myasi, kapena nyama ja nguluwe. 5:3
+- Mbe mwakwinonyela; lipelapelya ni luswelo lwa asywene lisakunkomyeni kuleka kwinonyela. Mbe mwakwinonyela m'masyo genu. Manyilani kuti kwinonyela kwanandila ni kunjogopa. Musaneche kwinonyela; mpanganye manyika kukotola chilanga. 5:8
+- Musose njila sya kunsyengulila Allah, ni mpunde m'njila jakwe mpaka kukombwela. 5:35
+- Kambosyani ilapo syenu ni malagano. 5:89
+- Mbelekani yakunakolwa ni ufipa. Mbelekani kwa ukali yakunakolwa (indu syosope sya ufipa), ngalo, chiuta, ni imisele ja kusosa ligongo, syosope ni yakunyalala kutyochela mu machitendo ga Citan. 5:90
+- Musaujaje wanyama pa malo ga ihram ja Hajji kapena Umurah. 5:95
+- Musayusye yindu yatigawa yakusalangulilwa kwa mmwe, chakunkomelesyanga. 5:101
+- Musayelele chiuta cha asywene. Musayelele syakukunjegwa nawo (angakulupila) kusyekwape Allah, hili akunjeje Allah kwa usyani. 6:108
+- Kangi munkagulila asandu baje pa ulumbi, chakunkongolela kutyochela m'njila ja Allah. Akakagulila nkali m'malo, ni akakola nnope. 6:116
+- Lekani (mmwe asandu!) ileko syosope, syapatanganya ni syamosile. 6:120
+- Musajile (mmwe mwakulupila!) nyama jangajilikwa lina lya Allah. 6:121
+- Jwalakwe jwaakusakwa Allah kumlongosya, akunkulula chibagwa chakwe kusyengulila Islam; ni jwalakwe jwaakusakwa kumnanganya, akunkomya ni kuchikutaja chibagwa chakwe. 6:125
+- Mbe mwakwipilila m'mapeleka ni mbelekani kukupeliganya. Usijile ni lilambo lya chintu chosope. 6:141
+- Musamkwanjisye Allah chochose, mwatendelane chambone kwa apapi, musajiulaje wanache wenu kwa lwaju lwa usyani, musamchuchile yakunyalala, musajiulaje jwalijose jwaakusalaswa ni Allah, mwala kwa chikwila. 6:151
+- Mbe mwakuchikakuli; musahimbe mu maunusiye genu. Musamchuchile mali ga ana maatate, mwala kwa kugasya, mbe kwinonyela m'malingano ni m'kupima, pamukulombola, mbe yachakwili, nkali kwa chisichilo, ni kambosyani malagano ga Allah. 6:152
+- Kagu lisyani lya kwinonyela ni musakagule (syakwe) njila, pakuti syakunkongolela kutyochela m'njila jakwe. 6:153
+- Mmalanje (mmwe Muhammad ﷺ): "Yowisyoni, mapwapwate gangu, chitambo changu, umi wangu ni chiwa changu ni kwa Allah, Mbuyawao wa ulumbi wosope." 6:162
+- Musakwe lipelapelya. 7:13
+- Citan anganhununyisye. 7:27
+- Mmalanje (mmwe Muhammad ﷺ): "Mbuya wangu alamwile kwinonyela..." 7:29
+- Mambilani mpaka sya Allah muindu syosope. Mbelekani kupunda mmalombo ni mu chitendo. Mjile ni mwapele kase kuti ngankusakala. Mwawale mawalo ganonyela pakupwapwata. 7:31
+- Allah jwalamwile kumungwani ni ulumbi mu Masyo sita, ni pakunyuma, jwakusimama pa Chichembe (mwanti ja Uchimbichika Jwakwe). 7:54
+- Mwaayujile Allah kwa kwiitapa ni kwa mwisiso. Jwalakwe akakwasikana akwete kukombola. 7:55
+- Ni musakusyasisye chilumba panyuma pa kusichiniswa, ni mumwayuje kwa kwejuga ni kusaka. 7:56
+- Kase kuti awala akamwile yakusakala ni kwa lisi lwawo lisi lwaliji, ni nkuwa, Mbuyawenu panyuma paisope akuleka ni akwete chisungu. 7:153
+- Mmalanje (mmwe Muhammad ﷺ): "Mmwe asandu! Yowisyoni, mimi ni Nkulungwa jwa Allah kwa mmwe mmosope..." 7:158
+- Ni (syosope) Mena gachambone ga Allah, mwamuyuje kwa genego, ni mbelekani awala akukana kapena akwihukana lina lyakwe. 7:180
+- Jwalakwe jwaakunanganywa ni Allah, pangali longosi; ni akwakwajima m'malogelo gao. 7:186
+- Munisye kuleka, lamulani yachinonyelo, ni musichoche kwa awala akakumanya (kuti musawakomage). 7:199
+- Lekani ileko ya asywene. 7:199
+- Ni kangi malamusi ga Citan gakunkomelanga, mwisye kwa Allah. Yowisyoni Jwele akupilikana ni akumanya. 7:200
+- Mwakulupila ni awala, pakwe kukumbuka Allah, myoyo jao jikujogopa; ni pakwasomelwa Masyo Gakwe, nkuwa gwakwe gakukula. 8:2
+- Musamhuke Allah ni Nkulungwa Jwakwe, ni musamhuke mwasyene m'masyo genu (indu syakusyungwa ni masengo gosope gagalamwiswe ni Allah). 8:27
+- Kangi munkumpilila Allah ni kunjogopa, chakunpelani Fulukano. 8:29
+- Awala angakulupila akusuta mali gao kulekasyanga (asandu) m'njila ja Allah, ni chakusutanga; kase kuti panyuma chakukola kwao. 8:36
+- Mmalanje kwa awala angakulupila, kangi akuleka (ukangakulupila), yapita kupita ileka. Kase kuti akawuyanga, yesi misalano ja awala japatanganya jiweni (ja kukomya). 8:38
+- Pamukuta (ita ja) uchi, mjimice kwao ni musalikane lina lya Allah nnope (kwa lilobe ni kwa mwojo), mpaka mabwine. 8:45
+- Musakwanuya awala akutyochela mmbumba mwao kwa lipelapelya ni kwilola kwa asandu, ni akulekasyanga (asandu) m'njila ja Allah. 8:47
+- Allah akakusintha chindedi chakwapele andu mpaka asinte yali m'myoyo jao. 8:53
+- Yakusakala ja chintu pakati ja Allah ni awala angakulupila. 8:55
+- Allah akunjisya usyene ni ukuyana kati ja myoyo ja awala akunkulupila. 8:63
+- Usijile ni mbachindike awala akusaka uswelo. 9:6
+- Ngandende kwa akwete ukulupila kwa chiuta kusijila Misikiti ja Allah. 9:17
+- Awala (angakulupila, aYahudi ni aKilisti) akusaka kuyimisa Nuru ja Allah (jaja jwasomwe ni Muhammad ﷺ – Upilikana jumo wa Allah) kwa milomo jao, kase kuti Allah nganakombwe kase kuti nuru jakwe jikwanisye, nkali yapwata akwihukana. 9:32
+- Sawada (Zaka) ni kwa awala: 1) akwete usyani, 2) akwete usyani, 3) akusasanya, 4) kwa kunkomelesya myoyo ja awala akwete ng'ani ja Islam, 5) kwa kukombola akapolo, 6) kwa akwete lyawo, 7) m'njila ja Allah (mmujahida), ni 8) kwa mjenda. 9:60
+- Jwalakwe jwaakumchila Allah ni Nkulungwa Jwakwe (ﷺ) ni jwaakwete usyene, yowisyoni moto wa Jahannamu pa jwele, kusile mwenemo yaka yaka. Gala ni ganakopesya. 9:63
+- Ambepo, sose ni jwankongwe, akutyochela mwa jwine. Alekete Allah, ni Jwalakwe aliwalechele. 9:67
+- Ngasakakole kuwola. Muchisanyichisye uswelo wa Msikiti. 9:108
+- Ngandende kwa Nkulungwa ni awala akulupila kusosa kulekwa kwa Allah kwa akwete ukulupila kwa chiuta, nkali kukola uchi, panyuma pakumanyilila kuti wala ni andu ja Moto (kuti afwile m'manyilile gakangakulupila). 9:113
+- Duni jwajikulumba kujipunda jwakunkwanganya Allah ni jwaakusakana Masyo Gakwe? Yowisyoni, alekole ngabwine! 10:17
+- Akwunjega kwakwe Allah ile ikakombwe kwakwasa kapena kuwakwasa, ni akusyala: "Awa ni awombeli wetu kwa Allah." Mmalanje: "Mmwe m'makunsalila Allah yakakumanya kumungwani ni pa ulumbi?" Aswelewe ni akwiitapanya kupunda yakunswalosya. 10:18
+- Malipilo ga chakusakala ni chakusakala chandana chakwe. 10:27
+- Gala ni Allah, Mbuya wenu jwa chakwili. Lipope panyuma pa chakwili, ngapali kase kuti nananganya? Lelo kwa nndi kunanganywa? 10:32
+- Asandu baje akakagulila nkali mumalo. Yowisyoni, malo gakusakana kukwanisya chakwili. 10:36
+- Yowisyoni, Allah akakwakwasa asandu chachose; kase kuti asandu akwasa mwasyene. 10:44
+- Manyilani kuti chindedi cha Allah chachimbichika kupunda chindu chosope chakombwe mundu kusola. 10:58
+- Musakwe mwa awala akukana Masyo ga Allah, pakuti chakunkomelanga kuwa mwa akwete kusokoneka. 10:95
+- Kangi Allah akunkomelanga makoselo, pangali jwaakombwe kuwotola mmwe mwala Jwele; ni kangi akusaka chambone kwa mmwe, pangali jwaakombwe kuleka nda Jwakwe, jwaakumpa jwaakusaka mwa achikapolo Jakwe. 10:107
+- Pangali chintu chopona pa ulumbi, chitakwete chakulya chakwe ni kwa Allah. Ni akumanya malo gakwe ga kugona ni malo gakwe ga kusongwa (mu chiwemi, kumbi, nk.). 11:6
+- Kangi tumpa mundu yakumanya chindedi kutyochela kwa Uwe, ni kangi kunsyanga, yowisyoni! jwakukola makakala, jwakakwimanya. 11:9
+- Jwalakwe jwaakusaka umi wa chilumba ni kukongwa kwakwe, chiwapanga malipilo gakwe gosope mwenemo, ni ngakusakala. 11:15
+- Twajikwase, kase kuti wala jikwase mwasyene. Chiuta chao, chakwunjeganga kwakwe Allah, chikajakwasa pakuwisyaga lamusi lya Mbuya wenu, wala chikajonjechesya kase kuti chakusakala. 11:101
+- Lisiku lya kuwisyaga, pangali jwaakulombola kase kwa kukombolela kwakwe. Awala apali achimanga ni (awala) akunonyelwa. 11:105
+- Kwawala achimanga, chakutyochela mu Moto, mwenemo apali kuwilima ni kwelima. 11:106
+- Chakuchilala mwenemo, mbwele, kusyendela kumungwani ni ulumbi kase kwa kusaka kwa Mbuya wenu. Yowisyoni, Mbuya wenu akukamanya chakusaka. 11:107
+- Ni awala akunonyelwa, chakutyochela mu Mbepo, mwenemo mbwele, kusyendela kumungwani ni ulumbi kase kwa kusaka kwa Mbuya wenu; jo ni semba jangawile. 11:108
+- Musajendesele kwa akwete chilanga, Moto unakunkomelanga, ni pangali akunkombola mmwe mwala Allah, wala nganinkombolwa. 11:113
+- Panganyani Swala kumbele ni kunyuma kwa lisu ni mawakati gakwe ga usiku (mapwapwate ga masiyo gansanu ga kila lisu). Machitendo ganonyela gakusa machitendo gakusakala (ileko inyanya). 11:114
+- Kwa Allah kukwete yamosile ya kumungwani ni ulumbi, ni kwa Jwele syosope syakuwuyisywa. 11:123
+- Lamusi (kapena kumala) ni kwa Allah. Alamwile kuti musanjeje mmwe Jwele jikape (upilikana jwakwe), gala ni dini lyakwinonyela, kase kuti asandu baje akakumanya. 12:40
+- Musanaswe kwa chisungu cha Allah. 12:87
+- Ni asandu baje ngakulupila, nkali kusaka kukulungwa. 12:103
+- Ni baje wala ngakulupila mwa Allah kase kwa kunkwanjisya (akwete ukulupila kwa chiuta). 12:106
+- (Qur'an) ngani m'lomo gwa kwanga, kase kuti nkuchinichisya sya Itabu sya Allah syapita (Taurat, Injili ni Itabu syakwe) ni kusalangula chindu chosope ni kumanyila ni chisungu kwa asandu akulupila. 12:111
+- Allah akunjongolela chakulya kwa jwaakusaka, ni akukomya (kwa jwaakusaka). 13:26
+- Mwankumbusyani Allah kwa dzikiri. Awala akulupila mwa Allah akupata mwete mu kumkumbuka. 13:28
+- Awala akulupila ni akamanya yakwinonyela, akupata luwo ni mwete. 13:29
+- Awala akusaka umi wa chilumba kusyekwa ya yani, ni akulekasyanga (asandu) m'njila ja Allah (Islam) ni akusaka kujipitulusya – wala ali kunani kwa kupotela. 14:3
+- Mpanganye kwiitapa ni kwimanya mu kujela. 14:7
+- Misyale ja awala angakulupila kwa Mbuyawao ni machitendo gao ga chiwimbi, likupe lya umbepo pampela lya lisiku lya chikulungwa; ngakombwe kupata chindu chosope m'mitundu jao. 14:18
+- Allah chakwalimbanganya awala akulupila kwa lilobe lyakwinonyela pa ulumbi (ni akwete njila ja kunjega Allah jikape) ni pa yani. 14:27
+- Musagane kuti Allah akakumanya yindu yakwete chilanga, kase kuti akunneka mpaka lisiku lyakulola kwa kwejuga. 14:42
+- Mpaka Allah alipile jwalijose kwa machitendo gakwe. Yowisyoni Allah akwete manyika ku malipilo. 14:51
+- Ni yowisyoni, Twamwile mundu kwa ukonjela uwakonda, kwa lilongo lyamasi. 15:26
+- Ni achijini, Twawamwile kala kwa moto ugwanipile. 15:27
+- Uli ni chipata sya musanju; chipata chilichose chilichisyungulile lijana (lya alekole) lyakolanjika. 15:44
+- Jwamwile mundu kwa ulunje (mwikane wa ndume ni jwankongwe), panyuma jwalakwe mundu ju jwati jwakuwa nta. 16:4
+- Ni yanyama, Jwategene kwa mmwe; mwakwe pali kusyala (mawalo ganonyela), ni ukombwe ung'inji, ni mwakwe muakulya. 16:5
+- Ni (jwasengene) mahachi, mapunda ni mbulu, kwakwe munyakwe ni kwa chikongwe. Ni akusenga yindu inyake ingakumanya. 16:8
+- Jwele ni jwaakuitulusya mesi (ula) kutyochela kumungwani; mwakwe muakunywa ni mwakwe kusimika siwanga syakulya sya yanyama. 16:10
+- Jwele ni jwaakuwata lilamba kwa mmwe, mpaka mjile mwakwe nyama jambone (somba), ni mpaka musopochesyemo yakukongwechesya. 16:14
+- Jwamile itumbi mmakomo pa ulumbi, hili jichisichisye, ni iminambo ni njila, mpaka mulongosye. 16:15
+- Ano jwaakusenga nandana ni jwangasenga? Mmwe nganinkumbuka? 16:17
+- Kangi mwasoka malisyo ga Allah, nganinkombwe kugasoka. 16:18
+- Allah akumanya yammosile ni yamukusalangusya. 16:19
+- Awala jakwunjega (akwete ukulupila kwa chiuta) kwakwe Allah ngajisenge chindu, kase kuti wala jisengwe. 16:20
+- (Jifwile), jangali umi, ni jikakumanya yati chijikabuka. 16:21
+- Lilobe Lyetu ku chindu pamutusaka, ni kuti tuti: "Kawa!" ni chakawa. 16:40
+- Kangi awala akusaka makoselo gakusakala, akugana kuti Allah ngakwakwasyanga pa ulumbi, kapena kuti ilangasyo ngachiwakomelanga kutyochela nkati kwangakumanya? 16:45
+- Chisungu ni chambone chilichose chakwete, chityochela kwa Allah. Panyuma pakunkomelanga makoselo, kwa Jwele nkumuyeulila. 16:53
+- Panyuma pakuwotola makoselo kwa mmwe, sano! Asyene wamose akunkwanjisya Mbuyawao. 16:54
+- Mu yanyama mwali chisyanyo kwa mmwe. Tukunkunywesyanga mu yali mu ndumbo jao, kati ja ndu uchi ni myasi, lipe lya uwangala; lipe lyakunonyela kwa akunywanga. 16:66
+- Lelo, musakwanje Allah (pakuti pangali chandana nakwe, wala Jwalakwe jwandana ni chindu). Yowisyoni! Allah akumanya, mmwe nganimanya. 16:74
+- Manyilani kuti Allah jwapele mundu kupilikana, kulola, lunda, ni kumanya mpaka mwimanye. 16:78
+- Mbelekani luswelo ni lipelapelya. 16:97
+- Pamusakasomanga Qur'an, musose chisungi kwa Allah kutyochela kwa Citan, jwaakusimwa (jwaakulwemeswa). 16:98
+- Manyilani kuti chilanga chakamanyiche kwa usyani chililekwa kangi mundu akwiilumba ni kujilongosya. 16:119
+- (Muhammad ﷺ) Mwaasye (asandu) m'njila ja Mbuya wenu (Islam) kwa lunda ni kwa kulaula kwambone, ni mlombolane nawo kwa ya nywele. Kuwaasya asywene m'njila ja Allah kusungwa kwa lunda ni kwa usyene. 16:125
+- Allah ali pamo ni awala akunjogopa (akamanya masengo gao kwa Jwele), ni awala akamanya yakwinonyela. 16:128
+- Qur'an eji jikulongosya kwa yakwinonyela ni yakuchimbichika. 17:9
+- Pangali jwaakutyakula nnimbo ja jwine. 17:15
+- Jwalakwe jwaakusaka yani ni kukamala mwakwe m'ng'ano gwakwe, mwene ali nkulupila, wala ni awala alikujela kwao kukulupilwa ni kukombwa. 17:19
+- Mwamusanyichisye apapi wenu ni mwatendelane nawo kwa uwangala. Mwampilile apapi. Musajilanje lilobe lyakwihukana. Ni Mbuya wenu alamwile kuti musanjeje Jwele jikape. Ni kuti mwatendelane chambone kwa apapi wenu. Kangi jumo mwao kapena wosope awili akusimana usemi pannumba, musajilanje "Ufu" wala kuwililila, kase kuti m'lombolane nawo kwa uswelo. 17:23
+- Ni mwawusyisye chipapiko cha kwiitapa kwa chisungu, ni nkumme: "Mbuya wangu! Mwawonelanje chisungu, mwanti wala wandikulile pandandilemanga." 17:24
+- Yowisyoni, akusokonekola ni alongo ja Citan, ni Citan jwangaakulupila kwa Mbuya jakwe. 17:27
+- Musajisokonekole mali. 17:29
+- Musajiulaje wanache wenu kwa lwaju lwa usyani. 17:31
+- Musakamanye chisambu. Usijile ni uswelo wa mbumba ni mbelekani chisambu. 17:32
+- Mpe mwipimi mwakwinonyela pamukwipima, ni mwepime kwa sikelo syakwinonyela. Gala ni gambone ni gambone panyuma. 17:35
+- (Mundu!) Musakagule yindu yangakumanya (ngakukulungwa kusyala: "Ndiwene," nkali nganiwona, kapena "Ndipilikene," nkali nganipilikana). 17:36
+- Mbe akwiitapa ni musakwe lipelapelya. Musajendesele pa ulumbi kwa lipelapelya. Yowisyoni, nganikombwe kusokola ulumbi, wala kufika kukongwa kwa itumbi. 17:37
+- Mbuya wenu ankumanyilanga chambone; kangi akusaka, chakunkomelesyani, kapena kangi akusaka, chakunlangasyani. 17:54
+- Jwalakwe jwaali chiwembe pa ulumbi (ngakulola ma Aya ga Allah ni ngakunkulupila), ni chiwembe pa yani, ni jwakusokonechela nnope m'njila. 17:72
+- Mwambosye wakati wa mapwapwate. 17:78
+- Yowisyoni, Twasalangulile asandu mu Qur'an eji misyale jikulungwa, kase kuti asandu baje akukana (chakwili ni ngakupochela chindu) kase kuti kukana. 17:89
+- Twapele misyale jikulungwa mu Qur'an eji kwa asandu. Kase kuti mundu jwaakuchikanganya kupunda chindu chosope. 18:54
+- Gala ni malipilo gao, Jahannamu; pakuti ngakulupila ni gatenda ma Aya Gangu ni Achinkulungwa Angu nkali useka. 18:106
+- Ngandende (kwa Usinjilichi) wa Allah kuwa na mwana (gano gakunkanganya aKitistu kwa Allah kwa kwasa kuti Isa (Yesu) ni mwana jwa Allah). Aswelewe (ni akwiitapanya kupunda yawalosya). 19:35
+- Mlombolane na asandu kwa uwangala. 20:44
+- Mmalane kukamanya yakwinonyela. 21:90
+- Mbelekani malombe ga chilema. 23:3
+- Usijile ni kukongweka kwenu. 23:5
+- Usijile ni myoyo jenu kutyochela kwa yakusakala. 23:97
+- Lekani asywene ni kuwalesa ileko. 24:22
+- Muchisanyichisye uswelo wa asywene, ngakukulungwa m'nyumba syao. Mwambosye lilambo lya mjendakwako. 24:27
+- (Sose ni jwankongwe) Mwawusyisye meho genu. Usijile ni kukongweka kwenu. 24:30
+- Mpanganye kwiitapa mu mawalo ni mu machitendo. 24:31
+- Manyilani kuti Allah akunnyata uswelo ni ukuyana kwa akwunjega ni akamanya yakwinonyela. 24:55
+- Musajinjile m'chisimba cha apapi kasa kwa lisyano. 24:58
+- Mbe akwiitapa ni akuswe. 25:63
+- Mbelekani upolofesa wa ujwa ni wa upoteche. 25:72
+- Ngasakakamale kwa malipilo ga yani kase kuti musalekane masengo ga chilumba. 28:77
+- Musanjuche jwalijose jwine pamo ni Allah. 28:88
+- Musakamanye ugoni wa mwamuna mwamuna. 29:29
+- Ngasakakamale kwa ukombwe mu masengo genu gosope. 29:69
+- Mwimisye mapwapwate ni mbe sonde. 31:4
+- Mwamulisye yakwinonyela ni mkalasisye yakusakala. 31:17
+- Mbelekani lipelapelya mu machitendo genu. Mbelekani kusokonechela wakati mu malombe ga chilema. 31:18
+- Mbe mwakwipilila m'jendo jenu ni m'malombe genu. 31:19
+- Mkagulile chisanyo cha Nkulungwa Muhammad. 33:21
+- Akongwe nganinnyosye kapena kwitonya kukongweka kwao ni mapambo gao. 33:33
+- Mmalanje yachakwili m'makolano gosope. 33:70
+- Musose lunda ni umanyi kwa kulola. 38:29
+- Mwambosye ilamulo lya Qur'an. 39:23
+- Allah akuleka ileko syosope kangi jwaalechi akwiilumba ni kuwuyila kwa Jwele. 39:53
+- Mpanganye du'a (kujiujila) kwa Allah kwa usyene. 40:60
+- Mwausile yakusakala kwa yakwinonyela. 41:34
+- Mwamale yindu kwa kuwombana. 42:38
+- Musakwipandile lilobe lyenu kupunda lilobe lya Nkulungwa. 49:2
+- Usijile ni syamsi ni mbelekani uhuka. 49:6
+- Mwapatisye ukuyana kati ja akulimbana. Musose upatanilo m'ngalamu. 49:9
+- Musakosele asywene. 49:11
+- Mbelekani kukolana lwaju. Mbelekani kujola ni kututula. Musajutule kapena kwakwasa asywene. Mbelekani kututula kwosope. Musajeka lipelapelya kunkongolela kuwa kwa chilanga. 49:12
+- Manyilani kuti kwinonyela ni kwakwe kukunkomela mundu kumbone. Muchisanyichisye kuchinjukana kwa andu ni ndamo. 49:13
+- Muchisanyichisye ageni. 51:26
+- Mbe mwakumanya masengo genu kwa Allah. 51:56
+- Mutambe mali mu sonde. 57:7
+- Manyilani kuti pangali kukana unkulumbane (kuleka ndoa ni yindu yakusyungwa mwanti mwa asalate, alobhele, kapena awala akwete ilapo ja dini, kapena nyumba syakwe) mu dini. 57:27
+- Musajeka mali kunkomanga kwa kukumbuka Allah. 58:11
+- Awala akwete umanyi chakupelwa upunda kutyochela kwa Allah. 58:11
+- Mwatendelane na angali Asilamu kwa chambone ni kwa kwinonyela. 60:8
+- Mbelekani kamba m'kulupila ni machitendo genu. 63:9
+- Mbelekani luswelo ni lipelapelya. 64:16
+- Usijile ni indu syakugwisigwisya mmwe. 73:15
+- Mbe mwakumanya Lisiku lya Kukulupila. 75:36
+- Mwamulisye upilili ni uwonele. 90:17
+- Awala akuswelecha myoyo jao, akombwele; ni awala akwaonasa, akalechele. 91:10
+- Musansekane kapena kunkana jwaakwete usyani. 93:10
+- Musose umanyi ni kumanya. Musomanga ni kuswila Qur'an. 96:1–5
+- Mwakong'olecheni kusya akwete usyani. 107:3
 """;

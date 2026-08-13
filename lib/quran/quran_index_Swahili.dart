@@ -3315,4 +3315,280 @@ Matching Phrases 8 words
 - Allah hupanua riziki kwa amtakaye katika waja Wake na huikaza. (اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ) 28:82; 29:62
 - Nanyi mtarudishwa kwa Mjuzi wa ghaibu na dhahiri, naye atawafahamisha mliyokuwa... (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
 - Na walio na uhusiano wa damu wana haki ya kupendekezana katika Kitabu cha Allah. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
+cmds - Commands, Exhortations, Prohibitions, Instructions
+- fard / wajib (فرض / واجب) — wajibu (lazima kufanywa; dhambi kuacha)
+- mustahabb / mandub (مستحب / مندوب) — lilipendekezwa (ujira ukifanywa, si dhambi kuacha)
+- mubah (مباح) — muingilizi / halali (hakuna ujira wala dhambi)
+- makruh (مكروه) — lisilopendekezwa (limekataliwa, lakini si dhambi kufanya)
+- haram (حرام) — haramu (dhambi kufanya)
+- halal (حلال, halali / halali kisheria) — inajumuisha mubah na mustahabb — chochote kisichokuwa haramu
+- Muabuduni Mwenyezi Mungu pekee Yake na muombe msaada Wake. 1:5
+- Muabuduni Mwenyezi Mungu pekee Yake 2:21
+- Msimshirikishe Mwenyezi Mungu na kitu chochote 2:22
+- Mwenyezi Mungu ndiye Anayesamehe (anayekubali toba), Alikubali toba ya Adam (عَلَيْهِ ٱلسَّلَامُ). 2:37
+- Msisichanganye ukweli na uwongo, wala msifiche ukweli. 2:42
+- Tekelezani Sala (swala za kila siku), na toeni Zaka (sadaka). 2:43
+- Amrishieni wengine mema baada ya kuwa mkiyafanya wenyewe 2:44
+- Tafuteni msaada wa Mwenyezi Mungu katika mambo yenu yote 2:45
+- Msijihusishe na wala kusambaza ufisadi 2:60
+- Msiwazuie watu kwenda kwenye nyumba za ibada 2:114
+- Heshimuni utakatifu wa msikiti. Wekeni sehemu zenu za swala safi na takatifu 2:125
+- Mkumbukeni Mwenyezi Mungu (kwa swala, tasbihi, nk.) naye atawakumbuka, na muwe wenye kushukuru Kwake. 2:152
+- Jizoezeni subira katika masaibu 2:153
+- Msiyafuate nyayo za Shetani ambaye ni adui dhahiri. 2:168
+- Msimfuate mtu yeyote kwa upofu 2:170
+- Zihifadhi na zitekelezeni amana zote. Tekelezani majukumu yenu ya kidini kwa ikhlasi. Tekelezani viapo na ahadi zenu. Tekelezani ahadi, hasa zile zilizofanywa kwa Mwenyezi Mungu. Wasaidieni wenye uhitaji na kupunguza mashaka. Epukeni kufanya dhambi zinazoongoza kwenye kupoteza neema ya Mungu. Msiruhusu kiburi kikuongozeni kwenye udhalimu 2:177
+- Katika Qisas (Sheria ya Usawa katika adhabu) mna uzima. 2:179
+- Fungeni mwezi wa Ramadhani. Tekelezeni saumu iliyoamrishwa ili kuwa wacha Mungu. 2:183
+- Heshimuni Quran kama chanzo cha mwisho cha uongozi 2:185
+- Msile mali za wengine kwa udhalimu, wala msizawadia mahakimu (kabla ya kuwasilisha kesi zenu). 2:188
+- Msiwaonee watu, kwa maneno au kwa vitendo. Kamwe msipigane kama wavamizi, bali tu kwa kujilinda 2:190
+- Walinde mayatima. Kuhusu mayatima, fanyeni kazi kwa uaminifu katika mali zao na msile mali zao. 2:220
+- Tubuni na muombe msamaha wa Mwenyezi Mungu. Msifanye ngono wakati wa hedhi. Dumisheni usafi (wa kimwili na kiroho) 2:222
+- Tekelezeni majukumu yenu kwa familia yenu 2:233
+- Chagueni viongozi kwa kuzingatia sifa zao 2:247
+- Msilazimishe mtu yeyote katika dini 2:256
+- Tumieni mali katika hisani. Kuweni wakarimu katika mali na wakati 2:261
+- Msibatilishe hisani kwa kujigamba kwa ukarimu wenu 2:264
+- Shetani anawaogopesha kwa umaskini na kuwaamrisha kufanya uchafu (dhambi). 2:268
+- Watafuteni wenye uhitaji na uwasaidie 2:273
+- Msihusishwe na riba. Msile mali yenye riba. Msile Riba. 2:275
+- Mpeni muda zaidi wa kulipa kama mdaiwa yuko katika shida 2:280
+- Shikeni maneno yenu katika biashara. Kuweni wakweli katika mambo yenu ya fedha. Tendani kwa uaminifu katika ahadi zenu zote. Mnapokopa kwa muda maalumu, andikeni. Chukueni mashahidi kila mnapofanya mkataba wa kibiashara. 2:282
+- Zihifadhi na zitekelezeni amana zote 2:283
+- Amini Vitabu vilivyoteremshwa na Manabii wote 2:285
+- Mwenyezi Mungu hampa mtu mzigo usiozidi uwezo wake. Watapata ujira wa (mema) waliyoyachuma, na wataadhibiwa kwa (maovu) waliyoyachuma. Mungu hampa mtu mzigo usiozidi uwezo wake; wala sisi tusifanye hivyo. Mtumainieni mpango wa Mwenyezi Mungu hata katika shida 2:286
+- Anayetimiza ahadi na kumcha Mwenyezi Mungu sana, basi Mwenyezi Mungu anawapenda wacha Mungu. 3:76
+- Tekelezeni Hijja (hija) kama mna uwezo 3:97
+- Msigawanyike 3:103
+- Amrisheni mema na katazeni maovu. Himizeni uadilifu katika jamii yenu. Waite wengine kwenye kumkumbuka Mwenyezi Mungu 3:104
+- Katika Mwenyezi Mungu waamini lazima wamtumainie. 3:122
+- Msile Riba. 3:130
+- Mtiini Mwenyezi Mungu na Mtume wake kupata rehema. 3:132
+- Mwenyezi Mungu anawapenda wanaotumia (katika Njia ya Mwenyezi Mungu - hisani, sadaka, nk.) katika uwezo na dhiki, wanaozuia hasira, na wanaowasamehe watu. 3:134
+- Zuiieni hasira. 3:134
+- Wasamehe makosa ya wengine 3:135
+- Msiwe wakorofi katika maneno. Kuweni wavumilivu pamoja na wanaotofautiana nanyi 3:159
+- Mwenyezi Mungu akiwasaidia, hakuna atakayewashinda; na akiwaacha, nani baada yake atakayewasaidia? 3:160
+- Kila mmoja ataonja mauti. Na Siku ya Kiyama tu mtapata ujira wenu kamili. 3:185
+- Tafakarini kwa undani juu ya maajabu ya maumbile na uumbaji wa ulimwengu huu. Jueni kwamba Mungu aliumba ulimwengu kwa maana na madhumuni 3:191
+- Wanaume na wanawake wana ujira sawa kwa vitendo vyao 3:195
+- Kwa wanaomcha Mola wao Mlezi, wako Mabustani yenye mito inayopita chini yake (Peponi); watakaa humo milele, kama mkaribisho kutoka kwa Mwenyezi Mungu. 3:198
+- Jitahidini daima kwa ridhaa ya Mwenyezi Mungu katika kila tendo. 3:200
+- Kuwa watiifu kwa Mola wenu Mlezi, mcheni na (msikatane) na jamaa. 4:1
+- WapenI mayatima mali zao, na msibadilishe mali zenu mbaya kwa zao njema; wala msile mali zao kwa kuongeza kwenye mali zenu. 4:2
+- WapenI wanawake (mnapowaona) mahari yao kwa moyo mweupe. 4:4
+- Lindeni haki za mayatima 4:6
+- Mali ya marehemu yagawanywe kati ya wanafamilia yake. Wanawake wana haki ya urithi 4:7
+- Msile mali za mayatima kwa udhalimu 4:10
+- Tiinini amri kuhusu urithi 4:11
+- Imekatazwa kuwarithi wanawake bila radhi yao, na msiwadhulumu. Ishi nayo (mkeo) kwa heshima. Heshimu na zitunze haki za wanawake. Mtendee mwenzi wako kwa wema na huruma. Watendee wanawake kwa heshima na haki 4:19
+- Msioa na wale mlio na uhusiano wa damu nanyi 4:23
+- Msijiue (wala msiuane). Hakika, Mwenyezi Mungu ni Mwenye kurehemu nanyi. Msile mali za wengine kwa dhuluma 4:29
+- Mkiekepa dhambi kubwa zilizokatazwa, Mwenyezi Mungu atazifuta dhambi zenu (ndogo), na kuwakirimu katika Kuingiza Bora (yaani Peponi). 4:31
+- Msiyatamani mambo ambayo Mwenyezi Mungu amewafadhilisha baadhi yenu juu ya wengine. Epukeni wivu na husda 4:32
+- Wanaume ni walinzi na watekelezi wa wanawake, kwa sababu Mwenyezi Mungu amewafadhilisha baadhi yao juu ya wengine, na kwa sababu wanatumia mali zao (kuwategemeza). Mwanaume ndiye mlinzi na mtegemezi wa familia 4:34
+- Muabuduni Mwenyezi Mungu na msimshirikishe na chochote, wafanyieni wema wazazi, jamaa, mayatima, maskini, jirani, sahibu aliye karibu nanyi, msafiri (mnayekutana naye), na wale (watumwa) ambao mikono yenu ya kulima inawamiliki. Mwenyezi Mungu hawapendi wenye kiburi na wanaojigamba. Kuweni wema kwa wengine. Waoneeni huruma wanyonge. Zidumisheni uhusiano wa familia na waheshimuni jamaa. 4:36
+- Msiwe wabahili 4:37
+- Mwenyezi Mungu hasamehei kushirikishwa Kwake, lakini husamehe isipokuwa hilo kwa yeye awatakaye. 4:48
+- Msiwonee wivu wengine 4:54
+- Mwenyezi Mungu anawaamuru kurudisha amana kwa wenyewe. Mnapohukumu baina ya watu, hukumuni kwa haki. 4:58
+- Mtiini Mwenyezi Mungu na Mtume wake. Wapeeni heshima stahiki wale walio na mamlaka miongoni mwenu 4:59
+- Msiwaonee wanyonge au wanyonge 4:75
+- Chochote cha wema kinachowafikia, ni kutoka kwa Mwenyezi Mungu, lakini chochote cha mabaya kinachowapata, ni kutoka kwa nafsi zenu wenyewe. 4:79
+- Anayemtii Mtume (Muhammad ﷺ), amemtii Mwenyezi Mungu. 4:80
+- Anayeombea kwa jambo jema atapata sehemu yake ya ujira, na anayeombea kwa jambo baya atapata sehemu yake ya mzigo wake. 4:85
+- Haiwezekani kwa muumini kumuua muumini mwingine, isipokuwa kwa makosa. 4:92
+- Anayemuua muumini kwa makusudi, malipo yake ni Jahannam, akikaa humo milele. Hasira ya Mwenyezi Mungu na laana yake zimemwandama, na adhabu kubwa imeandaliwa kwake. 4:93
+- Anayehama (kutoka nyumbani kwake) katika Njia ya Mwenyezi Mungu, atapata duniani makao mengi na wingi wa riziki. 4:100
+- Kuwa wenye kuzingatia nyakati za swala zenu 4:103
+- Msiwaunge mkono wala kuwa mawakili kwa wale wanaosaliti amana zao 4:105
+- Ombeni msamaha wa Mwenyezi Mungu, hakika Mwenyezi Mungu ni Msamehevu, Mwenye kurehemu. 4:106
+- Enyi mlioamini! Simameni kwa haki, kuwa mashahidi kwa ajili ya Mwenyezi Mungu, hata kama ni dhidi yenu wenyewe, au wazazi wenu, au jamaa zenu, awe tajiri au maskini. Msiache haki; tendeni haraka katika kurekebisha udhalimu 4:135
+- Wanafiki wanataka kumdanganya Mwenyezi Mungu, lakini ndiye anayewadanganya. 4:142
+- Wanafiki watakuwa katika daraja la chini kabisa la Moto; hatawapatia msaidizi. 4:145
+- Mwenyezi Mungu hapendi uovu usemwe hadharani, isipokuwa na walioudhulumiwa. 4:148
+- Mitume kama wabashiri na waonyaji, ili watu wasiwe na hoja dhidi ya Mwenyezi Mungu baada ya (kuja kwa) Mitume. 4:165
+- Tekelezeni mikataba yenu na ahadi zenu 5:1
+- Saidiana katika wema na uchamngu, wala msisaidiane katika dhambi na uadui 5:2
+- Msile maiti, damu ya wanyama, au nyama ya nguruwe 5:3
+- Kuwa wenye haki; usiruhusu uadui na chuki za wengine kuwafanya muepuke haki. Kuwa wenye haki na usawa katika mambo yenu. Jueni kuwa haki ni karibu na uchamngu. Msiache haki; tendeni haraka katika kurekebisha udhalimu 5:8
+- Tafuteni njia za kumkaribia Mwenyezi Mungu na jitahidini katika Njia Yake kadiri mnavyoweza, ili mfanikiwe. 5:35
+- Tekelezeni viapo na ahadi zenu 5:89
+- Epukeni vileo na pombe. Epukeni kabisa vileo (kila aina ya vinywaji vya kileo), kamari, sanamu, na mishale ya kubahatisha, ambayo yote ni uchafu katika kazi ya Shetani. 5:90
+- Msiwinde wanyama wa porini mkiwa katika hali ya Ihram kwa Hijja au Umra. 5:95
+- Msiulize mambo ambayo, yakifafanuliwa kwenu, yangewasababishia shida. 5:101
+- Msiwatukane miungu ya watu wengine. Msiwatukane wale wanaoabudu (makafiri) badala ya Mwenyezi Mungu, wasije wakamtukana Mwenyezi Mungu kwa ujinga. 6:108
+- Mkiwati’a wengi wa duniani, watakupotezeni katika Njia ya Mwenyezi Mungu. Wanafuata dhana tu, na wanasema uwongo tu. 6:116
+- Achaneni (enyi watu!) na kila aina ya dhambi, dhahiri na zilizofichika. 6:120
+- Msile (enyi mlioamini!) nyama ya mnyama ambaye jina la Mwenyezi Mungu halikutajwa juu yake (wakati wa kuchinjwa). 6:121
+- Anayeambiwa Mwenyezi Mungu kumuongoza, anafungulia kifua chake kwa Uislamu, na anayetaka kumpoteza, anafanya kifua chake kikazane na kubana. 6:125
+- Kuwa wastani katika matumizi na epukeni ubadhirifu. Hifadhi haki za viumbe vyote 6:141
+- Msimshirikishe Mwenyezi Mungu na chochote katika ibada, wafanyieni wema wazazi, msiwauwe watoto wenu kwa kuhofia umaskini, msiukaribie uovu, msiue mtu yeyote ambaye Mwenyezi Mungu amekataza, isipokuwa kwa haki. 6:151
+- Kuwa waaminifu; msidanganye katika biashara zenu zozote. Msiukaribie mali ya yatima, isipokuwa kwa kuiendeleza, toeni kipimo kamili na uzani kwa haki, mnaposema, semeni ukweli, hata kama ni jamaa wa karibu, na timizeni Agano la Mwenyezi Mungu. 6:152
+- Fuateni Njia Iliyonyoka na msifuate (njia) nyingine, kwani zitakupasieni mbali na Njia Yake. 6:153
+- Sema (Muhammad ﷺ): "Hakika, swala yangu, dhabihu yangu, maisha yangu na mauti yangu ni kwa Mwenyezi Mungu, Mola Mlezi wa walimwengu wote." 6:162
+- Msiwe na kiburi 7:13
+- Shetani asiwadanganye. 7:27
+- Sema (Muhammad ﷺ): "Mola wangu Mlezi ameamrisha haki..." 7:29
+- Fuatieni mipaka iliyowekwa na Mwenyezi Mungu katika mambo yote. Epukeni kuvuka mipaka katika maneno na vitendo. Kulani na kunyweni lakini msizidi. Vaeni nguo nzuri wakati wa swala 7:31
+- Mwenyezi Mungu ameumba mbingu na ardhi kwa Siku Sita, kisha amekaa kwenye Kiti cha Enzi (kwa namna inayomstahili Utukufu Wake). 7:54
+- Mwombeni Mola wenu Mlezi kwa unyenyekevu na kwa siri. Yeye hawapendi wavukaji mipaka. 7:55
+- Wala msifanye ufisadi duniani, baada ya kuwekwa sawa, na muombeni kwa khofu na matumaini. 7:56
+- Lakini wale waliofanya maovu na kisha wakatubu baada yake na wakaamini, hakika Mola wenu Mlezi baada ya hayo ni Msamehevu, Mwenye kurehemu. 7:153
+- Sema (Muhammad ﷺ): "Enyi watu! Hakika, mimi ni Mtume wa Mwenyezi Mungu kwenu nyote..." 7:158
+- Na majina mazuri zaidi ni ya Mwenyezi Mungu, basi mwombeni kwayo, na waacheni wale wanaoyakataa au kuyakanusha majina Yake... 7:180
+- Anayepotezwa na Mwenyezi Mungu, hakuna mwongozo kwake; na anawaacha wapotee kipofu katika uasi wao. 7:186
+- Onyesheni msamaha, amrishieni mema, na mgeukeni wajinga (yaani, msiwaadhibu). 7:199
+- Wasameheni wengine makosa yao 7:199
+- Na kama ukishawishiwa na Shetani, tafuta kimbilio kwa Mwenyezi Mungu. Hakika, Yeye ni Mwenye kusikia, Mwenye kujua. 7:200
+- Waumini ni wale tu ambao, Mwenyezi Mungu anapotajwa, nyoyo zao zinaogopa, na Aya Zake zinaposomwa kwazo, zinawazidishia imani... 8:2
+- Msimsaliti Mwenyezi Mungu na Mtume wake, wala msisaliti kwa makusudi amana zenu (mambo yaliyowakabidhiwa, na majukumu yote ambayo Mwenyezi Mungu ameweka kwenu). 8:27
+- Mkimtii Mwenyezi Mungu na kumcha, atawapa Furqan (kiwango cha kuamua baina ya haki na batili). 8:29
+- Wale waliokufuru wanatumia mali zao kuwazuia (watu) kwenye Njia ya Mwenyezi Mungu, na wataendelea kuzitumia; lakini hatimaye zitawasibu. 8:36
+- Waambieni wale waliokufuru, wakiacha (ukufuru), watazisamehewa zilizopita. Lakini wakirudi (kwake), basi mifano ya (adhabu za) waliotangulia tayari imetangulia (kama onyo). 8:38
+- Mnapokutana na (nguvu za) adui, simameni imara na mkumbukeni jina la Mwenyezi Mungu mara nyingi (kwa ulimi na moyo), ili mfanikiwe. 8:45
+- Msiwe kama wale wanaotoka majumbani mwao kwa kiburi na kujionyesha kwa watu, na wanazuia (watu) kwenye Njia ya Mwenyezi Mungu. 8:47
+- Mwenyezi Mungu hataibadili neema aliyowapa watu mpaka wao wabadilishe iliyo katika nafsi zao. 8:53
+- Viumbe waovu zaidi mbele ya Mwenyezi Mungu ni wale waliokufuru. 8:55
+- Mwenyezi Mungu anaweka upendo na maelewano baina ya nyoyo za wale wanaomuamini 8:63
+- Linden na kusaidiwa wale wanaotafuta hifadhi 9:6
+- Hairuhusiwi kwa washirikina kudumisha misikiti ya Mwenyezi Mungu. 9:17
+- Wao (makafiri, Wayahudi na Wakristo) wanataka kuizima Nuru ya Mwenyezi Mungu (aliyotumwa nayo Muhammad ﷺ – Umoja wa Mwenyezi Mungu) kwa vinywa vyao, lakini Mwenyezi Mungu hataruhusu isipokuwa Nuru Yake itakamilishwa, hata kama makafiri wanachukia. 9:32
+- Sadaka (yaani Zaka) ni kwa ajili ya: 1) Masikini, 2) Wanyonge, 3) Wale walioajiriwa kukusanya, 4) Kuvutia nyoyo za wale walioelekea Uislamu, 5) Kuikomboa mateka, 6) Wenye madeni, 7) Katika Njia ya Mwenyezi Mungu (yaani Mujahidun), na 8) Msafiri. 9:60
+- Anayempinga na kuonesha uadui kwa Mwenyezi Mungu na Mtume wake (ﷺ), hakika atakuwa na Moto wa Jahannam, akikaa humo milele. Hiyo ni fedheha kubwa. 9:63
+- Wanafiki, wanaume na wanawake, wamo katika kila mmoja. Wamemsahau Mwenyezi Mungu, naye akawasahau. 9:67
+- Jitahidini kwa usafi. Heshimuni utakatifu wa msikiti 9:108
+- Hairuhusiwi kwa Nabii na wale walioamini kuwaombea msamaha washirikina, hata kama ni jamaa, baada ya kuwabainikia kuwa wao ni wenye Moto (kwa kuwa walikufa wakiwa makafiri). 9:113
+- Ni nani mdhulumu kuliko yule anayemzulia Mwenyezi Mungu uwongo au kuzikanusha Aya Zake? Hakika, wale wanaotenda dhambi hawatafanikiwa! 10:17
+- Wanawaabudu badala ya Mwenyezi Mungu wale wasioweza kuwadhuru wala kuwanufaisha, na wanasema: "Hawa ndio waombezi wetu kwa Mwenyezi Mungu." Sema: "Je, mnammwambia Mwenyezi Mungu asichokijua mbinguni na ardhini?" Atakaswa na kutukuzwa juu ya hayo wanayomshirikisha nayo! 10:18
+- Malipo ya baya ni kama hayo. 10:27
+- Huyo ndiye Mwenyezi Mungu, Mola wenu Mlezi wa kweli. Basi baada ya ukweli, kuna nini isipokuwa upotovu? Basi ni kwanini mnaogeuzwa? 10:32
+- Wengi wao hawafuati ila dhana. Hakika, dhana haifai chochote dhidi ya ukweli. 10:36
+- Hakika, Mwenyezi Mungu hawadhalimu watu lolote; lakini watu wanajidhalimu wenyewe. 10:44
+- Jueni kwamba neema ya Mungu ni bora kuliko chochote mtu awezacho kukusanya au kuhifadhi 10:58
+- Msiwe miongoni mwa wanaozikanusha Aya za Mwenyezi Mungu, maana hapo mtakuwa miongoni mwa waliohasirika. 10:95
+- Mwenyezi Mungu akikusibia madhara, hakuna anayeweza kuondoa ila Yeye; na akitaka kukusibikia mema, hakuna anayeweza kurudisha Fadhili Zake, anazomfikishia amtakaye miongoni mwa waja wake. 10:107
+- Hakuna kiumbe anayeishi duniani isipokuwa riziki yake iko kwa Mwenyezi Mungu. Naye anajua mahali pake pa kukaa na pa kuhifadhiwa (tumbo, kaburi, nk.). 11:6
+- Tukiionjesha mtu rehema kutoka kwetu, kisha tukaiondoa, hakika yeye anakuwa mwenye kukata tamaa, mwenye kukufuru. 11:9
+- Anayetaka maisha ya dunia na mapambo yake, tutawapa kabisa (ujira wa) vitendo vyao humo, na hawataonewa. 11:15
+- Hatukuwadhulumu, bali wao walijidhulumu wenyewe. Hivyo miungu yao, waliyokuwa wakiomba badala ya Mwenyezi Mungu, haikuwasaidia kitu wakati amri ya Mola wako Mlezi ilipokuja, wala haikuongezea chochote ila hasara. 11:101
+- Siku itakapokuja, hakuna mtu atakayesema isipokuwa kwa idhini Yake. Baadhi yao watakuwa wanyonge na (wengine) wenye heri. 11:105
+- Kwa wale walio wanyonge, watakuwa Motoni, wakiugulia na kulia. 11:106
+- Watadumu humo kwa muda wote mbingu na ardhi zitakapodumu, isipokuwa kama Mola wako Mlezi atakavyo. Hakika, Mola wako Mlezi anatenda kama atakavyo. 11:107
+- Na wale walio na heri, watakuwa Peponi, wakidumu humo kwa muda wote mbingu na ardhi zitakapodumu, isipokuwa kama Mola wako Mlezi atakavyo, kama tuzo isiyokoma. 11:108
+- Msiwe na mwelekeo kwa wale wanao dhulumu, isije moto ukawagusa, nanyi msihifadhiwe isipokuwa na Mwenyezi Mungu, wala hamtasaidiwa. 11:113
+- Tekelezani Sala katika ncha mbili za mchana na katika sehemu za usiku (yaani swala tano za kila siku). Matendo mema yanafuta mabaya (dhambi ndogo). 11:114
+- Mwenyezi Mungu anamiliki ghaibu ya mbingu na ardhi, na kwake yanarejeshwa mambo yote (kwa uamuzi). 11:123
+- Uamuzi (au hukumu) ni wa Mwenyezi Mungu tu. Ameamrisha kwamba msimuabudu ila Yeye (Umoja Wake), hiyo ndiyo dini iliyonyoka, lakini watu wengi hawajui. 12:40
+- Kamwe msikate tamaa katika rehema ya Mwenyezi Mungu 12:87
+- Na watu wengi hawataamini hata kama mnatamani sana. 12:103
+- Na wengi wao hawaamini katika Mwenyezi Mungu ila kwa kumshirikisha (yaani wao ni washirikina). 12:106
+- Hiki (Quran) si maneno ya kughushi, bali ni uthibitisho wa Vitabu vilivyotangulia (Taurati, Injili na Vitabu vingine) na maelezo kamili ya kila kitu, na uongozi na rehema kwa watu wanaoamini. 12:111
+- Mwenyezi Mungu anamnyweshea riziki amtakaye, na anamkata (amtakaye). 13:26
+- Mkumbukeni Mwenyezi Mungu mara kwa mara kwa dhikr. Wale wanaoamini katika Mungu wanapata raha kwa kumkumbuka. 13:28
+- Wale wanaoamini na kutenda mema wanapewa furaha na amani ya akili. 13:29
+- Wale wanaopendelea maisha ya dunia badala ya Akhera, na wanazuia (watu) kwenye Njia ya Mwenyezi Mungu (Uislamu) na wanaotafuta upotofu ndani yake – wao wamepotea mbali. 14:3
+- Zoezeni unyenyekevu na shukrani katika ibada 14:7
+- Mfano wa wale wanaomkufuru Mola wao Mlezi ni kwamba vitendo vyao ni kama majivu, ambayo upepo unavipeperusha katika siku ya dhoruba; hawataweza kupata chochote kutokana na yale waliyoyachuma. 14:18
+- Mwenyezi Mungu atawathibitisha wale walioamini kwa neno thabiti duniani (yaani, wataendelea kumuabudu Mwenyezi Mungu peke yake), na Akhera. 14:27
+- Msiifikirie kwamba Mwenyezi Mungu hana habari na yale wanayofanya wadhalimu, bali anawapa muhula mpaka siku ambayo macho yatakodolea kwa khofu. 14:42
+- Ili Mwenyezi Mungu amlipe kila mtu kulingana na alivyochuma. Hakika, Mwenyezi Mungu ni Mwepesi wa kuhisabu. 14:51
+- Na hakika, tulimuumba mtu kutoka kwa udongo ulio sauti, kutoka kwa matope meusi yaliyobadilishwa. 15:26
+- Na majini, tulimuumba kabla ya wakati kutoka kwa moto mkali usio na moshi. 15:27
+- Ina milango saba; kwa kila mlango kuna kikundi (maalum) cha wenye dhambi kilichowekwa. 15:44
+- Amemuumba mtu kutoka Nutfah (matone ya mchanganyiko wa shahawa za kiume na za kike), basi tazama, yule anakuwa adui dhahiri. 16:4
+- Na mifugo, Amewakufanyia; mna katika hizo joto (nguo za joto) na faida nyingi, na kwa hizo mnakula. 16:5
+- Na (Ameumba) farasi, nyumbu, na punda, kwa ajili ya kupanda na kwa mapambo. Na Ameumba vitu vingine ambavyo hamvijui. 16:8
+- Yeye ndiye Anayeshusha maji kutoka mbinguni; kutoka kwayo mnakunywa, na kutoka kwayo hukua mimea mnayochezesha mifugo yenu. 16:10
+- Yeye ndiye Aliyewatiaishieni bahari, ili mpate kula nyama safi (samaki), na mpate kutoa mapambo mnayovaa. 16:14
+- Ameweka milima imara duniani, isije ikainguruma nanyi, na mito na njia, ili mpate kuongoka. 16:15
+- Je, Anayeumba ni kama asiyeumba? Basi, hamkumbuki? 16:17
+- Mkijaribu kuhesabu neema za Mwenyezi Mungu, hamtaweza kuzihesabu. 16:18
+- Mwenyezi Mungu anajua mnayoyaficha na mnayoyadhihirisha. 16:19
+- Wale ambao wanawaomba (washirikina) badala ya Mwenyezi Mungu hawajaumba kitu, bali wao wenyewe wameumbwa. 16:20
+- (Wao ni) maiti, wasio na uhai, na hawajui ni lini watafufuliwa. 16:21
+- Neno letu kwa kitu tunapolitaka, ni kuliambia: "Kuwa!" nalo likawa. 16:40
+- Je, wanao yapanga mipango maovu wanajiona salama kwamba Mwenyezi Mungu hatawazamisha katika ardhi, au kwamba adhabu haitawajia kutoka ambako hawatarajii? 16:45
+- Neema na mema yote mliyo nayo, yanatoka kwa Mwenyezi Mungu. Kisha, mabaya yanapowapata, Kwake mnailaumu. 16:53
+- Kisha, anayowaondolea mabaya, tazama, baadhi yenu wanamshirikisha Mola wao Mlezi. 16:54
+- Katika mifugo, mna mafunzo. Tunawanywesha maziwa safi, yanayotoka matumboni mwao, kati ya mavi na damu, mazuri kwa wanywaji. 16:66
+- Hivyo, msifanilishe na Mwenyezi Mungu (kwa kuwa hakuna kitu kinachofanana Naye, wala Yeye hana mfanano na chochote). Hakika, Mwenyezi Mungu anajua, nanyi hamjui. 16:74
+- Jueni kwamba Mungu aliwapa wanadamu kusikia, kuona, akili, na hisia ili wapate kushukuru 16:78
+- Epukeni tamaa na uchoyo 16:97
+- Mnapotaka kusoma Quran, tafutani kimbilio kwa Mwenyezi Mungu kutokana na Shetani, mwenye kufukuzwa (malaika). 16:98
+- Jueni kwamba dhuluma iliyofanywa kwa ujinga inasamehewa kama mtu anatubu na kujirekebisha 16:119
+- Waite (Muhammad ﷺ) kwenye Njia ya Mola wako Mlezi (Uislamu) kwa hekima na mauidhi mazuri, na mjadiliane nao kwa njia bora. Kuwaita wengine kwenye Njia ya Mungu inapaswa kufanywa kwa hekima na wema 16:125
+- Mwenyezi Mungu yu pamoja na wale wanaomcha (wanayotekeleza majukumu yao kwake), na wale walio wema. 16:128
+- Quran hii inaongoza kwa yaliyo bora na yaliyo sawa zaidi. 17:9
+- Mtu hatabeba mzigo wa mwingine. 17:15
+- Anayetaka Akhera na kuiwekea juhudi zake, kwa juhudi inayostahili huku akiwa muumini, basi hao ndio ambao juhudi zao zitashukuriwa na kulipiwa (na Mwenyezi Mungu). 17:19
+- Waheshimuni wazazi wenu na watendeni kwa wema. Watiini wazazi. Msiwaambie neno la dharau. Na Mola wako Mlezi ameamrisha kwamba msifanye ibada ila kwake Yeye. Na kwamba mwatendee wazazi wako wema. Mmoja wao au wote wawili wakifikia uzee mbele yako, msiwaambie "Uf", wala msiwakomoe, bali waambieni maneno ya heshima. 17:23
+- Na wainamishie bawa la unyenyekevu na rehema, na useme: "Mola wangu Mlezi! Uwarehemu kama walivyonilea mimi nikiwa mdogo." 17:24
+- Hakika, wapotevu ni ndugu za mashetani, na Shetani ni mwenye kumkufuru Mola wake Mlezi. 17:27
+- Msitumie mali kwa ubadhirifu 17:29
+- Msiwaue watoto wenu kwa khofu ya umaskini 17:31
+- Msifanye uzinzi. Lindeni usafi wa ndoa na epukeni uzinzi 17:32
+- Toeni kipimo kamili mnapopima, na pimeni kwa mizani iliyonyoka. Hayo ni mema na bora mwishoni. 17:35
+- Msifuate (mtu, yaani, msiseme, wala msifanye, wala msishuhudie) mambo ambayo mnayajuwa (kwa mfano, mtu akisema: "Nimeona," bila kuona, au "Nimesikia," bila kusikia). 17:36
+- Kuwa wanyenyekevu na msiwe na kiburi. Msitembelee duniani kwa kiburi. Hakika, hamwezi kuipasua ardhi wala kufikia urefu wa milima. 17:37
+- Mola wenu Mlezi anawajua zaidi; akitaka, atawarehemu, au akitaka, atawaadhibu. 17:54
+- Anaye kuwa kipofu duniani (yaani, haoni Ishara za Mwenyezi Mungu na hakuamini), atakuwa kipofu Akhera, na mwenye kupotea zaidi katika Njia. 17:72
+- Zingatieni nyakati zilizowekwa kwa ajili ya swala 17:78
+- Hakika, tumewaelezea watu katika Quran hii kila aina ya mifano, lakini watu wengi wanakataa (ukweli na hawakubali chochote) ila ukufuru. 17:89
+- Tumewaletea watu kila aina ya mifano katika Quran hii. Lakini mtu ni mwenye ugomvi zaidi kuliko kitu chochote. 18:54
+- Hiyo ndiyo malipo yao, Jahannam; kwa sababu walikufuru na wakazichukua Aya Zangu na Mitume wangu kwa mzaha na dhihaka. 18:106
+- Haifai (utukufu wa) Mwenyezi Mungu kuwa na mwana (hili linarejelea uzushi wa Wakristo dhidi ya Mwenyezi Mungu, kwa kusema kwamba Isa (Yesu) ni mwana wa Mwenyezi Mungu). Atakaswa (na kutukuzwa juu ya wale wanavyomshirikisha). 19:35
+- Ongea na watu kwa upole 20:44
+- Shindanani katika kutenda mema 21:90
+- Epukeni maneno yasiyo na maana 23:3
+- Lindeni haya yenu 23:5
+- Lindeni nyoyo zenu dhidi ya mielekeo ya dhambi 23:97
+- Wasameheni wengine na msamehe makosa yao 24:22
+- Heshimuni faragha za wengine, hasa katika nyumba zao wenyewe. Tekelezeni haki za majirani 24:27
+- Shusha macho yenu (wanaume na wanawake). Lindeni haya yenu na usafi wenu. 24:30
+- Zingatieni unyenyekevu katika mavazi na tabia 24:31
+- Jueni kwamba Mungu anawapa usalama na amani wale wanaomuabudu na kutenda wema 24:55
+- Msiingie katika chumba cha wazazi bila ruhusa 24:58
+- Kuwa wanyenyekevu na wapole 25:63
+- Epukeni ushahidi wa uongo na udanganyifu 25:72
+- Jitahidini kwa ujira wa Akhera lakini msiyasahau mambo yenu ya duniani 28:77
+- Msiombe mungu mwingine pamoja na Mungu 28:88
+- Msifanye mapenzi ya jinsia moja 29:29
+- Jitahidini kwa ukamilifu katika juhudi zenu zote 29:69
+- Tekelezeni swala na toeni sadaka 31:4
+- Amrishieni mema na katazeni maovu 31:17
+- Epukeni kiburi katika tabia zenu. Jiepusheni na kupoteza wakati katika mazungumzo ya upuuzi 31:18
+- Kuwa wastani katika mwendo wenu na sauti yenu 31:19
+- Fuateni mfano wa Mtume Muhammad 33:21
+- Wanawake wasionyeshe au kujipamba kwa urembo na mapambo yao 33:33
+- Semeni ukweli katika hali zote 33:70
+- Tafuteni hekima na uelewa kwa tafakari 38:29
+- Tiinini amri za Quran 39:23
+- Mwenyezi Mungu husamehe dhambi zote anapotuba mwenye dhambi na kumgeukia 39:53
+- Fanyeni duʻā (omba) kwa Mwenyezi Mungu kwa ikhlasi 40:60
+- Rudieni uovu kwa walo bora zaidi 41:34
+- Amueni mambo kwa mashauriano 42:38
+- Msiinue sauti zenu juu ya sauti ya Mtume 49:2
+- Hifadhi siri na epukeni usaliti 49:6
+- Patanishieni wale walio katika mgogoro. Tafuteni suluhu katika migogoro 49:9
+- Msiwadhihaki wengine 49:11
+- Epukeni kuhusiana. Epukeni kupeleleza na kusengenya. Msiwasengenye wala kuwachongea. Jiepusheni na kila aina ya kusengenya na kashfa. Msiruhusu kiburi kikuongozeni kwenye udhalimu 49:12
+- Jueni kwamba wema tu ndio unaomfanya mtu kuwa waheshimiwa. Heshimuni tofauti kati ya watu na tamaduni 49:13
+- Waheshimuni wageni 51:26
+- Kuwa makini na majukumu yenu kwa Mwenyezi Mungu 51:56
+- Tumieni mali katika hisani 57:7
+- Jueni kwamba hakuna ukapera (kuacha ndoa na starehe, kama watawa, wasista, au wengine wanaoishi chini ya viapo vya kidini) katika dini 57:27
+- Msiruhusu mali iwavurugie kwenye kumkumbuka Mwenyezi Mungu 58:11
+- Wale walio na elimu watapewa daraja la juu na Mwenyezi Mungu 58:11
+- Wateni wasio Waislamu kwa wema na haki 60:8
+- Epukeni unafiki katika imani na vitendo vyenu 63:9
+- Jiepusheni na tamaa na ubahili 64:16
+- Zihifadhi ufunuo zilizowakabidhiwa 73:15
+- Kuwa makini na Siku ya Kiyama 75:36
+- Amrishieni subira na huruma 90:17
+- Wanaozitakasa nafsi zao wanafanikiwa, na wanaozichafua wanashindwa 91:10
+- Msimdharae wala kumtupa mwenye uhitaji 93:10
+- Tafuteni elimu na uelewa. Isomeni na tafakarini Quran 96:1–5
+- Himizeni kulisha maskini 107:3
 """;

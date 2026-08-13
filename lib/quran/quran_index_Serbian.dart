@@ -3318,4 +3318,280 @@ Matching Phrases 8 words
 - Allah daje opskrbu u izobilju onome kome hoće od robova Svojih, a i uskraćuje. (اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ) 28:82; 29:62
 - I bit ćete vraćeni Onome koji zna nevidljivo i vidljivo, pa će vas obavijestiti o onome što ste radili. (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
 - A oni koji su u srodstvu – jedni su drugima preči u Allahovoj Knjizi. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
+cmds - Commands, Exhortations, Prohibitions, Instructions
+- fard / wajib (فرض / واجب) — obavezno (mora se uraditi; greh je propustiti)
+- mustahabb / mandub (مستحب / مندوب) — preporučljivo (nagrada ako se uradi, nije greh ako se propusti)
+- mubah (مباح) — neutralno / dozvoljeno (nema ni nagrade ni greha)
+- makruh (مكروه) — nepoželjno (obeshrabruje se, ali nije greh ako se uradi)
+- haram (حرام) — zabranjeno (greh je uraditi)
+- halal (حلال, dozvoljeno / zakonito) — obuhvata i mubah i mustahabb — sve što nije zabranjeno
+- Obožavajte samo Allaha i tražite Njegovu pomoć. 1:5
+- Obožavajte samo Allaha 2:21
+- Ne pridružujte Allahu nikakve ortake 2:22
+- Allah je Onaj koji prašta (prima pokajanje), On je primio pokajanje Adema (عَلَيْهِ ٱلسَّلَامُ). 2:37
+- Ne miješajte istinu s neistinom i ne skrivajte istinu. 2:42
+- Obavljajte namaz (svakodnevne molitve) i dajite zekat (milostinju). 2:43
+- Naređujte vrlinu drugima tek nakon što je sami prakticirate 2:44
+- Tražite Allahovu pomoć u svim svojim poslovima 2:45
+- Ne upuštajte se u korupciju i ne širite je 2:60
+- Ne sprečavajte ljude da idu u bogomolje 2:114
+- Poštujte svetost džamije. Održavajte svoja mjesta za molitvu čistima i čednima 2:125
+- Sjećajte se Allaha (molitvom, slavljenjem itd.) i On će vas se sjećati, i budite Mu zahvalni. 2:152
+- Budite strpljivi u nevoljama 2:153
+- Ne slijedite stopama Šejtana (Sotone) koji je otvoreni neprijatelj. 2:168
+- Ne slijedite nikoga slijepo 2:170
+- Čuvajte i ispunjavajte sve povjerene obaveze. Obavljajte svoje vjerske dužnosti iskreno. Ispunite svoje zakletve i ugovore. Držite obećanja, posebno ona data Allahu. Podržavajte one kojima je potrebna pomoć i olakšavajte nevolje. Izbjegavajte činjenje grijeha koji dovode do gubitka Božije naklonosti. Ne dozvolite da vas ponos vodi ka nepravdi 2:177
+- U kisas-u (zakonu jednakosti u kazni) za vas je život. 2:179
+- Postite u mjesecu Ramazanu. Pridržavajte se propisanog posta kako biste postali bogobojazni. 2:183
+- Poštujte Kur'an kao krajnji izvor upute 2:185
+- Ne jedite imovinu jedni drugih na nepravedan način i ne dajite mito sudijama (prije iznošenja svojih slučajeva). 2:188
+- Ne tlačite druge, ni riječju ni djelom. Nikada ne ulazite u borbu kao agresori, već samo u odbranu 2:190
+- Štitite siročad. Što se tiče siročadi, pošteno upravljajte njihovom imovinom i ne prisvajajte njihovu imovinu. 2:220
+- Pokajte se i tražite Allahov oprost. Nemajte polne odnose za vrijeme menstruacije. Održavajte čistoću (i fizičku i duhovnu) 2:222
+- Ispunite svoje obaveze prema porodici 2:233
+- Birajte vođe na osnovu njihovih zasluga 2:247
+- Nema prisile u vjeri 2:256
+- Trošite imovinu u dobrotvorne svrhe. Budite milosrdni i u imetku i u vremenu 2:261
+- Ne poništavajte dobročinstvo hvalisanjem svojom darežljivošću 2:264
+- Šejtan (Sotona) vas prijeti siromaštvom i naređuje vam da činite zlo (grijehe). 2:268
+- Tražite nevoljnike i pomažite im 2:273
+- Ne bavite se kamatom i lihvarenjem. Ne jedite imovinu zasnovanu na kamati. Ne jedite riba (kamatu). 2:275
+- Dajte dužniku više vremena za otplatu ako je u teškoj situaciji 2:280
+- Držite svoju riječ u poslovnim transakcijama. Budite iskreni u svojim finansijskim poslovima. Postupajte s integritetom u svim svojim obavezama. Kada sklapate ugovor o dugu na određeni rok, zapišite ga. Uzimajte svjedoke kad god sklapate trgovački ugovor. 2:282
+- Čuvajte i ispunjavajte sve povjerene obaveze 2:283
+- Vjerujte u objavljene Knjige i sve Vjerovjesnike 2:285
+- Allah ne opterećuje nikoga preko njegovih mogućnosti. Oni dobijaju nagradu za (dobro) koje su zaslužili i kaznu za (zlo) koje su zaslužili. Bog ne opterećuje osobu preko njenih mogućnosti; niti bi mi trebali. Vjerujte u Allahov plan čak i u teškoćama 2:286
+- Ko ispunjava obećanja i boji se Allaha, Allah voli bogobojazne. 3:76
+- Obavite hadž ako ste u mogućnosti 3:97
+- Ne razdvajajte se 3:103
+- Naređujte dobro i zabranjujte zlo. Podstičite pravednost u svojoj zajednici. Pozivajte druge na sjećanje na Allaha 3:104
+- Na Allaha neka se oslanjaju vjernici. 3:122
+- Ne jedite riba (kamatu). 3:130
+- Pokoravajte se Allahu i Njegovom Poslaniku da biste zadobili milost. 3:132
+- Allah voli one koji troše (na Allahovom putu – dobročinstvo, milostinju itd.) u obilju i u oskudici, koji obuzdavaju gnjev i koji praštaju ljudima. 3:134
+- Obuzdavajte gnjev. 3:134
+- Praštajte tuđe greške 3:135
+- Ne budite nepristojni u govoru. Budite strpljivi s onima koji se ne slažu s vama 3:159
+- Ako vam Allah pomogne, niko vas ne može savladati; a ako vas napusti, ko je taj koji vam, osim Njega, može pomoći? 3:160
+- Svako će okusiti smrt. A samo na Sudnjem danu dobit ćete potpunu naknadu. 3:185
+- Duboko razmišljajte o čudima prirode i stvaranju ovog svemira. Znajte da je Bog stvorio svemir sa smislom i svrhom 3:191
+- Muškarci i žene imaju jednaku nagradu za svoja djela 3:195
+- Za one koji se boje svoga Gospodara, tu su bašče kroz koje teku rijeke (u Džennetu); u njima će vječno boraviti, kao počast od Allaha. 3:198
+- Uvijek težite Allahovom zadovoljstvu u svakom postupku. 3:200
+- Budite odani svome Gospodaru, bojte Ga se i (ne kidajte veze) s rodbinom. 4:1
+- Dajte siročadi njihovu imovinu i ne mijenjajte (svoje) loše stvari za (njihove) dobre; i ne jedite njihovu imovinu (dodajući je) svojoj. 4:2
+- Dajte ženama (za koje se ženite) njihov mehr (obavezni bračni dar koji muž daje ženi prilikom sklapanja braka) dobre volje. 4:4
+- Čuvajte prava siročadi 4:6
+- Imovina pokojnika treba da se raspodijeli među članovima njegove porodice. Žene imaju pravo na nasljedstvo 4:7
+- Ne jedite nepravedno imovinu siročadi 4:10
+- Slušajte naredbe o nasljeđivanju 4:11
+- Zabranjeno je nasljeđivati žene protiv njihove volje i grubo se prema njima odnositi. Živite s njima (suprugama) dostojanstveno. Poštujte i uvažavajte prava žena. Odnosite se prema supružniku s ljubaznošću i saosjećanjem. Odnosite se prema ženama s poštovanjem i pravdom 4:19
+- Ne ženite se s onima koji su vam krvni srodnici 4:23
+- Ne ubijajte sebe (niti jedni druge). Allah je, zaista, milostiv prema vama. Ne jedite imovinu jedni drugih nepravedno 4:29
+- Ako izbjegavate velike grijehe koji su zabranjeni, Allah će vam oprostiti vaše (male) grijehe i uvesti vas u plemeniti ulaz (tj. Džennet). 4:31
+- Ne žudite za onim u čemu je Allah neke od vas učinio boljim od drugih. Izbjegavajte zavist i ljubomoru 4:32
+- Muškarci su staratelji i hranitelji žena, jer je Allah dao prednost jednima nad drugima, i zato što oni troše (da ih izdržavaju) iz svoje imovine. Muškarac je zaštitnik i oslonac porodice 4:34
+- Obožavajte Allaha i ne pridružujte Mu ništa u obožavanju, budite dobri prema roditeljima, rođacima, siročadi, siromasima, susjedu, saputniku koji je uz vas, putniku (kojeg sretnete) i onima (robovima) kojima su vam desnice ovladale. Allah ne voli one koji su oholi i hvalisavi. Budite dobri prema drugima. Budite milosrdni prema slabima. Održavajte rodbinske veze i poštujte rođake. 4:36
+- Ne budite škrti 4:37
+- Allah ne prašta da mu se u obožavanju pridružuju ortaci, ali oprašta sve osim toga kome hoće. 4:48
+- Ne zavidite drugima 4:54
+- Allah vam naređuje da vraćate povjerene stvari njihovim vlasnicima. Kada sudite među ljudima, sudite pravedno. 4:58
+- Pokoravajte se Allahu i Njegovom Poslaniku. Poštujte one koji su među vama nadležni 4:59
+- Ne tlačite slabe i ranjive 4:75
+- Sve dobro koje vam dođe je od Allaha, a sve zlo koje vas zadesi je od vas samih. 4:79
+- Ko se pokorava Poslaniku (Muhammedu ﷺ), pokorava se Allahu. 4:80
+- Ko se zauzima za dobru stvar, dobiće nagradu za nju, a ko se zauzima za lošu stvar, dobiće teret njen. 4:85
+- Ne priliči vjerniku da ubije drugog vjernika, osim greškom. 4:92
+- Ko namjerno ubije vjernika, kazna mu je Džehennem, u kome će vječno boraviti. Na njega je Allahov gnjev i prokletstvo, i za njega je pripremljena velika patnja. 4:93
+- Ko se iseli (iz svog doma) na Allahovom putu, naći će na zemlji mnogo skloništa i izobilja. 4:100
+- Budite tačni u svojim molitvama 4:103
+- Ne podržavajte i ne budite branitelji onih koji iznevjeravaju povjerene obaveze 4:105
+- Tražite oprost od Allaha, Allah je, zaista, Onaj koji prašta, Milostivi. 4:106
+- O vjernici! Čvrsto stojte za pravdu, kao svjedoci radi Allaha, pa makar to bilo protiv vas samih, ili protiv roditelja ili rodbine, bio on bogat ili siromašan. Ne odgađajte pravdu; djelujte brzo u ispravljanju nepravde 4:135
+- Licemjeri žele prevariti Allaha, a On ih prevari. 4:142
+- Licemjeri će biti na samom dnu Vatre; nećete naći za njih pomoćnika. 4:145
+- Allah ne voli da se zlo iznosi javno, osim od onoga ko je bio nepravedno postupljen. 4:148
+- Poslanike kao donosioce radosnih vijesti i kao upozoritelje, kako ljudi ne bi imali opravdanja pred Allahom poslije (dolaska) poslanika. 4:165
+- Ispunite svoje ugovore i obećanja 5:1
+- Pomažite jedni drugima u dobročinstvu i bogobojaznosti, a ne u grijehu i neprijateljstvu 5:2
+- Ne jedite uginule životinje, krv životinja i svinjsko meso 5:3
+- Budite pravedni, ne dozvolite da vas neprijateljstvo i mržnja drugih odvrate od pravde. Budite pravedni i pošteni u svojim poslovima. Znajte da je pravda blizu bogobojaznosti. Ne odgađajte pravdu; djelujte brzo u ispravljanju nepravde 5:8
+- Tražite načine približavanja Allahu i trudite se na Njegovom putu koliko god možete, kako biste uspjeli. 5:35
+- Ispunite svoje zakletve i obećanja 5:89
+- Izbjegavajte opojna pića i alkohol. Strogo izbjegavajte opojna pića (sve vrste alkoholnih pića), kockanje, kumire i strelice za gatanje, koji su odvratni i Šejtanovog su djela. 5:90
+- Ne ubijajte divljač dok ste u ihramu za hadž ili umru. 5:95
+- Ne pitajte o stvarima koje bi vam, kad bi vam bile objašnjene, mogle pričiniti nevolju. 5:101
+- Ne vrijeđajte tuđa božanstva. Ne vrijeđajte one koje oni (nevjernici) obožavaju pored Allaha, da ne bi i oni, u neznanju, vrijeđali Allaha. 6:108
+- Ako se pokoravate većini onih koji su na zemlji, oni će vas odvesti s Allahovog puta. Oni slijede samo pretpostavke i samo izmišljaju laži. 6:116
+- Ostavite (o ljudi!) sve vrste grijeha, i javne i tajne. 6:120
+- Ne jedite (o vjernici!) od onog (mesa) nad kojim pri klanju nije spomenuto Allahovo ime. 6:121
+- Onoga koga Allah želi uputiti, On mu otvara grudi za Islam, a onoga koga želi ostaviti u zabludi, On mu čini grudi skučenim i tijesnim. 6:125
+- Budite umjereni u trošenju i izbjegavajte rasipništvo. Čuvajte prava svih stvorenja 6:141
+- Ne pridružujte Allahu ništa u obožavanju, budite dobri roditeljima, ne ubijajte djecu svoju iz straha od siromaštva, ne približujte se sramotnim djelima, ne ubijajte onoga koga je Allah zabranio, osim po pravdi. 6:151
+- Budite pošteni; ne varajte ni u kakvim poslovima. Ne približavajte se imovini siročeta, osim da je popravite, dajte punu mjeru i mjerite na pravi način, kad god govorite, govorite istinu, čak i ako je u pitanju bliski rođak, i ispunite Allahov zavjet. 6:152
+- Slijedite Pravi put i ne slijedite (druge) puteve, jer će vas oni odvojiti od Njegovog puta. 6:153
+- Reci (o Muhammede ﷺ): "Uistinu, moj namaz, moja žrtva, moj život i moja smrt su za Allaha, Gospodara svjetova." 6:162
+- Ne budite oholi 7:13
+- Neka vas Šejtan (Sotona) ne prevari. 7:27
+- Reci (o Muhammede ﷺ): "Gospodar moj naređuje pravednost..." 7:29
+- Pridržavajte se Allahovih granica u svim stvarima. Izbjegavajte prestup u govoru i djelima. Jedite i pijte, ali ne pretjerujte. Nosite lijepu odjeću za vrijeme molitve 7:31
+- Allah je stvorio nebesa i Zemlju za šest dana, a onda se uzvisio na Prijestolju (na način koji dolikuje Njegovom Veličanstvu). 7:54
+- Zazivajte svoga Gospodara ponizno i tajno. On ne voli one koji pretjeruju. 7:55
+- I ne činite nered na Zemlji, nakon što je u njoj uspostavljen red, i zazivajte Ga sa strahom i nadom. 7:56
+- Ali oni koji su činili zla djela, a zatim su se pokajali i povjerovali, tvoj Gospodar je, poslije toga, Onaj koji prašta, Milostivi. 7:153
+- Reci (o Muhammede ﷺ): "O ljudi! Ja sam Allahov poslanik svima vama..." 7:158
+- I (sva) najljepša imena pripadaju Allahu, pa Ga zovite njima, a ostavite one koji iskrivljuju Njegova imena... 7:180
+- Koga Allah ostavi u zabludi, niko ga ne može uputiti; i ostavlja ih da lutaju u svojoj obijesti. 7:186
+- Oprosti, naređuj dobro i okreni se od neznalica (tj. ne kažnjavaj ih). 7:199
+- Opraštajte drugima njihove greške 7:199
+- A ako te Šejtan (Sotona) na zlo navede, zatraži utočište u Allaha. On je, uistinu, Onaj koji sve čuje, Onaj koji sve zna. 7:200
+- Pravi vjernici su samo oni čija se srca, kad se Allah spomene, strahom ispune, a kad im se ajeti Njegovi uče, vjeru im pojačaju... 8:2
+- Ne izdajte Allaha i Poslanika Njegovog, i svjesno ne iznevjerite povjerene vam obaveze. 8:27
+- Ako se budete pokoravali Allahu i bojali Ga se, On će vam dati sposobnost rasuđivanja (između istine i laži). 8:29
+- Oni koji ne vjeruju troše svoje bogatstvo da bi (ljude) odvratili od Allahovog puta, i trošit će ga, ali će im ono na kraju biti na žalost. 8:36
+- Reci onima koji ne vjeruju, ako prestanu (s nevjerstvom), biće im oprošteno ono što je bilo prije. Ali ako se vrate (tome), onda su primjeri (kazne) prijašnjih već dati (kao opomena). 8:38
+- Kada se sretnete s (neprijateljskom) silom, budite čvrsti i često spominjite Allahovo ime (i jezikom i srcem), da biste uspjeli. 8:45
+- Ne budite poput onih koji izlaze iz svojih kuća bahato i da bi se pokazali ljudima i odvraćaju (ljude) od Allahovog puta. 8:47
+- Allah neće izmijeniti blagodat koju je darovao narodu sve dok oni ne promijene ono što je u njihovim dušama. 8:53
+- Najgore životinje kod Allaha su one koje ne vjeruju. 8:55
+- Bog stavlja ljubav i privrženost među srca onih koji vjeruju u Njega 8:63
+- Štitite i pomažite one koji traže zaštitu 9:6
+- Ne priliči mnogobošcima da održavaju Allahove džamije. 9:17
+- Oni (nevjernici, Jevreji i kršćani) žele ugasiti Allahovo svjetlo (kojim je poslan Muhammed ﷺ – islamski monoteizam) svojim ustima, ali Allah neće dozvoliti osim da Njegovo svjetlo bude savršeno, makar nevjernici mrzili. 9:32
+- Sadaka (zekat) je samo za: 1) siromašne, 2) nevoljnike, 3) one koji su zaduženi za njeno prikupljanje, 4) za pridobijanje srca onih koji su skloni Islamu, 5) za oslobađanje robova, 6) za dužnike, 7) za Allahov put (tj. za mudžahide) i 8) za putnike. 9:60
+- Ko se suprotstavlja i neprijateljuje s Allahom i Njegovim Poslanikom (ﷺ), za njega je, sigurno, Džehennemska vatra, u kojoj će vječno boraviti. To je velika sramota. 9:63
+- Licemjeri, muškarci i žene, slični su jedni drugima. Zaboravili su Allaha, pa je i On njih zaboravio. 9:67
+- Težite čistoći. Poštujte svetost džamije 9:108
+- Ne priliči Vjerovjesniku i vjernicima da traže oprost od Allaha za mnogobošce, pa makar im bili i rođaci, nakon što im je postalo jasno da su stanovnici Vatre (jer su umrli u nevjerstvu). 9:113
+- Ko je nepravedniji od onoga koji o Allahu izmišlja laži ili poriče Njegove ajete? Uistinu, mnogobošci nikada neće uspjeti! 10:17
+- Oni se, pored Allaha, klanjaju onima koji im ne mogu nauditi niti im koristiti, i govore: "Ovi su naši zagovornici kod Allaha." Reci: "Zar vi obavještavate Allaha o nečemu što On ne zna na nebesima i na Zemlji?" Slavljen i uzvišen je On od onoga što Mu pridružuju! 10:18
+- Kazna za zlo je slično zlo. 10:27
+- Takav je Allah, vaš istinski Gospodar. I što je onda nakon istine, osim zabluda? Kako ste onda okrenuti? 10:32
+- Većina njih slijedi samo pretpostavke. Pretpostavke nikako ne mogu zamijeniti istinu. 10:36
+- Allah, uistinu, nikome ne čini nepravdu, ali ljudi sami sebi nepravdu čine. 10:44
+- Znajte da je Allahov dar bolji od svega što čovjek može sakupiti ili nagomilati 10:58
+- Ne budi od onih koji poriču Allahove ajete, jer ćeš tada biti među gubitnicima. 10:95
+- Ako Allah dotakne nevoljom, niko je ne može ukloniti osim Njega; a ako vam hoće dobro, niko ne može odbiti Njegovu blagodat koju podaruje kome hoće od Svojih robova. 10:107
+- Nema ni jednog živog bića na Zemlji čija hrana ne zavisi od Allaha. I On zna njegovo boravište i mjesto gdje će počivati (u utrobi, grobu itd.). 11:6
+- Ako dademo čovjeku da okusi milost Našu, a onda mu je oduzmemo, on postaje očajan i nezahvalan. 11:9
+- Ko želi život na ovom svijetu i njegov sjaj, Mi ćemo im u njemu u potpunosti dati (nagradu) za njihova djela, i neće im se umanjiti. 11:15
+- Mi nismo bili nepravedni prema njima, već su oni sami sebi nepravdu činili. I njihova božanstva, kojima su se, pored Allaha, molili, nisu im ništa pomogla kada je došla naredba tvoga Gospodara, i donijela im je samo propast. 11:101
+- Na Dan kada on dođe, niko neće progovoriti bez Allahovog dozvola. Među njima će biti nesretnih i (drugih) sretnih. 11:105
+- Što se tiče nesretnih, oni će biti u Vatri, uzdišući i jecajući. 11:106
+- Oni će u njoj vječno boraviti dok traju nebesa i Zemlja, osim ako Gospodar tvoj drukčije ne odredi. Gospodar tvoj, zaista, radi šta hoće. 11:107
+- A oni koji su sretni, biće u Džennetu, gdje će vječno boraviti dok traju nebesa i Zemlja, osim ako Gospodar tvoj drukčije ne odredi, kao dar bez prestanka. 11:108
+- Ne naginjite onima koji čine nepravdu, da vas Vatra ne dotakne; tada nećete imati zaštitnika osim Allaha, niti ćete biti pomognuti. 11:113
+- Obavljajte namaz na oba kraja dana i u nekim noćnim satima (tj. pet dnevnih namaza). Dobra djela uklanjaju loša djela (tj. male grijehe). 11:114
+- Allahu pripada nevidljivo na nebesima i na Zemlji, i Njemu se sve vraća (na odluku). 11:123
+- Naredba pripada samo Allahu. On naređuje da se samo Njemu klanjate, to je prava vjera, ali većina ljudi ne zna. 12:40
+- Nikada ne gubite nadu u Allahovu milost 12:87
+- I većina ljudi neće vjerovati, čak i ako vi to žarko želite. 12:103
+- I većina njih ne vjeruje u Allaha, a da Mu druge ne pridružuju (tj. oni su mnogobošci). 12:106
+- Kur'an nije izmišljeni govor, već potvrda prijašnjih Knjiga (Tevrata, Indžila i drugih objava) i detaljno objašnjenje svega i uputa i milost za ljude koji vjeruju. 12:111
+- Allah povećava opskrbu kome hoće, a uskraćuje (kome hoće). 13:26
+- Često se sjećajte Allaha zikrom. Oni koji vjeruju u Boga nalaze zadovoljstvo u sjećanju na Njega. 13:28
+- Oni koji vjeruju i čine dobra djela, njima pripada radost i mir duše. 13:29
+- Oni koji više vole život na ovom svijetu nego na onom svijetu, i odvraćaju (ljude) od Allahovog puta (Islama) i traže krivine u njemu, oni su u velikoj zabludi. 14:3
+- Budite ponizni i zahvalni u obožavanju 14:7
+- Primjer onih koji ne vjeruju u Gospodara svoga: njihova djela su kao pepeo, nad kojim je žestoko duvao vjetar u olujnom danu; oni neće moći dobiti ništa od onoga što su zaslužili. 14:18
+- Allah će učvrstiti one koji vjeruju čvrstom riječi na ovom svijetu (tj. oni će nastaviti obožavati samo Allaha) i na onom svijetu. 14:27
+- Ne mislite da Allah ne primjećuje ono što nepravedni (mnogobošci i sl.) čine, već im daje odgodu do Dana kada će oči ostati otvorene od užasa. 14:42
+- Da bi Allah svakome dao nagradu za ono što je zaslužio. Allah je, zaista, brz u obračunu. 14:51
+- I uistinu, Mi smo stvorili čovjeka od suhe, zvonke gline, od promijenjene crne blata. 15:26
+- A džine, Mi smo još prije stvorili od vatre bez dima. 15:27
+- On (Džehennem) ima sedam kapija; za svaku kapiju je određena (posebna) skupina (grešnika). 15:44
+- On stvara čovjeka iz kapi sjemena, a zatim, gle, on postaje otvoreni protivnik. 16:4
+- I stoku, On je stvorio za vas; u njoj imate toplinu (toplu odjeću) i druge koristi, a njome se i hranite. 16:5
+- I (stvorio je) konje, mazge i magarce, da ih jašete i kao ukras. I stvara (druge) stvari koje ne znate. 16:8
+- On je Taj koji s neba spušta vodu; vi iz nje pijete i iz nje raste bilje kojim stoku napasate. 16:10
+- On je Taj koji vam je more podredio, da iz njega jedete svježe meso (ribu) i da iz njega vadite nakit koji nosite. 16:14
+- On je na Zemlji postavio nepomične planine da se ne ljulja s vama, i rijeke i puteve, da biste se usmjeravali. 16:15
+- Pa zar je Onaj koji stvara kao onaj koji ne stvara? Zar se nećete sjetiti? 16:17
+- Ako biste brojili Allahove blagodati, ne biste ih mogli nabrojiti. 16:18
+- Allah zna što skrivate i što objelodanjujete. 16:19
+- Oni kojima se oni (mnogobošci) obraćaju pored Allaha nisu ništa stvorili, nego su i sami stvoreni. 16:20
+- (Oni su) mrtvi, bez života, i ne znaju kada će biti oživljeni. 16:21
+- Kad Mi nešto želimo, Mi samo kažemo: "Budi!" – i ono bude. 16:40
+- Pa zar su oni koji prave zle spletke sigurni da ih Allah neće u zemlju utjerati ili da ih neće kazna stići odakle se ne nadaju? 16:45
+- Sve blagodati i dobra koja imate, od Allaha su. A kada vas nevolja zadesi, Njemu se glasno molite za pomoć. 16:53
+- Zatim, kada On ukloni nevolju od vas, gle, neki od vas druge pridružuju svome Gospodaru. 16:54
+- U stoci je za vas pouka. Mi vam dajemo da pijete ono što je u njihovim trbusima, između izmeta i krvi – čisto mlijeko, ukusno onima koji ga piju. 16:66
+- Zato ne navodite Allahu sličnosti (jer ništa Mu nije slično, niti On liči na bilo šta). Allah, uistinu, zna, a vi ne znate. 16:74
+- Znajte da je Bog čovjeku dao sluh, vid, inteligenciju i osjećanja kako bi bili zahvalni 16:78
+- Izbjegavajte pohlepu i gramzivost 16:97
+- Kada želite učiti Kur'an, potražite utočište u Allaha od Šejtana, prokletog. 16:98
+- Znajte da se nepravda počinjena iz neznanja oprašta ako se osoba pokaje i popravi 16:119
+- Pozivaj (o Muhammede ﷺ) na put Gospodara svoga (Islam) mudrošću i lijepom poukom i sa njima se raspravljaj na najljepši način. Pozivanje drugih na Božiji put treba da bude s mudrošću i dobrotom 16:125
+- Allah je s onima koji se Njega boje i koji dobra djela čine. 16:128
+- Ovaj Kur'an vodi onome što je najpravednije. 17:9
+- Niko neće nositi tuđi teret (grijeha). 17:15
+- Ko želi Ahiret i trudi se za njega, trudom koji mu pripada, a vjernik je, takvima će se trud cijeniti i nagraditi (od Allaha). 17:19
+- Poštujte roditelje i prema njima se ophodite s ljubaznošću. Budite dobri prema roditeljima. Ne govorite im ružne riječi. I Gospodar tvoj je naredio da se samo Njemu klanjate i da roditeljima dobro činite. Ako jedan od njih ili oboje dožive starost kod tebe, ne reci im ni "Uh!" niti ih odbijaj, već im govori plemenite riječi. 17:23
+- I spusti pred njima krilo poniznosti iz milosti i reci: "Gospodaru moj, smiluj im se, kao što su oni mene, kad sam bio mali, odgajali." 17:24
+- Uistinu, rasipnici su braća šejtanova, a šejtan je nezahvalan svome Gospodaru. 17:27
+- Ne trošite rasipno novac 17:29
+- Ne ubijajte djecu svoju iz straha od siromaštva 17:31
+- Ne činite preljubu. Čuvajte svetost braka i izbjegavajte preljubu 17:32
+- Kad mjerite, mjerite pravedno i važite na ispravnoj vagi. To je bolje i ljepše za posljedicu. 17:35
+- Ne slijedi (o čovječe, tj. ne govori, ne čini i ne svjedoči) ono što ne znaš (npr. ako neko kaže: "Vidio sam", a nije vidio, ili "Čuo sam", a nije čuo). 17:36
+- Budite ponizni i ne budite oholi. Ne idi po zemlji bahato. Ne možeš ni zemlju probiti ni planine visinom dostići. 17:37
+- Gospodar tvoj najbolje vas poznaje: ako hoće, smilovat će vam se, a ako hoće, kaznit će vas. 17:54
+- Ko je slijep na ovom svijetu (tj. ne vidi Allahove znake i ne vjeruje u Njega), bit će slijep i na Ahiretu, i još više zalutao. 17:72
+- Pridržavajte se propisanih vremena za namaz 17:78
+- Mi smo u ovom Kur'anu potanko objasnili ljudima svakojake primjere, ali većina ljudi odbija (istinu i ne prihvata ništa) osim nevjerstva. 17:89
+- Mi smo u ovom Kur'anu ljudima naveli svakojake primjere. Ali je čovjek više prepirač nego išta drugo. 18:54
+- Kazna im je Džehennem, zato što nisu vjerovali i što su se rugali Mojim ajetima i Mojim poslanicima. 18:106
+- Ne priliči Allahu da ima dijete (ovo se odnosi na klevetu kršćana protiv Allaha da je Isus Božiji sin). Uzvišen je On (i iznad onoga što Mu pridružuju). 19:35
+- Govorite ljudima blago 20:44
+- Takmičite se u činjenju dobrih djela 21:90
+- Izbjegavajte prazan govor 23:3
+- Čuvajte svoju stidljivost 23:5
+- Čuvajte svoje srce od grešnih sklonosti 23:97
+- Opraštajte drugima i praštajte im greške 24:22
+- Poštujte tuđu privatnost, posebno u njihovim kućama. Ispunjavajte prava susjeda 24:27
+- Spuštajte pogled (i muškarci i žene). Čuvajte svoju stidljivost i čednost. 24:30
+- Budite skromni u odijevanju i ponašanju 24:31
+- Znajte da Bog pruža sigurnost i mir onima koji Ga obožavaju i čine dobra djela 24:55
+- Ne ulazite u roditeljsku sobu bez dopuštenja 24:58
+- Budite skromni i ponizni 25:63
+- Izbjegavajte lažno svjedočenje i prevaru 25:72
+- Težite nagradi na Ahiretu, ali ne zanemarujte ovosvjetske poslove 28:77
+- Ne obraćajte se nikome uz Boga 28:88
+- Ne bavite se homoseksualnošću 29:29
+- Težite izvrsnosti u svim svojim nastojanjima 29:69
+- Obavljajte namaz i dajite milostinju 31:4
+- Naređujte dobro i zabranjujte zlo 31:17
+- Izbjegavajte oholost u ponašanju. Klonite se gubljenja vremena u praznim razgovorima 31:18
+- Budite umjereni u hodu i glasnoći svoga glasa 31:19
+- Slijedite primjer Vjerovjesnika Muhammeda 33:21
+- Žene ne smiju isticati svoju ljepotu i ukrase 33:33
+- Govorite istinu u svim okolnostima 33:70
+- Tražite mudrost i razumijevanje kroz razmišljanje 38:29
+- Slijedite upute Kur'ana 39:23
+- Bog oprašta sve grijehe kada se grešnik pokaje i Njemu se vrati 39:53
+- Činite iskrenu duʻā (dovu) Allahu 40:60
+- Uzvratite na zlo dobrim koje je bolje 41:34
+- Stvari rješavajte dogovorom 42:38
+- Ne podižite svoj glas iznad Poslanikovog glasa 49:2
+- Čuvajte tajne i izbjegavajte izdaju 49:6
+- Mite one koji su u sukobu. Težite pomirenju u sukobima 49:9
+- Ne rugajte se drugima 49:11
+- Izbjegavajte sumnjičenje. Izbjegavajte uhođenje i ogovaranje. Ne klevetajte i ne ogovaraju druge. Izbjegavajte sve oblike ogovaranja i klevete. Ne dozvolite da vas ponos vodi ka nepravdi 49:12
+- Znajte da samo pravednost čini čovjeka plemenitim. Poštujte razlike među ljudima i kulturama 49:13
+- Poštujte goste 51:26
+- Budite svjesni svojih dužnosti prema Allahu 51:56
+- Trošite imovinu u dobrotvorne svrhe 57:7
+- Znajte da u vjeri nema monaštva (odricanje od braka i zadovoljstava, kao kod monaha, monahinja i sl.) 57:27
+- Ne dozvolite da vas bogatstvo odvrati od sjećanja na Allaha 58:11
+- Oni koji posjeduju znanje biće uzvišeniji od Boga po stepenu 58:11
+- Odnosite se prema nemuslimanima ljubazno i pravedno 60:8
+- Izbjegavajte licemjerje u svojim uvjerenjima i postupcima 63:9
+- Klonite se pohlepe i škrtosti 64:16
+- Čuvajte objave koje su vam povjerene 73:15
+- Budite svjesni Sudnjeg dana 75:36
+- Preporučujte strpljenje i saosjećanje 90:17
+- Onaj ko pročišćava svoju dušu uspijeva, a onaj ko je kvari propada 91:10
+- Ne zanemarujte i ne odbijajte nevoljnike 93:10
+- Tražite znanje i razumijevanje. Čitajte i razmišljajte o Kur'anu 96:1–5
+- Podstičite na hranjenje siromašnih 107:3
 """;

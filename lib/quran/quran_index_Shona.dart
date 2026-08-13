@@ -3318,4 +3318,280 @@ Matching Phrases 8 words
 - Allah anovhurira zvokudya kune waanoda kubva kuvashandi vake uye anodzikisira. (اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ) 28:82; 29:62
 - Uye muchadzoserwa kuna uyo anoziva zvakavanzika nezviri pachena, uye achakuudzai zvamaiita. (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
 - Uye hama dzeropa, vamwe vavo vane hukama hwepedyo pane vamwe muBhuku raAllah. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
+cmds - Commands, Exhortations, Prohibitions, Instructions
+- fard / wajib (فرض / واجب) — zvinosungirwa (zvinofanira kuitwa; chivi kusasiya)
+- mustahabb / mandub (مستحب / مندوب) — zvinokurudzirwa (mubayiro kana zvikaitwa, hapana chivi kana zvikasiiwa)
+- mubah (مباح) — zvinotenderwa / zvinobvumidzwa (hapana mubayiro kana chivi)
+- makruh (مكروه) — zvinovengwa (zvinorambidzwa, asi hapana chivi kana zvikaitwa)
+- haram (حرام) — zvinorambidzwa (chivi kuzviita)
+- halal (حلال, zvinotenderwa / zvinobvumidzwa nemutemo) — zvinosanganisa mubah uye mustahabb — chero chinhu chisina kurambidzwa
+- Namatayi Allah chete uye mutsvage rubatsiro rwake. 1:5
+- Namatayi Allah chete 2:21
+- Musabatanidza chero vamwe naAllah 2:22
+- Allah ndiye anoregerera (anogamuchira kutendeuka), akagamuchira kutendeuka kwaAdam (عَلَيْهِ ٱلسَّلَامُ). 2:37
+- Musasanganisa chokwadi nenhema, kana kuvanza chokwadi. 2:42
+- Itai Salaat (minyengetero yezuva nezuva), uye ipai Zakaat (rupiziro). 2:43
+- Rairai vamwe kunaka mushure mekunge mazviita pachenyu 2:44
+- Tsvagai rubatsiro rwaAllah muzvinhu zvenyu zvose 2:45
+- Musapinda kana kuparadzira huori 2:60
+- Musavharidza vanhu kuenda kudzimba dzekunamatira 2:114
+- Rembai hutsvene hwemusikiti. Chengetai nzvimbo dzenyu dzeminyengetero dzakachena uye dzakatsetseka 2:125
+- Rangarirai Allah (nekunamata, kurumbidza nezvimwewo) uye achakurangarirai, uye ivai vatendi kwaari. 2:152
+- Itai shiviriro mukutambudzika 2:153
+- Musatevera nhanho dzaShaitani (Satani) uyo muvengi akajeka. 2:168
+- Musatevera munhu upi zvake zvisina kufunga 2:170
+- Chengetai uye zadzikisai zvisungo zvose. Itai mabasa enyu echitendero nechokwadi. Zadzikisai mhiko dzenyu uye zvibvumirano. Chengetai zvipikirwa, kunyanya izvo zvakaitwa kunaAllah. Tsigirai vanoshaya uye muchideredze matambudziko. Dzivirai kuita zvitadzo zvinotungamira kukurasikirwa nenyasha dzaAllah. Musarega kuzvikudza kuchikuendesai kukusaruramisira 2:177
+- Mune (kuponeswa kwe) upenyu hwenyu muAl-Qisas (Mutemo wekuenzana muchirango). 2:179
+- Tsanyai mumwedzi waRamadan. Chengetai kutsanya kwakarairwa kuti muve Al-Muttaqun (vane rutendo). 2:183
+- Rembai Korani senzvimbo yepamusoro yekutungamira 2:185
+- Musadyidzana pfuma yenyu zvisiri izvo, kana kupa chiokomuhomwe kuvatongi (vasati vatonga nyaya dzenyu). 2:188
+- Musadzvinyirira vamwe, kana neshoko kana nechiito. Musamboita kurwa semushori, asi chete mukuzvidzivirira 2:190
+- Dzivirirai nherera. Nezvenherera, itai basa nechokwadi mupfuma yavo uye musameya pfuma yavo. 2:220
+- Tendeukai mutsvage ruregerero rwaAllah. Musaita bonde panguva yekutevera. Chengetai kuchena (kwemuviri nemweya) 2:222
+- Zadzikisai mabasa enyu kumhuri yenyu 2:233
+- Sarudzai vatungamiri zvichienderana nekugona kwavo 2:247
+- Musamanikidza munhu pachitendero 2:256
+- Shandisai pfuma yenyu murupiziro. Ivai neupenzi mupfuma uye munguva 2:261
+- Musaita kuti rupiziro rwenyu rusashande nekuzvirumbidza neuneni hwenyu 2:264
+- Shaitani (Satani) anokutyisidzira nenguva uye anokurairai kuita Fahsha' (zviito zvakaipa, zvebonde zvisiri pamutemo, zvitadzo). 2:268
+- Tsvagai vanoshaya uye vabatsirei 2:273
+- Musabatanidzwa nechimbadzo kana mubereko. Musadye pfuma ine mubereko. Musadye Riba (chimbadzo). 2:275
+- Ivai nekuregeredza mukubhadhara kana munhu ane chikwereti ari kunetseka 2:280
+- Chengetai shoko renyu mubhizinesi rekutengesa. Ivai vechokwadi mumabasa enyu emari. Itai nehukuru mhiko dzenyu dzose. Kana muchiita chikwereti chenguva yakatarwa, chinyorei pasi. Torai zvapupu pese pamunoita chibvumirano chekutengesa. 2:282
+- Chengetai uye zadzikisai zvisungo zvose 2:283
+- Tendai muBhuku rakaburitswa uye voporofita vose 2:285
+- Allah haamure mubairo pamunhu pamusoro pezvaanokwanisa. Vanowana mubayiro wezvakanaka zvavakaita, uye vanorangwa nezvakaipa zvavakaita. Mwari haamure mubairo pamunhu pamusoro pezvaanokwanisa; kana isu hatifanire. Vimbai nehurongwa hwaAllah kunyangwe mumatambudziko 2:286
+- Uyo anozadzisa zvipikirwa uye anotya Allah zvikuru, zvino Allah anoda avo vane rutendo. 3:76
+- Itai Hajj (rwendo rwechitendero) kana muchikwanisa 3:97
+- Musazvipatsanura 3:103
+- Rairai zvakanaka uye rambidzai zvakaipa. Kurudzirai kururama munharaunda yenyu. Danai vamwe kukuyeuka Allah 3:104
+- MunaAllah ngavavimbe vatendi. 3:122
+- Musadye Riba (chimbadzo). 3:130
+- Teerai Allah uye Mutumwa wake kuti muwane tsitsi. 3:132
+- Allah anoda avo vanoshandisa (mubasa raAllah – mabasa erupiziro, mirowo nezvimwewo) muhupfumi uye mumatambudziko, vanodzora hasha, uye vanoregerera vanhu. 3:134
+- Dzorai hasha. 3:134
+- Regererai uye regerai zvikanganiso zvevamwe 3:135
+- Musave nehutsinye mukutaura. Ivai neshingiriro nevaya vanosiyana nemi 3:159
+- Kana Allah akakubatsirai, hapana anogona kukukundai; uye kana akakusiyai, ndiani shure kwake anogona kukubatsirai? 3:160
+- Wese munhu acharavira rufu. Uye chete paZuva Rekumuka muchawana mibairo yenyu yakazara. 3:185
+- Fungai zvakadzama nezvinoshamisa zvezvisikwa uye kusikwa kwezvinhu zvose. Zivai kuti Mwari akasika zvinhu zvose zvine revo uye chinangwa 3:191
+- Varume nevakadzi vane mibairo yakaenzana yezviito zvavo 3:195
+- Kune avo vanotya Ishe wavo, kune Minda ine nzizi dzinoyerera (muParadhiso); vachagara imomo (nekusingaperi), kuva kugamuchirwa kubva kunaAllah. 3:198
+- Edzai nguva dzose kufadza Allah muchiito chimwe nechimwe. 3:200
+- Ivai vakatendeka kuna Ishe wenyu, mitye uye (musatema hukama) hwemhuri. 4:1
+- Ipai nherera pfuma yavo uye musachinjanisa (zvakanaka zvenyu) nezvakaipa zvavo; uye musameya pfuma yavo (nekuiwedzera) kune yenyu. 4:2
+- Ipai vakadzi (vamunoroora) Mahr yavo (mari yemuchato inosungirwa inopiwa nemurume kumukadzi panguva yemuchato) nemoyo wakanaka. 4:4
+- Dzivirirai kodzero dzenherera 4:6
+- Pfuma yeakafa inofanira kugoverwa pakati penhengo dzemhuri yake. Vakadzi vane kodzero yenhaka 4:7
+- Musameya pfuma yenherera zvisiri izvo 4:10
+- Teerai mirairo nezvenhaka 4:11
+- Zvinorambidzwa kugara nhaka yevakadzi vasingadi, uye hamufanire kuvarwisa. Garai navo (vakadzi vanyu) noruremekedzo. Remekedzai uye chengetai kodzero dzevakadzi. Itai zvakanaka kune mumwe wenyu netsitsi. Batisai vakadzi neruremekedzo uye ruramisiro 4:19
+- Musaroora avo vane hukama hweropa nemi 4:23
+- Musazviuraya (kana kuurayana). Zvirokwazvo, Allah ane tsitsi kwamuri. Musadye pfuma yenyu zvisiri izvo 4:29
+- Kana mukadzivira zvitadzo zvikuru zvakarambidzwa, Allah achakuregererai zvitadzo zvenyu (zviduku), uye akupinze muMukova Wakakudzwa (tj. Paradhiso). 4:31
+- Musashuvira zvinhu izvo Allah akaisa vamwe venyu kuti vakunze vamwe. Dzivirai shanje negodo 4:32
+- Varume ndivo vachengeti nevaririti vevakadzi, nekuti Allah akaisa vamwe pamusoro pevamwe, uye nekuti vanoshandisa (kuvariritira) kubva mupfuma yavo. Murume ndiye muchengeti nemutenderi wemhuri 4:34
+- Namatayi Allah uye musabatanidza chero chinhu naye mukunamata, itai zvakanaka kuvabereki, hama, nherera, varombo, muvakidzani, shamwari iri padivi penyu, mufambi (wamunosangana naye), uye avo (varanda) vane maoko enyu ekurudyi ane. Allah haadi avo vanozvikudza uye vanozvishamisa. Itai zvakanaka kune vamwe. Ratidzai tsitsi kune vanotambura. Chengetai hukama hwemhuri uye remekedzai hama. 4:36
+- Musave nembambo 4:37
+- Allah haaregereri kuti vamwe vabatanidzwe naye mukunamata, asi anoregerera zvimwe zvose (kunze kweizvozvo) kune waanoda. 4:48
+- Musashanje vamwe 4:54
+- Allah anokurairai kuti mudzosere zvisungo kune avo zvazviri. Kana muchitonga pakati pevanhu, tongai neruramisiro. 4:58
+- Teerai Allah uye Mutumwa wake. Ipai ruremekedzo rwakakodzera kune avo vane simba pakati penyu 4:59
+- Musadzvinyirira vasina simba kana vanotambura 4:75
+- Chero chakanaka chinouya kwamuri, chiri kubva kunaAllah, asi chero chakaipa chinokurovai, chiri kubva kwamuri pachamuri. 4:79
+- Uyo anoteerera Mutumwa (Muhammad ﷺ), anoteerera Allah. 4:80
+- Uyo anopindira pachinhu chakanaka anowana mubayiro wacho, uye uyo anopindira pachinhu chakaipa anowana nhumbi yacho. 4:85
+- Haisi yemutendi kuura mumwe mutendi, kunze kwekunge nekukanganisa. 4:92
+- Uyo anouraya mutendi nemaune, mubayiro wake iGehena, maachagara nekusingaperi. Hasha uye kutukwa kwaAllah zvaari, uye chirango chikuru chakagadzirirwa iye. 4:93
+- Uyo anotama (kubva kumba kwake) munzira yaAllah, achawana panyika nzvimbo dzakawanda dzekugara uye kugutsikana. 4:100
+- Ivai nenguva dzenyu muminamato yenyu 4:103
+- Musatsigira kana kuva mumiriri weavo vanotengesa zvisungo zvavo 4:105
+- Tsvagai ruregerero rwaAllah, zvirokwazvo Allah anoregerera, ane tsitsi. 4:106
+- Imi vatendi! Simirai zvine simba nekuda kweruramisiro, sezvapupu zvaAllah, kunyangwe zvichipesana nemi pachamuri, kana vabereki venyu, kana hama dzenyu, angave mupfumi kana murombo. Musanonotsa ruramisiro; itai nekukurumidza mukugadzirisa kusaruramisira 4:135
+- Vanyengeri vanoda kunyengedza Allah, asi ndiye anovanyengedza. 4:142
+- Vanyengeri vachange vari muzasi zvikuru zveMoto; hamuzowana mubatsiri kwavari. 4:145
+- Allah haadi kuti zvakaipa zvitaurwe pachena, kunze kweuyo akaitirwa zvakaipa. 4:148
+- Vatumwa sevazivisi wenhau dzakanaka uye sevanyeveri, kuitira kuti vanhu vave vasina mharidzo kunaAllah mushure mekuuya kwevatumwa. 4:165
+- Zadzikisai zvibvumirano zvenyu uye zvipikirwa 5:1
+- Tsigirai mumwe mune runako uye rutendo, kwete muchivi uye ruvengo 5:2
+- Musadya mhuka dzakafa, ropa remhuka, kana nyama yenguruve 5:3
+- Ivai vane ruramisiro, regai ruvengo uye kuvengana kwevamwe kukukonzeresa kusanze ruramisiro. Ivai vane ruramisiro uye vakanaka mumabasa enyu. Zivai kuti ruramisiro iri pedyo nokutya Allah. Musanonotsa ruramisiro; itai nekukurumidza kugadzirisa kusaruramisira 5:8
+- Tsvagai nzira dzekusvika kunaAllah, uye shingairirai munzira yake sezvamunogona, kuti mubudirire. 5:35
+- Zadzikisai mhiko dzenyu uye zvibvumirano 5:89
+- Dzivirai zvinodhaka uye doro. Dzivirai zvakasimba zvinodhaka (mhando dzose dzezvinwiwa zvinodhaka), kubheja, zvidhori, uye miseve yekufungidzira, izvo zvese zvinonyangadza uye ibasa raShaitani. 5:90
+- Musauraya mhuka dzemusango muchiri muchimiro cheIhram cheHajj kana 'Umrah. 5:95
+- Musabvunza zvinhu izvo, kana zvikatsanangurwa kwamuri, zvingakukonzeresa dambudziko. 5:101
+- Musatuka vamwari vevamwe vanhu. Musatuka avo vavanamata (vasatendi) kunze kwaAllah, kuti varege kutuka Allah zvisina ruzivo. 6:108
+- Kana mukateerera vazhinji vari panyika, vachakurasitsai munzira yaAllah. Ivo vanongotevedzera fungidziro, uye vanongonyepa. 6:116
+- Siyai (imi vanhu!) zvitadzo zvose, zvakavanzika uye zviri pachena. 6:120
+- Musadya (imi vatendi!) nyama yemhuka isina kudanwa zita raAllah panguva yekubaywa. 6:121
+- Uyo Allah anoda kutungamira, anovhura chipfuva chake kuti chigamuchire Islam, uye uyo waanoda kurasisa, anoita kuti chipfuva chake chive chakamanikana uye chakatetepa. 6:125
+- Ivai vane mwero mukushandisa uye dzivirai kuparadza. Chengetai kodzero dzezvisikwa zvose 6:141
+- Musabatanidza chero chinhu mukunamata naAllah, itai zvakanaka kuvabereki, musauraya vana venyu nekutya urombo, musaswedera pedyo neFawahish (zviito zvinonyadzisa), musauraya munhu upi zvake Allah akarambidza, kunze kwechikonzero chakakodzera. 6:151
+- Ivai vakatendeseka; musabiridzira mune chero bhizinesi renyu. Musaswedera pedyo nepfuma yenherera, kunze kwekunge kuti muigadzirise, ipai chiyero chakazara uye huremu neruramisiro, pese pamunotaura, taurai chokwadi, kunyangwe zvine chekuita nehama yepedyo, uye zadzikisai Chibvumirano chaAllah. 6:152
+- Teerai Nzira Yakananga uye musatevera dzimwe nzira, nekuti dzichakupatsanurai kubva munzira yake. 6:153
+- Taura (Muhammad ﷺ): "Zvirokwazvo, minyengetero yangu, zvibayiro zvangu, hupenyu hwangu, uye rufu rwangu ndezvaAllah, Ishe weZvose." 6:162
+- Musazvikudza 7:13
+- Shaitani (Satani) ngaarege kukunyengerai. 7:27
+- Taura (Muhammad ﷺ): "Ishe wangu akaraira ruramisiro..." 7:29
+- Teerai miganhu yakaiswa naAllah muzvinhu zvose. Dzivirai kudarika mukutaura uye zviito. Idyai uye inwai asi musanyanyisa. Pukai zvipfeko zvakanaka panguva yeminyengetero 7:31
+- Allah akasika matenga nepasi mumazuva matanhatu, ipapo akasimudzika pachigaro cheushe (nenzira inokodzera Humambo hwake). 7:54
+- Danai Ishe wenyu nekuzvininipisa uye muchivande. Haadi avo vanodarika. 7:55
+- Uye musaita nyonganiso panyika, mushure mekunge yagadzirwa, uye munamatei nekutya netarisiro. 7:56
+- Asi avo vakaita zviito zvakaipa uye vakazotendeuka shure kweizvozvo uye vakatenda, zvirokwazvo, Ishe wenyu mushure meizvozvo anoregerera, ane tsitsi. 7:153
+- Taura (Muhammad ﷺ): "Imi vanhu! Zvirokwazvo, ini ndiri Mutumwa waAllah kwamuri mose..." 7:158
+- Uye mazita akanaka kwazvo ndeavaAllah, saka danai naya, uye siyai avo vanoramba kana kushora mazita ake... 7:180
+- Uyo Allah anorasa, hapana anogona kutungamira; uye anovarega vachidzungaira zvisinganzwisisike mukudarika kwavo. 7:186
+- Ratidzai kuregerera, rairai zvakanaka, uye dzukai kubva kune vasina ruzivo (kureva musavaranga). 7:199
+- Regererai vamwe zvikanganiso zvavo 7:199
+- Uye kana kashama kakaipa kouya kwamuri kubva kuna Shaitani (Satani), tsvagai potero kunaAllah. Zvirokwazvo, iye ndiye Anonzwa, Anoziva. 7:200
+- Vatendi ndivo chete avo, kana Allah akanzi, manzwi avo anotya, uye kana Ndima dzake dzikaverengwa kwavari, dzinowedzera kutenda kwavo... 8:2
+- Musatengesa Allah neMutumwa wake, uye musatengesa nemaune zvisungo zvenyu (zvinhu zvakakupiwai uye mabasa ese akarairwa naAllah). 8:27
+- Kana mukateerera uye mukatya Allah, achakupai Furqan (nzira yekusiyanisa pakati pezvakanaka nezvakaipa). 8:29
+- Avo vasingatendi vanoshandisa pfuma yavo kuvharidzira (vanhu) kubva munzira yaAllah, uye vacharamba vachiishandisa; asi pakupera ichave shungu kwavari. 8:36
+- Taurai kune avo vakaramba, kana vakarega (kusatenda), zvakapfuura zvicharegererwa. Asi kana vakadzokera (pazviri), zvino mienzaniso yeavo (vakarangwa) pamberi pavo yakatopfuura (seyambiro). 8:38
+- Kana musangana neuto (revavengi), simirai zvine simba pamberi pavo uye rangarirai zita raAllah kakawanda (neshoko uye nemoyo), kuti mubudirire. 8:45
+- Musave seavo vanobva mudzimba dzavo vachizvikudza uye kuti vaonekwe nevanhu, uye vanovharira (vanhu) kubva munzira yaAllah. 8:47
+- Allah haachinji nyasha dzaakapa vanhu kusvikira vachinja zviri mumweya yavo. 8:53
+- Zvakaipa zvezvisikwa zvinofamba pamberi paAllah ndivo vasingatendi. 8:55
+- Mwari anoisa rudo nehukama pakati pemoyo yeavo vanotenda maari 8:63
+- Dzivirirai uye batsirai avo vanotsvaga dziviriro 9:6
+- Hazvina kukodzera kuti vanamati vezvifananidzo vachengete misikiti yaAllah. 9:17
+- Ivo (vasatendi, maJuda nemaKristu) vanoda kudzima Chiedza chaAllah (icho Muhammad ﷺ akatumwa nacho – Unamati Weumwe weAllah) nemiromo yavo, asi Allah haabvumi kunze kwekuti Chiedza chake chiitwe chakwana, kunyangwe vasatendi vachivenga. 9:32
+- Sadaka (Zakat) ndeyevanhu vanotevera: 1) Varombo, 2) Vanotambura, 3) Vashandi vekuunganidza, 4) Vekukwezva moyo yeavo vakakombamira kuIslam, 5) Kusunungura vasungwa, 6) Vane zvikwereti, 7) Munzira yaAllah (kureva maMujahidun), uye 8) Mufambi. 9:60
+- Uyo anopikisa uye anoratidza ruvengo kunaAllah neMutumwa wake (ﷺ), zvirokwazvo moto weGehena ndiye wake, maachagara nekusingaperi. Iko kudzingiswa kukuru. 9:63
+- Vanyengeri, varume nevakadzi, vanobva kune mumwe. Vakanganwa Allah, saka akavakanganwawo. 9:67
+- Shingairirai kuchena. Remekedzai hutsvene hwemusikiti 9:108
+- Hazvina kukodzera Muporofita nevatendi kukumbira ruregerero kunaAllah kune vanamati vezvifananidzo, kunyangwe vari hama, mushure mekunge zvavajekera kuti ndevegehena (nekuti vakafa vachiri vasingatendi). 9:113
+- Ndiani anoita zvakaipa kupfuura uyo anonyepa kunaAllah kana kuramba Ndima dzake? Zvirokwazvo, vatadzi havambobudiriri! 10:17
+- Vanonamata zvimwe kunze kwaAllah izvo zvisina kukuvadza kana kubatsira, uye vanoti: "Ava ndivo varevereri vedu kunaAllah." Taura: "Munoudza Allah zvaasingazivi kumatenga nepanyika?" Akakudzwa uye akakwirira kupfuura zvavanomusanganisa nazvo! 10:18
+- Mubayiro wechiito chakaipa wakaenzana nacho. 10:27
+- Uyo ndiAllah, Ishe wenyu wechokwadi. Saka mushure mechokwadi, chii chingasara kunze kwekurasika? Zvino munoshandurwa sei? 10:32
+- Vazhinji vavo vanongotevedzera fungidziro. Zvirokwazvo, fungidziro haigoni kutsiva chokwadi. 10:36
+- Zvirokwazvo, Allah haaiti vanhu zvakaipa; asi vanhu vanozviitira zvakaipa. 10:44
+- Zivai kuti nyasha dzaMwari dzakanaka kupfuura chero chinhu munhu anogona kuunganidza kana kuchengeta 10:58
+- Musave weavo vanoramba Ndima dzaAllah, nekuti zvino muchave wevakarasika. 10:95
+- Kana Allah akakubata nekukuvara, hapana anogona kubvisa kunze kwake; uye kana achida kukuitira zvakanaka, hapana anogona kudzorera Nyasha dzake dzaanodzisvitsa kune waanoda kuvashandi vake. 10:107
+- Hapana chisikwa chipenyu chiri panyika asi chikafu chacho chiri kunaAllah. Uye anoziva nzvimbo yacho yekugara uye nzvimbo yacho yekuzorora (muchibereko, muguva, nezvimwe). 11:6
+- Kana tikapa munhu kuravira tsitsi dzedu, tobva tadzibvisa paari, zvirokwazvo! Anopera simba, asingatendi. 11:9
+- Uyo anoshuvira hupenyu hwepanyika uye kupenya kwayo; tichavapa zvizere mibayiro yezviito zvavo mariri, uye havazorasikirwi. 11:15
+- Hatina kuvaitira zvakaipa, asi ivo vakazviitira zvakaipa. Saka vanamwari vavo, vamwe kunze kwaAllah, vavari vavadanidzira, havana kubatsira kana kwamira kuraira kwaIshe wako, uye havana kuwedzera chero chinhu kunze kwekuparadzwa. 11:101
+- Pazuva parinouya, hapana munhu achataura kunze kweMvumo yake (Allah). Vamwe vavo vachave varasika uye vamwe vakaropafadzwa. 11:105
+- Kune avo varasika, vachave mumoto, vachichema nenzwi repamusoro nepasi. 11:106
+- Vachagara imomo nguva yese matenga nepasi zvinogara, kunze kwekunge Ishe wako achida. Zvirokwazvo, Ishe wako anoita zvaanoda. 11:107
+- Uye avo vakaropafadzwa, vachave muParadhiso, vachigara imomo nguva yese matenga nepasi zvinogara, kunze kwekunge Ishe wako achida, sechipo chisingaperi. 11:108
+- Musakotamira kune avo vanoita zvakaipa, kuti Moto urege kukubatai, uye musave nevarairidzi kunze kwaAllah, uye zvino hamubatsirwi. 11:113
+- Itai Salaat (minyengetero) kumagumo maviri ezuva uye mune dzimwe nguva dzousiku (kureva minyengetero mishanu yezuva). Mabasa akanaka anobvisa mabasa akaipa (kureva zvitadzo zviduku). 11:114
+- Allah ndiye ane Ghaib (zvisingaonekwi) zvekumatenga nepanyika, uye kwaari zvinodzoserwa zvinhu zvose (kutongwa). 11:123
+- Kuraira kana kutonga ndekwaAllah chete. Akaraira kuti musanamate mumwe kunze kwake (kureva Unamati Weumwe), ndiyo nzira yakananga, asi vanhu vazhinji havazivi. 12:40
+- Musamborasika tariro mutsitsi dzaAllah 12:87
+- Uye vanhu vazhinji havazotendi kunyangwe muchishuvira zvakasimba. 12:103
+- Uye vazhinji vavo havatendi munaAllah kunze kwekunge vachimubatanidza nevamwe (kureva ndeveMushrikun). 12:106
+- Iyo (Korani) haisi shoko rekunyepedzera asi chisimbiso cheBhuku riripo raAllah (Taurat, Injeel nemamwe magwaro aAllah) uye tsananguro yakadzama yezvinhu zvose uye nhungamiro netsitsi kune vanhu vanotenda. 12:111
+- Allah anowedzera chikafu kune waanoda, uye anodzikisira (kune waanoda). 13:26
+- Rangarirai Allah kazhinji kubudikidza neDhikr (kumurangarira). Avo vanotenda munaMwari vanowana kugutsikana mukumurangarira. 13:28
+- Avo vanotenda uye vanoita zvakanaka vanopiwa mufaro nerunyararo rwemoyo 13:29
+- Avo vanosarudza hupenyu hwepanyika pachinzvimbo cheHupenyu hwepashure, uye vanovharira (vanhu) kubva munzira yaAllah (Islam) uye vachitsvaga kukombama mairi – Vakarasisa. 14:3
+- Itai kuzvininipisa uye kutenda mukunamata 14:7
+- Muenzaniso weavo vasingatendi muna Ishe wavo ndewekuti mabasa avo akafanana nedota, iro mhepo inovhuvhuta zvine simba pazuva rine dutu; havazokwanisi kuwana chero chinhu kubva pane zvavakaita. 14:18
+- Allah anozosimbisa avo vanotenda neshoko rakasimba mupanyika ino (kureva vacharamba vachinamata Allah ega), uye mupashure. 14:27
+- Musafunga kuti Allah haazive zvinowanzoitwa neMushrikun (vanamati vezvifananidzo, vatadzi, nezvimwe), asi anovapa nguva kusvika pazuva rinozova apo maziso achatarisa nekutya. 14:42
+- Kuitira kuti Allah aripire munhu wega wega zvinoenderana nezvakaitwa. Zvirokwazvo, Allah anokurumidza pakuverenga. 14:51
+- Uye zvirokwazvo, Takasika munhu kubva muvhu rakaoma rine ruzha, kubva mumatope matema akachinjika. 15:26
+- Uye majini, Takavasika kare kubva mumurazvo wemoto usina hutsi. 15:27
+- Iwo (Gehena) une masuo manomwe; pasuo rega rega pane boka (revatadzi) rakagoverwa. 15:44
+- Akasika munhu kubva muNutfah (musanganiswa weurume nehwechikadzi), zvino tarira, uyu munhu anova muvengi ari pachena. 16:4
+- Uye zvipfuyo, Akazvisikirai; mazviri mune kudziya (zvipfeko zvinodziya), uye zvakanaka zvizhinji, uye mazviri munodya. 16:5
+- Uye (akasika) mabhiza, mahesera nemadhongi, kuti mukwire uye seshongo. Uye anosika zvimwe zvinhu zvamusingazivi. 16:8
+- Ndiye anotumira mvura (mvura yekunaya) kubva kumatenga; mwayo munonwa uye mwayo munodyara zvinomera zvamunodyisa zvipfuyo zvenyu. 16:10
+- Ndiye akakonzera gungwa (kuitira iwe), kuti mudye mazviri nyama nyoro nyoro (hove), uye kuti mubudise mazviri zvishongo zvamunopfeka. 16:14
+- Akagadzika mumakomo akasimba panyika, kuti irege kuzununguka nemi, uye nzizi uye migwagwa, kuti muone nzira. 16:15
+- Saka ndiye Anosika sei seasingasiki? Ko hamuchayeuki here? 16:17
+- Kana maiverenga nyasha dzaAllah, hamungazokwanisi kudziverenga. 16:18
+- Allah anoziva zvamunovanza uye zvamunoburitsa pachena. 16:19
+- Avo vavanodana (Mushrikun) kunze kwaAllah havana kusika chero chinhu, asi ivo pachavo vakasikwa. 16:20
+- (Vakafa), vasina hupenyu, uye havazivi kuti vachamutswa rini. 16:21
+- Shoko redu kuchinhu kana tachida, nderekuti toringoti: "Iva!" uye chinova. 16:40
+- Saka vanoita zvirongwa zvakaipa vanonzwa vakachengeteka here kuti Allah haavanyudze muvhu, kana kuti chirango hachivabati kubva kumativi avasingafungire? 16:45
+- Chero zvikomborero nezvakanaka zvaunazvo, zvinobva kunaAllah. Zvino, kana dambudziko rikakubata, kwaari unodanidzira mupfuno. 16:53
+- Zvino, kana abvisa dambudziko pauri, tarira! Vamwe venyu vanobatanidza vamwe mukunamata naIshe wavo (Allah). 16:54
+- Muzvipfuyo mune chidzidzo kwamuri. Tinokupai kunwa kubva mune zviri mumatumbu avo, kubva pakati pemuguruwa neropa, mukaka wakachena; unonaka kune vanonwa. 16:66
+- Saka musaenzanisa Allah (sezvo pasina chinhu chakafanana naye, kana iye akafanana nechero chinhu). Zvirokwazvo! Allah anoziva uye imi hamuzivi. 16:74
+- Zivai kuti Mwari akapa vanhu kunzwa, kuona, njere, uye manzwiro kuitira kuti vave vanotenda 16:78
+- Dzivirai kuchiva nekukara 16:97
+- Kana muchida kuverenga Korani, tsvagai dziviriro kunaAllah kubva kuna Shaitani (Satani), akadzingwa (akatukwa). 16:98
+- Zivai kuti kusaruramisira kwakaitwa nekusaziva kunoregererwa kana munhu akatendeuka uye akazvigadzirisa 16:119
+- Danai (Muhammad ﷺ) kumusoro munzira yaIshe wenyu (Islam) nehungwaru uye nekuparidza kwakanaka, uye pokanai navo nenzira iri nani. Kudana vamwe munzira yaMwari kunofanira kuitwa nehungwaru uye nemutsa 16:125
+- Allah ane avo vanomutya (vanoita basa ravo kwaari), uye avo vanoita zvakanaka. 16:128
+- Iyi Korani inotungamira kune zvakarurama uye zvakanaka. 17:9
+- Hapana anogona kutakura zvitadzo zveumwe 17:15
+- Uyo anoshuvira Hupenyu hwepashure uye anoshanda zvakaoma nahwo, nebasa rakakodzera, uku ari mutendi, zvino vaya ndivo vane shanduko yavo ichikosheswa, kutendwa uye kupihwa mubayiro (naAllah). 17:19
+- Remekedzai vabereki venyu uye vabate nemutsa. Ivai vakatendeka kuvabereki. Musataura shoko rekuzvidza. Uye Ishe wenyu akaraira kuti musanamate mumwe kunze kwake. Uye kuti muve vakatendeka kuvabereki venyu. Kana mumwe wavo kana vose vari vaviri vakasvika zera rekare muhupenyu hwenyu, musati kana "Tufu" kana kuvadanidzira, asi taurai navo zvine ruremekedzo. 17:23
+- Uye dzikisirai pavari bapiro rekuzvininipisa netsitsi, moti: "Ishe wangu! Nditirei tsitsi pava sezvavakakurira ini ndichiri mudiki." 17:24
+- Zvirokwazvo, vanoparadza ivana hama dzemaShaitani, uye Shaitani haatendi kuna Ishe wake. 17:27
+- Musashandisa mari zvinoparadza 17:29
+- Musauraya vana venyu nekutya urombo 17:31
+- Musaita hupombwe. Chengetai hutsvene hwewanano uye dzivirai hupombwe 17:32
+- Ipai chiyero chakazara pachiyero, uye yerei nezviyero zvakananga. Zvakanaka uye zvirinani pakupedzisira. 17:35
+- Musatevera (munhu, kureva musataura, musaita, kana kupupura) zvisina ruzivo (semuenzaniso, munhu anoti: "Ndakaona," asi asina kuona, kana "Ndakanzwa," asi asina kunzwa). 17:36
+- Ivai vakazvininipisa uye musazvikudza. Musafamba panyika nekuzvitutumadza. Zvirokwazvo, hamugoni kupatsanura pasi, kana kusvika pakukwirira kwemakomo. 17:37
+- Ishe wenyu anokuzivai zvirinani, kana achida, achakunzwirai tsitsi, kana achida, achakurangai. 17:54
+- Uyo ane bofu panyika ino (kureva asingaone Zviratidzo zvaAllah uye asingatendi maari), ane bofu mupashure, uye akarasisa munzira. 17:72
+- Chengetai nguva dzakatarwa dzeminyengetero 17:78
+- Zvirokwazvo Takatsanangurira vanhu zvizere muKorani ino, mhando dzose dzemienzaniso, asi vanhu vazhinji vanoramba (chokwadi uye havabvumi chinhu) kunze kwekusatenda. 17:89
+- Takaisa mhando dzose dzemienzaniso muKorani ino, kuvanhu. Asi munhu anopokana kupfuura chero chinhu. 18:54
+- Uyo ndiwo mubayiro wavo, Gehena; nekuti vakaramba uye vakatora Ndima dzangu neVatumwa vangu semaseko nekunyomba. 18:106
+- Hazvina kukodzera Allah (Ukuru hwake) kuva nemwanakomana (izvi zvinoreva kusvibiswa kwevaKristu kunaAllah, vachiti Isa (Jesu) ndiye mwanakomana waAllah). Akakudzwa uye akakwirira kupfuura zvavanomusanganisa nazvo. 19:35
+- Taurai nevanhu zvinyoro nyoro 20:44
+- Kwedzerai mumwe mune kuita zvakanaka 21:90
+- Dzivirai kutaura kusina maturo 23:3
+- Chengetai hunyoro hwenyu 23:5
+- Chengetai moyo yenyu kubva mukukombamira kune zvitadzo 23:97
+- Regererai vamwe uye regerai zvikanganiso zvavo 24:22
+- Remekedzai kuvanzika kwevamwe, kunyanya mudzimba dzavo. Zadzikisai kodzero dzevavakidzani 24:27
+- Dzikisai meso enyu (varume nevakadzi). Chengetai hunyoro hwenyu uye kuchena. 24:30
+- Ivai nehunyoro mupfeko uye maitiro 24:31
+- Zivai kuti Mwari anopa chengetedzo nerunyararo kune vanonamata uye vanoita zvakanaka 24:55
+- Musapinda mukamuri yevabereki pasina mvumo 24:58
+- Ivai vakazvininipisa uye vanyoro 25:63
+- Dzivirai kupupura kwenhema uye hunyengeri 25:72
+- Shingairirai mubayiro mupashure asi musaregeredza nyaya dzenyu dzepanyika 28:77
+- Musanodanira kune mumwe mwari pamwe naMwari 28:88
+- Musaita ngochani 29:29
+- Shingairirai kuita zvakanaka kwazvo mukuedza kwenyu kwose 29:69
+- Gadzai minyengetero uye ipai rupiziro 31:4
+- Rairai zvakanaka uye rambidzai zvakaipa 31:17
+- Dzivirai kuzvikudza pamaitiro enyu. Rambai kuparadza nguva mukutaura kusina maturo 31:18
+- Ivai nehunyoro pakufamba uye nechiyero chezwi renyu 31:19
+- Teerai muenzaniso weMuporofita Muhammad 33:21
+- Vakadzi havafanire kuratidza kana kushamisira runako rwavo uye zvishongo 33:33
+- Taurai chokwadi mumamiriro ese 33:70
+- Tsvagai huchenjeri nekunzwisisa kuburikidza nekufungisisa 38:29
+- Teerai zvirairo zveKorani 39:23
+- Mwari anoregerera zvitadzo zvose kana mutadzi akatendeuka uye akadzokera kwaari 39:53
+- Itai duʻā (kukumbira) nechokwadi kunaAllah 40:60
+- Dzivisai zvakaipa nezvakanaka zvirinani 41:34
+- Sarudzai nyaya nekubvunzana 42:38
+- Musasimudza mazwi enyu pamusoro pezwi reMuporofita 49:2
+- Chengetai zvakavanzika uye dzivirai kutengesa 49:6
+- Gadzirai runyararo pakati pevane kunetsana. Tsvagai kuyananiswa mukukonana 49:9
+- Musaseka vamwe 49:11
+- Dzivirai kufungirana zvakaipa. Dzivirai kusongonyora nekuchera. Musaburitsa mhosva kana kunyomba vamwe. Rambai marudzi ese ekuchera uye kunyomba. Musarega kuzvikudza kuchikuendesai kukusaruramisira 49:12
+- Zivai kuti kururama chete ndiko kunoita munhu kukudzwa. Remekedzai kusiyana pakati pevanhu uye tsika 49:13
+- Remekedzai vaenzi 51:26
+- Ivai nehanya nemabasa enyu kunaAllah 51:56
+- Shandisai pfuma murupiziro 57:7
+- Zivai kuti hapana monachisimu (kusiya wanano nekunyaradzwa senge mamongi, masisita, kana vamwe vanogara pasi pemhiko dzechitendero, kana zvivako zvavanogara) muchitendero 57:27
+- Musarega pfuma ichikukanganisai pakurangarira Allah 58:11
+- Avo vane ruzivo vachapiwa chinzvimbo chepamusoro naAllah 58:11
+- Batisai vasiri maMuslim nemutsa uye ruramisiro 60:8
+- Dzivirai unyengeri mukutenda kwenyu nezvamunoita 63:9
+- Garai kure neuchikomba nembambo 64:16
+- Chengetai zvakazarurwa zvakakupiwai 73:15
+- Ivai nehanya neZuva Rekutongwa 75:36
+- Rairai shiviriro netsitsi 90:17
+- Avo vanochenesa mweya yavo vanobudirira, uye avo vanoiona yakasvibiswa vanotadza 91:10
+- Musaregeredza kana kusundira kure munhu anotambura 93:10
+- Tsvagai ruzivo uye kunzwisisa. Verengai uye fungisisa nezveKorani 96:1–5
+- Kurudzirai kupa chikafu kuvarombo 107:3
 """;

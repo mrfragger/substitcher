@@ -3316,4 +3316,280 @@ Matching Phrases 8 words
 - U-Allah uyandisa isabelo kulowo amthandayo ezincekwini zakhe, futhi uyanciphisa. (اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ) 28:82; 29:62
 - Futhi nizobuyiselwa kuLowo owaziyo okungabonakali nokubonakalayo, futhi uyonazisa ngalokho enikwenza. (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
 - Futhi izihlobo zisondelelene kunezinye eNcwadini ka-Allah. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
+cmds - Commands, Exhortations, Prohibitions, Instructions
+- fard / wajib (فرض / واجب) — okuyisibopho (kumele kwenziwe; isono ukuyeka)
+- mustahabb / mandub (مستحب / مندوب) — okunconyiwe (umvuzo uma kwenziwa, akusona isono ukuyeka)
+- mubah (مباح) — okuvumelekile / okungathathi hlangothi (akukho mvuzo noma isono)
+- makruh (مكروه) — okungathandeki (akukhuthazwa, kodwa akusona isono uma kwenziwa)
+- haram (حرام) — okuvunyelwe (isono ukuyenza)
+- halal (حلال, okuvumelekile / ngokusemthethweni) — kuhlanganisa kokubili i-mubah ne-mustahabb — noma yini engavunyelwe
+- Khonzeni u-Allah yedwa futhi nicela usizo kuYena. 1:5
+- Khonzeni u-Allah yedwa 2:21
+- Ningamenzi u-Allah ababambisene naye 2:22
+- U-Allah ungothethelelayo (owamukela ukuphenduka), wamukela ukuphenduka kuka-Adam (عَلَيْهِ ٱلسَّلَامُ). 2:37
+- Ningaxubanisi iqiniso namanga, futhi ningalifihli iqiniso. 2:42
+- Yenzani umthandazo (imithandazo yansuku zonke), futhi nikeze i-Zakat (isisa). 2:43
+- Yalani abanye ukulunga ngemuva kokuthi nina niyenzile 2:44
+- Celani usizo luka-Allah kuzo zonke izindaba zenu 2:45
+- Ningazibandakanyi noma nisakaze ukonakala 2:60
+- Ningabavimbi abantu ukuya ezindlini zokukhulekela 2:114
+- Hloniphani ubungcwele be-mosque. Gcinani izindawo zenu zomkhuleko zihlanzekile futhi zimsulwa 2:125
+- Khumbulani u-Allah (ngomkhuleko, ukudumisa, njll.) futhi Uyakukhumbula, futhi nibonge KuYena. 2:152
+- Yenzani ukubekezela ebunzimeni 2:153
+- Ningalandeli izinyathelo zikaShayitan (uSathane) ongumuzi osobala. 2:168
+- Ningalandeli muntu ngobumfama 2:170
+- Gcinani futhi nifeze zonke izibopho. Yenzani imisebenzi yenu yezenkolo ngokuthembeka. Gcinani izifungo zenu neziphathamandla zenu. Gcinani izithembiso, ikakhulukazi lezo ezenziwe ku-Allah. Sekelani abasweleyo futhi ninciphise ubunzima. Gwemani izono eziholela ekulahlekelweni ngumusa kaNkulunkulu. Ningavumeli ukuziqhenya kukuholele ekungabini nabulungisa 2:177
+- Kukhona (ukusindiswa kw) impilo kini ku-Al-Qisas (uMthetho Wokulingana Esijezisweni). 2:179
+- Zilani ngenyanga ka-Ramadan. Gcinani ukuzila okumiselwe ukuze nibe ngabamesaba uNkulunkulu. 2:183
+- Hloniphani iQuran njengomthombo wokugcina wesiqondiso 2:185
+- Ningayidli impahla yomunye ngokungafanele, futhi ninganiki izihluku kubahluleli (ngaphambi kokwethula amacala enu). 2:188
+- Ningabacindezeli abanye, ngamazwi noma ngezenzo. Ningalwi njengabahlaseli kodwa nizivikele kuphela 2:190
+- Vikelani izintandane. Mayelana nezintandane, sebenzani ngokwethembeka empahleni yazo futhi ningayidli impahla yazo. 2:220
+- Phendukani futhi nicele intethelelo ku-Allah. Ningabi nobudlelwano bobulili ngesikhathi sokuya esikhathini. Gcinani inhlanzeko (okomzimba nokomoya) 2:222
+- Fezeni izibopho zenu emindenini yenu 2:233
+- Khethani abaholi ngokufaneleka kwabo 2:247
+- Akukho ukuphoqwa enkolweni 2:256
+- Chithani ingcebo kwezokupha. Yibani abanomusa ngengcebo nesikhathi 2:261
+- Ningayenzanga ize isisa ngokuqhosha ngomusa wenu 2:264
+- UShayitan (uSathane) unisabisa ngobumpofu futhi uniyalela ukwenza ububi (izono). 2:268
+- Fumani abasweleyo futhi nibasize 2:273
+- Ningazibandakanyi nenzalo. Ningayidli impahla enenzalo. Ningayidli i-Riba (inzalo). 2:275
+- Nikan isikweletu isikhathi esengeziwe sokukhokha uma esebunzimeni 2:280
+- Gcinani izwi lenu emisebenzini yezohwebo. Yibani nethemba ezindabeni zenu zezimali. Yenzani ngokuthembeka kuzo zonke izibopho zenu. Uma nenza isikweletu ngesikhathi esithile, sibhale phansi. Thathani ofakazi noma nini lapho nenza isivumelwano sezohwebo. 2:282
+- Gcinani futhi nifeze zonke izibopho 2:283
+- Kholwani ezincwadini eziveziwe nakuzo zonke iziprofetho 2:285
+- U-Allah akabeki muntu umthwalo ongaphezu kwamandla akhe. Bazothola umvuzo walokho (okuhle) abakwenzile, futhi bayakwejezwa ngalokho (okubi) abakwenzile. UNkulunkulu akabeki muntu umthwalo ongaphezu kwamandla akhe; futhi nathi akufanele senze njalo. Thembekani ecebeni lika-Allah nasebunzimeni 2:286
+- Lowo ofeza izithembiso futhi esaba u-Allah kakhulu, ngakho-ke u-Allah uyabathanda abamesaba uNkulunkulu. 3:76
+- Yenzani i-Hajj (uhambo olungcwele) uma nikwazi 3:97
+- Ningahlukani 3:103
+- Yalani okuhle futhi ningavumeli okubi. Khuthazani ukulunga emphakathini wenu. Bizani abanye ekukhumbuleni u-Allah 3:104
+- Ku-Allah kuphela lapho abakholwayo kufanele bathembele khona. 3:122
+- Ningayidli i-Riba (inzalo). 3:130
+- Yalalani u-Allah noMthunywa waKhe ukuze nithole umusa. 3:132
+- U-Allah uyabathanda abo basebenzisa (endleleni ka-Allah – izenzo zomusa, izipho, njll.) ekuchumeni nasebunzimeni, abacindezela intukuthelo, nabaxolela abantu. 3:134
+- Cindezelani intukuthelo. 3:134
+- Xolelani amaphutha abanye 3:135
+- Ningabi nkudulu enkulumweni. Yibani nesineke nalabo abahlukile kini 3:159
+- Uma u-Allah enisiza, akekho onganihlula; futhi uma enishiya, ngubani emva kwaKhe onganisiza? 3:160
+- Wonke umuntu uzonambitha ukufa. Futhi kuphela ngoSuku loVuko lapho niyothola khona umvuzo wenu ogcwele. 3:185
+- Cabangisisa ngezimangaliso zemvelo nokudalwa kwendawo yonke. Yabani ukuthi uNkulunkulu wadala indawo yonke ngenjongo nangomgomo 3:191
+- Amadoda nabesifazane banomvuzo olinganayo ngezenzo zabo 3:195
+- Kulabo abesaba iNkosi yabo, kuneziNgadi ezinemifula egeleza ngaphansi kwazo (ePharadesi); bayohlala khona phakade, njengokwamukela okuvela ku-Allah. 3:198
+- Zameni njalo ukujabulisa u-Allah kuzo zonke izenzo. 3:200
+- Yibani bathembekile eNkosini yenu, yesabeni futhi (ninganqamuli izibopho) zezihlobo. 4:1
+- Niphe izintandane impahla yazo futhi ningayishintshi (impahla yenu) embi nge (yabo) enhle; futhi ningayidli impahla yabo (ngokuyihlanganisa) neyenu. 4:2
+- Niphe abesifazane (enishadayo) i-Mahr yabo (isipho somshado esiyisibopho esinikezwa indoda kumfazi ngesikhathi somshado) ngenhliziyo enhle. 4:4
+- Vikelani amalungelo ezintandane 4:6
+- Impahla kamufi kufanele yabiwe phakathi kwamalungu omndeni wakhe. Abesifazane banelungelo lefa 4:7
+- Ningayidli impahla yezintandane ngokungafanele 4:10
+- Lalelani imiyalo mayelana nefa 4:11
+- Akuvunyelwe ukuthi kuthathwe abesifazane njengefa ngokumelene nentando yabo, futhi akufanele nibaphathe kabi. Hlalani nabo (amadoda) ngesithunzi. Hloniphani futhi nigcine amalungelo abesifazane. Phathani umlingani wenu ngomusa nangozwelo. Phathani abesifazane ngesithunzi nangobulungisa 4:19
+- Ningashadi nalabo eninegazi labo 4:23
+- Ningazibulali (noma nge bulalane). Ngempela, u-Allah unomusa kini. Ningayidli impahla yomunye ngokungafanele 4:29
+- Uma nigwema izono ezinkulu ezingavunyelwe, u-Allah uzosula izono zenu (ezincane), futhi anifake eSangweni Elihloniphekile (okunguPharadesi). 4:31
+- Ningafisi lokho u-Allah akwenza abanye benu babaluleke ngaphezu kwabanye. Gwemani umona nobukhwele 4:32
+- Amadoda angabavikeli nabondli besifazane, ngoba u-Allah wenze abanye babaluleke ngaphezu kwabanye, futhi ngoba basebenzisa ingcebo yabo (ukubondla). Indoda ingumvikeli nomsekeli womndeni 4:34
+- Khonzeni u-Allah futhi ningamenzi ababambisene naye, yenzani okuhle kubazali, izihlobo, izintandane, abampofu, umakhelwane, umngane oseceleni kwenu, umhambi (enihlangana naye), nalabo (izigqila) eziphethwe yizandla zenu zokudla. U-Allah akabathandi abaziqhenyayo nabazikhukhumezayo. Yibani abahle kwabanye. Bonisani umusa kwababuthakathaka. Gcinani izibopho zomndeni futhi nihloniphe izihlobo. 4:36
+- Ningabi abancomekayo 4:37
+- U-Allah akaxoleli ukuthi kwenziwe ababambisene Naye, kepha uyaxolela lokho okungaphandle kwalokho kulowo Amthandayo. 4:48
+- Ningabi nomona kwabanye 4:54
+- U-Allah uniyala ukuthi nibuyisele izinto eziphathwayo kubanikazi bazo. Uma nehlulela phakathi kwabantu, nehlulele ngokulunga. 4:58
+- Lalelani u-Allah noMthunywa waKhe. Nikeni inhlonipho efanele kulabo abanegunya phakathi kwenu 4:59
+- Ningabacindezeli ababuthakathaka nabasengozini 4:75
+- Konke okuhle okufika kini kuvela ku-Allah, kodwa konke okubi okufika kini kuvela kini. 4:79
+- Lowo olalela uMthunywa (uMuhammad ﷺ), ngempela ulalele u-Allah. 4:80
+- Lowo onxusela inhlangano enhle uzoyithola ingxenye yomvuzo wayo, futhi lowo onxusela inhlangano embi uzoyithola ingxenye yomthwalo wayo. 4:85
+- Akukho kumuntu okholwayo ukuthi abulale omunye okholwayo, ngaphandle uma kungokwephutha. 4:92
+- Lowo obulala okholwayo ngamabomu, umvuzo wakhe isihogo, ahlale kuso phakade. Ulaka luka-Allah nesiqalekiso sakhe zikuye, futhi kumlungiselelwe isijeziso esikhulu. 4:93
+- Lowo ofuduka (endlini yakhe) endleleni ka-Allah uzothola emhlabeni izindawo eziningi zokukhosela nokuchichima. 4:100
+- Yibani nokunaka ezikhathini zemithandazo yenu 4:103
+- Ningabeseki noma ningabameli balabo abakhaphela izinto eziphathwayo 4:105
+- Celani intethelelo ku-Allah; ngempela u-Allah ungothethelelayo, unomusa. 4:106
+- Nina enikholwayo! Yimani niqinile ngenxa yobulungisa, njengofakazi baka-Allah, noma kungabamelene nani, noma nabazali benu, noma izihlobo zenu, noma ngabe usisicebi noma ungumpofu. Ningalibazisi ubulungisa; yenzani ngokushesha ukulungisa okungabi nabulungisa 4:135
+- Abazenzisayo bafuna ukukhohlisa u-Allah, kodwa nguYe obakhohlisayo. 4:142
+- Abazenzisayo bayakuba sezingeni eliphansi kakhulu loMlilo; awuyi kubatholela umsizi. 4:145
+- U-Allah akakuthandi ukuthi ububi bukhulunywe esidlangalaleni, ngaphandle kwalowo owenziwe kabi. 4:148
+- Izithunywa njengabamemezeli bezindaba ezinhle nabaqwashisi, ukuze abantu bangabi nasizathu sokuzithethelela ku-Allah emva (kokuza) kwezithunywa. 4:165
+- Fezeni izivumelwano zenu nezithembiso 5:1
+- Sekelanani ngokulunga nangokumesaba uNkulunkulu, hhayi ngesono nangobutha 5:2
+- Ningayidli inyama efile, igazi lezilwane, noma inyama yengulube 5:3
+- Yibani abalungile; ubutha nenzondo yabanye akungavimbi ukwenza ubulungisa. Yibani abalungile futhi angenzeleli emisebenzini yenu. Yabani ukuthi ubulungisa busondelene nokumesaba uNkulunkulu. Ningalibazisi ubulungisa; yenzani ngokushesha ukulungisa okungabi nabulungisa 5:8
+- Funani izindlela zokusondela ku-Allah, futhi nizame kanzima endleleni yaKhe ngangokuninako, ukuze niphumelele. 5:35
+- Fezeni izifungo zenu nezivumelwano 5:89
+- Gwemani iziphuzo ezinxilisayo notshwala. Gwemani ngokuqinile iziphuzo ezinxilisayo (zonke izinhlobo zotshwala), ukugembula, izithixo, nemicibisholo yokubhula, konke okuyisinengiso somsebenzi kaShayitan. 5:90
+- Ningazingeli ngenkathi nisesimweni se-Ihram se-Hajj noma i-'Umrah. 5:95
+- Ningabuzi ngezinto ezingase, uma zicaciselwa kini, zibe yinkinga kini. 5:101
+- Ningathuki izithixo zabanye abantu. Ningathuki lokho abakukhulekelayo (abangakholwa) ngaphandle kuka-Allah, hleze bathuke u-Allah ngokungazi. 6:108
+- Uma nilalela iningi labo abasemhlabeni, bayakunihambisa endleleni ka-Allah. Abalandeli nje imicabango, futhi abaqambi nje amanga. 6:116
+- Shiyani (nina bantu!) zonke izinhlobo zezono, ezisobala neziyimfihlo. 6:120
+- Ningayidli (nina enikholwayo!) inyama enganikwanga igama lika-Allah (ngesikhathi sokuhlatshwa). 6:121
+- Lowo u-Allah athanda ukumqondisa, uvula isifuba sakhe kubuSulumane, futhi lowo athanda ukumphambukisa, wenza isifuba sakhe sibe mancane futhi sinciphile. 6:125
+- Yibani abalinganisela ekusebenziseni futhi nigweme ukuchitha. Gcinani amalungelo azo zonke izidalwa 6:141
+- Ningamenzi u-Allah ababambisene naye, yenzani okuhle kubazali, ningababulali izingane zenu ngokwesaba ubumpofu, ningasondeli ezinhlazini, ningabulali muntu u-Allah angavumelanga, ngaphandle uma kungokufanele. 6:151
+- Yibani abathembekile; ningakhohlisi kunoma iyiphi imisebenzi yenu. Ningasondeli empahleni yenkedama, ngaphandle uma kungukuyithuthukisa, nikeze isilinganiso esigcwele futhi nikale ngobulungisa, uma nikhuluma, nikhulume iqiniso, noma ngabe kungesihlobo esiseduze, futhi nifeze isivumelwano sika-Allah. 6:152
+- Landelani indlela eqondile futhi ningalandeli (ezinye) izindlela, ngoba ziyonihlukanisa nendlela yaKhe. 6:153
+- Yithi (Muhammad ﷺ): "Ngempela, umkhuleko wami, imihlatshelo yami, ukuphila kwami nokufa kwami kungokuka-Allah, iNkosi yemihlaba." 6:162
+- Ningazikhukhumezi 7:13
+- UShayitan (uSathane) akanganikhohlisi. 7:27
+- Yithi (Muhammad ﷺ): "INkosi yami iyalele ubulungisa..." 7:29
+- Bamelani imingcele ebekwe ngu-Allah kuzo zonke izinto. Gwemani ukuwela umngcele ekukhulumeni nasezenzweni. Yidlaniphuze kodwa ningadluli. Gqokani izingubo ezinhle ngesikhathi somkhuleko 7:31
+- U-Allah wadala amazulu nomhlaba ngezinsuku eziyisithupha, wabe esehlezi esihlalweni sobukhosi (ngendlela efanele ubukhosi baKhe). 7:54
+- Khulekani eNkosini yenu ngokuthobeka nangasese. Akabathandi abadlula umngcele. 7:55
+- Futhi ningonakali emhlabeni, ngemuva kokuba usulungiswa, futhi nikhuphukele kuYhe ngokwesaba nethemba. 7:56
+- Kodwa labo abenza izenzo ezimbi bese bephenduka emva kwakho futhi bakholwa, ngempela, iNkosi yakho emva kwakho ingothethelelayo, unomusa. 7:153
+- Yithi (Muhammad ﷺ): "Bantu! Ngempela, mina ngiyisithunywa sika-Allah kini nonke..." 7:158
+- Futhi (wonke) amagama mahle ngawaka-Allah, ngakho-ke mbizeni ngayo, futhi bashiyeni labo abaphika noma abahlambalaza amagama akhe... 7:180
+- Lowo u-Allah amphambukisayo, akekho umqondisi wakhe; futhi uyabashiya bephuthela ebumnyameni ekuphambukeni kwabo. 7:186
+- Bonisani ukuxolela, yalani okuhle, futhi nifulathele iziwula (okungabajezisi). 7:199
+- Xolelani abanye ngamaphutha abo 7:199
+- Futhi uma ukuhuzuka okubi kuvela kuShayitan (uSathane), funa isiphephelo ku-Allah. Ngempela, Yena unguZwa, uMazi. 7:200
+- Abakholwayo ngabo kuphela, uma u-Allah ekhunjulwa, izinhliziyo zabo ziyethuka, futhi uma amavesi akhe efundwa kubo, awandisa ukukholwa kwabo... 8:2
+- Ningakhaba u-Allah noMthunywa waKhe, futhi ningakhaba ngamabomu izinto eziphathwayo (izinto ezinikezwe kanye nayo yonke imisebenzi u-Allah aniyalela yona). 8:27
+- Uma nilalela u-Allah futhi nimesaba, uyoninika i-Furqan (umahluko phakathi kokuhle nokubi). 8:29
+- Labo abangakholwayo basebenzisa ingcebo yabo ukuvimba (abantu) endleleni ka-Allah, futhi bayoqhubeka beyisebenzisa; kodwa ekugcineni izoba usizi kubo. 8:36
+- Yithini kulabo abangakholwayo, uma beyeka (ukungakholwa), okwedlule kuyothethelelwa. Kodwa uma bebuyela (kukho), ngakho-ke izibonelo zalabo (abajeziswayo) ngaphambi kwabo sezidlulile (njengesexwayiso). 8:38
+- Uma nihlangana namandla (ezitha), yimani niqinile futhi nikhumbule igama lika-Allah kakhulu (ngolimi nangengqondo), ukuze niphumelele. 8:45
+- Ningabi njengalabo abaphuma ezindlini zabo ngokuqhosha nokuzibonisa ebantwini, futhi bevimbela (abantu) endleleni ka-Allah. 8:47
+- U-Allah akawushintshi umusa awunika abantu ngaphandle kokuthi bashiye lokho okusemoyeni yabo. 8:53
+- Izidalwa ezimbi kakhulu phambi kuka-Allah yilabo abangakholwayo. 8:55
+- UNkulunkulu ubeka uthando nothando phakathi kwezinhliziyo zalabo abakholwayo kuYe 8:63
+- Vikelani futhi nisize labo abafuna isiphephelo 9:6
+- Akukho kulabo abakhulekela izithombe ukuthi banakekele ama-mosque ka-Allah. 9:17
+- Labo (abangakholwayo, amaJuda namaKristu) bafuna ukucima ukukhanya kuka-Allah (okwathunyelwa ngakho uMuhammad ﷺ – ubunye buka-Allah) ngemilomo yabo, kodwa u-Allah akavumeli ngaphandle kokuthi ukukhanya kwaKhe kugcwaliseke, noma abangakholwayo bekuzonda. 9:32
+- I-Sadaqah (okungu-Zakat) ingeyalaba kuphela: 1) abampofu, 2) abasweleyo, 3) abaqashwe ukuyiqoqa, 4) ukuheha izinhliziyo zalabo abathambekele kubuSulumane, 5) ukukhulula izigqila, 6) kwabanezikweletu, 7) endleleni ka-Allah (okungabakwaMujahidun), kanye 8) nomhambi. 9:60
+- Lowo ophikisayo futhi ekhombisa ubutha ku-Allah noMthunywa waKhe (ﷺ), ngempela umlilo wesihogo ungowakhe, ahlale kuwo phakade. Lokho kuyihlazo elikhulu. 9:63
+- Abazenzisayo, abesilisa nabesifazane, bayefana. Bakhohlwe u-Allah, ngakho-ke Yena wabakhohlwa. 9:67
+- Zameni ngokuhlanzeka. Hloniphani ubungcwele be-mosque 9:108
+- Akukho (okufanele) kuMprofeti nakulabo abakholwayo ukuthi bacele intethelelo ku-Allah kulabo abakhulekela izithombe, noma ngabe bayizihlobo, ngemuva kokuba sekucacile kubo ukuthi bangabahlali bomlilo (ngoba bafa besengakholwa). 9:113
+- Ngubani ongenza ububi ngaphezu kwalowo oqamba amanga ngo-Allah noma ophika amavesi akhe? Ngempela, izoni ngeke ziphumelele! 10:17
+- Bakhulekela ngaphandle kuka-Allah lokho okungenakubalimaza noma okubenzele inzuzo, futhi bathi: "Laba bangabaxusabaxusa bethu ku-Allah." Yithi: "Ngabe niyatshela u-Allah ngalokho angakwazi emazulwini nasemhlabeni?" Uhlanzekile futhi uphakeme ngaphezu kwalokho abakwenza ababambisene naye! 10:18
+- Umvuzo wesenzo esibi yinto efana naso. 10:27
+- Lowo ngu-Allah, iNkosi yenu yeqiniso. Ngakho-ke ngemuva kweqiniso, kuyini okunye ngaphandle kokudukeka? Pho niyaphendukelwa kanjani? 10:32
+- Iningi labo alilandeli lutho ngaphandle kwemicabango. Ngempela, imicabango ayinakuba ngaphezu kweqiniso. 10:36
+- Ngempela, u-Allah akabenzeli abantu ububi; kodwa abantu bazenzela ububi. 10:44
+- Yabani ukuthi umusa kaNkulunkulu ungcono kunanoma yini umuntu angayiqoqa noma ayigcine 10:58
+- Ningabi ngabaphika amavesi ka-Allah, ngoba ngakho-ke niyoba ngabalahlekileyo. 10:95
+- Uma u-Allah ekuthinta ngobubi, akekho ongakususa ngaphandle kwaKhe; futhi uma efuna ukukwenzela okuhle, akekho ongawuphika umusa waKhe, awunika lowo Amthandayo kwizinceku zaKhe. 10:107
+- Akukho sidalwa esinyakazayo emhlabeni ngaphandle kokuthi ukudla kwaso kuvela ku-Allah. Futhi Uyazi indawo yaso yokuhlala nendawo yaso yokugcinwa (esibelethweni, ethuneni, njll.). 11:6
+- Uma Sinika umuntu ukunambitha umusa ovela Kithi, bese siwususa kuye, ngempela! Uyaphelelwa yithemba, futhi akabongi. 11:9
+- Lowo ofisa impilo yomhlaba nokukhazimula kwayo, Siyobanika ngokugcwele umvuzo wezenzo zabo kuyo, futhi abayukuncishiswa. 11:15
+- Asizange sibenzele ububi, kodwa bazenzele ububi. Ngakho-ke onkulunkulu babo, ababebiza ngaphandle kuka-Allah, abazange babasize ngalutho lapho kufika umyalo weNkosi yakho, futhi abazange bangeze lutho ngaphandle kokubhujiswa. 11:101
+- Ngosuku oluzayo, akekho oyokhuluma ngaphandle kwemvume yaKhe. Abanye babo bayakuba ngabashaywa yishwa futhi (abanye) babe ngababusisiweyo. 11:105
+- Labo abangabashaywa yishwa, bayakuba semlilweni, bekhala futhi belila. 11:106
+- Bayohlala lapho ngenkathi amazulu nomhlaba ehlala, ngaphandle uma iNkosi yakho ifisa. Ngempela, iNkosi yakho yenza lokho eKuthandayo. 11:107
+- Futhi labo ababusisiweyo, bayakuba sePharadesi, bahlale lapho ngenkathi amazulu nomhlaba ehlala, ngaphandle uma iNkosi yakho ifisa, njengesipho esingapheli. 11:108
+- Ningatsheki kulabo abenza ububi, hleze umlilo unithinte, futhi ningabi nabavikeli ngaphandle kuka-Allah, futhi aniyukusizwa. 11:113
+- Yenzani umkhuleko emaphethelweni amabili osuku nangezikhathi ezithile zobusuku (okungumkhuleko emihlanu yansuku zonke). Izenzo ezinhle zisusa izenzo ezimbi (izono ezincane). 11:114
+- Okungabonakali kwamazulu nomhlaba kungokuka-Allah, futhi kuye kubuyiselwa zonke izinto (okwesinqumo). 11:123
+- Umyalelo (noma isinqumo) ungoka-Allah kuphela. Uyalele ukuthi ningakhulekeli muntu ngaphandle kwaKhe (ubunye baKhe), leyo yinkolo eqondile, kodwa iningi labantu alazi. 12:40
+- Ningapheli ithemba emuseni ka-Allah 12:87
+- Futhi iningi labantu aliyikukholwa, noma nifisa ngokuzimisela. 12:103
+- Futhi iningi labo alikholwa ku-Allah ngaphandle kokuthi lenze ababambisene Naye (okungama-Mushrikun). 12:106
+- Lona (iQuran) akulona inkulumo eqanjiwe kodwa ingukuqinisekisa izincwadi ezingaphambili (iTawrat, i-Injil nezinye imibhalo ka-Allah) futhi inguchazelo enemininingwane yakho konke, futhi ingumqondisi nomusa kubantu abakholwayo. 12:111
+- U-Allah wandisa ukudla kulowo Amthandayo, futhi uyakunciphisa (kulowo Amthandayo). 13:26
+- Khumbulani u-Allah kaningi nge-dhikr. Labo abakholwa kuNkulunkulu bathola ukwaneliseka ngokumkhumbula. 13:28
+- Labo abakholwayo futhi benza okuhle, banikezwa injabulo nokuthula kwengqondo. 13:29
+- Labo abakhetha impilo yomhlaba kuneyeNgilandi, futhi bevimbela (abantu) endleleni ka-Allah (ubuSulumane) futhi befuna ukuyihlanekezela – labo basekudukeni okukude. 14:3
+- Yenzani ukuthobeka nokubonga ekukhulekeni 14:7
+- Umfanekiso walabo abangakholwa eNkosini yabo ukuthi imisebenzi yabo injengomlotha, umoya ovunguza ngamandla ngosuku lwesiphepho; abayikukwazi ukuthola lutho kulokho abakwenzile. 14:18
+- U-Allah uzoqinisa labo abakholwayo, ngezwi eliqinile kuleli lizwe (okungabaqhubeka nokukhulekela u-Allah yedwa) nasemhlabeni ozayo. 14:27
+- Ningacabangi ukuthi u-Allah akazi lokho okwenziwa ngabangalungile (abakhulekela izithombe, abenzi bokubi, njll.), kodwa ubanika isikhathi kuze kube usuku lapho amehlo eqhwaqha ngokwethuka. 14:42
+- Ukuze u-Allah avuze umphefumulo ngamunye ngokwakwenzile. Ngempela, u-Allah uyashesha ukubala. 14:51
+- Futhi ngempela, Samdala umuntu ngobumba olomileyo, ngodaka olumnyama oluguquliweyo. 15:26
+- Futhi ama-jinn, Sawadala ngaphambili ngomlilo ovuthayo ongenamusi. 15:27
+- Uneminyango eyisikhombisa; umnyango ngamunye unesigaba (esikhethekile) sezoni esabelwe sona. 15:44
+- Wamdala umuntu nge-Nutfah (ithonsi elixubekile lesidoda nesifazane), ngakho-ke, lo muntu uba yisitha esisobala. 16:4
+- Futhi izilwane, Uzidalela nina; kuzo kukhona ukufudumala (izingubo ezifudumeleyo), futhi kunezinzuzo eziningi, futhi kuzo niyadla. 16:5
+- Futhi (Udala) amahhashi, iminyuzi nezimbongolo, ukuze nigibele kuzo futhi kube ngumhlobiso. Futhi Udala ezinye izinto eningazazi. 16:8
+- Nguye owehlisa amanzi (imvula) ezulwini; kuwo niyaphuza futhi kuwo kuphila uhlaza enisela kulo izilwane zenu. 16:10
+- Nguye owanithobela ulwandle, ukuze nidle kuwo inyama emisha (inhlanzi), futhi nikhiphe kuwo imihlobiso eniyigqokayo. 16:14
+- Wabeka izintaba eziqinile emhlabeni, ukuze ungazamazami nani, futhi wabeka imifula nezindlela, ukuze nithole umgwaqo. 16:15
+- Ngabe Lowo Odalayo uyafana nalowo ongadalayo? Anikhumbuli yini? 16:17
+- Uma nibala izibusiso zika-Allah, anisoze nakwazi ukuzibala. 16:18
+- U-Allah uyakwazi lokho enikufihlayo nalokho enikwembulayo. 16:19
+- Labo ababizwayo (abakhulekela izithombe) ngaphandle kuka-Allah abazange badale lutho, kodwa bona badalwa. 16:20
+- (Bafile), abaphili, futhi abazi ukuthi bayovuswa nini. 16:21
+- Izwi Lethu entweni uma Siyifisa, ukuthi Sithi kuyo: "Yiba!" futhi iyaba. 16:40
+- Ngabe labo abenza amacebo amabi bazizwa bephephile ukuthi u-Allah ubange bawagqwinise emhlabeni, noma ukuthi isijeziso angeze sabafikela evela lapho bengalindele? 16:45
+- Noma yiziphi izibusiso nezinto ezinhle eninazo zivela ku-Allah. Ngemuva kwalokho, uma ububi bunithinta, niyakhala kuYe usizo. 16:53
+- Ngemuva kwalokho, uma esusa ububi kini, bheka! Abanye benu benza ababambisene neNkosi yabo (u-Allah). 16:54
+- Ezilwaneni kunesifundo kini. Sinipha ukuphuza lokho okusesiswini sazo, phakathi kwendle negazi, ubisi oluhlanzekile; olumnandi kwabaphuzayo. 16:66
+- Ngakho-ke, ningafanisi u-Allah (ngoba akukho lutho olufana naYe, futhi Yena akafani nalutho). Ngempela! U-Allah uyazi futhi nina anazi. 16:74
+- Yabani ukuthi uNkulunkulu wanika umuntu ukuzwa, ukubona, ubuhlakani, nemizwa ukuze abe ngobongayo 16:78
+- Gwemani ukuhaha nokufisa 16:97
+- Uma nifuna ukufunda iQuran, funani isiphephelo ku-Allah kuShayitan (uSathane), ojahwayo (oqalekisiweyo). 16:98
+- Yabani ukuthi ububi obenziwe ngokungazi buyathethelelwa uma umuntu ephenduka futhi ezilungisa 16:119
+- (Muhammad ﷺ) Bizani endleleni yeNkosi yenu (ubuSulumane) ngobuhlakani nangentshumayelo enhle, futhi nibaxabanise ngendlela engcono. Ukubiza abanye endleleni kaNkulunkulu kufanele kwenziwe ngobuhlakani nomusa 16:125
+- U-Allah ukanye nalabo abamesabayo (abenza umsebenzi wabo kuYe), kanye nalabo abenza okuhle. 16:128
+- Le Quran iqondisa kulokho okulungile futhi okuqondile. 17:9
+- Akekho oyothwala umthwalo (wezono) zomunye. 17:15
+- Lowo ofisa impilo ezayo futhi azamele yona, ngomzamo ofanele, ngenkathi engokholwayo, labo ngabona umzamo wabo ozokwaziswa, futhi uvuzwe (ngu-Allah). 17:19
+- Hloniphani abazali benu futhi nibaphathe ngomusa. Yibani abalalela abazali. Ningasho izwi lokungahloniphi kubo. Futhi iNkosi yenu iyalele ukuthi ningakhulekeli muntu ngaphandle kwaYhe. Futhi ukuthi nenze okuhle kubazali benu. Uma omunye wabo noma bobabili befika ebudaleni, ningasho kubo noma igama elibi, futhi ningabathethisi, kodwa khulumani nabo ngenhlonipho. 17:23
+- Futhi yithobeleni amaphiko okuthobeka ngomusa, futhi uthi: "Nkosi yami! Yibonise umusa njengoba bangikhulisa ngisemncane." 17:24
+- Ngempela, abachithi bangabazalwane bakaShayitan, futhi uShayitan ungumbongi enkosini yakhe. 17:27
+- Ningachithi imali 17:29
+- Ningababulali izingane zenu ngokwesaba ubumpofu 17:31
+- Ningaphingi. Gcinani ubungcwele bomshado futhi nigweme ukuphinga 17:32
+- Niphe isilinganiso esigcwele uma nilinganisa, futhi nikale ngesikali esiqondile. Lokho kungcono futhi kungcono ekugcineni. 17:35
+- (Ndoda!) Ungalandeli lokho ongakwazi (umzekelo, umuntu othi: "Ngikubonile," ngenkathi engakuboni, noma "Ngikuzwile," ngenkathi engezwa). 17:36
+- Yibani abathobekile futhi ningazikhukhumezi. Ningahambi emhlabeni ngokuziqhenya. Ngempela, awunakuwudwengula umhlaba, futhi awunakufinyelela ubude bezintaba. 17:37
+- INkosi yakho iyakwazi kangcono; uma Ifisa, Iyakubonisa umusa, noma uma Ifisa, Iyakujezisa. 17:54
+- Lowo oyimpumputhe kulo mhlaba (ongaziboni izimpawu zika-Allah futhi angakholwa kuYe), uyoba yimpumputhe emhlabeni ozayo, futhi eduke kakhulu endleleni. 17:72
+- Gcinani izikhathi zomkhuleko ezimiselwe 17:78
+- Ngempela, Siye Sacacisa abantu kule Quran yonke imifanekiso, kodwa iningi labantu liyaphika (iqiniso futhi alivumi lutho) ngaphandle kokungakholwa. 17:89
+- Siye sachaza yonke imifanekiso kule Quran, abantu. Kodwa umuntu unempikiswano ngaphezu kwanoma yini. 18:54
+- Lokho kungumvuzo wabo, isihogo; ngoba abakholwanga futhi bathatha amavesi ami nezithunywa zami njengokuhlekisa nokuklolodela. 18:106
+- Akukho (okufanele ubukhosi) buka-Allah ukuthi abe nendodana (lokhu kubhekise ekuhlanjalazweni kwamaKristu ngo-Allah, ngokuthi uJesu uyindodana kaNkulunkulu). Uhlanzekile (futhi uphakeme ngaphezu kwalokho abakwenza ababambisene naye). 19:35
+- Khulumani nabantu ngomusa 20:44
+- Ncintisanani ekwenzeni okuhle 21:90
+- Gwemani inkulumo engenamgomo 23:3
+- Gcinani amahloni enu 23:5
+- Gcinani izinhliziyo zenu ekuvumeleni izono 23:97
+- Xolelani abanye futhi nixolele amaphutha abo 24:22
+- Hloniphani ubumfihlo babanye, ikakhulukazi ezindlwini zabo. Fezeni amalungelo omakhelwane 24:27
+- (Amadoda nabesifazane) Yehlisani amehlo enu. Gcinani amahloni nobumsulwa benu. 24:30
+- Gcinani ukuthobeka ekugqokeni nasekuziphatheni 24:31
+- Yabani ukuthi uNkulunkulu unika ukuphepha nokuthula kulabo abamkhulekelayo futhi benza ngobulungisa 24:55
+- Ningangeni egumbini labazali ngaphandle kwemvume 24:58
+- Yibani abathobekile futhi abanesizotha 25:63
+- Gwemani ubufakazi bamanga nokukhohlisa 25:72
+- Zameni ngomvuzo wemhlaba ozayo kodwa ningazikhohlwa izindaba zenu zasemhlabeni 28:77
+- Ningabizi omunye unkulunkulu kanye noNkulunkulu 28:88
+- Ningazibandakanyi nobungqingili 29:29
+- Zameni ngokwenza kahle kuzo zonke izindlela zenu 29:69
+- Misani umkhuleko futhi nikeze isisa 31:4
+- Yalani okuhle futhi ningavumeli okubi 31:17
+- Gwemani ukuzikhukhumeza ekuziphatheni kwenu. Gwemani ukuchitha isikhathi ngezinkulumo ezingenamgomo 31:18
+- Yibani abalinganisela ekuhambeni kwenu nasezwini lenu 31:19
+- Landelani isibonelo sikaMprofethi uMuhammad 33:21
+- Abesifazane akufanele baveze noma bakhombise ubuhle babo nemihlobiso yabo 33:33
+- Khulumani iqiniso ngazo zonke izimo 33:70
+- Funani ukuhlakanipha nokuqonda ngokucabangisisa 38:29
+- Lalelani iziyalezo zeQuran 39:23
+- UNkulunkulu uyazithethelela zonke izono uma isoni siphenduka futhi sibuyela kuYe 39:53
+- Yenzani umkhuleko (du'ā) oqotho ku-Allah 40:60
+- Buyisani ububi ngokuhle 41:34
+- Thathani izinqumo ngokubonisana 42:38
+- Ningaphakamisi amazwi enu ngaphezu kwezwi likaMprofethi 49:2
+- Gcinani izimfihlo futhi nigweme ukukhaphela 49:6
+- Yenzani ukuthula phakathi kwalabo abangquzulanayo. Funani ukubuyisana ezingxabanweni 49:9
+- Ningabahleki abanye 49:11
+- Gwemani ukusola. Gwemani ukuhlola nokunyenya. Ninganyenye noma nikhulume kabi abanye. Gwemani zonke izinhlobo zokunyenya nokukhuluma kabi. Ningavumeli ukuziqhenya kukuholele ekungabini nabulungisa 49:12
+- Yabani ukuthi ukulunga kuphela okwenza umuntu abe ngohloniphekile. Hloniphani umehluko phakathi kwabantu namasiko 49:13
+- Hloniphani izivakashi 51:26
+- Yibani nokuqaphela ngezibopho zenu ku-Allah 51:56
+- Chithani ingcebo kwezokupha 57:7
+- Yabani ukuthi akukho ubu-monki (ukushiya umshado nokunethezeka njengezindela, izindelakazi, noma abanye abaphila ngaphansi kwezifungo zenkolo, noma izakhiwo abahlala kuzo) enkolweni 57:27
+- Ningavumeli ingcebo iniphazamise ekukhumbuleni u-Allah 58:11
+- Labo abanolwazi bayakunikwa isikhundla esiphakeme nguNkulunkulu 58:11
+- Phathani abangengawo amaSulumane ngomusa nangobulungisa 60:8
+- Gwemani ubuzenzisi ezinkolelweni nasezenzweni zenu 63:9
+- Hlalani kude nokuhaha nobugqolo 64:16
+- Gcinani izambulo eniziphiwe 73:15
+- Yibani nokuqaphela ngoSuku Lokwahlulelwa 75:36
+- Yalani ukubekezela nomusa 90:17
+- Labo abahlambulula imiphefumulo yabo bayaphumelela, futhi labo abayonakalisa bayehluleka 91:10
+- Ningabanaki noma nibaxoshe abasweleyo 93:10
+- Funani ulwazi nokuqonda. Fundani futhi nizindle ngeQuran 96:1–5
+- Khuthazani ukuphakela abampofu 107:3
 """;

@@ -510,7 +510,7 @@ Installation Steps
 
 3. Open the downloaded APK and tap **Install**
 
-4. Download and extract the **Demo Fonts** zip from ![customfonts.zip 2MB](https://github.com/mrfragger/substitcher/raw/main/images/customfonts.zip) into a folder
+4. Download and extract the **Demo Fonts** zip from ![customfonts.zip 2.5MB](https://github.com/mrfragger/substitcher/raw/main/images/customfonts.zip) into a folder
    on your tablet — then point SubStitcher to that folder in Font Settings
 
 **Note:** The "Install unknown apps" warning is standard Android security for any app installed outside the Google Play Store — it does not mean the app is unsafe.

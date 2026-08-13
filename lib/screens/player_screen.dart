@@ -5198,10 +5198,6 @@ class _PlayerScreenState extends State<PlayerScreen>
           metadata != null &&
           metadata.hasMissingLigatures()) {
         conversionType = 'missing';
-      } else if (metadata != null &&
-          metadata.isDemo() &&
-          metadata.hasLigatures()) {
-        conversionType = 'demo';
       } else {
         conversionType = 'none';
       }
@@ -7579,12 +7575,13 @@ class _PlayerScreenState extends State<PlayerScreen>
             metadata.hasMissingLigatures()) {
           setState(() => _conversionType = 'missing');
           await _applyConversion();
-        } else if (metadata != null &&
+        } else if (!fromCycle &&
+            metadata != null &&
             metadata.isDemo() &&
             metadata.hasLigatures()) {
           setState(() => _conversionType = 'demo');
           await _applyConversion();
-        } else {
+        } else if (!fromCycle) {
           setState(() => _conversionType = 'none');
           await _applyConversion();
         }
@@ -8832,7 +8829,9 @@ class _PlayerScreenState extends State<PlayerScreen>
                         await _applyConversion();
                       } else if (metadata != null &&
                           metadata.isDemo() &&
-                          metadata.hasLigatures()) {
+                          metadata.hasLigatures() &&
+                          (metadata.studio == FontCategory.studio177 ||
+                              metadata.studio == FontCategory.various)) {
                         setState(() {
                           _conversionType = 'demo';
                         });

@@ -3318,4 +3318,280 @@ Matching Phrases 8 words
 - Allah dă belșug de hrană cui voiește dintre robii Săi și o măsoară. (اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ) 28:82; 29:62
 - Și veți fi întorși la Cel care știe cele ascunse și cele văzute, iar El vă va vesti ceea ce ați făcut. (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
 - Iar rudele cele mai apropiate sunt mai îndreptățite unele față de altele, în Cartea lui Allah. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
+cmds - Commands, Exhortations, Prohibitions, Instructions
+- fard / wajib (فرض / واجب) — obligatoriu (trebuie făcut; păcat să fie omis)
+- mustahabb / mandub (مستحب / مندوب) — recomandat (răsplătit dacă este făcut, nu este păcat dacă este omis)
+- mubah (مباح) — neutru / permis (nici răsplată, nici păcat)
+- makruh (مكروه) — disapprobat (descurajat, dar nu păcat dacă este făcut)
+- haram (حرام) — interzis (păcat să fie făcut)
+- halal (حلال, permis / legal) — include atât mubah, cât și mustahabb — orice nu este interzis
+- Adorați-L doar pe Allah și căutați ajutorul Lui. 1:5
+- Adorați-L doar pe Allah 2:21
+- Nu asociați nimic cu Allah 2:22
+- Allah este Cel care iartă (acceptă căința), El a acceptat căința lui Adam (عَلَيْهِ ٱلسَّلَامُ). 2:37
+- Nu amestecați adevărul cu minciuna și nu ascundeți adevărul. 2:42
+- Efectuați As-Salat (rugăciunile zilnice) și dați Zakat (caritate). 2:43
+- Porunciți virtutea altora numai după ce o practicați voi înșivă 2:44
+- Căutați ajutorul lui Allah în toate treburile voastre 2:45
+- Nu vă implicați și nu răspândiți corupția 2:60
+- Nu împiedicați oamenii să meargă la locurile de cult 2:114
+- Respectați sfințenia moscheii. Păstrați-vă locurile de rugăciune curate și pure 2:125
+- Amintiți-vă de Allah (prin rugăciune, glorificare etc.) și El își va aminti de voi și fiți recunoscători Lui. 2:152
+- Practicați răbdarea în adversitate 2:153
+- Nu urmați pașii lui Shaitan (Satan), care este un dușman declarat. 2:168
+- Nu urmați pe nimeni orbește 2:177
+- Respectați și îndepliniți toate încredințările. Îndepliniți-vă îndatoririle religioase cu sinceritate. Respectați-vă jurămintele și legămintele. Țineți-vă promisiunile, mai ales pe cele făcute lui Allah. Sprijiniți-i pe cei nevoiași și ușurați greutățile. Evitați să comiteți păcate care duc la pierderea favorii divine. Nu lăsați mândria să vă ducă la nedreptate 2:177
+- În Al-Qisas (Legea egalității în pedeapsă) este (o salvare de) viață pentru voi. 2:179
+- Postiți în luna Ramadan. Respectați postul prescris pentru a deveni Al-Muttaqun (cei evlavioși). 2:183
+- Respectați Coranul ca sursă supremă de călăuzire 2:185
+- Nu vă mâncați averile unii altora pe nedrept și nu dați mită judecătorilor (înainte de a vă prezenta cazurile). 2:188
+- Nu-i asupriți pe alții, nici prin cuvânt, nici prin faptă. Nu vă angajați niciodată în lupte ca agresori, ci doar în apărare 2:190
+- Protejați orfanii. În ceea ce privește orfanii, lucrați cinstit cu averea lor și nu le înghițiți averea. 2:220
+- Căiți-vă și cereți iertare lui Allah. Nu aveți relații sexuale în timpul menstruației. Mențineți curățenia și puritatea (atât fizică, cât și spirituală) 2:222
+- Îndepliniți-vă responsabilitățile față de familia voastră 2:233
+- Alegeți liderii pe baza meritelor lor 2:247
+- Nu constrângeți pe nimeni în privința religiei 2:256
+- Cheltuiți averea în caritate. Fiți caritabili atât cu averea, cât și cu timpul 2:261
+- Nu anulați caritatea lăudându-vă cu generozitatea 2:264
+- Shaytan (Satan) vă amenință cu sărăcia și vă poruncește să comiteți Fahsha' (fapte rele, relații sexuale ilegale, păcate). 2:268
+- Căutați-i pe cei nevoiași și ajutați-i 2:273
+- Nu vă implicați în camătă sau dobândă. Nu consumați averi bazate pe dobândă. Nu mâncați Riba (camătă). 2:275
+- Acordați mai mult timp pentru rambursare dacă debitorul este în dificultate 2:280
+- Țineți-vă cuvântul în tranzacțiile comerciale. Fiți sinceri în afacerile voastre financiare. Acționați cu integritate în toate angajamentele voastre. Când contractați o datorie pentru o perioadă fixă, scrieți-o. Luați martori ori de câte ori faceți un contract comercial. 2:282
+- Respectați și îndepliniți toate încredințările 2:283
+- Credeți în Cărțile revelate și în toți Profeții 2:285
+- Allah nu împovărează nicio persoană dincolo de capacitatea sa. Ei primesc răsplată pentru (binele) pe care l-au câștigat și sunt pedepsiți pentru (răul) pe care l-au câștigat. Dumnezeu nu împovărează o persoană dincolo de capacitatea sa; nici noi nu ar trebui să o facem. Încredeți-vă în planul lui Allah chiar și în greutăți 2:286
+- Cel care își respectă legămintele și se teme mult de Allah, atunci Allah îi iubește pe cei evlavioși. 3:76
+- Efectuați Hajj (pelerinajul) dacă aveți posibilitatea 3:97
+- Nu vă divizați 3:103
+- Porunciți ceea ce este drept și opriți ceea ce este greșit. Încurajați dreptatea în comunitatea voastră. Chemați-i pe alții la amintirea lui Allah 3:104
+- În Allah trebuie să se încreadă credincioșii. 3:122
+- Nu mâncați Riba (camătă). 3:130
+- Ascultați de Allah și de Mesagerul Său pentru a obține îndurare. 3:132
+- Allah îi iubește pe cei care cheltuiesc (în cauza lui Allah – fapte de caritate, milostenie etc.) în prosperitate și în adversitate, care își înfrânează mânia și care iartă oamenii. 3:134
+- Înfrânați mânia. 3:134
+- Iertați și iubiți greșelile altora 3:135
+- Nu fiți nepoliticoși în vorbire. Fiți răbdători cu cei care diferă de voi 3:159
+- Dacă Allah vă ajută, nimeni nu vă poate învinge; iar dacă El vă părăsește, cine este după El care să vă poată ajuta? 3:160
+- Fiecare va gusta moartea. Și numai în Ziua Învierii veți primi răsplata voastră completă. 3:185
+- Gândiți-vă adânc la minunile naturii și la crearea acestui univers. Știți că Dumnezeu a creat universul cu sens și scop 3:191
+- Bărbații și femeile au răsplăți egale pentru faptele lor 3:195
+- Pentru cei care se tem de Domnul lor sunt Grădini pe sub care curg râuri (în Paradis); acolo vor locui (pentru totdeauna), ca o primire de la Allah. 3:198
+- Străduiți-vă întotdeauna pentru plăcerea lui Allah în fiecare acțiune. 3:200
+- Fiți dăruitori față de Domnul vostru, temeți-vă de El și (nu tăiați legăturile) rudelor (de sânge). 4:1
+- Dați orfanilor averea lor și nu schimbați (lucrurile) voastre rele cu (ale lor) bune; și nu le devorați averea (adăugând-o) la averea voastră. 4:2
+- Dați femeilor (cu care vă căsătoriți) Mahr-ul lor (darul obligatoriu de nuntă dat de soț soției la căsătorie) cu inimă bună. 4:4
+- Protejați drepturile orfanilor 4:6
+- Averea celui decedat trebuie distribuită între membrii familiei sale. Femeile au dreptul la moștenire 4:7
+- Nu consumați averea orfanilor pe nedrept 4:10
+- Ascultați de poruncile privind moștenirea 4:11
+- Este interzis să moșteniți femei împotriva voinței lor și să nu le tratați cu asprime. Trăiți cu ele (soțiile) cu onoare. Respectați și respectați drepturile femeilor. Tratați-vă soțul/soția cu bunătate și compasiune. Tratați femeile cu onoare și dreptate 4:19
+- Nu vă căsătoriți cu cei care vă sunt înrudiți prin sânge 4:23
+- Nu vă ucideți singuri (nici unii pe alții). Cu siguranță, Allah este Îndurător cu voi. Nu consumați averile unii altora pe nedrept 4:29
+- Dacă evitați păcatele mari care sunt interzise, Allah vă va ierta păcatele (mici) și vă va introduce într-o Intrare Nobilă (adică Paradisul). 4:31
+- Nu doriți lucrurile în care Allah i-a favorizat pe unii dintre voi în fața altora. Evitați invidia și gelozia 4:32
+- Bărbații sunt protectorii și întreținătorii femeilor, pentru că Allah i-a preferat pe unii față de alții și pentru că ei cheltuiesc (pentru a le întreține) din averile lor. Bărbatul este protectorul și susținătorul familiei 4:34
+- Adorați-L pe Allah și nu-I asociați nimic în adorare, fiți buni cu părinții, rudele, orfanii, Al-Masakin (săracii), vecinul, companionul de lângă voi, călătorul (pe care îl întâlniți) și cu cei (sclavii) pe care îi posedă mâinile voastre drepte. Allah nu-i iubește pe cei mândri și lăudăroși. Fiți buni cu ceilalți. Arătați milă celor slabi. Mențineți legăturile de rudenie și onorați rudele. 4:36
+- Nu fiți zgârciți 4:37
+- Allah nu iartă să I se asocieze parteneri în adorare, dar iartă în afara acestora (orice altceva) pe cine voiește El. 4:48
+- Nu invidiați pe alții 4:54
+- Allah vă poruncește să înapoiați încredințările celor cărora le aparțin. Când judecați între oameni, judecați cu dreptate. 4:58
+- Ascultați de Allah și de Mesagerul Său. Dați respectul cuvenit celor care au autoritate între voi 4:59
+- Nu-i asupriți pe cei slabi sau vulnerabili 4:75
+- Orice bine vă ajunge este de la Allah, iar orice rău vă lovește este de la voi înșivă. 4:79
+- Cel care ascultă de Mesager (Muhammad ﷺ), L-a ascultat de fapt pe Allah. 4:80
+- Cine intervine pentru o cauză bună va avea parte de răsplata ei, iar cine intervine pentru o cauză rea va avea parte de povara ei. 4:85
+- Nu este potrivit pentru un credincios să ucidă un alt credincios, decât din greșeală. 4:92
+- Oricine ucide un credincios intenționat, răsplata lui este Iadul, unde va rămâne veșnic. Mânia și blestemul lui Allah sunt asupra lui și o mare pedeapsă este pregătită pentru el. 4:93
+- Cel care emigrează (din casa sa) pe calea lui Allah va găsi pe pământ multe locuri de adăpost și îndestulare. 4:100
+- Fiți punctuali în rugăciunile voastre 4:103
+- Nu-i sprijiniți și nu fiți avocați pentru cei care își trădează încredințările 4:105
+- Căutați iertarea lui Allah, cu siguranță Allah este Iertător, Îndurător. 4:106
+- O, voi cei care credeți! Ridicați-vă cu fermitate pentru dreptate, ca martori pentru Allah, chiar dacă este împotriva voastră, sau a părinților voștri, sau a rudelor voastre, fie el bogat sau sărac. Nu amânați dreptatea; acționați prompt în îndreptarea nedreptăților 4:135
+- Ipfocriții încearcă să-L înșele pe Allah, dar El este Cel care îi înșeală pe ei. 4:142
+- Ipfocriții vor fi în cele mai adânci (niveluri) ale Focului; nu veți găsi niciun ajutor pentru ei. 4:145
+- Lui Allah nu-I place ca răul să fie rostit în public, cu excepția celor care au fost nedreptățiți. 4:148
+- Mesagerii ca vestitori de vești bune și ca avertismeri, pentru ca oamenii să nu aibă nicio scuză împotriva lui Allah după (venirea) Mesagerilor. 4:165
+- Respectați-vă contractele și promisiunile 5:1
+- Sprijiniți-vă unii pe alții în virtute și evlavie, nu în păcat și dușmănie 5:2
+- Nu consumați animale moarte, sângele animalelor sau carne de porc 5:3
+- Fiți drepți, să nu vă facă dușmănia și ura altora să evitați dreptatea. Fiți drepți și corecți în afacerile voastre. Știți că dreptatea este aproape de evlavie. Nu amânați dreptatea; acționați prompt în îndreptarea nedreptăților 5:8
+- Căutați mijloacele de apropiere de Allah și străduiți-vă în Cauza Sa cât puteți de mult, pentru a reuși. 5:35
+- Respectați-vă jurămintele și legămintele 5:89
+- Evitați băuturile intoxicante și alcoolul. Evitați strict băuturile intoxicante (toate tipurile de băuturi alcoolice), jocurile de noroc, Al-Ansab (altarele de piatră) și Al-Azlam (săgețile pentru căutarea norocului sau a deciziei), care sunt toate o spurcăciune din lucrarea lui Shaitan (Satan). 5:90
+- Nu ucideți vânatul când sunteți în stare de Ihram pentru Hajj sau 'Umrah (pelerinaj). 5:95
+- Nu întrebați despre lucruri care, dacă vi s-ar face cunoscute, v-ar putea cauza probleme. 5:101
+- Nu insultă zeitățile altor oameni. Nu-i insultați pe cei pe care ei (necredincioșii) îi adoră în afară de Allah, ca nu cumva să-L insulte pe Allah cu necunoștință. 6:108
+- Dacă ascultați de cei mai mulți de pe pământ, ei vă vor abate de la Calea lui Allah. Ei nu urmează decât presupuneri și nu fac decât să mintă. 6:116
+- Părăsiți (o, oameni!) orice fel de păcat, deschis sau ascuns. 6:120
+- Nu mâncați (o, credincioșilor!) din (carnea) acelui (animal) asupra căruia nu a fost rostit Numele lui Allah (la sacrificare). 6:121
+- Pe cel pe care Allah voiește să-l călăuzească, El îi deschide pieptul pentru Islam, iar pe cel pe care voiește să-l ducă în rătăcire, El îi face pieptul strâmt și îngust. 6:125
+- Fiți moderați în cheltuială și evitați extravaganța. Respectați drepturile tuturor creaturilor 6:141
+- Nu asociați nimic în adorare cu Allah, fiți buni și dăruitori față de părinți, nu vă ucideți copiii din cauza sărăciei, nu vă apropiați de Al-Fawahish (faptele rușinoase), nu ucideți pe nimeni pe care Allah l-a interzis, decât pentru o cauză justă. 6:151
+- Fiți onești; nu înșelați în nicio afacere. Nu vă apropiați de averea orfanului, decât pentru a o îmbunătăți, dați măsura și cântarul cu dreptate, ori de câte ori vorbiți, spuneți adevărul, chiar dacă este vorba de o rudă apropiată, și respectați Legământul lui Allah. 6:152
+- Urmați Calea Dreaptă și nu urmați (alte) căi, căci ele vă vor despărți de Calea Sa. 6:153
+- Spune (o, Muhammad ﷺ): „Cu adevărat, rugăciunea mea, sacrificiul meu, viața mea și moartea mea sunt pentru Allah, Stăpânul lumilor." 6:162
+- Nu fiți aroganți 7:13
+- Să nu vă înșele Shaitan (Satan). 7:27
+- Spune (o, Muhammad ﷺ): „Domnul meu a poruncit dreptatea..." 7:29
+- Respectați limitele stabilite de Allah în toate lucrurile. Evitați transgresiunea în vorbire și acțiuni. Mâncați și beți, dar nu fiți excesivi. Purtați haine bune în timpul rugăciunii 7:31
+- Allah a creat cerurile și pământul în Șase Zile, iar apoi S-a așezat pe Tron (într-un mod care se potrivește Maiestății Sale). 7:54
+- Chemați-vă Domnul cu smerenie și în taină. El nu-i iubește pe cei care depășesc limitele. 7:55
+- Și nu faceți stricăciune pe pământ, după ce el a fost pus în ordine, și chemați-L cu frică și speranță. 7:56
+- Dar cei care au comis fapte rele și apoi s-au căit după aceea și au crezut, cu adevărat Domnul vostru, după toate acestea, este Iertător, Îndurător. 7:153
+- Spune (o, Muhammad ﷺ): „O, oameni! Cu adevărat, eu sunt trimisul lui Allah pentru voi toți..." 7:158
+- Și (toate) Cele mai Frumoase Nume aparțin lui Allah, deci chemați-L prin ele și lăsați-i pe cei care hulesc sau neagă (sau rostesc vorbe impioase împotriva) Numelor Sale... 7:180
+- Pe cel pe care Allah îl duce în rătăcire, nimeni nu-l poate călăuzi; și El îi lasă să rătăcească orbește în transgresiunile lor. 7:186
+- Arătați iertare, porunciți ceea ce este bine și întoarceți-vă de la cei neștiutori (adică nu-i pedepsiți). 7:199
+- Iertați-i pe alții pentru greșelile lor 7:199
+- Și dacă o șoaptă rea vine la voi de la Shaitan (Satan), căutați adăpost la Allah. Cu adevărat, El este Auzitor, Știutor. 7:200
+- Credincioșii sunt doar aceia care, atunci când este menționat Allah, simt frică în inimile lor și când Versetele Sale sunt recitate lor, ele (versetele) le sporesc Credința... 8:2
+- Nu-L trădați pe Allah și pe Mesagerul Său și nu vă trădați știut încredințările (lucrurile încredințate vouă și toate îndatoririle pe care Allah vi le-a poruncit). 8:27
+- Dacă ascultați și vă temeți de Allah, El vă va da Furqan un criteriu (pentru a judeca între bine și rău). 8:29
+- Cei care nu cred își cheltuiesc averile pentru a împiedica (oamenii) de la Calea lui Allah și vor continua să le cheltuiască; dar în final aceasta va deveni o durere pentru ei. 8:36
+- Spuneți celor care au necredințat că, dacă încetează (din necredință), trecutul lor va fi iertat. Dar dacă se întorc (la ea), atunci exemplele celor (pedepsiți) dinaintea lor au fost deja date (ca avertisment). 8:38
+- Când întâlniți (o forță inamică), țineți-vă tari în fața lor și amintiți-vă mult de Numele lui Allah (atât cu limba, cât și cu mintea), pentru a reuși. 8:45
+- Nu fiți ca cei care ies din casele lor cu fală și pentru a fi văzuți de oameni și care împiedică (oamenii) de la Calea lui Allah. 8:47
+- Allah nu va schimba o binecuvântare pe care a acordat-o unui popor până când ei nu schimbă ceea ce este în sufletele lor. 8:53
+- Cele mai rele ființe vii dinaintea lui Allah sunt cele care nu cred. 8:55
+- Dumnezeu pune dragoste și afecțiune între inimile celor care cred în El 8:63
+- Protejați și ajutați-i pe cei care cer protecție 9:6
+- Nu se cuvine ca musjricii să întrețină moscheile lui Allah. 9:17
+- Ei (necredincioșii, evreii și creștinii) voiesc să stingă Lumina lui Allah (cu care a fost trimis Muhammad ﷺ – Monoteismul Islamic) cu gurile lor, dar Allah nu va îngădui decât ca Lumina Sa să fie desăvârșită, chiar dacă necredincioșii o urăsc. 9:32
+- As-Sadaqat (adică Zakat) sunt doar pentru: 1) Fuqara' (săraci), 2) Al-Masakin (săraci), 3) cei angajați să colecteze fondurile, 4) pentru a atrage inimile celor înclinați spre Islam, 5) pentru eliberarea captivilor, 6) pentru cei îndatorați, 7) pentru Cauza lui Allah (adică pentru Mujahidun) și 8) pentru călător. 9:60
+- Oricine se opune și arată dușmănie lui Allah și Mesagerului Său (ﷺ), pentru el va fi cu siguranță Focul Iadului, în care va rămâne veșnic. Aceasta este o mare rușine. 9:63
+- Ipfocriții, bărbați și femei, sunt la fel unii ca alții. L-au uitat pe Allah, așa că El i-a uitat pe ei. 9:67
+- Străduiți-vă pentru puritate. Respectați sfințenia moscheii 9:108
+- Nu se cuvine ca Profetul și cei care cred să ceară iertare lui Allah pentru musjrici, chiar dacă sunt rude, după ce li s-a dovedit că ei sunt locuitorii Focului (pentru că au murit în stare de necredință). 9:113
+- Cine este mai nedrept decât cel care născocește o minciună împotriva lui Allah sau neagă Versetele Sale? Cu siguranță, nelegiuiții nu vor reuși niciodată! 10:17
+- Ei adoră în locul lui Allah lucruri care nu le fac nici rău, nici bine și spun: „Aceștia sunt mijlocitorii noștri la Allah." Spune: „Îi spuneți lui Allah ceea ce El nu știe în ceruri și pe pământ?" Mărire și Înălțare Lui peste ceea ce I se asociază! 10:18
+- Răsplata unui rău este una asemănătoare. 10:27
+- Acesta este Allah, Domnul vostru cel Adevărat. După adevăr, ce poate fi decât rătăcire? Cum de sunteți întorși? 10:32
+- Cei mai mulți dintre ei nu urmează decât presupuneri. Cu siguranță, presupunerile nu pot fi de niciun folos împotriva adevărului. 10:36
+- Cu adevărat, Allah nu este nedrept cu oamenii în nimic; ci oamenii sunt nedrepți cu ei înșiși. 10:44
+- Știți că darul lui Dumnezeu este mai bun decât orice poate aduna sau strânge omul 10:58
+- Nu fiți dintre cei care neagă Versetele lui Allah, căci atunci veți fi dintre cei pierduți. 10:95
+- Dacă Allah vă atinge cu un rău, nimeni nu-l poate îndepărta în afară de El; iar dacă El voiește un bine pentru voi, nimeni nu poate respinge Harul Său, pe care El îl face să ajungă la oricare dintre robii Săi voiește. 10:107
+- Nu există nici o făptură vie pe pământ a cărei hrană să nu fie de la Allah. Și El știe locul ei de odihnă și locul ei de depozitare (în pântec, mormânt etc.). 11:6
+- Dacă îi dăm omului o parte din Îndurarea Noastră și apoi i-o retragem, el devine deznădăjduit și nerecunoscător. 11:9
+- Oricine dorește viața lumească și podoaba ei, Noi le vom plăti în întregime (răsplata) faptelor lor în ea și nu vor fi păgubiți. 11:15
+- Noi nu am fost nedrepți cu ei, ci ei s-au nedreptățit pe ei înșiși. Zeitățile lor, altele decât Allah, pe care le invocau, nu le-au fost de niciun folos când a venit Porunca Domnului tău și nu le-au adăugat decât pierzanie. 11:101
+- În Ziua când va veni, nimeni nu va vorbi fără Permisiunea lui Allah. Dintre ei, unii vor fi nefericiți și (alții) binecuvântați. 11:105
+- Cei care sunt nefericiți vor fi în Foc, scoțând suspine și gemete. 11:106
+- Ei vor rămâne acolo atâta timp cât vor dura cerurile și pământul, afară de ceea ce voiește Domnul tău. Cu adevărat, Domnul tău face ceea ce voiește. 11:107
+- Iar cei care sunt binecuvântați vor fi în Paradis, rămânând acolo atâta timp cât vor dura cerurile și pământul, afară de ceea ce voiește Domnul tău, ca un dar fără sfârșit. 11:108
+- Nu vă aplecați spre cei care greșesc, ca nu cumva Focul să vă atingă și să nu aveți protectori în afară de Allah, și nici să nu fiți ajutați. 11:113
+- Efectuați As-Salat la cele două capete ale zilei și în unele ore ale nopții (adică cele 5 rugăciuni zilnice). Faptele bune îndepărtează faptele rele (adică păcatele mici). 11:114
+- Lui Allah aparține Ghaib (nevăzutul) cerurilor și al pământului și la El se întorc toate lucrurile (pentru hotărâre). 11:123
+- Porunca (sau hotărârea) este numai a lui Allah. El a poruncit să nu-L adorați decât pe El (Monoteismul Său), aceasta este religia dreaptă, dar cei mai mulți oameni nu știu. 12:40
+- Nu pierdeți niciodată speranța în Îndurarea lui Allah 12:87
+- Și cei mai mulți oameni nu vor crede, chiar dacă voi doriți cu ardoare. 12:103
+- Și cei mai mulți dintre ei nu cred în Allah decât asociindu-I parteneri (adică sunt musjrici). 12:106
+- El (Coranul) nu este un cuvânt născocit, ci este o confirmare a Cărților lui Allah existente (Taurat (Tora), Injeel (Evanghelia) și alte Scripturi ale lui Allah) și o explicație detaliată a tuturor lucrurilor și un călăuzitor și o Îndurare pentru oamenii care cred. 12:111
+- Allah sporește provizia pentru cine voiește și o îngustează (pentru cine voiește). 13:26
+- Amintiți-vă de Allah adesea prin dhikr. Cei care cred în Dumnezeu găsesc satisfacție în amintirea Lui. 13:28
+- Cei care cred și fac bine sunt răsplătiți cu bucurie și liniște sufletească 13:29
+- Cei care preferă viața acestei lumi în locul Vieții de Apoi și care împiedică (oamenii) de la Calea lui Allah (Islamul) și caută întortochearea ei – aceia sunt foarte rătăciți. 14:3
+- Practicați smerenia și recunoștința în adorare 14:7
+- Pilda celor care nu cred în Domnul lor este că faptele lor sunt ca cenușa, pe care vântul o împrăștie într-o zi furtunoasă; ei nu vor putea obține nimic din ceea ce au agonisit. 14:18
+- Allah îi va întări pe cei care cred, cu cuvântul care rămâne tare în această lume (adică vor continua să-L adore pe Allah singur și pe nimeni altul) și în Viața de Apoi. 14:27
+- Nu socotiți că Allah este nepăsător față de ceea ce fac Zalimun (politeiștii, nedrepții etc.), ci El le dă răgaz până într-o Zi în care ochii vor sta înspăimântați. 14:42
+- Pentru ca Allah să răsplătească fiecare suflet după ceea ce a agonisit. Cu adevărat, Allah este grabnic la socoteală. 14:51
+- Și într-adevăr, Noi l-am creat pe om din lut sunător, din lut negru și modelat. 15:26
+- Iar pe djinn, Noi i-am creat mai înainte din focul fără fum. 15:27
+- El (Iadul) are șapte porți; pentru fiecare poartă este o (clasă) anume (de păcătoși) destinată. 15:44
+- El l-a creat pe om din Nutfah (picături amestecate de spermă masculină și femeie), iar apoi iată-l pe acesta (omul) devenit un oponent deschis. 16:4
+- Și animalele, El le-a creat pentru voi; în ele este căldură (îmbrăcăminte caldă) și numeroase foloase, iar din ele mâncați. 16:5
+- Și (El a creat) caii, catârii și măgarii, pentru să călăriți și ca podoabă. Și El creează (alte) lucruri pe care voi nu le știți. 16:8
+- El este Cel care trimite apă (ploaie) din cer; din ea beți și din ea crește vegetația cu care vă pașteți animalele. 16:10
+- El este Cel care a supus marea (vouă), ca să mâncați din ea carne proaspătă (pește) și să scoateți din ea podoabe pe care să le purtați. 16:14
+- El a așezat în pământ munți neclintiți, ca să nu se cutremure cu voi, și râuri și drumuri, ca să vă călăuziți. 16:15
+- Cel care creează este oare ca cel care nu creează? Nu vă veți aminti? 16:17
+- Dacă ați număra binecuvântările lui Allah, nu ați putea să le numărați niciodată. 16:18
+- Allah știe ce ascundeți și ce dezvăluiți. 16:19
+- Cei pe care ei (Al-Mushrikun) îi invocă în afară de Allah nu au creat nimic, ci ei înșiși sunt creați. 16:20
+- (Sunt) morți, fără viață și nu știu când vor fi înviați. 16:21
+- Când Noi voim un lucru, Cuvântul Nostru este doar să-i spunem: „Fii!" și el este. 16:40
+- Cei care uneltesc planuri rele se simt oare în siguranță că Allah nu-i va face să fie înghițiți de pământ sau că pedeapsa nu-i va ajunge din direcții pe care ei nu le percep? 16:45
+- Orice binecuvântare și lucru bun pe care le aveți este de la Allah. Apoi, când vă atinge răul, către El strigați după ajutor. 16:53
+- Apoi, când El îndepărtează răul de la voi, iată că unii dintre voi asociază (alții) în adorare cu Domnul lor (Allah). 16:54
+- În vite este o lecție pentru voi. Vă dăm să beți din ceea ce se află în pântecele lor, din întreaga prin excrescențe și sânge, lapte pur, plăcut celor care beau. 16:66
+- Nu dați asemănări lui Allah (căci nimic nu este asemenea Lui, nici El nu seamănă cu nimic). Cu adevărat, Allah știe și voi nu știți. 16:74
+- Știți că Dumnezeu a dat oamenilor auzul, vederea, inteligența și afecțiunea pentru ca ei să fie recunoscători 16:78
+- Evitați lăcomia și pofta 16:97
+- Când doriți să recitați Coranul, căutați adăpost la Allah de Shaitan (Satan), alungatul (blestematul). 16:98
+- Știți că o nedreptate făcută din ignoranță este iertată dacă persoana se căiește și se corectează 16:119
+- Cheamă (o, Muhammad ﷺ) la Calea Domnului tău (Islamul) cu înțelepciune și predică bună și discută cu ei în modul cel mai frumos. Chemarea altora la Calea lui Dumnezeu trebuie făcută cu înțelepciune și bunătate 16:125
+- Allah este cu cei care se tem de El (Își fac datoria față de El) și cu cei care sunt Muhsinun (făcători de bine). 16:128
+- Acest Coran călăuzește la ceea ce este cel mai drept. 17:9
+- Nimeni nu va purta păcatele altuia 17:15
+- Cine dorește Viața de Apoi și se străduiește pentru ea cu strădania cuvenită, fiind credincios, aceia sunt cei a căror strădanie va fi apreciată, mulțumită și răsplătită (de Allah). 17:19
+- Onorați-vă părinții și tratați-i cu bunătate. Fiți evlavioși cu părinții. Nu le spuneți niciun cuvânt de lipsă de respect. Și Domnul vostru a poruncit să nu-L adorați decât pe El. Și să fiți buni cu părinții voștri. Dacă unul dintre ei sau amândoi ajung la bătrânețe în viața voastră, nu le spuneți un cuvânt de lipsă de respect, nici nu strigați la ei, ci vorbiți-le cu cinste. 17:23
+- Și coboară pentru ei aripa smereniei și a milei și spune: „Domnul meu! Dă-le lor îndurare, așa cum ei m-au crescut când eram mic." 17:24
+- Cu adevărat, risipitorii sunt frații diavolilor, iar Diavolul este foarte nerecunoscător față de Domnul său. 17:27
+- Nu cheltuiți banii risipitor 17:29
+- Nu vă ucideți copiii de frica sărăciei 17:31
+- Nu comiteți adulter. Păstrați sfințenia căsătoriei și evitați adulterul 17:32
+- Dați măsura plină când măsurați și cântăriți cu cântar drept. Acesta este binele și mai bun la sfârșit. 17:35
+- Nu urmați (o, omule, adică nu spuneți, nu faceți sau nu mărturisiți etc.) ceea ce nu cunoașteți (de exemplu, cineva care spune: „Am văzut", deși nu a văzut, sau „Am auzit", deși nu a auzit). 17:36
+- Fiți smeriți și nu fiți aroganți. Nu mergeți pe pământ cu înfumurare și aroganță. Cu adevărat, voi nu puteți nici să despicați pământul, nici să ajungeți la înălțimea munților. 17:37
+- Domnul vostru vă știe cel mai bine; dacă voiește, El vă va îndura, sau dacă voiește, vă va pedepsi. 17:54
+- Cine este orb în această lume (adică nu vede Semnele lui Allah și nu crede în El), va fi orb și în Viața de Apoi și mai rătăcit de pe Cale. 17:72
+- Respectați timpurile prescrise pentru rugăciune 17:78
+- Într-adevăr, Noi am explicat pe deplin oamenilor în acest Coran tot felul de pilde, dar cei mai mulți oameni refuză (adevărul și nu acceptă nimic) decât necredința. 17:89
+- Noi am adus tot felul de pilde în acest Coran pentru oameni. Dar omul este mai certăreț decât orice. 18:54
+- Aceasta va fi răsplata lor, Iadul; pentru că au necrezut și au luat Versetele Mele și pe Mesagerii Mei în batjocură și râs. 18:106
+- Nu se cuvine (Măreției) lui Allah să aibă un fiu (aceasta se referă la calomnia creștinilor împotriva lui Allah, că Isus este fiul lui Allah). Mărire Lui (și este mai presus de ceea ce ei I-au asociat). 19:35
+- Vorbiți oamenilor cu blândețe 20:44
+- Concură unii cu alții în a face bine 21:90
+- Evitați vorbele deșarte 23:3
+- Păziți-vă modestia 23:5
+- Păziți-vă inima de înclinațiile păcătoase 23:97
+- Iertați-i pe alții și iertați greșelile lor 24:22
+- Respectați intimitatea altora, mai ales în propriile lor case. Îndepliniți drepturile vecinilor 24:27
+- Coborâți-vă privirea (atât pentru bărbați, cât și pentru femei). Păziți-vă modestia și castitatea. 24:30
+- Păstrați modestia în îmbrăcăminte și comportament 24:31
+- Știți că Dumnezeu oferă siguranță și pace celor care Îl adoră și acționează cu virtute 24:55
+- Nu intrați în camera privată a părinților fără permisiune 24:58
+- Fiți modești și smeriți 25:63
+- Evitați mărturia mincinoasă și înșelăciunea 25:72
+- Străduiți-vă pentru răsplata Vieții de Apoi, dar nu neglijați treburile voastre lumești 28:77
+- Nu invocați nicio altă zeitate alături de Dumnezeu 28:88
+- Nu vă implicați în homosexualitate 29:29
+- Străduiți-vă pentru excelență în toate demersurile voastre 29:69
+- Întemeiați rugăciunea și dați milostenie (caritate) 31:4
+- Porunciți binele și opriți răul 31:17
+- Evitați aroganța în comportamentul vostru. Abțineți-vă de la pierderea timpului în discuții inutile 31:18
+- Fiți modești în mers și în volumul vocii voastre 31:19
+- Urmați exemplul Profetului Muhammad 33:21
+- Femeile nu trebuie să-și arate sau să-și etaleze frumusețea și podoabele 33:33
+- Spuneți adevărul în toate împrejurările 33:70
+- Căutați înțelepciunea și înțelegerea prin reflecție 38:29
+- Ascultați poruncile Coranului 39:23
+- Dumnezeu iartă toate păcatele când păcătosul se căiește și se întoarce la El 39:53
+- Faceți duʿā (invocație) sinceră către Allah 40:60
+- Îndepărtați răul cu ceea ce este mai bun 41:34
+- Hotărâți treburile prin consultare 42:38
+- Nu ridicați vocea mai tare decât vocea Profetului 49:2
+- Păstrați secretele și evitați trădarea 49:6
+- Faceți pace între cei aflați în conflict. Căutați reconcilierea în conflicte 49:9
+- Nu-i batjocoriți pe alții 49:11
+- Evitați suspiciunea. Evitați spionajul și defăimarea. Nu defăimați sau denigrați pe alții. Abțineți-vă de la orice formă de ponegrire și calomnie. Nu lăsați mândria să vă ducă la nedreptate 49:12
+- Știți că numai dreptatea îl face pe om nobil. Respectați diferențele dintre oameni și culturi 49:13
+- Onorați oaspeții 51:26
+- Fiți conștienți de îndatoririle voastre față de Allah 51:56
+- Cheltuiți averea în caritate 57:7
+- Știți că nu există monahism (renunțarea la căsătorie și la plăceri, ca la călugări, maici sau alții care trăiesc sub jurăminte religioase sau în clădirile în care locuiesc) în religie 57:27
+- Nu lăsați averea să vă distragă de la amintirea lui Allah 58:11
+- Cei care au cunoaștere vor primi un rang mai înalt de la Dumnezeu 58:11
+- Tratați-i pe non-musulmani cu bunătate și corectitudine 60:8
+- Evitați ipocrizia în convingerile și acțiunile voastre 63:9
+- Stați departe de lăcomie și zgârcenie 64:16
+- Păziți revelațiile încredințate vouă 73:15
+- Fiți atenți la Ziua Judecății 75:36
+- Porunciți răbdarea și compasiunea 90:17
+- Cei care își purifică sufletele vor reuși, iar cei care le corup vor pierde 91:10
+- Nu ignorați și nu alungați pe cel nevoiaș 93:10
+- Căutați cunoașterea și înțelegerea. Citiți și reflectați asupra Coranului 96:1–5
+- Încurajați hrănirea săracilor 107:3
 """;

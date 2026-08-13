@@ -3913,4 +3913,280 @@ Matching Phrases 8 words
 - Allah, kullarından dilediğine rızkı bol verir ve kısar. (اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ) 28:82; 29:62
 - Gizliyi ve açığı bilene döndürüleceksiniz ve yaptıklarınız size haber verilecek. (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
 - Akrabalar, Allah'ın kitabına göre birbirlerine daha yakındır. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
+cmds - Commands, Exhortations, Prohibitions, Instructions
+- fard / wajib (فرض / واجب) — farz / vacip (yapılması zorunlu; terki günah)
+- mustahabb / mandub (مستحب / مندوب) — müstehap / mendup (yapılması tavsiye edilen; yapılırsa sevap, terki günah değil)
+- mubah (مباح) — mubah (ne sevap ne günah)
+- makruh (مكروه) — mekruh (hoş görülmeyen, yapılması istenmeyen ama günah olmayan)
+- haram (حرام) — haram (yapılması günah)
+- halal (حلال, helal / caiz) — hem mubahı hem müstahabı kapsar — haram olmayan her şey
+- Yalnızca Allah'a ibadet edin ve O'ndan yardım dileyin. 1:5
+- Yalnızca Allah'a ibadet edin 2:21
+- Allah'a ortak koşmayın 2:22
+- Allah bağışlayandır (tövbeyi kabul edendir), Adem'in (عَلَيْهِ ٱلسَّلَامُ) tövbesini kabul etti. 2:37
+- Hakkı batılla karıştırmayın ve hakkı gizlemeyin. 2:42
+- Namazı kılın ve zekatı verin. 2:43
+- Başkalarına iyiliği emretmeden önce kendiniz uygulayın 2:44
+- Tüm işlerinizde Allah'tan yardım dileyin 2:45
+- Bozgunculuğa girişmeyin veya yaymayın 2:60
+- İnsanları ibadethanelere gitmekten alıkoymayın 2:114
+- Mescidin kutsallığına saygı gösterin. Namaz kıldığınız yerleri temiz ve pak tutun 2:125
+- Allah'ı (namaz, tesbih vb. ile) anın ki O da sizi ansın ve O'na şükredin. 2:152
+- Sıkıntıda sabredin 2:153
+- Açık düşman olan Şeytan'ın adımlarını izlemeyin. 2:168
+- Kimseyi körü körüne takip etmeyin 2:170
+- Tüm emanetlere sahip çıkın ve yerine getirin. Dinî görevlerinizi samimiyetle ifa edin. Yeminlerinizi ve ahitlerinizi yerine getirin. Verdiğiniz sözleri, özellikle Allah'a verilenleri tutun. Muhtaçlara destek olun ve sıkıntıları hafifletin. Allah'ın lütfunu kaybettirecek günahlardan kaçının. Gururun sizi zulme sürüklemesine izin vermeyin 2:177
+- Kısasta (cezada eşitlik yasasında) sizin için hayat vardır. 2:179
+- Ramazan ayında oruç tutun. Müttakiler (takva sahipleri) olmak için belirlenen orucu tutun. 2:183
+- Kur'an'a en üstün rehber kaynağı olarak saygı gösterin 2:185
+- Birbirinizin malını haksız yere yemeyin ve (davalarınızı sunmadan önce) hakimlere rüşvet vermeyin. 2:188
+- Başkalarına, ister sözle ister fiille, zulmetmeyin. Asla saldırgan olarak savaşmayın, sadece savunma için savaşın 2:190
+- Yetimleri koruyun. Yetimler konusunda, mallarında dürüstçe çalışın ve mallarını yemeyin. 2:220
+- Tövbe edin ve Allah'tan af dileyin. Âdet döneminde cinsel ilişkiye girmeyin. (Hem fiziksel hem manevi) temizliği koruyun 2:222
+- Ailenize karşı sorumluluklarınızı yerine getirin 2:233
+- Liderleri liyakatlerine göre seçin 2:247
+- Dinde zorlama yoktur 2:256
+- Malınızı hayırda harcayın. Mal ve zamanda cömert olun 2:261
+- Cömertliğinizle övünerek sadakalarınızı boşa çıkarmayın 2:264
+- Şeytan sizi fakirlikle korkutur ve size çirkin işleri (günahları) emreder. 2:268
+- Muhtaçları arayın ve onlara yardım edin 2:273
+- Faizle uğraşmayın. Faizli mal yemeyin. Riba (faiz) yemeyin. 2:275
+- Borçlu zor durumdaysa ödemesi için daha fazla süre tanıyın 2:280
+- Ticari işlemlerinizde sözünüzü tutun. Mali işlerinizde dürüst olun. Tüm taahhütlerinizde dürüst davranın. Belirli bir süre için borçlandığınızda, onu yazın. Ne zaman ticari bir sözleşme yaparsanız şahit tutun. 2:282
+- Tüm emanetlere sahip çıkın ve yerine getirin 2:283
+- İndirilen Kitaplara ve tüm Peygamberlere inanın 2:285
+- Allah hiç kimseye gücünün yetmediğini yüklemez. Kazandıkları (iyilik) için sevap, kazandıkları (kötülük) için de ceza alacaklardır. Allah hiç kimseye gücünün yetmediğini yüklemez; biz de yapmamalıyız. Zorlukta bile Allah'ın planına güvenin 2:286
+- Kim sözünü tutar ve Allah'tan çok korkarsa, Allah takva sahiplerini sever. 3:76
+- Hacca gücünüz yetiyorsa haccedin 3:97
+- Ayrılığa düşmeyin 3:103
+- İyiliği emredin, kötülükten sakındırın. Toplumunuzda doğruluğu teşvik edin. Başkalarını Allah'ı anmaya davet edin 3:104
+- Müminler Allah'a tevekkül etsinler. 3:122
+- Riba (faiz) yemeyin. 3:130
+- Rahmete kavuşmak için Allah'a ve Resulüne itaat edin. 3:132
+- Allah, bollukta ve darlıkta (Allah yolunda harcayan) infak edenleri, öfkelerini yenenleri ve insanları affedenleri sever. 3:134
+- Öfkenizi kontrol edin. 3:134
+- Başkalarının hatalarını affedin 3:135
+- Sözde kaba olmayın. Sizden ayrı düşenlere karşı sabırlı olun 3:159
+- Allah size yardım ederse, kimse size üstün gelemez; eğer O sizi terk ederse, O'ndan başka size yardım edecek kim vardır? 3:160
+- Her can ölümü tadacaktır. Ve ancak kıyamet gününde ücretleriniz eksiksiz ödenecektir. 3:185
+- Doğanın harikaları ve evrenin yaratılışı hakkında derin düşünün. Allah'ın evreni anlam ve gaye ile yarattığını bilin 3:191
+- Erkekler ve kadınlar yaptıkları işlerde eşit mükafata sahiptirler 3:195
+- Rablerinden korkanlar için, (cennette) altından nehirler akan cennetler vardır; orada ebedi kalacaklar, bu Allah'tan bir ikramdır. 3:198
+- Her eylemde daima Allah'ın rızasını hedefleyin. 3:200
+- Rabbinize karşı sorumlu olun, O'ndan korkun ve akrabalık bağlarını (kesmeyin). 4:1
+- Yetimlere mallarını verin, (sizin) kötü malınızı (onların) iyi malıyla değiştirmeyin ve onların malını kendi malınıza katarak yemeyin. 4:2
+- Evlendiğiniz kadınlara mehirlerini (nikah sırasında erkeğin kadına vermesi gereken farz olan evlilik armağanı) gönül hoşluğuyla verin. 4:4
+- Yetimlerin haklarını koruyun 4:6
+- Ölen kişinin malı aile üyeleri arasında paylaştırılmalıdır. Kadınların miras hakkı vardır 4:7
+- Yetimlerin malını haksız yere yemeyin 4:10
+- Miras emirlerine uyun 4:11
+- Kadınları istemedikleri halde miras bırakmak yasaktır ve onlara sert davranmamalısınız. Onlarla (eşlerinizle) iyi geçinin. Kadınların haklarına saygı gösterin ve gözetin. Eşinize karşı iyi davranın ve merhametli olun. Kadınlara onur ve adaletle davranın 4:19
+- Kan bağı olanlarla evlenmeyin 4:23
+- Kendinizi (veya birbirinizi) öldürmeyin. Şüphesiz Allah size karşı çok merhametlidir. Birbirinizin malını haksızca yemeyin 4:29
+- Yasaklanan büyük günahlardan kaçınırsanız, Allah (küçük) günahlarınızı siler ve sizi şerefli bir makama (cennete) dahil eder. 4:31
+- Allah'ın kiminizi kiminize üstün kıldığı şeylere göz dikmeyin. Haset ve kıskançlıktan kaçının 4:32
+- Erkekler kadınların koruyucuları ve geçimlerini sağlayanlardır, çünkü Allah onlardan birini diğerine üstün kılmıştır ve (kadınları geçindirmek için) mallarından harcarlar. Erkek ailenin koruyucusu ve dayanağıdır 4:34
+- Allah'a ibadet edin ve O'na hiçbir şeyi ortak koşmayın, anne babaya, akrabaya, yetimlere, yoksullara, yakın komşuya, yanınızdaki arkadaşa, yolda kalmışa ve sahip olduğunuz kölelere iyilik edin. Allah kibirlileri ve övüngenleri sevmez. Başkalarına iyilik yapın. Zayıflara merhamet gösterin. Akrabalık bağlarını gözetin ve yakınlarınıza saygı gösterin. 4:36
+- Cimri olmayın 4:37
+- Allah, kendisine ortak koşulmasını bağışlamaz, ancak bunun dışındakileri dilediğine bağışlar. 4:48
+- Başkalarını kıskanmayın 4:54
+- Allah size emanetleri ehline vermenizi ve insanlar arasında hükmettiğinizde adaletle hükmetmenizi emreder. 4:58
+- Allah'a ve Resulüne itaat edin. İçinizden yetkili olanlara saygı gösterin 4:59
+- Zayıflara ve mağdurlara zulmetmeyin 4:75
+- Size ulaşan her iyilik Allah'tandır, başınıza gelen her kötülük ise kendi nefsinizdendir. 4:79
+- Kim Resule (Muhammed ﷺ) itaat ederse, Allah'a itaat etmiş olur. 4:80
+- Kim iyi bir işe aracılık ederse, ondan bir pay alır; kim kötü bir işe aracılık ederse, onun vebalinden bir pay alır. 4:85
+- Bir müminin, yanlışlıkla olmadıkça, bir başka mümini öldürmesi olmaz. 4:92
+- Kim bir mümini kasten öldürürse, cezası içinde ebedi kalacağı cehennemdir. Allah ona gazap etmiş, onu lanetlemiş ve onun için büyük bir azap hazırlamıştır. 4:93
+- Kim Allah yolunda (evinden) hicret ederse, yeryüzünde birçok barınak ve bolluk bulur. 4:100
+- Namazlarınıza dikkat edin 4:103
+- Emanetlerine ihanet edenleri desteklemeyin ve onların avukatı olmayın 4:105
+- Allah'tan af dileyin, şüphesiz Allah çok bağışlayıcıdır, çok merhametlidir. 4:106
+- Ey iman edenler! Kendiniz, anne babanız veya yakınlarınız aleyhinde olsa bile, zengin veya fakir olsa da, Allah için şahitlik ederek adaleti ayakta tutun. Adaleti geciktirmeyin; zulmü düzeltmek için derhal harekete geçin 4:135
+- Münafıklar Allah'ı aldatmaya çalışırlar, oysa asıl O onları aldatır. 4:142
+- Münafıklar ateşin en alt tabakasındadırlar; onlar için asla bir yardımcı bulamazsın. 4:145
+- Allah, zulme uğrayanlar dışında, kötü sözün açıkça söylenmesini sevmez. 4:148
+- Peygamberleri müjdeciler ve uyarıcılar olarak (gönderdik), ki peygamberlerden sonra insanların Allah'a karşı bir bahaneleri olmasın. 4:165
+- Ahitlerinizi ve sözleşmelerinizi yerine getirin 5:1
+- İyilik ve takvada yardımlaşın, günah ve düşmanlıkta yardımlaşmayın 5:2
+- Leş, kan ve domuz eti yemeyin 5:3
+- Adil olun; başkalarının düşmanlığı ve nefreti sizi adaletten alıkoymasın. İşlerinizde adil ve dürüst olun. Adaletin takvaya yakın olduğunu bilin. Adaleti geciktirmeyin; zulmü düzeltmek için derhal harekete geçin 5:8
+- Allah'a yaklaşmaya vesile arayın ve başarıya ulaşmak için O'nun yolunda olabildiğince gayret edin. 5:35
+- Yeminlerinizi ve ahitlerinizi yerine getirin 5:89
+- İçki ve alkolden kaçının. İçkiden (tüm alkollü içeceklerden), kumardan, dikili taşlardan ve fal oklarından kesinlikle kaçının, bunların hepsi şeytan işi birer pisliktir. 5:90
+- Hac veya umre için ihram halinde iken avlanmayın. 5:95
+- Size açıklandığı takdirde size sıkıntı verebilecek şeyleri sormayın. 5:101
+- Başkalarının ilahlarına hakaret etmeyin. Onların (kafirlerin) Allah'tan başka taptıklarına hakaret etmeyin, yoksa onlar da cahillikle Allah'a hakaret ederler. 6:108
+- Eğer yeryüzündekilerin çoğunluğuna uyarsanız, sizi Allah yolundan saptırırlar. Onlar ancak zanna uyarlar ve onlar sadece yalan söylerler. 6:116
+- (Ey insanlar!) Günahın açığını da gizlisini de bırakın. 6:120
+- (Ey iman edenler!) Üzerine (kesilirken) Allah'ın adı anılmamış olan (eti) yemeyin. 6:121
+- Allah kimi hidayete erdirmek isterse, onun göğsünü İslam'a açar; kimi saptırmak isterse, onun göğsünü dar ve sıkıştırılmış yapar. 6:125
+- Harcamalarda mutedil olun ve israftan kaçının. Tüm yaratıkların haklarını koruyun 6:141
+- İbadette Allah'a hiçbir şeyi ortak koşmayın, anne babaya iyilik edin, fakirlik korkusuyla çocuklarınızı öldürmeyin, çirkin işlere yaklaşmayın, Allah'ın yasakladığı cana haksız yere kıymayın. 6:151
+- Dürüst olun; hiçbir işlemde hile yapmayın. Yetimin malına, onu düzeltmek dışında, yaklaşmayın, ölçüyü tartıyı tam yapın, konuştuğunuz zaman yakın akraba bile olsa doğruyu söyleyin ve Allah'ın ahdini yerine getirin. 6:152
+- Doğru yola uyun ve (başka) yollara uymayın, çünkü onlar sizi O'nun yolundan ayırır. 6:153
+- (Ey Muhammed ﷺ) De ki: "Benim namazım, ibadetlerim, hayatım ve ölümüm, alemlerin Rabbi olan Allah içindir." 6:162
+- Kibirli olmayın 7:13
+- Şeytan sizi aldatmasın. 7:27
+- (Ey Muhammed ﷺ) De ki: "Rabbim adaleti emretti..." 7:29
+- Tüm işlerde Allah'ın koyduğu sınırlara riayet edin. Söz ve davranışlarda sınırı aşmaktan kaçının. Yiyin, için fakat israf etmeyin. Namaz vakitlerinde güzel elbiseler giyin 7:31
+- Allah gökleri ve yeri altı günde yarattı, sonra Arş'a (hükümdarlığına) istiva etti. 7:54
+- Rabbinize yalvara yalvara ve gizlice dua edin. O, haddi aşanları sevmez. 7:55
+- Islah edilmesinin ardından yeryüzünde bozgunculuk yapmayın ve O'na korku ve umutla yalvarın. 7:56
+- Kötülük yapıp sonra ardından tövbe edip iman edenler, şüphesiz Rabbin bunun ardından çok bağışlayıcıdır, çok merhametlidir. 7:153
+- (Ey Muhammed ﷺ) De ki: "Ey insanlar! Ben Allah'ın hepinize gönderdiği elçisiyim..." 7:158
+- En güzel isimler Allah'ındır, öyleyse O'na o isimlerle dua edin ve O'nun isimleri hakkında sapıklık edenleri bırakın... 7:180
+- Allah kimi saptırırsa, artık onu doğru yola iletecek kimse yoktur; ve onları azgınlıkları içinde bocalarken bırakır. 7:186
+- Affediciliği göster, iyiliği emret ve cahillerden yüz çevir (yani onları cezalandırma). 7:199
+- Başkalarının hatalarını affedin 7:199
+- Eğer şeytandan gelen bir vesvese seni sıkıştırırsa, hemen Allah'a sığın. Şüphesiz O, işitendir, bilendir. 7:200
+- Müminler ancak o kimselerdir ki, Allah anıldığı zaman kalpleri ürperir, O'nun ayetleri okunduğu zaman imanlarını arttırır... 8:2
+- Allah'a ve Resulüne ihanet etmeyin ve bile bile emanetlerinize (size tevdi edilen şeylere ve Allah'ın size yüklediği tüm görevlere) ihanet etmeyin. 8:27
+- Eğer Allah'a karşı gelmekten sakınır ve O'na itaat ederseniz, O size furkan (hak ile batılı ayırt etme kabiliyeti) verir. 8:29
+- İnkâr edenler, insanları Allah yolundan alıkoymak için mallarını harcarlar ve daha da harcayacaklardır; ama sonunda bu, onlar için bir pişmanlık olacaktır. 8:36
+- İnkâr edenlere de ki: Eğer (inkârdan) vazgeçerlerse, geçmişteki (günahları) bağışlanır. Ama yine (küfre) dönerlerse, kendilerinden öncekilerin (başına gelen) örnekleri geçmiştir. 8:38
+- (Düşman kuvvetiyle) karşılaştığınız zaman, onlara karşı sebat edin ve başarıya ulaşmak için Allah'ı çokça anın (dilinizle ve kalbinizle). 8:45
+- Yurtlarından çalım satarak, gösteriş yaparak çıkan ve insanları Allah yolundan alıkoyanlar gibi olmayın. 8:47
+- Allah, bir topluma verdiği nimeti, onlar kendilerindekini değiştirmedikçe değiştirmez. 8:53
+- Allah katında canlıların en kötüsü inkâr edenlerdir. 8:55
+- Allah, kendisine iman edenlerin kalpleri arasına sevgi ve muhabbet koyar 8:63
+- Sığınmak isteyenleri koruyun ve onlara yardım edin 9:6
+- Müşriklerin Allah'ın mescitlerini imar etmeleri uygun değildir. 9:17
+- Onlar (kâfirler, Yahudiler ve Hristiyanlar), Allah'ın nurunu (Muhammed ﷺ ile gönderilen İslami tevhidi) ağızlarıyla söndürmek istiyorlar. Oysa kâfirler istemese de Allah, nurunu tamamlamaktan başkasına razı olmaz. 9:32
+- Sadakalar (zekat) ancak: 1) fakirler, 2) yoksullar, 3) onu toplamakla görevli olanlar, 4) kalpleri İslam'a ısındırılanlar, 5) köleler (özgürlükleri için), 6) borçlular, 7) Allah yolunda (savaşanlar) ve 8) yolcu için (verilir). 9:60
+- Kim Allah'a ve Resulüne (ﷺ) karşı gelir ve düşmanlık ederse, şüphesiz onun için, içinde ebedi kalacağı cehennem ateşi vardır. Bu büyük bir utangaçlıktır. 9:63
+- Münafıklar, erkekler ve kadınlar, birbirlerindendir. Allah'ı unuttular, O da onları unuttu. 9:67
+- Temizlik için gayret edin. Mescidin kutsallığına saygı gösterin 9:108
+- Müşriklerin cehennemlik oldukları kendilerine iyice belli olduktan sonra, (ölüp) kâfir olarak gitmiş olsalar bile, yakınları olsalar da Peygamberin ve müminlerin onlar için af dilemeleri uygun değildir. 9:113
+- Allah'a karşı yalan uydurandan veya ayetlerini yalanlayandan daha zalim kim vardır? Şüphesiz suçlular iflah olmazlar! 10:17
+- Onlar, Allah'ı bırakıp kendilerine ne zarar ne de fayda veren şeylere tapar ve "Bunlar Allah katında bizim şefaatçilerimizdir" derler. De ki: "Siz, Allah'a, göklerde ve yerde bilmediği bir şeyi mi haber veriyorsunuz?" O, onların ortak koştukları şeylerden münezzehtir ve çok yücedir! 10:18
+- Kötülüğün cezası, onun misli ile (bir kötülüktür). 10:27
+- İşte bu, sizin gerçek Rabbiniz olan Allah'tır. Hak'tan sonra sapıklıktan başka ne vardır? O halde nasıl (Hak'tan) çevriliyorsunuz? 10:32
+- Onların çoğu zandan başka bir şeye uymaz. Zan, hakkın yerine geçmez. 10:36
+- Şüphesiz Allah insanlara hiçbir şekilde zulmetmez; fakat insanlar kendilerine zulmederler. 10:44
+- Bilin ki, Allah'ın lütfu, insanın biriktirebileceği her şeyden daha hayırlıdır 10:58
+- Allah'ın ayetlerini yalanlayanlardan olma, yoksa hüsrana uğrayanlardan olursun. 10:95
+- Sana Allah'tan bir zarar dokunursa, onu O'ndan başka giderecek yoktur. Sana bir hayır dilerse, O'nun lütfunu geri çevirecek de yoktur. O, bunu kullarından dilediğine eriştirir. 10:107
+- Yeryüzünde hareket eden hiçbir canlı yoktur ki, rızkı Allah'a ait olmasın. O, onun karar kıldığı yeri de, emanet olarak bırakıldığı yeri de bilir. 11:6
+- İnsana tarafımızdan bir nimet tattırır, sonra da onu kendisinden çekip alırsak, şüphesiz o, ümidini keser, nankör olur. 11:9
+- Dünya hayatını ve onun çekiciliğini isteyenlere, amellerinin karşılığını burada tam olarak veririz ve onlar hiçbir eksiklikle karşılaşmazlar. 11:15
+- Onlara zulmetmedik, fakat onlar kendi kendilerine zulmettiler. Rabbinin emri gelince, Allah'ı bırakıp yalvardıkları tanrıları onlara hiçbir fayda sağlamadı ve onların sadece helaklerini arttırdı. 11:101
+- O (kıyamet) günü geldiğinde, Allah'ın izni olmadan hiç kimse konuşamaz. Onlardan kimi bedbaht, kimi mutlu olacaktır. 11:105
+- Bedbaht olanlar ateştedirler; onların orada (öyle) bir nefes alıp vermeleri vardır. 11:106
+- Rabbinin dilediği müddet hariç, gökler ve yer durdukça onlar ateşte ebedi kalacaklardır. Şüphesiz Rabbin, dilediğini yapandır. 11:107
+- Mutlu olanlar ise cennettedirler. Rabbinin dilemesi hariç, gökler ve yer durdukça orada ebedi kalacaklardır. Bu, bitmez tükenmez bir lütuftur. 11:108
+- Zulmedenlere meyletmeyin; sonra ateş size dokunur. Allah'tan başka dostlarınız da olmaz, sonra yardım da görmezsiniz. 11:113
+- Gündüzün iki ucunda ve gecenin erken saatlerinde namazı kıl. İyilikler kötülükleri (küçük günahları) giderir. 11:114
+- Göklerin ve yerin gaybı Allah'a aittir ve bütün işler O'na döndürülür (karar için). 11:123
+- Hüküm yalnız Allah'ındır. O, kendisinden başkasına ibadet etmemenizi emretti. İşte dosdoğru din budur; ancak insanların çoğu bilmez. 12:40
+- Allah'ın rahmetinden asla ümit kesmeyin 12:87
+- Sen ne kadar istekli olsan da, insanların çoğu iman edecek değildir. 12:103
+- Onların çoğu, Allah'a ortak koşmaktan başka bir şekilde O'na iman etmezler (yani müşriktirler). 12:106
+- O (Kur'an), uydurma bir söz değil, kendinden öncekileri (Tevrat, İncil ve diğer kitapları) tasdik eden, her şeyi ayrıntılı olarak açıklayan ve iman eden toplum için bir hidayet ve rahmettir. 12:111
+- Allah, dilediği kimseye rızkı genişletir ve (dilediğine) kısar. 13:26
+- Allah'ı çokça zikredin. Allah'a iman edenler, O'nu anmakla kalpleri huzur bulur. 13:28
+- İman edip salih ameller işleyenlere, mutluluk ve gönül rahatlığı vardır. 13:29
+- Dünya hayatını ahirete tercih edenler, insanları Allah yolundan alıkoyanlar ve o yolda çarpıklık arayanlar, işte onlar derin bir sapıklık içindedirler. 14:3
+- İbadette tevazu ve şükür gösterin 14:7
+- Rablerini inkâr edenlerin hali, fırtınalı bir günde rüzgarın şiddetle savurduğu kül gibidir; kazandıklarından hiçbir şey elde edemezler. 14:18
+- Allah, iman edenleri, dünya hayatında (sadece Allah'a ibadet ederek) ve ahirette sağlam sözle sabit kılar. 14:27
+- Sakın zalimlerin yaptıklarından Allah'ı habersiz sanma. Allah onları, gözlerin dehşetle bakakalacağı bir güne erteliyor. 14:42
+- Allah, herkesi kazandığıyla cezalandırsın diye. Şüphesiz Allah, hesabı çok çabuk görendir. 14:51
+- Andolsun, insanı kuru bir çamurdan, şekillendirilmiş kara bir balçıktan yarattık. 15:26
+- Cinleri ise daha önce, yakıcı ateşten yarattık. 15:27
+- Onun (cehennemin) yedi kapısı vardır; her kapı için bir sınıf (günahkar) ayrılmıştır. 15:44
+- O, insanı bir nutfeden (erkek ve dişi karışımı bir damladan) yarattı; bir de bakarsın ki o, apaçık bir hasım kesilmiştir. 16:4
+- Hayvanları da O yarattı. Onlarda sizin için ısı (sıcak giyecek) ve nice faydalar vardır. Ve onlardan yersiniz. 16:5
+- (O, yine) binmeniz ve süs için atları, katırları ve eşekleri (yarattı). Ve sizin bilmediğiniz daha nice şeyler yaratır. 16:8
+- Gökten suyu indiren O'dur. Ondan içersiniz ve hayvanlarınızı otlattığınız bitkiler onunla yetişir. 16:10
+- Denizi size boyun eğdiren O'dur. Ondan taze et (balık) yersiniz ve giyeceğiniz süs eşyaları çıkarırsınız. 16:14
+- Sizi sarsıntıya uğratmasın diye yeryüzüne sağlam dağlar yerleştirdi, (yolunuzu bulasınız diye) nehirler ve yollar (yarattı). 16:15
+- O halde yaratan, yaratmayan gibi olur mu? Hala düşünmüyor musunuz? 16:17
+- Allah'ın nimetlerini saysanız, onları sayamazsınız. 16:18
+- Allah, gizlediğinizi de açığa vurduğunuzu da bilir. 16:19
+- Allah'tan başka yalvardıkları (müşriklerin taptıkları) hiçbir şey yaratmamıştır, onlar zaten yaratılmışlardır. 16:20
+- (Onlar) ölüdürler, diriler değillerdir ve ne zaman diriltileceklerini de bilmezler. 16:21
+- Bir şeyi dilediğimiz zaman, sözümüz sadece ona "Ol!" dememizdir ve hemen oluverir. 16:40
+- Kötü tuzaklar kuranlar, Allah'ın onları yere batırmayacağından veya kendilerinin farkında olmadıkları bir yerden azabın gelmeyeceğinden emin midirler? 16:45
+- Size verilen her nimet ve iyilik Allah'tandır. Sonra başınıza bir sıkıntı gelince, O'na feryat edersiniz. 16:53
+- Sonra, sıkıntıyı sizden kaldırdığında, içinizden bir grup hemen Rab'lerine ortak koşar. 16:54
+- Hayvanlarda sizin için bir ibret vardır. Onların karınlarındaki şeyden, kan ile fışkı arasından, içenlerin boğazından kayar gibi akan halis bir süt içiririz size. 16:66
+- Öyleyse Allah'a benzerler koşmayın. Şüphesiz Allah bilir, siz bilmezsiniz. 16:74
+- Bilin ki, Allah insana işitme, görme, akıl ve duygular verdi ki şükredici olsunlar 16:78
+- Açgözlülükten ve tamahkarlıktan kaçının 16:97
+- Kur'an okumak istediğin zaman, kovulmuş şeytandan Allah'a sığın. 16:98
+- Bilin ki, cehaletle yapılan bir zulüm, kişi tövbe edip kendini düzeltirse affedilir 16:119
+- (Ey Muhammed ﷺ) Rabbinin yoluna (İslam'a) hikmetle ve güzel öğütle çağır ve onlarla en güzel şekilde mücadele et. İnsanları Allah yoluna çağırmak hikmet ve iyilikle olmalıdır 16:125
+- Allah, kendisinden korkanlar ve iyilik edenlerle beraberdir. 16:128
+- Bu Kur'an, insanları en doğru ve en adil olana yöneltir. 17:9
+- Hiç kimse bir başkasının günah yükünü taşımaz. 17:15
+- Kim ahireti istiyor ve bir mü'min olarak onun için gereken çabayı gösteriyorsa, işte onların çabası makbuldür, şükre layıktır ve (Allah tarafından) mükafatlandırılacaktır. 17:19
+- Anne babana iyi davran ve onlara karşı saygılı ol. Anne babana iyilik et. Onlara "öf" bile deme. Rabbin, yalnızca kendisine ibadet etmenizi ve ana-babanıza iyilik etmenizi emretmiştir. Onlardan biri veya her ikisi senin yanında yaşlanırsa, onlara "öf" deme, onları azarlama; onlara güzel söz söyle. 17:23
+- Onlara karşı merhametten dolayı alçak gönüllülük kanadını indir ve de ki: "Rabbim! Küçüklüğümde beni nasıl yetiştirdilerse, sen de onlara merhamet et." 17:24
+- Şüphesiz ki, savurganlar şeytanların kardeşleridir ve şeytan Rabbine karşı çok nankördür. 17:27
+- Parayı saçıp savurmayın 17:29
+- Fakirlik korkusuyla çocuklarınızı öldürmeyin 17:31
+- Zina etmeyin. Evliliğin kutsallığını koruyun ve zinadan sakının 17:32
+- Ölçtüğünüz zaman tam ölçün ve doğru terazi ile tartın. Bu daha hayırlı ve sonuç bakımından daha güzeldir. 17:35
+- (Ey insan!) Hakkında bilgin olmayan şeyin ardına düşme (yani görmediğin, bilmediğin bir şeyi "gördüm" veya "duydum" deme). 17:36
+- Mütevazi olun ve kibirlenmeyin. Yeryüzünde böbürlenerek yürüme. Şüphesiz sen ne yeri yarabilirsin, ne de dağlara boyca erişebilirsin. 17:37
+- Rabbin seni en iyi bilendir. Dilerse sana merhamet eder, dilerse seni azaba uğratır. 17:54
+- Kim bu dünyada kör olursa (Allah'ın ayetlerini görmez ve O'na inanmazsa), ahirette de kördür ve yol bakımından daha sapıktır. 17:72
+- Namaz vakitlerine riayet edin 17:78
+- Andolsun ki bu Kur'an'da insanlara her türlü misali sayısız şekilde açıkladık. Ne var ki insanların çoğu, inkarcılıkta diretip durmaktadır. 17:89
+- Bu Kur'an'da insanlara her türlü örneği verdik. Ama insan her şeyden çok tartışmacıdır. 18:54
+- İşte onların cezası cehennemdir; çünkü inkâr ettiler ve benim ayetlerimi, peygamberlerimi alaya aldılar. 18:106
+- (Allah'ın şanı) yücedir; O'nun bir oğlu olmaz. (Bu, Hristiyanların "İsa, Allah'ın oğludur" şeklindeki iftiralarına işarettir). Allah onların ortak koştuklarından münezzehtir. 19:35
+- İnsanlara yumuşak söz söyleyin 20:44
+- İyilik yapmakta yarışın 21:90
+- Boş sözlerden kaçının 23:3
+- Mahremiyetinizi koruyun 23:5
+- Kalbinizi günah eğilimlerinden koruyun 23:97
+- Başkalarını affedin ve hatalarını bağışlayın 24:22
+- Başkalarının mahremiyetine, özellikle kendi evlerinde saygı gösterin. Komşunun haklarını gözetin 24:27
+- (Hem erkekler hem kadınlar) gözlerini haramdan sakınsın. Mahremiyetlerini ve iffetlerini koruyun. 24:30
+- Giyim ve davranışta tevazu gösterin 24:31
+- Bilin ki, Allah'a ibadet eden ve iyi davrananlara güvenlik ve huzur verir 24:55
+- Anne babanın özel odasına izinsiz girmeyin 24:58
+- Mütevazi ve alçak gönüllü olun 25:63
+- Yalan yere şahitlikten ve aldatmadan kaçının 25:72
+- Ahiret mükafatı için çalışın ama dünya işlerinizi ihmal etmeyin 28:77
+- Allah ile birlikte başka bir ilaha yalvarmayın 28:88
+- Homoseksüellik yapmayın 29:29
+- Tüm çabalarınızda mükemmellik için gayret edin 29:69
+- Namazı kılın ve zekatı verin 31:4
+- İyiliği emredin, kötülükten sakındırın 31:17
+- Davranışlarınızda kibirden kaçının. Boş sözlerle vakit geçirmeyin 31:18
+- Yürüyüşünüzde ve sesinizin tonunda ölçülü olun 31:19
+- Hz. Muhammed'in örnek davranışlarını takip edin 33:21
+- Kadınlar güzelliklerini ve zinetlerini sergilemesinler 33:33
+- Her koşulda doğruyu söyleyin 33:70
+- Düşünme yoluyla hikmet ve anlayış arayın 38:29
+- Kur'an'ın emirlerine uyun 39:23
+- Allah günahkar tövbe edip O'na yöneldiğinde tüm günahları bağışlar 39:53
+- Allah'a samimi dua edin 40:60
+- Kötülüğü en güzel şekilde savun 41:34
+- İşleri danışma ile kararlaştırın 42:38
+- Sesinizi Peygamber'in sesinin üzerine çıkarmayın 49:2
+- Sır saklayın ve ihanetten kaçının 49:6
+- Anlaşmazlık içinde olanlar arasını düzeltin. Çatışmalarda uzlaşma arayın 49:9
+- Başkalarıyla alay etmeyin 49:11
+- Şüpheden kaçının. Casusluktan ve gıybetten kaçının. Başkalarını çekiştirmeyin ve karalamayın. Her türlü dedikodu ve iftiradan uzak durun. Gururun sizi zulme sürüklemesine izin vermeyin 49:12
+- Bilin ki, insanı asil yapan sadece takvadır. İnsanlar ve kültürler arasındaki farklılıklara saygı gösterin 49:13
+- Misafire ikram edin 51:26
+- Allah'a karşı sorumluluklarınızın bilincinde olun 51:56
+- Malınızı hayırda harcayın 57:7
+- Bilin ki, dinde rahiplik (evliliği ve konforu terk etmek; rahipler, rahibeler veya dini yeminler altında yaşayanlar veya yaşadıkları binalar) yoktur 57:27
+- Zenginlik sizi Allah'ı anmaktan alıkoymasın 58:11
+- İlim sahiplerine Allah yüce bir mertebe verir 58:11
+- Müslüman olmayanlara iyilik ve adaletle davranın 60:8
+- İnanç ve eylemlerinizde ikiyüzlülükten kaçının 63:9
+- Açgözlülük ve cimrilikten uzak durun 64:16
+- Size emanet edilen vahiyleri koruyun 73:15
+- Kıyamet gününün bilincinde olun 75:36
+- Sabrı ve merhameti emredin 90:17
+- Nefsini arındıran kurtuluşa ermiştir, onu kötülüklere gömen ziyan etmiştir 91:10
+- Muhtacı itip kakmayın veya geri çevirmeyin 93:10
+- Bilgi ve anlayış arayın. Kur'an'ı okuyun ve üzerinde düşünün 96:1–5
+- Yoksulları doyurmayı teşvik edin 107:3
 """;

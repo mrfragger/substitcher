@@ -3315,4 +3315,247 @@ Matching Phrases 8 words
 - Allah utsträcker försörjningen för vem Han vill av Sina tjänare och begränsar den. (اللَّهَ يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ) 28:82; 29:62
 - Ni skall återvända till Kunskaparen om det fördolda och det synliga, och Han skall underrätta er om vad ni brukade... (وَسَتُرَدُّونَ إِلَى عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ) 9:105; 62:8
 - Och de som är släkt har företräde framför varandra i Allahs skrift. (وَأُولُو الْأَرْحَامِ بَعْضُهُمْ أَوْلَى بِبَعْضٍ فِي كِتَابِ اللَّهِ) 8:75; 33:6
+cmds - Commands, Exhortations, Prohibitions, Instructions
+- fard / wajib (فرض / واجب) — obligatorisk (måste göras; synd att utelämna)
+- mustahabb / mandub (مستحب / مندوب) — rekommenderad (belöning om den görs, inte synd att utelämna)
+- mubah (مباح) — neutral / tillåten (varken belöning eller synd)
+- makruh (مكروه) — ogillad (avråds från, men inte synd att göra)
+- haram (حرام) — förbjuden (synd att göra)
+- halal (حلال, tillåten / laglig) — omfattar både mubah och mustahabb — allt som inte är förbjudet
+- Tillbe endast Allah och sök Hans hjälp. 1:5
+- Tillbe endast Allah 2:21
+- Sätt inga medhjälpare vid Allahs sida 2:22
+- Allah är Den som förlåter (tar emot ånger), Han tog emot Adams (عَلَيْهِ ٱلسَّلَامُ) ånger. 2:37
+- Blanda inte sanningen med lögn, och dölj inte sanningen. 2:42
+- Förrätta bönen (de dagliga bönerna) och ge allmosor (zakat). 2:43
+- Påbjud vad som är rätt och förbjud vad som är orätt. Uppmuntra rättfärdighet i er gemenskap. Kalla andra till att minnas Allah 3:104
+- Förtrösta på Allah, de troende skall förtrösta. 3:122
+- Ät inte ocker (riba). 3:130
+- Lyd Allah och Hans Sändebud för att få barmhärtighet. 3:132
+- Allah älskar dem som spenderar (på Allahs väg – välgörenhet, allmosor, etc.) i medgång och motgång, som behärskar sin ilska och som förlåter människor. 3:134
+- Behärska er ilska. 3:134
+- Förlåt och förlåt andras misstag 3:135
+- Var inte grova i talet. Var tålmodiga med dem som inte håller med er 3:159
+- Om Allah hjälper er, kan ingen övervinna er; och om Han överger er, vem är det då som efter Honom kan hjälpa er? 3:160
+- Var och en skall smaka döden. Och endast på uppståndelsens dag kommer ni att få er fulla lön. 3:185
+- Tänk djupt på naturens under och skapandet av detta universum. Vet att Gud skapade universum med mening och syfte 3:191
+- Män och kvinnor har samma belöning för sina handlingar 3:195
+- För dem som fruktar sin Herre finns trädgårdar under vilka floder flyter (i Paradiset); där skall de bo evigt, som en gästfrihet från Allah. 3:198
+- Sträva alltid efter Allahs välbehag i varje handling. 3:200
+- Var trogna er Herre, frukta Honom och (bryt inte) banden till era släktingar. 4:1
+- Ge de föräldralösa deras egendom och byt inte ut (era) dåliga saker mot (deras) goda; och förtär inte deras egendom (genom att lägga den) till er egen. 4:2
+- Ge kvinnorna (ni gifter er med) deras mahr (den obligatoriska brudgåvan som mannen ger hustrun vid äktenskapet) med gott hjärta. 4:4
+- Skydda de föräldralösas rättigheter 4:6
+- Den avlidnes egendom skall fördelas mellan hans familjemedlemmar. Kvinnor har rätt till arv 4:7
+- Förtär inte de föräldralösas egendom orättvist 4:10
+- Lyd anvisningarna om arv 4:11
+- Det är förbjudet att ärva kvinnor mot deras vilja, och ni skall inte behandla dem hårt. Lev med dem (hustrurna) hedervärt. Respektera och iaktta kvinnors rättigheter. Behandla din make/maka med vänlighet och medkänsla. Behandla kvinnor med heder och rättvisa 4:19
+- Gift er inte med dem som är blodsbesläktade med er 4:23
+- Döda inte er själva (eller varandra). Allah är barmhärtig mot er. Förtär inte varandras egendom orättvist 4:29
+- Om ni undviker de stora synderna som är förbjudna, kommer Allah att förlåta era (mindre) synder och låta er inträda i en ädel ingång (dvs. Paradiset). 4:31
+- Åtrå inte det i vilket Allah har gett några av er företräde framför andra. Undvik avund och svartsjuka 4:32
+- Män är kvinnornas beskyddare och försörjare, eftersom Allah har gett den ena företräde framför den andra och eftersom de spenderar av sin egendom (för att försörja dem). Mannen är familjens beskyddare och försörjare 4:34
+- Tillbe Allah och sätt ingenting vid Hans sida i tillbedjan, var goda mot föräldrar, släktingar, föräldralösa, de fattiga, grannen, kamraten vid er sida, vägfaranden (ni möter) och dem (slavar) som era högra händer äger. Allah älskar inte de som är högmodiga och skrytsamma. Var goda mot andra. Visa barmhärtighet mot de svaga. Upprätthåll familjeband och hedra släktingar. 4:36
+- Var inte snåla 4:37
+- Allah förlåter inte att medhjälpare sätts vid Hans sida i tillbedjan, men Han förlåter utöver det (allt annat) till vem Han vill. 4:48
+- Avundas inte andra 4:54
+- Allah befaller er att återlämna anförtrodda gods till deras ägare. När ni dömer mellan människor, döm med rättvisa. 4:58
+- Lyd Allah och Hans Sändebud. Visa vederbörlig respekt för dem som har auktoritet bland er 4:59
+- Förtryck inte de svaga eller utsatta 4:75
+- Allt gott som når er är från Allah, men allt ont som drabbar er är från er själva. 4:79
+- Den som lyder Sändebudet (Muhammad ﷺ) har verkligen lytt Allah. 4:80
+- Den som lägger ett gott ord för en god sak får del av dess belöning, och den som lägger ett ord för en ond sak får del av dess börda. 4:85
+- Det är inte för en troende att döda en annan troende, utom av misstag. 4:92
+- Den som med avsikt dödar en troende, hans vedergällning är helvetet, där han skall förbli för evigt. Allahs vrede och förbannelse är över honom, och ett stort straff är berett för honom. 4:93
+- Den som emigrerar (från sitt hem) på Allahs väg skall finna på jorden många tillflyktsorter och överflöd. 4:100
+- Var punktliga i era böner 4:103
+- Stöd inte eller var förespråkare för dem som förråder sina anförtrodda uppdrag 4:105
+- Be om Allahs förlåtelse; Allah är förlåtande, barmhärtig. 4:106
+- Troende! Stå fast för rättvisan, som vittnen för Allah, även om det är mot er själva, eller era föräldrar, eller era släktingar, vare sig han är rik eller fattig. Fördröja inte rättvisan; handla skyndsamt för att rätta till orättvisor 4:135
+- Hycklarna försöker bedra Allah, men det är Han som bedrar dem. 4:142
+- Hycklarna kommer att vara i den lägsta (graden) av Elden; ni skall inte finna någon hjälpare för dem. 4:145
+- Allah tycker inte om att det onda uttalas offentligt, utom av dem som blivit orättvist behandlade. 4:148
+- Sändebud som glädjebudbärare och varnare, så att människor inte skall ha någon ursäkt inför Allah efter (sändebudens ankomst). 4:165
+- Fullgör era kontrakt och löften 5:1
+- Hjälp varandra i det goda och gudsfruktan, inte i synd och fiendskap 5:2
+- Ät inte döda djur, djurs blod eller fläskkött 5:3
+- Var rättvisa; låt inte andras fiendskap och hat få er att avstå från rättvisa. Var rättvisa och rättfärdiga i era affärer. Vet att rättvisa är nära gudsfruktan. Fördröj inte rättvisan; handla skyndsamt för att rätta till orättvisor 5:8
+- Sök medlen för att närma er Allah och kämpa på Hans väg så mycket ni kan, så att ni må lyckas. 5:35
+- Fullgör era eder och förbund 5:89
+- Undvik berusande drycker och alkohol. Undvik strängt berusande drycker (alla slags alkoholhaltiga drycker), hasardspel, avgudabilder och spjut för att söka lycka eller beslut, som alla är en styggelse av Satans verk. 5:90
+- Döda inte vilt när ni befinner er i ihram för hadj eller umrah. 5:95
+- Fråga inte om ting som, om de gjordes klara för er, skulle kunna orsaka er problem. 5:101
+- Håna inte andras gudar. Håna inte dem som de (de otrogna) tillber vid sidan av Allah, så att de inte hånar Allah i okunnighet. 6:108
+- Om ni lyder de flesta på jorden, kommer de att vilseleda er från Allahs väg. De följer endast gissningar och de ljuger. 6:116
+- Överge (människor!) alla slags synder, uppenbara och dolda. 6:120
+- Ät inte (troende!) av det (kött) över vilket Allahs namn inte har nämnts (vid slakten). 6:121
+- Den som Allah vill vägleda, öppnar Han hans bröst för islam, och den som Han vill vilseleda, gör Han hans bröst trångt och sammanpressat. 6:125
+- Var måttfulla i utgifterna och undvik extravagans. Bevara alla varelsers rättigheter 6:141
+- Sätt ingenting vid Allahs sida i tillbedjan, var goda mot föräldrar, döda inte era barn av rädsla för fattigdom, kom inte nära skamliga handlingar, döda inte någon som Allah har förbjudit, utom med rätta. 6:151
+- Var ärliga; fuska inte i några av era affärer. Kom inte nära den föräldralöses egendom, utom för att förbättra den, ge fullt mått och vikt med rättvisa, när ni talar, säg sanningen, även om det gäller en nära släkting, och fullgör Allahs förbund. 6:152
+- Följ den raka vägen och följ inte (andra) vägar, ty de kommer att skilja er från Hans väg. 6:153
+- Säg (Muhammad ﷺ): "Min bön, mitt offer, mitt liv och min död är för Allah, världarnas Herre." 6:162
+- Var inte arroganta 7:13
+- Låt inte Satan bedra er. 7:27
+- Säg (Muhammad ﷺ): "Min Herre har befallt rättvisa..." 7:29
+- Följ gränserna som Allah har satt i alla frågor. Undvik överträdelser i tal och handling. Ät och drick men var inte överdrivna. Bär goda kläder under bönen 7:31
+- Allah skapade himlarna och jorden på sex dagar, och sedan upprättade Han Sig på tronen (på ett sätt som passar Hans Majestät). 7:54
+- Anropa er Herre med ödmjukhet och i hemlighet. Han tycker inte om överträdarna. 7:55
+- Ställ inte till oreda på jorden efter att den har satts i ordning, och anropa Honom med fruktan och hopp. 7:56
+- Men de som begick onda handlingar och sedan ångrade sig och trodde, din Herre är efter det förlåtande, barmhärtig. 7:153
+- Säg (Muhammad ﷺ): "Människor! Jag är Allahs sändebud till er alla..." 7:158
+- Och de allra vackraste namnen tillhör Allah, så anropa Honom med dem och lämna dem som förvränger eller förnekar Hans namn... 7:180
+- Den som Allah vilseleder, ingen kan vägleda honom; och Han låter dem vandra i blindo i sin överträdelse. 7:186
+- Visa överseende, påbjud vad som är gott och vänd dig bort från de okunniga (dvs. straffa dem inte). 7:199
+- Förlåt andra för deras misstag 7:199
+- Och om en ond ingivelse från Satan kommer till dig, sök tillflykt hos Allah. Han är den Hörande, den Allvetande. 7:200
+- De troende är bara de som, när Allah nämns, känner fruktan i sina hjärtan och när Hans verser reciteras för dem, ökar deras tro... 8:2
+- Förråd inte Allah och Hans Sändebud, och förråd inte medvetet era anförtrodda ting (de saker som anförtrotts er och alla plikter som Allah har ålagt er). 8:27
+- Om ni lyder Allah och fruktar Honom, kommer Han att ge er Furqan (en urskiljningsförmåga att skilja mellan rätt och orätt). 8:29
+- De som inte tror spenderar sin egendom för att avhålla (människor) från Allahs väg, och de kommer att fortsätta att spendera den; men i slutändan kommer det att bli en sorg för dem. 8:36
+- Säg till dem som har förnekat, om de upphör (med förnekelsen), kommer deras förflutna att förlåtas. Men om de återvänder (till det), så har föregångarnas exempel redan givits (som varning). 8:38
+- När ni möter (en fiendestyrka), stå fasta och minns mycket Allahs namn (både med tunga och sinne), så att ni må lyckas. 8:45
+- Var inte som de som lämnar sina hem med högfärd och för att visas upp för människor och avhåller (människor) från Allahs väg. 8:47
+- Allah kommer inte att ändra en nåd som Han har gett ett folk förrän de ändrar det som finns i deras egna själar. 8:53
+- De sämsta varelserna inför Allah är de som inte tror. 8:55
+- Gud sätter kärlek och tillgivenhet mellan hjärtan hos dem som tror på Honom 8:63
+- Skydda och hjälp dem som söker skydd 9:6
+- Det är inte för avgudadyrkare att underhålla Allahs moskéer. 9:17
+- De (de otrogna, judarna och de kristna) vill släcka Allahs ljus (med vilket Muhammad ﷺ sändes – islamisk monoteism) med sina munnar, men Allah kommer inte att tillåta annat än att Hans ljus fulländas, även om de otrogna hatar det. 9:32
+- Zakat (allmosor) är endast för: 1) de fattiga, 2) de behövande, 3) dem som är anställda för att samla in den, 4) för att vinna hjärtan hos dem som lutar åt islam, 5) för att befria fångar, 6) för dem som är skuldsatta, 7) för Allahs sak (dvs. för mujahidun) och 8) för den resande. 9:60
+- Den som motsätter sig och visar fientlighet mot Allah och Hans Sändebud (ﷺ), för honom är säkert helvetets eld, där han kommer att förbli för evigt. Detta är ett stort nederlag. 9:63
+- Hycklarna, män och kvinnor, är som varandra. De har glömt Allah, så Han har glömt dem. 9:67
+- Sträva efter renhet. Respektera moskéns helighet 9:108
+- Det är inte (passande) för Profeten och de troende att be Allah om förlåtelse för avgudadyrkare, även om de är släktingar, efter att det har blivit klart för dem att de är eldens invånare (eftersom de dog i ett tillstånd av otro). 9:113
+- Vem är mer orättfärdig än den som hittar på en lögn om Allah eller förnekar Hans verser? Förvisso kommer syndarna aldrig att lyckas! 10:17
+- De tillber vid sidan av Allah det som varken skadar eller gagnar dem, och de säger: "Dessa är våra förespråkare inför Allah." Säg: "Skulle ni informera Allah om vad Han inte vet i himlarna och på jorden?" Prisad och upphöjd är Han över vad de sätter vid Hans sida! 10:18
+- Vedergällningen för en ond gärning är en liknande. 10:27
+- Sådan är Allah, er sanne Herre. Vad finns efter sanningen, om inte villfarelse? Hur kan ni vändas bort? 10:32
+- De flesta av dem följer endast gissningar. Gissningar kan inte ersätta sanningen. 10:36
+- Allah gör ingen orätt mot människorna; men människorna gör orätt mot sig själva. 10:44
+- Vet att Guds gåva är bättre än allt som människan kan samla eller skaffa 10:58
+- Var inte en av dem som förnekar Allahs verser, ty då kommer du att vara bland förlorarna. 10:95
+- Om Allah drabbar dig med skada, finns det ingen som kan avlägsna den utom Han; och om Han vill dig gott, kan ingen avvisa Hans nåd, som Han låter nå den Han vill av Sina tjänare. 10:107
+- Det finns ingen levande varelse på jorden vars försörjning inte är av Allah. Han vet dess viloplats och dess förvaringsplats (i livmodern, graven, etc.). 11:6
+- Om Vi låter människan smaka barmhärtighet från Oss och sedan tar bort den från henne, blir hon förtvivlad och otacksam. 11:9
+- Den som önskar detta liv och dess prakt, Vi skall ge dem full betalning för deras gärningar i det, och de skall inte förloras. 11:15
+- Vi gjorde dem inte orätt, utan de gjorde sig själva orätt. Så deras gudar, som de åkallade vid sidan av Allah, gagnade dem ingenting när din Herres befallning kom, och de ökade dem ingenting utom undergång. 11:101
+- Den dag det kommer, skall ingen tala utom med Hans tillstånd. Några av dem kommer att vara olyckliga och (andra) saliga. 11:105
+- De som är olyckliga kommer att vara i Elden, med suckan och jämmer. 11:106
+- De skall förbli där så länge himlarna och jorden består, utom som din Herre vill. Din Herre gör vad Han vill. 11:107
+- Och de som är saliga kommer att vara i Paradiset, förbli där så länge himlarna och jorden består, utom som din Herre vill, som en gåva utan ände. 11:108
+- Luta er inte mot dem som gör orätt, så att Elden vidrör er, och ni inte har några beskyddare utöver Allah, och ni inte blir hjälpta. 11:113
+- Förrätta bönen i dagens två ändar och under några timmar av natten (dvs. de fem dagliga bönerna). Goda gärningar avlägsnar onda gärningar (små synder). 11:114
+- Allahs är det osynliga i himlarna och på jorden, och till Honom återvänder alla ting (för avgörande). 11:123
+- Domen tillhör endast Allah. Han har befallt att ni inte skall tillbe någon utom Honom (Hans monoteism), det är den sanna religionen, men de flesta människor vet inte. 12:40
+- Ge aldrig upp hoppet om Allahs barmhärtighet 12:87
+- Och de flesta människor kommer inte att tro, även om ni ivrigt önskar det. 12:103
+- Och de flesta av dem tror inte på Allah utan att sätta medhjälpare vid Hans sida (de är avgudadyrkare). 12:106
+- Det (Koranen) är inte ett påhittat påstående utan en bekräftelse av Allahs tidigare böcker (Tora, Evangeliet och andra skrifter) och en detaljerad förklaring av allt, och en vägledning och barmhärtighet för de troende. 12:111
+- Allah ökar försörjningen för den Han vill och minskar (den för den Han vill). 13:26
+- Minns Allah ofta genom dhikr. De som tror på Gud finner tillfredsställelse i att minnas Honom. 13:28
+- De som tror och gör goda gärningar får glädje och sinnesfrid. 13:29
+- De som föredrar detta liv framför det kommande livet, och avhåller (människor) från Allahs väg (islam) och söker krokvägar i den – de är långt vilsegångna. 14:3
+- Utöva ödmjukhet och tacksamhet i tillbedjan 14:7
+- Liknelsen för dem som inte tror på sin Herre är att deras gärningar är som aska, över vilken vinden blåser häftigt på en stormig dag; de kommer inte att kunna få något av vad de har förtjänat. 14:18
+- Allah kommer att befästa dem som tror med det fasta ordet i detta liv (dvs. de kommer att fortsätta att tillbe Allah ensam) och i nästa liv. 14:27
+- Tro inte att Allah är omedveten om vad de orättfärdiga gör, utan Han ger dem anstånd fram till en dag då ögonen kommer att stirra av fasa. 14:42
+- För att Allah skall belöna varje själ efter vad den har förtjänat. Allah är snar i räkenskapen. 14:51
+- Vi skapade människan av lera, av omvandlad svart lera. 15:26
+- Och jinnerna skapade Vi tidigare av rökfritt eldslåga. 15:27
+- Den (Helvetet) har sju portar; för varje port finns en (särskild) klass av syndare tilldelad. 15:44
+- Han har skapat människan av en sädesdroppe, och sedan blir hon en öppen motståndare. 16:4
+- Och boskapen, Han skapade den för er; i den finns värme (varma kläder) och många nyttigheter, och av den äter ni. 16:5
+- Och (Han skapade) hästar, mulor och åsnor för att ni skall rida på dem och som prydnad. Och Han skapar andra saker som ni inte vet. 16:8
+- Han är det som sänder ner vatten från himlen; därav dricker ni och därav växer växtlighet som ni betar era boskap på. 16:10
+- Han är det som har gjort havet underkuvat (åt er), så att ni kan äta färskt kött (fisk) och ta ut prydnader därifrån som ni bär. 16:14
+- Han har fäst berg på jorden så att den inte skall skaka med er, och floder och vägar, så att ni kan finna vägen. 16:15
+- Är då Den som skapar lik Den som inte skapar? Skall ni inte besinna? 16:17
+- Om ni räknade Allahs välsignelser, skulle ni aldrig kunna räkna dem. 16:18
+- Allah vet vad ni döljer och vad ni uppenbarar. 16:19
+- De som de (avgudadyrkarna) åkallar vid sidan av Allah har inte skapat något, utan de själva är skapade. 16:20
+- (De är) döda, livlösa, och de vet inte när de skall väckas upp. 16:21
+- Vårt ord till en sak när Vi vill den, är att Vi säger till den: "Bli!" och den blir. 16:40
+- Känner de som smider onda ränker sig trygga i att Allah inte kommer att låta jorden svälja dem, eller att straffet inte kommer att drabba dem från håll de inte förväntar sig? 16:45
+- Alla välsignelser och goda ting ni har kommer från Allah. Och när skada drabbar er, åkallar ni Honom om hjälp. 16:53
+- Sedan, när Han har avlägsnat skadan från er, se, då sätter några av er medhjälpare vid sin Herres sida. 16:54
+- I boskapen finns en läxa för er. Vi ger er att dricka av det som finns i deras bukar, mellan träck och blod, ren mjölk, behaglig för dem som dricker. 16:66
+- Sätt inte liknelser vid Allah (eftersom ingenting är likt Honom, inte heller liknar Han något). Allah vet och ni vet inte. 16:74
+- Vet att Gud gav människan hörsel, syn, intelligens och känslor så att de må vara tacksamma 16:78
+- Undvik girighet och begär 16:97
+- När ni vill recitera Koranen, sök skydd hos Allah från Satan, den förkastade. 16:98
+- Vet att en orätt som begåtts i okunnighet förlåts om personen ångrar sig och rättar sig 16:119
+- Kalla (Muhammad ﷺ) till din Herres väg (islam) med visdom och god predikan, och argumentera med dem på bästa sätt. Att kalla andra till Guds väg bör göras med visdom och vänlighet 16:125
+- Allah är med dem som fruktar Honom (gör sin plikt mot Honom) och med dem som gör gott. 16:128
+- Denna Koran leder till det som är mest rättvist och riktigt. 17:9
+- Ingen bär en annans börda (synder). 17:15
+- Den som önskar det kommande livet och strävar för det, med den strävan som krävs, medan han är troende, sådana är de vars strävan kommer att uppskattas, tackas och belönas (av Allah). 17:19
+- Hedra era föräldrar och behandla dem med vänlighet. Var goda mot föräldrar. Säg inte ett ohövligt ord till dem. Er Herre har befallt att ni endast skall tillbe Honom. Och att ni skall vara goda mot era föräldrar. Om en av dem eller båda når hög ålder i er närvaro, säg inte till dem ens "Usch" och tala inte hårt till dem, utan tala till dem med vördnad. 17:23
+- Och sänk ödmjukhetens vinge för dem av barmhärtighet och säg: "Herre! Förbarma Dig över dem, som de uppfostrade mig när jag var liten." 17:24
+- Slösare är Satans bröder, och Satan är otacksam mot sin Herre. 17:27
+- Slösa inte pengar 17:29
+- Döda inte era barn av rädsla för fattigdom 17:31
+- Begå inte äktenskapsbrott. Bevara äktenskapets helgd och undvik äktenskapsbrott 17:32
+- Ge fullt mått när ni mäter, och väg med en rättvis våg. Det är bättre och bäst i slutändan. 17:35
+- Följ inte (människa, dvs. säg, gör eller vittna inte om) det du inte har kunskap om (t.ex. någon som säger: "Jag har sett", fastän han inte har sett, eller "Jag har hört", fastän han inte har hört). 17:36
+- Var ödmjuk och var inte arrogant. Gå inte på jorden med högmod. Du kan varken spräcka jorden eller nå bergens höjd. 17:37
+- Er Herre känner er bäst; om Han vill, förbarmar Han sig över er, eller om Han vill, straffar Han er. 17:54
+- Den som är blind i denna värld (dvs. inte ser Allahs tecken och inte tror på Honom) kommer att vara blind i nästa liv och ännu mer vilsegången från vägen. 17:72
+- Iaktta de föreskrivna tiderna för bön 17:78
+- Vi har förklarat för människorna i denna Koran alla slags liknelser, men de flesta människor vägrar (sanningen och accepterar ingenting) utom otro. 17:89
+- Vi har gett alla slags exempel i denna Koran för människorna. Men människan är mer argumenterande än något annat. 18:54
+- Detta är deras vedergällning, Helvetet; eftersom de förnekade och tog Mina verser och Mina sändebud till gyckel och löje. 18:106
+- Det anstår inte Allah (Hans Majestät) att skaffa sig en son (detta syftar på de kristnas förtal mot Allah, genom att säga att Jesus är Guds son). Prisad och upphöjd är Han över vad de sätter vid Hans sida. 19:35
+- Tala till människor med mildhet 20:44
+- Tävla med varandra i att göra gott 21:90
+- Undvik fåfängt tal 23:3
+- Bevara er blygsamhet 23:5
+- Bevara era hjärtan från syndiga böjelser 23:97
+- Förlåt andra och förlåt deras fel 24:22
+- Respektera andras integritet, särskilt i deras egna hem. Fullgör grannarnas rättigheter 24:27
+- Sänk blicken (både män och kvinnor). Bevara er blygsamhet och kyskhet. 24:30
+- Iaktta blygsamhet i klädsel och uppträdande 24:31
+- Vet att Gud ger trygghet och frid åt dem som tillber Honom och lever rättfärdigt 24:55
+- Gå inte in i föräldrarnas privata rum utan tillstånd 24:58
+- Var ödmjuka och anspråkslösa 25:63
+- Undvik falskt vittnesbörd och bedrägeri 25:72
+- Sträva efter belöning i nästa liv men försumma inte era världsliga angelägenheter 28:77
+- Åkalla inte någon annan gud vid sidan av Gud 28:88
+- Ägna er inte åt homosexualitet 29:29
+- Sträva efter förträfflighet i alla era strävanden 29:69
+- Förrätta bönen och ge allmosor 31:4
+- Påbjud det goda och förbjud det onda 31:17
+- Undvik arrogans i ert beteende. Avhåll er från att fördriva tiden med fåfängt tal 31:18
+- Var måttfulla i er gång och i styrkan på er röst 31:19
+- Följ profeten Muhammads exempel 33:21
+- Kvinnor bör inte visa eller framhäva sin skönhet och sina smycken 33:33
+- Tala sanning under alla omständigheter 33:70
+- Sök visdom och förståelse genom eftertanke 38:29
+- Lyd Koranens påbud 39:23
+- Gud förlåter alla synder när syndaren ångrar sig och vänder sig till Honom 39:53
+- Gör uppriktig duʿā (åkallan) till Allah 40:60
+- Avvärj det onda med något bättre 41:34
+- Avgör angelägenheter genom samråd 42:38
+- Höj inte er röst över Profetens röst 49:2
+- Bevara hemligheter och undvik förräderi 49:6
+- Stifta fred mellan dem som är i konflikt. Sök försoning i konflikter 49:9
+- Håna inte andra 49:11
+- Undvik misstänksamhet. Undvik att spionera och förtala. Förtala eller förolämpa inte andra. Avstå från alla former av skvaller och förtal. Låt inte högmod leda er till orättvisa 49:12
+- Vet att det bara är rättfärdighet som gör en människa ädel. Respektera skillnaderna mellan människor och kulturer 49:13
+- Hedra gäster 51:26
+- Var medvetna om era plikter gentemot Allah 51:56
+- Spendera egendom på välgörenhet 57:7
+- Vet att det inte finns något munkväsende (avstående från äktenskap och bekvämligheter, som hos munkar, nunnor eller andra som lever under religiösa löften, eller byggnaderna där de bor) i religionen 57:27
+- Låt inte rikedomar distrahera er från Allahs åminnelse 58:11
+- De som har kunskap kommer att få en högre rang av Allah 58:11
+- Behandla icke-muslimer med vänlighet och rättvisa 60:8
+- Undvik hyckleri i era övertygelser och handlingar 63:9
+- Håll er borta från girighet och snålhet 64:16
+- Bevara uppenbarelserna som anförtrotts er 73:15
+- Var medvetna om Domens dag 75:36
+- Påbjud tålamod och medkänsla 90:17
+- De som renar sina själar lyckas, och de som fördärvar dem misslyckas 91:10
+- Ignorera eller stötta inte bort den behövande 93:10
+- Sök kunskap och förståelse. Läs och reflektera över Koranen 96:1–5
+- Uppmuntra att föda de fattiga 107:3
 """;
