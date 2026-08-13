@@ -1007,7 +1007,15 @@ class SidePanel extends StatelessWidget {
         DateTime(lastPlayed.year, lastPlayed.month, lastPlayed.day);
     final days = today.difference(playedDay).inDays;
 
-    if (days <= 0) return 'today';
+    if (days <= 0) {
+      final totalMinutes = now.difference(lastPlayed).inMinutes;
+      final hours = totalMinutes ~/ 60;
+      final minutes = totalMinutes % 60;
+      if (hours > 0) {
+        return '-${hours}h${minutes}m';
+      }
+      return '-${minutes}m';
+    }
     if (days == 1) return 'yesterday';
     return '-${days}d';
   }
