@@ -68,14 +68,14 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 ├── ligaturesVarious
 │   ├── Diglet Sunsin.otf
 │   ├── Rocket Raccoon free.otf
-│   └── Souther Daleska demo version.ttf
+│   └── Souther Daleska demo version.otf
 ├── ligaturesVarious123
-│   ├── Carevo.otf
+│   ├── Carevo.ttf
 │   ├── Chocolate Chips.otf
 │   ├── Pricedown Black.otf
 │   ├── Shoese Flower.ttf
 │   ├── Sophia Melanie.otf
-│   ├── Sparkster One.otf
+│   ├── Sparkster One.ttf
 │   └── Zentaro.ttf
 ├── missingligatures177
 │   ├── Abstract Settings demo.otf
