@@ -66,13 +66,15 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 │   ├── Salvador Abstract demo.otf
 │   └── Traditional Civilization demo.otf
 ├── ligaturesVarious
-│   ├── Chocolate Chips.otf
 │   ├── Diglet Sunsin.otf
-│   ├── Pricedown Black.otf
 │   ├── Rocket Raccoon free.otf
+│   └── Souther Daleska demo version.ttf
+├── ligaturesVarious123
+│   ├── Carevo.otf
+│   ├── Chocolate Chips.otf
+│   ├── Pricedown Black.otf
 │   ├── Shoese Flower.ttf
 │   ├── Sophia Melanie.otf
-│   ├── Souther Daleska demo version.otf
 │   ├── Sparkster One.otf
 │   └── Zentaro.ttf
 ├── missingligatures177
