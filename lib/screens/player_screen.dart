@@ -7578,7 +7578,9 @@ class _PlayerScreenState extends State<PlayerScreen>
         } else if (!fromCycle &&
             metadata != null &&
             metadata.isDemo() &&
-            metadata.hasLigatures()) {
+            metadata.hasLigatures() &&
+            (metadata.studio == FontCategory.studio177 ||
+                metadata.studio == FontCategory.various)) {
           setState(() => _conversionType = 'demo');
           await _applyConversion();
         } else if (!fromCycle) {
