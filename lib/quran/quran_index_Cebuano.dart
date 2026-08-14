@@ -2069,7 +2069,7 @@ Mga Pangamuyo (du'a)
 - ang mga matarong 2:285-286; 3:8-9; 3:16; 3:147; 3:191-194; 25:74; 59:10
 - ang gidaugdaug 4:75
 Mga bersikulo sa paghapa
-- sajadat, plural sa sajdah, 7:206; 13:15; 16:49; 17:109; 19:58; 22:18; 22:77; 25:60; 27:26; 32:15; 38:24; 41:37; 53:62; 84:21; 96:19
+- sajadat, plural sa sajdah, 7:206; 13:15; 16:49; 17:109; 19:58; 22:18; 22:77; 25:60; 27:26; 32:15; 38:24; 41:37-38; 53:62; 84:21; 96:19
 Buhis sa limos (zakah), isip usa ka obligasyon 2:110; 2:177; 2:277; 6:141
 - usa sa mga hiyas sa mga magtutuo 22:41; 23:4; 51:19
 - mga nakadawat 9:60

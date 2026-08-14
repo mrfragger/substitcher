@@ -2068,7 +2068,7 @@ Mga pagsamo (du'a)
 - ang matuwid 2:285-286; 3:8-9; 3:16; 3:147; 3:191-194; 25:74; 59:10
 - ang mga inaapi 4:75
 Mga talata ng pagpapatirapa
-- sajadat, pangmaramihan ng sajdah, 7:206; 13:15; 16:49; 17:109; 19:58; 22:18; 22:77; 25:60; 27:26; 32:15; 38:24; 41:37; 53:62; 84:21; 96:19
+- sajadat, pangmaramihan ng sajdah, 7:206; 13:15; 16:49; 17:109; 19:58; 22:18; 22:77; 25:60; 27:26; 32:15; 38:24; 41:37-38; 53:62; 84:21; 96:19
 Buwis ng kawanggawa (zakah), bilang isang obligasyon 2:110; 2:177; 2:277; 6:141
 - isa sa mga katangian ng mga mananampalataya 22:41; 23:4; 51:19
 - mga tatanggap 9:60

@@ -2069,7 +2069,7 @@ Rukoukset (du'a)
 - vanhurskaat 2:285-286; 3:8-9; 3:16; 3:147; 3:191-194; 25:74; 59:10
 - sorretut 4:75
 Kumarrusrunot
-- sajadat, monikko sanasta sajdah, 7:206; 13:15; 16:49; 17:109; 19:58; 22:18; 22:77; 25:60; 27:26; 32:15; 38:24; 41:37; 53:62; 84:21; 96:19
+- sajadat, monikko sanasta sajdah, 7:206; 13:15; 16:49; 17:109; 19:58; 22:18; 22:77; 25:60; 27:26; 32:15; 38:24; 41:37-38; 53:62; 84:21; 96:19
 Almuvero (zakah) velvoitteena 2:110; 2:177; 2:277; 6:141
 - yksi uskovien ominaisuuksista 22:41; 23:4; 51:19
 - vastaanottajat 9:60

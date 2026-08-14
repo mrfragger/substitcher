@@ -2,10 +2,10 @@ const String quranIndexLingalaRaw = r"""
 Manzil Mabondeli 1:1-7; 2:1-5, 163, 255-257, 284-286; 3:18, 26-27; 7:54-56, 117-122; 17:110-111; 23:115-118; 37:1-11; 55:33-40; 59:21-24; 72:1-4; 109:1-6; 112:1-4; 113:1-5; 114:1-6
 Nkolo na biso Mabondeli 2:127-128, 201, 250, 286; 3:8-9, 16, 53, 147, 191-194; 5:83, 114; 7:23, 47, 89, 126, 155; 10:85-88; 11:47; 12:101; 14:38-41; 17:80; 18:10; 20:114; 23:109, 118; 25:65-66, 74; 28:24; 40:7-9; 59:10; 60:4-7; 66:8
 Nkolo na ngai Mabondeli 3:38; 12:33; 14:35-36; 19:3-6; 20:25-28, 45, 114; 21:83, 87, 89; 23:26, 29, 93-94, 97-98; 26:83-87, 169; 27:19; 28:16-17, 21; 29:30; 37:100; 38:35, 41; 46:15, 71:26-28
-Alona (Harune) 2:248; 4:163 mpe; 6:84; 7:122, 142; 10:75 mpe; 19:28, 53; 20:30, 70, 90, 92, mpe 20:30, 70, 90, 92; 21:48; 23:45; 25:35; 26:13, 48; 28:34; 37:114, 120. Ezali na ntina te.
-‘Abasa, S.80,; 74:22
+Alona (Harune) 2:248; 4:163; 6:84; 7:122, 142; 10:75; 19:28, 53; 20:30, 70, 90, 92; 21:48; 23:45; 25:35; 26:13, 48; 28:34; 37:114, 120
+‘Abasa, S.80; 74:22
 Ba ablutions (Wudu), 4:43; 5:6
-Abalayama (Ibrahim) S.14; 2:135-136, 148,; 3:33, 84, 95; 4:54, 125, 163; 6:161; 9:70, 114; 12:6, 38; 16:120; 19:58; 21:51, 60, 62, 69; 22:43, 78; 26:69; 29:31; 33:7; 37:83, 104, 109,; 38:45, mpe 38:45; 42:13; 43:26; 51:24; 53:37; 57:26; 60:4; 87:19
+Abalayama (Ibrahim) S.14; 2:135-136, 148,; 3:33, 84, 95; 4:54, 125, 163; 6:161; 9:70, 114; 12:6, 38; 16:120; 19:58; 21:51, 60, 62, 69; 22:43, 78; 26:69; 29:31; 33:7; 37:83, 104, 109,; 38:45; 42:13; 43:26; 51:24; 53:37; 57:26; 60:4; 87:19
 - ezala Moyuda te to moklisto te, 3:67-68
 - atelemaki na tempelo ya liboso na Bakkah, 3:97; 26:123
 - etomboli miboko ya Ka’bah 2:124-129
@@ -37,20 +37,20 @@ Adama, 3:33, 59; 5:27; 7:26-27, 31, 35, 172; 17:70 mpe; 19:58; 36:60
 Mikakatano
 - kozala na kilo ya moto mosusu te, 6:164; 17:15; 35:18; 39:7; 53:38
 - kilo te koleka makoki ya kotelemela, 2:286; 6:152; 7:42; 23:62
-- motema molai na tango ya, 2:153; 2:155 mpe; 2:177 mpe; 2:250 mpe; 3:17; 3:125; 3:142 mpe; 3:146; 3:186 mpe; 3:200 mpe; 7:87; 7:126; 7:128; 7:137; 8:46; 8:65; 8:66; 10:109 mpe; 11:11; 11:49; 11:115, mpe 11:115; 12:18; 12:83; 12:90;13:22, mpe 13:22; 16:96; 16:110; 16:126; 21:85 mpe; 22:35; 23:111; 28:54, mpe 28:54; 29:59; 30:60 mpe; 31:17; 31:31;37:102 mpe oyo; 38:44, mpe 38:44; 39:10; 40:55 mpe; 40:77 mpe; 41:35 mpe; 42:33; 46:35 mpe; 47:31; 70:5; 76:12; 90:17; 103:3
-Kokóma mobange, 16:70; 22:5; 30:54 mpe; 36:68
+- motema molai na tango ya, 2:153; 2:155; 2:177; 2:250; 3:17; 3:125; 3:142; 3:146; 3:186; 3:200; 7:87; 7:126; 7:128; 7:137; 8:46; 8:65; 8:66; 10:109; 11:11; 11:49; 11:115; 12:18; 12:83; 12:90;13:22; 16:96; 16:110; 16:126; 21:85; 22:35; 23:111; 28:54; 29:59; 30:60; 31:17; 31:31;37:102; 38:44; 39:10; 40:55; 40:77; 41:35; 42:33; 46:35; 47:31; 70:5; 76:12; 90:17; 103:3
+Kokóma mobange, 16:70; 22:5; 30:54; 36:68
 - bizaleli epai ya baboti oyo bakómi mibange oyo bazali na bobateli na yo, 17:23
 Ahmad, 61:6
 Ahqaf, S.46,; 46:21
 Ahazabe, S.33,; 11:17; 13:36; 19:37; 38:11, 13;40:5, 30; 43:65
-Aikah, bafandi ya, 15:78; 26:176 mpe; 38:13; 50:14
-A'la S.87 mpe; 87:1; 92:20
-‘Alaq, S.96, oyo ezali na buku
+Aikah, bafandi ya, 15:78; 26:176; 38:13; 50:14
+A'la S.87; 87:1; 92:20
+‘Alaq, S.96
 Al-Imran, oyo azali na S.3
 Allah
 - mokolo moko mpo na Ye ezali mibu nkoto ntuku mitano, 70:4
 - mokolo moko mpo na Ye ezali mibu nkoto ya bato, 22:47; 32:5
-- makoki ya kosala eloko nyonso, 2:106; 2:117; 3:165 mpe; 3:189 mpe; 8:41; 9:116; 11:4; 16:40; 40:68 mpe; 41:39;42:49 mpe oyo; 57:2
+- makoki ya kosala eloko nyonso, 2:106; 2:117; 3:165; 3:189; 8:41; 9:116; 11:4; 16:40; 40:68; 41:39;42:49; 57:2
 - oyo eleki malamu koleka basambisi nyonso, 95:8
 - koleka ndimbola, 43:82; 67:12
 - amemi mayele mabe ya baye bazangi kondima, 8:30; 8:36
@@ -59,40 +59,40 @@ Allah
 - esalaki ete moto alala na boumeli ya ekeke moko, 2:259
 - monguna ya baye bawanganaka bosolo, 2:98
 - kokumisa nkembo na ye banda tongo tii na butu, 33:42
-- bana basi ya lokuta ya, 16:57; 17:40, mpe 17:40; 43:16; 52:39; 53:21-22 , NW
+- bana basi ya lokuta ya, 16:57; 17:40, mpe 17:40; 43:16; 52:39; 53:21-22
 - na nkombo, 53:19-20
 - epesi bato bonsomi ya kopona, 36:67
 - kopesa yango nyonso mpo na ye, 4:66-68; 4:125
 - malamu mpe mabe euti na Ye, 4:78
 - apesi bomoi mpe liwa, 44:8; 53:44; 57:2; 67:2
-- baye basalaka makasi bazwaki mbano ya malamu koleka, 4:95-96; 5:54; 9:120 mpe; 49:15; 61:11
+- baye basalaka makasi bazwaki mbano ya malamu koleka, 4:95-96; 5:54; 9:120; 49:15; 61:11
 - azali na mwasi te, 72:3
 - azali na mwana mobali te, 43:81; 72:3; 112:3
 - asundolaki yo te na tango na yo ya mpasi, 93:3
-- ezali bisika nyonso na boyebi, 2:115; 2:142; 2:177 mpe; 4:126
+- ezali bisika nyonso na boyebi, 2:115; 2:142; 2:177; 4:126
 - ezali Ya liboso pe ya Nsuka (alpha pe omega), 57:3
 - ezali Ya Libanda pe ya Kati, 57:3
-- ayebi ete koleka bososoli, 6:59; 6:73; 9:94; 9:105 mpe; 13:9; 32:6; 34:48; 35:38-39:46;49:18 mpe na 18; 59:22; 62:8; 64:18; 72:26; 74:31 mpe; 87:7
+- ayebi ete koleka bososoli, 6:59; 6:73; 9:94; 9:105; 13:9; 32:6; 34:48; 35:38-39:46;49:18; 59:22; 62:8; 64:18; 72:26; 74:31; 87:7
 - alingaka baye bazali komitambwisa na bosembo, 49:9
-- asalaki mibeko te na oyo etali oyo Ye alobelaki te, 5:101; 6:140 mpe; 6:148 mpe; 7:32
+- asalaki mibeko te na oyo etali oyo Ye alobelaki te, 5:101; 6:140; 6:148; 7:32
 - mawa epai ya bakangami ya bitumba oyo bazali na bolamu kati na bango, 8:70
 - lolenge ya, 2:255
 - moto moko te azali bonzambe, 3:64; 3:151
 - bosato te, 4:171
 - ekimelo na mabe na, 113:1-5; 114:1-6
-- komikundola ye atelemi, afandi, alali, 3:191; 4:103 mpe; 10:12; 25:64
+- komikundola ye atelemi, afandi, alali, 3:191; 4:103; 10:12; 25:64
 - ebongisi yo na libumu, 3:6
 - kiti ya bokonzi epema likolo ya mayi, 11:7
 - ekokela biloko oyo oyebi te, 16:8
-- alingi mabe te na bokeli na Ye, 3:108; 4:40; 17:71; 21:47; 22:10; 26:209 mpe; 40:31; 41:46;45:22 mpe oyo; 50:29; 64:11
+- alingi mabe te na bokeli na Ye, 3:108; 4:40; 17:71; 21:47; 22:10; 26:209; 40:31; 41:46;45:22; 50:29; 64:11
 Boyokani, 8:72; 9:7
 - Baklisto mpe Bayuda, 5:51
 - epekisami na bandeko oyo bandimi te, 9:23-24
 - epekisami na bato ya bokosi, 4:88-89; 4:139; 4:144
-Alyasa’, (tala Elisa) .
+Alyasa’, (tala Elisa)
 Amanah, Confiance na Allah oyo alakisaki misala etc., 2:283; 4:58; 8:27
 - tala Bondimi
-Baanzelu, 2:30-34; 2:98; 2:285 mpe; 4:97; 8:50 mpe; 13:23; 21:108 mpe; 22:75; 25:22; 25:25; 32:11; 33:43; 33:56;34:40, mpe 34:40; 35:1; 37:150 mpe; 38:71; 39:75 mpe; 41:14; 41:30 mpe; 42:5; 43:53 mpe; 43:60 mpe; 47:27; 53:26; 66:4; 66:6;69:17 mpe oyo; 70:4; 89:22; 97:4
+Baanzelu, 2:30-34; 2:98; 2:285; 4:97; 8:50; 13:23; 21:108; 22:75; 25:22; 25:25; 32:11; 33:43; 33:56;34:40; 35:1; 37:150; 38:71; 39:75; 41:14; 41:30; 42:5; 43:53; 43:60; 47:27; 53:26; 66:4; 66:6;69:17; 70:4; 89:22; 97:4
 - ekelamaki uta na moto, 7:12; 38:76
 - mwambe bakomema kiti ya bokonzi ya Allah likolo na mokolo ya bosambisi, 69:17
 - koloba lokuta ete bazali basi, 43:19; 53:27
@@ -101,11 +101,11 @@ Baanzelu, 2:30-34; 2:98; 2:285 mpe; 4:97; 8:50 mpe; 13:23; 21:108 mpe; 22:75; 25
 - atindami te mpo na kokokisa ba caprices, 15:7-8
 - atindami mpo na kofula, 16:2
 Nkanda, kokanga, 3:134
-‘Ankabut, S.29, mpe azali na likambo yango
+‘Ankabut, S.29
 Bafourmi, 27:18
 Ba singes, 5:60
 - ya kotyola, 2:65; 7:166
-Bopɛngwi, 3:72; 3:86-88 mpe; 3:90-91; 3:167 mpe; 4:137; 5:54; 9:74; 9:107 mpe; 16:106 mpe; 33:14
+Bopɛngwi, 3:72; 3:86-88; 3:90-91; 3:167; 4:137; 5:54; 9:74; 9:107; 16:106; 33:14
 - kosenga mbeba ya mbangu te mpo na bapɛngwi, 46:35
 - Allah ye moko akopesa bango etumbu, 73:11; 74:11
 - etumbu na sima, 2:217; 9:74
@@ -126,18 +126,18 @@ Bibundeli, 16:81
 'Asr,S.103. Ezali na ntina mingi
 Ayat Al-Kursi, 2:255
 Moto oyo azali kozokisa nsima, 49:12; 104:1
-Badr (etumba ya), 3:13, 14 .
+Badr (etumba ya), 3:13, 14
 - mateya uta na, 8:5-19, 42-48
 Al-Bait-ul-Ma mur, 52:4
 Bakkah (Makkah), 3:96
 B’al, 37:125
 Balad, S.90
-Bokatikati, 7:8-9; 17:35; 21:47; 55:7-9; 57:25;101:6-9 oyo ezali na kati
-Banu An-Nadir, 59:2-6, 13. Ezali na ntina mingi
+Bokatikati, 7:8-9; 17:35; 21:47; 55:7-9; 57:25;101:6-9
+Banu An-Nadir, 59:2-6, 13
 Baqarah, S.2.
 Bara'a (Talá Taubah), S.9
 Barzakh,(Epekiseli), 23:100; 25:53; 55:20
-- tala lisusu 18:94-97; 34:54 mpe; 36:9
+- tala lisusu 18:94-97; 34:54; 36:9
 Baiyinah, S.98
 Nyama (ya Mikolo ya Nsuka), 27:82
 Ba-Bédouins, 9:90, 97-99, 101, 120,; 48:11, 16; 49:14
@@ -155,9 +155,9 @@ Ezaleli
 - kofinga basusu te, 49:11; 104:1
 - kolobela makambo ya mabe polele te, 4:148
 - kolobana mabe te, 104:1
-- etuluku moko na moko epesami mobeko mpe lolenge ya bomoi, 2:148; 5:48; 10:47; 10:74 mpe; 13:38; 16:36; 16:63;16:84
+- etuluku moko na moko epesami mobeko mpe lolenge ya bomoi, 2:148; 5:48; 10:47; 13:38; 16:36; 16:63;16:84
 - mpe lolenge moko ya losambo, 22:67
-- Allah akokaki kosala bango lisanga moko, 5:48; 11:118, mpe 11:118; 16:93; 42:8
+- Allah akokaki kosala bango lisanga moko, 5:48; 11:118; 16:93; 42:8
 - lisanga moko na nse ya Allah, 21:92
 - kolimbisa Bayuda, 5:13
 - kolimbisa bato oyo bazali bandimi te, 31:15; 45:14
@@ -178,12 +178,12 @@ Ezaleli
 - basi (epai ya mibali), 24:31
 - na bimoniseli nyonso, 2:136; 2:285
 - lolenge ya, 49:14-15
-Bandimi, 2:2-5; 2:285 mpe; 8:2-4; 8:24
-Libula, 2:180, 240; 4:7, 12; 36:50 na mokolo
-Kotɛka (kosa, kokosa), 2:187; 4:107 mpe; 5:13;8:27, 58, 71; 12:52; 22:38; 66:10
+Bandimi, 2:2-5; 2:285; 8:2-4; 8:24
+Libula, 2:180, 240; 4:7, 12; 36:50
+Kotɛka (kosa, kokosa), 2:187; 4:107; 5:13;8:27, 58, 71; 12:52; 22:38; 66:10
 Biblia, 5:64, 5:65, 5:68
 - bobebisi ya, 3:78; 5:14-15
-Bandɛkɛ, 2:260; 3:49; 5:110; 6:38; 12:36, 41; 16:79; 21:79 mpe; 22:31; 24:41; 27:16-17, 20; 34:10; 38:19; 56:21; 67:19; 105:3
+Bandɛkɛ, 2:260; 3:49; 5:110; 6:38; 12:36, 41; 16:79; 21:79; 22:31; 24:41; 27:16-17, 20; 34:10; 38:19; 56:21; 67:19; 105:3
 Mbongo ya makila (Diya), 2:178-179; 4:92; 17:33
 Bopunzi, etumba, 4:94. 8:41; 59:6-8
 - kozwa na ndenge ya kobuka mibeko, 3:162
@@ -196,16 +196,16 @@ Bozito
 - mabe solo ezali mikumba oyo bakomema, 6:31, 164
 - Allah azali kopesa moto kilo te koleka ndelo na ye, 2:286; 7:42; 23:62
 Buruj (Minzoto minene), S.85; 85:1; 15:16; 25:61
-Kamela, 6:144; 7:40; 77:33 mpe; 88:17
+Kamela, 6:144; 7:40; 77:33; 88:17
 Bakangami, 4:25; 8:67, 70, 71; 9:60; 33:26-27; 76:8
 - tala lisusu Bakangami ya bitumba
-Bangɔmbɛ, 3:14; 4:119; 5:1; 6:136, 138, 139, 142,; 7:179 mpe; 10:24; 16:5-8, 10, 66, 80; 20:54, mpe 20:54; 22:28, 30, 34; 23:21; 25:44, 49; 26:133; 32:27; 35:28; 36:71-73; 39:6; 40:79 mpe; 42:11; 43:12-13; 47:12; 79:33 mpe; 80:32
+Bangɔmbɛ, 3:14; 4:119; 5:1; 6:136, 138, 139, 142; 7:179; 10:24; 16:5-8, 10, 66, 80; 20:54,; 22:28, 30, 34; 23:21; 25:44, 49; 26:133; 32:27; 35:28; 36:71-73; 39:6; 40:79; 42:11; 43:12-13; 47:12; 79:33; 80:32
 Libulu ya Thawr, 9:40
 Libulu, bato ya 18:9-22, 25-26
 Bondimi na bosolo, 56:95; 69:51
 Bolingo ya motema malamu, (Sadaqah), 2:196, 263, 264, 270, 271, 273; 4:114; 9:58, 75, 76-79, 103, 104,; 57:18;58:12-13
 - biloko ya bolingo mpe Zakat, 2:273; 9:60
-Bana 2:233; 42:49-50 na 50
+Bana 2:233; 42:49-50
 - babungi baye babomi ya bango, uta na bozoba, kozanga boyebi, 6:140
 Klisto, (tala Yesu) .
 Baklisto, 5:14, 19, 64-65, 69; 22:17
@@ -224,15 +224,15 @@ Bilamba, 7:26; 16:81
 Bato ya Confédéré, 33:9, 22
 - tala Bosololi ya Ahzab, mutuel, 42:38
 Bozalisi, .
-- ebandi mpe ezongeli, 10:4; 21:104 mpe; 27:64; 29:19-20 , NW
+- ebandi mpe ezongeli, 10:4; 21:104 mpe; 27:64; 29:19-20
 - ya sika, 17:49, 98; 35:16
-- na bosolo, 15:85; 16:3; 29:44; 39:5; 44:39;45:22 mpe oyo; 46:3
+- na bosolo, 15:85; 16:3; 29:44; 39:5; 44:39;45:22; 46:3
 - mpo na lisano te, 21:16-17; 23:115
-- ekelamu nyonso ya bomoi esalemi na, 21:30; 24:45;25:54 na ntango wana
-- ya moto, 4:1; 6:2; 15:26, 28, 33; 16:4; 21:30;22:5, mpe 21:30; 23:12-14; 25:54; 32:7-9; 35:11; 36:77-78 mpe; 37:11; 39:6; 40:67 mpe; 49:13; 55:14; 56:57-59 mpe oyo; 75:37-40 mpe oyo; 76:1-2; 77:20-23; 80:18-19; 86:5-8; 96:2
+- ekelamu nyonso ya bomoi esalemi na, 21:30; 24:45;25:54
+- ya moto, 4:1; 6:2; 15:26, 28, 33; 16:4; 21:30;22:5; 23:12-14; 25:54; 32:7-9; 35:11; 36:77-78; 37:11; 39:6; 40:67; 49:13; 55:14; 56:57-59; 75:37-40; 76:1-2; 77:20-23; 80:18-19; 86:5-8; 96:2
 - lolenge ya liboso ya 56:62
-- na Mikolo motoba, 7:54; 11:7; 32:4; 50:38 mpe; 57:4
-- na mibale mibale, 13:3; 30:8; 36:36; 42:11; 43:12; 51:9,49 mpe; 53:45
+- na Mikolo motoba, 7:54; 11:7; 32:4; 50:38; 57:4
+- na mibale mibale, 13:3; 30:8; 36:36; 42:11; 43:12; 51:9,49; 53:45
 - ndenge na ndenge na, 35:27-28
 - Allah apesi mitindo "Zalá!" — mpe ezali, 2:117;16:40; 36:82; 40:68
 - lokola kongenga ya liso, 54:50
@@ -241,7 +241,7 @@ Bozalisi, .
 - ntina ya, 51:56
 Korb, 5:31
 Mibeko, 2:53, 185; 3:4; 8:29, 41; 21:48; 25:1
-Dahr, (tala Insan,) S.76, mpe na 1990; 45:24
+Dahr, (tala Insan,) S.76; 45:24
 - ntango, 76:1; 103:1
 Davidi, 5:78; 6:84; 17:55, mpe 17:55; 34:10, 13; 38:17-30
 - epesami na Nzembo 4:163
@@ -250,9 +250,9 @@ Davidi, 5:78; 6:84; 17:55, mpe 17:55; 34:10, 13; 38:17-30
 - apambolami na boyebi mpe na bosakoli 27:15-16
 - bangomba na bandeke basangani na ye na kokumisa Allah 34:10; 38:17-20
 - basambisi kati ya bato mibale 38:21-26
-Dawabb to Dabbah (ekelamu ya bomoi oyo ezali kotambola, mpe bongo na bongo) 2:164; 6:38; 8:22, 55; 11:6, 56; 16:49, 61; 22:18; 24:45 mpe; 27:82; 29:60;31:10, mpe 31:10; 34:14; 35:28, 45; 42:29; 45:4
+Dawabb to Dabbah (ekelamu ya bomoi oyo ezali kotambola, mpe bongo na bongo) 2:164; 6:38; 8:22, 55; 11:6, 56; 16:49, 61; 22:18; 24:45; 27:82; 29:60;31:10; 34:14; 35:28, 45; 42:29; 45:4
 Bakufi bakosekwa, 6:36
-Liwa, 3:185; 3:193 mpe; 4:78; 6:61; 6:93; 21:35; 23:99-108, NW; 31:34, mpe 31:34; 32:11; 33:19; 33:23; 44:56 mpe; 47:27; 50:19-20; 56:60-62 mpe oyo; 56:83-96 mpe oyo; 75:29; 75:26-35 na likambo yango
+Liwa, 3:185; 3:193; 4:78; 6:61; 6:93; 21:35; 23:99-108; 31:34; 32:11; 33:19; 33:23; 44:56; 47:27; 50:19-20; 56:60-62; 56:83-96; 75:29; 75:26-35
 - mpe kokima etumba, 33:16
 - na nzela ya Allah, 3:195; 22:58; 47:4
 - masanga wana oyo ezali na emoniseli te ekobebisama te, 6:131; 9:115; 10:47; 11:117; 15:4; 16:119; 17:15; 28:59
@@ -260,7 +260,7 @@ Liwa, 3:185; 3:193 mpe; 4:78; 6:61; 6:93; 21:35; 23:99-108, NW; 31:34, mpe 31:34
 - tango azali kokima mabe epai ya Allah, 4:100
 - ekoki kopekisa te to kozongisa sima te 63:10-11
 - lipasa ya pongi 6:60; 39:42
-- bandimi pe baye bazangi kondima na tango ya liwa 8:50; 16:27-32; 41:30 mpe
+- bandimi pe baye bazangi kondima na tango ya liwa 8:50; 16:27-32; 41:30
 - etumbu na lilita 40:46
 Banyongo, 2:280, 282; 4:11-12
 Mobeko, .
@@ -276,15 +276,15 @@ Misala, .
 Degré, engebene na oyo basalaki, 6:132
 Mposa, baoyo balandaka mabe na bango, 47:14, 16
 - oyo azwi lokola nzambe na ye oyo ya ye, 25:43
-Kozanga elikya te na Ngolu ya Nzambe (Allah), 39:53; 21:87-88 mpe 21:87-88; 68:48-50 na 50
+Kozanga elikya te na Ngolu ya Nzambe (Allah), 39:53; 21:87-88; 68:48-50
 - tala lisusu Yona
 Dhariyat, S.51
 Dhikr, na ngonga ya 7:205; 15:6, 9
 Dhul-Kifi, na ngonga ya 21:85; 38:48
 Dhul-Qarain, 18:83-98
-Dhun-Nun (Moninga ya Mbisi), .
-Bato oyo bazangi kondima (tala lisusu Bakosi) .
-- kosenga Muhammad ( صلى الله عليه وسلم ) abenga nkanda ya Allah likolo na bango lokola preuve, 6:57-58; 8:32; 10:49-52 na likambo yango
+Dhun-Nun (Moninga ya Mbisi),
+Bato oyo bazangi kondima (tala lisusu Bakosi)
+- kosenga Muhammad ( صلى الله عليه وسلم ) abenga nkanda ya Allah likolo na bango lokola preuve, 6:57-58; 8:32; 10:49-52
 - komema elongo na bango na boboto, 31:15
 - koyika mpiko oyo balobaka na motema molai, 20:130; 50:39
 - mayokani na, 8:56; 8:72; 9:4, 7
@@ -300,7 +300,7 @@ Bato oyo bazangi kondima (tala lisusu Bakosi) .
 - kosala bato oyo bazali kobunda te na bosembo, 60:8
 - ekosala bobele boyokani na bato mosusu oyo bazangi kondima, 8:72
 Bayekoli (ya Yesu), 3:52; 61:14
-Maladi na mitema ya bakosi pe baye bazangi kondima, 2:10; 5:52; 8:49; 9:125; 22:53; 24:50 mpe; 33:12, 32, 60; 47:20, 29; 74:31
+Maladi na mitema ya bakosi pe baye bazangi kondima, 2:10; 5:52; 8:49; 9:125; 22:53; 24:50; 33:12, 32, 60; 47:20, 29; 74:31
 Matungisi, nsima na yango ezali na libateli, 3:154
 Kokabolama ya biloko oyo bapunzaki na etumba, 8:41; 59:7-8
 Ditch, bato ya, 85:4-10
@@ -342,7 +342,7 @@ Koboma libala, Mwasi
 - sanza misato zela baye bazangi sanza, 65:4
 - longola se soki libala esilisami te, 33:49
 Bambwa, 7:176
-Bampunda (Mbolo), 2:259; 16:8; 31:19; 62:5; 74:50 na ntango
+Bampunda (Mbolo), 2:259; 16:8; 31:19; 62:5; 74:50
 Komela
 - molangwi masanga, 2:219; 5:90
 - elengi ya peto pe ya pembe, 37:45-46; 76:21
@@ -350,9 +350,9 @@ Komela
 Duha, S.93
 Dukhan, S.44
 Limpinga ya ngando, 105:1-5
-Eliya (Elia; Ilyasin) 6:85; 37:123-132 na likambo yango
+Eliya (Elia; Ilyasin) 6:85; 37:123-132
 Elisa, (ya Alyasa) 6:86; 38:48
-Enoka, (talá Idris) .
+Enoka, (talá Idris)
 Likambo, 56:1; 69:15
 Mabe, 4:123; 10:27-30; 19:83; 59:15
 - esengeli te elobama na miso ya bato, 4:148
@@ -368,13 +368,13 @@ Mabe, 4:123; 10:27-30; 19:83; 59:15
 - misala ekembisami mpo na bango, 47:14
 Oyo eleki likolo
 - epekisami na bilei, 5:87
-- na lingomba, 4:171; 5:77-81 na likambo yango
+- na lingomba, 4:171; 5:77-81
 Miso, matoyi mpe mposo ekopesa litatoli mpo na basumuki, 41:20-23
 Ezela, (Uzaire) 9:30
-Elongi to Elongi ya Allah, 2:115, 272; 6:52; 13:22; 18:28; 28:88; 30:38-39 mpe oyo; 55:27; 76:9; 92:20
-Emonani lokola ete ezali sembo, .
+Elongi to Elongi ya Allah, 2:115, 272; 6:52; 13:22; 18:28; 28:88; 30:38-39; 55:27; 76:9; 92:20
+Emonani lokola ete ezali sembo,
 - Allah asali, na peuple moko na moko misala na ye, 6:108
-Kondima (Kondima), 2:108; 3:167, 177, 193, mpe 193; 5:5; 9:23; 16:106 mpe; 30:56 mpe; 40:10; 42:52; 49:7, 11, 14; 52:21; 58:22; 59:9-10
+Kondima (Kondima), 2:108; 3:167, 177, 193; 5:5; 9:23; 16:106; 30:56; 40:10; 42:52; 49:7, 11, 14; 52:21; 58:22; 59:9-10
 - baboyi ya, 3:116
 - bomati na, 3:173
 - na bosolo, 44:7; 45:4, 20; 51:20
@@ -382,23 +382,23 @@ Kondima (Kondima), 2:108; 3:167, 177, 193, mpe 193; 5:5; 9:23; 16:106 mpe; 30:56
 Fajr, S.89
 Falaq, S.113
 Masolo ya lokuta na ntina ya Milongo ya Coran, 6:68
-Banzambe ya lokuta, .
-- longola se Allah, bikeko pe baye babengaka ba partenaires 7:194-198; 16:20-21, 72, 86; 21:22, 24; 34:22, 27; 41:47-48 mpe oyo; 46:5-6; 53:19-24; 71:23-24 na likambo yango
+Banzambe ya lokuta,
+- longola se Allah, bikeko pe baye babengaka ba partenaires 7:194-198; 16:20-21, 72, 86; 21:22, 24; 34:22, 27; 41:47-48; 46:5-6; 53:19-24; 71:23-24
 - kofinga te baye basambelaka longola se Allah, 6:108
 - tala pe Taghut
-Lokuta (Batil), 2:42; 3:71; 8:8; 9:24; 13:17; 17:81; 21:18; 22:62; 29:52, 67; 31:30 mpe; 34:49; 40:5; 41:42; 42:24; 47:3
+Lokuta (Batil), 2:42; 3:71; 8:8; 9:24; 13:17; 17:81; 21:18; 22:62; 29:52, 67; 31:30; 34:49; 40:5; 41:42; 42:24; 47:3
 Akangaki misala ya moto na nkingo na ye moko,17:13
 Kokila bilei, 2:178, 183, 184-185, 187, 196; 4:92; 5:89, 95; 19:26; 33:35
 - kolia pe komela tii tango nsinga ya pembe ekobima ekeseni na nsinga ya moindo, 2:187
 Tata, S.48
 Fatihah, S.1.
-Fatir, S.35, mpe azali
+Fatir, S.35
 Fidyah (lisiko), ya kokila bilei, 2:196
 - mpo na kosikola bakangami, 8:67
-- lisiko epesami na baye bazangi kondima, 3:91; 5:36,37 mpe; 10:54, mpe 10:54; 13:18
+- lisiko epesami na baye bazangi kondima, 3:91; 5:36,37; 10:54; 13:18
 Fig, 95:1
 Bitumba
-- na nzela ya Nzambe (Allah), na baye bazangi kondima, 2:190-193, 244; 4:84, 95; 8:72, 74, 75, NW; 9:12-16, 20, 24, 36, 123; 47:4; 61:11
+- na nzela ya Nzambe (Allah), na baye bazangi kondima, 2:190-193, 244; 4:84, 95; 8:72, 74, 75; 9:12-16, 20, 24, 36, 123; 47:4; 61:11
 - epesameli mitindo, 2:216
 - na basanza ya bule, 2:217; 9:5
 - na Bana ya Yisalaele, 2:246-251
@@ -414,14 +414,14 @@ Paladiso ya Firdaus, 18:107; 23:11
 Mɔtɔ, 56:71, 100:2
 Kopumbwa, 22:73
 Bilei
-- oyo ezali na mibeko mpe oyo ezali na mibeko te, (Halal mpe Haram), 2:168, 172, 173; 5:1, 3-5, 88; 6:118-119, 121, 145-146, NW; 16:114-118 mpe oyo; 23:51
+- oyo ezali na mibeko mpe oyo ezali na mibeko te, (Halal mpe Haram), 2:168, 172, 173; 5:1, 3-5, 88; 6:118-119, 121, 145-146; 16:114-118; 23:51
 - lisumu te mpo na oyo eleaki kala, 5:93
 - kobuka mobeko te, 5:87
 - kosala ete ezala na mibeko te oyo Allah asali ete ezala na nzela, 5:87; 7:32; 16:116
 Etamboli oyo epekisami, 6:151-152; 7:33
-Bolimbisi, 2:109; 4:48, 110, 116; 5:74; 7:199 mpe; 39:53, mpe 39:53; 42:5, 40-43; 45:14; 53:32; 57:21
+Bolimbisi, 2:109; 4:48, 110, 116; 5:74; 7:199; 39:53; 42:5, 40-43; 45:14; 53:32; 57:21
 - mokumba moko ya Bandimi, 42:37; 45:14
-- na Bandimi, mpo na bato ya Makomi,2:109
+- na Bandimi, mpo na bato ya Makomi, 2:109
 - Allah alimbisaka na oyo alingi, 4:48
 - Allah alimbisi kotia ba partenaires te na losambo elongo na ye, 4:48, 116
 - oyo azali koluka oyo ya Allah, 4:110
@@ -435,8 +435,8 @@ Bolimbisi, 2:109; 4:48, 110, 116; 5:74; 7:199 mpe; 39:53, mpe 39:53; 42:5, 40-43
 - kopota mbangu moko na mosusu na kokende mbangu epai ya, 57:21
 - misala mabe ebongwanaki na misala ya malamu 25:68-71
 Bokosi, (tala Kotɛka) 83:1-6
-Bonsomi ya kopona, .
-- ekangami na Volonté ya Allah, 6:107; 10:99; 74:56;76:31 mpe oyo; 81:28-29, NW
+Bonsomi ya kopona,
+- ekangami na Volonté ya Allah, 6:107; 10:99; 74:56;76:31; 81:28-29
 - oyo alingi, tika ye : andima pe azanga kondima, 18:29
 - kozwa nzela epai ya Nkolo na ye, 76:29
 - kotambola semba, 81:28
@@ -448,14 +448,14 @@ Mbuma, 6:41; 16:11
 Fujjar, 82:14-16, mpe 16; 83:7
 Furqan, S.25
 Fussilat (tala Ha Mim), S.41
-Gabriel, (Jibril) 2:97-98, mpe 1999; 26:193 mpe; 66:4; 81:19-21, NW
-- Ruh, 26:193, mpe 26:193; 67:12; 70:4; 78:38 mpe; 97:4
+Gabriel, (Jibril) 2:97-98; 26:193; 66:4; 81:19-21
+- Ruh, 26:193; 67:12; 70:4; 78:38; 97:4
 - Ruh-ul-Qudus, 2:87, 253,; 5:110; 16:102
 Masano ya mbongo, 2:219; 5:90
 Lisano, na etuka moko ya Ihram, 5:94-96
 Ghafir (tala Mu’min), S.40
 Ghashiyah, S.88
-Ghusl, 4:43, mpe 4:43; 5:6
+Ghusl, 4:43; 5:6
 Makabo, 30:39
 Goliate, (Jalut) 2:249-251
 Malamu (Mikolo), 3:140
@@ -469,14 +469,14 @@ Malamu (Mikolo), 3:140
 - Allah apesaka mbano na baye basalaka, na oyo eleki malamu, 53:31
 - ezali na mbano moko mpo na, longola se bolamu, 55:60
 - sala, ndenge Allah asali bino malamu, 28:77
-Malamu mpe Mabe, .
-- malamu euti na Allah mpe mabe euti na yo moko,4:79
+Malamu mpe Mabe,
+- malamu euti na Allah mpe mabe euti na yo moko 4:79
 - soki bosali malamu, pona bino moko pe soki bosali mabe, contre bino moko, 17:7;41:46
-- kobengana mabe na bolamu, 23:96; 28:54, mpe 28:54; 41:34
-- mosala malamu na mabe ekoki kokokana te,41:34
+- kobengana mabe na bolamu, 23:96; 28:54; 41:34
+- mosala malamu na mabe ekoki kokokana te, 41:34
 - mutu nionso akokutana na nionso ya, asali, 3:30
 - tala lisusu Muhsinun
-Mosala ya malamu, .
+Mosala ya malamu,
 - kobimisa to kobomba yango, 4:149
 - kosala makasi lokola na momekano ya mbangu na, 5:48
 Nsango Malamu, 3:3, 48, 65; 5:46-47, 66, 68, 110;7:157,; 9:111; 48:29; 57:27
@@ -488,12 +488,12 @@ Hajj (Mobembo ya losambo), 2:158, 196-203; 3:97; 5:2;22:30
 Hajj, S.22
 Hamane, 28:6, 38; 29:39; 40:24, 36, 37
 Maboko mpe makolo ekopesa litatoli, 36:65
-Haggah, S.69, oyo ezali na buku
+Haggah, S.69
 Mokakatano, ezali na bopemi na nyonso, 94:5-6
-Harun, (Aaron) .
+Harun, (Aaron)
 Harut, 2:102
 Hashr, S.59
-Mitema, .
+Mitema,
 - ekómi makasi, 2:74; 22:53; 39:22; 57:16
 - ekangami, 7:100-101; 40:35 mpe; 47:16; 63:3
 - ezipami, 17:46; 41:5
@@ -501,7 +501,7 @@ Mitema, .
 - ekabwani, 59:14
 - etondi na bobangi, 22:35
 - na oyo, maladi ezali, 2:10; 5:52; 8:49; 9:125; 22:53; 24:50 mpe; 33:12, 32, 60; 47:20, 29, 74:31
-Lola, .
+Lola,
 - ya Allah ezali ya oyo emonanaka te ya, 16:77
 - ekelamaki mpo na lisano te, 21:16
 - mpe mabele esanganaki esika moko, 21:30
@@ -512,30 +512,30 @@ Lola, .
 - ekembisami lola ya penepene na miinda, 41:12
 - ya Allah ezali ya Allah nionso oyo ezali na kati ya, 45:27;53:31
 - lola sambo, moko likolo ya mosusu, 67:3
-Lifelo (moto, mɔ́tɔ oyo ezali kopela) 2:24, 119, 161, 166, 201; 3:10, 12, 116, 131, 151, 162, 192; 4:55-56, 93, 97, 114, 121, 169; 5:10, 37, 72, 86; 6:27, 70, 128; 7:18, 36, 38, 41, 50, 179; 8:16, 36, 50; 9:17, 35, 49, 63, 68, 73, 81, 95, 109, 113; 10:8, 27; 11:16-17, 11:98, 106, 113, 119; 13:5, 18, 35; 14:16, 49; 15:43; 16:29, 62; 17:8, 18, 39, 63, 97, 129; 18:53, 100, 106; 19:68, 70, 86; 20:74, 21:39, 21:98, 22:4, 22:9, 51, 72; 24:57, 25:11-13, 34, 65; 26:91, 94; 27:90, 28:41, 29:25, 54, 68,; 31:21; 32:13, 20; 33:64, 66; 34:12, 42; 35:6, 36; 36:63, 37:10, 23, 55, 63, 68, 163; 38:27, 56, 59, 61, 64, 85,; 39:8, 16, 19, 32, 60, 71, 72; 40:6-7, 41-43, 46, 47-49, 60, 72, 76; 41:19, 24, 28, 40; 42:7, 44:47, 56; 45:10, 34-35, NW; 46:20, 34; 47:12, 15; 48:6, 13; 50:24, 30; 51:13, 52:13-16, 18; 54:48, 55:43, 56:94, 57:15, 19 mpe na 19; 58:8, 17; 59:3, 17, 20; 64:10, 66:9-10, 67:5-10, 69:31, 70:15, 71:25, 72:15, 23; 73:12-13, 74:26-31, 42; 76:4, 77:31, 78:21, 79:36, 39; 81:12; 82:14; 83:16; 84:12; 85:10 mpe; 87:12; 88:4; 89:23; 90:20 mpe; 92:14; 98:6; 101:9-11; 102:6; 104:6-9; 111:3
-- kotumba mpe kotɔkisa mai 22:19-22; 23:103-104 na likambo yango
-- pus 14:14-17 oyo ezali; 38:55-58 mpe 58; 69:35-37 na likambo yango
-- nzete ya Zaqqum 37:62-70; 44:43-50 mpe 50; 56:41-56 (Ntango ya 56:41-56).
+Lifelo (moto, mɔ́tɔ oyo ezali kopela) 2:24, 119, 161, 166, 201; 3:10, 12, 116, 131, 151, 162, 192; 4:55-56, 93, 97, 114, 121, 169; 5:10, 37, 72, 86; 6:27, 70, 128; 7:18, 36, 38, 41, 50, 179; 8:16, 36, 50; 9:17, 35, 49, 63, 68, 73, 81, 95, 109, 113; 10:8, 27; 11:16-17, 11:98, 106, 113, 119; 13:5, 18, 35; 14:16, 49; 15:43; 16:29, 62; 17:8, 18, 39, 63, 97, 129; 18:53, 100, 106; 19:68, 70, 86; 20:74, 21:39, 21:98, 22:4, 22:9, 51, 72; 24:57, 25:11-13, 34, 65; 26:91, 94; 27:90, 28:41, 29:25, 54, 68,; 31:21; 32:13, 20; 33:64, 66; 34:12, 42; 35:6, 36; 36:63, 37:10, 23, 55, 63, 68, 163; 38:27, 56, 59, 61, 64, 85,; 39:8, 16, 19, 32, 60, 71, 72; 40:6-7, 41-43, 46, 47-49, 60, 72, 76; 41:19, 24, 28, 40; 42:7, 44:47, 56; 45:10, 34-35; 46:20, 34; 47:12, 15; 48:6, 13; 50:24, 30; 51:13, 52:13-16, 18; 54:48, 55:43, 56:94, 57:15, 19; 58:8, 17; 59:3, 17, 20; 64:10, 66:9-10, 67:5-10, 69:31, 70:15, 71:25, 72:15, 23; 73:12-13, 74:26-31, 42; 76:4, 77:31, 78:21, 79:36, 39; 81:12; 82:14; 83:16; 84:12; 85:10; 87:12; 88:4; 89:23; 90:20; 92:14; 98:6; 101:9-11; 102:6; 104:6-9; 111:3
+- kotumba mpe kotɔkisa mai 22:19-22; 23:103-104
+- pus 14:14-17; 38:55-58; 69:35-37
+- nzete ya Zaqqum 37:62-70; 44:43-50; 56:41-56
 - bozangi makoki ya bavandi ya kozala na bomoi to kokufa 87:13
 - kobwaka foti 26:91-101; 34:31-33
-- esengi kobebisama ya mbala moko 25:13-14; 43:74-78 na likambo yango
+- esengi kobebisama ya mbala moko 25:13-14; 43:74-78
 - kolela ya molende 35:36-37
 - Mɔtɔ ezali konguluma mpe konguluma 25:11-12; 67:6-11
 - mposo ya kotumba oyo ezongisami na esika na yango na oyo ya sika 4:56
 - minyɔlɔlɔ mpe bilamba ya goudron 14:48-50
 - maces ya ebende 22:19-22
 - minyɔlɔlɔ 13:5
-- babateli ya Lifelo 39:71; 40:49-50 mpe 50; 43:77 mpe; 66:6; 67:8; 74:30-31 mpe oyo; 96:18
+- babateli ya Lifelo 39:71; 40:49-50; 43:77; 66:6; 67:8; 74:30-31; 96:18
 - lisiko moko te endimami 5:36-37
-- intercession ewanganamaki 6:94; 26:100 mpe; 30:13; 74:48
+- intercession ewanganamaki 6:94; 26:100; 30:13; 74:48
 - kozika kozanga elikya mpe malili ya glace molili na, 38:57
 - monyololo ya mapeko 70, 69:32
 - kotikala na boumeli ya ntango moke, 78:23
-Na nsima, .
+Na nsima,
 - malamu ezali ndako na, 6:32; 7:169
 - oyo ekozala suka na, 6:135
 - Zalimun akozala na elonga te (na), 6:135
-- ndako ya ba, 12:109; 16:30 na ngonga ya 16:30; 28:83, mpe 28:83; 29:64
+- ndako ya ba, 12:109; 16:30; 28:83; 29:64
 - oyo bandimaka te, 17:10
 - mbano ya, 42:20
 - malamu koleka palata na wolo, 43:33-35
@@ -546,23 +546,23 @@ Na nsima, .
 Banzela minene, ya monene, 21:31
 Hijr (Trakt ya mabanga), 15:80-85
 Hijr, S.15
-Kosangisa nzoto mibali na mibali 26:165-166; 27:55, mpe 27:55; 29:28-29 , NW
+Kosangisa nzoto mibali na mibali 26:165-166; 27:55, mpe 27:55; 29:28-29
 Bampunda, 16:8
 Ngonga
-- boyebi na yango ezali kaka epai ya Allah, 7:187; 31:34, mpe 31:34; 33:63; 41:47 mpe; 68:26; 79:42-46 na likambo yango
-- na mbalakaka ezali likolo na bango, 6:31; 7:187;12:107 mpe oyo; 43:66
-- eyeli yo, 6:40; 12:107 mpe; 20:15; 34:3
+- boyebi na yango ezali kaka epai ya Allah, 7:187; 31:34; 33:63; 41:47; 68:26; 79:42-46
+- na mbalakaka ezali likolo na bango, 6:31; 7:187;12:107; 43:66
+- eyeli yo, 6:40; 12:107; 20:15; 34:3
 - epusani penepene, 54:1-5
 - lokola kongenga ya liso, to kutu penepene,16:77
 - koningana ya mabele ya, 22:1
 - ekotia, na Mokolo, 30:12, 14
 - ya solo koya, ntembe ezali te, 40:59;45:32; 51:5-6
 - bilembo 21:96; 27:82; 43:61; 47:18; 54:1-2
-- bankombo 1:3; 2:4; 3:55; 19:39; 30:56 mpe; 37:21; 40:15; 41:47 mpe; 42:7; 50:20 mpe; 56:1; 64:9; 69:1; 79:34, mpe 79:34; 80:33 mpe; 88:1; 101:1-3
-- ekozwa bato na kokamwa 6:31; 7:187 mpe
-- Kelelo ekobetama 6:73; 23:101 mpe; 39:68
+- bankombo 1:3; 2:4; 3:55; 19:39; 30:56; 37:21; 40:15; 41:47; 42:7; 50:20; 56:1; 64:9; 69:1; 79:34; 80:33; 88:1; 101:1-3
+- ekozwa bato na kokamwa 6:31; 7:187
+- Kelelo ekobetama 6:73; 23:101; 39:68
 Bandako, bizaleli na ntina ya kokota, 24:27-29
-Hud, 7:65-72, NW; 11:50-60 mpe 11:50-60; 26:123-140 mpe oyo; 46:21-26
+Hud, 7:65-72, NW; 11:50-60; 26:123-140; 46:21-26
 Hud, S.11
 Hujurat, S.49
 Humazah, S.104
@@ -571,7 +571,7 @@ Hure (basi na Paladiso), 44:54; 52:20
 Bakosi, .
 - loba : tondimi Allah pe mokolo ya suka, kasi ya solo tondimi te, 2:8
 - komikosa, 2:9
-- bokono na mitema na bango, 2:10; 8:49; 22:53;33:12 mpe oyo; 47:29
+- bokono na mitema na bango, 2:10; 8:49; 22:53;33:12; 47:29
 - kosala mabe, 2:11-12
 - bazoba mpe bato ya maseki, 2:13-15
 - libunga ya kosomba mpo na bokambi, 2:16
@@ -583,7 +583,7 @@ Bakosi, .
 - kende mpo na kosambisama na bazuzi ya lokuta, longwa na Emoniseli, yaka tango likama ekoyela, 4:60-62
 - na mawa pe na elonga monene, 4:72-73
 - Allah abwaki bango sima, 4:88
-- kozwama lokola baninga te, 4:89; 58:14-19, NW
+- kozwama lokola baninga te, 4:89; 58:14-19
 - soki bazongi sima, boma bango esika nionso okokuta bango, 4:89
 - bazelaka pe batalaka elonga na yo to balongi ya baye bazangi kondima, 4:141
 - koluka kokosa Allah, basambelaka na paresseux pe komonana na bato, 4:142
@@ -599,13 +599,13 @@ Bakosi, .
 - bato ya lokuta; basalaki ndai na bango lokola écran; mitema na bango ekangami; keba na bango, 63:1-4
 - kososola te, koyeba te, 63:7-8
 - kosala makasi mpo na kobundisa, 66:9
-Iblis (Satana), 2:34; 7:11-18; 15:31-44, mpe 15:31-44; 17:61-65, mpe 17:61-65; 18:50 mpe; 20:116-120 mpe oyo; 34:20-21; 38:71-85 na likambo yango
+Iblis (Satana), 2:34; 7:11-18; 15:31-44; 17:61-65; 18:50; 20:116-120; 34:20-21; 38:71-85
 - tala pe Satana
-Ibrahim, (tala Abraham) .
+Ibrahim, (tala Abraham)
 Ibrahim, S.14, oyo azali na mbula 14
 ‘Iddah (eleko oyo epesamaki mpo na koboma libala), 2:228, 231, 232, 234, 235; 33:49;65:1-7
-Idrisi (Enoka), 19:56-57; 21:85 mpe; 96:4
-Ihram, 2:197, mpe 2:197; 5:2, 95
+Idrisi (Enoka), 19:56-57; 21:85; 96:4
+Ihram, 2:197; 5:2, 95
 Ihsan, 16:90
 Ikhlas, S.112
 Ila, kaka Moko, 2:163; 6:19; 16:22, 51; 23:91; 37:4; 38:65
@@ -622,16 +622,16 @@ Kozanga bosembo, nani esalemi, 4:30, 148
 Insan (tala Dahr), S.76
 Inshiqaq, oyo ezali na S.84
 Inshirah (tala Sharh), S.94
-Bofulami, 6:93; 10:2, 109; 12:102 mpe; 17:86;40:15, mpe 15:15; 42:3, 7, 51-52; 53:4, 10
-Kobondela/Motamboli, 6:51, 70, 93-94;10:3; 19:87; 20:106, 109, mpe 109; 30:13; 34:23;39:44 mpe oyo; 40:18; 43:86 mpe; 53:26; 74:48
+Bofulami, 6:93; 10:2, 109; 12:102; 17:86;40:15; 42:3, 7, 51-52; 53:4, 10
+Kobondela/Motamboli, 6:51, 70, 93-94;10:3; 19:87; 20:106, 109; 30:13; 34:23;39:44; 40:18; 43:86; 53:26; 74:48
 Biloko oyo elangwisaka, 5:90, 2:219
-Iqamat-as-Salat, 2:3, 43, 83, 110, 177, 277,; 4:77, 102–103; 5:12, 55; 6:72; 7:170 mpe; 8:3;9:5, 11, 18, 71; 10:87 mpe; 11:114, mpe 11:114; 13:22; 14:31.37 mpe; 17:78; 20:14; 22:41, 78; 24:56; 27:3; 29:45; 30:31, mpe 30:31; 31:4, 17; 33:33; 35:18, 29;42:38, mpe 10; 58:13; 73:20 mpe; 98:5
+Iqamat-as-Salat, 2:3, 43, 83, 110, 177, 277; 4:77, 102–103; 5:12, 55; 6:72; 7:170; 8:3;9:5, 11, 18, 71; 10:87; 11:114; 13:22; 14:31, 37; 17:78; 20:14; 22:41, 78; 24:56; 27:3; 29:45; 30:31; 31:4, 17; 33:33; 35:18, 29;42:38; 58:13; 73:20; 98:5
 Kotanga’ (tala ‘Mwana), S.96
 Erame, 89:7
 Ebende, 57:25
 Yesu, talá Yesu
-Yisaka, (Isaka) 2:133; 4:163 mpe; 6:84; 19:49;21:72 mpe oyo; 29:27; 37:112–113
-Yismaele (Ishimaele), 2:125-129, 133; 4:163;6:86 mpe oyo; 19:54–55 mpe 55; 21:85 mpe; 38:48
+Yisaka, (Isaka) 2:133; 4:163 mpe; 6:84; 19:49;21:72; 29:27; 37:112–113
+Yismaele (Ishimaele), 2:125-129, 133; 4:163;6:86; 19:54–55; 21:85; 38:48
 atomboli miboko ya Ka’bah elongo na tata na ye 2:125-140
 lisolo ya mbeka 37:100-113
 Bamizilma, 3:19, 85; 5:3; 6:125; 39:22; 61:7
@@ -639,10 +639,10 @@ Bamizilma, 3:19, 85; 5:3; 6:125; 39:22; 61:7
 - ya liboso ya koyamba, 9:100
 - libele efungwami na, 39:22
 - lokola bolamu, 49:17
-Isra’, S.17.
+Isra’, S.17
 Yisalaele, Bana ya, 2:40-86
-- boboto epesami, 2:47-53, 60, 122; 45:16-17 , NW
-- kotombokela botosi ya Allah, 2:54-59, 61, 63-74; 5:71; 7:138-141 na likambo yango
+- boboto epesami, 2:47-53, 60, 122; 45:16-17
+- kotombokela botosi ya Allah, 2:54-59, 61, 63-74; 5:71; 7:138-141
 - boyokani na bango na ba musulmans, 2:75-79
 - lolendo na bango, 2:80, 88, 91
 - mayokani ma bango, 2:80, 83-86, 93, 100; 5:12-13, 70
@@ -652,16 +652,16 @@ Yisalaele, Bana ya, 2:40-86
 - elekaki ndelo ; bakabwani na bituluku ndenge na ndenge; banyoka, 7:161-171
 - elakamaki mbala mibale, 17:4-8
 - elongolami na monguna, 20:80-82
-- epesami Makomi mpe bakambi, 32:23-25; 40:53-54 na likambo yango
+- epesami Makomi mpe bakambi, 32:23-25; 40:53-54
 - bato ya mayele ya, bayebaki yango (Quran lokola solo), 26:197
 Istawa (atɛlɛmaki likoló), 2:29; 7:54; 10:3; 13:2;20:5; 32:4; 41:11; 57:4
 I’tikaf, 2:187
-Yakobo, (Ya’qub) 2:132-133,; 4:163 mpe; 6:84;12:18 mpe oyo; 19:49; 21:72; 29:27
+Yakobo, (Ya’qub) 2:132-133,; 4:163 mpe; 6:84;12:18; 19:49; 21:72; 29:27
 - Asbat (bana zomi na mibale ya Yakobo), 2:140; 3:84;4:163
 Jalut, (talá Goliate) .
 Jamarat, ngonga ya 2:200
 Jathiyah, S.45
-Yesu, Yisa mwana ya Maria, .
+Yesu, Yisa mwana ya Maria,
 - mama aponami likolo ya basi banso ya mokili 3:42
 - apesi litatoli na mokolo ya lisekwa, 4:159
 - nsango ya esengo ya mbotama, 3:45-47; 19:22-23
@@ -689,27 +689,27 @@ Yesu, Yisa mwana ya Maria, .
 - ekundolisi bolamu ya Allah 5:110-115
 - azali koboya kozala ya bonzambe 5:116-120
 - mawa pe ngolu na mitema ya balandi na ye 5:82; 57:27
-Bayuda mpe baklisto, 2:140; 4:153-161, 171, mpe 171; 5:18
+Bayuda mpe baklisto, 2:140; 4:153-161, 171; 5:18
 - yoka lokuta, 5:41-42
 - balakelami mabe mpo na maye balobaki, 5:64
 - bonguna na bandimi (ba musulmans), 5:82
-- oyo ayambaki Islam, 26:197; 28:53, mpe 28:53; 29:47
-Jibril, (tala Gabriel) .
+- oyo ayambaki Islam, 26:197; 28:53; 29:47
+Jibril, (tala Gabriel)
 Jihad, (Kobunda, Kobunda) 2:216; 9:24; 22:78; 25:52
 Jinn, S.72
-Jinn, ngonga 6:100, 112; 15:27; 34:41; 38:37, mpe 38:37; 46:18,29 mpe; 55:33, 39
+Jinn, ngonga 6:100, 112; 15:27; 34:41; 38:37; 46:18,29; 55:33, 39
 Jinn, oyo akelamaki na mɔtɔ 15:25; 55:15
 - kondima mpe koboya ba jinne 72:1-15
 - basusu bandimaki nsango ya Coran 46:29-32
 - bato na ba jinne bakelami pona tina moko 51:56-58
 Yobo, 4:163; 6:84; 21:83-84 mpe oyo; 38:41-44 na likambo yango
-Yoane, (Yahya, Yoane Mobatisi), .
+Yoane, (Yahya, Yoane Mobatisi),
 - nsango ya esengo ya, 3:38-41; 19:7-11; 21:90
 - moyengebene, 6:85
 - mayele, ya mawa, ya mokumba, 19:12-15
-Yona (Yona to Yunus), 4:163; 6:86; 10:98;21:87 mpe oyo; 37:139-148 mpe oyo
-- (Dhu n-Nun) na ngonga ya 21:87; 68:48-50 na 50
-Yozefe (Yusuf), na ngonga ya 6:84; 12:4-101 (Ntango ya 12:4-101).
+Yona (Yona to Yunus), 4:163; 6:86; 10:98;21:87; 37:139-148
+- (Dhu n-Nun) na ngonga ya 21:87; 68:48-50
+Yozefe (Yusuf), na ngonga ya 6:84; 12:4-101
 - masolo ya malamu koleka 12:1-3
 - ndoto ya elenge Yusuf 12:4-6
 - complot ya bandeko na ye 12:7-18
@@ -729,9 +729,9 @@ Yozefe (Yusuf), na ngonga ya 6:84; 12:4-101 (Ntango ya 12:4-101).
 - losambo ya bosukisi 12:101
 Yudi, Ngomba, 11:44
 Jumu’ah, S.62
-Bosembo (Adl), 2:282; 4:58, 135; 7:29; 16:90; 57:25 (
+Bosembo (Adl), 2:282; 4:58, 135; 7:29; 16:90; 57:25
 - tala lisusu 4:65, 105
-Ka’bah, 1999.
+Ka’bah
 - etongami na Abraham, 2:125-127
 - koboma lisano te, 5:94-96
 - asile ya bokengi, 5:97
@@ -743,27 +743,27 @@ Kahf, S.18
 Kanz, 9:34-35
 Kauthar (ebale na Paladiso), 108:1
 Kauthar, S.108
-Bafungola, .
+Bafungola,
 ya likoló mpe ya mabele, 39:63; 42:12
 ya Ghaib, 6:59
 Khaula bint Tha labah, 58:1
-Koboma, .
+Koboma,
 - soki moto abomi moto, abomaki bato banso, 5:32
 - koboma moto te, 17:33
 Maloba ya boboto eleki bolingo, 2:263
-Bandeko, makoki ya, 2:83, 177, 215; 4:7-9, 36;8:41; 16:90; 17:26; 24:22; 29:8; 30:38, mpe 30:38; 42:23
+Bandeko, makoki ya, 2:83, 177, 215; 4:7-9, 36;8:41; 16:90; 17:26; 24:22; 29:8; 30:38; 42:23
 Kiraman-Ratibin, 82:11
 Boyebi
 - nkasa moko te ekweyi, kasi Ye ayebi yango, 6:59
 - babungi baye babomi bana na bango na bozoba, libanda, 6:140
 - ya makambo mitano, elongo na Allah Se moko, 31:34
 - na bosolo, 102:5-7
-Kora (Qarun), 28:76-82, mpe 28:76-82; 29:39; 40:24
+Kora (Qarun), 28:76-82; 29:39; 40:24
 Kursi, 2:255
 Lahab (Talá Masad), S.111
 Lail, S.92
 Mwinda, 25:61; 67:5; 71:16; 78:13
-Minɔkɔ, .
+Minɔkɔ,
 - bokeseni na, mpe balangi ya bato, 30:22
 Lat, 53:19
 Mibeko, oyo epesameli, 5:48
@@ -789,7 +789,7 @@ Pole
 - ekendaka liboso pe elongo na Bandimi, 57:12-15; 66:8
 - epesami na Allah, po Bandimi batambola semba, 57:2
 Ndelo oyo Allah atie, 2:173, 187, 190, 230;9:112; 58:4; 65:1; 78:22
-- oyo ezali ba, 2:187; 229-230 mpe; 4:13; 58:4; 65:1
+- oyo ezali ba, 2:187; 229-230; 4:13; 58:4; 65:1
 - kobuka mobeko te na, 2:190, 229
 - oyo azali kobuka mobeko, 2:229; 4:14; 78:22
 - kasi na makasi na ntina, to kobuka mobeko, 2:173; 6:145
@@ -802,36 +802,36 @@ Kodefa
 - ebakisami na ebele, 57:11, 18
 - ebakisami mbala mibale, 64:17
 Kobungisa, emonisami, 39:15
-Lota, (Lut) 6:86; 7:80; 11:70, 74, 77, 81, 89 mpe 11:70, 74, 77, 81, 89; 15:59, 61; 21:71, 74; 22:43; 26:160-161, nkasa 167; 27:54-56 mpe oyo; 29:26, 28, 32-33; 37:133 mpe oyo; 38:13;50:13, mpe 50:13; 54:33-34 mpe oyo; 66:10
+Lota, (Lut) 6:86; 7:80; 11:70, 74, 77, 81, 89; 15:59, 61; 21:71, 74; 22:43; 26:160-161, 167; 27:54-56; 29:26, 28, 32-33; 37:133; 38:13;50:13; 54:33-34; 66:10
 - mwasi na ye oyo azangi botosi, 11:81; 15:60; 66:10
 Nzete ya Lote, 34:16; 53:14-16; 56:28
 Luqman, 31:12-14
 Luqman, S.31
 Ma'arij, S.70
 Madina (Yathrib), 9:120; 33:13, 60; 63:8
-Madyan, 7:85-93,; 11:84-95, mpe 11:84-95; 20:40 mpe; 22:44; 28:22-23; 29:36-37
+Madyan, 7:85-93,; 11:84-95; 20:40; 22:44; 28:22-23; 29:36-37
 - tala mpe Mabaya ya Aikah
-Mahr (mbongo ya libala), 2:229, 236-237; 4:4,19-21, 24-25 , NW; 5:5; 33:50 mpe; 60:10-11
+Mahr (mbongo ya libala), 2:229, 236-237; 4:4,19-21, 24-25; 5:5; 33:50; 60:10-11
 Ma’idah, S.5.
 Makkah (Bakkah), 3:96;90:1-2
 - Engumba ya bokengi, 95:3
 Moto
 - bankola sima ya nkola na mabele, 2:30;6:165
 - akómi mokitani, 35:39
-- mosala, 2:83-84, 88, 177; 4:1-36; 8:41; 16:90;17:23-39, mpe 17:23-39; 24:22; 29:8-9; 30:38;33:33;42:23,; 64:14; 70:22-35 , NW
-- emekami na Allah, 2:155; 3:186 mpe; 47:31; 57:25
+- mosala, 2:83-84, 88, 177; 4:1-36; 8:41; 16:90;17:23-39; 24:22; 29:8-9; 30:38;33:33;42:23,; 64:14; 70:22-35
+- emekami na Allah, 2:155; 3:186; 47:31; 57:25
 - biloko oyo bato balulaka, 3:14
-- ekelamaki uta, 4:1; 6:2; 15:26, 28, 33; 16:4;21:30 mpe oyo; 22:5; 23:12-14; 25:54; 30:20; 32:7-9;35:11; 36:77-78 mpe; 37:11; 39:6; 40:67 mpe; 49:13;55:14 mpe oyo; 56:57-59 mpe oyo; 75:37-40 mpe oyo; 76:1-2; 77:20-23;80:18-19; 86:5-8; 96:2
+- ekelamaki uta, 4:1; 6:2; 15:26, 28, 33; 16:4;21:30; 22:5; 23:12-14; 25:54; 30:20; 32:7-9;35:11; 36:77-78; 37:11; 39:6; 40:67; 49:13;55:14; 56:57-59; 75:37-40; 76:1-2; 77:20-23;80:18-19; 86:5-8; 96:2
 - akela mpe apesaki mobeko ya liloba oyo elobami, 6:2; 15:26
 - boyokani kati ya, na mwasi, 4:35
 - ba perdants oyo bawanganaki Bokutani na bango na Allah,6:31
 - bozongi, 6:60, 72, 164; 10:45-46 na likambo yango
 - ba complots contre bango moko, 6:123
 - akomema mokumba ya moto mosusu te, 6:164
-- azali na botondi te, 7:10; 11:9; 30:34, mpe 30:34; 32:9; 80:17;100:6
+- azali na botondi te, 7:10; 11:9; 30:34; 32:9; 80:17;100:6
 - akebisi na ntina ya Satana, 7:27
 - mwasi na bana, 7:189-190
-- tango mabe to mabe esimbaki, 10:12; 11:9-10;16:53-55, mpe 11:53-55; 17:67; 29:10; 30:33 mpe; 31:32; 39:8,49 mpe; 41:49-51 mpe 51; 42:48; 70:19-21; 89:16
+- tango mabe to mabe esimbaki, 10:12; 11:9-10;16:53-55; 17:67; 29:10; 30:33; 31:32; 39:8,49; 41:49-51; 42:48; 70:19-21; 89:16
 - kozonga epai ya Nkolo, 10:23; 84:6; 96:8
 - kosala bango moko mabe, 10:44
 - ezali na esengo mpe na lolendo, 11:10
@@ -867,7 +867,7 @@ Moto
 - kotatola contre ye moko, 75:14-15
 - lolendo na ye, 75:31-40; 90:5-7
 - alingaka bomoi ya lelo ya mokili oyo, 76:27
-- mpasi mingi mpo na kokela, to ezali lola,79:28
+- mpasi mingi mpo na kokela, to ezali lola, 79:28
 - kozanga bokebi na oyo etali Nkolo, 82:6-12
 - esalemi na ndenge ya kokoka pe epesami proportion oyo esengeli, 82:7
 - atambolaka uta na eteni moko kino na eteni mosusu, 84:19
@@ -879,8 +879,8 @@ Moto
 - sima ekitisami na oyo ya nse koleka, 96:5
 - abuki ndelo nyonso, 96:6-7
 Manasik (misala) ya Hajj, 2:128, 200; 22:30
-Manat, 53:20, mpe 10
-Bato, .
+Manat, 53:20
+Bato,
 - batatoli likolo, 2:143
 - lisanga moko, 2:213; 10:19
 - ekelamaki uta na mobalani moko, 4:1; 39:6; 49:13
@@ -890,7 +890,7 @@ Bato, .
 - lokumu mingi koleka, 49:13
 - esalemi na bikolo pe mabota, 49:13
 Manna na ba coquettes, 2:57
-Bizaleli, .
+Bizaleli,
 - na ntina ya kokota na bandako, 24:27-29
 - na ndako, 24:58-61
 - na bandako ya Mosakoli, 33:53
@@ -913,7 +913,7 @@ Libala, 2:232, 234
 - baye bazwaka makoki ya mosolo te mpo na libala, 24:33
 - basi oyo bapesameli nzela na Ntoma, 33:50-52
 - liboso ya kosangisa nzoto, Iddah moko te na ntina ya koboma libala, 33:49
-Ba martyrs, .
+Ba martyrs,
 - bakufi te, 2:154; 3:169
 - kosepela na Ngolu pe Boboto oyo euti na Nzambe (Allah),3:170-171
 - kozwa bolimbisi mpe ngolu, 3:157-158
@@ -937,13 +937,13 @@ Likita
 - elongo na Allah, 6:31
 - ya Mokolo Monene, 19:37
 - ya sima, 30:16
-Bamemi-nsango, 2:253; 4:164-165 mpe na 165; 40:78 mpe; 57:27
+Bamemi-nsango, 2:253; 4:164-165; 40:78; 57:27
 - bolandi ya, 2:87
 - molongo ya, 5:19; 23:44
 - babomami, 3:183
 - kobangisama, 14:13
 - basɛki bango, 6:10; 13:32; 15:11; 21:41
-- bawanganaki mpe baboyaki,3:184; 6:34;25:37;34:45, mpe 34:45; 51:52
+- bawanganaki mpe baboyaki,3:184; 6:34;25:37;34:45; 51:52
 - kondima basusu pe koboya basusu,4:150-152
 - bosangisi ya ba, 5:109
 - batindami lokola bapesi nsango ya esengo mpe bakebi,6:48; 14:4-8
@@ -963,9 +963,9 @@ Miraj, 17:1; 53:12
 Sanza, motango ya, 9:36-37
 Sanza, 7:54; 10:5; 16:12; 22:18; 25:61; 36:39-40; 71:16; 91:2
 - kokabwana ya ; 54:1
-Moize, .
-- mpe bato ba ye, 2:51-61; 7:138-141,159-162 mpe na 162; 14:5-8; 61:5
-- mpe Falo, 2:49-50; 17:101-103 mpe oyo; 20:17-53, 56-79;23:45-49,; 25:31-42; 40:23-46; 43:46-56 mpe oyo; 51:38-40 mpe oyo; 73:16;79:15-26
+Moize,
+- mpe bato ba ye, 2:51-61; 7:138-141,159-162; 14:5-8; 61:5
+- mpe Falo, 2:49-50; 17:101-103; 20:17-53, 56-79; 23:45-49; 25:31-42; 40:23-46; 43:46-56; 51:38-40; 73:16;79:15-26
 - etambwisami na Allah, 6:84
 - ngomba mpe komonana ya Nkolo, 7:142-145
 - apamelaki bato na ye mpo na losambo ya mwana-ngɔmbɛ, 7:148-156;20:83-99
@@ -976,17 +976,17 @@ Moize, .
 - bokutani ya destin na zamba oyo ezali kozika 20:9-36; 27:7-14; 28:29-35
 - babengami pe bapesaki ye Ntoma, 19:51-53;20:9-56
 - bomwana na ye, mama na ndeko na ye ya mwasi, 20:38-40;28:7-13
-- ba magiciens babongwanaki, 20:70-73; 26:46-52 na likambo yango
-- na monɔkɔ ya Madyan, 20:40; 28:22-28 , NW
+- ba magiciens babongwanaki, 20:70-73; 26:46-52
+- na monɔkɔ ya Madyan, 20:40; 28:22-28
 - apesaki Critère, 21:48
-- mpe moto ya mystique, 27:7-12; 28:29-35 , NW
+- mpe moto ya mystique, 27:7-12; 28:29-35
 - abomi Moezipito na libunga na engumba 28:14-21
 - eyaki na Ayat ya polele, 29:39
-- lisolo elongo na Farao 7:103-137; 10:75-92; 11:96-99, mpe 11:96-99; 26:10-69
-- bilembo libwa mpo na Falo na bato na ye 7:130-133; 20:17-22; 17:101 mpe
+- lisolo elongo na Farao 7:103-137; 10:75-92; 11:96-99; 26:10-69
+- bilembo libwa mpo na Falo na bato na ye 7:130-133; 20:17-22; 17:101
 - alongi ba maji ya Faraon 20:70-73; 26:46-52
 - kokima na Midian pe libala 28:22-28
-- azwi bitanda 7:142-154, 155 .
+- azwi bitanda 7:142-154, 155
 - asengi komona Allah na ngomba 7:142-145
 - ekumisami na Allah 33:69
 - Bolamu ya Allah na ba Israël 2:47-61
@@ -998,9 +998,9 @@ Mosquée (ya Quba), 9:107-108
 Ba mosquée, 2:187; 9:17-19
 - kobatela, ya Allah, 9:17-18
 Ngungi, lisese, 2:26
-Bangomba, 15:19; 16:15; 20:105-107 mpe oyo; 21:31;22:18 mpe oyo; 31:10; 42:32-33; 59:21; 73:14; 77:10,27 mpe; 81:3; 101:5
+Bangomba, 15:19; 16:15; 20:105-107 mpe oyo; 21:31;22:18; 31:10; 42:32-33; 59:21; 73:14; 77:10,27; 81:3; 101:5
 Muddaththir, oyo ezali na S.74
-Muhajir (Bato oyo bautá na mikili mosusu), 4:100; 9:100, 107, 117;22:58-59,; 24:22; 33:6; 59:8-9
+Muhajir (Bato oyo bautá na mikili mosusu), 4:100; 9:100, 107, 117;22:58-59; 24:22; 33:6; 59:8-9
 - basi, 60:10-12
 Muhammad صلى الله عليه وسلم
 - basɛki bango, 2:104; 4:46; 25:41-42; 34:78
@@ -1009,7 +1009,7 @@ Muhammad صلى الله عليه وسلم
 - a batatoli likolo ya bandimi, 2:143
 - koleka Ntoma te, 3:144
 - kosala na malembe, 3:159
-- mosala na ye, 3:164; 7:157 mpe; 36:6; 52:29; 74:1-7
+- mosala na ye, 3:164; 7:157; 36:6; 52:29; 74:1-7
 - atindami lokola bolamu monene na bandimi, 3:164
 - atindami na bosolo, 4:170
 - asali te motali, 6:107
@@ -1020,9 +1020,9 @@ Muhammad صلى الله عليه وسلم
 - oyo bafundi yo, 9:58
 - mibali oyo basalaki Ntoma mabe, mawa mpo na Bandimi, 9:61
 - kolanda kaka oyo emonisami, 10:15-16; 11:12-14; 46:9
-- maloba na ye, 11:2-4; 12:108 mpe; 34:46-50 na 50
+- maloba na ye, 11:2-4; 12:108 mpe; 34:46-50
 - Allah azali Motatoli likolo na ye, 13:43; 29:52; 46:8
-- atindami lokola motatoli, momemi nsango ya esengo mpe mokebisi, 11:2; 15:89; 26:194 mpe; 33:45 mpe; 34:28;48:8
+- atindami lokola motatoli, momemi nsango ya esengo mpe mokebisi, 11:2; 15:89; 26:194; 33:45; 34:28;48:8
 - kozala na mpasi te, 15:97; 16:127; 18:6
 - atindami mpo na kozala motatoli, 16:89; 22:78; 73:15
 - kobengisa na mayele pe na bosakoli ya bosembo, pe koswana na ndenge ya malamu koleka, 16:125
@@ -1041,7 +1041,7 @@ Muhammad صلى الله عليه وسلم
 - kaka moto, 41:6
 - atindami lokola mobateli, 42:48
 - likambo ya sika te na kati ya Bamemi-nsango, 46:9
-- litatoli uta na kati ya Bana ya Yisalaele,46:10
+- litatoli uta na kati ya Bana ya Yisalaele, 46:10
 - Bai’ah (elaka) epai na ye ezali Bai’ah (elaka) epai ya Allah, 48:10, 18
 - amonaki Gabriel, 53:4-18; 81:22-25
 - kotelemela ye te, 58:20-22
@@ -1058,9 +1058,9 @@ Muhammad صلى الله عليه وسلم
 - Ayat na oyo etali libota ya, 24:11-17; 33:28-34,50-53, 55, 59; 66:1, 3-6; 108:3
 - tala lisusu Bamemi-nsango ; Baprofeta
 Muhammad ( صلى الله عليه وسلم ), S.47
-Muhsinun (Bato oyo basalaka malamu), 2:117, 195; 4:125,128 mpe; 10:12-16; 16:128
+Muhsinun (Bato oyo basalaka malamu), 2:117, 195; 4:125,128; 10:12-16; 16:128
 - Allah alingaka ba, 3:134, 148; 5:93
-- Allah abungisaka mbano ya te, 5:85;9:120; 11:115, mpe 11:115; 18:30 na ngonga ya
+- Allah abungisaka mbano ya te, 5:85;9:120; 11:115; 18:30
 - Tozali kopesa mbano na, 12:22; 37:80, 105, 110,; 39:34;77:44
 - nsango ya esengo na, 22:37; 46:12
 - Mawa ya Allah ezali pene na, 7:56
@@ -1077,7 +1077,7 @@ Mumtahanah, oyo ezali na S.60
 Munafigun, S.63
 Bobomi, 2:178-179
 Mursalat, S.77
-Bamizilma, .
+Bamizilma,
 - ya liboso ya, 6:14, 163; 9:100 mpe; 39:12
 - Nani apesi nkombo, 22:78
 - bolimbisi mpe mbano monene mpo na baye, 33:35-36
@@ -1088,41 +1088,41 @@ Nadir, Banu-an-, (Bayuda), 59:2, 9, 13
 Nahl, S.16
 Najas (ya mbindo) 9:28
 Najm, S.53
-Najwa (Talá Sekele) .
-Bankombo, .
+Najwa (Talá Sekele)
+Bankombo,
 ya Ye oyo aleki Kitoko, 7:180
 ya Ye oyo aleki malamu, 17:110; 20:8; 59:24
 Esengeli, soki moto azali kotindama na makasi, 2:173; 6:145
 Mozalani, 4:36
 Sanza ya sika, 2:189
 Sango, ekomekama 4:83
-Kozala na motema mabe 3:180; 4:37; 17:29; 25:67;47:38 mpe oyo; 57:24; 92:8
+Kozala na motema mabe 3:180; 4:37; 17:29; 25:67;47:38; 57:24; 92:8
 Butu, (lokola elembo), mpo na kopema, 10:67
 - lokola ezipeli, 13:3; 78:10
 - kozala ya mosala, 14:32
 - Butu ya Al-Qadr (Mobeko), 44:3-4; 97:1-5
 Nisa’, S.4.
-Noa, 3:33; 4:163 mpe; 6:84; 9:70; 10:71;11:25, 32, 36, 42, 45-46, 48, 89; 17:3; 21:76; 25:37; 26:105 mpe; 29:14; 37:75 mpe; 51:46;54:9, mpe 54:9; 69:11
+Noa, 3:33; 4:163; 6:84; 9:70; 10:71;11:25, 32, 36, 42, 45-46, 48, 89; 17:3; 21:76; 25:37; 26:105; 29:14; 37:75; 51:46;54:9; 69:11
 - bafingamaki 11:38
 - Mpela (mpela makasi), 29:14
-- Sanduku mpe Mpela 7:59-69, 11:25-48; 23:23-31; 26:105-122 mpe oyo; 71:1-28
+- Sanduku mpe Mpela 7:59-69, 11:25-48; 23:23-31; 26:105-122; 71:1-28
 - mwana ya sembo te abikisami te, 11:42-48
-- mwasi oyo azali sembo te, 14:9; 17:3, 17;19:58;21:76,; 22:42; 26:105-106, nkasa 116; 33:7; 37:75,79 mpe; 38:12; 42:13; 40:5, 31; 42:13;50:12;53:52 mpe na 53:52; 57:26; 66:10; 71:1, 21, 26
+- mwasi oyo azali sembo te, 14:9; 17:3, 17;19:58;21:76,; 22:42; 26:105-106, 116; 33:7; 37:75,79; 38:12; 42:13; 40:5, 31; 42:13;50:12;53:52; 57:26; 66:10; 71:1, 21, 26
 Nuh, S.71
 Nur,S.24. Ezali na ntina mingi
-Ndai, 2:224-227; 3:77; 5:89; 6:109 mpe; 16:38, 91-92, 94; 24:22, 53; 66:2; 68:10, 39; 77:3
-Botosi, 3:132; 4:59, 64, 66, 80-81,; 5:95;18:46 mpe oyo; 24:51=52, 54, mpe 54; 47:33; 64:12
+Ndai, 2:224-227; 3:77; 5:89; 6:109; 16:38, 91-92, 94; 24:22, 53; 66:2; 68:10, 39; 77:3
+Botosi, 3:132; 4:59, 64, 66, 80-81; 5:95;18:46; 24:51=52, 54; 47:33; 64:12
 Mikumba oyo esengeli kokokisama, 5:1
-Bana,4:9; 42:49-50 na 50
+Bana,4:9; 42:49-50
 - Apesaka mobali na mwasi, oyo alingi, 42:49
 Olive, 6:141; 16:11; 23:20; 24:35; 95:1
-Bobele Mah Moko, 2:163; 6:19; 16:22, 51; 23:91;37:4,; 38:65
-Ba bitike, 2:83, 177, 215, 220; 4:2-3, 6, 8, 10, 36, 127; 6:152 mpe; 8:41; 17:34; 18:82; 59:7;76:8 mpe oyo; 89:17; 90:15; 93:6; 107:2
+Bobele Mah Moko, 2:163; 6:19; 16:22, 51; 23:91;37:4; 38:65
+Ba bitike, 2:83, 177, 215, 220; 4:2-3, 6, 8, 10, 36, 127; 6:152; 8:41; 17:34; 18:82; 59:7;76:8; 89:17; 90:15; 93:6; 107:2
 - babateli ya, 4:6
 Misala ya ye moko, esalemi lokola ya sembo na bato moko na moko, 6:108
-Mibale mibale, na bikelamu nyonso, 13:3; 30:8; 36:36;42:11 mpe oyo; 43:12; 51:9, 49; 53:45
+Mibale mibale, na bikelamu nyonso, 13:3; 30:8; 36:36; 42:11; 43:12; 51:9, 49; 53:45
 Nzete ya mbila, 13:4; 19:25; 20:71; 59:5
-Masese, (bokokani, ndakisa, bokokani) .
+Masese, (bokokani, ndakisa, bokokani)
 - oyo apelisaki moto, 2:17-18
 - mopepe makasi ya mbula uta na lola, 2:19-20
 - ngungi, 2:26
@@ -1141,16 +1141,16 @@ Masese, (bokokani, ndakisa, bokokani) .
 - bakufi miso mpe bakufi matoi, 11:24
 - Allah vs. banzambe ya lokuta 13:14; 16:76
 - bosolo vs lokuta 13:17
-- mputulu oyo mopepe ezali kopumbwa likolo na yango na nkanda,14:18
+- mputulu oyo mopepe ezali kopumbwa likolo na yango na nkanda, 14:18
 - nzete ya malamu, 14:24-25
 - nzete ya mabe, 14:26
 - moombo na moto, 16:75
-- baba oyo azali kilo mpo na nkolo na ye,16:76
+- baba oyo azali kilo mpo na nkolo na ye, 16:76
 - mwasi azali kolongolisa nsinga, 16:92
 - township, ya bokengi mpe ya malamu, 16:112-113
 - mibali mibale na bilanga ya mbuma ya vinyo, 18:32-44
-- bomoi ya mokili oyo lokola mai oyo euti na lola,18:45
-- ekweyi na lola pe epunzami na bandeke,22:31
+- bomoi ya mokili oyo lokola mai oyo euti na lola, 18:45
+- ekweyi na lola pe epunzami na bandeke, 22:31
 - mopɛpɛ moko, 22:73
 - Pole ezali lokola niche, 24:35-36
 - likambo ya kokamwa, 24:39
@@ -1170,14 +1170,14 @@ Masese, (bokokani, ndakisa, bokokani) .
 Paladiso
 - ya Bofandi, (Paradis ya Ma'wa), 53:15
 - Paradis ya Firdaus, 18:107; 23:11
-- Bilanga oyo bibale ezali koleka na nse na yango, 3:15, 198;4:57; 5:119; 7:43; 9:72; 18:31; 22:23; 39:20;57:12, mpe 57:12; 64:9; 98:8
+- Bilanga oyo bibale ezali koleka na nse na yango, 3:15, 198;4:57; 5:119; 7:43; 9:72; 18:31; 22:23; 39:20;57:12; 64:9; 98:8
 - Bilanga ya seko ('Adn Paradis) 9:72;13:23; 18:31; 19:61; 20:76
 - Bilanga ya seko ('Adn Paradis), 16:31;35:33; 98:8
 - Bilanga ya esengo, 37:43; 56:12, 89
 - Bilanga oyo ezali na bisengo ya seko, 9:21
 - Bilanga mpe bilanga ya vinyo, 78:32
 - mbuma ya bilanga mibale, 55:54, 62
-- mbuma ya ndenge na ndenge ndenge elingi, na ebele, 36:57; 37:42; 43:73 mpe; 44:55 mpe; 47:15; 55:52, 68;56:20, 29, 32, mpe 10; 77:42
+- mbuma ya ndenge na ndenge ndenge elingi, na ebele, 36:57; 37:42; 43:73; 44:55; 47:15; 55:52, 68;56:20, 29, 32; 77:42
 - mbuma ekozala penepene, 55:54; 69:23
 - mbuma mpe misuni, 52:22
 - mosuni ya bandeke, 56:21
@@ -1190,20 +1190,20 @@ Paladiso
 - ebale moko na Paradis, Kauthar, 108:1
 - bibale ya vinyo, miliki, mafuta ya nzoi oyo esili kopɛtolama, 47:15
 - vinyo ya peto oyo ekangami, ya pembe, ya elengi, 37:45-46; 56:18; 76:21; 83:25
-- kopo, esangani na, Zanjabil, 76:17; 78:34 mpe
+- kopo, esangani na, Zanjabil, 76:17; 78:34
 - mai, 76:5
 - basaani ya wolo mpe bakɔpɔ, 43:71
 - bambɛki ya palata mpe bakɔpɔ ya kristale, 76:15-16
-- bilamba ya vert ya soie ya malamu pe ya minene, 18:31;22:23; 35:33; 44:53 mpe; 76:12, 21
-- ekembisami na ba bracelets ya wolo na mayaka,18:31; 22:23; 35:33; 76:21
+- bilamba ya vert ya soie ya malamu pe ya minene, 18:31;22:23; 35:33; 44:53; 76:12, 21
+- ekembisami na ba bracelets ya wolo na mayaka, 18:31; 22:23; 35:33; 76:21
 - ba entraîneurs oyo ekangami na brocade ya soie, 55:54
 - ba coussins ya vert na ba matela kitoko ya bomengo, oyo etiamaki na molongo, 55:76; 88:15
 - bakiti ya bokonzi oyo esalemi na wolo mpe na mabanga ya ntalo, etombolami likolo 56:15; 88:13
 - ba tapis ya bomengo epalangani, 88:16
 - bandako minene ya kitoko, ba chambre ya likolo, moko likolo ya mosusu, 9:72; 39:20
-- kotikala na yango libela, 3:198; 4:57; 5:119;9:22, 72; 11:108 mpe; 43:71; 57:12; 98:8
-- ndako ya seko, 3:15; 35:35 na ntango
-- kotalana na bakiti ya bokonzi, 15:47; 37:44;44:53 mpe oyo; 56:16
+- kotikala na yango libela, 3:198; 4:57; 5:119;9:22, 72; 11:108; 43:71; 57:12; 98:8
+- ndako ya seko, 3:15; 35:35
+- kotalana na bakiti ya bokonzi, 15:47; 37:44; 44:53; 56:16
 - komeka liwa na kati ata moke te, 44:56
 - to mpe (jamais) kosenga bango batika yango, 15:48
 - koyina to liyoki ya kozoka elongolami na mitema na bango, 7:43; 15:47
@@ -1211,14 +1211,14 @@ Paladiso
 - sens ya kolɛmba, ya mosala makasi to ya kolɛmba te, 15:48;35:35
 - mpe ekozala mpasi te, mpasi ya libumu, mpasi ya motó to kolangwa masanga, 37:47; 56:19
 - koloba pamba te to maloba ya masumu te, 19:62;56:25
-- ezala maloba ya mabe to lokuta te,78:35; 88:11
+- ezala maloba ya mabe to lokuta te, 78:35; 88:11
 - kozanga masumu, 37:47; 52:23
 - ezala molunge eleki ndelo to malili ya bololo te, 76:13
 - ekozala na disposition eyebani, 37:41;56:89
 - na kimia pe na bokengi, 15:46; 44:51, 55; 50:34
 - ndako ya kimia, 6:127
-- mbote na, 7:46; 10:10; 13:24; 14:23; 16:32;19:62 mpe oyo; 36:58 mpe; 39:73 mpe; 56:26
-- oyo akosala misala ya sembo akokota,4:124; 42:22; 44:51
+- mbote na, 7:46; 10:10; 13:24; 14:23; 16:32;19:62; 36:58; 39:73; 56:26
+- oyo akosala misala ya sembo akokota, 4:124; 42:22; 44:51
 - oyo babatelaki mokumba na bango epai ya Nkolo na bango bakokambama na bituluku, 39:73
 - esalemi mpo na kozwa libula mpo na misala,43:72
 - Allah asepeli na bango pe bango na ye, 5:119
@@ -1228,38 +1228,38 @@ Paladiso
 - elonga ya likolo, 9:72; 44:57
 - mpo bandimi bazali Bilanga lokola bosepeli, 32:19
 - bavandi ya Paradis bakozala occupés na makambo ya esengo Mokolo wana, 36:35
-- ekozala na kati ya bilanga pe maziba ya mayi, 15:45; 19:63; 44:52; 52:17; 54:54 mpe 54:54; 55:46
-- tala banzelu oyo bazingaki Kiti ya Bokonzi,39:75
+- ekozala na kati ya bilanga pe maziba ya mayi, 15:45; 19:63; 44:52; 52:17; 54:54; 55:46
+- tala banzelu oyo bazingaki Kiti ya Bokonzi, 39:75
 - pene na Mokonzi ya Nguya Nyonso, 54:55
 - bakozala na nionso oyo balingi, 50:35
 - Hurs, basi ya peto na miso ya minene pe ya kitoko, lokola soki makei oyo ebatelami, 37:48-49; 44:54 mpe; 52:20; 55:58, 70; 56:22-23
 - basi ya peto, 3:15
 - basi na elili ya esengo, bafandi na bakiti ya bokonzi, 36:55
-- bilenge basi ya mabele mobimba ya mibu ekokani,78:33
+- bilenge basi ya mabele mobimba ya mibu ekokani, 78:33
 - basali ya bana mibali oyo bakufaka te mpo na kosalela bango, lokola mayaka oyo epalangani, 52:24; 56:17; 76:19
 - monene lokola lola pe mabele 3:133, 57:21
-- mayi ya kotanga, elili ya malili, biloko ya kitoko, pe baninga ya peto 2:25; 4:57; 36:55-58 mpe 58; 37:40-49, NW; 38:50-54 mpe 54; 44:51-57 oyo ezali; 52:17-24; 69:19-24; 76:5-22
+- mayi ya kotanga, elili ya malili, biloko ya kitoko, pe baninga ya peto 2:25; 4:57; 36:55-58; 37:40-49; 38:50-54; 44:51-57; 52:17-24; 69:19-24; 76:5-22
 - mbano ya bandimi 55:46-78; 56:10-40
 - bibale ya mafuta ya nzoi, miliki, mai, mpe vinyo 47:15
-- mabondeli mpe mbote 10:9-10; 39:73-74 mpe oyo
+- mabondeli mpe mbote 10:9-10; 39:73-74
 - bapesaki mbote na mbote ya kimia 13:23-24; 14:32
 - bovandi ya seko na Esengo 11:108
 - asengaki ata moke te kokende 15:45-48
 - pole ezali kongenga liboso na bango pe na loboko na bango ya mobali 57:12
 - molunge to malili te 76:13
 - ba posa nionso epesami 16:30-32; 41:31-32
-- ba bracelets ya wolo na bilamba ya soie ya bien 18:30-31; 22:23-24; 44:51-53 mpe oyo
+- ba bracelets ya wolo na bilamba ya soie ya bien 18:30-31; 22:23-24; 44:51-53
 - basaani ya bakɔpɔ ya wolo 43:67-73
 - ba mbɛki ya palata mpe mbuma oyo ekangami na esika oyo bakoki kokóma 76:14-16
 - kofanda na kiti ya bokonzi 15:47; 37:44; 52:20
 - bandimi bakomona Nkolo na bango 75:22-23
-Baboti, boboto epai na, 2:83, 215; 4:36; 16:90;17:23, mpe 17:23; 29:8; 31:14; 46:15-17
-Ba partenaires ya Allah, lokuta moko,4:116;10:34-35, 66; 16:86; 28:62-64, 71-75,; 30:40;42:21 na ntango wana
+Baboti, boboto epai na, 2:83, 215; 4:36; 16:90;17:23; 29:8; 31:14; 46:15-17
+Ba partenaires ya Allah, lokuta moko, 4:116;10:34-35, 66; 16:86; 28:62-64, 71-75; 30:40; 42:21
 Bilei ya koleisa banyama, 87:4-5
-Nzela, 5:77; 16:94; 42:52-53 mpe oyo; 43:43 mpe 43:43; 90:11-12 , NW
+Nzela, 5:77; 16:94; 42:52-53; 43:43; 90:11-12
 - tala mpe Nzela
-Motema molai, 3:186, 200; 10:109 mpe; 11:115, mpe 11:115; 16:126-127, mpe 12:126-127; 20:130 mpe; 40:55, 77; 42:43; 46:35 mpe; 70:5;73:10 na ntango wana
-- koluka lisalisi na, mpe losambo, 2:45, 153; 20:132;50:39
+Motema molai, 3:186, 200; 10:109; 11:115; 16:126-127; 20:130; 40:55, 77; 42:43; 46:35; 70:5;73:10
+- koluka lisalisi na, mpe losambo, 2:45, 153; 20:132; 50:39
 Moto ya maladi
 - akozwa mbano mobimba, 39:10
 - Allah azali na baye bazali, 8:46
@@ -1270,27 +1270,27 @@ Kimya, kopusana na, 8:61
 Liyaka mpe mabanga ya korai, ebatelami, 52:24; 55:22; 56:23
 Kalamu, 68:1; 96:4
 Moto
-- Allah azali kopesa kilo te a, koleka ndelo na ye,2:286; 7:42
+- Allah azali kopesa kilo te a, koleka ndelo na ye, 2:286; 7:42
 - Allah afuta mpako na moko te, longola se engebene na makoki na ye, 23:62
 - te, ayebi nini akozwa lobi mpe na mabele nini akokufa, 31:34
 - moto na moto, akokutana na malamu pe mabe nionso asali 3:30
-- moto na moto, akomata kobondela mpo na ye moko,16:111
-- nyonso, ezali elaka mpo na oyo azwi,74:38
+- moto na moto, akomata kobondela mpo na ye moko, 16:111
+- nyonso, ezali elaka mpo na oyo azwi, 74:38
 - Allah alapi ndayi na ba oyo bamifingi, 75:2
 Farao, 28:6; 40:24
-- bato ya, 2:49; 3:11; 7:141; 44:17-33 , NW
+- bato ya, 2:49; 3:11; 7:141; 44:17-33
 - ezindaki na mai, 2:50
-- misala na Moize, 7:103-137; 10:75-92 na likambo yango
+- misala na Moize, 7:103-137; 10:75-92
 - nzoto ekufa libanda ya mbu, 10:90-92
 - abuki ndelo koleka ndelo ; asalaki masumu mpe aboyaki kotosa, 20:24; 69:9; 73:16;85:17-20; 89:10-14
 - mwasi ya sembo, 28:8-9
 - alobi ete azali nzambe, 28:38; 79:24
 - ebebisami, 29:39
-- moto mondimi ya libota ya Falo,40:28-44
+- moto mondimi ya libota ya Falo, 40:28-44
 - kotonga ndako molai, 40:36-37
 - tala lisusu Moize
 Kotondisa biloko ya mokili, 102:1-4
-Elaka (Bai’ah), .
+Elaka (Bai’ah),
 - mpo na Islam, 16:91
 - na Ntoma ezali Bai’ah (elaka) epai ya Allah, 48:10
 - ya Bandimi, 48:18; 60:12
@@ -1299,8 +1299,8 @@ Elaka (Hipot), tika ete ezala na, 2:283
 Poɛmi, 36:69
 Bapowɛti, 26:224-227; 69:41
 Grenade, 6:141
-Babola, 2:88, 177, 215, 273; 4:8, 36; 8:41; 9:60;17:26 mpe oyo; 24:22, 32; 30:38, mpe 30:38; 47:38 mpe; 51:19; 59:7-8; 69:34 mpe; 74:44 mpe; 76:8; 89:18; 90:16; 93:8;107:3
-Libondeli, 1:1-7; 3:8, 26-27, 147, 191-194; 4:103;17:80 mpe oyo; 23:118
+Babola, 2:88, 177, 215, 273; 4:8, 36; 8:41; 9:60; 17:26; 24:22, 32; 30:38; 47:38; 51:19; 59:7-8; 69:34; 74:44; 76:8; 89:18; 90:16; 93:8;107:3
+Libondeli, 1:1-7; 3:8, 26-27, 147, 191-194; 4:103;17:80; 23:118
 - na mongongo makasi te to na mongongo ya nse te, 17:110
 - kobenga bato oyo bazangi kondima, 9:113-114
 - kobenga bato oyo bazangi kondima, 13:14
@@ -1313,29 +1313,29 @@ Libondeli, 1:1-7; 3:8, 26-27, 147, 191-194; 4:103;17:80 mpe oyo; 23:118
 - to mpe na etuka moko ya Janabah, 4:43
 - kopetola mpo na, 4:43; 5:6
 - tango esilaki na, 4:103
-- ntango ya, 11:114; 17:78-79, mpe 17:78-79; 20:130 mpe; 30:17-18;50:39-40,; 52:48-49 mpe oyo; 73:1-6, 20
+- ntango ya, 11:114; 17:78-79; 20:130; 30:17-18;50:39-40,; 52:48-49; 73:1-6, 20
 - kofukama mpo na Allah Se moko, 13:15
 Mabondeli, mokolo ya mitano, 62:9-11
 Bokebisi na likama, 4:71
 Bakangami ya bitumba, 8:67-71
 - tala mpe Bato oyo bakangami
 Elaka ya Solo, 46:16-17
-Biloko, 2:188; 3:186 mpe; 4:5, 7, 29; 51:19; 59:7-9; 70:25
-Baprofeta, 3:33-34, 146; 4:163 mpe; 5:20; 6:84-90;23:23-50 mpe na 50; 57:26
+Biloko, 2:188; 3:186; 4:5, 7, 29; 51:19; 59:7-9; 70:25
+Baprofeta, 3:33-34, 146; 4:163; 5:20; 6:84-90;23:23-50; 57:26
 - mayokani ya, 3:81; 33:7-8
 - ezali na mibeko te mpo na, 3:161
 - monguna mpo na moto nyonso, 6:112; 25:31
 - tala mpe Bamemi-nsango
 Kofukama, .
 - na Allah akweyi na kati, oyo nionso na lola pe na mabele pe ndenge moko na bilili na bango, 13:15
-Ebongiseli, 10:59; 13:26; 14:32; 16:73; 34:36,39 mpe; 42:12; 51:57, mpe 51:57; 67:21; 79:33
+Ebongiseli, 10:59; 13:26; 14:32; 16:73; 34:36,39; 42:12; 51:57; 67:21; 79:33
 Nzembo, 4:163
-Etumbu, .
+Etumbu,
 - kozongisa sima ya, 3:178
 - kokata maboko to makolo, 5:33
 - kopesa bango etumbu na oyo ekokani na oyo bonyokwamaki na yango, 16:126
 - ya bomoi oyo mpe ya sima, 24:19; 68:33
-Kopɛtola, .
+Kopɛtola,
 - na nzoto,4:43; 5:6
 - na molimo (uta na bosoto), 87:14; 91:9
 Kadar, 5:5; 64:11
@@ -1343,13 +1343,13 @@ Qadr, S.97
 Qaf, S.50
 Qalam, S.68
 Qamar, S.54
-Qari’ah, S.101, oyo ezali na kati
+Qari’ah, S.101
 Qarun (Kora), 28:76-82; 29:39
-Qasas,S.28. Ezali na ntina mingi
-Qiblah, 2:142-145, 149. Ezali na ntina mingi
-Qisas (Mobeko ya bokokani na etumbu), 2:178-179, 194; 5:45; 16:126; 17:33; 22:60;42:40 na ntango wana
+Qasas,S.28
+Qiblah, 2:142-145, 149
+Qisas (Mobeko ya bokokani na etumbu), 2:178-179, 194; 5:45; 16:126; 17:33; 22:60;42:40
 Coran, .
-- elimbolami, 13:31, 36, 37; 14:1; 56:77-80 na likambo yango
+- elimbolami, 13:31, 36, 37; 14:1; 56:77-80
 - ezali te oyo ekokaki kobimisama na moto mosusu longola se Allah, 2:23; 10:38; 11:13; 17:88
 - soki ewutaki na mosusu longola se Allah, na kati na yango ba contradictions ebele ezalaki, 4:82
 - pole moko ya polele, 4:174; 42:52
@@ -1357,14 +1357,14 @@ Coran, .
 - Allah azali Motatoli na yango, 6:19
 - elembeteli ya polele, 6:157
 - masolo ya lokuta na ntina ya Milongo ya, 6:68
-- Bokundoli moko, 7:63; 12:104 mpe; 18:101 mpe; 20:3, 99, 124; 25:29; 36:11, 69; 43:44; 50:8; 65:10;72:17
+- Bokundoli moko, 7:63; 12:104; 18:101; 20:3, 99, 124; 25:29; 36:11, 69; 43:44; 50:8; 65:10;72:17
 - tango etangami, yoka pe zala kimia, 7:204
 - Dhikr, na ngonga ya 7:205; 15:6, 9
 - Buku ya Mayele, 10:1; 31:2; 36:2
 - Nsango oyo epemamaki, 10:2, 109; 42:52
 - baye baboyi yango, 11:17
-- na monoko ya Arabe, 12:2; 13:37; 16:103 mpe; 20:113; 26:195;39:28, mpe 39:28; 41:3, 44; 42:7; 43:3; 44:58 mpe; 46:12
-- esalemi na biteni, mpe emonisami na biteni, 15:91; 17:106 mpe; 25:32; 76:23
+- na monoko ya Arabe, 12:2; 13:37; 16:103 mpe; 20:113; 26:195;39:28, mpe 39:28; 41:3, 44; 42:7; 43:3; 44:58; 46:12
+- esalemi na biteni, mpe emonisami na biteni, 15:91; 17:106; 25:32; 76:23
 - mbongwana ya Molongo moko, 16:10
 - tango olingi kotanga ba, 16:98
 - batambwisi, 17:9
@@ -1372,7 +1372,7 @@ Coran, .
 - mpe baye bazangi kondima, 17:45-47
 - botangi na ntongo ya yambo emonanaka ntango nyonso (na baanzelu), 17:78
 - kobikisa mpe ngolu, 17:82
-- elimbolami mobimba na bato, lolenge nyonso ya bokokani mpe ndakisa, kasi mingi baboyaka,17:89; 18:54, mpe 18:54; 39:27
+- elimbolami mobimba na bato, lolenge nyonso ya bokokani mpe ndakisa, kasi mingi baboyaka,17:89; 18:54; 39:27
 - pete, 19:97; 44:58 mpe; 54:17, 22, 32, 40
 - bato na ngai batikaki Coran oyo, 25:30
 - endimami na Makomi, 26:196
@@ -1398,7 +1398,7 @@ Coran, .
 - kotanga nkasa ya peto, 98:2
 - tala lisusu Buku ; Emoniseli
 Quraish, S.106
-Quraish, 1999.
+Quraish,
 - baye bandimi te, 54:43-46, 51
 - bopeto ya, 106:1-4
 Balabi mpe basango, 9:31, 34
@@ -1413,12 +1413,12 @@ Ramadan, 2:185
 Ramy, na ngonga ya 2:200
 Lisiko, .
 - te, ekozwama, 57:15
-- epesami na baye bazangi kondima, 3:91; 10:54, mpe 10:54; 13:18
+- epesami na baye bazangi kondima, 3:91; 10:54; 13:18
 Fidyah, ya mbangu, 2:196
 - mpo na kosikola bakangami, 8:67
 Rass, bafandi ya, 25:38; 50:12
 Lifuta, .
-- Mokolo ya, 1:4; 37:20; 51:12; 56:56, mpe 56:56; 82:17-18; 96:7
+- Mokolo ya, 1:4; 37:20; 51:12; 56:56; 82:17-18; 96:7
 - bawangani ya, 107:1-7
 - ya mabe ezali mabe lokola yango, 42:40
 Boyokani, .
@@ -1430,7 +1430,7 @@ Dosie
 - ekolo moko na moko ekobengama na yango, 45:28-29
 - nkasa ekomami ya misala ya moto nyonso,81:10
 - oyo elobaka bosolo, 23:62
-- na loboko ya mobali, 69:19; 84:7-9 , NW
+- na loboko ya mobali, 69:19; 84:7-9
 - na loboko ya mwasi, 69:25
 - sima ya mokɔngɔ, 84:10-15
 Kokoma baanzelu, 50:17-18, 23; 85:11
@@ -1457,7 +1457,7 @@ Koyambola, .
 - mpe ezali na ntina te, soki misala mabe mizali kokoba, 4:18
 - Andimi, pe alimbisaka masumu, 4:25
 Kopema mpo na mabe, 3:178; 10:11; 12:110; 14:42,44 mpe; 29:53-55 oyo ezali; 86:15-17
-Lisekwa, 2:28, 7:53; 14:21; 16:38-40; 22:5-7; 23:15-16; 31:28, 41:39, 46:33-34; 50:3,20-29, 41-44,; 64:7, 75:1-15, NW; 79:10-12; 86:5-8 , NW
+Lisekwa, 2:28, 7:53; 14:21; 16:38-40; 22:5-7; 23:15-16; 31:28, 41:39, 46:33-34; 50:3,20-29, 41-44,; 64:7, 75:1-15; 79:10-12; 86:5-8
 - ndakisa na lisolo ya Ezela 2:259
 - Abalayama 2:260
 - bato ya libulu 18:9-26
@@ -1474,7 +1474,7 @@ Mokolo ya Lisekwa, 7:89; 20:100-101, 124. Ezali na ntina te
 - ba échelles ya misala, 23:102-103
 - oyo asali malamu to mabe ekokani na kilo ya atome, akomona yango, 100:7-8
 - basekele nyonso ekotalelama, 86:9
-Lisolo oyo epesami na lobɔkɔ ya mobali, 69:19; 84:7-9 , NW
+Lisolo oyo epesami na lobɔkɔ ya mobali, 69:19; 84:7-9
 Likomi oyo epesami na lobɔkɔ ya mwasi, 69:25
 Record epesami sima ya mokɔngɔ, 84:10-15
 - mokolo ya mpasi, mpo na bato oyo bazangi kondima, 25:26; 54:8; 74:9
@@ -1504,7 +1504,7 @@ Record epesami sima ya mokɔngɔ, 84:10-15
 - mbu ekokoma lokola Mɔtɔ oyo ezali kopela, 81:6
 - mbu epanzani, 82:3
 - koningana ya mabele ya Ngonga, 22:1; 99:1
-- bangomba ekokende mosika, 18:47; 27:88;52:10 mpe oyo; 77:9; 78:20 mpe; 81:3
+- bangomba ekokende mosika, 18:47; 27:88;52:10; 77:9; 78:20; 81:3
 - esalemi na poudre tii na mputulu 20:105; 56:5
 - lokola biteni ya nsuki ya mpate, 70:9;101:5
 - mabele pe bangomba ekoningana makasi, 73:14; 79:6
@@ -1518,7 +1518,7 @@ Record epesami sima ya mokɔngɔ, 84:10-15
 - likolo ya mabele na bomoi sima ya liwa, 79:14
 - banyama ya zamba ekosangana esika moko, 81:5
 - atombolami na miso ekufá, 20:124-125
-- Kelelo ekobetama, 6:73; 18:99; 20:102;23:101 mpe oyo; 27:87; 36:51; 39:68; 50:20 mpe; 69:13;74:8 mpe oyo; 78:18; 79:7
+- Kelelo ekobetama, 6:73; 18:99; 20:102; 23:101; 27:87; 36:51; 39:68; 50:20; 69:13;74:8; 78:18; 79:7
 - Sakhkhah, na ngonga ya 80:33
 - milimo ekosangana na nzoto na bango,81:7
 - kotikala koleka mikolo zomi te, 20:103
@@ -1558,7 +1558,7 @@ Emoniseli, .
 - uta na Nkolo, bongo bozala te na baye bazali na ntembe, 6:114
 - mpo na bato oyo basosoli, 6:98
 - Botambwisi moko mpe Mawa, 7:203; 16:64; 31:3
-- na nzela ya Ruh-ul-Qudus, 16:102; 26:192-193 (Ntango ya 192-193).
+- na nzela ya Ruh-ul-Qudus, 16:102; 26:192-193
 - elimbolami na bozindo, 6:98; 41:2-4
 - ya Buku euti na Allah, 46:2
 - tala lisusu Buku na Coran
@@ -1585,14 +1585,14 @@ Ruh (Gabriele), 26:193; 67:12; 70:4; 78:38;97:4
 Ruh-ul-Qudus, 2:87, nkasa 253; 5:110; 16:102
 - tala lisusu Gabriel
 Ruh (molimo, elimo), 15:29; 17:85, mpe 17:85; 58:22
-Rom, S.30, mpe 10
-Saba’ (Sheba), 27:22-44; 34:15-21 , NW
+Rom, S.30
+Saba’ (Sheba), 27:22-44; 34:15-21
 Saba’, S.34
 Sabata, .
-- babuki mibeko ya, 2:65; 4:154 mpe; 7:163-166 na mokanda
+- babuki mibeko ya, 2:65; 4:154; 7:163-166
 - epesameli kaka mpo na, 16:124
 Basabia, 5:69; 22:17
-Mbeka, 2:196, 200; 22:34-37 , NW
+Mbeka, 2:196, 200; 22:34-37
 Mawa, S.38
 Sadaqah (Bolingo ya motema malamu), 2:196, 263-264, 270-271, 273; 4:114; 9:60, 75-76, 79, 103-104,; 57:18; 58:12-13
 - kobomba eleki kolakisa, 2:271
@@ -1602,11 +1602,11 @@ Saffat, S.37
 Sail Al-'Arim (mpela ebimi na barrage ya Ma'rib), 34:16
 Sajdah, S.32
 Sakina (kimya mpe kimya), 2:248;9:26, 40; 48:4, 18, 26
-Salih, 7:73-79, mpe 2019; 11:61-68 mpe 11:61-68; 26:141-159 mpe oyo; 27:45-53 mpe oyo; 91:13
+Salih, 7:73-79; 11:61-68; 26:141-159; 27:45-53; 91:13
 Salsabil (likolo ya prɛnta na Paladiso), 76:18
 Samiri, 20:85, 95-97
 Samwele, 2:247
-Satana, 2:36, 168, 208, 268, 275; 3:36, 155, 175;4:38, 60, 76, 83, 119-120,; 5:80, 91; 6:43, bato 68 142; 7:20, 22, 27, 175, 200-201,; 8:48; 16:63,98;20:120 mpe oyo; 24:21; 25:29;27:24, mpe 27:24; 41:36;58:10, 19; 82:25
+Satana, 2:36, 168, 208, 268, 275; 3:36, 155, 175; 4:38, 60, 76, 83, 119-120; 5:80, 91; 6:43, 68, 142; 7:20, 22, 27, 175, 200-201; 8:48; 16:63,98; 20:120; 24:21; 25:29;27:24; 41:36;58:10, 19; 82:25
 - esepelisaka bonguna mpe koyina, 5:91
 - maloba ya mabe oyo euti na, 7:200-201
 - akosaka, 8:48
@@ -1614,12 +1614,12 @@ Satana, 2:36, 168, 208, 268, 275; 3:36, 155, 175;4:38, 60, 76, 83, 119-120,; 5:8
 - azali na nguya te likolo ya bandimi, 16:99-100
 - abwaki lokuta, 22:52-53
 - azali monguna, 12:5; 35:6; 36:60
-- lolendo 2:34; 7:11-27; 15:26-43; 17:61-65, mpe 17:61-65; 38:73-85 mpe oyo
+- lolendo 2:34; 7:11-27; 15:26-43; 17:61-65; 38:73-85
 - jinne moko 18:50-51
-- Momekano ya Adama pe kokweya 7:20-23; 20:116-121 mpe na 121
+- Momekano ya Adama pe kokweya 7:20-23; 20:116-121
 - azali na bokonzi te likolo ya bandimi 16:98-100
 - mokano na ye 35:6-8
-- monguna oyo alapi ndai na bomoto 12:5; 17:53, mpe 17:53
+- monguna oyo alapi ndai na bomoto 12:5; 17:53
 - lingomba na ye 53:14-19
 - mosala na ye ya maboko 5:90-91
 - alembisaka misala malamu 2:268
@@ -1630,39 +1630,39 @@ Satana, 2:36, 168, 208, 268, 275; 3:36, 155, 175;4:38, 60, 76, 83, 119-120,; 5:8
 - tala pe Iblis
 Ezalela, elonga, oyo ya ye ekozala kilo, 7:8-9
 - tala pe équilibre
-Makomami, .
-- bato ba, (Bayuda na bakristu), 2:109;3:64-65, 69-72, 75, 98-99, 110, 113,199; 4:47, 153-161 mpe 161; 5:59-60, 68; 98:1
+Makomami,
+- bato ba, (Bayuda na bakristu), 2:109;3:64-65, 69-72, 75, 98-99, 110, 113,199; 4:47, 153-161; 5:59-60, 68; 98:1
 - oyo bazalaki kobomba, 5:61-63
-- kati na bango baye bazali na nzela ya malamu,5:66
+- kati na bango baye bazali na nzela ya malamu, 5:66
 - bayebi kasi bandimaka te, 6:20
 Mbu, 42:32-33; 45:12
-- mibale, 18:60; 25:53; 35:12; 55:19-20 , NW
+- mibale, 18:60; 25:53; 35:12; 55:19-20
 - tango, bazali kopasuka, 82:3
-Sekele (Najwa), .
+Sekele (Najwa),
 - masolo, 4:114
 - toli ya bato misato, 58:7
 - toli, 58:8, 10
 - boyokani ya bato, 58:12-13
-Mangomba mpe bokabwani kati na mangomba, 6:15; 23:53;30:32 mpe na 30:32; 42:13-14; 43:65 mpe; 45:17
+Mangomba mpe bokabwani kati na mangomba, 6:15; 23:53;30:32; 42:13-14; 43:65; 45:17
 Bobateli, nsima ya mpasi, Atindaki na nse,3:154
 Momboto, Nani akolisaka yango, 56:63-67
 Mayoki, 23:78
-Sambo, ekelamaki, .
+Sambo, ekelamaki
 - lola, 2:29; 23:17; 65:12; 67:3; 71:15
 - mpe ya mabele lokola kuna ya, 65:12
 Elili
 - epai ya Allah akweyi na kimia, 13:15; 16:48
 kopalangana ya, 25:45
 Shams, S.91
-Kamela-mwasi lokola elembo ya polele mpo na bato ya Thamud, 7:73; 17:59; 26:155-158 na likambo yango
-Masuwa, mobembo ya, lokola Elembo; kozala na mosala; kozala na botɔndi; mpo na koluka Bozwi na Ye, 2:164;14:32; 16:14; 17:66; 22:65; 31:31; 35:12;42:32-33 mpe na 35:12; 43:12; 45:12; 55:24
-Shu’aib, 7:85-93, mpe 2019; 11:84-95, mpe 11:84-95; 29:36-37
+Kamela-mwasi lokola elembo ya polele mpo na bato ya Thamud, 7:73; 17:59; 26:155-158
+Masuwa, mobembo ya, lokola Elembo; kozala na mosala; kozala na botɔndi; mpo na koluka Bozwi na Ye, 2:164;14:32; 16:14; 17:66; 22:65; 31:31; 35:12; 42:32-33; 43:12; 45:12; 55:24
+Shu’aib, 7:85-93; 11:84-95; 29:36-37
 Shu’ara, S.26
 Shura, S.42
 Sidrat-ul-Muntaha, na mokanda 53:14
 Kozingama ya Al-Madinah, 33:9-27
 Sijjin, 88:7-9, oyo ezali na 10
-Lisumu, 7:100; 74:43-6 , NW
+Lisumu, 7:100; 74:43-6
 - kosangisa nzoto na ndenge ya mabe, 4:15-16; 24:2, 19
 - soki eleki monene, eboyami, masumu ya mike mike elongolami, 4:31
 - bakoki kobombana na bato, kasi bakoki kobombana na Allah te, 4:108
@@ -1681,8 +1681,8 @@ Baombo, 2:177-178; 4:25, 36, 92; 5:89; 24:33; 58:3; 90:13
 - tala lisusu Bakangami ya bitumba ; Bato oyo bakangami
 Kolala, eloko ya kopema, 78:9
 Sodomo, 29:31; 37:136
-Sodome, 7:80-82, NW; 11:77-83 mpe 11:77-83; 15:61-77; 29:28-29 , NW
-Salomo, 2:102; 4:163 mpe; 6:84
+Sodome, 7:80-82; 11:77-83; 15:61-77; 29:28-29
+Salomo, 2:102; 4:163; 6:84
 - asalisaka tata na ye David akoma na bosambisi ya bosembo 21:78-82
 - mpe ba fourmis, 27:15-19
 - mpe hoopoe, 27:20-26
@@ -1690,8 +1690,8 @@ Salomo, 2:102; 4:163 mpe; 6:84
 - Bolamu ya Allah likolo na ye 34:12-14, 38:34-40
 - bolingo na ye mpo na bampunda ya malamu 38:30-33
 Mwana, mwana na ye, 33:4-5
-Molimo (elimo, Ruh), 15:29; 17:85, mpe 17:85; 58:22
-Kolekisa, na ntina ya Allah, 2:195, 215, 254, 262, 265, 267, 274; 3:92, 134; 8:3; 9:99; 13:22; 14:31;22:35 mpe oyo; 32:16;35:29 mpe oyo; 36:47; 47:38 mpe; 57:7;63:10 mpe oyo; 64:16
+Molimo (elimo, Ruh), 15:29; 17:85; 58:22
+Kolekisa, na ntina ya Allah, 2:195, 215, 254, 262, 265, 267, 274; 3:92, 134; 8:3; 9:99; 13:22; 14:31;22:35; 32:16;35:29; 36:47; 47:38; 57:7;63:10; 64:16
 - oyo eleki bamposa na yo, 2:219
 - bokokani bwa baye, bomengo bwa bango na Nzela ya Allah, 2:261
 - mpo na komonana na bato, 2:264; 4:38
@@ -1706,15 +1706,15 @@ Biloko oyo epunzami na etumba, 8:41, 69; 48:15, 19-20, NW; 48:15
 - tala mpe Booty
 Konɔnga, 49:12
 Monzoto, 53:1, 49; 86:1-4
-Minzoto, 7:54; 15:16; 16:12, 16; 22:18; 25:61;37:6-10; 56:75 mpe; 77:8; 81:2; 82:2
+Minzoto, 7:54; 15:16; 16:12, 16; 22:18; 25:61;37:6-10; 56:75; 77:8; 81:2; 82:2
 Semba, Nzela, 1:6, 7 .
 - etc. Nzela, 6:153, 154.
-- etc. Kosala makasi, 4:95; 8:72, 74, 75, NW; 9:20, 24, 81; 22:78; 25:52; 29:69:69 mpe; 47:3; 60:1; 61:11
+- etc. Kosala makasi, 4:95; 8:72, 74, 75, NW; 9:20, 24, 81; 22:78; 25:52; 29:69; 47:3; 60:1; 61:11
 Komela mabɛlɛ, liloba ya, mama oyo azali kobɔkɔla bana, 2:233
 Pasi, bobola, kobungisa bokolongono mpe makama; bomengo mpe bozwi, 7:94-96
 Moi, ngonga ya 7:54; 10:5; 14:32; 16:12; 22:18; 25:61;36:38, 40; 71:16; 81:1; 91:1
 Elonga oyo eleki monene, 9:72; 44:57
-Surah, 10:38, mpe 10:38; 11:13; 47:20
+Surah, 10:38; 11:13; 47:20
 - emoniseli na yango ebakisaka kondima, 9:124-127
 Ba soupçons, 49:12
 Bilei ya koleisa, 19:62
@@ -1735,21 +1735,21 @@ Tariq, S.86
 Tasnim (likolo ya prɛnta), 83:27-28
 Taubah, S.9
 Tawaf (kokende zingazinga ya Ka’ba), 2:200; 7:29,31
-Tayammume, 4:43, mpe 4:43; 5:6
+Tayammume, 4:43; 5:6
 Terme, ekolo nionso ezali na oyo eponamaki, te akoki ko anticiper to ko retarder yango, 7:34; 10:49;15:4-5; 16:61; 20:129
 Territoire, bokengeli ya bino, na ba unités ya armée, 3:200
 Momekano, na nzela ya Allah, 3:154; 34:21
-Thamude, 7:73-79, mpe 10; 11:61-68 mpe 11:61-68; 17:59; 25:38;26:141-159 mpe na 159; 27:45-53 mpe oyo; 29:38; 41:17; 51:43-45;54:23-31,; 69:4-8; 85:17-20 mpe oyo; 89:9-14;91:11-15, oyo ezali na kati
+Thamude, 7:73-79; 11:61-68; 17:59; 25:38;26:141-159; 27:45-53; 29:38; 41:17; 51:43-45;54:23-31,; 69:4-8; 85:17-20; 89:9-14;91:11-15
 Moyibi, etumbu, 5:38-39
 Kiti ya bokonzi, 7:54, 58; 9:129; 10:3; 13:2; 20:5;23:86, 116; 32:4; 40:15; 57:4; 85:15
 - likolo ya mayi, 11:7
 - baanzelu mwambe bazali komema, 39:75; 40:7; 69:17
 Ntango, 45:24; 76:1; 103:1
 Eteni, S.95
-Konyokwama,3:188; 6:15-16; 10:50-53 mpe na 53; 11:10;13:34 mpe oyo; 16:88; 46:20; 70:1-2
+Konyokwama,3:188; 6:15-16; 10:50-53; 11:10;13:34; 16:88; 46:20; 70:1-2
 Township, jamais Tobebisaki a, kasi ezalaki na décret eyebani pona yango, 15:4
 Mombongo mpe biloko, 4:29
-Botamboli, basalaki mobembo na mabele te, 6:11; 10:22; 12:109 mpe; 22:46; 27:69;29:20 mpe oyo; 30:9, 42; 34:18; 35:44; 40:21, 82, 47:10
+Botamboli, basalaki mobembo na mabele te, 6:11; 10:22; 12:109; 22:46; 27:69;29:20; 30:9, 42; 34:18; 35:44; 40:21, 82, 47:10
 Bokosi, 8:58; 22:38
 - tala Kotɛka
 Bomengo oyo ebombami, 9:35
@@ -1760,7 +1760,7 @@ Mimekano, 2:214-218; 64:15
 Kelelo, na Mokolo ya Lisekwa, 6:73;18:99; 20:102 mpe; 23:101 mpe; 27:87; 36:51; 39:68;50:20, mpe 50:20; 69:13; 74:8; 78:18; 79:7
 Sakhkhah,80:33
 Bondimi epesami na lola, mabele mpe bangomba, kasi esalemi na moto,33:72-73
-Ba confiance (Amanah),2:283; 4:58; 8:27; 23:8;33:72 mpe oyo; 70:32
+Ba confiance (Amanah),2:283; 4:58; 8:27; 23:8;33:72; 70:32
 Solo, 5:48; 23:70-71, 90; 25:33; 69:51
 - kosangisa na lokuta te mpe kobomba te, 2:42
 - eyei pe lokuta esili, 17:81
@@ -1770,9 +1770,9 @@ Tur (Ngomba), 28:29, 46
 Tur, S.52
 Tuwa, lobwaku ya, 20:12; 79:16
 Uhud, etumba ya, 3:121-128, 140-180
-Ummah (lisanga, ekolo), 2:143-144;10:47, 49; 11:118, mpe 11:118; 16:36, 120
-‘Umrah, 2:128, 158, 196. Ezali na ntina mingi
-Riba (Riba), 2:275-276, 278-280,; 3:130;4:161 mpe oyo; 30:39
+Ummah (lisanga, ekolo), 2:143-144; 10:47, 49; 11:118; 16:36, 120
+‘Umrah, 2:128, 158, 196
+Riba (Riba), 2:275-276, 278-280; 3:130; 4:161; 30:39
 ‘Uzaire, (tala Ezela) .
 ‘Uza, 53:19
 Voile, eloko oyo emonanaka te, 17:45-46
@@ -1783,21 +1783,21 @@ Elonga, .
 - na nzela ya lisalisi ya Allah, 61:13
 Bizaleli malamu, (tala Bosembo; Bandimi) .
 Wadd, na ngonga ya 71:23
-- "Zela yo, biso pe tozali kozela", 7:71; 9:52; 10:102 mpe; 11:122; 20:135, mpe 20:135; 44:59 mpe; 52:31
-Waqi’ah, S.56, oyo ezali na buku
+- "Zela yo, biso pe tozali kozela", 7:71; 9:52; 10:102; 11:122; 20:135; 44:59; 52:31
+Waqi’ah, S.56
 Etumba na Allah, 5:33-34
 Kobebisa te na kolekisa ndelo, 6:141; 7:31; 17:26
-Mai, ekelamu nyonso ya bomoi oyo esalemi na, 21:30;24:45; 25:54
-- mbu mibale, 18:60; 25:53; 35:12; 55:19-20 , NW
+Mai, ekelamu nyonso ya bomoi oyo esalemi na, 21:30; 24:45; 25:54
+- mbu mibale, 18:60; 25:53; 35:12; 55:19-20
 - Kiti ya bokonzi ya Allah na, 11:7
 - mbula, 23:18
-Nzela, na, 1:6; 42:52-53 mpe oyo; 90:10
+Nzela, na, 1:6; 42:52-53; 90:10
 - etc. pete, kosala pete, 87:8
 - tala mpe Nzela
-Motamboli na nzela, 2:177, 215; 8:41; 17:26; 29:29;30:38 mpe 30:38; 59:7
+Motamboli na nzela, 2:177, 215; 8:41; 17:26; 29:29;30:38; 59:7
 Bozwi
 - oyo asangisi, 104:2-4
-- kobimisa mbongo na likambo ya Allah (tala Kolekisa) .
+- kobimisa mbongo na likambo ya Allah (tala Kolekisa)
 Bomengo mpe bana, ekembisami ya bomoi ya mokili oyo, 18:46
 Kilo mpe Mesure, pesa mobimba, 11:85; 17:35;83:1-5
 Basi oyo bakufelá mibali, 2:234-235, 240
@@ -1807,13 +1807,13 @@ Mipɛpɛ, 77:1-3
 - lokola basakoli ya nsango ya esengo, 7:57; 30:46
 - kotombola mapata, kosala mayi, 15:22; 30:48
 - kokoma jaune, 30:51
-Vinyo (na Paradis) .
+Vinyo (na Paradis)
 - masanga ya peto, 37:45; 76:21
 - pembe, elengi, 37:46
 - bibale ya, 47:15
 - ekangamaki peto, 83:25
 Kolinga te makambo oyo Allah asali basusu koleka basusu, 4:32
-Batatoli, .
+Batatoli,
 - na boyokani ya Baprofeta, 3:81
 - likolo ya bato, 2:143; 22:78
 - mpo na contrat, 2:282
@@ -1823,24 +1823,24 @@ Batatoli, .
 - maboko na makolo ekopesa litatoli, 36:65
 - moto contre ye moko, 75:14
 Mokolo ya Litatoli mpe Mokolo ya Litatoli, 85:3
-Basi, .
+Basi,
 - ezali tilth mpo na yo, 2:223
 - ezipeli mpo na yo, 2:187
 - ya lolenge na yo moko, 16:72
 Mwasi, moto oyo azali kowelana, 58:1-2
-Basi, 2:222-223; 4:15, 19-22, 34, 127, NW
+Basi, 2:222-223; 4:15, 19-22, 34, 127
 - oyo bafundi bopeto, 24:4-5, 11-17, 23-26
 - kozipa ezipeli, 24:31; 33:59
 - kondima, lokola baye bawutaka na mboka mopaya, 60:10-12
 - komimonisa polele te na matata, 43:17-18
 Mabaya, bafandi ya, 15:78; 38:13; 50:14
 - tala lisusu Aikah ; Madyan 26:176-191
-Mokili, bomoi ya oyo, .
-- ezali eloko mosusu te bobele lisano mpe masano, 6:32;29:64; 47:36; 57:20
+Mokili, bomoi ya oyo,
+- ezali eloko mosusu te bobele lisano mpe masano, 6:32; 29:64; 47:36; 57:20
 - akosaka bato, 6:130
 - esengo ya, koleka oyo ya sima, 9:38; 13:26; 28:60-61 na mokanda
 - oyo alingi, akozwa kati na yango, kasi na sima eteni ekozala te na sima, 11:15-16; 17:18; 42:20
-- bomengo na bana, kokembisa ya,18:46
+- bomengo na bana, kokembisa ya 18:46
 - baye balingaka ntango ya lelo, mpe batiki sima, 75:20-21; 76:27
 Kokoma, mpo na ba contrats, 2:282
 Basali mabe,11:18-22, 101-104, 116-117;39:47
@@ -1859,11 +1859,11 @@ Yusuf (Yosefe), S.12
 Zabur, 21:105
 Zakaria (Zakariyya), 3:37-41, mpe 19:37-41; 6:85; 19:2-11; 21:89-90 (Ntango ya 21:89-90).
 Zaid Ibn Harithah, moombo ya Ntoma, 33:37-38
-Zakat, 2:3, 43, 83, 110, 177, 277,; 3:85; 4:77, 162; 5:12, 55; 6:141; 7:156 mpe; 9:5, 11, 18, 71;19:31, 55; 21:73 mpe; 22:41, 78; 23:4; 24:37, 56, 27:3, mpe 10; 30:39 mpe; 31:4; 33:33; 41:7; 58:13; 73:20;98:5
+Zakat, 2:3, 43, 83, 110, 177, 277,; 3:85; 4:77, 162; 5:12, 55; 6:141; 7:156; 9:5, 11, 18, 71;19:31, 55; 21:73; 22:41, 78; 23:4; 24:37, 56, 27:3, 10; 30:39; 31:4; 33:33; 41:7; 58:13; 73:20;98:5
 - biloko ya Zaka pe ya bolingo malamu, 2:273; 9:60
 Zanjabil, na ngonga 76:17
 Zalzalah, S.99
-Zaqqum, 17:60, mpe 17:60; 37:62-66; 44:43-46 mpe oyo; 56:52
+Zaqqum, 17:60, mpe 17:60; 37:62-66; 44:43-46; 56:52
 Zihare, 33:4; 58:2-4
 Zukhruf, S.43
 Zumar, S.39
@@ -1872,7 +1872,7 @@ Mibeko ya moboko
 - Nzela se moko oyo endimami na Allah 3:19, 85
 - kotindikama te na kondima Islam 2:256
 - lingomba moko na bondimi pe mibeko ekeseni 5:48; 22:67-70; 42:13-14
-- basakoli ya Islam 2:135-136; 3:84; 4:163-165 mpe 165
+- basakoli ya Islam 2:135-136; 3:84; 4:163-165
 - mibeko (kozala na kondima na Allah pe kosala malamu) 4:36; 6:151-154;17:23-39;18:107-108
 - mikano mitano ya Sharia : kobatela kondima 5:54
 - kobatela bomoi 5:32;6:151
@@ -1881,50 +1881,50 @@ Mibeko ya moboko
 - kobatela makoki ya moto ya kokanisa 5:90.
 Kondima na Allah 2:255
 - Bizaleli ya bonzambe, Bankombo Kitoko 57:1-6; 59:22-24; 85:13-16; 112:1-4
-- nzambe se moko oyo abongi na losambo 1:1-4; 2:285 mpe; 6:3; 43:84 mpe
+- nzambe se moko oyo abongi na losambo 1:1-4; 2:285; 6:3; 43:84
 - bokonzi nyonso ezali ya Ye 3:26; Kiti na Ye ya Bokonzi (‘Arsh) 7:54; 11:7
 - Kursi na ye (esika ya makolo to kiti) 2:255
-- ba faveurs ebele likolo ya bomoto 14:32-34; 2:164 mpe; 16:2-93; 31:20; 55:1-25
-- epesaka bomoi mpe epesaka liwa 44:8; 53:44 mpe oyo; 57:2; 67:2
+- ba faveurs ebele likolo ya bomoto 14:32-34; 2:164; 16:2-93; 31:20; 55:1-25
+- epesaka bomoi mpe epesaka liwa 44:8; 53:44; 57:2; 67:2
 - ememaka esengo pe mawa 53:43
-- apesi bibongiseli ebele to ya ndelo 13:26; 17:30 na ngonga ya 17:30; 29:62
+- apesi bibongiseli ebele to ya ndelo 13:26; 17:30; 29:62
 - Oyo eleki malamu koleka bazuzi 95:8
 - Moto ya mawa mingi koleka bato ya mawa 12:92
 - alingaka bayengebene 85:14
 - etondi na Bolimbisi pe makasi na etumbu 13:6, 40:3
 - ya Yambo mpe ya Nsuka 57:3
 - lokumu pe nguya nionso ezali ya Ye 35:10
-- ayebi oyo eyebani te pe amonaka oyo emonanaka te 6:59,73; 9:94, 105; 13:8-10; 31:34, mpe 31:34; 32:6; 34:48; 35:38; 39:46; 49:18; 59:22; 62:8; 64:18; 72:26; 74:31 mpe; 87:7
+- ayebi oyo eyebani te pe amonaka oyo emonanaka te 6:59,73; 9:94, 105; 13:8-10; 31:34; 32:6; 34:48; 35:38; 39:46; 49:18; 59:22; 62:8; 64:18; 72:26; 74:31; 87:7
 - ayebi malamu nini ebombami na motema 5:7; 11:5; 31:23
 - ayebi nini esalemaki pe nini ekoya nanu 2:255
 - akomaki nionso na kati ya Dossier (to Tablette oyo ebatelami) 6:38; 13:39; 36:12
-- makoki ya kosala eloko nyonso 2:117; 3:189 mpe; 8:41; 9:116; 11:4; 16:40; 40:68 mpe; 41:39; 42:49;57:2, mpe 57:2
-- Nguya na ye oyo ezangi nsuka 3:26-27; 24:45 mpe; 31:28-30
-- akela lola pe mabele na Mikolo motoba pe alembi ata moke te 46:33; 50:38 mpe
-- azali kokela na liloba 'Zalá!' 36:81-83 mpe oyo
-- ata moke te kozanga bosembo na bokeli na Ye 3:108; 4:40; 17:71; 21:47; 22:10; 26:209 mpe; 40:31; 41:46 mpe; 45:22; 50:29; 64:11; 78:6-16
+- makoki ya kosala eloko nyonso 2:117; 3:189; 8:41; 9:116; 11:4; 16:40; 40:68; 41:39; 42:49;57:2
+- Nguya na ye oyo ezangi nsuka 3:26-27; 24:45; 31:28-30
+- akela lola pe mabele na Mikolo motoba pe alembi ata moke te 46:33; 50:38
+- azali kokela na liloba 'Zalá!' 36:81-83
+- ata moke te kozanga bosembo na bokeli na Ye 3:108; 4:40; 17:71; 21:47; 22:10; 26:209; 40:31; 41:46 mpe; 45:22; 50:29; 64:11; 78:6-16
 - nionso emikitisi na Mokano na Ye 3:83; 22:18; 30:26
 - banso batelemi na posa na Ye 11:6; 35:15; 55:29
 - kotia motema na Ye 10:84-85; 12:67; 25:58
 - lolenge ya bosololi ya bonzambe 42:51
-- ebongi kozala na makanisi ya 2:21; 3:102 mpe; 4:1; 33:70-71 mpe oyo; 59:18
+- ebongi kozala na makanisi ya 2:21; 3:102; 4:1; 33:70-71; 59:18
 - mayele ezali likabo oyo euti na Ye 2:269
 - Azali na mposa ya moto moko te 3:97; 6:133; 112:2
 - moko te na Bosato moko 4:171
 - azali na molongani te 6:101
 - azali na bana te 10:68; 19:35; 43:81; 72:3; 112:3
-- azali na ba partenaires to ba associés-banzambe te 6:94; 7:191-195 mpe oyo; 46:4-5
+- azali na ba partenaires to ba associés-banzambe te 6:94; 7:191-195; 46:4-5
 - eloko moko te lokola Ye 42:11; 112:4
-Molongo ya kokanisa na ntina ya makamwisi ya bozalisi na Ye 3:190; 6:99; 10:5-6; 13:3-4; 16:10-16; 88:17-20, NW
+Molongo ya kokanisa na ntina ya makamwisi ya bozalisi na Ye 3:190; 6:99; 10:5-6; 13:3-4; 16:10-16; 88:17-20
 Bilembo na bozalisi 2:164; 6:95-99; 7:57-58; 10:5-6; 13:2-4; 16:10-13, 65-69, 79; 23:27-30; 27:60-65; 30:19-25; 50:6-11
-- akela nionso pona tina moko 10:5-6; 15:85; 16:3; 23:115; 29:44; 30:8; 38:27; 44:38-39 mpe oyo; 75:36
+- akela nionso pona tina moko 10:5-6; 15:85; 16:3; 23:115; 29:44; 30:8; 38:27; 44:38-39; 75:36
 - univers oyo ekokisami 67:3-4
 - esangisaka butu na butu 3:27
-- bokeseni 30:22; 35:27-28, NW
+- bokeseni 30:22; 35:27-28
 - mafuta ya nzoi 16:68-69
 - miliki 16:66
 - likabo ya bana 42:49-50
-- ba planètes na ba orbites 21:33; 36:38-44 na likambo yango
+- ba planètes na ba orbites 21:33; 36:38-44
 - bituluku ya minzoto 25:61; 85:1
 - minzoto 37:6-7; 67:5
 - mapata 7:57;30:48
@@ -1946,12 +1946,12 @@ Ba références ya science
 - moi lokola liziba ya kongenga mpe sanza lokola pole oyo ezongisami 10:5
 - sanza kokabwana 54:1
 - lola lokola lopango oyo ebatelami malamu 21:32
-- bikelamu nyonso bikelami uta na mayi 21:30; 24:45 mpe
+- bikelamu nyonso bikelami uta na mayi 21:30; 24:45
 - ba fourmis basololaka 27:17-19
 - mbonge ya kati 24:40
 Bikelamu ya bomoi
 - baanzelu 39:75
-- bato (mokonzi moko na mabele) 2:30; 6:165 mpe; 16:4
+- bato (mokonzi moko na mabele) 2:30; 6:165; 16:4
 - ba jinne 72:1-15
 - banyama bazali ya masanga lokola bato 6:38
 - mwana ya ngɔmbɛ 11:69
@@ -1980,24 +1980,24 @@ Bikelamu ya bomoi
 - ba lice na ba locus 7:133
 - araignée 29:41
 - basusu bayebani na biso te 16:8
-Milona mpe mbuma 6:99; 13:4; 16:11; 36:33-35 na likambo yango
-- banana 56:29, 29 .
-- mikolo 19:25, 26.
-- matiti, konkomɔ, ail, lentilles, mpe matungulu 2:61, 62 .
-- mbuma ya vinyo 80:28, 29 .
-- olive 6:99, 10 .
-- fig 95:1, 2 .
-- grenade 55:68, 19 .
+Milona mpe mbuma 6:99; 13:4; 16:11; 36:33-35
+- banana 56:29
+- mikolo 19:25, 26
+- matiti, konkomɔ, ail, lentilles, mpe matungulu 2:61, 62
+- mbuma ya vinyo 80:28, 29
+- olive 6:99, 10
+- fig 95:1, 2
+- grenade 55:68, 19
 - squash na 37:146
 Kondima na Muḥammad
-- Bizaleli, kaka mosakoli moko 3:144; 6:50; 7:188 mpe; 18:110 mpe oyo
+- Bizaleli, kaka mosakoli moko 3:144; 6:50; 7:188; 18:110
 - kopesa bosolo 2:119; 35:24; 42:48
 - elembo ya basakoli 33:40
 - ezaleli ya lokumu 3:159; 68:4
 - ndakisa ya ndakisa 33:21
 - lokola bolamu na bandimi 3:164
 - mawa na mokili mobimba 21:107
-- motindami ya mokili mobimba 4:170; 7:157-158 mpe 158; 34:28
+- motindami ya mokili mobimba 4:170; 7:157-158; 34:28
 - ememaka na Nzela ya Semba 42:52-53
 - azali komibanzabanza mpo na bato 9:129
 - lokola motatoli na Mokolo ya Bosambisi 4:42; 16:89
@@ -2005,14 +2005,14 @@ Kondima na Muḥammad
 - esakolamaki na Torah mpe Nsango Malamu 7:157
 - esakolamaki na Yesu 61:6
 Mikakatano oyo Ntoma ( صلى الله عليه وسلم ) azali kokutana na yango .
-- masengi ya bapakano oyo ezangi ntina 8:32; 15:7; 17:89-93, mpe 17:89-93; 25:7-8
+- masengi ya bapakano oyo ezangi ntina 8:32; 15:7; 17:89-93; 25:7-8
 - bifundeli ya lokuta 10:2; 11:13; 21:5; 24:11-26; 25:4-6; 37:36; 38:4; 52:29-30
 - ba tentatives na vie na ye 8:30; 9:74
-- kokebisa na baye bazali kosala ye mabe to kotelemela ye 4:115; 8:13; 9:61; 15:95; 33:57, mpe 33:57; 47:32; 96:9-19
-- apesameli mitindo ya koyanola na bowangani na motema molai 20:130; 30:60 mpe; 46:35 mpe; 70:5
+- kokebisa na baye bazali kosala ye mabe to kotelemela ye 4:115; 8:13; 9:61; 15:95; 33:57; 47:32; 96:9-19
+- apesameli mitindo ya koyanola na bowangani na motema molai 20:130; 30:60; 46:35; 70:5
 - epesameli mitindo endimisami na Allah 5:67; 93:1-11; 94:1-8
 Mateya na bomoi ya Ntoma ( صلى الله عليه وسلم ) .
-- kobanda na bopanzani na ye ( hijrah ) kino na Etumba ya Badr 3:121-129; 8:42-44 mpe oyo; 8:65-71
+- kobanda na bopanzani na ye ( hijrah ) kino na Etumba ya Badr 3:121-129; 8:42-44; 8:65-71
 - Etumba ya Uhud 3:151-180
 - Etumba ya Fosse 33:9-27
 - Etumba ya Hunain 9:25-27
@@ -2020,7 +2020,7 @@ Mateya na bomoi ya Ntoma ( صلى الله عليه وسلم ) .
 - Tabuki 9:38-123
 - Banu An-Naḍîr 59:2-6
 - Hamra’ Al-Asad 3:172-175
-- Trese ya Hudaibiyah 48:1-7; 48:10-29, NW
+- Trese ya Hudaibiyah 48:1-7; 48:10-29
 Lokumu oyo epesami na Ntoma ( صلى الله عليه وسلم ) .
 - Allah na ba anzelu na ye bapamboli ye 33:56
 - mobembo ya butu uta Mecque kino Yelusaleme 17:1
@@ -2036,30 +2036,30 @@ Lokumu oyo epesami na Ntoma ( صلى الله عليه وسلم ) .
 - etiquette ya kosala na basi na ye 33:53
 - Allah asepeli na ye na baninga na ye 9:100; 9:117
 - excellence ya bondimi-lisanga na ye 2:143; 3:110
-Losambo (salah) 2:45; 9:103 mpe; 51:18; 70:22-23; 75:31 mpe; 96:10 mpe; 108:2
+Losambo (salah) 2:45; 9:103; 51:18; 70:22-23; 75:31; 96:10; 108:2
 - Lisangá ya mokolo ya mitano 62:9
-- bokambi ya losambo ( qiblah) 2:144; 2:149-150 mpe oyo
+- bokambi ya losambo ( qiblah) 2:144; 2:149-150
 - esengeli kopekisa moto na misala mabe 29:45
-- mbala 11:114; 17:78; 17:79; 20:130 mpe; 24:36; 24:58; 30:17-18; 32:16; 38:18; 50:39-40 mpe oyo; 51:17; 52:48-49 mpe oyo; 73:2-4; 76:25-26
-- tango azali na likama to na mobembo 2:239; 4:101-102 mpe oyo
-- likebisi na baye bazali koboya mabondeli 19:59; 74:38-47 mpe oyo; 107:5-7
+- mbala 11:114; 17:78; 17:79; 20:130; 24:36; 24:58; 30:17-18; 32:16; 38:18; 50:39-40; 51:17; 52:48-49; 73:2-4; 76:25-26
+- tango azali na likama to na mobembo 2:239; 4:101-102
+- likebisi na baye bazali koboya mabondeli 19:59; 74:38-47; 107:5-7
 - mabondeli ya bakosi 4:142; 9:54
 Bopetoli, kosukola (wudu) 5:6
 - kosukola mobimba (ghusl) 2:222; 4:43
 - kosukola ya kokauka (tayammum) 4:43; 5:6
 Mabondeli (du'a) .
-- ya Abrahama 2:126-129; 2:126-129 mpe oyo; 14:35-41, NW; 26:83-89, mpe 26:83-89
+- ya Abrahama 2:126-129; 14:35-41; 26:83-89
 - Adam na Eva 7:23
 - Yesu 5:114
-- Yobo 21:83; 21:83 mpe 21:83
+- Yobo 21:83
 - Yona 21:87
-- Yozefe 12:33; 12:101 mpe
-- Moize 10:88-89 na 10; 20:25-35
-- Mohammed 17:80 na mokanda; 20:114
-- Noa 23:26 , NW . 26:117-118 mpe oyo; 54:9-10; 71:26; 71:28
+- Yozefe 12:33; 12:101
+- Moize 10:88-89; 20:25-35
+- Mohammed 17:80; 20:114
+- Noa 23:26; 26:117-118; 54:9-10; 71:26; 71:28
 - Salomo 38:35 na kombo ya
 - Shuaib 7:89, mpe 19:89
-- Zakaria 3:38 , NW; 19:2-6; 21:89-90
+- Zakaria 3:38; 19:2-6; 21:89-90
 - baanzelu 40:8-9
 - Mama ya Maria 3:35-36
 - Mwasi ya Falo 66:11
@@ -2067,14 +2067,14 @@ Mabondeli (du'a) .
 - Mokonzi Saulo na bandimi elongo na ye 2:250
 - bandimi ya Bana Israël 10:85-86
 - bato ya libulu 18:10
-- bayengebene 2:285-286; 3:8-9; 3:16; 3:147 mpe; 3:191-194 mpe oyo; 25:74; 59:10
+- bayengebene 2:285-286; 3:8-9; 3:16; 3:147; 3:191-194; 25:74; 59:10
 - bato oyo banyokwami 4:75
 Bavɛrsɛ ya kofukama
-- sajadat, boike ya sajdah, 7:206; 13:15; 16:49; 17:109 mpe; 19:58; 22:18; 22:77; 25:60; 27:26; 32:15; 38:24; 41:37 mpe; 53:62; 84:21; 96:19
-Mpako ya makabo (zakah), lokola mokumba 2:110; 2:177 mpe; 2:277 mpe; 6:141
+- sajadat, boike ya sajdah, 7:206; 13:15; 16:49; 17:109; 19:58; 22:18; 22:77; 25:60; 27:26; 32:15; 38:24; 41:37-38; 53:62; 84:21; 96:19
+Mpako ya makabo (zakah), lokola mokumba 2:110; 2:177; 2:277; 6:141
 - moko ya bizaleli ya bandimi 22:41; 23:4; 51:19
 - baye bazwi yango 9:60
-- bolingo malamu (sadaqah) 2:177; 2:261-263 mpe 2:261-263; 2:267-274 mpe 2:267-274; 3:92; 63:10
+- bolingo malamu (sadaqah) 2:177; 2:261-263; 2:267-274; 3:92; 63:10
 - likebisi na baye baboyi 3:180; 9:34; 47:38
 Kokila bilei (sawm) .
 - na Ramadan 2:183-185
@@ -2084,24 +2084,24 @@ Kokila bilei (sawm) .
 - kokila bilei na tango ya pèlerinage 2:196
 Pèlerinage (hajj), .
 - obligation moko ba oyo bakoki kofuta yango 3:97
-- milulu mpe mibeko 2:158; 2:189 mpe; 2:196-203 mpe na 2:196-203; 5:2; 22:26-37
+- milulu mpe mibeko 2:158; 2:189; 2:196-203; 5:2; 22:26-37
 - makabo ya mbeka 2:196; 22:36-37
 - epekiseli ya kobundisa banyama na mabele tango ozali kosala mobembo ya losambo 5:1; 5:94-95
 - ndingisa ya kobundisa banyama na mbu 5:96
 - Pèlerinage ya moke ('umrah) 2:158; 2:196
 Kondima-masanga
-- Ba musulmans 2:132-136; 3:64; 3:84; 5:111; 22:77-78; 33:35, mpe 33:35; 41:33 mpe; 43:67-70 mpe oyo; 72:14-15
+- Ba musulmans 2:132-136; 3:64; 3:84; 5:111; 22:77-78; 33:35; 41:33; 43:67-70; 72:14-15
 - babateli moko na mosusu 3:28; 9:71
-- Baklisto 2:62; 2:111-140 mpe oyo; 4:171-172 mpe oyo; 5:14-19; 5:82-86; 5:116-120 oyo ezali; 9:30-31; 22:17
+- Baklisto 2:62; 2:111-140; 4:171-172; 5:14-19; 5:82-86; 5:116-120; 9:30-31; 22:17
 - Bayuda 2:62, 111-140; 5:44-45; 6:146; 22:17; 62:6-8
-- Bana ya Yisalaele 2:40-103, 122-123, 246-251; 3:49; 3:93-94; 5:12-13, 20-26, 32, 70-71, 78-81; 7:137-141, 148-153,159-171,; 10:83-93, mpe 10:83-93; 14:5-8; 17:2-8, 104; 20:80-98 mpe 20:80-98; 26:52-67, 197, mpe 197; 27:76; 44:23-33; 45:16-17; 46:10; 61:5-6
-- Bato ya Buku (mingimingi Bayuda mpe bakristu) 2:109; 3:64-115, 199; 4:123-172 mpe oyo; 5:15-77; 6:20-21; 13:36; 28:52-55, mpe 28:52-55; 29:46-47 mpe oyo; 57:16, 28-29, NW; 74:31 mpe; 98:1-5
+- Bana ya Yisalaele 2:40-103, 122-123, 246-251; 3:49; 3:93-94; 5:12-13, 20-26, 32, 70-71, 78-81; 7:137-141, 148-153,159-171,; 10:83-93; 14:5-8; 17:2-8, 104; 20:80-98; 26:52-67, 197; 27:76; 44:23-33; 45:16-17; 46:10; 61:5-6
+- Bato ya Buku (mingimingi Bayuda mpe bakristu) 2:109; 3:64-115, 199; 4:123-172; 5:15-77; 6:20-21; 13:36; 28:52-55; 29:46-47; 57:16, 28-29; 74:31; 98:1-5
 - Ba musulmans bakoki kolia na ba niama oyo bango ba sacrifier pe kobala basi na bango 5:5
 - bilei bipekisami na Bayuda 6:146
 - Basabi 2:62; 22:17
 - Bamaji 22:17
-- ba polythéistes (bapakano, basambeli ya bikeko) 3:186; 6:148 mpe; 9:6, 17; 10:28; 16:86; 22:17; 53:19-30
-- misala ya biyambayamba ya bapakano 2:189; 5:103 mpe; 6:138-144 mpe oyo
+- ba polythéistes (bapakano, basambeli ya bikeko) 3:186; 6:148; 9:6, 17; 10:28; 16:86; 22:17; 53:19-30
+- misala ya biyambayamba ya bapakano 2:189; 5:103; 6:138-144
 - bato oyo bandimaka Nzambe te 52:35-36
 Mimeseno ya bapakano epekisami
 - kokunda bana basi na bomoi 16:58-59; 81:8-9
@@ -2141,14 +2141,14 @@ Baanzelu, .
 - mwambe bamemaki Kiti ya bokonzi ya Allah na mokolo ya bosambisi 69:17
 - babateli zomi na libwa ya Lifelo 74:26-31
 - Baanzelu ya liwa 6:93; 16:28; 32:11
-- Gabriele 2:97, mpe 1997; 66:4; 26:192-195 mpe na 195; 53:1-14
+- Gabriele 2:97; 66:4; 26:192-195; 53:1-14
 - Mikaele 2:98
 - Maliki 43:77
 Bamemi-nsango
 - kowuta na kati ya banzelu pe bato 22:75
 - Bamemi-nsango ya mokano ya makasi (Abraham, Noa, Moize, Yesu, mpe Muhammad صلى الله عليه وسلم ) 33:7; 42:13; 46:35
 Makomami
-- Coran, emoniseli oyo euti na Allah 12:2-3; 20:2-4; 26:192-195 mpe na 195; 32:2-3
+- Coran, emoniseli oyo euti na Allah 12:2-3; 20:2-4; 26:192-195; 32:2-3
 - bokundoli na mokili mobimba 68:51-52
 - azali kotambwisa na lolenge ya bomoi ya sembo koleka 17:9
 - emoniseli ebandaki na sanza ya Ramadân 2:185
@@ -2162,31 +2162,31 @@ Makomami
 - esalemi te 10:37-39
 - esalemi kopi te na Biblia 25:4-6
 - emonisami na ba zabolo te 26:210-212
-- moto moko te akoki kobimisa eloko lokola yango 17:88; 2:23-24;10:13-14, mpe na 14; 11:13
+- moto moko te akoki kobimisa eloko lokola yango 17:88; 2:23-24;10:13-14; 11:13
 - ebatelami na kanyaka 15:9
 - ebatelami na Tablette oyo ebatelami 56:75-80
 - ekoki kozala lokuta te 41:42
 - esakoli makambo oyo ekosalema na mikolo ekoya 30:1-7; 48:27
-- etindi bandimi na mayi ya miso 5:83; 17:107-109 mpe oyo
+- etindi bandimi na mayi ya miso 5:83; 17:107-109
 - esimbaka mitema 39:23
 - pole ya kongenga 4:174; 42:52
 - kobikisa pe mawa pona bandimi 17:82
-- Torah 3:3; 3:93; 5:46; 5:66-68, 110; 7:157 mpe; 9:111; 48:29; 61:6; 62:5
-- Nsango Malamu 3:3, 48; 5:46-47, 66-68, 77, 110, NW; 7:157 mpe; 9:111; 48:29; 57:27
+- Torah 3:3; 3:93; 5:46; 5:66-68, 110; 7:157; 9:111; 48:29; 61:6; 62:5
+- Nsango Malamu 3:3, 48; 5:46-47, 66-68, 77, 110; 7:157; 9:111; 48:29; 57:27
 - Nzembo 4:163; 17:55
-- Barulo ya Abraham 53:36-44; 87:14-19, NW
-Nsuka mpe nsuka 3:145; 9:51; 10:107 mpe; 11:6; 54:49; 67:30 mpe
-- kopona na bonsomi 6:148-150; 11:118-119 mpe 11:118-119; 16:93; 33:72-73; 39:41; 76:1-3; 91:1-10
+- Barulo ya Abraham 53:36-44; 87:14-19
+Nsuka mpe nsuka 3:145; 9:51; 10:107; 11:6; 54:49; 67:30
+- kopona na bonsomi 6:148-150; 11:118-119; 16:93; 33:72-73; 39:41; 76:1-3; 91:1-10
 Mokolo ya Kosambisama, .
 - kozanga bosembo te 2:281; 18:49; 40:17
-- makambo ya somo ya apocalypse 22:1-2; 27:82-84, 87; 40:18; 52:11-16; 69:13-18; 70:8-18; 73:17-18; 75:7-15; 77:8-15; 78:17-20; 79:34-36 mpe oyo; 80:33-42 mpe oyo; 81:1-14; 82:1-5; 84:1-5; 87:17-40 mpe oyo; 99:1-8; 101:1-11
-- bayengebene na bato mabe na Mokolo wana 11:105-108; 16:27-33, 84-89, NW; 18:52-53; 20:100-111 mpe 111; 25:24-29; 30:12-16; 33:63-68 mpe oyo; 39:68-75 mpe oyo; 50:20-35; 55:37-41 mpe oyo; 83:4-36
-- kosenga (shafa'ah) 2:48, 255; 6:51, 70; 10:3; 21:28; 32:4; 36:23; 39:43-44 mpe oyo; 43:86 mpe; 53:26;74:48
+- makambo ya somo ya apocalypse 22:1-2; 27:82-84, 87; 40:18; 52:11-16; 69:13-18; 70:8-18; 73:17-18; 75:7-15; 77:8-15; 78:17-20; 79:34-36 mpe oyo; 80:33-42; 81:1-14; 82:1-5; 84:1-5; 87:17-40; 99:1-8; 101:1-11
+- bayengebene na bato mabe na Mokolo wana 11:105-108; 16:27-33, 84-89; 18:52-53; 20:100-111; 25:24-29; 30:12-16; 33:63-68; 39:68-75; 50:20-35; 55:37-41; 83:4-36
+- kosenga (shafa'ah) 2:48, 255; 6:51, 70; 10:3; 21:28; 32:4; 36:23; 39:43-44; 43:86; 53:26;74:48
 Mikanda ya misala 17:13; 18:49
 - bandimi bazwaka likundoli na bango na loboko na bango ya mobali 69:19-24; 84:7-9
-- baye bazangi kondima bazuaka dossier na bango na loboko na bango ya gauche 69:25-37; 84:10-15, NW
+- baye bazangi kondima bazuaka dossier na bango na loboko na bango ya gauche 69:25-37; 84:10-15
 - eloko moko te ekobombama epai ya Allah 21:47; 40:16
-- kopesa kilo ya misala 7:8; 23:102-104 mpe oyo; 101:1-11
+- kopesa kilo ya misala 7:8; 23:102-104; 101:1-11
 - litatoli ya binama ya nzoto 41:19-24; 24:24
 - mbano ya misala ya malamu pe ya mabe 6:160; 27:89-90; 28:84
 Mitindo ya bato
@@ -2195,10 +2195,10 @@ Mitindo ya bato
 - bakosi 4:145; 57:13-15
 - bavandi ya Paradis, bandimi ya liboso 55:46-61; 56:10-26
 - bavandi ya Paradis, bato ya droite 55:62-78; 56:27-40
-- bavandi ya Lifelo, bato ya gauche 55:31-45; 56:41-56 mpe oyo
+- bavandi ya Lifelo, bato ya gauche 55:31-45; 56:41-56
 - bato na ba hauteurs 7:46-49
 Ya mbongo
-- Mabongisi ya mombongo 2:188; 2:275 mpe; 2:282-283 mpe 2:282-283; 4:29; 4:58; 6:152 mpe; 17:34-35, mpe 17:34-35; 24:36-37; 26:182 mpe; 30:39 mpe; 55:7-9; 62:9
+- Mabongisi ya mombongo 2:188; 2:275 mpe; 2:282-283 mpe 2:282-283; 4:29; 4:58; 6:152; 17:34-35, 17:34-35; 24:36-37; 26:182; 30:39; 55:7-9; 62:9
 - Ba testaments , ba testaments optionnels na ba non héritiers 2:180-183; 4:11-12
 liboso ya liwa ntango azalaki na mobembo 5:106-108
 - Kanyaka 2:188
@@ -2210,7 +2210,7 @@ liboso ya liwa ntango azalaki na mobembo 5:106-108
 - balongani mpe bandeko ya mama 4:12
 - bandeko mobimba 4:176
 - likebisi na baye bazali kotosa te 4:13-14
-- Intérêt, interdiction mpe likebisi 2:275-281; 3:130-132 mpe oyo
+- Intérêt, interdiction mpe likebisi 2:275-281; 3:130-132
 - ekómisaki litomba te 30:39
 Ya mibeko
 - mobeko ya trahison (hirabah) 5:33-34
@@ -2228,14 +2228,14 @@ Makambo ya politiki
 - ko attaquer sans discrimination te 4:94
 - kobunda mpo na mibali, basi, mpe bana oyo banyokolami 4:75
 - kobatela bisika ya losambo 22:37
-- mbano ya ba martyrs 2:154; 3:169-171, mpe 171; 9:111; 57:19
+- mbano ya ba martyrs 2:154; 3:169-171; 9:111; 57:19
 - nguya ya basoda epekisaka banguna oyo bakoki kozala 8:60
 - kopona kimia 2:192; 8:61
 - Kosala kimia kati ya bato 49:9-10
 - Bakangami ya bitumba, lisalisi 8:70; 47:4; 76:8
 Makambo ya bomoi
 - Kozwa bana na bango 33:4-5
-- Kobatela bana bitike 2:220; 4:2-10; 4:127; 6:152 mpe; 17:34
+- Kobatela bana bitike 2:220; 4:2-10; 4:127; 6:152; 17:34
 - Bobomi libala, arbitrage mpe boyokani 4:35; 4:128
 - etiquette ya koboma libala 2:229-231; 65:1-2
 - dote mpe eleko ya kozela 2:226-241; 4:19-21; 33:49; 65:1-7
@@ -2246,15 +2246,15 @@ Makambo ya bomoi
 - soki azali komelisa mwana ya mobali ya kala, 65:6
 - moboti moko te asengeli konyokwama mpo na mwana na ye 2:233
 - kopona na infirmier ya mayi 65:6
-- Kolendisa bolamu pe kopekisa mabe 3:104; 3:110; 7:157 mpe; 9:71-72; 31:17
+- Kolendisa bolamu pe kopekisa mabe 3:104; 3:110; 7:157; 9:71-72; 31:17
 - Bosembo ya bato 49:13
-- mibali na basi liboso ya Allah pe mibeko, 3:195; 4:124; 5:38; 16:97; 24:2; 40:40 mpe
+- mibali na basi liboso ya Allah pe mibeko, 3:195; 4:124; 5:38; 16:97; 24:2; 40:40
 - mibali bazali na degré ya responsabilité likolo ya basi 2:228
 - Koleisa babola, bitike, pe bakangami 76:8-9
 - Bolimbisi mpe kopekisa nkanda 3:134; 42:40
 - Kosikola baombo pe kosunga bango 4:92; 5:89; 9:60; 24:33; 58:3; 90:13
-- Kokumisa baboti ya moto ye moko 4:36; 17:23-25; 31:14-15 , NW
-- Komikitisa 17:37; 31:18-19, NW
+- Kokumisa baboti ya moto ye moko 4:36; 17:23-25; 31:14-15
+- Komikitisa 17:37; 31:18-19
 - Ndimbola ya bandoto ya Abraham 37:102
 - Ndimbola ya bandoto ya Yozefe 12:4; 12:36; 12:43
 - Ndimbola ya bandoto ya Muhammad 8:43; 48:27
@@ -2268,7 +2268,7 @@ Makambo ya bomoi
 - kolakisa na ndenge ya subtil intérêt na période ya kozela 2:235
 - Ndai 2:224-225; 16:91-92; 16:94
 - kozongisa ndai oyo ebukani 5:89
-- Motema molai na tango ya mpasi 2:45; 2:153-157 mpe oyo; 3:186 mpe; 12:18; 12:83; 16:127-128 mpe oyo; 70:5
+- Motema molai na tango ya mpasi 2:45; 2:153-157; 3:186; 12:18; 12:83; 16:127-128; 70:5
 - Ndingisa ya koya na 24:58-60
 - kokota na bandako ya bato 24:27-28
 - kokota na bisika ya bato banso 24:29
@@ -2276,7 +2276,7 @@ Makambo ya bomoi
 - limemya mpo na bato banso 49:11-12
 - etiquette ya mayangani 58:11
 - masolo ya moto ye moko 4:114; 58:9
-- Ndai 2:270; 9:75-77, mpe 9:75-77; 22:29; 76:7
+- Ndai 2:270; 9:75-77; 22:29; 76:7
 - Kobebisa mpe bozangi bokasi 7:31; 17:29; 25:67
 Masolo mosusu
 - Abele na Kaina 5:27-31
@@ -2298,13 +2298,13 @@ Masolo mosusu
 - Samiri na Ngombe ya wolo 20:83-97
 - Saulo na Samwele 2:247-251
 - Zul-Qarnain 18:83-98
-Bazabolo 2:102; 6:71; 6:112; 6:121; 7:27; 7:30; 17:27; 19:68; 19:83; 22:3-4; 23:97-98; 26:210 mpe; 37:7-10; 38:37-38, mpe 38:37-38; 67:5
+Bazabolo 2:102; 6:71; 6:112; 6:121; 7:27; 7:30; 17:27; 19:68; 19:83; 22:3-4; 23:97-98; 26:210; 37:7-10; 38:37-38; 67:5
 - bato ya zabolo na ba jinne 6:112;114:6
 - lola ebatelami na ba zabolo 15:16-18
 Ezali na mawa
 - kolanda te Mosakoli 25:27
-- kotosa Allah na Ntoma na Ye te 4:41-42; 33:64-68 mpe oyo
-- kozwa baninga mabe 25:28-29; 26:96-102 mpe oyo; 43:36-39 mpe oyo
+- kotosa Allah na Ntoma na Ye te 4:41-42; 33:64-68
+- kozwa baninga mabe 25:28-29; 26:96-102; 43:36-39
 - koboya bilembo ya Allah 6:27-30
 - kosala te mpo na sima 89:23-24
 Mabondeli ya kozanga elikya
@@ -2313,10 +2313,10 @@ Mabondeli ya kozanga elikya
 - kolongolama na Moto 40:10-12
 - mpo na bilei mpe mai 7:51-52
 - mpo na ba intercesseurs 7:52-53
-- kozala na niveau na mputulu 4:41-42; 78:40 mpe
+- kozala na niveau na mputulu 4:41-42; 78:40
 - mpo na liwa 43:74-78
 Bizaleli ya bato ya sembo
-- kotosa makoki ma Mozalisi mpe bozalisi na Ye 3:133-136; 4:36; 4:69-70; 6:151-154 mpe oyo; 8:2-4; 13:19-24; 17:23-39;18:107-108; 23:1-11; 25:63-76; 42:36-43 na likambo yango
+- kotosa makoki ma Mozalisi mpe bozalisi na Ye 3:133-136; 4:36; 4:69-70; 6:151-154; 8:2-4; 13:19-24; 17:23-39;18:107-108; 23:1-11; 25:63-76; 42:36-43
 Bizaleli ya bato mabe
 - kozanga botondi 14:34
 - moto ya nkanda 17:100
@@ -2332,17 +2332,17 @@ Masumu ya minene
 - koboma moto 6:151; 17:33
 - koboma mondimi na nko 4:93
 - moyibi 5:38
-- bokosi 7:85; 11:85 mpe; 26:182-183 mpe na 183; 83:1-6
-- lokuta 2:10; 9:77; 39:60 mpe
+- bokosi 7:85; 11:85 mpe; 26:182-183; 83:1-6
+- lokuta 2:10; 9:77; 39:60
 - kokosa na ntina ya Allah 6:93; 29:68; 61:7
-- kosangisa nzoto epekisami 2:222; 17:32; 24:2; 25:68; 29:28-30 , NW
+- kosangisa nzoto epekisami 2:222; 17:32; 24:2; 25:68; 29:28-30
 - bifundeli ya lokuta ya ekobo 24:4-5
 - lipɛngwi 2:217; 5:54
-- kolia ngulu pe biloko bisusu bipekisami (carrion, makila, etc.) 5:3; 6:145 mpe
+- kolia ngulu pe biloko bisusu bipekisami (carrion, makila, etc.) 5:3; 6:145
 - masanga mpe masano ya mbongo 5:90-91
 - koloba na nsima 49:11
 - litatoli ya lokuta 22:30
-- maji 2:102; 10:77 mpe; 20:69
+- maji 2:102; 10:77; 20:69
 Islamic months
 - 1st Muharram sacred month; fast 9th (Tasu'a) and 10th (Ashura) sunnah 9:36
 - 2nd Safar

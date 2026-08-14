@@ -2070,7 +2070,7 @@ Bittgebete (Du'a)
 - der Rechtschaffenen, 2:285-286; 3:8-9; 3:16; 3:147; 3:191-194; 25:74; 59:10
 - der Unterdrückten, 4:75
 Niederwerfungsverse
-- Sajadat, Mehrzahl von Sajdah, 7:206; 13:15; 16:49; 17:109; 19:58; 22:18; 22:77; 25:60; 27:26; 32:15; 38:24; 41:37; 53:62; 84:21; 96:19
+- Sajadat, Mehrzahl von Sajdah, 7:206; 13:15; 16:49; 17:109; 19:58; 22:18; 22:77; 25:60; 27:26; 32:15; 38:24; 41:37-38; 53:62; 84:21; 96:19
 Almosensteuer (Zakat), als Verpflichtung, 2:110; 2:177; 2:277; 6:141
 - eine der Eigenschaften der Gläubigen, 22:41; 23:4; 51:19
 - Empfänger, 9:60

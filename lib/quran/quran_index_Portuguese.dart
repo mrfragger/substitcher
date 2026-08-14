@@ -2069,7 +2069,7 @@ Súplicas (du'a)
 - os justos 2:285-286; 3:8-9; 3:16; 3:147; 3:191-194; 25:74; 59:10
 - os oprimidos 4:75
 Versículos de prostração
-- sajadat, plural de sajdah, 7:206; 13:15; 16:49; 17:109; 19:58; 22:18; 22:77; 25:60; 27:26; 32:15; 38:24; 41:37; 53:62; 84:21; 96:19
+- sajadat, plural de sajdah, 7:206; 13:15; 16:49; 17:109; 19:58; 22:18; 22:77; 25:60; 27:26; 32:15; 38:24; 41:37-38; 53:62; 84:21; 96:19
 Imposto de esmolas (zakah), como obrigação 2:110; 2:177; 2:277; 6:141
 - uma das qualidades dos crentes 22:41; 23:4; 51:19
 - destinatários 9:60

@@ -2069,7 +2069,7 @@ Supplications (du'a) (Những lời cầu xin)
 - những người ngay thẳng 2:285-286; 3:8-9; 3:16; 3:147; 3:191-194; 25:74; 59:10
 - những người bị áp bức 4:75
 Prostration verses (Các câu sấp mình)
-- sajadat, số nhiều của sajdah, 7:206; 13:15; 16:49; 17:109; 19:58; 22:18; 22:77; 25:60; 27:26; 32:15; 38:24; 41:37; 53:62; 84:21; 96:19
+- sajadat, số nhiều của sajdah, 7:206; 13:15; 16:49; 17:109; 19:58; 22:18; 22:77; 25:60; 27:26; 32:15; 38:24; 41:37-38; 53:62; 84:21; 96:19
 Alms-tax (zakah) (Thuế từ thiện), as an obligation 2:110; 2:177; 2:277; 6:141
 - một trong những phẩm chất của các tín đồ 22:41; 23:4; 51:19
 - những người nhận 9:60
