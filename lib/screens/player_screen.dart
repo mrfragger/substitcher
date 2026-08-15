@@ -2487,9 +2487,9 @@ class _PlayerScreenState extends State<PlayerScreen>
     );
   }
 
-  Future<void> _removeFromHistory(int index) async {
+  Future<void> _removeFromHistory(HistoryItem item) async {
     setState(() {
-      _history.removeAt(index);
+      _history.removeWhere((h) => h.audiobookPath == item.audiobookPath);
     });
     final prefs = await SharedPreferences.getInstance();
     await prefs.setStringList(
@@ -6669,7 +6669,7 @@ class _PlayerScreenState extends State<PlayerScreen>
         final historyIndex =
             _history.indexWhere((h) => h.audiobookPath == selectedPath);
         if (historyIndex != -1) {
-          await _removeFromHistory(historyIndex);
+          await _removeFromHistory(_history[historyIndex]);
 
           if (mounted) {
             ScaffoldMessenger.of(context).showSnackBar(
@@ -6827,7 +6827,9 @@ class _PlayerScreenState extends State<PlayerScreen>
       if (_showPanel && _panelMode == PanelMode.chapters) {
         _scrollToCurrentChapter();
       }
-
+      setState(() {
+        _showPanel = false;
+      });
       _focusNode.requestFocus();
     } catch (e, stackTrace) {
       print('Error opening audiobook: $e');
@@ -8778,9 +8780,6 @@ class _PlayerScreenState extends State<PlayerScreen>
                   getFilteredHistory: _getFilteredHistory,
                   onRemoveFromHistory: _removeFromHistory,
                   onOpenAudiobook: (path) async {
-                    setState(() {
-                      _showPanel = false;
-                    });
                     await _openAudiobook(path);
                   },
                   historyScrollController: _historyScrollController,

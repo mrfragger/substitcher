@@ -4355,4 +4355,6 @@ cmds - Commands, Exhortations, Prohibitions, Instructions
 - Seek knowledge and understanding. Read and reflect upon the Quran 96:1–5
 - Encourage feeding of the poor 107:3
 - sources: islamtees.uk by Abu Yahya Imran Rafiq article entitled A List of (Some) Instructions, Exhortations, Commands and Prohibitions in the Qur’an, beingmuslimah.org, messageinternational.org
+Quizzes 999 multiple choice questions
+
 """;

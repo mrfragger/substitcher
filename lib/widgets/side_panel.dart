@@ -64,7 +64,7 @@ class SidePanel extends StatelessWidget {
   final Function(String) onSkipChapterChanged;
   final bool Function(String) shouldSkipChapter;
   final List<HistoryItem> Function() getFilteredHistory;
-  final Function(int) onRemoveFromHistory;
+  final Function(HistoryItem) onRemoveFromHistory;
   final Function(String) onOpenAudiobook;
   final ScrollController historyScrollController;
   final Future<Map<String, dynamic>> Function(String, Duration)
@@ -990,7 +990,7 @@ class SidePanel extends StatelessWidget {
               ),
               trailing: IconButton(
                 icon: const Icon(Icons.delete, color: Colors.white54, size: 18),
-                onPressed: () => onRemoveFromHistory(index),
+                onPressed: () => onRemoveFromHistory(item),
               ),
               onTap: () => onOpenAudiobook(item.audiobookPath),
             );

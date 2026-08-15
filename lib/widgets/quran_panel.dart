@@ -935,6 +935,7 @@ class _QuranPanelState extends State<QuranPanel> {
     '=',
     'phrases',
     'cmds',
+    'quizzes',
   };
 
   String _detectScript(String word) {
@@ -2254,8 +2255,10 @@ class _QuranPanelState extends State<QuranPanel> {
                     _quickFilterChip('=ayah', '\='),
                     const SizedBox(width: 4),
                     _quickFilterChip('=phrase', 'phrases'),
-                      const SizedBox(width: 4),
-                      _quickFilterChip('cmds', 'cmds'),
+                    const SizedBox(width: 4),
+                    _quickFilterChip('cmds', 'cmds'),
+                    const SizedBox(width: 4),
+                    _quickFilterChip('Quiz', 'quizzes'),
                     const Spacer(),
                     TextButton(
                       onPressed: () => _showSurahListPopup(context),
