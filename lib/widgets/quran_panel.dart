@@ -998,6 +998,9 @@ class _QuranPanelState extends State<QuranPanel> {
   }
 
   List<QuranIndexEntry> get _filtered {
+    if (_searchQuery == 'quizzes') {
+      return widget.entries.where((e) => e.topic.contains('{{{')).toList();
+    }
     if (_searchQuery.isEmpty && _excludeQuery.isEmpty) return widget.entries;
     final result = <QuranIndexEntry>[];
     String? currentMainTopic;
@@ -1035,6 +1038,47 @@ class _QuranPanelState extends State<QuranPanel> {
       }
     }
     return result;
+  }
+
+  final Map<String, bool> _revealedQuizWords = {};
+
+  String _maskWord(String word) {
+    if (word.length <= 2) return word;
+    return word[0] + ('_' * (word.length - 2)) + word[word.length - 1];
+  }
+
+  String _maskPhrase(String phrase) => phrase.split(' ').map(_maskWord).join(' ');
+
+  List<TextSpan> _quizStyledSpans(String topic, TextStyle baseStyle, int globalIndex) {
+    final pattern = RegExp(r'\{\{\{(.*?)\}\}\}');
+    final maskedStyle = baseStyle.copyWith(
+        color: Colors.amber, fontWeight: FontWeight.bold, letterSpacing: 1);
+    final revealedStyle =
+        baseStyle.copyWith(color: Colors.greenAccent, fontWeight: FontWeight.bold);
+
+    final spans = <TextSpan>[];
+    int cursor = 0;
+    int wordIdx = 0;
+    for (final m in pattern.allMatches(topic)) {
+      if (m.start > cursor) {
+        spans.addAll(_colorParensAndAllah(topic.substring(cursor, m.start), baseStyle));
+      }
+      final phrase = m.group(1)!;
+      final key = '$globalIndex:$wordIdx';
+      wordIdx++;
+      final isRevealed = _revealedQuizWords[key] ?? false;
+      spans.add(TextSpan(
+        text: isRevealed ? phrase : _maskPhrase(phrase),
+        style: isRevealed ? revealedStyle : maskedStyle,
+        recognizer: TapGestureRecognizer()
+          ..onTap = () => setState(() => _revealedQuizWords[key] = !isRevealed),
+      ));
+      cursor = m.end;
+    }
+    if (cursor < topic.length) {
+      spans.addAll(_colorParensAndAllah(topic.substring(cursor), baseStyle));
+    }
+    return spans;
   }
 
   bool _isActiveRef(QuranVerseRef ref) {
@@ -2006,7 +2050,10 @@ class _QuranPanelState extends State<QuranPanel> {
     return result;
   }
 
-  List<TextSpan> _styledTopicSpans(String topic, TextStyle style) {
+  List<TextSpan> _styledTopicSpans(String topic, TextStyle style, [int globalIndex = -1]) {
+    if (topic.contains('{{{')) {
+      return _quizStyledSpans(topic, style, globalIndex);
+    }
     final base = _colorParensAndAllah(topic, style);
     return _shouldHighlightTopicSearch
         ? _highlightQuery(base, _searchQuery)
@@ -2670,6 +2717,7 @@ class _QuranPanelState extends State<QuranPanel> {
                                                                   ? FontWeight.normal
                                                                   : FontWeight.w600,
                                                         ),
+                                                        globalIndex,
                                                       ),
                                                     ),
                                                   ),

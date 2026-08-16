@@ -3592,4 +3592,12 @@ cmds - Commands, Exhortations, Prohibitions, Instructions
 - No ignoren ni rechacen al necesitado 93:10
 - Busquen conocimiento y entendimiento. Lean y reflexionen sobre el Corán 96:1–5
 - Promuevan la alimentación de los pobres 107:3
+Quizzes guess missing words in phrases from Mokhtasar tafsir
+- también conocida como Umm Al-Quran ({{{Madre}}} del Corán) 1:0
+- Él es el Señor de todo, su Creador y su Administrador. Al-Ālamūn ({{{mundos}}}) es el plural de Al-'Ālam ({{{mundo}}}) y se refiere a todo lo que existe aparte de Al-lah. 1:2
+- El “Día del Juicio” es el Día de la Retribución y del {{{Ajuste de cuentas}}}. 1:4
+- A Ti solo Te adoramos en todas las formas de adoración y {{{obediencia}}}, y no {{{asociamos}}} a nadie contigo. Buscamos ayuda en todos nuestros asuntos solo de Ti, pues toda virtud Te pertenece, y no hay {{{auxiliador}}} fuera de Ti. 1:5
+- [Y no nos guíes] por el camino de aquellos que han merecido Tu {{{ira}}} después de reconocer la Verdad y no seguirla (es decir, los judíos), ni por el de aquellos que se extraviaron por ser {{{negligentes}}} en la búsqueda de la Verdad y en dejarse guiar por ella (es decir, los cristianos). 1:7
+- La Surah Al-Baqarah se llama el Capítulo de la Vaca debido a la mención de la historia sobre la vaca de los hijos de Israel. El nombre de la surah señala la necesidad de {{{apresurarse}}} a aplicar la ley de Al-lah y evitar {{{dilatar}}} como hicieron los judíos. 2:0
+- Este es el Corán Majestuoso en el que no hay nada de {{{duda}}}, ni en cuanto a su {{{origen}}} ni en cuanto a sus palabras y significado. 2:2
 """;

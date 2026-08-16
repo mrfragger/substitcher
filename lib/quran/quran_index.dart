@@ -4355,6 +4355,12 @@ cmds - Commands, Exhortations, Prohibitions, Instructions
 - Seek knowledge and understanding. Read and reflect upon the Quran 96:1–5
 - Encourage feeding of the poor 107:3
 - sources: islamtees.uk by Abu Yahya Imran Rafiq article entitled A List of (Some) Instructions, Exhortations, Commands and Prohibitions in the Qur’an, beingmuslimah.org, messageinternational.org
-Quizzes 999 multiple choice questions
-
+Quizzes guess missing words in phrases from Mokhtasar tafsir
+- also referred to as Umm Al-Quran ({{{Mother}}} of the Quran) 1:0
+- He is the Lord of everything, its Creator, and its Manager. Al-Ālamūn ({{{worlds}}}) is the plural of Al-'Ālam ({{{world}}}) and refers to all in existence other than Allah. 1:2
+- The “Day of Judgment” is the Day of Recompense and {{{Reckoning}}}. 1:4
+- We single You out alone in all forms of worship and {{{obedience}}}, and we do not {{{associate}}} anyone with You. We seek help in all of our affairs from You alone, for all virtue belongs with You, and there is no {{{helper}}} other than You. 1:5
+- [And do not guide us] to the path of those who have earned Your {{{anger}}} after recognizing the Truth and not following it (i.e., the Jews) and not of those who went astray for being {{{neglectful}}} in seeking the Truth and being guided by it (i.e., the Christians).
+- Surah Al-Baqarah is called the Chapter of the Cow because of the mention of the story about the Israelites' cow. The surah's name points to the necessity of {{{hastening}}} to apply Allah's law and avoid {{{stalling}}} as the Jews did. 2:0
+- This is the Mighty Quran in which there is nothing of {{{doubt}}}, neither in terms of its {{{origin}}} nor in terms of its words and meaning. 2:2
 """;
