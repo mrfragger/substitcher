@@ -109,6 +109,7 @@ class _QuranPanelState extends State<QuranPanel> {
   static int? _lastTafsirIndex;
   static List<Map<String, dynamic>> _tafsirResults = [];
   static List<String> _tafsirRefHistory = [];
+  static List<String> _verseRefHistory = [];
   static const Map<String, List<String>> _allahByLanguage = {
     'Arabic': [
       'بالله',
@@ -1300,74 +1301,94 @@ class _QuranPanelState extends State<QuranPanel> {
   }
 
   void _playRefFromInput(BuildContext context) async {
-    String text = _refInputController.text.trim();
-    if (text.isEmpty) {
-      final clipboardData = await Clipboard.getData(Clipboard.kTextPlain);
-      text = clipboardData?.text?.trim() ?? '';
-    }
-    if (text.isEmpty) return;
-
-    text = text.replaceAll(RegExp(r'[(){}\[\]]'), '');
-    final normalized = text
-        .replaceAll(RegExp(r'\s*:\s*'), ':')
-        .replaceAll(RegExp(r'\s*-\s*'), '-');
-
-    final match =
-        RegExp(r'^(\d+):(\d+)(?:-(\d+))?$').firstMatch(normalized.trim());
-    if (match == null) {
-      ScaffoldMessenger.of(context).showSnackBar(
-        SnackBar(
-            content: Text('Could not parse: "$text"'),
-            duration: const Duration(seconds: 2)),
-      );
-      return;
-    }
-
-    final surah = int.parse(match.group(1)!);
-    final fromAyah = int.parse(match.group(2)!);
-    int? toAyah = match.group(3) != null ? int.parse(match.group(3)!) : null;
-
-    if (toAyah != null && toAyah < fromAyah) {
-      final fromStr = fromAyah.toString();
-      final toStr = toAyah.toString();
-      if (toStr.length < fromStr.length) {
-        final prefix = fromStr.substring(0, fromStr.length - toStr.length);
-        toAyah = int.tryParse(prefix + toStr) ?? toAyah;
+      String text = _refInputController.text.trim();
+      if (text.isEmpty) {
+        final clipboardData = await Clipboard.getData(Clipboard.kTextPlain);
+        text = clipboardData?.text?.trim() ?? '';
       }
+      if (text.isEmpty) return;
+
+      text = text.replaceAll(RegExp(r'[(){}\[\]]'), '');
+      final normalized = text
+          .replaceAll(RegExp(r'\s*:\s*'), ':')
+          .replaceAll(RegExp(r'\s*-\s*'), '-');
+
+      final match =
+          RegExp(r'^(\d+):(\d+)(?:-(\d+))?$').firstMatch(normalized.trim());
+      if (match == null) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+              content: Text('Could not parse: "$text"'),
+              duration: const Duration(seconds: 2)),
+        );
+        return;
+      }
+
+      final surah = int.parse(match.group(1)!);
+      final fromAyah = int.parse(match.group(2)!);
+      int? toAyah = match.group(3) != null ? int.parse(match.group(3)!) : null;
+
+      if (toAyah != null && toAyah < fromAyah) {
+        final fromStr = fromAyah.toString();
+        final toStr = toAyah.toString();
+        if (toStr.length < fromStr.length) {
+          final prefix = fromStr.substring(0, fromStr.length - toStr.length);
+          toAyah = int.tryParse(prefix + toStr) ?? toAyah;
+        }
+      }
+
+      if (surah < 1 || surah > 114) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          const SnackBar(
+              content: Text('Invalid surah number'),
+              duration: Duration(seconds: 2)),
+        );
+        return;
+      }
+      final maxAyah = quranVerseCounts[surah];
+      if (fromAyah < 1 || fromAyah > maxAyah) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+              content: Text('Surah $surah only has $maxAyah verses'),
+              duration: const Duration(seconds: 2)),
+        );
+        return;
+      }
+      if (toAyah != null && (toAyah < fromAyah || toAyah > maxAyah)) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+              content: Text('Invalid range: Surah $surah has $maxAyah verses'),
+              duration: const Duration(seconds: 2)),
+        );
+        return;
+      }
+
+      final ref = QuranVerseRef(
+          surah: surah, fromAyah: fromAyah, toAyah: toAyah, isFullSurah: false);
+      _recordVerseHistory(ref);
+      _refInputController.clear();
+      widget.onVerseSelected(ref, 0);
+      _refInputFocusNode.requestFocus();
     }
 
-    if (surah < 1 || surah > 114) {
-      ScaffoldMessenger.of(context).showSnackBar(
-        const SnackBar(
-            content: Text('Invalid surah number'),
-            duration: Duration(seconds: 2)),
-      );
-      return;
-    }
-    final maxAyah = quranVerseCounts[surah];
-    if (fromAyah < 1 || fromAyah > maxAyah) {
-      ScaffoldMessenger.of(context).showSnackBar(
-        SnackBar(
-            content: Text('Surah $surah only has $maxAyah verses'),
-            duration: const Duration(seconds: 2)),
-      );
-      return;
-    }
-    if (toAyah != null && (toAyah < fromAyah || toAyah > maxAyah)) {
-      ScaffoldMessenger.of(context).showSnackBar(
-        SnackBar(
-            content: Text('Invalid range: Surah $surah has $maxAyah verses'),
-            duration: const Duration(seconds: 2)),
-      );
-      return;
+    String _formatVerseRefLabel(QuranVerseRef ref) {
+      if (ref.isFullSurah) return '${ref.surah}';
+      if (ref.toAyah != null && ref.toAyah != ref.fromAyah) {
+        return '${ref.surah}:${ref.fromAyah}-${ref.toAyah}';
+      }
+      return '${ref.surah}:${ref.fromAyah}';
     }
 
-    final ref = QuranVerseRef(
-        surah: surah, fromAyah: fromAyah, toAyah: toAyah, isFullSurah: false);
-    _refInputController.clear();
-    widget.onVerseSelected(ref, 0);
-    _refInputFocusNode.requestFocus();
-  }
+    void _recordVerseHistory(QuranVerseRef ref) {
+      final label = _formatVerseRefLabel(ref);
+      setState(() {
+        _verseRefHistory.remove(label);
+        _verseRefHistory.insert(0, label);
+        if (_verseRefHistory.length > 20) {
+          _verseRefHistory.removeRange(20, _verseRefHistory.length);
+        }
+      });
+    }
 
   _TafsirRange? _parseTafsirRef(BuildContext context, String raw) {
     final text = raw.trim().replaceAll(RegExp(r'[(){}\[\]]'), '');
@@ -1724,6 +1745,73 @@ class _QuranPanelState extends State<QuranPanel> {
     _lookupTafsir(context);
   }
 
+  Widget _buildVerseRefHistoryButton() {
+    final hasHistory = _verseRefHistory.isNotEmpty;
+    return Builder(
+      builder: (btnContext) {
+        return Tooltip(
+          message: hasHistory ? 'Recent references' : 'No recent references yet',
+          child: InkWell(
+            onTap: hasHistory ? () => _showVerseRefHistoryMenu(btnContext) : null,
+            borderRadius: BorderRadius.circular(4),
+            child: Container(
+              width: 20,
+              height: 28,
+              alignment: Alignment.center,
+              decoration: BoxDecoration(
+                color: Colors.black26,
+                borderRadius: BorderRadius.circular(4),
+                border: Border.all(
+                  color: Colors.deepPurple.withAlpha(hasHistory ? 160 : 40),
+                ),
+              ),
+              child: Icon(
+                Icons.arrow_left,
+                size: 18,
+                color: hasHistory ? Colors.deepPurple[200] : Colors.white24,
+              ),
+            ),
+          ),
+        );
+      },
+    );
+  }
+
+  void _showVerseRefHistoryMenu(BuildContext context) {
+    final RenderBox button = context.findRenderObject() as RenderBox;
+    final RenderBox overlay =
+        Overlay.of(context).context.findRenderObject() as RenderBox;
+    final position = RelativeRect.fromRect(
+      Rect.fromPoints(
+        button.localToGlobal(Offset(0, button.size.height), ancestor: overlay),
+        button.localToGlobal(button.size.bottomRight(Offset.zero), ancestor: overlay),
+      ),
+      Offset.zero & overlay.size,
+    );
+
+    showMenu<String>(
+      context: context,
+      position: position,
+      color: const Color(0xFF2A2A2A),
+      constraints: const BoxConstraints(minWidth: 100, maxWidth: 150),
+      items: [
+        for (final ref in _verseRefHistory)
+          PopupMenuItem<String>(
+            value: ref,
+            height: 32,
+            child: Text(ref, style: const TextStyle(color: Colors.white, fontSize: 13)),
+          ),
+      ],
+    ).then((selected) {
+      if (selected != null) {
+        _refInputController.text = selected;
+        _refInputController.selection =
+            TextSelection.fromPosition(TextPosition(offset: selected.length));
+        _refInputFocusNode.requestFocus();
+      }
+    });
+  }
+
   List<TextSpan> _highlightQuery(List<TextSpan> spans, String query) {
     final terms = query
         .trim()
@@ -1980,6 +2068,7 @@ class _QuranPanelState extends State<QuranPanel> {
                                   toAyah: quranVerseCounts[s.number],
                                   isFullSurah: true,
                                 );
+                                _recordVerseHistory(ref);
                                 widget.onVerseSelected(ref, 0);
                               }
                             : null,
@@ -2265,12 +2354,9 @@ class _QuranPanelState extends State<QuranPanel> {
                 padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 4),
                 child: Row(
                   children: [
-                    Text('${filtered.length} topics',
+                    Text('${filtered.length}',
                         style: const TextStyle(color: Colors.white38, fontSize: 12)),
-                    const SizedBox(width: 10),
-                    const Text('*vtt',
-                        style: TextStyle(color: Colors.white38, fontSize: 12)),
-                    const SizedBox(width: 4),
+                    const SizedBox(width: 6),
                     Tooltip(
                       message: '* no vtt - csv needs to be downloadable on quranenc.com for an available vtt'
                           '${widget.isQuranLoaded ? '\n⇧Q = next ayah' : ''}',
@@ -2280,8 +2366,19 @@ class _QuranPanelState extends State<QuranPanel> {
                         color: const Color(0xFF2A2A2A),
                         borderRadius: BorderRadius.circular(6),
                       ),
-                      child: const Icon(Icons.info_outline, color: Colors.white38, size: 14),
+                      child: Row(
+                        mainAxisSize: MainAxisSize.min,
+                        children: [
+                          const Text('*',
+                              style: TextStyle(color: Colors.white38, fontSize: 12)),
+                          const SizedBox(width: 2),
+                          const Icon(Icons.info_outline, color: Colors.white38, size: 14),
+                        ],
+                      ),
                     ),
+                    const SizedBox(width: 8),
+                    _buildVerseRefHistoryButton(),
+                    const SizedBox(width: 2),
                     SizedBox(
                       width: 120,
                       height: 28,
@@ -2616,6 +2713,7 @@ class _QuranPanelState extends State<QuranPanel> {
                                             child: GestureDetector(
                                               onTap: () {
                                                 if (widget.isQuranLoaded) {
+                                                  _recordVerseHistory(ref);
                                                   widget.onVerseSelected(ref, index);
                                                   _refInputFocusNode.requestFocus();
                                                 } else {
