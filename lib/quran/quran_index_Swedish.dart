@@ -2691,7 +2691,7 @@ Rub (1/8)
 - Rub 239 94:1-8; 95:1-8; 96:1-19; 97:1-5; 98:1-8; 99:1-8; 100:1-8
 - Rub 240 100:9-11; 101:1-11; 102:1-8; 103:1-3; 104:1-9; 105:1-5; 106:1-4; 107:1-7; 108:1-3; 109:1-6; 110:1-3; 111:1-5; 112:1-4; 113:1-5; 114:1-6
 The 99 Names of Allah
-- #0 Best of Names 7:180; 20:8; 59:24
+- #0 Best of Names 7:180; 17:110; 20:8; 59:22-24
 - #1 Ar Rahmaan     Den barmhärtige, Den välgörande, Den oändligt gode 1:3; 17:110
 - #2 Ar Raheem      Den nåderike, Den mest nåderike 2:163; 3:31; 4:100; 5:3
 - #3 Al Malik       Konungen, Suveränen, Den högste herren 20:114; 23:116; 59:23; 62:1
