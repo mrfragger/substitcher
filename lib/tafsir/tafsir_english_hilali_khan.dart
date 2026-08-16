@@ -1,4 +1,4 @@
-const Map<int, String> _hilaliKhan = {
+const Map<int, String> _hilali = {
   1001: "In the Name of Allâh, the Most Gracious, the Most Merciful",
   1002: "All the praises and thanks be to Allâh, the Lord[1] of the ‘Âlamîn (mankind, jinn and all that exists).[2] \\n\\nFootnotes: [1] (V.1:2) Lord: The actual word used in the Qur’ân is Rabb There is no proper equivalent for Rabb in English language. It means the One and the Only Lord for all the universe, its Creator, Owner, Organizer, Provider, Master, Planner, Sustainer, Cherisher, and Giver of security. Rabb is also one of the Names of Allâh. We have used the word \"Lord\" as the nearest to Rabb . All occurrences of \"Lord\" in the interpretation of the meanings of the Noble Qur’ân actually mean Rabb and should be understood as such.\n[2] (V.1:2). Narrated Abu Sa‘îd bin Al-Mu‘alla: While I was praying in the mosque, Allâh’s Messenger صلى الله عليه وسلم called me but I did not respond to him. Later I said, \"O Allâh’s Messenger, I was praying.\" He said, \"Didn’t Allâh say - Answer Allâh (by obeying Him) and His Messenger when he صلى الله عليه وسلم calls you.\" (V.8:24). He then said to me, \"I will teach you a Sûrah which is the greatest Sû rah in the Qur’ân, before you leave the mosque.\" Then he got hold of my hand, and when he intended to leave (the mosque), I said to him, \"Didn’t you say to me, \"I will teach you a Sûrah which is the greatest Sûrah in the Qur’an?\" He said, \" Al-Hamdu lillahi Rabbil-‘âlamîn [i.e. all the praises and thanks be to Allâh, the Lord of the ‘Âlamîn (mankind, jinn and all that exists)], Sûrat Al-Fâtihah which is As-Sab‘ Al-Mathâni (i.e. the seven repeatedly recited Verses) and the Grand Qur’ân which has been given to me.\" (Sahih Al-Bukhâri, Vol.6, Hadîth No. 1).",
   1003: "The Most Gracious, the Most Merciful.",
@@ -6230,4 +6230,4 @@ const Map<int, String> _hilaliKhan = {
   114006: "\"Of jinn and men.\"",
 };
 
-String? getTafsirHilaliKhan(int surah, int ayah) => _hilaliKhan[surah * 1000 + ayah];
+String? getTafsirHilali(int surah, int ayah) => _hilali[surah * 1000 + ayah];

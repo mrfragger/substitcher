@@ -92,11 +92,11 @@ class _QuranPanelState extends State<QuranPanel> {
   static bool _hadeethExpanded = false;
   static bool _tafsirExpanded = false;
   static bool _tafsirMokhtasar = true;
-  static bool _tafsirHilaliKhan = false;
+  static bool _tafsirHilali = false;
   static bool _tafsirRowwadEnglish = false;
   static bool _tafsirNoorEnglish = false;
   static bool _tafsirYacobEnglish = false;
-  static bool _tafsirIbnKathir = false;
+  static bool _tafsirKathir = false;
   static bool _tafsirSaadi = false;
   static bool _tafsirMoyassar = false;
   static bool _tafsirBaghawi = false;
@@ -108,6 +108,7 @@ class _QuranPanelState extends State<QuranPanel> {
   static QuranVerseRef? _lastTafsirRef;
   static int? _lastTafsirIndex;
   static List<Map<String, dynamic>> _tafsirResults = [];
+  static List<String> _tafsirRefHistory = [];
   static const Map<String, List<String>> _allahByLanguage = {
     'Arabic': [
       'بالله',
@@ -1085,6 +1086,73 @@ class _QuranPanelState extends State<QuranPanel> {
     }
   }
 
+  Widget _buildRefHistoryButton() {
+    final hasHistory = _tafsirRefHistory.isNotEmpty;
+    return Builder(
+      builder: (btnContext) {
+        return Tooltip(
+          message: hasHistory ? 'Recent references' : 'No recent references yet',
+          child: InkWell(
+            onTap: hasHistory ? () => _showRefHistoryMenu(btnContext) : null,
+            borderRadius: BorderRadius.circular(4),
+            child: Container(
+              width: 24,
+              height: 32,
+              alignment: Alignment.center,
+              decoration: BoxDecoration(
+                color: Colors.black26,
+                borderRadius: BorderRadius.circular(4),
+                border: Border.all(
+                  color: Colors.teal.withAlpha(hasHistory ? 160 : 40),
+                ),
+              ),
+              child: Icon(
+                Icons.arrow_left,
+                size: 20,
+                color: hasHistory ? Colors.teal : Colors.white24,
+              ),
+            ),
+          ),
+        );
+      },
+    );
+  }
+
+  void _showRefHistoryMenu(BuildContext context) {
+    final RenderBox button = context.findRenderObject() as RenderBox;
+    final RenderBox overlay =
+        Overlay.of(context).context.findRenderObject() as RenderBox;
+    final position = RelativeRect.fromRect(
+      Rect.fromPoints(
+        button.localToGlobal(Offset(0, button.size.height), ancestor: overlay),
+        button.localToGlobal(button.size.bottomRight(Offset.zero), ancestor: overlay),
+      ),
+      Offset.zero & overlay.size,
+    );
+
+    showMenu<String>(
+      context: context,
+      position: position,
+      color: const Color(0xFF2A2A2A),
+      constraints: const BoxConstraints(minWidth: 110, maxWidth: 170),
+      items: [
+        for (final ref in _tafsirRefHistory)
+          PopupMenuItem<String>(
+            value: ref,
+            height: 32,
+            child: Text(ref, style: const TextStyle(color: Colors.white, fontSize: 13)),
+          ),
+      ],
+    ).then((selected) {
+      if (selected != null) {
+        _tafsirRefController.text = selected;
+        _tafsirRefController.selection =
+            TextSelection.fromPosition(TextPosition(offset: selected.length));
+        _tafsirRefFocusNode.requestFocus();
+      }
+    });
+  }
+
   Widget _buildPlayAllChip(List<QuranVerseRef> refs, int index) {
     final playableRefs = refs.map((r) {
       if (r.isFullSurah) {
@@ -1366,6 +1434,12 @@ class _QuranPanelState extends State<QuranPanel> {
 
     final results = <Map<String, dynamic>>[];
 
+    String _formatRefLabel(_TafsirRange range) {
+      if (range.from == 0) return '${range.surah}';
+      if (range.to > range.from) return '${range.surah}:${range.from}-${range.to}';
+      return '${range.surah}:${range.from}';
+    }
+
     for (int ayah = range.from; ayah <= range.to; ayah++) {
       if (_tafsirMokhtasar) {
         final text = getTafsirMokhtasarForLanguage(
@@ -1379,11 +1453,11 @@ class _QuranPanelState extends State<QuranPanel> {
           });
         }
       }
-      if (_tafsirHilaliKhan) {
-        final text = getTafsirHilaliKhan(range.surah, ayah);
+      if (_tafsirHilali) {
+        final text = getTafsirHilali(range.surah, ayah);
         if (text != null && text.isNotEmpty) {
           results.add({
-            'source': 'Hilali-Khan',
+            'source': 'Hilali',
             'surah': range.surah,
             'ayah': ayah,
             'text': text
@@ -1423,11 +1497,11 @@ class _QuranPanelState extends State<QuranPanel> {
           });
         }
       }
-      if (_tafsirIbnKathir) {
-        final text = getTafsirIbnKathirEnglish(range.surah, ayah);
+      if (_tafsirKathir) {
+        final text = getTafsirKathirEnglish(range.surah, ayah);
         if (text != null && text.isNotEmpty) {
           results.add({
-            'source': 'IbnKathir',
+            'source': 'Kathir',
             'surah': range.surah,
             'ayah': ayah,
             'text': text
@@ -1513,7 +1587,15 @@ class _QuranPanelState extends State<QuranPanel> {
       }
     }
 
-    setState(() => _tafsirResults = results);
+    final label = _formatRefLabel(range);
+    setState(() {
+      _tafsirResults = results;
+      _tafsirRefHistory.remove(label);
+      _tafsirRefHistory.insert(0, label);
+      if (_tafsirRefHistory.length > 20) {
+        _tafsirRefHistory.removeRange(20, _tafsirRefHistory.length);
+      }
+    });
     WidgetsBinding.instance.addPostFrameCallback((_) {
       if (_tafsirScrollController.hasClients) {
         _tafsirScrollController.jumpTo(0);
@@ -1553,10 +1635,10 @@ class _QuranPanelState extends State<QuranPanel> {
           }
         }
         if (ayah == 0) continue;
-        if (_tafsirHilaliKhan) {
-          final text = getTafsirHilaliKhan(surah, ayah);
+        if (_tafsirHilali) {
+          final text = getTafsirHilali(surah, ayah);
           if (matches(text)) {
-            results.add({'source': 'Hilali-Khan', 'surah': surah, 'ayah': ayah, 'text': text!});
+            results.add({'source': 'Hilali', 'surah': surah, 'ayah': ayah, 'text': text!});
           }
         }
         if (_tafsirRowwadEnglish) {
@@ -1577,10 +1659,10 @@ class _QuranPanelState extends State<QuranPanel> {
             results.add({'source': 'Yacob', 'surah': surah, 'ayah': ayah, 'text': text!});
           }
         }
-        if (_tafsirIbnKathir) {
-          final text = getTafsirIbnKathirEnglish(surah, ayah);
+        if (_tafsirKathir) {
+          final text = getTafsirKathirEnglish(surah, ayah);
           if (matches(text)) {
-            results.add({'source': 'IbnKathir', 'surah': surah, 'ayah': ayah, 'text': text!});
+            results.add({'source': 'Kathir', 'surah': surah, 'ayah': ayah, 'text': text!});
           }
         }
         if (_tafsirMoyassar) {
@@ -2757,47 +2839,49 @@ class _QuranPanelState extends State<QuranPanel> {
                         onSubmitted: _searchTafsirText,
                       ),
                     )
-                  else
-                    SizedBox(
-                      width: 180,
-                      height: 32,
-                      child: TextField(
-                        controller: _tafsirRefController,
-                        focusNode: _tafsirRefFocusNode,
-                        style: const TextStyle(color: Colors.white, fontSize: 12),
-                        decoration: InputDecoration(
-                          hintText: '2:255 or 2:1-5',
-                          hintStyle: const TextStyle(
-                              color: Colors.white24, fontSize: 12),
-                          filled: true,
-                          fillColor: Colors.black26,
-                          border: OutlineInputBorder(
-                            borderRadius: BorderRadius.circular(4),
-                            borderSide:
-                                BorderSide(color: Colors.teal.withAlpha(160)),
+                    else
+                      Row(
+                        mainAxisSize: MainAxisSize.min,
+                        children: [
+                          _buildRefHistoryButton(),
+                          const SizedBox(width: 4),
+                          SizedBox(
+                            width: 180,
+                            height: 32,
+                            child: TextField(
+                              controller: _tafsirRefController,
+                              focusNode: _tafsirRefFocusNode,
+                              style: const TextStyle(color: Colors.white, fontSize: 12),
+                              decoration: InputDecoration(
+                                hintText: '2:255 or 2:1-5',
+                                hintStyle: const TextStyle(color: Colors.white24, fontSize: 12),
+                                filled: true,
+                                fillColor: Colors.black26,
+                                border: OutlineInputBorder(
+                                  borderRadius: BorderRadius.circular(4),
+                                  borderSide: BorderSide(color: Colors.teal.withAlpha(160)),
+                                ),
+                                enabledBorder: OutlineInputBorder(
+                                  borderRadius: BorderRadius.circular(4),
+                                  borderSide: BorderSide(color: Colors.teal.withAlpha(80)),
+                                ),
+                                focusedBorder: OutlineInputBorder(
+                                  borderRadius: BorderRadius.circular(4),
+                                  borderSide: const BorderSide(color: Colors.teal),
+                                ),
+                                contentPadding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+                                suffixIcon: IconButton(
+                                  icon: const Icon(Icons.search, color: Colors.teal, size: 16),
+                                  padding: EdgeInsets.zero,
+                                  constraints: const BoxConstraints(),
+                                  onPressed: () => _lookupTafsir(context),
+                                ),
+                              ),
+                              onSubmitted: (_) => _lookupTafsir(context),
+                            ),
                           ),
-                          enabledBorder: OutlineInputBorder(
-                            borderRadius: BorderRadius.circular(4),
-                            borderSide:
-                                BorderSide(color: Colors.teal.withAlpha(80)),
-                          ),
-                          focusedBorder: OutlineInputBorder(
-                            borderRadius: BorderRadius.circular(4),
-                            borderSide: const BorderSide(color: Colors.teal),
-                          ),
-                          contentPadding: const EdgeInsets.symmetric(
-                              horizontal: 8, vertical: 4),
-                          suffixIcon: IconButton(
-                            icon: const Icon(Icons.search,
-                                color: Colors.teal, size: 16),
-                            padding: EdgeInsets.zero,
-                            constraints: const BoxConstraints(),
-                            onPressed: () => _lookupTafsir(context),
-                          ),
-                        ),
-                        onSubmitted: (_) => _lookupTafsir(context),
+                        ],
                       ),
-                    ),
                   const SizedBox(width: 8),
                   _tafsirCheckbox('Mokhtasar', _tafsirMokhtasar, (v) {
                     setState(() => _tafsirMokhtasar = v ?? false);
@@ -2825,8 +2909,8 @@ class _QuranPanelState extends State<QuranPanel> {
                       },
                     ),
                     const SizedBox(width: 12),
-                    _tafsirCheckbox('Hilali-Khan', _tafsirHilaliKhan, (v) {
-                      setState(() => _tafsirHilaliKhan = v ?? false);
+                    _tafsirCheckbox('Hilali', _tafsirHilali, (v) {
+                      setState(() => _tafsirHilali = v ?? false);
                     }, Colors.greenAccent),
                     const SizedBox(width: 12),
                     _tafsirCheckbox('Rowwad', _tafsirRowwadEnglish, (v) {
@@ -2841,8 +2925,8 @@ class _QuranPanelState extends State<QuranPanel> {
                       setState(() => _tafsirYacobEnglish = v ?? false);
                     }, Colors.purpleAccent),
                     const SizedBox(width: 12),
-                    _tafsirCheckbox('IbnKathir', _tafsirIbnKathir, (v) {
-                      setState(() => _tafsirIbnKathir = v ?? false);
+                    _tafsirCheckbox('Kathir', _tafsirKathir, (v) {
+                      setState(() => _tafsirKathir = v ?? false);
                     }, Colors.brown),
                     const SizedBox(width: 6),
                     _selectAllCheckbox(
@@ -2941,11 +3025,11 @@ class _QuranPanelState extends State<QuranPanel> {
         _tafsirKatheer;
 
     bool get _allEnglishTafsirsSelected =>
-        _tafsirHilaliKhan &&
+        _tafsirHilali &&
         _tafsirRowwadEnglish &&
         _tafsirNoorEnglish &&
         _tafsirYacobEnglish &&
-        _tafsirIbnKathir;
+        _tafsirKathir;
 
     void _toggleAllArabicTafsirs(bool? value) {
       final v = value ?? false;
@@ -2963,11 +3047,11 @@ class _QuranPanelState extends State<QuranPanel> {
     void _toggleAllEnglishTafsirs(bool? value) {
       final v = value ?? false;
       setState(() {
-        _tafsirHilaliKhan = v;
+        _tafsirHilali = v;
         _tafsirRowwadEnglish = v;
         _tafsirNoorEnglish = v;
         _tafsirYacobEnglish = v;
-        _tafsirIbnKathir = v;
+        _tafsirKathir = v;
       });
     }
 
@@ -3026,7 +3110,7 @@ class _QuranPanelState extends State<QuranPanel> {
         'Rowwad' => Colors.orangeAccent,
         'Noor' => Colors.redAccent,
         'Yacob' => Colors.purpleAccent,
-        'IbnKathir' => Colors.brown,
+        'Kathir' => Colors.brown,
         'Moyassar' => Colors.pinkAccent,
         'Saadi' => Colors.amber,
         'Yaseer' => Colors.tealAccent,
