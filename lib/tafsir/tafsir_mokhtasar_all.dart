@@ -1,6 +1,6 @@
 import 'tafsir_mokhtasar_english.dart';
 import 'tafsir_mokhtasar_afar.dart';
-import 'tafsir_mokhtasar_akan.dart';
+import 'tafsir_mokhtasar_akanasante.dart';
 import 'tafsir_mokhtasar_albanian.dart';
 import 'tafsir_mokhtasar_amharic.dart';
 import 'tafsir_mokhtasar_arabic.dart';
@@ -47,7 +47,7 @@ import 'tafsir_mokhtasar_vietnamese.dart';
 const List<String> mokhtasarLanguages = [
   'English',
   'Afar',
-  'Akan Asante',
+  'AkanAsante',
   'Albanian',
   'Amharic',
   'Arabic',
@@ -95,8 +95,8 @@ const List<String> mokhtasarLanguages = [
 String? getTafsirMokhtasarForLanguage(String language, int surah, int ayah) {
   switch (language) {
     case 'Afar':       return getTafsirMokhtasarAfar(surah, ayah);
-    case 'Akan Asante':       return getTafsirMokhtasarAkan(surah, ayah);
-    case 'Albanian':    return getTafsirMokhtasarAlbanian(surah, ayah);
+    case 'AkanAsante': return getTafsirMokhtasarAkanAsante(surah, ayah);
+    case 'Albanian':   return getTafsirMokhtasarAlbanian(surah, ayah);
     case 'Amharic':    return getTafsirMokhtasarAmharic(surah, ayah);
     case 'Arabic':     return getTafsirMokhtasarArabic(surah, ayah);
     case 'Assamese':   return getTafsirMokhtasarAssamese(surah, ayah);

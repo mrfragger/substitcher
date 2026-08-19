@@ -2,7 +2,7 @@ import 'quran_index_Afar.dart';
 import 'quran_index_Albanian.dart';
 import 'quran_index_Amharic.dart';
 import 'quran_index_Arabic.dart';
-import 'quran_index_AsanteTwi.dart';
+import 'quran_index_AkanAsante.dart';
 import 'quran_index_Assamese.dart';
 import 'quran_index_Azerbaijani.dart';
 import 'quran_index_Belarusian.dart';
@@ -23,7 +23,7 @@ import 'quran_index_Dagbani.dart';
 import 'quran_index_Dutch.dart';
 import 'quran_index_Finnish.dart';
 import 'quran_index_French.dart';
-import 'quran_index_Fula.dart';
+import 'quran_index_Fulani.dart';
 import 'quran_index_Georgian.dart';
 import 'quran_index_German.dart';
 import 'quran_index_Greek.dart';
@@ -451,7 +451,7 @@ const List<String> availableQuranIndexLanguages = [
   'Albanian',
   'Amharic',
   'Arabic',
-  'AsanteTwi',
+  'AkanAsante',
   'Assamese',
   'Azerbaijani',
   'Belarusian',
@@ -472,7 +472,7 @@ const List<String> availableQuranIndexLanguages = [
   'Dutch',
   'Finnish *',
   'French',
-  'Fula',
+  'Fulani',
   'Georgian *',
   'German',
   'Greek',
@@ -551,8 +551,8 @@ String getQuranIndexRaw(String language) {
       return quranIndexAmharicRaw;
     case 'Arabic':
       return quranIndexArabicRaw;
-    case 'AsanteTwi':
-      return quranIndexAsanteTwiRaw;
+    case 'AkanAsante':
+      return quranIndexAkanAsanteRaw;
     case 'Assamese':
       return quranIndexAssameseRaw;
     case 'Azerbaijani':
@@ -593,8 +593,8 @@ String getQuranIndexRaw(String language) {
       return quranIndexFinnishRaw;
     case 'French':
       return quranIndexFrenchRaw;
-    case 'Fula':
-      return quranIndexFulaRaw;
+    case 'Fulani':
+      return quranIndexFulaniRaw;
     case 'Georgian *':
       return quranIndexGeorgianRaw;
     case 'German':
@@ -736,6 +736,9 @@ const String quranIndexRaw = r"""
 Manzil Prayers (dua) 1:1-7; 2:1-5, 163, 255-257, 284-286; 3:18, 26-27; 7:54-56, 117-122; 17:110-111; 23:115-118; 37:1-11; 55:33-40; 59:21-24; 72:1-4; 109:1-6; 112:1-4; 113:1-5; 114:1-6
 Our Lord Prayers (Rabbana dua)  2:127-128, 201, 250, 286; 3:8-9, 16, 53, 147, 191-194; 5:83, 114; 7:23, 47, 89, 126, 155; 10:85-88; 11:47; 12:101; 14:38-41; 17:80; 18:10; 20:114; 23:109, 118; 25:65-66, 74; 28:24; 40:7-9; 59:10; 60:4-7; 66:8
 My Lord Prayers (Rabbi dua) 3:38; 12:33; 14:35-36; 19:3-6; 20:25-28, 45, 114; 21:83, 87, 89; 23:26, 29, 93-94, 97-98; 26:83-87, 169; 27:19; 28:16-17, 21; 29:30; 37:100; 38:35, 41; 46:15, 71:26-28
+Most-cited target ayahs in tafsirs 2:255; 5:54; 6:91; 6:96; 7:54; 7:143; 10:96; 16:36; 17:1; 17:44; 18:47; 18:49; 26:214; 30:27; 31:24; 40:51; 40:60; 52:21; 54:55; 56:89
+Most-connected source ayahs in tafsirs 1:6; 3:103; 14:13-17; 26:24; 36:30; 39:22; 43:81-89; 50:1
+top 50 most frequently quoted verses in the Hilali-Khan translation 2:2, 22, 27, 42, 83, 105, 112, 135, 190-191, 193, 196, 219, 252, 256, 275, 278; 3:55, 73, 85, 91, 103, 116, 130, 134, 164, 173; 4:86, 135, 145; 5:66, 90; 6:61, 93, 97, 101, 158; 7:180, 187; 9:111, 120-121; 13:28; 17:45, 97
 Aaron (Harun) 2:248; 4:163; 6:84; 7:122, 142; 10:75; 19:28, 53; 20:30, 70, 90, 92; 21:48; 23:45; 25:35; 26:13, 48; 28:34; 37:114, 120
 'Abasa, S.80; 74:22
 Ablutions (Wudu), 4:43; 5:6
@@ -4355,12 +4358,55 @@ cmds - Commands, Exhortations, Prohibitions, Instructions
 - Seek knowledge and understanding. Read and reflect upon the Quran 96:1–5
 - Encourage feeding of the poor 107:3
 - sources: islamtees.uk by Abu Yahya Imran Rafiq article entitled A List of (Some) Instructions, Exhortations, Commands and Prohibitions in the Qur’an, beingmuslimah.org, messageinternational.org
-Quizzes guess missing words in phrases from Mokhtasar tafsir
+Quizzes
 - also referred to as Umm Al-Quran ({{{Mother}}} of the Quran) 1:0
 - He is the Lord of everything, its Creator, and its Manager. Al-Ālamūn ({{{worlds}}}) is the plural of Al-'Ālam ({{{world}}}) and refers to all in existence other than Allah. 1:2
 - The “Day of Judgment” is the Day of Recompense and {{{Reckoning}}}. 1:4
 - We single You out alone in all forms of worship and {{{obedience}}}, and we do not {{{associate}}} anyone with You. We seek help in all of our affairs from You alone, for all virtue belongs with You, and there is no {{{helper}}} other than You. 1:5
-- [And do not guide us] to the path of those who have earned Your {{{anger}}} after recognizing the Truth and not following it (i.e., the Jews) and not of those who went astray for being {{{neglectful}}} in seeking the Truth and being guided by it (i.e., the Christians).
+- [And do not guide us] to the path of those who have earned Your {{{anger}}} after recognizing the Truth and not following it (i.e., the Jews) and not of those who went astray for being {{{neglectful}}} in seeking the Truth and being guided by it (i.e., the Christians). 1:7
 - Surah Al-Baqarah is called the Chapter of the Cow because of the mention of the story about the Israelites' cow. The surah's name points to the necessity of {{{hastening}}} to apply Allah's law and avoid {{{stalling}}} as the Jews did. 2:0
 - This is the Mighty Quran in which there is nothing of {{{doubt}}}, neither in terms of its {{{origin}}} nor in terms of its words and meaning. 2:2
+- And they spend from that which Allah provided them as obligatory {{{alms}}} (Zakat) or {{{voluntary charity}}} (Ṣadaqah), hoping for Allah's reward. 2:4
+- Those upon whom the decree of Allah to disbelieve manifested will continue in their misguidance and {{{stubbornness}}}, so whether you warn them or not, it's the same. 2:6
+- He describes the characteristics of the {{{hypocrites}}} who are inwardly corrupt and appear outwardly sound to people 2:8
+- This is because their hearts contain uncertainty, so Allah increases their {{{doubtfulness}}} by adding further hesitation to their uncertainty; hence, the punishment befits the crime. 2:10
+- But when they are alone with their leaders, they assert with steadfastness, 'We are actually with you and upon your path, but we only agree with the believers as a form of {{{mockery}}} and sarcasm.' 2:14
+- They are {{{deaf}}}: unable to hear or accept the truth. They are {{{dumb}}}: unable to speak the truth. They are {{{blind}}}: unable to see the truth. Because of this, they do not turn back from their misguidance. 2:18
+- In the example of the rainstorm, all they receive is {{{terror}}} and panic from the thunder and lightning. Such are the hypocrites who see nothing in Islam except {{{difficulty}}} and harshness. 2:20
+- They will be given fruits with the same name and shape, so they recognize and desire them, but they will be different in {{{taste}}} and {{{flavor}}}. 2:25
+- He does not misguide anyone except those who {{{deserve}}} misguidance. They are those who stray far from obedience to Him, such as the {{{hypocrites}}}. 2:26
+- Iblis refused, objecting to Allah's command to prostrate, and out of {{{arrogance}}} towards Adam, causing him to become among the unfaithful. 2:34
+- Ask for help in all of your religious and worldly affairs through {{{patience}}} and prayer, which bring you close to Allah and allow you to reach Him so that He will help you, {{{protect}}} you, and take away anything harmful from you. Verily, prayer is a hardship except for those who {{{humble}}} themselves before their Lord. 2:45
+- And remember that the forty nights appointed to Moses were from Allah's blessings, in which the revelation of the Torah, with its light and {{{guidance}}}, was completed. Yet you went and worshipped the {{{calf}}} during that period, becoming transgressors through your actions. 2:51
+- And remember from these blessings was Allah granting you the ability to repent after worshipping the calf, when Moses (peace be upon him) told you: You have wronged yourselves by taking the calf as a {{{deity}}} and worshipping it. 2:54
+- They sacrificed the cow after almost not having done so due to their arguing and {{{stubbornness}}}. 2:71
+- The states of these hearts never change, whereas {{{rocks}}} change and transform. Verily, there are {{{rocks}}} from which rivers burst forth, and some of them split, and {{{water}}} comes out of them, gushing and flowing through the earth, from which people and animals benefit. Some of them fall from the tallest of mountains out of fear of Allah and awe. 2:74
+- Misery and great suffering await those who {{{write}}} the scripture with their own {{{hands}}} and then falsely allege that it comes from Allah. 2:79
+- How can you believe in parts of the Torah (like the obligation to pay ransom for captives) and {{{reject}}} other parts (prohibitions regarding spilling blood and forcing people out of their homes)? For those among you who do that, only {{{humiliation}}} and disgrace await you in this life and the most severe torment in the Hereafter. Allah is not unaware of what you do. Rather, He is fully aware of it, and He will {{{recompense}}} you accordingly. 2:85
+- They are the people who exchange the Hereafter for {{{worldly}}} life, preferring that which is {{{temporary}}} to that which is {{{eternal}}}. As a result, their punishment will not be lightened in the Hereafter, and they will have no one to help them on that day. 2:86
+- Yet why is it, O Israelites, that whenever a messenger from Allah comes to you with something that does not correspond to your {{{whims}}}, you become {{{arrogant}}} towards the truth, looking down on the messengers of Allah, rejecting some amongst them, and killing others? 2:87
+- And your prophet Moses brought clear signs to you, {{{proving}}} his truthfulness. But after that, you made the {{{calf}}} into a deity and worshipped it when Moses had gone to meet his Lord. You were wrongdoers for worshipping others alongside Allah since only He is {{{worthy}}} of worship. 2:92
+- We would make the mountain fall upon you; then you said: We heard with our ears and {{{disobeyed}}} with our actions. 2:93
+- You will find, O Prophet, that the Jews are the most {{{greedy}}} for life despite its lowliness and insignificance. They are more {{{greedy}}} for it than the polytheists, who do not believe in the resurrection and the reckoning. 2:96
+- Whoever is an enemy to Allah, His angels, His messengers, and His two angels, {{{Gabriel}}} and {{{Michael}}}, then indeed Allah is an enemy to the disbelievers from among you and other than you. And whoever has Allah as an enemy, then he faces evident loss. 2:98
+- Instead, the devils disbelieved when they taught people {{{black magic}}} revealed to the two angels, {{{Harut}}} and {{{Marut}}}, in the city of Babylon, Iraq. 2:102
+- Many Jews and Christians, out of {{{envy}}}, wish to turn you back to disbelief after belief, worshipping {{{idols}}} as you did before when it has become clear to them that what the Prophet came with is the truth from Allah. 2:109
+- The Jews, the Christians, and the {{{polytheists}}} said: Allah had taken a son. He is free and sanctified from such a thing because He does not {{{need}}} His creation, and no one has a son unless he is {{{needy}}}. 2:116
+- The rejecting nations said similar things to their messengers in the past; despite different times and places, their hearts are identical to those of their disbelieving, {{{stubborn}}}, and insolent predecessors. Allah clarifies His signs to people convinced of the truth when made apparent to them; they are not afflicted with {{{doubt}}}, nor do they stubbornly resist. 2:118
+- By Allah, if you, O Prophet, were to bring every sign and {{{proof}}} to the Jews and Christians that changing the direction of the prayer is truth, they would not face your prayer direction out of {{{stubbornness}}} towards what you have brought and being too {{{arrogant}}} to follow the truth 2:145
+- This is the truth from your Lord. So, O Messenger, do not be from those who {{{doubt}}} its validity. 2:147
+- So, remember Me with your hearts and {{{limbs}}}, and I will remember you with praise and protection because the recompense for deeds matches the nature of the deeds. Also, show {{{gratitude}}} to Me for The favors I have given you, and do not show ingratitude by denying them or using them in prohibited ways. 2:152
+- We will surely test you with different types of hardships: some with fear of your enemy; hunger because of lack of food; lack of wealth because of losing it or difficulty in gaining it; loss of lives due to death from diseases and tragedies that kill people, or being martyred in Allah's path; and a lack of produce from the earth. Give good news, O Prophet, to those who are patient in the face of these hardships, of what will make them happy in this world and the Hereafter. 2:155
+- Those who hide the clear signs We have revealed that prove the truth of the Prophet and what he brought, from among the Jews and Christians, after We exposed it to the people in their Books, Allah will {{{expel}}} them from His mercy, and the angels, prophets and all of the rest of humanity will supplicate against them to {{{remove}}} them from Allah's mercy. 2:159
+- They are the ones who are described and those who hide the {{{truth}}} that people are in need of. They are the ones who exchanged guidance for {{{misguidance}}}, as they hid {{{true}}} knowledge, thereby exchanging the forgiveness of Allah for His punishment. How enduring they are to do what will lead them into the Fire as if they do not care the punishment it contains [for them] given their indulgence! 2:175
+- Do not unlawfully take each other's wealth, such as by stealing it, taking it by force, or by {{{cheating}}}. Do not create legal disputes with {{{rulers}}} to obtain others' wealth wrongfully while you know that Allah has prohibited you from doing this. Sinning while knowing of its prohibition is more {{{shameful}}} and greater in punishment. 2:188
+- But if they cease disbelieving and stop {{{deterring}}} others from the path of Allah, then stop fighting them. There is no enmity except against transgressors who disbelieve and {{{deter}}} others from the path of Allah. 2:193
+- Behave with excellence and kindness in your worship, transactions, and {{{behavior}}}. Allah loves those who strive toward excellence in all of their affairs, giving them a greater reward and leading them to true guidance. 2:195
+- To perform the Hajj, take an adequate amount of food and drink, but remember that the best provision for all of your affairs is being always {{{mindful}}} of Allah. 2:197
+- People are different: some are disbelieving polytheists who only believe in this worldly life. Such people will only ask Allah for the blessing and adornments of this world in the form of health, {{{wealth}}}, and children. However, they will not receive anything of what Allah has prepared for His faithful slaves in the {{{Afterlife}}}. This is due to their desire for this world and neglect of the {{{Afterlife}}}. 2:200
+- There is a type of person who is a {{{Hypocrite}}}, but his speech concerning the life of this world impresses you, O Prophet, which may lead you to consider him to be sound of mind and even {{{honest}}} and sincere because of his words. However, he only means to protect himself and his {{{financial}}} interests. He calls Allah to witness that he has faith and goodness in his heart while he is, in fact, {{{lying}}}; he bears great hostility and hatred for the Muslims. 2:204
+- When this person who causes corruption is advised to be {{{mindful}}} of Allah by respecting His limits and avoiding His prohibitions, his {{{pride}}} and {{{arrogance}}} prevent him from repenting, and he continues to sin. The only appropriate reward for him is entry into Hell. What a terrible place of residence for its inhabitants! 2:206
+- There is another type of person who is a believer who will forfeit his {{{soul}}} to follow his Lord and to strive in His path, seeking His {{{pleasure}}}. Allah's mercy for His slaves is vast, and He is Kind to them. 2:207
+- O you who believe in Allah and follow His Messenger, enter Islam {{{completely}}} and do not leave out any part of it as the People of the Scripture do by believing in some {{{parts}}} of the book and disbelieving in other {{{parts}}}. Do not follow the paths of the Devil because he has made it clear that he is your {{{enemy}}}. 2:208
+-
 """;

@@ -19,6 +19,7 @@ import '../tafsir/tafsir_arabic_yaseer.dart';
 import '../tafsir/tafsir_arabic_siraj.dart';
 import '../tafsir/tafsir_arabic_nafahat.dart';
 import '../tafsir/tafsir_arabic_katheer.dart';
+import '../tafsir/translation_various_languages.dart';
 import '../hadeeth/hadeeth_panel.dart';
 
 class QuranPanel extends StatefulWidget {
@@ -104,12 +105,15 @@ class _QuranPanelState extends State<QuranPanel> {
   static bool _tafsirSiraj = false;
   static bool _tafsirNafahat = false;
   static bool _tafsirKatheer = false;
+  static bool _tafsirVarious = false;
+  static String _variousLanguage = variousTranslationLanguages.first;
   static String _mokhtasarLanguage = 'English';
   static QuranVerseRef? _lastTafsirRef;
   static int? _lastTafsirIndex;
   static List<Map<String, dynamic>> _tafsirResults = [];
   static List<String> _tafsirRefHistory = [];
   static List<String> _verseRefHistory = [];
+  static const Set<String> _quizSupportedLanguages = {'English', 'Spanish'};
   static const Map<String, List<String>> _allahByLanguage = {
     'Arabic': [
       'بالله',
@@ -226,7 +230,7 @@ class _QuranPanelState extends State<QuranPanel> {
       'Allahun', 'Allahut', 'Allahu',
       'Zotin', 'Zotit', 'Zoti',
     ],
-    'AsanteTwi': ['Nyankopɔn', 'Awurade', 'Wura Nyankopɔn'],
+    'AkanAsante': ['Nyankopɔn', 'Awurade', 'Wura Nyankopɔn', 'Onyame', 'Allah', 'Allaahu'],
     'Assamese': [
       'আল্লাহৰ',
       'আল্লাহে',
@@ -878,7 +882,6 @@ class _QuranPanelState extends State<QuranPanel> {
     ],
     'Vietnamese': ['Thượng Đế', 'Allah'],
     'Afar': ['Yalli', 'Alla', 'Allah'],
-    'Akan': ['Onyame', 'Allah', 'Allaahu'],
     'Amharic': ['አላህ', 'አምላክ', 'ጌታ'],
     'German': ['Allah', 'Gott', 'Herr'],
     'Hausa': ['Allahu', 'Allah', 'Ubangiji'],
@@ -995,6 +998,16 @@ class _QuranPanelState extends State<QuranPanel> {
     _tafsirRefFocusNode.dispose();
     _tafsirScrollController.dispose();
     super.dispose();
+  }
+
+  Color _quranLanguageColor(String lang) {
+    final isNoVtt = lang.endsWith(' *');
+    final baseName = isNoVtt ? lang.substring(0, lang.length - 2) : lang;
+    final hasMokhtasar = mokhtasarLanguages.contains(baseName);
+
+    if (hasMokhtasar) return Colors.greenAccent;
+    if (isNoVtt) return Colors.lightBlueAccent;
+    return Colors.amber;
   }
 
   List<QuranIndexEntry> get _filtered {
@@ -1584,6 +1597,17 @@ class _QuranPanelState extends State<QuranPanel> {
           });
         }
       }
+      if (_tafsirVarious) {
+        final text = getVariousTranslation(_variousLanguage, range.surah, ayah);
+        if (text != null && text.isNotEmpty) {
+          results.add({
+            'source': 'Various ($_variousLanguage)',
+            'surah': range.surah,
+            'ayah': ayah,
+            'text': text
+          });
+        }
+      }
       if (_tafsirSaadi) {
         final text = getTafsirSaadi(range.surah, ayah);
         if (text != null && text.isNotEmpty) {
@@ -1770,6 +1794,12 @@ class _QuranPanelState extends State<QuranPanel> {
           final text = getTafsirKatheer(surah, ayah);
           if (matches(text)) {
             results.add({'source': 'Katheer', 'surah': surah, 'ayah': ayah, 'text': text!});
+          }
+        }
+        if (_tafsirVarious) {
+          final text = getVariousTranslation(_variousLanguage, surah, ayah);
+          if (matches(text)) {
+            results.add({'source': 'Various ($_variousLanguage)', 'surah': surah, 'ayah': ayah, 'text': text!});
           }
         }
       }
@@ -2270,6 +2300,18 @@ class _QuranPanelState extends State<QuranPanel> {
                           widget.onExcludeChanged(v.trim().toLowerCase()),
                     ),
                   ),
+                  const SizedBox(width: 10),
+                  Tooltip(
+                    message: '* no vtt - csv not on quranenc.com',
+                    preferBelow: true,
+                    textStyle: const TextStyle(color: Colors.white, fontSize: 12),
+                    decoration: BoxDecoration(
+                      color: const Color(0xFF2A2A2A),
+                      borderRadius: BorderRadius.circular(6),
+                    ),
+                    child: const Text('*',
+                        style: TextStyle(color: Colors.lightBlueAccent, fontSize: 14)),
+                  ),
                   if (availableQuranIndexLanguages.length > 1) ...[
                     const SizedBox(width: 12),
                     DropdownButton<String>(
@@ -2280,8 +2322,16 @@ class _QuranPanelState extends State<QuranPanel> {
                       underline: const SizedBox(),
                       isDense: true,
                       items: availableQuranIndexLanguages
-                          .map((lang) =>
-                              DropdownMenuItem(value: lang, child: Text(lang)))
+                          .map((lang) => DropdownMenuItem(
+                                value: lang,
+                                child: Text(
+                                  lang,
+                                  style: TextStyle(
+                                    color: _quranLanguageColor(lang),
+                                    fontSize: 13,
+                                  ),
+                                ),
+                              ))
                           .toList(),
                       onChanged: (lang) {
                         if (lang != null) {
@@ -2403,27 +2453,21 @@ class _QuranPanelState extends State<QuranPanel> {
                   children: [
                     Text('${filtered.length}',
                         style: const TextStyle(color: Colors.white38, fontSize: 12)),
+                    if (widget.isQuranLoaded) ...[
+                      const SizedBox(width: 8),
+                      Tooltip(
+                        message: 'next ayah',
+                        preferBelow: true,
+                        textStyle: const TextStyle(color: Colors.white, fontSize: 12),
+                        decoration: BoxDecoration(
+                          color: const Color(0xFF2A2A2A),
+                          borderRadius: BorderRadius.circular(6),
+                        ),
+                        child: const Text('⇧Q',
+                            style: TextStyle(color: Colors.amber, fontSize: 12, fontWeight: FontWeight.bold)),
+                      ),
+                    ],
                     const SizedBox(width: 6),
-                    Tooltip(
-                      message: '* no vtt - csv needs to be downloadable on quranenc.com for an available vtt'
-                          '${widget.isQuranLoaded ? '\n⇧Q = next ayah' : ''}',
-                      preferBelow: true,
-                      textStyle: const TextStyle(color: Colors.white, fontSize: 12),
-                      decoration: BoxDecoration(
-                        color: const Color(0xFF2A2A2A),
-                        borderRadius: BorderRadius.circular(6),
-                      ),
-                      child: Row(
-                        mainAxisSize: MainAxisSize.min,
-                        children: [
-                          const Text('*',
-                              style: TextStyle(color: Colors.white38, fontSize: 12)),
-                          const SizedBox(width: 2),
-                          const Icon(Icons.info_outline, color: Colors.white38, size: 14),
-                        ],
-                      ),
-                    ),
-                    const SizedBox(width: 8),
                     _buildVerseRefHistoryButton(),
                     const SizedBox(width: 2),
                     SizedBox(
@@ -2483,8 +2527,10 @@ class _QuranPanelState extends State<QuranPanel> {
                     _quickFilterChip('=phrase', 'phrases'),
                     const SizedBox(width: 4),
                     _quickFilterChip('cmds', 'cmds'),
-                    const SizedBox(width: 4),
-                    _quickFilterChip('Quiz', 'quizzes'),
+                    if (_quizSupportedLanguages.contains(widget.selectedLanguage)) ...[
+                      const SizedBox(width: 4),
+                      _quickFilterChip('Quiz', 'quizzes'),
+                    ],
                     const Spacer(),
                     TextButton(
                       onPressed: () => _showSurahListPopup(context),
@@ -2992,14 +3038,14 @@ class _QuranPanelState extends State<QuranPanel> {
                           _buildRefHistoryButton(),
                           const SizedBox(width: 4),
                           SizedBox(
-                            width: 180,
+                            width: 134,
                             height: 32,
                             child: TextField(
                               controller: _tafsirRefController,
                               focusNode: _tafsirRefFocusNode,
                               style: const TextStyle(color: Colors.white, fontSize: 12),
                               decoration: InputDecoration(
-                                hintText: '2:255 or 2:1-5',
+                                hintText: '2:255/2:2-4',
                                 hintStyle: const TextStyle(color: Colors.white24, fontSize: 12),
                                 filled: true,
                                 fillColor: Colors.black26,
@@ -3031,7 +3077,7 @@ class _QuranPanelState extends State<QuranPanel> {
                   const SizedBox(width: 8),
                   _tafsirCheckbox('Mokhtasar', _tafsirMokhtasar, (v) {
                     setState(() => _tafsirMokhtasar = v ?? false);
-                  }, Colors.lightBlueAccent),
+                  }, Colors.greenAccent),
                   const SizedBox(width: 8),
                   if (_tafsirMokhtasar)
                     DropdownButton<String>(
@@ -3041,9 +3087,15 @@ class _QuranPanelState extends State<QuranPanel> {
                           const TextStyle(color: Colors.white70, fontSize: 12),
                       underline: const SizedBox(),
                       isDense: true,
+                      icon: const Icon(Icons.arrow_drop_down, color: Colors.greenAccent, size: 18),
                       items: mokhtasarLanguages
-                          .map((lang) =>
-                              DropdownMenuItem(value: lang, child: Text(lang)))
+                          .map((lang) => DropdownMenuItem(
+                                value: lang,
+                                child: Text(
+                                  lang,
+                                  style: const TextStyle(color: Colors.greenAccent, fontSize: 12),
+                                ),
+                              ))
                           .toList(),
                       onChanged: (lang) {
                         if (lang != null) {
@@ -3054,29 +3106,57 @@ class _QuranPanelState extends State<QuranPanel> {
                         }
                       },
                     ),
-                    const SizedBox(width: 12),
+                    const SizedBox(width: 7),
                     _tafsirCheckbox('Hilali', _tafsirHilali, (v) {
                       setState(() => _tafsirHilali = v ?? false);
-                    }, Colors.greenAccent),
-                    const SizedBox(width: 12),
+                    }, Colors.lightBlueAccent),
+                    const SizedBox(width: 7),
                     _tafsirCheckbox('Rowwad', _tafsirRowwadEnglish, (v) {
                       setState(() => _tafsirRowwadEnglish = v ?? false);
                     }, Colors.orangeAccent),
-                    const SizedBox(width: 12),
+                    const SizedBox(width: 7),
                     _tafsirCheckbox('Noor', _tafsirNoorEnglish, (v) {
                       setState(() => _tafsirNoorEnglish = v ?? false);
                     }, Colors.redAccent),
-                    const SizedBox(width: 12),
+                    const SizedBox(width: 7),
                     _tafsirCheckbox('Yacob', _tafsirYacobEnglish, (v) {
                       setState(() => _tafsirYacobEnglish = v ?? false);
                     }, Colors.purpleAccent),
-                    const SizedBox(width: 12),
+                    const SizedBox(width: 7),
                     _tafsirCheckbox('Kathir', _tafsirKathir, (v) {
                       setState(() => _tafsirKathir = v ?? false);
                     }, Colors.brown),
                     const SizedBox(width: 6),
                     _selectAllCheckbox(
                         _allEnglishTafsirsSelected, _toggleAllEnglishTafsirs),
+                    const SizedBox(width: 7),
+                    _tafsirCheckbox('', _tafsirVarious, (v) {
+                      setState(() => _tafsirVarious = v ?? false);
+                    }, Colors.indigoAccent),
+                    const SizedBox(width: 6),
+                    _tafsirVarious
+                        ? DropdownButton<String>(
+                            value: _variousLanguage,
+                            dropdownColor: const Color(0xFF2A2A2A),
+                            style: const TextStyle(color: Colors.indigoAccent, fontSize: 12),
+                            underline: const SizedBox(),
+                            isDense: true,
+                            icon: const Icon(Icons.arrow_drop_down, color: Colors.amber, size: 18),
+                            items: variousTranslationLanguages
+                                .map((lang) => DropdownMenuItem(
+                                      value: lang,
+                                      child: Text(lang, style: const TextStyle(color: Colors.amber, fontSize: 12)),
+                                    ))
+                                .toList(),
+                            onChanged: (lang) {
+                              if (lang != null) {
+                                setState(() => _variousLanguage = lang);
+                                if (_tafsirRefController.text.isNotEmpty) _lookupTafsir(context);
+                              }
+                            },
+                          )
+                        : const Text('None',
+                            style: TextStyle(color: Colors.white24, fontSize: 12)),
                 ],
               ),
             ),
@@ -3244,6 +3324,7 @@ class _QuranPanelState extends State<QuranPanel> {
       final text = r['text'] as String;
       final isRtl = source == 'Mokhtasar Ar' ||
           isMokhtasarRtl(_mokhtasarLanguage) ||
+          (source.startsWith('Various') && isVariousTranslationRtl(_variousLanguage)) ||
           source == 'Saadi' ||
           source == 'Moyassar' ||
           source == 'Baghawi' ||
@@ -3264,6 +3345,7 @@ class _QuranPanelState extends State<QuranPanel> {
         'Nafahat' => Colors.limeAccent,
         'Baghawi' => Colors.deepOrangeAccent,
         'Katheer' => Colors.brown,
+        _ when source.startsWith('Various') => Colors.indigoAccent,
         _ => Colors.greenAccent,
       };
       final ayahLabel = ayah == 0 ? '$surah:intro' : '$surah:$ayah';

@@ -1,4 +1,4 @@
-const Map<int, String> _mokhtasarAkan = {
+const Map<int, String> _mokhtasarAkanAsante = {
   1000: "Al-Faatiha\nAdiyisɛm a ɛwɔ Mecca kuropɔn mu\n•    Efi atirimpɔw ahorow a ɛwɔ surah no mu    \nNokware Nyamesom kɔgyee wɔ Allah kokuroko.\n•    Nkyerɛase/ Kuran Nkyerɛase    \nYɛ frɛ no Alfaatiha ɛfe sɛ yɛ de biɛ Onyame kasa.yɛ sa frɛ no Quraan maame efi sɛ ɛfra biribiara a wu nwoma no mu nyinara ɛfa Onyame baako hɔ ɛne deɛ ɛkekahu biara.ɛno nɛ yɛ suura a ɛdi mu ɛwu Quraani nom ɛnu na ɛfrɛ no Saba'a Masaanee sura nsu.",
   1001: "Me di Onyame din na ɛhyɛ Quraan akenkae yi ase,ɛhwɛhwɛ ne mua okɔkorɔko ahutiɛ wɔ yɛ ne din akaekayɛ ho.Basmala ɛfa Onyame din ahuofɛ mieyɛnsa,ɔmu ne 1:( Allaahu ) ɛkyerɛ sɛ ;Deɛ yɛ som nu nekorɛ mu.ɛyɛ edin soronku ɛwɔ yɛ ne din mu na obiara nne hɔ a ɛde ɛfrɛ nu. 2:-(Arrahamaan ) Asekyɛrɛ sɛ;Ahumɔbɔrɔ mu hene kɛse na ɔyɛ ahumɔbɔroɔ ɛde ma ne su.Nahunu mubɔroɔ eduru obiara so.Na ɔdi hunu deɛ opɛ ho muɔbɔ ɛwɔ na bodiɛ mu ɛwɔ agyidiɛfoɔ mu.",
   1002: "Nkanfoɔ ɛne ntontom a ahyɛma ɛne deɛ yɛ ma ho ɛnnaseɛ nyina ara wɔ ahyɛnsodeɛ akaseɛ nyina ara wɔ Allah nko a biribiara nka ho, kae sɛ Ɔno ne biribiara Nyame ɛne biribiara Bɔfoɔ ma ɛredi adane adane ɛna (Al-Alamuun) ɛyɛ A'lam dodoɔ kabea na ɛyɛ biribiara a ɛnyɛ Onyankopͻn kokuroko.",
@@ -6351,4 +6351,4 @@ const Map<int, String> _mokhtasarAkan = {
   114006: "ɛna ɔnɔ nɛyɛ ɛfiri nipa mo sɛdeɛ yɛya ɛfiri jinnifoɔ mo.",
 };
 
-String? getTafsirMokhtasarAkan(int surah, int ayah) => _mokhtasarAkan[surah * 1000 + ayah];
+String? getTafsirMokhtasarAkanAsante(int surah, int ayah) => _mokhtasarAkanAsante[surah * 1000 + ayah];

@@ -3592,7 +3592,7 @@ cmds - Commands, Exhortations, Prohibitions, Instructions
 - No ignoren ni rechacen al necesitado 93:10
 - Busquen conocimiento y entendimiento. Lean y reflexionen sobre el Corán 96:1–5
 - Promuevan la alimentación de los pobres 107:3
-Quizzes guess missing words in phrases from Mokhtasar tafsir
+Quizzes
 - también conocida como Umm Al-Quran ({{{Madre}}} del Corán) 1:0
 - Él es el Señor de todo, su Creador y su Administrador. Al-Ālamūn ({{{mundos}}}) es el plural de Al-'Ālam ({{{mundo}}}) y se refiere a todo lo que existe aparte de Al-lah. 1:2
 - El “Día del Juicio” es el Día de la Retribución y del {{{Ajuste de cuentas}}}. 1:4
