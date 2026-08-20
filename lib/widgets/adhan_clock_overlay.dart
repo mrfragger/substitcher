@@ -355,6 +355,30 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
                           text: _getYear(_whiteDays!.days[0].formattedDate),
                           style: const TextStyle(color: Color(0xFF87cffb)),
                         ),
+                        TextSpan(
+                          text: '\n1st ',
+                          style: const TextStyle(color: Colors.white, fontWeight: FontWeight.bold),
+                        ),
+                        TextSpan(
+                          text: '${_whiteDays!.monthName} ',
+                          style: const TextStyle(color: Color(0xFF60a5fa), fontWeight: FontWeight.bold),
+                        ),
+                        TextSpan(
+                          text: '= ${_getGregorianMonth(_whiteDays!.monthStartDate)} ${_getDay(_whiteDays!.monthStartDate)}, ${_getYear(_whiteDays!.monthStartDate)}\n',
+                          style: const TextStyle(color: Colors.white),
+                        ),
+                        TextSpan(
+                          text: '1st ',
+                          style: const TextStyle(color: Colors.white, fontWeight: FontWeight.bold),
+                        ),
+                        TextSpan(
+                          text: '${_whiteDays!.nextMonthName} ',
+                          style: const TextStyle(color: Color(0xFF60a5fa), fontWeight: FontWeight.bold),
+                        ),
+                        TextSpan(
+                          text: '= ${_getGregorianMonth(_whiteDays!.nextMonthStartCandidates[0])} ${_getDay(_whiteDays!.nextMonthStartCandidates[0])} or ${_getDay(_whiteDays!.nextMonthStartCandidates[1])}, ${_getYear(_whiteDays!.nextMonthStartCandidates[0])}',
+                          style: const TextStyle(color: Colors.white70),
+                        ),
                       ],
                     ),
                     waitDuration: const Duration(milliseconds: 300),
@@ -673,6 +697,50 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
                             'Cached on ${_whiteDaysCacheDate!.year}-${_whiteDaysCacheDate!.month.toString().padLeft(2, '0')}-${_whiteDaysCacheDate!.day.toString().padLeft(2, '0')}',
                             style: const TextStyle(color: Colors.white54, fontSize: 10),
                           ),
+                          const SizedBox(height: 4),
+                          const Text(
+                            'Valid for 30 days',
+                            style: TextStyle(color: Colors.white70, fontSize: 11),
+                          ),
+                          RichText(
+                            text: TextSpan(
+                              style: const TextStyle(fontSize: 12),
+                              children: [
+                                const TextSpan(
+                                  text: '1st ',
+                                  style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold),
+                                ),
+                                TextSpan(
+                                  text: '${_whiteDays!.monthName} ',
+                                  style: const TextStyle(color: Color(0xFF60a5fa), fontWeight: FontWeight.bold),
+                                ),
+                                TextSpan(
+                                  text: '= ${_getGregorianMonth(_whiteDays!.monthStartDate)} ${_getDay(_whiteDays!.monthStartDate)}, ${_getYear(_whiteDays!.monthStartDate)}',
+                                  style: const TextStyle(color: Colors.white),
+                                ),
+                              ],
+                            ),
+                          ),
+                          RichText(
+                            text: TextSpan(
+                              style: const TextStyle(fontSize: 12),
+                              children: [
+                                const TextSpan(
+                                  text: '1st ',
+                                  style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold),
+                                ),
+                                TextSpan(
+                                  text: '${_whiteDays!.nextMonthName} ',
+                                  style: const TextStyle(color: Color(0xFF60a5fa), fontWeight: FontWeight.bold),
+                                ),
+                                TextSpan(
+                                  text: '= ${_getGregorianMonth(_whiteDays!.nextMonthStartCandidates[0])} ${_getDay(_whiteDays!.nextMonthStartCandidates[0])} or ${_getDay(_whiteDays!.nextMonthStartCandidates[1])}, ${_getYear(_whiteDays!.nextMonthStartCandidates[0])}',
+                                  style: const TextStyle(color: Colors.white70),
+                                ),
+                              ],
+                            ),
+                          ),
+                          if (_whiteDaysCacheDate != null)
                         const SizedBox(height: 8),
                       ],
 
