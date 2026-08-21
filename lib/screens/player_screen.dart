@@ -3892,6 +3892,11 @@ class _PlayerScreenState extends State<PlayerScreen>
     });
     await player.setRate(_playbackSpeed);
 
+    if (_currentAudiobook != null) {
+      final prefs = await SharedPreferences.getInstance();
+      await prefs.setDouble('playbackSpeed_${_currentAudiobook!.path}', _playbackSpeed);
+    }
+
     if (_sleepDuration != null) {
       _setSleepTimer(null);
       if (mounted) {
@@ -3910,6 +3915,11 @@ class _PlayerScreenState extends State<PlayerScreen>
       _playbackSpeed = (_playbackSpeed - 0.1).clamp(0.5, 2.0);
     });
     await player.setRate(_playbackSpeed);
+
+    if (_currentAudiobook != null) {
+      final prefs = await SharedPreferences.getInstance();
+      await prefs.setDouble('playbackSpeed_${_currentAudiobook!.path}', _playbackSpeed);
+    }
 
     if (_sleepDuration != null) {
       _setSleepTimer(null);
@@ -4147,6 +4157,7 @@ class _PlayerScreenState extends State<PlayerScreen>
     final savedConversionType =
         prefs.getString('conversionType_$audiobookPath');
     final savedLineSpacing = prefs.getDouble('lineSpacing_$audiobookPath');
+    final savedPlaybackSpeed = prefs.getDouble('playbackSpeed_$audiobookPath');
     if (savedLineSpacing != null) {
       _subtitleLineSpacing = savedLineSpacing;
     }
@@ -4189,6 +4200,7 @@ class _PlayerScreenState extends State<PlayerScreen>
       } else {
         _conversionType = _defaultConversionType;
       }
+      _playbackSpeed = (savedPlaybackSpeed ?? 1.0).clamp(0.5, 2.0);
     });
   }
 
