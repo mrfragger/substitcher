@@ -2487,47 +2487,48 @@ class _QuranPanelState extends State<QuranPanel> {
                       ),
                     ],
                     const SizedBox(width: 6),
-                    _buildVerseRefHistoryButton(),
-                    const SizedBox(width: 2),
-                    SizedBox(
-                      width: 120,
-                      height: 28,
-                      child: TextField(
-                        controller: _refInputController,
-                        focusNode: _refInputFocusNode,
-                        autofocus: true,
-                        style: const TextStyle(color: Colors.white, fontSize: 12),
-                        decoration: InputDecoration(
-                          hintText: '38:36-40',
-                          hintStyle: const TextStyle(color: Colors.white24, fontSize: 12),
-                          filled: true,
-                          fillColor: Colors.black26,
-                          border: OutlineInputBorder(
-                            borderRadius: BorderRadius.circular(4),
-                            borderSide: BorderSide(color: Colors.deepPurple.withAlpha(160)),
+                    if (widget.isQuranLoaded) ...[
+                      _buildVerseRefHistoryButton(),
+                      const SizedBox(width: 2),
+                      SizedBox(
+                        width: 120,
+                        height: 28,
+                        child: TextField(
+                          controller: _refInputController,
+                          focusNode: _refInputFocusNode,
+                          autofocus: true,
+                          style: const TextStyle(color: Colors.white, fontSize: 12),
+                          decoration: InputDecoration(
+                            hintText: '38:36-40',
+                            hintStyle: const TextStyle(color: Colors.white24, fontSize: 12),
+                            filled: true,
+                            fillColor: Colors.black26,
+                            border: OutlineInputBorder(
+                              borderRadius: BorderRadius.circular(4),
+                              borderSide: BorderSide(color: Colors.deepPurple.withAlpha(160)),
+                            ),
+                            enabledBorder: OutlineInputBorder(
+                              borderRadius: BorderRadius.circular(4),
+                              borderSide: BorderSide(color: Colors.deepPurple.withAlpha(100)),
+                            ),
+                            focusedBorder: OutlineInputBorder(
+                              borderRadius: BorderRadius.circular(4),
+                              borderSide: const BorderSide(color: Colors.deepPurple),
+                            ),
+                            contentPadding:
+                                const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+                            suffixIcon: IconButton(
+                              icon: const Icon(Icons.search, color: Colors.deepPurple, size: 16),
+                              padding: EdgeInsets.zero,
+                              constraints: const BoxConstraints(),
+                              onPressed: () => _playRefFromInput(context),
+                            ),
                           ),
-                          enabledBorder: OutlineInputBorder(
-                            borderRadius: BorderRadius.circular(4),
-                            borderSide: BorderSide(color: Colors.deepPurple.withAlpha(100)),
-                          ),
-                          focusedBorder: OutlineInputBorder(
-                            borderRadius: BorderRadius.circular(4),
-                            borderSide: const BorderSide(color: Colors.deepPurple),
-                          ),
-                          contentPadding:
-                              const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
-                          suffixIcon: IconButton(
-                            icon: const Icon(Icons.search, color: Colors.deepPurple, size: 16),
-                            padding: EdgeInsets.zero,
-                            constraints: const BoxConstraints(),
-                            onPressed:
-                                widget.isQuranLoaded ? () => _playRefFromInput(context) : null,
-                          ),
+                          onSubmitted: (_) => _playRefFromInput(context),
                         ),
-                        onSubmitted:
-                            widget.isQuranLoaded ? (_) => _playRefFromInput(context) : null,
                       ),
-                    ),
+                      const SizedBox(width: 8),
+                    ],
                     const SizedBox(width: 8),
                     _quickFilterChip('Schemas', 'schemas'),
                     const SizedBox(width: 8),
