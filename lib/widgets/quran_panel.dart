@@ -12,6 +12,7 @@ import '../tafsir/tafsir_english_rowwad.dart';
 import '../tafsir/tafsir_english_noor.dart';
 import '../tafsir/tafsir_english_yacob.dart';
 import '../tafsir/tafsir_english_ibn_kathir.dart';
+import '../tafsir/tafsir_arabic_quran.dart';
 import '../tafsir/tafsir_arabic_saadi.dart';
 import '../tafsir/tafsir_arabic_moyassar.dart';
 import '../tafsir/tafsir_arabic_baghawi.dart';
@@ -98,8 +99,9 @@ class _QuranPanelState extends State<QuranPanel> {
   static bool _tafsirNoorEnglish = false;
   static bool _tafsirYacobEnglish = false;
   static bool _tafsirKathir = false;
-  static bool _tafsirSaadi = false;
+  static bool _tafsirQuran = false;
   static bool _tafsirMoyassar = false;
+  static bool _tafsirSaadi = false;
   static bool _tafsirBaghawi = false;
   static bool _tafsirYaseer = false;
   static bool _tafsirSiraj = false;
@@ -1586,22 +1588,33 @@ class _QuranPanelState extends State<QuranPanel> {
           });
         }
       }
-      if (_tafsirMoyassar) {
-        final text = getTafsirMoyassar(range.surah, ayah);
+      if (_tafsirVarious) {
+        final text = getVariousTranslation(_variousLanguage, range.surah, ayah);
         if (text != null && text.isNotEmpty) {
           results.add({
-            'source': 'Moyassar',
+            'source': 'Various ($_variousLanguage)',
             'surah': range.surah,
             'ayah': ayah,
             'text': text
           });
         }
       }
-      if (_tafsirVarious) {
-        final text = getVariousTranslation(_variousLanguage, range.surah, ayah);
+      if (_tafsirQuran) {
+        final text = getTafsirQuran(range.surah, ayah);
         if (text != null && text.isNotEmpty) {
           results.add({
-            'source': 'Various ($_variousLanguage)',
+            'source': 'Quran',
+            'surah': range.surah,
+            'ayah': ayah,
+            'text': text
+          });
+        }
+      }
+      if (_tafsirMoyassar) {
+        final text = getTafsirMoyassar(range.surah, ayah);
+        if (text != null && text.isNotEmpty) {
+          results.add({
+            'source': 'Moyassar',
             'surah': range.surah,
             'ayah': ayah,
             'text': text
@@ -1752,6 +1765,12 @@ class _QuranPanelState extends State<QuranPanel> {
           final text = getTafsirKathirEnglish(surah, ayah);
           if (matches(text)) {
             results.add({'source': 'Kathir', 'surah': surah, 'ayah': ayah, 'text': text!});
+          }
+        }
+        if (_tafsirQuran) {
+          final text = getTafsirQuran(surah, ayah);
+          if (matches(text)) {
+            results.add({'source': 'Quran', 'surah': surah, 'ayah': ayah, 'text': text!});
           }
         }
         if (_tafsirMoyassar) {
@@ -2963,34 +2982,35 @@ class _QuranPanelState extends State<QuranPanel> {
                                     style: TextStyle(color: Colors.deepOrange, fontSize: 12)),
                               ),
                             ),
-                            const SizedBox(width: 10),
-                            const Text('Arabic:',
-                                style: TextStyle(color: Colors.white38, fontSize: 12)),
+                            const SizedBox(width: 6),
+                            _tafsirCheckbox('Quran', _tafsirQuran, (v) {
+                              setState(() => _tafsirQuran = v ?? false);
+                            }, Colors.white70),
                             const SizedBox(width: 6),
                             _tafsirCheckbox('Moyassar', _tafsirMoyassar, (v) {
                               setState(() => _tafsirMoyassar = v ?? false);
                             }, Colors.pinkAccent),
-                            const SizedBox(width: 10),
+                            const SizedBox(width: 6),
                             _tafsirCheckbox('Saadi', _tafsirSaadi, (v) {
                               setState(() => _tafsirSaadi = v ?? false);
                             }, Colors.amber),
-                            const SizedBox(width: 10),
+                            const SizedBox(width: 6),
                             _tafsirCheckbox('Yaseer', _tafsirYaseer, (v) {
                               setState(() => _tafsirYaseer = v ?? false);
                             }, Colors.tealAccent),
-                            const SizedBox(width: 10),
+                            const SizedBox(width: 6),
                             _tafsirCheckbox('Nafahat', _tafsirNafahat, (v) {
                               setState(() => _tafsirNafahat = v ?? false);
                             }, Colors.limeAccent),
-                            const SizedBox(width: 10),
+                            const SizedBox(width: 6),
                             _tafsirCheckbox('Siraj', _tafsirSiraj, (v) {
                               setState(() => _tafsirSiraj = v ?? false);
                             }, Colors.indigoAccent),
-                            const SizedBox(width: 10),
+                            const SizedBox(width: 6),
                             _tafsirCheckbox('Baghawi', _tafsirBaghawi, (v) {
                               setState(() => _tafsirBaghawi = v ?? false);
                             }, Colors.deepOrangeAccent),
-                            const SizedBox(width: 10),
+                            const SizedBox(width: 6),
                             _tafsirCheckbox('Katheer', _tafsirKatheer, (v) {
                               setState(() => _tafsirKatheer = v ?? false);
                             }, Colors.brown),
@@ -3242,6 +3262,7 @@ class _QuranPanelState extends State<QuranPanel> {
   }
 
   bool get _allArabicTafsirsSelected =>
+        _tafsirQuran &&
         _tafsirMoyassar &&
         _tafsirSaadi &&
         _tafsirYaseer &&
@@ -3260,6 +3281,7 @@ class _QuranPanelState extends State<QuranPanel> {
     void _toggleAllArabicTafsirs(bool? value) {
       final v = value ?? false;
       setState(() {
+        _tafsirQuran = v;
         _tafsirMoyassar = v;
         _tafsirSaadi = v;
         _tafsirYaseer = v;
@@ -3325,8 +3347,9 @@ class _QuranPanelState extends State<QuranPanel> {
       final isRtl = source == 'Mokhtasar Ar' ||
           isMokhtasarRtl(_mokhtasarLanguage) ||
           (source.startsWith('Various') && isVariousTranslationRtl(_variousLanguage)) ||
-          source == 'Saadi' ||
+          source == 'Quran' ||
           source == 'Moyassar' ||
+          source == 'Saadi' ||
           source == 'Baghawi' ||
           source == 'Yaseer' ||
           source == 'Siraj' ||
@@ -3338,6 +3361,7 @@ class _QuranPanelState extends State<QuranPanel> {
         'Noor' => Colors.redAccent,
         'Yacob' => Colors.purpleAccent,
         'Kathir' => Colors.brown,
+        'Quran' => Colors.white70,
         'Moyassar' => Colors.pinkAccent,
         'Saadi' => Colors.amber,
         'Yaseer' => Colors.tealAccent,
