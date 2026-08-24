@@ -736,8 +736,6 @@ const String quranIndexRaw = r"""
 Manzil Prayers (dua) 1:1-7; 2:1-5, 163, 255-257, 284-286; 3:18, 26-27; 7:54-56, 117-122; 17:110-111; 23:115-118; 37:1-11; 55:33-40; 59:21-24; 72:1-4; 109:1-6; 112:1-4; 113:1-5; 114:1-6
 Our Lord Prayers (Rabbana dua)  2:127-128, 201, 250, 286; 3:8-9, 16, 53, 147, 191-194; 5:83, 114; 7:23, 47, 89, 126, 155; 10:85-88; 11:47; 12:101; 14:38-41; 17:80; 18:10; 20:114; 23:109, 118; 25:65-66, 74; 28:24; 40:7-9; 59:10; 60:4-7; 66:8
 My Lord Prayers (Rabbi dua) 3:38; 12:33; 14:35-36; 19:3-6; 20:25-28, 45, 114; 21:83, 87, 89; 23:26, 29, 93-94, 97-98; 26:83-87, 169; 27:19; 28:16-17, 21; 29:30; 37:100; 38:35, 41; 46:15, 71:26-28
-Most-cited target ayahs in tafsirs 2:255; 5:54; 6:91; 6:96; 7:54; 7:143; 10:96; 16:36; 17:1; 17:44; 18:47; 18:49; 26:214; 30:27; 31:24; 40:51; 40:60; 52:21; 54:55; 56:89
-Most-connected source ayahs in tafsirs 1:6; 3:103; 14:13-17; 26:24; 36:30; 39:22; 43:81-89; 50:1
 most frequently quoted verses in the Hilali-Khan translation 2:2, 22, 27, 42, 83, 105, 112, 135, 190-191, 193, 196, 219, 252, 256, 275, 278; 3:55, 73, 85, 91, 103, 116, 130, 134, 164, 173; 4:86, 135, 145; 5:66, 90; 6:61, 93, 97, 101, 158; 7:180, 187; 9:111, 120-121; 13:28; 17:45, 97; 22:9, 78; 29:64; 33:85
 Aaron (Harun) 2:248; 4:163; 6:84; 7:122, 142; 10:75; 19:28, 53; 20:30, 70, 90, 92; 21:48; 23:45; 25:35; 26:13, 48; 28:34; 37:114, 120
 'Abasa, S.80; 74:22
@@ -4408,5 +4406,8 @@ Quizzes
 - When this person who causes corruption is advised to be {{{mindful}}} of Allah by respecting His limits and avoiding His prohibitions, his {{{pride}}} and {{{arrogance}}} prevent him from repenting, and he continues to sin. The only appropriate reward for him is entry into Hell. What a terrible place of residence for its inhabitants! 2:206
 - There is another type of person who is a believer who will forfeit his {{{soul}}} to follow his Lord and to strive in His path, seeking His {{{pleasure}}}. Allah's mercy for His slaves is vast, and He is Kind to them. 2:207
 - O you who believe in Allah and follow His Messenger, enter Islam {{{completely}}} and do not leave out any part of it as the People of the Scripture do by believing in some {{{parts}}} of the book and disbelieving in other {{{parts}}}. Do not follow the paths of the Devil because he has made it clear that he is your {{{enemy}}}. 2:208
+- O Prophet, ask the Jews reprimandingly about how many {{{clear}}} signs proving the truthfulness of the messengers were given to them by Allah. Despite this, they {{{denied}}} it and turned away from them. If anyone exchanges Allah's favor with disbelief and {{{denial}}} after being aware of it and after it has become apparent, then Allah is intense in punishing the disbelievers and the deniers. 2:211
+- Only those given the {{{Torah}}} differed concerning Muhammad صلى الله عليه وسلم and his message despite it being clear. They did this out of injustice and {{{jealousy}}}. Allah then enabled the believers to recognize guidance from misguidance by His permission and will. Allah guides whomever He wishes to a {{{perfectly}}} straight path: the path of faith. 2:113
+- On the other hand, you may like something when, in reality, it is bad and {{{harmful}}} to you, such as staying behind from fighting: this will result in you being defeated and the {{{enemy}}} gaining authority over you. Allah knows full well what is good and what is not, whereas you do not. 2:216
 -
 """;

@@ -628,7 +628,7 @@ class _PlayerScreenState extends State<PlayerScreen>
       '',
     );
     final languageMatch = RegExp(
-      r'^Quran (\S+) - \d{3}-\d{3} ',
+      r'^Quran (.+?) - \d{3}-\d{3} ',
     ).firstMatch(currentBase);
     final language = languageMatch?.group(1) ?? 'Arabic';
     final targetOpusName = 'Quran $language - $rangeKey $reciterSuffix';
@@ -3396,12 +3396,10 @@ class _PlayerScreenState extends State<PlayerScreen>
       );
       return;
     }
-
     setState(() {
       _isExportingMarkdown = true;
       _exportStatus = 'Starting Quran export...';
     });
-
     try {
       final currentOpusPath = _currentAudiobook!.path;
       final opusDir = path.dirname(currentOpusPath);
@@ -3410,42 +3408,31 @@ class _PlayerScreenState extends State<PlayerScreen>
         RegExp(r'^.*?\d{3}-\d{3} '),
         '',
       );
-
       final languageMatch = RegExp(
-        r'^Quran (\S+) - \d{3}-\d{3} ',
+        r'^Quran (.+?) - \d{3}-\d{3} ',
       ).firstMatch(currentOpusBase);
       final language = languageMatch?.group(1) ?? 'Arabic';
-
       final currentVttPath = _subtitleFilePath!;
       final vttDir = path.dirname(currentVttPath);
       final langSubdir = path.basename(vttDir);
       final vttParentDir = path.dirname(vttDir);
-
       final languageName = path.basename(opusDir);
       final exportPath = path.join(opusDir, '$languageName.md');
-
       final mdContent = StringBuffer();
       mdContent.writeln('# $languageName\n');
-
       final rangeKeys = quranFileRanges.keys.toList();
-
       for (int i = 0; i < rangeKeys.length; i++) {
         final rangeKey = rangeKeys[i];
         setState(() {
           _exportStatus =
               'Processing range $rangeKey (${i + 1}/${rangeKeys.length})...';
         });
-        final languageMatch = RegExp(
-          r'^Quran (\S+) - \d{3}-\d{3} ',
-        ).firstMatch(currentOpusBase);
-        final language = languageMatch?.group(1) ?? 'Arabic';
         final targetOpusName = 'Quran $language - $rangeKey $reciterSuffix';
         final targetOpusPath = path.join(opusDir, targetOpusName);
         // final targetOpusPath = path.join(parentDir, targetOpusName);
         // final targetOpusName = 'Quran Arabic - $rangeKey $reciterSuffix';
         final targetBase = path.basenameWithoutExtension(targetOpusName);
         final targetVttName = '$targetBase.vtt';
-
         final candidate1 = path.join(vttParentDir, langSubdir, targetVttName);
         final candidate2 = path.join(
           opusDir,
@@ -3454,7 +3441,6 @@ class _PlayerScreenState extends State<PlayerScreen>
           targetVttName,
         );
         final candidate3 = path.join(opusDir, targetVttName);
-
         String? foundVtt;
         for (final candidate in [candidate1, candidate2, candidate3]) {
           if (await File(candidate).exists()) {
@@ -3462,31 +3448,25 @@ class _PlayerScreenState extends State<PlayerScreen>
             break;
           }
         }
-
         if (foundVtt == null) {
           mdContent.writeln(
               '*Missing subtitle file for range $rangeKey: $targetVttName*\n');
           continue;
         }
-
         final vttContent = await File(foundVtt).readAsString();
         final rangeSubs = _parseVTT(vttContent);
         final verses = _extractQuranVerseTexts(rangeSubs);
-
         for (final entry in verses) {
           mdContent.writeln('## ${entry.key}\n');
           mdContent.writeln(entry.value);
           mdContent.writeln();
         }
       }
-
       await File(exportPath).writeAsString(mdContent.toString());
-
       setState(() {
         _isExportingMarkdown = false;
         _exportStatus = '';
       });
-
       if (mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
           SnackBar(
