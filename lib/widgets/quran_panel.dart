@@ -2831,9 +2831,10 @@ class _QuranPanelState extends State<QuranPanel> {
                                                   widget.onVerseSelected(ref, index);
                                                   _refInputFocusNode.requestFocus();
                                                 } else {
-                                                  final refString = (ref.toAyah != null &&
-                                                          ref.toAyah != ref.fromAyah)
-                                                      ? '${ref.surah}:${ref.fromAyah}-${ref.toAyah}'
+                                                  final effectiveTo =
+                                                      ref.isFullSurah ? quranVerseCounts[ref.surah] : ref.toAyah;
+                                                  final refString = (effectiveTo != null && effectiveTo != ref.fromAyah)
+                                                      ? '${ref.surah}:${ref.fromAyah}-$effectiveTo'
                                                       : '${ref.surah}:${ref.fromAyah}';
                                                   setState(() {
                                                     _lastTafsirRef = ref;

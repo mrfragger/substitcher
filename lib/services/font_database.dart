@@ -66,6 +66,7 @@ class FontDatabase {
      'Traditional Civilization demo': FontMetadata(fontName: 'Traditional Civilization demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.studio177),
 
      // ==================== demo/ligatures/Various123 ====================
+     'Axaria': FontMetadata(fontName: 'Axaria', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various123),
      'Carevo': FontMetadata(fontName: 'Carevo', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various123),
      'Chocolate Chips': FontMetadata(fontName: 'Chocolate Chips', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various123),
      'Pricedown Black': FontMetadata(fontName: 'Pricedown Black', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various123),
