@@ -39,6 +39,9 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
   String _author = '';
   String _title = '';
   int _bitrate = 12;
+  bool _quranPreset = false;
+  final TextEditingController _authorController = TextEditingController();
+  static const String _quranTitleSuffix = ' (Rowwad) Verse by Verse';
 
   List<String> _availableColumns = [];
   int? _frontColumn;
@@ -77,6 +80,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
     _scrollController.dispose();
     _csvScrollController.dispose();
     _titleController.dispose();
+    _authorController.dispose();
     super.dispose();
   }
 
@@ -492,6 +496,46 @@ print('DONE', flush=True)
         ],
       ),
     );
+  }
+
+  int? _findColumnByKeyword(String keyword) {
+    for (int i = 0; i < _availableColumns.length; i++) {
+      if (_availableColumns[i].toLowerCase().contains(keyword)) {
+        return i;
+      }
+    }
+    return null;
+  }
+
+  void _applyQuranPreset(bool? value) {
+    final enabled = value ?? false;
+    setState(() {
+      _quranPreset = enabled;
+      if (!enabled) return;
+
+      _author = 'Quran';
+      _authorController.text = 'Quran';
+
+      _audioRepetitions = 1;
+      _bitrate = 32;
+      _useFilenameAsChapterName = true;
+      _sampleMode = false;
+      _useSuraAyah = true;
+      _matchByRange = true;
+
+      if (!_title.contains(_quranTitleSuffix)) {
+        _title = '$_title$_quranTitleSuffix';
+        _titleController.text = _title;
+      }
+
+      if (_availableColumns.isNotEmpty) {
+        _frontColumn = _findColumnByKeyword('translation') ?? _frontColumn;
+        _backColumn = _findColumnByKeyword('arabic') ?? _backColumn;
+        _audioColumn = _findColumnByKeyword('audio') ?? _audioColumn;
+        _suraColumn = _findColumnByKeyword('sura') ?? _suraColumn;
+        _ayaColumn = _findColumnByKeyword('aya') ?? _ayaColumn;
+      }
+    });
   }
 
   Future<void> _startConversion() async {
@@ -1600,6 +1644,7 @@ print('DONE', flush=True)
                       ),
                       const SizedBox(height: 8),
                       TextField(
+                        controller: _authorController,
                         style: const TextStyle(color: Colors.white),
                         decoration: const InputDecoration(
                           filled: true,
@@ -1683,6 +1728,27 @@ print('DONE', flush=True)
                                     return DropdownMenuItem(value: bitrate, child: Text('$bitrate kbps'));
                                   }).toList(),
                                   onChanged: (value) => setState(() => _bitrate = value!),
+                                ),
+                              ],
+                            ),
+                          ),
+                          const SizedBox(width: 16),
+                          Expanded(
+                            child: Column(
+                              crossAxisAlignment: CrossAxisAlignment.start,
+                              children: [
+                                const Text('Quick Preset', style: TextStyle(color: Colors.white70, fontSize: 14)),
+                                const SizedBox(height: 4),
+                                CheckboxListTile(
+                                  contentPadding: EdgeInsets.zero,
+                                  controlAffinity: ListTileControlAffinity.leading,
+                                  title: const Text(
+                                    'Quran Presets',
+                                    style: TextStyle(color: Colors.white, fontSize: 13),
+                                  ),
+                                  value: _quranPreset,
+                                  onChanged: _applyQuranPreset,
+                                  activeColor: Colors.deepPurple,
                                 ),
                               ],
                             ),
