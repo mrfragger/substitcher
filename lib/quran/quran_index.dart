@@ -4453,4 +4453,7 @@ Quizzes
 - Do not get married, O believers, to those women who give partners to Allah until they have faith in Him alone and enter the path of Islam. A woman who is a slave but has faith in Allah and His Messenger is better than a free woman who worships {{{idols}}}, even though you may be impressed by her beauty and wealth. Do not give Muslim women in marriage to men who are {{{polytheists}}}. 2:221
 - Do not make Allah's words the object of {{{mockery}}} and play out of insolence. Remember Allah's favors upon you, the most important of which is the revelation you have received in the form of the Quran and Sunnah, through which He reminds you through encouragement and warning. 2:231
 - Guard your prayers by fulfilling them completely as Allah has instructed. In particular, guard the {{{middle}}} prayer, which is the {{{'Asr (afternoon)}}} prayer, and stand before Allah in submission and devotion. 2:238
+- Who will act as a lender and spend his {{{wealth}}} in the path of Allah willingly with a good heart and {{{intention}}} so that this may come back to him multiplied? Allah restricts and widens provision and health in accordance with His wisdom and justice. 2:245
+- If it were not for the established way of Allah to drive back the {{{evil}}} of some people through others, there would be {{{corruption}}} on earth as the evildoers would gain authority. 2:251
+-
 """;

@@ -134,6 +134,7 @@ class _QuranPanelState extends State<QuranPanel> {
   static bool _tafsirNafahat = false;
   static bool _tafsirKatheer = false;
   static bool _tafsirVarious = false;
+  static double _tafsirFontSize = 14.0;
   static String _variousLanguage = variousTranslationLanguages.first;
   static String _mokhtasarLanguage = 'English';
   static QuranVerseRef? _lastTafsirRef;
@@ -1048,6 +1049,18 @@ class _QuranPanelState extends State<QuranPanel> {
     return Colors.amber;
   }
 
+  void _cycleTafsirFontSize() {
+    setState(() {
+      if (_tafsirFontSize == 14.0) {
+        _tafsirFontSize = 16.0;
+      } else if (_tafsirFontSize == 16.0) {
+        _tafsirFontSize = 18.0;
+      } else {
+        _tafsirFontSize = 14.0;
+      }
+    });
+  }
+
   List<QuranIndexEntry> get _filtered {
     if (_searchQuery == 'quizzes') {
       return widget.entries.where((e) => e.topic.contains('{{{')).toList();
@@ -1379,14 +1392,12 @@ class _QuranPanelState extends State<QuranPanel> {
           ),
           if (_hadeethExpanded) ...[
             const Divider(color: Colors.white12, height: 1),
-            ConstrainedBox(
-              constraints: const BoxConstraints(maxHeight: 520),
-              child: SingleChildScrollView(
-                child: HadeethPanel(
-                  initialLanguage: 'English',
-                  searchFocusNode: widget.hadeethSearchFocusNode,
-                  excludeFocusNode: widget.hadeethExcludeFocusNode,
-                ),
+            SizedBox(
+              height: 520,
+              child: HadeethPanel(
+                initialLanguage: 'English',
+                searchFocusNode: widget.hadeethSearchFocusNode,
+                excludeFocusNode: widget.hadeethExcludeFocusNode,
               ),
             ),
           ],
@@ -1892,6 +1903,37 @@ class _QuranPanelState extends State<QuranPanel> {
     }
   }
 
+  Widget _buildTafsirFontSizeButton() {
+    final fontSizeLabel = _tafsirFontSize.toInt().toString();
+    return Tooltip(
+      message: 'Tafsir font size: $_tafsirFontSize (click to cycle)',
+      child: InkWell(
+        onTap: _cycleTafsirFontSize,
+        borderRadius: BorderRadius.circular(4),
+        child: Container(
+          width: 28,
+          height: 32,
+          alignment: Alignment.center,
+          decoration: BoxDecoration(
+            color: Colors.black26,
+            borderRadius: BorderRadius.circular(4),
+            border: Border.all(
+              color: Colors.teal.withAlpha(160),
+            ),
+          ),
+          child: Text(
+            fontSizeLabel,
+            style: const TextStyle(
+              color: Colors.teal,
+              fontSize: 13,
+              fontWeight: FontWeight.w600,
+            ),
+          ),
+        ),
+      ),
+    );
+  }
+
   void _searchTafsirText(String query) {
     final terms = _tokenize(query);
     if (terms.isEmpty) {
@@ -2371,6 +2413,7 @@ class _QuranPanelState extends State<QuranPanel> {
   @override
   Widget build(BuildContext context) {
     final filtered = _filtered;
+    final double currentFontSize = _tafsirFontSize;
 
     return Focus(
       autofocus: false,
@@ -2442,7 +2485,7 @@ class _QuranPanelState extends State<QuranPanel> {
                     child: TextField(
                       controller: _excludeController,
                       focusNode: _excludeFocusNode,
-                      style: const TextStyle(color: Colors.white, fontSize: 14),
+                      style: TextStyle(color: Colors.white, fontSize: _tafsirFontSize),
                       decoration: InputDecoration(
                         hintText: 'Exclude...',
                         hintStyle: const TextStyle(color: Colors.white54),
@@ -2480,8 +2523,8 @@ class _QuranPanelState extends State<QuranPanel> {
                       color: const Color(0xFF2A2A2A),
                       borderRadius: BorderRadius.circular(6),
                     ),
-                    child: const Text('*',
-                        style: TextStyle(color: Colors.lightBlueAccent, fontSize: 14)),
+                    child: Text('*',
+                        style: TextStyle(color: Colors.lightBlueAccent, fontSize: _tafsirFontSize)),
                   ),
                   if (availableQuranIndexLanguages.length > 1) ...[
                     const SizedBox(width: 12),
@@ -3097,6 +3140,8 @@ class _QuranPanelState extends State<QuranPanel> {
           // Mode toggle: Browse by reference vs. Search text
           Row(
             children: [
+              _buildTafsirFontSizeButton(),
+              const SizedBox(width: 6),
               _modeChip('Browse', !_tafsirSearchMode, () {
                 setState(() => _tafsirSearchMode = false);
                 _tafsirRefFocusNode.requestFocus();
@@ -3583,7 +3628,11 @@ class _QuranPanelState extends State<QuranPanel> {
                 ],
               ),
               const SizedBox(height: 6),
-              _buildTafsirText(text, isRtl, isIntro: ayah == 0, highlightQuery: highlightQuery),
+              _buildTafsirText(text, isRtl,
+                isIntro: ayah == 0,
+                highlightQuery: highlightQuery,
+                fontSize: _tafsirFontSize,
+              )
             ],
           ),
         ),
@@ -3596,21 +3645,17 @@ class _QuranPanelState extends State<QuranPanel> {
       void Function(String)? onVerseTapped,
       String language = 'English',
       int parenDepth = 0,
+      double fontSize = 14.0,
     }) {
       final spans = <TextSpan>[];
       final baseStyle = baseStyleOverride ??
-          const TextStyle(color: Colors.white, fontSize: 14, height: 1.55);
-      const amber = TextStyle(color: Colors.amber, fontSize: 14, height: 1.55);
-      const purple =
-          TextStyle(color: Color(0xFFCB93F5), fontSize: 14, height: 1.55);
-      const quoteStyle =
-          TextStyle(color: Color(0xFFFFB6C1), fontSize: 14, height: 1.55);
-      const verseStyle =
-          TextStyle(color: Colors.lightBlueAccent, fontSize: 14, height: 1.55);
-      const cyanStyle =
-          TextStyle(color: Colors.cyanAccent, fontSize: 14, height: 1.55);
-      const nestedParenStyle =
-          TextStyle(color: Colors.greenAccent, fontSize: 14, height: 1.55);
+          TextStyle(color: Colors.white, fontSize: fontSize, height: 1.55);
+      final amber = TextStyle(color: Colors.amber, fontSize: fontSize, height: 1.55);
+      final purple = TextStyle(color: const Color(0xFFCB93F5), fontSize: fontSize, height: 1.55);
+      final quoteStyle = TextStyle(color: const Color(0xFFFFB6C1), fontSize: fontSize, height: 1.55);
+      final verseStyle = TextStyle(color: Colors.lightBlueAccent, fontSize: fontSize, height: 1.55);
+      final cyanStyle = TextStyle(color: Colors.cyanAccent, fontSize: fontSize, height: 1.55);
+      final nestedParenStyle = TextStyle(color: Colors.greenAccent, fontSize: fontSize, height: 1.55);
 
       final parenColor = parenDepth.isEven ? cyanStyle : nestedParenStyle;
 
@@ -3778,20 +3823,18 @@ class _QuranPanelState extends State<QuranPanel> {
       return spans;
     }
 
-  Widget _buildTafsirText(String text, bool isRtl, {bool isIntro = false, String? highlightQuery}) {
+    Widget _buildTafsirText(String text, bool isRtl, {bool isIntro = false, String? highlightQuery, double fontSize = 14.0}) {
       if (isIntro) {
         return SelectableText(
           text,
           textDirection: isRtl ? TextDirection.rtl : TextDirection.ltr,
           textAlign: isRtl ? TextAlign.right : TextAlign.left,
-          style: const TextStyle(color: Colors.amber, fontSize: 14, height: 1.55),
+          style: TextStyle(color: Colors.amber, fontSize: fontSize, height: 1.55),
         );
       }
 
-      const orangeStyle =
-          TextStyle(color: Colors.orangeAccent, fontSize: 14, height: 1.55);
-      const greenStyle =
-          TextStyle(color: Colors.greenAccent, fontSize: 14, height: 1.55);
+      final orangeStyle = TextStyle(color: Colors.orangeAccent, fontSize: fontSize, height: 1.55);
+      final greenStyle = TextStyle(color: Colors.greenAccent, fontSize: fontSize, height: 1.55);
 
       final lowerText = text.toLowerCase();
       const beneficialMarker = '• beneficial points:';
@@ -3803,7 +3846,8 @@ class _QuranPanelState extends State<QuranPanel> {
       if (beneficialIdx == -1 && footnotesIdx == -1) {
         var spans = _parseMainText(text,
             onVerseTapped: _onTafsirVerseTapped,
-            language: _mokhtasarLanguage);
+            language: _mokhtasarLanguage,
+            fontSize: fontSize);
         if (highlightQuery != null && highlightQuery.isNotEmpty) {
           spans = _highlightQuery(spans, highlightQuery);
         }
@@ -3824,7 +3868,9 @@ class _QuranPanelState extends State<QuranPanel> {
         String mainText = text.substring(0, mainEnd).trimRight();
         mainText = mainText.replaceAll(r'\n', '\n').trimRight();
         spans.addAll(_parseMainText(mainText,
-            onVerseTapped: _onTafsirVerseTapped, language: _mokhtasarLanguage));
+            onVerseTapped: _onTafsirVerseTapped,
+            language: _mokhtasarLanguage,
+            fontSize: fontSize));
       }
 
       if (beneficialIdx != -1) {
@@ -3839,63 +3885,65 @@ class _QuranPanelState extends State<QuranPanel> {
         spans.addAll(_parseMainText(afterMarker,
             baseStyleOverride: greenStyle,
             onVerseTapped: _onTafsirVerseTapped,
-            language: _mokhtasarLanguage));
+            language: _mokhtasarLanguage,
+            fontSize: fontSize));
       }
 
       if (footnotesIdx != -1) {
-              final labelEnd = footnotesIdx + footnotesMarker.length;
-              final label = text.substring(footnotesIdx, labelEnd);
+        final labelEnd = footnotesIdx + footnotesMarker.length;
+        final label = text.substring(footnotesIdx, labelEnd);
+        spans.add(
+          TextSpan(
+            text: '\n\n$label',
+            style: TextStyle(
+              color: Colors.greenAccent,
+              fontSize: fontSize,
+              height: 1.55,
+              fontWeight: FontWeight.w600,
+            ),
+          ),
+        );
+
+        final footnotesText = text.substring(labelEnd);
+        for (final match
+            in RegExp(r'(\[[^\]]*\])|([^\[]+)').allMatches(footnotesText)) {
+          final m = match.group(0) ?? '';
+          if (match.group(1) != null) {
+            if (RegExp(r'^\[\d+\]$').hasMatch(m)) {
               spans.add(
                 TextSpan(
-                  text: '\n\n$label',
-                  style: const TextStyle(
-                    color: Colors.greenAccent,
-                    fontSize: 14,
+                  text: m,
+                  style: TextStyle(
+                    color: Colors.orangeAccent,
+                    fontSize: fontSize,
                     height: 1.55,
-                    fontWeight: FontWeight.w600,
                   ),
                 ),
               );
-
-              final footnotesText = text.substring(labelEnd);
-              for (final match
-                  in RegExp(r'(\[[^\]]*\])|([^\[]+)').allMatches(footnotesText)) {
-                final m = match.group(0) ?? '';
-                if (match.group(1) != null) {
-                  if (RegExp(r'^\[\d+\]$').hasMatch(m)) {
-                    spans.add(
-                      TextSpan(
-                        text: m,
-                        style: const TextStyle(
-                          color: Colors.orangeAccent,
-                          fontSize: 14,
-                          height: 1.55,
-                        ),
-                      ),
-                    );
-                  } else {
-                    spans.add(
-                      TextSpan(
-                        text: m,
-                        style: const TextStyle(
-                          color: Colors.amber,
-                          fontSize: 14,
-                          height: 1.55,
-                        ),
-                      ),
-                    );
-                  }
-                } else {
-                  spans.addAll(
-                    _parseMainText(
-                      m,
-                      onVerseTapped: _onTafsirVerseTapped,
-                      language: _mokhtasarLanguage,
-                    ),
-                  );
-                }
-              }
+            } else {
+              spans.add(
+                TextSpan(
+                  text: m,
+                  style: TextStyle(
+                    color: Colors.amber,
+                    fontSize: fontSize,
+                    height: 1.55,
+                  ),
+                ),
+              );
             }
+          } else {
+            spans.addAll(
+              _parseMainText(
+                m,
+                onVerseTapped: _onTafsirVerseTapped,
+                language: _mokhtasarLanguage,
+                fontSize: fontSize,
+              ),
+            );
+          }
+        }
+      }
 
       var finalSpans = spans;
       if (highlightQuery != null && highlightQuery.isNotEmpty) {

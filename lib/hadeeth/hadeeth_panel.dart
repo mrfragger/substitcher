@@ -29,6 +29,7 @@ class _HadeethPanelState extends State<HadeethPanel> {
   static List<String> _excludeTerms = [];
   static final Map<int, bool> _categoryExpanded = {};
   static final Set<int> _expandedIds = {};
+  static double _hadeethFontSize = 14.0;
 
   FocusNode get _searchFocus => widget.searchFocusNode;
   FocusNode get _excludeFocus => widget.excludeFocusNode;
@@ -81,6 +82,49 @@ class _HadeethPanelState extends State<HadeethPanel> {
       if (haystack.contains(t)) return false;
     }
     return true;
+  }
+
+  void _cycleHadeethFontSize() {
+    setState(() {
+      if (_hadeethFontSize == 14.0) {
+        _hadeethFontSize = 16.0;
+      } else if (_hadeethFontSize == 16.0) {
+        _hadeethFontSize = 18.0;
+      } else {
+        _hadeethFontSize = 14.0;
+      }
+    });
+  }
+
+  Widget _buildHadeethFontSizeButton() {
+    final fontSizeLabel = _hadeethFontSize.toInt().toString();
+    return Tooltip(
+      message: 'Hadith font size: $_hadeethFontSize (click to cycle)',
+      child: InkWell(
+        onTap: _cycleHadeethFontSize,
+        borderRadius: BorderRadius.circular(4),
+        child: Container(
+          width: 28,
+          height: 32,
+          alignment: Alignment.center,
+          decoration: BoxDecoration(
+            color: Colors.black26,
+            borderRadius: BorderRadius.circular(4),
+            border: Border.all(
+              color: Colors.teal.withAlpha(160),
+            ),
+          ),
+          child: Text(
+            fontSizeLabel,
+            style: const TextStyle(
+              color: Colors.teal,
+              fontSize: 13,
+              fontWeight: FontWeight.w600,
+            ),
+          ),
+        ),
+      ),
+    );
   }
 
   List<HadeethEntry> get _filtered {
@@ -368,7 +412,6 @@ class _HadeethPanelState extends State<HadeethPanel> {
     return result;
   }
 
-
   @override
   Widget build(BuildContext context) {
     return Focus(
@@ -387,23 +430,23 @@ class _HadeethPanelState extends State<HadeethPanel> {
         children: [
           _buildToolbar(),
           const Divider(color: Colors.white12, height: 1),
-          if (_loading)
-            const Padding(
-              padding: EdgeInsets.all(24),
-              child: Center(
-                child: CircularProgressIndicator(
-                  color: Colors.tealAccent,
-                  strokeWidth: 2,
-                ),
-              ),
-            )
-          else
-            _buildList(),
+          Expanded(
+            child: _loading
+                ? const Padding(
+                    padding: EdgeInsets.all(24),
+                    child: Center(
+                      child: CircularProgressIndicator(
+                        color: Colors.tealAccent,
+                        strokeWidth: 2,
+                      ),
+                    ),
+                  )
+                : _buildList(),
+          ),
         ],
       ),
     );
   }
-
 
   Widget _buildToolbar() {
     final filtered = _filtered;
@@ -414,6 +457,8 @@ class _HadeethPanelState extends State<HadeethPanel> {
         children: [
           Row(
             children: [
+              _buildHadeethFontSizeButton(),
+              const SizedBox(width: 8),
               Expanded(
                 flex: 3,
                 child: SizedBox(
@@ -602,8 +647,6 @@ class _HadeethPanelState extends State<HadeethPanel> {
     if (_categoryMode) return _buildCategoryView(entries);
 
     return ListView.separated(
-      shrinkWrap: true,
-      physics: const NeverScrollableScrollPhysics(),
       itemCount: entries.length,
       separatorBuilder: (_, __) =>
           const Divider(color: Colors.white10, height: 1),
@@ -611,74 +654,71 @@ class _HadeethPanelState extends State<HadeethPanel> {
     );
   }
 
-
   Widget _buildCategoryView(List<HadeethEntry> entries) {
-    final grouped = _groupByCategory(entries);
-    final categories = grouped.keys.toList();
+     final grouped = _groupByCategory(entries);
+     final categories = grouped.keys.toList();
 
-    return ListView.builder(
-      shrinkWrap: true,
-      physics: const NeverScrollableScrollPhysics(),
-      itemCount: categories.length,
-      itemBuilder: (_, i) {
-        final cat = categories[i];
-        final items = grouped[cat]!;
-        final catId = items.first.categoryId;
-        final isExpanded =
-            _categoryExpanded[catId] ?? _searchTerms.isNotEmpty;
+     return ListView.builder(
+       itemCount: categories.length,
+       itemBuilder: (_, i) {
+         final cat = categories[i];
+         final items = grouped[cat]!;
+         final catId = items.first.categoryId;
+         final isExpanded =
+             _categoryExpanded[catId] ?? _searchTerms.isNotEmpty;
 
-        return Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            InkWell(
-              onTap: () => setState(() =>
-                  _categoryExpanded[catId] = !(isExpanded)),
-              child: Container(
-                padding: const EdgeInsets.symmetric(
-                    horizontal: 16, vertical: 10),
-                color: Colors.white.withAlpha(8),
-                child: Row(
-                  children: [
-                    Icon(
-                      isExpanded
-                          ? Icons.expand_less
-                          : Icons.expand_more,
-                      color: Colors.tealAccent,
-                      size: 16,
-                    ),
-                    const SizedBox(width: 8),
-                    Expanded(
-                      child: Directionality(
-                        textDirection: isRtlHadeethLanguage(_language)
-                            ? TextDirection.rtl
-                            : TextDirection.ltr,
-                        child: Text(
-                          cat,
-                          style: const TextStyle(
-                            color: Colors.tealAccent,
-                            fontSize: 13,
-                            fontWeight: FontWeight.w600,
-                          ),
-                        ),
-                      ),
-                    ),
-                    Text(
-                      '${items.length} hadith${items.length == 1 ? '' : 's'}',
-                      style: const TextStyle(
-                          color: Colors.white24, fontSize: 11),
-                    ),
-                  ],
-                ),
-              ),
-            ),
-            if (isExpanded)
-              ...items.map((e) => _buildHadeethTile(e, indent: true)),
-            const Divider(color: Colors.white12, height: 1),
-          ],
-        );
-      },
-    );
-  }
+         return Column(
+           crossAxisAlignment: CrossAxisAlignment.start,
+           children: [
+             InkWell(
+               onTap: () => setState(() =>
+                   _categoryExpanded[catId] = !(isExpanded)),
+               child: Container(
+                 padding: const EdgeInsets.symmetric(
+                     horizontal: 16, vertical: 10),
+                 color: Colors.white.withAlpha(8),
+                 child: Row(
+                   children: [
+                     Icon(
+                       isExpanded
+                           ? Icons.expand_less
+                           : Icons.expand_more,
+                       color: Colors.tealAccent,
+                       size: 16,
+                     ),
+                     const SizedBox(width: 8),
+                     Expanded(
+                       child: Directionality(
+                         textDirection: isRtlHadeethLanguage(_language)
+                             ? TextDirection.rtl
+                             : TextDirection.ltr,
+                         child: Text(
+                           cat,
+                           style: const TextStyle(
+                             color: Colors.tealAccent,
+                             fontSize: 13,
+                             fontWeight: FontWeight.w600,
+                           ),
+                         ),
+                       ),
+                     ),
+                     Text(
+                       '${items.length} hadith${items.length == 1 ? '' : 's'}',
+                       style: const TextStyle(
+                           color: Colors.white24, fontSize: 11),
+                     ),
+                   ],
+                 ),
+               ),
+             ),
+             if (isExpanded)
+               ...items.map((e) => _buildHadeethTile(e, indent: true)),
+             const Divider(color: Colors.white12, height: 1),
+           ],
+         );
+       },
+     );
+   }
 
   Widget _buildHadeethTile(HadeethEntry entry, {bool indent = false}) {
     final isExpanded = _expandedIds.contains(entry.id) || _searchTerms.isNotEmpty;
@@ -723,9 +763,9 @@ class _HadeethPanelState extends State<HadeethPanel> {
                             children: _highlightTerms(
                               _colorParensAndAllah(
                                 entry.title,
-                                const TextStyle(
+                                TextStyle(
                                   color: Colors.white,
-                                  fontSize: 13,
+                                  fontSize: _hadeethFontSize,
                                   fontWeight: FontWeight.w500,
                                   height: 1.4,
                                 ),
@@ -878,9 +918,9 @@ class _HadeethPanelState extends State<HadeethPanel> {
                               children: _highlightTerms(
                                 _colorParensAndAllah(
                                   h,
-                                  const TextStyle(
+                                  TextStyle(
                                     // color: Colors.greenAccent,
-                                    fontSize: 13,
+                                    fontSize: _hadeethFontSize,
                                     height: 1.5,
                                   ),
                                 ),
@@ -930,7 +970,7 @@ class _HadeethPanelState extends State<HadeethPanel> {
     bool isRtl = false,
     Color textColor = Colors.white,
   }) {
-    final baseStyle = TextStyle(color: textColor, fontSize: 13, height: 1.6);
+    final baseStyle = TextStyle(color: textColor, fontSize: _hadeethFontSize, height: 1.6);
     final spans = _highlightTerms(
       _colorParensAndAllah(text, baseStyle),
       _searchTerms,
