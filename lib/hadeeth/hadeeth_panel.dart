@@ -53,6 +53,7 @@ class _HadeethPanelState extends State<HadeethPanel> {
   static final Set<int> _expandedIds = {};
   static double _hadeethFontSize = 14.0;
   static List<String> _searchHistory = [];
+  final ScrollController _hadeethScrollController = ScrollController();
 
   FocusNode get _searchFocus => widget.searchFocusNode;
   FocusNode get _excludeFocus => widget.excludeFocusNode;
@@ -65,6 +66,11 @@ class _HadeethPanelState extends State<HadeethPanel> {
     } else {
       if (_loading) _loading = false;
     }
+    Future.delayed(const Duration(milliseconds: 100), () {
+      if (mounted) {
+        _searchFocus.requestFocus();
+      }
+    });
   }
 
   @override
@@ -73,6 +79,7 @@ class _HadeethPanelState extends State<HadeethPanel> {
       _searchFocus.unfocus();
       _excludeFocus.unfocus();
     }
+    _hadeethScrollController.dispose();
     super.dispose();
   }
 
@@ -176,10 +183,19 @@ class _HadeethPanelState extends State<HadeethPanel> {
     return scored.map((e) => e.key).toList();
   }
 
+  void _scrollHadeethListToTop() {
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      if (_hadeethScrollController.hasClients) {
+        _hadeethScrollController.jumpTo(0);
+      }
+    });
+  }
+
   void _recomputeSearchResults() {
     if (_searchTerms.isEmpty) {
       _searchResultsCache = [];
       _searchScores = {};
+      _scrollHadeethListToTop();
       return;
     }
     final idHits =
@@ -187,9 +203,11 @@ class _HadeethPanelState extends State<HadeethPanel> {
     if (idHits.isNotEmpty) {
       _searchResultsCache = idHits;
       _searchScores = {};
+      _scrollHadeethListToTop();
       return;
     }
     _searchResultsCache = _bm25SearchEntries(_searchTerms);
+    _scrollHadeethListToTop();
   }
 
   bool _entryMatches(HadeethEntry e) {
@@ -847,6 +865,7 @@ class _HadeethPanelState extends State<HadeethPanel> {
     if (_categoryMode) return _buildCategoryView(entries);
 
     return ListView.separated(
+      controller: _hadeethScrollController,
       itemCount: entries.length,
       separatorBuilder: (_, __) =>
           const Divider(color: Colors.white10, height: 1),
@@ -859,6 +878,7 @@ class _HadeethPanelState extends State<HadeethPanel> {
      final categories = grouped.keys.toList();
 
      return ListView.builder(
+       controller: _hadeethScrollController,
        itemCount: categories.length,
        itemBuilder: (_, i) {
          final cat = categories[i];
