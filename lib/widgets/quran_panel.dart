@@ -142,6 +142,7 @@ class _QuranPanelState extends State<QuranPanel> {
   static List<Map<String, dynamic>> _tafsirResults = [];
   static List<String> _tafsirRefHistory = [];
   static List<String> _verseRefHistory = [];
+  static List<String> _tafsirSearchHistory = [];
   static const Set<String> _quizSupportedLanguages = {'English', 'Spanish'};
   static const Map<String, List<String>> _allahByLanguage = {
     'Arabic': [
@@ -1262,6 +1263,73 @@ class _QuranPanelState extends State<QuranPanel> {
     });
   }
 
+  Widget _buildSearchHistoryButton() {
+    final hasHistory = _tafsirSearchHistory.isNotEmpty;
+    return Builder(
+      builder: (btnContext) {
+        return Tooltip(
+          message: hasHistory ? 'Recent searches' : 'No recent searches yet',
+          child: InkWell(
+            onTap: hasHistory ? () => _showSearchHistoryMenu(btnContext) : null,
+            borderRadius: BorderRadius.circular(4),
+            child: Container(
+              width: 24,
+              height: 32,
+              alignment: Alignment.center,
+              decoration: BoxDecoration(
+                color: Colors.black26,
+                borderRadius: BorderRadius.circular(4),
+                border: Border.all(
+                  color: Colors.teal.withAlpha(hasHistory ? 160 : 40),
+                ),
+              ),
+              child: Icon(
+                Icons.arrow_left,
+                size: 20,
+                color: hasHistory ? Colors.teal : Colors.white24,
+              ),
+            ),
+          ),
+        );
+      },
+    );
+  }
+
+  void _showSearchHistoryMenu(BuildContext context) {
+    final RenderBox button = context.findRenderObject() as RenderBox;
+    final RenderBox overlay =
+        Overlay.of(context).context.findRenderObject() as RenderBox;
+    final position = RelativeRect.fromRect(
+      Rect.fromPoints(
+        button.localToGlobal(Offset(0, button.size.height), ancestor: overlay),
+        button.localToGlobal(button.size.bottomRight(Offset.zero), ancestor: overlay),
+      ),
+      Offset.zero & overlay.size,
+    );
+
+    showMenu<String>(
+      context: context,
+      position: position,
+      color: const Color(0xFF2A2A2A),
+      constraints: const BoxConstraints(minWidth: 110, maxWidth: 170),
+      items: [
+        for (final term in _tafsirSearchHistory)
+          PopupMenuItem<String>(
+            value: term,
+            height: 32,
+            child: Text(term, style: const TextStyle(color: Colors.white, fontSize: 13)),
+          ),
+      ],
+    ).then((selected) {
+      if (selected != null) {
+        _tafsirSearchController.text = selected;
+        _tafsirSearchController.selection =
+            TextSelection.fromPosition(TextPosition(offset: selected.length));
+        _tafsirSearchFocusNode.requestFocus();
+      }
+    });
+  }
+
   Widget _buildPlayAllChip(List<QuranVerseRef> refs, int index) {
     final playableRefs = refs.map((r) {
       if (r.isFullSurah) {
@@ -1905,29 +1973,26 @@ class _QuranPanelState extends State<QuranPanel> {
 
   Widget _buildTafsirFontSizeButton() {
     final fontSizeLabel = _tafsirFontSize.toInt().toString();
-    return Tooltip(
-      message: 'Tafsir font size: $_tafsirFontSize (click to cycle)',
-      child: InkWell(
-        onTap: _cycleTafsirFontSize,
-        borderRadius: BorderRadius.circular(4),
-        child: Container(
-          width: 28,
-          height: 32,
-          alignment: Alignment.center,
-          decoration: BoxDecoration(
-            color: Colors.black26,
-            borderRadius: BorderRadius.circular(4),
-            border: Border.all(
-              color: Colors.teal.withAlpha(160),
-            ),
+    return InkWell(
+      onTap: _cycleTafsirFontSize,
+      borderRadius: BorderRadius.circular(4),
+      child: Container(
+        width: 28,
+        height: 32,
+        alignment: Alignment.center,
+        decoration: BoxDecoration(
+          color: Colors.black26,
+          borderRadius: BorderRadius.circular(4),
+          border: Border.all(
+            color: Colors.teal.withAlpha(160),
           ),
-          child: Text(
-            fontSizeLabel,
-            style: const TextStyle(
-              color: Colors.teal,
-              fontSize: 13,
-              fontWeight: FontWeight.w600,
-            ),
+        ),
+        child: Text(
+          fontSizeLabel,
+          style: const TextStyle(
+            color: Colors.teal,
+            fontSize: 13,
+            fontWeight: FontWeight.w600,
           ),
         ),
       ),
@@ -2009,6 +2074,11 @@ class _QuranPanelState extends State<QuranPanel> {
     setState(() {
       _tafsirSearchResults = top;
       _tafsirSearchTruncated = scored.length > 300;
+      _tafsirSearchHistory.remove(query);
+      _tafsirSearchHistory.insert(0, query);
+      if (_tafsirSearchHistory.length > 20) {
+        _tafsirSearchHistory.removeRange(20, _tafsirSearchHistory.length);
+      }
     });
 
     if (_tafsirSearchScrollController.hasClients) {
@@ -3034,6 +3104,7 @@ class _QuranPanelState extends State<QuranPanel> {
                                                   setState(() {
                                                     _lastTafsirRef = ref;
                                                     _lastTafsirIndex = index;
+                                                    _tafsirSearchMode = false;
                                                   });
                                                   _tafsirRefController.text = refString;
                                                   _tafsirRefFocusNode.requestFocus();
@@ -3233,30 +3304,37 @@ class _QuranPanelState extends State<QuranPanel> {
               child: Row(
                 children: [
                   if (_tafsirSearchMode)
-                    SizedBox(
-                      width: 220,
-                      height: 32,
-                      child: TextField(
-                        controller: _tafsirSearchController,
-                        focusNode: _tafsirSearchFocusNode,
-                        style: const TextStyle(color: Colors.white, fontSize: 12),
-                        decoration: InputDecoration(
-                          hintText: 'Search tafsir text…',
-                          hintStyle: const TextStyle(
-                              color: Colors.white24, fontSize: 12),
-                          prefixIcon: const Icon(Icons.search,
-                              color: Colors.teal, size: 16),
-                          filled: true,
-                          fillColor: Colors.black26,
-                          border: OutlineInputBorder(
-                            borderRadius: BorderRadius.circular(4),
-                            borderSide: BorderSide.none,
+                    Row(
+                      mainAxisSize: MainAxisSize.min,
+                      children: [
+                        _buildSearchHistoryButton(),
+                        const SizedBox(width: 4),
+                        SizedBox(
+                          width: 220,
+                          height: 32,
+                          child: TextField(
+                            controller: _tafsirSearchController,
+                            focusNode: _tafsirSearchFocusNode,
+                            style: const TextStyle(color: Colors.white, fontSize: 12),
+                            decoration: InputDecoration(
+                              hintText: 'Search tafsir text…',
+                              hintStyle: const TextStyle(
+                                  color: Colors.white24, fontSize: 12),
+                              prefixIcon: const Icon(Icons.search,
+                                  color: Colors.teal, size: 16),
+                              filled: true,
+                              fillColor: Colors.black26,
+                              border: OutlineInputBorder(
+                                borderRadius: BorderRadius.circular(4),
+                                borderSide: BorderSide.none,
+                              ),
+                              contentPadding: const EdgeInsets.symmetric(
+                                  horizontal: 8, vertical: 4),
+                            ),
+                            onSubmitted: _searchTafsirText,
                           ),
-                          contentPadding: const EdgeInsets.symmetric(
-                              horizontal: 8, vertical: 4),
                         ),
-                        onSubmitted: _searchTafsirText,
-                      ),
+                      ],
                     )
                     else
                       Row(
@@ -3583,9 +3661,6 @@ class _QuranPanelState extends State<QuranPanel> {
       };
       final ayahLabel = ayah == 0 ? '$surah:intro' : '$surah:$ayah';
       final score = r['score'] as double?;
-      final displayLabel = score != null
-          ? '$ayahLabel (score ${score.toStringAsFixed(1)})'
-          : ayahLabel;
       return Directionality(
         textDirection: isRtl ? TextDirection.rtl : TextDirection.ltr,
         child: Container(
@@ -3614,9 +3689,21 @@ class _QuranPanelState extends State<QuranPanel> {
                             fontWeight: FontWeight.w600)),
                   ),
                   const SizedBox(width: 8),
-                  Text(displayLabel,
-                      style:
-                          const TextStyle(color: Colors.white54, fontSize: 12)),
+                  Text.rich(
+                    TextSpan(
+                      children: [
+                        TextSpan(
+                          text: ayahLabel,
+                          style: const TextStyle(color: Colors.greenAccent, fontSize: 12),
+                        ),
+                        if (score != null)
+                          TextSpan(
+                            text: ' (score ${score.toStringAsFixed(1)})',
+                            style: const TextStyle(color: Colors.white54, fontSize: 12),
+                          ),
+                      ],
+                    ),
+                  ),
                   const Spacer(),
                   IconButton(
                     icon: const Icon(Icons.copy, color: Colors.white24, size: 14),

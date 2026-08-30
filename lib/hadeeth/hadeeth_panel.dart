@@ -30,6 +30,7 @@ class _HadeethPanelState extends State<HadeethPanel> {
   static final Map<int, bool> _categoryExpanded = {};
   static final Set<int> _expandedIds = {};
   static double _hadeethFontSize = 14.0;
+  static List<String> _searchHistory = [];
 
   FocusNode get _searchFocus => widget.searchFocusNode;
   FocusNode get _excludeFocus => widget.excludeFocusNode;
@@ -98,29 +99,26 @@ class _HadeethPanelState extends State<HadeethPanel> {
 
   Widget _buildHadeethFontSizeButton() {
     final fontSizeLabel = _hadeethFontSize.toInt().toString();
-    return Tooltip(
-      message: 'Hadith font size: $_hadeethFontSize (click to cycle)',
-      child: InkWell(
-        onTap: _cycleHadeethFontSize,
-        borderRadius: BorderRadius.circular(4),
-        child: Container(
-          width: 28,
-          height: 32,
-          alignment: Alignment.center,
-          decoration: BoxDecoration(
-            color: Colors.black26,
-            borderRadius: BorderRadius.circular(4),
-            border: Border.all(
-              color: Colors.teal.withAlpha(160),
-            ),
+    return InkWell(
+      onTap: _cycleHadeethFontSize,
+      borderRadius: BorderRadius.circular(4),
+      child: Container(
+        width: 28,
+        height: 32,
+        alignment: Alignment.center,
+        decoration: BoxDecoration(
+          color: Colors.black26,
+          borderRadius: BorderRadius.circular(4),
+          border: Border.all(
+            color: Colors.orange.withAlpha(160),
           ),
-          child: Text(
-            fontSizeLabel,
-            style: const TextStyle(
-              color: Colors.teal,
-              fontSize: 13,
-              fontWeight: FontWeight.w600,
-            ),
+        ),
+        child: Text(
+          fontSizeLabel,
+          style: const TextStyle(
+            color: Colors.orange,
+            fontSize: 13,
+            fontWeight: FontWeight.w600,
           ),
         ),
       ),
@@ -132,6 +130,72 @@ class _HadeethPanelState extends State<HadeethPanel> {
     return _allEntries.where(_entryMatches).toList();
   }
 
+  Widget _buildSearchHistoryButton() {
+    final hasHistory = _searchHistory.isNotEmpty;
+    return Builder(
+      builder: (btnContext) {
+        return Tooltip(
+          message: hasHistory ? 'Recent searches' : 'No recent searches yet',
+          child: InkWell(
+            onTap: hasHistory ? () => _showSearchHistoryMenu(btnContext) : null,
+            borderRadius: BorderRadius.circular(4),
+            child: Container(
+              width: 24,
+              height: 32,
+              alignment: Alignment.center,
+              decoration: BoxDecoration(
+                color: Colors.black26,
+                borderRadius: BorderRadius.circular(4),
+                border: Border.all(
+                  color: Colors.orange.withAlpha(hasHistory ? 160 : 40),
+                ),
+              ),
+              child: Icon(
+                Icons.arrow_left,
+                size: 20,
+                color: hasHistory ? Colors.orange : Colors.white24,
+              ),
+            ),
+          ),
+        );
+      },
+    );
+  }
+
+  void _showSearchHistoryMenu(BuildContext context) {
+    final RenderBox button = context.findRenderObject() as RenderBox;
+    final RenderBox overlay =
+        Overlay.of(context).context.findRenderObject() as RenderBox;
+    final position = RelativeRect.fromRect(
+      Rect.fromPoints(
+        button.localToGlobal(Offset(0, button.size.height), ancestor: overlay),
+        button.localToGlobal(button.size.bottomRight(Offset.zero), ancestor: overlay),
+      ),
+      Offset.zero & overlay.size,
+    );
+
+    showMenu<String>(
+      context: context,
+      position: position,
+      color: const Color(0xFF2A2A2A),
+      constraints: const BoxConstraints(minWidth: 110, maxWidth: 170),
+      items: [
+        for (final term in _searchHistory)
+          PopupMenuItem<String>(
+            value: term,
+            height: 32,
+            child: Text(term, style: const TextStyle(color: Colors.white, fontSize: 13)),
+          ),
+      ],
+    ).then((selected) {
+      if (selected != null) {
+        _searchController.text = selected;
+        _searchController.selection =
+            TextSelection.fromPosition(TextPosition(offset: selected.length));
+        _searchFocus.requestFocus();
+      }
+    });
+  }
 
   Map<String, List<HadeethEntry>> _groupByCategory(List<HadeethEntry> entries) {
     final map = <String, List<HadeethEntry>>{};
@@ -459,6 +523,8 @@ class _HadeethPanelState extends State<HadeethPanel> {
             children: [
               _buildHadeethFontSizeButton(),
               const SizedBox(width: 8),
+              _buildSearchHistoryButton(),
+              const SizedBox(width: 8),
               Expanded(
                 flex: 3,
                 child: SizedBox(
@@ -503,6 +569,12 @@ class _HadeethPanelState extends State<HadeethPanel> {
                           .toList();
                       if (_searchTerms.isNotEmpty) {
                         _categoryExpanded.clear();
+                        final trimmed = v.trim();
+                        _searchHistory.remove(trimmed);
+                        _searchHistory.insert(0, trimmed);
+                        if (_searchHistory.length > 20) {
+                          _searchHistory.removeRange(20, _searchHistory.length);
+                        }
                       }
                     }),
                   ),
