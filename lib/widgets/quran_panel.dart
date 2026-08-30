@@ -1,3 +1,4 @@
+import 'dart:math' as math;
 import 'package:flutter/services.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/gestures.dart';
@@ -6,6 +7,7 @@ import 'package:scrollable_positioned_list/scrollable_positioned_list.dart';
 import '../quran/quran_index.dart';
 import '../quran/surah_names.dart';
 import '../quran/quran_verse_search_index.dart';
+import '../tafsir_index/tafsir_binary_index.dart';
 import '../tafsir/tafsir_mokhtasar_all.dart';
 import '../tafsir/tafsir_english_hilali_khan.dart';
 import '../tafsir/tafsir_english_rowwad.dart';
@@ -83,6 +85,30 @@ class QuranPanel extends StatefulWidget {
 
   @override
   State<QuranPanel> createState() => _QuranPanelState();
+}
+
+class _Posting {
+  final int surah;
+  final int ayah;
+  final String source;
+  final int termFreq;
+  const _Posting(this.surah, this.ayah, this.source, this.termFreq);
+}
+
+class _TafsirIndex {
+  final Map<String, List<_Posting>> invertedIndex = {};
+  final Map<String, int> docLengths = {}; // key: "surah:ayah:source"
+  final Map<String, String> docText = {};  // key: "surah:ayah:source"
+  int totalDocs = 0;
+  double avgDocLength = 0;
+}
+
+List<String> _tokenize(String text) {
+  return text
+      .toLowerCase()
+      .split(RegExp(r'[^\p{L}\p{N}]+', unicode: true))
+      .where((t) => t.isNotEmpty)
+      .toList();
 }
 
 class _QuranPanelState extends State<QuranPanel> {
@@ -960,12 +986,21 @@ class _QuranPanelState extends State<QuranPanel> {
 
   bool _isRtlText(String text) => _rtlScripts.contains(_detectScript(text));
 
+  TafsirBinaryIndex? _katheerIndex;
+  TafsirBinaryIndex? _kathirIndex;
+  TafsirBinaryIndex? _baghawiIndex;
+  bool _katheerIndexLoading = false;
+  bool _kathirIndexLoading = false;
+  bool _baghawiIndexLoading = false;
+
   bool _tafsirSearchMode = false;
   List<Map<String, dynamic>> _tafsirSearchResults = [];
+  bool _tafsirSearchTruncated = false;
 
   final TextEditingController _tafsirRefController = TextEditingController();
   final FocusNode _tafsirRefFocusNode = FocusNode();
   final ScrollController _tafsirScrollController = ScrollController();
+  final ScrollController _tafsirSearchScrollController = ScrollController();
 
   FocusNode get _searchFocusNode => widget.searchFocusNode;
   FocusNode get _excludeFocusNode => widget.quranExcludeFocusNode;
@@ -999,6 +1034,7 @@ class _QuranPanelState extends State<QuranPanel> {
     _tafsirRefController.dispose();
     _tafsirRefFocusNode.dispose();
     _tafsirScrollController.dispose();
+    _tafsirSearchScrollController.dispose();
     super.dispose();
   }
 
@@ -1706,126 +1742,242 @@ class _QuranPanelState extends State<QuranPanel> {
     _tafsirRefFocusNode.requestFocus();
   }
 
+  _TafsirIndex _buildIndexForSource(
+      String sourceName, String? Function(int surah, int ayah) getText) {
+    final index = _TafsirIndex();
+    int totalLength = 0;
+
+    for (int surah = 1; surah <= 114; surah++) {
+      final maxAyah = quranVerseCounts[surah]!;
+      final startAyah = sourceName == 'Mokhtasar' ? 0 : 1;
+      for (int ayah = startAyah; ayah <= maxAyah; ayah++) {
+        final text = getText(surah, ayah);
+        if (text == null || text.isEmpty) continue;
+        final tokens = _tokenize(text);
+        if (tokens.isEmpty) continue;
+
+        final docId = '$surah:$ayah:$sourceName';
+        final termCounts = <String, int>{};
+        for (final t in tokens) {
+          termCounts[t] = (termCounts[t] ?? 0) + 1;
+        }
+        for (final entry in termCounts.entries) {
+          index.invertedIndex
+              .putIfAbsent(entry.key, () => [])
+              .add(_Posting(surah, ayah, sourceName, entry.value));
+        }
+        index.docLengths[docId] = tokens.length;
+        index.docText[docId] = text;
+        totalLength += tokens.length;
+        index.totalDocs++;
+      }
+    }
+    index.avgDocLength = index.totalDocs == 0 ? 0 : totalLength / index.totalDocs;
+    return index;
+  }
+
+  static const double _k1 = 1.5;
+  static const double _b = 0.75;
+
+  double _bm25Score(_TafsirIndex index, String docId, List<String> terms) {
+    final docLen = index.docLengths[docId] ?? 0;
+    if (docLen == 0) return 0;
+    double score = 0;
+    for (final term in terms) {
+      final postings = index.invertedIndex[term];
+      if (postings == null) continue;
+      final df = postings.length; // docs containing this term
+      final idf = math.log(1 + (index.totalDocs - df + 0.5) / (df + 0.5));
+      final posting = postings.firstWhere(
+        (p) => '${p.surah}:${p.ayah}:${p.source}' == docId,
+        orElse: () => const _Posting(0, 0, '', 0),
+      );
+      final tf = posting.termFreq;
+      if (tf == 0) continue;
+      final numerator = tf * (_k1 + 1);
+      final denominator = tf + _k1 * (1 - _b + _b * (docLen / index.avgDocLength));
+      score += idf * (numerator / denominator);
+    }
+    return score;
+  }
+
+  double _bm25ScoreBinary(TafsirBinaryIndex index, int docId, List<String> terms) {
+    final docLen = index.docLengths[docId] ?? 0;
+    if (docLen == 0) return 0;
+    double score = 0;
+    for (final term in terms) {
+      final postings = index.invertedIndex[term];
+      if (postings == null) continue;
+      final df = postings.length;
+      final idf = math.log(1 + (index.totalDocs - df + 0.5) / (df + 0.5));
+      final posting = postings.firstWhere(
+          (p) => p.docId == docId, orElse: () => const BinaryPosting(-1, 0));
+      final tf = posting.termFreq;
+      if (tf == 0) continue;
+      final numerator = tf * (_k1 + 1);
+      final denominator =
+          tf + _k1 * (1 - _b + _b * (docLen / index.avgDocLength));
+      score += idf * (numerator / denominator);
+    }
+    return score;
+  }
+
+  Future<void> _loadHeavyIndex(String source) async {
+    Future<void> load(
+        TafsirBinaryIndex? Function() getCurrent,
+        void Function(TafsirBinaryIndex?) setIndex,
+        void Function(bool) setLoading,
+        String assetPath) async {
+      if (getCurrent() != null) return;
+      setState(() => setLoading(true));
+      final idx = await TafsirBinaryIndex.load(assetPath);
+      if (!mounted) return;
+      setState(() {
+        setIndex(idx);
+        setLoading(false);
+      });
+    }
+
+    switch (source) {
+      case 'Katheer':
+        if (_katheerIndex != null || _katheerIndexLoading) return;
+        await load(() => _katheerIndex, (v) => _katheerIndex = v,
+            (v) => _katheerIndexLoading = v, 'assets/tafsir_index/katheer.bin');
+        break;
+      case 'Kathir':
+        if (_kathirIndex != null || _kathirIndexLoading) return;
+        await load(() => _kathirIndex, (v) => _kathirIndex = v,
+            (v) => _kathirIndexLoading = v, 'assets/tafsir_index/kathir.bin');
+        break;
+      case 'Baghawi':
+        if (_baghawiIndex != null || _baghawiIndexLoading) return;
+        await load(() => _baghawiIndex, (v) => _baghawiIndex = v,
+            (v) => _baghawiIndexLoading = v, 'assets/tafsir_index/baghawi.bin');
+        break;
+    }
+  }
+
+  void _addHeavySourceMatches(
+      TafsirBinaryIndex? index,
+      String sourceName,
+      String? Function(int surah, int ayah) getText,
+      List<String> terms,
+      List<Map<String, dynamic>> scored) {
+    if (index == null) return;
+
+    Set<int>? candidateDocIds;
+    for (final term in terms) {
+      final postings = index.invertedIndex[term];
+      final docIds = postings?.map((p) => p.docId).toSet() ?? <int>{};
+      candidateDocIds =
+          candidateDocIds == null ? docIds : candidateDocIds.intersection(docIds);
+      if (candidateDocIds.isEmpty) return;
+    }
+    if (candidateDocIds == null) return;
+
+    for (final docId in candidateDocIds) {
+      final surah = docId ~/ 1000;
+      final ayah = docId % 1000;
+      final text = getText(surah, ayah);
+      if (text == null || text.isEmpty) continue;
+      final tokenSet = _tokenize(text).toSet();
+      if (!terms.every((t) => tokenSet.contains(t))) continue;
+      scored.add({
+        'source': sourceName,
+        'surah': surah,
+        'ayah': ayah,
+        'text': text,
+        'score': _bm25ScoreBinary(index, docId, terms),
+      });
+    }
+  }
+
   void _searchTafsirText(String query) {
-    final terms = query
-        .trim()
-        .toLowerCase()
-        .split(RegExp(r'\s+'))
-        .where((t) => t.isNotEmpty)
-        .toList();
+    final terms = _tokenize(query);
     if (terms.isEmpty) {
       setState(() => _tafsirSearchResults = []);
       return;
     }
 
-    bool matches(String? text) {
-      if (text == null || text.isEmpty) return false;
-      final lower = text.toLowerCase();
-      return terms.every((t) => lower.contains(t));
+    final scored = <Map<String, dynamic>>[];
+
+    // Heavy sources: binary index, cached once loaded.
+    if (_tafsirKatheer) {
+      _addHeavySourceMatches(
+          _katheerIndex, 'Katheer', getTafsirKatheer, terms, scored);
+    }
+    if (_tafsirKathir) {
+      _addHeavySourceMatches(
+          _kathirIndex, 'Kathir', getTafsirKathirEnglish, terms, scored);
+    }
+    if (_tafsirBaghawi) {
+      _addHeavySourceMatches(
+          _baghawiIndex, 'Baghawi', getTafsirBaghawi, terms, scored);
     }
 
-    final results = <Map<String, dynamic>>[];
+    // Light sources: build fresh, fast enough not to bother caching.
+    final lightSources = <String, String? Function(int, int)>{};
+    if (_tafsirMokhtasar) {
+      lightSources['Mokhtasar'] =
+          (s, a) => getTafsirMokhtasarForLanguage(_mokhtasarLanguage, s, a);
+    }
+    if (_tafsirHilali) lightSources['Hilali'] = getTafsirHilali;
+    if (_tafsirRowwadEnglish) lightSources['Rowwad'] = getTafsirRowwadEnglish;
+    if (_tafsirNoorEnglish) lightSources['Noor'] = getTafsirNoorEnglish;
+    if (_tafsirYacobEnglish) lightSources['Yacob'] = getTafsirYacobEnglish;
+    if (_tafsirQuran) lightSources['Quran'] = getTafsirQuran;
+    if (_tafsirMoyassar) lightSources['Moyassar'] = getTafsirMoyassar;
+    if (_tafsirSaadi) lightSources['Saadi'] = getTafsirSaadi;
+    if (_tafsirYaseer) lightSources['Yaseer'] = getTafsirYaseer;
+    if (_tafsirNafahat) lightSources['Nafahat'] = getTafsirNafahat;
+    if (_tafsirSiraj) lightSources['Siraj'] = getTafsirSiraj;
+    if (_tafsirVarious) {
+      lightSources['Various (${_variousLanguage})'] =
+          (s, a) => getVariousTranslation(_variousLanguage, s, a);
+    }
 
-    for (int surah = 1; surah <= 114; surah++) {
-      final maxAyah = quranVerseCounts[surah]!;
-      for (int ayah = 0; ayah <= maxAyah; ayah++) {
-        if (_tafsirMokhtasar) {
-          final text =
-              getTafsirMokhtasarForLanguage(_mokhtasarLanguage, surah, ayah);
-          if (matches(text)) {
-            results.add({'source': 'Mokhtasar', 'surah': surah, 'ayah': ayah, 'text': text!});
-          }
-        }
-        if (ayah == 0) continue;
-        if (_tafsirHilali) {
-          final text = getTafsirHilali(surah, ayah);
-          if (matches(text)) {
-            results.add({'source': 'Hilali', 'surah': surah, 'ayah': ayah, 'text': text!});
-          }
-        }
-        if (_tafsirRowwadEnglish) {
-          final text = getTafsirRowwadEnglish(surah, ayah);
-          if (matches(text)) {
-            results.add({'source': 'Rowwad', 'surah': surah, 'ayah': ayah, 'text': text!});
-          }
-        }
-        if (_tafsirNoorEnglish) {
-          final text = getTafsirNoorEnglish(surah, ayah);
-          if (matches(text)) {
-            results.add({'source': 'Noor', 'surah': surah, 'ayah': ayah, 'text': text!});
-          }
-        }
-        if (_tafsirYacobEnglish) {
-          final text = getTafsirYacobEnglish(surah, ayah);
-          if (matches(text)) {
-            results.add({'source': 'Yacob', 'surah': surah, 'ayah': ayah, 'text': text!});
-          }
-        }
-        if (_tafsirKathir) {
-          final text = getTafsirKathirEnglish(surah, ayah);
-          if (matches(text)) {
-            results.add({'source': 'Kathir', 'surah': surah, 'ayah': ayah, 'text': text!});
-          }
-        }
-        if (_tafsirQuran) {
-          final text = getTafsirQuran(surah, ayah);
-          if (matches(text)) {
-            results.add({'source': 'Quran', 'surah': surah, 'ayah': ayah, 'text': text!});
-          }
-        }
-        if (_tafsirMoyassar) {
-          final text = getTafsirMoyassar(surah, ayah);
-          if (matches(text)) {
-            results.add({'source': 'Moyassar', 'surah': surah, 'ayah': ayah, 'text': text!});
-          }
-        }
-        if (_tafsirSaadi) {
-          final text = getTafsirSaadi(surah, ayah);
-          if (matches(text)) {
-            results.add({'source': 'Saadi', 'surah': surah, 'ayah': ayah, 'text': text!});
-          }
-        }
-        if (_tafsirYaseer) {
-          final text = getTafsirYaseer(surah, ayah);
-          if (matches(text)) {
-            results.add({'source': 'Yaseer', 'surah': surah, 'ayah': ayah, 'text': text!});
-          }
-        }
-        if (_tafsirNafahat) {
-          final text = getTafsirNafahat(surah, ayah);
-          if (matches(text)) {
-            results.add({'source': 'Nafahat', 'surah': surah, 'ayah': ayah, 'text': text!});
-          }
-        }
-        if (_tafsirSiraj) {
-          final text = getTafsirSiraj(surah, ayah);
-          if (matches(text)) {
-            results.add({'source': 'Siraj', 'surah': surah, 'ayah': ayah, 'text': text!});
-          }
-        }
-        if (_tafsirBaghawi) {
-          final text = getTafsirBaghawi(surah, ayah);
-          if (matches(text)) {
-            results.add({'source': 'Baghawi', 'surah': surah, 'ayah': ayah, 'text': text!});
-          }
-        }
-        if (_tafsirKatheer) {
-          final text = getTafsirKatheer(surah, ayah);
-          if (matches(text)) {
-            results.add({'source': 'Katheer', 'surah': surah, 'ayah': ayah, 'text': text!});
-          }
-        }
-        if (_tafsirVarious) {
-          final text = getVariousTranslation(_variousLanguage, surah, ayah);
-          if (matches(text)) {
-            results.add({'source': 'Various ($_variousLanguage)', 'surah': surah, 'ayah': ayah, 'text': text!});
-          }
+    for (final entry in lightSources.entries) {
+      final index = _buildIndexForSource(entry.key, entry.value);
+      final candidateDocIds = <String>{};
+      for (final term in terms) {
+        final postings = index.invertedIndex[term];
+        if (postings == null) continue;
+        for (final p in postings) {
+          candidateDocIds.add('${p.surah}:${p.ayah}:${p.source}');
         }
       }
-      if (results.length >= 200) break;
+      for (final docId in candidateDocIds) {
+        final text = index.docText[docId]!;
+        final tokenSet = _tokenize(text).toSet();
+        if (!terms.every((t) => tokenSet.contains(t))) continue;
+        final parts = docId.split(':');
+        scored.add({
+          'source': parts.sublist(2).join(':'),
+          'surah': int.parse(parts[0]),
+          'ayah': int.parse(parts[1]),
+          'text': text,
+          'score': _bm25Score(index, docId, terms),
+        });
+      }
     }
 
-    setState(() => _tafsirSearchResults = results);
+    scored.sort((a, b) => (b['score'] as double).compareTo(a['score'] as double));
+    final top = scored.take(300).toList();
+
+    setState(() {
+      _tafsirSearchResults = top;
+      _tafsirSearchTruncated = scored.length > 300;
+    });
+
+    if (_tafsirSearchScrollController.hasClients) {
+      _tafsirSearchScrollController.jumpTo(0);
+    } else {
+      WidgetsBinding.instance.addPostFrameCallback((_) {
+        if (_tafsirSearchScrollController.hasClients) {
+          _tafsirSearchScrollController.jumpTo(0);
+        }
+      });
+    }
   }
 
   void _jumpToSearchResult(Map<String, dynamic> r) {
@@ -3011,11 +3163,19 @@ class _QuranPanelState extends State<QuranPanel> {
                             const SizedBox(width: 6),
                             _tafsirCheckbox('Baghawi', _tafsirBaghawi, (v) {
                               setState(() => _tafsirBaghawi = v ?? false);
+                              if (_tafsirBaghawi) _loadHeavyIndex('Baghawi');
                             }, Colors.deepOrangeAccent),
                             const SizedBox(width: 6),
                             _tafsirCheckbox('Katheer', _tafsirKatheer, (v) {
                               setState(() => _tafsirKatheer = v ?? false);
+                              if (_tafsirKatheer) _loadHeavyIndex('Katheer');
                             }, Colors.brown),
+                            if (_katheerIndexLoading)
+                              const Padding(
+                                padding: EdgeInsets.only(left: 4),
+                                child: SizedBox(width: 10, height: 10,
+                                    child: CircularProgressIndicator(strokeWidth: 1.5, color: Colors.brown)),
+                              ),
                             const SizedBox(width: 6),
                             _selectAllCheckbox(
                               _allArabicTafsirsSelected, _toggleAllArabicTafsirs),
@@ -3147,6 +3307,7 @@ class _QuranPanelState extends State<QuranPanel> {
                     const SizedBox(width: 7),
                     _tafsirCheckbox('Kathir', _tafsirKathir, (v) {
                       setState(() => _tafsirKathir = v ?? false);
+                      if (_tafsirKathir) _loadHeavyIndex('Kathir');
                     }, Colors.brown),
                     const SizedBox(width: 6),
                     _selectAllCheckbox(
@@ -3191,21 +3352,22 @@ class _QuranPanelState extends State<QuranPanel> {
                   child: Text('No matches',
                       style: TextStyle(color: Colors.white38, fontSize: 12)),
                 )
-              else if (_tafsirSearchResults.isNotEmpty)
-                Expanded(
-                  child: ListView.separated(
-                    itemCount: _tafsirSearchResults.length,
-                    separatorBuilder: (_, __) =>
-                        const Divider(color: Colors.white12, height: 12),
-                    itemBuilder: (_, i) {
-                      final r = _tafsirSearchResults[i];
-                      return InkWell(
-                        onTap: () => _jumpToSearchResult(r),
-                        child: _buildTafsirCard(r, highlightQuery: _tafsirSearchController.text),
-                      );
-                    },
+                else if (_tafsirSearchResults.isNotEmpty)
+                  Expanded(
+                    child: ListView.separated(
+                      controller: _tafsirSearchScrollController,
+                      itemCount: _tafsirSearchResults.length,
+                      separatorBuilder: (_, __) =>
+                          const Divider(color: Colors.white12, height: 12),
+                      itemBuilder: (_, i) {
+                        final r = _tafsirSearchResults[i];
+                        return InkWell(
+                          onTap: () => _jumpToSearchResult(r),
+                          child: _buildTafsirCard(r, highlightQuery: _tafsirSearchController.text),
+                        );
+                      },
+                    ),
                   ),
-                ),
             ] else if (_tafsirResults.isNotEmpty) ...[
               const SizedBox(height: 8),
               Expanded(
@@ -3375,6 +3537,10 @@ class _QuranPanelState extends State<QuranPanel> {
         _ => Colors.greenAccent,
       };
       final ayahLabel = ayah == 0 ? '$surah:intro' : '$surah:$ayah';
+      final score = r['score'] as double?;
+      final displayLabel = score != null
+          ? '$ayahLabel (score ${score.toStringAsFixed(1)})'
+          : ayahLabel;
       return Directionality(
         textDirection: isRtl ? TextDirection.rtl : TextDirection.ltr,
         child: Container(
@@ -3403,7 +3569,7 @@ class _QuranPanelState extends State<QuranPanel> {
                             fontWeight: FontWeight.w600)),
                   ),
                   const SizedBox(width: 8),
-                  Text(ayahLabel,
+                  Text(displayLabel,
                       style:
                           const TextStyle(color: Colors.white54, fontSize: 12)),
                   const Spacer(),

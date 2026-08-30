@@ -736,6 +736,33 @@ const String quranIndexRaw = r"""
 Manzil Prayers (dua) 1:1-7; 2:1-5, 163, 255-257, 284-286; 3:18, 26-27; 7:54-56, 117-122; 17:110-111; 23:115-118; 37:1-11; 55:33-40; 59:21-24; 72:1-4; 109:1-6; 112:1-4; 113:1-5; 114:1-6
 Our Lord Prayers (Rabbana dua)  2:127-128, 201, 250, 286; 3:8-9, 16, 53, 147, 191-194; 5:83, 114; 7:23, 47, 89, 126, 155; 10:85-88; 11:47; 12:101; 14:38-41; 17:80; 18:10; 20:114; 23:109, 118; 25:65-66, 74; 28:24; 40:7-9; 59:10; 60:4-7; 66:8
 My Lord Prayers (Rabbi dua) 3:38; 12:33; 14:35-36; 19:3-6; 20:25-28, 45, 114; 21:83, 87, 89; 23:26, 29, 93-94, 97-98; 26:83-87, 169; 27:19; 28:16-17, 21; 29:30; 37:100; 38:35, 41; 46:15, 71:26-28
+Prophetic Duas
+- Dua of Prophet Adam and Hawwa (Eve) 7:23
+- Prophet Al-Yasa (Elisha) 6:86; 38:48
+- Prophet Ayyub's (Job's) Illness and Dua 21:83-84; 38:41-44
+- Prophet Dhul-Kifl (likely Ezekiel) 21:85-86; 38:48
+- Prophet Idris (Enoch) 19:56-57; 21:85
+- Prophet Ilyas (Elijah) 37:123-132
+- Prophet Ishaq (Isaac) 11:71-73; 37:112-113
+- Prophet Salih 11:61; 26:142-159
+- Prophet Yahya (John the Baptist) 3:38; 19:7-15
+- Dua of Prophet Ayyub (Job) 21:83
+- Dawud (David) and Sulayman's (Solomon's) Gratitude 27:15
+- Musa's (Moses') Dua for Harun (Aaron) 20:29-32
+- Prophet Hud's Declaration of Trust in Allah 11:56
+- Duas of Prophet Ibrahim (Abraham) 2:126; 2:127-128; 14:35-38; 14:40-41; 26:78-85; 26:87-89; 37:100; 60:4-5
+- Duas Connected to Prophet Isa (Jesus) 3:52-53; 5:114; 5:118
+- Dua of Ibrahim (Abraham) and Ismail (Ishmael) at the Ka'bah 2:127-129
+- Duas of Prophet Lut (Lot) 26:169; 29:30
+- Duas of Prophet Muhammad in the Quran 17:80; 20:114; 21:112; 23:97-98; 23:118
+- Duas of Prophet Musa (Moses) 5:25; 7:151; 7:155-156; 20:25-28; 28:16-17; 28:21-22; 28:24
+- Duas of Prophet Nuh (Noah) 11:41; 11:47; 23:28-29; 54:10; 71:28
+- Duas and Trust of Prophet Shuayb (likely Jethro) 7:89; 11:88
+- Duas and Gratitude of Prophet Sulayman (Solomon) 27:15; 27:19; 27:40
+- Prophet Yaqub's (Jacob's) Patience and Duas 12:18; 12:67; 12:83; 12:86
+- Dua of Prophet Yunus (Jonah) 21:87
+- Dua of Prophet Yusuf (Joseph) 12:101
+- Duas of Prophet Zakariya (Zechariah) 3:38; 19:4-5; 21:89
 Surah Themes
 - Stories of the Prophets S.10; S.11; S.12; S.14; S.19; S.21; S.28; S.37; S.71
 - Guidance for Life S.1; S.2; S.3; S.4; S.17; S.18; S.24; S.31; S.49
@@ -4421,5 +4448,9 @@ Quizzes
 - O Prophet, ask the Jews reprimandingly about how many {{{clear}}} signs proving the truthfulness of the messengers were given to them by Allah. Despite this, they {{{denied}}} it and turned away from them. If anyone exchanges Allah's favor with disbelief and {{{denial}}} after being aware of it and after it has become apparent, then Allah is intense in punishing the disbelievers and the deniers. 2:211
 - Only those given the {{{Torah}}} differed concerning Muhammad صلى الله عليه وسلم and his message despite it being clear. They did this out of injustice and {{{jealousy}}}. Allah then enabled the believers to recognize guidance from misguidance by His permission and will. Allah guides whomever He wishes to a {{{perfectly}}} straight path: the path of faith. 2:113
 - On the other hand, you may like something when, in reality, it is bad and {{{harmful}}} to you, such as staying behind from fighting: this will result in you being defeated and the {{{enemy}}} gaining authority over you. Allah knows full well what is good and what is not, whereas you do not. 2:216
--
+- The idolatry that they are engulfed in is worse than {{{killing}}}. O believers, the polytheists will continue their oppression by fighting you until they turn you away from your religion of truth towards their false religion if they can. If anyone turns back from his religion and dies upon disbelief in Allah, his good deeds will become {{{void}}}, and his outcome in the Afterlife will be the Fire, wherein he will live eternally. 2:217
+- O Prophet, your Companions ask you about {{{wine}}} (which refers to anything that impairs the mind or intoxicates it), specifically concerning the legality of its drinking, selling, and purchasing. They also ask you about {{{gambling}}} (which refers to wealth taken in a competition between two people in which both contribute to the winning total). 2:219
+- Do not get married, O believers, to those women who give partners to Allah until they have faith in Him alone and enter the path of Islam. A woman who is a slave but has faith in Allah and His Messenger is better than a free woman who worships {{{idols}}}, even though you may be impressed by her beauty and wealth. Do not give Muslim women in marriage to men who are {{{polytheists}}}. 2:221
+- Do not make Allah's words the object of {{{mockery}}} and play out of insolence. Remember Allah's favors upon you, the most important of which is the revelation you have received in the form of the Quran and Sunnah, through which He reminds you through encouragement and warning. 2:231
+- Guard your prayers by fulfilling them completely as Allah has instructed. In particular, guard the {{{middle}}} prayer, which is the {{{'Asr (afternoon)}}} prayer, and stand before Allah in submission and devotion. 2:238
 """;
