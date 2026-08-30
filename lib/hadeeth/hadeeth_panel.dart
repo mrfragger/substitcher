@@ -1,3 +1,4 @@
+import 'dart:math' as math;
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'hadeeth_index.dart';
@@ -16,6 +17,27 @@ class HadeethPanel extends StatefulWidget {
 
   @override
   State<HadeethPanel> createState() => _HadeethPanelState();
+}
+
+class _HadeethPosting {
+  final int id;
+  final int termFreq;
+  const _HadeethPosting(this.id, this.termFreq);
+}
+
+class _HadeethBm25Index {
+  final Map<String, List<_HadeethPosting>> invertedIndex = {};
+  final Map<int, int> docLengths = {};
+  int totalDocs = 0;
+  double avgDocLength = 0;
+}
+
+List<String> _tokenizeHadeeth(String text) {
+  return text
+      .toLowerCase()
+      .split(RegExp(r'[^\p{L}\p{N}]+', unicode: true))
+      .where((t) => t.isNotEmpty)
+      .toList();
 }
 
 class _HadeethPanelState extends State<HadeethPanel> {
@@ -65,11 +87,110 @@ class _HadeethPanelState extends State<HadeethPanel> {
           _loading = false;
           _categoryExpanded.clear();
           _expandedIds.clear();
+          _recomputeSearchResults();
         });
       }
     });
   }
 
+  static const double _k1 = 1.5;
+  static const double _b = 0.75;
+  static List<HadeethEntry> _searchResultsCache = [];
+  static Map<int, double> _searchScores = {};
+
+  _HadeethBm25Index _buildHadeethBm25Index(List<HadeethEntry> entries) {
+    final index = _HadeethBm25Index();
+    int totalLength = 0;
+    for (final e in entries) {
+      final text =
+          '${e.title} ${e.hadeeth} ${e.category} ${e.explanation} ${e.hints.join(' ')}';
+      final tokens = _tokenizeHadeeth(text);
+      if (tokens.isEmpty) continue;
+      final termCounts = <String, int>{};
+      for (final t in tokens) {
+        termCounts[t] = (termCounts[t] ?? 0) + 1;
+      }
+      for (final entry in termCounts.entries) {
+        index.invertedIndex
+            .putIfAbsent(entry.key, () => [])
+            .add(_HadeethPosting(e.id, entry.value));
+      }
+      index.docLengths[e.id] = tokens.length;
+      totalLength += tokens.length;
+      index.totalDocs++;
+    }
+    index.avgDocLength = index.totalDocs == 0 ? 0 : totalLength / index.totalDocs;
+    return index;
+  }
+
+  double _bm25ScoreHadeeth(_HadeethBm25Index index, int id, List<String> terms) {
+    final docLen = index.docLengths[id] ?? 0;
+    if (docLen == 0 || index.avgDocLength == 0) return 0;
+    double score = 0;
+    for (final term in terms) {
+      final postings = index.invertedIndex[term];
+      if (postings == null) continue;
+      final df = postings.length;
+      final idf = math.log(1 + (index.totalDocs - df + 0.5) / (df + 0.5));
+      final posting = postings.firstWhere(
+        (p) => p.id == id,
+        orElse: () => const _HadeethPosting(-1, 0),
+      );
+      final tf = posting.termFreq;
+      if (tf == 0) continue;
+      final numerator = tf * (_k1 + 1);
+      final denominator =
+          tf + _k1 * (1 - _b + _b * (docLen / index.avgDocLength));
+      score += idf * (numerator / denominator);
+    }
+    return score;
+  }
+
+  List<HadeethEntry> _bm25SearchEntries(List<String> terms) {
+    final index = _buildHadeethBm25Index(_allEntries);
+
+    Set<int>? candidateIds;
+    for (final term in terms) {
+      final postings = index.invertedIndex[term];
+      final ids = postings?.map((p) => p.id).toSet() ?? <int>{};
+      candidateIds =
+          candidateIds == null ? ids : candidateIds.intersection(ids);
+      if (candidateIds.isEmpty) return [];
+    }
+    if (candidateIds == null) return [];
+
+    final byId = {for (final e in _allEntries) e.id: e};
+    final scored = <MapEntry<HadeethEntry, double>>[];
+    for (final id in candidateIds) {
+      final e = byId[id];
+      if (e == null) continue;
+      if (_excludeTerms.isNotEmpty) {
+        final haystack =
+            '${e.title} ${e.hadeeth} ${e.category} ${e.id}'.toLowerCase();
+        if (_excludeTerms.any((t) => haystack.contains(t))) continue;
+      }
+      scored.add(MapEntry(e, _bm25ScoreHadeeth(index, id, terms)));
+    }
+    scored.sort((a, b) => b.value.compareTo(a.value));
+    _searchScores = {for (final s in scored) s.key.id: s.value};
+    return scored.map((e) => e.key).toList();
+  }
+
+  void _recomputeSearchResults() {
+    if (_searchTerms.isEmpty) {
+      _searchResultsCache = [];
+      _searchScores = {};
+      return;
+    }
+    final idHits =
+        _allEntries.where((e) => _searchTerms.contains(e.id.toString())).toList();
+    if (idHits.isNotEmpty) {
+      _searchResultsCache = idHits;
+      _searchScores = {};
+      return;
+    }
+    _searchResultsCache = _bm25SearchEntries(_searchTerms);
+  }
 
   bool _entryMatches(HadeethEntry e) {
     if (_searchTerms.isEmpty && _excludeTerms.isEmpty) return true;
@@ -127,6 +248,7 @@ class _HadeethPanelState extends State<HadeethPanel> {
 
   List<HadeethEntry> get _filtered {
     if (_searchTerms.isEmpty && _excludeTerms.isEmpty) return _allEntries;
+    if (_searchTerms.isNotEmpty) return _searchResultsCache;
     return _allEntries.where(_entryMatches).toList();
   }
 
@@ -541,13 +663,15 @@ class _HadeethPanelState extends State<HadeethPanel> {
                           color: Colors.white38, size: 18),
                       suffixIcon: _searchController.text.isNotEmpty
                           ? IconButton(
-                              icon: const Icon(Icons.clear,
-                                  color: Colors.white38, size: 16),
+                              icon: const Icon(Icons.clear, color: Colors.white38, size: 16),
                               padding: EdgeInsets.zero,
                               constraints: const BoxConstraints(),
                               onPressed: () {
                                 _searchController.clear();
-                                setState(() => _searchTerms = []);
+                                setState(() {
+                                  _searchTerms = [];
+                                  _recomputeSearchResults();
+                                });
                               },
                             )
                           : null,
@@ -576,6 +700,7 @@ class _HadeethPanelState extends State<HadeethPanel> {
                           _searchHistory.removeRange(20, _searchHistory.length);
                         }
                       }
+                      _recomputeSearchResults();
                     }),
                   ),
                 ),
@@ -597,13 +722,15 @@ class _HadeethPanelState extends State<HadeethPanel> {
                           color: Colors.white38, size: 18),
                       suffixIcon: _excludeController.text.isNotEmpty
                           ? IconButton(
-                              icon: const Icon(Icons.clear,
-                                  color: Colors.white38, size: 16),
+                              icon: const Icon(Icons.clear, color: Colors.white38, size: 16),
                               padding: EdgeInsets.zero,
                               constraints: const BoxConstraints(),
                               onPressed: () {
                                 _excludeController.clear();
-                                setState(() => _excludeTerms = []);
+                                setState(() {
+                                  _excludeTerms = [];
+                                  _recomputeSearchResults();
+                                });
                               },
                             )
                           : null,
@@ -623,6 +750,7 @@ class _HadeethPanelState extends State<HadeethPanel> {
                           .split(RegExp(r'\s+'))
                           .where((t) => t.isNotEmpty)
                           .toList();
+                      _recomputeSearchResults();
                     }),
                   ),
                 ),
@@ -890,10 +1018,20 @@ class _HadeethPanelState extends State<HadeethPanel> {
                                   color: Colors.white38, fontSize: 10),
                             ),
                             const SizedBox(width: 6),
-                            Text(
-                              '#${entry.id}',
-                              style: const TextStyle(
-                                  color: Colors.orange, fontSize: 10),
+                            Text.rich(
+                              TextSpan(
+                                children: [
+                                  TextSpan(
+                                    text: '#${entry.id}',
+                                    style: const TextStyle(color: Colors.orange, fontSize: 10),
+                                  ),
+                                  if (_searchScores.containsKey(entry.id))
+                                    TextSpan(
+                                      text: ' (score ${_searchScores[entry.id]!.toStringAsFixed(1)})',
+                                      style: const TextStyle(color: Colors.greenAccent, fontSize: 10),
+                                    ),
+                                ],
+                              ),
                             ),
                           ],
                         ),
