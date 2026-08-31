@@ -1936,40 +1936,66 @@ class _QuranPanelState extends State<QuranPanel> {
     }
   }
 
-  void _addHeavySourceMatches(
-      TafsirBinaryIndex? index,
-      String sourceName,
-      String? Function(int surah, int ayah) getText,
-      List<String> terms,
-      List<Map<String, dynamic>> scored) {
-    if (index == null) return;
-
-    Set<int>? candidateDocIds;
-    for (final term in terms) {
-      final postings = index.invertedIndex[term];
-      final docIds = postings?.map((p) => p.docId).toSet() ?? <int>{};
-      candidateDocIds =
-          candidateDocIds == null ? docIds : candidateDocIds.intersection(docIds);
-      if (candidateDocIds.isEmpty) return;
+  String? _extractQuotedPhrase(String text) {
+    if (text.length < 2) return null;
+    const pairs = [
+      ['"', '"'],
+      ['\u201C', '\u201D'], // “ ”
+      ["'", "'"],
+    ];
+    for (final pair in pairs) {
+      if (text.startsWith(pair[0]) && text.endsWith(pair[1])) {
+        final inner = text.substring(1, text.length - 1).trim();
+        return inner.isEmpty ? null : inner;
+      }
     }
-    if (candidateDocIds == null) return;
-
-    for (final docId in candidateDocIds) {
-      final surah = docId ~/ 1000;
-      final ayah = docId % 1000;
-      final text = getText(surah, ayah);
-      if (text == null || text.isEmpty) continue;
-      final tokenSet = _tokenize(text).toSet();
-      if (!terms.every((t) => tokenSet.contains(t))) continue;
-      scored.add({
-        'source': sourceName,
-        'surah': surah,
-        'ayah': ayah,
-        'text': text,
-        'score': _bm25ScoreBinary(index, docId, terms),
-      });
-    }
+    return null;
   }
+
+  String _normalizeForPhraseMatch(String text) =>
+      text.toLowerCase().replaceAll(RegExp(r'\s+'), ' ').trim();
+
+      void _addHeavySourceMatches(
+          TafsirBinaryIndex? index,
+          String sourceName,
+          String? Function(int surah, int ayah) getText,
+          List<String> terms,
+          List<Map<String, dynamic>> scored,
+          {String? phrase}) {
+        if (index == null) return;
+
+        Set<int>? candidateDocIds;
+        for (final term in terms) {
+          final postings = index.invertedIndex[term];
+          final docIds = postings?.map((p) => p.docId).toSet() ?? <int>{};
+          candidateDocIds =
+              candidateDocIds == null ? docIds : candidateDocIds.intersection(docIds);
+          if (candidateDocIds.isEmpty) return;
+        }
+        if (candidateDocIds == null) return;
+
+        final normalizedPhrase = phrase != null ? _normalizeForPhraseMatch(phrase) : null;
+
+        for (final docId in candidateDocIds) {
+          final surah = docId ~/ 1000;
+          final ayah = docId % 1000;
+          final text = getText(surah, ayah);
+          if (text == null || text.isEmpty) continue;
+          final tokenSet = _tokenize(text).toSet();
+          if (!terms.every((t) => tokenSet.contains(t))) continue;
+          if (normalizedPhrase != null &&
+              !_normalizeForPhraseMatch(text).contains(normalizedPhrase)) {
+            continue;
+          }
+          scored.add({
+            'source': sourceName,
+            'surah': surah,
+            'ayah': ayah,
+            'text': text,
+            'score': _bm25ScoreBinary(index, docId, terms),
+          });
+        }
+      }
 
   Widget _buildTafsirFontSizeButton() {
     final fontSizeLabel = _tafsirFontSize.toInt().toString();
@@ -2000,7 +2026,9 @@ class _QuranPanelState extends State<QuranPanel> {
   }
 
   void _searchTafsirText(String query) {
-    final terms = _tokenize(query);
+    final trimmedQuery = query.trim();
+    final phrase = _extractQuotedPhrase(trimmedQuery);
+    final terms = _tokenize(phrase ?? query);
     if (terms.isEmpty) {
       setState(() => _tafsirSearchResults = []);
       return;
@@ -2008,21 +2036,19 @@ class _QuranPanelState extends State<QuranPanel> {
 
     final scored = <Map<String, dynamic>>[];
 
-    // Heavy sources: binary index, cached once loaded.
     if (_tafsirKatheer) {
       _addHeavySourceMatches(
-          _katheerIndex, 'Katheer', getTafsirKatheer, terms, scored);
+          _katheerIndex, 'Katheer', getTafsirKatheer, terms, scored, phrase: phrase);
     }
     if (_tafsirKathir) {
       _addHeavySourceMatches(
-          _kathirIndex, 'Kathir', getTafsirKathirEnglish, terms, scored);
+          _kathirIndex, 'Kathir', getTafsirKathirEnglish, terms, scored, phrase: phrase);
     }
     if (_tafsirBaghawi) {
       _addHeavySourceMatches(
-          _baghawiIndex, 'Baghawi', getTafsirBaghawi, terms, scored);
+          _baghawiIndex, 'Baghawi', getTafsirBaghawi, terms, scored, phrase: phrase);
     }
 
-    // Light sources: build fresh, fast enough not to bother caching.
     final lightSources = <String, String? Function(int, int)>{};
     if (_tafsirMokhtasar) {
       lightSources['Mokhtasar'] =
@@ -2043,6 +2069,8 @@ class _QuranPanelState extends State<QuranPanel> {
           (s, a) => getVariousTranslation(_variousLanguage, s, a);
     }
 
+    final normalizedPhrase = phrase != null ? _normalizeForPhraseMatch(phrase) : null;
+
     for (final entry in lightSources.entries) {
       final index = _buildIndexForSource(entry.key, entry.value);
       final candidateDocIds = <String>{};
@@ -2057,6 +2085,10 @@ class _QuranPanelState extends State<QuranPanel> {
         final text = index.docText[docId]!;
         final tokenSet = _tokenize(text).toSet();
         if (!terms.every((t) => tokenSet.contains(t))) continue;
+        if (normalizedPhrase != null &&
+            !_normalizeForPhraseMatch(text).contains(normalizedPhrase)) {
+          continue;
+        }
         final parts = docId.split(':');
         scored.add({
           'source': parts.sublist(2).join(':'),
@@ -2074,8 +2106,8 @@ class _QuranPanelState extends State<QuranPanel> {
     setState(() {
       _tafsirSearchResults = top;
       _tafsirSearchTruncated = scored.length > 300;
-      _tafsirSearchHistory.remove(query);
-      _tafsirSearchHistory.insert(0, query);
+      _tafsirSearchHistory.remove(trimmedQuery);
+      _tafsirSearchHistory.insert(0, trimmedQuery);
       if (_tafsirSearchHistory.length > 20) {
         _tafsirSearchHistory.removeRange(20, _tafsirSearchHistory.length);
       }
@@ -3320,8 +3352,11 @@ class _QuranPanelState extends State<QuranPanel> {
                               hintText: 'Search tafsir text…',
                               hintStyle: const TextStyle(
                                   color: Colors.white24, fontSize: 12),
-                              prefixIcon: const Icon(Icons.search,
-                                  color: Colors.teal, size: 16),
+                              prefixIcon: InkWell(
+                                onTap: () => _searchTafsirText(_tafsirSearchController.text),
+                                child: const Icon(Icons.search,
+                                    color: Colors.teal, size: 16),
+                              ),
                               filled: true,
                               fillColor: Colors.black26,
                               border: OutlineInputBorder(
@@ -3486,7 +3521,11 @@ class _QuranPanelState extends State<QuranPanel> {
                         final r = _tafsirSearchResults[i];
                         return InkWell(
                           onTap: () => _jumpToSearchResult(r),
-                          child: _buildTafsirCard(r, highlightQuery: _tafsirSearchController.text),
+                          child: _buildTafsirCard(
+                            r,
+                            highlightQuery: _extractQuotedPhrase(_tafsirSearchController.text.trim()) ??
+                                _tafsirSearchController.text,
+                          ),
                         );
                       },
                     ),

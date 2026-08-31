@@ -153,7 +153,27 @@ class _HadeethPanelState extends State<HadeethPanel> {
     return score;
   }
 
-  List<HadeethEntry> _bm25SearchEntries(List<String> terms) {
+  String? _extractQuotedPhrase(String text) {
+    if (text.length < 2) return null;
+    const pairs = [
+      ['"', '"'],
+      ['\u201C', '\u201D'], // “ ”
+      ["'", "'"],
+    ];
+    for (final pair in pairs) {
+      if (text.startsWith(pair[0]) && text.endsWith(pair[1])) {
+        final inner = text.substring(1, text.length - 1).trim();
+        return inner.isEmpty ? null : inner;
+      }
+    }
+    return null;
+  }
+
+  String _normalizeForPhraseMatch(String text) =>
+      text.toLowerCase().replaceAll(RegExp(r'\s+'), ' ').trim();
+
+
+  List<HadeethEntry> _bm25SearchEntries(List<String> terms, {String? phrase}) {
     final index = _buildHadeethBm25Index(_allEntries);
 
     Set<int>? candidateIds;
@@ -166,11 +186,18 @@ class _HadeethPanelState extends State<HadeethPanel> {
     }
     if (candidateIds == null) return [];
 
+    final normalizedPhrase = phrase != null ? _normalizeForPhraseMatch(phrase) : null;
+
     final byId = {for (final e in _allEntries) e.id: e};
     final scored = <MapEntry<HadeethEntry, double>>[];
     for (final id in candidateIds) {
       final e = byId[id];
       if (e == null) continue;
+      if (normalizedPhrase != null) {
+        final fullText =
+            '${e.title} ${e.hadeeth} ${e.category} ${e.explanation} ${e.hints.join(' ')}';
+        if (!_normalizeForPhraseMatch(fullText).contains(normalizedPhrase)) continue;
+      }
       if (_excludeTerms.isNotEmpty) {
         final haystack =
             '${e.title} ${e.hadeeth} ${e.category} ${e.id}'.toLowerCase();
@@ -191,6 +218,27 @@ class _HadeethPanelState extends State<HadeethPanel> {
     });
   }
 
+  void _performHadeethSearch() {
+    final trimmed = _searchController.text.trim();
+    final phrase = _extractQuotedPhrase(trimmed);
+    setState(() {
+      _searchTerms = (phrase ?? trimmed)
+          .toLowerCase()
+          .split(RegExp(r'\s+'))
+          .where((t) => t.isNotEmpty)
+          .toList();
+      if (_searchTerms.isNotEmpty) {
+        _categoryExpanded.clear();
+        _searchHistory.remove(trimmed);
+        _searchHistory.insert(0, trimmed);
+        if (_searchHistory.length > 20) {
+          _searchHistory.removeRange(20, _searchHistory.length);
+        }
+      }
+      _recomputeSearchResults();
+    });
+  }
+
   void _recomputeSearchResults() {
     if (_searchTerms.isEmpty) {
       _searchResultsCache = [];
@@ -206,7 +254,10 @@ class _HadeethPanelState extends State<HadeethPanel> {
       _scrollHadeethListToTop();
       return;
     }
-    _searchResultsCache = _bm25SearchEntries(_searchTerms);
+    final rawQuery = _searchController.text.trim();
+    final phrase = _extractQuotedPhrase(rawQuery);
+    final terms = _tokenizeHadeeth(phrase ?? rawQuery);
+    _searchResultsCache = _bm25SearchEntries(terms, phrase: phrase);
     _scrollHadeethListToTop();
   }
 
@@ -674,14 +725,18 @@ class _HadeethPanelState extends State<HadeethPanel> {
                     focusNode: _searchFocus,
                     style: const TextStyle(color: Colors.white, fontSize: 13),
                     decoration: InputDecoration(
-                      hintText: 'Search hadiths (Enter to search)...',
+                      hintText: 'Search hadiths "trials of the grave"',
                       hintStyle:
                           const TextStyle(color: Colors.white38, fontSize: 12),
-                      prefixIcon: const Icon(Icons.search,
-                          color: Colors.white38, size: 18),
+                      prefixIcon: InkWell(
+                        onTap: _performHadeethSearch,
+                        child: const Icon(Icons.search,
+                            color: Colors.white38, size: 18),
+                      ),
                       suffixIcon: _searchController.text.isNotEmpty
                           ? IconButton(
-                              icon: const Icon(Icons.clear, color: Colors.white38, size: 16),
+                              icon: const Icon(Icons.clear,
+                                  color: Colors.white38, size: 16),
                               padding: EdgeInsets.zero,
                               constraints: const BoxConstraints(),
                               onPressed: () {
@@ -702,24 +757,7 @@ class _HadeethPanelState extends State<HadeethPanel> {
                       contentPadding: const EdgeInsets.symmetric(
                           horizontal: 10, vertical: 6),
                     ),
-                    onSubmitted: (v) => setState(() {
-                      _searchTerms = v
-                          .trim()
-                          .toLowerCase()
-                          .split(RegExp(r'\s+'))
-                          .where((t) => t.isNotEmpty)
-                          .toList();
-                      if (_searchTerms.isNotEmpty) {
-                        _categoryExpanded.clear();
-                        final trimmed = v.trim();
-                        _searchHistory.remove(trimmed);
-                        _searchHistory.insert(0, trimmed);
-                        if (_searchHistory.length > 20) {
-                          _searchHistory.removeRange(20, _searchHistory.length);
-                        }
-                      }
-                      _recomputeSearchResults();
-                    }),
+                    onSubmitted: (_) => _performHadeethSearch(),
                   ),
                 ),
               ),
