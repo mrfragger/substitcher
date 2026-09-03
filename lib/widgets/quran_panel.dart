@@ -1330,7 +1330,7 @@ class _QuranPanelState extends State<QuranPanel> {
     });
   }
 
-  Widget _buildPlayAllChip(List<QuranVerseRef> refs, int index) {
+  Widget _buildPlayAllChips(List<QuranVerseRef> refs, int index) {
     final playableRefs = refs.map((r) {
       if (r.isFullSurah) {
         return QuranVerseRef(
@@ -1343,31 +1343,71 @@ class _QuranPanelState extends State<QuranPanel> {
       return r;
     }).toList();
 
-    return GestureDetector(
-      onTap: () => widget.onPlayAllRequested?.call(playableRefs, index),
-      child: Container(
-        padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 5),
-        decoration: BoxDecoration(
-          color: Colors.green.withAlpha(40),
-          borderRadius: BorderRadius.circular(6),
-          border: Border.all(color: Colors.green.withAlpha(160)),
+    final active = widget.activeRef;
+    final activeIdx = active == null
+        ? -1
+        : refs.indexWhere((r) => _isSameRef(r, active));
+
+    return Row(
+      mainAxisSize: MainAxisSize.min,
+      children: [
+        GestureDetector(
+          onTap: () => widget.onPlayAllRequested?.call(playableRefs, index),
+          child: Container(
+            padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 5),
+            decoration: BoxDecoration(
+              color: Colors.green.withAlpha(40),
+              borderRadius: BorderRadius.circular(6),
+              border: Border.all(color: Colors.green.withAlpha(160)),
+            ),
+            child: Row(
+              mainAxisSize: MainAxisSize.min,
+              children: const [
+                Icon(Icons.playlist_play, size: 14, color: Colors.greenAccent),
+                SizedBox(width: 4),
+                Text(
+                  'All',
+                  style: TextStyle(
+                    color: Colors.greenAccent,
+                    fontSize: 12,
+                    fontWeight: FontWeight.w600,
+                  ),
+                ),
+              ],
+            ),
+          ),
         ),
-        child: Row(
-          mainAxisSize: MainAxisSize.min,
-          children: const [
-            Icon(Icons.playlist_play, size: 14, color: Colors.greenAccent),
-            SizedBox(width: 4),
-            Text(
-              'All',
-              style: TextStyle(
-                color: Colors.greenAccent,
-                fontSize: 12,
-                fontWeight: FontWeight.w600,
+        if (activeIdx != -1) ...[
+          const SizedBox(width: 6),
+          GestureDetector(
+            onTap: () => widget.onPlayAllRequested
+                ?.call(playableRefs.sublist(activeIdx), index),
+            child: Container(
+              padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 5),
+              decoration: BoxDecoration(
+                color: Colors.deepPurple.withAlpha(40),
+                borderRadius: BorderRadius.circular(6),
+                border: Border.all(color: Colors.deepPurple.withAlpha(160)),
+              ),
+              child: Row(
+                mainAxisSize: MainAxisSize.min,
+                children: const [
+                  Icon(Icons.play_circle_outline, size: 14, color: Colors.purpleAccent),
+                  SizedBox(width: 4),
+                  Text(
+                    'Resume',
+                    style: TextStyle(
+                      color: Colors.purpleAccent,
+                      fontSize: 12,
+                      fontWeight: FontWeight.w600,
+                    ),
+                  ),
+                ],
               ),
             ),
-          ],
-        ),
-      ),
+          ),
+        ],
+      ],
     );
   }
 
@@ -2201,16 +2241,17 @@ class _QuranPanelState extends State<QuranPanel> {
     });
   }
 
-  List<TextSpan> _highlightQuery(List<TextSpan> spans, String query) {
-    final terms = query
-        .trim()
-        .split(RegExp(r'\s+'))
-        .where((t) => t.isNotEmpty)
-        .toList();
-    if (terms.isEmpty) return spans;
+  List<TextSpan> _highlightQuery(List<TextSpan> spans, String query, {bool isPhrase = false}) {
+    final trimmedQuery = query.trim();
+    if (trimmedQuery.isEmpty) return spans;
+
+    final words = trimmedQuery.split(RegExp(r'\s+')).where((t) => t.isNotEmpty).toList();
+    if (words.isEmpty) return spans;
 
     final pattern = RegExp(
-      terms.map(RegExp.escape).join('|'),
+      isPhrase
+          ? words.map(RegExp.escape).join(r'\s+')
+          : words.map(RegExp.escape).join('|'),
       caseSensitive: false,
     );
 
@@ -3105,7 +3146,7 @@ class _QuranPanelState extends State<QuranPanel> {
                                         runSpacing: 6,
                                         children: [
                                           if (widget.isQuranLoaded && widget.onPlayAllRequested != null && entry.refs.length > 1)
-                                            _buildPlayAllChip(entry.refs, index),
+                                            _buildPlayAllChips(entry.refs, index),
                                           ...entry.refs.map((ref) {
                                           final isActive = _isActiveRef(ref) ||
                                               (!widget.isQuranLoaded &&
@@ -3240,7 +3281,6 @@ class _QuranPanelState extends State<QuranPanel> {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-          // Mode toggle: Browse by reference vs. Search text
           Row(
             children: [
               _buildTafsirFontSizeButton(),
@@ -3349,7 +3389,7 @@ class _QuranPanelState extends State<QuranPanel> {
                             focusNode: _tafsirSearchFocusNode,
                             style: const TextStyle(color: Colors.white, fontSize: 12),
                             decoration: InputDecoration(
-                              hintText: 'Search tafsir text…',
+                              hintText: 'Search tafsir "exact text',
                               hintStyle: const TextStyle(
                                   color: Colors.white24, fontSize: 12),
                               prefixIcon: InkWell(
@@ -3519,12 +3559,14 @@ class _QuranPanelState extends State<QuranPanel> {
                           const Divider(color: Colors.white12, height: 12),
                       itemBuilder: (_, i) {
                         final r = _tafsirSearchResults[i];
+                        final rawQuery = _tafsirSearchController.text.trim();
+                        final phrase = _extractQuotedPhrase(rawQuery);
                         return InkWell(
                           onTap: () => _jumpToSearchResult(r),
                           child: _buildTafsirCard(
                             r,
-                            highlightQuery: _extractQuotedPhrase(_tafsirSearchController.text.trim()) ??
-                                _tafsirSearchController.text,
+                            highlightQuery: phrase ?? rawQuery,
+                            highlightIsPhrase: phrase != null,
                           ),
                         );
                       },
@@ -3665,7 +3707,7 @@ class _QuranPanelState extends State<QuranPanel> {
     }
   }
 
-  Widget _buildTafsirCard(Map<String, dynamic> r, {String? highlightQuery}) {
+  Widget _buildTafsirCard(Map<String, dynamic> r, {String? highlightQuery, bool highlightIsPhrase = false}) {
       final source = r['source'] as String;
       final surah = r['surah'] as int;
       final ayah = r['ayah'] as int;
@@ -3757,6 +3799,7 @@ class _QuranPanelState extends State<QuranPanel> {
               _buildTafsirText(text, isRtl,
                 isIntro: ayah == 0,
                 highlightQuery: highlightQuery,
+                highlightIsPhrase: highlightIsPhrase,
                 fontSize: _tafsirFontSize,
               )
             ],
@@ -3949,7 +3992,7 @@ class _QuranPanelState extends State<QuranPanel> {
       return spans;
     }
 
-    Widget _buildTafsirText(String text, bool isRtl, {bool isIntro = false, String? highlightQuery, double fontSize = 14.0}) {
+    Widget _buildTafsirText(String text, bool isRtl, {bool isIntro = false, String? highlightQuery, bool highlightIsPhrase = false, double fontSize = 14.0}) {
       if (isIntro) {
         return SelectableText(
           text,
@@ -3975,7 +4018,7 @@ class _QuranPanelState extends State<QuranPanel> {
             language: _mokhtasarLanguage,
             fontSize: fontSize);
         if (highlightQuery != null && highlightQuery.isNotEmpty) {
-          spans = _highlightQuery(spans, highlightQuery);
+          spans = _highlightQuery(spans, highlightQuery, isPhrase: highlightIsPhrase);
         }
         return SelectableText.rich(
           TextSpan(children: spans),
@@ -4073,7 +4116,7 @@ class _QuranPanelState extends State<QuranPanel> {
 
       var finalSpans = spans;
       if (highlightQuery != null && highlightQuery.isNotEmpty) {
-        finalSpans = _highlightQuery(finalSpans, highlightQuery);
+        finalSpans = _highlightQuery(finalSpans, highlightQuery, isPhrase: highlightIsPhrase);
       }
 
       return SelectableText.rich(

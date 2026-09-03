@@ -607,6 +607,16 @@ class _PlayerScreenState extends State<PlayerScreen>
     return p.contains('Verse by Verse') && p.contains('Quran');
   }
 
+  Future<void> _waitForPlayerReady({Duration timeout = const Duration(seconds: 3)}) async {
+    if (!player.state.buffering) return;
+    try {
+      await player.stream.buffering
+          .firstWhere((buffering) => !buffering)
+          .timeout(timeout);
+    } catch (_) {
+    }
+  }
+
   Future<void> _navigateToQuranVerse(
       QuranVerseRef ref, int filteredIndex) async {
     if (!_navigatingFromQueue) {
@@ -646,6 +656,8 @@ class _PlayerScreenState extends State<PlayerScreen>
     if (needsNewFile) {
       await _loadQuranVttForFile(targetOpusPath);
       await _openAudiobook(targetOpusPath);
+      await _waitForPlayerReady();
+      // await Future.delayed(const Duration(seconds: 2));
     }
     final startId = ref.chapterIdStart;
     final chapters = _currentAudiobook?.chapters ?? [];
@@ -673,12 +685,7 @@ class _PlayerScreenState extends State<PlayerScreen>
       setState(() => _pendingStopRef = effectiveStopRef);
     }
     await _jumpToChapter(chapterIndex);
-    final originalVolume = player.state.volume;
-    await player.setVolume(0);
     await player.play();
-    Future.delayed(const Duration(milliseconds: 600), () {
-          if (mounted) player.setVolume(originalVolume);
-        });
         setState(() => _showPanel = false);
 
         WidgetsBinding.instance.addPostFrameCallback((_) {

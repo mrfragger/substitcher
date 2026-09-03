@@ -501,7 +501,8 @@ Recommended Tablets with either 128GB or 256GB storage
 - Samsung Galaxy Tab A9+ (11") or A11+ (11" $270 256GB)
 - Lenovo Tab P11, Lenovo Idea Tab ($230 256GB)
 
-Installation Steps
+Installation Steps 
+[keepandroidopen.org](https://keepandroidopen.org)
 
 1. Download `substitcher-android-arm64.apk` from
    [Releases](https://github.com/mrfragger/substitcher/releases/latest)

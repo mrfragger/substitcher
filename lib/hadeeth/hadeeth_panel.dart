@@ -48,6 +48,7 @@ class _HadeethPanelState extends State<HadeethPanel> {
   static final TextEditingController _searchController = TextEditingController();
   static final TextEditingController _excludeController = TextEditingController();
   static List<String> _searchTerms = [];
+  static String? _searchPhrase;
   static List<String> _excludeTerms = [];
   static final Map<int, bool> _categoryExpanded = {};
   static final Set<int> _expandedIds = {};
@@ -222,6 +223,7 @@ class _HadeethPanelState extends State<HadeethPanel> {
     final trimmed = _searchController.text.trim();
     final phrase = _extractQuotedPhrase(trimmed);
     setState(() {
+      _searchPhrase = phrase;
       _searchTerms = (phrase ?? trimmed)
           .toLowerCase()
           .split(RegExp(r'\s+'))
@@ -632,40 +634,47 @@ class _HadeethPanelState extends State<HadeethPanel> {
       return result;
     }
 
-  List<TextSpan> _highlightTerms(List<TextSpan> spans, List<String> terms) {
-    if (terms.isEmpty) return spans;
-
-    final pattern = RegExp(terms.map(RegExp.escape).join('|'), caseSensitive: false);
-
-    final result = <TextSpan>[];
-    for (final span in spans) {
-      final text = span.text;
-      if (text == null || text.isEmpty || !pattern.hasMatch(text)) {
-        result.add(span);
-        continue;
+    List<TextSpan> _highlightTerms(List<TextSpan> spans, List<String> terms, {String? phrase}) {
+      final String patternSource;
+      if (phrase != null && phrase.trim().isNotEmpty) {
+        final words = phrase.trim().split(RegExp(r'\s+')).where((t) => t.isNotEmpty).toList();
+        if (words.isEmpty) return spans;
+        patternSource = words.map(RegExp.escape).join(r'\s+'); // phrase as one unit
+      } else {
+        if (terms.isEmpty) return spans;
+        patternSource = terms.map(RegExp.escape).join('|');    // old word-by-word behavior
       }
-      int cursor = 0;
-      for (final m in pattern.allMatches(text)) {
-        if (m.start > cursor) {
-          result.add(TextSpan(text: text.substring(cursor, m.start), style: span.style, recognizer: span.recognizer));
+      final pattern = RegExp(patternSource, caseSensitive: false);
+
+      final result = <TextSpan>[];
+      for (final span in spans) {
+        final text = span.text;
+        if (text == null || text.isEmpty || !pattern.hasMatch(text)) {
+          result.add(span);
+          continue;
         }
-        result.add(TextSpan(
-          text: text.substring(m.start, m.end),
-          style: (span.style ?? const TextStyle()).copyWith(
-            backgroundColor: Colors.yellow,
-            color: Colors.black,
-            fontWeight: FontWeight.bold,
-          ),
-          recognizer: span.recognizer,
-        ));
-        cursor = m.end;
+        int cursor = 0;
+        for (final m in pattern.allMatches(text)) {
+          if (m.start > cursor) {
+            result.add(TextSpan(text: text.substring(cursor, m.start), style: span.style, recognizer: span.recognizer));
+          }
+          result.add(TextSpan(
+            text: text.substring(m.start, m.end),
+            style: (span.style ?? const TextStyle()).copyWith(
+              backgroundColor: Colors.yellow,
+              color: Colors.black,
+              fontWeight: FontWeight.bold,
+            ),
+            recognizer: span.recognizer,
+          ));
+          cursor = m.end;
+        }
+        if (cursor < text.length) {
+          result.add(TextSpan(text: text.substring(cursor), style: span.style, recognizer: span.recognizer));
+        }
       }
-      if (cursor < text.length) {
-        result.add(TextSpan(text: text.substring(cursor), style: span.style, recognizer: span.recognizer));
-      }
+      return result;
     }
-    return result;
-  }
 
   @override
   Widget build(BuildContext context) {
@@ -743,6 +752,7 @@ class _HadeethPanelState extends State<HadeethPanel> {
                                 _searchController.clear();
                                 setState(() {
                                   _searchTerms = [];
+                                  _searchPhrase = null;
                                   _recomputeSearchResults();
                                 });
                               },
@@ -1029,6 +1039,7 @@ class _HadeethPanelState extends State<HadeethPanel> {
                                 ),
                               ),
                               _searchTerms,
+                              phrase: _searchPhrase,
                             ),
                           ),
                         ),
@@ -1193,6 +1204,7 @@ class _HadeethPanelState extends State<HadeethPanel> {
                                   ),
                                 ),
                                 _searchTerms,
+                                phrase: _searchPhrase,
                               ),
                             ),
                             textDirection: textDir,
@@ -1242,6 +1254,7 @@ class _HadeethPanelState extends State<HadeethPanel> {
     final spans = _highlightTerms(
       _colorParensAndAllah(text, baseStyle),
       _searchTerms,
+      phrase: _searchPhrase,
     );
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
