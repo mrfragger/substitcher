@@ -31,10 +31,10 @@ enum PanelMode {
   words,
   subs,
   stats,
-  luts,
   quran,
   quiz,
   related,
+  luts,
 }
 
 enum ColoringMode { words, letters }
@@ -519,11 +519,11 @@ class SidePanel extends StatelessWidget {
                   _buildTabButton(
                       context, 'Stats', PanelMode.stats, statsCount),
                   _buildTabButton(
-                      context, 'LUTs', PanelMode.luts, availableLuts.length),
-                  _buildTabButton(
                       context, 'Quran', PanelMode.quran, quranEntries.length),
-                  _buildTabButton(context, 'Quiz', PanelMode.quiz, 0),
-                  _buildTabButton(context, 'Related', PanelMode.related, 0),
+                  _buildTabButton(context, '⌘Quiz', PanelMode.quiz, 139),
+                  _buildTabButton(context, '⌘Related', PanelMode.related, 139),
+                  _buildTabButton(
+                      context, 'LUTs', PanelMode.luts, availableLuts.length),
                 ],
               ),
             ),
@@ -678,10 +678,10 @@ class SidePanel extends StatelessWidget {
         underlineIndex = 0;
         break;
       case PanelMode.quiz:
-        underlineIndex = null;
+        underlineIndex = 1;
         break;
       case PanelMode.related:
-        underlineIndex = null;
+        underlineIndex = 1;
         break;
     }
 

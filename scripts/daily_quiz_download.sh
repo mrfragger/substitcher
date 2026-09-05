@@ -1,17 +1,12 @@
 #!/bin/bash
 set -e
-
 DATA_DIR="../assets/daily_quiz"
 GITHUB_API="https://api.github.com/repos/sudosar/quraniq-source/contents/data/history"
 RAW_BASE="https://raw.githubusercontent.com/sudosar/quraniq-source/main/data/history"
-
 mkdir -p "$DATA_DIR"
-
 echo "Fetching remote file list..."
 REMOTE_FILES=$(curl -s "$GITHUB_API" | jq -r '.[] | select(.name | endswith(".json")) | .name')
-
 LOCAL_FILES=$(ls -1 "$DATA_DIR"/*.json 2>/dev/null | xargs -n1 basename || echo "")
-
 DOWNLOADED=0
 for FILE in $REMOTE_FILES; do
     if [[ ! -f "$DATA_DIR/$FILE" ]]; then
@@ -29,5 +24,9 @@ for FILE in $REMOTE_FILES; do
         fi
     fi
 done
-
+TOTAL=$(ls -1 "$DATA_DIR"/*.json 2>/dev/null | wc -l | tr -d ' ')
 echo "Done! Downloaded $DOWNLOADED new files."
+echo "Total JSON files in $DATA_DIR: $TOTAL"
+echo "modify lib/widgets/side_panel.dart reflect new count"
+echo "_buildTabButton(context, '⌘Quiz', PanelMode.quiz, 139),"
+echo "_buildTabButton(context, '⌘Related', PanelMode.related, 139),"

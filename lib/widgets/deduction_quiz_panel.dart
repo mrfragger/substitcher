@@ -79,10 +79,41 @@ class _DeductionQuizPanelState extends State<DeductionQuizPanel> {
         _data = data;
         _loadingDay = false;
       });
+      if (data != null) {
+        final saved = await QuizSelectionPrefs.loadSelections(date);
+        if (saved != null && mounted) {
+          setState(() {
+            for (final cat in data.categories) {
+              final answer = saved[cat.key];
+              if (answer != null) {
+                _selections[cat.key] = answer;
+              }
+            }
+          });
+        }
+      }
       await DailyQuizPrefs.saveLastDate(date);
     } catch (e) {
       if (!mounted) return;
       setState(() => _loadingDay = false);
+    }
+  }
+
+  void _clearGuesses() {
+    setState(() {
+      _selections.clear();
+      _revealedHints = 0;
+    });
+    if (_selectedDate != null) {
+      QuizSelectionPrefs.clearSelections(_selectedDate!);
+    }
+  }
+
+  void _selectOption(String categoryKey, String option) {
+    setState(() => _selections[categoryKey] = option);
+    if (_selectedDate != null) {
+      QuizSelectionPrefs.saveSelections(
+          _selectedDate!, Map<String, String>.from(_selections));
     }
   }
 
@@ -243,9 +274,23 @@ class _DeductionQuizPanelState extends State<DeductionQuizPanel> {
     return ListView(
       padding: const EdgeInsets.all(16),
       children: [
-        Text(data.title,
-            style: const TextStyle(
-                color: Colors.white, fontSize: 18, fontWeight: FontWeight.bold)),
+        Row(
+          mainAxisAlignment: MainAxisAlignment.spaceBetween,
+          children: [
+            Expanded(
+              child: Text(data.title,
+                  style: const TextStyle(
+                      color: Colors.white, fontSize: 18, fontWeight: FontWeight.bold)),
+            ),
+            if (_selections.isNotEmpty)
+              TextButton.icon(
+                onPressed: _clearGuesses,
+                icon: const Icon(Icons.refresh, size: 16, color: Colors.white54),
+                label: const Text('Clear Guesses',
+                    style: TextStyle(color: Colors.white54, fontSize: 12)),
+              ),
+          ],
+        ),
         const SizedBox(height: 8),
         Text(data.intro, style: const TextStyle(color: Colors.white70, fontSize: 13)),
         const SizedBox(height: 16),
@@ -305,7 +350,7 @@ class _DeductionQuizPanelState extends State<DeductionQuizPanel> {
               return GestureDetector(
                 onTap: isLockedCorrect
                     ? null
-                    : () => setState(() => _selections[cat.key] = opt),
+                    : () => _selectOption(cat.key, opt),
                 child: Container(
                   padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 8),
                   decoration: BoxDecoration(
@@ -378,8 +423,6 @@ class _DeductionQuizPanelState extends State<DeductionQuizPanel> {
                         data.verseRef!,
                         style: TextStyle(
                           color: canNavigate ? Colors.lightBlueAccent : Colors.white38,
-                          decoration:
-                              canNavigate ? TextDecoration.underline : TextDecoration.none,
                           fontWeight: FontWeight.bold,
                         ),
                       ),

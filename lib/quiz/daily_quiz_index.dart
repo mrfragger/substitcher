@@ -126,6 +126,34 @@ class ConnectionsPrefs {
   }
 }
 
+class QuizSelectionPrefs {
+  static String _key(DateTime date) =>
+      'quizSel_${DailyQuizIndex._fmt(date)}';
+
+  static Future<void> saveSelections(
+      DateTime date, Map<String, String> selections) async {
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setString(_key(date), json.encode(selections));
+  }
+
+  static Future<Map<String, String>?> loadSelections(DateTime date) async {
+    final prefs = await SharedPreferences.getInstance();
+    final raw = prefs.getString(_key(date));
+    if (raw == null) return null;
+    try {
+      final decoded = json.decode(raw) as Map<String, dynamic>;
+      return decoded.map((k, v) => MapEntry(k, v as String));
+    } catch (_) {
+      return null;
+    }
+  }
+
+  static Future<void> clearSelections(DateTime date) async {
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.remove(_key(date));
+  }
+}
+
 class ConnectionsSelectionPrefs {
   static String _key(DateTime date) =>
       'connSel_${DailyQuizIndex._fmt(date)}';

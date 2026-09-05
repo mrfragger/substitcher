@@ -626,7 +626,7 @@ class _PlayerScreenState extends State<PlayerScreen>
       setState(() {
         _showPanel = true;
         _panelMode = PanelMode.quiz;
-        _panelCollapsed = false;
+        _panelCollapsed = true;
       });
     }
   }
@@ -7925,6 +7925,22 @@ class _PlayerScreenState extends State<PlayerScreen>
             }
             return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyR &&
+              HardwareKeyboard.instance.isMetaPressed &&
+              event is KeyDownEvent) {
+            setState(() {
+              _showPanel = true;
+              _panelMode = PanelMode.related;
+            });
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyR &&
+              HardwareKeyboard.instance.isShiftPressed &&
+              event is KeyDownEvent) {
+            if (_currentColorPalette != null) {
+              _addColorPaletteToFavorites(_currentColorPalette!.name);
+            }
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyR &&
+              !HardwareKeyboard.instance.isMetaPressed &&
               event is KeyDownEvent) {
             setState(() {
               _showPanel = true;
@@ -8134,14 +8150,15 @@ class _PlayerScreenState extends State<PlayerScreen>
               event is KeyDownEvent) {
             _setSleepTimer(null);
             return KeyEventResult.handled;
-          } else if (event.logicalKey == LogicalKeyboardKey.keyZ &&
-              event is KeyDownEvent) {
-            _setSleepTimer(Duration.zero);
-            return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyQ &&
               event is KeyDownEvent) {
             if (HardwareKeyboard.instance.isControlPressed) {
               _setCurrentAsDefault();
+            } else if (HardwareKeyboard.instance.isMetaPressed) {
+              setState(() {
+                _showPanel = true;
+                _panelMode = PanelMode.quiz;
+              });
             } else if (HardwareKeyboard.instance.isShiftPressed) {
               _playNextQuranRef();
             } else {
