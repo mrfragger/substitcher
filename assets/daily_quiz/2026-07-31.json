@@ -1,0 +1,240 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "المُوصَىٰ بِإِحْسَانِهِمْ فِي الْقُرْآنِ",
+        "nameEn": "Those Entitled to Kindness in the Quran",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "ٱلۡوَٰلِدَيۡنِ",
+            "en": "and with the parents",
+            "ref": "6:151",
+            "verse": "۞ قُلْ تَعَالَوْا۟ أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ ۖ أَلَّا تُشْرِكُوا۟ بِهِۦ شَيْـًۭٔا ۖ وَبِٱلْوَٰلِدَيْنِ إِحْسَـٰنًۭا ۖ وَلَا تَقْتُلُوٓا۟ أَوْلَـٰدَكُم مِّنْ إِمْلَـٰقٍۢ ۖ نَّحْنُ نَرْزُقُكُمْ وَإِيَّاهُمْ ۖ وَلَا تَقْرَبُوا۟ ٱلْفَوَٰحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ ۖ وَلَا تَقْتُلُوا۟ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ ٱللَّهُ إِلَّا بِٱلْحَقِّ ۚ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَعْقِلُونَ",
+            "verseEn": "Say, \"Come, I will recite what your Lord has prohibited to you. [He commands] that you not associate anything with Him, and to parents, good treatment, and do not kill your children out of poverty; We will provide for you and them. And do not approach immoralities - what is apparent of them and what is concealed. And do not kill the soul which Allāh has forbidden [to be killed] except by [legal] right. This has He instructed you that you may use reason.\""
+          },
+          {
+            "ar": "ٱلۡقُرۡبَىٰ",
+            "en": "the relatives",
+            "ref": "17:26",
+            "verse": "وَءَاتِ ذَا ٱلْقُرْبَىٰ حَقَّهُۥ وَٱلْمِسْكِينَ وَٱبْنَ ٱلسَّبِيلِ وَلَا تُبَذِّرْ تَبْذِيرًا",
+            "verseEn": "And give the relative his right, and [also] the poor and the traveler, and do not spend wastefully."
+          },
+          {
+            "ar": "يَتِيمًا",
+            "en": "and (the) orphan",
+            "ref": "76:8",
+            "verse": "وَيُطْعِمُونَ ٱلطَّعَامَ عَلَىٰ حُبِّهِۦ مِسْكِينًۭا وَيَتِيمًۭا وَأَسِيرًا",
+            "verseEn": "And they give food in spite of love for it to the needy, the orphan, and the captive,"
+          },
+          {
+            "ar": "ٱلۡمِسۡكِينَ",
+            "en": "and the poor",
+            "ref": "30:38",
+            "verse": "فَـَٔاتِ ذَا ٱلْقُرْبَىٰ حَقَّهُۥ وَٱلْمِسْكِينَ وَٱبْنَ ٱلسَّبِيلِ ۚ ذَٰلِكَ خَيْرٌۭ لِّلَّذِينَ يُرِيدُونَ وَجْهَ ٱللَّهِ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+            "verseEn": "So give the relative his right, as well as the needy and the traveler. That is best for those who desire the face [i.e., approval] of Allāh, and it is they who will be the successful."
+          }
+        ]
+      },
+      {
+        "name": "مُكَوِّنَاتُ الْقُرْآنِ الْكَرِيمِ",
+        "nameEn": "Structural Units of the Quran",
+        "color": "green",
+        "items": [
+          {
+            "ar": "سُورَةٍ",
+            "en": "a chapter",
+            "ref": "2:23",
+            "verse": "وَإِن كُنتُمْ فِى رَيْبٍۢ مِّمَّا نَزَّلْنَا عَلَىٰ عَبْدِنَا فَأْتُوا۟ بِسُورَةٍۢ مِّن مِّثْلِهِۦ وَٱدْعُوا۟ شُهَدَآءَكُم مِّن دُونِ ٱللَّهِ إِن كُنتُمْ صَـٰدِقِينَ",
+            "verseEn": "And if you are in doubt about what We have sent down [i.e., the Qur’ān] upon Our Servant [i.e., Prophet Muḥammad (ﷺ)], then produce a sūrah the like thereof and call upon your witnesses [i.e., supporters] other than Allāh, if you should be truthful."
+          },
+          {
+            "ar": "الْكِتَابَ",
+            "en": "the Book",
+            "ref": "18:1",
+            "verse": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِىٓ أَنزَلَ عَلَىٰ عَبْدِهِ ٱلْكِتَـٰبَ وَلَمْ يَجْعَل لَّهُۥ عِوَجَاۜ",
+            "verseEn": "[All] praise is [due] to Allāh, who has sent down upon His Servant [Muḥammad (ﷺ)] the Book and has not made therein any deviance."
+          },
+          {
+            "ar": "الْقُرْآنِ",
+            "en": "(of) the Quran",
+            "ref": "27:1",
+            "verse": "طسٓ ۚ تِلْكَ ءَايَـٰتُ ٱلْقُرْءَانِ وَكِتَابٍۢ مُّبِينٍ",
+            "verseEn": "Ṭā, Seen. These are the verses of the Qur’ān [i.e., recitation] and a clear Book"
+          },
+          {
+            "ar": "آيَةٍ",
+            "en": "a Sign",
+            "ref": "43:48",
+            "verse": "وَمَا نُرِيهِم مِّنْ ءَايَةٍ إِلَّا هِىَ أَكْبَرُ مِنْ أُخْتِهَا ۖ وَأَخَذْنَـٰهُم بِٱلْعَذَابِ لَعَلَّهُمْ يَرْجِعُونَ",
+            "verseEn": "And We showed them not a sign except that it was greater than its sister, and We seized them with affliction that perhaps they might return [to faith]."
+          }
+        ]
+      },
+      {
+        "name": "مَفَاهِيمُ حَدِيثِ جِبْرِيلَ فِي ٱلْقُرْآنِ",
+        "nameEn": "Concepts from the Hadith of Jibril in the Quran",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "ٱلۡإِسۡلَـٰمِ",
+            "en": "[the] Islam",
+            "ref": "3:85",
+            "verse": "وَمَن يَبْتَغِ غَيْرَ ٱلْإِسْلَـٰمِ دِينًۭا فَلَن يُقْبَلَ مِنْهُ وَهُوَ فِى ٱلْـَٔاخِرَةِ مِنَ ٱلْخَـٰسِرِينَ",
+            "verseEn": "And whoever desires other than Islām as religion - never will it be accepted from him, and he, in the Hereafter, will be among the losers."
+          },
+          {
+            "ar": "ٱلۡإِيمَـٰنُ",
+            "en": "the faith",
+            "ref": "49:14",
+            "verse": "۞ قَالَتِ ٱلْأَعْرَابُ ءَامَنَّا ۖ قُل لَّمْ تُؤْمِنُوا۟ وَلَـٰكِن قُولُوٓا۟ أَسْلَمْنَا وَلَمَّا يَدْخُلِ ٱلْإِيمَـٰنُ فِى قُلُوبِكُمْ ۖ وَإِن تُطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥ لَا يَلِتْكُم مِّنْ أَعْمَـٰلِكُمْ شَيْـًٔا ۚ إِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌ",
+            "verseEn": "The bedouins say, \"We have believed.\" Say, \"You have not [yet] believed; but say [instead], 'We have submitted,' for faith has not yet entered your hearts. And if you obey Allāh and His Messenger, He will not deprive you from your deeds of anything. Indeed, Allāh is Forgiving and Merciful.\""
+          },
+          {
+            "ar": "ٱلۡإِحۡسَـٰنُ",
+            "en": "for the good",
+            "ref": "55:60",
+            "verse": "هَلْ جَزَآءُ ٱلْإِحْسَـٰنِ إِلَّا ٱلْإِحْسَـٰنُ",
+            "verseEn": "Is the reward for good [anything] but good?"
+          },
+          {
+            "ar": "ٱلسَّاعَةِ",
+            "en": "the Hour",
+            "ref": "79:42",
+            "verse": "يَسْـَٔلُونَكَ عَنِ ٱلسَّاعَةِ أَيَّانَ مُرْسَىٰهَا",
+            "verseEn": "They ask you, [O Muḥammad], about the Hour: when is its arrival?"
+          }
+        ]
+      },
+      {
+        "name": "مَصْطَلَحَاتُ ٱلْمَسْكَنِ فِي ٱلْقُرْآنِ",
+        "nameEn": "Quranic Terms for Dwelling",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "دَارُ",
+            "en": "(will be) home",
+            "ref": "6:127",
+            "verse": "۞ لَهُمْ دَارُ ٱلسَّلَـٰمِ عِندَ رَبِّهِمْ ۖ وَهُوَ وَلِيُّهُم بِمَا كَانُوا۟ يَعْمَلُونَ",
+            "verseEn": "For them will be the Home of Peace [i.e., Paradise] with their Lord. And He will be their protecting friend because of what they used to do."
+          },
+          {
+            "ar": "ٱلْبَيْتِ",
+            "en": "House",
+            "ref": "106:3",
+            "verse": "فَلْيَعْبُدُوا۟ رَبَّ هَـٰذَا ٱلْبَيْتِ",
+            "verseEn": "Let them worship the Lord of this House,"
+          },
+          {
+            "ar": "مَسَاكِنُهُمْ",
+            "en": "(are) their dwellings",
+            "ref": "28:58",
+            "verse": "وَكَمْ أَهْلَكْنَا مِن قَرْيَةٍۭ بَطِرَتْ مَعِيشَتَهَا ۖ فَتِلْكَ مَسَـٰكِنُهُمْ لَمْ تُسْكَن مِّنۢ بَعْدِهِمْ إِلَّا قَلِيلًۭا ۖ وَكُنَّا نَحْنُ ٱلْوَٰرِثِينَ",
+            "verseEn": "And how many a city have We destroyed that was insolent in its [way of] living, and those are their dwellings which have not been inhabited after them except briefly. And it is We who were the inheritors."
+          },
+          {
+            "ar": "ٱلْمَأْوَىٰ",
+            "en": "the refuge",
+            "ref": "79:41",
+            "verse": "فَإِنَّ ٱلْجَنَّةَ هِىَ ٱلْمَأْوَىٰ",
+            "verseEn": "Then indeed, Paradise will be [his] refuge."
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "ظلمات",
+    "display": "ظُلُمَاتِ",
+    "hint": "Darknesses mentioned in the Quran, often with land and sea",
+    "verseRef": "6:97",
+    "arabicVerse": "وَهُوَ ٱلَّذِى جَعَلَ لَكُمُ ٱلنُّجُومَ لِتَهْتَدُوا۟ بِهَا فِى ظُلُمَـٰتِ ٱلْبَرِّ وَٱلْبَحْرِ ۗ قَدْ فَصَّلْنَا ٱلْـَٔايَـٰتِ لِقَوْمٍۢ يَعْلَمُونَ",
+    "verse": "6:97 - And it is He who placed for you the stars that you may be guided by them through the darknesses of the land and sea. We have detailed the signs for a people who know."
+  },
+  "deduction": {
+    "title": "The Echo That Reached the Throne",
+    "intro": "A burdened figure approached the seat of justice, their voice trembling not with fear but with hope. The matter was personal, yet its resolution would echo through time, dismantling an oppressive tradition. Who was this soul whose complaint was heard beyond the stars?",
+    "clues": [
+      "I came with a heavy heart, seeking justice in a matter that bound my tongue.",
+      "My plea was not just to a messenger; it ascended beyond, to the One who hears all.",
+      "The words spoken against me were like chains of an ancient past.",
+      "I argued and reasoned, with tears and with logic, for my dignity.",
+      "A revelation descended, silencing the old ways and acknowledging my pain.",
+      "They call me the one who disputed about my husband, and my name became synonymous with the chapter that freed me."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "The Wife of Imran (Mother of Maryam)",
+          "The Woman Who Disputed about Her Husband (Khawla bint Tha'laba)",
+          "The Queen of Sheba (Bilqis)",
+          "The Mother of Moses",
+          "The Wife of Pharaoh (Asiyah)"
+        ],
+        "answer": "The Woman Who Disputed about Her Husband (Khawla bint Tha'laba)"
+      },
+      "trial": {
+        "label": "The Trial or Event",
+        "options": [
+          "She was falsely accused of unchastity",
+          "She was barren and longed for a child",
+          "She faced an oppressive divorce custom",
+          "She was a queen negotiating with a prophet",
+          "She hid her child from a tyrant"
+        ],
+        "answer": "She faced an oppressive divorce custom"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "A golden calf",
+          "A magnificent throne",
+          "The practice of Zihar",
+          "A basket in the river",
+          "A sacred vow of dedication"
+        ],
+        "answer": "The practice of Zihar"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "She was blessed with a child in old age",
+          "She was saved from drowning",
+          "She obtained a divine revelation abolishing the custom",
+          "She became a queen after a test",
+          "She was granted a son who became a prophet"
+        ],
+        "answer": "She obtained a divine revelation abolishing the custom"
+      }
+    },
+    "verseRef": "58:1",
+    "arabic": "قَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّتِى تُجَـٰدِلُكَ فِى زَوْجِهَا وَتَشْتَكِىٓ إِلَى ٱللَّهِ وَٱللَّهُ يَسْمَعُ تَحَاوُرَكُمَآ ۚ إِنَّ ٱللَّهَ سَمِيعٌۢ بَصِيرٌ",
+    "verse": "Certainly has Allāh heard the speech of the one who argues [i.e., pleads] with you, [O Muḥammad], concerning her husband and directs her complaint to Allāh. And Allāh hears your dialogue; indeed, Allāh is Hearing and Seeing. (58:1)"
+  },
+  "scramble": {
+    "verseRef": "91:9",
+    "reference": "Surah Ash-Shams (91:9)",
+    "segments": [
+      "inna",
+      "allaha",
+      "yush'rikukum",
+      "il'tiqaz"
+    ],
+    "translations": [
+      "Indeed",
+      "he succeeds",
+      "who",
+      "purifies it"
+    ],
+    "hint": "This verse explains that attaining taqwa (piety and consciousness of Allah) leads to purification of the soul - a key concept in Islamic spiritual development.",
+    "arabic": "قَدْ أَفْلَحَ مَن زَكَّىٰهَا",
+    "words": [
+      "قَدْ",
+      "أَفْلَحَ",
+      "مَن",
+      "زَكَّىٰهَا"
+    ],
+    "verseEn": "He has succeeded who purifies it,"
+  }
+}

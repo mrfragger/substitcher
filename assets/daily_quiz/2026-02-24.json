@@ -1,0 +1,314 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَلْفَاظُ الْقَرَابَةِ",
+        "nameEn": "Kinship Terms",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "أُمُّهُ",
+            "en": "his mother",
+            "ref": "31:14",
+            "verse": "وَوَصَّيْنَا ٱلْإِنسَـٰنَ بِوَٰلِدَيْهِ حَمَلَتْهُ أُمُّهُۥ وَهْنًا عَلَىٰ وَهْنٍۢ وَفِصَـٰلُهُۥ فِى عَامَيْنِ أَنِ ٱشْكُرْ لِى وَلِوَٰلِدَيْكَ إِلَىَّ ٱلْمَصِيرُ",
+            "verseEn": "And We have enjoined upon man [care] for his parents. His mother carried him, [increasing her] in weakness upon weakness, and his weaning is in two years. Be grateful to Me and to your parents; to Me is the [final] destination."
+          },
+          {
+            "ar": "لِأَبِيهِ",
+            "en": "to his father",
+            "ref": "6:74",
+            "verse": "۞ وَإِذْ قَالَ إِبْرَٰهِيمُ لِأَبِيهِ ءَازَرَ أَتَتَّخِذُ أَصْنَامًا ءَالِهَةً ۖ إِنِّىٓ أَرَىٰكَ وَقَوْمَكَ فِى ضَلَـٰلٍۢ مُّبِينٍۢ",
+            "verseEn": "And [mention, O Muḥammad], when Abraham said to his father Āzar, \"Do you take idols as deities? Indeed, I see you and your people to be in manifest error.\""
+          },
+          {
+            "ar": "لِأَخِيهِ",
+            "en": "to his brother",
+            "ref": "7:142",
+            "verse": "۞ وَوَٰعَدْنَا مُوسَىٰ ثَلَـٰثِينَ لَيْلَةًۭ وَأَتْمَمْنَـٰهَا بِعَشْرٍۢ فَتَمَّ مِيقَـٰتُ رَبِّهِۦٓ أَرْبَعِينَ لَيْلَةًۭ ۚ وَقَالَ مُوسَىٰ لِأَخِيهِ هَـٰرُونَ ٱخْلُفْنِى فِى قَوْمِى وَأَصْلِحْ وَلَا تَتَّبِعْ سَبِيلَ ٱلْمُفْسِدِينَ",
+            "verseEn": "And We made an appointment with Moses for thirty nights and perfected them by [the addition of] ten; so the term of his Lord was completed as forty nights. And Moses said to his brother Aaron, \"Take my place among my people, do right [by them], and do not follow the way of the corrupters.\""
+          },
+          {
+            "ar": "ابْنَهُ",
+            "en": "his son",
+            "ref": "11:42",
+            "verse": "وَهِىَ تَجْرِى بِهِمْ فِى مَوْجٍۢ كَٱلْجِبَالِ وَنَادَىٰ نُوحٌ ٱبْنَهُۥ وَكَانَ فِى مَعْزِلٍۢ يَـٰبُنَىَّ ٱرْكَب مَّعَنَا وَلَا تَكُن مَّعَ ٱلْكَـٰفِرِينَ",
+            "verseEn": "And it sailed with them through waves like mountains, and Noah called to his son who was apart [from them], \"O my son, come aboard with us and be not with the disbelievers.\""
+          }
+        ]
+      },
+      {
+        "name": "أَمْرَاضُ الْقُلُوبِ وَالْأَبْصَارِ",
+        "nameEn": "Spiritual Afflictions of Disbelief",
+        "color": "green",
+        "items": [
+          {
+            "ar": "عُمْيًا",
+            "en": "blind (spiritually)",
+            "ref": "17:97",
+            "verse": "وَمَن يَهْدِ ٱللَّهُ فَهُوَ ٱلْمُهْتَدِ ۖ وَمَن يُضْلِلْ فَلَن تَجِدَ لَهُمْ أَوْلِيَآءَ مِن دُونِهِۦ ۖ وَنَحْشُرُهُمْ يَوْمَ ٱلْقِيَـٰمَةِ عَلَىٰ وُجُوهِهِمْ عُمْيًۭا وَبُكْمًۭا وَصُمًّۭا ۖ مَّأْوَىٰهُمْ جَهَنَّمُ ۖ كُلَّمَا خَبَتْ زِدْنَـٰهُمْ سَعِيرًۭا",
+            "verseEn": "And whoever Allāh guides - he is the [rightly] guided; and whoever He sends astray - you will never find for them protectors besides Him, and We will gather them on the Day of Resurrection [fallen] on their faces - blind, dumb and deaf. Their refuge is Hell; every time it subsides, We increase [for] them blazing fire."
+          },
+          {
+            "ar": "الصُّمَّ",
+            "en": "the deaf (spiritually)",
+            "ref": "10:42",
+            "verse": "وَمِنْهُم مَّن يَسْتَمِعُونَ إِلَيْكَ ۚ أَفَأَنتَ تُسْمِعُ ٱلصُّمَّ وَلَوْ كَانُوا۟ لَا يَعْقِلُونَ",
+            "verseEn": "And among them are those who listen to you. But can you cause the deaf to hear [i.e., benefit from this hearing], although they will not use reason?"
+          },
+          {
+            "ar": "غِشَاوَةً",
+            "en": "a covering (over their sight)",
+            "ref": "45:23",
+            "verse": "أَفَرَءَيْتَ مَنِ ٱتَّخَذَ إِلَـٰهَهُۥ هَوَىٰهُ وَأَضَلَّهُ ٱللَّهُ عَلَىٰ عِلْمٍۢ وَخَتَمَ عَلَىٰ سَمْعِهِۦ وَقَلْبِهِۦ وَجَعَلَ عَلَىٰ بَصَرِهِۦ غِشَـٰوَةًۭ فَمَن يَهْدِيهِ مِنۢ بَعْدِ ٱللَّهِ ۚ أَفَلَا تَذَكَّرُونَ",
+            "verseEn": "Have you seen he who has taken as his god his [own] desire, and Allāh has sent him astray due to knowledge and has set a seal upon his hearing and his heart and put over his vision a veil? So who will guide him after Allāh? Then will you not be reminded?"
+          },
+          {
+            "ar": "مَرَضٌ",
+            "en": "disease (in their hearts)",
+            "ref": "8:49",
+            "verse": "إِذْ يَقُولُ ٱلْمُنَـٰفِقُونَ وَٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ غَرَّ هَـٰٓؤُلَآءِ دِينُهُمْ ۗ وَمَن يَتَوَكَّلْ عَلَى ٱللَّهِ فَإِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌۭ",
+            "verseEn": "[Remember] when the hypocrites and those in whose hearts was disease [i.e., arrogance and disbelief] said, \"Their religion has deluded those [Muslims].\" But whoever relies upon Allāh - then indeed, Allāh is Exalted in Might and Wise."
+          }
+        ]
+      },
+      {
+        "name": "أَنْوَاعُ الْحَوَاجِزِ فِي الْقُرْآنِ",
+        "nameEn": "Types of Barriers in the Quran",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "بَرْزَخٌ",
+            "en": "Barrier",
+            "ref": "55:20",
+            "verse": "بَيْنَهُمَا بَرْزَخٌۭ لَّا يَبْغِيَانِ",
+            "verseEn": "Between them is a barrier so neither of them transgresses."
+          },
+          {
+            "ar": "سَدًّا",
+            "en": "Dam/Obstruction",
+            "ref": "36:9",
+            "verse": "وَجَعَلْنَا مِنۢ بَيْنِ أَيْدِيهِمْ سَدًّۭا وَمِنْ خَلْفِهِمْ سَدًّۭا فَأَغْشَيْنَـٰهُمْ فَهُمْ لَا يُبْصِرُونَ",
+            "verseEn": "And We have put before them a barrier and behind them a barrier and covered them, so they do not see."
+          },
+          {
+            "ar": "أَكِنَّةً",
+            "en": "Coverings",
+            "ref": "6:25",
+            "verse": "وَمِنْهُم مَّن يَسْتَمِعُ إِلَيْكَ ۖ وَجَعَلْنَا عَلَىٰ قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِىٓ ءَاذَانِهِمْ وَقْرًۭا ۚ وَإِن يَرَوْا۟ كُلَّ ءَايَةٍۢ لَّا يُؤْمِنُوا۟ بِهَا ۚ حَتَّىٰٓ إِذَا جَآءُوكَ يُجَـٰدِلُونَكَ يَقُولُ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ هَـٰذَآ إِلَّآ أَسَـٰطِيرُ ٱلْأَوَّلِينَ",
+            "verseEn": "And among them are those who listen to you, but We have placed over their hearts coverings, lest they understand it, and in their ears deafness. And if they should see every sign, they will not believe in it. Even when they come to you arguing with you, those who disbelieve say, \"This is not but legends of the former peoples.\""
+          },
+          {
+            "ar": "مَسْتُورًا",
+            "en": "Veiled",
+            "ref": "17:45",
+            "verse": "وَإِذَا قَرَأْتَ ٱلْقُرْءَانَ جَعَلْنَا بَيْنَكَ وَبَيْنَ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ حِجَابًۭا مَّسْتُورًۭا",
+            "verseEn": "And when you recite the Qur’ān, We put between you and those who do not believe in the Hereafter a concealed partition."
+          }
+        ]
+      },
+      {
+        "name": "أَفْعَالُ الْإِخْفَاءِ وَالْإِبْدَاءِ (عِلْمُ اللَّهِ)",
+        "nameEn": "Actions and States of Concealment and Disclosure (Divine Knowledge)",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "يُسِرُّونَ",
+            "en": "they conceal",
+            "ref": "2:77",
+            "verse": "أَوَلَا يَعْلَمُونَ أَنَّ ٱللَّهَ يَعْلَمُ مَا يُسِرُّونَ وَمَا يُعْلِنُونَ",
+            "verseEn": "But do they not know that Allāh knows what they conceal and what they declare?"
+          },
+          {
+            "ar": "تُبْدُوهُ",
+            "en": "you reveal it",
+            "ref": "3:29",
+            "verse": "قُلْ إِن تُخْفُوا۟ مَا فِى صُدُورِكُمْ أَوْ تُبْدُوهُ يَعْلَمْهُ ٱللَّهُ ۗ وَيَعْلَمُ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ",
+            "verseEn": "Say, \"Whether you conceal what is in your breasts or reveal it, Allāh knows it. And He knows that which is in the heavens and that which is on the earth. And Allāh is over all things competent."
+          },
+          {
+            "ar": "يَسْتَخْفُونَ",
+            "en": "they seek to hide",
+            "ref": "4:108",
+            "verse": "يَسْتَخْفُونَ مِنَ ٱلنَّاسِ وَلَا يَسْتَخْفُونَ مِنَ ٱللَّهِ وَهُوَ مَعَهُمْ إِذْ يُبَيِّتُونَ مَا لَا يَرْضَىٰ مِنَ ٱلْقَوْلِ ۚ وَكَانَ ٱللَّهُ بِمَا يَعْمَلُونَ مُحِيطًا",
+            "verseEn": "They conceal [their evil intentions and deeds] from the people, but they cannot conceal [them] from Allāh, and He is with them [in His knowledge] when they spend the night in such as He does not accept of speech. And ever is Allāh, of what they do, encompassing."
+          },
+          {
+            "ar": "تَكْتُمُوا",
+            "en": "you conceal",
+            "ref": "2:283",
+            "verse": "۞ وَإِن كُنتُمْ عَلَىٰ سَفَرٍۢ وَلَمْ تَجِدُوا۟ كَاتِبًۭا فَرِهَـٰنٌۭ مَّقْبُوضَةٌۭ ۖ فَإِنْ أَمِنَ بَعْضُكُم بَعْضًۭا فَلْيُؤَدِّ ٱلَّذِى ٱؤْتُمِنَ أَمَـٰنَتَهُۥ وَلْيَتَّقِ ٱللَّهَ رَبَّهُۥ ۗ وَلَا تَكْتُمُوا۟ ٱلشَّهَـٰدَةَ ۚ وَمَن يَكْتُمْهَا فَإِنَّهُۥٓ ءَاثِمٌۭ قَلْبُهُۥ ۗ وَٱللَّهُ بِمَا تَعْمَلُونَ عَلِيمٌۭ",
+            "verseEn": "And if you are on a journey and cannot find a scribe, then a security deposit [should be] taken. And if one of you entrusts another, then let him who is entrusted discharge his trust [faithfully] and let him fear Allāh, his Lord. And do not conceal testimony, for whoever conceals it - his heart is indeed sinful, and Allāh is Knowing of what you do."
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "نفس",
+    "display": "نَفْس",
+    "hint": "It can be tranquil, self-reproaching, or inclined to evil.",
+    "verseRef": "91:7",
+    "arabicVerse": "وَنَفْسٍۢ وَمَا سَوَّىٰهَا",
+    "verse": "91:7 — And [by] the soul and He who proportioned it"
+  },
+  "deduction": {
+    "title": "The Echo of Deceit",
+    "intro": "A bond of kinship was tested by a surge of envy. A secret plan was hatched, setting in motion a chain of events that would span years and cross vast distances. This group's actions led to profound separation and sorrow, but the story did not end there. It is a tale of deception, regret, and the ultimate unfolding of a divine plan. Can you unravel the identity of these individuals whose choices echoed through generations?",
+    "clues": [
+      "We were consumed by jealousy over the affection shown to one of our own.",
+      "In our envy, we conspired together and cast our sibling into the darkness of a well.",
+      "To conceal our deed, we presented a garment to our father, stained with false blood.",
+      "Years later, a severe famine forced us to travel to Egypt seeking provisions.",
+      "There, we came before a powerful governor who, unknown to us, was the very sibling we had wronged.",
+      "Our final test was to bring our youngest brother, Binyamin, which led to the revelation of our past and our father being Prophet Ya'qub."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who are we?",
+        "options": [
+          "The Sons of Adam (Qabil & Habil)",
+          "The Disciples of Prophet Isa",
+          "The Brothers of Prophet Yusuf",
+          "The People of Madyan",
+          "The Magicians of Fir'awn"
+        ],
+        "answer": "The Brothers of Prophet Yusuf"
+      },
+      "trial": {
+        "label": "What was our primary misdeed?",
+        "options": [
+          "Building a golden calf for worship",
+          "Demanding to see Allah directly",
+          "Mocking a prophet for building an ark",
+          "Deceiving our father and abandoning our brother",
+          "Breaking the Sabbath by fishing"
+        ],
+        "answer": "Deceiving our father and abandoning our brother"
+      },
+      "location": {
+        "label": "What object was central to our deception?",
+        "options": [
+          "A set of inscribed tablets",
+          "A shirt stained with false blood",
+          "A golden calf",
+          "A beautiful bird (the Hoopoe)",
+          "A staff that turned into a serpent"
+        ],
+        "answer": "A shirt stained with false blood"
+      },
+      "outcome": {
+        "label": "What was the ultimate outcome of our story?",
+        "options": [
+          "We were destroyed by a mighty flood",
+          "We were turned into apes",
+          "We were swallowed by the earth",
+          "We were forgiven and reunited with our family",
+          "We were drowned in the sea"
+        ],
+        "answer": "We were forgiven and reunited with our family"
+      }
+    },
+    "verseRef": "12:91",
+    "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+    "verse": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\" (12:91)"
+  },
+  "scramble": {
+    "verseRef": "43:13",
+    "reference": "Surah Az-Zukhruf (43:13)",
+    "segments": [
+      "سُبْحَانَ الَّذِي",
+      "سَخَّرَ لَنَا هَٰذَا",
+      "وَمَا كُنَّا",
+      "لَهُ مُقْرِنِينَ"
+    ],
+    "translations": [
+      "That you may sit firmly on their backs then remember",
+      "(the) favor (of) your Lord when you sit firmly on them",
+      "and say Glory be (to) the One Who (has) subjected to us",
+      "this and not we were of it capable"
+    ],
+    "hint": "This is part of a well-known supplication recited when mounting a means of transport.",
+    "arabic": "لِتَسْتَوُۥا۟ عَلَىٰ ظُهُورِهِۦ ثُمَّ تَذْكُرُوا۟ نِعْمَةَ رَبِّكُمْ إِذَا ٱسْتَوَيْتُمْ عَلَيْهِ وَتَقُولُوا۟ سُبْحَـٰنَ ٱلَّذِى سَخَّرَ لَنَا هَـٰذَا وَمَا كُنَّا لَهُۥ مُقْرِنِينَ",
+    "words": [
+      "لِتَسْتَوُۥا۟ عَلَىٰ ظُهُورِهِۦ ثُمَّ تَذْكُرُوا۟",
+      "نِعْمَةَ رَبِّكُمْ إِذَا ٱسْتَوَيْتُمْ عَلَيْهِ",
+      "وَتَقُولُوا۟ سُبْحَـٰنَ ٱلَّذِى سَخَّرَ لَنَا",
+      "هَـٰذَا وَمَا كُنَّا لَهُۥ مُقْرِنِينَ"
+    ],
+    "verseEn": "That you may settle yourselves upon their backs and then remember the favor of your Lord when you have settled upon them and say, \"Exalted is He who has subjected this to us, and we could not have [otherwise] subdued it."
+  },
+  "juz": {
+    "date": "2026-02-24",
+    "juz_number": 8,
+    "juz_name": "Wa Law Annana",
+    "juz_name_ar": "وَلَوْ أَنَّنَا",
+    "verse": {
+      "surah_number": 6,
+      "surah_name": "Al-An'am",
+      "surah_name_ar": "ٱلْأَنْعَام",
+      "ayah_number": 162,
+      "arabic_text": "قُلْ إِنَّ صَلَاتِى وَنُسُكِى وَمَحْيَاىَ وَمَمَاتِى لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+      "translation": "Say, 'Indeed, my prayer, my rites of sacrifice, my living and my dying are for Allah, Lord of the worlds.'",
+      "audio_url": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/951.mp3"
+    },
+    "theme_question": {
+      "correct": "The complete devotion of one's entire life to Allah.",
+      "options": [
+        "The complete devotion of one's entire life to Allah.",
+        "The specific rituals of the annual pilgrimage (Hajj).",
+        "The importance of remembering death to stay humble.",
+        "The obligation of the five daily prayers."
+      ]
+    },
+    "surah_question": {
+      "correct_surah": 6,
+      "options": [
+        {
+          "num": 7,
+          "name": "Al-A'raf",
+          "name_ar": "ٱلْأَعْرَاف",
+          "name_en": "The Heights"
+        },
+        {
+          "num": 6,
+          "name": "Al-An'am",
+          "name_ar": "ٱلْأَنْعَام",
+          "name_en": "The Cattle"
+        },
+        {
+          "num": 5,
+          "name": "Al-Ma'idah",
+          "name_ar": "ٱلْمَائِدَة",
+          "name_en": "The Table Spread"
+        },
+        {
+          "num": 8,
+          "name": "Al-Anfal",
+          "name_ar": "ٱلْأَنْفَال",
+          "name_en": "The Spoils of War"
+        }
+      ]
+    },
+    "surah_order": {
+      "surahs": [
+        {
+          "num": 6,
+          "name": "Al-An'am",
+          "name_ar": "ٱلْأَنْعَام",
+          "name_en": "The Cattle"
+        },
+        {
+          "num": 7,
+          "name": "Al-A'raf",
+          "name_ar": "ٱلْأَعْرَاف",
+          "name_en": "The Heights"
+        }
+      ]
+    },
+    "educational_notes": {
+      "verse_context": "This verse is a powerful declaration of faith, commanded by Allah for the Prophet Muhammad (ﷺ) and all believers to proclaim. It comes towards the end of Surah Al-An'am, summarizing the core message of the surah after detailed arguments against polytheism and discussions on Allah's absolute sovereignty. It serves as a personal and public pledge of one's entire existence to the Creator.",
+      "theme_explanation": "The central theme is Tawhid al-Uluhiyyah (Oneness of Worship). The verse beautifully encapsulates the concept that a believer's life, in its entirety—from acts of worship like prayer (salati) and sacrifice (nusuki) to the very processes of living (mahyaya) and dying (mamati)—is solely for Allah. It rejects any division of loyalty and affirms that every moment and action should be an act of submission to the Lord of all worlds.",
+      "surah_overview": "Surah Al-An'am ('The Cattle') is the 6th chapter of the Quran and is unique as it was revealed entirely in one night in Makkah. Its primary focus is on establishing the foundations of faith (Aqidah), particularly the oneness of Allah (Tawhid). It refutes the polytheistic beliefs of the Quraysh by presenting logical arguments and drawing attention to Allah's signs in creation. The surah also discusses prophethood, revelation, and the Day of Judgment, without legislating many practical laws, which is characteristic of Makkan surahs."
+    }
+  }
+}

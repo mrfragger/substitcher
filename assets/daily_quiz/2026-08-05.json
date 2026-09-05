@@ -1,0 +1,240 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَفْرَادُ الْأُسْرَةِ",
+        "nameEn": "Family Members",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "أَبَتِ",
+            "en": "O my father",
+            "ref": "12:4",
+            "verse": "إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَـٰٓأَبَتِ إِنِّى رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًۭا وَٱلشَّمْسَ وَٱلْقَمَرَ رَأَيْتُهُمْ لِى سَـٰجِدِينَ",
+            "verseEn": "[Of these stories mention] when Joseph said to his father, \"O my father, indeed I have seen [in a dream] eleven stars and the sun and the moon; I saw them prostrating to me.\""
+          },
+          {
+            "ar": "أُمِّكَ",
+            "en": "your mother",
+            "ref": "20:40",
+            "verse": "إِذْ تَمْشِىٓ أُخْتُكَ فَتَقُولُ هَلْ أَدُلُّكُمْ عَلَىٰ مَن يَكْفُلُهُۥ ۖ فَرَجَعْنَـٰكَ إِلَىٰٓ أُمِّكَ كَىْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ ۚ وَقَتَلْتَ نَفْسًۭا فَنَجَّيْنَـٰكَ مِنَ ٱلْغَمِّ وَفَتَنَّـٰكَ فُتُونًۭا ۚ فَلَبِثْتَ سِنِينَ فِىٓ أَهْلِ مَدْيَنَ ثُمَّ جِئْتَ عَلَىٰ قَدَرٍۢ يَـٰمُوسَىٰ",
+            "verseEn": "[And We favored you] when your sister went and said, 'Shall I direct you to someone who will be responsible for him?' So We restored you to your mother that she might be content and not grieve. And you killed someone, but We saved you from retaliation and tried you with a [severe] trial. And you remained [some] years among the people of Madyan. Then you came [here] at the decreed time, O Moses."
+          },
+          {
+            "ar": "ٱبْنُ",
+            "en": "son",
+            "ref": "5:17",
+            "verse": "لَّقَدْ كَفَرَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ هُوَ ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ ۚ قُلْ فَمَن يَمْلِكُ مِنَ ٱللَّهِ شَيْـًٔا إِنْ أَرَادَ أَن يُهْلِكَ ٱلْمَسِيحَ ٱبْنَ مَرْيَمَ وَأُمَّهُۥ وَمَن فِى ٱلْأَرْضِ جَمِيعًۭا ۗ وَلِلَّهِ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ۚ يَخْلُقُ مَا يَشَآءُ ۚ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ",
+            "verseEn": "They have certainly disbelieved who say that Allāh is Christ, the son of Mary. Say, \"Then who could prevent Allāh at all if He had intended to destroy Christ, the son of Mary, or his mother or everyone on the earth?\" And to Allāh belongs the dominion of the heavens and the earth and whatever is between them. He creates what He wills, and Allāh is over all things competent."
+          },
+          {
+            "ar": "بَنَاتِي",
+            "en": "(are) my daughters",
+            "ref": "11:78",
+            "verse": "وَجَآءَهُۥ قَوْمُهُۥ يُهْرَعُونَ إِلَيْهِ وَمِن قَبْلُ كَانُوا۟ يَعْمَلُونَ ٱلسَّيِّـَٔاتِ ۚ قَالَ يَـٰقَوْمِ هَـٰٓؤُلَآءِ بَنَاتِى هُنَّ أَطْهَرُ لَكُمْ ۖ فَٱتَّقُوا۟ ٱللَّهَ وَلَا تُخْزُونِ فِى ضَيْفِىٓ ۖ أَلَيْسَ مِنكُمْ رَجُلٌۭ رَّشِيدٌۭ",
+            "verseEn": "And his people came hastening to him, and before [this] they had been doing evil deeds. He said, \"O my people, these are my daughters; they are purer for you. So fear Allāh and do not disgrace me concerning my guests. Is there not among you a man of reason?\""
+          }
+        ]
+      },
+      {
+        "name": "نَبَاتَاتٌ قُرْآنِيَّةٌ",
+        "nameEn": "Quranic Plants",
+        "color": "green",
+        "items": [
+          {
+            "ar": "فَاكِهَة",
+            "en": "(are) fruits",
+            "ref": "36:57",
+            "verse": "لَهُمْ فِيهَا فَـٰكِهَةٌۭ وَلَهُم مَّا يَدَّعُونَ",
+            "verseEn": "For them therein is fruit, and for them is whatever they request [or wish]"
+          },
+          {
+            "ar": "نَخْل",
+            "en": "(of) date-palms",
+            "ref": "20:71",
+            "verse": "قَالَ ءَامَنتُمْ لَهُۥ قَبْلَ أَنْ ءَاذَنَ لَكُمْ ۖ إِنَّهُۥ لَكَبِيرُكُمُ ٱلَّذِى عَلَّمَكُمُ ٱلسِّحْرَ ۖ فَلَأُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْجُلَكُم مِّنْ خِلَـٰفٍۢ وَلَأُصَلِّبَنَّكُمْ فِى جُذُوعِ ٱلنَّخْلِ وَلَتَعْلَمُنَّ أَيُّنَآ أَشَدُّ عَذَابًۭا وَأَبْقَىٰ",
+            "verseEn": "[Pharaoh] said, \"You believed him [i.e., Moses] before I gave you permission. Indeed, he is your leader who has taught you magic. So I will surely cut off your hands and your feet on opposite sides, and I will crucify you on the trunks of palm trees, and you will surely know which of us is more severe in [giving] punishment and more enduring.\""
+          },
+          {
+            "ar": "أَعْنَاب",
+            "en": "and grapevines",
+            "ref": "78:32",
+            "verse": "حَدَآئِقَ وَأَعْنَـٰبًۭا",
+            "verseEn": "Gardens and grapevines."
+          },
+          {
+            "ar": "سِدْرَة",
+            "en": "(the) Lote Tree",
+            "ref": "53:14",
+            "verse": "عِندَ سِدْرَةِ ٱلْمُنتَهَىٰ",
+            "verseEn": "At the Lote Tree of the Utmost Boundary -"
+          }
+        ]
+      },
+      {
+        "name": "أَسْمَاءُ جَهَنَّمَ",
+        "nameEn": "Names of the Hellfire",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "ٱلسَّعِيرِ",
+            "en": "(of) the Blaze",
+            "ref": "22:4",
+            "verse": "كُتِبَ عَلَيْهِ أَنَّهُۥ مَن تَوَلَّاهُ فَأَنَّهُۥ يُضِلُّهُۥ وَيَهْدِيهِ إِلَىٰ عَذَابِ ٱلسَّعِيرِ",
+            "verseEn": "It has been decreed for him [i.e., every devil] that whoever turns to him - he will misguide him and will lead him to the punishment of the Blaze."
+          },
+          {
+            "ar": "ٱلْجَحِيمُ",
+            "en": "the Hellfire",
+            "ref": "79:36",
+            "verse": "وَبُرِّزَتِ ٱلْجَحِيمُ لِمَن يَرَىٰ",
+            "verseEn": "And Hellfire will be exposed for [all] those who see -"
+          },
+          {
+            "ar": "هَاوِيَةٌ",
+            "en": "(will be the) Pit",
+            "ref": "101:9",
+            "verse": "فَأُمُّهُۥ هَاوِيَةٌۭ",
+            "verseEn": "His refuge will be an abyss."
+          },
+          {
+            "ar": "سَقَرُ",
+            "en": "(is) Hell",
+            "ref": "74:27",
+            "verse": "وَمَآ أَدْرَىٰكَ مَا سَقَرُ",
+            "verseEn": "And what can make you know what is Saqar?"
+          }
+        ]
+      },
+      {
+        "name": "مُعْجِزَاتُ النَّبِيِّ مُوسَىٰ",
+        "nameEn": "Miracles of Prophet Musa",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "نَارًا",
+            "en": "a fire",
+            "ref": "20:10",
+            "verse": "إِذْ رَءَا نَارًۭا فَقَالَ لِأَهْلِهِ ٱمْكُثُوٓا۟ إِنِّىٓ ءَانَسْتُ نَارًۭا لَّعَلِّىٓ ءَاتِيكُم مِّنْهَا بِقَبَسٍ أَوْ أَجِدُ عَلَى ٱلنَّارِ هُدًۭى",
+            "verseEn": "When he saw a fire and said to his family, \"Stay here; indeed, I have perceived a fire; perhaps I can bring you a torch or find at the fire some guidance.\""
+          },
+          {
+            "ar": "عَصَاكَ",
+            "en": "your staff",
+            "ref": "28:31",
+            "verse": "وَأَنْ أَلْقِ عَصَاكَ ۖ فَلَمَّا رَءَاهَا تَهْتَزُّ كَأَنَّهَا جَآنٌّۭ وَلَّىٰ مُدْبِرًۭا وَلَمْ يُعَقِّبْ ۚ يَـٰمُوسَىٰٓ أَقْبِلْ وَلَا تَخَفْ ۖ إِنَّكَ مِنَ ٱلْـَٔامِنِينَ",
+            "verseEn": "And [he was told], \"Throw down your staff.\" But when he saw it writhing as if it was a snake, he turned in flight and did not return. [Allāh said], \"O Moses, approach and fear not. Indeed, you are of the secure."
+          },
+          {
+            "ar": "يَدَكَ",
+            "en": "your hand",
+            "ref": "27:12",
+            "verse": "وَأَدْخِلْ يَدَكَ فِى جَيْبِكَ تَخْرُجْ بَيْضَآءَ مِنْ غَيْرِ سُوٓءٍۢ ۖ فِى تِسْعِ ءَايَـٰتٍ إِلَىٰ فِرْعَوْنَ وَقَوْمِهِۦٓ ۚ إِنَّهُمْ كَانُوا۟ قَوْمًۭا فَـٰسِقِينَ",
+            "verseEn": "And put your hand into the opening of your garment [at the breast]; it will come out white without disease. [These are] among the nine signs [you will take] to Pharaoh and his people. Indeed, they have been a people defiantly disobedient.\""
+          },
+          {
+            "ar": "الْحَجَرَ",
+            "en": "the stone",
+            "ref": "2:60",
+            "verse": "۞ وَإِذِ ٱسْتَسْقَىٰ مُوسَىٰ لِقَوْمِهِۦ فَقُلْنَا ٱضْرِب بِّعَصَاكَ ٱلْحَجَرَ ۖ فَٱنفَجَرَتْ مِنْهُ ٱثْنَتَا عَشْرَةَ عَيْنًۭا ۖ قَدْ عَلِمَ كُلُّ أُنَاسٍۢ مَّشْرَبَهُمْ ۖ كُلُوا۟ وَٱشْرَبُوا۟ مِن رِّزْقِ ٱللَّهِ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ",
+            "verseEn": "And [recall] when Moses prayed for water for his people, so We said, \"Strike with your staff the stone.\" And there gushed forth from it twelve springs, and every people [i.e., tribe] knew its watering place. \"Eat and drink from the provision of Allāh, and do not commit abuse on the earth, spreading corruption.\""
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "نعيم",
+    "display": "نَعِيمٍ",
+    "hint": "The bliss or delight promised to the righteous in Paradise.",
+    "verseRef": "83:22",
+    "arabicVerse": "إِنَّ ٱلْأَبْرَارَ لَفِى نَعِيمٍ",
+    "verse": "83:22 - Indeed, the righteous will be in pleasure"
+  },
+  "deduction": {
+    "title": "The Day of the Final Display",
+    "intro": "Summoned to a grand display of power, a group of skilled performers found themselves facing an unexpected truth that would change their lives forever.",
+    "clues": [
+      "We were renowned for our craft, masters of illusion and trickery.",
+      "We were summoned by the ruler to confront a challenger who wielded a simple staff.",
+      "When we saw the truth, we fell down in prostration, declaring belief in the Lord of the worlds.",
+      "The tyrant threatened us with severe punishment, but we did not waver.",
+      "We were among the first to believe in the message after witnessing the clear sign.",
+      "We were martyred for our faith, but we will be the first to enter Paradise with the righteous."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Are We?",
+        "options": [
+          "The Magicians of Pharaoh",
+          "The Israelites",
+          "The People of Thamud",
+          "The Disciples of Isa",
+          "The Army of Abraha"
+        ],
+        "answer": "The Magicians of Pharaoh"
+      },
+      "trial": {
+        "label": "Trial / Event",
+        "options": [
+          "Contest with Prophet Musa",
+          "Building the Tower",
+          "The Great Flood",
+          "The Plague of Locusts",
+          "The Splitting Sea"
+        ],
+        "answer": "Contest with Prophet Musa"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "The Festival Day",
+          "The Valley of Tuwa",
+          "The City of Iram",
+          "The Garden of Eternity",
+          "The Plain of Arafat"
+        ],
+        "answer": "The Festival Day"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "They were crucified in public",
+          "They were drowned in the sea",
+          "They were made followers of the prophet",
+          "They were sent into exile",
+          "They were consumed by fire"
+        ],
+        "answer": "They were crucified in public"
+      }
+    },
+    "verseRef": "20:70",
+    "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+    "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+  },
+  "scramble": {
+    "verseRef": "6:103",
+    "reference": "Al-An'am (6:103)",
+    "segments": [
+      "لَّا تُدْرِكُهُ الْأَبْصَارُ",
+      "وَهُوَ يُدْرِكُ الْأَبْصَارَ",
+      "وَهُوَ اللَّطِيفُ",
+      "الْخَبِيرُ"
+    ],
+    "translations": [
+      "Not (can) grasp Him the visions",
+      "but He (can) grasp",
+      "(all) the vision and He (is)",
+      "the All-Subtle the All-Aware"
+    ],
+    "hint": "A verse about Allah's perception and attributes.",
+    "arabic": "لَّا تُدْرِكُهُ ٱلْأَبْصَـٰرُ وَهُوَ يُدْرِكُ ٱلْأَبْصَـٰرَ ۖ وَهُوَ ٱللَّطِيفُ ٱلْخَبِيرُ",
+    "words": [
+      "لَّا تُدْرِكُهُ ٱلْأَبْصَـٰرُ",
+      "وَهُوَ يُدْرِكُ",
+      "ٱلْأَبْصَـٰرَ ۖ وَهُوَ",
+      "ٱللَّطِيفُ ٱلْخَبِيرُ"
+    ],
+    "verseEn": "Vision perceives Him not, but He perceives [all] vision; and He is the Subtle, the Aware."
+  }
+}

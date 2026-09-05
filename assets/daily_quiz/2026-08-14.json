@@ -1,0 +1,243 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "الأَجْرَامُ السَّمَاوِيَّةُ فِي الْقُرْآنِ",
+        "nameEn": "Celestial Bodies in the Quran",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "الشَّمْسِ",
+            "en": "(of) the sun",
+            "ref": "20:130",
+            "verse": "فَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ ٱلشَّمْسِ وَقَبْلَ غُرُوبِهَا ۖ وَمِنْ ءَانَآئِ ٱلَّيْلِ فَسَبِّحْ وَأَطْرَافَ ٱلنَّهَارِ لَعَلَّكَ تَرْضَىٰ",
+            "verseEn": "So be patient over what they say and exalt [Allāh] with praise of your Lord before the rising of the sun and before its setting; and during periods of the night [exalt Him] and at the ends of the day, that you may be satisfied."
+          },
+          {
+            "ar": "الْقَمَرِ",
+            "en": "And the moon",
+            "ref": "84:18",
+            "verse": "وَٱلْقَمَرِ إِذَا ٱتَّسَقَ",
+            "verseEn": "And [by] the moon when it becomes full"
+          },
+          {
+            "ar": "النُّجُومِ",
+            "en": "(of) the stars",
+            "ref": "56:75",
+            "verse": "۞ فَلَآ أُقْسِمُ بِمَوَٰقِعِ ٱلنُّجُومِ",
+            "verseEn": "Then I swear by the setting of the stars,"
+          },
+          {
+            "ar": "السَّمَاءِ",
+            "en": "the sky",
+            "ref": "88:18",
+            "verse": "وَإِلَى ٱلسَّمَآءِ كَيْفَ رُفِعَتْ",
+            "verseEn": "And at the sky - how it is raised?"
+          }
+        ]
+      },
+      {
+        "name": "أَلْفَاظُ الْمَاءِ فِي الْقُرْآنِ",
+        "nameEn": "Terms for Water in the Quran",
+        "color": "green",
+        "items": [
+          {
+            "ar": "الْبَحْرِ",
+            "en": "the sea",
+            "ref": "17:66",
+            "verse": "رَّبُّكُمُ ٱلَّذِى يُزْجِى لَكُمُ ٱلْفُلْكَ فِى ٱلْبَحْرِ لِتَبْتَغُوا۟ مِن فَضْلِهِۦٓ ۚ إِنَّهُۥ كَانَ بِكُمْ رَحِيمًۭا",
+            "verseEn": "It is your Lord who drives the ship for you through the sea that you may seek of His bounty. Indeed, He is ever, to you, Merciful."
+          },
+          {
+            "ar": "الْأَنْهَارُ",
+            "en": "[the] rivers",
+            "ref": "43:51",
+            "verse": "وَنَادَىٰ فِرْعَوْنُ فِى قَوْمِهِۦ قَالَ يَـٰقَوْمِ أَلَيْسَ لِى مُلْكُ مِصْرَ وَهَـٰذِهِ ٱلْأَنْهَـٰرُ تَجْرِى مِن تَحْتِىٓ ۖ أَفَلَا تُبْصِرُونَ",
+            "verseEn": "And Pharaoh called out among his people; he said, \"O my people, does not the kingdom of Egypt belong to me, and these rivers flowing beneath me; then do you not see?"
+          },
+          {
+            "ar": "عَيْنٍ",
+            "en": "a spring",
+            "ref": "88:5",
+            "verse": "تُسْقَىٰ مِنْ عَيْنٍ ءَانِيَةٍۢ",
+            "verseEn": "They will be given drink from a boiling spring."
+          },
+          {
+            "ar": "الْمَاءِ",
+            "en": "the water",
+            "ref": "25:54",
+            "verse": "وَهُوَ ٱلَّذِى خَلَقَ مِنَ ٱلْمَآءِ بَشَرًۭا فَجَعَلَهُۥ نَسَبًۭا وَصِهْرًۭا ۗ وَكَانَ رَبُّكَ قَدِيرًۭا",
+            "verseEn": "And it is He who has created from water [i.e., semen] a human being and made him [a relative by] lineage and marriage. And ever is your Lord competent [concerning creation]."
+          }
+        ]
+      },
+      {
+        "name": "مُصْطَلَحَاتُ الْعَقَبَةِ فِي سُورَةِ الْبَلَدِ",
+        "nameEn": "The Steep Pass and Its Demands in Surah Al-Balad",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "الْعَقَبَةَ",
+            "en": "the steep path",
+            "ref": "90:11",
+            "verse": "فَلَا ٱقْتَحَمَ ٱلْعَقَبَةَ",
+            "verseEn": "But he has not broken through the difficult pass."
+          },
+          {
+            "ar": "فَكُّ",
+            "en": "freeing",
+            "ref": "90:13",
+            "verse": "فَكُّ رَقَبَةٍ",
+            "verseEn": "It is the freeing of a slave"
+          },
+          {
+            "ar": "مَسْغَبَةٍ",
+            "en": "severe hunger",
+            "ref": "90:14",
+            "verse": "أَوْ إِطْعَـٰمٌۭ فِى يَوْمٍۢ ذِى مَسْغَبَةٍۢ",
+            "verseEn": "Or feeding on a day of severe hunger"
+          },
+          {
+            "ar": "تَوَاصَوْا",
+            "en": "and enjoin (each other)",
+            "ref": "90:17",
+            "verse": "ثُمَّ كَانَ مِنَ ٱلَّذِينَ ءَامَنُوا۟ وَتَوَاصَوْا۟ بِٱلصَّبْرِ وَتَوَاصَوْا۟ بِٱلْمَرْحَمَةِ",
+            "verseEn": "And then being among those who believed and advised one another to patience and advised one another to compassion."
+          }
+        ]
+      },
+      {
+        "name": "مُؤَنَّثَاتٌ بِلَا تَاءٍ مَرْبُوطَةٍ",
+        "nameEn": "Feminine Nouns Without Taa Marbuta in the Quran",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "الْأَرْضِ",
+            "en": "the earth",
+            "ref": "3:137",
+            "verse": "قَدْ خَلَتْ مِن قَبْلِكُمْ سُنَنٌۭ فَسِيرُوا۟ فِى ٱلْأَرْضِ فَٱنظُرُوا۟ كَيْفَ كَانَ عَـٰقِبَةُ ٱلْمُكَذِّبِينَ",
+            "verseEn": "Similar situations [as yours] have passed on before you, so proceed throughout the earth and observe how was the end of those who denied."
+          },
+          {
+            "ar": "نَفْسٍ",
+            "en": "soul",
+            "ref": "3:30",
+            "verse": "يَوْمَ تَجِدُ كُلُّ نَفْسٍۢ مَّا عَمِلَتْ مِنْ خَيْرٍۢ مُّحْضَرًۭا وَمَا عَمِلَتْ مِن سُوٓءٍۢ تَوَدُّ لَوْ أَنَّ بَيْنَهَا وَبَيْنَهُۥٓ أَمَدًۢا بَعِيدًۭا ۗ وَيُحَذِّرُكُمُ ٱللَّهُ نَفْسَهُۥ ۗ وَٱللَّهُ رَءُوفٌۢ بِٱلْعِبَادِ",
+            "verseEn": "The Day every soul will find what it has done of good present [before it] and what it has done of evil, it will wish that between itself and that [evil] was a great distance. And Allāh warns you of Himself, and Allāh is Kind to [His] servants.\""
+          },
+          {
+            "ar": "جَهَنَّمَ",
+            "en": "(of) Hell",
+            "ref": "98:6",
+            "verse": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَـٰبِ وَٱلْمُشْرِكِينَ فِى نَارِ جَهَنَّمَ خَـٰلِدِينَ فِيهَآ ۚ أُو۟لَـٰٓئِكَ هُمْ شَرُّ ٱلْبَرِيَّةِ",
+            "verseEn": "Indeed, they who disbelieved among the People of the Scripture and the polytheists will be in the fire of Hell, abiding eternally therein. Those are the worst of creatures."
+          },
+          {
+            "ar": "نَارٌ",
+            "en": "A Fire",
+            "ref": "101:11",
+            "verse": "نَارٌ حَامِيَةٌۢ",
+            "verseEn": "It is a Fire, intensely hot."
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "الحق",
+    "display": "الْحَقّ",
+    "hint": "The opposite of falsehood; what is true and just.",
+    "verseRef": "10:32",
+    "arabicVerse": "فَذَٰلِكُمُ ٱللَّهُ رَبُّكُمُ ٱلْحَقُّ ۖ فَمَاذَا بَعْدَ ٱلْحَقِّ إِلَّا ٱلضَّلَـٰلُ ۖ فَأَنَّىٰ تُصْرَفُونَ",
+    "verse": "10:32 - For that is Allāh, your Lord, the Truth. And what can be beyond truth except error? So how are you averted?"
+  },
+  "deduction": {
+    "title": "The Cursed Hands",
+    "intro": "You stand in the winding alleys of ancient Makkah, where a soul of influence and wealth once turned away from the call of truth. This figure's story is a stark reminder that ties of blood cannot overcome the chains of pride. Who is this one whose name echoes with the fire that awaits?",
+    "clues": [
+      "I walked the streets of Makkah with a pride that blinded me to the truth, though the messenger was of my own blood.",
+      "My possessions were vast, but they became a curse rather than a shield.",
+      "The book of guidance speaks of my ruin, declaring that my hands and my person will perish.",
+      "My spouse joined my campaign of enmity, gathering thorns to spread on the path of the one who called to Allah.",
+      "On the day of judgment, I will be plunged into a fire of blazing flame, and my spouse will have a rope of palm fiber around the neck.",
+      "I am known by a name that means 'father of flame' — a name that foretells my eternal abode."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Abu Lahab",
+          "Abu Jahl",
+          "Abu Talib",
+          "Abu Sufyan",
+          "Al-Walid ibn al-Mughira"
+        ],
+        "answer": "Abu Lahab"
+      },
+      "trial": {
+        "label": "Key Trial or Event",
+        "options": [
+          "Opposed the Prophet and was cursed in the Quran",
+          "Led an army to destroy the Kaaba",
+          "Attempted to kill the Prophet by throwing stones",
+          "Refused to believe in the splitting of the moon",
+          "Built a tower to reach the heavens"
+        ],
+        "answer": "Opposed the Prophet and was cursed in the Quran"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "The blazing Fire of Hell",
+          "The Staff of Musa",
+          "The Ark of Nuh",
+          "The Well of Zamzam",
+          "The Golden Calf"
+        ],
+        "answer": "The blazing Fire of Hell"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "He will enter the blazing Fire, and his wealth will not avail him",
+          "He repented and became a believer",
+          "He was forgiven after recanting",
+          "He died as a martyr",
+          "He was taken up to the heavens"
+        ],
+        "answer": "He will enter the blazing Fire, and his wealth will not avail him"
+      }
+    },
+    "verseRef": "111:2",
+    "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+    "verse": "His wealth will not avail him or that which he gained. (111:2)"
+  },
+  "scramble": {
+    "verseRef": "33:3",
+    "reference": "Surah Al-Ahzab (33:3)",
+    "segments": [
+      "وَتَوَكَّلْ",
+      "عَلَى اللَّهِ",
+      "وَكَفَىٰ",
+      "بِاللَّهِ",
+      "وَكِيلًا"
+    ],
+    "translations": [
+      "And put your trust in",
+      "Allah",
+      "And Allah is sufficient",
+      "And Allah is sufficient",
+      "(as) Disposer of affairs"
+    ],
+    "hint": "A powerful command of tawakkul (reliance on Allah) — reminding believers that placing trust in Allah alone is enough, for He suffices as the ultimate Protector and Disposer of all affairs.",
+    "arabic": "وَتَوَكَّلْ عَلَى ٱللَّهِ ۚ وَكَفَىٰ بِٱللَّهِ وَكِيلًۭا",
+    "words": [
+      "وَتَوَكَّلْ عَلَى",
+      "ٱللَّهِ ۚ",
+      "وَكَفَىٰ",
+      "بِٱللَّهِ",
+      "وَكِيلًۭا"
+    ],
+    "verseEn": "And rely upon Allāh; and sufficient is Allāh as Disposer of affairs."
+  }
+}

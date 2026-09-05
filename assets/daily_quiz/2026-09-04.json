@@ -1,0 +1,243 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَسْمَاءُ النَّارِ فِي الْقُرْآنِ",
+        "nameEn": "Names of Hellfire in the Quran",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "جَهَنَّمُ",
+            "en": "(in) Hell ",
+            "ref": "4:97",
+            "verse": "إِنَّ ٱلَّذِينَ تَوَفَّىٰهُمُ ٱلْمَلَـٰٓئِكَةُ ظَالِمِىٓ أَنفُسِهِمْ قَالُوا۟ فِيمَ كُنتُمْ ۖ قَالُوا۟ كُنَّا مُسْتَضْعَفِينَ فِى ٱلْأَرْضِ ۚ قَالُوٓا۟ أَلَمْ تَكُنْ أَرْضُ ٱللَّهِ وَٰسِعَةًۭ فَتُهَاجِرُوا۟ فِيهَا ۚ فَأُو۟لَـٰٓئِكَ مَأْوَىٰهُمْ جَهَنَّمُ ۖ وَسَآءَتْ مَصِيرًا",
+            "verseEn": "Indeed, those whom the angels take [in death] while wronging themselves - [the angels] will say, \"In what [condition] were you?\" They will say, \"We were oppressed in the land.\" They [the angels] will say, \"Was not the earth of Allāh spacious [enough] for you to emigrate therein?\" For those, their refuge is Hell - and evil it is as a destination."
+          },
+          {
+            "ar": "الْجَحِيمِ",
+            "en": "(of) the Hellfire",
+            "ref": "5:86",
+            "verse": "وَٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔايَـٰتِنَآ أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلْجَحِيمِ",
+            "verseEn": "But those who disbelieved and denied Our signs - they are the companions of Hellfire."
+          },
+          {
+            "ar": "سَقَرَ",
+            "en": "(of) Hell",
+            "ref": "54:48",
+            "verse": "يَوْمَ يُسْحَبُونَ فِى ٱلنَّارِ عَلَىٰ وُجُوهِهِمْ ذُوقُوا۟ مَسَّ سَقَرَ",
+            "verseEn": "The Day they are dragged into the Fire on their faces [it will be said], \"Taste the touch of Saqar.\""
+          },
+          {
+            "ar": "النَّارُ",
+            "en": "(will be) the Fire",
+            "ref": "10:8",
+            "verse": "أُو۟لَـٰٓئِكَ مَأْوَىٰهُمُ ٱلنَّارُ بِمَا كَانُوا۟ يَكْسِبُونَ",
+            "verseEn": "For those their refuge will be the Fire because of what they used to earn."
+          }
+        ]
+      },
+      {
+        "name": "أَسْمَاءٌ عَلَى وَزْنِ فُعْلَةٍ فِي الْقُرْآنِ",
+        "nameEn": "Quranic Nouns of the Pattern فُعْلَة",
+        "color": "green",
+        "items": [
+          {
+            "ar": "نُطْفَةً",
+            "en": "(as) a semen-drop",
+            "ref": "23:13",
+            "verse": "ثُمَّ جَعَلْنَـٰهُ نُطْفَةًۭ فِى قَرَارٍۢ مَّكِينٍۢ",
+            "verseEn": "Then We placed him as a sperm-drop in a firm lodging [i.e., the womb]."
+          },
+          {
+            "ar": "الْغُرْفَةَ",
+            "en": "the Chamber",
+            "ref": "25:75",
+            "verse": "أُو۟لَـٰٓئِكَ يُجْزَوْنَ ٱلْغُرْفَةَ بِمَا صَبَرُوا۟ وَيُلَقَّوْنَ فِيهَا تَحِيَّةًۭ وَسَلَـٰمًا",
+            "verseEn": "Those will be awarded the Chamber for what they patiently endured, and they will be received therein with greetings and [words of] peace,"
+          },
+          {
+            "ar": "سُورَةٌ",
+            "en": "a Surah",
+            "ref": "9:64",
+            "verse": "يَحْذَرُ ٱلْمُنَـٰفِقُونَ أَن تُنَزَّلَ عَلَيْهِمْ سُورَةٌۭ تُنَبِّئُهُم بِمَا فِى قُلُوبِهِمْ ۚ قُلِ ٱسْتَهْزِءُوٓا۟ إِنَّ ٱللَّهَ مُخْرِجٌۭ مَّا تَحْذَرُونَ",
+            "verseEn": "The hypocrites are apprehensive lest a sūrah be revealed about them, informing them of what is in their hearts. Say, \"Mock [as you wish]; indeed, Allāh will expose that which you fear.\""
+          },
+          {
+            "ar": "قُوَّةً",
+            "en": "(in) strength",
+            "ref": "41:15",
+            "verse": "فَأَمَّا عَادٌۭ فَٱسْتَكْبَرُوا۟ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَقَالُوا۟ مَنْ أَشَدُّ مِنَّا قُوَّةً ۖ أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَهُمْ هُوَ أَشَدُّ مِنْهُمْ قُوَّةًۭ ۖ وَكَانُوا۟ بِـَٔايَـٰتِنَا يَجْحَدُونَ",
+            "verseEn": "As for ʿAad, they were arrogant upon the earth without right and said, \"Who is greater than us in strength?\" Did they not consider that Allāh who created them was greater than them in strength? But they were rejecting Our signs."
+          }
+        ]
+      },
+      {
+        "name": "أَسْمَاءٌ عَلَى وَزْنِ فُعُولٍ فِي الْقُرْآنِ",
+        "nameEn": "Quranic Nouns of the Pattern Fu'ul",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "بُيُوتِ",
+            "en": "your houses",
+            "ref": "33:33",
+            "verse": "وَقَرْنَ فِى بُيُوتِكُنَّ وَلَا تَبَرَّجْنَ تَبَرُّجَ ٱلْجَـٰهِلِيَّةِ ٱلْأُولَىٰ ۖ وَأَقِمْنَ ٱلصَّلَوٰةَ وَءَاتِينَ ٱلزَّكَوٰةَ وَأَطِعْنَ ٱللَّهَ وَرَسُولَهُۥٓ ۚ إِنَّمَا يُرِيدُ ٱللَّهُ لِيُذْهِبَ عَنكُمُ ٱلرِّجْسَ أَهْلَ ٱلْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًۭا",
+            "verseEn": "And abide in your houses and do not display yourselves as [was] the display of the former times of ignorance. And establish prayer and give zakāh and obey Allāh and His Messenger. Allāh intends only to remove from you the impurity [of sin], O people of the [Prophet's] household, and to purify you with [extensive] purification."
+          },
+          {
+            "ar": "جُنُودُ",
+            "en": "(are the) hosts",
+            "ref": "48:7",
+            "verse": "وَلِلَّهِ جُنُودُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمًا",
+            "verseEn": "And to Allāh belong the soldiers of the heavens and the earth. And ever is Allāh Exalted in Might and Wise."
+          },
+          {
+            "ar": "عُيُونٍ",
+            "en": "and springs",
+            "ref": "44:52",
+            "verse": "فِى جَنَّـٰتٍۢ وَعُيُونٍۢ",
+            "verseEn": "Within gardens and springs,"
+          },
+          {
+            "ar": "النُّجُومِ",
+            "en": "the stars",
+            "ref": "52:49",
+            "verse": "وَمِنَ ٱلَّيْلِ فَسَبِّحْهُ وَإِدْبَـٰرَ ٱلنُّجُومِ",
+            "verseEn": "And in a part of the night exalt Him and after [the setting of] the stars."
+          }
+        ]
+      },
+      {
+        "name": "صِيغَةُ فَاعِلَةٍ فِي الْقُرْآنِ",
+        "nameEn": "Quranic Feminine Active Participles (Pattern Fa'ilah)",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "الْحَاقَّةُ",
+            "en": "(is) the Inevitable Reality",
+            "ref": "69:3",
+            "verse": "وَمَآ أَدْرَىٰكَ مَا ٱلْحَآقَّةُ",
+            "verseEn": "And what can make you know what is the Inevitable Reality?"
+          },
+          {
+            "ar": "الْقَارِعَةُ",
+            "en": "(is) the Striking Calamity",
+            "ref": "101:3",
+            "verse": "وَمَآ أَدْرَىٰكَ مَا ٱلْقَارِعَةُ",
+            "verseEn": "And what can make you know what is the Striking Calamity?"
+          },
+          {
+            "ar": "خَافِضَةٌ",
+            "en": "Bringing down",
+            "ref": "56:3",
+            "verse": "خَافِضَةٌۭ رَّافِعَةٌ",
+            "verseEn": "It will bring down [some] and raise up [others]."
+          },
+          {
+            "ar": "خَاطِئَةٍ",
+            "en": "sinful",
+            "ref": "96:16",
+            "verse": "نَاصِيَةٍۢ كَـٰذِبَةٍ خَاطِئَةٍۢ",
+            "verseEn": "A lying, sinning forelock."
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "عظيم",
+    "display": "عَظِيم",
+    "hint": "An attribute of Allah meaning 'Magnificent' or 'Mighty'.",
+    "verseRef": "42:4",
+    "arabicVerse": "لَهُۥ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۖ وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ",
+    "verse": "42:4 - To Him belongs whatever is in the heavens and whatever is in the earth, and He is the Most High, the Most Great."
+  },
+  "deduction": {
+    "title": "The Melody That Moved the Mountains",
+    "intro": "You are about to uncover the story of a remarkable servant of Allah. In a land of messengers and rulers, this figure was blessed with a divine book, a powerful voice, and strength over iron. As you read the clues, can you identify who this might be?",
+    "clues": [
+      "I was a servant of Allah who was granted a special book.",
+      "I had a beautiful voice, and my praise was so beloved that even the hills and birds joined me.",
+      "I faced a formidable opponent in a famous battle, and despite being smaller, I prevailed.",
+      "Iron was made pliant for me, allowing me to craft armor with my own hands.",
+      "I was made a ruler over a great nation, and my wisdom in judgment was renowned.",
+      "My son, also a prophet, was granted control over the wind and the jinn."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Prophet Dawud (David)",
+          "Prophet Sulaiman (Solomon)",
+          "Prophet Musa (Moses)",
+          "Prophet Harun (Aaron)",
+          "Prophet Ilyas (Elias)"
+        ],
+        "answer": "Prophet Dawud (David)"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "Defeated Goliath (Jalut)",
+          "Parted the sea",
+          "Survived the whale",
+          "Was thrown into a fire",
+          "Built the Ark"
+        ],
+        "answer": "Defeated Goliath (Jalut)"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "The Zabur (Psalms)",
+          "The Torah (Tawrat)",
+          "The Gospel (Injil)",
+          "The Scrolls of Ibrahim",
+          "The Qur'an"
+        ],
+        "answer": "The Zabur (Psalms)"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "Became a prophet and king of Israel",
+          "Became the ruler of Egypt",
+          "Was raised to the heavens",
+          "Was destroyed by a storm",
+          "Became a companion of the cave"
+        ],
+        "answer": "Became a prophet and king of Israel"
+      }
+    },
+    "verseRef": "38:18",
+    "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+    "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+  },
+  "scramble": {
+    "verseRef": "20:14",
+    "reference": "Surah Ta-Ha (20:14)",
+    "segments": [
+      "إِنَّنِي أَنَا اللَّهُ",
+      "لَا إِلَٰهَ إِلَّا أَنَا",
+      "فَاعْبُدْنِي",
+      "وَأَقِمِ الصَّلَاةَ",
+      "لِذِكْرِي"
+    ],
+    "translations": [
+      "Indeed, [I] I Am Allah",
+      "(There is) no god",
+      "but I",
+      "so worship Me and establish",
+      "the prayer for My remembrance"
+    ],
+    "hint": "Allah declares His oneness and commands worship and prayer for His remembrance.",
+    "arabic": "إِنَّنِىٓ أَنَا ٱللَّهُ لَآ إِلَـٰهَ إِلَّآ أَنَا۠ فَٱعْبُدْنِى وَأَقِمِ ٱلصَّلَوٰةَ لِذِكْرِىٓ",
+    "words": [
+      "إِنَّنِىٓ أَنَا ٱللَّهُ",
+      "لَآ إِلَـٰهَ",
+      "إِلَّآ أَنَا۠",
+      "فَٱعْبُدْنِى وَأَقِمِ",
+      "ٱلصَّلَوٰةَ لِذِكْرِىٓ"
+    ],
+    "verseEn": "Indeed, I am Allāh. There is no deity except Me, so worship Me and establish prayer for My remembrance."
+  }
+}

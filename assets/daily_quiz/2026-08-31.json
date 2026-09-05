@@ -1,0 +1,243 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَصْنَافُ الْمُحْتَاجِينَ فِي الْقُرْآنِ",
+        "nameEn": "Categories of the Needy in the Quran",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "الْيَتِيمَ",
+            "en": "the orphan",
+            "ref": "93:9",
+            "verse": "فَأَمَّا ٱلْيَتِيمَ فَلَا تَقْهَرْ",
+            "verseEn": "So as for the orphan, do not oppress [him]."
+          },
+          {
+            "ar": "السَّائِلِ",
+            "en": "(of) those who asked",
+            "ref": "51:19",
+            "verse": "وَفِىٓ أَمْوَٰلِهِمْ حَقٌّۭ لِّلسَّآئِلِ وَٱلْمَحْرُومِ",
+            "verseEn": "And from their properties was [given] the right of the [needy] petitioner and the deprived."
+          },
+          {
+            "ar": "ضَالًّا",
+            "en": "lost",
+            "ref": "93:7",
+            "verse": "وَوَجَدَكَ ضَآلًّۭا فَهَدَىٰ",
+            "verseEn": "And He found you lost and guided [you],"
+          },
+          {
+            "ar": "عَائِلًا",
+            "en": "in need",
+            "ref": "93:8",
+            "verse": "وَوَجَدَكَ عَآئِلًۭا فَأَغْنَىٰ",
+            "verseEn": "And He found you poor and made [you] self-sufficient."
+          }
+        ]
+      },
+      {
+        "name": "أَسْمَاءُ الشَّيْطَانِ وَصِفَاتُهُ",
+        "nameEn": "Names and Epithets of Satan in the Quran",
+        "color": "green",
+        "items": [
+          {
+            "ar": "الشَّيْطَانُ",
+            "en": "the Shaitaan",
+            "ref": "14:22",
+            "verse": "وَقَالَ ٱلشَّيْطَـٰنُ لَمَّا قُضِىَ ٱلْأَمْرُ إِنَّ ٱللَّهَ وَعَدَكُمْ وَعْدَ ٱلْحَقِّ وَوَعَدتُّكُمْ فَأَخْلَفْتُكُمْ ۖ وَمَا كَانَ لِىَ عَلَيْكُم مِّن سُلْطَـٰنٍ إِلَّآ أَن دَعَوْتُكُمْ فَٱسْتَجَبْتُمْ لِى ۖ فَلَا تَلُومُونِى وَلُومُوٓا۟ أَنفُسَكُم ۖ مَّآ أَنَا۠ بِمُصْرِخِكُمْ وَمَآ أَنتُم بِمُصْرِخِىَّ ۖ إِنِّى كَفَرْتُ بِمَآ أَشْرَكْتُمُونِ مِن قَبْلُ ۗ إِنَّ ٱلظَّـٰلِمِينَ لَهُمْ عَذَابٌ أَلِيمٌۭ",
+            "verseEn": "And Satan will say when the matter has been concluded, \"Indeed, Allāh had promised you the promise of truth. And I promised you, but I betrayed you. But I had no authority over you except that I invited you, and you responded to me. So do not blame me; but blame yourselves. I cannot be called to your aid, nor can you be called to my aid. Indeed, I deny your association of me [with Allāh] before. Indeed, for the wrongdoers is a painful punishment.\""
+          },
+          {
+            "ar": "إِبْلِيسُ",
+            "en": "Iblis",
+            "ref": "34:20",
+            "verse": "وَلَقَدْ صَدَّقَ عَلَيْهِمْ إِبْلِيسُ ظَنَّهُۥ فَٱتَّبَعُوهُ إِلَّا فَرِيقًۭا مِّنَ ٱلْمُؤْمِنِينَ",
+            "verseEn": "And Iblees had already confirmed through them his assumption, so they followed him, except for a party of believers."
+          },
+          {
+            "ar": "الرَّجِيمِ",
+            "en": "the accursed",
+            "ref": "16:98",
+            "verse": "فَإِذَا قَرَأْتَ ٱلْقُرْءَانَ فَٱسْتَعِذْ بِٱللَّهِ مِنَ ٱلشَّيْطَـٰنِ ٱلرَّجِيمِ",
+            "verseEn": "So when you recite the Qur’ān, [first] seek refuge in Allāh from Satan, the expelled [from His mercy]."
+          },
+          {
+            "ar": "عَدُوٌّ",
+            "en": "an enemy",
+            "ref": "43:62",
+            "verse": "وَلَا يَصُدَّنَّكُمُ ٱلشَّيْطَـٰنُ ۖ إِنَّهُۥ لَكُمْ عَدُوٌّۭ مُّبِينٌۭ",
+            "verseEn": "And never let Satan avert you. Indeed, he is to you a clear enemy."
+          }
+        ]
+      },
+      {
+        "name": "مُفْرَدَاتٌ مِنْ قِصَّةِ أَصْحَابِ الْجَنَّةِ فِي سُورَةِ الْقَلَمِ",
+        "nameEn": "Vocabulary from the Story of the Owners of the Garden in Surah Al-Qalam",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "مُصْبِحِينَ",
+            "en": "(at) morning",
+            "ref": "68:21",
+            "verse": "فَتَنَادَوْا۟ مُصْبِحِينَ",
+            "verseEn": "And they called one another at morning,"
+          },
+          {
+            "ar": "حَرْثِكُمْ",
+            "en": "your crop",
+            "ref": "68:22",
+            "verse": "أَنِ ٱغْدُوا۟ عَلَىٰ حَرْثِكُمْ إِن كُنتُمْ صَـٰرِمِينَ",
+            "verseEn": "[Saying], \"Go early to your crop if you would cut the fruit.\""
+          },
+          {
+            "ar": "حَرْدٍ",
+            "en": "determination",
+            "ref": "68:25",
+            "verse": "وَغَدَوْا۟ عَلَىٰ حَرْدٍۢ قَـٰدِرِينَ",
+            "verseEn": "And they went early in determination, [assuming themselves] able."
+          },
+          {
+            "ar": "أَوْسَطُهُمْ",
+            "en": "(the) most moderate of them",
+            "ref": "68:28",
+            "verse": "قَالَ أَوْسَطُهُمْ أَلَمْ أَقُل لَّكُمْ لَوْلَا تُسَبِّحُونَ",
+            "verseEn": "The most moderate of them said, \"Did I not say to you, 'Why do you not exalt [Allāh]?'\""
+          }
+        ]
+      },
+      {
+        "name": "مُفْرَدَاتٌ مِنْ عَذَابِ الْأُمَمِ السَّابِقَةِ فِي سُورَةِ الْفَجْرِ",
+        "nameEn": "Vocabulary of Punishment of Ancient Nations in Surah Al-Fajr",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "الْأَوْتَادِ",
+            "en": "stakes",
+            "ref": "89:10",
+            "verse": "وَفِرْعَوْنَ ذِى ٱلْأَوْتَادِ",
+            "verseEn": "And [with] Pharaoh, owner of the stakes?"
+          },
+          {
+            "ar": "طَغَوْا",
+            "en": "transgressed",
+            "ref": "89:11",
+            "verse": "ٱلَّذِينَ طَغَوْا۟ فِى ٱلْبِلَـٰدِ",
+            "verseEn": "[All of] whom oppressed within the lands"
+          },
+          {
+            "ar": "الْفَسَادَ",
+            "en": "corruption",
+            "ref": "89:12",
+            "verse": "فَأَكْثَرُوا۟ فِيهَا ٱلْفَسَادَ",
+            "verseEn": "And increased therein the corruption."
+          },
+          {
+            "ar": "الْمِرْصَادِ",
+            "en": "(is) surely Ever Watchful",
+            "ref": "89:14",
+            "verse": "إِنَّ رَبَّكَ لَبِٱلْمِرْصَادِ",
+            "verseEn": "Indeed, your Lord is in observation."
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "فسق",
+    "display": "فِسْق",
+    "hint": "Defiance of divine law",
+    "verseRef": "6:121",
+    "arabicVerse": "وَلَا تَأْكُلُوا۟ مِمَّا لَمْ يُذْكَرِ ٱسْمُ ٱللَّهِ عَلَيْهِ وَإِنَّهُۥ لَفِسْقٌۭ ۗ وَإِنَّ ٱلشَّيَـٰطِينَ لَيُوحُونَ إِلَىٰٓ أَوْلِيَآئِهِمْ لِيُجَـٰدِلُوكُمْ ۖ وَإِنْ أَطَعْتُمُوهُمْ إِنَّكُمْ لَمُشْرِكُونَ",
+    "verse": "6:121 - And do not eat of that upon which the name of Allāh has not been mentioned, for indeed, it is grave disobedience. And indeed do the devils inspire their allies [among men] to dispute with you. And if you were to obey them, indeed, you would be associators [of others with Him]."
+  },
+  "deduction": {
+    "title": "The Silent Voice of the Valley",
+    "intro": "Step back in time to a mighty people who once received a living marvel as a test. Arrogance and stubbornness sealed their fate. Can you trace the story and discover what unfolded in this dramatic turning point?",
+    "clues": [
+      "I was sent as a divine trial to a mighty people known for their strength and defiance.",
+      "I was a unique marvel—the likes of me had never appeared among them.",
+      "I shared drinking water from a well with my people on alternate days.",
+      "They were warned that any harm against me would bring swift punishment.",
+      "The most daring of them ignored the warning and hamstrung me.",
+      "After my death, a single thunderous cry from above destroyed my entire people."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "The She-Camel of Salih",
+          "The Cow of Musa",
+          "The Ship of Nuh",
+          "The Staff of Musa",
+          "The Throne of Bilqis"
+        ],
+        "answer": "The She-Camel of Salih"
+      },
+      "trial": {
+        "label": "My Fate",
+        "options": [
+          "Hamstrung and killed",
+          "Slaughtered as a sacrifice",
+          "Transformed into a serpent",
+          "Preserved through a great flood",
+          "Brought quickly across a kingdom"
+        ],
+        "answer": "Hamstrung and killed"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "A well of water",
+          "A tablet of stone",
+          "A burning bush",
+          "An ark of wood",
+          "A throne of gold and silver"
+        ],
+        "answer": "A well of water"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "Destroyed by a single shriek",
+          "Drowned in a great flood",
+          "Burned by a shower of stones",
+          "Smashed by a violent wind",
+          "Swallowed by the earth"
+        ],
+        "answer": "Destroyed by a single shriek"
+      }
+    },
+    "verseRef": "54:29",
+    "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+    "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+  },
+  "scramble": {
+    "verseRef": "41:33",
+    "reference": "Surah Fussilat (41:33)",
+    "segments": [
+      "وَمَنْ أَحْسَنُ قَوْلًا",
+      "مِّمَّن دَعَا إِلَى اللَّهِ",
+      "وَعَمِلَ صَالِحًا",
+      "وَقَالَ",
+      "إِنَّنِي مِنَ الْمُسْلِمِينَ"
+    ],
+    "translations": [
+      "And who (is) better (in) speech",
+      "than (one) who invites to",
+      "Allah and does righteous (deeds)",
+      "and says Indeed, I am",
+      "of those who submit"
+    ],
+    "hint": "A verse describing the best form of speech and conduct: calling to Allah, doing good deeds, and affirming one's submission to Him.",
+    "arabic": "وَمَنْ أَحْسَنُ قَوْلًۭا مِّمَّن دَعَآ إِلَى ٱللَّهِ وَعَمِلَ صَـٰلِحًۭا وَقَالَ إِنَّنِى مِنَ ٱلْمُسْلِمِينَ",
+    "words": [
+      "وَمَنْ أَحْسَنُ قَوْلًۭا",
+      "مِّمَّن دَعَآ إِلَى",
+      "ٱللَّهِ وَعَمِلَ صَـٰلِحًۭا",
+      "وَقَالَ إِنَّنِى",
+      "مِنَ ٱلْمُسْلِمِينَ"
+    ],
+    "verseEn": "And who is better in speech than one who invites to Allāh and does righteousness and says, \"Indeed, I am of the Muslims.\""
+  }
+}

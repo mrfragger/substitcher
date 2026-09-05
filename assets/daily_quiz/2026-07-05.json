@@ -1,0 +1,249 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَرْكَانُ الْإِسْلَامِ",
+        "nameEn": "Pillars of Islam",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "الصَّلَاةَ",
+            "en": "the prayer",
+            "ref": "2:110",
+            "verse": "وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ ۚ وَمَا تُقَدِّمُوا۟ لِأَنفُسِكُم مِّنْ خَيْرٍۢ تَجِدُوهُ عِندَ ٱللَّهِ ۗ إِنَّ ٱللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌۭ",
+            "verseEn": "And establish prayer and give zakāh, and whatever good you put forward for yourselves - you will find it with Allāh. Indeed Allāh, of what you do, is Seeing."
+          },
+          {
+            "ar": "الزَّكَاةَ",
+            "en": "the zakah",
+            "ref": "9:5",
+            "verse": "فَإِذَا ٱنسَلَخَ ٱلْأَشْهُرُ ٱلْحُرُمُ فَٱقْتُلُوا۟ ٱلْمُشْرِكِينَ حَيْثُ وَجَدتُّمُوهُمْ وَخُذُوهُمْ وَٱحْصُرُوهُمْ وَٱقْعُدُوا۟ لَهُمْ كُلَّ مَرْصَدٍۢ ۚ فَإِن تَابُوا۟ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَءَاتَوُا۟ ٱلزَّكَوٰةَ فَخَلُّوا۟ سَبِيلَهُمْ ۚ إِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۭ",
+            "verseEn": "And when the inviolable months have passed, then kill the polytheists wherever you find them and capture them and besiege them and sit in wait for them at every place of ambush. But if they should repent, establish prayer, and give zakāh, let them [go] on their way. Indeed, Allāh is Forgiving and Merciful."
+          },
+          {
+            "ar": "صِيَامُ",
+            "en": "then fasting",
+            "ref": "4:92",
+            "verse": "وَمَا كَانَ لِمُؤْمِنٍ أَن يَقْتُلَ مُؤْمِنًا إِلَّا خَطَـًۭٔا ۚ وَمَن قَتَلَ مُؤْمِنًا خَطَـًۭٔا فَتَحْرِيرُ رَقَبَةٍۢ مُّؤْمِنَةٍۢ وَدِيَةٌۭ مُّسَلَّمَةٌ إِلَىٰٓ أَهْلِهِۦٓ إِلَّآ أَن يَصَّدَّقُوا۟ ۚ فَإِن كَانَ مِن قَوْمٍ عَدُوٍّۢ لَّكُمْ وَهُوَ مُؤْمِنٌۭ فَتَحْرِيرُ رَقَبَةٍۢ مُّؤْمِنَةٍۢ ۖ وَإِن كَانَ مِن قَوْمٍۭ بَيْنَكُمْ وَبَيْنَهُم مِّيثَـٰقٌۭ فَدِيَةٌۭ مُّسَلَّمَةٌ إِلَىٰٓ أَهْلِهِۦ وَتَحْرِيرُ رَقَبَةٍۢ مُّؤْمِنَةٍۢ ۖ فَمَن لَّمْ يَجِدْ فَصِيَامُ شَهْرَيْنِ مُتَتَابِعَيْنِ تَوْبَةًۭ مِّنَ ٱللَّهِ ۗ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًۭا",
+            "verseEn": "And never is it for a believer to kill a believer except by mistake. And whoever kills a believer by mistake - then the freeing of a believing slave and a compensation payment [diyah] presented to his [i.e., the deceased's] family [is required], unless they give [up their right as] charity. But if he [i.e., the deceased] was from a people at war with you and he was a believer - then [only] the freeing of a believing slave; and if he was from a people with whom you have a treaty - then a compensation payment presented to his family and the freeing of a believing slave. And whoever does not find [one or cannot afford to buy one] - then [instead], a fast for two months consecutively, [seeking] acceptance of repentance from Allāh. And Allāh is ever Knowing and Wise."
+          },
+          {
+            "ar": "الْحَجِّ",
+            "en": "(of) the greater Pilgrimage",
+            "ref": "9:3",
+            "verse": "وَأَذَٰنٌۭ مِّنَ ٱللَّهِ وَرَسُولِهِۦٓ إِلَى ٱلنَّاسِ يَوْمَ ٱلْحَجِّ ٱلْأَكْبَرِ أَنَّ ٱللَّهَ بَرِىٓءٌۭ مِّنَ ٱلْمُشْرِكِينَ ۙ وَرَسُولُهُۥ ۚ فَإِن تُبْتُمْ فَهُوَ خَيْرٌۭ لَّكُمْ ۖ وَإِن تَوَلَّيْتُمْ فَٱعْلَمُوٓا۟ أَنَّكُمْ غَيْرُ مُعْجِزِى ٱللَّهِ ۗ وَبَشِّرِ ٱلَّذِينَ كَفَرُوا۟ بِعَذَابٍ أَلِيمٍ",
+            "verseEn": "And [it is] an announcement from Allāh and His Messenger to the people on the day of the greater pilgrimage that Allāh is disassociated from the disbelievers, and [so is] His Messenger. So if you repent, that is best for you; but if you turn away - then know that you will not cause failure to Allāh. And give tidings to those who disbelieve of a painful punishment."
+          }
+        ]
+      },
+      {
+        "name": "أَدْوَارُ النَّبِيِّ فِي الْقُرْآنِ",
+        "nameEn": "Roles of the Prophet in the Quran",
+        "color": "green",
+        "items": [
+          {
+            "ar": "شَاهِدًا",
+            "en": "(as) a witness",
+            "ref": "48:8",
+            "verse": "إِنَّآ أَرْسَلْنَـٰكَ شَـٰهِدًۭا وَمُبَشِّرًۭا وَنَذِيرًۭا",
+            "verseEn": "Indeed, We have sent you as a witness and a bringer of good tidings and a warner"
+          },
+          {
+            "ar": "مُبَشِّرًا",
+            "en": "and a bearer of glad tidings",
+            "ref": "33:45",
+            "verse": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ إِنَّآ أَرْسَلْنَـٰكَ شَـٰهِدًۭا وَمُبَشِّرًۭا وَنَذِيرًۭا",
+            "verseEn": "O Prophet, indeed We have sent you as a witness and a bringer of good tidings and a warner"
+          },
+          {
+            "ar": "نَذِيرًا",
+            "en": "and (as) a warner",
+            "ref": "35:24",
+            "verse": "إِنَّآ أَرْسَلْنَـٰكَ بِٱلْحَقِّ بَشِيرًۭا وَنَذِيرًۭا ۚ وَإِن مِّنْ أُمَّةٍ إِلَّا خَلَا فِيهَا نَذِيرٌۭ",
+            "verseEn": "Indeed, We have sent you with the truth as a bringer of good tidings and a warner. And there was no nation but that there had passed within it a warner."
+          },
+          {
+            "ar": "دَاعِيًا",
+            "en": "And as one who invites",
+            "ref": "33:46",
+            "verse": "وَدَاعِيًا إِلَى ٱللَّهِ بِإِذْنِهِۦ وَسِرَاجًۭا مُّنِيرًۭا",
+            "verseEn": "And one who invites to Allāh, by His permission, and an illuminating lamp."
+          }
+        ]
+      },
+      {
+        "name": "مَا سُخِّرَ لِسُلَيْمَانَ",
+        "nameEn": "Forces Subjugated to Prophet Sulayman",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "الْجِنِّ",
+            "en": "the jinn",
+            "ref": "46:29",
+            "verse": "وَإِذْ صَرَفْنَآ إِلَيْكَ نَفَرًۭا مِّنَ ٱلْجِنِّ يَسْتَمِعُونَ ٱلْقُرْءَانَ فَلَمَّا حَضَرُوهُ قَالُوٓا۟ أَنصِتُوا۟ ۖ فَلَمَّا قُضِىَ وَلَّوْا۟ إِلَىٰ قَوْمِهِم مُّنذِرِينَ",
+            "verseEn": "And [mention, O Muḥammad], when We directed to you a few of the jinn, listening to the Qur’ān. And when they attended it, they said, \"Listen attentively.\" And when it was concluded, they went back to their people as warners."
+          },
+          {
+            "ar": "الْإِنسِ",
+            "en": "and the men",
+            "ref": "41:29",
+            "verse": "وَقَالَ ٱلَّذِينَ كَفَرُوا۟ رَبَّنَآ أَرِنَا ٱلَّذَيْنِ أَضَلَّانَا مِنَ ٱلْجِنِّ وَٱلْإِنسِ نَجْعَلْهُمَا تَحْتَ أَقْدَامِنَا لِيَكُونَا مِنَ ٱلْأَسْفَلِينَ",
+            "verseEn": "And those who disbelieved will [then] say, \"Our Lord, show us those who misled us of the jinn and men [so] we may put them under our feet that they will be among the lowest.\""
+          },
+          {
+            "ar": "الطَّيْرِ",
+            "en": "the birds",
+            "ref": "16:79",
+            "verse": "أَلَمْ يَرَوْا۟ إِلَى ٱلطَّيْرِ مُسَخَّرَٰتٍۢ فِى جَوِّ ٱلسَّمَآءِ مَا يُمْسِكُهُنَّ إِلَّا ٱللَّهُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍۢ لِّقَوْمٍۢ يُؤْمِنُونَ",
+            "verseEn": "Do they not see the birds controlled in the atmosphere of the sky? None holds them up except Allāh. Indeed in that are signs for a people who believe."
+          },
+          {
+            "ar": "الرِّيحَ",
+            "en": "He can cause the wind to become still",
+            "ref": "42:33",
+            "verse": "إِن يَشَأْ يُسْكِنِ ٱلرِّيحَ فَيَظْلَلْنَ رَوَاكِدَ عَلَىٰ ظَهْرِهِۦٓ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍۢ لِّكُلِّ صَبَّارٍۢ شَكُورٍ",
+            "verseEn": "If He willed, He could still the wind, and they would remain motionless on its surface. Indeed in that are signs for everyone patient and grateful."
+          }
+        ]
+      },
+      {
+        "name": "مُصْطَلَحَاتُ الصَّدِيقِ فِي الْقُرْآنِ",
+        "nameEn": "Terms for 'Friend' in the Quran",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "وَلِيًّا",
+            "en": "a protector",
+            "ref": "4:75",
+            "verse": "وَمَا لَكُمْ لَا تُقَـٰتِلُونَ فِى سَبِيلِ ٱللَّهِ وَٱلْمُسْتَضْعَفِينَ مِنَ ٱلرِّجَالِ وَٱلنِّسَآءِ وَٱلْوِلْدَٰنِ ٱلَّذِينَ يَقُولُونَ رَبَّنَآ أَخْرِجْنَا مِنْ هَـٰذِهِ ٱلْقَرْيَةِ ٱلظَّالِمِ أَهْلُهَا وَٱجْعَل لَّنَا مِن لَّدُنكَ وَلِيًّۭا وَٱجْعَل لَّنَا مِن لَّدُنكَ نَصِيرًا",
+            "verseEn": "And what is [the matter] with you that you fight not in the cause of Allāh and [for] the oppressed among men, women, and children who say, \"Our Lord, take us out of this city of oppressive people and appoint for us from Yourself a protector and appoint for us from Yourself a helper\"?"
+          },
+          {
+            "ar": "خَلِيلًا",
+            "en": "(as) a friend",
+            "ref": "25:28",
+            "verse": "يَـٰوَيْلَتَىٰ لَيْتَنِى لَمْ أَتَّخِذْ فُلَانًا خَلِيلًۭا",
+            "verseEn": "Oh, woe to me! I wish I had not taken that one as a friend."
+          },
+          {
+            "ar": "صَدِيقٍ",
+            "en": "a friend",
+            "ref": "26:101",
+            "verse": "وَلَا صَدِيقٍ حَمِيمٍۢ",
+            "verseEn": "And not a devoted friend."
+          },
+          {
+            "ar": "نَجِيًّا",
+            "en": "(for) conversation",
+            "ref": "19:52",
+            "verse": "وَنَـٰدَيْنَـٰهُ مِن جَانِبِ ٱلطُّورِ ٱلْأَيْمَنِ وَقَرَّبْنَـٰهُ نَجِيًّۭا",
+            "verseEn": "And We called him from the side of the mount at [his] right and brought him near, confiding [to him]."
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "صدور",
+    "display": "صُدُور",
+    "hint": "Where the whisperer whispers.",
+    "verseRef": "114:5",
+    "arabicVerse": "ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ",
+    "verse": "114:5 - Who whispers [evil] into the breasts of mankind -"
+  },
+  "deduction": {
+    "title": "The Swift Bringer of the Throne",
+    "intro": "In the court of a mighty ruler, an impossible demand was made, and many vied to prove their worth. Yet, the task could only be accomplished by one whose connection to divine knowledge surpassed all physical prowess, unveiling a moment that would echo through the ages.",
+    "clues": [
+      "I was in the service of a great king who was also a prophet, and I stood among his most trusted circle.",
+      "I was not a creature of fire or a being of great physical strength, but I held something far more powerful.",
+      "When the king asked for a throne to be brought from a distant land, I knew exactly what to do.",
+      "I spoke of the knowledge I had from the Book, and before anyone could react, the throne was placed before the king.",
+      "My action was not by my own power, but a demonstration that true knowledge comes from Allah alone.",
+      "I am the one who brought the throne of the Queen of Sheba in the twinkling of an eye, as recorded in Surah An-Naml."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "The one who had knowledge of the Book",
+          "The mighty jinn Ifrit",
+          "The hoopoe bird of Sulayman",
+          "Prophet Sulayman",
+          "The Queen of Sheba"
+        ],
+        "answer": "The one who had knowledge of the Book"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "Bringing the throne of the Queen of Sheba in a blink",
+          "Splitting the Red Sea for the Israelites",
+          "Building the Kaaba with his son",
+          "Surviving the fiery furnace",
+          "Being saved from the belly of the whale"
+        ],
+        "answer": "Bringing the throne of the Queen of Sheba in a blink"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "The Throne of Bilqis",
+          "The Staff of Musa",
+          "The Ark of Nuh",
+          "The Fire of Namrud",
+          "The Whale of Yunus"
+        ],
+        "answer": "The Throne of Bilqis"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "The throne appeared instantly before Sulayman as a test of gratitude",
+          "The queen immediately embraced Islam",
+          "The jinn was imprisoned for failing",
+          "Sulayman gave up his kingdom",
+          "The throne was broken into pieces"
+        ],
+        "answer": "The throne appeared instantly before Sulayman as a test of gratitude"
+      }
+    },
+    "verseRef": "27:40",
+    "arabic": "قَالَ ٱلَّذِى عِندَهُۥ عِلْمٌۭ مِّنَ ٱلْكِتَـٰبِ أَنَا۠ ءَاتِيكَ بِهِۦ قَبْلَ أَن يَرْتَدَّ إِلَيْكَ طَرْفُكَ ۚ فَلَمَّا رَءَاهُ مُسْتَقِرًّا عِندَهُۥ قَالَ هَـٰذَا مِن فَضْلِ رَبِّى لِيَبْلُوَنِىٓ ءَأَشْكُرُ أَمْ أَكْفُرُ ۖ وَمَن شَكَرَ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ رَبِّى غَنِىٌّۭ كَرِيمٌۭ",
+    "verse": "Said one who had knowledge from the Scripture, \"I will bring it to you before your glance returns to you.\" And when [Solomon] saw it placed before him, he said, \"This is from the favor of my Lord to test me whether I will be grateful or ungrateful. And whoever is grateful - his gratitude is only for [the benefit of] himself. And whoever is ungrateful - then indeed, my Lord is Free of need and Generous.\" (27:40)"
+  },
+  "scramble": {
+    "verseRef": "40:60",
+    "reference": "Surah Ghafir (40:60)",
+    "segments": [
+      "وَقَالَ رَبُّكُمُ",
+      "ادْعُونِي أَسْتَجِبْ",
+      "لَكُمْ",
+      "إِنَّ الَّذِينَ يَسْتَكْبِرُونَ",
+      "عَنْ عِبَادَتِي",
+      "سَيَدْخُلُونَ جَهَنَّمَ",
+      "دَاخِرِينَ"
+    ],
+    "translations": [
+      "And said your Lord",
+      "Call upon Me I will respond",
+      "to you Indeed",
+      "those who (are) proud",
+      "to worship Me",
+      "will enter Hell",
+      "(in) humiliation"
+    ],
+    "hint": "A beloved verse about the power of making dua and Allah's promise to answer the one who calls upon Him.",
+    "arabic": "وَقَالَ رَبُّكُمُ ٱدْعُونِىٓ أَسْتَجِبْ لَكُمْ ۚ إِنَّ ٱلَّذِينَ يَسْتَكْبِرُونَ عَنْ عِبَادَتِى سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ",
+    "words": [
+      "وَقَالَ رَبُّكُمُ",
+      "ٱدْعُونِىٓ أَسْتَجِبْ",
+      "لَكُمْ ۚ إِنَّ",
+      "ٱلَّذِينَ يَسْتَكْبِرُونَ",
+      "عَنْ عِبَادَتِى",
+      "سَيَدْخُلُونَ جَهَنَّمَ",
+      "دَاخِرِينَ"
+    ],
+    "verseEn": "And your Lord says, \"Call upon Me; I will respond to you.\" Indeed, those who disdain My worship will enter Hell [rendered] contemptible."
+  }
+}

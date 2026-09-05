@@ -1,0 +1,249 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَنْبِيَاءُ مَذْكُورُونَ فِي الْقُرْآنِ",
+        "nameEn": "Prophets Mentioned by Name in the Quran",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "مُوسَى",
+            "en": "Musa",
+            "ref": "40:26",
+            "verse": "وَقَالَ فِرْعَوْنُ ذَرُونِىٓ أَقْتُلْ مُوسَىٰ وَلْيَدْعُ رَبَّهُۥٓ ۖ إِنِّىٓ أَخَافُ أَن يُبَدِّلَ دِينَكُمْ أَوْ أَن يُظْهِرَ فِى ٱلْأَرْضِ ٱلْفَسَادَ",
+            "verseEn": "And Pharaoh said, \"Let me kill Moses and let him call upon his Lord. Indeed, I fear that he will change your religion or that he will cause corruption in the land.\""
+          },
+          {
+            "ar": "إِبْرَاهِيمَ",
+            "en": "with Ibrahim",
+            "ref": "3:68",
+            "verse": "إِنَّ أَوْلَى ٱلنَّاسِ بِإِبْرَٰهِيمَ لَلَّذِينَ ٱتَّبَعُوهُ وَهَـٰذَا ٱلنَّبِىُّ وَٱلَّذِينَ ءَامَنُوا۟ ۗ وَٱللَّهُ وَلِىُّ ٱلْمُؤْمِنِينَ",
+            "verseEn": "Indeed, the most worthy of Abraham among the people are those who followed him [in submission to Allāh] and this prophet [i.e., Muḥammad (ﷺ)] and those who believe [in his message]. And Allāh is the Ally of the believers."
+          },
+          {
+            "ar": "نُوحًا",
+            "en": "Nuh",
+            "ref": "7:59",
+            "verse": "لَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦ فَقَالَ يَـٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَـٰهٍ غَيْرُهُۥٓ إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍۢ",
+            "verseEn": "We had certainly sent Noah to his people, and he said, \"O my people, worship Allāh; you have no deity other than Him. Indeed, I fear for you the punishment of a tremendous Day.\""
+          },
+          {
+            "ar": "صَالِحُ",
+            "en": "O Salih",
+            "ref": "7:77",
+            "verse": "فَعَقَرُوا۟ ٱلنَّاقَةَ وَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ وَقَالُوا۟ يَـٰصَـٰلِحُ ٱئْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلْمُرْسَلِينَ",
+            "verseEn": "So they hamstrung the she-camel and were insolent toward the command of their Lord and said, \"O Ṣāliḥ, bring us what you promise us, if you should be of the messengers.\""
+          }
+        ]
+      },
+      {
+        "name": "أَنْوَاعُ الْعِبَادَةِ فِي الْقُرْآنِ",
+        "nameEn": "Forms of Worship in the Quran",
+        "color": "green",
+        "items": [
+          {
+            "ar": "الصَّلَوَاتِ",
+            "en": "the prayers",
+            "ref": "2:238",
+            "verse": "حَـٰفِظُوا۟ عَلَى ٱلصَّلَوَٰتِ وَٱلصَّلَوٰةِ ٱلْوُسْطَىٰ وَقُومُوا۟ لِلَّهِ قَـٰنِتِينَ",
+            "verseEn": "Maintain with care the [obligatory] prayers and [in particular] the middle [i.e., ʿaṣr] prayer and stand before Allāh, devoutly obedient."
+          },
+          {
+            "ar": "دُعَاؤُكُمْ",
+            "en": "your prayer (is to Him)",
+            "ref": "25:77",
+            "verse": "قُلْ مَا يَعْبَؤُا۟ بِكُمْ رَبِّى لَوْلَا دُعَآؤُكُمْ ۖ فَقَدْ كَذَّبْتُمْ فَسَوْفَ يَكُونُ لِزَامًۢا",
+            "verseEn": "Say, \"What would my Lord care for you if not for your supplication?\" For you [disbelievers] have denied, so it [i.e., your denial] is going to be adherent."
+          },
+          {
+            "ar": "سُبْحَانَ",
+            "en": "Glory be",
+            "ref": "68:29",
+            "verse": "قَالُوا۟ سُبْحَـٰنَ رَبِّنَآ إِنَّا كُنَّا ظَـٰلِمِينَ",
+            "verseEn": "They said, \"Exalted is our Lord! Indeed, we were wrongdoers.\""
+          },
+          {
+            "ar": "ذِكْرِ",
+            "en": "(the) remembrance",
+            "ref": "63:9",
+            "verse": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُلْهِكُمْ أَمْوَٰلُكُمْ وَلَآ أَوْلَـٰدُكُمْ عَن ذِكْرِ ٱللَّهِ ۚ وَمَن يَفْعَلْ ذَٰلِكَ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْخَـٰسِرُونَ",
+            "verseEn": "O you who have believed, let not your wealth and your children divert you from the remembrance of Allāh. And whoever does that - then those are the losers."
+          }
+        ]
+      },
+      {
+        "name": "صِفَاتُ الْجَنَّةِ فِي سُورَةِ الْغَاشِيَةِ",
+        "nameEn": "Attributes of Paradise in Surah Al-Ghashiyah",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "رَاضِيَةٌ",
+            "en": "satisfied",
+            "ref": "88:9",
+            "verse": "لِّسَعْيِهَا رَاضِيَةٌۭ",
+            "verseEn": "With their effort [they are] satisfied"
+          },
+          {
+            "ar": "عَالِيَةٍ",
+            "en": "elevated",
+            "ref": "88:10",
+            "verse": "فِى جَنَّةٍ عَالِيَةٍۢ",
+            "verseEn": "In an elevated garden,"
+          },
+          {
+            "ar": "لَاغِيَةً",
+            "en": "vain talk",
+            "ref": "88:11",
+            "verse": "لَّا تَسْمَعُ فِيهَا لَـٰغِيَةًۭ",
+            "verseEn": "Wherein they will hear no unsuitable speech."
+          },
+          {
+            "ar": "مَبْثُوثَةٌ",
+            "en": "spread out",
+            "ref": "88:16",
+            "verse": "وَزَرَابِىُّ مَبْثُوثَةٌ",
+            "verseEn": "And carpets spread around."
+          }
+        ]
+      },
+      {
+        "name": "جُمُوعُ التَّكْسِيرِ عَلَى وَزْنِ أَفْعَالٍ",
+        "nameEn": "Broken Plurals of the Pattern أَفْعَال in the Quran",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "الْأَبْوَابُ",
+            "en": "the gates",
+            "ref": "38:50",
+            "verse": "جَنَّـٰتِ عَدْنٍۢ مُّفَتَّحَةًۭ لَّهُمُ ٱلْأَبْوَٰبُ",
+            "verseEn": "Gardens of perpetual residence, whose doors will be opened to them."
+          },
+          {
+            "ar": "أَعْمَالًا",
+            "en": "(as to their) deeds",
+            "ref": "18:103",
+            "verse": "قُلْ هَلْ نُنَبِّئُكُم بِٱلْأَخْسَرِينَ أَعْمَـٰلًا",
+            "verseEn": "Say, [O Muḥammad], \"Shall we [believers] inform you of the greatest losers as to [their] deeds?"
+          },
+          {
+            "ar": "أَيَّامَ",
+            "en": "(for the) days",
+            "ref": "45:14",
+            "verse": "قُل لِّلَّذِينَ ءَامَنُوا۟ يَغْفِرُوا۟ لِلَّذِينَ لَا يَرْجُونَ أَيَّامَ ٱللَّهِ لِيَجْزِىَ قَوْمًۢا بِمَا كَانُوا۟ يَكْسِبُونَ",
+            "verseEn": "Say, [O Muḥammad], to those who have believed that they [should] forgive those who expect not the days of Allāh [i.e., of His retribution] so that He may recompense a people for what they used to earn."
+          },
+          {
+            "ar": "الْأَنْعَامِ",
+            "en": "the cattle",
+            "ref": "6:142",
+            "verse": "وَمِنَ ٱلْأَنْعَـٰمِ حَمُولَةًۭ وَفَرْشًۭا ۚ كُلُوا۟ مِمَّا رَزَقَكُمُ ٱللَّهُ وَلَا تَتَّبِعُوا۟ خُطُوَٰتِ ٱلشَّيْطَـٰنِ ۚ إِنَّهُۥ لَكُمْ عَدُوٌّۭ مُّبِينٌۭ",
+            "verseEn": "And of the grazing livestock are carriers [of burdens] and those [too] small. Eat of what Allāh has provided for you and do not follow the footsteps of Satan. Indeed, he is to you a clear enemy."
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "ريب",
+    "display": "رَيْبَ",
+    "hint": "A 3-letter Arabic word meaning doubt — it appears in the famous Quranic phrase 'lā ___ fīh' (no ___ in it) about the Day of Judgment",
+    "verseRef": "3:25",
+    "arabicVerse": "فَكَيْفَ إِذَا جَمَعْنَـٰهُمْ لِيَوْمٍۢ لَّا رَيْبَ فِيهِ وَوُفِّيَتْ كُلُّ نَفْسٍۢ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ",
+    "verse": "3:25 - So how will it be when We assemble them for a Day about which there is no doubt? And each soul will be compensated [in full for] what it earned, and they will not be wronged."
+  },
+  "deduction": {
+    "title": "The kingdom where the sovereign's end went unseen",
+    "intro": "History has known rulers of every kind, but few commanded a domain quite like this one. Where the wind itself answered to their command and laborers no mortal eye could see toiled in silence, this reign was unlike any before or after. Yet even the grandest of kingdoms must end—and when this one did, the truth emerged from a source so humble that no one had thought to suspect it.",
+    "clues": [
+      "I was granted a vast kingdom by my Lord, spoken of across the sacred pages.",
+      "I inherited great wisdom and authority from a parent who walked before me in devotion.",
+      "I commanded the very wind, and it traveled far for my purposes.",
+      "Beings unseen to ordinary eyes labored under my authority, constructing wonders beyond compare.",
+      "Springs of molten copper flowed for me, a blessing unique among those chosen by Allah.",
+      "When I departed from this world, my body remained standing against a staff. Only when a small creature of the earth ate through that staff did those around me realize I had passed."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Prophet Sulaiman (Solomon)",
+          "Prophet Dawud (David)",
+          "Prophet Musa (Moses)",
+          "Prophet Yusuf (Joseph)",
+          "Prophet Isa (Jesus)"
+        ],
+        "answer": "Prophet Sulaiman (Solomon)"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "Death revealed by a creature eating through my staff",
+          "The great flood that destroyed my people",
+          "Being cast into a blazing fire",
+          "Exile through the parted sea",
+          "The sacrifice of my most beloved son"
+        ],
+        "answer": "Death revealed by a creature eating through my staff"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "Springs of molten copper",
+          "The ark of the covenant",
+          "A staff that split the waters",
+          "A burning bush",
+          "The golden calf"
+        ],
+        "answer": "Springs of molten copper"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "The jinn kept working until the staff was eaten",
+          "My people were saved aboard a great vessel",
+          "A tyrant was drowned in the sea",
+          "A mighty nation was destroyed by a terrible wind",
+          "I was raised to the heavens alive"
+        ],
+        "answer": "The jinn kept working until the staff was eaten"
+      }
+    },
+    "verseRef": "34:14",
+    "arabic": "فَلَمَّا قَضَيْنَا عَلَيْهِ ٱلْمَوْتَ مَا دَلَّهُمْ عَلَىٰ مَوْتِهِۦٓ إِلَّا دَآبَّةُ ٱلْأَرْضِ تَأْكُلُ مِنسَأَتَهُۥ ۖ فَلَمَّا خَرَّ تَبَيَّنَتِ ٱلْجِنُّ أَن لَّوْ كَانُوا۟ يَعْلَمُونَ ٱلْغَيْبَ مَا لَبِثُوا۟ فِى ٱلْعَذَابِ ٱلْمُهِينِ",
+    "verse": "And when We decreed for him [i.e., Solomon] death, nothing indicated to them [i.e., the jinn] his death except a creature of the earth eating his staff. But when he fell, it became clear to the jinn that if they had known the unseen, they would not have remained in humiliating punishment. (34:14)"
+  },
+  "scramble": {
+    "verseRef": "16:97",
+    "reference": "Surah An-Nahl (16:97)",
+    "segments": [
+      "مَنْ عَمِلَ صَالِحًا",
+      "مِّن ذَكَرٍ أَوْ أُنثَىٰ",
+      "وَهُوَ مُؤْمِنٌ",
+      "فَلَنُحْيِيَنَّهُ",
+      "حَيَاةً طَيِّبَةً",
+      "وَلَنَجْزِيَنَّهُمْ أَجْرَهُم",
+      "بِأَحْسَنِ مَا كَانُوا يَعْمَلُونَ"
+    ],
+    "translations": [
+      "Whoever does righteous deeds",
+      "whether male or",
+      "female while he (is) a believer",
+      "then surely We will give him life a life good",
+      "and We will pay them their reward",
+      "to (the) best of what",
+      "they used (to) do"
+    ],
+    "hint": "A beautiful divine promise that whoever does righteous deeds, male or female, while being a believer, will be granted a good life in this world and the best of rewards in the Hereafter.",
+    "arabic": "مَنْ عَمِلَ صَـٰلِحًۭا مِّن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌۭ فَلَنُحْيِيَنَّهُۥ حَيَوٰةًۭ طَيِّبَةًۭ ۖ وَلَنَجْزِيَنَّهُمْ أَجْرَهُم بِأَحْسَنِ مَا كَانُوا۟ يَعْمَلُونَ",
+    "words": [
+      "مَنْ عَمِلَ صَـٰلِحًۭا",
+      "مِّن ذَكَرٍ أَوْ",
+      "أُنثَىٰ وَهُوَ مُؤْمِنٌۭ",
+      "فَلَنُحْيِيَنَّهُۥ حَيَوٰةًۭ طَيِّبَةًۭ ۖ",
+      "وَلَنَجْزِيَنَّهُمْ أَجْرَهُم",
+      "بِأَحْسَنِ مَا",
+      "كَانُوا۟ يَعْمَلُونَ"
+    ],
+    "verseEn": "Whoever does righteousness, whether male or female, while he is a believer - We will surely cause him to live a good life, and We will surely give them their reward [in the Hereafter] according to the best of what they used to do."
+  }
+}

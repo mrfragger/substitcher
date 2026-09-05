@@ -1,0 +1,243 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أُولُو الْعَزْمِ مِنَ الرُّسُلِ",
+        "nameEn": "Prophets of Strong Will",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "مُوسَىٰ",
+            "en": "Musa",
+            "ref": "19:51",
+            "verse": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مُوسَىٰٓ ۚ إِنَّهُۥ كَانَ مُخْلَصًۭا وَكَانَ رَسُولًۭا نَّبِيًّۭا",
+            "verseEn": "And mention in the Book, Moses. Indeed, he was chosen, and he was a messenger and a prophet."
+          },
+          {
+            "ar": "عِيسَىٰ",
+            "en": "Isa",
+            "ref": "43:63",
+            "verse": "وَلَمَّا جَآءَ عِيسَىٰ بِٱلْبَيِّنَـٰتِ قَالَ قَدْ جِئْتُكُم بِٱلْحِكْمَةِ وَلِأُبَيِّنَ لَكُم بَعْضَ ٱلَّذِى تَخْتَلِفُونَ فِيهِ ۖ فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ",
+            "verseEn": "And when Jesus brought clear proofs, he said, \"I have come to you with wisdom [i.e., prophethood] and to make clear to you some of that over which you differ, so fear Allāh and obey me."
+          },
+          {
+            "ar": "إِبْرَاهِيمَ",
+            "en": "Ibrahim",
+            "ref": "2:124",
+            "verse": "۞ وَإِذِ ٱبْتَلَىٰٓ إِبْرَٰهِـۧمَ رَبُّهُۥ بِكَلِمَـٰتٍۢ فَأَتَمَّهُنَّ ۖ قَالَ إِنِّى جَاعِلُكَ لِلنَّاسِ إِمَامًۭا ۖ قَالَ وَمِن ذُرِّيَّتِى ۖ قَالَ لَا يَنَالُ عَهْدِى ٱلظَّـٰلِمِينَ",
+            "verseEn": "And [mention, O Muḥammad], when Abraham was tried by his Lord with words [i.e., commands] and he fulfilled them. [Allāh] said, \"Indeed, I will make you a leader for the people.\" [Abraham] said, \"And of my descendants?\" [Allāh] said, \"My covenant does not include the wrongdoers.\""
+          },
+          {
+            "ar": "نُوحًا",
+            "en": "Nuh",
+            "ref": "71:1",
+            "verse": "إِنَّآ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦٓ أَنْ أَنذِرْ قَوْمَكَ مِن قَبْلِ أَن يَأْتِيَهُمْ عَذَابٌ أَلِيمٌۭ",
+            "verseEn": "Indeed, We sent Noah to his people, [saying], \"Warn your people before there comes to them a painful punishment.\""
+          }
+        ]
+      },
+      {
+        "name": "فِلِزَّات",
+        "nameEn": "Metals in the Quran",
+        "color": "green",
+        "items": [
+          {
+            "ar": "حَدِيدٍ",
+            "en": "iron",
+            "ref": "22:21",
+            "verse": "وَلَهُم مَّقَـٰمِعُ مِنْ حَدِيدٍۢ",
+            "verseEn": "And for [striking] them are maces of iron."
+          },
+          {
+            "ar": "ذَهَبٍ",
+            "en": "gold",
+            "ref": "43:71",
+            "verse": "يُطَافُ عَلَيْهِم بِصِحَافٍۢ مِّن ذَهَبٍۢ وَأَكْوَابٍۢ ۖ وَفِيهَا مَا تَشْتَهِيهِ ٱلْأَنفُسُ وَتَلَذُّ ٱلْأَعْيُنُ ۖ وَأَنتُمْ فِيهَا خَـٰلِدُونَ",
+            "verseEn": "Circulated among them will be plates and vessels of gold. And therein is whatever the souls desire and [what] delights the eyes, and you will abide therein eternally."
+          },
+          {
+            "ar": "فِضَّةٍ",
+            "en": "silver",
+            "ref": "76:16",
+            "verse": "قَوَارِيرَا۟ مِن فِضَّةٍۢ قَدَّرُوهَا تَقْدِيرًۭا",
+            "verseEn": "Clear glasses [made] from silver of which they have determined the measure."
+          },
+          {
+            "ar": "نُحَاسٌ",
+            "en": "and smoke",
+            "ref": "55:35",
+            "verse": "يُرْسَلُ عَلَيْكُمَا شُوَاظٌۭ مِّن نَّارٍۢ وَنُحَاسٌۭ فَلَا تَنتَصِرَانِ",
+            "verseEn": "There will be sent upon you a flame of fire and smoke, and you will not defend yourselves."
+          }
+        ]
+      },
+      {
+        "name": "حُرُوفُ النَّفْيِ فِي الْقُرْآنِ",
+        "nameEn": "Negative Particles in the Quran",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "لَمْ",
+            "en": "did not (negative particle for past)",
+            "ref": "112:3",
+            "verse": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+            "verseEn": "He neither begets nor is born,"
+          },
+          {
+            "ar": "لَنْ",
+            "en": "will never (negative particle for future)",
+            "ref": "3:92",
+            "verse": "لَن تَنَالُوا۟ ٱلْبِرَّ حَتَّىٰ تُنفِقُوا۟ مِمَّا تُحِبُّونَ ۚ وَمَا تُنفِقُوا۟ مِن شَىْءٍۢ فَإِنَّ ٱللَّهَ بِهِۦ عَلِيمٌۭ",
+            "verseEn": "Never will you attain the good [reward] until you spend [in the way of Allāh] from that which you love. And whatever you spend - indeed, Allāh is Knowing of it."
+          },
+          {
+            "ar": "لَمَّا",
+            "en": "Not",
+            "ref": "80:23",
+            "verse": "كَلَّا لَمَّا يَقْضِ مَآ أَمَرَهُۥ",
+            "verseEn": "No! He [i.e., man] has not yet accomplished what He commanded him."
+          },
+          {
+            "ar": "لَا",
+            "en": "no, not (general negation)",
+            "ref": "49:12",
+            "verse": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱجْتَنِبُوا۟ كَثِيرًۭا مِّنَ ٱلظَّنِّ إِنَّ بَعْضَ ٱلظَّنِّ إِثْمٌۭ ۖ وَلَا تَجَسَّسُوا۟ وَلَا يَغْتَب بَّعْضُكُم بَعْضًا ۚ أَيُحِبُّ أَحَدُكُمْ أَن يَأْكُلَ لَحْمَ أَخِيهِ مَيْتًۭا فَكَرِهْتُمُوهُ ۚ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ تَوَّابٌۭ رَّحِيمٌۭ",
+            "verseEn": "O you who have believed, avoid much [negative] assumption. Indeed, some assumption is sin. And do not spy or backbite each other. Would one of you like to eat the flesh of his brother when dead? You would detest it. And fear Allāh; indeed, Allāh is Accepting of Repentance and Merciful."
+          }
+        ]
+      },
+      {
+        "name": "أَوْصَافُ اللّهِ البَشَرِيَّةُ",
+        "nameEn": "Anthropomorphic Attributes of Allah",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "وَجْهِ",
+            "en": "(the) Face",
+            "ref": "13:22",
+            "verse": "وَٱلَّذِينَ صَبَرُوا۟ ٱبْتِغَآءَ وَجْهِ رَبِّهِمْ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَأَنفَقُوا۟ مِمَّا رَزَقْنَـٰهُمْ سِرًّۭا وَعَلَانِيَةًۭ وَيَدْرَءُونَ بِٱلْحَسَنَةِ ٱلسَّيِّئَةَ أُو۟لَـٰٓئِكَ لَهُمْ عُقْبَى ٱلدَّارِ",
+            "verseEn": "And those who are patient, seeking the face [i.e., acceptance] of their Lord, and establish prayer and spend from what We have provided for them secretly and publicly and prevent evil with good - those will have the good consequence of [this] home -"
+          },
+          {
+            "ar": "يَدِ",
+            "en": "(His) hand",
+            "ref": "57:29",
+            "verse": "لِّئَلَّا يَعْلَمَ أَهْلُ ٱلْكِتَـٰبِ أَلَّا يَقْدِرُونَ عَلَىٰ شَىْءٍۢ مِّن فَضْلِ ٱللَّهِ ۙ وَأَنَّ ٱلْفَضْلَ بِيَدِ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۚ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ",
+            "verseEn": "[This is] so that the People of the Scripture may know that they are not able [to obtain] anything from the bounty of Allāh and that [all] bounty is in the hand of Allāh; He gives it to whom He wills. And Allāh is the possessor of great bounty."
+          },
+          {
+            "ar": "أَعْيُنِنَا",
+            "en": "before Our eyes",
+            "ref": "54:14",
+            "verse": "تَجْرِى بِأَعْيُنِنَا جَزَآءًۭ لِّمَن كَانَ كُفِرَ",
+            "verseEn": "Sailing under Our observation as reward for he who had been denied."
+          },
+          {
+            "ar": "نَفْسِكَ",
+            "en": "Yourself",
+            "ref": "5:116",
+            "verse": "وَإِذْ قَالَ ٱللَّهُ يَـٰعِيسَى ٱبْنَ مَرْيَمَ ءَأَنتَ قُلْتَ لِلنَّاسِ ٱتَّخِذُونِى وَأُمِّىَ إِلَـٰهَيْنِ مِن دُونِ ٱللَّهِ ۖ قَالَ سُبْحَـٰنَكَ مَا يَكُونُ لِىٓ أَنْ أَقُولَ مَا لَيْسَ لِى بِحَقٍّ ۚ إِن كُنتُ قُلْتُهُۥ فَقَدْ عَلِمْتَهُۥ ۚ تَعْلَمُ مَا فِى نَفْسِى وَلَآ أَعْلَمُ مَا فِى نَفْسِكَ ۚ إِنَّكَ أَنتَ عَلَّـٰمُ ٱلْغُيُوبِ",
+            "verseEn": "And [beware the Day] when Allāh will say, \"O Jesus, Son of Mary, did you say to the people, 'Take me and my mother as deities besides Allāh?'\" He will say, \"Exalted are You! It was not for me to say that to which I have no right. If I had said it, You would have known it. You know what is within myself, and I do not know what is within Yourself. Indeed, it is You who is Knower of the unseen."
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "قمر",
+    "display": "قَمَرَ",
+    "hint": "Earth's faithful celestial companion that waxes and wanes, marking the months of the Islamic calendar",
+    "verseRef": "36:39",
+    "arabicVerse": "وَٱلْقَمَرَ قَدَّرْنَـٰهُ مَنَازِلَ حَتَّىٰ عَادَ كَٱلْعُرْجُونِ ٱلْقَدِيمِ",
+    "verse": "36:39 - And the moon - We have determined for it phases, until it returns [appearing] like the old date stalk."
+  },
+  "deduction": {
+    "title": "The Bearer of Nine Signs",
+    "intro": "A figure rose from the humblest of beginnings, with a destiny written in divine will. Hidden away in infancy and raised within the walls of the very ruler who sought to destroy their people, this soul was eventually called to a mighty mission. Equipped with nothing but faith and a humble shepherd's staff, they stood before the most powerful ruler of the age and demanded freedom for those who were enslaved. The world itself seemed to move at their command — waters parted, the heavens spoke, and a kingdom fell.",
+    "clues": [
+      "My earliest days were marked by fear — infants like me were hunted at birth by a merciless ruler who feared the future.",
+      "I was rescued by water and raised within the palace of the very ruler who sought my destruction.",
+      "I fled my homeland after a sudden incident, becoming a humble shepherd in a distant land.",
+      "I returned to confront that powerful ruler with a simple staff and a clear message, demanding the freedom of my people.",
+      "I parted a great body of water for those who followed me, and watched as those waters swallowed my enemy whole.",
+      "I climbed a sacred mount to receive divine guidance from Allah, and I was granted nine clear signs as proof of truth."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Prophet Musa",
+          "Prophet Nuh",
+          "Prophet Ibrahim",
+          "Prophet Yusuf",
+          "Prophet Lut"
+        ],
+        "answer": "Prophet Musa"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "Confronting the Pharaoh at his court",
+          "Building the Ark to survive a great flood",
+          "Being cast into a blazing fire by idol-makers",
+          "Being lowered into a deep well by my brothers",
+          "Trying to stop my people from immoral conduct"
+        ],
+        "answer": "Confronting the Pharaoh at his court"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "The Staff that turned into a serpent",
+          "The Ark of Nuh",
+          "The Throne of Bilqis",
+          "The Ring that controlled wind and jinn",
+          "Keys to hoarded treasures so heavy"
+        ],
+        "answer": "The Staff that turned into a serpent"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "Led my people across parted waters to freedom",
+          "Was saved from a great flood inside an Ark",
+          "Was restored to health and family after deep suffering",
+          "Was cast out of a great fish alive",
+          "Built the foundations of the Sacred House"
+        ],
+        "answer": "Led my people across parted waters to freedom"
+      }
+    },
+    "verseRef": "17:101",
+    "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَـٰتٍۭ بَيِّنَـٰتٍۢ ۖ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ جَآءَهُمْ فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَأَظُنُّكَ يَـٰمُوسَىٰ مَسْحُورًۭا",
+    "verse": "And We had certainly given Moses nine evident signs, so ask the Children of Israel [about] when he came to them and Pharaoh said to him, \"Indeed I think, O Moses, that you are affected by magic.\" (17:101)"
+  },
+  "scramble": {
+    "verseRef": "96:1",
+    "reference": "Surah Al-'Alaq (96:1)",
+    "segments": [
+      "Iqra'",
+      "bi-smi",
+      "rabbika",
+      "alladhi",
+      "khalaqa"
+    ],
+    "translations": [
+      "Read",
+      "in (the) name",
+      "(of) your Lord",
+      "the One Who",
+      "created "
+    ],
+    "hint": "The very first verse revealed to Prophet Muhammad ﷺ in the Cave of Hira, marking the beginning of the Quranic revelation.",
+    "arabic": "ٱقْرَأْ بِٱسْمِ رَبِّكَ ٱلَّذِى خَلَقَ",
+    "words": [
+      "ٱقْرَأْ",
+      "بِٱسْمِ",
+      "رَبِّكَ",
+      "ٱلَّذِى",
+      "خَلَقَ"
+    ],
+    "verseEn": "Recite in the name of your Lord who created"
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "الأنبياء في سورة مريم",
+        "nameEn": "Prophets in Surah Maryam",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "إِبْرَاهِيمُ",
+            "en": "Ibrahim",
+            "verse": "وَٱكْتُبْ لَنَا فِي هَٰذِهِ ٱلدُّنْيَا حَسَنَةً وَفِي ٱلْـَٔاخِرَةِ إِنَّا هُدْنَآ إِلَيْكَ ۚ قَالَ عَذَابِيٓ أُصِيبُ بِهِۦ مَنْ أَشَآءُ ۖ وَرَحْمَتِي وَسِعَتْ كُلَّ شَيْءٍ ۚ فَسَأَكْتُبُهَا لِلَّذِينَ يَتَّقُونَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَٱلَّذِينَ هُم بِـَٔايَاتِنَا يُؤْمِنُونَ",
+            "ref": "7:156",
+            "verseEn": "And when they [i.e., those advised] forgot that by which they had been reminded, We saved those who had forbidden evil and seized those who wronged, with a wretched punishment, because they were defiantly disobeying."
+          },
+          {
+            "ar": "يَحْيَىٰ",
+            "en": "Yahya",
+            "verse": "يَٰزَكَرِيَّآ إِنَّا نُبَشِّرُكَ بِغُلَٰمٍ ٱسْمُهُۥ يَحْيَىٰ لَمْ نَجْعَل لَّهُۥ مِن قَبْلُ سَمِيًّا",
+            "ref": "19:7",
+            "verseEn": "[He was told], \"O Zechariah, indeed We give you good tidings of a boy whose name will be John. We have not assigned to any before [this] name.\""
+          },
+          {
+            "ar": "عِيسَى",
+            "en": "Isa",
+            "verse": "ذَٰلِكَ عِيسَى ٱبْنُ مَرْيَمَ ۚ قَوْلَ ٱلْحَقِّ ٱلَّذِى فِيهِ يَمْتَرُونَ",
+            "ref": "19:34",
+            "verseEn": "That is Jesus, the son of Mary - the word of truth about which they are in dispute."
+          },
+          {
+            "ar": "إِدْرِيسَ",
+            "en": "Idris",
+            "verse": "وَٱذْكُرْ فِى ٱلْكِتَٰبِ إِدْرِيسَ ۚ إِنَّهُۥ كَانَ صِدِّيقًا نَّبِيًّا",
+            "ref": "19:56",
+            "verseEn": "And mention in the Book, Idrees. Indeed, he was a man of truth and a prophet."
+          }
+        ],
+        "verse": {
+          "ayah": "أُو۟لَٰٓئِكَ ٱلَّذِينَ أَنْعَمَ ٱللَّهُ عَلَيْهِم مِّنَ ٱلنَّبِيِّـۧنَ مِن ذُرِّيَّةِ ءَادَمَ وَمِمَّنْ حَمَلْنَا مَعَ نُوحٍ وَمِن ذُرِّيَّةِ إِبْرَٰهِيمَ وَإِسْرَٰٓءِيلَ وَمِمَّنْ هَدَيْنَا وَٱجْتَبَيْنَآ ۚ إِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُ ٱلرَّحْمَٰنِ خَرُّوا۟ سُجَّدًا وَبُكِيًّا",
+          "en": "Those were the ones upon whom Allah bestowed favor from among the prophets of the descendants of Adam...",
+          "ref": "19:58"
+        }
+      },
+      {
+        "name": "الأجرام السماوية",
+        "nameEn": "Celestial Bodies",
+        "color": "green",
+        "items": [
+          {
+            "ar": "ٱلشَّمْسُ",
+            "en": "The Sun",
+            "verse": "وَٱلشَّمْسِ وَضُحَىٰهَا",
+            "ref": "91:1",
+            "verseEn": "By the sun and its brightness"
+          },
+          {
+            "ar": "ٱلْقَمَرُ",
+            "en": "The Moon",
+            "verse": "ٱقْتَرَبَتِ ٱلسَّاعَةُ وَٱنشَقَّ ٱلْقَمَرُ",
+            "ref": "54:1",
+            "verseEn": "The Hour has come near, and the moon has split [in two]."
+          },
+          {
+            "ar": "ٱلنُّجُومُ",
+            "en": "The Stars",
+            "verse": "وَٱلسَّمَآءِ وَٱلطَّارِقِ وَمَآ أَدْرَىٰكَ مَا ٱلطَّارِقُ ٱلنَّجْمُ ٱلثَّاقِبُ",
+            "ref": "86:1-3",
+            "verseEn": "By the sky and the knocker. And what can make you know what is the knocker? It is the piercing star"
+          },
+          {
+            "ar": "ٱلْأَرْضُ",
+            "en": "The Earth",
+            "verse": "أَمَّن جَعَلَ ٱلْأَرْضَ قَرَارًا وَجَعَلَ خِلَٰلَهَآ أَنْهَٰرًا وَجَعَلَ لَهَا رَوَٰسِيَ وَجَعَلَ بَيْنَ ٱلْبَحْرَيْنِ حَاجِزًا ۗ أَءِلَٰهٌ مَّعَ ٱللَّهِ ۚ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ",
+            "ref": "27:61",
+            "verseEn": "Is He [not best] who made the earth a stable ground and placed within it rivers and made for it firmly set mountains and placed between the two seas a barrier? Is there a deity with Allāh? [No], but most of them do not know."
+          }
+        ],
+        "verse": {
+          "ayah": "إِنَّ فِى خَلْقِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَٰفِ ٱلَّيْلِ وَٱلنَّهَارِ لَـَٔايَٰتٍ لِّأُو۟لِى ٱلْأَلْبَٰبِ",
+          "en": "Indeed, in the creation of the heavens and the earth and the alternation of the night and the day are signs for those of understanding",
+          "ref": "3:190"
+        }
+      },
+      {
+        "name": "أفعال العبادة",
+        "nameEn": "Acts of Worship",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "سُجَّدًا",
+            "en": "Prostration",
+            "verse": "إِنَّمَا يُؤْمِنُ بِـَٔايَٰتِنَا ٱلَّذِينَ إِذَا ذُكِّرُوا۟ بِهَا خَرُّوا۟ سُجَّدًا وَسَبَّحُوا۟ بِحَمْدِ رَبِّهِمْ وَهُمْ لَا يَسْتَكْبِرُونَ",
+            "ref": "32:15",
+            "verseEn": "Only those believe in Our verses who, when they are reminded by them, fall down in prostration and exalt [Allāh] with praise of their Lord, and they are not arrogant."
+          },
+          {
+            "ar": "قِيَامًا",
+            "en": "Standing (in prayer)",
+            "verse": "لَيْسُوا۟ سَوَآءً ۗ مِّنْ أَهْلِ ٱلْكِتَٰبِ أُمَّةٌ قَآئِمَةٌ يَتْلُونَ ءَايَٰتِ ٱللَّهِ ءَانَآءَ ٱلَّيْلِ وَهُمْ يَسْجُدُونَ",
+            "ref": "3:113",
+            "verseEn": "They are not [all] the same; among the People of the Scripture is a community standing [in obedience], reciting the verses of Allāh during periods of the night and prostrating [in prayer]."
+          },
+          {
+            "ar": "رُكَّعًا",
+            "en": "Bowing",
+            "verse": "إِنَّمَا وَلِيُّكُمُ ٱللَّهُ وَرَسُولُهُۥ وَٱلَّذِينَ ءَامَنُوا۟ ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَهُمْ رَٰكِعُونَ",
+            "ref": "5:55",
+            "verseEn": "Your ally is none but Allāh and [therefore] His Messenger and those who have believed - those who establish prayer and give zakāh, and they bow [in worship]."
+          },
+          {
+            "ar": "طَوَافٌ",
+            "en": "Circumambulation",
+            "verse": "ثُمَّ لْيَقْضُوا۟ تَفَثَهُمْ وَلْيُوفُوا۟ نُذُورَهُمْ وَلْيَطَّوَّفُوا۟ بِٱلْبَيْتِ ٱلْعَتِيقِ",
+            "ref": "22:29",
+            "verseEn": "Then let them end their untidiness and fulfill their vows and perform ṭawāf around the ancient House."
+          }
+        ],
+        "verse": {
+          "ayah": "وَإِذْ جَعَلْنَا ٱلْبَيْتَ مَثَابَةً لِّلنَّاسِ وَأَمْنًا وَٱتَّخِذُوا۟ مِن مَّقَامِ إِبْرَٰهِيمَ مُصَلًّى ۖ وَعَهِدْنَآ إِلَىٰٓ إِبْرَٰهِيمَ وَإِسْمَٰعِيلَ أَن طَهِّرَا بَيْتِىَ لِلطَّآئِفِينَ وَٱلْعَٰكِفِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ",
+          "en": "And [mention] when We made the House a place of return for the people and [a place of] security. And take, [O believers], from the standing place of Abraham a place of prayer...",
+          "ref": "2:125"
+        }
+      },
+      {
+        "name": "أهوال القيامة",
+        "nameEn": "Day of Judgment Events",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "ٱلصُّورُ",
+            "en": "The Trumpet",
+            "verse": "وَنُفِخَ فِى ٱلصُّورِ فَصَعِقَ مَن فِى ٱلسَّمَٰوَٰتِ وَمَن فِى ٱلْأَرْضِ إِلَّا مَن شَآءَ ٱللَّهُ ۖ ثُمَّ نُفِخَ فِيهِ أُخْرَىٰ فَإِذَا هُمْ قِيَامٌ يَنظُرُونَ",
+            "ref": "39:68",
+            "verseEn": "And the Horn will be blown, and whoever is in the heavens and whoever is on the earth will fall dead except whom Allāh wills. Then it will be blown again, and at once they will be standing, looking on."
+          },
+          {
+            "ar": "ٱلْكِتَٰبُ",
+            "en": "The Record",
+            "verse": "وَوُضِعَ ٱلْكِتَٰبُ فَتَرَى ٱلْمُجْرِمِينَ مُشْفِقِينَ مِمَّا فِيهِ وَيَقُولُونَ يَٰوَيْلَتَنَا مَالِ هَٰذَا ٱلْكِتَٰبِ لَا يُغَادِرُ صَغِيرَةً وَلَا كَبِيرَةً إِلَّآ أَحْصَىٰهَا ۚ وَوَجَدُوا۟ مَا عَمِلُوا۟ حَاضِرًا ۗ وَلَا يَظْلِمُ رَبُّكَ أَحَدًا",
+            "ref": "18:49",
+            "verseEn": "And the record [of deeds] will be placed [open], and you will see the criminals fearful of that within it, and they will say, \"Oh, woe to us! What is this book that leaves nothing small or great except that it has enumerated it?\" And they will find what they did present [before them]. And your Lord does injustice to no one."
+          },
+          {
+            "ar": "ٱلْمِيزَانُ",
+            "en": "The Scale",
+            "verse": "وَٱلسَّمَآءَ رَفَعَهَا وَوَضَعَ ٱلْمِيزَانَ",
+            "ref": "55:7",
+            "verseEn": "And the heaven He raised and imposed the balance"
+          },
+          {
+            "ar": "سِجِّينٌ",
+            "en": "Sijjin (Register)",
+            "verse": "كَلَّآ إِنَّ كِتَٰبَ ٱلْفُجَّارِ لَفِى سِجِّينٍ",
+            "ref": "83:7",
+            "verseEn": "No! Indeed, the record of the wicked is in sijjeen."
+          }
+        ],
+        "verse": {
+          "ayah": "يَوْمَئِذٍ تُعْرَضُونَ لَا تَخْفَىٰ مِنكُمْ خَافِيَةٌ",
+          "en": "That Day, you will be exhibited [for judgment]; not hidden among you is anything concealed",
+          "ref": "69:18"
+        }
+      }
+    ]
+  },
+  "wordle": {
+    "word": "كتاب",
+    "display": "كِتَاب",
+    "hint": "A sacred scripture, often referring to a divine revelation.",
+    "verse": "Al-Imran 3:3 — He has sent down upon you the Book in truth, confirming that which was before it. And He sent down the Torah and the Gospel.",
+    "arabicVerse": "نَزَّلَ عَلَيْكَ ٱلْكِتَٰبَ بِٱلْحَقِّ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ وَأَنزَلَ ٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ"
+  },
+  "deduction": {
+    "title": "The Trial Beneath the Waves",
+    "intro": "A prophet, burdened by his mission, made a decision that led him far from his people and into an unexpected trial. His journey took a dramatic turn, testing his faith and patience in the most profound way. Can you deduce the details of this extraordinary event from the clues provided?",
+    "clues": [
+      "A prophet was sent to a people, but departed in haste, feeling frustration with their rejection.",
+      "His journey led him to the sea, where he boarded a heavily laden vessel seeking passage.",
+      "A great storm arose, threatening the ship, and a decision was made to cast one person overboard to lighten the load, determined by lots.",
+      "He was swallowed by a creature of the deep, a miraculous event decreed by Divine will.",
+      "Within the confines of the creature's belly, he called out to his Lord, repenting and glorifying Allah in the darkness.",
+      "After a period of intense supplication, he was cast upon a barren shore, weak but alive, and later returned to find his people had finally believed."
+    ],
+    "categories": {
+      "prophet": {
+        "label": "Prophet/Person",
+        "options": [
+          "Prophet Nuh",
+          "Prophet Lut",
+          "Prophet Musa",
+          "Prophet Yunus",
+          "Prophet Yusuf"
+        ],
+        "answer": "Prophet Yunus"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "The flood of Nuh",
+          "The destruction of Sodom",
+          "The journey in the belly of the great fish",
+          "The splitting of the sea",
+          "The burning bush revelation"
+        ],
+        "answer": "The journey in the belly of the great fish"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "The Ark",
+          "Mount Sinai",
+          "The Staff of Musa",
+          "The Great Fish",
+          "The Well of Yusuf"
+        ],
+        "answer": "The Great Fish"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "A new covenant with humanity",
+          "A miraculous birth for his people",
+          "A kingdom established for his lineage",
+          "A return to his people who then believed",
+          "A victory over a tyrannical ruler"
+        ],
+        "answer": "A return to his people who then believed"
+      }
+    },
+    "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+    "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+  },
+  "scramble": {
+    "reference": "Surah Al-Fatihah (1:5)",
+    "words": [
+      "إِيَّاكَ",
+      "نَعْبُدُ",
+      "وَإِيَّاكَ",
+      "نَسْتَعِينُ"
+    ],
+    "translations": [
+      "You alone",
+      "we worship",
+      "and You alone",
+      "we ask for help"
+    ],
+    "arabic": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+    "hint": "This verse encapsulates the essence of monotheism and absolute reliance on Allah in worship and seeking assistance.",
+    "verseEn": "It is You we worship and You we ask for help."
+  }
+}

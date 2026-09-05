@@ -1,0 +1,240 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَوْقَاتُ الْيَوْمِ",
+        "nameEn": "Times of Day",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "الصُّبْحِ",
+            "en": "The Dawn",
+            "ref": "74:34",
+            "verse": "وَٱلصُّبْحِ إِذَآ أَسْفَرَ",
+            "verseEn": "And [by] the morning when it brightens,"
+          },
+          {
+            "ar": "الضُّحَىٰ",
+            "en": "The Forenoon",
+            "ref": "93:1",
+            "verse": "وَٱلضُّحَىٰ",
+            "verseEn": "By the morning brightness"
+          },
+          {
+            "ar": "الْعَشِيِّ",
+            "en": "The Evening",
+            "ref": "18:28",
+            "verse": "وَٱصْبِرْ نَفْسَكَ مَعَ ٱلَّذِينَ يَدْعُونَ رَبَّهُم بِٱلْغَدَوٰةِ وَٱلْعَشِىِّ يُرِيدُونَ وَجْهَهُۥ ۖ وَلَا تَعْدُ عَيْنَاكَ عَنْهُمْ تُرِيدُ زِينَةَ ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَلَا تُطِعْ مَنْ أَغْفَلْنَا قَلْبَهُۥ عَن ذِكْرِنَا وَٱتَّبَعَ هَوَىٰهُ وَكَانَ أَمْرُهُۥ فُرُطًۭا",
+            "verseEn": "And keep yourself patient [by being] with those who call upon their Lord in the morning and the evening, seeking His face [i.e., acceptance]. And let not your eyes pass beyond them, desiring adornments of the worldly life, and do not obey one whose heart We have made heedless of Our remembrance and who follows his desire and whose affair is ever [in] neglect."
+          },
+          {
+            "ar": "اللَّيْلِ",
+            "en": "The Night",
+            "ref": "17:12",
+            "verse": "وَجَعَلْنَا ٱلَّيْلَ وَٱلنَّهَارَ ءَايَتَيْنِ ۖ فَمَحَوْنَآ ءَايَةَ ٱلَّيْلِ وَجَعَلْنَآ ءَايَةَ ٱلنَّهَارِ مُبْصِرَةًۭ لِّتَبْتَغُوا۟ فَضْلًۭا مِّن رَّبِّكُمْ وَلِتَعْلَمُوا۟ عَدَدَ ٱلسِّنِينَ وَٱلْحِسَابَ ۚ وَكُلَّ شَىْءٍۢ فَصَّلْنَـٰهُ تَفْصِيلًۭا",
+            "verseEn": "And We have made the night and day two signs, and We erased the sign of the night and made the sign of the day visible that you may seek bounty from your Lord and may know the number of years and the account [of time]. And everything We have set out in detail."
+          }
+        ]
+      },
+      {
+        "name": "أَدَوَاتٌ وَمَصْنُوعَاتٌ",
+        "nameEn": "Tools and Implements",
+        "color": "green",
+        "items": [
+          {
+            "ar": "سِرَاجًا",
+            "en": "A lamp",
+            "ref": "71:16",
+            "verse": "وَجَعَلَ ٱلْقَمَرَ فِيهِنَّ نُورًۭا وَجَعَلَ ٱلشَّمْسَ سِرَاجًۭا",
+            "verseEn": "And made the moon therein a [reflected] light and made the sun a burning lamp?"
+          },
+          {
+            "ar": "دَلْوَهُ",
+            "en": "His bucket",
+            "ref": "12:19",
+            "verse": "وَجَآءَتْ سَيَّارَةٌۭ فَأَرْسَلُوا۟ وَارِدَهُمْ فَأَدْلَىٰ دَلْوَهُۥ ۖ قَالَ يَـٰبُشْرَىٰ هَـٰذَا غُلَـٰمٌۭ ۚ وَأَسَرُّوهُ بِضَـٰعَةًۭ ۚ وَٱللَّهُ عَلِيمٌۢ بِمَا يَعْمَلُونَ",
+            "verseEn": "And there came a company of travelers; then they sent their water drawer, and he let down his bucket. He said, \"Good news! Here is a boy.\" And they concealed him, [taking him] as merchandise; and Allāh was Knowing of what they did."
+          },
+          {
+            "ar": "السَّفِينَةِ",
+            "en": "The ship",
+            "ref": "18:71",
+            "verse": "فَٱنطَلَقَا حَتَّىٰٓ إِذَا رَكِبَا فِى ٱلسَّفِينَةِ خَرَقَهَا ۖ قَالَ أَخَرَقْتَهَا لِتُغْرِقَ أَهْلَهَا لَقَدْ جِئْتَ شَيْـًٔا إِمْرًۭا",
+            "verseEn": "So they set out, until when they had embarked on the ship, he [i.e., al-Khiḍr] tore it open. [Moses] said, \"Have you torn it open to drown its people? You have certainly done a grave thing.\""
+          },
+          {
+            "ar": "الْمَهْدِ",
+            "en": "The cradle",
+            "ref": "19:29",
+            "verse": "فَأَشَارَتْ إِلَيْهِ ۖ قَالُوا۟ كَيْفَ نُكَلِّمُ مَن كَانَ فِى ٱلْمَهْدِ صَبِيًّۭا",
+            "verseEn": "So she pointed to him. They said, \"How can we speak to one who is in the cradle a child?\""
+          }
+        ]
+      },
+      {
+        "name": "كُتُبٌ مُنَزَّلَةٌ",
+        "nameEn": "Revealed Scriptures",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "ٱلْإِنجِيلَ",
+            "en": "the Gospel",
+            "ref": "5:46",
+            "verse": "وَقَفَّيْنَا عَلَىٰٓ ءَاثَـٰرِهِم بِعِيسَى ٱبْنِ مَرْيَمَ مُصَدِّقًۭا لِّمَا بَيْنَ يَدَيْهِ مِنَ ٱلتَّوْرَىٰةِ ۖ وَءَاتَيْنَـٰهُ ٱلْإِنجِيلَ فِيهِ هُدًۭى وَنُورٌۭ وَمُصَدِّقًۭا لِّمَا بَيْنَ يَدَيْهِ مِنَ ٱلتَّوْرَىٰةِ وَهُدًۭى وَمَوْعِظَةًۭ لِّلْمُتَّقِينَ",
+            "verseEn": "And We sent, following in their footsteps, Jesus, the son of Mary, confirming that which came before him in the Torah; and We gave him the Gospel, in which was guidance and light and confirming that which preceded it of the Torah as guidance and instruction for the righteous."
+          },
+          {
+            "ar": "ٱلتَّوْرَىٰةِ",
+            "en": "the Torah",
+            "ref": "3:50",
+            "verse": "وَمُصَدِّقًۭا لِّمَا بَيْنَ يَدَىَّ مِنَ ٱلتَّوْرَىٰةِ وَلِأُحِلَّ لَكُم بَعْضَ ٱلَّذِى حُرِّمَ عَلَيْكُمْ ۚ وَجِئْتُكُم بِـَٔايَةٍۢ مِّن رَّبِّكُمْ فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ",
+            "verseEn": "And [I have come] confirming what was before me of the Torah and to make lawful for you some of what was forbidden to you. And I have come to you with a sign from your Lord, so fear Allāh and obey me."
+          },
+          {
+            "ar": "ٱلزُّبُرِ",
+            "en": "the Scriptures",
+            "ref": "35:25",
+            "verse": "وَإِن يُكَذِّبُوكَ فَقَدْ كَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ جَآءَتْهُمْ رُسُلُهُم بِٱلْبَيِّنَـٰتِ وَبِٱلزُّبُرِ وَبِٱلْكِتَـٰبِ ٱلْمُنِيرِ",
+            "verseEn": "And if they deny you - then already have those before them denied. Their messengers came to them with clear proofs and written ordinances and with the enlightening Scripture."
+          },
+          {
+            "ar": "ٱلْقُرْءَانَ",
+            "en": "the Quran",
+            "ref": "17:9",
+            "verse": "إِنَّ هَـٰذَا ٱلْقُرْءَانَ يَهْدِى لِلَّتِى هِىَ أَقْوَمُ وَيُبَشِّرُ ٱلْمُؤْمِنِينَ ٱلَّذِينَ يَعْمَلُونَ ٱلصَّـٰلِحَـٰتِ أَنَّ لَهُمْ أَجْرًۭا كَبِيرًۭا",
+            "verseEn": "Indeed, this Qur’ān guides to that which is most suitable and gives good tidings to the believers who do righteous deeds that they will have a great reward"
+          }
+        ]
+      },
+      {
+        "name": "ظَوَاهِرٌ فَلَكِيَّةٌ",
+        "nameEn": "Celestial Phenomena",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "ٱلشِّعْرَىٰ",
+            "en": "Sirius (the star)",
+            "ref": "53:49",
+            "verse": "وَأَنَّهُۥ هُوَ رَبُّ ٱلشِّعْرَىٰ",
+            "verseEn": "And that it is He who is the Lord of Sirius."
+          },
+          {
+            "ar": "بُرُوجٍ",
+            "en": "Constellations",
+            "ref": "85:1",
+            "verse": "وَٱلسَّمَآءِ ذَاتِ ٱلْبُرُوجِ",
+            "verseEn": "By the sky containing great stars"
+          },
+          {
+            "ar": "شِهَابٌ",
+            "en": "Meteor",
+            "ref": "37:10",
+            "verse": "إِلَّا مَنْ خَطِفَ ٱلْخَطْفَةَ فَأَتْبَعَهُۥ شِهَابٌۭ ثَاقِبٌۭ",
+            "verseEn": "Except one who snatches [some words] by theft, but they are pursued by a burning flame, piercing [in brightness]."
+          },
+          {
+            "ar": "كَسَفًا",
+            "en": "Fragments (of the sky)",
+            "ref": "17:92",
+            "verse": "أَوْ تُسْقِطَ ٱلسَّمَآءَ كَمَا زَعَمْتَ عَلَيْنَا كِسَفًا أَوْ تَأْتِىَ بِٱللَّهِ وَٱلْمَلَـٰٓئِكَةِ قَبِيلًا",
+            "verseEn": "Or you make the heaven fall upon us in fragments as you have claimed or you bring Allāh and the angels before [us]"
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "بحر",
+    "display": "بَحْر",
+    "hint": "If this were ink, it would be exhausted before the Words of the Lord.",
+    "verseRef": "18:109",
+    "arabicVerse": "قُل لَّوْ كَانَ ٱلْبَحْرُ مِدَادًۭا لِّكَلِمَـٰتِ رَبِّى لَنَفِدَ ٱلْبَحْرُ قَبْلَ أَن تَنفَدَ كَلِمَـٰتُ رَبِّى وَلَوْ جِئْنَا بِمِثْلِهِۦ مَدَدًۭا",
+    "verse": "18:109 — Say, \"If the sea were ink for [writing] the words of my Lord, the sea would be exhausted before the words of my Lord were exhausted, even if We brought the like of it in [continual] supplement.\""
+  },
+  "deduction": {
+    "title": "The Throne of Truth",
+    "intro": "A powerful ruler, known for their great wisdom and magnificent throne, receives a mysterious message from an unknown source. This unexpected communication challenges their beliefs and authority, setting them on a diplomatic journey that will test their intellect and ultimately lead to a profound spiritual awakening. Can you uncover the identity of this sovereign and the events that transformed their entire kingdom?",
+    "clues": [
+      "My people and I worshipped the sun, following the ways of our ancestors.",
+      "A bird, a hoopoe, was the unlikely messenger that brought me a letter from a powerful leader.",
+      "To test the sender's wisdom, I sent valuable gifts, but they were returned, as the sender possessed far greater wealth from Allah.",
+      "Before I even arrived at the sender's court, my magnificent throne was miraculously transported there in the blink of an eye.",
+      "Upon my arrival, I was asked if the transported throne was mine, and I answered, 'It is as though it is the very one.'",
+      "I entered a great hall with a floor I mistook for a pool of water, and in that moment of awe, I submitted myself alongside Prophet Sulaiman to Allah, the Lord of the worlds."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "The Queen of Sheba",
+          "Zulaikha (Wife of Al-Aziz)",
+          "Asiya (Wife of Pharaoh)",
+          "The Mother of Musa",
+          "Maryam (Mother of Isa)"
+        ],
+        "answer": "The Queen of Sheba"
+      },
+      "trial": {
+        "label": "The Central Event",
+        "options": [
+          "Receiving a letter from Prophet Sulaiman",
+          "Being thrown into a fire",
+          "Building an ark to survive a flood",
+          "Parting the Red Sea",
+          "Being accused of immodesty"
+        ],
+        "answer": "Receiving a letter from Prophet Sulaiman"
+      },
+      "location": {
+        "label": "The Key Object",
+        "options": [
+          "A magnificent throne",
+          "A golden calf",
+          "A coat of many colors",
+          "A staff that turned into a serpent",
+          "A ship made of planks and nails"
+        ],
+        "answer": "A magnificent throne"
+      },
+      "outcome": {
+        "label": "The Ultimate Outcome",
+        "options": [
+          "Submitting to the one true God (Allah)",
+          "Being turned into a pillar of salt",
+          "Building a high tower to reach God",
+          "Being swallowed by a great fish",
+          "Losing immense wealth as a punishment"
+        ],
+        "answer": "Submitting to the one true God (Allah)"
+      }
+    },
+    "verseRef": "27:44",
+    "arabic": "قِيلَ لَهَا ٱدْخُلِى ٱلصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةًۭ وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُۥ صَرْحٌۭ مُّمَرَّدٌۭ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّى ظَلَمْتُ نَفْسِى وَأَسْلَمْتُ مَعَ سُلَيْمَـٰنَ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+    "verse": "She was told, \"Enter the palace.\" But when she saw it, she thought it was a body of water and uncovered her shins [to wade through]. He said, \"Indeed, it is a palace [whose floor is] made smooth with glass.\" She said, \"My Lord, indeed I have wronged myself, and I submit with Solomon to Allāh, Lord of the worlds.\" (27:44)"
+  },
+  "scramble": {
+    "verseRef": "51:47",
+    "reference": "Adh-Dhariyat (51:47)",
+    "segments": [
+      "وَٱلسَّمَآءَ بَنَيْنَـٰهَا",
+      "بِأَيْي۟دٍ",
+      "وَإِنَّا",
+      "لَمُوسِعُونَ"
+    ],
+    "translations": [
+      "And the heaven We constructed it",
+      "with strength",
+      "and indeed, We",
+      "(are) surely (its) Expanders"
+    ],
+    "hint": "This verse describes the immense power used to build the cosmos and a scientific concept about its nature.",
+    "arabic": "وَٱلسَّمَآءَ بَنَيْنَـٰهَا بِأَيْي۟دٍۢ وَإِنَّا لَمُوسِعُونَ",
+    "words": [
+      "وَٱلسَّمَآءَ بَنَيْنَـٰهَا",
+      "بِأَيْي۟دٍۢ",
+      "وَإِنَّا",
+      "لَمُوسِعُونَ"
+    ],
+    "verseEn": "And the heaven We constructed with strength, and indeed, We are [its] expander."
+  }
+}

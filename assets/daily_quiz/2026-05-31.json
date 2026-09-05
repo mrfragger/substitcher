@@ -1,0 +1,243 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "عَنَاصِرُ السَّمَاءِ",
+        "nameEn": "Celestial Elements",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "ٱلشَّمْسِ",
+            "en": "the sun",
+            "ref": "17:78",
+            "verse": "أَقِمِ ٱلصَّلَوٰةَ لِدُلُوكِ ٱلشَّمْسِ إِلَىٰ غَسَقِ ٱلَّيْلِ وَقُرْءَانَ ٱلْفَجْرِ ۖ إِنَّ قُرْءَانَ ٱلْفَجْرِ كَانَ مَشْهُودًۭا",
+            "verseEn": "Establish prayer at the decline of the sun [from its meridian] until the darkness of the night and [also] the Qur’ān [i.e., recitation] of dawn. Indeed, the recitation of dawn is ever witnessed."
+          },
+          {
+            "ar": "وَٱلنُّورَ",
+            "en": "and the light",
+            "ref": "6:1",
+            "verse": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ وَجَعَلَ ٱلظُّلُمَـٰتِ وَٱلنُّورَ ۖ ثُمَّ ٱلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ يَعْدِلُونَ",
+            "verseEn": "[All] praise is [due] to Allāh, who created the heavens and the earth and made the darkness and the light. Then those who disbelieve equate [others] with their Lord."
+          },
+          {
+            "ar": "وَٱلنَّجْمُ",
+            "en": "And the star",
+            "ref": "55:6",
+            "verse": "وَٱلنَّجْمُ وَٱلشَّجَرُ يَسْجُدَانِ",
+            "verseEn": "And the stars and trees prostrate."
+          },
+          {
+            "ar": "ٱلسَّمَآءِ",
+            "en": "the sky",
+            "ref": "14:32",
+            "verse": "ٱللَّهُ ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ وَأَنزَلَ مِنَ ٱلسَّمَآءِ مَآءًۭ فَأَخْرَجَ بِهِۦ مِنَ ٱلثَّمَرَٰتِ رِزْقًۭا لَّكُمْ ۖ وَسَخَّرَ لَكُمُ ٱلْفُلْكَ لِتَجْرِىَ فِى ٱلْبَحْرِ بِأَمْرِهِۦ ۖ وَسَخَّرَ لَكُمُ ٱلْأَنْهَـٰرَ",
+            "verseEn": "It is Allāh who created the heavens and the earth and sent down rain from the sky and produced thereby some fruits as provision for you and subjected for you the ships to sail through the sea by His command and subjected for you the rivers."
+          }
+        ]
+      },
+      {
+        "name": "عوائق الإدراك الروحي",
+        "nameEn": "Obstacles to Spiritual Perception",
+        "color": "green",
+        "items": [
+          {
+            "ar": "بُكْمٌۭ",
+            "en": "Dumb (spiritually unable to speak truth)",
+            "ref": "6:39",
+            "verse": "وَٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا صُمٌّۭ وَبُكْمٌۭ فِى ٱلظُّلُمَـٰتِ ۗ مَن يَشَإِ ٱللَّهُ يُضْلِلْهُ وَمَن يَشَأْ يَجْعَلْهُ عَلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ",
+            "verseEn": "But those who deny Our verses are deaf and dumb within darknesses. Whomever Allāh wills - He sends astray; and whomever He wills - He puts him on a straight path."
+          },
+          {
+            "ar": "صَمُّوا۟",
+            "en": "They became deaf (spiritually unwilling to hear truth)",
+            "ref": "5:71",
+            "verse": "وَحَسِبُوٓا۟ أَلَّا تَكُونَ فِتْنَةٌۭ فَعَمُوا۟ وَصَمُّوا۟ ثُمَّ تَابَ ٱللَّهُ عَلَيْهِمْ ثُمَّ عَمُوا۟ وَصَمُّوا۟ كَثِيرٌۭ مِّنْهُمْ ۚ وَٱللَّهُ بَصِيرٌۢ بِمَا يَعْمَلُونَ",
+            "verseEn": "And they thought there would be no [resulting] punishment, so they became blind and deaf. Then Allāh turned to them in forgiveness; then [again] many of them became blind and deaf. And Allāh is Seeing of what they do."
+          },
+          {
+            "ar": "ٱلْعُمْىَ",
+            "en": "The blind (spiritually unable to see truth)",
+            "ref": "43:40",
+            "verse": "أَفَأَنتَ تُسْمِعُ ٱلصُّمَّ أَوْ تَهْدِى ٱلْعُمْىَ وَمَن كَانَ فِى ضَلَـٰلٍۢ مُّبِينٍۢ",
+            "verseEn": "Then will you make the deaf hear, [O Muḥammad], or guide the blind or he who is in clear error?"
+          },
+          {
+            "ar": "خَتَمَ",
+            "en": "He sealed (divine sealing of hearts/senses due to rejection)",
+            "ref": "6:46",
+            "verse": "قُلْ أَرَءَيْتُمْ إِنْ أَخَذَ ٱللَّهُ سَمْعَكُمْ وَأَبْصَـٰرَكُمْ وَخَتَمَ عَلَىٰ قُلُوبِكُم مَّنْ إِلَـٰهٌ غَيْرُ ٱللَّهِ يَأْتِيكُم بِهِ ۗ ٱنظُرْ كَيْفَ نُصَرِّفُ ٱلْـَٔايَـٰتِ ثُمَّ هُمْ يَصْدِفُونَ",
+            "verseEn": "Say, \"Have you considered: if Allāh should take away your hearing and your sight and set a seal upon your hearts, which deity other than Allāh could bring them [back] to you?\" Look how We diversify the verses; then they [still] turn away."
+          }
+        ]
+      },
+      {
+        "name": "صفات الله المتعلقة بالمغفرة والعفو",
+        "nameEn": "Divine Attributes of Forgiveness and Clemency",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "غَفُورٌ",
+            "en": "Oft-Forgiving",
+            "ref": "2:218",
+            "verse": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَٱلَّذِينَ هَاجَرُوا۟ وَجَـٰهَدُوا۟ فِى سَبِيلِ ٱللَّهِ أُو۟لَـٰٓئِكَ يَرْجُونَ رَحْمَتَ ٱللَّهِ ۚ وَٱللَّهُ غَفُورٌۭ رَّحِيمٌۭ",
+            "verseEn": "Indeed, those who have believed and those who have emigrated and fought in the cause of Allāh - those expect the mercy of Allāh. And Allāh is Forgiving and Merciful."
+          },
+          {
+            "ar": "ٱلرَّحِيمُ",
+            "en": "The Merciful",
+            "ref": "9:118",
+            "verse": "وَعَلَى ٱلثَّلَـٰثَةِ ٱلَّذِينَ خُلِّفُوا۟ حَتَّىٰٓ إِذَا ضَاقَتْ عَلَيْهِمُ ٱلْأَرْضُ بِمَا رَحُبَتْ وَضَاقَتْ عَلَيْهِمْ أَنفُسُهُمْ وَظَنُّوٓا۟ أَن لَّا مَلْجَأَ مِنَ ٱللَّهِ إِلَّآ إِلَيْهِ ثُمَّ تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟ ۚ إِنَّ ٱللَّهَ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+            "verseEn": "And [He also forgave] the three who were left alone [i.e., boycotted, regretting their error] to the point that the earth closed in on them in spite of its vastness and their souls confined [i.e., anguished] them and they were certain that there is no refuge from Allāh except in Him. Then He turned to them so they could repent. Indeed, Allāh is the Accepting of Repentance, the Merciful."
+          },
+          {
+            "ar": "عَفُوٌّ",
+            "en": "Pardoner",
+            "ref": "58:2",
+            "verse": "ٱلَّذِينَ يُظَـٰهِرُونَ مِنكُم مِّن نِّسَآئِهِم مَّا هُنَّ أُمَّهَـٰتِهِمْ ۖ إِنْ أُمَّهَـٰتُهُمْ إِلَّا ٱلَّـٰٓـِٔى وَلَدْنَهُمْ ۚ وَإِنَّهُمْ لَيَقُولُونَ مُنكَرًۭا مِّنَ ٱلْقَوْلِ وَزُورًۭا ۚ وَإِنَّ ٱللَّهَ لَعَفُوٌّ غَفُورٌۭ",
+            "verseEn": "Those who pronounce ẓihār among you [to separate] from their wives - they are not [consequently] their mothers. Their mothers are none but those who gave birth to them. And indeed, they are saying an objectionable statement and a falsehood. But indeed, Allāh is Pardoning and Forgiving."
+          },
+          {
+            "ar": "تَوَّابًا",
+            "en": "Oft-Returning (in forgiveness)",
+            "ref": "4:16",
+            "verse": "وَٱلَّذَانِ يَأْتِيَـٰنِهَا مِنكُمْ فَـَٔاذُوهُمَا ۖ فَإِن تَابَا وَأَصْلَحَا فَأَعْرِضُوا۟ عَنْهُمَآ ۗ إِنَّ ٱللَّهَ كَانَ تَوَّابًۭا رَّحِيمًا",
+            "verseEn": "And the two who commit it [i.e., unlawful sexual intercourse] among you - punish [i.e., dishonor] them both. But if they repent and correct themselves, leave them alone. Indeed, Allāh is ever Accepting of Repentance and Merciful."
+          }
+        ]
+      },
+      {
+        "name": "أَوْهَامُ وَخِدَاعُ الضَّلَالِ",
+        "nameEn": "Illusions and Deceptions of Misguidance",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "ظُلُمَٰتٍۢ",
+            "en": "darknesses",
+            "ref": "24:40",
+            "verse": "أَوْ كَظُلُمَـٰتٍۢ فِى بَحْرٍۢ لُّجِّىٍّۢ يَغْشَىٰهُ مَوْجٌۭ مِّن فَوْقِهِۦ مَوْجٌۭ مِّن فَوْقِهِۦ سَحَابٌۭ ۚ ظُلُمَـٰتٌۢ بَعْضُهَا فَوْقَ بَعْضٍ إِذَآ أَخْرَجَ يَدَهُۥ لَمْ يَكَدْ يَرَىٰهَا ۗ وَمَن لَّمْ يَجْعَلِ ٱللَّهُ لَهُۥ نُورًۭا فَمَا لَهُۥ مِن نُّورٍ",
+            "verseEn": "Or [they are] like darknesses within an unfathomable sea which is covered by waves, upon which are waves, over which are clouds - darknesses, some of them upon others. When one puts out his hand [therein], he can hardly see it. And he to whom Allāh has not granted light - for him there is no light."
+          },
+          {
+            "ar": "سِحْرٍ",
+            "en": "magic",
+            "ref": "7:116",
+            "verse": "قَالَ أَلْقُوا۟ ۖ فَلَمَّآ أَلْقَوْا۟ سَحَرُوٓا۟ أَعْيُنَ ٱلنَّاسِ وَٱسْتَرْهَبُوهُمْ وَجَآءُو بِسِحْرٍ عَظِيمٍۢ",
+            "verseEn": "He said, \"Throw,\" and when they threw, they bewitched the eyes of the people and struck terror into them, and they presented a great [feat of] magic."
+          },
+          {
+            "ar": "مَكْرَ",
+            "en": "plot",
+            "ref": "7:99",
+            "verse": "أَفَأَمِنُوا۟ مَكْرَ ٱللَّهِ ۚ فَلَا يَأْمَنُ مَكْرَ ٱللَّهِ إِلَّا ٱلْقَوْمُ ٱلْخَـٰسِرُونَ",
+            "verseEn": "Then, did they feel secure from the plan of Allāh? But no one feels secure from the plan of Allāh except the losing people."
+          },
+          {
+            "ar": "ٱلْبَٰطِلِ",
+            "en": "falsehood",
+            "ref": "21:18",
+            "verse": "بَلْ نَقْذِفُ بِٱلْحَقِّ عَلَى ٱلْبَـٰطِلِ فَيَدْمَغُهُۥ فَإِذَا هُوَ زَاهِقٌۭ ۚ وَلَكُمُ ٱلْوَيْلُ مِمَّا تَصِفُونَ",
+            "verseEn": "Rather, We dash the truth upon falsehood, and it destroys it, and thereupon it departs. And for you is destruction from that which you describe."
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "صراط",
+    "display": "صِرَاط",
+    "hint": "The straight path in Islamic context",
+    "verseRef": "1:6",
+    "arabicVerse": "ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ",
+    "verse": "1:6 - Guide us to the straight path -"
+  },
+  "deduction": {
+    "title": "The Perished Witnesses",
+    "intro": "In an age long past, a community dwelled in a land crossroads between empires. Their prophet called them toward the path of truth, yet they clung to disbelief and oppression. This story ends in divine retribution. Can you identify this nation and their fate from the clues below?",
+    "clues": [
+      "A people rejected the warning brought by one of their own messengers.",
+      "The messenger called us to worship Allah alone and warned against corruption.",
+      "Our transgression was rejecting the prophet sent among us with righteousness.",
+      "We doubted the messenger's authority and accused him of deception.",
+      "The punishment overtook us while we were dwelling securely in our homes.",
+      "We were destroyed for denying our prophet and persecuting the believers."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Shu'aib",
+          "Ibrahim",
+          "Lut",
+          "Nuh",
+          "Musa"
+        ],
+        "answer": "Shu'aib"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "Receiving a prophet who called to righteousness",
+          "Being tested with a famine",
+          "Having a dream interpreted",
+          "Receiving the Torah",
+          "Journeying through the sea"
+        ],
+        "answer": "Receiving a prophet who called to righteousness"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "Midian",
+          "Babylon",
+          "Sodom",
+          "The Red Sea",
+          "The Ark"
+        ],
+        "answer": "Midian"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "The people were destroyed for disbelief",
+          "The people repented and were guided",
+          "The people entered Paradise",
+          "The people survived and prospered",
+          "The people migrated to a new land"
+        ],
+        "answer": "The people were destroyed for disbelief"
+      }
+    },
+    "verseRef": "29:36",
+    "arabic": "وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًۭا فَقَالَ يَـٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ وَٱرْجُوا۟ ٱلْيَوْمَ ٱلْـَٔاخِرَ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ",
+    "verse": "And to Madyan [We sent] their brother Shuʿayb, and he said, \"O my people, worship Allāh and expect the Last Day and do not commit abuse on the earth, spreading corruption.\" (29:36)"
+  },
+  "scramble": {
+    "verseRef": "67:1",
+    "reference": "Surah Al-Mulk (67:1)",
+    "segments": [
+      "Tabāraka alladhī",
+      "biyadihi l-mulku",
+      "wa-huwa ʿalā",
+      "kulli shayʾin",
+      "qadīr"
+    ],
+    "translations": [
+      "Blessed is He",
+      "in Whose Hand (is) the Dominion",
+      "and He (is) over",
+      "every thing",
+      "All-Powerful"
+    ],
+    "hint": "This verse praises Allah's absolute sovereignty and power over all creation.",
+    "arabic": "تَبَـٰرَكَ ٱلَّذِى بِيَدِهِ ٱلْمُلْكُ وَهُوَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌ",
+    "words": [
+      "تَبَـٰرَكَ ٱلَّذِى",
+      "بِيَدِهِ ٱلْمُلْكُ",
+      "وَهُوَ عَلَىٰ",
+      "كُلِّ شَىْءٍۢ",
+      "قَدِيرٌ"
+    ],
+    "verseEn": "Blessed is He in whose hand is dominion, and He is over all things competent -"
+  }
+}

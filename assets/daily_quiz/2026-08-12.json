@@ -1,0 +1,246 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَنْوَاعُ الْمَسَاكِنِ فِي الْقُرْآنِ",
+        "nameEn": "Dwellings in the Quran",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "بُيُوتًا",
+            "en": "houses",
+            "ref": "24:27",
+            "verse": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَدْخُلُوا۟ بُيُوتًا غَيْرَ بُيُوتِكُمْ حَتَّىٰ تَسْتَأْنِسُوا۟ وَتُسَلِّمُوا۟ عَلَىٰٓ أَهْلِهَا ۚ ذَٰلِكُمْ خَيْرٌۭ لَّكُمْ لَعَلَّكُمْ تَذَكَّرُونَ",
+            "verseEn": "O you who have believed, do not enter houses other than your own houses until you ascertain welcome and greet their inhabitants. That is best for you; perhaps you will be reminded [i.e., advised]."
+          },
+          {
+            "ar": "ٱلْغُرُفَٰتِ",
+            "en": "the high dwellings",
+            "ref": "34:37",
+            "verse": "وَمَآ أَمْوَٰلُكُمْ وَلَآ أَوْلَـٰدُكُم بِٱلَّتِى تُقَرِّبُكُمْ عِندَنَا زُلْفَىٰٓ إِلَّا مَنْ ءَامَنَ وَعَمِلَ صَـٰلِحًۭا فَأُو۟لَـٰٓئِكَ لَهُمْ جَزَآءُ ٱلضِّعْفِ بِمَا عَمِلُوا۟ وَهُمْ فِى ٱلْغُرُفَـٰتِ ءَامِنُونَ",
+            "verseEn": "And it is not your wealth or your children that bring you nearer to Us in position, but it is [by being] one who has believed and done righteousness. For them there will be the double reward for what they did, and they will be in the upper chambers [of Paradise], safe [and secure]."
+          },
+          {
+            "ar": "دَارِ",
+            "en": "(the) Home",
+            "ref": "10:25",
+            "verse": "وَٱللَّهُ يَدْعُوٓا۟ إِلَىٰ دَارِ ٱلسَّلَـٰمِ وَيَهْدِى مَن يَشَآءُ إِلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ",
+            "verseEn": "And Allāh invites to the Home of Peace [i.e., Paradise] and guides whom He wills to a straight path."
+          },
+          {
+            "ar": "قَرْيَةٍ",
+            "en": "a town",
+            "ref": "65:8",
+            "verse": "وَكَأَيِّن مِّن قَرْيَةٍ عَتَتْ عَنْ أَمْرِ رَبِّهَا وَرُسُلِهِۦ فَحَاسَبْنَـٰهَا حِسَابًۭا شَدِيدًۭا وَعَذَّبْنَـٰهَا عَذَابًۭا نُّكْرًۭا",
+            "verseEn": "And how many a city was insolent toward the command of its Lord and His messengers, so We took it to severe account and punished it with a terrible punishment."
+          }
+        ]
+      },
+      {
+        "name": "آيَاتُ سُورَةِ فُصِّلَتْ",
+        "nameEn": "Signs in Surah Fussilat",
+        "color": "green",
+        "items": [
+          {
+            "ar": "الْأَرْضَ",
+            "en": "the earth",
+            "ref": "41:39",
+            "verse": "وَمِنْ ءَايَـٰتِهِۦٓ أَنَّكَ تَرَى ٱلْأَرْضَ خَـٰشِعَةًۭ فَإِذَآ أَنزَلْنَا عَلَيْهَا ٱلْمَآءَ ٱهْتَزَّتْ وَرَبَتْ ۚ إِنَّ ٱلَّذِىٓ أَحْيَاهَا لَمُحْىِ ٱلْمَوْتَىٰٓ ۚ إِنَّهُۥ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌ",
+            "verseEn": "And of His signs is that you see the earth stilled, but when We send down upon it rain, it quivers and grows. Indeed, He who has given it life is the Giver of Life to the dead. Indeed, He is over all things competent."
+          },
+          {
+            "ar": "الذِّكْرِ",
+            "en": "in the Reminder",
+            "ref": "41:41",
+            "verse": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ بِٱلذِّكْرِ لَمَّا جَآءَهُمْ ۖ وَإِنَّهُۥ لَكِتَـٰبٌ عَزِيزٌۭ",
+            "verseEn": "Indeed, those who disbelieve in the message [i.e., the Qur’ān] after it has come to them... And indeed, it is a mighty Book."
+          },
+          {
+            "ar": "تَنزِيلٌ",
+            "en": "A Revelation",
+            "ref": "41:42",
+            "verse": "لَّا يَأْتِيهِ ٱلْبَـٰطِلُ مِنۢ بَيْنِ يَدَيْهِ وَلَا مِنْ خَلْفِهِۦ ۖ تَنزِيلٌۭ مِّنْ حَكِيمٍ حَمِيدٍۢ",
+            "verseEn": "Falsehood cannot approach it from before it or from behind it; [it is] a revelation from a [Lord who is] Wise and Praiseworthy."
+          },
+          {
+            "ar": "الْآفَاقِ",
+            "en": "the horizons",
+            "ref": "41:53",
+            "verse": "سَنُرِيهِمْ ءَايَـٰتِنَا فِى ٱلْـَٔافَاقِ وَفِىٓ أَنفُسِهِمْ حَتَّىٰ يَتَبَيَّنَ لَهُمْ أَنَّهُ ٱلْحَقُّ ۗ أَوَلَمْ يَكْفِ بِرَبِّكَ أَنَّهُۥ عَلَىٰ كُلِّ شَىْءٍۢ شَهِيدٌ",
+            "verseEn": "We will show them Our signs in the horizons and within themselves until it becomes clear to them that it is the truth. But is it not sufficient concerning your Lord that He is, over all things, a Witness?"
+          }
+        ]
+      },
+      {
+        "name": "أَصْنَافُ الْمُنْعَمِ عَلَيْهِمْ",
+        "nameEn": "The Four Categories of the Favored",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "النَّبِيِّينَ",
+            "en": "and the Prophets",
+            "ref": "3:80",
+            "verse": "وَلَا يَأْمُرَكُمْ أَن تَتَّخِذُوا۟ ٱلْمَلَـٰٓئِكَةَ وَٱلنَّبِيِّـۧنَ أَرْبَابًا ۗ أَيَأْمُرُكُم بِٱلْكُفْرِ بَعْدَ إِذْ أَنتُم مُّسْلِمُونَ",
+            "verseEn": "Nor could he order you to take the angels and prophets as lords. Would he order you to disbelief after you had been Muslims?"
+          },
+          {
+            "ar": "الصِّدِّيقِينَ",
+            "en": "and the truthful",
+            "ref": "4:69",
+            "verse": "وَمَن يُطِعِ ٱللَّهَ وَٱلرَّسُولَ فَأُو۟لَـٰٓئِكَ مَعَ ٱلَّذِينَ أَنْعَمَ ٱللَّهُ عَلَيْهِم مِّنَ ٱلنَّبِيِّـۧنَ وَٱلصِّدِّيقِينَ وَٱلشُّهَدَآءِ وَٱلصَّـٰلِحِينَ ۚ وَحَسُنَ أُو۟لَـٰٓئِكَ رَفِيقًۭا",
+            "verseEn": "And whoever obeys Allāh and the Messenger - those will be with the ones upon whom Allāh has bestowed favor of the prophets, the steadfast affirmers of truth, the martyrs and the righteous. And excellent are those as companions."
+          },
+          {
+            "ar": "الشُّهَدَاءِ",
+            "en": "and the witnesses",
+            "ref": "39:69",
+            "verse": "وَأَشْرَقَتِ ٱلْأَرْضُ بِنُورِ رَبِّهَا وَوُضِعَ ٱلْكِتَـٰبُ وَجِا۟ىٓءَ بِٱلنَّبِيِّـۧنَ وَٱلشُّهَدَآءِ وَقُضِىَ بَيْنَهُم بِٱلْحَقِّ وَهُمْ لَا يُظْلَمُونَ",
+            "verseEn": "And the earth will shine with the light of its Lord, and the record [of deeds] will be placed, and the prophets and the witnesses will be brought, and it will be judged between them in truth, and they will not be wronged."
+          },
+          {
+            "ar": "الصَّالِحِينَ",
+            "en": "the righteous",
+            "ref": "3:114",
+            "verse": "يُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَيَأْمُرُونَ بِٱلْمَعْرُوفِ وَيَنْهَوْنَ عَنِ ٱلْمُنكَرِ وَيُسَـٰرِعُونَ فِى ٱلْخَيْرَٰتِ وَأُو۟لَـٰٓئِكَ مِنَ ٱلصَّـٰلِحِينَ",
+            "verseEn": "They believe in Allāh and the Last Day, and they enjoin what is right and forbid what is wrong and hasten to good deeds. And those are among the righteous."
+          }
+        ]
+      },
+      {
+        "name": "مَا تَحَدَّى بِهِ الْمُشْرِكُونَ",
+        "nameEn": "What the Disbelievers Are Challenged to Produce",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "سُورَةٍ",
+            "en": "a Surah",
+            "ref": "10:38",
+            "verse": "أَمْ يَقُولُونَ ٱفْتَرَىٰهُ ۖ قُلْ فَأْتُوا۟ بِسُورَةٍۢ مِّثْلِهِۦ وَٱدْعُوا۟ مَنِ ٱسْتَطَعْتُم مِّن دُونِ ٱللَّهِ إِن كُنتُمْ صَـٰدِقِينَ",
+            "verseEn": "Or do they say [about the Prophet (ﷺ)], \"He invented it?\" Say, \"Then bring forth a sūrah like it and call upon [for assistance] whomever you can besides Allāh, if you should be truthful.\""
+          },
+          {
+            "ar": "كِتَابٍ",
+            "en": "a Book",
+            "ref": "28:49",
+            "verse": "قُلْ فَأْتُوا۟ بِكِتَـٰبٍۢ مِّنْ عِندِ ٱللَّهِ هُوَ أَهْدَىٰ مِنْهُمَآ أَتَّبِعْهُ إِن كُنتُمْ صَـٰدِقِينَ",
+            "verseEn": "Say, \"Then bring a scripture from Allāh which is more guiding than either of them that I may follow it, if you should be truthful.\""
+          },
+          {
+            "ar": "حَدِيثٍ",
+            "en": "a statement",
+            "ref": "52:34",
+            "verse": "فَلْيَأْتُوا۟ بِحَدِيثٍۢ مِّثْلِهِۦٓ إِن كَانُوا۟ صَـٰدِقِينَ",
+            "verseEn": "Then let them produce a statement like it, if they should be truthful."
+          },
+          {
+            "ar": "آيَةٌ",
+            "en": "a sign",
+            "ref": "6:109",
+            "verse": "وَأَقْسَمُوا۟ بِٱللَّهِ جَهْدَ أَيْمَـٰنِهِمْ لَئِن جَآءَتْهُمْ ءَايَةٌۭ لَّيُؤْمِنُنَّ بِهَا ۚ قُلْ إِنَّمَا ٱلْـَٔايَـٰتُ عِندَ ٱللَّهِ ۖ وَمَا يُشْعِرُكُمْ أَنَّهَآ إِذَا جَآءَتْ لَا يُؤْمِنُونَ",
+            "verseEn": "And they swear by Allāh their strongest oaths that if a sign came to them, they would surely believe in it. Say, \"The signs are only with [i.e., from] Allāh.\" And what will make you perceive that even if it [i.e., a sign] came, they would not believe."
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "جهاد",
+    "display": "جِهَاد",
+    "hint": "A praiseworthy struggle in the cause of Allah.",
+    "verseRef": "22:78",
+    "arabicVerse": "وَجَـٰهِدُوا۟ فِى ٱللَّهِ حَقَّ جِهَادِهِۦ ۚ هُوَ ٱجْتَبَىٰكُمْ وَمَا جَعَلَ عَلَيْكُمْ فِى ٱلدِّينِ مِنْ حَرَجٍۢ ۚ مِّلَّةَ أَبِيكُمْ إِبْرَٰهِيمَ ۚ هُوَ سَمَّىٰكُمُ ٱلْمُسْلِمِينَ مِن قَبْلُ وَفِى هَـٰذَا لِيَكُونَ ٱلرَّسُولُ شَهِيدًا عَلَيْكُمْ وَتَكُونُوا۟ شُهَدَآءَ عَلَى ٱلنَّاسِ ۚ فَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَٱعْتَصِمُوا۟ بِٱللَّهِ هُوَ مَوْلَىٰكُمْ ۖ فَنِعْمَ ٱلْمَوْلَىٰ وَنِعْمَ ٱلنَّصِيرُ",
+    "verse": "22:78 - And strive for Allāh with the striving due to Him. He has chosen you and has not placed upon you in the religion any difficulty. [It is] the religion of your father, Abraham. He [i.e., Allāh] named you \"Muslims\" before [in former scriptures] and in this [revelation] that the Messenger may be a witness over you and you may be witnesses over the people. So establish prayer and give zakāh and hold fast to Allāh. He is your protector; and excellent is the protector, and excellent is the helper."
+  },
+  "deduction": {
+    "title": "The Envoys of Mercy and Might",
+    "intro": "Imagine a quiet afternoon interrupted by the arrival of unfamiliar travelers. Their appearance is ordinary, but their purpose is anything but. They carry a divine message that will alter the course of two nations, bringing laughter to a barren home and terror to a sinful city. Who are these mysterious visitors?",
+    "clues": [
+      "We were sent to a devoted servant of Allah, known for their boundless hospitality.",
+      "We arrived in the guise of strangers, and yet our host sensed something otherworldly about our presence.",
+      "We brought tidings that made an elderly woman laugh in disbelief, striking her own face in astonishment.",
+      "We were tasked with protecting a righteous family while raining destruction upon a city steeped in corruption.",
+      "We refused to partake in the meal offered to us, which only deepened the suspicion of our host.",
+      "We revealed our true nature only before departing, saying, 'Indeed, we are messengers of your Lord.'"
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Are We?",
+        "options": [
+          "The Guests of Abraham",
+          "The Disciples of Jesus",
+          "The Companions of the Cave",
+          "The Army of Abraha",
+          "The Messengers of Ya-Sin"
+        ],
+        "answer": "The Guests of Abraham"
+      },
+      "trial": {
+        "label": "Our Mission",
+        "options": [
+          "To test Abraham's faith regarding his son",
+          "To deliver the scripture to Abraham",
+          "To announce the birth of Isaac and the destruction of Lot's people",
+          "To guide Abraham to the Kaaba",
+          "To rescue Abraham from the fire"
+        ],
+        "answer": "To announce the birth of Isaac and the destruction of Lot's people"
+      },
+      "location": {
+        "label": "Place of Appearance",
+        "options": [
+          "In the land of Egypt",
+          "In the city of Ur",
+          "At Abraham's home",
+          "In the garden of Eden",
+          "At the well of Zamzam"
+        ],
+        "answer": "At Abraham's home"
+      },
+      "outcome": {
+        "label": "The Result",
+        "options": [
+          "Abraham became a king",
+          "Abraham built the Kaaba",
+          "Sarah gave birth to Isaac and Lot's people were destroyed",
+          "Abraham migrated to Palestine",
+          "Abraham's people were saved from a great flood"
+        ],
+        "answer": "Sarah gave birth to Isaac and Lot's people were destroyed"
+      }
+    },
+    "verseRef": "15:51",
+    "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+    "verse": "And inform them about the guests of Abraham, (15:51)"
+  },
+  "scramble": {
+    "verseRef": "11:43",
+    "reference": "Surah Hud (11:43)",
+    "segments": [
+      "لَا تَقُولُوا",
+      "لِمَن يُقْتَلُ",
+      "فِي سَبِيلِ اللَّهِ",
+      "أَمْوَاتٌ",
+      "بَلْ أَحْيَاءٌ",
+      "وَلَٰكِن لَّا تَشْعُرُونَ"
+    ],
+    "translations": [
+      "He said I will betake myself to a mountain",
+      "(that) will save me from the water He said",
+      "(There is) no protector today from",
+      "the Command of Allah the Command of Allah except (on) whom",
+      "He has mercy And came (in) between them the waves",
+      "so he was among the drowned"
+    ],
+    "hint": "About the status of those who sacrifice their lives in Allah's cause — they are alive, not dead.",
+    "arabic": "قَالَ سَـَٔاوِىٓ إِلَىٰ جَبَلٍۢ يَعْصِمُنِى مِنَ ٱلْمَآءِ ۚ قَالَ لَا عَاصِمَ ٱلْيَوْمَ مِنْ أَمْرِ ٱللَّهِ إِلَّا مَن رَّحِمَ ۚ وَحَالَ بَيْنَهُمَا ٱلْمَوْجُ فَكَانَ مِنَ ٱلْمُغْرَقِينَ",
+    "words": [
+      "قَالَ سَـَٔاوِىٓ إِلَىٰ جَبَلٍۢ",
+      "يَعْصِمُنِى مِنَ ٱلْمَآءِ ۚ قَالَ",
+      "لَا عَاصِمَ ٱلْيَوْمَ مِنْ",
+      "أَمْرِ ٱللَّهِ إِلَّا مَن",
+      "رَّحِمَ ۚ وَحَالَ بَيْنَهُمَا ٱلْمَوْجُ",
+      "فَكَانَ مِنَ ٱلْمُغْرَقِينَ"
+    ],
+    "verseEn": "[But] he said, \"I will take refuge on a mountain to protect me from the water.\" [Noah] said, \"There is no protector today from the decree of Allāh, except for whom He gives mercy.\" And the waves came between them, and he was among the drowned."
+  }
+}

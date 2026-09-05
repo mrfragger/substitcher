@@ -19,7 +19,7 @@ Copyright 2013, the Dart project authors.
 Provides internationalization and localization facilities, including message translation, plurals and genders, date/number formatting and parsing, and bidirectional text.
 
 characters BSD-3 License
-Copyright 2019, the Dart project authors. 
+Copyright 2019, the Dart project authors.
 Characters are strings viewed as sequences of user-perceived characters, also known as Unicode (extended) grapheme clusters.
 The Characters class allows access to the individual characters of a string, and a way to navigate back and forth between them using a CharacterRange.
 Based on Unicode version 16.0.0.
@@ -45,7 +45,7 @@ Copyright (c) 2021 & onwards Hitesh Kumar Saini <saini123hitesh@gmail.com>
 libmpv (included in media_kit dart)
 This application uses libmpv, which is licensed under the LGPL v2.1
 Source code: https://github.com/mpv-player/mpv
-mpv 0.36.0  -Dgpl=false -Dcplayer=false -Dlibmpv=true 
+mpv 0.36.0  -Dgpl=false -Dcplayer=false -Dlibmpv=true
 
 whisper.cpp for transcribing MIT License
 Copyright (c) 2023-2024 The ggml authors
@@ -57,7 +57,7 @@ DeepFilterNet3 The MIT License (MIT)
 Copyright (c) 2021 Hendrik Schröter
 
 adhan clock MIT License
-opus files and some code logic from 
+opus files and some code logic from
 https://github.com/azanclock/PWA
 Copyright (c) 2022 AzanClock.com
 
@@ -73,6 +73,14 @@ x264 and x265 are GPL so can't be included
  --disable-gpl --disable-nonfree
 built with Apple clang version 17.0.0 (clang-1700.6.3.2)
 configuration: --prefix=/Users/me/.cache/ffmpeg-build/build-arm64 --disable-shared --enable-static --disable-gpl --disable-nonfree --disable-doc --disable-debug --disable-everything --disable-xlib --disable-libxcb --disable-libxcb-shm --disable-libxcb-xfixes --disable-libxcb-shape --enable-ffmpeg --enable-ffprobe --enable-videotoolbox --enable-audiotoolbox --enable-libopus --enable-decoder='opus,libopus,aac,aac_fixed,aac_latm,mp3,mp3float,pcm_s16le,pcm_s24le,pcm_f32le,flac,vorbis,alac' --enable-encoder='libopus,aac,pcm_s16le' --enable-demuxer='ffmetadata,concat,opus,ogg,matroska,wav,mp3,aac,m4a,mov,flac' --enable-muxer='ffmetadata,opus,ogg,matroska,wav,ipod,mp4' --enable-parser='opus,aac,aac_latm,mp3,flac,vorbis' --enable-protocol=file --enable-filter='volume,equalizer,highpass,lowpass,aformat,aresample,atempo,silenceremove,afftdn,dynaudnorm' --extra-cflags=-I/Users/me/.cache/ffmpeg-build/opus-build-arm64/include --extra-ldflags=-L/Users/me/.cache/ffmpeg-build/opus-build-arm64/lib --arch=arm64 --cc='clang -arch arm64'
+
+Quiz and Related tab data is from
+https://github.com/sudosar/quraniq-source
+A Request for Du'a
+
+QuranIQ was built entirely using free and open technology created by generous people around the world. Nothing in this world truly comes for free — these services are sustained by the time, effort, and generosity of their creators and communities.
+
+We humbly ask you to make du'a for the people behind these projects — that Allah rewards them abundantly, blesses their work, and guides them to what is best. And if you are able, consider donating to support their noble efforts.
 
 ========================================================================
 

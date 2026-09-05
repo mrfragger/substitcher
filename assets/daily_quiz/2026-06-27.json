@@ -1,0 +1,241 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "اَلْأُمَمُ الْمُهْلَكَةُ",
+        "nameEn": "Destroyed Nations in the Quran",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "عَادٌ",
+            "en": "Aad",
+            "ref": "11:60",
+            "verse": "وَأُتْبِعُوا۟ فِى هَـٰذِهِ ٱلدُّنْيَا لَعْنَةًۭ وَيَوْمَ ٱلْقِيَـٰمَةِ ۗ أَلَآ إِنَّ عَادًۭا كَفَرُوا۟ رَبَّهُمْ ۗ أَلَا بُعْدًۭا لِّعَادٍۢ قَوْمِ هُودٍۢ",
+            "verseEn": "And they were [therefore] followed in this world with a curse and [as well] on the Day of Resurrection. Unquestionably, ʿAad denied their Lord; then away with ʿAad, the people of Hūd."
+          },
+          {
+            "ar": "ثَمُودٌ",
+            "en": "Thamud",
+            "ref": "11:61",
+            "verse": "۞ وَإِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًۭا ۚ قَالَ يَـٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَـٰهٍ غَيْرُهُۥ ۖ هُوَ أَنشَأَكُم مِّنَ ٱلْأَرْضِ وَٱسْتَعْمَرَكُمْ فِيهَا فَٱسْتَغْفِرُوهُ ثُمَّ تُوبُوٓا۟ إِلَيْهِ ۚ إِنَّ رَبِّى قَرِيبٌۭ مُّجِيبٌۭ",
+            "verseEn": "And to Thamūd [We sent] their brother Ṣāliḥ. He said, \"O my people, worship Allāh; you have no deity other than Him. He has produced you from the earth and settled you in it, so ask forgiveness of Him and then repent to Him. Indeed, my Lord is near and responsive.\""
+          },
+          {
+            "ar": "مَدْيَنٌ",
+            "en": "Midian",
+            "ref": "11:95",
+            "verse": "كَأَن لَّمْ يَغْنَوْا۟ فِيهَآ ۗ أَلَا بُعْدًۭا لِّمَدْيَنَ كَمَا بَعِدَتْ ثَمُودُ",
+            "verseEn": "As if they had never prospered therein. Then, away with Madyan as Thamūd was taken away."
+          },
+          {
+            "ar": "تُبَّعٌ",
+            "en": "Tubba'",
+            "ref": "44:37",
+            "verse": "أَهُمْ خَيْرٌ أَمْ قَوْمُ تُبَّعٍۢ وَٱلَّذِينَ مِن قَبْلِهِمْ ۚ أَهْلَكْنَـٰهُمْ ۖ إِنَّهُمْ كَانُوا۟ مُجْرِمِينَ",
+            "verseEn": "Are they better or the people of Tubbaʿ and those before them? We destroyed them, [for] indeed, they were criminals."
+          }
+        ]
+      },
+      {
+        "name": "المُقْسَماتُ الطَّبِيعِيَّةُ فِي القُرْآنِ",
+        "nameEn": "Natural Oath Subjects in the Quran",
+        "color": "green",
+        "items": [
+          {
+            "ar": "السَّمَاءِ",
+            "en": "the sky",
+            "ref": "91:5",
+            "verse": "وَٱلسَّمَآءِ وَمَا بَنَىٰهَا",
+            "verseEn": "And [by] the sky and He who constructed it"
+          },
+          {
+            "ar": "الْأَرْضِ",
+            "en": "the earth",
+            "ref": "91:6",
+            "verse": "وَٱلْأَرْضِ وَمَا طَحَىٰهَا",
+            "verseEn": "And [by] the earth and He who spread it"
+          },
+          {
+            "ar": "اللَّيْلِ",
+            "en": "the night",
+            "ref": "93:2",
+            "verse": "وَٱلَّيْلِ إِذَا سَجَىٰ",
+            "verseEn": "And [by] the night when it covers with darkness,"
+          },
+          {
+            "ar": "النَّهَارِ",
+            "en": "the day",
+            "ref": "92:2",
+            "verse": "وَٱلنَّهَارِ إِذَا تَجَلَّىٰ",
+            "verseEn": "And [by] the day when it appears"
+          }
+        ]
+      },
+      {
+        "name": "طَلَبَاتُ مُوسَى الْأَرْبَعَةُ فِي سُورَةِ طه",
+        "nameEn": "Musa's Four Requests in Surah Ta-Ha",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "صَدْرِي",
+            "en": "my chest/breast",
+            "ref": "20:25",
+            "verse": "قَالَ رَبِّ ٱشْرَحْ لِى صَدْرِى",
+            "verseEn": "[Moses] said, \"My Lord, expand [i.e., relax] for me my breast [with assurance]"
+          },
+          {
+            "ar": "أَمْرِي",
+            "en": "my affair",
+            "ref": "20:26",
+            "verse": "وَيَسِّرْ لِىٓ أَمْرِى",
+            "verseEn": "And ease for me my task"
+          },
+          {
+            "ar": "لِسَانِي",
+            "en": "my tongue",
+            "ref": "20:27",
+            "verse": "وَٱحْلُلْ عُقْدَةًۭ مِّن لِّسَانِى",
+            "verseEn": "And untie the knot from my tongue"
+          },
+          {
+            "ar": "وَزِيرًا",
+            "en": "a minister/helper",
+            "ref": "20:29",
+            "verse": "وَٱجْعَل لِّى وَزِيرًۭا مِّنْ أَهْلِى",
+            "verseEn": "And appoint for me a minister [i.e., assistant] from my family -"
+          }
+        ]
+      },
+      {
+        "name": "مُفْرَدَاتٌ مِنْ قِصَّةِ ذِي ٱلْقَرْنَيْنِ",
+        "nameEn": "Key Elements from the Story of Dhul-Qarnayn",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "سَبَبًا",
+            "en": "a means/a course",
+            "ref": "18:85",
+            "verse": "فَأَتْبَعَ سَبَبًا",
+            "verseEn": "So he followed a way"
+          },
+          {
+            "ar": "مَطْلِعَ",
+            "en": "the rising place",
+            "ref": "18:90",
+            "verse": "حَتَّىٰٓ إِذَا بَلَغَ مَطْلِعَ ٱلشَّمْسِ وَجَدَهَا تَطْلُعُ عَلَىٰ قَوْمٍۢ لَّمْ نَجْعَل لَّهُم مِّن دُونِهَا سِتْرًۭا",
+            "verseEn": "Until, when he came to the rising of the sun [i.e., the east], he found it rising on a people for whom We had not made against it any shield."
+          },
+          {
+            "ar": "ٱلسَّدَّيْنِ",
+            "en": "the two barriers",
+            "ref": "18:93",
+            "verse": "حَتَّىٰٓ إِذَا بَلَغَ بَيْنَ ٱلسَّدَّيْنِ وَجَدَ مِن دُونِهِمَا قَوْمًۭا لَّا يَكَادُونَ يَفْقَهُونَ قَوْلًۭا",
+            "verseEn": "Until, when he reached [a pass] between two mountains, he found beside them a people who could hardly understand [his] speech."
+          },
+          {
+            "ar": "نَقْبًا",
+            "en": "a passage/a breach",
+            "ref": "18:97",
+            "verse": "فَمَا ٱسْطَـٰعُوٓا۟ أَن يَظْهَرُوهُ وَمَا ٱسْتَطَـٰعُوا۟ لَهُۥ نَقْبًۭا",
+            "verseEn": "So they [i.e., Gog and Magog] were unable to pass over it, nor were they able [to effect] in it any penetration."
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "سلطان",
+    "display": "سُلْطَانٍ",
+    "hint": "Authority or clear proof granted by God to His messengers",
+    "verseRef": "14:10",
+    "arabicVerse": "۞ قَالَتْ رُسُلُهُمْ أَفِى ٱللَّهِ شَكٌّۭ فَاطِرِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ يَدْعُوكُمْ لِيَغْفِرَ لَكُم مِّن ذُنُوبِكُمْ وَيُؤَخِّرَكُمْ إِلَىٰٓ أَجَلٍۢ مُّسَمًّۭى ۚ قَالُوٓا۟ إِنْ أَنتُمْ إِلَّا بَشَرٌۭ مِّثْلُنَا تُرِيدُونَ أَن تَصُدُّونَا عَمَّا كَانَ يَعْبُدُ ءَابَآؤُنَا فَأْتُونَا بِسُلْطَـٰنٍۢ مُّبِينٍۢ",
+    "verse": "14:10 - Their messengers said, \"Can there be doubt about Allāh, Creator of the heavens and earth? He invites you that He may forgive you of your sins, and He delays you [i.e., your death] for a specified term.\" They said, \"You are not but men like us who wish to avert us from what our fathers were worshipping. So bring us a clear authority [i.e., evidence].\""
+  },
+  "deduction": {
+    "title": "The Sacred Absence",
+    "intro": "Beyond the dunes of time, there lies a tale of unwavering devotion and a trust so heavy that the soul carrying it could have broken. In a moment when the people turned toward folly and gold, one figure stood firm—calling them back, pleading for patience, and bearing the weight of a sacred promise. This is the story of one who was chosen as a helper, a vizier, and a guardian of faith during a sacred absence. Can you uncover the identity of this steadfast soul?",
+    "clues": [
+      "I share the blood of a great prophet who was chosen to speak with Allah directly upon a sacred mount.",
+      "My sibling once pleaded with Allah for assistance in speaking clearly to a great oppressor.",
+      "I was chosen by Allah to stand beside my sibling as a helper and vizier.",
+      "Together we faced a tyrannical ruler who demanded to be called the highest of gods.",
+      "While my sibling communed with Allah upon the mountain, our people fashioned for themselves an idol from their gold.",
+      "I am the brother of Moses, appointed by Allah as his vizier, mentioned by name in the Quran."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Prophet Harun (Aaron)",
+          "Prophet Musa",
+          "Prophet Dawud",
+          "Prophet Yaqub",
+          "Prophet Ishaq"
+        ],
+        "answer": "Prophet Harun (Aaron)"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "The Calf Worship Crisis",
+          "The Great Flood of Nuh",
+          "The Battle of Badr",
+          "The Destruction of Thamud",
+          "The Destruction of Sodom"
+        ],
+        "answer": "The Calf Worship Crisis"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "The Golden Calf",
+          "Noah's Ark",
+          "The Burning Bush",
+          "The Cave of Hira",
+          "The Throne of Sheba"
+        ],
+        "answer": "The Golden Calf"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "Innocence Confirmed by Allah",
+          "Drowning of Pharaoh",
+          "The Building of the Kaaba",
+          "Safe Crossing of the Sea",
+          "Ascension to the Heavens"
+        ],
+        "answer": "Innocence Confirmed by Allah"
+      }
+    },
+    "verseRef": "25:35",
+    "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+    "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+  },
+  "scramble": {
+    "verseRef": "19:88",
+    "reference": "Surah Maryam (19:88)",
+    "segments": [
+      "قَالُواْ",
+      "سَمِعْنَا",
+      "فَاطِمٌ",
+      "يَقُولُهَا",
+      "إِنَّهُ لَكَافِرٌ"
+    ],
+    "translations": [
+      "And they say",
+      "Has taken",
+      "the Most Gracious",
+      "a son"
+    ],
+    "hint": "This verse describes the reaction of disbelievers to a sign from Allah, showing how they reject truth out of arrogance.",
+    "arabic": "وَقَالُوا۟ ٱتَّخَذَ ٱلرَّحْمَـٰنُ وَلَدًۭا",
+    "words": [
+      "وَقَالُوا۟",
+      "ٱتَّخَذَ",
+      "ٱلرَّحْمَـٰنُ",
+      "وَلَدًۭا"
+    ],
+    "verseEn": "And they say, \"The Most Merciful has taken [for Himself] a son.\""
+  }
+}

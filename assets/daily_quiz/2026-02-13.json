@@ -1,0 +1,260 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَجْزَاءُ الْمَسْكَنِ",
+        "nameEn": "Parts of a Dwelling",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "بَيْتٍ",
+            "en": "House",
+            "ref": "3:96",
+            "verse": "فَإِن لَّمْ تَجِدُوا۟ فِيهَآ أَحَدًۭا فَلَا تَدْخُلُوهَا حَتَّىٰ يُؤْذَنَ لَكُمْ ۖ وَإِن قِيلَ لَكُمُ ٱرْجِعُوا۟ فَٱرْجِعُوا۟ ۖ هُوَ أَزْكَىٰ لَكُمْ ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ عَلِيمٌۭ",
+            "verseEn": "But if not you find in it anyone then (do) not enter it until permission has been given to you And if it is said to you Go back then go back it (is) purer for you And Allah of what you do (is) All-Knower (28)"
+          },
+          {
+            "ar": "بَابًا",
+            "en": "Door",
+            "ref": "23:77",
+            "verse": "مِّنَ ٱلَّذِينَ هَادُوا۟ يُحَرِّفُونَ ٱلْكَلِمَ عَن مَّوَاضِعِهِۦ وَيَقُولُونَ سَمِعْنَا وَعَصَيْنَا وَٱسْمَعْ غَيْرَ مُسْمَعٍۢ وَرَٰعِنَا لَيًّۢا بِأَلْسِنَتِهِمْ وَطَعْنًۭا فِى ٱلدِّينِ ۚ وَلَوْ أَنَّهُمْ قَالُوا۟ سَمِعْنَا وَأَطَعْنَا وَٱسْمَعْ وَٱنظُرْنَا لَكَانَ خَيْرًۭا لَّهُمْ وَأَقْوَمَ وَلَـٰكِن لَّعَنَهُمُ ٱللَّهُ بِكُفْرِهِمْ فَلَا يُؤْمِنُونَ إِلَّا قَلِيلًۭا",
+            "verseEn": "Of those who are Jews they distort the words from their places and they say We hear[d] and we disobey[ed] and \"Hear not to be heard and \"Raina twisting [with] their tongues and defaming [in] the religion And if [that] they (had) said We hear[d] and we obey[ed] and \"Hear and look (at) us surely it (would) have been better for them and more suitable [And] but cursed them Allah for their disbelief so not they believe except a few (46)"
+          },
+          {
+            "ar": "سَقْفًا",
+            "en": "Roof",
+            "ref": "21:32",
+            "verse": "وَجَعَلْنَا ٱلسَّمَآءَ سَقْفًۭا مَّحْفُوظًۭا ۖ وَهُمْ عَنْ ءَايَـٰتِهَا مُعْرِضُونَ",
+            "verseEn": "And We made the sky a roof protected But they from its Signs turn away (32)"
+          },
+          {
+            "ar": "جِدَارًا",
+            "en": "Wall",
+            "ref": "18:77",
+            "verse": "فَٱنطَلَقَا حَتَّىٰٓ إِذَآ أَتَيَآ أَهْلَ قَرْيَةٍ ٱسْتَطْعَمَآ أَهْلَهَا فَأَبَوْا۟ أَن يُضَيِّفُوهُمَا فَوَجَدَا فِيهَا جِدَارًۭا يُرِيدُ أَن يَنقَضَّ فَأَقَامَهُۥ ۖ قَالَ لَوْ شِئْتَ لَتَّخَذْتَ عَلَيْهِ أَجْرًۭا",
+            "verseEn": "So they set out until when they came (to the) people (of) a town they asked for food (from) its people but they refused to offer them hospitality Then they found in it a wall (that) want(ed) to collapse so he set it straight He said If you wished surely you (could) have taken for it a payment (77)"
+          }
+        ],
+        "verse": {
+          "ref": "16:80",
+          "en": "And Allah (has) made for you [from] your homes a resting place and made for you from the hides (of) the cattle tents which you find light (on) the day (of) your travel and the day (of) your encampment and from their wool and their fur and their hair (is) furnishing and a provision for a time (80)",
+          "ayah": "وَٱللَّهُ جَعَلَ لَكُم مِّنۢ بُيُوتِكُمْ سَكَنًۭا وَجَعَلَ لَكُم مِّن جُلُودِ ٱلْأَنْعَـٰمِ بُيُوتًۭا تَسْتَخِفُّونَهَا يَوْمَ ظَعْنِكُمْ وَيَوْمَ إِقَامَتِكُمْ ۙ وَمِنْ أَصْوَافِهَا وَأَوْبَارِهَا وَأَشْعَارِهَآ أَثَـٰثًۭا وَمَتَـٰعًا إِلَىٰ حِينٍۢ"
+        }
+      },
+      {
+        "name": "مَفَاهِيمُ الْعَدْلِ",
+        "nameEn": "Concepts of Justice",
+        "color": "green",
+        "items": [
+          {
+            "ar": "حُكْمَ",
+            "en": "Judgment/Decree",
+            "ref": "5:50",
+            "verse": "أَفَحُكْمَ ٱلْجَـٰهِلِيَّةِ يَبْغُونَ ۚ وَمَنْ أَحْسَنُ مِنَ ٱللَّهِ حُكْمًۭا لِّقَوْمٍۢ يُوقِنُونَ",
+            "verseEn": "Is it then the judgment (of the time of) ignorance they seek And who (is) better than Allah (in) judgment for a people (who) firmly believe (50)"
+          },
+          {
+            "ar": "شَهِيدًا",
+            "en": "Witness",
+            "ref": "2:143",
+            "verse": "وَكَذَٰلِكَ جَعَلْنَـٰكُمْ أُمَّةًۭ وَسَطًۭا لِّتَكُونُوا۟ شُهَدَآءَ عَلَى ٱلنَّاسِ وَيَكُونَ ٱلرَّسُولُ عَلَيْكُمْ شَهِيدًۭا ۗ وَمَا جَعَلْنَا ٱلْقِبْلَةَ ٱلَّتِى كُنتَ عَلَيْهَآ إِلَّا لِنَعْلَمَ مَن يَتَّبِعُ ٱلرَّسُولَ مِمَّن يَنقَلِبُ عَلَىٰ عَقِبَيْهِ ۚ وَإِن كَانَتْ لَكَبِيرَةً إِلَّا عَلَى ٱلَّذِينَ هَدَى ٱللَّهُ ۗ وَمَا كَانَ ٱللَّهُ لِيُضِيعَ إِيمَـٰنَكُمْ ۚ إِنَّ ٱللَّهَ بِٱلنَّاسِ لَرَءُوفٌۭ رَّحِيمٌۭ",
+            "verseEn": "And thus We made you a community (of the) middle way so that you will be witnesses over the mankind and will be the Messenger on you a witness And not We made the direction of prayer which you were used to [on it] except that We make evident (he) who follows the Messenger from (he) who turns back on his heels And indeed it was certainly a great (test) except for those whom guided (by) Allah And not will Allah let go waste your faith Indeed Allah (is) to [the] mankind Full of Kindness Most Merciful (143)"
+          },
+          {
+            "ar": "الْمِيزَانَ",
+            "en": "The Balance",
+            "ref": "42:17",
+            "verse": "ٱللَّهُ ٱلَّذِىٓ أَنزَلَ ٱلْكِتَـٰبَ بِٱلْحَقِّ وَٱلْمِيزَانَ ۗ وَمَا يُدْرِيكَ لَعَلَّ ٱلسَّاعَةَ قَرِيبٌۭ",
+            "verseEn": "Allah (is) the One Who (has) sent down the Book in truth and the Balance And what will make you know Perhaps the Hour (is) near (17)"
+          },
+          {
+            "ar": "بَيِّنَةٌ",
+            "en": "Clear Proof",
+            "ref": "98:1",
+            "verse": "لَمْ يَكُنِ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَـٰبِ وَٱلْمُشْرِكِينَ مُنفَكِّينَ حَتَّىٰ تَأْتِيَهُمُ ٱلْبَيِّنَةُ",
+            "verseEn": "Not were those who disbelieved from (the) People of the Book and the polytheists to be abandoned until (there) comes to them the clear evidence (1)"
+          }
+        ],
+        "verse": {
+          "ref": "4:58",
+          "en": "Indeed Allah orders you to render the trusts to their owners and when you judge between the people to judge with justice Indeed Allah excellently advises you with it Indeed Allah is All-Hearing All-Seeing (58)",
+          "ayah": "۞ إِنَّ ٱللَّهَ يَأْمُرُكُمْ أَن تُؤَدُّوا۟ ٱلْأَمَـٰنَـٰتِ إِلَىٰٓ أَهْلِهَا وَإِذَا حَكَمْتُم بَيْنَ ٱلنَّاسِ أَن تَحْكُمُوا۟ بِٱلْعَدْلِ ۚ إِنَّ ٱللَّهَ نِعِمَّا يَعِظُكُم بِهِۦٓ ۗ إِنَّ ٱللَّهَ كَانَ سَمِيعًۢا بَصِيرًۭا"
+        }
+      },
+      {
+        "name": "أَوْصَافُ الْآخِرَةِ",
+        "nameEn": "Descriptions of the Hereafter",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "ظِلُّهَا",
+            "en": "Its Shade",
+            "ref": "13:35",
+            "verse": "وَدَانِيَةً عَلَيْهِمْ ظِلَـٰلُهَا وَذُلِّلَتْ قُطُوفُهَا تَذْلِيلًۭا",
+            "verseEn": "And near above them (are) its shades and will hang low its cluster of fruits dangling low (14)"
+          },
+          {
+            "ar": "عَيْنًا",
+            "en": "Spring",
+            "ref": "76:6",
+            "verse": "إِنَّ ٱلْأَبْرَارَ يَشْرَبُونَ مِن كَأْسٍۢ كَانَ مِزَاجُهَا كَافُورًا",
+            "verseEn": "Indeed the righteous will drink from a cup is its mixture (of) Kafur (5)"
+          },
+          {
+            "ar": "ضَرِيعٍ",
+            "en": "Bitter Food (Thorns)",
+            "ref": "88:6",
+            "verse": "لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍۢ",
+            "verseEn": "Not is for them food except from a bitter thorny plant (6)"
+          },
+          {
+            "ar": "وَقُودُهَا",
+            "en": "Its Fuel",
+            "ref": "2:24",
+            "verse": "فَإِن لَّمْ تَفْعَلُوا۟ وَلَن تَفْعَلُوا۟ فَٱتَّقُوا۟ ٱلنَّارَ ٱلَّتِى وَقُودُهَا ٱلنَّاسُ وَٱلْحِجَارَةُ ۖ أُعِدَّتْ لِلْكَـٰفِرِينَ",
+            "verseEn": "But if not you do and never will you do then fear the Fire whose [its] fuel (is) [the] men and [the] stones prepared for the disbelievers (24)"
+          }
+        ],
+        "verse": {
+          "ref": "69:23",
+          "en": "Its clusters of fruits hanging near (23)",
+          "ayah": "قُطُوفُهَا دَانِيَةٌۭ"
+        }
+      },
+      {
+        "name": "عَوَائِقُ الْبَصِيرَةِ الرُّوحِيَّةِ",
+        "nameEn": "Obstacles to Spiritual Perception",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "خَتَمَ",
+            "en": "Sealed",
+            "ref": "2:7",
+            "verse": "خَتَمَ ٱللَّهُ عَلَىٰ قُلُوبِهِمْ وَعَلَىٰ سَمْعِهِمْ ۖ وَعَلَىٰٓ أَبْصَـٰرِهِمْ غِشَـٰوَةٌۭ ۖ وَلَهُمْ عَذَابٌ عَظِيمٌۭ",
+            "verseEn": "Has set a seal Allah on their hearts and on their hearing and on their vision (is) a veil And for them (is) a punishment great (7)"
+          },
+          {
+            "ar": "حِجَابٌ",
+            "en": "Barrier/Veil",
+            "ref": "7:46",
+            "verse": "وَبَيْنَهُمَا حِجَابٌۭ ۚ وَعَلَى ٱلْأَعْرَافِ رِجَالٌۭ يَعْرِفُونَ كُلًّۢا بِسِيمَىٰهُمْ ۚ وَنَادَوْا۟ أَصْحَـٰبَ ٱلْجَنَّةِ أَن سَلَـٰمٌ عَلَيْكُمْ ۚ لَمْ يَدْخُلُوهَا وَهُمْ يَطْمَعُونَ",
+            "verseEn": "And between them (will be) a partition and on the heights (will be) men recognizing all by their marks And they will call out (to the) companions (of) Paradise that Peace (be) upon you Not they have entered it but they hope (46)"
+          },
+          {
+            "ar": "أَوْزَارَهُمْ",
+            "en": "Their Burdens (of sin)",
+            "ref": "6:31",
+            "verse": "قَدْ خَسِرَ ٱلَّذِينَ كَذَّبُوا۟ بِلِقَآءِ ٱللَّهِ ۖ حَتَّىٰٓ إِذَا جَآءَتْهُمُ ٱلسَّاعَةُ بَغْتَةًۭ قَالُوا۟ يَـٰحَسْرَتَنَا عَلَىٰ مَا فَرَّطْنَا فِيهَا وَهُمْ يَحْمِلُونَ أَوْزَارَهُمْ عَلَىٰ ظُهُورِهِمْ ۚ أَلَا سَآءَ مَا يَزِرُونَ",
+            "verseEn": "Indeed incurred loss those who denied in (the) meeting (with) Allah until when came to them the Hour suddenly they said Oh! Our regret over what we neglected concerning it while they will bear their burdens on their backs Unquestionably Evil (is) what they bear (31)"
+          },
+          {
+            "ar": "رَانَ",
+            "en": "Stained/Rusted",
+            "ref": "83:14",
+            "verse": "كَلَّا ۖ بَلْ ۜ رَانَ عَلَىٰ قُلُوبِهِم مَّا كَانُوا۟ يَكْسِبُونَ",
+            "verseEn": "Nay But (the) stain has covered [over] their hearts (for) what they used to earn (14)"
+          }
+        ],
+        "verse": {
+          "ref": "6:125",
+          "en": "So whoever wants Allah that He guides him He expands his breast to Islam and whoever He wants that He lets him go astray He makes his breast tight and constricted as though he (were) climbing into the sky Thus places Allah the filth on those who (do) not believe (125)",
+          "ayah": "فَمَن يُرِدِ ٱللَّهُ أَن يَهْدِيَهُۥ يَشْرَحْ صَدْرَهُۥ لِلْإِسْلَـٰمِ ۖ وَمَن يُرِدْ أَن يُضِلَّهُۥ يَجْعَلْ صَدْرَهُۥ ضَيِّقًا حَرَجًۭا كَأَنَّمَا يَصَّعَّدُ فِى ٱلسَّمَآءِ ۚ كَذَٰلِكَ يَجْعَلُ ٱللَّهُ ٱلرِّجْسَ عَلَى ٱلَّذِينَ لَا يُؤْمِنُونَ"
+        }
+      }
+    ]
+  },
+  "wordle": {
+    "word": "دين",
+    "display": "دِين",
+    "hint": "It defines one's way of life and submission to the Creator.",
+    "verseRef": "1:4",
+    "arabicVerse": "مَـٰلِكِ يَوْمِ ٱلدِّينِ",
+    "verse": "1:4 — (The) Master (of the) Day (of the) Judgment (4)"
+  },
+  "deduction": {
+    "title": "The Sovereign's Grand Submission",
+    "intro": "You find yourself in a land of ancient wonders and profound revelation. A powerful ruler, faced with an unexpected invitation, embarked on a journey that would change the course of her destiny and the faith of her people. Can you uncover the identity of this majestic figure?",
+    "clues": [
+      "I ruled over a prosperous kingdom, adorned with immense wealth and a magnificent throne.",
+      "My people and I worshipped a celestial body, believing it to be our lord, though I harbored doubts in my heart.",
+      "A peculiar messenger, a bird, delivered a letter to me, calling me and my people to submission to the One God.",
+      "I consulted my advisors, who were mighty in strength, about how to respond to this unprecedented message.",
+      "I decided to send a valuable gift to the one who sent the letter, hoping to gauge his power and intentions.",
+      "Upon my arrival, I was astonished by a palace with a floor made of glass, appearing as a pool of water, and it was then that I declared my submission to the Lord of all creation."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Pharaoh",
+          "Queen of Sheba",
+          "Dhu al-Qarnayn",
+          "Luqman",
+          "Prophet Yusuf"
+        ],
+        "answer": "Queen of Sheba"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "The splitting of the sea",
+          "The great flood",
+          "The journey to meet Prophet Sulayman",
+          "The destruction of the people of Lut",
+          "The burning of Prophet Ibrahim"
+        ],
+        "answer": "The journey to meet Prophet Sulayman"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "The Ark",
+          "The Staff",
+          "The Throne",
+          "The Mountain",
+          "The Fire"
+        ],
+        "answer": "The Throne"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "Became a prophet",
+          "Was destroyed by Allah",
+          "Embraced Islam",
+          "Led her people to war",
+          "Built a grand temple"
+        ],
+        "answer": "Embraced Islam"
+      }
+    },
+    "verseRef": "27:23",
+    "arabic": "إِنِّى وَجَدتُّ ٱمْرَأَةًۭ تَمْلِكُهُمْ وَأُوتِيَتْ مِن كُلِّ شَىْءٍۢ وَلَهَا عَرْشٌ عَظِيمٌۭ",
+    "verse": "Indeed, I found a woman ruling them and she has been given of every thing and for her (is) a throne great (23) (27:23)"
+  },
+  "scramble": {
+    "verseRef": "65:3",
+    "reference": "Surah At-Talaq (65:3)",
+    "segments": [
+      "وَمَن يَتَوَكَّلْ",
+      "عَلَى ٱللَّهِ",
+      "فَهُوَ",
+      "حَسْبُهُۥٓ"
+    ],
+    "translations": [
+      "And whoever relies",
+      "upon Allah",
+      "then He",
+      "is sufficient for him"
+    ],
+    "hint": "This verse emphasizes the importance and reward of placing complete trust and reliance on Allah in all matters.",
+    "arabic": "وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُ ۚ وَمَن يَتَوَكَّلْ عَلَى ٱللَّهِ فَهُوَ حَسْبُهُۥٓ ۚ إِنَّ ٱللَّهَ بَـٰلِغُ أَمْرِهِۦ ۚ قَدْ جَعَلَ ٱللَّهُ لِكُلِّ شَىْءٍۢ قَدْرًۭا",
+    "words": [
+      "وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُ ۚ",
+      "وَمَن يَتَوَكَّلْ عَلَى ٱللَّهِ فَهُوَ حَسْبُهُۥٓ",
+      "ۚ إِنَّ ٱللَّهَ بَـٰلِغُ أَمْرِهِۦ ۚ",
+      "قَدْ جَعَلَ ٱللَّهُ لِكُلِّ شَىْءٍۢ قَدْرًۭا"
+    ],
+    "verseEn": "And will provide for him from where he does not expect. And whoever relies upon Allah - then He is sufficient for him. Indeed, Allah will accomplish His purpose. Allah has already set for everything a [decreed] extent."
+  }
+}

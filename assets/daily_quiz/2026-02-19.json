@@ -1,0 +1,334 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَوْصَافُ الْقُرْآنِ الْكَرِيمِ",
+        "nameEn": "Qualities of the Noble Quran",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "نُورًا",
+            "en": "Light",
+            "ref": "5:15",
+            "verse": "يَـٰٓأَهْلَ ٱلْكِتَـٰبِ قَدْ جَآءَكُمْ رَسُولُنَا يُبَيِّنُ لَكُمْ كَثِيرًۭا مِّمَّا كُنتُمْ تُخْفُونَ مِنَ ٱلْكِتَـٰبِ وَيَعْفُوا۟ عَن كَثِيرٍۢ ۚ قَدْ جَآءَكُم مِّنَ ٱللَّهِ نُورٌۭ وَكِتَـٰبٌۭ مُّبِينٌۭ",
+            "verseEn": "O People of the Scripture, there has come to you Our Messenger making clear to you much of what you used to conceal of the Scripture and overlooking much. There has come to you from Allāh a light and a clear Book [i.e., the Qur’ān]"
+          },
+          {
+            "ar": "شِفَاءٌ",
+            "en": "Healing",
+            "ref": "10:57",
+            "verse": "يَـٰٓأَيُّهَا ٱلنَّاسُ قَدْ جَآءَتْكُم مَّوْعِظَةٌۭ مِّن رَّبِّكُمْ وَشِفَآءٌۭ لِّمَا فِى ٱلصُّدُورِ وَهُدًۭى وَرَحْمَةٌۭ لِّلْمُؤْمِنِينَ",
+            "verseEn": "O mankind, there has come to you instruction from your Lord and healing for what is in the breasts and guidance and mercy for the believers."
+          },
+          {
+            "ar": "هُدًى",
+            "en": "Guidance",
+            "ref": "28:43",
+            "verse": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ مِنۢ بَعْدِ مَآ أَهْلَكْنَا ٱلْقُرُونَ ٱلْأُولَىٰ بَصَآئِرَ لِلنَّاسِ وَهُدًۭى وَرَحْمَةًۭ لَّعَلَّهُمْ يَتَذَكَّرُونَ",
+            "verseEn": "And We gave Moses the Scripture, after We had destroyed the former generations, as enlightenment for the people and guidance and mercy that they might be reminded."
+          },
+          {
+            "ar": "ذِكْرٌ",
+            "en": "Remembrance/Admonition",
+            "ref": "38:87",
+            "verse": "إِنْ هُوَ إِلَّا ذِكْرٌۭ لِّلْعَـٰلَمِينَ",
+            "verseEn": "It is but a reminder to the worlds."
+          }
+        ],
+        "verse": {
+          "ref": "21:10",
+          "en": "We have certainly sent down to you a Book [i.e., the Qur’ān] in which is your mention. Then will you not reason?",
+          "ayah": "لَقَدْ أَنزَلْنَآ إِلَيْكُمْ كِتَـٰبًۭا فِيهِ ذِكْرُكُمْ ۖ أَفَلَا تَعْقِلُونَ"
+        }
+      },
+      {
+        "name": "نِعَمٌ مِّنَ اللَّهِ عَلَى الْعِبَادِ",
+        "nameEn": "Favors from Allah upon His Servants",
+        "color": "green",
+        "items": [
+          {
+            "ar": "لِبَاسًا",
+            "en": "Clothing",
+            "ref": "7:26",
+            "verse": "يَـٰبَنِىٓ ءَادَمَ قَدْ أَنزَلْنَا عَلَيْكُمْ لِبَاسًۭا يُوَٰرِى سَوْءَٰتِكُمْ وَرِيشًۭا ۖ وَلِبَاسُ ٱلتَّقْوَىٰ ذَٰلِكَ خَيْرٌۭ ۚ ذَٰلِكَ مِنْ ءَايَـٰتِ ٱللَّهِ لَعَلَّهُمْ يَذَّكَّرُونَ",
+            "verseEn": "O children of Adam, We have bestowed upon you clothing to conceal your private parts and as adornment. But the clothing of righteousness - that is best. That is from the signs of Allāh that perhaps they will remember."
+          },
+          {
+            "ar": "مَاءً",
+            "en": "Water (Blessed Rain)",
+            "ref": "50:9",
+            "verse": "وَنَزَّلْنَا مِنَ ٱلسَّمَآءِ مَآءًۭ مُّبَـٰرَكًۭا فَأَنۢبَتْنَا بِهِۦ جَنَّـٰتٍۢ وَحَبَّ ٱلْحَصِيدِ",
+            "verseEn": "And We have sent down blessed rain from the sky and made grow thereby gardens and grain for the harvest"
+          },
+          {
+            "ar": "أَنْهَارًا",
+            "en": "Rivers",
+            "ref": "47:15",
+            "verse": "مَّثَلُ ٱلْجَنَّةِ ٱلَّتِى وُعِدَ ٱلْمُتَّقُونَ ۖ فِيهَآ أَنْهَـٰرٌۭ مِّن مَّآءٍ غَيْرِ ءَاسِنٍۢ وَأَنْهَـٰرٌۭ مِّن لَّبَنٍۢ لَّمْ يَتَغَيَّرْ طَعْمُهُۥ وَأَنْهَـٰرٌۭ مِّنْ خَمْرٍۢ لَّذَّةٍۢ لِّلشَّـٰرِبِينَ وَأَنْهَـٰرٌۭ مِّنْ عَسَلٍۢ مُّصَفًّۭى ۖ وَلَهُمْ فِيهَا مِن كُلِّ ٱلثَّمَرَٰتِ وَمَغْفِرَةٌۭ مِّن رَّبِّهِمْ ۖ كَمَنْ هُوَ خَـٰلِدٌۭ فِى ٱلنَّارِ وَسُقُوا۟ مَآءً حَمِيمًۭا فَقَطَّعَ أَمْعَآءَهُمْ",
+            "verseEn": "Is the description of Paradise, which the righteous are promised, wherein are rivers of water unaltered, rivers of milk the taste of which never changes, rivers of wine delicious to those who drink, and rivers of purified honey, in which they will have from all [kinds of] fruits and forgiveness from their Lord... [Are its inhabitants] like those who abide eternally in the Fire and are given to drink scalding water that will sever their intestines?"
+          },
+          {
+            "ar": "جَنَّاتٍ",
+            "en": "Gardens",
+            "ref": "15:45",
+            "verse": "إِنَّ ٱلْمُتَّقِينَ فِى جَنَّـٰتٍۢ وَعُيُونٍ",
+            "verseEn": "Indeed, the righteous will be within gardens and springs,"
+          }
+        ],
+        "verse": {
+          "ref": "14:34",
+          "en": "And He gave you from all you asked of Him. And if you should count the favor [i.e., blessings] of Allāh, you could not enumerate them. Indeed, mankind is [generally] most unjust and ungrateful.",
+          "ayah": "وَءَاتَىٰكُم مِّن كُلِّ مَا سَأَلْتُمُوهُ ۚ وَإِن تَعُدُّوا۟ نِعْمَتَ ٱللَّهِ لَا تُحْصُوهَآ ۗ إِنَّ ٱلْإِنسَـٰنَ لَظَلُومٌۭ كَفَّارٌۭ"
+        }
+      },
+      {
+        "name": "أَنْوَاعٌ مِنَ الْعَذَابِ وَالْبَلَاءِ",
+        "nameEn": "Types of Divine Punishment and Trial",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "الصَّاعِقَةَ",
+            "en": "Thunderbolt/Blast",
+            "ref": "41:13",
+            "verse": "فَإِنْ أَعْرَضُوا۟ فَقُلْ أَنذَرْتُكُمْ صَـٰعِقَةًۭ مِّثْلَ صَـٰعِقَةِ عَادٍۢ وَثَمُودَ",
+            "verseEn": "But if they turn away, then say, \"I have warned you of a thunderbolt like the thunderbolt [that struck] ʿAad and Thamūd."
+          },
+          {
+            "ar": "الطُّوفَانَ",
+            "en": "Flood",
+            "ref": "29:14",
+            "verse": "وَلَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦ فَلَبِثَ فِيهِمْ أَلْفَ سَنَةٍ إِلَّا خَمْسِينَ عَامًۭا فَأَخَذَهُمُ ٱلطُّوفَانُ وَهُمْ ظَـٰلِمُونَ",
+            "verseEn": "And We certainly sent Noah to his people, and he remained among them a thousand years minus fifty years, and the flood seized them while they were wrongdoers."
+          },
+          {
+            "ar": "الرِّيحَ",
+            "en": "Destructive Wind/Storm",
+            "ref": "46:24",
+            "verse": "فَلَمَّا رَأَوْهُ عَارِضًۭا مُّسْتَقْبِلَ أَوْدِيَتِهِمْ قَالُوا۟ هَـٰذَا عَارِضٌۭ مُّمْطِرُنَا ۚ بَلْ هُوَ مَا ٱسْتَعْجَلْتُم بِهِۦ ۖ رِيحٌۭ فِيهَا عَذَابٌ أَلِيمٌۭ",
+            "verseEn": "And when they saw it as a cloud approaching their valleys, they said, \"This is a cloud bringing us rain!\" Rather, it is that for which you were impatient: a wind, within it a painful punishment,"
+          },
+          {
+            "ar": "الرِّجْزَ",
+            "en": "Plague/Torment",
+            "ref": "2:59",
+            "verse": "فَبَدَّلَ ٱلَّذِينَ ظَلَمُوا۟ قَوْلًا غَيْرَ ٱلَّذِى قِيلَ لَهُمْ فَأَنزَلْنَا عَلَى ٱلَّذِينَ ظَلَمُوا۟ رِجْزًۭا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ",
+            "verseEn": "But those who wronged changed [those words] to a statement other than that which had been said to them, so We sent down upon those who wronged a punishment [i.e., plague] from the sky because they were defiantly disobeying."
+          }
+        ],
+        "verse": {
+          "ref": "2:214",
+          "en": "Or do you think that you will enter Paradise while such [trial] has not yet come to you as came to those who passed on before you? They were touched by poverty and hardship and were shaken until [even their] messenger and those who believed with him said, \"When is the help of Allāh?\" Unquestionably, the help of Allāh is near.",
+          "ayah": "أَمْ حَسِبْتُمْ أَن تَدْخُلُوا۟ ٱلْجَنَّةَ وَلَمَّا يَأْتِكُم مَّثَلُ ٱلَّذِينَ خَلَوْا۟ مِن قَبْلِكُم ۖ مَّسَّتْهُمُ ٱلْبَأْسَآءُ وَٱلضَّرَّآءُ وَزُلْزِلُوا۟ حَتَّىٰ يَقُولَ ٱلرَّسُولُ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ مَتَىٰ نَصْرُ ٱللَّهِ ۗ أَلَآ إِنَّ نَصْرَ ٱللَّهِ قَرِيبٌۭ"
+        }
+      },
+      {
+        "name": "أَحْوَالُ الْقَلْبِ وَالنَّفْسِ",
+        "nameEn": "States of the Heart and Soul",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "مُطْمَئِنَّةٌ",
+            "en": "At Peace/Tranquil",
+            "ref": "89:27",
+            "verse": "يَـٰٓأَيَّتُهَا ٱلنَّفْسُ ٱلْمُطْمَئِنَّةُ",
+            "verseEn": "[To the righteous it will be said], \"O reassured soul,"
+          },
+          {
+            "ar": "لَوَّامَةٍ",
+            "en": "Self-Reproaching",
+            "ref": "75:2",
+            "verse": "وَلَآ أُقْسِمُ بِٱلنَّفْسِ ٱللَّوَّامَةِ",
+            "verseEn": "And I swear by the reproaching soul [to the certainty of resurrection]."
+          },
+          {
+            "ar": "شَحًّا",
+            "en": "Stinginess/Greed",
+            "ref": "4:128",
+            "verse": "وَإِنِ ٱمْرَأَةٌ خَافَتْ مِنۢ بَعْلِهَا نُشُوزًا أَوْ إِعْرَاضًۭا فَلَا جُنَاحَ عَلَيْهِمَآ أَن يُصْلِحَا بَيْنَهُمَا صُلْحًۭا ۚ وَٱلصُّلْحُ خَيْرٌۭ ۗ وَأُحْضِرَتِ ٱلْأَنفُسُ ٱلشُّحَّ ۚ وَإِن تُحْسِنُوا۟ وَتَتَّقُوا۟ فَإِنَّ ٱللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًۭا",
+            "verseEn": "And if a woman fears from her husband contempt or evasion, there is no sin upon them if they make terms of settlement between them - and settlement is best. And present in [human] souls is stinginess. But if you do good and fear Allāh - then indeed Allāh is ever, of what you do, Aware."
+          },
+          {
+            "ar": "غِلًّا",
+            "en": "Rancor/Malice",
+            "ref": "7:43",
+            "verse": "وَنَزَعْنَا مَا فِى صُدُورِهِم مِّنْ غِلٍّۢ تَجْرِى مِن تَحْتِهِمُ ٱلْأَنْهَـٰرُ ۖ وَقَالُوا۟ ٱلْحَمْدُ لِلَّهِ ٱلَّذِى هَدَىٰنَا لِهَـٰذَا وَمَا كُنَّا لِنَهْتَدِىَ لَوْلَآ أَنْ هَدَىٰنَا ٱللَّهُ ۖ لَقَدْ جَآءَتْ رُسُلُ رَبِّنَا بِٱلْحَقِّ ۖ وَنُودُوٓا۟ أَن تِلْكُمُ ٱلْجَنَّةُ أُورِثْتُمُوهَا بِمَا كُنتُمْ تَعْمَلُونَ",
+            "verseEn": "And We will have removed whatever is within their breasts of resentment, [while] flowing beneath them are rivers. And they will say, \"Praise to Allāh, who has guided us to this; and we would never have been guided if Allāh had not guided us. Certainly the messengers of our Lord had come with the truth.\" And they will be called, \"This is Paradise, which you have been made to inherit for what you used to do.\""
+          }
+        ],
+        "verse": {
+          "ref": "26:89",
+          "en": "But only one who comes to Allāh with a sound heart.\"",
+          "ayah": "إِلَّا مَنْ أَتَى ٱللَّهَ بِقَلْبٍۢ سَلِيمٍۢ"
+        }
+      }
+    ]
+  },
+  "harf": {
+    "word": "خير",
+    "display": "خَيْر",
+    "hint": "A quality often contrasted with evil, indicating what is superior or beneficial.",
+    "verseRef": "18:46",
+    "arabicVerse": "ٱلْمَالُ وَٱلْبَنُونَ زِينَةُ ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَٱلْبَـٰقِيَـٰتُ ٱلصَّـٰلِحَـٰتُ خَيْرٌ عِندَ رَبِّكَ ثَوَابًۭا وَخَيْرٌ أَمَلًۭا",
+    "verse": "18:46 — Wealth and children are [but] adornment of the worldly life. But the enduring good deeds are better to your Lord for reward and better for [one's] hope."
+  },
+  "deduction": {
+    "title": "The Folly of Grand Ambition",
+    "intro": "Embark on a journey to uncover the identity of a collective entity whose audacious plans met an unexpected, powerful end. This narrative serves as a profound reminder of divine might and the fragility of worldly power when it opposes the sacred. Unravel the mystery of this group, whose story is etched in the Quran as a warning for all who seek to transgress.",
+    "clues": [
+      "We harbored a grand ambition, believing our might was unmatched, and set forth on a journey with a clear, destructive objective.",
+      "Our leader, filled with arrogance, sought to defile a sacred House revered by many, aiming to divert pilgrimage to a structure built by us.",
+      "From a distant land, we marched with a massive force, confident in our ability to dismantle the ancient edifice in the Holy City.",
+      "Our army was formidable, spearheaded by magnificent creatures, a sight rarely, if ever, witnessed in such a campaign by the inhabitants of the land we invaded.",
+      "When we reached our destination, a divine intervention occurred; small, winged creatures appeared, pelting us with stones of baked clay.",
+      "Our entire expedition met a devastating end, leaving our formidable force utterly annihilated, like chewed-up straw, our grand plan reduced to dust."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "People of Thamud",
+          "People of 'Ad",
+          "People of Sodom",
+          "People of the Elephant",
+          "People of the Garden"
+        ],
+        "answer": "People of the Elephant"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "The Great Flood",
+          "The Campaign against the Kaaba",
+          "The Destruction of the Idols",
+          "The Splitting of the Sea",
+          "The Earthquake of Midian"
+        ],
+        "answer": "The Campaign against the Kaaba"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "The Ark",
+          "The Staff",
+          "The Kaaba",
+          "The Golden Calf",
+          "The Fire"
+        ],
+        "answer": "The Kaaba"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "Divine salvation",
+          "A long period of prosperity",
+          "Conversion to Islam",
+          "Utter destruction",
+          "Exile from their land"
+        ],
+        "answer": "Utter destruction"
+      }
+    },
+    "verseRef": "105:1",
+    "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+    "verse": "Have you not considered, [O Muḥammad], how your Lord dealt with the companions of the elephant? (105:1)"
+  },
+  "scramble": {
+    "verseRef": "68:4",
+    "reference": "Surah Al-Qalam (68:4)",
+    "segments": [
+      "وَإِنَّكَ",
+      "لَعَلَىٰ",
+      "خُلُقٍ",
+      "عَظِيمٍ"
+    ],
+    "translations": [
+      "And indeed, you",
+      "surely (are)",
+      "(of) a moral character",
+      "great"
+    ],
+    "hint": "This verse affirms the sublime moral character of the final Prophet.",
+    "arabic": "وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍۢ",
+    "words": [
+      "وَإِنَّكَ",
+      "لَعَلَىٰ",
+      "خُلُقٍ",
+      "عَظِيمٍۢ"
+    ],
+    "verseEn": "And indeed, you are of a great moral character."
+  },
+  "juz": {
+    "date": "2026-02-19",
+    "juz_number": 3,
+    "juz_name": "Tilka ar-Rusul",
+    "juz_name_ar": "تِلْكَ الرُّسُلُ",
+    "verse": {
+      "surah_number": 3,
+      "surah_name": "Al Imran",
+      "surah_name_ar": "آل عِمْرَان",
+      "ayah_number": 92,
+      "arabic_text": "لَن تَنَالُوا الْبِرَّ حَتَّىٰ تُنفِقُوا مِمَّا تُحِبُّونَ ۚ وَمَا تُنفِقُوا مِن شَيْءٍ فَإِنَّ اللَّهَ بِهِ عَلِيمٌ",
+      "translation": "You will never achieve righteousness until you spend from that which you love. And whatever you spend of good, Allah is certainly aware of it.",
+      "audio_url": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/385.mp3"
+    },
+    "theme_question": {
+      "correct": "The path to true righteousness involves sacrificing what is beloved for Allah's sake.",
+      "options": [
+        "Righteousness is achieved primarily through ritual prayers and fasting.",
+        "The path to true righteousness involves sacrificing what is beloved for Allah's sake.",
+        "Spending from your wealth is only necessary for the poor.",
+        "Allah only accepts charity given from surplus wealth."
+      ]
+    },
+    "surah_question": {
+      "correct_surah": 3,
+      "options": [
+        {
+          "num": 3,
+          "name": "Al Imran",
+          "name_ar": "آل عِمْرَان",
+          "name_en": "The Family of Imran"
+        },
+        {
+          "num": 2,
+          "name": "Al-Baqarah",
+          "name_ar": "الْبَقَرَة",
+          "name_en": "The Cow"
+        },
+        {
+          "num": 4,
+          "name": "An-Nisa",
+          "name_ar": "النِّسَاء",
+          "name_en": "The Women"
+        },
+        {
+          "num": 5,
+          "name": "Al-Ma'idah",
+          "name_ar": "الْمَائِدَة",
+          "name_en": "The Table Spread"
+        }
+      ]
+    },
+    "surah_order": {
+      "surahs": [
+        {
+          "num": 2,
+          "name": "Al-Baqarah",
+          "name_ar": "الْبَقَرَة",
+          "name_en": "The Cow"
+        },
+        {
+          "num": 3,
+          "name": "Al Imran",
+          "name_ar": "آل عِمْرَان",
+          "name_en": "The Family of Imran"
+        }
+      ]
+    },
+    "educational_notes": {
+      "verse_context": "This verse (3:92) concludes a section in Surah Al Imran that addresses the People of the Book, particularly the Jews and Christians, and their claims regarding faith and practice. It follows discussions about the true religion being Islam, the importance of following Prophet Muhammad (peace be upon him), and the rejection of false innovations. The verse serves as a universal principle for all believers, emphasizing a core aspect of piety that transcends mere ritual.",
+      "theme_explanation": "The verse highlights a profound principle of attaining 'Al-Birr' (righteousness, piety, goodness, virtue). It teaches that true righteousness is not merely intellectual assent or outward observance, but requires a deeper level of sacrifice: giving from what one loves most. This act demonstrates sincerity, detachment from worldly possessions, and a strong desire to please Allah. The verse implies that the value of charity is not just in the amount given, but in the quality of what is given and the love one has for it, as Allah is fully aware of all intentions and deeds.",
+      "surah_overview": "Surah Al Imran is a Medinan surah, named after the family of Imran, which includes Maryam (Mary) and her son Isa (Jesus). It is the third surah of the Quran and continues many themes from Surah Al-Baqarah, particularly concerning the People of the Book. Key themes include: the unity of God (Tawhid) and the refutation of polytheistic and Christian doctrines regarding Jesus; the importance of steadfastness in faith, especially after the Battle of Uhud (which is discussed in detail); the call to Muslims to unite and adhere to the straight path; and lessons on patience, perseverance, and reliance on Allah. The surah emphasizes the concept of Islam as the universal religion of all prophets and calls for deep reflection on Allah's signs."
+    }
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "مَشَاعِرُ فِي الْقُرْآنِ",
+        "nameEn": "Emotions in the Quran",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "حُبِّ",
+            "en": "love",
+            "ref": "2:165",
+            "verse": "وَمِنَ ٱلنَّاسِ مَن يَتَّخِذُ مِن دُونِ ٱللَّهِ أَندَادًۭا يُحِبُّونَهُمْ كَحُبِّ ٱللَّهِ ۖ وَٱلَّذِينَ ءَامَنُوٓا۟ أَشَدُّ حُبًّۭا لِّلَّهِ ۗ وَلَوْ يَرَى ٱلَّذِينَ ظَلَمُوٓا۟ إِذْ يَرَوْنَ ٱلْعَذَابَ أَنَّ ٱلْقُوَّةَ لِلَّهِ جَمِيعًۭا وَأَنَّ ٱللَّهَ شَدِيدُ ٱلْعَذَابِ",
+            "verseEn": "And [yet], among the people are those who take other than Allāh as equals [to Him]. They love them as they [should] love Allāh. But those who believe are stronger in love for Allāh. And if only they who have wronged would consider [that] when they see the punishment, [they will be certain] that all power belongs to Allāh and that Allāh is severe in punishment."
+          },
+          {
+            "ar": "خَوْفٌ",
+            "en": "fear",
+            "ref": "2:277",
+            "verse": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَءَاتَوُا۟ ٱلزَّكَوٰةَ لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+            "verseEn": "Indeed, those who believe and do righteous deeds and establish prayer and give zakāh will have their reward with their Lord, and there will be no fear concerning them, nor will they grieve."
+          },
+          {
+            "ar": "حَزَنًا",
+            "en": "(of) sorrow",
+            "ref": "9:92",
+            "verse": "وَلَا عَلَى ٱلَّذِينَ إِذَا مَآ أَتَوْكَ لِتَحْمِلَهُمْ قُلْتَ لَآ أَجِدُ مَآ أَحْمِلُكُمْ عَلَيْهِ تَوَلَّوا۟ وَّأَعْيُنُهُمْ تَفِيضُ مِنَ ٱلدَّمْعِ حَزَنًا أَلَّا يَجِدُوا۟ مَا يُنفِقُونَ",
+            "verseEn": "Nor [is there blame] upon those who, when they came to you for you to take them along, you said, \"I can find nothing upon which to carry you.\" They turned back while their eyes overflowed with tears out of grief that they could not find something to spend [for the cause of Allāh]."
+          },
+          {
+            "ar": "فَرِحِينَ",
+            "en": "Rejoicing",
+            "ref": "3:170",
+            "verse": "فَرِحِينَ بِمَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضْلِهِۦ وَيَسْتَبْشِرُونَ بِٱلَّذِينَ لَمْ يَلْحَقُوا۟ بِهِم مِّنْ خَلْفِهِمْ أَلَّا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+            "verseEn": "Rejoicing in what Allāh has bestowed upon them of His bounty, and they receive good tidings about those [to be martyred] after them who have not yet joined them - that there will be no fear concerning them, nor will they grieve."
+          }
+        ]
+      },
+      {
+        "name": "أَنْبِيَاءُ الأُخُوَّةِ",
+        "nameEn": "Prophets Addressed as 'Brother'",
+        "color": "green",
+        "items": [
+          {
+            "ar": "نُوحٌ",
+            "en": "Nuh",
+            "ref": "26:106",
+            "verse": "إِذْ قَالَ لَهُمْ أَخُوهُمْ نُوحٌ أَلَا تَتَّقُونَ",
+            "verseEn": "When their brother Noah said to them, \"Will you not fear Allāh?"
+          },
+          {
+            "ar": "هُودٌ",
+            "en": "Hud",
+            "ref": "26:124",
+            "verse": "إِذْ قَالَ لَهُمْ أَخُوهُمْ هُودٌ أَلَا تَتَّقُونَ",
+            "verseEn": "When their brother Hūd said to them, \"Will you not fear Allāh?"
+          },
+          {
+            "ar": "صَالِحٌ",
+            "en": "Salih",
+            "ref": "26:142",
+            "verse": "إِذْ قَالَ لَهُمْ أَخُوهُمْ صَـٰلِحٌ أَلَا تَتَّقُونَ",
+            "verseEn": "When their brother Ṣāliḥ said to them, \"Will you not fear Allāh?"
+          },
+          {
+            "ar": "لُوطٌ",
+            "en": "Lut",
+            "ref": "26:161",
+            "verse": "إِذْ قَالَ لَهُمْ أَخُوهُمْ لُوطٌ أَلَا تَتَّقُونَ",
+            "verseEn": "When their brother Lot said to them, \"Will you not fear Allāh?"
+          }
+        ]
+      },
+      {
+        "name": "مُصْطَلَحَاتُ الشَّيْطَانِ فِي الْقُرْآنِ",
+        "nameEn": "Terms for the Devil in the Quran",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "إِبْلِيسَ",
+            "en": "(of) Iblis",
+            "ref": "26:95",
+            "verse": "وَجُنُودُ إِبْلِيسَ أَجْمَعُونَ",
+            "verseEn": "And the soldiers of Iblees, all together."
+          },
+          {
+            "ar": "الشَّيْطَانِ",
+            "en": "(of) the Shaitaan",
+            "ref": "4:76",
+            "verse": "ٱلَّذِينَ ءَامَنُوا۟ يُقَـٰتِلُونَ فِى سَبِيلِ ٱللَّهِ ۖ وَٱلَّذِينَ كَفَرُوا۟ يُقَـٰتِلُونَ فِى سَبِيلِ ٱلطَّـٰغُوتِ فَقَـٰتِلُوٓا۟ أَوْلِيَآءَ ٱلشَّيْطَـٰنِ ۖ إِنَّ كَيْدَ ٱلشَّيْطَـٰنِ كَانَ ضَعِيفًا",
+            "verseEn": "Those who believe fight in the cause of Allāh, and those who disbelieve fight in the cause of ṭāghūt. So fight against the allies of Satan. Indeed, the plot of Satan has ever been weak."
+          },
+          {
+            "ar": "رَجِيمٍ",
+            "en": "accursed",
+            "ref": "15:17",
+            "verse": "وَحَفِظْنَـٰهَا مِن كُلِّ شَيْطَـٰنٍۢ رَّجِيمٍ",
+            "verseEn": "And We have protected it from every devil expelled [from the mercy of Allāh]"
+          },
+          {
+            "ar": "الْغَرُورُ",
+            "en": "the deceiver",
+            "ref": "31:33",
+            "verse": "يَـٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمْ وَٱخْشَوْا۟ يَوْمًۭا لَّا يَجْزِى وَالِدٌ عَن وَلَدِهِۦ وَلَا مَوْلُودٌ هُوَ جَازٍ عَن وَالِدِهِۦ شَيْـًٔا ۚ إِنَّ وَعْدَ ٱللَّهِ حَقٌّۭ ۖ فَلَا تَغُرَّنَّكُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا وَلَا يَغُرَّنَّكُم بِٱللَّهِ ٱلْغَرُورُ",
+            "verseEn": "O mankind, fear your Lord and fear a Day when no father will avail his son, nor will a son avail his father at all. Indeed, the promise of Allāh is truth, so let not the worldly life delude you and be not deceived about Allāh by the Deceiver [i.e., Satan]."
+          }
+        ]
+      },
+      {
+        "name": "العِلَلُ الرُّوحِيَّةُ فِي القُرْآنِ",
+        "nameEn": "Spiritual Afflictions in the Quran",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "مَّرَضٌ",
+            "en": "(is) a disease",
+            "ref": "5:52",
+            "verse": "فَتَرَى ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌۭ يُسَـٰرِعُونَ فِيهِمْ يَقُولُونَ نَخْشَىٰٓ أَن تُصِيبَنَا دَآئِرَ ةٌۭ ۚ فَعَسَى ٱللَّهُ أَن يَأْتِىَ بِٱلْفَتْحِ أَوْ أَمْرٍۢ مِّنْ عِندِهِۦ فَيُصْبِحُوا۟ عَلَىٰ مَآ أَسَرُّوا۟ فِىٓ أَنفُسِهِمْ نَـٰدِمِينَ",
+            "verseEn": "So you see those in whose hearts is disease [i.e., hypocrisy] hastening into [association with] them, saying, \"We are afraid a misfortune may strike us.\" But perhaps Allāh will bring conquest or a decision from Him, and they will become, over what they have been concealing within themselves, regretful."
+          },
+          {
+            "ar": "عَمُونَ",
+            "en": "(are) blind",
+            "ref": "27:66",
+            "verse": "بَلِ ٱدَّٰرَكَ عِلْمُهُمْ فِى ٱلْـَٔاخِرَةِ ۚ بَلْ هُمْ فِى شَكٍّۢ مِّنْهَا ۖ بَلْ هُم مِّنْهَا عَمُونَ",
+            "verseEn": "Rather, their knowledge is arrested concerning the Hereafter. Rather, they are in doubt about it. Rather, they are, concerning it, blind."
+          },
+          {
+            "ar": "الصُّمَّ",
+            "en": "make the deaf hear",
+            "ref": "30:52",
+            "verse": "فَإِنَّكَ لَا تُسْمِعُ ٱلْمَوْتَىٰ وَلَا تُسْمِعُ ٱلصُّمَّ ٱلدُّعَآءَ إِذَا وَلَّوْا۟ مُدْبِرِينَ",
+            "verseEn": "So indeed, you will not make the dead hear, nor will you make the deaf hear the call when they turn their backs, retreating."
+          },
+          {
+            "ar": "أَبْكَمُ",
+            "en": "(is) dumb",
+            "ref": "16:76",
+            "verse": "وَضَرَبَ ٱللَّهُ مَثَلًۭا رَّجُلَيْنِ أَحَدُهُمَآ أَبْكَمُ لَا يَقْدِرُ عَلَىٰ شَىْءٍۢ وَهُوَ كَلٌّ عَلَىٰ مَوْلَىٰهُ أَيْنَمَا يُوَجِّههُّ لَا يَأْتِ بِخَيْرٍ ۖ هَلْ يَسْتَوِى هُوَ وَمَن يَأْمُرُ بِٱلْعَدْلِ ۙ وَهُوَ عَلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ",
+            "verseEn": "And Allāh presents an example of two men, one of them dumb and unable to do a thing, while he is a burden to his guardian. Wherever he directs him, he brings no good. Is he equal to one who commands justice, while he is on a straight path?"
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "عبادي",
+    "display": "عِبَادِي",
+    "hint": "A plural form of a word meaning one who worships and serves Allah alone",
+    "verseRef": "39:16",
+    "arabicVerse": "لَهُم مِّن فَوْقِهِمْ ظُلَلٌۭ مِّنَ ٱلنَّارِ وَمِن تَحْتِهِمْ ظُلَلٌۭ ۚ ذَٰلِكَ يُخَوِّفُ ٱللَّهُ بِهِۦ عِبَادَهُۥ ۚ يَـٰعِبَادِ فَٱتَّقُونِ",
+    "verse": "39:16 - They will have canopies [i.e., layers] of fire above them and below them, canopies. By that Allāh threatens [i.e., warns] His servants. O My servants, then fear Me."
+  },
+  "deduction": {
+    "title": "The Sacred Creature's Test",
+    "intro": "A sign was sent to a nation that had gone astray. In the midst of their comfortable lives came a warning—accompanied by a remarkable creature that would become the ultimate test of their faith. Their response would seal their fate forever. Can you uncover who delivered this warning and what became of those who rejected it?",
+    "clues": [
+      "We were a people who had been guided by previous messengers before us.",
+      "A magnificent creature emerged from the mountain, a sign from our Lord for this nation.",
+      "I told them: 'This is a she-camel belonging to Allah, so leave her to eat from Allah's earth and do not touch her with harm.'",
+      "But the people hamstrung my she-camel, defying the command of their Lord.",
+      "I am only a messenger from your Lord, sent with the truth—I am a trustworthy prophet and servant.",
+      "As for the wrongdoers, our Lord struck them with a thunderous sound, and they became motionless in their homes."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Prophet Hud of the people of A'ad",
+          "Prophet Salih of the people of Thamud",
+          "Prophet Shu'aib of Midian",
+          "Prophet Lut of the people of Sodom",
+          "Prophet Nuh of the Ark"
+        ],
+        "answer": "Prophet Salih of the people of Thamud"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "The Flood that drowned a disbelieving nation",
+          "The earthquake that destroyed a sinful city",
+          "The she-camel sent as a divine sign and test",
+          "The storm that punished the people of Midian",
+          "The destruction of the people of Lot with stones"
+        ],
+        "answer": "The she-camel sent as a divine sign and test"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "The city of Sodom in the Jordan Valley",
+          "The valley of Al-Hijr between Hijaz and Syria",
+          "The ancient land of A'ad in southern Arabia",
+          "The forests of Midian near the Red Sea",
+          "The plains of Mount Judi in Mesopotamia"
+        ],
+        "answer": "The valley of Al-Hijr between Hijaz and Syria"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "They were saved after repenting and believing",
+          "A rain of stones destroyed them completely",
+          "A thunderous sound struck them motionless",
+          "They were carried away by a violent wind",
+          "An earthquake swallowed them into the ground"
+        ],
+        "answer": "A thunderous sound struck them motionless"
+      }
+    },
+    "verseRef": "54:31",
+    "arabic": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ صَيْحَةًۭ وَٰحِدَةًۭ فَكَانُوا۟ كَهَشِيمِ ٱلْمُحْتَظِرِ",
+    "verse": "Indeed, We sent upon them one shriek [i.e., blast from the sky], and they became like the dry twig fragments of an [animal] pen. (54:31)"
+  },
+  "scramble": {
+    "verseRef": "53:39",
+    "reference": "Surah An-Najm (53:39)",
+    "segments": [
+      "وَأَنَّ",
+      "لَيْسَ",
+      "لِلْإِنسَانِ",
+      "إِلَّا",
+      "مَا سَعَىٰ"
+    ],
+    "translations": [
+      "And that is not",
+      "for man",
+      "except",
+      "what",
+      "he strives (for)"
+    ],
+    "hint": "Personal accountability — a powerful declaration that one's reward comes only from one's own striving and effort, not from lineage, status, or others' deeds.",
+    "arabic": "وَأَن لَّيْسَ لِلْإِنسَـٰنِ إِلَّا مَا سَعَىٰ",
+    "words": [
+      "وَأَن لَّيْسَ",
+      "لِلْإِنسَـٰنِ",
+      "إِلَّا",
+      "مَا",
+      "سَعَىٰ"
+    ],
+    "verseEn": "And that there is not for man except that [good] for which he strives"
+  }
+}

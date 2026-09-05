@@ -1,0 +1,249 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "مُصْطَلَحَاتُ السُّفُنِ",
+        "nameEn": "Ship Terminology in the Quran",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "الْفُلْكِ",
+            "en": "the ship",
+            "ref": "7:64",
+            "verse": "فَكَذَّبُوهُ فَأَنجَيْنَـٰهُ وَٱلَّذِينَ مَعَهُۥ فِى ٱلْفُلْكِ وَأَغْرَقْنَا ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَآ ۚ إِنَّهُمْ كَانُوا۟ قَوْمًا عَمِينَ",
+            "verseEn": "But they denied him, so We saved him and those who were with him in the ship. And We drowned those who denied Our signs. Indeed, they were a blind people."
+          },
+          {
+            "ar": "السَّفِينَةِ",
+            "en": "the ship",
+            "ref": "29:15",
+            "verse": "فَأَنجَيْنَـٰهُ وَأَصْحَـٰبَ ٱلسَّفِينَةِ وَجَعَلْنَـٰهَآ ءَايَةًۭ لِّلْعَـٰلَمِينَ",
+            "verseEn": "But We saved him and the companions of the ship, and We made it a sign for the worlds."
+          },
+          {
+            "ar": "الْجَارِيَةِ",
+            "en": "the running ship",
+            "ref": "69:11",
+            "verse": "إِنَّا لَمَّا طَغَا ٱلْمَآءُ حَمَلْنَـٰكُمْ فِى ٱلْجَارِيَةِ",
+            "verseEn": "Indeed, when the water overflowed, We carried you [i.e., your ancestors] in the sailing ship"
+          },
+          {
+            "ar": "دُسُرٍ",
+            "en": "nails",
+            "ref": "54:13",
+            "verse": "وَحَمَلْنَـٰهُ عَلَىٰ ذَاتِ أَلْوَٰحٍۢ وَدُسُرٍۢ",
+            "verseEn": "And We carried him on a [construction of] planks and nails,"
+          }
+        ]
+      },
+      {
+        "name": "أَسْمَاءُ الْجَنَّةِ",
+        "nameEn": "Names of Paradise",
+        "color": "green",
+        "items": [
+          {
+            "ar": "الْجَنَّةِ",
+            "en": "the Garden (Paradise)",
+            "ref": "2:82",
+            "verse": "وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلْجَنَّةِ ۖ هُمْ فِيهَا خَـٰلِدُونَ",
+            "verseEn": "But they who believe and do righteous deeds - those are the companions of Paradise; they will abide therein eternally."
+          },
+          {
+            "ar": "عَدْنٍ",
+            "en": "Eden",
+            "ref": "20:76",
+            "verse": "جَنَّـٰتُ عَدْنٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا ۚ وَذَٰلِكَ جَزَآءُ مَن تَزَكَّىٰ",
+            "verseEn": "Gardens of perpetual residence beneath which rivers flow, wherein they abide eternally. And that is the reward of one who purifies himself."
+          },
+          {
+            "ar": "الْفِرْدَوْسَ",
+            "en": "Al-Firdaus (Paradise)",
+            "ref": "23:11",
+            "verse": "ٱلَّذِينَ يَرِثُونَ ٱلْفِرْدَوْسَ هُمْ فِيهَا خَـٰلِدُونَ",
+            "verseEn": "Who will inherit al-Firdaus. They will abide therein eternally."
+          },
+          {
+            "ar": "الْمَأْوَىٰ",
+            "en": "the Abode (Refuge)",
+            "ref": "53:15",
+            "verse": "عِندَهَا جَنَّةُ ٱلْمَأْوَىٰٓ",
+            "verseEn": "Near it is the Garden of Refuge [i.e., Paradise] -"
+          }
+        ]
+      },
+      {
+        "name": "مُصْطَلَحَاتُ الْمُعَامَلَاتِ الْقُرْآنِيَّةِ",
+        "nameEn": "Quranic Terms for Contracts and Transactions",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "الْبَيْعَ",
+            "en": "trade",
+            "ref": "62:9",
+            "verse": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا نُودِىَ لِلصَّلَوٰةِ مِن يَوْمِ ٱلْجُمُعَةِ فَٱسْعَوْا۟ إِلَىٰ ذِكْرِ ٱللَّهِ وَذَرُوا۟ ٱلْبَيْعَ ۚ ذَٰلِكُمْ خَيْرٌۭ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ",
+            "verseEn": "O you who have believed, when [the adhān] is called for the prayer on the day of Jumuʿah [Friday], then proceed to the remembrance of Allāh and leave trade. That is better for you, if you only knew."
+          },
+          {
+            "ar": "الرِّبَا",
+            "en": "usury",
+            "ref": "3:130",
+            "verse": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَأْكُلُوا۟ ٱلرِّبَوٰٓا۟ أَضْعَـٰفًۭا مُّضَـٰعَفَةًۭ ۖ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُفْلِحُونَ",
+            "verseEn": "O you who have believed, do not consume usury, doubled and multiplied, but fear Allāh that you may be successful."
+          },
+          {
+            "ar": "الْعُقُودِ",
+            "en": "contracts",
+            "ref": "5:1",
+            "verse": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَوْفُوا۟ بِٱلْعُقُودِ ۚ أُحِلَّتْ لَكُم بَهِيمَةُ ٱلْأَنْعَـٰمِ إِلَّا مَا يُتْلَىٰ عَلَيْكُمْ غَيْرَ مُحِلِّى ٱلصَّيْدِ وَأَنتُمْ حُرُمٌ ۗ إِنَّ ٱللَّهَ يَحْكُمُ مَا يُرِيدُ",
+            "verseEn": "O you who have believed, fulfill [all] contracts. Lawful for you are the animals of grazing livestock except for that which is recited to you [in this Qur’ān] - hunting not being permitted while you are in the state of iḥrām. Indeed, Allāh ordains what He intends."
+          },
+          {
+            "ar": "الْأَمَانَةَ",
+            "en": "trust",
+            "ref": "33:72",
+            "verse": "إِنَّا عَرَضْنَا ٱلْأَمَانَةَ عَلَى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَٱلْجِبَالِ فَأَبَيْنَ أَن يَحْمِلْنَهَا وَأَشْفَقْنَ مِنْهَا وَحَمَلَهَا ٱلْإِنسَـٰنُ ۖ إِنَّهُۥ كَانَ ظَلُومًۭا جَهُولًۭا",
+            "verseEn": "Indeed, We offered the Trust to the heavens and the earth and the mountains, and they declined to bear it and feared it; but man [undertook to] bear it. Indeed, he was unjust and ignorant."
+          }
+        ]
+      },
+      {
+        "name": "مَوَادُّ خَلْقِ الْإِنْسَانِ",
+        "nameEn": "Earthly Substances in Human Creation",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "تُرَابٍ",
+            "en": "dust",
+            "ref": "18:37",
+            "verse": "قَالَ لَهُۥ صَاحِبُهُۥ وَهُوَ يُحَاوِرُهُۥٓ أَكَفَرْتَ بِٱلَّذِى خَلَقَكَ مِن تُرَابٍۢ ثُمَّ مِن نُّطْفَةٍۢ ثُمَّ سَوَّىٰكَ رَجُلًۭا",
+            "verseEn": "His companion said to him while he was conversing with him, \"Have you disbelieved in He who created you from dust and then from a sperm-drop and then proportioned you [as] a man?"
+          },
+          {
+            "ar": "طِينٍ",
+            "en": "clay",
+            "ref": "7:12",
+            "verse": "قَالَ مَا مَنَعَكَ أَلَّا تَسْجُدَ إِذْ أَمَرْتُكَ ۖ قَالَ أَنَا۠ خَيْرٌۭ مِّنْهُ خَلَقْتَنِى مِن نَّارٍۢ وَخَلَقْتَهُۥ مِن طِينٍۢ",
+            "verseEn": "[Allāh] said, \"What prevented you from prostrating when I commanded you?\" [Satan] said, \"I am better than him. You created me from fire and created him from clay [i.e., earth].\""
+          },
+          {
+            "ar": "حَمَإٍ",
+            "en": "mud",
+            "ref": "15:33",
+            "verse": "قَالَ لَمْ أَكُن لِّأَسْجُدَ لِبَشَرٍ خَلَقْتَهُۥ مِن صَلْصَـٰلٍۢ مِّنْ حَمَإٍۢ مَّسْنُونٍۢ",
+            "verseEn": "He said, \"Never would I prostrate to a human whom You created out of clay from an altered black mud.\""
+          },
+          {
+            "ar": "صَلْصَالٍ",
+            "en": "clay",
+            "ref": "55:14",
+            "verse": "خَلَقَ ٱلْإِنسَـٰنَ مِن صَلْصَـٰلٍۢ كَٱلْفَخَّارِ",
+            "verseEn": "He created man from clay like [that of] pottery."
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "عجيب",
+    "display": "عَجِيب",
+    "hint": "Sarah's reaction when told she would have a child in her old age - expressing profound amazement",
+    "verseRef": "11:72",
+    "arabicVerse": "قَالَتْ يَـٰوَيْلَتَىٰٓ ءَأَلِدُ وَأَنَا۠ عَجُوزٌۭ وَهَـٰذَا بَعْلِى شَيْخًا ۖ إِنَّ هَـٰذَا لَشَىْءٌ عَجِيبٌۭ",
+    "verse": "11:72 - She said, \"Woe to me! Shall I give birth while I am an old woman and this, my husband, is an old man? Indeed, this is an amazing thing!\""
+  },
+  "deduction": {
+    "title": "The Flame That Bared a Legacy",
+    "intro": "In the annals of resistance, there stands a figure whose very name became a warning unto the end of time. This person chose enmity over kinship, defiance over submission, and stood in opposition to a call of mercy. Listen carefully to the echoes of an ancient proclamation as we uncover the identity of this notorious soul.",
+    "clues": [
+      "I was born into the same clan as the final messenger of Allah, yet I stood against them at every turn.",
+      "My name carried meaning—a name meaning 'father of flame,' a name that would foreshadow my eternal destiny.",
+      "I unleashed harm against the bearer of truth, and even my own household joined in this campaign of cruelty.",
+      "I used my wealth and influence to silence the call to Allah, believing that money could extinguish divine light.",
+      "Allah dedicated an entire chapter to me—a chapter so brief that it can be recited in seconds, yet its weight remains till the Day of Judgment.",
+      "My companion in the Hereafter walks behind me, bound by a rope of fiber around the neck, carrying the very thorns they used to spread."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Abu Lahab",
+          "Abu Jahl",
+          "Waraqah ibn Nawfal",
+          "Umayyah ibn Khalaf",
+          "Uqbah ibn Abi Mu'ayt"
+        ],
+        "answer": "Abu Lahab"
+      },
+      "trial": {
+        "label": "Defining Confrontation",
+        "options": [
+          "Leading the opposition against the Prophet in Mecca",
+          "Migrating to Abyssinia to escape persecution",
+          "Building the Kaaba with Prophet Ibrahim",
+          "Accepting Islam on the deathbed",
+          "Forging the Treaty of Hudaybiyyah"
+        ],
+        "answer": "Leading the opposition against the Prophet in Mecca"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "A wife who carried thorns and firewood",
+          "A staff that transformed into a serpent",
+          "A ring bearing the seal of Solomon",
+          "A golden calf worshipped by the people",
+          "A spring that gushed forth water"
+        ],
+        "answer": "A wife who carried thorns and firewood"
+      },
+      "outcome": {
+        "label": "Final Reckoning",
+        "options": [
+          "An entire surah revealed declaring total ruin",
+          "Became the leader of the Muslim community",
+          "Received forgiveness at the moment of death",
+          "Built a great mosque in Medina",
+          "Was resurrected among the righteous"
+        ],
+        "answer": "An entire surah revealed declaring total ruin"
+      }
+    },
+    "verseRef": "111:2",
+    "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+    "verse": "His wealth will not avail him or that which he gained. (111:2)"
+  },
+  "scramble": {
+    "verseRef": "58:11",
+    "reference": "Surah Al-Mujadilah (58:11)",
+    "segments": [
+      "wa-l-ladhina",
+      "ja't-hum",
+      "al-il'mu",
+      "yaqūlūna",
+      "āmanā",
+      "wa-yaqūlūna",
+      "namūduka"
+    ],
+    "translations": [
+      "O you who believe O you who believe O you who believe When it is said",
+      "to you Make room in the assemblies then make room",
+      "Allah will make room Allah will make room for you And when",
+      "it is said Rise up then rise up Allah will raise",
+      "Allah will raise those who believe among you",
+      "and those who were given the knowledge (in) degrees",
+      "And Allah of what you do (is) All-Aware"
+    ],
+    "hint": "A divine promise about knowledge expansion and a call to supplicate for increased understanding",
+    "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا قِيلَ لَكُمْ تَفَسَّحُوا۟ فِى ٱلْمَجَـٰلِسِ فَٱفْسَحُوا۟ يَفْسَحِ ٱللَّهُ لَكُمْ ۖ وَإِذَا قِيلَ ٱنشُزُوا۟ فَٱنشُزُوا۟ يَرْفَعِ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ مِنكُمْ وَٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ دَرَجَـٰتٍۢ ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌۭ",
+    "words": [
+      "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا قِيلَ",
+      "لَكُمْ تَفَسَّحُوا۟ فِى ٱلْمَجَـٰلِسِ فَٱفْسَحُوا۟",
+      "يَفْسَحِ ٱللَّهُ لَكُمْ ۖ وَإِذَا",
+      "قِيلَ ٱنشُزُوا۟ فَٱنشُزُوا۟ يَرْفَعِ",
+      "ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ مِنكُمْ",
+      "وَٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ دَرَجَـٰتٍۢ ۚ",
+      "وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌۭ"
+    ],
+    "verseEn": "O you who have believed, when you are told, \"Space yourselves\" in assemblies, then make space; Allāh will make space for you. And when you are told, \"Arise,\" then arise; Allāh will raise those who have believed among you and those who were given knowledge, by degrees. And Allāh is Aware of what you do."
+  }
+}

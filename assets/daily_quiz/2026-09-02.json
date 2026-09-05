@@ -1,0 +1,240 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَعْضَاءُ الْجِسْمِ",
+        "nameEn": "Parts of the Human Body",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "يَدَكَ",
+            "en": "your hand",
+            "ref": "17:29",
+            "verse": "وَلَا تَجْعَلْ يَدَكَ مَغْلُولَةً إِلَىٰ عُنُقِكَ وَلَا تَبْسُطْهَا كُلَّ ٱلْبَسْطِ فَتَقْعُدَ مَلُومًۭا مَّحْسُورًا",
+            "verseEn": "And do not make your hand [as] chained to your neck or extend it completely and [thereby] become blamed and insolvent."
+          },
+          {
+            "ar": "عَيْنَيْنِ",
+            "en": "two eyes",
+            "ref": "90:8",
+            "verse": "أَلَمْ نَجْعَل لَّهُۥ عَيْنَيْنِ",
+            "verseEn": "Have We not made for him two eyes?"
+          },
+          {
+            "ar": "قُلُوبُهُمْ",
+            "en": "their hearts",
+            "ref": "6:43",
+            "verse": "فَلَوْلَآ إِذْ جَآءَهُم بَأْسُنَا تَضَرَّعُوا۟ وَلَـٰكِن قَسَتْ قُلُوبُهُمْ وَزَيَّنَ لَهُمُ ٱلشَّيْطَـٰنُ مَا كَانُوا۟ يَعْمَلُونَ",
+            "verseEn": "Then why, when Our punishment came to them, did they not humble themselves? But their hearts became hardened, and Satan made attractive to them that which they were doing."
+          },
+          {
+            "ar": "لِسَانَكَ",
+            "en": "your tongue",
+            "ref": "75:16",
+            "verse": "لَا تُحَرِّكْ بِهِۦ لِسَانَكَ لِتَعْجَلَ بِهِۦٓ",
+            "verseEn": "Move not your tongue with it, [O Muḥammad], to hasten with it [i.e., recitation of the Qur’ān]."
+          }
+        ]
+      },
+      {
+        "name": "جُمُوعُ التَّكْسِيرِ عَلَى وَزْنِ فُعَلَاءَ فِي الْقُرْآنِ",
+        "nameEn": "Broken plurals of the pattern فُعَلَاء in the Quran",
+        "color": "green",
+        "items": [
+          {
+            "ar": "الشُّهَدَاءُ",
+            "en": "and the martyrs",
+            "ref": "57:19",
+            "verse": "وَٱلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرُسُلِهِۦٓ أُو۟لَـٰٓئِكَ هُمُ ٱلصِّدِّيقُونَ ۖ وَٱلشُّهَدَآءُ عِندَ رَبِّهِمْ لَهُمْ أَجْرُهُمْ وَنُورُهُمْ ۖ وَٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔايَـٰتِنَآ أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلْجَحِيمِ",
+            "verseEn": "And those who have believed in Allāh and His messengers - those are [in the ranks of] the supporters of truth and the martyrs, with their Lord. For them is their reward and their light. But those who have disbelieved and denied Our verses - those are the companions of Hellfire."
+          },
+          {
+            "ar": "الضُّعَفَاءُ",
+            "en": "the weak",
+            "ref": "40:47",
+            "verse": "وَإِذْ يَتَحَآجُّونَ فِى ٱلنَّارِ فَيَقُولُ ٱلضُّعَفَـٰٓؤُا۟ لِلَّذِينَ ٱسْتَكْبَرُوٓا۟ إِنَّا كُنَّا لَكُمْ تَبَعًۭا فَهَلْ أَنتُم مُّغْنُونَ عَنَّا نَصِيبًۭا مِّنَ ٱلنَّارِ",
+            "verseEn": "And [mention] when they will argue within the Fire, and the weak will say to those who had been arrogant, \"Indeed, we were [only] your followers, so will you relieve us of a share of the Fire?\""
+          },
+          {
+            "ar": "الْفُقَرَاءَ",
+            "en": "(to) the poor",
+            "ref": "2:271",
+            "verse": "إِن تُبْدُوا۟ ٱلصَّدَقَـٰتِ فَنِعِمَّا هِىَ ۖ وَإِن تُخْفُوهَا وَتُؤْتُوهَا ٱلْفُقَرَآءَ فَهُوَ خَيْرٌۭ لَّكُمْ ۚ وَيُكَفِّرُ عَنكُم مِّن سَيِّـَٔاتِكُمْ ۗ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌۭ",
+            "verseEn": "If you disclose your charitable expenditures, they are good; but if you conceal them and give them to the poor, it is better for you, and He will remove from you some of your misdeeds [thereby]. And Allāh, of what you do, is [fully] Aware."
+          },
+          {
+            "ar": "السُّفَهَاءَ",
+            "en": "the foolish",
+            "ref": "4:5",
+            "verse": "وَلَا تُؤْتُوا۟ ٱلسُّفَهَآءَ أَمْوَٰلَكُمُ ٱلَّتِى جَعَلَ ٱللَّهُ لَكُمْ قِيَـٰمًۭا وَٱرْزُقُوهُمْ فِيهَا وَٱكْسُوهُمْ وَقُولُوا۟ لَهُمْ قَوْلًۭا مَّعْرُوفًۭا",
+            "verseEn": "And do not give the weak-minded your property, which Allāh has made a means of sustenance for you, but provide for them with it and clothe them and speak to them words of appropriate kindness."
+          }
+        ]
+      },
+      {
+        "name": "فِئَاتُ الْمُجْرِمِينَ فِي الْقُرْآنِ",
+        "nameEn": "Categories of Wrongdoers in the Quran",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "الْمُجْرِمِينَ",
+            "en": "the criminals",
+            "ref": "32:22",
+            "verse": "وَمَنْ أَظْلَمُ مِمَّن ذُكِّرَ بِـَٔايَـٰتِ رَبِّهِۦ ثُمَّ أَعْرَضَ عَنْهَآ ۚ إِنَّا مِنَ ٱلْمُجْرِمِينَ مُنتَقِمُونَ",
+            "verseEn": "And who is more unjust than one who is reminded of the verses of his Lord; then he turns away from them? Indeed We, from the criminals, will take retribution."
+          },
+          {
+            "ar": "الظَّالِمِينَ",
+            "en": "the wrongdoers",
+            "ref": "6:129",
+            "verse": "وَكَذَٰلِكَ نُوَلِّى بَعْضَ ٱلظَّـٰلِمِينَ بَعْضًۢا بِمَا كَانُوا۟ يَكْسِبُونَ",
+            "verseEn": "And thus will We make some of the wrongdoers allies of others for what they used to earn."
+          },
+          {
+            "ar": "الْمُسْرِفِينَ",
+            "en": "the transgressors ",
+            "ref": "40:43",
+            "verse": "لَا جَرَمَ أَنَّمَا تَدْعُونَنِىٓ إِلَيْهِ لَيْسَ لَهُۥ دَعْوَةٌۭ فِى ٱلدُّنْيَا وَلَا فِى ٱلْـَٔاخِرَةِ وَأَنَّ مَرَدَّنَآ إِلَى ٱللَّهِ وَأَنَّ ٱلْمُسْرِفِينَ هُمْ أَصْحَـٰبُ ٱلنَّارِ",
+            "verseEn": "Assuredly, that to which you invite me has no [response to a] supplication in this world or in the Hereafter; and indeed, our return is to Allāh, and indeed, the transgressors will be companions of the Fire."
+          },
+          {
+            "ar": "الْمُفْسِدِينَ",
+            "en": "of the corrupters",
+            "ref": "10:40",
+            "verse": "وَمِنْهُم مَّن يُؤْمِنُ بِهِۦ وَمِنْهُم مَّن لَّا يُؤْمِنُ بِهِۦ ۚ وَرَبُّكَ أَعْلَمُ بِٱلْمُفْسِدِينَ",
+            "verseEn": "And of them are those who believe in it, and of them are those who do not believe in it. And your Lord is most knowing of the corrupters."
+          }
+        ]
+      },
+      {
+        "name": "صِيغَةُ فَعَّالٍ فِي الْقُرْآنِ",
+        "nameEn": "Adjectives of the pattern فَعَّال in the Quran",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "جَبَّارٍ",
+            "en": "tyrant",
+            "ref": "11:59",
+            "verse": "وَتِلْكَ عَادٌۭ ۖ جَحَدُوا۟ بِـَٔايَـٰتِ رَبِّهِمْ وَعَصَوْا۟ رُسُلَهُۥ وَٱتَّبَعُوٓا۟ أَمْرَ كُلِّ جَبَّارٍ عَنِيدٍۢ",
+            "verseEn": "And that was ʿAad, who rejected the signs of their Lord and disobeyed His messengers and followed the order of every obstinate tyrant."
+          },
+          {
+            "ar": "الْغَفَّارُ",
+            "en": "the Oft-Forgiving",
+            "ref": "38:66",
+            "verse": "رَبُّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ٱلْعَزِيزُ ٱلْغَفَّـٰرُ",
+            "verseEn": "Lord of the heavens and the earth and whatever is between them, the Exalted in Might, the Perpetual Forgiver.\""
+          },
+          {
+            "ar": "الْفَتَّاحُ",
+            "en": "(is) the Judge",
+            "ref": "34:26",
+            "verse": "قُلْ يَجْمَعُ بَيْنَنَا رَبُّنَا ثُمَّ يَفْتَحُ بَيْنَنَا بِٱلْحَقِّ وَهُوَ ٱلْفَتَّاحُ ٱلْعَلِيمُ",
+            "verseEn": "Say, \"Our Lord will bring us together; then He will judge between us in truth. And He is the Knowing Judge.\""
+          },
+          {
+            "ar": "الْخَلَّاقُ",
+            "en": "(is) the Supreme Creator",
+            "ref": "36:81",
+            "verse": "أَوَلَيْسَ ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ بِقَـٰدِرٍ عَلَىٰٓ أَن يَخْلُقَ مِثْلَهُم ۚ بَلَىٰ وَهُوَ ٱلْخَلَّـٰقُ ٱلْعَلِيمُ",
+            "verseEn": "Is not He who created the heavens and the earth Able to create the likes of them? Yes, [it is so]; and He is the Knowing Creator."
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "عنب",
+    "display": "عِنَب",
+    "hint": "A fruit that grows on a vine, often mentioned alongside dates in the Quran",
+    "verseRef": "16:67",
+    "arabicVerse": "وَمِن ثَمَرَٰتِ ٱلنَّخِيلِ وَٱلْأَعْنَـٰبِ تَتَّخِذُونَ مِنْهُ سَكَرًۭا وَرِزْقًا حَسَنًا ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ لِّقَوْمٍۢ يَعْقِلُونَ",
+    "verse": "16:67 - And from the fruits of the palm trees and grapevines you take intoxicant and good provision. Indeed in that is a sign for a people who reason."
+  },
+  "deduction": {
+    "title": "The Slumber Beyond Time",
+    "intro": "Imagine a time when truth was silenced and believers were hunted. A small group chose retreat over surrender, finding refuge in the most unlikely of places — a place that would become their resting ground for centuries beyond counting. When they finally awoke, the world had transformed around them. Who are these slumbering souls?",
+    "clues": [
+      "We were young people living in an ancient city.",
+      "Our community demanded that we worship alongside them, but we refused.",
+      "We fled the city in search of refuge from those who opposed our beliefs.",
+      "A loyal four-legged companion stayed at the entrance of our hiding place.",
+      "Allah caused us to sleep for three hundred and nine years.",
+      "When we finally awoke, our once-persecuting city had embraced faith."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Are We?",
+        "options": [
+          "Ashab al-Kahf (The People of the Cave)",
+          "Ashab al-Fil (The Army of the Elephant)",
+          "Ashab al-Ukhdud (The Companions of the Trench)",
+          "The Hawariyyun (Disciples of Isa)",
+          "Yajuj wa Majuj (Gog and Magog)"
+        ],
+        "answer": "Ashab al-Kahf (The People of the Cave)"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "We retreated into a cave and slept for centuries",
+          "We were saved from a blazing fire",
+          "We were swallowed by a great fish",
+          "We were tested with a miraculous she-camel",
+          "We were given nine clear signs"
+        ],
+        "answer": "We retreated into a cave and slept for centuries"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "A deep cave in the mountains",
+          "A boat on the open sea",
+          "A towering structure reaching the heavens",
+          "A garden divided between two rivals",
+          "A barrier of iron and copper"
+        ],
+        "answer": "A deep cave in the mountains"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "We awoke to find our city had turned to faith",
+          "A blazing fire became cool and peaceful",
+          "An enemy army was drowned in the sea",
+          "Birds carrying stones destroyed the foe",
+          "A great fish released us onto the shore"
+        ],
+        "answer": "We awoke to find our city had turned to faith"
+      }
+    },
+    "verseRef": "18:25",
+    "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+    "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+  },
+  "scramble": {
+    "verseRef": "55:78",
+    "reference": "Surah Ar-Rahman (55:78)",
+    "segments": [
+      "تَبَارَكَ اسْمُ رَبِّكَ",
+      "ذِي الْجَلَالِ",
+      "وَ",
+      "الْإِكْرَامِ"
+    ],
+    "translations": [
+      "Blessed is (the) name",
+      "(of) your Lord Owner",
+      "(of) Majesty",
+      "and Honor"
+    ],
+    "hint": "This closing verse of Surah Ar-Rahman extols Allah's majestic and honorable attributes, frequently recited in remembrance and supplication.",
+    "arabic": "تَبَـٰرَكَ ٱسْمُ رَبِّكَ ذِى ٱلْجَلَـٰلِ وَٱلْإِكْرَامِ",
+    "words": [
+      "تَبَـٰرَكَ ٱسْمُ",
+      "رَبِّكَ ذِى",
+      "ٱلْجَلَـٰلِ",
+      "وَٱلْإِكْرَامِ"
+    ],
+    "verseEn": "Blessed is the name of your Lord, Owner of Majesty and Honor."
+  }
+}

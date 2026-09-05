@@ -1,0 +1,251 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أركان الإسلام",
+        "nameEn": "Pillars of Islam",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "الصَّلَاةَ",
+            "en": "Prayer",
+            "verse": "وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَارْكَعُوا مَعَ الرَّاكِعِينَ",
+            "ref": "2:43",
+            "verseEn": "And establish prayer and give zakāh and bow with those who bow [in worship and obedience]."
+          },
+          {
+            "ar": "الصِّيَامُ",
+            "en": "Fasting",
+            "verse": "يَا أَيُّهَا الَّذِينَ آمَنُوا كُتِبَ عَلَيْكُمُ الصِّيَامُ كَمَا كُتِبَ عَلَى الَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ",
+            "ref": "2:183",
+            "verseEn": "O you who have believed, decreed upon you is fasting as it was decreed upon those before you that you may become righteous -"
+          },
+          {
+            "ar": "الزَّكَاةَ",
+            "en": "Zakat",
+            "verse": "خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً تُطَهِّرُهُمْ وَتُزَكِّيهِم بِهَا وَصَلِّ عَلَيْهِمْ ۖ إِنَّ صَلَاتَكَ سَكَنٌ لَّهُمْ ۗ وَاللَّهُ سَمِيعٌ عَلِيمٌ",
+            "ref": "9:103",
+            "verseEn": "Take, [O Muḥammad], from their wealth a charity by which you purify them and cause them increase, and invoke [Allāh's blessings] upon them. Indeed, your invocations are reassurance for them. And Allāh is Hearing and Knowing."
+          },
+          {
+            "ar": "حِجُّ",
+            "en": "Hajj",
+            "verse": "وَلِلَّهِ عَلَى النَّاسِ حِجُّ الْبَيْتِ مَنِ اسْتَطَاعَ إِلَيْهِ سَبِيلًا ۚ وَمَن كَفَرَ فَإِنَّ اللَّهَ غَنِيٌّ عَنِ الْعَالَمِينَ",
+            "ref": "3:97",
+            "verseEn": "[It is but] a small enjoyment; then their [final] refuge is Hell, and wretched is the resting place."
+          }
+        ],
+        "verse": {
+          "ayah": "إِنَّ الصَّلَاةَ كَانَتْ عَلَى الْمُؤْمِنِينَ كِتَابًا مَّوْقُوتًا",
+          "en": "Indeed, prayer has been decreed upon the believers a decree of specified times.",
+          "ref": "4:103"
+        }
+      },
+      {
+        "name": "من أسماء الله الحسنى",
+        "nameEn": "From the Beautiful Names of Allah",
+        "color": "green",
+        "items": [
+          {
+            "ar": "سَمِيعٌ",
+            "en": "The All-Hearing",
+            "verse": "إِنَّ اللَّهَ سَمِيعٌ بَصِيرٌ",
+            "ref": "22:75",
+            "verseEn": "Allāh chooses from the angels messengers and from the people. Indeed, Allāh is Hearing and Seeing."
+          },
+          {
+            "ar": "بَصِيرٌ",
+            "en": "The All-Seeing",
+            "verse": "وَاللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ",
+            "ref": "2:265",
+            "verseEn": "And the example of those who spend their wealth seeking means to the approval of Allāh and assuring [reward for] themselves is like a garden on high ground which is hit by a downpour - so it yields its fruits in double. And [even] if it is not hit by a downpour, then a drizzle [is sufficient]. And Allāh, of what you do, is Seeing."
+          },
+          {
+            "ar": "عَلِيمٌ",
+            "en": "The All-Knowing",
+            "verse": "إِنَّ اللَّهَ عَلِيمٌ حَكِيمٌ",
+            "ref": "4:24",
+            "verseEn": "And [also prohibited to you are all] married women except those your right hands possess. [This is] the decree of Allāh upon you. And lawful to you are [all others] beyond these, [provided] that you seek them [in marriage] with [gifts from] your property, desiring chastity, not unlawful sexual intercourse. So for whatever you enjoy [of marriage] from them, give them their due compensation as an obligation. And there is no blame upon you for what you mutually agree to beyond the obligation. Indeed, Allāh is ever Knowing and Wise."
+          },
+          {
+            "ar": "الْحَكِيمُ",
+            "en": "The All-Wise",
+            "verse": "وَهُوَ الْعَزِيزُ الْحَكِيمُ",
+            "ref": "31:27",
+            "verseEn": "And if whatever trees upon the earth were pens and the sea [was ink], replenished thereafter by seven [more] seas, the words of Allāh would not be exhausted. Indeed, Allāh is Exalted in Might and Wise."
+          }
+        ],
+        "verse": {
+          "ayah": "وَلِلَّهِ الْأَسْمَاءُ الْحُسْنَىٰ فَادْعُوهُ بِهَا ۖ وَذَرُوا الَّذِينَ يُلْحِدُونَ فِي أَسْمَائِهِ ۚ سَيُجْزَوْنَ مَا كَانُوا يَعْمَلُونَ",
+          "en": "And to Allah belong the best names, so invoke Him by them. And leave [the company of] those who deviate concerning His names. They will be recompensed for what they used to do.",
+          "ref": "7:180"
+        }
+      },
+      {
+        "name": "أصناف من عالم الجن",
+        "nameEn": "Categories from the World of Jinn",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "إِبْلِيسَ",
+            "en": "Iblis",
+            "verse": "إِلَّا إِبْلِيسَ أَبَىٰ أَن يَكُونَ مَعَ السَّاجِدِينَ",
+            "ref": "15:31",
+            "verseEn": "Except Iblees; he refused to be with those who prostrated."
+          },
+          {
+            "ar": "الشَّيْطَانَ",
+            "en": "Shaytan",
+            "verse": "إِنَّ الشَّيْطَانَ لَكُمْ عَدُوٌّ فَاتَّخِذُوهُ عَدُوًّا ۚ إِنَّمَا يَدْعُو حِزْبَهُ لِيَكُونُوا مِنْ أَصْحَابِ السَّعِيرِ",
+            "ref": "35:6",
+            "verseEn": "Indeed, Satan is an enemy to you; so take him as an enemy. He only invites his party to be among the companions of the Blaze."
+          },
+          {
+            "ar": "الْجِنِّ",
+            "en": "Jinn",
+            "verse": "وَأَنَّهُ كَانَ رِجَالٌ مِّنَ الْإِنسِ يَعُوذُونَ بِرِجَالٍ مِّنَ الْجِنِّ فَزَادُوهُمْ رَهَقًا",
+            "ref": "72:6",
+            "verseEn": "And there were men from mankind who sought refuge in men from the jinn, so they [only] increased them in burden [i.e., sin]."
+          },
+          {
+            "ar": "مَّارِدٍ",
+            "en": "Rebellious (Marid)",
+            "verse": "وَحِفْظًا مِّن كُلِّ شَيْطَانٍ مَّارِدٍ",
+            "ref": "37:7",
+            "verseEn": "And as protection against every rebellious devil"
+          }
+        ],
+        "verse": {
+          "ayah": "وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلَّا لِيَعْبُدُونِ",
+          "en": "And I did not create the jinn and mankind except to worship Me.",
+          "ref": "51:56"
+        }
+      },
+      {
+        "name": "من قصة موسى عليه السلام",
+        "nameEn": "From the Story of Prophet Musa (PBUH)",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "فِرْعَوْنَ",
+            "en": "Pharaoh",
+            "verse": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِآيَاتِنَا وَسُلْطَانٍ مُّبِينٍ إِلَىٰ فِرْعَوْنَ وَمَلَئِهِ فَاتَّبَعُوا أَمْرَ فِرْعَوْنَ ۖ وَمَا أَمْرُ فِرْعَوْنَ بِرَشِيدٍ",
+            "ref": "11:97",
+            "verseEn": "To Pharaoh and his establishment, but they followed the command of Pharaoh, and the command of Pharaoh was not [at all] discerning."
+          },
+          {
+            "ar": "سَامِرِيُّ",
+            "en": "Samiri",
+            "verse": "قَالَ فَمَا خَطْبُكَ يَا سَامِرِيُّ",
+            "ref": "20:95",
+            "verseEn": "[Moses] said, \"And what is your case, O Sāmirī?\""
+          },
+          {
+            "ar": "الْبَحْرَ",
+            "en": "The Sea",
+            "verse": "فَأَوْحَيْنَا إِلَىٰ مُوسَىٰ أَنِ اضْرِب بِعَصَاكَ الْبَحْرَ ۖ فَانفَلَقَ فَكَانَ كُلُّ فِرْقٍ كَالطَّوْدِ الْعَظِيمِ",
+            "ref": "26:63",
+            "verseEn": "Then We inspired to Moses, \"Strike with your staff the sea,\" and it parted, and each portion was like a great towering mountain."
+          },
+          {
+            "ar": "عَصَايَ",
+            "en": "The Staff",
+            "verse": "قَالَ هِيَ عَصَايَ أَتَوَكَّأُ عَلَيْهَا وَأَهُشُّ بِهَا عَلَىٰ غَنَمِي وَلِيَ فِيهَا مَآرِبُ أُخْرَىٰ",
+            "ref": "20:18",
+            "verseEn": "He said, \"It is my staff; I lean upon it, and I bring down leaves for my sheep and I have therein other uses.\""
+          }
+        ],
+        "verse": {
+          "ayah": "وَاذْكُرْ فِي الْكِتَابِ مُوسَىٰ ۚ إِنَّهُ كَانَ مُخْلَصًا وَكَانَ رَسُولًا نَّبِيًّا",
+          "en": "And mention in the Book, Moses. Indeed, he was chosen, and he was a messenger and a prophet.",
+          "ref": "19:51"
+        }
+      }
+    ]
+  },
+  "wordle": {
+    "word": "هدى",
+    "display": "هُدًى",
+    "hint": "Divine guidance that illuminates the path of the pious",
+    "verse": "Al-Baqarah 2:2 — This is the Book about which there is no doubt, a guidance for those conscious of Allah.",
+    "arabicVerse": "ذَٰلِكَ الْكِتَابُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِّلْمُتَّقِينَ"
+  },
+  "deduction": {
+    "title": "The Enigma of the Distant Throne",
+    "intro": "A powerful monarch, blessed with extraordinary dominion, faced a peculiar challenge involving a queen from a far-off land. The monarch sought to demonstrate divine power and wisdom, setting in motion an incredible event that defied the laws of time and space. Can you deduce the details of this miraculous occurrence?",
+    "clues": [
+      "A ruler was granted immense power, including control over unseen beings and the ability to command the winds.",
+      "This ruler received news of a wealthy queen who worshipped the sun, and decided to invite her to the court.",
+      "Before the queen's arrival, the ruler expressed a desire to bring her magnificent seat of power from her distant kingdom.",
+      "A mighty jinn offered to retrieve the object before the ruler could rise from his council.",
+      "However, one with profound knowledge of the Divine Scripture offered an even swifter retrieval, completing the task in the blink of an eye.",
+      "Upon its arrival, the ruler commanded that the object be altered to test the queen's intellect and perception when she finally reached the palace."
+    ],
+    "categories": {
+      "prophet": {
+        "label": "Prophet/Person",
+        "options": [
+          "Prophet Musa",
+          "Prophet Dawud",
+          "Prophet Ibrahim",
+          "Prophet Yusuf",
+          "Prophet Sulayman"
+        ],
+        "answer": "Prophet Sulayman"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "The Splitting of the Sea",
+          "The Patience in Adversity",
+          "The Building of the Kaaba",
+          "The Test of the Gardens",
+          "Bringing the Queen's Throne"
+        ],
+        "answer": "Bringing the Queen's Throne"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "The Ark",
+          "The Staff",
+          "The Mountain",
+          "The Well",
+          "The Throne"
+        ],
+        "answer": "The Throne"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "A great sacrifice",
+          "A kingdom established",
+          "A people punished",
+          "A new covenant",
+          "The Queen's Submission to Allah"
+        ],
+        "answer": "The Queen's Submission to Allah"
+      }
+    },
+    "verse": "It was said to her, \"Enter the palace.\" But when she saw it, she thought it was a body of water and uncovered her shins. He said, \"Indeed, it is a palace paved with glass.\" She said, \"My Lord, indeed I have wronged myself, and I submit with Solomon to Allah, Lord of the worlds.\" (An-Naml 27:44)",
+    "arabic": "قِيلَ لَهَا ادْخُلِي الصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةً وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُ صَرْحٌ مُّمَرَّدٌ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّي ظَلَمْتُ نَفْسِي وَأَسْلَمْتُ مَعَ سُلَيْمَانَ لِلَّهِ رَبِّ الْعَالَمِينَ"
+  },
+  "scramble": {
+    "reference": "Surah Al-Baqarah (2:152)",
+    "words": [
+      "فَاذْكُرُونِي",
+      "أَذْكُرْكُمْ",
+      "وَاشْكُرُوا لِي",
+      "وَلَا تَكْفُرُونِ"
+    ],
+    "translations": [
+      "So remember Me",
+      "I will remember you",
+      "and be grateful to Me",
+      "and do not deny Me"
+    ],
+    "arabic": "فَاذْكُرُونِي أَذْكُرْكُمْ وَاشْكُرُوا لِي وَلَا تَكْفُرُونِ",
+    "hint": "This verse emphasizes the mutual relationship between Allah and His servants, encouraging remembrance and gratitude.",
+    "verseEn": "So remember Me; I will remember you. And be grateful to Me and do not deny Me."
+  }
+}

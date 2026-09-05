@@ -1,0 +1,240 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَفْعَالُ التَّوَاصُلِ",
+        "nameEn": "Quranic Verbs of Communication",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "نَادَىٰ",
+            "en": "He called",
+            "ref": "21:76",
+            "verse": "وَنُوحًا إِذْ نَادَىٰ مِن قَبْلُ فَٱسْتَجَبْنَا لَهُۥ فَنَجَّيْنَـٰهُ وَأَهْلَهُۥ مِنَ ٱلْكَرْبِ ٱلْعَظِيمِ",
+            "verseEn": "And [mention] Noah, when he called [to Allāh] before [that time], so We responded to him and saved him and his family from the great affliction [i.e., the flood]."
+          },
+          {
+            "ar": "كَلَّمَ",
+            "en": "He spoke",
+            "ref": "4:164",
+            "verse": "وَرُسُلًۭا قَدْ قَصَصْنَـٰهُمْ عَلَيْكَ مِن قَبْلُ وَرُسُلًۭا لَّمْ نَقْصُصْهُمْ عَلَيْكَ ۚ وَكَلَّمَ ٱللَّهُ مُوسَىٰ تَكْلِيمًۭا",
+            "verseEn": "And [We sent] messengers about whom We have related [their stories] to you before and messengers about whom We have not related to you. And Allāh spoke to Moses with [direct] speech."
+          },
+          {
+            "ar": "سُئِلَ",
+            "en": "He was asked",
+            "ref": "2:108",
+            "verse": "أَمْ تُرِيدُونَ أَن تَسْـَٔلُوا۟ رَسُولَكُمْ كَمَا سُئِلَ مُوسَىٰ مِن قَبْلُ ۗ وَمَن يَتَبَدَّلِ ٱلْكُفْرَ بِٱلْإِيمَـٰنِ فَقَدْ ضَلَّ سَوَآءَ ٱلسَّبِيلِ",
+            "verseEn": "Or do you intend to ask your Messenger as Moses was asked before? And whoever exchanges faith for disbelief has certainly strayed from the soundness of the way."
+          },
+          {
+            "ar": "بَلِّغْ",
+            "en": "Convey!",
+            "ref": "5:67",
+            "verse": "۞ يَـٰٓأَيُّهَا ٱلرَّسُولُ بَلِّغْ مَآ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ ۖ وَإِن لَّمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُۥ ۚ وَٱللَّهُ يَعْصِمُكَ مِنَ ٱلنَّاسِ ۗ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلْكَـٰفِرِينَ",
+            "verseEn": "O Messenger, announce that which has been revealed to you from your Lord, and if you do not, then you have not conveyed His message. And Allāh will protect you from the people. Indeed, Allāh does not guide the disbelieving people."
+          }
+        ]
+      },
+      {
+        "name": "الْعِبَادَاتُ الْمَفْرُوضَةُ",
+        "nameEn": "Obligatory Acts of Worship",
+        "color": "green",
+        "items": [
+          {
+            "ar": "الصَّلَاةَ",
+            "en": "prayer",
+            "ref": "31:4",
+            "verse": "ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَهُم بِٱلْـَٔاخِرَةِ هُمْ يُوقِنُونَ",
+            "verseEn": "Who establish prayer and give zakāh, and they, of the Hereafter, are certain [in faith]."
+          },
+          {
+            "ar": "الزَّكَاةَ",
+            "en": "zakat",
+            "ref": "41:7",
+            "verse": "ٱلَّذِينَ لَا يُؤْتُونَ ٱلزَّكَوٰةَ وَهُم بِٱلْـَٔاخِرَةِ هُمْ كَـٰفِرُونَ",
+            "verseEn": "Those who do not give zakāh, and in the Hereafter they are disbelievers."
+          },
+          {
+            "ar": "صَوْمًا",
+            "en": "fasting",
+            "ref": "19:26",
+            "verse": "فَكُلِى وَٱشْرَبِى وَقَرِّى عَيْنًۭا ۖ فَإِمَّا تَرَيِنَّ مِنَ ٱلْبَشَرِ أَحَدًۭا فَقُولِىٓ إِنِّى نَذَرْتُ لِلرَّحْمَـٰنِ صَوْمًۭا فَلَنْ أُكَلِّمَ ٱلْيَوْمَ إِنسِيًّۭا",
+            "verseEn": "So eat and drink and be contented. And if you see from among humanity anyone, say, 'Indeed, I have vowed to the Most Merciful abstention, so I will not speak today to [any] man.'\""
+          },
+          {
+            "ar": "الْحَجِّ",
+            "en": "hajj",
+            "ref": "22:27",
+            "verse": "وَأَذِّن فِى ٱلنَّاسِ بِٱلْحَجِّ يَأْتُوكَ رِجَالًۭا وَعَلَىٰ كُلِّ ضَامِرٍۢ يَأْتِينَ مِن كُلِّ فَجٍّ عَمِيقٍۢ",
+            "verseEn": "And proclaim to the people the ḥajj [pilgrimage]; they will come to you on foot and on every lean camel; they will come from every distant pass -"
+          }
+        ]
+      },
+      {
+        "name": "أَلْفَاظُ الْمِيرَاثِ فِي الْقُرْآنِ",
+        "nameEn": "Quranic Inheritance Terminology",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "فَرِيضَةً",
+            "en": "obligation / ordained share",
+            "ref": "4:11",
+            "verse": "يُوصِيكُمُ ٱللَّهُ فِىٓ أَوْلَـٰدِكُمْ ۖ لِلذَّكَرِ مِثْلُ حَظِّ ٱلْأُنثَيَيْنِ ۚ فَإِن كُنَّ نِسَآءًۭ فَوْقَ ٱثْنَتَيْنِ فَلَهُنَّ ثُلُثَا مَا تَرَكَ ۖ وَإِن كَانَتْ وَٰحِدَةًۭ فَلَهَا ٱلنِّصْفُ ۚ وَلِأَبَوَيْهِ لِكُلِّ وَٰحِدٍۢ مِّنْهُمَا ٱلسُّدُسُ مِمَّا تَرَكَ إِن كَانَ لَهُۥ وَلَدٌۭ ۚ فَإِن لَّمْ يَكُن لَّهُۥ وَلَدٌۭ وَوَرِثَهُۥٓ أَبَوَاهُ فَلِأُمِّهِ ٱلثُّلُثُ ۚ فَإِن كَانَ لَهُۥٓ إِخْوَةٌۭ فَلِأُمِّهِ ٱلسُّدُسُ ۚ مِنۢ بَعْدِ وَصِيَّةٍۢ يُوصِى بِهَآ أَوْ دَيْنٍ ۗ ءَابَآؤُكُمْ وَأَبْنَآؤُكُمْ لَا تَدْرُونَ أَيُّهُمْ أَقْرَبُ لَكُمْ نَفْعًۭا ۚ فَرِيضَةًۭ مِّنَ ٱللَّهِ ۗ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمًۭا",
+            "verseEn": "Allāh instructs you concerning your children [i.e., their portions of inheritance]: for the male, what is equal to the share of two females. But if there are [only] daughters, two or more, for them is two thirds of one's estate. And if there is only one, for her is half. And for one's parents, to each one of them is a sixth of his estate if he left children. But if he had no children and the parents [alone] inherit from him, then for his mother is one third. And if he had brothers [and/or sisters], for his mother is a sixth, after any bequest he [may have] made or debt. Your parents or your children - you know not which of them are nearest to you in benefit. [These shares are] an obligation [imposed] by Allāh. Indeed, Allāh is ever Knowing and Wise."
+          },
+          {
+            "ar": "كَلَالَةً",
+            "en": "having no parent or child (inheritance term)",
+            "ref": "4:12",
+            "verse": "۞ وَلَكُمْ نِصْفُ مَا تَرَكَ أَزْوَٰجُكُمْ إِن لَّمْ يَكُن لَّهُنَّ وَلَدٌۭ ۚ فَإِن كَانَ لَهُنَّ وَلَدٌۭ فَلَكُمُ ٱلرُّبُعُ مِمَّا تَرَكْنَ ۚ مِنۢ بَعْدِ وَصِيَّةٍۢ يُوصِينَ بِهَآ أَوْ دَيْنٍۢ ۚ وَلَهُنَّ ٱلرُّبُعُ مِمَّا تَرَكْتُمْ إِن لَّمْ يَكُن لَّكُمْ وَلَدٌۭ ۚ فَإِن كَانَ لَكُمْ وَلَدٌۭ فَلَهُنَّ ٱلثُّمُنُ مِمَّا تَرَكْتُم ۚ مِّنۢ بَعْدِ وَصِيَّةٍۢ تُوصُونَ بِهَآ أَوْ دَيْنٍۢ ۗ وَإِن كَانَ رَجُلٌۭ يُورَثُ كَلَـٰلَةً أَوِ ٱمْرَأَةٌۭ وَلَهُۥٓ أَخٌ أَوْ أُخْتٌۭ فَلِكُلِّ وَٰحِدٍۢ مِّنْهُمَا ٱلسُّدُسُ ۚ فَإِن كَانُوٓا۟ أَكْثَرَ مِن ذَٰلِكَ فَهُمْ شُرَكَآءُ فِى ٱلثُّلُثِ ۚ مِنۢ بَعْدِ وَصِيَّةٍۢ يُوصَىٰ بِهَآ أَوْ دَيْنٍ غَيْرَ مُضَآرٍّۢ ۚ وَصِيَّةًۭ مِّنَ ٱللَّهِ ۗ وَٱللَّهُ عَلِيمٌ حَلِيمٌۭ",
+            "verseEn": "And for you is half of what your wives leave if they have no child. But if they have a child, for you is one fourth of what they leave, after any bequest they [may have] made or debt. And for them [i.e., the wives] is one fourth if you leave no child. But if you leave a child, then for them is an eighth of what you leave, after any bequest you [may have] made or debt. And if a man or woman leaves neither ascendants nor descendants but has a brother or a sister, then for each one of them is a sixth. But if they are more than two, they share a third, after any bequest which was made or debt, as long as there is no detriment [caused]. [This is] an ordinance from Allāh, and Allāh is Knowing and Forbearing."
+          },
+          {
+            "ar": "الْوَصِيَّةُ",
+            "en": "bequest / will",
+            "ref": "2:180",
+            "verse": "كُتِبَ عَلَيْكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ إِن تَرَكَ خَيْرًا ٱلْوَصِيَّةُ لِلْوَٰلِدَيْنِ وَٱلْأَقْرَبِينَ بِٱلْمَعْرُوفِ ۖ حَقًّا عَلَى ٱلْمُتَّقِينَ",
+            "verseEn": "Prescribed for you when death approaches [any] one of you if he leaves wealth [is that he should make] a bequest for the parents and near relatives according to what is acceptable - a duty upon the righteous."
+          },
+          {
+            "ar": "نَصِيبٌ",
+            "en": "share / portion",
+            "ref": "4:7",
+            "verse": "لِّلرِّجَالِ نَصِيبٌۭ مِّمَّا تَرَكَ ٱلْوَٰلِدَانِ وَٱلْأَقْرَبُونَ وَلِلنِّسَآءِ نَصِيبٌۭ مِّمَّا تَرَكَ ٱلْوَٰلِدَانِ وَٱلْأَقْرَبُونَ مِمَّا قَلَّ مِنْهُ أَوْ كَثُرَ ۚ نَصِيبًۭا مَّفْرُوضًۭا",
+            "verseEn": "For men is a share of what the parents and close relatives leave, and for women is a share of what the parents and close relatives leave, be it little or much - an obligatory share."
+          }
+        ]
+      },
+      {
+        "name": "أَسْمَاءُ السُّوَرِ",
+        "nameEn": "Surah Names in the Quran",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "الْأَنفَالُ",
+            "en": "The Spoils of War",
+            "ref": "8:1",
+            "verse": "يَسْـَٔلُونَكَ عَنِ ٱلْأَنفَالِ ۖ قُلِ ٱلْأَنفَالُ لِلَّهِ وَٱلرَّسُولِ ۖ فَٱتَّقُوا۟ ٱللَّهَ وَأَصْلِحُوا۟ ذَاتَ بَيْنِكُمْ ۖ وَأَطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥٓ إِن كُنتُم مُّؤْمِنِينَ",
+            "verseEn": "They ask you, [O Muḥammad], about the bounties [of war]. Say, \"The [decision concerning] bounties is for Allāh and the Messenger.\" So fear Allāh and amend that which is between you and obey Allāh and His Messenger, if you should be believers."
+          },
+          {
+            "ar": "الْحُجُرَاتِ",
+            "en": "The Chambers",
+            "ref": "49:4",
+            "verse": "إِنَّ ٱلَّذِينَ يُنَادُونَكَ مِن وَرَآءِ ٱلْحُجُرَٰتِ أَكْثَرُهُمْ لَا يَعْقِلُونَ",
+            "verseEn": "Indeed, those who call you, [O Muḥammad], from behind the chambers - most of them do not use reason."
+          },
+          {
+            "ar": "الرُّومُ",
+            "en": "The Romans",
+            "ref": "30:2",
+            "verse": "غُلِبَتِ ٱلرُّومُ",
+            "verseEn": "The Byzantines have been defeated"
+          },
+          {
+            "ar": "التَّكَاثُرُ",
+            "en": "Rivalry in Wealth",
+            "ref": "102:1",
+            "verse": "أَلْهَىٰكُمُ ٱلتَّكَاثُرُ",
+            "verseEn": "Competition in [worldly] increase diverts you"
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "حسنة",
+    "display": "حَسَنَة",
+    "hint": "A good deed",
+    "verseRef": "4:85",
+    "arabicVerse": "مَّن يَشْفَعْ شَفَـٰعَةً حَسَنَةًۭ يَكُن لَّهُۥ نَصِيبٌۭ مِّنْهَا ۖ وَمَن يَشْفَعْ شَفَـٰعَةًۭ سَيِّئَةًۭ يَكُن لَّهُۥ كِفْلٌۭ مِّنْهَا ۗ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ مُّقِيتًۭا",
+    "verse": "4:85 - Whoever intercedes for a good cause will have a share [i.e., reward] therefrom; and whoever intercedes for an evil cause will have a portion [i.e., burden] therefrom. And ever is Allāh, over all things, a Keeper."
+  },
+  "deduction": {
+    "title": "The Persistent Soul's Trial",
+    "intro": "A soul stands at a moment of divine testing, seeking guidance with humble persistence. The One who knows all turns this seeker away, only to reveal later that this was a trial of the heart. Through this mysterious exchange, a lesson about divine wisdom unfolds before those who reflect. Can you identify this figure from the Quranic narrative?",
+    "clues": [
+      "I sought knowledge and guidance from the beloved messenger of Allah",
+      "I came seeking truth, calling upon the Prophet with earnest desire",
+      "I was rebuked and turned away, for Allah's wisdom had other plans for that moment",
+      "Yet I did not despair—instead, I pressed forward in my seeking",
+      "The One who knows all declared this was a trial of the heart and a warning",
+      "I was among those about whom the Quran reveals: 'He frowned and turned away, because there came to him the blind man'"
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "The Hypocrite Seeking Doubt",
+          "The Blind Seeker of Truth",
+          "The Idol-Worshipper of Makkah",
+          "The Unbeliever Mocking the Prophet",
+          "The Traveler from Yemen"
+        ],
+        "answer": "The Blind Seeker of Truth"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "Being rebuked by the Prophet Muhammad during prayer",
+          "Being tested with drought and famine in Makkah",
+          "Being turned away at the gates of paradise",
+          "Being rejected by one's own people for faith",
+          "Being tested with wealth and children"
+        ],
+        "answer": "Being rebuked by the Prophet Muhammad during prayer"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "Inside the Kaaba during pilgrimage season",
+          "In the presence of the Prophet during recitation",
+          "Atop Mount Safa during morning hours",
+          "In the marketplace of Makkah surrounded by disbelievers",
+          "Near the well of Zamzam during Hajj"
+        ],
+        "answer": "In the presence of the Prophet during recitation"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "The seeker was martyred by Quraysh for faith",
+          "The incident was recorded as a trial and lesson for the Ummah",
+          "The seeker became a companion and leader",
+          "The seeker's wealth was multiplied tenfold",
+          "The seeker returned to disbelief"
+        ],
+        "answer": "The incident was recorded as a trial and lesson for the Ummah"
+      }
+    },
+    "verseRef": "80:1-2",
+    "arabic": "",
+    "verse": "80:1-2"
+  },
+  "scramble": {
+    "verseRef": "7:56",
+    "reference": "Surah Al-A'raf (7:56)",
+    "segments": [
+      "Do not make corruption",
+      "in the land",
+      "after its reform",
+      "and call upon Him"
+    ],
+    "translations": [
+      "And (do) not cause corruption in the earth",
+      "after its reformation And call Him (in) fear",
+      "and hope Indeed (the) Mercy (of) Allah",
+      "(is) near for the good-doers"
+    ],
+    "hint": "A guidance verse about maintaining moral order and sincere worship to Allah",
+    "arabic": "وَلَا تُفْسِدُوا۟ فِى ٱلْأَرْضِ بَعْدَ إِصْلَـٰحِهَا وَٱدْعُوهُ خَوْفًۭا وَطَمَعًا ۚ إِنَّ رَحْمَتَ ٱللَّهِ قَرِيبٌۭ مِّنَ ٱلْمُحْسِنِينَ",
+    "words": [
+      "وَلَا تُفْسِدُوا۟ فِى ٱلْأَرْضِ",
+      "بَعْدَ إِصْلَـٰحِهَا وَٱدْعُوهُ خَوْفًۭا",
+      "وَطَمَعًا ۚ إِنَّ رَحْمَتَ ٱللَّهِ",
+      "قَرِيبٌۭ مِّنَ ٱلْمُحْسِنِينَ"
+    ],
+    "verseEn": "And cause not corruption upon the earth after its reformation. And invoke Him in fear and aspiration. Indeed, the mercy of Allāh is near to the doers of good."
+  }
+}

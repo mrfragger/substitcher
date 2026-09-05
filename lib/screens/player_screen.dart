@@ -157,6 +157,8 @@ class _PlayerScreenState extends State<PlayerScreen>
   bool _shuffleEnabled = false;
   String _conversionType = 'none';
   List<int> _playedChapters = [];
+  int _repeatCount = 1;
+  int _repeatPlaysCompleted = 0;
 
   bool _showPanel = false;
   PanelMode _panelMode = PanelMode.chapters;
@@ -614,6 +616,30 @@ class _PlayerScreenState extends State<PlayerScreen>
           .firstWhere((buffering) => !buffering)
           .timeout(timeout);
     } catch (_) {
+    }
+  }
+
+  Future<void> _navigateToQuranVerseFromQuiz(
+      QuranVerseRef ref, int filteredIndex) async {
+    await _navigateToQuranVerse(ref, filteredIndex);
+    if (mounted) {
+      setState(() {
+        _showPanel = true;
+        _panelMode = PanelMode.quiz;
+        _panelCollapsed = false;
+      });
+    }
+  }
+
+  Future<void> _navigateToQuranVerseFromConnections(
+      QuranVerseRef ref, int filteredIndex) async {
+    await _navigateToQuranVerse(ref, filteredIndex);
+    if (mounted) {
+      setState(() {
+        _showPanel = true;
+        _panelMode = PanelMode.related;
+        _panelCollapsed = true;
+      });
     }
   }
 
@@ -1199,6 +1225,15 @@ class _PlayerScreenState extends State<PlayerScreen>
           _triggerSleepTimerCountdown();
         }
         return;
+      }
+      if (_pendingStopRef == null && _repeatCount > 1) {
+        _repeatPlaysCompleted++;
+        if (_repeatPlaysCompleted < _repeatCount) {
+          player.seek(chapter.startTime);
+          player.play();
+          return;
+        }
+        _repeatPlaysCompleted = 0;
       }
       if (_shuffleEnabled && !_isYouTubeStream) {
         final unplayedChapters =
@@ -6171,6 +6206,7 @@ class _PlayerScreenState extends State<PlayerScreen>
   }
 
   Future<void> _previousChapter() async {
+    _repeatPlaysCompleted = 0;
     if (_currentAudiobook == null) return;
 
     final currentChapter = _currentAudiobook!.chapters[_currentChapterIndex];
@@ -6201,6 +6237,7 @@ class _PlayerScreenState extends State<PlayerScreen>
   Future<void> _nextChapter({bool fromBoundary = false}) async {
     if (_currentAudiobook == null) return;
     if (!fromBoundary) {
+      _repeatPlaysCompleted = 0;
       final currentChapter = _currentAudiobook!.chapters[_currentChapterIndex];
       await _statsManager.recordChapterEnd(
         path.basenameWithoutExtension(_currentAudiobook!.path),
@@ -6235,6 +6272,7 @@ class _PlayerScreenState extends State<PlayerScreen>
         index >= 0 &&
         index < _currentAudiobook!.chapters.length) {
       if (_currentChapterIndex != index) {
+        _repeatPlaysCompleted = 0;
         final currentChapter =
             _currentAudiobook!.chapters[_currentChapterIndex];
         await _statsManager.recordChapterEnd(
@@ -6779,6 +6817,7 @@ class _PlayerScreenState extends State<PlayerScreen>
       setState(() {
         _currentAudiobook = metadata;
         _currentChapterIndex = chapterToLoad;
+        _repeatPlaysCompleted = 0;
         _currentPosition = positionToLoad;
         _fileSize = fileSize;
         _shuffleEnabled = historyItem.shuffleEnabled;
@@ -7628,6 +7667,22 @@ class _PlayerScreenState extends State<PlayerScreen>
     });
   }
 
+  int? _digitKeyToRepeatCount(LogicalKeyboardKey key) {
+    final map = {
+      LogicalKeyboardKey.digit0: 10, LogicalKeyboardKey.numpad0: 10,
+      LogicalKeyboardKey.digit1: 1, LogicalKeyboardKey.numpad1: 1,
+      LogicalKeyboardKey.digit2: 2, LogicalKeyboardKey.numpad2: 2,
+      LogicalKeyboardKey.digit3: 3, LogicalKeyboardKey.numpad3: 3,
+      LogicalKeyboardKey.digit4: 4, LogicalKeyboardKey.numpad4: 4,
+      LogicalKeyboardKey.digit5: 5, LogicalKeyboardKey.numpad5: 5,
+      LogicalKeyboardKey.digit6: 6, LogicalKeyboardKey.numpad6: 6,
+      LogicalKeyboardKey.digit7: 7, LogicalKeyboardKey.numpad7: 7,
+      LogicalKeyboardKey.digit8: 8, LogicalKeyboardKey.numpad8: 8,
+      LogicalKeyboardKey.digit9: 9, LogicalKeyboardKey.numpad9: 9,
+    };
+    return map[key];
+  }
+
   @override
   Widget build(BuildContext context) {
     if (_showEncoderScreen) {
@@ -7737,6 +7792,20 @@ class _PlayerScreenState extends State<PlayerScreen>
               });
               return KeyEventResult.handled;
             }
+          } else if (HardwareKeyboard.instance.isControlPressed &&
+              event is KeyDownEvent &&
+              _digitKeyToRepeatCount(event.logicalKey) != null) {
+            final n = _digitKeyToRepeatCount(event.logicalKey)!;
+            setState(() {
+              _repeatCount = n;
+              _repeatPlaysCompleted = 0;
+            });
+            if (mounted) {
+              ScaffoldMessenger.of(context).showSnackBar(
+                SnackBar(content: Text('Repeat ${n}x'), duration: const Duration(seconds: 1)),
+              );
+            }
+            return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.backquote &&
               event is KeyDownEvent) {
             final wasCollapsed = _panelCollapsed;
@@ -8684,7 +8753,9 @@ class _PlayerScreenState extends State<PlayerScreen>
                       _panelMode == PanelMode.playlist ||
                       _panelMode == PanelMode.bookmarks ||
                       _panelMode == PanelMode.stats ||
-                      _panelMode == PanelMode.quran))
+                      _panelMode == PanelMode.quran ||
+                      _panelMode == PanelMode.quiz ||
+                      _panelMode == PanelMode.related))
                 SidePanel(
                   panelMode: _panelMode,
                   isCollapsed: _panelCollapsed,
@@ -8985,6 +9056,8 @@ class _PlayerScreenState extends State<PlayerScreen>
                   isQuranLoaded: _isQuranVerseByVerse,
                   activeQuranRef: _activeQuranRef,
                   onQuranVerseSelected: _navigateToQuranVerse,
+                  onQuizVerseSelected: _navigateToQuranVerseFromQuiz,
+                  onRelatedVerseSelected: _navigateToQuranVerseFromConnections,
                   onQuranPlayAllRequested: _playAllQuranRefs,
                   quranSearchFocusNode: _quranSearchFocusNode,
                   quranExcludeFocusNode: _quranExcludeFocusNode,
@@ -9735,6 +9808,7 @@ class _PlayerScreenState extends State<PlayerScreen>
               _saveDefaultSettings();
             },
             sliderHoverPosition: _sliderHoverPosition,
+            repeatCount: _repeatCount,
             hoveredChapterTitle: _hoveredChapterTitle,
             pauseMode: _pauseMode,
             onTogglePlayPause: _togglePlayPause,
@@ -10018,6 +10092,7 @@ class _PlayerScreenState extends State<PlayerScreen>
         _saveDefaultSettings();
       },
       sliderHoverPosition: _sliderHoverPosition,
+      repeatCount: _repeatCount,
       hoveredChapterTitle: _hoveredChapterTitle,
       pauseMode: _pauseMode,
       onTogglePlayPause: _togglePlayPause,

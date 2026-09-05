@@ -1,0 +1,240 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَفْعَالُ الْحَرَكَةِ",
+        "nameEn": "Verbs of Movement",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "يَمْشُونَ",
+            "en": "They walk",
+            "ref": "17:95",
+            "verse": "قُل لَّوْ كَانَ فِى ٱلْأَرْضِ مَلَـٰٓئِكَةٌۭ يَمْشُونَ مُطْمَئِنِّينَ لَنَزَّلْنَا عَلَيْهِم مِّنَ ٱلسَّمَآءِ مَلَكًۭا رَّسُولًۭا",
+            "verseEn": "Say, \"If there were upon the earth angels walking securely, We would have sent down to them from the heaven an angel [as a] messenger.\""
+          },
+          {
+            "ar": "يَرْكَبُونَ",
+            "en": "They ride",
+            "ref": "36:42",
+            "verse": "وَخَلَقْنَا لَهُم مِّن مِّثْلِهِۦ مَا يَرْكَبُونَ",
+            "verseEn": "And We created for them from the likes of it that which they ride."
+          },
+          {
+            "ar": "اذْهَبْ",
+            "en": "Go!",
+            "ref": "20:42",
+            "verse": "ٱذْهَبْ أَنتَ وَأَخُوكَ بِـَٔايَـٰتِى وَلَا تَنِيَا فِى ذِكْرِى",
+            "verseEn": "Go, you and your brother, with My signs and do not slacken in My remembrance."
+          },
+          {
+            "ar": "جَاءَهُمْ",
+            "en": "There came to them",
+            "ref": "2:89",
+            "verse": "وَلَمَّا جَآءَهُمْ كِتَـٰبٌۭ مِّنْ عِندِ ٱللَّهِ مُصَدِّقٌۭ لِّمَا مَعَهُمْ وَكَانُوا۟ مِن قَبْلُ يَسْتَفْتِحُونَ عَلَى ٱلَّذِينَ كَفَرُوا۟ فَلَمَّا جَآءَهُم مَّا عَرَفُوا۟ كَفَرُوا۟ بِهِۦ ۚ فَلَعْنَةُ ٱللَّهِ عَلَى ٱلْكَـٰفِرِينَ",
+            "verseEn": "And when there came to them a Book [i.e., the Qur’ān] from Allāh confirming that which was with them - although before they used to pray for victory against those who disbelieved - but [then] when there came to them that which they recognized, they disbelieved in it; so the curse of Allāh will be upon the disbelievers."
+          }
+        ]
+      },
+      {
+        "name": "آيَاتُ الرِّزْقِ مِنَ السَّمَاءِ وَالْأَرْضِ",
+        "nameEn": "Divine Sustenance through Natural Phenomena",
+        "color": "green",
+        "items": [
+          {
+            "ar": "ٱلْبَرْقَ",
+            "en": "the lightning",
+            "ref": "30:24",
+            "verse": "وَمِنْ ءَايَـٰتِهِۦ يُرِيكُمُ ٱلْبَرْقَ خَوْفًۭا وَطَمَعًۭا وَيُنَزِّلُ مِنَ ٱلسَّمَآءِ مَآءًۭ فَيُحْىِۦ بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَآ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍۢ لِّقَوْمٍۢ يَعْقِلُونَ",
+            "verseEn": "And of His signs is [that] He shows you the lightning [causing] fear and aspiration, and He sends down rain from the sky by which He brings to life the earth after its lifelessness. Indeed in that are signs for a people who use reason."
+          },
+          {
+            "ar": "سَحَابًۭا",
+            "en": "clouds",
+            "ref": "30:48",
+            "verse": "ٱللَّهُ ٱلَّذِى يُرْسِلُ ٱلرِّيَـٰحَ فَتُثِيرُ سَحَابًۭا فَيَبْسُطُهُۥ فِى ٱلسَّمَآءِ كَيْفَ يَشَآءُ وَيَجْعَلُهُۥ كِسَفًۭا فَتَرَى ٱلْوَدْقَ يَخْرُجُ مِنْ خِلَـٰلِهِۦ ۖ فَإِذَآ أَصَابَ بِهِۦ مَن يَشَآءُ مِنْ عِبَادِهِۦٓ إِذَا هُمْ يَسْتَبْشِرُونَ",
+            "verseEn": "It is Allāh who sends the winds, and they stir the clouds and spread them in the sky however He wills, and He makes them fragments so you see the rain emerge from within them. And when He causes it to fall upon whom He wills of His servants, immediately they rejoice"
+          },
+          {
+            "ar": "مَّطَرًۭا",
+            "en": "rain",
+            "ref": "26:173",
+            "verse": "وَأَمْطَرْنَا عَلَيْهِم مَّطَرًۭا ۖ فَسَآءَ مَطَرُ ٱلْمُنذَرِينَ",
+            "verseEn": "And We rained upon them a rain [of stones], and evil was the rain of those who were warned."
+          },
+          {
+            "ar": "ٱلْأَنْعَٰمِ",
+            "en": "the cattle",
+            "ref": "23:21",
+            "verse": "وَإِنَّ لَكُمْ فِى ٱلْأَنْعَـٰمِ لَعِبْرَةًۭ ۖ نُّسْقِيكُم مِّمَّا فِى بُطُونِهَا وَلَكُمْ فِيهَا مَنَـٰفِعُ كَثِيرَةٌۭ وَمِنْهَا تَأْكُلُونَ",
+            "verseEn": "And indeed, for you in livestock is a lesson. We give you drink from that which is in their bellies, and for you in them are numerous benefits, and from them you eat."
+          }
+        ]
+      },
+      {
+        "name": "التدبير الإلهي المحدد والآيات الكونية",
+        "nameEn": "Specific Divine Orchestration and Cosmic Signs",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "ٱلْأَوْتَادِ",
+            "en": "the pegs (stakes/armies)",
+            "ref": "38:12",
+            "verse": "كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍۢ وَعَادٌۭ وَفِرْعَوْنُ ذُو ٱلْأَوْتَادِ",
+            "verseEn": "The people of Noah denied before them, and [the tribe of] ʿAad and Pharaoh, the owner of stakes,"
+          },
+          {
+            "ar": "خَزَائِنُهُۥ",
+            "en": "His storehouses",
+            "ref": "15:21",
+            "verse": "وَإِن مِّن شَىْءٍ إِلَّا عِندَنَا خَزَآئِنُهُۥ وَمَا نُنَزِّلُهُۥٓ إِلَّا بِقَدَرٍۢ مَّعْلُومٍۢ",
+            "verseEn": "And there is not a thing but that with Us are its depositories, and We do not send it down except according to a known [i.e., specified] measure."
+          },
+          {
+            "ar": "شَدِيدُ",
+            "en": "severe (as in punishment)",
+            "ref": "13:6",
+            "verse": "وَيَسْتَعْجِلُونَكَ بِٱلسَّيِّئَةِ قَبْلَ ٱلْحَسَنَةِ وَقَدْ خَلَتْ مِن قَبْلِهِمُ ٱلْمَثُلَـٰتُ ۗ وَإِنَّ رَبَّكَ لَذُو مَغْفِرَةٍۢ لِّلنَّاسِ عَلَىٰ ظُلْمِهِمْ ۖ وَإِنَّ رَبَّكَ لَشَدِيدُ ٱلْعِقَابِ",
+            "verseEn": "They impatiently urge you to bring about evil before good, while there has already occurred before them similar punishments [to what they demand]. And indeed, your Lord is the possessor of forgiveness for the people despite their wrongdoing, and indeed, your Lord is severe in penalty."
+          },
+          {
+            "ar": "لَحَٰفِظِينَ",
+            "en": "guardians",
+            "ref": "82:10",
+            "verse": "وَإِنَّ عَلَيْكُمْ لَحَـٰفِظِينَ",
+            "verseEn": "And indeed, [appointed] over you are keepers,"
+          }
+        ]
+      },
+      {
+        "name": "مُصْطَلَحَاتٌ دُنْيَوِيَّةٌ بِدَلَالَاتٍ إِلَٰهِيَّةٍ عَمِيقَةٍ",
+        "nameEn": "Mundane Terms with Profound Divine Significance",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "أَضْغَٰثُ",
+            "en": "confused mixtures (of dreams)",
+            "ref": "12:44",
+            "verse": "قَالُوٓا۟ أَضْغَـٰثُ أَحْلَـٰمٍۢ ۖ وَمَا نَحْنُ بِتَأْوِيلِ ٱلْأَحْلَـٰمِ بِعَـٰلِمِينَ",
+            "verseEn": "They said, \"[It is but] a mixture of false dreams, and we are not learned in the interpretation of dreams.\""
+          },
+          {
+            "ar": "خُطُوَٰتِ",
+            "en": "footsteps",
+            "ref": "2:168",
+            "verse": "يَـٰٓأَيُّهَا ٱلنَّاسُ كُلُوا۟ مِمَّا فِى ٱلْأَرْضِ حَلَـٰلًۭا طَيِّبًۭا وَلَا تَتَّبِعُوا۟ خُطُوَٰتِ ٱلشَّيْطَـٰنِ ۚ إِنَّهُۥ لَكُمْ عَدُوٌّۭ مُّبِينٌ",
+            "verseEn": "O mankind, eat from whatever is on earth [that is] lawful and good and do not follow the footsteps of Satan. Indeed, he is to you a clear enemy."
+          },
+          {
+            "ar": "صَلْصَٰلٍ",
+            "en": "dry clay",
+            "ref": "15:26",
+            "verse": "وَلَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ مِن صَلْصَـٰلٍۢ مِّنْ حَمَإٍۢ مَّسْنُونٍۢ",
+            "verseEn": "And We did certainly create man out of clay from an altered black mud."
+          },
+          {
+            "ar": "أَثَٰرَةٍ",
+            "en": "a trace/remnant",
+            "ref": "46:4",
+            "verse": "قُلْ أَرَءَيْتُم مَّا تَدْعُونَ مِن دُونِ ٱللَّهِ أَرُونِى مَاذَا خَلَقُوا۟ مِنَ ٱلْأَرْضِ أَمْ لَهُمْ شِرْكٌۭ فِى ٱلسَّمَـٰوَٰتِ ۖ ٱئْتُونِى بِكِتَـٰبٍۢ مِّن قَبْلِ هَـٰذَآ أَوْ أَثَـٰرَةٍۢ مِّنْ عِلْمٍ إِن كُنتُمْ صَـٰدِقِينَ",
+            "verseEn": "Say, [O Muḥammad], \"Have you considered that which you invoke besides Allāh? Show me what they have created of the earth; or did they have partnership in [creation of] the heavens? Bring me a scripture [revealed] before this or a [remaining] trace of knowledge, if you should be truthful.\""
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "روح",
+    "display": "رُوح",
+    "hint": "It was sent to Mary in the form of a perfect man.",
+    "verseRef": "19:17",
+    "arabicVerse": "فَٱتَّخَذَتْ مِن دُونِهِمْ حِجَابًۭا فَأَرْسَلْنَآ إِلَيْهَا رُوحَنَا فَتَمَثَّلَ لَهَا بَشَرًۭا سَوِيًّۭا",
+    "verse": "19:17 — And she took, in seclusion from them, a screen. Then We sent to her Our Angel [i.e., Gabriel], and he represented himself to her as a well-proportioned man."
+  },
+  "deduction": {
+    "title": "The Steadfast Seeker of Truth",
+    "intro": "In a time shrouded by ignorance and the worship of false deities, a profound journey of faith unfolded. This individual challenged the norms of their society, seeking the One True Creator with unwavering conviction. Prepare to uncover the identity of a soul whose legacy continues to inspire millions.",
+    "clues": [
+      "I questioned the celestial bodies, seeking the true Lord who creates and sustains all.",
+      "I was commanded to leave my homeland, journeying to a land blessed by Allah.",
+      "I challenged the idols of my people, confronting their futility directly by breaking them.",
+      "I was cast into a raging fire by my people, yet it became cool and peaceful for me by Allah's command.",
+      "I was tested with the command to sacrifice my beloved firstborn son, a trial of ultimate submission.",
+      "I, along with my son, raised the foundations of the first House of Worship on Earth, a sanctuary for all humanity."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Prophet Nuh",
+          "Prophet Yusuf",
+          "Prophet Salih",
+          "Prophet Ibrahim",
+          "Prophet Isa"
+        ],
+        "answer": "Prophet Ibrahim"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "The great flood",
+          "The splitting of the sea",
+          "The destruction of Thamud",
+          "The command to sacrifice a son",
+          "The journey through the desert with the Ark"
+        ],
+        "answer": "The command to sacrifice a son"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "The Staff",
+          "The Mountain of Tur",
+          "The Ark",
+          "The Kaaba",
+          "The Golden Calf"
+        ],
+        "answer": "The Kaaba"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "Became a ruler of Egypt",
+          "His people were drowned",
+          "Was granted wisdom and a righteous lineage",
+          "Was swallowed by a whale",
+          "His city was overturned"
+        ],
+        "answer": "Was granted wisdom and a righteous lineage"
+      }
+    },
+    "verseRef": "21:69",
+    "arabic": "قُلْنَا يَـٰنَارُ كُونِى بَرْدًۭا وَسَلَـٰمًا عَلَىٰٓ إِبْرَٰهِيمَ",
+    "verse": "We [i.e., Allāh] said, \"O fire, be coolness and safety upon Abraham.\" (21:69)"
+  },
+  "scramble": {
+    "verseRef": "89:28",
+    "reference": "Surah Al-Fajr (89:28)",
+    "segments": [
+      "ارْجِعِي",
+      "إِلَىٰ رَبِّكِ",
+      "رَاضِيَةً",
+      "مَّرْضِيَّةً"
+    ],
+    "translations": [
+      "Return to",
+      "your Lord",
+      "well pleased",
+      "and pleasing"
+    ],
+    "hint": "This verse speaks to the tranquil soul's ultimate journey and its state upon returning to its Creator.",
+    "arabic": "ٱرْجِعِىٓ إِلَىٰ رَبِّكِ رَاضِيَةًۭ مَّرْضِيَّةًۭ",
+    "words": [
+      "ٱرْجِعِىٓ إِلَىٰ",
+      "رَبِّكِ",
+      "رَاضِيَةًۭ",
+      "مَّرْضِيَّةًۭ"
+    ],
+    "verseEn": "Return to your Lord, well-pleased and pleasing [to Him],"
+  }
+}

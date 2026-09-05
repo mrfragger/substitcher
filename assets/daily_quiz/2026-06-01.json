@@ -1,0 +1,240 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَوْقَاتُ الْيَوْمِ",
+        "nameEn": "Times of the Day",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "ٱلَّيْلِ",
+            "en": "the night",
+            "ref": "3:190",
+            "verse": "إِنَّ فِى خَلْقِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَـٰفِ ٱلَّيْلِ وَٱلنَّهَارِ لَـَٔايَـٰتٍۢ لِّأُو۟لِى ٱلْأَلْبَـٰبِ",
+            "verseEn": "Indeed, in the creation of the heavens and the earth and the alternation of the night and the day are signs for those of understanding -"
+          },
+          {
+            "ar": "ٱلْأَسْحَارِ",
+            "en": "the dawns",
+            "ref": "3:17",
+            "verse": "ٱلصَّـٰبِرِينَ وَٱلصَّـٰدِقِينَ وَٱلْقَـٰنِتِينَ وَٱلْمُنفِقِينَ وَٱلْمُسْتَغْفِرِينَ بِٱلْأَسْحَارِ",
+            "verseEn": "The patient, the true, the obedient, those who spend [in the way of Allāh], and those who seek forgiveness before dawn."
+          },
+          {
+            "ar": "ٱلْفَجْرِ",
+            "en": "the dawn",
+            "ref": "89:1",
+            "verse": "وَٱلْفَجْرِ",
+            "verseEn": "By the dawn"
+          },
+          {
+            "ar": "صُبْحًۭا",
+            "en": "morning",
+            "ref": "100:3",
+            "verse": "فَٱلْمُغِيرَٰتِ صُبْحًۭا",
+            "verseEn": "And the chargers at dawn,"
+          }
+        ]
+      },
+      {
+        "name": "حَوَآسُّ ٱلْإِدْرَاكِ ٱلْبَشَرِيِّ",
+        "nameEn": "Faculties of Human Perception",
+        "color": "green",
+        "items": [
+          {
+            "ar": "أَبْصَٰرِهِمْ",
+            "en": "their sights",
+            "ref": "2:20",
+            "verse": "يَكَادُ ٱلْبَرْقُ يَخْطَفُ أَبْصَـٰرَهُمْ ۖ كُلَّمَآ أَضَآءَ لَهُم مَّشَوْا۟ فِيهِ وَإِذَآ أَظْلَمَ عَلَيْهِمْ قَامُوا۟ ۚ وَلَوْ شَآءَ ٱللَّهُ لَذَهَبَ بِسَمْعِهِمْ وَأَبْصَـٰرِهِمْ ۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ",
+            "verseEn": "The lightning almost snatches away their sight. Every time it lights [the way] for them, they walk therein; but when darkness comes over them, they stand [still]. And if Allāh had willed, He could have taken away their hearing and their sight. Indeed, Allāh is over all things competent."
+          },
+          {
+            "ar": "ٱلسَّمْعَ",
+            "en": "the hearing",
+            "ref": "17:36",
+            "verse": "وَلَا تَقْفُ مَا لَيْسَ لَكَ بِهِۦ عِلْمٌ ۚ إِنَّ ٱلسَّمْعَ وَٱلْبَصَرَ وَٱلْفُؤَادَ كُلُّ أُو۟لَـٰٓئِكَ كَانَ عَنْهُ مَسْـُٔولًۭا",
+            "verseEn": "And do not pursue that of which you have no knowledge. Indeed, the hearing, the sight and the heart - about all those [one] will be questioned."
+          },
+          {
+            "ar": "ٱلْفُؤَادُ",
+            "en": "the heart (intellect)",
+            "ref": "53:11",
+            "verse": "مَا كَذَبَ ٱلْفُؤَادُ مَا رَأَىٰٓ",
+            "verseEn": "The heart did not lie [about] what it saw."
+          },
+          {
+            "ar": "ٱلْأَلْبَٰبِ",
+            "en": "the intellects",
+            "ref": "12:111",
+            "verse": "لَقَدْ كَانَ فِى قَصَصِهِمْ عِبْرَةٌۭ لِّأُو۟لِى ٱلْأَلْبَـٰبِ ۗ مَا كَانَ حَدِيثًۭا يُفْتَرَىٰ وَلَـٰكِن تَصْدِيقَ ٱلَّذِى بَيْنَ يَدَيْهِ وَتَفْصِيلَ كُلِّ شَىْءٍۢ وَهُدًۭى وَرَحْمَةًۭ لِّقَوْمٍۢ يُؤْمِنُونَ",
+            "verseEn": "There was certainly in their stories a lesson for those of understanding. Never was it [i.e., the Qur’ān] a narration invented, but a confirmation of what was before it and a detailed explanation of all things and guidance and mercy for a people who believe."
+          }
+        ]
+      },
+      {
+        "name": "أَسْمَاءُ الْجَلَالِ وَالْكَمَالِ",
+        "nameEn": "Names of Divine Majesty and Perfection",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "عَزِيزٌ",
+            "en": "Almighty",
+            "ref": "3:4",
+            "verse": "مِن قَبْلُ هُدًۭى لِّلنَّاسِ وَأَنزَلَ ٱلْفُرْقَانَ ۗ إِنَّ ٱلَّذِينَ كَفَرُوا۟ بِـَٔايَـٰتِ ٱللَّهِ لَهُمْ عَذَابٌۭ شَدِيدٌۭ ۗ وَٱللَّهُ عَزِيزٌۭ ذُو ٱنتِقَامٍ",
+            "verseEn": "Before, as guidance for the people. And He revealed the Criterion [i.e., the Qur’ān]. Indeed, those who disbelieve in the verses of Allāh will have a severe punishment, and Allāh is Exalted in Might, the Owner of Retribution."
+          },
+          {
+            "ar": "ٱلْحَكِيمُ",
+            "en": "the Wise",
+            "ref": "2:129",
+            "verse": "رَبَّنَا وَٱبْعَثْ فِيهِمْ رَسُولًۭا مِّنْهُمْ يَتْلُوا۟ عَلَيْهِمْ ءَايَـٰتِكَ وَيُعَلِّمُهُمُ ٱلْكِتَـٰبَ وَٱلْحِكْمَةَ وَيُزَكِّيهِمْ ۚ إِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+            "verseEn": "Our Lord, and send among them a messenger from themselves who will recite to them Your verses and teach them the Book and wisdom and purify them. Indeed, You are the Exalted in Might, the Wise.\""
+          },
+          {
+            "ar": "ٱلْقَهَّارُ",
+            "en": "the Subduer",
+            "ref": "13:16",
+            "verse": "قُلْ مَن رَّبُّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ قُلِ ٱللَّهُ ۚ قُلْ أَفَٱتَّخَذْتُم مِّن دُونِهِۦٓ أَوْلِيَآءَ لَا يَمْلِكُونَ لِأَنفُسِهِمْ نَفْعًۭا وَلَا ضَرًّۭا ۚ قُلْ هَلْ يَسْتَوِى ٱلْأَعْمَىٰ وَٱلْبَصِيرُ أَمْ هَلْ تَسْتَوِى ٱلظُّلُمَـٰتُ وَٱلنُّورُ ۗ أَمْ جَعَلُوا۟ لِلَّهِ شُرَكَآءَ خَلَقُوا۟ كَخَلْقِهِۦ فَتَشَـٰبَهَ ٱلْخَلْقُ عَلَيْهِمْ ۚ قُلِ ٱللَّهُ خَـٰلِقُ كُلِّ شَىْءٍۢ وَهُوَ ٱلْوَٰحِدُ ٱلْقَهَّـٰرُ",
+            "verseEn": "Say, \"Who is Lord of the heavens and earth?\" Say, \"Allāh.\" Say, \"Have you then taken besides Him allies not possessing [even] for themselves any benefit or any harm?\" Say, \"Is the blind equivalent to the seeing? Or is darkness equivalent to light? Or have they attributed to Allāh partners who created like His creation so that the creation [of each] seemed similar to them?\" Say, \"Allāh is the Creator of all things, and He is the One, the Prevailing.\""
+          },
+          {
+            "ar": "ٱلْوَهَّابِ",
+            "en": "the Bestower",
+            "ref": "38:9",
+            "verse": "أَمْ عِندَهُمْ خَزَآئِنُ رَحْمَةِ رَبِّكَ ٱلْعَزِيزِ ٱلْوَهَّابِ",
+            "verseEn": "Or do they have the depositories of the mercy of your Lord, the Exalted in Might, the Bestower?"
+          }
+        ]
+      },
+      {
+        "name": "مفردات زراعية في سياقات متنوعة",
+        "nameEn": "Agricultural Terms across Quranic Stories and Signs",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "الشَّجَرَةَ",
+            "en": "the tree",
+            "ref": "2:35",
+            "verse": "وَقُلْنَا يَـٰٓـَٔادَمُ ٱسْكُنْ أَنتَ وَزَوْجُكَ ٱلْجَنَّةَ وَكُلَا مِنْهَا رَغَدًا حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَـٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلظَّـٰلِمِينَ",
+            "verseEn": "And We said, \"O Adam, dwell, you and your wife, in Paradise and eat therefrom in [ease and] abundance from wherever you will. But do not approach this tree, lest you be among the wrongdoers.\""
+          },
+          {
+            "ar": "زَرْعًا",
+            "en": "crops",
+            "ref": "18:32",
+            "verse": "۞ وَٱضْرِبْ لَهُم مَّثَلًۭا رَّجُلَيْنِ جَعَلْنَا لِأَحَدِهِمَا جَنَّتَيْنِ مِنْ أَعْنَـٰبٍۢ وَحَفَفْنَـٰهُمَا بِنَخْلٍۢ وَجَعَلْنَا بَيْنَهُمَا زَرْعًۭا",
+            "verseEn": "And present to them an example of two men: We granted to one of them two gardens of grapevines, and We bordered them with palm trees and placed between them [fields of] crops."
+          },
+          {
+            "ar": "الثَّمَرَاتِ",
+            "en": "the fruits",
+            "ref": "16:11",
+            "verse": "يُنۢبِتُ لَكُم بِهِ ٱلزَّرْعَ وَٱلزَّيْتُونَ وَٱلنَّخِيلَ وَٱلْأَعْنَـٰبَ وَمِن كُلِّ ٱلثَّمَرَٰتِ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ لِّقَوْمٍۢ يَتَفَكَّرُونَ",
+            "verseEn": "He causes to grow for you thereby the crops, olives, palm trees, grapevines, and of all the fruits. Indeed in that is a sign for a people who give thought."
+          },
+          {
+            "ar": "حَدَائِقَ",
+            "en": "gardens",
+            "ref": "80:30",
+            "verse": "وَحَدَآئِقَ غُلْبًۭا",
+            "verseEn": "And gardens of dense shrubbery"
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "عليم",
+    "display": "عَلِيم",
+    "hint": "Divine attribute describing the One who has complete knowledge of all things",
+    "verseRef": "41:40",
+    "arabicVerse": "إِنَّ ٱلَّذِينَ يُلْحِدُونَ فِىٓ ءَايَـٰتِنَا لَا يَخْفَوْنَ عَلَيْنَآ ۗ أَفَمَن يُلْقَىٰ فِى ٱلنَّارِ خَيْرٌ أَم مَّن يَأْتِىٓ ءَامِنًۭا يَوْمَ ٱلْقِيَـٰمَةِ ۚ ٱعْمَلُوا۟ مَا شِئْتُمْ ۖ إِنَّهُۥ بِمَا تَعْمَلُونَ بَصِيرٌ",
+    "verse": "41:40 - Indeed, those who inject deviation into Our verses are not concealed from Us. So, is he who is cast into the Fire better or he who comes secure on the Day of Resurrection? Do whatever you will; indeed, He is Seeing of what you do."
+  },
+  "deduction": {
+    "title": "The Gentle Soul Among the Prophets",
+    "intro": "A voice calling to righteousness echoes through the verses of the Noble Quran. This blessed soul was granted prophecy and divine scripture during a time when guidance was desperately needed among the Children of Israel. This individual spoke directly to their people, urging them toward remembrance of their Lord. Through patience and devotion, they became a beacon of light whose story illuminates pages of sacred scripture. Can you identify this remarkable figure whose name is honored in both Quran and Gospel?",
+    "clues": [
+      "I was honored with prophethood and a heavenly book during my people's time of need.",
+      "My mother gave birth to me in a remarkable manner, through Allah's divine command alone.",
+      "I addressed my people, saying 'O Children of Israel! I am the messenger of Allah to you, confirming what came before me.'",
+      "I came with clear signs from your Lord, bringing glad tidings of a prophet whose name would be Ahmad.",
+      "My mother was a righteous woman who devoted me to Allah's service from my youth.",
+      "Allah taught me the Quran and made me compassionate and dutiful to my mother, and I was not arrogant or disobedient."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Prophet Zakariyya",
+          "Prophet Isa ibn Maryam",
+          "Prophet Muhammad ﷺ",
+          "Prophet Dawud",
+          "Prophet Yunus"
+        ],
+        "answer": "Prophet Isa ibn Maryam"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "Built the Temple in Jerusalem",
+          "Spoke in the cradle as an infant",
+          "Carried the Ark of the Covenant",
+          "Led the people of Midian",
+          "Traveled to Nineveh"
+        ],
+        "answer": "Spoke in the cradle as an infant"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "The city of Jerusalem",
+          "The region of Bethlehem",
+          "The household of Zakariyya",
+          "Mount Sinai",
+          "The valley of Baca"
+        ],
+        "answer": "The household of Zakariyya"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "Was taken up to the heavens bodily",
+          "Was tested with leprosy for years",
+          "Built a great temple for worship",
+          "Led the Israelites back to faith",
+          "Divided the sea with a staff"
+        ],
+        "answer": "Was taken up to the heavens bodily"
+      }
+    },
+    "verseRef": "61:6",
+    "arabic": "وَإِذْ قَالَ عِيسَى ٱبْنُ مَرْيَمَ يَـٰبَنِىٓ إِسْرَٰٓءِيلَ إِنِّى رَسُولُ ٱللَّهِ إِلَيْكُم مُّصَدِّقًۭا لِّمَا بَيْنَ يَدَىَّ مِنَ ٱلتَّوْرَىٰةِ وَمُبَشِّرًۢا بِرَسُولٍۢ يَأْتِى مِنۢ بَعْدِى ٱسْمُهُۥٓ أَحْمَدُ ۖ فَلَمَّا جَآءَهُم بِٱلْبَيِّنَـٰتِ قَالُوا۟ هَـٰذَا سِحْرٌۭ مُّبِينٌۭ",
+    "verse": "And [mention] when Jesus, the son of Mary, said, \"O Children of Israel, indeed I am the messenger of Allāh to you confirming what came before me of the Torah and bringing good tidings of a messenger to come after me, whose name is Aḥmad.\" But when he came to them with clear evidences, they said, \"This is obvious magic.\" (61:6)"
+  },
+  "scramble": {
+    "verseRef": "31:34",
+    "reference": "Surah Luqman (31:34)",
+    "segments": [
+      "إِنَّ اللَّهَ عَندَهُ",
+      "عِلْمُ السَّاعَةِ",
+      "وَيُنَزِّلُ الْغَيْثَ",
+      "وَيَعْلَمُ مَا فِي الْأَرْحَامِ"
+    ],
+    "translations": [
+      "Indeed Allah with Him (is the) knowledge (of) the Hour and He sends down the rain",
+      "and knows what (is) in the wombs And not knows any soul",
+      "what it will earn tomorrow and not knows any soul in what",
+      "land it will die Indeed Allah (is) All-Knower All-Aware"
+    ],
+    "hint": "This verse speaks about Allah's perfect knowledge of unseen matters - the timing of the Hour, provision of rain, and knowledge of what is in mothers' wombs.",
+    "arabic": "إِنَّ ٱللَّهَ عِندَهُۥ عِلْمُ ٱلسَّاعَةِ وَيُنَزِّلُ ٱلْغَيْثَ وَيَعْلَمُ مَا فِى ٱلْأَرْحَامِ ۖ وَمَا تَدْرِى نَفْسٌۭ مَّاذَا تَكْسِبُ غَدًۭا ۖ وَمَا تَدْرِى نَفْسٌۢ بِأَىِّ أَرْضٍۢ تَمُوتُ ۚ إِنَّ ٱللَّهَ عَلِيمٌ خَبِيرٌۢ",
+    "words": [
+      "إِنَّ ٱللَّهَ عِندَهُۥ عِلْمُ ٱلسَّاعَةِ وَيُنَزِّلُ ٱلْغَيْثَ",
+      "وَيَعْلَمُ مَا فِى ٱلْأَرْحَامِ ۖ وَمَا تَدْرِى نَفْسٌۭ",
+      "مَّاذَا تَكْسِبُ غَدًۭا ۖ وَمَا تَدْرِى نَفْسٌۢ بِأَىِّ",
+      "أَرْضٍۢ تَمُوتُ ۚ إِنَّ ٱللَّهَ عَلِيمٌ خَبِيرٌۢ"
+    ],
+    "verseEn": "Indeed, Allāh [alone] has knowledge of the Hour and sends down the rain and knows what is in the wombs. And no soul perceives what it will earn tomorrow, and no soul perceives in what land it will die. Indeed, Allāh is Knowing and Aware."
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "الاِتِّجَاهَاتُ",
+        "nameEn": "Directions in the Quran",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "الْيَمِينِ",
+            "en": "the right",
+            "ref": "18:17",
+            "verse": "۞ وَتَرَى ٱلشَّمْسَ إِذَا طَلَعَت تَّزَٰوَرُ عَن كَهْفِهِمْ ذَاتَ ٱلْيَمِينِ وَإِذَا غَرَبَت تَّقْرِضُهُمْ ذَاتَ ٱلشِّمَالِ وَهُمْ فِى فَجْوَةٍۢ مِّنْهُ ۚ ذَٰلِكَ مِنْ ءَايَـٰتِ ٱللَّهِ ۗ مَن يَهْدِ ٱللَّهُ فَهُوَ ٱلْمُهْتَدِ ۖ وَمَن يُضْلِلْ فَلَن تَجِدَ لَهُۥ وَلِيًّۭا مُّرْشِدًۭا",
+            "verseEn": "And [had you been present], you would see the sun when it rose, inclining away from their cave on the right, and when it set, passing away from them on the left, while they were [lying] within an open space thereof. That was from the signs of Allāh. He whom Allāh guides is the [rightly] guided, but he whom He sends astray - never will you find for him a protecting guide."
+          },
+          {
+            "ar": "الشِّمَالِ",
+            "en": "the left",
+            "ref": "56:41",
+            "verse": "وَأَصْحَـٰبُ ٱلشِّمَالِ مَآ أَصْحَـٰبُ ٱلشِّمَالِ",
+            "verseEn": "And the companions of the left - what are the companions of the left?"
+          },
+          {
+            "ar": "الْمَشْرِقُ",
+            "en": "the east",
+            "ref": "2:115",
+            "verse": "وَلِلَّهِ ٱلْمَشْرِقُ وَٱلْمَغْرِبُ ۚ فَأَيْنَمَا تُوَلُّوا۟ فَثَمَّ وَجْهُ ٱللَّهِ ۚ إِنَّ ٱللَّهَ وَٰسِعٌ عَلِيمٌۭ",
+            "verseEn": "And to Allāh belongs the east and the west. So wherever you [might] turn, there is the Face of Allāh. Indeed, Allāh is all-Encompassing and Knowing."
+          },
+          {
+            "ar": "مَغْرِبَ",
+            "en": "the west",
+            "ref": "18:86",
+            "verse": "حَتَّىٰٓ إِذَا بَلَغَ مَغْرِبَ ٱلشَّمْسِ وَجَدَهَا تَغْرُبُ فِى عَيْنٍ حَمِئَةٍۢ وَوَجَدَ عِندَهَا قَوْمًۭا ۗ قُلْنَا يَـٰذَا ٱلْقَرْنَيْنِ إِمَّآ أَن تُعَذِّبَ وَإِمَّآ أَن تَتَّخِذَ فِيهِمْ حُسْنًۭا",
+            "verseEn": "Until, when he reached the setting of the sun [i.e., the west], he found it [as if] setting in a body of dark water, and he found near it a people. We [i.e., Allāh] said, \"O Dhul-Qarnayn, either you punish [them] or else adopt among them [a way of] goodness.\""
+          }
+        ]
+      },
+      {
+        "name": "أَدَوَاتُ ٱلْاِسْتِفْهَامِ",
+        "nameEn": "Interrogative Particles in the Quran",
+        "color": "green",
+        "items": [
+          {
+            "ar": "أَنَّىٰ",
+            "en": "how / from where (interrogative)",
+            "ref": "3:47",
+            "verse": "قَالَتْ رَبِّ أَنَّىٰ يَكُونُ لِى وَلَدٌۭ وَلَمْ يَمْسَسْنِى بَشَرٌۭ ۖ قَالَ كَذَٰلِكِ ٱللَّهُ يَخْلُقُ مَا يَشَآءُ ۚ إِذَا قَضَىٰٓ أَمْرًۭا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ",
+            "verseEn": "She said, \"My Lord, how will I have a child when no man has touched me?\" [The angel] said, \"Such is Allāh; He creates what He wills. When He decrees a matter, He only says to it, 'Be,' and it is."
+          },
+          {
+            "ar": "أَيَّانَ",
+            "en": "when (interrogative about time)",
+            "ref": "75:6",
+            "verse": "يَسْـَٔلُ أَيَّانَ يَوْمُ ٱلْقِيَـٰمَةِ",
+            "verseEn": "He asks, \"When is the Day of Resurrection?\""
+          },
+          {
+            "ar": "هَلْ",
+            "en": "used for yes/no questions",
+            "ref": "6:50",
+            "verse": "قُل لَّآ أَقُولُ لَكُمْ عِندِى خَزَآئِنُ ٱللَّهِ وَلَآ أَعْلَمُ ٱلْغَيْبَ وَلَآ أَقُولُ لَكُمْ إِنِّى مَلَكٌ ۖ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ ۚ قُلْ هَلْ يَسْتَوِى ٱلْأَعْمَىٰ وَٱلْبَصِيرُ ۚ أَفَلَا تَتَفَكَّرُونَ",
+            "verseEn": "Say, [O Muḥammad], \"I do not tell you that I have the depositories [containing the provision] of Allāh or that I know the unseen, nor do I tell you that I am an angel. I only follow what is revealed to me.\" Say, \"Is the blind equivalent to the seeing? Then will you not give thought?\""
+          },
+          {
+            "ar": "كَيْفَ",
+            "en": "how (interrogative about manner)",
+            "ref": "30:9",
+            "verse": "أَوَلَمْ يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَـٰقِبَةُ ٱلَّذِينَ مِن قَبْلِهِمْ ۚ كَانُوٓا۟ أَشَدَّ مِنْهُمْ قُوَّةًۭ وَأَثَارُوا۟ ٱلْأَرْضَ وَعَمَرُوهَآ أَكْثَرَ مِمَّا عَمَرُوهَا وَجَآءَتْهُمْ رُسُلُهُم بِٱلْبَيِّنَـٰتِ ۖ فَمَا كَانَ ٱللَّهُ لِيَظْلِمَهُمْ وَلَـٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ",
+            "verseEn": "Have they not traveled through the earth and observed how was the end of those before them? They were greater than them in power, and they plowed [or excavated] the earth and built it up more than they [i.e., the Makkans] have built it up, and their messengers came to them with clear evidences. And Allāh would not ever have wronged them, but they were wronging themselves."
+          }
+        ]
+      },
+      {
+        "name": "أَحْوَالُ الْقُلُوبِ فِي الْقُرْآنِ",
+        "nameEn": "Heart Conditions in the Quran",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "قَاسِيَةً",
+            "en": "hardened",
+            "ref": "5:13",
+            "verse": "فَبِمَا نَقْضِهِم مِّيثَـٰقَهُمْ لَعَنَّـٰهُمْ وَجَعَلْنَا قُلُوبَهُمْ قَـٰسِيَةًۭ ۖ يُحَرِّفُونَ ٱلْكَلِمَ عَن مَّوَاضِعِهِۦ ۙ وَنَسُوا۟ حَظًّۭا مِّمَّا ذُكِّرُوا۟ بِهِۦ ۚ وَلَا تَزَالُ تَطَّلِعُ عَلَىٰ خَآئِنَةٍۢ مِّنْهُمْ إِلَّا قَلِيلًۭا مِّنْهُمْ ۖ فَٱعْفُ عَنْهُمْ وَٱصْفَحْ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُحْسِنِينَ",
+            "verseEn": "So for their breaking of the covenant We cursed them and made their hearts hardened. They distort words from their [proper] places [i.e., usages] and have forgotten a portion of that of which they were reminded. And you will still observe deceit among them, except a few of them. But pardon them and overlook [their misdeeds]. Indeed, Allāh loves the doers of good."
+          },
+          {
+            "ar": "مَرَضٌ",
+            "en": "disease",
+            "ref": "33:32",
+            "verse": "يَـٰنِسَآءَ ٱلنَّبِىِّ لَسْتُنَّ كَأَحَدٍۢ مِّنَ ٱلنِّسَآءِ ۚ إِنِ ٱتَّقَيْتُنَّ فَلَا تَخْضَعْنَ بِٱلْقَوْلِ فَيَطْمَعَ ٱلَّذِى فِى قَلْبِهِۦ مَرَضٌۭ وَقُلْنَ قَوْلًۭا مَّعْرُوفًۭا",
+            "verseEn": "O wives of the Prophet, you are not like anyone among women. If you fear Allāh, then do not be soft in speech [to men], lest he in whose heart is disease should covet, but speak with appropriate speech."
+          },
+          {
+            "ar": "سَلِيمٍ",
+            "en": "sound",
+            "ref": "26:89",
+            "verse": "إِلَّا مَنْ أَتَى ٱللَّهَ بِقَلْبٍۢ سَلِيمٍۢ",
+            "verseEn": "But only one who comes to Allāh with a sound heart.\""
+          },
+          {
+            "ar": "غُلْفٌ",
+            "en": "wrapped",
+            "ref": "4:155",
+            "verse": "فَبِمَا نَقْضِهِم مِّيثَـٰقَهُمْ وَكُفْرِهِم بِـَٔايَـٰتِ ٱللَّهِ وَقَتْلِهِمُ ٱلْأَنۢبِيَآءَ بِغَيْرِ حَقٍّۢ وَقَوْلِهِمْ قُلُوبُنَا غُلْفٌۢ ۚ بَلْ طَبَعَ ٱللَّهُ عَلَيْهَا بِكُفْرِهِمْ فَلَا يُؤْمِنُونَ إِلَّا قَلِيلًۭا",
+            "verseEn": "And [We cursed them] for their breaking of the covenant and their disbelief in the signs of Allāh and their killing of the prophets without right and their saying, \"Our hearts are wrapped\" [i.e., sealed against reception]. Rather, Allāh has sealed them because of their disbelief, so they believe not, except for a few."
+          }
+        ]
+      },
+      {
+        "name": "كَلِمَاتٌ قُرْآنِيَّةٌ فَرِيدَةٌ",
+        "nameEn": "Unique Quranic Words",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "يُصْهَرُ",
+            "en": "is melted",
+            "ref": "22:20",
+            "verse": "يُصْهَرُ بِهِۦ مَا فِى بُطُونِهِمْ وَٱلْجُلُودُ",
+            "verseEn": "By which is melted that within their bellies and [their] skins."
+          },
+          {
+            "ar": "ضِيزَىٰ",
+            "en": "unjust",
+            "ref": "53:22",
+            "verse": "تِلْكَ إِذًۭا قِسْمَةٌۭ ضِيزَىٰٓ",
+            "verseEn": "That, then, is an unjust division."
+          },
+          {
+            "ar": "سُدًى",
+            "en": "neglected",
+            "ref": "75:36",
+            "verse": "أَيَحْسَبُ ٱلْإِنسَـٰنُ أَن يُتْرَكَ سُدًى",
+            "verseEn": "Does man think that he will be left neglected?"
+          },
+          {
+            "ar": "تُمْلَىٰ",
+            "en": "is dictated",
+            "ref": "25:5",
+            "verse": "وَقَالُوٓا۟ أَسَـٰطِيرُ ٱلْأَوَّلِينَ ٱكْتَتَبَهَا فَهِىَ تُمْلَىٰ عَلَيْهِ بُكْرَةًۭ وَأَصِيلًۭا",
+            "verseEn": "And they say, \"Legends of the former peoples which he has written down, and they are dictated to him morning and afternoon.\""
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "نصر",
+    "display": "نَصْر",
+    "hint": "Divine support and victory promised to believers who stand firm",
+    "verseRef": "8:10",
+    "arabicVerse": "وَمَا جَعَلَهُ ٱللَّهُ إِلَّا بُشْرَىٰ وَلِتَطْمَئِنَّ بِهِۦ قُلُوبُكُمْ ۚ وَمَا ٱلنَّصْرُ إِلَّا مِنْ عِندِ ٱللَّهِ ۚ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ",
+    "verse": "8:10 - And Allāh made it not but good tidings and so that your hearts would be assured thereby. And victory is not but from Allāh. Indeed, Allāh is Exalted in Might and Wise."
+  },
+  "deduction": {
+    "title": "The Hidden Believer",
+    "intro": "In the opulent halls of power, where disbelief and tyranny reigned, a lone voice of truth spoke from an unexpected place. This figure challenged the authority to protect a messenger, risking their own security to proclaim the truth.",
+    "clues": [
+      "I lived in a land of great tyranny, serving a ruler who claimed divinity.",
+      "I kept my true beliefs hidden for many years, fearing the consequences of revealing them.",
+      "When a messenger came with clear signs, I believed, but my people conspired against him.",
+      "I stood before the tyrant and his council, arguing that they should not kill an innocent messenger.",
+      "I warned them of the punishment of past nations who rejected the truth, like the people of Noah and 'Ad.",
+      "Allah saved me from their evil plots, and I witnessed the destruction of the oppressive regime."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "The Believer of Pharaoh's Family",
+          "The Magician of Pharaoh",
+          "The Vizier of Pharaoh",
+          "The Wife of Pharaoh",
+          "The Treasurer of Pharaoh"
+        ],
+        "answer": "The Believer of Pharaoh's Family"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "Defending a prophet against execution",
+          "Challenging a magician's tricks",
+          "Building a tower to reach the sky",
+          "Parting the sea for escape",
+          "Interpreting a king's dream"
+        ],
+        "answer": "Defending a prophet against execution"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "The court of Pharaoh",
+          "The burning bush",
+          "The golden calf",
+          "The well of Madyan",
+          "The ark of Prophet Nuh"
+        ],
+        "answer": "The court of Pharaoh"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "Saved from harm while the oppressors were destroyed",
+          "Became a powerful ruler",
+          "Was thrown into a fire and emerged unharmed",
+          "Was swallowed by the earth",
+          "Wandered in the wilderness for forty years"
+        ],
+        "answer": "Saved from harm while the oppressors were destroyed"
+      }
+    },
+    "verseRef": "40:45",
+    "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+    "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+  },
+  "scramble": {
+    "verseRef": "11:69",
+    "reference": "Surah Hud (11:69)",
+    "segments": [
+      "Indeed Allah and His angels",
+      "bless the Prophet",
+      "O you who believe",
+      "invoke blessings upon him"
+    ],
+    "translations": [
+      "And certainly came Our messengers (to) Ibrahim",
+      "with glad tidings they said Peace He said",
+      "Peace and not he delayed and not he delayed to",
+      "bring a calf roasted"
+    ],
+    "hint": "This verse connects Prophet Ibrahim's prayer to his descendants in Makkah, asking Allah to send blessings upon Prophet Muhammad and the believers - it's why we send blessings on the Prophet after each prayer.",
+    "arabic": "وَلَقَدْ جَآءَتْ رُسُلُنَآ إِبْرَٰهِيمَ بِٱلْبُشْرَىٰ قَالُوا۟ سَلَـٰمًۭا ۖ قَالَ سَلَـٰمٌۭ ۖ فَمَا لَبِثَ أَن جَآءَ بِعِجْلٍ حَنِيذٍۢ",
+    "words": [
+      "وَلَقَدْ جَآءَتْ رُسُلُنَآ إِبْرَٰهِيمَ",
+      "بِٱلْبُشْرَىٰ قَالُوا۟ سَلَـٰمًۭا ۖ قَالَ",
+      "سَلَـٰمٌۭ ۖ فَمَا لَبِثَ أَن",
+      "جَآءَ بِعِجْلٍ حَنِيذٍۢ"
+    ],
+    "verseEn": "And certainly did Our messengers [i.e., angels] come to Abraham with good tidings; they said, \"Peace.\" He said, \"Peace,\" and did not delay in bringing [them] a roasted calf."
+  }
+}

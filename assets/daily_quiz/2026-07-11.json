@@ -1,0 +1,240 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَفْعَالُ اللِّسَانِ فِي الْعِبَادَةِ",
+        "nameEn": "Acts of the Tongue in Worship",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "تُسَبِّحُ",
+            "en": "Glorify",
+            "ref": "17:44",
+            "verse": "تُسَبِّحُ لَهُ ٱلسَّمَـٰوَٰتُ ٱلسَّبْعُ وَٱلْأَرْضُ وَمَن فِيهِنَّ ۚ وَإِن مِّن شَىْءٍ إِلَّا يُسَبِّحُ بِحَمْدِهِۦ وَلَـٰكِن لَّا تَفْقَهُونَ تَسْبِيحَهُمْ ۗ إِنَّهُۥ كَانَ حَلِيمًا غَفُورًۭا",
+            "verseEn": "The seven heavens and the earth and whatever is in them exalt Him. And there is not a thing except that it exalts [Allāh] by His praise, but you do not understand their [way of] exalting. Indeed, He is ever Forbearing and Forgiving."
+          },
+          {
+            "ar": "الْحَمْدُ",
+            "en": "All praises and thanks",
+            "ref": "1:2",
+            "verse": "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+            "verseEn": "[All] praise is [due] to Allāh, Lord of the worlds -"
+          },
+          {
+            "ar": "يَسْتَغْفِرُونَهُ",
+            "en": "and seek His forgiveness",
+            "ref": "5:74",
+            "verse": "أَفَلَا يَتُوبُونَ إِلَى ٱللَّهِ وَيَسْتَغْفِرُونَهُۥ ۚ وَٱللَّهُ غَفُورٌۭ رَّحِيمٌۭ",
+            "verseEn": "So will they not repent to Allāh and seek His forgiveness? And Allāh is Forgiving and Merciful."
+          },
+          {
+            "ar": "تَشْكُرُوا",
+            "en": "you are grateful",
+            "ref": "39:7",
+            "verse": "إِن تَكْفُرُوا۟ فَإِنَّ ٱللَّهَ غَنِىٌّ عَنكُمْ ۖ وَلَا يَرْضَىٰ لِعِبَادِهِ ٱلْكُفْرَ ۖ وَإِن تَشْكُرُوا۟ يَرْضَهُ لَكُمْ ۗ وَلَا تَزِرُ وَازِرَةٌۭ وِزْرَ أُخْرَىٰ ۗ ثُمَّ إِلَىٰ رَبِّكُم مَّرْجِعُكُمْ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ ۚ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ",
+            "verseEn": "If you disbelieve - indeed, Allāh is Free from need of you. And He does not approve for His servants disbelief. And if you are grateful, He approves [i.e., likes] it for you; and no bearer of burdens will bear the burden of another. Then to your Lord is your return, and He will inform you about what you used to do. Indeed, He is Knowing of that within the breasts."
+          }
+        ]
+      },
+      {
+        "name": "أَحْدَاثُ يَوْمِ الْقِيَامَةِ فِي سُورَةِ الِانْفِطَارِ",
+        "nameEn": "Events of the Day of Judgment in Surah Al-Infitar",
+        "color": "green",
+        "items": [
+          {
+            "ar": "الْقُبُورُ",
+            "en": "the graves",
+            "ref": "82:4",
+            "verse": "وَإِذَا ٱلْقُبُورُ بُعْثِرَتْ",
+            "verseEn": "And when the [contents of] graves are scattered [i.e., exposed],"
+          },
+          {
+            "ar": "نَفْسٌ",
+            "en": "a soul",
+            "ref": "82:5",
+            "verse": "عَلِمَتْ نَفْسٌۭ مَّا قَدَّمَتْ وَأَخَّرَتْ",
+            "verseEn": "A soul will [then] know what it has put forth and kept back."
+          },
+          {
+            "ar": "صُورَةٍ",
+            "en": "form",
+            "ref": "82:8",
+            "verse": "فِىٓ أَىِّ صُورَةٍۢ مَّا شَآءَ رَكَّبَكَ",
+            "verseEn": "In whatever form He willed has He assembled you."
+          },
+          {
+            "ar": "الدِّينِ",
+            "en": "the Judgment",
+            "ref": "82:9",
+            "verse": "كَلَّا بَلْ تُكَذِّبُونَ بِٱلدِّينِ",
+            "verseEn": "No! But you deny the Recompense."
+          }
+        ]
+      },
+      {
+        "name": "الصِّفَاتُ الإِلٰهِيَّةُ فِي خَاتِمَةِ الْحَشْرِ",
+        "nameEn": "Divine Attributes in the Conclusion of Al-Hashr",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "الْمَلِكُ",
+            "en": "the King",
+            "ref": "23:116",
+            "verse": "فَتَعَـٰلَى ٱللَّهُ ٱلْمَلِكُ ٱلْحَقُّ ۖ لَآ إِلَـٰهَ إِلَّا هُوَ رَبُّ ٱلْعَرْشِ ٱلْكَرِيمِ",
+            "verseEn": "So exalted is Allāh, the Sovereign, the Truth; there is no deity except Him, Lord of the Noble Throne."
+          },
+          {
+            "ar": "السَّلَامُ",
+            "en": "And peace (be)",
+            "ref": "19:33",
+            "verse": "وَٱلسَّلَـٰمُ عَلَىَّ يَوْمَ وُلِدتُّ وَيَوْمَ أَمُوتُ وَيَوْمَ أُبْعَثُ حَيًّۭا",
+            "verseEn": "And peace is on me the day I was born and the day I will die and the day I am raised alive.\""
+          },
+          {
+            "ar": "الْعَزِيزُ",
+            "en": "(is) the All-Mighty",
+            "ref": "30:27",
+            "verse": "وَهُوَ ٱلَّذِى يَبْدَؤُا۟ ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥ وَهُوَ أَهْوَنُ عَلَيْهِ ۚ وَلَهُ ٱلْمَثَلُ ٱلْأَعْلَىٰ فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+            "verseEn": "And it is He who begins creation; then He repeats it, and that is [even] easier for Him. To Him belongs the highest description [i.e., attribute] in the heavens and earth. And He is the Exalted in Might, the Wise."
+          },
+          {
+            "ar": "الْحَكِيمُ",
+            "en": "the All-Wise",
+            "ref": "45:37",
+            "verse": "وَلَهُ ٱلْكِبْرِيَآءُ فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+            "verseEn": "And to Him belongs [all] grandeur within the heavens and the earth, and He is the Exalted in Might, the Wise."
+          }
+        ]
+      },
+      {
+        "name": "عَنَاصِرُ قِصَّةِ أَصْحَابِ الْكَهْفِ",
+        "nameEn": "Elements from the Story of the Companions of the Cave",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "قُلُوبِهِمْ",
+            "en": "their hearts",
+            "ref": "18:14",
+            "verse": "وَرَبَطْنَا عَلَىٰ قُلُوبِهِمْ إِذْ قَامُوا۟ فَقَالُوا۟ رَبُّنَا رَبُّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ لَن نَّدْعُوَا۟ مِن دُونِهِۦٓ إِلَـٰهًۭا ۖ لَّقَدْ قُلْنَآ إِذًۭا شَطَطًا",
+            "verseEn": "And We bound [i.e., made firm] their hearts when they stood up and said, \"Our Lord is the Lord of the heavens and the earth. Never will we invoke besides Him any deity. We would have certainly spoken, then, an excessive transgression."
+          },
+          {
+            "ar": "آلِهَةً",
+            "en": "gods",
+            "ref": "18:15",
+            "verse": "هَـٰٓؤُلَآءِ قَوْمُنَا ٱتَّخَذُوا۟ مِن دُونِهِۦٓ ءَالِهَةًۭ ۖ لَّوْلَا يَأْتُونَ عَلَيْهِم بِسُلْطَـٰنٍۭ بَيِّنٍۢ ۖ فَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًۭا",
+            "verseEn": "These, our people, have taken besides Him deities. Why do they not bring for [worship of] them a clear evidence? And who is more unjust than one who invents about Allāh a lie?\""
+          },
+          {
+            "ar": "كَلْبُهُمْ",
+            "en": "their dog",
+            "ref": "18:22",
+            "verse": "سَيَقُولُونَ ثَلَـٰثَةٌۭ رَّابِعُهُمْ كَلْبُهُمْ وَيَقُولُونَ خَمْسَةٌۭ سَادِسُهُمْ كَلْبُهُمْ رَجْمًۢا بِٱلْغَيْبِ ۖ وَيَقُولُونَ سَبْعَةٌۭ وَثَامِنُهُمْ كَلْبُهُمْ ۚ قُل رَّبِّىٓ أَعْلَمُ بِعِدَّتِهِم مَّا يَعْلَمُهُمْ إِلَّا قَلِيلٌۭ ۗ فَلَا تُمَارِ فِيهِمْ إِلَّا مِرَآءًۭ ظَـٰهِرًۭا وَلَا تَسْتَفْتِ فِيهِم مِّنْهُمْ أَحَدًۭا",
+            "verseEn": "They [i.e., people] will say there were three, the fourth of them being their dog; and they will say there were five, the sixth of them being their dog - guessing at the unseen; and they will say there were seven, and the eighth of them was their dog. Say, [O Muḥammad], \"My Lord is most knowing of their number. None knows them except a few. So do not argue about them except with an obvious argument and do not inquire about them among [the speculators] from anyone.\""
+          },
+          {
+            "ar": "لَبِثُوا",
+            "en": "they remained",
+            "ref": "18:26",
+            "verse": "قُلِ ٱللَّهُ أَعْلَمُ بِمَا لَبِثُوا۟ ۖ لَهُۥ غَيْبُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ أَبْصِرْ بِهِۦ وَأَسْمِعْ ۚ مَا لَهُم مِّن دُونِهِۦ مِن وَلِىٍّۢ وَلَا يُشْرِكُ فِى حُكْمِهِۦٓ أَحَدًۭا",
+            "verseEn": "Say, \"Allāh is most knowing of how long they remained. He has [knowledge of] the unseen [aspects] of the heavens and the earth. How Seeing is He and how Hearing! They have not besides Him any protector, and He shares not His legislation with anyone.\""
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "واحد",
+    "display": "وَاحِد",
+    "hint": "A number that signifies the oneness of God.",
+    "verseRef": "37:4",
+    "arabicVerse": "إِنَّ إِلَـٰهَكُمْ لَوَٰحِدٌۭ",
+    "verse": "37:4 - Indeed, your God is One,"
+  },
+  "deduction": {
+    "title": "The travelers of the verdant field",
+    "intro": "In an ancient time, two individuals tended neighboring lands. Their paths were intertwined, yet their hearts led them toward vastly different destinations. One walked the straight path, while the other strayed into the darkness of denial. Can you unravel the mystery of these two keepers of the harvest?",
+    "clues": [
+      "I possessed abundant crops, luxuriant harvests that dazzled the eyes of onlookers.",
+      "My neighbor possessed even greater bounty than I did, yet I coveted their portion more than my own.",
+      "I suggested we destroy their crops entirely, to consolidate everything under my control.",
+      "I brought ruin upon my own harvest as well, destroying everything in my foolish scheming.",
+      "I stood helpless as my crops withered and my wealth turned to dust in a single night.",
+      "I had no share in the Hereafter, and my final abode became a pit of blazing fire."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "The man who denied resurrection and judgment",
+          "The ruler who oppressed the righteous farmer",
+          "The wealthy landowner who lacked gratitude",
+          "The farmer who coveted their neighbor's land",
+          "The treacherous partner who plotted destruction"
+        ],
+        "answer": "The farmer who coveted their neighbor's land"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "The test of receiving divine revelation",
+          "The challenge of wealth and patience",
+          "The temptation to destroy a righteous person's livelihood",
+          "The command to divide inheritance fairly",
+          "The struggle against a tyrant's oppression"
+        ],
+        "answer": "The temptation to destroy a righteous person's livelihood"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "The verdant gardens of paradise",
+          "Two neighboring fields of crops",
+          "The mountains that witnessed destruction",
+          "The sacred sanctuary of Makkah",
+          "The riverbanks of a blessed land"
+        ],
+        "answer": "Two neighboring fields of crops"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "Eternal paradise as a reward for righteousness",
+          "Complete destruction of both harvests in this life",
+          "Exile and wandering until death",
+          "Temporary prosperity followed by eternal fire",
+          "A miraculous restoration and doubled bounty"
+        ],
+        "answer": "Complete destruction of both harvests in this life"
+      }
+    },
+    "verseRef": "68:30",
+    "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+    "verse": "Then they approached one another, blaming each other. (68:30)"
+  },
+  "scramble": {
+    "verseRef": "33:41",
+    "reference": "Surah Al-Ahzab (33:41)",
+    "segments": [
+      "يَا أَيُّهَا",
+      "الَّذِينَ آمَنُوا",
+      "اذْكُرُوا اللَّهَ",
+      "ذِكْرًا كَثِيرًا"
+    ],
+    "translations": [
+      "O you who believe O you who believe",
+      "O you who believe Remember",
+      "Allah (with) remembrance",
+      "much"
+    ],
+    "hint": "A beloved call to abundant remembrance of Allah — a foundational verse about dhikr.",
+    "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱذْكُرُوا۟ ٱللَّهَ ذِكْرًۭا كَثِيرًۭا",
+    "words": [
+      "يَـٰٓأَيُّهَا ٱلَّذِينَ",
+      "ءَامَنُوا۟ ٱذْكُرُوا۟",
+      "ٱللَّهَ ذِكْرًۭا",
+      "كَثِيرًۭا"
+    ],
+    "verseEn": "O you who have believed, remember Allāh with much remembrance"
+  }
+}

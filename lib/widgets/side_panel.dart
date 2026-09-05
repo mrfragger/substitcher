@@ -18,6 +18,8 @@ import '../quran/quran_index.dart';
 import '../quran/quran_verse_search_index.dart';
 import 'stats_panel.dart';
 import 'quran_panel.dart';
+import 'deduction_quiz_panel.dart';
+import 'related_connections_panel.dart';
 
 enum PanelMode {
   chapters,
@@ -30,7 +32,9 @@ enum PanelMode {
   subs,
   stats,
   luts,
-  quran
+  quran,
+  quiz,
+  related,
 }
 
 enum ColoringMode { words, letters }
@@ -217,6 +221,8 @@ class SidePanel extends StatelessWidget {
   final bool quranVerseIndexBuilding;
   final Function(String) onQuranVerseSearchChanged;
   final Function(QuranAyahSearchHit) onQuranVerseSearchResultTap;
+  final Function(QuranVerseRef, int) onQuizVerseSelected;
+  final Function(QuranVerseRef, int) onRelatedVerseSelected;
 
   final ItemScrollController quranItemScrollController;
   final String quranSearchQuery;
@@ -253,6 +259,8 @@ class SidePanel extends StatelessWidget {
     required this.quranVerseIndexBuilding,
     required this.onQuranVerseSearchChanged,
     required this.onQuranVerseSearchResultTap,
+    required this.onQuizVerseSelected,
+    required this.onRelatedVerseSelected,
     required this.onClose,
     required this.onToggleCollapse,
     required this.onPanelModeChanged,
@@ -514,6 +522,8 @@ class SidePanel extends StatelessWidget {
                       context, 'LUTs', PanelMode.luts, availableLuts.length),
                   _buildTabButton(
                       context, 'Quran', PanelMode.quran, quranEntries.length),
+                  _buildTabButton(context, 'Quiz', PanelMode.quiz, 0),
+                  _buildTabButton(context, 'Related', PanelMode.related, 0),
                 ],
               ),
             ),
@@ -667,6 +677,12 @@ class SidePanel extends StatelessWidget {
       case PanelMode.quran:
         underlineIndex = 0;
         break;
+      case PanelMode.quiz:
+        underlineIndex = null;
+        break;
+      case PanelMode.related:
+        underlineIndex = null;
+        break;
     }
 
     return Padding(
@@ -782,6 +798,16 @@ class SidePanel extends StatelessWidget {
           onExcludeChanged: onQuranExcludeChanged,
           selectedLanguage: quranIndexLanguage,
           onLanguageChanged: onQuranLanguageChanged,
+        );
+      case PanelMode.quiz:
+        return DeductionQuizPanel(
+          isQuranLoaded: isQuranLoaded,
+          onVerseSelected: onQuizVerseSelected,
+        );
+      case PanelMode.related:
+        return RelatedConnectionsPanel(
+          isQuranLoaded: isQuranLoaded,
+          onVerseSelected: onRelatedVerseSelected,
         );
     }
   }

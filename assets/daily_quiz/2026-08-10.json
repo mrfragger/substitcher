@@ -1,0 +1,246 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَوَامِرُ لِلْمُؤْمِنِينَ",
+        "nameEn": "Commands to the Believers",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "آمِنُوا",
+            "en": "believe[d]",
+            "ref": "4:136",
+            "verse": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ ءَامِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَٱلْكِتَـٰبِ ٱلَّذِى نَزَّلَ عَلَىٰ رَسُولِهِۦ وَٱلْكِتَـٰبِ ٱلَّذِىٓ أَنزَلَ مِن قَبْلُ ۚ وَمَن يَكْفُرْ بِٱللَّهِ وَمَلَـٰٓئِكَتِهِۦ وَكُتُبِهِۦ وَرُسُلِهِۦ وَٱلْيَوْمِ ٱلْـَٔاخِرِ فَقَدْ ضَلَّ ضَلَـٰلًۢا بَعِيدًا",
+            "verseEn": "O you who have believed, believe in Allāh and His Messenger and the Book that He sent down upon His Messenger and the Scripture which He sent down before. And whoever disbelieves in Allāh, His angels, His books, His messengers, and the Last Day has certainly gone far astray."
+          },
+          {
+            "ar": "اتَّقُوا",
+            "en": "Fear",
+            "ref": "3:102",
+            "verse": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ حَقَّ تُقَاتِهِۦ وَلَا تَمُوتُنَّ إِلَّا وَأَنتُم مُّسْلِمُونَ",
+            "verseEn": "O you who have believed, fear Allāh as He should be feared and do not die except as Muslims [in submission to Him]."
+          },
+          {
+            "ar": "أَطِيعُوا",
+            "en": "Obey",
+            "ref": "4:59",
+            "verse": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَطِيعُوا۟ ٱللَّهَ وَأَطِيعُوا۟ ٱلرَّسُولَ وَأُو۟لِى ٱلْأَمْرِ مِنكُمْ ۖ فَإِن تَنَـٰزَعْتُمْ فِى شَىْءٍۢ فَرُدُّوهُ إِلَى ٱللَّهِ وَٱلرَّسُولِ إِن كُنتُمْ تُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ ۚ ذَٰلِكَ خَيْرٌۭ وَأَحْسَنُ تَأْوِيلًا",
+            "verseEn": "O you who have believed, obey Allāh and obey the Messenger and those in authority among you. And if you disagree over anything, refer it to Allāh and the Messenger, if you should believe in Allāh and the Last Day. That is the best [way] and best in result."
+          },
+          {
+            "ar": "كُلُوا",
+            "en": "Eat",
+            "ref": "2:172",
+            "verse": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُلُوا۟ مِن طَيِّبَـٰتِ مَا رَزَقْنَـٰكُمْ وَٱشْكُرُوا۟ لِلَّهِ إِن كُنتُمْ إِيَّاهُ تَعْبُدُونَ",
+            "verseEn": "O you who have believed, eat from the good [i.e., lawful] things which We have provided for you and be grateful to Allāh if it is [indeed] Him that you worship."
+          }
+        ]
+      },
+      {
+        "name": "كَلِمَاتُ الْهِدَايَةِ فِي الْقُرْآنِ",
+        "nameEn": "Quranic Terms for Guidance",
+        "color": "green",
+        "items": [
+          {
+            "ar": "هُدًى",
+            "en": "A guidance",
+            "ref": "31:3",
+            "verse": "هُدًۭى وَرَحْمَةًۭ لِّلْمُحْسِنِينَ",
+            "verseEn": "As guidance and mercy for the doers of good"
+          },
+          {
+            "ar": "بَيِّنَاتٌ",
+            "en": "clear",
+            "ref": "29:49",
+            "verse": "بَلْ هُوَ ءَايَـٰتٌۢ بَيِّنَـٰتٌۭ فِى صُدُورِ ٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ ۚ وَمَا يَجْحَدُ بِـَٔايَـٰتِنَآ إِلَّا ٱلظَّـٰلِمُونَ",
+            "verseEn": "Rather, it [i.e., the Qur’ān] is distinct verses [preserved] within the breasts of those who have been given knowledge. And none reject Our verses except the wrongdoers."
+          },
+          {
+            "ar": "نُورَ",
+            "en": "(the) light",
+            "ref": "61:8",
+            "verse": "يُرِيدُونَ لِيُطْفِـُٔوا۟ نُورَ ٱللَّهِ بِأَفْوَٰهِهِمْ وَٱللَّهُ مُتِمُّ نُورِهِۦ وَلَوْ كَرِهَ ٱلْكَـٰفِرُونَ",
+            "verseEn": "They want to extinguish the light of Allāh with their mouths, but Allāh will perfect His light, although the disbelievers dislike it."
+          },
+          {
+            "ar": "سُلْطَانًا",
+            "en": "an authority",
+            "ref": "30:35",
+            "verse": "أَمْ أَنزَلْنَا عَلَيْهِمْ سُلْطَـٰنًۭا فَهُوَ يَتَكَلَّمُ بِمَا كَانُوا۟ بِهِۦ يُشْرِكُونَ",
+            "verseEn": "Or have We sent down to them an authority [i.e., a proof or scripture], and it speaks of what they have been associating with Him?"
+          }
+        ]
+      },
+      {
+        "name": "أَلْفَاظُ العِلْمِ وَاليَقِينِ",
+        "nameEn": "Terms of Knowledge and Certainty",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "عِلْمٌ",
+            "en": "(have some) knowledge",
+            "ref": "3:66",
+            "verse": "هَـٰٓأَنتُمْ هَـٰٓؤُلَآءِ حَـٰجَجْتُمْ فِيمَا لَكُم بِهِۦ عِلْمٌۭ فَلِمَ تُحَآجُّونَ فِيمَا لَيْسَ لَكُم بِهِۦ عِلْمٌۭ ۚ وَٱللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ",
+            "verseEn": "Here you are - those who have argued about that of which you have [some] knowledge, but why do you argue about that of which you have no knowledge? And Allāh knows, while you know not."
+          },
+          {
+            "ar": "يَقِينًا",
+            "en": "certainly",
+            "ref": "4:157",
+            "verse": "وَقَوْلِهِمْ إِنَّا قَتَلْنَا ٱلْمَسِيحَ عِيسَى ٱبْنَ مَرْيَمَ رَسُولَ ٱللَّهِ وَمَا قَتَلُوهُ وَمَا صَلَبُوهُ وَلَـٰكِن شُبِّهَ لَهُمْ ۚ وَإِنَّ ٱلَّذِينَ ٱخْتَلَفُوا۟ فِيهِ لَفِى شَكٍّۢ مِّنْهُ ۚ مَا لَهُم بِهِۦ مِنْ عِلْمٍ إِلَّا ٱتِّبَاعَ ٱلظَّنِّ ۚ وَمَا قَتَلُوهُ يَقِينًۢا",
+            "verseEn": "And [for] their saying, \"Indeed, we have killed the Messiah, Jesus the son of Mary, the messenger of Allāh.\" And they did not kill him, nor did they crucify him; but [another] was made to resemble him to them. And indeed, those who differ over it are in doubt about it. They have no knowledge of it except the following of assumption. And they did not kill him, for certain."
+          },
+          {
+            "ar": "بَصِيرَةٍ",
+            "en": "insight",
+            "ref": "12:108",
+            "verse": "قُلْ هَـٰذِهِۦ سَبِيلِىٓ أَدْعُوٓا۟ إِلَى ٱللَّهِ ۚ عَلَىٰ بَصِيرَةٍ أَنَا۠ وَمَنِ ٱتَّبَعَنِى ۖ وَسُبْحَـٰنَ ٱللَّهِ وَمَآ أَنَا۠ مِنَ ٱلْمُشْرِكِينَ",
+            "verseEn": "Say, \"This is my way; I invite to Allāh with insight, I and those who follow me. And exalted is Allāh; and I am not of those who associate others with Him.\""
+          },
+          {
+            "ar": "حُجَّةٌ",
+            "en": "any argument",
+            "ref": "4:165",
+            "verse": "رُّسُلًۭا مُّبَشِّرِينَ وَمُنذِرِينَ لِئَلَّا يَكُونَ لِلنَّاسِ عَلَى ٱللَّهِ حُجَّةٌۢ بَعْدَ ٱلرُّسُلِ ۚ وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمًۭا",
+            "verseEn": "[We sent] messengers as bringers of good tidings and warners so that mankind will have no argument against Allāh after the messengers. And ever is Allāh Exalted in Might and Wise."
+          }
+        ]
+      },
+      {
+        "name": "الْجَمْعُ الْمُؤَنَّثُ السَّالِمُ",
+        "nameEn": "Feminine Plural Nouns in the Quran",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "آيَاتُ",
+            "en": "(are the) Verses",
+            "ref": "28:2",
+            "verse": "تِلْكَ ءَايَـٰتُ ٱلْكِتَـٰبِ ٱلْمُبِينِ",
+            "verseEn": "These are verses of the clear Book."
+          },
+          {
+            "ar": "الظُّلُمَاتِ",
+            "en": "the darkness[es]",
+            "ref": "14:1",
+            "verse": "الٓر ۚ كِتَـٰبٌ أَنزَلْنَـٰهُ إِلَيْكَ لِتُخْرِجَ ٱلنَّاسَ مِنَ ٱلظُّلُمَـٰتِ إِلَى ٱلنُّورِ بِإِذْنِ رَبِّهِمْ إِلَىٰ صِرَٰطِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+            "verseEn": "Alif, Lām, Rā. [This is] a Book which We have revealed to you, [O Muḥammad], that you might bring mankind out of darknesses into the light by permission of their Lord - to the path of the Exalted in Might, the Praiseworthy -"
+          },
+          {
+            "ar": "الْحَسَنَاتِ",
+            "en": "the good deeds",
+            "ref": "11:114",
+            "verse": "وَأَقِمِ ٱلصَّلَوٰةَ طَرَفَىِ ٱلنَّهَارِ وَزُلَفًۭا مِّنَ ٱلَّيْلِ ۚ إِنَّ ٱلْحَسَنَـٰتِ يُذْهِبْنَ ٱلسَّيِّـَٔاتِ ۚ ذَٰلِكَ ذِكْرَىٰ لِلذَّٰكِرِينَ",
+            "verseEn": "And establish prayer at the two ends of the day and at the approach of the night. Indeed, good deeds do away with misdeeds. That is a reminder for those who remember."
+          },
+          {
+            "ar": "الصَّالِحَاتِ",
+            "en": "righteous (deeds)",
+            "ref": "29:7",
+            "verse": "وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَنُكَفِّرَنَّ عَنْهُمْ سَيِّـَٔاتِهِمْ وَلَنَجْزِيَنَّهُمْ أَحْسَنَ ٱلَّذِى كَانُوا۟ يَعْمَلُونَ",
+            "verseEn": "And those who believe and do righteous deeds - We will surely remove from them their misdeeds and will surely reward them according to the best of what they used to do."
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "يتيم",
+    "display": "يَتِيمًا",
+    "hint": "A parentless child; Allah consoled His Prophet ﷺ by reminding him of this status in Surah Ad-Duha",
+    "verseRef": "93:6",
+    "arabicVerse": "أَلَمْ يَجِدْكَ يَتِيمًۭا فَـَٔاوَىٰ",
+    "verse": "93:6 - Did He not find you an orphan and give [you] refuge?"
+  },
+  "deduction": {
+    "title": "The Keepers of the Secret Harvest",
+    "intro": "In a verdant land, a group of individuals made a secret plan under the cover of darkness. They shared a common purpose, but their intention was far from righteous. Little did they know that a divine twist awaited them as they slept.",
+    "clues": [
+      "We made a firm resolve, thinking our plan was flawless.",
+      "We intended to go out early, before others could even stir.",
+      "We set upon a fertile plot, confident in our provisions.",
+      "As we reached our destination, we found it barren and desolate, so we thought we had lost our way.",
+      "Then we realized it was indeed our place, and we cried out in despair, blaming each other for our loss.",
+      "We had sworn that morning to exclude the poor from our harvest, but Allah's punishment came upon us while we slept, turning our garden into ruin."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Are We?",
+        "options": [
+          "The Owners of the Garden in Surah 68",
+          "The People of Saba",
+          "The Companions of the Cave",
+          "The People of the Elephant",
+          "The People of the Trench"
+        ],
+        "answer": "The Owners of the Garden in Surah 68"
+      },
+      "trial": {
+        "label": "Our Trial",
+        "options": [
+          "Our garden was destroyed by a calamity from the sky",
+          "Our garden was swept by a flood",
+          "Our garden was burned by a fire from an enemy",
+          "Our garden was filled with locusts",
+          "Our garden was swallowed by an earthquake"
+        ],
+        "answer": "Our garden was destroyed by a calamity from the sky"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "We swore to pluck its fruits in the morning",
+          "We built a dam to irrigate our garden",
+          "We sought refuge in a cave for protection",
+          "We prepared an army to conquer a kingdom",
+          "We sailed a ship to cross the sea"
+        ],
+        "answer": "We swore to pluck its fruits in the morning"
+      },
+      "outcome": {
+        "label": "Our Fate",
+        "options": [
+          "We repented and hoped for mercy from Allah",
+          "We were completely destroyed and never repented",
+          "We fled the land and never returned",
+          "We became powerful and wealthy again",
+          "We were punished by being turned into monkeys"
+        ],
+        "answer": "We repented and hoped for mercy from Allah"
+      }
+    },
+    "verseRef": "68:17",
+    "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+    "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+  },
+  "scramble": {
+    "verseRef": "49:15",
+    "reference": "Al-Hujurat (49:15)",
+    "segments": [
+      "إِنَّمَا",
+      "الْمُؤْمِنُونَ إِخْوَةٌ",
+      "فَأَصْلِحُوا بَيْنَ",
+      "أَخَوَيْكُمْ",
+      "وَاتَّقُوا اللَّهَ",
+      "لَعَلَّكُمْ تُرْحَمُونَ"
+    ],
+    "translations": [
+      "Only the believers (are) those who",
+      "believe in Allah and His Messenger",
+      "then (do) not doubt",
+      "but strive with their wealth and their lives",
+      "in (the) way (of) Allah",
+      "Those [they] (are) the truthful"
+    ],
+    "hint": "The sacred bond of brotherhood among believers — a command to reconcile disputes and revere Allah.",
+    "arabic": "إِنَّمَا ٱلْمُؤْمِنُونَ ٱلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ ثُمَّ لَمْ يَرْتَابُوا۟ وَجَـٰهَدُوا۟ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ فِى سَبِيلِ ٱللَّهِ ۚ أُو۟لَـٰٓئِكَ هُمُ ٱلصَّـٰدِقُونَ",
+    "words": [
+      "إِنَّمَا ٱلْمُؤْمِنُونَ ٱلَّذِينَ",
+      "ءَامَنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ",
+      "ثُمَّ لَمْ يَرْتَابُوا۟",
+      "وَجَـٰهَدُوا۟ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ",
+      "فِى سَبِيلِ ٱللَّهِ ۚ",
+      "أُو۟لَـٰٓئِكَ هُمُ ٱلصَّـٰدِقُونَ"
+    ],
+    "verseEn": "The believers are only the ones who have believed in Allāh and His Messenger and then doubt not but strive with their properties and their lives in the cause of Allāh. It is those who are the truthful."
+  }
+}

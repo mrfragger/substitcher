@@ -1,0 +1,243 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "العَنَاصِرُ الأَرْبَعَةُ",
+        "nameEn": "The Four Elements",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "مَاءٍ",
+            "en": "water",
+            "ref": "24:45",
+            "verse": "وَٱللَّهُ خَلَقَ كُلَّ دَآبَّةٍۢ مِّن مَّآءٍۢ ۖ فَمِنْهُم مَّن يَمْشِى عَلَىٰ بَطْنِهِۦ وَمِنْهُم مَّن يَمْشِى عَلَىٰ رِجْلَيْنِ وَمِنْهُم مَّن يَمْشِى عَلَىٰٓ أَرْبَعٍۢ ۚ يَخْلُقُ ٱللَّهُ مَا يَشَآءُ ۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ",
+            "verseEn": "Allāh has created every [living] creature from water. And of them are those that move on their bellies, and of them are those that walk on two legs, and of them are those that walk on four. Allāh creates what He wills. Indeed, Allāh is over all things competent."
+          },
+          {
+            "ar": "النَّارِ",
+            "en": "(for) the Fire",
+            "ref": "3:10",
+            "verse": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ لَن تُغْنِىَ عَنْهُمْ أَمْوَٰلُهُمْ وَلَآ أَوْلَـٰدُهُم مِّنَ ٱللَّهِ شَيْـًۭٔا ۖ وَأُو۟لَـٰٓئِكَ هُمْ وَقُودُ ٱلنَّارِ",
+            "verseEn": "Indeed, those who disbelieve - never will their wealth or their children avail them against Allāh at all. And it is they who are fuel for the Fire."
+          },
+          {
+            "ar": "الْأَرْضِ",
+            "en": "the earth",
+            "ref": "3:5",
+            "verse": "إِنَّ ٱللَّهَ لَا يَخْفَىٰ عَلَيْهِ شَىْءٌۭ فِى ٱلْأَرْضِ وَلَا فِى ٱلسَّمَآءِ",
+            "verseEn": "Indeed, from Allāh nothing is hidden in the earth nor in the heaven."
+          },
+          {
+            "ar": "الرِّيحُ",
+            "en": "the wind",
+            "ref": "22:31",
+            "verse": "حُنَفَآءَ لِلَّهِ غَيْرَ مُشْرِكِينَ بِهِۦ ۚ وَمَن يُشْرِكْ بِٱللَّهِ فَكَأَنَّمَا خَرَّ مِنَ ٱلسَّمَآءِ فَتَخْطَفُهُ ٱلطَّيْرُ أَوْ تَهْوِى بِهِ ٱلرِّيحُ فِى مَكَانٍۢ سَحِيقٍۢ",
+            "verseEn": "Inclining [only] to Allāh, not associating [anything] with Him. And he who associates with Allāh - it is as though he had fallen from the sky and was snatched by the birds or the wind carried him down into a remote place."
+          }
+        ]
+      },
+      {
+        "name": "أَصْنَافٌ مَّعَهُمُ ٱللَّهُ",
+        "nameEn": "Groups Supported by Allah",
+        "color": "green",
+        "items": [
+          {
+            "ar": "الصَّابِرِينَ",
+            "en": "the patient ones",
+            "ref": "8:46",
+            "verse": "وَأَطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥ وَلَا تَنَـٰزَعُوا۟ فَتَفْشَلُوا۟ وَتَذْهَبَ رِيحُكُمْ ۖ وَٱصْبِرُوٓا۟ ۚ إِنَّ ٱللَّهَ مَعَ ٱلصَّـٰبِرِينَ",
+            "verseEn": "And obey Allāh and His Messenger, and do not dispute and [thus] lose courage and [then] your strength would depart; and be patient. Indeed, Allāh is with the patient."
+          },
+          {
+            "ar": "الْمُتَّقِينَ",
+            "en": "those who fear (Him)",
+            "ref": "2:194",
+            "verse": "ٱلشَّهْرُ ٱلْحَرَامُ بِٱلشَّهْرِ ٱلْحَرَامِ وَٱلْحُرُمَـٰتُ قِصَاصٌۭ ۚ فَمَنِ ٱعْتَدَىٰ عَلَيْكُمْ فَٱعْتَدُوا۟ عَلَيْهِ بِمِثْلِ مَا ٱعْتَدَىٰ عَلَيْكُمْ ۚ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ مَعَ ٱلْمُتَّقِينَ",
+            "verseEn": "[Battle in] the sacred month is for [aggression committed in] the sacred month, and for [all] violations is legal retribution. So whoever has assaulted you, then assault him in the same way that he has assaulted you. And fear Allāh and know that Allāh is with those who fear Him."
+          },
+          {
+            "ar": "الْمُحْسِنِينَ",
+            "en": "the good-doers",
+            "ref": "29:69",
+            "verse": "وَٱلَّذِينَ جَـٰهَدُوا۟ فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا ۚ وَإِنَّ ٱللَّهَ لَمَعَ ٱلْمُحْسِنِينَ",
+            "verseEn": "And those who strive for Us - We will surely guide them to Our ways. And indeed, Allāh is with the doers of good."
+          },
+          {
+            "ar": "الْمُؤْمِنِينَ",
+            "en": "the believers",
+            "ref": "8:19",
+            "verse": "إِن تَسْتَفْتِحُوا۟ فَقَدْ جَآءَكُمُ ٱلْفَتْحُ ۖ وَإِن تَنتَهُوا۟ فَهُوَ خَيْرٌۭ لَّكُمْ ۖ وَإِن تَعُودُوا۟ نَعُدْ وَلَن تُغْنِىَ عَنكُمْ فِئَتُكُمْ شَيْـًۭٔا وَلَوْ كَثُرَتْ وَأَنَّ ٱللَّهَ مَعَ ٱلْمُؤْمِنِينَ",
+            "verseEn": "If you [disbelievers] seek the decision [i.e., victory] - the decision [i.e., defeat] has come to you. And if you desist [from hostilities], it is best for you; but if you return [to war], We will return, and never will you be availed by your [large] company at all, even if it should increase; and [that is] because Allāh is with the believers."
+          }
+        ]
+      },
+      {
+        "name": "مَرَاحِلُ الْآخِرَةِ",
+        "nameEn": "Stages of the Afterlife",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "الْمَوْتِ",
+            "en": "the death",
+            "ref": "29:57",
+            "verse": "كُلُّ نَفْسٍۢ ذَآئِقَةُ ٱلْمَوْتِ ۖ ثُمَّ إِلَيْنَا تُرْجَعُونَ",
+            "verseEn": "Every soul will taste death. Then to Us will you be returned."
+          },
+          {
+            "ar": "قَبْرِهِ",
+            "en": "his grave",
+            "ref": "9:84",
+            "verse": "وَلَا تُصَلِّ عَلَىٰٓ أَحَدٍۢ مِّنْهُم مَّاتَ أَبَدًۭا وَلَا تَقُمْ عَلَىٰ قَبْرِهِۦٓ ۖ إِنَّهُمْ كَفَرُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَمَاتُوا۟ وَهُمْ فَـٰسِقُونَ",
+            "verseEn": "And do not pray [the funeral prayer, O Muḥammad], over any of them who has died - ever - or stand at his grave. Indeed, they disbelieved in Allāh and His Messenger and died while they were defiantly disobedient."
+          },
+          {
+            "ar": "حَشْرٌ",
+            "en": "(is) a gathering",
+            "ref": "50:44",
+            "verse": "يَوْمَ تَشَقَّقُ ٱلْأَرْضُ عَنْهُمْ سِرَاعًۭا ۚ ذَٰلِكَ حَشْرٌ عَلَيْنَا يَسِيرٌۭ",
+            "verseEn": "On the Day the earth breaks away from them [and they emerge] rapidly; that is a gathering easy for Us."
+          },
+          {
+            "ar": "الْجَنَّةِ",
+            "en": "Paradise",
+            "ref": "39:73",
+            "verse": "وَسِيقَ ٱلَّذِينَ ٱتَّقَوْا۟ رَبَّهُمْ إِلَى ٱلْجَنَّةِ زُمَرًا ۖ حَتَّىٰٓ إِذَا جَآءُوهَا وَفُتِحَتْ أَبْوَٰبُهَا وَقَالَ لَهُمْ خَزَنَتُهَا سَلَـٰمٌ عَلَيْكُمْ طِبْتُمْ فَٱدْخُلُوهَا خَـٰلِدِينَ",
+            "verseEn": "But those who feared their Lord will be driven to Paradise in groups until, when they reach it while its gates have been opened and its keepers say, \"Peace be upon you; you have become pure; so enter it to abide eternally therein,\" [they will enter]."
+          }
+        ]
+      },
+      {
+        "name": "وَسَائِلُ التَّقْيِيدِ",
+        "nameEn": "Means of Restraint in the Quran",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "سَلَاسِلَ",
+            "en": "chains",
+            "ref": "76:4",
+            "verse": "إِنَّآ أَعْتَدْنَا لِلْكَـٰفِرِينَ سَلَـٰسِلَا۟ وَأَغْلَـٰلًۭا وَسَعِيرًا",
+            "verseEn": "Indeed, We have prepared for the disbelievers chains and shackles and a blaze."
+          },
+          {
+            "ar": "أَغْلَالًا",
+            "en": "iron collars",
+            "ref": "36:8",
+            "verse": "إِنَّا جَعَلْنَا فِىٓ أَعْنَـٰقِهِمْ أَغْلَـٰلًۭا فَهِىَ إِلَى ٱلْأَذْقَانِ فَهُم مُّقْمَحُونَ",
+            "verseEn": "Indeed, We have put shackles on their necks, and they are to their chins, so they are with heads [kept] aloft."
+          },
+          {
+            "ar": "الْأَصْفَادِ",
+            "en": "the chains",
+            "ref": "14:49",
+            "verse": "وَتَرَى ٱلْمُجْرِمِينَ يَوْمَئِذٍۢ مُّقَرَّنِينَ فِى ٱلْأَصْفَادِ",
+            "verseEn": "And you will see the criminals that Day bound together in irons,"
+          },
+          {
+            "ar": "الْوَثَاقَ",
+            "en": "the bond",
+            "ref": "47:4",
+            "verse": "فَإِذَا لَقِيتُمُ ٱلَّذِينَ كَفَرُوا۟ فَضَرْبَ ٱلرِّقَابِ حَتَّىٰٓ إِذَآ أَثْخَنتُمُوهُمْ فَشُدُّوا۟ ٱلْوَثَاقَ فَإِمَّا مَنًّۢا بَعْدُ وَإِمَّا فِدَآءً حَتَّىٰ تَضَعَ ٱلْحَرْبُ أَوْزَارَهَا ۚ ذَٰلِكَ وَلَوْ يَشَآءُ ٱللَّهُ لَٱنتَصَرَ مِنْهُمْ وَلَـٰكِن لِّيَبْلُوَا۟ بَعْضَكُم بِبَعْضٍۢ ۗ وَٱلَّذِينَ قُتِلُوا۟ فِى سَبِيلِ ٱللَّهِ فَلَن يُضِلَّ أَعْمَـٰلَهُمْ",
+            "verseEn": "So when you meet those who disbelieve [in battle], strike [their] necks until, when you have inflicted slaughter upon them, then secure [their] bonds, and either [confer] favor afterwards or ransom [them] until the war lays down its burdens. That [is the command]. And if Allāh had willed, He could have taken vengeance upon them [Himself], but [He ordered armed struggle] to test some of you by means of others. And those who are killed in the cause of Allāh - never will He waste their deeds."
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "خالص",
+    "display": "خَالِص",
+    "hint": "A purifying quality of the heart, free from hypocrisy - describes deeds done with complete sincerity to Allah",
+    "verseRef": "2:139",
+    "arabicVerse": "قُلْ أَتُحَآجُّونَنَا فِى ٱللَّهِ وَهُوَ رَبُّنَا وَرَبُّكُمْ وَلَنَآ أَعْمَـٰلُنَا وَلَكُمْ أَعْمَـٰلُكُمْ وَنَحْنُ لَهُۥ مُخْلِصُونَ",
+    "verse": "2:139 - Say, [O Muḥammad], \"Do you argue with us about Allāh while He is our Lord and your Lord? For us are our deeds, and for you are your deeds. And we are sincere [in deed and intention] to Him.\""
+  },
+  "deduction": {
+    "title": "The Unheeded Voice of Centuries",
+    "intro": "In a time long before the great cities rose, a lone soul rose among a people who had turned away from the truth. Their stubbornness was matched only by the patience of this solitary caller, who pleaded through generations without losing resolve. When all warnings fell on deaf ears, an unprecedented reckoning reshaped the very earth itself. Today, the echoes of that story still ripple through every recitation. Can you identify this resolute soul?",
+    "clues": [
+      "I was raised among a people who worshipped false idols and ignored the signs around them, yet I was chosen to awaken them from their heedlessness.",
+      "I called out to my people again and again, but they accused me of being nothing but a person like them, mocking my message and covering their ears.",
+      "Night and day, I entreated them with wisdom and gentle reminders, but my words seemed to vanish into the air, unheard and unheeded.",
+      "Under divine instruction, I constructed a vast vessel of timber and planks on dry land, and my people laughed at me as one who had lost reason.",
+      "When the great flood came as promised, my own son refused to board the vessel with me, believing a mountain would shelter him from the rising waters.",
+      "I became the patriarch of a new beginning upon the earth, and my story is preserved in a chapter of the Quran that bears my very name."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Prophet Nuh",
+          "Prophet Ibrahim",
+          "Prophet Musa",
+          "Prophet Lut",
+          "Prophet Hud"
+        ],
+        "answer": "Prophet Nuh"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "The Great Flood that reshaped the earth",
+          "Being cast into a blazing fire by the idolaters",
+          "Confrontation with Pharaoh's magicians at the palace",
+          "The destruction of the prosperous gardens by a heavenly storm",
+          "The overturning of the trench dwellers"
+        ],
+        "answer": "The Great Flood that reshaped the earth"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "The Ark built from timber and planks",
+          "The sacred house built upon ancient foundations",
+          "The staff that transformed into a serpent",
+          "The cave of the sleeping youths",
+          "The throne carried by a mighty creature"
+        ],
+        "answer": "The Ark built from timber and planks"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "The disbelievers drowned while the believers were saved aboard the vessel",
+          "The fire became cool and safe, and the caller emerged unharmed",
+          "The magicians fell prostrate and embraced faith",
+          "The garden was granted to the righteous neighbor in its place",
+          "The sleepers awoke after centuries, transformed"
+        ],
+        "answer": "The disbelievers drowned while the believers were saved aboard the vessel"
+      }
+    },
+    "verseRef": "71:5",
+    "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+    "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+  },
+  "scramble": {
+    "verseRef": "7:180",
+    "reference": "Surah Al-A'raf (7:180)",
+    "segments": [
+      "وَلِلَّهِ الْأَسْمَاءُ الْحُسْنَىٰ",
+      "فَادْعُوهُ بِهَا",
+      "وَذَرُوا الَّذِينَ يُلْحِدُونَ",
+      "فِي أَسْمَائِهِ",
+      "سَيُجْزَوْنَ مَا كَانُوا يَعْمَلُونَ"
+    ],
+    "translations": [
+      "And for Allah (are) the names  the most beautiful",
+      "so invoke Him by them And leave",
+      "those who deviate concerning",
+      "His names They will be recompensed for what",
+      "they used to do"
+    ],
+    "hint": "This verse invites believers to call upon Allah using His most beautiful names (Al-Asma' al-Husna), while warning against those who distort their meaning.",
+    "arabic": "وَلِلَّهِ ٱلْأَسْمَآءُ ٱلْحُسْنَىٰ فَٱدْعُوهُ بِهَا ۖ وَذَرُوا۟ ٱلَّذِينَ يُلْحِدُونَ فِىٓ أَسْمَـٰٓئِهِۦ ۚ سَيُجْزَوْنَ مَا كَانُوا۟ يَعْمَلُونَ",
+    "words": [
+      "وَلِلَّهِ ٱلْأَسْمَآءُ ٱلْحُسْنَىٰ",
+      "فَٱدْعُوهُ بِهَا ۖ وَذَرُوا۟",
+      "ٱلَّذِينَ يُلْحِدُونَ فِىٓ",
+      "أَسْمَـٰٓئِهِۦ ۚ سَيُجْزَوْنَ مَا",
+      "كَانُوا۟ يَعْمَلُونَ"
+    ],
+    "verseEn": "And to Allāh belong the best names, so invoke Him by them. And leave [the company of] those who practice deviation concerning His names. They will be recompensed for what they have been doing."
+  }
+}

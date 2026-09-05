@@ -1,0 +1,246 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "تُهَمٌ لِلنَّبِيِّ",
+        "nameEn": "Accusations Against the Prophet",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "مَجْنُونٍ",
+            "en": "a madman",
+            "ref": "68:2",
+            "verse": "مَآ أَنتَ بِنِعْمَةِ رَبِّكَ بِمَجْنُونٍۢ",
+            "verseEn": "You are not, [O Muḥammad], by the favor of your Lord, a madman."
+          },
+          {
+            "ar": "شَاعِرٌ",
+            "en": "(is) a poet",
+            "ref": "21:5",
+            "verse": "بَلْ قَالُوٓا۟ أَضْغَـٰثُ أَحْلَـٰمٍۭ بَلِ ٱفْتَرَىٰهُ بَلْ هُوَ شَاعِرٌۭ فَلْيَأْتِنَا بِـَٔايَةٍۢ كَمَآ أُرْسِلَ ٱلْأَوَّلُونَ",
+            "verseEn": "But they say, \"[The revelation is but] a mixture of false dreams; rather, he has invented it; rather, he is a poet. So let him bring us a sign just as the previous [messengers] were sent [with miracles].\""
+          },
+          {
+            "ar": "سَاحِرٌ",
+            "en": "A magician",
+            "ref": "51:39",
+            "verse": "فَتَوَلَّىٰ بِرُكْنِهِۦ وَقَالَ سَـٰحِرٌ أَوْ مَجْنُونٌۭ",
+            "verseEn": "But he turned away with his supporters and said, \"A magician or a madman.\""
+          },
+          {
+            "ar": "كَاهِنٍ",
+            "en": "(of) a soothsayer",
+            "ref": "69:42",
+            "verse": "وَلَا بِقَوْلِ كَاهِنٍۢ ۚ قَلِيلًۭا مَّا تَذَكَّرُونَ",
+            "verseEn": "Nor the word of a soothsayer; little do you remember."
+          }
+        ]
+      },
+      {
+        "name": "مُسَمَّيَاتٌ وُصِفَتْ بِكَرِيمٍ",
+        "nameEn": "Things Described as Karim (Noble) in the Quran",
+        "color": "green",
+        "items": [
+          {
+            "ar": "قُرْءَانٌ",
+            "en": "(is) surely, a Quran",
+            "ref": "56:77",
+            "verse": "إِنَّهُۥ لَقُرْءَانٌۭ كَرِيمٌۭ",
+            "verseEn": "Indeed, it is a noble Qur’ān."
+          },
+          {
+            "ar": "رِزْقٌ",
+            "en": "and a provision",
+            "ref": "8:4",
+            "verse": "أُو۟لَـٰٓئِكَ هُمُ ٱلْمُؤْمِنُونَ حَقًّۭا ۚ لَّهُمْ دَرَجَـٰتٌ عِندَ رَبِّهِمْ وَمَغْفِرَةٌۭ وَرِزْقٌۭ كَرِيمٌۭ",
+            "verseEn": "Those are the believers, truly. For them are degrees [of high position] with their Lord and forgiveness and noble provision."
+          },
+          {
+            "ar": "مَقَامٍ",
+            "en": "and a place",
+            "ref": "26:58",
+            "verse": "وَكُنُوزٍۢ وَمَقَامٍۢ كَرِيمٍۢ",
+            "verseEn": "And treasures and honorable station -"
+          },
+          {
+            "ar": "أَجْرٍ",
+            "en": "and a reward",
+            "ref": "36:11",
+            "verse": "إِنَّمَا تُنذِرُ مَنِ ٱتَّبَعَ ٱلذِّكْرَ وَخَشِىَ ٱلرَّحْمَـٰنَ بِٱلْغَيْبِ ۖ فَبَشِّرْهُ بِمَغْفِرَةٍۢ وَأَجْرٍۢ كَرِيمٍ",
+            "verseEn": "You can only warn one who follows the message and fears the Most Merciful unseen. So give him good tidings of forgiveness and noble reward."
+          }
+        ]
+      },
+      {
+        "name": "أَدَوَاتُ الشَّرْطِ فِي الْقُرْآنِ",
+        "nameEn": "Quranic Conditional Particles",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "إِنْ",
+            "en": "if",
+            "ref": "47:7",
+            "verse": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِن تَنصُرُوا۟ ٱللَّهَ يَنصُرْكُمْ وَيُثَبِّتْ أَقْدَامَكُمْ",
+            "verseEn": "O you who have believed, if you support Allāh, He will support you and plant firmly your feet."
+          },
+          {
+            "ar": "لَوْ",
+            "en": "if (past/contrary to fact)",
+            "ref": "8:23",
+            "verse": "وَلَوْ عَلِمَ ٱللَّهُ فِيهِمْ خَيْرًۭا لَّأَسْمَعَهُمْ ۖ وَلَوْ أَسْمَعَهُمْ لَتَوَلَّوا۟ وَّهُم مُّعْرِضُونَ",
+            "verseEn": "Had Allāh known any good in them, He would have made them hear. And if He had made them hear, they would [still] have turned away, while they were refusing."
+          },
+          {
+            "ar": "إِذَا",
+            "en": "And when",
+            "ref": "2:11",
+            "verse": "وَإِذَا قِيلَ لَهُمْ لَا تُفْسِدُوا۟ فِى ٱلْأَرْضِ قَالُوٓا۟ إِنَّمَا نَحْنُ مُصْلِحُونَ",
+            "verseEn": "And when it is said to them, \"Do not cause corruption on the earth,\" they say, \"We are but reformers.\""
+          },
+          {
+            "ar": "لَوْلَا",
+            "en": "So if not",
+            "ref": "2:64",
+            "verse": "ثُمَّ تَوَلَّيْتُم مِّنۢ بَعْدِ ذَٰلِكَ ۖ فَلَوْلَا فَضْلُ ٱللَّهِ عَلَيْكُمْ وَرَحْمَتُهُۥ لَكُنتُم مِّنَ ٱلْخَـٰسِرِينَ",
+            "verseEn": "Then you turned away after that. And if not for the favor of Allāh upon you and His mercy, you would have been among the losers."
+          }
+        ]
+      },
+      {
+        "name": "أَحْوَالُ الْوُجُوهِ يَوْمَ الْقِيَامَةِ",
+        "nameEn": "Descriptions of Faces on the Day of Judgement",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "خَاشِعَةٌ",
+            "en": "(will be) humbled",
+            "ref": "88:2",
+            "verse": "وُجُوهٌۭ يَوْمَئِذٍ خَـٰشِعَةٌ",
+            "verseEn": "[Some] faces, that Day, will be humbled,"
+          },
+          {
+            "ar": "نَّاعِمَةٌ",
+            "en": "(will be) joyful",
+            "ref": "88:8",
+            "verse": "وُجُوهٌۭ يَوْمَئِذٍۢ نَّاعِمَةٌۭ",
+            "verseEn": "[Other] faces, that Day, will show pleasure."
+          },
+          {
+            "ar": "نَّاضِرَةٌ",
+            "en": "(will be) radiant",
+            "ref": "75:22",
+            "verse": "وُجُوهٌۭ يَوْمَئِذٍۢ نَّاضِرَةٌ",
+            "verseEn": "[Some] faces, that Day, will be radiant,"
+          },
+          {
+            "ar": "مُّسْفِرَةٌ",
+            "en": "(will be) bright",
+            "ref": "80:38",
+            "verse": "وُجُوهٌۭ يَوْمَئِذٍۢ مُّسْفِرَةٌۭ",
+            "verseEn": "[Some] faces, that Day, will be bright -"
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "مغفرة",
+    "display": "مَغْفِرَة",
+    "hint": "Divine forgiveness — the merciful pardon that erases past sins, promised to those who believe and do good deeds",
+    "verseRef": "5:9",
+    "arabicVerse": "وَعَدَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ ۙ لَهُم مَّغْفِرَةٌۭ وَأَجْرٌ عَظِيمٌۭ",
+    "verse": "5:9 - Allāh has promised those who believe and do righteous deeds [that] for them there is forgiveness and great reward."
+  },
+  "deduction": {
+    "title": "The Soul Behind the Idol",
+    "intro": "In the shadow of a great exodus from tyranny, this mysterious figure waited in the wilderness. While the leader of a chosen people ascended a sacred mount for divine communion, a great trial descended upon those left behind. This individual seized the moment to reshape the beliefs of an entire community. When the leader returned with truth, a unique and eternal punishment was decreed. Can you unravel who this controversial and cunning soul was?",
+    "clues": [
+      "I traveled with a people who had been freed from the grip of a powerful oppressor through miraculous signs.",
+      "When their leader went up to the mountain to receive guidance, I waited among those who remained behind.",
+      "I gathered precious metal from their ornaments and fashioned it into something that produced a sound.",
+      "Through this creation, I convinced an entire generation that they had found their god in the wilderness.",
+      "When the leader returned, I was singled out and asked what drove me to such deception.",
+      "My punishment in this world was that no one would touch me or come near, a mark of shame I bear forever."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "The Samiri",
+          "Prophet Musa",
+          "Pharaoh's magicians",
+          "Haman, minister of Pharaoh",
+          "Iblis, the rejected one"
+        ],
+        "answer": "The Samiri"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "The making of the golden calf",
+          "The confrontation with Pharaoh",
+          "The construction of a great ark",
+          "The refusal to bow before Adam",
+          "The destruction of the cities of Lut"
+        ],
+        "answer": "The making of the golden calf"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "A golden calf idol",
+          "A staff that turned into a serpent",
+          "A she-camel that emerged from rock",
+          "An ark built upon a mountain",
+          "A throne carried upon the wind"
+        ],
+        "answer": "A golden calf idol"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "Condemned to be untouchable, forever saying 'no contact'",
+          "Drowned alongside the tyrant and his army",
+          "Cast into a fire that became cool and peaceful",
+          "Struck with blindness for refusing truth",
+          "Abandoned in a pit by jealous kin"
+        ],
+        "answer": "Condemned to be untouchable, forever saying 'no contact'"
+      }
+    },
+    "verseRef": "20:97",
+    "arabic": "قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ ۖ وَإِنَّ لَكَ مَوْعِدًۭا لَّن تُخْلَفَهُۥ ۖ وَٱنظُرْ إِلَىٰٓ إِلَـٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًۭا ۖ لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِى ٱلْيَمِّ نَسْفًا",
+    "verse": "[Moses] said, \"Then go. And indeed, it is [decreed] for you in [this] life to say, 'No contact.' And indeed, you have an appointment [in the Hereafter] you will not fail to keep. And look at your 'god' to which you remained devoted. We will surely burn it and blow it [i.e., its ashes] into the sea with a blast. (20:97)"
+  },
+  "scramble": {
+    "verseRef": "2:201",
+    "reference": "Surah Al-Baqarah (2:201)",
+    "segments": [
+      "رَبَّنَا",
+      "آتِنَا",
+      "فِي الدُّنْيَا حَسَنَةً",
+      "وَفِي الْآخِرَةِ حَسَنَةً",
+      "وَقِنَا",
+      "عَذَابَ النَّارِ"
+    ],
+    "translations": [
+      "And from those who say",
+      "Our Lord Grant us in",
+      "the world good",
+      "and in the Hereafter",
+      "good and save us",
+      "(from the) punishment (of) the Fire"
+    ],
+    "hint": "A beloved, oft-repeated supplication asking Allah for goodness in both this life and the Hereafter, and protection from Hellfire — the du'a of those who hope for Allah's mercy.",
+    "arabic": "وَمِنْهُم مَّن يَقُولُ رَبَّنَآ ءَاتِنَا فِى ٱلدُّنْيَا حَسَنَةًۭ وَفِى ٱلْـَٔاخِرَةِ حَسَنَةًۭ وَقِنَا عَذَابَ ٱلنَّارِ",
+    "words": [
+      "وَمِنْهُم مَّن يَقُولُ",
+      "رَبَّنَآ ءَاتِنَا فِى",
+      "ٱلدُّنْيَا حَسَنَةًۭ",
+      "وَفِى ٱلْـَٔاخِرَةِ",
+      "حَسَنَةًۭ وَقِنَا",
+      "عَذَابَ ٱلنَّارِ"
+    ],
+    "verseEn": "But among them is he who says, \"Our Lord, give us in this world [that which is] good and in the Hereafter [that which is] good and protect us from the punishment of the Fire.\""
+  }
+}

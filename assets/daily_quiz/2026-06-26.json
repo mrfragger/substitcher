@@ -1,0 +1,243 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَلْفَاظٌ لِلْجَمَاعَةِ فِي الْقُرْآنِ",
+        "nameEn": "Quranic Terms for Community",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "فَرِيقٍ",
+            "en": "a group",
+            "ref": "9:117",
+            "verse": "لَّقَد تَّابَ ٱللَّهُ عَلَى ٱلنَّبِىِّ وَٱلْمُهَـٰجِرِينَ وَٱلْأَنصَارِ ٱلَّذِينَ ٱتَّبَعُوهُ فِى سَاعَةِ ٱلْعُسْرَةِ مِنۢ بَعْدِ مَا كَادَ يَزِيغُ قُلُوبُ فَرِيقٍۢ مِّنْهُمْ ثُمَّ تَابَ عَلَيْهِمْ ۚ إِنَّهُۥ بِهِمْ رَءُوفٌۭ رَّحِيمٌۭ",
+            "verseEn": "Allāh has already forgiven the Prophet and the Muhājireen and the Anṣār who followed him in the hour of difficulty after the hearts of a party of them had almost inclined [to doubt], and then He forgave them. Indeed, He was to them Kind and Merciful."
+          },
+          {
+            "ar": "طَّآئِفَةٌ",
+            "en": "a faction",
+            "ref": "3:69",
+            "verse": "وَدَّت طَّآئِفَةٌۭ مِّنْ أَهْلِ ٱلْكِتَـٰبِ لَوْ يُضِلُّونَكُمْ وَمَا يُضِلُّونَ إِلَّآ أَنفُسَهُمْ وَمَا يَشْعُرُونَ",
+            "verseEn": "A faction of the People of the Scripture wish they could mislead you. But they do not mislead except themselves, and they perceive [it] not."
+          },
+          {
+            "ar": "حِزْبَ",
+            "en": "party",
+            "ref": "5:56",
+            "verse": "وَمَن يَتَوَلَّ ٱللَّهَ وَرَسُولَهُۥ وَٱلَّذِينَ ءَامَنُوا۟ فَإِنَّ حِزْبَ ٱللَّهِ هُمُ ٱلْغَـٰلِبُونَ",
+            "verseEn": "And whoever is an ally of Allāh and His Messenger and those who have believed - indeed, the party of Allāh - they will be the predominant."
+          },
+          {
+            "ar": "أُمَّةٍ",
+            "en": "nation",
+            "ref": "3:110",
+            "verse": "كُنتُمْ خَيْرَ أُمَّةٍ أُخْرِجَتْ لِلنَّاسِ تَأْمُرُونَ بِٱلْمَعْرُوفِ وَتَنْهَوْنَ عَنِ ٱلْمُنكَرِ وَتُؤْمِنُونَ بِٱللَّهِ ۗ وَلَوْ ءَامَنَ أَهْلُ ٱلْكِتَـٰبِ لَكَانَ خَيْرًۭا لَّهُم ۚ مِّنْهُمُ ٱلْمُؤْمِنُونَ وَأَكْثَرُهُمُ ٱلْفَـٰسِقُونَ",
+            "verseEn": "You are the best nation produced [as an example] for mankind. You enjoin what is right and forbid what is wrong and believe in Allāh. If only the People of the Scripture had believed, it would have been better for them. Among them are believers, but most of them are defiantly disobedient."
+          }
+        ]
+      },
+      {
+        "name": "مُكَوِّنَاتُ الْبِنَاءِ",
+        "nameEn": "Structural Components of Buildings",
+        "color": "green",
+        "items": [
+          {
+            "ar": "الْبَابَ",
+            "en": "door",
+            "ref": "2:58",
+            "verse": "وَإِذْ قُلْنَا ٱدْخُلُوا۟ هَـٰذِهِ ٱلْقَرْيَةَ فَكُلُوا۟ مِنْهَا حَيْثُ شِئْتُمْ رَغَدًۭا وَٱدْخُلُوا۟ ٱلْبَابَ سُجَّدًۭا وَقُولُوا۟ حِطَّةٌۭ نَّغْفِرْ لَكُمْ خَطَـٰيَـٰكُمْ ۚ وَسَنَزِيدُ ٱلْمُحْسِنِينَ",
+            "verseEn": "And [recall] when We said, \"Enter this city [i.e., Jerusalem] and eat from it wherever you will in [ease and] abundance, and enter the gate bowing humbly and say, 'Relieve us of our burdens [i.e., sins].' We will [then] forgive your sins for you, and We will increase the doers of good [in goodness and reward].\""
+          },
+          {
+            "ar": "السَّقْفِ",
+            "en": "roof",
+            "ref": "52:5",
+            "verse": "وَٱلسَّقْفِ ٱلْمَرْفُوعِ",
+            "verseEn": "And [by] the ceiling [i.e., heaven] raised high"
+          },
+          {
+            "ar": "جُدُرٍ",
+            "en": "walls",
+            "ref": "59:14",
+            "verse": "لَا يُقَـٰتِلُونَكُمْ جَمِيعًا إِلَّا فِى قُرًۭى مُّحَصَّنَةٍ أَوْ مِن وَرَآءِ جُدُرٍۭ ۚ بَأْسُهُم بَيْنَهُمْ شَدِيدٌۭ ۚ تَحْسَبُهُمْ جَمِيعًۭا وَقُلُوبُهُمْ شَتَّىٰ ۚ ذَٰلِكَ بِأَنَّهُمْ قَوْمٌۭ لَّا يَعْقِلُونَ",
+            "verseEn": "They will not fight you all except within fortified cities or from behind walls. Their violence [i.e., enmity] among themselves is severe. You think they are together, but their hearts are diverse. That is because they are a people who do not reason."
+          },
+          {
+            "ar": "غُرَفٌ",
+            "en": "chambers",
+            "ref": "39:20",
+            "verse": "لَـٰكِنِ ٱلَّذِينَ ٱتَّقَوْا۟ رَبَّهُمْ لَهُمْ غُرَفٌۭ مِّن فَوْقِهَا غُرَفٌۭ مَّبْنِيَّةٌۭ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ۖ وَعْدَ ٱللَّهِ ۖ لَا يُخْلِفُ ٱللَّهُ ٱلْمِيعَادَ",
+            "verseEn": "But those who have feared their Lord - for them are chambers, above them chambers built high, beneath which rivers flow. [This is] the promise of Allāh. Allāh does not fail in [His] promise."
+          }
+        ]
+      },
+      {
+        "name": "صِفَاتُ الْمُنَافِقِينَ",
+        "nameEn": "Characteristics of the Hypocrites",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "الْمُنَافِقُونَ",
+            "en": "the hypocrites",
+            "ref": "9:67",
+            "verse": "ٱلْمُنَـٰفِقُونَ وَٱلْمُنَـٰفِقَـٰتُ بَعْضُهُم مِّنۢ بَعْضٍۢ ۚ يَأْمُرُونَ بِٱلْمُنكَرِ وَيَنْهَوْنَ عَنِ ٱلْمَعْرُوفِ وَيَقْبِضُونَ أَيْدِيَهُمْ ۚ نَسُوا۟ ٱللَّهَ فَنَسِيَهُمْ ۗ إِنَّ ٱلْمُنَـٰفِقِينَ هُمُ ٱلْفَـٰسِقُونَ",
+            "verseEn": "The hypocrite men and hypocrite women are of one another. They enjoin what is wrong and forbid what is right and close their hands. They have forgotten Allāh, so He has forgotten them [accordingly]. Indeed, the hypocrites - it is they who are the defiantly disobedient."
+          },
+          {
+            "ar": "مَرَضٌ",
+            "en": "disease",
+            "ref": "74:31",
+            "verse": "وَمَا جَعَلْنَآ أَصْحَـٰبَ ٱلنَّارِ إِلَّا مَلَـٰٓئِكَةًۭ ۙ وَمَا جَعَلْنَا عِدَّتَهُمْ إِلَّا فِتْنَةًۭ لِّلَّذِينَ كَفَرُوا۟ لِيَسْتَيْقِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ وَيَزْدَادَ ٱلَّذِينَ ءَامَنُوٓا۟ إِيمَـٰنًۭا ۙ وَلَا يَرْتَابَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ وَٱلْمُؤْمِنُونَ ۙ وَلِيَقُولَ ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌۭ وَٱلْكَـٰفِرُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَـٰذَا مَثَلًۭا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَن يَشَآءُ وَيَهْدِى مَن يَشَآءُ ۚ وَمَا يَعْلَمُ جُنُودَ رَبِّكَ إِلَّا هُوَ ۚ وَمَا هِىَ إِلَّا ذِكْرَىٰ لِلْبَشَرِ",
+            "verseEn": "And We have not made the keepers of the Fire except angels. And We have not made their number except as a trial for those who disbelieve - that those who were given the Scripture will be convinced and those who have believed will increase in faith and those who were given the Scripture and the believers will not doubt and that those in whose hearts is disease [i.e., hypocrisy] and the disbelievers will say, \"What does Allāh intend by this as an example?\" Thus does Allāh send astray whom He wills and guide whom He wills. And none knows the soldiers of your Lord except Him. And it [i.e., mention of the Fire] is not but a reminder to humanity."
+          },
+          {
+            "ar": "يُخَادِعُونَ",
+            "en": "they deceive",
+            "ref": "4:142",
+            "verse": "إِنَّ ٱلْمُنَـٰفِقِينَ يُخَـٰدِعُونَ ٱللَّهَ وَهُوَ خَـٰدِعُهُمْ وَإِذَا قَامُوٓا۟ إِلَى ٱلصَّلَوٰةِ قَامُوا۟ كُسَالَىٰ يُرَآءُونَ ٱلنَّاسَ وَلَا يَذْكُرُونَ ٱللَّهَ إِلَّا قَلِيلًۭا",
+            "verseEn": "Indeed, the hypocrites [think to] deceive Allāh, but He is deceiving them. And when they stand for prayer, they stand lazily, showing [themselves to] the people and not remembering Allāh except a little,"
+          },
+          {
+            "ar": "كُسَالَىٰ",
+            "en": "lazy",
+            "ref": "9:54",
+            "verse": "وَمَا مَنَعَهُمْ أَن تُقْبَلَ مِنْهُمْ نَفَقَـٰتُهُمْ إِلَّآ أَنَّهُمْ كَفَرُوا۟ بِٱللَّهِ وَبِرَسُولِهِۦ وَلَا يَأْتُونَ ٱلصَّلَوٰةَ إِلَّا وَهُمْ كُسَالَىٰ وَلَا يُنفِقُونَ إِلَّا وَهُمْ كَـٰرِهُونَ",
+            "verseEn": "And what prevents their expenditures from being accepted from them but that they have disbelieved in Allāh and in His Messenger and that they come not to prayer except while they are lazy and that they do not spend except while they are unwilling."
+          }
+        ]
+      },
+      {
+        "name": "مَوْصُوفَاتٌ بِالْمُبِين",
+        "nameEn": "Things Described as 'Clear' (Al-Mubīn)",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "الْكِتَابِ",
+            "en": "the Book",
+            "ref": "12:1",
+            "verse": "الٓر ۚ تِلْكَ ءَايَـٰتُ ٱلْكِتَـٰبِ ٱلْمُبِينِ",
+            "verseEn": "Alif, Lām, Rā. These are the verses of the clear Book."
+          },
+          {
+            "ar": "قُرْءَانٍ",
+            "en": "a Qur'an",
+            "ref": "15:1",
+            "verse": "الٓر ۚ تِلْكَ ءَايَـٰتُ ٱلْكِتَـٰبِ وَقُرْءَانٍۢ مُّبِينٍۢ",
+            "verseEn": "Alif, Lām, Rā. These are the verses of the Book and a clear Qur’ān [i.e., recitation]."
+          },
+          {
+            "ar": "الْبَلَاغُ",
+            "en": "the notification",
+            "ref": "24:54",
+            "verse": "قُلْ أَطِيعُوا۟ ٱللَّهَ وَأَطِيعُوا۟ ٱلرَّسُولَ ۖ فَإِن تَوَلَّوْا۟ فَإِنَّمَا عَلَيْهِ مَا حُمِّلَ وَعَلَيْكُم مَّا حُمِّلْتُمْ ۖ وَإِن تُطِيعُوهُ تَهْتَدُوا۟ ۚ وَمَا عَلَى ٱلرَّسُولِ إِلَّا ٱلْبَلَـٰغُ ٱلْمُبِينُ",
+            "verseEn": "Say, \"Obey Allāh and obey the Messenger; but if you turn away - then upon him is only that [duty] with which he has been charged, and upon you is that with which you have been charged. And if you obey him, you will be [rightly] guided. And there is not upon the Messenger except the [responsibility for] clear notification.\""
+          },
+          {
+            "ar": "إِمَامٍ",
+            "en": "a record",
+            "ref": "36:12",
+            "verse": "إِنَّا نَحْنُ نُحْىِ ٱلْمَوْتَىٰ وَنَكْتُبُ مَا قَدَّمُوا۟ وَءَاثَـٰرَهُمْ ۚ وَكُلَّ شَىْءٍ أَحْصَيْنَـٰهُ فِىٓ إِمَامٍۢ مُّبِينٍۢ",
+            "verseEn": "Indeed, it is We who bring the dead to life and record what they have put forth and what they left behind, and all things We have enumerated in a clear register."
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "إيلاف",
+    "display": "إِيلَاف",
+    "hint": "The accustomed security and protection granted to the Quraysh tribe",
+    "verseRef": "106:1",
+    "arabicVerse": "لِإِيلَـٰفِ قُرَيْشٍ",
+    "verse": "106:1 - For the accustomed security of the Quraysh -"
+  },
+  "deduction": {
+    "title": "The Burden of a Refused Gift",
+    "intro": "In the dawn of human history, when the earth was still young and the world held its first breath, a soul stood before the Creator with a humble offering. That offering was weighed in the balance of divine acceptance — and found wanting. What followed was not a story of forgiveness, but of a heart consumed by jealousy, leading to an irreversible act that would echo through all of time. This is the story of one whose name became synonymous with the first grave injustice ever committed.",
+    "clues": [
+      "I came into existence as one of the very first children ever born, born to a parent whose story you know well.",
+      "I once offered a sacrifice to Allah, but it was not accepted from me — though my sibling's offering was received with grace.",
+      "Envy and rage took root in my heart, and I threatened to end the life of my own kin.",
+      "My sibling warned me to fear Allah, but my pride would not let me listen.",
+      "In a moment of terrible weakness, I carried out an unspeakable act upon my own brother.",
+      "Afterward, I did not even know how to conceal what I had done — until a creature of the earth was sent to teach me."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Qabil (Cain)",
+          "Habil (Abel)",
+          "The son of Prophet Nuh",
+          "Prophet Isma'il",
+          "Prophet Yusuf"
+        ],
+        "answer": "Qabil (Cain)"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "Offering a sacrifice that was rejected, leading to the first murder",
+          "Building a lofty tower to reach the heavens",
+          "Being cast into a raging fire for one's faith",
+          "Sacrificing one's own son in obedience to Allah",
+          "Being swallowed by a great fish for fleeing one's duty"
+        ],
+        "answer": "Offering a sacrifice that was rejected, leading to the first murder"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "A crow sent by Allah to demonstrate burial",
+          "A great flood that drowned an entire people",
+          "A staff that turned into a living serpent",
+          "A she-camel that emerged from a mountain of rock",
+          "A magnificent throne carried by mighty winds"
+        ],
+        "answer": "A crow sent by Allah to demonstrate burial"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "Became of the regretful, burdened by the first crime ever committed",
+          "Was forgiven by Allah and granted eternal Paradise",
+          "Was raised to a high station of prophecy and wisdom",
+          "Was saved by divine mercy after calling out from the depths of darkness",
+          "Was given dominion over the jinn, the wind, and the seas"
+        ],
+        "answer": "Became of the regretful, burdened by the first crime ever committed"
+      }
+    },
+    "verseRef": "5:30",
+    "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+    "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+  },
+  "scramble": {
+    "verseRef": "23:3",
+    "reference": "Surah Al-Mu'minun (23:3)",
+    "segments": [
+      "خَلَقَ الْإِنسَانَ مِنْ نُطْفَةٍ",
+      "فَجَعَلَهُ نُطْفَةً",
+      "ثُمَّ خَلَقَ فَسَوَّىٰهُ",
+      "فَجَعَلَ لَهُ سَمْعًا وَبَصَرًا",
+      "وَقَدْ خَصَّ بِذَٰلِكَ قَلْبًا فَهَلْ مِن مُّدَّكِرِ"
+    ],
+    "translations": [
+      "Those who",
+      "[they]",
+      "from",
+      "the vain talk",
+      "turn away"
+    ],
+    "hint": "An early Makkan revelation describing the stages of human creation from a drop until receiving hearing and sight",
+    "arabic": "وَٱلَّذِينَ هُمْ عَنِ ٱللَّغْوِ مُعْرِضُونَ",
+    "words": [
+      "وَٱلَّذِينَ",
+      "هُمْ",
+      "عَنِ",
+      "ٱللَّغْوِ",
+      "مُعْرِضُونَ"
+    ],
+    "verseEn": "And they who turn away from ill speech"
+  }
+}

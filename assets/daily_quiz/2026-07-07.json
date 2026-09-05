@@ -1,0 +1,246 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "الْحَوَاسُّ الْأَرْبَعُ",
+        "nameEn": "Four Senses in the Quran",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "ٱلْأَبْصَـٰرَ",
+            "en": "and the vision",
+            "ref": "67:23",
+            "verse": "قُلْ هُوَ ٱلَّذِىٓ أَنشَأَكُمْ وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَـٰرَ وَٱلْأَفْـِٔدَةَ ۖ قَلِيلًۭا مَّا تَشْكُرُونَ",
+            "verseEn": "Say, \"It is He who has produced you and made for you hearing and vision and hearts [i.e., intellect]; little are you grateful.\""
+          },
+          {
+            "ar": "ٱلسَّمْعَ",
+            "en": "the hearing",
+            "ref": "32:9",
+            "verse": "ثُمَّ سَوَّىٰهُ وَنَفَخَ فِيهِ مِن رُّوحِهِۦ ۖ وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَـٰرَ وَٱلْأَفْـِٔدَةَ ۚ قَلِيلًۭا مَّا تَشْكُرُونَ",
+            "verseEn": "Then He proportioned him and breathed into him from His [created] soul and made for you hearing and vision and hearts [i.e., intellect]; little are you grateful."
+          },
+          {
+            "ar": "ذُوقُوا۟",
+            "en": "Taste",
+            "ref": "22:22",
+            "verse": "كُلَّمَآ أَرَادُوٓا۟ أَن يَخْرُجُوا۟ مِنْهَا مِنْ غَمٍّ أُعِيدُوا۟ فِيهَا وَذُوقُوا۟ عَذَابَ ٱلْحَرِيقِ",
+            "verseEn": "Every time they want to get out of it [i.e., Hellfire] from anguish, they will be returned to it, and [it will be said], \"Taste the punishment of the Burning Fire!\""
+          },
+          {
+            "ar": "لَٰمَسْتُمُ",
+            "en": "you have touched",
+            "ref": "4:43",
+            "verse": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَقْرَبُوا۟ ٱلصَّلَوٰةَ وَأَنتُمْ سُكَـٰرَىٰ حَتَّىٰ تَعْلَمُوا۟ مَا تَقُولُونَ وَلَا جُنُبًا إِلَّا عَابِرِى سَبِيلٍ حَتَّىٰ تَغْتَسِلُوا۟ ۚ وَإِن كُنتُم مَّرْضَىٰٓ أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌۭ مِّنكُم مِّنَ ٱلْغَآئِطِ أَوْ لَـٰمَسْتُمُ ٱلنِّسَآءَ فَلَمْ تَجِدُوا۟ مَآءًۭ فَتَيَمَّمُوا۟ صَعِيدًۭا طَيِّبًۭا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُمْ ۗ إِنَّ ٱللَّهَ كَانَ عَفُوًّا غَفُورًا",
+            "verseEn": "O you who have believed, do not approach prayer while you are intoxicated until you know what you are saying or in a state of janābah, except those passing through [a place of prayer], until you have washed [your whole body]. And if you are ill or on a journey or one of you comes from the place of relieving himself or you have contacted women [i.e., had sexual intercourse] and find no water, then seek clean earth and wipe over your faces and your hands [with it]. Indeed, Allāh is ever Pardoning and Forgiving."
+          }
+        ]
+      },
+      {
+        "name": "مُصْطَلَحَاتُ الضَّلَالِ فِي الْقُرْآنِ",
+        "nameEn": "Quranic Terms for Misguidance",
+        "color": "green",
+        "items": [
+          {
+            "ar": "ٱلضَّلَٰلَةَ",
+            "en": "[the] astraying",
+            "ref": "2:175",
+            "verse": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ ٱشْتَرَوُا۟ ٱلضَّلَـٰلَةَ بِٱلْهُدَىٰ وَٱلْعَذَابَ بِٱلْمَغْفِرَةِ ۚ فَمَآ أَصْبَرَهُمْ عَلَى ٱلنَّارِ",
+            "verseEn": "Those are the ones who have exchanged guidance for error and forgiveness for punishment. How patient they are for [i.e., in pursuit of] the Fire!"
+          },
+          {
+            "ar": "ٱلْغَىِّ",
+            "en": "(of) [the] error",
+            "ref": "7:146",
+            "verse": "سَأَصْرِفُ عَنْ ءَايَـٰتِىَ ٱلَّذِينَ يَتَكَبَّرُونَ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَإِن يَرَوْا۟ كُلَّ ءَايَةٍۢ لَّا يُؤْمِنُوا۟ بِهَا وَإِن يَرَوْا۟ سَبِيلَ ٱلرُّشْدِ لَا يَتَّخِذُوهُ سَبِيلًۭا وَإِن يَرَوْا۟ سَبِيلَ ٱلْغَىِّ يَتَّخِذُوهُ سَبِيلًۭا ۚ ذَٰلِكَ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَـٰتِنَا وَكَانُوا۟ عَنْهَا غَـٰفِلِينَ",
+            "verseEn": "I will turn away from My signs those who are arrogant upon the earth without right; and if they should see every sign, they will not believe in it. And if they see the way of consciousness, they will not adopt it as a way; but if they see the way of error, they will adopt it as a way. That is because they have denied Our signs and they were heedless of them."
+          },
+          {
+            "ar": "أَعْمَىٰ",
+            "en": "blind",
+            "ref": "17:72",
+            "verse": "وَمَن كَانَ فِى هَـٰذِهِۦٓ أَعْمَىٰ فَهُوَ فِى ٱلْـَٔاخِرَةِ أَعْمَىٰ وَأَضَلُّ سَبِيلًۭا",
+            "verseEn": "And whoever is blind in this [life] will be blind in the Hereafter and more astray in way."
+          },
+          {
+            "ar": "ٱلْفُسُوقُ",
+            "en": "(of) disobedience",
+            "ref": "49:11",
+            "verse": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا يَسْخَرْ قَوْمٌۭ مِّن قَوْمٍ عَسَىٰٓ أَن يَكُونُوا۟ خَيْرًۭا مِّنْهُمْ وَلَا نِسَآءٌۭ مِّن نِّسَآءٍ عَسَىٰٓ أَن يَكُنَّ خَيْرًۭا مِّنْهُنَّ ۖ وَلَا تَلْمِزُوٓا۟ أَنفُسَكُمْ وَلَا تَنَابَزُوا۟ بِٱلْأَلْقَـٰبِ ۖ بِئْسَ ٱلِٱسْمُ ٱلْفُسُوقُ بَعْدَ ٱلْإِيمَـٰنِ ۚ وَمَن لَّمْ يَتُبْ فَأُو۟لَـٰٓئِكَ هُمُ ٱلظَّـٰلِمُونَ",
+            "verseEn": "O you who have believed, let not a people ridicule [another] people; perhaps they may be better than them; nor let women ridicule [other] women; perhaps they may be better than them. And do not insult one another and do not call each other by [offensive] nicknames. Wretched is the name [i.e., mention] of disobedience after [one's] faith. And whoever does not repent - then it is those who are the wrongdoers."
+          }
+        ]
+      },
+      {
+        "name": "أَلْقَابُ عِيسَىٰ فِي ٱلْقُرْآنِ",
+        "nameEn": "Titles of Jesus in the Quran",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "بِكَلِمَةٍ",
+            "en": "of a word",
+            "ref": "3:45",
+            "verse": "إِذْ قَالَتِ ٱلْمَلَـٰٓئِكَةُ يَـٰمَرْيَمُ إِنَّ ٱللَّهَ يُبَشِّرُكِ بِكَلِمَةٍۢ مِّنْهُ ٱسْمُهُ ٱلْمَسِيحُ عِيسَى ٱبْنُ مَرْيَمَ وَجِيهًۭا فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ وَمِنَ ٱلْمُقَرَّبِينَ",
+            "verseEn": "[And mention] when the angels said, \"O Mary, indeed Allāh gives you good tidings of a word from Him, whose name will be the Messiah, Jesus, the son of Mary - distinguished in this world and the Hereafter and among those brought near [to Allāh]."
+          },
+          {
+            "ar": "ٱلْمَسِيحُ",
+            "en": "(is) the Messiah",
+            "ref": "5:72",
+            "verse": "لَقَدْ كَفَرَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ هُوَ ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ ۖ وَقَالَ ٱلْمَسِيحُ يَـٰبَنِىٓ إِسْرَٰٓءِيلَ ٱعْبُدُوا۟ ٱللَّهَ رَبِّى وَرَبَّكُمْ ۖ إِنَّهُۥ مَن يُشْرِكْ بِٱللَّهِ فَقَدْ حَرَّمَ ٱللَّهُ عَلَيْهِ ٱلْجَنَّةَ وَمَأْوَىٰهُ ٱلنَّارُ ۖ وَمَا لِلظَّـٰلِمِينَ مِنْ أَنصَارٍۢ",
+            "verseEn": "They have certainly disbelieved who say, \"Allāh is the Messiah, the son of Mary\" while the Messiah has said, \"O Children of Israel, worship Allāh, my Lord and your Lord.\" Indeed, he who associates others with Allāh - Allāh has forbidden him Paradise, and his refuge is the Fire. And there are not for the wrongdoers any helpers."
+          },
+          {
+            "ar": "رُّوحِنَا",
+            "en": "Our Spirit",
+            "ref": "21:91",
+            "verse": "وَٱلَّتِىٓ أَحْصَنَتْ فَرْجَهَا فَنَفَخْنَا فِيهَا مِن رُّوحِنَا وَجَعَلْنَـٰهَا وَٱبْنَهَآ ءَايَةًۭ لِّلْعَـٰلَمِينَ",
+            "verseEn": "And [mention] the one who guarded her chastity [i.e., Mary], so We blew into her [garment] through Our angel [i.e., Gabriel], and We made her and her son a sign for the worlds."
+          },
+          {
+            "ar": "نَبِيًّا",
+            "en": "a Prophet",
+            "ref": "19:30",
+            "verse": "قَالَ إِنِّى عَبْدُ ٱللَّهِ ءَاتَىٰنِىَ ٱلْكِتَـٰبَ وَجَعَلَنِى نَبِيًّۭا",
+            "verseEn": "[Jesus] said, \"Indeed, I am the servant of Allāh. He has given me the Scripture and made me a prophet."
+          }
+        ]
+      },
+      {
+        "name": "مَوَاعِظُ لُقْمَانَ",
+        "nameEn": "Exhortations of Luqman",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "ٱلشِّرْكَ",
+            "en": "associating partners",
+            "ref": "31:13",
+            "verse": "وَإِذْ قَالَ لُقْمَـٰنُ لِٱبْنِهِۦ وَهُوَ يَعِظُهُۥ يَـٰبُنَىَّ لَا تُشْرِكْ بِٱللَّهِ ۖ إِنَّ ٱلشِّرْكَ لَظُلْمٌ عَظِيمٌۭ",
+            "verseEn": "And [mention, O Muḥammad], when Luqmān said to his son while he was instructing him, \"O my son, do not associate [anything] with Allāh. Indeed, association [with Him] is great injustice.\""
+          },
+          {
+            "ar": "صَخْرَةٍ",
+            "en": "a rock",
+            "ref": "31:16",
+            "verse": "يَـٰبُنَىَّ إِنَّهَآ إِن تَكُ مِثْقَالَ حَبَّةٍۢ مِّنْ خَرْدَلٍۢ فَتَكُن فِى صَخْرَةٍ أَوْ فِى ٱلسَّمَـٰوَٰتِ أَوْ فِى ٱلْأَرْضِ يَأْتِ بِهَا ٱللَّهُ ۚ إِنَّ ٱللَّهَ لَطِيفٌ خَبِيرٌۭ",
+            "verseEn": "[And Luqmān said], \"O my son, indeed if it [i.e., a wrong] should be the weight of a mustard seed and should be within a rock or [anywhere] in the heavens or in the earth, Allāh will bring it forth. Indeed, Allāh is Subtle and Aware."
+          },
+          {
+            "ar": "ٱلصَّلَوٰةَ",
+            "en": "the prayer",
+            "ref": "31:17",
+            "verse": "يَـٰبُنَىَّ أَقِمِ ٱلصَّلَوٰةَ وَأْمُرْ بِٱلْمَعْرُوفِ وَٱنْهَ عَنِ ٱلْمُنكَرِ وَٱصْبِرْ عَلَىٰ مَآ أَصَابَكَ ۖ إِنَّ ذَٰلِكَ مِنْ عَزْمِ ٱلْأُمُورِ",
+            "verseEn": "O my son, establish prayer, enjoin what is right, forbid what is wrong, and be patient over what befalls you. Indeed, [all] that is of the matters [requiring] resolve."
+          },
+          {
+            "ar": "خَدَّكَ",
+            "en": "your cheek",
+            "ref": "31:18",
+            "verse": "وَلَا تُصَعِّرْ خَدَّكَ لِلنَّاسِ وَلَا تَمْشِ فِى ٱلْأَرْضِ مَرَحًا ۖ إِنَّ ٱللَّهَ لَا يُحِبُّ كُلَّ مُخْتَالٍۢ فَخُورٍۢ",
+            "verseEn": "And do not turn your cheek [in contempt] toward people and do not walk through the earth exultantly. Indeed, Allāh does not like everyone self-deluded and boastful."
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "قدر",
+    "display": "قَدْر",
+    "hint": "A concept of divine preordainment; both a blessed night and an entire surah are named after it",
+    "verseRef": "97:1",
+    "arabicVerse": "إِنَّآ أَنزَلْنَـٰهُ فِى لَيْلَةِ ٱلْقَدْرِ",
+    "verse": "97:1 - Indeed, We sent it [i.e., the Qur’ān] down during the Night of Decree."
+  },
+  "deduction": {
+    "title": "The Voice from the Abyss",
+    "intro": "A tale of patience and the boundless mercy of the Divine unfolds in the Quran. A messenger was sent to a great city, but their people rejected the warning and refused the truth. In frustration, this soul departed — only to be tested by the raging sea and swallowed into the darkest of depths. From the belly of darkness, a humble plea arose, and the Most Merciful responded. Who is this soul who emerged transformed, whose people would become believers of over a hundred thousand?",
+    "clues": [
+      "I was sent as a warner to a great city whose inhabitants had strayed from the path of faith.",
+      "I called my people to the truth repeatedly, but they mocked and rejected my message.",
+      "I departed from them in frustration before permission was granted, and headed toward the open sea.",
+      "A great storm arose, and I was cast overboard — then swallowed whole by a massive sea creature.",
+      "In layers of darkness — the ocean's depths, the belly of the creature, and the deep sea floor — I cried out: 'There is no god but You; glory be to You; I was among the wrongdoers.'",
+      "Allah delivered me from the depths, and when I returned, over a hundred thousand of my people had embraced the truth."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Prophet Yunus (Jonah)",
+          "Prophet Musa (Moses)",
+          "Prophet Ibrahim (Abraham)",
+          "Prophet Zakariyya (Zechariah)",
+          "Prophet Idris (Enoch)"
+        ],
+        "answer": "Prophet Yunus (Jonah)"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "Being swallowed by a massive sea creature",
+          "Confronting a tyrant and his magicians",
+          "Being cast into a blazing fire by an angry king",
+          "Hearing glad tidings of a son while old and unable",
+          "Witnessing a nation destroyed by a devastating flood"
+        ],
+        "answer": "Being swallowed by a massive sea creature"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "The belly of a great sea creature in the ocean's depths",
+          "A sacred house surrounded by mountains in a barren valley",
+          "A blazing fire that was made cool and peaceful",
+          "A magnificent garden with flowing rivers and shade",
+          "A massive ark resting on the peak of a mountain"
+        ],
+        "answer": "The belly of a great sea creature in the ocean's depths"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "Delivered from darkness; a great multitude believed",
+          "Freed from a blazing fire, with flames becoming cool",
+          "Became leader of a powerful nation and freed them from oppression",
+          "Granted a child in old age after years of prayer",
+          "Given immense wisdom, a kingdom, and rule over winds and jinn"
+        ],
+        "answer": "Delivered from darkness; a great multitude believed"
+      }
+    },
+    "verseRef": "10:98",
+    "arabic": "فَلَوْلَا كَانَتْ قَرْيَةٌ ءَامَنَتْ فَنَفَعَهَآ إِيمَـٰنُهَآ إِلَّا قَوْمَ يُونُسَ لَمَّآ ءَامَنُوا۟ كَشَفْنَا عَنْهُمْ عَذَابَ ٱلْخِزْىِ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+    "verse": "Then has there not been a [single] city that believed so its faith benefited it except the people of Jonah? When they believed, We removed from them the punishment of disgrace in worldly life and gave them enjoyment [i.e., provision] for a time. (10:98)"
+  },
+  "scramble": {
+    "verseRef": "76:29",
+    "reference": "Surah Al-Insan (76:29)",
+    "segments": [
+      "إِنَّ هَٰذِهِ",
+      "تَذْكِرَةٌ",
+      "فَمَن شَاءَ",
+      "اتَّخَذَ",
+      "إِلَىٰ رَبِّهِ",
+      "سَبِيلًا"
+    ],
+    "translations": [
+      "Indeed this",
+      "(is) a reminder so whoever",
+      "wills let him take",
+      "to",
+      "his Lord",
+      "a way"
+    ],
+    "hint": "A universal invitation from Allah—about choice, guidance, and the straight path to one's Lord",
+    "arabic": "إِنَّ هَـٰذِهِۦ تَذْكِرَةٌۭ ۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ سَبِيلًۭا",
+    "words": [
+      "إِنَّ هَـٰذِهِۦ",
+      "تَذْكِرَةٌۭ ۖ فَمَن",
+      "شَآءَ ٱتَّخَذَ",
+      "إِلَىٰ",
+      "رَبِّهِۦ",
+      "سَبِيلًۭا"
+    ],
+    "verseEn": "Indeed, this is a reminder, so he who wills may take to his Lord a way."
+  }
+}

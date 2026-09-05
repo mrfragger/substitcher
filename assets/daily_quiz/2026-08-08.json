@@ -1,0 +1,246 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَوْقَاتُ الْيَوْمِ",
+        "nameEn": "Times of Day in the Quran",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "صَبَاح",
+            "en": "(the) morning",
+            "ref": "37:177",
+            "verse": "فَإِذَا نَزَلَ بِسَاحَتِهِمْ فَسَآءَ صَبَاحُ ٱلْمُنذَرِينَ",
+            "verseEn": "But when it descends in their territory, then evil is the morning of those who were warned."
+          },
+          {
+            "ar": "نَهَار",
+            "en": "daytime",
+            "ref": "10:6",
+            "verse": "إِنَّ فِى ٱخْتِلَـٰفِ ٱلَّيْلِ وَٱلنَّهَارِ وَمَا خَلَقَ ٱللَّهُ فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ لَـَٔايَـٰتٍۢ لِّقَوْمٍۢ يَتَّقُونَ",
+            "verseEn": "Indeed, in the alternation of the night and the day and [in] what Allāh has created in the heavens and the earth are signs for a people who fear Allāh."
+          },
+          {
+            "ar": "لَيْل",
+            "en": "the night",
+            "ref": "51:17",
+            "verse": "كَانُوا۟ قَلِيلًۭا مِّنَ ٱلَّيْلِ مَا يَهْجَعُونَ",
+            "verseEn": "They used to sleep but little of the night,"
+          },
+          {
+            "ar": "عِشَاء",
+            "en": "(of) night",
+            "ref": "24:58",
+            "verse": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لِيَسْتَـْٔذِنكُمُ ٱلَّذِينَ مَلَكَتْ أَيْمَـٰنُكُمْ وَٱلَّذِينَ لَمْ يَبْلُغُوا۟ ٱلْحُلُمَ مِنكُمْ ثَلَـٰثَ مَرَّٰتٍۢ ۚ مِّن قَبْلِ صَلَوٰةِ ٱلْفَجْرِ وَحِينَ تَضَعُونَ ثِيَابَكُم مِّنَ ٱلظَّهِيرَةِ وَمِنۢ بَعْدِ صَلَوٰةِ ٱلْعِشَآءِ ۚ ثَلَـٰثُ عَوْرَٰتٍۢ لَّكُمْ ۚ لَيْسَ عَلَيْكُمْ وَلَا عَلَيْهِمْ جُنَاحٌۢ بَعْدَهُنَّ ۚ طَوَّٰفُونَ عَلَيْكُم بَعْضُكُمْ عَلَىٰ بَعْضٍۢ ۚ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمُ ٱلْـَٔايَـٰتِ ۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌۭ",
+            "verseEn": "O you who have believed, let those whom your right hands possess and those who have not [yet] reached puberty among you ask permission of you [before entering] at three times: before the dawn prayer and when you put aside your clothing [for rest] at noon and after the night prayer. [These are] three times of privacy for you. There is no blame upon you nor upon them beyond these [periods], for they continually circulate among you - some of you, among others. Thus does Allāh make clear to you the verses [i.e., His ordinances]; and Allāh is Knowing and Wise."
+          }
+        ]
+      },
+      {
+        "name": "كَلِمَاتُ الْجَزَاءِ فِي الْقُرْآنِ",
+        "nameEn": "Quranic Terms for Reward",
+        "color": "green",
+        "items": [
+          {
+            "ar": "أَجْر",
+            "en": "(is) their reward",
+            "ref": "2:274",
+            "verse": "ٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُم بِٱلَّيْلِ وَٱلنَّهَارِ سِرًّۭا وَعَلَانِيَةًۭ فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+            "verseEn": "Those who spend their wealth [in Allāh's way] by night and by day, secretly and publicly - they will have their reward with their Lord. And no fear will there be concerning them, nor will they grieve."
+          },
+          {
+            "ar": "ثَوَاب",
+            "en": "reward",
+            "ref": "3:148",
+            "verse": "فَـَٔاتَىٰهُمُ ٱللَّهُ ثَوَابَ ٱلدُّنْيَا وَحُسْنَ ثَوَابِ ٱلْـَٔاخِرَةِ ۗ وَٱللَّهُ يُحِبُّ ٱلْمُحْسِنِينَ",
+            "verseEn": "So Allāh gave them the reward of this world and the good reward of the Hereafter. And Allāh loves the doers of good."
+          },
+          {
+            "ar": "جَزَاء",
+            "en": "(should be the) recompense",
+            "ref": "2:85",
+            "verse": "ثُمَّ أَنتُمْ هَـٰٓؤُلَآءِ تَقْتُلُونَ أَنفُسَكُمْ وَتُخْرِجُونَ فَرِيقًۭا مِّنكُم مِّن دِيَـٰرِهِمْ تَظَـٰهَرُونَ عَلَيْهِم بِٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَإِن يَأْتُوكُمْ أُسَـٰرَىٰ تُفَـٰدُوهُمْ وَهُوَ مُحَرَّمٌ عَلَيْكُمْ إِخْرَاجُهُمْ ۚ أَفَتُؤْمِنُونَ بِبَعْضِ ٱلْكِتَـٰبِ وَتَكْفُرُونَ بِبَعْضٍۢ ۚ فَمَا جَزَآءُ مَن يَفْعَلُ ذَٰلِكَ مِنكُمْ إِلَّا خِزْىٌۭ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَيَوْمَ ٱلْقِيَـٰمَةِ يُرَدُّونَ إِلَىٰٓ أَشَدِّ ٱلْعَذَابِ ۗ وَمَا ٱللَّهُ بِغَـٰفِلٍ عَمَّا تَعْمَلُونَ",
+            "verseEn": "Then, you are those [same ones who are] killing one another and evicting a party of your people from their homes, cooperating against them in sin and aggression. And if they come to you as captives, you ransom them, although their eviction was forbidden to you. So do you believe in part of the Scripture and disbelieve in part? Then what is the recompense for those who do that among you except disgrace in worldly life; and on the Day of Resurrection they will be sent back to the severest of punishment. And Allāh is not unaware of what you do."
+          },
+          {
+            "ar": "فَضْل",
+            "en": "(of) Bounty",
+            "ref": "3:174",
+            "verse": "فَٱنقَلَبُوا۟ بِنِعْمَةٍۢ مِّنَ ٱللَّهِ وَفَضْلٍۢ لَّمْ يَمْسَسْهُمْ سُوٓءٌۭ وَٱتَّبَعُوا۟ رِضْوَٰنَ ٱللَّهِ ۗ وَٱللَّهُ ذُو فَضْلٍ عَظِيمٍ",
+            "verseEn": "So they returned with favor from Allāh and bounty, no harm having touched them. And they pursued the pleasure of Allāh, and Allāh is the possessor of great bounty."
+          }
+        ]
+      },
+      {
+        "name": "أَنْوَاعُ الْخَوْفِ فِي الْقُرْآنِ",
+        "nameEn": "Types of Fear in the Quran",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "خَوْفٍ",
+            "en": "fear",
+            "ref": "106:4",
+            "verse": "ٱلَّذِىٓ أَطْعَمَهُم مِّن جُوعٍۢ وَءَامَنَهُم مِّنْ خَوْفٍۭ",
+            "verseEn": "Who has fed them, [saving them] from hunger and made them safe, [saving them] from fear."
+          },
+          {
+            "ar": "يَخْشَى",
+            "en": "fear",
+            "ref": "35:28",
+            "verse": "وَمِنَ ٱلنَّاسِ وَٱلدَّوَآبِّ وَٱلْأَنْعَـٰمِ مُخْتَلِفٌ أَلْوَٰنُهُۥ كَذَٰلِكَ ۗ إِنَّمَا يَخْشَى ٱللَّهَ مِنْ عِبَادِهِ ٱلْعُلَمَـٰٓؤُا۟ ۗ إِنَّ ٱللَّهَ عَزِيزٌ غَفُورٌ",
+            "verseEn": "And among people and moving creatures and grazing livestock are various colors similarly. Only those fear Allāh, from among His servants, who have knowledge. Indeed, Allāh is Exalted in Might and Forgiving."
+          },
+          {
+            "ar": "يَرْهَبُونَ",
+            "en": "(are) fearful",
+            "ref": "7:154",
+            "verse": "وَلَمَّا سَكَتَ عَن مُّوسَى ٱلْغَضَبُ أَخَذَ ٱلْأَلْوَاحَ ۖ وَفِى نُسْخَتِهَا هُدًۭى وَرَحْمَةٌۭ لِّلَّذِينَ هُمْ لِرَبِّهِمْ يَرْهَبُونَ",
+            "verseEn": "And when the anger subsided in Moses, he took up the tablets; and in their inscription was guidance and mercy for those who are fearful of their Lord."
+          },
+          {
+            "ar": "وَجِلَتْ",
+            "en": "fear",
+            "ref": "22:35",
+            "verse": "ٱلَّذِينَ إِذَا ذُكِرَ ٱللَّهُ وَجِلَتْ قُلُوبُهُمْ وَٱلصَّـٰبِرِينَ عَلَىٰ مَآ أَصَابَهُمْ وَٱلْمُقِيمِى ٱلصَّلَوٰةِ وَمِمَّا رَزَقْنَـٰهُمْ يُنفِقُونَ",
+            "verseEn": "Who, when Allāh is mentioned, their hearts are fearful, and [to] the patient over what has afflicted them, and the establishers of prayer and those who spend from what We have provided them."
+          }
+        ]
+      },
+      {
+        "name": "كَلِمَاتٌ بِمَعْنَى النَّاسِ",
+        "nameEn": "Synonyms for 'People' in the Quran",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "قَوْمِ",
+            "en": "O my people",
+            "ref": "2:54",
+            "verse": "وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦ يَـٰقَوْمِ إِنَّكُمْ ظَلَمْتُمْ أَنفُسَكُم بِٱتِّخَاذِكُمُ ٱلْعِجْلَ فَتُوبُوٓا۟ إِلَىٰ بَارِئِكُمْ فَٱقْتُلُوٓا۟ أَنفُسَكُمْ ذَٰلِكُمْ خَيْرٌۭ لَّكُمْ عِندَ بَارِئِكُمْ فَتَابَ عَلَيْكُمْ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+            "verseEn": "And [recall] when Moses said to his people, \"O my people, indeed you have wronged yourselves by your taking of the calf [for worship]. So repent to your Creator and kill yourselves [i.e., the guilty among you]. That is best for [all of] you in the sight of your Creator.\" Then He accepted your repentance; indeed, He is the Accepting of Repentance, the Merciful."
+          },
+          {
+            "ar": "أُمَّةً",
+            "en": "a community",
+            "ref": "10:19",
+            "verse": "وَمَا كَانَ ٱلنَّاسُ إِلَّآ أُمَّةًۭ وَٰحِدَةًۭ فَٱخْتَلَفُوا۟ ۚ وَلَوْلَا كَلِمَةٌۭ سَبَقَتْ مِن رَّبِّكَ لَقُضِىَ بَيْنَهُمْ فِيمَا فِيهِ يَخْتَلِفُونَ",
+            "verseEn": "And mankind was not but one community [united in religion], but [then] they differed. And if not for a word that preceded from your Lord, it would have been judged between them [immediately] concerning that over which they differ."
+          },
+          {
+            "ar": "النَّاسِ",
+            "en": "the people",
+            "ref": "2:8",
+            "verse": "وَمِنَ ٱلنَّاسِ مَن يَقُولُ ءَامَنَّا بِٱللَّهِ وَبِٱلْيَوْمِ ٱلْـَٔاخِرِ وَمَا هُم بِمُؤْمِنِينَ",
+            "verseEn": "And of the people are some who say, \"We believe in Allāh and the Last Day,\" but they are not believers."
+          },
+          {
+            "ar": "بَشَرٌ",
+            "en": "a man",
+            "ref": "41:6",
+            "verse": "قُلْ إِنَّمَآ أَنَا۠ بَشَرٌۭ مِّثْلُكُمْ يُوحَىٰٓ إِلَىَّ أَنَّمَآ إِلَـٰهُكُمْ إِلَـٰهٌۭ وَٰحِدٌۭ فَٱسْتَقِيمُوٓا۟ إِلَيْهِ وَٱسْتَغْفِرُوهُ ۗ وَوَيْلٌۭ لِّلْمُشْرِكِينَ",
+            "verseEn": "Say, [O Muḥammad], \"I am only a man like you to whom it has been revealed that your god is but one God; so take a straight course to Him and seek His forgiveness.\" And woe to those who associate others with Allāh"
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "وعد",
+    "display": "وَعْدَ",
+    "hint": "A sacred commitment from the Most High that never fails",
+    "verseRef": "31:9",
+    "arabicVerse": "خَـٰلِدِينَ فِيهَا ۖ وَعْدَ ٱللَّهِ حَقًّۭا ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+    "verse": "31:9 - Wherein they abide eternally; [it is] the promise of Allāh [which is] truth. And He is the Exalted in Might, the Wise."
+  },
+  "deduction": {
+    "title": "The Voice Before the Storm",
+    "intro": "A figure in the desert rose to call a powerful nation back to the truth. The people were known for their magnificent buildings and unmatched strength. Yet their pride blinded them, and they refused to listen. Eventually, a devastating punishment befell them, sparing only a small group of believers.",
+    "clues": [
+      "I was sent to a powerful people who lived in the open lands and were known for their might.",
+      "My people came after another great nation that had been destroyed.",
+      "They had magnificent structures and built high towers.",
+      "I called them to worship One God, but they refused to abandon their idols.",
+      "A violent punishment overtook them, sparing only those who believed with me.",
+      "I am the one sent to a mighty people known as Aad."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Prophet Hud",
+          "Prophet Salih",
+          "Prophet Shu'aib",
+          "Prophet Nuh",
+          "Prophet Ibrahim"
+        ],
+        "answer": "Prophet Hud"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "The great flood",
+          "A roaring violent wind",
+          "An earthquake and a terrifying cry",
+          "A rain of burning stones",
+          "Heavenly fire from above"
+        ],
+        "answer": "A roaring violent wind"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "A great ark built on a mountain",
+          "A unique she-camel",
+          "A staff that became a serpent",
+          "Tall buildings and lofty structures",
+          "A flaming pyre"
+        ],
+        "answer": "Tall buildings and lofty structures"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "All drowned in a great flood",
+          "My people destroyed by a violent wind, while I was saved",
+          "My people struck by an earthquake and cry",
+          "My people pelted with stones from the sky",
+          "My people thrown into a blazing fire"
+        ],
+        "answer": "My people destroyed by a violent wind, while I was saved"
+      }
+    },
+    "verseRef": "7:69",
+    "arabic": "أَوَعَجِبْتُمْ أَن جَآءَكُمْ ذِكْرٌۭ مِّن رَّبِّكُمْ عَلَىٰ رَجُلٍۢ مِّنكُمْ لِيُنذِرَكُمْ ۚ وَٱذْكُرُوٓا۟ إِذْ جَعَلَكُمْ خُلَفَآءَ مِنۢ بَعْدِ قَوْمِ نُوحٍۢ وَزَادَكُمْ فِى ٱلْخَلْقِ بَصْۜطَةًۭ ۖ فَٱذْكُرُوٓا۟ ءَالَآءَ ٱللَّهِ لَعَلَّكُمْ تُفْلِحُونَ",
+    "verse": "Then do you wonder that there has come to you a reminder from your Lord through a man from among you, that he may warn you? And remember when He made you successors after the people of Noah and increased you in stature extensively. So remember the favors of Allāh that you might succeed.\" (7:69)"
+  },
+  "scramble": {
+    "verseRef": "28:56",
+    "reference": "Al-Qasas (28:56)",
+    "segments": [
+      "إِنَّكَ",
+      "لَا تَهْدِي",
+      "مَنْ أَحْبَبْتَ",
+      "وَلَٰكِنَّ اللَّهَ",
+      "يَهْدِي",
+      "مَن يَشَاءُ"
+    ],
+    "translations": [
+      "Indeed, you (can) not guide",
+      "whom you love",
+      "but Allah",
+      "guides whom",
+      "He wills And He",
+      "(is) most knowing (of) the guided ones"
+    ],
+    "hint": "A profound teaching about divine guidance, revealed when the Prophet was grieved over a loved one's refusal of faith.",
+    "arabic": "إِنَّكَ لَا تَهْدِى مَنْ أَحْبَبْتَ وَلَـٰكِنَّ ٱللَّهَ يَهْدِى مَن يَشَآءُ ۚ وَهُوَ أَعْلَمُ بِٱلْمُهْتَدِينَ",
+    "words": [
+      "إِنَّكَ لَا تَهْدِى",
+      "مَنْ أَحْبَبْتَ",
+      "وَلَـٰكِنَّ ٱللَّهَ",
+      "يَهْدِى مَن",
+      "يَشَآءُ ۚ وَهُوَ",
+      "أَعْلَمُ بِٱلْمُهْتَدِينَ"
+    ],
+    "verseEn": "Indeed, [O Muḥammad], you do not guide whom you like, but Allāh guides whom He wills. And He is most knowing of the [rightly] guided."
+  }
+}

@@ -47,6 +47,7 @@ class PlayerControls extends StatelessWidget {
   final VoidCallback onTogglePlayPause;
   final VoidCallback onPreviousChapter;
   final VoidCallback onNextChapter;
+  final int repeatCount;
   final Function(int) onJumpToChapter;
   final VoidCallback onSkipBackward;
   final VoidCallback onSkipForward;
@@ -116,6 +117,7 @@ class PlayerControls extends StatelessWidget {
     required this.onTogglePlayPause,
     required this.onPreviousChapter,
     required this.onNextChapter,
+    required this.repeatCount,
     required this.onJumpToChapter,
     required this.onSkipBackward,
     required this.onSkipForward,
@@ -596,6 +598,11 @@ class PlayerControls extends StatelessWidget {
                                 text: '${videoFps!.toStringAsFixed(0)}fps ',
                               ),
                             ],
+                            if (repeatCount > 1)
+                              TextSpan(
+                                text: 'Repeat ${repeatCount}x ',
+                                style: const TextStyle(color: Colors.white),
+                              ),
                               TextSpan(
                                 text: '${playbackSpeed.toStringAsFixed(1)}x',
                                 style: const TextStyle(color: Colors.orange),
@@ -1058,21 +1065,64 @@ class PlayerControls extends StatelessWidget {
             child: IconButton(
               onPressed: onAddBookmark,
               icon: const Icon(Icons.bookmark_add),
-              color: Colors.white70,
               iconSize: 24,
             ),
           ),
 
-        if (!isYouTubeStream)
-          Tooltip(
-            message: 'Chapters (c)',
-            child: IconButton(
+          if (!isYouTubeStream)
+            PopupMenuButton<String>(
               icon: const Icon(Icons.view_timeline),
-              color: Colors.white70,
               iconSize: 28,
-              onPressed: onTogglePanel,
+              tooltip: 'Chapters (c)',
+              onSelected: (value) {
+                if (value == 'chapters') {
+                  onTogglePanel();
+                }
+              },
+              itemBuilder: (context) => [
+                const PopupMenuItem<String>(
+                  enabled: false,
+                  height: 40,
+                  child: Column(
+                    mainAxisAlignment: MainAxisAlignment.center,
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      Text(
+                        'Repeat Count:',
+                        style: TextStyle(
+                          fontSize: 13,
+                          fontWeight: FontWeight.bold,
+                        ),
+                      ),
+                      SizedBox(height: 4),
+                      Text(
+                        'Ctrl+1 to Ctrl+0 (1x-10x)',
+                        style: TextStyle(
+                          color: Colors.orange,
+                          fontSize: 12,
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+                const PopupMenuDivider(),
+                PopupMenuItem<String>(
+                  value: 'chapters',
+                  child: Row(
+                    children: [
+                      const Icon(Icons.view_timeline, size: 20),
+                      const SizedBox(width: 12),
+                      Text(
+                        'Show Chapters (c)',
+                        style: TextStyle(
+                          fontSize: 14,
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+              ],
             ),
-          ),
 
         const SizedBox(width: 8),
 

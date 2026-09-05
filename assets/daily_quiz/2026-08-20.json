@@ -1,0 +1,243 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "الْأَنْبِيَاءُ الَّذِينَ أُوتُوا الْكِتَابَ",
+        "nameEn": "Prophets Who Received a Revealed Book",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "مُوسَى",
+            "en": "(of) Musa",
+            "ref": "79:15",
+            "verse": "هَلْ أَتَىٰكَ حَدِيثُ مُوسَىٰٓ",
+            "verseEn": "Has there reached you the story of Moses? -"
+          },
+          {
+            "ar": "عِيسَى",
+            "en": "Isa",
+            "ref": "2:87",
+            "verse": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَقَفَّيْنَا مِنۢ بَعْدِهِۦ بِٱلرُّسُلِ ۖ وَءَاتَيْنَا عِيسَى ٱبْنَ مَرْيَمَ ٱلْبَيِّنَـٰتِ وَأَيَّدْنَـٰهُ بِرُوحِ ٱلْقُدُسِ ۗ أَفَكُلَّمَا جَآءَكُمْ رَسُولٌۢ بِمَا لَا تَهْوَىٰٓ أَنفُسُكُمُ ٱسْتَكْبَرْتُمْ فَفَرِيقًۭا كَذَّبْتُمْ وَفَرِيقًۭا تَقْتُلُونَ",
+            "verseEn": "And We did certainly give Moses the Scripture [i.e., the Torah] and followed up after him with messengers. And We gave Jesus, the son of Mary, clear proofs and supported him with the Pure Spirit [i.e., the angel Gabriel]. But is it [not] that every time a messenger came to you, [O Children of Israel], with what your souls did not desire, you were arrogant? And a party [of messengers] you denied and another party you killed."
+          },
+          {
+            "ar": "دَاوُود",
+            "en": "Dawood",
+            "ref": "27:15",
+            "verse": "وَلَقَدْ ءَاتَيْنَا دَاوُۥدَ وَسُلَيْمَـٰنَ عِلْمًۭا ۖ وَقَالَا ٱلْحَمْدُ لِلَّهِ ٱلَّذِى فَضَّلَنَا عَلَىٰ كَثِيرٍۢ مِّنْ عِبَادِهِ ٱلْمُؤْمِنِينَ",
+            "verseEn": "And We had certainly given to David and Solomon knowledge, and they said, \"Praise [is due] to Allāh, who has favored us over many of His believing servants.\""
+          },
+          {
+            "ar": "أَحْمَد",
+            "en": "Ahmad",
+            "ref": "61:6",
+            "verse": "وَإِذْ قَالَ عِيسَى ٱبْنُ مَرْيَمَ يَـٰبَنِىٓ إِسْرَٰٓءِيلَ إِنِّى رَسُولُ ٱللَّهِ إِلَيْكُم مُّصَدِّقًۭا لِّمَا بَيْنَ يَدَىَّ مِنَ ٱلتَّوْرَىٰةِ وَمُبَشِّرًۢا بِرَسُولٍۢ يَأْتِى مِنۢ بَعْدِى ٱسْمُهُۥٓ أَحْمَدُ ۖ فَلَمَّا جَآءَهُم بِٱلْبَيِّنَـٰتِ قَالُوا۟ هَـٰذَا سِحْرٌۭ مُّبِينٌۭ",
+            "verseEn": "And [mention] when Jesus, the son of Mary, said, \"O Children of Israel, indeed I am the messenger of Allāh to you confirming what came before me of the Torah and bringing good tidings of a messenger to come after me, whose name is Aḥmad.\" But when he came to them with clear evidences, they said, \"This is obvious magic.\""
+          }
+        ]
+      },
+      {
+        "name": "أَعْدَادٌ فِي الْقُرْآنِ",
+        "nameEn": "Cardinal Numbers in the Quran",
+        "color": "green",
+        "items": [
+          {
+            "ar": "خَمْسَةِ",
+            "en": "with five",
+            "ref": "3:125",
+            "verse": "بَلَىٰٓ ۚ إِن تَصْبِرُوا۟ وَتَتَّقُوا۟ وَيَأْتُوكُم مِّن فَوْرِهِمْ هَـٰذَا يُمْدِدْكُمْ رَبُّكُم بِخَمْسَةِ ءَالَـٰفٍۢ مِّنَ ٱلْمَلَـٰٓئِكَةِ مُسَوِّمِينَ",
+            "verseEn": "Yes, if you remain patient and conscious of Allāh and they [i.e., the enemy] come upon you [attacking] in rage, your Lord will reinforce you with five thousand angels having marks [of distinction].\""
+          },
+          {
+            "ar": "ثَمَانِيَ",
+            "en": "(for) eight",
+            "ref": "28:27",
+            "verse": "قَالَ إِنِّىٓ أُرِيدُ أَنْ أُنكِحَكَ إِحْدَى ٱبْنَتَىَّ هَـٰتَيْنِ عَلَىٰٓ أَن تَأْجُرَنِى ثَمَـٰنِىَ حِجَجٍۢ ۖ فَإِنْ أَتْمَمْتَ عَشْرًۭا فَمِنْ عِندِكَ ۖ وَمَآ أُرِيدُ أَنْ أَشُقَّ عَلَيْكَ ۚ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّـٰلِحِينَ",
+            "verseEn": "He said, \"Indeed, I wish to wed you one of these, my two daughters, on [the condition] that you serve me for eight years; but if you complete ten, it will be [as a favor] from you. And I do not wish to put you in difficulty. You will find me, if Allāh wills, from among the righteous.\""
+          },
+          {
+            "ar": "تِسْعَةُ",
+            "en": "nine",
+            "ref": "27:48",
+            "verse": "وَكَانَ فِى ٱلْمَدِينَةِ تِسْعَةُ رَهْطٍۢ يُفْسِدُونَ فِى ٱلْأَرْضِ وَلَا يُصْلِحُونَ",
+            "verseEn": "And there were in the city nine family heads causing corruption in the land and not amending [its affairs]."
+          },
+          {
+            "ar": "عَشْرًا",
+            "en": "and ten (days)",
+            "ref": "2:234",
+            "verse": "وَٱلَّذِينَ يُتَوَفَّوْنَ مِنكُمْ وَيَذَرُونَ أَزْوَٰجًۭا يَتَرَبَّصْنَ بِأَنفُسِهِنَّ أَرْبَعَةَ أَشْهُرٍۢ وَعَشْرًۭا ۖ فَإِذَا بَلَغْنَ أَجَلَهُنَّ فَلَا جُنَاحَ عَلَيْكُمْ فِيمَا فَعَلْنَ فِىٓ أَنفُسِهِنَّ بِٱلْمَعْرُوفِ ۗ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌۭ",
+            "verseEn": "And those who are taken in death among you and leave wives behind - they, [the wives, shall] wait four months and ten [days]. And when they have fulfilled their term, then there is no blame upon you for what they do with themselves in an acceptable manner. And Allāh is [fully] Aware of what you do."
+          }
+        ]
+      },
+      {
+        "name": "أَلْفَاظُ الْمَآبِ وَالرُّجُوعِ فِي الْقُرْآنِ",
+        "nameEn": "Quranic Terms for the Final Return",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "مَلْجَأً",
+            "en": "a refuge",
+            "ref": "9:57",
+            "verse": "لَوْ يَجِدُونَ مَلْجَـًٔا أَوْ مَغَـٰرَٰتٍ أَوْ مُدَّخَلًۭا لَّوَلَّوْا۟ إِلَيْهِ وَهُمْ يَجْمَحُونَ",
+            "verseEn": "If they could find a refuge or some caves or any place to enter [and hide], they would turn to it while they run heedlessly."
+          },
+          {
+            "ar": "مَآبٍ",
+            "en": "place of return",
+            "ref": "38:25",
+            "verse": "فَغَفَرْنَا لَهُۥ ذَٰلِكَ ۖ وَإِنَّ لَهُۥ عِندَنَا لَزُلْفَىٰ وَحُسْنَ مَـَٔابٍۢ",
+            "verseEn": "So We forgave him that; and indeed, for him is nearness to Us and a good place of return."
+          },
+          {
+            "ar": "الْمَصِيرُ",
+            "en": "(is) the destination",
+            "ref": "35:18",
+            "verse": "وَلَا تَزِرُ وَازِرَةٌۭ وِزْرَ أُخْرَىٰ ۚ وَإِن تَدْعُ مُثْقَلَةٌ إِلَىٰ حِمْلِهَا لَا يُحْمَلْ مِنْهُ شَىْءٌۭ وَلَوْ كَانَ ذَا قُرْبَىٰٓ ۗ إِنَّمَا تُنذِرُ ٱلَّذِينَ يَخْشَوْنَ رَبَّهُم بِٱلْغَيْبِ وَأَقَامُوا۟ ٱلصَّلَوٰةَ ۚ وَمَن تَزَكَّىٰ فَإِنَّمَا يَتَزَكَّىٰ لِنَفْسِهِۦ ۚ وَإِلَى ٱللَّهِ ٱلْمَصِيرُ",
+            "verseEn": "And no bearer of burdens will bear the burden of another. And if a heavily laden soul calls [another] to [carry some of] its load, nothing of it will be carried, even if he should be a close relative. You can only warn those who fear their Lord unseen and have established prayer. And whoever purifies himself only purifies himself for [the benefit of] his soul. And to Allāh is the [final] destination."
+          },
+          {
+            "ar": "مُنقَلَبٍ",
+            "en": "return",
+            "ref": "26:227",
+            "verse": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَذَكَرُوا۟ ٱللَّهَ كَثِيرًۭا وَٱنتَصَرُوا۟ مِنۢ بَعْدِ مَا ظُلِمُوا۟ ۗ وَسَيَعْلَمُ ٱلَّذِينَ ظَلَمُوٓا۟ أَىَّ مُنقَلَبٍۢ يَنقَلِبُونَ",
+            "verseEn": "Except those [poets] who believe and do righteous deeds and remember Allāh often and defend [the Muslims] after they were wronged. And those who have wronged are going to know to what [kind of] return they will be returned."
+          }
+        ]
+      },
+      {
+        "name": "أسماء مثنى في القرآن",
+        "nameEn": "Dual Nouns Denoting Pairs in the Quran",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "الْجَنَّتَيْنِ",
+            "en": "(of) the two gardens",
+            "ref": "18:33",
+            "verse": "كِلْتَا ٱلْجَنَّتَيْنِ ءَاتَتْ أُكُلَهَا وَلَمْ تَظْلِم مِّنْهُ شَيْـًۭٔا ۚ وَفَجَّرْنَا خِلَـٰلَهُمَا نَهَرًۭا",
+            "verseEn": "Each of the two gardens produced its fruit and did not fall short thereof in anything. And We caused to gush forth within them a river."
+          },
+          {
+            "ar": "خَصْمَانِ",
+            "en": "(We are) two litigants",
+            "ref": "38:22",
+            "verse": "إِذْ دَخَلُوا۟ عَلَىٰ دَاوُۥدَ فَفَزِعَ مِنْهُمْ ۖ قَالُوا۟ لَا تَخَفْ ۖ خَصْمَانِ بَغَىٰ بَعْضُنَا عَلَىٰ بَعْضٍۢ فَٱحْكُم بَيْنَنَا بِٱلْحَقِّ وَلَا تُشْطِطْ وَٱهْدِنَآ إِلَىٰ سَوَآءِ ٱلصِّرَٰطِ",
+            "verseEn": "When they entered upon David and he was alarmed by them? They said, \"Fear not. [We are] two adversaries, one of whom has wronged the other, so judge between us with truth and do not exceed [it] and guide us to the sound path."
+          },
+          {
+            "ar": "الثَّقَلَانِ",
+            "en": "two classes",
+            "ref": "55:31",
+            "verse": "سَنَفْرُغُ لَكُمْ أَيُّهَ ٱلثَّقَلَانِ",
+            "verseEn": "We will attend to you, O prominent beings."
+          },
+          {
+            "ar": "وَالِدَيْهِ",
+            "en": "goodness to his parents",
+            "ref": "29:8",
+            "verse": "وَوَصَّيْنَا ٱلْإِنسَـٰنَ بِوَٰلِدَيْهِ حُسْنًۭا ۖ وَإِن جَـٰهَدَاكَ لِتُشْرِكَ بِى مَا لَيْسَ لَكَ بِهِۦ عِلْمٌۭ فَلَا تُطِعْهُمَآ ۚ إِلَىَّ مَرْجِعُكُمْ فَأُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ",
+            "verseEn": "And We have enjoined upon man goodness to parents. But if they endeavor to make you associate with Me that of which you have no knowledge, do not obey them. To Me is your return, and I will inform you about what you used to do."
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "باطل",
+    "display": "بَاطِلٌ",
+    "hint": "Falsehood — the opposite of established truth in Islamic theology; what divine will renders void.",
+    "verseRef": "8:8",
+    "arabicVerse": "لِيُحِقَّ ٱلْحَقَّ وَيُبْطِلَ ٱلْبَـٰطِلَ وَلَوْ كَرِهَ ٱلْمُجْرِمُونَ",
+    "verse": "8:8 - That He should establish the truth and abolish falsehood, even if the criminals disliked it."
+  },
+  "deduction": {
+    "title": "The Voice of Defiance",
+    "intro": "Long before the first human walked the earth, a being of immense power stood in a realm of perfect peace, surrounded by the most devoted of souls. When a single command was given, every voice bowed in submission—but one voice rose in defiance, and that defiance would echo through every age until the final Day. Who is this fallen being?",
+    "clues": [
+      "I was created from something that burned brightly, while others beside me were formed from what they walked upon.",
+      "I dwelt in a sacred place among devoted beings, until a single command turned everything upside down.",
+      "When the command came, every soul bowed save for me; my refusal was born of pride.",
+      "I was cast out from that sacred place, marked with a curse that would endure forever.",
+      "I begged for time until the Day of Resurrection, and it was granted. I vowed to approach every soul and lead them astray.",
+      "When the trumpet sounds, those who followed me will share my fate, joining me in a blazing fire where no helper can save them."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Iblis",
+          "Pharaoh (Fir'awn)",
+          "Namrud",
+          "Abu Lahab",
+          "Azar (the father of Ibrahim)"
+        ],
+        "answer": "Iblis"
+      },
+      "trial": {
+        "label": "The Defining Moment",
+        "options": [
+          "Refusing to prostrate before Adam",
+          "Usurping divinity over a great empire",
+          "Plotting to throw a righteous one into flames",
+          "Leading a people to worship a golden image",
+          "Drowning a great army in the sea"
+        ],
+        "answer": "Refusing to prostrate before Adam"
+      },
+      "location": {
+        "label": "The Sacred Place",
+        "options": [
+          "Jannah (Paradise)",
+          "A magnificent palace on the Nile",
+          "A tower of bricks reaching toward the sky",
+          "A golden calf fashioned from ornaments",
+          "A furnace of blazing fire"
+        ],
+        "answer": "Jannah (Paradise)"
+      },
+      "outcome": {
+        "label": "The Final Fate",
+        "options": [
+          "Cast out, with respite until a promised Day",
+          "Drowned with armies beneath the waves",
+          "Crushed by stones pelted from the sky",
+          "Torn apart by swarms of birds in flight",
+          "Consumed by a single mighty blast"
+        ],
+        "answer": "Cast out, with respite until a promised Day"
+      }
+    },
+    "verseRef": "17:62",
+    "arabic": "قَالَ أَرَءَيْتَكَ هَـٰذَا ٱلَّذِى كَرَّمْتَ عَلَىَّ لَئِنْ أَخَّرْتَنِ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ لَأَحْتَنِكَنَّ ذُرِّيَّتَهُۥٓ إِلَّا قَلِيلًۭا",
+    "verse": "[Iblees] said, \"Do You see this one whom You have honored above me? If You delay me [i.e., my death] until the Day of Resurrection, I will surely destroy his descendants, except for a few.\" (17:62)"
+  },
+  "scramble": {
+    "verseRef": "67:14",
+    "reference": "Surah Al-Mulk (67:14)",
+    "segments": [
+      "أَلَا يَعْلَمُ",
+      "مَنْ خَلَقَ",
+      "وَهُوَ",
+      "اللَّطِيفُ",
+      "الْخَبِيرُ"
+    ],
+    "translations": [
+      "Does not know",
+      "(the One) Who created",
+      "And He",
+      "(is) the Subtle",
+      "the All-Aware"
+    ],
+    "hint": "A rhetorical question affirming Allah's perfect knowledge — the Creator who knows all things is also the Subtle and All-Aware",
+    "arabic": "أَلَا يَعْلَمُ مَنْ خَلَقَ وَهُوَ ٱللَّطِيفُ ٱلْخَبِيرُ",
+    "words": [
+      "أَلَا يَعْلَمُ",
+      "مَنْ خَلَقَ",
+      "وَهُوَ",
+      "ٱللَّطِيفُ",
+      "ٱلْخَبِيرُ"
+    ],
+    "verseEn": "Does He who created not know, while He is the Subtle, the Aware?"
+  }
+}

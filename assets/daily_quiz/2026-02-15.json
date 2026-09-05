@@ -1,0 +1,260 @@
+{
+  "wordle": {
+    "word": "بصر",
+    "display": "بَصَر",
+    "hint": "What allows you to see the wonders of creation?",
+    "verseRef": "51:21",
+    "arabicVerse": "وَفِىٓ أَنفُسِكُمْ ۚ أَفَلَا تُبْصِرُونَ",
+    "verse": "51:21 — And in yourselves. Then will you not see?"
+  },
+  "deduction": {
+    "title": "The Voice of Steadfastness",
+    "intro": "This individual is remembered for profound wisdom and guidance, offering counsel that transcends generations. Their words are a testament to piety and the importance of recognizing the blessings and trials from the Divine. Uncover the identity of this revered soul.",
+    "clues": [
+      "I was not a prophet, but my wisdom is immortalized in the Divine Scripture.",
+      "My counsel to my child emphasized gratitude to Allah and avoiding shirk.",
+      "I taught about the importance of prayer, enjoining good, and forbidding evil.",
+      "I warned against arrogance and walking with insolence on the earth.",
+      "My name is given to an entire chapter in the Quran, highlighting my teachings.",
+      "My advice included patience in adversity, for indeed, that is from the most resolute of affairs."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Prophet Idris",
+          "Prophet Yahya",
+          "Luqman",
+          "Imran",
+          "Prophet Hud"
+        ],
+        "answer": "Luqman"
+      },
+      "trial": {
+        "label": "Key Teaching/Guidance",
+        "options": [
+          "Building an ark",
+          "Facing a mighty army",
+          "Dispensing wisdom and moral advice",
+          "Interpreting dreams",
+          "Leading a nation to victory"
+        ],
+        "answer": "Dispensing wisdom and moral advice"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "A burning bush",
+          "A large fish",
+          "A specific mountain",
+          "A wise counsel to an offspring",
+          "A grand palace"
+        ],
+        "answer": "A wise counsel to an offspring"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "Became a king",
+          "Was granted prophethood",
+          "His wisdom was recorded in the Quran",
+          "Led his people to a new land",
+          "Was given immense wealth"
+        ],
+        "answer": "His wisdom was recorded in the Quran"
+      }
+    },
+    "verseRef": "31:12",
+    "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+    "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+  },
+  "scramble": {
+    "verseRef": "20:55",
+    "reference": "Surah Taha (20:55)",
+    "segments": [
+      "مِنْهَا خَلَقْنَاكُمْ",
+      "وَفِيهَا نُعِيدُكُمْ",
+      "وَمِنْهَا نُخْرِجُكُمْ",
+      "تَارَةً أُخْرَىٰ"
+    ],
+    "translations": [
+      "From it We created you",
+      "and in it We will return you",
+      "and from it We will bring you out",
+      "time another"
+    ],
+    "hint": "This verse speaks about the origin, destiny, and resurrection of humanity in relation to the earth.",
+    "arabic": "۞ مِنْهَا خَلَقْنَـٰكُمْ وَفِيهَا نُعِيدُكُمْ وَمِنْهَا نُخْرِجُكُمْ تَارَةً أُخْرَىٰ",
+    "words": [
+      "۞ مِنْهَا خَلَقْنَـٰكُمْ",
+      "وَفِيهَا نُعِيدُكُمْ",
+      "وَمِنْهَا نُخْرِجُكُمْ",
+      "تَارَةً أُخْرَىٰ"
+    ],
+    "verseEn": "From it [i.e., the earth] We created you, and into it We will return you, and from it We will extract you another time."
+  },
+  "connections": {
+    "categories": [
+      {
+        "name": "أَلْوَانٌ مَذْكُورَةٌ فِي الْقُرْآنِ",
+        "nameEn": "Colors Mentioned in the Quran",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "بَيْضٌ",
+            "en": "white",
+            "ref": "37:49",
+            "verse": "كَأَنَّهُنَّ بَيْضٌۭ مَّكْنُونٌۭ",
+            "verseEn": "As if they were [delicate] eggs, well-protected."
+          },
+          {
+            "ar": "صُفْرٌ",
+            "en": "yellow",
+            "ref": "77:33",
+            "verse": "كَأَنَّهُۥ جِمَـٰلَتٌۭ صُفْرٌۭ",
+            "verseEn": "As if they were yellowish [black] camels."
+          },
+          {
+            "ar": "سُودٌ",
+            "en": "black",
+            "ref": "3:106",
+            "verse": "يَوْمَ تَبْيَضُّ وُجُوهٌۭ وَتَسْوَدُّ وُجُوهٌۭ ۚ فَأَمَّا ٱلَّذِينَ ٱسْوَدَّتْ وُجُوهُهُمْ أَكَفَرْتُم بَعْدَ إِيمَـٰنِكُمْ فَذُوقُوا۟ ٱلْعَذَابَ بِمَا كُنتُمْ تَكْفُرُونَ",
+            "verseEn": "On the Day [some] faces will turn white and [some] faces will turn black. As for those whose faces turn black, [to them it will be said], \"Did you disbelieve [i.e., reject faith] after your belief? Then taste the punishment for what you used to reject.\""
+          },
+          {
+            "ar": "خُضْرٌ",
+            "en": "green",
+            "ref": "18:31",
+            "verse": "أُو۟لَـٰٓئِكَ لَهُمْ جَنَّـٰتُ عَدْنٍۢ تَجْرِى مِن تَحْتِهِمُ ٱلْأَنْهَـٰرُ يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِن ذَهَبٍۢ وَيَلْبَسُونَ ثِيَابًا خُضْرًۭا مِّن سُندُسٍۢ وَإِسْتَبْرَقٍۢ مُّتَّكِـِٔينَ فِيهَا عَلَى ٱلْأَرَآئِكِ ۚ نِعْمَ ٱلثَّوَابُ وَحَسُنَتْ مُرْتَفَقًۭا",
+            "verseEn": "Those will have gardens of perpetual residence; beneath them rivers will flow. They will be adorned therein with bracelets of gold and will wear green garments of fine silk and brocade, reclining therein on adorned couches. Excellent is the reward, and good is the resting place."
+          }
+        ],
+        "verse": {
+          "ref": "35:27",
+          "en": "Do you not see that Allāh sends down rain from the sky, and We produce thereby fruits of varying colors? And in the mountains are tracts, white and red of varying shades and [some] extremely black.",
+          "ayah": "أَلَمْ تَرَ أَنَّ ٱللَّهَ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءًۭ فَأَخْرَجْنَا بِهِۦ ثَمَرَٰتٍۢ مُّخْتَلِفًا أَلْوَٰنُهَا ۚ وَمِنَ ٱلْجِبَالِ جُدَدٌۢ بِيضٌۭ وَحُمْرٌۭ مُّخْتَلِفٌ أَلْوَٰنُهَا وَغَرَابِيبُ سُودٌۭ"
+        }
+      },
+      {
+        "name": "مَظَاهِرُ الْقُوَّةِ الإِلَهِيَّةِ",
+        "nameEn": "Manifestations of Divine Power",
+        "items": [
+          {
+            "ar": "جَبَّارٍ",
+            "en": "Compeller",
+            "ref": "59:23",
+            "verse": "هُوَ ٱللَّهُ ٱلَّذِى لَآ إِلَـٰهَ إِلَّا هُوَ ٱلْمَلِكُ ٱلْقُدُّوسُ ٱلسَّلَـٰمُ ٱلْمُؤْمِنُ ٱلْمُهَيْمِنُ ٱلْعَزِيزُ ٱلْجَبَّارُ ٱلْمُتَكَبِّرُ ۚ سُبْحَـٰنَ ٱللَّهِ عَمَّا يُشْرِكُونَ",
+            "verseEn": "He is Allāh, other than whom there is no deity, the Sovereign, the Pure, the Perfection, the Grantor of Security, the Overseer, the Exalted in Might, the Compeller, the Superior. Exalted is Allāh above whatever they associate with Him."
+          },
+          {
+            "ar": "الْقَوِيُّ",
+            "en": "The All-Strong",
+            "ref": "42:19",
+            "verse": "ٱللَّهُ لَطِيفٌۢ بِعِبَادِهِۦ يَرْزُقُ مَن يَشَآءُ ۖ وَهُوَ ٱلْقَوِىُّ ٱلْعَزِيزُ",
+            "verseEn": "Allāh is Subtle with His servants; He gives provision to whom He wills. And He is the Powerful, the Exalted in Might."
+          },
+          {
+            "ar": "الْقَاهِرُ",
+            "en": "The Irresistible",
+            "ref": "6:18",
+            "verse": "وَهُوَ ٱلْقَاهِرُ فَوْقَ عِبَادِهِۦ ۚ وَهُوَ ٱلْحَكِيمُ ٱلْخَبِيرُ",
+            "verseEn": "And He is the subjugator over His servants. And He is the Wise, the Aware."
+          },
+          {
+            "ar": "الْمُقْتَدِرُ",
+            "en": "The Omnipotent",
+            "ref": "54:42",
+            "verse": "كَذَّبُوا۟ بِـَٔايَـٰتِنَا كُلِّهَا فَأَخَذْنَـٰهُمْ أَخْذَ عَزِيزٍۢ مُّقْتَدِرٍ",
+            "verseEn": "They denied Our signs, all of them, so We seized them with a seizure of one Exalted in Might and Perfect in Ability."
+          }
+        ],
+        "verse": {
+          "ref": "51:58",
+          "ayah": "إِنَّ ٱللَّهَ هُوَ ٱلرَّزَّاقُ ذُو ٱلْقُوَّةِ ٱلْمَتِينُ",
+          "en": "Indeed, it is Allāh who is the [continual] Provider, the firm possessor of strength."
+        },
+        "color": "green"
+      },
+      {
+        "name": "مَظَاهِرُ الْغَيْبِ",
+        "nameEn": "Aspects of the Unseen",
+        "items": [
+          {
+            "ar": "الْجِنَّ",
+            "en": "the jinn",
+            "ref": "72:13",
+            "verse": "وَأَنَّا لَمَّا سَمِعْنَا ٱلْهُدَىٰٓ ءَامَنَّا بِهِۦ ۖ فَمَن يُؤْمِنۢ بِرَبِّهِۦ فَلَا يَخَافُ بَخْسًۭا وَلَا رَهَقًۭا",
+            "verseEn": "And when we heard the guidance [i.e., the Qur’ān], we believed in it. And whoever believes in his Lord will not fear deprivation or burden."
+          },
+          {
+            "ar": "مَلَائِكَةً",
+            "en": "angels",
+            "ref": "43:53",
+            "verse": "فَلَوْلَآ أُلْقِىَ عَلَيْهِ أَسْوِرَةٌۭ مِّن ذَهَبٍ أَوْ جَآءَ مَعَهُ ٱلْمَلَـٰٓئِكَةُ مُقْتَرِنِينَ",
+            "verseEn": "Then why have there not been placed upon him bracelets of gold or come with him the angels in conjunction?\""
+          },
+          {
+            "ar": "رُوحًا",
+            "en": "a spirit",
+            "ref": "40:15",
+            "verse": "رَفِيعُ ٱلدَّرَجَـٰتِ ذُو ٱلْعَرْشِ يُلْقِى ٱلرُّوحَ مِنْ أَمْرِهِۦ عَلَىٰ مَن يَشَآءُ مِنْ عِبَادِهِۦ لِيُنذِرَ يَوْمَ ٱلتَّلَاقِ",
+            "verseEn": "[He is] the Exalted above [all] degrees, Owner of the Throne; He places the inspiration of His command [i.e., revelation] upon whom He wills of His servants to warn of the Day of Meeting."
+          },
+          {
+            "ar": "الْغَيْبِ",
+            "en": "the Unseen",
+            "ref": "59:22",
+            "verse": "هُوَ ٱللَّهُ ٱلَّذِى لَآ إِلَـٰهَ إِلَّا هُوَ ۖ عَـٰلِمُ ٱلْغَيْبِ وَٱلشَّهَـٰدَةِ ۖ هُوَ ٱلرَّحْمَـٰنُ ٱلرَّحِيمُ",
+            "verseEn": "He is Allāh, other than whom there is no deity, Knower of the unseen and the witnessed. He is the Entirely Merciful, the Especially Merciful."
+          }
+        ],
+        "verse": {
+          "ref": "6:59",
+          "ayah": "۞ وَعِندَهُۥ مَفَاتِحُ ٱلْغَيْبِ لَا يَعْلَمُهَآ إِلَّا هُوَ ۚ وَيَعْلَمُ مَا فِى ٱلْبَرِّ وَٱلْبَحْرِ ۚ وَمَا تَسْقُطُ مِن وَرَقَةٍ إِلَّا يَعْلَمُهَا وَلَا حَبَّةٍۢ فِى ظُلُمَـٰتِ ٱلْأَرْضِ وَلَا رَطْبٍۢ وَلَا يَابِسٍ إِلَّا فِى كِتَـٰبٍۢ مُّبِينٍۢ",
+          "en": "And with Him are the keys of the unseen; none knows them except Him. And He knows what is on the land and in the sea. Not a leaf falls but that He knows it. And no grain is there within the darknesses of the earth and no moist or dry [thing] but that it is [written] in a clear record."
+        },
+        "color": "blue"
+      },
+      {
+        "name": "أَنْوَاعُ الْخَلْقِ وَالتَّكْوِينِ",
+        "nameEn": "Modes of Creation and Formation",
+        "items": [
+          {
+            "ar": "تَخْلُقُونَ",
+            "en": "you create",
+            "ref": "29:17",
+            "verse": "إِنَّمَا تَعْبُدُونَ مِن دُونِ ٱللَّهِ أَوْثَـٰنًۭا وَتَخْلُقُونَ إِفْكًا ۚ إِنَّ ٱلَّذِينَ تَعْبُدُونَ مِن دُونِ ٱللَّهِ لَا يَمْلِكُونَ لَكُمْ رِزْقًۭا فَٱبْتَغُوا۟ عِندَ ٱللَّهِ ٱلرِّزْقَ وَٱعْبُدُوهُ وَٱشْكُرُوا۟ لَهُۥٓ ۖ إِلَيْهِ تُرْجَعُونَ",
+            "verseEn": "You only worship, besides Allāh, idols, and you produce a falsehood. Indeed, those you worship besides Allāh do not possess for you [the power of] provision. So seek from Allāh provision and worship Him and be grateful to Him. To Him you will be returned.\""
+          },
+          {
+            "ar": "فَطَرَكُمْ",
+            "en": "He originated you",
+            "ref": "36:22",
+            "verse": "وَمَا لِىَ لَآ أَعْبُدُ ٱلَّذِى فَطَرَنِى وَإِلَيْهِ تُرْجَعُونَ",
+            "verseEn": "And why should I not worship He who created me and to whom you will be returned?"
+          },
+          {
+            "ar": "يُكَوِّرُ",
+            "en": "He wraps",
+            "ref": "39:5",
+            "verse": "خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ ۖ يُكَوِّرُ ٱلَّيْلَ عَلَى ٱلنَّهَارِ وَيُكَوِّرُ ٱلنَّهَارَ عَلَى ٱلَّيْلِ ۖ وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ ۖ كُلٌّۭ يَجْرِى لِأَجَلٍۢ مُّسَمًّى ۗ أَلَا هُوَ ٱلْعَزِيزُ ٱلْغَفَّـٰرُ",
+            "verseEn": "He created the heavens and earth in truth. He wraps the night over the day and wraps the day over the night and has subjected the sun and the moon, each running [its course] for a specified term. Unquestionably, He is the Exalted in Might, the Perpetual Forgiver."
+          },
+          {
+            "ar": "صَنَعَ",
+            "en": "He made",
+            "ref": "21:80",
+            "verse": "وَعَلَّمْنَـٰهُ صَنْعَةَ لَبُوسٍۢ لَّكُمْ لِتُحْصِنَكُم مِّنۢ بَأْسِكُمْ ۖ فَهَلْ أَنتُمْ شَـٰكِرُونَ",
+            "verseEn": "And We taught him the fashioning of coats of armor to protect you from your [enemy in] battle. So will you then be grateful?"
+          }
+        ],
+        "verse": {
+          "ref": "6:95",
+          "ayah": "۞ إِنَّ ٱللَّهَ فَالِقُ ٱلْحَبِّ وَٱلنَّوَىٰ ۖ يُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ وَمُخْرِجُ ٱلْمَيِّتِ مِنَ ٱلْحَىِّ ۚ ذَٰلِكُمُ ٱللَّهُ ۖ فَأَنَّىٰ تُؤْفَكُونَ",
+          "en": "Indeed, Allāh is the cleaver of grain and date seeds. He brings the living out of the dead and brings the dead out of the living. That is Allāh; so how are you deluded?"
+        },
+        "color": "purple"
+      }
+    ]
+  }
+}

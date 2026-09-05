@@ -1,0 +1,246 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَسْمَاءُ اللهِ فِي الْقُرْآنِ",
+        "nameEn": "Names of God in the Quran",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "اللَّهِ",
+            "en": "(of) Allah",
+            "ref": "1:1",
+            "verse": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+            "verseEn": "In the name of Allāh, the Entirely Merciful, the Especially Merciful."
+          },
+          {
+            "ar": "رَبِّ",
+            "en": "Lord",
+            "ref": "108:2",
+            "verse": "فَصَلِّ لِرَبِّكَ وَٱنْحَرْ",
+            "verseEn": "So pray to your Lord and offer sacrifice [to Him alone]."
+          },
+          {
+            "ar": "مَلِكِ",
+            "en": "(The) King",
+            "ref": "114:2",
+            "verse": "مَلِكِ ٱلنَّاسِ",
+            "verseEn": "The Sovereign of mankind,"
+          },
+          {
+            "ar": "إِلَهِ",
+            "en": "(The) God",
+            "ref": "114:3",
+            "verse": "إِلَـٰهِ ٱلنَّاسِ",
+            "verseEn": "The God of mankind,"
+          }
+        ]
+      },
+      {
+        "name": "مَوَازِينُ وَمَكَايِيلُ فِي الْقُرْآنِ",
+        "nameEn": "Quranic Terms for Weights and Measures",
+        "color": "green",
+        "items": [
+          {
+            "ar": "الْمِيزَانَ",
+            "en": "the balance",
+            "ref": "55:9",
+            "verse": "وَأَقِيمُوا۟ ٱلْوَزْنَ بِٱلْقِسْطِ وَلَا تُخْسِرُوا۟ ٱلْمِيزَانَ",
+            "verseEn": "And establish weight in justice and do not make deficient the balance."
+          },
+          {
+            "ar": "مِثْقَالَ",
+            "en": "(equal to the) weight",
+            "ref": "99:8",
+            "verse": "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍۢ شَرًّۭا يَرَهُۥ",
+            "verseEn": "And whoever does an atom's weight of evil will see it."
+          },
+          {
+            "ar": "قِنْطَارٍ",
+            "en": "with a great amount of wealth",
+            "ref": "3:75",
+            "verse": "۞ وَمِنْ أَهْلِ ٱلْكِتَـٰبِ مَنْ إِن تَأْمَنْهُ بِقِنطَارٍۢ يُؤَدِّهِۦٓ إِلَيْكَ وَمِنْهُم مَّنْ إِن تَأْمَنْهُ بِدِينَارٍۢ لَّا يُؤَدِّهِۦٓ إِلَيْكَ إِلَّا مَا دُمْتَ عَلَيْهِ قَآئِمًۭا ۗ ذَٰلِكَ بِأَنَّهُمْ قَالُوا۟ لَيْسَ عَلَيْنَا فِى ٱلْأُمِّيِّـۧنَ سَبِيلٌۭ وَيَقُولُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ وَهُمْ يَعْلَمُونَ",
+            "verseEn": "And among the People of the Scripture is he who, if you entrust him with a great amount [of wealth], he will return it to you. And among them is he who, if you entrust him with a [single] coin, he will not return it to you unless you are constantly standing over him [demanding it]. That is because they say, \"There is no blame upon us concerning the unlearned.\" And they speak untruth about Allāh while they know [it]."
+          },
+          {
+            "ar": "الْقِسْطَاسِ",
+            "en": "with a balance",
+            "ref": "26:182",
+            "verse": "وَزِنُوا۟ بِٱلْقِسْطَاسِ ٱلْمُسْتَقِيمِ",
+            "verseEn": "And weigh with an even [i.e., honest] balance."
+          }
+        ]
+      },
+      {
+        "name": "مَنَافِعُ الْأَنْعَامِ فِي سُورَةِ النَّحْلِ",
+        "nameEn": "Benefits of Livestock in Surah An-Nahl",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "دِفْءٌ",
+            "en": "(is) warmth",
+            "ref": "16:5",
+            "verse": "وَٱلْأَنْعَـٰمَ خَلَقَهَا ۗ لَكُمْ فِيهَا دِفْءٌۭ وَمَنَـٰفِعُ وَمِنْهَا تَأْكُلُونَ",
+            "verseEn": "And the grazing livestock He has created for you; in them is warmth and [numerous] benefits, and from them you eat."
+          },
+          {
+            "ar": "جَمَالٌ",
+            "en": "(is) beauty",
+            "ref": "16:6",
+            "verse": "وَلَكُمْ فِيهَا جَمَالٌ حِينَ تُرِيحُونَ وَحِينَ تَسْرَحُونَ",
+            "verseEn": "And for you in them is [the enjoyment of] beauty when you bring them in [for the evening] and when you send them out [to pasture]."
+          },
+          {
+            "ar": "تَحْمِلُ",
+            "en": "And they carry",
+            "ref": "16:7",
+            "verse": "وَتَحْمِلُ أَثْقَالَكُمْ إِلَىٰ بَلَدٍۢ لَّمْ تَكُونُوا۟ بَـٰلِغِيهِ إِلَّا بِشِقِّ ٱلْأَنفُسِ ۚ إِنَّ رَبَّكُمْ لَرَءُوفٌۭ رَّحِيمٌۭ",
+            "verseEn": "And they carry your loads to a land you could not have reached except with difficulty to yourselves. Indeed, your Lord is Kind and Merciful."
+          },
+          {
+            "ar": "أَصْوَافِهَا",
+            "en": "their wool",
+            "ref": "16:80",
+            "verse": "وَٱللَّهُ جَعَلَ لَكُم مِّنۢ بُيُوتِكُمْ سَكَنًۭا وَجَعَلَ لَكُم مِّن جُلُودِ ٱلْأَنْعَـٰمِ بُيُوتًۭا تَسْتَخِفُّونَهَا يَوْمَ ظَعْنِكُمْ وَيَوْمَ إِقَامَتِكُمْ ۙ وَمِنْ أَصْوَافِهَا وَأَوْبَارِهَا وَأَشْعَارِهَآ أَثَـٰثًۭا وَمَتَـٰعًا إِلَىٰ حِينٍۢ",
+            "verseEn": "And Allāh has made for you from your homes a place of rest and made for you from the hides of the animals tents which you find light on your day of travel and your day of encampment; and from their wool, fur and hair is furnishing and enjoyment [i.e., provision] for a time."
+          }
+        ]
+      },
+      {
+        "name": "مُصْطَلَحَاتُ الْغَيْبِ وَالْخَفَاءِ",
+        "nameEn": "Quranic Terms for the Unseen and Hidden",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "الْغَيْبِ",
+            "en": "(of) the unseen",
+            "ref": "6:73",
+            "verse": "وَهُوَ ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ ۖ وَيَوْمَ يَقُولُ كُن فَيَكُونُ ۚ قَوْلُهُ ٱلْحَقُّ ۚ وَلَهُ ٱلْمُلْكُ يَوْمَ يُنفَخُ فِى ٱلصُّورِ ۚ عَـٰلِمُ ٱلْغَيْبِ وَٱلشَّهَـٰدَةِ ۚ وَهُوَ ٱلْحَكِيمُ ٱلْخَبِيرُ",
+            "verseEn": "And it is He who created the heavens and earth in truth. And the day [i.e., whenever] He says, \"Be,\" and it is, His word is the truth. And His is the dominion [on] the Day the Horn is blown. [He is] Knower of the unseen and the witnessed; and He is the Wise, the Aware."
+          },
+          {
+            "ar": "سِرَّكُمْ",
+            "en": "your secret",
+            "ref": "6:3",
+            "verse": "وَهُوَ ٱللَّهُ فِى ٱلسَّمَـٰوَٰتِ وَفِى ٱلْأَرْضِ ۖ يَعْلَمُ سِرَّكُمْ وَجَهْرَكُمْ وَيَعْلَمُ مَا تَكْسِبُونَ",
+            "verseEn": "And He is Allāh, [the only deity] in the heavens and the earth. He knows your secret and what you make public, and He knows that which you earn."
+          },
+          {
+            "ar": "بَاطِنَةً",
+            "en": "and hidden",
+            "ref": "31:20",
+            "verse": "أَلَمْ تَرَوْا۟ أَنَّ ٱللَّهَ سَخَّرَ لَكُم مَّا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ وَأَسْبَغَ عَلَيْكُمْ نِعَمَهُۥ ظَـٰهِرَةًۭ وَبَاطِنَةًۭ ۗ وَمِنَ ٱلنَّاسِ مَن يُجَـٰدِلُ فِى ٱللَّهِ بِغَيْرِ عِلْمٍۢ وَلَا هُدًۭى وَلَا كِتَـٰبٍۢ مُّنِيرٍۢ",
+            "verseEn": "Do you not see that Allāh has made subject to you whatever is in the heavens and whatever is in the earth and amply bestowed upon you His favors, [both] apparent and unapparent? But of the people is he who disputes about Allāh without knowledge or guidance or an enlightening Book [from Him]."
+          },
+          {
+            "ar": "أَخْفَى",
+            "en": "and the more hidden",
+            "ref": "20:7",
+            "verse": "وَإِن تَجْهَرْ بِٱلْقَوْلِ فَإِنَّهُۥ يَعْلَمُ ٱلسِّرَّ وَأَخْفَى",
+            "verseEn": "And if you speak aloud - then indeed, He knows the secret and what is [even] more hidden."
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "خبيث",
+    "display": "خَبِيث",
+    "hint": "A Quranic adjective meaning morally foul or impure — paired as the antonym of tayyib (pure/good) in Surah An-Nur.",
+    "verseRef": "24:26",
+    "arabicVerse": "ٱلْخَبِيثَـٰتُ لِلْخَبِيثِينَ وَٱلْخَبِيثُونَ لِلْخَبِيثَـٰتِ ۖ وَٱلطَّيِّبَـٰتُ لِلطَّيِّبِينَ وَٱلطَّيِّبُونَ لِلطَّيِّبَـٰتِ ۚ أُو۟لَـٰٓئِكَ مُبَرَّءُونَ مِمَّا يَقُولُونَ ۖ لَهُم مَّغْفِرَةٌۭ وَرِزْقٌۭ كَرِيمٌۭ",
+    "verse": "24:26 - Evil words are for evil men, and evil men are [subjected] to evil words. And good words are for good men, and good men are [an object] of good words. Those [good people] are declared innocent of what they [i.e., slanderers] say. For them is forgiveness and noble provision."
+  },
+  "deduction": {
+    "title": "The Town That Believed in Time",
+    "intro": "In the annals of divine mercy, there is a community whose turning point was a moment of collective realization. You are about to uncover their story—a tale of warning, repentance, and a reprieve that set them apart from the fate of other nations.",
+    "clues": [
+      "We were a people to whom a messenger was sent, and we turned away from his call at first.",
+      "When the signs of impending punishment became clear, we realized the truth of his warning.",
+      "We turned to our Lord with sincere repentance, and our faith was accepted.",
+      "The punishment that had been decreed upon us was lifted because of our belief.",
+      "Our story is cited as an exception among the towns that believed after seeing the punishment.",
+      "We were the people of the prophet who was swallowed by the whale, yet we were saved from destruction."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "People of Yunus",
+          "People of Nuh",
+          "People of Hud",
+          "People of Salih",
+          "People of Lut"
+        ],
+        "answer": "People of Yunus"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "A devastating flood",
+          "A severe windstorm",
+          "An impending punishment of disgrace that was averted",
+          "The earth swallowing them",
+          "A rain of stones"
+        ],
+        "answer": "An impending punishment of disgrace that was averted"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "The ark",
+          "The she-camel",
+          "A city of a hundred thousand",
+          "The staff of Musa",
+          "The hoard of Qarun"
+        ],
+        "answer": "A city of a hundred thousand"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "They were destroyed completely",
+          "They were given enjoyment for a time",
+          "They were transformed into apes",
+          "They were drowned",
+          "They were swallowed by the earth"
+        ],
+        "answer": "They were given enjoyment for a time"
+      }
+    },
+    "verseRef": "37:148",
+    "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+    "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+  },
+  "scramble": {
+    "verseRef": "17:80",
+    "reference": "Surah Al-Isra (17:80)",
+    "segments": [
+      "وَقُل رَّبِّ",
+      "أَدْخِلْنِي مُدْخَلَ صِدْقٍ",
+      "وَأَخْرِجْنِي مُخْرَجَ صِدْقٍ",
+      "وَاجْعَل لِّي",
+      "مِن لَّدُنكَ",
+      "سُلْطَانًا نَّصِيرًا"
+    ],
+    "translations": [
+      "And say My Lord Cause me to enter",
+      "an entrance sound and cause me to exit",
+      "an exit sound",
+      "and make for me",
+      "from near You",
+      "an authority helping"
+    ],
+    "hint": "A prophetic supplication asking Allah for blessed beginnings and endings in life, and for divine authority and support — often recited by Muslims.",
+    "arabic": "وَقُل رَّبِّ أَدْخِلْنِى مُدْخَلَ صِدْقٍۢ وَأَخْرِجْنِى مُخْرَجَ صِدْقٍۢ وَٱجْعَل لِّى مِن لَّدُنكَ سُلْطَـٰنًۭا نَّصِيرًۭا",
+    "words": [
+      "وَقُل رَّبِّ أَدْخِلْنِى",
+      "مُدْخَلَ صِدْقٍۢ وَأَخْرِجْنِى",
+      "مُخْرَجَ صِدْقٍۢ",
+      "وَٱجْعَل لِّى",
+      "مِن لَّدُنكَ",
+      "سُلْطَـٰنًۭا نَّصِيرًۭا"
+    ],
+    "verseEn": "And say, \"My Lord, cause me to enter a sound entrance and to exit a sound exit and grant me from Yourself a supporting authority.\""
+  }
+}

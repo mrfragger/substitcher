@@ -1,0 +1,240 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "مَعَالِمٌ جُغْرَافِيَّةٌ فِي الْقُرْآنِ",
+        "nameEn": "Geographical Features in the Quran",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "الْبَحْرِ",
+            "en": "and the sea",
+            "ref": "17:70",
+            "verse": "۞ وَلَقَدْ كَرَّمْنَا بَنِىٓ ءَادَمَ وَحَمَلْنَـٰهُمْ فِى ٱلْبَرِّ وَٱلْبَحْرِ وَرَزَقْنَـٰهُم مِّنَ ٱلطَّيِّبَـٰتِ وَفَضَّلْنَـٰهُمْ عَلَىٰ كَثِيرٍۢ مِّمَّنْ خَلَقْنَا تَفْضِيلًۭا",
+            "verseEn": "And We have certainly honored the children of Adam and carried them on the land and sea and provided for them of the good things and preferred them over much of what We have created, with [definite] preference."
+          },
+          {
+            "ar": "الْبَرِّ",
+            "en": "(of) the land",
+            "ref": "27:63",
+            "verse": "أَمَّن يَهْدِيكُمْ فِى ظُلُمَـٰتِ ٱلْبَرِّ وَٱلْبَحْرِ وَمَن يُرْسِلُ ٱلرِّيَـٰحَ بُشْرًۢا بَيْنَ يَدَىْ رَحْمَتِهِۦٓ ۗ أَءِلَـٰهٌۭ مَّعَ ٱللَّهِ ۚ تَعَـٰلَى ٱللَّهُ عَمَّا يُشْرِكُونَ",
+            "verseEn": "Is He [not best] who guides you through the darknesses of the land and sea and who sends the winds as good tidings before His mercy? Is there a deity with Allāh? High is Allāh above whatever they associate with Him."
+          },
+          {
+            "ar": "الْجِبَالَ",
+            "en": "the mountains",
+            "ref": "18:47",
+            "verse": "وَيَوْمَ نُسَيِّرُ ٱلْجِبَالَ وَتَرَى ٱلْأَرْضَ بَارِزَةًۭ وَحَشَرْنَـٰهُمْ فَلَمْ نُغَادِرْ مِنْهُمْ أَحَدًۭا",
+            "verseEn": "And [warn of] the Day when We will remove the mountains and you will see the earth exposed, and We will gather them and not leave behind from them anyone."
+          },
+          {
+            "ar": "الْوَادِ",
+            "en": "in the valley",
+            "ref": "79:16",
+            "verse": "إِذْ نَادَىٰهُ رَبُّهُۥ بِٱلْوَادِ ٱلْمُقَدَّسِ طُوًى",
+            "verseEn": "When his Lord called to him in the sacred valley of Ṭuwā,"
+          }
+        ]
+      },
+      {
+        "name": "الْمَشَقَّاتُ وَالْأَثْقَالُ فِي الْقُرْآنِ",
+        "nameEn": "Hardships and Burdens in the Quran",
+        "color": "green",
+        "items": [
+          {
+            "ar": "أَثْقَالَ",
+            "en": "their burdens",
+            "ref": "29:13",
+            "verse": "وَلَيَحْمِلُنَّ أَثْقَالَهُمْ وَأَثْقَالًۭا مَّعَ أَثْقَالِهِمْ ۖ وَلَيُسْـَٔلُنَّ يَوْمَ ٱلْقِيَـٰمَةِ عَمَّا كَانُوا۟ يَفْتَرُونَ",
+            "verseEn": "But they will surely carry their [own] burdens and [other] burdens along with their burdens, and they will surely be questioned on the Day of Resurrection about what they used to invent."
+          },
+          {
+            "ar": "وِزْرَ",
+            "en": "burden",
+            "ref": "6:164",
+            "verse": "قُلْ أَغَيْرَ ٱللَّهِ أَبْغِى رَبًّۭا وَهُوَ رَبُّ كُلِّ شَىْءٍۢ ۚ وَلَا تَكْسِبُ كُلُّ نَفْسٍ إِلَّا عَلَيْهَا ۚ وَلَا تَزِرُ وَازِرَةٌۭ وِزْرَ أُخْرَىٰ ۚ ثُمَّ إِلَىٰ رَبِّكُم مَّرْجِعُكُمْ فَيُنَبِّئُكُم بِمَا كُنتُمْ فِيهِ تَخْتَلِفُونَ",
+            "verseEn": "Say, \"Is it other than Allāh I should desire as a lord while He is the Lord of all things? And every soul earns not [blame] except against itself, and no bearer of burdens will bear the burden of another. Then to your Lord is your return, and He will inform you concerning that over which you used to differ.\""
+          },
+          {
+            "ar": "كَبَدٍ",
+            "en": "hardship",
+            "ref": "90:4",
+            "verse": "لَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ فِى كَبَدٍ",
+            "verseEn": "We have certainly created man into hardship."
+          },
+          {
+            "ar": "نَصَبٌ",
+            "en": "any fatigue",
+            "ref": "35:35",
+            "verse": "ٱلَّذِىٓ أَحَلَّنَا دَارَ ٱلْمُقَامَةِ مِن فَضْلِهِۦ لَا يَمَسُّنَا فِيهَا نَصَبٌۭ وَلَا يَمَسُّنَا فِيهَا لُغُوبٌۭ",
+            "verseEn": "He who has settled us in the home of duration [i.e., Paradise] out of His bounty. There touches us not in it any fatigue, and there touches us not in it weariness [of mind].\""
+          }
+        ]
+      },
+      {
+        "name": "أَلْقَابُ النَّبِيِّ فِي الْقُرْآنِ",
+        "nameEn": "Titles of the Prophet in the Quran",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "شَهِيدًا",
+            "en": "(as) a witness",
+            "ref": "4:41",
+            "verse": "فَكَيْفَ إِذَا جِئْنَا مِن كُلِّ أُمَّةٍۭ بِشَهِيدٍۢ وَجِئْنَا بِكَ عَلَىٰ هَـٰٓؤُلَآءِ شَهِيدًۭا",
+            "verseEn": "So how [will it be] when We bring from every nation a witness and We bring you, [O Muḥammad], against these [people] as a witness?"
+          },
+          {
+            "ar": "بَشِيرٌ",
+            "en": "bearer of glad tidings",
+            "ref": "5:19",
+            "verse": "يَـٰٓأَهْلَ ٱلْكِتَـٰبِ قَدْ جَآءَكُمْ رَسُولُنَا يُبَيِّنُ لَكُمْ عَلَىٰ فَتْرَةٍۢ مِّنَ ٱلرُّسُلِ أَن تَقُولُوا۟ مَا جَآءَنَا مِنۢ بَشِيرٍۢ وَلَا نَذِيرٍۢ ۖ فَقَدْ جَآءَكُم بَشِيرٌۭ وَنَذِيرٌۭ ۗ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ",
+            "verseEn": "O People of the Scripture, there has come to you Our Messenger to make clear to you [the religion] after a period [of suspension] of messengers, lest you say, \"There came not to us any bringer of good tidings or a warner.\" But there has come to you a bringer of good tidings and a warner. And Allāh is over all things competent."
+          },
+          {
+            "ar": "نَذِيرٌ",
+            "en": "a warner",
+            "ref": "7:188",
+            "verse": "قُل لَّآ أَمْلِكُ لِنَفْسِى نَفْعًۭا وَلَا ضَرًّا إِلَّا مَا شَآءَ ٱللَّهُ ۚ وَلَوْ كُنتُ أَعْلَمُ ٱلْغَيْبَ لَٱسْتَكْثَرْتُ مِنَ ٱلْخَيْرِ وَمَا مَسَّنِىَ ٱلسُّوٓءُ ۚ إِنْ أَنَا۠ إِلَّا نَذِيرٌۭ وَبَشِيرٌۭ لِّقَوْمٍۢ يُؤْمِنُونَ",
+            "verseEn": "Say, \"I hold not for myself [the power of] benefit or harm, except what Allāh has willed. And if I knew the unseen, I could have acquired much wealth, and no harm would have touched me. I am not except a warner and a bringer of good tidings to a people who believe.\""
+          },
+          {
+            "ar": "دَاعِيَ",
+            "en": "(to the) caller",
+            "ref": "46:31",
+            "verse": "يَـٰقَوْمَنَآ أَجِيبُوا۟ دَاعِىَ ٱللَّهِ وَءَامِنُوا۟ بِهِۦ يَغْفِرْ لَكُم مِّن ذُنُوبِكُمْ وَيُجِرْكُم مِّنْ عَذَابٍ أَلِيمٍۢ",
+            "verseEn": "O our people, respond to the Caller [i.e., Messenger] of Allāh and believe in him; He [i.e., Allāh] will forgive for you your sins and protect you from a painful punishment."
+          }
+        ]
+      },
+      {
+        "name": "جَبَابِرَةُ الْقُرْآنِ",
+        "nameEn": "Tyrants in the Quran",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "فِرْعَوْنَ",
+            "en": "Firaun",
+            "ref": "20:43",
+            "verse": "ٱذْهَبَآ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+            "verseEn": "Go, both of you, to Pharaoh. Indeed, he has transgressed."
+          },
+          {
+            "ar": "هَامَانُ",
+            "en": "O Haman",
+            "ref": "40:36",
+            "verse": "وَقَالَ فِرْعَوْنُ يَـٰهَـٰمَـٰنُ ٱبْنِ لِى صَرْحًۭا لَّعَلِّىٓ أَبْلُغُ ٱلْأَسْبَـٰبَ",
+            "verseEn": "And Pharaoh said, \"O Hāmān, construct for me a tower that I might reach the ways -"
+          },
+          {
+            "ar": "قَارُونَ",
+            "en": "and Qarun",
+            "ref": "40:24",
+            "verse": "إِلَىٰ فِرْعَوْنَ وَهَـٰمَـٰنَ وَقَـٰرُونَ فَقَالُوا۟ سَـٰحِرٌۭ كَذَّابٌۭ",
+            "verseEn": "To Pharaoh, Hāmān and Qārūn, but they said, \"[He is] a magician and a liar.\""
+          },
+          {
+            "ar": "جَالُوتَ",
+            "en": "to (face) Jalut",
+            "ref": "2:250",
+            "verse": "وَلَمَّا بَرَزُوا۟ لِجَالُوتَ وَجُنُودِهِۦ قَالُوا۟ رَبَّنَآ أَفْرِغْ عَلَيْنَا صَبْرًۭا وَثَبِّتْ أَقْدَامَنَا وَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَـٰفِرِينَ",
+            "verseEn": "And when they went forth to [face] Goliath and his soldiers, they said, \"Our Lord, pour upon us patience and plant firmly our feet and give us victory over the disbelieving people.\""
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "مطر",
+    "display": "مَطَر",
+    "hint": "It can bring life or destruction, sent from above",
+    "verseRef": "27:58",
+    "arabicVerse": "وَأَمْطَرْنَا عَلَيْهِم مَّطَرًۭا ۖ فَسَآءَ مَطَرُ ٱلْمُنذَرِينَ",
+    "verse": "27:58 - And We rained upon them a rain [of stones], and evil was the rain of those who were warned."
+  },
+  "deduction": {
+    "title": "The Faith Behind the Throne",
+    "intro": "Some souls are tested not by fire or flood, but by the slow pressure of living inside a tyrant's palace. This figure stood beside a ruler who claimed divinity over their people, yet secretly clung to faith in the One True God. When their devotion was discovered, suffering came — but so did a divine promise. Can you guess who this is?",
+    "clues": [
+      "I lived under the roof of the most powerful ruler of my land, in a position few could ever imagine.",
+      "My spouse stood before the people and declared himself a god — but my heart belonged to the One True Lord.",
+      "I whispered prayers in secret, fearing the punishment that came to all who defied my spouse.",
+      "When my faith was exposed, I was seized and tortured — yet my tongue never uttered a word of disbelief.",
+      "I poured out my heart to my Lord, asking for a house in Paradise, far from all wrongdoing.",
+      "I am Asiya bint Muzahim — the wife of the Pharaoh who opposed Musa and Harun."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Asiya bint Muzahim (Wife of Pharaoh)",
+          "Hawwa (Eve), the first woman",
+          "Sarah, the first wife of Ibrahim",
+          "Hagar, the mother of Isma'il",
+          "The mother of Maryam (wife of Imran)"
+        ],
+        "answer": "Asiya bint Muzahim (Wife of Pharaoh)"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "Enduring torture for refusing to renounce faith",
+          "Surviving inside the belly of a great fish",
+          "Building a massive ark to escape a flood",
+          "Being cast into a blazing fire",
+          "Witnessing the parting of a great sea"
+        ],
+        "answer": "Enduring torture for refusing to renounce faith"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "A house built for them in Paradise",
+          "A staff that transformed into a serpent",
+          "An ark carrying pairs of every creature",
+          "A golden calf worshipped by a nation",
+          "A sling used to defeat a giant warrior"
+        ],
+        "answer": "A house built for them in Paradise"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "Honored with a dwelling in Paradise alongside the righteous",
+          "Drowned beneath the waves along with their army",
+          "Burned in flames but saved by divine intervention",
+          "Swallowed by a great creature then cast ashore",
+          "Became the wealthiest person of their time"
+        ],
+        "answer": "Honored with a dwelling in Paradise alongside the righteous"
+      }
+    },
+    "verseRef": "66:11",
+    "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+    "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+  },
+  "scramble": {
+    "verseRef": "8:33",
+    "reference": "Surah Al-Anfal (8:33)",
+    "segments": [
+      "مَّا كَانَ اللَّهُ لِيُعَذِّبَهُمْ",
+      "وَأَنتَ فِيهِمْ",
+      "وَمَا كَانَ اللَّهُ مُعَذِّبَهُمْ",
+      "وَهُمْ يَسْتَغْفِرُونَ"
+    ],
+    "translations": [
+      "But not is (for) Allah",
+      "that He punishes them while you (are) among them",
+      "and not is Allah",
+      "the One Who punishes them while they seek forgiveness"
+    ],
+    "hint": "The Prophet's presence is a mercy, and seeking forgiveness averts Allah's punishment",
+    "arabic": "وَمَا كَانَ ٱللَّهُ لِيُعَذِّبَهُمْ وَأَنتَ فِيهِمْ ۚ وَمَا كَانَ ٱللَّهُ مُعَذِّبَهُمْ وَهُمْ يَسْتَغْفِرُونَ",
+    "words": [
+      "وَمَا كَانَ ٱللَّهُ",
+      "لِيُعَذِّبَهُمْ وَأَنتَ فِيهِمْ ۚ",
+      "وَمَا كَانَ ٱللَّهُ",
+      "مُعَذِّبَهُمْ وَهُمْ يَسْتَغْفِرُونَ"
+    ],
+    "verseEn": "But Allāh would not punish them while you, [O Muḥammad], are among them, and Allāh would not punish them while they seek forgiveness."
+  }
+}

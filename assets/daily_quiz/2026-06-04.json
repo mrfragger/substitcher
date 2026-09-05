@@ -1,0 +1,243 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "حَيَوَانَاتٌ لِلْمَنْفَعَةِ وَالْقُوتِ",
+        "nameEn": "Animals for Benefit and Sustenance",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "ٱلْإِبِلِ",
+            "en": "Camels",
+            "ref": "88:17",
+            "verse": "أَفَلَا يَنظُرُونَ إِلَى ٱلْإِبِلِ كَيْفَ خُلِقَتْ",
+            "verseEn": "Then do they not look at the camels - how they are created?"
+          },
+          {
+            "ar": "وَٱلْغَنَمِ",
+            "en": "Sheep/Flock",
+            "ref": "6:146",
+            "verse": "وَعَلَى ٱلَّذِينَ هَادُوا۟ حَرَّمْنَا كُلَّ ذِى ظُفُرٍۢ ۖ وَمِنَ ٱلْبَقَرِ وَٱلْغَنَمِ حَرَّمْنَا عَلَيْهِمْ شُحُومَهُمَآ إِلَّا مَا حَمَلَتْ ظُهُورُهُمَآ أَوِ ٱلْحَوَايَآ أَوْ مَا ٱخْتَلَطَ بِعَظْمٍۢ ۚ ذَٰلِكَ جَزَيْنَـٰهُم بِبَغْيِهِمْ ۖ وَإِنَّا لَصَـٰدِقُونَ",
+            "verseEn": "And to those who are Jews We prohibited every animal of uncloven hoof; and of the cattle and the sheep We prohibited to them their fat, except what adheres to their backs or the entrails or what is joined with bone. [By] that We repaid them for their transgression. And indeed, We are truthful."
+          },
+          {
+            "ar": "بَعِيرٍۢ",
+            "en": "Camel (load-carrying)",
+            "ref": "12:65",
+            "verse": "وَلَمَّا فَتَحُوا۟ مَتَـٰعَهُمْ وَجَدُوا۟ بِضَـٰعَتَهُمْ رُدَّتْ إِلَيْهِمْ ۖ قَالُوا۟ يَـٰٓأَبَانَا مَا نَبْغِى ۖ هَـٰذِهِۦ بِضَـٰعَتُنَا رُدَّتْ إِلَيْنَا ۖ وَنَمِيرُ أَهْلَنَا وَنَحْفَظُ أَخَانَا وَنَزْدَادُ كَيْلَ بَعِيرٍۢ ۖ ذَٰلِكَ كَيْلٌۭ يَسِيرٌۭ",
+            "verseEn": "And when they opened their baggage, they found their merchandise returned to them. They said, \"O our father, what [more] could we desire? This is our merchandise returned to us. And we will obtain supplies [i.e., food] for our family and protect our brother and obtain an increase of a camel's load; that is an easy measurement.\""
+          },
+          {
+            "ar": "ٱلْحَمِيرِ",
+            "en": "Donkeys",
+            "ref": "31:19",
+            "verse": "وَٱقْصِدْ فِى مَشْيِكَ وَٱغْضُضْ مِن صَوْتِكَ ۚ إِنَّ أَنكَرَ ٱلْأَصْوَٰتِ لَصَوْتُ ٱلْحَمِيرِ",
+            "verseEn": "And be moderate in your pace and lower your voice; indeed, the most disagreeable of sounds is the voice of donkeys.\""
+          }
+        ]
+      },
+      {
+        "name": "أَشْرِبَةُ الْجَنَّةِ",
+        "nameEn": "Beverages of Paradise",
+        "color": "green",
+        "items": [
+          {
+            "ar": "رَحِيقٍ",
+            "en": "pure wine",
+            "ref": "83:25",
+            "verse": "يُسْقَوْنَ مِن رَّحِيقٍۢ مَّخْتُومٍ",
+            "verseEn": "They will be given to drink [pure] wine [which was] sealed."
+          },
+          {
+            "ar": "تَسْنِيمٍ",
+            "en": "a spring in Paradise",
+            "ref": "83:27",
+            "verse": "وَمِزَاجُهُۥ مِن تَسْنِيمٍ",
+            "verseEn": "And its mixture is of Tasneem,"
+          },
+          {
+            "ar": "زَنْجَبِيلًا",
+            "en": "ginger",
+            "ref": "76:17",
+            "verse": "وَيُسْقَوْنَ فِيهَا كَأْسًۭا كَانَ مِزَاجُهَا زَنجَبِيلًا",
+            "verseEn": "And they will be given to drink a cup [of wine] whose mixture is of ginger"
+          },
+          {
+            "ar": "مِسْكٌۭ",
+            "en": "musk",
+            "ref": "83:26",
+            "verse": "خِتَـٰمُهُۥ مِسْكٌۭ ۚ وَفِى ذَٰلِكَ فَلْيَتَنَافَسِ ٱلْمُتَنَـٰفِسُونَ",
+            "verseEn": "The last of it is musk. So for this let the competitors compete."
+          }
+        ]
+      },
+      {
+        "name": "أَدَوَاتُ ٱلتَّدْوِينِ وَٱلْوَحْيِ ٱلْإِلَٰهِيِّ",
+        "nameEn": "Instruments of Divine Recording and Revelation",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "بِٱلْقَلَمِ",
+            "en": "by the pen",
+            "ref": "96:4",
+            "verse": "ٱلَّذِى عَلَّمَ بِٱلْقَلَمِ",
+            "verseEn": "Who taught by the pen"
+          },
+          {
+            "ar": "ٱلْأَلْوَاحَ",
+            "en": "the tablets",
+            "ref": "7:150",
+            "verse": "وَلَمَّا رَجَعَ مُوسَىٰٓ إِلَىٰ قَوْمِهِۦ غَضْبَـٰنَ أَسِفًۭا قَالَ بِئْسَمَا خَلَفْتُمُونِى مِنۢ بَعْدِىٓ ۖ أَعَجِلْتُمْ أَمْرَ رَبِّكُمْ ۖ وَأَلْقَى ٱلْأَلْوَاحَ وَأَخَذَ بِرَأْسِ أَخِيهِ يَجُرُّهُۥٓ إِلَيْهِ ۚ قَالَ ٱبْنَ أُمَّ إِنَّ ٱلْقَوْمَ ٱسْتَضْعَفُونِى وَكَادُوا۟ يَقْتُلُونَنِى فَلَا تُشْمِتْ بِىَ ٱلْأَعْدَآءَ وَلَا تَجْعَلْنِى مَعَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+            "verseEn": "And when Moses returned to his people, angry and grieved, he said, \"How wretched is that by which you have replaced me after [my departure]. Were you impatient over the matter of your Lord?\" And he threw down the tablets and seized his brother by [the hair of] his head, pulling him toward him. [Aaron] said, \"O son of my mother, indeed the people overpowered me and were about to kill me, so let not the enemies rejoice over me and do not place me among the wrongdoing people.\""
+          },
+          {
+            "ar": "صُحُفٍۢ",
+            "en": "scriptures",
+            "ref": "80:13",
+            "verse": "فِى صُحُفٍۢ مُّكَرَّمَةٍۢ",
+            "verseEn": "[It is recorded] in honored sheets,"
+          },
+          {
+            "ar": "زُبُرِ",
+            "en": "books of wisdom",
+            "ref": "26:196",
+            "verse": "وَإِنَّهُۥ لَفِى زُبُرِ ٱلْأَوَّلِينَ",
+            "verseEn": "And indeed, it is [mentioned] in the scriptures of former peoples."
+          }
+        ]
+      },
+      {
+        "name": "أَوْصَافُ الْحَالِ وَالْجَوْهَرِ الدَّقِيقَةُ",
+        "nameEn": "Subtle Descriptors of State and Substance",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "مُّزْجَٰةٍ",
+            "en": "scanty, poor (merchandise)",
+            "ref": "12:88",
+            "verse": "فَلَمَّا دَخَلُوا۟ عَلَيْهِ قَالُوا۟ يَـٰٓأَيُّهَا ٱلْعَزِيزُ مَسَّنَا وَأَهْلَنَا ٱلضُّرُّ وَجِئْنَا بِبِضَـٰعَةٍۢ مُّزْجَىٰةٍۢ فَأَوْفِ لَنَا ٱلْكَيْلَ وَتَصَدَّقْ عَلَيْنَآ ۖ إِنَّ ٱللَّهَ يَجْزِى ٱلْمُتَصَدِّقِينَ",
+            "verseEn": "So when they entered upon him [i.e., Joseph], they said, \"O ʿAzeez, adversity has touched us and our family, and we have come with goods poor in quality, but give us full measure and be charitable to us. Indeed, Allāh rewards the charitable.\""
+          },
+          {
+            "ar": "رُخَآءً",
+            "en": "gently, soft (wind)",
+            "ref": "38:36",
+            "verse": "فَسَخَّرْنَا لَهُ ٱلرِّيحَ تَجْرِى بِأَمْرِهِۦ رُخَآءً حَيْثُ أَصَابَ",
+            "verseEn": "So We subjected to him the wind blowing by his command, gently, wherever he directed,"
+          },
+          {
+            "ar": "ٱلْمَتِينُ",
+            "en": "The Firm, The Strong (Allah's attribute)",
+            "ref": "51:58",
+            "verse": "إِنَّ ٱللَّهَ هُوَ ٱلرَّزَّاقُ ذُو ٱلْقُوَّةِ ٱلْمَتِينُ",
+            "verseEn": "Indeed, it is Allāh who is the [continual] Provider, the firm possessor of strength."
+          },
+          {
+            "ar": "فَارِغًا",
+            "en": "empty, void (a heart)",
+            "ref": "28:10",
+            "verse": "وَأَصْبَحَ فُؤَادُ أُمِّ مُوسَىٰ فَـٰرِغًا ۖ إِن كَادَتْ لَتُبْدِى بِهِۦ لَوْلَآ أَن رَّبَطْنَا عَلَىٰ قَلْبِهَا لِتَكُونَ مِنَ ٱلْمُؤْمِنِينَ",
+            "verseEn": "And the heart of Moses' mother became empty [of all else]. She was about to disclose [the matter concerning] him had We not bound fast her heart that she would be of the believers."
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "كذب",
+    "display": "كَذِبَ",
+    "hint": "A morally wrong action of saying what is not true",
+    "verseRef": "2:10",
+    "arabicVerse": "فِى قُلُوبِهِم مَّرَضٌۭ فَزَادَهُمُ ٱللَّهُ مَرَضًۭا ۖ وَلَهُمْ عَذَابٌ أَلِيمٌۢ بِمَا كَانُوا۟ يَكْذِبُونَ",
+    "verse": "2:10 - In their hearts is disease, so Allāh has increased their disease; and for them is a painful punishment because they [habitually] used to lie."
+  },
+  "deduction": {
+    "title": "The Sign Among the Stones",
+    "intro": "In a land where mountains were carved into homes, a messenger arrived with a miraculous sign from Allah. The people demanded proof, and they received a creature from solid rock. But their arrogance led them to defy the warning, sealing their fate.",
+    "clues": [
+      "I was sent to a people who lived in dwellings carved out of mountains.",
+      "They challenged me to bring a sign, so I produced a camel from a rock.",
+      "I commanded them to let the camel drink freely and not harm it.",
+      "They disobeyed and hamstrung the camel, defying my warning.",
+      "I announced that punishment would come after three days.",
+      "At morning, a mighty blast destroyed them, but I and my followers were saved."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Prophet Salih",
+          "Prophet Hud",
+          "Prophet Lut",
+          "Prophet Shu'ayb",
+          "Prophet Ibrahim"
+        ],
+        "answer": "Prophet Salih"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "Demand for a she-camel from a rock",
+          "Demand for a golden calf",
+          "Demand for a table spread from heaven",
+          "Demand for a flood",
+          "Demand for a staff to become a serpent"
+        ],
+        "answer": "Demand for a she-camel from a rock"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "The she-camel and her calf",
+          "The Ark of Noah",
+          "The Staff of Moses",
+          "The Golden Calf",
+          "The Fire of Ibrahim"
+        ],
+        "answer": "The she-camel and her calf"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "Destroyed by a mighty blast",
+          "Drowned in the flood",
+          "Swallowed by the earth",
+          "Turned into apes",
+          "Destroyed by a fierce wind"
+        ],
+        "answer": "Destroyed by a mighty blast"
+      }
+    },
+    "verseRef": "27:45",
+    "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+    "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+  },
+  "scramble": {
+    "verseRef": "57:3",
+    "reference": "Surah Al-Hadid (57:3)",
+    "segments": [
+      "هُوَ الْأَوَّلُ",
+      "وَالْآخِرُ",
+      "وَالظَّاهِرُ",
+      "وَالْبَاطِنُ",
+      "وَهُوَ بِكُلِّ شَيْءٍ عَلِيمٌ"
+    ],
+    "translations": [
+      "He (is) the First",
+      "and the Last and the Apparent",
+      "and the Unapparent and He",
+      "(is) of every thing",
+      "All-Knower"
+    ],
+    "hint": "This verse describes four of Allah's most profound attributes: His pre-existence, eternity, manifestness, and hiddenness.",
+    "arabic": "هُوَ ٱلْأَوَّلُ وَٱلْـَٔاخِرُ وَٱلظَّـٰهِرُ وَٱلْبَاطِنُ ۖ وَهُوَ بِكُلِّ شَىْءٍ عَلِيمٌ",
+    "words": [
+      "هُوَ ٱلْأَوَّلُ",
+      "وَٱلْـَٔاخِرُ وَٱلظَّـٰهِرُ",
+      "وَٱلْبَاطِنُ ۖ وَهُوَ",
+      "بِكُلِّ شَىْءٍ",
+      "عَلِيمٌ"
+    ],
+    "verseEn": "He is the First and the Last, the Ascendant and the Intimate, and He is, of all things, Knowing."
+  }
+}

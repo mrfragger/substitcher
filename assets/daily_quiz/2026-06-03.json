@@ -1,0 +1,243 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَوْقَاتُ النَّهَارِ وَاللَّيْلِ",
+        "nameEn": "Times of Day and Night",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "الصُّبْح",
+            "en": "the dawn",
+            "ref": "11:81",
+            "verse": "قَالُوا۟ يَـٰلُوطُ إِنَّا رُسُلُ رَبِّكَ لَن يَصِلُوٓا۟ إِلَيْكَ ۖ فَأَسْرِ بِأَهْلِكَ بِقِطْعٍۢ مِّنَ ٱلَّيْلِ وَلَا يَلْتَفِتْ مِنكُمْ أَحَدٌ إِلَّا ٱمْرَأَتَكَ ۖ إِنَّهُۥ مُصِيبُهَا مَآ أَصَابَهُمْ ۚ إِنَّ مَوْعِدَهُمُ ٱلصُّبْحُ ۚ أَلَيْسَ ٱلصُّبْحُ بِقَرِيبٍۢ",
+            "verseEn": "They [the angels] said, \"O Lot, indeed we are messengers of your Lord; [therefore], they will never reach you. So set out with your family during a portion of the night and let not any among you look back - except your wife; indeed, she will be struck by that which strikes them. Indeed, their appointment is [for] the morning. Is not the morning near?\""
+          },
+          {
+            "ar": "الْفَجْر",
+            "en": "the daybreak",
+            "ref": "97:5",
+            "verse": "سَلَـٰمٌ هِىَ حَتَّىٰ مَطْلَعِ ٱلْفَجْرِ",
+            "verseEn": "Peace it is until the emergence of dawn."
+          },
+          {
+            "ar": "اللَّيْل",
+            "en": "the night",
+            "ref": "21:33",
+            "verse": "وَهُوَ ٱلَّذِى خَلَقَ ٱلَّيْلَ وَٱلنَّهَارَ وَٱلشَّمْسَ وَٱلْقَمَرَ ۖ كُلٌّۭ فِى فَلَكٍۢ يَسْبَحُونَ",
+            "verseEn": "And it is He who created the night and the day and the sun and the moon; all [heavenly bodies] in an orbit are swimming."
+          },
+          {
+            "ar": "النَّهَار",
+            "en": "the day",
+            "ref": "22:61",
+            "verse": "ذَٰلِكَ بِأَنَّ ٱللَّهَ يُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ وَأَنَّ ٱللَّهَ سَمِيعٌۢ بَصِيرٌۭ",
+            "verseEn": "That is because Allāh causes the night to enter the day and causes the day to enter the night and because Allāh is Hearing and Seeing."
+          }
+        ]
+      },
+      {
+        "name": "الْمَعَادِنُ وَالْجَوَاهِرُ الثَّمِينَةُ",
+        "nameEn": "Precious Metals and Gemstones",
+        "color": "green",
+        "items": [
+          {
+            "ar": "ٱلذَّهَبَ",
+            "en": "gold",
+            "ref": "9:34",
+            "verse": "۞ يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّ كَثِيرًۭا مِّنَ ٱلْأَحْبَارِ وَٱلرُّهْبَانِ لَيَأْكُلُونَ أَمْوَٰلَ ٱلنَّاسِ بِٱلْبَـٰطِلِ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ ۗ وَٱلَّذِينَ يَكْنِزُونَ ٱلذَّهَبَ وَٱلْفِضَّةَ وَلَا يُنفِقُونَهَا فِى سَبِيلِ ٱللَّهِ فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍۢ",
+            "verseEn": "O you who have believed, indeed many of the scholars and the monks devour the wealth of people unjustly and avert [them] from the way of Allāh. And those who hoard gold and silver and spend it not in the way of Allāh - give them tidings of a painful punishment."
+          },
+          {
+            "ar": "ٱلْفِضَّةَ",
+            "en": "silver",
+            "ref": "3:14",
+            "verse": "زُيِّنَ لِلنَّاسِ حُبُّ ٱلشَّهَوَٰتِ مِنَ ٱلنِّسَآءِ وَٱلْبَنِينَ وَٱلْقَنَـٰطِيرِ ٱلْمُقَنطَرَةِ مِنَ ٱلذَّهَبِ وَٱلْفِضَّةِ وَٱلْخَيْلِ ٱلْمُسَوَّمَةِ وَٱلْأَنْعَـٰمِ وَٱلْحَرْثِ ۗ ذَٰلِكَ مَتَـٰعُ ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَٱللَّهُ عِندَهُۥ حُسْنُ ٱلْمَـَٔابِ",
+            "verseEn": "Beautified for people is the love of that which they desire - of women and sons, heaped-up sums of gold and silver, fine branded horses, and cattle and tilled land. That is the enjoyment of worldly life, but Allāh has with Him the best return [i.e., Paradise]."
+          },
+          {
+            "ar": "ٱلْمَرْجَانُ",
+            "en": "coral",
+            "ref": "55:22",
+            "verse": "يَخْرُجُ مِنْهُمَا ٱللُّؤْلُؤُ وَٱلْمَرْجَانُ",
+            "verseEn": "From both of them emerge pearl and coral."
+          },
+          {
+            "ar": "ٱلْيَاقُوتُ",
+            "en": "ruby",
+            "ref": "55:58",
+            "verse": "كَأَنَّهُنَّ ٱلْيَاقُوتُ وَٱلْمَرْجَانُ",
+            "verseEn": "As if they were rubies and coral."
+          }
+        ]
+      },
+      {
+        "name": "التَّقْدِيرُ الْإِلَٰهِيُّ لِلْمَصَائِرِ وَالْأَحْوَالِ",
+        "nameEn": "Divine Ordainment of Destinies and States",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "فَدَمْدَمَ",
+            "en": "So He shattered",
+            "ref": "91:14",
+            "verse": "فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنۢبِهِمْ فَسَوَّىٰهَا",
+            "verseEn": "But they denied him and hamstrung her. So their Lord brought down upon them destruction for their sin and made it equal [upon all of them]."
+          },
+          {
+            "ar": "يُؤْفَكُونَ",
+            "en": "How are they deluded?",
+            "ref": "9:30",
+            "verse": "وَقَالَتِ ٱلْيَهُودُ عُزَيْرٌ ٱبْنُ ٱللَّهِ وَقَالَتِ ٱلنَّصَـٰرَى ٱلْمَسِيحُ ٱبْنُ ٱللَّهِ ۖ ذَٰلِكَ قَوْلُهُم بِأَفْوَٰهِهِمْ ۖ يُضَـٰهِـُٔونَ قَوْلَ ٱلَّذِينَ كَفَرُوا۟ مِن قَبْلُ ۚ قَـٰتَلَهُمُ ٱللَّهُ ۚ أَنَّىٰ يُؤْفَكُونَ",
+            "verseEn": "The Jews say, \"Ezra is the son of Allāh\"; and the Christians say, \"The Messiah is the son of Allāh.\" That is their statement from their mouths; they imitate the saying of those who disbelieved before [them]. May Allāh destroy them; how are they deluded?"
+          },
+          {
+            "ar": "فَيُضَٰعِفَهُۥ",
+            "en": "So He will multiply it for him",
+            "ref": "2:245",
+            "verse": "مَّن ذَا ٱلَّذِى يُقْرِضُ ٱللَّهَ قَرْضًا حَسَنًۭا فَيُضَـٰعِفَهُۥ لَهُۥٓ أَضْعَافًۭا كَثِيرَةًۭ ۚ وَٱللَّهُ يَقْبِضُ وَيَبْصُۜطُ وَإِلَيْهِ تُرْجَعُونَ",
+            "verseEn": "Who is it that would loan Allāh a goodly loan so He may multiply it for him many times over? And it is Allāh who withholds and grants abundance, and to Him you will be returned."
+          },
+          {
+            "ar": "وَزَيَّنَهُۥ",
+            "en": "And He made it pleasing",
+            "ref": "49:7",
+            "verse": "وَٱعْلَمُوٓا۟ أَنَّ فِيكُمْ رَسُولَ ٱللَّهِ ۚ لَوْ يُطِيعُكُمْ فِى كَثِيرٍۢ مِّنَ ٱلْأَمْرِ لَعَنِتُّمْ وَلَـٰكِنَّ ٱللَّهَ حَبَّبَ إِلَيْكُمُ ٱلْإِيمَـٰنَ وَزَيَّنَهُۥ فِى قُلُوبِكُمْ وَكَرَّهَ إِلَيْكُمُ ٱلْكُفْرَ وَٱلْفُسُوقَ وَٱلْعِصْيَانَ ۚ أُو۟لَـٰٓئِكَ هُمُ ٱلرَّٰشِدُونَ",
+            "verseEn": "And know that among you is the Messenger of Allāh. If he were to obey you in much of the matter, you would be in difficulty, but Allāh has endeared to you the faith and has made it pleasing in your hearts and has made hateful to you disbelief, defiance and disobedience. Those are the [rightly] guided."
+          }
+        ]
+      },
+      {
+        "name": "أَوْعِيَةُ الْكَيْنُونَةِ وَالْمَصِيرِ",
+        "nameEn": "Containers of Being and Destiny",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "مَكَانَةٍ",
+            "en": "position/place",
+            "ref": "39:39",
+            "verse": "قُلْ يَـٰقَوْمِ ٱعْمَلُوا۟ عَلَىٰ مَكَانَتِكُمْ إِنِّى عَـٰمِلٌۭ ۖ فَسَوْفَ تَعْلَمُونَ",
+            "verseEn": "Say, \"O my people, work according to your position, [for] indeed, I am working; and you are going to know"
+          },
+          {
+            "ar": "مِصْرَ",
+            "en": "Egypt/city",
+            "ref": "12:99",
+            "verse": "فَلَمَّا دَخَلُوا۟ عَلَىٰ يُوسُفَ ءَاوَىٰٓ إِلَيْهِ أَبَوَيْهِ وَقَالَ ٱدْخُلُوا۟ مِصْرَ إِن شَآءَ ٱللَّهُ ءَامِنِينَ",
+            "verseEn": "And when they entered upon Joseph, he took his parents to himself [i.e., embraced them] and said, \"Enter Egypt, Allāh willing, safe [and secure].\""
+          },
+          {
+            "ar": "ٱلْأَلْبَٰبِ",
+            "en": "intellects/cores",
+            "ref": "13:19",
+            "verse": "۞ أَفَمَن يَعْلَمُ أَنَّمَآ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ ٱلْحَقُّ كَمَنْ هُوَ أَعْمَىٰٓ ۚ إِنَّمَا يَتَذَكَّرُ أُو۟لُوا۟ ٱلْأَلْبَـٰبِ",
+            "verseEn": "Then is he who knows that what has been revealed to you from your Lord is the truth like one who is blind? They will only be reminded who are people of understanding -"
+          },
+          {
+            "ar": "ٱلصُّدُورِ",
+            "en": "chests/breasts",
+            "ref": "22:46",
+            "verse": "أَفَلَمْ يَسِيرُوا۟ فِى ٱلْأَرْضِ فَتَكُونَ لَهُمْ قُلُوبٌۭ يَعْقِلُونَ بِهَآ أَوْ ءَاذَانٌۭ يَسْمَعُونَ بِهَا ۖ فَإِنَّهَا لَا تَعْمَى ٱلْأَبْصَـٰرُ وَلَـٰكِن تَعْمَى ٱلْقُلُوبُ ٱلَّتِى فِى ٱلصُّدُورِ",
+            "verseEn": "So have they not traveled through the earth and have hearts by which to reason and ears by which to hear? For indeed, it is not eyes that are blinded, but blinded are the hearts which are within the breasts."
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "نجد",
+    "display": "نَجْد",
+    "hint": "Elevated terrain associated with spiritual awakening and Divine favor",
+    "verseRef": "89:31",
+    "arabicVerse": "",
+    "verse": "89:31"
+  },
+  "deduction": {
+    "title": "The Nation That Challenged the Sacred House",
+    "intro": "In ancient times, a powerful nation decided to attack a sanctuary revered by believers. This group was wealthy, mighty, and confident in their military strength. They brought with them a massive creature that would serve as their weapon of war. Their goal was clear: to demolish the sacred house and crush the faith of its people. But their arrogance was about to meet a devastating response from above. This historical event became a sign and a lesson for all who came after. Can you identify this group from the clues?",
+    "clues": [
+      "We were a nation blessed with wealth and military prowess.",
+      "We gathered our forces and brought a massive beast to use in our campaign.",
+      "Our target was a sacred sanctuary that we wished to destroy completely.",
+      "We believed our strength would be enough to overcome any divine protection.",
+      "But the Lord sent upon us a punishment from the sky we did not expect.",
+      "We were destroyed in an instant, scattered like broken straw."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "The People of the Elephant",
+          "The People of Thamud",
+          "The People of 'Ad",
+          "The Companions of the Cave",
+          "The Nation of Prophet Hud"
+        ],
+        "answer": "The People of the Elephant"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "Marching an elephant towards the sacred house to destroy it",
+          "Building a tower to reach the heavens",
+          "Constructing a golden idol for worship",
+          "Refusing to listen to Allah's messenger",
+          "Digging a well to harm believers"
+        ],
+        "answer": "Marching an elephant towards the sacred house to destroy it"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "The Elephant",
+          "The Golden Calf",
+          "The Staff of Musa",
+          "The Fish of Yunus",
+          "The Iron of Dawud"
+        ],
+        "answer": "The Elephant"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "They were destroyed by flocks of birds with stones",
+          "They were drowned in a great flood",
+          "They were transformed into apes and pigs",
+          "They were buried under falling stones from a mountain",
+          "They were burned by fire from the sky"
+        ],
+        "answer": "They were destroyed by flocks of birds with stones"
+      }
+    },
+    "verseRef": "105:1-5",
+    "arabic": "",
+    "verse": "105:1-5"
+  },
+  "scramble": {
+    "verseRef": "28:16",
+    "reference": "Surah Al-Qasas (28:16)",
+    "segments": [
+      "قَالَ رَبِّ إِنِّي",
+      "ظَلَمْتُ نَفْسِي",
+      "فَاغْفِرْ لِي",
+      "فَغَفَرَ لَهُ إِنَّهُ",
+      "هُوَ الْغَفُورُ الرَّحِيمُ"
+    ],
+    "translations": [
+      "He said My Lord Indeed, I",
+      "[I] have wronged my soul so forgive",
+      "[for] me Then He forgave [for] him",
+      "Indeed He He (is)",
+      "the Oft-Forgiving the Most Merciful"
+    ],
+    "hint": "This is Prophet Moses (peace be upon him) asking Allah for forgiveness after making a mistake while trying to help someone - a powerful lesson about tawbah (repentance) and Allah's mercy.",
+    "arabic": "قَالَ رَبِّ إِنِّى ظَلَمْتُ نَفْسِى فَٱغْفِرْ لِى فَغَفَرَ لَهُۥٓ ۚ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ",
+    "words": [
+      "قَالَ رَبِّ إِنِّى",
+      "ظَلَمْتُ نَفْسِى فَٱغْفِرْ",
+      "لِى فَغَفَرَ لَهُۥٓ ۚ",
+      "إِنَّهُۥ هُوَ",
+      "ٱلْغَفُورُ ٱلرَّحِيمُ"
+    ],
+    "verseEn": "He said, \"My Lord, indeed I have wronged myself, so forgive me,\" and He forgave him. Indeed, He is the Forgiving, the Merciful."
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَفْعَالٌ وَأَحْوَالٌ بَشَرِيَّةٌ شَائِعَةٌ",
+        "nameEn": "Common Human Actions and States",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "يَأْكُلُونَ",
+            "en": "they consume/eat",
+            "ref": "4:10",
+            "verse": "إِنَّ ٱلَّذِينَ يَأْكُلُونَ أَمْوَٰلَ ٱلْيَتَـٰمَىٰ ظُلْمًا إِنَّمَا يَأْكُلُونَ فِى بُطُونِهِمْ نَارًۭا ۖ وَسَيَصْلَوْنَ سَعِيرًۭا",
+            "verseEn": "Indeed, those who devour the property of orphans unjustly are only consuming into their bellies fire. And they will be burned in a Blaze [i.e., Hellfire]."
+          },
+          {
+            "ar": "وَيَشْرَبُ",
+            "en": "and drinks",
+            "ref": "23:33",
+            "verse": "وَقَالَ ٱلْمَلَأُ مِن قَوْمِهِ ٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِلِقَآءِ ٱلْـَٔاخِرَةِ وَأَتْرَفْنَـٰهُمْ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا مَا هَـٰذَآ إِلَّا بَشَرٌۭ مِّثْلُكُمْ يَأْكُلُ مِمَّا تَأْكُلُونَ مِنْهُ وَيَشْرَبُ مِمَّا تَشْرَبُونَ",
+            "verseEn": "And the eminent among his people who disbelieved and denied the meeting of the Hereafter while We had given them luxury in the worldly life said, \"This is not but a man like yourselves. He eats of that from which you eat and drinks of what you drink."
+          },
+          {
+            "ar": "مَنَامُكُم",
+            "en": "your sleep",
+            "ref": "30:23",
+            "verse": "وَمِنْ ءَايَـٰتِهِۦ مَنَامُكُم بِٱلَّيْلِ وَٱلنَّهَارِ وَٱبْتِغَآؤُكُم مِّن فَضْلِهِۦٓ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍۢ لِّقَوْمٍۢ يَسْمَعُونَ",
+            "verseEn": "And of His signs is your sleep by night and day and your seeking of His bounty. Indeed in that are signs for a people who listen."
+          },
+          {
+            "ar": "رَءَا",
+            "en": "he saw",
+            "ref": "6:76",
+            "verse": "فَلَمَّا جَنَّ عَلَيْهِ ٱلَّيْلُ رَءَا كَوْكَبًۭا ۖ قَالَ هَـٰذَا رَبِّى ۖ فَلَمَّآ أَفَلَ قَالَ لَآ أُحِبُّ ٱلْـَٔافِلِينَ",
+            "verseEn": "So when the night covered him [with darkness], he saw a star. He said, \"This is my lord.\" But when it set, he said, \"I like not those that set [i.e., disappear].\""
+          }
+        ]
+      },
+      {
+        "name": "التَّنَاقُضَاتُ الْأَخْلَاقِيَّةُ فِي الْفِعْلِ الْبَشَرِيِّ",
+        "nameEn": "Moral Dichotomies in Human Action",
+        "color": "green",
+        "items": [
+          {
+            "ar": "بَاطِلٌ",
+            "en": "Falsehood",
+            "ref": "17:81",
+            "verse": "وَقُلْ جَآءَ ٱلْحَقُّ وَزَهَقَ ٱلْبَـٰطِلُ ۚ إِنَّ ٱلْبَـٰطِلَ كَانَ زَهُوقًۭا",
+            "verseEn": "And say, \"Truth has come, and falsehood has departed. Indeed is falsehood, [by nature], ever bound to depart.\""
+          },
+          {
+            "ar": "نَفْعًا",
+            "en": "Benefit",
+            "ref": "10:49",
+            "verse": "قُل لَّآ أَمْلِكُ لِنَفْسِى ضَرًّۭا وَلَا نَفْعًا إِلَّا مَا شَآءَ ٱللَّهُ ۗ لِكُلِّ أُمَّةٍ أَجَلٌ ۚ إِذَا جَآءَ أَجَلُهُمْ فَلَا يَسْتَـْٔخِرُونَ سَاعَةًۭ ۖ وَلَا يَسْتَقْدِمُونَ",
+            "verseEn": "Say, \"I possess not for myself any harm or benefit except what Allāh should will. For every nation is a [specified] term. When their time has come, then they will not remain behind an hour, nor will they precede [it].\""
+          },
+          {
+            "ar": "جِهَادًا",
+            "en": "Striving",
+            "ref": "25:52",
+            "verse": "فَلَا تُطِعِ ٱلْكَـٰفِرِينَ وَجَـٰهِدْهُم بِهِۦ جِهَادًۭا كَبِيرًۭا",
+            "verseEn": "So do not obey the disbelievers, and strive against them with it [i.e., the Qur’ān] a great striving."
+          },
+          {
+            "ar": "مَكْرُوهًا",
+            "en": "Detested",
+            "ref": "17:38",
+            "verse": "كُلُّ ذَٰلِكَ كَانَ سَيِّئُهُۥ عِندَ رَبِّكَ مَكْرُوهًۭا",
+            "verseEn": "All that [i.e., the aforementioned] - its evil is ever, in the sight of your Lord, detested."
+          }
+        ]
+      },
+      {
+        "name": "أَفْعَالُ ٱللَّهِ فِي ٱلْعَالَمَيْنِ ٱلطَّبِيعِيِّ وَٱلْأَخْلَاقِيِّ",
+        "nameEn": "Divine Actions Governing Natural and Moral Realms",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "تَجْرِي",
+            "en": "they flow",
+            "ref": "5:119",
+            "verse": "قَالَ ٱللَّهُ هَـٰذَا يَوْمُ يَنفَعُ ٱلصَّـٰدِقِينَ صِدْقُهُمْ ۚ لَهُمْ جَنَّـٰتٌۭ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَآ أَبَدًۭا ۚ رَّضِىَ ٱللَّهُ عَنْهُمْ وَرَضُوا۟ عَنْهُ ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+            "verseEn": "Allāh will say, \"This is the Day when the truthful will benefit from their truthfulness.\" For them are gardens [in Paradise] beneath which rivers flow, wherein they will abide forever, Allāh being pleased with them, and they with Him. That is the great attainment."
+          },
+          {
+            "ar": "تُسَبِّحُ",
+            "en": "it glorifies",
+            "ref": "24:41",
+            "verse": "أَلَمْ تَرَ أَنَّ ٱللَّهَ يُسَبِّحُ لَهُۥ مَن فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَٱلطَّيْرُ صَـٰٓفَّـٰتٍۢ ۖ كُلٌّۭ قَدْ عَلِمَ صَلَاتَهُۥ وَتَسْبِيحَهُۥ ۗ وَٱللَّهُ عَلِيمٌۢ بِمَا يَفْعَلُونَ",
+            "verseEn": "Do you not see that Allāh is exalted by whomever is within the heavens and the earth and [by] the birds with wings spread [in flight]? Each [of them] has known his [means of] prayer and exalting [Him], and Allāh is Knowing of what they do."
+          },
+          {
+            "ar": "أَلْهَمَهَا",
+            "en": "He inspired it",
+            "ref": "91:8",
+            "verse": "فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَىٰهَا",
+            "verseEn": "And inspired it [with discernment of] its wickedness and its righteousness,"
+          },
+          {
+            "ar": "يُدْخِلُ",
+            "en": "He admits",
+            "ref": "47:12",
+            "verse": "إِنَّ ٱللَّهَ يُدْخِلُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ جَنَّـٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ۖ وَٱلَّذِينَ كَفَرُوا۟ يَتَمَتَّعُونَ وَيَأْكُلُونَ كَمَا تَأْكُلُ ٱلْأَنْعَـٰمُ وَٱلنَّارُ مَثْوًۭى لَّهُمْ",
+            "verseEn": "Indeed, Allāh will admit those who have believed and done righteous deeds to gardens beneath which rivers flow, but those who disbelieve enjoy themselves and eat as grazing livestock eat, and the Fire will be a residence for them."
+          }
+        ]
+      },
+      {
+        "name": "حقائق خفية وحالات محجوبة",
+        "nameEn": "Hidden Realities and Obscured States",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "ٱلرَّقِيمِ",
+            "en": "The Inscription/Record",
+            "ref": "18:9",
+            "verse": "أَمْ حَسِبْتَ أَنَّ أَصْحَـٰبَ ٱلْكَهْفِ وَٱلرَّقِيمِ كَانُوا۟ مِنْ ءَايَـٰتِنَا عَجَبًا",
+            "verseEn": "Or have you thought that the companions of the cave and the inscription were, among Our signs, a wonder?"
+          },
+          {
+            "ar": "دَسَّاهَا",
+            "en": "He who buried it (the soul)",
+            "ref": "91:10",
+            "verse": "وَقَدْ خَابَ مَن دَسَّىٰهَا",
+            "verseEn": "And he has failed who instills it [with corruption]."
+          },
+          {
+            "ar": "ٱلْكَهْفِ",
+            "en": "The Cave",
+            "ref": "18:10",
+            "verse": "إِذْ أَوَى ٱلْفِتْيَةُ إِلَى ٱلْكَهْفِ فَقَالُوا۟ رَبَّنَآ ءَاتِنَا مِن لَّدُنكَ رَحْمَةًۭ وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًۭا",
+            "verseEn": "[Mention] when the youths retreated to the cave and said, \"Our Lord, grant us from Yourself mercy and prepare for us from our affair right guidance.\""
+          },
+          {
+            "ar": "غُلْفٌ",
+            "en": "Covered (hearts)",
+            "ref": "2:88",
+            "verse": "وَقَالُوا۟ قُلُوبُنَا غُلْفٌۢ ۚ بَل لَّعَنَهُمُ ٱللَّهُ بِكُفْرِهِمْ فَقَلِيلًۭا مَّا يُؤْمِنُونَ",
+            "verseEn": "And they said, \"Our hearts are wrapped.\" But, [in fact], Allāh has cursed them for their disbelief, so little is it that they believe."
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "نهر",
+    "display": "نَهَر",
+    "hint": "A flowing body of water, often promised in Paradise.",
+    "verseRef": "54:54",
+    "arabicVerse": "إِنَّ ٱلْمُتَّقِينَ فِى جَنَّـٰتٍۢ وَنَهَرٍۢ",
+    "verse": "54:54 — Indeed, the righteous will be among gardens and rivers,"
+  },
+  "deduction": {
+    "title": "The Custodian of a Divine Sign",
+    "intro": "Deep within a sacred sanctuary, a blessed soul was nurtured under divine care. This individual was destined to play a pivotal role in a miraculous event, becoming a testament to Allah's boundless power and wisdom. Their journey unveiled a profound truth, challenging perceptions and establishing a unique sign for all humanity.",
+    "clues": [
+      "I was chosen and purified by Allah above all women of my time.",
+      "I was placed under the guardianship of a righteous prophet, who found sustenance miraculously provided in my prayer chamber.",
+      "I secluded myself from my family to a private place to worship Allah.",
+      "An angel appeared to me in the form of a perfect man, bringing tidings of a pure son, though I had known no male.",
+      "After the pangs of childbirth, I was instructed to shake the trunk of a palm tree to find fresh sustenance.",
+      "When I returned to my people carrying my newborn, they questioned me, but my infant son miraculously spoke from the cradle in my defense."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Sarah (wife of Prophet Ibrahim)",
+          "Hajar (mother of Prophet Ismail)",
+          "Bilqis (Queen of Sheba)",
+          "Asiya (wife of Pharaoh)",
+          "Maryam (Mary)"
+        ],
+        "answer": "Maryam (Mary)"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "A great flood that destroyed a disbelieving nation",
+          "Being thrown into a blazing fire for denying idols",
+          "The miraculous birth of a child without a father",
+          "Being swallowed by a whale for abandoning a mission",
+          "The destruction of a city for immoral practices"
+        ],
+        "answer": "The miraculous birth of a child without a father"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "A golden calf",
+          "The Ark of the Covenant",
+          "A sacred prayer chamber (Mihrab)",
+          "A talking bird (Hudhud)",
+          "A staff that turned into a serpent"
+        ],
+        "answer": "A sacred prayer chamber (Mihrab)"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "The construction of a magnificent temple",
+          "The splitting of the sea for a people to cross",
+          "A child who spoke from the cradle in defense of their parent",
+          "The revelation of a divine book to guide humanity",
+          "A kingdom blessed with wind and jinn"
+        ],
+        "answer": "A child who spoke from the cradle in defense of their parent"
+      }
+    },
+    "verseRef": "3:42",
+    "arabic": "وَإِذْ قَالَتِ ٱلْمَلَـٰٓئِكَةُ يَـٰمَرْيَمُ إِنَّ ٱللَّهَ ٱصْطَفَىٰكِ وَطَهَّرَكِ وَٱصْطَفَىٰكِ عَلَىٰ نِسَآءِ ٱلْعَـٰلَمِينَ",
+    "verse": "And [mention] when the angels said, \"O Mary, indeed Allāh has chosen you and purified you and chosen you above the women of the worlds. (3:42)"
+  },
+  "scramble": {
+    "verseRef": "10:62",
+    "reference": "Surah Yunus (10:62)",
+    "segments": [
+      "أَلَا إِنَّ",
+      "أَوْلِيَاءَ اللَّهِ",
+      "لَا خَوْفٌ",
+      "عَلَيْهِمْ",
+      "وَلَا هُمْ",
+      "يَحْزَنُونَ"
+    ],
+    "translations": [
+      "No doubt Indeed",
+      "(the) friends (of) Allah",
+      "(there will be) no fear",
+      "upon then and not",
+      "they",
+      "will grieve"
+    ],
+    "hint": "This verse describes the peace and security granted to those who are truly close to their Creator.",
+    "arabic": "أَلَآ إِنَّ أَوْلِيَآءَ ٱللَّهِ لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+    "words": [
+      "أَلَآ إِنَّ",
+      "أَوْلِيَآءَ ٱللَّهِ",
+      "لَا خَوْفٌ",
+      "عَلَيْهِمْ وَلَا",
+      "هُمْ",
+      "يَحْزَنُونَ"
+    ],
+    "verseEn": "Unquestionably, [for] the allies of Allāh there will be no fear concerning them, nor will they grieve -"
+  }
+}

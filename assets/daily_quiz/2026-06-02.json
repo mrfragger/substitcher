@@ -1,0 +1,243 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَجْزَاءُ جِسْمِ الإِنْسَانِ",
+        "nameEn": "Parts of the Human Body",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "لَحْمًا",
+            "en": "flesh",
+            "ref": "52:22",
+            "verse": "وَأَمْدَدْنَـٰهُم بِفَـٰكِهَةٍۢ وَلَحْمٍۢ مِّمَّا يَشْتَهُونَ",
+            "verseEn": "And We will provide them with fruit and meat from whatever they desire."
+          },
+          {
+            "ar": "عِظَامًۭا",
+            "en": "bones",
+            "ref": "79:11",
+            "verse": "أَءِذَا كُنَّا عِظَـٰمًۭا نَّخِرَةًۭ",
+            "verseEn": "Even if we should be decayed bones?\""
+          },
+          {
+            "ar": "أَفْوَٰهِهِمْ",
+            "en": "their mouths",
+            "ref": "3:118",
+            "verse": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوا۟ بِطَانَةًۭ مِّن دُونِكُمْ لَا يَأْلُونَكُمْ خَبَالًۭا وَدُّوا۟ مَا عَنِتُّمْ قَدْ بَدَتِ ٱلْبَغْضَآءُ مِنْ أَفْوَٰهِهِمْ وَمَا تُخْفِى صُدُورُهُمْ أَكْبَرُ ۚ قَدْ بَيَّنَّا لَكُمُ ٱلْـَٔايَـٰتِ ۖ إِن كُنتُمْ تَعْقِلُونَ",
+            "verseEn": "O you who have believed, do not take as intimates those other than yourselves [i.e., believers], for they will not spare you [any] ruin. They wish you would have hardship. Hatred has already appeared from their mouths, and what their breasts conceal is greater. We have certainly made clear to you the signs, if you will use reason."
+          },
+          {
+            "ar": "ٱلْأَنفَ",
+            "en": "the nose",
+            "ref": "5:45",
+            "verse": "وَكَتَبْنَا عَلَيْهِمْ فِيهَآ أَنَّ ٱلنَّفْسَ بِٱلنَّفْسِ وَٱلْعَيْنَ بِٱلْعَيْنِ وَٱلْأَنفَ بِٱلْأَنفِ وَٱلْأُذُنَ بِٱلْأُذُنِ وَٱلسِّنَّ بِٱلسِّنِّ وَٱلْجُرُوحَ قِصَاصٌۭ ۚ فَمَن تَصَدَّقَ بِهِۦ فَهُوَ كَفَّارَةٌۭ لَّهُۥ ۚ وَمَن لَّمْ يَحْكُم بِمَآ أَنزَلَ ٱللَّهُ فَأُو۟لَـٰٓئِكَ هُمُ ٱلظَّـٰلِمُونَ",
+            "verseEn": "And We ordained for them therein a life for a life, an eye for an eye, a nose for a nose, an ear for an ear, a tooth for a tooth, and for wounds is legal retribution. But whoever gives [up his right as] charity, it is an expiation for him. And whoever does not judge by what Allāh has revealed - then it is those who are the wrongdoers [i.e., the unjust]."
+          }
+        ]
+      },
+      {
+        "name": "أَسْمَاءُ جَهَنَّمَ",
+        "nameEn": "Names of Hellfire",
+        "color": "green",
+        "items": [
+          {
+            "ar": "جَهَنَّمَ",
+            "en": "Hell",
+            "ref": "4:140",
+            "verse": "وَقَدْ نَزَّلَ عَلَيْكُمْ فِى ٱلْكِتَـٰبِ أَنْ إِذَا سَمِعْتُمْ ءَايَـٰتِ ٱللَّهِ يُكْفَرُ بِهَا وَيُسْتَهْزَأُ بِهَا فَلَا تَقْعُدُوا۟ مَعَهُمْ حَتَّىٰ يَخُوضُوا۟ فِى حَدِيثٍ غَيْرِهِۦٓ ۚ إِنَّكُمْ إِذًۭا مِّثْلُهُمْ ۗ إِنَّ ٱللَّهَ جَامِعُ ٱلْمُنَـٰفِقِينَ وَٱلْكَـٰفِرِينَ فِى جَهَنَّمَ جَمِيعًا",
+            "verseEn": "And it has already come down to you in the Book [i.e., the Qur’ān] that when you hear the verses of Allāh [recited], they are denied [by them] and ridiculed; so do not sit with them until they enter into another conversation. Indeed, you would then be like them. Indeed, Allāh will gather the hypocrites and disbelievers in Hell all together -"
+          },
+          {
+            "ar": "نَارًا",
+            "en": "Fire",
+            "ref": "4:56",
+            "verse": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ بِـَٔايَـٰتِنَا سَوْفَ نُصْلِيهِمْ نَارًۭا كُلَّمَا نَضِجَتْ جُلُودُهُم بَدَّلْنَـٰهُمْ جُلُودًا غَيْرَهَا لِيَذُوقُوا۟ ٱلْعَذَابَ ۗ إِنَّ ٱللَّهَ كَانَ عَزِيزًا حَكِيمًۭا",
+            "verseEn": "Indeed, those who disbelieve in Our verses - We will drive them into a fire. Every time their skins are roasted through, We will replace them with other skins so they may taste the punishment. Indeed, Allāh is ever Exalted in Might and Wise."
+          },
+          {
+            "ar": "سَعِيرًا",
+            "en": "Blazing Fire",
+            "ref": "4:55",
+            "verse": "فَمِنْهُم مَّنْ ءَامَنَ بِهِۦ وَمِنْهُم مَّن صَدَّ عَنْهُ ۚ وَكَفَىٰ بِجَهَنَّمَ سَعِيرًا",
+            "verseEn": "And some among them believed in it, and some among them were averse to it. And sufficient is Hell as a blaze."
+          },
+          {
+            "ar": "الْجَحِيمِ",
+            "en": "Hellfire",
+            "ref": "5:10",
+            "verse": "وَٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔايَـٰتِنَآ أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلْجَحِيمِ",
+            "verseEn": "But those who disbelieve and deny Our signs - those are the companions of Hellfire."
+          }
+        ]
+      },
+      {
+        "name": "الْقُرْآنُ: بَيَانٌ وَإِعْجَازٌ",
+        "nameEn": "The Quran's Clarity and Miraculous Nature",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "عَجَبٌ",
+            "en": "a wonder/astonishment",
+            "ref": "13:5",
+            "verse": "۞ وَإِن تَعْجَبْ فَعَجَبٌۭ قَوْلُهُمْ أَءِذَا كُنَّا تُرَٰبًا أَءِنَّا لَفِى خَلْقٍۢ جَدِيدٍ ۗ أُو۟لَـٰٓئِكَ ٱلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ ۖ وَأُو۟لَـٰٓئِكَ ٱلْأَغْلَـٰلُ فِىٓ أَعْنَاقِهِمْ ۖ وَأُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَـٰلِدُونَ",
+            "verseEn": "And if you are astonished, [O Muḥammad] - then astonishing is their saying, \"When we are dust, will we indeed be [brought] into a new creation?\" Those are the ones who have disbelieved in their Lord, and those will have shackles upon their necks, and those are the companions of the Fire; they will abide therein eternally."
+          },
+          {
+            "ar": "بَلَٰغٌ",
+            "en": "a clear message/proclamation",
+            "ref": "14:52",
+            "verse": "هَـٰذَا بَلَـٰغٌۭ لِّلنَّاسِ وَلِيُنذَرُوا۟ بِهِۦ وَلِيَعْلَمُوٓا۟ أَنَّمَا هُوَ إِلَـٰهٌۭ وَٰحِدٌۭ وَلِيَذَّكَّرَ أُو۟لُوا۟ ٱلْأَلْبَـٰبِ",
+            "verseEn": "This [Qur’ān] is notification for the people that they may be warned thereby and that they may know that He is but one God and that those of understanding will be reminded."
+          },
+          {
+            "ar": "تِلاَوَتِهِۦ",
+            "en": "its recitation",
+            "ref": "2:121",
+            "verse": "ٱلَّذِينَ ءَاتَيْنَـٰهُمُ ٱلْكِتَـٰبَ يَتْلُونَهُۥ حَقَّ تِلَاوَتِهِۦٓ أُو۟لَـٰٓئِكَ يُؤْمِنُونَ بِهِۦ ۗ وَمَن يَكْفُرْ بِهِۦ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْخَـٰسِرُونَ",
+            "verseEn": "Those to whom We have given the Book recite it with its true recital. They [are the ones who] believe in it. And whoever disbelieves in it - it is they who are the losers."
+          },
+          {
+            "ar": "لِّسَانٍ",
+            "en": "a tongue/language",
+            "ref": "46:12",
+            "verse": "وَمِن قَبْلِهِۦ كِتَـٰبُ مُوسَىٰٓ إِمَامًۭا وَرَحْمَةًۭ ۚ وَهَـٰذَا كِتَـٰبٌۭ مُّصَدِّقٌۭ لِّسَانًا عَرَبِيًّۭا لِّيُنذِرَ ٱلَّذِينَ ظَلَمُوا۟ وَبُشْرَىٰ لِلْمُحْسِنِينَ",
+            "verseEn": "And before it was the scripture of Moses to lead and as a mercy. And this is a confirming Book in an Arabic tongue to warn those who have wronged and as good tidings to the doers of good."
+          }
+        ]
+      },
+      {
+        "name": "عَنَاصِرُ عَادِيَّةٌ بِدَلَالَاتٍ إِلَٰهِيَّةٍ خَارِقَةٍ",
+        "nameEn": "Seemingly Ordinary Elements with Extraordinary Divine Significance",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "صَيْحَةً",
+            "en": "a blast/cry (divine destruction)",
+            "ref": "36:29",
+            "verse": "إِن كَانَتْ إِلَّا صَيْحَةًۭ وَٰحِدَةًۭ فَإِذَا هُمْ خَـٰمِدُونَ",
+            "verseEn": "It was not but one shout, and immediately they were extinguished."
+          },
+          {
+            "ar": "حَبْلِ",
+            "en": "rope (figuratively, divine connection or proximity)",
+            "ref": "50:16",
+            "verse": "وَلَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ وَنَعْلَمُ مَا تُوَسْوِسُ بِهِۦ نَفْسُهُۥ ۖ وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ ٱلْوَرِيدِ",
+            "verseEn": "And We have already created man and know what his soul whispers to him, and We are closer to him than [his] jugular vein."
+          },
+          {
+            "ar": "عَلَقٍ",
+            "en": "a clinging substance (early stage of human creation)",
+            "ref": "96:2",
+            "verse": "خَلَقَ ٱلْإِنسَـٰنَ مِنْ عَلَقٍ",
+            "verseEn": "Created man from a clinging substance."
+          },
+          {
+            "ar": "نَاقَةُ",
+            "en": "she-camel (a divine sign and test)",
+            "ref": "11:64",
+            "verse": "وَيَـٰقَوْمِ هَـٰذِهِۦ نَاقَةُ ٱللَّهِ لَكُمْ ءَايَةًۭ فَذَرُوهَا تَأْكُلْ فِىٓ أَرْضِ ٱللَّهِ وَلَا تَمَسُّوهَا بِسُوٓءٍۢ فَيَأْخُذَكُمْ عَذَابٌۭ قَرِيبٌۭ",
+            "verseEn": "And O my people, this is the she-camel of Allāh - [she is] to you a sign. So let her feed upon Allāh's earth and do not touch her with harm, or you will be taken by an impending punishment.\""
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "خلق",
+    "display": "خَلْق",
+    "hint": "The act of bringing into existence from nothing, a divine attribute.",
+    "verseRef": "35:1",
+    "arabicVerse": "ٱلْحَمْدُ لِلَّهِ فَاطِرِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ جَاعِلِ ٱلْمَلَـٰٓئِكَةِ رُسُلًا أُو۟لِىٓ أَجْنِحَةٍۢ مَّثْنَىٰ وَثُلَـٰثَ وَرُبَـٰعَ ۚ يَزِيدُ فِى ٱلْخَلْقِ مَا يَشَآءُ ۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ",
+    "verse": "35:1 - [All] praise is [due] to Allāh, Creator of the heavens and the earth, [who] made the angels messengers having wings, two or three or four. He increases in creation what He wills. Indeed, Allāh is over all things competent."
+  },
+  "deduction": {
+    "title": "The Keeper of the Gate of the Rising Sun",
+    "intro": "Throughout the Quran, certain souls traverse the earth leaving trails of wisdom and wonder. One such figure traveled to the furthest points of creation—where the sun rises and sets, where a barrier holds back chaos itself. This servant of Allah was granted a kingdom that none would ever possess again. Through three distinct journeys, this individual's purpose became clear. Can you identify this legendary wanderer from among the shadows of history?",
+    "clues": [
+      "I was granted authority by the Most Merciful to rule over the earth in a way no one else has ever achieved.",
+      "I traveled westward until I reached the place where the sun sets, finding it setting in a murky spring, and I witnessed a people there.",
+      "I journeyed eastward until I reached the place where the sun rises, finding it rising upon a people for whom We had provided no shelter from it.",
+      "I journeyed between those two extreme points until I arrived at a valley between two mountains, where I found a people who could barely understand speech.",
+      "I found on the mountain two hard barriers of iron reaching to right and left, and between them, a narrow passage. These people asked me to break through the barrier holding back chaos.",
+      "I took my provision and said: 'When the barrier breaks through, this will be a clear separation between us and this people.' And when the appointed time arrived, I watched as the barrier was finally breached."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Dhu al-Qarnayn",
+          "Prophet Sulayman",
+          "Prophet Ibrahim",
+          "The King of Ghassaniyah",
+          "Dhul-Qarnain the Wanderer"
+        ],
+        "answer": "Dhu al-Qarnayn"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "Breaking through the iron barrier for the people of Yajuj and Majuj",
+          "Building the Ship under the command of a prophet",
+          "Constructing a temple in Jerusalem",
+          "Crossing the Red Sea with the believing people",
+          "Constructing a dam to protect a righteous nation"
+        ],
+        "answer": "Breaking through the iron barrier for the people of Yajuj and Majuj"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "The barrier of iron between two mountains",
+          "The ship anchored on a mountain",
+          "The sacred house of worship in Jerusalem",
+          "The river in the land of Egypt",
+          "The well of blessings in Madyan"
+        ],
+        "answer": "The barrier of iron between two mountains"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "The barrier was breached when the appointed time came, and chaos poured forth",
+          "The disbelievers were drowned while the believers were saved",
+          "The righteous were guided to eternal paradise",
+          "The city was destroyed by a screaming wind",
+          "The idols were shattered and the people repented"
+        ],
+        "answer": "The barrier was breached when the appointed time came, and chaos poured forth"
+      }
+    },
+    "verseRef": "18:94",
+    "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+    "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+  },
+  "scramble": {
+    "verseRef": "39:9",
+    "reference": "Surah Az-Zumar (39:9)",
+    "segments": [
+      "أَمَّنْ هُوَ قَانِتٌ",
+      "أَنَآءَ اللَّيْلِ",
+      "سَاجِدًا وَقَائِمًا",
+      "يَرْجُو رَحْمَةَ رَبِّهِ",
+      "وَاعْتَدَالَ يَوْمٍ"
+    ],
+    "translations": [
+      "Is (one) who [he] (is) devoutly obedient  (during) hours (of) the night",
+      "prostrating and standing fearing the Hereafter and hoping",
+      "(for the) Mercy (of) his Lord Say Are equal",
+      "those who know and those who (do) not know",
+      "Only will take heed those of understanding those of understanding"
+    ],
+    "hint": "A verse contrasting the devoted worshipper with those indifferent to faith, highlighting the difference between hope and fear in one's relationship with Allah.",
+    "arabic": "أَمَّنْ هُوَ قَـٰنِتٌ ءَانَآءَ ٱلَّيْلِ سَاجِدًۭا وَقَآئِمًۭا يَحْذَرُ ٱلْـَٔاخِرَةَ وَيَرْجُوا۟ رَحْمَةَ رَبِّهِۦ ۗ قُلْ هَلْ يَسْتَوِى ٱلَّذِينَ يَعْلَمُونَ وَٱلَّذِينَ لَا يَعْلَمُونَ ۗ إِنَّمَا يَتَذَكَّرُ أُو۟لُوا۟ ٱلْأَلْبَـٰبِ",
+    "words": [
+      "أَمَّنْ هُوَ قَـٰنِتٌ ءَانَآءَ ٱلَّيْلِ",
+      "سَاجِدًۭا وَقَآئِمًۭا يَحْذَرُ ٱلْـَٔاخِرَةَ وَيَرْجُوا۟",
+      "رَحْمَةَ رَبِّهِۦ ۗ قُلْ هَلْ يَسْتَوِى",
+      "ٱلَّذِينَ يَعْلَمُونَ وَٱلَّذِينَ لَا يَعْلَمُونَ ۗ",
+      "إِنَّمَا يَتَذَكَّرُ أُو۟لُوا۟ ٱلْأَلْبَـٰبِ"
+    ],
+    "verseEn": "Is one who is devoutly obedient during periods of the night, prostrating and standing [in prayer], fearing the Hereafter and hoping for the mercy of his Lord, [like one who does not]? Say, \"Are those who know equal to those who do not know?\" Only they will remember [who are] people of understanding."
+  }
+}

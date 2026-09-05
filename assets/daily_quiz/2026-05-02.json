@@ -1,0 +1,243 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَنْبِيَاء",
+        "nameEn": "Prophets",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "يُوسُفُ",
+            "en": "Yusuf",
+            "ref": "12:46",
+            "verse": "يُوسُفُ أَيُّهَا ٱلصِّدِّيقُ أَفْتِنَا فِى سَبْعِ بَقَرَٰتٍۢ سِمَانٍۢ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌۭ وَسَبْعِ سُنۢبُلَـٰتٍ خُضْرٍۢ وَأُخَرَ يَابِسَـٰتٍۢ لَّعَلِّىٓ أَرْجِعُ إِلَى ٱلنَّاسِ لَعَلَّهُمْ يَعْلَمُونَ",
+            "verseEn": "[He said], \"Joseph, O man of truth, explain to us about seven fat cows eaten by seven [that were] lean, and seven green spikes [of grain] and others [that were] dry - that I may return to the people [i.e., the king and his court]; perhaps they will know [about you].\""
+          },
+          {
+            "ar": "مُوسَىٰ",
+            "en": "Musa",
+            "ref": "20:9",
+            "verse": "وَهَلْ أَتَىٰكَ حَدِيثُ مُوسَىٰٓ",
+            "verseEn": "And has the story of Moses reached you? -"
+          },
+          {
+            "ar": "دَاوُۥدَ",
+            "en": "Dawud",
+            "ref": "38:17",
+            "verse": "ٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَٱذْكُرْ عَبْدَنَا دَاوُۥدَ ذَا ٱلْأَيْدِ ۖ إِنَّهُۥٓ أَوَّابٌ",
+            "verseEn": "Be patient over what they say and remember Our servant, David, the possessor of strength; indeed, he was one who repeatedly turned back [to Allāh]."
+          },
+          {
+            "ar": "يُونُسَ",
+            "en": "Yunus",
+            "ref": "37:139",
+            "verse": "وَإِنَّ يُونُسَ لَمِنَ ٱلْمُرْسَلِينَ",
+            "verseEn": "And indeed, Jonah was among the messengers."
+          }
+        ]
+      },
+      {
+        "name": "أَفْعَالٌ عَقْلِيَّةٌ",
+        "nameEn": "Cognitive Actions",
+        "color": "green",
+        "items": [
+          {
+            "ar": "تَظُنُّونَ",
+            "en": "You assume",
+            "ref": "33:10",
+            "verse": "إِذْ جَآءُوكُم مِّن فَوْقِكُمْ وَمِنْ أَسْفَلَ مِنكُمْ وَإِذْ زَاغَتِ ٱلْأَبْصَـٰرُ وَبَلَغَتِ ٱلْقُلُوبُ ٱلْحَنَاجِرَ وَتَظُنُّونَ بِٱللَّهِ ٱلظُّنُونَا۠",
+            "verseEn": "[Remember] when they came at you from above you and from below you, and when eyes shifted [in fear], and hearts reached the throats, and you assumed about Allāh [various] assumptions."
+          },
+          {
+            "ar": "يَعْقِلُونَ",
+            "en": "They reason",
+            "ref": "2:171",
+            "verse": "وَمَثَلُ ٱلَّذِينَ كَفَرُوا۟ كَمَثَلِ ٱلَّذِى يَنْعِقُ بِمَا لَا يَسْمَعُ إِلَّا دُعَآءًۭ وَنِدَآءًۭ ۚ صُمٌّۢ بُكْمٌ عُمْىٌۭ فَهُمْ لَا يَعْقِلُونَ",
+            "verseEn": "The example of those who disbelieve is like that of one who shouts at what hears nothing but calls and cries [i.e., cattle or sheep] - deaf, dumb and blind, so they do not understand."
+          },
+          {
+            "ar": "يَتَفَكَّرُونَ",
+            "en": "They reflect",
+            "ref": "30:21",
+            "verse": "وَمِنْ ءَايَـٰتِهِۦٓ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًۭا لِّتَسْكُنُوٓا۟ إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةًۭ وَرَحْمَةً ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍۢ لِّقَوْمٍۢ يَتَفَكَّرُونَ",
+            "verseEn": "And of His signs is that He created for you from yourselves mates that you may find tranquility in them; and He placed between you affection and mercy. Indeed in that are signs for a people who give thought."
+          },
+          {
+            "ar": "يَحْسَبُونَ",
+            "en": "They think",
+            "ref": "63:4",
+            "verse": "۞ وَإِذَا رَأَيْتَهُمْ تُعْجِبُكَ أَجْسَامُهُمْ ۖ وَإِن يَقُولُوا۟ تَسْمَعْ لِقَوْلِهِمْ ۖ كَأَنَّهُمْ خُشُبٌۭ مُّسَنَّدَةٌۭ ۖ يَحْسَبُونَ كُلَّ صَيْحَةٍ عَلَيْهِمْ ۚ هُمُ ٱلْعَدُوُّ فَٱحْذَرْهُمْ ۚ قَـٰتَلَهُمُ ٱللَّهُ ۖ أَنَّىٰ يُؤْفَكُونَ",
+            "verseEn": "And when you see them, their forms please you, and if they speak, you listen to their speech. [They are] as if they were pieces of wood propped up - they think that every shout is against them. They are the enemy, so beware of them. May Allāh destroy them; how are they deluded?"
+          }
+        ]
+      },
+      {
+        "name": "أَمَاكِنُ فِي الْآخِرَةِ",
+        "nameEn": "Locations in the Afterlife",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "عِلِّيِّينَ",
+            "en": "The Highest Place",
+            "ref": "83:18",
+            "verse": "كَلَّآ إِنَّ كِتَـٰبَ ٱلْأَبْرَارِ لَفِى عِلِّيِّينَ",
+            "verseEn": "No! Indeed, the record of the righteous is in ʿilliyyūn."
+          },
+          {
+            "ar": "سَقَرَ",
+            "en": "Scorching Fire",
+            "ref": "74:42",
+            "verse": "مَا سَلَكَكُمْ فِى سَقَرَ",
+            "verseEn": "[And asking them], \"What put you into Saqar?\""
+          },
+          {
+            "ar": "ٱلْقَرَارِ",
+            "en": "The Abode of Settlement",
+            "ref": "40:39",
+            "verse": "يَـٰقَوْمِ إِنَّمَا هَـٰذِهِ ٱلْحَيَوٰةُ ٱلدُّنْيَا مَتَـٰعٌۭ وَإِنَّ ٱلْـَٔاخِرَةَ هِىَ دَارُ ٱلْقَرَارِ",
+            "verseEn": "O my people, this worldly life is only [temporary] enjoyment, and indeed, the Hereafter - that is the home of [permanent] settlement."
+          },
+          {
+            "ar": "عَدْنٍ",
+            "en": "Eden",
+            "ref": "13:23",
+            "verse": "جَنَّـٰتُ عَدْنٍۢ يَدْخُلُونَهَا وَمَن صَلَحَ مِنْ ءَابَآئِهِمْ وَأَزْوَٰجِهِمْ وَذُرِّيَّـٰتِهِمْ ۖ وَٱلْمَلَـٰٓئِكَةُ يَدْخُلُونَ عَلَيْهِم مِّن كُلِّ بَابٍۢ",
+            "verseEn": "Gardens of perpetual residence; they will enter them with whoever were righteous among their forefathers, their spouses and their descendants. And the angels will enter upon them from every gate, [saying],"
+          }
+        ]
+      },
+      {
+        "name": "أَصْنَامٌ جَاهِلِيَّةٌ",
+        "nameEn": "Names of Pre-Islamic Idols",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "ٱللَّاتَ",
+            "en": "Al-Lat",
+            "ref": "53:19",
+            "verse": "أَفَرَءَيْتُمُ ٱللَّـٰتَ وَٱلْعُزَّىٰ",
+            "verseEn": "So have you considered al-Lāt and al-ʿUzzā?"
+          },
+          {
+            "ar": "مَنَوٰةَ",
+            "en": "Manat",
+            "ref": "53:20",
+            "verse": "وَمَنَوٰةَ ٱلثَّالِثَةَ ٱلْأُخْرَىٰٓ",
+            "verseEn": "And Manāt, the third - the other one?"
+          },
+          {
+            "ar": "بَعْلًا",
+            "en": "Ba'l",
+            "ref": "37:125",
+            "verse": "أَتَدْعُونَ بَعْلًۭا وَتَذَرُونَ أَحْسَنَ ٱلْخَـٰلِقِينَ",
+            "verseEn": "Do you call upon Baʿl and leave the best of creators -"
+          },
+          {
+            "ar": "نَسْرًا",
+            "en": "Nasr",
+            "ref": "71:23",
+            "verse": "وَقَالُوا۟ لَا تَذَرُنَّ ءَالِهَتَكُمْ وَلَا تَذَرُنَّ وَدًّۭا وَلَا سُوَاعًۭا وَلَا يَغُوثَ وَيَعُوقَ وَنَسْرًۭا",
+            "verseEn": "And said, 'Never leave your gods and never leave Wadd or Suwāʿ or Yaghūth and Yaʿūq and Nasr.'"
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "جنة",
+    "display": "جَنَّة",
+    "hint": "Adam's first home.",
+    "verseRef": "57:21",
+    "arabicVerse": "سَابِقُوٓا۟ إِلَىٰ مَغْفِرَةٍۢ مِّن رَّبِّكُمْ وَجَنَّةٍ عَرْضُهَا كَعَرْضِ ٱلسَّمَآءِ وَٱلْأَرْضِ أُعِدَّتْ لِلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ ۚ ذَٰلِكَ فَضْلُ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۚ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ",
+    "verse": "57:21 — Race [i.e., compete] toward forgiveness from your Lord and a Garden whose width is like the width of the heavens and earth, prepared for those who believed in Allāh and His messengers. That is the bounty of Allāh which He gives to whom He wills, and Allāh is the possessor of great bounty."
+  },
+  "deduction": {
+    "title": "The Bearer of a Grave Message",
+    "intro": "A righteous soul was sent to guide a people lost in unprecedented transgressions. This messenger stood firm, delivering a stark warning against a corruption that defied the natural order. Despite earnest pleas, the community plunged deeper into darkness, setting the stage for a divine reckoning unlike any other. Can you identify this steadfast servant of Allah?",
+    "clues": [
+      "I was a relative of another great prophet, and I migrated with him, leaving our homeland behind.",
+      "I was sent to a people whose wickedness was unique, a transgression no creation had committed before them.",
+      "My own household was divided; a close family member secretly sided with the disbelievers.",
+      "Angels, in the form of handsome young men, came to my home as guests, causing me great distress for their safety.",
+      "I offered my own daughters in marriage to my people in a desperate attempt to turn them away from their shameful acts.",
+      "My people were destroyed by a terrible cry and a rain of stones of baked clay, while I and my family, except for one, were saved by leaving in the dead of night."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Prophet Shu'ayb",
+          "Prophet Salih",
+          "Prophet Lut",
+          "Prophet Hud",
+          "Prophet Nuh"
+        ],
+        "answer": "Prophet Lut"
+      },
+      "trial": {
+        "label": "What Was My Primary Trial?",
+        "options": [
+          "Convincing a tyrant king not to burn me in a fire.",
+          "Dealing with my brothers' jealousy and being thrown into a well.",
+          "Confronting a people engaged in unprecedented sexual immorality.",
+          "Leading my people out of bondage from a powerful pharaoh.",
+          "Building a massive ship to save the believers from a great flood."
+        ],
+        "answer": "Confronting a people engaged in unprecedented sexual immorality."
+      },
+      "location": {
+        "label": "What Was the Location of My Mission?",
+        "options": [
+          "The city of Madyan",
+          "The ancient city of Iram",
+          "The land of Egypt under Pharaoh",
+          "The cities of Sodom and Gomorrah",
+          "The city of Nineveh"
+        ],
+        "answer": "The cities of Sodom and Gomorrah"
+      },
+      "outcome": {
+        "label": "What Was the Ultimate Outcome?",
+        "options": [
+          "The cities were overturned and showered with stones of baked clay.",
+          "My people were swallowed by the earth along with their wealthy leader.",
+          "My people were destroyed by a violent wind for seven nights and eight days.",
+          "My people were afflicted with plagues like locusts, lice, and frogs.",
+          "A giant fish swallowed me after I abandoned my mission."
+        ],
+        "answer": "The cities were overturned and showered with stones of baked clay."
+      }
+    },
+    "verseRef": "11:82",
+    "arabic": "فَلَمَّا جَآءَ أَمْرُنَا جَعَلْنَا عَـٰلِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةًۭ مِّن سِجِّيلٍۢ مَّنضُودٍۢ",
+    "verse": "So when Our command came, We made the highest part [of the city] its lowest and rained upon them stones of layered hard clay, [which were] (11:82)"
+  },
+  "scramble": {
+    "verseRef": "59:21",
+    "reference": "Surah Al-Hashr (59:21)",
+    "segments": [
+      "لَوْ أَنزَلْنَا هَٰذَا الْقُرْآنَ",
+      "عَلَىٰ جَبَلٍ",
+      "لَّرَأَيْتَهُ خَاشِعًا",
+      "مُّتَصَدِّعًا",
+      "مِّنْ خَشْيَةِ اللَّهِ"
+    ],
+    "translations": [
+      "If We (had) sent down this Quran",
+      "on a mountain surely you (would) have seen it humbled",
+      "breaking asunder from (the) fear (of) Allah",
+      "And these examples We present them",
+      "to the people so that they may give thought"
+    ],
+    "hint": "This verse describes the immense power of the Quran's revelation, using a mountain as an example of its potential impact.",
+    "arabic": "لَوْ أَنزَلْنَا هَـٰذَا ٱلْقُرْءَانَ عَلَىٰ جَبَلٍۢ لَّرَأَيْتَهُۥ خَـٰشِعًۭا مُّتَصَدِّعًۭا مِّنْ خَشْيَةِ ٱللَّهِ ۚ وَتِلْكَ ٱلْأَمْثَـٰلُ نَضْرِبُهَا لِلنَّاسِ لَعَلَّهُمْ يَتَفَكَّرُونَ",
+    "words": [
+      "لَوْ أَنزَلْنَا هَـٰذَا ٱلْقُرْءَانَ",
+      "عَلَىٰ جَبَلٍۢ لَّرَأَيْتَهُۥ خَـٰشِعًۭا",
+      "مُّتَصَدِّعًۭا مِّنْ خَشْيَةِ ٱللَّهِ ۚ",
+      "وَتِلْكَ ٱلْأَمْثَـٰلُ نَضْرِبُهَا",
+      "لِلنَّاسِ لَعَلَّهُمْ يَتَفَكَّرُونَ"
+    ],
+    "verseEn": "If We had sent down this Qur’ān upon a mountain, you would have seen it humbled and splitting from fear of Allāh. And these examples We present to the people that perhaps they will give thought."
+  }
+}

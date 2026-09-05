@@ -1,0 +1,243 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَنْوَاعُ الْمَسَاكِنِ فِي الْقُرْآنِ",
+        "nameEn": "Types of Dwellings in the Quran",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "بُيُوتِكُمْ",
+            "en": "your houses",
+            "ref": "24:61",
+            "verse": "لَّيْسَ عَلَى ٱلْأَعْمَىٰ حَرَجٌۭ وَلَا عَلَى ٱلْأَعْرَجِ حَرَجٌۭ وَلَا عَلَى ٱلْمَرِيضِ حَرَجٌۭ وَلَا عَلَىٰٓ أَنفُسِكُمْ أَن تَأْكُلُوا۟ مِنۢ بُيُوتِكُمْ أَوْ بُيُوتِ ءَابَآئِكُمْ أَوْ بُيُوتِ أُمَّهَـٰتِكُمْ أَوْ بُيُوتِ إِخْوَٰنِكُمْ أَوْ بُيُوتِ أَخَوَٰتِكُمْ أَوْ بُيُوتِ أَعْمَـٰمِكُمْ أَوْ بُيُوتِ عَمَّـٰتِكُمْ أَوْ بُيُوتِ أَخْوَٰلِكُمْ أَوْ بُيُوتِ خَـٰلَـٰتِكُمْ أَوْ مَا مَلَكْتُم مَّفَاتِحَهُۥٓ أَوْ صَدِيقِكُمْ ۚ لَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَأْكُلُوا۟ جَمِيعًا أَوْ أَشْتَاتًۭا ۚ فَإِذَا دَخَلْتُم بُيُوتًۭا فَسَلِّمُوا۟ عَلَىٰٓ أَنفُسِكُمْ تَحِيَّةًۭ مِّنْ عِندِ ٱللَّهِ مُبَـٰرَكَةًۭ طَيِّبَةًۭ ۚ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمُ ٱلْـَٔايَـٰتِ لَعَلَّكُمْ تَعْقِلُونَ",
+            "verseEn": "There is not upon the blind [any] constraint nor upon the lame constraint nor upon the ill constraint nor upon yourselves when you eat from your [own] houses or the houses of your fathers or the houses of your mothers or the houses of your brothers or the houses of your sisters or the houses of your father's brothers or the houses of your father's sisters or the houses of your mother's brothers or the houses of your mother's sisters or [from houses] whose keys you possess or [from the house] of your friend. There is no blame upon you whether you eat together or separately. But when you enter houses, give greetings of peace upon each other - a greeting from Allāh, blessed and good. Thus does Allāh make clear to you the verses [of ordinance] that you may understand."
+          },
+          {
+            "ar": "مَسَاكِنَ",
+            "en": "dwellings",
+            "ref": "61:12",
+            "verse": "يَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَيُدْخِلْكُمْ جَنَّـٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ وَمَسَـٰكِنَ طَيِّبَةًۭ فِى جَنَّـٰتِ عَدْنٍۢ ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+            "verseEn": "He will forgive for you your sins and admit you to gardens beneath which rivers flow and pleasant dwellings in gardens of perpetual residence. That is the great attainment."
+          },
+          {
+            "ar": "قُصُورًا",
+            "en": "palaces",
+            "ref": "25:10",
+            "verse": "تَبَارَكَ ٱلَّذِىٓ إِن شَآءَ جَعَلَ لَكَ خَيْرًۭا مِّن ذَٰلِكَ جَنَّـٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ وَيَجْعَل لَّكَ قُصُورًۢا",
+            "verseEn": "Blessed is He who, if He willed, could have made for you [something] better than that - gardens beneath which rivers flow - and could make for you palaces."
+          },
+          {
+            "ar": "غُرَفًا",
+            "en": "chambers",
+            "ref": "29:58",
+            "verse": "وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَنُبَوِّئَنَّهُم مِّنَ ٱلْجَنَّةِ غُرَفًۭا تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا ۚ نِعْمَ أَجْرُ ٱلْعَـٰمِلِينَ",
+            "verseEn": "And those who have believed and done righteous deeds - We will surely assign to them of Paradise [elevated] chambers beneath which rivers flow, wherein they abide eternally. Excellent is the reward of the [righteous] workers"
+          }
+        ]
+      },
+      {
+        "name": "مَفْرُوشَاتُ الْجَنَّةِ",
+        "nameEn": "Paradise Furnishings",
+        "color": "green",
+        "items": [
+          {
+            "ar": "سُرُرٍ",
+            "en": "couches",
+            "ref": "56:15",
+            "verse": "عَلَىٰ سُرُرٍۢ مَّوْضُونَةٍۢ",
+            "verseEn": "On thrones woven [with ornament],"
+          },
+          {
+            "ar": "الْأَرَائِكِ",
+            "en": "sofas",
+            "ref": "36:56",
+            "verse": "هُمْ وَأَزْوَٰجُهُمْ فِى ظِلَـٰلٍ عَلَى ٱلْأَرَآئِكِ مُتَّكِـُٔونَ",
+            "verseEn": "They and their spouses - in shade, reclining on adorned couches."
+          },
+          {
+            "ar": "فُرُشٍ",
+            "en": "beddings",
+            "ref": "56:34",
+            "verse": "وَفُرُشٍۢ مَّرْفُوعَةٍ",
+            "verseEn": "And [upon] beds raised high."
+          },
+          {
+            "ar": "نَمَارِقُ",
+            "en": "cushions",
+            "ref": "88:15",
+            "verse": "وَنَمَارِقُ مَصْفُوفَةٌۭ",
+            "verseEn": "And cushions lined up"
+          }
+        ]
+      },
+      {
+        "name": "مَصَادِرُ الضِّيَاءِ فِي الْقُرْآنِ",
+        "nameEn": "Sources of Light in the Quran",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "ضِيَاءً",
+            "en": "brightness / intense light",
+            "ref": "10:5",
+            "verse": "هُوَ ٱلَّذِى جَعَلَ ٱلشَّمْسَ ضِيَآءًۭ وَٱلْقَمَرَ نُورًۭا وَقَدَّرَهُۥ مَنَازِلَ لِتَعْلَمُوا۟ عَدَدَ ٱلسِّنِينَ وَٱلْحِسَابَ ۚ مَا خَلَقَ ٱللَّهُ ذَٰلِكَ إِلَّا بِٱلْحَقِّ ۚ يُفَصِّلُ ٱلْـَٔايَـٰتِ لِقَوْمٍۢ يَعْلَمُونَ",
+            "verseEn": "It is He who made the sun a shining light and the moon a derived light and determined for it phases - that you may know the number of years and account [of time]. Allāh has not created this except in truth. He details the signs for a people who know."
+          },
+          {
+            "ar": "نُورٍ",
+            "en": "light (spiritual / physical)",
+            "ref": "39:22",
+            "verse": "أَفَمَن شَرَحَ ٱللَّهُ صَدْرَهُۥ لِلْإِسْلَـٰمِ فَهُوَ عَلَىٰ نُورٍۢ مِّن رَّبِّهِۦ ۚ فَوَيْلٌۭ لِّلْقَـٰسِيَةِ قُلُوبُهُم مِّن ذِكْرِ ٱللَّهِ ۚ أُو۟لَـٰٓئِكَ فِى ضَلَـٰلٍۢ مُّبِينٍ",
+            "verseEn": "So is one whose breast Allāh has expanded to [accept] Islām and he is upon [i.e., guided by] a light from his Lord [like one whose heart rejects it]? Then woe to those whose hearts are hardened against the remembrance of Allāh. Those are in manifest error."
+          },
+          {
+            "ar": "سِرَاجًا",
+            "en": "lamp (luminous heavenly body)",
+            "ref": "25:61",
+            "verse": "تَبَارَكَ ٱلَّذِى جَعَلَ فِى ٱلسَّمَآءِ بُرُوجًۭا وَجَعَلَ فِيهَا سِرَٰجًۭا وَقَمَرًۭا مُّنِيرًۭا",
+            "verseEn": "Blessed is He who has placed in the sky great stars and placed therein a [burning] lamp and luminous moon."
+          },
+          {
+            "ar": "شِهَابٌ",
+            "en": "flaming meteor / shooting star",
+            "ref": "15:18",
+            "verse": "إِلَّا مَنِ ٱسْتَرَقَ ٱلسَّمْعَ فَأَتْبَعَهُۥ شِهَابٌۭ مُّبِينٌۭ",
+            "verseEn": "Except one who steals a hearing and is pursued by a clear burning flame."
+          }
+        ]
+      },
+      {
+        "name": "اِسْتِعَارَاتٌ بِنَائِيَّةٌ لِلْكَوْنِ",
+        "nameEn": "Cosmic Architectural Metaphors",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "عَمَدٍ",
+            "en": "pillars",
+            "ref": "31:10",
+            "verse": "خَلَقَ ٱلسَّمَـٰوَٰتِ بِغَيْرِ عَمَدٍۢ تَرَوْنَهَا ۖ وَأَلْقَىٰ فِى ٱلْأَرْضِ رَوَٰسِىَ أَن تَمِيدَ بِكُمْ وَبَثَّ فِيهَا مِن كُلِّ دَآبَّةٍۢ ۚ وَأَنزَلْنَا مِنَ ٱلسَّمَآءِ مَآءًۭ فَأَنۢبَتْنَا فِيهَا مِن كُلِّ زَوْجٍۢ كَرِيمٍ",
+            "verseEn": "He created the heavens without pillars that you see and has cast into the earth firmly set mountains, lest it should shift with you, and dispersed therein from every creature. And We sent down rain from the sky and made grow therein [plants] of every noble kind."
+          },
+          {
+            "ar": "بِسَاطًا",
+            "en": "carpet",
+            "ref": "71:19",
+            "verse": "وَٱللَّهُ جَعَلَ لَكُمُ ٱلْأَرْضَ بِسَاطًۭا",
+            "verseEn": "And Allāh has made for you the earth an expanse"
+          },
+          {
+            "ar": "رَوَاسِيَ",
+            "en": "firm mountains",
+            "ref": "50:7",
+            "verse": "وَٱلْأَرْضَ مَدَدْنَـٰهَا وَأَلْقَيْنَا فِيهَا رَوَٰسِىَ وَأَنۢبَتْنَا فِيهَا مِن كُلِّ زَوْجٍۭ بَهِيجٍۢ",
+            "verseEn": "And the earth - We spread it out and cast therein firmly set mountains and made grow therein [something] of every beautiful kind,"
+          },
+          {
+            "ar": "الْحُبُكِ",
+            "en": "woven tracks",
+            "ref": "51:7",
+            "verse": "وَٱلسَّمَآءِ ذَاتِ ٱلْحُبُكِ",
+            "verseEn": "By the heaven containing pathways,"
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "رحمة",
+    "display": "رَحْمَة",
+    "hint": "A divine attribute derived from the word for 'womb', often paired with forgiveness.",
+    "verseRef": "6:12",
+    "arabicVerse": "قُل لِّمَن مَّا فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ قُل لِّلَّهِ ۚ كَتَبَ عَلَىٰ نَفْسِهِ ٱلرَّحْمَةَ ۚ لَيَجْمَعَنَّكُمْ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ لَا رَيْبَ فِيهِ ۚ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُمْ فَهُمْ لَا يُؤْمِنُونَ",
+    "verse": "6:12 - Say, \"To whom belongs whatever is in the heavens and earth?\" Say, \"To Allāh.\" He has decreed upon Himself mercy. He will surely assemble you for the Day of Resurrection, about which there is no doubt. Those who will lose themselves [that Day] do not believe."
+  },
+  "deduction": {
+    "title": "The Echo from the Edge of the City",
+    "intro": "In a city that turned away from divine guidance, a solitary figure emerged from the outskirts, racing with a message of hope and warning. This forgotten soul would become an eternal symbol of steadfast faith.",
+    "clues": [
+      "I witnessed messengers being sent to my city, but my people dismissed them as ordinary humans.",
+      "I believed in their message and felt the truth resonate within my being.",
+      "I called upon my people to obey the messengers who asked for no reward.",
+      "I ran from the farthest end of the city, urgently trying to make them see reason.",
+      "My people rose up against me, and I was slain, but I found eternal peace.",
+      "Allah said to me, 'Enter Paradise,' and I wished my people could witness the honor bestowed upon me."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "The Believer of Ya-Sin",
+          "Uzair the Questioner",
+          "Al-Khidr the Guide",
+          "The Believer of Pharaoh’s Family",
+          "Namrud the Tyrant"
+        ],
+        "answer": "The Believer of Ya-Sin"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "Confronting a disbelieving people who slew him",
+          "Being thrown into a blazing fire",
+          "Being swallowed by a great fish",
+          "Constructing a massive ark",
+          "Fleeing from a tyrant’s army"
+        ],
+        "answer": "Confronting a disbelieving people who slew him"
+      },
+      "location": {
+        "label": "Key Location",
+        "options": [
+          "The farthest end of the city",
+          "The mountain of Tur",
+          "The Valley of Ants",
+          "The banks of the Nile",
+          "The cavern of the cave"
+        ],
+        "answer": "The farthest end of the city"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "Martyrdom and immediate entry into Paradise",
+          "Escape and salvation",
+          "Ascension to the heavens",
+          "Drowning in the sea",
+          "Turning into stone"
+        ],
+        "answer": "Martyrdom and immediate entry into Paradise"
+      }
+    },
+    "verseRef": "36:26",
+    "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+    "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+  },
+  "scramble": {
+    "verseRef": "95:4",
+    "reference": "Surah At-Tin (95:4)",
+    "segments": [
+      "لَقَدْ",
+      "خَلَقْنَا",
+      "الْإِنسَانَ",
+      "فِي",
+      "أَحْسَنِ تَقْوِيمٍ"
+    ],
+    "translations": [
+      "Indeed We created",
+      "man",
+      "in",
+      "(the) best",
+      "mould"
+    ],
+    "hint": "This verse highlights the beautiful and flawless design with which Allah created humans.",
+    "arabic": "لَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ فِىٓ أَحْسَنِ تَقْوِيمٍۢ",
+    "words": [
+      "لَقَدْ خَلَقْنَا",
+      "ٱلْإِنسَـٰنَ",
+      "فِىٓ",
+      "أَحْسَنِ",
+      "تَقْوِيمٍۢ"
+    ],
+    "verseEn": "We have certainly created man in the best of stature;"
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَصْنَافُ الطَّعَامِ فِي الْقُرْآنِ",
+        "nameEn": "Common Food Items Mentioned in the Quran",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "لَبَنًا",
+            "en": "milk",
+            "ref": "16:66",
+            "verse": "وَإِنَّ لَكُمْ فِى ٱلْأَنْعَـٰمِ لَعِبْرَةًۭ ۖ نُّسْقِيكُم مِّمَّا فِى بُطُونِهِۦ مِنۢ بَيْنِ فَرْثٍۢ وَدَمٍۢ لَّبَنًا خَالِصًۭا سَآئِغًۭا لِّلشَّـٰرِبِينَ",
+            "verseEn": "And indeed, for you in grazing livestock is a lesson. We give you drink from what is in their bellies - between excretion and blood - pure milk, palatable to drinkers."
+          },
+          {
+            "ar": "خُبْزًا",
+            "en": "bread",
+            "ref": "12:36",
+            "verse": "وَدَخَلَ مَعَهُ ٱلسِّجْنَ فَتَيَانِ ۖ قَالَ أَحَدُهُمَآ إِنِّىٓ أَرَىٰنِىٓ أَعْصِرُ خَمْرًۭا ۖ وَقَالَ ٱلْـَٔاخَرُ إِنِّىٓ أَرَىٰنِىٓ أَحْمِلُ فَوْقَ رَأْسِى خُبْزًۭا تَأْكُلُ ٱلطَّيْرُ مِنْهُ ۖ نَبِّئْنَا بِتَأْوِيلِهِۦٓ ۖ إِنَّا نَرَىٰكَ مِنَ ٱلْمُحْسِنِينَ",
+            "verseEn": "And there entered the prison with him two young men. One of them said, \"Indeed, I have seen myself [in a dream] pressing [grapes for] wine.\" The other said, \"Indeed, I have seen myself carrying upon my head [some] bread, from which the birds were eating. Inform us of its interpretation; indeed, we see you to be of those who do good.\""
+          },
+          {
+            "ar": "تِينٍ",
+            "en": "figs",
+            "ref": "95:1",
+            "verse": "وَٱلتِّينِ وَٱلزَّيْتُونِ",
+            "verseEn": "By the fig and the olive"
+          },
+          {
+            "ar": "بَصَلِهَا",
+            "en": "onions",
+            "ref": "2:61",
+            "verse": "وَإِذْ قُلْتُمْ يَـٰمُوسَىٰ لَن نَّصْبِرَ عَلَىٰ طَعَامٍۢ وَٰحِدٍۢ فَٱدْعُ لَنَا رَبَّكَ يُخْرِجْ لَنَا مِمَّا تُنۢبِتُ ٱلْأَرْضُ مِنۢ بَقْلِهَا وَقِثَّآئِهَا وَفُومِهَا وَعَدَسِهَا وَبَصَلِهَا ۖ قَالَ أَتَسْتَبْدِلُونَ ٱلَّذِى هُوَ أَدْنَىٰ بِٱلَّذِى هُوَ خَيْرٌ ۚ ٱهْبِطُوا۟ مِصْرًۭا فَإِنَّ لَكُم مَّا سَأَلْتُمْ ۗ وَضُرِبَتْ عَلَيْهِمُ ٱلذِّلَّةُ وَٱلْمَسْكَنَةُ وَبَآءُو بِغَضَبٍۢ مِّنَ ٱللَّهِ ۗ ذَٰلِكَ بِأَنَّهُمْ كَانُوا۟ يَكْفُرُونَ بِـَٔايَـٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلنَّبِيِّـۧنَ بِغَيْرِ ٱلْحَقِّ ۗ ذَٰلِكَ بِمَا عَصَوا۟ وَّكَانُوا۟ يَعْتَدُونَ",
+            "verseEn": "And [recall] when you said, \"O Moses, we can never endure one [kind of] food. So call upon your Lord to bring forth for us from the earth its green herbs and its cucumbers and its garlic and its lentils and its onions.\" [Moses] said, \"Would you exchange what is better for what is less? Go into [any] settlement and indeed, you will have what you have asked.\" And they were covered with humiliation and poverty and returned with anger from Allāh [upon them]. That was because they [repeatedly] disbelieved in the signs of Allāh and killed the prophets without right. That was because they disobeyed and were [habitually] transgressing."
+          }
+        ]
+      },
+      {
+        "name": "صِفَاتُ ٱلْمُؤْمِنِينَ ٱلصَّالِحِينَ",
+        "nameEn": "Qualities of the Righteous Believers",
+        "color": "green",
+        "items": [
+          {
+            "ar": "الْخَاشِعِينَ",
+            "en": "the humble",
+            "ref": "33:35",
+            "verse": "إِنَّ ٱلْمُسْلِمِينَ وَٱلْمُسْلِمَـٰتِ وَٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ وَٱلْقَـٰنِتِينَ وَٱلْقَـٰنِتَـٰتِ وَٱلصَّـٰدِقِينَ وَٱلصَّـٰدِقَـٰتِ وَٱلصَّـٰبِرِينَ وَٱلصَّـٰبِرَٰتِ وَٱلْخَـٰشِعِينَ وَٱلْخَـٰشِعَـٰتِ وَٱلْمُتَصَدِّقِينَ وَٱلْمُتَصَدِّقَـٰتِ وَٱلصَّـٰٓئِمِينَ وَٱلصَّـٰٓئِمَـٰتِ وَٱلْحَـٰفِظِينَ فُرُوجَهُمْ وَٱلْحَـٰفِظَـٰتِ وَٱلذَّٰكِرِينَ ٱللَّهَ كَثِيرًۭا وَٱلذَّٰكِرَٰتِ أَعَدَّ ٱللَّهُ لَهُم مَّغْفِرَةًۭ وَأَجْرًا عَظِيمًۭا",
+            "verseEn": "Indeed, the Muslim men and Muslim women, the believing men and believing women, the obedient men and obedient women, the truthful men and truthful women, the patient men and patient women, the humble men and humble women, the charitable men and charitable women, the fasting men and fasting women, the men who guard their private parts and the women who do so, and the men who remember Allāh often and the women who do so - for them Allāh has prepared forgiveness and a great reward."
+          },
+          {
+            "ar": "قَانِتَاتٍ",
+            "en": "devoutly obedient",
+            "ref": "66:5",
+            "verse": "عَسَىٰ رَبُّهُۥٓ إِن طَلَّقَكُنَّ أَن يُبْدِلَهُۥٓ أَزْوَٰجًا خَيْرًۭا مِّنكُنَّ مُسْلِمَـٰتٍۢ مُّؤْمِنَـٰتٍۢ قَـٰنِتَـٰتٍۢ تَـٰٓئِبَـٰتٍ عَـٰبِدَٰتٍۢ سَـٰٓئِحَـٰتٍۢ ثَيِّبَـٰتٍۢ وَأَبْكَارًۭا",
+            "verseEn": "Perhaps his Lord, if he divorced you [all], would substitute for him wives better than you - submitting [to Allāh], believing, devoutly obedient, repentant, worshipping, and traveling - [ones] previously married and virgins."
+          },
+          {
+            "ar": "أَخْبَتُوا",
+            "en": "they humbled themselves",
+            "ref": "11:23",
+            "verse": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَأَخْبَتُوٓا۟ إِلَىٰ رَبِّهِمْ أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلْجَنَّةِ ۖ هُمْ فِيهَا خَـٰلِدُونَ",
+            "verseEn": "Indeed, they who have believed and done righteous deeds and humbled themselves to their Lord - those are the companions of Paradise; they will abide eternally therein."
+          },
+          {
+            "ar": "الْمُحْسِنِينَ",
+            "en": "the good-doers",
+            "ref": "2:195",
+            "verse": "وَأَنفِقُوا۟ فِى سَبِيلِ ٱللَّهِ وَلَا تُلْقُوا۟ بِأَيْدِيكُمْ إِلَى ٱلتَّهْلُكَةِ ۛ وَأَحْسِنُوٓا۟ ۛ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُحْسِنِينَ",
+            "verseEn": "And spend in the way of Allāh and do not throw [yourselves] with your [own] hands into destruction [by refraining]. And do good; indeed, Allāh loves the doers of good."
+          }
+        ]
+      },
+      {
+        "name": "التَّدْبِيرُ وَالْقَضَاءُ الإِلَهِيُّ",
+        "nameEn": "Divine Governance and Decree",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "وَيُهْلِكَ",
+            "en": "and destroys",
+            "ref": "2:205",
+            "verse": "وَإِذَا تَوَلَّىٰ سَعَىٰ فِى ٱلْأَرْضِ لِيُفْسِدَ فِيهَا وَيُهْلِكَ ٱلْحَرْثَ وَٱلنَّسْلَ ۗ وَٱللَّهُ لَا يُحِبُّ ٱلْفَسَادَ",
+            "verseEn": "And when he goes away, he strives throughout the land to cause corruption therein and destroy crops and animals. And Allāh does not like corruption."
+          },
+          {
+            "ar": "يُفَصِّلُ",
+            "en": "He explains in detail",
+            "ref": "13:2",
+            "verse": "ٱللَّهُ ٱلَّذِى رَفَعَ ٱلسَّمَـٰوَٰتِ بِغَيْرِ عَمَدٍۢ تَرَوْنَهَا ۖ ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ ۖ وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ ۖ كُلٌّۭ يَجْرِى لِأَجَلٍۢ مُّسَمًّۭى ۚ يُدَبِّرُ ٱلْأَمْرَ يُفَصِّلُ ٱلْـَٔايَـٰتِ لَعَلَّكُم بِلِقَآءِ رَبِّكُمْ تُوقِنُونَ",
+            "verseEn": "It is Allāh who erected the heavens without pillars that you [can] see; then He established Himself above the Throne and made subject the sun and the moon, each running [its course] for a specified term. He arranges [each] matter; He details the signs that you may, of the meeting with your Lord, be certain."
+          },
+          {
+            "ar": "يُدَبِّرُ",
+            "en": "He governs",
+            "ref": "32:5",
+            "verse": "يُدَبِّرُ ٱلْأَمْرَ مِنَ ٱلسَّمَآءِ إِلَى ٱلْأَرْضِ ثُمَّ يَعْرُجُ إِلَيْهِ فِى يَوْمٍۢ كَانَ مِقْدَارُهُۥٓ أَلْفَ سَنَةٍۢ مِّمَّا تَعُدُّونَ",
+            "verseEn": "He arranges [each] matter from the heaven to the earth; then it will ascend to Him in a Day, the extent of which is a thousand years of those which you count."
+          },
+          {
+            "ar": "يَمْحُو",
+            "en": "He erases",
+            "ref": "13:39",
+            "verse": "يَمْحُوا۟ ٱللَّهُ مَا يَشَآءُ وَيُثْبِتُ ۖ وَعِندَهُۥٓ أُمُّ ٱلْكِتَـٰبِ",
+            "verseEn": "Allāh eliminates what He wills or confirms, and with Him is the Mother of the Book."
+          }
+        ]
+      },
+      {
+        "name": "حالات الوجود: من الخمود إلى الإحياء",
+        "nameEn": "States of Being: From Inactivity to Revival",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "أَمْوَٰتًۭا",
+            "en": "dead",
+            "ref": "2:28",
+            "verse": "كَيْفَ تَكْفُرُونَ بِٱللَّهِ وَكُنتُمْ أَمْوَٰتًۭا فَأَحْيَـٰكُمْ ۖ ثُمَّ يُمِيتُكُمْ ثُمَّ يُحْيِيكُمْ ثُمَّ إِلَيْهِ تُرْجَعُونَ",
+            "verseEn": "How can you disbelieve in Allāh when you were lifeless and He brought you to life; then He will cause you to die, then He will bring you [back] to life, and then to Him you will be returned."
+          },
+          {
+            "ar": "حَىٍّۢ",
+            "en": "living",
+            "ref": "21:30",
+            "verse": "أَوَلَمْ يَرَ ٱلَّذِينَ كَفَرُوٓا۟ أَنَّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ كَانَتَا رَتْقًۭا فَفَتَقْنَـٰهُمَا ۖ وَجَعَلْنَا مِنَ ٱلْمَآءِ كُلَّ شَىْءٍ حَىٍّ ۖ أَفَلَا يُؤْمِنُونَ",
+            "verseEn": "Have those who disbelieved not considered that the heavens and the earth were a joined entity, and then We separated them and made from water every living thing? Then will they not believe?"
+          },
+          {
+            "ar": "يَبْعَثُهُمُ",
+            "en": "He will resurrect them",
+            "ref": "6:36",
+            "verse": "۞ إِنَّمَا يَسْتَجِيبُ ٱلَّذِينَ يَسْمَعُونَ ۘ وَٱلْمَوْتَىٰ يَبْعَثُهُمُ ٱللَّهُ ثُمَّ إِلَيْهِ يُرْجَعُونَ",
+            "verseEn": "Only those who hear will respond. But the dead - Allāh will resurrect them; then to Him they will be returned."
+          },
+          {
+            "ar": "نُشُورًۭا",
+            "en": "a spreading forth (or resurrection)",
+            "ref": "25:47",
+            "verse": "وَهُوَ ٱلَّذِى جَعَلَ لَكُمُ ٱلَّيْلَ لِبَاسًۭا وَٱلنَّوْمَ سُبَاتًۭا وَجَعَلَ ٱلنَّهَارَ نُشُورًۭا",
+            "verseEn": "And it is He who has made the night for you as clothing and sleep [a means for] rest and has made the day a resurrection."
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "سبيل",
+    "display": "سَبِيل",
+    "hint": "It refers to a path or way, often associated with the divine or a cause.",
+    "verseRef": "2:154",
+    "arabicVerse": "وَلَا تَقُولُوا۟ لِمَن يُقْتَلُ فِى سَبِيلِ ٱللَّهِ أَمْوَٰتٌۢ ۚ بَلْ أَحْيَآءٌۭ وَلَـٰكِن لَّا تَشْعُرُونَ",
+    "verse": "2:154 — And do not say about those who are killed in the way of Allāh, \"They are dead.\" Rather, they are alive, but you perceive [it] not."
+  },
+  "deduction": {
+    "title": "The Architect of Arrogance",
+    "intro": "In an ancient land ruled by a defiant power, a key individual held a position of influence. This soul was instrumental in the ruler's grand schemes, contributing to their oppressive reign and challenging the divine message. Their legacy is intertwined with a pursuit of worldly might and a denial of truth.",
+    "clues": [
+      "I served a formidable ruler who oppressed a people for generations.",
+      "My name is frequently mentioned in the Divine Book alongside this powerful leader.",
+      "I was tasked with a grand construction project, a towering structure meant to reach the heavens.",
+      "I advised my master to slay the sons of the Children of Israel and spare their daughters.",
+      "I was involved in plots and conspiracies against a mighty messenger of Allah.",
+      "My end, along with my master and his army, came in the waters of a vast sea."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Nimrod",
+          "Abrahah",
+          "Goliath",
+          "Iblis",
+          "Haman"
+        ],
+        "answer": "Haman"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "Being tested with immense wealth",
+          "Leading an army against a sacred house",
+          "Building a tower to reach God",
+          "Being thrown into a fire for their belief",
+          "Being cast into a well by siblings"
+        ],
+        "answer": "Building a tower to reach God"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "The Ark",
+          "The Staff",
+          "The Mountain",
+          "The Tower",
+          "The Whale"
+        ],
+        "answer": "The Tower"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "Being granted immense wisdom",
+          "Becoming a prophet",
+          "Being swallowed by the earth",
+          "Being granted a kingdom",
+          "Drowning in the sea"
+        ],
+        "answer": "Drowning in the sea"
+      }
+    },
+    "verseRef": "40:36-37",
+    "arabic": "",
+    "verse": "40:36-37"
+  },
+  "scramble": {
+    "verseRef": "61:4",
+    "reference": "As-Saff (61:4)",
+    "segments": [
+      "إِنَّ اللَّهَ",
+      "يُحِبُّ الَّذِينَ",
+      "يُقَاتِلُونَ فِي",
+      "سَبِيلِهِ صَفًّا",
+      "كَأَنَّهُم",
+      "بُنْيَانٌ مَّرْصُوصٌ"
+    ],
+    "translations": [
+      "Indeed Allah",
+      "loves those who",
+      "fight in",
+      "His Way (in) a row",
+      "as if they (were) a structure",
+      "joined firmly"
+    ],
+    "hint": "This verse describes the beloved quality of unity and steadfastness in striving for a noble cause.",
+    "arabic": "إِنَّ ٱللَّهَ يُحِبُّ ٱلَّذِينَ يُقَـٰتِلُونَ فِى سَبِيلِهِۦ صَفًّۭا كَأَنَّهُم بُنْيَـٰنٌۭ مَّرْصُوصٌۭ",
+    "words": [
+      "إِنَّ ٱللَّهَ",
+      "يُحِبُّ ٱلَّذِينَ",
+      "يُقَـٰتِلُونَ فِى",
+      "سَبِيلِهِۦ صَفًّۭا",
+      "كَأَنَّهُم بُنْيَـٰنٌۭ",
+      "مَّرْصُوصٌۭ"
+    ],
+    "verseEn": "Indeed, Allāh loves those who fight in His cause in a row as though they are a [single] structure joined firmly."
+  }
+}

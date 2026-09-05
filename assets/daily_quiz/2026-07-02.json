@@ -1,0 +1,240 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَجْزَاءُ الجِسْمِ",
+        "nameEn": "Parts of the Human Body",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "يَدَكَ",
+            "en": "hand",
+            "ref": "5:28",
+            "verse": "لَئِنۢ بَسَطتَ إِلَىَّ يَدَكَ لِتَقْتُلَنِى مَآ أَنَا۠ بِبَاسِطٍۢ يَدِىَ إِلَيْكَ لِأَقْتُلَكَ ۖ إِنِّىٓ أَخَافُ ٱللَّهَ رَبَّ ٱلْعَـٰلَمِينَ",
+            "verseEn": "If you should raise your hand toward me to kill me - I shall not raise my hand toward you to kill you. Indeed, I fear Allāh, Lord of the worlds."
+          },
+          {
+            "ar": "عَيْنٍ",
+            "en": "eye",
+            "ref": "28:9",
+            "verse": "وَقَالَتِ ٱمْرَأَتُ فِرْعَوْنَ قُرَّتُ عَيْنٍۢ لِّى وَلَكَ ۖ لَا تَقْتُلُوهُ عَسَىٰٓ أَن يَنفَعَنَآ أَوْ نَتَّخِذَهُۥ وَلَدًۭا وَهُمْ لَا يَشْعُرُونَ",
+            "verseEn": "And the wife of Pharaoh said, \"[He will be] a comfort of the eye [i.e., pleasure] for me and for you. Do not kill him; perhaps he may benefit us, or we may adopt him as a son.\" And they perceived not."
+          },
+          {
+            "ar": "أَرْجُلَكُمْ",
+            "en": "feet",
+            "ref": "5:6",
+            "verse": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا قُمْتُمْ إِلَى ٱلصَّلَوٰةِ فَٱغْسِلُوا۟ وُجُوهَكُمْ وَأَيْدِيَكُمْ إِلَى ٱلْمَرَافِقِ وَٱمْسَحُوا۟ بِرُءُوسِكُمْ وَأَرْجُلَكُمْ إِلَى ٱلْكَعْبَيْنِ ۚ وَإِن كُنتُمْ جُنُبًۭا فَٱطَّهَّرُوا۟ ۚ وَإِن كُنتُم مَّرْضَىٰٓ أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌۭ مِّنكُم مِّنَ ٱلْغَآئِطِ أَوْ لَـٰمَسْتُمُ ٱلنِّسَآءَ فَلَمْ تَجِدُوا۟ مَآءًۭ فَتَيَمَّمُوا۟ صَعِيدًۭا طَيِّبًۭا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُم مِّنْهُ ۚ مَا يُرِيدُ ٱللَّهُ لِيَجْعَلَ عَلَيْكُم مِّنْ حَرَجٍۢ وَلَـٰكِن يُرِيدُ لِيُطَهِّرَكُمْ وَلِيُتِمَّ نِعْمَتَهُۥ عَلَيْكُمْ لَعَلَّكُمْ تَشْكُرُونَ",
+            "verseEn": "O you who have believed, when you rise to [perform] prayer, wash your faces and your forearms to the elbows and wipe over your heads and wash your feet to the ankles. And if you are in a state of janābah, then purify yourselves. But if you are ill or on a journey or one of you comes from the place of relieving himself or you have contacted women and do not find water, then seek clean earth and wipe over your faces and hands with it. Allāh does not intend to make difficulty for you, but He intends to purify you and complete His favor upon you that you may be grateful."
+          },
+          {
+            "ar": "وَجْهَهُ",
+            "en": "face",
+            "ref": "2:112",
+            "verse": "بَلَىٰ مَنْ أَسْلَمَ وَجْهَهُۥ لِلَّهِ وَهُوَ مُحْسِنٌۭ فَلَهُۥٓ أَجْرُهُۥ عِندَ رَبِّهِۦ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+            "verseEn": "Yes, [on the contrary], whoever submits his face [i.e., self] in Islām to Allāh while being a doer of good will have his reward with his Lord. And no fear will there be concerning them, nor will they grieve."
+          }
+        ]
+      },
+      {
+        "name": "مَوْصُوفَاتٌ بِالْعَظِيمِ",
+        "nameEn": "Things Described as 'Great' (ʿAẓīm)",
+        "color": "green",
+        "items": [
+          {
+            "ar": "عَذَابٌ",
+            "en": "punishment",
+            "ref": "5:33",
+            "verse": "إِنَّمَا جَزَٰٓؤُا۟ ٱلَّذِينَ يُحَارِبُونَ ٱللَّهَ وَرَسُولَهُۥ وَيَسْعَوْنَ فِى ٱلْأَرْضِ فَسَادًا أَن يُقَتَّلُوٓا۟ أَوْ يُصَلَّبُوٓا۟ أَوْ تُقَطَّعَ أَيْدِيهِمْ وَأَرْجُلُهُم مِّنْ خِلَـٰفٍ أَوْ يُنفَوْا۟ مِنَ ٱلْأَرْضِ ۚ ذَٰلِكَ لَهُمْ خِزْىٌۭ فِى ٱلدُّنْيَا ۖ وَلَهُمْ فِى ٱلْـَٔاخِرَةِ عَذَابٌ عَظِيمٌ",
+            "verseEn": "Indeed, the penalty for those who wage war against Allāh and His Messenger and strive upon earth [to cause] corruption is none but that they be killed or crucified or that their hands and feet be cut off from opposite sides or that they be exiled from the land. That is for them a disgrace in this world; and for them in the Hereafter is a great punishment,"
+          },
+          {
+            "ar": "أَجْرٌ",
+            "en": "reward",
+            "ref": "3:172",
+            "verse": "ٱلَّذِينَ ٱسْتَجَابُوا۟ لِلَّهِ وَٱلرَّسُولِ مِنۢ بَعْدِ مَآ أَصَابَهُمُ ٱلْقَرْحُ ۚ لِلَّذِينَ أَحْسَنُوا۟ مِنْهُمْ وَٱتَّقَوْا۟ أَجْرٌ عَظِيمٌ",
+            "verseEn": "Those [believers] who responded to Allāh and the Messenger after injury had struck them. For those who did good among them and feared Allāh is a great reward -"
+          },
+          {
+            "ar": "الْعَرْشِ",
+            "en": "throne",
+            "ref": "9:129",
+            "verse": "فَإِن تَوَلَّوْا۟ فَقُلْ حَسْبِىَ ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ۖ عَلَيْهِ تَوَكَّلْتُ ۖ وَهُوَ رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ",
+            "verseEn": "But if they turn away, [O Muḥammad], say, \"Sufficient for me is Allāh; there is no deity except Him. On Him I have relied, and He is the Lord of the Great Throne.\""
+          },
+          {
+            "ar": "فَضْلُ",
+            "en": "bounty",
+            "ref": "4:113",
+            "verse": "وَلَوْلَا فَضْلُ ٱللَّهِ عَلَيْكَ وَرَحْمَتُهُۥ لَهَمَّت طَّآئِفَةٌۭ مِّنْهُمْ أَن يُضِلُّوكَ وَمَا يُضِلُّونَ إِلَّآ أَنفُسَهُمْ ۖ وَمَا يَضُرُّونَكَ مِن شَىْءٍۢ ۚ وَأَنزَلَ ٱللَّهُ عَلَيْكَ ٱلْكِتَـٰبَ وَٱلْحِكْمَةَ وَعَلَّمَكَ مَا لَمْ تَكُن تَعْلَمُ ۚ وَكَانَ فَضْلُ ٱللَّهِ عَلَيْكَ عَظِيمًۭا",
+            "verseEn": "And if it was not for the favor of Allāh upon you, [O Muḥammad], and His mercy, a group of them would have determined to mislead you. But they do not mislead except themselves, and they will not harm you at all. And Allāh has revealed to you the Book and wisdom and has taught you that which you did not know. And ever has the favor of Allāh upon you been great."
+          }
+        ]
+      },
+      {
+        "name": "مِنَحُ الْحَيَاةِ الْيَوْمِيَّةِ فِي سُورَةِ النَّبَإِ",
+        "nameEn": "Divine Provisions for Human Comfort in Surah An-Naba'",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "أَزْوَاجًا",
+            "en": "spouses / pairs",
+            "ref": "78:8",
+            "verse": "وَخَلَقْنَـٰكُمْ أَزْوَٰجًۭا",
+            "verseEn": "And We created you in pairs."
+          },
+          {
+            "ar": "سُبَاتًا",
+            "en": "rest / sleep",
+            "ref": "78:9",
+            "verse": "وَجَعَلْنَا نَوْمَكُمْ سُبَاتًۭا",
+            "verseEn": "And made your sleep [a means for] rest"
+          },
+          {
+            "ar": "لِبَاسًا",
+            "en": "covering / garment",
+            "ref": "78:10",
+            "verse": "وَجَعَلْنَا ٱلَّيْلَ لِبَاسًۭا",
+            "verseEn": "And made the night as clothing."
+          },
+          {
+            "ar": "مَعَاشًا",
+            "en": "livelihood",
+            "ref": "78:11",
+            "verse": "وَجَعَلْنَا ٱلنَّهَارَ مَعَاشًۭا",
+            "verseEn": "And made the day for livelihood."
+          }
+        ]
+      },
+      {
+        "name": "مُصْطَلَحَاتُ الْوَلَاءِ وَالْبَرَاءِ فِي سُورَةِ الْمُمْتَحِنَةِ",
+        "nameEn": "Terms of Loyalty and Enmity in Surah Al-Mumtahanah",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "أَوْلِيَاءَ",
+            "en": "allies",
+            "ref": "60:1",
+            "verse": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوا۟ عَدُوِّى وَعَدُوَّكُمْ أَوْلِيَآءَ تُلْقُونَ إِلَيْهِم بِٱلْمَوَدَّةِ وَقَدْ كَفَرُوا۟ بِمَا جَآءَكُم مِّنَ ٱلْحَقِّ يُخْرِجُونَ ٱلرَّسُولَ وَإِيَّاكُمْ ۙ أَن تُؤْمِنُوا۟ بِٱللَّهِ رَبِّكُمْ إِن كُنتُمْ خَرَجْتُمْ جِهَـٰدًۭا فِى سَبِيلِى وَٱبْتِغَآءَ مَرْضَاتِى ۚ تُسِرُّونَ إِلَيْهِم بِٱلْمَوَدَّةِ وَأَنَا۠ أَعْلَمُ بِمَآ أَخْفَيْتُمْ وَمَآ أَعْلَنتُمْ ۚ وَمَن يَفْعَلْهُ مِنكُمْ فَقَدْ ضَلَّ سَوَآءَ ٱلسَّبِيلِ",
+            "verseEn": "O you who have believed, do not take My enemies and your enemies as allies, extending to them affection while they have disbelieved in what came to you of the truth, having driven out the Prophet and yourselves [only] because you believe in Allāh, your Lord. If you have come out for jihād [i.e., fighting or striving] in My cause and seeking means to My approval, [take them not as friends]. You confide to them affection [i.e., instruction], but I am most knowing of what you have concealed and what you have declared. And whoever does it among you has certainly strayed from the soundness of the way."
+          },
+          {
+            "ar": "أَعْدَاءً",
+            "en": "enemies",
+            "ref": "60:2",
+            "verse": "إِن يَثْقَفُوكُمْ يَكُونُوا۟ لَكُمْ أَعْدَآءًۭ وَيَبْسُطُوٓا۟ إِلَيْكُمْ أَيْدِيَهُمْ وَأَلْسِنَتَهُم بِٱلسُّوٓءِ وَوَدُّوا۟ لَوْ تَكْفُرُونَ",
+            "verseEn": "If they gain dominance over you, they would be [i.e., behave] to you as enemies and extend against you their hands and their tongues with evil, and they wish you would disbelieve."
+          },
+          {
+            "ar": "أُسْوَةٌ",
+            "en": "example",
+            "ref": "60:4",
+            "verse": "قَدْ كَانَتْ لَكُمْ أُسْوَةٌ حَسَنَةٌۭ فِىٓ إِبْرَٰهِيمَ وَٱلَّذِينَ مَعَهُۥٓ إِذْ قَالُوا۟ لِقَوْمِهِمْ إِنَّا بُرَءَٰٓؤُا۟ مِنكُمْ وَمِمَّا تَعْبُدُونَ مِن دُونِ ٱللَّهِ كَفَرْنَا بِكُمْ وَبَدَا بَيْنَنَا وَبَيْنَكُمُ ٱلْعَدَٰوَةُ وَٱلْبَغْضَآءُ أَبَدًا حَتَّىٰ تُؤْمِنُوا۟ بِٱللَّهِ وَحْدَهُۥٓ إِلَّا قَوْلَ إِبْرَٰهِيمَ لِأَبِيهِ لَأَسْتَغْفِرَنَّ لَكَ وَمَآ أَمْلِكُ لَكَ مِنَ ٱللَّهِ مِن شَىْءٍۢ ۖ رَّبَّنَا عَلَيْكَ تَوَكَّلْنَا وَإِلَيْكَ أَنَبْنَا وَإِلَيْكَ ٱلْمَصِيرُ",
+            "verseEn": "There has already been for you an excellent pattern in Abraham and those with him, when they said to their people, \"Indeed, we are disassociated from you and from whatever you worship other than Allāh. We have denied you, and there has appeared between us and you animosity and hatred forever until you believe in Allāh alone\" - except for the saying of Abraham to his father, \"I will surely ask forgiveness for you, but I have not [power to do] for you anything against Allāh. Our Lord, upon You we have relied, and to You we have returned, and to You is the destination."
+          },
+          {
+            "ar": "مَّوَدَّةً",
+            "en": "affection",
+            "ref": "60:7",
+            "verse": "۞ عَسَى ٱللَّهُ أَن يَجْعَلَ بَيْنَكُمْ وَبَيْنَ ٱلَّذِينَ عَادَيْتُم مِّنْهُم مَّوَدَّةًۭ ۚ وَٱللَّهُ قَدِيرٌۭ ۚ وَٱللَّهُ غَفُورٌۭ رَّحِيمٌۭ",
+            "verseEn": "Perhaps Allāh will put, between you and those to whom you have been enemies among them, affection. And Allāh is competent, and Allāh is Forgiving and Merciful."
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "سورة",
+    "display": "سُورَةٌ",
+    "hint": "The fundamental unit of Quranic division",
+    "verseRef": "24:1",
+    "arabicVerse": "سُورَةٌ أَنزَلْنَـٰهَا وَفَرَضْنَـٰهَا وَأَنزَلْنَا فِيهَآ ءَايَـٰتٍۭ بَيِّنَـٰتٍۢ لَّعَلَّكُمْ تَذَكَّرُونَ",
+    "verse": "24:1 - [This is] a sūrah which We have sent down and made [that within it] obligatory and revealed therein verses of clear evidence that you might remember."
+  },
+  "deduction": {
+    "title": "The Servant of Hidden Wisdom",
+    "intro": "In the vast tapestry of Quranic narratives, there stands an enigmatic figure, a servant of Allah graced with divine knowledge and mercy. This mysterious individual crossed paths with one of the greatest prophets, leading to a journey filled with perplexing actions that challenged the limits of human comprehension. Each act, though seemingly unjust, concealed profound lessons about fate, patience, and the unseen wisdom behind divine decree. Who is this shadowy figure, and what truths did they unveil?",
+    "clues": [
+      "I was a servant of Allah, chosen for special knowledge and mercy.",
+      "A great prophet sought to learn from me, and I agreed under strict conditions.",
+      "During our meeting, I performed three actions that seemed unjust to my companion.",
+      "I damaged a boat belonging to poor people, yet it was a hidden mercy.",
+      "I took the life of a young boy, though it appeared cruel, it was to spare his parents grief.",
+      "I rebuilt a wall in a town that denied us hospitality, revealing a treasure beneath it."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Al-Khidr (the righteous servant)",
+          "The owner of the two gardens",
+          "One of the People of the Cave",
+          "The king who argued with Ibrahim",
+          "The man who slept for 100 years"
+        ],
+        "answer": "Al-Khidr (the righteous servant)"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "Meeting Prophet Musa at the junction of the two seas",
+          "Building a barrier against Gog and Magog",
+          "Being thrown into a great fire",
+          "Splitting the sea into two halves",
+          "Receiving the tablets of the Torah"
+        ],
+        "answer": "Meeting Prophet Musa at the junction of the two seas"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "The junction of the two seas",
+          "Mount Sinai",
+          "The cave of Thawr",
+          "The valley of Tuwa",
+          "The well of Zamzam"
+        ],
+        "answer": "The junction of the two seas"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "He explained the divine wisdom behind his puzzling actions and parted ways with Musa",
+          "He was granted prophethood after the journey",
+          "The boat was destroyed by a storm",
+          "The boy was brought back to life",
+          "He built a mosque in the inhospitable town"
+        ],
+        "answer": "He explained the divine wisdom behind his puzzling actions and parted ways with Musa"
+      }
+    },
+    "verseRef": "18:65",
+    "arabic": "فَوَجَدَا عَبْدًۭا مِّنْ عِبَادِنَآ ءَاتَيْنَـٰهُ رَحْمَةًۭ مِّنْ عِندِنَا وَعَلَّمْنَـٰهُ مِن لَّدُنَّا عِلْمًۭا",
+    "verse": "And they found a servant from among Our servants [i.e., al-Khiḍr] to whom We had given mercy from Us and had taught him from Us a [certain] knowledge. (18:65)"
+  },
+  "scramble": {
+    "verseRef": "64:2",
+    "reference": "Surah At-Taghabun (64:2)",
+    "segments": [
+      "يعلم ما في السماوات",
+      "والأرض ويعلم ما",
+      "تعملون ويوم يرجعون",
+      "إليه يخبرهم بما عملوا"
+    ],
+    "translations": [
+      "He (is) the One Who created you",
+      "and among you (is) a disbeliever and among you",
+      "(is) a believer And Allah of what",
+      "you do (is) All-Seer"
+    ],
+    "hint": "A verse about Allah's perfect knowledge of all deeds and the Day of Return",
+    "arabic": "هُوَ ٱلَّذِى خَلَقَكُمْ فَمِنكُمْ كَافِرٌۭ وَمِنكُم مُّؤْمِنٌۭ ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ",
+    "words": [
+      "هُوَ ٱلَّذِى خَلَقَكُمْ",
+      "فَمِنكُمْ كَافِرٌۭ وَمِنكُم",
+      "مُّؤْمِنٌۭ ۚ وَٱللَّهُ بِمَا",
+      "تَعْمَلُونَ بَصِيرٌ"
+    ],
+    "verseEn": "It is He who created you, and among you is the disbeliever, and among you is the believer. And Allāh, of what you do, is Seeing."
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَعْضَاءُ جِسْمٍ مُحَدَّدَةٌ",
+        "nameEn": "Specific Human Body Parts",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "ٱلْأَذْقَانِ",
+            "en": "the chins",
+            "ref": "17:107",
+            "verse": "قُلْ ءَامِنُوا۟ بِهِۦٓ أَوْ لَا تُؤْمِنُوٓا۟ ۚ إِنَّ ٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ مِن قَبْلِهِۦٓ إِذَا يُتْلَىٰ عَلَيْهِمْ يَخِرُّونَ لِلْأَذْقَانِ سُجَّدًۭا",
+            "verseEn": "Say, \"Believe in it or do not believe.\" Indeed, those who were given knowledge before it - when it is recited to them, they fall upon their faces in prostration,"
+          },
+          {
+            "ar": "ٱلنَّوَاصِى",
+            "en": "the forelocks",
+            "ref": "55:41",
+            "verse": "يُعْرَفُ ٱلْمُجْرِمُونَ بِسِيمَـٰهُمْ فَيُؤْخَذُ بِٱلنَّوَٰصِى وَٱلْأَقْدَامِ",
+            "verseEn": "The criminals will be known by their marks, and they will be seized by the forelocks and the feet."
+          },
+          {
+            "ar": "ٱلسَّاقُ",
+            "en": "the shin",
+            "ref": "75:29",
+            "verse": "وَٱلْتَفَّتِ ٱلسَّاقُ بِٱلسَّاقِ",
+            "verseEn": "And the leg is wound about the leg,"
+          },
+          {
+            "ar": "أَصَٰبِعَهُمْ",
+            "en": "their fingers",
+            "ref": "2:19",
+            "verse": "أَوْ كَصَيِّبٍۢ مِّنَ ٱلسَّمَآءِ فِيهِ ظُلُمَـٰتٌۭ وَرَعْدٌۭ وَبَرْقٌۭ يَجْعَلُونَ أَصَـٰبِعَهُمْ فِىٓ ءَاذَانِهِم مِّنَ ٱلصَّوَٰعِقِ حَذَرَ ٱلْمَوْتِ ۚ وَٱللَّهُ مُحِيطٌۢ بِٱلْكَـٰفِرِينَ",
+            "verseEn": "Or [it is] like a rainstorm from the sky within which is darkness, thunder and lightning. They put their fingers in their ears against the thunderclaps in dread of death. But Allāh is encompassing of the disbelievers."
+          }
+        ]
+      },
+      {
+        "name": "الْأُمَمُ الْعَرَبِيَّةُ الْقَدِيمَةُ",
+        "nameEn": "Pre-Islamic Arabian Nations",
+        "color": "green",
+        "items": [
+          {
+            "ar": "عَادٍ",
+            "en": "People of 'Ad",
+            "ref": "89:6",
+            "verse": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ",
+            "verseEn": "Have you not considered how your Lord dealt with ʿAad -"
+          },
+          {
+            "ar": "ثَمُودَ",
+            "en": "People of Thamud",
+            "ref": "11:68",
+            "verse": "كَأَن لَّمْ يَغْنَوْا۟ فِيهَآ ۗ أَلَآ إِنَّ ثَمُودَا۟ كَفَرُوا۟ رَبَّهُمْ ۗ أَلَا بُعْدًۭا لِّثَمُودَ",
+            "verseEn": "As if they had never prospered therein. Unquestionably, Thamūd denied their Lord; then, away with Thamūd."
+          },
+          {
+            "ar": "مَدْيَنَ",
+            "en": "People of Madyan",
+            "ref": "11:84",
+            "verse": "۞ وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًۭا ۚ قَالَ يَـٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَـٰهٍ غَيْرُهُۥ ۖ وَلَا تَنقُصُوا۟ ٱلْمِكْيَالَ وَٱلْمِيزَانَ ۚ إِنِّىٓ أَرَىٰكُم بِخَيْرٍۢ وَإِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍۢ مُّحِيطٍۢ",
+            "verseEn": "And to Madyan [We sent] their brother Shuʿayb. He said, \"O my people, worship Allāh; you have no deity other than Him. And do not decrease from the measure and the scale. Indeed, I see you in prosperity, but indeed, I fear for you the punishment of an all-encompassing Day."
+          },
+          {
+            "ar": "سَبَإٍ",
+            "en": "People of Saba",
+            "ref": "34:15",
+            "verse": "لَقَدْ كَانَ لِسَبَإٍۢ فِى مَسْكَنِهِمْ ءَايَةٌۭ ۖ جَنَّتَانِ عَن يَمِينٍۢ وَشِمَالٍۢ ۖ كُلُوا۟ مِن رِّزْقِ رَبِّكُمْ وَٱشْكُرُوا۟ لَهُۥ ۚ بَلْدَةٌۭ طَيِّبَةٌۭ وَرَبٌّ غَفُورٌۭ",
+            "verseEn": "There was for [the tribe of] Saba’ in their dwelling place a sign: two [fields of] gardens on the right and on the left. [They were told], \"Eat from the provisions of your Lord and be grateful to Him. A good land [have you], and a forgiving Lord.\""
+          }
+        ]
+      },
+      {
+        "name": "الْقَضَاءُ وَعَنَاصِرُهُ",
+        "nameEn": "Divine Judgment and its Elements",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "قِسْطٍ",
+            "en": "justice/equity",
+            "ref": "5:8",
+            "verse": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوا۟ قَوَّٰمِينَ لِلَّهِ شُهَدَآءَ بِٱلْقِسْطِ ۖ وَلَا يَجْرِمَنَّكُمْ شَنَـَٔانُ قَوْمٍ عَلَىٰٓ أَلَّا تَعْدِلُوا۟ ۚ ٱعْدِلُوا۟ هُوَ أَقْرَبُ لِلتَّقْوَىٰ ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا تَعْمَلُونَ",
+            "verseEn": "O you who have believed, be persistently standing firm for Allāh, witnesses in justice, and do not let the hatred of a people prevent you from being just. Be just; that is nearer to righteousness. And fear Allāh; indeed, Allāh is [fully] Aware of what you do."
+          },
+          {
+            "ar": "حِسَابًا",
+            "en": "reckoning/account",
+            "ref": "78:27",
+            "verse": "إِنَّهُمْ كَانُوا۟ لَا يَرْجُونَ حِسَابًۭا",
+            "verseEn": "Indeed, they were not expecting an account"
+          },
+          {
+            "ar": "وَزْنًا",
+            "en": "weight/balance",
+            "ref": "18:105",
+            "verse": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ كَفَرُوا۟ بِـَٔايَـٰتِ رَبِّهِمْ وَلِقَآئِهِۦ فَحَبِطَتْ أَعْمَـٰلُهُمْ فَلَا نُقِيمُ لَهُمْ يَوْمَ ٱلْقِيَـٰمَةِ وَزْنًۭا",
+            "verseEn": "Those are the ones who disbelieve in the verses of their Lord and in [their] meeting Him, so their deeds have become worthless; and We will not assign to them on the Day of Resurrection any weight [i.e., importance]."
+          },
+          {
+            "ar": "الْعَاقِبَةُ",
+            "en": "the outcome/consequence",
+            "ref": "7:128",
+            "verse": "قَالَ مُوسَىٰ لِقَوْمِهِ ٱسْتَعِينُوا۟ بِٱللَّهِ وَٱصْبِرُوٓا۟ ۖ إِنَّ ٱلْأَرْضَ لِلَّهِ يُورِثُهَا مَن يَشَآءُ مِنْ عِبَادِهِۦ ۖ وَٱلْعَـٰقِبَةُ لِلْمُتَّقِينَ",
+            "verseEn": "Said Moses to his people, \"Seek help through Allāh and be patient. Indeed, the earth belongs to Allāh. He causes to inherit it whom He wills of His servants. And the [best] outcome is for the righteous.\""
+          }
+        ]
+      },
+      {
+        "name": "وسائل نقل المعنى والدلالة",
+        "nameEn": "Conveyances of Information and Significance",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "قَوْلُهُۥ",
+            "en": "his speech",
+            "ref": "2:204",
+            "verse": "وَمِنَ ٱلنَّاسِ مَن يُعْجِبُكَ قَوْلُهُۥ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَيُشْهِدُ ٱللَّهَ عَلَىٰ مَا فِى قَلْبِهِۦ وَهُوَ أَلَدُّ ٱلْخِصَامِ",
+            "verseEn": "And of the people is he whose speech pleases you in worldly life, and he calls Allāh to witness as to what is in his heart, yet he is the fiercest of opponents."
+          },
+          {
+            "ar": "كَلِمَةٍ",
+            "en": "a word",
+            "ref": "3:64",
+            "verse": "قُلْ يَـٰٓأَهْلَ ٱلْكِتَـٰبِ تَعَالَوْا۟ إِلَىٰ كَلِمَةٍۢ سَوَآءٍۭ بَيْنَنَا وَبَيْنَكُمْ أَلَّا نَعْبُدَ إِلَّا ٱللَّهَ وَلَا نُشْرِكَ بِهِۦ شَيْـًۭٔا وَلَا يَتَّخِذَ بَعْضُنَا بَعْضًا أَرْبَابًۭا مِّن دُونِ ٱللَّهِ ۚ فَإِن تَوَلَّوْا۟ فَقُولُوا۟ ٱشْهَدُوا۟ بِأَنَّا مُسْلِمُونَ",
+            "verseEn": "Say, \"O People of the Scripture, come to a word that is equitable between us and you - that we will not worship except Allāh and not associate anything with Him and not take one another as lords instead of Allāh.\" But if they turn away, then say, \"Bear witness that we are Muslims [submitting to Him].\""
+          },
+          {
+            "ar": "ءَايَةَ",
+            "en": "a sign",
+            "ref": "2:248",
+            "verse": "وَقَالَ لَهُمْ نَبِيُّهُمْ إِنَّ ءَايَةَ مُلْكِهِۦٓ أَن يَأْتِيَكُمُ ٱلتَّابُوتُ فِيهِ سَكِينَةٌۭ مِّن رَّبِّكُمْ وَبَقِيَّةٌۭ مِّمَّا تَرَكَ ءَالُ مُوسَىٰ وَءَالُ هَـٰرُونَ تَحْمِلُهُ ٱلْمَلَـٰٓئِكَةُ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ",
+            "verseEn": "And their prophet said to them, \"Indeed, a sign of his kingship is that the chest will come to you in which is assurance from your Lord and a remnant of what the family of Moses and the family of Aaron had left, carried by the angels. Indeed in that is a sign for you, if you are believers.\""
+          },
+          {
+            "ar": "نَّبَإِ",
+            "en": "tidings",
+            "ref": "6:34",
+            "verse": "وَلَقَدْ كُذِّبَتْ رُسُلٌۭ مِّن قَبْلِكَ فَصَبَرُوا۟ عَلَىٰ مَا كُذِّبُوا۟ وَأُوذُوا۟ حَتَّىٰٓ أَتَىٰهُمْ نَصْرُنَا ۚ وَلَا مُبَدِّلَ لِكَلِمَـٰتِ ٱللَّهِ ۚ وَلَقَدْ جَآءَكَ مِن نَّبَإِى۟ ٱلْمُرْسَلِينَ",
+            "verseEn": "And certainly were messengers denied before you, but they were patient over the denial, and they were harmed until Our victory came to them. And none can alter the words [i.e., decrees] of Allāh. And there has certainly come to you some information about the [previous] messengers."
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "غاشية",
+    "display": "غَٰشِيَة",
+    "hint": "An overwhelming event that covers and engulfs all creation on the Day of Judgment",
+    "verseRef": "88:1",
+    "arabicVerse": "هَلْ أَتَىٰكَ حَدِيثُ ٱلْغَـٰشِيَةِ",
+    "verse": "88:1 - Has there reached you the report of the Overwhelming [event]?"
+  },
+  "deduction": {
+    "title": "The Unwavering Patient One",
+    "intro": "In the annals of prophetic history, few have endured such profound loss and physical affliction with unshakeable faith. This figure's story is a timeless lesson in patience and trust in divine wisdom. Who is this soul?",
+    "clues": [
+      "I was chosen by Allah to deliver a message, but my greatest test came not through rejection, but through personal calamity.",
+      "My wealth, my livestock, and my children were taken from me, one after another.",
+      "My body was covered with sores, and I was left alone except for the support of my spouse.",
+      "I cried out to my Lord, acknowledging my suffering and seeking His mercy.",
+      "I was instructed to strike the ground with my foot, and a refreshing spring gushed forth.",
+      "Allah restored my health and gave me a new family and even more wealth than I had before."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Prophet Ayyub",
+          "Prophet Ibrahim",
+          "Prophet Musa",
+          "Prophet Isa",
+          "Prophet Nuh"
+        ],
+        "answer": "Prophet Ayyub"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "Loss of wealth and family",
+          "Being thrown into a fire",
+          "Being swallowed by a fish",
+          "Being separated from family and sold into slavery",
+          "Being tested with a golden calf"
+        ],
+        "answer": "Loss of wealth and family"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "A spring of water",
+          "A staff that turned into a serpent",
+          "A wooden ark",
+          "A molten calf",
+          "A palm tree"
+        ],
+        "answer": "A spring of water"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "Restoration of family and wealth",
+          "Ascension to heaven",
+          "Becoming a king",
+          "Being saved from a whale",
+          "Receiving a son in old age"
+        ],
+        "answer": "Restoration of family and wealth"
+      }
+    },
+    "verseRef": "38:41",
+    "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+    "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+  },
+  "scramble": {
+    "verseRef": "9:105",
+    "reference": "At-Tawbah (9:105)",
+    "segments": [
+      "وَقُلِ اعْمَلُوا",
+      "فَسَيَرَى اللَّهُ عَمَلَكُمْ",
+      "وَرَسُولُهُ",
+      "وَالْمُؤْمِنُونَ"
+    ],
+    "translations": [
+      "And say Do then Allah will see then Allah will see",
+      "your deed and His Messenger and the believers And you will be brought back",
+      "to (the) Knower (of) the unseen and the seen",
+      "then He will inform you of what you used (to) do"
+    ],
+    "hint": "This verse motivates believers to engage in good deeds, reminding them that their actions are witnessed by Allah, His Prophet, and the faithful community.",
+    "arabic": "وَقُلِ ٱعْمَلُوا۟ فَسَيَرَى ٱللَّهُ عَمَلَكُمْ وَرَسُولُهُۥ وَٱلْمُؤْمِنُونَ ۖ وَسَتُرَدُّونَ إِلَىٰ عَـٰلِمِ ٱلْغَيْبِ وَٱلشَّهَـٰدَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ",
+    "words": [
+      "وَقُلِ ٱعْمَلُوا۟ فَسَيَرَى ٱللَّهُ",
+      "عَمَلَكُمْ وَرَسُولُهُۥ وَٱلْمُؤْمِنُونَ ۖ وَسَتُرَدُّونَ",
+      "إِلَىٰ عَـٰلِمِ ٱلْغَيْبِ وَٱلشَّهَـٰدَةِ",
+      "فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ"
+    ],
+    "verseEn": "And say, \"Do [as you will], for Allāh will see your deeds, and [so will] His Messenger and the believers. And you will be returned to the Knower of the unseen and the witnessed, and He will inform you of what you used to do.\""
+  }
+}

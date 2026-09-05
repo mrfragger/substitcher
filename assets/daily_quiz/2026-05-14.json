@@ -1,0 +1,243 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَفْعَالٌ شَائِعَةٌ",
+        "nameEn": "Common Verbs of Action",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "يَأْكُلُ",
+            "en": "he eats",
+            "ref": "25:7",
+            "verse": "وَقَالُوا۟ مَالِ هَـٰذَا ٱلرَّسُولِ يَأْكُلُ ٱلطَّعَامَ وَيَمْشِى فِى ٱلْأَسْوَاقِ ۙ لَوْلَآ أُنزِلَ إِلَيْهِ مَلَكٌۭ فَيَكُونَ مَعَهُۥ نَذِيرًا",
+            "verseEn": "And they say, \"What is this messenger that eats food and walks in the markets? Why was there not sent down to him an angel so he would be with him a warner?"
+          },
+          {
+            "ar": "يَشْرَبُونَ",
+            "en": "they drink",
+            "ref": "76:5",
+            "verse": "إِنَّ ٱلْأَبْرَارَ يَشْرَبُونَ مِن كَأْسٍۢ كَانَ مِزَاجُهَا كَافُورًا",
+            "verseEn": "Indeed, the righteous will drink from a cup [of wine] whose mixture is of Kāfūr,"
+          },
+          {
+            "ar": "يَخْشَىٰ",
+            "en": "he might fear",
+            "ref": "20:44",
+            "verse": "فَقُولَا لَهُۥ قَوْلًۭا لَّيِّنًۭا لَّعَلَّهُۥ يَتَذَكَّرُ أَوْ يَخْشَىٰ",
+            "verseEn": "And speak to him with gentle speech that perhaps he may be reminded or fear [Allāh].\""
+          },
+          {
+            "ar": "يَعْمَلْ",
+            "en": "whoever does",
+            "ref": "4:124",
+            "verse": "وَمَن يَعْمَلْ مِنَ ٱلصَّـٰلِحَـٰتِ مِن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌۭ فَأُو۟لَـٰٓئِكَ يَدْخُلُونَ ٱلْجَنَّةَ وَلَا يُظْلَمُونَ نَقِيرًۭا",
+            "verseEn": "And whoever does righteous deeds, whether male or female, while being a believer - those will enter Paradise and will not be wronged, [even as much as] the speck on a date seed."
+          }
+        ]
+      },
+      {
+        "name": "الآيَاتُ الْكَوْنِيَّةُ وَالْأَحْدَاثُ الْأُخْرَوِيَّةُ",
+        "nameEn": "Cosmic Signs and Eschatological Events",
+        "color": "green",
+        "items": [
+          {
+            "ar": "ٱلْفَلَقِ",
+            "en": "the daybreak",
+            "ref": "113:1",
+            "verse": "قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
+            "verseEn": "Say, \"I seek refuge in the Lord of daybreak"
+          },
+          {
+            "ar": "ٱلْكُبْرَىٰ",
+            "en": "the Greatest",
+            "ref": "79:34",
+            "verse": "فَإِذَا جَآءَتِ ٱلطَّآمَّةُ ٱلْكُبْرَىٰ",
+            "verseEn": "But when there comes the greatest Overwhelming Calamity -"
+          },
+          {
+            "ar": "ٱلْوِتْرَ",
+            "en": "the odd",
+            "ref": "89:3",
+            "verse": "وَٱلشَّفْعِ وَٱلْوَتْرِ",
+            "verseEn": "And [by] the even [number] and the odd"
+          },
+          {
+            "ar": "ٱلْقَارِعَةُ",
+            "en": "the Striking Calamity",
+            "ref": "101:1",
+            "verse": "ٱلْقَارِعَةُ",
+            "verseEn": "The Striking Calamity -"
+          }
+        ]
+      },
+      {
+        "name": "الْهَيْبَةُ وَالْبَرَكَةُ الْإِلَٰهِيَّةُ",
+        "nameEn": "Divine Majesty and Blessings",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "وَأَبْقَىٰٓ",
+            "en": "and more lasting",
+            "ref": "87:17",
+            "verse": "وَٱلْـَٔاخِرَةُ خَيْرٌۭ وَأَبْقَىٰٓ",
+            "verseEn": "While the Hereafter is better and more enduring."
+          },
+          {
+            "ar": "وَأَزْلَفْنَا",
+            "en": "And We brought near",
+            "ref": "26:64",
+            "verse": "وَأَزْلَفْنَا ثَمَّ ٱلْـَٔاخَرِينَ",
+            "verseEn": "And We advanced thereto the others [i.e., the pursuers]."
+          },
+          {
+            "ar": "رَجِيمٌۭ",
+            "en": "expelled / accursed",
+            "ref": "15:34",
+            "verse": "قَالَ فَٱخْرُجْ مِنْهَا فَإِنَّكَ رَجِيمٌۭ",
+            "verseEn": "[Allāh] said, \"Then depart from it, for indeed, you are expelled."
+          },
+          {
+            "ar": "بَارَكَ",
+            "en": "He blessed",
+            "ref": "7:137",
+            "verse": "وَأَوْرَثْنَا ٱلْقَوْمَ ٱلَّذِينَ كَانُوا۟ يُسْتَضْعَفُونَ مَشَـٰرِقَ ٱلْأَرْضِ وَمَغَـٰرِبَهَا ٱلَّتِى بَـٰرَكْنَا فِيهَا ۖ وَتَمَّتْ كَلِمَتُ رَبِّكَ ٱلْحُسْنَىٰ عَلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ بِمَا صَبَرُوا۟ ۖ وَدَمَّرْنَا مَا كَانَ يَصْنَعُ فِرْعَوْنُ وَقَوْمُهُۥ وَمَا كَانُوا۟ يَعْرِشُونَ",
+            "verseEn": "And We caused the people who had been oppressed to inherit the eastern regions of the land and the western ones, which We had blessed. And the good word [i.e., decree] of your Lord was fulfilled for the Children of Israel because of what they had patiently endured. And We destroyed [all] that Pharaoh and his people were producing and what they had been building."
+          }
+        ]
+      },
+      {
+        "name": "عَلَامَاتُ الزَّمَنِ وَدَلَالَاتُهَا الْعَمِيقَةُ",
+        "nameEn": "Temporal Markers and Their Deeper Implications",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "وَٱلْعَصْرِ",
+            "en": "By the [passage of] time",
+            "ref": "103:1",
+            "verse": "وَٱلْعَصْرِ",
+            "verseEn": "By time,"
+          },
+          {
+            "ar": "حِقْبًا",
+            "en": "for ages (a long period)",
+            "ref": "18:60",
+            "verse": "وَإِذْ قَالَ مُوسَىٰ لِفَتَىٰهُ لَآ أَبْرَحُ حَتَّىٰٓ أَبْلُغَ مَجْمَعَ ٱلْبَحْرَيْنِ أَوْ أَمْضِىَ حُقُبًۭا",
+            "verseEn": "And [mention] when Moses said to his boy [i.e., servant], \"I will not cease [traveling] until I reach the junction of the two seas or continue for a long period.\""
+          },
+          {
+            "ar": "أَمَدًا",
+            "en": "a term (duration)",
+            "ref": "18:12",
+            "verse": "ثُمَّ بَعَثْنَـٰهُمْ لِنَعْلَمَ أَىُّ ٱلْحِزْبَيْنِ أَحْصَىٰ لِمَا لَبِثُوٓا۟ أَمَدًۭا",
+            "verseEn": "Then We awakened them that We might show which of the two factions was most precise in calculating what [extent] they had remained in time."
+          },
+          {
+            "ar": "أَبَدًا",
+            "en": "forever",
+            "ref": "18:3",
+            "verse": "مَّـٰكِثِينَ فِيهِ أَبَدًۭا",
+            "verseEn": "In which they will remain forever"
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "عمل",
+    "display": "عَمَل",
+    "hint": "A deed or effort, often with consequences.",
+    "verseRef": "6:132",
+    "arabicVerse": "وَلِكُلٍّۢ دَرَجَـٰتٌۭ مِّمَّا عَمِلُوا۟ ۚ وَمَا رَبُّكَ بِغَـٰفِلٍ عَمَّا يَعْمَلُونَ",
+    "verse": "6:132 — And for all are degrees [i.e., positions resulting] from what they have done. And your Lord is not unaware of what they do."
+  },
+  "deduction": {
+    "title": "The Dispenser of Timeless Wisdom",
+    "intro": "A revered figure, known for their profound insights and sagacious advice, once imparted counsel that transcends generations. Their words, recorded in sacred scripture, guide individuals towards gratitude, patience, and righteous conduct.",
+    "clues": [
+      "I was blessed with wisdom, not prophethood.",
+      "I advised my child on the greatest of sins: associating partners with Allah.",
+      "I taught about the weight of deeds, even a mustard seed's worth, and how Allah will bring it forth.",
+      "I emphasized gratitude to Allah and to one's parents, acknowledging the struggles of raising a child.",
+      "My counsel included establishing prayer, enjoining good, forbidding evil, and enduring patiently what befalls one.",
+      "A chapter in the Quran is named after me, containing my teachings and the lessons I shared."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Prophet Sulaiman",
+          "Prophet Dawud",
+          "Prophet Yahya",
+          "Luqman",
+          "Prophet Musa"
+        ],
+        "answer": "Luqman"
+      },
+      "trial": {
+        "label": "Central Theme",
+        "options": [
+          "Building the Kaaba",
+          "Splitting the sea",
+          "Imparting wisdom",
+          "Surviving a flood",
+          "Being swallowed by a fish"
+        ],
+        "answer": "Imparting wisdom"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "The Ark",
+          "The Staff",
+          "The Mountain of Tur",
+          "His Son",
+          "The Golden Calf"
+        ],
+        "answer": "His Son"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "His people were destroyed",
+          "His wisdom became a guide",
+          "He was granted a kingdom",
+          "He was raised to the heavens",
+          "He was granted immense wealth"
+        ],
+        "answer": "His wisdom became a guide"
+      }
+    },
+    "verseRef": "31:12",
+    "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+    "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+  },
+  "scramble": {
+    "verseRef": "7:55",
+    "reference": "Al-A'raf (7:55)",
+    "segments": [
+      "ادْعُوا رَبَّكُمْ",
+      "تَضَرُّعًا وَخُفْيَةً",
+      "إِنَّهُ",
+      "لَا يُحِبُّ",
+      "الْمُعْتَدِينَ"
+    ],
+    "translations": [
+      "Call upon your Lord",
+      "humbly and privately",
+      "Indeed, He (does) not",
+      "love",
+      "the transgressors"
+    ],
+    "hint": "This verse encourages a specific manner of supplication and warns against exceeding limits in prayer.",
+    "arabic": "ٱدْعُوا۟ رَبَّكُمْ تَضَرُّعًۭا وَخُفْيَةً ۚ إِنَّهُۥ لَا يُحِبُّ ٱلْمُعْتَدِينَ",
+    "words": [
+      "ٱدْعُوا۟ رَبَّكُمْ",
+      "تَضَرُّعًۭا وَخُفْيَةً ۚ",
+      "إِنَّهُۥ لَا",
+      "يُحِبُّ",
+      "ٱلْمُعْتَدِينَ"
+    ],
+    "verseEn": "Call upon your Lord in humility and privately; indeed, He does not like transgressors."
+  }
+}
