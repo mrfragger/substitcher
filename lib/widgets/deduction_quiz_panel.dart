@@ -3,6 +3,7 @@ import '../quiz/deduction_model.dart';
 import '../quiz/daily_quiz_index.dart';
 import '../quran/quran_index.dart';
 import '../services/allah_highlighter.dart';
+import 'package:scrollable_positioned_list/scrollable_positioned_list.dart';
 
 class DeductionQuizPanel extends StatefulWidget {
   final bool isQuranLoaded;
@@ -24,6 +25,8 @@ class _DeductionQuizPanelState extends State<DeductionQuizPanel> {
   DeductionData? _data;
   bool _loadingList = true;
   bool _loadingDay = false;
+
+  final ItemScrollController _entryScrollController = ItemScrollController();
 
   final Map<String, String> _selections = {};
   bool _showArabic = false;
@@ -58,6 +61,18 @@ class _DeductionQuizPanelState extends State<DeductionQuizPanel> {
         ? entries.where((e) => _sameDay(e.date, lastDate)).firstOrNull
         : null;
     await _selectDate((resumeEntry ?? entries.first).date);
+    _scrollToSelectedEntry();
+  }
+
+  void _scrollToSelectedEntry() {
+    if (_selectedDate == null) return;
+    final index = _entries.indexWhere((e) => _sameDay(e.date, _selectedDate!));
+    if (index == -1) return;
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      if (_entryScrollController.isAttached) {
+        _entryScrollController.jumpTo(index: index);
+      }
+    });
   }
 
   bool _sameDay(DateTime a, DateTime b) =>
@@ -93,6 +108,7 @@ class _DeductionQuizPanelState extends State<DeductionQuizPanel> {
         }
       }
       await DailyQuizPrefs.saveLastDate(date);
+      _scrollToSelectedEntry();
     } catch (e) {
       if (!mounted) return;
       setState(() => _loadingDay = false);
@@ -174,7 +190,8 @@ class _DeductionQuizPanelState extends State<DeductionQuizPanel> {
   }
 
   Widget _buildEntryList() {
-    return ListView.builder(
+    return ScrollablePositionedList.builder(
+      itemScrollController: _entryScrollController,
       padding: const EdgeInsets.symmetric(vertical: 8),
       itemCount: _entries.length,
       itemBuilder: (context, i) {
