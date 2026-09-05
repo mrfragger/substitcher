@@ -324,65 +324,78 @@ class _DeductionQuizPanelState extends State<DeductionQuizPanel> {
   }
 
   Widget _buildVerseReveal(DeductionData data) {
-    final canNavigate =
-        data.verseRef != null && widget.isQuranLoaded && widget.onVerseSelected != null;
-    return Padding(
-      padding: const EdgeInsets.only(bottom: 16),
-      child: Container(
-        padding: const EdgeInsets.all(14),
-        decoration: BoxDecoration(
-          color: Colors.green.withAlpha(20),
-          borderRadius: BorderRadius.circular(8),
-          border: Border.all(color: Colors.greenAccent.withAlpha(120)),
-        ),
-        child: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            Directionality(
-              textDirection: TextDirection.rtl,
-              child: Text.rich(
+      final canNavigate =
+          data.verseRef != null && widget.isQuranLoaded && widget.onVerseSelected != null;
+      return Padding(
+        padding: const EdgeInsets.only(bottom: 16),
+        child: Container(
+          padding: const EdgeInsets.all(14),
+          decoration: BoxDecoration(
+            color: Colors.green.withAlpha(20),
+            borderRadius: BorderRadius.circular(8),
+            border: Border.all(color: Colors.greenAccent.withAlpha(120)),
+          ),
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Directionality(
+                textDirection: TextDirection.rtl,
+                child: Text.rich(
+                  TextSpan(
+                    children: AllahHighlighter.spans(
+                      data.verseArabic,
+                      const TextStyle(color: Colors.white, fontSize: 16, height: 1.6),
+                      isArabic: true,
+                    ),
+                  ),
+                ),
+              ),
+              const SizedBox(height: 8),
+              Text.rich(
                 TextSpan(
                   children: AllahHighlighter.spans(
-                    data.verseArabic,
-                    const TextStyle(color: Colors.white, fontSize: 16, height: 1.6),
-                    isArabic: true,
+                    data.verseEn,
+                    const TextStyle(color: Colors.white, fontSize: 13, height: 1.5),
                   ),
                 ),
               ),
-            ),
-            const SizedBox(height: 8),
-            Text.rich(
-              TextSpan(
-                children: AllahHighlighter.spans(
-                  data.verseEn,
-                  const TextStyle(color: Colors.white, fontSize: 13, height: 1.5),
-                ),
-              ),
-            ),
-            if (data.verseRef != null) ...[
-              const SizedBox(height: 8),
-              GestureDetector(
-                onTap: canNavigate ? _onVerseTapped : null,
-                child: Text(
-                  data.verseRef!,
-                  style: TextStyle(
-                    color: canNavigate ? Colors.lightBlueAccent : Colors.white38,
-                    decoration:
-                        canNavigate ? TextDecoration.underline : TextDecoration.none,
-                    fontWeight: FontWeight.bold,
+              if (data.verseRef != null) ...[
+                const SizedBox(height: 8),
+                GestureDetector(
+                  onTap: canNavigate ? _onVerseTapped : null,
+                  child: Row(
+                    mainAxisSize: MainAxisSize.min,
+                    children: [
+                      if (canNavigate) ...[
+                        const Icon(
+                          Icons.play_circle_outline,
+                          size: 14,
+                          color: Colors.lightBlueAccent,
+                        ),
+                        const SizedBox(width: 4),
+                      ],
+                      Text(
+                        data.verseRef!,
+                        style: TextStyle(
+                          color: canNavigate ? Colors.lightBlueAccent : Colors.white38,
+                          decoration:
+                              canNavigate ? TextDecoration.underline : TextDecoration.none,
+                          fontWeight: FontWeight.bold,
+                        ),
+                      ),
+                    ],
                   ),
                 ),
-              ),
-              if (!canNavigate)
-                const Padding(
-                  padding: EdgeInsets.only(top: 2),
-                  child: Text('Load a Quran audiobook to navigate to this verse',
-                      style: TextStyle(color: Colors.white24, fontSize: 11)),
-                ),
+                if (!canNavigate)
+                  const Padding(
+                    padding: EdgeInsets.only(top: 2),
+                    child: Text('Load a Quran Verse by Verse audiobook to navigate to this verse',
+                        style: TextStyle(color: Colors.white24, fontSize: 11)),
+                  ),
+              ],
             ],
-          ],
+          ),
         ),
-      ),
-    );
-  }
+      );
+    }
 }
