@@ -331,7 +331,7 @@ class _RelatedConnectionsPanelState extends State<RelatedConnectionsPanel> {
                   Text(item.ref,
                       style: TextStyle(
                         color: canNavigate ? Colors.lightBlueAccent : Colors.white38,
-                        fontSize: 11,
+                        fontSize: 14,
                         fontWeight: FontWeight.bold,
                       )),
                 ],
@@ -391,7 +391,7 @@ class _RelatedConnectionsPanelState extends State<RelatedConnectionsPanel> {
               ),
               const SizedBox(height: 6),
               Text(scramble.reference,
-                  style: const TextStyle(color: orange, fontSize: 12, fontWeight: FontWeight.bold)),
+                  style: const TextStyle(color: orange, fontSize: 12, fontWseight: FontWeight.bold)),
               if (scramble.verseRef != null) ...[
                 const SizedBox(height: 2),
                 GestureDetector(
@@ -410,7 +410,7 @@ class _RelatedConnectionsPanelState extends State<RelatedConnectionsPanel> {
                       Text(scramble.verseRef!,
                           style: TextStyle(
                             color: canNavigate ? Colors.lightBlueAccent : Colors.white38,
-                            fontSize: 12,
+                            fontSize: 14,
                             fontWeight: FontWeight.bold,
                           )),
                     ],

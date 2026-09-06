@@ -686,13 +686,13 @@ class SidePanel extends StatelessWidget {
     }
 
     return Padding(
-      padding: const EdgeInsets.only(right: 8),
+      padding: const EdgeInsets.only(right: 0.5),
       child: TextButton(
         onPressed: () => onPanelModeChanged(mode),
         style: TextButton.styleFrom(
           backgroundColor: isActive ? Colors.deepPurple : Colors.transparent,
           foregroundColor: isSpecialCollapsed ? Colors.teal : Colors.white,
-          padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+          padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 8),
         ),
         child: Column(
           mainAxisSize: MainAxisSize.min,
