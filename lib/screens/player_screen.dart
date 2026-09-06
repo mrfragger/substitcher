@@ -7918,13 +7918,6 @@ class _PlayerScreenState extends State<PlayerScreen>
             });
             return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyR &&
-              HardwareKeyboard.instance.isShiftPressed &&
-              event is KeyDownEvent) {
-            if (_currentColorPalette != null) {
-              _addColorPaletteToFavorites(_currentColorPalette!.name);
-            }
-            return KeyEventResult.handled;
-          } else if (event.logicalKey == LogicalKeyboardKey.keyR &&
               HardwareKeyboard.instance.isMetaPressed &&
               event is KeyDownEvent) {
             setState(() {
@@ -7940,7 +7933,6 @@ class _PlayerScreenState extends State<PlayerScreen>
             }
             return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyR &&
-              !HardwareKeyboard.instance.isMetaPressed &&
               event is KeyDownEvent) {
             setState(() {
               _showPanel = true;
