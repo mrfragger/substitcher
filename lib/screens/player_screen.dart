@@ -8150,6 +8150,10 @@ class _PlayerScreenState extends State<PlayerScreen>
               event is KeyDownEvent) {
             _setSleepTimer(null);
             return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyZ &&
+              event is KeyDownEvent) {
+            _setSleepTimer(Duration.zero);
+            return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyQ &&
               event is KeyDownEvent) {
             if (HardwareKeyboard.instance.isControlPressed) {
@@ -8170,7 +8174,7 @@ class _PlayerScreenState extends State<PlayerScreen>
               _scrollToActiveQuranRef();
             }
             return KeyEventResult.handled;
-          } else if (event.logicalKey == LogicalKeyboardKey.equal &&
+          }else if (event.logicalKey == LogicalKeyboardKey.equal &&
               event is KeyDownEvent) {
             _showGlyphViewerOverlay();
             return KeyEventResult.handled;
