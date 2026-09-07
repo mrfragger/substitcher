@@ -43,6 +43,7 @@ class SidePanel extends StatelessWidget {
   static const ltr = '\u200E';
   final PanelMode panelMode;
   final bool isCollapsed;
+  final GlobalKey<State<QuranPanel>> quranPanelKey;
   final AudiobookMetadata? currentAudiobook;
   final int currentChapterIndex;
   final String searchQuery;
@@ -240,6 +241,7 @@ class SidePanel extends StatelessWidget {
     super.key,
     required this.panelMode,
     required this.isCollapsed,
+    required this.quranPanelKey,
     required this.currentAudiobook,
     required this.currentChapterIndex,
     required this.searchQuery,
@@ -520,8 +522,8 @@ class SidePanel extends StatelessWidget {
                       context, 'Stats', PanelMode.stats, statsCount),
                   _buildTabButton(
                       context, 'Quran', PanelMode.quran, quranEntries.length),
-                  _buildTabButton(context, '⌘Quiz', PanelMode.quiz, 139),
-                  _buildTabButton(context, '⌘Related', PanelMode.related, 139),
+                  _buildTabButton(context, '⌘Quiz', PanelMode.quiz, 141),
+                  _buildTabButton(context, '⌘Related', PanelMode.related, 141),
                   _buildTabButton(
                       context, 'LUTs', PanelMode.luts, availableLuts.length),
                 ],
@@ -732,6 +734,13 @@ class SidePanel extends StatelessWidget {
     return TextSpan(children: children);
   }
 
+  void _loadTafsirRefAndSwitchTab(String ref) {
+    onPanelModeChanged(PanelMode.quran);
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      (quranPanelKey.currentState as dynamic)?.loadTafsirRef(ref);
+    });
+  }
+
   Widget _buildPanelContent(BuildContext context) {
     switch (panelMode) {
       case PanelMode.chapters:
@@ -772,6 +781,7 @@ class SidePanel extends StatelessWidget {
         return _buildLutsList(context);
       case PanelMode.quran:
         return QuranPanel(
+          key: quranPanelKey,
           entries: quranEntries,
           isQuranLoaded: isQuranLoaded,
           activeRef: activeQuranRef,
@@ -803,11 +813,13 @@ class SidePanel extends StatelessWidget {
         return DeductionQuizPanel(
           isQuranLoaded: isQuranLoaded,
           onVerseSelected: onQuizVerseSelected,
+          onLoadTafsirRef: _loadTafsirRefAndSwitchTab,
         );
       case PanelMode.related:
         return RelatedConnectionsPanel(
           isQuranLoaded: isQuranLoaded,
           onVerseSelected: onRelatedVerseSelected,
+          onLoadTafsirRef: _loadTafsirRefAndSwitchTab,
         );
     }
   }

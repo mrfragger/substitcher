@@ -8,11 +8,13 @@ import 'package:scrollable_positioned_list/scrollable_positioned_list.dart';
 class RelatedConnectionsPanel extends StatefulWidget {
   final bool isQuranLoaded;
   final Function(QuranVerseRef, int)? onVerseSelected;
+  final Function(String ref)? onLoadTafsirRef;
 
   const RelatedConnectionsPanel({
     super.key,
     required this.isQuranLoaded,
     this.onVerseSelected,
+    this.onLoadTafsirRef,
   });
 
   @override
@@ -142,7 +144,7 @@ class _RelatedConnectionsPanelState extends State<RelatedConnectionsPanel> {
     }
     return Row(
       children: [
-        SizedBox(width: 180, child: _buildEntryList()),
+        SizedBox(width: 200, child: _buildEntryList()),
         Container(width: 1, color: Colors.white12),
         Expanded(
           child: _loadingDay
@@ -170,15 +172,52 @@ class _RelatedConnectionsPanelState extends State<RelatedConnectionsPanel> {
           child: Container(
             padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 10),
             color: isSelected ? Colors.deepPurple.withAlpha(60) : null,
-            child: Text(_fmtDate(e.date),
-                style: TextStyle(
-                  color: isSelected ? Colors.white : Colors.white70,
-                  fontSize: 12,
-                  fontWeight: isSelected ? FontWeight.bold : FontWeight.normal,
-                )),
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Text(
+                  _fmtDate(e.date),
+                  style: TextStyle(
+                    color: isSelected ? Colors.white : Colors.white70,
+                    fontSize: 12,
+                    fontWeight: isSelected ? FontWeight.bold : FontWeight.normal,
+                  ),
+                ),
+                if (e.firstCategoryName != null) ...[
+                  const SizedBox(height: 2),
+                  Text(
+                    e.firstCategoryName!,
+                    maxLines: 2,
+                    overflow: TextOverflow.ellipsis,
+                    style: TextStyle(
+                      color: isSelected ? Colors.white70 : Colors.white38,
+                      fontSize: 9,
+                      height: 1.15,
+                    ),
+                  ),
+                ],
+              ],
+            ),
           ),
         );
       },
+    );
+  }
+
+  Widget _buildLoadTafsirPrompt() {
+    return Tooltip(
+      message: 'Load a Quran Verse by Verse audiobook to navigate to this verse',
+      preferBelow: true,
+      textStyle: const TextStyle(color: Colors.white, fontSize: 12),
+      decoration: BoxDecoration(
+        color: const Color(0xFF2A2A2A),
+        borderRadius: BorderRadius.circular(6),
+      ),
+      child: const Icon(
+        Icons.info_outline,
+        size: 14,
+        color: Colors.white70,
+      ),
     );
   }
 
@@ -316,7 +355,11 @@ class _RelatedConnectionsPanelState extends State<RelatedConnectionsPanel> {
             ),
             const SizedBox(height: 4),
             GestureDetector(
-              onTap: canNavigate ? () => _playRef(item.ref) : null,
+              onTap: canNavigate
+                  ? () => _playRef(item.ref)
+                  : (widget.onLoadTafsirRef != null
+                      ? () => widget.onLoadTafsirRef!(item.ref)
+                      : null),
               child: Row(
                 mainAxisSize: MainAxisSize.min,
                 children: [
@@ -330,95 +373,115 @@ class _RelatedConnectionsPanelState extends State<RelatedConnectionsPanel> {
                   ],
                   Text(item.ref,
                       style: TextStyle(
-                        color: canNavigate ? Colors.lightBlueAccent : Colors.white38,
+                        color: canNavigate
+                            ? Colors.lightBlueAccent
+                            : (widget.onLoadTafsirRef != null
+                                ? Colors.amber
+                                : Colors.white38),
                         fontSize: 14,
                         fontWeight: FontWeight.bold,
                       )),
                 ],
               ),
             ),
+            if (!canNavigate) ...[
+              const SizedBox(height: 4),
+              _buildLoadTafsirPrompt(),
+            ],
           ],
         ),
       );
     }
 
     Widget _buildScrambleCard(ScrambleData scramble) {
-        final canNavigate = widget.isQuranLoaded &&
-            widget.onVerseSelected != null &&
-            scramble.verseRef != null;
-        const orange = Colors.orange;
-        return Container(
-          margin: const EdgeInsets.only(bottom: 16),
-          padding: const EdgeInsets.all(12),
-          decoration: BoxDecoration(
-            color: orange.withAlpha(15),
-            borderRadius: BorderRadius.circular(8),
-            border: Border.all(color: orange.withAlpha(120)),
-          ),
-          child: Column(
-            crossAxisAlignment: CrossAxisAlignment.start,
-            children: [
-              Container(
-                padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 8),
-                decoration: BoxDecoration(
-                  color: orange.withAlpha(25),
-                  borderRadius: BorderRadius.circular(20),
-                  border: Border.all(color: orange.withAlpha(140)),
+          final canNavigate = widget.isQuranLoaded &&
+              widget.onVerseSelected != null &&
+              scramble.verseRef != null;
+          const orange = Colors.orange;
+          return Container(
+            margin: const EdgeInsets.only(bottom: 16),
+            padding: const EdgeInsets.all(12),
+            decoration: BoxDecoration(
+              color: orange.withAlpha(15),
+              borderRadius: BorderRadius.circular(8),
+              border: Border.all(color: orange.withAlpha(120)),
+            ),
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Container(
+                  padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 8),
+                  decoration: BoxDecoration(
+                    color: orange.withAlpha(25),
+                    borderRadius: BorderRadius.circular(20),
+                    border: Border.all(color: orange.withAlpha(140)),
+                  ),
+                  child: Text(scramble.hint, style: const TextStyle(color: orange, fontSize: 13)),
                 ),
-                child: Text(scramble.hint, style: const TextStyle(color: orange, fontSize: 13)),
-              ),
-              const SizedBox(height: 10),
-              Directionality(
-                textDirection: TextDirection.rtl,
-                child: Text.rich(
-                  TextSpan(
-                    children: AllahHighlighter.spans(
-                      scramble.arabic,
-                      const TextStyle(color: Colors.white, fontSize: 16, height: 1.6),
-                      isArabic: true,
+                const SizedBox(height: 10),
+                Directionality(
+                  textDirection: TextDirection.rtl,
+                  child: Text.rich(
+                    TextSpan(
+                      children: AllahHighlighter.spans(
+                        scramble.arabic,
+                        const TextStyle(color: Colors.white, fontSize: 16, height: 1.6),
+                        isArabic: true,
+                      ),
                     ),
                   ),
                 ),
-              ),
-              const SizedBox(height: 8),
-              Text.rich(
-                TextSpan(
-                  children: AllahHighlighter.spans(
-                    scramble.verseEn,
-                    const TextStyle(color: Colors.white70, fontSize: 16, height: 1.5),
+                const SizedBox(height: 8),
+                Text.rich(
+                  TextSpan(
+                    children: AllahHighlighter.spans(
+                      scramble.verseEn,
+                      const TextStyle(color: Colors.white70, fontSize: 16, height: 1.5),
+                    ),
                   ),
                 ),
-              ),
-              const SizedBox(height: 6),
-              Text(scramble.reference,
-                  style: const TextStyle(color: orange, fontSize: 12, fontWseight: FontWeight.bold)),
-              if (scramble.verseRef != null) ...[
-                const SizedBox(height: 2),
-                GestureDetector(
-                  onTap: canNavigate ? () => _playRef(scramble.verseRef) : null,
-                  child: Row(
-                    mainAxisSize: MainAxisSize.min,
-                    children: [
-                      if (canNavigate) ...[
-                        const Icon(
-                          Icons.play_circle_outline,
-                          size: 14,
-                          color: Colors.lightBlueAccent,
-                        ),
-                        const SizedBox(width: 4),
+                const SizedBox(height: 6),
+                Text(scramble.reference,
+                    style: const TextStyle(color: orange, fontSize: 12, fontWeight: FontWeight.bold)),
+                if (scramble.verseRef != null) ...[
+                  const SizedBox(height: 2),
+                  GestureDetector(
+                    onTap: canNavigate
+                        ? () => _playRef(scramble.verseRef)
+                        : (widget.onLoadTafsirRef != null
+                            ? () => widget.onLoadTafsirRef!(scramble.verseRef!)
+                            : null),
+                    child: Row(
+                      mainAxisSize: MainAxisSize.min,
+                      children: [
+                        if (canNavigate) ...[
+                          const Icon(
+                            Icons.play_circle_outline,
+                            size: 14,
+                            color: Colors.lightBlueAccent,
+                          ),
+                          const SizedBox(width: 4),
+                        ],
+                        Text(scramble.verseRef!,
+                            style: TextStyle(
+                              color: canNavigate
+                                  ? Colors.lightBlueAccent
+                                  : (widget.onLoadTafsirRef != null
+                                      ? Colors.amber
+                                      : Colors.white38),
+                              fontSize: 14,
+                              fontWeight: FontWeight.bold,
+                            )),
                       ],
-                      Text(scramble.verseRef!,
-                          style: TextStyle(
-                            color: canNavigate ? Colors.lightBlueAccent : Colors.white38,
-                            fontSize: 14,
-                            fontWeight: FontWeight.bold,
-                          )),
-                    ],
+                    ),
                   ),
-                ),
+                  if (!canNavigate) ...[
+                    const SizedBox(height: 4),
+                    _buildLoadTafsirPrompt(),
+                  ],
+                ],
               ],
-            ],
-          ),
-        );
-      }
+            ),
+          );
+        }
 }

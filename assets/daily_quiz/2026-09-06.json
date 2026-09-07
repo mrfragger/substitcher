@@ -1,0 +1,240 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "مَعَالِمُ الطَّبِيعَةِ فِي الْقُرْآنِ",
+        "nameEn": "Natural Landscape Features",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "الْبَحْرَ",
+            "en": "the sea",
+            "ref": "7:138",
+            "verse": "وَجَـٰوَزْنَا بِبَنِىٓ إِسْرَٰٓءِيلَ ٱلْبَحْرَ فَأَتَوْا۟ عَلَىٰ قَوْمٍۢ يَعْكُفُونَ عَلَىٰٓ أَصْنَامٍۢ لَّهُمْ ۚ قَالُوا۟ يَـٰمُوسَى ٱجْعَل لَّنَآ إِلَـٰهًۭا كَمَا لَهُمْ ءَالِهَةٌۭ ۚ قَالَ إِنَّكُمْ قَوْمٌۭ تَجْهَلُونَ",
+            "verseEn": "And We took the Children of Israel across the sea; then they came upon a people intent in devotion to [some] idols of theirs. They [the Children of Israel] said, \"O Moses, make for us a god just as they have gods.\" He said, \"Indeed, you are a people behaving ignorantly."
+          },
+          {
+            "ar": "الْجَبَلَ",
+            "en": "the mountain",
+            "ref": "7:171",
+            "verse": "۞ وَإِذْ نَتَقْنَا ٱلْجَبَلَ فَوْقَهُمْ كَأَنَّهُۥ ظُلَّةٌۭ وَظَنُّوٓا۟ أَنَّهُۥ وَاقِعٌۢ بِهِمْ خُذُوا۟ مَآ ءَاتَيْنَـٰكُم بِقُوَّةٍۢ وَٱذْكُرُوا۟ مَا فِيهِ لَعَلَّكُمْ تَتَّقُونَ",
+            "verseEn": "And [mention] when We raised the mountain above them as if it was a dark cloud and they were certain that it would fall upon them, [and Allāh said], \"Take what We have given you with determination and remember what is in it that you might fear Allāh.\""
+          },
+          {
+            "ar": "عُيُونٍ",
+            "en": "and springs",
+            "ref": "26:147",
+            "verse": "فِى جَنَّـٰتٍۢ وَعُيُونٍۢ",
+            "verseEn": "Within gardens and springs"
+          },
+          {
+            "ar": "السَّمَاءِ",
+            "en": "the sky",
+            "ref": "43:11",
+            "verse": "وَٱلَّذِى نَزَّلَ مِنَ ٱلسَّمَآءِ مَآءًۢ بِقَدَرٍۢ فَأَنشَرْنَا بِهِۦ بَلْدَةًۭ مَّيْتًۭا ۚ كَذَٰلِكَ تُخْرَجُونَ",
+            "verseEn": "And who sends down rain from the sky in measured amounts, and We revive thereby a dead land - thus will you be brought forth -"
+          }
+        ]
+      },
+      {
+        "name": "أَسْمَاءُ الزَّمَانِ فِي الْقُرْآنِ",
+        "nameEn": "Nouns of time (Ism Zaman) in the Quran",
+        "color": "green",
+        "items": [
+          {
+            "ar": "مَوْعِدُكُمْ",
+            "en": "Your appointment",
+            "ref": "20:59",
+            "verse": "قَالَ مَوْعِدُكُمْ يَوْمُ ٱلزِّينَةِ وَأَن يُحْشَرَ ٱلنَّاسُ ضُحًۭى",
+            "verseEn": "[Moses] said, \"Your appointment is on the day of the festival when the people assemble at mid-morning.\""
+          },
+          {
+            "ar": "مِيقَاتِ",
+            "en": "(the) appointment",
+            "ref": "56:50",
+            "verse": "لَمَجْمُوعُونَ إِلَىٰ مِيقَـٰتِ يَوْمٍۢ مَّعْلُومٍۢ",
+            "verseEn": "Are to be gathered together for the appointment of a known Day.\""
+          },
+          {
+            "ar": "مَنَاسِكَكُمْ",
+            "en": "your acts of worship",
+            "ref": "2:200",
+            "verse": "فَإِذَا قَضَيْتُم مَّنَـٰسِكَكُمْ فَٱذْكُرُوا۟ ٱللَّهَ كَذِكْرِكُمْ ءَابَآءَكُمْ أَوْ أَشَدَّ ذِكْرًۭا ۗ فَمِنَ ٱلنَّاسِ مَن يَقُولُ رَبَّنَآ ءَاتِنَا فِى ٱلدُّنْيَا وَمَا لَهُۥ فِى ٱلْـَٔاخِرَةِ مِنْ خَلَـٰقٍۢ",
+            "verseEn": "And when you have completed your rites, remember Allāh like your [previous] remembrance of your fathers or with [much] greater remembrance. And among the people is he who says, \"Our Lord, give us in this world,\" and he will have in the Hereafter no share."
+          },
+          {
+            "ar": "مَّشْهَدِ",
+            "en": "(the) witnessing",
+            "ref": "19:37",
+            "verse": "فَٱخْتَلَفَ ٱلْأَحْزَابُ مِنۢ بَيْنِهِمْ ۖ فَوَيْلٌۭ لِّلَّذِينَ كَفَرُوا۟ مِن مَّشْهَدِ يَوْمٍ عَظِيمٍ",
+            "verseEn": "Then the factions differed [concerning Jesus] from among them, so woe to those who disbelieved - from the scene of a tremendous Day."
+          }
+        ]
+      },
+      {
+        "name": "أَحْوَالُ الْمُكَذِّبِينَ فِي سُورَةِ النَّازِعَاتِ",
+        "nameEn": "States of the Deniers in Surah An-Nazi'at",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "وَاجِفَةٌ",
+            "en": "will palpitate",
+            "ref": "79:8",
+            "verse": "قُلُوبٌۭ يَوْمَئِذٍۢ وَاجِفَةٌ",
+            "verseEn": "Hearts, that Day, will tremble,"
+          },
+          {
+            "ar": "خَاشِعَةٌ",
+            "en": "humbled",
+            "ref": "79:9",
+            "verse": "أَبْصَـٰرُهَا خَـٰشِعَةٌۭ",
+            "verseEn": "Their eyes humbled."
+          },
+          {
+            "ar": "الْحَافِرَةِ",
+            "en": "the former state",
+            "ref": "79:10",
+            "verse": "يَقُولُونَ أَءِنَّا لَمَرْدُودُونَ فِى ٱلْحَافِرَةِ",
+            "verseEn": "They are [presently] saying, \"Will we indeed be returned to [our] former state [of life]?"
+          },
+          {
+            "ar": "خَاسِرَةٌ",
+            "en": "losing",
+            "ref": "79:12",
+            "verse": "قَالُوا۟ تِلْكَ إِذًۭا كَرَّةٌ خَاسِرَةٌۭ",
+            "verseEn": "They say, \"That, then, would be a losing return.\""
+          }
+        ]
+      },
+      {
+        "name": "أَسْمَاءٌ نَكِرَةٌ مَنْصُوبَةٌ فِي سُورَةِ نُوحٍ",
+        "nameEn": "Indefinite accusative nouns in Surah Nuh",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "فِرَارًا",
+            "en": "(in) flight",
+            "ref": "71:6",
+            "verse": "فَلَمْ يَزِدْهُمْ دُعَآءِىٓ إِلَّا فِرَارًۭا",
+            "verseEn": "But my invitation increased them not except in flight [i.e., aversion]."
+          },
+          {
+            "ar": "دَيَّارًا",
+            "en": "(as) an inhabitant",
+            "ref": "71:26",
+            "verse": "وَقَالَ نُوحٌۭ رَّبِّ لَا تَذَرْ عَلَى ٱلْأَرْضِ مِنَ ٱلْكَـٰفِرِينَ دَيَّارًا",
+            "verseEn": "And Noah said, \"My Lord, do not leave upon the earth from among the disbelievers an inhabitant."
+          },
+          {
+            "ar": "فَاجِرًا",
+            "en": "a wicked",
+            "ref": "71:27",
+            "verse": "إِنَّكَ إِن تَذَرْهُمْ يُضِلُّوا۟ عِبَادَكَ وَلَا يَلِدُوٓا۟ إِلَّا فَاجِرًۭا كَفَّارًۭا",
+            "verseEn": "Indeed, if You leave them, they will mislead Your servants and not beget except [every] wicked one and [confirmed] disbeliever."
+          },
+          {
+            "ar": "تَبَارًا",
+            "en": "(in) destruction",
+            "ref": "71:28",
+            "verse": "رَّبِّ ٱغْفِرْ لِى وَلِوَٰلِدَىَّ وَلِمَن دَخَلَ بَيْتِىَ مُؤْمِنًۭا وَلِلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ وَلَا تَزِدِ ٱلظَّـٰلِمِينَ إِلَّا تَبَارًۢا",
+            "verseEn": "My Lord, forgive me and my parents and whoever enters my house a believer and the believing men and believing women. And do not increase the wrongdoers except in destruction.\""
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "شكر",
+    "display": "شُكْر",
+    "hint": "A virtuous heart's response to blessings — when every good thing in life is recognized and valued as a divine favor, a deeply praised quality in the Quran",
+    "verseRef": "27:40",
+    "arabicVerse": "قَالَ ٱلَّذِى عِندَهُۥ عِلْمٌۭ مِّنَ ٱلْكِتَـٰبِ أَنَا۠ ءَاتِيكَ بِهِۦ قَبْلَ أَن يَرْتَدَّ إِلَيْكَ طَرْفُكَ ۚ فَلَمَّا رَءَاهُ مُسْتَقِرًّا عِندَهُۥ قَالَ هَـٰذَا مِن فَضْلِ رَبِّى لِيَبْلُوَنِىٓ ءَأَشْكُرُ أَمْ أَكْفُرُ ۖ وَمَن شَكَرَ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ رَبِّى غَنِىٌّۭ كَرِيمٌۭ",
+    "verse": "27:40 - Said one who had knowledge from the Scripture, \"I will bring it to you before your glance returns to you.\" And when [Solomon] saw it placed before him, he said, \"This is from the favor of my Lord to test me whether I will be grateful or ungrateful. And whoever is grateful - his gratitude is only for [the benefit of] himself. And whoever is ungrateful - then indeed, my Lord is Free of need and Generous.\""
+  },
+  "deduction": {
+    "title": "The Outcast of the Golden Calf",
+    "intro": "A figure mentioned in the Quran led a great multitude into deviation during the absence of a noble prophet. Something crafted from gold captured the hearts of an entire nation — but the story of this individual ends in solitude and a strange curse. Who could this outcast be?",
+    "clues": [
+      "I emerged during the absence of a great prophet who had ascended to receive divine guidance.",
+      "I caused a great multitude to go astray with something I crafted with my own hands.",
+      "The golden creation I produced seemed to have life, producing sounds that mesmerized those who followed it.",
+      "I claimed to have seen what others could not perceive — a glimpse into the unseen.",
+      "I drew something from the tracks of the divine messenger and cast it into molten metal.",
+      "I was condemned to wander alone, with a unique curse that none could touch my skin nor I touch theirs."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Samiri",
+          "Haman",
+          "Pharaoh (Fir'awn)",
+          "Abu Lahab",
+          "Prophet Salih"
+        ],
+        "answer": "Samiri"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "Created a golden calf for worship",
+          "Built a tower reaching the heavens",
+          "Challenged Egypt's sorcerers",
+          "Led an army with flying beasts",
+          "Split the moon as proof of prophethood"
+        ],
+        "answer": "Created a golden calf for worship"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "The golden calf",
+          "A staff that turned into a serpent",
+          "A burning bush on a mountain",
+          "An ark resting on a peak",
+          "A trench filled with blazing fire"
+        ],
+        "answer": "The golden calf"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "Exiled, forbidden from being touched or touching others",
+          "Drowned in the sea along with an army",
+          "Burned alive for rejecting faith",
+          "Struck down by a violent, roaring wind",
+          "Forgiven and raised to a high station"
+        ],
+        "answer": "Exiled, forbidden from being touched or touching others"
+      }
+    },
+    "verseRef": "20:85",
+    "arabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+    "verse": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī has led them astray.\" (20:85)"
+  },
+  "scramble": {
+    "verseRef": "8:61",
+    "reference": "Surah Al-Anfal (8:61)",
+    "segments": [
+      "وَإِن جَنَحُوا لِلسَّلْمِ",
+      "فَاجْنَحْ لَهَا",
+      "وَتَوَكَّلْ عَلَى اللَّهِ",
+      "إِنَّهُ هُوَ السَّمِيعُ الْعَلِيمُ"
+    ],
+    "translations": [
+      "And if they incline to peace",
+      "then you (also) incline to it and put (your) trust",
+      "in Allah Indeed",
+      "He (is) All-Hearer All-Knower"
+    ],
+    "hint": "A divine instruction on embracing peace and placing full trust in Allah, even in times of conflict.",
+    "arabic": "۞ وَإِن جَنَحُوا۟ لِلسَّلْمِ فَٱجْنَحْ لَهَا وَتَوَكَّلْ عَلَى ٱللَّهِ ۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+    "words": [
+      "۞ وَإِن جَنَحُوا۟ لِلسَّلْمِ",
+      "فَٱجْنَحْ لَهَا وَتَوَكَّلْ",
+      "عَلَى ٱللَّهِ ۚ إِنَّهُۥ",
+      "هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ"
+    ],
+    "verseEn": "And if they incline to peace, then incline to it [also] and rely upon Allāh. Indeed, it is He who is the Hearing, the Knowing."
+  }
+}

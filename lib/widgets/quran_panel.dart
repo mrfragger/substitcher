@@ -1663,6 +1663,14 @@ class _QuranPanelState extends State<QuranPanel> {
     return _TafsirRange(s, from, to);
   }
 
+  void loadTafsirRef(String ref) {
+    setState(() {
+      _tafsirSearchMode = false;
+    });
+    _tafsirRefController.text = ref;
+    _tafsirRefFocusNode.requestFocus();
+  }
+
   void _lookupTafsir(BuildContext context) {
     final range = _parseTafsirRef(context, _tafsirRefController.text);
     if (range == null) return;

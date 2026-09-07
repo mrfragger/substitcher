@@ -82,7 +82,12 @@ class DailyQuizPrefs {
 class ConnectionsEntry {
   final DateTime date;
   final int categoryCount;
-  ConnectionsEntry({required this.date, required this.categoryCount});
+  final String? firstCategoryName;
+  ConnectionsEntry({
+    required this.date,
+    required this.categoryCount,
+    this.firstCategoryName,
+  });
 }
 
 class ConnectionsIndex {
@@ -98,7 +103,13 @@ class ConnectionsIndex {
         final conn = dayJson['connections'];
         final cats = conn is Map ? conn['categories'] : null;
         if (cats is List && cats.isNotEmpty) {
-          entries.add(ConnectionsEntry(date: d, categoryCount: cats.length));
+          final first = cats.first;
+          final firstName = first is Map ? first['nameEn'] as String? : null;
+          entries.add(ConnectionsEntry(
+            date: d,
+            categoryCount: cats.length,
+            firstCategoryName: firstName,
+          ));
         }
       } catch (_) {
         // skip malformed/missing files

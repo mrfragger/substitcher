@@ -61,30 +61,33 @@ class AllahHighlighter {
 
   /// Returns [text] as spans with:
   /// - "quotes" in pink
-  /// - [brackets] in amber
-  /// - (parens) in amber/orange
+  /// - [brackets] in cyan (highlighted even when nested inside quotes)
+  /// - (parens) in amber (highlighted even when nested inside quotes)
   /// - Allah/Lord/Rabb occurrences in purple, including inside the above
   static List<TextSpan> spans(String text, TextStyle baseStyle,
       {bool isArabic = false}) {
     const pinkColor = Color(0xFFFFB6C1);
     const amberColor = Colors.amber;
+    const bracketColor = Colors.cyan;
     const allahColor = Color(0xFFCB93F5);
-    const cyanColor = Colors.cyan;
 
     final quoteStyle = baseStyle.copyWith(color: pinkColor);
-    final bracketStyle = baseStyle.copyWith(color: cyanColor);
+    final bracketStyle = baseStyle.copyWith(color: bracketColor);
     final parenStyle = baseStyle.copyWith(color: amberColor);
     final allahStyle = baseStyle.copyWith(color: allahColor);
 
-    // Simple pattern for matching quoted text
-    final quotePattern = RegExp(r'"[^"]*"');
-    const parenPattern = r'\([^)]*\)';
-    final bracketPattern = RegExp(r'\[[^\]]*\]');
+    final quotePattern = r'"[^"]*"';
+    final parenPattern = r'\([^)]*\)';
+    final bracketPattern = r'\[[^\]]*\]';
 
-    // Combined pattern
-    final combined = RegExp('(${quotePattern.pattern})|($parenPattern)|(${bracketPattern.pattern})');
+    // Top-level pattern matches quotes, parens, and brackets.
+    final topPattern =
+        RegExp('($quotePattern)|($parenPattern)|($bracketPattern)');
+    // Nested pattern (used inside a quote) matches only parens/brackets,
+    // so we don't try to re-match quote delimiters inside a quote.
+    final nestedPattern = RegExp('($parenPattern)|($bracketPattern)');
 
-    List<TextSpan> _applyAllah(String segment, TextStyle style) {
+    List<TextSpan> applyAllah(String segment, TextStyle style) {
       final allahRanges = isArabic
           ? _findArabicAllahRanges(segment)
           : _findEnglishAllahRanges(segment);
@@ -109,34 +112,53 @@ class AllahHighlighter {
       return out;
     }
 
-    final result = <TextSpan>[];
-    int cursor = 0;
-    for (final m in combined.allMatches(text)) {
-      if (m.start > cursor) {
-        result.addAll(_applyAllah(text.substring(cursor, m.start), baseStyle));
+    // Recursively processes [text] for quote/paren/bracket spans, using
+    // [pattern] to find delimiters at this level, and [style] as the
+    // fallback style for plain text. Quotes are only matched at the top
+    // level (isTopLevel) to avoid ambiguous nested-quote matching.
+    List<TextSpan> process(String text, TextStyle style, RegExp pattern,
+        {required bool isTopLevel}) {
+      final result = <TextSpan>[];
+      int cursor = 0;
+      for (final m in pattern.allMatches(text)) {
+        if (m.start > cursor) {
+          result.addAll(applyAllah(text.substring(cursor, m.start), style));
+        }
+        final matched = m.group(0)!;
+        if (isTopLevel && m.group(1) != null) {
+          // "quote" — recurse for nested brackets/parens only.
+          final inner = matched.substring(1, matched.length - 1);
+          result.add(TextSpan(text: '"', style: quoteStyle));
+          result.addAll(
+              process(inner, quoteStyle, nestedPattern, isTopLevel: false));
+          result.add(TextSpan(text: '"', style: quoteStyle));
+        } else {
+          final groupIndex = isTopLevel ? m.group(2) : m.group(1);
+          final isParen = groupIndex != null;
+          if (isParen) {
+            // (paren) — recurse for nested brackets.
+            final inner = matched.substring(1, matched.length - 1);
+            result.add(TextSpan(text: '(', style: parenStyle));
+            result.addAll(
+                process(inner, parenStyle, nestedPattern, isTopLevel: false));
+            result.add(TextSpan(text: ')', style: parenStyle));
+          } else {
+            // [bracket] — recurse for nested parens.
+            final inner = matched.substring(1, matched.length - 1);
+            result.add(TextSpan(text: '[', style: bracketStyle));
+            result.addAll(process(inner, bracketStyle, nestedPattern,
+                isTopLevel: false));
+            result.add(TextSpan(text: ']', style: bracketStyle));
+          }
+        }
+        cursor = m.end;
       }
-      final matched = m.group(0)!;
-      if (m.group(1) != null) {
-        // "quote"
-        result.add(TextSpan(text: '"', style: quoteStyle));
-        result.addAll(_applyAllah(matched.substring(1, matched.length - 1), quoteStyle));
-        result.add(TextSpan(text: '"', style: quoteStyle));
-      } else if (m.group(2) != null) {
-        // (paren)
-        result.add(TextSpan(text: '(', style: parenStyle));
-        result.addAll(_applyAllah(matched.substring(1, matched.length - 1), parenStyle));
-        result.add(TextSpan(text: ')', style: parenStyle));
-      } else {
-        // [bracket]
-        result.add(TextSpan(text: '[', style: bracketStyle));
-        result.addAll(_applyAllah(matched.substring(1, matched.length - 1), bracketStyle));
-        result.add(TextSpan(text: ']', style: bracketStyle));
+      if (cursor < text.length) {
+        result.addAll(applyAllah(text.substring(cursor), style));
       }
-      cursor = m.end;
+      return result;
     }
-    if (cursor < text.length) {
-      result.addAll(_applyAllah(text.substring(cursor), baseStyle));
-    }
-    return result;
+
+    return process(text, baseStyle, topPattern, isTopLevel: true);
   }
 }

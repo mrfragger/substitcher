@@ -1,0 +1,240 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَلْفَاظٌ عَلَى وَزْنِ مَفْعُولٍ فِي الْقُرْآنِ",
+        "nameEn": "Quranic Words on the Pattern Maf'ul (Passive Participles)",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "مَعْلُومٌ",
+            "en": "known",
+            "ref": "15:4",
+            "verse": "وَمَآ أَهْلَكْنَا مِن قَرْيَةٍ إِلَّا وَلَهَا كِتَابٌۭ مَّعْلُومٌۭ",
+            "verseEn": "And We did not destroy any city but that for it was a known decree."
+          },
+          {
+            "ar": "مَسْطُورًا",
+            "en": "written",
+            "ref": "17:58",
+            "verse": "وَإِن مِّن قَرْيَةٍ إِلَّا نَحْنُ مُهْلِكُوهَا قَبْلَ يَوْمِ ٱلْقِيَـٰمَةِ أَوْ مُعَذِّبُوهَا عَذَابًۭا شَدِيدًۭا ۚ كَانَ ذَٰلِكَ فِى ٱلْكِتَـٰبِ مَسْطُورًۭا",
+            "verseEn": "And there is no city but that We will destroy it before the Day of Resurrection or punish it with a severe punishment. That has ever been in the Register inscribed."
+          },
+          {
+            "ar": "مَشْهُودٌ",
+            "en": "witnessed",
+            "ref": "11:103",
+            "verse": "إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ لِّمَنْ خَافَ عَذَابَ ٱلْـَٔاخِرَةِ ۚ ذَٰلِكَ يَوْمٌۭ مَّجْمُوعٌۭ لَّهُ ٱلنَّاسُ وَذَٰلِكَ يَوْمٌۭ مَّشْهُودٌۭ",
+            "verseEn": "Indeed in that is a sign for those who fear the punishment of the Hereafter. That is a Day for which the people will be collected, and that is a Day [which will be] witnessed."
+          },
+          {
+            "ar": "مَذْمُومًا",
+            "en": "disgraced",
+            "ref": "17:18",
+            "verse": "مَّن كَانَ يُرِيدُ ٱلْعَاجِلَةَ عَجَّلْنَا لَهُۥ فِيهَا مَا نَشَآءُ لِمَن نُّرِيدُ ثُمَّ جَعَلْنَا لَهُۥ جَهَنَّمَ يَصْلَىٰهَا مَذْمُومًۭا مَّدْحُورًۭا",
+            "verseEn": "Whoever should desire the immediate - We hasten for him from it what We will to whom We intend. Then We have made for him Hell, which he will [enter to] burn, censured and banished."
+          }
+        ]
+      },
+      {
+        "name": "جُمُوعُ فَاعِلٍ عَلَى وَزْنِ فَعَلَةٍ",
+        "nameEn": "Plural Active Participles on the Pattern Fa'alah (فَعَلَة)",
+        "color": "green",
+        "items": [
+          {
+            "ar": "سَفَرَةٍ",
+            "en": "(of) scribes",
+            "ref": "80:15",
+            "verse": "بِأَيْدِى سَفَرَةٍۢ",
+            "verseEn": "[Carried] by the hands of messenger-angels,"
+          },
+          {
+            "ar": "بَرَرَةٍ",
+            "en": "dutiful",
+            "ref": "80:16",
+            "verse": "كِرَامٍۭ بَرَرَةٍۢ",
+            "verseEn": "Noble and dutiful."
+          },
+          {
+            "ar": "السَّحَرَةُ",
+            "en": "the magicians",
+            "ref": "7:113",
+            "verse": "وَجَآءَ ٱلسَّحَرَةُ فِرْعَوْنَ قَالُوٓا۟ إِنَّ لَنَا لَأَجْرًا إِن كُنَّا نَحْنُ ٱلْغَـٰلِبِينَ",
+            "verseEn": "And the magicians came to Pharaoh. They said, \"Indeed for us is a reward if we are the predominant.\""
+          },
+          {
+            "ar": "الْكَفَرَةُ",
+            "en": "(are) the disbelievers",
+            "ref": "80:42",
+            "verse": "أُو۟لَـٰٓئِكَ هُمُ ٱلْكَفَرَةُ ٱلْفَجَرَةُ",
+            "verseEn": "Those are the disbelievers, the wicked ones."
+          }
+        ]
+      },
+      {
+        "name": "أسماء على وزن فِعَال",
+        "nameEn": "Quranic Nouns on the Pattern Fi'al (فِعَال)",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "كِتَابٌ",
+            "en": "A Book",
+            "ref": "41:3",
+            "verse": "كِتَـٰبٌۭ فُصِّلَتْ ءَايَـٰتُهُۥ قُرْءَانًا عَرَبِيًّۭا لِّقَوْمٍۢ يَعْلَمُونَ",
+            "verseEn": "A Book whose verses have been detailed, an Arabic Qur’ān for a people who know,"
+          },
+          {
+            "ar": "الْحِسَابِ",
+            "en": "(in taking) account",
+            "ref": "2:202",
+            "verse": "أُو۟لَـٰٓئِكَ لَهُمْ نَصِيبٌۭ مِّمَّا كَسَبُوا۟ ۚ وَٱللَّهُ سَرِيعُ ٱلْحِسَابِ",
+            "verseEn": "Those will have a share of what they have earned, and Allāh is swift in account."
+          },
+          {
+            "ar": "عَذَابَ",
+            "en": "(from) punishment",
+            "ref": "3:16",
+            "verse": "ٱلَّذِينَ يَقُولُونَ رَبَّنَآ إِنَّنَآ ءَامَنَّا فَٱغْفِرْ لَنَا ذُنُوبَنَا وَقِنَا عَذَابَ ٱلنَّارِ",
+            "verseEn": "Those who say, \"Our Lord, indeed we have believed, so forgive us our sins and protect us from the punishment of the Fire,\""
+          },
+          {
+            "ar": "صِرَاطٍ",
+            "en": "a path",
+            "ref": "3:101",
+            "verse": "وَكَيْفَ تَكْفُرُونَ وَأَنتُمْ تُتْلَىٰ عَلَيْكُمْ ءَايَـٰتُ ٱللَّهِ وَفِيكُمْ رَسُولُهُۥ ۗ وَمَن يَعْتَصِم بِٱللَّهِ فَقَدْ هُدِىَ إِلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ",
+            "verseEn": "And how could you disbelieve while to you are being recited the verses of Allāh and among you is His Messenger? And whoever holds firmly to Allāh has [indeed] been guided to a straight path."
+          }
+        ]
+      },
+      {
+        "name": "الأسماءُ الجمعيةُ المفردةُ في القرآنِ",
+        "nameEn": "Singular Collective Nouns in the Quran",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "قَوْمُ",
+            "en": "(the) people",
+            "ref": "26:105",
+            "verse": "كَذَّبَتْ قَوْمُ نُوحٍ ٱلْمُرْسَلِينَ",
+            "verseEn": "The people of Noah denied the messengers"
+          },
+          {
+            "ar": "أُمَّةً",
+            "en": "religion",
+            "ref": "21:92",
+            "verse": "إِنَّ هَـٰذِهِۦٓ أُمَّتُكُمْ أُمَّةًۭ وَٰحِدَةًۭ وَأَنَا۠ رَبُّكُمْ فَٱعْبُدُونِ",
+            "verseEn": "Indeed this, your religion, is one religion, and I am your Lord, so worship Me."
+          },
+          {
+            "ar": "فَوْجٌ",
+            "en": "a group",
+            "ref": "67:8",
+            "verse": "تَكَادُ تَمَيَّزُ مِنَ ٱلْغَيْظِ ۖ كُلَّمَآ أُلْقِىَ فِيهَا فَوْجٌۭ سَأَلَهُمْ خَزَنَتُهَآ أَلَمْ يَأْتِكُمْ نَذِيرٌۭ",
+            "verseEn": "It almost bursts with rage. Every time a company is thrown into it, its keepers ask them, \"Did there not come to you a warner?\""
+          },
+          {
+            "ar": "فِئَةٍ",
+            "en": "a group",
+            "ref": "8:16",
+            "verse": "وَمَن يُوَلِّهِمْ يَوْمَئِذٍۢ دُبُرَهُۥٓ إِلَّا مُتَحَرِّفًۭا لِّقِتَالٍ أَوْ مُتَحَيِّزًا إِلَىٰ فِئَةٍۢ فَقَدْ بَآءَ بِغَضَبٍۢ مِّنَ ٱللَّهِ وَمَأْوَىٰهُ جَهَنَّمُ ۖ وَبِئْسَ ٱلْمَصِيرُ",
+            "verseEn": "And whoever turns his back to them on such a day, unless swerving [as a strategy] for war or joining [another] company, has certainly returned with anger [upon him] from Allāh, and his refuge is Hell - and wretched is the destination."
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "سحر",
+    "display": "سِحْر",
+    "hint": "Deceptive craft wielded by Pharaoh's magicians — their staffs and ropes seemed to crawl before Moses",
+    "verseRef": "20:66",
+    "arabicVerse": "قَالَ بَلْ أَلْقُوا۟ ۖ فَإِذَا حِبَالُهُمْ وَعِصِيُّهُمْ يُخَيَّلُ إِلَيْهِ مِن سِحْرِهِمْ أَنَّهَا تَسْعَىٰ",
+    "verse": "20:66 - He said, \"Rather, you throw.\" And suddenly their ropes and staffs seemed to him from their magic that they were moving [like snakes]."
+  },
+  "deduction": {
+    "title": "The Companion Who Turned Away",
+    "intro": "You are about to uncover the story of a soul who lived in the shadow of prophethood yet chose a path that led to ruin. This figure shared a home with one of Allah's chosen messengers but failed the test of faith. Who is this lost companion?",
+    "clues": [
+      "I lived among people who rejected the call to righteousness, and I did not oppose them.",
+      "I was married to a prophet of Allah, but I did not share the belief.",
+      "When the messengers came to my home with a warning, I did not believe them.",
+      "My spouse was commanded to leave the city with the believers, and I was not among them.",
+      "The punishment descended upon my people, and I was destroyed along with them.",
+      "I am mentioned in the Quran as an example of disbelief, alongside the wife of Nuh, in Surah At-Tahrim."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Wife of Prophet Nuh",
+          "Wife of Prophet Lut",
+          "Wife of Prophet Ibrahim",
+          "Wife of Prophet Musa",
+          "Wife of Prophet Ayyub"
+        ],
+        "answer": "Wife of Prophet Lut"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "Betrayed her husband by disbelieving",
+          "Rejected the message of Prophet Hud",
+          "Worshipped idols openly in the Kaaba",
+          "Plotted against her husband's mission",
+          "Refused to accept her son's prophethood"
+        ],
+        "answer": "Betrayed her husband by disbelieving"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "The city of Sodom",
+          "The city of Madyan",
+          "The city of Iram",
+          "The city of Babylon",
+          "The city of Jerusalem"
+        ],
+        "answer": "The city of Sodom"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "Saved with her husband",
+          "Destroyed with the disbelievers",
+          "Exiled to a distant land",
+          "Repented and was forgiven",
+          "Became a believer later"
+        ],
+        "answer": "Destroyed with the disbelievers"
+      }
+    },
+    "verseRef": "66:10",
+    "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+    "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+  },
+  "scramble": {
+    "verseRef": "4:31",
+    "reference": "An-Nisa (4:31)",
+    "segments": [
+      "words 1-3",
+      "words 4-6",
+      "words 7-9",
+      "words 10-12"
+    ],
+    "translations": [
+      "If you avoid great (sins)",
+      "(of) what you are forbidden from [it]",
+      "We will remove from you your evil deeds",
+      "and We will admit you (to) an entrance noble"
+    ],
+    "hint": "This verse promises forgiveness and an honorable entry for those who abstain from major sins.",
+    "arabic": "إِن تَجْتَنِبُوا۟ كَبَآئِرَ مَا تُنْهَوْنَ عَنْهُ نُكَفِّرْ عَنكُمْ سَيِّـَٔاتِكُمْ وَنُدْخِلْكُم مُّدْخَلًۭا كَرِيمًۭا",
+    "words": [
+      "إِن تَجْتَنِبُوا۟ كَبَآئِرَ",
+      "مَا تُنْهَوْنَ عَنْهُ",
+      "نُكَفِّرْ عَنكُمْ سَيِّـَٔاتِكُمْ",
+      "وَنُدْخِلْكُم مُّدْخَلًۭا كَرِيمًۭا"
+    ],
+    "verseEn": "If you avoid the major sins which you are forbidden, We will remove from you your lesser sins and admit you to a noble entrance [into Paradise]."
+  }
+}

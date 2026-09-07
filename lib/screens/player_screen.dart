@@ -230,6 +230,7 @@ class _PlayerScreenState extends State<PlayerScreen>
   final FocusNode _hadeethSearchFocusNode = FocusNode();
   final FocusNode _hadeethExcludeFocusNode = FocusNode();
   final FocusNode _tafsirSearchFocusNode = FocusNode();
+  final GlobalKey<State<QuranPanel>> _quranPanelKey = GlobalKey<State<QuranPanel>>();
 
   String _quranSearchQuery = '';
   String _quranExcludeQuery = '';
@@ -8772,6 +8773,7 @@ class _PlayerScreenState extends State<PlayerScreen>
                 SidePanel(
                   panelMode: _panelMode,
                   isCollapsed: _panelCollapsed,
+                  quranPanelKey: _quranPanelKey,
                   currentAudiobook: _currentAudiobook,
                   currentChapterIndex: _currentChapterIndex,
                   searchQuery: _searchQuery,
