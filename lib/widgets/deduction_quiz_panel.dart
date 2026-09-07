@@ -452,27 +452,27 @@ class _DeductionQuizPanelState extends State<DeductionQuizPanel> {
                             fontWeight: FontWeight.bold,
                           ),
                         ),
+                        if (!canNavigate) ...[
+                          const SizedBox(width: 6),
+                          Tooltip(
+                            message:
+                                'Load a Quran Verse by Verse audiobook to navigate to this verse',
+                            preferBelow: true,
+                            textStyle: const TextStyle(color: Colors.white, fontSize: 12),
+                            decoration: BoxDecoration(
+                              color: const Color(0xFF2A2A2A),
+                              borderRadius: BorderRadius.circular(6),
+                            ),
+                            child: const Icon(
+                              Icons.info_outline,
+                              size: 14,
+                              color: Colors.white70,
+                            ),
+                          ),
+                        ],
                       ],
                     ),
                   ),
-                  if (!canNavigate)
-                    Padding(
-                      padding: const EdgeInsets.only(top: 2),
-                      child: Tooltip(
-                        message: 'Load a Quran Verse by Verse audiobook to navigate to this verse',
-                        preferBelow: true,
-                        textStyle: const TextStyle(color: Colors.white, fontSize: 12),
-                        decoration: BoxDecoration(
-                          color: const Color(0xFF2A2A2A),
-                          borderRadius: BorderRadius.circular(6),
-                        ),
-                        child: const Icon(
-                          Icons.info_outline,
-                          size: 14,
-                          color: Colors.white70,
-                        ),
-                      ),
-                    ),
                 ],
               ],
             ),

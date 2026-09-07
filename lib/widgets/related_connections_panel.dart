@@ -178,7 +178,7 @@ class _RelatedConnectionsPanelState extends State<RelatedConnectionsPanel> {
                 Text(
                   _fmtDate(e.date),
                   style: TextStyle(
-                    color: isSelected ? Colors.white : Colors.white70,
+                    color: isSelected ? Colors.white : Colors.white38,
                     fontSize: 12,
                     fontWeight: isSelected ? FontWeight.bold : FontWeight.normal,
                   ),
@@ -190,8 +190,8 @@ class _RelatedConnectionsPanelState extends State<RelatedConnectionsPanel> {
                     maxLines: 2,
                     overflow: TextOverflow.ellipsis,
                     style: TextStyle(
-                      color: isSelected ? Colors.white70 : Colors.white38,
-                      fontSize: 9,
+                      color: isSelected ? Colors.white : Colors.white70,
+                      fontSize: 12,
                       height: 1.15,
                     ),
                   ),
@@ -381,13 +381,13 @@ class _RelatedConnectionsPanelState extends State<RelatedConnectionsPanel> {
                         fontSize: 14,
                         fontWeight: FontWeight.bold,
                       )),
+                  if (!canNavigate) ...[
+                    const SizedBox(width: 6),
+                    _buildLoadTafsirPrompt(),
+                  ],
                 ],
               ),
             ),
-            if (!canNavigate) ...[
-              const SizedBox(height: 4),
-              _buildLoadTafsirPrompt(),
-            ],
           ],
         ),
       );
@@ -416,7 +416,7 @@ class _RelatedConnectionsPanelState extends State<RelatedConnectionsPanel> {
                     borderRadius: BorderRadius.circular(20),
                     border: Border.all(color: orange.withAlpha(140)),
                   ),
-                  child: Text(scramble.hint, style: const TextStyle(color: orange, fontSize: 13)),
+                  child: Text(scramble.hint, style: const TextStyle(color: orange, fontSize: 16)),
                 ),
                 const SizedBox(height: 10),
                 Directionality(
@@ -472,13 +472,13 @@ class _RelatedConnectionsPanelState extends State<RelatedConnectionsPanel> {
                               fontSize: 14,
                               fontWeight: FontWeight.bold,
                             )),
+                        if (!canNavigate) ...[
+                          const SizedBox(width: 6),
+                          _buildLoadTafsirPrompt(),
+                        ],
                       ],
                     ),
                   ),
-                  if (!canNavigate) ...[
-                    const SizedBox(height: 4),
-                    _buildLoadTafsirPrompt(),
-                  ],
                 ],
               ],
             ),
