@@ -491,7 +491,6 @@ class _RelatedConnectionsPanelState extends State<RelatedConnectionsPanel> {
         }
 
         Widget _buildHarfCard(HarfItem harf) {
-          const highlightColor = Colors.amber;
           final pillColor = Colors.deepPurple;
 
           final match = RootHighlighter.findMatch(
@@ -529,8 +528,8 @@ class _RelatedConnectionsPanelState extends State<RelatedConnectionsPanel> {
                         textDirection: TextDirection.rtl,
                         child: Text(
                           harf.display,
-                          style: const TextStyle(
-                            color: Colors.white,
+                          style: TextStyle(
+                            color: Colors.purple.shade300,
                             fontSize: 40,
                             fontWeight: FontWeight.bold,
                           ),
@@ -539,7 +538,7 @@ class _RelatedConnectionsPanelState extends State<RelatedConnectionsPanel> {
                       const SizedBox(height: 6),
                       Text(
                         harf.hint,
-                        style: const TextStyle(color: Colors.white70, fontSize: 14, height: 1.3),
+                        style: TextStyle(color: Colors.purple.shade100, fontSize: 14, height: 1.3),
                       ),
                       const SizedBox(height: 4),
                       Directionality(
@@ -561,8 +560,8 @@ class _RelatedConnectionsPanelState extends State<RelatedConnectionsPanel> {
                 Directionality(
                   textDirection: TextDirection.rtl,
                   child: Text.rich(
-                    TextSpan(children: _buildVerseSpans(harf.arabicVerse, match, highlightColor)),
-                    style: const TextStyle(fontSize: 32, height: 1.7),
+                    TextSpan(children: _buildVerseSpans(harf.arabicVerse, match, Colors.purple.shade100)),
+                    style: const TextStyle(fontSize: 40, height: 1.7),
                   ),
                 ),
 
@@ -571,7 +570,7 @@ class _RelatedConnectionsPanelState extends State<RelatedConnectionsPanel> {
                   Directionality(
                     textDirection: TextDirection.rtl,
                     child: Text.rich(
-                      TextSpan(children: _buildWordBreakdownSpans(match, highlightColor)),
+                      TextSpan(children: _buildWordBreakdownSpans(match, Colors.purple.shade300)),
                       style: const TextStyle(fontSize: 44, height: 1.3),
                     ),
                   ),
