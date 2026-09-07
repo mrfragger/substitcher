@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import '../quiz/connections_model.dart';
 import '../quiz/daily_quiz_index.dart';
+import '../quiz/harf_model.dart';
 import '../quran/quran_index.dart';
 import '../services/allah_highlighter.dart';
 import 'package:scrollable_positioned_list/scrollable_positioned_list.dart';
@@ -26,6 +27,7 @@ class _RelatedConnectionsPanelState extends State<RelatedConnectionsPanel> {
   DateTime? _selectedDate;
   ConnectionsData? _data;
   ScrambleData? _scramble;
+  HarfData? _harf;
   bool _loadingList = true;
   bool _loadingDay = false;
 
@@ -84,10 +86,12 @@ class _RelatedConnectionsPanelState extends State<RelatedConnectionsPanel> {
       final dayJson = await DailyQuizIndex.loadDay(date);
       final data = ConnectionsData.tryParse(dayJson);
       final scramble = ScrambleData.tryParse(dayJson);
+      final harf = HarfData.tryParse(dayJson);
       if (!mounted) return;
       setState(() {
         _data = data;
         _scramble = scramble;
+        _harf = harf;
         _loadingDay = false;
       });
       if (data != null) {
@@ -228,6 +232,7 @@ class _RelatedConnectionsPanelState extends State<RelatedConnectionsPanel> {
       children: [
         ...data.categories.map((cat) => _buildCategoryCard(cat)),
         if (_scramble != null) _buildScrambleCard(_scramble!),
+        if (_harf != null) ..._harf!.items.map((h) => _buildHarfCard(h)),
       ],
     );
   }
@@ -483,5 +488,162 @@ class _RelatedConnectionsPanelState extends State<RelatedConnectionsPanel> {
               ],
             ),
           );
+        }
+
+        Widget _buildHarfCard(HarfItem harf) {
+          const highlightColor = Colors.amber;
+          final pillColor = Colors.deepPurple;
+
+          final match = RootHighlighter.findMatch(
+            harf.arabicVerse,
+            harf.word,
+            override: harf.matchOverride,
+          );
+          final ref = harf.verseRef;
+          final canNavigate =
+              widget.isQuranLoaded && widget.onVerseSelected != null && ref != null;
+
+          return Container(
+            margin: const EdgeInsets.only(bottom: 16),
+            padding: const EdgeInsets.all(12),
+            decoration: BoxDecoration(
+              color: pillColor.withAlpha(15),
+              borderRadius: BorderRadius.circular(8),
+              border: Border.all(color: pillColor.withAlpha(120)),
+            ),
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Container(
+                  width: double.infinity,
+                  padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
+                  decoration: BoxDecoration(
+                    color: pillColor.withAlpha(40),
+                    borderRadius: BorderRadius.circular(20),
+                    border: Border.all(color: pillColor.withAlpha(160)),
+                  ),
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      Directionality(
+                        textDirection: TextDirection.rtl,
+                        child: Text(
+                          harf.display,
+                          style: const TextStyle(
+                            color: Colors.white,
+                            fontSize: 40,
+                            fontWeight: FontWeight.bold,
+                          ),
+                        ),
+                      ),
+                      const SizedBox(height: 6),
+                      Text(
+                        harf.hint,
+                        style: const TextStyle(color: Colors.white70, fontSize: 14, height: 1.3),
+                      ),
+                      const SizedBox(height: 4),
+                      Directionality(
+                        textDirection: TextDirection.rtl,
+                        child: Text(
+                          harf.word, // undiacritized root, shown after the hint
+                          style: TextStyle(
+                            color: Colors.purple.shade100,
+                            fontSize: 40,
+                            fontWeight: FontWeight.w600,
+                          ),
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+                const SizedBox(height: 14),
+
+                Directionality(
+                  textDirection: TextDirection.rtl,
+                  child: Text.rich(
+                    TextSpan(children: _buildVerseSpans(harf.arabicVerse, match, highlightColor)),
+                    style: const TextStyle(fontSize: 32, height: 1.7),
+                  ),
+                ),
+
+                if (match != null) ...[
+                  const SizedBox(height: 12),
+                  Directionality(
+                    textDirection: TextDirection.rtl,
+                    child: Text.rich(
+                      TextSpan(children: _buildWordBreakdownSpans(match, highlightColor)),
+                      style: const TextStyle(fontSize: 44, height: 1.3),
+                    ),
+                  ),
+                ],
+
+                const SizedBox(height: 12),
+                Text(harf.verse,
+                    style: const TextStyle(color: Colors.white70, fontSize: 14, height: 1.4)),
+                const SizedBox(height: 6),
+
+                if (ref != null)
+                  GestureDetector(
+                    onTap: canNavigate
+                        ? () => _playRef(ref)
+                        : (widget.onLoadTafsirRef != null
+                            ? () => widget.onLoadTafsirRef!(ref)
+                            : null),
+                    child: Row(
+                      mainAxisSize: MainAxisSize.min,
+                      children: [
+                        if (canNavigate) ...[
+                          const Icon(Icons.play_circle_outline, size: 14, color: Colors.lightBlueAccent),
+                          const SizedBox(width: 4),
+                        ],
+                        Text(ref,
+                            style: TextStyle(
+                              color: canNavigate
+                                  ? Colors.lightBlueAccent
+                                  : (widget.onLoadTafsirRef != null ? Colors.amber : Colors.white38),
+                              fontSize: 14,
+                              fontWeight: FontWeight.bold,
+                            )),
+                        if (!canNavigate) ...[
+                          const SizedBox(width: 6),
+                          _buildLoadTafsirPrompt(),
+                        ],
+                      ],
+                    ),
+                  ),
+              ],
+            ),
+          );
+        }
+
+        List<InlineSpan> _buildVerseSpans(String verse, WordMatch? match, Color highlight) {
+          if (match == null) {
+            // couldn't auto-locate the word — show verse plain, no crash
+            return [TextSpan(text: verse, style: const TextStyle(color: Colors.white))];
+          }
+          return [
+            TextSpan(text: verse.substring(0, match.wordStart), style: const TextStyle(color: Colors.white)),
+            TextSpan(
+              text: verse.substring(match.wordStart, match.wordEnd),
+              style: TextStyle(
+                color: Colors.white,
+                fontWeight: FontWeight.bold,
+                backgroundColor: highlight.withAlpha(90),
+              ),
+            ),
+            TextSpan(text: verse.substring(match.wordEnd), style: const TextStyle(color: Colors.white)),
+          ];
+        }
+
+        List<InlineSpan> _buildWordBreakdownSpans(WordMatch match, Color rootColor) {
+          final w = match.word;
+          return [
+            TextSpan(text: w.substring(0, match.rootStartInWord), style: const TextStyle(color: Colors.white38)),
+            TextSpan(
+              text: w.substring(match.rootStartInWord, match.rootEndInWord),
+              style: TextStyle(color: rootColor, fontWeight: FontWeight.w900),
+            ),
+            TextSpan(text: w.substring(match.rootEndInWord), style: const TextStyle(color: Colors.white38)),
+          ];
         }
 }
