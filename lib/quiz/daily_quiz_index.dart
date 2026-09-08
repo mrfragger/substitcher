@@ -79,6 +79,45 @@ class DailyQuizPrefs {
   }
 }
 
+class ScrambleGamePrefs {
+  static String _key(DateTime date) => 'scrambleGame_${DailyQuizIndex._fmt(date)}';
+
+  static Future<void> saveSolvedCount(DateTime date, int count) async {
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setInt(_key(date), count);
+  }
+
+  static Future<int> loadSolvedCount(DateTime date) async {
+    final prefs = await SharedPreferences.getInstance();
+    return prefs.getInt(_key(date)) ?? 0;
+  }
+
+  static Future<void> clearSolvedCount(DateTime date) async {
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.remove(_key(date));
+  }
+}
+
+class ConnectionsGamePrefs {
+  static String _key(DateTime date) => 'connGame_${DailyQuizIndex._fmt(date)}';
+
+  static Future<void> saveSolved(DateTime date, Set<String> solvedKeys) async {
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setStringList(_key(date), solvedKeys.toList());
+  }
+
+  static Future<Set<String>> loadSolved(DateTime date) async {
+    final prefs = await SharedPreferences.getInstance();
+    final list = prefs.getStringList(_key(date));
+    return list?.toSet() ?? {};
+  }
+
+  static Future<void> clearSolved(DateTime date) async {
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.remove(_key(date));
+  }
+}
+
 class ConnectionsEntryCategory {
   final String name;
   final String colorName;

@@ -1,3 +1,5 @@
+import 'dart:math';
+
 class DeductionCategory {
   final String key;
   final String label;
@@ -12,10 +14,11 @@ class DeductionCategory {
   });
 
   factory DeductionCategory.fromJson(String key, Map<String, dynamic> json) {
+    final options = List<String>.from(json['options'] as List)..shuffle();
     return DeductionCategory(
       key: key,
       label: json['label'] as String,
-      options: List<String>.from(json['options'] as List),
+      options: options,
       answer: json['answer'] as String,
     );
   }

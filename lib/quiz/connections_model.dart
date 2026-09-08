@@ -93,15 +93,17 @@ class ScrambleData {
   final String arabic;
   final String verseEn;
   final String? verseRef;
-
+  final List<String> words;
+  final List<String> translations;
   ScrambleData({
     required this.reference,
     required this.hint,
     required this.arabic,
     required this.verseEn,
     required this.verseRef,
+    required this.words,
+    required this.translations,
   });
-
   static ScrambleData? tryParse(Map<String, dynamic> dayJson) {
     final s = dayJson['scramble'];
     if (s == null) return null;
@@ -111,6 +113,8 @@ class ScrambleData {
       arabic: s['arabic'] as String? ?? '',
       verseEn: s['verseEn'] as String? ?? '',
       verseRef: s['verseRef'] as String?,
+      words: List<String>.from(s['words'] as List? ?? []),
+      translations: List<String>.from(s['translations'] as List? ?? []),
     );
   }
 }

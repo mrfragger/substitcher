@@ -311,7 +311,7 @@ class _DeductionQuizPanelState extends State<DeductionQuizPanel> {
           ],
         ),
         const SizedBox(height: 8),
-        Text(data.intro, style: const TextStyle(color: Colors.white70, fontSize: 13)),
+        Text(data.intro, style: const TextStyle(color: Colors.white70, fontSize: 14)),
         const SizedBox(height: 16),
         _buildHintsSection(data),
         if (_allCorrect) _buildVerseReveal(data),
@@ -420,7 +420,7 @@ class _DeductionQuizPanelState extends State<DeductionQuizPanel> {
                   TextSpan(
                     children: AllahHighlighter.spans(
                       data.verseEn,
-                      const TextStyle(color: Colors.white, fontSize: 13, height: 1.5),
+                      const TextStyle(color: Colors.white, fontSize: 16, height: 1.5),
                     ),
                   ),
                 ),
