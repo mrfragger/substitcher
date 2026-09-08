@@ -27,6 +27,9 @@ done
 TOTAL=$(ls -1 "$DATA_DIR"/*.json 2>/dev/null | wc -l | tr -d ' ')
 echo "Done! Downloaded $DOWNLOADED new files."
 echo "Total JSON files in $DATA_DIR: $TOTAL"
-echo "modify lib/widgets/side_panel.dart reflect new count"
-echo "_buildTabButton(context, '⌘Quiz', PanelMode.quiz, 139),"
-echo "_buildTabButton(context, '⌘Related', PanelMode.related, 139),"
+echo "modified lib/widgets/side_panel.dart reflecting new count"
+echo "_buildTabButton(context, '⌘Quiz', PanelMode.quiz, $TOTAL),"
+echo "_buildTabButton(context, '⌘Related', PanelMode.related, $TOTAL),"
+
+gsed -i "s/_buildTabButton(context, '⌘Quiz', PanelMode.quiz, [0-9]*)/_buildTabButton(context, '⌘Quiz', PanelMode.quiz, $TOTAL)/" ../lib/widgets/side_panel.dart
+gsed -i "s/_buildTabButton(context, '⌘Related', PanelMode.related, [0-9]*)/_buildTabButton(context, '⌘Related', PanelMode.related, $TOTAL)/" ../lib/widgets/side_panel.dart
