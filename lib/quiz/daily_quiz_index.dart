@@ -79,14 +79,20 @@ class DailyQuizPrefs {
   }
 }
 
+class ConnectionsEntryCategory {
+  final String name;
+  final String colorName;
+  ConnectionsEntryCategory({required this.name, required this.colorName});
+}
+
 class ConnectionsEntry {
   final DateTime date;
   final int categoryCount;
-  final String? firstCategoryName;
+  final List<ConnectionsEntryCategory> categories;
   ConnectionsEntry({
     required this.date,
     required this.categoryCount,
-    this.firstCategoryName,
+    required this.categories,
   });
 }
 
@@ -103,12 +109,17 @@ class ConnectionsIndex {
         final conn = dayJson['connections'];
         final cats = conn is Map ? conn['categories'] : null;
         if (cats is List && cats.isNotEmpty) {
-          final first = cats.first;
-          final firstName = first is Map ? first['nameEn'] as String? : null;
+          final parsedCats = cats
+              .whereType<Map>()
+              .map((c) => ConnectionsEntryCategory(
+                    name: c['nameEn'] as String? ?? '',
+                    colorName: c['color'] as String? ?? '',
+                  ))
+              .toList();
           entries.add(ConnectionsEntry(
             date: d,
             categoryCount: cats.length,
-            firstCategoryName: firstName,
+            categories: parsedCats,
           ));
         }
       } catch (_) {

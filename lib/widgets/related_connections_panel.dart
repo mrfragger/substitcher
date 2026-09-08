@@ -148,7 +148,7 @@ class _RelatedConnectionsPanelState extends State<RelatedConnectionsPanel> {
     }
     return Row(
       children: [
-        SizedBox(width: 200, child: _buildEntryList()),
+        SizedBox(width: 300, child: _buildEntryList()),
         Container(width: 1, color: Colors.white12),
         Expanded(
           child: _loadingDay
@@ -161,6 +161,21 @@ class _RelatedConnectionsPanelState extends State<RelatedConnectionsPanel> {
         ),
       ],
     );
+  }
+
+  Color _colorForName(String colorName) {
+    switch (colorName) {
+      case 'yellow':
+        return Colors.amber;
+      case 'green':
+        return Colors.greenAccent;
+      case 'blue':
+        return Colors.lightBlueAccent;
+      case 'purple':
+        return const Color(0xFFCB93F5);
+      default:
+        return Colors.white70;
+    }
   }
 
   Widget _buildEntryList() {
@@ -187,18 +202,20 @@ class _RelatedConnectionsPanelState extends State<RelatedConnectionsPanel> {
                     fontWeight: isSelected ? FontWeight.bold : FontWeight.normal,
                   ),
                 ),
-                if (e.firstCategoryName != null) ...[
-                  const SizedBox(height: 2),
+                const SizedBox(height: 4),
+                for (final cat in e.categories) ...[
                   Text(
-                    e.firstCategoryName!,
+                    cat.name,
                     maxLines: 2,
                     overflow: TextOverflow.ellipsis,
                     style: TextStyle(
-                      color: isSelected ? Colors.white : Colors.white70,
+                      color: _colorForName(cat.colorName),
                       fontSize: 12,
                       height: 1.15,
+                      fontWeight: isSelected ? FontWeight.bold : FontWeight.normal,
                     ),
                   ),
+                  const SizedBox(height: 2),
                 ],
               ],
             ),
@@ -577,8 +594,14 @@ class _RelatedConnectionsPanelState extends State<RelatedConnectionsPanel> {
                 ],
 
                 const SizedBox(height: 12),
-                Text(harf.verse,
-                    style: const TextStyle(color: Colors.white70, fontSize: 14, height: 1.4)),
+                Text.rich(
+                  TextSpan(
+                    children: AllahHighlighter.spans(
+                      harf.verse,
+                      const TextStyle(color: Colors.white70, fontSize: 14, height: 1.4),
+                    ),
+                  ),
+                ),
                 const SizedBox(height: 6),
 
                 if (ref != null)

@@ -12655,6 +12655,12 @@ class _PlayerScreenState extends State<PlayerScreen>
                         textStyle: const TextStyle(fontSize: 18),
                       ),
                     ),
+                  ],
+                ),
+                const SizedBox(height: 16),
+                Row(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: [
                     const SizedBox(width: 16),
                     ElevatedButton.icon(
                       onPressed: () {
@@ -12665,6 +12671,38 @@ class _PlayerScreenState extends State<PlayerScreen>
                       },
                       icon: const Icon(Icons.menu_book),
                       label: const Text('Quran (q)'),
+                      style: ElevatedButton.styleFrom(
+                        padding: const EdgeInsets.symmetric(
+                            horizontal: 32, vertical: 16),
+                        textStyle: const TextStyle(fontSize: 18),
+                      ),
+                    ),
+                    const SizedBox(width: 16),
+                    ElevatedButton.icon(
+                      onPressed: () {
+                        setState(() {
+                          _showPanel = true;
+                          _panelMode = PanelMode.quiz;
+                        });
+                      },
+                      icon: const Icon(Icons.quiz),
+                      label: const Text('Quiz (⌘q)'),
+                      style: ElevatedButton.styleFrom(
+                        padding: const EdgeInsets.symmetric(
+                            horizontal: 32, vertical: 16),
+                        textStyle: const TextStyle(fontSize: 18),
+                      ),
+                    ),
+                    const SizedBox(width: 16),
+                    ElevatedButton.icon(
+                      onPressed: () {
+                        setState(() {
+                          _showPanel = true;
+                          _panelMode = PanelMode.related;
+                        });
+                      },
+                      icon: const Icon(Icons.hub),
+                      label: const Text('Related (⌘r)'),
                       style: ElevatedButton.styleFrom(
                         padding: const EdgeInsets.symmetric(
                             horizontal: 32, vertical: 16),
