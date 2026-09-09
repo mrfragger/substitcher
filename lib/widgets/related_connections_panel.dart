@@ -235,7 +235,7 @@ class _RelatedConnectionsPanelState extends State<RelatedConnectionsPanel> {
       }
     } else {
       setState(() => _wrongFlashKeys = {..._wrongFlashKeys, entry.key});
-      Future.delayed(const Duration(milliseconds: 550), () {
+      Future.delayed(const Duration(milliseconds: 650), () {
         if (!mounted) return;
         setState(() {
           _wrongFlashKeys = {..._wrongFlashKeys}..remove(entry.key);
@@ -256,7 +256,7 @@ class _RelatedConnectionsPanelState extends State<RelatedConnectionsPanel> {
       }
     } else {
       setState(() => _scrambleWrongFlash = {..._scrambleWrongFlash, wordIndex});
-      Future.delayed(const Duration(milliseconds: 550), () {
+      Future.delayed(const Duration(milliseconds: 650), () {
         if (!mounted) return;
         setState(() {
           _scrambleWrongFlash = {..._scrambleWrongFlash}..remove(wordIndex);
@@ -345,7 +345,7 @@ class _RelatedConnectionsPanelState extends State<RelatedConnectionsPanel> {
     }
     return Row(
       children: [
-        SizedBox(width: 260, child: _buildEntryList()),
+        SizedBox(width: 340, child: _buildEntryList()),
         Container(width: 1, color: Colors.white12),
         Expanded(
           child: _loadingDay

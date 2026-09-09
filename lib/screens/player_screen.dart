@@ -159,6 +159,7 @@ class _PlayerScreenState extends State<PlayerScreen>
   List<int> _playedChapters = [];
   int _repeatCount = 1;
   int _repeatPlaysCompleted = 0;
+  int _rangeRepeatTotal = 0;
 
   bool _showPanel = false;
   PanelMode _panelMode = PanelMode.chapters;
@@ -406,6 +407,10 @@ class _PlayerScreenState extends State<PlayerScreen>
   QuranVerseRef? _pendingStopRef;
   String? _activeQuranTopic;
 
+  QuranVerseRef? _rangeRepeatRef;
+  int _rangeRepeatsRemaining = 0;
+  int _rangeRepeatFilteredIndex = 0;
+
   List<QuranVerseRef>? _quranQueue;
   int _quranQueueFilteredIndex = 0;
   bool _navigatingFromQueue = false;
@@ -584,6 +589,34 @@ class _PlayerScreenState extends State<PlayerScreen>
     return match?.name ?? '';
   }
 
+  String? get _rangeRepeatLabel {
+      final ref = _rangeRepeatRef;
+      if (ref == null) return null;
+      final rangeStr = ref.toAyah == ref.fromAyah
+          ? '${ref.surah}:${ref.fromAyah}'
+          : '${ref.surah}:${ref.fromAyah}-${ref.toAyah}';
+      return '$rangeStr (${_rangeRepeatTotal}x)';
+    }
+
+  Future<void> _playRangeWithRepeat(QuranVerseRef range, int repeatCount) async {
+      setState(() {
+        _rangeRepeatRef = range;
+        _rangeRepeatsRemaining = repeatCount;
+        _rangeRepeatTotal = repeatCount;
+        _rangeRepeatFilteredIndex = 0;
+      });
+      await _navigateToQuranVerse(range, 0);
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            content: Text(
+                'Playing ${range.surah}:${range.fromAyah}-${range.toAyah} ${repeatCount}x'),
+            duration: const Duration(seconds: 3),
+          ),
+        );
+      }
+    }
+
   Future<void> _loadQuranLanguage() async {
     final prefs = await SharedPreferences.getInstance();
     final language = prefs.getString('quranIndexLanguage') ?? 'English';
@@ -640,6 +673,23 @@ class _PlayerScreenState extends State<PlayerScreen>
         _showPanel = true;
         _panelMode = PanelMode.related;
         _panelCollapsed = true;
+      });
+    }
+  }
+
+  Future<void> _navigateToQuranVersePreservingRepeat(
+      QuranVerseRef ref, int filteredIndex) async {
+    final savedRef = _rangeRepeatRef;
+    final savedRemaining = _rangeRepeatsRemaining;
+    final savedTotal = _rangeRepeatTotal;
+
+    await _navigateToQuranVerse(ref, filteredIndex);
+
+    if (_rangeRepeatRef == null && savedRef != null) {
+      setState(() {
+        _rangeRepeatRef = savedRef;
+        _rangeRepeatsRemaining = savedRemaining;
+        _rangeRepeatTotal = savedTotal;
       });
     }
   }
@@ -1186,6 +1236,8 @@ class _PlayerScreenState extends State<PlayerScreen>
     });
   }
 
+
+
   void _checkChapterBoundary(Duration position) {
     if (_currentAudiobook == null || _currentAudiobook!.chapters.isEmpty)
       return;
@@ -1197,6 +1249,17 @@ class _PlayerScreenState extends State<PlayerScreen>
         final currentTitle =
             _currentAudiobook!.chapters[_currentChapterIndex].title;
         if (currentTitle.startsWith(endId)) {
+          if (_rangeRepeatsRemaining > 1) {
+            _rangeRepeatsRemaining--;
+            final rangeToReplay = _rangeRepeatRef!;
+            _navigateToQuranVerse(rangeToReplay, _rangeRepeatFilteredIndex);
+            return;
+          }
+          setState(() {
+            _rangeRepeatsRemaining = 0;
+            _rangeRepeatRef = null;
+            _pendingStopRef = null;
+          });
           player.pause();
           setState(() => _pendingStopRef = null);
           if (_quranQueue != null && _quranQueue!.isNotEmpty) {
@@ -9071,6 +9134,7 @@ class _PlayerScreenState extends State<PlayerScreen>
                   isQuranLoaded: _isQuranVerseByVerse,
                   activeQuranRef: _activeQuranRef,
                   onQuranVerseSelected: _navigateToQuranVerse,
+                  onRepeatRangeRequested: _playRangeWithRepeat,
                   onQuizVerseSelected: _navigateToQuranVerseFromQuiz,
                   onRelatedVerseSelected: _navigateToQuranVerseFromConnections,
                   onQuranPlayAllRequested: _playAllQuranRefs,
@@ -9824,6 +9888,7 @@ class _PlayerScreenState extends State<PlayerScreen>
             },
             sliderHoverPosition: _sliderHoverPosition,
             repeatCount: _repeatCount,
+            rangeRepeatLabel: _rangeRepeatLabel,
             hoveredChapterTitle: _hoveredChapterTitle,
             pauseMode: _pauseMode,
             onTogglePlayPause: _togglePlayPause,
@@ -10108,6 +10173,7 @@ class _PlayerScreenState extends State<PlayerScreen>
       },
       sliderHoverPosition: _sliderHoverPosition,
       repeatCount: _repeatCount,
+      rangeRepeatLabel: _rangeRepeatLabel,
       hoveredChapterTitle: _hoveredChapterTitle,
       pauseMode: _pauseMode,
       onTogglePlayPause: _togglePlayPause,

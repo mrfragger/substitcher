@@ -48,6 +48,7 @@ class PlayerControls extends StatelessWidget {
   final VoidCallback onPreviousChapter;
   final VoidCallback onNextChapter;
   final int repeatCount;
+  final String? rangeRepeatLabel;
   final Function(int) onJumpToChapter;
   final VoidCallback onSkipBackward;
   final VoidCallback onSkipForward;
@@ -165,6 +166,7 @@ class PlayerControls extends StatelessWidget {
     this.onShowAudioStreams,
     this.currentAudioFormat,
     this.surahName,
+    this.rangeRepeatLabel,
   });
 
   @override
@@ -598,6 +600,11 @@ class PlayerControls extends StatelessWidget {
                                 text: '${videoFps!.toStringAsFixed(0)}fps ',
                               ),
                             ],
+                            if (rangeRepeatLabel != null)
+                              TextSpan(
+                                text: '$rangeRepeatLabel ',
+                                style: const TextStyle(color: Colors.white),
+                              ),
                             if (repeatCount > 1)
                               TextSpan(
                                 text: 'Repeat ${repeatCount}x ',

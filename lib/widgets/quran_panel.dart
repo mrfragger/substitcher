@@ -52,6 +52,7 @@ class QuranPanel extends StatefulWidget {
   final String selectedLanguage;
   final Function(String) onLanguageChanged;
   final Function(List<QuranVerseRef> refs, int filteredIndex)? onPlayAllRequested;
+  final Function(QuranVerseRef range, int repeatCount)? onRepeatRangeRequested;
 
   const QuranPanel({
     super.key,
@@ -81,6 +82,7 @@ class QuranPanel extends StatefulWidget {
     required this.selectedLanguage,
     required this.onLanguageChanged,
     this.onPlayAllRequested,
+    this.onRepeatRangeRequested,
   });
 
   @override
@@ -115,6 +117,10 @@ class _QuranPanelState extends State<QuranPanel> {
   final Set<int> _expandedIndices = {};
   final TextEditingController _refInputController = TextEditingController();
   final FocusNode _refInputFocusNode = FocusNode();
+  int _rangeRepeatCount = 1;
+  final TextEditingController _rangeRepeatCountController =
+      TextEditingController(text: '1');
+  final FocusNode _rangeRepeatCountFocusNode = FocusNode();
   final ItemScrollController _quranVerseSearchScrollController = ItemScrollController();
 
   static bool _hadeethExpanded = false;
@@ -1017,6 +1023,20 @@ class _QuranPanelState extends State<QuranPanel> {
   @override
   void initState() {
     super.initState();
+
+    _rangeRepeatCountFocusNode.addListener(() {
+      if (_rangeRepeatCountFocusNode.hasFocus) {
+        if (_rangeRepeatCountController.text == '1') {
+          _rangeRepeatCountController.clear();
+        }
+      } else {
+        if (_rangeRepeatCountController.text.trim().isEmpty) {
+          _rangeRepeatCountController.text = '1';
+          setState(() => _rangeRepeatCount = 1);
+        }
+      }
+    });
+
     Future.delayed(const Duration(milliseconds: 100), () {
       if (mounted) {
         if (widget.isQuranLoaded) {
@@ -1037,6 +1057,8 @@ class _QuranPanelState extends State<QuranPanel> {
     _tafsirRefFocusNode.dispose();
     _tafsirScrollController.dispose();
     _tafsirSearchScrollController.dispose();
+    _rangeRepeatCountController.dispose();
+    _rangeRepeatCountFocusNode.dispose();
     super.dispose();
   }
 
@@ -1514,76 +1536,155 @@ class _QuranPanelState extends State<QuranPanel> {
     );
   }
 
-  void _playRefFromInput(BuildContext context) async {
-      String text = _refInputController.text.trim();
-      if (text.isEmpty) {
-        final clipboardData = await Clipboard.getData(Clipboard.kTextPlain);
-        text = clipboardData?.text?.trim() ?? '';
-      }
-      if (text.isEmpty) return;
+  void _submitRangeRepeat(BuildContext context) {
+      final raw = _refInputController.text.trim();
+      if (raw.isEmpty) return;
 
-      text = text.replaceAll(RegExp(r'[(){}\[\]]'), '');
-      final normalized = text
+      final cleaned = raw.replaceAll(RegExp(r'[(){}\[\]]'), '');
+      final normalized = cleaned
           .replaceAll(RegExp(r'\s*:\s*'), ':')
           .replaceAll(RegExp(r'\s*-\s*'), '-');
 
-      final match =
-          RegExp(r'^(\d+):(\d+)(?:-(\d+))?$').firstMatch(normalized.trim());
-      if (match == null) {
-        ScaffoldMessenger.of(context).showSnackBar(
-          SnackBar(
-              content: Text('Could not parse: "$text"'),
-              duration: const Duration(seconds: 2)),
-        );
-        return;
-      }
+      QuranVerseRef range;
 
-      final surah = int.parse(match.group(1)!);
-      final fromAyah = int.parse(match.group(2)!);
-      int? toAyah = match.group(3) != null ? int.parse(match.group(3)!) : null;
-
-      if (toAyah != null && toAyah < fromAyah) {
-        final fromStr = fromAyah.toString();
-        final toStr = toAyah.toString();
-        if (toStr.length < fromStr.length) {
-          final prefix = fromStr.substring(0, fromStr.length - toStr.length);
-          toAyah = int.tryParse(prefix + toStr) ?? toAyah;
+      final surahOnly = RegExp(r'^(\d+)$').firstMatch(normalized);
+      if (surahOnly != null) {
+        final s = int.parse(surahOnly.group(1)!);
+        if (s < 1 || s > 114) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            const SnackBar(content: Text('Invalid surah number'), duration: Duration(seconds: 2)),
+          );
+          return;
         }
+        range = QuranVerseRef(surah: s, fromAyah: 1, toAyah: quranVerseCounts[s], isFullSurah: false);
+      } else {
+        final m = RegExp(r'^(\d+):(\d+)(?:-(\d+))?$').firstMatch(normalized);
+        if (m == null) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            SnackBar(content: Text('Could not parse: "$raw"'), duration: const Duration(seconds: 2)),
+          );
+          return;
+        }
+        final s = int.parse(m.group(1)!);
+        final from = int.parse(m.group(2)!);
+        int to = m.group(3) != null ? int.parse(m.group(3)!) : from;
+
+        if (to < from) {
+          final fromStr = from.toString();
+          final toStr = to.toString();
+          if (toStr.length < fromStr.length) {
+            final prefix = fromStr.substring(0, fromStr.length - toStr.length);
+            to = int.tryParse(prefix + toStr) ?? to;
+          }
+        }
+
+        if (s < 1 || s > 114) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            const SnackBar(content: Text('Invalid surah number'), duration: Duration(seconds: 2)),
+          );
+          return;
+        }
+        final maxAyah = quranVerseCounts[s];
+        if (from < 1 || from > maxAyah || to < from || to > maxAyah) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            SnackBar(content: Text('Surah $s has $maxAyah verses'), duration: const Duration(seconds: 2)),
+          );
+          return;
+        }
+        range = QuranVerseRef(surah: s, fromAyah: from, toAyah: to, isFullSurah: false);
       }
 
-      if (surah < 1 || surah > 114) {
-        ScaffoldMessenger.of(context).showSnackBar(
-          const SnackBar(
-              content: Text('Invalid surah number'),
-              duration: Duration(seconds: 2)),
-        );
-        return;
-      }
-      final maxAyah = quranVerseCounts[surah];
-      if (fromAyah < 1 || fromAyah > maxAyah) {
-        ScaffoldMessenger.of(context).showSnackBar(
-          SnackBar(
-              content: Text('Surah $surah only has $maxAyah verses'),
-              duration: const Duration(seconds: 2)),
-        );
-        return;
-      }
-      if (toAyah != null && (toAyah < fromAyah || toAyah > maxAyah)) {
-        ScaffoldMessenger.of(context).showSnackBar(
-          SnackBar(
-              content: Text('Invalid range: Surah $surah has $maxAyah verses'),
-              duration: const Duration(seconds: 2)),
-        );
-        return;
-      }
-
-      final ref = QuranVerseRef(
-          surah: surah, fromAyah: fromAyah, toAyah: toAyah, isFullSurah: false);
-      _recordVerseHistory(ref);
-      _refInputController.clear();
-      widget.onVerseSelected(ref, 0);
-      _refInputFocusNode.requestFocus();
+      widget.onRepeatRangeRequested?.call(range, _rangeRepeatCount);
     }
+
+    void _playRefFromInput(BuildContext context) async {
+        String text = _refInputController.text.trim();
+        if (text.isEmpty) {
+          final clipboardData = await Clipboard.getData(Clipboard.kTextPlain);
+          text = clipboardData?.text?.trim() ?? '';
+        }
+        if (text.isEmpty) return;
+
+        text = text.replaceAll(RegExp(r'[(){}\[\]]'), '');
+        final normalized = text
+            .replaceAll(RegExp(r'\s*:\s*'), ':')
+            .replaceAll(RegExp(r'\s*-\s*'), '-');
+
+        QuranVerseRef ref;
+
+        final surahOnly = RegExp(r'^(\d+)$').firstMatch(normalized);
+        if (surahOnly != null) {
+          final surah = int.parse(surahOnly.group(1)!);
+          if (surah < 1 || surah > 114) {
+            ScaffoldMessenger.of(context).showSnackBar(
+              const SnackBar(
+                  content: Text('Invalid surah number'),
+                  duration: Duration(seconds: 2)),
+            );
+            return;
+          }
+          ref = QuranVerseRef(
+              surah: surah, fromAyah: 1, toAyah: quranVerseCounts[surah], isFullSurah: false);
+        } else {
+          final match =
+              RegExp(r'^(\d+):(\d+)(?:-(\d+))?$').firstMatch(normalized);
+          if (match == null) {
+            ScaffoldMessenger.of(context).showSnackBar(
+              SnackBar(
+                  content: Text('Could not parse: "$text"'),
+                  duration: const Duration(seconds: 2)),
+            );
+            return;
+          }
+
+          final surah = int.parse(match.group(1)!);
+          final fromAyah = int.parse(match.group(2)!);
+          int? toAyah = match.group(3) != null ? int.parse(match.group(3)!) : null;
+
+          if (toAyah != null && toAyah < fromAyah) {
+            final fromStr = fromAyah.toString();
+            final toStr = toAyah.toString();
+            if (toStr.length < fromStr.length) {
+              final prefix = fromStr.substring(0, fromStr.length - toStr.length);
+              toAyah = int.tryParse(prefix + toStr) ?? toAyah;
+            }
+          }
+
+          if (surah < 1 || surah > 114) {
+            ScaffoldMessenger.of(context).showSnackBar(
+              const SnackBar(
+                  content: Text('Invalid surah number'),
+                  duration: Duration(seconds: 2)),
+            );
+            return;
+          }
+          final maxAyah = quranVerseCounts[surah];
+          if (fromAyah < 1 || fromAyah > maxAyah) {
+            ScaffoldMessenger.of(context).showSnackBar(
+              SnackBar(
+                  content: Text('Surah $surah only has $maxAyah verses'),
+                  duration: const Duration(seconds: 2)),
+            );
+            return;
+          }
+          if (toAyah != null && (toAyah < fromAyah || toAyah > maxAyah)) {
+            ScaffoldMessenger.of(context).showSnackBar(
+              SnackBar(
+                  content: Text('Invalid range: Surah $surah has $maxAyah verses'),
+                  duration: const Duration(seconds: 2)),
+            );
+            return;
+          }
+
+          ref = QuranVerseRef(
+              surah: surah, fromAyah: fromAyah, toAyah: toAyah, isFullSurah: false);
+        }
+
+        _recordVerseHistory(ref);
+        _refInputController.clear();
+        widget.onVerseSelected(ref, 0);
+        _refInputFocusNode.requestFocus();
+      }
 
     String _formatVerseRefLabel(QuranVerseRef ref) {
       if (ref.isFullSurah) return '${ref.surah}';
@@ -2714,6 +2815,130 @@ class _QuranPanelState extends State<QuranPanel> {
                          padding: const EdgeInsets.fromLTRB(16, 0, 16, 4),
                          child: Row(
                            children: [
+                             Text('${filtered.length}',
+                                 style: const TextStyle(color: Colors.white38, fontSize: 12)),
+                             if (widget.isQuranLoaded) ...[
+                               const SizedBox(width: 8),
+                               Tooltip(
+                                 message: 'next ayah',
+                                 preferBelow: true,
+                                 textStyle: const TextStyle(color: Colors.white, fontSize: 12),
+                                 decoration: BoxDecoration(
+                                   color: const Color(0xFF2A2A2A),
+                                   borderRadius: BorderRadius.circular(6),
+                                 ),
+                                 child: const Text('⇧Q',
+                                     style: TextStyle(color: Colors.amber, fontSize: 12, fontWeight: FontWeight.bold)),
+                               ),
+                             ],
+                             const SizedBox(width: 6),
+                             if (widget.isQuranLoaded) ...[
+                               _buildVerseRefHistoryButton(),
+                               const SizedBox(width: 2),
+                               SizedBox(
+                                 width: 120,
+                                 height: 32,
+                                 child: TextField(
+                                   controller: _refInputController,
+                                   focusNode: _refInputFocusNode,
+                                   autofocus: true,
+                                   style: const TextStyle(color: Colors.white, fontSize: 12),
+                                   decoration: InputDecoration(
+                                     hintText: '38:36-40',
+                                     hintStyle: const TextStyle(color: Colors.white24, fontSize: 12),
+                                     filled: true,
+                                     fillColor: Colors.black26,
+                                     border: OutlineInputBorder(
+                                       borderRadius: BorderRadius.circular(4),
+                                       borderSide: BorderSide(color: Colors.deepPurple.withAlpha(160)),
+                                     ),
+                                     enabledBorder: OutlineInputBorder(
+                                       borderRadius: BorderRadius.circular(4),
+                                       borderSide: BorderSide(color: Colors.deepPurple.withAlpha(100)),
+                                     ),
+                                     focusedBorder: OutlineInputBorder(
+                                       borderRadius: BorderRadius.circular(4),
+                                       borderSide: const BorderSide(color: Colors.deepPurple),
+                                     ),
+                                     contentPadding:
+                                         const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+                                     suffixIcon: IconButton(
+                                       icon: const Icon(Icons.search, color: Colors.deepPurple, size: 16),
+                                       padding: EdgeInsets.zero,
+                                       constraints: const BoxConstraints(),
+                                       onPressed: () => _playRefFromInput(context),
+                                     ),
+                                   ),
+                                   onSubmitted: (_) => _playRefFromInput(context),
+                                 ),
+                               ),
+                               const SizedBox(width: 8),
+                             ],
+                             if (widget.isQuranLoaded) ...[
+                               SizedBox(
+                                 width: 52,
+                                 height: 32,
+                                 child: TextField(
+                                   controller: _rangeRepeatCountController,
+                                   focusNode: _rangeRepeatCountFocusNode,
+                                   textAlign: TextAlign.center,
+                                   keyboardType: TextInputType.number,
+                                   inputFormatters: [
+                                     FilteringTextInputFormatter.digitsOnly,
+                                   ],
+                                   style: const TextStyle(
+                                     color: Colors.teal,
+                                     fontSize: 13,
+                                     fontWeight: FontWeight.bold,
+                                   ),
+                                   decoration: InputDecoration(
+                                     isDense: true,
+                                     contentPadding: const EdgeInsets.symmetric(horizontal: 4, vertical: 8),
+                                     filled: true,
+                                     fillColor: Colors.black26,
+                                     suffixText: 'x',
+                                     suffixStyle: const TextStyle(
+                                       color: Colors.teal,
+                                       fontSize: 13,
+                                       fontWeight: FontWeight.bold,
+                                     ),
+                                     border: OutlineInputBorder(
+                                       borderRadius: BorderRadius.circular(4),
+                                       borderSide: BorderSide(color: Colors.teal.withAlpha(160)),
+                                     ),
+                                     enabledBorder: OutlineInputBorder(
+                                       borderRadius: BorderRadius.circular(4),
+                                       borderSide: BorderSide(color: Colors.teal.withAlpha(160)),
+                                     ),
+                                     focusedBorder: OutlineInputBorder(
+                                       borderRadius: BorderRadius.circular(4),
+                                       borderSide: const BorderSide(color: Colors.teal, width: 1.5),
+                                     ),
+                                   ),
+                                   onChanged: (value) {
+                                     final parsed = int.tryParse(value);
+                                     setState(() {
+                                       _rangeRepeatCount = (parsed == null || parsed < 1) ? 1 : parsed;
+                                     });
+                                   },
+                                   onSubmitted: (value) {
+                                     final parsed = int.tryParse(value);
+                                     final clamped = (parsed == null || parsed < 1) ? 1 : parsed;
+                                     setState(() => _rangeRepeatCount = clamped);
+                                     _rangeRepeatCountController.text = '$clamped';
+                                   },
+                                 ),
+                               ),
+                               const SizedBox(width: 4),
+                               IconButton(
+                                 icon: const Icon(Icons.repeat, color: Colors.teal, size: 18),
+                                 tooltip: 'Play ${_refInputController.text.trim().isEmpty ? "" : _refInputController.text.trim()} repeated',
+                                 padding: EdgeInsets.zero,
+                                 constraints: const BoxConstraints(),
+                                 onPressed: () => _submitRangeRepeat(context),
+                               ),
+                               const SizedBox(width: 8),
+                             ],
                              Expanded(
                                child: SizedBox(
                                  height: 32,
@@ -2816,65 +3041,6 @@ class _QuranPanelState extends State<QuranPanel> {
                 padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 4),
                 child: Row(
                   children: [
-                    Text('${filtered.length}',
-                        style: const TextStyle(color: Colors.white38, fontSize: 12)),
-                    if (widget.isQuranLoaded) ...[
-                      const SizedBox(width: 8),
-                      Tooltip(
-                        message: 'next ayah',
-                        preferBelow: true,
-                        textStyle: const TextStyle(color: Colors.white, fontSize: 12),
-                        decoration: BoxDecoration(
-                          color: const Color(0xFF2A2A2A),
-                          borderRadius: BorderRadius.circular(6),
-                        ),
-                        child: const Text('⇧Q',
-                            style: TextStyle(color: Colors.amber, fontSize: 12, fontWeight: FontWeight.bold)),
-                      ),
-                    ],
-                    const SizedBox(width: 6),
-                    if (widget.isQuranLoaded) ...[
-                      _buildVerseRefHistoryButton(),
-                      const SizedBox(width: 2),
-                      SizedBox(
-                        width: 120,
-                        height: 28,
-                        child: TextField(
-                          controller: _refInputController,
-                          focusNode: _refInputFocusNode,
-                          autofocus: true,
-                          style: const TextStyle(color: Colors.white, fontSize: 12),
-                          decoration: InputDecoration(
-                            hintText: '38:36-40',
-                            hintStyle: const TextStyle(color: Colors.white24, fontSize: 12),
-                            filled: true,
-                            fillColor: Colors.black26,
-                            border: OutlineInputBorder(
-                              borderRadius: BorderRadius.circular(4),
-                              borderSide: BorderSide(color: Colors.deepPurple.withAlpha(160)),
-                            ),
-                            enabledBorder: OutlineInputBorder(
-                              borderRadius: BorderRadius.circular(4),
-                              borderSide: BorderSide(color: Colors.deepPurple.withAlpha(100)),
-                            ),
-                            focusedBorder: OutlineInputBorder(
-                              borderRadius: BorderRadius.circular(4),
-                              borderSide: const BorderSide(color: Colors.deepPurple),
-                            ),
-                            contentPadding:
-                                const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
-                            suffixIcon: IconButton(
-                              icon: const Icon(Icons.search, color: Colors.deepPurple, size: 16),
-                              padding: EdgeInsets.zero,
-                              constraints: const BoxConstraints(),
-                              onPressed: () => _playRefFromInput(context),
-                            ),
-                          ),
-                          onSubmitted: (_) => _playRefFromInput(context),
-                        ),
-                      ),
-                      const SizedBox(width: 8),
-                    ],
                     const SizedBox(width: 8),
                     _quickFilterChip('Schemas', 'schemas'),
                     const SizedBox(width: 8),
@@ -2901,7 +3067,7 @@ class _QuranPanelState extends State<QuranPanel> {
                     TextButton(
                       onPressed: () => _showSurahListPopup(context),
                       child: const Text('Surahs',
-                          style: TextStyle(color: Colors.white38, fontSize: 12)),
+                          style: TextStyle(color: Colors.white, fontSize: 12)),
                     ),
                     const SizedBox(width: 4),
                     Tooltip(
