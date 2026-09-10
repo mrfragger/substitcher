@@ -605,7 +605,7 @@ class _PlayerScreenState extends State<PlayerScreen>
         _rangeRepeatTotal = repeatCount;
         _rangeRepeatFilteredIndex = 0;
       });
-      await _navigateToQuranVerse(range, 0);
+      await _navigateToQuranVerse(range, 0, isRangeRepeatNav: true);
       if (mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
           SnackBar(
@@ -695,11 +695,19 @@ class _PlayerScreenState extends State<PlayerScreen>
   }
 
   Future<void> _navigateToQuranVerse(
-      QuranVerseRef ref, int filteredIndex) async {
+      QuranVerseRef ref, int filteredIndex,
+      {bool isRangeRepeatNav = false}) async {
     if (!_navigatingFromQueue) {
       _quranQueue = null;
     }
     _navigatingFromQueue = false;
+
+    if (!isRangeRepeatNav) {
+      _rangeRepeatRef = null;
+      _rangeRepeatsRemaining = 0;
+      _rangeRepeatTotal = 0;
+    }
+
     setState(() {
       _activeQuranRef = ref;
       _activeQuranFilteredIndex = filteredIndex;
@@ -761,7 +769,7 @@ class _PlayerScreenState extends State<PlayerScreen>
       );
       setState(() => _pendingStopRef = effectiveStopRef);
     }
-    await _jumpToChapter(chapterIndex);
+    await _jumpToChapter(chapterIndex, preserveRangeRepeat: true);
     await player.play();
         setState(() => _showPanel = false);
 
@@ -1252,7 +1260,7 @@ class _PlayerScreenState extends State<PlayerScreen>
           if (_rangeRepeatsRemaining > 1) {
             _rangeRepeatsRemaining--;
             final rangeToReplay = _rangeRepeatRef!;
-            _navigateToQuranVerse(rangeToReplay, _rangeRepeatFilteredIndex);
+            _navigateToQuranVerse(rangeToReplay, _rangeRepeatFilteredIndex, isRangeRepeatNav: true);
             return;
           }
           setState(() {
@@ -6271,6 +6279,9 @@ class _PlayerScreenState extends State<PlayerScreen>
 
   Future<void> _previousChapter() async {
     _repeatPlaysCompleted = 0;
+    _pendingStopRef = null;
+    _rangeRepeatRef = null;
+    _rangeRepeatsRemaining = 0;
     if (_currentAudiobook == null) return;
 
     final currentChapter = _currentAudiobook!.chapters[_currentChapterIndex];
@@ -6299,10 +6310,13 @@ class _PlayerScreenState extends State<PlayerScreen>
   }
 
   Future<void> _nextChapter({bool fromBoundary = false}) async {
-    if (_currentAudiobook == null) return;
-    if (!fromBoundary) {
-      _repeatPlaysCompleted = 0;
-      final currentChapter = _currentAudiobook!.chapters[_currentChapterIndex];
+      if (_currentAudiobook == null) return;
+      if (!fromBoundary) {
+        _repeatPlaysCompleted = 0;
+        _pendingStopRef = null;
+        _rangeRepeatRef = null;
+        _rangeRepeatsRemaining = 0;
+        final currentChapter = _currentAudiobook!.chapters[_currentChapterIndex];
       await _statsManager.recordChapterEnd(
         path.basenameWithoutExtension(_currentAudiobook!.path),
         currentChapter.title,
@@ -6331,10 +6345,15 @@ class _PlayerScreenState extends State<PlayerScreen>
     }
   }
 
-  Future<void> _jumpToChapter(int index) async {
+  Future<void> _jumpToChapter(int index, {bool preserveRangeRepeat = false}) async {
     if (_currentAudiobook != null &&
         index >= 0 &&
         index < _currentAudiobook!.chapters.length) {
+      if (!preserveRangeRepeat) {
+        _pendingStopRef = null;
+        _rangeRepeatRef = null;
+        _rangeRepeatsRemaining = 0;
+      }
       if (_currentChapterIndex != index) {
         _repeatPlaysCompleted = 0;
         final currentChapter =
@@ -7863,6 +7882,9 @@ class _PlayerScreenState extends State<PlayerScreen>
             setState(() {
               _repeatCount = n;
               _repeatPlaysCompleted = 0;
+              _pendingStopRef = null;
+              _rangeRepeatRef = null;
+              _rangeRepeatsRemaining = 0;
             });
             if (mounted) {
               ScaffoldMessenger.of(context).showSnackBar(
