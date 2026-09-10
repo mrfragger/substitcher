@@ -1118,14 +1118,13 @@ class _QuranPanelState extends State<QuranPanel> {
   }
 
   String? _completionHeaderSuffix(String topic) {
-    final category = switch (topic) {
-      'Juz' => 'Juz',
-      'Hizb (1/2)' => 'Hizb',
-      'Rub (1/8)' => 'Rub',
-      _ => null,
-    };
+    final category = _categoryForHeaderTopic(topic);
     if (category == null) return null;
-    final total = switch (category) { 'Juz' => 30, 'Hizb' => 60, _ => 240 };
+    final total = switch (category) {
+      'Juz' => 30,
+      'Hizb' => 60,
+      _ => 240,
+    };
     final count = _completionSetFor(category).length;
     return '✓ $count/$total';
   }
@@ -3206,9 +3205,15 @@ class _QuranPanelState extends State<QuranPanel> {
                     const SizedBox(width: 8),
                     _quickFilterChip('Juz', 'juz'),
                     const SizedBox(width: 4),
+                    _quickFilterChip('14', '14day'),
+                    const SizedBox(width: 4),
+                    _quickFilterChip('10', '10day'),
+                    const SizedBox(width: 4),
+                    _quickFilterChip('7', '7day'),
+                    const SizedBox(width: 4),
                     _quickFilterChip('Hizb', 'hizb'),
                     const SizedBox(width: 4),
-                    _quickFilterChip('Rub ', 'rub'),
+                    _quickFilterChip('Rub', 'rub'),
                     const SizedBox(width: 4),
                     _quickFilterChip('months', 'islamic months'),
                     const SizedBox(width: 4),
@@ -3467,7 +3472,7 @@ class _QuranPanelState extends State<QuranPanel> {
                                                               : entry.isSubtopic
                                                                   ? Colors.white70
                                                                   : Colors.white,
-                                                          fontSize: entry.isSubtopic ? _tafsirFontSize : _tafsirFontSize + 1,
+                                                          fontSize: entry.isSubtopic ? 13 : 14,
                                                           fontWeight: hasActiveRef
                                                               ? FontWeight.bold
                                                               : entry.isSubtopic
@@ -3479,9 +3484,9 @@ class _QuranPanelState extends State<QuranPanel> {
                                                       if (_categoryForHeaderTopic(entry.topic) != null)
                                                         TextSpan(
                                                           text: ' ${_completionHeaderSuffix(entry.topic)}',
-                                                          style: TextStyle(
+                                                          style: const TextStyle(
                                                             color: Colors.white70,
-                                                            fontSize: _tafsirFontSize,
+                                                            fontSize: 13,
                                                             fontWeight: FontWeight.w600,
                                                           ),
                                                         ),
