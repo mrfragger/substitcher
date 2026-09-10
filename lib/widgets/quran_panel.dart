@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/gestures.dart';
 import 'package:url_launcher/url_launcher.dart';
 import 'package:scrollable_positioned_list/scrollable_positioned_list.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 import '../quran/quran_index.dart';
 import '../quran/surah_names.dart';
 import '../quran/quran_verse_search_index.dart';
@@ -121,6 +122,11 @@ class _QuranPanelState extends State<QuranPanel> {
   final TextEditingController _rangeRepeatCountController =
       TextEditingController(text: '1');
   final FocusNode _rangeRepeatCountFocusNode = FocusNode();
+
+  Set<int> _completedJuz = {};
+  Set<int> _completedHizb = {};
+  Set<int> _completedRub = {};
+
   final ItemScrollController _quranVerseSearchScrollController = ItemScrollController();
 
   static bool _hadeethExpanded = false;
@@ -1023,6 +1029,7 @@ class _QuranPanelState extends State<QuranPanel> {
   @override
   void initState() {
     super.initState();
+    _loadCompletionState();
 
     _rangeRepeatCountFocusNode.addListener(() {
       if (_rangeRepeatCountFocusNode.hasFocus) {
@@ -1060,6 +1067,93 @@ class _QuranPanelState extends State<QuranPanel> {
     _rangeRepeatCountController.dispose();
     _rangeRepeatCountFocusNode.dispose();
     super.dispose();
+  }
+
+  Future<void> _loadCompletionState() async {
+    final prefs = await SharedPreferences.getInstance();
+    final juz = (prefs.getStringList('completed_juz') ?? []).map(int.parse).toSet();
+    final hizb = (prefs.getStringList('completed_hizb') ?? []).map(int.parse).toSet();
+    final rub = (prefs.getStringList('completed_rub') ?? []).map(int.parse).toSet();
+    if (mounted) {
+      setState(() {
+        _completedJuz = juz;
+        _completedHizb = hizb;
+        _completedRub = rub;
+      });
+    }
+  }
+
+  Widget _buildCompletionCheckbox(String topic) {
+    final parsed = _parseJuzHizbRubTopic(topic);
+    if (parsed == null) return const SizedBox.shrink();
+    final (category, number) = parsed;
+    final isDone = _completionSetFor(category).contains(number);
+    return GestureDetector(
+      onTap: () => _toggleCompletion(category, number),
+      child: Icon(
+        isDone ? Icons.check_box : Icons.check_box_outline_blank,
+        color: isDone ? Colors.greenAccent : Colors.white38,
+        size: 20,
+      ),
+    );
+  }
+
+  String? _completionHeaderSuffix(String topic) {
+    final category = switch (topic) {
+      'Juz' => 'Juz',
+      'Hizb (1/2)' => 'Hizb',
+      'Rub (1/8)' => 'Rub',
+      _ => null,
+    };
+    if (category == null) return null;
+    final total = switch (category) { 'Juz' => 30, 'Hizb' => 60, _ => 240 };
+    final count = _completionSetFor(category).length;
+    return '✓ $count/$total';
+  }
+
+  String? _categoryForHeaderTopic(String topic) => switch (topic) {
+        'Juz' => 'Juz',
+        'Hizb (1/2)' => 'Hizb',
+        'Rub (1/8)' => 'Rub',
+        _ => null,
+      };
+
+  Set<int> _completionSetFor(String category) => switch (category) {
+        'Juz' => _completedJuz,
+        'Hizb' => _completedHizb,
+        _ => _completedRub,
+      };
+
+  Future<void> _saveCompletionState(String category) async {
+    final prefs = await SharedPreferences.getInstance();
+    final key = 'completed_${category.toLowerCase()}';
+    await prefs.setStringList(
+        key, _completionSetFor(category).map((e) => e.toString()).toList());
+  }
+
+  void _toggleCompletion(String category, int number) {
+    setState(() {
+      final set = _completionSetFor(category);
+      if (set.contains(number)) {
+        set.remove(number);
+      } else {
+        set.add(number);
+      }
+    });
+    _saveCompletionState(category);
+  }
+
+  void _resetCompletion(String category) {
+    setState(() {
+      _completionSetFor(category).clear();
+    });
+    _saveCompletionState(category);
+  }
+
+  (String, int)? _parseJuzHizbRubTopic(String topic) {
+    final m = RegExp(r'^(Juz|Hizb|Rub) (\d+)$').firstMatch(topic);
+    if (m == null) return null;
+    return (m.group(1)!, int.parse(m.group(2)!));
   }
 
   Color _quranLanguageColor(String lang) {
@@ -3265,22 +3359,45 @@ class _QuranPanelState extends State<QuranPanel> {
                                       child: Row(
                                         children: [
                                           Icon(
-                                            isExpanded
-                                                ? Icons.expand_less
-                                                : Icons.expand_more,
+                                            isExpanded ? Icons.expand_less : Icons.expand_more,
                                             color: Colors.white38,
                                             size: 16,
                                           ),
                                           const SizedBox(width: 8),
-                                          Expanded(
-                                            child: Directionality(
-                                              textDirection: isRtlQuranLanguage(
-                                                      widget.selectedLanguage)
-                                                  ? TextDirection.rtl
-                                                  : TextDirection.ltr,
-                                                  child: Text.rich(
-                                                    TextSpan(
-                                                      children: _styledTopicSpans(
+                                          if (entry.isSubtopic && _parseJuzHizbRubTopic(entry.topic) != null) ...[
+                                            Flexible(
+                                              child: Directionality(
+                                                textDirection: isRtlQuranLanguage(widget.selectedLanguage)
+                                                    ? TextDirection.rtl
+                                                    : TextDirection.ltr,
+                                                child: Text.rich(
+                                                  TextSpan(
+                                                    children: _styledTopicSpans(
+                                                      entry.topic,
+                                                      TextStyle(
+                                                        color: hasActiveRef ? Colors.purple[200] : Colors.white70,
+                                                        fontSize: 13,
+                                                        fontWeight: hasActiveRef ? FontWeight.bold : FontWeight.normal,
+                                                      ),
+                                                      globalIndex,
+                                                    ),
+                                                  ),
+                                                ),
+                                              ),
+                                            ),
+                                            const SizedBox(width: 6),
+                                            _buildCompletionCheckbox(entry.topic),
+                                            const Spacer(),
+                                          ] else ...[
+                                            Expanded(
+                                              child: Directionality(
+                                                textDirection: isRtlQuranLanguage(widget.selectedLanguage)
+                                                    ? TextDirection.rtl
+                                                    : TextDirection.ltr,
+                                                child: Text.rich(
+                                                  TextSpan(
+                                                    children: [
+                                                      ..._styledTopicSpans(
                                                         entry.topic,
                                                         TextStyle(
                                                           color: hasActiveRef
@@ -3297,15 +3414,34 @@ class _QuranPanelState extends State<QuranPanel> {
                                                         ),
                                                         globalIndex,
                                                       ),
-                                                    ),
+                                                      if (_categoryForHeaderTopic(entry.topic) != null)
+                                                        TextSpan(
+                                                          text: ' ${_completionHeaderSuffix(entry.topic)}',
+                                                          style: const TextStyle(
+                                                            color: Colors.white70,
+                                                            fontSize: 13,
+                                                            fontWeight: FontWeight.w600,
+                                                          ),
+                                                        ),
+                                                    ],
                                                   ),
+                                                ),
+                                              ),
                                             ),
-                                          ),
-                                          const SizedBox(width: 10),
+                                            const SizedBox(width: 10),
+                                            if (_categoryForHeaderTopic(entry.topic) != null)
+                                              Padding(
+                                                padding: const EdgeInsets.only(right: 8),
+                                                child: GestureDetector(
+                                                  onTap: () => _resetCompletion(_categoryForHeaderTopic(entry.topic)!),
+                                                  child: const Text('Reset',
+                                                      style: TextStyle(color: Colors.redAccent, fontSize: 12)),
+                                                ),
+                                              ),
+                                          ],
                                           Text(
                                             '${entry.refs.length} ref${entry.refs.length == 1 ? '' : 's'}',
-                                            style: const TextStyle(
-                                                color: Colors.white24, fontSize: 11),
+                                            style: const TextStyle(color: Colors.white24, fontSize: 11),
                                           ),
                                         ],
                                       ),
