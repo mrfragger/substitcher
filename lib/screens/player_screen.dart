@@ -583,6 +583,18 @@ class _PlayerScreenState extends State<PlayerScreen>
     return '';
   }
 
+  String? _getVerseRefFromCurrentChapter() {
+    final chapters = _currentAudiobook?.chapters;
+    if (chapters == null || chapters.isEmpty) return null;
+    if (_currentChapterIndex < 0 || _currentChapterIndex >= chapters.length) return null;
+    final title = chapters[_currentChapterIndex].title;
+    final match = RegExp(r'^(\d{3})(\d{3})').firstMatch(title);
+    if (match == null) return null;
+    final surah = int.parse(match.group(1)!);
+    final ayah = int.parse(match.group(2)!);
+    return '$surah:$ayah';
+  }
+
   String _getSurahName(int surahNumber) {
     final surahs = getSurahsForLanguage(_quranIndexLanguage);
     final match = surahs.where((s) => s.number == surahNumber).firstOrNull;
@@ -9898,7 +9910,7 @@ class _PlayerScreenState extends State<PlayerScreen>
             secondaryColorPalette: _secondaryColorPalette,
             secondarySubtitleLineSpacing: _secondarySubtitleLineSpacing,
             surahName: _isQuranVerseByVerse && _currentAudiobook != null && _currentAudiobook!.chapters.isNotEmpty
-                  ? _getSurahNameFromCurrentChapter()
+                  ? '${_getSurahNameFromCurrentChapter()} ${_getVerseRefFromCurrentChapter() ?? ''}'.trim()
                   : null,
             sleepDuration: _sleepDuration,
             sleepTimerAction: _sleepTimerAction,
@@ -10183,7 +10195,7 @@ class _PlayerScreenState extends State<PlayerScreen>
       secondaryColorPalette: _secondaryColorPalette,
       secondarySubtitleLineSpacing: _secondarySubtitleLineSpacing,
       surahName: _isQuranVerseByVerse && _currentAudiobook != null && _currentAudiobook!.chapters.isNotEmpty
-            ? _getSurahNameFromCurrentChapter()
+            ? '${_getSurahNameFromCurrentChapter()} ${_getVerseRefFromCurrentChapter() ?? ''}'.trim()
             : null,
       sleepDuration: _sleepDuration,
       sleepTimerAction: _sleepTimerAction,

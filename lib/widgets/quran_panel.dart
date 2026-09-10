@@ -155,6 +155,9 @@ class _QuranPanelState extends State<QuranPanel> {
   static List<String> _tafsirRefHistory = [];
   static List<String> _verseRefHistory = [];
   static List<String> _tafsirSearchHistory = [];
+  static int? _lastTafsirSearchSurah;
+  static int? _lastTafsirSearchAyah;
+  static String? _lastTafsirSearchSource;
   static const Set<String> _quizSupportedLanguages = {'English', 'Spanish'};
   static const Map<String, List<String>> _allahByLanguage = {
     'Arabic': [
@@ -1007,14 +1010,15 @@ class _QuranPanelState extends State<QuranPanel> {
   bool _kathirIndexLoading = false;
   bool _baghawiIndexLoading = false;
 
-  bool _tafsirSearchMode = false;
-  List<Map<String, dynamic>> _tafsirSearchResults = [];
-  bool _tafsirSearchTruncated = false;
+  static bool _tafsirSearchMode = false;
+  static List<Map<String, dynamic>> _tafsirSearchResults = [];
+  static bool _tafsirSearchTruncated = false;
 
   final TextEditingController _tafsirRefController = TextEditingController();
   final FocusNode _tafsirRefFocusNode = FocusNode();
   final ScrollController _tafsirScrollController = ScrollController();
   final ScrollController _tafsirSearchScrollController = ScrollController();
+  final ItemScrollController _tafsirSearchItemScrollController = ItemScrollController();
 
   FocusNode get _searchFocusNode => widget.searchFocusNode;
   FocusNode get _excludeFocusNode => widget.quranExcludeFocusNode;
@@ -1055,6 +1059,7 @@ class _QuranPanelState extends State<QuranPanel> {
       }
     });
     _scrollToActiveVerseSearchResult();
+    _scrollToLastTafsirSearchTap();
   }
 
   @override
@@ -1326,6 +1331,33 @@ class _QuranPanelState extends State<QuranPanel> {
       });
     }
   }
+
+  void _scrollToLastTafsirSearchTap() {
+    if (_lastTafsirSearchSurah == null || _tafsirSearchResults.isEmpty) return;
+    final index = _tafsirSearchResults.indexWhere((r) =>
+        r['surah'] == _lastTafsirSearchSurah &&
+        r['ayah'] == _lastTafsirSearchAyah &&
+        r['source'] == _lastTafsirSearchSource);
+    if (index == -1) return;
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      _attemptScrollToTafsirSearchIndex(index, attemptsLeft: 10);
+    });
+  }
+
+  void _attemptScrollToTafsirSearchIndex(int index, {required int attemptsLeft}) {
+      if (!mounted || attemptsLeft <= 0) return;
+      if (_tafsirSearchItemScrollController.isAttached) {
+        _tafsirSearchItemScrollController.scrollTo(
+          index: index,
+          duration: const Duration(milliseconds: 300),
+          alignment: 0.3,
+        );
+      } else {
+        Future.delayed(const Duration(milliseconds: 100), () {
+          _attemptScrollToTafsirSearchIndex(index, attemptsLeft: attemptsLeft - 1);
+        });
+      }
+    }
 
   Widget _buildRefHistoryButton() {
     final hasHistory = _tafsirRefHistory.isNotEmpty;
@@ -3059,7 +3091,7 @@ class _QuranPanelState extends State<QuranPanel> {
                                        : TextDirection.ltr,
                                    style: const TextStyle(color: Colors.white, fontSize: 13),
                                    decoration: InputDecoration(
-                                     hintText: 'Search verse text…',
+                                     hintText: 'Search loaded vtt verse text…',
                                      hintStyle: const TextStyle(color: Colors.white24, fontSize: 13),
                                      prefixIcon: const Icon(Icons.menu_book, color: Colors.amber, size: 16),
                                      suffixIcon: widget.quranVerseSearchController.text.isNotEmpty
@@ -3240,18 +3272,14 @@ class _QuranPanelState extends State<QuranPanel> {
                                                     children: [
                                                       Row(
                                                         children: [
+                                                          const Icon(Icons.play_circle_fill,
+                                                              size: 14, color: Colors.lightBlueAccent),
+                                                          const SizedBox(width: 3),
                                                           Text('${hit.surah}:${hit.ayah}',
-                                                              style: TextStyle(
-                                                                  color: isActive
-                                                                      ? Colors.lightBlueAccent
-                                                                      : Colors.amber,
+                                                              style: const TextStyle(
+                                                                  color: Colors.lightBlueAccent,
                                                                   fontSize: 12,
                                                                   fontWeight: FontWeight.w600)),
-                                                          if (isActive) ...[
-                                                            const SizedBox(width: 6),
-                                                            const Icon(Icons.play_circle_fill,
-                                                                color: Colors.lightBlueAccent, size: 14),
-                                                          ],
                                                           const Spacer(),
                                                           Icon(
                                                             isRtl ? Icons.chevron_left : Icons.chevron_right,
@@ -3876,27 +3904,27 @@ class _QuranPanelState extends State<QuranPanel> {
                       style: TextStyle(color: Colors.white38, fontSize: 12)),
                 )
                 else if (_tafsirSearchResults.isNotEmpty)
-                  Expanded(
-                    child: ListView.separated(
-                      controller: _tafsirSearchScrollController,
-                      itemCount: _tafsirSearchResults.length,
-                      separatorBuilder: (_, __) =>
-                          const Divider(color: Colors.white12, height: 12),
-                      itemBuilder: (_, i) {
-                        final r = _tafsirSearchResults[i];
-                        final rawQuery = _tafsirSearchController.text.trim();
-                        final phrase = _extractQuotedPhrase(rawQuery);
-                        return InkWell(
-                          onTap: () => _jumpToSearchResult(r),
-                          child: _buildTafsirCard(
-                            r,
-                            highlightQuery: phrase ?? rawQuery,
-                            highlightIsPhrase: phrase != null,
-                          ),
-                        );
-                      },
-                    ),
+                Expanded(
+                  child: ScrollablePositionedList.separated(
+                    itemScrollController: _tafsirSearchItemScrollController,
+                    itemCount: _tafsirSearchResults.length,
+                    separatorBuilder: (_, __) =>
+                        const Divider(color: Colors.white12, height: 12),
+                    itemBuilder: (_, i) {
+                      final r = _tafsirSearchResults[i];
+                      final rawQuery = _tafsirSearchController.text.trim();
+                      final phrase = _extractQuotedPhrase(rawQuery);
+                      return InkWell(
+                        onTap: () => _jumpToSearchResult(r),
+                        child: _buildTafsirCard(
+                          r,
+                          highlightQuery: phrase ?? rawQuery,
+                          highlightIsPhrase: phrase != null,
+                        ),
+                      );
+                    },
                   ),
+                ),
             ] else if (_tafsirResults.isNotEmpty) ...[
               const SizedBox(height: 8),
               Expanded(
@@ -4110,6 +4138,33 @@ class _QuranPanelState extends State<QuranPanel> {
                       ],
                     ),
                   ),
+                  if (widget.isQuranLoaded && ayah != 0) ...[
+                    const SizedBox(width: 8),
+                    GestureDetector(
+                      onTap: () {
+                        _lastTafsirSearchSurah = surah;
+                        _lastTafsirSearchAyah = ayah;
+                        _lastTafsirSearchSource = source;
+                        _onTafsirVerseTapped('$surah:$ayah');
+                      },
+                      child: Row(
+                        mainAxisSize: MainAxisSize.min,
+                        children: [
+                          const Icon(Icons.play_circle_fill,
+                              size: 14, color: Colors.lightBlueAccent),
+                          const SizedBox(width: 3),
+                          Text(
+                            '$surah:$ayah',
+                            style: const TextStyle(
+                              color: Colors.lightBlueAccent,
+                              fontSize: 12,
+                              fontWeight: FontWeight.w600,
+                            ),
+                          ),
+                        ],
+                      ),
+                    ),
+                  ],
                   const Spacer(),
                   IconButton(
                     icon: const Icon(Icons.copy, color: Colors.white24, size: 14),
