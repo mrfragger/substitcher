@@ -185,6 +185,46 @@ const Map<String, List<int>> quranFileRanges = {
   ],
 };
 
+const Map<int, List<int>> juzPlan7Days = {
+  1: [1, 2],
+  2: [3, 4, 5],
+  3: [6, 7, 8],
+  4: [9, 10, 11],
+  5: [12, 13, 14, 15, 16],
+  6: [17, 18, 19, 20, 21],
+  7: [22, 23, 24, 25, 26, 27, 28, 29, 30],
+};
+
+const Map<int, List<int>> juzPlan10Days = {
+  1: [1, 2, 3],
+  2: [4, 5, 6],
+  3: [7, 8, 9],
+  4: [10, 11, 12],
+  5: [13, 14, 15],
+  6: [16, 17, 18],
+  7: [19, 20, 21],
+  8: [22, 23, 24],
+  9: [25, 26, 27],
+  10: [28, 29, 30],
+};
+
+const Map<int, List<int>> juzPlan14Days = {
+  1: [1, 2],
+  2: [3, 4],
+  3: [5, 6],
+  4: [7, 8, 9],
+  5: [10, 11],
+  6: [12, 13],
+  7: [14, 15],
+  8: [16, 17],
+  9: [18, 19],
+  10: [20, 21],
+  11: [22, 23, 24],
+  12: [25, 26],
+  13: [27, 28],
+  14: [29, 30],
+};
+
 String? getRangeKeyForSurah(int surah) {
   for (final entry in quranFileRanges.entries) {
     if (entry.value.contains(surah)) return entry.key;
@@ -250,7 +290,7 @@ const Set<String> rtlQuranIndexLanguages = {
 bool isRtlQuranLanguage(String language) =>
     rtlQuranIndexLanguages.contains(language);
 
-List<QuranIndexEntry> parseQuranIndex(String raw) {
+  List<QuranIndexEntry> parseQuranIndex(String raw) {
   final normalized = raw
       .replaceAll('；', ';')
       .replaceAll('：', ':')
@@ -367,6 +407,52 @@ QuranIndexEntry? _parseBlock(String block) {
     refs: refs,
     isSubtopic: false,
   );
+}
+
+List<QuranIndexEntry> buildDayPlanEntries(
+    List<QuranIndexEntry> allEntries, String planLabel, Map<int, List<int>> dayToJuz) {
+  final juzEntryByNumber = <int, QuranIndexEntry>{};
+  for (final e in allEntries) {
+    final m = RegExp(r'^Juz (\d+)$').firstMatch(e.topic);
+    if (m != null) juzEntryByNumber[int.parse(m.group(1)!)] = e;
+  }
+
+  final days = dayToJuz.entries.toList()
+    ..sort((a, b) => a.key.compareTo(b.key));
+
+  final result = <QuranIndexEntry>[
+    QuranIndexEntry(topic: planLabel, refs: const []),
+  ];
+
+  for (final dayEntry in days) {
+    final day = dayEntry.key;
+    final juzNums = dayEntry.value;
+
+    final dayRefs = <QuranVerseRef>[
+      for (final n in juzNums) ...?juzEntryByNumber[n]?.refs,
+    ];
+    final juzRangeLabel = juzNums.length == 1
+        ? 'Juz ${juzNums.first}'
+        : 'Juz ${juzNums.first}-${juzNums.last}';
+    final dayTopic = '$planLabel Day $day ($juzRangeLabel)';
+
+    result.add(QuranIndexEntry(
+      topic: dayTopic,
+      refs: const [], // refs: dayRefs,
+    ));
+
+    for (final n in juzNums) {
+      final juzEntry = juzEntryByNumber[n];
+      if (juzEntry == null) continue;
+      result.add(QuranIndexEntry(
+        topic: juzEntry.topic,
+        refs: juzEntry.refs,
+        isSubtopic: true,
+        parentTopic: dayTopic,
+      ));
+    }
+  }
+  return result;
 }
 
 List<QuranVerseRef> _parseRefs(String text) {

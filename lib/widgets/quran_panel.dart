@@ -1134,6 +1134,9 @@ class _QuranPanelState extends State<QuranPanel> {
         'Juz' => 'Juz',
         'Hizb (1/2)' => 'Hizb',
         'Rub (1/8)' => 'Rub',
+        '7Day' => 'Juz',
+        '10Day' => 'Juz',
+        '14Day' => 'Juz',
         _ => null,
       };
 
@@ -1203,47 +1206,58 @@ class _QuranPanelState extends State<QuranPanel> {
   }
 
   List<QuranIndexEntry> get _filtered {
-    if (_searchQuery == 'quizzes') {
-      return widget.entries.where((e) => e.topic.contains('{{{')).toList();
-    }
-    if (_searchQuery.isEmpty && _excludeQuery.isEmpty) return widget.entries;
-    final result = <QuranIndexEntry>[];
-    String? currentMainTopic;
-    bool currentMainMatches = false;
-    for (final entry in widget.entries) {
-      if (!entry.isSubtopic) {
-        currentMainTopic = entry.topic;
-        final topicLower = entry.topic.toLowerCase();
-        currentMainMatches =
-            (_searchQuery.isEmpty || topicLower.contains(_searchQuery)) &&
-                (_excludeQuery.isEmpty || !topicLower.contains(_excludeQuery));
-        if (currentMainMatches) result.add(entry);
-      } else {
-        final topicLower = entry.topic.toLowerCase();
-        final subtopicMatches =
-            (_searchQuery.isEmpty || topicLower.contains(_searchQuery)) &&
-                (_excludeQuery.isEmpty || !topicLower.contains(_excludeQuery));
-        if (currentMainMatches) {
-          result.add(entry);
-        } else if (subtopicMatches) {
-          if (result.isEmpty ||
-              result.last.topic != currentMainTopic ||
-              result.last.isSubtopic) {
-            final parentEntry = widget.entries.firstWhere(
-              (e) => !e.isSubtopic && e.topic == currentMainTopic,
-              orElse: () => entry,
-            );
-            if (!result
-                .any((e) => !e.isSubtopic && e.topic == parentEntry.topic)) {
-              result.add(parentEntry);
+      if (_searchQuery == 'quizzes') {
+        return widget.entries.where((e) => e.topic.contains('{{{')).toList();
+      }
+      if (_searchQuery.isEmpty && _excludeQuery.isEmpty) return widget.entries;
+      final result = <QuranIndexEntry>[];
+      String? currentMainTopic;
+      bool currentMainMatches = false;
+      for (final entry in widget.entries) {
+        if (!entry.isSubtopic) {
+          currentMainTopic = entry.topic;
+          final topicLower = entry.topic.toLowerCase();
+          currentMainMatches =
+              (_searchQuery.isEmpty || _matchesQuery(topicLower, _searchQuery)) &&
+                  (_excludeQuery.isEmpty || !_matchesQuery(topicLower, _excludeQuery));
+          if (currentMainMatches) result.add(entry);
+        } else {
+          final topicLower = entry.topic.toLowerCase();
+          final subtopicMatches =
+              (_searchQuery.isEmpty || _matchesQuery(topicLower, _searchQuery)) &&
+                  (_excludeQuery.isEmpty || !_matchesQuery(topicLower, _excludeQuery));
+          if (currentMainMatches) {
+            result.add(entry);
+          } else if (subtopicMatches) {
+            if (result.isEmpty ||
+                result.last.topic != currentMainTopic ||
+                result.last.isSubtopic) {
+              final parentEntry = widget.entries.firstWhere(
+                (e) => !e.isSubtopic && e.topic == currentMainTopic,
+                orElse: () => entry,
+              );
+              if (!result
+                  .any((e) => !e.isSubtopic && e.topic == parentEntry.topic)) {
+                result.add(parentEntry);
+              }
             }
+            result.add(entry);
           }
-          result.add(entry);
         }
       }
+      return result;
     }
-    return result;
-  }
+
+    static const Set<String> _wholeWordQueries = {
+      'juz', 'hizb', 'rub',
+    };
+
+    bool _matchesQuery(String topicLower, String query) {
+      if (_wholeWordQueries.contains(query)) {
+        return RegExp(r'\b' + RegExp.escape(query) + r'\b').hasMatch(topicLower);
+      }
+      return topicLower.contains(query);
+    }
 
   final Map<String, bool> _revealedQuizWords = {};
 
@@ -3194,7 +3208,7 @@ class _QuranPanelState extends State<QuranPanel> {
                     const SizedBox(width: 4),
                     _quickFilterChip('Hizb', 'hizb'),
                     const SizedBox(width: 4),
-                    _quickFilterChip('Rub ', 'rub '),
+                    _quickFilterChip('Rub ', 'rub'),
                     const SizedBox(width: 4),
                     _quickFilterChip('months', 'islamic months'),
                     const SizedBox(width: 4),

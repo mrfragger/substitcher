@@ -629,26 +629,38 @@ class _PlayerScreenState extends State<PlayerScreen>
       }
     }
 
-  Future<void> _loadQuranLanguage() async {
-    final prefs = await SharedPreferences.getInstance();
-    final language = prefs.getString('quranIndexLanguage') ?? 'English';
-    setState(() {
-      _quranIndexLanguage = language;
-      _quranEntries = parseQuranIndex(getQuranIndexRaw(language));
-    });
-  }
+    Future<void> _loadQuranLanguage() async {
+        final prefs = await SharedPreferences.getInstance();
+        final language = prefs.getString('quranIndexLanguage') ?? 'English';
+        final parsed = parseQuranIndex(getQuranIndexRaw(language));
+        setState(() {
+          _quranIndexLanguage = language;
+          _quranEntries = [
+            ...parsed,
+            ...buildDayPlanEntries(parsed, '14Day', juzPlan14Days),
+            ...buildDayPlanEntries(parsed, '10Day', juzPlan10Days),
+            ...buildDayPlanEntries(parsed, '7Day', juzPlan7Days),
+          ];
+        });
+      }
 
-  void _onQuranLanguageChanged(String language) {
-    setState(() {
-      _quranIndexLanguage = language;
-      _quranEntries = parseQuranIndex(getQuranIndexRaw(language));
-      _activeQuranRef = null;
-      _activeQuranFilteredIndex = null;
-    });
-    SharedPreferences.getInstance().then((prefs) {
-      prefs.setString('quranIndexLanguage', language);
-    });
-  }
+      void _onQuranLanguageChanged(String language) {
+        final parsed = parseQuranIndex(getQuranIndexRaw(language));
+        setState(() {
+          _quranIndexLanguage = language;
+          _quranEntries = [
+            ...parsed,
+            ...buildDayPlanEntries(parsed, '14Day', juzPlan14Days),
+            ...buildDayPlanEntries(parsed, '10Day', juzPlan10Days),
+            ...buildDayPlanEntries(parsed, '7Day', juzPlan7Days),
+          ];
+          _activeQuranRef = null;
+          _activeQuranFilteredIndex = null;
+        });
+        SharedPreferences.getInstance().then((prefs) {
+          prefs.setString('quranIndexLanguage', language);
+        });
+      }
 
   bool get _isQuranVerseByVerse {
     final p = _currentAudiobook?.path ?? '';

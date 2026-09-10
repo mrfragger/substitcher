@@ -3019,6 +3019,7 @@ Matching Phrases 11 words
 - (Aquello que ha sido) sacrificado en nombre de otro que no sea Allah, pero quien se vea forzado (por el hambre), sin rebeldía ni transgresión, entonces... (أُهِلَّ لِغَيْرِ اللَّهِ بِهِ فَمَنِ اضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ) 6:145; 16:115
 - Y cuando se les dice: Seguid lo que Allah ha revelado, dicen: ¡No! Seguiremos aquello en lo que encontramos a nuestros padres. (وَإِذَا قِيلَ لَهُمُ اتَّبِعُوا مَا أَنزَلَ اللَّهُ قَالُوا بَلْ نَتَّبِعُ مَا) 2:170; 31:21
 - Dijo: ¡Oh, pueblo mío! Adorad a Allah; no tenéis otra divinidad fuera de Él. ¿Acaso no vais a temer? (قَالَ يَاقَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَهٍ غَيْرُهُ أَفَلَا تَتَّقُونَ) 7:65; 23:23
+
 Matching Phrases 10 words
 - Viajan por la tierra y observan cuál fue el final de quienes fueron antes que ellos. (يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ) 12:109; 30:9; 30:42; 35:44; 40:82; 47:10
 - ¿Y quién es más injusto que quien inventa una mentira sobre Alá o desmiente? (وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَى عَلَى اللَّهِ كَذِبًا أَوْ كَذَّبَ) 6:21; 7:37; 10:17; 29:68
