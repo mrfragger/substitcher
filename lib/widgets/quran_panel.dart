@@ -1191,6 +1191,10 @@ class _QuranPanelState extends State<QuranPanel> {
         _tafsirFontSize = 16.0;
       } else if (_tafsirFontSize == 16.0) {
         _tafsirFontSize = 18.0;
+      } else if (_tafsirFontSize == 18.0) {
+        _tafsirFontSize = 20.0;
+      } else if (_tafsirFontSize == 20.0) {
+        _tafsirFontSize = 22.0;
       } else {
         _tafsirFontSize = 14.0;
       }
@@ -2520,8 +2524,8 @@ class _QuranPanelState extends State<QuranPanel> {
         result.add(TextSpan(
           text: text.substring(m.start, m.end),
           style: (span.style ?? const TextStyle()).copyWith(
-            backgroundColor: Colors.yellow,
-            color: Colors.black,
+            // backgroundColor: Colors.yellow,
+            color: Colors.yellow,
             fontWeight: FontWeight.bold,
           ),
           recognizer: span.recognizer,
@@ -2807,6 +2811,7 @@ class _QuranPanelState extends State<QuranPanel> {
   Widget build(BuildContext context) {
     final filtered = _filtered;
     final double currentFontSize = _tafsirFontSize;
+    final double quranIndexFontSize = _tafsirFontSize;
 
     return Focus(
       autofocus: false,
@@ -2878,7 +2883,7 @@ class _QuranPanelState extends State<QuranPanel> {
                     child: TextField(
                       controller: _excludeController,
                       focusNode: _excludeFocusNode,
-                      style: TextStyle(color: Colors.white, fontSize: _tafsirFontSize),
+                      style: const TextStyle(color: Colors.white, fontSize: 16),
                       decoration: InputDecoration(
                         hintText: 'Exclude...',
                         hintStyle: const TextStyle(color: Colors.white54),
@@ -2917,7 +2922,7 @@ class _QuranPanelState extends State<QuranPanel> {
                       borderRadius: BorderRadius.circular(6),
                     ),
                     child: Text('*',
-                        style: TextStyle(color: Colors.lightBlueAccent, fontSize: _tafsirFontSize)),
+                        style: const TextStyle(color: Colors.lightBlueAccent, fontSize: 13)),
                   ),
                   if (availableQuranIndexLanguages.length > 1) ...[
                     const SizedBox(width: 12),
@@ -3207,8 +3212,8 @@ class _QuranPanelState extends State<QuranPanel> {
                     const Spacer(),
                     TextButton(
                       onPressed: () => _showSurahListPopup(context),
-                      child: const Text('Surahs',
-                          style: TextStyle(color: Colors.white, fontSize: 12)),
+                      child: Text('Surahs',
+                          style: const TextStyle(color: Colors.white, fontSize: 14)),
                     ),
                     const SizedBox(width: 4),
                     Tooltip(
@@ -3276,9 +3281,9 @@ class _QuranPanelState extends State<QuranPanel> {
                                                               size: 14, color: Colors.lightBlueAccent),
                                                           const SizedBox(width: 3),
                                                           Text('${hit.surah}:${hit.ayah}',
-                                                              style: const TextStyle(
+                                                              style: TextStyle(
                                                                   color: Colors.lightBlueAccent,
-                                                                  fontSize: 12,
+                                                                  fontSize: _tafsirFontSize,
                                                                   fontWeight: FontWeight.w600)),
                                                           const Spacer(),
                                                           Icon(
@@ -3330,9 +3335,9 @@ class _QuranPanelState extends State<QuranPanel> {
                                                     ? _highlightQuery(
                                                         _colorParensAndAllah(
                                                           entry.topic,
-                                                          const TextStyle(
+                                                          TextStyle(
                                                               color: Colors.white38,
-                                                              fontSize: 13,
+                                                              fontSize: _tafsirFontSize,
                                                               fontStyle: FontStyle.italic),
                                                         ),
                                                         _searchQuery,
@@ -3419,7 +3424,7 @@ class _QuranPanelState extends State<QuranPanel> {
                                                       entry.topic,
                                                       TextStyle(
                                                         color: hasActiveRef ? Colors.purple[200] : Colors.white70,
-                                                        fontSize: 13,
+                                                        fontSize: _tafsirFontSize,
                                                         fontWeight: hasActiveRef ? FontWeight.bold : FontWeight.normal,
                                                       ),
                                                       globalIndex,
@@ -3448,7 +3453,7 @@ class _QuranPanelState extends State<QuranPanel> {
                                                               : entry.isSubtopic
                                                                   ? Colors.white70
                                                                   : Colors.white,
-                                                          fontSize: entry.isSubtopic ? 13 : 14,
+                                                          fontSize: entry.isSubtopic ? _tafsirFontSize : _tafsirFontSize + 1,
                                                           fontWeight: hasActiveRef
                                                               ? FontWeight.bold
                                                               : entry.isSubtopic
@@ -3460,9 +3465,9 @@ class _QuranPanelState extends State<QuranPanel> {
                                                       if (_categoryForHeaderTopic(entry.topic) != null)
                                                         TextSpan(
                                                           text: ' ${_completionHeaderSuffix(entry.topic)}',
-                                                          style: const TextStyle(
+                                                          style: TextStyle(
                                                             color: Colors.white70,
-                                                            fontSize: 13,
+                                                            fontSize: _tafsirFontSize,
                                                             fontWeight: FontWeight.w600,
                                                           ),
                                                         ),
@@ -3484,7 +3489,7 @@ class _QuranPanelState extends State<QuranPanel> {
                                           ],
                                           Text(
                                             '${entry.refs.length} ref${entry.refs.length == 1 ? '' : 's'}',
-                                            style: const TextStyle(color: Colors.white24, fontSize: 11),
+                                            style: TextStyle(color: Colors.white24, fontSize: _tafsirFontSize - 2),
                                           ),
                                         ],
                                       ),
@@ -3565,7 +3570,7 @@ class _QuranPanelState extends State<QuranPanel> {
                                                         : widget.isQuranLoaded
                                                             ? Colors.lightBlueAccent
                                                             : Colors.yellow,
-                                                    fontSize: 13,
+                                                    fontSize: 12,
                                                     fontWeight: isActive
                                                         ? FontWeight.bold
                                                         : FontWeight.normal,
@@ -3614,7 +3619,7 @@ class _QuranPanelState extends State<QuranPanel> {
           label,
           style: TextStyle(
             color: isActive ? Colors.white : Colors.purple[200],
-            fontSize: 12,
+            fontSize: 13,
           ),
         ),
       ),
@@ -3776,10 +3781,10 @@ class _QuranPanelState extends State<QuranPanel> {
                             child: TextField(
                               controller: _tafsirRefController,
                               focusNode: _tafsirRefFocusNode,
-                              style: const TextStyle(color: Colors.white, fontSize: 12),
+                              style: const TextStyle(color: Colors.white, fontSize: 13),
                               decoration: InputDecoration(
                                 hintText: '2:255/2:2-4',
-                                hintStyle: const TextStyle(color: Colors.white24, fontSize: 12),
+                                hintStyle: TextStyle(color: Colors.white24, fontSize: 13),
                                 filled: true,
                                 fillColor: Colors.black26,
                                 border: OutlineInputBorder(
