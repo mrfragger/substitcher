@@ -977,7 +977,7 @@ class _QuranPanelState extends State<QuranPanel> {
     'schemas',
     'juz',
     'hizb',
-    'rub',
+    'rub ',
     '#',
     '=',
     'phrases',
@@ -1030,6 +1030,7 @@ class _QuranPanelState extends State<QuranPanel> {
   void initState() {
     super.initState();
     _loadCompletionState();
+    _loadTafsirFontSize();
 
     _rangeRepeatCountFocusNode.addListener(() {
       if (_rangeRepeatCountFocusNode.hasFocus) {
@@ -1081,6 +1082,19 @@ class _QuranPanelState extends State<QuranPanel> {
         _completedRub = rub;
       });
     }
+  }
+
+  Future<void> _loadTafsirFontSize() async {
+    final prefs = await SharedPreferences.getInstance();
+    final saved = prefs.getDouble('tafsir_font_size');
+    if (saved != null && mounted) {
+      setState(() => _tafsirFontSize = saved);
+    }
+  }
+
+  Future<void> _saveTafsirFontSize() async {
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setDouble('tafsir_font_size', _tafsirFontSize);
   }
 
   Widget _buildCompletionCheckbox(String topic) {
@@ -1176,6 +1190,7 @@ class _QuranPanelState extends State<QuranPanel> {
         _tafsirFontSize = 14.0;
       }
     });
+    _saveTafsirFontSize();
   }
 
   List<QuranIndexEntry> get _filtered {
@@ -3142,7 +3157,7 @@ class _QuranPanelState extends State<QuranPanel> {
                     const SizedBox(width: 4),
                     _quickFilterChip('Hizb', 'hizb'),
                     const SizedBox(width: 4),
-                    _quickFilterChip('Rub', 'rub'),
+                    _quickFilterChip('Rub ', 'rub '),
                     const SizedBox(width: 4),
                     _quickFilterChip('months', 'islamic months'),
                     const SizedBox(width: 4),
