@@ -106,8 +106,14 @@ class _TafsirIndex {
   double avgDocLength = 0;
 }
 
+final RegExp _arabicDiacritics = RegExp(
+  r'[\u0610-\u061A\u064B-\u065F\u0670\u06D6-\u06DC'
+  r'\u06DF-\u06E8\u06EA-\u06ED\u08D3-\u08E1\u08E3-\u08FF]',
+);
+
 List<String> _tokenize(String text) {
-  return text
+  final stripped = text.replaceAll(_arabicDiacritics, '');
+  return stripped
       .toLowerCase()
       .split(RegExp(r'[^\p{L}\p{N}]+', unicode: true))
       .where((t) => t.isNotEmpty)
@@ -159,6 +165,38 @@ class _QuranPanelState extends State<QuranPanel> {
   static int? _lastTafsirSearchAyah;
   static String? _lastTafsirSearchSource;
   static const Set<String> _quizSupportedLanguages = {'English', 'Spanish'};
+  static const Set<String> _heSingleWordSuppressors = {
+    'said', 'asked', 'then', 'takes', 'kept', 'will', 'trusts', 'was', 'changes', 'wakes',
+  };
+  static const Set<String> _hePhraseSuppressors = {
+    'is devious', 'is deceptive', 'is cunning', '(Muhammad)',
+    '(Muhammad )',
+  };
+
+  static const Map<String, String> _allahWordExclusions = {
+    'His': r'(?!\s+(?:actual|parents)\b)',
+  };
+
+  String get _heExclusionPattern {
+    final singles = _heSingleWordSuppressors.map(RegExp.escape).join('|');
+    final phrases = _hePhraseSuppressors.map((p) {
+      final words = p.split(' ').where((w) => w.isNotEmpty).map(RegExp.escape);
+      return words.join(r'\s+');
+    }).join('|');
+    return '(?!\\s+(?:$singles)\\b)(?!\\s+(?:$phrases)\\b)';
+  }
+
+  String _exclusionFor(String w) {
+    if (w == 'He') return _heExclusionPattern;
+    return _allahWordExclusions[w] ?? '';
+  }
+
+  String _latinAllahWordPattern(String w) {
+    final escaped = RegExp.escape(w);
+    final range = _scriptRanges['latin']!;
+    final exclusion = _exclusionFor(w);
+    return '(?<![$range])$escaped$exclusion(?![$range])';
+  }
   static const Map<String, List<String>> _allahByLanguage = {
     'Arabic': [
       'بالله',
@@ -269,6 +307,9 @@ class _QuranPanelState extends State<QuranPanel> {
       'Lord\u02BCs',
       'Lord\'s',
       'Lord',
+      'Him',
+      'His',
+      'He',
     ],
     'Albanian': [
       'All-llahun', 'All-llahut', 'All-llahu',
@@ -1197,6 +1238,8 @@ class _QuranPanelState extends State<QuranPanel> {
         _tafsirFontSize = 20.0;
       } else if (_tafsirFontSize == 20.0) {
         _tafsirFontSize = 22.0;
+      } else if (_tafsirFontSize == 22.0) {
+        _tafsirFontSize = 24.0;
       } else {
         _tafsirFontSize = 14.0;
       }
@@ -2508,11 +2551,32 @@ class _QuranPanelState extends State<QuranPanel> {
     });
   }
 
-  List<TextSpan> _highlightQuery(List<TextSpan> spans, String query, {bool isPhrase = false}) {
+  /// Highlights the query inside the given spans.
+  ///
+  /// - For Arabic queries with [wholeWord] = true: matches whole words
+  ///   diacritic-insensitively (so `وَقُولُوا` highlights `وَقُولُوا۟` too).
+  /// - For non-Arabic or wholeWord = false: falls back to the original
+  ///   substring/word-based highlight (case-insensitive).
+  List<TextSpan> _highlightQuery(
+    List<TextSpan> spans,
+    String query, {
+    bool isPhrase = false,
+    bool wholeWord = false,
+  }) {
     final trimmedQuery = query.trim();
     if (trimmedQuery.isEmpty) return spans;
 
-    final words = trimmedQuery.split(RegExp(r'\s+')).where((t) => t.isNotEmpty).toList();
+    // Arabic query + whole-word mode → use diacritic-insensitive whole-word match.
+    final isArabic = RegExp(r'[\u0600-\u06FF\u0750-\u077F]').hasMatch(trimmedQuery);
+    if (wholeWord && isArabic) {
+      return _highlightArabicWholeWord(spans, trimmedQuery);
+    }
+
+    // ---- Original (non-Arabic / phrase) behavior ----
+    final words = trimmedQuery
+        .split(RegExp(r'\s+'))
+        .where((t) => t.isNotEmpty)
+        .toList();
     if (words.isEmpty) return spans;
 
     final pattern = RegExp(
@@ -2532,12 +2596,15 @@ class _QuranPanelState extends State<QuranPanel> {
       int cursor = 0;
       for (final m in pattern.allMatches(text)) {
         if (m.start > cursor) {
-          result.add(TextSpan(text: text.substring(cursor, m.start), style: span.style, recognizer: span.recognizer));
+          result.add(TextSpan(
+            text: text.substring(cursor, m.start),
+            style: span.style,
+            recognizer: span.recognizer,
+          ));
         }
         result.add(TextSpan(
           text: text.substring(m.start, m.end),
           style: (span.style ?? const TextStyle()).copyWith(
-            // backgroundColor: Colors.yellow,
             color: Colors.yellow,
             fontWeight: FontWeight.bold,
           ),
@@ -2546,10 +2613,115 @@ class _QuranPanelState extends State<QuranPanel> {
         cursor = m.end;
       }
       if (cursor < text.length) {
-        result.add(TextSpan(text: text.substring(cursor), style: span.style, recognizer: span.recognizer));
+        result.add(TextSpan(
+          text: text.substring(cursor),
+          style: span.style,
+          recognizer: span.recognizer,
+        ));
       }
     }
     return result;
+  }
+
+  /// Highlights whole-word matches of [query] in each span, ignoring Arabic
+  /// diacritics. Uses the existing `_stripArabicDiacritics` helper (which
+  /// returns the stripped string plus a map from stripped-index → original-index).
+  List<TextSpan> _highlightArabicWholeWord(List<TextSpan> spans, String query) {
+    final (queryStripped, _) = _stripArabicDiacritics(query);
+    final needles = queryStripped
+        .split(RegExp(r'\s+'))
+        .where((t) => t.isNotEmpty)
+        .toList();
+    if (needles.isEmpty) return spans;
+
+    // A "word character" for boundary purposes: Arabic block + letters/digits
+    // in any script. Diacritics are already stripped from both sides, so we
+    // only need to check letters/digits here.
+    final wordChar = RegExp(
+      r'[\u0600-\u06FF\u0750-\u077F\uFB50-\uFDFF\uFE70-\uFEFF\p{L}\p{N}]',
+      unicode: true,
+    );
+
+    final out = <TextSpan>[];
+    for (final span in spans) {
+      final text = span.text;
+      if (text == null || text.isEmpty) {
+        out.add(span);
+        continue;
+      }
+
+      final (stripped, indexMap) = _stripArabicDiacritics(text);
+      final ranges = <(int, int)>[];
+
+      for (final needle in needles) {
+        int start = 0;
+        while (true) {
+          final idx = stripped.indexOf(needle, start);
+          if (idx == -1) break;
+
+          final beforeOk = idx == 0 || !wordChar.hasMatch(stripped[idx - 1]);
+          final endIdx = idx + needle.length;
+          final afterOk =
+              endIdx >= stripped.length || !wordChar.hasMatch(stripped[endIdx]);
+
+          if (beforeOk && afterOk) {
+            // Map stripped indices back to original text indices, so the
+            // highlight covers the original diacritic-containing word.
+            final origStart = indexMap[idx];
+            final origEnd = indexMap[endIdx - 1] + 1;
+            ranges.add((origStart, origEnd));
+          }
+          start = idx + 1;
+        }
+      }
+
+      if (ranges.isEmpty) {
+        out.add(span);
+        continue;
+      }
+
+      // Sort and merge overlapping ranges.
+      ranges.sort((a, b) => a.$1.compareTo(b.$1));
+      final merged = <(int, int)>[];
+      for (final r in ranges) {
+        if (merged.isNotEmpty && r.$1 <= merged.last.$2) {
+          merged[merged.length - 1] = (
+            merged.last.$1,
+            r.$2 > merged.last.$2 ? r.$2 : merged.last.$2,
+          );
+        } else {
+          merged.add(r);
+        }
+      }
+
+      int cursor = 0;
+      for (final r in merged) {
+        if (r.$1 > cursor) {
+          out.add(TextSpan(
+            text: text.substring(cursor, r.$1),
+            style: span.style,
+            recognizer: span.recognizer,
+          ));
+        }
+        out.add(TextSpan(
+          text: text.substring(r.$1, r.$2),
+          style: (span.style ?? const TextStyle()).copyWith(
+            color: Colors.yellow,
+            fontWeight: FontWeight.bold,
+          ),
+          recognizer: span.recognizer,
+        ));
+        cursor = r.$2;
+      }
+      if (cursor < text.length) {
+        out.add(TextSpan(
+          text: text.substring(cursor),
+          style: span.style,
+          recognizer: span.recognizer,
+        ));
+      }
+    }
+    return out;
   }
 
   List<TextSpan> _colorParens(String text, TextStyle baseStyle) {
@@ -2589,8 +2761,7 @@ class _QuranPanelState extends State<QuranPanel> {
     for (final w in allahWords) {
       final escaped = RegExp.escape(w);
       if (RegExp(r"^[a-zA-ZÀ-ÿçÇğĞıİöÖşŞüÜ'\u2018\u2019]+$").hasMatch(w)) {
-        final range = _scriptRanges['latin']!;
-        patterns.add('(?<![$range])$escaped(?![$range])');
+        patterns.add(_latinAllahWordPattern(w));
       } else {
         final script = _detectScript(w);
         if (script == 'arabic') {
@@ -3300,9 +3471,9 @@ class _QuranPanelState extends State<QuranPanel> {
                                                               size: 14, color: Colors.lightBlueAccent),
                                                           const SizedBox(width: 3),
                                                           Text('${hit.surah}:${hit.ayah}',
-                                                              style: TextStyle(
+                                                              style: const TextStyle(
                                                                   color: Colors.lightBlueAccent,
-                                                                  fontSize: _tafsirFontSize,
+                                                                  fontSize: 14,
                                                                   fontWeight: FontWeight.w600)),
                                                           const Spacer(),
                                                           Icon(
@@ -3363,9 +3534,9 @@ class _QuranPanelState extends State<QuranPanel> {
                                                       )
                                                     : _colorParensAndAllah(
                                                         entry.topic,
-                                                        const TextStyle(
+                                                        TextStyle(
                                                             color: Colors.white38,
-                                                            fontSize: 13,
+                                                            fontSize: _tafsirFontSize,
                                                             fontStyle: FontStyle.italic),
                                                       ),
                                               ),
@@ -3443,7 +3614,7 @@ class _QuranPanelState extends State<QuranPanel> {
                                                       entry.topic,
                                                       TextStyle(
                                                         color: hasActiveRef ? Colors.purple[200] : Colors.white70,
-                                                        fontSize: _tafsirFontSize,
+                                                        fontSize: 13,
                                                         fontWeight: hasActiveRef ? FontWeight.bold : FontWeight.normal,
                                                       ),
                                                       globalIndex,
@@ -3472,7 +3643,7 @@ class _QuranPanelState extends State<QuranPanel> {
                                                               : entry.isSubtopic
                                                                   ? Colors.white70
                                                                   : Colors.white,
-                                                          fontSize: entry.isSubtopic ? 13 : 14,
+                                                          fontSize: entry.isSubtopic ? _tafsirFontSize - 1 : _tafsirFontSize,
                                                           fontWeight: hasActiveRef
                                                               ? FontWeight.bold
                                                               : entry.isSubtopic
@@ -3508,7 +3679,7 @@ class _QuranPanelState extends State<QuranPanel> {
                                           ],
                                           Text(
                                             '${entry.refs.length} ref${entry.refs.length == 1 ? '' : 's'}',
-                                            style: TextStyle(color: Colors.white24, fontSize: _tafsirFontSize - 2),
+                                            style: const TextStyle(color: Colors.white24, fontSize: 14),
                                           ),
                                         ],
                                       ),
@@ -3944,6 +4115,9 @@ class _QuranPanelState extends State<QuranPanel> {
                           r,
                           highlightQuery: phrase ?? rawQuery,
                           highlightIsPhrase: phrase != null,
+                          highlightWholeWord: RegExp(r'[\u0600-\u06FF\u0750-\u077F]')
+                              .hasMatch(phrase ?? rawQuery),
+                          fontSize: _tafsirFontSize + 4,
                         ),
                       );
                     },
@@ -4055,8 +4229,8 @@ class _QuranPanelState extends State<QuranPanel> {
           child: Checkbox(
             value: value,
             onChanged: onChanged,
-            activeColor: Colors.blueGrey,
-            side: const BorderSide(color: Colors.blueGrey, width: 1.0),
+            activeColor: Colors.lime,
+            side: const BorderSide(color: Colors.lime, width: 1.0),
             materialTapTargetSize: MaterialTapTargetSize.shrinkWrap,
           ),
         );
@@ -4084,11 +4258,18 @@ class _QuranPanelState extends State<QuranPanel> {
     }
   }
 
-  Widget _buildTafsirCard(Map<String, dynamic> r, {String? highlightQuery, bool highlightIsPhrase = false}) {
+  Widget _buildTafsirCard(
+    Map<String, dynamic> r, {
+    String? highlightQuery,
+    bool highlightIsPhrase = false,
+    bool highlightWholeWord = false,
+    double? fontSize,
+  }) {
       final source = r['source'] as String;
       final surah = r['surah'] as int;
       final ayah = r['ayah'] as int;
       final text = r['text'] as String;
+      final effectiveFontSize = fontSize ?? _tafsirFontSize;
       final isRtl = source == 'Mokhtasar Ar' ||
           isMokhtasarRtl(_mokhtasarLanguage) ||
           (source.startsWith('Various') && isVariousTranslationRtl(_variousLanguage)) ||
@@ -4204,7 +4385,8 @@ class _QuranPanelState extends State<QuranPanel> {
                 isIntro: ayah == 0,
                 highlightQuery: highlightQuery,
                 highlightIsPhrase: highlightIsPhrase,
-                fontSize: _tafsirFontSize,
+                highlightWholeWord: highlightWholeWord,
+                fontSize: effectiveFontSize,
               )
             ],
           ),
@@ -4258,8 +4440,7 @@ class _QuranPanelState extends State<QuranPanel> {
       for (final w in allahWords) {
         final escaped = RegExp.escape(w);
         if (RegExp(r"^[a-zA-ZÀ-ÿçÇğĞıİöÖşŞüÜ'\u2018\u2019]+$").hasMatch(w)) {
-          final range = _scriptRanges['latin']!;
-          patterns.add('(?<![$range])$escaped(?![$range])');
+          patterns.add(_latinAllahWordPattern(w));
         } else {
           final script = _detectScript(w);
           if (script == 'arabic') {
@@ -4396,7 +4577,15 @@ class _QuranPanelState extends State<QuranPanel> {
       return spans;
     }
 
-    Widget _buildTafsirText(String text, bool isRtl, {bool isIntro = false, String? highlightQuery, bool highlightIsPhrase = false, double fontSize = 14.0}) {
+    Widget _buildTafsirText(
+      String text,
+      bool isRtl, {
+      bool isIntro = false,
+      String? highlightQuery,
+      bool highlightIsPhrase = false,
+      bool highlightWholeWord = false,
+      double fontSize = 14.0,
+    }) {
       if (isIntro) {
         return SelectableText(
           text,
@@ -4422,7 +4611,12 @@ class _QuranPanelState extends State<QuranPanel> {
             language: _mokhtasarLanguage,
             fontSize: fontSize);
         if (highlightQuery != null && highlightQuery.isNotEmpty) {
-          spans = _highlightQuery(spans, highlightQuery, isPhrase: highlightIsPhrase);
+          spans = _highlightQuery(
+            spans,
+            highlightQuery,
+            isPhrase: highlightIsPhrase,
+            wholeWord: highlightWholeWord,
+          );
         }
         return SelectableText.rich(
           TextSpan(children: spans),
@@ -4520,7 +4714,12 @@ class _QuranPanelState extends State<QuranPanel> {
 
       var finalSpans = spans;
       if (highlightQuery != null && highlightQuery.isNotEmpty) {
-        finalSpans = _highlightQuery(finalSpans, highlightQuery, isPhrase: highlightIsPhrase);
+        finalSpans = _highlightQuery(
+          finalSpans,
+          highlightQuery,
+          isPhrase: highlightIsPhrase,
+          wholeWord: highlightWholeWord,
+        );
       }
 
       return SelectableText.rich(
