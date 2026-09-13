@@ -1209,6 +1209,30 @@ class _QuranPanelState extends State<QuranPanel> {
           ),
         ));
       }
+
+      final divisor = _averageDivisorForTopic(topic);
+      if (divisor != null) {
+        final avgLabel = formatAverageJuzDuration(widget.juzDurations, divisor);
+        if (avgLabel.isNotEmpty) {
+          spans.add(WidgetSpan(
+            alignment: PlaceholderAlignment.middle,
+            child: Padding(
+              padding: const EdgeInsets.only(left: 6),
+              child: Tooltip(
+                message: 'Average per day',
+                child: Text(
+                  '($avgLabel)',
+                  style: const TextStyle(
+                    color: Colors.redAccent,
+                    fontSize: 13,
+                    fontWeight: FontWeight.w600,
+                  ),
+                ),
+              ),
+            ),
+          ));
+        }
+      }
     }
 
     return spans;
@@ -1223,6 +1247,21 @@ class _QuranPanelState extends State<QuranPanel> {
         '14Day' => 'Juz',
         _ => null,
       };
+
+  int? _averageDivisorForTopic(String topic) {
+    switch (topic) {
+      case 'Juz':
+        return 30;
+      case '14Day':
+        return 14;
+      case '10Day':
+        return 10;
+      case '7Day':
+        return 7;
+      default:
+        return null;
+    }
+  }
 
   Set<int> _completionSetFor(String category, {int track = 0}) {
     if (track == 1) {

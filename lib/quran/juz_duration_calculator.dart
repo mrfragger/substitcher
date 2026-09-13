@@ -237,3 +237,13 @@ String formatJuzRangeDuration(List<int>? juzDurations, int fromJuz, int toJuz) {
   final remMins = mins % 60;
   return hours > 0 ? '${hours}h ${remMins}m' : '${mins}m';
 }
+
+String formatAverageJuzDuration(List<int>? juzDurations, int divisor) {
+  if (juzDurations == null || juzDurations.isEmpty || divisor <= 0) return '';
+  final totalSeconds = juzDurations.fold<int>(0, (sum, s) => sum + s);
+  final avgSeconds = totalSeconds / divisor;
+  final mins = (avgSeconds / 60).round();
+  final hours = mins ~/ 60;
+  final remMins = mins % 60;
+  return hours > 0 ? '${hours}h ${remMins}m' : '${mins}m';
+}
