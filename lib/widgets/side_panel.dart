@@ -236,6 +236,7 @@ class SidePanel extends StatelessWidget {
   final ItemScrollController lutItemScrollController;
   final String quranIndexLanguage;
   final Function(String) onQuranLanguageChanged;
+  final List<int>? quranJuzDurations;
   final Function(QuranVerseRef range, int repeatCount)? onRepeatRangeRequested;
 
   const SidePanel({
@@ -431,6 +432,7 @@ class SidePanel extends StatelessWidget {
     required this.colorItemScrollController,
     required this.lutItemScrollController,
     this.onRepeatRangeRequested,
+    this.quranJuzDurations,
   });
 
   @override
@@ -811,6 +813,7 @@ class SidePanel extends StatelessWidget {
           selectedLanguage: quranIndexLanguage,
           onLanguageChanged: onQuranLanguageChanged,
           onRepeatRangeRequested: onRepeatRangeRequested,
+          juzDurations: quranJuzDurations,
         );
       case PanelMode.quiz:
         return DeductionQuizPanel(

@@ -65,6 +65,7 @@ import '../widgets/quran_panel.dart';
 import '../quran/quran_index.dart';
 import '../quran/quran_verse_search_index.dart';
 import '../quran/surah_names.dart';
+import '../quran/juz_duration_calculator.dart';
 
 enum FontColorOverride { none, black, white }
 
@@ -248,6 +249,7 @@ class _PlayerScreenState extends State<PlayerScreen>
   final FocusNode _quranVerseSearchFocusNode = FocusNode();
   List<QuranAyahSearchHit> _quranVerseSearchResults = [];
   bool _quranVerseIndexBuilding = false;
+  List<int>? _quranJuzDurations;
 
   String _defaultFont = 'System Default';
   String? _defaultColorPalette;
@@ -629,6 +631,20 @@ class _PlayerScreenState extends State<PlayerScreen>
       }
     }
 
+    Future<void> _refreshQuranJuzDurations() async {
+      if (!_isQuranVerseByVerse || _subtitleFilePath == null) {
+        if (_quranJuzDurations != null) {
+          setState(() => _quranJuzDurations = null);
+        }
+        return;
+      }
+      final dirPath = path.dirname(_subtitleFilePath!);
+      final durations = await computeJuzDurationsForDirectory(dirPath);
+      if (mounted) {
+        setState(() => _quranJuzDurations = durations);
+      }
+    }
+
     Future<void> _loadQuranLanguage() async {
         final prefs = await SharedPreferences.getInstance();
         final language = prefs.getString('quranIndexLanguage') ?? 'English';
@@ -766,6 +782,7 @@ class _PlayerScreenState extends State<PlayerScreen>
       await _loadQuranVttForFile(targetOpusPath);
       await _openAudiobook(targetOpusPath);
       await _waitForPlayerReady();
+      _refreshQuranJuzDurations();
       // await Future.delayed(const Duration(seconds: 2));
     }
     final startId = ref.chapterIdStart;
@@ -6946,6 +6963,7 @@ class _PlayerScreenState extends State<PlayerScreen>
       await player.open(Media(selectedPath), play: false);
       await player.setRate(_playbackSpeed);
       await _loadSubtitles(selectedPath);
+      _refreshQuranJuzDurations();
       _precalculateWordPositions();
 
       await Future.delayed(const Duration(milliseconds: 100));
@@ -9204,6 +9222,7 @@ class _PlayerScreenState extends State<PlayerScreen>
                   },
                   quranIndexLanguage: _quranIndexLanguage,
                   onQuranLanguageChanged: _onQuranLanguageChanged,
+                  quranJuzDurations: _quranJuzDurations,
                   frequencyItems: _frequencyItems,
                   isAnalyzingFrequencies: _isAnalyzingFrequencies,
                   onAnalyzeFrequencies: _analyzeFrequencies,

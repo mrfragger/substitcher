@@ -8,6 +8,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 import '../quran/quran_index.dart';
 import '../quran/surah_names.dart';
 import '../quran/quran_verse_search_index.dart';
+import '../quran/juz_duration_calculator.dart';
 import '../tafsir_index/tafsir_binary_index.dart';
 import '../tafsir/tafsir_mokhtasar_all.dart';
 import '../tafsir/tafsir_english_hilali_khan.dart';
@@ -25,6 +26,7 @@ import '../tafsir/tafsir_arabic_nafahat.dart';
 import '../tafsir/tafsir_arabic_katheer.dart';
 import '../tafsir/translation_various_languages.dart';
 import '../hadeeth/hadeeth_panel.dart';
+
 
 class QuranPanel extends StatefulWidget {
   final List<QuranIndexEntry> entries;
@@ -51,6 +53,7 @@ class QuranPanel extends StatefulWidget {
   final Function(String) onSearchChanged;
   final Function(String) onExcludeChanged;
   final String selectedLanguage;
+  final List<int>? juzDurations;
   final Function(String) onLanguageChanged;
   final Function(List<QuranVerseRef> refs, int filteredIndex)? onPlayAllRequested;
   final Function(QuranVerseRef range, int repeatCount)? onRepeatRangeRequested;
@@ -84,6 +87,7 @@ class QuranPanel extends StatefulWidget {
     required this.onLanguageChanged,
     this.onPlayAllRequested,
     this.onRepeatRangeRequested,
+    this.juzDurations,
   });
 
   @override
@@ -132,6 +136,10 @@ class _QuranPanelState extends State<QuranPanel> {
   Set<int> _completedJuz = {};
   Set<int> _completedHizb = {};
   Set<int> _completedRub = {};
+
+  Set<int> _completedJuz2 = {};
+  Set<int> _completedHizb2 = {};
+  Set<int> _completedRub2 = {};
 
   final ItemScrollController _quranVerseSearchScrollController = ItemScrollController();
 
@@ -1116,20 +1124,6 @@ class _QuranPanelState extends State<QuranPanel> {
     super.dispose();
   }
 
-  Future<void> _loadCompletionState() async {
-    final prefs = await SharedPreferences.getInstance();
-    final juz = (prefs.getStringList('completed_juz') ?? []).map(int.parse).toSet();
-    final hizb = (prefs.getStringList('completed_hizb') ?? []).map(int.parse).toSet();
-    final rub = (prefs.getStringList('completed_rub') ?? []).map(int.parse).toSet();
-    if (mounted) {
-      setState(() {
-        _completedJuz = juz;
-        _completedHizb = hizb;
-        _completedRub = rub;
-      });
-    }
-  }
-
   Future<void> _loadTafsirFontSize() async {
     final prefs = await SharedPreferences.getInstance();
     final saved = prefs.getDouble('tafsir_font_size');
@@ -1147,27 +1141,77 @@ class _QuranPanelState extends State<QuranPanel> {
     final parsed = _parseJuzHizbRubTopic(topic);
     if (parsed == null) return const SizedBox.shrink();
     final (category, number) = parsed;
-    final isDone = _completionSetFor(category).contains(number);
-    return GestureDetector(
-      onTap: () => _toggleCompletion(category, number),
-      child: Icon(
-        isDone ? Icons.check_box : Icons.check_box_outline_blank,
-        color: isDone ? Colors.greenAccent : Colors.white38,
-        size: 20,
-      ),
+    final isDone1 = _completionSetFor(category).contains(number);
+    final isDone2 = _completionSetFor(category, track: 1).contains(number);
+    return Row(
+      mainAxisSize: MainAxisSize.min,
+      children: [
+        GestureDetector(
+          onTap: () => _toggleCompletion(category, number),
+          child: Icon(
+            isDone1 ? Icons.check_box : Icons.check_box_outline_blank,
+            color: isDone1 ? Colors.greenAccent : Colors.white38,
+            size: 20,
+          ),
+        ),
+        const SizedBox(width: 4),
+        GestureDetector(
+          onTap: () => _toggleCompletion(category, number, track: 1),
+          child: Icon(
+            isDone2 ? Icons.check_box : Icons.check_box_outline_blank,
+            color: isDone2 ? Colors.lightBlueAccent : Colors.white38,
+            size: 20,
+          ),
+        ),
+      ],
     );
   }
 
-  String? _completionHeaderSuffix(String topic) {
+  List<InlineSpan> _completionHeaderSpans(String topic) {
     final category = _categoryForHeaderTopic(topic);
-    if (category == null) return null;
+    if (category == null) return const [];
     final total = switch (category) {
       'Juz' => 30,
       'Hizb' => 60,
       _ => 240,
     };
-    final count = _completionSetFor(category).length;
-    return '✓ $count/$total';
+    final count1 = _completionSetFor(category).length;
+    final count2 = _completionSetFor(category, track: 1).length;
+
+    final spans = <InlineSpan>[
+      TextSpan(
+        text: ' ✓ $count1/$total',
+        style: const TextStyle(
+          color: Colors.greenAccent,
+          fontSize: 13,
+          fontWeight: FontWeight.w600,
+        ),
+      ),
+      TextSpan(
+        text: '  ✓ $count2/$total',
+        style: const TextStyle(
+          color: Colors.lightBlueAccent,
+          fontSize: 13,
+          fontWeight: FontWeight.w600,
+        ),
+      ),
+    ];
+
+    if (category == 'Juz') {
+      final totalDuration = formatTotalJuzDuration(widget.juzDurations);
+      if (totalDuration.isNotEmpty) {
+        spans.add(TextSpan(
+          text: '  $totalDuration',
+          style: TextStyle(
+            color: Colors.amber[200],
+            fontSize: 13,
+            fontWeight: FontWeight.w600,
+          ),
+        ));
+      }
+    }
+
+    return spans;
   }
 
   String? _categoryForHeaderTopic(String topic) => switch (topic) {
@@ -1180,36 +1224,67 @@ class _QuranPanelState extends State<QuranPanel> {
         _ => null,
       };
 
-  Set<int> _completionSetFor(String category) => switch (category) {
-        'Juz' => _completedJuz,
-        'Hizb' => _completedHizb,
-        _ => _completedRub,
+  Set<int> _completionSetFor(String category, {int track = 0}) {
+    if (track == 1) {
+      return switch (category) {
+        'Juz' => _completedJuz2,
+        'Hizb' => _completedHizb2,
+        _ => _completedRub2,
       };
-
-  Future<void> _saveCompletionState(String category) async {
-    final prefs = await SharedPreferences.getInstance();
-    final key = 'completed_${category.toLowerCase()}';
-    await prefs.setStringList(
-        key, _completionSetFor(category).map((e) => e.toString()).toList());
+    }
+    return switch (category) {
+      'Juz' => _completedJuz,
+      'Hizb' => _completedHizb,
+      _ => _completedRub,
+    };
   }
 
-  void _toggleCompletion(String category, int number) {
+  Future<void> _loadCompletionState() async {
+    final prefs = await SharedPreferences.getInstance();
+    final juz = (prefs.getStringList('completed_juz') ?? []).map(int.parse).toSet();
+    final hizb = (prefs.getStringList('completed_hizb') ?? []).map(int.parse).toSet();
+    final rub = (prefs.getStringList('completed_rub') ?? []).map(int.parse).toSet();
+    final juz2 = (prefs.getStringList('completed_juz2') ?? []).map(int.parse).toSet();
+    final hizb2 = (prefs.getStringList('completed_hizb2') ?? []).map(int.parse).toSet();
+    final rub2 = (prefs.getStringList('completed_rub2') ?? []).map(int.parse).toSet();
+    if (mounted) {
+      setState(() {
+        _completedJuz = juz;
+        _completedHizb = hizb;
+        _completedRub = rub;
+        _completedJuz2 = juz2;
+        _completedHizb2 = hizb2;
+        _completedRub2 = rub2;
+      });
+    }
+  }
+
+  Future<void> _saveCompletionState(String category, {int track = 0}) async {
+    final prefs = await SharedPreferences.getInstance();
+    final key = track == 1
+        ? 'completed_${category.toLowerCase()}2'
+        : 'completed_${category.toLowerCase()}';
+    await prefs.setStringList(
+        key, _completionSetFor(category, track: track).map((e) => e.toString()).toList());
+  }
+
+  void _toggleCompletion(String category, int number, {int track = 0}) {
     setState(() {
-      final set = _completionSetFor(category);
+      final set = _completionSetFor(category, track: track);
       if (set.contains(number)) {
         set.remove(number);
       } else {
         set.add(number);
       }
     });
-    _saveCompletionState(category);
+    _saveCompletionState(category, track: track);
   }
 
-  void _resetCompletion(String category) {
+  void _resetCompletion(String category, {int track = 0}) {
     setState(() {
-      _completionSetFor(category).clear();
+      _completionSetFor(category, track: track).clear();
     });
-    _saveCompletionState(category);
+    _saveCompletionState(category, track: track);
   }
 
   (String, int)? _parseJuzHizbRubTopic(String topic) {
@@ -1245,6 +1320,31 @@ class _QuranPanelState extends State<QuranPanel> {
       }
     });
     _saveTafsirFontSize();
+  }
+
+  (int, int)? _parseDayPlanJuzRange(String topic) {
+    final m = RegExp(r'\(Juz (\d+)(?:-(\d+))?\)').firstMatch(topic);
+    if (m == null) return null;
+    final start = int.parse(m.group(1)!);
+    final end = m.group(2) != null ? int.parse(m.group(2)!) : start;
+    return (start, end);
+  }
+
+  List<InlineSpan> _dayPlanDurationSpans(String topic, bool isSubtopic) {
+    final range = _parseDayPlanJuzRange(topic);
+    if (range == null) return const [];
+    final label = formatJuzRangeDuration(widget.juzDurations, range.$1, range.$2);
+    if (label.isEmpty) return const [];
+    return [
+      TextSpan(
+        text: '  $label',
+        style: TextStyle(
+          color: Colors.amber[200],
+          fontSize: isSubtopic ? 13 : 14,
+          fontWeight: FontWeight.w600,
+        ),
+      ),
+    ];
   }
 
   List<QuranIndexEntry> get _filtered {
@@ -3614,7 +3714,7 @@ class _QuranPanelState extends State<QuranPanel> {
                                                       entry.topic,
                                                       TextStyle(
                                                         color: hasActiveRef ? Colors.purple[200] : Colors.white70,
-                                                        fontSize: 13,
+                                                        fontSize: _tafsirFontSize,
                                                         fontWeight: hasActiveRef ? FontWeight.bold : FontWeight.normal,
                                                       ),
                                                       globalIndex,
@@ -3625,6 +3725,19 @@ class _QuranPanelState extends State<QuranPanel> {
                                             ),
                                             const SizedBox(width: 6),
                                             _buildCompletionCheckbox(entry.topic),
+                                            Builder(builder: (_) {
+                                              final parsed = _parseJuzHizbRubTopic(entry.topic);
+                                              if (parsed == null || parsed.$1 != 'Juz') return const SizedBox.shrink();
+                                              final label = formatJuzDuration(widget.juzDurations, parsed.$2);
+                                              if (label.isEmpty) return const SizedBox.shrink();
+                                              return Padding(
+                                                padding: const EdgeInsets.only(left: 6),
+                                                child: Text(
+                                                  label,
+                                                  style: TextStyle(color: Colors.amber[200], fontSize: 11),
+                                                ),
+                                              );
+                                            }),
                                             const Spacer(),
                                           ] else ...[
                                             Expanded(
@@ -3643,7 +3756,7 @@ class _QuranPanelState extends State<QuranPanel> {
                                                               : entry.isSubtopic
                                                                   ? Colors.white70
                                                                   : Colors.white,
-                                                          fontSize: entry.isSubtopic ? _tafsirFontSize - 1 : _tafsirFontSize,
+                                                          fontSize: entry.isSubtopic ? 13 : 14,
                                                           fontWeight: hasActiveRef
                                                               ? FontWeight.bold
                                                               : entry.isSubtopic
@@ -3653,14 +3766,9 @@ class _QuranPanelState extends State<QuranPanel> {
                                                         globalIndex,
                                                       ),
                                                       if (_categoryForHeaderTopic(entry.topic) != null)
-                                                        TextSpan(
-                                                          text: ' ${_completionHeaderSuffix(entry.topic)}',
-                                                          style: const TextStyle(
-                                                            color: Colors.white70,
-                                                            fontSize: 13,
-                                                            fontWeight: FontWeight.w600,
-                                                          ),
-                                                        ),
+                                                        ..._completionHeaderSpans(entry.topic)
+                                                      else if (_parseDayPlanJuzRange(entry.topic) != null)
+                                                        ..._dayPlanDurationSpans(entry.topic, entry.isSubtopic),
                                                     ],
                                                   ),
                                                 ),
@@ -3670,10 +3778,21 @@ class _QuranPanelState extends State<QuranPanel> {
                                             if (_categoryForHeaderTopic(entry.topic) != null)
                                               Padding(
                                                 padding: const EdgeInsets.only(right: 8),
-                                                child: GestureDetector(
-                                                  onTap: () => _resetCompletion(_categoryForHeaderTopic(entry.topic)!),
-                                                  child: const Text('Reset',
-                                                      style: TextStyle(color: Colors.redAccent, fontSize: 12)),
+                                                child: Row(
+                                                  mainAxisSize: MainAxisSize.min,
+                                                  children: [
+                                                    GestureDetector(
+                                                      onTap: () => _resetCompletion(_categoryForHeaderTopic(entry.topic)!),
+                                                      child: const Text('Reset',
+                                                          style: TextStyle(color: Colors.greenAccent, fontSize: 12)),
+                                                    ),
+                                                    const SizedBox(width: 8),
+                                                    GestureDetector(
+                                                      onTap: () => _resetCompletion(_categoryForHeaderTopic(entry.topic)!, track: 1),
+                                                      child: const Text('Reset',
+                                                          style: TextStyle(color: Colors.lightBlueAccent, fontSize: 12)),
+                                                    ),
+                                                  ],
                                                 ),
                                               ),
                                           ],
