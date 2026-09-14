@@ -37,9 +37,9 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 
 ![](images/fonts.jpg)
 
-- download 40 demo fonts or search for them to download on font websites
+- download 30 demo fonts or search for them to download on font websites
 - custom fonts can all be in one directory within various subdirectories, it recursively loads the fonts
-- ![customfonts.zip 2MB](https://github.com/mrfragger/substitcher/raw/main/images/customfonts.zip)
+- ![customfonts.zip 1.7 MB](https://github.com/mrfragger/substitcher/raw/main/images/customfonts.zip)
 - in font panel set custom folder to this one and all fonts will be loaded
 
 ```bash
@@ -54,18 +54,12 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 │   ├── Mount Hills.otf
 │   └── Sorean.otf
 ├── ligatures177
-│   ├── Brilliant Heavens demo.otf
-│   ├── Categories Elegant demo.otf
-│   ├── Changing Campaign demo.otf
 │   ├── Creating Families demo.otf
-│   ├── Creating Graphics demo.otf
-│   ├── Gares demo.otf
 │   ├── Reminder According demo.otf
 │   ├── Roommate Surrealism demo.otf
 │   ├── Salvador Abstract demo.otf
 │   └── Traditional Civilization demo.otf
 ├── ligaturesVarious
-│   ├── Diglet Sunsin.otf
 │   ├── Rocket Raccoon free.otf
 │   └── Souther Daleska demo version.otf
 ├── ligaturesVarious123
@@ -79,10 +73,6 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 │   ├── Coastline Classical demo.otf
 │   ├── Creates Presence demo.otf
 │   ├── Engaging Realities demo.otf
-│   ├── Fondness Romance demo.otf
-│   ├── Healthcare Resilience demo.otf
-│   ├── Radical Blending demo.otf
-│   ├── Realities Endlessly demo.otf
 │   └── Titanium Galleries demo.otf
 ├── mustBeUppercase
 │   ├── Children Interests demo.otf

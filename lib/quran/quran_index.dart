@@ -892,6 +892,7 @@ Accountability
 - Riba 2:275-279; 3:130; 4:161; 30:39
 - Speculation, Gambling, and Intoxicants 5:90-91
 - Deception and Mocking Allah’s Signs 2:9
+- Exposing hypocrites 3:166-167, 179; 29:11; 47:29-30
 - Hoarding Gold and Silver 3:180; 9:34-35; 70:15-18; 104:1-3
 - Zakat and Purification of Wealth 2:110, 177; 9:34-35, 60; 9:103; 24:56; 30:39; 41:6-7
 'Ad people, 7:65-74; 9:70; 11:59; 14:9; 22:42; 25:38; 26:123; 29:38; 38:12; 40:31; 41:13, 15; 46:21; 50:13; 51:41; 53:50; 54:18; 69:4-6; 89:6

@@ -172,6 +172,7 @@ class _QuranPanelState extends State<QuranPanel> {
   static int? _lastTafsirSearchSurah;
   static int? _lastTafsirSearchAyah;
   static String? _lastTafsirSearchSource;
+  static String? _lastTafsirTapListType; // 'browse' or 'search'
   static const Set<String> _quizSupportedLanguages = {'English', 'Spanish'};
   static const Set<String> _heSingleWordSuppressors = {
     'said', 'asked', 'then', 'takes', 'kept', 'will', 'trusts', 'was', 'changes', 'wakes',
@@ -1068,6 +1069,7 @@ class _QuranPanelState extends State<QuranPanel> {
   final ScrollController _tafsirScrollController = ScrollController();
   final ScrollController _tafsirSearchScrollController = ScrollController();
   final ItemScrollController _tafsirSearchItemScrollController = ItemScrollController();
+  final ItemScrollController _tafsirBrowseItemScrollController = ItemScrollController();
 
   FocusNode get _searchFocusNode => widget.searchFocusNode;
   FocusNode get _excludeFocusNode => widget.quranExcludeFocusNode;
@@ -1109,6 +1111,7 @@ class _QuranPanelState extends State<QuranPanel> {
     });
     _scrollToActiveVerseSearchResult();
     _scrollToLastTafsirSearchTap();
+    _scrollToActiveTafsirBrowseResult();
   }
 
   @override
@@ -1532,6 +1535,7 @@ class _QuranPanelState extends State<QuranPanel> {
   }
 
   void _scrollToLastTafsirSearchTap() {
+    if (_lastTafsirTapListType != 'search') return;
     if (_lastTafsirSearchSurah == null || _tafsirSearchResults.isEmpty) return;
     final index = _tafsirSearchResults.indexWhere((r) =>
         r['surah'] == _lastTafsirSearchSurah &&
@@ -1554,6 +1558,37 @@ class _QuranPanelState extends State<QuranPanel> {
       } else {
         Future.delayed(const Duration(milliseconds: 100), () {
           _attemptScrollToTafsirSearchIndex(index, attemptsLeft: attemptsLeft - 1);
+        });
+      }
+    }
+
+    void _scrollToActiveTafsirBrowseResult() {
+      if (_lastTafsirTapListType != 'browse' ||
+          _lastTafsirSearchSurah == null ||
+          _tafsirResults.isEmpty) {
+        return;
+      }
+      final index = _tafsirResults.indexWhere((r) =>
+          r['surah'] == _lastTafsirSearchSurah &&
+          r['ayah'] == _lastTafsirSearchAyah &&
+          r['source'] == _lastTafsirSearchSource);
+      if (index == -1) return;
+      WidgetsBinding.instance.addPostFrameCallback((_) {
+        _attemptScrollToTafsirBrowseIndex(index, attemptsLeft: 10);
+      });
+    }
+
+    void _attemptScrollToTafsirBrowseIndex(int index, {required int attemptsLeft}) {
+      if (!mounted || attemptsLeft <= 0) return;
+      if (_tafsirBrowseItemScrollController.isAttached) {
+        _tafsirBrowseItemScrollController.scrollTo(
+          index: index,
+          duration: const Duration(milliseconds: 300),
+          alignment: 0.3,
+        );
+      } else {
+        Future.delayed(const Duration(milliseconds: 100), () {
+          _attemptScrollToTafsirBrowseIndex(index, attemptsLeft: attemptsLeft - 1);
         });
       }
     }
@@ -2616,7 +2651,12 @@ class _QuranPanelState extends State<QuranPanel> {
   void _jumpToSearchResult(Map<String, dynamic> r) {
     final surah = r['surah'] as int;
     final ayah = r['ayah'] as int;
+    final source = r['source'] as String;
     final refString = '$surah:${ayah == 0 ? 1 : ayah}';
+    _lastTafsirSearchSurah = surah;
+    _lastTafsirSearchAyah = ayah;
+    _lastTafsirSearchSource = source;
+    _lastTafsirTapListType = 'search';
     setState(() => _tafsirSearchMode = false);
     _tafsirRefController.text = refString;
     _tafsirRefFocusNode.requestFocus();
@@ -3999,6 +4039,7 @@ class _QuranPanelState extends State<QuranPanel> {
               _modeChip('Search', _tafsirSearchMode, () {
                 setState(() => _tafsirSearchMode = true);
                 _tafsirSearchFocusNode.requestFocus();
+                _scrollToLastTafsirSearchTap();
               }),
               const SizedBox(width: 6),
               GestureDetector(
@@ -4276,6 +4317,7 @@ class _QuranPanelState extends State<QuranPanel> {
                           highlightWholeWord: RegExp(r'[\u0600-\u06FF\u0750-\u077F]')
                               .hasMatch(phrase ?? rawQuery),
                           fontSize: _tafsirFontSize + 4,
+                          isSearchResult: true,
                         ),
                       );
                     },
@@ -4284,12 +4326,13 @@ class _QuranPanelState extends State<QuranPanel> {
             ] else if (_tafsirResults.isNotEmpty) ...[
               const SizedBox(height: 8),
               Expanded(
-                child: ListView.separated(
-                  controller: _tafsirScrollController,
+                child: ScrollablePositionedList.separated(
+                  itemScrollController: _tafsirBrowseItemScrollController,
                   itemCount: _tafsirResults.length,
                   separatorBuilder: (_, __) =>
                       const Divider(color: Colors.white12, height: 12),
-                  itemBuilder: (_, i) => _buildTafsirCard(_tafsirResults[i]),
+                  itemBuilder: (_, i) =>
+                      _buildTafsirCard(_tafsirResults[i], isSearchResult: false),
                 ),
               ),
             ],
@@ -4422,6 +4465,7 @@ class _QuranPanelState extends State<QuranPanel> {
     bool highlightIsPhrase = false,
     bool highlightWholeWord = false,
     double? fontSize,
+    bool isSearchResult = false,
   }) {
       final source = r['source'] as String;
       final surah = r['surah'] as int;
@@ -4458,13 +4502,23 @@ class _QuranPanelState extends State<QuranPanel> {
       };
       final ayahLabel = ayah == 0 ? '$surah:intro' : '$surah:$ayah';
       final score = r['score'] as double?;
+      final isActiveCard = _lastTafsirTapListType ==
+              (isSearchResult ? 'search' : 'browse') &&
+          _lastTafsirSearchSurah == surah &&
+          _lastTafsirSearchAyah == ayah &&
+          _lastTafsirSearchSource == source;
       return Directionality(
         textDirection: isRtl ? TextDirection.rtl : TextDirection.ltr,
         child: Container(
           padding: const EdgeInsets.all(10),
           decoration: BoxDecoration(
-            color: Colors.white.withAlpha(6),
+            color: isActiveCard
+                ? Colors.deepPurple.withAlpha(40)
+                : Colors.white.withAlpha(6),
             borderRadius: BorderRadius.circular(6),
+            border: isActiveCard
+                ? Border.all(color: Colors.deepPurple.withAlpha(160))
+                : null,
           ),
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
@@ -4508,6 +4562,7 @@ class _QuranPanelState extends State<QuranPanel> {
                         _lastTafsirSearchSurah = surah;
                         _lastTafsirSearchAyah = ayah;
                         _lastTafsirSearchSource = source;
+                        _lastTafsirTapListType = isSearchResult ? 'search' : 'browse';
                         _onTafsirVerseTapped('$surah:$ayah');
                       },
                       child: Row(

@@ -53,12 +53,7 @@ class FontDatabase {
        'Zigzageo': FontMetadata(fontName: 'Zigzageo', mainCategory: FontCategory.demo, subCategories: [FontCategory.seesawcase], studio: null),
 
      // ==================== demo/ligatures/177studio ====================
-     'Brilliant Heavens demo': FontMetadata(fontName: 'Brilliant Heavens demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.studio177),
-     'Categories Elegant demo': FontMetadata(fontName: 'Categories Elegant demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.studio177),
-     'Changing Campaign demo': FontMetadata(fontName: 'Changing Campaign demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.studio177),
      'Creating Families demo': FontMetadata(fontName: 'Creating Families demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.studio177),
-     'Creating Graphics demo': FontMetadata(fontName: 'Creating Graphics demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.studio177),
-     'Gares demo': FontMetadata(fontName: 'Gares demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.studio177),
      'Reminder According demo': FontMetadata(fontName: 'Reminder According demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.studio177),
      'Roommate Surrealism demo': FontMetadata(fontName: 'Roommate Surrealism demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.studio177),
      'Salvador Abstract demo': FontMetadata(fontName: 'Salvador Abstract demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.studio177),
@@ -72,7 +67,6 @@ class FontDatabase {
      'Zentaro': FontMetadata(fontName: 'Zentaro', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various123),
 
      // ==================== demo/ligatures/Various ====================
-     'Diglet Sunsin': FontMetadata(fontName: 'Diglet Sunsin', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
      'Rocket Raccoon free': FontMetadata(fontName: 'Rocket Raccoon free', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
      'Souther Daleska demo version': FontMetadata(fontName: 'Souther Daleska demo version', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
 
@@ -81,10 +75,6 @@ class FontDatabase {
      'Creates Presence demo': FontMetadata(fontName: 'Creates Presence demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.missingLigatures], studio: FontCategory.studio177, ligaturePairs: ["ac", "ar", "av", "ch", "di", "ee", "ep", "fe", "ha", "ic", "io", "ju", "li", "ma", "nd", "ns", "om", "or", "pa", "rt", "so", "te", "tr", "ur"]),
      'Coastline Classical demo': FontMetadata(fontName: 'Coastline Classical demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.missingLigatures], studio: FontCategory.studio177, ligaturePairs: ["ac", "ar", "di", "ee", "ha", "me", "ot", "se", "ve"]),
      'Engaging Realities demo': FontMetadata(fontName: 'Engaging Realities demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.missingLigatures], studio: FontCategory.studio177, ligaturePairs: ["ar", "be", "de", "ee", "er", "ge", "ic", "ir", "le", "ma", "mi", "ne", "nt", "of", "or", "pr", "rs", "ss", "ur"]),
-     'Fondness Romance demo': FontMetadata(fontName: 'Fondness Romance demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.missingLigatures], studio: FontCategory.studio177, ligaturePairs: ["at", "de", "ha", "in", "li", "nc", "ow", "rt", "ta", "ve"]),
-     'Healthcare Resilience demo': FontMetadata(fontName: 'Healthcare Resilience demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.missingLigatures], studio: FontCategory.studio177, ligaturePairs: ["an", "au", "ce", "ch", "de", "ec", "en", "et", "ge", "ho", "in", "it", "le", "ly", "no", "oo", "ow", "rd", "rs", "so", "to", "ta", "un", "wi"]),
-     'Radical Blending demo': FontMetadata(fontName: 'Radical Blending demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.missingLigatures], studio: FontCategory.studio177, ligaturePairs: ["an", "au", "ce", "de", "ed", "et", "en", "it", "of", "op", "ho", "ge", "ly", "nc", "no", "rd", "rs", "si", "ta", "to", "ow", "un", "wo",]),
-     'Realities Endlessly demo': FontMetadata(fontName: 'Realities Endlessly demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.missingLigatures], studio: FontCategory.studio177, ligaturePairs: ["an", "au", "ce", "de", "ed", "en", "et", "ge", "ho", "in", "it", "nc", "no", "of", "op", "ow", "rd", "rs", "si", "te", "tr", "ur"]),
      'Titanium Galleries demo': FontMetadata(fontName: 'Titanium Galleries demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.missingLigatures], studio: FontCategory.studio177, ligaturePairs: ["be", "ct", "ed", "er", "fr", "ho", "ir", "ly", "ne", "oc", "ot", "rd", "rt", "st", "tt", "ur"]),
 
      // ==================== demo/alternates ====================
