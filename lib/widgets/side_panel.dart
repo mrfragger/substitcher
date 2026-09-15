@@ -526,8 +526,8 @@ class SidePanel extends StatelessWidget {
                       context, 'Stats', PanelMode.stats, statsCount),
                   _buildTabButton(
                       context, 'Quran', PanelMode.quran, quranEntries.length),
-                  _buildTabButton(context, '⌘Quiz', PanelMode.quiz, 142),
-                  _buildTabButton(context, '⌘Related', PanelMode.related, 142),
+                  _buildTabButton(context, '⌘Quiz', PanelMode.quiz, 145),
+                  _buildTabButton(context, '⌘Related', PanelMode.related, 145),
                   _buildTabButton(
                       context, 'LUTs', PanelMode.luts, availableLuts.length),
                 ],

@@ -1,0 +1,243 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَوْقَاتُ الْيَوْمِ فِي الْقُرْآنِ",
+        "nameEn": "Times of Day in the Quran",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "بُكْرَةً",
+            "en": "morning",
+            "ref": "33:42",
+            "verse": "وَسَبِّحُوهُ بُكْرَةًۭ وَأَصِيلًا",
+            "verseEn": "And exalt Him morning and afternoon."
+          },
+          {
+            "ar": "أَصِيلًا",
+            "en": "and evening",
+            "ref": "76:25",
+            "verse": "وَٱذْكُرِ ٱسْمَ رَبِّكَ بُكْرَةًۭ وَأَصِيلًۭا",
+            "verseEn": "And mention the name of your Lord [in prayer] morning and evening"
+          },
+          {
+            "ar": "عَشِيًّا",
+            "en": "and evening",
+            "ref": "40:46",
+            "verse": "ٱلنَّارُ يُعْرَضُونَ عَلَيْهَا غُدُوًّۭا وَعَشِيًّۭا ۖ وَيَوْمَ تَقُومُ ٱلسَّاعَةُ أَدْخِلُوٓا۟ ءَالَ فِرْعَوْنَ أَشَدَّ ٱلْعَذَابِ",
+            "verseEn": "The Fire; they are exposed to it morning and evening. And the Day the Hour appears [it will be said], \"Make the people of Pharaoh enter the severest punishment.\""
+          },
+          {
+            "ar": "ضُحًى",
+            "en": "(in) daylight",
+            "ref": "7:98",
+            "verse": "أَوَأَمِنَ أَهْلُ ٱلْقُرَىٰٓ أَن يَأْتِيَهُم بَأْسُنَا ضُحًۭى وَهُمْ يَلْعَبُونَ",
+            "verseEn": "Or did the people of the cities feel secure from Our punishment coming to them in the morning while they were at play?"
+          }
+        ]
+      },
+      {
+        "name": "مَشَاعِرُ إِيجَابِيَّةٌ فِي الْقُرْآنِ",
+        "nameEn": "Positive Emotions in the Quran",
+        "color": "green",
+        "items": [
+          {
+            "ar": "حُبَّ",
+            "en": "Love",
+            "ref": "38:32",
+            "verse": "فَقَالَ إِنِّىٓ أَحْبَبْتُ حُبَّ ٱلْخَيْرِ عَن ذِكْرِ رَبِّى حَتَّىٰ تَوَارَتْ بِٱلْحِجَابِ",
+            "verseEn": "And he said, \"Indeed, I gave preference to the love of good [things] over the remembrance of my Lord until it [i.e., the sun] disappeared into the curtain [of darkness].\""
+          },
+          {
+            "ar": "يَرْجُو",
+            "en": "hopes",
+            "ref": "29:5",
+            "verse": "مَن كَانَ يَرْجُوا۟ لِقَآءَ ٱللَّهِ فَإِنَّ أَجَلَ ٱللَّهِ لَـَٔاتٍۢ ۚ وَهُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+            "verseEn": "Whoever should hope for the meeting with Allāh - indeed, the term [decreed by] Allāh is coming. And He is the Hearing, the Knowing."
+          },
+          {
+            "ar": "يَسْتَبْشِرُونَ",
+            "en": "They receive good tidings",
+            "ref": "3:171",
+            "verse": "۞ يَسْتَبْشِرُونَ بِنِعْمَةٍۢ مِّنَ ٱللَّهِ وَفَضْلٍۢ وَأَنَّ ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُؤْمِنِينَ",
+            "verseEn": "They receive good tidings of favor from Allāh and bounty and [of the fact] that Allāh does not allow the reward of believers to be lost -"
+          },
+          {
+            "ar": "تَطْمَئِنَّ",
+            "en": "and to reassure",
+            "ref": "3:126",
+            "verse": "وَمَا جَعَلَهُ ٱللَّهُ إِلَّا بُشْرَىٰ لَكُمْ وَلِتَطْمَئِنَّ قُلُوبُكُم بِهِۦ ۗ وَمَا ٱلنَّصْرُ إِلَّا مِنْ عِندِ ٱللَّهِ ٱلْعَزِيزِ ٱلْحَكِيمِ",
+            "verseEn": "And Allāh made it not except as [a sign of] good tidings for you and to reassure your hearts thereby. And victory is not except from Allāh, the Exalted in Might, the Wise -"
+          }
+        ]
+      },
+      {
+        "name": "أَلْفَاظُ الْمَوْتِ وَالْبَعْثِ فِي الْقُرْآنِ",
+        "nameEn": "Terms for Death and Resurrection in the Quran",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "الْمَوْتَ",
+            "en": "the death",
+            "ref": "56:60",
+            "verse": "نَحْنُ قَدَّرْنَا بَيْنَكُمُ ٱلْمَوْتَ وَمَا نَحْنُ بِمَسْبُوقِينَ",
+            "verseEn": "We have decreed death among you, and We are not to be outdone"
+          },
+          {
+            "ar": "الْقُبُورِ",
+            "en": "the graves",
+            "ref": "22:7",
+            "verse": "وَأَنَّ ٱلسَّاعَةَ ءَاتِيَةٌۭ لَّا رَيْبَ فِيهَا وَأَنَّ ٱللَّهَ يَبْعَثُ مَن فِى ٱلْقُبُورِ",
+            "verseEn": "And [that they may know] that the Hour is coming - no doubt about it - and that Allāh will resurrect those in the graves."
+          },
+          {
+            "ar": "الْبَعْثِ",
+            "en": "(of) Resurrection",
+            "ref": "30:56",
+            "verse": "وَقَالَ ٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ وَٱلْإِيمَـٰنَ لَقَدْ لَبِثْتُمْ فِى كِتَـٰبِ ٱللَّهِ إِلَىٰ يَوْمِ ٱلْبَعْثِ ۖ فَهَـٰذَا يَوْمُ ٱلْبَعْثِ وَلَـٰكِنَّكُمْ كُنتُمْ لَا تَعْلَمُونَ",
+            "verseEn": "But those who were given knowledge and faith will say, \"You remained the extent of Allāh's decree until the Day of Resurrection, and this is the Day of Resurrection, but you did not used to know.\""
+          },
+          {
+            "ar": "نُشُورًا",
+            "en": "resurrection",
+            "ref": "25:3",
+            "verse": "وَٱتَّخَذُوا۟ مِن دُونِهِۦٓ ءَالِهَةًۭ لَّا يَخْلُقُونَ شَيْـًۭٔا وَهُمْ يُخْلَقُونَ وَلَا يَمْلِكُونَ لِأَنفُسِهِمْ ضَرًّۭا وَلَا نَفْعًۭا وَلَا يَمْلِكُونَ مَوْتًۭا وَلَا حَيَوٰةًۭ وَلَا نُشُورًۭا",
+            "verseEn": "But they have taken besides Him gods which create nothing, while they are created, and possess not for themselves any harm or benefit and possess not [power to cause] death or life or resurrection."
+          }
+        ]
+      },
+      {
+        "name": "عَذَابُ الْمُعْرِضِينَ فِي سُورَةِ طه",
+        "nameEn": "Punishments of the heedless in Surah Taha",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "ضَنكًا",
+            "en": "straitened",
+            "ref": "20:124",
+            "verse": "وَمَنْ أَعْرَضَ عَن ذِكْرِى فَإِنَّ لَهُۥ مَعِيشَةًۭ ضَنكًۭا وَنَحْشُرُهُۥ يَوْمَ ٱلْقِيَـٰمَةِ أَعْمَىٰ",
+            "verseEn": "And whoever turns away from My remembrance - indeed, he will have a depressed [i.e., difficult] life, and We will gather [i.e., raise] him on the Day of Resurrection blind.\""
+          },
+          {
+            "ar": "أَعْمَىٰ",
+            "en": "blind",
+            "ref": "20:125",
+            "verse": "قَالَ رَبِّ لِمَ حَشَرْتَنِىٓ أَعْمَىٰ وَقَدْ كُنتُ بَصِيرًۭا",
+            "verseEn": "He will say, \"My Lord, why have you raised me blind while I was [once] seeing?\""
+          },
+          {
+            "ar": "تُنسَىٰ",
+            "en": "you will be forgotten",
+            "ref": "20:126",
+            "verse": "قَالَ كَذَٰلِكَ أَتَتْكَ ءَايَـٰتُنَا فَنَسِيتَهَا ۖ وَكَذَٰلِكَ ٱلْيَوْمَ تُنسَىٰ",
+            "verseEn": "[Allāh] will say, \"Thus did Our signs come to you, and you forgot [i.e., disregarded] them; and thus will you this Day be forgotten.\""
+          },
+          {
+            "ar": "أَشَدُّ",
+            "en": "(is) more severe",
+            "ref": "20:127",
+            "verse": "وَكَذَٰلِكَ نَجْزِى مَنْ أَسْرَفَ وَلَمْ يُؤْمِنۢ بِـَٔايَـٰتِ رَبِّهِۦ ۚ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَشَدُّ وَأَبْقَىٰٓ",
+            "verseEn": "And thus do We recompense he who transgressed and did not believe in the signs of his Lord. And the punishment of the Hereafter is more severe and more enduring."
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "بأس",
+    "display": "بَأْس",
+    "hint": "The fierce intensity of Allah's might in battle, of which He is described as أشد (most extreme) against the disbelievers",
+    "verseRef": "4:84",
+    "arabicVerse": "فَقَـٰتِلْ فِى سَبِيلِ ٱللَّهِ لَا تُكَلَّفُ إِلَّا نَفْسَكَ ۚ وَحَرِّضِ ٱلْمُؤْمِنِينَ ۖ عَسَى ٱللَّهُ أَن يَكُفَّ بَأْسَ ٱلَّذِينَ كَفَرُوا۟ ۚ وَٱللَّهُ أَشَدُّ بَأْسًۭا وَأَشَدُّ تَنكِيلًۭا",
+    "verse": "4:84 - So fight, [O Muḥammad], in the cause of Allāh; you are not held responsible except for yourself. And encourage the believers [to join you] that perhaps Allāh will restrain the [military] might of those who disbelieve. And Allāh is greater in might and stronger in [exemplary] punishment."
+  },
+  "deduction": {
+    "title": "The hospitality that brought fear",
+    "intro": "In a city consumed by wickedness, a faithful servant received unexpected visitors one day. Concerned for their safety, this individual offered protection, but the city's people demanded something shameful. Warned of an impending doom, the servant fled with family under cover of darkness, leaving behind a city marked for destruction. Who is this lone believer?",
+    "clues": [
+      "I was sent as a messenger to a people who had engaged in shameful acts.",
+      "Unexpected visitors came to my home, and I was more worried for their safety than my own.",
+      "My people demanded to see my guests for wicked intentions, and I tried to reason with them.",
+      "My visitors revealed themselves as angels and commanded me to take my family and leave in the night.",
+      "My wife did not heed the call to escape and faced the same destruction as my people.",
+      "My city was overturned with a rain of stones of layered clay, its highest parts brought lowest."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Prophet Lut",
+          "Prophet Musa",
+          "Prophet Ibrahim",
+          "Prophet Nuh",
+          "Prophet Hud"
+        ],
+        "answer": "Prophet Lut"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "The demand of my people to approach my guests wickedly",
+          "The parting of the sea to escape a tyrant",
+          "The building of a great ark amid mockery",
+          "The sacrifice of my son in a test of faith",
+          "The experience of being swallowed by a great fish"
+        ],
+        "answer": "The demand of my people to approach my guests wickedly"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "The overturned city of my people",
+          "The mountain where I received divine speech",
+          "The ark that sailed through a great flood",
+          "The she-camel that emerged from the rock",
+          "The garden with a hidden righteous visitor"
+        ],
+        "answer": "The overturned city of my people"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "I was saved with my family before my city was overturned",
+          "I led my people to freedom across the sea",
+          "I built a great ark and survived a mighty flood",
+          "I was given dominion over the winds and jinn",
+          "I patiently endured suffering and was rewarded with family"
+        ],
+        "answer": "I was saved with my family before my city was overturned"
+      }
+    },
+    "verseRef": "11:80",
+    "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+    "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+  },
+  "scramble": {
+    "verseRef": "30:60",
+    "reference": "Ar-Rum (30:60)",
+    "segments": [
+      "فَاصْبِرْ",
+      "إِنَّ وَعْدَ اللَّهِ",
+      "حَقٌّ",
+      "وَلَا يَسْتَخِفَّنَّكَ",
+      "الَّذِينَ لَا يُوقِنُونَ"
+    ],
+    "translations": [
+      "So be patient Indeed",
+      "(the) Promise (of) Allah",
+      "(is) true And (let) not",
+      "take you in light estimation those who",
+      "(are) not certain in faith"
+    ],
+    "hint": "A call to patience and steadfastness, affirming that Allah's promise is certainly true and urging the believer not to be shaken by disbelievers.",
+    "arabic": "فَٱصْبِرْ إِنَّ وَعْدَ ٱللَّهِ حَقٌّۭ ۖ وَلَا يَسْتَخِفَّنَّكَ ٱلَّذِينَ لَا يُوقِنُونَ",
+    "words": [
+      "فَٱصْبِرْ إِنَّ",
+      "وَعْدَ ٱللَّهِ",
+      "حَقٌّۭ ۖ وَلَا",
+      "يَسْتَخِفَّنَّكَ ٱلَّذِينَ",
+      "لَا يُوقِنُونَ"
+    ],
+    "verseEn": "So be patient. Indeed, the promise of Allāh is truth. And let them not disquiet you who are not certain [in faith]."
+  }
+}
