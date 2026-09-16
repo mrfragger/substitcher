@@ -37,50 +37,51 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 
 ![](images/fonts.jpg)
 
-- download 30 demo fonts or search for them to download on font websites
+- download 29 demo fonts or search for them to download on font websites
 - custom fonts can all be in one directory within various subdirectories, it recursively loads the fonts
-- ![customfonts.zip 1.7 MB](https://github.com/mrfragger/substitcher/raw/main/images/customfonts.zip)
+- ![customfonts.zip 1.3 MB](https://github.com/mrfragger/substitcher/raw/main/images/customfonts.zip)
 - in font panel set custom folder to this one and all fonts will be loaded
+- 177Studio with 12 fonts
+- Grezline Studio with 6 fonts
+- Letterara Studio with 3 fonts
 
 ```bash
 │  customfonts
 ├── alternates
-│   ├── Aloevera.ttf
-│   ├── Bentley Vintage.otf
-│   ├── Bisque Veloute demo.otf
-│   ├── Bremlin.otf
-│   ├── Dantene.otf
-│   ├── Kambegi.ttf
-│   ├── Mount Hills.otf
-│   └── Sorean.otf
-├── ligatures177
-│   ├── Creating Families demo.otf
-│   ├── Reminder According demo.otf
-│   ├── Roommate Surrealism demo.otf
-│   ├── Salvador Abstract demo.otf
-│   └── Traditional Civilization demo.otf
-├── ligaturesVarious
-│   ├── Rocket Raccoon free.otf
-│   └── Souther Daleska demo version.otf
+│   ├── Aloevera.ttf (Salamahtype)
+│   ├── Bentley Vintage.otf (Grezline Studio)
+│   ├── Bisque Veloute demo.otf (Krismagraph)
+│   ├── Bremlin.otf (Grezline Studio)
+│   ├── Dantene.otf (Grezline Studio)
+│   ├── Kambegi.ttf (Sealoung)
+│   ├── Mount Hills.otf (Ergibi Studio)
+│   └── Sorean.otf (Grezline Studio)
+├── ligatures177 
+│   ├── Creating Families demo.otf (177Studio)
+│   ├── Reminder According demo.otf (177Studio)
+│   ├── Roommate Surrealism demo.otf (177Studio)
+│   ├── Salvador Abstract demo.otf (177Studio)
+│   └── Traditional Civilization demo.otf (177Studio)
 ├── ligaturesVarious123
-│   ├── Axaria.ttf
-│   ├── Carevo.ttf
-│   ├── Chocolate Chips.otf
-│   ├── Sophia Melanie.otf
-│   └── Zentaro.ttf
+│   ├── Axaria.ttf (Letterara Studio)
+│   ├── Carevo.ttf (Letterara Studio)
+│   ├── Chocolate Chips.otf (inermedia Studio)
+│   ├── Sophia Melanie.otf (Grezline Studio)
+│   └── Zentaro.ttf (Letterara Studio)
 ├── missingligatures177
-│   ├── Abstract Settings demo.otf
-│   ├── Coastline Classical demo.otf
-│   ├── Creates Presence demo.otf
-│   ├── Engaging Realities demo.otf
-│   └── Titanium Galleries demo.otf
+│   ├── Abstract Settings demo.otf (177Studio)
+│   ├── Coastline Classical demo.otf (177Studio)
+│   ├── Creates Presence demo.otf (177Studio)
+│   ├── Engaging Realities demo.otf (177Studio)
+│   └── Titanium Galleries demo.otf (177Studio)
 ├── mustBeUppercase
-│   ├── Children Interests demo.otf
-│   └── Intricate Narrative demo.otf
+│   ├── Caroline Everett.otf (Grezline Studio)
+│   ├── Children Interests demo.otf (177Studio)
+│   └── Intricate Narrative demo.otf (177Studio)
 └── seesawcase
-    ├── Harquil.ttf
-    ├── Sidethree.otf
-    └── Zigzageo.ttf
+    ├── Harquil.ttf (Mentor Type)
+    ├── Sidethree.otf (ahweproject)
+    └── Zigzageo.ttf (deFharo)
 ```
 
 ### Glyph Viewer

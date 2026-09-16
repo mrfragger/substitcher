@@ -9,6 +9,10 @@ import '../quran/quran_index.dart';
 import '../quran/surah_names.dart';
 import '../quran/quran_verse_search_index.dart';
 import '../quran/juz_duration_calculator.dart';
+import '../quran/quran_wbw_repository.dart';
+import '../quran/quran_word_by_word.dart';
+import '../quran/quran_word_audio_index.dart';
+import '../quran/quran_word_audio_player.dart';
 import '../tafsir_index/tafsir_binary_index.dart';
 import '../tafsir/tafsir_mokhtasar_all.dart';
 import '../tafsir/tafsir_english_hilali_khan.dart';
@@ -26,7 +30,6 @@ import '../tafsir/tafsir_arabic_nafahat.dart';
 import '../tafsir/tafsir_arabic_katheer.dart';
 import '../tafsir/translation_various_languages.dart';
 import '../hadeeth/hadeeth_panel.dart';
-
 
 class QuranPanel extends StatefulWidget {
   final List<QuranIndexEntry> entries;
@@ -115,9 +118,54 @@ final RegExp _arabicDiacritics = RegExp(
   r'\u06DF-\u06E8\u06EA-\u06ED\u08D3-\u08E1\u08E3-\u08FF]',
 );
 
+// Matches Arabic diacritics (tashkeel/harakat) plus tatweel (kashida), so
+// Quranic text — which is conventionally fully vocalized and sometimes
+// justified with tatweel — can still be matched against plain,
+// undiacritized dictionary entries like 'الله' or 'ربكم'.
+final RegExp _arabicDiacriticsPattern = RegExp(
+  r'[\u0610-\u061A\u064B-\u065F\u0670\u06D6-\u06DC\u06DF-\u06E8\u06EA-\u06ED\u08D3-\u08E1\u08E3-\u08FF\u0640]',
+);
+
+/// Folds Arabic letter-shape variants that should be treated as equivalent
+/// for matching purposes (alef forms, taa marbuta/haa, alef maksura/yaa).
+/// Always maps exactly one character to one character, so callers that
+/// rely on a 1:1 index mapping (like [_normalizeArabic]) stay valid.
+String _foldArabicChar(String ch) {
+  switch (ch) {
+    case 'أ':
+    case 'إ':
+    case 'آ':
+    case 'ٱ':
+      return 'ا';
+    case 'ة':
+      return 'ه';
+    case 'ى':
+      return 'ي';
+    default:
+      return ch;
+  }
+}
+
+/// Strips Arabic diacritics/tatweel from [text] and folds letter-shape
+/// variants, returning the normalized string plus a map from each index
+/// in the normalized string back to its original index in [text] (needed
+/// so highlighted spans still cover the original text, not the stripped
+/// copy).
+(String, List<int>) _normalizeArabic(String text) {
+  final buffer = StringBuffer();
+  final indexMap = <int>[];
+  for (int i = 0; i < text.length; i++) {
+    if (!_arabicDiacriticsPattern.hasMatch(text[i])) {
+      buffer.write(_foldArabicChar(text[i]));
+      indexMap.add(i);
+    }
+  }
+  return (buffer.toString(), indexMap);
+}
+
 List<String> _tokenize(String text) {
-  final stripped = text.replaceAll(_arabicDiacritics, '');
-  return stripped
+  final (normalized, _) = _normalizeArabic(text);
+  return normalized
       .toLowerCase()
       .split(RegExp(r'[^\p{L}\p{N}]+', unicode: true))
       .where((t) => t.isNotEmpty)
@@ -160,6 +208,9 @@ class _QuranPanelState extends State<QuranPanel> {
   static bool _tafsirNafahat = false;
   static bool _tafsirKatheer = false;
   static bool _tafsirVarious = false;
+  static bool _wordByWordMode = false;
+  QuranWordAudioIndex? _wordAudioIndex;
+  bool _wordAudioIndexLoading = false;
   static double _tafsirFontSize = 14.0;
   static String _variousLanguage = variousTranslationLanguages.first;
   static String _mokhtasarLanguage = 'English';
@@ -1087,6 +1138,10 @@ class _QuranPanelState extends State<QuranPanel> {
     _loadCompletionState();
     _loadTafsirFontSize();
 
+    if (_wordByWordMode) {
+      _loadWordAudioIndexIfNeeded();
+    }
+
     _rangeRepeatCountFocusNode.addListener(() {
       if (_rangeRepeatCountFocusNode.hasFocus) {
         if (_rangeRepeatCountController.text == '1') {
@@ -1808,36 +1863,13 @@ class _QuranPanelState extends State<QuranPanel> {
     );
   }
 
-  // Matches Arabic diacritics (tashkeel/harakat) so Quranic text — which is
-  // conventionally fully vocalized — can still be matched against plain,
-  // undiacritized dictionary entries like 'الله' or 'ربكم'.
-  static final RegExp _arabicDiacriticsPattern = RegExp(
-    r'[\u0610-\u061A\u064B-\u065F\u0670\u06D6-\u06DC\u06DF-\u06E8\u06EA-\u06ED\u08D3-\u08E1\u08E3-\u08FF]',
-  );
-
-  /// Strips Arabic diacritics from [text], returning the stripped string
-  /// plus a map from each index in the stripped string back to its
-  /// original index in [text] (needed so highlighted spans still cover the
-  /// original diacritic-containing text, not the stripped copy).
-  (String, List<int>) _stripArabicDiacritics(String text) {
-    final buffer = StringBuffer();
-    final indexMap = <int>[];
-    for (int i = 0; i < text.length; i++) {
-      if (!_arabicDiacriticsPattern.hasMatch(text[i])) {
-        buffer.write(text[i]);
-        indexMap.add(i);
-      }
-    }
-    return (buffer.toString(), indexMap);
-  }
-
-  /// Finds Allah/Rabb matches in [text] ignoring Arabic diacritics.
-  /// Returns (start, end) ranges in ORIGINAL [text] coordinates (end
-  /// exclusive), sorted by start position.
+  /// Finds Allah/Rabb matches in [text] ignoring Arabic diacritics and
+  /// letter-shape variants. Returns (start, end) ranges in ORIGINAL [text]
+  /// coordinates (end exclusive), sorted by start position.
   List<(int, int)> _findDiacriticInsensitiveAllahRanges(
       String text, String arabicAllahPattern) {
     if (arabicAllahPattern.isEmpty) return [];
-    final (stripped, indexMap) = _stripArabicDiacritics(text);
+    final (stripped, indexMap) = _normalizeArabic(text);
     final pattern = RegExp(arabicAllahPattern);
     final ranges = <(int, int)>[];
     for (final m in pattern.allMatches(stripped)) {
@@ -1909,6 +1941,73 @@ class _QuranPanelState extends State<QuranPanel> {
         ],
       ),
     );
+  }
+
+  Widget _buildWordByWordText(int surah, int ayah, double fontSize, {String? highlightQuery}) {
+      if (ayah == 0) {
+        return const SizedBox.shrink();
+      }
+
+      final trimmedQuery = highlightQuery?.trim() ?? '';
+      final normalizedQuery =
+          trimmedQuery.isNotEmpty ? _normalizeArabic(trimmedQuery).$1 : '';
+
+      return FutureBuilder<List<QuranWordInfo>>(
+        future: QuranWbwRepository.instance.getWords(surah, ayah),
+        builder: (context, snapshot) {
+          final words = snapshot.data;
+          if (words == null) {
+            return const SizedBox(
+              height: 24,
+              child: Center(
+                child: SizedBox(
+                  width: 14, height: 14,
+                  child: CircularProgressIndicator(strokeWidth: 1.5, color: Colors.cyanAccent),
+                ),
+              ),
+            );
+          }
+          if (words.isEmpty) {
+            return const Text('No word-by-word data for this ayah',
+                style: TextStyle(color: Colors.white38, fontSize: 12));
+          }
+          return Directionality(
+            textDirection: TextDirection.rtl,
+            child: Wrap(
+              spacing: 10,
+              runSpacing: 10,
+              children: List.generate(words.length, (i) {
+                final word = words[i];
+                final wordIndex = i + 1;
+                final isMatch = normalizedQuery.isNotEmpty &&
+                    _normalizeArabic(word.arabic).$1 == normalizedQuery;
+                return _WordByWordChip(
+                  arabic: word.arabic,
+                  english: word.english,
+                  fontSize: fontSize,
+                  highlighted: isMatch,
+                  onTap: () {
+                    final audioId = _wordAudioIndex?.getAudioId(surah, ayah, wordIndex);
+                    if (audioId != null) {
+                      QuranWordAudioPlayer.instance.playWord(audioId);
+                    }
+                  },
+                  onSearchIconTap: () => _searchForWord(word.arabic),
+                );
+              }),
+            ),
+          );
+        },
+      );
+    }
+
+  void _searchForWord(String arabicWord) {
+    setState(() {
+      _tafsirSearchMode = true;
+    });
+    _tafsirSearchController.text = arabicWord;
+    _tafsirSearchFocusNode.requestFocus();
+    _searchTafsirText(arabicWord);
   }
 
   void _submitRangeRepeat(BuildContext context) {
@@ -2425,6 +2524,17 @@ class _QuranPanelState extends State<QuranPanel> {
     return score;
   }
 
+  Future<void> _loadWordAudioIndexIfNeeded() async {
+    if (_wordAudioIndex != null || _wordAudioIndexLoading) return;
+    setState(() => _wordAudioIndexLoading = true);
+    final idx = await QuranWordAudioIndex.load('assets/quran_index/word_audio.bin');
+    if (!mounted) return;
+    setState(() {
+      _wordAudioIndex = idx;
+      _wordAudioIndexLoading = false;
+    });
+  }
+
   Future<void> _loadHeavyIndex(String source) async {
     Future<void> load(
         TafsirBinaryIndex? Function() getCurrent,
@@ -2803,10 +2913,15 @@ class _QuranPanelState extends State<QuranPanel> {
   }
 
   /// Highlights whole-word matches of [query] in each span, ignoring Arabic
-  /// diacritics. Uses the existing `_stripArabicDiacritics` helper (which
+  /// diacritics. Uses the existing `_normalizeArabic` helper (which
   /// returns the stripped string plus a map from stripped-index → original-index).
   List<TextSpan> _highlightArabicWholeWord(List<TextSpan> spans, String query) {
-    final (queryStripped, _) = _stripArabicDiacritics(query);
+    final (queryStripped, _) = _normalizeArabic(query);
+    for (final span in spans) {
+      if (span.text != null && span.text!.contains(query.substring(0,1))) {
+        final (stripped, _) = _normalizeArabic(span.text!);
+      }
+    }
     final needles = queryStripped
         .split(RegExp(r'\s+'))
         .where((t) => t.isNotEmpty)
@@ -2829,7 +2944,7 @@ class _QuranPanelState extends State<QuranPanel> {
         continue;
       }
 
-      final (stripped, indexMap) = _stripArabicDiacritics(text);
+      final (stripped, indexMap) = _normalizeArabic(text);
       final ranges = <(int, int)>[];
 
       for (final needle in needles) {
@@ -4072,6 +4187,20 @@ class _QuranPanelState extends State<QuranPanel> {
                               ),
                             ),
                             const SizedBox(width: 6),
+                            _tafsirCheckbox('wbw', _wordByWordMode, (v) {
+                              setState(() {
+                                _wordByWordMode = v ?? false;
+                                if (_wordByWordMode) _tafsirQuran = true;
+                              });
+                              if (_wordByWordMode) _loadWordAudioIndexIfNeeded();
+                            }, Colors.cyanAccent),
+                            if (_wordAudioIndexLoading)
+                              const Padding(
+                                padding: EdgeInsets.only(left: 4),
+                                child: SizedBox(width: 10, height: 10,
+                                    child: CircularProgressIndicator(strokeWidth: 1.5, color: Colors.cyanAccent)),
+                              ),
+                            const SizedBox(width: 6),
                             _tafsirCheckbox('Quran', _tafsirQuran, (v) {
                               setState(() => _tafsirQuran = v ?? false);
                             }, Colors.white70),
@@ -4594,13 +4723,15 @@ class _QuranPanelState extends State<QuranPanel> {
                 ],
               ),
               const SizedBox(height: 6),
-              _buildTafsirText(text, isRtl,
-                isIntro: ayah == 0,
-                highlightQuery: highlightQuery,
-                highlightIsPhrase: highlightIsPhrase,
-                highlightWholeWord: highlightWholeWord,
-                fontSize: effectiveFontSize,
-              )
+              source == 'Quran' && _wordByWordMode
+                  ? _buildWordByWordText(surah, ayah, effectiveFontSize, highlightQuery: highlightQuery)
+                  : _buildTafsirText(text, isRtl,
+                      isIntro: ayah == 0,
+                      highlightQuery: highlightQuery,
+                      highlightIsPhrase: highlightIsPhrase,
+                      highlightWholeWord: highlightWholeWord,
+                      fontSize: effectiveFontSize,
+                    )
             ],
           ),
         ),
@@ -4948,4 +5079,86 @@ class _TafsirRange {
   final int from;
   final int to;
   const _TafsirRange(this.surah, this.from, this.to);
+}
+
+class _WordByWordChip extends StatefulWidget {
+  final String arabic;
+  final String english;
+  final double fontSize;
+  final bool highlighted;
+  final VoidCallback onTap;
+  final VoidCallback? onSearchIconTap;
+  const _WordByWordChip({
+    required this.arabic,
+    required this.english,
+    required this.fontSize,
+    this.highlighted = false,
+    required this.onTap,
+    this.onSearchIconTap,
+  });
+
+  @override
+  State<_WordByWordChip> createState() => _WordByWordChipState();
+}
+
+class _WordByWordChipState extends State<_WordByWordChip> {
+  bool _hovering = false;
+
+  @override
+  Widget build(BuildContext context) {
+    return MouseRegion(
+      onEnter: (_) => setState(() => _hovering = true),
+      onExit: (_) => setState(() => _hovering = false),
+      child: Column(
+        mainAxisSize: MainAxisSize.min,
+        children: [
+          GestureDetector(
+            onTap: widget.onTap,
+            child: Tooltip(
+              message: widget.english,
+              preferBelow: false,
+              textStyle: const TextStyle(color: Colors.white, fontSize: 12),
+              decoration: BoxDecoration(
+                color: const Color(0xFF2A2A2A),
+                borderRadius: BorderRadius.circular(6),
+              ),
+              child: AnimatedContainer(
+                duration: const Duration(milliseconds: 120),
+                padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 4),
+                decoration: BoxDecoration(
+                  color: _hovering ? Colors.cyanAccent.withAlpha(30) : null,
+                  borderRadius: BorderRadius.circular(4),
+                ),
+                child: Text(
+                  widget.arabic,
+                  style: TextStyle(
+                    color: widget.highlighted
+                        ? Colors.yellow
+                        : (_hovering ? Colors.cyanAccent : Colors.white),
+                    fontWeight: widget.highlighted ? FontWeight.bold : FontWeight.normal,
+                    fontSize: widget.fontSize + 4,
+                  ),
+                ),
+              ),
+            ),
+          ),
+          if (widget.onSearchIconTap != null)
+            AnimatedOpacity(
+              duration: const Duration(milliseconds: 120),
+              opacity: _hovering ? 1.0 : 0.0,
+              child: IgnorePointer(
+                ignoring: !_hovering,
+                child: InkWell(
+                  onTap: widget.onSearchIconTap,
+                  child: const Padding(
+                    padding: EdgeInsets.only(top: 2),
+                    child: Icon(Icons.search, size: 13, color: Colors.white38),
+                  ),
+                ),
+              ),
+            ),
+        ],
+      ),
+    );
+  }
 }

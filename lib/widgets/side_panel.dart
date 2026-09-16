@@ -441,7 +441,7 @@ class SidePanel extends StatelessWidget {
       right: 0,
       top: 0,
       bottom: isCollapsed ? null : 0,
-      width: 950,
+      width: 990,
       child: GestureDetector(
         onTap: () {},
         child: Container(
@@ -526,8 +526,8 @@ class SidePanel extends StatelessWidget {
                       context, 'Stats', PanelMode.stats, statsCount),
                   _buildTabButton(
                       context, 'Quran', PanelMode.quran, quranEntries.length),
-                  _buildTabButton(context, '⌘Quiz', PanelMode.quiz, 145),
-                  _buildTabButton(context, '⌘Related', PanelMode.related, 145),
+                  _buildTabButton(context, '⌘Quiz', PanelMode.quiz, 146),
+                  _buildTabButton(context, '⌘Related', PanelMode.related, 146),
                   _buildTabButton(
                       context, 'LUTs', PanelMode.luts, availableLuts.length),
                 ],
@@ -2692,33 +2692,20 @@ class SidePanel extends StatelessWidget {
           _buildSubCategoryButton('ligatures', FontCategory.ligatures),
           if (selectedSubCategory == FontCategory.ligatures) ...[
             _buildStudioButton('177studio', FontCategory.studio177),
-            _buildStudioButton('Various', FontCategory.various),
             _buildStudioButton('Various123', FontCategory.various123),
           ],
-          _buildSubCategoryButton(
-              'missingligatures', FontCategory.missingLigatures),
-          if (selectedSubCategory == FontCategory.missingLigatures) ...[
-            _buildStudioButton('177studio', FontCategory.studio177),
-          ],
+          _buildSubCategoryButton('missingligatures', FontCategory.missingLigatures),
           _buildSubCategoryButton('alternates', FontCategory.alternates),
-          _buildSubCategoryButton(
-              'MustBeUPPERCASE', FontCategory.mustBeUppercase),
-          if (selectedSubCategory == FontCategory.mustBeUppercase) ...[
-            _buildStudioButton('177studio', FontCategory.studio177),
-          ],
+          _buildSubCategoryButton('MustBeUPPERCASE', FontCategory.mustBeUppercase),
           _buildSubCategoryButton('sEeSaWcAsE', FontCategory.seesawcase),
         ],
         const Divider(color: Colors.white24),
         _buildCategoryButton('free', FontCategory.free, null, null),
         if (selectedMainCategory == FontCategory.free) ...[
           _buildSubCategoryButton('ligatures', FontCategory.ligatures),
-          if (selectedSubCategory == FontCategory.ligatures) ...[
-            _buildStudioButton('Gluk', FontCategory.gluk),
-          ],
           _buildSubCategoryButton('Various', null,
               studio: FontCategory.various),
           _buildSubCategoryButton('foreign', FontCategory.foreign),
-          _buildSubCategoryButton('UPPERCASE', FontCategory.uppercase),
         ],
         const Divider(color: Colors.white24),
         _buildCategoryButton(

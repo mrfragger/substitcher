@@ -66,6 +66,7 @@ import '../quran/quran_index.dart';
 import '../quran/quran_verse_search_index.dart';
 import '../quran/surah_names.dart';
 import '../quran/juz_duration_calculator.dart';
+import '../quran/quran_word_audio_player.dart';
 
 enum FontColorOverride { none, black, white }
 
@@ -447,6 +448,11 @@ class _PlayerScreenState extends State<PlayerScreen>
     _adhanClockService = AdhanClockService();
     _adhanClockService.initialize();
     _adhanClockService.setMainPlayerPauseCallback(() async {
+      if (_isPlaying) {
+        await player.pause();
+      }
+    });
+    QuranWordAudioPlayer.instance.setMainPlayerPauseCallback(() async {
       if (_isPlaying) {
         await player.pause();
       }
@@ -7740,13 +7746,13 @@ class _PlayerScreenState extends State<PlayerScreen>
             metadata.hasMissingLigatures()) {
           setState(() => _conversionType = 'missing');
           await _applyConversion();
-        } else if (!fromCycle &&
-            metadata != null &&
-            metadata.isDemo() &&
-            metadata.hasLigatures() &&
-            (metadata.studio == FontCategory.studio177 ||
-                metadata.studio == FontCategory.various)) {
-          setState(() => _conversionType = 'demo');
+        } else if (metadata != null &&
+                   metadata.isDemo() &&
+                   metadata.hasLigatures() &&
+                   metadata.studio == FontCategory.studio177) {
+          setState(() {
+            _conversionType = 'demo';
+          });
           await _applyConversion();
         } else if (!fromCycle) {
           setState(() => _conversionType = 'none');
@@ -9041,10 +9047,9 @@ class _PlayerScreenState extends State<PlayerScreen>
                         });
                         await _applyConversion();
                       } else if (metadata != null &&
-                          metadata.isDemo() &&
-                          metadata.hasLigatures() &&
-                          (metadata.studio == FontCategory.studio177 ||
-                              metadata.studio == FontCategory.various)) {
+                                 metadata.isDemo() &&
+                                 metadata.hasLigatures() &&
+                                 metadata.studio == FontCategory.studio177) {
                         setState(() {
                           _conversionType = 'demo';
                         });

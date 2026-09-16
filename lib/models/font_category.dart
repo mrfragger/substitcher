@@ -1,5 +1,4 @@
 class FontCategory {
-  // Main categories
   static const String demo123 = 'demo123';
   static const String demo = 'demo';
   static const String free = 'free';
@@ -7,7 +6,6 @@ class FontCategory {
   static const String custom = 'custom';
   static const String custom2 = 'custom2';
 
-  // Sub-categories
   static const String ligatures = 'ligatures';
   static const String missingLigatures = 'missingligatures';
   static const String uppercase = 'uppercase';
@@ -16,14 +14,7 @@ class FontCategory {
   static const String foreign = 'foreign';
   static const String alternates = 'alternates';
 
-  // Studios/Collections
   static const String studio177 = '177studio';
-  static const String putracetol = 'Putracetol';
-  static const String dhabee = 'Dhabee';
-  static const String alpaprana123 = 'Alparana123';
-  static const String dhabee123 = 'Dhabee123';
-  static const String erifqizefont123 = 'Erifqizefont123';
-  static const String putracetol123 = 'Putracetol123';
   static const String gluk = 'Gluk';
   static const String various = 'various';
   static const String various123 = 'various123';
@@ -31,10 +22,10 @@ class FontCategory {
 
 class FontMetadata {
   final String fontName;
-  final String mainCategory; // demo123, demo, free
-  final List<String> subCategories; // ligatures, uppercase, etc.
-  final String? studio; // 177studio, putracetol, etc.
-  final List<String>? ligaturePairs; // For missing ligature fixes
+  final String mainCategory;
+  final List<String> subCategories;
+  final String? studio;
+  final List<String>? ligaturePairs;
 
   FontMetadata({
     required this.fontName,

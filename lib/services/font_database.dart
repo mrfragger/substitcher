@@ -33,10 +33,6 @@ class FontDatabase {
     'Trickster': FontMetadata(fontName: 'Trickster', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
     'Yang Bagus': FontMetadata(fontName: 'Yang Bagus', mainCategory: FontCategory.free, subCategories: [], studio: FontCategory.various),
 
-    // ==================== free/ligatures/UPPERCASE ====================
-    'Durendal & Oliphant': FontMetadata(fontName: 'Durendal & Oliphant', mainCategory: FontCategory.free, subCategories: [FontCategory.ligatures, FontCategory.uppercase], studio: null),
-    'Syntetic Asrocuus': FontMetadata(fontName: 'Syntetic Asrocuus', mainCategory: FontCategory.free, subCategories: [FontCategory.ligatures, FontCategory.uppercase], studio: null),
-
  // ==================== free/foreign/languages ====================
      'Noto Sans SC': FontMetadata(fontName: 'Noto Sans SC', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
      'Noto Sans JP': FontMetadata(fontName: 'Noto Sans JP', mainCategory: FontCategory.free, subCategories: [FontCategory.foreign], studio: null),
@@ -66,10 +62,6 @@ class FontDatabase {
      'Sophia Melanie': FontMetadata(fontName: 'Sophia Melanie', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various123),
      'Zentaro': FontMetadata(fontName: 'Zentaro', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various123),
 
-     // ==================== demo/ligatures/Various ====================
-     'Rocket Raccoon free': FontMetadata(fontName: 'Rocket Raccoon free', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
-     'Souther Daleska demo version': FontMetadata(fontName: 'Souther Daleska demo version', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various),
-
      // ==================== demo/missingligatures/177studio ====================
      'Abstract Settings demo': FontMetadata(fontName: 'Abstract Settings demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.missingLigatures], studio: FontCategory.studio177, ligaturePairs: ["as", "be", "de", "es", "ha", "le", "ly", "ne", "of", "op", "pr", "rt", "so", "ur", "ic", "is"]),
      'Creates Presence demo': FontMetadata(fontName: 'Creates Presence demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.missingLigatures], studio: FontCategory.studio177, ligaturePairs: ["ac", "ar", "av", "ch", "di", "ee", "ep", "fe", "ha", "ic", "io", "ju", "li", "ma", "nd", "ns", "om", "or", "pa", "rt", "so", "te", "tr", "ur"]),
@@ -88,6 +80,7 @@ class FontDatabase {
     'Sorean': FontMetadata(fontName: 'Sorean', mainCategory: FontCategory.demo, subCategories: [FontCategory.alternates]),
 
  // ==================== demo/MustBeUPPERCASE/177studio ====================
+     'Caroline Everett': FontMetadata(fontName: 'Caroline Everett', mainCategory: FontCategory.demo, subCategories: [FontCategory.mustBeUppercase], studio: FontCategory.studio177),
      'Children Interests demo': FontMetadata(fontName: 'Children Interests demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.mustBeUppercase], studio: FontCategory.studio177),
      'Intricate Narrative demo': FontMetadata(fontName: 'Intricate Narrative demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.mustBeUppercase], studio: FontCategory.studio177),
     };
