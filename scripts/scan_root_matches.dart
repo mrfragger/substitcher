@@ -4,8 +4,6 @@
 import 'dart:convert';
 import 'dart:io';
 
-// ---- Mirrors RootHighlighter in lib/quiz/harf_model.dart ----
-
 bool _isTatweel(int cp) => cp == 0x0640;
 bool _isDaggerAlif(int cp) => cp == 0x0670;
 
@@ -143,8 +141,6 @@ String? suggestOverride(String verse, String root) {
   return verse.substring(wordStart, wordEnd);
 }
 
-// ---- Scanner ----
-
 void main(List<String> args) {
   final dirPath = args.isNotEmpty ? args[0] : 'assets/daily_quiz';
   final dir = Directory(dirPath);
@@ -210,7 +206,7 @@ void main(List<String> args) {
               '${file.uri.pathSegments.last}: OVERRIDE NOT FOUND  override="$override"  display="$display"');
           buf.writeln('    verse: $arabicVerse');
           if (suggestion != null) {
-            buf.writeln('    💡 suggested matchOverride (copy-paste exactly): "$suggestion"');
+            buf.writeln('    suggested matchOverride (copy-paste exactly): "$suggestion"');
           }
           failures.add(buf.toString());
           continue;
@@ -225,11 +221,11 @@ void main(List<String> args) {
               '${file.uri.pathSegments.last}: NO MATCH  word="$word"  display="$display"  hint="$hint"');
           buf.writeln('    verse: $arabicVerse');
           if (arabicVerse.trim().isEmpty) {
-            buf.writeln('    ⚠ arabicVerse is EMPTY — data error, not a matching bug.');
+            buf.writeln('    arabicVerse is EMPTY — data error, not a matching bug.');
           } else {
             final suggestion = suggestOverride(arabicVerse, word);
             if (suggestion != null) {
-              buf.writeln('    💡 suggested matchOverride (copy-paste exactly): "$suggestion"');
+              buf.writeln('    suggested matchOverride (copy-paste exactly): "$suggestion"');
             }
           }
           final cps = word.runes
@@ -244,9 +240,9 @@ void main(List<String> args) {
 
   print('Scanned ${files.length} files, $total harf/wordle entries.\n');
   if (failures.isEmpty) {
-    print('✅ All entries matched successfully.');
+    print('All entries matched successfully.');
   } else {
-    print('❌ $failed entr${failed == 1 ? 'y' : 'ies'} failed to auto-match:\n');
+    print('$failed entr${failed == 1 ? 'y' : 'ies'} failed to auto-match:\n');
     for (final f in failures) {
       print('- $f');
     }

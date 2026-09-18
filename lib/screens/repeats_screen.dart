@@ -763,7 +763,7 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
     <style>
       @font-face {
         font-family: 'Scheherazade New';
-        src: url('data:fonts/woff2;base64,$fontBase64') format('woff2');
+        src: url('data:font/woff2;base64,$fontBase64') format('woff2');
         font-weight: normal;
         font-style: normal;
       }
@@ -868,7 +868,7 @@ class _RepeatsScreenState extends State<RepeatsScreen> {
 
   Future<String> _getFontBase64() async {
     try {
-      final fontData = await rootBundle.load('fonts/ScheherazadeNew-Regular.woff2');
+      final fontData = await rootBundle.load('assets/fonts/ScheherazadeNew-Regular.woff2');
       final bytes = fontData.buffer.asUint8List();
       return base64Encode(bytes);
     } catch (e) {

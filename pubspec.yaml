@@ -1,7 +1,7 @@
 name: substitcher
 description: opus chaptered audiobook player, encoder and editor with colored subtitle support, basic video editor
 publish_to: "none"
-version: 26.09.16
+version: 26.09.17
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
@@ -93,8 +93,12 @@ flutter:
     - assets/quran_index/word_audio.bin
     - assets/audioword/
     - assets/quran_wbw/
+    - assets/alif/
 
   fonts:
     - family: CustomFonts
       fonts:
         - asset: assets/fonts/0xProto.otf
+    - family: ScheherazadeNew
+      fonts:
+        - asset: assets/fonts/Scheherazade New.ttf

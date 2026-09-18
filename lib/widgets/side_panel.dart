@@ -20,6 +20,8 @@ import 'stats_panel.dart';
 import 'quran_panel.dart';
 import 'deduction_quiz_panel.dart';
 import 'related_connections_panel.dart';
+import 'alif_panel.dart';
+import '../alif/alif_letters.dart';
 
 enum PanelMode {
   chapters,
@@ -34,6 +36,7 @@ enum PanelMode {
   quran,
   quiz,
   related,
+  alif,
   luts,
 }
 
@@ -526,8 +529,9 @@ class SidePanel extends StatelessWidget {
                       context, 'Stats', PanelMode.stats, statsCount),
                   _buildTabButton(
                       context, 'Quran', PanelMode.quran, quranEntries.length),
-                  _buildTabButton(context, '⌘Quiz', PanelMode.quiz, 146),
-                  _buildTabButton(context, '⌘Related', PanelMode.related, 146),
+                  _buildTabButton(context, '⌘Quiz', PanelMode.quiz, 147),
+                  _buildTabButton(context, '⌘Related', PanelMode.related, 147),
+                  _buildTabButton(context, 'Alif', PanelMode.alif, alifAlphabet.length),
                   _buildTabButton(
                       context, 'LUTs', PanelMode.luts, availableLuts.length),
                 ],
@@ -689,6 +693,9 @@ class SidePanel extends StatelessWidget {
       case PanelMode.related:
         underlineIndex = 1;
         break;
+      case PanelMode.alif:
+        underlineIndex = 0;
+        break;
     }
 
     return Padding(
@@ -827,6 +834,8 @@ class SidePanel extends StatelessWidget {
           onVerseSelected: onRelatedVerseSelected,
           onLoadTafsirRef: _loadTafsirRefAndSwitchTab,
         );
+      case PanelMode.alif:
+        return const AlifPanel();
     }
   }
 

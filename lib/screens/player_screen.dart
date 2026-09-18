@@ -8315,7 +8315,8 @@ class _PlayerScreenState extends State<PlayerScreen>
               _addCueAfter(index);
               return KeyEventResult.handled;
             }
-            return KeyEventResult.ignored;
+            _applyDefaultSettings();
+            return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyA &&
               HardwareKeyboard.instance.isShiftPressed &&
               event is KeyDownEvent) {
@@ -8323,7 +8324,10 @@ class _PlayerScreenState extends State<PlayerScreen>
             return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyA &&
               event is KeyDownEvent) {
-            _applyDefaultSettings();
+            setState(() {
+              _showPanel = true;
+              _panelMode = PanelMode.alif;
+            });
             return KeyEventResult.handled;
           } else if ((event.logicalKey == LogicalKeyboardKey.minus ||
                   event.logicalKey == LogicalKeyboardKey.underscore) &&
@@ -8902,6 +8906,7 @@ class _PlayerScreenState extends State<PlayerScreen>
                       _panelMode == PanelMode.stats ||
                       _panelMode == PanelMode.quran ||
                       _panelMode == PanelMode.quiz ||
+                      _panelMode == PanelMode.alif ||
                       _panelMode == PanelMode.related))
                 SidePanel(
                   panelMode: _panelMode,
@@ -12839,6 +12844,22 @@ class _PlayerScreenState extends State<PlayerScreen>
                       },
                       icon: const Icon(Icons.hub),
                       label: const Text('Related (⌘r)'),
+                      style: ElevatedButton.styleFrom(
+                        padding: const EdgeInsets.symmetric(
+                            horizontal: 32, vertical: 16),
+                        textStyle: const TextStyle(fontSize: 18),
+                      ),
+                    ),
+                    const SizedBox(width: 16),
+                    ElevatedButton.icon(
+                      onPressed: () {
+                        setState(() {
+                          _showPanel = true;
+                          _panelMode = PanelMode.alif;
+                        });
+                      },
+                      icon: const Icon(Icons.translate),
+                      label: const Text('Alif (a)'),
                       style: ElevatedButton.styleFrom(
                         padding: const EdgeInsets.symmetric(
                             horizontal: 32, vertical: 16),
