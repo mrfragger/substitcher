@@ -128,11 +128,29 @@ class _AlifGuessSectionState extends State<_AlifGuessSection> {
   int? _feedbackLetterId;
   bool? _feedbackCorrect;
 
+  List<AlifLetter> _bag = [];
+
   List<AlifLetter> get _playableLetters =>
       alifAlphabet.where((l) => l.audioAsset.isNotEmpty).toList();
 
+  AlifLetter _nextTarget() {
+    if (_bag.isEmpty) {
+      _bag = List<AlifLetter>.from(_playableLetters)..shuffle(_rand);
+      if (_target != null && _bag.length > 1 && _bag.first.id == _target!.id) {
+        final swapIndex = 1 + _rand.nextInt(_bag.length - 1);
+        final tmp = _bag[0];
+        _bag[0] = _bag[swapIndex];
+        _bag[swapIndex] = tmp;
+      }
+    }
+    return _bag.removeAt(0);
+  }
+
   void _startQuiz() {
-    setState(() => _quizActive = true);
+    setState(() {
+      _quizActive = true;
+      _bag = [];
+    });
     _startNewRound();
   }
 
@@ -144,12 +162,13 @@ class _AlifGuessSectionState extends State<_AlifGuessSection> {
       _locked = false;
       _feedbackLetterId = null;
       _feedbackCorrect = null;
+      _bag = [];
     });
   }
 
   void _startNewRound() {
     final playable = _playableLetters;
-    final target = playable[_rand.nextInt(playable.length)];
+    final target = _nextTarget();
 
     final others = List<AlifLetter>.from(playable)..remove(target);
     others.shuffle(_rand);
@@ -305,7 +324,7 @@ class _AlifGuessPill extends StatelessWidget {
         alignment: Alignment.center,
         child: Text(
           letter.forms.isolated,
-          style: const TextStyle(color: Colors.white, fontSize: 34),
+          style: const TextStyle(color: Colors.white, fontSize: 55),
         ),
       ),
     );
