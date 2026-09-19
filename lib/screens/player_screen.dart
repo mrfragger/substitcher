@@ -31,6 +31,7 @@ import '../models/pause_mode.dart';
 import '../models/subtitle_preferences.dart';
 import '../models/lut_item.dart';
 import '../models/vtt_show_style.dart';
+import '../models/root_card.dart';
 import '../services/vtt_show_service.dart';
 import '../services/cjk_tokenizer.dart';
 import '../services/ffmpeg_service.dart';
@@ -62,6 +63,7 @@ import '../widgets/lut_picker_overlay.dart';
 import '../widgets/vtt_show_edit_overlay.dart';
 import '../widgets/youtube_dialog.dart';
 import '../widgets/quran_panel.dart';
+import '../widgets/quran_list_panel.dart';
 import '../quran/quran_index.dart';
 import '../quran/quran_verse_search_index.dart';
 import '../quran/surah_names.dart';
@@ -245,6 +247,11 @@ class _PlayerScreenState extends State<PlayerScreen>
   final FocusNode _quranRefInputFocusNode = FocusNode();
 
   final QuranVerseSearchIndex _quranVerseSearchIndex = QuranVerseSearchIndex();
+  String _quranListSearchQuery = '';
+  final TextEditingController _quranListSearchController =
+      TextEditingController();
+  final FocusNode _quranListSearchFocusNode = FocusNode();
+  RootCard? _openRootCard;
   bool _quranVerseSearchMode = false;
   final TextEditingController _quranVerseSearchController = TextEditingController();
   final FocusNode _quranVerseSearchFocusNode = FocusNode();
@@ -527,6 +534,8 @@ class _PlayerScreenState extends State<PlayerScreen>
     _quranExcludeFocusNode.dispose();
     _quranVerseSearchController.dispose();
     _quranVerseSearchFocusNode.dispose();
+    _quranListSearchController.dispose();
+    _quranListSearchFocusNode.dispose();
     _hadeethSearchFocusNode.dispose();
     _hadeethExcludeFocusNode.dispose();
     _quranRefInputFocusNode.dispose();
@@ -7870,7 +7879,8 @@ class _PlayerScreenState extends State<PlayerScreen>
             _hadeethSearchFocusNode.hasFocus ||
             _hadeethExcludeFocusNode.hasFocus ||
             _tafsirSearchFocusNode.hasFocus ||
-            _quranVerseSearchFocusNode.hasFocus) {
+            _quranVerseSearchFocusNode.hasFocus ||
+            _quranListSearchFocusNode.hasFocus) {
           return KeyEventResult.ignored;
         }
 
@@ -8144,6 +8154,8 @@ class _PlayerScreenState extends State<PlayerScreen>
                 _searchFocusNode.requestFocus();
               } else if (_panelMode == PanelMode.quran) {
                 _quranSearchFocusNode.requestFocus();
+              } else if (_panelMode == PanelMode.quranList) {
+                _quranListSearchFocusNode.requestFocus();
               } else if (_panelMode != PanelMode.words) {
                 _searchFocusNode.requestFocus();
               }
@@ -8173,6 +8185,12 @@ class _PlayerScreenState extends State<PlayerScreen>
                 setState(() {
                   _subsSearchQuery = '';
                   _subtitleSearchResults = [];
+                });
+              }
+              if (_panelMode == PanelMode.quranList) {
+                _quranListSearchController.clear();
+                setState(() {
+                  _quranListSearchQuery = '';
                 });
               }
             }
@@ -8225,13 +8243,21 @@ class _PlayerScreenState extends State<PlayerScreen>
             _openLutPicker();
             return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyL &&
-              HardwareKeyboard.instance.isShiftPressed &&
+              HardwareKeyboard.instance.isMetaPressed &&
               event is KeyDownEvent) {
             _openAudiobookDirectory();
             return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyL &&
+              HardwareKeyboard.instance.isShiftPressed &&
               event is KeyDownEvent) {
             _openAudiobook();
+            return KeyEventResult.handled;
+          } else if (event.logicalKey == LogicalKeyboardKey.keyL &&
+              event is KeyDownEvent) {
+            setState(() {
+              _showPanel = true;
+              _panelMode = PanelMode.quranList;
+            });
             return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyM &&
               HardwareKeyboard.instance.isShiftPressed &&
@@ -8905,6 +8931,7 @@ class _PlayerScreenState extends State<PlayerScreen>
                       _panelMode == PanelMode.bookmarks ||
                       _panelMode == PanelMode.stats ||
                       _panelMode == PanelMode.quran ||
+                      _panelMode == PanelMode.quranList ||
                       _panelMode == PanelMode.quiz ||
                       _panelMode == PanelMode.alif ||
                       _panelMode == PanelMode.related))
@@ -9218,6 +9245,11 @@ class _PlayerScreenState extends State<PlayerScreen>
                   lutItemScrollController: _lutItemScrollController,
                   quranSearchQuery: _quranSearchQuery,
                   quranExcludeQuery: _quranExcludeQuery,
+                  quranListSearchQuery: _quranListSearchQuery,
+                  quranListSearchController: _quranListSearchController,
+                  quranListSearchFocusNode: _quranListSearchFocusNode,
+                  onQuranListSearchChanged: (v) => setState(() => _quranListSearchQuery = v),
+                  onOpenRoot: (card) => setState(() => _openRootCard = card),
                   quranSearchController: _quranSearchController,
                   quranExcludeController: _quranExcludeController,
                   onQuranSearchChanged: (v) {
@@ -9350,6 +9382,13 @@ class _PlayerScreenState extends State<PlayerScreen>
                   onRemoveLutFavorite: _removeLutFromFavorites,
                   selectedLutName: _selectedLutName,
                 ),
+                if (_openRootCard != null && _showPanel)
+                  RootPanel(
+                    card: _openRootCard!,
+                    isCollapsed: _panelCollapsed,
+                    onClose: () => setState(() => _openRootCard = null),
+                    onSearchLemma: _openLemmaInTafsir,
+                  ),
               if (_showWordOverlay && _currentSubtitleText.isNotEmpty)
                 WordOverlay(
                   subtitle: _currentSubtitleIndex != null &&
@@ -9729,6 +9768,17 @@ class _PlayerScreenState extends State<PlayerScreen>
     // Future.delayed(const Duration(milliseconds: 500), () => doScroll());
     // Future.delayed(const Duration(milliseconds: 1000), () => doScroll());
     // Future.delayed(const Duration(milliseconds: 2000), () => doScroll());
+  }
+
+  void _openLemmaInTafsir(String arabicText) {
+    setState(() {
+      _openRootCard = null;
+      _showPanel = true;
+      _panelMode = PanelMode.quran;
+    });
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      (_quranPanelKey.currentState as dynamic)?.searchWordInTafsir(arabicText);
+    });
   }
 
   Widget _buildPlayer() {
@@ -12789,7 +12839,7 @@ class _PlayerScreenState extends State<PlayerScreen>
                         await _openAudiobook();
                       },
                       icon: const Icon(Icons.folder_open),
-                      label: const Text('Load Audiobook (l)'),
+                      label: const Text('Load Audiobook (⇧L)'),
                       style: ElevatedButton.styleFrom(
                         padding: const EdgeInsets.symmetric(
                             horizontal: 32, vertical: 16),
@@ -12812,6 +12862,22 @@ class _PlayerScreenState extends State<PlayerScreen>
                       },
                       icon: const Icon(Icons.menu_book),
                       label: const Text('Quran (q)'),
+                      style: ElevatedButton.styleFrom(
+                        padding: const EdgeInsets.symmetric(
+                            horizontal: 32, vertical: 16),
+                        textStyle: const TextStyle(fontSize: 18),
+                      ),
+                    ),
+                    const SizedBox(width: 16),
+                    ElevatedButton.icon(
+                      onPressed: () {
+                        setState(() {
+                          _showPanel = true;
+                          _panelMode = PanelMode.quranList;
+                        });
+                      },
+                      icon: const Icon(Icons.apps),
+                      label: const Text('List (l)'),
                       style: ElevatedButton.styleFrom(
                         padding: const EdgeInsets.symmetric(
                             horizontal: 32, vertical: 16),

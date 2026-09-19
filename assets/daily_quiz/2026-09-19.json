@@ -1,0 +1,243 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "ألفاظ الحق والباطل والصدق والكذب",
+        "nameEn": "Words for truth and falsehood in the Quran",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "الْحَقُّ",
+            "en": "The truth",
+            "ref": "3:60",
+            "verse": "ٱلْحَقُّ مِن رَّبِّكَ فَلَا تَكُن مِّنَ ٱلْمُمْتَرِينَ",
+            "verseEn": "The truth is from your Lord, so do not be among the doubters."
+          },
+          {
+            "ar": "الْبَاطِلُ",
+            "en": "the falsehood",
+            "ref": "34:49",
+            "verse": "قُلْ جَآءَ ٱلْحَقُّ وَمَا يُبْدِئُ ٱلْبَـٰطِلُ وَمَا يُعِيدُ",
+            "verseEn": "Say, \"The truth has come, and falsehood can neither begin [anything] nor repeat [it].\""
+          },
+          {
+            "ar": "الصِّدْقِ",
+            "en": "the truth",
+            "ref": "39:33",
+            "verse": "وَٱلَّذِى جَآءَ بِٱلصِّدْقِ وَصَدَّقَ بِهِۦٓ ۙ أُو۟لَـٰٓئِكَ هُمُ ٱلْمُتَّقُونَ",
+            "verseEn": "And the one who has brought the truth [i.e., the Prophet (ﷺ)] and [they who] believed in it - those are the righteous."
+          },
+          {
+            "ar": "الْكَذِبَ",
+            "en": "the lie",
+            "ref": "61:7",
+            "verse": "وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ ٱلْكَذِبَ وَهُوَ يُدْعَىٰٓ إِلَى ٱلْإِسْلَـٰمِ ۚ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+            "verseEn": "And who is more unjust than one who invents about Allāh untruth while he is being invited to Islām. And Allāh does not guide the wrongdoing people."
+          }
+        ]
+      },
+      {
+        "name": "مُصْطَلَحَاتٌ مِنْ قِصَّةِ لُوطٍ",
+        "nameEn": "Key terms from the story of Lut",
+        "color": "green",
+        "items": [
+          {
+            "ar": "الْفَاحِشَةَ",
+            "en": "(such) immorality",
+            "ref": "7:80",
+            "verse": "وَلُوطًا إِذْ قَالَ لِقَوْمِهِۦٓ أَتَأْتُونَ ٱلْفَـٰحِشَةَ مَا سَبَقَكُم بِهَا مِنْ أَحَدٍۢ مِّنَ ٱلْعَـٰلَمِينَ",
+            "verseEn": "And [We had sent] Lot when he said to his people, \"Do you commit such immorality as no one has preceded you with from among the worlds [i.e., peoples]?"
+          },
+          {
+            "ar": "مُسْرِفُونَ",
+            "en": "(who) commit excesses",
+            "ref": "7:81",
+            "verse": "إِنَّكُمْ لَتَأْتُونَ ٱلرِّجَالَ شَهْوَةًۭ مِّن دُونِ ٱلنِّسَآءِ ۚ بَلْ أَنتُمْ قَوْمٌۭ مُّسْرِفُونَ",
+            "verseEn": "Indeed, you approach men with desire, instead of women. Rather, you are a transgressing people.\""
+          },
+          {
+            "ar": "سِجِّيلٍ",
+            "en": "baked clay",
+            "ref": "11:82",
+            "verse": "فَلَمَّا جَآءَ أَمْرُنَا جَعَلْنَا عَـٰلِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةًۭ مِّن سِجِّيلٍۢ مَّنضُودٍۢ",
+            "verseEn": "So when Our command came, We made the highest part [of the city] its lowest and rained upon them stones of layered hard clay, [which were]"
+          },
+          {
+            "ar": "الْمُؤْتَفِكَةَ",
+            "en": "And the overturned cities",
+            "ref": "53:53",
+            "verse": "وَٱلْمُؤْتَفِكَةَ أَهْوَىٰ",
+            "verseEn": "And the overturned towns He hurled down."
+          }
+        ]
+      },
+      {
+        "name": "أَنْوَاعُ الذُّنُوبِ فِي الْقُرْآنِ",
+        "nameEn": "Types of Sins in the Quran",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "ذَنْبٌ",
+            "en": "a crime",
+            "ref": "26:14",
+            "verse": "وَلَهُمْ عَلَىَّ ذَنۢبٌۭ فَأَخَافُ أَن يَقْتُلُونِ",
+            "verseEn": "And they have upon me a [claim due to] sin, so I fear that they will kill me.\""
+          },
+          {
+            "ar": "الْإِثْمِ",
+            "en": "[the] sins",
+            "ref": "6:120",
+            "verse": "وَذَرُوا۟ ظَـٰهِرَ ٱلْإِثْمِ وَبَاطِنَهُۥٓ ۚ إِنَّ ٱلَّذِينَ يَكْسِبُونَ ٱلْإِثْمَ سَيُجْزَوْنَ بِمَا كَانُوا۟ يَقْتَرِفُونَ",
+            "verseEn": "And leave [i.e., desist from] what is apparent of sin and what is concealed thereof. Indeed, those who earn [blame for] sin will be recompensed for that which they used to commit."
+          },
+          {
+            "ar": "السَّيِّئَةِ",
+            "en": "with the evil",
+            "ref": "27:90",
+            "verse": "وَمَن جَآءَ بِٱلسَّيِّئَةِ فَكُبَّتْ وُجُوهُهُمْ فِى ٱلنَّارِ هَلْ تُجْزَوْنَ إِلَّا مَا كُنتُمْ تَعْمَلُونَ",
+            "verseEn": "And whoever comes with an evil deed - their faces will be overturned into the Fire, [and it will be said], \"Are you recompensed except for what you used to do?\""
+          },
+          {
+            "ar": "خَطِيئَاتِكُمْ",
+            "en": "your sins",
+            "ref": "7:161",
+            "verse": "وَإِذْ قِيلَ لَهُمُ ٱسْكُنُوا۟ هَـٰذِهِ ٱلْقَرْيَةَ وَكُلُوا۟ مِنْهَا حَيْثُ شِئْتُمْ وَقُولُوا۟ حِطَّةٌۭ وَٱدْخُلُوا۟ ٱلْبَابَ سُجَّدًۭا نَّغْفِرْ لَكُمْ خَطِيٓـَٔـٰتِكُمْ ۚ سَنَزِيدُ ٱلْمُحْسِنِينَ",
+            "verseEn": "And [mention, O Muḥammad], when it was said to them, \"Dwell in this city [i.e., Jerusalem] and eat from it wherever you will and say, 'Relieve us of our burdens [i.e., sins],' and enter the gate bowing humbly; We will [then] forgive you your sins. We will increase the doers of good [in goodness and reward].\""
+          }
+        ]
+      },
+      {
+        "name": "أَلْفَاظٌ وَرَدَتْ فِي الْقُرْآنِ مَرَّةً وَاحِدَةً",
+        "nameEn": "Quranic Hapax Legomena",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "لَكَنُودٌ",
+            "en": "(is) surely ungrateful",
+            "ref": "100:6",
+            "verse": "إِنَّ ٱلْإِنسَـٰنَ لِرَبِّهِۦ لَكَنُودٌۭ",
+            "verseEn": "Indeed mankind, to his Lord, is ungrateful."
+          },
+          {
+            "ar": "الْأَبْتَرُ",
+            "en": "the one cut off",
+            "ref": "108:3",
+            "verse": "إِنَّ شَانِئَكَ هُوَ ٱلْأَبْتَرُ",
+            "verseEn": "Indeed, your enemy is the one cut off."
+          },
+          {
+            "ar": "كُفُوًا",
+            "en": "equivalent",
+            "ref": "112:4",
+            "verse": "وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ",
+            "verseEn": "Nor is there to Him any equivalent.\""
+          },
+          {
+            "ar": "سَوْطَ",
+            "en": "scourge",
+            "ref": "89:13",
+            "verse": "فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ",
+            "verseEn": "So your Lord poured upon them a scourge of punishment."
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "حلال",
+    "display": "حَلَال",
+    "hint": "Legally permissible according to Islamic law; the antonym of forbidden",
+    "verseRef": "8:69",
+    "arabicVerse": "فَكُلُوا۟ مِمَّا غَنِمْتُمْ حَلَـٰلًۭا طَيِّبًۭا ۚ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۭ",
+    "verse": "8:69 - So consume what you have taken of war booty [as being] lawful and good, and fear Allāh. Indeed, Allāh is Forgiving and Merciful."
+  },
+  "deduction": {
+    "title": "The Devoted Voices Beside a Prophet",
+    "intro": "In a distant land, a noble messenger faced harsh rejection from the ruling powers of that era. Yet a small circle of devoted souls stood beside this servant of Allah, eager to answer a divine call. Their unflinching conviction would divide a powerful nation and ultimately prevail against the forces of disbelief.",
+    "clues": [
+      "We were a small devoted group, united in faith and purpose.",
+      "We stood beside a noble messenger who was rejected by the powerful authorities of their land.",
+      "When this messenger asked, 'Who are my supporters in the cause of Allah?' we answered without hesitation.",
+      "We asked this messenger to seek a feast from the sky to bring reassurance to our hearts.",
+      "Among the people of that era, some believed through our message and others stubbornly refused, but Allah strengthened the believers.",
+      "We are the Hawwariyyun — the devoted disciples of Isa, made victorious through Allah's support."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "The Hawwariyyun (Disciples of Isa)",
+          "The Companions of the Cave",
+          "The Believing Wife of Pharaoh",
+          "The Royal Family of Saba",
+          "The Magicians who believed in Pharaoh's court"
+        ],
+        "answer": "The Hawwariyyun (Disciples of Isa)"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "Pledging loyalty as supporters of a prophet's mission",
+          "Being preserved in a slumber within a sealed cave",
+          "Being thrown into a blazing trench for faith",
+          "Surviving an extermination plot as infants",
+          "Witnessing parting seas at the command of a prophet"
+        ],
+        "answer": "Pledging loyalty as supporters of a prophet's mission"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "A table spread with heavenly food from the sky",
+          "A divinely built ship resting on a mountain peak",
+          "A staff that devoured the magic of tyrants",
+          "A cave sealed by divine protection",
+          "A she-camel that emerged from solid rock"
+        ],
+        "answer": "A table spread with heavenly food from the sky"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "Were made dominant over those who rejected the message",
+          "Slept peacefully for three hundred years",
+          "Were saved from the waters of a great flood",
+          "Witnessed the drowning of an oppressive ruler and his army",
+          "Accumulated untold gold and treasures but were destroyed by arrogance"
+        ],
+        "answer": "Were made dominant over those who rejected the message"
+      }
+    },
+    "verseRef": "61:14",
+    "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوٓا۟ أَنصَارَ ٱللَّهِ كَمَا قَالَ عِيسَى ٱبْنُ مَرْيَمَ لِلْحَوَارِيِّـۧنَ مَنْ أَنصَارِىٓ إِلَى ٱللَّهِ ۖ قَالَ ٱلْحَوَارِيُّونَ نَحْنُ أَنصَارُ ٱللَّهِ ۖ فَـَٔامَنَت طَّآئِفَةٌۭ مِّنۢ بَنِىٓ إِسْرَٰٓءِيلَ وَكَفَرَت طَّآئِفَةٌۭ ۖ فَأَيَّدْنَا ٱلَّذِينَ ءَامَنُوا۟ عَلَىٰ عَدُوِّهِمْ فَأَصْبَحُوا۟ ظَـٰهِرِينَ",
+    "verse": "O you who have believed, be supporters of Allāh, as when Jesus, the son of Mary, said to the disciples, \"Who are my supporters for Allāh?\" The disciples said, \"We are supporters of Allāh.\" And a faction of the Children of Israel believed and a faction disbelieved. So We supported those who believed against their enemy, and they became dominant. (61:14)"
+  },
+  "scramble": {
+    "verseRef": "25:30",
+    "reference": "Surah Al-Furqan (25:30)",
+    "segments": [
+      "وَقَالَ الرَّسُولُ",
+      "يَا رَبِّ",
+      "إِنَّ قَوْمِي",
+      "اتَّخَذُوا هَٰذَا الْقُرْآنَ",
+      "مَهْجُورًا"
+    ],
+    "translations": [
+      "And said the Messenger",
+      "O my Lord Indeed",
+      "my people took",
+      "this the Quran",
+      "(as) a forsaken thing"
+    ],
+    "hint": "The Messenger's plea to Allah regarding his people treating the Qur'an as something they turn away from.",
+    "arabic": "وَقَالَ ٱلرَّسُولُ يَـٰرَبِّ إِنَّ قَوْمِى ٱتَّخَذُوا۟ هَـٰذَا ٱلْقُرْءَانَ مَهْجُورًۭا",
+    "words": [
+      "وَقَالَ ٱلرَّسُولُ",
+      "يَـٰرَبِّ إِنَّ",
+      "قَوْمِى ٱتَّخَذُوا۟",
+      "هَـٰذَا ٱلْقُرْءَانَ",
+      "مَهْجُورًۭا"
+    ],
+    "verseEn": "And the Messenger has said, \"O my Lord, indeed my people have taken this Qur’ān as [a thing] abandoned.\""
+  }
+}

@@ -11,9 +11,11 @@ import '../models/pause_mode.dart';
 import '../models/bookmark.dart';
 import '../models/font_category.dart';
 import '../models/lut_item.dart';
+import '../models/root_card.dart';
 import '../services/font_database.dart';
 import '../services/font_loader.dart';
 import '../services/custom_font_metadata.dart';
+import '../services/quran_vocab_loader.dart';
 import '../quran/quran_index.dart';
 import '../quran/quran_verse_search_index.dart';
 import 'stats_panel.dart';
@@ -22,6 +24,7 @@ import 'deduction_quiz_panel.dart';
 import 'related_connections_panel.dart';
 import 'alif_panel.dart';
 import '../alif/alif_letters.dart';
+import '../widgets/quran_list_panel.dart';
 
 enum PanelMode {
   chapters,
@@ -34,6 +37,7 @@ enum PanelMode {
   subs,
   stats,
   quran,
+  quranList,
   quiz,
   related,
   alif,
@@ -231,6 +235,11 @@ class SidePanel extends StatelessWidget {
   final ItemScrollController quranItemScrollController;
   final String quranSearchQuery;
   final String quranExcludeQuery;
+  final String quranListSearchQuery;
+  final TextEditingController quranListSearchController;
+  final FocusNode quranListSearchFocusNode;
+  final Function(String) onQuranListSearchChanged;
+  final Function(RootCard) onOpenRoot;
   final TextEditingController quranSearchController;
   final TextEditingController quranExcludeController;
   final Function(String) onQuranSearchChanged;
@@ -428,6 +437,11 @@ class SidePanel extends StatelessWidget {
     required this.quranExcludeQuery,
     required this.quranSearchController,
     required this.quranExcludeController,
+    required this.quranListSearchQuery,
+    required this.quranListSearchController,
+    required this.quranListSearchFocusNode,
+    required this.onQuranListSearchChanged,
+    required this.onOpenRoot,
     required this.onQuranSearchChanged,
     required this.onQuranExcludeChanged,
     required this.quranIndexLanguage,
@@ -529,8 +543,10 @@ class SidePanel extends StatelessWidget {
                       context, 'Stats', PanelMode.stats, statsCount),
                   _buildTabButton(
                       context, 'Quran', PanelMode.quran, quranEntries.length),
-                  _buildTabButton(context, '⌘Quiz', PanelMode.quiz, 148),
-                  _buildTabButton(context, '⌘Related', PanelMode.related, 148),
+                  _buildTabButton(
+                      context, 'List', PanelMode.quranList, QuranVocabLoader.cachedLemmaCount),
+                  _buildTabButton(context, '⌘Quiz', PanelMode.quiz, 149),
+                  _buildTabButton(context, '⌘Related', PanelMode.related, 149),
                   _buildTabButton(context, 'Alif', PanelMode.alif, alifAlphabet.length),
                   _buildTabButton(
                       context, 'LUTs', PanelMode.luts, availableLuts.length),
@@ -687,6 +703,9 @@ class SidePanel extends StatelessWidget {
       case PanelMode.quran:
         underlineIndex = 0;
         break;
+      case PanelMode.quranList:
+        underlineIndex = 0;
+        break;
       case PanelMode.quiz:
         underlineIndex = 1;
         break;
@@ -822,6 +841,21 @@ class SidePanel extends StatelessWidget {
           onRepeatRangeRequested: onRepeatRangeRequested,
           juzDurations: quranJuzDurations,
         );
+        case PanelMode.quranList:
+          return QuranListPanel(
+            searchController: quranListSearchController,
+            searchFocusNode: quranListSearchFocusNode,
+            searchQuery: quranListSearchQuery,
+            onSearchChanged: onQuranListSearchChanged,
+            onOpenRoot: onOpenRoot,
+            onSearchInQuran: (lemma) {
+              onPanelModeChanged(PanelMode.quran);
+              WidgetsBinding.instance.addPostFrameCallback((_) {
+                (quranPanelKey.currentState as dynamic)
+                    ?.searchWordInTafsir(lemma.arabic);
+              });
+            },
+          );
       case PanelMode.quiz:
         return DeductionQuizPanel(
           isQuranLoaded: isQuranLoaded,

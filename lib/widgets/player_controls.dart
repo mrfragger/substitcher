@@ -1273,7 +1273,7 @@ class PlayerControls extends StatelessWidget {
               ),
               const PopupMenuItem(
                 value: 'open_dir',
-                child: Text('Open Dir of Audiobook (⇧L)'),
+                child: Text('Open Dir of Audiobook (⌘L)'),
               ),
               const PopupMenuItem(
                 value: 'load',

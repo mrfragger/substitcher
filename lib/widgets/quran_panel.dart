@@ -2001,6 +2001,22 @@ class _QuranPanelState extends State<QuranPanel> {
       );
     }
 
+    void searchWordInTafsir(String arabicWord) {
+      setState(() {
+        _tafsirSearchMode = true;
+        if (!_wordByWordMode) {
+          _wordByWordMode = true;
+          _tafsirQuran = true;
+        }
+      });
+      if (_wordAudioIndex == null && !_wordAudioIndexLoading) {
+        _loadWordAudioIndexIfNeeded();
+      }
+      _tafsirSearchController.text = arabicWord;
+      _tafsirSearchFocusNode.requestFocus();
+      _searchTafsirText(arabicWord);
+    }
+
   void _searchForWord(String arabicWord) {
     setState(() {
       _tafsirSearchMode = true;
