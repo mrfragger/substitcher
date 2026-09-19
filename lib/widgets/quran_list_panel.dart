@@ -73,7 +73,7 @@ class _QuranListPanelState extends State<QuranListPanel> {
 
   static const Map<_TierFilter, String> _tierTooltips = {
     _TierFilter.all:
-        '4,832 words (~100% of Quran)',
+        '4,832 unique words (lemmas) ~100% of Quran',
     _TierFilter.platinum:
         '18 words (500+ occurrences)',
     _TierFilter.gold:
@@ -339,54 +339,12 @@ class _QuranListPanelState extends State<QuranListPanel> {
 
         return Column(
           children: [
-            Padding(
-              padding: const EdgeInsets.symmetric(horizontal: 16),
-              child: TextField(
-                controller: widget.searchController,
-                focusNode: widget.searchFocusNode,
-                style: const TextStyle(color: Colors.white, fontSize: 14),
-                decoration: InputDecoration(
-                  hintText: 'Search lemma, root, or gloss...',
-                  hintStyle: const TextStyle(color: Colors.white54),
-                  prefixIcon: const Icon(Icons.search,
-                      color: Colors.white54, size: 20),
-                  suffixIcon: widget.searchQuery.isNotEmpty
-                      ? IconButton(
-                          icon: const Icon(Icons.clear,
-                              color: Colors.white54, size: 20),
-                          onPressed: () {
-                            widget.searchController.clear();
-                            widget.onSearchChanged('');
-                          },
-                        )
-                      : null,
-                  filled: true,
-                  fillColor: Colors.black26,
-                  border: OutlineInputBorder(
-                    borderRadius: BorderRadius.circular(8),
-                    borderSide: BorderSide.none,
-                  ),
-                  contentPadding: const EdgeInsets.symmetric(
-                      horizontal: 12, vertical: 8),
-                ),
-                onChanged: widget.onSearchChanged,
-              ),
-            ),
-            const SizedBox(height: 12),
-            _buildTierAndLangRow(),
+            // Pass the count to the top row
+            _buildTierAndLangRow(filtered.length),
             const SizedBox(height: 8),
             _buildFilterAndSortRow(),
-            const SizedBox(height: 4),
-            Padding(
-              padding: const EdgeInsets.symmetric(horizontal: 16),
-              child: Row(
-                children: [
-                  Text('${filtered.length} words',
-                      style: const TextStyle(color: Colors.white38, fontSize: 12)),
-                ],
-              ),
-            ),
-            const SizedBox(height: 8),
+            const SizedBox(height: 8), // Adjusted spacing
+            // Removed the old word count row from here
             Expanded(
               child: filtered.isEmpty
                   ? const Center(
@@ -434,7 +392,7 @@ class _QuranListPanelState extends State<QuranListPanel> {
     );
   }
 
-  Widget _buildTierAndLangRow() {
+  Widget _buildTierAndLangRow(int wordCount) {
     return Padding(
       padding: const EdgeInsets.symmetric(horizontal: 16),
       child: Row(
@@ -450,11 +408,11 @@ class _QuranListPanelState extends State<QuranListPanel> {
                       width: _rowLabelWidth,
                       child: Text('Tier',
                           style: TextStyle(
-                              color: Colors.lightBlueAccent,
+                              color: Colors.redAccent,
                               fontSize: 11,
                               fontWeight: FontWeight.w600)),
                     ),
-                    const SizedBox(width: 8),
+                    const SizedBox(width: 4),
                     for (final entry in _tierLabels.entries) ...[
                       Tooltip(
                         message: _tierTooltips[entry.key] ?? '',
@@ -481,8 +439,53 @@ class _QuranListPanelState extends State<QuranListPanel> {
               ),
             ),
           ),
-          const SizedBox(width: 12),
-          _langToggle(),
+          Padding(
+            padding: const EdgeInsets.symmetric(horizontal: 12),
+            child: Text(
+              '$wordCount words',
+              style: const TextStyle(
+                color: Colors.redAccent,
+                fontSize: 11,
+                fontWeight: FontWeight.w600,
+              ),
+            ),
+          ),
+          SizedBox(
+            width: 340,
+            height: 36,
+            child: TextField(
+              controller: widget.searchController,
+              focusNode: widget.searchFocusNode,
+              style: const TextStyle(color: Colors.white, fontSize: 13),
+              decoration: InputDecoration(
+                hintText: '/ Search lemma, root, or gloss...',
+                hintStyle: const TextStyle(color: Colors.white54, fontSize: 13),
+                prefixIcon: const Icon(Icons.search,
+                    color: Colors.white54, size: 18),
+                suffixIcon: widget.searchQuery.isNotEmpty
+                    ? IconButton(
+                        icon: const Icon(Icons.clear,
+                            color: Colors.white54, size: 18),
+                        padding: EdgeInsets.zero,
+                        constraints: const BoxConstraints(),
+                        onPressed: () {
+                          widget.searchController.clear();
+                          widget.onSearchChanged('');
+                        },
+                      )
+                    : null,
+                filled: true,
+                fillColor: Colors.black26,
+                border: OutlineInputBorder(
+                  borderRadius: BorderRadius.circular(8),
+                  borderSide: BorderSide.none,
+                ),
+                contentPadding: const EdgeInsets.symmetric(
+                    horizontal: 10, vertical: 8),
+              ),
+              onChanged: widget.onSearchChanged,
+            ),
+          ),
         ],
       ),
     );
@@ -546,11 +549,11 @@ class _QuranListPanelState extends State<QuranListPanel> {
                 width: _rowLabelWidth,
                 child: Text('Type',
                     style: TextStyle(
-                        color: Colors.lightBlueAccent,
+                        color: Colors.redAccent,
                         fontSize: 11,
                         fontWeight: FontWeight.w600)),
               ),
-              const SizedBox(width: 8),
+              const SizedBox(width: 4),
               for (final entry in _filterLabels.entries) ...[
                 _coloredPillButton(
                   label: entry.value,
@@ -563,13 +566,13 @@ class _QuranListPanelState extends State<QuranListPanel> {
                 ),
                 const SizedBox(width: 8),
               ],
-              const SizedBox(width: 12),
+              const SizedBox(width: 6),
               const Text('Sort',
                   style: TextStyle(
-                      color: Colors.lightBlueAccent,
+                      color: Colors.redAccent,
                       fontSize: 11,
                       fontWeight: FontWeight.w600)),
-              const SizedBox(width: 8),
+              const SizedBox(width: 6),
               _pillButton(
                 label: 'Frequency',
                 selected: _sortMode == _SortMode.frequency,
@@ -587,6 +590,8 @@ class _QuranListPanelState extends State<QuranListPanel> {
                   _saveStringPref(_prefSort, _SortMode.az.name);
                 },
               ),
+              const SizedBox(width: 12),
+              _langToggle(),
             ],
           ),
         ),
@@ -602,7 +607,7 @@ class _QuranListPanelState extends State<QuranListPanel> {
     return GestureDetector(
       onTap: onTap,
       child: Container(
-        padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 8),
+        padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 6),
         decoration: BoxDecoration(
           color: selected ? Colors.amber.withAlpha(30) : Colors.transparent,
           borderRadius: BorderRadius.circular(20),
@@ -632,7 +637,7 @@ class _QuranListPanelState extends State<QuranListPanel> {
     return GestureDetector(
       onTap: onTap,
       child: Container(
-        padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 8),
+        padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 6),
         decoration: BoxDecoration(
           color: color.withAlpha(selected ? 45 : 30),
           borderRadius: BorderRadius.circular(20),
