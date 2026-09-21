@@ -3571,7 +3571,7 @@ The 99 Names of Allah
 - #5 As Salaam 	(The Source of Peace) 59:23
 - #6 Al Mu'min 	(The Giver of Faith and Security) 59:23
 - #7 Al Muhaymin 	(The Guardian, The Protector) 59:23
-- #8 Al Azeez 	(The Almighty 3:6; 4:158; 9:40; 48:7
+- #8 Al Azeez 	(The Almighty) 3:6; 4:158; 9:40; 48:7
 - #9 Al Jabbaar 	(The Compeller, The Restorer) 59:23
 - #10 Al Mutakabbir 	(The Supreme, The Majestic) 59:23
 - #11 Al Khaaliq 	(The Creator) 6:102; 13:16; 39:62; 40:62; 59:24
