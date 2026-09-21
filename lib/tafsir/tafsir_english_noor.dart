@@ -17,7 +17,7 @@ const Map<int, String> _noorEnglish = {
   2003:
       "Who believe in the unseen, establish prayer,[9] and spend out of what We[10] have provided for them,\\n\\nFootnotes: [9] At its proper times and according to its specified conditions.\n[10] It is to be noted that the reference of Allāh (Subḥānahu wa taʿālā) to Himself as \"We\" in many Qur’ānic verses is necessarily understood in the Arabic language to denote grandeur and power, as opposed to the more intimate singular form \"I\" used in specific instances.",
   2004:
-      "And who believe in what has been revealed to you, [O Muḥammad], and what was revealed before you, and of the Hereafter they are certain [in faith].",
+      "And who believe in what has been revealed to you, [O Muhammad], and what was revealed before you, and of the Hereafter they are certain [in faith].",
   2005:
       "Those are upon [right] guidance from their Lord, and it is those who are the successful.",
   2006:
@@ -54,7 +54,7 @@ const Map<int, String> _noorEnglish = {
   2022:
       "[He] who made for you the earth a bed [spread out] and the sky a ceiling and sent down from the sky, rain and brought forth thereby fruits as provision for you. So do not attribute to Allāh equals while you know [that there is nothing similar to Him].",
   2023:
-      "And if you are in doubt about what We have sent down [i.e., the Qur’ān] upon Our Servant [i.e., Prophet Muḥammad (ﷺ)], then produce a sūrah the like thereof and call upon your witnesses [i.e., supporters] other than Allāh, if you should be truthful.",
+      "And if you are in doubt about what We have sent down [i.e., the Qur’ān] upon Our Servant [i.e., Prophet Muhammad (ﷺ)], then produce a sūrah the like thereof and call upon your witnesses [i.e., supporters] other than Allāh, if you should be truthful.",
   2024:
       "But if you do not - and you will never be able to - then fear the Fire, whose fuel is people and stones, prepared for the disbelievers.",
   2025:
@@ -68,7 +68,7 @@ const Map<int, String> _noorEnglish = {
   2029:
       "It is He who created for you all of that which is on the earth. Then He directed Himself[16] to the heaven, [His being above all creation], and made them seven heavens, and He is Knowing of all things.\\n\\nFootnotes: [16] See footnote to 2:19.",
   2030:
-      "And [mention, O Muḥammad], when your Lord said to the angels, \"Indeed, I will make upon the earth a successive authority.\"[17] They said, \"Will You place upon it one who causes corruption therein and sheds blood, while we exalt You with praise and declare Your perfection?\"[18] He [Allāh] said, \"Indeed, I know that which you do not know.\"\\n\\nFootnotes: [17] Khalīfah: successor, or generations of man, one following another.\n[18] An additional meaning is \"...and we purify ourselves for You.\"",
+      "And [mention, O Muhammad], when your Lord said to the angels, \"Indeed, I will make upon the earth a successive authority.\"[17] They said, \"Will You place upon it one who causes corruption therein and sheds blood, while we exalt You with praise and declare Your perfection?\"[18] He [Allāh] said, \"Indeed, I know that which you do not know.\"\\n\\nFootnotes: [17] Khalīfah: successor, or generations of man, one following another.\n[18] An additional meaning is \"...and we purify ourselves for You.\"",
   2031:
       "And He taught Adam the names - all of them. Then He showed them to the angels and said, \"Inform Me of the names of these, if you are truthful.\"",
   2032:
@@ -131,7 +131,7 @@ const Map<int, String> _noorEnglish = {
   2061:
       "And [recall] when you said, \"O Moses, we can never endure one [kind of] food. So call upon your Lord to bring forth for us from the earth its green herbs and its cucumbers and its garlic and its lentils and its onions.\" [Moses] said, \"Would you exchange what is better for what is less? Go into [any] settlement and indeed, you will have what you have asked.\" And they were covered with humiliation and poverty and returned with anger from Allāh [upon them]. That was because they [repeatedly] disbelieved in the signs of Allāh and killed the prophets without right. That was because they disobeyed and were [habitually] transgressing.",
   2062:
-      "Indeed, those who believed and those who were Jews or Christians or Sabeans [before Prophet Muḥammad (ﷺ)] - those [among them] who believed in Allāh and the Last Day and did righteousness - will have their reward with their Lord, and no fear will there be concerning them, nor will they grieve[29].\\n\\nFootnotes: [29] After the coming of Prophet Muḥammad (ﷺ) no religion other than Islām is acceptable to Allāh, as stated in 3:85.",
+      "Indeed, those who believed and those who were Jews or Christians or Sabeans [before Prophet Muhammad (ﷺ)] - those [among them] who believed in Allāh and the Last Day and did righteousness - will have their reward with their Lord, and no fear will there be concerning them, nor will they grieve[29].\\n\\nFootnotes: [29] After the coming of Prophet Muhammad (ﷺ) no religion other than Islām is acceptable to Allāh, as stated in 3:85.",
   2063:
       "And [recall] when We took your covenant, [O Children of Israel, to abide by the Torah] and We raised over you the mount, [saying], \"Take what We have given you with determination and remember what is in it that perhaps you may become righteous.\"",
   2064:
@@ -195,13 +195,13 @@ const Map<int, String> _noorEnglish = {
   2093:
       "And [recall] when We took your covenant and raised over you the mount, [saying], \"Take what We have given you with determination and listen.\" They said [instead], \"We hear and disobey.\" And their hearts absorbed [the worship of] the calf because of their disbelief. Say, \"How wretched is that which your faith enjoins upon you, if you should be believers.\"",
   2094:
-      "Say, [O Muḥammad], \"If the home of the Hereafter with Allāh is for you alone and not the [other] people, then wish for death, if you should be truthful.\"",
+      "Say, [O Muhammad], \"If the home of the Hereafter with Allāh is for you alone and not the [other] people, then wish for death, if you should be truthful.\"",
   2095:
       "But never will they wish for it, ever, because of what their hands have put forth. And Allāh is Knowing of the wrongdoers.",
   2096:
       "And you will surely find them the most greedy of people for life - [even] more than those who associate others with Allāh. One of them wishes that he could be granted life a thousand years, but it would not remove him in the least from the [coming] punishment that he should be granted life. And Allāh is Seeing of what they do.",
   2097:
-      "Say, \"Whoever is an enemy to Gabriel - it is [none but] he who has brought it [i.e., the Qur’ān] down upon your heart, [O Muḥammad], by permission of Allāh, confirming that which was before it and as guidance and good tidings for the believers.\"",
+      "Say, \"Whoever is an enemy to Gabriel - it is [none but] he who has brought it [i.e., the Qur’ān] down upon your heart, [O Muhammad], by permission of Allāh, confirming that which was before it and as guidance and good tidings for the believers.\"",
   2098:
       "Whoever is an enemy to Allāh and His angels and His messengers and Gabriel and Michael - then indeed, Allāh is an enemy to the disbelievers.",
   2099:
@@ -245,7 +245,7 @@ const Map<int, String> _noorEnglish = {
   2118:
       "Those who do not know say, \"Why does Allāh not speak to us or there come to us a sign?\" Thus spoke those before them like their words. Their hearts resemble each other. We have shown clearly the signs to a people who are certain [in faith].",
   2119:
-      "Indeed, We have sent you, [O Muḥammad], with the truth as a bringer of good tidings and a warner, and you will not be asked about the companions of Hellfire.",
+      "Indeed, We have sent you, [O Muhammad], with the truth as a bringer of good tidings and a warner, and you will not be asked about the companions of Hellfire.",
   2120:
       "And never will the Jews and the Christians approve of you until you follow their religion. Say, \"Indeed, the guidance of Allāh is the [only] guidance.\" If you were to follow their desires after what has come to you of knowledge, you would have against Allāh no protector or helper.",
   2121:
@@ -255,7 +255,7 @@ const Map<int, String> _noorEnglish = {
   2123:
       "And fear a Day when no soul will suffice for another soul[40] at all, and no compensation will be accepted from it, nor will any intercession benefit it, nor will they be aided.\\n\\nFootnotes: [40] See footnote to 2:48.",
   2124:
-      "And [mention, O Muḥammad], when Abraham was tried by his Lord with words [i.e., commands] and he fulfilled them. [Allāh] said, \"Indeed, I will make you a leader for the people.\" [Abraham] said, \"And of my descendants?\" [Allāh] said, \"My covenant does not include the wrongdoers.\"",
+      "And [mention, O Muhammad], when Abraham was tried by his Lord with words [i.e., commands] and he fulfilled them. [Allāh] said, \"Indeed, I will make you a leader for the people.\" [Abraham] said, \"And of my descendants?\" [Allāh] said, \"My covenant does not include the wrongdoers.\"",
   2125:
       "And [mention] when We made the House [i.e., the Kaʿbah] a place of return for the people and [a place of] security. And take, [O believers], from the standing place of Abraham a place of prayer. And We charged Abraham and Ishmael, [saying], \"Purify My House for those who perform ṭawāf[41] and those who are staying [there] for worship and those who bow and prostrate [in prayer].\"\\n\\nFootnotes: [41] A form of worship particular to the Kaʿbah consisting of going around it in circuits.",
   2126:
@@ -269,7 +269,7 @@ const Map<int, String> _noorEnglish = {
   2130:
       "And who would be averse to the religion of Abraham except one who makes a fool of himself. And We had chosen him in this world, and indeed he, in the Hereafter, will be among the righteous.",
   2131:
-      "When his Lord said to him, \"Submit,\" he said, \"I have submitted [in Islām][45] to the Lord of the worlds.\"\\n\\nFootnotes: [45] The meaning of the word \"Islām\" is \"submission to the will of Allāh.\" This is the way of life ordained by Allāh and taught by all of the prophets from Adam to Muḥammad (ﷺ). A Muslim is one who submits himself to Allāh.",
+      "When his Lord said to him, \"Submit,\" he said, \"I have submitted [in Islām][45] to the Lord of the worlds.\"\\n\\nFootnotes: [45] The meaning of the word \"Islām\" is \"submission to the will of Allāh.\" This is the way of life ordained by Allāh and taught by all of the prophets from Adam to Muhammad (ﷺ). A Muslim is one who submits himself to Allāh.",
   2132:
       "And Abraham instructed his sons [to do the same] and [so did] Jacob, [saying], \"O my sons, indeed Allāh has chosen for you this religion, so do not die except while you are Muslims.\"",
   2133:
@@ -285,9 +285,9 @@ const Map<int, String> _noorEnglish = {
   2138:
       "[And say, \"Ours is] the religion of Allāh. And who is better than Allāh in [ordaining] religion? And we are worshippers of Him.\"",
   2139:
-      "Say, [O Muḥammad], \"Do you argue with us about Allāh while He is our Lord and your Lord? For us are our deeds, and for you are your deeds. And we are sincere [in deed and intention] to Him.\"",
+      "Say, [O Muhammad], \"Do you argue with us about Allāh while He is our Lord and your Lord? For us are our deeds, and for you are your deeds. And we are sincere [in deed and intention] to Him.\"",
   2140:
-      "Or do you say that Abraham and Ishmael and Isaac and Jacob and the Descendants were Jews or Christians? Say, \"Are you more knowing or is Allāh?\" And who is more unjust than one who conceals a testimony[49] he has from Allāh? And Allāh is not unaware of what you do.\\n\\nFootnotes: [49] Statements in previous scriptures attesting to the nature of Allāh's religion (Islām) and the coming of Prophet Muḥammad (ﷺ) .",
+      "Or do you say that Abraham and Ishmael and Isaac and Jacob and the Descendants were Jews or Christians? Say, \"Are you more knowing or is Allāh?\" And who is more unjust than one who conceals a testimony[49] he has from Allāh? And Allāh is not unaware of what you do.\\n\\nFootnotes: [49] Statements in previous scriptures attesting to the nature of Allāh's religion (Islām) and the coming of Prophet Muhammad (ﷺ) .",
   2141:
       "That is a nation which has passed on. It will have [the consequence of] what it earned, and you will have what you have earned. And you will not be asked about what they used to do.",
   2142:
@@ -295,16 +295,16 @@ const Map<int, String> _noorEnglish = {
   2143:
       "And thus We have made you a median [i.e., just] community that you will be witnesses over the people and the Messenger will be a witness over you. And We did not make the qiblah which you used to face except that We might make evident who would follow the Messenger from who would turn back on his heels.[52] And indeed, it is difficult except for those whom Allāh has guided. And never would Allāh have caused you to lose your faith [i.e., your previous prayers]. Indeed Allāh is, to the people, Kind and Merciful.\\n\\nFootnotes: [52] i.e., refuse.",
   2144:
-      "We have certainly seen the turning of your face, [O Muḥammad], toward the heaven, and We will surely turn you to a qiblah with which you will be pleased. So turn your face [i.e., yourself] toward al-Masjid al-Ḥarām.[53] And wherever you [believers] are, turn your faces [i.e., yourselves] toward it [in prayer]. Indeed, those who have been given the Scripture [i.e., the Jews and the Christians] well know that it is the truth from their Lord. And Allāh is not unaware of what they do.\\n\\nFootnotes: [53] The Sacred Mosque in Makkah containing the Kaʿbah.",
+      "We have certainly seen the turning of your face, [O Muhammad], toward the heaven, and We will surely turn you to a qiblah with which you will be pleased. So turn your face [i.e., yourself] toward al-Masjid al-Ḥarām.[53] And wherever you [believers] are, turn your faces [i.e., yourselves] toward it [in prayer]. Indeed, those who have been given the Scripture [i.e., the Jews and the Christians] well know that it is the truth from their Lord. And Allāh is not unaware of what they do.\\n\\nFootnotes: [53] The Sacred Mosque in Makkah containing the Kaʿbah.",
   2145:
       "And if you brought to those who were given the Scripture every sign, they would not follow your qiblah. Nor will you be a follower of their qiblah. Nor would they be followers of one another's qiblah. So if you were to follow their desires after what has come to you of knowledge, indeed, you would then be among the wrongdoers.",
   2146:
-      "Those to whom We gave the Scripture know him [i.e., Prophet Muḥammad (ﷺ)] as they know their own sons. But indeed, a party of them conceal the truth while they know [it].",
+      "Those to whom We gave the Scripture know him [i.e., Prophet Muhammad (ﷺ)] as they know their own sons. But indeed, a party of them conceal the truth while they know [it].",
   2147: "The truth is from your Lord, so never be among the doubters.",
   2148:
       "For each [religious following] is a [prayer] direction toward which it faces. So race to [all that is] good. Wherever you may be, Allāh will bring you forth [for judgement] all together. Indeed, Allāh is over all things competent.",
   2149:
-      "So from wherever you go out [for prayer, O Muḥammad], turn your face toward al-Masjid al-Ḥarām, and indeed, it is the truth from your Lord. And Allāh is not unaware of what you do.",
+      "So from wherever you go out [for prayer, O Muhammad], turn your face toward al-Masjid al-Ḥarām, and indeed, it is the truth from your Lord. And Allāh is not unaware of what you do.",
   2150:
       "And from wherever you go out [for prayer], turn your face toward al-Masjid al-Ḥarām. And wherever you [believers] may be, turn your faces toward it in order that the people will not have any argument against you, except for those of them who commit wrong; so fear them not but fear Me. And [it is] so I may complete My favor upon you and that you may be guided,",
   2151:
@@ -378,13 +378,13 @@ const Map<int, String> _noorEnglish = {
   2185:
       "The month of Ramaḍān [is that] in which was revealed the Qur’ān, a guidance for the people and clear proofs of guidance and criterion. So whoever sights [the crescent of] the month,[66] let him fast it; and whoever is ill or on a journey - then an equal number of other days. Allāh intends for you ease and does not intend for you hardship and [wants] for you to complete the period and to glorify Allāh for that [to] which He has guided you; and perhaps you will be grateful.\\n\\nFootnotes: [66] Also, \"whoever is present during the month.\"",
   2186:
-      "And when My servants ask you, [O Muḥammad], concerning Me - indeed I am near. I respond to the invocation of the supplicant when he calls upon Me. So let them respond to Me [by obedience] and believe in Me that they may be [rightly] guided.",
+      "And when My servants ask you, [O Muhammad], concerning Me - indeed I am near. I respond to the invocation of the supplicant when he calls upon Me. So let them respond to Me [by obedience] and believe in Me that they may be [rightly] guided.",
   2187:
       "It has been made permissible for you the night preceding fasting to go to your wives [for sexual relations]. They are a clothing for you and you are a clothing[67] for them. Allāh knows that you used to deceive yourselves,[68] so He accepted your repentance and forgave you. So now, have relations with them and seek that which Allāh has decreed for you [i.e., offspring]. And eat and drink until the white thread of dawn becomes distinct to you from the black thread [of night]. Then complete the fast until the night [i.e., sunset]. And do not have relations with them as long as you are staying for worship in the mosques. These are the limits [set by] Allāh, so do not approach them. Thus does Allāh make clear His verses [i.e., ordinances] to the people that they may become righteous.\\n\\nFootnotes: [67] Also a source of tranquility and rest.\n[68] Prior to this revelation, marital relations were unlawful during nights preceding fasting. Some were unable to refrain and secretly disobeyed, but they did not deceive Allāh.",
   2188:
       "And do not consume one another's wealth unjustly or send it [in bribery] to the rulers in order that [they might aid] you [to] consume a portion of the wealth of the people in sin, while you know [it is unlawful].",
   2189:
-      "They ask you, [O Muḥammad], about the crescent moons. Say, \"They are measurements of time for the people and for ḥajj [pilgrimage].\" And it is not righteousness to enter houses from the back, but righteousness is [in] one who fears Allāh. And enter houses from their doors. And fear Allāh that you may succeed.",
+      "They ask you, [O Muhammad], about the crescent moons. Say, \"They are measurements of time for the people and for ḥajj [pilgrimage].\" And it is not righteousness to enter houses from the back, but righteousness is [in] one who fears Allāh. And enter houses from their doors. And fear Allāh that you may succeed.",
   2190:
       "Fight in the way of Allāh those who fight against you but do not transgress. Indeed, Allāh does not like transgressors.",
   2191:
@@ -435,7 +435,7 @@ const Map<int, String> _noorEnglish = {
   2214:
       "Or do you think that you will enter Paradise while such [trial] has not yet come to you as came to those who passed on before you? They were touched by poverty and hardship and were shaken until [even their] messenger and those who believed with him said, \"When is the help of Allāh?\" Unquestionably, the help of Allāh is near.",
   2215:
-      "They ask you, [O Muḥammad], what they should spend. Say, \"Whatever you spend of good is [to be] for parents and relatives and orphans and the needy and the traveler. And whatever you do of good - indeed, Allāh is Knowing of it.\"",
+      "They ask you, [O Muhammad], what they should spend. Say, \"Whatever you spend of good is [to be] for parents and relatives and orphans and the needy and the traveler. And whatever you do of good - indeed, Allāh is Knowing of it.\"",
   2216:
       "Battle has been enjoined upon you while it is hateful to you. But perhaps you hate a thing and it is good for you; and perhaps you love a thing and it is bad for you. And Allāh knows, while you know not.",
   2217:
@@ -509,7 +509,7 @@ const Map<int, String> _noorEnglish = {
   2251:
       "So they defeated them by permission of Allāh, and David killed Goliath, and Allāh gave him the kingship and wisdom [i.e., prophethood] and taught him from that which He willed. And if it were not for Allāh checking [some] people by means of others, the earth would have been corrupted, but Allāh is the possessor of bounty for the worlds.",
   2252:
-      "These are the verses of Allāh which We recite to you, [O Muḥammad], in truth. And indeed, you are from among the messengers.",
+      "These are the verses of Allāh which We recite to you, [O Muhammad], in truth. And indeed, you are from among the messengers.",
   2253:
       "Those messengers - some of them We caused to exceed others. Among them were those to whom Allāh spoke, and He raised some of them in degree. And We gave Jesus, the son of Mary, clear proofs, and We supported him with the Pure Spirit [i.e., Gabriel]. If Allāh had willed, those [generations] succeeding them would not have fought each other after the clear proofs had come to them. But they differed, and some of them believed and some of them disbelieved. And if Allāh had willed, they would not have fought each other, but Allāh does what He intends.",
   2254:
@@ -549,7 +549,7 @@ const Map<int, String> _noorEnglish = {
   2271:
       "If you disclose your charitable expenditures, they are good; but if you conceal them and give them to the poor, it is better for you, and He will remove from you some of your misdeeds [thereby]. And Allāh, of what you do, is [fully] Aware.",
   2272:
-      "Not upon you, [O Muḥammad], is [responsibility for] their guidance, but Allāh guides whom He wills. And whatever good you [believers] spend is for yourselves, and you do not spend except seeking the face [i.e., approval] of Allāh. And whatever you spend of good[109] - it will be fully repaid to you, and you will not be wronged.\\n\\nFootnotes: [109] i.e., wealth, property, resources, time, effort, etc.",
+      "Not upon you, [O Muhammad], is [responsibility for] their guidance, but Allāh guides whom He wills. And whatever good you [believers] spend is for yourselves, and you do not spend except seeking the face [i.e., approval] of Allāh. And whatever you spend of good[109] - it will be fully repaid to you, and you will not be wronged.\\n\\nFootnotes: [109] i.e., wealth, property, resources, time, effort, etc.",
   2273:
       "[Charity is] for the poor who have been restricted for the cause of Allāh, unable to move about in the land. An ignorant [person] would think them self-sufficient because of their restraint, but you will know them by their [characteristic] sign. They do not ask people persistently [or at all]. And whatever you spend of good - indeed, Allāh is Knowing of it.",
   2274:
@@ -582,14 +582,14 @@ const Map<int, String> _noorEnglish = {
   3002:
       "Allāh - there is no deity except Him, the Ever-Living, the Self-Sustaining.[114]\\n\\nFootnotes: [114] See footnotes to 2:255.",
   3003:
-      "He has sent down upon you, [O Muḥammad], the Book in truth, confirming what was before it. And He revealed the Torah and the Gospel",
+      "He has sent down upon you, [O Muhammad], the Book in truth, confirming what was before it. And He revealed the Torah and the Gospel",
   3004:
       "Before, as guidance for the people. And He revealed the Criterion [i.e., the Qur’ān]. Indeed, those who disbelieve in the verses of Allāh will have a severe punishment, and Allāh is Exalted in Might, the Owner of Retribution.[115]\\n\\nFootnotes: [115] i.e., He who restores justice by punishing those who persist in wrongdoing, fail to heed warnings and are unrepentant.",
   3005: "Indeed, from Allāh nothing is hidden in the earth nor in the heaven.",
   3006:
       "It is He who forms you in the wombs however He wills. There is no deity except Him, the Exalted in Might, the Wise.",
   3007:
-      "It is He who has sent down to you, [O Muḥammad], the Book; in it are verses [that are] precise - they are the foundation of the Book - and others unspecific.[116] As for those in whose hearts is deviation [from truth], they will follow that of it which is unspecific, seeking discord and seeking an interpretation [suitable to them]. And no one knows its [true] interpretation except Allāh. But those firm in knowledge say, \"We believe in it. All [of it] is from our Lord.\" And no one will be reminded except those of understanding,\\n\\nFootnotes: [116] Those which are stated in such a way that they are open to more than one interpretation or whose meaning is known only to Allāh, such as the opening letters of certain sūrahs.",
+      "It is He who has sent down to you, [O Muhammad], the Book; in it are verses [that are] precise - they are the foundation of the Book - and others unspecific.[116] As for those in whose hearts is deviation [from truth], they will follow that of it which is unspecific, seeking discord and seeking an interpretation [suitable to them]. And no one knows its [true] interpretation except Allāh. But those firm in knowledge say, \"We believe in it. All [of it] is from our Lord.\" And no one will be reminded except those of understanding,\\n\\nFootnotes: [116] Those which are stated in such a way that they are open to more than one interpretation or whose meaning is known only to Allāh, such as the opening letters of certain sūrahs.",
   3008:
       "[Who say], \"Our Lord, let not our hearts deviate after You have guided us and grant us from Yourself mercy. Indeed, You are the Bestower.[117]\\n\\nFootnotes: [117] Who gives and grants continually without being asked.",
   3009:
@@ -621,7 +621,7 @@ const Map<int, String> _noorEnglish = {
   3022:
       "They are the ones whose deeds have become worthless in this world and the Hereafter, and for them there will be no helpers.",
   3023:
-      "Do you not consider, [O Muḥammad], those who were given a portion of the Scripture? They are invited to the Scripture of Allāh that it should arbitrate between them;[120] then a party of them turns away, and they are refusing.\\n\\nFootnotes: [120] Referring to the Jews of Madīnah who refused to implement the rulings given by Allāh in the Torah or to acknowledge the Prophet (ﷺ), whose coming was mentioned therein.",
+      "Do you not consider, [O Muhammad], those who were given a portion of the Scripture? They are invited to the Scripture of Allāh that it should arbitrate between them;[120] then a party of them turns away, and they are refusing.\\n\\nFootnotes: [120] Referring to the Jews of Madīnah who refused to implement the rulings given by Allāh in the Torah or to acknowledge the Prophet (ﷺ), whose coming was mentioned therein.",
   3024:
       "That is because they say, \"Never will the Fire touch us except for [a few] numbered days,\" and [because] they were deluded in their religion by what they were inventing.",
   3025:
@@ -637,7 +637,7 @@ const Map<int, String> _noorEnglish = {
   3030:
       "The Day every soul will find what it has done of good present [before it] and what it has done of evil, it will wish that between itself and that [evil] was a great distance. And Allāh warns you of Himself, and Allāh is Kind to [His] servants.\"",
   3031:
-      "Say, [O Muḥammad], \"If you should love Allāh, then follow me, [so] Allāh will love you and forgive you your sins. And Allāh is Forgiving and Merciful.\"",
+      "Say, [O Muhammad], \"If you should love Allāh, then follow me, [so] Allāh will love you and forgive you your sins. And Allāh is Forgiving and Merciful.\"",
   3032:
       "Say, \"Obey Allāh and the Messenger. But if you turn away - then indeed, Allāh does not like the disbelievers.\"",
   3033:
@@ -645,7 +645,7 @@ const Map<int, String> _noorEnglish = {
   3034:
       "Descendants, some of them from others. And Allāh is Hearing and Knowing.",
   3035:
-      "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\"",
+      "[Mention, O Muhammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\"",
   3036:
       "But when she delivered her, she said, \"My Lord, I have delivered a female.\" And Allāh was most knowing of what she delivered, and the male is not like the female. \"And I have named her Mary, and I seek refuge for her in You and [for] her descendants from Satan, the expelled [from the mercy of Allāh].\"",
   3037:
@@ -663,7 +663,7 @@ const Map<int, String> _noorEnglish = {
   3043:
       "O Mary, be devoutly obedient to your Lord and prostrate and bow with those who bow [in prayer].\"",
   3044:
-      "That is from the news of the unseen which We reveal to you, [O Muḥammad]. And you were not with them when they cast their pens[124] as to which of them should be responsible for Mary. Nor were you with them when they disputed.\\n\\nFootnotes: [124] i.e., threw lots.",
+      "That is from the news of the unseen which We reveal to you, [O Muhammad]. And you were not with them when they cast their pens[124] as to which of them should be responsible for Mary. Nor were you with them when they disputed.\\n\\nFootnotes: [124] i.e., threw lots.",
   3045:
       "[And mention] when the angels said, \"O Mary, indeed Allāh gives you good tidings of a word[125] from Him, whose name will be the Messiah, Jesus, the son of Mary - distinguished in this world and the Hereafter and among those brought near [to Allāh].\\n\\nFootnotes: [125] See footnote to 3:39.",
   3046:
@@ -691,7 +691,7 @@ const Map<int, String> _noorEnglish = {
   3057:
       "But as for those who believed and did righteous deeds, He will give them in full their rewards, and Allāh does not like the wrongdoers.",
   3058:
-      "This is what We recite to you, [O Muḥammad], of [Our] verses and the precise [and wise] message [i.e., the Qur’ān].",
+      "This is what We recite to you, [O Muhammad], of [Our] verses and the precise [and wise] message [i.e., the Qur’ān].",
   3059:
       "Indeed, the example of Jesus to Allāh[127] is like that of Adam. He created him from dust; then He said to him, \"Be,\" and he was.\\n\\nFootnotes: [127] i.e., regarding His creation of him.",
   3060: "The truth is from your Lord, so do not be among the doubters.",
@@ -710,7 +710,7 @@ const Map<int, String> _noorEnglish = {
   3067:
       "Abraham was neither a Jew nor a Christian, but he was one inclining toward truth, a Muslim [submitting to Allāh]. And he was not of the polytheists.[129]\\n\\nFootnotes: [129] Those who associate others with Allāh.",
   3068:
-      "Indeed, the most worthy of Abraham among the people are those who followed him [in submission to Allāh] and this prophet [i.e., Muḥammad (ﷺ)] and those who believe [in his message]. And Allāh is the Ally[130] of the believers.\\n\\nFootnotes: [130] Refer to footnote in verse 2:257.",
+      "Indeed, the most worthy of Abraham among the people are those who followed him [in submission to Allāh] and this prophet [i.e., Muhammad (ﷺ)] and those who believe [in his message]. And Allāh is the Ally[130] of the believers.\\n\\nFootnotes: [130] Refer to footnote in verse 2:257.",
   3069:
       "A faction of the People of the Scripture wish they could mislead you. But they do not mislead except themselves, and they perceive [it] not.",
   3070:
@@ -732,7 +732,7 @@ const Map<int, String> _noorEnglish = {
   3078:
       "And indeed, there is among them a party who alter the Scripture with their tongues so you may think it is from the Scripture, but it is not from the Scripture. And they say, \"This is from Allāh,\" but it is not from Allāh. And they speak untruth about Allāh while they know.",
   3079:
-      "It is not for a human [prophet][134] that Allāh should give him the Scripture[135] and authority and prophethood and then he would say to the people, \"Be servants to me rather than Allāh,\" but [instead, he would say], \"Be pious scholars of the Lord because of what you have taught of the Scripture and because of what you have studied.\"\\n\\nFootnotes: [134] Or any believer.\n[135] Or in the case of Prophet Muḥammad (ﷺ), \"the Book\" (i.e., the Qur’ān) .",
+      "It is not for a human [prophet][134] that Allāh should give him the Scripture[135] and authority and prophethood and then he would say to the people, \"Be servants to me rather than Allāh,\" but [instead, he would say], \"Be pious scholars of the Lord because of what you have taught of the Scripture and because of what you have studied.\"\\n\\nFootnotes: [134] Or any believer.\n[135] Or in the case of Prophet Muhammad (ﷺ), \"the Book\" (i.e., the Qur’ān) .",
   3080:
       "Nor could he order you to take the angels and prophets as lords. Would he order you to disbelief after you had been Muslims?",
   3081:
@@ -760,7 +760,7 @@ const Map<int, String> _noorEnglish = {
   3092:
       "Never will you attain the good [reward][138] until you spend [in the way of Allāh] from that which you love. And whatever you spend - indeed, Allāh is Knowing of it.\\n\\nFootnotes: [138] Another meaning is \"You will never attain righteousness.\"",
   3093:
-      "All food was lawful to the Children of Israel except what Israel [i.e., Jacob] had made unlawful to himself before the Torah was revealed. Say, [O Muḥammad], \"So bring the Torah and recite it, if you should be truthful.\"",
+      "All food was lawful to the Children of Israel except what Israel [i.e., Jacob] had made unlawful to himself before the Torah was revealed. Say, [O Muhammad], \"So bring the Torah and recite it, if you should be truthful.\"",
   3094:
       "And whoever invents about Allāh untruth after that - then those are [truly] the wrongdoers.",
   3095:
@@ -790,7 +790,7 @@ const Map<int, String> _noorEnglish = {
   3107:
       "But as for those whose faces turn white, [they will be] within the mercy of Allāh. They will abide therein eternally.",
   3108:
-      "These are the verses of Allāh. We recite them to you, [O Muḥammad], in truth; and Allāh wants no injustice to the worlds [i.e., His creatures].",
+      "These are the verses of Allāh. We recite them to you, [O Muhammad], in truth; and Allāh wants no injustice to the worlds [i.e., His creatures].",
   3109:
       "To Allāh belongs whatever is in the heavens and whatever is on the earth. And to Allāh will [all] matters be returned.",
   3110:
@@ -816,7 +816,7 @@ const Map<int, String> _noorEnglish = {
   3120:
       "If good touches you, it distresses them; but if harm strikes you, they rejoice at it. And if you are patient and fear Allāh, their plot will not harm you at all. Indeed, Allāh is encompassing of what they do.",
   3121:
-      "And [remember] when you, [O Muḥammad], left your family in the morning to post the believers at their stations for the battle [of Uḥud] - and Allāh is Hearing and Knowing -",
+      "And [remember] when you, [O Muhammad], left your family in the morning to post the believers at their stations for the battle [of Uḥud] - and Allāh is Hearing and Knowing -",
   3122:
       "When two parties among you were about to lose courage, but Allāh was their ally; and upon Allāh the believers should rely.",
   3123:
@@ -830,7 +830,7 @@ const Map<int, String> _noorEnglish = {
   3127:
       "That He might cut down a section of the disbelievers or suppress them so that they turn back disappointed.",
   3128:
-      "Not for you, [O Muḥammad, but for Allāh], is the decision whether He should [cut them down] or forgive them or punish them, for indeed, they are wrongdoers.",
+      "Not for you, [O Muhammad, but for Allāh], is the decision whether He should [cut them down] or forgive them or punish them, for indeed, they are wrongdoers.",
   3129:
       "And to Allāh belongs whatever is in the heavens and whatever is on the earth. He forgives whom He wills and punishes whom He wills. And Allāh is Forgiving and Merciful.",
   3130:
@@ -860,7 +860,7 @@ const Map<int, String> _noorEnglish = {
   3143:
       "And you had certainly wished for death [i.e., martyrdom] before you encountered it, and you have [now] seen it [before you] while you were looking on.",
   3144:
-      "Muḥammad is not but a messenger. [Other] messengers have passed on before him. So if he was to die or be killed, would you turn back on your heels [to unbelief]? And he who turns back on his heels will never harm Allāh at all; but Allāh will reward the grateful.",
+      "Muhammad is not but a messenger. [Other] messengers have passed on before him. So if he was to die or be killed, would you turn back on your heels [to unbelief]? And he who turns back on his heels will never harm Allāh at all; but Allāh will reward the grateful.",
   3145:
       "And it is not [possible] for one to die except by permission of Allāh at a decree determined. And whoever desires the reward of this world - We will give him thereof; and whoever desires the reward of the Hereafter - We will give him thereof. And We will reward the grateful.",
   3146:
@@ -888,7 +888,7 @@ const Map<int, String> _noorEnglish = {
       "And if you are killed in the cause of Allāh or die - then forgiveness from Allāh and mercy are better than whatever they accumulate [in this world].",
   3158: "And whether you die or are killed, unto Allāh you will be gathered.",
   3159:
-      "So by mercy from Allāh, [O Muḥammad], you were lenient with them. And if you had been rude [in speech] and harsh in heart, they would have disbanded from about you. So pardon them and ask forgiveness for them and consult them in the matter. And when you have decided, then rely upon Allāh. Indeed, Allāh loves those who rely [upon Him].",
+      "So by mercy from Allāh, [O Muhammad], you were lenient with them. And if you had been rude [in speech] and harsh in heart, they would have disbanded from about you. So pardon them and ask forgiveness for them and consult them in the matter. And when you have decided, then rely upon Allāh. Indeed, Allāh loves those who rely [upon Him].",
   3160:
       "If Allāh should aid you, no one can overcome you; but if He should forsake you, who is there that can aid you after Him? And upon Allāh let the believers rely.",
   3161:
@@ -922,7 +922,7 @@ const Map<int, String> _noorEnglish = {
   3175:
       "That is only Satan who frightens [you] of his supporters. So fear them not, but fear Me, if you are [indeed] believers.",
   3176:
-      "And do not be grieved, [O Muḥammad], by those who hasten into disbelief. Indeed, they will never harm Allāh at all. Allāh intends that He should give them no share in the Hereafter, and for them is a great punishment.",
+      "And do not be grieved, [O Muhammad], by those who hasten into disbelief. Indeed, they will never harm Allāh at all. Allāh intends that He should give them no share in the Hereafter, and for them is a great punishment.",
   3177:
       "Indeed, those who purchase disbelief [in exchange] for faith - never will they harm Allāh at all, and for them is a painful punishment.",
   3178:
@@ -938,13 +938,13 @@ const Map<int, String> _noorEnglish = {
   3183:
       "[They are] those who said, \"Indeed, Allāh has taken our promise not to believe any messenger until he brings us an offering which fire [from heaven] will consume.\" Say, \"There have already come to you messengers before me with clear proofs and [even] that of which you speak. So why did you kill them, if you should be truthful?\"",
   3184:
-      "Then if they deny you, [O Muḥammad] - so were messengers denied before you, who brought clear proofs and written ordinances and the enlightening Scripture.[151]\\n\\nFootnotes: [151] The unaltered, original Torah and Gospel, which were revealed by Allāh.",
+      "Then if they deny you, [O Muhammad] - so were messengers denied before you, who brought clear proofs and written ordinances and the enlightening Scripture.[151]\\n\\nFootnotes: [151] The unaltered, original Torah and Gospel, which were revealed by Allāh.",
   3185:
       "Every soul will taste death, and you will only be given your [full] compensation on the Day of Resurrection. So he who is drawn away from the Fire and admitted to Paradise has attained [his desire]. And what is the life of this world except the enjoyment of delusion.",
   3186:
       "You will surely be tested in your possessions and in yourselves. And you will surely hear from those who were given the Scripture before you and from those who associate others with Allāh much abuse. But if you are patient and fear Allāh - indeed, that is of the matters [worthy] of resolve.",
   3187:
-      "And [mention, O Muḥammad], when Allāh took a covenant from those who were given the Scripture, [saying], \"You must make it clear [i.e., explain it] to the people and not conceal it.\" But they threw it away behind their backs and exchanged it for a small price. And wretched is that which they purchased.",
+      "And [mention, O Muhammad], when Allāh took a covenant from those who were given the Scripture, [saying], \"You must make it clear [i.e., explain it] to the people and not conceal it.\" But they threw it away behind their backs and exchanged it for a small price. And wretched is that which they purchased.",
   3188:
       "And never think that those who rejoice in what they have perpetrated and like to be praised for what they did not do - never think them [to be] in safety from the punishment, and for them is a painful punishment.",
   3189:
@@ -956,7 +956,7 @@ const Map<int, String> _noorEnglish = {
   3192:
       "Our Lord, indeed whoever You admit to the Fire - You have disgraced him, and for the wrongdoers there are no helpers.",
   3193:
-      "Our Lord, indeed we have heard a caller [i.e., Prophet Muḥammad (ﷺ)] calling to faith, [saying], 'Believe in your Lord,' and we have believed. Our Lord, so forgive us our sins and remove from us our misdeeds and cause us to die among the righteous.",
+      "Our Lord, indeed we have heard a caller [i.e., Prophet Muhammad (ﷺ)] calling to faith, [saying], 'Believe in your Lord,' and we have believed. Our Lord, so forgive us our sins and remove from us our misdeeds and cause us to die among the righteous.",
   3194:
       "Our Lord, and grant us what You promised us through Your messengers and do not disgrace us on the Day of Resurrection. Indeed, You do not fail in [Your] promise.\"",
   3195:
@@ -1052,7 +1052,7 @@ const Map<int, String> _noorEnglish = {
   4040:
       "Indeed, Allāh does not do injustice, [even] as much as an atom's weight; while if there is a good deed, He multiplies it and gives from Himself a great reward.",
   4041:
-      "So how [will it be] when We bring from every nation a witness and We bring you, [O Muḥammad], against these [people] as a witness?",
+      "So how [will it be] when We bring from every nation a witness and We bring you, [O Muhammad], against these [people] as a witness?",
   4042:
       "That Day, those who disbelieved and disobeyed the Messenger will wish they could be covered by the earth. And they will not conceal from Allāh a [single] statement.",
   4043:
@@ -1064,7 +1064,7 @@ const Map<int, String> _noorEnglish = {
   4046:
       "Among the Jews are those who distort words from their [proper] places [i.e., usages] and say, \"We hear and disobey\" and \"Hear but be not heard\" and \"Rāʿinā,\"[190] twisting their tongues and defaming the religion. And if they had said [instead], \"We hear and obey\" and \"Wait for us [to understand],\" it would have been better for them and more suitable. But Allāh has cursed them for their disbelief, so they believe not, except for a few.[191]\\n\\nFootnotes: [190] See footnote to 2:104.\n[191] Or \"except with little belief.\"",
   4047:
-      "O you who were given the Scripture, believe in what We have sent down [to Prophet Muḥammad (ﷺ)], confirming that which is with you, before We obliterate faces and turn them toward their backs or curse them as We cursed the sabbath-breakers.[192] And ever is the matter [i.e., decree] of Allāh accomplished.\\n\\nFootnotes: [192] See 7:163-166.",
+      "O you who were given the Scripture, believe in what We have sent down [to Prophet Muhammad (ﷺ)], confirming that which is with you, before We obliterate faces and turn them toward their backs or curse them as We cursed the sabbath-breakers.[192] And ever is the matter [i.e., decree] of Allāh accomplished.\\n\\nFootnotes: [192] See 7:163-166.",
   4048:
       "Indeed, Allāh does not forgive association with Him, but He forgives what is less than that for whom He wills. And he who associates others with Allāh has certainly fabricated a tremendous sin.",
   4049:
@@ -1080,7 +1080,7 @@ const Map<int, String> _noorEnglish = {
   4054:
       "Or do they envy people for what Allāh has given them of His bounty? But We had already given the family of Abraham the Scripture and wisdom[193] and conferred upon them a great kingdom.\\n\\nFootnotes: [193] Prophetic teachings.",
   4055:
-      "And some among them believed in it,[194] and some among them were averse to it. And sufficient is Hell as a blaze.\\n\\nFootnotes: [194] In what was given to them. Also interpreted as \"in him,\" i.e., Muḥammad (ﷺ).",
+      "And some among them believed in it,[194] and some among them were averse to it. And sufficient is Hell as a blaze.\\n\\nFootnotes: [194] In what was given to them. Also interpreted as \"in him,\" i.e., Muhammad (ﷺ).",
   4056:
       "Indeed, those who disbelieve in Our verses - We will drive them into a fire. Every time their skins are roasted through, We will replace them with other skins so they may taste the punishment. Indeed, Allāh is ever Exalted in Might and Wise.",
   4057:
@@ -1090,7 +1090,7 @@ const Map<int, String> _noorEnglish = {
   4059:
       "O you who have believed, obey Allāh and obey the Messenger and those in authority among you. And if you disagree over anything, refer it to Allāh and the Messenger, if you should believe in Allāh and the Last Day. That is the best [way] and best in result.",
   4060:
-      "Have you not seen those who claim to have believed in what was revealed to you, [O Muḥammad], and what was revealed before you? They wish to refer legislation to ṭāghūt,[195] while they were commanded to reject it; and Satan wishes to lead them far astray.\\n\\nFootnotes: [195] False objects of worship or those transgressors who usurp the divine right of government.",
+      "Have you not seen those who claim to have believed in what was revealed to you, [O Muhammad], and what was revealed before you? They wish to refer legislation to ṭāghūt,[195] while they were commanded to reject it; and Satan wishes to lead them far astray.\\n\\nFootnotes: [195] False objects of worship or those transgressors who usurp the divine right of government.",
   4061:
       "And when it is said to them, \"Come to what Allāh has revealed and to the Messenger,\" you see the hypocrites turning away from you in aversion.",
   4062:
@@ -1098,9 +1098,9 @@ const Map<int, String> _noorEnglish = {
   4063:
       "Those are the ones of whom Allāh knows what is in their hearts, so turn away from them[196] but admonish them and speak to them a far-reaching [i.e., effective] word.\\n\\nFootnotes: [196] i.e., use not violence against them.",
   4064:
-      "And We did not send any messenger except to be obeyed by permission of Allāh. And if, when they wronged themselves, they had come to you, [O Muḥammad], and asked forgiveness of Allāh and the Messenger had asked forgiveness for them, they would have found Allāh Accepting of Repentance and Merciful.",
+      "And We did not send any messenger except to be obeyed by permission of Allāh. And if, when they wronged themselves, they had come to you, [O Muhammad], and asked forgiveness of Allāh and the Messenger had asked forgiveness for them, they would have found Allāh Accepting of Repentance and Merciful.",
   4065:
-      "But no, by your Lord, they will not [truly] believe until they make you, [O Muḥammad], judge concerning that over which they dispute among themselves and then find within themselves no discomfort from what you have judged and submit in [full, willing] submission.",
+      "But no, by your Lord, they will not [truly] believe until they make you, [O Muhammad], judge concerning that over which they dispute among themselves and then find within themselves no discomfort from what you have judged and submit in [full, willing] submission.",
   4066:
       "And if We had decreed upon them, \"Kill yourselves\" or \"Leave your homes,\" they would not have done it, except for a few of them. But if they had done what they were instructed, it would have been better for them and a firmer position [for them in faith].",
   4067: "And then We would have given them from Us a great reward.",
@@ -1125,7 +1125,7 @@ const Map<int, String> _noorEnglish = {
   4078:
       "Wherever you may be, death will overtake you, even if you should be within towers of lofty construction. But if good comes to them, they say, \"This is from Allāh\"; and if evil befalls them, they say,[200] \"This is from you.\" Say, \"All [things] are from Allāh.\" So what is [the matter] with those people that they can hardly understand any statement?\\n\\nFootnotes: [200] Addressing the Prophet (ﷺ).",
   4079:
-      "What comes to you of good is from Allāh, but what comes to you of evil, [O man], is from yourself.[201] And We have sent you, [O Muḥammad], to the people as a messenger, and sufficient is Allāh as Witness.[202]\\n\\nFootnotes: [201] As a result of your mistakes or sins.\n[202] i.e., never absent, always seeing and having complete knowledge of everything within His dominion.",
+      "What comes to you of good is from Allāh, but what comes to you of evil, [O man], is from yourself.[201] And We have sent you, [O Muhammad], to the people as a messenger, and sufficient is Allāh as Witness.[202]\\n\\nFootnotes: [201] As a result of your mistakes or sins.\n[202] i.e., never absent, always seeing and having complete knowledge of everything within His dominion.",
   4080:
       "He who obeys the Messenger has obeyed Allāh; but those who turn away - We have not sent you over them as a guardian.",
   4081:
@@ -1135,7 +1135,7 @@ const Map<int, String> _noorEnglish = {
   4083:
       "And when there comes to them something [i.e., information] about [public] security or fear, they spread it around. But if they had referred it back to the Messenger or to those of authority among them, then the ones who [can] draw correct conclusions from it would have known about it. And if not for the favor of Allāh upon you and His mercy, you would have followed Satan, except for a few.",
   4084:
-      "So fight, [O Muḥammad], in the cause of Allāh; you are not held responsible except for yourself. And encourage the believers [to join you] that perhaps Allāh will restrain the [military] might of those who disbelieve. And Allāh is greater in might and stronger in [exemplary] punishment.[204]\\n\\nFootnotes: [204] Allāh is able to defeat them in such a way as to deter others from attempting anything similar.",
+      "So fight, [O Muhammad], in the cause of Allāh; you are not held responsible except for yourself. And encourage the believers [to join you] that perhaps Allāh will restrain the [military] might of those who disbelieve. And Allāh is greater in might and stronger in [exemplary] punishment.[204]\\n\\nFootnotes: [204] Allāh is able to defeat them in such a way as to deter others from attempting anything similar.",
   4085:
       "Whoever intercedes for a good cause will have a share [i.e., reward] therefrom; and whoever intercedes for an evil cause will have a portion [i.e., burden] therefrom. And ever is Allāh, over all things, a Keeper.[205]\\n\\nFootnotes: [205] Providing, protecting, witnessing, keeping precise records and capable of recompense.",
   4086:
@@ -1177,7 +1177,7 @@ const Map<int, String> _noorEnglish = {
   4104:
       "And do not weaken in pursuit of the enemy. If you should be suffering - so are they suffering as you are suffering, but you expect from Allāh that which they expect not. And Allāh is ever Knowing and Wise.",
   4105:
-      "Indeed, We have revealed to you, [O Muḥammad], the Book in truth so you may judge between the people by that which Allāh has shown you. And do not be for the deceitful an advocate.",
+      "Indeed, We have revealed to you, [O Muhammad], the Book in truth so you may judge between the people by that which Allāh has shown you. And do not be for the deceitful an advocate.",
   4106:
       "And seek forgiveness of Allāh. Indeed, Allāh is ever Forgiving and Merciful.",
   4107:
@@ -1193,7 +1193,7 @@ const Map<int, String> _noorEnglish = {
   4112:
       "But whoever earns an offense or a sin and then blames it on an innocent [person] has taken upon himself a slander and manifest sin.",
   4113:
-      "And if it was not for the favor of Allāh upon you, [O Muḥammad], and His mercy, a group of them would have determined to mislead you. But they do not mislead except themselves, and they will not harm you at all. And Allāh has revealed to you the Book and wisdom and has taught you that which you did not know. And ever has the favor of Allāh upon you been great.",
+      "And if it was not for the favor of Allāh upon you, [O Muhammad], and His mercy, a group of them would have determined to mislead you. But they do not mislead except themselves, and they will not harm you at all. And Allāh has revealed to you the Book and wisdom and has taught you that which you did not know. And ever has the favor of Allāh upon you been great.",
   4114:
       "No good is there in much of their private conversation, except for those who enjoin charity or that which is right or conciliation between people. And whoever does that seeking means to the approval of Allāh - then We are going to give him a great reward.",
   4115:
@@ -1221,7 +1221,7 @@ const Map<int, String> _noorEnglish = {
   4126:
       "And to Allāh belongs whatever is in the heavens and whatever is on the earth. And ever is Allāh, of all things, encompassing.",
   4127:
-      "And they request from you, [O Muḥammad], a [legal] ruling concerning women. Say, \"Allāh gives you a ruling about them and [about] what has been recited to you in the Book concerning the orphan girls to whom you do not give what is decreed for them[219] - and [yet] you desire to marry them - and concerning the oppressed among children and that you maintain for orphans [their rights] in justice.\" And whatever you do of good - indeed, Allāh is ever Knowing of it.\\n\\nFootnotes: [219] i.e., their rights, in general, and their mahr, specifically.",
+      "And they request from you, [O Muhammad], a [legal] ruling concerning women. Say, \"Allāh gives you a ruling about them and [about] what has been recited to you in the Book concerning the orphan girls to whom you do not give what is decreed for them[219] - and [yet] you desire to marry them - and concerning the oppressed among children and that you maintain for orphans [their rights] in justice.\" And whatever you do of good - indeed, Allāh is ever Knowing of it.\\n\\nFootnotes: [219] i.e., their rights, in general, and their mahr, specifically.",
   4128:
       "And if a woman fears from her husband contempt or evasion, there is no sin upon them if they make terms of settlement between them - and settlement is best. And present in [human] souls is stinginess.[220] But if you do good and fear Allāh - then indeed Allāh is ever, of what you do, Aware.\\n\\nFootnotes: [220] i.e., holding on to self-interests.",
   4129:
@@ -1291,9 +1291,9 @@ const Map<int, String> _noorEnglish = {
   4161:
       "And [for] their taking of usury while they had been forbidden from it, and their consuming of the people's wealth unjustly. And We have prepared for the disbelievers among them a painful punishment.",
   4162:
-      "But those firm in knowledge among them and the believers believe in what has been revealed to you, [O Muḥammad], and what was revealed before you. And the establishers of prayer [especially] and the givers of zakāh and the believers in Allāh and the Last Day - those We will give a great reward.",
+      "But those firm in knowledge among them and the believers believe in what has been revealed to you, [O Muhammad], and what was revealed before you. And the establishers of prayer [especially] and the givers of zakāh and the believers in Allāh and the Last Day - those We will give a great reward.",
   4163:
-      "Indeed, We have revealed to you, [O Muḥammad], as We revealed to Noah and the prophets after him. And We revealed to Abraham, Ishmael, Isaac, Jacob, the Descendants,[235] Jesus, Job, Jonah, Aaron, and Solomon; and to David We gave the book [of Psalms].\\n\\nFootnotes: [235] Al-Asbāṭ. See footnote to 2:136.",
+      "Indeed, We have revealed to you, [O Muhammad], as We revealed to Noah and the prophets after him. And We revealed to Abraham, Ishmael, Isaac, Jacob, the Descendants,[235] Jesus, Job, Jonah, Aaron, and Solomon; and to David We gave the book [of Psalms].\\n\\nFootnotes: [235] Al-Asbāṭ. See footnote to 2:136.",
   4164:
       "And [We sent] messengers about whom We have related [their stories] to you before and messengers about whom We have not related to you. And Allāh spoke to Moses with [direct] speech.",
   4165:
@@ -1327,7 +1327,7 @@ const Map<int, String> _noorEnglish = {
   5003:
       "Prohibited to you are dead animals,[241] blood, the flesh of swine, and that which has been dedicated to other than Allāh, and [those animals] killed by strangling or by a violent blow or by a head-long fall or by the goring of horns, and those from which a wild animal has eaten, except what you [are able to] slaughter [before its death], and those which are sacrificed on stone altars,[242] and [prohibited is] that you seek decision through divining arrows. That is grave disobedience. This day those who disbelieve have despaired of [defeating] your religion; so fear them not, but fear Me. This day I have perfected for you your religion and completed My favor upon you and have approved for you Islām as religion. But whoever is forced by severe hunger with no inclination to sin - then indeed, Allāh is Forgiving and Merciful.\\n\\nFootnotes: [241] See footnote to 2:173.\n[242] In the name of anything other than Allāh.",
   5004:
-      "They ask you, [O Muḥammad], what has been made lawful for them. Say, \"Lawful for you are [all] good foods and [game caught by] what you have trained of hunting animals[243] which you train as Allāh has taught you. So eat of what they catch for you, and mention the name of Allāh upon it, and fear Allāh.\" Indeed, Allāh is swift in account.\\n\\nFootnotes: [243] Such as dogs, falcons, etc.",
+      "They ask you, [O Muhammad], what has been made lawful for them. Say, \"Lawful for you are [all] good foods and [game caught by] what you have trained of hunting animals[243] which you train as Allāh has taught you. So eat of what they catch for you, and mention the name of Allāh upon it, and fear Allāh.\" Indeed, Allāh is swift in account.\\n\\nFootnotes: [243] Such as dogs, falcons, etc.",
   5005:
       "This day [all] good foods have been made lawful, and the food of those who were given the Scripture is lawful for you and your food is lawful for them. And [lawful in marriage are] chaste women from among the believers and chaste women from among those who were given the Scripture before you, when you have given them their due compensation,[244] desiring chastity, not unlawful sexual intercourse or taking [secret] lovers. And whoever denies the faith - his work has become worthless, and he, in the Hereafter, will be among the losers.\\n\\nFootnotes: [244] The specified bridal gift (mahr).",
   5006:
@@ -1345,9 +1345,9 @@ const Map<int, String> _noorEnglish = {
   5012:
       "And Allāh had already taken a covenant from the Children of Israel, and We delegated from among them twelve leaders. And Allāh said, \"I am with you. If you establish prayer and give zakāh and believe in My messengers and support them and loan Allāh a goodly loan,[247] I will surely remove from you your misdeeds and admit you to gardens beneath which rivers flow. But whoever of you disbelieves after that has certainly strayed from the soundness of the way.\"\\n\\nFootnotes: [247] By spending in the cause of Allāh, seeking His reward.",
   5013:
-      "So for their breaking of the covenant We cursed them and made their hearts hardened. They distort words from their [proper] places [i.e., usages] and have forgotten a portion of that of which they were reminded.[248] And you will still observe deceit among them, except a few of them. But pardon them and overlook [their misdeeds]. Indeed, Allāh loves the doers of good.\\n\\nFootnotes: [248] In the Torah concerning the coming of Prophet Muḥammad (ﷺ).",
+      "So for their breaking of the covenant We cursed them and made their hearts hardened. They distort words from their [proper] places [i.e., usages] and have forgotten a portion of that of which they were reminded.[248] And you will still observe deceit among them, except a few of them. But pardon them and overlook [their misdeeds]. Indeed, Allāh loves the doers of good.\\n\\nFootnotes: [248] In the Torah concerning the coming of Prophet Muhammad (ﷺ).",
   5014:
-      "And from those who say, \"We are Christians\" We took their covenant; but they forgot a portion of that of which they were reminded.[249] So We caused among them[250] animosity and hatred until the Day of Resurrection. And Allāh is going to inform them about what they used to do.\\n\\nFootnotes: [249] In the Gospel concerning the coming of Prophet Muḥammad (ﷺ).\n[250] i.e., among their various denominations or sects.",
+      "And from those who say, \"We are Christians\" We took their covenant; but they forgot a portion of that of which they were reminded.[249] So We caused among them[250] animosity and hatred until the Day of Resurrection. And Allāh is going to inform them about what they used to do.\\n\\nFootnotes: [249] In the Gospel concerning the coming of Prophet Muhammad (ﷺ).\n[250] i.e., among their various denominations or sects.",
   5015:
       "O People of the Scripture, there has come to you Our Messenger making clear to you much of what you used to conceal of the Scripture and overlooking much.[251] There has come to you from Allāh a light and a clear Book [i.e., the Qur’ān]\\n\\nFootnotes: [251] Of your sin in that regard.",
   5016:
@@ -1359,7 +1359,7 @@ const Map<int, String> _noorEnglish = {
   5019:
       "O People of the Scripture, there has come to you Our Messenger to make clear to you [the religion] after a period [of suspension] of messengers, lest you say, \"There came not to us any bringer of good tidings or a warner.\" But there has come to you a bringer of good tidings and a warner. And Allāh is over all things competent.",
   5020:
-      "And [mention, O Muḥammad], when Moses said to his people, \"O my people, remember the favor of Allāh upon you when He appointed among you prophets and made you possessors[253] and gave you that which He had not given anyone among the worlds.\\n\\nFootnotes: [253] Of all that you need - specifically, homes, wives and servants. Or \"sovereigns,\" i.e., those of independent authority.",
+      "And [mention, O Muhammad], when Moses said to his people, \"O my people, remember the favor of Allāh upon you when He appointed among you prophets and made you possessors[253] and gave you that which He had not given anyone among the worlds.\\n\\nFootnotes: [253] Of all that you need - specifically, homes, wives and servants. Or \"sovereigns,\" i.e., those of independent authority.",
   5021:
       "O my people, enter the blessed land [i.e., Palestine] which Allāh has assigned to you and do not turn back [from fighting in Allāh's cause] and [thus] become losers.\"",
   5022:
@@ -1403,7 +1403,7 @@ const Map<int, String> _noorEnglish = {
   5041:
       "O Messenger, let them not grieve you who hasten into disbelief – of those who say, \"We believe\" with their mouths, but their hearts believe not, and from among the Jews. [They are] avid listeners to falsehood, listening to another people who have not come to you.[264] They distort words beyond their [proper] places [i.e., usages], saying, \"If you are given this,[265] take it; but if you are not given it, then beware.\" But he for whom Allāh intends fitnah[266] - never will you possess [power to do] for him a thing against Allāh. Those are the ones for whom Allāh does not intend to purify their hearts. For them in this world is disgrace, and for them in the Hereafter is a great punishment.\\n\\nFootnotes: [264] They had not attended the Prophet's gatherings or heard his words.\n[265] The legal ruling desired by them.\n[266] The meaning here is misbelief, misconception, or self-delusion as a result of one's own refusal of truth.",
   5042:
-      "[They are] avid listeners to falsehood, devourers of [what is] unlawful. So if they come to you, [O Muḥammad], judge between them or turn away from them. And if you turn away from them - never will they harm you at all. And if you judge, judge between them with justice. Indeed, Allāh loves those who act justly.",
+      "[They are] avid listeners to falsehood, devourers of [what is] unlawful. So if they come to you, [O Muhammad], judge between them or turn away from them. And if you turn away from them - never will they harm you at all. And if you judge, judge between them with justice. Indeed, Allāh loves those who act justly.",
   5043:
       "But how is it that they come to you for judgement while they have the Torah, in which is the judgement of Allāh? Then they turn away, [even] after that; but those are not [in fact] believers.",
   5044:
@@ -1415,9 +1415,9 @@ const Map<int, String> _noorEnglish = {
   5047:
       "And let the People of the Gospel judge by what Allāh has revealed therein. And whoever does not judge by what Allāh has revealed - then it is those who are the defiantly disobedient.",
   5048:
-      "And We have revealed to you, [O Muḥammad], the Book [i.e., the Qur’ān] in truth, confirming that which preceded it of the Scripture and as a criterion over it. So judge between them by what Allāh has revealed and do not follow their inclinations away from what has come to you of the truth. To each of you We prescribed a law and a method.[268] Had Allāh willed, He would have made you one nation [united in religion], but [He intended] to test you in what He has given you; so race to [all that is] good.[269] To Allāh is your return all together, and He will [then] inform you concerning that over which you used to differ.\\n\\nFootnotes: [268] Prior to this revelation, which supersedes all previous scriptures.\n[269] i.e., obedience to Allāh according to what He enjoined in the Qur’ān and through the sunnah of His Prophet (ﷺ).",
+      "And We have revealed to you, [O Muhammad], the Book [i.e., the Qur’ān] in truth, confirming that which preceded it of the Scripture and as a criterion over it. So judge between them by what Allāh has revealed and do not follow their inclinations away from what has come to you of the truth. To each of you We prescribed a law and a method.[268] Had Allāh willed, He would have made you one nation [united in religion], but [He intended] to test you in what He has given you; so race to [all that is] good.[269] To Allāh is your return all together, and He will [then] inform you concerning that over which you used to differ.\\n\\nFootnotes: [268] Prior to this revelation, which supersedes all previous scriptures.\n[269] i.e., obedience to Allāh according to what He enjoined in the Qur’ān and through the sunnah of His Prophet (ﷺ).",
   5049:
-      "And judge, [O Muḥammad], between them by what Allāh has revealed and do not follow their inclinations and beware of them, lest they tempt you away from some of what Allāh has revealed to you. And if they turn away - then know that Allāh only intends to afflict them with some of their [own] sins. And indeed, many among the people are defiantly disobedient.",
+      "And judge, [O Muhammad], between them by what Allāh has revealed and do not follow their inclinations and beware of them, lest they tempt you away from some of what Allāh has revealed to you. And if they turn away - then know that Allāh only intends to afflict them with some of their [own] sins. And indeed, many among the people are defiantly disobedient.",
   5050:
       "Then is it the judgement of [the time of] ignorance they desire? But who is better than Allāh in judgement for a people who are certain [in faith].",
   5051:
@@ -1457,7 +1457,7 @@ const Map<int, String> _noorEnglish = {
   5068:
       "Say, \"O People of the Scripture, you are [standing] on nothing until you uphold [the law of] the Torah, the Gospel, and what has been revealed to you from your Lord [i.e., the Qur’ān].\" And that which has been revealed to you from your Lord will surely increase many of them in transgression and disbelief. So do not grieve over the disbelieving people.",
   5069:
-      "Indeed, those who have believed [in Prophet Muḥammad (ﷺ)] and those [before him (ﷺ)] who were Jews or Sabeans or Christians - those [among them] who believed in Allāh and the Last Day and did righteousness - no fear will there be concerning them, nor will they grieve.[275]\\n\\nFootnotes: [275] See footnote to 2:62.",
+      "Indeed, those who have believed [in Prophet Muhammad (ﷺ)] and those [before him (ﷺ)] who were Jews or Sabeans or Christians - those [among them] who believed in Allāh and the Last Day and did righteousness - no fear will there be concerning them, nor will they grieve.[275]\\n\\nFootnotes: [275] See footnote to 2:62.",
   5070:
       "We had already taken the covenant of the Children of Israel and had sent to them messengers. Whenever there came to them a messenger with what their souls did not desire, a party [of messengers] they denied, and another party they killed.",
   5071:
@@ -1573,7 +1573,7 @@ const Map<int, String> _noorEnglish = {
   6006:
       "Have they not seen how many generations We destroyed before them which We had established upon the earth as We have not established you? And We sent [rain from] the sky upon them in showers and made rivers flow beneath them; then We destroyed them for their sins and brought forth after them a generation of others.",
   6007:
-      "And even if We had sent down to you, [O Muḥammad], a written scripture on a page and they touched it with their hands, the disbelievers would say, \"This is not but obvious magic.\"",
+      "And even if We had sent down to you, [O Muhammad], a written scripture on a page and they touched it with their hands, the disbelievers would say, \"This is not but obvious magic.\"",
   6008:
       "And they say, \"Why was there not sent down to him an angel?\"[294] But if We had sent down an angel, the matter would have been decided;[295] then they would not be reprieved.\\n\\nFootnotes: [294] In support of his prophethood (ﷺ).\n[295] They would have been destroyed immediately with no chance for repentance.",
   6009:
@@ -1587,7 +1587,7 @@ const Map<int, String> _noorEnglish = {
   6013:
       "And to Him belongs that which reposes by night and by day, and He is the Hearing, the Knowing.",
   6014:
-      "Say, \"Is it other than Allāh I should take as a protector, Creator of the heavens and earth, while it is He who feeds and is not fed?\" Say, [O Muḥammad], \"Indeed, I have been commanded to be the first [among you] who submit [to Allāh] and [was commanded], 'Do not ever be of the polytheists.'\"",
+      "Say, \"Is it other than Allāh I should take as a protector, Creator of the heavens and earth, while it is He who feeds and is not fed?\" Say, [O Muhammad], \"Indeed, I have been commanded to be the first [among you] who submit [to Allāh] and [was commanded], 'Do not ever be of the polytheists.'\"",
   6015:
       "Say, \"Indeed I fear, if I should disobey my Lord, the punishment of a tremendous Day.\"",
   6016:
@@ -1599,11 +1599,11 @@ const Map<int, String> _noorEnglish = {
   6019:
       "Say, \"What thing is greatest in testimony?\" Say, \"Allāh is witness between me and you. And this Qur’ān was revealed to me that I may warn you thereby and whomever it reaches.[298] Do you [truly] testify that with Allāh there are other deities?\" Say, \"I will not testify [with you].\" Say, \"Indeed, He is but one God, and indeed, I am free of what you associate [with Him].\"\\n\\nFootnotes: [298] At every time and place until the Day of Judgement.",
   6020:
-      "Those to whom We have given the Scripture recognize it[299] as they recognize their [own] sons. Those who will lose themselves [in the Hereafter] do not believe.\\n\\nFootnotes: [299] The Qur’ān. Also interpreted as \"him,\" meaning Muḥammad (ﷺ).",
+      "Those to whom We have given the Scripture recognize it[299] as they recognize their [own] sons. Those who will lose themselves [in the Hereafter] do not believe.\\n\\nFootnotes: [299] The Qur’ān. Also interpreted as \"him,\" meaning Muhammad (ﷺ).",
   6021:
       "And who is more unjust than one who invents about Allāh a lie or denies His verses? Indeed, the wrongdoers will not succeed.",
   6022:
-      "And [mention, O Muḥammad], the Day We will gather them all together; then We will say to those who associated others with Allāh, \"Where are your 'partners' that you used to claim [with Him]?\"",
+      "And [mention, O Muhammad], the Day We will gather them all together; then We will say to those who associated others with Allāh, \"Where are your 'partners' that you used to claim [with Him]?\"",
   6023:
       "Then there will be no [excuse upon] examination except they will say, \"By Allāh, our Lord, we were not those who associated.\"",
   6024:
@@ -1625,7 +1625,7 @@ const Map<int, String> _noorEnglish = {
   6032:
       "And the worldly life is not but amusement and diversion; but the home of the Hereafter is best for those who fear Allāh, so will you not reason?",
   6033:
-      "We know that you, [O Muḥammad], are saddened by what they say. And indeed, they do not call you untruthful, but it is the verses of Allāh that the wrongdoers reject.",
+      "We know that you, [O Muhammad], are saddened by what they say. And indeed, they do not call you untruthful, but it is the verses of Allāh that the wrongdoers reject.",
   6034:
       "And certainly were messengers denied before you, but they were patient over the denial, and they were harmed until Our victory came to them. And none can alter the words [i.e., decrees] of Allāh. And there has certainly come to you some information about the [previous] messengers.",
   6035:
@@ -1643,7 +1643,7 @@ const Map<int, String> _noorEnglish = {
   6041:
       "No, it is Him [alone] you would invoke, and He would remove that for which you invoked Him if He willed, and you would forget what you associate [with Him].",
   6042:
-      "And We have already sent [messengers] to nations before you, [O Muḥammad]; then We seized them with poverty and hardship that perhaps they might humble themselves [to Us].",
+      "And We have already sent [messengers] to nations before you, [O Muhammad]; then We seized them with poverty and hardship that perhaps they might humble themselves [to Us].",
   6043:
       "Then why, when Our punishment came to them, did they not humble themselves? But their hearts became hardened, and Satan made attractive to them that which they were doing.",
   6044:
@@ -1659,13 +1659,13 @@ const Map<int, String> _noorEnglish = {
   6049:
       "But those who deny Our verses - the punishment will touch[308] them for their defiant disobedience.\\n\\nFootnotes: [308] i.e., reach and afflict.",
   6050:
-      "Say, [O Muḥammad], \"I do not tell you that I have the depositories [containing the provision] of Allāh or that I know the unseen, nor do I tell you that I am an angel. I only follow what is revealed to me.\" Say, \"Is the blind equivalent to the seeing? Then will you not give thought?\"",
+      "Say, [O Muhammad], \"I do not tell you that I have the depositories [containing the provision] of Allāh or that I know the unseen, nor do I tell you that I am an angel. I only follow what is revealed to me.\" Say, \"Is the blind equivalent to the seeing? Then will you not give thought?\"",
   6051:
       "And warn by it [i.e., the Qur’ān] those who fear that they will be gathered before their Lord - for them besides Him will be no protector and no intercessor - that they might become righteous.",
   6052:
       "And do not send away those who call upon their Lord morning and afternoon, seeking His face [i.e., favor]. Not upon you is anything of their account and not upon them is anything of your account.[309] So were you to send them away, you would [then] be of the wrongdoers.\\n\\nFootnotes: [309] No one is held accountable for the deeds or intentions of another. That is left to Allāh's judgement.",
   6053:
-      "And thus We have tried some of them through others that they [i.e., the disbelievers] might say, \"Is it these whom Allāh has favored among us?\" Is not Allāh most knowing of those who are grateful?[310]\\n\\nFootnotes: [310] Those referred to in verses 52-54 are the poor Muslims who were sincere believers and students of the Prophet (ﷺ). The influential leaders of Quraysh had disdained to sit with them, saying to Prophet Muḥammad (ﷺ), \"Perhaps if you evicted them, we would follow you.\"",
+      "And thus We have tried some of them through others that they [i.e., the disbelievers] might say, \"Is it these whom Allāh has favored among us?\" Is not Allāh most knowing of those who are grateful?[310]\\n\\nFootnotes: [310] Those referred to in verses 52-54 are the poor Muslims who were sincere believers and students of the Prophet (ﷺ). The influential leaders of Quraysh had disdained to sit with them, saying to Prophet Muhammad (ﷺ), \"Perhaps if you evicted them, we would follow you.\"",
   6054:
       "And when those come to you who believe in Our verses, say, \"Peace be upon you. Your Lord has decreed upon Himself mercy: that any of you who does wrong out of ignorance and then repents after that and corrects himself - indeed, He is Forgiving and Merciful.\"",
   6055:
@@ -1707,7 +1707,7 @@ const Map<int, String> _noorEnglish = {
   6073:
       "And it is He who created the heavens and earth in truth. And the day [i.e., whenever] He says, \"Be,\" and it is, His word is the truth.[319] And His is the dominion [on] the Day the Horn is blown. [He is] Knower of the unseen[320] and the witnessed;[321] and He is the Wise, the Aware.\\n\\nFootnotes: [319] When interpreted as the \"Day\" (of resurrection), the sentence would read: \"And the Day He says, 'Be,' and it is, His word will be the truth.\"\n[320] That which is absent, invisible, or beyond the perception of the senses or of the mind and therefore is unknown to man, except for what Allāh chooses to reveal.\n[321] What is present, visible and known to man. The knowledge of Allāh (subḥānahu wa taʿālā) includes the reality of all things and all occurrences, no matter how they might appear to human beings.",
   6074:
-      "And [mention, O Muḥammad], when Abraham said to his father Āzar, \"Do you take idols as deities? Indeed, I see you and your people to be in manifest error.\"",
+      "And [mention, O Muhammad], when Abraham said to his father Āzar, \"Do you take idols as deities? Indeed, I see you and your people to be in manifest error.\"",
   6075:
       "And thus did We show Abraham the realm of the heavens and the earth that he would be among the certain [in faith].",
   6076:
@@ -1771,7 +1771,7 @@ const Map<int, String> _noorEnglish = {
   6105:
       "And thus do We diversify the verses so they [i.e., the disbelievers] will say, \"You have studied,\"[336] and so We may make it [i.e., the Qur’ān] clear for a people who know.\\n\\nFootnotes: [336] Accusing the Prophet (ﷺ) of having learned from the Jews and Christians.",
   6106:
-      "Follow, [O Muḥammad], what has been revealed to you from your Lord - there is no deity except Him - and turn away from those who associate others with Allāh.",
+      "Follow, [O Muhammad], what has been revealed to you from your Lord - there is no deity except Him - and turn away from those who associate others with Allāh.",
   6107:
       "But if Allāh had willed, they would not have associated. And We have not appointed you over them as a guardian, nor are you a manager over them.[337]\\n\\nFootnotes: [337] The Prophet's duty did not go beyond delivery of the message.",
   6108:
@@ -1815,7 +1815,7 @@ const Map<int, String> _noorEnglish = {
   6127:
       "For them will be the Home of Peace [i.e., Paradise] with their Lord. And He will be their protecting friend because of what they used to do.",
   6128:
-      "And [mention, O Muḥammad], the Day when He will gather them together [and say], \"O company of jinn, you have [misled] many of mankind.\" And their allies among mankind will say, \"Our Lord, some of us made use of others, and we have [now] reached our term which You appointed for us.\" He will say, \"The Fire is your residence, wherein you will abide eternally, except for what Allāh wills. Indeed, your Lord is Wise and Knowing.\"",
+      "And [mention, O Muhammad], the Day when He will gather them together [and say], \"O company of jinn, you have [misled] many of mankind.\" And their allies among mankind will say, \"Our Lord, some of us made use of others, and we have [now] reached our term which You appointed for us.\" He will say, \"The Fire is your residence, wherein you will abide eternally, except for what Allāh wills. Indeed, your Lord is Wise and Knowing.\"",
   6129:
       "And thus will We make some of the wrongdoers allies of others for what they used to earn.[343]\\n\\nFootnotes: [343] Another interpretation pertaining to this world is \"And thus do We make some of the wrongdoers allies of others for what they have been earning.\"",
   6130:
@@ -1853,13 +1853,13 @@ const Map<int, String> _noorEnglish = {
   6146:
       "And to those who are Jews We prohibited every animal of uncloven hoof; and of the cattle and the sheep We prohibited to them their fat, except what adheres to their backs or the entrails or what is joined with bone. [By] that We repaid them for their transgression. And indeed, We are truthful.",
   6147:
-      "So if they deny you, [O Muḥammad], say, \"Your Lord is the possessor of vast mercy; but His punishment cannot be repelled from the people who are criminals.\"",
+      "So if they deny you, [O Muhammad], say, \"Your Lord is the possessor of vast mercy; but His punishment cannot be repelled from the people who are criminals.\"",
   6148:
       "Those who associated [others] with Allāh will say, \"If Allāh had willed, we would not have associated [anything] and neither would our fathers, nor would we have prohibited anything.\" Likewise did those before deny until they tasted Our punishment. Say, \"Do you have any knowledge that you can produce for us? You follow not except assumption, and you are not but misjudging.\"",
   6149:
       "Say, \"With Allāh is the far-reaching [i.e., conclusive] argument. If He had willed, He would have guided you all.\"",
   6150:
-      "Say, [O Muḥammad], \"Bring forward your witnesses who will testify that Allāh has prohibited this.\" And if they testify, do not testify with them. And do not follow the desires of those who deny Our verses and those who do not believe in the Hereafter, while they equate [others] with their Lord.",
+      "Say, [O Muhammad], \"Bring forward your witnesses who will testify that Allāh has prohibited this.\" And if they testify, do not testify with them. And do not follow the desires of those who deny Our verses and those who do not believe in the Hereafter, while they equate [others] with their Lord.",
   6151:
       "Say, \"Come, I will recite what your Lord has prohibited to you. [He commands] that you not associate anything with Him, and to parents, good treatment, and do not kill your children out of poverty; We will provide for you and them. And do not approach immoralities - what is apparent of them and what is concealed. And do not kill the soul which Allāh has forbidden [to be killed] except by [legal] right. This has He instructed you that you may use reason.\"",
   6152:
@@ -1877,7 +1877,7 @@ const Map<int, String> _noorEnglish = {
   6158:
       "Do they [then] wait for anything except that the angels should come to them or your Lord should come or that there come some of the signs[359] of your Lord? The Day that some of the signs of your Lord will come no soul will benefit from its faith as long as it had not believed before or had earned through its faith some good. Say, \"Wait. Indeed, we [also] are waiting.\"\\n\\nFootnotes: [359] Those denoting the approach of the Last Hour.",
   6159:
-      "Indeed, those who have divided their religion and become sects - you, [O Muḥammad], are not [associated] with them in anything. Their affair is only [left] to Allāh; then He will inform them about what they used to do.",
+      "Indeed, those who have divided their religion and become sects - you, [O Muhammad], are not [associated] with them in anything. Their affair is only [left] to Allāh; then He will inform them about what they used to do.",
   6160:
       "Whoever comes [on the Day of Judgement] with a good deed will have ten times the like thereof [to his credit], and whoever comes with an evil deed will not be recompensed except the like thereof; and they will not be wronged.[360]\\n\\nFootnotes: [360] i.e., treated unjustly.",
   6161:
@@ -1892,7 +1892,7 @@ const Map<int, String> _noorEnglish = {
       "And it is He who has made you successors upon the earth and has raised some of you above others in degrees [of rank] that He may try you through what He has given you. Indeed, your Lord is swift in penalty; but indeed, He is Forgiving and Merciful.",
   7001: "Alif, Lām, Meem, Ṣād.[363]\\n\\nFootnotes: [363] See footnote to 2:1.",
   7002:
-      "[This is] a Book revealed to you, [O Muḥammad] - so let there not be in your breast distress therefrom - that you may warn thereby and as a reminder to the believers.",
+      "[This is] a Book revealed to you, [O Muhammad] - so let there not be in your breast distress therefrom - that you may warn thereby and as a reminder to the believers.",
   7003:
       "Follow, [O mankind], what has been revealed to you from your Lord and do not follow other than Him any allies. Little do you remember.",
   7004:
@@ -1944,7 +1944,7 @@ const Map<int, String> _noorEnglish = {
   7028:
       "And when they commit an immorality, they say, \"We found our fathers doing it, and Allāh has ordered us to do it.\" Say, \"Indeed, Allāh does not order immorality. Do you say about Allāh that which you do not know?\"",
   7029:
-      "Say, [O Muḥammad], \"My Lord has ordered justice and that you direct yourselves [to the Qiblah] at every place [or time] of prostration, and invoke Him, sincere to Him in religion.\" Just as He originated you, you will return [to life] -",
+      "Say, [O Muhammad], \"My Lord has ordered justice and that you direct yourselves [to the Qiblah] at every place [or time] of prostration, and invoke Him, sincere to Him in religion.\" Just as He originated you, you will return [to life] -",
   7030:
       "A group [of you] He guided, and a group deserved [to be in] error. Indeed, they [i.e., the latter] had taken the devils as allies instead of Allāh while they thought that they were guided.",
   7031:
@@ -2088,7 +2088,7 @@ const Map<int, String> _noorEnglish = {
   7100:
       "Has it not become clear to those who inherited the earth after its [previous] people that if We willed, We could afflict them for their sins? But We seal over their hearts so they do not hear.[387]\\n\\nFootnotes: [387] They do not benefit from what they hear.",
   7101:
-      "Those cities - We relate to you, [O Muḥammad], some of their news. And certainly did their messengers come to them with clear proofs, but they were not to believe in that which they had denied before.[388] Thus does Allāh seal over the hearts of the disbelievers.\\n\\nFootnotes: [388] i.e., they persistently denied every warning given them.",
+      "Those cities - We relate to you, [O Muhammad], some of their news. And certainly did their messengers come to them with clear proofs, but they were not to believe in that which they had denied before.[388] Thus does Allāh seal over the hearts of the disbelievers.\\n\\nFootnotes: [388] i.e., they persistently denied every warning given them.",
   7102:
       "And We did not find for most of them any covenant;[389] but indeed, We found most of them defiantly disobedient.\\n\\nFootnotes: [389] i.e., they were found to be unfaithful and negligent of Allāh's covenant.",
   7103:
@@ -2196,13 +2196,13 @@ const Map<int, String> _noorEnglish = {
   7157:
       "Those who follow the Messenger, the unlettered prophet, whom they find written [i.e., described] in what they have of the Torah and the Gospel, who enjoins upon them what is right and prohibits them from what is wrong and makes lawful for them what is good and forbids them from what is evil and relieves them of their burden[410] and the shackles which were upon them.[411] So they who have believed in him, honored him, supported him and followed the light which was sent down with him - it is those who will be the successful.\\n\\nFootnotes: [410] Difficulties in religious practice.\n[411] i.e., extreme measures previously required for repentance, and retribution without recourse to compensation.",
   7158:
-      "Say, [O Muḥammad], \"O mankind, indeed I am the Messenger of Allāh to you all, [from Him] to whom belongs the dominion of the heavens and the earth. There is no deity except Him; He gives life and causes death.\" So believe in Allāh and His Messenger, the unlettered prophet, who believes in Allāh and His words, and follow him that you may be guided.",
+      "Say, [O Muhammad], \"O mankind, indeed I am the Messenger of Allāh to you all, [from Him] to whom belongs the dominion of the heavens and the earth. There is no deity except Him; He gives life and causes death.\" So believe in Allāh and His Messenger, the unlettered prophet, who believes in Allāh and His words, and follow him that you may be guided.",
   7159:
-      "And among the people of Moses is a community[412] which guides by truth and by it establishes justice.\\n\\nFootnotes: [412] Those of them who accepted and followed the final prophet, Muḥammad (ﷺ).",
+      "And among the people of Moses is a community[412] which guides by truth and by it establishes justice.\\n\\nFootnotes: [412] Those of them who accepted and followed the final prophet, Muhammad (ﷺ).",
   7160:
       "And We divided them into twelve descendant tribes[413] [as distinct] nations. And We inspired to Moses when his people implored him for water, \"Strike with your staff the stone,\" and there gushed forth from it twelve springs. Every people [i.e., tribe] knew its watering place. And We shaded them with clouds and sent down upon them manna and quails, [saying], \"Eat from the good things with which We have provided you.\" And they wronged Us not, but they were [only] wronging themselves.\\n\\nFootnotes: [413] From the twelve sons of Jacob.",
   7161:
-      "And [mention, O Muḥammad], when it was said to them, \"Dwell in this city [i.e., Jerusalem] and eat from it wherever you will and say, 'Relieve us of our burdens [i.e., sins],' and enter the gate bowing humbly; We will [then] forgive you your sins. We will increase the doers of good [in goodness and reward].\"",
+      "And [mention, O Muhammad], when it was said to them, \"Dwell in this city [i.e., Jerusalem] and eat from it wherever you will and say, 'Relieve us of our burdens [i.e., sins],' and enter the gate bowing humbly; We will [then] forgive you your sins. We will increase the doers of good [in goodness and reward].\"",
   7162:
       "But those who wronged among them changed [the words] to a statement other than that which had been said to them. So We sent upon them a punishment from the sky for the wrong that they were doing.",
   7163:
@@ -2230,7 +2230,7 @@ const Map<int, String> _noorEnglish = {
   7174:
       "And thus do We [explain in] detail the verses, and perhaps they will return.[417]\\n\\nFootnotes: [417] To the way of Allāh (subḥānahu wa taʿālā), from their diversions and deviations.",
   7175:
-      "And recite to them, [O Muḥammad], the news of him[418] to whom We gave [knowledge of] Our signs, but he detached himself from them; so Satan pursued him, and he became of the deviators.[419]\\n\\nFootnotes: [418] A man from the Children of Israel at the time of Moses.\n[419] Those who deliberately persist in error to the point of destruction.",
+      "And recite to them, [O Muhammad], the news of him[418] to whom We gave [knowledge of] Our signs, but he detached himself from them; so Satan pursued him, and he became of the deviators.[419]\\n\\nFootnotes: [418] A man from the Children of Israel at the time of Moses.\n[419] Those who deliberately persist in error to the point of destruction.",
   7176:
       "And if We had willed, We could have elevated him thereby,[420] but he adhered [instead] to the earth[421] and followed his own desire. So his example is like that of the dog: if you chase him, he pants, or if you leave him, he [still] pants. That is the example of the people who denied Our signs.[422] So relate the stories that perhaps they will give thought.\\n\\nFootnotes: [420] i.e., through the revelations, signs or evidences of which he had been given knowledge.\n[421] i.e., its worldly pleasures.\n[422] Whether or not they have been exposed to Allāh's signs or warnings, it is all the same: they will not believe.",
   7177:
@@ -2242,18 +2242,18 @@ const Map<int, String> _noorEnglish = {
   7180:
       "And to Allāh belong the best names, so invoke Him by them. And leave [the company of] those who practice deviation concerning His names.[425] They will be recompensed for what they have been doing.\\n\\nFootnotes: [425] i.e., use them improperly or deny them.",
   7181:
-      "And among those We created is a community[426] which guides by truth and thereby establishes justice.\\n\\nFootnotes: [426] The followers of Prophet Muḥammad (ﷺ).",
+      "And among those We created is a community[426] which guides by truth and thereby establishes justice.\\n\\nFootnotes: [426] The followers of Prophet Muhammad (ﷺ).",
   7182:
       "But those who deny Our signs - We will progressively lead them [to destruction][427] from where they do not know.\\n\\nFootnotes: [427] Allāh will test them with one favor after another in spite of their disobedience, which only increases them in arrogance and sin.",
   7183: "And I will give them time. Indeed, My plan is firm.",
   7184:
-      "Then do they not give thought? There is in their companion [i.e., Muḥammad (ﷺ)] no madness. He is not but a clear warner.",
+      "Then do they not give thought? There is in their companion [i.e., Muhammad (ﷺ)] no madness. He is not but a clear warner.",
   7185:
       "Do they not look into the realm of the heavens and the earth and everything that Allāh has created and [think] that perhaps their appointed time has come near? So in what statement [i.e., message] hereafter will they believe?",
   7186:
       "Whoever Allāh sends astray - there is no guide for him. And He leaves them in their transgression, wandering blindly.",
   7187:
-      "They ask you, [O Muḥammad], about the Hour: when is its arrival?[428] Say, \"Its knowledge is only with my Lord. None will reveal its time except Him. It lays heavily[429] upon the heavens and the earth. It will not come upon you except unexpectedly.\" They ask you as if you are familiar with it. Say, \"Its knowledge is only with Allāh, but most of the people do not know.\"\\n\\nFootnotes: [428] Literally, \"resting\" or \"establishment.\"\n[429] i.e., it is a source of concern, worry or fear.",
+      "They ask you, [O Muhammad], about the Hour: when is its arrival?[428] Say, \"Its knowledge is only with my Lord. None will reveal its time except Him. It lays heavily[429] upon the heavens and the earth. It will not come upon you except unexpectedly.\" They ask you as if you are familiar with it. Say, \"Its knowledge is only with Allāh, but most of the people do not know.\"\\n\\nFootnotes: [428] Literally, \"resting\" or \"establishment.\"\n[429] i.e., it is a source of concern, worry or fear.",
   7188:
       "Say, \"I hold not for myself [the power of] benefit or harm, except what Allāh has willed. And if I knew the unseen, I could have acquired much wealth, and no harm would have touched me. I am not except a warner and a bringer of good tidings to a people who believe.\"",
   7189:
@@ -2269,7 +2269,7 @@ const Map<int, String> _noorEnglish = {
   7194:
       "Indeed, those you [polytheists] call upon besides Allāh are servants [i.e., creations] like you. So call upon them and let them respond to you, if you should be truthful.",
   7195:
-      "Do they have feet by which they walk? Or do they have hands by which they strike? Or do they have eyes by which they see? Or do they have ears by which they hear? Say, [O Muḥammad], \"Call your 'partners' and then conspire against me and give me no respite.",
+      "Do they have feet by which they walk? Or do they have hands by which they strike? Or do they have eyes by which they see? Or do they have ears by which they hear? Say, [O Muhammad], \"Call your 'partners' and then conspire against me and give me no respite.",
   7196:
       "Indeed, my protector is Allāh, who has sent down the Book; and He is an ally to the righteous.",
   7197:
@@ -2285,7 +2285,7 @@ const Map<int, String> _noorEnglish = {
   7202:
       "But their brothers[435] - they [i.e., the devils] increase them in error; then they do not stop short.\\n\\nFootnotes: [435] Those among mankind who listen to the devils and obey their orders.",
   7203:
-      "And when you, [O Muḥammad], do not bring them a sign [i.e., miracle], they say, \"Why have you not contrived it?\" Say, \"I only follow what is revealed to me from my Lord. This [Qur’ān] is enlightenment from your Lord and guidance and mercy for a people who believe.\"",
+      "And when you, [O Muhammad], do not bring them a sign [i.e., miracle], they say, \"Why have you not contrived it?\" Say, \"I only follow what is revealed to me from my Lord. This [Qur’ān] is enlightenment from your Lord and guidance and mercy for a people who believe.\"",
   7204:
       "So when the Qur’ān is recited, then listen to it and pay attention that you may receive mercy.",
   7205:
@@ -2293,7 +2293,7 @@ const Map<int, String> _noorEnglish = {
   7206:
       "Indeed, those who are near your Lord [i.e., the angels] are not prevented by arrogance from His worship, and they exalt Him, and to Him they prostrate.",
   8001:
-      "They ask you, [O Muḥammad], about the bounties [of war]. Say, \"The [decision concerning] bounties is for Allāh and the Messenger.\" So fear Allāh and amend that which is between you and obey Allāh and His Messenger, if you should be believers.",
+      "They ask you, [O Muhammad], about the bounties [of war]. Say, \"The [decision concerning] bounties is for Allāh and the Messenger.\" So fear Allāh and amend that which is between you and obey Allāh and His Messenger, if you should be believers.",
   8002:
       "The believers are only those who, when Allāh is mentioned, their hearts become fearful, and when His verses are recited to them, it increases them in faith; and upon their Lord they rely -",
   8003:
@@ -2325,7 +2325,7 @@ const Map<int, String> _noorEnglish = {
   8016:
       "And whoever turns his back to them on such a day, unless swerving [as a strategy] for war or joining [another] company, has certainly returned with anger [upon him] from Allāh, and his refuge is Hell - and wretched is the destination.",
   8017:
-      "And you did not kill them, but it was Allāh who killed them.[440] And you threw not, [O Muḥammad], when you threw, but it was Allāh who threw[441] that He might test the believers with a good test.[442] Indeed, Allāh is Hearing and Knowing.\\n\\nFootnotes: [440] i.e., Your strength was insufficient to overcome them, but Allāh supported you and gave you victory.\n[441] When the Prophet (ﷺ) threw a handful of dust into the faces of the disbelievers, Allāh caused it to fill the eyes and nose of every soldier, preventing their advance.\n[442] So that they would appreciate Allāh's favor to them.",
+      "And you did not kill them, but it was Allāh who killed them.[440] And you threw not, [O Muhammad], when you threw, but it was Allāh who threw[441] that He might test the believers with a good test.[442] Indeed, Allāh is Hearing and Knowing.\\n\\nFootnotes: [440] i.e., Your strength was insufficient to overcome them, but Allāh supported you and gave you victory.\n[441] When the Prophet (ﷺ) threw a handful of dust into the faces of the disbelievers, Allāh caused it to fill the eyes and nose of every soldier, preventing their advance.\n[442] So that they would appreciate Allāh's favor to them.",
   8018:
       "That [is so], and [also] that Allāh will weaken the plot of the disbelievers.",
   8019:
@@ -2351,13 +2351,13 @@ const Map<int, String> _noorEnglish = {
   8029:
       "O you who have believed, if you fear Allāh, He will grant you a criterion[444] and will remove from you your misdeeds and forgive you. And Allāh is the possessor of great bounty.\\n\\nFootnotes: [444] By which to judge between truth and falsehood. Also interpreted as a \"way out\" of difficulties.",
   8030:
-      "And [remember, O Muḥammad], when those who disbelieved plotted against you to restrain you or kill you or evict you [from Makkah]. But they plan, and Allāh plans. And Allāh is the best of planners.",
+      "And [remember, O Muhammad], when those who disbelieved plotted against you to restrain you or kill you or evict you [from Makkah]. But they plan, and Allāh plans. And Allāh is the best of planners.",
   8031:
       "And when Our verses are recited to them, they say, \"We have heard. If we willed, we could say [something] like this. This is not but legends of the former peoples.\"",
   8032:
       "And [remember] when they said, \"O Allāh, if this should be the truth from You, then rain down upon us stones from the sky or bring us a painful punishment.\"",
   8033:
-      "But Allāh would not punish them while you, [O Muḥammad], are among them, and Allāh would not punish them while they seek forgiveness.",
+      "But Allāh would not punish them while you, [O Muhammad], are among them, and Allāh would not punish them while they seek forgiveness.",
   8034:
       "But why should Allāh not punish them while they obstruct [people] from al-Masjid al-Ḥarām and they were not [fit to be] its guardians? Its [true] guardians are not but the righteous, but most of them do not know.",
   8035:
@@ -2373,11 +2373,11 @@ const Map<int, String> _noorEnglish = {
   8040:
       "But if they turn away - then know that Allāh is your protector. Excellent is the protector, and excellent is the helper.",
   8041:
-      "And know that anything you obtain of war booty - then indeed, for Allāh is one fifth of it and for the Messenger[448] and for [his] near relatives[449] and the orphans, the needy, and the [stranded] traveler,[450] if you have believed in Allāh and in that which We sent down to Our Servant[451] on the day of criterion [i.e., decisive encounter] - the day when the two armies met [at Badr]. And Allāh, over all things, is competent.\\n\\nFootnotes: [448] To be spent in Allāh's cause.\n[449] The tribes of Banū Hāshim and Banū Muṭṭalib, who were not eligible for zakāh.\n[450] The remaining four fifths are divided among the soldiers.\n[451] Prophet Muḥammad (ﷺ).",
+      "And know that anything you obtain of war booty - then indeed, for Allāh is one fifth of it and for the Messenger[448] and for [his] near relatives[449] and the orphans, the needy, and the [stranded] traveler,[450] if you have believed in Allāh and in that which We sent down to Our Servant[451] on the day of criterion [i.e., decisive encounter] - the day when the two armies met [at Badr]. And Allāh, over all things, is competent.\\n\\nFootnotes: [448] To be spent in Allāh's cause.\n[449] The tribes of Banū Hāshim and Banū Muṭṭalib, who were not eligible for zakāh.\n[450] The remaining four fifths are divided among the soldiers.\n[451] Prophet Muhammad (ﷺ).",
   8042:
       "[Remember] when you were on the near side of the valley, and they were on the farther side, and the caravan was lower [in position] than you. If you had made an appointment [to meet], you would have missed the appointment. But [it was] so that Allāh might accomplish a matter already destined - that those who perished [through disbelief] would perish upon evidence and those who lived [in faith] would live upon evidence; and indeed, Allāh is Hearing and Knowing.",
   8043:
-      "[Remember, O Muḥammad], when Allāh showed them to you in your dream as few; and if He had shown them to you as many, you [believers] would have lost courage and would have disputed in the matter [of whether to fight], but Allāh saved [you from that]. Indeed, He is Knowing of that within the breasts.",
+      "[Remember, O Muhammad], when Allāh showed them to you in your dream as few; and if He had shown them to you as many, you [believers] would have lost courage and would have disputed in the matter [of whether to fight], but Allāh saved [you from that]. Indeed, He is Knowing of that within the breasts.",
   8044:
       "And [remember] when He showed them to you, when you met, as few in your eyes, and He made you [appear] as few in their eyes so that Allāh might accomplish a matter already destined. And to Allāh are [all] matters returned.",
   8045:
@@ -2405,7 +2405,7 @@ const Map<int, String> _noorEnglish = {
   8056:
       "The ones with whom you made a treaty but then they break their pledge every time, and they do not fear Allāh.",
   8057:
-      "So if you, [O Muḥammad], gain dominance over them in war, disperse by [means of] them those behind them that perhaps they will be reminded.[454]\\n\\nFootnotes: [454] i.e., kill them and make an example of them to discourage those who follow them.",
+      "So if you, [O Muhammad], gain dominance over them in war, disperse by [means of] them those behind them that perhaps they will be reminded.[454]\\n\\nFootnotes: [454] i.e., kill them and make an example of them to discourage those who follow them.",
   8058:
       "If you [have reason to] fear from a people betrayal, throw [their treaty] back to them, [putting you] on equal terms.[455] Indeed, Allāh does not like traitors.\\n\\nFootnotes: [455] When you see signs of treachery from those with whom you have made a treaty, announce to them its dissolution so they will know exactly where they stand.",
   8059:
@@ -2489,7 +2489,7 @@ const Map<int, String> _noorEnglish = {
   9023:
       "O you who have believed, do not take your fathers or your brothers as allies if they have preferred disbelief over belief. And whoever does so among you - then it is those who are the wrongdoers.",
   9024:
-      "Say, [O Muḥammad], \"If your fathers, your sons, your brothers, your wives, your relatives, wealth which you have obtained, commerce wherein you fear decline, and dwellings with which you are pleased are more beloved to you than Allāh and His Messenger and jihād [i.e., striving] in His cause, then wait until Allāh executes His command. And Allāh does not guide the defiantly disobedient people.\"",
+      "Say, [O Muhammad], \"If your fathers, your sons, your brothers, your wives, your relatives, wealth which you have obtained, commerce wherein you fear decline, and dwellings with which you are pleased are more beloved to you than Allāh and His Messenger and jihād [i.e., striving] in His cause, then wait until Allāh executes His command. And Allāh does not guide the defiantly disobedient people.\"",
   9025:
       "Allāh has already given you victory in many regions and [even] on the day of Ḥunayn, when your great number pleased you, but it did not avail you at all, and the earth was confining for you with [i.e., in spite of] its vastness; then you turned back, fleeing.",
   9026:
@@ -2521,13 +2521,13 @@ const Map<int, String> _noorEnglish = {
   9039:
       "If you do not go forth, He will punish you with a painful punishment and will replace you with another people, and you will not harm Him at all. And Allāh is over all things competent.",
   9040:
-      "If you do not aid him [i.e., the Prophet (ﷺ)] - Allāh has already aided him when those who disbelieved had driven him out [of Makkah] as one of two,[476] when they were in the cave and he [i.e., Muḥammad (ﷺ)] said to his companion, \"Do not grieve; indeed Allāh is with us.\" And Allāh sent down His tranquility upon him and supported him with soldiers [i.e., angels] you did not see and made the word[477] of those who disbelieved the lowest,[478] while the word of Allāh[479] - that is the highest. And Allāh is Exalted in Might and Wise.\\n\\nFootnotes: [476] The second was his companion, Abū Bakr.\n[477] i.e., their claims and slogans.\n[478] i.e., degraded and dishonored.\n[479] \"Lā ilāha ill-Allāh\" (\"There is no deity except Allāh\").",
+      "If you do not aid him [i.e., the Prophet (ﷺ)] - Allāh has already aided him when those who disbelieved had driven him out [of Makkah] as one of two,[476] when they were in the cave and he [i.e., Muhammad (ﷺ)] said to his companion, \"Do not grieve; indeed Allāh is with us.\" And Allāh sent down His tranquility upon him and supported him with soldiers [i.e., angels] you did not see and made the word[477] of those who disbelieved the lowest,[478] while the word of Allāh[479] - that is the highest. And Allāh is Exalted in Might and Wise.\\n\\nFootnotes: [476] The second was his companion, Abū Bakr.\n[477] i.e., their claims and slogans.\n[478] i.e., degraded and dishonored.\n[479] \"Lā ilāha ill-Allāh\" (\"There is no deity except Allāh\").",
   9041:
       "Go forth, whether light or heavy,[480] and strive with your wealth and your lives in the cause of Allāh. That is better for you, if you only knew.\\n\\nFootnotes: [480] i.e., young or old, riding or walking, in ease or in hardship - in all circumstances and conditions.",
   9042:
       "Had it been a near [i.e., easy] gain and a moderate trip, they [i.e., the hypocrites] would have followed you, but distant to them was the journey. And they will swear by Allāh,[481] \"If we were able, we would have gone forth with you,\" destroying themselves [through false oaths], and Allāh knows that indeed they are liars.\\n\\nFootnotes: [481] When you return from the Tabūk expedition.",
   9043:
-      "Allāh has pardoned you, [O Muḥammad, but] why did you give them permission [to remain behind]? [You should not have] until it was evident to you who were truthful and you knew [who were] the liars.",
+      "Allāh has pardoned you, [O Muhammad, but] why did you give them permission [to remain behind]? [You should not have] until it was evident to you who were truthful and you knew [who were] the liars.",
   9044:
       "Those who believe in Allāh and the Last Day would not ask permission of you to be excused from striving [i.e., fighting] with their wealth and their lives. And Allāh is Knowing of those who fear Him.",
   9045:
@@ -2589,7 +2589,7 @@ const Map<int, String> _noorEnglish = {
   9073:
       "O Prophet, fight against the disbelievers and the hypocrites and be harsh upon them. And their refuge is Hell, and wretched is the destination.",
   9074:
-      "They swear by Allāh that they did not say [anything against the Prophet (ﷺ)] while they had said the word of disbelief and disbelieved after their [pretense of] Islām and planned that which they were not to attain.[493] And they were not resentful except [for the fact] that Allāh and His Messenger had enriched them of His bounty.[494] So if they repent, it is better for them; but if they turn away, Allāh will punish them with a painful punishment in this world and the Hereafter. And there will not be for them on earth any protector or helper.\\n\\nFootnotes: [493] i.e., the murder of Prophet Muḥammad (ﷺ).\n[494] i.e., for no reason. On the contrary, they should have been grateful.",
+      "They swear by Allāh that they did not say [anything against the Prophet (ﷺ)] while they had said the word of disbelief and disbelieved after their [pretense of] Islām and planned that which they were not to attain.[493] And they were not resentful except [for the fact] that Allāh and His Messenger had enriched them of His bounty.[494] So if they repent, it is better for them; but if they turn away, Allāh will punish them with a painful punishment in this world and the Hereafter. And there will not be for them on earth any protector or helper.\\n\\nFootnotes: [493] i.e., the murder of Prophet Muhammad (ﷺ).\n[494] i.e., for no reason. On the contrary, they should have been grateful.",
   9075:
       "And among them are those who made a covenant with Allāh, [saying], \"If He should give us from His bounty, we will surely spend in charity, and we will surely be among the righteous.\"",
   9076:
@@ -2601,7 +2601,7 @@ const Map<int, String> _noorEnglish = {
   9079:
       "Those who criticize the contributors among the believers concerning [their] charities and [criticize] the ones who find nothing [to spend] except their effort, so they ridicule them - Allāh will ridicule them, and they will have a painful punishment.",
   9080:
-      "Ask forgiveness for them, [O Muḥammad], or do not ask forgiveness for them. If you should ask forgiveness for them seventy times - never will Allāh forgive them. That is because they disbelieved in Allāh and His Messenger, and Allāh does not guide the defiantly disobedient people.",
+      "Ask forgiveness for them, [O Muhammad], or do not ask forgiveness for them. If you should ask forgiveness for them seventy times - never will Allāh forgive them. That is because they disbelieved in Allāh and His Messenger, and Allāh does not guide the defiantly disobedient people.",
   9081:
       "Those who remained behind[495] rejoiced in their staying [at home] after [the departure of] the Messenger of Allāh and disliked to strive with their wealth and their lives in the cause of Allāh and said, \"Do not go forth in the heat.\" Say, \"The fire of Hell is more intense in heat\" - if they would but understand.\\n\\nFootnotes: [495] Literally, \"were left behind [as Allāh willed]\" due to their false excuses having been accepted by the Prophet (ﷺ). While pleased with their assumed deception, in reality, Allāh had prevented their participation knowing of their hypocrisy and evil intent.",
   9082:
@@ -2609,7 +2609,7 @@ const Map<int, String> _noorEnglish = {
   9083:
       "If Allāh should return you to a faction of them [after the expedition] and then they ask your permission to go out [to battle], say, \"You will not go out with me, ever, and you will never fight with me an enemy. Indeed, you were satisfied with sitting [at home] the first time, so sit [now] with those who stay behind.\"",
   9084:
-      "And do not pray [the funeral prayer, O Muḥammad], over any of them who has died - ever - or stand at his grave. Indeed, they disbelieved in Allāh and His Messenger and died while they were defiantly disobedient.",
+      "And do not pray [the funeral prayer, O Muhammad], over any of them who has died - ever - or stand at his grave. Indeed, they disbelieved in Allāh and His Messenger and died while they were defiantly disobedient.",
   9085:
       "And let not their wealth and their children impress you. Allāh only intends to punish them through them in this world and that their souls should depart [at death] while they are disbelievers.",
   9086:
@@ -2643,11 +2643,11 @@ const Map<int, String> _noorEnglish = {
   9100:
       "And the first forerunners [in the faith] among the Muhājireen[500] and the Anṣār[501] and those who followed them with good conduct - Allāh is pleased with them and they are pleased with Him, and He has prepared for them gardens beneath which rivers flow, wherein they will abide forever. That is the great attainment.\\n\\nFootnotes: [500] Those who emigrated from Makkah and settled in Madīnah for the cause of Islām.\n[501] The inhabitants of Madīnah who had accepted Islām and assisted the Prophet (ﷺ) and other emigrants upon their arrival there.",
   9101:
-      "And among those around you of the bedouins are hypocrites, and [also] from the people of Madīnah. They have persisted in hypocrisy. You, [O Muḥammad], do not know them, [but] We know them. We will punish them twice [in this world]; then they will be returned to a great punishment.",
+      "And among those around you of the bedouins are hypocrites, and [also] from the people of Madīnah. They have persisted in hypocrisy. You, [O Muhammad], do not know them, [but] We know them. We will punish them twice [in this world]; then they will be returned to a great punishment.",
   9102:
       "And [there are] others who have acknowledged their sins. They had mixed [i.e., polluted] a righteous deed with another that was bad.[502] Perhaps Allāh will turn to them in forgiveness. Indeed, Allāh is Forgiving and Merciful.\\n\\nFootnotes: [502] This refers to their having previously taken part in jihād but having abstained on the occasion of Tabūk.",
   9103:
-      "Take, [O Muḥammad], from their wealth a charity by which you purify them and cause them increase, and invoke [Allāh's blessings] upon them. Indeed, your invocations are reassurance for them. And Allāh is Hearing and Knowing.",
+      "Take, [O Muhammad], from their wealth a charity by which you purify them and cause them increase, and invoke [Allāh's blessings] upon them. Indeed, your invocations are reassurance for them. And Allāh is Hearing and Knowing.",
   9104:
       "Do they not know that it is Allāh who accepts repentance from His servants and receives charities and that it is Allāh who is the Accepting of Repentance,[503] the Merciful?\\n\\nFootnotes: [503] Refer to footnote in 2:37.",
   9105:
@@ -2698,7 +2698,7 @@ const Map<int, String> _noorEnglish = {
   9128:
       "There has certainly come to you a Messenger from among yourselves. Grievous to him is what you suffer; [he is] concerned over you [i.e., your guidance] and to the believers is kind and merciful.",
   9129:
-      "But if they turn away, [O Muḥammad], say, \"Sufficient for me is Allāh; there is no deity except Him. On Him I have relied, and He is the Lord of the Great Throne.\"",
+      "But if they turn away, [O Muhammad], say, \"Sufficient for me is Allāh; there is no deity except Him. On Him I have relied, and He is the Lord of the Great Throne.\"",
   10001:
       "Alif, Lām, Rā.[510] These are the verses of the wise[511] Book.\\n\\nFootnotes: [510] See footnote to 2:1.\n[511] The adjective \"wise\" expresses the qualities of will, purpose, discrimination and precision.",
   10002:
@@ -2728,7 +2728,7 @@ const Map<int, String> _noorEnglish = {
   10014:
       "Then We made you successors in the land after them so that We may observe how you will do.",
   10015:
-      "And when Our verses are recited to them as clear evidences, those who do not expect the meeting with Us say, \"Bring us a Qur’ān other than this or change it.\" Say, [O Muḥammad], \"It is not for me to change it on my own accord. I only follow what is revealed to me. Indeed I fear, if I should disobey my Lord, the punishment of a tremendous Day.\"",
+      "And when Our verses are recited to them as clear evidences, those who do not expect the meeting with Us say, \"Bring us a Qur’ān other than this or change it.\" Say, [O Muhammad], \"It is not for me to change it on my own accord. I only follow what is revealed to me. Indeed I fear, if I should disobey my Lord, the punishment of a tremendous Day.\"",
   10016:
       "Say, \"If Allāh had willed, I would not have recited it to you, nor would He have made it known to you, for I had remained among you a lifetime before it.[516] Then will you not reason?\"\\n\\nFootnotes: [516] The Prophet (ﷺ) lived among his people forty years before receiving any revelation.",
   10017:
@@ -2754,7 +2754,7 @@ const Map<int, String> _noorEnglish = {
   10027:
       "But they who have earned [blame for] evil doings - the recompense of an evil deed is its equivalent, and humiliation will cover them. They will have from Allāh no protector. It will be as if their faces are covered with pieces of the night - so dark [are they]. Those are the companions of the Fire; they will abide therein eternally.",
   10028:
-      "And [mention, O Muḥammad], the Day We will gather them all together - then We will say to those who associated others with Allāh, \"[Remain in] your place, you and your 'partners.'\"[522] Then We will separate them,[523] and their \"partners\" will say, \"You did not used to worship us,[524]\\n\\nFootnotes: [522] Those they had associated with Allāh.\n[523] From the believers.\n[524] The inanimate objects, such as idols, will not have been aware of their worship of them. But those beings who consented to be worshipped will lie and deny it on the Day of Judgement.",
+      "And [mention, O Muhammad], the Day We will gather them all together - then We will say to those who associated others with Allāh, \"[Remain in] your place, you and your 'partners.'\"[522] Then We will separate them,[523] and their \"partners\" will say, \"You did not used to worship us,[524]\\n\\nFootnotes: [522] Those they had associated with Allāh.\n[523] From the believers.\n[524] The inanimate objects, such as idols, will not have been aware of their worship of them. But those beings who consented to be worshipped will lie and deny it on the Day of Judgement.",
   10029:
       "And sufficient is Allāh as a witness between us and you that we were of your worship unaware.\"",
   10030:
@@ -2780,7 +2780,7 @@ const Map<int, String> _noorEnglish = {
   10040:
       "And of them are those who believe in it, and of them are those who do not believe in it. And your Lord is most knowing of the corrupters.",
   10041:
-      "And if they deny you, [O Muḥammad], then say, \"For me are my deeds, and for you are your deeds. You are disassociated from what I do, and I am disassociated from what you do.\"",
+      "And if they deny you, [O Muhammad], then say, \"For me are my deeds, and for you are your deeds. You are disassociated from what I do, and I am disassociated from what you do.\"",
   10042:
       "And among them are those who listen to you. But can you cause the deaf to hear [i.e., benefit from this hearing], although they will not use reason?",
   10043:
@@ -2790,7 +2790,7 @@ const Map<int, String> _noorEnglish = {
   10045:
       "And on the Day when He will gather them, [it will be] as if they had not remained [in the world] but an hour of the day, [and] they will know each other. Those will have lost who denied the meeting with Allāh and were not guided.",
   10046:
-      "And whether We show you some of what We promise them, [O Muḥammad], or We take you in death, to Us is their return; then, [either way], Allāh is a witness concerning what they are doing.",
+      "And whether We show you some of what We promise them, [O Muhammad], or We take you in death, to Us is their return; then, [either way], Allāh is a witness concerning what they are doing.",
   10047:
       "And for every nation is a messenger. So when their messenger comes,[526] it will be judged between them in justice, and they will not be wronged.\\n\\nFootnotes: [526] To witness on the Day of Judgement. Another meaning is \"Once a messenger has come [to them in this world]...\"",
   10048:
@@ -2804,7 +2804,7 @@ const Map<int, String> _noorEnglish = {
   10052:
       "Then it will be said to those who had wronged, \"Taste the punishment of eternity; are you being recompensed except for what you used to earn?\"",
   10053:
-      "And they ask information of you, [O Muḥammad], \"Is it true?\" Say, \"Yes, by my Lord. Indeed, it is truth; and you will not cause failure [to Allāh].\"",
+      "And they ask information of you, [O Muhammad], \"Is it true?\" Say, \"Yes, by my Lord. Indeed, it is truth; and you will not cause failure [to Allāh].\"",
   10054:
       "And if each soul that wronged had everything on earth, it would offer it in ransom. And they will confide regret when they see the punishment; and they will be judged in justice, and they will not be wronged.",
   10055:
@@ -2819,7 +2819,7 @@ const Map<int, String> _noorEnglish = {
   10060:
       "And what will be the supposition of those who invent falsehood about Allāh on the Day of Resurrection?[530] Indeed, Allāh is the possessor of bounty for the people, but most of them are not grateful.\\n\\nFootnotes: [530] i.e., what do they think He will do with them.",
   10061:
-      "And, [O Muḥammad], you are not [engaged] in any matter and do not recite any of the Qur’ān and you [people] do not do any deed except that We are witness over you when you are involved in it. And not absent from your Lord is any [part] of an atom's weight[531] within the earth or within the heaven or [anything] smaller than that or greater but that it is in a clear register.\\n\\nFootnotes: [531] Or \"the weight of a small ant.\"",
+      "And, [O Muhammad], you are not [engaged] in any matter and do not recite any of the Qur’ān and you [people] do not do any deed except that We are witness over you when you are involved in it. And not absent from your Lord is any [part] of an atom's weight[531] within the earth or within the heaven or [anything] smaller than that or greater but that it is in a clear register.\\n\\nFootnotes: [531] Or \"the weight of a small ant.\"",
   10062:
       "Unquestionably, [for] the allies of Allāh there will be no fear concerning them, nor will they grieve -",
   10063: "Those who believed and were fearing Allāh.",
@@ -2881,7 +2881,7 @@ const Map<int, String> _noorEnglish = {
   10093:
       "And We had certainly settled the Children of Israel in an agreeable settlement and provided them with good things. And they did not differ until [after] knowledge had come to them. Indeed, your Lord will judge between them on the Day of Resurrection concerning that over which they used to differ.",
   10094:
-      "So if you are in doubt, [O Muḥammad], about that which We have revealed to you, then ask those who have been reading the Scripture before you. The truth has certainly come to you from your Lord, so never be among the doubters.",
+      "So if you are in doubt, [O Muhammad], about that which We have revealed to you, then ask those who have been reading the Scripture before you. The truth has certainly come to you from your Lord, so never be among the doubters.",
   10095:
       "And never be of those who deny the signs of Allāh and [thus] be among the losers.[540]\\n\\nFootnotes: [540] Among the interpretations of the last two verses is that they were meant to stir the Prophet (ﷺ) to declare and confirm his certainty, which he did. Another is that although the words are addressed to the Prophet (ﷺ), they are directed to all people.",
   10096:
@@ -2891,7 +2891,7 @@ const Map<int, String> _noorEnglish = {
   10098:
       "Then has there not been a [single] city that believed so its faith benefited it except the people of Jonah? When they believed, We removed from them the punishment of disgrace in worldly life and gave them enjoyment [i.e., provision] for a time.",
   10099:
-      "And had your Lord willed, those on earth would have believed - all of them entirely. Then, [O Muḥammad], would you compel the people in order that they become believers?",
+      "And had your Lord willed, those on earth would have believed - all of them entirely. Then, [O Muhammad], would you compel the people in order that they become believers?",
   10100:
       "And it is not for a soul [i.e., anyone] to believe except by permission of Allāh, and He will place defilement[541] upon those who will not use reason.\\n\\nFootnotes: [541] Among its meanings are filth, wrath, punishment, disbelief, confusion and error.",
   10101:
@@ -2901,7 +2901,7 @@ const Map<int, String> _noorEnglish = {
   10103:
       "Then We will save Our messengers and those who have believed. Thus, it is an obligation upon Us that We save the believers.[542]\\n\\nFootnotes: [542] From Allāh's punishment.",
   10104:
-      "Say, [O Muḥammad], \"O people, if you are in doubt as to my religion - then I do not worship those which you worship besides Allāh; but I worship Allāh, who causes your death. And I have been commanded to be of the believers",
+      "Say, [O Muhammad], \"O people, if you are in doubt as to my religion - then I do not worship those which you worship besides Allāh; but I worship Allāh, who causes your death. And I have been commanded to be of the believers",
   10105:
       "And [commanded], 'Direct your face [i.e., self] toward the religion, inclining to truth, and never be of those who associate others with Allāh;",
   10106:
@@ -2911,7 +2911,7 @@ const Map<int, String> _noorEnglish = {
   10108:
       "Say, \"O mankind, the truth has come to you from your Lord, so whoever is guided is only guided for [the benefit of] his soul, and whoever goes astray only goes astray [in violation] against it. And I am not over you a manager.\"",
   10109:
-      "And follow what is revealed to you, [O Muḥammad], and be patient until Allāh will judge. And He is the best of judges.",
+      "And follow what is revealed to you, [O Muhammad], and be patient until Allāh will judge. And He is the best of judges.",
   11001:
       "Alif, Lām, Rā.[546] [This is] a Book whose verses are perfected and then presented in detail from [one who is] Wise and Aware[547]\\n\\nFootnotes: [546] See footnote to 2:1.\n[547] Refer to footnotes of 6:18.",
   11002:
@@ -2944,7 +2944,7 @@ const Map<int, String> _noorEnglish = {
   11016:
       "Those are the ones for whom there is not in the Hereafter but the Fire. And lost is what they did therein,[554] and worthless is what they used to do.\\n\\nFootnotes: [554] i.e., during worldly life.",
   11017:
-      "So is one who [stands] upon a clear evidence from his Lord [like the aforementioned]? And a witness[555] from Him follows it,[556] and before it was the Scripture of Moses to lead and as mercy. Those [believers in the former revelations] believe in it [i.e., the Qur’ān]. But whoever disbelieves in it from the [various] factions - the Fire is his promised destination. So be not in doubt about it. Indeed, it is the truth from your Lord, but most of the people do not believe.\\n\\nFootnotes: [555] Referring to Prophet Muḥammad (ﷺ) or to the angel Gabriel.\n[556] Testifying to its truth. Additionally, it can mean \"recites it,\" i.e., the Qur’ān.",
+      "So is one who [stands] upon a clear evidence from his Lord [like the aforementioned]? And a witness[555] from Him follows it,[556] and before it was the Scripture of Moses to lead and as mercy. Those [believers in the former revelations] believe in it [i.e., the Qur’ān]. But whoever disbelieves in it from the [various] factions - the Fire is his promised destination. So be not in doubt about it. Indeed, it is the truth from your Lord, but most of the people do not believe.\\n\\nFootnotes: [555] Referring to Prophet Muhammad (ﷺ) or to the angel Gabriel.\n[556] Testifying to its truth. Additionally, it can mean \"recites it,\" i.e., the Qur’ān.",
   11018:
       "And who is more unjust than he who invents a lie about Allāh? Those will be presented before their Lord, and the witnesses will say, \"These are the ones who lied against their Lord.\" Unquestionably, the curse of Allāh is upon the wrongdoers",
   11019:
@@ -2980,7 +2980,7 @@ const Map<int, String> _noorEnglish = {
   11034:
       "And my advice will not benefit you - although I wished to advise you - if Allāh should intend to put you in error. He is your Lord, and to Him you will be returned.\"",
   11035:
-      "Or do they say [about Prophet Muḥammad (ﷺ)], \"He invented it\"? Say, \"If I have invented it, then upon me is [the consequence of] my crime; but I am innocent of what [crimes] you commit.\"",
+      "Or do they say [about Prophet Muhammad (ﷺ)], \"He invented it\"? Say, \"If I have invented it, then upon me is [the consequence of] my crime; but I am innocent of what [crimes] you commit.\"",
   11036:
       "And it was revealed to Noah that, \"No one will believe from your people except those who have already believed, so do not be distressed by what they have been doing.",
   11037:
@@ -3008,7 +3008,7 @@ const Map<int, String> _noorEnglish = {
   11048:
       "It was said, \"O Noah, disembark in security from Us and blessings upon you and upon nations [descending] from those with you. But other nations [of them] We will grant enjoyment; then there will touch them from Us a painful punishment.\"",
   11049:
-      "That is from the news of the unseen which We reveal to you, [O Muḥammad]. You knew it not, neither you nor your people, before this. So be patient; indeed, the [best] outcome is for the righteous.",
+      "That is from the news of the unseen which We reveal to you, [O Muhammad]. You knew it not, neither you nor your people, before this. So be patient; indeed, the [best] outcome is for the righteous.",
   11050:
       "And to ʿAad [We sent] their brother Hūd. He said, \"O my people, worship Allāh; you have no deity other than Him. You are not but inventors [of falsehood].",
   11051:
@@ -3127,7 +3127,7 @@ const Map<int, String> _noorEnglish = {
   11108:
       "And as for those who were [destined to be] prosperous, they will be in Paradise, abiding therein as long as the heavens and the earth endure, except what your Lord should will - a bestowal uninterrupted.",
   11109:
-      "So do not be in doubt, [O Muḥammad], as to what these [polytheists] are worshipping. They worship not except as their fathers worshipped before. And indeed, We will give them their share undiminished.",
+      "So do not be in doubt, [O Muhammad], as to what these [polytheists] are worshipping. They worship not except as their fathers worshipped before. And indeed, We will give them their share undiminished.",
   11110:
       "And We had certainly given Moses the Scripture, but it came under disagreement. And if not for a word[579] that preceded from your Lord, it would have been judged between them. And indeed they are, concerning it [i.e., the Qur’ān], in disquieting doubt.\\n\\nFootnotes: [579] See footnote to 10:19.",
   11111:
@@ -3160,7 +3160,7 @@ const Map<int, String> _noorEnglish = {
   12002:
       "Indeed, We have sent it down as an Arabic Qur’ān[583] that you might understand.\\n\\nFootnotes: [583] i.e., revealed in the Arabic language.",
   12003:
-      "We relate to you, [O Muḥammad], the best of stories in what We have revealed to you of this Qur’ān although you were, before it, among the unaware.",
+      "We relate to you, [O Muhammad], the best of stories in what We have revealed to you of this Qur’ān although you were, before it, among the unaware.",
   12004:
       "[Of these stories mention] when Joseph said to his father,[584] \"O my father, indeed I have seen [in a dream] eleven stars and the sun and the moon; I saw them prostrating to me.\"\\n\\nFootnotes: [584] The prophet Jacob (upon whom be peace).",
   12005:
@@ -3351,11 +3351,11 @@ const Map<int, String> _noorEnglish = {
   12099:
       "And when they entered upon Joseph, he took his parents to himself [i.e., embraced them] and said, \"Enter Egypt, Allāh willing, safe [and secure].\"",
   12100:
-      "And he raised his parents upon the throne, and they bowed to him in prostration.[618] And he said, \"O my father, this is the explanation of my vision of before. My Lord has made it reality. And He was certainly good to me when He took me out of prison and brought you [here] from bedouin life after Satan had induced [estrangement] between me and my brothers. Indeed, my Lord is Subtle[619] in what He wills. Indeed, it is He who is the Knowing, the Wise.\\n\\nFootnotes: [618] That of greeting and respect, which was lawful until the time of Prophet Muḥammad (ﷺ). Prostration to any person or object other than Allāh was then prohibited conclusively.\n[619] Perceptive of unapparent matters within which is benefit to His servants.",
+      "And he raised his parents upon the throne, and they bowed to him in prostration.[618] And he said, \"O my father, this is the explanation of my vision of before. My Lord has made it reality. And He was certainly good to me when He took me out of prison and brought you [here] from bedouin life after Satan had induced [estrangement] between me and my brothers. Indeed, my Lord is Subtle[619] in what He wills. Indeed, it is He who is the Knowing, the Wise.\\n\\nFootnotes: [618] That of greeting and respect, which was lawful until the time of Prophet Muhammad (ﷺ). Prostration to any person or object other than Allāh was then prohibited conclusively.\n[619] Perceptive of unapparent matters within which is benefit to His servants.",
   12101:
       "My Lord, You have given me [something] of sovereignty and taught me of the interpretation of dreams. Creator of the heavens and earth, You are my protector in this world and the Hereafter. Cause me to die a Muslim and join me with the righteous.\"",
   12102:
-      "That is from the news of the unseen which We reveal, [O Muḥammad], to you. And you were not with them when they put together their plan while they conspired.",
+      "That is from the news of the unseen which We reveal, [O Muhammad], to you. And you were not with them when they put together their plan while they conspired.",
   12103:
       "And most of the people, although you strive [for it], are not believers.",
   12104:
@@ -3369,7 +3369,7 @@ const Map<int, String> _noorEnglish = {
   12108:
       "Say, \"This is my way; I invite to Allāh with insight, I and those who follow me. And exalted is Allāh; and I am not of those who associate others with Him.\"",
   12109:
-      "And We sent not before you [as messengers] except men to whom We revealed from among the people of cities. So have they[620] not traveled through the earth and observed how was the end of those before them? And the home of the Hereafter is best for those who fear Allāh; then will you not reason?\\n\\nFootnotes: [620] Those who deny Prophet Muḥammad (ﷺ).",
+      "And We sent not before you [as messengers] except men to whom We revealed from among the people of cities. So have they[620] not traveled through the earth and observed how was the end of those before them? And the home of the Hereafter is best for those who fear Allāh; then will you not reason?\\n\\nFootnotes: [620] Those who deny Prophet Muhammad (ﷺ).",
   12110:
       "[They continued] until, when the messengers despaired and were certain that they had been denied, there came to them Our victory, and whoever We willed was saved. And Our punishment cannot be repelled from the people who are criminals.",
   12111:
@@ -3383,7 +3383,7 @@ const Map<int, String> _noorEnglish = {
   13004:
       "And within the land are neighboring plots and gardens of grapevines and crops and palm trees, [growing] several from a root or otherwise,[625] watered with one water; but We make some of them exceed others in [quality of] fruit. Indeed in that are signs for a people who reason.\\n\\nFootnotes: [625] i.e., only one from a root.",
   13005:
-      "And if you are astonished,[626] [O Muḥammad] - then astonishing is their saying, \"When we are dust, will we indeed be [brought] into a new creation?\" Those are the ones who have disbelieved in their Lord, and those will have shackles[627] upon their necks, and those are the companions of the Fire; they will abide therein eternally.\\n\\nFootnotes: [626] At those who deny resurrection.\n[627] Iron collars to which their hands are chained.",
+      "And if you are astonished,[626] [O Muhammad] - then astonishing is their saying, \"When we are dust, will we indeed be [brought] into a new creation?\" Those are the ones who have disbelieved in their Lord, and those will have shackles[627] upon their necks, and those are the companions of the Fire; they will abide therein eternally.\\n\\nFootnotes: [626] At those who deny resurrection.\n[627] Iron collars to which their hands are chained.",
   13006:
       "They impatiently urge you to bring about evil before good,[628] while there has already occurred before them similar punishments [to what they demand]. And indeed, your Lord is the possessor of forgiveness for the people despite their wrongdoing, and indeed, your Lord is severe in penalty.\\n\\nFootnotes: [628] They said, challenging the Prophet (ﷺ) in ridicule, \"Bring on the punishment, if you are truthful,\" rather than asking for mercy and forgiveness from Allāh.",
   13007:
@@ -3427,7 +3427,7 @@ const Map<int, String> _noorEnglish = {
   13026:
       "Allāh extends provision for whom He wills and restricts [it]. And they rejoice in the worldly life, while the worldly life is not, compared to the Hereafter, except [brief] enjoyment.",
   13027:
-      "And those who disbelieved say, \"Why has a sign not been sent down to him from his Lord?\" Say, [O Muḥammad], \"Indeed, Allāh leaves astray whom He wills and guides to Himself whoever turns back [to Him] -",
+      "And those who disbelieved say, \"Why has a sign not been sent down to him from his Lord?\" Say, [O Muhammad], \"Indeed, Allāh leaves astray whom He wills and guides to Himself whoever turns back [to Him] -",
   13028:
       "Those who have believed and whose hearts are assured by the remembrance of Allāh. Unquestionably, by the remembrance of Allāh hearts are assured.\"",
   13029:
@@ -3445,7 +3445,7 @@ const Map<int, String> _noorEnglish = {
   13035:
       "The example [i.e., description] of Paradise, which the righteous have been promised, is [that] beneath it rivers flow. Its fruit is lasting, and its shade. That is the consequence for the righteous, and the consequence for the disbelievers is the Fire.",
   13036:
-      "And [the believers among] those to whom We have given the [previous] Scripture rejoice at what has been revealed to you, [O Muḥammad], but among the [opposing] factions are those who deny part of it [i.e., the Qur’ān]. Say, \"I have only been commanded to worship Allāh and not associate [anything] with Him. To Him I invite, and to Him is my return.\"",
+      "And [the believers among] those to whom We have given the [previous] Scripture rejoice at what has been revealed to you, [O Muhammad], but among the [opposing] factions are those who deny part of it [i.e., the Qur’ān]. Say, \"I have only been commanded to worship Allāh and not associate [anything] with Him. To Him I invite, and to Him is my return.\"",
   13037:
       "And thus We have revealed it as an Arabic legislation.[643] And if you should follow their inclinations after what has come to you of knowledge, you would not have against Allāh any ally or any protector.\\n\\nFootnotes: [643] i.e., revealed in the Arabic language.",
   13038:
@@ -3459,9 +3459,9 @@ const Map<int, String> _noorEnglish = {
   13042:
       "And those before them had plotted, but to Allāh belongs the plan entirely. He knows what every soul earns, and the disbelievers will know for whom is the final home.",
   13043:
-      "And those who have disbelieved say, \"You are not a messenger.\" Say, [O Muḥammad], \"Sufficient is Allāh as Witness between me and you, and [the witness of] whoever has knowledge of the Scripture.\"[646]\\n\\nFootnotes: [646] i.e., those who recognize the truth through their knowledge of previous scriptures.",
+      "And those who have disbelieved say, \"You are not a messenger.\" Say, [O Muhammad], \"Sufficient is Allāh as Witness between me and you, and [the witness of] whoever has knowledge of the Scripture.\"[646]\\n\\nFootnotes: [646] i.e., those who recognize the truth through their knowledge of previous scriptures.",
   14001:
-      "Alif, Lām, Rā.[648] [This is] a Book which We have revealed to you, [O Muḥammad], that you might bring mankind out of darknesses into the light by permission of their Lord - to the path of the Exalted in Might, the Praiseworthy -\\n\\nFootnotes: [648] See footnote to 2:1.",
+      "Alif, Lām, Rā.[648] [This is] a Book which We have revealed to you, [O Muhammad], that you might bring mankind out of darknesses into the light by permission of their Lord - to the path of the Exalted in Might, the Praiseworthy -\\n\\nFootnotes: [648] See footnote to 2:1.",
   14002:
       "Allāh, to whom belongs whatever is in the heavens and whatever is on the earth. And woe [i.e., destruction] to the disbelievers from a severe punishment -",
   14003:
@@ -3512,7 +3512,7 @@ const Map<int, String> _noorEnglish = {
   14026:
       "And the example of a bad word is like a bad tree, uprooted from the surface of the earth, not having any stability.",
   14027:
-      "Allāh keeps firm those who believe, with the firm word,[656] in worldly life and in the Hereafter.[657] And Allāh sends astray the wrongdoers. And Allāh does what He wills.\\n\\nFootnotes: [656] The testimony that there is no deity except Allāh and that Muḥammad (ﷺ) is the messenger of Allāh.\n[657] When questioned in their graves by the angels after death.",
+      "Allāh keeps firm those who believe, with the firm word,[656] in worldly life and in the Hereafter.[657] And Allāh sends astray the wrongdoers. And Allāh does what He wills.\\n\\nFootnotes: [656] The testimony that there is no deity except Allāh and that Muhammad (ﷺ) is the messenger of Allāh.\n[657] When questioned in their graves by the angels after death.",
   14028:
       "Have you not considered those who exchanged the favor of Allāh for disbelief[658] and settled their people [in] the home of ruin?\\n\\nFootnotes: [658] They met Allāh's blessing with denial instead of gratitude.",
   14029:
@@ -3520,7 +3520,7 @@ const Map<int, String> _noorEnglish = {
   14030:
       "And they have attributed to Allāh equals to mislead [people] from His way. Say, \"Enjoy yourselves, for indeed, your destination is the Fire.\"",
   14031:
-      "[O Muḥammad], tell My servants who have believed to establish prayer and spend from what We have provided them, secretly and publicly, before a Day comes in which there will be no exchange [i.e., ransom], nor any friendships.",
+      "[O Muhammad], tell My servants who have believed to establish prayer and spend from what We have provided them, secretly and publicly, before a Day comes in which there will be no exchange [i.e., ransom], nor any friendships.",
   14032:
       "It is Allāh who created the heavens and the earth and sent down rain from the sky and produced thereby some fruits as provision for you and subjected for you[659] the ships to sail through the sea by His command and subjected for you the rivers.\\n\\nFootnotes: [659] i.e., made serviceable to you.",
   14033:
@@ -3528,7 +3528,7 @@ const Map<int, String> _noorEnglish = {
   14034:
       "And He gave you from all you asked of Him.[660] And if you should count the favor [i.e., blessings] of Allāh, you could not enumerate them. Indeed, mankind is [generally] most unjust and ungrateful.[661]\\n\\nFootnotes: [660] Something of what you asked and all of what you continually require, according to His wisdom.\n[661] i.e., disbelieving and denying of Allāh's favor.",
   14035:
-      "And [mention, O Muḥammad], when Abraham said, \"My Lord, make this city [i.e., Makkah] secure and keep me and my sons away from worshipping idols.",
+      "And [mention, O Muhammad], when Abraham said, \"My Lord, make this city [i.e., Makkah] secure and keep me and my sons away from worshipping idols.",
   14036:
       "My Lord, indeed they have led astray many among the people. So whoever follows me - then he is of me;[662] and whoever disobeys me - indeed, You are [yet] Forgiving and Merciful.\\n\\nFootnotes: [662] i.e., of my religion.",
   14037:
@@ -3546,7 +3546,7 @@ const Map<int, String> _noorEnglish = {
   14043:
       "Racing ahead, their heads raised up, their glance does not come back to them,[663] and their hearts are void.\\n\\nFootnotes: [663] This is their state at the time of resurrection from the graves. Their heads are upraised in fixed stares of terror, unable even to glance back.",
   14044:
-      "And, [O Muḥammad], warn the people of a Day when the punishment will come to them and those who did wrong will say, \"Our Lord, delay us for a short term; we will answer Your call and follow the messengers.\" [But it will be said], \"Had you not sworn, before, that for you there would be no cessation?[664]\\n\\nFootnotes: [664] Of the blessings which Allāh had bestowed upon you during life on earth.",
+      "And, [O Muhammad], warn the people of a Day when the punishment will come to them and those who did wrong will say, \"Our Lord, delay us for a short term; we will answer Your call and follow the messengers.\" [But it will be said], \"Had you not sworn, before, that for you there would be no cessation?[664]\\n\\nFootnotes: [664] Of the blessings which Allāh had bestowed upon you during life on earth.",
   14045:
       "And you lived among the dwellings of those who wronged themselves, and it had become clear to you how We dealt with them. And We presented for you [many] examples.\"",
   14046:
@@ -3578,7 +3578,7 @@ const Map<int, String> _noorEnglish = {
   15009:
       "Indeed, it is We who sent down the message [i.e., the Qur’ān], and indeed, We will be its guardian.",
   15010:
-      "And We had certainly sent [messengers] before you, [O Muḥammad], among the sects of the former peoples.",
+      "And We had certainly sent [messengers] before you, [O Muhammad], among the sects of the former peoples.",
   15011: "And no messenger would come to them except that they ridiculed him.",
   15012:
       "Thus do We insert it [i.e., denial] into the hearts of the criminals.",
@@ -3612,7 +3612,7 @@ const Map<int, String> _noorEnglish = {
       "And We did certainly create man out of clay from an altered black mud.",
   15027: "And the jinn We created before from scorching fire.",
   15028:
-      "And [mention, O Muḥammad], when your Lord said to the angels, \"I will create a human being out of clay from an altered black mud.",
+      "And [mention, O Muhammad], when your Lord said to the angels, \"I will create a human being out of clay from an altered black mud.",
   15029:
       "And when I have proportioned him and breathed into him of My [created] soul,[675] then fall down to him in prostration.\"\\n\\nFootnotes: [675] The element of life and soul which Allāh created for that body, not His own spirit or part of Himself (as some mistakenly believe).",
   15030: "So the angels prostrated - all of them entirely,",
@@ -3645,7 +3645,7 @@ const Map<int, String> _noorEnglish = {
   15048:
       "No fatigue will touch them therein, nor from it will they [ever] be removed.",
   15049:
-      "[O Muḥammad], inform My servants that it is I who am the Forgiving, the Merciful,",
+      "[O Muhammad], inform My servants that it is I who am the Forgiving, the Merciful,",
   15050: "And that it is My punishment which is the painful punishment.",
   15051: "And inform them about the guests of Abraham,",
   15052:
@@ -3680,7 +3680,7 @@ const Map<int, String> _noorEnglish = {
   15071:
       "[Lot] said, \"These are my daughters[681] - if you would be doers [of lawful marriage].\"\\n\\nFootnotes: [681] i.e., the women of his community who were lawful for marriage.",
   15072:
-      "By your life, [O Muḥammad], indeed they were, in their intoxication, wandering blindly.",
+      "By your life, [O Muhammad], indeed they were, in their intoxication, wandering blindly.",
   15073:
       "So the shriek[682] seized them at sunrise.\\n\\nFootnotes: [682] See footnote to 11:67.",
   15074:
@@ -3703,7 +3703,7 @@ const Map<int, String> _noorEnglish = {
       "And We have not created the heavens and earth and that between them except in truth. And indeed, the Hour is coming; so forgive with gracious forgiveness.",
   15086: "Indeed, your Lord - He is the Knowing Creator.",
   15087:
-      "And We have certainly given you, [O Muḥammad], seven of the often repeated [verses][684] and the great Qur’ān.\\n\\nFootnotes: [684] Referring to Sūrah al-Fātiḥah.",
+      "And We have certainly given you, [O Muhammad], seven of the often repeated [verses][684] and the great Qur’ān.\\n\\nFootnotes: [684] Referring to Sūrah al-Fātiḥah.",
   15088:
       "Do not extend your eyes toward that by which We have given enjoyment to [certain] categories of them [i.e., the disbelievers], and do not grieve over them. And lower your wing [i.e., show kindness] to the believers.",
   15089: "And say, \"Indeed, I am the clear warner\" -",
@@ -3796,7 +3796,7 @@ const Map<int, String> _noorEnglish = {
   16036:
       "And We certainly sent into every nation a messenger, [saying], \"Worship Allāh and avoid ṭāghūt.\"[698] And among them were those whom Allāh guided, and among them were those upon whom error was [deservedly] decreed. So proceed [i.e., travel] through the earth and observe how was the end of the deniers.\\n\\nFootnotes: [698] False objects of worship.",
   16037:
-      "[Even] if you should strive for their guidance, [O Muḥammad], indeed, Allāh does not guide those He sends astray,[699] and they will have no helpers.\\n\\nFootnotes: [699] As a result of their choice to reject guidance.",
+      "[Even] if you should strive for their guidance, [O Muhammad], indeed, Allāh does not guide those He sends astray,[699] and they will have no helpers.\\n\\nFootnotes: [699] As a result of their choice to reject guidance.",
   16038:
       "And they swear by Allāh their strongest oaths [that] Allāh will not resurrect one who dies. But yes - [it is] a true promise [binding] upon Him, but most of the people do not know.",
   16039:
@@ -3849,7 +3849,7 @@ const Map<int, String> _noorEnglish = {
   16063:
       "By Allāh, We did certainly send [messengers] to nations before you, but Satan made their deeds attractive to them. And he is their [i.e., the disbelievers] ally today [as well], and they will have a painful punishment.",
   16064:
-      "And We have not revealed to you the Book, [O Muḥammad], except for you to make clear to them that wherein they have differed and as guidance and mercy for a people who believe.",
+      "And We have not revealed to you the Book, [O Muhammad], except for you to make clear to them that wherein they have differed and as guidance and mercy for a people who believe.",
   16065:
       "And Allāh has sent down rain from the sky and given life thereby to the earth after its lifelessness. Indeed in that is a sign for a people who listen.",
   16066:
@@ -3885,7 +3885,7 @@ const Map<int, String> _noorEnglish = {
   16081:
       "And Allāh has made for you, from that which He has created, shadows [i.e., shade] and has made for you from the mountains, shelters and has made for you garments which protect you from the heat and garments [i.e., coats of mail] which protect you from your [enemy in] battle. Thus does He complete His favor upon you that you might submit [to Him].",
   16082:
-      "But if they turn away, [O Muḥammad] - then only upon you is [responsibility for] clear notification.",
+      "But if they turn away, [O Muhammad] - then only upon you is [responsibility for] clear notification.",
   16083:
       "They recognize the favor of Allāh; then they deny it. And most of them are disbelievers.",
   16084:
@@ -3899,7 +3899,7 @@ const Map<int, String> _noorEnglish = {
   16088:
       "Those who disbelieved and averted [others] from the way of Allāh - We will increase them in punishment over [their] punishment for what corruption they were causing.",
   16089:
-      "And [mention] the Day when We will resurrect among every nation a witness over them from themselves [i.e., their prophet]. And We will bring you, [O Muḥammad], as a witness over these [i.e., your nation]. And We have sent down to you the Book as clarification for all things and as guidance and mercy and good tidings for the Muslims.[711]\\n\\nFootnotes: [711] Those who have submitted themselves to Allāh.",
+      "And [mention] the Day when We will resurrect among every nation a witness over them from themselves [i.e., their prophet]. And We will bring you, [O Muhammad], as a witness over these [i.e., your nation]. And We have sent down to you the Book as clarification for all things and as guidance and mercy and good tidings for the Muslims.[711]\\n\\nFootnotes: [711] Those who have submitted themselves to Allāh.",
   16090:
       "Indeed, Allāh orders justice and good conduct and giving [help] to relatives and forbids immorality and bad conduct and oppression. He admonishes you that perhaps you will be reminded.",
   16091:
@@ -3923,9 +3923,9 @@ const Map<int, String> _noorEnglish = {
   16100:
       "His authority is only over those who take him as an ally and those who through him associate others with Allāh.",
   16101:
-      "And when We substitute a verse in place of a verse - and Allāh is most knowing of what He sends down - they say, \"You, [O Muḥammad], are but an inventor [of lies].\" But most of them do not know.",
+      "And when We substitute a verse in place of a verse - and Allāh is most knowing of what He sends down - they say, \"You, [O Muhammad], are but an inventor [of lies].\" But most of them do not know.",
   16102:
-      "Say, [O Muḥammad], \"The Pure Spirit [i.e., Gabriel] has brought it down from your Lord in truth to make firm those who believe and as guidance and good tidings to the Muslims.\"",
+      "Say, [O Muhammad], \"The Pure Spirit [i.e., Gabriel] has brought it down from your Lord in truth to make firm those who believe and as guidance and good tidings to the Muslims.\"",
   16103:
       "And We certainly know that they say, \"It is only a human being who teaches him [i.e., the Prophet (ﷺ)].\" The tongue of the one they refer to is foreign,[715] and this [recitation, i.e., Qur’ān] is [in] a clear Arabic language.\\n\\nFootnotes: [715] Having seen the Prophet (ﷺ) speaking with a foreign man on occasion, the Quraysh accused him of repeating the man's words.",
   16104:
@@ -3966,7 +3966,7 @@ const Map<int, String> _noorEnglish = {
   16122:
       "And We gave him good in this world, and indeed, in the Hereafter he will be among the righteous.",
   16123:
-      "Then We revealed to you, [O Muḥammad], to follow the religion of Abraham, inclining toward truth; and he was not of those who associate with Allāh.",
+      "Then We revealed to you, [O Muhammad], to follow the religion of Abraham, inclining toward truth; and he was not of those who associate with Allāh.",
   16124:
       "The sabbath was only appointed for those who differed over it. And indeed, your Lord will judge between them on the Day of Resurrection concerning that over which they used to differ.",
   16125:
@@ -3974,11 +3974,11 @@ const Map<int, String> _noorEnglish = {
   16126:
       "And if you punish [an enemy, O believers], punish with an equivalent of that with which you were harmed.[720] But if you are patient - it is better for those who are patient.\\n\\nFootnotes: [720] Not exceeding it.",
   16127:
-      "And be patient, [O Muḥammad], and your patience is not but through Allāh. And do not grieve over them and do not be in distress over what they conspire.",
+      "And be patient, [O Muhammad], and your patience is not but through Allāh. And do not grieve over them and do not be in distress over what they conspire.",
   16128:
       "Indeed, Allāh is with those who fear Him and those who are doers of good.",
   17001:
-      "Exalted[722] is He who took His Servant [i.e., Prophet Muḥammad (ﷺ)] by night from al-Masjid al-Ḥarām to al-Masjid al-Aqṣā,[723] whose surroundings We have blessed, to show him of Our signs. Indeed, He is the Hearing,[724] the Seeing.[725]\\n\\nFootnotes: [722] Above any imperfection or failure to do as He wills.\n[723] In Jerusalem.\n[724] Who hears every sound, distinguishes every voice, understands every word, and accepts and responds to supplications.\n[725] Who sees and understands all things apparent and unapparent, visible and invisible.",
+      "Exalted[722] is He who took His Servant [i.e., Prophet Muhammad (ﷺ)] by night from al-Masjid al-Ḥarām to al-Masjid al-Aqṣā,[723] whose surroundings We have blessed, to show him of Our signs. Indeed, He is the Hearing,[724] the Seeing.[725]\\n\\nFootnotes: [722] Above any imperfection or failure to do as He wills.\n[723] In Jerusalem.\n[724] Who hears every sound, distinguishes every voice, understands every word, and accepts and responds to supplications.\n[725] Who sees and understands all things apparent and unapparent, visible and invisible.",
   17002:
       "And We gave Moses the Scripture and made it a guidance for the Children of Israel that you not take other than Me as Disposer of affairs,[726]\\n\\nFootnotes: [726] i.e., trust in Allāh, knowing that He (subḥānahu wa taʿālā) is responsible for every occurrence.",
   17003:
@@ -4054,13 +4054,13 @@ const Map<int, String> _noorEnglish = {
   17038:
       "All that [i.e., the aforementioned] - its evil is ever, in the sight of your Lord, detested.",
   17039:
-      "That is from what your Lord has revealed to you, [O Muḥammad], of wisdom. And, [O mankind], do not make [as equal] with Allāh another deity, lest you be thrown into Hell, blamed and banished.",
+      "That is from what your Lord has revealed to you, [O Muhammad], of wisdom. And, [O mankind], do not make [as equal] with Allāh another deity, lest you be thrown into Hell, blamed and banished.",
   17040:
       "Then, has your Lord chosen you for [having] sons and taken [i.e., adopted] from among the angels daughters? Indeed, you say a grave saying.",
   17041:
       "And We have certainly diversified [the contents] in this Qur’ān that they [i.e., mankind] may be reminded, but it does not increase them [i.e., the disbelievers] except in aversion.",
   17042:
-      "Say, [O Muḥammad], \"If there had been with Him [other] gods, as they say, then they [each] would have sought to the Owner of the Throne a way.\"[747]\\n\\nFootnotes: [747] To please Him, recognizing His superiority. Another interpretation is \"...they would seek a way\" to depose Him (subḥānahu wa taʿālā) and take over His Throne.",
+      "Say, [O Muhammad], \"If there had been with Him [other] gods, as they say, then they [each] would have sought to the Owner of the Throne a way.\"[747]\\n\\nFootnotes: [747] To please Him, recognizing His superiority. Another interpretation is \"...they would seek a way\" to depose Him (subḥānahu wa taʿālā) and take over His Throne.",
   17043: "Exalted is He and high above what they say by great sublimity.",
   17044:
       "The seven heavens and the earth and whatever is in them exalt Him. And there is not a thing except that it exalts [Allāh] by His praise, but you do not understand their [way of] exalting. Indeed, He is ever Forbearing[748] and Forgiving.\\n\\nFootnotes: [748] Refer to footnote in 2:225.",
@@ -4083,7 +4083,7 @@ const Map<int, String> _noorEnglish = {
   17053:
       "And tell My servants to say that which is best. Indeed, Satan induces [dissension] among them. Indeed Satan is ever, to mankind, a clear enemy.",
   17054:
-      "Your Lord is most knowing of you. If He wills, He will have mercy upon you; or if He wills, He will punish you. And We have not sent you, [O Muḥammad], over them as a manager.",
+      "Your Lord is most knowing of you. If He wills, He will have mercy upon you; or if He wills, He will punish you. And We have not sent you, [O Muhammad], over them as a manager.",
   17055:
       "And your Lord is most knowing of whoever is in the heavens and the earth. And We have made some of the prophets exceed others [in various ways], and to David We gave the book [of Psalms].",
   17056:
@@ -4095,7 +4095,7 @@ const Map<int, String> _noorEnglish = {
   17059:
       "And nothing has prevented Us from sending signs [i.e., miracles] except that the former peoples denied them. And We gave Thamūd the she-camel as a visible sign, but they wronged her. And We send not the signs except as a warning.",
   17060:
-      "And [remember, O Muḥammad], when We told you, \"Indeed, your Lord has encompassed the people.\"[757] And We did not make the sight which We showed you[758] except as a trial for the people, as was the accursed tree [mentioned] in the Qur’ān. And We threaten [i.e., warn] them, but it increases them not except in great transgression.\\n\\nFootnotes: [757] In His knowledge and power, meaning that Allāh would protect him (ﷺ) from their harm.\n[758] During the miʿrāj (ascension) into the heavens.",
+      "And [remember, O Muhammad], when We told you, \"Indeed, your Lord has encompassed the people.\"[757] And We did not make the sight which We showed you[758] except as a trial for the people, as was the accursed tree [mentioned] in the Qur’ān. And We threaten [i.e., warn] them, but it increases them not except in great transgression.\\n\\nFootnotes: [757] In His knowledge and power, meaning that Allāh would protect him (ﷺ) from their harm.\n[758] During the miʿrāj (ascension) into the heavens.",
   17061:
       "And [mention] when We said to the angels, \"Prostrate to Adam,\" and they prostrated, except for Iblees.[759] He said, \"Should I prostrate to one You created from clay?\"\\n\\nFootnotes: [759] See footnote to 2:34.",
   17062:
@@ -4117,7 +4117,7 @@ const Map<int, String> _noorEnglish = {
   17070:
       "And We have certainly honored the children of Adam and carried them on the land and sea and provided for them of the good things and preferred them over much of what We have created, with [definite] preference.",
   17071:
-      "[Mention, O Muḥammad], the Day We will call forth every people with their record [of deeds].[764] Then whoever is given his record in his right hand - those will read their records, and injustice will not be done to them, [even] as much as a thread [inside the date seed].\\n\\nFootnotes: [764] Other meanings are \"with their leader\" or \"with that which they had followed.\"",
+      "[Mention, O Muhammad], the Day We will call forth every people with their record [of deeds].[764] Then whoever is given his record in his right hand - those will read their records, and injustice will not be done to them, [even] as much as a thread [inside the date seed].\\n\\nFootnotes: [764] Other meanings are \"with their leader\" or \"with that which they had followed.\"",
   17072:
       "And whoever is blind[765] in this [life] will be blind in the Hereafter and more astray in way.\\n\\nFootnotes: [765] i.e., refusing to see the truth.",
   17073:
@@ -4133,7 +4133,7 @@ const Map<int, String> _noorEnglish = {
   17078:
       "Establish prayer at the decline of the sun [from its meridian] until the darkness of the night[767] and [also] the Qur’ān [i.e., recitation] of dawn.[768] Indeed, the recitation of dawn is ever witnessed.\\n\\nFootnotes: [767] i.e., the period which includes the ẓuhr, aṣr, maghrib, and ʿishā’ prayers.\n[768] i.e., the fajr prayer, in which the recitation of the Qur’ān is prolonged.",
   17079:
-      "And from [part of] the night, pray[769] with it [i.e., recitation of the Qur’ān] as additional [worship] for you; it is expected that[770] your Lord will resurrect you to a praised station.[771]\\n\\nFootnotes: [769] Literally, \"arise from sleep for prayer.\"\n[770] This is a promise from Allāh (subḥānahu wa taʿālā) to Prophet Muḥammad (ﷺ).\n[771] The position of intercession by permission of Allāh and the highest degree in Paradise.",
+      "And from [part of] the night, pray[769] with it [i.e., recitation of the Qur’ān] as additional [worship] for you; it is expected that[770] your Lord will resurrect you to a praised station.[771]\\n\\nFootnotes: [769] Literally, \"arise from sleep for prayer.\"\n[770] This is a promise from Allāh (subḥānahu wa taʿālā) to Prophet Muhammad (ﷺ).\n[771] The position of intercession by permission of Allāh and the highest degree in Paradise.",
   17080:
       "And say, \"My Lord, cause me to enter a sound entrance[772] and to exit a sound exit[773] and grant me from Yourself a supporting authority.\"\\n\\nFootnotes: [772] Into Madīnah at the time of emigration, or into the grave.\n[773] From Makkah, or from the grave at the time of resurrection.",
   17081:
@@ -4145,7 +4145,7 @@ const Map<int, String> _noorEnglish = {
   17084:
       "Say, \"Each works according to his manner, but your Lord is most knowing of who is best guided in way.\"",
   17085:
-      "And they ask you, [O Muḥammad], about the soul. Say, \"The soul is of the affair [i.e., concern] of my Lord. And you [i.e., mankind] have not been given of knowledge except a little.\"",
+      "And they ask you, [O Muhammad], about the soul. Say, \"The soul is of the affair [i.e., concern] of my Lord. And you [i.e., mankind] have not been given of knowledge except a little.\"",
   17086:
       "And if We willed, We could surely do away with that which We revealed to you. Then you would not find for yourself concerning it an advocate against Us.",
   17087:
@@ -4185,7 +4185,7 @@ const Map<int, String> _noorEnglish = {
   17104:
       "And We said after him [i.e., Pharaoh] to the Children of Israel, \"Dwell in the land, and when there comes the promise [i.e., appointment] of the Hereafter, We will bring you forth in [one] gathering.\"",
   17105:
-      "And with the truth We have sent it [i.e., the Qur’ān] down, and with the truth it has descended. And We have not sent you, [O Muḥammad], except as a bringer of good tidings and a warner.",
+      "And with the truth We have sent it [i.e., the Qur’ān] down, and with the truth it has descended. And We have not sent you, [O Muhammad], except as a bringer of good tidings and a warner.",
   17106:
       "And [it is] a Qur’ān which We have separated [by intervals] that you might recite it to the people over a prolonged period. And We have sent it down progressively.",
   17107:
@@ -4199,7 +4199,7 @@ const Map<int, String> _noorEnglish = {
   17111:
       "And say, \"Praise to Allāh, who has not taken a son and has had no partner in [His] dominion and has no [need of a] protector out of weakness; and glorify Him with [great] glorification.\"",
   18001:
-      "[All] praise is [due] to Allāh, who has sent down upon His Servant [Muḥammad (ﷺ)] the Book and has not made therein any deviance.[779]\\n\\nFootnotes: [779] From the truth or the straight path.",
+      "[All] praise is [due] to Allāh, who has sent down upon His Servant [Muhammad (ﷺ)] the Book and has not made therein any deviance.[779]\\n\\nFootnotes: [779] From the truth or the straight path.",
   18002:
       "[He has made it] straight, to warn of severe punishment from Him and to give good tidings to the believers who do righteous deeds that they will have a good reward [i.e., Paradise]",
   18003: "In which they will remain forever",
@@ -4207,7 +4207,7 @@ const Map<int, String> _noorEnglish = {
   18005:
       "They have no knowledge of it,[780] nor had their fathers. Grave is the word that comes out of their mouths; they speak not except a lie.\\n\\nFootnotes: [780] i.e., they could not have had knowledge of something which is not true.",
   18006:
-      "Then perhaps you would kill yourself through grief over them, [O Muḥammad], if they do not believe in this message, [and] out of sorrow.",
+      "Then perhaps you would kill yourself through grief over them, [O Muhammad], if they do not believe in this message, [and] out of sorrow.",
   18007:
       "Indeed, We have made that which is on the earth adornment for it that We may test them [as to] which of them is best in deed.",
   18008:
@@ -4221,7 +4221,7 @@ const Map<int, String> _noorEnglish = {
   18012:
       "Then We awakened them that We might show which of the two factions was most precise in calculating what [extent] they had remained in time.",
   18013:
-      "It is We who relate to you, [O Muḥammad], their story in truth. Indeed, they were youths who believed in their Lord, and We increased them in guidance.",
+      "It is We who relate to you, [O Muhammad], their story in truth. Indeed, they were youths who believed in their Lord, and We increased them in guidance.",
   18014:
       "And We bound [i.e., made firm] their hearts when they stood up and said, \"Our Lord is the Lord of the heavens and the earth. Never will we invoke besides Him any deity. We would have certainly spoken, then, an excessive transgression.",
   18015:
@@ -4239,7 +4239,7 @@ const Map<int, String> _noorEnglish = {
   18021:
       "And similarly, We caused them to be found that they [who found them] would know that the promise of Allāh is truth and that of the Hour there is no doubt. [That was] when they[783] disputed among themselves about their affair and [then] said, \"Construct over them a structure. Their Lord is most knowing about them.\" Said those who prevailed in the matter, \"We will surely take [for ourselves] over them a masjid.\"[784]\\n\\nFootnotes: [783] The people of the city.\n[784] i.e., we will make this site a place of worship.",
   18022:
-      "They [i.e., people] will say there were three, the fourth of them being their dog; and they will say there were five, the sixth of them being their dog - guessing at the unseen; and they will say there were seven, and the eighth of them was their dog. Say, [O Muḥammad], \"My Lord is most knowing of their number. None knows them except a few. So do not argue about them except with an obvious argument[785] and do not inquire about them among [the speculators] from anyone.\"\\n\\nFootnotes: [785] i.e., one from the Qur’ān, which is the only sure argument.",
+      "They [i.e., people] will say there were three, the fourth of them being their dog; and they will say there were five, the sixth of them being their dog - guessing at the unseen; and they will say there were seven, and the eighth of them was their dog. Say, [O Muhammad], \"My Lord is most knowing of their number. None knows them except a few. So do not argue about them except with an obvious argument[785] and do not inquire about them among [the speculators] from anyone.\"\\n\\nFootnotes: [785] i.e., one from the Qur’ān, which is the only sure argument.",
   18023: "And never say of anything, \"Indeed, I will do that tomorrow,\"",
   18024:
       "Except [when adding], \"If Allāh wills.\" And remember your Lord when you forget [it] and say, \"Perhaps my Lord will guide me to what is nearer than this to right conduct.\"",
@@ -4248,7 +4248,7 @@ const Map<int, String> _noorEnglish = {
   18026:
       "Say, \"Allāh is most knowing of how long they remained. He has [knowledge of] the unseen [aspects] of the heavens and the earth. How Seeing is He and how Hearing! They have not besides Him any protector, and He shares not His legislation with anyone.\"",
   18027:
-      "And recite, [O Muḥammad], what has been revealed to you of the Book of your Lord. There is no changer of His words, and never will you find in other than Him a refuge.",
+      "And recite, [O Muhammad], what has been revealed to you of the Book of your Lord. There is no changer of His words, and never will you find in other than Him a refuge.",
   18028:
       "And keep yourself patient [by being] with those who call upon their Lord in the morning and the evening, seeking His face [i.e., acceptance]. And let not your eyes pass beyond them, desiring adornments of the worldly life, and do not obey one whose heart We have made heedless of Our remembrance and who follows his desire and whose affair is ever [in] neglect.[787]\\n\\nFootnotes: [787] Or \"in excess,\" exceeding the limits of Allāh.",
   18029:
@@ -4359,7 +4359,7 @@ const Map<int, String> _noorEnglish = {
   18082:
       "And as for the wall, it belonged to two orphan boys in the city, and there was beneath it a treasure for them, and their father had been righteous. So your Lord intended that they reach maturity and extract their treasure, as a mercy from your Lord. And I did it not of my own accord. That is the interpretation of that about which you could not have patience.\"",
   18083:
-      "And they ask you, [O Muḥammad], about Dhul-Qarnayn. Say, \"I will recite to you about him a report.\"",
+      "And they ask you, [O Muhammad], about Dhul-Qarnayn. Say, \"I will recite to you about him a report.\"",
   18084:
       "Indeed, We established him upon the earth, and We gave him from everything a way [i.e., means].",
   18085: "So he followed a way",
@@ -4395,7 +4395,7 @@ const Map<int, String> _noorEnglish = {
   18102:
       "Then do those who disbelieve think that they can take My servants instead of Me as allies? Indeed, We have prepared Hell for the disbelievers as a lodging.",
   18103:
-      "Say, [O Muḥammad], \"Shall we [believers] inform you of the greatest losers as to [their] deeds?",
+      "Say, [O Muhammad], \"Shall we [believers] inform you of the greatest losers as to [their] deeds?",
   18104:
       "[They are] those whose effort is lost in worldly life, while they think that they are doing well in work.\"",
   18105:
@@ -4438,7 +4438,7 @@ const Map<int, String> _noorEnglish = {
   19015:
       "And peace be upon him the day he was born and the day he dies and the day he is raised alive.",
   19016:
-      "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east.",
+      "And mention, [O Muhammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east.",
   19017:
       "And she took, in seclusion from them, a screen. Then We sent to her Our Angel [i.e., Gabriel], and he represented himself to her as a well-proportioned man.",
   19018:
@@ -4483,7 +4483,7 @@ const Map<int, String> _noorEnglish = {
   19038:
       "How [clearly] they will hear and see the Day they come to Us, but the wrongdoers today are in clear error.",
   19039:
-      "And warn them, [O Muḥammad], of the Day of Regret, when the matter will be concluded;[814] and [yet], they are in [a state of] heedlessness, and they do not believe.\\n\\nFootnotes: [814] i.e., \"judged\" or \"accomplished.\"",
+      "And warn them, [O Muhammad], of the Day of Regret, when the matter will be concluded;[814] and [yet], they are in [a state of] heedlessness, and they do not believe.\\n\\nFootnotes: [814] i.e., \"judged\" or \"accomplished.\"",
   19040:
       "Indeed, it is We who will inherit the earth and whoever is on it, and to Us they will be returned.",
   19041:
@@ -4591,7 +4591,7 @@ const Map<int, String> _noorEnglish = {
   19096:
       "Indeed, those who have believed and done righteous deeds - the Most Merciful will appoint for them affection.[829]\\n\\nFootnotes: [829] From Himself and from among each other.",
   19097:
-      "So, [O Muḥammad], We have only made it [i.e., the Qur’ān] easy in your tongue [i.e., the Arabic language] that you may give good tidings thereby to the righteous and warn thereby a hostile people.",
+      "So, [O Muhammad], We have only made it [i.e., the Qur’ān] easy in your tongue [i.e., the Arabic language] that you may give good tidings thereby to the righteous and warn thereby a hostile people.",
   19098:
       "And how many have We destroyed before them of generations? Do you perceive of them anyone or hear from them a sound?",
   20001: "Ṭā, Hā.[831]\\n\\nFootnotes: [831] See footnote to 2:1.",
@@ -4758,7 +4758,7 @@ const Map<int, String> _noorEnglish = {
   20098:
       "Your god is only Allāh, except for whom there is no deity. He has encompassed all things in knowledge.\"",
   20099:
-      "Thus, [O Muḥammad], We relate to you from the news of what has preceded. And We have certainly given you from Us a message [i.e., the Qur’ān].",
+      "Thus, [O Muhammad], We relate to you from the news of what has preceded. And We have certainly given you from Us a message [i.e., the Qur’ān].",
   20100:
       "Whoever turns away from it - then indeed, he will bear on the Day of Resurrection a burden [i.e., great sin],",
   20101:
@@ -4786,7 +4786,7 @@ const Map<int, String> _noorEnglish = {
   20113:
       "And thus We have sent it down as an Arabic Qur’ān[860] and have diversified therein the warnings that perhaps they will avoid [sin] or it would cause them remembrance.\\n\\nFootnotes: [860] i.e., revealed in the Arabic language.",
   20114:
-      "So high [above all] is Allāh, the Sovereign,[861] the Truth.[862] And, [O Muḥammad], do not hasten with [recitation of] the Qur’ān before its revelation is completed to you, and say, \"My Lord, increase me in knowledge.\"\\n\\nFootnotes: [861] And owner of everything in existence.\n[862] Or \"the True Reality,\" i.e., the real and permanent existence upon which all other existence depends.",
+      "So high [above all] is Allāh, the Sovereign,[861] the Truth.[862] And, [O Muhammad], do not hasten with [recitation of] the Qur’ān before its revelation is completed to you, and say, \"My Lord, increase me in knowledge.\"\\n\\nFootnotes: [861] And owner of everything in existence.\n[862] Or \"the True Reality,\" i.e., the real and permanent existence upon which all other existence depends.",
   20115:
       "And We had already taken a promise from Adam before, but he forgot; and We found not in him determination.[863]\\n\\nFootnotes: [863] To resist temptation.",
   20116:
@@ -4824,9 +4824,9 @@ const Map<int, String> _noorEnglish = {
   20132:
       "And enjoin prayer upon your family [and people] and be steadfast therein. We ask you not for provision; We provide for you, and the [best] outcome is for [those of] righteousness.",
   20133:
-      "And they say, \"Why does he not bring us a sign from his Lord?\" Has there not come to them evidence of what was in the former scriptures?[868]\\n\\nFootnotes: [868] Is not the Qur’ān an adequate proof of Muḥammad's prophethood and sufficient as a lasting miracle?",
+      "And they say, \"Why does he not bring us a sign from his Lord?\" Has there not come to them evidence of what was in the former scriptures?[868]\\n\\nFootnotes: [868] Is not the Qur’ān an adequate proof of Muhammad's prophethood and sufficient as a lasting miracle?",
   20134:
-      "And if We had destroyed them with a punishment before him,[869] they would have said, \"Our Lord, why did You not send to us a messenger so we could have followed Your verses [i.e., teachings] before we were humiliated and disgraced?\"\\n\\nFootnotes: [869] Prophet Muḥammad (ﷺ). Also interpreted as \"before it,\" i.e., the Qur’ān.",
+      "And if We had destroyed them with a punishment before him,[869] they would have said, \"Our Lord, why did You not send to us a messenger so we could have followed Your verses [i.e., teachings] before we were humiliated and disgraced?\"\\n\\nFootnotes: [869] Prophet Muhammad (ﷺ). Also interpreted as \"before it,\" i.e., the Qur’ān.",
   20135:
       "Say, \"Each [of us] is waiting;[870] so wait. For you will know who are the companions of the sound path and who is guided.\"\\n\\nFootnotes: [870] For the outcome of this matter.",
   21001:
@@ -4842,7 +4842,7 @@ const Map<int, String> _noorEnglish = {
   21006:
       "Not a [single] city which We destroyed believed before them,[872] so will they believe?\\n\\nFootnotes: [872] Even though they had witnessed signs and miracles.",
   21007:
-      "And We sent not before you, [O Muḥammad], except men to whom We revealed [the message], so ask the people of the message [i.e., former scriptures] if you do not know.",
+      "And We sent not before you, [O Muhammad], except men to whom We revealed [the message], so ask the people of the message [i.e., former scriptures] if you do not know.",
   21008:
       "And We did not make them [i.e., the prophets] forms not eating food,[873] nor were they immortal [on earth].\\n\\nFootnotes: [873] Like the angels. Rather, they were human beings with human attributes.",
   21009:
@@ -4874,7 +4874,7 @@ const Map<int, String> _noorEnglish = {
   21023:
       "He is not questioned about what He does, but they will be questioned.",
   21024:
-      "Or have they taken gods besides Him? Say, [O Muḥammad], \"Produce your proof. This [Qur’ān] is the message for those with me and the message of those before me.\"[881] But most of them do not know the truth, so they are turning away.\\n\\nFootnotes: [881] All previous prophets called for the worship of Allāh alone.",
+      "Or have they taken gods besides Him? Say, [O Muhammad], \"Produce your proof. This [Qur’ān] is the message for those with me and the message of those before me.\"[881] But most of them do not know the truth, so they are turning away.\\n\\nFootnotes: [881] All previous prophets called for the worship of Allāh alone.",
   21025:
       "And We sent not before you any messenger except We revealed to him that, \"There is no deity except Me, so worship Me.\"",
   21026:
@@ -4897,7 +4897,7 @@ const Map<int, String> _noorEnglish = {
   21035:
       "Every soul will taste death. And We test you with evil and with good as trial; and to Us you will be returned.",
   21036:
-      "And when those who disbelieve see you, [O Muḥammad], they take you not except in ridicule, [saying], \"Is this the one who mentions [i.e., insults] your gods?\" And they are, at the mention of the Most Merciful, disbelievers.",
+      "And when those who disbelieve see you, [O Muhammad], they take you not except in ridicule, [saying], \"Is this the one who mentions [i.e., insults] your gods?\" And they are, at the mention of the Most Merciful, disbelievers.",
   21037:
       "Man was created of haste [i.e., impatience]. I will show you My signs [i.e., vengeance], so do not impatiently urge Me.",
   21038: "And they say, \"When is this promise, if you should be truthful?\"",
@@ -5032,7 +5032,7 @@ const Map<int, String> _noorEnglish = {
       "And We have already written in the book [of Psalms][909] after the [previous] mention[910] that the land [of Paradise] is inherited by My righteous servants.\\n\\nFootnotes: [909] Az-Zabūr can also mean \"scriptures\" in general.\n[910] i.e., the Torah. The \"mention\" may also refer to the original inscription with Allāh, i.e., the Preserved Slate (al-Lawḥ al-Maḥfūẓ).",
   21106: "Indeed, in this [Qur’ān] is notification for a worshipping people.",
   21107:
-      "And We have not sent you, [O Muḥammad], except as a mercy to the worlds.",
+      "And We have not sent you, [O Muhammad], except as a mercy to the worlds.",
   21108:
       "Say, \"It is only revealed to me that your god is but one God; so will you be Muslims [in submission to Him]?\"",
   21109:
@@ -5072,7 +5072,7 @@ const Map<int, String> _noorEnglish = {
   22014:
       "Indeed, Allāh will admit those who believe and do righteous deeds to gardens beneath which rivers flow. Indeed, Allāh does what He intends.",
   22015:
-      "Whoever should think that Allāh will not support him [i.e., Prophet Muḥammad (ﷺ)] in this world and the Hereafter - let him extend a rope to the ceiling, then cut off [his breath],[918] and let him see: will his effort remove that which enrages [him]?\\n\\nFootnotes: [918] i.e., strangle himself.",
+      "Whoever should think that Allāh will not support him [i.e., Prophet Muhammad (ﷺ)] in this world and the Hereafter - let him extend a rope to the ceiling, then cut off [his breath],[918] and let him see: will his effort remove that which enrages [him]?\\n\\nFootnotes: [918] i.e., strangle himself.",
   22016:
       "And thus have We sent it [i.e., the Qur’ān] down as verses of clear evidence and because Allāh guides whom He intends.",
   22017:
@@ -5092,7 +5092,7 @@ const Map<int, String> _noorEnglish = {
   22025:
       "Indeed, those who have disbelieved and avert [people] from the way of Allāh and [from] al-Masjid al-Ḥarām, which We made for the people - equal are the resident therein and one from outside - and [also] whoever intends [a deed] therein[922] of deviation [in religion] by wrongdoing - We will make him taste of a painful punishment.\\n\\nFootnotes: [922] Whether inside its boundaries or intending from afar to do evil therein. The Ḥaram is unique in that the mere intention of sin therein (whether or not it is actually carried out) is sufficient to bring punishment from Allāh.",
   22026:
-      "And [mention, O Muḥammad], when We designated for Abraham the site of the House, [saying], \"Do not associate anything with Me and purify My House for those who perform ṭawāf[923] and those who stand [in prayer] and those who bow and prostrate.\\n\\nFootnotes: [923] See footnote to 2:125.",
+      "And [mention, O Muhammad], when We designated for Abraham the site of the House, [saying], \"Do not associate anything with Me and purify My House for those who perform ṭawāf[923] and those who stand [in prayer] and those who bow and prostrate.\\n\\nFootnotes: [923] See footnote to 2:125.",
   22027:
       "And proclaim to the people the ḥajj [pilgrimage]; they will come to you on foot and on every lean camel; they will come from every distant pass -",
   22028:
@@ -5108,7 +5108,7 @@ const Map<int, String> _noorEnglish = {
   22033:
       "For you therein [i.e., the animals marked for sacrifice] are benefits for a specified term;[926] then their place of sacrifice is at the ancient House.[927]\\n\\nFootnotes: [926] i.e., they may be milked or ridden (in the case of camels) before the time of slaughter.\n[927] i.e., within the boundaries of the Ḥaram, which includes Minā.",
   22034:
-      "And for every [religious] community We have appointed a rite [of sacrifice][928] that they may mention the name of Allāh over what He has provided for them of [sacrificial] animals. For your god is one God, so to Him submit. And, [O Muḥammad], give good tidings to the humble [before their Lord]\\n\\nFootnotes: [928] i.e., the rite of sacrifice has always been a part of Allāh's revealed religion.",
+      "And for every [religious] community We have appointed a rite [of sacrifice][928] that they may mention the name of Allāh over what He has provided for them of [sacrificial] animals. For your god is one God, so to Him submit. And, [O Muhammad], give good tidings to the humble [before their Lord]\\n\\nFootnotes: [928] i.e., the rite of sacrifice has always been a part of Allāh's revealed religion.",
   22035:
       "Who, when Allāh is mentioned, their hearts are fearful, and [to] the patient over what has afflicted them, and the establishers of prayer and those who spend from what We have provided them.",
   22036:
@@ -5124,7 +5124,7 @@ const Map<int, String> _noorEnglish = {
   22041:
       "[And they are] those who, if We give them authority in the land, establish prayer and give zakāh and enjoin what is right and forbid what is wrong. And to Allāh belongs the outcome of [all] matters.",
   22042:
-      "And if they deny you, [O Muḥammad] - so, before them, did the people of Noah and ʿAad and Thamūd deny [their prophets],",
+      "And if they deny you, [O Muhammad] - so, before them, did the people of Noah and ʿAad and Thamūd deny [their prophets],",
   22043: "And the people of Abraham and the people of Lot",
   22044:
       "And the inhabitants of Madyan. And Moses was denied, so I prolonged enjoyment for the disbelievers; then I seized them, and how [terrible] was My reproach.",
@@ -5172,7 +5172,7 @@ const Map<int, String> _noorEnglish = {
   22066:
       "And He is the one who gave you life; then He causes you to die and then will [again] give you life. Indeed, mankind is ungrateful.",
   22067:
-      "For every [religious] community We have appointed rites which they perform. So, [O Muḥammad], let them [i.e., the disbelievers] not contend with you over the matter but invite [them] to your Lord. Indeed, you are upon straight guidance.",
+      "For every [religious] community We have appointed rites which they perform. So, [O Muhammad], let them [i.e., the disbelievers] not contend with you over the matter but invite [them] to your Lord. Indeed, you are upon straight guidance.",
   22068:
       "And if they dispute with you, then say, \"Allāh is most knowing of what you do.",
   22069:
@@ -5313,7 +5313,7 @@ const Map<int, String> _noorEnglish = {
   23071:
       "But if the Truth [i.e., Allāh] had followed their inclinations, the heavens and the earth and whoever is in them would have been ruined. Rather, We have brought them their message,[965] but they, from their message, are turning away.\\n\\nFootnotes: [965] Or \"reminder.\"",
   23072:
-      "Or do you, [O Muḥammad], ask them for payment? But the reward of your Lord is best, and He is the best of providers.",
+      "Or do you, [O Muhammad], ask them for payment? But the reward of your Lord is best, and He is the best of providers.",
   23073: "And indeed, you invite them to a straight path.",
   23074:
       "But indeed, those who do not believe in the Hereafter are deviating from the path.",
@@ -5336,7 +5336,7 @@ const Map<int, String> _noorEnglish = {
   23083:
       "We have been promised this, we and our forefathers, before; this is not but legends of the former peoples.\"",
   23084:
-      "Say, [O Muḥammad], \"To whom belongs the earth and whoever is in it, if you should know?\"",
+      "Say, [O Muhammad], \"To whom belongs the earth and whoever is in it, if you should know?\"",
   23085: "They will say, \"To Allāh.\" Say, \"Then will you not remember?\"",
   23086:
       "Say, \"Who is Lord of the seven heavens and Lord of the Great Throne?\"",
@@ -5352,7 +5352,7 @@ const Map<int, String> _noorEnglish = {
   23092:
       "[He is] Knower of the unseen and the witnessed, so high is He above what they associate [with Him].",
   23093:
-      "Say, [O Muḥammad], \"My Lord, if You should show me that which they are promised,",
+      "Say, [O Muhammad], \"My Lord, if You should show me that which they are promised,",
   23094: "My Lord, then do not place me among the wrongdoing people.\"",
   23095: "And indeed, We are Able to show you what We have promised them.",
   23096:
@@ -5397,7 +5397,7 @@ const Map<int, String> _noorEnglish = {
   23117:
       "And whoever invokes besides Allāh another deity for which he has no proof - then his account is only with his Lord. Indeed, the disbelievers will not succeed.",
   23118:
-      "And, [O Muḥammad], say, \"My Lord, forgive and have mercy, and You are the best of the merciful.\"",
+      "And, [O Muhammad], say, \"My Lord, forgive and have mercy, and You are the best of the merciful.\"",
   24001:
       "[This is] a sūrah which We have sent down and made [that within it] obligatory and revealed therein verses of clear evidence that you might remember.",
   24002:
@@ -5520,7 +5520,7 @@ const Map<int, String> _noorEnglish = {
   24061:
       "There is not upon the blind [any] constraint nor upon the lame constraint nor upon the ill constraint nor upon yourselves when you eat from your [own] houses or the houses of your fathers or the houses of your mothers or the houses of your brothers or the houses of your sisters or the houses of your father's brothers or the houses of your father's sisters or the houses of your mother's brothers or the houses of your mother's sisters or [from houses] whose keys you possess or [from the house] of your friend. There is no blame upon you whether you eat together or separately. But when you enter houses, give greetings of peace[1003] upon each other - a greeting from Allāh, blessed and good. Thus does Allāh make clear to you the verses [of ordinance] that you may understand.\\n\\nFootnotes: [1003] Saying, \"As-salāmu ʿalaykum\" (\"Peace be upon you\").",
   24062:
-      "The believers are only those who believe in Allāh and His Messenger and, when they are [meeting] with him for a matter of common interest, do not depart until they have asked his permission. Indeed, those who ask your permission, [O Muḥammad] - those are the ones who believe in Allāh and His Messenger. So when they ask your permission due to something of their affairs, then give permission to whom you will among them and ask forgiveness for them of Allāh. Indeed, Allāh is Forgiving and Merciful.",
+      "The believers are only those who believe in Allāh and His Messenger and, when they are [meeting] with him for a matter of common interest, do not depart until they have asked his permission. Indeed, those who ask your permission, [O Muhammad] - those are the ones who believe in Allāh and His Messenger. So when they ask your permission due to something of their affairs, then give permission to whom you will among them and ask forgiveness for them of Allāh. Indeed, Allāh is Forgiving and Merciful.",
   24063:
       "Do not make [your] calling of the Messenger among yourselves as the call of one of you to another. Already Allāh knows those of you who slip away, concealed by others. So let those beware who dissent from his [i.e., the Prophet's] order,[1004] lest fitnah[1005] strike them or a painful punishment.\\n\\nFootnotes: [1004] Meaning also his way or his sunnah.\n[1005] Trials, affliction, dissension, strife, etc.",
   24064:
@@ -5536,7 +5536,7 @@ const Map<int, String> _noorEnglish = {
   25005:
       "And they say, \"Legends of the former peoples which he has written down, and they are dictated to him morning and afternoon.\"",
   25006:
-      "Say, [O Muḥammad], \"It has been revealed by He who knows [every] secret within the heavens and the earth. Indeed, He is ever Forgiving and Merciful.\"",
+      "Say, [O Muhammad], \"It has been revealed by He who knows [every] secret within the heavens and the earth. Indeed, He is ever Forgiving and Merciful.\"",
   25007:
       "And they say, \"What is this messenger that eats food and walks in the markets? Why was there not sent down to him an angel so he would be with him a warner?",
   25008:
@@ -5564,7 +5564,7 @@ const Map<int, String> _noorEnglish = {
   25019:
       "So they will deny you, [disbelievers], in what you say,[1011] and you cannot avert [punishment] or [find] help. And whoever commits injustice[1012] among you - We will make him taste a great punishment.\\n\\nFootnotes: [1011] At the time of Judgement the false objects of worship will betray their worshippers and deny them.\n[1012] Specifically, association of others with Allāh.",
   25020:
-      "And We did not send before you, [O Muḥammad], any of the messengers except that they ate food and walked in the markets. And We have made some of you [people] as trial for others - will you have patience? And ever is your Lord, Seeing.",
+      "And We did not send before you, [O Muhammad], any of the messengers except that they ate food and walked in the markets. And We have made some of you [people] as trial for others - will you have patience? And ever is your Lord, Seeing.",
   25021:
       "And those who do not expect the meeting with Us say, \"Why were not angels sent down to us, or [why] do we [not] see our Lord?\" They have certainly become arrogant within themselves[1013] and [become] insolent with great insolence.\\n\\nFootnotes: [1013] Additional meanings are \"among themselves\" and \"over [the matter of] themselves.\"",
   25022:
@@ -5606,7 +5606,7 @@ const Map<int, String> _noorEnglish = {
   25040:
       "And they have already come upon the town which was showered with a rain of evil [i.e., stones]. So have they not seen it? But they are not expecting resurrection.[1026]\\n\\nFootnotes: [1026] So they do not benefit from lessons of the past.",
   25041:
-      "And when they see you, [O Muḥammad], they take you not except in ridicule, [saying], \"Is this the one whom Allāh has sent as a messenger?",
+      "And when they see you, [O Muhammad], they take you not except in ridicule, [saying], \"Is this the one whom Allāh has sent as a messenger?",
   25042:
       "He almost would have misled us from our gods had we not been steadfast in [worship of] them.\" But they are going to know, when they see the punishment, who is farthest astray in [his] way.",
   25043:
@@ -5626,7 +5626,7 @@ const Map<int, String> _noorEnglish = {
   25050:
       "And We have certainly distributed it among them that they might be reminded,[1032] but most of the people refuse except disbelief.\\n\\nFootnotes: [1032] Of Allāh's ability to bring the dead to life.",
   25051:
-      "And if We had willed, We could have sent into every city a warner.[1033]\\n\\nFootnotes: [1033] However, Allāh willed that Prophet Muḥammad (ﷺ) be sent as the final messenger for all peoples of the earth until the Day of Resurrection.",
+      "And if We had willed, We could have sent into every city a warner.[1033]\\n\\nFootnotes: [1033] However, Allāh willed that Prophet Muhammad (ﷺ) be sent as the final messenger for all peoples of the earth until the Day of Resurrection.",
   25052:
       "So do not obey the disbelievers, and strive against them with it [i.e., the Qur’ān] a great striving.",
   25053:
@@ -5636,7 +5636,7 @@ const Map<int, String> _noorEnglish = {
   25055:
       "But they worship rather than Allāh that which does not benefit them or harm them, and the disbeliever is ever, against his Lord, an assistant [to Satan].",
   25056:
-      "And We have not sent you, [O Muḥammad], except as a bringer of good tidings and a warner.",
+      "And We have not sent you, [O Muhammad], except as a bringer of good tidings and a warner.",
   25057:
       "Say, \"I do not ask of you for it any payment - only that whoever wills might take to his Lord a way.\"",
   25058:
@@ -5680,7 +5680,7 @@ const Map<int, String> _noorEnglish = {
   26001: "Ṭā, Seen, Meem.[1043]\\n\\nFootnotes: [1043] See footnote to 2:1.",
   26002: "These are the verses of the clear Book.",
   26003:
-      "Perhaps, [O Muḥammad], you would kill yourself with grief that they will not be believers.",
+      "Perhaps, [O Muhammad], you would kill yourself with grief that they will not be believers.",
   26004:
       "If We willed, We could send down to them from the sky a sign for which their necks would remain humbled.[1044]\\n\\nFootnotes: [1044] i.e., they would be compelled to believe.",
   26005:
@@ -5942,7 +5942,7 @@ const Map<int, String> _noorEnglish = {
   26192:
       "And indeed, it [i.e., the Qur’ān] is the revelation of the Lord of the worlds.",
   26193: "The Trustworthy Spirit [i.e., Gabriel] has brought it down",
-  26194: "Upon your heart, [O Muḥammad] - that you may be of the warners",
+  26194: "Upon your heart, [O Muhammad] - that you may be of the warners",
   26195: "In a clear Arabic language.",
   26196: "And indeed, it is [mentioned] in the scriptures of former peoples.",
   26197:
@@ -5970,7 +5970,7 @@ const Map<int, String> _noorEnglish = {
       "Indeed they, from [its] hearing, are removed.[1063]\\n\\nFootnotes: [1063] As mentioned in 72:9.",
   26213:
       "So do not invoke[1064] with Allāh another deity and [thus] be among the punished.\\n\\nFootnotes: [1064] Or \"worship.\"",
-  26214: "And warn, [O Muḥammad], your closest kindred.",
+  26214: "And warn, [O Muhammad], your closest kindred.",
   26215:
       "And lower your wing [i.e., show kindness] to those who follow you of the believers.",
   26216:
@@ -6001,7 +6001,7 @@ const Map<int, String> _noorEnglish = {
   27005:
       "Those are the ones for whom there will be the worst of punishment, and in the Hereafter they are the greatest losers.",
   27006:
-      "And indeed, [O Muḥammad], you receive the Qur’ān from one Wise and Knowing.",
+      "And indeed, [O Muhammad], you receive the Qur’ān from one Wise and Knowing.",
   27007:
       "[Mention] when Moses said to his family, \"Indeed, I have perceived a fire. I will bring you from there information or will bring you a burning torch that you may warm yourselves.\"",
   27008:
@@ -6103,7 +6103,7 @@ const Map<int, String> _noorEnglish = {
   27058:
       "And We rained upon them a rain [of stones], and evil was the rain of those who were warned.",
   27059:
-      "Say, [O Muḥammad], \"Praise be to Allāh, and peace upon His servants whom He has chosen. Is Allāh better or what they associate with Him?\"",
+      "Say, [O Muhammad], \"Praise be to Allāh, and peace upon His servants whom He has chosen. Is Allāh better or what they associate with Him?\"",
   27060:
       "[More precisely], is He [not best] who created the heavens and the earth and sent down for you rain from the sky, causing to grow thereby gardens of joyful beauty which you could not [otherwise] have grown the trees thereof? Is there a deity with Allāh?[1083] [No], but they are a people who ascribe equals [to Him].\\n\\nFootnotes: [1083] Three meanings are implied: \"Is there another god who did all of this with Allāh?\" or \"Is there any deity worthy to be worshipped along with Allāh?\" or \"Is there a deity to be compared with Allāh?\"",
   27061:
@@ -6123,7 +6123,7 @@ const Map<int, String> _noorEnglish = {
   27068:
       "We have been promised this, we and our forefathers, before. This is not but legends of the former peoples.\"",
   27069:
-      "Say, [O Muḥammad], \"Proceed [i.e., travel] through the land and observe how was the end of the criminals.\"",
+      "Say, [O Muhammad], \"Proceed [i.e., travel] through the land and observe how was the end of the criminals.\"",
   27070: "And grieve not over them or be in distress from what they conspire.",
   27071:
       "And they say, \"When is [the fulfillment of] this promise, if you should be truthful?\"",
@@ -6164,7 +6164,7 @@ const Map<int, String> _noorEnglish = {
   27090:
       "And whoever comes with an evil deed[1090] - their faces will be overturned into the Fire, [and it will be said], \"Are you recompensed except for what you used to do?\"\\n\\nFootnotes: [1090] Without having repented. It may refer generally to any sin or more specifically to association of another with Allāh.",
   27091:
-      "[Say, O Muḥammad], \"I have only been commanded to worship the Lord of this city,[1091] who made it sacred and to whom [belongs] all things. And I am commanded to be of the Muslims [i.e., those who submit to Allāh]\\n\\nFootnotes: [1091] Or region, meaning Makkah and its surroundings.",
+      "[Say, O Muhammad], \"I have only been commanded to worship the Lord of this city,[1091] who made it sacred and to whom [belongs] all things. And I am commanded to be of the Muslims [i.e., those who submit to Allāh]\\n\\nFootnotes: [1091] Or region, meaning Makkah and its surroundings.",
   27092:
       "And to recite the Qur’ān.\" And whoever is guided is only guided for [the benefit of] himself; and whoever strays - say, \"I am only [one] of the warners.\"",
   27093:
@@ -6254,13 +6254,13 @@ const Map<int, String> _noorEnglish = {
   28043:
       "And We gave Moses the Scripture, after We had destroyed the former generations, as enlightenment for the people and guidance and mercy that they might be reminded.",
   28044:
-      "And you, [O Muḥammad], were not on the western side [of the mount] when We revealed to Moses the command, and you were not among the witnesses [to that].",
+      "And you, [O Muhammad], were not on the western side [of the mount] when We revealed to Moses the command, and you were not among the witnesses [to that].",
   28045:
       "But We produced [many] generations [after Moses], and prolonged was their duration.[1107] And you were not a resident among the people of Madyan, reciting to them Our verses, but We were senders [of this message].[1108]\\n\\nFootnotes: [1107] So they forgot and neglected the ordinances of Allāh.\n[1108] The Prophet (ﷺ) had no way of obtaining this information except through Allāh's revelation.",
   28046:
       "And you were not at the side of the mount when We called [Moses] but [were sent] as a mercy from your Lord to warn a people to whom no warner had come before you that they might be reminded.",
   28047:
-      "And if not that a disaster should strike them for what their hands put forth [of sins] and they would say, \"Our Lord, why did You not send us a messenger so we could have followed Your verses and been among the believers?\"...[1109]\\n\\nFootnotes: [1109] The conclusion of the sentence is understood to be \"...We would not have sent messengers,\" meaning that Allāh (subḥānahu wa taʿālā) sent messengers and sent Muḥammad (ﷺ) with the final scripture to mankind so that no one could claim that punishment was imposed unjustly without warning.",
+      "And if not that a disaster should strike them for what their hands put forth [of sins] and they would say, \"Our Lord, why did You not send us a messenger so we could have followed Your verses and been among the believers?\"...[1109]\\n\\nFootnotes: [1109] The conclusion of the sentence is understood to be \"...We would not have sent messengers,\" meaning that Allāh (subḥānahu wa taʿālā) sent messengers and sent Muhammad (ﷺ) with the final scripture to mankind so that no one could claim that punishment was imposed unjustly without warning.",
   28048:
       "But when the truth came to them from Us, they said, \"Why was he not given like that which was given to Moses?\" Did they not disbelieve in that which was given to Moses before? They said, \"[They are but] two works of magic supporting each other,[1110] and indeed we are, in both, disbelievers.\"\\n\\nFootnotes: [1110] The reference is by the disbelievers of Quraysh to the Qur’ān and the Torah.",
   28049:
@@ -6278,7 +6278,7 @@ const Map<int, String> _noorEnglish = {
   28055:
       "And when they hear ill speech, they turn away from it and say, \"For us are our deeds, and for you are your deeds. Peace will be upon you;[1112] we seek not the ignorant.\"\\n\\nFootnotes: [1112] This is not the Islāmic greeting of \"Peace be upon you.\" Rather, it means \"You are secure from being treated in a like manner by us.\"",
   28056:
-      "Indeed, [O Muḥammad], you do not guide whom you like, but Allāh guides whom He wills. And He is most knowing of the [rightly] guided.",
+      "Indeed, [O Muhammad], you do not guide whom you like, but Allāh guides whom He wills. And He is most knowing of the [rightly] guided.",
   28057:
       "And they [i.e., the Quraysh] say, \"If we were to follow the guidance with you, we would be swept[1113] from our land.\" Have We not established for them a safe sanctuary to which are brought the fruits of all things as provision from Us? But most of them do not know.\\n\\nFootnotes: [1113] By the other Arab tribes.",
   28058:
@@ -6336,7 +6336,7 @@ const Map<int, String> _noorEnglish = {
   28084:
       "Whoever comes [on the Day of Judgement] with a good deed will have better than it; and whoever comes with an evil deed - then those who did evil deeds will not be recompensed except [as much as] what they used to do.",
   28085:
-      "Indeed, [O Muḥammad], He who imposed upon you the Qur’ān will take you back to a place of return.[1120] Say, \"My Lord is most knowing of who brings guidance and who is in clear error.\"\\n\\nFootnotes: [1120] Meaning to Makkah (in this life) or to Paradise (in the Hereafter).",
+      "Indeed, [O Muhammad], He who imposed upon you the Qur’ān will take you back to a place of return.[1120] Say, \"My Lord is most knowing of who brings guidance and who is in clear error.\"\\n\\nFootnotes: [1120] Meaning to Makkah (in this life) or to Paradise (in the Hereafter).",
   28086:
       "And you were not expecting that the Book would be conveyed to you, but [it is] a mercy from your Lord. So do not be an assistant to the disbelievers.[1121]\\n\\nFootnotes: [1121] In their religion by making any concessions to their beliefs.",
   28087:
@@ -6377,11 +6377,11 @@ const Map<int, String> _noorEnglish = {
   29017:
       "You only worship, besides Allāh, idols, and you produce a falsehood. Indeed, those you worship besides Allāh do not possess for you [the power of] provision. So seek from Allāh provision and worship Him and be grateful to Him. To Him you will be returned.\"",
   29018:
-      "And if you [people] deny [the message] - already nations before you have denied. And there is not upon the Messenger except [the duty of] clear notification.[1129]\\n\\nFootnotes: [1129] Commentators have differed over this verse - whether it is a continuation of the words of Prophet Abraham or words of comfort given by Allāh to Prophet Muḥammad (ﷺ), which according to context seems more likely.",
+      "And if you [people] deny [the message] - already nations before you have denied. And there is not upon the Messenger except [the duty of] clear notification.[1129]\\n\\nFootnotes: [1129] Commentators have differed over this verse - whether it is a continuation of the words of Prophet Abraham or words of comfort given by Allāh to Prophet Muhammad (ﷺ), which according to context seems more likely.",
   29019:
       "Have they not considered how Allāh begins creation and then repeats it? Indeed that, for Allāh, is easy.",
   29020:
-      "Say, [O Muḥammad], \"Travel through the land and observe how He began creation. Then Allāh will produce the final creation [i.e., development]. Indeed Allāh, over all things, is competent.\"",
+      "Say, [O Muhammad], \"Travel through the land and observe how He began creation. Then Allāh will produce the final creation [i.e., development]. Indeed Allāh, over all things, is competent.\"",
   29021:
       "He punishes whom He wills and has mercy upon whom He wills, and to Him you will be returned.",
   29022:
@@ -6430,7 +6430,7 @@ const Map<int, String> _noorEnglish = {
   29044:
       "Allāh created the heavens and the earth in truth. Indeed in that is a sign for the believers.",
   29045:
-      "Recite, [O Muḥammad], what has been revealed to you of the Book and establish prayer. Indeed, prayer prohibits immorality and wrongdoing, and the remembrance of Allāh is greater. And Allāh knows that which you do.",
+      "Recite, [O Muhammad], what has been revealed to you of the Book and establish prayer. Indeed, prayer prohibits immorality and wrongdoing, and the remembrance of Allāh is greater. And Allāh knows that which you do.",
   29046:
       "And do not argue with the People of the Scripture except in a way that is best, except for those who commit injustice among them, and say, \"We believe in that which has been revealed to us and revealed to you. And our God and your God is one; and we are Muslims [in submission] to Him.\"",
   29047:
@@ -6557,7 +6557,7 @@ const Map<int, String> _noorEnglish = {
   30041:
       "Corruption has appeared throughout the land and sea by [reason of] what the hands of people have earned so He [i.e., Allāh] may let them taste part of [the consequence of] what they have done that perhaps they will return [to righteousness].",
   30042:
-      "Say, [O Muḥammad], \"Travel through the land and observe how was the end of those before. Most of them were associators [of others with Allāh].",
+      "Say, [O Muhammad], \"Travel through the land and observe how was the end of those before. Most of them were associators [of others with Allāh].",
   30043:
       "So direct your face [i.e., self] toward the correct religion before a Day comes from Allāh of which there is no repelling. That Day, they will be divided.[1152]\\n\\nFootnotes: [1152] Into those destined for Paradise and those destined for Hell.",
   30044:
@@ -6589,7 +6589,7 @@ const Map<int, String> _noorEnglish = {
   30057:
       "So that Day, their excuse will not benefit those who wronged, nor will they be asked to appease [Allāh].",
   30058:
-      "And We have certainly presented to the people in this Qur’ān from every [kind of] example. But, [O Muḥammad], if you should bring them a sign, the disbelievers will surely say, \"You [believers] are but falsifiers.\"",
+      "And We have certainly presented to the people in this Qur’ān from every [kind of] example. But, [O Muhammad], if you should bring them a sign, the disbelievers will surely say, \"You [believers] are but falsifiers.\"",
   30059:
       "Thus does Allāh seal the hearts of those who do not know.[1156]\\n\\nFootnotes: [1156] i.e., those who do not wish to know the truth and refuse it.",
   30060:
@@ -6617,7 +6617,7 @@ const Map<int, String> _noorEnglish = {
   31012:
       "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy.",
   31013:
-      "And [mention, O Muḥammad], when Luqmān said to his son while he was instructing him, \"O my son, do not associate [anything] with Allāh. Indeed, association [with Him] is great injustice.\"",
+      "And [mention, O Muhammad], when Luqmān said to his son while he was instructing him, \"O my son, do not associate [anything] with Allāh. Indeed, association [with Him] is great injustice.\"",
   31014:
       "And We have enjoined upon man [care] for his parents. His mother carried him, [increasing her] in weakness upon weakness, and his weaning is in two years. Be grateful to Me and to your parents; to Me is the [final] destination.",
   31015:
@@ -6664,7 +6664,7 @@ const Map<int, String> _noorEnglish = {
   32002:
       "[This is] the revelation of the Book about which there is no doubt from the Lord of the worlds.",
   32003:
-      "Or do they say, \"He invented it\"? Rather, it is the truth from your Lord, [O Muḥammad], that you may warn a people to whom no warner has come before you [so] perhaps they will be guided.",
+      "Or do they say, \"He invented it\"? Rather, it is the truth from your Lord, [O Muhammad], that you may warn a people to whom no warner has come before you [so] perhaps they will be guided.",
   32004:
       "It is Allāh who created the heavens and the earth and whatever is between them in six days; then He established Himself above the Throne.[1171] You have not besides Him any protector or any intercessor; so will you not be reminded?\\n\\nFootnotes: [1171] See footnotes to 2:19 and 7:54.",
   32005:
@@ -6703,7 +6703,7 @@ const Map<int, String> _noorEnglish = {
   32022:
       "And who is more unjust than one who is reminded of the verses of his Lord; then he turns away from them? Indeed We, from the criminals, will take retribution.",
   32023:
-      "And We certainly gave Moses the Scripture, so do not be in doubt over his meeting.[1176] And We made it [i.e., the Torah] guidance for the Children of Israel.\\n\\nFootnotes: [1176] i.e., Muḥammad's meeting Moses on the night of al-Miʿrāj (ascent).",
+      "And We certainly gave Moses the Scripture, so do not be in doubt over his meeting.[1176] And We made it [i.e., the Torah] guidance for the Children of Israel.\\n\\nFootnotes: [1176] i.e., Muhammad's meeting Moses on the night of al-Miʿrāj (ascent).",
   32024:
       "And We made from among them leaders guiding by Our command when they were patient and [when] they were certain of Our signs.",
   32025:
@@ -6715,7 +6715,7 @@ const Map<int, String> _noorEnglish = {
   32028:
       "And they say, \"When will be this conquest,[1177] if you should be truthful?\"\\n\\nFootnotes: [1177] Or \"decision,\" i.e., judgement.",
   32029:
-      "Say, [O Muḥammad], \"On the Day of Conquest the belief of those who had disbelieved will not benefit them, nor will they be reprieved.\"",
+      "Say, [O Muhammad], \"On the Day of Conquest the belief of those who had disbelieved will not benefit them, nor will they be reprieved.\"",
   32030: "So turn away from them and wait. Indeed, they are waiting.",
   33001:
       "O Prophet, fear Allāh and do not obey the disbelievers and the hypocrites. Indeed, Allāh is ever Knowing and Wise.",
@@ -6730,7 +6730,7 @@ const Map<int, String> _noorEnglish = {
   33006:
       "The Prophet is more worthy of the believers than themselves,[1182] and his wives are [in the position of] their mothers. And those of [blood] relationship are more entitled [to inheritance] in the decree of Allāh than the [other] believers and the emigrants, except that you may do to your close associates a kindness [through bequest]. That was in the Book[1183] inscribed.\\n\\nFootnotes: [1182] He (ﷺ) is more worthy of their obedience and loyalty and is more concerned for them than they are for one another.\n[1183] The Preserved Slate (al-Lawḥ al-Maḥfūẓ).",
   33007:
-      "And [mention, O Muḥammad], when We took from the prophets their covenant and from you and from Noah and Abraham and Moses and Jesus, the son of Mary; and We took from them a solemn covenant",
+      "And [mention, O Muhammad], when We took from the prophets their covenant and from you and from Noah and Abraham and Moses and Jesus, the son of Mary; and We took from them a solemn covenant",
   33008:
       "That He may question the truthful about their truth.[1184] And He has prepared for the disbelievers a painful punishment.\\n\\nFootnotes: [1184] i.e., that He may ask the prophets what they conveyed to their people and what response they received. \"The truthful\" may also refer to those who believed in the message conveyed by the prophets and imparted it to others.",
   33009:
@@ -6747,7 +6747,7 @@ const Map<int, String> _noorEnglish = {
   33015:
       "And they had already promised Allāh before not to turn their backs [i.e., flee]. And ever is the promise to Allāh [that about which one will be] questioned.",
   33016:
-      "Say, [O Muḥammad], \"Never will fleeing benefit you if you should flee from death or killing; and then [if you did], you would not be given enjoyment [of life] except for a little.\"",
+      "Say, [O Muhammad], \"Never will fleeing benefit you if you should flee from death or killing; and then [if you did], you would not be given enjoyment [of life] except for a little.\"",
   33017:
       "Say, \"Who is it that can protect you from Allāh[1186] if He intends for you an ill or intends for you a mercy?\" And they will not find for themselves besides Allāh any protector or any helper.\\n\\nFootnotes: [1186] i.e., prevent the will of Allāh from being carried out.",
   33018:
@@ -6789,13 +6789,13 @@ const Map<int, String> _noorEnglish = {
   33036:
       "It is not for a believing man or a believing woman, when Allāh and His Messenger have decided a matter, that they should [thereafter] have any choice about their affair. And whoever disobeys Allāh and His Messenger has certainly strayed into clear error.",
   33037:
-      "And [remember, O Muḥammad], when you said to the one on whom Allāh bestowed favor and you bestowed favor,[1198] \"Keep your wife and fear Allāh,\" while you concealed within yourself that which Allāh is to disclose.[1199] And you feared the people,[1200] while Allāh has more right that you fear Him.[1201] So when Zayd had no longer any need for her, We married her to you in order that there not be upon the believers any discomfort [i.e., guilt] concerning the wives of their claimed [i.e., adopted] sons when they no longer have need of them. And ever is the command [i.e., decree] of Allāh accomplished.\\n\\nFootnotes: [1198] Referring to the Prophet's freed slave, Zayd bin Ḥārithah.\n[1199] i.e., Allāh's command to the Prophet (ﷺ) to marry Zaynab after Zayd divorced her. This was to demonstrate that a man may marry a woman formerly married to his adopted son.\n[1200] i.e., feared their saying that the Prophet (ﷺ) had married the (former) wife of his son (which is prohibited by Allāh in the case of a true, begotten son).\n[1201] By making known His command.",
+      "And [remember, O Muhammad], when you said to the one on whom Allāh bestowed favor and you bestowed favor,[1198] \"Keep your wife and fear Allāh,\" while you concealed within yourself that which Allāh is to disclose.[1199] And you feared the people,[1200] while Allāh has more right that you fear Him.[1201] So when Zayd had no longer any need for her, We married her to you in order that there not be upon the believers any discomfort [i.e., guilt] concerning the wives of their claimed [i.e., adopted] sons when they no longer have need of them. And ever is the command [i.e., decree] of Allāh accomplished.\\n\\nFootnotes: [1198] Referring to the Prophet's freed slave, Zayd bin Ḥārithah.\n[1199] i.e., Allāh's command to the Prophet (ﷺ) to marry Zaynab after Zayd divorced her. This was to demonstrate that a man may marry a woman formerly married to his adopted son.\n[1200] i.e., feared their saying that the Prophet (ﷺ) had married the (former) wife of his son (which is prohibited by Allāh in the case of a true, begotten son).\n[1201] By making known His command.",
   33038:
       "There is not to be upon the Prophet any discomfort concerning that which Allāh has imposed upon him.[1202] [This is] the established way of Allāh with those [prophets] who have passed on before. And ever is the command of Allāh a destiny decreed.\\n\\nFootnotes: [1202] Or permitted to him.",
   33039:
-      "[Allāh praises] those who convey the messages of Allāh[1203] and fear Him and do not fear anyone but Allāh. And sufficient is Allāh as Accountant.\\n\\nFootnotes: [1203] i.e., the prophets (peace be upon them all) and after them, the followers of the final prophet, Muḥammad (ﷺ), who honestly convey Allāh's message to the people.",
+      "[Allāh praises] those who convey the messages of Allāh[1203] and fear Him and do not fear anyone but Allāh. And sufficient is Allāh as Accountant.\\n\\nFootnotes: [1203] i.e., the prophets (peace be upon them all) and after them, the followers of the final prophet, Muhammad (ﷺ), who honestly convey Allāh's message to the people.",
   33040:
-      "Muḥammad is not the father of [any] one of your men, but [he is] the Messenger of Allāh and seal [i.e., last] of the prophets. And ever is Allāh, of all things, Knowing.",
+      "Muhammad is not the father of [any] one of your men, but [he is] the Messenger of Allāh and seal [i.e., last] of the prophets. And ever is Allāh, of all things, Knowing.",
   33041: "O you who have believed, remember Allāh with much remembrance",
   33042: "And exalt Him morning and afternoon.",
   33043:
@@ -6815,9 +6815,9 @@ const Map<int, String> _noorEnglish = {
   33050:
       "O Prophet, indeed We have made lawful to you your wives to whom you have given their due compensation[1205] and those your right hand possesses from what Allāh has returned to you [of captives] and the daughters of your paternal uncles and the daughters of your paternal aunts and the daughters of your maternal uncles and the daughters of your maternal aunts who emigrated with you and a believing woman if she gives herself to the Prophet [and] if the Prophet wishes to marry her; [this is] only for you, excluding the [other] believers. We certainly know what We have made obligatory upon them concerning their wives and those their right hands possess, [but this is for you] in order that there will be upon you no discomfort [i.e., difficulty]. And ever is Allāh Forgiving and Merciful.\\n\\nFootnotes: [1205] i.e., bridal gifts (mahr).",
   33051:
-      "You, [O Muḥammad], may put aside whom you will of them[1206] or take to yourself whom you will. And any that you desire of those [wives] from whom you had [temporarily] separated - there is no blame upon you [in returning her]. That is more suitable that they should be content and not grieve and that they should be satisfied with what you have given them - all of them. And Allāh knows what is in your hearts. And ever is Allāh Knowing and Forbearing.\\n\\nFootnotes: [1206] Those mentioned in the previous verse as being lawful to the Prophet (ﷺ) or his wives to which he was married.",
+      "You, [O Muhammad], may put aside whom you will of them[1206] or take to yourself whom you will. And any that you desire of those [wives] from whom you had [temporarily] separated - there is no blame upon you [in returning her]. That is more suitable that they should be content and not grieve and that they should be satisfied with what you have given them - all of them. And Allāh knows what is in your hearts. And ever is Allāh Knowing and Forbearing.\\n\\nFootnotes: [1206] Those mentioned in the previous verse as being lawful to the Prophet (ﷺ) or his wives to which he was married.",
   33052:
-      "Not lawful to you, [O Muḥammad], are [any additional] women after [this], nor [is it] for you to exchange them for [other] wives, even if their beauty were to please you, except what your right hand possesses. And ever is Allāh, over all things, an Observer.[1207]\\n\\nFootnotes: [1207] See footnote to verse 4:1.",
+      "Not lawful to you, [O Muhammad], are [any additional] women after [this], nor [is it] for you to exchange them for [other] wives, even if their beauty were to please you, except what your right hand possesses. And ever is Allāh, over all things, an Observer.[1207]\\n\\nFootnotes: [1207] See footnote to verse 4:1.",
   33053:
       "O you who have believed, do not enter the houses of the Prophet except when you are permitted for a meal, without awaiting its readiness. But when you are invited, then enter; and when you have eaten, disperse without seeking to remain for conversation. Indeed, that [behavior] was troubling the Prophet, and he is shy of [dismissing] you. But Allāh is not shy of the truth. And when you ask [his wives] for something, ask them from behind a partition. That is purer for your hearts and their hearts. And it is not [conceivable or lawful] for you to harm the Messenger of Allāh or to marry his wives after him, ever. Indeed, that would be in the sight of Allāh an enormity.",
   33054:
@@ -6884,7 +6884,7 @@ const Map<int, String> _noorEnglish = {
   34012:
       "And to Solomon [We subjected] the wind - its morning [journey was that of] a month - and its afternoon [journey was that of] a month, and We made flow for him a spring of [liquid] copper. And among the jinn were those who worked for him by the permission of his Lord. And whoever deviated among them from Our command - We will make him taste of the punishment of the Blaze.",
   34013:
-      "They made for him what he willed of elevated chambers,[1220] statues,[1221] bowls like reservoirs, and stationary kettles. [We said], \"Work, O family of David, in gratitude.\" And few of My servants are grateful.\\n\\nFootnotes: [1220] Described by commentators as palaces, dwellings, or places of prayer.\n[1221] Which were not prohibited until the time of Prophet Muḥammad (ﷺ).",
+      "They made for him what he willed of elevated chambers,[1220] statues,[1221] bowls like reservoirs, and stationary kettles. [We said], \"Work, O family of David, in gratitude.\" And few of My servants are grateful.\\n\\nFootnotes: [1220] Described by commentators as palaces, dwellings, or places of prayer.\n[1221] Which were not prohibited until the time of Prophet Muhammad (ﷺ).",
   34014:
       "And when We decreed for him [i.e., Solomon] death, nothing indicated to them [i.e., the jinn] his death except a creature of the earth eating his staff.[1222] But when he fell, it became clear to the jinn that if they had known the unseen, they would not have remained in humiliating punishment.[1223]\\n\\nFootnotes: [1222] Upon which he was leaning at the time of his death. A termite continued to gnaw into the stick until it collapsed under his weight.\n[1223] i.e., hard labor. This verse is evidence that the jinn do not possess knowledge of the unseen, which belongs exclusively to Allāh (subḥānahu wa taʿālā).",
   34015:
@@ -6902,7 +6902,7 @@ const Map<int, String> _noorEnglish = {
   34021:
       "And he had over them no authority except [it was decreed] that We might make evident who believes in the Hereafter from who is thereof in doubt. And your Lord, over all things, is Guardian.[1230]\\n\\nFootnotes: [1230] Protecting and preserving the existence and attributes of His creations.",
   34022:
-      "Say, [O Muḥammad], \"Invoke those you claim [as deities] besides Allāh.\" They do not possess an atom's weight [of ability] in the heavens or on the earth, and they do not have therein any partnership [with Him], nor is there for Him from among them any assistant.",
+      "Say, [O Muhammad], \"Invoke those you claim [as deities] besides Allāh.\" They do not possess an atom's weight [of ability] in the heavens or on the earth, and they do not have therein any partnership [with Him], nor is there for Him from among them any assistant.",
   34023:
       "And intercession does not benefit with Him except for one whom He permits. [And those wait] until, when terror is removed from their hearts,[1231] they will say [to one another], \"What has your Lord said?\" They will say, \"The truth.\" And He is the Most High, the Grand.\\n\\nFootnotes: [1231] i.e., the hearts of the angels who will be permitted to intercede.",
   34024:
@@ -6945,7 +6945,7 @@ const Map<int, String> _noorEnglish = {
   34043:
       "And when Our verses are recited to them as clear evidences, they say, \"This is not but a man who wishes to avert you from that which your fathers were worshipping.\" And they say, \"This is not except a lie invented.\" And those who disbelieve say of the truth when it has come to them, \"This is not but obvious magic.\"",
   34044:
-      "And We had not given them any scriptures which they could study, and We had not sent to them before you, [O Muḥammad], any warner.",
+      "And We had not given them any scriptures which they could study, and We had not sent to them before you, [O Muhammad], any warner.",
   34045:
       "And those before them denied, and they [i.e., the people of Makkah] have not attained a tenth of what We had given them. But they [i.e., the former peoples] denied My messengers, so how [terrible] was My reproach.",
   34046:
@@ -6972,7 +6972,7 @@ const Map<int, String> _noorEnglish = {
   35003:
       "O mankind, remember the favor of Allāh upon you. Is there any creator other than Allāh who provides for you from the heaven and earth? There is no deity except Him, so how are you deluded?",
   35004:
-      "And if they deny you, [O Muḥammad] - already were messengers denied before you. And to Allāh are returned [all] matters.",
+      "And if they deny you, [O Muhammad] - already were messengers denied before you. And to Allāh are returned [all] matters.",
   35005:
       "O mankind, indeed the promise of Allāh is truth, so let not the worldly life delude you and be not deceived about Allāh by the Deceiver [i.e., Satan].",
   35006:
@@ -7005,7 +7005,7 @@ const Map<int, String> _noorEnglish = {
       "Nor are the shade and the heat,[1248]\\n\\nFootnotes: [1248] Of the sun or of a scorching wind.",
   35022:
       "And not equal are the living and the dead. Indeed, Allāh causes to hear whom He wills, but you cannot make hear those in the graves.[1249]\\n\\nFootnotes: [1249] The four comparisons given by Allāh (subḥānahu wa taʿālā) in verses 19-22 are those of the believer and unbeliever, various kinds of misbelief and (true) belief, Paradise and Hellfire, and those receptive to guidance and those unreceptive.",
-  35023: "You, [O Muḥammad], are not but a warner.",
+  35023: "You, [O Muhammad], are not but a warner.",
   35024:
       "Indeed, We have sent you with the truth as a bringer of good tidings and a warner. And there was no nation but that there had passed within it a warner.",
   35025:
@@ -7021,9 +7021,9 @@ const Map<int, String> _noorEnglish = {
   35030:
       "That He may give them in full their rewards and increase for them of His bounty. Indeed, He is Forgiving and Appreciative.[1250]\\n\\nFootnotes: [1250] i.e., He gives much in return for little and multiplies rewards.",
   35031:
-      "And that which We have revealed to you, [O Muḥammad], of the Book is the truth, confirming what was before it. Indeed Allāh, of His servants, is Aware and Seeing.",
+      "And that which We have revealed to you, [O Muhammad], of the Book is the truth, confirming what was before it. Indeed Allāh, of His servants, is Aware and Seeing.",
   35032:
-      "Then We caused to inherit the Book those We have chosen of Our servants;[1251] and among them is he who wrongs himself [i.e., sins], and among them is he who is moderate, and among them is he who is foremost in good deeds by permission of Allāh. That [inheritance] is what is the great bounty.\\n\\nFootnotes: [1251] The followers of Prophet Muḥammad (ﷺ).",
+      "Then We caused to inherit the Book those We have chosen of Our servants;[1251] and among them is he who wrongs himself [i.e., sins], and among them is he who is moderate, and among them is he who is foremost in good deeds by permission of Allāh. That [inheritance] is what is the great bounty.\\n\\nFootnotes: [1251] The followers of Prophet Muhammad (ﷺ).",
   35033:
       "[For them are] gardens of perpetual residence which they will enter. They will be adorned therein with bracelets of gold and pearls, and their garments therein will be silk.",
   35034:
@@ -7053,7 +7053,7 @@ const Map<int, String> _noorEnglish = {
   36001: "Yā, Seen.[1260]\\n\\nFootnotes: [1260] See footnote to 2:1.",
   36002:
       "By the wise[1261] Qur’ān,\\n\\nFootnotes: [1261] See footnote to 10:1.",
-  36003: "Indeed you, [O Muḥammad], are from among the messengers,",
+  36003: "Indeed you, [O Muhammad], are from among the messengers,",
   36004: "On a straight path.",
   36005: "[This is] a revelation of the Exalted in Might, the Merciful,",
   36006:
@@ -7170,7 +7170,7 @@ const Map<int, String> _noorEnglish = {
   36068:
       "And he to whom We grant long life We reverse in creation;[1279] so will they not understand?\\n\\nFootnotes: [1279] In his physical and mental capacity.",
   36069:
-      "And We did not give him [i.e., Prophet Muḥammad (ﷺ)] knowledge of poetry, nor is it befitting for him. It is not but a message and a clear Qur’ān",
+      "And We did not give him [i.e., Prophet Muhammad (ﷺ)] knowledge of poetry, nor is it befitting for him. It is not but a message and a clear Qur’ān",
   36070:
       "To warn whoever is alive[1280] and justify the word [i.e., decree] against the disbelievers.\\n\\nFootnotes: [1280] In heart and mind, i.e., the believers.",
   36071:
@@ -7215,7 +7215,7 @@ const Map<int, String> _noorEnglish = {
   37010:
       "Except one who snatches [some words] by theft, but they are pursued by a burning flame, piercing [in brightness].",
   37011:
-      "Then inquire of them, [O Muḥammad], \"Are they a stronger [or more difficult] creation or those [others] We have created?\" Indeed, We created them [i.e., men] from sticky clay.",
+      "Then inquire of them, [O Muhammad], \"Are they a stronger [or more difficult] creation or those [others] We have created?\" Indeed, We created them [i.e., men] from sticky clay.",
   37012: "But you wonder, while they mock,",
   37013: "And when they are reminded, they remember not.",
   37014: "And when they see a sign, they ridicule.",
@@ -7397,7 +7397,7 @@ const Map<int, String> _noorEnglish = {
       "And We sent him[1306] to [his people of] a hundred thousand or more.\\n\\nFootnotes: [1306] i.e., returned him thereafter.",
   37148: "And they believed, so We gave them enjoyment [of life] for a time.",
   37149:
-      "So inquire of them, [O Muḥammad], \"Does your Lord have daughters while they have sons?[1307]\\n\\nFootnotes: [1307] The people of Makkah claimed that the angels were daughters of Allāh, yet they preferred sons for themselves.",
+      "So inquire of them, [O Muhammad], \"Does your Lord have daughters while they have sons?[1307]\\n\\nFootnotes: [1307] The people of Makkah claimed that the angels were daughters of Allāh, yet they preferred sons for themselves.",
   37150: "Or did We create the angels as females while they were witnesses?\"",
   37151:
       "Unquestionably, it is out of their [invented] falsehood that they say,",
@@ -7431,7 +7431,7 @@ const Map<int, String> _noorEnglish = {
   37172: "[That] indeed, they would be those given victory",
   37173:
       "And [that] indeed, Our soldiers [i.e., the believers] will be those who overcome.[1314]\\n\\nFootnotes: [1314] If not in this world, then definitely in the Hereafter.",
-  37174: "So, [O Muḥammad], leave them for a time.",
+  37174: "So, [O Muhammad], leave them for a time.",
   37175: "And see [what will befall] them, for they are going to see.",
   37176: "Then for Our punishment are they impatient?",
   37177:
@@ -7447,11 +7447,11 @@ const Map<int, String> _noorEnglish = {
   38003:
       "How many a generation have We destroyed before them, and they [then] called out; but it was not a time for escape.",
   38004:
-      "And they wonder that there has come to them a warner [i.e., Prophet Muḥammad (ﷺ)] from among themselves. And the disbelievers say, \"This is a magician and a liar.",
+      "And they wonder that there has come to them a warner [i.e., Prophet Muhammad (ﷺ)] from among themselves. And the disbelievers say, \"This is a magician and a liar.",
   38005:
       "Has he made the gods [only] one God? Indeed, this is a curious thing.\"",
   38006:
-      "And the eminent among them went forth, [saying], \"Continue, and be patient over [the defense of] your gods. Indeed, this is a thing intended.[1318]\\n\\nFootnotes: [1318] Planned by Prophet Muḥammad (ﷺ) in order to gain influence and prestige for himself.",
+      "And the eminent among them went forth, [saying], \"Continue, and be patient over [the defense of] your gods. Indeed, this is a thing intended.[1318]\\n\\nFootnotes: [1318] Planned by Prophet Muhammad (ﷺ) in order to gain influence and prestige for himself.",
   38007:
       "We have not heard of this in the latest religion.[1319] This is not but a fabrication.\\n\\nFootnotes: [1319] Referring to Christianity or possibly the pagan religion of the Quraysh.",
   38008:
@@ -7495,7 +7495,7 @@ const Map<int, String> _noorEnglish = {
   38028:
       "Or should We treat those who believe and do righteous deeds like corrupters in the land? Or should We treat those who fear Allāh like the wicked?",
   38029:
-      "[This is] a blessed Book which We have revealed to you, [O Muḥammad], that they might reflect upon its verses and that those of understanding would be reminded.",
+      "[This is] a blessed Book which We have revealed to you, [O Muhammad], that they might reflect upon its verses and that those of understanding would be reminded.",
   38030:
       "And to David We gave Solomon. An excellent servant, indeed he was one repeatedly turning back [to Allāh].",
   38031:
@@ -7560,7 +7560,7 @@ const Map<int, String> _noorEnglish = {
   38064:
       "Indeed, that is truth [i.e., reality] - the quarreling of the people of the Fire.",
   38065:
-      "Say, [O Muḥammad], \"I am only a warner, and there is not any deity except Allāh, the One, the Prevailing,[1332]\\n\\nFootnotes: [1332] Refer to footnotes in 12:39.",
+      "Say, [O Muhammad], \"I am only a warner, and there is not any deity except Allāh, the One, the Prevailing,[1332]\\n\\nFootnotes: [1332] Refer to footnotes in 12:39.",
   38066:
       "Lord of the heavens and the earth and whatever is between them, the Exalted in Might,[1333] the Perpetual Forgiver.\"[1334]\\n\\nFootnotes: [1333] Honored for absolute power associated with wisdom and justice.\n[1334] Who continually conceals sins and faults.",
   38067: "Say, \"It is great news",
@@ -7592,14 +7592,14 @@ const Map<int, String> _noorEnglish = {
   38085:
       "[That] I will surely fill Hell with you and those of them that follow you all together.\"",
   38086:
-      "Say, [O Muḥammad], \"I do not ask you for it [i.e., the Qur’ān] any payment, and I am not of the pretentious.",
+      "Say, [O Muhammad], \"I do not ask you for it [i.e., the Qur’ān] any payment, and I am not of the pretentious.",
   38087: "It is but a reminder to the worlds.",
   38088:
       "And you will surely know [the truth of] its information after a time.\"",
   39001:
       "The revelation of the Book [i.e., the Qur’ān] is from Allāh, the Exalted in Might, the Wise.",
   39002:
-      "Indeed, We have sent down to you the Book, [O Muḥammad], in truth. So worship Allāh, [being] sincere to Him in religion.",
+      "Indeed, We have sent down to you the Book, [O Muhammad], in truth. So worship Allāh, [being] sincere to Him in religion.",
   39003:
       "Unquestionably, for Allāh is the pure religion.[1339] And those who take protectors besides Him [say], \"We only worship them that they may bring us nearer to Allāh in position.\" Indeed, Allāh will judge between them concerning that over which they differ. Indeed, Allāh does not guide he who is a liar and [confirmed] disbeliever.\\n\\nFootnotes: [1339] i.e., acceptable to Allāh is that none be associated with Him in worship and obedience.",
   39004:
@@ -7617,7 +7617,7 @@ const Map<int, String> _noorEnglish = {
   39010:
       "Say,[1345] \"O My servants who have believed, fear your Lord. For those who do good in this world is good, and the earth of Allāh is spacious. Indeed, the patient will be given their reward without account [i.e., limit].\"\\n\\nFootnotes: [1345] The Prophet (ﷺ) is instructed to say on behalf of Allāh (subḥānahu wa taʿālā) to His believing servants.",
   39011:
-      "Say, [O Muḥammad], \"Indeed, I have been commanded to worship Allāh, [being] sincere to Him in religion.",
+      "Say, [O Muhammad], \"Indeed, I have been commanded to worship Allāh, [being] sincere to Him in religion.",
   39012:
       "And I have been commanded to be the first [among you] of the Muslims.\"",
   39013:
@@ -7665,7 +7665,7 @@ const Map<int, String> _noorEnglish = {
   39035:
       "That Allāh may remove from them the worst of what they did and reward them their due for the best of what they used to do.",
   39036:
-      "Is not Allāh sufficient for His Servant [i.e., Prophet Muḥammad (ﷺ)]? And [yet], they threaten you with those [they worship] other than Him. And whoever Allāh leaves astray - for him there is no guide.",
+      "Is not Allāh sufficient for His Servant [i.e., Prophet Muhammad (ﷺ)]? And [yet], they threaten you with those [they worship] other than Him. And whoever Allāh leaves astray - for him there is no guide.",
   39037:
       "And whoever Allāh guides - for him there is no misleader. Is not Allāh Exalted in Might and Owner of Retribution?",
   39038:
@@ -7721,7 +7721,7 @@ const Map<int, String> _noorEnglish = {
   39063:
       "To Him belong the keys of the heavens and the earth. And they who disbelieve in the verses of Allāh - it is those who are the losers.",
   39064:
-      "Say, [O Muḥammad], \"Is it other than Allāh that you order me to worship, O ignorant ones?\"",
+      "Say, [O Muhammad], \"Is it other than Allāh that you order me to worship, O ignorant ones?\"",
   39065:
       "And it was already revealed to you and to those before you that if you should associate [anything] with Allāh, your work would surely become worthless, and you would surely be among the losers.",
   39066: "Rather, worship [only] Allāh and be among the grateful.",
@@ -7777,7 +7777,7 @@ const Map<int, String> _noorEnglish = {
   40017:
       "This Day every soul will be recompensed for what it earned. No injustice today! Indeed, Allāh is swift in account.",
   40018:
-      "And warn them, [O Muḥammad], of the Approaching Day, when hearts are at the throats, filled [with distress]. For the wrongdoers there will be no devoted friend and no intercessor [who is] obeyed.",
+      "And warn them, [O Muhammad], of the Approaching Day, when hearts are at the throats, filled [with distress]. For the wrongdoers there will be no devoted friend and no intercessor [who is] obeyed.",
   40019: "He knows that which deceives the eyes and what the breasts conceal.",
   40020:
       "And Allāh judges with truth, while those they invoke[1366] besides Him judge not with anything. Indeed, Allāh - He is the Hearing, the Seeing.\\n\\nFootnotes: [1366] In worship.",
@@ -7849,7 +7849,7 @@ const Map<int, String> _noorEnglish = {
       "And We had certainly given Moses guidance, and We caused the Children of Israel to inherit the Scripture",
   40054: "As guidance and a reminder for those of understanding.",
   40055:
-      "So be patient, [O Muḥammad]. Indeed, the promise of Allāh is truth. And ask forgiveness for your sin[1375] and exalt [Allāh] with praise of your Lord in the evening and the morning.\\n\\nFootnotes: [1375] What is intended is \"fault\" or \"error\" in judgement, since all prophets were protected by Allāh from falling into sin. The implication is that all believers should seek forgiveness for their sins.",
+      "So be patient, [O Muhammad]. Indeed, the promise of Allāh is truth. And ask forgiveness for your sin[1375] and exalt [Allāh] with praise of your Lord in the evening and the morning.\\n\\nFootnotes: [1375] What is intended is \"fault\" or \"error\" in judgement, since all prophets were protected by Allāh from falling into sin. The implication is that all believers should seek forgiveness for their sins.",
   40056:
       "Indeed, those who dispute concerning the signs of Allāh without [any] evidence having come to them - there is not within their breasts except pride, [the extent of] which they cannot reach. So seek refuge in Allāh. Indeed, it is He who is the Hearing, the Seeing.",
   40057:
@@ -7871,7 +7871,7 @@ const Map<int, String> _noorEnglish = {
   40065:
       "He is the Ever-Living;[1377] there is no deity except Him, so call upon Him, [being] sincere to Him in religion. [All] praise is [due] to Allāh, Lord of the worlds.\\n\\nFootnotes: [1377] Whose life is without beginning or end, and upon whom all created life depends.",
   40066:
-      "Say, [O Muḥammad], \"Indeed, I have been forbidden to worship those you call upon besides Allāh once the clear proofs have come to me from my Lord, and I have been commanded to submit to the Lord of the worlds.\"",
+      "Say, [O Muhammad], \"Indeed, I have been forbidden to worship those you call upon besides Allāh once the clear proofs have come to me from my Lord, and I have been commanded to submit to the Lord of the worlds.\"",
   40067:
       "It is He who created you from dust, then from a sperm-drop, then from a clinging clot; then He brings you out as a child; then [He develops you] that you reach your [time of] maturity, then [further] that you become elders. And among you is he who is taken in death before [that], so that you reach a specified term;[1378] and perhaps you will use reason.\\n\\nFootnotes: [1378] The time decreed for your death.",
   40068:
@@ -7892,7 +7892,7 @@ const Map<int, String> _noorEnglish = {
   40076:
       "Enter the gates of Hell to abide eternally therein, and wretched is the residence of the arrogant.\"",
   40077:
-      "So be patient, [O Muḥammad]; indeed, the promise of Allāh is truth. And whether We show you some of what We have promised them or We take you in death, it is to Us they will be returned.",
+      "So be patient, [O Muhammad]; indeed, the promise of Allāh is truth. And whether We show you some of what We have promised them or We take you in death, it is to Us they will be returned.",
   40078:
       "And We have already sent messengers before you. Among them are those [whose stories] We have related to you, and among them are those [whose stories] We have not related to you. And it was not for any messenger to bring a sign [or verse] except by permission of Allāh. So when the command of Allāh comes, it will be concluded [i.e., judged] in truth, and the falsifiers will thereupon lose [all].",
   40079:
@@ -7919,7 +7919,7 @@ const Map<int, String> _noorEnglish = {
   41005:
       "And they say, \"Our hearts are within coverings [i.e., screened] from that to which you invite us, and in our ears is deafness, and between us and you is a partition, so work;[1383] indeed, we are working.\"\\n\\nFootnotes: [1383] For your own religion or work against us.",
   41006:
-      "Say, [O Muḥammad], \"I am only a man like you to whom it has been revealed that your god is but one God; so take a straight course to Him and seek His forgiveness.\" And woe to those who associate others with Allāh –",
+      "Say, [O Muhammad], \"I am only a man like you to whom it has been revealed that your god is but one God; so take a straight course to Him and seek His forgiveness.\" And woe to those who associate others with Allāh –",
   41007:
       "Those who do not give zakāh, and in the Hereafter they are disbelievers.",
   41008:
@@ -7944,7 +7944,7 @@ const Map<int, String> _noorEnglish = {
       "And as for Thamūd, We guided them, but they preferred blindness over guidance, so the thunderbolt of humiliating punishment seized them for what they used to earn.",
   41018: "And We saved those who believed and used to fear Allāh.",
   41019:
-      "And [mention, O Muḥammad], the Day when the enemies of Allāh will be gathered to the Fire while they are [driven], assembled in rows,",
+      "And [mention, O Muhammad], the Day when the enemies of Allāh will be gathered to the Fire while they are [driven], assembled in rows,",
   41020:
       "Until, when they reach it, their hearing and their eyes and their skins will testify against them of what they used to do.",
   41021:
@@ -7991,7 +7991,7 @@ const Map<int, String> _noorEnglish = {
   41042:
       "Falsehood cannot approach it from before it or from behind it; [it is] a revelation from a [Lord who is] Wise and Praiseworthy.",
   41043:
-      "Nothing is said to you, [O Muḥammad], except what was already said to the messengers before you. Indeed, your Lord is a possessor of forgiveness and a possessor of painful penalty.",
+      "Nothing is said to you, [O Muhammad], except what was already said to the messengers before you. Indeed, your Lord is a possessor of forgiveness and a possessor of painful penalty.",
   41044:
       "And if We had made it a foreign [i.e., non-Arabic] Qur’ān, they would have said, \"Why are its verses not explained in detail [in our language]? Is it a foreign [recitation] and an Arab [messenger]?\" Say, \"It is, for those who believe, a guidance and cure.\" And those who do not believe - in their ears is deafness, and it is upon them blindness. Those are being called from a distant place.[1398]\\n\\nFootnotes: [1398] For all practical purposes, since they neither hear nor understand.",
   41045:
@@ -8017,13 +8017,13 @@ const Map<int, String> _noorEnglish = {
   42001: "Ḥā, Meem.",
   42002: "ʿAyn, Seen, Qāf.[1405]\\n\\nFootnotes: [1405] See footnote to 2:1.",
   42003:
-      "Thus has He revealed to you, [O Muḥammad], and to those before you - Allāh, the Exalted in Might, the Wise.",
+      "Thus has He revealed to you, [O Muhammad], and to those before you - Allāh, the Exalted in Might, the Wise.",
   42004:
       "To Him belongs whatever is in the heavens and whatever is in the earth, and He is the Most High, the Most Great.[1406]\\n\\nFootnotes: [1406] See footnote to 2:255.",
   42005:
       "The heavens almost break from above them,[1407] and the angels exalt [Allāh] with praise of their Lord and ask forgiveness for those on earth. Unquestionably, it is Allāh who is the Forgiving, the Merciful.\\n\\nFootnotes: [1407] i.e., from the grandeur of Allāh (subḥānahu wa taʿālā) above them.",
   42006:
-      "And those who take as allies other than Him - Allāh is [yet] Guardian over them; and you, [O Muḥammad], are not over them a manager -",
+      "And those who take as allies other than Him - Allāh is [yet] Guardian over them; and you, [O Muhammad], are not over them a manager -",
   42007:
       "And thus We have revealed to you an Arabic Qur’ān that you may warn the Mother of Cities [i.e., Makkah] and those around it[1408] and warn of the Day of Assembly, about which there is no doubt. A party will be in Paradise and a party in the Blaze.\\n\\nFootnotes: [1408] i.e., all other peoples.",
   42008:
@@ -8037,11 +8037,11 @@ const Map<int, String> _noorEnglish = {
   42012:
       "To Him belong the keys of the heavens and the earth. He extends provision for whom He wills and restricts [it]. Indeed He is, of all things, Knowing.",
   42013:
-      "He has ordained for you of religion what He enjoined upon Noah and that which We have revealed to you, [O Muḥammad], and what We enjoined upon Abraham and Moses and Jesus - to establish the religion and not be divided therein. Difficult for those who associate others with Allāh is that to which you invite them. Allāh chooses for Himself whom He wills and guides to Himself whoever turns back [to Him].",
+      "He has ordained for you of religion what He enjoined upon Noah and that which We have revealed to you, [O Muhammad], and what We enjoined upon Abraham and Moses and Jesus - to establish the religion and not be divided therein. Difficult for those who associate others with Allāh is that to which you invite them. Allāh chooses for Himself whom He wills and guides to Himself whoever turns back [to Him].",
   42014:
       "And they did not become divided until after knowledge had come to them - out of jealous animosity between themselves. And if not for a word[1413] that preceded from your Lord [postponing the penalty] until a specified time, it would have been concluded between them. And indeed, those who were granted inheritance of the Scripture after them are, concerning it, in disquieting doubt.\\n\\nFootnotes: [1413] Decree. See footnote to 10:19.",
   42015:
-      "So to that [religion of Allāh] invite, [O Muḥammad],[1414] and remain on a right course as you are commanded and do not follow their inclinations but say, \"I have believed in what Allāh has revealed of scripture [i.e., the Qur’ān], and I have been commanded to do justice among you. Allāh is our Lord and your Lord. For us are our deeds, and for you your deeds.[1415] There is no [need for] argument between us and you.[1416] Allāh will bring us together, and to Him is the [final] destination.\"\\n\\nFootnotes: [1414] Another meaning understood from the Arabic is \"So because of that [division and separation into sects], invite [them back to Allāh]...\"\n[1415] i.e., the consequences thereof.\n[1416] Since the truth has been made clear and since those who refuse it do so only out of stubbornness or worldly interests.",
+      "So to that [religion of Allāh] invite, [O Muhammad],[1414] and remain on a right course as you are commanded and do not follow their inclinations but say, \"I have believed in what Allāh has revealed of scripture [i.e., the Qur’ān], and I have been commanded to do justice among you. Allāh is our Lord and your Lord. For us are our deeds, and for you your deeds.[1415] There is no [need for] argument between us and you.[1416] Allāh will bring us together, and to Him is the [final] destination.\"\\n\\nFootnotes: [1414] Another meaning understood from the Arabic is \"So because of that [division and separation into sects], invite [them back to Allāh]...\"\n[1415] i.e., the consequences thereof.\n[1416] Since the truth has been made clear and since those who refuse it do so only out of stubbornness or worldly interests.",
   42016:
       "And those who argue concerning Allāh after He has been responded to[1417] - their argument is invalid with their Lord, and upon them is [His] wrath, and for them is a severe punishment.\\n\\nFootnotes: [1417] i.e., after people have accepted the truth from Allāh, in an attempt to turn the believers away from His religion of Islām.",
   42017:
@@ -8057,7 +8057,7 @@ const Map<int, String> _noorEnglish = {
   42022:
       "You will see the wrongdoers fearful of what they have earned, and it will [certainly] befall them. And those who have believed and done righteous deeds will be in lush regions of the gardens [in Paradise] having whatever they will in the presence of their Lord. That is what is the great bounty.",
   42023:
-      "It is that of which Allāh gives good tidings to His servants who believe and do righteous deeds. Say, [O Muḥammad], \"I do not ask you for it [i.e., this message] any payment [but] only good will through [i.e., due to] kinship.\" And whoever commits a good deed - We will increase for him good therein. Indeed, Allāh is Forgiving and Appreciative.[1421]\\n\\nFootnotes: [1421] See footnote in 35:30.",
+      "It is that of which Allāh gives good tidings to His servants who believe and do righteous deeds. Say, [O Muhammad], \"I do not ask you for it [i.e., this message] any payment [but] only good will through [i.e., due to] kinship.\" And whoever commits a good deed - We will increase for him good therein. Indeed, Allāh is Forgiving and Appreciative.[1421]\\n\\nFootnotes: [1421] See footnote in 35:30.",
   42024:
       "Or do they say, \"He has invented about Allāh a lie\"? But if Allāh willed, He could seal over your heart.[1422] And Allāh eliminates falsehood and establishes the truth by His words. Indeed, He is Knowing of that within the breasts.\\n\\nFootnotes: [1422] i.e., He could make you forget the Qur’ān and deprive you of it.",
   42025:
@@ -8106,7 +8106,7 @@ const Map<int, String> _noorEnglish = {
   42047:
       "Respond to your Lord before a Day comes from Allāh of which there is no repelling. No refuge will you have that Day, nor for you will there be any denial.[1427]\\n\\nFootnotes: [1427] Of your sins or \"disapproval\" of your punishment.",
   42048:
-      "But if they turn away - then We have not sent you, [O Muḥammad], over them as a guardian; upon you is only [the duty of] notification. And indeed, when We let man taste mercy from Us, he rejoices in it; but if evil afflicts him for what his hands have put forth, then indeed, man is ungrateful.",
+      "But if they turn away - then We have not sent you, [O Muhammad], over them as a guardian; upon you is only [the duty of] notification. And indeed, when We let man taste mercy from Us, he rejoices in it; but if evil afflicts him for what his hands have put forth, then indeed, man is ungrateful.",
   42049:
       "To Allāh belongs the dominion of the heavens and the earth; He creates what He wills. He gives to whom He wills female [children], and He gives to whom He wills males.",
   42050:
@@ -8114,7 +8114,7 @@ const Map<int, String> _noorEnglish = {
   42051:
       "And it is not for any human being that Allāh should speak to him except by revelation or from behind a partition or that He sends a messenger [i.e., angel] to reveal, by His permission, what He wills. Indeed, He is Most High and Wise.",
   42052:
-      "And thus We have revealed to you an inspiration of Our command [i.e., the Qur’ān]. You did not know what is the Book or [what is] faith, but We have made it a light by which We guide whom We will of Our servants. And indeed, [O Muḥammad], you guide to a straight path -",
+      "And thus We have revealed to you an inspiration of Our command [i.e., the Qur’ān]. You did not know what is the Book or [what is] faith, but We have made it a light by which We guide whom We will of Our servants. And indeed, [O Muhammad], you guide to a straight path -",
   42053:
       "The path of Allāh, to whom belongs whatever is in the heavens and whatever is on the earth. Unquestionably, to Allāh do [all] matters evolve [i.e., return].",
   43001: "Ḥā, Meem.[1429]\\n\\nFootnotes: [1429] See footnote to 2:1.",
@@ -8128,7 +8128,7 @@ const Map<int, String> _noorEnglish = {
   43007:
       "But there would not come to them a prophet except that they used to ridicule him.",
   43008:
-      "And We destroyed greater than them[1432] in [striking] power, and the example of the former peoples has preceded.\\n\\nFootnotes: [1432] The disbelievers of the Quraysh, who denied Prophet Muḥammad (ﷺ).",
+      "And We destroyed greater than them[1432] in [striking] power, and the example of the former peoples has preceded.\\n\\nFootnotes: [1432] The disbelievers of the Quraysh, who denied Prophet Muhammad (ﷺ).",
   43009:
       "And if you should ask them, \"Who has created the heavens and the earth?\" they would surely say, \"They were created by the Exalted in Might, the Knowing,\"",
   43010:
@@ -8163,12 +8163,12 @@ const Map<int, String> _noorEnglish = {
   43025:
       "So We took retribution from them; then see how was the end of the deniers.",
   43026:
-      "And [mention, O Muḥammad], when Abraham said to his father and his people, \"Indeed, I am disassociated from that which you worship",
+      "And [mention, O Muhammad], when Abraham said to his father and his people, \"Indeed, I am disassociated from that which you worship",
   43027: "Except for He who created me; and indeed, He will guide me.\"",
   43028:
       "And he made it[1436] a word remaining among his descendants that they might return [to it].\\n\\nFootnotes: [1436] i.e., his testimony that none is worthy of worship except Allāh.",
   43029:
-      "However, I gave enjoyment to these [people of Makkah] and their fathers[1437] until there came to them the truth and a clear Messenger.[1438]\\n\\nFootnotes: [1437] The descendants of Abraham.\n[1438] i.e., one who is obvious with a clear message, meaning Muḥammad (ﷺ).",
+      "However, I gave enjoyment to these [people of Makkah] and their fathers[1437] until there came to them the truth and a clear Messenger.[1438]\\n\\nFootnotes: [1437] The descendants of Abraham.\n[1438] i.e., one who is obvious with a clear message, meaning Muhammad (ﷺ).",
   43030:
       "But when the truth came to them, they said, \"This is magic, and indeed we are, concerning it, disbelievers.\"",
   43031:
@@ -8190,7 +8190,7 @@ const Map<int, String> _noorEnglish = {
   43039:
       "And never will it benefit you that Day, when you have wronged, that you are [all] sharing in the punishment.",
   43040:
-      "Then will you make the deaf hear, [O Muḥammad], or guide the blind or he who is in clear error?",
+      "Then will you make the deaf hear, [O Muhammad], or guide the blind or he who is in clear error?",
   43041:
       "And whether [or not] We take you away [in death], indeed, We will take retribution upon them.",
   43042:
@@ -8267,7 +8267,7 @@ const Map<int, String> _noorEnglish = {
   43080:
       "Or do they think that We hear not their secrets and their private conversations? Yes, [We do], and Our messengers [i.e., angels] are with them recording.",
   43081:
-      "Say, [O Muḥammad], \"If the Most Merciful had a son, then I would be the first of [his] worshippers.\"[1451]\\n\\nFootnotes: [1451] Only supposing it were so, which it is not.",
+      "Say, [O Muhammad], \"If the Most Merciful had a son, then I would be the first of [his] worshippers.\"[1451]\\n\\nFootnotes: [1451] Only supposing it were so, which it is not.",
   43082:
       "Exalted is the Lord of the heavens and the earth, Lord of the Throne, above what they describe.",
   43083:
@@ -8281,7 +8281,7 @@ const Map<int, String> _noorEnglish = {
   43087:
       "And if you asked them[1454] who created them, they would surely say, \"Allāh.\" So how are they deluded?\\n\\nFootnotes: [1454] Those who associate others with Allāh.",
   43088:
-      "And [Allāh acknowledges] his saying,[1455] \"O my Lord, indeed these are a people who do not believe.\"\\n\\nFootnotes: [1455] i.e., the complaint of Prophet Muḥammad (ﷺ) about his people.",
+      "And [Allāh acknowledges] his saying,[1455] \"O my Lord, indeed these are a people who do not believe.\"\\n\\nFootnotes: [1455] i.e., the complaint of Prophet Muhammad (ﷺ) about his people.",
   43089:
       "So turn aside from them and say, \"Peace.\"[1456] But they are going to know.\\n\\nFootnotes: [1456] Meaning safety or security, i.e., \"I will not harm you.\" This was before permission was granted for armed struggle.",
   44001: "Ḥā, Meem.[1458]\\n\\nFootnotes: [1458] See footnote to 2:1.",
@@ -8370,7 +8370,7 @@ const Map<int, String> _noorEnglish = {
   44057: "As bounty from your Lord. That is what is the great attainment.",
   44058:
       "And indeed, We have eased it [i.e., the Qur’ān] in your tongue that they might be reminded.",
-  44059: "So watch, [O Muḥammad]; indeed, they are watching [for your end].",
+  44059: "So watch, [O Muhammad]; indeed, they are watching [for your end].",
   45001: "Ḥā, Meem.[1468]\\n\\nFootnotes: [1468] See footnote to 2:1.",
   45002:
       "The revelation of the Book is from Allāh, the Exalted in Might, the Wise.",
@@ -8395,7 +8395,7 @@ const Map<int, String> _noorEnglish = {
   45013:
       "And He has subjected to you whatever is in the heavens and whatever is on the earth - all from Him. Indeed in that are signs for a people who give thought.",
   45014:
-      "Say, [O Muḥammad], to those who have believed that they [should] forgive those who expect not the days of Allāh [i.e., of His retribution] so that He may recompense a people[1470] for what they used to earn.\\n\\nFootnotes: [1470] In the Hereafter, where those who forgive will be rewarded and those who earned evil will be punished. This was at the outset of daʿwah (invitation to Allāh) before permission for jihād.",
+      "Say, [O Muhammad], to those who have believed that they [should] forgive those who expect not the days of Allāh [i.e., of His retribution] so that He may recompense a people[1470] for what they used to earn.\\n\\nFootnotes: [1470] In the Hereafter, where those who forgive will be rewarded and those who earned evil will be punished. This was at the outset of daʿwah (invitation to Allāh) before permission for jihād.",
   45015:
       "Whoever does a good deed - it is for himself; and whoever does evil - it is against it [i.e., the self or soul]. Then to your Lord you will be returned.",
   45016:
@@ -8403,7 +8403,7 @@ const Map<int, String> _noorEnglish = {
   45017:
       "And We gave them clear proofs of the matter [of religion]. And they did not differ except after knowledge had come to them - out of jealous animosity between themselves. Indeed, your Lord will judge between them on the Day of Resurrection concerning that over which they used to differ.",
   45018:
-      "Then We put you, [O Muḥammad], on an ordained way concerning the matter [of religion]; so follow it and do not follow the inclinations of those who do not know.",
+      "Then We put you, [O Muhammad], on an ordained way concerning the matter [of religion]; so follow it and do not follow the inclinations of those who do not know.",
   45019:
       "Indeed, they will never avail you against Allāh at all. And indeed, the wrongdoers are allies of one another; but Allāh is the protector of the righteous.",
   45020:
@@ -8448,7 +8448,7 @@ const Map<int, String> _noorEnglish = {
   46003:
       "We did not create the heavens and earth and what is between them except in truth and [for] a specified term. But those who disbelieve, from that of which they are warned, are turning away.",
   46004:
-      "Say, [O Muḥammad], \"Have you considered that which you invoke besides Allāh? Show me what they have created of the earth; or did they have partnership in [creation of] the heavens? Bring me a scripture [revealed] before this or a [remaining] trace of knowledge, if you should be truthful.\"",
+      "Say, [O Muhammad], \"Have you considered that which you invoke besides Allāh? Show me what they have created of the earth; or did they have partnership in [creation of] the heavens? Bring me a scripture [revealed] before this or a [remaining] trace of knowledge, if you should be truthful.\"",
   46005:
       "And who is more astray than he who invokes besides Allāh those who will not respond to him until the Day of Resurrection [i.e., never], and they, of their invocation, are unaware.",
   46006:
@@ -8482,7 +8482,7 @@ const Map<int, String> _noorEnglish = {
   46020:
       "And the Day those who disbelieved are exposed to the Fire [it will be said], \"You exhausted your pleasures during your worldly life and enjoyed them, so this Day you will be awarded the punishment of [extreme] humiliation because you were arrogant upon the earth without right and because you were defiantly disobedient.\"",
   46021:
-      "And mention, [O Muḥammad], the brother of ʿAad,[1484] when he warned his people in [the region of] al-Aḥqāf - and warners had already passed on before him and after him - [saying], \"Do not worship except Allāh. Indeed, I fear for you the punishment of a terrible day.\"[1485]\\n\\nFootnotes: [1484] i.e., the prophet Hūd.\n[1485] Upon the earth. It could also refer to \"a tremendous Day,\" i.e., that of resurrection.",
+      "And mention, [O Muhammad], the brother of ʿAad,[1484] when he warned his people in [the region of] al-Aḥqāf - and warners had already passed on before him and after him - [saying], \"Do not worship except Allāh. Indeed, I fear for you the punishment of a terrible day.\"[1485]\\n\\nFootnotes: [1484] i.e., the prophet Hūd.\n[1485] Upon the earth. It could also refer to \"a tremendous Day,\" i.e., that of resurrection.",
   46022:
       "They said, \"Have you come to delude us away from our gods? Then bring us what you promise us, if you should be of the truthful.\"",
   46023:
@@ -8498,11 +8498,11 @@ const Map<int, String> _noorEnglish = {
   46028:
       "Then why did those they took besides Allāh as deities by which to approach [Him][1487] not aid them? But they had strayed [i.e., departed] from them. And that was their falsehood and what they were inventing.\\n\\nFootnotes: [1487] According to their claim.",
   46029:
-      "And [mention, O Muḥammad], when We directed to you a few of the jinn, listening to the Qur’ān. And when they attended it, they said, \"Listen attentively.\" And when it was concluded, they went back to their people as warners.",
+      "And [mention, O Muhammad], when We directed to you a few of the jinn, listening to the Qur’ān. And when they attended it, they said, \"Listen attentively.\" And when it was concluded, they went back to their people as warners.",
   46030:
       "They said, \"O our people, indeed we have heard a [recited] Book revealed after Moses confirming what was before it which guides to the truth and to a straight path.",
   46031:
-      "O our people, respond to the Caller [i.e., Messenger] of Allāh[1488] and believe in him; He [i.e., Allāh] will forgive for you your sins and protect you from a painful punishment.\\n\\nFootnotes: [1488] Prophet Muḥammad (ﷺ).",
+      "O our people, respond to the Caller [i.e., Messenger] of Allāh[1488] and believe in him; He [i.e., Allāh] will forgive for you your sins and protect you from a painful punishment.\\n\\nFootnotes: [1488] Prophet Muhammad (ﷺ).",
   46032:
       "But he who does not respond to the Caller of Allāh will not cause failure [to Him] upon earth, and he will not have besides Him any protectors. Those are in manifest error.\"",
   46033:
@@ -8510,11 +8510,11 @@ const Map<int, String> _noorEnglish = {
   46034:
       "And the Day those who disbelieved are exposed to the Fire [it will be said], \"Is this not the truth?\" They will say, \"Yes, by our Lord.\" He will say, \"Then taste the punishment for what you used to deny.\"[1489]\\n\\nFootnotes: [1489] Or \"because you used to disbelieve.\"",
   46035:
-      "So be patient, [O Muḥammad], as were those of determination among the messengers and do not be impatient for them.[1490] It will be - on the Day they see that which they are promised - as though they had not remained [in the world] except an hour of a day. [This is] notification. And will [any] be destroyed except the defiantly disobedient people?\\n\\nFootnotes: [1490] i.e., for Allāh's punishment of the disbelievers.",
+      "So be patient, [O Muhammad], as were those of determination among the messengers and do not be impatient for them.[1490] It will be - on the Day they see that which they are promised - as though they had not remained [in the world] except an hour of a day. [This is] notification. And will [any] be destroyed except the defiantly disobedient people?\\n\\nFootnotes: [1490] i.e., for Allāh's punishment of the disbelievers.",
   47001:
       "Those who disbelieve and avert [people] from the way of Allāh - He will waste their deeds.[1492]\\n\\nFootnotes: [1492] i.e., cause them to be lost or make them worthless, earning no reward.",
   47002:
-      "And those who believe and do righteous deeds and believe in what has been sent down upon Muḥammad - and it is the truth from their Lord - He will remove from them their misdeeds and amend their condition.",
+      "And those who believe and do righteous deeds and believe in what has been sent down upon Muhammad - and it is the truth from their Lord - He will remove from them their misdeeds and amend their condition.",
   47003:
       "That is because those who disbelieve follow falsehood, and those who believe follow the truth from their Lord. Thus does Allāh present to the people their comparisons.[1493]\\n\\nFootnotes: [1493] So that they may know the results of their choice.",
   47004:
@@ -8540,13 +8540,13 @@ const Map<int, String> _noorEnglish = {
   47015:
       "Is the description of Paradise, which the righteous are promised, wherein are rivers of water unaltered,[1498] rivers of milk the taste of which never changes, rivers of wine delicious to those who drink, and rivers of purified honey, in which they will have from all [kinds of] fruits and forgiveness from their Lord... [Are its inhabitants] like those who abide eternally in the Fire and are given to drink scalding water that will sever their intestines?\\n\\nFootnotes: [1498] In taste or smell, neither stagnant nor polluted.",
   47016:
-      "And among them, [O Muḥammad], are those who listen to you, until when they depart from you, they say to those who were given knowledge,[1499] \"What has he said just now?\" Those are the ones of whom Allāh has sealed over their hearts and who have followed their [own] desires.\\n\\nFootnotes: [1499] From among the Prophet's companions.",
+      "And among them, [O Muhammad], are those who listen to you, until when they depart from you, they say to those who were given knowledge,[1499] \"What has he said just now?\" Those are the ones of whom Allāh has sealed over their hearts and who have followed their [own] desires.\\n\\nFootnotes: [1499] From among the Prophet's companions.",
   47017:
       "And those who are guided - He increases them in guidance and gives them their righteousness.[1500]\\n\\nFootnotes: [1500] Taqwā, meaning piety, consciousness and fear of Allāh, and care to avoid His displeasure.",
   47018:
       "Then do they await except that the Hour should come upon them unexpectedly? But already there have come [some of] its indications. Then how [i.e., what good] to them, when it has come, will be their remembrance?",
   47019:
-      "So know, [O Muḥammad], that there is no deity except Allāh and ask forgiveness for your sin[1501] and for the believing men and believing women. And Allāh knows of your movement and your resting place.\\n\\nFootnotes: [1501] See footnote to 40:55.",
+      "So know, [O Muhammad], that there is no deity except Allāh and ask forgiveness for your sin[1501] and for the believing men and believing women. And Allāh knows of your movement and your resting place.\\n\\nFootnotes: [1501] See footnote to 40:55.",
   47020:
       "Those who believe say, \"Why has a sūrah[1502] not been sent down?\" But when a precise sūrah is revealed and battle is mentioned therein, you see those in whose hearts is disease [i.e., hypocrisy] looking at you with a look of one overcome by death. And more appropriate for them[1503] [would have been]\\n\\nFootnotes: [1502] i.e., one in which permission is given the believers to fight their enemies.\n[1503] The words \"awlā lahum\" can also be interpreted as \"woe to them!\" In that case, the following verse would begin, \"[Better for them would have been] obedience and good words.\"",
   47021:
@@ -8586,7 +8586,7 @@ const Map<int, String> _noorEnglish = {
   47038:
       "Here you are - those invited to spend in the cause of Allāh - but among you are those who withhold [out of greed]. And whoever withholds only withholds [benefit] from himself; and Allāh is the Free of need, while you are the needy. And if you turn away [i.e., refuse], He will replace you with another people; then they will not be the likes of you.",
   48001:
-      "Indeed, We have given you, [O Muḥammad], a clear conquest[1507]\\n\\nFootnotes: [1507] Ibn Masʿūd said, \"You [people] consider the conquest to be that of Makkah, but we consider it to be the Treaty of al-Ḥudaybiyyah.\" Al-Bukhārī reported a similar quotation from al-Barā’ bin ʿĀzib. Although initially regarded by the companions as a setback, the treaty, in effect, served to promote the spread of Islām, which led to the conquest of Makkah two years later.",
+      "Indeed, We have given you, [O Muhammad], a clear conquest[1507]\\n\\nFootnotes: [1507] Ibn Masʿūd said, \"You [people] consider the conquest to be that of Makkah, but we consider it to be the Treaty of al-Ḥudaybiyyah.\" Al-Bukhārī reported a similar quotation from al-Barā’ bin ʿĀzib. Although initially regarded by the companions as a setback, the treaty, in effect, served to promote the spread of Islām, which led to the conquest of Makkah two years later.",
   48002:
       "That Allāh may forgive for you what preceded of your sin [i.e., errors] and what will follow and complete His favor upon you and guide you to a straight path",
   48003: "And [that] Allāh may aid you with a mighty victory.",
@@ -8603,7 +8603,7 @@ const Map<int, String> _noorEnglish = {
   48009:
       "That you [people] may believe in Allāh and His Messenger and honor him and respect him [i.e., the Prophet (ﷺ)] and exalt Him [i.e., Allāh] morning and afternoon.",
   48010:
-      "Indeed, those who pledge allegiance to you, [O Muḥammad] - they are actually pledging allegiance to Allāh. The hand[1508] of Allāh is over their hands.[1509] So he who breaks his word only breaks it to the detriment of himself. And he who fulfills that which he has promised Allāh - He will give him a great reward.\\n\\nFootnotes: [1508] See footnote to 2:19.\n[1509] Meaning that He (subḥānahu wa taʿālā) accepted their pledge.",
+      "Indeed, those who pledge allegiance to you, [O Muhammad] - they are actually pledging allegiance to Allāh. The hand[1508] of Allāh is over their hands.[1509] So he who breaks his word only breaks it to the detriment of himself. And he who fulfills that which he has promised Allāh - He will give him a great reward.\\n\\nFootnotes: [1508] See footnote to 2:19.\n[1509] Meaning that He (subḥānahu wa taʿālā) accepted their pledge.",
   48011:
       "Those who remained behind[1510] of the bedouins will say to you, \"Our properties and our families occupied us, so ask forgiveness for us.\" They say with their tongues what is not within their hearts. Say, \"Then who could prevent Allāh at all if He intended for you harm or intended for you benefit? Rather, ever is Allāh, of what you do, Aware.\\n\\nFootnotes: [1510] See footnote to 9:81.",
   48012:
@@ -8619,7 +8619,7 @@ const Map<int, String> _noorEnglish = {
   48017:
       "There is not upon the blind any guilt or upon the lame any guilt or upon the ill any guilt [for remaining behind]. And whoever obeys Allāh and His Messenger - He will admit him to gardens beneath which rivers flow; but whoever turns away - He will punish him with a painful punishment.",
   48018:
-      "Certainly was Allāh pleased with the believers when they pledged allegiance to you, [O Muḥammad], under the tree, and He knew what was in their hearts, so He sent down tranquility upon them and rewarded them with an imminent conquest[1514]\\n\\nFootnotes: [1514] That of Khaybar, which preceded the conquest of Makkah.",
+      "Certainly was Allāh pleased with the believers when they pledged allegiance to you, [O Muhammad], under the tree, and He knew what was in their hearts, so He sent down tranquility upon them and rewarded them with an imminent conquest[1514]\\n\\nFootnotes: [1514] That of Khaybar, which preceded the conquest of Makkah.",
   48019:
       "And much war booty which they will take. And ever is Allāh Exalted in Might and Wise.",
   48020:
@@ -8641,7 +8641,7 @@ const Map<int, String> _noorEnglish = {
   48028:
       "It is He who sent His Messenger with guidance and the religion of truth to manifest it over all religion. And sufficient is Allāh as Witness.",
   48029:
-      "Muḥammad is the Messenger of Allāh; and those with him are forceful against the disbelievers, merciful among themselves. You see them bowing and prostrating [in prayer], seeking bounty from Allāh and [His] pleasure. Their sign is in their faces from the effect of prostration [i.e., prayer]. That is their description in the Torah. And their description in the Gospel is as a plant which produces its offshoots and strengthens them so they grow firm and stand upon their stalks, delighting the sowers - so that He [i.e., Allāh] may enrage by them[1518] the disbelievers. Allāh has promised those who believe and do righteous deeds among them forgiveness and a great reward.\\n\\nFootnotes: [1518] The given examples depict the Prophet (ﷺ) and his companions.",
+      "Muhammad is the Messenger of Allāh; and those with him are forceful against the disbelievers, merciful among themselves. You see them bowing and prostrating [in prayer], seeking bounty from Allāh and [His] pleasure. Their sign is in their faces from the effect of prostration [i.e., prayer]. That is their description in the Torah. And their description in the Gospel is as a plant which produces its offshoots and strengthens them so they grow firm and stand upon their stalks, delighting the sowers - so that He [i.e., Allāh] may enrage by them[1518] the disbelievers. Allāh has promised those who believe and do righteous deeds among them forgiveness and a great reward.\\n\\nFootnotes: [1518] The given examples depict the Prophet (ﷺ) and his companions.",
   49001:
       "O you who have believed, do not put [yourselves] before Allāh and His Messenger[1520] but fear Allāh. Indeed, Allāh is Hearing and Knowing.\\n\\nFootnotes: [1520] Rather, wait for instruction and follow the way of the Prophet (ﷺ).",
   49002:
@@ -8649,7 +8649,7 @@ const Map<int, String> _noorEnglish = {
   49003:
       "Indeed, those who lower their voices before the Messenger of Allāh - they are the ones whose hearts Allāh has tested for righteousness. For them is forgiveness and great reward.",
   49004:
-      "Indeed, those who call you, [O Muḥammad], from behind the chambers - most of them do not use reason.",
+      "Indeed, those who call you, [O Muhammad], from behind the chambers - most of them do not use reason.",
   49005:
       "And if they had been patient until you [could] come out to them, it would have been better for them. But Allāh is Forgiving and Merciful.",
   49006:
@@ -8748,7 +8748,7 @@ const Map<int, String> _noorEnglish = {
   50038:
       "And We did certainly create the heavens and earth and what is between them in six days, and there touched Us no weariness.",
   50039:
-      "So be patient, [O Muḥammad], over what they say and exalt [Allāh] with praise of your Lord before the rising of the sun and before its setting,",
+      "So be patient, [O Muhammad], over what they say and exalt [Allāh] with praise of your Lord before the rising of the sun and before its setting,",
   50040:
       "And [in part] of the night exalt Him and after prostration [i.e., prayer].",
   50041:
@@ -8770,7 +8770,7 @@ const Map<int, String> _noorEnglish = {
   51007:
       "By the heaven containing pathways,[1535]\\n\\nFootnotes: [1535] Explained as tracks, layers or orbits.",
   51008:
-      "Indeed, you are in differing speech.[1536]\\n\\nFootnotes: [1536] About Prophet Muḥammad (ﷺ) and the Qur’ān.",
+      "Indeed, you are in differing speech.[1536]\\n\\nFootnotes: [1536] About Prophet Muhammad (ﷺ) and the Qur’ān.",
   51009: "Deluded away from it [i.e., the Qur’ān] is he who is deluded.",
   51010:
       "Destroyed are the misinformers[1537]\\n\\nFootnotes: [1537] Or \"May they be destroyed\" or \"cursed.\"",
@@ -8845,7 +8845,7 @@ const Map<int, String> _noorEnglish = {
       "Similarly, there came not to those before them any messenger except that they said, \"A magician or a madman.\"",
   51053:
       "Did they suggest it to them?[1547] Rather, they [themselves] are a transgressing people.\\n\\nFootnotes: [1547] i.e., Did the former disbelievers pass on these words to the Makkans so that they repeat the same expressions?",
-  51054: "So leave them, [O Muḥammad], for you are not to be blamed.",
+  51054: "So leave them, [O Muhammad], for you are not to be blamed.",
   51055: "And remind, for indeed, the reminder benefits the believers.",
   51056: "And I did not create the jinn and mankind except to worship Me.",
   51057:
@@ -8901,7 +8901,7 @@ const Map<int, String> _noorEnglish = {
   52028:
       "Indeed, we used to supplicate[1556] Him before. Indeed, it is He who is the Beneficent, the Merciful.\"\\n\\nFootnotes: [1556] i.e., worship.",
   52029:
-      "So remind, [O Muḥammad], for you are not, by the favor of your Lord, a soothsayer or a madman.",
+      "So remind, [O Muhammad], for you are not, by the favor of your Lord, a soothsayer or a madman.",
   52030:
       "Or do they say [of you], \"A poet for whom we await a misfortune of time\"?[1557]\\n\\nFootnotes: [1557] i.e., some accident or inevitable death.",
   52031: "Say, \"Wait, for indeed I am, with you, among the waiters.\"",
@@ -8920,7 +8920,7 @@ const Map<int, String> _noorEnglish = {
       "Or have they a stairway [into the heaven] upon which they listen? Then let their listener produce a clear authority [i.e., proof].",
   52039: "Or has He daughters while you have sons?",
   52040:
-      "Or do you, [O Muḥammad], ask of them a payment, so they are by debt burdened down?",
+      "Or do you, [O Muhammad], ask of them a payment, so they are by debt burdened down?",
   52041: "Or have they [knowledge of] the unseen, so they write [it] down?",
   52042:
       "Or do they intend a plan? But those who disbelieve - they are the object of a plan.",
@@ -8935,22 +8935,22 @@ const Map<int, String> _noorEnglish = {
   52047:
       "And indeed, for those who have wronged is a punishment[1560] before that, but most of them do not know.\\n\\nFootnotes: [1560] If not in this world, in the grave.",
   52048:
-      "And be patient, [O Muḥammad], for the decision of your Lord, for indeed, you are in Our eyes [i.e., sight]. And exalt [Allāh] with praise of your Lord when you arise",
+      "And be patient, [O Muhammad], for the decision of your Lord, for indeed, you are in Our eyes [i.e., sight]. And exalt [Allāh] with praise of your Lord when you arise",
   52049:
       "And in a part of the night exalt Him and after [the setting of] the stars.",
   53001: "By the star when it descends,",
-  53002: "Your companion [i.e., Muḥammad] has not strayed, nor has he erred,",
+  53002: "Your companion [i.e., Muhammad] has not strayed, nor has he erred,",
   53003: "Nor does he speak from [his own] inclination.",
   53004: "It is not but a revelation revealed,",
   53005: "Taught to him by one intense in strength [i.e., Gabriel] -",
   53006:
-      "One of soundness.[1562] And he rose to [his] true form[1563]\\n\\nFootnotes: [1562] i.e., strength of body and of mind.\n[1563] Gabriel appeared to Muḥammad (ﷺ) at the outset of his prophethood in the angelic form in which Allāh originally created him.",
+      "One of soundness.[1562] And he rose to [his] true form[1563]\\n\\nFootnotes: [1562] i.e., strength of body and of mind.\n[1563] Gabriel appeared to Muhammad (ﷺ) at the outset of his prophethood in the angelic form in which Allāh originally created him.",
   53007:
       "While he was in the higher [part of the] horizon.[1564]\\n\\nFootnotes: [1564] i.e., in the sky, above the eastern horizon.",
   53008: "Then he approached and descended",
   53009: "And was at a distance of two bow lengths or nearer.",
   53010:
-      "And he revealed to His Servant[1565] what he revealed [i.e., conveyed].\\n\\nFootnotes: [1565] i.e., to the Servant of Allāh, Prophet Muḥammad (ﷺ).",
+      "And he revealed to His Servant[1565] what he revealed [i.e., conveyed].\\n\\nFootnotes: [1565] i.e., to the Servant of Allāh, Prophet Muhammad (ﷺ).",
   53011:
       "The heart[1566] did not lie [about] what it saw.\\n\\nFootnotes: [1566] i.e., mind or perception (of the Prophet [ﷺ]).",
   53012: "So will you dispute with him over what he saw?",
@@ -9025,7 +9025,7 @@ const Map<int, String> _noorEnglish = {
       "While you are proudly sporting?[1575]\\n\\nFootnotes: [1575] Additional meanings are \"singing [with expanded chest],\" \"heedless,\" or \"lost in vain amusements.\"",
   53062: "So prostrate to Allāh and worship [Him].",
   54001:
-      "The Hour has come near, and the moon has split [in two].[1577]\\n\\nFootnotes: [1577] This was a sign given by Allāh to Prophet Muḥammad (ﷺ) when the Quraysh challenged him to show them a miracle.",
+      "The Hour has come near, and the moon has split [in two].[1577]\\n\\nFootnotes: [1577] This was a sign given by Allāh to Prophet Muhammad (ﷺ) when the Quraysh challenged him to show them a miracle.",
   54002:
       "And if they see a sign [i.e., miracle], they turn away and say, \"Passing magic.\"[1578]\\n\\nFootnotes: [1578] Or \"Continuing magic.\"",
   54003:
@@ -9034,7 +9034,7 @@ const Map<int, String> _noorEnglish = {
       "And there has already come to them of information that in which there is deterrence.",
   54005: "Extensive wisdom - but warning does not avail [them].",
   54006:
-      "So leave them, [O Muḥammad]. The Day the Caller[1579] calls to something forbidding,\\n\\nFootnotes: [1579] Said to be an angel announcing the account and judgement.",
+      "So leave them, [O Muhammad]. The Day the Caller[1579] calls to something forbidding,\\n\\nFootnotes: [1579] Said to be an angel announcing the account and judgement.",
   54007:
       "Their eyes humbled, they will emerge from the graves as if they were locusts spreading,",
   54008:
@@ -9265,7 +9265,7 @@ const Map<int, String> _noorEnglish = {
   56047:
       "And they used to say, \"When we die and become dust and bones, are we indeed to be resurrected?",
   56048: "And our forefathers [as well]?\"",
-  56049: "Say, [O Muḥammad], \"Indeed, the former and later peoples",
+  56049: "Say, [O Muhammad], \"Indeed, the former and later peoples",
   56050: "Are to be gathered together for the appointment of a known Day.\"",
   56051: "Then indeed you, O those astray [who are] deniers,",
   56052: "Will be eating from trees of zaqqūm",
@@ -9342,7 +9342,7 @@ const Map<int, String> _noorEnglish = {
   57008:
       "And why do you not believe in Allāh while the Messenger invites you to believe in your Lord and He has taken your covenant, if you should [truly] be believers?",
   57009:
-      "It is He who sends down upon His Servant [Muḥammad (ﷺ)] verses of clear evidence that He may bring you out from darknesses into the light. And indeed, Allāh is to you Kind and Merciful.",
+      "It is He who sends down upon His Servant [Muhammad (ﷺ)] verses of clear evidence that He may bring you out from darknesses into the light. And indeed, Allāh is to you Kind and Merciful.",
   57010:
       "And why do you not spend in the cause of Allāh while to Allāh belongs the heritage of the heavens and the earth? Not equal among you are those who spent before the conquest [of Makkah] and fought [and those who did so after it]. Those are greater in degree than they who spent afterwards and fought. But to all Allāh has promised the best [reward]. And Allāh, of what you do, is Aware.",
   57011:
@@ -9382,11 +9382,11 @@ const Map<int, String> _noorEnglish = {
   57028:
       "O you who have believed, fear Allāh and believe in His Messenger; He will [then] give you a double portion of His mercy and make for you a light by which you will walk and forgive you; and Allāh is Forgiving and Merciful.",
   57029:
-      "[This is] so that the People of the Scripture may know that they are not able [to obtain] anything from the bounty of Allāh[1636] and that [all] bounty is in the hand[1637] of Allāh; He gives it to whom He wills. And Allāh is the possessor of great bounty.\\n\\nFootnotes: [1636] As long as they refuse to believe in the message of Allāh which was conveyed through Muḥammad (ﷺ).\n[1637] See footnote to 2:19.",
+      "[This is] so that the People of the Scripture may know that they are not able [to obtain] anything from the bounty of Allāh[1636] and that [all] bounty is in the hand[1637] of Allāh; He gives it to whom He wills. And Allāh is the possessor of great bounty.\\n\\nFootnotes: [1636] As long as they refuse to believe in the message of Allāh which was conveyed through Muhammad (ﷺ).\n[1637] See footnote to 2:19.",
   58001:
-      "Certainly has Allāh heard the speech of the one who argues [i.e., pleads] with you, [O Muḥammad], concerning her husband and directs her complaint to Allāh. And Allāh hears your dialogue; indeed, Allāh is Hearing and Seeing.",
+      "Certainly has Allāh heard the speech of the one who argues [i.e., pleads] with you, [O Muhammad], concerning her husband and directs her complaint to Allāh. And Allāh hears your dialogue; indeed, Allāh is Hearing and Seeing.",
   58002:
-      "Those who pronounce ẓihār[1639] among you [to separate] from their wives - they are not [consequently] their mothers. Their mothers are none but those who gave birth to them. And indeed, they are saying an objectionable statement and a falsehood. But indeed, Allāh is Pardoning and Forgiving.\\n\\nFootnotes: [1639] The saying by a husband to his wife, \"You are to me like the back of my mother,\" meaning unlawful to approach. This was a type of divorce practiced by the Arabs before the prophethood of Muḥammad (ﷺ).",
+      "Those who pronounce ẓihār[1639] among you [to separate] from their wives - they are not [consequently] their mothers. Their mothers are none but those who gave birth to them. And indeed, they are saying an objectionable statement and a falsehood. But indeed, Allāh is Pardoning and Forgiving.\\n\\nFootnotes: [1639] The saying by a husband to his wife, \"You are to me like the back of my mother,\" meaning unlawful to approach. This was a type of divorce practiced by the Arabs before the prophethood of Muhammad (ﷺ).",
   58003:
       "And those who pronounce ẓihār from their wives and then [wish to] go back on what they said - then [there must be] the freeing of a slave before they touch one another. That is what you are admonished thereby; and Allāh is Aware of what you do.",
   58004:
@@ -9509,9 +9509,9 @@ const Map<int, String> _noorEnglish = {
   61004:
       "Indeed, Allāh loves those who fight in His cause in a row as though they are a [single] structure joined firmly.",
   61005:
-      "And [mention, O Muḥammad], when Moses said to his people, \"O my people, why do you harm me while you certainly know that I am the messenger of Allāh to you?\" And when they deviated, Allāh caused their hearts to deviate. And Allāh does not guide the defiantly disobedient people.",
+      "And [mention, O Muhammad], when Moses said to his people, \"O my people, why do you harm me while you certainly know that I am the messenger of Allāh to you?\" And when they deviated, Allāh caused their hearts to deviate. And Allāh does not guide the defiantly disobedient people.",
   61006:
-      "And [mention] when Jesus, the son of Mary, said, \"O Children of Israel, indeed I am the messenger of Allāh to you confirming what came before me of the Torah and bringing good tidings of a messenger to come after me, whose name is Aḥmad.\"[1682] But when he came to them with clear evidences, they said, \"This is obvious magic.\"[1683]\\n\\nFootnotes: [1682] Another name of Prophet Muḥammad (ﷺ).\n[1683] i.e., fraud or deception.",
+      "And [mention] when Jesus, the son of Mary, said, \"O Children of Israel, indeed I am the messenger of Allāh to you confirming what came before me of the Torah and bringing good tidings of a messenger to come after me, whose name is Aḥmad.\"[1682] But when he came to them with clear evidences, they said, \"This is obvious magic.\"[1683]\\n\\nFootnotes: [1682] Another name of Prophet Muhammad (ﷺ).\n[1683] i.e., fraud or deception.",
   61007:
       "And who is more unjust than one who invents about Allāh untruth while he is being invited to Islām. And Allāh does not guide the wrongdoing people.",
   61008:
@@ -9549,9 +9549,9 @@ const Map<int, String> _noorEnglish = {
   62010:
       "And when the prayer has been concluded, disperse within the land and seek from the bounty of Allāh, and remember Allāh often that you may succeed.",
   62011:
-      "But [on one occasion] when they saw a transaction or a diversion, [O Muḥammad], they rushed to it and left you standing. Say, \"What is with Allāh is better than diversion and than a transaction, and Allāh is the best of providers.\"",
+      "But [on one occasion] when they saw a transaction or a diversion, [O Muhammad], they rushed to it and left you standing. Say, \"What is with Allāh is better than diversion and than a transaction, and Allāh is the best of providers.\"",
   63001:
-      "When the hypocrites come to you, [O Muḥammad], they say, \"We testify that you are the Messenger of Allāh.\" And Allāh knows that you are His Messenger, and Allāh testifies that the hypocrites are liars.",
+      "When the hypocrites come to you, [O Muhammad], they say, \"We testify that you are the Messenger of Allāh.\" And Allāh knows that you are His Messenger, and Allāh testifies that the hypocrites are liars.",
   63002:
       "They have taken their oaths as a cover, so they averted [people] from the way of Allāh. Indeed, it was evil that they were doing.",
   63003:
@@ -9629,7 +9629,7 @@ const Map<int, String> _noorEnglish = {
   65010:
       "Allāh has prepared for them a severe punishment; so fear Allāh, O you of understanding who have believed. Allāh has sent down to you a message [i.e., the Qur’ān].[1704]\\n\\nFootnotes: [1704] Some scholars have interpreted \"dhikr\" here as \"a reminder,\" meaning the Messenger (ﷺ), since he is mentioned in the following verse.",
   65011:
-      "[He sent] a Messenger [i.e., Muḥammad (ﷺ)] reciting to you the distinct verses of Allāh that He may bring out those who believe and do righteous deeds from darknesses into the light. And whoever believes in Allāh and does righteousness - He will admit him into gardens beneath which rivers flow to abide therein forever. Allāh will have perfected for him a provision.",
+      "[He sent] a Messenger [i.e., Muhammad (ﷺ)] reciting to you the distinct verses of Allāh that He may bring out those who believe and do righteous deeds from darknesses into the light. And whoever believes in Allāh and does righteousness - He will admit him into gardens beneath which rivers flow to abide therein forever. Allāh will have perfected for him a provision.",
   65012:
       "It is Allāh who has created seven heavens and of the earth, the like of them.[1705] [His] command descends among them so you may know that Allāh is over all things competent and that Allāh has encompassed all things in knowledge.\\n\\nFootnotes: [1705] i.e., a similar number: seven.",
   66001:
@@ -9710,14 +9710,14 @@ const Map<int, String> _noorEnglish = {
   67027:
       "But when they see it[1720] approaching, the faces of those who disbelieve will be distressed, and it will be said, \"This is that for which you used to call.\"[1721]\\n\\nFootnotes: [1720] The punishment of which they were warned.\n[1721] When they challenged their prophets, saying, \"Bring on the punishment, if you are truthful.\"",
   67028:
-      "Say, [O Muḥammad], \"Have you considered:[1722] whether Allāh should cause my death and those with me or have mercy upon us, who can protect the disbelievers from a painful punishment?\"\\n\\nFootnotes: [1722] i.e., inform me.",
+      "Say, [O Muhammad], \"Have you considered:[1722] whether Allāh should cause my death and those with me or have mercy upon us, who can protect the disbelievers from a painful punishment?\"\\n\\nFootnotes: [1722] i.e., inform me.",
   67029:
       "Say, \"He is the Most Merciful; we have believed in Him, and upon Him we have relied. And you will [come to] know who it is that is in clear error.\"",
   67030:
       "Say, \"Have you considered: if your water was to become sunken [into the earth], then who could bring you flowing water?\"",
   68001:
       "Nūn.[1724] By the pen and what they inscribe,\\n\\nFootnotes: [1724] See footnote to 2:1.",
-  68002: "You are not, [O Muḥammad], by the favor of your Lord, a madman.",
+  68002: "You are not, [O Muhammad], by the favor of your Lord, a madman.",
   68003: "And indeed, for you is a reward uninterrupted.",
   68004: "And indeed, you are of a great moral character.",
   68005: "So you will see and they will see",
@@ -9778,12 +9778,12 @@ const Map<int, String> _noorEnglish = {
   68043:
       "Their eyes humbled, humiliation will cover them. And they used to be invited to prostration while they were sound.[1733]\\n\\nFootnotes: [1733] During worldly life.",
   68044:
-      "So leave Me, [O Muḥammad], with [the matter of] whoever denies this statement [i.e., the Qur’ān]. We will progressively lead them [to punishment] from where they do not know.[1734]\\n\\nFootnotes: [1734] Allāh will increase His favors to them in this world by way of trial, whereby they will sink deeper into sin and thus into destruction.",
+      "So leave Me, [O Muhammad], with [the matter of] whoever denies this statement [i.e., the Qur’ān]. We will progressively lead them [to punishment] from where they do not know.[1734]\\n\\nFootnotes: [1734] Allāh will increase His favors to them in this world by way of trial, whereby they will sink deeper into sin and thus into destruction.",
   68045: "And I will give them time. Indeed, My plan is firm.",
   68046: "Or do you ask of them a payment, so they are by debt burdened down?",
   68047: "Or have they [knowledge of] the unseen, so they write [it] down?",
   68048:
-      "Then be patient for the decision of your Lord, [O Muḥammad], and be not like the companion of the fish [i.e., Jonah] when he called out while he was distressed.",
+      "Then be patient for the decision of your Lord, [O Muhammad], and be not like the companion of the fish [i.e., Jonah] when he called out while he was distressed.",
   68049:
       "If not that a favor [i.e., mercy] from his Lord overtook him, he would have been thrown onto the naked shore while he was censured.[1735]\\n\\nFootnotes: [1735] But instead, Allāh accepted his repentance and provided means for his recovery. See 37:139-148.",
   68050: "And his Lord chose him and made him of the righteous.",
@@ -9851,7 +9851,7 @@ const Map<int, String> _noorEnglish = {
   69042: "Nor the word of a soothsayer; little do you remember.",
   69043: "[It is] a revelation from the Lord of the worlds.",
   69044:
-      "And if he [i.e., Muḥammad] had made up about Us some [false] sayings,",
+      "And if he [i.e., Muhammad] had made up about Us some [false] sayings,",
   69045:
       "We would have seized him by the right hand;[1745]\\n\\nFootnotes: [1745] Another interpretation is \"by [Our] right hand,\" i.e., Allāh would have exacted revenge with might and power.",
   69046:
@@ -9910,7 +9910,7 @@ const Map<int, String> _noorEnglish = {
   70035:
       "They will be in gardens,[1755] honored.\\n\\nFootnotes: [1755] In Paradise.",
   70036:
-      "So what is [the matter] with those who disbelieve, hastening [from] before you, [O Muḥammad],",
+      "So what is [the matter] with those who disbelieve, hastening [from] before you, [O Muhammad],",
   70037:
       "[To sit] on [your] right and [your] left in separate groups?[1756]\\n\\nFootnotes: [1756] They sat at a distance in order to oppose and mock the Prophet (ﷺ), claiming that they would enter Paradise before the believers.",
   70038: "Does every person among them aspire to enter a garden of pleasure?",
@@ -9974,7 +9974,7 @@ const Map<int, String> _noorEnglish = {
   71028:
       "My Lord, forgive me and my parents and whoever enters my house a believer and the believing men and believing women. And do not increase the wrongdoers except in destruction.\"",
   72001:
-      "Say, [O Muḥammad], \"It has been revealed to me that a group of the jinn listened and said, 'Indeed, we have heard an amazing Qur’ān [i.e., recitation].",
+      "Say, [O Muhammad], \"It has been revealed to me that a group of the jinn listened and said, 'Indeed, we have heard an amazing Qur’ān [i.e., recitation].",
   72002:
       "It guides to the right course, and we have believed in it. And we will never associate with our Lord anyone.",
   72003:
@@ -9990,7 +9990,7 @@ const Map<int, String> _noorEnglish = {
   72008:
       "And we have sought [to reach] the heaven but found it filled with powerful guards and burning flames.",
   72009:
-      "And we used to sit therein in positions for hearing,[1767] but whoever listens now will find a burning flame lying in wait for him.\\n\\nFootnotes: [1767] Before the prophethood of Muḥammad (ﷺ) the jinn used to collect information by eavesdropping on the angels and then pass it on to fortunetellers and soothsayers.",
+      "And we used to sit therein in positions for hearing,[1767] but whoever listens now will find a burning flame lying in wait for him.\\n\\nFootnotes: [1767] Before the prophethood of Muhammad (ﷺ) the jinn used to collect information by eavesdropping on the angels and then pass it on to fortunetellers and soothsayers.",
   72010:
       "And we do not know [therefore] whether evil is intended for those on earth or whether their Lord intends for them a right course.",
   72011:
@@ -10011,7 +10011,7 @@ const Map<int, String> _noorEnglish = {
   72019:
       "And that when the Servant [i.e., Prophet] of Allāh stood up supplicating Him, they almost became about him a compacted mass.\"[1774]\\n\\nFootnotes: [1774] Crowding on top of each other in the manner of locusts in order to hear him (ﷺ). \"They\" may refer to the jinn or to the disbelievers among the Arabs.",
   72020:
-      "Say, [O Muḥammad], \"I only invoke my Lord and do not associate with Him anyone.\"",
+      "Say, [O Muhammad], \"I only invoke my Lord and do not associate with Him anyone.\"",
   72021:
       "Say, \"Indeed, I do not possess for you [the power of] harm or right direction.\"",
   72022:
@@ -10027,7 +10027,7 @@ const Map<int, String> _noorEnglish = {
   72027:
       "Except whom He has approved of messengers, and indeed, He sends before him [i.e., each messenger] and behind him observers[1775]\\n\\nFootnotes: [1775] Guardian angels to protect the messenger and the message.",
   72028:
-      "That he [i.e., Muḥammad (ﷺ)] may know[1776] that they have conveyed the messages of their Lord; and He has encompassed whatever is with them and has enumerated all things in number.\\n\\nFootnotes: [1776] This phrase may also be read: \"So He [i.e., Allāh] may make evident.\"",
+      "That he [i.e., Muhammad (ﷺ)] may know[1776] that they have conveyed the messages of their Lord; and He has encompassed whatever is with them and has enumerated all things in number.\\n\\nFootnotes: [1776] This phrase may also be read: \"So He [i.e., Allāh] may make evident.\"",
   73001:
       "O you who wraps himself [in clothing],[1778]\\n\\nFootnotes: [1778] Allāh (subḥānahu wa taʿālā) addresses the Prophet (ﷺ), who was asleep, wrapped in his garments.",
   73002: "Arise [to pray] the night, except for a little -",
@@ -10061,7 +10061,7 @@ const Map<int, String> _noorEnglish = {
   73019:
       "Indeed, this is a reminder, so whoever wills may take to his Lord a way.",
   73020:
-      "Indeed, your Lord knows, [O Muḥammad], that you stand [in prayer] almost two thirds of the night or half of it or a third of it, and [so do] a group of those with you. And Allāh determines [the extent of] the night and the day. He has known that you [Muslims] will not be able to do it[1785] and has turned to you in forgiveness, so recite what is easy [for you] of the Qur’ān. He has known that there will be among you those who are ill and others traveling throughout the land seeking [something] of the bounty of Allāh and others fighting for the cause of Allāh. So recite what is easy from it and establish prayer and give zakāh and loan Allāh a goodly loan.[1786] And whatever good you put forward for yourselves - you will find it with Allāh. It is better and greater in reward. And seek forgiveness of Allāh. Indeed, Allāh is Forgiving and Merciful.\\n\\nFootnotes: [1785] Allāh has known that if they were to continue in such long periods of worship each night, the people would be caused much hardship.\n[1786] In the form of charities and contributions to His cause.",
+      "Indeed, your Lord knows, [O Muhammad], that you stand [in prayer] almost two thirds of the night or half of it or a third of it, and [so do] a group of those with you. And Allāh determines [the extent of] the night and the day. He has known that you [Muslims] will not be able to do it[1785] and has turned to you in forgiveness, so recite what is easy [for you] of the Qur’ān. He has known that there will be among you those who are ill and others traveling throughout the land seeking [something] of the bounty of Allāh and others fighting for the cause of Allāh. So recite what is easy from it and establish prayer and give zakāh and loan Allāh a goodly loan.[1786] And whatever good you put forward for yourselves - you will find it with Allāh. It is better and greater in reward. And seek forgiveness of Allāh. Indeed, Allāh is Forgiving and Merciful.\\n\\nFootnotes: [1785] Allāh has known that if they were to continue in such long periods of worship each night, the people would be caused much hardship.\n[1786] In the form of charities and contributions to His cause.",
   74001:
       "O you who covers himself [with a garment],[1788]\\n\\nFootnotes: [1788] Referring to the Prophet (ﷺ).",
   74002: "Arise and warn",
@@ -10127,7 +10127,7 @@ const Map<int, String> _noorEnglish = {
   74050: "As if they were alarmed donkeys",
   74051: "Fleeing from a lion?",
   74052:
-      "Rather, every person among them desires that he[1797] would be given scriptures spread about.[1798]\\n\\nFootnotes: [1797] Instead of Muḥammad (ﷺ).\n[1798] i.e., made public. Much of their refusal of his message was due to envy and jealousy of the Prophet (ﷺ).",
+      "Rather, every person among them desires that he[1797] would be given scriptures spread about.[1798]\\n\\nFootnotes: [1797] Instead of Muhammad (ﷺ).\n[1798] i.e., made public. Much of their refusal of his message was due to envy and jealousy of the Prophet (ﷺ).",
   74053: "No! But they do not fear the Hereafter.",
   74054: "No! Indeed, it [i.e., the Qur’ān] is a reminder",
   74055: "Then whoever wills will remember it.",
@@ -10153,7 +10153,7 @@ const Map<int, String> _noorEnglish = {
       "Rather, man, against himself, will be a witness,[1804]\\n\\nFootnotes: [1804] As described in 36:65 and 41:20-23.",
   75015: "Even if he presents his excuses.",
   75016:
-      "Move not your tongue with it, [O Muḥammad], to hasten with it [i.e., recitation of the Qur’ān].",
+      "Move not your tongue with it, [O Muhammad], to hasten with it [i.e., recitation of the Qur’ān].",
   75017:
       "Indeed, upon Us is its collection [in your heart] and [to make possible] its recitation.",
   75018:
@@ -10230,7 +10230,7 @@ const Map<int, String> _noorEnglish = {
   76022:
       "[And it will be said], \"Indeed, this is for you a reward, and your effort has been appreciated.\"",
   76023:
-      "Indeed, it is We who have sent down to you, [O Muḥammad], the Qur’ān progressively.",
+      "Indeed, it is We who have sent down to you, [O Muhammad], the Qur’ān progressively.",
   76024:
       "So be patient for the decision of your Lord and do not obey from among them a sinner or ungrateful [disbeliever].",
   76025: "And mention the name of your Lord [in prayer] morning and evening",
@@ -10417,9 +10417,9 @@ const Map<int, String> _noorEnglish = {
       "But as for he who feared the position of his Lord[1847] and prevented the soul from [unlawful] inclination,\\n\\nFootnotes: [1847] See footnote to 55:46.",
   79041: "Then indeed, Paradise will be [his] refuge.",
   79042:
-      "They ask you, [O Muḥammad], about the Hour: when is its arrival?[1848]\\n\\nFootnotes: [1848] Literally, \"resting\" or \"establishment.\"",
+      "They ask you, [O Muhammad], about the Hour: when is its arrival?[1848]\\n\\nFootnotes: [1848] Literally, \"resting\" or \"establishment.\"",
   79043:
-      "In what [position] are you that you should mention it?[1849]\\n\\nFootnotes: [1849] Meaning that Muḥammad (ﷺ) had no knowledge of it, so how could he inform them?",
+      "In what [position] are you that you should mention it?[1849]\\n\\nFootnotes: [1849] Meaning that Muhammad (ﷺ) had no knowledge of it, so how could he inform them?",
   79044:
       "To your Lord is its finality.[1850]\\n\\nFootnotes: [1850] i.e., its destination and termination. And to Him belongs ultimate knowledge of it.",
   79045: "You are only a warner for those who fear it.",
@@ -10429,7 +10429,7 @@ const Map<int, String> _noorEnglish = {
   80002:
       "Because there came to him the blind man,[1853] [interrupting].\\n\\nFootnotes: [1853] ʿAbdullāh, the son of Umm Maktūm.",
   80003:
-      "But what would make you perceive, [O Muḥammad], that perhaps he might be purified[1854]\\n\\nFootnotes: [1854] As a result of what he learns from you.",
+      "But what would make you perceive, [O Muhammad], that perhaps he might be purified[1854]\\n\\nFootnotes: [1854] As a result of what he learns from you.",
   80004: "Or be reminded and the remembrance would benefit him?",
   80005:
       "As for he who thinks himself without need,[1855]\\n\\nFootnotes: [1855] i.e., without need of faith or need of Allāh (subḥānahu wa taʿālā) . Here it is in reference to a certain influential member of the Quraysh whom the Prophet (ﷺ) had hoped to bring to Islām.",
@@ -10508,11 +10508,11 @@ const Map<int, String> _noorEnglish = {
       "[Who is] possessed of power and with the Owner of the Throne, secure [in position],",
   81021: "Obeyed there [in the heavens] and trustworthy.",
   81022:
-      "And your companion [i.e., Prophet Muḥammad (ﷺ) ] is not [at all] mad.[1871]\\n\\nFootnotes: [1871] Literally, \"possessed by jinn.\"",
+      "And your companion [i.e., Prophet Muhammad (ﷺ) ] is not [at all] mad.[1871]\\n\\nFootnotes: [1871] Literally, \"possessed by jinn.\"",
   81023:
       "And he has already seen him [i.e., Gabriel] in the clear horizon.[1872]\\n\\nFootnotes: [1872] i.e., the eastern horizon, where the sun rises. See footnote to 53:6.",
   81024:
-      "And he [i.e., Muḥammad (ﷺ)] is not a withholder of [knowledge of] the unseen.[1873]\\n\\nFootnotes: [1873] Prophet Muḥammad (ﷺ) did not withhold that knowledge of the unseen which Allāh had revealed to him in the Qur’ān.",
+      "And he [i.e., Muhammad (ﷺ)] is not a withholder of [knowledge of] the unseen.[1873]\\n\\nFootnotes: [1873] Prophet Muhammad (ﷺ) did not withhold that knowledge of the unseen which Allāh had revealed to him in the Qur’ān.",
   81025:
       "And it [i.e., the Qur’ān] is not the word of a devil, expelled [from the heavens].",
   81026:
@@ -10631,7 +10631,7 @@ const Map<int, String> _noorEnglish = {
   85005: "[Containing] the fire full of fuel,",
   85006: "When they were sitting near it.",
   85007:
-      "And they, to what they were doing against the believers, were witnesses. [1896]\\n\\nFootnotes: [1896] After casting the believers into a trench filled with fire, they sat at its edge, watching them burn to death. This event occurred before the time of Prophet Muḥammad (ﷺ) .",
+      "And they, to what they were doing against the believers, were witnesses. [1896]\\n\\nFootnotes: [1896] After casting the believers into a trench filled with fire, they sat at its edge, watching them burn to death. This event occurred before the time of Prophet Muhammad (ﷺ) .",
   85008:
       "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy,",
   85009:
@@ -10679,7 +10679,7 @@ const Map<int, String> _noorEnglish = {
   87003: "And who destined and [then] guided",
   87004: "And who brings out the pasture",
   87005: "And [then] makes it black stubble.",
-  87006: "We will make you recite, [O Muḥammad], and you will not forget,",
+  87006: "We will make you recite, [O Muhammad], and you will not forget,",
   87007:
       "Except what Allāh should will. Indeed, He knows what is declared and what is hidden.",
   87008:
@@ -10718,7 +10718,7 @@ const Map<int, String> _noorEnglish = {
   88018: "And at the sky - how it is raised?",
   88019: "And at the mountains - how they are erected?",
   88020: "And at the earth - how it is spread out?",
-  88021: "So remind, [O Muḥammad]; you are only a reminder.",
+  88021: "So remind, [O Muhammad]; you are only a reminder.",
   88022: "You are not over them a controller.",
   88023: "However, he who turns away and disbelieves –",
   88024: "Then Allāh will punish him with the greatest punishment.",
@@ -10766,7 +10766,7 @@ const Map<int, String> _noorEnglish = {
   89029: "And enter among My [righteous] servants",
   89030: "And enter My Paradise.\"",
   90001: "I swear by this city [i.e., Makkah] –",
-  90002: "And you, [O Muḥammad], are free of restriction in this city –",
+  90002: "And you, [O Muhammad], are free of restriction in this city –",
   90003:
       "And [by] the father[1924] and that which was born [of him],\\n\\nFootnotes: [1924] Said to be Adam (upon him be peace) .",
   90004: "We have certainly created man into hardship.",
@@ -10843,7 +10843,7 @@ const Map<int, String> _noorEnglish = {
   93002:
       "And [by] the night when it covers with darkness,[1941]\\n\\nFootnotes: [1941] And becomes still.",
   93003:
-      "Your Lord has not taken leave of you, [O Muḥammad], nor has He detested [you].",
+      "Your Lord has not taken leave of you, [O Muhammad], nor has He detested [you].",
   93004: "And the Hereafter is better for you than the first [life].",
   93005: "And your Lord is going to give you, and you will be satisfied.",
   93006: "Did He not find you an orphan and give [you] refuge?",
@@ -10854,7 +10854,7 @@ const Map<int, String> _noorEnglish = {
       "And as for the petitioner,[1942] do not repel [him].\\n\\nFootnotes: [1942] Anyone who seeks aid or knowledge.",
   93011: "But as for the favor of your Lord, report [it].",
   94001:
-      "Did We not expand for you, [O Muḥammad], your breast?[1944]\\n\\nFootnotes: [1944] i.e., enlighten, assure and gladden your heart with guidance.",
+      "Did We not expand for you, [O Muhammad], your breast?[1944]\\n\\nFootnotes: [1944] i.e., enlighten, assure and gladden your heart with guidance.",
   94002:
       "And We removed from you your burden[1945]\\n\\nFootnotes: [1945] By forgiving any errors which you may have committed previously or might commit consequently. \"Burden\" can also refer to the anxiety experienced by the Prophet (ﷺ) at the beginning of his mission.",
   94003: "Which had weighed upon your back",
@@ -10991,7 +10991,7 @@ const Map<int, String> _noorEnglish = {
       "No! He will surely be thrown into the Crusher.[1988]\\n\\nFootnotes: [1988] i.e., Hellfire, which crushes and destroys all that enters it.",
   104005: "And what can make you know what is the Crusher?",
   105001:
-      "Have you not considered, [O Muḥammad], how your Lord dealt with the companions of the elephant?[1992]\\n\\nFootnotes: [1992] i.e., the army under the command of Abrahah al-Ashram which was accompanied by a huge elephant and came with the intention of destroying the Kaʿbah at Makkah.",
+      "Have you not considered, [O Muhammad], how your Lord dealt with the companions of the elephant?[1992]\\n\\nFootnotes: [1992] i.e., the army under the command of Abrahah al-Ashram which was accompanied by a huge elephant and came with the intention of destroying the Kaʿbah at Makkah.",
   105002:
       "Did He not make their plan into misguidance?[1993]\\n\\nFootnotes: [1993] Causing them to perish.",
   105003: "And He sent against them birds in flocks,",
@@ -11011,7 +11011,7 @@ const Map<int, String> _noorEnglish = {
   107005:
       "[But] who are heedless of their prayer[2000] -\\n\\nFootnotes: [2000] i.e., the hypocrites who are unconcerned if they miss prayers when no one sees them.",
   107006: "Those who make show [of their deeds]",
-  108001: "Indeed, We have granted you, [O Muḥammad], al-Kawthar.",
+  108001: "Indeed, We have granted you, [O Muhammad], al-Kawthar.",
   108002: "So pray to your Lord and offer sacrifice [to Him alone].",
   108003:
       "Indeed, your enemy is the one cut off.[2002]\\n\\nFootnotes: [2002] From all good in this world and the Hereafter.",

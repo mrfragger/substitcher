@@ -2,6 +2,7 @@ import 'dart:math' as math;
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'hadeeth_index.dart';
+import '../services/allah_highlighter.dart';
 
 class HadeethPanel extends StatefulWidget {
   final String initialLanguage;
@@ -406,234 +407,6 @@ class _HadeethPanelState extends State<HadeethPanel> {
     return Colors.white54;
   }
 
-  static const Map<String, List<String>> _allahWords = {
-    'Arabic': [
-      'بالله', 'تالله', 'والله', 'فالله', 'لله', 'الله',
-      'لربكم', 'لربهم', 'لربنا', 'لربه', 'لربك', 'لربي',
-      'بربكم', 'بربهم', 'بربنا', 'بربه', 'بربك', 'بربي',
-      'ربكم', 'ربهم', 'ربنا', 'ربه', 'ربها', 'ربك', 'ربي',
-    ],
-    'Urdu': ['اللہ', 'اللّٰہ', 'پروردگار', 'خدا', 'ربّ', 'رب'],
-    'Kurdish': [
-      'خوای', 'الله', 'پەروەردگاری', 'پەروەردگار',
-      'خودای', 'خودا', 'خوداوەند', 'خوداوەندی',
-      'Xwedayê', 'Xwedê',
-    ],
-    'Pashto': [
-      'بالله', 'والله', 'لله', 'الله',
-      'خدایه', 'خدای', 'پالونکی',
-      'ربه', 'ربك', 'رب',
-    ],
-    'Persian': [
-      'بالله', 'والله', 'لله', 'الله',
-      'خداوندا', 'خداوندی', 'خداوند',
-      'خدایا', 'خدای', 'خدا',
-      'پروردگارا', 'پروردگاری', 'پروردگار',
-    ],
-    'Uyghur': [
-      'ئاللاھقا', 'ئاللاھنىڭ', 'ئاللاھتىن', 'ئاللاھتا', 'ئاللاھنى', 'ئاللاھ',
-      'پەرۋەردىگارىڭلار', 'پەرۋەردىگارىڭنىڭ', 'پەرۋەردىگارىنىڭ',
-      'پەرۋەردىگارىڭ', 'پەرۋەردىگارىم', 'پەرۋەردىگارى', 'پەرۋەردىگار',
-      'رەببىڭنىڭ', 'رەببىنىڭ', 'رەببىڭ', 'رەببىم', 'رەببى', 'رەبب',
-      'الله', 'اﷲ',
-    ],
-    'PersianAfghan': [
-      'بالله', 'والله', 'لله', 'الله',
-      'خداوندا', 'خداوندی', 'خداوند',
-      'خدایا', 'خدای', 'خدا',
-      'پروردگارا', 'پروردگاری', 'پروردگار',
-    ],
-    'English': [
-      'Allah\u2019s', 'Allāh\u2019s', 'Allâh\u2019s',
-      'Allah\u02BCs', 'Allāh\u02BCs', 'Allâh\u02BCs',
-      "Allah's", "Allāh's", "Allâh's",
-      'Allah', 'Allāh', 'Allâh',
-      'Lord\u2019s', 'Lord\u02BCs', "Lord's", 'Lord',
-    ],
-    'Albanian': [
-      'All-llahun', 'All-llahut', 'All-llahu',
-      'Allahun', 'Allahut', 'Allahu',
-      'Zotin', 'Zotit', 'Zoti',
-    ],
-    'Assamese': [
-      'আল্লাহৰ', 'আল্লাহে', 'আল্লাহক', 'আল্লাহ্', 'আল্লাহ',
-      'প্ৰতিপালকৰ', 'প্ৰতিপালক', 'ৰব',
-    ],
-    'Bangla': ['আল্লাহর', 'আল্লাহ্', 'আল্লাহ', 'রব', 'প্রতিপালক'],
-    'Burmese': ['အလ္လာဟ်အရှင်မြတ်', 'အလ္လာဟ်', 'အရှင်မြတ်', 'အရှင်'],
-    'Bosnian': [
-      'Allahovoj', 'Allahova', 'Allahovog', 'Allahovom', 'Allahovih',
-      'Allahove', 'Allahovu', 'Allahovi', 'Allahov', 'Allahu', 'Allaha', 'Allah',
-    ],
-    'Chinese': ['安拉', '真主'],
-    'Dutch': ['Allah', 'Heer'],
-    'Filipino': ['Allāh', 'Allah', 'Panginoon'],
-    'French': ['qu\u2019Allah', 'qu\'Allah', 'd\u2019Allah', 'd\'Allah', 'Allah', 'Seigneur'],
-    'Georgian': [
-      'ალაჰისათვის', 'ალაჰისგან', 'ალაჰზე', 'ალაჰმა', 'ალაჰსა', 'ალაჰის',
-      'ალაჰთან', 'ალაჰს', 'ალაჰი', 'ალაჰისა',
-      'უფლისაგან', 'უფლის', 'უფალო', 'უფალს', 'უფალი',
-    ],
-    'German': ['Allah', 'Herr'],
-    'Gujarati': ['અલ્લાહ', 'પાલનહાર', 'પાલનહારનો', 'પાલનહારની', 'પાલનહારનું', 'રબ્બ'],
-    'Hausa': ['Allahu', 'Allah', 'Ubangiji'],
-    'Hindi': ['अल्लाह', 'रब्ब', 'परवरदिगार'],
-    'Hungarian': [
-      'Allahnak', 'Allahtól', 'Allahot', 'Allah',
-      'Uram', 'Urunk', 'Uratok', 'Uruk', 'Úrnak', 'Úr',
-    ],
-    'Indonesian': ['Allahlah', 'Allah', 'Rabb', 'Tuhan'],
-    'Italian': ['Allāh', 'Allah'],
-    'Japanese': [
-      'アッラー', 'アッラーの', 'アッラーに', 'アッラーは', 'アッラーが', 'アッラーを', 'アッラーと',
-      '主',
-    ],
-    'Kannada': ['ಅಲ್ಲಾಹ', 'ಅಲ್ಲಾಹನ', 'ಒಡೆಯ', 'ಒಡೆಯನ', 'ಪ್ರಭು'],
-    'Khmer': ['អល់ឡោះ', 'ម្ចាស់'],
-    'Macedonian': [
-      'Аллаховото', 'Аллахови', 'Аллахова', 'Аллахово', 'Аллахов',
-      'Аллахот', 'Аллаха', 'Аллаху', 'Аллах',
-      'Господарот', 'Господаро', 'Господару', 'Господаров', 'Господа', 'Господ', 'Господар',
-    ],
-    'Malagasy': ['Tompo', 'Allah', 'Andriamanitra'],
-    'Malayalam': [
-      'അല്ലാഹുവിൻ്റെ', 'അല്ലാഹുവിന്റെ', 'അല്ലാഹുവിനെ',
-      'അല്ലാഹുവെ', 'അല്ലാഹുവിന്', 'അല്ലാഹു', 'റബ്ബ്',
-    ],
-    'Marathi': [
-      'पालनहर्त्याकडून', 'पालनहर्त्याकडे', 'पालनहर्त्याचा', 'पालनहर्त्याची',
-      'पालनहर्त्याचे', 'पालनहर्त्यास', 'पालनहर्त्या', 'पालनहर्ता',
-      'अल्लाहकडून', 'अल्लाहबद्दल', 'अल्लाहकडे', 'अल्लाहसाठी', 'अल्लाहच्या',
-      'अल्लाहचा', 'अल्लाहची', 'अल्लाहचे', 'अल्लाहने', 'अल्लाहला', 'अल्लाहवर', 'अल्लाहशी', 'अल्लाह',
-      'प्रभु', 'प्रभू',
-    ],
-    'Mossi': [
-      'Wẽnnaam', 'Allah', 'Alla', 'Wẽnd',
-      'M Dũnni', 'fo Dũnni', 'a Dũnni', 'tõnd Dũnni', 'yãmb Dũnni', 'b Dũnni',
-      'Dũnia', 'Dũnni', 'Naam',
-    ],
-    'Punjabi': [
-      'ਅੱਲਾਹ', 'ਅੱਲਾਹ ਦੀ', 'ਅੱਲਾਹ ਦਾ', 'ਅੱਲਾਹ ਦੇ', 'ਅੱਲਾਹ ਨੂੰ', 'ਅੱਲਾਹ ਤੋਂ',
-      'ਅੱਲਾਹ ਵੱਲ', 'ਅੱਲਾਹ ਉੱਤੇ', 'ਅੱਲਾਹ ਕੋਲ', 'ਅੱਲਾਹ ਲਈ', 'ਅੱਲਾਹ ਨਾਲ', 'ਅੱਲਾਹ ਬਾਰੇ',
-      'ਰੱਬ', 'ਰੱਬ ਵੱਲੋਂ', 'ਰੱਬ ਦਾ', 'ਰੱਬ ਦੀ', 'ਰੱਬ ਦੇ', 'ਰੱਬ ਨੂੰ', 'ਰੱਬ ਤੋਂ',
-    ],
-    'Romanian': ['Allah', 'Domnul', 'Domn'],
-    'Russian': ['Аллахом', 'Аллахе', 'Аллаху', 'Аллаха', 'Аллах', 'Господом', 'Господу', 'Господа', 'Господь'],
-    'Serbian': [
-      'Аллаховим', 'Аллахови', 'Аллахов', 'Аллаховом', 'Аллахових', 'Аллахову',
-      'Аллахово', 'Аллахове', 'Аллахова', 'Аллаху', 'Аллаха', 'Аллах',
-      'Господара', 'Господару', 'Алаха', 'Алаху', 'Алах', 'Господар',
-    ],
-    'Sinhala': ['අල්ලාහ්ගෙන්', 'අල්ලාහ්ගේ', 'අල්ලාහ්ට', 'අල්ලාහ්ද', 'අල්ලාහ්', 'රබ්'],
-    'Spanish': ['Al\u2011lah', 'Al-lah', 'Allāh', 'Allah', 'Señor'],
-    'Swahili': ['Allah', 'Mwenyezi Mungu', 'Bwana'],
-    'Swedish': [
-      'världarnas Herres', 'världarnas Herre', 'Herrens', 'Herren',
-      'Allahs', 'Herres', 'Allah', 'Herre',
-    ],
-    'Tamil': ['அல்லாஹ்வுக்கும்', 'அல்லாஹ்வுக்கு', 'அல்லாஹ்வின்', 'அல்லாஹ்வை', 'அல்லாஹை', 'அல்லாஹின்', 'அல்லாஹ்', 'ரப்'],
-    'Telugu': ['అల్లాహ్', 'రబ్బ్'],
-    'Thai': ['พระผู้อภิบาล', 'อัลลอฮ์'],
-    'Turkish': [
-      'Allah\u2019adır', 'Allah\u2019tır', 'Allah\u2019tan', 'Allah\u2019ım',
-      'Allah\u2019ın', 'Allah\u2019ı', 'Allah\u2019a',
-      "Allah'adır", "Allah'tır", "Allah'tan", "Allah'ım", "Allah'ın", "Allah'ı", "Allah'a",
-      'Allah',
-    ],
-    'Ukrainian': ['Господа світів', 'Господь', 'Господа', 'Господи', 'Аллахом', 'Аллаха', 'Аллах'],
-    'Vietnamese': ['Thượng Đế', 'Allah'],
-    'Portuguese': ['Allah', 'Senhor'],
-  };
-
-  List<TextSpan> _colorParensAndAllah(String text, TextStyle baseStyle) {
-    final words = (_allahWords[_language] ?? _allahWords['English']!).toList()
-      ..sort((a, b) {
-        final c = b.length.compareTo(a.length);
-        return c != 0 ? c : a.compareTo(b);
-      });
-
-    final patterns = <String>[];
-    for (final w in words) {
-      final escaped = RegExp.escape(w);
-      if (RegExp(r"^[a-zA-ZÀ-ÿçÇğĞıİöÖşŞüÜ'\u2018\u2019]+$").hasMatch(w)) {
-        patterns.add(
-            "(?<![a-zA-ZÀ-ÿçÇğĞıİöÖşŞüÜ])$escaped(?![a-zA-ZÀ-ÿçÇğĞıİöÖşŞüÜ])");
-      } else {
-        patterns.add(escaped);
-      }
-    }
-    final allahPattern = patterns.join('|');
-
-    return _styleRunWithAllahPattern(text, baseStyle, allahPattern);
-  }
-
-  List<TextSpan> _styleRunWithAllahPattern(
-        String text, TextStyle baseStyle, String allahPattern,
-        {int parenDepth = 0}) {
-      final cyanStyle = baseStyle.copyWith(color: Colors.cyanAccent);
-      final greenStyle = baseStyle.copyWith(color: Colors.greenAccent);
-      final purpleStyle = baseStyle.copyWith(color: const Color(0xFFCB93F5));
-      final amberStyle = baseStyle.copyWith(color: Colors.amber);
-      final quoteStyle = baseStyle.copyWith(color: const Color(0xFFFFB6C1));
-
-      final parenColor = parenDepth.isEven ? cyanStyle : greenStyle;
-
-      final quotePattern = r'"(?:[^"\\]|\\.)*"' r'|\u201c(?:[^\u201d])*\u201d';
-      // supports one level of nested parens: (...(...)...)
-      const parenPattern = r'\((?:[^()]|\([^()]*\))*\)';
-      // supports one level of nested curly braces: {...{...}...}
-      const curlyPattern = r'\{(?:[^{}]|\{[^{}]*\})*\}';
-
-      final combined = RegExp(
-        '($quotePattern)' // group 1: quotes
-        '|($parenPattern)' // group 2: parens (with 1 level of nesting)
-        '|($curlyPattern)' // group 3: curly braces (with 1 level of nesting)
-        '|(\\[[^\\]]*\\])' // group 4: brackets
-        '|(?:$allahPattern)', // Allah words (unnamed)
-      );
-
-      final result = <TextSpan>[];
-      int cursor = 0;
-      for (final m in combined.allMatches(text)) {
-        if (m.start > cursor) {
-          result.add(TextSpan(text: text.substring(cursor, m.start), style: baseStyle));
-        }
-        final matched = m.group(0)!;
-        if (m.group(1) != null) {
-          final inner = matched.substring(1, matched.length - 1);
-          result.add(TextSpan(text: matched[0], style: quoteStyle));
-          result.addAll(_styleRunWithAllahPattern(
-              inner, quoteStyle, allahPattern, parenDepth: parenDepth));
-          result.add(TextSpan(text: matched[matched.length - 1], style: quoteStyle));
-        } else if (m.group(2) != null) {
-          final inner = matched.substring(1, matched.length - 1);
-          result.add(TextSpan(text: '(', style: parenColor));
-          result.addAll(_styleRunWithAllahPattern(
-              inner, parenColor, allahPattern, parenDepth: parenDepth + 1));
-          result.add(TextSpan(text: ')', style: parenColor));
-        } else if (m.group(3) != null) {
-          final inner = matched.substring(1, matched.length - 1);
-          result.add(TextSpan(text: '{', style: parenColor));
-          result.addAll(_styleRunWithAllahPattern(
-              inner, parenColor, allahPattern, parenDepth: parenDepth + 1));
-          result.add(TextSpan(text: '}', style: parenColor));
-        } else if (m.group(4) != null) {
-          final inner = matched.substring(1, matched.length - 1);
-          result.add(TextSpan(text: '[', style: amberStyle));
-          result.addAll(_styleRunWithAllahPattern(
-              inner, amberStyle, allahPattern, parenDepth: parenDepth));
-          result.add(TextSpan(text: ']', style: amberStyle));
-        } else {
-          result.add(TextSpan(text: matched, style: purpleStyle));
-        }
-        cursor = m.end;
-      }
-      if (cursor < text.length) {
-        result.add(TextSpan(text: text.substring(cursor), style: baseStyle));
-      }
-      return result;
-    }
-
     List<TextSpan> _highlightTerms(List<TextSpan> spans, List<String> terms, {String? phrase}) {
       final String patternSource;
       if (phrase != null && phrase.trim().isNotEmpty) {
@@ -1029,7 +802,7 @@ class _HadeethPanelState extends State<HadeethPanel> {
                         Text.rich(
                           TextSpan(
                             children: _highlightTerms(
-                              _colorParensAndAllah(
+                              AllahHighlighter.spans(
                                 entry.title,
                                 TextStyle(
                                   color: Colors.white,
@@ -1037,6 +810,9 @@ class _HadeethPanelState extends State<HadeethPanel> {
                                   fontWeight: FontWeight.w500,
                                   height: 1.4,
                                 ),
+                                language: _language,
+                                includeCurlyBraces: true,
+                                includePronouns: false,
                               ),
                               _searchTerms,
                               phrase: _searchPhrase,
@@ -1195,13 +971,15 @@ class _HadeethPanelState extends State<HadeethPanel> {
                           child: SelectableText.rich(
                             TextSpan(
                               children: _highlightTerms(
-                                _colorParensAndAllah(
+                                AllahHighlighter.spans(
                                   h,
                                   TextStyle(
-                                    // color: Colors.greenAccent,
                                     fontSize: _hadeethFontSize,
                                     height: 1.5,
                                   ),
+                                  language: _language,
+                                  includeCurlyBraces: true,
+                                  includePronouns: false,
                                 ),
                                 _searchTerms,
                                 phrase: _searchPhrase,
@@ -1252,7 +1030,13 @@ class _HadeethPanelState extends State<HadeethPanel> {
   }) {
     final baseStyle = TextStyle(color: textColor, fontSize: _hadeethFontSize, height: 1.6);
     final spans = _highlightTerms(
-      _colorParensAndAllah(text, baseStyle),
+      AllahHighlighter.spans(
+        text,
+        baseStyle,
+        language: _language,
+        includeCurlyBraces: true,
+        includePronouns: false,
+      ),
       _searchTerms,
       phrase: _searchPhrase,
     );
