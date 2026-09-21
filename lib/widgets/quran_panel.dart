@@ -213,6 +213,7 @@ class _QuranPanelState extends State<QuranPanel> {
   QuranWordAudioIndex? _wordAudioIndex;
   bool _wordAudioIndexLoading = false;
   static double _tafsirFontSize = 14.0;
+  static const double _headerFontSize = 14.0;
   static String _variousLanguage = variousTranslationLanguages.first;
   static String _mokhtasarLanguage = 'English';
   static QuranVerseRef? _lastTafsirRef;
@@ -368,6 +369,14 @@ class _QuranPanelState extends State<QuranPanel> {
     final prefs = await SharedPreferences.getInstance();
     await prefs.setDouble('tafsir_font_size', _tafsirFontSize);
   }
+
+  bool _isDayPlanHeader(String topic) =>
+      topic.startsWith('14Day ') ||
+      topic.startsWith('10Day ') ||
+      topic.startsWith('7Day ') ||
+      topic == '14Day' ||
+      topic == '10Day' ||
+      topic == '7Day';
 
   Widget _buildCompletionCheckbox(String topic) {
     final parsed = _parseJuzHizbRubTopic(topic);
@@ -2212,24 +2221,6 @@ class _QuranPanelState extends State<QuranPanel> {
     return out;
   }
 
-  List<TextSpan> _colorParens(String text, TextStyle baseStyle) {
-    final cyanStyle = baseStyle.copyWith(color: Colors.cyanAccent);
-    final pattern = RegExp(r'\([^)]*\)');
-    final result = <TextSpan>[];
-    int cursor = 0;
-    for (final m in pattern.allMatches(text)) {
-      if (m.start > cursor) {
-        result.add(TextSpan(text: text.substring(cursor, m.start), style: baseStyle));
-      }
-      result.add(TextSpan(text: text.substring(m.start, m.end), style: cyanStyle));
-      cursor = m.end;
-    }
-    if (cursor < text.length) {
-      result.add(TextSpan(text: text.substring(cursor), style: baseStyle));
-    }
-    return result;
-  }
-
   List<TextSpan> _styledTopicSpans(String topic, TextStyle style, [int globalIndex = -1]) {
     if (topic.contains('{{{')) {
       return _quizStyledSpans(topic, style, globalIndex);
@@ -2350,8 +2341,6 @@ class _QuranPanelState extends State<QuranPanel> {
   @override
   Widget build(BuildContext context) {
     final filtered = _filtered;
-    final double currentFontSize = _tafsirFontSize;
-    final double quranIndexFontSize = _tafsirFontSize;
 
     return Focus(
       autofocus: false,
@@ -2972,7 +2961,7 @@ class _QuranPanelState extends State<QuranPanel> {
                                                       entry.topic,
                                                       TextStyle(
                                                         color: hasActiveRef ? Colors.purple[200] : Colors.white70,
-                                                        fontSize: _tafsirFontSize,
+                                                        fontSize: _headerFontSize,
                                                         fontWeight: hasActiveRef ? FontWeight.bold : FontWeight.normal,
                                                       ),
                                                       globalIndex,
@@ -3014,7 +3003,10 @@ class _QuranPanelState extends State<QuranPanel> {
                                                               : entry.isSubtopic
                                                                   ? Colors.white70
                                                                   : Colors.white,
-                                                          fontSize: entry.isSubtopic ? 13 : 14,
+                                                          fontSize: (_categoryForHeaderTopic(entry.topic) != null ||
+                                                                  _isDayPlanHeader(entry.topic))
+                                                              ? _headerFontSize
+                                                              : (entry.isSubtopic ? _tafsirFontSize - 1 : _tafsirFontSize),
                                                           fontWeight: hasActiveRef
                                                               ? FontWeight.bold
                                                               : entry.isSubtopic

@@ -12,7 +12,7 @@ class AllahHighlighter {
     'Muhammad صلى الله عليه وسلم',
     'Messenger صلى الله عليه وسلم',
     'Prophet Muhammad (ﷺ)',
-    'Prophet Muhammad’s',
+    "Prophet Muhammad’s",
     'Prophet Muhammad ﷺ',
     'Messenger Muhammad',
     'Prophet Muhammad',

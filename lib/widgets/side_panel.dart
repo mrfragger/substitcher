@@ -545,8 +545,8 @@ class SidePanel extends StatelessWidget {
                       context, 'Quran', PanelMode.quran, quranEntries.length),
                   _buildTabButton(
                       context, 'List', PanelMode.quranList, QuranVocabLoader.cachedLemmaCount),
-                  _buildTabButton(context, '⌘Quiz', PanelMode.quiz, 150),
-                  _buildTabButton(context, '⌘Related', PanelMode.related, 150),
+                  _buildTabButton(context, '⌘Quiz', PanelMode.quiz, 151),
+                  _buildTabButton(context, '⌘Related', PanelMode.related, 151),
                   _buildTabButton(context, 'Alif', PanelMode.alif, alifAlphabet.length),
                   _buildTabButton(
                       context, 'LUTs', PanelMode.luts, availableLuts.length),

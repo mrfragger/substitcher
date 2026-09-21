@@ -1,0 +1,249 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "الْعَنَاصِرُ الْأَرْبَعَةُ فِي الْقُرْآنِ",
+        "nameEn": "The Four Classical Elements in the Quran",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "الْمَاءَ",
+            "en": "the water",
+            "ref": "80:25",
+            "verse": "اَنَّا صَبَبْنَا ٱلْمَآءَ صَبًّۭا",
+            "verseEn": "How We poured down water in torrents,"
+          },
+          {
+            "ar": "نَارًا",
+            "en": "(from) a Fire",
+            "ref": "66:6",
+            "verse": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ قُوٓا۟ أَنفُسَكُمْ وَأَهْلِيكُمْ نَارًۭا وَقُودُهَا ٱلنَّاسُ وَٱلْحِجَارَةُ عَلَيْهَا مَلَـٰٓئِكَةٌ غِلَاظٌۭ شِدَادٌۭ لَّا يَعْصُونَ ٱللَّهَ مَآ أَمَرَهُمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ",
+            "verseEn": "O you who have believed, protect yourselves and your families from a Fire whose fuel is people and stones, over which are [appointed] angels, harsh and severe; they do not disobey Allāh in what He commands them but do what they are commanded."
+          },
+          {
+            "ar": "الْأَرْضِ",
+            "en": "and the earth",
+            "ref": "7:158",
+            "verse": "قُلْ يَـٰٓأَيُّهَا ٱلنَّاسُ إِنِّى رَسُولُ ٱللَّهِ إِلَيْكُمْ جَمِيعًا ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ لَآ إِلَـٰهَ إِلَّا هُوَ يُحْىِۦ وَيُمِيتُ ۖ فَـَٔامِنُوا۟ بِٱللَّهِ وَرَسُولِهِ ٱلنَّبِىِّ ٱلْأُمِّىِّ ٱلَّذِى يُؤْمِنُ بِٱللَّهِ وَكَلِمَـٰتِهِۦ وَٱتَّبِعُوهُ لَعَلَّكُمْ تَهْتَدُونَ",
+            "verseEn": "Say, [O Muḥammad], \"O mankind, indeed I am the Messenger of Allāh to you all, [from Him] to whom belongs the dominion of the heavens and the earth. There is no deity except Him; He gives life and causes death.\" So believe in Allāh and His Messenger, the unlettered prophet, who believes in Allāh and His words, and follow him that you may be guided."
+          },
+          {
+            "ar": "الرِّيَاحُ",
+            "en": "(by) the winds",
+            "ref": "18:45",
+            "verse": "وَٱضْرِبْ لَهُم مَّثَلَ ٱلْحَيَوٰةِ ٱلدُّنْيَا كَمَآءٍ أَنزَلْنَـٰهُ مِنَ ٱلسَّمَآءِ فَٱخْتَلَطَ بِهِۦ نَبَاتُ ٱلْأَرْضِ فَأَصْبَحَ هَشِيمًۭا تَذْرُوهُ ٱلرِّيَـٰحُ ۗ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ مُّقْتَدِرًا",
+            "verseEn": "And present to them the example of the life of this world, [its being] like rain which We send down from the sky, and the vegetation of the earth mingles with it and [then] it becomes dry remnants, scattered by the winds. And Allāh is ever, over all things, Perfect in Ability."
+          }
+        ]
+      },
+      {
+        "name": "أَلْفَاظُ الْهُدَى وَالْحِكْمَةِ",
+        "nameEn": "Quranic Terms for Guidance and Wisdom",
+        "color": "green",
+        "items": [
+          {
+            "ar": "صِرَاطًا",
+            "en": "(to) a Path",
+            "ref": "48:2",
+            "verse": "لِّيَغْفِرَ لَكَ ٱللَّهُ مَا تَقَدَّمَ مِن ذَنۢبِكَ وَمَا تَأَخَّرَ وَيُتِمَّ نِعْمَتَهُۥ عَلَيْكَ وَيَهْدِيَكَ صِرَٰطًۭا مُّسْتَقِيمًۭا",
+            "verseEn": "That Allāh may forgive for you what preceded of your sin [i.e., errors] and what will follow and complete His favor upon you and guide you to a straight path"
+          },
+          {
+            "ar": "السَّبِيلَ",
+            "en": "the way",
+            "ref": "80:20",
+            "verse": "ثُمَّ ٱلسَّبِيلَ يَسَّرَهُۥ",
+            "verseEn": "Then He eased the way for him;"
+          },
+          {
+            "ar": "الْهُدَى",
+            "en": "the (true) guidance",
+            "ref": "3:73",
+            "verse": "وَلَا تُؤْمِنُوٓا۟ إِلَّا لِمَن تَبِعَ دِينَكُمْ قُلْ إِنَّ ٱلْهُدَىٰ هُدَى ٱللَّهِ أَن يُؤْتَىٰٓ أَحَدٌۭ مِّثْلَ مَآ أُوتِيتُمْ أَوْ يُحَآجُّوكُمْ عِندَ رَبِّكُمْ ۗ قُلْ إِنَّ ٱلْفَضْلَ بِيَدِ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۗ وَٱللَّهُ وَٰسِعٌ عَلِيمٌۭ",
+            "verseEn": "And do not trust except those who follow your religion.\" Say, \"Indeed, the [true] guidance is the guidance of Allāh. [Do you fear] lest someone be given [knowledge] like you were given or that they would [thereby] argue with you before your Lord?\" Say, \"Indeed, [all] bounty is in the hand of Allāh - He grants it to whom He wills. And Allāh is all-Encompassing and Wise.\""
+          },
+          {
+            "ar": "الْحِكْمَةَ",
+            "en": "and the wisdom",
+            "ref": "62:2",
+            "verse": "هُوَ ٱلَّذِى بَعَثَ فِى ٱلْأُمِّيِّـۧنَ رَسُولًۭا مِّنْهُمْ يَتْلُوا۟ عَلَيْهِمْ ءَايَـٰتِهِۦ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ ٱلْكِتَـٰبَ وَٱلْحِكْمَةَ وَإِن كَانُوا۟ مِن قَبْلُ لَفِى ضَلَـٰلٍۢ مُّبِينٍۢ",
+            "verseEn": "It is He who has sent among the unlettered [Arabs] a Messenger from themselves reciting to them His verses and purifying them and teaching them the Book [i.e., the Qur’ān] and wisdom [i.e., the sunnah] - although they were before in clear error -"
+          }
+        ]
+      },
+      {
+        "name": "أَلْفَاظُ السَّفَرِ وَالتَّنَقُّلِ فِي الْقُرْآنِ",
+        "nameEn": "Quranic Expressions for Travel and Journeying",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "هَاجَرُوا",
+            "en": "emigrated",
+            "ref": "16:41",
+            "verse": "وَٱلَّذِينَ هَاجَرُوا۟ فِى ٱللَّهِ مِنۢ بَعْدِ مَا ظُلِمُوا۟ لَنُبَوِّئَنَّهُمْ فِى ٱلدُّنْيَا حَسَنَةًۭ ۖ وَلَأَجْرُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+            "verseEn": "And those who emigrated for [the cause of] Allāh after they had been wronged - We will surely settle them in this world in a good place; but the reward of the Hereafter is greater, if only they could know."
+          },
+          {
+            "ar": "سِيرُوا",
+            "en": "Travel",
+            "ref": "6:11",
+            "verse": "قُلْ سِيرُوا۟ فِى ٱلْأَرْضِ ثُمَّ ٱنظُرُوا۟ كَيْفَ كَانَ عَـٰقِبَةُ ٱلْمُكَذِّبِينَ",
+            "verseEn": "Say, \"Travel through the land; then observe how was the end of the deniers.\""
+          },
+          {
+            "ar": "ضَرْبًا",
+            "en": "(to) move about",
+            "ref": "2:273",
+            "verse": "لِلْفُقَرَآءِ ٱلَّذِينَ أُحْصِرُوا۟ فِى سَبِيلِ ٱللَّهِ لَا يَسْتَطِيعُونَ ضَرْبًۭا فِى ٱلْأَرْضِ يَحْسَبُهُمُ ٱلْجَاهِلُ أَغْنِيَآءَ مِنَ ٱلتَّعَفُّفِ تَعْرِفُهُم بِسِيمَـٰهُمْ لَا يَسْـَٔلُونَ ٱلنَّاسَ إِلْحَافًۭا ۗ وَمَا تُنفِقُوا۟ مِنْ خَيْرٍۢ فَإِنَّ ٱللَّهَ بِهِۦ عَلِيمٌ",
+            "verseEn": "[Charity is] for the poor who have been restricted for the cause of Allāh, unable to move about in the land. An ignorant [person] would think them self-sufficient because of their restraint, but you will know them by their [characteristic] sign. They do not ask people persistently [or at all]. And whatever you spend of good - indeed, Allāh is Knowing of it."
+          },
+          {
+            "ar": "تَرْكَبُونَ",
+            "en": "you ride",
+            "ref": "43:12",
+            "verse": "وَٱلَّذِى خَلَقَ ٱلْأَزْوَٰجَ كُلَّهَا وَجَعَلَ لَكُم مِّنَ ٱلْفُلْكِ وَٱلْأَنْعَـٰمِ مَا تَرْكَبُونَ",
+            "verseEn": "And who created the species, all of them, and has made for you of ships and animals those which you mount"
+          }
+        ]
+      },
+      {
+        "name": "كَلِمَاتٌ فَرِيدَةٌ فِي سُورَةِ اللَّيْلِ",
+        "nameEn": "Unique Words in Surah Al-Lail",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "الْيُسْرَىٰ",
+            "en": "towards [the] ease",
+            "ref": "92:7",
+            "verse": "فَسَنُيَسِّرُهُۥ لِلْيُسْرَىٰ",
+            "verseEn": "We will ease him toward ease."
+          },
+          {
+            "ar": "الْعُسْرَىٰ",
+            "en": "towards [the] difficulty",
+            "ref": "92:10",
+            "verse": "فَسَنُيَسِّرُهُۥ لِلْعُسْرَىٰ",
+            "verseEn": "We will ease him toward difficulty."
+          },
+          {
+            "ar": "تَلَظَّىٰ",
+            "en": "blazing",
+            "ref": "92:14",
+            "verse": "فَأَنذَرْتُكُمْ نَارًۭا تَلَظَّىٰ",
+            "verseEn": "So I have warned you of a Fire which is blazing."
+          },
+          {
+            "ar": "يَتَزَكَّىٰ",
+            "en": "(to) purify himself",
+            "ref": "92:18",
+            "verse": "ٱلَّذِى يُؤْتِى مَالَهُۥ يَتَزَكَّىٰ",
+            "verseEn": "[He] who gives [from] his wealth to purify himself"
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "نذير",
+    "display": "نَذِيرٌ",
+    "hint": "One sent to caution people against punishment",
+    "verseRef": "67:9",
+    "arabicVerse": "قَالُوا۟ بَلَىٰ قَدْ جَآءَنَا نَذِيرٌۭ فَكَذَّبْنَا وَقُلْنَا مَا نَزَّلَ ٱللَّهُ مِن شَىْءٍ إِنْ أَنتُمْ إِلَّا فِى ضَلَـٰلٍۢ كَبِيرٍۢ",
+    "verse": "67:9 - They will say, \"Yes, a warner had come to us, but we denied and said, 'Allāh has not sent down anything. You are not but in great error.'\""
+  },
+  "deduction": {
+    "title": "The Cry From The Deep",
+    "intro": "A servant of the Most Merciful grew weary of a stubborn nation and departed before permission was granted. This individual ended up in a place where no human had ever been, where the call to the Divine echoes strangely through layers of darkness. Emerging weakened but transformed, this soul became a timeless lesson in patience, sincere repentance, and the boundless mercy of the Creator. Can you unravel the mystery?",
+    "clues": [
+      "I was sent as a messenger to my people, but they exceeded all bounds in their disbelief and refused to listen.",
+      "I grew angry at their rejection and fled from my people before Allah's command came.",
+      "I boarded a ship loaded beyond capacity, and we drew lots to determine who would be cast overboard.",
+      "I was thrown into the raging sea and swallowed by a great fish.",
+      "Trapped in three layers of darkness — the belly, the deep sea, and the earth below — I called out to my Lord in sincere repentance.",
+      "I emerged from the fish onto the open shore, weak and weary, and a gourd plant grew over me. My people, a hundred thousand or more, finally believed."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Prophet Yunus",
+          "Prophet Ayyub",
+          "Prophet Yusuf",
+          "Prophet Musa",
+          "Prophet Sulaiman"
+        ],
+        "answer": "Prophet Yunus"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "Swallowed by a great fish",
+          "Thrown into a blazing fire",
+          "Trapped at the bottom of a well",
+          "Overwhelmed by a great flood",
+          "Imprisoned unjustly by a king"
+        ],
+        "answer": "Swallowed by a great fish"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "The belly of a great fish",
+          "The sacred valley near the Kaaba",
+          "An ark resting on a mountain",
+          "A staff that turned into a serpent",
+          "A throne of unmatched grandeur"
+        ],
+        "answer": "The belly of a great fish"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "His people, a hundred thousand or more, believed",
+          "Raised alive to the heavens",
+          "Became ruler of an unrivaled kingdom",
+          "Destroyed by a piercing cry from the sky",
+          "Overturned by a devastating earthquake"
+        ],
+        "answer": "His people, a hundred thousand or more, believed"
+      }
+    },
+    "verseRef": "37:147",
+    "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+    "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+  },
+  "scramble": {
+    "verseRef": "67:19",
+    "reference": "Surah Al-Mulk (67:19)",
+    "segments": [
+      "Wa qul rabbi",
+      "a'udhu bika",
+      "min hamazati",
+      "al-shayateeni",
+      "wa a'udhu",
+      "bika rabbi",
+      "an yahduron"
+    ],
+    "translations": [
+      "Do not they see [to]",
+      "the birds above them",
+      "spreading (their wings) and folding",
+      "Not holds them",
+      "except the Most Gracious",
+      "Indeed, He (is) of every",
+      "thing All-Seer"
+    ],
+    "hint": "A powerful dua asking Allah for protection against the whisperings of the devils (Shaytan). Part of the closing verses of Surah Al-Mulk, commonly recited before sleep.",
+    "arabic": "أَوَلَمْ يَرَوْا۟ إِلَى ٱلطَّيْرِ فَوْقَهُمْ صَـٰٓفَّـٰتٍۢ وَيَقْبِضْنَ ۚ مَا يُمْسِكُهُنَّ إِلَّا ٱلرَّحْمَـٰنُ ۚ إِنَّهُۥ بِكُلِّ شَىْءٍۭ بَصِيرٌ",
+    "words": [
+      "أَوَلَمْ يَرَوْا۟ إِلَى",
+      "ٱلطَّيْرِ فَوْقَهُمْ",
+      "صَـٰٓفَّـٰتٍۢ وَيَقْبِضْنَ ۚ",
+      "مَا يُمْسِكُهُنَّ",
+      "إِلَّا ٱلرَّحْمَـٰنُ ۚ",
+      "إِنَّهُۥ بِكُلِّ",
+      "شَىْءٍۭ بَصِيرٌ"
+    ],
+    "verseEn": "Do they not see the birds above them with wings outspread and [sometimes] folded in? None holds them [aloft] except the Most Merciful. Indeed He is, of all things, Seeing."
+  }
+}
