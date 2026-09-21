@@ -57,11 +57,11 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 │   ├── Mount Hills.otf (Ergibi Studio)
 │   └── Sorean.otf (Grezline Studio)
 ├── ligatures177 
-│   ├── Creating Families demo.otf (177Studio)
-│   ├── Reminder According demo.otf (177Studio)
-│   ├── Roommate Surrealism demo.otf (177Studio)
-│   ├── Salvador Abstract demo.otf (177Studio)
-│   └── Traditional Civilization demo.otf (177Studio)
+│   ├── Creating Families demo.otf
+│   ├── Reminder According demo.otf
+│   ├── Roommate Surrealism demo.otf
+│   ├── Salvador Abstract demo.otf
+│   └── Traditional Civilization demo.otf
 ├── ligaturesVarious123
 │   ├── Axaria.ttf (Letterara Studio)
 │   ├── Carevo.ttf (Letterara Studio)
@@ -69,11 +69,11 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 │   ├── Sophia Melanie.otf (Grezline Studio)
 │   └── Zentaro.ttf (Letterara Studio)
 ├── missingligatures177
-│   ├── Abstract Settings demo.otf (177Studio)
-│   ├── Coastline Classical demo.otf (177Studio)
-│   ├── Creates Presence demo.otf (177Studio)
-│   ├── Engaging Realities demo.otf (177Studio)
-│   └── Titanium Galleries demo.otf (177Studio)
+│   ├── Abstract Settings demo.otf
+│   ├── Coastline Classical demo.otf
+│   ├── Creates Presence demo.otf
+│   ├── Engaging Realities demo.otf
+│   └── Titanium Galleries demo.otf
 ├── mustBeUppercase
 │   ├── Caroline Everett.otf (Grezline Studio)
 │   ├── Children Interests demo.otf (177Studio)
