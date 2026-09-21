@@ -2693,105 +2693,105 @@ Rub (1/8)
 - Rub 240 100:9-11; 101:1-11; 102:1-8; 103:1-3; 104:1-9; 105:1-5; 106:1-4; 107:1-7; 108:1-3; 109:1-6; 110:1-3; 111:1-5; 112:1-4; 113:1-5; 114:1-6
 The 99 Names of Allah
 - #0 Best of Names 7:180; 17:110; 20:8; 59:22-24
-- #1 Ar Rahmaan 	Mai jin kan muminai da kafirai a duniya 1:3; 17:110
-- #2 Ar Raheem 	Mai jin kan muminai kadai a lahira 2:163; 3:31; 4:100; 5:3
-- #3 Al Malik 	Mamallaki 20:114; 23:116; 59:23; 62:1
-- #4 Al Quddus 	Tsarkakken sarki 59:23; 62:1
-- #5 As Salaam 	Mai amintarwa 59:23
-- #6 Al Mu'min 	Amintaccen sarki 59:23
-- #7 Al Muhaymin 	Mai shaida aikin bayi 59:23
-- #8 Al Azeez 	Mabuwayi 3:6; 4:158; 9:40; 48:7
-- #9 Al Jabbaar 	Mai gyara bayinsa 59:23
-- #10 Al Mutakabbir 	Mai girman girma 59:23
-- #11 Al Khaaliq 	Mahaliccin halitta 6:102; 13:16; 39:62; 40:62; 59:24
-- #12 Al Baari 	Mahalicci 59:24
-- #13 Al Musawwir 	Mai suranta mahaifa 59:24
-- #14 Al Ghaffaar 	Mai gafara 20:82; 38:66; 39:5; 40:42; 71:10
-- #15 Al Qahhaar 	Mai rinjaye 13:16; 14:48; 38:65; 39:4; 40:16
-- #16 Al Wahhaab 	Mai kyauta 3:8; 38:9; 38:35
-- #17 Ar Razzaaq 	Mai azurtawa 51:58
-- #18 Al Fattaah 	Mai budawa bayi 34:26
-- #19 Al 'Aleem 	Masani 2:158; 3:92; 4:35; 24:41; 33:40
-- #20 Al Qaabid 	Mai damkewa 2:245
-- #21 Al Baasit   Mai shimfida arziki  2:245
-- #22 Al Khaafid  Mai sunkuyarwa 95:5
-- #23 Ar Raafi'   Mai daukakawa 58:11; 6:83
-- #24 Al Mu'izz   Mabuwayin sarki  3:26
-- #25 Al Mudhil   Mai kaskantarwa  3:26
-- #26 As Samee'   Mai ji 2:127; 2:256; 8:17; 49:1
-- #27 Al Baseer   Mai gani  4:58; 17:1; 42:11; 42:27
-- #28 Al Hakam    Mai hukunci 22:69
-- #29 Al Adl      Mai adalci  6:115
-- #30 Al Lateef   Mai tausasawa 6:103; 22:63; 31:16; 33:34
-- #31 Al Khabeer  Masanin halittarsa 6:18; 17:30; 49:13; 59:18
-- #32 Al Haleem   Mai juriya  2:235; 17:44; 22:59; 35:41
-- #33 Al 'Azeem   Mai girman daraja 2:255; 42:4; 56:96
-- #34 Al Ghafoor  Mai gafartawa bayinsa  2:173; 8:69; 16:110; 41:32
-- #35 Ash Shakoor Sarki abin godewa  35:30; 35:34; 42:23; 64:17
-- #36 Al Aliyy    Madaukaki 4:34; 31:30; 42:4; 42:51
-- #37 Al Kabeer   Mai girman lamari  13:9; 22:62; 31:30
-- #38 Al Hafeez   Mai kiyayewa 11:57; 34:21; 42:6
-- #39 Al Muqeet   Mai ciyarwa 4:85
-- #40 Al Haseeb   Mai iyakancewa  4:6; 4:86; 33:39
-- #41 Al Jaleel   Mai girman girma  55:27; 39:14; 7:143
-- #42 Al Kareem   Mai madaukakin girma  27:40; 82:6
-- #43 Ar Raqeeb   Mai tsinkayarwa  4:1; 5:117
-- #44 Al Mujeeb   Mai amsawa 11:61
-- #45 Al Waasi'   Mai yalwatawa 2:268; 3:73; 5:54
-- #46 Al Hakeem   Mai hikima  31:27; 46:2; 57:1; 66:2
-- #47 Al Wudood   Masoyi 11:90; 85:14
-- #48 Al Majeed   Mai cikakkiyar siffa  11:73
-- #49 Al Baa'ith  Mai aiko Manzanni 22:7
-- #50 Ash Shaheed Mai shaida komai 4:166; 22:17; 41:53; 48:28
-- #51 Al Haqq     Matabbacin gaskiya 6:62; 22:6; 23:116; 24:25
-- #52 Al Wakeel   Mai isarwa 3:173; 4:171; 28:28; 73:9
-- #53 Al Qawiyy   Matabbaci  22:40; 22:74; 42:19; 57:25
-- #54 Al Mateen   Mai karfi 51:58
-- #55 Al Waliyy   Mai jibintarwa 4:45; 7:196; 42:28; 45:19
-- #56 Al Hameed   Macancancin yabo 14:8; 31:12; 31:26; 41:42
-- #57 Al Muhsi    Mai iyakancewa 72:28; 78:29; 82:10-12
-- #58 Al Mubdi    Mai bayyanawa 10:34; 27:64; 29:19; 85:13
-- #59 Al Mu'eed   Mai komarwa  10:34; 27:64; 29:19; 85:13
-- #60 Al Muhiy    Mai rayawa 7:158; 15:23; 30:50; 57:2
-- #61 Al Mumeet   Mai kashewa  3:156; 7:158; 15:23; 57:2
-- #62 Al Haiyy    Rayayyen Sarki 2:255; 3:2; 25:58; 40:65
-- #63 Al Qayyoom  Madawwami 2:255; 3:2; 20:111
-- #64 Al Waajid   Mai bayarwa 38:44
-- #65 Al Maajid   Mai daukakawa 11:73
-- #66 Al Waahid   Makadaici 2:163; 5:73; 9:31; 18:110
-- #67 Al Ahad     Makadaici  112:1
-- #68 As Samad    Abin nufi da bukata  112:2
-- #69 Al Qaadir   Mai iko  6:65; 36:81; 46:33; 75:40
-- #70 Al Muqtadir Mai iko da komai  18:45; 54:42; 54:55
-- #71 Al Muqaddim Mai gabatarwa 16:61; 17:34
-- #72 Al Mu’akhir Mai jinkirtawa  71:4
-- #73 Al Awwal    Na farko 57:3
-- #74 Al Aakhir   Marashin karshe 57:3
-- #75 Az Zaahir   Mabayyani  57:3
-- #76 Al Baatin   Boyayye 57:3
-- #77 Al Waali    Majibincin lamari  13:11; 22:7
-- #78 Al Muta’ali Madaukaki 13:9
-- #79 Al Barr     Mai kyautatawa 52:28
-- #80 At Tawwaab  Mai karbar tuba 2:128; 4:64; 49:12; 110:3
-- #81 Al Muntaqim Mai ukuba 32:22; 43:41; 44:16
-- #82 Al Afuww    Mai rangame 4:99; 4:149; 22:60
-- #83 Ar Ra’oof   Mai tausasawa 3:30; 9:117; 57:9; 59:10
-- #84 Maalik Ul Mulk  Mamallakin mulki 3:26
-- #85 Dhu Al Jalaali Wa Al Ikraam,  Ma'abocin girma da girmame-girmame 55:27; 55:78
-- #86 Al Muqsit   Mai adalci 3:18; 7:29
-- #87 Al Jaami'   Mai tara kowa  3:9
-- #88 Al Ghaniyy  Mawadaci 3:97; 39:7; 47:38; 57:24
-- #89 Al Mughni   Mai wadatarwa  9:28
-- #90 Al Maani'   Mai hanawa 67:21
-- #91 Ad Daaarr   Mai cutar da mai cutarwa 6:17
-- #92 An Naafi’   Mai amfanarwa  30:37
-- #93 An Noor     Mai haskakawa 24:35
-- #94 Al Haadi    Mai shiryawa 25:31
-- #95 Al Badi'    Makagi  2:117; 6:101
-- #96 Al Baaqi    Wanzajje 55:27
-- #97 Al Waarith  Magaaji 15:23
-- #98 Ar Rasheed  Mai shiryawa 2:256
-- #99 As Saboor   Mai hakuri 2:153; 3:200; 103:3
+- #1 Ar Rahmaan (Mai jin kan muminai da kafirai a duniya) 1:3; 17:110
+- #2 Ar Raheem (Mai jin kan muminai kadai a lahira) 2:163; 3:31; 4:100; 5:3
+- #3 Al Malik (Mamallaki) 20:114; 23:116; 59:23; 62:1
+- #4 Al Quddus (Tsarkakken sarki) 59:23; 62:1
+- #5 As Salaam (Mai amintarwa) 59:23
+- #6 Al Mu'min (Amintaccen sarki) 59:23
+- #7 Al Muhaymin (Mai shaida aikin bayi) 59:23
+- #8 Al Azeez (Mabuwayi) 3:6; 4:158; 9:40; 48:7
+- #9 Al Jabbaar (Mai gyara bayinsa) 59:23
+- #10 Al Mutakabbir (Mai girman girma) 59:23
+- #11 Al Khaaliq (Mahaliccin halitta) 6:102; 13:16; 39:62; 40:62; 59:24
+- #12 Al Baari (Mahalicci) 59:24
+- #13 Al Musawwir (Mai suranta mahaifa) 59:24
+- #14 Al Ghaffaar (Mai gafara) 20:82; 38:66; 39:5; 40:42; 71:10
+- #15 Al Qahhaar (Mai rinjaye) 13:16; 14:48; 38:65; 39:4; 40:16
+- #16 Al Wahhaab (Mai kyauta) 3:8; 38:9; 38:35
+- #17 Ar Razzaaq (Mai azurtawa) 51:58
+- #18 Al Fattaah (Mai budawa bayi) 34:26
+- #19 Al 'Aleem (Masani) 2:158; 3:92; 4:35; 24:41; 33:40
+- #20 Al Qaabid (Mai damkewa) 2:245
+- #21 Al Baasit (Mai shimfida arziki) 2:245
+- #22 Al Khaafid (Mai sunkuyarwa) 95:5
+- #23 Ar Raafi' (Mai daukakawa) 58:11; 6:83
+- #24 Al Mu'izz (Mabuwayin sarki) 3:26
+- #25 Al Mudhil (Mai kaskantarwa) 3:26
+- #26 As Samee' (Mai ji) 2:127; 2:256; 8:17; 49:1
+- #27 Al Baseer (Mai gani) 4:58; 17:1; 42:11; 42:27
+- #28 Al Hakam (Mai hukunci) 22:69
+- #29 Al Adl (Mai adalci) 6:115
+- #30 Al Lateef (Mai tausasawa) 6:103; 22:63; 31:16; 33:34
+- #31 Al Khabeer (Masanin halittarsa) 6:18; 17:30; 49:13; 59:18
+- #32 Al Haleem (Mai juriya) 2:235; 17:44; 22:59; 35:41
+- #33 Al 'Azeem (Mai girman daraja) 2:255; 42:4; 56:96
+- #34 Al Ghafoor (Mai gafartawa bayinsa) 2:173; 8:69; 16:110; 41:32
+- #35 Ash Shakoor (Sarki abin godewa) 35:30; 35:34; 42:23; 64:17
+- #36 Al Aliyy (Madaukaki) 4:34; 31:30; 42:4; 42:51
+- #37 Al Kabeer (Mai girman lamari) 13:9; 22:62; 31:30
+- #38 Al Hafeez (Mai kiyayewa) 11:57; 34:21; 42:6
+- #39 Al Muqeet (Mai ciyarwa) 4:85
+- #40 Al Haseeb (Mai iyakancewa) 4:6; 4:86; 33:39
+- #41 Al Jaleel (Mai girman girma) 55:27; 39:14; 7:143
+- #42 Al Kareem (Mai madaukakin girma) 27:40; 82:6
+- #43 Ar Raqeeb (Mai tsinkayarwa) 4:1; 5:117
+- #44 Al Mujeeb (Mai amsawa) 11:61
+- #45 Al Waasi' (Mai yalwatawa) 2:268; 3:73; 5:54
+- #46 Al Hakeem (Mai hikima) 31:27; 46:2; 57:1; 66:2
+- #47 Al Wudood (Masoyi) 11:90; 85:14
+- #48 Al Majeed (Mai cikakkiyar siffa) 11:73
+- #49 Al Baa'ith (Mai aiko Manzanni) 22:7
+- #50 Ash Shaheed (Mai shaida komai) 4:166; 22:17; 41:53; 48:28
+- #51 Al Haqq (Matabbacin gaskiya) 6:62; 22:6; 23:116; 24:25
+- #52 Al Wakeel (Mai isarwa) 3:173; 4:171; 28:28; 73:9
+- #53 Al Qawiyy (Matabbaci) 22:40; 22:74; 42:19; 57:25
+- #54 Al Mateen (Mai karfi) 51:58
+- #55 Al Waliyy (Mai jibintarwa) 4:45; 7:196; 42:28; 45:19
+- #56 Al Hameed (Macancancin yabo) 14:8; 31:12; 31:26; 41:42
+- #57 Al Muhsi (Mai iyakancewa) 72:28; 78:29; 82:10-12
+- #58 Al Mubdi (Mai bayyanawa) 10:34; 27:64; 29:19; 85:13
+- #59 Al Mu'eed (Mai komarwa) 10:34; 27:64; 29:19; 85:13
+- #60 Al Muhiy (Mai rayawa) 7:158; 15:23; 30:50; 57:2
+- #61 Al Mumeet (Mai kashewa) 3:156; 7:158; 15:23; 57:2
+- #62 Al Haiyy (Rayayyen Sarki) 2:255; 3:2; 25:58; 40:65
+- #63 Al Qayyoom (Madawwami) 2:255; 3:2; 20:111
+- #64 Al Waajid (Mai bayarwa) 38:44
+- #65 Al Maajid (Mai daukakawa) 11:73
+- #66 Al Waahid (Makadaici) 2:163; 5:73; 9:31; 18:110
+- #67 Al Ahad (Makadaici) 112:1
+- #68 As Samad (Abin nufi da bukata) 112:2
+- #69 Al Qaadir (Mai iko) 6:65; 36:81; 46:33; 75:40
+- #70 Al Muqtadir (Mai iko da komai) 18:45; 54:42; 54:55
+- #71 Al Muqaddim (Mai gabatarwa) 16:61; 17:34
+- #72 Al Mu'akhir (Mai jinkirtawa) 71:4
+- #73 Al Awwal (Na farko) 57:3
+- #74 Al Aakhir (Marashin karshe) 57:3
+- #75 Az Zaahir (Mabayyani) 57:3
+- #76 Al Baatin (Boyayye) 57:3
+- #77 Al Waali (Majibincin lamari) 13:11; 22:7
+- #78 Al Muta'ali (Madaukaki) 13:9
+- #79 Al Barr (Mai kyautatawa) 52:28
+- #80 At Tawwaab (Mai karbar tuba) 2:128; 4:64; 49:12; 110:3
+- #81 Al Muntaqim (Mai ukuba) 32:22; 43:41; 44:16
+- #82 Al Afuww (Mai rangame) 4:99; 4:149; 22:60
+- #83 Ar Ra'oof (Mai tausasawa) 3:30; 9:117; 57:9; 59:10
+- #84 Maalik Ul Mulk (Mamallakin mulki) 3:26
+- #85 Dhu Al Jalaali Wa Al Ikraam (Ma'abocin girma da girmame-girmame) 55:27; 55:78
+- #86 Al Muqsit (Mai adalci) 3:18; 7:29
+- #87 Al Jaami' (Mai tara kowa) 3:9
+- #88 Al Ghaniyy (Mawadaci) 3:97; 39:7; 47:38; 57:24
+- #89 Al Mughni (Mai wadatarwa) 9:28
+- #90 Al Maani' (Mai hanawa) 67:21
+- #91 Ad Daaarr (Mai cutar da mai cutarwa) 6:17
+- #92 An Naafi' (Mai amfanarwa) 30:37
+- #93 An Noor (Mai haskakawa) 24:35
+- #94 Al Haadi (Mai shiryawa) 25:31
+- #95 Al Badi' (Makagi) 2:117; 6:101
+- #96 Al Baaqi (Wanzajje) 55:27
+- #97 Al Waarith (Magaaji) 15:23
+- #98 Ar Rasheed (Mai shiryawa) 2:256
+- #99 As Saboor (Mai hakuri) 2:153; 3:200; 103:3
 Matching Ayahs
 - = Alif, Laam, Miim. 2:1; 3:1; 29:1; 30:1; 31:1; 32:1
 - = Waɗannan su ne a kan shiriya ta Ubangijinsu, kuma waɗannan sune mãsu cin nasara. 2:5; 31:5

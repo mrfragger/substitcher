@@ -3350,7 +3350,7 @@ class _QuranPanelState extends State<QuranPanel> {
                           _buildRefHistoryButton(),
                           const SizedBox(width: 4),
                           SizedBox(
-                            width: 134,
+                            width: 144,
                             height: 32,
                             child: TextField(
                               controller: _tafsirRefController,

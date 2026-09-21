@@ -2693,105 +2693,105 @@ Rub (1/8)
 - Rub 240 100:9-11; 101:1-11; 102:1-8; 103:1-3; 104:1-9; 105:1-5; 106:1-4; 107:1-7; 108:1-3; 109:1-6; 110:1-3; 111:1-5; 112:1-4; 113:1-5; 114:1-6
 The 99 Names of Allah
 - #0 Best of Names 7:180; 17:110; 20:8; 59:22-24
-- #1 Ar-Rahman    Den Nådige   1:3; 17:110
-- #2 Ar-Raheem     Den Barmhjertige   2:163; 3:31; 4:100; 5:3
-- #3 Al-Malik      Kongen, Herskeren   20:114; 23:116; 59:23
-- #4 Al-Quddus     Den Hellige, Den Rene   59:23; 62:1
-- #5 As-Salam      Freden   59:23
-- #6 Al-Mu'min     Den, der giver tro   59:23
-- #7 Al-Muhaymin   Vogteren, Beskytteren   59:23
-- #8 Al-Aziz       Den Almægtige   3:6; 4:158; 9:40; 48:7
-- #9 Al-Jabbar     Den Mægtige   59:23
-- #10 Al-Mutakabbir Den Store   59:23
-- #11 Al-Khaliq    Skaberen   6:102; 13:16; 39:62; 40:62; 59:24
-- #12 Al-Bari'     Ophavsmanden   59:24
-- #13 Al-Musawwir  Formeren   59:24
-- #14 Al-Ghaffar   Den Tilgivende   20:82; 38:66; 39:5; 40:42; 71:10
-- #15 Al-Qahhar    Den Overvindende   13:16; 14:48; 38:65; 39:4; 40:16
-- #16 Al-Wahhab    Giveren   3:8; 38:9; 38:35
-- #17 Ar-Razzaq    Forsørgeren   51:58
-- #18 Al-Fattah    Åbneren   34:26
-- #19 Al-Alim      Den Alvidende   2:158; 3:92; 4:35; 24:41; 33:40
-- #20 Al-Qabid     Den, der holder tilbage   2:245
-- #21 Al-Basit     Den, der udstrækker   2:245
-- #22 Al-Khafid    Den, der nedtrykker   95:5
-- #23 Ar-Rafi'     Den, der ophøjer   58:11; 6:83
-- #24 Al-Mu'izz    Den, der giver ære   3:26
-- #25 Al-Mudhill   Den, der ydmyger   3:26
-- #26 As-Sami'     Den Hørende   2:127; 2:256; 8:17; 49:1
-- #27 Al-Basir     Den Seende   4:58; 17:1; 42:11; 42:27
-- #28 Al-Hakam     Dommeren   22:69
-- #29 Al-Adl       Den Retfærdige   6:115
-- #30 Al-Latif     Den Fine, Den Blide   6:103; 22:63; 31:16; 33:34
-- #31 Al-Khabir    Den Indsigtsfulde   6:18; 17:30; 49:13; 59:18
-- #32 Al-Halim     Den Langmodige   2:235; 17:44; 22:59; 35:41
-- #33 Al-Azim      Den Storartede   2:255; 42:4; 56:96
-- #34 Al-Ghafur    Den Tilgivende, Syndsudviskeren   2:173; 8:69; 16:110; 41:32
-- #35 Ash-Shakur   Den Taknemmelige   35:30; 35:34; 42:23; 64:17
-- #36 Al-Ali       Den Høje   4:34; 31:30; 42:4; 42:51
-- #37 Al-Kabir     Den Store   13:9; 22:62; 31:30
-- #38 Al-Hafiz     Beskytteren, Vogteren   11:57; 34:21; 42:6
-- #39 Al-Muqit     Den Nærende   4:85
-- #40 Al-Hasib     Den, der gør op   4:6; 4:86; 33:39
-- #41 Al-Jalil     Den Højtidelige   55:27; 39:14; 7:143
-- #42 Al-Karim     Den Gavmilde   27:40; 82:6
-- #43 Ar-Raqib     Den Vågne, Opsynsmanden   4:1; 5:117
-- #44 Al-Mujib     Den, der besvarer bønner   11:61
-- #45 Al-Wasi'     Den Rummelige   2:268; 3:73; 5:54
-- #46 Al-Hakim     Den Vise   31:27; 46:2; 57:1; 66:2
-- #47 Al-Wadud     Den Elskende   11:90; 85:14
-- #48 Al-Majid     Den Herlige   11:73
-- #49 Al-Ba'ith    Oprejseren   22:7
-- #50 Ash-Shahid   Vidnet   4:166; 22:17; 41:53; 48:28
-- #51 Al-Haqq      Sandheden   6:62; 22:6; 23:116; 24:25
-- #52 Al-Wakil     Den, man stoler på   3:173; 4:171; 28:28; 73:9
-- #53 Al-Qawiyy    Den Stærke   22:40; 22:74; 42:19; 57:25
-- #54 Al-Matin     Den Faste   51:58
-- #55 Al-Waliyy    Beskytteren, Ven   4:45; 7:196; 42:28; 45:19
-- #56 Al-Hamid     Den Prisværdige   14:8; 31:12; 31:26; 41:42
-- #57 Al-Muhsi     Den, der tæller   72:28; 78:29; 82:10-12
-- #58 Al-Mubdi'    Ophavsmanden, Grundlæggeren   10:34; 27:64; 29:19; 85:13
-- #59 Al-Mu'id     Genopretteren   10:34; 27:64; 29:19; 85:13
-- #60 Al-Muhyi     Livgiveren   7:158; 15:23; 30:50; 57:2
-- #61 Al-Mumit     Dødsgiveren   3:156; 7:158; 15:23; 57:2
-- #62 Al-Hayy      Den Levende   2:255; 3:2; 25:58; 40:65
-- #63 Al-Qayyum    Den Selvbestående, Opretholderen   2:255; 3:2; 20:111
-- #64 Al-Wajid     Finderen, Den Rige   38:44
-- #65 Al-Majid     Den Ædle, Den Herlige   11:73
-- #66 Al-Wahid     Den Ene   2:163; 5:73; 9:31; 18:110
-- #67 Al-Ahad      Den Eneste   112:1
-- #68 As-Samad     Den Uafhængige, Tilflugten   112:2
-- #69 Al-Qadir     Den Almægtige   6:65; 36:81; 46:33; 75:40
-- #70 Al-Muqtadir  Den Magtfulde   18:45; 54:42; 54:55
-- #71 Al-Muqaddim  Den, der fremskynder   16:61; 17:34
-- #72 Al-Mu'akhkhir Den, der udsætter   71:4
-- #73 Al-Awwal     Den Første   57:3
-- #74 Al-Akhir     Den Sidste   57:3
-- #75 Az-Zahir     Den Åbenbare   57:3
-- #76 Al-Batin     Den Skjulte   57:3
-- #77 Al-Wali      Beskytteren, Opsynsmanden   13:11; 22:7
-- #78 Al-Muta'ali  Den Ophøjede   13:9
-- #79 Al-Barr      Den Godgørende   52:28
-- #80 At-Tawwab    Den, der tager imod anger   2:128; 4:64; 49:12; 110:3
-- #81 Al-Muntaqim  Den, der hævner   32:22; 43:41; 44:16
-- #82 Al-Afuw      Den, der tilgiver meget   4:99; 4:149; 22:60
-- #83 Ar-Ra'uf     Den Mildhjertige   3:30; 9:117; 57:9; 59:10
-- #84 Malik-ul-Mulk Ejer af Herredømmet   3:26
-- #85 Dhul-Jalali wal-Ikram Herre over Majestæt og Gave   55:27; 55:78
-- #86 Al-Muqsit    Den Retfærdige   3:18; 7:29
-- #87 Al-Jami'     Forsamleren   3:9
-- #88 Al-Ghani     Den Selvtilstrækkelige   3:97; 39:7; 47:38; 57:24
-- #89 Al-Mughni    Den, der beriger   9:28
-- #90 Al-Mani'     Den, der afholder   67:21
-- #91 Ad-Darr      Den, der sender modgang   6:17
-- #92 An-Nafi'     Den, der gavner   30:37
-- #93 An-Nur       Lyset   24:35
-- #94 Al-Hadi      Vejviseren   25:31
-- #95 Al-Badi'     Ophavsmanden   2:117; 6:101
-- #96 Al-Baqi      Den Evige   55:27
-- #97 Al-Warith    Arvingen   15:23
-- #98 Ar-Rashid    Den Kloge, Vejviseren   2:256
-- #99 As-Sabur     Den Tålmodige   2:153; 3:200; 103:3
+- #1 Ar-Rahman (Den Nådige) 1:3; 17:110
+- #2 Ar-Raheem (Den Barmhjertige) 2:163; 3:31; 4:100; 5:3
+- #3 Al-Malik (Kongen, Herskeren) 20:114; 23:116; 59:23
+- #4 Al-Quddus (Den Hellige, Den Rene) 59:23; 62:1
+- #5 As-Salam (Freden) 59:23
+- #6 Al-Mu'min (Den, der giver tro) 59:23
+- #7 Al-Muhaymin (Vogteren, Beskytteren) 59:23
+- #8 Al-Aziz (Den Almægtige) 3:6; 4:158; 9:40; 48:7
+- #9 Al-Jabbar (Den Mægtige) 59:23
+- #10 Al-Mutakabbir (Den Store) 59:23
+- #11 Al-Khaliq (Skaberen) 6:102; 13:16; 39:62; 40:62; 59:24
+- #12 Al-Bari' (Ophavsmanden) 59:24
+- #13 Al-Musawwir (Formeren) 59:24
+- #14 Al-Ghaffar (Den Tilgivende) 20:82; 38:66; 39:5; 40:42; 71:10
+- #15 Al-Qahhar (Den Overvindende) 13:16; 14:48; 38:65; 39:4; 40:16
+- #16 Al-Wahhab (Giveren) 3:8; 38:9; 38:35
+- #17 Ar-Razzaq (Forsørgeren) 51:58
+- #18 Al-Fattah (Åbneren) 34:26
+- #19 Al-Alim (Den Alvidende) 2:158; 3:92; 4:35; 24:41; 33:40
+- #20 Al-Qabid (Den, der holder tilbage) 2:245
+- #21 Al-Basit (Den, der udstrækker) 2:245
+- #22 Al-Khafid (Den, der nedtrykker) 95:5
+- #23 Ar-Rafi' (Den, der ophøjer) 58:11; 6:83
+- #24 Al-Mu'izz (Den, der giver ære) 3:26
+- #25 Al-Mudhill (Den, der ydmyger) 3:26
+- #26 As-Sami' (Den Hørende) 2:127; 2:256; 8:17; 49:1
+- #27 Al-Basir (Den Seende) 4:58; 17:1; 42:11; 42:27
+- #28 Al-Hakam (Dommeren) 22:69
+- #29 Al-Adl (Den Retfærdige) 6:115
+- #30 Al-Latif (Den Fine, Den Blide) 6:103; 22:63; 31:16; 33:34
+- #31 Al-Khabir (Den Indsigtsfulde) 6:18; 17:30; 49:13; 59:18
+- #32 Al-Halim (Den Langmodige) 2:235; 17:44; 22:59; 35:41
+- #33 Al-Azim (Den Storartede) 2:255; 42:4; 56:96
+- #34 Al-Ghafur (Den Tilgivende, Syndsudviskeren) 2:173; 8:69; 16:110; 41:32
+- #35 Ash-Shakur (Den Taknemmelige) 35:30; 35:34; 42:23; 64:17
+- #36 Al-Ali (Den Høje) 4:34; 31:30; 42:4; 42:51
+- #37 Al-Kabir (Den Store) 13:9; 22:62; 31:30
+- #38 Al-Hafiz (Beskytteren, Vogteren) 11:57; 34:21; 42:6
+- #39 Al-Muqit (Den Nærende) 4:85
+- #40 Al-Hasib (Den, der gør op) 4:6; 4:86; 33:39
+- #41 Al-Jalil (Den Højtidelige) 55:27; 39:14; 7:143
+- #42 Al-Karim (Den Gavmilde) 27:40; 82:6
+- #43 Ar-Raqib (Den Vågne, Opsynsmanden) 4:1; 5:117
+- #44 Al-Mujib (Den, der besvarer bønner) 11:61
+- #45 Al-Wasi' (Den Rummelige) 2:268; 3:73; 5:54
+- #46 Al-Hakim (Den Vise) 31:27; 46:2; 57:1; 66:2
+- #47 Al-Wadud (Den Elskende) 11:90; 85:14
+- #48 Al-Majid (Den Herlige) 11:73
+- #49 Al-Ba'ith (Oprejseren) 22:7
+- #50 Ash-Shahid (Vidnet) 4:166; 22:17; 41:53; 48:28
+- #51 Al-Haqq (Sandheden) 6:62; 22:6; 23:116; 24:25
+- #52 Al-Wakil (Den, man stoler på) 3:173; 4:171; 28:28; 73:9
+- #53 Al-Qawiyy (Den Stærke) 22:40; 22:74; 42:19; 57:25
+- #54 Al-Matin (Den Faste) 51:58
+- #55 Al-Waliyy (Beskytteren, Ven) 4:45; 7:196; 42:28; 45:19
+- #56 Al-Hamid (Den Prisværdige) 14:8; 31:12; 31:26; 41:42
+- #57 Al-Muhsi (Den, der tæller) 72:28; 78:29; 82:10-12
+- #58 Al-Mubdi' (Ophavsmanden, Grundlæggeren) 10:34; 27:64; 29:19; 85:13
+- #59 Al-Mu'id (Genopretteren) 10:34; 27:64; 29:19; 85:13
+- #60 Al-Muhyi (Livgiveren) 7:158; 15:23; 30:50; 57:2
+- #61 Al-Mumit (Dødsgiveren) 3:156; 7:158; 15:23; 57:2
+- #62 Al-Hayy (Den Levende) 2:255; 3:2; 25:58; 40:65
+- #63 Al-Qayyum (Den Selvbestående, Opretholderen) 2:255; 3:2; 20:111
+- #64 Al-Wajid (Finderen, Den Rige) 38:44
+- #65 Al-Majid (Den Ædle, Den Herlige) 11:73
+- #66 Al-Wahid (Den Ene) 2:163; 5:73; 9:31; 18:110
+- #67 Al-Ahad (Den Eneste) 112:1
+- #68 As-Samad (Den Uafhængige, Tilflugten) 112:2
+- #69 Al-Qadir (Den Almægtige) 6:65; 36:81; 46:33; 75:40
+- #70 Al-Muqtadir (Den Magtfulde) 18:45; 54:42; 54:55
+- #71 Al-Muqaddim (Den, der fremskynder) 16:61; 17:34
+- #72 Al-Mu'akhkhir (Den, der udsætter) 71:4
+- #73 Al-Awwal (Den Første) 57:3
+- #74 Al-Akhir (Den Sidste) 57:3
+- #75 Az-Zahir (Den Åbenbare) 57:3
+- #76 Al-Batin (Den Skjulte) 57:3
+- #77 Al-Wali (Beskytteren, Opsynsmanden) 13:11; 22:7
+- #78 Al-Muta'ali (Den Ophøjede) 13:9
+- #79 Al-Barr (Den Godgørende) 52:28
+- #80 At-Tawwab (Den, der tager imod anger) 2:128; 4:64; 49:12; 110:3
+- #81 Al-Muntaqim (Den, der hævner) 32:22; 43:41; 44:16
+- #82 Al-Afuw (Den, der tilgiver meget) 4:99; 4:149; 22:60
+- #83 Ar-Ra'uf (Den Mildhjertige) 3:30; 9:117; 57:9; 59:10
+- #84 Malik-ul-Mulk (Ejer af Herredømmet) 3:26
+- #85 Dhul-Jalali wal-Ikram (Herre over Majestæt og Gave) 55:27; 55:78
+- #86 Al-Muqsit (Den Retfærdige) 3:18; 7:29
+- #87 Al-Jami' (Forsamleren) 3:9
+- #88 Al-Ghani (Den Selvtilstrækkelige) 3:97; 39:7; 47:38; 57:24
+- #89 Al-Mughni (Den, der beriger) 9:28
+- #90 Al-Mani' (Den, der afholder) 67:21
+- #91 Ad-Darr (Den, der sender modgang) 6:17
+- #92 An-Nafi' (Den, der gavner) 30:37
+- #93 An-Nur (Lyset) 24:35
+- #94 Al-Hadi (Vejviseren) 25:31
+- #95 Al-Badi' (Ophavsmanden) 2:117; 6:101
+- #96 Al-Baqi (Den Evige) 55:27
+- #97 Al-Warith (Arvingen) 15:23
+- #98 Ar-Rashid (Den Kloge, Vejviseren) 2:256
+- #99 As-Sabur (Den Tålmodige) 2:153; 3:200; 103:3
 Matching Ayahs
 - = Alif, Lam, Mim. 2:1; 3:1; 29:1; 30:1; 31:1; 32:1
 - = Disse er på rette vej fra deres Herre, og det er dem, der har succes. 2:5; 31:5

@@ -189,7 +189,7 @@ class AllahHighlighter {
     'Allah', 'Allāh', 'Allâh',
     'Lord\u2019s', 'Lord\u02BCs', "Lord's", 'Lord',
   ];
-  static const List<String> _englishPronounWords = ['Him', 'His', 'He', 'Me'];
+  static const List<String> _englishPronounWords = ['Our', 'Him', 'His', 'He', 'Me'];
 
   static const Map<String, List<String>> allahWordsByLanguage = {
     'Arabic': [

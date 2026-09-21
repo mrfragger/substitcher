@@ -3290,105 +3290,105 @@ Rub (1/8)
 - Rub 240 100:9-11; 101:1-11; 102:1-8; 103:1-3; 104:1-9; 105:1-5; 106:1-4; 107:1-7; 108:1-3; 109:1-6; 110:1-3; 111:1-5; 112:1-4; 113:1-5; 114:1-6
 The 99 Names of Allah
 - #0 Best of Names 7:180; 17:110; 20:8; 59:22-24
-- #1 Ar Rahmaan     Dünyada bütün yaratılmışlara merhamet eden, şefkat gösteren, ihsan ve ikramda bulunan 1:3; 17:110
-- #2 Ar Raheem      Ahirette sadece müminlere merhamet eden 2:163; 3:31; 4:100; 5:3
-- #3 Al Malik       Mülkün, kâinatın sahibi, mülk ve saltanatı devamlı olan 20:114; 23:116; 59:23; 62:1
-- #4 Al Quddus      Her türlü eksiklikten uzak, mutlak kemal sahibi 59:23; 62:1
-- #5 As Salaam      Her çeşit afet ve kederlerden emin, esenlik verici 59:23
-- #6 Al Mu'min      Güven veren, kendisine güvenilen, inananları güvenlikte kılan 59:23
-- #7 Al Muhaymin    Her şeyi görüp gözeten, kâinatın işlerini idare eden 59:23
-- #8 Al Azeez       İzzet sahibi, her şeye galip gelen, karşı gelinemeyen 3:6; 4:158; 9:40; 48:7
-- #9 Al Jabbaar     Azamet ve kudret sahibi, her şeye gücü yeten 59:23
-- #10 Al Mutakabbir Büyüklükte eşi ve benzeri olmayan 59:23
-- #11 Al Khaaliq    Her şeyi takdir edip yaratan 6:102; 13:16; 39:62; 40:62; 59:24
-- #12 Al Baari      Her şeyin aza ve cihazlarını birbirine uygun yaratan 59:24
-- #13 Al Musawwir   Varlıklara şekil ve özellik veren 59:24
-- #14 Al Ghaffaar   Mağfireti, bağışlaması çok, günahları çok örten 20:82; 38:66; 39:5; 40:42; 71:10
-- #15 Al Qahhaar    Her şeye, her istediğini yapacak surette galip ve hakim 13:16; 14:48; 38:65; 39:4; 40:16
-- #16 Al Wahhaab    Karşılıksız ve çokça ihsan ve ikramda bulunan 3:8; 38:9; 38:35
-- #17 Ar Razzaaq    Bütün varlıkların rızkını veren ve ihtiyacını karşılayan 51:58
-- #18 Al Fattaah    Her türlü sıkıntıları gideren, iyilik ve rahmet kapılarını açan 34:26
-- #19 Al 'Aleem     Her şeyi, olmuşu, olacağı, gizliyi, aşikârı, en ince detayına kadar bilen 2:158; 3:92; 4:35; 24:41; 33:40
-- #20 Al Qaabid     İstediğinin maddi ve manevi rızkını daraltan 2:245
-- #21 Al Baasit     İstediğine maddi ve manevi genişlik veren, rızkı genişleten 2:245
-- #22 Al Khaafid    Dereceleri alçaltan, değersiz kılan 95:5
-- #23 Ar Raafi'     Dereceleri yükselten, şeref ve kıymet veren 58:11; 6:83
-- #24 Al Mu'izz     İstediğine izzet, şeref ve itibar veren, aziz kılan 3:26
-- #25 Al Mudhil     İstediğini alçaltan, hor ve hakir eden 3:26
-- #26 As Samee'     Her şeyi işiten, duaları kabul eden 2:127; 2:256; 8:17; 49:1
-- #27 Al Baseer     Her şeyi gören, her şeyden haberdar olan 4:58; 17:1; 42:11; 42:27
-- #28 Al Hakam      Hikmet sahibi olan, hükmeden 22:69
-- #29 Al Adl        Son derece adaletli, yerli yerince yapan 6:115
-- #30 Al Lateef     En ince işlerin bütün inceliklerini bilen, lütuf ve ihsanı bol olan 6:103; 22:63; 31:16; 33:34
-- #31 Al Khabeer    Her şeyden haberdar, her şeyin gizli taraflarından haberdar olan 6:18; 17:30; 49:13; 59:18
-- #32 Al Haleem     Hilmi çok, yumuşak davranan, cezalandırmaya gücü yettiği halde cezalandırmayan 2:235; 17:44; 22:59; 35:41
-- #33 Al 'Azeem     Azamet sahibi, yücelik ve ululuk sahibi 2:255; 42:4; 56:96
-- #34 Al Ghafoor    Çok affeden ve mağfiret eden 2:173; 8:69; 16:110; 41:32
-- #35 Ash Shakoor   Az iyiliğe çok mükâfat veren, şükredilmeye en layık olan 35:30; 35:34; 42:23; 64:17
-- #36 Al Aliyy      İzzet, şeref ve hükümranlık bakımından en yüce, aşkın 4:34; 31:30; 42:4; 42:51
-- #37 Al Kabeer     Zatı, sıfatları ve fiilleri pek büyük olan 13:9; 22:62; 31:30
-- #38 Al Hafeez     Yapılan işleri koruyan, belâ ve âfetten koruyan 11:57; 34:21; 42:6
-- #39 Al Muqeet     Her yaratılmışın rızkını, gıdasını veren, koruyan 4:85
-- #40 Al Haseeb     Kullarının işlediklerini bir bir sayan, hesaba çeken 4:6; 4:86; 33:39
-- #41 Al Jaleel     Celal ve ululuk sahibi olan 55:27; 39:14; 7:143
-- #42 Al Kareem     Cömert, ikram ve ihsanı bol, fazilet sahibi 27:40; 82:6
-- #43 Ar Raqeeb     Bütün varlıkları her an gözleyip kontrolü altında tutan 4:1; 5:117
-- #44 Al Mujeeb     Kendisine yalvaranların isteklerini işiten, icabet eden 11:61
-- #45 Al Waasi'     İlmi, rahmeti, kudreti ve ihsanı geniş, genişlik ve zenginlik sahibi 2:268; 3:73; 5:54
-- #46 Al Hakeem     Emirleri ve bütün işleri hikmetli olan 31:27; 46:2; 57:1; 66:2
-- #47 Al Wudood     Çok seven ve çok sevilen, iyilik eden 11:90; 85:14
-- #48 Al Majeed     Şanlı, şerefli, övgüye layık, lütuf ve ikramı bol olan 11:73
-- #49 Al Baa'ith    Ölüleri dirilten, peygamber gönderen 22:7
-- #50 Ash Shaheed   Her zaman ve her yerde hazır ve nâzır olan 4:166; 22:17; 41:53; 48:28
-- #51 Al Haqq       Varlığı hiç değişmeden duran, var ve hakikati sabit olan 6:62; 22:6; 23:116; 24:25
-- #52 Al Wakeel     Kendisine güvenilip dayanılan, her şeyi tedbir ve idare eden 3:173; 4:171; 28:28; 73:9
-- #53 Al Qawiyy     Pek güçlü, tam kuvvet sahibi 22:40; 22:74; 42:19; 57:25
-- #54 Al Mateen     Çok sağlam, kuvvetli, metanet sahibi 51:58
-- #55 Al Waliyy     Müminlerin dostu, yardım eden, işlerini yürüten 4:45; 7:196; 42:28; 45:19
-- #56 Al Hameed     Çok övülen, övgüye layık olan 14:8; 31:12; 31:26; 41:42
-- #57 Al Muhsi      Her bir şeyin sayısını bir bir bilip sayan 72:28; 78:29; 82:10-12
-- #58 Al Mubdi      Varlıkları örneksiz ve yoktan yaratan 10:34; 27:64; 29:19; 85:13
-- #59 Al Mu'eed     Yeniden dirilten, varlıkları öldükten sonra yeniden yaratan 10:34; 27:64; 29:19; 85:13
-- #60 Al Muhiy      Can veren, hayat veren, dirilten 7:158; 15:23; 30:50; 57:2
-- #61 Al Mumeet     Canlı bir mahlûkun ölümünü yaratan, öldüren 3:156; 7:158; 15:23; 57:2
-- #62 Al Haiyy      Diri, tam ve mükemmel manasıyla hayat sahibi 2:255; 3:2; 25:58; 40:65
-- #63 Al Qayyoom    Gökleri, yeri ve bütün mahlûkatı ayakta tutan 2:255; 3:2; 20:111
-- #64 Al Waajid     İstediğini, istediği vakit bulan 38:44
-- #65 Al Maajid     Kadri ve şânı büyük, kerem ve müsamahası bol 11:73
-- #66 Al Waahid     Tek, zâtında, sıfatlarında, işlerinde asla ortağı veya benzeri olmayan 2:163; 5:73; 9:31; 18:110
-- #67 Al Ahad       [not listed separately in this source — Al-Waahid #66 covers "the One" in this Turkish enumeration] 112:1
-- #68 As Samad      Her şey kendisine muhtaç olan, kendisi ise hiçbir şeye muhtaç olmayan 112:2
-- #69 Al Qaadir     İstediğini, istediği gibi yaratmaya gücü yeten 6:65; 36:81; 46:33; 75:40
-- #70 Al Muqtadir   Kuvvet ve kudret sahipleri üzerinde dilediği gibi tasarruf eden 18:45; 54:42; 54:55
-- #71 Al Muqaddim   İstediğini öne alan, ileri geçiren 16:61; 17:34
-- #72 Al Mu'akhir   İstediğini geriye bırakan, tehir eden 71:4
-- #73 Al Awwal      Varlığının başlangıcı olmayan, ilk olan 57:3
-- #74 Al Aakhir     Varlığının sonu olmayan, son olan 57:3
-- #75 Az Zaahir     Varlığı, sıfatları, fiilleri, ayetleri ile açık, görünen 57:3
-- #76 Al Baatin     Zâtı, künhü ve keyfiyeti gizli olan 57:3
-- #77 Al Waali      Bu muazzam kâinatı ve bütün cüz'lerini tek başına idare eden 13:11; 22:7
-- #78 Al Muta'ali   Aklın mümkün gördüğü her şeyden pek yüce olan 13:9
-- #79 Al Barr       İyilik ve ihsanı bol, kullarına iyilik ve ihsanda bulunan 52:28
-- #80 At Tawwaab    Tevbeleri kabul edip, günahları bağışlayan 2:128; 4:64; 49:12; 110:3
-- #81 Al Muntaqim   Suçluları adaleti ile müstahak oldukları cezaya çarptıran 32:22; 43:41; 44:16
-- #82 Al Afuww      Günahları affedip sildiren, affı çok olan 4:99; 4:149; 22:60
-- #83 Ar Ra'oof     Çok şefkatli, pek merhametli 3:30; 9:117; 57:9; 59:10
-- #84 Maalik Ul Mulk    Mülkün ebedi ve tek sahibi 3:26
-- #85 Dhu Al Jalaali Wa Al Ikraam   Hem azamet sahibi, hem fazl-ı kerem sahibi 55:27; 55:78
-- #86 Al Muqsit     Mazlumların hakkını zalimlerden alan, adil, insaflı 3:18; 7:29
-- #87 Al Jaami'     İstediğini istediği zaman bir araya getiren, toplayan 3:9
-- #88 Al Ghaniyy    Çok zengin, hiçbir şeye muhtaç olmayan 3:97; 39:7; 47:38; 57:24
-- #89 Al Mughni     İstediğini zengin eden, zenginlik veren, ihtiyaçları gideren 9:28
-- #90 Al Maani'     Bazı şeylerin meydana gelmesine müsaade etmeyen, engelleyen 67:21
-- #91 Ad Daaarr     Hikmeti gereği elem ve zarar verici şeyleri yaratan 6:17
-- #92 An Naafi'     Hayır ve menfaat verici şeyleri yaratan, faydalandıran 30:37
-- #93 An Noor       Âlemleri nurlandıran, nur kaynağı olan 24:35
-- #94 Al Haadi      Hidayet verici, hayırlı ve kârlı yollara muvaffak kılan 25:31
-- #95 Al Badi'      Eşi ve örneği olmayan, hayret verici âlemler yaratan 2:117; 6:101
-- #96 Al Baaqi      Varlığının sonu olmayan, ebedi 55:27
-- #97 Al Waarith    Servetlerin hakiki sahibi, her şeyin son sahibi 15:23
-- #98 Ar Rasheed    Bütün âlemleri dosdoğru bir nizam ve hikmetle âkıbetine ulaştıran 2:256
-- #99 As Saboor     Çok sabırlı, isyankarları hemen cezalandırmayan, mühlet veren 2:153; 3:200; 103:3
+- #1 Ar Rahmaan (Dünyada bütün yaratılmışlara merhamet eden, şefkat gösteren, ihsan ve ikramda bulunan) 1:3; 17:110
+- #2 Ar Raheem (Ahirette sadece müminlere merhamet eden) 2:163; 3:31; 4:100; 5:3
+- #3 Al Malik (Mülkün, kâinatın sahibi, mülk ve saltanatı devamlı olan) 20:114; 23:116; 59:23; 62:1
+- #4 Al Quddus (Her türlü eksiklikten uzak, mutlak kemal sahibi) 59:23; 62:1
+- #5 As Salaam (Her çeşit afet ve kederlerden emin, esenlik verici) 59:23
+- #6 Al Mu'min (Güven veren, kendisine güvenilen, inananları güvenlikte kılan) 59:23
+- #7 Al Muhaymin (Her şeyi görüp gözeten, kâinatın işlerini idare eden) 59:23
+- #8 Al Azeez (İzzet sahibi, her şeye galip gelen, karşı gelinemeyen) 3:6; 4:158; 9:40; 48:7
+- #9 Al Jabbaar (Azamet ve kudret sahibi, her şeye gücü yeten) 59:23
+- #10 Al Mutakabbir (Büyüklükte eşi ve benzeri olmayan) 59:23
+- #11 Al Khaaliq (Her şeyi takdir edip yaratan) 6:102; 13:16; 39:62; 40:62; 59:24
+- #12 Al Baari (Her şeyin aza ve cihazlarını birbirine uygun yaratan) 59:24
+- #13 Al Musawwir (Varlıklara şekil ve özellik veren) 59:24
+- #14 Al Ghaffaar (Mağfireti, bağışlaması çok, günahları çok örten) 20:82; 38:66; 39:5; 40:42; 71:10
+- #15 Al Qahhaar (Her şeye, her istediğini yapacak surette galip ve hakim) 13:16; 14:48; 38:65; 39:4; 40:16
+- #16 Al Wahhaab (Karşılıksız ve çokça ihsan ve ikramda bulunan) 3:8; 38:9; 38:35
+- #17 Ar Razzaaq (Bütün varlıkların rızkını veren ve ihtiyacını karşılayan) 51:58
+- #18 Al Fattaah (Her türlü sıkıntıları gideren, iyilik ve rahmet kapılarını açan) 34:26
+- #19 Al 'Aleem (Her şeyi, olmuşu, olacağı, gizliyi, aşikârı, en ince detayına kadar bilen) 2:158; 3:92; 4:35; 24:41; 33:40
+- #20 Al Qaabid (İstediğinin maddi ve manevi rızkını daraltan) 2:245
+- #21 Al Baasit (İstediğine maddi ve manevi genişlik veren, rızkı genişleten) 2:245
+- #22 Al Khaafid (Dereceleri alçaltan, değersiz kılan) 95:5
+- #23 Ar Raafi' (Dereceleri yükselten, şeref ve kıymet veren) 58:11; 6:83
+- #24 Al Mu'izz (İstediğine izzet, şeref ve itibar veren, aziz kılan) 3:26
+- #25 Al Mudhil (İstediğini alçaltan, hor ve hakir eden) 3:26
+- #26 As Samee' (Her şeyi işiten, duaları kabul eden) 2:127; 2:256; 8:17; 49:1
+- #27 Al Baseer (Her şeyi gören, her şeyden haberdar olan) 4:58; 17:1; 42:11; 42:27
+- #28 Al Hakam (Hikmet sahibi olan, hükmeden) 22:69
+- #29 Al Adl (Son derece adaletli, yerli yerince yapan) 6:115
+- #30 Al Lateef (En ince işlerin bütün inceliklerini bilen, lütuf ve ihsanı bol olan) 6:103; 22:63; 31:16; 33:34
+- #31 Al Khabeer (Her şeyden haberdar, her şeyin gizli taraflarından haberdar olan) 6:18; 17:30; 49:13; 59:18
+- #32 Al Haleem (Hilmi çok, yumuşak davranan, cezalandırmaya gücü yettiği halde cezalandırmayan) 2:235; 17:44; 22:59; 35:41
+- #33 Al 'Azeem (Azamet sahibi, yücelik ve ululuk sahibi) 2:255; 42:4; 56:96
+- #34 Al Ghafoor (Çok affeden ve mağfiret eden) 2:173; 8:69; 16:110; 41:32
+- #35 Ash Shakoor (Az iyiliğe çok mükâfat veren, şükredilmeye en layık olan) 35:30; 35:34; 42:23; 64:17
+- #36 Al Aliyy (İzzet, şeref ve hükümranlık bakımından en yüce, aşkın) 4:34; 31:30; 42:4; 42:51
+- #37 Al Kabeer (Zatı, sıfatları ve fiilleri pek büyük olan) 13:9; 22:62; 31:30
+- #38 Al Hafeez (Yapılan işleri koruyan, belâ ve âfetten koruyan) 11:57; 34:21; 42:6
+- #39 Al Muqeet (Her yaratılmışın rızkını, gıdasını veren, koruyan) 4:85
+- #40 Al Haseeb (Kullarının işlediklerini bir bir sayan, hesaba çeken) 4:6; 4:86; 33:39
+- #41 Al Jaleel (Celal ve ululuk sahibi olan) 55:27; 39:14; 7:143
+- #42 Al Kareem (Cömert, ikram ve ihsanı bol, fazilet sahibi) 27:40; 82:6
+- #43 Ar Raqeeb (Bütün varlıkları her an gözleyip kontrolü altında tutan) 4:1; 5:117
+- #44 Al Mujeeb (Kendisine yalvaranların isteklerini işiten, icabet eden) 11:61
+- #45 Al Waasi' (İlmi, rahmeti, kudreti ve ihsanı geniş, genişlik ve zenginlik sahibi) 2:268; 3:73; 5:54
+- #46 Al Hakeem (Emirleri ve bütün işleri hikmetli olan) 31:27; 46:2; 57:1; 66:2
+- #47 Al Wudood (Çok seven ve çok sevilen, iyilik eden) 11:90; 85:14
+- #48 Al Majeed (Şanlı, şerefli, övgüye layık, lütuf ve ikramı bol olan) 11:73
+- #49 Al Baa'ith (Ölüleri dirilten, peygamber gönderen) 22:7
+- #50 Ash Shaheed (Her zaman ve her yerde hazır ve nâzır olan) 4:166; 22:17; 41:53; 48:28
+- #51 Al Haqq (Varlığı hiç değişmeden duran, var ve hakikati sabit olan) 6:62; 22:6; 23:116; 24:25
+- #52 Al Wakeel (Kendisine güvenilip dayanılan, her şeyi tedbir ve idare eden) 3:173; 4:171; 28:28; 73:9
+- #53 Al Qawiyy (Pek güçlü, tam kuvvet sahibi) 22:40; 22:74; 42:19; 57:25
+- #54 Al Mateen (Çok sağlam, kuvvetli, metanet sahibi) 51:58
+- #55 Al Waliyy (Müminlerin dostu, yardım eden, işlerini yürüten) 4:45; 7:196; 42:28; 45:19
+- #56 Al Hameed (Çok övülen, övgüye layık olan) 14:8; 31:12; 31:26; 41:42
+- #57 Al Muhsi (Her bir şeyin sayısını bir bir bilip sayan) 72:28; 78:29; 82:10-12
+- #58 Al Mubdi (Varlıkları örneksiz ve yoktan yaratan) 10:34; 27:64; 29:19; 85:13
+- #59 Al Mu'eed (Yeniden dirilten, varlıkları öldükten sonra yeniden yaratan) 10:34; 27:64; 29:19; 85:13
+- #60 Al Muhiy (Can veren, hayat veren, dirilten) 7:158; 15:23; 30:50; 57:2
+- #61 Al Mumeet (Canlı bir mahlûkun ölümünü yaratan, öldüren) 3:156; 7:158; 15:23; 57:2
+- #62 Al Haiyy (Diri, tam ve mükemmel manasıyla hayat sahibi) 2:255; 3:2; 25:58; 40:65
+- #63 Al Qayyoom (Gökleri, yeri ve bütün mahlûkatı ayakta tutan) 2:255; 3:2; 20:111
+- #64 Al Waajid (İstediğini, istediği vakit bulan) 38:44
+- #65 Al Maajid (Kadri ve şânı büyük, kerem ve müsamahası bol) 11:73
+- #66 Al Waahid (Tek, zâtında, sıfatlarında, işlerinde asla ortağı veya benzeri olmayan) 2:163; 5:73; 9:31; 18:110
+- #67 Al Ahad ([not listed separately in this source — Al-Waahid #66 covers "the One" in this Turkish enumeration]) 112:1
+- #68 As Samad (Her şey kendisine muhtaç olan, kendisi ise hiçbir şeye muhtaç olmayan) 112:2
+- #69 Al Qaadir (İstediğini, istediği gibi yaratmaya gücü yeten) 6:65; 36:81; 46:33; 75:40
+- #70 Al Muqtadir (Kuvvet ve kudret sahipleri üzerinde dilediği gibi tasarruf eden) 18:45; 54:42; 54:55
+- #71 Al Muqaddim (İstediğini öne alan, ileri geçiren) 16:61; 17:34
+- #72 Al Mu'akhir (İstediğini geriye bırakan, tehir eden) 71:4
+- #73 Al Awwal (Varlığının başlangıcı olmayan, ilk olan) 57:3
+- #74 Al Aakhir (Varlığının sonu olmayan, son olan) 57:3
+- #75 Az Zaahir (Varlığı, sıfatları, fiilleri, ayetleri ile açık, görünen) 57:3
+- #76 Al Baatin (Zâtı, künhü ve keyfiyeti gizli olan) 57:3
+- #77 Al Waali (Bu muazzam kâinatı ve bütün cüz'lerini tek başına idare eden) 13:11; 22:7
+- #78 Al Muta'ali (Aklın mümkün gördüğü her şeyden pek yüce olan) 13:9
+- #79 Al Barr (İyilik ve ihsanı bol, kullarına iyilik ve ihsanda bulunan) 52:28
+- #80 At Tawwaab (Tevbeleri kabul edip, günahları bağışlayan) 2:128; 4:64; 49:12; 110:3
+- #81 Al Muntaqim (Suçluları adaleti ile müstahak oldukları cezaya çarptıran) 32:22; 43:41; 44:16
+- #82 Al Afuww (Günahları affedip sildiren, affı çok olan) 4:99; 4:149; 22:60
+- #83 Ar Ra'oof (Çok şefkatli, pek merhametli) 3:30; 9:117; 57:9; 59:10
+- #84 Maalik Ul Mulk (Mülkün ebedi ve tek sahibi) 3:26
+- #85 Dhu Al Jalaali Wa Al Ikraam (Hem azamet sahibi, hem fazl-ı kerem sahibi) 55:27; 55:78
+- #86 Al Muqsit (Mazlumların hakkını zalimlerden alan, adil, insaflı) 3:18; 7:29
+- #87 Al Jaami' (İstediğini istediği zaman bir araya getiren, toplayan) 3:9
+- #88 Al Ghaniyy (Çok zengin, hiçbir şeye muhtaç olmayan) 3:97; 39:7; 47:38; 57:24
+- #89 Al Mughni (İstediğini zengin eden, zenginlik veren, ihtiyaçları gideren) 9:28
+- #90 Al Maani' (Bazı şeylerin meydana gelmesine müsaade etmeyen, engelleyen) 67:21
+- #91 Ad Daaarr (Hikmeti gereği elem ve zarar verici şeyleri yaratan) 6:17
+- #92 An Naafi' (Hayır ve menfaat verici şeyleri yaratan, faydalandıran) 30:37
+- #93 An Noor (Âlemleri nurlandıran, nur kaynağı olan) 24:35
+- #94 Al Haadi (Hidayet verici, hayırlı ve kârlı yollara muvaffak kılan) 25:31
+- #95 Al Badi' (Eşi ve örneği olmayan, hayret verici âlemler yaratan) 2:117; 6:101
+- #96 Al Baaqi (Varlığının sonu olmayan, ebedi) 55:27
+- #97 Al Waarith (Servetlerin hakiki sahibi, her şeyin son sahibi) 15:23
+- #98 Ar Rasheed (Bütün âlemleri dosdoğru bir nizam ve hikmetle âkıbetine ulaştıran) 2:256
+- #99 As Saboor (Çok sabırlı, isyankarları hemen cezalandırmayan, mühlet veren) 2:153; 3:200; 103:3
 Matching Ayahs
 - = Elif, Lam, Mim. 2:1; 3:1; 29:1; 30:1; 31:1; 32:1
 - = İşte onlar, Rablerinden gelen hidayet üzeredirler ve işte onlar kurtuluşa erenlerdir. 2:5; 31:5

@@ -2693,105 +2693,105 @@ Rub (1/8)
 - Rub 240 100:9-11; 101:1-11; 102:1-8; 103:1-3; 104:1-9; 105:1-5; 106:1-4; 107:1-7; 108:1-3; 109:1-6; 110:1-3; 111:1-5; 112:1-4; 113:1-5; 114:1-6
 The 99 Names of Allah
 - #0 Best of Names 7:180; 17:110; 20:8; 59:22-24
-- #1 Ar Rahmaan Mərhəmətli 1:3; 17:110
-- #2 Ar Raheem Rəhmli 2:163; 3:31; 4:100; 5:3
-- #3 Al Malik Hökmdar 20:114; 23:116; 59:23; 62:1
-- #4 Al Quddus Müqəddəs 59:23; 62:1
-- #5 As Salaam Sülh mənbəyi 59:23
-- #6 Al Mu'min İman və təhlükəsizlik bəxş edən 59:23
-- #7 Al Muhaymin Mühafizəkar 59:23
-- #8 Al Azeez Qüdrətli 3:6; 4:158; 9:40; 48:7
-- #9 Al Jabbaar Cəbbar, Məcbur edən 59:23
-- #10 Al Mutakabbir Uca, Böyüklük sahibi 59:23
-- #11 Al Khaaliq Xaliq, Yaradan 6:102; 13:16; 39:62; 40:62; 59:24
-- #12 Al Baari Yaradan, Yoxdan var edən 59:24
-- #13 Al Musawwir Surət verən 59:24
-- #14 Al Ghaffaar Bağışlayan 20:82; 38:66; 39:5; 40:42; 71:10
-- #15 Al Qahhaar Qəhr edən 13:16; 14:48; 38:65; 39:4; 40:16
-- #16 Al Wahhaab Bəxş edən 3:8; 38:9; 38:35
-- #17 Ar Razzaaq Ruzi verən 51:58
-- #18 Al Fattaah Açan, Fəth edən 34:26
-- #19 Al 'Aleem Əlim, Hər şeyi bilən 2:158; 3:92; 4:35; 24:41; 33:40
-- #20 Al Qaabid Qəbz edən 2:245
-- #21 Al Baasit Açan, Genişləndirən 2:245
-- #22 Al Khaafid Alçaldan 95:5
-- #23 Ar Raafi' Ucaldan 58:11; 6:83
-- #24 Al Mu'izz İzzət verən 3:26
-- #25 Al Mudhil Zəlil edən 3:26
-- #26 As Samee' Eşidən 2:127; 2:256; 8:17; 49:1
-- #27 Al Baseer Gözətçi, Görən 4:58; 17:1; 42:11; 42:27
-- #28 Al Hakam Hökm verən 22:69
-- #29 Al Adl Ədalətli 6:115
-- #30 Al Lateef Lətif, İncə rəftar edən 6:103; 22:63; 31:16; 33:34
-- #31 Al Khabeer Xəbərdar, Hər şeydən xəbəri olan 6:18; 17:30; 49:13; 59:18
-- #32 Al Haleem Həlim, Səbirli 2:235; 17:44; 22:59; 35:41
-- #33 Al 'Azeym Əzəmətli 2:255; 42:4; 56:96
-- #34 Al Ghafoor Bağışlayan 2:173; 8:69; 16:110; 41:32
-- #35 Ash Shakoor Şükür edən, Mükafatlandıran 35:30; 35:34; 42:23; 64:17
-- #36 Al Aliyy Uca, Əli 4:34; 31:30; 42:4; 42:51
-- #37 Al Kabeer Böyük, Kəbir 13:9; 22:62; 31:30
-- #38 Al Hafeez Qoruyan 11:57; 34:21; 42:6
-- #39 Al Muqeet Qüvvət verən, Qoruyan 4:85
-- #40 Al Haseeb Haqq-hesab çəkən 4:6; 4:86; 33:39
-- #41 Al Jaleyl Cəlal sahibi 55:27; 39:14; 7:143
-- #42 Al Kareym Kərim, Səxavətli 27:40; 82:6
-- #43 Ar Raqeeb Nəzarətçi, Gözətçi 4:1; 5:117
-- #44 Al Mujeeb Cavab verən 11:61
-- #45 Al Waasi' Geniş, Hər şeyi əhatə edən 2:268; 3:73; 5:54
-- #46 Al Hakeym Hikmət sahibi 31:27; 46:2; 57:1; 66:2
-- #47 Al Wudood Sevgili, Sevən 11:90; 85:14
-- #48 Al Majeed Məcid, Uca 11:73
-- #49 Al Baa'ith Dirildən 22:7
-- #50 Ash Shaheed Şahid 4:166; 22:17; 41:53; 48:28
-- #51 Al Haqq Haqq, Əsl varlıq 6:62; 22:6; 23:116; 24:25
-- #52 Al Wakeyl Vəkil, İşləri idarə edən 3:173; 4:171; 28:28; 73:9
-- #53 Al Qawiyy Qavi, Güclü 22:40; 22:74; 42:19; 57:25
-- #54 Al Mateyn Mətin, Möhkəm 51:58
-- #55 Al Waliyy Dost, Himayədar 4:45; 7:196; 42:28; 45:19
-- #56 Al Hameyd Həmdəlayiq 14:8; 31:12; 31:26; 41:42
-- #57 Al Muhsi Sayan 72:28; 78:29; 82:10-12
-- #58 Al Mubdi Yaradan, Başlanğıc verən 10:34; 27:64; 29:19; 85:13
-- #59 Al Mu'eyd Dirildən 10:34; 27:64; 29:19; 85:13
-- #60 Al Muhyi Dirildən, Həyat verən 7:158; 15:23; 30:50; 57:2
-- #61 Al Mumeet Öldürən 3:156; 7:158; 15:23; 57:2
-- #62 Al Haiyy Hayy, Diri 2:255; 3:2; 25:58; 40:65
-- #63 Al Qayyoom Qəyyum, Hər şeyi idarə edən 2:255; 3:2; 20:111
-- #64 Al Waajid Varlığı bəlli olan, Hər şeyə qadir 38:44
-- #65 Al Maajid Məcid, Şərəfli 11:73
-- #66 Al Waahid Vahid, Tək 2:163; 5:73; 9:31; 18:110
-- #67 Al Ahad Əhəd, Bir 112:1
-- #68 As Samad Səməd, Hər şey Ona möhtac 112:2
-- #69 Al Qaadir Qadir, Gücü çatan 6:65; 36:81; 46:33; 75:40
-- #70 Al Muqtadir Müqtədir, Hər şeyə qadir olan 18:45; 54:42; 54:55
-- #71 Al Muqaddim Önə keçirən 16:61; 17:34
-- #72 Al Mu'akhir Təxirə salan 71:4
-- #73 Al Awwal İlk, Əvvəl 57:3
-- #74 Al Aakhir Axır, Son 57:3
-- #75 Az Zaahir Zahir, Aşkar 57:3
-- #76 Al Baatin Batin, Gizli 57:3
-- #77 Al Waali Hakim, İdarəçi 13:11; 22:7
-- #78 Al Muta'ali Mütəali, Yüksək 13:9
-- #79 Al Barr Xeyir sahibi 52:28
-- #80 At Tawwaab Tövbə qəbul edən 2:128; 4:64; 49:12; 110:3
-- #81 Al Muntaqim İntiqam alan 32:22; 43:41; 44:16
-- #82 Al Afuww Əfv edən, Bağışlayan 4:99; 4:149; 22:60
-- #83 Ar Ra'oof Rəuf, Mehriban 3:30; 9:117; 57:9; 59:10
-- #84 Maalik Ul Mulk Mülkün sahibi 3:26
-- #85 Dhu Al Jalaali Wa Al Ikraam Cəlal və kram sahibi 55:27; 55:78
-- #86 Al Muqsit Ədalətli 3:18; 7:29
-- #87 Al Jaami' Toplayan 3:9
-- #88 Al Ghaniyy Qəni, Zəngin, Heç nəyə möhtac olmayan 3:97; 39:7; 47:38; 57:24
-- #89 Al Mughni Zəngin edən 9:28
-- #90 Al Maani' Mani, Əngəl olan 67:21
-- #91 Ad Daaarr Zərər yetirən 6:17
-- #92 An Naafi' Fayda verən 30:37
-- #93 An Noor Nur, İşıq 24:35
-- #94 Al Haadi Hidayət verən, Yol göstərən 25:31
-- #95 Al Badi' Bədii, Yaradan, Yoxdan var edən 2:117; 6:101
-- #96 Al Baaqi Baqi, Əbədi 55:27
-- #97 Al Waarith Varisi, Varis 15:23
-- #98 Ar Rasheed Rəşid, Doğru yola yönəldən 2:256
-- #99 As Saboor Səbur, Səbirli 2:153; 3:200; 103:3
+- #1 Ar Rahmaan (Mərhəmətli) 1:3; 17:110
+- #2 Ar Raheem (Rəhmli) 2:163; 3:31; 4:100; 5:3
+- #3 Al Malik (Hökmdar) 20:114; 23:116; 59:23; 62:1
+- #4 Al Quddus (Müqəddəs) 59:23; 62:1
+- #5 As Salaam (Sülh mənbəyi) 59:23
+- #6 Al Mu'min (İman və təhlükəsizlik bəxş edən) 59:23
+- #7 Al Muhaymin (Mühafizəkar) 59:23
+- #8 Al Azeez (Qüdrətli) 3:6; 4:158; 9:40; 48:7
+- #9 Al Jabbaar (Cəbbar, Məcbur edən) 59:23
+- #10 Al Mutakabbir (Uca, Böyüklük sahibi) 59:23
+- #11 Al Khaaliq (Xaliq, Yaradan) 6:102; 13:16; 39:62; 40:62; 59:24
+- #12 Al Baari (Yaradan, Yoxdan var edən) 59:24
+- #13 Al Musawwir (Surət verən) 59:24
+- #14 Al Ghaffaar (Bağışlayan) 20:82; 38:66; 39:5; 40:42; 71:10
+- #15 Al Qahhaar (Qəhr edən) 13:16; 14:48; 38:65; 39:4; 40:16
+- #16 Al Wahhaab (Bəxş edən) 3:8; 38:9; 38:35
+- #17 Ar Razzaaq (Ruzi verən) 51:58
+- #18 Al Fattaah (Açan, Fəth edən) 34:26
+- #19 Al 'Aleem (Əlim, Hər şeyi bilən) 2:158; 3:92; 4:35; 24:41; 33:40
+- #20 Al Qaabid (Qəbz edən) 2:245
+- #21 Al Baasit (Açan, Genişləndirən) 2:245
+- #22 Al Khaafid (Alçaldan) 95:5
+- #23 Ar Raafi' (Ucaldan) 58:11; 6:83
+- #24 Al Mu'izz (İzzət verən) 3:26
+- #25 Al Mudhil (Zəlil edən) 3:26
+- #26 As Samee' (Eşidən) 2:127; 2:256; 8:17; 49:1
+- #27 Al Baseer (Gözətçi, Görən) 4:58; 17:1; 42:11; 42:27
+- #28 Al Hakam (Hökm verən) 22:69
+- #29 Al Adl (Ədalətli) 6:115
+- #30 Al Lateef (Lətif, İncə rəftar edən) 6:103; 22:63; 31:16; 33:34
+- #31 Al Khabeer (Xəbərdar, Hər şeydən xəbəri olan) 6:18; 17:30; 49:13; 59:18
+- #32 Al Haleem (Həlim, Səbirli) 2:235; 17:44; 22:59; 35:41
+- #33 Al 'Azeym (Əzəmətli) 2:255; 42:4; 56:96
+- #34 Al Ghafoor (Bağışlayan) 2:173; 8:69; 16:110; 41:32
+- #35 Ash Shakoor (Şükür edən, Mükafatlandıran) 35:30; 35:34; 42:23; 64:17
+- #36 Al Aliyy (Uca, Əli) 4:34; 31:30; 42:4; 42:51
+- #37 Al Kabeer (Böyük, Kəbir) 13:9; 22:62; 31:30
+- #38 Al Hafeez (Qoruyan) 11:57; 34:21; 42:6
+- #39 Al Muqeet (Qüvvət verən, Qoruyan) 4:85
+- #40 Al Haseeb (Haqq-hesab çəkən) 4:6; 4:86; 33:39
+- #41 Al Jaleyl (Cəlal sahibi) 55:27; 39:14; 7:143
+- #42 Al Kareym (Kərim, Səxavətli) 27:40; 82:6
+- #43 Ar Raqeeb (Nəzarətçi, Gözətçi) 4:1; 5:117
+- #44 Al Mujeeb (Cavab verən) 11:61
+- #45 Al Waasi' (Geniş, Hər şeyi əhatə edən) 2:268; 3:73; 5:54
+- #46 Al Hakeym (Hikmət sahibi) 31:27; 46:2; 57:1; 66:2
+- #47 Al Wudood (Sevgili, Sevən) 11:90; 85:14
+- #48 Al Majeed (Məcid, Uca) 11:73
+- #49 Al Baa'ith (Dirildən) 22:7
+- #50 Ash Shaheed (Şahid) 4:166; 22:17; 41:53; 48:28
+- #51 Al Haqq (Haqq, Əsl varlıq) 6:62; 22:6; 23:116; 24:25
+- #52 Al Wakeyl (Vəkil, İşləri idarə edən) 3:173; 4:171; 28:28; 73:9
+- #53 Al Qawiyy (Qavi, Güclü) 22:40; 22:74; 42:19; 57:25
+- #54 Al Mateyn (Mətin, Möhkəm) 51:58
+- #55 Al Waliyy (Dost, Himayədar) 4:45; 7:196; 42:28; 45:19
+- #56 Al Hameyd (Həmdəlayiq) 14:8; 31:12; 31:26; 41:42
+- #57 Al Muhsi (Sayan) 72:28; 78:29; 82:10-12
+- #58 Al Mubdi (Yaradan, Başlanğıc verən) 10:34; 27:64; 29:19; 85:13
+- #59 Al Mu'eyd (Dirildən) 10:34; 27:64; 29:19; 85:13
+- #60 Al Muhyi (Dirildən, Həyat verən) 7:158; 15:23; 30:50; 57:2
+- #61 Al Mumeet (Öldürən) 3:156; 7:158; 15:23; 57:2
+- #62 Al Haiyy (Hayy, Diri) 2:255; 3:2; 25:58; 40:65
+- #63 Al Qayyoom (Qəyyum, Hər şeyi idarə edən) 2:255; 3:2; 20:111
+- #64 Al Waajid (Varlığı bəlli olan, Hər şeyə qadir) 38:44
+- #65 Al Maajid (Məcid, Şərəfli) 11:73
+- #66 Al Waahid (Vahid, Tək) 2:163; 5:73; 9:31; 18:110
+- #67 Al Ahad (Əhəd, Bir) 112:1
+- #68 As Samad (Səməd, Hər şey Ona möhtac) 112:2
+- #69 Al Qaadir (Qadir, Gücü çatan) 6:65; 36:81; 46:33; 75:40
+- #70 Al Muqtadir (Müqtədir, Hər şeyə qadir olan) 18:45; 54:42; 54:55
+- #71 Al Muqaddim (Önə keçirən) 16:61; 17:34
+- #72 Al Mu'akhir (Təxirə salan) 71:4
+- #73 Al Awwal (İlk, Əvvəl) 57:3
+- #74 Al Aakhir (Axır, Son) 57:3
+- #75 Az Zaahir (Zahir, Aşkar) 57:3
+- #76 Al Baatin (Batin, Gizli) 57:3
+- #77 Al Waali (Hakim, İdarəçi) 13:11; 22:7
+- #78 Al Muta'ali (Mütəali, Yüksək) 13:9
+- #79 Al Barr (Xeyir sahibi) 52:28
+- #80 At Tawwaab (Tövbə qəbul edən) 2:128; 4:64; 49:12; 110:3
+- #81 Al Muntaqim (İntiqam alan) 32:22; 43:41; 44:16
+- #82 Al Afuww (Əfv edən, Bağışlayan) 4:99; 4:149; 22:60
+- #83 Ar Ra'oof (Rəuf, Mehriban) 3:30; 9:117; 57:9; 59:10
+- #84 Maalik Ul Mulk (Mülkün sahibi) 3:26
+- #85 Dhu Al Jalaali Wa Al Ikraam (Cəlal və kram sahibi) 55:27; 55:78
+- #86 Al Muqsit (Ədalətli) 3:18; 7:29
+- #87 Al Jaami' (Toplayan) 3:9
+- #88 Al Ghaniyy (Qəni, Zəngin, Heç nəyə möhtac olmayan) 3:97; 39:7; 47:38; 57:24
+- #89 Al Mughni (Zəngin edən) 9:28
+- #90 Al Maani' (Mani, Əngəl olan) 67:21
+- #91 Ad Daaarr (Zərər yetirən) 6:17
+- #92 An Naafi' (Fayda verən) 30:37
+- #93 An Noor (Nur, İşıq) 24:35
+- #94 Al Haadi (Hidayət verən, Yol göstərən) 25:31
+- #95 Al Badi' (Bədii, Yaradan, Yoxdan var edən) 2:117; 6:101
+- #96 Al Baaqi (Baqi, Əbədi) 55:27
+- #97 Al Waarith (Varisi, Varis) 15:23
+- #98 Ar Rasheed (Rəşid, Doğru yola yönəldən) 2:256
+- #99 As Saboor (Səbur, Səbirli) 2:153; 3:200; 103:3
 Matching Ayahs
 - = Əlif, Lam, Mim. 2:1; 3:1; 29:1; 30:1; 31:1; 32:1
 - = Onlar öz Rəbbindən gələn doğru yoldadırlar və məhz onlar nicat tapanlardır. 2:5; 31:5

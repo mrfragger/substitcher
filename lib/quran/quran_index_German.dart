@@ -2650,105 +2650,105 @@ Rub (1/8)
 - Rub 240 100:9-11; 101:1-11; 102:1-8; 103:1-3; 104:1-9; 105:1-5; 106:1-4; 107:1-7; 108:1-3; 109:1-6; 110:1-3; 111:1-5; 112:1-4; 113:1-5; 114:1-6
 The 99 Names of Allah
 - #0 Best of Names 7:180; 17:110; 20:8; 59:22-24
-- #1 Ar Rahmaan der Erbarmer 1:3; 17:110
-- #2 Ar Raheem 	der Barmherzige 2:163; 3:31; 4:100; 5:3
-- #3 Al Malik 	der König 20:114; 23:116; 59:23; 62:1
-- #4 Al Quddus 	der Heilige 59:23; 62:1
-- #5 As Salaam 	der Frieden 59:23
-- #6 Al Mu'min 	der Wahrer der Sicherheit 59:23
-- #7 Al Muhaymin 	der Beschützer und Bewacher 59:23
-- #8 Al Azeez 	der Erhabene, der Ehrwürdige 3:6; 4:158; 9:40; 48:7
-- #9 Al Jabbaar 	der Allgewaltige 59:23
-- #10 Al Mutakabbir 	der Vornehme, der Stolze 59:23
-- #11 Al Khaaliq 	der Schöpfer 6:102; 13:16; 39:62; 40:62; 59:24
-- #12 Al Baari 	der Schaffende 59:24
-- #13 Al Musawwir 	der Formende (der jedem Ding seine Form Gebende) 59:24
-- #14 Al Ghaffaar 	der Verzeiher 20:82; 38:66; 39:5; 40:42; 71:10
-- #15 Al Qahhaar 	der Alles-Bezwinger 13:16; 14:48; 38:65; 39:4; 40:16
-- #16 Al Wahhaab 	der Geber und Verleiher 3:8; 38:9; 38:35
-- #17 Ar Razzaaq 	der Versorger 51:58
-- #18 Al Fattaah 	der Öffnende 34:26
-- #19 Al 'Aleem 	der Allwissende 2:158; 3:92; 4:35; 24:41; 33:40
-- #20 Al Qaabid 	der die Gaben nach Seinem Ermessen zurückhält 2:245
-- #21 Al Baasit   der diese Gaben aber auch ausreichend und großzügig gewährt  2:245
-- #22 Al Khaafid  der Erniedriger der Hochmütigen und zu Unrecht Stolzen 95:5
-- #23 Ar Raafi'   der Erhöher der Demütigen und Bescheidenen 58:11; 6:83
-- #24 Al Mu'izz   der Verleiher von wirklicher Ehre  3:26
-- #25 Al Mudhil   der Demütiger der Unterdrücker ihrer Mitmenschen  3:26
-- #26 As Samee'   der Hörende 2:127; 2:256; 8:17; 49:1
-- #27 Al Baseer   der Sehende  4:58; 17:1; 42:11; 42:27
-- #28 Al Hakam    der Richter 22:69
-- #29 Al Adl      der Gerechte  6:115
-- #30 Al Lateef   der das Feinste in allen Dimensionen erfasst, der Feinfühlige, der Gütige 6:103; 22:63; 31:16; 33:34
-- #31 Al Khabeer  der Kundige, der um die kleinsten Rechnungen des Herzens Wissende 6:18; 17:30; 49:13; 59:18
-- #32 Al Haleem   der Nachsichtige, der Mitfühlende  2:235; 17:44; 22:59; 35:41
-- #33 Al 'Azeem   der Großartige, der Erhabene 2:255; 42:4; 56:96
-- #34 Al Ghafoor  der immer wieder Verzeihende  2:173; 8:69; 16:110; 41:32
-- #35 Ash Shakoor der Dankbare  35:30; 35:34; 42:23; 64:17
-- #36 Al Aliyy    der Höchste 4:34; 31:30; 42:4; 42:51
-- #37 Al Kabeer   der Große  13:9; 22:62; 31:30
-- #38 Al Hafeez   der Bewahrer, der Erhalter 11:57; 34:21; 42:6
-- #39 Al Muqeet   der Ernährende 4:85
-- #40 Al Haseeb   der Berechnende  4:6; 4:86; 33:39
-- #41 Al Jaleel   der Majestätische  55:27; 39:14; 7:143
-- #42 Al Kareem   der Ehrenvolle, der Großzügige  27:40; 82:6
-- #43 Ar Raqeeb   der Wachsame  4:1; 5:117
-- #44 Al Mujeeb   der Erhörer der Gebete 11:61
-- #45 Al Waasi'   der Allgegenwärtige 2:268; 3:73; 5:54
-- #46 Al Hakeem   der Weise  31:27; 46:2; 57:1; 66:2
-- #47 Al Wudood   der Liebevolle, der alles mit seiner Liebe Umfassende 11:90; 85:14
-- #48 Al Majeed   der Glorreiche  11:73
-- #49 Al Baa'ith  der die Menschen am jüngsten Tag wieder zum Leben erwecken wird 22:7
-- #50 Ash Shaheed der Zeuge 4:166; 22:17; 41:53; 48:28
-- #51 Al Haqq     der Wahre 6:62; 22:6; 23:116; 24:25
-- #52 Al Wakeel   der Vertrauenswürdige, der Helfer und Bewacher 3:173; 4:171; 28:28; 73:9
-- #53 Al Qawiyy   der Starke  22:40; 22:74; 42:19; 57:25
-- #54 Al Mateen   der Feste, der Dauerhafte, der einzig wirklich Starke  51:58
-- #55 Al Waliyy   der Schutzherr eines jeden, der seinen Schutz und seine Leitung braucht 4:45; 7:196; 42:28; 45:19
-- #56 Al Hameed   der Preiswürdige, dem aller Dank gehört  14:8; 31:12; 31:26; 41:42
-- #57 Al Muhsi    der alles Aufzeichnende 72:28; 78:29; 82:10-12
-- #58 Al Mubdi    der Beginnende, der Urheber alles Geschaffenen aus dem Nichts 10:34; 27:64; 29:19; 85:13
-- #59 Al Mu'eed   der Wiederholende, der alles wieder zum Leben erwecken wird 10:34; 27:64; 29:19; 85:13
-- #60 Al Muhiy    der Lebenspendende 7:158; 15:23; 30:50; 57:2
-- #61 Al Mumeet   der Tötende (in dessen Hand der Tod ist)  3:156; 7:158; 15:23; 57:2
-- #62 Al Haiyy    der Lebendige 2:255; 3:2; 25:58; 40:65
-- #63 Al Qayyoom  der allein Stehende, der Ewige 2:255; 3:2; 20:111
-- #64 Al Waajid   der alles Bekommende und Findende 38:44
-- #65 Al Maajid   der Ruhmvolle 11:73
-- #66 Al Waahid   der Eine 2:163; 5:73; 9:31; 18:110
-- #67 Al Ahad     der Einzige  112:1
-- #68 As Samad    der von allem und jedem Unabhängige   112:2
-- #69 Al Qaadir   der Mächtige  6:65; 36:81; 46:33; 75:40
-- #70 Al Muqtadir der alles Bestimmende  18:45; 54:42; 54:55
-- #71 Al Muqaddim der Voranstellende 16:61; 17:34
-- #72 Al Mu’akhir der Aufschiebende  71:4
-- #73 Al Awwal    Der Erste ohne Beginn 57:3
-- #74 Al Aakhir   der Letzte ohne Ende 57:3
-- #75 Az Zaahir   der Offenbare, auf dessen Existenz alles Geschaffene klar hinweist  57:3
-- #76 Al Baatin   der Verborgene, den niemand wirklich begreifen kann 57:3
-- #77 Al Waali    der einzige und absolute Herrscher  13:11; 22:7
-- #78 Al Muta’ali der Reine, der Hohe 13:9
-- #79 Al Barr     der Gute 52:28
-- #80 At Tawwaab  der die Reue seiner Diener Annehmende 2:128; 4:64; 49:12; 110:3
-- #81 Al Muntaqim der gerechte Vergelter 32:22; 43:41; 44:16
-- #82 Al Afuww    der Vergeber der Sünden 4:99; 4:149; 22:60
-- #83 Ar Ra’oof   der Mitleidige 3:30; 9:117; 57:9; 59:10
-- #84 Maalik Ul Mulk  der Inhaber der (königlichen) Souveränität/Macht 3:26
-- #85 Dhu Al Jalaali Wa Al Ikraam,  derjenige, dem Majestät und Ehre gebühren 55:27; 55:78
-- #86 Al Muqsit   der unparteiisch Richtende 3:18; 7:29
-- #87 Al Jaami'   der Versammelnde, der alle Menschen am jüngsten Tag versammeln wird  3:9
-- #88 Al Ghaniyy  der Reiche, der niemanden braucht 3:97; 39:7; 47:38; 57:24
-- #89 Al Mughni   der Verleiher der Reichtümer  9:28
-- #90 Al Maani'   der Zurückweisende, der Hindernde 67:21
-- #91 Ad Daaarr   der Schaden Zufügende 6:17
-- #92 An Naafi’   der Vorteil Gebende  30:37
-- #93 An Noor     das Licht 24:35
-- #94 Al Haadi    der Leitung Gebende 25:31
-- #95 Al Badi'    der Schöpfer des Neuen  2:117; 6:101
-- #96 Al Baaqi    der ewig Bleibende 55:27
-- #97 Al Waarith  der einzige Erbe, denn außer ihm ist nichts beständig 15:23
-- #98 Ar Rasheed  der Führung Gebende 2:256
-- #99 As Saboor   der Geduldige 2:153; 3:200; 103:3
+- #1 Ar Rahmaan (der Erbarmer) 1:3; 17:110
+- #2 Ar Raheem (der Barmherzige) 2:163; 3:31; 4:100; 5:3
+- #3 Al Malik (der König) 20:114; 23:116; 59:23; 62:1
+- #4 Al Quddus (der Heilige) 59:23; 62:1
+- #5 As Salaam (der Frieden) 59:23
+- #6 Al Mu'min (der Wahrer der Sicherheit) 59:23
+- #7 Al Muhaymin (der Beschützer und Bewacher) 59:23
+- #8 Al Azeez (der Erhabene, der Ehrwürdige) 3:6; 4:158; 9:40; 48:7
+- #9 Al Jabbaar (der Allgewaltige) 59:23
+- #10 Al Mutakabbir (der Vornehme, der Stolze) 59:23
+- #11 Al Khaaliq (der Schöpfer) 6:102; 13:16; 39:62; 40:62; 59:24
+- #12 Al Baari (der Schaffende) 59:24
+- #13 Al Musawwir (der Formende (der jedem Ding seine Form Gebende)) 59:24
+- #14 Al Ghaffaar (der Verzeiher) 20:82; 38:66; 39:5; 40:42; 71:10
+- #15 Al Qahhaar (der Alles-Bezwinger) 13:16; 14:48; 38:65; 39:4; 40:16
+- #16 Al Wahhaab (der Geber und Verleiher) 3:8; 38:9; 38:35
+- #17 Ar Razzaaq (der Versorger) 51:58
+- #18 Al Fattaah (der Öffnende) 34:26
+- #19 Al 'Aleem (der Allwissende) 2:158; 3:92; 4:35; 24:41; 33:40
+- #20 Al Qaabid (der die Gaben nach Seinem Ermessen zurückhält) 2:245
+- #21 Al Baasit (der diese Gaben aber auch ausreichend und großzügig gewährt) 2:245
+- #22 Al Khaafid (der Erniedriger der Hochmütigen und zu Unrecht Stolzen) 95:5
+- #23 Ar Raafi' (der Erhöher der Demütigen und Bescheidenen) 58:11; 6:83
+- #24 Al Mu'izz (der Verleiher von wirklicher Ehre) 3:26
+- #25 Al Mudhil (der Demütiger der Unterdrücker ihrer Mitmenschen) 3:26
+- #26 As Samee' (der Hörende) 2:127; 2:256; 8:17; 49:1
+- #27 Al Baseer (der Sehende) 4:58; 17:1; 42:11; 42:27
+- #28 Al Hakam (der Richter) 22:69
+- #29 Al Adl (der Gerechte) 6:115
+- #30 Al Lateef (der das Feinste in allen Dimensionen erfasst, der Feinfühlige, der Gütige) 6:103; 22:63; 31:16; 33:34
+- #31 Al Khabeer (der Kundige, der um die kleinsten Rechnungen des Herzens Wissende) 6:18; 17:30; 49:13; 59:18
+- #32 Al Haleem (der Nachsichtige, der Mitfühlende) 2:235; 17:44; 22:59; 35:41
+- #33 Al 'Azeem (der Großartige, der Erhabene) 2:255; 42:4; 56:96
+- #34 Al Ghafoor (der immer wieder Verzeihende) 2:173; 8:69; 16:110; 41:32
+- #35 Ash Shakoor (der Dankbare) 35:30; 35:34; 42:23; 64:17
+- #36 Al Aliyy (der Höchste) 4:34; 31:30; 42:4; 42:51
+- #37 Al Kabeer (der Große) 13:9; 22:62; 31:30
+- #38 Al Hafeez (der Bewahrer, der Erhalter) 11:57; 34:21; 42:6
+- #39 Al Muqeet (der Ernährende) 4:85
+- #40 Al Haseeb (der Berechnende) 4:6; 4:86; 33:39
+- #41 Al Jaleel (der Majestätische) 55:27; 39:14; 7:143
+- #42 Al Kareem (der Ehrenvolle, der Großzügige) 27:40; 82:6
+- #43 Ar Raqeeb (der Wachsame) 4:1; 5:117
+- #44 Al Mujeeb (der Erhörer der Gebete) 11:61
+- #45 Al Waasi' (der Allgegenwärtige) 2:268; 3:73; 5:54
+- #46 Al Hakeem (der Weise) 31:27; 46:2; 57:1; 66:2
+- #47 Al Wudood (der Liebevolle, der alles mit seiner Liebe Umfassende) 11:90; 85:14
+- #48 Al Majeed (der Glorreiche) 11:73
+- #49 Al Baa'ith (der die Menschen am jüngsten Tag wieder zum Leben erwecken wird) 22:7
+- #50 Ash Shaheed (der Zeuge) 4:166; 22:17; 41:53; 48:28
+- #51 Al Haqq (der Wahre) 6:62; 22:6; 23:116; 24:25
+- #52 Al Wakeel (der Vertrauenswürdige, der Helfer und Bewacher) 3:173; 4:171; 28:28; 73:9
+- #53 Al Qawiyy (der Starke) 22:40; 22:74; 42:19; 57:25
+- #54 Al Mateen (der Feste, der Dauerhafte, der einzig wirklich Starke) 51:58
+- #55 Al Waliyy (der Schutzherr eines jeden, der seinen Schutz und seine Leitung braucht) 4:45; 7:196; 42:28; 45:19
+- #56 Al Hameed (der Preiswürdige, dem aller Dank gehört) 14:8; 31:12; 31:26; 41:42
+- #57 Al Muhsi (der alles Aufzeichnende) 72:28; 78:29; 82:10-12
+- #58 Al Mubdi (der Beginnende, der Urheber alles Geschaffenen aus dem Nichts) 10:34; 27:64; 29:19; 85:13
+- #59 Al Mu'eed (der Wiederholende, der alles wieder zum Leben erwecken wird) 10:34; 27:64; 29:19; 85:13
+- #60 Al Muhiy (der Lebenspendende) 7:158; 15:23; 30:50; 57:2
+- #61 Al Mumeet (der Tötende (in dessen Hand der Tod ist)) 3:156; 7:158; 15:23; 57:2
+- #62 Al Haiyy (der Lebendige) 2:255; 3:2; 25:58; 40:65
+- #63 Al Qayyoom (der allein Stehende, der Ewige) 2:255; 3:2; 20:111
+- #64 Al Waajid (der alles Bekommende und Findende) 38:44
+- #65 Al Maajid (der Ruhmvolle) 11:73
+- #66 Al Waahid (der Eine) 2:163; 5:73; 9:31; 18:110
+- #67 Al Ahad (der Einzige) 112:1
+- #68 As Samad (der von allem und jedem Unabhängige) 112:2
+- #69 Al Qaadir (der Mächtige) 6:65; 36:81; 46:33; 75:40
+- #70 Al Muqtadir (der alles Bestimmende) 18:45; 54:42; 54:55
+- #71 Al Muqaddim (der Voranstellende) 16:61; 17:34
+- #72 Al Mu'akhir (der Aufschiebende) 71:4
+- #73 Al Awwal (Der Erste ohne Beginn) 57:3
+- #74 Al Aakhir (der Letzte ohne Ende) 57:3
+- #75 Az Zaahir (der Offenbare, auf dessen Existenz alles Geschaffene klar hinweist) 57:3
+- #76 Al Baatin (der Verborgene, den niemand wirklich begreifen kann) 57:3
+- #77 Al Waali (der einzige und absolute Herrscher) 13:11; 22:7
+- #78 Al Muta'ali (der Reine, der Hohe) 13:9
+- #79 Al Barr (der Gute) 52:28
+- #80 At Tawwaab (der die Reue seiner Diener Annehmende) 2:128; 4:64; 49:12; 110:3
+- #81 Al Muntaqim (der gerechte Vergelter) 32:22; 43:41; 44:16
+- #82 Al Afuww (der Vergeber der Sünden) 4:99; 4:149; 22:60
+- #83 Ar Ra'oof (der Mitleidige) 3:30; 9:117; 57:9; 59:10
+- #84 Maalik Ul Mulk (der Inhaber der (königlichen) Souveränität/Macht) 3:26
+- #85 Dhu Al Jalaali Wa Al Ikraam (derjenige, dem Majestät und Ehre gebühren) 55:27; 55:78
+- #86 Al Muqsit (der unparteiisch Richtende) 3:18; 7:29
+- #87 Al Jaami' (der Versammelnde, der alle Menschen am jüngsten Tag versammeln wird) 3:9
+- #88 Al Ghaniyy (der Reiche, der niemanden braucht) 3:97; 39:7; 47:38; 57:24
+- #89 Al Mughni (der Verleiher der Reichtümer) 9:28
+- #90 Al Maani' (der Zurückweisende, der Hindernde) 67:21
+- #91 Ad Daaarr (der Schaden Zufügende) 6:17
+- #92 An Naafi' (der Vorteil Gebende) 30:37
+- #93 An Noor (das Licht) 24:35
+- #94 Al Haadi (der Leitung Gebende) 25:31
+- #95 Al Badi' (der Schöpfer des Neuen) 2:117; 6:101
+- #96 Al Baaqi (der ewig Bleibende) 55:27
+- #97 Al Waarith (der einzige Erbe, denn außer ihm ist nichts beständig) 15:23
+- #98 Ar Rasheed (der Führung Gebende) 2:256
+- #99 As Saboor (der Geduldige) 2:153; 3:200; 103:3
 Matching Ayahs
 - = Alif, Lām, Mīm. 2:1; 3:1; 29:1; 30:1; 31:1; 32:1
 - = Diese sind der Rechtleitung ihres Herrn folgend, und diese sind die Erfolgreichen. 2:5; 31:5

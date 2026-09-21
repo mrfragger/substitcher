@@ -2694,105 +2694,105 @@ Rub (1/8)
 - Rub 240 100:9-11; 101:1-11; 102:1-8; 103:1-3; 104:1-9; 105:1-5; 106:1-4; 107:1-7; 108:1-3; 109:1-6; 110:1-3; 111:1-5; 112:1-4; 113:1-5; 114:1-6
 The 99 Names of Allah
 - #0 Best of Names 7:180; 17:110; 20:8; 59:22-24
-- #1 Ar Rahmaan Mmͻborͻ Hene 1:3; 17:110
-- #2 Ar Raheem Mmͻborͻ Hene 2:163; 3:31; 4:100; 5:3
-- #3 Al Malik Ɔhene 20:114; 23:116; 59:23; 62:1
-- #4 Al Quddus Kronkron 59:23; 62:1
-- #5 As Salaam Asomdwee Hene 59:23
-- #6 Al Mu'min Gyedifoͻ 59:23
-- #7 Al Muhaymin Bͻbͻͻbͻ 59:23
-- #8 Al Azeez Otumfoͻ 3:6; 4:158; 9:40; 48:7
-- #9 Al Jabbaar Tumfoͻ 59:23
-- #10 Al Mutakabbir Kεseε Hene 59:23
-- #11 Al Khaaliq Bͻadeε 6:102; 13:16; 39:62; 40:62; 59:24
-- #12 Al Baari Bͻadeε 59:24
-- #13 Al Musawwir Bͻadeε 59:24
-- #14 Al Ghaffaar Bͻnefakyε Hene 20:82; 38:66; 39:5; 40:42; 71:10
-- #15 Al Qahhaar Nkonimdifoͻ 13:16; 14:48; 38:65; 39:4; 40:16
-- #16 Al Wahhaab Akyεdeε Hene 3:8; 38:9; 38:35
-- #17 Ar Razzaaq Ɔpεnkͻ 51:58
-- #18 Al Fattaah Buefoͻ 34:26
-- #19 Al 'Aleem Nimdefoͻ 2:158; 3:92; 4:35; 24:41; 33:40
-- #20 Al Qaabid Soafoͻ 2:245
-- #21 Al Baasit Tεafoͻ 2:245
-- #22 Al Khaafid Brεfoͻ 95:5
-- #23 Ar Raafi' Maaso 58:11; 6:83
-- #24 Al Mu'izz Animuonyam Hene 3:26
-- #25 Al Mudhil Animguaseε Hene 3:26
-- #26 As Samee' Tiefoͻ 2:127; 2:256; 8:17; 49:1
-- #27 Al Baseer Hwεfoͻ 4:58; 17:1; 42:11; 42:27
-- #28 Al Hakam Atemmufoͻ 22:69
-- #29 Al Adl Teneneeni 6:115
-- #30 Al Lateef Mmerεnefoͻ 6:103; 22:63; 31:16; 33:34
-- #31 Al Khabeer Nimdefoͻ 6:18; 17:30; 49:13; 59:18
-- #32 Al Haleem Ntoboaseε Hene 2:235; 17:44; 22:59; 35:41
-- #33 Al 'Azeem Kεseε Hene 2:255; 42:4; 56:96
-- #34 Al Ghafoor Bͻnefakyε Hene 2:173; 8:69; 16:110; 41:32
-- #35 Ash Shakoor Otanfoͻ 35:30; 35:34; 42:23; 64:17
-- #36 Al Aliyy Ɔsoro Hene 4:34; 31:30; 42:4; 42:51
-- #37 Al Kabeer Kεseε Hene 13:9; 22:62; 31:30
-- #38 Al Hafeez Bͻfoͻ 11:57; 34:21; 42:6
-- #39 Al Muqeet Ɔpεnkͻ 4:85
-- #40 Al Haseeb Akontaafoͻ 4:6; 4:86; 33:39
-- #41 Al Jaleel Animuonyam Hene 55:27; 39:14; 7:143
-- #42 Al Kareem Nsεm Hene 27:40; 82:6
-- #43 Ar Raqeeb Hwεfoͻ 4:1; 5:117
-- #44 Al Mujeeb Tie Hene 11:61
-- #45 Al Waasi' Nsεm Hene 2:268; 3:73; 5:54
-- #46 Al Hakeem Nyansa Hene 31:27; 46:2; 57:1; 66:2
-- #47 Al Wudood Dͻ Hene 11:90; 85:14
-- #48 Al Majeed Animuonyam Hene 11:73
-- #49 Al Baa'ith Nyanfoͻ 22:7
-- #50 Ash Shaheed Adaseni 4:166; 22:17; 41:53; 48:28
-- #51 Al Haqq Nokware Hene 6:62; 22:6; 23:116; 24:25
-- #52 Al Wakeel Bͻfoͻ 3:173; 4:171; 28:28; 73:9
-- #53 Al Qawiyy Otumfoͻ 22:40; 22:74; 42:19; 57:25
-- #54 Al Mateen Otumfoͻ 51:58
-- #55 Al Waliyy Bͻfoͻ 4:45; 7:196; 42:28; 45:19
-- #56 Al Hameed Ayεyε Hene 14:8; 31:12; 31:26; 41:42
-- #57 Al Muhsi Akontaafoͻ 72:28; 78:29; 82:10-12
-- #58 Al Mubdi Bͻadeε 10:34; 27:64; 29:19; 85:13
-- #59 Al Mu'eed Bͻadeε 10:34; 27:64; 29:19; 85:13
-- #60 Al Muhiy Nkwa Hene 7:158; 15:23; 30:50; 57:2
-- #61 Al Mumeet Owu Hene 3:156; 7:158; 15:23; 57:2
-- #62 Al Haiyy Nkwa Hene 2:255; 3:2; 25:58; 40:65
-- #63 Al Qayyoom Tenafoͻ 2:255; 3:2; 20:111
-- #64 Al Waajid Hwεfoͻ 38:44
-- #65 Al Maajid Animuonyam Hene 11:73
-- #66 Al Waahid Baako 2:163; 5:73; 9:31; 18:110
-- #67 Al Ahad Baako 112:1
-- #68 As Samad Nyinaa Hene 112:2
-- #69 Al Qaadir Tumfoͻ 6:65; 36:81; 46:33; 75:40
-- #70 Al Muqtadir Tumfoͻ 18:45; 54:42; 54:55
-- #71 Al Muqaddim Kanfoͻ 16:61; 17:34
-- #72 Al Mu'akhir Kyerefoͻ 71:4
-- #73 Al Awwal Kanfoͻ 57:3
-- #74 Al Aakhir Kyerefoͻ 57:3
-- #75 Az Zaahir Adi Hene 57:3
-- #76 Al Baatin Sumina Hene 57:3
-- #77 Al Waali Bͻfoͻ 13:11; 22:7
-- #78 Al Muta'ali Ɔsoro Hene 13:9
-- #79 Al Barr Papa Hene 52:28
-- #80 At Tawwaab Bͻnefakyε Hene 2:128; 4:64; 49:12; 110:3
-- #81 Al Muntaqim Twetwefoͻ 32:22; 43:41; 44:16
-- #82 Al Afuww Bͻnefakyε Hene 4:99; 4:149; 22:60
-- #83 Ar Ra'oof Mmͻborͻ Hene 3:30; 9:117; 57:9; 59:10
-- #84 Maalik Ul Mulk Ahennie Hene 3:26
-- #85 Dhu Al Jalaali Wa Al Ikraam Animuonyam ne Nsεm Hene 55:27; 55:78
-- #86 Al Muqsit Teneneeni 3:18; 7:29
-- #87 Al Jaami' Boafoͻ 3:9
-- #88 Al Ghaniyy Nyinaa Hene 3:97; 39:7; 47:38; 57:24
-- #89 Al Mughni Nyinaa Hene 9:28
-- #90 Al Maani' Kyerefoͻ 67:21
-- #91 Ad Daaarr Haw Hene 6:17
-- #92 An Naafi' Papa Hene 30:37
-- #93 An Noor Ɔhaw 24:35
-- #94 Al Haadi Kwan Hene 25:31
-- #95 Al Badi' Bͻadeε 2:117; 6:101
-- #96 Al Baaqi Tenafoͻ 55:27
-- #97 Al Waarith Gyedifoͻ 15:23
-- #98 Ar Rasheed Kwan Hene 2:256
-- #99 As Saboor Ntoboaseε Hene 2:153; 3:200; 103:3
+- #1 Ar Rahmaan (Mmͻborͻ Hene) 1:3; 17:110
+- #2 Ar Raheem (Mmͻborͻ Hene) 2:163; 3:31; 4:100; 5:3
+- #3 Al Malik (Ɔhene) 20:114; 23:116; 59:23; 62:1
+- #4 Al Quddus (Kronkron) 59:23; 62:1
+- #5 As Salaam (Asomdwee Hene) 59:23
+- #6 Al Mu'min (Gyedifoͻ) 59:23
+- #7 Al Muhaymin (Bͻbͻͻbͻ) 59:23
+- #8 Al Azeez (Otumfoͻ) 3:6; 4:158; 9:40; 48:7
+- #9 Al Jabbaar (Tumfoͻ) 59:23
+- #10 Al Mutakabbir (Kεseε Hene) 59:23
+- #11 Al Khaaliq (Bͻadeε) 6:102; 13:16; 39:62; 40:62; 59:24
+- #12 Al Baari (Bͻadeε) 59:24
+- #13 Al Musawwir (Bͻadeε) 59:24
+- #14 Al Ghaffaar (Bͻnefakyε Hene) 20:82; 38:66; 39:5; 40:42; 71:10
+- #15 Al Qahhaar (Nkonimdifoͻ) 13:16; 14:48; 38:65; 39:4; 40:16
+- #16 Al Wahhaab (Akyεdeε Hene) 3:8; 38:9; 38:35
+- #17 Ar Razzaaq (Ɔpεnkͻ) 51:58
+- #18 Al Fattaah (Buefoͻ) 34:26
+- #19 Al 'Aleem (Nimdefoͻ) 2:158; 3:92; 4:35; 24:41; 33:40
+- #20 Al Qaabid (Soafoͻ) 2:245
+- #21 Al Baasit (Tεafoͻ) 2:245
+- #22 Al Khaafid (Brεfoͻ) 95:5
+- #23 Ar Raafi' (Maaso) 58:11; 6:83
+- #24 Al Mu'izz (Animuonyam Hene) 3:26
+- #25 Al Mudhil (Animguaseε Hene) 3:26
+- #26 As Samee' (Tiefoͻ) 2:127; 2:256; 8:17; 49:1
+- #27 Al Baseer (Hwεfoͻ) 4:58; 17:1; 42:11; 42:27
+- #28 Al Hakam (Atemmufoͻ) 22:69
+- #29 Al Adl (Teneneeni) 6:115
+- #30 Al Lateef (Mmerεnefoͻ) 6:103; 22:63; 31:16; 33:34
+- #31 Al Khabeer (Nimdefoͻ) 6:18; 17:30; 49:13; 59:18
+- #32 Al Haleem (Ntoboaseε Hene) 2:235; 17:44; 22:59; 35:41
+- #33 Al 'Azeem (Kεseε Hene) 2:255; 42:4; 56:96
+- #34 Al Ghafoor (Bͻnefakyε Hene) 2:173; 8:69; 16:110; 41:32
+- #35 Ash Shakoor (Otanfoͻ) 35:30; 35:34; 42:23; 64:17
+- #36 Al Aliyy (Ɔsoro Hene) 4:34; 31:30; 42:4; 42:51
+- #37 Al Kabeer (Kεseε Hene) 13:9; 22:62; 31:30
+- #38 Al Hafeez (Bͻfoͻ) 11:57; 34:21; 42:6
+- #39 Al Muqeet (Ɔpεnkͻ) 4:85
+- #40 Al Haseeb (Akontaafoͻ) 4:6; 4:86; 33:39
+- #41 Al Jaleel (Animuonyam Hene) 55:27; 39:14; 7:143
+- #42 Al Kareem (Nsεm Hene) 27:40; 82:6
+- #43 Ar Raqeeb (Hwεfoͻ) 4:1; 5:117
+- #44 Al Mujeeb (Tie Hene) 11:61
+- #45 Al Waasi' (Nsεm Hene) 2:268; 3:73; 5:54
+- #46 Al Hakeem (Nyansa Hene) 31:27; 46:2; 57:1; 66:2
+- #47 Al Wudood (Dͻ Hene) 11:90; 85:14
+- #48 Al Majeed (Animuonyam Hene) 11:73
+- #49 Al Baa'ith (Nyanfoͻ) 22:7
+- #50 Ash Shaheed (Adaseni) 4:166; 22:17; 41:53; 48:28
+- #51 Al Haqq (Nokware Hene) 6:62; 22:6; 23:116; 24:25
+- #52 Al Wakeel (Bͻfoͻ) 3:173; 4:171; 28:28; 73:9
+- #53 Al Qawiyy (Otumfoͻ) 22:40; 22:74; 42:19; 57:25
+- #54 Al Mateen (Otumfoͻ) 51:58
+- #55 Al Waliyy (Bͻfoͻ) 4:45; 7:196; 42:28; 45:19
+- #56 Al Hameed (Ayεyε Hene) 14:8; 31:12; 31:26; 41:42
+- #57 Al Muhsi (Akontaafoͻ) 72:28; 78:29; 82:10-12
+- #58 Al Mubdi (Bͻadeε) 10:34; 27:64; 29:19; 85:13
+- #59 Al Mu'eed (Bͻadeε) 10:34; 27:64; 29:19; 85:13
+- #60 Al Muhiy (Nkwa Hene) 7:158; 15:23; 30:50; 57:2
+- #61 Al Mumeet (Owu Hene) 3:156; 7:158; 15:23; 57:2
+- #62 Al Haiyy (Nkwa Hene) 2:255; 3:2; 25:58; 40:65
+- #63 Al Qayyoom (Tenafoͻ) 2:255; 3:2; 20:111
+- #64 Al Waajid (Hwεfoͻ) 38:44
+- #65 Al Maajid (Animuonyam Hene) 11:73
+- #66 Al Waahid (Baako) 2:163; 5:73; 9:31; 18:110
+- #67 Al Ahad (Baako) 112:1
+- #68 As Samad (Nyinaa Hene) 112:2
+- #69 Al Qaadir (Tumfoͻ) 6:65; 36:81; 46:33; 75:40
+- #70 Al Muqtadir (Tumfoͻ) 18:45; 54:42; 54:55
+- #71 Al Muqaddim (Kanfoͻ) 16:61; 17:34
+- #72 Al Mu'akhir (Kyerefoͻ) 71:4
+- #73 Al Awwal (Kanfoͻ) 57:3
+- #74 Al Aakhir (Kyerefoͻ) 57:3
+- #75 Az Zaahir (Adi Hene) 57:3
+- #76 Al Baatin (Sumina Hene) 57:3
+- #77 Al Waali (Bͻfoͻ) 13:11; 22:7
+- #78 Al Muta'ali (Ɔsoro Hene) 13:9
+- #79 Al Barr (Papa Hene) 52:28
+- #80 At Tawwaab (Bͻnefakyε Hene) 2:128; 4:64; 49:12; 110:3
+- #81 Al Muntaqim (Twetwefoͻ) 32:22; 43:41; 44:16
+- #82 Al Afuww (Bͻnefakyε Hene) 4:99; 4:149; 22:60
+- #83 Ar Ra'oof (Mmͻborͻ Hene) 3:30; 9:117; 57:9; 59:10
+- #84 Maalik Ul Mulk (Ahennie Hene) 3:26
+- #85 Dhu Al Jalaali Wa Al Ikraam (Animuonyam ne Nsεm Hene) 55:27; 55:78
+- #86 Al Muqsit (Teneneeni) 3:18; 7:29
+- #87 Al Jaami' (Boafoͻ) 3:9
+- #88 Al Ghaniyy (Nyinaa Hene) 3:97; 39:7; 47:38; 57:24
+- #89 Al Mughni (Nyinaa Hene) 9:28
+- #90 Al Maani' (Kyerefoͻ) 67:21
+- #91 Ad Daaarr (Haw Hene) 6:17
+- #92 An Naafi' (Papa Hene) 30:37
+- #93 An Noor (Ɔhaw) 24:35
+- #94 Al Haadi (Kwan Hene) 25:31
+- #95 Al Badi' (Bͻadeε) 2:117; 6:101
+- #96 Al Baaqi (Tenafoͻ) 55:27
+- #97 Al Waarith (Gyedifoͻ) 15:23
+- #98 Ar Rasheed (Kwan Hene) 2:256
+- #99 As Saboor (Ntoboaseε Hene) 2:153; 3:200; 103:3
 Matching Ayahs
 - = Alif, Laam, Miim. 2:1; 3:1; 29:1; 30:1; 31:1; 32:1
 - = Eyinom na wɔwɔ kwan tenenee so fi wɔn Wura Nyankopɔn hɔ, na eyinom na wɔyɛ nkonimdifoɔ. 2:5; 31:5

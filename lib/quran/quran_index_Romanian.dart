@@ -2693,105 +2693,105 @@ Rub (1/8)
 - Rub 240 100:9-11; 101:1-11; 102:1-8; 103:1-3; 104:1-9; 105:1-5; 106:1-4; 107:1-7; 108:1-3; 109:1-6; 110:1-3; 111:1-5; 112:1-4; 113:1-5; 114:1-6
 The 99 Names of Allah
 - #0 Best of Names 7:180; 17:110; 20:8; 59:22-24
-- #1 Ar Rahmaan     Milostivul 1:3; 17:110
-- #2 Ar Raheem      Îndurătorul 2:163; 3:31; 4:100; 5:3
-- #3 Al Malik       Stăpânitorul, Stăpânul Tronului / Regele, Stăpânul stăpânirii 20:114; 23:116; 59:23; 62:1
-- #4 Al Quddus      Cel Sfânt 59:23; 62:1
-- #5 As Salaam      Făcătorul de pace 59:23
-- #6 Al Mu'min      Apărătorul Credinței 59:23
-- #7 Al Muhaymin    Veghetorul 59:23
-- #8 Al Azeez       Puternicul / Cel Atotputernic / Cel Tare 3:6; 4:158; 9:40; 48:7
-- #9 Al Jabbaar     Atotputernicul / Temutul 59:23
-- #10 Al Mutakabbir Cel Preaînalt 59:23
-- #11 Al Khaaliq    Făcătorul, Creatorul 6:102; 13:16; 39:62; 40:62; 59:24
-- #12 Al Baari      Creatorul 59:24
-- #13 Al Musawwir   Dătătorul de Chipuri 59:24
-- #14 Al Ghaffaar   Iertătorul, Preaiertătorul / A toate Iertătorul 20:82; 38:66; 39:5; 40:42; 71:10
-- #15 Al Qahhaar    Cel Atotputernic / Biruitorul / Stăpânul Atotputernic / Stăpânul Suprem 13:16; 14:48; 38:65; 39:4; 40:16
-- #16 Al Wahhaab    Dăruitorul / Cel Darnic 3:8; 38:9; 38:35
-- #17 Ar Razzaaq    Întreținătorul 51:58
-- #18 Al Fattaah    Marele Judecător / Deschizătorul 34:26
-- #19 Al 'Aleem     Știutorul / Atoateștiutorul 2:158; 3:92; 4:35; 24:41; 33:40
-- #20 Al Qaabid     Cel ce Întărește / Cel ce Reține 2:245
-- #21 Al Baasit     Eliberatorul / Cel ce permite progresul 2:245
-- #22 Al Khaafid    Coborâtorul / Cel ce doboară / Cel ce umilește pe necredincioși 95:5
-- #23 Ar Raafi'     Înălțătorul / Cel ce Înnobilează, Cel care Glorifică 58:11; 6:83
-- #24 Al Mu'izz     Îndemnătorul / Cel ce cinstește 3:26
-- #25 Al Mudhil     Umilitorul / Cel ce umilește 3:26
-- #26 As Samee'     Cel care Aude Totul 2:127; 2:256; 8:17; 49:1
-- #27 Al Baseer     Cel care Vede Totul / Atoatevăzătorul 4:58; 17:1; 42:11; 42:27
-- #28 Al Hakam      Judecătorul 22:69
-- #29 Al Adl        Dreptatea / Cel Drept 6:115
-- #30 Al Lateef     Cel Blând / Cel Binevoitor 6:103; 22:63; 31:16; 33:34
-- #31 Al Khabeer    Bineștiutorul 6:18; 17:30; 49:13; 59:18
-- #32 Al Haleem     Blândul / Cel ce Îngăduie / Îngăduitorul 2:235; 17:44; 22:59; 35:41
-- #33 Al 'Azeem     Mărețul / Cel Suprem / Cel Magnific 2:255; 42:4; 56:96
-- #34 Al Ghafoor    Iertătorul, Preaiertătorul / A toate Iertătorul 2:173; 8:69; 16:110; 41:32
-- #35 Ash Shakoor   Recunoscătorul / Mulțumitorul / Cel ce Apreciază 35:30; 35:34; 42:23; 64:17
-- #36 Al Aliyy      Cel Înalt / Preaînaltul 4:34; 31:30; 42:4; 42:51
-- #37 Al Kabeer     Mărețul / Cel mai Mare 13:9; 22:62; 31:30
-- #38 Al Hafeez     Atoatepăzitorul / Apărătorul 11:57; 34:21; 42:6
-- #39 Al Muqeet     Cel cu putere peste toate 4:85
-- #40 Al Haseeb     Atoatesocotitorul 4:6; 4:86; 33:39
-- #41 Al Jaleel     Maiestosul / Cel Plin de Slavă 55:27; 39:14; 7:143
-- #42 Al Kareem     Generosul / Cel Generos 27:40; 82:6
-- #43 Ar Raqeeb     Veghetorul / Cel Veghetor 4:1; 5:117
-- #44 Al Mujeeb     Răspunzătorul / Cel ce Răspunde 11:61
-- #45 Al Waasi'     Cuprinzătorul / Cel cu Har Nemărginit 2:268; 3:73; 5:54
-- #46 Al Hakeem     Înțeleptul 31:27; 46:2; 57:1; 66:2
-- #47 Al Wudood     Iubitorul / Cel Plin de Dragoste 11:90; 85:14
-- #48 Al Majeed     Cel Glorios / Cel Vrednic de Glorie 11:73
-- #49 Al Baa'ith    Învietorul / Cel ce Învie 22:7
-- #50 Ash Shaheed   Mărturisitul / Martorul 4:166; 22:17; 41:53; 48:28
-- #51 Al Haqq       Adevărul / Adevărul cel limpede 6:62; 22:6; 23:116; 24:25
-- #52 Al Wakeel     Apărătorul / Ocrotitorul 3:173; 4:171; 28:28; 73:9
-- #53 Al Qawiyy     Cel Puternic / Cel Tare 22:40; 22:74; 42:19; 57:25
-- #54 Al Mateen     Cel Statornic 51:58
-- #55 Al Waliyy     Oblăduitorul / Ocrotitorul 4:45; 7:196; 42:28; 45:19
-- #56 Al Hameed     Cel Vrednic de Laudă 14:8; 31:12; 31:26; 41:42
-- #57 Al Muhsi      Socotitorul / Cel ce Socotește 72:28; 78:29; 82:10-12
-- #58 Al Mubdi      Începătorul / Creatorul 10:34; 27:64; 29:19; 85:13
-- #59 Al Mu'eed     Înapoi-aducătorul / Cel ce Readuce 10:34; 27:64; 29:19; 85:13
-- #60 Al Muhiy      De viață Dătătorul / Dătătorul de viață 7:158; 15:23; 30:50; 57:2
-- #61 Al Mumeet     De moarte Dătătorul / Dătătorul de moarte 3:156; 7:158; 15:23; 57:2
-- #62 Al Haiyy      Cel Viu / Cel Veșnic Viu 2:255; 3:2; 25:58; 40:65
-- #63 Al Qayyoom    Cel Veșnic / Veșnic Atotputernicul 2:255; 3:2; 20:111
-- #64 Al Waajid     Aflătorul / Cel ce Află, Cel ce Găsește 38:44
-- #65 Al Maajid     Prealăudatul 11:73
-- #66 Al Waahid     Unicul, Unul 2:163; 5:73; 9:31; 18:110
-- #67 Al Ahad       Unicul / Cel Unic 112:1
-- #68 As Samad      Absolutul / Eternul 112:2
-- #69 Al Qaadir     Cel cu putere peste toate, Atotputernicul 6:65; 36:81; 46:33; 75:40
-- #70 Al Muqtadir   Preaputernicul 18:45; 54:42; 54:55
-- #71 Al Muqaddim   Înainte-Rânduitorul 16:61; 17:34
-- #72 Al Mu'akhir   Apoi-Rânduitorul 71:4
-- #73 Al Awwal      Întâiul 57:3
-- #74 Al Aakhir     Ultimul / Cel de pe urmă 57:3
-- #75 Az Zaahir     Cel de deasupra tuturor / Văzutul 57:3
-- #76 Al Baatin     Cel Ascuns / Nevăzutul 57:3
-- #77 Al Waali      Cârmuitorul 13:11; 22:7
-- #78 Al Muta'ali   Supremul / Preaînaltul 13:9
-- #79 Al Barr       Cel Milostiv 52:28
-- #80 At Tawwaab    Primitorul pocăinței 2:128; 4:64; 49:12; 110:3
-- #81 Al Muntaqim   Răzbunătorul 32:22; 43:41; 44:16
-- #82 Al Afuww      Îngăduitorul 4:99; 4:149; 22:60
-- #83 Ar Ra'oof     Iertătorul / Milostivul / Cel Cu Milă / Preabunul 3:30; 9:117; 57:9; 59:10
-- #84 Maalik Ul Mulk    Stăpânitorul Stăpânul Tronului / Regele Stăpânul stăpânirii 3:26
-- #85 Dhu Al Jalaali Wa Al Ikraam   Cel plin de Slavă și de Cinste 55:27; 55:78
-- #86 Al Muqsit     Împărțitorul 3:18; 7:29
-- #87 Al Jaami'     Adunătorul 3:9
-- #88 Al Ghaniyy    Cel Înstărit Îndeajuns 3:97; 39:7; 47:38; 57:24
-- #89 Al Mughni     Îmbogățitul 9:28
-- #90 Al Maani'     Prevenitorul / Proteguitorul 67:21
-- #91 Ad Daaarr     Păgubitorul 6:17
-- #92 An Naafi'     Folositorul 30:37
-- #93 An Noor       Lumina 24:35
-- #94 Al Haadi      Călăuzitorul 25:31
-- #95 Al Badi'      Făcătorul Desăvârșit / Creatorul cerurilor și al pământului 2:117; 6:101
-- #96 Al Baaqi      Durătorul 55:27
-- #97 Al Waarith    Moștenitorul 15:23
-- #98 Ar Rasheed    Călăuzitorul 2:256
-- #99 As Saboor     Răbdătorul 2:153; 3:200; 103:3
+- #1 Ar Rahmaan (Milostivul) 1:3; 17:110
+- #2 Ar Raheem (Îndurătorul) 2:163; 3:31; 4:100; 5:3
+- #3 Al Malik (Stăpânitorul, Stăpânul Tronului / Regele, Stăpânul stăpânirii) 20:114; 23:116; 59:23; 62:1
+- #4 Al Quddus (Cel Sfânt) 59:23; 62:1
+- #5 As Salaam (Făcătorul de pace) 59:23
+- #6 Al Mu'min (Apărătorul Credinței) 59:23
+- #7 Al Muhaymin (Veghetorul) 59:23
+- #8 Al Azeez (Puternicul / Cel Atotputernic / Cel Tare) 3:6; 4:158; 9:40; 48:7
+- #9 Al Jabbaar (Atotputernicul / Temutul) 59:23
+- #10 Al Mutakabbir (Cel Preaînalt) 59:23
+- #11 Al Khaaliq (Făcătorul, Creatorul) 6:102; 13:16; 39:62; 40:62; 59:24
+- #12 Al Baari (Creatorul) 59:24
+- #13 Al Musawwir (Dătătorul de Chipuri) 59:24
+- #14 Al Ghaffaar (Iertătorul, Preaiertătorul / A toate Iertătorul) 20:82; 38:66; 39:5; 40:42; 71:10
+- #15 Al Qahhaar (Cel Atotputernic / Biruitorul / Stăpânul Atotputernic / Stăpânul Suprem) 13:16; 14:48; 38:65; 39:4; 40:16
+- #16 Al Wahhaab (Dăruitorul / Cel Darnic) 3:8; 38:9; 38:35
+- #17 Ar Razzaaq (Întreținătorul) 51:58
+- #18 Al Fattaah (Marele Judecător / Deschizătorul) 34:26
+- #19 Al 'Aleem (Știutorul / Atoateștiutorul) 2:158; 3:92; 4:35; 24:41; 33:40
+- #20 Al Qaabid (Cel ce Întărește / Cel ce Reține) 2:245
+- #21 Al Baasit (Eliberatorul / Cel ce permite progresul) 2:245
+- #22 Al Khaafid (Coborâtorul / Cel ce doboară / Cel ce umilește pe necredincioși) 95:5
+- #23 Ar Raafi' (Înălțătorul / Cel ce Înnobilează, Cel care Glorifică) 58:11; 6:83
+- #24 Al Mu'izz (Îndemnătorul / Cel ce cinstește) 3:26
+- #25 Al Mudhil (Umilitorul / Cel ce umilește) 3:26
+- #26 As Samee' (Cel care Aude Totul) 2:127; 2:256; 8:17; 49:1
+- #27 Al Baseer (Cel care Vede Totul / Atoatevăzătorul) 4:58; 17:1; 42:11; 42:27
+- #28 Al Hakam (Judecătorul) 22:69
+- #29 Al Adl (Dreptatea / Cel Drept) 6:115
+- #30 Al Lateef (Cel Blând / Cel Binevoitor) 6:103; 22:63; 31:16; 33:34
+- #31 Al Khabeer (Bineștiutorul) 6:18; 17:30; 49:13; 59:18
+- #32 Al Haleem (Blândul / Cel ce Îngăduie / Îngăduitorul) 2:235; 17:44; 22:59; 35:41
+- #33 Al 'Azeem (Mărețul / Cel Suprem / Cel Magnific) 2:255; 42:4; 56:96
+- #34 Al Ghafoor (Iertătorul, Preaiertătorul / A toate Iertătorul) 2:173; 8:69; 16:110; 41:32
+- #35 Ash Shakoor (Recunoscătorul / Mulțumitorul / Cel ce Apreciază) 35:30; 35:34; 42:23; 64:17
+- #36 Al Aliyy (Cel Înalt / Preaînaltul) 4:34; 31:30; 42:4; 42:51
+- #37 Al Kabeer (Mărețul / Cel mai Mare) 13:9; 22:62; 31:30
+- #38 Al Hafeez (Atoatepăzitorul / Apărătorul) 11:57; 34:21; 42:6
+- #39 Al Muqeet (Cel cu putere peste toate) 4:85
+- #40 Al Haseeb (Atoatesocotitorul) 4:6; 4:86; 33:39
+- #41 Al Jaleel (Maiestosul / Cel Plin de Slavă) 55:27; 39:14; 7:143
+- #42 Al Kareem (Generosul / Cel Generos) 27:40; 82:6
+- #43 Ar Raqeeb (Veghetorul / Cel Veghetor) 4:1; 5:117
+- #44 Al Mujeeb (Răspunzătorul / Cel ce Răspunde) 11:61
+- #45 Al Waasi' (Cuprinzătorul / Cel cu Har Nemărginit) 2:268; 3:73; 5:54
+- #46 Al Hakeem (Înțeleptul) 31:27; 46:2; 57:1; 66:2
+- #47 Al Wudood (Iubitorul / Cel Plin de Dragoste) 11:90; 85:14
+- #48 Al Majeed (Cel Glorios / Cel Vrednic de Glorie) 11:73
+- #49 Al Baa'ith (Învietorul / Cel ce Învie) 22:7
+- #50 Ash Shaheed (Mărturisitul / Martorul) 4:166; 22:17; 41:53; 48:28
+- #51 Al Haqq (Adevărul / Adevărul cel limpede) 6:62; 22:6; 23:116; 24:25
+- #52 Al Wakeel (Apărătorul / Ocrotitorul) 3:173; 4:171; 28:28; 73:9
+- #53 Al Qawiyy (Cel Puternic / Cel Tare) 22:40; 22:74; 42:19; 57:25
+- #54 Al Mateen (Cel Statornic) 51:58
+- #55 Al Waliyy (Oblăduitorul / Ocrotitorul) 4:45; 7:196; 42:28; 45:19
+- #56 Al Hameed (Cel Vrednic de Laudă) 14:8; 31:12; 31:26; 41:42
+- #57 Al Muhsi (Socotitorul / Cel ce Socotește) 72:28; 78:29; 82:10-12
+- #58 Al Mubdi (Începătorul / Creatorul) 10:34; 27:64; 29:19; 85:13
+- #59 Al Mu'eed (Înapoi-aducătorul / Cel ce Readuce) 10:34; 27:64; 29:19; 85:13
+- #60 Al Muhiy (De viață Dătătorul / Dătătorul de viață) 7:158; 15:23; 30:50; 57:2
+- #61 Al Mumeet (De moarte Dătătorul / Dătătorul de moarte) 3:156; 7:158; 15:23; 57:2
+- #62 Al Haiyy (Cel Viu / Cel Veșnic Viu) 2:255; 3:2; 25:58; 40:65
+- #63 Al Qayyoom (Cel Veșnic / Veșnic Atotputernicul) 2:255; 3:2; 20:111
+- #64 Al Waajid (Aflătorul / Cel ce Află, Cel ce Găsește) 38:44
+- #65 Al Maajid (Prealăudatul) 11:73
+- #66 Al Waahid (Unicul, Unul) 2:163; 5:73; 9:31; 18:110
+- #67 Al Ahad (Unicul / Cel Unic) 112:1
+- #68 As Samad (Absolutul / Eternul) 112:2
+- #69 Al Qaadir (Cel cu putere peste toate, Atotputernicul) 6:65; 36:81; 46:33; 75:40
+- #70 Al Muqtadir (Preaputernicul) 18:45; 54:42; 54:55
+- #71 Al Muqaddim (Înainte-Rânduitorul) 16:61; 17:34
+- #72 Al Mu'akhir (Apoi-Rânduitorul) 71:4
+- #73 Al Awwal (Întâiul) 57:3
+- #74 Al Aakhir (Ultimul / Cel de pe urmă) 57:3
+- #75 Az Zaahir (Cel de deasupra tuturor / Văzutul) 57:3
+- #76 Al Baatin (Cel Ascuns / Nevăzutul) 57:3
+- #77 Al Waali (Cârmuitorul) 13:11; 22:7
+- #78 Al Muta'ali (Supremul / Preaînaltul) 13:9
+- #79 Al Barr (Cel Milostiv) 52:28
+- #80 At Tawwaab (Primitorul pocăinței) 2:128; 4:64; 49:12; 110:3
+- #81 Al Muntaqim (Răzbunătorul) 32:22; 43:41; 44:16
+- #82 Al Afuww (Îngăduitorul) 4:99; 4:149; 22:60
+- #83 Ar Ra'oof (Iertătorul / Milostivul / Cel Cu Milă / Preabunul) 3:30; 9:117; 57:9; 59:10
+- #84 Maalik Ul Mulk (Stăpânitorul Stăpânul Tronului / Regele Stăpânul stăpânirii) 3:26
+- #85 Dhu Al Jalaali Wa Al Ikraam (Cel plin de Slavă și de Cinste) 55:27; 55:78
+- #86 Al Muqsit (Împărțitorul) 3:18; 7:29
+- #87 Al Jaami' (Adunătorul) 3:9
+- #88 Al Ghaniyy (Cel Înstărit Îndeajuns) 3:97; 39:7; 47:38; 57:24
+- #89 Al Mughni (Îmbogățitul) 9:28
+- #90 Al Maani' (Prevenitorul / Proteguitorul) 67:21
+- #91 Ad Daaarr (Păgubitorul) 6:17
+- #92 An Naafi' (Folositorul) 30:37
+- #93 An Noor (Lumina) 24:35
+- #94 Al Haadi (Călăuzitorul) 25:31
+- #95 Al Badi' (Făcătorul Desăvârșit / Creatorul cerurilor și al pământului) 2:117; 6:101
+- #96 Al Baaqi (Durătorul) 55:27
+- #97 Al Waarith (Moștenitorul) 15:23
+- #98 Ar Rasheed (Călăuzitorul) 2:256
+- #99 As Saboor (Răbdătorul) 2:153; 3:200; 103:3
 Matching Ayahs
 - = Alif, Lam, Mim. 2:1; 3:1; 29:1; 30:1; 31:1; 32:1
 - = Aceștia sunt pe calea cea dreaptă de la Domnul lor, și aceștia sunt cei care reușesc. 2:5; 31:5

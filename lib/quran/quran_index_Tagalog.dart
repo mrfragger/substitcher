@@ -2692,105 +2692,105 @@ Rub (1/8)
 - Rub 240 100:9-11; 101:1-11; 102:1-8; 103:1-3; 104:1-9; 105:1-5; 106:1-4; 107:1-7; 108:1-3; 109:1-6; 110:1-3; 111:1-5; 112:1-4; 113:1-5; 114:1-6
 The 99 Names of Allah
 - #0 Best of Names 7:180; 17:110; 20:8; 59:22-24
-- #1 Ar-Rahman     Ang Napakamapagmahal, ang Mapagbigay sa lahat  1:3; 17:110
-- #2 Ar-Raheem      Ang Napakamaawain  2:163; 3:31; 4:100; 5:3
-- #3 Al-Malik       Ang Hari  20:114; 23:116; 59:23
-- #4 Al-Quddus      Ang Banal  59:23; 62:1
-- #5 As-Salaam      Ang Pinagmumulan ng Kapayapaan  59:23
-- #6 Al-Mu'min      Ang Tagapagkaloob ng Kaligtasan  59:23
-- #7 Al-Muhaymin    Ang Tagapangalaga  59:23
-- #8 Al-Aziz        Ang Makapangyarihan  3:6; 4:158; 9:40; 48:7
-- #9 Al-Jabbar      Ang Mananaig, ang Mabagsik  59:23
-- #10 Al-Mutakabbir Ang Sukdulan sa Karangalan  59:23
-- #11 Al-Khaliq     Ang Manlilikha  6:102; 13:16; 39:62; 40:62; 59:24
-- #12 Al-Bari'      Ang Nagpaganap  59:24
-- #13 Al-Musawwir  Ang Tagapagbigay ng Hugis  59:24
-- #14 Al-Ghaffar   Ang Lubos na Mapagpatawad  20:82; 38:66; 39:5; 40:42; 71:10
-- #15 Al-Qahhar    Ang Mapangibabaw  13:16; 14:48; 38:65; 39:4; 40:16
-- #16 Al-Wahhab    Ang Tagapagkaloob  3:8; 38:9; 38:35
-- #17 Ar-Razzaq    Ang Tagapagtaguyod  51:58
-- #18 Al-Fattah    Ang Tagapagbukas ng mga Pintuan ng Biyaya  34:26
-- #19 Al-Alim      Ang Ganap na Nakaaalam  2:158; 3:92; 4:35; 24:41; 33:40
-- #20 Al-Qabid     Ang Pumipigil  2:245
-- #21 Al-Basit     Ang Nagpapalawak  2:245
-- #22 Al-Khafid    Ang Nagpapakababa  95:5
-- #23 Ar-Rafi'     Ang Nagpapataas  58:11; 6:83
-- #24 Al-Mu'izz    Ang Nagbibigay ng Karangalan  3:26
-- #25 Al-Mudhill   Ang Nagbibigay ng Kahihiyan  3:26
-- #26 As-Sami'     Ang Nakaririnig ng Lahat  2:127; 2:256; 8:17; 49:1
-- #27 Al-Basir     Ang Nakakakita ng Lahat  4:58; 17:1; 42:11; 42:27
-- #28 Al-Hakam     Ang Hukom  22:69
-- #29 Al-Adl       Ang Ganap na Makatarungan  6:115
-- #30 Al-Latif     Ang Mapagbiyaya at Maingat  6:103; 22:63; 31:16; 33:34
-- #31 Al-Khabir    Ang Nakaaalam sa Lahat ng Bagay  6:18; 17:30; 49:13; 59:18
-- #32 Al-Halim     Ang Matiisin  2:235; 17:44; 22:59; 35:41
-- #33 Al-Azim      Ang Sukdulan ang Kadakilaan  2:255; 42:4; 56:96
-- #34 Al-Ghafur    Ang Mapagpatawad  2:173; 8:69; 16:110; 41:32
-- #35 Ash-Shakur   Ang Nagpapahalaga sa Pasasalamat  35:30; 35:34; 42:23; 64:17
-- #36 Al-Aliy      Ang Kataas-taasan  4:34; 31:30; 42:4; 42:51
-- #37 Al-Kabir     Ang Pinakadakila  13:9; 22:62; 31:30
-- #38 Al-Hafiz     Ang Tagapangalaga  11:57; 34:21; 42:6
-- #39 Al-Muqit     Ang Tagapag-ayos ng Kabuhayan  4:85
-- #40 Al-Hasib     Ang Taga-pag-ayos  4:6; 4:86; 33:39
-- #41 Al-Jalil     Ang Sukdulan ang Karangalan  55:27; 39:14; 7:143
-- #42 Al-Karim     Ang Lubos na Mapagbigay  27:40; 82:6
-- #43 Ar-Raqib     Ang Tagapagbantay  4:1; 5:117
-- #44 Al-Mujib     Ang Tumutugon sa Panalangin  11:61
-- #45 Al-Wasi'     Ang Ganap na Sumasaklaw  2:268; 3:73; 5:54
-- #46 Al-Hakim     Ang Marunong  31:27; 46:2; 57:1; 66:2
-- #47 Al-Wadud     Ang Mapagmahal  11:90; 85:14
-- #48 Al-Majid     Ang Maluwalhati  11:73
-- #49 Al-Ba'ith    Ang Tagapagbangon (mula sa kamatayan)  22:7
-- #50 Ash-Shahid   Ang Saksi  4:166; 22:17; 41:53; 48:28
-- #51 Al-Haqq      Ang Katotohanan  6:62; 22:6; 23:116; 24:25
-- #52 Al-Wakil     Ang Pinakamabuting Tagapangasiwa  3:173; 4:171; 28:28; 73:9
-- #53 Al-Qawiyy    Ang Ganap na Malakas  22:40; 22:74; 42:19; 57:25
-- #54 Al-Mateen    Ang Matatag  51:58
-- #55 Al-Waliyy    Ang Tagapangalaga at Kaibigan  4:45; 7:196; 42:28; 45:19
-- #56 Al-Hameed    Ang Kapuri-puri  14:8; 31:12; 31:26; 41:42
-- #57 Al-Muhsi     Ang Nagtatala  72:28; 78:29; 82:10-12
-- #58 Al-Mubdi'    Ang Nagpasimula  10:34; 27:64; 29:19; 85:13
-- #59 Al-Mu'id     Ang Nagpapanumbalik  10:34; 27:64; 29:19; 85:13
-- #60 Al-Muhyi     Ang Nagbibigay-Buhay  7:158; 15:23; 30:50; 57:2
-- #61 Al-Mumit     Ang Nagbibigay-Kamatayan  3:156; 7:158; 15:23; 57:2
-- #62 Al-Hayy      Ang Walang-Hanggan na Buhay  2:255; 3:2; 25:58; 40:65
-- #63 Al-Qayyum    Ang Nagpapanatili ng Lahat  2:255; 3:2; 20:111
-- #64 Al-Wajid     Ang Nakapagbibigay ng Lahat  38:44
-- #65 Al-Majid     Ang Kagalang-galang  11:73
-- #66 Al-Wahid     Ang Nag-iisa  2:163; 5:73; 9:31; 18:110
-- #67 Al-Ahad      Ang Natatangi  112:1
-- #68 As-Samad     Ang Walang-Hanggan at Lubos na Kailanganin  112:2
-- #69 Al-Qadir     Ang Ganap na Makapangyarihan  6:65; 36:81; 46:33; 75:40
-- #70 Al-Muqtadir  Ang Pinakamakapangyarihan  18:45; 54:42; 54:55
-- #71 Al-Muqaddim  Ang Nagpapasulong  16:61; 17:34
-- #72 Al-Mu'akhkhir Ang Nagpapabatay  71:4
-- #73 Al-Awwal     Ang Una  57:3
-- #74 Al-Akhir     Ang Huli  57:3
-- #75 Az-Zahir     Ang Hayag  57:3
-- #76 Al-Batin     Ang Tagong  57:3
-- #77 Al-Wali      Ang Tagapamahala  13:11; 22:7
-- #78 Al-Muta'ali  Ang Kataas-taasan Higit sa Lahat  13:9
-- #79 Al-Barr      Ang Pinagmumulan ng Kabutihan  52:28
-- #80 At-Tawwab    Ang Tumatanggap ng Pagsisisi  2:128; 4:64; 49:12; 110:3
-- #81 Al-Muntaqim  Ang Tagapaghiganti  32:22; 43:41; 44:16
-- #82 Al-Afuw      Ang Mapagpatawad  4:99; 4:149; 22:60
-- #83 Ar-Ra'uf     Ang Ganap na Mapagmahal  3:30; 9:117; 57:9; 59:10
-- #84 Malik-ul-Mulk Ang Nagmamay-ari ng Lahat ng Kaharian  3:26
-- #85 Dhul-Jalali wal-Ikram Ang Nagmamay-ari ng Karangalan at Kadakilaan  55:27; 55:78
-- #86 Al-Muqsit    Ang Makatarungan  3:18; 7:29
-- #87 Al-Jami'     Ang Tagapagtipon  3:9
-- #88 Al-Ghani     Ang Ganap na Walang Pangangailangan  3:97; 39:7; 47:38; 57:24
-- #89 Al-Mughni    Ang Nagpapayaman  9:28
-- #90 Al-Mani'     Ang Pumipigil  67:21
-- #91 Ad-Darr      Ang Nagdudulot ng Kapinsalaan  6:17
-- #92 An-Nafi'     Ang Nagdudulot ng Kabutihan  30:37
-- #93 An-Nur       Ang Liwanag  24:35
-- #94 Al-Hadi      Ang Gabay  25:31
-- #95 Al-Badi'     Ang Kahanga-hanga at Walang Katulad  2:117; 6:101
-- #96 Al-Baqi      Ang Walang-Hanggan  55:27
-- #97 Al-Warith    Ang Tagapagmana ng Lahat  15:23
-- #98 Ar-Rashid    Ang Patnubay sa Tamang Landas  2:256
-- #99 As-Sabur     Ang Matiyaga  2:153; 3:200; 103:3
+- #1 Ar-Rahman (Ang Napakamapagmahal, ang Mapagbigay sa lahat) 1:3; 17:110
+- #2 Ar-Raheem (Ang Napakamaawain) 2:163; 3:31; 4:100; 5:3
+- #3 Al-Malik (Ang Hari) 20:114; 23:116; 59:23
+- #4 Al-Quddus (Ang Banal) 59:23; 62:1
+- #5 As-Salaam (Ang Pinagmumulan ng Kapayapaan) 59:23
+- #6 Al-Mu'min (Ang Tagapagkaloob ng Kaligtasan) 59:23
+- #7 Al-Muhaymin (Ang Tagapangalaga) 59:23
+- #8 Al-Aziz (Ang Makapangyarihan) 3:6; 4:158; 9:40; 48:7
+- #9 Al-Jabbar (Ang Mananaig, ang Mabagsik) 59:23
+- #10 Al-Mutakabbir (Ang Sukdulan sa Karangalan) 59:23
+- #11 Al-Khaliq (Ang Manlilikha) 6:102; 13:16; 39:62; 40:62; 59:24
+- #12 Al-Bari' (Ang Nagpaganap) 59:24
+- #13 Al-Musawwir (Ang Tagapagbigay ng Hugis) 59:24
+- #14 Al-Ghaffar (Ang Lubos na Mapagpatawad) 20:82; 38:66; 39:5; 40:42; 71:10
+- #15 Al-Qahhar (Ang Mapangibabaw) 13:16; 14:48; 38:65; 39:4; 40:16
+- #16 Al-Wahhab (Ang Tagapagkaloob) 3:8; 38:9; 38:35
+- #17 Ar-Razzaq (Ang Tagapagtaguyod) 51:58
+- #18 Al-Fattah (Ang Tagapagbukas ng mga Pintuan ng Biyaya) 34:26
+- #19 Al-Alim (Ang Ganap na Nakaaalam) 2:158; 3:92; 4:35; 24:41; 33:40
+- #20 Al-Qabid (Ang Pumipigil) 2:245
+- #21 Al-Basit (Ang Nagpapalawak) 2:245
+- #22 Al-Khafid (Ang Nagpapakababa) 95:5
+- #23 Ar-Rafi' (Ang Nagpapataas) 58:11; 6:83
+- #24 Al-Mu'izz (Ang Nagbibigay ng Karangalan) 3:26
+- #25 Al-Mudhill (Ang Nagbibigay ng Kahihiyan) 3:26
+- #26 As-Sami' (Ang Nakaririnig ng Lahat) 2:127; 2:256; 8:17; 49:1
+- #27 Al-Basir (Ang Nakakakita ng Lahat) 4:58; 17:1; 42:11; 42:27
+- #28 Al-Hakam (Ang Hukom) 22:69
+- #29 Al-Adl (Ang Ganap na Makatarungan) 6:115
+- #30 Al-Latif (Ang Mapagbiyaya at Maingat) 6:103; 22:63; 31:16; 33:34
+- #31 Al-Khabir (Ang Nakaaalam sa Lahat ng Bagay) 6:18; 17:30; 49:13; 59:18
+- #32 Al-Halim (Ang Matiisin) 2:235; 17:44; 22:59; 35:41
+- #33 Al-Azim (Ang Sukdulan ang Kadakilaan) 2:255; 42:4; 56:96
+- #34 Al-Ghafur (Ang Mapagpatawad) 2:173; 8:69; 16:110; 41:32
+- #35 Ash-Shakur (Ang Nagpapahalaga sa Pasasalamat) 35:30; 35:34; 42:23; 64:17
+- #36 Al-Aliy (Ang Kataas-taasan) 4:34; 31:30; 42:4; 42:51
+- #37 Al-Kabir (Ang Pinakadakila) 13:9; 22:62; 31:30
+- #38 Al-Hafiz (Ang Tagapangalaga) 11:57; 34:21; 42:6
+- #39 Al-Muqit (Ang Tagapag-ayos ng Kabuhayan) 4:85
+- #40 Al-Hasib (Ang Taga-pag-ayos) 4:6; 4:86; 33:39
+- #41 Al-Jalil (Ang Sukdulan ang Karangalan) 55:27; 39:14; 7:143
+- #42 Al-Karim (Ang Lubos na Mapagbigay) 27:40; 82:6
+- #43 Ar-Raqib (Ang Tagapagbantay) 4:1; 5:117
+- #44 Al-Mujib (Ang Tumutugon sa Panalangin) 11:61
+- #45 Al-Wasi' (Ang Ganap na Sumasaklaw) 2:268; 3:73; 5:54
+- #46 Al-Hakim (Ang Marunong) 31:27; 46:2; 57:1; 66:2
+- #47 Al-Wadud (Ang Mapagmahal) 11:90; 85:14
+- #48 Al-Majid (Ang Maluwalhati) 11:73
+- #49 Al-Ba'ith (Ang Tagapagbangon (mula sa kamatayan)) 22:7
+- #50 Ash-Shahid (Ang Saksi) 4:166; 22:17; 41:53; 48:28
+- #51 Al-Haqq (Ang Katotohanan) 6:62; 22:6; 23:116; 24:25
+- #52 Al-Wakil (Ang Pinakamabuting Tagapangasiwa) 3:173; 4:171; 28:28; 73:9
+- #53 Al-Qawiyy (Ang Ganap na Malakas) 22:40; 22:74; 42:19; 57:25
+- #54 Al-Mateen (Ang Matatag) 51:58
+- #55 Al-Waliyy (Ang Tagapangalaga at Kaibigan) 4:45; 7:196; 42:28; 45:19
+- #56 Al-Hameed (Ang Kapuri-puri) 14:8; 31:12; 31:26; 41:42
+- #57 Al-Muhsi (Ang Nagtatala) 72:28; 78:29; 82:10-12
+- #58 Al-Mubdi' (Ang Nagpasimula) 10:34; 27:64; 29:19; 85:13
+- #59 Al-Mu'id (Ang Nagpapanumbalik) 10:34; 27:64; 29:19; 85:13
+- #60 Al-Muhyi (Ang Nagbibigay-Buhay) 7:158; 15:23; 30:50; 57:2
+- #61 Al-Mumit (Ang Nagbibigay-Kamatayan) 3:156; 7:158; 15:23; 57:2
+- #62 Al-Hayy (Ang Walang-Hanggan na Buhay) 2:255; 3:2; 25:58; 40:65
+- #63 Al-Qayyum (Ang Nagpapanatili ng Lahat) 2:255; 3:2; 20:111
+- #64 Al-Wajid (Ang Nakapagbibigay ng Lahat) 38:44
+- #65 Al-Majid (Ang Kagalang-galang) 11:73
+- #66 Al-Wahid (Ang Nag-iisa) 2:163; 5:73; 9:31; 18:110
+- #67 Al-Ahad (Ang Natatangi) 112:1
+- #68 As-Samad (Ang Walang-Hanggan at Lubos na Kailanganin) 112:2
+- #69 Al-Qadir (Ang Ganap na Makapangyarihan) 6:65; 36:81; 46:33; 75:40
+- #70 Al-Muqtadir (Ang Pinakamakapangyarihan) 18:45; 54:42; 54:55
+- #71 Al-Muqaddim (Ang Nagpapasulong) 16:61; 17:34
+- #72 Al-Mu'akhkhir (Ang Nagpapabatay) 71:4
+- #73 Al-Awwal (Ang Una) 57:3
+- #74 Al-Akhir (Ang Huli) 57:3
+- #75 Az-Zahir (Ang Hayag) 57:3
+- #76 Al-Batin (Ang Tagong) 57:3
+- #77 Al-Wali (Ang Tagapamahala) 13:11; 22:7
+- #78 Al-Muta'ali (Ang Kataas-taasan Higit sa Lahat) 13:9
+- #79 Al-Barr (Ang Pinagmumulan ng Kabutihan) 52:28
+- #80 At-Tawwab (Ang Tumatanggap ng Pagsisisi) 2:128; 4:64; 49:12; 110:3
+- #81 Al-Muntaqim (Ang Tagapaghiganti) 32:22; 43:41; 44:16
+- #82 Al-Afuw (Ang Mapagpatawad) 4:99; 4:149; 22:60
+- #83 Ar-Ra'uf (Ang Ganap na Mapagmahal) 3:30; 9:117; 57:9; 59:10
+- #84 Malik-ul-Mulk (Ang Nagmamay-ari ng Lahat ng Kaharian) 3:26
+- #85 Dhul-Jalali wal-Ikram (Ang Nagmamay-ari ng Karangalan at Kadakilaan) 55:27; 55:78
+- #86 Al-Muqsit (Ang Makatarungan) 3:18; 7:29
+- #87 Al-Jami' (Ang Tagapagtipon) 3:9
+- #88 Al-Ghani (Ang Ganap na Walang Pangangailangan) 3:97; 39:7; 47:38; 57:24
+- #89 Al-Mughni (Ang Nagpapayaman) 9:28
+- #90 Al-Mani' (Ang Pumipigil) 67:21
+- #91 Ad-Darr (Ang Nagdudulot ng Kapinsalaan) 6:17
+- #92 An-Nafi' (Ang Nagdudulot ng Kabutihan) 30:37
+- #93 An-Nur (Ang Liwanag) 24:35
+- #94 Al-Hadi (Ang Gabay) 25:31
+- #95 Al-Badi' (Ang Kahanga-hanga at Walang Katulad) 2:117; 6:101
+- #96 Al-Baqi (Ang Walang-Hanggan) 55:27
+- #97 Al-Warith (Ang Tagapagmana ng Lahat) 15:23
+- #98 Ar-Rashid (Ang Patnubay sa Tamang Landas) 2:256
+- #99 As-Sabur (Ang Matiyaga) 2:153; 3:200; 103:3
 Matching Ayahs
 - = Alif, Lam, Mim. 2:1; 3:1; 29:1; 30:1; 31:1; 32:1
 - = Sila ang nasa tamang patnubay mula sa kanilang Panginoon, at sila ang matagumpay. 2:5; 31:5

@@ -2692,105 +2692,105 @@ Rub (1/8)
 - Rub 240 100:9-11; 101:1-11; 102:1-8; 103:1-3; 104:1-9; 105:1-5; 106:1-4; 107:1-7; 108:1-3; 109:1-6; 110:1-3; 111:1-5; 112:1-4; 113:1-5; 114:1-6
 The 99 Names of Allah
 - #0 Best of Names 7:180; 17:110; 20:8; 59:22-24
-- #1 Ar-Rahman     Mwingi wa rehema (Rehema Zake zimewaenea viumbe vyote)  1:3; 17:110
-- #2 Ar-Raheem      Mwenye kuwarehemu Waumini  2:163; 3:31; 4:100; 5:3
-- #3 Al-Malik       Mfalme, Mwenye kumiliki  20:114; 23:116; 59:23
-- #4 Al-Quddus      Mtakatifu  59:23; 62:1
-- #5 As-Salaam      Amani na baraka  59:23
-- #6 Al-Mu'min      Mdhamini  59:23
-- #7 Al-Muhaymin    Mlinzi, Mhifadhi  59:23
-- #8 Al-Aziz        Mwenye nguvu, Mwenye kujitosheleza  3:6; 4:158; 9:40; 48:7
-- #9 Al-Jabbar      Mwenye nguvu, Asiyeshindwa  59:23
-- #10 Al-Mutakabbir Mtukufu  59:23
-- #11 Al-Khaliq     Muumba  6:102; 13:16; 39:62; 40:62; 59:24
-- #12 Al-Bari'      Mtengenezaji  59:24
-- #13 Al-Musawwir  Mwenye kuumba sura  59:24
-- #14 Al-Ghaffar   Mwenye kusamehe sana  20:82; 38:66; 39:5; 40:42; 71:10
-- #15 Al-Qahhar    Mshindi, Mwenye kushinda  13:16; 14:48; 38:65; 39:4; 40:16
-- #16 Al-Wahhab    Mwingi wa kheri, Mtunzaji  3:8; 38:9; 38:35
-- #17 Ar-Razzaq    Mwenye kuruzuku  51:58
-- #18 Al-Fattah    Mfungua, Mtoa ushindi  34:26
-- #19 Al-Alim      Mwenye kujua yote  2:158; 3:92; 4:35; 24:41; 33:40
-- #20 Al-Qabid     Mzuia, Mnyofu  2:245
-- #21 Al-Basit     Mwenye kupanua  2:245
-- #22 Al-Khafid    Mnyenyekevu  95:5
-- #23 Ar-Rafi'     Mwinua, Mwenye kuinua  58:11; 6:83
-- #24 Al-Mu'izz    Mtoa heshima  3:26
-- #25 Al-Mudhill   Mtoa fedheha  3:26
-- #26 As-Sami'     Mwenye kusikia yote  2:127; 2:256; 8:17; 49:1
-- #27 Al-Basir     Mwenye kuona yote  4:58; 17:1; 42:11; 42:27
-- #28 Al-Hakam     Hakimu, Mpatanishi  22:69
-- #29 Al-Adl       Mwenye haki  6:115
-- #30 Al-Latif     Mpole, Mwenye huruma  6:103; 22:63; 31:16; 33:34
-- #31 Al-Khabir    Mwenye kujua yote  6:18; 17:30; 49:13; 59:18
-- #32 Al-Halim     Mwenye uvumilivu, Mpole  2:235; 17:44; 22:59; 35:41
-- #33 Al-Azim      Mtukufu, Aliye Mkuu  2:255; 42:4; 56:96
-- #34 Al-Ghafur    Mwenye kusamehe  2:173; 8:69; 16:110; 41:32
-- #35 Ash-Shakur   Mwenye kushukuru  35:30; 35:34; 42:23; 64:17
-- #36 Al-Aliy      Aliye Juu, Mkuu  4:34; 31:30; 42:4; 42:51
-- #37 Al-Kabir     Mkuu  13:9; 22:62; 31:30
-- #38 Al-Hafiz     Mhifadhi  11:57; 34:21; 42:6
-- #39 Al-Muqit     Mlishe, Mtunzaji  4:85
-- #40 Al-Hasib     Mkokotoa  4:6; 4:86; 33:39
-- #41 Al-Jalil     Mtukufu  55:27; 39:14; 7:143
-- #42 Al-Karim     Mkarimu, Mwingi wa kheri  27:40; 82:6
-- #43 Ar-Raqib     Mwangalizi  4:1; 5:117
-- #44 Al-Mujib     Mjibu, Mwenye kujibu  11:61
-- #45 Al-Wasi'     Mwenye wasaa, Mwenye kujumuisha yote  2:268; 3:73; 5:54
-- #46 Al-Hakim     Mwenye hikima  31:27; 46:2; 57:1; 66:2
-- #47 Al-Wadud     Mwenye upendo, Mpole  11:90; 85:14
-- #48 Al-Majid     Mtukufu  11:73
-- #49 Al-Ba'ith    Mfufua wafu  22:7
-- #50 Ash-Shahid   Shahidi  4:166; 22:17; 41:53; 48:28
-- #51 Al-Haqq      Haki, Ukweli  6:62; 22:6; 23:116; 24:25
-- #52 Al-Wakil     Mtegemewa, Mwakilishi  3:173; 4:171; 28:28; 73:9
-- #53 Al-Qawiyy    Mwenye nguvu  22:40; 22:74; 42:19; 57:25
-- #54 Al-Matin     Thabiti, Mwenye kudumu  51:58
-- #55 Al-Waliyy    Rafiki Mlinzi, Mlinzi na Msaidizi  4:45; 7:196; 42:28; 45:19
-- #56 Al-Hamid     Mwenye kuhimidiwa  14:8; 31:12; 31:26; 41:42
-- #57 Al-Muhsi     Mwenye kuhesabu, Mwenye kujua idadi ya vyote  72:28; 78:29; 82:10-12
-- #58 Al-Mubdi'    Mwanzilishi, Muumba wa kwanza  10:34; 27:64; 29:19; 85:13
-- #59 Al-Mu'id     Mwenye kurudisha  10:34; 27:64; 29:19; 85:13
-- #60 Al-Muhyi     Mwenye kuhuisha  7:158; 15:23; 30:50; 57:2
-- #61 Al-Mumit     Mwenye kufisha  3:156; 7:158; 15:23; 57:2
-- #62 Al-Hayy      Mwenye uhai milele  2:255; 3:2; 25:58; 40:65
-- #63 Al-Qayyum    Mwenye kujisimamia Mwenyewe na kusimamia viumbe  2:255; 3:2; 20:111
-- #64 Al-Wajid     Mwenye kutosheka  38:44
-- #65 Al-Majid     Mtukufu  11:73
-- #66 Al-Wahid     Mmoja  2:163; 5:73; 9:31; 18:110
-- #67 Al-Ahad      Mmoja, Aliyetangama  112:1
-- #68 As-Samad     Wa Milele, Mhimili  112:2
-- #69 Al-Qadir     Mwenye uweza wote  6:65; 36:81; 46:33; 75:40
-- #70 Al-Muqtadir  Mwenye kuamua, Mwenye kutawala  18:45; 54:42; 54:55
-- #71 Al-Muqaddim  Mwepesi, Mwenye kuleta mbele  16:61; 17:34
-- #72 Al-Mu'akhkhir Mwenye kuweka nyuma, Mwenye kuahirisha  71:4
-- #73 Al-Awwal     Mwanzo  57:3
-- #74 Al-Akhir     Mwisho  57:3
-- #75 Az-Zahir     Adhihiri; Mshindi wa Yote  57:3
-- #76 Al-Batin     Aliyeficha; Mwenye kujumuisha yote  57:3
-- #77 Al-Wali      Mlinzi  13:11; 22:7
-- #78 Al-Muta'ali  Aliye Juu, Mtukufu  13:9
-- #79 Al-Barr      Mwema na Mwenye haki  52:28
-- #80 At-Tawwab    Mwenye kukubali toba  2:128; 4:64; 49:12; 110:3
-- #81 Al-Muntaqim  Mwenye kulipiza kisasi  32:22; 43:41; 44:16
-- #82 Al-Afuw      Msamehe, Mwenye kufuta dhambi  4:99; 4:149; 22:60
-- #83 Ar-Ra'uf     Mwenye huruma, Mwingi wa rehema  3:30; 9:117; 57:9; 59:10
-- #84 Malik-ul-Mulk Mmiliki wa Utawala Wote  3:26
-- #85 Dhul-Jalali wal-Ikram  Mwenye Ukuu na Ukarimu  55:27; 55:78
-- #86 Al-Muqsit    Mwenye haki, Mlipiza  3:18; 7:29
-- #87 Al-Jami'     Mkusanyaji, Muunganishaji  3:9
-- #88 Al-Ghani     Tajiri, Aliyejitosheleza  3:97; 39:7; 47:38; 57:24
-- #89 Al-Mughni    Mtajirisha, Mkombozi  9:28
-- #90 Al-Mani'     Mwenye kuzuia, Mlinzi, Mtetezi  67:21
-- #91 Ad-Darr      Mwenye kudhuru  6:17
-- #92 An-Nafi'     Mwenye kufaa, Mfadhili  30:37
-- #93 An-Nur       Nuru  24:35
-- #94 Al-Hadi      Mwongozaji  25:31
-- #95 Al-Badi'     Asiye na mfano, Mwanzilishi  2:117; 6:101
-- #96 Al-Baqi      Mwenye kudumu na Kutobadilika  55:27
-- #97 Al-Warith    Mrithi, Mrithi wa Yote  15:23
-- #98 Ar-Rashid    Mwongozaji, Mwalimu Makosa, na Mjuzi  2:256
-- #99 As-Sabur     Mwenye Subira  2:153; 3:200; 103:3
+- #1 Ar-Rahman (Mwingi wa rehema (Rehema Zake zimewaenea viumbe vyote)) 1:3; 17:110
+- #2 Ar-Raheem (Mwenye kuwarehemu Waumini) 2:163; 3:31; 4:100; 5:3
+- #3 Al-Malik (Mfalme, Mwenye kumiliki) 20:114; 23:116; 59:23
+- #4 Al-Quddus (Mtakatifu) 59:23; 62:1
+- #5 As-Salaam (Amani na baraka) 59:23
+- #6 Al-Mu'min (Mdhamini) 59:23
+- #7 Al-Muhaymin (Mlinzi, Mhifadhi) 59:23
+- #8 Al-Aziz (Mwenye nguvu, Mwenye kujitosheleza) 3:6; 4:158; 9:40; 48:7
+- #9 Al-Jabbar (Mwenye nguvu, Asiyeshindwa) 59:23
+- #10 Al-Mutakabbir (Mtukufu) 59:23
+- #11 Al-Khaliq (Muumba) 6:102; 13:16; 39:62; 40:62; 59:24
+- #12 Al-Bari' (Mtengenezaji) 59:24
+- #13 Al-Musawwir (Mwenye kuumba sura) 59:24
+- #14 Al-Ghaffar (Mwenye kusamehe sana) 20:82; 38:66; 39:5; 40:42; 71:10
+- #15 Al-Qahhar (Mshindi, Mwenye kushinda) 13:16; 14:48; 38:65; 39:4; 40:16
+- #16 Al-Wahhab (Mwingi wa kheri, Mtunzaji) 3:8; 38:9; 38:35
+- #17 Ar-Razzaq (Mwenye kuruzuku) 51:58
+- #18 Al-Fattah (Mfungua, Mtoa ushindi) 34:26
+- #19 Al-Alim (Mwenye kujua yote) 2:158; 3:92; 4:35; 24:41; 33:40
+- #20 Al-Qabid (Mzuia, Mnyofu) 2:245
+- #21 Al-Basit (Mwenye kupanua) 2:245
+- #22 Al-Khafid (Mnyenyekevu) 95:5
+- #23 Ar-Rafi' (Mwinua, Mwenye kuinua) 58:11; 6:83
+- #24 Al-Mu'izz (Mtoa heshima) 3:26
+- #25 Al-Mudhill (Mtoa fedheha) 3:26
+- #26 As-Sami' (Mwenye kusikia yote) 2:127; 2:256; 8:17; 49:1
+- #27 Al-Basir (Mwenye kuona yote) 4:58; 17:1; 42:11; 42:27
+- #28 Al-Hakam (Hakimu, Mpatanishi) 22:69
+- #29 Al-Adl (Mwenye haki) 6:115
+- #30 Al-Latif (Mpole, Mwenye huruma) 6:103; 22:63; 31:16; 33:34
+- #31 Al-Khabir (Mwenye kujua yote) 6:18; 17:30; 49:13; 59:18
+- #32 Al-Halim (Mwenye uvumilivu, Mpole) 2:235; 17:44; 22:59; 35:41
+- #33 Al-Azim (Mtukufu, Aliye Mkuu) 2:255; 42:4; 56:96
+- #34 Al-Ghafur (Mwenye kusamehe) 2:173; 8:69; 16:110; 41:32
+- #35 Ash-Shakur (Mwenye kushukuru) 35:30; 35:34; 42:23; 64:17
+- #36 Al-Aliy (Aliye Juu, Mkuu) 4:34; 31:30; 42:4; 42:51
+- #37 Al-Kabir (Mkuu) 13:9; 22:62; 31:30
+- #38 Al-Hafiz (Mhifadhi) 11:57; 34:21; 42:6
+- #39 Al-Muqit (Mlishe, Mtunzaji) 4:85
+- #40 Al-Hasib (Mkokotoa) 4:6; 4:86; 33:39
+- #41 Al-Jalil (Mtukufu) 55:27; 39:14; 7:143
+- #42 Al-Karim (Mkarimu, Mwingi wa kheri) 27:40; 82:6
+- #43 Ar-Raqib (Mwangalizi) 4:1; 5:117
+- #44 Al-Mujib (Mjibu, Mwenye kujibu) 11:61
+- #45 Al-Wasi' (Mwenye wasaa, Mwenye kujumuisha yote) 2:268; 3:73; 5:54
+- #46 Al-Hakim (Mwenye hikima) 31:27; 46:2; 57:1; 66:2
+- #47 Al-Wadud (Mwenye upendo, Mpole) 11:90; 85:14
+- #48 Al-Majid (Mtukufu) 11:73
+- #49 Al-Ba'ith (Mfufua wafu) 22:7
+- #50 Ash-Shahid (Shahidi) 4:166; 22:17; 41:53; 48:28
+- #51 Al-Haqq (Haki, Ukweli) 6:62; 22:6; 23:116; 24:25
+- #52 Al-Wakil (Mtegemewa, Mwakilishi) 3:173; 4:171; 28:28; 73:9
+- #53 Al-Qawiyy (Mwenye nguvu) 22:40; 22:74; 42:19; 57:25
+- #54 Al-Matin (Thabiti, Mwenye kudumu) 51:58
+- #55 Al-Waliyy (Rafiki Mlinzi, Mlinzi na Msaidizi) 4:45; 7:196; 42:28; 45:19
+- #56 Al-Hamid (Mwenye kuhimidiwa) 14:8; 31:12; 31:26; 41:42
+- #57 Al-Muhsi (Mwenye kuhesabu, Mwenye kujua idadi ya vyote) 72:28; 78:29; 82:10-12
+- #58 Al-Mubdi' (Mwanzilishi, Muumba wa kwanza) 10:34; 27:64; 29:19; 85:13
+- #59 Al-Mu'id (Mwenye kurudisha) 10:34; 27:64; 29:19; 85:13
+- #60 Al-Muhyi (Mwenye kuhuisha) 7:158; 15:23; 30:50; 57:2
+- #61 Al-Mumit (Mwenye kufisha) 3:156; 7:158; 15:23; 57:2
+- #62 Al-Hayy (Mwenye uhai milele) 2:255; 3:2; 25:58; 40:65
+- #63 Al-Qayyum (Mwenye kujisimamia Mwenyewe na kusimamia viumbe) 2:255; 3:2; 20:111
+- #64 Al-Wajid (Mwenye kutosheka) 38:44
+- #65 Al-Majid (Mtukufu) 11:73
+- #66 Al-Wahid (Mmoja) 2:163; 5:73; 9:31; 18:110
+- #67 Al-Ahad (Mmoja, Aliyetangama) 112:1
+- #68 As-Samad (Wa Milele, Mhimili) 112:2
+- #69 Al-Qadir (Mwenye uweza wote) 6:65; 36:81; 46:33; 75:40
+- #70 Al-Muqtadir (Mwenye kuamua, Mwenye kutawala) 18:45; 54:42; 54:55
+- #71 Al-Muqaddim (Mwepesi, Mwenye kuleta mbele) 16:61; 17:34
+- #72 Al-Mu'akhkhir (Mwenye kuweka nyuma, Mwenye kuahirisha) 71:4
+- #73 Al-Awwal (Mwanzo) 57:3
+- #74 Al-Akhir (Mwisho) 57:3
+- #75 Az-Zahir (Adhihiri; Mshindi wa Yote) 57:3
+- #76 Al-Batin (Aliyeficha; Mwenye kujumuisha yote) 57:3
+- #77 Al-Wali (Mlinzi) 13:11; 22:7
+- #78 Al-Muta'ali (Aliye Juu, Mtukufu) 13:9
+- #79 Al-Barr (Mwema na Mwenye haki) 52:28
+- #80 At-Tawwab (Mwenye kukubali toba) 2:128; 4:64; 49:12; 110:3
+- #81 Al-Muntaqim (Mwenye kulipiza kisasi) 32:22; 43:41; 44:16
+- #82 Al-Afuw (Msamehe, Mwenye kufuta dhambi) 4:99; 4:149; 22:60
+- #83 Ar-Ra'uf (Mwenye huruma, Mwingi wa rehema) 3:30; 9:117; 57:9; 59:10
+- #84 Malik-ul-Mulk (Mmiliki wa Utawala Wote) 3:26
+- #85 Dhul-Jalali wal-Ikram (Mwenye Ukuu na Ukarimu) 55:27; 55:78
+- #86 Al-Muqsit (Mwenye haki, Mlipiza) 3:18; 7:29
+- #87 Al-Jami' (Mkusanyaji, Muunganishaji) 3:9
+- #88 Al-Ghani (Tajiri, Aliyejitosheleza) 3:97; 39:7; 47:38; 57:24
+- #89 Al-Mughni (Mtajirisha, Mkombozi) 9:28
+- #90 Al-Mani' (Mwenye kuzuia, Mlinzi, Mtetezi) 67:21
+- #91 Ad-Darr (Mwenye kudhuru) 6:17
+- #92 An-Nafi' (Mwenye kufaa, Mfadhili) 30:37
+- #93 An-Nur (Nuru) 24:35
+- #94 Al-Hadi (Mwongozaji) 25:31
+- #95 Al-Badi' (Asiye na mfano, Mwanzilishi) 2:117; 6:101
+- #96 Al-Baqi (Mwenye kudumu na Kutobadilika) 55:27
+- #97 Al-Warith (Mrithi, Mrithi wa Yote) 15:23
+- #98 Ar-Rashid (Mwongozaji, Mwalimu Makosa, na Mjuzi) 2:256
+- #99 As-Sabur (Mwenye Subira) 2:153; 3:200; 103:3
 Matching Ayahs
 - = Alif, Laam, Miim. 2:1; 3:1; 29:1; 30:1; 31:1; 32:1
 - = Hao ndio walio katika uwongofu kutoka kwa Mola wao, na hao ndio waliofaulu. 2:5; 31:5

@@ -2693,105 +2693,105 @@ Rub (1/8)
 - Rub 240 100:9-11; 101:1-11; 102:1-8; 103:1-3; 104:1-9; 105:1-5; 106:1-4; 107:1-7; 108:1-3; 109:1-6; 110:1-3; 111:1-5; 112:1-4; 113:1-5; 114:1-6
 The 99 Names of Allah
 - #0 Best of Names 7:180; 17:110; 20:8; 59:22-24
-- #1 Ar Rahmaan 	Duniyaa irratti hundaafuu kan Rahmata ykn aagii godhu 1:3; 17:110
-- #2 Ar Raheem 	Akkuma duniyaa irratti karaa haqaatti isaan qajeelche Aakhiraattis mu'uminoota qofaaf Rahmata kan Godhu 2:163; 3:31; 4:100; 5:3
-- #3 Al Malik 	Mootii: kan ajajuu fi dhoowuun harka isaa jiru akkasumas waan uume akka barbaade gochu kan dand'u duniyaas ta'e Aakhiraanis kan mootummaa isaa jala jiru. 20:114; 23:116; 59:23; 62:1
-- #4 Al Quddus 	Qulqulluu: kara hundaan qulqulluu fi guutu kan ta'e. 59:23; 62:1
-- #5 As Salaam 	Naga-qabeessa: Innis nagaadha, maqaan isaas Nagaadha, hojiin isaas nagaadha, nageenyi duniyaa fi aakhiraatti argamus isuma irratti. 59:23
-- #6 Al Mu'min 	Nageenya Kennuu/ Kennaan/ Amantii/ Mu’mina Ol’aanaa (kan Amantii)/ Kan Amantii Kennuu/ Hunda Mirkaneessaa 59:23
-- #7 Al Muhaymin 	Eegaa waa hundaa kan ta'eefi kan to'atu. 59:23
-- #8 Al Azeez 	Injifataa,hunda danda'a: kan waa hunda injifatuufi kan wanti tokkollee eeyyama isaa malee hin sochoone. 3:6; 4:158; 9:40; 48:7
-- #9 Al Jabbaar 	Abbaa humnaa jabaa: kan waan fedhe bakkaan gahuu danda'uufi kan uumamni hundi isaaf gadi jedhuu fi kan waa hundi harka isaa kajeelu. 59:23
-- #10 Al Mutakabbir 	Boonaa: kan hir'inaa fi waan isaa hin malle hunda irraa, akkasumas gabroottan miidhuu irraa kan ol ta'ee if warra boonuu gadi qabee kan xiqqeessu. 59:23
-- #11 Al Khaaliq 	Uumaa: kan utuu waa irraa hin ilaalin jalqabee uume. 6:102; 13:16; 39:62; 40:62; 59:24
-- #12 Al Baari 	Haaraa Argamsiisaa: kan waan ofii uumee argamsiise kan ifatti baase. 59:24
-- #13 Al Musawwir 	Suuraa fedhe irratti Uumaa 59:24
-- #14 Al Ghaffaar 	Araarama:Kan utuu gabrichi akkaan balleessu Inni immoo akkaan Araaramuuf 20:82; 38:66; 39:5; 40:42; 71:10
-- #15 Al Qahhaar 	Injifataa: kan wanti isa malee jiru hundi isaaf gadi jedhuu fi kan waa hundi isa jalatti bulu 13:16; 14:48; 38:65; 39:4; 40:16
-- #16 Al Wahhaab 	Arjaa/ kennaa wa hundaa 3:8; 38:9; 38:35
-- #17 Ar Razzaaq 	Dhiyeessaa/ Jiraachisaa/ Kennaan Jireenyaa/ Dhiyeessaa Hundaa 51:58
-- #18 Al Fattaah 	Kan Banu/ Banu Karra Bu'aa/ Bane/ Kan Injifannoo Kennu 34:26
-- #19 Al 'Aleem 	Beekaa/ Hunda Beekaa/ 2:158; 3:92; 4:35; 24:41; 33:40
-- #20 Al Qaabid 	Uggura/ eegaa/ Qajeelchaa/ 2:245
-- #21 Al Baasit   Guddisaa/ Badhaasaa/ Arjaaa  2:245
-- #22 Al Khaafid  Salphisaaa/ xiqqeessaa 95:5
-- #23 Ar Raafi'   Olkaasaa, kennaa/ guddisaa 58:11; 6:83
-- #24 Al Mu'izz   Kabaja kan kennu, Humna kan kennu.  3:26
-- #25 Al Mudhil   Salphisaa, xiqqeessaa, kabajaa dhabsiisaa  3:26
-- #26 As Samee'   Dhagahaa 2:127; 2:256; 8:17; 49:1
-- #27 Al Baseer   argaa: kan waan nuti gonu hunda nu argu  4:58; 17:1; 42:11; 42:27
-- #28 Al Hakam    Abbaan Murtii/ Giddu-galeessa/ Abbaa Taayitaa/Abba dhugaa 22:69
-- #29 Al Adl      Abbaa Murtii Haqaa/ Abba murtii dhugaa  6:115
-- #30 Al Lateef   Gara laafessaa/ arjaaa 6:103; 22:63; 31:16; 33:34
-- #31 Al Khabeer  ogeessa, hayyuu /garalafessa 6:18; 17:30; 49:13; 59:18
-- #32 Al Haleem   obsaa/ dhiifama godhaa/ araaramaa/ aagii kennaa  2:235; 17:44; 22:59; 35:41
-- #33 Al 'Azeem   Isa Guddaa/Jabaa/ cimaa./ kan humna guddaa fi aangoo guddaa qabuu 2:255; 42:4; 56:96
-- #34 Al Ghafoor  Araaraama: kan waan hundaa dhiifama godhuu  2:173; 8:69; 16:110; 41:32
-- #35 Ash Shakoor Galateeffamaa/ Dinqisiisaa/ Badhaasa Dachaa  35:30; 35:34; 42:23; 64:17
-- #36 Al Aliyy    Olaanaa, guddicha, moataa 4:34; 31:30; 42:4; 42:51
-- #37 Al Kabeer   Guddaa/ Yeroo hundumaa Guddaa/ Irra Guddaa/ Bal'ina, Dandeettii fi Barbaachisummaa Guddaa Baay'ee Qabu  13:9; 22:62; 31:30
-- #38 Al Hafeez   Kan Kunuunsu/ Yeroo hundumaa kan eegu/ Hundaa kan ilaalu/ kan eegu/ wardiyaa/ 11:57; 34:21; 42:6
-- #39 Al Muqeet   Sooraa/ Nyaachisaa 4:85
-- #40 Al Haseeb   Murtii kan fidu/ Yeroo hundumaa kan lakkaa'u [Dhimma Hundaaf Kan Ilaalchisu].  4:6; 4:86; 33:39
-- #41 Al Jaleel   Kabajamaa/ Olka’aa/ Yeroo baay’ee-Barbaachisaa/ Ulfina kan qabu  55:27; 39:14; 7:143
-- #42 Al Kareem   Kabajamaa/ Arjaa/ kennaa/ Qaalii/ Tola ooltuu  27:40; 82:6
-- #43 Ar Raqeeb   Daawwataa / Taajjabaa/ Yeroo hunda Dammaqaa  4:1; 5:117
-- #44 Al Mujeeb   Deebii kennu/ Deebisaa/ Deebii Olaanaa/ Fudhataa Waamicha 11:61
-- #45 Al Waasi'   Hunda hammata/Bal’aa / Bakka hundatti argamu/ Daangaa hin qabne/ Hundaa hammate 2:268; 3:73; 5:54
-- #46 Al Hakeem   Hayyuu/ Yeroo hunda Beekaa/ Murtii Gaariin kan badhaafame  31:27; 46:2; 57:1; 66:2
-- #47 Al Wudood   jalatamaa/ Yeroo hundumaa Jaalalaa 11:90; 85:14
-- #48 Al Majeed   ulfina qabeessa/ surraa qabessaa/ olaanaa  11:73
-- #49 Al Baa'ith  Du'aa kaasaa/ Dammaqsaa/ Kaasu/ Ergaa 22:7
-- #50 Ash Shaheed Ragaa/ Ragaa ba'aa/ Yeroo hundumaa Dhugaa Ba'aa 4:166; 22:17; 41:53; 48:28
-- #51 Al Haqq     Dhugaa/ hooda/ Tokkicha Dhugaa keessatti Sagalee fi Dhugaa ta’uun isaa Mirkanaa’aa dha 6:62; 22:6; 23:116; 24:25
-- #52 Al Wakeel   Abbaa Imaanaa,  abdatamaa, Abukaatoo 3:173; 4:171; 28:28; 73:9
-- #53 Al Qawiyy   Jabaa  22:40; 22:74; 42:19; 57:25
-- #54 Al Mateen   Dhaabbata, Kan Jabaate 51:58
-- #55 Al Waliyy   Garagaaraa 4:45; 7:196; 42:28; 45:19
-- #56 Al Hameed   Faruun kan maltuun, galateeffama  14:8; 31:12; 31:26; 41:42
-- #57 Al Muhsi    Kan Hundaa Lakkaa'u, Lakkaawwii 72:28; 78:29; 82:10-12
-- #58 Al Mubdi    Oomishaa, aangafoo, eegalaa 10:34; 27:64; 29:19; 85:13
-- #59 Al Mu'eed   Deebisaa, Deebisee Kan Hundaa Deebisu  10:34; 27:64; 29:19; 85:13
-- #60 Al Muhiy    Jiraachisaa 7:158; 15:23; 30:50; 57:2
-- #61 Al Mumeet   Ajjeesaa, Du'a kan fiduu  3:156; 7:158; 15:23; 57:2
-- #62 Al Haiyy    Jiraataa 2:255; 3:2; 25:58; 40:65
-- #63 Al Qayyoom  Kan Jiraate, Walabaa 2:255; 3:2; 20:111
-- #64 Al Waajid   Hubataa, Kan Barbaadaa, Kan Hin Kufne 38:44
-- #65 Al Maajid   maalalchiisaa/beekkamaa 11:73
-- #66 Al Waahid   addiyyoo, qeenxee 2:163; 5:73; 9:31; 18:110
-- #67 Al Ahad     Tokkicha  112:1
-- #68 As Samad    Utuubaa, dhaabataa 112:2
-- #69 Al Qaadir   Danda'aa  6:65; 36:81; 46:33; 75:40
-- #70 Al Muqtadir Murteessaa, irraa aanaa  18:45; 54:42; 54:55
-- #71 Al Muqaddim Fuulurafidaa, Kan Fuulduratti Fidu/Saffisaa 16:61; 17:34
-- #72 Al Mu’akhir Kan Harkifachiisaa, tursiisaa, fageessaa  71:4
-- #73 Al Awwal    Jalqaba 57:3
-- #74 Al Aakhir   Dhuma, goolaba 57:3
-- #75 Az Zaahir   Mul'ataa  57:3
-- #76 Al Baatin   Dhokataa, Kan Hin Mul’anne, Kan Keessaa 57:3
-- #77 Al Waali    Bulchaan 13:11; 22:7
-- #78 Al Muta’ali Irra olaanaa 13:9
-- #79 Al Barr     Kan Gaarii, Kan Faayidaa 52:28
-- #80 At Tawwaab  Kan Yeroo Hundaa Dhiifama Godhu, Kan Gara Lakkisu 2:128; 4:64; 49:12; 110:3
-- #81 Al Muntaqim Haaloo ba'aa 32:22; 43:41; 44:16
-- #82 Al Afuww    Dhiifama kan godhu, ofkalchaa, Araaramaa, Aagaa 4:99; 4:149; 22:60
-- #83 Ar Ra’oof   Mararfataa, gara-laafessa, arjaa 3:30; 9:117; 57:9; 59:10
-- #84 Maalik Ul Mulk  dhuunfataa, abbaa birmadummaa hundaa, 3:26
-- #85 Dhu Al Jalaali Wa Al Ikraam,  Dhuunfataa, Gooftaa kabajaa fi ulfinaa 55:27; 55:78
-- #86 Al Muqsit   Kan Haqa qabeessa, Kan Barbaachisu 3:18; 7:29
-- #87 Al Jaami'   funaanaa, sassaabaa, walitti qabaa  3:9
-- #88 Al Ghaniyy  Dureessaa, soreessaa, ofdanda'aa 3:97; 39:7; 47:38; 57:24
-- #89 Al Mughni   Badhaadhsaa  9:28
-- #90 Al Maani'   Ittisaa, Kan ofirraa ittisu, Gaachana, wantee 67:21
-- #91 Ad Daaarr   gidiraa, Miidhaa, hubaa 6:17
-- #92 An Naafi’   faayidaa qabeessa, gaarii  30:37
-- #93 An Noor     Ifa 24:35
-- #94 Al Haadi    Qajeelchaa 25:31
-- #95 Al Badi'    Ka'umsa, jalqaba Kan wal hin madaalle, Kan hin dhaqqabne, bareedaa  2:117; 6:101
-- #96 Al Baaqi    Kan Hin Jijjiiramne,  Daangaamaleessa, Kan Bara Baraa, waaraa 55:27
-- #97 Al Waarith  Dhaalaa 15:23
-- #98 Ar Rasheed  Qajeelchaa karaa sirrii 2:256
-- #99 As Saboor   obsaa 2:153; 3:200; 103:3
+- #1 Ar Rahmaan (Duniyaa irratti hundaafuu kan Rahmata ykn aagii godhu) 1:3; 17:110
+- #2 Ar Raheem (Akkuma duniyaa irratti karaa haqaatti isaan qajeelche Aakhiraattis mu'uminoota qofaaf Rahmata kan Godhu) 2:163; 3:31; 4:100; 5:3
+- #3 Al Malik (Mootii: kan ajajuu fi dhoowuun harka isaa jiru akkasumas waan uume akka barbaade gochu kan dand'u duniyaas ta'e Aakhiraanis kan mootummaa isaa jala jiru.) 20:114; 23:116; 59:23; 62:1
+- #4 Al Quddus (Qulqulluu: kara hundaan qulqulluu fi guutu kan ta'e.) 59:23; 62:1
+- #5 As Salaam (Naga-qabeessa: Innis nagaadha, maqaan isaas Nagaadha, hojiin isaas nagaadha, nageenyi duniyaa fi aakhiraatti argamus isuma irratti.) 59:23
+- #6 Al Mu'min (Nageenya Kennuu/ Kennaan/ Amantii/ Mu'mina Ol'aanaa (kan Amantii)/ Kan Amantii Kennuu/ Hunda Mirkaneessaa) 59:23
+- #7 Al Muhaymin (Eegaa waa hundaa kan ta'eefi kan to'atu.) 59:23
+- #8 Al Azeez (Injifataa,hunda danda'a: kan waa hunda injifatuufi kan wanti tokkollee eeyyama isaa malee hin sochoone.) 3:6; 4:158; 9:40; 48:7
+- #9 Al Jabbaar (Abbaa humnaa jabaa: kan waan fedhe bakkaan gahuu danda'uufi kan uumamni hundi isaaf gadi jedhuu fi kan waa hundi harka isaa kajeelu.) 59:23
+- #10 Al Mutakabbir (Boonaa: kan hir'inaa fi waan isaa hin malle hunda irraa, akkasumas gabroottan miidhuu irraa kan ol ta'ee if warra boonuu gadi qabee kan xiqqeessu.) 59:23
+- #11 Al Khaaliq (Uumaa: kan utuu waa irraa hin ilaalin jalqabee uume.) 6:102; 13:16; 39:62; 40:62; 59:24
+- #12 Al Baari (Haaraa Argamsiisaa: kan waan ofii uumee argamsiise kan ifatti baase.) 59:24
+- #13 Al Musawwir (Suuraa fedhe irratti Uumaa) 59:24
+- #14 Al Ghaffaar (Araarama:Kan utuu gabrichi akkaan balleessu Inni immoo akkaan Araaramuuf) 20:82; 38:66; 39:5; 40:42; 71:10
+- #15 Al Qahhaar (Injifataa: kan wanti isa malee jiru hundi isaaf gadi jedhuu fi kan waa hundi isa jalatti bulu) 13:16; 14:48; 38:65; 39:4; 40:16
+- #16 Al Wahhaab (Arjaa/ kennaa wa hundaa) 3:8; 38:9; 38:35
+- #17 Ar Razzaaq (Dhiyeessaa/ Jiraachisaa/ Kennaan Jireenyaa/ Dhiyeessaa Hundaa) 51:58
+- #18 Al Fattaah (Kan Banu/ Banu Karra Bu'aa/ Bane/ Kan Injifannoo Kennu) 34:26
+- #19 Al 'Aleem (Beekaa/ Hunda Beekaa/) 2:158; 3:92; 4:35; 24:41; 33:40
+- #20 Al Qaabid (Uggura/ eegaa/ Qajeelchaa/) 2:245
+- #21 Al Baasit (Guddisaa/ Badhaasaa/ Arjaaa) 2:245
+- #22 Al Khaafid (Salphisaaa/ xiqqeessaa) 95:5
+- #23 Ar Raafi' (Olkaasaa, kennaa/ guddisaa) 58:11; 6:83
+- #24 Al Mu'izz (Kabaja kan kennu, Humna kan kennu.) 3:26
+- #25 Al Mudhil (Salphisaa, xiqqeessaa, kabajaa dhabsiisaa) 3:26
+- #26 As Samee' (Dhagahaa) 2:127; 2:256; 8:17; 49:1
+- #27 Al Baseer (argaa: kan waan nuti gonu hunda nu argu) 4:58; 17:1; 42:11; 42:27
+- #28 Al Hakam (Abbaan Murtii/ Giddu-galeessa/ Abbaa Taayitaa/Abba dhugaa) 22:69
+- #29 Al Adl (Abbaa Murtii Haqaa/ Abba murtii dhugaa) 6:115
+- #30 Al Lateef (Gara laafessaa/ arjaaa) 6:103; 22:63; 31:16; 33:34
+- #31 Al Khabeer (ogeessa, hayyuu /garalafessa) 6:18; 17:30; 49:13; 59:18
+- #32 Al Haleem (obsaa/ dhiifama godhaa/ araaramaa/ aagii kennaa) 2:235; 17:44; 22:59; 35:41
+- #33 Al 'Azeem (Isa Guddaa/Jabaa/ cimaa./ kan humna guddaa fi aangoo guddaa qabuu) 2:255; 42:4; 56:96
+- #34 Al Ghafoor (Araaraama: kan waan hundaa dhiifama godhuu) 2:173; 8:69; 16:110; 41:32
+- #35 Ash Shakoor (Galateeffamaa/ Dinqisiisaa/ Badhaasa Dachaa) 35:30; 35:34; 42:23; 64:17
+- #36 Al Aliyy (Olaanaa, guddicha, moataa) 4:34; 31:30; 42:4; 42:51
+- #37 Al Kabeer (Guddaa/ Yeroo hundumaa Guddaa/ Irra Guddaa/ Bal'ina, Dandeettii fi Barbaachisummaa Guddaa Baay'ee Qabu) 13:9; 22:62; 31:30
+- #38 Al Hafeez (Kan Kunuunsu/ Yeroo hundumaa kan eegu/ Hundaa kan ilaalu/ kan eegu/ wardiyaa/) 11:57; 34:21; 42:6
+- #39 Al Muqeet (Sooraa/ Nyaachisaa) 4:85
+- #40 Al Haseeb (Murtii kan fidu/ Yeroo hundumaa kan lakkaa'u [Dhimma Hundaaf Kan Ilaalchisu].) 4:6; 4:86; 33:39
+- #41 Al Jaleel (Kabajamaa/ Olka'aa/ Yeroo baay'ee-Barbaachisaa/ Ulfina kan qabu) 55:27; 39:14; 7:143
+- #42 Al Kareem (Kabajamaa/ Arjaa/ kennaa/ Qaalii/ Tola ooltuu) 27:40; 82:6
+- #43 Ar Raqeeb (Daawwataa / Taajjabaa/ Yeroo hunda Dammaqaa) 4:1; 5:117
+- #44 Al Mujeeb (Deebii kennu/ Deebisaa/ Deebii Olaanaa/ Fudhataa Waamicha) 11:61
+- #45 Al Waasi' (Hunda hammata/Bal'aa / Bakka hundatti argamu/ Daangaa hin qabne/ Hundaa hammate) 2:268; 3:73; 5:54
+- #46 Al Hakeem (Hayyuu/ Yeroo hunda Beekaa/ Murtii Gaariin kan badhaafame) 31:27; 46:2; 57:1; 66:2
+- #47 Al Wudood (jalatamaa/ Yeroo hundumaa Jaalalaa) 11:90; 85:14
+- #48 Al Majeed (ulfina qabeessa/ surraa qabessaa/ olaanaa) 11:73
+- #49 Al Baa'ith (Du'aa kaasaa/ Dammaqsaa/ Kaasu/ Ergaa) 22:7
+- #50 Ash Shaheed (Ragaa/ Ragaa ba'aa/ Yeroo hundumaa Dhugaa Ba'aa) 4:166; 22:17; 41:53; 48:28
+- #51 Al Haqq (Dhugaa/ hooda/ Tokkicha Dhugaa keessatti Sagalee fi Dhugaa ta'uun isaa Mirkanaa'aa dha) 6:62; 22:6; 23:116; 24:25
+- #52 Al Wakeel (Abbaa Imaanaa, abdatamaa, Abukaatoo) 3:173; 4:171; 28:28; 73:9
+- #53 Al Qawiyy (Jabaa) 22:40; 22:74; 42:19; 57:25
+- #54 Al Mateen (Dhaabbata, Kan Jabaate) 51:58
+- #55 Al Waliyy (Garagaaraa) 4:45; 7:196; 42:28; 45:19
+- #56 Al Hameed (Faruun kan maltuun, galateeffama) 14:8; 31:12; 31:26; 41:42
+- #57 Al Muhsi (Kan Hundaa Lakkaa'u, Lakkaawwii) 72:28; 78:29; 82:10-12
+- #58 Al Mubdi (Oomishaa, aangafoo, eegalaa) 10:34; 27:64; 29:19; 85:13
+- #59 Al Mu'eed (Deebisaa, Deebisee Kan Hundaa Deebisu) 10:34; 27:64; 29:19; 85:13
+- #60 Al Muhiy (Jiraachisaa) 7:158; 15:23; 30:50; 57:2
+- #61 Al Mumeet (Ajjeesaa, Du'a kan fiduu) 3:156; 7:158; 15:23; 57:2
+- #62 Al Haiyy (Jiraataa) 2:255; 3:2; 25:58; 40:65
+- #63 Al Qayyoom (Kan Jiraate, Walabaa) 2:255; 3:2; 20:111
+- #64 Al Waajid (Hubataa, Kan Barbaadaa, Kan Hin Kufne) 38:44
+- #65 Al Maajid (maalalchiisaa/beekkamaa) 11:73
+- #66 Al Waahid (addiyyoo, qeenxee) 2:163; 5:73; 9:31; 18:110
+- #67 Al Ahad (Tokkicha) 112:1
+- #68 As Samad (Utuubaa, dhaabataa) 112:2
+- #69 Al Qaadir (Danda'aa) 6:65; 36:81; 46:33; 75:40
+- #70 Al Muqtadir (Murteessaa, irraa aanaa) 18:45; 54:42; 54:55
+- #71 Al Muqaddim (Fuulurafidaa, Kan Fuulduratti Fidu/Saffisaa) 16:61; 17:34
+- #72 Al Mu'akhir (Kan Harkifachiisaa, tursiisaa, fageessaa) 71:4
+- #73 Al Awwal (Jalqaba) 57:3
+- #74 Al Aakhir (Dhuma, goolaba) 57:3
+- #75 Az Zaahir (Mul'ataa) 57:3
+- #76 Al Baatin (Dhokataa, Kan Hin Mul'anne, Kan Keessaa) 57:3
+- #77 Al Waali (Bulchaan) 13:11; 22:7
+- #78 Al Muta'ali (Irra olaanaa) 13:9
+- #79 Al Barr (Kan Gaarii, Kan Faayidaa) 52:28
+- #80 At Tawwaab (Kan Yeroo Hundaa Dhiifama Godhu, Kan Gara Lakkisu) 2:128; 4:64; 49:12; 110:3
+- #81 Al Muntaqim (Haaloo ba'aa) 32:22; 43:41; 44:16
+- #82 Al Afuww (Dhiifama kan godhu, ofkalchaa, Araaramaa, Aagaa) 4:99; 4:149; 22:60
+- #83 Ar Ra'oof (Mararfataa, gara-laafessa, arjaa) 3:30; 9:117; 57:9; 59:10
+- #84 Maalik Ul Mulk (dhuunfataa, abbaa birmadummaa hundaa,) 3:26
+- #85 Dhu Al Jalaali Wa Al Ikraam (Dhuunfataa, Gooftaa kabajaa fi ulfinaa) 55:27; 55:78
+- #86 Al Muqsit (Kan Haqa qabeessa, Kan Barbaachisu) 3:18; 7:29
+- #87 Al Jaami' (funaanaa, sassaabaa, walitti qabaa) 3:9
+- #88 Al Ghaniyy (Dureessaa, soreessaa, ofdanda'aa) 3:97; 39:7; 47:38; 57:24
+- #89 Al Mughni (Badhaadhsaa) 9:28
+- #90 Al Maani' (Ittisaa, Kan ofirraa ittisu, Gaachana, wantee) 67:21
+- #91 Ad Daaarr (gidiraa, Miidhaa, hubaa) 6:17
+- #92 An Naafi' (faayidaa qabeessa, gaarii) 30:37
+- #93 An Noor (Ifa) 24:35
+- #94 Al Haadi (Qajeelchaa) 25:31
+- #95 Al Badi' (Ka'umsa, jalqaba Kan wal hin madaalle, Kan hin dhaqqabne, bareedaa) 2:117; 6:101
+- #96 Al Baaqi (Kan Hin Jijjiiramne, Daangaamaleessa, Kan Bara Baraa, waaraa) 55:27
+- #97 Al Waarith (Dhaalaa) 15:23
+- #98 Ar Rasheed (Qajeelchaa karaa sirrii) 2:256
+- #99 As Saboor (obsaa) 2:153; 3:200; 103:3
 Matching Ayahs
 - = Alif, Laam, Miim. 2:1; 3:1; 29:1; 30:1; 31:1; 32:1
 - = Isaan sun warra Gooftaa isaanii biraa qajeelina irra jiran; isaan sun isaantu milkaa'oota. 2:5; 31:5

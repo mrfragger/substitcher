@@ -2576,105 +2576,105 @@ Rub (1/8)
 - Rub 240 100:9-11; 101:1-11; 102:1-8; 103:1-3; 104:1-9; 105:1-5; 106:1-4; 107:1-7; 108:1-3; 109:1-6; 110:1-3; 111:1-5; 112:1-4; 113:1-5; 114:1-6
 The 99 Names of Allah
 - #0 Best of Names 7:180; 17:110; 20:8; 59:22-24
-- #1 Ar Rahmaan Zaɣa Ŋun Zaa Zɔri Naawuni 1:3; 17:110
-- #2 Ar Raheem Zaɣa Ŋun Zaa Zɔri Naawuni 2:163; 3:31; 4:100; 5:3
-- #3 Al Malik Naa 20:114; 23:116; 59:23; 62:1
-- #4 Al Quddus Zaɣa Ŋun Zaa Kasi 59:23; 62:1
-- #5 As Salaam Suhudoo Yiliŋa 59:23
-- #6 Al Mu'min Tiɣisigu ni Suhudoo Ŋun Tira 59:23
-- #7 Al Muhaymin Gula, Ŋun Gu 59:23
-- #8 Al Azeez Ŋun Nyɛ Ŋusili 3:6; 4:158; 9:40; 48:7
-- #9 Al Jabbaar Ŋun Pahi Zuɣu, Ŋun Labiri Mali 59:23
-- #10 Al Mutakabbir Ŋun Du, Ŋun Jilima 59:23
-- #11 Al Khaaliq Ŋun Nami 6:102; 13:16; 39:62; 40:62; 59:24
-- #12 Al Baari Ŋun Mali Yiko ni O Nam 59:24
-- #13 Al Musawwir Ŋun Ŋmɛri Di Ʒahandiya 59:24
-- #14 Al Ghaffaar Ŋun Chɛri M-paŋda 20:82; 38:66; 39:5; 40:42; 71:10
-- #15 Al Qahhaar Ŋun Nyɛŋdi 13:16; 14:48; 38:65; 39:4; 40:16
-- #16 Al Wahhaab Ŋun Tibiri Pini 3:8; 38:9; 38:35
-- #17 Ar Razzaaq Ŋun Tibiri Bindira 51:58
-- #18 Al Fattaah Ŋun Yɔri 34:26
-- #19 Al 'Aleem Ŋun Mi 2:158; 3:92; 4:35; 24:41; 33:40
-- #20 Al Qaabid Ŋun Su 2:245
-- #21 Al Baasit Ŋun Yεrgi 2:245
-- #22 Al Khaafid Ŋun Duɣiri 95:5
-- #23 Ar Raafi' Ŋun Duɣiri 58:11; 6:83
-- #24 Al Mu'izz Ŋun Tibiri Jilima 3:26
-- #25 Al Mudhil Ŋun Dirisiri 3:26
-- #26 As Samee' Ŋun Wumdi 2:127; 2:256; 8:17; 49:1
-- #27 Al Baseer Ŋun Nyi 4:58; 17:1; 42:11; 42:27
-- #28 Al Hakam Ʒiya 22:69
-- #29 Al Adl Ŋun Niŋdi Aadaliya 6:115
-- #30 Al Lateef Ŋun Mali Nambɔzɔbo 6:103; 22:63; 31:16; 33:34
-- #31 Al Khabeer Ŋun Mi 6:18; 17:30; 49:13; 59:18
-- #32 Al Haleem Ŋun Miri Nuhi 2:235; 17:44; 22:59; 35:41
-- #33 Al 'Azeem Ŋun Tali 2:255; 42:4; 56:96
-- #34 Al Ghafoor Ŋun Chɛri M-paŋda 2:173; 8:69; 16:110; 41:32
-- #35 Ash Shakoor Ŋun Paɣiri 35:30; 35:34; 42:23; 64:17
-- #36 Al Aliyy Ŋun Du 4:34; 31:30; 42:4; 42:51
-- #37 Al Kabeer Ŋun Tali 13:9; 22:62; 31:30
-- #38 Al Hafeez Ŋun Guli 11:57; 34:21; 42:6
-- #39 Al Muqeet Ŋun Tibiri Bindira 4:85
-- #40 Al Haseeb Ŋun Sali 4:6; 4:86; 33:39
-- #41 Al Jaleel Ŋun Jilima 55:27; 39:14; 7:143
-- #42 Al Kareem Ŋun Tibiri Pini 27:40; 82:6
-- #43 Ar Raqeeb Ŋun Guhiri 4:1; 5:117
-- #44 Al Mujeeb Ŋun Saɣiti 11:61
-- #45 Al Waasi' Ŋun Du 2:268; 3:73; 5:54
-- #46 Al Hakeem Yɛmgoli 31:27; 46:2; 57:1; 66:2
-- #47 Al Wudood Ŋun Mi Duya 11:90; 85:14
-- #48 Al Majeed Ŋun Jilima 11:73
-- #49 Al Baa'ith Ŋun Tibiri Nyɛvuli 22:7
-- #50 Ash Shaheed Ŋun Dira Shɛhira 4:166; 22:17; 41:53; 48:28
-- #51 Al Haqq Yɛlimaŋli 6:62; 22:6; 23:116; 24:25
-- #52 Al Wakeel Ŋun Ŋmariri Yɛla 3:173; 4:171; 28:28; 73:9
-- #53 Al Qawiyy Ŋun Nyɛ Ŋusili 22:40; 22:74; 42:19; 57:25
-- #54 Al Mateen Ŋun Tida 51:58
-- #55 Al Waliyy Ŋun Guli 4:45; 7:196; 42:28; 45:19
-- #56 Al Hameed Ŋun Jilima 14:8; 31:12; 31:26; 41:42
-- #57 Al Muhsi Ŋun Sali 72:28; 78:29; 82:10-12
-- #58 Al Mubdi Ŋun Pili 10:34; 27:64; 29:19; 85:13
-- #59 Al Mu'eed Ŋun Labiri Mali 10:34; 27:64; 29:19; 85:13
-- #60 Al Muhiy Ŋun Tibiri Nyɛvuli 7:158; 15:23; 30:50; 57:2
-- #61 Al Mumeet Ŋun Tibiri Kpiibu 3:156; 7:158; 15:23; 57:2
-- #62 Al Haiyy Ŋun Mali Nyɛvuli 2:255; 3:2; 25:58; 40:65
-- #63 Al Qayyoom Ŋun Zani Gaa 2:255; 3:2; 20:111
-- #64 Al Waajid Ŋun Ya 38:44
-- #65 Al Maajid Ŋun Jilima 11:73
-- #66 Al Waahid Yino 2:163; 5:73; 9:31; 18:110
-- #67 Al Ahad Yino 112:1
-- #68 As Samad Ŋun Ka Nia 112:2
-- #69 Al Qaadir Ŋun To 6:65; 36:81; 46:33; 75:40
-- #70 Al Muqtadir Ŋun Tɔ 18:45; 54:42; 54:55
-- #71 Al Muqaddim Ŋun Duɣiri 16:61; 17:34
-- #72 Al Mu'akhir Ŋun Yεri 71:4
-- #73 Al Awwal Ŋun Tuui 57:3
-- #74 Al Aakhir Ŋun Bahi 57:3
-- #75 Az Zaahir Ŋun Polo 57:3
-- #76 Al Baatin Ŋun Sɔɣi 57:3
-- #77 Al Waali Ŋun Su 13:11; 22:7
-- #78 Al Muta'ali Ŋun Du 13:9
-- #79 Al Barr Ŋun Maaŋa 52:28
-- #80 At Tawwaab Ŋun Saɣiti Tuba 2:128; 4:64; 49:12; 110:3
-- #81 Al Muntaqim Ŋun Tigiri 32:22; 43:41; 44:16
-- #82 Al Afuww Ŋun Chɛri M-paŋda 4:99; 4:149; 22:60
-- #83 Ar Ra'oof Ŋun Mali Nambɔzɔbo 3:30; 9:117; 57:9; 59:10
-- #84 Maalik Ul Mulk Naa 3:26
-- #85 Dhu Al Jalaali Wa Al Ikraam Jilima ni Tibu Ŋun Su 55:27; 55:78
-- #86 Al Muqsit Ŋun Niŋdi Aadaliya 3:18; 7:29
-- #87 Al Jaami' Ŋun Laɣindi 3:9
-- #88 Al Ghaniyy Ŋun Ka Nia 3:97; 39:7; 47:38; 57:24
-- #89 Al Mughni Ŋun Pihiri 9:28
-- #90 Al Maani' Ŋun Mɔŋdi 67:21
-- #91 Ad Daaarr Ŋun Tibiri Nangbankpeeni 6:17
-- #92 An Naafi' Ŋun Tibiri Anfaani 30:37
-- #93 An Noor Neesim 24:35
-- #94 Al Haadi Ŋun Dolsi 25:31
-- #95 Al Badi' Ŋun Nami 2:117; 6:101
-- #96 Al Baaqi Ŋun Pali 55:27
-- #97 Al Waarith Ŋun Di 15:23
-- #98 Ar Rasheed Ŋun Dolsi 2:256
-- #99 As Saboor Ŋun Miri Nuhi 2:153; 3:200; 103:3
+- #1 Ar Rahmaan (Zaɣa Ŋun Zaa Zɔri Naawuni) 1:3; 17:110
+- #2 Ar Raheem (Zaɣa Ŋun Zaa Zɔri Naawuni) 2:163; 3:31; 4:100; 5:3
+- #3 Al Malik (Naa) 20:114; 23:116; 59:23; 62:1
+- #4 Al Quddus (Zaɣa Ŋun Zaa Kasi) 59:23; 62:1
+- #5 As Salaam (Suhudoo Yiliŋa) 59:23
+- #6 Al Mu'min (Tiɣisigu ni Suhudoo Ŋun Tira) 59:23
+- #7 Al Muhaymin (Gula, Ŋun Gu) 59:23
+- #8 Al Azeez (Ŋun Nyɛ Ŋusili) 3:6; 4:158; 9:40; 48:7
+- #9 Al Jabbaar (Ŋun Pahi Zuɣu, Ŋun Labiri Mali) 59:23
+- #10 Al Mutakabbir (Ŋun Du, Ŋun Jilima) 59:23
+- #11 Al Khaaliq (Ŋun Nami) 6:102; 13:16; 39:62; 40:62; 59:24
+- #12 Al Baari (Ŋun Mali Yiko ni O Nam) 59:24
+- #13 Al Musawwir (Ŋun Ŋmɛri Di Ʒahandiya) 59:24
+- #14 Al Ghaffaar (Ŋun Chɛri M-paŋda) 20:82; 38:66; 39:5; 40:42; 71:10
+- #15 Al Qahhaar (Ŋun Nyɛŋdi) 13:16; 14:48; 38:65; 39:4; 40:16
+- #16 Al Wahhaab (Ŋun Tibiri Pini) 3:8; 38:9; 38:35
+- #17 Ar Razzaaq (Ŋun Tibiri Bindira) 51:58
+- #18 Al Fattaah (Ŋun Yɔri) 34:26
+- #19 Al 'Aleem (Ŋun Mi) 2:158; 3:92; 4:35; 24:41; 33:40
+- #20 Al Qaabid (Ŋun Su) 2:245
+- #21 Al Baasit (Ŋun Yεrgi) 2:245
+- #22 Al Khaafid (Ŋun Duɣiri) 95:5
+- #23 Ar Raafi' (Ŋun Duɣiri) 58:11; 6:83
+- #24 Al Mu'izz (Ŋun Tibiri Jilima) 3:26
+- #25 Al Mudhil (Ŋun Dirisiri) 3:26
+- #26 As Samee' (Ŋun Wumdi) 2:127; 2:256; 8:17; 49:1
+- #27 Al Baseer (Ŋun Nyi) 4:58; 17:1; 42:11; 42:27
+- #28 Al Hakam (Ʒiya) 22:69
+- #29 Al Adl (Ŋun Niŋdi Aadaliya) 6:115
+- #30 Al Lateef (Ŋun Mali Nambɔzɔbo) 6:103; 22:63; 31:16; 33:34
+- #31 Al Khabeer (Ŋun Mi) 6:18; 17:30; 49:13; 59:18
+- #32 Al Haleem (Ŋun Miri Nuhi) 2:235; 17:44; 22:59; 35:41
+- #33 Al 'Azeem (Ŋun Tali) 2:255; 42:4; 56:96
+- #34 Al Ghafoor (Ŋun Chɛri M-paŋda) 2:173; 8:69; 16:110; 41:32
+- #35 Ash Shakoor (Ŋun Paɣiri) 35:30; 35:34; 42:23; 64:17
+- #36 Al Aliyy (Ŋun Du) 4:34; 31:30; 42:4; 42:51
+- #37 Al Kabeer (Ŋun Tali) 13:9; 22:62; 31:30
+- #38 Al Hafeez (Ŋun Guli) 11:57; 34:21; 42:6
+- #39 Al Muqeet (Ŋun Tibiri Bindira) 4:85
+- #40 Al Haseeb (Ŋun Sali) 4:6; 4:86; 33:39
+- #41 Al Jaleel (Ŋun Jilima) 55:27; 39:14; 7:143
+- #42 Al Kareem (Ŋun Tibiri Pini) 27:40; 82:6
+- #43 Ar Raqeeb (Ŋun Guhiri) 4:1; 5:117
+- #44 Al Mujeeb (Ŋun Saɣiti) 11:61
+- #45 Al Waasi' (Ŋun Du) 2:268; 3:73; 5:54
+- #46 Al Hakeem (Yɛmgoli) 31:27; 46:2; 57:1; 66:2
+- #47 Al Wudood (Ŋun Mi Duya) 11:90; 85:14
+- #48 Al Majeed (Ŋun Jilima) 11:73
+- #49 Al Baa'ith (Ŋun Tibiri Nyɛvuli) 22:7
+- #50 Ash Shaheed (Ŋun Dira Shɛhira) 4:166; 22:17; 41:53; 48:28
+- #51 Al Haqq (Yɛlimaŋli) 6:62; 22:6; 23:116; 24:25
+- #52 Al Wakeel (Ŋun Ŋmariri Yɛla) 3:173; 4:171; 28:28; 73:9
+- #53 Al Qawiyy (Ŋun Nyɛ Ŋusili) 22:40; 22:74; 42:19; 57:25
+- #54 Al Mateen (Ŋun Tida) 51:58
+- #55 Al Waliyy (Ŋun Guli) 4:45; 7:196; 42:28; 45:19
+- #56 Al Hameed (Ŋun Jilima) 14:8; 31:12; 31:26; 41:42
+- #57 Al Muhsi (Ŋun Sali) 72:28; 78:29; 82:10-12
+- #58 Al Mubdi (Ŋun Pili) 10:34; 27:64; 29:19; 85:13
+- #59 Al Mu'eed (Ŋun Labiri Mali) 10:34; 27:64; 29:19; 85:13
+- #60 Al Muhiy (Ŋun Tibiri Nyɛvuli) 7:158; 15:23; 30:50; 57:2
+- #61 Al Mumeet (Ŋun Tibiri Kpiibu) 3:156; 7:158; 15:23; 57:2
+- #62 Al Haiyy (Ŋun Mali Nyɛvuli) 2:255; 3:2; 25:58; 40:65
+- #63 Al Qayyoom (Ŋun Zani Gaa) 2:255; 3:2; 20:111
+- #64 Al Waajid (Ŋun Ya) 38:44
+- #65 Al Maajid (Ŋun Jilima) 11:73
+- #66 Al Waahid (Yino) 2:163; 5:73; 9:31; 18:110
+- #67 Al Ahad (Yino) 112:1
+- #68 As Samad (Ŋun Ka Nia) 112:2
+- #69 Al Qaadir (Ŋun To) 6:65; 36:81; 46:33; 75:40
+- #70 Al Muqtadir (Ŋun Tɔ) 18:45; 54:42; 54:55
+- #71 Al Muqaddim (Ŋun Duɣiri) 16:61; 17:34
+- #72 Al Mu'akhir (Ŋun Yεri) 71:4
+- #73 Al Awwal (Ŋun Tuui) 57:3
+- #74 Al Aakhir (Ŋun Bahi) 57:3
+- #75 Az Zaahir (Ŋun Polo) 57:3
+- #76 Al Baatin (Ŋun Sɔɣi) 57:3
+- #77 Al Waali (Ŋun Su) 13:11; 22:7
+- #78 Al Muta'ali (Ŋun Du) 13:9
+- #79 Al Barr (Ŋun Maaŋa) 52:28
+- #80 At Tawwaab (Ŋun Saɣiti Tuba) 2:128; 4:64; 49:12; 110:3
+- #81 Al Muntaqim (Ŋun Tigiri) 32:22; 43:41; 44:16
+- #82 Al Afuww (Ŋun Chɛri M-paŋda) 4:99; 4:149; 22:60
+- #83 Ar Ra'oof (Ŋun Mali Nambɔzɔbo) 3:30; 9:117; 57:9; 59:10
+- #84 Maalik Ul Mulk (Naa) 3:26
+- #85 Dhu Al Jalaali Wa Al Ikraam (Jilima ni Tibu Ŋun Su) 55:27; 55:78
+- #86 Al Muqsit (Ŋun Niŋdi Aadaliya) 3:18; 7:29
+- #87 Al Jaami' (Ŋun Laɣindi) 3:9
+- #88 Al Ghaniyy (Ŋun Ka Nia) 3:97; 39:7; 47:38; 57:24
+- #89 Al Mughni (Ŋun Pihiri) 9:28
+- #90 Al Maani' (Ŋun Mɔŋdi) 67:21
+- #91 Ad Daaarr (Ŋun Tibiri Nangbankpeeni) 6:17
+- #92 An Naafi' (Ŋun Tibiri Anfaani) 30:37
+- #93 An Noor (Neesim) 24:35
+- #94 Al Haadi (Ŋun Dolsi) 25:31
+- #95 Al Badi' (Ŋun Nami) 2:117; 6:101
+- #96 Al Baaqi (Ŋun Pali) 55:27
+- #97 Al Waarith (Ŋun Di) 15:23
+- #98 Ar Rasheed (Ŋun Dolsi) 2:256
+- #99 As Saboor (Ŋun Miri Nuhi) 2:153; 3:200; 103:3
 Matching Ayahs
 - = Alif, Laam, Miim. 2:1; 3:1; 29:1; 30:1; 31:1; 32:1
 - = Ninvuɣu shɛba ban be doligu puuni yira bɛ Duuma (Naawuni) sani, ka ban nyɛ tarli. 2:5; 31:5

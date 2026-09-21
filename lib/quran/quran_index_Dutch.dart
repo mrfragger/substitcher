@@ -2693,105 +2693,105 @@ Rub (1/8)
 - Rub 240 100:9-11; 101:1-11; 102:1-8; 103:1-3; 104:1-9; 105:1-5; 106:1-4; 107:1-7; 108:1-3; 109:1-6; 110:1-3; 111:1-5; 112:1-4; 113:1-5; 114:1-6
 The 99 Names of Allah
 - #0 Best of Names 7:180; 17:110; 20:8; 59:22-24
-- #1 Ar Rahmaan 	de Barmhartige 1:3; 17:110
-- #2 Ar Raheem 	de Meest Genadevolle 2:163; 3:31; 4:100; 5:3
-- #3 Al Malik 	de Koning 20:114; 23:116; 59:23; 62:1
-- #4 Al Quddus 	de Heilige 59:23; 62:1
-- #5 As Salaam 	de Vredige 59:23
-- #6 Al Mu'min 	de Gever van Geloof 59:23
-- #7 Al Muhaymin 	de Autoriteit over Alles 59:23
-- #8 Al Azeez 	de Almachtige 3:6; 4:158; 9:40; 48:7
-- #9 Al Jabbaar 	de Dwingende 59:23
-- #10 Al Mutakabbir 	de Bezitter van Grootheid 59:23
-- #11 Al Khaaliq 	de Schepper 6:102; 13:16; 39:62; 40:62; 59:24
-- #12 Al Baari 	de Vernieuwer 59:24
-- #13 Al Musawwir 	de Vormgever 59:24
-- #14 Al Ghaffaar 	de Oneindige Vergever 20:82; 38:66; 39:5; 40:42; 71:10
-- #15 Al Qahhaar 	de Alles Dominerende 13:16; 14:48; 38:65; 39:4; 40:16
-- #16 Al Wahhaab 	de Genadige Schenker 3:8; 38:9; 38:35
-- #17 Ar Razzaaq 	de Grote Voorziener 51:58
-- #18 Al Fattaah 	de Opener 34:26
-- #19 Al 'Aleem 	de Alwetende 2:158; 3:92; 4:35; 24:41; 33:40
-- #20 Al Qaabid 	de Samentrekker 2:245
-- #21 Al Baasit   de Verruimer  2:245
-- #22 Al Khaafid  de Vernederaar 95:5
-- #23 Ar Raafi'   de Verheffer 58:11; 6:83
-- #24 Al Mu'izz   de Schenker van Eer  3:26
-- #25 Al Mudhil   de Onteerder  3:26
-- #26 As Samee'   de Alhorende 2:127; 2:256; 8:17; 49:1
-- #27 Al Baseer   de Alziende  4:58; 17:1; 42:11; 42:27
-- #28 Al Hakam    de Rechter 22:69
-- #29 Al Adl      de Rechtvaardige  6:115
-- #30 Al Lateef   de Subtiele 6:103; 22:63; 31:16; 33:34
-- #31 Al Khabeer  de Bewuste 6:18; 17:30; 49:13; 59:18
-- #32 Al Haleem   de Verdraagzame  2:235; 17:44; 22:59; 35:41
-- #33 Al 'Azeem   de Geweldige 2:255; 42:4; 56:96
-- #34 Al Ghafoor  de Meest Vergevingsgezinde  2:173; 8:69; 16:110; 41:32
-- #35 Ash Shakoor de Waarderende  35:30; 35:34; 42:23; 64:17
-- #36 Al Aliyy    de Allerhoogste 4:34; 31:30; 42:4; 42:51
-- #37 Al Kabeer   de Allergrootste  13:9; 22:62; 31:30
-- #38 Al Hafeez   de Beschermer 11:57; 34:21; 42:6
-- #39 Al Muqeet   de Onderhouder 4:85
-- #40 Al Haseeb   de Opsteller van de Rekening  4:6; 4:86; 33:39
-- #41 Al Jaleel   de Sublieme  55:27; 39:14; 7:143
-- #42 Al Kareem   de Edelmoedige  27:40; 82:6
-- #43 Ar Raqeeb   de Waakzame  4:1; 5:117
-- #44 Al Mujeeb   de Verhoorder 11:61
-- #45 Al Waasi'   de Alomvattende 2:268; 3:73; 5:54
-- #46 Al Hakeem   de Oneindig Wijze  31:27; 46:2; 57:1; 66:2
-- #47 Al Wudood   de Liefhebbende 11:90; 85:14
-- #48 Al Majeed   de Luisterrijke  11:73
-- #49 Al Baa'ith  de Opwekker van de Doden 22:7
-- #50 Ash Shaheed de Grote Getuige 4:166; 22:17; 41:53; 48:28
-- #51 Al Haqq     de Waarheid 6:62; 22:6; 23:116; 24:25
-- #52 Al Wakeel   de Gevolmachtigde 3:173; 4:171; 28:28; 73:9
-- #53 Al Qawiyy   de Sterke  22:40; 22:74; 42:19; 57:25
-- #54 Al Mateen   de Standvastige  51:58
-- #55 Al Waliyy   de Voogd 4:45; 7:196; 42:28; 45:19
-- #56 Al Hameed   de Lofwaardige  14:8; 31:12; 31:26; 41:42
-- #57 Al Muhsi    de Optekenaar 72:28; 78:29; 82:10-12
-- #58 Al Mubdi    de Voortbrenger 10:34; 27:64; 29:19; 85:13
-- #59 Al Mu'eed   de Hersteller  10:34; 27:64; 29:19; 85:13
-- #60 Al Muhiy    de Levensgevende 7:158; 15:23; 30:50; 57:2
-- #61 Al Mumeet   de Levensontnemende  3:156; 7:158; 15:23; 57:2
-- #62 Al Haiyy    de Eeuwiglevende 2:255; 3:2; 25:58; 40:65
-- #63 Al Qayyoom  de Zelfbestaande 2:255; 3:2; 20:111
-- #64 Al Waajid   de Vinder 38:44
-- #65 Al Maajid   de Nobele 11:73
-- #66 Al Waahid   de Ene 2:163; 5:73; 9:31; 18:110
-- #67 Al Ahad     de Unieke  112:1
-- #68 As Samad    de Onafhankelijke   112:2
-- #69 Al Qaadir   de Machtige  6:65; 36:81; 46:33; 75:40
-- #70 Al Muqtadir de Machtigste  18:45; 54:42; 54:55
-- #71 Al Muqaddim Degene die Bevordert 16:61; 17:34
-- #72 Al Mu’akhir de Vertrager  71:4
-- #73 Al Awwal    de Eerste 57:3
-- #74 Al Aakhir   de Laatste 57:3
-- #75 Az Zaahir   de Openlijke  57:3
-- #76 Al Baatin   de Verborgene 57:3
-- #77 Al Waali    De Regeerder  13:11; 22:7
-- #78 Al Muta’ali de Meest Verhevene 13:9
-- #79 Al Barr     de Rechtvaardige 52:28
-- #80 At Tawwaab  de Berouwaanvaardende 2:128; 4:64; 49:12; 110:3
-- #81 Al Muntaqim de Vergelder 32:22; 43:41; 44:16
-- #82 Al Afuww    de Schenker van Vergiffenis 4:99; 4:149; 22:60
-- #83 Ar Ra’oof   de Welwillende 3:30; 9:117; 57:9; 59:10
-- #84 Maalik Ul Mulk  de Koning der koningen 3:26
-- #85 Dhu Al Jalaali Wa Al Ikraam,  de Heer van Glorie en Eer 55:27; 55:78
-- #86 Al Muqsit   de Billijke 3:18; 7:29
-- #87 Al Jaami'   de Verzamelaar  3:9
-- #88 Al Ghaniyy  de Zelftoereikende 3:97; 39:7; 47:38; 57:24
-- #89 Al Mughni   de Verrijker  9:28
-- #90 Al Maani'   de Verhinderaar 67:21
-- #91 Ad Daaarr   de Beschadigende 6:17
-- #92 An Naafi’   de Begunstiger  30:37
-- #93 An Noor     het Licht 24:35
-- #94 Al Haadi    de Gids 25:31
-- #95 Al Badi'    de Ontwerper  2:117; 6:101
-- #96 Al Baaqi    de Eeuwige 55:27
-- #97 Al Waarith  de Erfgenaam 15:23
-- #98 Ar Rasheed  de Gids naar het Juiste Pad 2:256
-- #99 As Saboor   de Geduldige 2:153; 3:200; 103:3
+- #1 Ar Rahmaan (de Barmhartige) 1:3; 17:110
+- #2 Ar Raheem (de Meest Genadevolle) 2:163; 3:31; 4:100; 5:3
+- #3 Al Malik (de Koning) 20:114; 23:116; 59:23; 62:1
+- #4 Al Quddus (de Heilige) 59:23; 62:1
+- #5 As Salaam (de Vredige) 59:23
+- #6 Al Mu'min (de Gever van Geloof) 59:23
+- #7 Al Muhaymin (de Autoriteit over Alles) 59:23
+- #8 Al Azeez (de Almachtige) 3:6; 4:158; 9:40; 48:7
+- #9 Al Jabbaar (de Dwingende) 59:23
+- #10 Al Mutakabbir (de Bezitter van Grootheid) 59:23
+- #11 Al Khaaliq (de Schepper) 6:102; 13:16; 39:62; 40:62; 59:24
+- #12 Al Baari (de Vernieuwer) 59:24
+- #13 Al Musawwir (de Vormgever) 59:24
+- #14 Al Ghaffaar (de Oneindige Vergever) 20:82; 38:66; 39:5; 40:42; 71:10
+- #15 Al Qahhaar (de Alles Dominerende) 13:16; 14:48; 38:65; 39:4; 40:16
+- #16 Al Wahhaab (de Genadige Schenker) 3:8; 38:9; 38:35
+- #17 Ar Razzaaq (de Grote Voorziener) 51:58
+- #18 Al Fattaah (de Opener) 34:26
+- #19 Al 'Aleem (de Alwetende) 2:158; 3:92; 4:35; 24:41; 33:40
+- #20 Al Qaabid (de Samentrekker) 2:245
+- #21 Al Baasit (de Verruimer) 2:245
+- #22 Al Khaafid (de Vernederaar) 95:5
+- #23 Ar Raafi' (de Verheffer) 58:11; 6:83
+- #24 Al Mu'izz (de Schenker van Eer) 3:26
+- #25 Al Mudhil (de Onteerder) 3:26
+- #26 As Samee' (de Alhorende) 2:127; 2:256; 8:17; 49:1
+- #27 Al Baseer (de Alziende) 4:58; 17:1; 42:11; 42:27
+- #28 Al Hakam (de Rechter) 22:69
+- #29 Al Adl (de Rechtvaardige) 6:115
+- #30 Al Lateef (de Subtiele) 6:103; 22:63; 31:16; 33:34
+- #31 Al Khabeer (de Bewuste) 6:18; 17:30; 49:13; 59:18
+- #32 Al Haleem (de Verdraagzame) 2:235; 17:44; 22:59; 35:41
+- #33 Al 'Azeem (de Geweldige) 2:255; 42:4; 56:96
+- #34 Al Ghafoor (de Meest Vergevingsgezinde) 2:173; 8:69; 16:110; 41:32
+- #35 Ash Shakoor (de Waarderende) 35:30; 35:34; 42:23; 64:17
+- #36 Al Aliyy (de Allerhoogste) 4:34; 31:30; 42:4; 42:51
+- #37 Al Kabeer (de Allergrootste) 13:9; 22:62; 31:30
+- #38 Al Hafeez (de Beschermer) 11:57; 34:21; 42:6
+- #39 Al Muqeet (de Onderhouder) 4:85
+- #40 Al Haseeb (de Opsteller van de Rekening) 4:6; 4:86; 33:39
+- #41 Al Jaleel (de Sublieme) 55:27; 39:14; 7:143
+- #42 Al Kareem (de Edelmoedige) 27:40; 82:6
+- #43 Ar Raqeeb (de Waakzame) 4:1; 5:117
+- #44 Al Mujeeb (de Verhoorder) 11:61
+- #45 Al Waasi' (de Alomvattende) 2:268; 3:73; 5:54
+- #46 Al Hakeem (de Oneindig Wijze) 31:27; 46:2; 57:1; 66:2
+- #47 Al Wudood (de Liefhebbende) 11:90; 85:14
+- #48 Al Majeed (de Luisterrijke) 11:73
+- #49 Al Baa'ith (de Opwekker van de Doden) 22:7
+- #50 Ash Shaheed (de Grote Getuige) 4:166; 22:17; 41:53; 48:28
+- #51 Al Haqq (de Waarheid) 6:62; 22:6; 23:116; 24:25
+- #52 Al Wakeel (de Gevolmachtigde) 3:173; 4:171; 28:28; 73:9
+- #53 Al Qawiyy (de Sterke) 22:40; 22:74; 42:19; 57:25
+- #54 Al Mateen (de Standvastige) 51:58
+- #55 Al Waliyy (de Voogd) 4:45; 7:196; 42:28; 45:19
+- #56 Al Hameed (de Lofwaardige) 14:8; 31:12; 31:26; 41:42
+- #57 Al Muhsi (de Optekenaar) 72:28; 78:29; 82:10-12
+- #58 Al Mubdi (de Voortbrenger) 10:34; 27:64; 29:19; 85:13
+- #59 Al Mu'eed (de Hersteller) 10:34; 27:64; 29:19; 85:13
+- #60 Al Muhiy (de Levensgevende) 7:158; 15:23; 30:50; 57:2
+- #61 Al Mumeet (de Levensontnemende) 3:156; 7:158; 15:23; 57:2
+- #62 Al Haiyy (de Eeuwiglevende) 2:255; 3:2; 25:58; 40:65
+- #63 Al Qayyoom (de Zelfbestaande) 2:255; 3:2; 20:111
+- #64 Al Waajid (de Vinder) 38:44
+- #65 Al Maajid (de Nobele) 11:73
+- #66 Al Waahid (de Ene) 2:163; 5:73; 9:31; 18:110
+- #67 Al Ahad (de Unieke) 112:1
+- #68 As Samad (de Onafhankelijke) 112:2
+- #69 Al Qaadir (de Machtige) 6:65; 36:81; 46:33; 75:40
+- #70 Al Muqtadir (de Machtigste) 18:45; 54:42; 54:55
+- #71 Al Muqaddim (Degene die Bevordert) 16:61; 17:34
+- #72 Al Mu'akhir (de Vertrager) 71:4
+- #73 Al Awwal (de Eerste) 57:3
+- #74 Al Aakhir (de Laatste) 57:3
+- #75 Az Zaahir (de Openlijke) 57:3
+- #76 Al Baatin (de Verborgene) 57:3
+- #77 Al Waali (De Regeerder) 13:11; 22:7
+- #78 Al Muta'ali (de Meest Verhevene) 13:9
+- #79 Al Barr (de Rechtvaardige) 52:28
+- #80 At Tawwaab (de Berouwaanvaardende) 2:128; 4:64; 49:12; 110:3
+- #81 Al Muntaqim (de Vergelder) 32:22; 43:41; 44:16
+- #82 Al Afuww (de Schenker van Vergiffenis) 4:99; 4:149; 22:60
+- #83 Ar Ra'oof (de Welwillende) 3:30; 9:117; 57:9; 59:10
+- #84 Maalik Ul Mulk (de Koning der koningen) 3:26
+- #85 Dhu Al Jalaali Wa Al Ikraam (de Heer van Glorie en Eer) 55:27; 55:78
+- #86 Al Muqsit (de Billijke) 3:18; 7:29
+- #87 Al Jaami' (de Verzamelaar) 3:9
+- #88 Al Ghaniyy (de Zelftoereikende) 3:97; 39:7; 47:38; 57:24
+- #89 Al Mughni (de Verrijker) 9:28
+- #90 Al Maani' (de Verhinderaar) 67:21
+- #91 Ad Daaarr (de Beschadigende) 6:17
+- #92 An Naafi' (de Begunstiger) 30:37
+- #93 An Noor (het Licht) 24:35
+- #94 Al Haadi (de Gids) 25:31
+- #95 Al Badi' (de Ontwerper) 2:117; 6:101
+- #96 Al Baaqi (de Eeuwige) 55:27
+- #97 Al Waarith (de Erfgenaam) 15:23
+- #98 Ar Rasheed (de Gids naar het Juiste Pad) 2:256
+- #99 As Saboor (de Geduldige) 2:153; 3:200; 103:3
 Matching Ayahs
 - = Alif, Lam, Mim. 2:1; 3:1; 29:1; 30:1; 31:1; 32:1
 - = Zij zijn op de rechte weg van hun Heer, en zij zijn degenen die slagen. 2:5; 31:5

@@ -2693,105 +2693,105 @@ Rub (1/8)
 - Rub 240 100:9-11; 101:1-11; 102:1-8; 103:1-3; 104:1-9; 105:1-5; 106:1-4; 107:1-7; 108:1-3; 109:1-6; 110:1-3; 111:1-5; 112:1-4; 113:1-5; 114:1-6
 The 99 Names of Allah
 - #0 Best of Names 7:180; 17:110; 20:8; 59:22-24
-- #1 Ar Rahmaan 	O Misericordioso 1:3; 17:110
-- #2 Ar Raheem 	O Clemente; O Misericordioso 2:163; 3:31; 4:100; 5:3
-- #3 Al Malik 	O Soberano 20:114; 23:116; 59:23; 62:1
-- #4 Al Quddus 	O Sagrado 59:23; 62:1
-- #5 As Salaam 	A Fonte da Paz 59:23
-- #6 Al Mu'min 	O Guardião da Fé; A Fonte da Fé 59:23
-- #7 Al Muhaymin 	O Protetor 59:23
-- #8 Al Azeez 	O Poderoso (Onipotente) 3:6; 4:158; 9:40; 48:7
-- #9 Al Jabbaar 	O Irresistível; O que Compele 59:23
-- #10 Al Mutakabbir 	O Majestoso 59:23
-- #11 Al Khaaliq 	O Criador 6:102; 13:16; 39:62; 40:62; 59:24
-- #12 Al Baari 	O que Faz evoluir; O que Concebe 59:24
-- #13 Al Musawwir 	O Formador; O Modelador 59:24
-- #14 Al Ghaffaar 	O que Perdoa 20:82; 38:66; 39:5; 40:42; 71:10
-- #15 Al Qahhaar 	O Dominador 13:16; 14:48; 38:65; 39:4; 40:16
-- #16 Al Wahhaab 	O Doador 3:8; 38:9; 38:35
-- #17 Ar Razzaaq 	O Provedor 51:58
-- #18 Al Fattaah 	O que abre 34:26
-- #19 Al 'Aleem 	O que Tudo Sabe; O Omnisciente 2:158; 3:92; 4:35; 24:41; 33:40
-- #20 Al Qaabid 	Aquele que Constringe 2:245
-- #21 Al Baasit   O que Expande; O Magnânimo  2:245
-- #22 Al Khaafid  O que Rebaixa 95:5
-- #23 Ar Raafi'   O que Exalta 58:11; 6:83
-- #24 Al Mu'izz   O que Honra  3:26
-- #25 Al Mudhil   O que Desonra  3:26
-- #26 As Samee'   O que Tudo Ouve 2:127; 2:256; 8:17; 49:1
-- #27 Al Baseer   O que Tudo Vê  4:58; 17:1; 42:11; 42:27
-- #28 Al Hakam    O Juiz 22:69
-- #29 Al Adl      O Justo  6:115
-- #30 Al Lateef   O Sutil 6:103; 22:63; 31:16; 33:34
-- #31 Al Khabeer  O Ciente; O Desperto 6:18; 17:30; 49:13; 59:18
-- #32 Al Haleem   O Clemente; O Delicado  2:235; 17:44; 22:59; 35:41
-- #33 Al 'Azeem   O Magnificiente; O Infinito 2:255; 42:4; 56:96
-- #34 Al Ghafoor  O que Tudo Perdoa  2:173; 8:69; 16:110; 41:32
-- #35 Ash Shakoor O Apreciador  35:30; 35:34; 42:23; 64:17
-- #36 Al Aliyy    O Mais Alto 4:34; 31:30; 42:4; 42:51
-- #37 Al Kabeer   O Maior  13:9; 22:62; 31:30
-- #38 Al Hafeez   O Preservador 11:57; 34:21; 42:6
-- #39 Al Muqeet   O que Sustenta 4:85
-- #40 Al Haseeb   O que Reconhece  4:6; 4:86; 33:39
-- #41 Al Jaleel   O Sublime  55:27; 39:14; 7:143
-- #42 Al Kareem   O Generoso  27:40; 82:6
-- #43 Ar Raqeeb   O Vigilante  4:1; 5:117
-- #44 Al Mujeeb   O que Responde 11:61
-- #45 Al Waasi'   O que Tudo Abraça 2:268; 3:73; 5:54
-- #46 Al Hakeem   O Sábio  31:27; 46:2; 57:1; 66:2
-- #47 Al Wudood   O Amante 11:90; 85:14
-- #48 Al Majeed   O Glorioso  11:73
-- #49 Al Baa'ith  O que Ressuscita 22:7
-- #50 Ash Shaheed A Testemunha 4:166; 22:17; 41:53; 48:28
-- #51 Al Haqq     A Verdade, Aquele que é Real 6:62; 22:6; 23:116; 24:25
-- #52 Al Wakeel   O Confiável; O Depositário 3:173; 4:171; 28:28; 73:9
-- #53 Al Qawiyy   O Mais Forte  22:40; 22:74; 42:19; 57:25
-- #54 Al Mateen   O Firme, o Leal  51:58
-- #55 Al Waliyy   O Amigo Protetor, O Patrono e Ajudante 4:45; 7:196; 42:28; 45:19
-- #56 Al Hameed   O Digno de Louvor  14:8; 31:12; 31:26; 41:42
-- #57 Al Muhsi    O Calculador, O Numerador de Tudo 72:28; 78:29; 82:10-12
-- #58 Al Mubdi    O que Dá Origem; O Produtor; O Originador e Iniciador de Tudo 10:34; 27:64; 29:19; 85:13
-- #59 Al Mu'eed   O Restaurador; Que Traz Tudo de Volta  10:34; 27:64; 29:19; 85:13
-- #60 Al Muhiy    O Doador da Vida 7:158; 15:23; 30:50; 57:2
-- #61 Al Mumeet   O Criador da Morte, O Destruidor  3:156; 7:158; 15:23; 57:2
-- #62 Al Haiyy    O Eterno Vivente 2:255; 3:2; 25:58; 40:65
-- #63 Al Qayyoom  O Auto-Subsistente; O que a Tudo Sustém 2:255; 3:2; 20:111
-- #64 Al Waajid   O que Encontra; O que Percebe; O Infalível 38:44
-- #65 Al Maajid   O Nobre O Magnificente 11:73
-- #66 Al Waahid   O Único O Indivízível 2:163; 5:73; 9:31; 18:110
-- #67 Al Ahad     O Único  112:1
-- #68 As Samad    O Eterno; O Impregnável   112:2
-- #69 Al Qaadir   O Capaz  6:65; 36:81; 46:33; 75:40
-- #70 Al Muqtadir O Mais Poderoso; O Dominante; O que Tudo Determina  18:45; 54:42; 54:55
-- #71 Al Muqaddim O que Adianta; O que Apressa 16:61; 17:34
-- #72 Al Mu’akhir O que Atrasa; O que Retarda  71:4
-- #73 Al Awwal    O Primeiro 57:3
-- #74 Al Aakhir   O Último 57:3
-- #75 Az Zaahir   O Manifesto  57:3
-- #76 Al Baatin   O Oculto 57:3
-- #77 Al Waali    O que Governa; O Patrão  13:11; 22:7
-- #78 Al Muta’ali O Mais Elevado 13:9
-- #79 Al Barr     A Fonte da Bondade; O Mais Generoso e Correto 52:28
-- #80 At Tawwaab  O que Aceita o Arrependimento 2:128; 4:64; 49:12; 110:3
-- #81 Al Muntaqim O Vingador 32:22; 43:41; 44:16
-- #82 Al Afuww    O que Perdoa 4:99; 4:149; 22:60
-- #83 Ar Ra’oof   O Compassivo 3:30; 9:117; 57:9; 59:10
-- #84 Maalik Ul Mulk  O Detentor de Toda A Majestade; O Eterno Detentor da Soberania 3:26
-- #85 Dhu Al Jalaali Wa Al Ikraam,  O Senhor da Majestade e da Generosidade 55:27; 55:78
-- #86 Al Muqsit   O Equitativo 3:18; 7:29
-- #87 Al Jaami'   O que Reúne; o que Unifica  3:9
-- #88 Al Ghaniyy  O Auto-Suficiente; O Independente; O Possuidor de Todas as Riquezas 3:97; 39:7; 47:38; 57:24
-- #89 Al Mughni   O Enriquecedor; O Emancipador  9:28
-- #90 Al Maani'   O que Impede; O que Defende 67:21
-- #91 Ad Daaarr   O que Causa Preocupações 6:17
-- #92 An Naafi’   O que Beneficia  30:37
-- #93 An Noor     A Luz 24:35
-- #94 Al Haadi    O Guia 25:31
-- #95 Al Badi'    O Incomparável, O Originador  2:117; 6:101
-- #96 Al Baaqi    O Perpétuo 55:27
-- #97 Al Waarith  O Herdeiro Supremo 15:23
-- #98 Ar Rasheed  O Guia para o Caminho Reto, O Professor Infalível, O Conhecedor 2:256
-- #99 As Saboor   O Paciente, O Eterno 2:153; 3:200; 103:3
+- #1 Ar Rahmaan (O Misericordioso) 1:3; 17:110
+- #2 Ar Raheem (O Clemente; O Misericordioso) 2:163; 3:31; 4:100; 5:3
+- #3 Al Malik (O Soberano) 20:114; 23:116; 59:23; 62:1
+- #4 Al Quddus (O Sagrado) 59:23; 62:1
+- #5 As Salaam (A Fonte da Paz) 59:23
+- #6 Al Mu'min (O Guardião da Fé; A Fonte da Fé) 59:23
+- #7 Al Muhaymin (O Protetor) 59:23
+- #8 Al Azeez (O Poderoso (Onipotente)) 3:6; 4:158; 9:40; 48:7
+- #9 Al Jabbaar (O Irresistível; O que Compele) 59:23
+- #10 Al Mutakabbir (O Majestoso) 59:23
+- #11 Al Khaaliq (O Criador) 6:102; 13:16; 39:62; 40:62; 59:24
+- #12 Al Baari (O que Faz evoluir; O que Concebe) 59:24
+- #13 Al Musawwir (O Formador; O Modelador) 59:24
+- #14 Al Ghaffaar (O que Perdoa) 20:82; 38:66; 39:5; 40:42; 71:10
+- #15 Al Qahhaar (O Dominador) 13:16; 14:48; 38:65; 39:4; 40:16
+- #16 Al Wahhaab (O Doador) 3:8; 38:9; 38:35
+- #17 Ar Razzaaq (O Provedor) 51:58
+- #18 Al Fattaah (O que abre) 34:26
+- #19 Al 'Aleem (O que Tudo Sabe; O Omnisciente) 2:158; 3:92; 4:35; 24:41; 33:40
+- #20 Al Qaabid (Aquele que Constringe) 2:245
+- #21 Al Baasit (O que Expande; O Magnânimo) 2:245
+- #22 Al Khaafid (O que Rebaixa) 95:5
+- #23 Ar Raafi' (O que Exalta) 58:11; 6:83
+- #24 Al Mu'izz (O que Honra) 3:26
+- #25 Al Mudhil (O que Desonra) 3:26
+- #26 As Samee' (O que Tudo Ouve) 2:127; 2:256; 8:17; 49:1
+- #27 Al Baseer (O que Tudo Vê) 4:58; 17:1; 42:11; 42:27
+- #28 Al Hakam (O Juiz) 22:69
+- #29 Al Adl (O Justo) 6:115
+- #30 Al Lateef (O Sutil) 6:103; 22:63; 31:16; 33:34
+- #31 Al Khabeer (O Ciente; O Desperto) 6:18; 17:30; 49:13; 59:18
+- #32 Al Haleem (O Clemente; O Delicado) 2:235; 17:44; 22:59; 35:41
+- #33 Al 'Azeem (O Magnificiente; O Infinito) 2:255; 42:4; 56:96
+- #34 Al Ghafoor (O que Tudo Perdoa) 2:173; 8:69; 16:110; 41:32
+- #35 Ash Shakoor (O Apreciador) 35:30; 35:34; 42:23; 64:17
+- #36 Al Aliyy (O Mais Alto) 4:34; 31:30; 42:4; 42:51
+- #37 Al Kabeer (O Maior) 13:9; 22:62; 31:30
+- #38 Al Hafeez (O Preservador) 11:57; 34:21; 42:6
+- #39 Al Muqeet (O que Sustenta) 4:85
+- #40 Al Haseeb (O que Reconhece) 4:6; 4:86; 33:39
+- #41 Al Jaleel (O Sublime) 55:27; 39:14; 7:143
+- #42 Al Kareem (O Generoso) 27:40; 82:6
+- #43 Ar Raqeeb (O Vigilante) 4:1; 5:117
+- #44 Al Mujeeb (O que Responde) 11:61
+- #45 Al Waasi' (O que Tudo Abraça) 2:268; 3:73; 5:54
+- #46 Al Hakeem (O Sábio) 31:27; 46:2; 57:1; 66:2
+- #47 Al Wudood (O Amante) 11:90; 85:14
+- #48 Al Majeed (O Glorioso) 11:73
+- #49 Al Baa'ith (O que Ressuscita) 22:7
+- #50 Ash Shaheed (A Testemunha) 4:166; 22:17; 41:53; 48:28
+- #51 Al Haqq (A Verdade, Aquele que é Real) 6:62; 22:6; 23:116; 24:25
+- #52 Al Wakeel (O Confiável; O Depositário) 3:173; 4:171; 28:28; 73:9
+- #53 Al Qawiyy (O Mais Forte) 22:40; 22:74; 42:19; 57:25
+- #54 Al Mateen (O Firme, o Leal) 51:58
+- #55 Al Waliyy (O Amigo Protetor, O Patrono e Ajudante) 4:45; 7:196; 42:28; 45:19
+- #56 Al Hameed (O Digno de Louvor) 14:8; 31:12; 31:26; 41:42
+- #57 Al Muhsi (O Calculador, O Numerador de Tudo) 72:28; 78:29; 82:10-12
+- #58 Al Mubdi (O que Dá Origem; O Produtor; O Originador e Iniciador de Tudo) 10:34; 27:64; 29:19; 85:13
+- #59 Al Mu'eed (O Restaurador; Que Traz Tudo de Volta) 10:34; 27:64; 29:19; 85:13
+- #60 Al Muhiy (O Doador da Vida) 7:158; 15:23; 30:50; 57:2
+- #61 Al Mumeet (O Criador da Morte, O Destruidor) 3:156; 7:158; 15:23; 57:2
+- #62 Al Haiyy (O Eterno Vivente) 2:255; 3:2; 25:58; 40:65
+- #63 Al Qayyoom (O Auto-Subsistente; O que a Tudo Sustém) 2:255; 3:2; 20:111
+- #64 Al Waajid (O que Encontra; O que Percebe; O Infalível) 38:44
+- #65 Al Maajid (O Nobre O Magnificente) 11:73
+- #66 Al Waahid (O Único O Indivízível) 2:163; 5:73; 9:31; 18:110
+- #67 Al Ahad (O Único) 112:1
+- #68 As Samad (O Eterno; O Impregnável) 112:2
+- #69 Al Qaadir (O Capaz) 6:65; 36:81; 46:33; 75:40
+- #70 Al Muqtadir (O Mais Poderoso; O Dominante; O que Tudo Determina) 18:45; 54:42; 54:55
+- #71 Al Muqaddim (O que Adianta; O que Apressa) 16:61; 17:34
+- #72 Al Mu'akhir (O que Atrasa; O que Retarda) 71:4
+- #73 Al Awwal (O Primeiro) 57:3
+- #74 Al Aakhir (O Último) 57:3
+- #75 Az Zaahir (O Manifesto) 57:3
+- #76 Al Baatin (O Oculto) 57:3
+- #77 Al Waali (O que Governa; O Patrão) 13:11; 22:7
+- #78 Al Muta'ali (O Mais Elevado) 13:9
+- #79 Al Barr (A Fonte da Bondade; O Mais Generoso e Correto) 52:28
+- #80 At Tawwaab (O que Aceita o Arrependimento) 2:128; 4:64; 49:12; 110:3
+- #81 Al Muntaqim (O Vingador) 32:22; 43:41; 44:16
+- #82 Al Afuww (O que Perdoa) 4:99; 4:149; 22:60
+- #83 Ar Ra'oof (O Compassivo) 3:30; 9:117; 57:9; 59:10
+- #84 Maalik Ul Mulk (O Detentor de Toda A Majestade; O Eterno Detentor da Soberania) 3:26
+- #85 Dhu Al Jalaali Wa Al Ikraam (O Senhor da Majestade e da Generosidade) 55:27; 55:78
+- #86 Al Muqsit (O Equitativo) 3:18; 7:29
+- #87 Al Jaami' (O que Reúne; o que Unifica) 3:9
+- #88 Al Ghaniyy (O Auto-Suficiente; O Independente; O Possuidor de Todas as Riquezas) 3:97; 39:7; 47:38; 57:24
+- #89 Al Mughni (O Enriquecedor; O Emancipador) 9:28
+- #90 Al Maani' (O que Impede; O que Defende) 67:21
+- #91 Ad Daaarr (O que Causa Preocupações) 6:17
+- #92 An Naafi' (O que Beneficia) 30:37
+- #93 An Noor (A Luz) 24:35
+- #94 Al Haadi (O Guia) 25:31
+- #95 Al Badi' (O Incomparável, O Originador) 2:117; 6:101
+- #96 Al Baaqi (O Perpétuo) 55:27
+- #97 Al Waarith (O Herdeiro Supremo) 15:23
+- #98 Ar Rasheed (O Guia para o Caminho Reto, O Professor Infalível, O Conhecedor) 2:256
+- #99 As Saboor (O Paciente, O Eterno) 2:153; 3:200; 103:3
 Matching Ayahs
 - = Alif, Lam, Mim. 2:1; 3:1; 29:1; 30:1; 31:1; 32:1
 - = Esses estão na orientação reta de seu Senhor, e esses são os bem-sucedidos. 2:5; 31:5

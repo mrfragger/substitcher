@@ -2693,105 +2693,105 @@ Rub (1/8)
 - Rub 240 100:9-11; 101:1-11; 102:1-8; 103:1-3; 104:1-9; 105:1-5; 106:1-4; 107:1-7; 108:1-3; 109:1-6; 110:1-3; 111:1-5; 112:1-4; 113:1-5; 114:1-6
 The 99 Names of Allah
 - #0 Best of Names 7:180; 17:110; 20:8; 59:22-24
-- #1 Ar Rahmaan 	Yang Maha Pemurah dan Yang Memberi Rahmat 1:3; 17:110
-- #2 Ar Raheem 	Yang Maha Pengasih kepada semua makhluk 2:163; 3:31; 4:100; 5:3
-- #3 Al Malik 	Yang Maha Memiliki Segala Ke­kuasaan 20:114; 23:116; 59:23; 62:1
-- #4 Al Quddus 	Yang Maha Suci 59:23; 62:1
-- #5 As Salaam 	Yang Maha Sejahtera 59:23
-- #6 Al Mu'min 	Yang Maha Melimpahkan Ke­aman­an dan Kesejahteraan 59:23
-- #7 Al Muhaymin 	Yang Maha Mengawal 59:23
-- #8 Al Azeez 	Yang Maha Berkuasa dan Perkasa 3:6; 4:158; 9:40; 48:7
-- #9 Al Jabbaar 	Yang Maha Perkasa 59:23
-- #10 Al Mutakabbir 	Yang Maha Memiliki Segala Kebesaran 59:23
-- #11 Al Khaaliq 	Yang Maha Pencipta Sekalian Makhluk 6:102; 13:16; 39:62; 40:62; 59:24
-- #12 Al Baari 	Yang Maha Pencipta Makhluk 59:24
-- #13 Al Musawwir 	Yang Maha Menentukan Ben­tuk Rupa Makhluk-Nya 59:24
-- #14 Al Ghaffaar 	Yang Maha Mengampuni 20:82; 38:66; 39:5; 40:42; 71:10
-- #15 Al Qahhaar 	Yang Maha Gagah Perkasa 13:16; 14:48; 38:65; 39:4; 40:16
-- #16 Al Wahhaab 	Yang Maha Pemberi 3:8; 38:9; 38:35
-- #17 Ar Razzaaq 	Yang Maha Memberi Rezeki 51:58
-- #18 Al Fattaah 	Yang Maha Pembuka 34:26
-- #19 Al 'Aleem 	Yang Maha Mengetahui 2:158; 3:92; 4:35; 24:41; 33:40
-- #20 Al Qaabid 	Yang Maha Pengekang 2:245
-- #21 Al Baasit   Yang Maha Melapangkan  2:245
-- #22 Al Khaafid  Yang Maha Merendahkan Darjat Seseorang 95:5
-- #23 Ar Raafi'   Yang Maha Meninggi­kan Darjat 58:11; 6:83
-- #24 Al Mu'izz   Yang Maha Memuliakan  3:26
-- #25 Al Mudhil   Yang Maha Menghina Musuh-Nya  3:26
-- #26 As Samee'   Yang Maha Mendengar 2:127; 2:256; 8:17; 49:1
-- #27 Al Baseer   Yang Maha Melihat 4:58; 17:1; 42:11; 42:27
-- #28 Al Hakam    Yang Maha Menentukan Hu­kuman 22:69
-- #29 Al Adl      Yang Maha Adil  6:115
-- #30 Al Lateef   Yang Maha Lemah Lembut dan Menge­tahui Segala Sesuatu Sehalus-halusnya 6:103; 22:63; 31:16; 33:34
-- #31 Al Khabeer  Yang Maha Sedia Mengetahui 6:18; 17:30; 49:13; 59:18
-- #32 Al Haleem   Yang Maha Penyantun dan Pe­nya­bar  2:235; 17:44; 22:59; 35:41
-- #33 Al 'Azeem   Yang Maha Agung 2:255; 42:4; 56:96
-- #34 Al Ghafoor  Yang Maha Sedia Mengampuni  2:173; 8:69; 16:110; 41:32
-- #35 Ash Shakoor Yang Maha Meng­gandakan Balasan  35:30; 35:34; 42:23; 64:17
-- #36 Al Aliyy    Yang Maha Tinggi (Luhur) 4:34; 31:30; 42:4; 42:51
-- #37 Al Kabeer   Maha Besar  13:9; 22:62; 31:30
-- #38 Al Hafeez   Yang Maha Memelihara 11:57; 34:21; 42:6
-- #39 Al Muqeet   Yang Maha Menyediakan Segala Keperluan Makhluk-Nya 4:85
-- #40 Al Haseeb   Yang Maha Menghitung Amalan Makhluk  4:6; 4:86; 33:39
-- #41 Al Jaleel   Yang Maha Memiliki Sifat Ke­agung­an Yang Tiada Pada Makhluk  55:27; 39:14; 7:143
-- #42 Al Kareem   Yang Maha Mulia dan Sedia Mem­beri  27:40; 82:6
-- #43 Ar Raqeeb   Yang Maha Mengawasi  4:1; 5:117
-- #44 Al Mujeeb   Yang Maha Memakbulkan 11:61
-- #45 Al Waasi'   Yang Maha Luas Ilmu dan Rahmat-Nya 2:268; 3:73; 5:54
-- #46 Al Hakeem   Yang Maha Bijaksana  31:27; 46:2; 57:1; 66:2
-- #47 Al Wudood   Yang Maha Mengasihi orang yang beriman kepada-Nya 11:90; 85:14
-- #48 Al Majeed   Yang Maha Sempurna  11:73
-- #49 Al Baa'ith  Yang Membangkitkan Manusia 22:7
-- #50 Ash Shaheed Yang Maha Me­nyak­sikan Segala Kebenaran 4:166; 22:17; 41:53; 48:28
-- #51 Al Haqq     Yang Maha Benar 6:62; 22:6; 23:116; 24:25
-- #52 Al Wakeel   Yang Maha Pelindung 3:173; 4:171; 28:28; 73:9
-- #53 Al Qawiyy   Yang Maha Berkuasa  22:40; 22:74; 42:19; 57:25
-- #54 Al Mateen   Yang Maha Teguh Kekuatan-Nya 51:58
-- #55 Al Waliyy   Yang Maha Memberikan Per­tolongan 4:45; 7:196; 42:28; 45:19
-- #56 Al Hameed   Yang Maha Layak Menerima Pujian  14:8; 31:12; 31:26; 41:42
-- #57 Al Muhsi    Yang Maha Mengira 72:28; 78:29; 82:10-12
-- #58 Al Mubdi    Yang Maha Memulakan Sesuatu 10:34; 27:64; 29:19; 85:13
-- #59 Al Mu'eed   Yang Maha Mengem­balikan Ciptaan-Nya  10:34; 27:64; 29:19; 85:13
-- #60 Al Muhiy    Yang Maha Menghidupkan 7:158; 15:23; 30:50; 57:2
-- #61 Al Mumeet   Yang Maha Mematikan  3:156; 7:158; 15:23; 57:2
-- #62 Al Haiyy    Yang Maha Hidup 2:255; 3:2; 25:58; 40:65
-- #63 Al Qayyoom  Yang Maha Berdiri Sendiri 2:255; 3:2; 20:111
-- #64 Al Waajid   Yang Maha Memperoleh Segala Sesuatu Yang Dikehendaki-Nya 38:44
-- #65 Al Maajid   Yang Maha Dimulia­kan 11:73
-- #66 Al Waahid   Yang Maha Esa 2:163; 5:73; 9:31; 18:110
-- #67 Al Ahad     Yang Unik  112:1
-- #68 As Samad    Yang Kekal dan Menjadi Tempat Bergantung Sekalian Makhluk 112:2
-- #69 Al Qaadir   Yang Maha Berkuasa  6:65; 36:81; 46:33; 75:40
-- #70 Al Muqtadir Yang Maha Berkuasa Menentu­kan Sesuatu  18:45; 54:42; 54:55
-- #71 Al Muqaddim Yang Memulakan Wujudnya Sesuatu 16:61; 17:34
-- #72 Al Mu’akhir Yang Mentakhirkan Wujudnya Sesuatu  71:4
-- #73 Al Awwal    Yang Awal dan Tiada Permulaan 57:3
-- #74 Al Aakhir   Yang Akhir dan Tiada Kesudahan 57:3
-- #75 Az Zaahir   Yang Menzahirkan Kewujudan  57:3
-- #76 Al Baatin   Yang Menyembunyikan Kewujud­an 57:3
-- #77 Al Waali    Yang Maha Memiliki dan Meme­rintah Segala Sesuatu  13:11; 22:7
-- #78 Al Muta’ali Yang Maha Tinggi dan Suci 13:9
-- #79 Al Barr     Yang Menjadi Sumber Kebaikan 52:28
-- #80 At Tawwaab  Yang Sentiasa Menerima Taubat 2:128; 4:64; 49:12; 110:3
-- #81 Al Muntaqim Yang Membalas Dengan Seksa 32:22; 43:41; 44:16
-- #82 Al Afuww    Yang Maha Pemaaf 4:99; 4:149; 22:60
-- #83 Ar Ra’oof   Yang Maha Pemberi Kasih Sayang 3:30; 9:117; 57:9; 59:10
-- #84 Maalik Ul Mulk  Pemilik Mutlak Segala Kekuasaan 3:26
-- #85 Dhu Al Jalaali Wa Al Ikraam,  Yang Memiliki Keagungan dan Kemuliaan 55:27; 55:78
-- #86 Al Muqsit   Yang Maha Adil dan Saksama 3:18; 7:29
-- #87 Al Jaami'   Yang Maha Penghim­pun  3:9
-- #88 Al Ghaniyy  Yang Maha Kaya dan Tidak Memerlukan Sesuatu Apa-apa pun 3:97; 39:7; 47:38; 57:24
-- #89 Al Mughni   Yang Maha Mengayakan Makhluk Sehingga Tidak Memerlukan Apa-apa  9:28
-- #90 Al Maani'   Yang Maha Menegah dan Menolak 67:21
-- #91 Ad Daaarr   Yang Mendatangkan Kemudaratan 6:17
-- #92 An Naafi’   Yang Memberikan Ke­bai­kan dan Kemanfaatan  30:37
-- #93 An Noor     Cahaya Yang Menerangi 24:35
-- #94 Al Haadi    Yang Memberi Hidayah Kepada Hamba-Nya 25:31
-- #95 Al Badi'    Yang Maha Menciptakan Sesuatu yang sebelumnya tiada  2:117; 6:101
-- #96 Al Baaqi    Yang Berkekalan 55:27
-- #97 Al Waarith  Yang Kekal Memusakai 15:23
-- #98 Ar Rasheed  Yang Memberi Petunjuk Kepada Kebenaran 2:256
-- #99 As Saboor   Yang Maha Penyabar 2:153; 3:200; 103:3
+- #1 Ar Rahmaan (Yang Maha Pemurah dan Yang Memberi Rahmat) 1:3; 17:110
+- #2 Ar Raheem (Yang Maha Pengasih kepada semua makhluk) 2:163; 3:31; 4:100; 5:3
+- #3 Al Malik (Yang Maha Memiliki Segala Ke­kuasaan) 20:114; 23:116; 59:23; 62:1
+- #4 Al Quddus (Yang Maha Suci) 59:23; 62:1
+- #5 As Salaam (Yang Maha Sejahtera) 59:23
+- #6 Al Mu'min (Yang Maha Melimpahkan Ke­aman­an dan Kesejahteraan) 59:23
+- #7 Al Muhaymin (Yang Maha Mengawal) 59:23
+- #8 Al Azeez (Yang Maha Berkuasa dan Perkasa) 3:6; 4:158; 9:40; 48:7
+- #9 Al Jabbaar (Yang Maha Perkasa) 59:23
+- #10 Al Mutakabbir (Yang Maha Memiliki Segala Kebesaran) 59:23
+- #11 Al Khaaliq (Yang Maha Pencipta Sekalian Makhluk) 6:102; 13:16; 39:62; 40:62; 59:24
+- #12 Al Baari (Yang Maha Pencipta Makhluk) 59:24
+- #13 Al Musawwir (Yang Maha Menentukan Ben­tuk Rupa Makhluk-Nya) 59:24
+- #14 Al Ghaffaar (Yang Maha Mengampuni) 20:82; 38:66; 39:5; 40:42; 71:10
+- #15 Al Qahhaar (Yang Maha Gagah Perkasa) 13:16; 14:48; 38:65; 39:4; 40:16
+- #16 Al Wahhaab (Yang Maha Pemberi) 3:8; 38:9; 38:35
+- #17 Ar Razzaaq (Yang Maha Memberi Rezeki) 51:58
+- #18 Al Fattaah (Yang Maha Pembuka) 34:26
+- #19 Al 'Aleem (Yang Maha Mengetahui) 2:158; 3:92; 4:35; 24:41; 33:40
+- #20 Al Qaabid (Yang Maha Pengekang) 2:245
+- #21 Al Baasit (Yang Maha Melapangkan) 2:245
+- #22 Al Khaafid (Yang Maha Merendahkan Darjat Seseorang) 95:5
+- #23 Ar Raafi' (Yang Maha Meninggi­kan Darjat) 58:11; 6:83
+- #24 Al Mu'izz (Yang Maha Memuliakan) 3:26
+- #25 Al Mudhil (Yang Maha Menghina Musuh-Nya) 3:26
+- #26 As Samee' (Yang Maha Mendengar) 2:127; 2:256; 8:17; 49:1
+- #27 Al Baseer (Yang Maha Melihat) 4:58; 17:1; 42:11; 42:27
+- #28 Al Hakam (Yang Maha Menentukan Hu­kuman) 22:69
+- #29 Al Adl (Yang Maha Adil) 6:115
+- #30 Al Lateef (Yang Maha Lemah Lembut dan Menge­tahui Segala Sesuatu Sehalus-halusnya) 6:103; 22:63; 31:16; 33:34
+- #31 Al Khabeer (Yang Maha Sedia Mengetahui) 6:18; 17:30; 49:13; 59:18
+- #32 Al Haleem (Yang Maha Penyantun dan Pe­nya­bar) 2:235; 17:44; 22:59; 35:41
+- #33 Al 'Azeem (Yang Maha Agung) 2:255; 42:4; 56:96
+- #34 Al Ghafoor (Yang Maha Sedia Mengampuni) 2:173; 8:69; 16:110; 41:32
+- #35 Ash Shakoor (Yang Maha Meng­gandakan Balasan) 35:30; 35:34; 42:23; 64:17
+- #36 Al Aliyy (Yang Maha Tinggi (Luhur)) 4:34; 31:30; 42:4; 42:51
+- #37 Al Kabeer (Maha Besar) 13:9; 22:62; 31:30
+- #38 Al Hafeez (Yang Maha Memelihara) 11:57; 34:21; 42:6
+- #39 Al Muqeet (Yang Maha Menyediakan Segala Keperluan Makhluk-Nya) 4:85
+- #40 Al Haseeb (Yang Maha Menghitung Amalan Makhluk) 4:6; 4:86; 33:39
+- #41 Al Jaleel (Yang Maha Memiliki Sifat Ke­agung­an Yang Tiada Pada Makhluk) 55:27; 39:14; 7:143
+- #42 Al Kareem (Yang Maha Mulia dan Sedia Mem­beri) 27:40; 82:6
+- #43 Ar Raqeeb (Yang Maha Mengawasi) 4:1; 5:117
+- #44 Al Mujeeb (Yang Maha Memakbulkan) 11:61
+- #45 Al Waasi' (Yang Maha Luas Ilmu dan Rahmat-Nya) 2:268; 3:73; 5:54
+- #46 Al Hakeem (Yang Maha Bijaksana) 31:27; 46:2; 57:1; 66:2
+- #47 Al Wudood (Yang Maha Mengasihi orang yang beriman kepada-Nya) 11:90; 85:14
+- #48 Al Majeed (Yang Maha Sempurna) 11:73
+- #49 Al Baa'ith (Yang Membangkitkan Manusia) 22:7
+- #50 Ash Shaheed (Yang Maha Me­nyak­sikan Segala Kebenaran) 4:166; 22:17; 41:53; 48:28
+- #51 Al Haqq (Yang Maha Benar) 6:62; 22:6; 23:116; 24:25
+- #52 Al Wakeel (Yang Maha Pelindung) 3:173; 4:171; 28:28; 73:9
+- #53 Al Qawiyy (Yang Maha Berkuasa) 22:40; 22:74; 42:19; 57:25
+- #54 Al Mateen (Yang Maha Teguh Kekuatan-Nya) 51:58
+- #55 Al Waliyy (Yang Maha Memberikan Per­tolongan) 4:45; 7:196; 42:28; 45:19
+- #56 Al Hameed (Yang Maha Layak Menerima Pujian) 14:8; 31:12; 31:26; 41:42
+- #57 Al Muhsi (Yang Maha Mengira) 72:28; 78:29; 82:10-12
+- #58 Al Mubdi (Yang Maha Memulakan Sesuatu) 10:34; 27:64; 29:19; 85:13
+- #59 Al Mu'eed (Yang Maha Mengem­balikan Ciptaan-Nya) 10:34; 27:64; 29:19; 85:13
+- #60 Al Muhiy (Yang Maha Menghidupkan) 7:158; 15:23; 30:50; 57:2
+- #61 Al Mumeet (Yang Maha Mematikan) 3:156; 7:158; 15:23; 57:2
+- #62 Al Haiyy (Yang Maha Hidup) 2:255; 3:2; 25:58; 40:65
+- #63 Al Qayyoom (Yang Maha Berdiri Sendiri) 2:255; 3:2; 20:111
+- #64 Al Waajid (Yang Maha Memperoleh Segala Sesuatu Yang Dikehendaki-Nya) 38:44
+- #65 Al Maajid (Yang Maha Dimulia­kan) 11:73
+- #66 Al Waahid (Yang Maha Esa) 2:163; 5:73; 9:31; 18:110
+- #67 Al Ahad (Yang Unik) 112:1
+- #68 As Samad (Yang Kekal dan Menjadi Tempat Bergantung Sekalian Makhluk) 112:2
+- #69 Al Qaadir (Yang Maha Berkuasa) 6:65; 36:81; 46:33; 75:40
+- #70 Al Muqtadir (Yang Maha Berkuasa Menentu­kan Sesuatu) 18:45; 54:42; 54:55
+- #71 Al Muqaddim (Yang Memulakan Wujudnya Sesuatu) 16:61; 17:34
+- #72 Al Mu'akhir (Yang Mentakhirkan Wujudnya Sesuatu) 71:4
+- #73 Al Awwal (Yang Awal dan Tiada Permulaan) 57:3
+- #74 Al Aakhir (Yang Akhir dan Tiada Kesudahan) 57:3
+- #75 Az Zaahir (Yang Menzahirkan Kewujudan) 57:3
+- #76 Al Baatin (Yang Menyembunyikan Kewujud­an) 57:3
+- #77 Al Waali (Yang Maha Memiliki dan Meme­rintah Segala Sesuatu) 13:11; 22:7
+- #78 Al Muta'ali (Yang Maha Tinggi dan Suci) 13:9
+- #79 Al Barr (Yang Menjadi Sumber Kebaikan) 52:28
+- #80 At Tawwaab (Yang Sentiasa Menerima Taubat) 2:128; 4:64; 49:12; 110:3
+- #81 Al Muntaqim (Yang Membalas Dengan Seksa) 32:22; 43:41; 44:16
+- #82 Al Afuww (Yang Maha Pemaaf) 4:99; 4:149; 22:60
+- #83 Ar Ra'oof (Yang Maha Pemberi Kasih Sayang) 3:30; 9:117; 57:9; 59:10
+- #84 Maalik Ul Mulk (Pemilik Mutlak Segala Kekuasaan) 3:26
+- #85 Dhu Al Jalaali Wa Al Ikraam (Yang Memiliki Keagungan dan Kemuliaan) 55:27; 55:78
+- #86 Al Muqsit (Yang Maha Adil dan Saksama) 3:18; 7:29
+- #87 Al Jaami' (Yang Maha Penghim­pun) 3:9
+- #88 Al Ghaniyy (Yang Maha Kaya dan Tidak Memerlukan Sesuatu Apa-apa pun) 3:97; 39:7; 47:38; 57:24
+- #89 Al Mughni (Yang Maha Mengayakan Makhluk Sehingga Tidak Memerlukan Apa-apa) 9:28
+- #90 Al Maani' (Yang Maha Menegah dan Menolak) 67:21
+- #91 Ad Daaarr (Yang Mendatangkan Kemudaratan) 6:17
+- #92 An Naafi' (Yang Memberikan Ke­bai­kan dan Kemanfaatan) 30:37
+- #93 An Noor (Cahaya Yang Menerangi) 24:35
+- #94 Al Haadi (Yang Memberi Hidayah Kepada Hamba-Nya) 25:31
+- #95 Al Badi' (Yang Maha Menciptakan Sesuatu yang sebelumnya tiada) 2:117; 6:101
+- #96 Al Baaqi (Yang Berkekalan) 55:27
+- #97 Al Waarith (Yang Kekal Memusakai) 15:23
+- #98 Ar Rasheed (Yang Memberi Petunjuk Kepada Kebenaran) 2:256
+- #99 As Saboor (Yang Maha Penyabar) 2:153; 3:200; 103:3
 Matching Ayahs
 - = Alif, Laam, Miim. 2:1; 3:1; 29:1; 30:1; 31:1; 32:1
 - = Mereka itulah yang berada di atas petunjuk daripada Tuhan mereka, dan mereka itulah orang-orang yang berjaya. 2:5; 31:5
