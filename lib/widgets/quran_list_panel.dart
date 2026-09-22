@@ -747,7 +747,7 @@ class _LemmaGridCard extends StatelessWidget {
                     child: InkWell(
                       onTap: onRootTap,
                       child: const Icon(Icons.account_tree,
-                          color: Colors.teal, size: 16),
+                          color: Colors.teal, size: 20),
                     ),
                   ),
                 Container(

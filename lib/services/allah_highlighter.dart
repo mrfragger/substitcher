@@ -7,25 +7,54 @@ import 'package:flutter/gestures.dart';
 /// quiz panel, and the related-connections panel.
 class AllahHighlighter {
   static const Color muhammadColor = Colors.greenAccent;
+  static const Color quranColor = Colors.lightBlueAccent;
 
   static const List<String> muhammadWords = [
     'Muhammad صلى الله عليه وسلم',
+    'Muhammad (صلى الله عليه وسلم)',
     'Messenger صلى الله عليه وسلم',
+    'Messenger (صلى الله عليه وسلم)',
+    'Prophet صلى الله عليه وسلم',
     'Prophet Muhammad (ﷺ)',
     "Prophet Muhammad’s",
     'Prophet Muhammad ﷺ',
     'Messenger Muhammad',
     'Prophet Muhammad',
     'Prophet said ﷺ',
+    'Prophet of',
+    "Prophet's ﷺ",
     'Muhammad (ﷺ)',
     'Messenger ﷺ',
     'Messenger of',
     "Muhammad's",
+    'Prophet (ﷺ)',
     'Prophet ﷺ',
+    "Prophet’s",
+    "Prophet's",
+    "Messenger’s",
+    "Messenger's",
     'Messengers',
     'Messenger',
     'Muhammad',
     'ﷺ',
+  ];
+
+  static const List<String> quranWords = [
+    "Qur’ānic",
+    "Qur’anic",
+    "Qurʾān’s",
+    "Qur’ân",
+    "Qur’ān",
+    "Qur’an",
+    "Qur'anic",
+    "Qur'ān",
+    "Qurʾān",
+    "Qur'an",
+    "Quranic",
+    "Qurân",
+    "Qurān",
+    "Quran",
+
   ];
 
   // ---------------------------------------------------------------------
@@ -127,12 +156,40 @@ class AllahHighlighter {
   // false positives like "He (Muhammad) said" from being colored as Allah.
   // ---------------------------------------------------------------------
   static const Set<String> _heSingleWordSuppressors = {
-    'said', 'asked', 'then', 'takes', 'kept', 'will', 'trusts', 'was',
-    'changes', 'wakes', 'replied', 'also',
+    'said', 'asked', 'then', 'takes', 'kept', 'trusts', 'was',
+    'changes', 'wakes', 'replied', 'also', 'would',
   };
   static const Set<String> _hePhraseSuppressors = {
     'is devious', 'is deceptive', 'is cunning', '(Muhammad)', '(Muhammad )',
   };
+  static const List<String> _heWillAllowedContinuations = [
+    'absolve', 'admit', 'bring', 'call', 'cause', 'come', 'expiate',
+    'forgive', 'gather', 'give', 'guide', 'have mercy', 'inform', 'judge',
+    'leave', 'love', 'multiply', 'not cause', 'not send', 'provide',
+    'punish', 'remove', 'repeat', 'replace', 'render', 'return', 'save',
+    'see', 'send', 'separate', 'shower', 'soon show', 'support', 'surely',
+    'teach', 'take',
+  ];
+
+  static String get _heWillContinuationPattern {
+    return _heWillAllowedContinuations.map((phrase) {
+      final words = phrase.split(' ').where((w) => w.isNotEmpty).map(RegExp.escape);
+      return words.join(r'\s+');
+    }).join('|');
+  }
+
+  static String get _heExclusionPattern {
+    final singles = _heSingleWordSuppressors.map(RegExp.escape).join('|');
+    final phrases = _hePhraseSuppressors.map((p) {
+      final words = p.split(' ').where((w) => w.isNotEmpty).map(RegExp.escape);
+      return words.join(r'\s+');
+    }).join('|');
+    final willContinuations = _heWillContinuationPattern;
+
+    return '(?!\\s+(?:$singles)\\b)'
+        '(?!\\s+(?:$phrases)\\b)'
+        '(?!\\s+will\\b(?!\\s+(?:$willContinuations)\\b))';
+  }
   static const Map<String, String> _allahWordExclusions = {
     'His': r'(?!\s+(?:actual|parents)\b)',
   };
@@ -141,13 +198,21 @@ class AllahHighlighter {
     'Muhammad': r'(?!\s+(?:bin|ibn|b\.)\b)',
   };
 
-  static String get _heExclusionPattern {
-    final singles = _heSingleWordSuppressors.map(RegExp.escape).join('|');
-    final phrases = _hePhraseSuppressors.map((p) {
-      final words = p.split(' ').where((w) => w.isNotEmpty).map(RegExp.escape);
-      return words.join(r'\s+');
-    }).join('|');
-    return '(?!\\s+(?:$singles)\\b)(?!\\s+(?:$phrases)\\b)';
+  static const List<String> _otherProphetNames = [
+    'Ibrahim', 'Ibraheem', 'Nuh', 'Noah', 'Musa', 'Moses', 'Isa', 'Jesus',
+    'Yaqub', 'Yaqoob', 'Jacob', 'Yunus', 'Yoonus', 'Jonah',
+    'Sulaiman', 'Sulayman', 'Solomon', 'Dawud', 'Dawood', 'David',
+    'Zakariya', 'Zachariah', 'Yahya', 'John', 'Ayyub', 'Job',
+    'Ismail', 'Ishmael', 'Ishaq', 'Isaac', 'Lut', 'Lot',
+    'Hud', 'Salih', 'Saleh', 'Shuayb', "Shu'ayb", 'Adam', 'Idris', 'Enoch',
+    'Ilyas', 'Elias', 'Elisha', 'Alyasa', 'Dhul-Kifl', 'Yusuf', 'Joseph',
+    'Harun', 'Aaron',
+  ];
+
+  static String get _theProphetPattern {
+    final exclusion =
+        '(?!\\s+(?:${_otherProphetNames.map(RegExp.escape).join('|')})\\b)';
+    return '(?<=\\b[Tt]he\\s)Prophet$exclusion(?![$_latinRange])';
   }
 
   static String _exclusionFor(String w) {
@@ -176,6 +241,21 @@ class AllahHighlighter {
       final lookahead = endsLatin ? '(?![$_latinRange])' : '';
       patterns.add('$lookbehind$escaped$exclusion$lookahead');
     }
+    patterns.add(_theProphetPattern);
+    return patterns.join('|');
+  }
+
+  static String quranWordPattern() {
+    final words = [...quranWords]..sort((a, b) => b.length.compareTo(a.length));
+    final patterns = <String>[];
+    for (final w in words) {
+      final escaped = RegExp.escape(w);
+      final startsLatin = RegExp(r'^[a-zA-Z]').hasMatch(w);
+      final endsLatin = RegExp(r'[a-zA-Z]$').hasMatch(w);
+      final lookbehind = startsLatin ? '(?<![$_latinRange])' : '';
+      final lookahead = endsLatin ? '(?![$_latinRange])' : '';
+      patterns.add('$lookbehind$escaped$lookahead');
+    }
     return patterns.join('|');
   }
 
@@ -189,7 +269,7 @@ class AllahHighlighter {
     'Allah', 'Allāh', 'Allâh',
     'Lord\u2019s', 'Lord\u02BCs', "Lord's", 'Lord',
   ];
-  static const List<String> _englishPronounWords = ['Our', 'Him', 'His', 'He', 'Me'];
+  static const List<String> _englishPronounWords = [ 'Allah Who', 'He Who', 'Whom', 'Creator', 'Oneness', 'Our', 'Ours', 'Him', 'His', 'He', 'Me', 'Us', 'One', 'One Who',];
 
   static const Map<String, List<String>> allahWordsByLanguage = {
     'Arabic': [
@@ -567,6 +647,7 @@ class AllahHighlighter {
       allahPattern: patterns.latin,
       arabicAllahPattern: patterns.arabic,
       muhammadPattern: muhammadWordPattern(),
+      quranPattern: quranWordPattern(),
       parenDepth: parenDepth,
       includeCurlyBraces: includeCurlyBraces,
       includeVerseRefs: includeVerseRefs,
@@ -581,6 +662,7 @@ class AllahHighlighter {
     required String allahPattern,
     required String arabicAllahPattern,
     required String muhammadPattern,
+    required String quranPattern,
     required int parenDepth,
     required bool includeCurlyBraces,
     required bool includeVerseRefs,
@@ -593,6 +675,7 @@ class AllahHighlighter {
     final amberStyle = baseStyle.copyWith(color: Colors.amber);
     final quoteStyle = baseStyle.copyWith(color: const Color(0xFFFFB6C1));
     final muhammadStyle = baseStyle.copyWith(color: muhammadColor);
+    final quranStyle = baseStyle.copyWith(color: quranColor);
 
     final parenColor = parenDepth.isEven ? cyanStyle : redStyle;
 
@@ -605,6 +688,8 @@ class AllahHighlighter {
         includeVerseRefs ? r'\b\d{1,3}:\d{1,3}(?:-\d{1,3})?\b' : r'[^\s\S]';
     final muhammadGroupSrc =
         muhammadPattern.isNotEmpty ? muhammadPattern : r'[^\s\S]';
+    final quranGroupSrc =
+        quranPattern.isNotEmpty ? quranPattern : r'[^\s\S]';
     final allahGroupSrc = allahPattern.isNotEmpty ? allahPattern : r'[^\s\S]';
 
     final combined = RegExp(
@@ -614,10 +699,11 @@ class AllahHighlighter {
       '|(\\[[^\\]]*\\])' // 4 bracket
       '|($verseGroupSrc)' // 5 verse
       '|($muhammadGroupSrc)' // 6 muhammad
-      '|($allahGroupSrc)', // 7 allah
+      '|($quranGroupSrc)' // 7 quran
+      '|($allahGroupSrc)', // 8 allah
     );
 
-    // kind: 0 quote, 1 paren, 2 curly, 3 bracket, 4 verse, 5 muhammad, 6 allah
+    // kind: 0 quote, 1 paren, 2 curly, 3 bracket, 4 verse, 5 muhammad, 6 quran, 7 allah
     final ranges = <(int, int, int)>[];
     for (final m in combined.allMatches(text)) {
       if (m.group(1) != null) {
@@ -634,6 +720,8 @@ class AllahHighlighter {
         ranges.add((m.start, m.end, 5));
       } else if (m.group(7) != null) {
         ranges.add((m.start, m.end, 6));
+      } else if (m.group(8) != null) {
+        ranges.add((m.start, m.end, 7));
       }
     }
 
@@ -642,7 +730,7 @@ class AllahHighlighter {
           _findDiacriticInsensitiveArabicRanges(text, arabicAllahPattern);
       for (final r in arabicRanges) {
         final overlaps = ranges.any((e) => r.$1 < e.$2 && e.$1 < r.$2);
-        if (!overlaps) ranges.add((r.$1, r.$2, 6));
+        if (!overlaps) ranges.add((r.$1, r.$2, 7));
       }
     }
 
@@ -655,6 +743,7 @@ class AllahHighlighter {
           allahPattern: allahPattern,
           arabicAllahPattern: arabicAllahPattern,
           muhammadPattern: muhammadPattern,
+          quranPattern: quranPattern,
           parenDepth: depth,
           includeCurlyBraces: includeCurlyBraces,
           includeVerseRefs: includeVerseRefs,
@@ -707,6 +796,9 @@ class AllahHighlighter {
           break;
         case 5: // muhammad
           result.add(TextSpan(text: matched, style: muhammadStyle));
+          break;
+        case 6: // quran
+          result.add(TextSpan(text: matched, style: quranStyle));
           break;
         default: // allah
           result.add(TextSpan(text: matched, style: purpleStyle));

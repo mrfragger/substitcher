@@ -2647,8 +2647,8 @@ class _PlayerScreenState extends State<PlayerScreen>
       ),
     );
 
-    if (_history.length > 300) {
-      _history = _history.sublist(0, 300);
+    if (_history.length > 200) {
+      _history = _history.sublist(0, 200);
     }
     final prefs = await SharedPreferences.getInstance();
     await prefs.setStringList(

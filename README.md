@@ -49,13 +49,13 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 │  customfonts
 ├── alternates
 │   ├── Aloevera.ttf (Salamahtype)
-│   ├── Bentley Vintage.otf (Grezline Studio)
+│   ├── Bentley Vintage.otf (Grezline)
 │   ├── Bisque Veloute demo.otf (Krismagraph)
-│   ├── Bremlin.otf (Grezline Studio)
-│   ├── Dantene.otf (Grezline Studio)
+│   ├── Bremlin.otf (Grezline)
+│   ├── Dantene.otf (Grezline)
 │   ├── Kambegi.ttf (Sealoung)
-│   ├── Mount Hills.otf (Ergibi Studio)
-│   └── Sorean.otf (Grezline Studio)
+│   ├── Mount Hills.otf (Ergibi)
+│   └── Sorean.otf (Grezline)
 ├── ligatures177 
 │   ├── Creating Families demo.otf
 │   ├── Reminder According demo.otf
@@ -63,11 +63,11 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 │   ├── Salvador Abstract demo.otf
 │   └── Traditional Civilization demo.otf
 ├── ligaturesVarious123
-│   ├── Axaria.ttf (Letterara Studio)
-│   ├── Carevo.ttf (Letterara Studio)
-│   ├── Chocolate Chips.otf (inermedia Studio)
-│   ├── Sophia Melanie.otf (Grezline Studio)
-│   └── Zentaro.ttf (Letterara Studio)
+│   ├── Axaria.ttf (Letterara)
+│   ├── Carevo.ttf (Letterara)
+│   ├── Chocolate Chips.otf (inermedia)
+│   ├── Sophia Melanie.otf (Grezline)
+│   └── Zentaro.ttf (Letterara)
 ├── missingligatures177
 │   ├── Abstract Settings demo.otf
 │   ├── Coastline Classical demo.otf
@@ -75,9 +75,9 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 │   ├── Engaging Realities demo.otf
 │   └── Titanium Galleries demo.otf
 ├── mustBeUppercase
-│   ├── Caroline Everett.otf (Grezline Studio)
-│   ├── Children Interests demo.otf (177Studio)
-│   └── Intricate Narrative demo.otf (177Studio)
+│   ├── Caroline Everett.otf (Grezline)
+│   ├── Children Interests demo.otf (177)
+│   └── Intricate Narrative demo.otf (177)
 └── seesawcase
     ├── Harquil.ttf (Mentor Type)
     ├── Sidethree.otf (ahweproject)

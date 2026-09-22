@@ -2511,7 +2511,7 @@ class _QuranPanelState extends State<QuranPanel> {
                                _buildVerseRefHistoryButton(),
                                const SizedBox(width: 2),
                                SizedBox(
-                                 width: 120,
+                                 width: 220,
                                  height: 32,
                                  child: TextField(
                                    controller: _refInputController,
@@ -2519,7 +2519,7 @@ class _QuranPanelState extends State<QuranPanel> {
                                    autofocus: true,
                                    style: const TextStyle(color: Colors.white, fontSize: 12),
                                    decoration: InputDecoration(
-                                     hintText: '38:36-40',
+                                     hintText: '4:12 / 38:36-40',
                                      hintStyle: const TextStyle(color: Colors.white24, fontSize: 12),
                                      filled: true,
                                      fillColor: Colors.black26,
