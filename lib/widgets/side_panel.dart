@@ -132,6 +132,8 @@ class SidePanel extends StatelessWidget {
   final String? subtitleFilePath;
   final Function(String) onWordSearch;
   final Function(String) onPhraseSearch;
+  final int? selectedWordCategory;
+  final Function(int?) onWordCategoryChanged;
   final String subsSearchQuery;
   final TextEditingController subsSearchController;
   final FocusNode subsSearchFocusNode;
@@ -333,6 +335,8 @@ class SidePanel extends StatelessWidget {
     required this.onWordSearch,
     required this.onPhraseSearch,
     required this.subsSearchQuery,
+    required this.selectedWordCategory,
+    required this.onWordCategoryChanged,
     required this.subsSearchController,
     required this.subsSearchFocusNode,
     required this.onSearchSubtitles,
@@ -2046,6 +2050,8 @@ class SidePanel extends StatelessWidget {
       hasSearchQuery: false,
       onWordSearch: onWordSearch,
       onPhraseSearch: onPhraseSearch,
+      selectedCategory: selectedWordCategory,
+      onCategoryChanged: onWordCategoryChanged,
     );
   }
 
@@ -2960,6 +2966,8 @@ class _WordsPanel extends StatefulWidget {
   final bool hasSearchQuery;
   final Function(String) onWordSearch;
   final Function(String) onPhraseSearch;
+  final int? selectedCategory;
+  final Function(int?) onCategoryChanged;
 
   _WordsPanel({
     required this.orderedKeys,
@@ -2967,6 +2975,8 @@ class _WordsPanel extends StatefulWidget {
     required this.hasSearchQuery,
     required this.onWordSearch,
     required this.onPhraseSearch,
+    required this.selectedCategory,
+    required this.onCategoryChanged,
   });
 
   @override
@@ -2974,7 +2984,6 @@ class _WordsPanel extends StatefulWidget {
 }
 
 class _WordsPanelState extends State<_WordsPanel> {
-  int? _selectedCategory = 1;
   final ScrollController _scrollController = ScrollController();
 
   @override
@@ -2986,7 +2995,7 @@ class _WordsPanelState extends State<_WordsPanel> {
   @override
   Widget build(BuildContext context) {
     final showAllCategories =
-        widget.hasSearchQuery || _selectedCategory == null;
+        widget.hasSearchQuery || widget.selectedCategory == null;
     return Column(
       children: [
         Container(
@@ -3001,14 +3010,12 @@ class _WordsPanelState extends State<_WordsPanel> {
               ...widget.orderedKeys.map((wordCount) {
                 final label = wordCount == 1 ? 'Words' : '$wordCount-Word';
                 final count = widget.limitedGroups[wordCount]?.length ?? 0;
-                final isSelected = _selectedCategory == wordCount;
+                final isSelected = widget.selectedCategory == wordCount;
                 return TextButton(
                   onPressed: widget.hasSearchQuery
                       ? null
                       : () {
-                          setState(() {
-                            _selectedCategory = wordCount;
-                          });
+                          widget.onCategoryChanged(wordCount);
                           if (_scrollController.hasClients) {
                             _scrollController.jumpTo(0);
                           }
@@ -3047,8 +3054,8 @@ class _WordsPanelState extends State<_WordsPanel> {
   Widget _buildCategoryContent(bool showAll) {
     if (showAll) {
       return _buildAllCategoriesList();
-    } else if (_selectedCategory != null) {
-      return _buildSingleCategoryList(_selectedCategory!);
+    } else if (widget.selectedCategory != null) {
+      return _buildSingleCategoryList(widget.selectedCategory!);
     } else {
       return _buildAllCategoriesList();
     }

@@ -292,6 +292,7 @@ class _PlayerScreenState extends State<PlayerScreen>
 
   List<FrequencyItem> _frequencyItems = [];
   bool _isAnalyzingFrequencies = false;
+  int? _selectedWordCategory = 1;
 
   String _skipChapterTerms = '';
   final TextEditingController _skipChapterController = TextEditingController();
@@ -9086,6 +9087,12 @@ class _PlayerScreenState extends State<PlayerScreen>
                       _panelMode = PanelMode.subs;
                     });
                     _searchSubtitles(phrase);
+                  },
+                  selectedWordCategory: _selectedWordCategory,
+                  onWordCategoryChanged: (category) {
+                    setState(() {
+                      _selectedWordCategory = category;
+                    });
                   },
                   subsSearchQuery: _subsSearchQuery,
                   subsSearchController: _subsSearchController,
