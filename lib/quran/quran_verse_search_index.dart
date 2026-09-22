@@ -18,10 +18,10 @@ class QuranAyahSearchHit {
 
 class QuranVerseSearchIndex {
   List<QuranAyahText> _entries = [];
-  String? _cachedLangKey;
+  String? _cachedKey;
 
   bool get isReady => _entries.isNotEmpty;
-  bool get isBuiltFor => _cachedLangKey != null;
+  bool get isBuiltFor => _cachedKey != null;
 
   Future<void> buildFromCurrentFile({
     required String currentVttPath,
@@ -30,18 +30,24 @@ class QuranVerseSearchIndex {
     final vttDir = path.dirname(currentVttPath);
     final langSubdir = path.basename(vttDir);
 
-    if (_cachedLangKey == langSubdir && _entries.isNotEmpty) return;
-
-    final opusDir = path.dirname(currentOpusPath);
-    final reciterSuffix = path.basename(currentOpusPath).replaceFirst(
+    final currentBase = path.basename(currentOpusPath);
+    final reciterSuffix = currentBase.replaceFirst(
       RegExp(r'^.*?\d{3}-\d{3} '),
       '',
     );
+    final languageMatch = RegExp(
+      r'^Quran (.+?) - \d{3}-\d{3} ',
+    ).firstMatch(currentBase);
+    final language = languageMatch?.group(1) ?? 'Arabic';
 
+    final cacheKey = '$langSubdir|$language|$reciterSuffix';
+    if (_cachedKey == cacheKey && _entries.isNotEmpty) return;
+
+    final opusDir = path.dirname(currentOpusPath);
     final allEntries = <QuranAyahText>[];
 
     for (final rangeKey in quranFileRanges.keys) {
-      final targetOpusName = 'Quran Arabic - $rangeKey $reciterSuffix';
+      final targetOpusName = 'Quran $language - $rangeKey $reciterSuffix';
       final targetOpusPath = path.join(opusDir, targetOpusName);
       final vttPath = await _findSiblingVtt(currentVttPath, targetOpusPath);
       if (vttPath == null) continue;
@@ -54,31 +60,65 @@ class QuranVerseSearchIndex {
       }
     }
 
+    // print('VTT index: language=$language reciter=$reciterSuffix '
+    //     'entries=${allEntries.length}');
+
     _entries = allEntries;
-    _cachedLangKey = langSubdir;
+    _cachedKey = cacheKey;
   }
 
   void clear() {
     _entries = [];
-    _cachedLangKey = null;
+    _cachedKey = null;
   }
 
   List<QuranAyahSearchHit> search(String query, {int limit = 100}) {
-    final terms = query
+    final trimmed = query.trim();
+    if (trimmed.isEmpty) return [];
+
+    final phraseMatch = RegExp(
+      r'^["\u201C\u2018](.+?)["\u201D\u2019]$',
+    ).firstMatch(trimmed);
+
+    final String? phrase = phraseMatch?.group(1)?.trim();
+    final String remainder = phrase != null
+        ? trimmed.substring(0, phraseMatch!.start) +
+            trimmed.substring(phraseMatch.end)
+        : trimmed;
+
+    final terms = remainder
         .trim()
         .toLowerCase()
         .split(RegExp(r'\s+'))
         .where((t) => t.isNotEmpty)
         .toList();
-    if (terms.isEmpty) return [];
+
+    // For a quoted phrase, treat it as a whole-word sequence.
+    final List<RegExp> phraseRegexes = [];
+    if (phrase != null && phrase.isNotEmpty) {
+      final normalizedPhrase =
+          phrase.toLowerCase().replaceAll(RegExp(r'\s+'), ' ').trim();
+      final escapedWords = normalizedPhrase
+          .split(' ')
+          .map(RegExp.escape)
+          .join(r'\s+');
+      // \b works for Latin; for non-Latin scripts it's effectively a no-op
+      // boundary but still behaves as a substring match, which is fine.
+      phraseRegexes.add(RegExp(r'(?<!\w)' + escapedWords + r'(?!\w)'));
+    }
+
+    if (phraseRegexes.isEmpty && terms.isEmpty) return [];
 
     final results = <QuranAyahSearchHit>[];
     for (final e in _entries) {
       final lower = e.text.toLowerCase();
-      if (terms.every((t) => lower.contains(t))) {
-        results.add(QuranAyahSearchHit(surah: e.surah, ayah: e.ayah, text: e.text));
-        if (results.length >= limit) break;
+      if (terms.isNotEmpty && !terms.every((t) => lower.contains(t))) continue;
+      if (phraseRegexes.isNotEmpty) {
+        final normalizedText = lower.replaceAll(RegExp(r'\s+'), ' ');
+        if (!phraseRegexes.every((r) => r.hasMatch(normalizedText))) continue;
       }
+      results.add(QuranAyahSearchHit(surah: e.surah, ayah: e.ayah, text: e.text));
+      if (results.length >= limit) break;
     }
     return results;
   }

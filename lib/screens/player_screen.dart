@@ -6769,13 +6769,16 @@ class _PlayerScreenState extends State<PlayerScreen>
       });
 
 
-      if (!_isQuranVerseByVerse) {
-        setState(() {
-          _quranVerseSearchResults = [];
-        });
-        _quranVerseSearchController.clear();
-        _quranVerseSearchIndex.clear();
-      }
+      // if (!_isQuranVerseByVerse) {
+      //   setState(() {
+      //     _quranVerseSearchResults = [];
+      //   });
+      //   _quranVerseSearchController.clear();
+      //   _quranVerseSearchIndex.clear();
+      // }
+      _quranVerseSearchIndex.clear();
+      setState(() => _quranVerseSearchResults = []);
+      _quranVerseSearchController.clear();
 
       await _loadFontSettings(selectedPath);
       await player.open(Media(selectedPath), play: false);
@@ -6783,6 +6786,11 @@ class _PlayerScreenState extends State<PlayerScreen>
       await _loadSubtitles(selectedPath);
       _refreshQuranJuzDurations();
       _precalculateWordPositions();
+      // Rebuild the VTT verse search index now that the audiobook + subtitles
+      // are fully loaded and _isQuranVerseByVerse reflects the new book.
+      if (_isQuranVerseByVerse) {
+        unawaited(_buildQuranVerseSearchIndexIfNeeded());
+      }
 
       await Future.delayed(const Duration(milliseconds: 100));
 

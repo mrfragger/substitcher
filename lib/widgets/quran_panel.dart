@@ -173,6 +173,17 @@ List<String> _tokenize(String text) {
       .toList();
 }
 
+(String query, bool isPhrase) _extractHighlightQuery(String raw) {
+  final trimmed = raw.trim();
+  final phraseMatch = RegExp(
+    r'["\u201C\u2018](.+?)["\u201D\u2019]',
+  ).firstMatch(trimmed);
+  if (phraseMatch != null) {
+    return (phraseMatch.group(1)!.trim(), true);
+  }
+  return (trimmed, false);
+}
+
 class _QuranPanelState extends State<QuranPanel> {
   final Set<int> _expandedIndices = {};
   final TextEditingController _refInputController = TextEditingController();
@@ -2059,6 +2070,47 @@ class _QuranPanelState extends State<QuranPanel> {
       return _highlightArabicWholeWord(spans, trimmedQuery);
     }
 
+    // NEW: Latin / non-Arabic whole-word branch
+    if (wholeWord && !isArabic) {
+      final escaped = RegExp.escape(trimmedQuery);
+      final pattern = RegExp(r'(?<!\w)' + escaped + r'(?!\w)', caseSensitive: false);
+      final result = <TextSpan>[];
+      for (final span in spans) {
+        final text = span.text;
+        if (text == null || text.isEmpty || !pattern.hasMatch(text)) {
+          result.add(span);
+          continue;
+        }
+        int cursor = 0;
+        for (final m in pattern.allMatches(text)) {
+          if (m.start > cursor) {
+            result.add(TextSpan(
+              text: text.substring(cursor, m.start),
+              style: span.style,
+              recognizer: span.recognizer,
+            ));
+          }
+          result.add(TextSpan(
+            text: text.substring(m.start, m.end),
+            style: (span.style ?? const TextStyle()).copyWith(
+              color: Colors.yellow,
+              fontWeight: FontWeight.bold,
+            ),
+            recognizer: span.recognizer,
+          ));
+          cursor = m.end;
+        }
+        if (cursor < text.length) {
+          result.add(TextSpan(
+            text: text.substring(cursor),
+            style: span.style,
+            recognizer: span.recognizer,
+          ));
+        }
+      }
+      return result;
+    }
+
     // ---- Original (non-Arabic / phrase) behavior ----
     final words = trimmedQuery
         .split(RegExp(r'\s+'))
@@ -2620,7 +2672,7 @@ class _QuranPanelState extends State<QuranPanel> {
                                        : TextDirection.ltr,
                                    style: const TextStyle(color: Colors.white, fontSize: 13),
                                    decoration: InputDecoration(
-                                     hintText: 'Search loaded vtt verse text…',
+                                     hintText: 'Search loaded vtt verse text \"exact phrase\"',
                                      hintStyle: const TextStyle(color: Colors.white24, fontSize: 13),
                                      prefixIcon: const Icon(Icons.menu_book, color: Colors.amber, size: 16),
                                      suffixIcon: widget.quranVerseSearchController.text.isNotEmpty
@@ -2789,10 +2841,15 @@ class _QuranPanelState extends State<QuranPanel> {
                                             final isRtl = _isRtlText(hit.text);
                                             const baseStyle =
                                                 TextStyle(color: Colors.white70, fontSize: 13, height: 1.4);
-                                            final spans = _highlightQuery(
-                                              [TextSpan(text: hit.text, style: baseStyle)],
-                                              widget.quranVerseSearchController.text,
-                                            );
+                                                final (hlQuery, hlIsPhrase) = _extractHighlightQuery(
+                                                  widget.quranVerseSearchController.text,
+                                                );
+                                                final spans = _highlightQuery(
+                                                  [TextSpan(text: hit.text, style: baseStyle)],
+                                                  hlQuery,
+                                                  isPhrase: hlIsPhrase,
+                                                  wholeWord: hlIsPhrase,
+                                                );
                                             return InkWell(
                                               onTap: () => widget.onQuranVerseSearchResultTap(hit),
                                               child: Directionality(
