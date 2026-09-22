@@ -1658,10 +1658,17 @@ class _PlayerScreenState extends State<PlayerScreen>
               _vttShowApplying = false;
               _subtitles = cues;
               _originalSubtitles = cues;
+              _paragraphItems = _createParagraphs(cues);
             });
             await Future.delayed(const Duration(milliseconds: 300));
             if (mounted) await _loadVttShowSilentAudio();
           } else {
+            final content = await File(filePath).readAsString();
+            final cues = _parseVTT(content);
+            setState(() {
+              _originalSubtitles = cues;
+              _paragraphItems = _createParagraphs(cues);
+            });
             await _applyConversion();
           }
           _buildQuranVerseSearchIndexIfNeeded();
@@ -3513,8 +3520,6 @@ class _PlayerScreenState extends State<PlayerScreen>
         });
         final targetOpusName = 'Quran $language - $rangeKey $reciterSuffix';
         final targetOpusPath = path.join(opusDir, targetOpusName);
-        // final targetOpusPath = path.join(parentDir, targetOpusName);
-        // final targetOpusName = 'Quran Arabic - $rangeKey $reciterSuffix';
         final targetBase = path.basenameWithoutExtension(targetOpusName);
         final targetVttName = '$targetBase.vtt';
         final candidate1 = path.join(vttParentDir, langSubdir, targetVttName);
@@ -3688,24 +3693,17 @@ class _PlayerScreenState extends State<PlayerScreen>
     final matches = <Map<String, int>>[];
 
     for (final phrase in exactPhrases) {
-      final lowerPhrase = phrase.toLowerCase();
-      int start = 0;
-      while (true) {
-        final index = lowerText.indexOf(lowerPhrase, start);
-        if (index == -1) break;
-        matches.add({
-          'start': index,
-          'end': index + phrase.length,
-        });
-        start = index + 1;
-      }
-    }
+      final words = phrase
+          .toLowerCase()
+          .split(RegExp(r'\s+'))
+          .where((w) => w.isNotEmpty)
+          .toList();
+      if (words.isEmpty) continue;
 
-    for (final word in exactWords) {
-      final lowerWord = word.toLowerCase();
-      final pattern = RegExp(r'\b' + RegExp.escape(lowerWord) + r'\b',
-          caseSensitive: false);
-      for (final match in pattern.allMatches(lowerText)) {
+      final pattern = words.map(RegExp.escape).join(r'[^\p{L}]+');
+      final regex = RegExp(pattern, unicode: true, caseSensitive: false);
+
+      for (final match in regex.allMatches(lowerText)) {
         matches.add({
           'start': match.start,
           'end': match.end,
@@ -4742,7 +4740,7 @@ class _PlayerScreenState extends State<PlayerScreen>
     }
 
     for (final phrase in exactPhrases) {
-      if (!lowerText.contains(phrase)) {
+      if (!_phraseMatches(lowerText, phrase)) {
         return false;
       }
     }
@@ -4764,6 +4762,17 @@ class _PlayerScreenState extends State<PlayerScreen>
     } else {
       return terms.any((term) => lowerText.contains(term));
     }
+  }
+
+  bool _phraseMatches(String lowerText, String phrase) {
+    final words = phrase
+        .split(RegExp(r'\s+'))
+        .where((w) => w.isNotEmpty)
+        .toList();
+    if (words.isEmpty) return false;
+
+    final pattern = words.map(RegExp.escape).join(r'[^\p{L}]+');
+    return RegExp(pattern, unicode: true, caseSensitive: false).hasMatch(lowerText);
   }
 
   List<HistoryItem> _getFilteredHistory() {

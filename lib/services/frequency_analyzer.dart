@@ -46,17 +46,17 @@ class FrequencyAnalyzer {
     'close', 'read', 'show', 'greater', 'set', 'year', 'everywhere',
     'taken', 'self', 'totally', 'under', 'gives', 'makes', 'took', 'brings',
     'years', 'people', 'person', 'mentioned', 'mentions', 'meaning',
-    'told', 'must', 'therefore', 'itself', 
+    'told', 'must', 'therefore', 'itself',
   };
 
   static Future<List<FrequencyItem>> analyzeSubtitleFile(String filePath) async {
     try {
       final file = File(filePath);
       final content = await file.readAsString();
-      
-      
+
+
       final cjkPercentage = _calculateCJKPercentage(content);
-      
+
       if (cjkPercentage > 0.5) {
         final result = await _analyzeCJKContent(content);
         return result;
@@ -73,18 +73,18 @@ class FrequencyAnalyzer {
   static double _calculateCJKPercentage(String content) {
     final cues = _parseVTT(content);
     if (cues.isEmpty) return 0.0;
-    
+
     int totalChars = 0;
     int cjkChars = 0;
-    
+
     for (final cue in cues) {
       final text = cue.text.replaceAll(RegExp(r'<[^>]+>'), '');
-      
+
       for (final char in text.runes) {
         if (char <= 32 || char == 10 || char == 13) continue;
-        
+
         totalChars++;
-        
+
         if ((char >= 0x3040 && char <= 0x309F) ||
             (char >= 0x30A0 && char <= 0x30FF) ||
             (char >= 0x4E00 && char <= 0x9FFF) ||
@@ -97,53 +97,53 @@ class FrequencyAnalyzer {
         }
       }
     }
-        
+
     return totalChars > 0 ? cjkChars / totalChars : 0.0;
   }
 
   static Future<List<FrequencyItem>> _analyzeCJKContent(String content) async {
     final cues = _parseVTT(content);
-    
+
     final Map<String, int> singleWordFreq = {};
     final Map<String, int> twoWordFreq = {};
     final Map<String, int> threeWordFreq = {};
     final Map<String, int> fourWordFreq = {};
     final Map<String, int> fiveWordFreq = {};
-  
+
     for (final cue in cues) {
       final cleanedText = cue.text.replaceAll(RegExp(r'<[^>]+>'), '').trim();
       if (cleanedText.isEmpty) continue;
-  
+
       final language = CJKTokenizer.detectLanguage(cleanedText);
       final words = CJKTokenizer.tokenize(cleanedText, language: language);
-      
+
       final useSpaces = language == TextLanguage.arabic || language == TextLanguage.english;
-  
+
       for (final word in words) {
         singleWordFreq[word] = (singleWordFreq[word] ?? 0) + 1;
       }
-  
+
       for (int i = 0; i < words.length - 1; i++) {
-        final phrase = useSpaces 
+        final phrase = useSpaces
             ? '${words[i]} ${words[i + 1]}'
             : '${words[i]}${words[i + 1]}';
         twoWordFreq[phrase] = (twoWordFreq[phrase] ?? 0) + 1;
       }
-  
+
       for (int i = 0; i < words.length - 2; i++) {
         final phrase = useSpaces
             ? '${words[i]} ${words[i + 1]} ${words[i + 2]}'
             : '${words[i]}${words[i + 1]}${words[i + 2]}';
         threeWordFreq[phrase] = (threeWordFreq[phrase] ?? 0) + 1;
       }
-  
+
       for (int i = 0; i < words.length - 3; i++) {
         final phrase = useSpaces
             ? '${words[i]} ${words[i + 1]} ${words[i + 2]} ${words[i + 3]}'
             : '${words[i]}${words[i + 1]}${words[i + 2]}${words[i + 3]}';
         fourWordFreq[phrase] = (fourWordFreq[phrase] ?? 0) + 1;
       }
-  
+
       for (int i = 0; i < words.length - 4; i++) {
         final phrase = useSpaces
             ? '${words[i]} ${words[i + 1]} ${words[i + 2]} ${words[i + 3]} ${words[i + 4]}'
@@ -151,57 +151,57 @@ class FrequencyAnalyzer {
         fiveWordFreq[phrase] = (fiveWordFreq[phrase] ?? 0) + 1;
       }
     }
-    
+
     final items = <FrequencyItem>[];
-  
+
     final sortedSingle = singleWordFreq.entries.toList()
       ..sort((a, b) => b.value.compareTo(a.value));
     items.addAll(sortedSingle.take(500).map((e) =>
         FrequencyItem(text: e.key, frequency: e.value, wordCount: 1)));
-  
+
     final sortedTwo = twoWordFreq.entries.toList()
       ..sort((a, b) => b.value.compareTo(a.value));
     items.addAll(sortedTwo.take(200).map((e) =>
         FrequencyItem(text: e.key, frequency: e.value, wordCount: 2)));
-  
+
     final sortedThree = threeWordFreq.entries.toList()
       ..sort((a, b) => b.value.compareTo(a.value));
     items.addAll(sortedThree.take(200).map((e) =>
         FrequencyItem(text: e.key, frequency: e.value, wordCount: 3)));
-  
+
     final sortedFour = fourWordFreq.entries.toList()
       ..sort((a, b) => b.value.compareTo(a.value));
     items.addAll(sortedFour.take(200).map((e) =>
         FrequencyItem(text: e.key, frequency: e.value, wordCount: 4)));
-  
+
     final sortedFive = fiveWordFreq.entries.toList()
       ..sort((a, b) => b.value.compareTo(a.value));
     items.addAll(sortedFive.take(200).map((e) =>
         FrequencyItem(text: e.key, frequency: e.value, wordCount: 5)));
-  
+
     return items;
   }
 
   static List<SubtitleCue> _parseVTT(String content) {
     final cues = <SubtitleCue>[];
     final lines = content.split('\n');
-    
+
     for (var i = 0; i < lines.length; i++) {
       final line = lines[i].trim();
-      
+
       if (line.contains('-->')) {
         final parts = line.split('-->');
         if (parts.length == 2) {
           final startTime = _parseVTTTime(parts[0].trim());
           final endTime = _parseVTTTime(parts[1].trim().split(' ')[0]);
-          
+
           final textLines = <String>[];
           i++;
           while (i < lines.length && lines[i].trim().isNotEmpty) {
             textLines.add(lines[i].trim());
             i++;
           }
-          
+
           if (startTime != null && endTime != null && textLines.isNotEmpty) {
             cues.add(SubtitleCue(
               startTime: startTime,
@@ -212,7 +212,7 @@ class FrequencyAnalyzer {
         }
       }
     }
-    
+
     return cues;
   }
 
@@ -242,115 +242,140 @@ class FrequencyAnalyzer {
 
   static Future<List<FrequencyItem>> _analyzeEnglishContent(String content) async {
     final words = await _processWords(content);
-    
+
     final allPhrases = <FrequencyItem>[];
-    for (int length = 3; length <= 7; length++) {
+    for (int length = 3; length <= 8; length++) {
       final phrases = await _processPhrases(content, length);
       allPhrases.addAll(phrases);
     }
-    
+
     final deduplicated = await _deduplicatePhrases(allPhrases);
-    
-    final results = [...words, ...deduplicated];
-    
+    final cascaded = _applyCascadingSubtraction(deduplicated);
+
+    final results = [...words, ...cascaded];
+
     results.sort((a, b) {
       if (a.wordCount == 1 && b.wordCount != 1) return -1;
       if (a.wordCount != 1 && b.wordCount == 1) return 1;
-      
+
       if (a.wordCount != b.wordCount) {
         return b.wordCount.compareTo(a.wordCount);
       }
-      
+
       return b.frequency.compareTo(a.frequency);
     });
-    
+
     return results;
   }
 
   static Future<List<FrequencyItem>> _processWords(String content) async {
     final cleaned = content
-        .replaceAll(RegExp(r"[^\p{L}',]", unicode: true), ' ')
-        .toLowerCase();
-    
-    final words = cleaned.split(RegExp(r'\s+'))
+        .replaceAll(RegExp(r"[^\p{L}',]", unicode: true), ' ');
+
+    final rawWords = cleaned.split(RegExp(r'\s+'))
         .where((w) => w.length >= 4)
         .toList();
-    
+
     final wordFreq = <String, int>{};
-    for (final word in words) {
+    final displayVariants = <String, Map<String, int>>{};
+
+    for (final word in rawWords) {
       final cleanWord = word.replaceAll(',', '');
-      if (!_commonWords.contains(cleanWord)) {
-        wordFreq[cleanWord] = (wordFreq[cleanWord] ?? 0) + 1;
-      }
+      final lowerWord = cleanWord.toLowerCase();
+      if (_commonWords.contains(lowerWord)) continue;
+
+      wordFreq[lowerWord] = (wordFreq[lowerWord] ?? 0) + 1;
+      displayVariants.putIfAbsent(lowerWord, () => {});
+      displayVariants[lowerWord]![cleanWord] =
+          (displayVariants[lowerWord]![cleanWord] ?? 0) + 1;
     }
-    
+
     return wordFreq.entries
         .where((e) => e.value >= 4)
-        .map((e) => FrequencyItem(
-              text: e.key,
-              frequency: e.value,
-              wordCount: 1,
-            ))
+        .map((e) {
+          final variants = displayVariants[e.key]!;
+          final bestVariant =
+              variants.entries.reduce((a, b) => a.value >= b.value ? a : b).key;
+          return FrequencyItem(
+            text: bestVariant,
+            frequency: e.value,
+            wordCount: 1,
+          );
+        })
         .toList();
   }
-  
+
   static Future<List<FrequencyItem>> _processPhrases(String content, int phraseLength) async {
     final cleaned = content
-        .replaceAll(RegExp(r"[^\p{L}',]", unicode: true), ' ')
-        .toLowerCase();
-    
-    final words = cleaned.split(RegExp(r'\s+')).where((w) => w.isNotEmpty).toList();
-    
+        .replaceAll(RegExp(r"""[^\p{L}',;:.!?"\[\]\-]""", unicode: true), ' ');
+
+    final rawWords = cleaned.split(RegExp(r'\s+'))
+        .where((w) => w.replaceAll(RegExp(r"[^\p{L}]", unicode: true), '').length >= 2)
+        .toList();
+
+    final lowerWords = rawWords.map((w) => w.toLowerCase()).toList();
+
     final phraseFreq = <String, int>{};
-    
-    for (int i = 0; i <= words.length - phraseLength; i++) {
-      final phrase = words.sublist(i, i + phraseLength).join(' ');
-      if (phrase.trim().isNotEmpty) {
-        phraseFreq[phrase] = (phraseFreq[phrase] ?? 0) + 1;
-      }
+    final displayVariants = <String, Map<String, int>>{};
+
+    for (int i = 0; i <= lowerWords.length - phraseLength; i++) {
+      final lowerPhrase = lowerWords.sublist(i, i + phraseLength).join(' ');
+      if (lowerPhrase.trim().isEmpty) continue;
+
+      final rawPhrase = rawWords.sublist(i, i + phraseLength).join(' ');
+
+      phraseFreq[lowerPhrase] = (phraseFreq[lowerPhrase] ?? 0) + 1;
+      displayVariants.putIfAbsent(lowerPhrase, () => {});
+      displayVariants[lowerPhrase]![rawPhrase] =
+          (displayVariants[lowerPhrase]![rawPhrase] ?? 0) + 1;
     }
-    
+
     return phraseFreq.entries
         .where((e) => e.value >= 4)
-        .map((e) => FrequencyItem(
-              text: e.key,
-              frequency: e.value,
-              wordCount: phraseLength,
-            ))
+        .map((e) {
+          final variants = displayVariants[e.key]!;
+          final bestVariant =
+              variants.entries.reduce((a, b) => a.value >= b.value ? a : b).key;
+          return FrequencyItem(
+            text: bestVariant,
+            frequency: e.value,
+            wordCount: phraseLength,
+          );
+        })
         .toList();
   }
 
   static Future<List<FrequencyItem>> _deduplicatePhrases(List<FrequencyItem> phrases) async {
     if (phrases.isEmpty) return [];
-    
+
     phrases.sort((a, b) {
       final lenCompare = b.wordCount.compareTo(a.wordCount);
       if (lenCompare != 0) return lenCompare;
       return b.frequency.compareTo(a.frequency);
     });
-    
+
     final groups = <List<FrequencyItem>>[];
     final assigned = <int>{};
-    
+
     for (int i = 0; i < phrases.length; i++) {
       if (assigned.contains(i)) continue;
-      
+
       final group = [phrases[i]];
       assigned.add(i);
-      
+
       for (int j = i + 1; j < phrases.length; j++) {
         if (assigned.contains(j)) continue;
         if (phrases[j].wordCount != phrases[i].wordCount) continue;
-        
+
         if (_areSimilar(phrases[i], phrases[j])) {
           group.add(phrases[j]);
           assigned.add(j);
         }
       }
-      
+
       groups.add(group);
     }
-    
+
     final filtered = <FrequencyItem>[];
     for (final group in groups) {
       if (group.length == 1) {
@@ -360,39 +385,48 @@ class FrequencyAnalyzer {
         filtered.add(group[0]);
       }
     }
-    
+
     return filtered;
   }
 
+  static List<String> _normalizedWords(String text) {
+    return text
+        .toLowerCase()
+        .replaceAll(RegExp(r"[^\p{L}\s']", unicode: true), '')
+        .split(RegExp(r'\s+'))
+        .where((w) => w.isNotEmpty)
+        .toList();
+  }
+
   static bool _areSimilar(FrequencyItem p1, FrequencyItem p2) {
-    final words1 = p1.text.split(' ');
-    final words2 = p2.text.split(' ');
-    
+    final words1 = _normalizedWords(p1.text);
+    final words2 = _normalizedWords(p2.text);
+
     final content1 = words1.where((w) => w.length >= 3).toList();
     final content2 = words2.where((w) => w.length >= 3).toList();
-    
+
     if (content1.isEmpty || content2.isEmpty) return false;
-    
+
     final set1 = content1.toSet();
     final set2 = content2.toSet();
-    
+
     final intersection = set1.intersection(set2).length;
     final union = set1.union(set2).length;
-    
+
     if (union == 0) return false;
-    
+
     final contentOverlap = intersection / union;
     if (contentOverlap >= 0.5) return true;
-    
-    final text1 = p1.text;
-    final text2 = p2.text;
-    
+
+    final text1 = words1.join(' ');
+    final text2 = words2.join(' ');
+
     if (text1.contains(text2) || text2.contains(text1)) {
       return true;
     }
-    
+
     int maxSequentialMatch = 0;
-    
+
     for (int offset = -(words2.length - 1); offset < words1.length; offset++) {
       int matches = 0;
       for (int i = 0; i < words2.length; i++) {
@@ -405,30 +439,30 @@ class FrequencyAnalyzer {
         maxSequentialMatch = matches;
       }
     }
-    
+
     final minLength = words1.length < words2.length ? words1.length : words2.length;
     final sequentialOverlap = maxSequentialMatch / minLength;
-    
+
     if (sequentialOverlap >= 0.6) return true;
-    
+
     if (content1.length >= 2 && content2.length >= 2) {
       final lcs = _longestCommonSubsequence(content1, content2);
       final lcsRatio = lcs / (content1.length < content2.length ? content1.length : content2.length);
-      
+
       if (lcsRatio >= 0.5) return true;
     }
-    
+
     return false;
   }
-  
+
   static int _longestCommonSubsequence(List<String> a, List<String> b) {
     final m = a.length;
     final n = b.length;
-    
+
     if (m == 0 || n == 0) return 0;
-    
+
     final dp = List.generate(m + 1, (_) => List.filled(n + 1, 0));
-    
+
     for (int i = 1; i <= m; i++) {
       for (int j = 1; j <= n; j++) {
         if (a[i - 1] == b[j - 1]) {
@@ -438,7 +472,77 @@ class FrequencyAnalyzer {
         }
       }
     }
-    
+
     return dp[m][n];
+  }
+
+  /// Reduces each phrase's count by the counts of longer phrases that already
+  /// contain it as a contiguous substring, processing longest-to-shortest so
+  /// that a subsumed longer phrase never gets double-counted against a
+  /// shorter one. Phrases whose remaining count drops below 4 are dropped.
+  static List<FrequencyItem> _applyCascadingSubtraction(List<FrequencyItem> phrases) {
+    final byLength = <int, List<FrequencyItem>>{};
+    for (final item in phrases) {
+      byLength.putIfAbsent(item.wordCount, () => []).add(item);
+    }
+
+    final lengths = byLength.keys.toList()..sort((a, b) => b.compareTo(a));
+
+    // Only holds lengths already processed, i.e. strictly longer than
+    // whichever length is currently being computed.
+    final remainingCounts = <int, Map<String, int>>{};
+
+    for (final length in lengths) {
+      final currentItems = byLength[length]!;
+      final remainingMap = <String, int>{};
+
+      for (final item in currentItems) {
+        final pWords = _normalizedWords(item.text);
+        int reduction = 0;
+
+        for (final longerEntries in remainingCounts.values) {
+          for (final entry in longerEntries.entries) {
+            if (entry.value <= 0) continue;
+            final qWords = _normalizedWords(entry.key);
+            if (_isContiguousSubsequence(pWords, qWords)) {
+              reduction += entry.value;
+            }
+          }
+        }
+
+        remainingMap[item.text] = item.frequency - reduction;
+      }
+
+      remainingCounts[length] = remainingMap;
+    }
+
+    final result = <FrequencyItem>[];
+    for (final item in phrases) {
+      final remaining = remainingCounts[item.wordCount]![item.text] ?? item.frequency;
+      if (remaining >= 4) {
+        result.add(FrequencyItem(
+          text: item.text,
+          frequency: remaining,
+          wordCount: item.wordCount,
+        ));
+      }
+    }
+
+    return result;
+  }
+
+  static bool _isContiguousSubsequence(List<String> sub, List<String> full) {
+    if (sub.length > full.length) return false;
+    for (int i = 0; i <= full.length - sub.length; i++) {
+      bool matches = true;
+      for (int j = 0; j < sub.length; j++) {
+        if (full[i + j] != sub[j]) {
+          matches = false;
+          break;
+        }
+      }
+      if (matches) return true;
+    }
+    return false;
   }
 }
