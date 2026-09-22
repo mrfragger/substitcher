@@ -647,7 +647,6 @@ class _PlayerScreenState extends State<PlayerScreen>
             ...parsed,
             ...buildDayPlanEntries(parsed, '14Day', juzPlan14Days),
             ...buildDayPlanEntries(parsed, '10Day', juzPlan10Days),
-            ...buildDayPlanEntries(parsed, '7Day', juzPlan7Days),
           ];
         });
       }
@@ -660,7 +659,6 @@ class _PlayerScreenState extends State<PlayerScreen>
             ...parsed,
             ...buildDayPlanEntries(parsed, '14Day', juzPlan14Days),
             ...buildDayPlanEntries(parsed, '10Day', juzPlan10Days),
-            ...buildDayPlanEntries(parsed, '7Day', juzPlan7Days),
           ];
           _activeQuranRef = null;
           _activeQuranFilteredIndex = null;

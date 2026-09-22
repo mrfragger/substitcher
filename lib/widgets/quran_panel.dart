@@ -373,10 +373,8 @@ class _QuranPanelState extends State<QuranPanel> {
   bool _isDayPlanHeader(String topic) =>
       topic.startsWith('14Day ') ||
       topic.startsWith('10Day ') ||
-      topic.startsWith('7Day ') ||
       topic == '14Day' ||
-      topic == '10Day' ||
-      topic == '7Day';
+      topic == '10Day' ;
 
   Widget _buildCompletionCheckbox(String topic) {
     final parsed = _parseJuzHizbRubTopic(topic);
@@ -483,9 +481,8 @@ class _QuranPanelState extends State<QuranPanel> {
         'Juz' => 'Juz',
         'Hizb (1/2)' => 'Hizb',
         'Rub (1/8)' => 'Rub',
-        '7Day' => 'Juz',
-        '10Day' => 'Juz',
         '14Day' => 'Juz',
+        '10Day' => 'Juz',
         _ => null,
       };
 
@@ -497,8 +494,6 @@ class _QuranPanelState extends State<QuranPanel> {
         return 14;
       case '10Day':
         return 10;
-      case '7Day':
-        return 7;
       default:
         return null;
     }
@@ -2724,8 +2719,6 @@ class _QuranPanelState extends State<QuranPanel> {
                     _quickFilterChip('14', '14day'),
                     const SizedBox(width: 4),
                     _quickFilterChip('10', '10day'),
-                    const SizedBox(width: 4),
-                    _quickFilterChip('7', '7day'),
                     const SizedBox(width: 4),
                     _quickFilterChip('Hizb', 'hizb'),
                     const SizedBox(width: 4),

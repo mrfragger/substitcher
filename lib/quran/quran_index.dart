@@ -185,16 +185,6 @@ const Map<String, List<int>> quranFileRanges = {
   ],
 };
 
-const Map<int, List<int>> juzPlan7Days = {
-  1: [1, 2, 3, 4],
-  2: [5, 6, 7, 8],
-  3: [9, 10, 11, 12],
-  4: [13, 14, 15, 16],
-  5: [17, 18, 19, 20],
-  6: [21, 22, 23, 24, 25],
-  7: [26, 27, 28, 29, 30],
-};
-
 const Map<int, List<int>> juzPlan10Days = {
   1: [1, 2, 3],
   2: [4, 5, 6],
