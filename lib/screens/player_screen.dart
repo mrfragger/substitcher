@@ -42,7 +42,6 @@ import '../services/subtitle_transformer.dart';
 import '../services/font_alternates_data.dart';
 import '../services/subtitle_organizer.dart';
 import '../services/frequency_analyzer.dart';
-import '../services/stats_manager.dart';
 import '../services/adhan_clock_service.dart';
 import '../services/youtube_service.dart';
 import '../services/video_edit_service.dart';
@@ -53,7 +52,6 @@ import '../services/vtt_show_service.dart';
 import '../widgets/adhan_clock_overlay.dart';
 import '../widgets/subtitle_manager_dialog.dart';
 import '../widgets/side_panel.dart';
-import '../widgets/stats_panel.dart';
 import '../widgets/player_controls.dart';
 import '../widgets/word_overlay.dart';
 import '../widgets/download_overlay.dart';
@@ -219,10 +217,6 @@ class _PlayerScreenState extends State<PlayerScreen>
   Timer? _dictionaryModeExitTimer;
   bool _hideChapterTitle = false;
 
-  String _statsSearchQuery = '';
-  final TextEditingController _statsSearchController = TextEditingController();
-  final FocusNode _statsSearchFocusNode = FocusNode();
-
   String _searchQuery = '';
   bool _searchUseAnd = true;
   String _excludeTerms = '';
@@ -312,9 +306,6 @@ class _PlayerScreenState extends State<PlayerScreen>
   PauseMode _pauseMode = PauseMode.disabled;
   Timer? _pauseModeTimer;
   Duration? _nextPauseTime;
-
-  final StatsManager _statsManager = StatsManager();
-  Timer? _cacheFlushTimer;
 
   late AdhanClockService _adhanClockService;
   bool _showAdhanOverlay = false;
@@ -478,7 +469,6 @@ class _PlayerScreenState extends State<PlayerScreen>
       _loadChapterIndex();
     });
     _loadDurationCache();
-    _loadInitialStats();
     _loadHistory();
     _loadPlaylist();
     _loadQuranLanguage();
@@ -487,7 +477,6 @@ class _PlayerScreenState extends State<PlayerScreen>
     _loadBookmarks();
     _loadFavoriteFonts();
     _loadFavoriteColorPalettes();
-    _startCacheFlushTimer();
     _loadFavoriteLuts();
     _loadSavedLut();
     WidgetsBinding.instance.addPostFrameCallback((_) {
@@ -504,19 +493,9 @@ class _PlayerScreenState extends State<PlayerScreen>
     WidgetsBinding.instance.removeObserver(this);
     WakelockPlus.disable();
     windowManager.removeListener(_windowListener);
-    _cacheFlushTimer?.cancel();
     _frequencyGenerationTimer?.cancel();
     _sleepTimerCountdownTimer?.cancel();
     _adhanClockService.dispose();
-    if (_currentAudiobook != null) {
-      final currentChapter = _currentAudiobook!.chapters[_currentChapterIndex];
-      _statsManager.recordChapterEnd(
-        path.basenameWithoutExtension(_currentAudiobook!.path),
-        currentChapter.title,
-        false,
-      );
-      _statsManager.flushCacheToLog();
-    }
     _sleepTimer?.cancel();
     _pauseModeTimer?.cancel();
     player.dispose();
@@ -547,8 +526,6 @@ class _PlayerScreenState extends State<PlayerScreen>
     _chapterSearchFocusNode.dispose();
     _chapterExcludeController.dispose();
     _chapterExcludeFocusNode.dispose();
-    _statsSearchController.dispose();
-    _statsSearchFocusNode.dispose();
     _vttEditLine1FocusNode.dispose();
     _vttEditLine2FocusNode.dispose();
     LutThumbnailService.instance.clearCache();
@@ -1057,13 +1034,6 @@ class _PlayerScreenState extends State<PlayerScreen>
     }
   }
 
-  Future<void> _loadInitialStats() async {
-    await _statsManager.initialize();
-    if (mounted) {
-      setState(() {});
-    }
-  }
-
   void _setupAudioPlayer() {
     player.stream.position.listen((position) {
       if (mounted) {
@@ -1099,7 +1069,6 @@ class _PlayerScreenState extends State<PlayerScreen>
         _updateWakelock();
       }
       if (playing) {
-        _statsManager.onPlaybackStart();
         _saveToHistory();
       } else {
         if (_sleepDuration != null) {
@@ -1113,7 +1082,6 @@ class _PlayerScreenState extends State<PlayerScreen>
             );
           }
         }
-        _statsManager.onPlaybackPause();
         _saveToHistory();
       }
     });
@@ -1255,19 +1223,6 @@ class _PlayerScreenState extends State<PlayerScreen>
         await player.pause().timeout(const Duration(milliseconds: 500));
       }
 
-      if (_currentAudiobook != null) {
-        final currentChapter =
-            _currentAudiobook!.chapters[_currentChapterIndex];
-        _statsManager.recordChapterEnd(
-          path.basenameWithoutExtension(_currentAudiobook!.path),
-          currentChapter.title,
-          false,
-        );
-        await _statsManager
-            .flushCacheToLog()
-            .timeout(const Duration(milliseconds: 500));
-      }
-
       await _saveDefaultSettings().timeout(const Duration(milliseconds: 500));
       await _saveToHistory().timeout(const Duration(milliseconds: 500));
       await player.stop().timeout(const Duration(milliseconds: 500));
@@ -1275,32 +1230,6 @@ class _PlayerScreenState extends State<PlayerScreen>
       print('Error during window close: $e');
     }
   }
-
-  void _startCacheFlushTimer() {
-    _cacheFlushTimer?.cancel();
-    _cacheFlushTimer = Timer.periodic(const Duration(seconds: 30), (timer) {
-      if (_statsManager.statsEnabled &&
-          _statsManager.chapterStartTime != null &&
-          _currentAudiobook != null) {
-        final currentChapter =
-            _currentAudiobook!.chapters[_currentChapterIndex];
-        final accumulatedTime = _statsManager.getCurrentAccumulatedTime();
-        final cacheKey = _statsManager.generateCacheKey(
-          path.basenameWithoutExtension(_currentAudiobook!.path),
-          currentChapter.title,
-          _statsManager.chapterStartTime,
-        );
-        if (cacheKey.isNotEmpty) {
-          setState(() {
-            _statsManager.chapterTimeCache[cacheKey] = accumulatedTime;
-          });
-          _statsManager.saveCacheToPrefs();
-        }
-      }
-    });
-  }
-
-
 
   void _checkChapterBoundary(Duration position) {
     if (_currentAudiobook == null || _currentAudiobook!.chapters.isEmpty)
@@ -1335,15 +1264,6 @@ class _PlayerScreenState extends State<PlayerScreen>
           }
           return;
         }
-      }
-      if (!_isYouTubeStream) {
-        final currentChapter =
-            _currentAudiobook!.chapters[_currentChapterIndex];
-        _statsManager.recordChapterEnd(
-          path.basenameWithoutExtension(_currentAudiobook!.path),
-          currentChapter.title,
-          false,
-        );
       }
       if (!_playedChapters.contains(_currentChapterIndex)) {
         _playedChapters.add(_currentChapterIndex);
@@ -1430,10 +1350,6 @@ class _PlayerScreenState extends State<PlayerScreen>
           if (_showPanel && _panelMode == PanelMode.chapters)
             _scrollToCurrentChapter();
         }
-      }
-      if (!_isYouTubeStream &&
-          _currentChapterIndex < _currentAudiobook!.chapters.length) {
-        _statsManager.recordChapterStart();
       }
     }
   }
@@ -4782,69 +4698,6 @@ class _PlayerScreenState extends State<PlayerScreen>
     }
   }
 
-  Map<String, dynamic> _calculateStats(List<Map<String, dynamic>> entries) {
-    if (entries.isEmpty) {
-      return {
-        'totalTime': 0,
-        'uniqueFiles': 0,
-        'totalEntries': 0,
-        'totalChapters': 0,
-        'avgChapter': 0,
-      };
-    }
-    int totalTime = 0;
-    final uniqueFiles = <String>{};
-    int totalChapters = 0;
-    for (final entry in entries) {
-      totalTime += (entry['listened_duration'] as num).toInt();
-      uniqueFiles.add(entry['filename'] as String);
-      totalChapters++;
-    }
-    final avgChapter = totalChapters > 0 ? totalTime ~/ totalChapters : 0;
-    return {
-      'totalTime': totalTime,
-      'uniqueFiles': uniqueFiles.length,
-      'totalEntries': entries.length,
-      'totalChapters': totalChapters,
-      'avgChapter': avgChapter,
-    };
-  }
-
-  List<Map<String, dynamic>> _filterEntriesByDate(DateTime date) {
-    final dateStr =
-        '${date.year}-${date.month.toString().padLeft(2, '0')}-${date.day.toString().padLeft(2, '0')}';
-    return _statsManager.statsEntries.where((entry) {
-      final datetime = entry['datetime'] as String?;
-      if (datetime == null) return false;
-      return datetime.startsWith(dateStr);
-    }).toList();
-  }
-
-  List<Map<String, dynamic>> _filterEntriesByDays(int days) {
-    final now = DateTime.now();
-    final cutoff = now.subtract(Duration(days: days));
-    return _statsManager.statsEntries.where((entry) {
-      final datetime = entry['datetime'] as String?;
-      if (datetime == null) return false;
-      try {
-        final entryDate = DateTime.parse(datetime.split(' ')[0]);
-        return entryDate.isAfter(cutoff) || entryDate.isAtSameMomentAs(cutoff);
-      } catch (e) {
-        return false;
-      }
-    }).toList();
-  }
-
-  Map<String, int> _getFileListenTimes(List<Map<String, dynamic>> entries) {
-    final fileTimes = <String, int>{};
-    for (final entry in entries) {
-      final filename = entry['filename'] as String;
-      final duration = (entry['listened_duration'] as num).toInt();
-      fileTimes[filename] = (fileTimes[filename] ?? 0) + duration;
-    }
-    return fileTimes;
-  }
-
   bool _matchesSearch(String text, String query, List<String> excludeTerms,
       {bool? useAnd}) {
     final lowerText = text.toLowerCase();
@@ -6349,36 +6202,18 @@ class _PlayerScreenState extends State<PlayerScreen>
     }
 
     if (_currentChapterIndex > 0) {
-      await _statsManager.recordChapterEnd(
-        path.basenameWithoutExtension(_currentAudiobook!.path),
-        currentChapter.title,
-        false,
-      );
-      await _statsManager.flushCacheToLog();
-
       final chapter = _currentAudiobook!.chapters[_currentChapterIndex - 1];
       await _seekTo(chapter.startTime);
-      _statsManager.recordChapterStart();
-      if (_isPlaying) {
-        _statsManager.onPlaybackStart();
-      }
     }
   }
 
   Future<void> _nextChapter({bool fromBoundary = false}) async {
-      if (_currentAudiobook == null) return;
-      if (!fromBoundary) {
-        _repeatPlaysCompleted = 0;
-        _pendingStopRef = null;
-        _rangeRepeatRef = null;
-        _rangeRepeatsRemaining = 0;
-        final currentChapter = _currentAudiobook!.chapters[_currentChapterIndex];
-      await _statsManager.recordChapterEnd(
-        path.basenameWithoutExtension(_currentAudiobook!.path),
-        currentChapter.title,
-        false,
-      );
-      await _statsManager.flushCacheToLog();
+    if (_currentAudiobook == null) return;
+    if (!fromBoundary) {
+      _repeatPlaysCompleted = 0;
+      _pendingStopRef = null;
+      _rangeRepeatRef = null;
+      _rangeRepeatsRemaining = 0;
     }
     if (_shuffleEnabled) {
       final nextIndex = _getNextShuffleChapter();
@@ -6395,10 +6230,6 @@ class _PlayerScreenState extends State<PlayerScreen>
         nextIndex++;
       }
     }
-    _statsManager.recordChapterStart();
-    if (_isPlaying) {
-      _statsManager.onPlaybackStart();
-    }
   }
 
   Future<void> _jumpToChapter(int index, {bool preserveRangeRepeat = false}) async {
@@ -6412,24 +6243,12 @@ class _PlayerScreenState extends State<PlayerScreen>
       }
       if (_currentChapterIndex != index) {
         _repeatPlaysCompleted = 0;
-        final currentChapter =
-            _currentAudiobook!.chapters[_currentChapterIndex];
-        await _statsManager.recordChapterEnd(
-          path.basenameWithoutExtension(_currentAudiobook!.path),
-          currentChapter.title,
-          false,
-        );
-        _statsManager.flushCacheToLog();
       }
       final chapter = _currentAudiobook!.chapters[index];
       await _seekTo(chapter.startTime);
       setState(() {
         _currentChapterIndex = index;
       });
-      _statsManager.recordChapterStart();
-      if (_isPlaying) {
-        _statsManager.onPlaybackStart();
-      }
     }
   }
 
@@ -6889,20 +6708,6 @@ class _PlayerScreenState extends State<PlayerScreen>
         _ffmpegAvailable = await VideoEditService.isAvailable();
       }
 
-      if (_currentAudiobook != null &&
-          _currentAudiobook!.path != selectedPath) {
-        if (_currentAudiobook!.chapters.isNotEmpty) {
-          final currentChapter =
-              _currentAudiobook!.chapters[_currentChapterIndex];
-          await _statsManager.recordChapterEnd(
-            path.basenameWithoutExtension(_currentAudiobook!.path),
-            currentChapter.title,
-            false,
-          );
-          await _statsManager.flushCacheToLog();
-        }
-      }
-
       final metadata = await _ffmpeg.loadAudiobook(selectedPath);
       final fileSize = await _getFileSize(selectedPath);
       await player.stop();
@@ -6989,14 +6794,6 @@ class _PlayerScreenState extends State<PlayerScreen>
       }
 
       await player.play();
-
-      if (_currentAudiobook != null) {
-        _statsManager.recordChapterStart();
-      }
-
-      if (_isPlaying) {
-        _statsManager.onPlaybackStart();
-      }
 
       await _calculateBitrate();
 
@@ -7870,7 +7667,6 @@ class _PlayerScreenState extends State<PlayerScreen>
             _subsSearchFocusNode.hasFocus ||
             _chapterSearchFocusNode.hasFocus ||
             _chapterExcludeFocusNode.hasFocus ||
-            _statsSearchFocusNode.hasFocus ||
             _vttEditLine1FocusNode.hasFocus ||
             _vttEditLine2FocusNode.hasFocus ||
             _quranSearchFocusNode.hasFocus ||
@@ -8112,7 +7908,6 @@ class _PlayerScreenState extends State<PlayerScreen>
             }
             return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyT &&
-              HardwareKeyboard.instance.isShiftPressed &&
               event is KeyDownEvent) {
             setState(() {
               _showPanel = true;
@@ -8128,13 +7923,6 @@ class _PlayerScreenState extends State<PlayerScreen>
             setState(() {
               _showPanel = true;
               _panelMode = PanelMode.subs;
-            });
-            return KeyEventResult.handled;
-          } else if (event.logicalKey == LogicalKeyboardKey.keyT &&
-              event is KeyDownEvent) {
-            setState(() {
-              _showPanel = true;
-              _panelMode = PanelMode.stats;
             });
             return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.home &&
@@ -8929,7 +8717,6 @@ class _PlayerScreenState extends State<PlayerScreen>
                       _panelMode == PanelMode.history ||
                       _panelMode == PanelMode.playlist ||
                       _panelMode == PanelMode.bookmarks ||
-                      _panelMode == PanelMode.stats ||
                       _panelMode == PanelMode.quran ||
                       _panelMode == PanelMode.quranList ||
                       _panelMode == PanelMode.quiz ||
@@ -9333,29 +9120,6 @@ class _PlayerScreenState extends State<PlayerScreen>
                   bookmarksCount: _bookmarks.length,
                   fontsCount: CustomFontLoader.loadedFonts.length,
                   subsCount: _subtitles.length,
-                  statsCount: _statsManager.statsEntries.length,
-                  statsEntries: _statsManager.statsEntries,
-                  statsEnabled: _statsManager.statsEnabled,
-                  onStatsEnabledChanged: (value) {
-                    _statsManager.saveStatsEnabled(value);
-                  },
-                  onRefreshStats: () {
-                    _statsManager.loadAllStatsEntries();
-                  },
-                  filterEntriesByDate: _filterEntriesByDate,
-                  filterEntriesByDays: _filterEntriesByDays,
-                  getFileListenTimes: _getFileListenTimes,
-                  groupEntriesByAudiobook: _groupEntriesByAudiobook,
-                  formatDurationCompact: _formatDurationCompact,
-                  formatDuration: _formatDuration,
-                  deleteAudiobookFromDate: (title, date) async {
-                    await _statsManager.deleteAudiobookFromDate(title, date);
-                    setState(() {});
-                  },
-                  highlightSearchTerm: _highlightSearchTerm,
-                  jumpToStatsResult: (filename, chapterTitle, startTime) {
-                    _jumpToStatsResult(filename, chapterTitle, startTime);
-                  },
                   availableLuts: _availableLuts,
                   getFilteredLuts: _getFilteredLuts,
                   selectedLutIndex: _selectedLutIndex,
@@ -11752,46 +11516,6 @@ class _PlayerScreenState extends State<PlayerScreen>
     }
   }
 
-  Future<void> _jumpToStatsResult(
-      String filename, String chapterTitle, Duration startTime) async {
-    final audiobookPath = _playlist.firstWhere(
-      (p) => path.basenameWithoutExtension(p) == filename,
-      orElse: () => '',
-    );
-
-    if (audiobookPath.isEmpty) return;
-
-    if (chapterTitle.isEmpty) {
-      setState(() {
-        _showPanel = false;
-      });
-      await _openAudiobook(audiobookPath);
-      return;
-    }
-
-    if (_playlistChapterIndex.containsKey(audiobookPath)) {
-      final chapters = _playlistChapterIndex[audiobookPath]!;
-      final chapterIndex =
-          chapters.indexWhere((ch) => ch.title == chapterTitle);
-
-      if (chapterIndex != -1) {
-        if (_currentAudiobook?.path != audiobookPath) {
-          setState(() {
-            _frequencyItems = [];
-            _isAnalyzingFrequencies = false;
-          });
-          await _openAudiobook(audiobookPath);
-          await Future.delayed(const Duration(milliseconds: 500));
-        }
-        await _seekTo(chapters[chapterIndex].startTime +
-            const Duration(milliseconds: 200));
-        setState(() {
-          _showPanel = false;
-        });
-      }
-    }
-  }
-
   Future<void> _downloadYouTubeSubtitles(String url, String title,
       {bool showPicker = false}) async {
     try {
@@ -12205,19 +11929,6 @@ class _PlayerScreenState extends State<PlayerScreen>
           throw Exception('Could not get audio stream URL');
         }
 
-        if (_currentAudiobook != null &&
-            _currentAudiobook!.chapters.isNotEmpty &&
-            _currentChapterIndex < _currentAudiobook!.chapters.length) {
-          final currentChapter =
-              _currentAudiobook!.chapters[_currentChapterIndex];
-          _statsManager.recordChapterEnd(
-            path.basenameWithoutExtension(_currentAudiobook!.path),
-            currentChapter.title,
-            false,
-          );
-          await _statsManager.flushCacheToLog();
-        }
-
         await player.stop();
 
         List<Chapter> youtubeChapters = [];
@@ -12591,109 +12302,6 @@ class _PlayerScreenState extends State<PlayerScreen>
     }
   }
 
-  Widget _buildStatsPanel() {
-    return StatsPanel(
-      statsEntries: _statsManager.statsEntries,
-      statsEnabled: _statsManager.statsEnabled,
-      onStatsEnabledChanged: (value) {
-        _statsManager.saveStatsEnabled(value);
-      },
-      onRefreshStats: () {
-        _statsManager.loadAllStatsEntries();
-      },
-      searchQuery: _statsSearchQuery,
-      excludeTerms: _excludeTerms,
-      filterEntriesByDate: _filterEntriesByDate,
-      filterEntriesByDays: _filterEntriesByDays,
-      getFileListenTimes: _getFileListenTimes,
-      groupEntriesByAudiobook: _groupEntriesByAudiobook,
-      formatDurationCompact: _formatDurationCompact,
-      formatDuration: _formatDuration,
-      deleteAudiobookFromDate: (title, date) async {
-        await _statsManager.deleteAudiobookFromDate(title, date);
-        setState(() {});
-      },
-      highlightSearchTerm: _highlightSearchTerm,
-      jumpToStatsResult: (filename, chapterTitle, startTime) {
-        _jumpToStatsResult(filename, chapterTitle, startTime);
-      },
-    );
-  }
-
-  List<Map<String, dynamic>> _groupEntriesByAudiobook(
-      List<Map<String, dynamic>> entries) {
-    final Map<String, Map<String, int>> grouped = {};
-
-    for (final entry in entries) {
-      final filename = entry['filename'] as String;
-      final chapterName = entry['chapter_name'] as String;
-      final duration = (entry['listened_duration'] as num).toInt();
-
-      if (!grouped.containsKey(filename)) {
-        grouped[filename] = {};
-      }
-
-      if (!grouped[filename]!.containsKey(chapterName)) {
-        grouped[filename]![chapterName] = 0;
-      }
-      grouped[filename]![chapterName] =
-          grouped[filename]![chapterName]! + duration;
-    }
-
-    final result = <Map<String, dynamic>>[];
-
-    grouped.forEach((filename, chapters) {
-      int totalTime = 0;
-      final chaptersList = <Map<String, dynamic>>[];
-
-      chapters.forEach((chapterName, duration) {
-        totalTime += duration;
-
-        final matchingEntry = entries.lastWhere(
-          (e) => e['filename'] == filename && e['chapter_name'] == chapterName,
-        );
-
-        chaptersList.add({
-          'title': chapterName,
-          'time': duration,
-          'timestamp': matchingEntry['datetime'] as String,
-        });
-      });
-
-      chaptersList.sort((a, b) {
-        final titleA = a['title'] as String;
-        final titleB = b['title'] as String;
-
-        final numA = int.tryParse(titleA.split(' ')[0]);
-        final numB = int.tryParse(titleB.split(' ')[0]);
-
-        if (numA != null && numB != null) {
-          return numA.compareTo(numB);
-        }
-
-        return titleA.compareTo(titleB);
-      });
-
-      final totalEntriesTime = entries.fold<int>(
-          0, (sum, e) => sum + (e['listened_duration'] as num).toInt());
-      final percentage = totalEntriesTime > 0
-          ? ((totalTime / totalEntriesTime) * 100).round()
-          : 0;
-
-      result.add({
-        'title': filename,
-        'duration': _formatDurationCompact(Duration(seconds: totalTime)),
-        'percentage': percentage,
-        'chapters': chaptersList,
-      });
-    });
-
-    result.sort(
-        (a, b) => (b['percentage'] as int).compareTo(a['percentage'] as int));
-
-    return result;
-  }
-
   Widget _buildNoAudiobook() {
     return GestureDetector(
       behavior: HitTestBehavior.opaque,
@@ -12807,22 +12415,6 @@ class _PlayerScreenState extends State<PlayerScreen>
                 Row(
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
-                    ElevatedButton.icon(
-                      onPressed: () {
-                        setState(() {
-                          _showPanel = true;
-                          _panelMode = PanelMode.stats;
-                        });
-                      },
-                      icon: const Icon(Icons.bar_chart),
-                      label: const Text('Stats (t)'),
-                      style: ElevatedButton.styleFrom(
-                        padding: const EdgeInsets.symmetric(
-                            horizontal: 32, vertical: 16),
-                        textStyle: const TextStyle(fontSize: 18),
-                      ),
-                    ),
-                    const SizedBox(width: 16),
                     ElevatedButton.icon(
                       onPressed: _setPlaylistDirectory,
                       icon: const Icon(Icons.folder_special),

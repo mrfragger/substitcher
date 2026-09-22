@@ -18,7 +18,6 @@ import '../services/custom_font_metadata.dart';
 import '../services/quran_vocab_loader.dart';
 import '../quran/quran_index.dart';
 import '../quran/quran_verse_search_index.dart';
-import 'stats_panel.dart';
 import 'quran_panel.dart';
 import 'deduction_quiz_panel.dart';
 import 'related_connections_panel.dart';
@@ -35,7 +34,6 @@ enum PanelMode {
   colors,
   words,
   subs,
-  stats,
   quran,
   quranList,
   quiz,
@@ -156,21 +154,6 @@ class SidePanel extends StatelessWidget {
   final TextEditingController chapterExcludeController;
   final FocusNode chapterExcludeFocusNode;
   final Function(String) onChapterExcludeChanged;
-  final List<Map<String, dynamic>> statsEntries;
-  final bool statsEnabled;
-  final Function(bool) onStatsEnabledChanged;
-  final VoidCallback onRefreshStats;
-  final List<Map<String, dynamic>> Function(DateTime) filterEntriesByDate;
-  final List<Map<String, dynamic>> Function(int) filterEntriesByDays;
-  final Map<String, int> Function(List<Map<String, dynamic>>)
-      getFileListenTimes;
-  final List<Map<String, dynamic>> Function(List<Map<String, dynamic>>)
-      groupEntriesByAudiobook;
-  final String Function(Duration) formatDurationCompact;
-  final String Function(Duration) formatDuration;
-  final Function(String, DateTime) deleteAudiobookFromDate;
-  final TextSpan Function(String, String) highlightSearchTerm;
-  final Function(String, String, Duration) jumpToStatsResult;
   final ColoringMode coloringMode;
   final Function(ColoringMode) onColoringModeChanged;
   final int historyCount;
@@ -178,7 +161,6 @@ class SidePanel extends StatelessWidget {
   final int bookmarksCount;
   final int fontsCount;
   final int subsCount;
-  final int statsCount;
   final bool showPlaylistDirectories;
   final Function(bool) onTogglePlaylistDirectories;
   final bool isExportingMarkdown;
@@ -372,25 +354,11 @@ class SidePanel extends StatelessWidget {
     required this.chapterExcludeController,
     required this.chapterExcludeFocusNode,
     required this.onChapterExcludeChanged,
-    required this.statsEntries,
-    required this.statsEnabled,
-    required this.onStatsEnabledChanged,
-    required this.onRefreshStats,
-    required this.filterEntriesByDate,
-    required this.filterEntriesByDays,
-    required this.getFileListenTimes,
-    required this.groupEntriesByAudiobook,
-    required this.formatDurationCompact,
-    required this.formatDuration,
-    required this.deleteAudiobookFromDate,
-    required this.highlightSearchTerm,
-    required this.jumpToStatsResult,
     required this.historyCount,
     required this.playlistCount,
     required this.bookmarksCount,
     required this.fontsCount,
     required this.subsCount,
-    required this.statsCount,
     required this.coloringMode,
     required this.onColoringModeChanged,
     required this.showPlaylistDirectories,
@@ -475,7 +443,6 @@ class SidePanel extends StatelessWidget {
                     panelMode == PanelMode.fonts ||
                     panelMode == PanelMode.colors ||
                     panelMode == PanelMode.subs ||
-                    panelMode == PanelMode.stats ||
                     panelMode == PanelMode.luts) ...[
                   const SizedBox(height: 16),
                   _buildSearchBar(),
@@ -540,13 +507,11 @@ class SidePanel extends StatelessWidget {
                       context, 'Words', PanelMode.words, frequencyItems.length),
                   _buildTabButton(context, 'Subs', PanelMode.subs, subsCount),
                   _buildTabButton(
-                      context, 'Stats', PanelMode.stats, statsCount),
-                  _buildTabButton(
                       context, 'Quran', PanelMode.quran, quranEntries.length),
                   _buildTabButton(
                       context, 'List', PanelMode.quranList, QuranVocabLoader.cachedLemmaCount),
-                  _buildTabButton(context, '⌘Quiz', PanelMode.quiz, 151),
-                  _buildTabButton(context, '⌘Related', PanelMode.related, 151),
+                  _buildTabButton(context, '⌘Quiz', PanelMode.quiz, 152),
+                  _buildTabButton(context, '⌘Related', PanelMode.related, 152),
                   _buildTabButton(context, 'Alif', PanelMode.alif, alifAlphabet.length),
                   _buildTabButton(
                       context, 'LUTs', PanelMode.luts, availableLuts.length),
@@ -694,9 +659,6 @@ class SidePanel extends StatelessWidget {
       case PanelMode.subs:
         underlineIndex = 0;
         break;
-      case PanelMode.stats:
-        underlineIndex = 1;
-        break;
       case PanelMode.luts:
         underlineIndex = 2;
         break;
@@ -789,24 +751,6 @@ class SidePanel extends StatelessWidget {
         return _buildWordsList(context);
       case PanelMode.subs:
         return _buildSubsPanel(context);
-      case PanelMode.stats:
-        return StatsPanel(
-          statsEntries: statsEntries,
-          statsEnabled: statsEnabled,
-          onStatsEnabledChanged: onStatsEnabledChanged,
-          onRefreshStats: onRefreshStats,
-          searchQuery: searchQuery,
-          excludeTerms: excludeTerms,
-          filterEntriesByDate: filterEntriesByDate,
-          filterEntriesByDays: filterEntriesByDays,
-          getFileListenTimes: getFileListenTimes,
-          groupEntriesByAudiobook: groupEntriesByAudiobook,
-          formatDurationCompact: formatDurationCompact,
-          formatDuration: formatDuration,
-          deleteAudiobookFromDate: deleteAudiobookFromDate,
-          highlightSearchTerm: highlightSearchTerm,
-          jumpToStatsResult: jumpToStatsResult,
-        );
       case PanelMode.luts:
         return _buildLutsList(context);
       case PanelMode.quran:
