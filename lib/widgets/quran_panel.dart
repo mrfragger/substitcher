@@ -2839,53 +2839,77 @@ class _QuranPanelState extends State<QuranPanel> {
                                                 widget.activeRef!.surah == hit.surah &&
                                                 widget.activeRef!.fromAyah == hit.ayah;
                                             final isRtl = _isRtlText(hit.text);
-                                            const baseStyle =
-                                                TextStyle(color: Colors.white70, fontSize: 13, height: 1.4);
-                                                final (hlQuery, hlIsPhrase) = _extractHighlightQuery(
-                                                  widget.quranVerseSearchController.text,
-                                                );
-                                                final spans = _highlightQuery(
-                                                  [TextSpan(text: hit.text, style: baseStyle)],
-                                                  hlQuery,
-                                                  isPhrase: hlIsPhrase,
-                                                  wholeWord: hlIsPhrase,
-                                                );
-                                            return InkWell(
-                                              onTap: () => widget.onQuranVerseSearchResultTap(hit),
-                                              child: Directionality(
-                                                textDirection: isRtl ? TextDirection.rtl : TextDirection.ltr,
-                                                child: Container(
-                                                  color: isActive ? Colors.deepPurple.withAlpha(40) : null,
-                                                  padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 10),
-                                                  child: Column(
-                                                    crossAxisAlignment: CrossAxisAlignment.start,
-                                                    children: [
-                                                      Row(
-                                                        children: [
-                                                          const Icon(Icons.play_circle_fill,
-                                                              size: 14, color: Colors.lightBlueAccent),
-                                                          const SizedBox(width: 3),
-                                                          Text('${hit.surah}:${hit.ayah}',
-                                                              style: const TextStyle(
+
+                                            final baseStyle = TextStyle(
+                                              color: Colors.white70,
+                                              fontSize: _tafsirFontSize,
+                                              height: 1.4,
+                                            );
+
+                                            final (hlQuery, hlIsPhrase) = _extractHighlightQuery(
+                                              widget.quranVerseSearchController.text,
+                                            );
+                                            final spans = _highlightQuery(
+                                              [TextSpan(text: hit.text, style: baseStyle)],
+                                              hlQuery,
+                                              isPhrase: hlIsPhrase,
+                                              wholeWord: hlIsPhrase,
+                                            );
+
+                                            return Directionality(
+                                              textDirection: isRtl ? TextDirection.rtl : TextDirection.ltr,
+                                              child: Container(
+                                                color: isActive ? Colors.deepPurple.withAlpha(40) : null,
+                                                padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 10),
+                                                child: Column(
+                                                  crossAxisAlignment: CrossAxisAlignment.start,
+                                                  children: [
+                                                    Row(
+                                                      children: [
+                                                        GestureDetector(
+                                                          onTap: () => widget.onQuranVerseSearchResultTap(hit),
+                                                          behavior: HitTestBehavior.opaque,
+                                                          child: Row(
+                                                            mainAxisSize: MainAxisSize.min,
+                                                            children: [
+                                                              const Icon(Icons.play_circle_fill,
+                                                                  size: 14, color: Colors.lightBlueAccent),
+                                                              const SizedBox(width: 3),
+                                                              Text(
+                                                                '${hit.surah}:${hit.ayah}',
+                                                                style: TextStyle(
                                                                   color: Colors.lightBlueAccent,
-                                                                  fontSize: 14,
-                                                                  fontWeight: FontWeight.w600)),
-                                                          const Spacer(),
-                                                          Icon(
-                                                            isRtl ? Icons.chevron_left : Icons.chevron_right,
-                                                            color: Colors.white24,
+                                                                  fontSize: _tafsirFontSize + 1,
+                                                                  fontWeight: FontWeight.w600,
+                                                                ),
+                                                              ),
+                                                            ],
+                                                          ),
+                                                        ),
+                                                        const Spacer(),
+                                                        GestureDetector(
+                                                          onTap: () {
+                                                            Clipboard.setData(ClipboardData(text: hit.text));
+                                                            ScaffoldMessenger.of(context).showSnackBar(
+                                                              const SnackBar(
+                                                                content: Text('Verse copied'),
+                                                                duration: Duration(seconds: 1),
+                                                              ),
+                                                            );
+                                                          },
+                                                          child: const Icon(
+                                                            Icons.copy,
+                                                            color: Colors.white38,
                                                             size: 16,
                                                           ),
-                                                        ],
-                                                      ),
-                                                      const SizedBox(height: 4),
-                                                      Text.rich(
-                                                        TextSpan(children: spans),
-                                                        maxLines: 3,
-                                                        overflow: TextOverflow.ellipsis,
-                                                      ),
-                                                    ],
-                                                  ),
+                                                        ),
+                                                      ],
+                                                    ),
+                                                    const SizedBox(height: 4),
+                                                    SelectableText.rich(
+                                                      TextSpan(children: spans),
+                                                    ),
+                                                  ],
                                                 ),
                                               ),
                                             );
