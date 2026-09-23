@@ -1014,17 +1014,17 @@ class SidePanel extends StatelessWidget {
                           ],
                           TextSpan(
                             text: ' \u200E${_daysAgoLabel(item.lastPlayed)}',
-                            style: TextStyle(color: Colors.purple),
+                            style: TextStyle(color: Colors.purpleAccent),
                           ),
                         ],
                       ),
                     ),
               subtitle: Text(
                 '$ltr${item.chapterTitle} • ${_formatDuration(item.lastPosition)}',
-                style: const TextStyle(color: Colors.white54, fontSize: 12),
+                style: const TextStyle(color: Colors.lightBlueAccent, fontSize: 12),
               ),
               trailing: IconButton(
-                icon: const Icon(Icons.delete, color: Colors.white54, size: 18),
+                icon: const Icon(Icons.delete, color: Colors.lightBlueAccent, size: 18),
                 onPressed: () => onRemoveFromHistory(item),
               ),
               onTap: () => onOpenAudiobook(item.audiobookPath),
@@ -1345,7 +1345,7 @@ class SidePanel extends StatelessWidget {
               ),
               subtitle: Text(
                 '${bookmark.chapterTitle} • ${_formatDuration(bookmark.position)}',
-                style: const TextStyle(color: Colors.white70, fontSize: 11),
+                style: const TextStyle(color: Colors.lightBlueAccent, fontSize: 11),
                 maxLines: 1,
                 overflow: TextOverflow.ellipsis,
               ),
@@ -1425,14 +1425,14 @@ class SidePanel extends StatelessWidget {
                     dense: true,
                     title: Text(
                       bookmark.chapterTitle,
-                      style: const TextStyle(color: Colors.white, fontSize: 13),
+                      style: const TextStyle(color: Colors.lightBlueAccent, fontSize: 13),
                       maxLines: 1,
                       overflow: TextOverflow.ellipsis,
                     ),
                     subtitle: Text(
                       _formatDuration(bookmark.position),
                       style:
-                          const TextStyle(color: Colors.white70, fontSize: 11),
+                          const TextStyle(color: Colors.lime, fontSize: 11),
                     ),
                     trailing: Row(
                       mainAxisSize: MainAxisSize.min,

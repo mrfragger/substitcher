@@ -67,6 +67,9 @@ class _AlifPanelState extends State<AlifPanel> {
     final initialGlyph = letter?.forms.initial ?? ' ';
     final medialGlyph = letter?.forms.medial ?? ' ';
     final finalGlyph = letter?.forms.finalForm ?? ' ';
+    final exampleGlyph = letter?.exampleWord ?? ' ';
+    final exampleMeaning = letter?.exampleMeaning ?? ' ';
+    final headerColor = alifGroupColorForLetter(letter) ?? Colors.deepPurpleAccent;
 
     return Container(
       width: double.infinity,
@@ -78,27 +81,37 @@ class _AlifPanelState extends State<AlifPanel> {
           children: [
             Text(
               isolatedGlyph,
-              style: const TextStyle(color: Colors.deepPurpleAccent, fontSize: 88),
+              style: TextStyle(color: headerColor, fontSize: 88),
             ),
             const SizedBox(width: 36),
-            const Spacer(),
-            _formChip('Initial', initialGlyph),
-            _formChip('Medial', medialGlyph),
-            _formChip('Final', finalGlyph),
+            Expanded(
+              child: SingleChildScrollView(
+                scrollDirection: Axis.horizontal,
+                reverse: true,
+                child: Row(
+                  children: [
+                    _formChip('Initial', initialGlyph, headerColor),
+                    _formChip('Medial', medialGlyph, headerColor),
+                    _formChip('Final', finalGlyph, headerColor),
+                    _formChip(exampleMeaning, exampleGlyph, headerColor, glyphFontSize: 78),
+                  ],
+                ),
+              ),
+            ),
           ],
         ),
       ),
     );
   }
 
-  Widget _formChip(String label, String glyph) {
+  Widget _formChip(String label, String glyph, Color color, {double glyphFontSize = 111}) {
     return Padding(
       padding: const EdgeInsets.only(left: 36),
       child: Column(
         children: [
           Text(
             glyph,
-            style: const TextStyle(color: Colors.amber, fontSize: 111),
+            style: TextStyle(color: color, fontSize: glyphFontSize),
           ),
           Text(label, style: const TextStyle(color: Colors.white38, fontSize: 10)),
         ],
@@ -352,6 +365,8 @@ class _AlifLetterCardState extends State<_AlifLetterCard> {
   Widget build(BuildContext context) {
     final letter = widget.letter;
     final hasAudio = letter.audioAsset.isNotEmpty;
+    final groupColor = alifGroupColorForLetter(letter) ?? Colors.white;
+
     return MouseRegion(
       onEnter: (_) => setState(() => _hovering = true),
       onExit: (_) => setState(() => _hovering = false),
@@ -366,6 +381,7 @@ class _AlifLetterCardState extends State<_AlifLetterCard> {
             borderRadius: BorderRadius.circular(8),
             border: Border.all(
               color: widget.isSelected ? Colors.deepPurple : Colors.white12,
+              width: widget.isSelected ? 1.5 : 1,
             ),
           ),
           padding: const EdgeInsets.symmetric(vertical: 8, horizontal: 4),
@@ -375,8 +391,9 @@ class _AlifLetterCardState extends State<_AlifLetterCard> {
               Text(
                 letter.forms.isolated,
                 style: TextStyle(
-                  color: widget.isSelected ? Colors.deepPurpleAccent : Colors.white,
+                  color: groupColor,
                   fontSize: 111,
+                  fontWeight: widget.isSelected ? FontWeight.bold : FontWeight.normal,
                 ),
               ),
               const SizedBox(height: 4),
