@@ -7925,14 +7925,20 @@ class _PlayerScreenState extends State<PlayerScreen>
             return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyT &&
               event is KeyDownEvent) {
-            setState(() {
-              _showPanel = true;
-              _panelMode = PanelMode.luts;
-            });
-            if (_availableLuts.isEmpty) {
-              _scanAvailableLuts();
+            if (HardwareKeyboard.instance.isControlPressed) {
+              _setCurrentAsDefault();
+            } else if (HardwareKeyboard.instance.isShiftPressed) {
+              setState(() {
+                _showPanel = true;
+                _panelMode = PanelMode.luts;
+              });
+              if (_availableLuts.isEmpty) {
+                _scanAvailableLuts();
+              }
+              _scrollToSelectedLut();
+            } else {
+              _applyDefaultSettings();
             }
-            _scrollToSelectedLut();
             return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyS &&
               event is KeyDownEvent) {
@@ -8112,9 +8118,7 @@ class _PlayerScreenState extends State<PlayerScreen>
             return KeyEventResult.handled;
           } else if (event.logicalKey == LogicalKeyboardKey.keyQ &&
               event is KeyDownEvent) {
-            if (HardwareKeyboard.instance.isControlPressed) {
-              _setCurrentAsDefault();
-            } else if (HardwareKeyboard.instance.isMetaPressed) {
+            if (HardwareKeyboard.instance.isMetaPressed) {
               setState(() {
                 _showPanel = true;
                 _panelMode = PanelMode.quiz;
