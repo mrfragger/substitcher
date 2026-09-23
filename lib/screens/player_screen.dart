@@ -12577,7 +12577,7 @@ class _PlayerScreenState extends State<PlayerScreen>
                       },
                       icon: const Icon(Icons.build),
                       label: const Text(
-                          'Encode Audiobook | Transcribe/Translate (e)'),
+                          'Encode Audiobook | Transcribe (e)'),
                       style: ElevatedButton.styleFrom(
                         padding: const EdgeInsets.symmetric(
                             horizontal: 32, vertical: 16),
