@@ -246,39 +246,22 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
     ];
 
     final sortedPrayers = List<(String, DateTime)>.from(prayers);
-    sortedPrayers.sort((a, b) {
-      var timeA = a.$2;
-      var timeB = b.$2;
+    final candidates = <(String, DateTime)>[];
+    for (final p in prayers) {
+      candidates.add(p);
+      candidates.add((
+        p.$1,
+        DateTime(p.$2.year, p.$2.month, p.$2.day + 1, p.$2.hour, p.$2.minute),
+      ));
+    }
+    candidates.sort((a, b) => a.$2.compareTo(b.$2));
 
-      if (timeA.isBefore(_prayerTimes!.fajr)) {
-        timeA = timeA.add(const Duration(days: 1));
-      }
-      if (timeB.isBefore(_prayerTimes!.fajr)) {
-        timeB = timeB.add(const Duration(days: 1));
-      }
-
-      return timeA.compareTo(timeB);
-    });
-
-    bool foundNext = false;
-    for (final prayer in sortedPrayers) {
-      var prayerTime = prayer.$2;
-
-      if (prayerTime.isBefore(_prayerTimes!.fajr)) {
-        prayerTime = prayerTime.add(const Duration(days: 1));
-      }
-
-      if (now.isBefore(prayerTime)) {
-        nextPrayer = prayer.$1;
-        nextTime = prayerTime;
-        foundNext = true;
+    for (final c in candidates) {
+      if (now.isBefore(c.$2)) {
+        nextPrayer = c.$1;
+        nextTime = c.$2;
         break;
       }
-    }
-
-    if (!foundNext) {
-      nextPrayer = 'Fajr';
-      nextTime = _prayerTimes!.fajr.add(const Duration(days: 1));
     }
 
     String timeRemaining = '';
@@ -1263,32 +1246,24 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
   String? _getElapsedTime(DateTime now) {
     if (_prayerTimes == null) return null;
 
-    final prayers = [
-      ('Fajr', _prayerTimes!.fajr),
-      ('Sunrise', _prayerTimes!.sunrise),
-      ('Dhuhr', _prayerTimes!.dhuhr),
-      ('Asr', _prayerTimes!.asr),
-      ('Maghrib', _prayerTimes!.maghrib),
-      ('Isha', _prayerTimes!.isha),
-      ('Midnight', _prayerTimes!.midnight),
-      ('Tahajjud', _prayerTimes!.tahajjud),
+    final times = [
+      _prayerTimes!.fajr,
+      _prayerTimes!.sunrise,
+      _prayerTimes!.dhuhr,
+      _prayerTimes!.asr,
+      _prayerTimes!.maghrib,
+      _prayerTimes!.isha,
+      _prayerTimes!.midnight,
+      _prayerTimes!.tahajjud,
     ];
 
     DateTime? lastPrayer;
-    for (final prayer in prayers) {
-      if (now.isAfter(prayer.$2)) {
-        if (lastPrayer == null || prayer.$2.isAfter(lastPrayer)) {
-          lastPrayer = prayer.$2;
-        }
-      }
-    }
-
-    if (lastPrayer == null) {
-      for (final prayer in prayers.reversed) {
-        final yesterdayPrayer = prayer.$2.subtract(const Duration(days: 1));
-        if (now.isAfter(yesterdayPrayer)) {
-          lastPrayer = yesterdayPrayer;
-          break;
+    for (final dayOffset in [-1, 0]) {
+      for (final t in times) {
+        final candidate = DateTime(t.year, t.month, t.day + dayOffset, t.hour, t.minute);
+        if (!candidate.isAfter(now) &&
+            (lastPrayer == null || candidate.isAfter(lastPrayer))) {
+          lastPrayer = candidate;
         }
       }
     }
@@ -1296,12 +1271,10 @@ class _AdhanClockOverlayState extends State<AdhanClockOverlay> {
     if (lastPrayer == null) return null;
 
     final diff = now.difference(lastPrayer);
-
     if (diff.inHours >= 24) return null;
 
     final hours = diff.inHours;
     final minutes = diff.inMinutes.remainder(60);
-
     return '${hours.toString().padLeft(2, '0')}:${minutes.toString().padLeft(2, '0')}';
   }
 
