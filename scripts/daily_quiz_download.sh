@@ -67,11 +67,16 @@ if [[ -n "$NEW_VERSION" ]]; then
             return
         fi
 
-        if grep -qE "$pattern" "$file"; then
-            gsed -i -E "s/$pattern/$replacement/" "$file"
-            echo "Updated $label -> $NEW_VERSION"
-        else
+        local current
+        current=$(grep -m1 -oE "$pattern" "$file" || true)
+
+        if [[ -z "$current" ]]; then
             echo "Warning: version pattern not found in $file, skipping."
+        elif [[ "$current" == "$replacement" ]]; then
+            echo "$label already at $NEW_VERSION, unchanged."
+        else
+            gsed -i -E "s/$pattern/$replacement/" "$file"
+            echo "Updated $label: $current -> $replacement"
         fi
     }
 

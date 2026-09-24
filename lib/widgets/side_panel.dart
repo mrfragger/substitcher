@@ -75,6 +75,7 @@ class SidePanel extends StatelessWidget {
   final bool Function(String) shouldSkipChapter;
   final List<HistoryItem> Function() getFilteredHistory;
   final Function(HistoryItem) onRemoveFromHistory;
+  final HistoryItem? Function()? getLastQuranVerseByVerse;
   final Function(String) onOpenAudiobook;
   final ScrollController historyScrollController;
   final Future<Map<String, dynamic>> Function(String, Duration)
@@ -234,6 +235,7 @@ class SidePanel extends StatelessWidget {
   final Function(String) onQuranLanguageChanged;
   final List<int>? quranJuzDurations;
   final Function(QuranVerseRef range, int repeatCount)? onRepeatRangeRequested;
+  final Function(String)? onLoadQuranAudiobook;
 
   const SidePanel({
     super.key,
@@ -422,6 +424,8 @@ class SidePanel extends StatelessWidget {
     required this.lutItemScrollController,
     this.onRepeatRangeRequested,
     this.quranJuzDurations,
+    this.getLastQuranVerseByVerse,
+    this.onLoadQuranAudiobook,
   });
 
   @override
@@ -514,8 +518,8 @@ class SidePanel extends StatelessWidget {
                       context, 'Quran', PanelMode.quran, quranEntries.length),
                   _buildTabButton(
                       context, 'List', PanelMode.quranList, 4832),
-                  _buildTabButton(context, '⌘Quiz', PanelMode.quiz, 152),
-                  _buildTabButton(context, '⌘Related', PanelMode.related, 152),
+                  _buildTabButton(context, '⌘Quiz', PanelMode.quiz, 154),
+                  _buildTabButton(context, '⌘Related', PanelMode.related, 154),
                   _buildTabButton(context, 'Alif', PanelMode.alif, alifAlphabet.length),
                   _buildTabButton(
                       context, 'LUTs', PanelMode.luts, 508),
@@ -788,6 +792,8 @@ class SidePanel extends StatelessWidget {
           onLanguageChanged: onQuranLanguageChanged,
           onRepeatRangeRequested: onRepeatRangeRequested,
           juzDurations: quranJuzDurations,
+          lastQuranAudiobook: getLastQuranVerseByVerse?.call(),
+          onOpenAudiobook: onLoadQuranAudiobook ?? onOpenAudiobook,
         );
         case PanelMode.quranList:
           return QuranListPanel(

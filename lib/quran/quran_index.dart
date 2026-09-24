@@ -90,6 +90,7 @@ import 'quran_index_Yao.dart';
 import 'quran_index_Yoruba.dart';
 import 'quran_index_Xhosa.dart';
 import 'quran_index_Zulu.dart';
+import 'package:path/path.dart' as path;
 
 /// Verse counts per surah (1-indexed, index 0 is unused)
 const List<int> quranVerseCounts = [
@@ -220,6 +221,14 @@ String? getRangeKeyForSurah(int surah) {
     if (entry.value.contains(surah)) return entry.key;
   }
   return null;
+}
+
+final RegExp _quranVbvFileName = RegExp(r'^Quran .+ - \d{3}-\d{3} ');
+
+bool isQuranVerseByVersePath(String? p) {
+  if (p == null || p.isEmpty) return false;
+  final base = path.basename(p);
+  return _quranVbvFileName.hasMatch(base) && base.contains('Verse by Verse');
 }
 
 class QuranVerseRef {

@@ -1,4 +1,5 @@
 import 'dart:math' as math;
+import '../models/history_item.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/gestures.dart';
@@ -32,6 +33,7 @@ import '../tafsir/translation_various_languages.dart';
 import '../hadeeth/hadeeth_panel.dart';
 import '../services/allah_highlighter.dart';
 
+
 class QuranPanel extends StatefulWidget {
   final List<QuranIndexEntry> entries;
   final bool isQuranLoaded;
@@ -61,6 +63,8 @@ class QuranPanel extends StatefulWidget {
   final Function(String) onLanguageChanged;
   final Function(List<QuranVerseRef> refs, int filteredIndex)? onPlayAllRequested;
   final Function(QuranVerseRef range, int repeatCount)? onRepeatRangeRequested;
+  final HistoryItem? lastQuranAudiobook;
+  final Function(String)? onOpenAudiobook;
 
   const QuranPanel({
     super.key,
@@ -92,6 +96,8 @@ class QuranPanel extends StatefulWidget {
     this.onPlayAllRequested,
     this.onRepeatRangeRequested,
     this.juzDurations,
+    this.lastQuranAudiobook,
+    this.onOpenAudiobook,
   });
 
   @override
@@ -415,6 +421,13 @@ class _QuranPanelState extends State<QuranPanel> {
         ),
       ],
     );
+  }
+
+  Future<void> _openAllahAudiobooksLink() async {
+    final uri = Uri.parse('https://t.me/AllahAudiobooks');
+    if (await canLaunchUrl(uri)) {
+      await launchUrl(uri, mode: LaunchMode.externalApplication);
+    }
   }
 
   List<InlineSpan> _completionHeaderSpans(String topic) {
@@ -2712,53 +2725,71 @@ class _QuranPanelState extends State<QuranPanel> {
                          ),
                        ),
                      ],
-            if (!widget.isQuranLoaded)
-              Container(
-                margin: const EdgeInsets.symmetric(horizontal: 16, vertical: 4),
-                padding: const EdgeInsets.all(10),
-                decoration: BoxDecoration(
-                  color: Colors.orange.withAlpha(30),
-                  borderRadius: BorderRadius.circular(8),
-                  border: Border.all(color: Colors.orange.withAlpha(80)),
-                ),
-                child: Row(
-                  children: [
-                    const Icon(Icons.info_outline,
-                        color: Colors.orange, size: 16),
-                    const SizedBox(width: 8),
-                    Expanded(
-                      child: RichText(
-                        text: TextSpan(
-                          style: const TextStyle(
-                              color: Colors.orange, fontSize: 12),
-                          children: [
-                            const TextSpan(
-                                text:
-                                    'Load a Quran Verse by Verse audiobook to enable navigation — '),
-                            TextSpan(
-                              text: 'https://t.me/AllahAudiobooks',
-                              style: const TextStyle(
-                                color: Colors.lightBlueAccent,
-                                fontSize: 12,
-                                decoration: TextDecoration.underline,
-                              ),
-                              recognizer: TapGestureRecognizer()
-                                ..onTap = () async {
-                                  final uri =
-                                      Uri.parse('https://t.me/AllahAudiobooks');
-                                  if (await canLaunchUrl(uri)) {
-                                    await launchUrl(uri,
-                                        mode: LaunchMode.externalApplication);
-                                  }
-                                },
-                            ),
-                          ],
-                        ),
-                      ),
-                    ),
-                  ],
-                ),
-              ),
+                     if (!widget.isQuranLoaded)
+                       Container(
+                         margin: const EdgeInsets.symmetric(horizontal: 16, vertical: 4),
+                         padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 6),
+                         decoration: BoxDecoration(
+                           color: Colors.orange.withAlpha(30),
+                           borderRadius: BorderRadius.circular(8),
+                           border: Border.all(color: Colors.orange.withAlpha(80)),
+                         ),
+                         child: Row(
+                           children: [
+                             Tooltip(
+                               message: 'Load a Quran Verse by Verse audiobook to enable navigation —\n'
+                                   'https://t.me/AllahAudiobooks\n'
+                                   '(click icon to open link)',
+                               waitDuration: const Duration(milliseconds: 200),
+                               textStyle: const TextStyle(color: Colors.white, fontSize: 12),
+                               decoration: BoxDecoration(
+                                 color: const Color(0xFF2A2A2A),
+                                 borderRadius: BorderRadius.circular(6),
+                               ),
+                               child: InkWell(
+                                 onTap: _openAllahAudiobooksLink,
+                                 child: const Icon(Icons.info_outline, color: Colors.orange, size: 16),
+                               ),
+                             ),
+                             const SizedBox(width: 8),
+                             Expanded(
+                               child: Align(
+                                 alignment: Alignment.centerLeft,
+                                 child: (widget.lastQuranAudiobook != null &&
+                                         widget.onOpenAudiobook != null)
+                                     ? InkWell(
+                                         onTap: () => widget.onOpenAudiobook!(
+                                             widget.lastQuranAudiobook!.audiobookPath),
+                                         child: Row(
+                                           mainAxisSize: MainAxisSize.min,
+                                           children: [
+                                             const Icon(Icons.play_circle_outline,
+                                                 color: Colors.lightBlueAccent, size: 14),
+                                             const SizedBox(width: 4),
+                                             Flexible(
+                                               child: Text(
+                                                 'Load last ${widget.lastQuranAudiobook!.audiobookTitle}',
+                                                 maxLines: 1,
+                                                 overflow: TextOverflow.ellipsis,
+                                                 style: const TextStyle(
+                                                   color: Colors.lightBlueAccent,
+                                                   fontSize: 12,
+                                                   decoration: TextDecoration.underline,
+                                                 ),
+                                               ),
+                                             ),
+                                           ],
+                                         ),
+                                       )
+                                     : const Text(
+                                         'Load a Quran Verse by Verse audiobook',
+                                         style: TextStyle(color: Colors.orange, fontSize: 12),
+                                       ),
+                               ),
+                             ),
+                           ],
+                         ),
+                       ),
               Padding(
                 padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 4),
                 child: Row(

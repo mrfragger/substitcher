@@ -670,10 +670,13 @@ class _PlayerScreenState extends State<PlayerScreen>
         });
       }
 
-  bool get _isQuranVerseByVerse {
-    final p = _currentAudiobook?.path ?? '';
-    return p.contains('Verse by Verse') && p.contains('Quran');
-  }
+  // bool get _isQuranVerseByVerse {
+  //   final p = _currentAudiobook?.path ?? '';
+  //   return p.contains('Verse by Verse') && p.contains('Quran');
+  // }
+
+  bool get _isQuranVerseByVerse =>
+      isQuranVerseByVersePath(_currentAudiobook?.path);
 
   Future<void> _waitForPlayerReady({Duration timeout = const Duration(seconds: 3)}) async {
     if (!player.state.buffering) return;
@@ -6618,7 +6621,7 @@ class _PlayerScreenState extends State<PlayerScreen>
     });
   }
 
-  Future<void> _openAudiobook([String? filePath]) async {
+  Future<void> _openAudiobook([String? filePath, bool loadOnly = false]) async {
     try {
       String? selectedPath = filePath;
       if (selectedPath == null) {
@@ -6785,13 +6788,7 @@ class _PlayerScreenState extends State<PlayerScreen>
       });
 
 
-      // if (!_isQuranVerseByVerse) {
-      //   setState(() {
-      //     _quranVerseSearchResults = [];
-      //   });
-      //   _quranVerseSearchController.clear();
-      //   _quranVerseSearchIndex.clear();
-      // }
+
       _quranVerseSearchIndex.clear();
       setState(() => _quranVerseSearchResults = []);
       _quranVerseSearchController.clear();
@@ -6802,8 +6799,6 @@ class _PlayerScreenState extends State<PlayerScreen>
       await _loadSubtitles(selectedPath);
       _refreshQuranJuzDurations();
       _precalculateWordPositions();
-      // Rebuild the VTT verse search index now that the audiobook + subtitles
-      // are fully loaded and _isQuranVerseByVerse reflects the new book.
       if (_isQuranVerseByVerse) {
         unawaited(_buildQuranVerseSearchIndexIfNeeded());
       }
@@ -6815,7 +6810,7 @@ class _PlayerScreenState extends State<PlayerScreen>
         await Future.delayed(const Duration(milliseconds: 50));
       }
 
-      await player.play();
+      if (!loadOnly) await player.play();
 
       await _calculateBitrate();
 
@@ -6824,10 +6819,12 @@ class _PlayerScreenState extends State<PlayerScreen>
       if (_showPanel && _panelMode == PanelMode.chapters) {
         _scrollToCurrentChapter();
       }
-      setState(() {
-        _showPanel = false;
-      });
-      _focusNode.requestFocus();
+      if (!loadOnly) {
+        setState(() {
+          _showPanel = false;
+        });
+        _focusNode.requestFocus();
+      }
     } catch (e, stackTrace) {
       print('Error opening audiobook: $e');
       print('Stack trace: $stackTrace');
@@ -8844,6 +8841,9 @@ class _PlayerScreenState extends State<PlayerScreen>
                   onOpenAudiobook: (path) async {
                     await _openAudiobook(path);
                   },
+                  onLoadQuranAudiobook: (path) async {
+                    await _openAudiobook(path, true);
+                  },
                   historyScrollController: _historyScrollController,
                   getHistoryDurationAndProgress: _getHistoryDurationAndProgress,
                   getFilteredPlaylist: _getFilteredPlaylist,
@@ -9077,6 +9077,12 @@ class _PlayerScreenState extends State<PlayerScreen>
                   quranIndexLanguage: _quranIndexLanguage,
                   onQuranLanguageChanged: _onQuranLanguageChanged,
                   quranJuzDurations: _quranJuzDurations,
+                  getLastQuranVerseByVerse: () {
+                    for (final h in _history) {
+                      if (isQuranVerseByVersePath(h.audiobookPath)) return h;
+                    }
+                    return null;
+                  },
                   frequencyItems: _frequencyItems,
                   isAnalyzingFrequencies: _isAnalyzingFrequencies,
                   onAnalyzeFrequencies: _analyzeFrequencies,

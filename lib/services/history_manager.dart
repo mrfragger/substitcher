@@ -6,7 +6,7 @@ import '../models/bookmark.dart';
 class HistoryManager {
   List<HistoryItem> history = [];
   List<Bookmark> bookmarks = [];
-  
+
   Future<void> loadHistory() async {
     final prefs = await SharedPreferences.getInstance();
     final historyJson = prefs.getStringList('history') ?? [];
@@ -48,7 +48,7 @@ class HistoryManager {
       history.map((h) => jsonEncode(h.toJson())).toList(),
     );
   }
-  
+
   Future<void> loadBookmarks() async {
     final prefs = await SharedPreferences.getInstance();
     final bookmarksJson = prefs.getStringList('bookmarks') ?? [];
@@ -83,12 +83,12 @@ class HistoryManager {
     bookmarks.removeAt(index);
     await saveBookmarks();
   }
-  
+
   Future<void> updateBookmark(int index, Bookmark bookmark) async {
     bookmarks[index] = bookmark;
     await saveBookmarks();
   }
-  
+
   Bookmark? findPinnedBookmark(int pinNumber) {
     try {
       return bookmarks.firstWhere((b) => b.pinNumber == pinNumber);
