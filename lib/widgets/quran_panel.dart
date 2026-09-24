@@ -2730,7 +2730,7 @@ class _QuranPanelState extends State<QuranPanel> {
                          margin: const EdgeInsets.symmetric(horizontal: 16, vertical: 4),
                          padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 6),
                          decoration: BoxDecoration(
-                           color: Colors.orange.withAlpha(30),
+                           color: Colors.black26.withAlpha(30),
                            borderRadius: BorderRadius.circular(8),
                            border: Border.all(color: Colors.orange.withAlpha(80)),
                          ),
@@ -2774,7 +2774,6 @@ class _QuranPanelState extends State<QuranPanel> {
                                                  style: const TextStyle(
                                                    color: Colors.lightBlueAccent,
                                                    fontSize: 12,
-                                                   decoration: TextDecoration.underline,
                                                  ),
                                                ),
                                              ),
