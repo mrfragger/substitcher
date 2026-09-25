@@ -518,8 +518,8 @@ class SidePanel extends StatelessWidget {
                       context, 'Quran', PanelMode.quran, quranEntries.length),
                   _buildTabButton(
                       context, 'List', PanelMode.quranList, 4832),
-                  _buildTabButton(context, '⌘Quiz', PanelMode.quiz, 154),
-                  _buildTabButton(context, '⌘Related', PanelMode.related, 154),
+                  _buildTabButton(context, '⌘Quiz', PanelMode.quiz, 155),
+                  _buildTabButton(context, '⌘Related', PanelMode.related, 155),
                   _buildTabButton(context, 'Alif', PanelMode.alif, alifAlphabet.length),
                   _buildTabButton(
                       context, 'LUTs', PanelMode.luts, 508),
@@ -1030,7 +1030,7 @@ class SidePanel extends StatelessWidget {
                 style: const TextStyle(color: Colors.lightBlueAccent, fontSize: 12),
               ),
               trailing: IconButton(
-                icon: const Icon(Icons.delete, color: Colors.lightBlueAccent, size: 18),
+                icon: const Icon(Icons.delete, color: Colors.white54, size: 18),
                 onPressed: () => onRemoveFromHistory(item),
               ),
               onTap: () => onOpenAudiobook(item.audiobookPath),
