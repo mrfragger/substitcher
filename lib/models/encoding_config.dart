@@ -9,7 +9,7 @@ class EncodingConfig {
   final String year;
 
   const EncodingConfig({
-    this.bitrate = 16,
+    this.bitrate = 12,
     this.removeSilence = false,
     this.silenceDb,
     this.removeHiss = false,
@@ -19,7 +19,9 @@ class EncodingConfig {
     required this.year,
   });
 
-  String get opusApplication => bitrate == 16 ? 'voip' : 'audio';
+  bool get _isSpeechTier => bitrate == 12;
+
+  String get opusApplication => _isSpeechTier ? 'voip' : 'audio';
 
   String buildFilterString() {
     final filters = <String>[];
@@ -32,14 +34,12 @@ class EncodingConfig {
     }
 
     if (removeHiss) {
-      filters.addAll([
-        'highpass=200',
-        'lowpass=3000',
-        'afftdn=nf=-25',
-      ]);
+      filters.addAll(['highpass=200', 'lowpass=3000', 'afftdn=nf=-25']);
     }
 
-    filters.add('dynaudnorm=f=250:g=31:p=0.5:m=5:r=0.9:b=1');
+    if (_isSpeechTier) {
+      filters.add('dynaudnorm=f=250:g=31:p=0.5:m=5:r=0.9:b=1');
+    }
 
     return filters.join(',');
   }

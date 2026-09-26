@@ -1,0 +1,246 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَسْمَاءُ الأَنْبِيَاءِ فِي القُرْآنِ",
+        "nameEn": "Names of Prophets in the Quran",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "إِبْرَاهِيمُ",
+            "en": "Ibrahim",
+            "ref": "3:67",
+            "verse": "مَا كَانَ إِبْرَٰهِيمُ يَهُودِيًّۭا وَلَا نَصْرَانِيًّۭا وَلَـٰكِن كَانَ حَنِيفًۭا مُّسْلِمًۭا وَمَا كَانَ مِنَ ٱلْمُشْرِكِينَ",
+            "verseEn": "Abraham was neither a Jew nor a Christian, but he was one inclining toward truth, a Muslim [submitting to Allāh]. And he was not of the polytheists."
+          },
+          {
+            "ar": "مُوسَىٰ",
+            "en": "Musa",
+            "ref": "7:103",
+            "verse": "ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ بِـَٔايَـٰتِنَآ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ فَظَلَمُوا۟ بِهَا ۖ فَٱنظُرْ كَيْفَ كَانَ عَـٰقِبَةُ ٱلْمُفْسِدِينَ",
+            "verseEn": "Then We sent after them Moses with Our signs to Pharaoh and his establishment, but they were unjust toward them. So see how was the end of the corrupters."
+          },
+          {
+            "ar": "عِيسَى",
+            "en": "O Isa",
+            "ref": "5:112",
+            "verse": "إِذْ قَالَ ٱلْحَوَارِيُّونَ يَـٰعِيسَى ٱبْنَ مَرْيَمَ هَلْ يَسْتَطِيعُ رَبُّكَ أَن يُنَزِّلَ عَلَيْنَا مَآئِدَةًۭ مِّنَ ٱلسَّمَآءِ ۖ قَالَ ٱتَّقُوا۟ ٱللَّهَ إِن كُنتُم مُّؤْمِنِينَ",
+            "verseEn": "[And remember] when the disciples said, \"O Jesus, Son of Mary, can your Lord send down to us a table [spread with food] from the heaven?\" [Jesus] said, \"Fear Allāh, if you should be believers.\""
+          },
+          {
+            "ar": "نُوحًا",
+            "en": "Nuh",
+            "ref": "11:25",
+            "verse": "وَلَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦٓ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+            "verseEn": "And We had certainly sent Noah to his people, [saying], \"Indeed, I am to you a clear warner"
+          }
+        ]
+      },
+      {
+        "name": "أَحْدَاثُ يَوْمِ الْقِيَامَةِ فِي سُورَةِ الْفَجْرِ",
+        "nameEn": "Events of the Day of Judgment in Surah Al-Fajr",
+        "color": "green",
+        "items": [
+          {
+            "ar": "الْمَلَكُ",
+            "en": "and the Angels",
+            "ref": "89:22",
+            "verse": "وَجَآءَ رَبُّكَ وَٱلْمَلَكُ صَفًّۭا صَفًّۭا",
+            "verseEn": "And your Lord has come and the angels, rank upon rank,"
+          },
+          {
+            "ar": "جَهَنَّمَ",
+            "en": "Hell",
+            "ref": "89:23",
+            "verse": "وَجِا۟ىٓءَ يَوْمَئِذٍۭ بِجَهَنَّمَ ۚ يَوْمَئِذٍۢ يَتَذَكَّرُ ٱلْإِنسَـٰنُ وَأَنَّىٰ لَهُ ٱلذِّكْرَىٰ",
+            "verseEn": "And brought [within view], that Day, is Hell - that Day, man will remember, but how [i.e., what good] to him will be the remembrance?"
+          },
+          {
+            "ar": "حَيَاتِي",
+            "en": "my life",
+            "ref": "89:24",
+            "verse": "يَقُولُ يَـٰلَيْتَنِى قَدَّمْتُ لِحَيَاتِى",
+            "verseEn": "He will say, \"Oh, I wish I had sent ahead [some good] for my life.\""
+          },
+          {
+            "ar": "عَذَابَهُ",
+            "en": "(as) His punishment",
+            "ref": "89:25",
+            "verse": "فَيَوْمَئِذٍۢ لَّا يُعَذِّبُ عَذَابَهُۥٓ أَحَدٌۭ",
+            "verseEn": "So on that Day, none will punish [as severely] as His punishment,"
+          }
+        ]
+      },
+      {
+        "name": "أَلْفَاظُ الْقُدْرَةِ وَالْقَدَرِ فِي خَلْقِ الْإِنْسَانِ",
+        "nameEn": "Terms of Divine Power and Decree in Human Creation",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "مَهِينٍ",
+            "en": "despicable",
+            "ref": "77:20",
+            "verse": "أَلَمْ نَخْلُقكُّم مِّن مَّآءٍۢ مَّهِينٍۢ",
+            "verseEn": "Did We not create you from a liquid disdained?"
+          },
+          {
+            "ar": "قَرَارٍ",
+            "en": "an abode",
+            "ref": "77:21",
+            "verse": "فَجَعَلْنَـٰهُ فِى قَرَارٍۢ مَّكِينٍ",
+            "verseEn": "And We placed it in a firm lodging [i.e., the womb]"
+          },
+          {
+            "ar": "مَعْلُومٍ",
+            "en": "known",
+            "ref": "77:22",
+            "verse": "إِلَىٰ قَدَرٍۢ مَّعْلُومٍۢ",
+            "verseEn": "For a known extent."
+          },
+          {
+            "ar": "الْقَادِرُونَ",
+            "en": "(are We to) measure",
+            "ref": "77:23",
+            "verse": "فَقَدَرْنَا فَنِعْمَ ٱلْقَـٰدِرُونَ",
+            "verseEn": "And We determined [it], and excellent [are We] to determine."
+          }
+        ]
+      },
+      {
+        "name": "أَلْفَاظُ الدَّوَامِ فِي الْقُرْآنِ",
+        "nameEn": "Terms for Eternity in the Quran",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "الْخُلْدِ",
+            "en": "the everlasting",
+            "ref": "10:52",
+            "verse": "ثُمَّ قِيلَ لِلَّذِينَ ظَلَمُوا۟ ذُوقُوا۟ عَذَابَ ٱلْخُلْدِ هَلْ تُجْزَوْنَ إِلَّا بِمَا كُنتُمْ تَكْسِبُونَ",
+            "verseEn": "Then it will be said to those who had wronged, \"Taste the punishment of eternity; are you being recompensed except for what you used to earn?\""
+          },
+          {
+            "ar": "أَبَدًا",
+            "en": "forever",
+            "ref": "72:23",
+            "verse": "إِلَّا بَلَـٰغًۭا مِّنَ ٱللَّهِ وَرِسَـٰلَـٰتِهِۦ ۚ وَمَن يَعْصِ ٱللَّهَ وَرَسُولَهُۥ فَإِنَّ لَهُۥ نَارَ جَهَنَّمَ خَـٰلِدِينَ فِيهَآ أَبَدًا",
+            "verseEn": "But [I have for you] only notification from Allāh, and His messages.\" And whoever disobeys Allāh and His Messenger - then indeed, for him is the fire of Hell; they will abide therein forever."
+          },
+          {
+            "ar": "سَرْمَدًا",
+            "en": "continuous",
+            "ref": "28:72",
+            "verse": "قُلْ أَرَءَيْتُمْ إِن جَعَلَ ٱللَّهُ عَلَيْكُمُ ٱلنَّهَارَ سَرْمَدًا إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ مَنْ إِلَـٰهٌ غَيْرُ ٱللَّهِ يَأْتِيكُم بِلَيْلٍۢ تَسْكُنُونَ فِيهِ ۖ أَفَلَا تُبْصِرُونَ",
+            "verseEn": "Say, \"Have you considered: if Allāh should make for you the day continuous until the Day of Resurrection, what deity other than Allāh could bring you a night in which you may rest? Then will you not see?\""
+          },
+          {
+            "ar": "بَاقٍ",
+            "en": "(will) be remaining",
+            "ref": "16:96",
+            "verse": "مَا عِندَكُمْ يَنفَدُ ۖ وَمَا عِندَ ٱللَّهِ بَاقٍۢ ۗ وَلَنَجْزِيَنَّ ٱلَّذِينَ صَبَرُوٓا۟ أَجْرَهُم بِأَحْسَنِ مَا كَانُوا۟ يَعْمَلُونَ",
+            "verseEn": "Whatever you have will end, but what Allāh has is lasting. And We will surely give those who were patient their reward according to the best of what they used to do."
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "بينة",
+    "display": "بَيِّنَةٌ",
+    "hint": "A clear proof or evidence that leaves no doubt.",
+    "verseRef": "98:4",
+    "arabicVerse": "وَمَا تَفَرَّقَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ إِلَّا مِنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَةُ",
+    "verse": "98:4 - Nor did those who were given the Scripture become divided until after there had come to them clear evidence."
+  },
+  "deduction": {
+    "title": "The Denial Amidst Abundance",
+    "intro": "You find yourself among a people whose marketplaces buzz with trade, yet their scales tip dishonestly. A messenger has come to them with clear warnings, but they laugh and turn away, confident in their prosperity. The sky begins to darken, but they see it as a blessing of rain. Who are these people?",
+    "clues": [
+      "We thrived in lands of commerce and plenty, yet our hearts grew callous.",
+      "A messenger came to us with signs from our Lord, but we mocked his warnings.",
+      "We were known for our trade, but we gave short measure and cheated the people.",
+      "We lived among dense trees and lush vegetation, but we took our blessings for granted.",
+      "When a dark cloud approached, we rejoiced, thinking it would bring rain to our parched lands.",
+      "Instead, that cloud unleashed a scorching punishment, and we were seized by the torment of the day of shadow."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Are We?",
+        "options": [
+          "Ashab al-Aykah (The Companions of the Wood)",
+          "People of Thamud",
+          "People of 'Ad",
+          "People of Lut",
+          "People of Nuh"
+        ],
+        "answer": "Ashab al-Aykah (The Companions of the Wood)"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "They rejected their messenger and defrauded in trade",
+          "They worshiped a golden calf and were led astray",
+          "They practiced sodomy and attacked travelers",
+          "They built tall towers and challenged God",
+          "They refused to share water and harmed a she-camel"
+        ],
+        "answer": "They rejected their messenger and defrauded in trade"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "A dense forest or thicket",
+          "A mountain carved into dwellings",
+          "A city by the sea",
+          "A desert valley with wells",
+          "A fertile garden with many fruits"
+        ],
+        "answer": "A dense forest or thicket"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "Destroyed by a shadow cloud of fire",
+          "Drowned by a great flood",
+          "Swallowed by an earthquake",
+          "Struck by a violent wind",
+          "Turned into stone"
+        ],
+        "answer": "Destroyed by a shadow cloud of fire"
+      }
+    },
+    "verseRef": "15:79",
+    "arabic": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍۢ مُّبِينٍۢ",
+    "verse": "So We took retribution from them, and indeed, both [cities] are on a clear highway. (15:79)"
+  },
+  "scramble": {
+    "verseRef": "22:54",
+    "reference": "Surah Al-Hajj (22:54)",
+    "segments": [
+      "وَالَّذِينَ",
+      "جَاهَدُوا فِينَا",
+      "لَنَهْدِيَنَّهُمْ",
+      "سُبُلَنَا",
+      "وَإِنَّ اللَّهَ",
+      "لَمَعَ الْمُحْسِنِينَ"
+    ],
+    "translations": [
+      "And that may know those who have been given the knowledge",
+      "that it (is) the truth from your Lord",
+      "and they believe in it and may humbly submit to it",
+      "their hearts And indeed Allah",
+      "(is) surely (the) Guide (of) those who believe",
+      "to a Path Straight"
+    ],
+    "hint": "This verse delivers one of the most uplifting promises in the Quran: those who exert effort for Allah's sake will be guided by Him — and Allah stands with the doers of good.",
+    "arabic": "وَلِيَعْلَمَ ٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ أَنَّهُ ٱلْحَقُّ مِن رَّبِّكَ فَيُؤْمِنُوا۟ بِهِۦ فَتُخْبِتَ لَهُۥ قُلُوبُهُمْ ۗ وَإِنَّ ٱللَّهَ لَهَادِ ٱلَّذِينَ ءَامَنُوٓا۟ إِلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ",
+    "words": [
+      "وَلِيَعْلَمَ ٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ",
+      "أَنَّهُ ٱلْحَقُّ مِن رَّبِّكَ",
+      "فَيُؤْمِنُوا۟ بِهِۦ فَتُخْبِتَ لَهُۥ",
+      "قُلُوبُهُمْ ۗ وَإِنَّ ٱللَّهَ",
+      "لَهَادِ ٱلَّذِينَ ءَامَنُوٓا۟",
+      "إِلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ"
+    ],
+    "verseEn": "And so those who were given knowledge may know that it is the truth from your Lord and [therefore] believe in it, and their hearts humbly submit to it. And indeed is Allāh the Guide of those who have believed to a straight path."
+  }
+}

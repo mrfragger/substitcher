@@ -5,6 +5,7 @@ import 'package:flutter/material.dart';
 import 'package:file_picker/file_picker.dart';
 import 'package:path/path.dart' as path;
 import 'package:media_kit/media_kit.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 import 'transcribe_screen.dart';
 import 'translate_screen.dart';
 import 'repeats_screen.dart';
@@ -41,6 +42,7 @@ class _EncoderScreenState extends State<EncoderScreen> {
   int _completedFiles = 0;
   bool _useFilenames = true;
   List<AudioFile>? _titleCaseHistory;
+  String? _lastOpenedDirectory;
   String? _lastEncodedPath;
   String? _lastEncodingTime;
   bool _extracting = false;
@@ -354,6 +356,7 @@ class _EncoderScreenState extends State<EncoderScreen> {
     };
     _checkFFmpeg();
     _whisperService.initialize();
+    _loadLastDirectory();
   }
 
   @override
@@ -415,6 +418,22 @@ class _EncoderScreenState extends State<EncoderScreen> {
         ),
       );
     }
+  }
+
+  Future<void> _loadLastDirectory() async {
+    final prefs = await SharedPreferences.getInstance();
+    final saved = prefs.getString('last_opened_directory');
+    if (saved != null && await Directory(saved).exists()) {
+      setState(() {
+        _lastOpenedDirectory = saved;
+      });
+    }
+  }
+
+  Future<void> _saveLastDirectory(String dirPath) async {
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setString('last_opened_directory', dirPath);
+    _lastOpenedDirectory = dirPath;
   }
 
   String _getFilenameWithoutExt(String filepath) {
@@ -901,6 +920,7 @@ class _EncoderScreenState extends State<EncoderScreen> {
         allowMultiple: true,
         type: FileType.custom,
         allowedExtensions: ['mp3', 'm4a', 'aac', 'opus', 'ogg', 'flac', 'wav', 'wma', 'webm', 'mkv', 'mp4'],
+        initialDirectory: _lastOpenedDirectory,
       );
 
       if (result == null) return;
@@ -929,6 +949,10 @@ class _EncoderScreenState extends State<EncoderScreen> {
 
       audioFiles.sort((a, b) => a.path.compareTo(b.path));
 
+      if (audioFiles.isNotEmpty) {
+        await _saveLastDirectory(path.dirname(audioFiles.first.path));
+      }
+
       setState(() {
         _files = audioFiles;
         _loading = false;
@@ -941,11 +965,15 @@ class _EncoderScreenState extends State<EncoderScreen> {
 
   Future<void> _pickFolder() async {
     try {
-      final result = await FilePicker.platform.getDirectoryPath();
+      final result = await FilePicker.platform.getDirectoryPath(
+        initialDirectory: _lastOpenedDirectory,
+      );
 
       if (result == null) return;
 
       setState(() => _loading = true);
+
+      await _saveLastDirectory(path.dirname(result));
 
       final audioFiles = await _ffmpeg.listAudioFilesInDirectory(result);
       final processedFiles = audioFiles.map((file) => AudioFile(
@@ -1550,6 +1578,8 @@ class _EncoderScreenState extends State<EncoderScreen> {
         await Directory(encodedChaptersDir).delete();
       }
 
+      final finalPaths = <String>[];
+
       for (int splitIndex = 0; splitIndex < splits.length; splitIndex++) {
         final split = splits[splitIndex];
         final splitTitle = splits.length > 1
@@ -1573,6 +1603,7 @@ class _EncoderScreenState extends State<EncoderScreen> {
             setState(() => _statusMessage = message);
           },
         );
+        finalPaths.add(finalPath);
       }
 
       final originalDuration = _totalDuration;
@@ -1590,7 +1621,7 @@ class _EncoderScreenState extends State<EncoderScreen> {
 
       if (mounted) {
         setState(() {
-          _lastEncodedPath = path.join(outputDir, '${config.author} - ${config.title}${splits.length > 1 ? '_1' : ''}.opus');
+          _lastEncodedPath = finalPaths.isNotEmpty ? finalPaths.first : null;
           _lastEncodingTime = '${minutes}m ${seconds}s';
           _lastOriginalDuration = originalDuration;
           _lastFinalDuration = finalDuration;
@@ -1608,6 +1639,22 @@ class _EncoderScreenState extends State<EncoderScreen> {
       });
       _showError('Encoding failed: $e');
     }
+  }
+
+  Future<String> _moveFileTo(String sourcePath, String destPath) async {
+    final destDir = Directory(path.dirname(destPath));
+    if (!await destDir.exists()) {
+      await destDir.create(recursive: true);
+    }
+
+    try {
+      await File(sourcePath).rename(destPath);
+    } on FileSystemException {
+      await File(sourcePath).copy(destPath);
+      await File(sourcePath).delete();
+    }
+
+    return destPath;
   }
 
   Map<String, dynamic> _calculateSplitPlan() {
@@ -2618,7 +2665,7 @@ class _EncoderScreenState extends State<EncoderScreen> {
         crossAxisAlignment: CrossAxisAlignment.start,
         mainAxisSize: MainAxisSize.min,
         children: [
-          Text('Audiobook Metadata', style: Theme.of(context).textTheme.titleMedium),
+                    Text('Audiobook Metadata', style: Theme.of(context).textTheme.titleMedium),
           const SizedBox(height: 12),
           Row(
             children: [
@@ -2661,22 +2708,28 @@ class _EncoderScreenState extends State<EncoderScreen> {
           const SizedBox(height: 12),
           Row(
             children: [
-              const Text('Bitrate:'),
+              const Text('Bitrate kbps:'),
               const SizedBox(width: 16),
-              ChoiceChip(
-                label: const Text('12 kbps'),
-                selected: _bitrate == 12,
-                onSelected: (selected) {
-                  if (selected) setState(() => _bitrate = 12);
-                },
+              Tooltip(
+                message: 'Speech',
+                child: ChoiceChip(
+                  label: const Text('12'),
+                  selected: _bitrate == 12,
+                  onSelected: (selected) {
+                    if (selected) setState(() => _bitrate = 12);
+                  },
+                ),
               ),
               const SizedBox(width: 8),
-              ChoiceChip(
-                label: const Text('32 kbps'),
-                selected: _bitrate == 32,
-                onSelected: (selected) {
-                  if (selected) setState(() => _bitrate = 32);
-                },
+              Tooltip(
+                message: 'Quran Recitations',
+                child: ChoiceChip(
+                  label: const Text('32'),
+                  selected: _bitrate == 32,
+                  onSelected: (selected) {
+                    if (selected) setState(() => _bitrate = 32);
+                  },
+                ),
               ),
               const SizedBox(width: 24),
               Checkbox(
@@ -2768,7 +2821,7 @@ class _EncoderScreenState extends State<EncoderScreen> {
               ElevatedButton.icon(
                 onPressed: _testFfmpeg,
                 icon: const Icon(Icons.bug_report, size: 16),
-                label: const Text('Test FFmpeg'),
+                label: const Text('Test ffmpeg'),
                 style: ElevatedButton.styleFrom(
                   backgroundColor: Colors.deepOrange,
                   foregroundColor: Colors.white,
@@ -3057,7 +3110,7 @@ class _EncoderScreenState extends State<EncoderScreen> {
                   );
                 },
                 icon: const Icon(Icons.school),
-                label: const Text('Anki Convert to Audiobook csv'),
+                label: const Text('Anki/Quran csv to Audiobook'),
                 style: ElevatedButton.styleFrom(
                   padding: const EdgeInsets.all(16),
                 ),
@@ -3139,25 +3192,25 @@ class _EncoderScreenState extends State<EncoderScreen> {
   );
 }
 
-  Widget _buildEncodingSummary() {
-    final parts = <String>['Encoding took $_lastEncodingTime'];
+Widget _buildEncodingSummary() {
+  final parts = <String>['Encoding took $_lastEncodingTime'];
 
-    if (_lastOriginalDuration != null && _lastFinalDuration != null) {
-      final difference = _lastOriginalDuration! - _lastFinalDuration!;
+  if (_lastOriginalDuration != null && _lastFinalDuration != null) {
+    final difference = _lastOriginalDuration! - _lastFinalDuration!;
 
-      if (difference.inSeconds > 0) {
-        parts.add('Duration ${_formatDuration(_lastFinalDuration!)}');
-        parts.add('Reduced by ${_formatDuration(difference)} (silence removed or badly encoded originals)');
-      } else {
-        parts.add('Duration ${_formatDuration(_lastFinalDuration!)}');
-      }
+    if (difference.inSeconds > 0) {
+      parts.add('Duration ${_formatDuration(_lastFinalDuration!)}');
+      parts.add('Reduced by ${_formatDuration(difference)} (silence removed or badly encoded originals)');
+    } else {
+      parts.add('Duration ${_formatDuration(_lastFinalDuration!)}');
     }
-
-    return Text(
-      'Audiobook: ${parts.join(', ')}',
-      style: const TextStyle(fontWeight: FontWeight.bold),
-    );
   }
+
+  return Text(
+    'Audiobook: ${parts.join(', ')}',
+    style: const TextStyle(fontWeight: FontWeight.bold),
+  );
+}
 
   Widget _buildPasteListPanel() {
     final canPreview = _parsedNames.length == _files.length;

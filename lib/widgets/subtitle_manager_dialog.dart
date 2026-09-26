@@ -1,10 +1,11 @@
 import 'dart:io';
+import '../quran/quran_index.dart';
 import 'package:flutter/material.dart';
 import 'package:file_picker/file_picker.dart';
 import 'package:path/path.dart' as path;
 import 'package:flutter/services.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-
+import 'package:scrollable_positioned_list/scrollable_positioned_list.dart';
 
 class SubtitleManagerDialog extends StatefulWidget {
   final List<String> availableSubtitles;
@@ -43,6 +44,7 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
   final TextEditingController _searchController = TextEditingController();
   final FocusNode _searchFocusNode = FocusNode();
   String _searchQuery = '';
+  final ItemScrollController _subtitleScrollController = ItemScrollController();
 
   @override
   void initState() {
@@ -50,6 +52,10 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
     _primarySubtitle = widget.primarySubtitle;
     _secondarySubtitle = widget.secondarySubtitle;
     _loadLastVttShow();
+
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      if (_primarySubtitle != null) _scrollToSubtitle(_primarySubtitle!);
+    });
   }
 
   @override
@@ -64,6 +70,36 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
     setState(() {
       _lastVttShowPath = prefs.getString('lastVttShowPath');
     });
+  }
+
+  bool get _isQuranVerseByVerse =>
+      isQuranVerseByVersePath(widget.currentAudiobookPath);
+
+  List<String> _filteredSubtitles() {
+    if (_searchQuery.isEmpty) return widget.availableSubtitles;
+
+    return widget.availableSubtitles.where((sub) {
+      final segments = sub.split(RegExp(r'[/\\]'));
+
+      final searchSegments = _isQuranVerseByVerse
+          ? segments.sublist(0, segments.length - 1)
+          : segments;
+
+      return searchSegments.any((segment) => segment.toLowerCase().contains(_searchQuery));
+    }).toList();
+  }
+
+  void _scrollToSubtitle(String subtitlePath) {
+    final filtered = _filteredSubtitles();
+    final index = filtered.indexOf(subtitlePath);
+    if (index == -1 || !_subtitleScrollController.isAttached) return;
+
+    _subtitleScrollController.scrollTo(
+      index: index,
+      duration: const Duration(milliseconds: 300),
+      curve: Curves.easeOut,
+      alignment: 0.3,
+    );
   }
 
   Future<void> _browseForSubtitle(BuildContext context, bool isPrimary) async {
@@ -121,6 +157,7 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
       if (isPrimary) {
         setState(() => _primarySubtitle = subtitlePath);
         widget.onPrimarySelected(subtitlePath);
+        WidgetsBinding.instance.addPostFrameCallback((_) => _scrollToSubtitle(subtitlePath));
       } else {
         setState(() => _secondarySubtitle = subtitlePath);
         widget.onSecondarySelected(subtitlePath);
@@ -146,6 +183,7 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
     if (widget.onVttShowCreated != null) {
       widget.onVttShowCreated!(filePath);
     }
+    WidgetsBinding.instance.addPostFrameCallback((_) => _scrollToSubtitle(filePath));
   }
 
   String _convertSrtToVtt(String srtContent) {
@@ -366,6 +404,7 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
 
       setState(() => _primarySubtitle = outputPath);
       widget.onPrimarySelected(outputPath);
+      WidgetsBinding.instance.addPostFrameCallback((_) => _scrollToSubtitle(outputPath));
 
       if (context.mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
@@ -456,22 +495,28 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
                     'Subtitle Manager',
                     style: TextStyle(
                       color: Colors.white,
-                      fontSize: 24,
-                      fontWeight: FontWeight.bold,
+                      fontSize: 19,
+                      fontWeight: FontWeight.w600,
+                      letterSpacing: -0.2,
                     ),
                   ),
-                  const SizedBox(width: 16),
+                  const SizedBox(width: 14),
                   ElevatedButton.icon(
                     onPressed: () => _createNewVttShow(context),
-                    icon: const Icon(Icons.add, size: 16),
+                    icon: const Icon(Icons.add, size: 13),
                     label: const Text('New vttShow'),
                     style: ElevatedButton.styleFrom(
-                      backgroundColor: Colors.deepPurple,
+                      backgroundColor: Colors.deepPurple.withValues(alpha: 0.85),
                       foregroundColor: Colors.white,
-                      padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                      elevation: 0,
+                      visualDensity: VisualDensity.compact,
+                      tapTargetSize: MaterialTapTargetSize.shrinkWrap,
+                      padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 6),
+                      textStyle: const TextStyle(fontSize: 12, fontWeight: FontWeight.w500),
+                      shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(6)),
                     ),
                   ),
-                  const SizedBox(width: 8),
+                  const SizedBox(width: 6),
                   if (_lastVttShowPath != null)
                     ElevatedButton.icon(
                       onPressed: () async {
@@ -488,61 +533,140 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
                         }
                         _loadVttShow(_lastVttShowPath!);
                       },
-                      icon: const Icon(Icons.history, size: 16),
+                      icon: const Icon(Icons.history, size: 13),
                       label: Text(
                         'Last: ${path.basename(_lastVttShowPath!)}',
                         overflow: TextOverflow.ellipsis,
                       ),
                       style: ElevatedButton.styleFrom(
-                        backgroundColor: Colors.deepPurple.withValues(alpha: 0.5),
-                        foregroundColor: Colors.white,
-                        padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                        backgroundColor: Colors.white.withValues(alpha: 0.06),
+                        foregroundColor: Colors.white70,
+                        elevation: 0,
+                        visualDensity: VisualDensity.compact,
+                        tapTargetSize: MaterialTapTargetSize.shrinkWrap,
+                        padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 6),
+                        textStyle: const TextStyle(fontSize: 12, fontWeight: FontWeight.w500),
+                        shape: RoundedRectangleBorder(
+                          borderRadius: BorderRadius.circular(6),
+                          side: BorderSide(color: Colors.white.withValues(alpha: 0.1)),
+                        ),
                       ),
                     ),
                   const Spacer(),
                   IconButton(
-                    icon: const Icon(Icons.close, color: Colors.white),
+                    icon: const Icon(Icons.close, color: Colors.white70, size: 20),
+                    visualDensity: VisualDensity.compact,
                     onPressed: () => Navigator.pop(context),
                   ),
                 ],
               ),
-              const SizedBox(height: 8),
+              const SizedBox(height: 6),
               Row(
                 children: [
                   Text(
                     'Found ${widget.availableSubtitles.length} subtitle files',
-                    style: const TextStyle(color: Colors.white70, fontSize: 14),
+                    style: const TextStyle(color: Colors.white38, fontSize: 12),
                   ),
-                  const SizedBox(width: 16),
-                  const Text(
+                  const SizedBox(width: 10),
+                  Text(
                     'vttshow mode — press TAB to edit text',
-                    style: TextStyle(color: Colors.orange, fontSize: 14),
+                    style: TextStyle(color: Colors.orange.withValues(alpha: 0.8), fontSize: 12),
                   ),
                 ],
               ),
-              const SizedBox(height: 24),
+              const SizedBox(height: 20),
+              // Header row: labels, browse buttons, clear-both
               Row(
-                crossAxisAlignment: CrossAxisAlignment.start,
+                crossAxisAlignment: CrossAxisAlignment.center,
                 children: [
-                  // PRIMARY
+                  Container(
+                    padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+                    decoration: BoxDecoration(
+                      color: Colors.blue.withValues(alpha: 0.2),
+                      borderRadius: BorderRadius.circular(8),
+                    ),
+                    child: const Text(
+                      'Primary (Bottom)',
+                      style: TextStyle(color: Colors.blue, fontSize: 12, fontWeight: FontWeight.bold),
+                    ),
+                  ),
+                  const SizedBox(width: 8),
+                  ElevatedButton.icon(
+                    onPressed: () => _browseForSubtitle(context, true),
+                    icon: const Icon(Icons.folder_open, size: 14),
+                    label: const Text('Browse vtt'),
+                    style: ElevatedButton.styleFrom(
+                      backgroundColor: Colors.blue,
+                      foregroundColor: Colors.white,
+                      elevation: 0,
+                      visualDensity: VisualDensity.compact,
+                      tapTargetSize: MaterialTapTargetSize.shrinkWrap,
+                      padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 8),
+                      textStyle: const TextStyle(fontSize: 12, fontWeight: FontWeight.w500),
+                      shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(6)),
+                    ),
+                  ),
+                  const Spacer(),
+                  if (_primarySubtitle != null || _secondarySubtitle != null)
+                    ElevatedButton(
+                      onPressed: () {
+                        setState(() {
+                          _primarySubtitle = null;
+                          _secondarySubtitle = null;
+                        });
+                        widget.onClearPrimary();
+                        widget.onClearSecondary();
+                      },
+                      style: ElevatedButton.styleFrom(
+                        backgroundColor: Colors.red.withValues(alpha: 0.85),
+                        foregroundColor: Colors.white,
+                        elevation: 0,
+                        visualDensity: VisualDensity.compact,
+                        padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 8),
+                        textStyle: const TextStyle(fontSize: 12, fontWeight: FontWeight.w600),
+                        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
+                      ),
+                      child: const Text('Clear both subs'),
+                    ),
+                  const Spacer(),
+                  Container(
+                    padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+                    decoration: BoxDecoration(
+                      color: Colors.orange.withValues(alpha: 0.2),
+                      borderRadius: BorderRadius.circular(8),
+                    ),
+                    child: const Text(
+                      'Secondary (Top)',
+                      style: TextStyle(color: Colors.orange, fontSize: 12, fontWeight: FontWeight.bold),
+                    ),
+                  ),
+                  const SizedBox(width: 8),
+                  ElevatedButton.icon(
+                    onPressed: () => _browseForSubtitle(context, false),
+                    icon: const Icon(Icons.folder_open, size: 14),
+                    label: const Text('Browse vtt'),
+                    style: ElevatedButton.styleFrom(
+                      backgroundColor: Colors.orange,
+                      foregroundColor: Colors.white,
+                      elevation: 0,
+                      visualDensity: VisualDensity.compact,
+                      tapTargetSize: MaterialTapTargetSize.shrinkWrap,
+                      padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 8),
+                      textStyle: const TextStyle(fontSize: 12, fontWeight: FontWeight.w500),
+                      shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(6)),
+                    ),
+                  ),
+                ],
+              ),
+              const SizedBox(height: 12),
+              // Content row: subtitle boxes + swap button
+              Row(
+                crossAxisAlignment: CrossAxisAlignment.center,
+                children: [
+                  // PRIMARY box
                   Expanded(
-                    child: Column(
-                      crossAxisAlignment: CrossAxisAlignment.start,
-                      children: [
-                        Container(
-                          padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
-                          decoration: BoxDecoration(
-                            color: Colors.blue.withValues(alpha: 0.2),
-                            borderRadius: BorderRadius.circular(8),
-                          ),
-                          child: const Text(
-                            'PRIMARY (Bottom)',
-                            style: TextStyle(color: Colors.blue, fontSize: 16, fontWeight: FontWeight.bold),
-                          ),
-                        ),
-                        const SizedBox(height: 12),
-                        if (_primarySubtitle != null)
-                          Container(
+                    child: _primarySubtitle != null
+                        ? Container(
                             padding: const EdgeInsets.all(12),
                             decoration: BoxDecoration(
                               color: Colors.blue.withValues(alpha: 0.1),
@@ -568,8 +692,7 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
                               ],
                             ),
                           )
-                        else
-                          Container(
+                        : Container(
                             padding: const EdgeInsets.all(12),
                             decoration: BoxDecoration(
                               color: Colors.black26,
@@ -581,90 +704,42 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
                               style: TextStyle(color: Colors.white54, fontSize: 14),
                             ),
                           ),
-                        const SizedBox(height: 12),
-                        ElevatedButton.icon(
-                          onPressed: () => _browseForSubtitle(context, true),
-                          icon: const Icon(Icons.folder_open),
-                          label: const Text('Browse vtt'),
-                          style: ElevatedButton.styleFrom(
-                            backgroundColor: Colors.blue,
-                            foregroundColor: Colors.white,
-                          ),
-                        ),
+                  ),
+
+                  const SizedBox(width: 16),
+
+                  // SWAP
+                  ElevatedButton(
+                    onPressed: () {
+                      setState(() {
+                        final temp = _primarySubtitle;
+                        _primarySubtitle = _secondarySubtitle;
+                        _secondarySubtitle = temp;
+                      });
+                      widget.onSwap();
+                      if (_primarySubtitle != null) {
+                        WidgetsBinding.instance.addPostFrameCallback((_) => _scrollToSubtitle(_primarySubtitle!));
+                      }
+                    },
+                    style: ElevatedButton.styleFrom(
+                      backgroundColor: Colors.purple,
+                      foregroundColor: Colors.white,
+                      padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
+                    ),
+                    child: const Column(
+                      children: [
+                        Text('Swap Primary ⇅'),
+                        Text('Secondary (x)'),
                       ],
                     ),
                   ),
 
                   const SizedBox(width: 16),
 
-                  // SWAP / CLEAR BOTH
-                  Column(
-                    mainAxisAlignment: MainAxisAlignment.center,
-                    children: [
-                      const SizedBox(height: 40),
-                      if (_primarySubtitle != null || _secondarySubtitle != null)
-                        Column(
-                          children: [
-                            IconButton(
-                              icon: const Icon(Icons.close, color: Colors.red, size: 32),
-                              onPressed: () {
-                                setState(() {
-                                  _primarySubtitle = null;
-                                  _secondarySubtitle = null;
-                                });
-                                widget.onClearPrimary();
-                                widget.onClearSecondary();
-                              },
-                              tooltip: 'Clear both',
-                            ),
-                            const SizedBox(height: 16),
-                          ],
-                        ),
-                      ElevatedButton(
-                        onPressed: () {
-                          setState(() {
-                            final temp = _primarySubtitle;
-                            _primarySubtitle = _secondarySubtitle;
-                            _secondarySubtitle = temp;
-                          });
-                          widget.onSwap();
-                        },
-                        style: ElevatedButton.styleFrom(
-                          backgroundColor: Colors.purple,
-                          foregroundColor: Colors.white,
-                          padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
-                        ),
-                        child: const Column(
-                          children: [
-                            Text('Swap Primary ⇅'),
-                            Text('Secondary (x)'),
-                          ],
-                        ),
-                      ),
-                    ],
-                  ),
-
-                  const SizedBox(width: 16),
-
-                  // SECONDARY
+                  // SECONDARY box
                   Expanded(
-                    child: Column(
-                      crossAxisAlignment: CrossAxisAlignment.start,
-                      children: [
-                        Container(
-                          padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
-                          decoration: BoxDecoration(
-                            color: Colors.orange.withValues(alpha: 0.2),
-                            borderRadius: BorderRadius.circular(8),
-                          ),
-                          child: const Text(
-                            'SECONDARY (Top)',
-                            style: TextStyle(color: Colors.orange, fontSize: 16, fontWeight: FontWeight.bold),
-                          ),
-                        ),
-                        const SizedBox(height: 12),
-                        if (_secondarySubtitle != null)
-                          Container(
+                    child: _secondarySubtitle != null
+                        ? Container(
                             padding: const EdgeInsets.all(12),
                             decoration: BoxDecoration(
                               color: Colors.orange.withValues(alpha: 0.1),
@@ -690,8 +765,7 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
                               ],
                             ),
                           )
-                        else
-                          Container(
+                        : Container(
                             padding: const EdgeInsets.all(12),
                             decoration: BoxDecoration(
                               color: Colors.black26,
@@ -703,18 +777,6 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
                               style: TextStyle(color: Colors.white54, fontSize: 14),
                             ),
                           ),
-                        const SizedBox(height: 12),
-                        ElevatedButton.icon(
-                          onPressed: () => _browseForSubtitle(context, false),
-                          icon: const Icon(Icons.folder_open),
-                          label: const Text('Browse vtt'),
-                          style: ElevatedButton.styleFrom(
-                            backgroundColor: Colors.orange,
-                            foregroundColor: Colors.white,
-                          ),
-                        ),
-                      ],
-                    ),
                   ),
                 ],
               ),
@@ -725,12 +787,7 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
                   Text(
                     _searchQuery.isEmpty
                         ? 'Available Subtitles (${widget.availableSubtitles.length})'
-                        : 'Available Subtitles (${widget.availableSubtitles.where((sub) {
-                            final parts = sub.split(Platform.pathSeparator);
-                            final language = parts.length >= 2 ? parts[parts.length - 2].toLowerCase() : '';
-                            final fileName = parts.last.toLowerCase();
-                            return language.contains(_searchQuery) || fileName.contains(_searchQuery);
-                          }).length} of ${widget.availableSubtitles.length})',
+                        : 'Available Subtitles (${_filteredSubtitles().length} of ${widget.availableSubtitles.length})',
                     style: const TextStyle(color: Colors.white, fontSize: 18, fontWeight: FontWeight.bold),
                   ),
                   const SizedBox(width: 16),
@@ -775,7 +832,12 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
                         ),
                         contentPadding: const EdgeInsets.symmetric(vertical: 8),
                       ),
-                      onChanged: (val) => setState(() => _searchQuery = val.trim().toLowerCase()),
+                      onChanged: (val) {
+                        setState(() => _searchQuery = val.trim().toLowerCase());
+                        if (_subtitleScrollController.isAttached) {
+                          _subtitleScrollController.jumpTo(index: 0);
+                        }
+                      },
                     ),
                   ),
                 ],
@@ -783,13 +845,7 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
               const SizedBox(height: 12),
               Builder(
                 builder: (context) {
-                  final filtered = widget.availableSubtitles.where((sub) {
-                    if (_searchQuery.isEmpty) return true;
-                    final parts = sub.split(Platform.pathSeparator);
-                    final language = parts.length >= 2 ? parts[parts.length - 2].toLowerCase() : '';
-                    final fileName = parts.last.toLowerCase();
-                    return language.contains(_searchQuery) || fileName.contains(_searchQuery);
-                  }).toList();
+                  final filtered = _filteredSubtitles();
 
                   return Flexible(
                     child: Container(
@@ -808,7 +864,8 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
                                 ),
                               ),
                             )
-                          : ListView.builder(
+                          : ScrollablePositionedList.builder(
+                              itemScrollController: _subtitleScrollController,
                               shrinkWrap: true,
                               itemCount: filtered.length,
                               itemBuilder: (context, index) {
@@ -820,60 +877,87 @@ class _SubtitleManagerDialogState extends State<SubtitleManagerDialog> {
                                 final isPrimary = subtitle == _primarySubtitle;
                                 final isSecondary = subtitle == _secondarySubtitle;
 
-                                return ListTile(
-                                  title: Text(
-                                    displayName,
-                                    style: TextStyle(
-                                      color: isPrimary
-                                          ? Colors.blue
-                                          : isSecondary
-                                              ? Colors.orange
-                                              : Colors.white,
-                                      fontWeight: isPrimary || isSecondary
-                                          ? FontWeight.bold
-                                          : FontWeight.normal,
+                                return Container(
+                                  color: isPrimary
+                                      ? Colors.blue.withValues(alpha: 0.15)
+                                      : isSecondary
+                                          ? Colors.orange.withValues(alpha: 0.15)
+                                          : (index.isEven
+                                              ? Colors.white.withValues(alpha: 0.03)
+                                              : Colors.transparent),
+                                  child: ListTile(
+                                    dense: true,
+                                    visualDensity: const VisualDensity(horizontal: -2, vertical: -4),
+                                    contentPadding: const EdgeInsets.symmetric(horizontal: 12),
+                                    title: Text(
+                                      displayName,
+                                      style: TextStyle(
+                                        fontSize: 12.5,
+                                        color: isPrimary
+                                            ? Colors.blue
+                                            : isSecondary
+                                                ? Colors.orange
+                                                : Colors.white70,
+                                        fontWeight: isPrimary || isSecondary
+                                            ? FontWeight.bold
+                                            : FontWeight.normal,
+                                      ),
                                     ),
-                                  ),
-                                  trailing: Row(
-                                    mainAxisSize: MainAxisSize.min,
-                                    children: [
-                                      if (isPrimary)
-                                        Container(
-                                          padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
-                                          decoration: BoxDecoration(
-                                            color: Colors.blue,
-                                            borderRadius: BorderRadius.circular(4),
+                                    trailing: Row(
+                                      mainAxisSize: MainAxisSize.min,
+                                      children: [
+                                        if (isPrimary)
+                                          Container(
+                                            padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 2),
+                                            decoration: BoxDecoration(
+                                              color: Colors.blue,
+                                              borderRadius: BorderRadius.circular(4),
+                                            ),
+                                            child: const Text('Primary',
+                                                style: TextStyle(color: Colors.white, fontSize: 9)),
                                           ),
-                                          child: const Text('PRIMARY',
-                                              style: TextStyle(color: Colors.white, fontSize: 10)),
-                                        ),
-                                      if (isSecondary)
-                                        Container(
-                                          padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
-                                          decoration: BoxDecoration(
-                                            color: Colors.orange,
-                                            borderRadius: BorderRadius.circular(4),
+                                        if (isSecondary)
+                                          Container(
+                                            padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 2),
+                                            decoration: BoxDecoration(
+                                              color: Colors.orange,
+                                              borderRadius: BorderRadius.circular(4),
+                                            ),
+                                            child: const Text('Secondary',
+                                                style: TextStyle(color: Colors.white, fontSize: 9)),
                                           ),
-                                          child: const Text('SECONDARY',
-                                              style: TextStyle(color: Colors.white, fontSize: 10)),
-                                        ),
-                                      if (!isPrimary && !isSecondary) ...[
-                                        TextButton(
-                                          onPressed: () {
-                                            setState(() => _primarySubtitle = subtitle);
-                                            widget.onPrimarySelected(subtitle);
-                                          },
-                                          child: const Text('Primary'),
-                                        ),
-                                        TextButton(
-                                          onPressed: () {
-                                            setState(() => _secondarySubtitle = subtitle);
-                                            widget.onSecondarySelected(subtitle);
-                                          },
-                                          child: const Text('Secondary'),
-                                        ),
+                                        if (!isPrimary && !isSecondary) ...[
+                                          TextButton(
+                                            style: TextButton.styleFrom(
+                                              padding: const EdgeInsets.symmetric(horizontal: 6),
+                                              minimumSize: Size.zero,
+                                              tapTargetSize: MaterialTapTargetSize.shrinkWrap,
+                                              textStyle: const TextStyle(fontSize: 11),
+                                            ),
+                                            onPressed: () {
+                                              setState(() => _primarySubtitle = subtitle);
+                                              widget.onPrimarySelected(subtitle);
+                                              WidgetsBinding.instance
+                                                  .addPostFrameCallback((_) => _scrollToSubtitle(subtitle));
+                                            },
+                                            child: const Text('Primary'),
+                                          ),
+                                          TextButton(
+                                            style: TextButton.styleFrom(
+                                              padding: const EdgeInsets.symmetric(horizontal: 6),
+                                              minimumSize: Size.zero,
+                                              tapTargetSize: MaterialTapTargetSize.shrinkWrap,
+                                              textStyle: const TextStyle(fontSize: 11),
+                                            ),
+                                            onPressed: () {
+                                              setState(() => _secondarySubtitle = subtitle);
+                                              widget.onSecondarySelected(subtitle);
+                                            },
+                                            child: const Text('Secondary'),
+                                          ),
+                                        ],
                                       ],
-                                    ],
+                                    ),
                                   ),
                                 );
                               },

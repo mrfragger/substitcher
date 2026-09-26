@@ -1602,6 +1602,10 @@ class _PlayerScreenState extends State<PlayerScreen>
           .compareTo(path.basename(b).toLowerCase());
     });
 
+    for (final s in subtitleFiles) {
+      print('  $s');
+    }
+
     setState(() {
       _availableSubtitles = subtitleFiles;
     });

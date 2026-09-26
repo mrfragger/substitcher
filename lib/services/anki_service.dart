@@ -532,11 +532,13 @@ class AnkiService {
 
         final future = semaphore.acquire().then((_) async {
           try {
-            if (audioRepetitions == 1) {
-              await _copyOrConvertAudio(audioPath, chapterOutputPath);
-            } else {
-              await _repeatAudio(audioPath, chapterOutputPath, audioRepetitions);
-            }
+            await _ffmpeg.repeatAudio(
+              inputPath: audioPath,
+              outputPath: chapterOutputPath,
+              times: audioRepetitions,
+              bitrate: 192,
+              onProgress: (_) {},
+            );
 
             final duration = await _ffmpeg.getAudioDuration(chapterOutputPath);
 
@@ -555,7 +557,7 @@ class AnkiService {
 
             completedRepeat++;
             onProgress(
-              'Repeating (${audioRepetitions}x) audio chapter $completedRepeat/${chapters.length}',
+              'Repeating (${audioRepetitions}x) audio chapter $completedRepeat/${chapters.length} by encoding to 192 kbps opus',
               0.2 + (completedRepeat / chapters.length) * 0.5,
             );
           } finally {
@@ -585,7 +587,7 @@ class AnkiService {
         outputDir: encodedDir,
         bitrate: bitrate,
         onProgress: (current, total) {
-          onProgress('Encoding to opus $current/$total', 0.7 + (current / total) * 0.15);
+          onProgress('Encoding to $bitrate kbps opus $current/$total', 0.7 + (current / total) * 0.15);
         },
       );
 
@@ -661,45 +663,35 @@ class AnkiService {
       }
 
       onProgress('Cleaning up temporary files...', 0.98);
-      try {
-        if (await vttDir.exists()) {
-          await vttDir.delete(recursive: true);
-          print('Deleted temporary vtt directory: ${vttDir.path}');
-        }
-      } catch (e) {
-        print('Warning: Could not delete vtt directory: $e');
-      }
+      await _deleteDirectoryWithRetry(vttDir);
 
       await Future.delayed(const Duration(milliseconds: 100));
       onProgress('Complete!', 1.0);
     }
 
-  Future<void> _copyOrConvertAudio(String inputPath, String outputPath) async {
-      await _ffmpeg.ensureBinaries();
+    Future<void> _deleteDirectoryWithRetry(
+      Directory dir, {
+      int maxAttempts = 5,
+      Duration initialDelay = const Duration(milliseconds: 500),
+    }) async {
+      var delay = initialDelay;
 
-      final process = await Process.start(_ffmpeg.ffmpegPath!, [
-        '-y',
-        '-i', inputPath,
-        '-c:a', 'libopus',
-        '-b:a', '32k',
-        outputPath,
-      ]);
-
-      final stderrBytes = <int>[];
-      await for (final chunk in process.stderr) {
-        stderrBytes.addAll(chunk);
-      }
-      await process.stdout.drain();
-      final exitCode = await process.exitCode;
-
-      if (exitCode != 0) {
-        String error;
+      for (int attempt = 1; attempt <= maxAttempts; attempt++) {
         try {
-          error = utf8.decode(stderrBytes);
-        } catch (_) {
-          error = latin1.decode(stderrBytes);
+          if (await dir.exists()) {
+            await dir.delete(recursive: true);
+            print('Deleted temporary vtt directory: ${dir.path}');
+          }
+          return;
+        } catch (e) {
+          if (attempt == maxAttempts) {
+            print('Warning: Could not delete vtt directory after $maxAttempts attempts: $e');
+            return;
+          }
+          print('Delete attempt $attempt failed, retrying in ${delay.inMilliseconds}ms: $e');
+          await Future.delayed(delay);
+          delay *= 2;
         }
-        throw Exception('Failed to convert $inputPath: $error');
       }
     }
 
@@ -797,28 +789,25 @@ class AnkiService {
         final futures = <Future>[];
         final semaphore = _Semaphore(maxConcurrent);
 
+        final config = EncodingConfig(
+          bitrate: bitrate,
+          author: '',
+          title: '',
+          year: '',
+        );
+
         for (final file in mp3Files) {
           final future = semaphore.acquire().then((_) async {
             try {
               final basename = path.basenameWithoutExtension(file.path);
               final outputPath = path.join(outputDir.path, '$basename.opus');
 
-              final opusApplication = bitrate == 12 ? 'voip' : 'audio';
-
-              final process = await Process.start(_ffmpeg.ffmpegPath!, [
-                '-y',
-                '-i', file.path,
-                '-c:a', 'libopus',
-                '-application', opusApplication,
-                '-frame_duration', '60',
-                '-b:a', '${bitrate}k',
-                '-af', 'dynaudnorm=f=250:g=31:p=0.5:m=5:r=0.9:b=1',
-                outputPath,
-              ]);
-
-              await process.stderr.drain();
-              await process.stdout.drain();
-              await process.exitCode;
+              await _ffmpeg.encodeChapter(
+                inputPath: file.path,
+                outputPath: outputPath,
+                config: config,
+                onProgress: (_) {},
+              );
 
               completed++;
               onProgress(completed, mp3Files.length);

@@ -358,8 +358,7 @@ class FFmpegService {
       '-b:a',
       '${config.bitrate}k',
       if (config.bitrate <= 16) ...['-frame_duration', '60'],
-      '-af',
-      filterString,
+      if (filterString.isNotEmpty) ...['-af', filterString],
       outputPath,
       '-y',
     ];

@@ -540,7 +540,7 @@ print('DONE', flush=True)
 
   Future<void> _startConversion() async {
     if ((_apkgFilePath == null && !_csvOnlyMode) || _outputDirectory == null) {
-      _showError('Please select an .apkg or CSV file');
+      _showError('Please select an .apkg or (Quran) CSV file');
       return;
     }
 
@@ -1135,7 +1135,7 @@ print('DONE', flush=True)
                   Icon(Icons.warning, color: Colors.orange, size: 16),
                   SizedBox(width: 8),
                   Text(
-                    'No .apkg or CSV file selected',
+                    'No .apkg or (Quran) CSV file selected',
                     style: TextStyle(color: Colors.orange, fontSize: 12),
                   ),
                 ],
@@ -1622,7 +1622,7 @@ print('DONE', flush=True)
                 const Icon(Icons.settings, color: Colors.deepPurple, size: 20),
                 const SizedBox(width: 8),
                 const Text(
-                  'Audiobook Configuration',
+                  'Audiobook Configuration - Quran Arabic / Quran English / Quran quranenc Language',
                   style: TextStyle(
                     color: Colors.white,
                     fontSize: 16,
