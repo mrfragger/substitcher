@@ -2,6 +2,33 @@ const String quranIndexVietnameseRaw = r"""
 Kinh Cầu Manzil 1:1-7; 2:1-5, 163, 255-257, 284-286; 3:18, 26-27; 7:54-56, 117-122; 17:110-111; 23:115-118; 37:1-11; 55:33-40; 59:21-24; 72:1-4; 109:1-6; 112:1-4; 113:1-5; 114:1-6
 Lạy Chúa Chúng Con Kinh Cầu 2:127-128, 201, 250, 286; 3:8-9, 16, 53, 147, 191-194; 5:83, 114; 7:23, 47, 89, 126, 155; 10:85-88; 11:47; 12:101; 14:38-41; 17:80; 18:10; 20:114; 23:109, 118; 25:65-66, 74; 28:24; 40:7-9; 59:10; 60:4-7; 66:8
 Lạy Chúa Con Kinh Cầu 3:38; 12:33; 14:35-36; 19:3-6; 20:25-28, 45, 114; 21:83, 87, 89; 23:26, 29, 93-94, 97-98; 26:83-87, 169; 27:19; 28:16-17, 21; 29:30; 37:100; 38:35, 41; 46:15, 71:26-28
+Những Lời Cầu Nguyện của Các Nhà Tiên Tri
+- Lời Cầu Nguyện của Adam và Hawwa (Eva) 7:23
+- Nhà Tiên Tri Al-Yasa (Elisha) 6:86; 38:48
+- Bệnh Tật của Nhà Tiên Tri Ayyub (Job) và Lời Cầu Nguyện của Ông 21:83-84; 38:41-44
+- Nhà Tiên Tri Dhul-Kifl (có thể là Ezekiel) 21:85-86; 38:48
+- Nhà Tiên Tri Idris (Enoch) 19:56-57; 21:85
+- Nhà Tiên Tri Ilyas (Elijah) 37:123-132
+- Nhà Tiên Tri Ishaq (Isaac) 11:71-73; 37:112-113
+- Nhà Tiên Tri Salih 11:61; 26:142-159
+- Nhà Tiên Tri Yahya (Giăng Báp-tít) 3:38; 19:7-15
+- Lời Cầu Nguyện của Nhà Tiên Tri Ayyub (Job) 21:83
+- Lòng Biết Ơn của Dawud (David) và Sulayman (Solomon) 27:15
+- Lời Cầu Nguyện của Musa cho Harun (Aaron) 20:29-32
+- Lời Tuyên Bố của Nhà Tiên Tri Hud về Niềm Tin vào Allah 11:56
+- Những Lời Cầu Nguyện của Nhà Tiên Tri Ibrahim (Abraham) 2:126; 2:127-128; 14:35-38; 14:40-41; 26:78-85; 26:87-89; 37:100; 60:4-5
+- Những Lời Cầu Nguyện Liên Quan đến Isa (Chúa Giêsu) 3:52-53; 5:114; 5:118
+- Lời Cầu Nguyện của Ibrahim (Abraham) và Ismail tại Ka'bah 2:127-129
+- Những Lời Cầu Nguyện của Nhà Tiên Tri Lut (Lot) 26:169; 29:30
+- Những Lời Cầu Nguyện của Nhà Tiên Tri Muhammad trong Kinh Qur'an 17:80; 20:114; 21:112; 23:97-98; 23:118
+- Những Lời Cầu Nguyện của Nhà Tiên Tri Musa (Moses) 5:25; 7:151; 7:155-156; 20:25-28; 28:16-17; 28:21-22; 28:24
+- Những Lời Cầu Nguyện của Nhà Tiên Tri Nuh (Noah) 11:41; 11:47; 23:28-29; 54:10; 71:28
+- Những Lời Cầu Nguyện và Niềm Tin của Nhà Tiên Tri Shuayb (có thể là Jethro) 7:89; 11:88
+- Những Lời Cầu Nguyện và Lòng Biết Ơn của Nhà Tiên Tri Sulayman (Solomon) 27:15; 27:19; 27:40
+- Sự Kiên Nhẫn và Những Lời Cầu Nguyện của Nhà Tiên Tri Yaqub (Jacob) 12:18; 12:67; 12:83; 12:86
+- Lời Cầu Nguyện của Nhà Tiên Tri Yunus (Jonah) 21:87
+- Lời Cầu Nguyện của Nhà Tiên Tri Yusuf (Joseph) 12:101
+- Những Lời Cầu Nguyện của Nhà Tiên Tri Zakariya (Zechariah) 3:38; 19:4-5; 21:89
 Aaron (Harun) 2:248; 4:163; 6:84; 7:122, 142; 10:75; 19:28, 53; 20:30, 70, 90, 92; 21:48; 23:45; 25:35; 26:13, 48; 28:34; 37:114, 120.
 'Abasa, S.80; 74:22
 Ablutions (Wudu) (Nghi thức rửa tay chân), 4:43; 5:6

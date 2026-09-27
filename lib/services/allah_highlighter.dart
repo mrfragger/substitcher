@@ -221,7 +221,10 @@ class AllahHighlighter {
   }
 
   static const String _latinRange =
-      r"a-zA-ZÀ-ÿçÇğĞıİöÖşŞüÜɔɛƆƐɣŋʒƔŊƷɩƖʋƲ";
+      r"a-zA-ZÀ-ÿçÇğĞıİöÖşŞüÜɔɛƆƐɣŋʒƔŊƷɩƖʋƲ"
+      r"ĄąĆćĘęŁłŃńÓóŚśŹźŻż"                 // Polish
+      r"ĀāĒēĪīŌōŪū"                          // Latvian/Lithuanian
+      r"ČčĎďĹĺĽľŇňŔŕŠšŤťŽž";                 // Czech/Slovak extras
 
   static String _latinWordPattern(String w) {
     final escaped = RegExp.escape(w);
@@ -269,7 +272,7 @@ class AllahHighlighter {
     'Allah', 'Allāh', 'Allâh',
     'Lord\u2019s', 'Lord\u02BCs', "Lord's", 'Lord',
   ];
-  static const List<String> _englishPronounWords = [ 'Allah Who', 'He Who', 'Whom', 'Creator', 'Oneness', 'Our', 'Ours', 'Him', 'His', 'He', 'Me', 'Us', 'One', 'One Who',];
+  static const List<String> _englishPronounWords = [ 'Allah Who', 'He Who', 'Whom', 'Creator', 'Oneness', 'Our', 'Ours', 'Him', 'His', 'He', 'Me', 'Us', 'One', 'One Who', 'My',];
 
   static const Map<String, List<String>> allahWordsByLanguage = {
     'Arabic': [
@@ -304,6 +307,9 @@ class AllahHighlighter {
       'الله', 'اﷲ',
     ],
     'Hebrew': [
+      // prefixed forms of אללה (ה/ו/ב/כ/ל/מ/ש + אללה)
+      'באללה', 'לאללה', 'מאללה', 'כאללה', 'שאללה', 'האללה', 'ואללה',
+      // standalone
       'אללה',
       'ריבוני', 'ריבונך', 'ריבונו', 'ריבון',
       'ריבי', 'ריבם', 'ריבך', 'ריבנו', 'ריבכם',
@@ -321,6 +327,8 @@ class AllahHighlighter {
       'پروردگارا', 'پروردگاری', 'پروردگار',
     ],
     'English': [..._englishBaseWords, ..._englishPronounWords],
+    'Afar': ['Yalli', 'Alla', 'Allah'],
+    'Amharic': ['አላህ', 'አምላክ', 'ጌታ'],
     'Albanian': [
       'All-llahun', 'All-llahut', 'All-llahu',
       'Allahun', 'Allahut', 'Allahu',
@@ -347,6 +355,12 @@ class AllahHighlighter {
       'Allahovoj', 'Allahova', 'Allahovog', 'Allahovom', 'Allahovih',
       'Allahove', 'Allahovu', 'Allahovi', 'Allahov', 'Allahu', 'Allaha', 'Allah',
     ],
+    'Cebuano': [
+      'Allah',
+      'Ginoo',
+      'Dios',
+      'Diyos',
+    ],
     'Chichewa': ['Allah', 'Mulungu', 'Mbuye'],
     'Chinese': ['安拉', '真主'],
     'ChineseTrad': ['安拉', '真主'],
@@ -355,6 +369,13 @@ class AllahHighlighter {
       'Аллаhыр', 'Аллаhым', 'Аллаhми', 'Аллаhм',
       'Тхьэм', 'Тхьэр', 'Тхьэ',
     ],
+    'Croatian': [
+      'Allahovoj', 'Allahova', 'Allahovog', 'Allahovom', 'Allahovih',
+      'Allahove', 'Allahovu', 'Allahovi', 'Allahov', 'Allahu', 'Allaha', 'Allah',
+      'Gospodaru naš', 'Gospodar njegov', 'Gospodara njihova',
+      'Gospodara tvoga', 'Gospodar tvoj', 'Gospodaru moj', 'Gospodara vašeg',
+      'Gospodar', 'Bog',
+    ],
     'Czech': [
       'Alláhovo', 'Alláhův', 'Alláhovu', 'Alláhovi', 'Alláhem', 'Alláha', 'Alláh',
       'Allahovi', 'Allaha',
@@ -362,8 +383,9 @@ class AllahHighlighter {
       'Pána', 'Pánu', 'Pane', 'Pán',
     ],
     'Dagbani': ['Naawuni', 'Duuma'],
+    'Dutch': ['Allah', 'Heer'],
     'Finnish': [
-      'Allahkin', 'Allahilta', 'Allahille', 'Allahia', 'Allahin', 'Allah',
+      'Allahkin', 'Allahilta', 'Allahille', 'Allahia', 'Allahin', 'Allahiin', 'Allah',
       'Jumalanne', 'Jumalasta', 'Jumalaa', 'Jumalan', 'Jumala',
       'Herralleni', 'Herraansa', 'Herralleen', 'Herranne', 'Herralta',
       'Herraan', 'Herrani', 'Herrasi', 'Herran', 'Herra',
@@ -371,8 +393,9 @@ class AllahHighlighter {
     'French': [
       'qu\u2019Allah', 'qu\'Allah', 'd\u2019Allah', 'd\'Allah', 'Allah', 'Seigneur',
     ],
-    'Fula': ['Alla', 'Joomi'],
-    'Fulani': ['Alla', 'Joomi'],
+    'Fula': ['Allah', 'Alla', 'Joomi'],
+    'Fulani': ['Allah', 'Alla', 'Joomi'],
+    'German': ['Allah', 'Gott', 'Herr'],
     'Georgian': [
       'ალაჰისათვის', 'ალაჰისგან', 'ალაჰზე', 'ალაჰმა', 'ალაჰსა', 'ალაჰის',
       'ალაჰთან', 'ალაჰს', 'ალაჰი', 'ალაჰისა',
@@ -380,8 +403,17 @@ class AllahHighlighter {
     ],
     'Gujarati': ['અલ્લાહ', 'પાલનહાર', 'પાલનહારનો', 'પાલનહારની', 'પાલનહારનું', 'રબ્બ'],
     'Greek': ['Αλλάχ', 'Θεός', 'Κύριός', 'Κύριος', 'Κυρίου', 'Κύριό', 'Κύριε', 'Κύριέ', 'Κύριο'],
+    'Hausa': ['Allahu', 'Allah', 'Ubangiji'],
     'Hindi': ['अल्लाह', 'रब्ब', 'परवरदिगार'],
+    'Hungarian': [
+      'Allahnak', 'Allahtól', 'Allahot', 'Allahba', 'Allah',
+      'Uram', 'Urunk', 'Uratok', 'Uruk', 'Úrnak', 'Úr',
+    ],
     'Indonesian': ['Allahlah', 'Allah', 'Rabb', 'Tuhan'],
+    'Iranun': [
+      'Allah',
+      'Kadnan Ko', 'Kadnan Ka', 'Kadnan Nami', 'Kadnan Niran', 'Kadnan',
+    ],
     'Italian': ['Allāh', 'Allah', 'Dio'],
     'Japanese': [
       'アッラー', 'アッラーの', 'アッラーに', 'アッラーは', 'アッラーが', 'アッラーを', 'アッラーと', '主',
@@ -397,11 +429,29 @@ class AllahHighlighter {
       'Рубұбияһ', 'Рубұбияһын', 'Иелік',
     ],
     'Khmer': ['អល់ឡោះ', 'ម្ចាស់'],
+    'Kinyarwanda': [
+      'Allah', 'Allahuma',
+      'Nyagasani wacu', 'Nyagasani wanjye', 'Nyagasani wawe',
+      'Nyagasani we', 'Nyagasani wabo', 'Nyagasani',
+    ],
+    'Kirundi': [
+      'Allah',
+      'Mana yacu Rurema Allah', 'Mana yanje Rurema Allah', 'Mana yawe Rurema Allah',
+      'Imana yiwe Rurema Allah', 'Imana yabo Rurema Allah',
+      'Rurema Allah', 'Imana Allah', 'Imana', 'Rurema',
+    ],
+    'Korean': ['알라', '하나님', '주님'],
     'Kyrgyz': [
       'Аллахтын', 'Аллахты', 'Аллахтан', 'Аллахка', 'Алланын', 'Аллага',
       'Алладан', 'Аллах', 'Алла',
     ],
-    'Lithuanian': ['Alachas', 'Allahas', 'Alacho', 'Allaho', 'Viešpats', 'Viešpaties'],
+    'Lingala': [
+      'Allah',
+      'Nkolo wa biso', 'Nkolo na biso', 'Nkolo wa ngai', 'Nkolo na ngai',
+      'Nkolo nayo', 'Nkolo wa yo', 'Nkolo na yo', 'Nkolo wa bino', 'Nkolo wa bango',
+      'Nkolo',
+    ],
+    'Lithuanian': ['Alachas', 'Allahas', 'Alacho', 'Allaho', 'Allahu', 'Viešpats', 'Viešpaties'],
     'Luganda': [
       'Mukama wammwe', 'Mukama wange', 'Mukama waffe', 'Mukama wabwe',
       'Ruboobiyyah', 'Mukama', 'Katonda', "Allah'", 'Allah', 'Obukama',
@@ -419,7 +469,19 @@ class AllahHighlighter {
       'твојот Господ', 'неговиот Господ', 'нејзиниот Господ', 'нашиот Господ',
       'вашиот Господ', 'нивниот Господ', 'Рубобијјата', 'Рубобијја',
     ],
+    'Maguindanao': [
+      'Allah',
+      'Kadenan nengka', 'Kadenan nin', 'Kadenan ami', 'Kadenan iyu',
+      'Kadenan iran', 'Kadenan ku', 'Kadenan tano', 'Kadenan',
+    ],
+    'Malagasy': ['Tompo', 'Allah', 'Andriamanitra'],
+    'Malay': [
+      'Allah',
+      'Tuhan kami', 'Tuhanku', 'Tuhanmu', 'Tuhan mereka', 'Tuhan kamu',
+      'Tuhan',
+    ],
     'Malayalam': [
+      'അല്ലാഹുവിലുള്ള',
       'അല്ലാഹുവിൻ്റെ', 'അല്ലാഹുവിന്റെ', 'അല്ലാഹുവിനെ', 'അല്ലാഹുവെ',
       'അല്ലാഹുവിന്', 'അല്ലാഹു', 'റബ്ബ്',
     ],
@@ -452,15 +514,43 @@ class AllahHighlighter {
       'पालनकर्ता', 'सर्वशक्तिमान', 'प्रभु', 'रब्ब',
     ],
     'Odia': [
+      // short-ଅ variant
+      'ଅଲ୍ଲାହଙ୍କଠାରୁ', 'ଅଲ୍ଲାହଙ୍କଠାରେ', 'ଅଲ୍ଲାହଙ୍କଦ୍ୱାରା', 'ଅଲ୍ଲାହଙ୍କ ପ୍ରତି',
+      'ଅଲ୍ଲାହଙ୍କ ନିକଟରେ', 'ଅଲ୍ଲାହଙ୍କ ପାଇଁ', 'ଅଲ୍ଲାହଙ୍କ ସହିତ', 'ଅଲ୍ଲାହଙ୍କ ବିଷୟରେ',
+      'ଅଲ୍ଲାହଙ୍କ', 'ଅଲ୍ଲାହଙ୍କୁ', 'ଅଲ୍ଲାହଙ୍କର', 'ଅଲ୍ଲାହ',
+      // existing long-ଆ variant
       'ଆଲ୍ଲାହଙ୍କଠାରୁ', 'ଆଲ୍ଲାହଙ୍କଠାରେ', 'ଆଲ୍ଲାହଙ୍କଦ୍ୱାରା', 'ଆଲ୍ଲାହଙ୍କ ପ୍ରତି',
       'ଆଲ୍ଲାହଙ୍କ ନିକଟରେ', 'ଆଲ୍ଲାହଙ୍କ ପାଇଁ', 'ଆଲ୍ଲାହଙ୍କ ସହିତ', 'ଆଲ୍ଲାହଙ୍କ ବିଷୟରେ',
       'ଆଲ୍ଲାହଙ୍କ', 'ଆଲ୍ଲାହଙ୍କୁ', 'ଆଲ୍ଲାହଙ୍କର', 'ଆଲ୍ଲାହ',
+      // Lord terms
       'ସମଗ୍ର ବିଶ୍ୱର ପ୍ରଭୁଙ୍କ', 'ସମଗ୍ର ବିଶ୍ୱର ପ୍ରଭୁ', 'ତୁମ୍ଭମାନଙ୍କର ପ୍ରଭୁ',
       'ସେମାନଙ୍କର ପ୍ରଭୁ', 'ଆପଣଙ୍କର ପ୍ରଭୁ', 'ପ୍ରଭୁଙ୍କଠାରୁ', 'ପ୍ରଭୁଙ୍କଠାରେ',
       'ପ୍ରଭୁଙ୍କଦ୍ୱାରା', 'ମୋର ପ୍ରଭୁଙ୍କ', 'ଆମର ପ୍ରଭୁ', 'ନିଜର ପ୍ରଭୁ', 'ତୁମ୍ଭର ପ୍ରଭୁ',
       'ମୋର ପ୍ରଭୁ', 'ପ୍ରଭୁଙ୍କ', 'ପ୍ରଭୁଙ୍କୁ', 'ପ୍ରଭୁଙ୍କର', 'ପ୍ରଭୁ',
       'ମହାନ୍ ପ୍ରଭୁ', 'ପରାକ୍ରମଶାଳୀ', 'ରୁବୂବିଯ୍ୟା', 'ଦେବତା',
     ],
+    'Oromo': [
+      'Rabbiitiin', 'Rabbiitiif', 'Rabbiinis', 'Rabbiiti', 'Rabbiin', 'Rabbiif',
+      'Rabbitti', 'Rabbii', 'Rabbi', 'Allaahi', 'Allaahn', 'Allahi', 'Allah', 'Waaqayyo',
+    ],
+    'Polish': [
+      // --- Allah (transliterated name, full declension) ---
+      'Allah', 'Allaha', 'Allahowi', 'Allahem', 'Allahu', 'Allach',
+      // --- Pan (Lord / Rabb) ---
+      'Pan', 'Pana', 'Panu', 'Panem', 'Panie',
+      // --- multi-word possessive forms with Pan ---
+      'Pana naszego', 'Panie nasz', 'Pan nasz',
+      'Pana mojego', 'Panie mój', 'Pan mój',
+      'Pana twego', 'Panie twój', 'Pan twój',
+      'Pana swego', 'Pana swojego', 'swojego Pana',
+      'Pana ich', 'Pan ich',
+      'Pana waszego', 'Pan wasz',
+      // --- Bóg (God — also used for Allah in Polish) ---
+      'Bóg', 'Boga', 'Bogu', 'Bogiem', 'Boże',
+      // --- adjectival “divine” forms that clearly refer to God ---
+      'Boski', 'Boska', 'Boskie', 'Boscy', 'Boskich', 'Boskim', 'Boską',
+    ],
+    'Portuguese': ['Allah', 'Senhor', 'Deus'],
     'Punjabi': [
       'ਅੱਲਾਹ', 'ਅੱਲਾਹ ਦੀ', 'ਅੱਲਾਹ ਦਾ', 'ਅੱਲਾਹ ਦੇ', 'ਅੱਲਾਹ ਨੂੰ', 'ਅੱਲਾਹ ਤੋਂ',
       'ਅੱਲਾਹ ਵੱਲ', 'ਅੱਲਾਹ ਉੱਤੇ', 'ਅੱਲਾਹ ਕੋਲ', 'ਅੱਲਾਹ ਲਈ', 'ਅੱਲਾਹ ਨਾਲ', 'ਅੱਲਾਹ ਬਾਰੇ',
@@ -469,21 +559,42 @@ class AllahHighlighter {
       'ਮੇਰੇ ਰੱਬ', 'ਮੇਰਾ ਰੱਬ', 'ਤੇਰੇ ਰੱਬ', 'ਤੇਰਾ ਰੱਬ', 'ਸਾਡੇ ਰੱਬ', 'ਸਾਡਾ ਰੱਬ',
       'ਰੱਬ ਵੱਲੋਂ', 'ਰੱਬ ਦਾ', 'ਰੱਬ ਦੀ', 'ਰੱਬ ਦੇ', 'ਰੱਬ ਨੂੰ', 'ਰੱਬ ਤੋਂ', 'ਰੱਬ',
     ],
+    'Shona': [
+      'Allah',
+      // --- Allah with bound prefixes (Shona joins prefix + proper noun) ---
+      'naAllah', 'waAllah', 'kunaAllah', 'vaAllah', 'yaAllah',
+      'zvaAllah', 'raAllah', 'chaAllah', 'munaAllah', 'kwaAllah',
+      'neAllah', 'weAllah', 'yeAllah', 'reAllah',
+      // --- Lord (Ishe) + possessive forms (separate words) ---
+      'Ishe', 'Ishe wedu', 'Ishe wangu', 'Ishe wako', 'Ishe wavo',
+      'Ishe wenyu', 'Ishe wake', 'Ishe wacho',
+      'She', 'She wedu', 'She wangu', 'She wako', 'She wavo',
+      // --- God (Mwari) ---
+      'Mwari', 'Mwari Mumwe', 'Mwari Mumwe Chete',
+      'Mwari wedu', 'Mwari wangu', 'Mwari wako', 'Mwari wavo',
+      'Mwari wenyu', 'Mwari wake',
+      // --- Master (Tenzi) ---
+      'Tenzi', 'Tenzi wedu', 'Tenzi wangu', 'Tenzi wako', 'Tenzi wavo',
+      // --- Creator (Musiki) — used as divine title ---
+      'Musiki', 'Musiki wedu', 'Musiki wangu',
+    ],
+    'Slovak': [
+      'Allaha', 'Allahovi', 'Allahom', 'Alahom', 'Allahu', 'Alláha', 'Alláhovmu',
+      'Alláhovi', 'Alláhom', 'Alláhu', 'Alaha', 'Allah', 'Alláh',
+      'Boha', 'Bohovi', 'Bohom', 'Bohu', 'Boží', 'Božích', 'Boh', 'Bože',
+      'Boží', 'Božia', 'Božie', 'Božích', 'Božím', 'Božou',
+      'Pána svetov', 'Pánovi', 'Pánom', 'Pána', 'Pane', 'Pánu', 'Pán',
+      'svojho Pána', 'svojmu Pánovi', 'svojho Pána Veľkého',
+    ],
     'Somali': [
       'Allaah ka', 'Allaah ku', 'Allaah u', 'Allaah la', 'Allaah ha', 'Allaahna',
-      'Allaah', 'Ilaahaygu', 'Ilaahaygunu',
+      'Allaah', 'Alle', 'Ilaahaygu', 'Ilaahaygunu',
       'Rabbiga adduunyada', 'Rabbiga adduunka', 'Rabbigaygu', 'Rabbigood',
       'Rabbigiisa', 'Rabbigaa', 'Rabbigiinna', 'Rabbigay', 'Rabbigiis',
       'Rabbigayada', 'Rabbigeed', 'Rabbigiina', 'Rabbigi', 'Rabbigu', 'Rabbaha',
       'Rabbi', 'Rabb',
     ],
-    'Slovak': [
-      'Allaha', 'Allahovi', 'Allahom', 'Alahom', 'Allahu', 'Alláha', 'Alláhovmu',
-      'Alláhovi', 'Alláhom', 'Alláhu', 'Allah', 'Alláh',
-      'Boha', 'Bohovi', 'Bohom', 'Bohu', 'Boží', 'Božích', 'Boh',
-      'Pána svetov', 'Pánovi', 'Pánom', 'Pána', 'Pane', 'Pánu', 'Pán',
-      'svojho Pána', 'svojmu Pánovi', 'svojho Pána Veľkého',
-    ],
+    'Romanian': ['Allah', 'Domnul', 'Domn'],
     'Russian': [
       'Аллахом', 'Аллахе', 'Аллаху', 'Аллаха', 'Аллах',
       'Господом', 'Господу', 'Господа', 'Господь',
@@ -497,11 +608,13 @@ class AllahHighlighter {
       'අල්ලාහ්ගෙන්', 'අල්ලාහ්ගේ', 'අල්ලාහ්ට', 'අල්ලාහ්ද', 'අල්ලාහ්', 'රබ්',
     ],
     'Spanish': ['Al\u2011lah', 'Al-lah', 'Allāh', 'Allah', 'Señor'],
+    'Swahili': ['Allah', 'Mwenyezi Mungu', 'Bwana'],
     'Swedish': [
       'världarnas Herres', 'världarnas Herre', 'Herrens', 'Herren',
       'Allahs', 'Herres', 'Allah', 'Herre', 'Guds', 'Gud',
     ],
     'Tagalog': ['Allāh', 'Allah', 'Panginoon'],
+    'Tajik': ['Аллоҳ', 'Худо', 'Парвардигор'],
     'Tamil': [
       'அல்லாஹ்வுக்கும்', 'அல்லாஹ்வுக்கு', 'அல்லாஹ்வின்', 'அல்லாஹ்வை',
       'அல்லாஹை', 'அல்லாஹின்', 'அல்லாஹ்', 'ரப்',
@@ -521,39 +634,50 @@ class AllahHighlighter {
       'Аллахом', 'Аллаха', 'Аллах',
     ],
     'Uzbek': [
-      'Alloh', 'Allohning', 'Rabb', 'Robb', 'Robbisi', 'Robbing', 'Robbim',
-      'Rabbisiga',
+      'Alloh', 'Allohning', 'Allohga', 'Allohni', 'Allohdan',
+      'Allohdandir', 'Allohga', 'Allohim', 'Allohu',
+
+      // Robb / Rabb (Lord)
+      'Rabb', 'Robb', 'Rabbim', 'Rabbing', 'Rabbisi', 'Rabbisiga',
+      'Robbim', 'Robbing', 'Robbisi', 'Robbisiga', 'Robbimiz',
+      'Robbilaring', 'Robbingiz', 'Robbilari', 'Robbilarining',
+      'Robbiga', 'Robbimdan', 'Robbingdan', 'Robbisidan',
+      'Robbimizga', 'Robbimizdan', 'Robbimizning',
+
+      'Parvardigor', 'Parvardigorim', 'Parvardigoring', 'Parvardigori',
+      'Parvardigorimiz', 'Parvardigoringiz', 'Parvardigorlari',
+      'Parvardigoriga', 'Parvardigoridan', 'Parvardigorining',
+      'Parvardigorimizga', 'Parvardigorimizdan', 'Parvardigorimizning',
+
+      // Xudo (also used for God)
+      'Xudo', 'Xudoning', 'Xudoga', 'Xudoni', 'Xudodan',
+
+      // Iloh / Ilohim (deity)
+      'Iloh', 'Ilohim', 'Ilohingiz', 'Ilohing', 'Ilohi',
     ],
     'Xhosa': [
       'Allah', 'uAllah', 'u-Allah', 'kuAllah', 'ngoAllah', 'nguAllah',
       'kaAllah', 'ka-Allah', 'Nkosi', 'iNkosi', 'kwiNkosi', 'yeNkosi', 'eNkosini',
     ],
+    'Yao': [
+      'Allah',
+      'Ambuje ŵetu', 'Ambuje ŵangu', 'Ambuje ŵenu',
+      'M\'mbuje gwenu', 'M\'mbuje gwao',
+      'Ambujegwe', 'M\'mbujegwe',
+      'Ambuje',
+    ],
     'Yoruba': ['Allāhu', 'Allah', 'Allàh', 'Olúwa'],
-    'Zulu': [
-      'Allah', 'uAllah', 'u-Allah', 'kuAllah', 'kaAllah', 'ka-Allah',
-      'Nkosi', 'iNkosi', 'eNkosini', 'yeNkosi',
-    ],
     'Vietnamese': ['Thượng Đế', 'Allah'],
-    'Afar': ['Yalli', 'Alla', 'Allah'],
-    'Amharic': ['አላህ', 'አምላክ', 'ጌታ'],
-    'German': ['Allah', 'Gott', 'Herr'],
-    'Hausa': ['Allahu', 'Allah', 'Ubangiji'],
-    'Korean': ['알라', '하나님', '주님'],
-    'Malagasy': ['Tompo', 'Allah', 'Andriamanitra'],
-    'Oromo': [
-      'Rabbiitiin', 'Rabbiitiif', 'Rabbiinis', 'Rabbiiti', 'Rabbiin', 'Rabbiif',
-      'Rabbitti', 'Rabbii', 'Rabbi', 'Allaahi', 'Allaahn', 'Allahi', 'Allah', 'Waaqayyo',
+    'Zulu': [
+      'Allah', 'uAllah', 'u-Allah',
+      'kuAllah', 'kaAllah', 'ka-Allah', 'ngoAllah', 'nguAllah',
+      'Nkosi yethu', 'Nkosi yami', 'Nkosi yakho', 'Nkosi yenu', 'Nkosi yabo',
+      'eNkosini', 'yeNkosi', 'kwiNkosi', 'Nkosi',
+      'uNkulunkulu', 'Nkulunkulu',
+      'uNkulunkulu wethu', 'uNkulunkulu wami', 'uNkulunkulu wakho',
+      'uNkulunkulu wenu', 'uNkulunkulu wabo',
+      'uMdali',
     ],
-    'Portuguese': ['Allah', 'Senhor', 'Deus'],
-    'Swahili': ['Allah', 'Mwenyezi Mungu', 'Bwana'],
-    'Tajik': ['Аллоҳ', 'Худо', 'Парвардигор'],
-    // Languages that only existed in hadeeth_panel's list:
-    'Hungarian': [
-      'Allahnak', 'Allahtól', 'Allahot', 'Allah',
-      'Uram', 'Urunk', 'Uratok', 'Uruk', 'Úrnak', 'Úr',
-    ],
-    'Dutch': ['Allah', 'Heer'],
-    'Romanian': ['Allah', 'Domnul', 'Domn'],
   };
 
   static const Map<String, String> _languageAliases = {

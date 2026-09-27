@@ -2839,7 +2839,7 @@ class _QuranPanelState extends State<QuranPanel> {
                     TextButton(
                       onPressed: () => _showSurahListPopup(context),
                       child: Text('Surahs',
-                          style: const TextStyle(color: Colors.white, fontSize: 14)),
+                          style: const TextStyle(color: Colors.limeAccent, fontSize: 14)),
                     ),
                     const SizedBox(width: 4),
                     Tooltip(

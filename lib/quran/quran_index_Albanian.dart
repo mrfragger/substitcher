@@ -2,6 +2,33 @@ const String quranIndexAlbanianRaw = r"""
 Lutjet Manzil 1:1-7; 2:1-5, 163, 255-257, 284-286; 3:18, 26-27; 7:54-56, 117-122; 17:110-111; 23:115-118; 37:1-11; 55:33-40; 59:21-24; 72:1-4; 109:1-6; 112:1-4; 113:1-5; 114:1-6
 Lutjet (Zoti ynë) 2:127-128, 201, 250, 286; 3:8-9, 16, 53, 147, 191-194; 5:83, 114; 7:23, 47, 89, 126, 155; 10:85-88; 11:47; 12:101; 14:38-41; 17:80; 18:10; 20:114; 23:109, 118; 25:65-66, 74; 28:24; 40:7-9; 59:10; 60:4-7; 66:8
 Lutjet (Zoti im) 3:38; 12:33; 14:35-36; 19:3-6; 20:25-28, 45, 114; 21:83, 87, 89; 23:26, 29, 93-94, 97-98; 26:83-87, 169; 27:19; 28:16-17, 21; 29:30; 37:100; 38:35, 41; 46:15, 71:26-28
+Lutjet e Profetëve
+- Lutja e Profetit Adem dhe Havasë (Eva) 7:23
+- Profeti Al-Jasa (Eliseu) 6:86; 38:48
+- Sëmundja e Profetit Ejub (Job) dhe Lutja e Tij 21:83-84; 38:41-44
+- Profeti Dhul-Kifl (ndoshta Ezekieli) 21:85-86; 38:48
+- Profeti Idris (Enoku) 19:56-57; 21:85
+- Profeti Iljas (Elia) 37:123-132
+- Profeti Is'hak (Isaku) 11:71-73; 37:112-113
+- Profeti Salih 11:61; 26:142-159
+- Profeti Jahja (Gjon Pagëzori) 3:38; 19:7-15
+- Lutja e Profetit Ejub (Job) 21:83
+- Mirënjohja e Daudit (Davidit) dhe Sulejmanit (Solomonit) 27:15
+- Lutja e Musait (Moisiut) për Harunin (Aaronin) 20:29-32
+- Deklarata e Besimit të Profetit Hud te Allahu 11:56
+- Lutjet e Profetit Ibrahim (Abrahamit) 2:126; 2:127-128; 14:35-38; 14:40-41; 26:78-85; 26:87-89; 37:100; 60:4-5
+- Lutjet e Lidhura me Isain (Jezusin) 3:52-53; 5:114; 5:118
+- Lutja e Ibrahimit (Abrahamit) dhe Ismailit (Ismaelit) te Qabja 2:127-129
+- Lutjet e Profetit Lut (Lot) 26:169; 29:30
+- Lutjet e Profetit Muhamed në Kuran 17:80; 20:114; 21:112; 23:97-98; 23:118
+- Lutjet e Profetit Musa (Moisiu) 5:25; 7:151; 7:155-156; 20:25-28; 28:16-17; 28:21-22; 28:24
+- Lutjet e Profetit Nuh (Noe) 11:41; 11:47; 23:28-29; 54:10; 71:28
+- Lutjet dhe Besimi i Profetit Shuajb (ndoshta Jethro) 7:89; 11:88
+- Lutjet dhe Mirënjohja e Profetit Sulejman (Solomon) 27:15; 27:19; 27:40
+- Durimi dhe Lutjet e Profetit Jakub (Jakobi) 12:18; 12:67; 12:83; 12:86
+- Lutja e Profetit Junus (Jona) 21:87
+- Lutja e Profetit Jusuf (Jozefi) 12:101
+- Lutjet e Profetit Zekerija (Zakaria) 3:38; 19:4-5; 21:89
 Aaron (Harun) 2:248; 4:163; 6:84; 7:122, 142; 10:75; 19:28, 53; 20:30, 70, 90, 92; 21:48; 23:45; 25:35; 26:13, 48; 28:34; 37:114, 120
 'Abasa, S.80; 74:22
 Abdes (Abdes), 4:43; 5:6

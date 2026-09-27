@@ -848,19 +848,6 @@ Prophetic Duas
 - Dua of Prophet Yunus (Jonah) 21:87
 - Dua of Prophet Yusuf (Joseph) 12:101
 - Duas of Prophet Zakariya (Zechariah) 3:38; 19:4-5; 21:89
-Surah Themes
-- Stories of the Prophets S.10; S.11; S.12; S.14; S.19; S.21; S.28; S.37; S.71
-- Guidance for Life S.1; S.2; S.3; S.4; S.17; S.18; S.24; S.31; S.49
-- Comprehension of God S.1; S.55; S.59; S.67; S.112; S.113; S.114
-- Laws and Jurisprudence S.2; S.4; S.5; S.24; S.65
-- Patience and Hope S.12; S.18; S.21; S.29; S.31; S.94; S.103
-- The Afterlife S.56; S.69; S.75; S.76; S.78; S.81; S.82; S.83; S.84
-- Nature and Creation S.13; S.16; S.27; S.30; S.35; S.41; S.55
-- Ethics and Morality S.17; S.31; S.49; S.103; S.104; S.107
-- Women in Quran S.4; S.19; S.24; S.33; S.58; S.60; S.65; S.66
-- Science and Reason S.21; S.23; S.24; S.30; S.39; S.41; S.51; S.86
-- Supplications (Dua) S.1; S.3; S.14; S.25; S.28; S.40; S.59; S.66; S.71
-- Family and Relations S.4; S.14; S.19; S.25; S.31; S.46; S.64; S.66
 Aaron (Harun) 2:248; 4:163; 6:84; 7:122, 142; 10:75; 19:28, 53; 20:30, 70, 90, 92; 21:48; 23:45; 25:35; 26:13, 48; 28:34; 37:114, 120
 'Abasa, S.80; 74:22
 Ablutions (Wudu), 4:43; 5:6

@@ -613,7 +613,7 @@ class _QuranListPanelState extends State<QuranListPanel> {
           borderRadius: BorderRadius.circular(20),
           border: Border.all(
             color: selected ? Colors.amber : Colors.white24,
-            width: selected ? 1.4 : 1,
+            width: selected ? 3.0 : 1,
           ),
         ),
         child: Text(
@@ -643,7 +643,7 @@ class _QuranListPanelState extends State<QuranListPanel> {
           borderRadius: BorderRadius.circular(20),
           border: Border.all(
             color: color.withAlpha(selected ? 255 : 140),
-            width: selected ? 1.4 : 1,
+            width: selected ? 3.0 : 1,
           ),
         ),
         child: Text(

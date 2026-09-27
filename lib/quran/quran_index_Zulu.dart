@@ -2,6 +2,33 @@ const String quranIndexZuluRaw = r"""
 Imikhuleko yeManzil 1:1-7; 2:1-5, 163, 255-257, 284-286; 3:18, 26-27; 7:54-56, 117-122; 17:110-111; 23:115-118; 37:1-11; 55:33-40; 59:21-24; 72:1-4; 109:1-6; 112:1-4; 113:1-5; 114:1-6
 Nkosi yethu Imikhuleko 2:127-128, 201, 250, 286; 3:8-9, 16, 53, 147, 191-194; 5:83, 114; 7:23, 47, 89, 126, 155; 10:85-88; 11:47; 12:101; 14:38-41; 17:80; 18:10; 20:114; 23:109, 118; 25:65-66, 74; 28:24; 40:7-9; 59:10; 60:4-7; 66:8
 Nkosi yami Imikhuleko 3:38; 12:33; 14:35-36; 19:3-6; 20:25-28, 45, 114; 21:83, 87, 89; 23:26, 29, 93-94, 97-98; 26:83-87, 169; 27:19; 28:16-17, 21; 29:30; 37:100; 38:35, 41; 46:15, 71:26-28
+Imithandazo Yabaphrofethi
+- Umthandazo ka-Adamu noHawwa (Eva) 7:23
+- UMphrofethi Al-Yasa (Elisha) 6:86; 38:48
+- Isifo Sikamphrofethi Ayyub (Jobe) Nomthandazo Wakhe 21:83-84; 38:41-44
+- UMphrofethi Dhul-Kifl (mhlawumbe uEzekiyeli) 21:85-86; 38:48
+- UMphrofethi Idris (Enoke) 19:56-57; 21:85
+- UMphrofethi Ilyas (Eliya) 37:123-132
+- UMphrofethi Ishaq (Isaka) 11:71-73; 37:112-113
+- UMphrofethi Salih 11:61; 26:142-159
+- UMphrofethi Yahya (uJohane uMbhabhathizi) 3:38; 19:7-15
+- Umthandazo Kamphrofethi Ayyub (Jobe) 21:83
+- Ukubonga KukaDawud (Davide) noSulayman (Solomoni) 27:15
+- Umthandazo KaMusa NgoHarun (Aroni) 20:29-32
+- Isimemezelo Sikamphrofethi Hud Ngokuthembela KuAllah 11:56
+- Imithandazo Kamphrofethi Ibrahim (Abrahama) 2:126; 2:127-128; 14:35-38; 14:40-41; 26:78-85; 26:87-89; 37:100; 60:4-5
+- Imithandazo Ehlobene No-Isa (Jesu) 3:52-53; 5:114; 5:118
+- Umthandazo Ka-Ibrahim (Abrahama) No-Ismail Ka'bah 2:127-129
+- Imithandazo Kamphrofethi Lut (Loti) 26:169; 29:30
+- Imithandazo Kamphrofethi Muhammad KwiQur'an 17:80; 20:114; 21:112; 23:97-98; 23:118
+- Imithandazo Kamphrofethi Musa (Mose) 5:25; 7:151; 7:155-156; 20:25-28; 28:16-17; 28:21-22; 28:24
+- Imithandazo Kamphrofethi Nuh (Nowa) 11:41; 11:47; 23:28-29; 54:10; 71:28
+- Imithandazo Nokuthembela Kwamphrofethi Shuayb (mhlawumbe uJethro) 7:89; 11:88
+- Imithandazo Nokubonga Kwamphrofethi Sulayman (Solomoni) 27:15; 27:19; 27:40
+- Ukubekezela Nemithandazo Kamphrofethi Yaqub (Jakobe) 12:18; 12:67; 12:83; 12:86
+- Umthandazo Kamphrofethi Yunus (Jona) 21:87
+- Umthandazo Kamphrofethi Yusuf (Josefa) 12:101
+- Imithandazo Kamphrofethi Zakariya (Zakariya) 3:38; 19:4-5; 21:89
 u-Aroni ( uHaruni ) 2:248; 4:163; 6:84; 7:122, 142; 10:75; 19:28, 53; 20:30, 70, 90, 92; 21:48; 23:45; 25:35; 26:13, 48; 28:34; 37:114, 120 .
 'Abasa, S.80; 74:22
 Ukuhlanza (i-Wudu), 4:43; 5:6

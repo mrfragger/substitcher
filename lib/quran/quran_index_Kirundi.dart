@@ -2,6 +2,33 @@ const String quranIndexKirundiRaw = r"""
 Isengesho rya Manzil 1:1-7; 2:1-5, 163, 255-257, 284-286; 3:18, 26-27; 7:54-56, 117-122; 17:110-111; 23:115-118; 37:1-11; 55:33-40; 59:21-24; 72:1-4; 109:1-6; 112:1-4; 113:1-5; 114:1-6
 Mukama wacu Amasengesho 2:127-128, 201, 250, 286; 3:8-9, 16, 53, 147, 191-194; 5:83, 114; 7:23, 47, 89, 126, 155; 10:85-88; 11:47; 12:101; 14:38-41; 17:80; 18:10; 20:114; 23:109, 118; 25:65-66, 74; 28:24; 40:7-9; 59:10; 60:4-7; 66:8
 Mukama wanje Amasengesho 3:38; 12:33; 14:35-36; 19:3-6; 20:25-28, 45, 114; 21:83, 87, 89; 23:26, 29, 93-94, 97-98; 26:83-87, 169; 27:19; 28:16-17, 21; 29:30; 37:100; 38:35, 41; 46:15, 71:26-28
+Amasengesho y'Abavugishwa
+- Isengesho rya Adamu na Hawa (Eva) 7:23
+- Umuvugishwa Al-Yasa (Elisa) 6:86; 38:48
+- Indwara y'Umuvugishwa Ayubu (Yobu) n'Isengesho Ryiwe 21:83-84; 38:41-44
+- Umuvugishwa Dhul-Kifl (bishoboka ko ari Ezekiyeli) 21:85-86; 38:48
+- Umuvugishwa Idrisi (Enoki) 19:56-57; 21:85
+- Umuvugishwa Iliyasi (Eliya) 37:123-132
+- Umuvugishwa Ishaka (Isaka) 11:71-73; 37:112-113
+- Umuvugishwa Salihi 11:61; 26:142-159
+- Umuvugishwa Yahaya (Yohani Umubatizi) 3:38; 19:7-15
+- Isengesho ry'Umuvugishwa Ayubu (Yobu) 21:83
+- Ushimwe kwa Dawudi (Dawidi) na Sulayimani (Salomo) 27:15
+- Isengesho rya Musa Ashakira Haruna (Aroni) 20:29-32
+- Itangazo ry'Umuvugishwa Hudi ku Kwizera Allah 11:56
+- Amasengesho y'Umuvugishwa Ibrahimu (Aburahamu) 2:126; 2:127-128; 14:35-38; 14:40-41; 26:78-85; 26:87-89; 37:100; 60:4-5
+- Amasengesho Ajanye na Issa (Yesu) 3:52-53; 5:114; 5:118
+- Isengesho rya Ibrahimu (Aburahamu) na Ismaili (Isimayeli) kuri Kaaba 2:127-129
+- Amasengesho y'Umuvugishwa Luti (Loti) 26:169; 29:30
+- Amasengesho y'Umuvugishwa Muhamadi muri Qur'an 17:80; 20:114; 21:112; 23:97-98; 23:118
+- Amasengesho y'Umuvugishwa Musa (Musa) 5:25; 7:151; 7:155-156; 20:25-28; 28:16-17; 28:21-22; 28:24
+- Amasengesho y'Umuvugishwa Nuhu (Nowa) 11:41; 11:47; 23:28-29; 54:10; 71:28
+- Amasengesho n'Ikizera vy'Umuvugishwa Shuayibu (bishoboka ko ari Yetero) 7:89; 11:88
+- Amasengesho n'Ushimwe vy'Umuvugishwa Sulayimani (Salomo) 27:15; 27:19; 27:40
+- Kwihangana n'Amasengesho vy'Umuvugishwa Yaqubu (Yakobo) 12:18; 12:67; 12:83; 12:86
+- Isengesho ry'Umuvugishwa Yunusi (Yona) 21:87
+- Isengesho ry'Umuvugishwa Yusufu (Yozefu) 12:101
+- Amasengesho y'Umuvugishwa Zakariya (Zekariya) 3:38; 19:4-5; 21:89
 Haruni (Harun) 2:248; 4:163; 6:84; 7:122, 142; 10:75; 19:28, 53; 20:30, 70, 90, 92; 21:48; 23:45; 25:35; 26:13, 48; 28:34; 37:114, 120
 'Abasa, S.80; 74:22
 Gukaraba (Wudu), 4:43; 5:6

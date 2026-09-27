@@ -2,6 +2,33 @@ const String quranIndexMalagasyRaw = r"""
 Vavaka Manzil 1:1-7; 2:1-5, 163, 255-257, 284-286; 3:18, 26-27; 7:54-56, 117-122; 17:110-111; 23:115-118; 37:1-11; 55:33-40; 59:21-24; 72:1-4; 109:1-6; 112:1-4; 113:1-5; 114:1-6
 Tompontsika Vavaka 2:127-128, 201, 250, 286; 3:8-9, 16, 53, 147, 191-194; 5:83, 114; 7:23, 47, 89, 126, 155; 10:85-88; 11:47; 12:101; 14:38-41; 17:80; 18:10; 20:114; 23:109, 118; 25:65-66, 74; 28:24; 40:7-9; 59:10; 60:4-7; 66:8
 Tompoko Vavaka 3:38; 12:33; 14:35-36; 19:3-6; 20:25-28, 45, 114; 21:83, 87, 89; 23:26, 29, 93-94, 97-98; 26:83-87, 169; 27:19; 28:16-17, 21; 29:30; 37:100; 38:35, 41; 46:15, 71:26-28
+Vavaky ny Mpaminany
+- Vavak'i Adama sy Hawa (Eva) 7:23
+- Mpaminany Al-Yasa (Elisha) 6:86; 38:48
+- Aretin'i Mpaminany Ayyub (Joba) sy ny Vavany 21:83-84; 38:41-44
+- Mpaminany Dhul-Kifl (angamba Ezekiela) 21:85-86; 38:48
+- Mpaminany Idris (Enoka) 19:56-57; 21:85
+- Mpaminany Ilyas (Elia) 37:123-132
+- Mpaminany Ishaq (Isaka) 11:71-73; 37:112-113
+- Mpaminany Salih 11:61; 26:142-159
+- Mpaminany Yahya (Jaona Mpanao Batisa) 3:38; 19:7-15
+- Vavak'i Mpaminany Ayyub (Joba) 21:83
+- Fankasitrahan'i Dawud (Davida) sy Sulayman (Solomona) 27:15
+- Vavak'i Musa ho an'i Harun (Arona) 20:29-32
+- Fanambaran'i Mpaminany Hud momba ny Fitokiana amin'Allah 11:56
+- Vavak'i Mpaminany Ibrahim (Abrahama) 2:126; 2:127-128; 14:35-38; 14:40-41; 26:78-85; 26:87-89; 37:100; 60:4-5
+- Vavaka Mifandray amin'i Isa (Jesosy) 3:52-53; 5:114; 5:118
+- Vavak'i Ibrahim (Abrahama) sy Ismail (Isimaela) tao amin'ny Ka'bah 2:127-129
+- Vavak'i Mpaminany Lut (Lota) 26:169; 29:30
+- Vavak'i Mpaminany Muhammad ao amin'ny Quran 17:80; 20:114; 21:112; 23:97-98; 23:118
+- Vavak'i Mpaminany Musa (Mosesy) 5:25; 7:151; 7:155-156; 20:25-28; 28:16-17; 28:21-22; 28:24
+- Vavak'i Mpaminany Nuh (Noa) 11:41; 11:47; 23:28-29; 54:10; 71:28
+- Vavaka sy Fitokiana ny Mpaminany Shuayb (angamba Jetro) 7:89; 11:88
+- Vavaka sy Fankasitrahan'i Mpaminany Sulayman (Solomona) 27:15; 27:19; 27:40
+- Faharetana sy Vavak'i Mpaminany Yaqub (Jakoba) 12:18; 12:67; 12:83; 12:86
+- Vavak'i Mpaminany Yunus (Jona) 21:87
+- Vavak'i Mpaminany Yusuf (Josefa) 12:101
+- Vavak'i Mpaminany Zakariya (Zakaria) 3:38; 19:4-5; 21:89
 Arona (Harona) 2:248; 4:163; 6:84; 7:122, 142; 10:75; 19:28, 53; 20:30, 70, 90, 92; 21:48; 23:45; 25:35; 26:13, 48; 28:34; 37:114, 120.
 'Abasa, S.80; 74:22
 Fisasana (Wudu), 4:43; 5:6
