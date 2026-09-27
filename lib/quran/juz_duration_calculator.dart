@@ -153,6 +153,7 @@ void _accumulateAyahDurations(List<_Cue> cues, Map<String, Duration> out) {
 
 // dirPath -> 30 Juz durations (seconds), cached for the session.
 final Map<String, List<int>> _juzDurationsCache = {};
+final Map<String, Map<String, Duration>> _ayahDurationsCache = {};
 final Map<String, Future<List<int>?>> _juzDurationsInFlight = {};
 
 /// Computes (or returns cached) Juz durations in seconds from every .vtt
@@ -194,6 +195,8 @@ Future<List<int>?> _computeJuzDurationsForDirectoryUncached(
     _accumulateAyahDurations(cues, ayahDurations);
   }
 
+  _ayahDurationsCache[dirPath] = ayahDurations;
+
   final result = <int>[];
   for (final segments in juzSegments) {
     Duration total = Duration.zero;
@@ -206,6 +209,34 @@ Future<List<int>?> _computeJuzDurationsForDirectoryUncached(
     result.add(total.inSeconds);
   }
   return result;
+}
+
+/// Raw per-ayah durations for [dirPath], available once
+/// [computeJuzDurationsForDirectory] has resolved for that directory.
+Map<String, Duration>? getCachedAyahDurations(String dirPath) =>
+    _ayahDurationsCache[dirPath];
+
+/// Sums cached ayah durations across arbitrary (surah, from, to) ranges —
+/// works for Juz, Hizb, Rub, or any other ref grouping.
+int sumAyahDurationsSeconds(
+  Map<String, Duration>? ayahDurations,
+  List<(int surah, int from, int to)> ranges,
+) {
+  if (ayahDurations == null) return 0;
+  int total = 0;
+  for (final r in ranges) {
+    for (int ayah = r.$2; ayah <= r.$3; ayah++) {
+      final d = ayahDurations['${r.$1}:$ayah'];
+      if (d != null) total += d.inSeconds;
+    }
+  }
+  return total;
+}
+
+String formatSecondsDuration(int totalSeconds) {
+  if (totalSeconds <= 0) return '';
+  final mins = (totalSeconds / 60).round();
+  return mins >= 60 ? '${mins ~/ 60}h ${mins % 60}m' : '${mins}m';
 }
 
 String formatJuzDuration(List<int>? juzDurations, int juzNumber) {

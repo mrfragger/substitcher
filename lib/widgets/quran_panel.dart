@@ -60,6 +60,7 @@ class QuranPanel extends StatefulWidget {
   final Function(String) onExcludeChanged;
   final String selectedLanguage;
   final List<int>? juzDurations;
+  final Map<String, Duration>? ayahDurations;
   final Function(String) onLanguageChanged;
   final Function(List<QuranVerseRef> refs, int filteredIndex)? onPlayAllRequested;
   final Function(QuranVerseRef range, int repeatCount)? onRepeatRangeRequested;
@@ -96,6 +97,7 @@ class QuranPanel extends StatefulWidget {
     this.onPlayAllRequested,
     this.onRepeatRangeRequested,
     this.juzDurations,
+    this.ayahDurations,
     this.lastQuranAudiobook,
     this.onOpenAudiobook,
   });
@@ -423,6 +425,16 @@ class _QuranPanelState extends State<QuranPanel> {
     );
   }
 
+  String _formatEntryDuration(List<QuranVerseRef> refs) {
+    final ayahDurations = widget.ayahDurations;
+    if (ayahDurations == null || refs.isEmpty) return '';
+    final ranges = refs.map((r) {
+      final to = r.isFullSurah ? quranVerseCounts[r.surah]! : (r.toAyah ?? r.fromAyah);
+      return (r.surah, r.fromAyah, to);
+    }).toList();
+    return formatSecondsDuration(sumAyahDurationsSeconds(ayahDurations, ranges));
+  }
+
   Future<void> _openAllahAudiobooksLink() async {
     final uri = Uri.parse('https://t.me/AllahAudiobooks');
     if (await canLaunchUrl(uri)) {
@@ -460,7 +472,7 @@ class _QuranPanelState extends State<QuranPanel> {
       ),
     ];
 
-    if (category == 'Juz') {
+    if (category == 'Juz' || category == 'Hizb' || category == 'Rub') {
       final totalDuration = formatTotalJuzDuration(widget.juzDurations);
       if (totalDuration.isNotEmpty) {
         spans.add(TextSpan(
@@ -510,18 +522,22 @@ class _QuranPanelState extends State<QuranPanel> {
         _ => null,
       };
 
-  int? _averageDivisorForTopic(String topic) {
-    switch (topic) {
-      case 'Juz':
-        return 30;
-      case '14Day':
-        return 14;
-      case '10Day':
-        return 10;
-      default:
-        return null;
-    }
-  }
+      int? _averageDivisorForTopic(String topic) {
+        switch (topic) {
+          case 'Juz':
+            return 30;
+          case 'Hizb (1/2)':
+            return 60;
+          case 'Rub (1/8)':
+            return 240;
+          case '14Day':
+            return 14;
+          case '10Day':
+            return 10;
+          default:
+            return null;
+        }
+      }
 
   Set<int> _completionSetFor(String category, {int track = 0}) {
     if (track == 1) {
@@ -3078,15 +3094,14 @@ class _QuranPanelState extends State<QuranPanel> {
                                             _buildCompletionCheckbox(entry.topic),
                                             Builder(builder: (_) {
                                               final parsed = _parseJuzHizbRubTopic(entry.topic);
-                                              if (parsed == null || parsed.$1 != 'Juz') return const SizedBox.shrink();
-                                              final label = formatJuzDuration(widget.juzDurations, parsed.$2);
+                                              if (parsed == null) return const SizedBox.shrink();
+                                              final label = parsed.$1 == 'Juz'
+                                                  ? formatJuzDuration(widget.juzDurations, parsed.$2)
+                                                  : _formatEntryDuration(entry.refs);
                                               if (label.isEmpty) return const SizedBox.shrink();
                                               return Padding(
                                                 padding: const EdgeInsets.only(left: 6),
-                                                child: Text(
-                                                  label,
-                                                  style: TextStyle(color: Colors.amber[200], fontSize: 11),
-                                                ),
+                                                child: Text(label, style: TextStyle(color: Colors.amber[200], fontSize: 11)),
                                               );
                                             }),
                                             const Spacer(),

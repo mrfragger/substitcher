@@ -719,88 +719,109 @@ class PlayerControls extends StatelessWidget {
                 value: 'subtitle_manager',
                 child: Text('Subtitle Manager (v)'),
               ),
-            PopupMenuItem(
-              enabled: false,
-              child: PopupMenuButton<PauseMode>(
-                child: const Text('Pause Mode >'),
-                onSelected: onPauseModeChanged,
-                itemBuilder: (context) => [
-                  PopupMenuItem(
-                    value: PauseMode.disabled,
-                    child: Row(
-                      children: [
-                        if (pauseMode == PauseMode.disabled)
-                          const Icon(Icons.check, size: 16),
-                        if (pauseMode == PauseMode.disabled)
-                          const SizedBox(width: 8),
-                        const Text('Disable Pause Mode (G)'),
-                      ],
-                    ),
+              PopupMenuItem(
+                enabled: false,
+                child: PopupMenuButton<PauseMode>(
+                  child: const Text(
+                    'Pause Mode Menu',
+                    style: TextStyle(color: Colors.amber),
                   ),
-                  PopupMenuItem(
-                    value: PauseMode.pause2s,
-                    child: Row(
-                      children: [
-                        if (pauseMode == PauseMode.pause2s)
-                          const Icon(Icons.check, size: 16),
-                        if (pauseMode == PauseMode.pause2s)
-                          const SizedBox(width: 8),
-                        const Text('Pause Mode 2s (g)'),
-                      ],
+                  onSelected: onPauseModeChanged,
+                  itemBuilder: (context) => [
+                    PopupMenuItem(
+                      value: PauseMode.disabled,
+                      child: Row(
+                        children: [
+                          if (pauseMode == PauseMode.disabled)
+                            const Icon(Icons.check, size: 16, color: Colors.amber),
+                          if (pauseMode == PauseMode.disabled)
+                            const SizedBox(width: 8),
+                          const Text(
+                            'Disable Pause Mode (g)',
+                            style: TextStyle(color: Colors.amber),
+                          ),
+                        ],
+                      ),
                     ),
-                  ),
-                  PopupMenuItem(
-                    value: PauseMode.pause3s,
-                    child: Row(
-                      children: [
-                        if (pauseMode == PauseMode.pause3s)
-                          const Icon(Icons.check, size: 16),
-                        if (pauseMode == PauseMode.pause3s)
-                          const SizedBox(width: 8),
-                        const Text('Pause Mode 3s'),
-                      ],
+                    PopupMenuItem(
+                      value: PauseMode.pause2s,
+                      child: Row(
+                        children: [
+                          if (pauseMode == PauseMode.pause2s)
+                            const Icon(Icons.check, size: 16, color: Colors.amber),
+                          if (pauseMode == PauseMode.pause2s)
+                            const SizedBox(width: 8),
+                          const Text(
+                            'Pause Mode 2s (⇧G)',
+                            style: TextStyle(color: Colors.amber),
+                          ),
+                        ],
+                      ),
                     ),
-                  ),
-                  PopupMenuItem(
-                    value: PauseMode.pause5s,
-                    child: Row(
-                      children: [
-                        if (pauseMode == PauseMode.pause5s)
-                          const Icon(Icons.check, size: 16),
-                        if (pauseMode == PauseMode.pause5s)
-                          const SizedBox(width: 8),
-                        const Text('Pause Mode 5s'),
-                      ],
+                    PopupMenuItem(
+                      value: PauseMode.pause3s,
+                      child: Row(
+                        children: [
+                          if (pauseMode == PauseMode.pause3s)
+                            const Icon(Icons.check, size: 16, color: Colors.amber),
+                          if (pauseMode == PauseMode.pause3s)
+                            const SizedBox(width: 8),
+                          const Text(
+                            'Pause Mode 3s',
+                            style: TextStyle(color: Colors.amber),
+                          ),
+                        ],
+                      ),
                     ),
-                  ),
-                  PopupMenuItem(
-                    value: PauseMode.pause10s,
-                    child: Row(
-                      children: [
-                        if (pauseMode == PauseMode.pause10s)
-                          const Icon(Icons.check, size: 16),
-                        if (pauseMode == PauseMode.pause10s)
-                          const SizedBox(width: 8),
-                        const Text('Pause Mode 10s'),
-                      ],
+                    PopupMenuItem(
+                      value: PauseMode.pause5s,
+                      child: Row(
+                        children: [
+                          if (pauseMode == PauseMode.pause5s)
+                            const Icon(Icons.check, size: 16, color: Colors.amber),
+                          if (pauseMode == PauseMode.pause5s)
+                            const SizedBox(width: 8),
+                          const Text(
+                            'Pause Mode 5s',
+                            style: TextStyle(color: Colors.amber),
+                          ),
+                        ],
+                      ),
                     ),
-                  ),
-                  PopupMenuItem(
-                    value: PauseMode.dictionary,
-                    child: Row(
-                      children: [
-                        if (pauseMode == PauseMode.dictionary)
-                          const Icon(Icons.check, size: 16),
-                        if (pauseMode == PauseMode.dictionary)
-                          const SizedBox(width: 8),
-                        const Text('Dictionary Mode (d)'),
-                      ],
+                    PopupMenuItem(
+                      value: PauseMode.pause10s,
+                      child: Row(
+                        children: [
+                          if (pauseMode == PauseMode.pause10s)
+                            const Icon(Icons.check, size: 16, color: Colors.amber),
+                          if (pauseMode == PauseMode.pause10s)
+                            const SizedBox(width: 8),
+                          const Text(
+                            'Pause Mode 10s',
+                            style: TextStyle(color: Colors.amber),
+                          ),
+                        ],
+                      ),
                     ),
-                  ),
-                ],
+                    PopupMenuItem(
+                      value: PauseMode.dictionary,
+                      child: Row(
+                        children: [
+                          if (pauseMode == PauseMode.dictionary)
+                            const Icon(Icons.check, size: 16, color: Colors.amber),
+                          if (pauseMode == PauseMode.dictionary)
+                            const SizedBox(width: 8),
+                          const Text(
+                            'Dictionary Mode (d)',
+                            style: TextStyle(color: Colors.amber),
+                          ),
+                        ],
+                      ),
+                    ),
+                  ],
+                ),
               ),
-            ),
-          ],
+           ],
         ),
         const SizedBox(width: 8),
 

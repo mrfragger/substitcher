@@ -455,7 +455,12 @@ print('DONE', flush=True)
                 Expanded(
                   child: Text(
                     _transliterationStatus,
-                    style: const TextStyle(color: Colors.white70, fontSize: 12),
+                    style: const TextStyle(
+                      color: Colors.white70,
+                      fontSize: 12,
+                      fontFamily: 'CustomFonts',
+                      fontFeatures: [FontFeature.tabularFigures()],
+                    ),
                   ),
                 ),
               ],
@@ -513,8 +518,8 @@ print('DONE', flush=True)
       _quranPreset = enabled;
       if (!enabled) return;
 
-      _author = 'Quran';
-      _authorController.text = 'Quran';
+      _author = 'Quran Arabic';
+      _authorController.text = 'Quran Arabic';
 
       _audioRepetitions = 1;
       _bitrate = 32;
@@ -1869,6 +1874,8 @@ print('DONE', flush=True)
                   style: const TextStyle(
                     color: Colors.white,
                     fontSize: 14,
+                    fontFamily: 'CustomFonts',
+                    fontFeatures: [FontFeature.tabularFigures()],
                   ),
                 ),
               ),
@@ -1876,14 +1883,16 @@ print('DONE', flush=True)
           ),
           const SizedBox(height: 8),
           if (elapsedTime.isNotEmpty)
-            Text(
-              'Elapsed Time: $elapsedTime',
-              style: const TextStyle(
-                color: Colors.redAccent,
-                fontSize: 12,
-                fontWeight: FontWeight.bold,
-              ),
+          Text(
+            'Elapsed Time: $elapsedTime',
+            style: const TextStyle(
+              color: Colors.redAccent,
+              fontSize: 12,
+              fontWeight: FontWeight.bold,
+              fontFamily: 'CustomFonts',
+              fontFeatures: [FontFeature.tabularFigures()],
             ),
+          ),
           const SizedBox(height: 16),
           LinearProgressIndicator(
             value: _processingProgress,

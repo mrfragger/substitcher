@@ -252,6 +252,7 @@ class _PlayerScreenState extends State<PlayerScreen>
   List<QuranAyahSearchHit> _quranVerseSearchResults = [];
   bool _quranVerseIndexBuilding = false;
   List<int>? _quranJuzDurations;
+  Map<String, Duration>? _quranAyahDurations;
 
   String _defaultFont = 'System Default';
   String? _defaultColorPalette;
@@ -627,15 +628,22 @@ class _PlayerScreenState extends State<PlayerScreen>
 
     Future<void> _refreshQuranJuzDurations() async {
       if (!_isQuranVerseByVerse || _subtitleFilePath == null) {
-        if (_quranJuzDurations != null) {
-          setState(() => _quranJuzDurations = null);
+        if (_quranJuzDurations != null || _quranAyahDurations != null) {
+          setState(() {
+            _quranJuzDurations = null;
+            _quranAyahDurations = null;
+          });
         }
         return;
       }
       final dirPath = path.dirname(_subtitleFilePath!);
       final durations = await computeJuzDurationsForDirectory(dirPath);
+      final ayahDurations = getCachedAyahDurations(dirPath);
       if (mounted) {
-        setState(() => _quranJuzDurations = durations);
+        setState(() {
+          _quranJuzDurations = durations;
+          _quranAyahDurations = ayahDurations;
+        });
       }
     }
 
@@ -8021,20 +8029,6 @@ class _PlayerScreenState extends State<PlayerScreen>
               event is KeyDownEvent) {
             if (HardwareKeyboard.instance.isShiftPressed) {
               setState(() {
-                _pauseMode = PauseMode.disabled;
-                _nextPauseTime = null;
-                _pauseModeTimer?.cancel();
-              });
-              if (mounted) {
-                ScaffoldMessenger.of(context).showSnackBar(
-                  const SnackBar(
-                    content: Text('Pause Mode >: Disabled'),
-                    duration: Duration(seconds: 1),
-                  ),
-                );
-              }
-            } else {
-              setState(() {
                 _pauseMode = PauseMode.pause2s;
                 if (_currentSubtitleIndex != null &&
                     _currentSubtitleIndex! < _subtitles.length) {
@@ -8047,6 +8041,20 @@ class _PlayerScreenState extends State<PlayerScreen>
                 ScaffoldMessenger.of(context).showSnackBar(
                   const SnackBar(
                     content: Text('Pause Mode: 2s'),
+                    duration: Duration(seconds: 1),
+                  ),
+                );
+              }
+            } else {
+              setState(() {
+                _pauseMode = PauseMode.disabled;
+                _nextPauseTime = null;
+                _pauseModeTimer?.cancel();
+              });
+              if (mounted) {
+                ScaffoldMessenger.of(context).showSnackBar(
+                  const SnackBar(
+                    content: Text('Pause Mode: Disabled'),
                     duration: Duration(seconds: 1),
                   ),
                 );
@@ -9081,6 +9089,7 @@ class _PlayerScreenState extends State<PlayerScreen>
                   quranIndexLanguage: _quranIndexLanguage,
                   onQuranLanguageChanged: _onQuranLanguageChanged,
                   quranJuzDurations: _quranJuzDurations,
+                  quranAyahDurations: _quranAyahDurations,
                   getLastQuranVerseByVerse: () {
                     for (final h in _history) {
                       if (isQuranVerseByVersePath(h.audiobookPath)) return h;
