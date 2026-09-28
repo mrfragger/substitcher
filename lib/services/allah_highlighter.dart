@@ -670,7 +670,9 @@ class AllahHighlighter {
     'Vietnamese': ['Thượng Đế', 'Allah'],
     'Zulu': [
       'Allah', 'uAllah', 'u-Allah',
-      'kuAllah', 'kaAllah', 'ka-Allah', 'ngoAllah', 'nguAllah',
+      'kuAllah', 'kaAllah', 'ka-Allah',
+      'KuAllah', 'KaAllah', 'Ka-Allah',
+      'ngoAllah', 'nguAllah',
       'Nkosi yethu', 'Nkosi yami', 'Nkosi yakho', 'Nkosi yenu', 'Nkosi yabo',
       'eNkosini', 'yeNkosi', 'kwiNkosi', 'Nkosi',
       'uNkulunkulu', 'Nkulunkulu',

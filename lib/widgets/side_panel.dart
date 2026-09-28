@@ -520,8 +520,8 @@ class SidePanel extends StatelessWidget {
                       context, 'Quran', PanelMode.quran, quranEntries.length),
                   _buildTabButton(
                       context, 'List', PanelMode.quranList, 4832),
-                  _buildTabButton(context, '⌘Quiz', PanelMode.quiz, 157),
-                  _buildTabButton(context, '⌘Related', PanelMode.related, 157),
+                  _buildTabButton(context, '⌘Quiz', PanelMode.quiz, 158),
+                  _buildTabButton(context, '⌘Related', PanelMode.related, 158),
                   _buildTabButton(context, 'Alif', PanelMode.alif, alifAlphabet.length),
                   _buildTabButton(
                       context, 'LUTs', PanelMode.luts, 508),
@@ -3083,17 +3083,32 @@ class _WordsPanelState extends State<_WordsPanel> {
         for (final wordCount in widget.orderedKeys) {
           final items = widget.limitedGroups[wordCount]!;
           if (index == currentIndex) {
-            final label = wordCount == 1
+            final title = wordCount == 1
                 ? 'Top 500 Words (${items.length})'
                 : '$wordCount-Word Phrases (${items.length})';
             return Padding(
               padding: const EdgeInsets.only(top: 16, bottom: 8),
-              child: Text(
-                label,
-                style: TextStyle(
-                  color: Colors.purple[200],
-                  fontSize: 16,
-                  fontWeight: FontWeight.bold,
+              child: Text.rich(
+                TextSpan(
+                  children: [
+                    TextSpan(
+                      text: title,
+                      style: TextStyle(
+                        color: Colors.purple[200],
+                        fontSize: 16,
+                        fontWeight: FontWeight.bold,
+                      ),
+                    ),
+                    if (wordCount != 1)
+                      const TextSpan(
+                        text: '  clicking searches and copies to clipboard',
+                        style: TextStyle(
+                          color: Colors.lightBlueAccent,
+                          fontSize: 11,
+                          fontWeight: FontWeight.normal,
+                        ),
+                      ),
+                  ],
                 ),
               ),
             );
@@ -3113,7 +3128,7 @@ class _WordsPanelState extends State<_WordsPanel> {
 
   Widget _buildSingleCategoryList(int wordCount) {
     final items = widget.limitedGroups[wordCount] ?? [];
-    final label = wordCount == 1
+    final title = wordCount == 1
         ? 'Top 500 Words (${items.length})'
         : '$wordCount-Word Phrases (${items.length})';
 
@@ -3125,12 +3140,27 @@ class _WordsPanelState extends State<_WordsPanel> {
         if (index == 0) {
           return Padding(
             padding: const EdgeInsets.only(bottom: 16),
-            child: Text(
-              label,
-              style: TextStyle(
-                color: Colors.purple[200],
-                fontSize: 16,
-                fontWeight: FontWeight.bold,
+            child: Text.rich(
+              TextSpan(
+                children: [
+                  TextSpan(
+                    text: title,
+                    style: TextStyle(
+                      color: Colors.purple[200],
+                      fontSize: 16,
+                      fontWeight: FontWeight.bold,
+                    ),
+                  ),
+                  if (wordCount != 1)
+                    const TextSpan(
+                      text: '  clicking searches and copies to clipboard',
+                      style: TextStyle(
+                        color: Colors.lightBlueAccent,
+                        fontSize: 11,
+                        fontWeight: FontWeight.normal,
+                      ),
+                    ),
+                ],
               ),
             ),
           );

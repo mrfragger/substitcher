@@ -787,13 +787,13 @@ print('DONE', flush=True)
                     const SizedBox(height: 32),
                     if (_isProcessing) ...[
                       _buildProcessingProgress(),
-                      const SizedBox(height: 32),
+                      const SizedBox(height: 4),
                     ],
                   ],
                 ),
               ),
             ),
-            const SizedBox(height: 16),
+            const SizedBox(height: 4),
             _buildConversionControls(),
           ],
         ),
@@ -1879,19 +1879,19 @@ print('DONE', flush=True)
                   ),
                 ),
               ),
+              if (elapsedTime.isNotEmpty) ...[
+                const SizedBox(width: 12),
+                Text(
+                  'Elapsed Time: $elapsedTime',
+                  style: const TextStyle(
+                    color: Colors.redAccent,
+                    fontSize: 14,
+                    fontFamily: 'CustomFonts',
+                    fontFeatures: [FontFeature.tabularFigures()],
+                  ),
+                ),
+              ],
             ],
-          ),
-          const SizedBox(height: 8),
-          if (elapsedTime.isNotEmpty)
-          Text(
-            'Elapsed Time: $elapsedTime',
-            style: const TextStyle(
-              color: Colors.redAccent,
-              fontSize: 12,
-              fontWeight: FontWeight.bold,
-              fontFamily: 'CustomFonts',
-              fontFeatures: [FontFeature.tabularFigures()],
-            ),
           ),
           const SizedBox(height: 16),
           LinearProgressIndicator(
