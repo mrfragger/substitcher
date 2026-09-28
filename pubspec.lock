@@ -161,6 +161,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.0.9"
+  dart_jieba:
+    dependency: "direct main"
+    description:
+      name: dart_jieba
+      sha256: "54f892c7319dd1f7131220b78a61033141c3ef63e5c5d7ac2d408cb81f028ed3"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.0.1"
   dbus:
     dependency: transitive
     description:
@@ -1093,6 +1101,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.5.1"
+  word_thai_split:
+    dependency: "direct main"
+    description:
+      name: word_thai_split
+      sha256: cb735f9c0d2e53a317be9d7ee1066da78df1fbe95f2c998bf63b6d35ad987ac7
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.0.2"
   xdg_directories:
     dependency: transitive
     description:

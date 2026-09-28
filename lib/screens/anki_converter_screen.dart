@@ -7,8 +7,11 @@ import 'package:csv/csv.dart';
 import 'package:flutter/services.dart';
 import 'dart:io';
 import 'dart:convert';
+import 'dart:async';
 import '../services/anki_service.dart';
 import '../services/ffmpeg_service.dart';
+import '../services/quran_tokenizers.dart';
+import '../services/quran_pipeline_service.dart';
 
 class AnkiConverterScreen extends StatefulWidget {
   const AnkiConverterScreen({super.key});
@@ -75,12 +78,37 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
   int? _suraColumn;
   int? _ayaColumn;
 
+  late final QuranTokenizers _tokenizers;
+  late final QuranPipelineService _quranService;
+  final TextEditingController _reciterController =
+      TextEditingController(text: 'Alafasy Verse by Verse');
+  bool _quranBusy = false;
+  bool _quranBatch = false;
+  bool _quranDoVtt = true;
+  String? _quranRoot;
+  String? _quranLanguage;
+  List<String> _quranLanguageDirs = [];
+  String _quranStatus = '';
+  double _quranProgress = 0.0;
+  final List<String> _quranLog = [];
+  Timer? _logTimer;
+
+  @override
+  void initState() {
+    super.initState();
+    _tokenizers = QuranTokenizers(pythonExecutable: _pythonExecutable, log: _quranLogAdd);
+    _quranService = QuranPipelineService(tokenizers: _tokenizers, log: _quranLogAdd);
+  }
+
   @override
   void dispose() {
     _scrollController.dispose();
     _csvScrollController.dispose();
     _titleController.dispose();
     _authorController.dispose();
+    _tokenizers.dispose();
+    _reciterController.dispose();
+    _logTimer?.cancel();
     super.dispose();
   }
 
@@ -748,6 +776,10 @@ print('DONE', flush=True)
                   children: [
                     _buildHiraganaSection(),
                     const SizedBox(height: 24),
+                    _buildOrganizeMediaSection(),
+                    const SizedBox(height: 24),
+                    _buildQuranVttSection(),
+                    const SizedBox(height: 24),
                     _buildApkgFileSection(),
                     const SizedBox(height: 24),
                     _buildOutputDirectorySection(),
@@ -797,6 +829,325 @@ print('DONE', flush=True)
             _buildConversionControls(),
           ],
         ),
+      ),
+    );
+  }
+
+  Future<void> _runOrganizeMedia() async {
+    final dir = await FilePicker.platform.getDirectoryPath(
+      dialogTitle: 'Select folder containing the verse-by-verse mp3 files',
+    );
+    if (dir == null) return;
+    setState(() {
+      _quranBusy = true;
+      _quranStatus = 'Organizing mp3 files...';
+      _quranProgress = 0;
+      _quranLog.clear();
+    });
+    try {
+      await _quranService.organizeMedia(dir);
+      setState(() => _quranStatus = 'Organize complete');
+    } catch (e) {
+      setState(() => _quranStatus = 'Error: $e');
+    } finally {
+      if (mounted) setState(() => _quranBusy = false);
+    }
+  }
+
+  Future<void> _selectQuranRoot() async {
+    final dir = await FilePicker.platform.getDirectoryPath(
+      dialogTitle: 'Select root folder (contains language subfolders, VTTs and quran_saheeh CSVs)',
+    );
+    if (dir == null) return;
+    final dirs = QuranPipelineService.findLanguageDirs(dir);
+    setState(() {
+      _quranRoot = dir;
+      _quranLanguageDirs = dirs;
+      _quranLanguage = dirs.isNotEmpty ? dirs.first : null;
+    });
+  }
+
+  Future<void> _runQuranPipeline() async {
+    final root = _quranRoot;
+    if (root == null) return;
+    if (!_quranBatch && _quranLanguage == null) {
+      _showError('No language subfolder found in the root folder');
+      return;
+    }
+    final reciter = _reciterController.text.trim().isEmpty
+        ? 'Alafasy Verse by Verse'
+        : _reciterController.text.trim();
+
+    setState(() {
+      _quranBusy = true;
+      _quranProgress = 0;
+      _quranStatus = 'Starting...';
+      _quranLog.clear();
+    });
+    void onProgress(String s, double pr) {
+      if (mounted) setState(() {
+        _quranStatus = s;
+        _quranProgress = pr;
+      });
+    }
+
+    try {
+      if (_quranBatch) {
+        await _quranService.runBatch(root, doVtt: _quranDoVtt, reciter: reciter, onProgress: onProgress);
+      } else {
+        await _quranService.runSingle(root, _quranLanguage!, doVtt: _quranDoVtt, reciter: reciter, onProgress: onProgress);
+      }
+      setState(() {
+        _quranStatus = 'Complete!';
+        _quranProgress = 1.0;
+      });
+    } catch (e) {
+      setState(() => _quranStatus = 'Error: $e');
+    } finally {
+      if (mounted) setState(() => _quranBusy = false);
+    }
+  }
+
+  void _quranLogAdd(String msg) {
+    _quranLog.add(msg);
+    if (_quranLog.length > 200000) _quranLog.removeRange(0, 20000);
+    if (_logTimer?.isActive ?? false) return;
+    _logTimer = Timer(const Duration(milliseconds: 150), () {
+      if (mounted) setState(() {});
+    });
+  }
+
+  Widget _buildQuranLogBox() {
+    if (_quranLog.isEmpty) return const SizedBox.shrink();
+    return Padding(
+      padding: const EdgeInsets.only(top: 10),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Row(
+            children: [
+              Text('${_quranLog.length} lines',
+                  style: const TextStyle(color: Colors.white38, fontSize: 11)),
+              const Spacer(),
+              TextButton.icon(
+                icon: const Icon(Icons.copy, size: 14),
+                label: const Text('Copy all'),
+                onPressed: () => Clipboard.setData(ClipboardData(text: _quranLog.join('\n'))),
+              ),
+              TextButton.icon(
+                icon: const Icon(Icons.warning_amber, size: 14),
+                label: const Text('Copy warnings'),
+                onPressed: () => Clipboard.setData(ClipboardData(
+                  text: _quranLog
+                      .where((l) => l.contains('WARNING') || l.contains('ERROR'))
+                      .join('\n'),
+                )),
+              ),
+              TextButton.icon(
+                icon: const Icon(Icons.delete_outline, size: 14),
+                label: const Text('Clear'),
+                onPressed: () => setState(_quranLog.clear),
+              ),
+            ],
+          ),
+          Container(
+            height: 360,
+            padding: const EdgeInsets.all(8),
+            decoration: BoxDecoration(
+              color: Colors.black26,
+              borderRadius: BorderRadius.circular(8),
+            ),
+            child: SelectionArea(
+              child: ListView.builder(
+                reverse: true,
+                itemCount: _quranLog.length,
+                itemBuilder: (context, i) {
+                  final line = _quranLog[_quranLog.length - 1 - i];
+                  final bad = line.contains('WARNING') || line.contains('ERROR');
+                  return Text(
+                    line,
+                    style: TextStyle(
+                      fontSize: 11,
+                      fontFamily: 'CustomFonts',
+                      color: bad ? Colors.orange : Colors.white70,
+                    ),
+                  );
+                },
+              ),
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+
+  Widget _buildOrganizeMediaSection() {
+    return Container(
+      padding: const EdgeInsets.all(20),
+      decoration: BoxDecoration(
+        color: const Color(0xFF2A2A2A),
+        borderRadius: BorderRadius.circular(12),
+        border: Border.all(color: Colors.white12),
+      ),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          const Row(children: [
+            Icon(Icons.drive_file_move, color: Colors.amber, size: 20),
+            SizedBox(width: 8),
+            Text('Organize Quran mp3s into 7 range folders',
+                style: TextStyle(color: Colors.white, fontSize: 16, fontWeight: FontWeight.bold)),
+          ]),
+          const SizedBox(height: 6),
+          const Text(
+            'Select the folder holding the 001001.mp3-style files. Creates quran_saheeh001-006_media … '
+            'quran_saheeh070-114_media next to it; ayah 000 files go to z_bismillah.',
+            style: TextStyle(color: Colors.white54, fontSize: 12),
+          ),
+          const SizedBox(height: 12),
+          ElevatedButton.icon(
+            onPressed: (_quranBusy || _isProcessing) ? null : _runOrganizeMedia,
+            icon: const Icon(Icons.folder_open, size: 18),
+            label: const Text('Select mp3 Folder'),
+            style: ElevatedButton.styleFrom(backgroundColor: Colors.amber.shade800, foregroundColor: Colors.white),
+          ),
+        ],
+      ),
+    );
+  }
+
+  Widget _buildQuranVttSection() {
+    return Container(
+      padding: const EdgeInsets.all(20),
+      decoration: BoxDecoration(
+        color: const Color(0xFF2A2A2A),
+        borderRadius: BorderRadius.circular(12),
+        border: Border.all(color: Colors.white12),
+      ),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          const Row(children: [
+            Icon(Icons.subtitles, color: Colors.tealAccent, size: 20),
+            SizedBox(width: 8),
+            Text('Quran translation CSVs & VTT subs',
+                style: TextStyle(color: Colors.white, fontSize: 16, fontWeight: FontWeight.bold)),
+          ]),
+          const SizedBox(height: 6),
+          const Text(
+            'Cleans translation CSVs, splits them into 7 ranges, merges Arabic + audio, generates translated '
+            'VTTs and splits long cues. Root folder must contain the language subfolders, quran_saheeh*.csv '
+            'files and the reciter VTTs. Khmer cue splitting uses Python (khmer-segmenter).',
+            style: TextStyle(color: Colors.white54, fontSize: 12),
+          ),
+          const SizedBox(height: 12),
+          SegmentedButton<bool>(
+            segments: const [
+              ButtonSegment(value: false, label: Text('Single language')),
+              ButtonSegment(value: true, label: Text('Batch all languages')),
+            ],
+            selected: {_quranBatch},
+            onSelectionChanged: _quranBusy ? null : (s) => setState(() => _quranBatch = s.first),
+          ),
+          const SizedBox(height: 12),
+          Row(children: [
+            ElevatedButton.icon(
+              onPressed: _quranBusy ? null : _selectQuranRoot,
+              icon: const Icon(Icons.folder_open, size: 18),
+              label: const Text('Select Root Folder'),
+              style: ElevatedButton.styleFrom(backgroundColor: Colors.teal, foregroundColor: Colors.white),
+            ),
+            const SizedBox(width: 12),
+            Expanded(
+              child: Text(
+                _quranRoot ?? 'No folder selected',
+                style: const TextStyle(color: Colors.white70, fontSize: 12),
+                overflow: TextOverflow.ellipsis,
+              ),
+            ),
+          ]),
+          if (_quranRoot != null) ...[
+            const SizedBox(height: 12),
+            if (!_quranBatch)
+              SizedBox(
+                width: 320,
+                child: DropdownButtonFormField<String>(
+                  value: _quranLanguage,
+                  decoration: const InputDecoration(
+                    labelText: 'Language folder',
+                    filled: true,
+                    fillColor: Colors.black26,
+                    border: OutlineInputBorder(),
+                  ),
+                  dropdownColor: const Color(0xFF1E1E1E),
+                  style: const TextStyle(color: Colors.white),
+                  items: _quranLanguageDirs
+                      .map((d) => DropdownMenuItem(value: d, child: Text(d)))
+                      .toList(),
+                  onChanged: _quranBusy ? null : (v) => setState(() => _quranLanguage = v),
+                ),
+              )
+            else
+              Text('${_quranLanguageDirs.length} language folders found',
+                  style: const TextStyle(color: Colors.white70, fontSize: 12)),
+            const SizedBox(height: 8),
+            Row(children: [
+              Expanded(
+                child: CheckboxListTile(
+                  contentPadding: EdgeInsets.zero,
+                  title: const Text('Generate translated VTT files', style: TextStyle(color: Colors.white)),
+                  value: _quranDoVtt,
+                  onChanged: _quranBusy ? null : (v) => setState(() => _quranDoVtt = v!),
+                  activeColor: Colors.deepPurple,
+                ),
+              ),
+              const Expanded(child: SizedBox()),
+            ]),
+            if (_quranDoVtt)
+              SizedBox(
+                width: 420,
+                child: TextField(
+                  controller: _reciterController,
+                  style: const TextStyle(color: Colors.white),
+                  decoration: const InputDecoration(
+                    labelText: 'Reciter name in VTT filenames',
+                    filled: true,
+                    fillColor: Colors.black26,
+                    border: OutlineInputBorder(),
+                  ),
+                ),
+              ),
+            const SizedBox(height: 12),
+            ElevatedButton.icon(
+              onPressed: (_quranBusy || _isProcessing) ? null : _runQuranPipeline,
+              icon: const Icon(Icons.play_arrow, size: 20),
+              label: Text(_quranBatch ? 'Run Batch' : 'Run Single'),
+              style: ElevatedButton.styleFrom(backgroundColor: Colors.deepPurple, foregroundColor: Colors.white),
+            ),
+          ],
+          if (_quranBusy || _quranStatus.isNotEmpty) ...[
+            const SizedBox(height: 12),
+            Row(children: [
+              if (_quranBusy)
+                const Padding(
+                  padding: EdgeInsets.only(right: 8),
+                  child: SizedBox(width: 14, height: 14, child: CircularProgressIndicator(strokeWidth: 2)),
+                ),
+              Expanded(
+                child: Text(_quranStatus,
+                    style: const TextStyle(color: Colors.white70, fontSize: 12, fontFamily: 'CustomFonts')),
+              ),
+            ]),
+            const SizedBox(height: 8),
+            LinearProgressIndicator(
+              value: _quranBusy && _quranProgress == 0 ? null : _quranProgress,
+              backgroundColor: Colors.white12,
+              valueColor: const AlwaysStoppedAnimation<Color>(Colors.tealAccent),
+              minHeight: 6,
+            ),
+          ],
+          _buildQuranLogBox(),
+        ],
       ),
     );
   }

@@ -48,6 +48,9 @@ dependencies:
   # Character handling for CJK tokenization
   characters: ^1.4.0
   tiny_segmenter_dart: ^1.0.0
+  dart_jieba: ^1.0.1
+  word_thai_split: ^1.0.2
+  betto_icu: ^0.1.0
   intl: ^0.20.2
 
   # anki apkg files
@@ -96,6 +99,7 @@ flutter:
     - assets/audioword/
     - assets/quran_wbw/
     - assets/alif/
+    - assets/jieba/dict.dgz
 
   fonts:
     - family: CustomFonts
