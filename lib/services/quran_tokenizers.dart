@@ -32,6 +32,7 @@ class QuranTokenizers {
   IcuTokenizer? _icu;
   bool _icuFailed = true; // ICU drops Khmer combining marks; use Python instead
   bool _icuSampleLogged = false;
+  String? _khmerPython;
 
   // khmer_segmenter.tokenize() returns a space-separated STRING, not a list,
   // so split it here and always send a JSON list back to Dart.
@@ -58,6 +59,30 @@ for line in sys.stdin:
   /// Fallback for Khmer: split on spaces so cuts never land inside a word.
   List<String> _khmerSpaceTokens(String text) =>
       text.split(RegExp(r'[ \u200b]+')).where((w) => w.isNotEmpty).toList();
+
+      Future<String> _findKhmerPython() async {
+        final candidates = <String>[
+          pythonExecutable,
+          if (Platform.isMacOS || Platform.isLinux) ...[
+            '/Library/Frameworks/Python.framework/Versions/Current/bin/python3',
+            '/opt/homebrew/bin/python3',
+            '/usr/local/bin/python3',
+            '/usr/bin/python3',
+          ],
+        ];
+        for (final c in candidates) {
+          try {
+            final r = await Process.run(c, ['-c', 'import khmer_segmenter']);
+            if (r.exitCode == 0) {
+              log('  Khmer: using $c');
+              return c;
+            }
+          } catch (_) {
+            // interpreter doesn't exist at this path, try the next one
+          }
+        }
+        return pythonExecutable;
+      }
 
   Future<List<String>> tokenize(String text, String script) async {
     try {
@@ -121,19 +146,21 @@ for line in sys.stdin:
     if (_khmerFailed) return _khmerSpaceTokens(text);
     try {
       if (_khmerProc == null) {
-        final check = await Process.run(pythonExecutable, ['-c', 'import khmer_segmenter']);
+        final py = _khmerPython ??= await _findKhmerPython();
+        final check = await Process.run(py, ['-c', 'import khmer_segmenter']);
         if (check.exitCode != 0) {
-          log('  Installing khmer-segmenter...');
+          log('  Installing khmer-segmenter into $py ...');
           final pip = await Process.run(
-            Platform.isWindows ? 'pip' : 'pip3',
-            ['install', 'khmer-segmenter'],
+            py,
+            ['-m', 'pip', 'install', '--user', '--break-system-packages', 'khmer-segmenter'],
           );
           if (pip.exitCode != 0) {
-            throw Exception('khmer-segmenter not installed. Run: pip install khmer-segmenter');
+            log('  pip error: ${pip.stderr}');
+            throw Exception('khmer-segmenter not installed for $py');
           }
         }
         final proc = await Process.start(
-          pythonExecutable,
+          py,
           ['-u', '-c', _khmerScript],
           environment: {'PYTHONIOENCODING': 'utf-8'},
         );

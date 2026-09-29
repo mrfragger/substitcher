@@ -30,6 +30,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
   bool _isProcessing = false;
   String _processingStatus = '';
   double _processingProgress = 0.0;
+  bool _quranShowLog = false;
   String? _apkgFilePath;
   String? _outputDirectory;
   DateTime? _processingStartTime;
@@ -282,6 +283,19 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
     }
   }
 
+  void _toast(String message, {Color color = Colors.green}) {
+    if (!mounted) return;
+    final messenger = ScaffoldMessenger.of(context);
+    messenger.hideCurrentSnackBar();
+    messenger.showSnackBar(
+      SnackBar(
+        content: Text(message),
+        backgroundColor: color,
+        duration: const Duration(seconds: 3),
+      ),
+    );
+  }
+
   String get _pythonExecutable {
     if (Platform.isWindows) return 'python';
     return 'python3';
@@ -490,22 +504,26 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
                 controller: _scrollController,
                 child: Column(
                   children: [
-                    Row(
-                      crossAxisAlignment: CrossAxisAlignment.start,
-                      children: [
-                        Expanded(child: _buildOrganizeMediaSection()),
-                        const SizedBox(width: 24),
-                        Expanded(child: _buildQuranVttSection()),
-                      ],
+                    IntrinsicHeight(
+                      child: Row(
+                        crossAxisAlignment: CrossAxisAlignment.stretch,
+                        children: [
+                          Expanded(child: _buildApkgFileSection()),
+                          const SizedBox(width: 24),
+                          Expanded(child: _buildOrganizeMediaSection()),
+                        ],
+                      ),
                     ),
-                    const SizedBox(height: 8),
-                    Row(
-                      crossAxisAlignment: CrossAxisAlignment.start,
-                      children: [
-                        Expanded(child: _buildApkgFileSection()),
-                        const SizedBox(width: 24),
-                        Expanded(child: _buildOutputDirectorySection()),
-                      ],
+                    const SizedBox(height: 24),
+                    IntrinsicHeight(
+                      child: Row(
+                        crossAxisAlignment: CrossAxisAlignment.stretch,
+                        children: [
+                          Expanded(child: _buildOutputDirectorySection()),
+                          const SizedBox(width: 24),
+                          Expanded(child: _buildQuranVttSection()),
+                        ],
+                      ),
                     ),
                     const SizedBox(height: 12),
                     _buildConfigurationSection(),
@@ -572,8 +590,9 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
       dialogTitle: 'Select folder containing the verse-by-verse mp3 files',
     );
     if (dir == null) return;
-    final root = path.dirname(dir); // the parent becomes the Quran root
+    final root = path.dirname(dir);
     setState(() {
+      _quranShowLog = false;
       _quranBusy = true;
       _quranStatus = 'Organizing mp3 files...';
       _quranProgress = 0;
@@ -582,25 +601,70 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
     try {
       await _quranService.organizeMedia(dir);
 
-      setState(() => _quranStatus = 'Extracting quran_saheeh CSVs...');
+      final errors = _quranLog.where((l) => l.contains('ERROR')).toList();
+      final warnings = _quranLog.where((l) => l.contains('WARNING')).length;
+
+      setState(() {
+        _refreshQuranRoot(root);
+        _quranStatus = '';
+      });
+
+      if (errors.isNotEmpty) {
+        _toast(errors.first.replaceFirst('ERROR:', '').trim(), color: Colors.red);
+      } else {
+        _toast(
+          'Organized mp3s into 7 folders'
+          '${warnings > 0 ? ' ($warnings warnings)' : ''}',
+          color: warnings > 0 ? Colors.orange : Colors.green,
+        );
+      }
+    } catch (e) {
+      setState(() => _quranStatus = '');
+      _toast('Error: $e', color: Colors.red);
+    } finally {
+      if (mounted) setState(() => _quranBusy = false);
+    }
+  }
+
+  Future<void> _unzipRangeCsvs() async {
+    var root = _quranRoot;
+    if (root == null) {
+      root = await FilePicker.platform.getDirectoryPath(
+        dialogTitle: 'Select root folder to extract the 7 quran_saheeh CSVs into',
+      );
+      if (root == null) return;
+      setState(() => _refreshQuranRoot(root!));
+    }
+    setState(() {
+      _quranShowLog = false;
+      _quranBusy = true;
+      _quranProgress = 0;
+      _quranStatus = 'Extracting quran_saheeh CSVs...';
+    });
+    try {
       final n = await QuranPipelineService.extractZipInIsolate(
         await _loadTranslationsZip(),
         root,
         mode: ZipExtractMode.rangeCsvsOnly,
       );
       final missing = QuranPipelineService.ranges
-          .where((r) => !File(path.join(root, 'quran_saheeh$r.csv')).existsSync())
+          .where((r) => !File(path.join(root!, 'quran_saheeh$r.csv')).existsSync())
           .toList();
-      _quranLogAdd('Extracted $n quran_saheeh CSVs into $root');
-      if (missing.isNotEmpty) {
-        _quranLogAdd('WARNING: missing quran_saheeh CSVs for ranges: ${missing.join(', ')}');
-      }
+
       setState(() {
-        _refreshQuranRoot(root);
-        _quranStatus = 'Organize complete, $n quran_saheeh CSVs extracted';
+        _refreshQuranRoot(root!);
+        _quranStatus = '';
       });
+
+      _toast(
+        missing.isEmpty
+            ? 'Extracted $n quran_saheeh CSVs'
+            : 'Extracted $n CSVs, still missing: ${missing.join(', ')}',
+        color: missing.isEmpty ? Colors.green : Colors.orange,
+      );
     } catch (e) {
-      setState(() => _quranStatus = 'Error: $e');
+      setState(() => _quranStatus = '');
+      _toast('Error: $e', color: Colors.red);
     } finally {
       if (mounted) setState(() => _quranBusy = false);
     }
@@ -609,7 +673,6 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
   Future<void> _unzipBundledTranslations() async {
     var root = _quranRoot;
     if (root == null) {
-      // User resumed from this step without organizing mp3s first.
       root = await FilePicker.platform.getDirectoryPath(
         dialogTitle: 'Select folder to unzip the Quran translations into',
       );
@@ -617,9 +680,11 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
       setState(() => _refreshQuranRoot(root!));
     }
     setState(() {
+      _quranShowLog = false;
       _quranBusy = true;
       _quranProgress = 0;
       _quranStatus = 'Unzipping Quran translations...';
+      _quranLog.clear();
     });
     try {
       final n = await QuranPipelineService.extractZipInIsolate(
@@ -627,21 +692,25 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
         root,
         mode: ZipExtractMode.languagesOnly,
       );
-      _quranLogAdd('Extracted $n files into $root');
-
       final missing = QuranPipelineService.ranges
           .where((r) => !File(path.join(root!, 'quran_saheeh$r.csv')).existsSync())
           .toList();
-      if (missing.isNotEmpty) {
-        _quranLogAdd('WARNING: missing quran_saheeh CSVs for ranges: ${missing.join(', ')} '
-            '(run Select mp3 Folder, or place them in the root)');
-      }
+
       setState(() {
         _refreshQuranRoot(root!);
-        _quranStatus = 'Unzipped: $n files, ${_quranLanguageDirs.length} languages';
+        _quranStatus = '';
       });
+
+      _toast(
+        missing.isEmpty
+            ? 'Unzipped $n files, ${_quranLanguageDirs.length} languages'
+            : 'Unzipped $n files, but quran_saheeh CSVs are missing '
+              '(click Unzip 7 quran_saheeh CSVs)',
+            color: missing.isEmpty ? Colors.green : Colors.orange,
+      );
     } catch (e) {
-      setState(() => _quranStatus = 'Error: $e');
+      setState(() => _quranStatus = '');
+      _toast('Error: $e', color: Colors.red);
     } finally {
       if (mounted) setState(() => _quranBusy = false);
     }
@@ -652,6 +721,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
     if (root == null) return;
 
     setState(() {
+      _quranShowLog = true;
       _quranBusy = true;
       _quranProgress = 0;
       _quranStatus = 'Starting...';
@@ -688,7 +758,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
   }
 
   Widget _buildQuranLogBox() {
-    if (_quranLog.isEmpty) return const SizedBox.shrink();
+    if (!_quranShowLog || _quranLog.isEmpty) return const SizedBox.shrink();
     return Padding(
       padding: const EdgeInsets.only(top: 10),
       child: Column(
@@ -771,18 +841,55 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
             ),
           ]),
           const SizedBox(height: 6),
-          const Text(
-            'Select the folder holding the 001001.mp3-style files. Creates quran_saheeh001-006_media … '
-            'quran_saheeh070-114_media next to it (ayah 000 files go to z_bismillah) and extracts the 7 '
-            'quran_saheeh CSVs there too. That parent folder becomes the root for the translations.',
-            style: TextStyle(color: Colors.white54, fontSize: 12),
+          Text.rich(
+            TextSpan(
+              style: const TextStyle(color: Colors.white54, fontSize: 12),
+              children: [
+                const TextSpan(
+                  text: 'Select the folder holding the 001001.mp3-style files. '
+                      'Download them from ',
+                ),
+                TextSpan(
+                  text: 'https://everyayah.com',
+                  style: const TextStyle(
+                    color: Colors.lightBlue,
+                  ),
+                  recognizer: TapGestureRecognizer()
+                    ..onTap = () => _launchUrl('https://everyayah.com'),
+                ),
+                const TextSpan(
+                  text: '. Creates quran_saheeh001-006_media … '
+                      'quran_saheeh070-114_media next to it (ayah 000 files go to z_bismillah). '
+                      'That parent folder becomes the root. Then click Unzip 7 quran_saheeh CSVs '
+                      'to extract the CSVs needed to build the audiobooks there.',
+                ),
+              ],
+            ),
           ),
           const SizedBox(height: 12),
-          ElevatedButton.icon(
-            onPressed: (_quranBusy || _isProcessing) ? null : _runOrganizeMedia,
-            icon: const Icon(Icons.folder_open, size: 18),
-            label: const Text('Select mp3 Folder'),
-            style: ElevatedButton.styleFrom(backgroundColor: Colors.amber.shade800, foregroundColor: Colors.white),
+          Wrap(
+            spacing: 12,
+            runSpacing: 8,
+            children: [
+              ElevatedButton.icon(
+                onPressed: (_quranBusy || _isProcessing) ? null : _runOrganizeMedia,
+                icon: const Icon(Icons.folder_open, size: 18),
+                label: const Text('Select mp3 Folder'),
+                style: ElevatedButton.styleFrom(
+                  backgroundColor: Colors.amber.shade800,
+                  foregroundColor: Colors.white,
+                ),
+              ),
+              ElevatedButton.icon(
+                onPressed: (_quranBusy || _isProcessing) ? null : _unzipRangeCsvs,
+                icon: const Icon(Icons.unarchive, size: 18),
+                label: const Text('Unzip 7 quran_saheeh CSVs'),
+                style: ElevatedButton.styleFrom(
+                  backgroundColor: Colors.orange.shade600,
+                  foregroundColor: Colors.white,
+                ),
+              ),
+            ],
           ),
         ],
       ),
@@ -820,7 +927,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
               onPressed: _quranBusy ? null : _unzipBundledTranslations,
               icon: const Icon(Icons.unarchive, size: 18),
               label: const Text('Unzip 82 Quran Translations'),
-              style: ElevatedButton.styleFrom(backgroundColor: Colors.lightBlueAccent, foregroundColor: Colors.white),
+              style: ElevatedButton.styleFrom(backgroundColor: Colors.lightBlue, foregroundColor: Colors.white),
             ),
             const SizedBox(width: 12),
             ElevatedButton.icon(
@@ -1365,7 +1472,6 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
                   text: 'https://ankiweb.net',
                   style: const TextStyle(
                     color: Colors.lightBlue,
-                    decoration: TextDecoration.underline,
                   ),
                   recognizer: TapGestureRecognizer()
                     ..onTap = () => _launchUrl('https://ankiweb.net'),
