@@ -1,10 +1,12 @@
 import 'dart:io';
-
+import 'dart:isolate';
+import 'dart:typed_data';
+import 'package:archive/archive.dart';
 import 'package:csv/csv.dart';
 import 'package:path/path.dart' as p;
-
 import 'quran_tokenizers.dart';
 
+enum ZipExtractMode { all, rangeCsvsOnly, languagesOnly }
 typedef ProgressFn = void Function(String status, double progress);
 
 class QuranPipelineService {
@@ -440,13 +442,8 @@ class QuranPipelineService {
     return parts.join('\n');
   }
 
-  File? _findVtt(String root, String suffix, String reciter) {
-    final all = _files(root, (n) => n.toLowerCase().endsWith('.vtt'));
-    for (final f in all) {
-      final n = p.basename(f.path);
-      if (n.contains(suffix) && n.contains(reciter)) return f;
-    }
-    for (final f in all) {
+  File? _findVtt(String root, String suffix) {
+    for (final f in _files(root, (n) => n.toLowerCase().endsWith('.vtt'))) {
       if (p.basename(f.path).contains(suffix)) return f;
     }
     return null;
@@ -670,13 +667,13 @@ class QuranPipelineService {
 
   // ───────────────────────── VTT steps ─────────────────────────
 
-  Future<void> backupSourceVtts(String root, String reciter) async {
+  Future<void> backupSourceVtts(String root) async {
     log('=== Backing up / restoring original source VTT files ===');
     final dir = p.join(root, 'zsplit', 'zsourcevtt');
     await Directory(dir).create(recursive: true);
     var backed = 0, restored = 0;
     for (final s in ranges) {
-      final f = _findVtt(root, s, reciter);
+      final f = _findVtt(root, s);
       if (f == null) {
         log('  WARNING: No source VTT for range $s — skipping backup');
         continue;
@@ -718,7 +715,7 @@ class QuranPipelineService {
   }
 
   Future<List<String>> _translateVtts(
-      String root, String subdir, String prefix, String reciter) async {
+      String root, String subdir, String prefix) async {
     log('  Step 4: Generate translated VTT files');
     var sample = '';
     final base = File(p.join(subdir, '$prefix.csv'));
@@ -740,7 +737,7 @@ class QuranPipelineService {
 
     final created = <String>[];
     for (final suffix in ranges) {
-      final srcVtt = _findVtt(root, suffix, reciter);
+      final srcVtt = _findVtt(root, suffix);
       if (srcVtt == null) continue;
       final csvPath = p.join(subdir, '$prefix$suffix.csv');
       if (!await File(csvPath).exists()) {
@@ -792,13 +789,13 @@ class QuranPipelineService {
     }
   }
 
-  Future<void> copyAndSplitSourceVtts(String root, String reciter) async {
+  Future<void> copyAndSplitSourceVtts(String root) async {
     log('=== Splitting source English VTT files ===');
     final dir = p.join(root, 'zsplit', englishFolder);
     await Directory(dir).create(recursive: true);
     var n = 0;
     for (final s in ranges) {
-      final f = _findVtt(root, s, reciter);
+      final f = _findVtt(root, s);
       if (f == null) continue;
       final c = await splitVttLongSubs(f.path, p.join(dir, p.basename(f.path)));
       log('  ${p.basename(f.path)}: split $c long cues');
@@ -821,10 +818,62 @@ class QuranPipelineService {
     log('  Deployed ${files.length} split VTT files to root directory.');
   }
 
+  // ───────────────────────── unzip ─────────────────────────
+
+  static final _rangeCsvRe =
+      RegExp(r'^quran_saheeh\d{3}-\d{3}\.csv$', caseSensitive: false);
+
+  static Future<int> extractZipInIsolate(
+    Uint8List bytes,
+    String root, {
+    ZipExtractMode mode = ZipExtractMode.all,
+  }) =>
+      Isolate.run(() => extractZipBytes(bytes, root, mode: mode));
+
+  static int extractZipBytes(
+    Uint8List bytes,
+    String root, {
+    ZipExtractMode mode = ZipExtractMode.all,
+  }) {
+    final archive = ZipDecoder().decodeBytes(bytes);
+
+    bool junk(String n) =>
+        n.startsWith('__MACOSX') ||
+        n.contains('/__MACOSX/') ||
+        p.basename(n) == '.DS_Store';
+
+    final entries = archive.files.where((f) => !junk(f.name)).toList();
+
+    final tops = entries.map((f) => f.name.split('/').first).toSet();
+    final hasTopLevelFile = entries.any((f) => f.isFile && !f.name.contains('/'));
+    final prefix = (tops.length == 1 && !hasTopLevelFile) ? '${tops.first}/' : null;
+
+    final rootNorm = p.normalize(p.absolute(root));
+    var count = 0;
+    for (final f in entries) {
+      if (!f.isFile) continue;
+      var name = f.name;
+      if (prefix != null && name.startsWith(prefix)) name = name.substring(prefix.length);
+      if (name.isEmpty) continue;
+
+      // The 7 quran_saheehXXX-XXX.csv files sit at the top level of the zip.
+      final isRangeCsv = !name.contains('/') && _rangeCsvRe.hasMatch(name);
+      if (mode == ZipExtractMode.rangeCsvsOnly && !isRangeCsv) continue;
+      if (mode == ZipExtractMode.languagesOnly && isRangeCsv) continue;
+
+      final dest = p.normalize(p.join(rootNorm, name));
+      if (!p.isWithin(rootNorm, dest)) continue;
+      Directory(p.dirname(dest)).createSync(recursive: true);
+      File(dest).writeAsBytesSync(f.content as List<int>);
+      count++;
+    }
+    return count;
+  }
+
   // ───────────────────────── orchestration ─────────────────────────
 
   Future<void> processLanguage(String root, String language,
-      {required bool doVtt, required String reciter}) async {
+      {required bool doVtt}) async {
     final subdir = p.join(root, language);
     var csvs = _files(subdir, (n) => n.toLowerCase().endsWith('.csv') && n.contains('_v'));
     if (csvs.isEmpty) csvs = _files(subdir, (n) => n.toLowerCase().endsWith('.csv'));
@@ -845,35 +894,40 @@ class QuranPipelineService {
     await _addArabicAudio(root, subdir, prefix);
 
     if (doVtt) {
-      final vtts = await _translateVtts(root, subdir, prefix, reciter);
+      final vtts = await _translateVtts(root, subdir, prefix);
       if (vtts.isNotEmpty) await _splitCreated(root, subdir, vtts);
     }
   }
 
-  Future<void> runSingle(String root, String language,
-      {required bool doVtt, required String reciter, ProgressFn? onProgress}) async {
-    if (doVtt) await backupSourceVtts(root, reciter);
-    onProgress?.call('Processing $language...', 0.1);
-    await processLanguage(root, language, doVtt: doVtt, reciter: reciter);
-    if (doVtt) {
-      onProgress?.call('Splitting source VTTs...', 0.9);
-      await copyAndSplitSourceVtts(root, reciter);
-      await deploySplitSourceVtts(root);
+  Future<void> moveLanguageDirsToTemp(String root, List<String> langDirs) async {
+    log('=== Moving language folders to tempcsvs ===');
+    final temp = p.join(root, 'tempcsvs');
+    await Directory(temp).create(recursive: true);
+    var n = 0;
+    for (final name in langDirs) {
+      final src = Directory(p.join(root, name));
+      if (!await src.exists()) continue;
+      await _moveReplacing(src, p.join(temp, name));
+      n++;
     }
+    log('  Moved $n language folders into tempcsvs/');
   }
 
   Future<void> runBatch(String root,
-      {required bool doVtt, required String reciter, ProgressFn? onProgress}) async {
+      {required bool doVtt, ProgressFn? onProgress}) async {
     final dirs = findLanguageDirs(root);
     if (dirs.isEmpty) {
       log('ERROR: No subdirectories with CSV files found.');
       return;
     }
-    if (doVtt) await backupSourceVtts(root, reciter);
+    if (doVtt) {
+      await restorePackagedSources(root);
+      await backupSourceVtts(root);
+    }
     for (var i = 0; i < dirs.length; i++) {
       onProgress?.call('Processing ${dirs[i]} (${i + 1}/${dirs.length})', i / dirs.length);
       try {
-        await processLanguage(root, dirs[i], doVtt: doVtt, reciter: reciter);
+        await processLanguage(root, dirs[i], doVtt: doVtt);
       } catch (e) {
         log('ERROR processing ${dirs[i]}: $e — continuing');
       }
@@ -881,8 +935,99 @@ class QuranPipelineService {
     }
     if (doVtt) {
       onProgress?.call('Splitting source VTTs...', 0.97);
-      await copyAndSplitSourceVtts(root, reciter);
+      await copyAndSplitSourceVtts(root);
       await deploySplitSourceVtts(root);
+      onProgress?.call('Packaging output...', 0.99);
+      await packageOutput(root);
+      await moveLanguageDirsToTemp(root, dirs);
+    }
+  }
+
+  // ───────────────────────── packaging ─────────────────────────
+
+  static final _rangeInNameRe = RegExp(r' \d{3}-\d{3}(?= )');
+
+  Future<void> _moveReplacing(FileSystemEntity e, String dest) async {
+    switch (FileSystemEntity.typeSync(dest)) {
+      case FileSystemEntityType.directory:
+        await Directory(dest).delete(recursive: true);
+      case FileSystemEntityType.file:
+        await File(dest).delete();
+      default:
+        break;
+    }
+    await e.rename(dest);
+  }
+
+  /// Moves everything produced by the batch into one folder named like the
+  /// audiobooks but without the surah range, e.g.
+  /// "Quran Arabic - (Fares Abbad) Verse by Verse":
+  ///  - every language folder in zsplit/ (incl. "a English saheeh" and zsourcevtt)
+  ///  - the range .opus and .vtt files sitting in root
+  /// Returns the folder path, or null if the name could not be derived.
+  Future<String?> packageOutput(String root) async {
+    log('=== Packaging output ===');
+
+    final rootFiles = _files(root, (n) {
+      final l = n.toLowerCase();
+      if (!l.endsWith('.opus') && !l.endsWith('.vtt')) return false;
+      final m = _rangeInNameRe.firstMatch(n);
+      return m != null && ranges.contains(m.group(0)!.trim());
+    });
+
+    if (rootFiles.isEmpty) {
+      log('  WARNING: No range .opus/.vtt files found in root — cannot name the '
+          'output folder, skipping packaging');
+      return null;
+    }
+
+    final base = p.basenameWithoutExtension(rootFiles.first.path);
+    final folderName = base.replaceFirst(_rangeInNameRe, '');
+    final dest = p.join(root, folderName);
+    await Directory(dest).create(recursive: true);
+
+    var dirs = 0, files = 0;
+
+    final zsplit = Directory(p.join(root, 'zsplit'));
+    if (await zsplit.exists()) {
+      for (final e in zsplit.listSync()) {
+        await _moveReplacing(e, p.join(dest, p.basename(e.path)));
+        dirs++;
+      }
+      if (zsplit.listSync().isEmpty) await zsplit.delete();
+    } else {
+      log('  WARNING: zsplit not found — only moving root files');
+    }
+
+    for (final f in rootFiles) {
+      await _moveReplacing(f, p.join(dest, p.basename(f.path)));
+      files++;
+    }
+
+    log('  Moved $dirs folders and $files files into "$folderName"');
+    return dest;
+  }
+
+  /// If a previous run packaged the output, bring the original source VTTs back
+  /// so the pipeline can run again. Only fills in what is missing.
+  Future<void> restorePackagedSources(String root) async {
+    for (final d in Directory(root).listSync().whereType<Directory>()) {
+      final src = Directory(p.join(d.path, 'zsourcevtt'));
+      if (!await src.exists()) continue;
+
+      final backupDir = Directory(p.join(root, 'zsplit', 'zsourcevtt'));
+      await backupDir.create(recursive: true);
+      var n = 0;
+      for (final f in src.listSync().whereType<File>()) {
+        final name = p.basename(f.path);
+        final inBackup = File(p.join(backupDir.path, name));
+        final inRoot = File(p.join(root, name));
+        if (!await inBackup.exists()) await f.copy(inBackup.path);
+        if (!await inRoot.exists()) await f.copy(inRoot.path);
+        n++;
+      }
+      log('Restored $n original source VTT(s) from ${p.basename(d.path)}/zsourcevtt');
+      return;
     }
   }
 }

@@ -44,7 +44,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
   int _bitrate = 12;
   bool _quranPreset = false;
   final TextEditingController _authorController = TextEditingController();
-  static const String _quranTitleSuffix = ' (Rowwad) Verse by Verse';
+  static const String _quranTitleSuffix = ' (Reciter) Verse by Verse';
 
   List<String> _availableColumns = [];
   int? _frontColumn;
@@ -80,13 +80,8 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
 
   late final QuranTokenizers _tokenizers;
   late final QuranPipelineService _quranService;
-  final TextEditingController _reciterController =
-      TextEditingController(text: 'Alafasy Verse by Verse');
   bool _quranBusy = false;
-  bool _quranBatch = false;
-  bool _quranDoVtt = true;
   String? _quranRoot;
-  String? _quranLanguage;
   List<String> _quranLanguageDirs = [];
   String _quranStatus = '';
   double _quranProgress = 0.0;
@@ -107,19 +102,22 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
     _titleController.dispose();
     _authorController.dispose();
     _tokenizers.dispose();
-    _reciterController.dispose();
     _logTimer?.cancel();
     super.dispose();
   }
 
   Future<void> _selectCsvFile() async {
+    final startDir = (_quranRoot != null && await Directory(_quranRoot!).exists())
+        ? _quranRoot
+        : (_lastCsvDirectory != null && await Directory(_lastCsvDirectory!).exists()
+            ? _lastCsvDirectory
+            : null);
+
     final result = await FilePicker.platform.pickFiles(
       dialogTitle: 'Select CSV File',
       type: FileType.custom,
       allowedExtensions: ['csv'],
-      initialDirectory: _lastCsvDirectory != null && await Directory(_lastCsvDirectory!).exists()
-          ? _lastCsvDirectory
-          : null,
+      initialDirectory: startDir,
     );
 
     if (result != null && result.files.isNotEmpty) {
@@ -289,248 +287,6 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
     return 'python3';
   }
 
-  Future<void> _runHiraganaTransliteration() async {
-    final result = await FilePicker.platform.getDirectoryPath(
-      dialogTitle: 'Select Directory to Transliterate VTT Files',
-    );
-
-    if (result == null) return;
-
-    final tempDir = Directory.systemTemp;
-    final scriptFile = File('${tempDir.path}/vtt_to_hiragana.py');
-    await scriptFile.writeAsString(r'''
-import pykakasi, sys, os, re
-from pathlib import Path
-
-kks = pykakasi.kakasi()
-
-def has_japanese(text):
-    return bool(re.search(r'[\u3040-\u9fff]', text))
-
-def convert_line(line):
-    result = kks.convert(line)
-    output = ''
-    for item in result:
-        if all('\u30A0' <= c <= '\u30FF' for c in item['orig'] if c.strip()):
-            output += item['kana']
-        else:
-            output += item['hira']
-    return output
-
-def convert_vtt(input_path, output_path):
-    with open(input_path, 'r', encoding='utf-8') as f:
-        lines = f.readlines()
-    with open(output_path, 'w', encoding='utf-8') as out:
-        for line in lines:
-            stripped = line.rstrip('\n')
-            if (stripped.startswith('WEBVTT') or
-                '-->' in stripped or
-                stripped.strip() == '' or
-                stripped.strip().isdigit()):
-                out.write(line)
-            elif not has_japanese(stripped):
-                out.write('\u200b\n')
-            else:
-                out.write(convert_line(stripped) + '\n')
-
-root = Path(sys.argv[1])
-vtt_files = [
-    p for p in root.rglob('*.vtt')
-    if not p.stem.endswith('_hiragana')
-]
-
-print(f'Found {len(vtt_files)} VTT files', flush=True)
-
-for i, vtt in enumerate(vtt_files):
-    output = vtt.parent / f'{vtt.stem}_hiragana.vtt'
-    try:
-        convert_vtt(vtt, output)
-        print(f'OK:{vtt.name}', flush=True)
-    except Exception as e:
-        print(f'ERR:{vtt.name}:{e}', flush=True)
-
-print('DONE', flush=True)
-''');
-
-    setState(() {
-      _isTransliterating = true;
-      _transliterationStatus = 'Starting...';
-      _transliterationProgress = 0.0;
-      _transliterationLog.clear();
-    });
-
-    try {
-      final checkResult = await Process.run(_pythonExecutable, ['-c', 'import pykakasi']);
-      if (checkResult.exitCode != 0) {
-        setState(() => _transliterationStatus = 'Installing pykakasi...');
-        final pipResult = await Process.run(
-          Platform.isWindows ? 'pip' : 'pip3',
-          ['install', 'pykakasi'],
-        );
-        if (pipResult.exitCode != 0) {
-          throw Exception('pykakasi not installed. Run: pip install pykakasi');
-        }
-      }
-
-      final process = await Process.start(_pythonExecutable, [scriptFile.path, result]);
-
-      int total = 0;
-      int done = 0;
-
-      process.stdout
-          .transform(const SystemEncoding().decoder)
-          .transform(const LineSplitter())
-          .listen((line) {
-        if (mounted) {
-          setState(() {
-            if (line.startsWith('Found ')) {
-              final match = RegExp(r'Found (\d+)').firstMatch(line);
-              if (match != null) total = int.parse(match.group(1)!);
-              _transliterationStatus = line;
-            } else if (line.startsWith('OK:')) {
-              done++;
-              final filename = line.substring(3);
-              _transliterationLog.add('✓ $filename');
-              _transliterationStatus = 'Transliterating to hiragana $done/$total...';
-              _transliterationProgress = total > 0 ? done / total : 0;
-            } else if (line.startsWith('ERR:')) {
-              final filename = line.substring(4);
-              _transliterationLog.add('✗ $filename');
-            } else if (line == 'DONE') {
-              _transliterationStatus = 'Complete! $done/$total files converted.';
-              _transliterationProgress = 1.0;
-              _isTransliterating = false;
-            }
-          });
-        }
-      });
-
-      process.stderr
-          .transform(const SystemEncoding().decoder)
-          .transform(const LineSplitter())
-          .listen((line) {
-        if (mounted && line.isNotEmpty) {
-          setState(() => _transliterationLog.add('! $line'));
-        }
-      });
-
-      await process.exitCode;
-    } catch (e) {
-      setState(() {
-        _isTransliterating = false;
-        _transliterationStatus = 'Error: $e';
-      });
-    } finally {
-      if (await scriptFile.exists()) await scriptFile.delete();
-    }
-  }
-
-  Widget _buildHiraganaSection() {
-    return Container(
-      padding: const EdgeInsets.all(20),
-      decoration: BoxDecoration(
-        color: const Color(0xFF2A2A2A),
-        borderRadius: BorderRadius.circular(12),
-        border: Border.all(color: Colors.white12),
-      ),
-      child: Column(
-        crossAxisAlignment: CrossAxisAlignment.start,
-        children: [
-          Row(
-            children: [
-              const Icon(Icons.translate, color: Colors.pinkAccent, size: 20),
-              const SizedBox(width: 8),
-              const Text(
-                'Transliterate Japanese VTT to Hiragana',
-                style: TextStyle(
-                  color: Colors.white,
-                  fontSize: 16,
-                  fontWeight: FontWeight.bold,
-                ),
-              ),
-            ],
-          ),
-          const SizedBox(height: 6),
-          const Text(
-            'Recursively converts all .vtt files in a directory to hiragana, '
-            'retaining katakana. Outputs filename_hiragana.vtt alongside each original to be used as a Secondary sub.',
-            style: TextStyle(color: Colors.white54, fontSize: 12),
-          ),
-          const SizedBox(height: 12),
-          ElevatedButton.icon(
-            onPressed: _isTransliterating ? null : _runHiraganaTransliteration,
-            icon: const Icon(Icons.folder_open, size: 18),
-            label: const Text('Select Directory'),
-            style: ElevatedButton.styleFrom(
-              backgroundColor: Colors.pinkAccent,
-              foregroundColor: Colors.white,
-            ),
-          ),
-          if (_isTransliterating || _transliterationProgress > 0) ...[
-            const SizedBox(height: 16),
-            Row(
-              children: [
-                if (_isTransliterating)
-                  const SizedBox(
-                    width: 14,
-                    height: 14,
-                    child: CircularProgressIndicator(
-                      strokeWidth: 2,
-                      color: Colors.pinkAccent,
-                    ),
-                  ),
-                if (_isTransliterating) const SizedBox(width: 8),
-                Expanded(
-                  child: Text(
-                    _transliterationStatus,
-                    style: const TextStyle(
-                      color: Colors.white70,
-                      fontSize: 12,
-                      fontFamily: 'CustomFonts',
-                      fontFeatures: [FontFeature.tabularFigures()],
-                    ),
-                  ),
-                ),
-              ],
-            ),
-            const SizedBox(height: 8),
-            LinearProgressIndicator(
-              value: _transliterationProgress,
-              backgroundColor: Colors.white12,
-              valueColor: const AlwaysStoppedAnimation<Color>(Colors.pinkAccent),
-              minHeight: 6,
-            ),
-            if (_transliterationLog.isNotEmpty) ...[
-              const SizedBox(height: 10),
-              Container(
-                height: 120,
-                padding: const EdgeInsets.all(8),
-                decoration: BoxDecoration(
-                  color: Colors.black26,
-                  borderRadius: BorderRadius.circular(8),
-                ),
-                child: ListView.builder(
-                  itemCount: _transliterationLog.length,
-                  itemBuilder: (context, index) => SelectableText(
-                    _transliterationLog[index],
-                    style: TextStyle(
-                      fontSize: 11,
-                      color: _transliterationLog[index].startsWith('✓')
-                          ? Colors.greenAccent
-                          : _transliterationLog[index].startsWith('✗')
-                              ? Colors.redAccent
-                              : Colors.orange,
-                    ),
-                  ),
-                ),
-              ),
-            ],
-          ],
-        ],
-      ),
-    );
-  }
-
   int? _findColumnByKeyword(String keyword) {
     for (int i = 0; i < _availableColumns.length; i++) {
       if (_availableColumns[i].toLowerCase().contains(keyword)) {
@@ -646,6 +402,7 @@ print('DONE', flush=True)
         suraColumn: _useSuraAyah ? _suraColumn : null,
         ayaColumn: _useSuraAyah ? _ayaColumn : null,
         matchByRange: _matchByRange,
+        moveToParent: _quranPreset,
         onProgress: (status, progress) {
           if (mounted) {
             setState(() {
@@ -728,62 +485,29 @@ print('DONE', flush=True)
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.stretch,
           children: [
-            const Text(
-              'Convert Anki Deck to Audiobook',
-              style: TextStyle(
-                color: Colors.white,
-                fontSize: 24,
-                fontWeight: FontWeight.bold,
-              ),
-            ),
-            const SizedBox(height: 8),
-            RichText(
-              text: TextSpan(
-                style: const TextStyle(
-                  color: Colors.white70,
-                  fontSize: 14,
-                ),
-                children: [
-                  const TextSpan(
-                    text: 'Create opus audiobooks with VTT subtitles from Anki .apkg files\n',
-                  ),
-                  const TextSpan(
-                    text: 'Login to ',
-                  ),
-                  TextSpan(
-                    text: 'https://ankiweb.net',
-                    style: const TextStyle(
-                      color: Colors.lightBlue,
-                      decoration: TextDecoration.underline,
-                    ),
-                    recognizer: TapGestureRecognizer()
-                      ..onTap = () => _launchUrl('https://ankiweb.net'),
-                  ),
-                  const TextSpan(
-                    text: ' using an email address, click Get Shared Decks and find one containing audio\n',
-                  ),
-                  const TextSpan(
-                    text: 'Automatically splits into multiple audiobooks if more than 999 chapters (audios)\n',
-                  ),
-                ],
-              ),
-            ),
-            const SizedBox(height: 32),
             Expanded(
               child: SingleChildScrollView(
                 controller: _scrollController,
                 child: Column(
                   children: [
-                    _buildHiraganaSection(),
-                    const SizedBox(height: 24),
-                    _buildOrganizeMediaSection(),
-                    const SizedBox(height: 24),
-                    _buildQuranVttSection(),
-                    const SizedBox(height: 24),
-                    _buildApkgFileSection(),
-                    const SizedBox(height: 24),
-                    _buildOutputDirectorySection(),
-                    const SizedBox(height: 24),
+                    Row(
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: [
+                        Expanded(child: _buildOrganizeMediaSection()),
+                        const SizedBox(width: 24),
+                        Expanded(child: _buildQuranVttSection()),
+                      ],
+                    ),
+                    const SizedBox(height: 8),
+                    Row(
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: [
+                        Expanded(child: _buildApkgFileSection()),
+                        const SizedBox(width: 24),
+                        Expanded(child: _buildOutputDirectorySection()),
+                      ],
+                    ),
+                    const SizedBox(height: 12),
                     _buildConfigurationSection(),
                     const SizedBox(height: 24),
                     if (_availableColumns.isNotEmpty) ...[
@@ -798,7 +522,7 @@ print('DONE', flush=True)
                       const SizedBox(height: 24),
                     ],
                     if (_csvPath != null && !_showCsvPreview) ...[
-                      const SizedBox(height: 24),
+                      const SizedBox(height: 8),
                       Center(
                         child: ElevatedButton.icon(
                           onPressed: _loadFullCsv,
@@ -833,11 +557,22 @@ print('DONE', flush=True)
     );
   }
 
+  Future<Uint8List> _loadTranslationsZip() async {
+    final data = await rootBundle.load('assets/quranversebyverse/versebyversequran.zip');
+    return data.buffer.asUint8List(data.offsetInBytes, data.lengthInBytes);
+  }
+
+  void _refreshQuranRoot(String root) {
+    _quranRoot = root;
+    _quranLanguageDirs = QuranPipelineService.findLanguageDirs(root);
+  }
+
   Future<void> _runOrganizeMedia() async {
     final dir = await FilePicker.platform.getDirectoryPath(
       dialogTitle: 'Select folder containing the verse-by-verse mp3 files',
     );
     if (dir == null) return;
+    final root = path.dirname(dir); // the parent becomes the Quran root
     setState(() {
       _quranBusy = true;
       _quranStatus = 'Organizing mp3 files...';
@@ -846,7 +581,24 @@ print('DONE', flush=True)
     });
     try {
       await _quranService.organizeMedia(dir);
-      setState(() => _quranStatus = 'Organize complete');
+
+      setState(() => _quranStatus = 'Extracting quran_saheeh CSVs...');
+      final n = await QuranPipelineService.extractZipInIsolate(
+        await _loadTranslationsZip(),
+        root,
+        mode: ZipExtractMode.rangeCsvsOnly,
+      );
+      final missing = QuranPipelineService.ranges
+          .where((r) => !File(path.join(root, 'quran_saheeh$r.csv')).existsSync())
+          .toList();
+      _quranLogAdd('Extracted $n quran_saheeh CSVs into $root');
+      if (missing.isNotEmpty) {
+        _quranLogAdd('WARNING: missing quran_saheeh CSVs for ranges: ${missing.join(', ')}');
+      }
+      setState(() {
+        _refreshQuranRoot(root);
+        _quranStatus = 'Organize complete, $n quran_saheeh CSVs extracted';
+      });
     } catch (e) {
       setState(() => _quranStatus = 'Error: $e');
     } finally {
@@ -854,29 +606,50 @@ print('DONE', flush=True)
     }
   }
 
-  Future<void> _selectQuranRoot() async {
-    final dir = await FilePicker.platform.getDirectoryPath(
-      dialogTitle: 'Select root folder (contains language subfolders, VTTs and quran_saheeh CSVs)',
-    );
-    if (dir == null) return;
-    final dirs = QuranPipelineService.findLanguageDirs(dir);
+  Future<void> _unzipBundledTranslations() async {
+    var root = _quranRoot;
+    if (root == null) {
+      // User resumed from this step without organizing mp3s first.
+      root = await FilePicker.platform.getDirectoryPath(
+        dialogTitle: 'Select folder to unzip the Quran translations into',
+      );
+      if (root == null) return;
+      setState(() => _refreshQuranRoot(root!));
+    }
     setState(() {
-      _quranRoot = dir;
-      _quranLanguageDirs = dirs;
-      _quranLanguage = dirs.isNotEmpty ? dirs.first : null;
+      _quranBusy = true;
+      _quranProgress = 0;
+      _quranStatus = 'Unzipping Quran translations...';
     });
+    try {
+      final n = await QuranPipelineService.extractZipInIsolate(
+        await _loadTranslationsZip(),
+        root,
+        mode: ZipExtractMode.languagesOnly,
+      );
+      _quranLogAdd('Extracted $n files into $root');
+
+      final missing = QuranPipelineService.ranges
+          .where((r) => !File(path.join(root!, 'quran_saheeh$r.csv')).existsSync())
+          .toList();
+      if (missing.isNotEmpty) {
+        _quranLogAdd('WARNING: missing quran_saheeh CSVs for ranges: ${missing.join(', ')} '
+            '(run Select mp3 Folder, or place them in the root)');
+      }
+      setState(() {
+        _refreshQuranRoot(root!);
+        _quranStatus = 'Unzipped: $n files, ${_quranLanguageDirs.length} languages';
+      });
+    } catch (e) {
+      setState(() => _quranStatus = 'Error: $e');
+    } finally {
+      if (mounted) setState(() => _quranBusy = false);
+    }
   }
 
   Future<void> _runQuranPipeline() async {
     final root = _quranRoot;
     if (root == null) return;
-    if (!_quranBatch && _quranLanguage == null) {
-      _showError('No language subfolder found in the root folder');
-      return;
-    }
-    final reciter = _reciterController.text.trim().isEmpty
-        ? 'Alafasy Verse by Verse'
-        : _reciterController.text.trim();
 
     setState(() {
       _quranBusy = true;
@@ -892,12 +665,9 @@ print('DONE', flush=True)
     }
 
     try {
-      if (_quranBatch) {
-        await _quranService.runBatch(root, doVtt: _quranDoVtt, reciter: reciter, onProgress: onProgress);
-      } else {
-        await _quranService.runSingle(root, _quranLanguage!, doVtt: _quranDoVtt, reciter: reciter, onProgress: onProgress);
-      }
+      await _quranService.runBatch(root, doVtt: true, onProgress: onProgress);
       setState(() {
+        _refreshQuranRoot(root);
         _quranStatus = 'Complete!';
         _quranProgress = 1.0;
       });
@@ -951,7 +721,7 @@ print('DONE', flush=True)
             ],
           ),
           Container(
-            height: 360,
+            height: 180,
             padding: const EdgeInsets.all(8),
             decoration: BoxDecoration(
               color: Colors.black26,
@@ -995,13 +765,16 @@ print('DONE', flush=True)
           const Row(children: [
             Icon(Icons.drive_file_move, color: Colors.amber, size: 20),
             SizedBox(width: 8),
-            Text('Organize Quran mp3s into 7 range folders',
-                style: TextStyle(color: Colors.white, fontSize: 16, fontWeight: FontWeight.bold)),
+            Expanded(
+              child: Text('Organize Quran Verse by Verse mp3s into 7 folders',
+                  style: TextStyle(color: Colors.white, fontSize: 16, fontWeight: FontWeight.bold)),
+            ),
           ]),
           const SizedBox(height: 6),
           const Text(
             'Select the folder holding the 001001.mp3-style files. Creates quran_saheeh001-006_media … '
-            'quran_saheeh070-114_media next to it; ayah 000 files go to z_bismillah.',
+            'quran_saheeh070-114_media next to it (ayah 000 files go to z_bismillah) and extracts the 7 '
+            'quran_saheeh CSVs there too. That parent folder becomes the root for the translations.',
             style: TextStyle(color: Colors.white54, fontSize: 12),
           ),
           const SizedBox(height: 12),
@@ -1035,96 +808,35 @@ print('DONE', flush=True)
           ]),
           const SizedBox(height: 6),
           const Text(
-            'Cleans translation CSVs, splits them into 7 ranges, merges Arabic + audio, generates translated '
-            'VTTs and splits long cues. Root folder must contain the language subfolders, quran_saheeh*.csv '
-            'files and the reciter VTTs. Khmer cue splitting uses Python (khmer-segmenter).',
+            'Cleans the CSVs, splits them into 7 ranges, generates translated VTTs and splits long cues. '
+            'Works on every language subfolder in the root folder (the parent of the mp3 folder). '
+            'To convert just one language, put it in its own subfolder. '
+            'Khmer cue splitting uses Python (khmer-segmenter).',
             style: TextStyle(color: Colors.white54, fontSize: 12),
-          ),
-          const SizedBox(height: 12),
-          SegmentedButton<bool>(
-            segments: const [
-              ButtonSegment(value: false, label: Text('Single language')),
-              ButtonSegment(value: true, label: Text('Batch all languages')),
-            ],
-            selected: {_quranBatch},
-            onSelectionChanged: _quranBusy ? null : (s) => setState(() => _quranBatch = s.first),
           ),
           const SizedBox(height: 12),
           Row(children: [
             ElevatedButton.icon(
-              onPressed: _quranBusy ? null : _selectQuranRoot,
-              icon: const Icon(Icons.folder_open, size: 18),
-              label: const Text('Select Root Folder'),
-              style: ElevatedButton.styleFrom(backgroundColor: Colors.teal, foregroundColor: Colors.white),
+              onPressed: _quranBusy ? null : _unzipBundledTranslations,
+              icon: const Icon(Icons.unarchive, size: 18),
+              label: const Text('Unzip 82 Quran Translations'),
+              style: ElevatedButton.styleFrom(backgroundColor: Colors.lightBlueAccent, foregroundColor: Colors.white),
             ),
             const SizedBox(width: 12),
-            Expanded(
-              child: Text(
-                _quranRoot ?? 'No folder selected',
-                style: const TextStyle(color: Colors.white70, fontSize: 12),
-                overflow: TextOverflow.ellipsis,
-              ),
-            ),
-          ]),
-          if (_quranRoot != null) ...[
-            const SizedBox(height: 12),
-            if (!_quranBatch)
-              SizedBox(
-                width: 320,
-                child: DropdownButtonFormField<String>(
-                  value: _quranLanguage,
-                  decoration: const InputDecoration(
-                    labelText: 'Language folder',
-                    filled: true,
-                    fillColor: Colors.black26,
-                    border: OutlineInputBorder(),
-                  ),
-                  dropdownColor: const Color(0xFF1E1E1E),
-                  style: const TextStyle(color: Colors.white),
-                  items: _quranLanguageDirs
-                      .map((d) => DropdownMenuItem(value: d, child: Text(d)))
-                      .toList(),
-                  onChanged: _quranBusy ? null : (v) => setState(() => _quranLanguage = v),
-                ),
-              )
-            else
-              Text('${_quranLanguageDirs.length} language folders found',
-                  style: const TextStyle(color: Colors.white70, fontSize: 12)),
-            const SizedBox(height: 8),
-            Row(children: [
-              Expanded(
-                child: CheckboxListTile(
-                  contentPadding: EdgeInsets.zero,
-                  title: const Text('Generate translated VTT files', style: TextStyle(color: Colors.white)),
-                  value: _quranDoVtt,
-                  onChanged: _quranBusy ? null : (v) => setState(() => _quranDoVtt = v!),
-                  activeColor: Colors.deepPurple,
-                ),
-              ),
-              const Expanded(child: SizedBox()),
-            ]),
-            if (_quranDoVtt)
-              SizedBox(
-                width: 420,
-                child: TextField(
-                  controller: _reciterController,
-                  style: const TextStyle(color: Colors.white),
-                  decoration: const InputDecoration(
-                    labelText: 'Reciter name in VTT filenames',
-                    filled: true,
-                    fillColor: Colors.black26,
-                    border: OutlineInputBorder(),
-                  ),
-                ),
-              ),
-            const SizedBox(height: 12),
             ElevatedButton.icon(
-              onPressed: (_quranBusy || _isProcessing) ? null : _runQuranPipeline,
+              onPressed: (_quranBusy || _isProcessing || _quranRoot == null) ? null : _runQuranPipeline,
               icon: const Icon(Icons.play_arrow, size: 20),
-              label: Text(_quranBatch ? 'Run Batch' : 'Run Single'),
+              label: const Text('Run Batch'),
               style: ElevatedButton.styleFrom(backgroundColor: Colors.deepPurple, foregroundColor: Colors.white),
             ),
-          ],
+          ]),
+          const SizedBox(height: 8),
+          Text(
+            _quranRoot == null
+                ? 'No root folder yet (select the mp3 folder, or unzip translations)'
+                : '$_quranRoot  •  ${_quranLanguageDirs.length} language folders found',
+            style: const TextStyle(color: Colors.white70, fontSize: 12),
+          ),
           if (_quranBusy || _quranStatus.isNotEmpty) ...[
             const SizedBox(height: 12),
             Row(children: [
@@ -1641,6 +1353,32 @@ print('DONE', flush=True)
                 ],
               ),
             ),
+          const SizedBox(height: 16),
+          RichText(
+            text: TextSpan(
+              style: const TextStyle(color: Colors.white70, fontSize: 14),
+              children: [
+                const TextSpan(
+                  text: 'Create opus audiobooks with VTT subtitles from Anki .apkg files. Login to\n',
+                ),
+                TextSpan(
+                  text: 'https://ankiweb.net',
+                  style: const TextStyle(
+                    color: Colors.lightBlue,
+                    decoration: TextDecoration.underline,
+                  ),
+                  recognizer: TapGestureRecognizer()
+                    ..onTap = () => _launchUrl('https://ankiweb.net'),
+                ),
+                const TextSpan(
+                  text: ' using an email address, click Get Shared Decks & find one with audio\n',
+                ),
+                const TextSpan(
+                  text: 'Automatically splits into multiple audiobooks if more than 999 chapters (audios)\n',
+                ),
+              ],
+            ),
+          ),
         ],
       ),
     );

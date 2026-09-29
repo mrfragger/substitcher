@@ -1,10 +1,10 @@
 name: substitcher
 description: opus chaptered audiobook player, encoder and editor with colored subtitle support, basic video editor
 publish_to: "none"
-version: 26.09.28
+version: 26.09.29
 
 environment:
-  sdk: ">=3.0.0 <4.0.0"
+  sdk: ">=3.13.0 <4.0.0"
 
 dependencies:
   flutter:
@@ -96,6 +96,7 @@ flutter:
     - assets/quran_index/word_audio.bin
     - assets/quranroots/roots.json
     - assets/quranroots/vocab.json
+    - assets/quranversebyverse/versebyversequran.zip
     - assets/audioword/
     - assets/quran_wbw/
     - assets/alif/

@@ -419,6 +419,7 @@ class AnkiService {
       required bool useFilenameAsChapterName,
       required Function(String status, double progress) onProgress,
       bool matchByRange = false,
+      bool moveToParent = false,
     }) async {
       onProgress('Reading CSV file...', 0.0);
 
@@ -660,10 +661,33 @@ class AnkiService {
           audioRepetitions: audioRepetitions,
           useFilenameAsChapterName: useFilenameAsChapterName,
         );
+
+        if (moveToParent) {
+          for (final src in [stitchedVttPath, finalAudiobookPath]) {
+            final dest = path.join(outputDir, path.basename(src));
+            final destFile = File(dest);
+            if (await destFile.exists()) await destFile.delete();
+            await File(src).rename(dest);
+          }
+          print('Moved $author - $currentTitle .opus/.vtt to $outputDir');
+        }
       }
 
       onProgress('Cleaning up temporary files...', 0.98);
       await _deleteDirectoryWithRetry(vttDir);
+
+      if (moveToParent) {
+        final runDir = Directory(path.join(outputDir, timestamp));
+        if (await runDir.exists()) {
+          final hasOutputs = runDir.listSync(recursive: true).whereType<File>().any((f) {
+            final l = f.path.toLowerCase();
+            return l.endsWith('.opus') || l.endsWith('.vtt');
+          });
+          if (!hasOutputs) {
+            await _deleteDirectoryWithRetry(runDir);
+          }
+        }
+      }
 
       await Future.delayed(const Duration(milliseconds: 100));
       onProgress('Complete!', 1.0);

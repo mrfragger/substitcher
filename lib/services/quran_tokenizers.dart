@@ -30,7 +30,7 @@ class QuranTokenizers {
   bool _khmerSampleLogged = false;
   final Set<String> _warned = {};
   IcuTokenizer? _icu;
-  bool _icuFailed = false;
+  bool _icuFailed = true; // ICU drops Khmer combining marks; use Python instead
   bool _icuSampleLogged = false;
 
   // khmer_segmenter.tokenize() returns a space-separated STRING, not a list,
@@ -76,7 +76,6 @@ for line in sys.stdin:
             log('  Thai sample tokens (${t.length}): ${t.take(10).join(' | ')}');
           }
           return t;
-        return await WordThaiSplit.split(text);
         case 'khmer':
           return await _khmer(text);
       }

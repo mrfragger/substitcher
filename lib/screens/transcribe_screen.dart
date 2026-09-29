@@ -23,6 +23,7 @@ class _TranscribeScreenState extends State<TranscribeScreen> {
   bool _isTranscribing = false;
   String _transcriptionStatus = '';
   double _transcriptionProgress = 0.0;
+  bool _finalizing = false;
   String? _chaptersDirectory;
   DateTime? _transcriptionStartTime;
   String? _lastTranscriptionTime;
@@ -38,6 +39,8 @@ class _TranscribeScreenState extends State<TranscribeScreen> {
 
 bool _remerging = false;
 String _remergeStatus = '';
+bool _regeneratingMd = false;
+String _mdStatus = '';
 int _customMsOffset = 0;
 final _msOffsetController = TextEditingController(text: '0');
 
@@ -77,6 +80,86 @@ List<String> _availableAudiobooks = [];
     _customPromptController.dispose();
     _progressUpdateTimer?.cancel();
     super.dispose();
+  }
+
+  Future<void> _finalizeTranscription() async {
+    if (_finalizing || !mounted || !_isTranscribing) return;
+    _finalizing = true;
+
+    try {
+      final start = _transcriptionStartTime;
+      final elapsed = start != null ? DateTime.now().difference(start) : Duration.zero;
+      final hours = elapsed.inHours;
+      final minutes = elapsed.inMinutes.remainder(60);
+      final seconds = elapsed.inSeconds.remainder(60);
+
+      double finalRealtimeSpeed = 0.0;
+      final startingRemaining = _startingRemainingDuration;
+      if (startingRemaining != null && startingRemaining.inSeconds > 0 && elapsed.inSeconds > 0) {
+        finalRealtimeSpeed = startingRemaining.inSeconds / elapsed.inSeconds;
+      }
+
+      setState(() {
+        _isTranscribing = false;
+        _transcriptionStatus = 'Transcription complete!';
+        _transcriptionProgress = 1.0;
+        _lastTranscriptionTime = hours > 0
+            ? '${hours}h ${minutes}m ${seconds}s'
+            : '${minutes}m ${seconds}s';
+        _lastRealtimeSpeed = finalRealtimeSpeed;
+        _totalRemainingDuration = Duration.zero;
+      });
+
+      await _convertAllVttToMarkdown(_chaptersDirectory!);
+
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          const SnackBar(
+            content: Text('Transcription completed successfully!'),
+            backgroundColor: Colors.green,
+          ),
+        );
+      }
+    } finally {
+      _finalizing = false;
+    }
+  }
+
+  Future<void> _regenerateMarkdown() async {
+    if (_chaptersDirectory == null) {
+      setState(() => _mdStatus = 'Please select a chapters directory first');
+      return;
+    }
+    if (!Directory(_chaptersDirectory!).existsSync()) {
+      setState(() => _mdStatus = 'Directory not found');
+      return;
+    }
+
+    setState(() {
+      _regeneratingMd = true;
+      _mdStatus = 'Regenerating markdown files...';
+    });
+
+    await _convertAllVttToMarkdown(_chaptersDirectory!);
+
+    if (!mounted) return;
+
+    final mdCount = Directory(_chaptersDirectory!)
+        .listSync()
+        .where((e) => e is File && e.path.endsWith('.md'))
+        .length;
+
+    setState(() {
+      _regeneratingMd = false;
+      _mdStatus = 'Done. $mdCount .md files in ${path.basename(_chaptersDirectory!)}';
+    });
+
+    ScaffoldMessenger.of(context).showSnackBar(
+      SnackBar(
+        content: Text('Regenerated markdown ($mdCount files)'),
+        backgroundColor: Colors.green,
+      ),
+    );
   }
 
   Future<void> _selectWhisperExecutable() async {
@@ -342,37 +425,7 @@ List<String> _availableAudiobooks = [];
       targetAudiobookPath: _selectedAudiobookPath,
     );
 
-    if (mounted && _isTranscribing) {
-      final elapsed = DateTime.now().difference(_transcriptionStartTime!);
-      final hours = elapsed.inHours;
-      final minutes = elapsed.inMinutes.remainder(60);
-      final seconds = elapsed.inSeconds.remainder(60);
-
-      double finalRealtimeSpeed = 0.0;
-      if (_startingRemainingDuration!.inSeconds > 0 && elapsed.inSeconds > 0) {
-        finalRealtimeSpeed = _startingRemainingDuration!.inSeconds / elapsed.inSeconds;
-      }
-
-      setState(() {
-        _isTranscribing = false;
-        _transcriptionStatus = 'Transcription complete!';
-        _transcriptionProgress = 1.0;
-        _lastTranscriptionTime = hours > 0
-            ? '${hours}h ${minutes}m ${seconds}s'
-            : '${minutes}m ${seconds}s';
-        _lastRealtimeSpeed = finalRealtimeSpeed;
-        _totalRemainingDuration = Duration.zero;
-      });
-
-      await _convertAllVttToMarkdown(_chaptersDirectory!);
-
-      ScaffoldMessenger.of(context).showSnackBar(
-        const SnackBar(
-          content: Text('Transcription completed successfully!'),
-          backgroundColor: Colors.green,
-        ),
-      );
-    }
+    await _finalizeTranscription();
   }
 
   void _startProgressUpdateTimer() {
@@ -380,6 +433,7 @@ List<String> _availableAudiobooks = [];
     _progressUpdateTimer = Timer.periodic(const Duration(milliseconds: 500), (timer) {
       if (!_whisperService.isTranscribing) {
         timer.cancel();
+        _finalizeTranscription();
       } else if (mounted) {
         setState(() {
           _transcriptionStatus = _whisperService.transcriptionStatus;
@@ -508,7 +562,9 @@ List<String> _availableAudiobooks = [];
       final vttFiles = <String>[];
       final dir = Directory(chaptersDirectory);
       await for (final entity in dir.list()) {
-        if (entity is File && path.extension(entity.path).toLowerCase() == '.vtt') {
+        if (entity is File &&
+            path.extension(entity.path).toLowerCase() == '.vtt' &&
+            !entity.path.contains('_original_overlaps')) {
           vttFiles.add(entity.path);
         }
       }
@@ -575,6 +631,7 @@ List<String> _availableAudiobooks = [];
       if (mounted) {
         setState(() {
           _transcriptionStatus = 'MD conversion error: $e';
+          _mdStatus = 'MD conversion error: $e';
         });
       }
     }
@@ -703,7 +760,16 @@ List<String> _availableAudiobooks = [];
                     _buildWhisperSettingsSection(),
                     const SizedBox(height: 32),
 
-                    _buildRemergeSection(),
+                    IntrinsicHeight(
+                      child: Row(
+                        crossAxisAlignment: CrossAxisAlignment.stretch,
+                        children: [
+                          Expanded(child: _buildRemergeSection()),
+                          const SizedBox(width: 16),
+                          Expanded(child: _buildMarkdownSection()),
+                        ],
+                      ),
+                    ),
                     const SizedBox(height: 32),
 
                     if (_isTranscribing) ...[
@@ -831,6 +897,64 @@ List<String> _availableAudiobooks = [];
               foregroundColor: Colors.white,
             ),
           ),
+        ],
+      ),
+    );
+  }
+
+  Widget _buildMarkdownSection() {
+    return Container(
+      padding: const EdgeInsets.all(16),
+      decoration: BoxDecoration(
+        color: Colors.grey[900],
+        borderRadius: BorderRadius.circular(8),
+        border: Border.all(color: Colors.teal),
+      ),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          const Text(
+            'Regenerate Markdown',
+            style: TextStyle(
+              color: Colors.white,
+              fontSize: 16,
+              fontWeight: FontWeight.bold,
+            ),
+          ),
+          const SizedBox(height: 8),
+          const Text(
+            'Rebuild the .md files from the existing chapter VTTs without re-transcribing. '
+            'Use this after editing or re-merging VTTs.',
+            style: TextStyle(color: Colors.white70, fontSize: 12),
+          ),
+          const SizedBox(height: 16),
+          ElevatedButton.icon(
+            onPressed: (_regeneratingMd || _isTranscribing) ? null : _regenerateMarkdown,
+            icon: _regeneratingMd
+                ? const SizedBox(
+                    width: 16,
+                    height: 16,
+                    child: CircularProgressIndicator(strokeWidth: 2, color: Colors.white),
+                  )
+                : const Icon(Icons.description),
+            label: const Text('Regenerate .md Files'),
+            style: ElevatedButton.styleFrom(
+              backgroundColor: Colors.teal,
+              padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
+            ),
+          ),
+          if (_mdStatus.isNotEmpty) ...[
+            const SizedBox(height: 12),
+            Text(
+              _mdStatus,
+              style: TextStyle(
+                color: _mdStatus.contains('error') || _mdStatus.contains('not found')
+                    ? Colors.red
+                    : Colors.green,
+                fontSize: 12,
+              ),
+            ),
+          ],
         ],
       ),
     );
@@ -1000,13 +1124,15 @@ List<String> _availableAudiobooks = [];
             style: TextStyle(color: Colors.white70, fontSize: 12),
           ),
           const SizedBox(height: 16),
-          Row(
+          Wrap(
+            spacing: 12,
+            runSpacing: 12,
+            crossAxisAlignment: WrapCrossAlignment.center,
             children: [
               const Text(
                 'Offset (ms):',
                 style: TextStyle(color: Colors.white70, fontSize: 14),
               ),
-              const SizedBox(width: 12),
               SizedBox(
                 width: 100,
                 child: TextField(
@@ -1563,11 +1689,11 @@ List<String> _availableAudiobooks = [];
               const SizedBox(width: 16),
               ElevatedButton.icon(
                 onPressed: () async {
-                  await _whisperService.cancelTranscription();
                   setState(() {
                     _isTranscribing = false;
                     _transcriptionStatus = 'Cancelled';
                   });
+                  await _whisperService.cancelTranscription();
                 },
                 icon: const Icon(Icons.stop, size: 24),
                 label: const Text(
