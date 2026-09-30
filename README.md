@@ -43,7 +43,7 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 - in font panel set custom folder to this one and all fonts will be loaded
 - [177Studio](https://177studio.com) with 12 fonts
 - [Grezline Studio](https://grezlinestudio.com) with 6 fonts
-- [Letterara Studio](https://letterarastudio.com) with 6 fonts
+- [Letterara Studio](https://letterarastudio.com) with 5 fonts
 
 ```bash
 │  customfonts
@@ -66,8 +66,8 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 │   ├── Axaria.ttf (Letterara)
 │   ├── Carevo.ttf (Letterara)
 │   ├── Chocolate Chips.otf (inermedia)
-│   ├── Fortunish.ttf (Letterara)
-│   ├── Sevenfold.ttf (Letterara)
+│   ├── Fortunish.ttf (Letterara) 
+│   ├── Row Vatikano.ttf (authentype Lab)
 │   ├── Sophia Melanie.otf (Grezline)
 │   ├── Zentaro.ttf (Letterara)
 │   └── Zerothen.ttf (Letterara)
@@ -531,15 +531,9 @@ Installation Steps
 - 28 MB fonts, 65 MB LUTs, 36 MB DeepFilterNet3 (denoise), 17 MB adhan, 14 MB ffmpeg, 10 MB llama.cpp, 5 MB whisper.cpp, 12 MB quran index, 322 MB tafsir, 203 MB hadeeth
 - So Mac app size is about 95 MB real size of flutter app not accounting for all the assets
 - Never will get a light theme nor support music
-- Never will support cover images, choose audiobooks with covers and not to use subtitles, use kid3 app (qt free cross-platform app) for embedding a cover image
 - Reason is most audiobook players don't support subtitles, and ones that do, do so due to video support and having a cover image in background intefers with subtitles in most cases
 - It just puts a 16x9 black png image with META_BLOCK_PICTURE some info which conforms to vorbis comment specification
-- encode wma or flv or other old codecs by batch converting them to opus then encode those to an opus chaptered audiobook
-- `parallel ffmpeg -i {} -c:a libopus -b:a 32k {.}.opus ::: *.wma` 
-- `parallel ffmpeg -i {} -c:a libopus -b:a 32k {.}.opus ::: *.flv`
 - Developed since 2022 but in Dec 2025 decided to port from mpv front-end lua scripts with uosc ui, LUTs to a flutter / dart app (not just Mac/Linux anymore) and make it purely an audiobook player with some basic video editing
-- Edit fonts, create own fonts https://www.glyphrstudio.com/app (free)
-- view detailed info about fonts https://fontdrop.info (free)
 - convert otf, ttf, woff, woff2 fonts https://fontsource.org/tools/converter (free)
 </details>
 
