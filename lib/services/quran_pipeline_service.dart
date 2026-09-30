@@ -924,8 +924,12 @@ class QuranPipelineService {
       await restorePackagedSources(root);
       await backupSourceVtts(root);
     }
+    final width = dirs.length.toString().length;
     for (var i = 0; i < dirs.length; i++) {
-      onProgress?.call('Processing ${dirs[i]} (${i + 1}/${dirs.length})', i / dirs.length);
+      onProgress?.call(
+        'Processing (${(i + 1).toString().padLeft(width, '0')}/${dirs.length}) ${dirs[i]}',
+        i / dirs.length,
+      );
       try {
         await processLanguage(root, dirs[i], doVtt: doVtt);
       } catch (e) {

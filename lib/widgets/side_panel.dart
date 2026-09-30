@@ -456,7 +456,7 @@ class SidePanel extends StatelessWidget {
                     panelMode == PanelMode.luts) ...[
                   const SizedBox(height: 16),
                   _buildSearchBar(),
-                  const SizedBox(height: 16),
+                  SizedBox(height: panelMode == PanelMode.playlist ? 0 : 16),
                 ],
                 Expanded(
                   child: _buildPanelContent(context),
@@ -1078,14 +1078,11 @@ class SidePanel extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.stretch,
             children: [
               InkWell(
-                onTap: () =>
-                    onTogglePlaylistDirectories(!showPlaylistDirectories),
+                onTap: () => onTogglePlaylistDirectories(!showPlaylistDirectories),
                 child: Row(
                   children: [
                     Icon(
-                      showPlaylistDirectories
-                          ? Icons.expand_less
-                          : Icons.expand_more,
+                      showPlaylistDirectories ? Icons.expand_less : Icons.expand_more,
                       color: Colors.white70,
                     ),
                     const SizedBox(width: 8),
@@ -1096,6 +1093,24 @@ class SidePanel extends StatelessWidget {
                         fontSize: 14,
                         fontWeight: FontWeight.bold,
                       ),
+                    ),
+                    const SizedBox(width: 12),
+                    ElevatedButton(
+                      onPressed: () {
+                        searchController.text = '006';
+                        searchController.selection = TextSelection.collapsed(
+                          offset: searchController.text.length,
+                        );
+                        onSearchChanged('006');
+                      },
+                      style: ElevatedButton.styleFrom(
+                        backgroundColor: Colors.deepPurple,
+                        foregroundColor: Colors.white,
+                        padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 4),
+                        minimumSize: const Size(0, 28),
+                        tapTargetSize: MaterialTapTargetSize.shrinkWrap,
+                      ),
+                      child: const Text('006', style: TextStyle(fontSize: 13)),
                     ),
                     const Spacer(),
                     IconButton(

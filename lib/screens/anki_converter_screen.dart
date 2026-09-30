@@ -6,6 +6,7 @@ import 'package:path/path.dart' as path;
 import 'package:csv/csv.dart';
 import 'package:flutter/services.dart';
 import 'dart:io';
+import 'dart:ui';
 import 'dart:convert';
 import 'dart:async';
 import '../services/anki_service.dart';
@@ -35,6 +36,9 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
   String? _outputDirectory;
   DateTime? _processingStartTime;
   String? _lastProcessingTime;
+  DateTime? _quranStartTime;
+  String _quranElapsed = '';
+  Timer? _quranElapsedTimer;
   int _extractedAudioCount = 0;
   int _totalNotes = 0;
 
@@ -73,6 +77,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
   bool _csvOnlyMode = false;
   bool _useFilenameAsChapterName = false;
   static String? _lastCsvDirectory;
+  static String? _lastQuranRoot;
   String? _lastOutputFilename;
 
   bool _useSuraAyah = false;
@@ -104,6 +109,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
     _authorController.dispose();
     _tokenizers.dispose();
     _logTimer?.cancel();
+    _quranElapsedTimer?.cancel();
     super.dispose();
   }
 
@@ -582,17 +588,27 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
 
   void _refreshQuranRoot(String root) {
     _quranRoot = root;
+    _lastQuranRoot = root;
     _quranLanguageDirs = QuranPipelineService.findLanguageDirs(root);
   }
 
   Future<void> _runOrganizeMedia() async {
+    final startDir = (_quranRoot != null && await Directory(_quranRoot!).exists())
+        ? _quranRoot
+        : (_lastQuranRoot != null && await Directory(_lastQuranRoot!).exists()
+            ? _lastQuranRoot
+            : null);
+
     final dir = await FilePicker.platform.getDirectoryPath(
       dialogTitle: 'Select folder containing the verse-by-verse mp3 files',
+      initialDirectory: startDir,
     );
     if (dir == null) return;
     final root = path.dirname(dir);
+    _lastQuranRoot = root;
     setState(() {
       _quranShowLog = false;
+      _quranElapsed = '';
       _quranBusy = true;
       _quranStatus = 'Organizing mp3 files...';
       _quranProgress = 0;
@@ -637,6 +653,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
     }
     setState(() {
       _quranShowLog = false;
+      _quranElapsed = '';
       _quranBusy = true;
       _quranProgress = 0;
       _quranStatus = 'Extracting quran_saheeh CSVs...';
@@ -681,6 +698,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
     }
     setState(() {
       _quranShowLog = false;
+      _quranElapsed = '';
       _quranBusy = true;
       _quranProgress = 0;
       _quranStatus = 'Unzipping Quran translations...';
@@ -720,11 +738,20 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
     final root = _quranRoot;
     if (root == null) return;
 
+    _quranStartTime = DateTime.now();
+    _quranElapsedTimer?.cancel();
+    _quranElapsedTimer = Timer.periodic(const Duration(seconds: 1), (_) {
+      if (!mounted || _quranStartTime == null) return;
+      setState(() => _quranElapsed =
+          _formatDuration(DateTime.now().difference(_quranStartTime!)));
+    });
+
     setState(() {
       _quranShowLog = true;
       _quranBusy = true;
       _quranProgress = 0;
       _quranStatus = 'Starting...';
+      _quranElapsed = '0m 0s';
       _quranLog.clear();
     });
     void onProgress(String s, double pr) {
@@ -744,9 +771,19 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
     } catch (e) {
       setState(() => _quranStatus = 'Error: $e');
     } finally {
-      if (mounted) setState(() => _quranBusy = false);
+        _quranElapsedTimer?.cancel();
+        if (mounted) {
+          setState(() {
+            _quranBusy = false;
+            if (_quranStartTime != null) {
+              _quranElapsed =
+                  _formatDuration(DateTime.now().difference(_quranStartTime!));
+            }
+          });
+        }
+      }
     }
-  }
+
 
   void _quranLogAdd(String msg) {
     _quranLog.add(msg);
@@ -876,7 +913,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
                 icon: const Icon(Icons.folder_open, size: 18),
                 label: const Text('Select mp3 Folder'),
                 style: ElevatedButton.styleFrom(
-                  backgroundColor: Colors.amber.shade800,
+                  backgroundColor: Colors.cyan.shade900,
                   foregroundColor: Colors.white,
                 ),
               ),
@@ -885,7 +922,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
                 icon: const Icon(Icons.unarchive, size: 18),
                 label: const Text('Unzip 7 quran_saheeh CSVs'),
                 style: ElevatedButton.styleFrom(
-                  backgroundColor: Colors.orange.shade600,
+                  backgroundColor: Colors.cyan.shade900,
                   foregroundColor: Colors.white,
                 ),
               ),
@@ -927,14 +964,14 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
               onPressed: _quranBusy ? null : _unzipBundledTranslations,
               icon: const Icon(Icons.unarchive, size: 18),
               label: const Text('Unzip 82 Quran Translations'),
-              style: ElevatedButton.styleFrom(backgroundColor: Colors.lightBlue, foregroundColor: Colors.white),
+              style: ElevatedButton.styleFrom(backgroundColor: Colors.cyan.shade900, foregroundColor: Colors.white),
             ),
             const SizedBox(width: 12),
             ElevatedButton.icon(
               onPressed: (_quranBusy || _isProcessing || _quranRoot == null) ? null : _runQuranPipeline,
               icon: const Icon(Icons.play_arrow, size: 20),
-              label: const Text('Run Batch'),
-              style: ElevatedButton.styleFrom(backgroundColor: Colors.deepPurple, foregroundColor: Colors.white),
+              label: const Text('Split vtt cues'),
+              style: ElevatedButton.styleFrom(backgroundColor: Colors.cyan.shade900, foregroundColor: Colors.white),
             ),
           ]),
           const SizedBox(height: 8),
@@ -956,6 +993,18 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
                 child: Text(_quranStatus,
                     style: const TextStyle(color: Colors.white70, fontSize: 12, fontFamily: 'CustomFonts')),
               ),
+              if (_quranElapsed.isNotEmpty) ...[
+                const SizedBox(width: 12),
+                Text(
+                  'Elapsed Time: $_quranElapsed',
+                  style: const TextStyle(
+                    color: Colors.redAccent,
+                    fontSize: 12,
+                    fontFamily: 'CustomFonts',
+                    fontFeatures: [FontFeature.tabularFigures()],
+                  ),
+                ),
+              ],
             ]),
             const SizedBox(height: 8),
             LinearProgressIndicator(
@@ -1275,7 +1324,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
               const Icon(Icons.book, color: Colors.lightBlue, size: 20),
               const SizedBox(width: 8),
               const Text(
-                'Anki .apkg File or CSV',
+                'Anki .apkg File or csv / Quran csv',
                 style: TextStyle(
                   color: Colors.white,
                   fontSize: 16,
@@ -1324,7 +1373,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
                 icon: const Icon(Icons.folder_open, size: 18),
                 label: const Text('Select .apkg File'),
                 style: ElevatedButton.styleFrom(
-                  backgroundColor: Colors.lightBlue,
+                  backgroundColor: Colors.cyan.shade900,
                   foregroundColor: Colors.white,
                 ),
               ),
@@ -1334,7 +1383,7 @@ class _AnkiConverterScreenState extends State<AnkiConverterScreen> {
                 icon: const Icon(Icons.table_chart, size: 18),
                 label: const Text('Select CSV File'),
                 style: ElevatedButton.styleFrom(
-                  backgroundColor: Colors.teal,
+                  backgroundColor: Colors.cyan.shade900,
                   foregroundColor: Colors.white,
                 ),
               ),
