@@ -37,13 +37,13 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 
 ![](images/fonts.jpg)
 
-- download 31 demo fonts or search for them to download on font websites
+- download 32 demo fonts or search for them to download on font websites
 - custom fonts can all be in one directory within various subdirectories, it recursively loads the fonts
 - ![customfonts.zip 1.3 MB](https://github.com/mrfragger/substitcher/raw/main/images/customfonts.zip)
 - in font panel set custom folder to this one and all fonts will be loaded
 - [177Studio](https://177studio.com) with 12 fonts
 - [Grezline Studio](https://grezlinestudio.com) with 6 fonts
-- [Letterara Studio](https://letterarastudio.com) with 5 fonts
+- [Letterara Studio](https://letterarastudio.com) with 6 fonts
 
 ```bash
 │  customfonts
@@ -67,6 +67,7 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 │   ├── Carevo.ttf (Letterara)
 │   ├── Chocolate Chips.otf (inermedia)
 │   ├── Fortunish.ttf (Letterara)
+│   ├── Sevenfold.ttf (Letterara)
 │   ├── Sophia Melanie.otf (Grezline)
 │   ├── Zentaro.ttf (Letterara)
 │   └── Zerothen.ttf (Letterara)
