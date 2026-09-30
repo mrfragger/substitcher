@@ -59,8 +59,10 @@ class FontDatabase {
      'Axaria': FontMetadata(fontName: 'Axaria', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various123),
      'Carevo': FontMetadata(fontName: 'Carevo', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various123),
      'Chocolate Chips': FontMetadata(fontName: 'Chocolate Chips', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various123),
+     'Fortunish': FontMetadata(fontName: 'Fortunish', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various123),
      'Sophia Melanie': FontMetadata(fontName: 'Sophia Melanie', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various123),
      'Zentaro': FontMetadata(fontName: 'Zentaro', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various123),
+     'Zerothen': FontMetadata(fontName: 'Zerothen', mainCategory: FontCategory.demo, subCategories: [FontCategory.ligatures], studio: FontCategory.various123),
 
      // ==================== demo/missingligatures/177studio ====================
      'Abstract Settings demo': FontMetadata(fontName: 'Abstract Settings demo', mainCategory: FontCategory.demo, subCategories: [FontCategory.missingLigatures], studio: FontCategory.studio177, ligaturePairs: ["as", "be", "de", "es", "ha", "le", "ly", "ne", "of", "op", "pr", "rt", "so", "ur", "ic", "is"]),
