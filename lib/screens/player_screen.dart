@@ -261,7 +261,6 @@ class _PlayerScreenState extends State<PlayerScreen>
   bool _defaultColorCycleActive = false;
   String _selectedFont = 'System Default';
   int _selectedFontIndex = -1;
-  final ScrollController _fontScrollController = ScrollController();
   String? _customFontDirectory;
   String? _customFontDirectory2;
   String _selectedMainCategory = 'all';
@@ -277,6 +276,7 @@ class _PlayerScreenState extends State<PlayerScreen>
   int? _currentSecondarySubtitleIndex;
   String? _secondarySubtitleFilePath;
 
+  final ItemScrollController _fontScrollController = ItemScrollController();
   String _secondarySubtitleFont = 'System Default';
   double _secondarySubtitleFontSize = 86.0;
   ColorPalette? _secondaryColorPalette;
@@ -502,7 +502,6 @@ class _PlayerScreenState extends State<PlayerScreen>
     _sleepTimer?.cancel();
     _pauseModeTimer?.cancel();
     player.dispose();
-    _fontScrollController.dispose();
     _playlistScrollController.dispose();
     _historyScrollController.dispose();
     _focusNode.dispose();
@@ -7598,39 +7597,22 @@ class _PlayerScreenState extends State<PlayerScreen>
   }
 
   void _scrollToSelectedFont() {
-    if (!_fontScrollController.hasClients) return;
     WidgetsBinding.instance.addPostFrameCallback((_) {
-      if (!_fontScrollController.hasClients) return;
-      const itemHeight = 56.0;
-      final viewportHeight = _fontScrollController.position.viewportDimension;
-      final currentScroll = _fontScrollController.offset;
-      final itemTop = _selectedFontIndex * itemHeight;
-      final itemBottom = itemTop + itemHeight;
-      final viewportTop = currentScroll;
-      final viewportBottom = currentScroll + viewportHeight;
-      if (itemTop < viewportTop) {
-        final targetOffset =
-            (itemTop) - (viewportHeight / 2) + (itemHeight / 2);
-        final maxScroll = _fontScrollController.position.maxScrollExtent;
-        final minScroll = _fontScrollController.position.minScrollExtent;
-        final clampedScroll = targetOffset.clamp(minScroll, maxScroll);
-        _fontScrollController.animateTo(
-          clampedScroll,
-          duration: const Duration(milliseconds: 200),
-          curve: Curves.easeInOut,
-        );
-      } else if (itemBottom > viewportBottom) {
-        final targetOffset =
-            (itemTop) - (viewportHeight / 2) + (itemHeight / 2);
-        final maxScroll = _fontScrollController.position.maxScrollExtent;
-        final minScroll = _fontScrollController.position.minScrollExtent;
-        final clampedScroll = targetOffset.clamp(minScroll, maxScroll);
-        _fontScrollController.animateTo(
-          clampedScroll,
-          duration: const Duration(milliseconds: 200),
-          curve: Curves.easeInOut,
-        );
-      }
+      if (!_fontScrollController.isAttached) return;
+
+      final fonts = _getFilteredFonts();
+      if (fonts.isEmpty) return;
+
+      var pos = fonts.indexOf(_selectedFont);
+      if (pos < 0) pos = _selectedFontIndex;
+      if (pos < 0 || pos >= fonts.length) return;
+
+      _fontScrollController.scrollTo(
+        index: pos,
+        alignment: 0.4,
+        duration: const Duration(milliseconds: 150),
+        curve: Curves.easeInOut,
+      );
     });
   }
 
@@ -9579,9 +9561,6 @@ class _PlayerScreenState extends State<PlayerScreen>
     }
 
     Future.delayed(const Duration(milliseconds: 300), () => doScroll());
-    // Future.delayed(const Duration(milliseconds: 500), () => doScroll());
-    // Future.delayed(const Duration(milliseconds: 1000), () => doScroll());
-    // Future.delayed(const Duration(milliseconds: 2000), () => doScroll());
   }
 
   void _openLemmaInTafsir(String arabicText) {

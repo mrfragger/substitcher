@@ -166,7 +166,7 @@ class AllahHighlighter {
     'absolve', 'admit', 'bring', 'call', 'cause', 'come', 'expiate',
     'forgive', 'gather', 'give', 'guide', 'have mercy', 'inform', 'judge',
     'leave', 'love', 'multiply', 'not cause', 'not send', 'provide',
-    'punish', 'remove', 'repeat', 'replace', 'render', 'return', 'save',
+    'punish', 'remove', 'repeat', 'replace', 'render', 'return', 'reward', 'save',
     'see', 'send', 'separate', 'shower', 'soon show', 'support', 'surely',
     'teach', 'take',
   ];

@@ -90,7 +90,6 @@ class SidePanel extends StatelessWidget {
   final List<String> Function() getFilteredFonts;
   final String selectedFont;
   final int selectedFontIndex;
-  final ScrollController fontScrollController;
   final Function(String, int) onFontSelected;
   final bool fontCycleActive;
   final int fontCycleInterval;
@@ -231,6 +230,7 @@ class SidePanel extends StatelessWidget {
   final Function(String) onQuranExcludeChanged;
   final ItemScrollController colorItemScrollController;
   final ItemScrollController lutItemScrollController;
+  final ItemScrollController fontScrollController;
   final String quranIndexLanguage;
   final Function(String) onQuranLanguageChanged;
   final List<int>? quranJuzDurations;
@@ -470,6 +470,75 @@ class SidePanel extends StatelessWidget {
     );
   }
 
+  List<TextSpan> _buildFileNameSpans(String text) {
+    final spans = <TextSpan>[];
+    final regex = RegExp(r'\([^)]*\)');
+    int last = 0;
+
+    for (final match in regex.allMatches(text)) {
+      if (match.start > last) {
+        spans.add(TextSpan(text: text.substring(last, match.start)));
+      }
+      spans.add(TextSpan(
+        style: const TextStyle(color: Colors.yellow),
+        children: _buildBracketSpans(match.group(0)!),
+      ));
+      last = match.end;
+    }
+
+    if (last < text.length) {
+      spans.add(TextSpan(text: text.substring(last)));
+    }
+    return spans;
+  }
+
+  List<TextSpan> _buildBracketSpans(String text) {
+    final spans = <TextSpan>[];
+    final regex = RegExp(r'\[[^\]]*\]');
+    int last = 0;
+
+    for (final match in regex.allMatches(text)) {
+      if (match.start > last) {
+        spans.add(TextSpan(text: text.substring(last, match.start)));
+      }
+      spans.add(TextSpan(
+        text: match.group(0),
+        style: const TextStyle(color: Colors.orange),
+      ));
+      last = match.end;
+    }
+
+    if (last < text.length) {
+      spans.add(TextSpan(text: text.substring(last)));
+    }
+    return spans;
+  }
+
+  List<TextSpan> _buildChapterTitleSpans(String text) {
+    final spans = <TextSpan>[];
+    final regex = RegExp(r'\([^)]*\)|\[[^\]]*\]');
+    int last = 0;
+
+    for (final match in regex.allMatches(text)) {
+      if (match.start > last) {
+        spans.add(TextSpan(text: text.substring(last, match.start)));
+      }
+      final matched = match.group(0)!;
+      spans.add(TextSpan(
+        text: matched,
+        style: TextStyle(
+          color: matched.startsWith('(') ? Colors.yellow : Colors.orange,
+        ),
+      ));
+      last = match.end;
+    }
+
+    if (last < text.length) {
+      spans.add(TextSpan(text: text.substring(last)));
+    }
+    return spans;
+  }
+
   Widget _buildHeader(BuildContext context) {
     return Container(
       padding: EdgeInsets.symmetric(
@@ -520,8 +589,8 @@ class SidePanel extends StatelessWidget {
                       context, 'Quran', PanelMode.quran, quranEntries.length),
                   _buildTabButton(
                       context, 'List', PanelMode.quranList, 4832),
-                  _buildTabButton(context, '⌘Quiz', PanelMode.quiz, 160),
-                  _buildTabButton(context, '⌘Related', PanelMode.related, 160),
+                  _buildTabButton(context, '⌘Quiz', PanelMode.quiz, 161),
+                  _buildTabButton(context, '⌘Related', PanelMode.related, 161),
                   _buildTabButton(context, 'Alif', PanelMode.alif, alifAlphabet.length),
                   _buildTabButton(
                       context, 'LUTs', PanelMode.luts, 508),
@@ -925,13 +994,14 @@ class SidePanel extends StatelessWidget {
                           isActive ? FontWeight.bold : FontWeight.normal,
                     ),
                     children: [
-                      TextSpan(text: '$ltr${chapter.title}'),
+                      TextSpan(text: ltr),
+                      ..._buildChapterTitleSpans(chapter.title),
                       TextSpan(
                         text: ' ${chapter.formattedDuration}',
                         style: TextStyle(
                           color: shouldSkip
                               ? Colors.red.withAlpha(128)
-                              : Colors.lightBlue,
+                              : Colors.greenAccent,
                           fontWeight: FontWeight.normal,
                         ),
                       ),
@@ -1005,11 +1075,11 @@ class SidePanel extends StatelessWidget {
                       text: TextSpan(
                         style: const TextStyle(color: Colors.white, fontSize: 14),
                         children: [
-                          TextSpan(text: item.audiobookTitle),
+                          ..._buildFileNameSpans(item.audiobookTitle),
                           if (snapshot.hasData) ...[
                             TextSpan(
                               text: ' \u200E${snapshot.data!['duration']}',
-                              style: const TextStyle(color: Colors.lightBlue),
+                              style: const TextStyle(color: Colors.greenAccent),
                             ),
                             if (snapshot.data!['progress'] != null &&
                                 snapshot.data!['progress'].toString().isNotEmpty &&
@@ -1028,10 +1098,16 @@ class SidePanel extends StatelessWidget {
                         ],
                       ),
                     ),
-              subtitle: Text(
-                '$ltr${item.chapterTitle} • ${_formatDuration(item.lastPosition)}',
-                style: const TextStyle(color: Colors.lightBlueAccent, fontSize: 12),
-              ),
+                    subtitle: Text.rich(
+                      TextSpan(
+                        style: const TextStyle(color: Colors.lightBlueAccent, fontSize: 12),
+                        children: [
+                          TextSpan(text: ltr),
+                          ..._buildChapterTitleSpans(item.chapterTitle),
+                          TextSpan(text: ' • ${_formatDuration(item.lastPosition)}'),
+                        ],
+                      ),
+                    ),
               trailing: IconButton(
                 icon: const Icon(Icons.delete, color: Colors.white54, size: 18),
                 onPressed: () => onRemoveFromHistory(item),
@@ -1102,15 +1178,61 @@ class SidePanel extends StatelessWidget {
                           offset: searchController.text.length,
                         );
                         onSearchChanged('006');
+                        excludeController.clear();
+                        onExcludeChanged('');
                       },
                       style: ElevatedButton.styleFrom(
-                        backgroundColor: Colors.deepPurple,
+                        backgroundColor: Colors.cyan.shade900,
                         foregroundColor: Colors.white,
                         padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 4),
                         minimumSize: const Size(0, 28),
                         tapTargetSize: MaterialTapTargetSize.shrinkWrap,
                       ),
                       child: const Text('006', style: TextStyle(fontSize: 13)),
+                    ),
+                    const SizedBox(width: 8),
+                    ElevatedButton(
+                      onPressed: () {
+                        searchController.text = 'qns';
+                        searchController.selection = TextSelection.collapsed(
+                          offset: searchController.text.length,
+                        );
+                        onSearchChanged('qns');
+                        excludeController.clear();
+                        onExcludeChanged('');
+                      },
+                      style: ElevatedButton.styleFrom(
+                        backgroundColor: Colors.cyan.shade900,
+                        foregroundColor: Colors.white,
+                        padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 4),
+                        minimumSize: const Size(0, 28),
+                        tapTargetSize: MaterialTapTargetSize.shrinkWrap,
+                      ),
+                      child: const Text('qns', style: TextStyle(fontSize: 13)),
+                    ),
+                    const SizedBox(width: 8),
+                    ElevatedButton(
+                      onPressed: () {
+                        searchController.text = 'quran';
+                        searchController.selection = TextSelection.collapsed(
+                          offset: searchController.text.length,
+                        );
+                        onSearchChanged('quran');
+
+                        excludeController.text = 'verse';
+                        excludeController.selection = TextSelection.collapsed(
+                          offset: excludeController.text.length,
+                        );
+                        onExcludeChanged('verse');
+                      },
+                      style: ElevatedButton.styleFrom(
+                        backgroundColor: Colors.cyan.shade900,
+                        foregroundColor: Colors.white,
+                        padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 4),
+                        minimumSize: const Size(0, 28),
+                        tapTargetSize: MaterialTapTargetSize.shrinkWrap,
+                      ),
+                      child: const Text('Quran', style: TextStyle(fontSize: 13)),
                     ),
                     const Spacer(),
                     IconButton(
@@ -1263,12 +1385,12 @@ class SidePanel extends StatelessWidget {
                                     : FontWeight.normal,
                               ),
                               children: [
-                                TextSpan(text: fileName),
+                                ..._buildFileNameSpans(fileName),
                                 if (snapshot.hasData)
                                   TextSpan(
                                     text: ' ${snapshot.data}',
                                     style: const TextStyle(
-                                      color: Colors.lightBlue,
+                                      color: Colors.greenAccent,
                                       fontWeight: FontWeight.normal,
                                     ),
                                   ),
@@ -1361,15 +1483,22 @@ class SidePanel extends StatelessWidget {
                   ),
                 ),
               ),
-              title: Text(
-                audiobookName,
-                style: const TextStyle(color: Colors.white, fontSize: 13),
+              title: Text.rich(
+                TextSpan(
+                  style: const TextStyle(color: Colors.white, fontSize: 13),
+                  children: _buildFileNameSpans(audiobookName),
+                ),
                 maxLines: 1,
                 overflow: TextOverflow.ellipsis,
               ),
-              subtitle: Text(
-                '${bookmark.chapterTitle} • ${_formatDuration(bookmark.position)}',
-                style: const TextStyle(color: Colors.lightBlueAccent, fontSize: 11),
+              subtitle: Text.rich(
+                TextSpan(
+                  style: const TextStyle(color: Colors.lightBlueAccent, fontSize: 11),
+                  children: [
+                    ..._buildChapterTitleSpans(bookmark.chapterTitle),
+                    TextSpan(text: ' • ${_formatDuration(bookmark.position)}'),
+                  ],
+                ),
                 maxLines: 1,
                 overflow: TextOverflow.ellipsis,
               ),
@@ -1423,11 +1552,13 @@ class SidePanel extends StatelessWidget {
                     ),
                     const SizedBox(width: 12),
                     Expanded(
-                      child: Text(
-                        audiobookName,
-                        style: const TextStyle(
-                          color: Colors.white,
-                          fontSize: 13,
+                      child: Text.rich(
+                        TextSpan(
+                          style: const TextStyle(
+                            color: Colors.white,
+                            fontSize: 13,
+                          ),
+                          children: _buildFileNameSpans(audiobookName),
                         ),
                       ),
                     ),
@@ -1447,16 +1578,18 @@ class SidePanel extends StatelessWidget {
                   ),
                   child: ListTile(
                     dense: true,
-                    title: Text(
-                      bookmark.chapterTitle,
-                      style: const TextStyle(color: Colors.lightBlueAccent, fontSize: 13),
+                    title: Text.rich(
+                      TextSpan(
+                        style: const TextStyle(color: Colors.lightBlueAccent, fontSize: 13),
+                        children: _buildChapterTitleSpans(bookmark.chapterTitle),
+                      ),
                       maxLines: 1,
                       overflow: TextOverflow.ellipsis,
                     ),
                     subtitle: Text(
                       _formatDuration(bookmark.position),
                       style:
-                          const TextStyle(color: Colors.lime, fontSize: 11),
+                          const TextStyle(color: Colors.greenAccent, fontSize: 11),
                     ),
                     trailing: Row(
                       mainAxisSize: MainAxisSize.min,
@@ -2423,10 +2556,14 @@ class SidePanel extends StatelessWidget {
     final bool showingFavorites =
         selectedMainCategory == FontCategory.favorites;
 
-    return ListView.builder(
-      controller: fontScrollController,
+    final selectedPos = filteredFonts.indexOf(selectedFont);
+
+    return ScrollablePositionedList.builder(
+      key: ValueKey('fonts-$selectedMainCategory-$selectedSubCategory-$selectedStudio'),
+      itemScrollController: fontScrollController,
+      initialScrollIndex: selectedPos < 0 ? 0 : selectedPos,
+      initialAlignment: 0.4,
       itemCount: filteredFonts.length,
-      itemExtent: 56.0,
       physics: const ClampingScrollPhysics(),
       itemBuilder: (context, index) {
         final fontName = filteredFonts[index];
@@ -2452,8 +2589,14 @@ class SidePanel extends StatelessWidget {
           }
         }
 
-        return ListTile(
-          dense: true,
+        return Container(
+          color: isSelected
+              ? Colors.deepPurple.withAlpha(51)
+              : (index.isOdd ? const Color(0xFF2E2E2E) : null),
+          child: ListTile(
+            dense: true,
+          visualDensity: const VisualDensity(vertical: -3),
+          contentPadding: const EdgeInsets.symmetric(horizontal: 16, vertical: 0),
           leading: Icon(
             isSelected ? Icons.check_circle : Icons.font_download,
             color: isSelected ? Colors.deepPurple : Colors.white54,
@@ -2505,7 +2648,7 @@ class SidePanel extends StatelessWidget {
             ],
           ),
           onTap: () => onFontSelected(fontName, index),
-          tileColor: isSelected ? Colors.deepPurple.withAlpha(51) : null,
+          ),
         );
       },
     );

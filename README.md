@@ -247,20 +247,6 @@ only 1-9, basic latin and ligatures
 
 ![](images/subs.jpg)
 
-### Stats
-- Shows Active Days which are at least 30 mins of listening
-- Daily streaks
-- Longest 3 days of total listening time
-- Today, Yesterday, 2 to 10 days ago of listening activity
-- shows duration of listen audiobook title as well as which chapter listened to
-- shows total cumulative listening time of each audiobook from all chapters
-- average time per chapter
-- top 50 audiobooks listened to by duration
-- time duration bars of listening time for last 30 active days
-- stats are stored in `~/.config/substitcher/watch_tracking_time`
-
-![](images/stats.jpg)
-
 ### Slicing / Editing Audio
 - make cuts (slices of audio) in subdirectory audiobookname_cuts
 - make an audiobook from audiobookname_cuts and transcribe for subs
@@ -297,13 +283,6 @@ sample anki to opus audiobook from here [124MiB](https://ankiweb.net/shared/info
 down to 13MiB with 4x repeating audio 1h 57m\
 ![Spanish - 599 Verb Conjugations by Frequency.zip](https://github.com/mrfragger/substitcher/raw/main/images/Spanish_-_599_Verb_Conjugations_by_Frequency.zip)\
 try Pause mode 2s, Hide Chapter Title, Shuffle 
-
-### Transliterate Japanese vtt
-- once transliterated to all hiragana and keeping original katakana use as a secondary subtitle on top
-- requires python (pip3 install pykakasi)
-- filename.vtt gets filename_hiragana.vtt
-
-![](images/transliteratejapanese.jpg)
 
 ### Translate vtt Subtitles
 - translate with TranslateGemma using llama.cpp
@@ -544,7 +523,4 @@ Installation Steps
 - Lulu, free, open-source firewall https://objective-see.org/products/lulu.html
 - Stats, free, menu bar stats monitoring https://github.com/exelban/stats
 - Mole, free, for terminal, cleans up disk space https://github.com/tw93/Mole
-- Screen Kite, free, record screen area with system sound, better than OBS https://www.screenkite.com 
-- Handy, free, local (CPU only) not-realtime dictation, transcription in many languages, no srt, vtt though https://github.com/cjpais/Handy
-- Moonshine Note Taker, free, English only, local realtime transcription, edit mistakes, outputs srt drag audio to app to transcribe https://note-taker.moonshine.ai/
 </details>
