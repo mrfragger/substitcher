@@ -12,6 +12,7 @@ import '../models/bookmark.dart';
 import '../models/font_category.dart';
 import '../models/lut_item.dart';
 import '../models/root_card.dart';
+import '../models/saved_search.dart';
 import '../services/font_database.dart';
 import '../services/font_loader.dart';
 import '../services/custom_font_metadata.dart';
@@ -240,6 +241,11 @@ class SidePanel extends StatelessWidget {
   final Function(QuranVerseRef range, int repeatCount)? onRepeatRangeRequested;
   final Function(String)? onLoadQuranAudiobook;
 
+  final List<SavedSearch> savedSearches;
+  final Function(SavedSearch) onApplySavedSearch;
+  final VoidCallback onSaveSearch;
+  final Function(String) onDeleteSearch;
+
   const SidePanel({
     super.key,
     required this.panelMode,
@@ -425,6 +431,10 @@ class SidePanel extends StatelessWidget {
     required this.onQuranLanguageChanged,
     required this.colorItemScrollController,
     required this.lutItemScrollController,
+    required this.savedSearches,
+    required this.onApplySavedSearch,
+    required this.onSaveSearch,
+    required this.onDeleteSearch,
     this.onRepeatRangeRequested,
     this.quranJuzDurations,
     this.quranAyahDurations,
@@ -1199,12 +1209,77 @@ class SidePanel extends StatelessWidget {
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.stretch,
             children: [
+              // Saved searches: wrapping line above the header
+              Wrap(
+                spacing: 8,
+                runSpacing: 8,
+                crossAxisAlignment: WrapCrossAlignment.center,
+                children: [
+                  ElevatedButton.icon(
+                    onPressed: onSaveSearch,
+                    icon: const Icon(Icons.bookmark_add, size: 14),
+                    label: const Text('Save', style: TextStyle(fontSize: 13)),
+                    style: ElevatedButton.styleFrom(
+                      backgroundColor: Colors.deepPurple,
+                      foregroundColor: Colors.white,
+                      padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 4),
+                      minimumSize: const Size(0, 28),
+                      tapTargetSize: MaterialTapTargetSize.shrinkWrap,
+                    ),
+                  ),
+                  ...savedSearches.map((s) {
+                    return Material(
+                      color: Colors.cyan.shade900,
+                      borderRadius: BorderRadius.circular(16),
+                      child: Row(
+                        mainAxisSize: MainAxisSize.min,
+                        children: [
+                          InkWell(
+                            borderRadius: BorderRadius.horizontal(
+                              left: const Radius.circular(16),
+                              right: Radius.circular(showPlaylistDirectories ? 0 : 16),
+                            ),
+                            onTap: () => onApplySavedSearch(s),
+                            child: Padding(
+                              padding: EdgeInsets.fromLTRB(
+                                  12, 5, showPlaylistDirectories ? 6 : 12, 5),
+                              child: Text(
+                                s.name,
+                                style: const TextStyle(color: Colors.white, fontSize: 13),
+                              ),
+                            ),
+                          ),
+                          if (showPlaylistDirectories)
+                            Tooltip(
+                              message: 'Delete "${s.name}"',
+                              child: InkWell(
+                                borderRadius: const BorderRadius.horizontal(
+                                    right: Radius.circular(16)),
+                                onTap: () => onDeleteSearch(s.name),
+                                child: const Padding(
+                                  padding: EdgeInsets.fromLTRB(4, 5, 10, 5),
+                                  child: Icon(Icons.close, size: 14, color: Colors.white70),
+                                ),
+                              ),
+                            ),
+                        ],
+                      ),
+                    );
+                  }),
+                ],
+              ),
+              const SizedBox(height: 12),
+
+              // Collapsible header
               InkWell(
-                onTap: () => onTogglePlaylistDirectories(!showPlaylistDirectories),
+                onTap: () =>
+                    onTogglePlaylistDirectories(!showPlaylistDirectories),
                 child: Row(
                   children: [
                     Icon(
-                      showPlaylistDirectories ? Icons.expand_less : Icons.expand_more,
+                      showPlaylistDirectories
+                          ? Icons.expand_less
+                          : Icons.expand_more,
                       color: Colors.white70,
                     ),
                     const SizedBox(width: 8),
@@ -1215,70 +1290,6 @@ class SidePanel extends StatelessWidget {
                         fontSize: 14,
                         fontWeight: FontWeight.bold,
                       ),
-                    ),
-                    const SizedBox(width: 12),
-                    ElevatedButton(
-                      onPressed: () {
-                        searchController.text = '006';
-                        searchController.selection = TextSelection.collapsed(
-                          offset: searchController.text.length,
-                        );
-                        onSearchChanged('006');
-                        excludeController.clear();
-                        onExcludeChanged('');
-                      },
-                      style: ElevatedButton.styleFrom(
-                        backgroundColor: Colors.cyan.shade900,
-                        foregroundColor: Colors.white,
-                        padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 4),
-                        minimumSize: const Size(0, 28),
-                        tapTargetSize: MaterialTapTargetSize.shrinkWrap,
-                      ),
-                      child: const Text('006', style: TextStyle(fontSize: 13)),
-                    ),
-                    const SizedBox(width: 8),
-                    ElevatedButton(
-                      onPressed: () {
-                        searchController.text = 'qns';
-                        searchController.selection = TextSelection.collapsed(
-                          offset: searchController.text.length,
-                        );
-                        onSearchChanged('qns');
-                        excludeController.clear();
-                        onExcludeChanged('');
-                      },
-                      style: ElevatedButton.styleFrom(
-                        backgroundColor: Colors.cyan.shade900,
-                        foregroundColor: Colors.white,
-                        padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 4),
-                        minimumSize: const Size(0, 28),
-                        tapTargetSize: MaterialTapTargetSize.shrinkWrap,
-                      ),
-                      child: const Text('qns', style: TextStyle(fontSize: 13)),
-                    ),
-                    const SizedBox(width: 8),
-                    ElevatedButton(
-                      onPressed: () {
-                        searchController.text = 'quran';
-                        searchController.selection = TextSelection.collapsed(
-                          offset: searchController.text.length,
-                        );
-                        onSearchChanged('quran');
-
-                        excludeController.text = 'verse';
-                        excludeController.selection = TextSelection.collapsed(
-                          offset: excludeController.text.length,
-                        );
-                        onExcludeChanged('verse');
-                      },
-                      style: ElevatedButton.styleFrom(
-                        backgroundColor: Colors.cyan.shade900,
-                        foregroundColor: Colors.white,
-                        padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 4),
-                        minimumSize: const Size(0, 28),
-                        tapTargetSize: MaterialTapTargetSize.shrinkWrap,
-                      ),
-                      child: const Text('Quran', style: TextStyle(fontSize: 13)),
                     ),
                     const Spacer(),
                     IconButton(
@@ -1298,6 +1309,7 @@ class SidePanel extends StatelessWidget {
                   ],
                 ),
               ),
+
               if (showPlaylistDirectories) ...[
                 const SizedBox(height: 12),
                 ElevatedButton.icon(
@@ -1306,10 +1318,11 @@ class SidePanel extends StatelessWidget {
                   label: Text(
                       'Add Playlist Directory (${playlistDirectories.length}/10)'),
                   style: ElevatedButton.styleFrom(
-                    padding: const EdgeInsets.symmetric(
-                        horizontal: 16, vertical: 12),
+                    padding:
+                        const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
                   ),
                 ),
+                // Directory list
                 if (playlistDirectories.isNotEmpty) ...[
                   const SizedBox(height: 8),
                   ...playlistDirectories.asMap().entries.map((entry) {
@@ -1370,6 +1383,8 @@ class SidePanel extends StatelessWidget {
             ],
           ),
         ),
+
+        // Playlist items
         Expanded(
           child: filteredPlaylist.isEmpty
               ? const Center(

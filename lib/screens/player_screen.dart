@@ -32,6 +32,7 @@ import '../models/subtitle_preferences.dart';
 import '../models/lut_item.dart';
 import '../models/vtt_show_style.dart';
 import '../models/root_card.dart';
+import '../models/saved_search.dart';
 import '../services/vtt_show_service.dart';
 import '../services/cjk_tokenizer.dart';
 import '../services/ffmpeg_service.dart';
@@ -164,7 +165,6 @@ class _PlayerScreenState extends State<PlayerScreen>
   int _rangeRepeatTotal = 0;
 
   bool _showPanel = false;
-  PanelMode _panelMode = PanelMode.chapters;
   bool _panelCollapsed = false;
   ColorPalette? _currentColorPalette;
   int _selectedColorIndex = 0;
@@ -230,6 +230,8 @@ class _PlayerScreenState extends State<PlayerScreen>
   final FocusNode _hadeethExcludeFocusNode = FocusNode();
   final FocusNode _tafsirSearchFocusNode = FocusNode();
   final GlobalKey<State<QuranPanel>> _quranPanelKey = GlobalKey<State<QuranPanel>>();
+
+  List<SavedSearch> _savedSearches = [];
 
   String _quranSearchQuery = '';
   String _quranExcludeQuery = '';
@@ -437,6 +439,53 @@ class _PlayerScreenState extends State<PlayerScreen>
   final FocusNode _vttEditLine2FocusNode = FocusNode();
   final GlobalKey<VttShowEditOverlayState> _vttEditKey =
       GlobalKey<VttShowEditOverlayState>();
+  static const _sharedSearchModes = {
+    PanelMode.chapters,
+    PanelMode.history,
+    PanelMode.playlist,
+    PanelMode.bookmarks,
+    PanelMode.fonts,
+    PanelMode.colors,
+    PanelMode.subs,
+    PanelMode.luts,
+  };
+  final Map<PanelMode, ({String query, String exclude, bool useAnd})>
+      _tabSearches = {};
+
+  PanelMode _panelModeValue = PanelMode.chapters;
+  PanelMode get _panelMode => _panelModeValue;
+
+  set _panelMode(PanelMode newMode) {
+    final oldMode = _panelModeValue;
+    if (oldMode == newMode) return;
+
+    if (_sharedSearchModes.contains(oldMode)) {
+      _tabSearches[oldMode] = (
+        query: _searchController.text,
+        exclude: _excludeController.text,
+        useAnd: _searchUseAnd,
+      );
+    }
+
+    _panelModeValue = newMode;
+
+    if (_sharedSearchModes.contains(newMode)) {
+      final saved = _tabSearches[newMode];
+      final q = saved?.query ?? '';
+      final e = saved?.exclude ?? '';
+      _searchController.value = TextEditingValue(
+        text: q,
+        selection: TextSelection.collapsed(offset: q.length),
+      );
+      _excludeController.value = TextEditingValue(
+        text: e,
+        selection: TextSelection.collapsed(offset: e.length),
+      );
+      _searchQuery = q;
+      _excludeTerms = e;
+      _searchUseAnd = saved?.useAnd ?? true;
+    }
+  }
 
   @override
   void initState() {
@@ -482,6 +531,7 @@ class _PlayerScreenState extends State<PlayerScreen>
     _loadFavoriteColorPalettes();
     _loadFavoriteLuts();
     _loadSavedLut();
+    _loadSavedSearches();
     WidgetsBinding.instance.addPostFrameCallback((_) {
       _focusNode.requestFocus();
       _adhanClockService.checkNow();
@@ -6622,6 +6672,90 @@ class _PlayerScreenState extends State<PlayerScreen>
     }
   }
 
+  Future<void> _loadSavedSearches() async {
+    final prefs = await SharedPreferences.getInstance();
+    final raw = prefs.getStringList('savedSearches');
+
+    if (raw == null) {
+      // First run: seed with your old three presets
+      setState(() {
+        _savedSearches = [
+          const SavedSearch(name: '006', query: '006'),
+          const SavedSearch(name: 'qns', query: 'qns'),
+          const SavedSearch(name: 'quran ⊘ verse', query: 'quran', exclude: 'verse'),
+        ];
+      });
+      await _persistSavedSearches();
+      return;
+    }
+
+    setState(() {
+      _savedSearches = raw
+          .map((s) {
+            try {
+              return SavedSearch.fromJson(jsonDecode(s) as Map<String, dynamic>);
+            } catch (_) {
+              return null;
+            }
+          })
+          .whereType<SavedSearch>()
+          .toList();
+    });
+  }
+
+  Future<void> _persistSavedSearches() async {
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setStringList(
+      'savedSearches',
+      _savedSearches.map((s) => jsonEncode(s.toJson())).toList(),
+    );
+  }
+
+  void _applySavedSearch(SavedSearch s) {
+    _searchController.value = TextEditingValue(
+      text: s.query,
+      selection: TextSelection.collapsed(offset: s.query.length),
+    );
+    _excludeController.value = TextEditingValue(
+      text: s.exclude,
+      selection: TextSelection.collapsed(offset: s.exclude.length),
+    );
+    setState(() {
+      _searchQuery = s.query;
+      _excludeTerms = s.exclude;
+    });
+  }
+
+  Future<void> _saveCurrentSearch() async {
+    final query = _searchController.text.trim();
+    final exclude = _excludeController.text.trim(); // '' if none
+
+    if (query.isEmpty && exclude.isEmpty) {
+      _showError('Nothing to save: search and exclude are both empty');
+      return;
+    }
+
+    final name = exclude.isEmpty
+        ? query
+        : (query.isEmpty ? '⊘ $exclude' : '$query ⊘ $exclude');
+
+    setState(() {
+      final entry = SavedSearch(name: name, query: query, exclude: exclude);
+      final i = _savedSearches.indexWhere((s) => s.name == name);
+      if (i >= 0) {
+        _savedSearches[i] = entry;
+      } else {
+        _savedSearches.add(entry);
+      }
+    });
+    await _persistSavedSearches();
+  }
+
+  Future<void> _deleteSavedSearch(String name) async {
+    setState(() => _savedSearches.removeWhere((s) => s.name == name));
+    await _persistSavedSearches();
+  }
+
   Future<void> _calculateBitrate() async {
     if (_fileSize == 0 || _totalDuration.inSeconds == 0) return;
 
@@ -8751,6 +8885,10 @@ class _PlayerScreenState extends State<PlayerScreen>
                   excludeController: _excludeController,
                   searchFocusNode: _searchFocusNode,
                   excludeFocusNode: _excludeFocusNode,
+                  savedSearches: _savedSearches,
+                  onApplySavedSearch: _applySavedSearch,
+                  onSaveSearch: _saveCurrentSearch,
+                  onDeleteSearch: _deleteSavedSearch,
                   hadeethSearchFocusNode: _hadeethSearchFocusNode,
                   hadeethExcludeFocusNode: _hadeethExcludeFocusNode,
                   tafsirSearchController: _tafsirSearchController,
@@ -9084,17 +9222,17 @@ class _PlayerScreenState extends State<PlayerScreen>
                   subtitleFilePath: _subtitleFilePath,
                   onWordSearch: (word) {
                     setState(() {
+                      _panelMode = PanelMode.subs;
                       _searchQuery = word;
                       _searchController.text = word;
-                      _panelMode = PanelMode.subs;
                     });
                     _searchSubtitles(word);
                   },
                   onPhraseSearch: (phrase) {
                     setState(() {
+                      _panelMode = PanelMode.subs;
                       _subsSearchQuery = phrase;
                       _subsSearchController.text = phrase;
-                      _panelMode = PanelMode.subs;
                     });
                     _searchSubtitles(phrase);
                   },
