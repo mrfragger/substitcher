@@ -46,6 +46,8 @@ enum ColoringMode { words, letters }
 
 class SidePanel extends StatelessWidget {
   static const ltr = '\u200E';
+  static const _lrm = '\u200E';
+  String _ltr(String s) => '$_lrm$s';
   final PanelMode panelMode;
   final bool isCollapsed;
   final GlobalKey<State<QuranPanel>> quranPanelKey;
@@ -485,7 +487,7 @@ class SidePanel extends StatelessWidget {
         spans.add(TextSpan(text: text.substring(last, match.start)));
       }
       spans.add(TextSpan(
-        text: match.group(0),
+        text: _ltr(match.group(0)!),
         style: TextStyle(color: Colors.redAccent),
       ));
       last = match.end;
@@ -1041,7 +1043,7 @@ class SidePanel extends StatelessWidget {
                       TextSpan(text: ltr),
                       ..._buildChapterTitleSpans(chapter.title),
                       TextSpan(
-                        text: ' ${chapter.formattedDuration}',
+                        text: ' ${_ltr(chapter.formattedDuration)}',
                         style: TextStyle(
                           color: shouldSkip
                               ? Colors.red.withAlpha(128)
@@ -1122,7 +1124,7 @@ class SidePanel extends StatelessWidget {
                           ..._buildFileNameSpans(item.audiobookTitle),
                           if (snapshot.hasData) ...[
                             TextSpan(
-                              text: ' \u200E${snapshot.data!['duration']}',
+                              text: ' ${_ltr(snapshot.data!['duration'].toString())}',
                               style: const TextStyle(color: Colors.greenAccent),
                             ),
                             if (snapshot.data!['progress'] != null &&
@@ -1131,12 +1133,12 @@ class SidePanel extends StatelessWidget {
                                         snapshot.data!['progress'].toString()) >
                                     0.9)
                               TextSpan(
-                                text: ' \u200E${snapshot.data!['progress']}',
+                                text: ' ${_ltr(snapshot.data!['progress'].toString())}',
                                 style: TextStyle(color: Colors.purple[200]),
                               ),
                           ],
                           TextSpan(
-                            text: ' \u200E${_daysAgoLabel(item.lastPlayed)}',
+                            text: ' ${_ltr(_daysAgoLabel(item.lastPlayed))}',
                             style: TextStyle(color: Colors.purpleAccent),
                           ),
                         ],
@@ -1148,7 +1150,7 @@ class SidePanel extends StatelessWidget {
                         children: [
                           TextSpan(text: ltr),
                           ..._buildChapterTitleSpans(item.chapterTitle),
-                          TextSpan(text: ' • ${_formatDuration(item.lastPosition)}'),
+                          TextSpan(text: ' • ${_ltr(_formatDuration(item.lastPosition))}'),
                         ],
                       ),
                     ),
@@ -1432,7 +1434,7 @@ class SidePanel extends StatelessWidget {
                                 ..._buildFileNameSpans(fileName),
                                 if (snapshot.hasData)
                                   TextSpan(
-                                    text: ' ${snapshot.data}',
+                                    text: ' ${_ltr(snapshot.data!)}',
                                     style: const TextStyle(
                                       color: Colors.greenAccent,
                                       fontWeight: FontWeight.normal,
@@ -1540,7 +1542,7 @@ class SidePanel extends StatelessWidget {
                   style: const TextStyle(color: Colors.lightBlueAccent, fontSize: 11),
                   children: [
                     ..._buildChapterTitleSpans(bookmark.chapterTitle),
-                    TextSpan(text: ' • ${_formatDuration(bookmark.position)}'),
+                    TextSpan(text: ' • ${_ltr(_formatDuration(bookmark.position))}'),
                   ],
                 ),
                 maxLines: 1,
