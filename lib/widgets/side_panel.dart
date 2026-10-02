@@ -1,3 +1,4 @@
+import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:path/path.dart' as path;
 import 'package:flutter/services.dart';
@@ -1227,45 +1228,12 @@ class SidePanel extends StatelessWidget {
                       tapTargetSize: MaterialTapTargetSize.shrinkWrap,
                     ),
                   ),
-                  ...savedSearches.map((s) {
-                    return Material(
-                      color: Colors.cyan.shade900,
-                      borderRadius: BorderRadius.circular(16),
-                      child: Row(
-                        mainAxisSize: MainAxisSize.min,
-                        children: [
-                          InkWell(
-                            borderRadius: BorderRadius.horizontal(
-                              left: const Radius.circular(16),
-                              right: Radius.circular(showPlaylistDirectories ? 0 : 16),
-                            ),
-                            onTap: () => onApplySavedSearch(s),
-                            child: Padding(
-                              padding: EdgeInsets.fromLTRB(
-                                  12, 5, showPlaylistDirectories ? 6 : 12, 5),
-                              child: Text(
-                                s.name,
-                                style: const TextStyle(color: Colors.white, fontSize: 13),
-                              ),
-                            ),
-                          ),
-                          if (showPlaylistDirectories)
-                            Tooltip(
-                              message: 'Delete "${s.name}"',
-                              child: InkWell(
-                                borderRadius: const BorderRadius.horizontal(
-                                    right: Radius.circular(16)),
-                                onTap: () => onDeleteSearch(s.name),
-                                child: const Padding(
-                                  padding: EdgeInsets.fromLTRB(4, 5, 10, 5),
-                                  child: Icon(Icons.close, size: 14, color: Colors.white70),
-                                ),
-                              ),
-                            ),
-                        ],
-                      ),
-                    );
-                  }),
+                  ...savedSearches.map((s) => _SavedSearchChip(
+                        key: ValueKey(s.name),
+                        search: s,
+                        onApply: () => onApplySavedSearch(s),
+                        onDelete: () => onDeleteSearch(s.name),
+                      )),
                 ],
               ),
               const SizedBox(height: 12),
@@ -3442,6 +3410,83 @@ class _WordsPanelState extends State<_WordsPanel> {
             ),
           ],
         ),
+      ),
+    );
+  }
+}
+
+
+class _SavedSearchChip extends StatefulWidget {
+  final SavedSearch search;
+  final VoidCallback onApply;
+  final VoidCallback onDelete;
+
+  const _SavedSearchChip({
+    super.key,
+    required this.search,
+    required this.onApply,
+    required this.onDelete,
+  });
+
+  @override
+  State<_SavedSearchChip> createState() => _SavedSearchChipState();
+}
+
+class _SavedSearchChipState extends State<_SavedSearchChip> {
+  bool _showDelete = false;
+  Timer? _hideTimer;
+
+  void _handleTap() {
+    widget.onApply();
+    setState(() => _showDelete = true);
+    _hideTimer?.cancel();
+    _hideTimer = Timer(const Duration(seconds: 6), () {
+      if (mounted) setState(() => _showDelete = false);
+    });
+  }
+
+  @override
+  void dispose() {
+    _hideTimer?.cancel();
+    super.dispose();
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return Material(
+      color: Colors.cyan.shade900,
+      borderRadius: BorderRadius.circular(16),
+      child: Row(
+        mainAxisSize: MainAxisSize.min,
+        children: [
+          InkWell(
+            borderRadius: BorderRadius.horizontal(
+              left: const Radius.circular(16),
+              right: Radius.circular(_showDelete ? 0 : 16),
+            ),
+            onTap: _handleTap,
+            child: Padding(
+              padding: EdgeInsets.fromLTRB(12, 5, _showDelete ? 6 : 12, 5),
+              child: Text(
+                widget.search.name,
+                style: const TextStyle(color: Colors.white, fontSize: 13),
+              ),
+            ),
+          ),
+          if (_showDelete)
+            Tooltip(
+              message: 'Delete "${widget.search.name}"',
+              child: InkWell(
+                borderRadius:
+                    const BorderRadius.horizontal(right: Radius.circular(16)),
+                onTap: widget.onDelete,
+                child: const Padding(
+                  padding: EdgeInsets.fromLTRB(4, 5, 10, 5),
+                  child: Icon(Icons.close, size: 14, color: Colors.white70),
+                ),
+              ),
+            ),
+        ],
       ),
     );
   }
