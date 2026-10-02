@@ -470,6 +470,33 @@ class SidePanel extends StatelessWidget {
     );
   }
 
+  // Quran verse-by-verse surah ranges. Exact list, not preceded/followed by digits.
+  static final RegExp _quranRangeRegex = RegExp(
+    r'(?<!\d)(?:001-006|007-015|016-024|025-036|037-049|050-069|070-114)(?!\d)',
+  );
+
+  /// Plain text with any Quran surah ranges colored redAccent.
+  List<TextSpan> _plainWithRanges(String text) {
+    final spans = <TextSpan>[];
+    int last = 0;
+
+    for (final match in _quranRangeRegex.allMatches(text)) {
+      if (match.start > last) {
+        spans.add(TextSpan(text: text.substring(last, match.start)));
+      }
+      spans.add(TextSpan(
+        text: match.group(0),
+        style: TextStyle(color: Colors.redAccent),
+      ));
+      last = match.end;
+    }
+
+    if (last < text.length) {
+      spans.add(TextSpan(text: text.substring(last)));
+    }
+    return spans;
+  }
+
   List<TextSpan> _buildFileNameSpans(String text) {
     final spans = <TextSpan>[];
     final regex = RegExp(r'\([^)]*\)');
@@ -477,7 +504,7 @@ class SidePanel extends StatelessWidget {
 
     for (final match in regex.allMatches(text)) {
       if (match.start > last) {
-        spans.add(TextSpan(text: text.substring(last, match.start)));
+        spans.addAll(_plainWithRanges(text.substring(last, match.start)));
       }
       spans.add(TextSpan(
         style: const TextStyle(color: Colors.yellow),
@@ -487,7 +514,7 @@ class SidePanel extends StatelessWidget {
     }
 
     if (last < text.length) {
-      spans.add(TextSpan(text: text.substring(last)));
+      spans.addAll(_plainWithRanges(text.substring(last)));
     }
     return spans;
   }
@@ -514,14 +541,31 @@ class SidePanel extends StatelessWidget {
     return spans;
   }
 
+  // Matches leading digits, with single periods allowed between digit groups.
+  // e.g. "03.01", "04", "021104", "002", "1.2.3"
+  static final RegExp _leadingNumberRegex = RegExp(r'^\d+(?:\.\d+)*');
+
   List<TextSpan> _buildChapterTitleSpans(String text) {
     final spans = <TextSpan>[];
+
+    // 1. Highlight leading number (if any) in redAccent
+    String rest = text;
+    final leadMatch = _leadingNumberRegex.firstMatch(text);
+    if (leadMatch != null) {
+      spans.add(TextSpan(
+        text: leadMatch.group(0),
+        style: TextStyle(color: Colors.purple[200]),
+      ));
+      rest = text.substring(leadMatch.end);
+    }
+
+    // 2. (...) yellow / [...] orange on the remainder
     final regex = RegExp(r'\([^)]*\)|\[[^\]]*\]');
     int last = 0;
 
-    for (final match in regex.allMatches(text)) {
+    for (final match in regex.allMatches(rest)) {
       if (match.start > last) {
-        spans.add(TextSpan(text: text.substring(last, match.start)));
+        spans.add(TextSpan(text: rest.substring(last, match.start)));
       }
       final matched = match.group(0)!;
       spans.add(TextSpan(
@@ -533,8 +577,8 @@ class SidePanel extends StatelessWidget {
       last = match.end;
     }
 
-    if (last < text.length) {
-      spans.add(TextSpan(text: text.substring(last)));
+    if (last < rest.length) {
+      spans.add(TextSpan(text: rest.substring(last)));
     }
     return spans;
   }

@@ -10,6 +10,7 @@ class AllahHighlighter {
   static const Color quranColor = Colors.lightBlueAccent;
 
   static const List<String> muhammadWords = [
+    'Prophet Muhammad صلى الله عليه وسلم',
     'Muhammad صلى الله عليه وسلم',
     'Muhammad (صلى الله عليه وسلم)',
     'Messenger صلى الله عليه وسلم',
@@ -19,6 +20,7 @@ class AllahHighlighter {
     "Prophet Muhammad’s",
     'Prophet Muhammad ﷺ',
     'Messenger Muhammad',
+    'Messenger of God',
     'Prophet Muhammad',
     'Prophet said ﷺ',
     'Prophet of',
@@ -151,25 +153,44 @@ class AllahHighlighter {
     return ranges;
   }
 
+  /// Parenthetical contents that are translator clarifications referring to
+  /// people (not Allah), so they should not get Allah highlighting.
+  static const Set<String> _parenSuppressedContents = {
+    'You',
+  };
   // ---------------------------------------------------------------------
   // "He"/"His" exclusion logic (only meaningful for English), preventing
   // false positives like "He (Muhammad) said" from being colored as Allah.
   // ---------------------------------------------------------------------
   static const Set<String> _heSingleWordSuppressors = {
-    'said', 'asked', 'then', 'takes', 'kept', 'trusts', 'was',
-    'changes', 'wakes', 'replied', 'also', 'would',
+    'also', 'asked', 'changes', 'kept', 'orders',
+    'replied', 'said', 'then', 'takes',  'trusts',
+    'wakes', 'was', 'would',
   };
   static const Set<String> _hePhraseSuppressors = {
     'is devious', 'is deceptive', 'is cunning', '(Muhammad)', '(Muhammad )',
   };
   static const List<String> _heWillAllowedContinuations = [
-    'absolve', 'admit', 'bring', 'call', 'cause', 'come', 'expiate',
-    'forgive', 'gather', 'give', 'guide', 'have mercy', 'inform', 'judge',
+    'absolve', 'admit', 'bring', 'call', 'cause', 'come', 'enable', 'enter', 'expiate', 'expose',
+    'forgive', 'gather', 'give', 'guide', 'have mercy', 'help', 'inform', 'judge', 'keep',
     'leave', 'love', 'multiply', 'not cause', 'not send', 'provide',
-    'punish', 'remove', 'repeat', 'replace', 'render', 'return', 'reward', 'save',
+    'punish', 'recompense', 'remove', 'repeat', 'replace', 'render', 'return', 'reward', 'save',
     'see', 'send', 'separate', 'shower', 'soon show', 'support', 'surely',
     'teach', 'take',
   ];
+  static const Set<String> _youSingleWordSuppressors = {
+    'are', 'believe', 'believed', 'can', 'claim', 'claimed', 'disbelieve', 'disbelieved',
+  };
+  static const Set<String> _weSingleWordSuppressors = {
+    'asked', 'should', 'fear',
+  };
+  static const Set<String> _wePhraseSuppressors = {
+    'will have', 'will kill', 'will never',  'will explain',
+    'will answer', 'will not', 'will obey',
+    'were allowed',
+    'should mention',
+    'know about',
+  };
 
   static String get _heWillContinuationPattern {
     return _heWillAllowedContinuations.map((phrase) {
@@ -178,15 +199,35 @@ class AllahHighlighter {
     }).join('|');
   }
 
+  static String _singleWordExclusion(Set<String> words) =>
+      '(?!\\s+(?:${words.map(RegExp.escape).join('|')})\\b)';
+
+  static String _phraseExclusion(Set<String> phrases) {
+    final alternatives = phrases.map((p) {
+      final words = p.split(' ').where((w) => w.isNotEmpty).map(RegExp.escape);
+      return words.join(r'\s+');
+    }).join('|');
+    return '(?!\\s+(?:$alternatives)\\b)';
+  }
+
+  static String get _weExclusionPattern =>
+      _singleWordExclusion(_weSingleWordSuppressors) +
+      _phraseExclusion(_wePhraseSuppressors);
+
+  static const Map<String, Set<String>> _singleWordSuppressorsByWord = {
+    'You': _youSingleWordSuppressors,
+    'Me': _weSingleWordSuppressors,
+    'Us': _weSingleWordSuppressors,
+  };
+
   static String get _heExclusionPattern {
-    final singles = _heSingleWordSuppressors.map(RegExp.escape).join('|');
     final phrases = _hePhraseSuppressors.map((p) {
       final words = p.split(' ').where((w) => w.isNotEmpty).map(RegExp.escape);
       return words.join(r'\s+');
     }).join('|');
     final willContinuations = _heWillContinuationPattern;
 
-    return '(?!\\s+(?:$singles)\\b)'
+    return _singleWordExclusion(_heSingleWordSuppressors) +
         '(?!\\s+(?:$phrases)\\b)'
         '(?!\\s+will\\b(?!\\s+(?:$willContinuations)\\b))';
   }
@@ -217,6 +258,9 @@ class AllahHighlighter {
 
   static String _exclusionFor(String w) {
     if (w == 'He') return _heExclusionPattern;
+    if (w == 'We') return _weExclusionPattern;
+    final suppressors = _singleWordSuppressorsByWord[w];
+    if (suppressors != null) return _singleWordExclusion(suppressors);
     return _allahWordExclusions[w] ?? '';
   }
 
@@ -272,7 +316,11 @@ class AllahHighlighter {
     'Allah', 'Allāh', 'Allâh',
     'Lord\u2019s', 'Lord\u02BCs', "Lord's", 'Lord',
   ];
-  static const List<String> _englishPronounWords = [ 'Allah Who', 'He Who', 'Whom', 'Creator', 'Oneness', 'Our', 'Ours', 'Him', 'His', 'He', 'Me', 'Us', 'One', 'One Who', 'My',];
+  static const List<String> _englishPronounWords = [
+    'Allah Who', 'He Who', 'Him Who', 'Whom', 'Creator',
+    'Oneness', 'Our', 'Ours', 'Him', 'His', 'You', 'Your',
+    'He', 'Me', 'Us', 'One', 'One Who', 'My', 'We'
+  ];
 
   static const Map<String, List<String>> allahWordsByLanguage = {
     'Arabic': [
@@ -896,7 +944,11 @@ class AllahHighlighter {
         case 1: // paren
           final inner = matched.substring(1, matched.length - 1);
           result.add(TextSpan(text: '(', style: parenColor));
-          result.addAll(recurse(inner, parenColor, depth: parenDepth + 1));
+          if (_parenSuppressedContents.contains(inner.trim())) {
+            result.add(TextSpan(text: inner, style: parenColor));
+          } else {
+            result.addAll(recurse(inner, parenColor, depth: parenDepth + 1));
+          }
           result.add(TextSpan(text: ')', style: parenColor));
           break;
         case 2: // curly

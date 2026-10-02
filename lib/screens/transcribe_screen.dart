@@ -47,32 +47,11 @@ final _msOffsetController = TextEditingController(text: '0');
 String? _selectedAudiobookPath;
 List<String> _availableAudiobooks = [];
 
-  @override
-  void initState() {
-    super.initState();
-    _whisperService.initialize().then((_) {
-      if (mounted) {
-        setState(() {
-          _customPromptController.text = _whisperService.customPrompt;
-
-          if (_whisperService.isTranscribing) {
-            _isTranscribing = true;
-            _transcriptionStatus = _whisperService.transcriptionStatus;
-            _transcriptionProgress = _whisperService.transcriptionProgress;
-            _totalTranscriptionChapters = _whisperService.totalTranscriptionChapters;
-            _currentTranscriptionChapter = _whisperService.currentTranscriptionChapter;
-            _cumulativeChapterDuration = _whisperService.cumulativeChapterDuration;
-            _totalRemainingDuration = _whisperService.totalRemainingDuration;
-            _initialTotalDuration = _whisperService.initialTotalDuration;
-            _transcriptionStartTime = _whisperService.transcriptionStartTime;
-            _startingRemainingDuration = _whisperService.startingRemainingDuration;
-
-            _startProgressUpdateTimer();
-          }
-        });
-      }
-    });
-  }
+@override
+void initState() {
+  super.initState();
+  _initScreen();
+}
 
   @override
   void dispose() {
@@ -110,7 +89,13 @@ List<String> _availableAudiobooks = [];
         _totalRemainingDuration = Duration.zero;
       });
 
-      await _convertAllVttToMarkdown(_chaptersDirectory!);
+      final dir = _chaptersDirectory;
+      if (dir != null) {
+        await _convertAllVttToMarkdown(dir);
+      } else {
+        if (!mounted) return;
+        setState(() => _transcriptionStatus = 'Transcription complete, but no chapters directory is set. Use Regenerate .md Files.');
+      }
 
       if (mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
@@ -125,6 +110,43 @@ List<String> _availableAudiobooks = [];
     }
   }
 
+  Future<void> _initScreen() async {
+    await _restoreChaptersDirectory();
+    await _whisperService.initialize();
+    if (!mounted) return;
+
+    setState(() {
+      _customPromptController.text = _whisperService.customPrompt;
+
+      if (_whisperService.isTranscribing) {
+        _isTranscribing = true;
+        _transcriptionStatus = _whisperService.transcriptionStatus;
+        _transcriptionProgress = _whisperService.transcriptionProgress;
+        _totalTranscriptionChapters = _whisperService.totalTranscriptionChapters;
+        _currentTranscriptionChapter = _whisperService.currentTranscriptionChapter;
+        _cumulativeChapterDuration = _whisperService.cumulativeChapterDuration;
+        _totalRemainingDuration = _whisperService.totalRemainingDuration;
+        _initialTotalDuration = _whisperService.initialTotalDuration;
+        _transcriptionStartTime = _whisperService.transcriptionStartTime;
+        _startingRemainingDuration = _whisperService.startingRemainingDuration;
+
+        _startProgressUpdateTimer();
+      }
+    });
+  }
+
+  Future<void> _restoreChaptersDirectory() async {
+    final prefs = await SharedPreferences.getInstance();
+    final lastDir = prefs.getString('lastChaptersDirectory');
+    if (lastDir != null && Directory(lastDir).existsSync()) {
+      if (!mounted) return;
+      setState(() {
+        _chaptersDirectory = lastDir;
+      });
+      await _scanForAudiobooks();
+    }
+  }
+
   Future<void> _regenerateMarkdown() async {
     if (_chaptersDirectory == null) {
       setState(() => _mdStatus = 'Please select a chapters directory first');
@@ -135,6 +157,7 @@ List<String> _availableAudiobooks = [];
       return;
     }
 
+    if (!mounted) return;
     setState(() {
       _regeneratingMd = true;
       _mdStatus = 'Regenerating markdown files...';
@@ -149,15 +172,19 @@ List<String> _availableAudiobooks = [];
         .where((e) => e is File && e.path.endsWith('.md'))
         .length;
 
+    if (!_mdStatus.startsWith('MD conversion error')) {
     setState(() {
       _regeneratingMd = false;
       _mdStatus = 'Done. $mdCount .md files in ${path.basename(_chaptersDirectory!)}';
     });
+    } else {
+      setState(() => _regeneratingMd = false);
+    }
 
     ScaffoldMessenger.of(context).showSnackBar(
       SnackBar(
         content: Text('Regenerated markdown ($mdCount files)'),
-        backgroundColor: Colors.green,
+        backgroundColor: Colors.cyan.shade900,
       ),
     );
   }
@@ -288,6 +315,9 @@ List<String> _availableAudiobooks = [];
 
   Future<void> _startTranscription() async {
     if (_chaptersDirectory == null) return;
+
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setString('lastChaptersDirectory', _chaptersDirectory!);
 
     _whisperService.addPromptToHistory(_whisperService.customPrompt);
 
@@ -555,6 +585,7 @@ List<String> _availableAudiobooks = [];
 
   Future<void> _convertAllVttToMarkdown(String chaptersDirectory) async {
     try {
+      if (!mounted) return;
       setState(() {
         _transcriptionStatus = 'Converting VTT files to markdown...';
       });
@@ -940,6 +971,7 @@ List<String> _availableAudiobooks = [];
             label: const Text('Regenerate .md Files'),
             style: ElevatedButton.styleFrom(
               backgroundColor: Colors.teal,
+              foregroundColor: Colors.white,
               padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
             ),
           ),
@@ -1164,9 +1196,10 @@ List<String> _availableAudiobooks = [];
                         ),
                       )
                     : const Icon(Icons.merge_type),
-                label: const Text('Re-merge VTTs'),
+                label: const Text('Re-merge vtts'),
                 style: ElevatedButton.styleFrom(
                   backgroundColor: Colors.deepOrange,
+                  foregroundColor: Colors.white,
                   padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
                 ),
               ),
