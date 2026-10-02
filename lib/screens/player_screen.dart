@@ -6723,6 +6723,7 @@ class _PlayerScreenState extends State<PlayerScreen>
     setState(() {
       _searchQuery = s.query;
       _excludeTerms = s.exclude;
+      _searchUseAnd = s.useAnd;
     });
   }
 
@@ -6735,12 +6736,18 @@ class _PlayerScreenState extends State<PlayerScreen>
       return;
     }
 
-    final name = exclude.isEmpty
+    final base = exclude.isEmpty
         ? query
         : (query.isEmpty ? '⊘ $exclude' : '$query ⊘ $exclude');
+    final name = _searchUseAnd ? base : '$base (OR)';
 
     setState(() {
-      final entry = SavedSearch(name: name, query: query, exclude: exclude);
+      final entry = SavedSearch(
+        name: name,
+        query: query,
+        exclude: exclude,
+        useAnd: _searchUseAnd,
+      );
       final i = _savedSearches.indexWhere((s) => s.name == name);
       if (i >= 0) {
         _savedSearches[i] = entry;
