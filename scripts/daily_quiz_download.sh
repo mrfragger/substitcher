@@ -98,4 +98,5 @@ else
     echo "No version argument given, skipping version bump (PKGBUILD / build_appimage.sh / pubspec.yaml)."
 fi
 
-echo "All done."
+echo "All done. Last run: $(date '+%Y-%m-%d %H:%M:%S %Z')"
+echo "Best to run at after 03:06 UTC or 03:36 UTC"
