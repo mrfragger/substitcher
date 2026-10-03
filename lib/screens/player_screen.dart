@@ -6992,6 +6992,42 @@ class _PlayerScreenState extends State<PlayerScreen>
     }
   }
 
+  Future<void> _unloadQuranAudiobook() async {
+    if (!_isQuranVerseByVerse) return;
+    await player.stop();
+    if (!mounted) return;
+    setState(() {
+      _currentAudiobook = null;
+      _currentChapterIndex = 0;
+      _currentPosition = Duration.zero;
+      _totalDuration = Duration.zero;
+      _subtitles = [];
+      _originalSubtitles = [];
+      _currentSubtitleText = '';
+      _currentSubtitleIndex = null;
+      _subtitleFilePath = null;
+      _primarySubtitlePath = null;
+      _secondarySubtitlePath = null;
+      _secondarySubtitleFilePath = null;
+      _secondarySubtitles = [];
+      _secondaryOriginalSubtitles = [];
+      _secondarySubtitleText = '';
+      _currentSecondarySubtitleIndex = null;
+      _activeQuranRef = null;
+      _pendingStopRef = null;
+      _quranQueue = null;
+      _quranVerseSearchResults = [];
+      _quranVerseSearchController.clear();
+    });
+    _quranVerseSearchIndex.clear();
+    ScaffoldMessenger.of(context).showSnackBar(
+      const SnackBar(
+        content: Text('Quran Verse by Verse audiobook unloaded'),
+        duration: Duration(seconds: 2),
+      ),
+    );
+  }
+
   Future<void> _openAudiobookDirectory() async {
     if (_currentAudiobook == null) {
       ScaffoldMessenger.of(context).showSnackBar(
@@ -9190,6 +9226,7 @@ class _PlayerScreenState extends State<PlayerScreen>
                   onQuizVerseSelected: _navigateToQuranVerseFromQuiz,
                   onRelatedVerseSelected: _navigateToQuranVerseFromConnections,
                   onQuranPlayAllRequested: _playAllQuranRefs,
+                  onUnloadQuranAudiobook: _unloadQuranAudiobook,
                   quranSearchFocusNode: _quranSearchFocusNode,
                   quranExcludeFocusNode: _quranExcludeFocusNode,
                   quranItemScrollController: _quranItemScrollController,

@@ -66,6 +66,7 @@ class QuranPanel extends StatefulWidget {
   final Function(QuranVerseRef range, int repeatCount)? onRepeatRangeRequested;
   final HistoryItem? lastQuranAudiobook;
   final Function(String)? onOpenAudiobook;
+  final VoidCallback? onUnloadQuranAudiobook;
 
   const QuranPanel({
     super.key,
@@ -100,6 +101,7 @@ class QuranPanel extends StatefulWidget {
     this.ayahDurations,
     this.lastQuranAudiobook,
     this.onOpenAudiobook,
+    this.onUnloadQuranAudiobook,
   });
 
   @override
@@ -1835,7 +1837,6 @@ class _QuranPanelState extends State<QuranPanel> {
           List<Map<String, dynamic>> scored,
           {String? phrase}) {
         if (index == null) return;
-
         Set<int>? candidateDocIds;
         for (final term in terms) {
           final postings = index.invertedIndex[term];
@@ -1845,29 +1846,27 @@ class _QuranPanelState extends State<QuranPanel> {
           if (candidateDocIds.isEmpty) return;
         }
         if (candidateDocIds == null) return;
-
         final normalizedPhrase = phrase != null ? _normalizeForPhraseMatch(phrase) : null;
-
-        for (final docId in candidateDocIds) {
-          final surah = docId ~/ 1000;
-          final ayah = docId % 1000;
-          final text = getText(surah, ayah);
-          if (text == null || text.isEmpty) continue;
-          final tokenSet = _tokenize(text).toSet();
-          if (!terms.every((t) => tokenSet.contains(t))) continue;
-          if (normalizedPhrase != null &&
-              !_normalizeForPhraseMatch(text).contains(normalizedPhrase)) {
-            continue;
-          }
-          scored.add({
-            'source': sourceName,
-            'surah': surah,
-            'ayah': ayah,
-            'text': text,
-            'score': _bm25ScoreBinary(index, docId, terms),
-          });
-        }
+    for (final docId in candidateDocIds) {
+      final surah = docId ~/ 1000;
+      final ayah = docId % 1000;
+      final text = getText(surah, ayah);
+      if (text == null || text.isEmpty) continue;
+      final tokenSet = _tokenize(text).toSet();
+      if (!terms.every((t) => tokenSet.contains(t))) continue;
+      if (normalizedPhrase != null &&
+          !_normalizeForPhraseMatch(text).contains(normalizedPhrase)) {
+        continue;
       }
+      scored.add({
+        'source': sourceName,
+        'surah': surah,
+        'ayah': ayah,
+        'text': text,
+        'score': _bm25ScoreBinary(index, docId, terms),
+      });
+    }
+  }
 
   Widget _buildTafsirFontSizeButton() {
     final fontSizeLabel = _tafsirFontSize.toInt().toString();
@@ -2566,6 +2565,43 @@ class _QuranPanelState extends State<QuranPanel> {
                          padding: const EdgeInsets.fromLTRB(16, 0, 16, 4),
                          child: Row(
                            children: [
+                             if (widget.isQuranLoaded &&
+                                 widget.onUnloadQuranAudiobook != null) ...[
+                               Tooltip(
+                                 message:
+                                     'Unload Current Quran Verse by Verse audiobook',
+                                 waitDuration: const Duration(milliseconds: 300),
+                                 textStyle: const TextStyle(
+                                     color: Colors.white, fontSize: 12),
+                                 decoration: BoxDecoration(
+                                   color: const Color(0xFF2A2A2A),
+                                   borderRadius: BorderRadius.circular(6),
+                                 ),
+                                 child: InkWell(
+                                   onTap: widget.onUnloadQuranAudiobook,
+                                   borderRadius: BorderRadius.circular(4),
+                                   child: Container(
+                                     width: 22,
+                                     height: 22,
+                                     alignment: Alignment.center,
+                                     decoration: BoxDecoration(
+                                       color: Colors.orangeAccent.withAlpha(30),
+                                       borderRadius: BorderRadius.circular(4),
+                                       border: Border.all(
+                                         color: Colors.orangeAccent
+                                             .withAlpha(180),
+                                       ),
+                                     ),
+                                     child: const Icon(
+                                       Icons.eject,
+                                       color: Colors.orangeAccent,
+                                       size: 14,
+                                     ),
+                                   ),
+                                 ),
+                               ),
+                               const SizedBox(width: 6),
+                             ],
                              Text('${filtered.length}',
                                  style: const TextStyle(color: Colors.white38, fontSize: 12)),
                              if (widget.isQuranLoaded) ...[
@@ -2773,28 +2809,33 @@ class _QuranPanelState extends State<QuranPanel> {
                                  alignment: Alignment.centerLeft,
                                  child: (widget.lastQuranAudiobook != null &&
                                          widget.onOpenAudiobook != null)
-                                     ? InkWell(
-                                         onTap: () => widget.onOpenAudiobook!(
-                                             widget.lastQuranAudiobook!.audiobookPath),
-                                         child: Row(
-                                           mainAxisSize: MainAxisSize.min,
-                                           children: [
-                                             const Icon(Icons.play_circle_outline,
-                                                 color: Colors.lightBlueAccent, size: 14),
-                                             const SizedBox(width: 4),
-                                             Flexible(
-                                               child: Text(
-                                                 'Load last ${widget.lastQuranAudiobook!.audiobookTitle}',
-                                                 maxLines: 1,
-                                                 overflow: TextOverflow.ellipsis,
-                                                 style: const TextStyle(
-                                                   color: Colors.lightBlueAccent,
-                                                   fontSize: 12,
+                                     ? Row(
+                                         mainAxisSize: MainAxisSize.min,
+                                         children: [
+                                           InkWell(
+                                             onTap: () => widget.onOpenAudiobook!(
+                                                 widget.lastQuranAudiobook!.audiobookPath),
+                                             child: Row(
+                                               mainAxisSize: MainAxisSize.min,
+                                               children: [
+                                                 const Icon(Icons.play_circle_outline,
+                                                     color: Colors.lightBlueAccent, size: 14),
+                                                 const SizedBox(width: 4),
+                                                 Flexible(
+                                                   child: Text(
+                                                     'Load last ${widget.lastQuranAudiobook!.audiobookTitle}',
+                                                     maxLines: 1,
+                                                     overflow: TextOverflow.ellipsis,
+                                                     style: const TextStyle(
+                                                       color: Colors.lightBlueAccent,
+                                                       fontSize: 12,
+                                                     ),
+                                                   ),
                                                  ),
-                                               ),
+                                               ],
                                              ),
-                                           ],
-                                         ),
+                                           ),
+                                         ],
                                        )
                                      : const Text(
                                          'Load a Quran Verse by Verse audiobook',
