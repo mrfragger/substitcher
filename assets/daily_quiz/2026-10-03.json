@@ -242,5 +242,447 @@
       "تُخْلِفُ ٱلْمِيعَادَ"
     ],
     "verseEn": "Our Lord, and grant us what You promised us through Your messengers and do not disgrace us on the Day of Resurrection. Indeed, You do not fail in [Your] promise.\""
+  },
+  "roothive": {
+    "center": "س",
+    "outer": [
+      "م",
+      "ل",
+      "ا",
+      "ت",
+      "د",
+      "ف"
+    ],
+    "root": {
+      "letters": "فسد",
+      "display": "ف س د",
+      "translit": "f-s-d",
+      "meaning": "Words from this root carry the sense of: spreading corruption, corrupted.",
+      "occurrences": 50,
+      "lemmaCount": 4
+    },
+    "words": [
+      {
+        "w": "اسس",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "أَسَّسَ",
+            "gloss": "founded",
+            "type": "verb",
+            "root": "أسس",
+            "count": 3,
+            "ref": "9:108",
+            "pos": 6,
+            "form": 2
+          }
+        ]
+      },
+      {
+        "w": "اسف",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "أَسِف",
+            "gloss": "grieved",
+            "type": "noun",
+            "root": "أسف",
+            "count": 2,
+            "ref": "7:150",
+            "pos": 7,
+            "alt": [
+              "sorrowful"
+            ]
+          },
+          {
+            "lemma": "أَسَف",
+            "gloss": "grief",
+            "type": "noun",
+            "root": "أسف",
+            "count": 2,
+            "ref": "18:6",
+            "pos": 11
+          }
+        ]
+      },
+      {
+        "w": "اسم",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "اسْم",
+            "gloss": "name",
+            "type": "noun",
+            "root": "سمو",
+            "count": 39,
+            "ref": "5:4",
+            "pos": 23,
+            "alt": [
+              "names",
+              "name of allah"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "سال",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "سَأَلَ",
+            "gloss": "be asked",
+            "type": "verb",
+            "root": "سأل",
+            "count": 106,
+            "ref": "2:108",
+            "pos": 7,
+            "alt": [
+              "ask",
+              "be questioned"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "سدس",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "سُدُس",
+            "gloss": "sixth",
+            "type": "noun",
+            "root": "سدس",
+            "count": 3,
+            "ref": "4:11",
+            "pos": 27
+          }
+        ]
+      },
+      {
+        "w": "سلف",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "سَلَفَ",
+            "gloss": "passed",
+            "type": "verb",
+            "root": "سلف",
+            "count": 5,
+            "ref": "2:275",
+            "pos": 34,
+            "alt": [
+              "passed before",
+              "past"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "سلم",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "سَلَّمَ",
+            "gloss": "saved",
+            "type": "verb",
+            "root": "سلم",
+            "count": 6,
+            "ref": "8:43",
+            "pos": 16,
+            "form": 2
+          },
+          {
+            "lemma": "سَلَم",
+            "gloss": "exclusively",
+            "type": "noun",
+            "root": "سلم",
+            "count": 5,
+            "ref": "39:29",
+            "pos": 9
+          },
+          {
+            "lemma": "سُلَّم",
+            "gloss": "ladder",
+            "type": "noun",
+            "root": "سلم",
+            "count": 2,
+            "ref": "6:35",
+            "pos": 14,
+            "alt": [
+              "stairway"
+            ]
+          },
+          {
+            "lemma": "سَلْم",
+            "gloss": "to peace",
+            "type": "noun",
+            "root": "سلم",
+            "count": 2,
+            "ref": "8:61",
+            "pos": 3,
+            "alt": [
+              "peace"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "لمس",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "لَمَسُ",
+            "gloss": "have touched",
+            "type": "verb",
+            "root": "لمس",
+            "count": 4,
+            "ref": "4:43",
+            "pos": 33,
+            "alt": [
+              "has contact",
+              "touched"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "اسفل",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَسْفَل",
+            "gloss": "lower",
+            "type": "adjective",
+            "root": "سفل",
+            "count": 6,
+            "ref": "8:42",
+            "pos": 9,
+            "alt": [
+              "below",
+              "lowest"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "اسلم",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَسْلَمَ",
+            "gloss": "submits",
+            "type": "verb",
+            "root": "سلم",
+            "count": 22,
+            "ref": "2:112",
+            "pos": 3,
+            "alt": [
+              "submit",
+              "submitted"
+            ],
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "افسد",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "أَفْسَدُ",
+            "gloss": "spread corruption",
+            "type": "verb",
+            "root": "فسد",
+            "count": 15,
+            "ref": "2:30",
+            "pos": 14,
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "سادس",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "سادِس",
+            "gloss": "sixth of",
+            "type": "noun",
+            "root": "سدس",
+            "count": 2,
+            "ref": "18:22",
+            "pos": 7
+          }
+        ]
+      },
+      {
+        "w": "سافل",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "سافِل",
+            "gloss": "low",
+            "type": "active participle",
+            "root": "سفل",
+            "count": 3,
+            "ref": "95:5",
+            "pos": 4
+          }
+        ]
+      },
+      {
+        "w": "سلام",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "سَلام",
+            "gloss": "peace",
+            "type": "noun",
+            "root": "سلم",
+            "count": 42,
+            "ref": "6:54",
+            "pos": 7,
+            "alt": [
+              "peace be"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "فساد",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "فَساد",
+            "gloss": "spreading corruption",
+            "type": "noun",
+            "root": "فسد",
+            "count": 11,
+            "ref": "5:32",
+            "pos": 15,
+            "alt": [
+              "corruption"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "فسدت",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "فَسَدَتِ",
+            "gloss": "corrupted",
+            "type": "verb",
+            "root": "فسد",
+            "count": 3,
+            "ref": "2:251",
+            "pos": 20,
+            "alt": [
+              "have been ruined",
+              "have been corrupted"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "مسلم",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مُسْلِم",
+            "gloss": "muslims",
+            "type": "active participle",
+            "root": "سلم",
+            "count": 39,
+            "ref": "2:128",
+            "pos": 3,
+            "alt": [
+              "submissive",
+              "muslim"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "مفسد",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "مُفْسِد",
+            "gloss": "corrupters",
+            "type": "active participle",
+            "root": "فسد",
+            "count": 21,
+            "ref": "2:60",
+            "pos": 28,
+            "alt": [
+              "spreading corruption"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "اسلام",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "إِسْلام",
+            "gloss": "islam",
+            "type": "verbal noun",
+            "root": "سلم",
+            "count": 8,
+            "ref": "3:19",
+            "pos": 5,
+            "alt": [
+              "to islam"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "اسلفت",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "أَسْلَفَتْ",
+            "gloss": "previously",
+            "type": "verb",
+            "root": "سلف",
+            "count": 2,
+            "ref": "10:30",
+            "pos": 6,
+            "form": 4
+          }
+        ]
+      }
+    ],
+    "otherFamily": [],
+    "maxScore": 42,
+    "featuredRoot": "فسد"
   }
 }

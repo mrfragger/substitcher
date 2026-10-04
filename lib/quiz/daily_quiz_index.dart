@@ -128,10 +128,12 @@ class ConnectionsEntry {
   final DateTime date;
   final int categoryCount;
   final List<ConnectionsEntryCategory> categories;
+  final String? rootDisplay;
   ConnectionsEntry({
     required this.date,
     required this.categoryCount,
     required this.categories,
+    this.rootDisplay,
   });
 }
 
@@ -147,6 +149,10 @@ class ConnectionsIndex {
         final dayJson = await DailyQuizIndex.loadDay(d);
         final conn = dayJson['connections'];
         final cats = conn is Map ? conn['categories'] : null;
+        final hive = dayJson['roothive'];
+        final hiveRoot = hive is Map ? hive['root'] : null;
+        final rootDisplay =
+            hiveRoot is Map ? hiveRoot['display'] as String? : null;
         if (cats is List && cats.isNotEmpty) {
           final parsedCats = cats
               .whereType<Map>()
@@ -159,6 +165,7 @@ class ConnectionsIndex {
             date: d,
             categoryCount: cats.length,
             categories: parsedCats,
+            rootDisplay: rootDisplay,
           ));
         }
       } catch (_) {

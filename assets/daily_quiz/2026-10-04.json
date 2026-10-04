@@ -1,0 +1,523 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "مَرَاحِلُ خَلْقِ الْإِنْسَانِ",
+        "nameEn": "Stages of Human Creation in the Quran",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "نُطْفَةٍ",
+            "en": "a semen-drop",
+            "ref": "76:2",
+            "verse": "إِنَّا خَلَقْنَا ٱلْإِنسَـٰنَ مِن نُّطْفَةٍ أَمْشَاجٍۢ نَّبْتَلِيهِ فَجَعَلْنَـٰهُ سَمِيعًۢا بَصِيرًا",
+            "verseEn": "Indeed, We created man from a sperm-drop mixture that We may try him; and We made him hearing and seeing."
+          },
+          {
+            "ar": "عَلَقَةً",
+            "en": "a clinging substance",
+            "ref": "75:38",
+            "verse": "ثُمَّ كَانَ عَلَقَةًۭ فَخَلَقَ فَسَوَّىٰ",
+            "verseEn": "Then he was a clinging clot, and [Allāh] created [his form] and proportioned [him]"
+          },
+          {
+            "ar": "أَجِنَّةٌ",
+            "en": "fetuses",
+            "ref": "53:32",
+            "verse": "ٱلَّذِينَ يَجْتَنِبُونَ كَبَـٰٓئِرَ ٱلْإِثْمِ وَٱلْفَوَٰحِشَ إِلَّا ٱللَّمَمَ ۚ إِنَّ رَبَّكَ وَٰسِعُ ٱلْمَغْفِرَةِ ۚ هُوَ أَعْلَمُ بِكُمْ إِذْ أَنشَأَكُم مِّنَ ٱلْأَرْضِ وَإِذْ أَنتُمْ أَجِنَّةٌۭ فِى بُطُونِ أُمَّهَـٰتِكُمْ ۖ فَلَا تُزَكُّوٓا۟ أَنفُسَكُمْ ۖ هُوَ أَعْلَمُ بِمَنِ ٱتَّقَىٰٓ",
+            "verseEn": "Those who avoid the major sins and immoralities, only [committing] slight ones. Indeed, your Lord is vast in forgiveness. He was most knowing of you when He produced you from the earth and when you were fetuses in the wombs of your mothers. So do not claim yourselves to be pure; He is most knowing of who fears Him."
+          },
+          {
+            "ar": "الْعِظَامَ",
+            "en": "(to) the bones",
+            "ref": "36:78",
+            "verse": "وَضَرَبَ لَنَا مَثَلًۭا وَنَسِىَ خَلْقَهُۥ ۖ قَالَ مَن يُحْىِ ٱلْعِظَـٰمَ وَهِىَ رَمِيمٌۭ",
+            "verseEn": "And he presents for Us an example and forgets his [own] creation. He says, \"Who will give life to bones while they are disintegrated?\""
+          }
+        ]
+      },
+      {
+        "name": "مُفْرَدَاتٌ مِنْ قِصَّةِ آدَمَ وَإِبْلِيسَ",
+        "nameEn": "Key terms from the story of Adam and Iblis",
+        "color": "green",
+        "items": [
+          {
+            "ar": "آدَمُ",
+            "en": "O Adam",
+            "ref": "2:33",
+            "verse": "قَالَ يَـٰٓـَٔادَمُ أَنۢبِئْهُم بِأَسْمَآئِهِمْ ۖ فَلَمَّآ أَنۢبَأَهُم بِأَسْمَآئِهِمْ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ غَيْبَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَأَعْلَمُ مَا تُبْدُونَ وَمَا كُنتُمْ تَكْتُمُونَ",
+            "verseEn": "He said, \"O Adam, inform them of their names.\" And when he had informed them of their names, He said, \"Did I not tell you that I know the unseen [aspects] of the heavens and the earth? And I know what you reveal and what you have concealed.\""
+          },
+          {
+            "ar": "إِبْلِيسُ",
+            "en": "O Iblis",
+            "ref": "15:32",
+            "verse": "قَالَ يَـٰٓإِبْلِيسُ مَا لَكَ أَلَّا تَكُونَ مَعَ ٱلسَّـٰجِدِينَ",
+            "verseEn": "[Allāh] said, \"O Iblees, what is [the matter] with you that you are not with those who prostrate?\""
+          },
+          {
+            "ar": "نَفَخْتُ",
+            "en": "and breathed",
+            "ref": "38:72",
+            "verse": "فَإِذَا سَوَّيْتُهُۥ وَنَفَخْتُ فِيهِ مِن رُّوحِى فَقَعُوا۟ لَهُۥ سَـٰجِدِينَ",
+            "verseEn": "So when I have proportioned him and breathed into him of My [created] soul, then fall down to him in prostration.\""
+          },
+          {
+            "ar": "فَسَجَدَ",
+            "en": "So prostrated",
+            "ref": "15:30",
+            "verse": "فَسَجَدَ ٱلْمَلَـٰٓئِكَةُ كُلُّهُمْ أَجْمَعُونَ",
+            "verseEn": "So the angels prostrated - all of them entirely,"
+          }
+        ]
+      },
+      {
+        "name": "أَسْمَاءُ نَارِ الْعَذَابِ فِي الْقُرْآنِ",
+        "nameEn": "Names of the fire of punishment in the Quran",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "الْجَحِيمِ",
+            "en": "(of) the Hellfire",
+            "ref": "37:55",
+            "verse": "فَٱطَّلَعَ فَرَءَاهُ فِى سَوَآءِ ٱلْجَحِيمِ",
+            "verseEn": "And he will look and see him in the midst of the Hellfire."
+          },
+          {
+            "ar": "السَّعِيرِ",
+            "en": "(of) the Blaze",
+            "ref": "31:21",
+            "verse": "وَإِذَا قِيلَ لَهُمُ ٱتَّبِعُوا۟ مَآ أَنزَلَ ٱللَّهُ قَالُوا۟ بَلْ نَتَّبِعُ مَا وَجَدْنَا عَلَيْهِ ءَابَآءَنَآ ۚ أَوَلَوْ كَانَ ٱلشَّيْطَـٰنُ يَدْعُوهُمْ إِلَىٰ عَذَابِ ٱلسَّعِيرِ",
+            "verseEn": "And when it is said to them, \"Follow what Allāh has revealed,\" they say, \"Rather, we will follow that upon which we found our fathers.\" Even if Satan was inviting them to the punishment of the Blaze?"
+          },
+          {
+            "ar": "جَهَنَّمُ",
+            "en": "(is) Hell",
+            "ref": "4:93",
+            "verse": "وَمَن يَقْتُلْ مُؤْمِنًۭا مُّتَعَمِّدًۭا فَجَزَآؤُهُۥ جَهَنَّمُ خَـٰلِدًۭا فِيهَا وَغَضِبَ ٱللَّهُ عَلَيْهِ وَلَعَنَهُۥ وَأَعَدَّ لَهُۥ عَذَابًا عَظِيمًۭا",
+            "verseEn": "But whoever kills a believer intentionally - his recompense is Hell, wherein he will abide eternally, and Allāh has become angry with him and has cursed him and has prepared for him a great punishment."
+          },
+          {
+            "ar": "حَمِيمٍ",
+            "en": "boiling fluids",
+            "ref": "10:4",
+            "verse": "إِلَيْهِ مَرْجِعُكُمْ جَمِيعًۭا ۖ وَعْدَ ٱللَّهِ حَقًّا ۚ إِنَّهُۥ يَبْدَؤُا۟ ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥ لِيَجْزِىَ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ بِٱلْقِسْطِ ۚ وَٱلَّذِينَ كَفَرُوا۟ لَهُمْ شَرَابٌۭ مِّنْ حَمِيمٍۢ وَعَذَابٌ أَلِيمٌۢ بِمَا كَانُوا۟ يَكْفُرُونَ",
+            "verseEn": "To Him is your return all together. [It is] the promise of Allāh [which is] truth. Indeed, He begins the [process of] creation and then repeats it that He may reward those who have believed and done righteous deeds, in justice. But those who disbelieved will have a drink of scalding water and a painful punishment for what they used to deny."
+          }
+        ]
+      },
+      {
+        "name": "أَلْفَاظُ الْعِصْيَانِ وَالطُّغْيَانِ",
+        "nameEn": "Quranic Terms for Transgression and Disobedience",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "عَصَوُا",
+            "en": "and disobeyed",
+            "ref": "4:42",
+            "verse": "يَوْمَئِذٍۢ يَوَدُّ ٱلَّذِينَ كَفَرُوا۟ وَعَصَوُا۟ ٱلرَّسُولَ لَوْ تُسَوَّىٰ بِهِمُ ٱلْأَرْضُ وَلَا يَكْتُمُونَ ٱللَّهَ حَدِيثًۭا",
+            "verseEn": "That Day, those who disbelieved and disobeyed the Messenger will wish they could be covered by the earth. And they will not conceal from Allāh a [single] statement."
+          },
+          {
+            "ar": "يَبْغُونَ",
+            "en": "rebel",
+            "ref": "10:23",
+            "verse": "فَلَمَّآ أَنجَىٰهُمْ إِذَا هُمْ يَبْغُونَ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ ۗ يَـٰٓأَيُّهَا ٱلنَّاسُ إِنَّمَا بَغْيُكُمْ عَلَىٰٓ أَنفُسِكُم ۖ مَّتَـٰعَ ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ ثُمَّ إِلَيْنَا مَرْجِعُكُمْ فَنُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ",
+            "verseEn": "But when He saves them, at once they commit injustice upon the earth without right. O mankind, your injustice is only against yourselves, [being merely] the enjoyment of worldly life. Then to Us is your return, and We will inform you of what you used to do."
+          },
+          {
+            "ar": "طَغْوَاهَا",
+            "en": "by their transgression",
+            "ref": "91:11",
+            "verse": "كَذَّبَتْ ثَمُودُ بِطَغْوَىٰهَآ",
+            "verseEn": "Thamūd denied [their prophet] by reason of their transgression,"
+          },
+          {
+            "ar": "عُتُوًّا",
+            "en": "(with) insolence",
+            "ref": "25:21",
+            "verse": "۞ وَقَالَ ٱلَّذِينَ لَا يَرْجُونَ لِقَآءَنَا لَوْلَآ أُنزِلَ عَلَيْنَا ٱلْمَلَـٰٓئِكَةُ أَوْ نَرَىٰ رَبَّنَا ۗ لَقَدِ ٱسْتَكْبَرُوا۟ فِىٓ أَنفُسِهِمْ وَعَتَوْ عُتُوًّۭا كَبِيرًۭا",
+            "verseEn": "And those who do not expect the meeting with Us say, \"Why were not angels sent down to us, or [why] do we [not] see our Lord?\" They have certainly become arrogant within themselves and [become] insolent with great insolence."
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "يقين",
+    "display": "يَقِين",
+    "hint": "Absolute conviction or certainty beyond doubt, often associated with faith",
+    "verseRef": "74:47",
+    "arabicVerse": "حَتَّىٰٓ أَتَىٰنَا ٱلْيَقِينُ",
+    "verse": "74:47 - Until there came to us the certainty [i.e., death].\""
+  },
+  "deduction": {
+    "title": "The Burden That Brought Healing",
+    "intro": "A soul tested beyond measure was stripped of comfort, of companions, and of bodily strength. Isolated in deep affliction, this servant of Allah turned only toward the Divine. Through unwavering patience and heartfelt prayer, a tide of mercy arrived that surpassed all expectation. Who is this figure whose devotion opened a door of restoration?",
+    "clues": [
+      "I was a favored servant of Allah, enjoying abundance, a flourishing household, and good health in my days.",
+      "Then a trial descended: wealth departed, loved ones departed, and my own flesh was struck with grave affliction.",
+      "Those near to me could not endure my condition, and I was left isolated, my body wracked with suffering.",
+      "I called upon my Lord, declaring that Satan had touched me with exhaustion and punishment.",
+      "The response came — a command to strike the ground with my foot, and from it gushed forth cool water for healing.",
+      "My Lord removed the hardship entirely and restored to me my family, multiplied, as a sign of mercy for those who reflect."
+    ],
+    "categories": {
+      "identity": {
+        "label": "Who Am I?",
+        "options": [
+          "Prophet Ayyub",
+          "Prophet Musa",
+          "Prophet Yusuf",
+          "Prophet Yunus",
+          "Prophet Ibrahim"
+        ],
+        "answer": "Prophet Ayyub"
+      },
+      "trial": {
+        "label": "Trial/Event",
+        "options": [
+          "Severe illness and loss of all",
+          "Cast into a fire by a tyrant's command",
+          "Imprisoned in a deep pit by kin",
+          "Swallowed by a great fish at sea",
+          "Wandering in exile from the homeland"
+        ],
+        "answer": "Severe illness and loss of all"
+      },
+      "location": {
+        "label": "Key Element",
+        "options": [
+          "The cool spring that gushed from the ground",
+          "The cool and peaceful fire",
+          "The ark resting upon a mountain",
+          "The staff that parted the sea",
+          "The basket floating upon the river"
+        ],
+        "answer": "The cool spring that gushed from the ground"
+      },
+      "outcome": {
+        "label": "Outcome",
+        "options": [
+          "Family and blessings restored, doubled",
+          "Escaped the burning fire unharmed",
+          "Rose to the highest office of a kingdom",
+          "Came out of a great fish's belly to safety",
+          "Led a people through a divided sea"
+        ],
+        "answer": "Family and blessings restored, doubled"
+      }
+    },
+    "verseRef": "38:43",
+    "arabic": "وَوَهَبْنَا لَهُۥٓ أَهْلَهُۥ وَمِثْلَهُم مَّعَهُمْ رَحْمَةًۭ مِّنَّا وَذِكْرَىٰ لِأُو۟لِى ٱلْأَلْبَـٰبِ",
+    "verse": "And We granted him his family and a like [number] with them as mercy from Us and a reminder for those of understanding. (38:43)"
+  },
+  "scramble": {
+    "verseRef": "11:56",
+    "reference": "Surah Hud (11:56)",
+    "segments": [
+      "إِنَّكَ لَا تَهْدِي",
+      "مَنْ أَحْبَبْتَ",
+      "وَلَٰكِنَّ اللَّهَ يَهْدِي",
+      "مَن يَشَاءُ",
+      "وَهُوَ أَعْلَمُ",
+      "بِالْمُهْتَدِينَ"
+    ],
+    "translations": [
+      "Indeed, I [I] put my trust upon",
+      "Allah my Lord and your Lord",
+      "(There is) not of a moving creature of a moving creature",
+      "but He has grasp",
+      "of its forelock Indeed my Lord",
+      "(is) on a path straight"
+    ],
+    "hint": "A powerful verse about divine guidance — the Prophet cannot guide whom he loves; only Allah guides whom He wills.",
+    "arabic": "إِنِّى تَوَكَّلْتُ عَلَى ٱللَّهِ رَبِّى وَرَبِّكُم ۚ مَّا مِن دَآبَّةٍ إِلَّا هُوَ ءَاخِذٌۢ بِنَاصِيَتِهَآ ۚ إِنَّ رَبِّى عَلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ",
+    "words": [
+      "إِنِّى تَوَكَّلْتُ عَلَى",
+      "ٱللَّهِ رَبِّى وَرَبِّكُم ۚ",
+      "مَّا مِن دَآبَّةٍ",
+      "إِلَّا هُوَ ءَاخِذٌۢ",
+      "بِنَاصِيَتِهَآ ۚ إِنَّ رَبِّى",
+      "عَلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ"
+    ],
+    "verseEn": "Indeed, I have relied upon Allāh, my Lord and your Lord. There is no creature but that He holds it by its forelock [i.e., controls it]. Indeed, my Lord is on a path [that is] straight."
+  },
+  "roothive": {
+    "center": "ب",
+    "outer": [
+      "ي",
+      "ا",
+      "م",
+      "و",
+      "ث",
+      "ه"
+    ],
+    "root": {
+      "letters": "ثوب",
+      "display": "ث و ب",
+      "translit": "th-w-b",
+      "meaning": "This root carries the idea of giving back, especially as a reward. Its derived words describe reward, recompense, and the act of returning something to someone.",
+      "occurrences": 28,
+      "lemmaCount": 6
+    },
+    "words": [
+      {
+        "w": "ابي",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "أَبَى",
+            "gloss": "refused",
+            "type": "verb",
+            "root": "أبي",
+            "count": 13,
+            "ref": "2:34",
+            "pos": 9,
+            "alt": [
+              "refuse"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "باب",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "باب",
+            "gloss": "gates",
+            "type": "noun",
+            "root": "بوب",
+            "count": 27,
+            "ref": "6:44",
+            "pos": 8,
+            "alt": [
+              "gate",
+              "doors"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "بوا",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "بَوَّأَ",
+            "gloss": "to post",
+            "type": "verb",
+            "root": "بوأ",
+            "count": 6,
+            "ref": "3:121",
+            "pos": 5,
+            "form": 2
+          }
+        ]
+      },
+      {
+        "w": "ثوب",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "ثُوِّبَ",
+            "gloss": "been rewarded",
+            "type": "verb",
+            "root": "ثوب",
+            "count": 1,
+            "ref": "83:36",
+            "pos": 2,
+            "form": 2
+          }
+        ]
+      },
+      {
+        "w": "ماب",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "مَآب",
+            "gloss": "place of return",
+            "type": "noun",
+            "root": "أوب",
+            "count": 9,
+            "ref": "13:29",
+            "pos": 8,
+            "alt": [
+              "return"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "وهب",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "وَهَبَ",
+            "gloss": "grant",
+            "type": "verb",
+            "root": "وهب",
+            "count": 22,
+            "ref": "3:38",
+            "pos": 7,
+            "alt": [
+              "has granted",
+              "gives"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "اثاب",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "أَثابَ",
+            "gloss": "repaid",
+            "type": "verb",
+            "root": "ثوب",
+            "count": 3,
+            "ref": "3:153",
+            "pos": 11,
+            "alt": [
+              "rewarded"
+            ],
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "اواب",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَوّاب",
+            "gloss": "repeatedly turning",
+            "type": "noun",
+            "root": "أوب",
+            "count": 6,
+            "ref": "38:17",
+            "pos": 11,
+            "alt": [
+              "one who repeatedly turned",
+              "repeatedly turned"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "ثواب",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "ثَواب",
+            "gloss": "reward",
+            "type": "noun",
+            "root": "ثوب",
+            "count": 13,
+            "ref": "3:145",
+            "pos": 13
+          }
+        ]
+      },
+      {
+        "w": "ثياب",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "ثِياب",
+            "gloss": "garments",
+            "type": "noun",
+            "root": "ثوب",
+            "count": 8,
+            "ref": "18:31",
+            "pos": 16
+          }
+        ]
+      },
+      {
+        "w": "وهاب",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "وَهّاب",
+            "gloss": "bestower",
+            "type": "noun",
+            "root": "وهب",
+            "count": 3,
+            "ref": "3:8",
+            "pos": 15
+          }
+        ]
+      },
+      {
+        "w": "بهيمه",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "بَهِيمَة",
+            "gloss": "beast",
+            "type": "noun",
+            "root": "بهم",
+            "count": 3,
+            "ref": "5:1",
+            "pos": 8,
+            "alt": [
+              "quadruped"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "مثابه",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "مَثابَة",
+            "gloss": "place of return",
+            "type": "noun",
+            "root": "ثوب",
+            "count": 1,
+            "ref": "2:125",
+            "pos": 4
+          }
+        ]
+      },
+      {
+        "w": "مثوبه",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "مَثُوبَة",
+            "gloss": "recompense",
+            "type": "verbal noun",
+            "root": "ثوب",
+            "count": 2,
+            "ref": "5:60",
+            "pos": 7
+          }
+        ]
+      }
+    ],
+    "otherFamily": [],
+    "maxScore": 37,
+    "featuredRoot": "ثوب"
+  }
+}

@@ -837,7 +837,7 @@ class _LemmaGridCard extends StatelessWidget {
                 ),
                 const Spacer(),
                 Text(
-                  '\u00d7${lemma.count}',
+                  '${lemma.count}x',
                   style: const TextStyle(
                     color: Colors.cyan,
                     fontSize: 13,
@@ -952,7 +952,7 @@ class RootPanel extends StatelessWidget {
               ),
             ),
             const Spacer(),
-            Text('\u00d7${card.frequency}',
+            Text('${card.frequency}x',
                 style: const TextStyle(color: Colors.white70, fontSize: 14)),
           ],
         ),
@@ -997,7 +997,7 @@ class RootPanel extends StatelessWidget {
                         ),
                       ),
                       const Spacer(),
-                      Text('\u00d7${v.frequency}',
+                      Text('${v.frequency}x',
                           style: const TextStyle(
                               color: Colors.white70, fontSize: 16)),
                     ],
@@ -1026,7 +1026,7 @@ class RootPanel extends StatelessWidget {
                             ),
                           ),
                           const Spacer(),
-                          Text('\u00d7${f.count}',
+                          Text('${f.count}x',
                               style: const TextStyle(
                                   color: Colors.white38, fontSize: 16)),
                         ],

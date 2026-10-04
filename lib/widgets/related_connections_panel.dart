@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import '../quiz/connections_model.dart';
 import '../quiz/daily_quiz_index.dart';
 import '../quiz/harf_model.dart';
+import '../quiz/root_hive_data.dart';
 import '../quran/quran_index.dart';
 import '../services/allah_highlighter.dart';
 import 'package:scrollable_positioned_list/scrollable_positioned_list.dart';
@@ -23,11 +24,15 @@ class RelatedConnectionsPanel extends StatefulWidget {
   final Function(QuranVerseRef, int)? onVerseSelected;
   final Function(String ref)? onLoadTafsirRef;
 
+  /// Called with a lemma when it's tapped in Root Hive (search Quran, WBW).
+  final void Function(String lemma)? onSearchLemma;
+
   const RelatedConnectionsPanel({
     super.key,
     required this.isQuranLoaded,
     this.onVerseSelected,
     this.onLoadTafsirRef,
+    this.onSearchLemma,
   });
 
   @override
@@ -41,6 +46,7 @@ class _RelatedConnectionsPanelState extends State<RelatedConnectionsPanel> {
   ScrambleData? _scramble;
   HarfData? _harf;
   Set<int> _harfRevealed = {};
+  RootHiveData? _rootHive;
   bool _loadingList = true;
   bool _loadingDay = false;
 
@@ -123,17 +129,21 @@ class _RelatedConnectionsPanelState extends State<RelatedConnectionsPanel> {
       _scramblePool = [];
       _scrambleWrongFlash = {};
       _harfRevealed = {};
+      _harfRevealed = {};
+      _rootHive = null;
     });
     try {
       final dayJson = await DailyQuizIndex.loadDay(date);
       final data = ConnectionsData.tryParse(dayJson);
       final scramble = ScrambleData.tryParse(dayJson);
       final harf = HarfData.tryParse(dayJson);
+      final rootHive = RootHiveData.tryParse(dayJson);
       if (!mounted) return;
       setState(() {
         _data = data;
         _scramble = scramble;
         _harf = harf;
+        _rootHive = rootHive;
         _loadingDay = false;
       });
       if (data != null) {
@@ -414,6 +424,23 @@ class _RelatedConnectionsPanelState extends State<RelatedConnectionsPanel> {
                   ),
                   const SizedBox(height: 2),
                 ],
+                if (e.rootDisplay != null && e.rootDisplay!.isNotEmpty)
+                  Align(
+                    alignment: Alignment.centerLeft,
+                    child: Directionality(
+                      textDirection: TextDirection.rtl,
+                      child: Text(
+                        e.rootDisplay!,
+                        style: TextStyle(
+                          color: Colors.redAccent,
+                          fontSize: 16,
+                          fontFamily: 'Amiri Quran',
+                          fontWeight:
+                              isSelected ? FontWeight.bold : FontWeight.normal,
+                        ),
+                      ),
+                    ),
+                  ),
               ],
             ),
           ),
@@ -480,6 +507,7 @@ class _RelatedConnectionsPanelState extends State<RelatedConnectionsPanel> {
           ..._harf!.items.asMap().entries.map(
             (e) => _buildHarfCard(e.value, e.key),
           ),
+        if (_rootHive != null) _buildRootHiveCard(_rootHive!),
       ],
     );
   }
@@ -1110,4 +1138,491 @@ class _RelatedConnectionsPanelState extends State<RelatedConnectionsPanel> {
       TextSpan(text: w.substring(match.rootEndInWord), style: const TextStyle(color: Colors.white38)),
     ];
   }
+
+  // ---------------- Root Hive (display only) ----------------
+
+  static const Color _hive = Colors.redAccent;
+  static const Color _hiveLight = Color(0xFFFF8A80); // redAccent.shade100
+
+  // Same palette as the List panel's POS chips.
+  Color _hivePosColor(String type) {
+    switch (type) {
+      case 'noun':
+        return const Color(0xFFCB93F5);
+      case 'verb':
+        return Colors.amber;
+      case 'particle':
+        return Colors.grey[300]!;
+      case 'adjective':
+        return Colors.brown[300]!;
+      case 'proper noun':
+        return Colors.lightGreenAccent;
+      default:
+        return Colors.lightBlueAccent;
+    }
+  }
+
+  // Verb forms I–X reuse the same palette, in the same order.
+  Color _hiveFormColor(int form) {
+    const colors = <Color>[
+      Color(0xFFCB93F5), // I
+      Colors.amber, // II
+      Color(0xFFE0E0E0), // III
+      Color(0xFFA1887F), // IV
+      Colors.lightGreenAccent, // V
+      Colors.lightBlueAccent, // VI
+      Colors.orangeAccent, // VII
+      Colors.tealAccent, // VIII
+      Colors.pinkAccent, // IX
+      Colors.indigoAccent, // X
+    ];
+    return colors[(form - 1).clamp(0, colors.length - 1)];
+  }
+
+  static const Map<int, String> _formNames = {
+    1: 'I', 2: 'II', 3: 'III', 4: 'IV', 5: 'V',
+    6: 'VI', 7: 'VII', 8: 'VIII', 9: 'IX', 10: 'X',
+  };
+
+  Widget _buildRootHiveCard(RootHiveData hive) {
+    final family = hive.familyWords;
+    final others = hive.otherWords;
+
+    return Container(
+      margin: const EdgeInsets.only(bottom: 16),
+      padding: const EdgeInsets.all(12),
+      decoration: BoxDecoration(
+        color: _hive.withAlpha(15),
+        borderRadius: BorderRadius.circular(8),
+        border: Border.all(color: _hive.withAlpha(120)),
+      ),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          const Text('Root Hive',
+              style: TextStyle(
+                  color: Colors.white,
+                  fontSize: 16,
+                  fontWeight: FontWeight.bold)),
+          const SizedBox(height: 4),
+          Text(
+            '7 letters, one in center. Every Quranic word below can be made '
+            'from them.',
+            style: TextStyle(color: _hive.withAlpha(180), fontSize: 12),
+          ),
+          const SizedBox(height: 14),
+          _buildHiveRootBox(hive),
+          if (family.isNotEmpty) ...[
+            const SizedBox(height: 18),
+            _hiveTitle('Words from the root'),
+            const SizedBox(height: 8),
+            _hiveGrid(
+              [for (final w in family) ...w.senses],
+              highlight: true,
+            ),
+          ],
+          if (others.isNotEmpty) ...[
+            const SizedBox(height: 18),
+            _hiveTitle('Other words in the hive'),
+            const SizedBox(height: 8),
+            _hiveGrid([for (final w in others) ...w.senses]),
+          ],
+        ],
+      ),
+    );
+  }
+
+  /// Even grid: each row is as tall as its tallest card, and cards in a row
+  /// stretch to match, so uneven content never leaves a ragged grid.
+  Widget _hiveGrid(List<RootHiveSense> senses, {bool highlight = false}) {
+    return LayoutBuilder(builder: (context, c) {
+      const gap = 10.0;
+      final cols = c.maxWidth >= 420 ? 2 : 1;
+      final rows = <Widget>[];
+      for (int i = 0; i < senses.length; i += cols) {
+        final cells = <Widget>[];
+        for (int k = 0; k < cols; k++) {
+          if (k > 0) cells.add(const SizedBox(width: gap));
+          final idx = i + k;
+          cells.add(Expanded(
+            child: idx < senses.length
+                ? _buildHiveLemmaCard(senses[idx], highlight: highlight)
+                : const SizedBox.shrink(),
+          ));
+        }
+        if (rows.isNotEmpty) rows.add(const SizedBox(height: gap));
+        rows.add(IntrinsicHeight(
+          child: Row(
+            crossAxisAlignment: CrossAxisAlignment.stretch,
+            children: cells,
+          ),
+        ));
+      }
+      return Column(children: rows);
+    });
+  }
+
+  Widget _buildHiveLemmaCard(RootHiveSense s, {bool highlight = false}) {
+    final canSearch = widget.onSearchLemma != null;
+    final hasForm = s.form != null && _formNames[s.form] != null;
+
+    return _hiveInnerCard(
+      highlight: highlight,
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Row(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              // Left: gloss + alt
+              Expanded(
+                flex: 4,
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Text(s.gloss,
+                        style: const TextStyle(
+                            color: Colors.white70, fontSize: 13)),
+                    if (s.alt.isNotEmpty)
+                      Padding(
+                        padding: const EdgeInsets.only(top: 2),
+                        child: Text(s.alt.join('; '),
+                            style: const TextStyle(
+                                color: Colors.white38, fontSize: 12)),
+                      ),
+                  ],
+                ),
+              ),
+              const SizedBox(width: 8),
+              // Right: root + lemma
+              Flexible(
+                flex: 5,
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.end,
+                  children: [
+                    Directionality(
+                      textDirection: TextDirection.rtl,
+                      child: Text(s.root,
+                          style: TextStyle(
+                              color: _hiveLight,
+                              fontSize: 28,
+                              height: 1.5,
+                              fontFamily: 'Amiri Quran')),
+                    ),
+                    const SizedBox(height: 4),
+                    InkWell(
+                      borderRadius: BorderRadius.circular(6),
+                      onTap: canSearch
+                          ? () => widget.onSearchLemma!(s.lemma)
+                          : null,
+                      child: FittedBox(
+                        fit: BoxFit.scaleDown,
+                        alignment: Alignment.centerRight,
+                        child: Directionality(
+                          textDirection: TextDirection.rtl,
+                          child: Text(s.lemma,
+                              style: const TextStyle(
+                                color: Colors.white,
+                                fontSize: 50,
+                                height: 1.7,
+                                fontFamily: 'Amiri Quran',
+                              )),
+                        ),
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+            ],
+          ),
+          const Spacer(),
+          const SizedBox(height: 10),
+          Row(
+            crossAxisAlignment: CrossAxisAlignment.end,
+            children: [
+              // Bottom left: form (if any) above type
+              Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                mainAxisSize: MainAxisSize.min,
+                children: [
+                  if (hasForm) ...[
+                    _hiveChip('form ${_formNames[s.form]!.toLowerCase()}',
+                        _hiveFormColor(s.form!)),
+                    const SizedBox(height: 6),
+                  ],
+                  _hiveChip(s.type.toLowerCase(), _hivePosColor(s.type)),
+                ],
+              ),
+              const Spacer(),
+              // Bottom right: count + ref
+              Padding(
+                padding: const EdgeInsets.only(bottom: 2),
+                child: Row(
+                  mainAxisSize: MainAxisSize.min,
+                  children: [
+                    Text('${s.count}x',
+                        style: const TextStyle(
+                            color: Colors.cyan, fontSize: 13)),
+                    if (s.ref.isNotEmpty) ...[
+                      const SizedBox(width: 10),
+                      _buildHiveRefLink(s.ref),
+                    ],
+                  ],
+                ),
+              ),
+            ],
+          ),
+        ],
+      ),
+    );
+  }
+
+  Widget _hiveTitle(String text) => Text(text,
+      style: TextStyle(
+          color: _hiveLight, fontSize: 14, fontWeight: FontWeight.bold));
+
+  /// Small tag in the same style as the List panel's noun/verb chips.
+  Widget _hiveChip(String text, Color color) => Container(
+        padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 3),
+        decoration: BoxDecoration(
+          color: color.withAlpha(35),
+          borderRadius: BorderRadius.circular(4),
+          border: Border.all(color: color.withAlpha(140)),
+        ),
+        child: Text(text,
+            style: TextStyle(
+              color: color,
+              fontSize: 10,
+              fontWeight: FontWeight.w600,
+              letterSpacing: 0.3,
+            )),
+      );
+
+  Widget _hiveInnerCard({required Widget child, bool highlight = false}) =>
+      Container(
+        width: double.infinity,
+        padding: const EdgeInsets.all(12),
+        decoration: BoxDecoration(
+          color: Colors.white.withAlpha(8),
+          borderRadius: BorderRadius.circular(10),
+          border: Border.all(
+            color: highlight ? _hive.withAlpha(180) : Colors.white12,
+            width: highlight ? 1.5 : 1,
+          ),
+        ),
+        child: child,
+      );
+
+      /// Honeycomb: center letter with the six outer letters around it.
+      /// Letters that belong to the featured root are brighter.
+      Widget _buildHiveLetters(RootHiveData hive) {
+        const w = 60.0;
+        final h = w * 0.8660254; // flat-top hexagon height
+        const g = 1.06; // small gap between hexagons
+        final dx = 0.75 * w * g;
+        final dy = h * g;
+        final totalW = 2 * dx + w;
+        final totalH = 2 * dy + h;
+        final cx = totalW / 2;
+        final cy = totalH / 2;
+
+        Widget hex(String ch, double ox, double oy, {bool center = false}) {
+          final inRoot = hive.root.letters.contains(ch);
+          final fill = center
+              ? Colors.amber.shade700 // dark yellow
+              : (inRoot ? Colors.amber.withAlpha(110) : Colors.white.withAlpha(14));
+          final stroke = center
+              ? Colors.amber.shade700
+              : (inRoot ? Colors.amber : Colors.white24);
+          final textColor = center
+              ? Colors.black87
+              : (inRoot ? Colors.amber.shade200 : Colors.white70);
+          return Positioned(
+            left: cx + ox - w / 2,
+            top: cy + oy - h / 2,
+            width: w,
+            height: h,
+            child: CustomPaint(
+              painter: _HexPainter(fill: fill, stroke: stroke),
+              child: Center(
+                child: Text(ch,
+                    style: TextStyle(
+                      fontSize: 30,
+                      height: 1.2,
+                      fontFamily: 'Amiri Quran',
+                      color: textColor,
+                    )),
+              ),
+            ),
+          );
+        }
+
+    // top, upper-right, lower-right, bottom, lower-left, upper-left
+    final ring = <Offset>[
+      Offset(0, -dy),
+      Offset(dx, -dy / 2),
+      Offset(dx, dy / 2),
+      Offset(0, dy),
+      Offset(-dx, dy / 2),
+      Offset(-dx, -dy / 2),
+    ];
+
+    return Column(
+      children: [
+        SizedBox(
+          width: totalW,
+          height: totalH,
+          child: Stack(
+            children: [
+              for (int i = 0; i < hive.outer.length && i < ring.length; i++)
+                hex(hive.outer[i], ring[i].dx, ring[i].dy),
+              hex(hive.center, 0, 0, center: true),
+            ],
+          ),
+        ),
+        const SizedBox(height: 6),
+        const Text('Dark = center letter  •  yellow = letters of the root',
+              style: TextStyle(fontSize: 11, color: Colors.white38)),
+      ],
+    );
+  }
+
+  Widget _buildHiveRootBox(RootHiveData hive) {
+    final r = hive.root;
+    return _hiveInnerCard(
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          const Text('Featured root',
+              style: TextStyle(color: Colors.white38, fontSize: 12)),
+          const SizedBox(height: 10),
+          Center(child: _buildHiveLetters(hive)),
+          const SizedBox(height: 12),
+          Row(
+            crossAxisAlignment: CrossAxisAlignment.center,
+            children: [
+              Expanded(
+                child: Wrap(
+                  crossAxisAlignment: WrapCrossAlignment.center,
+                  spacing: 24,
+                  children: [
+                    Directionality(
+                      textDirection: TextDirection.rtl,
+                      child: Text(r.display,
+                          style: TextStyle(
+                              color: _hiveLight,
+                              fontSize: 55,
+                              height: 1.5,
+                              fontFamily: 'Amiri Quran')),
+                    ),
+                    Directionality(
+                      textDirection: TextDirection.rtl,
+                      child: Text(r.letters,
+                          style: const TextStyle(
+                              color: Colors.white,
+                              fontSize: 55,
+                              height: 1.5,
+                              fontFamily: 'Amiri Quran')),
+                    ),
+                    Text(r.translit,
+                        style: const TextStyle(
+                            color: Colors.amber, fontSize: 13)),
+                  ],
+                ),
+              ),
+              Text('${r.occurrences}x',
+                  style: const TextStyle(color: Colors.cyan, fontSize: 13)),
+            ],
+          ),
+          const SizedBox(height: 6),
+          Text(r.meaning,
+              style: const TextStyle(
+                  color: Colors.white70, fontSize: 13, height: 1.4)),
+          const SizedBox(height: 8),
+          Text('${r.lemmaCount} word forms',
+              style: const TextStyle(color: Colors.white38, fontSize: 12)),
+        ],
+      ),
+    );
+  }
+
+  /// Same ref link behaviour as the harf / scramble cards:
+  /// blue + play icon when audio is loaded, amber when it can load a tafsir,
+  /// grey otherwise (with the info tooltip).
+  Widget _buildHiveRefLink(String ref) {
+    final canNavigate = widget.isQuranLoaded && widget.onVerseSelected != null;
+    return GestureDetector(
+      onTap: canNavigate
+          ? () => _playRef(ref)
+          : (widget.onLoadTafsirRef != null
+              ? () => widget.onLoadTafsirRef!(ref)
+              : null),
+      child: Row(
+        mainAxisSize: MainAxisSize.min,
+        children: [
+          if (canNavigate) ...[
+            const Icon(Icons.play_circle_outline,
+                size: 14, color: Colors.lightBlueAccent),
+            const SizedBox(width: 4),
+          ],
+          Text(ref,
+              style: TextStyle(
+                color: canNavigate
+                    ? Colors.lightBlueAccent
+                    : (widget.onLoadTafsirRef != null
+                        ? Colors.amber
+                        : Colors.white38),
+                fontSize: 14,
+                fontWeight: FontWeight.bold,
+              )),
+          if (!canNavigate) ...[
+            const SizedBox(width: 6),
+            _buildLoadTafsirPrompt(),
+          ],
+        ],
+      ),
+    );
+  }
+}
+
+/// Flat-top hexagon, same shape as the Root Hive game board.
+class _HexPainter extends CustomPainter {
+  final Color fill;
+  final Color stroke;
+  final double strokeWidth;
+  const _HexPainter({
+    required this.fill,
+    required this.stroke,
+    this.strokeWidth = 1.5,
+  });
+
+  Path _path(Size s) {
+    final w = s.width, h = s.height;
+    return Path()
+      ..moveTo(w * 0.25, 0)
+      ..lineTo(w * 0.75, 0)
+      ..lineTo(w, h / 2)
+      ..lineTo(w * 0.75, h)
+      ..lineTo(w * 0.25, h)
+      ..lineTo(0, h / 2)
+      ..close();
+  }
+
+  @override
+  void paint(Canvas canvas, Size size) {
+    final p = _path(size);
+    canvas.drawPath(p, Paint()..color = fill);
+    canvas.drawPath(
+      p,
+      Paint()
+        ..color = stroke
+        ..style = PaintingStyle.stroke
+        ..strokeWidth = strokeWidth
+        ..strokeJoin = StrokeJoin.round,
+    );
+  }
+
+  @override
+  bool shouldRepaint(_HexPainter old) =>
+      old.fill != fill || old.stroke != stroke || old.strokeWidth != strokeWidth;
 }

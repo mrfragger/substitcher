@@ -8942,6 +8942,7 @@ class _PlayerScreenState extends State<PlayerScreen>
                   quranVerseIndexBuilding: _quranVerseIndexBuilding,
                   onQuranVerseSearchChanged: _searchQuranVerseText,
                   onQuranVerseSearchResultTap: _jumpToQuranVerseSearchResult,
+                  onSearchLemma: _openLemmaInTafsir,
                   isExportingMarkdown: _isExportingMarkdown,
                   exportStatus: _exportStatus,
                   onExportMarkdown: _isQuranVerseByVerse
